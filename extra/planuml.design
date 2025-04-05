@@ -1,0 +1,41 @@
+@startuml
+!theme vibrant
+left to right direction
+title T20 Chase Prediction Design
+
+person Simulator as "T20 Match Score\n(Simulator)"
+queue Kafka as "Deliveries Topic"
+
+rectangle Flink as "Flink App" {
+  component KafkaSrc as "Kafka Source"
+  component Processor as "Processor\n(Transformations)"
+  component RedisSink as "Redis Sink"
+}
+
+database Redis as "Redis Store" {
+ component store as "key: model-input-json"
+}
+
+rectangle StreamLit as "StreamLit App" {
+  component WebService as "Internal WebService"
+  component Charts as "Charts / Visualization\n(Displayed in UI)"
+}
+
+rectangle Flask as "Chase Prediction Service"{
+  component ModelService as "Flask WebService\n(Model)"
+}
+
+'--- Flows ---
+Simulator --> Kafka : produce deliveries
+
+Kafka --> KafkaSrc: consume
+KafkaSrc --> Processor
+Processor --> RedisSink
+RedisSink --> store : update data
+
+WebService --> store : fetch updates
+WebService --> ModelService : request
+ModelService --> WebService : response
+WebService --> Charts : render UI
+
+@enduml
