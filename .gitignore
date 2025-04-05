@@ -98,3 +98,4 @@ venv.bak/
 .dask/
 
 checkpoints/
+.idea/
