@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,New Zealand,0,C Munro,Imad Wasim,GD Phillips,,0,6,6,,,,394323943
+1,New Zealand,0,C Munro,Imad Wasim,GD Phillips,,0,3,3,,,,394323943
+1,New Zealand,0,GD Phillips,Imad Wasim,C Munro,,0,1,1,,,,394323943
+1,New Zealand,0,C Munro,Imad Wasim,GD Phillips,,0,1,1,,,,394323943
+1,New Zealand,0,GD Phillips,Imad Wasim,C Munro,,0,1,1,,,,394323943
+1,New Zealand,0,C Munro,Imad Wasim,GD Phillips,,0,1,1,,,,394323943
+1,New Zealand,1,C Munro,Faheem Ashraf,GD Phillips,,0,0,0,,,,394323943
+1,New Zealand,1,C Munro,Faheem Ashraf,GD Phillips,,0,4,4,,,,394323943
+1,New Zealand,1,C Munro,Faheem Ashraf,GD Phillips,,0,4,4,,,,394323943
+1,New Zealand,1,C Munro,Faheem Ashraf,GD Phillips,,0,0,0,,,,394323943
+1,New Zealand,1,C Munro,Faheem Ashraf,GD Phillips,,0,1,1,,,,394323943
+1,New Zealand,1,GD Phillips,Faheem Ashraf,C Munro,,0,0,0,,,,394323943
+1,New Zealand,2,C Munro,Mohammad Hafeez,GD Phillips,,0,0,0,,,,394323943
+1,New Zealand,2,C Munro,Mohammad Hafeez,GD Phillips,,0,1,1,,,,394323943
+1,New Zealand,2,GD Phillips,Mohammad Hafeez,C Munro,,0,0,0,,,,394323943
+1,New Zealand,2,GD Phillips,Mohammad Hafeez,C Munro,,0,1,1,,,,394323943
+1,New Zealand,2,C Munro,Mohammad Hafeez,GD Phillips,,0,4,4,,,,394323943
+1,New Zealand,2,C Munro,Mohammad Hafeez,GD Phillips,,0,1,1,,,,394323943
+1,New Zealand,3,C Munro,Faheem Ashraf,GD Phillips,,0,0,0,,,,394323943
+1,New Zealand,3,C Munro,Faheem Ashraf,GD Phillips,,0,6,6,,,,394323943
+1,New Zealand,3,C Munro,Faheem Ashraf,GD Phillips,,0,1,1,,,,394323943
+1,New Zealand,3,GD Phillips,Faheem Ashraf,C Munro,,0,0,0,,,,394323943
+1,New Zealand,3,GD Phillips,Faheem Ashraf,C Munro,,0,0,0,,,,394323943
+1,New Zealand,3,GD Phillips,Faheem Ashraf,C Munro,,0,0,0,,,,394323943
+1,New Zealand,4,C Munro,Hasan Ali,GD Phillips,,0,0,0,,,,394323943
+1,New Zealand,4,C Munro,Hasan Ali,GD Phillips,noballs,1,1,0,,,,394323943
+1,New Zealand,4,C Munro,Hasan Ali,GD Phillips,noballs,1,2,1,,,,394323943
+1,New Zealand,4,GD Phillips,Hasan Ali,C Munro,,0,1,1,,,,394323943
+1,New Zealand,4,C Munro,Hasan Ali,GD Phillips,,0,1,1,,,,394323943
+1,New Zealand,4,GD Phillips,Hasan Ali,C Munro,,0,1,1,,,,394323943
+1,New Zealand,4,C Munro,Hasan Ali,GD Phillips,,0,4,4,,,,394323943
+1,New Zealand,4,C Munro,Hasan Ali,GD Phillips,,0,1,1,,,,394323943
+1,New Zealand,5,C Munro,Shaheen Shah Afridi,GD Phillips,,0,2,2,,,,394323943
+1,New Zealand,5,C Munro,Shaheen Shah Afridi,GD Phillips,,0,0,0,,,,394323943
+1,New Zealand,5,C Munro,Shaheen Shah Afridi,GD Phillips,,0,1,1,,,,394323943
+1,New Zealand,5,GD Phillips,Shaheen Shah Afridi,C Munro,,0,0,0,,,,394323943
+1,New Zealand,5,GD Phillips,Shaheen Shah Afridi,C Munro,,0,0,0,caught,GD Phillips,Sarfraz Ahmed,394323943
+1,New Zealand,5,KS Williamson,Shaheen Shah Afridi,C Munro,,0,0,0,,,,394323943
+1,New Zealand,6,C Munro,Mohammad Hafeez,KS Williamson,legbyes,1,1,0,,,,394323943
+1,New Zealand,6,KS Williamson,Mohammad Hafeez,C Munro,,0,1,1,,,,394323943
+1,New Zealand,6,C Munro,Mohammad Hafeez,KS Williamson,,0,1,1,,,,394323943
+1,New Zealand,6,KS Williamson,Mohammad Hafeez,C Munro,,0,2,2,,,,394323943
+1,New Zealand,6,KS Williamson,Mohammad Hafeez,C Munro,,0,1,1,,,,394323943
+1,New Zealand,6,C Munro,Mohammad Hafeez,KS Williamson,,0,0,0,stumped,C Munro,Sarfraz Ahmed,394323943
+1,New Zealand,7,KS Williamson,Imad Wasim,C de Grandhomme,,0,2,2,,,,394323943
+1,New Zealand,7,KS Williamson,Imad Wasim,C de Grandhomme,,0,1,1,,,,394323943
+1,New Zealand,7,C de Grandhomme,Imad Wasim,KS Williamson,,0,1,1,,,,394323943
+1,New Zealand,7,KS Williamson,Imad Wasim,C de Grandhomme,,0,1,1,,,,394323943
+1,New Zealand,7,C de Grandhomme,Imad Wasim,KS Williamson,,0,1,1,,,,394323943
+1,New Zealand,7,KS Williamson,Imad Wasim,C de Grandhomme,,0,0,0,,,,394323943
+1,New Zealand,8,C de Grandhomme,Shadab Khan,KS Williamson,,0,0,0,,,,394323943
+1,New Zealand,8,C de Grandhomme,Shadab Khan,KS Williamson,,0,0,0,,,,394323943
+1,New Zealand,8,C de Grandhomme,Shadab Khan,KS Williamson,,0,1,1,,,,394323943
+1,New Zealand,8,KS Williamson,Shadab Khan,C de Grandhomme,,0,0,0,,,,394323943
+1,New Zealand,8,KS Williamson,Shadab Khan,C de Grandhomme,,0,2,2,,,,394323943
+1,New Zealand,8,KS Williamson,Shadab Khan,C de Grandhomme,,0,0,0,,,,394323943
+1,New Zealand,9,C de Grandhomme,Imad Wasim,KS Williamson,,0,0,0,,,,394323943
+1,New Zealand,9,C de Grandhomme,Imad Wasim,KS Williamson,,0,1,1,,,,394323943
+1,New Zealand,9,KS Williamson,Imad Wasim,C de Grandhomme,,0,1,1,,,,394323943
+1,New Zealand,9,C de Grandhomme,Imad Wasim,KS Williamson,,0,0,0,caught,C de Grandhomme,Shoaib Malik,394323943
+1,New Zealand,9,KS Williamson,Imad Wasim,LRPL Taylor,,0,1,1,,,,394323943
+1,New Zealand,9,LRPL Taylor,Imad Wasim,KS Williamson,,0,0,0,,,,394323943
+1,New Zealand,10,KS Williamson,Shadab Khan,LRPL Taylor,,0,0,0,,,,394323943
+1,New Zealand,10,KS Williamson,Shadab Khan,LRPL Taylor,,0,0,0,,,,394323943
+1,New Zealand,10,KS Williamson,Shadab Khan,LRPL Taylor,,0,0,0,,,,394323943
+1,New Zealand,10,KS Williamson,Shadab Khan,LRPL Taylor,,0,1,1,,,,394323943
+1,New Zealand,10,LRPL Taylor,Shadab Khan,KS Williamson,,0,1,1,,,,394323943
+1,New Zealand,10,KS Williamson,Shadab Khan,LRPL Taylor,,0,2,2,,,,394323943
+1,New Zealand,11,LRPL Taylor,Imad Wasim,KS Williamson,,0,1,1,,,,394323943
+1,New Zealand,11,KS Williamson,Imad Wasim,LRPL Taylor,,0,1,1,,,,394323943
+1,New Zealand,11,LRPL Taylor,Imad Wasim,KS Williamson,legbyes,1,1,0,,,,394323943
+1,New Zealand,11,KS Williamson,Imad Wasim,LRPL Taylor,,0,1,1,,,,394323943
+1,New Zealand,11,LRPL Taylor,Imad Wasim,KS Williamson,,0,0,0,,,,394323943
+1,New Zealand,11,LRPL Taylor,Imad Wasim,KS Williamson,,0,0,0,,,,394323943
+1,New Zealand,12,KS Williamson,Shadab Khan,LRPL Taylor,,0,1,1,,,,394323943
+1,New Zealand,12,LRPL Taylor,Shadab Khan,KS Williamson,,0,1,1,,,,394323943
+1,New Zealand,12,KS Williamson,Shadab Khan,LRPL Taylor,,0,4,4,,,,394323943
+1,New Zealand,12,KS Williamson,Shadab Khan,LRPL Taylor,,0,1,1,run out,LRPL Taylor,,394323943
+1,New Zealand,12,KS Williamson,Shadab Khan,CJ Anderson,,0,1,1,,,,394323943
+1,New Zealand,12,CJ Anderson,Shadab Khan,KS Williamson,wides,1,1,0,,,,394323943
+1,New Zealand,12,CJ Anderson,Shadab Khan,KS Williamson,,0,0,0,,,,394323943
+1,New Zealand,13,KS Williamson,Shaheen Shah Afridi,CJ Anderson,,0,1,1,,,,394323943
+1,New Zealand,13,CJ Anderson,Shaheen Shah Afridi,KS Williamson,,0,0,0,,,,394323943
+1,New Zealand,13,CJ Anderson,Shaheen Shah Afridi,KS Williamson,,0,1,1,,,,394323943
+1,New Zealand,13,KS Williamson,Shaheen Shah Afridi,CJ Anderson,,0,1,1,,,,394323943
+1,New Zealand,13,CJ Anderson,Shaheen Shah Afridi,KS Williamson,,0,1,1,,,,394323943
+1,New Zealand,13,KS Williamson,Shaheen Shah Afridi,CJ Anderson,,0,1,1,,,,394323943
+1,New Zealand,14,KS Williamson,Faheem Ashraf,CJ Anderson,,0,2,2,,,,394323943
+1,New Zealand,14,KS Williamson,Faheem Ashraf,CJ Anderson,,0,1,1,,,,394323943
+1,New Zealand,14,CJ Anderson,Faheem Ashraf,KS Williamson,,0,0,0,,,,394323943
+1,New Zealand,14,CJ Anderson,Faheem Ashraf,KS Williamson,,0,4,4,,,,394323943
+1,New Zealand,14,CJ Anderson,Faheem Ashraf,KS Williamson,,0,0,0,,,,394323943
+1,New Zealand,14,CJ Anderson,Faheem Ashraf,KS Williamson,,0,4,4,,,,394323943
+1,New Zealand,15,KS Williamson,Shadab Khan,CJ Anderson,,0,4,4,,,,394323943
+1,New Zealand,15,KS Williamson,Shadab Khan,CJ Anderson,,0,1,1,,,,394323943
+1,New Zealand,15,CJ Anderson,Shadab Khan,KS Williamson,,0,0,0,,,,394323943
+1,New Zealand,15,CJ Anderson,Shadab Khan,KS Williamson,,0,1,1,,,,394323943
+1,New Zealand,15,KS Williamson,Shadab Khan,CJ Anderson,,0,1,1,,,,394323943
+1,New Zealand,15,CJ Anderson,Shadab Khan,KS Williamson,,0,1,1,,,,394323943
+1,New Zealand,16,CJ Anderson,Hasan Ali,KS Williamson,,0,1,1,,,,394323943
+1,New Zealand,16,KS Williamson,Hasan Ali,CJ Anderson,,0,1,1,,,,394323943
+1,New Zealand,16,CJ Anderson,Hasan Ali,KS Williamson,,0,0,0,,,,394323943
+1,New Zealand,16,CJ Anderson,Hasan Ali,KS Williamson,,0,6,6,,,,394323943
+1,New Zealand,16,CJ Anderson,Hasan Ali,KS Williamson,,0,4,4,,,,394323943
+1,New Zealand,16,CJ Anderson,Hasan Ali,KS Williamson,,0,4,4,,,,394323943
+1,New Zealand,17,KS Williamson,Shaheen Shah Afridi,CJ Anderson,,0,0,0,caught,KS Williamson,Fakhar Zaman,394323943
+1,New Zealand,17,CJ Anderson,Shaheen Shah Afridi,TL Seifert,,0,0,0,,,,394323943
+1,New Zealand,17,CJ Anderson,Shaheen Shah Afridi,TL Seifert,,0,1,1,,,,394323943
+1,New Zealand,17,TL Seifert,Shaheen Shah Afridi,CJ Anderson,,0,0,0,,,,394323943
+1,New Zealand,17,TL Seifert,Shaheen Shah Afridi,CJ Anderson,,0,0,0,,,,394323943
+1,New Zealand,17,TL Seifert,Shaheen Shah Afridi,CJ Anderson,,0,0,0,,,,394323943
+1,New Zealand,18,CJ Anderson,Hasan Ali,TL Seifert,,0,1,1,,,,394323943
+1,New Zealand,18,TL Seifert,Hasan Ali,CJ Anderson,,0,4,4,,,,394323943
+1,New Zealand,18,TL Seifert,Hasan Ali,CJ Anderson,,0,1,1,,,,394323943
+1,New Zealand,18,CJ Anderson,Hasan Ali,TL Seifert,,0,6,6,,,,394323943
+1,New Zealand,18,CJ Anderson,Hasan Ali,TL Seifert,,0,2,2,,,,394323943
+1,New Zealand,18,CJ Anderson,Hasan Ali,TL Seifert,,0,2,2,,,,394323943
+1,New Zealand,19,TL Seifert,Shaheen Shah Afridi,CJ Anderson,,0,6,6,,,,394323943
+1,New Zealand,19,TL Seifert,Shaheen Shah Afridi,CJ Anderson,,0,0,0,caught,TL Seifert,Shadab Khan,394323943
+1,New Zealand,19,CJ Anderson,Shaheen Shah Afridi,TG Southee,,0,1,1,,,,394323943
+1,New Zealand,19,TG Southee,Shaheen Shah Afridi,CJ Anderson,,0,0,0,run out,TG Southee,,394323943
+1,New Zealand,19,CJ Anderson,Shaheen Shah Afridi,AF Milne,,0,2,2,,,,394323943
+1,New Zealand,19,CJ Anderson,Shaheen Shah Afridi,AF Milne,,0,2,2,,,,394323943

@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,England,0,JL Denly,DW Steyn,AN Cook,,0,0,0,,,,310323103
+2,England,0,JL Denly,DW Steyn,AN Cook,,0,1,1,,,,310323103
+2,England,0,AN Cook,DW Steyn,JL Denly,,0,0,0,,,,310323103
+2,England,0,AN Cook,DW Steyn,JL Denly,,0,0,0,,,,310323103
+2,England,0,AN Cook,DW Steyn,JL Denly,,0,1,1,,,,310323103
+2,England,0,JL Denly,DW Steyn,AN Cook,,0,1,1,,,,310323103
+2,England,1,JL Denly,YA Abdulla,AN Cook,,0,0,0,,,,310323103
+2,England,1,JL Denly,YA Abdulla,AN Cook,wides,1,1,0,,,,310323103
+2,England,1,JL Denly,YA Abdulla,AN Cook,,0,0,0,,,,310323103
+2,England,1,JL Denly,YA Abdulla,AN Cook,,0,4,4,,,,310323103
+2,England,1,JL Denly,YA Abdulla,AN Cook,,0,1,1,,,,310323103
+2,England,1,AN Cook,YA Abdulla,JL Denly,,0,0,0,,,,310323103
+2,England,1,AN Cook,YA Abdulla,JL Denly,,0,4,4,,,,310323103
+2,England,2,JL Denly,DW Steyn,AN Cook,,0,0,0,,,,310323103
+2,England,2,JL Denly,DW Steyn,AN Cook,,0,0,0,,,,310323103
+2,England,2,JL Denly,DW Steyn,AN Cook,,0,4,4,,,,310323103
+2,England,2,JL Denly,DW Steyn,AN Cook,,0,0,0,,,,310323103
+2,England,2,JL Denly,DW Steyn,AN Cook,,0,2,2,,,,310323103
+2,England,2,JL Denly,DW Steyn,AN Cook,,0,1,1,,,,310323103
+2,England,3,JL Denly,YA Abdulla,AN Cook,,0,0,0,bowled,JL Denly,,310323103
+2,England,3,IJL Trott,YA Abdulla,AN Cook,,0,0,0,,,,310323103
+2,England,3,IJL Trott,YA Abdulla,AN Cook,,0,0,0,,,,310323103
+2,England,3,IJL Trott,YA Abdulla,AN Cook,,0,0,0,,,,310323103
+2,England,3,IJL Trott,YA Abdulla,AN Cook,,0,1,1,,,,310323103
+2,England,3,AN Cook,YA Abdulla,IJL Trott,,0,0,0,,,,310323103
+2,England,4,IJL Trott,R McLaren,AN Cook,,0,0,0,,,,310323103
+2,England,4,IJL Trott,R McLaren,AN Cook,,0,2,2,,,,310323103
+2,England,4,IJL Trott,R McLaren,AN Cook,,0,4,4,,,,310323103
+2,England,4,IJL Trott,R McLaren,AN Cook,,0,2,2,,,,310323103
+2,England,4,IJL Trott,R McLaren,AN Cook,,0,0,0,,,,310323103
+2,England,4,IJL Trott,R McLaren,AN Cook,,0,1,1,,,,310323103
+2,England,5,IJL Trott,YA Abdulla,AN Cook,,0,1,1,,,,310323103
+2,England,5,AN Cook,YA Abdulla,IJL Trott,,0,4,4,,,,310323103
+2,England,5,AN Cook,YA Abdulla,IJL Trott,,0,4,4,,,,310323103
+2,England,5,AN Cook,YA Abdulla,IJL Trott,,0,0,0,,,,310323103
+2,England,5,AN Cook,YA Abdulla,IJL Trott,,0,4,4,,,,310323103
+2,England,5,AN Cook,YA Abdulla,IJL Trott,,0,0,0,,,,310323103
+2,England,6,IJL Trott,RE van der Merwe,AN Cook,,0,0,0,,,,310323103
+2,England,6,IJL Trott,RE van der Merwe,AN Cook,,0,1,1,,,,310323103
+2,England,6,AN Cook,RE van der Merwe,IJL Trott,,0,1,1,,,,310323103
+2,England,6,IJL Trott,RE van der Merwe,AN Cook,,0,0,0,,,,310323103
+2,England,6,IJL Trott,RE van der Merwe,AN Cook,,0,0,0,,,,310323103
+2,England,6,IJL Trott,RE van der Merwe,AN Cook,,0,1,1,,,,310323103
+2,England,7,IJL Trott,R McLaren,AN Cook,,0,1,1,,,,310323103
+2,England,7,AN Cook,R McLaren,IJL Trott,,0,0,0,,,,310323103
+2,England,7,AN Cook,R McLaren,IJL Trott,,0,0,0,,,,310323103
+2,England,7,AN Cook,R McLaren,IJL Trott,,0,1,1,,,,310323103
+2,England,7,IJL Trott,R McLaren,AN Cook,,0,1,1,,,,310323103
+2,England,7,AN Cook,R McLaren,IJL Trott,,0,1,1,,,,310323103
+2,England,8,AN Cook,RE van der Merwe,IJL Trott,,0,1,1,,,,310323103
+2,England,8,IJL Trott,RE van der Merwe,AN Cook,,0,6,6,,,,310323103
+2,England,8,IJL Trott,RE van der Merwe,AN Cook,,0,1,1,,,,310323103
+2,England,8,AN Cook,RE van der Merwe,IJL Trott,,0,4,4,,,,310323103
+2,England,8,AN Cook,RE van der Merwe,IJL Trott,,0,1,1,,,,310323103
+2,England,8,IJL Trott,RE van der Merwe,AN Cook,,0,1,1,,,,310323103
+2,England,9,IJL Trott,JA Morkel,AN Cook,,0,1,1,,,,310323103
+2,England,9,AN Cook,JA Morkel,IJL Trott,,0,0,0,,,,310323103
+2,England,9,AN Cook,JA Morkel,IJL Trott,,0,0,0,caught,AN Cook,RE van der Merwe,310323103
+2,England,9,KP Pietersen,JA Morkel,IJL Trott,,0,1,1,,,,310323103
+2,England,9,IJL Trott,JA Morkel,KP Pietersen,,0,1,1,,,,310323103
+2,England,9,KP Pietersen,JA Morkel,IJL Trott,,0,1,1,,,,310323103
+2,England,10,KP Pietersen,RE van der Merwe,IJL Trott,,0,1,1,,,,310323103
+2,England,10,IJL Trott,RE van der Merwe,KP Pietersen,,0,1,1,,,,310323103
+2,England,10,KP Pietersen,RE van der Merwe,IJL Trott,,0,1,1,,,,310323103
+2,England,10,IJL Trott,RE van der Merwe,KP Pietersen,,0,1,1,,,,310323103
+2,England,10,KP Pietersen,RE van der Merwe,IJL Trott,,0,6,6,,,,310323103
+2,England,10,KP Pietersen,RE van der Merwe,IJL Trott,,0,0,0,,,,310323103
+2,England,11,IJL Trott,JA Morkel,KP Pietersen,,0,6,6,,,,310323103
+2,England,11,IJL Trott,JA Morkel,KP Pietersen,,0,1,1,,,,310323103
+2,England,11,KP Pietersen,JA Morkel,IJL Trott,,0,1,1,,,,310323103
+2,England,11,IJL Trott,JA Morkel,KP Pietersen,,0,1,1,,,,310323103
+2,England,11,KP Pietersen,JA Morkel,IJL Trott,,0,1,1,,,,310323103
+2,England,11,IJL Trott,JA Morkel,KP Pietersen,,0,2,2,,,,310323103
+2,England,12,KP Pietersen,YA Abdulla,IJL Trott,,0,1,1,,,,310323103
+2,England,12,IJL Trott,YA Abdulla,KP Pietersen,,0,0,0,,,,310323103
+2,England,12,IJL Trott,YA Abdulla,KP Pietersen,,0,0,0,,,,310323103
+2,England,12,IJL Trott,YA Abdulla,KP Pietersen,,0,1,1,,,,310323103
+2,England,12,KP Pietersen,YA Abdulla,IJL Trott,,0,1,1,,,,310323103
+2,England,12,IJL Trott,YA Abdulla,KP Pietersen,,0,1,1,,,,310323103
+2,England,13,IJL Trott,DW Steyn,KP Pietersen,,0,3,3,,,,310323103
+2,England,13,KP Pietersen,DW Steyn,IJL Trott,,0,6,6,,,,310323103
+2,England,13,KP Pietersen,DW Steyn,IJL Trott,,0,1,1,,,,310323103
+2,England,13,IJL Trott,DW Steyn,KP Pietersen,,0,1,1,,,,310323103
+2,England,13,KP Pietersen,DW Steyn,IJL Trott,,0,1,1,,,,310323103
+2,England,13,IJL Trott,DW Steyn,KP Pietersen,,0,0,0,,,,310323103
+2,England,14,KP Pietersen,R McLaren,IJL Trott,,0,1,1,,,,310323103
+2,England,14,IJL Trott,R McLaren,KP Pietersen,,0,1,1,,,,310323103
+2,England,14,KP Pietersen,R McLaren,IJL Trott,,0,1,1,,,,310323103
+2,England,14,IJL Trott,R McLaren,KP Pietersen,,0,6,6,,,,310323103
+2,England,14,IJL Trott,R McLaren,KP Pietersen,,0,1,1,,,,310323103
+2,England,14,KP Pietersen,R McLaren,IJL Trott,,0,0,0,,,,310323103
+2,England,15,IJL Trott,JA Morkel,KP Pietersen,wides,1,1,0,,,,310323103
+2,England,15,IJL Trott,JA Morkel,KP Pietersen,,0,0,0,caught,IJL Trott,HG Kuhn,310323103
+2,England,15,KP Pietersen,JA Morkel,EJG Morgan,,0,1,1,,,,310323103
+2,England,15,EJG Morgan,JA Morkel,KP Pietersen,,0,4,4,,,,310323103
+2,England,15,EJG Morgan,JA Morkel,KP Pietersen,,0,0,0,,,,310323103
+2,England,15,EJG Morgan,JA Morkel,KP Pietersen,,0,4,4,,,,310323103
+2,England,15,EJG Morgan,JA Morkel,KP Pietersen,,0,1,1,,,,310323103
+2,England,16,EJG Morgan,RE van der Merwe,KP Pietersen,,0,0,0,,,,310323103
+2,England,16,EJG Morgan,RE van der Merwe,KP Pietersen,,0,1,1,,,,310323103
+2,England,16,KP Pietersen,RE van der Merwe,EJG Morgan,,0,4,4,,,,310323103
+2,England,16,KP Pietersen,RE van der Merwe,EJG Morgan,,0,0,0,bowled,KP Pietersen,,310323103
+2,England,16,LJ Wright,RE van der Merwe,EJG Morgan,,0,6,6,,,,310323103
+2,England,16,LJ Wright,RE van der Merwe,EJG Morgan,,0,1,1,,,,310323103
+2,England,17,LJ Wright,DW Steyn,EJG Morgan,,0,4,4,,,,310323103
+2,England,17,LJ Wright,DW Steyn,EJG Morgan,,0,1,1,,,,310323103
+2,England,17,EJG Morgan,DW Steyn,LJ Wright,,0,0,0,bowled,EJG Morgan,,310323103
+2,England,17,MJ Prior,DW Steyn,LJ Wright,wides,1,1,0,,,,310323103
+2,England,17,MJ Prior,DW Steyn,LJ Wright,,0,0,0,,,,310323103
+2,England,17,MJ Prior,DW Steyn,LJ Wright,,0,1,1,,,,310323103
+2,England,17,LJ Wright,DW Steyn,MJ Prior,,0,0,0,caught,LJ Wright,J Botha,310323103
+2,England,18,TT Bresnan,R McLaren,MJ Prior,,0,0,0,,,,310323103
+2,England,18,TT Bresnan,R McLaren,MJ Prior,,0,0,0,,,,310323103
+2,England,18,TT Bresnan,R McLaren,MJ Prior,,0,0,0,caught,TT Bresnan,GC Smith,310323103
+2,England,18,MJ Prior,R McLaren,AU Rashid,,0,1,1,,,,310323103
+2,England,18,AU Rashid,R McLaren,MJ Prior,,0,1,1,,,,310323103
+2,England,18,MJ Prior,R McLaren,AU Rashid,,0,1,1,,,,310323103
+2,England,19,MJ Prior,JA Morkel,AU Rashid,,0,1,1,,,,310323103
+2,England,19,AU Rashid,JA Morkel,MJ Prior,,0,0,0,run out,AU Rashid,JH Kallis,310323103
+2,England,19,MJ Prior,JA Morkel,SI Mahmood,,0,1,1,,,,310323103
+2,England,19,SI Mahmood,JA Morkel,MJ Prior,,0,1,1,,,,310323103
+2,England,19,MJ Prior,JA Morkel,SI Mahmood,,0,4,4,,,,310323103
+2,England,19,MJ Prior,JA Morkel,SI Mahmood,,0,1,1,,,,310323103

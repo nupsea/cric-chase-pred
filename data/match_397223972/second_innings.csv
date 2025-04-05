@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,West Indies,0,HK Matthews,LCN Smith,B Cooper,wides,1,1,0,,,,397223972
+2,West Indies,0,HK Matthews,LCN Smith,B Cooper,,0,2,2,,,,397223972
+2,West Indies,0,HK Matthews,LCN Smith,B Cooper,,0,0,0,,,,397223972
+2,West Indies,0,HK Matthews,LCN Smith,B Cooper,,0,0,0,,,,397223972
+2,West Indies,0,HK Matthews,LCN Smith,B Cooper,,0,0,0,,,,397223972
+2,West Indies,0,HK Matthews,LCN Smith,B Cooper,,0,0,0,caught,HK Matthews,S Ecclestone,397223972
+2,West Indies,0,SACA King,LCN Smith,B Cooper,,0,3,3,,,,397223972
+2,West Indies,1,SACA King,A Shrubsole,B Cooper,,0,4,4,,,,397223972
+2,West Indies,1,SACA King,A Shrubsole,B Cooper,,0,4,4,,,,397223972
+2,West Indies,1,SACA King,A Shrubsole,B Cooper,,0,0,0,,,,397223972
+2,West Indies,1,SACA King,A Shrubsole,B Cooper,,0,4,4,,,,397223972
+2,West Indies,1,SACA King,A Shrubsole,B Cooper,,0,1,1,,,,397223972
+2,West Indies,1,B Cooper,A Shrubsole,SACA King,,0,0,0,lbw,B Cooper,,397223972
+2,West Indies,2,SACA King,KH Brunt,SR Taylor,,0,4,4,,,,397223972
+2,West Indies,2,SACA King,KH Brunt,SR Taylor,,0,4,4,,,,397223972
+2,West Indies,2,SACA King,KH Brunt,SR Taylor,,0,0,0,,,,397223972
+2,West Indies,2,SACA King,KH Brunt,SR Taylor,,0,0,0,,,,397223972
+2,West Indies,2,SACA King,KH Brunt,SR Taylor,,0,4,4,,,,397223972
+2,West Indies,2,SACA King,KH Brunt,SR Taylor,,0,0,0,,,,397223972
+2,West Indies,3,SR Taylor,A Shrubsole,SACA King,,0,1,1,,,,397223972
+2,West Indies,3,SACA King,A Shrubsole,SR Taylor,,0,0,0,,,,397223972
+2,West Indies,3,SACA King,A Shrubsole,SR Taylor,,0,1,1,,,,397223972
+2,West Indies,3,SR Taylor,A Shrubsole,SACA King,,0,0,0,,,,397223972
+2,West Indies,3,SR Taylor,A Shrubsole,SACA King,,0,1,1,,,,397223972
+2,West Indies,3,SACA King,A Shrubsole,SR Taylor,,0,0,0,,,,397223972
+2,West Indies,4,SR Taylor,S Ecclestone,SACA King,,0,1,1,,,,397223972
+2,West Indies,4,SACA King,S Ecclestone,SR Taylor,,0,0,0,,,,397223972
+2,West Indies,4,SACA King,S Ecclestone,SR Taylor,,0,4,4,,,,397223972
+2,West Indies,4,SACA King,S Ecclestone,SR Taylor,,0,1,1,,,,397223972
+2,West Indies,4,SR Taylor,S Ecclestone,SACA King,,0,2,2,,,,397223972
+2,West Indies,4,SR Taylor,S Ecclestone,SACA King,,0,0,0,,,,397223972
+2,West Indies,5,SACA King,LCN Smith,SR Taylor,,0,0,0,,,,397223972
+2,West Indies,5,SACA King,LCN Smith,SR Taylor,,0,1,1,,,,397223972
+2,West Indies,5,SR Taylor,LCN Smith,SACA King,,0,4,4,,,,397223972
+2,West Indies,5,SR Taylor,LCN Smith,SACA King,,0,4,4,,,,397223972
+2,West Indies,5,SR Taylor,LCN Smith,SACA King,,0,0,0,,,,397223972
+2,West Indies,5,SR Taylor,LCN Smith,SACA King,,0,0,0,,,,397223972
+2,West Indies,6,SACA King,NR Sciver,SR Taylor,,0,0,0,,,,397223972
+2,West Indies,6,SACA King,NR Sciver,SR Taylor,,0,0,0,,,,397223972
+2,West Indies,6,SACA King,NR Sciver,SR Taylor,,0,1,1,,,,397223972
+2,West Indies,6,SR Taylor,NR Sciver,SACA King,,0,0,0,,,,397223972
+2,West Indies,6,SR Taylor,NR Sciver,SACA King,,0,0,0,,,,397223972
+2,West Indies,6,SR Taylor,NR Sciver,SACA King,,0,1,1,,,,397223972
+2,West Indies,7,SR Taylor,KL Cross,SACA King,,0,0,0,,,,397223972
+2,West Indies,7,SR Taylor,KL Cross,SACA King,,0,4,4,,,,397223972
+2,West Indies,7,SR Taylor,KL Cross,SACA King,,0,0,0,,,,397223972
+2,West Indies,7,SR Taylor,KL Cross,SACA King,,0,1,1,,,,397223972
+2,West Indies,7,SACA King,KL Cross,SR Taylor,,0,0,0,run out,SR Taylor,,397223972
+2,West Indies,7,CN Nation,KL Cross,SACA King,,0,1,1,,,,397223972
+2,West Indies,8,CN Nation,NR Sciver,SACA King,,0,4,4,,,,397223972
+2,West Indies,8,CN Nation,NR Sciver,SACA King,,0,0,0,,,,397223972
+2,West Indies,8,CN Nation,NR Sciver,SACA King,,0,1,1,,,,397223972
+2,West Indies,8,SACA King,NR Sciver,CN Nation,,0,2,2,,,,397223972
+2,West Indies,8,SACA King,NR Sciver,CN Nation,,0,0,0,,,,397223972
+2,West Indies,8,SACA King,NR Sciver,CN Nation,,0,1,1,,,,397223972
+2,West Indies,9,SACA King,KL Cross,CN Nation,,0,0,0,,,,397223972
+2,West Indies,9,SACA King,KL Cross,CN Nation,,0,1,1,,,,397223972
+2,West Indies,9,CN Nation,KL Cross,SACA King,,0,6,6,,,,397223972
+2,West Indies,9,CN Nation,KL Cross,SACA King,,0,0,0,,,,397223972
+2,West Indies,9,CN Nation,KL Cross,SACA King,,0,4,4,,,,397223972
+2,West Indies,9,CN Nation,KL Cross,SACA King,,0,4,4,,,,397223972
+2,West Indies,10,SACA King,S Ecclestone,CN Nation,,0,1,1,,,,397223972
+2,West Indies,10,CN Nation,S Ecclestone,SACA King,,0,6,6,,,,397223972
+2,West Indies,10,CN Nation,S Ecclestone,SACA King,,0,1,1,,,,397223972
+2,West Indies,10,SACA King,S Ecclestone,CN Nation,,0,1,1,,,,397223972
+2,West Indies,10,CN Nation,S Ecclestone,SACA King,,0,0,0,,,,397223972
+2,West Indies,10,CN Nation,S Ecclestone,SACA King,,0,0,0,,,,397223972
+2,West Indies,11,SACA King,KH Brunt,CN Nation,,0,1,1,,,,397223972
+2,West Indies,11,CN Nation,KH Brunt,SACA King,,0,0,0,,,,397223972
+2,West Indies,11,CN Nation,KH Brunt,SACA King,,0,4,4,,,,397223972
+2,West Indies,11,CN Nation,KH Brunt,SACA King,,0,0,0,,,,397223972
+2,West Indies,11,CN Nation,KH Brunt,SACA King,,0,0,0,,,,397223972
+2,West Indies,11,CN Nation,KH Brunt,SACA King,,0,0,0,,,,397223972
+2,West Indies,12,SACA King,LCN Smith,CN Nation,,0,0,0,,,,397223972
+2,West Indies,12,SACA King,LCN Smith,CN Nation,,0,0,0,caught,SACA King,DN Wyatt,397223972
+2,West Indies,12,CN Nation,LCN Smith,NY McLean,,0,0,0,,,,397223972
+2,West Indies,12,CN Nation,LCN Smith,NY McLean,,0,0,0,,,,397223972
+2,West Indies,12,CN Nation,LCN Smith,NY McLean,,0,1,1,,,,397223972
+2,West Indies,12,NY McLean,LCN Smith,CN Nation,,0,0,0,run out,CN Nation,,397223972
+2,West Indies,13,Kycia A Knight,NR Sciver,NY McLean,,0,1,1,,,,397223972
+2,West Indies,13,NY McLean,NR Sciver,Kycia A Knight,,0,0,0,,,,397223972
+2,West Indies,13,NY McLean,NR Sciver,Kycia A Knight,,0,2,2,,,,397223972
+2,West Indies,13,NY McLean,NR Sciver,Kycia A Knight,,0,0,0,,,,397223972
+2,West Indies,13,NY McLean,NR Sciver,Kycia A Knight,,0,0,0,,,,397223972
+2,West Indies,13,NY McLean,NR Sciver,Kycia A Knight,,0,2,2,,,,397223972
+2,West Indies,14,Kycia A Knight,S Ecclestone,NY McLean,,0,1,1,,,,397223972
+2,West Indies,14,NY McLean,S Ecclestone,Kycia A Knight,,0,1,1,,,,397223972
+2,West Indies,14,Kycia A Knight,S Ecclestone,NY McLean,,0,4,4,,,,397223972
+2,West Indies,14,Kycia A Knight,S Ecclestone,NY McLean,,0,0,0,,,,397223972
+2,West Indies,14,Kycia A Knight,S Ecclestone,NY McLean,,0,0,0,,,,397223972
+2,West Indies,14,Kycia A Knight,S Ecclestone,NY McLean,,0,1,1,,,,397223972
+2,West Indies,15,Kycia A Knight,KH Brunt,NY McLean,,0,0,0,bowled,Kycia A Knight,,397223972
+2,West Indies,15,CA Henry,KH Brunt,NY McLean,,0,1,1,,,,397223972
+2,West Indies,15,NY McLean,KH Brunt,CA Henry,,0,4,4,,,,397223972
+2,West Indies,15,NY McLean,KH Brunt,CA Henry,,0,0,0,bowled,NY McLean,,397223972
+2,West Indies,15,ASS Fletcher,KH Brunt,CA Henry,,0,0,0,,,,397223972
+2,West Indies,15,ASS Fletcher,KH Brunt,CA Henry,,0,0,0,,,,397223972
+2,West Indies,16,CA Henry,KL Cross,ASS Fletcher,,0,2,2,,,,397223972
+2,West Indies,16,CA Henry,KL Cross,ASS Fletcher,,0,1,1,,,,397223972
+2,West Indies,16,ASS Fletcher,KL Cross,CA Henry,,0,4,4,,,,397223972
+2,West Indies,16,ASS Fletcher,KL Cross,CA Henry,,0,1,1,,,,397223972
+2,West Indies,16,CA Henry,KL Cross,ASS Fletcher,,0,0,0,,,,397223972
+2,West Indies,16,CA Henry,KL Cross,ASS Fletcher,,0,1,1,,,,397223972
+2,West Indies,17,CA Henry,NR Sciver,ASS Fletcher,,0,1,1,,,,397223972
+2,West Indies,17,ASS Fletcher,NR Sciver,CA Henry,,0,1,1,,,,397223972
+2,West Indies,17,CA Henry,NR Sciver,ASS Fletcher,,0,0,0,,,,397223972
+2,West Indies,17,CA Henry,NR Sciver,ASS Fletcher,,0,0,0,stumped,CA Henry,SJ Taylor,397223972
+2,West Indies,17,K Ramharack,NR Sciver,ASS Fletcher,wides,1,1,0,,,,397223972
+2,West Indies,17,K Ramharack,NR Sciver,ASS Fletcher,,0,1,1,,,,397223972
+2,West Indies,17,ASS Fletcher,NR Sciver,K Ramharack,,0,0,0,,,,397223972
+2,West Indies,18,K Ramharack,S Ecclestone,ASS Fletcher,,0,0,0,,,,397223972
+2,West Indies,18,K Ramharack,S Ecclestone,ASS Fletcher,,0,1,1,,,,397223972
+2,West Indies,18,ASS Fletcher,S Ecclestone,K Ramharack,,0,1,1,,,,397223972
+2,West Indies,18,K Ramharack,S Ecclestone,ASS Fletcher,,0,1,1,,,,397223972
+2,West Indies,18,ASS Fletcher,S Ecclestone,K Ramharack,noballs,1,1,0,,,,397223972
+2,West Indies,18,ASS Fletcher,S Ecclestone,K Ramharack,,0,1,1,,,,397223972
+2,West Indies,18,K Ramharack,S Ecclestone,ASS Fletcher,,0,0,0,bowled,K Ramharack,,397223972
+2,West Indies,19,ASS Fletcher,LCN Smith,SS Connell,,0,0,0,,,,397223972
+2,West Indies,19,ASS Fletcher,LCN Smith,SS Connell,,0,1,1,,,,397223972
+2,West Indies,19,SS Connell,LCN Smith,ASS Fletcher,,0,1,1,,,,397223972
+2,West Indies,19,ASS Fletcher,LCN Smith,SS Connell,,0,4,4,,,,397223972
+2,West Indies,19,ASS Fletcher,LCN Smith,SS Connell,,0,0,0,,,,397223972
+2,West Indies,19,ASS Fletcher,LCN Smith,SS Connell,,0,0,0,,,,397223972

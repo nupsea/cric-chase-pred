@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,West Indies,0,Kycia A Knight,RM Farrell,SR Taylor,,0,1,1,,,,348223482
+1,West Indies,0,SR Taylor,RM Farrell,Kycia A Knight,,0,0,0,,,,348223482
+1,West Indies,0,SR Taylor,RM Farrell,Kycia A Knight,,0,0,0,,,,348223482
+1,West Indies,0,SR Taylor,RM Farrell,Kycia A Knight,,0,1,1,,,,348223482
+1,West Indies,0,Kycia A Knight,RM Farrell,SR Taylor,,0,0,0,,,,348223482
+1,West Indies,0,Kycia A Knight,RM Farrell,SR Taylor,,0,0,0,,,,348223482
+1,West Indies,1,SR Taylor,JL Jonassen,Kycia A Knight,,0,4,4,,,,348223482
+1,West Indies,1,SR Taylor,JL Jonassen,Kycia A Knight,,0,0,0,,,,348223482
+1,West Indies,1,SR Taylor,JL Jonassen,Kycia A Knight,,0,1,1,,,,348223482
+1,West Indies,1,Kycia A Knight,JL Jonassen,SR Taylor,,0,0,0,,,,348223482
+1,West Indies,1,Kycia A Knight,JL Jonassen,SR Taylor,,0,1,1,,,,348223482
+1,West Indies,1,SR Taylor,JL Jonassen,Kycia A Knight,,0,0,0,,,,348223482
+1,West Indies,2,Kycia A Knight,RM Farrell,SR Taylor,,0,0,0,,,,348223482
+1,West Indies,2,Kycia A Knight,RM Farrell,SR Taylor,,0,0,0,,,,348223482
+1,West Indies,2,Kycia A Knight,RM Farrell,SR Taylor,,0,1,1,,,,348223482
+1,West Indies,2,SR Taylor,RM Farrell,Kycia A Knight,,0,1,1,,,,348223482
+1,West Indies,2,Kycia A Knight,RM Farrell,SR Taylor,,0,0,0,,,,348223482
+1,West Indies,2,Kycia A Knight,RM Farrell,SR Taylor,,0,0,0,caught,Kycia A Knight,JL Jonassen,348223482
+1,West Indies,3,DJS Dottin,JL Jonassen,SR Taylor,,0,0,0,,,,348223482
+1,West Indies,3,DJS Dottin,JL Jonassen,SR Taylor,,0,0,0,,,,348223482
+1,West Indies,3,DJS Dottin,JL Jonassen,SR Taylor,,0,0,0,,,,348223482
+1,West Indies,3,DJS Dottin,JL Jonassen,SR Taylor,,0,0,0,,,,348223482
+1,West Indies,3,DJS Dottin,JL Jonassen,SR Taylor,,0,1,1,,,,348223482
+1,West Indies,3,SR Taylor,JL Jonassen,DJS Dottin,,0,4,4,,,,348223482
+1,West Indies,4,DJS Dottin,SJ Coyte,SR Taylor,,0,0,0,,,,348223482
+1,West Indies,4,DJS Dottin,SJ Coyte,SR Taylor,,0,4,4,,,,348223482
+1,West Indies,4,DJS Dottin,SJ Coyte,SR Taylor,,0,1,1,,,,348223482
+1,West Indies,4,SR Taylor,SJ Coyte,DJS Dottin,,0,1,1,,,,348223482
+1,West Indies,4,DJS Dottin,SJ Coyte,SR Taylor,,0,0,0,,,,348223482
+1,West Indies,4,DJS Dottin,SJ Coyte,SR Taylor,,0,0,0,,,,348223482
+1,West Indies,5,SR Taylor,EA Perry,DJS Dottin,,0,1,1,,,,348223482
+1,West Indies,5,DJS Dottin,EA Perry,SR Taylor,,0,6,6,,,,348223482
+1,West Indies,5,DJS Dottin,EA Perry,SR Taylor,,0,1,1,,,,348223482
+1,West Indies,5,SR Taylor,EA Perry,DJS Dottin,,0,0,0,,,,348223482
+1,West Indies,5,SR Taylor,EA Perry,DJS Dottin,,0,0,0,,,,348223482
+1,West Indies,5,SR Taylor,EA Perry,DJS Dottin,,0,0,0,,,,348223482
+1,West Indies,6,DJS Dottin,KM Beams,SR Taylor,,0,3,3,,,,348223482
+1,West Indies,6,SR Taylor,KM Beams,DJS Dottin,,0,0,0,,,,348223482
+1,West Indies,6,SR Taylor,KM Beams,DJS Dottin,,0,0,0,,,,348223482
+1,West Indies,6,SR Taylor,KM Beams,DJS Dottin,,0,1,1,,,,348223482
+1,West Indies,6,DJS Dottin,KM Beams,SR Taylor,,0,2,2,,,,348223482
+1,West Indies,6,DJS Dottin,KM Beams,SR Taylor,wides,1,1,0,,,,348223482
+1,West Indies,6,DJS Dottin,KM Beams,SR Taylor,,0,0,0,,,,348223482
+1,West Indies,7,SR Taylor,EA Osborne,DJS Dottin,,0,0,0,,,,348223482
+1,West Indies,7,SR Taylor,EA Osborne,DJS Dottin,,0,0,0,,,,348223482
+1,West Indies,7,SR Taylor,EA Osborne,DJS Dottin,,0,6,6,,,,348223482
+1,West Indies,7,SR Taylor,EA Osborne,DJS Dottin,,0,1,1,,,,348223482
+1,West Indies,7,DJS Dottin,EA Osborne,SR Taylor,,0,1,1,,,,348223482
+1,West Indies,7,SR Taylor,EA Osborne,DJS Dottin,,0,1,1,,,,348223482
+1,West Indies,8,SR Taylor,EA Perry,DJS Dottin,wides,1,1,0,,,,348223482
+1,West Indies,8,SR Taylor,EA Perry,DJS Dottin,,0,1,1,,,,348223482
+1,West Indies,8,DJS Dottin,EA Perry,SR Taylor,,0,1,1,,,,348223482
+1,West Indies,8,SR Taylor,EA Perry,DJS Dottin,,0,0,0,,,,348223482
+1,West Indies,8,SR Taylor,EA Perry,DJS Dottin,,0,4,4,,,,348223482
+1,West Indies,8,SR Taylor,EA Perry,DJS Dottin,,0,1,1,,,,348223482
+1,West Indies,8,DJS Dottin,EA Perry,SR Taylor,,0,0,0,,,,348223482
+1,West Indies,9,SR Taylor,EA Osborne,DJS Dottin,,0,0,0,,,,348223482
+1,West Indies,9,SR Taylor,EA Osborne,DJS Dottin,,0,1,1,,,,348223482
+1,West Indies,9,DJS Dottin,EA Osborne,SR Taylor,,0,1,1,,,,348223482
+1,West Indies,9,SR Taylor,EA Osborne,DJS Dottin,,0,1,1,,,,348223482
+1,West Indies,9,DJS Dottin,EA Osborne,SR Taylor,,0,1,1,,,,348223482
+1,West Indies,9,SR Taylor,EA Osborne,DJS Dottin,,0,1,1,,,,348223482
+1,West Indies,10,SR Taylor,RM Farrell,DJS Dottin,,0,1,1,,,,348223482
+1,West Indies,10,DJS Dottin,RM Farrell,SR Taylor,,0,1,1,,,,348223482
+1,West Indies,10,SR Taylor,RM Farrell,DJS Dottin,,0,1,1,,,,348223482
+1,West Indies,10,DJS Dottin,RM Farrell,SR Taylor,,0,0,0,,,,348223482
+1,West Indies,10,DJS Dottin,RM Farrell,SR Taylor,,0,1,1,,,,348223482
+1,West Indies,10,SR Taylor,RM Farrell,DJS Dottin,,0,0,0,,,,348223482
+1,West Indies,11,DJS Dottin,JL Jonassen,SR Taylor,,0,0,0,,,,348223482
+1,West Indies,11,DJS Dottin,JL Jonassen,SR Taylor,,0,0,0,caught,DJS Dottin,MM Lanning,348223482
+1,West Indies,11,SR Taylor,JL Jonassen,HK Matthews,,0,0,0,,,,348223482
+1,West Indies,11,SR Taylor,JL Jonassen,HK Matthews,,0,4,4,,,,348223482
+1,West Indies,11,SR Taylor,JL Jonassen,HK Matthews,,0,1,1,,,,348223482
+1,West Indies,11,HK Matthews,JL Jonassen,SR Taylor,,0,0,0,,,,348223482
+1,West Indies,12,SR Taylor,SJ Coyte,HK Matthews,,0,0,0,,,,348223482
+1,West Indies,12,SR Taylor,SJ Coyte,HK Matthews,,0,0,0,run out,HK Matthews,JL Jonassen,348223482
+1,West Indies,12,SR Taylor,SJ Coyte,B Cooper,,0,1,1,,,,348223482
+1,West Indies,12,B Cooper,SJ Coyte,SR Taylor,,0,1,1,,,,348223482
+1,West Indies,12,SR Taylor,SJ Coyte,B Cooper,,0,1,1,,,,348223482
+1,West Indies,12,B Cooper,SJ Coyte,SR Taylor,,0,0,0,,,,348223482
+1,West Indies,13,SR Taylor,KM Beams,B Cooper,,0,0,0,,,,348223482
+1,West Indies,13,SR Taylor,KM Beams,B Cooper,,0,1,1,,,,348223482
+1,West Indies,13,B Cooper,KM Beams,SR Taylor,,0,1,1,,,,348223482
+1,West Indies,13,SR Taylor,KM Beams,B Cooper,,0,1,1,,,,348223482
+1,West Indies,13,B Cooper,KM Beams,SR Taylor,,0,1,1,,,,348223482
+1,West Indies,13,SR Taylor,KM Beams,B Cooper,,0,1,1,,,,348223482
+1,West Indies,14,SR Taylor,EA Osborne,B Cooper,,0,2,2,,,,348223482
+1,West Indies,14,SR Taylor,EA Osborne,B Cooper,wides,1,1,0,,,,348223482
+1,West Indies,14,SR Taylor,EA Osborne,B Cooper,,0,1,1,,,,348223482
+1,West Indies,14,B Cooper,EA Osborne,SR Taylor,,0,0,0,,,,348223482
+1,West Indies,14,B Cooper,EA Osborne,SR Taylor,,0,1,1,,,,348223482
+1,West Indies,14,SR Taylor,EA Osborne,B Cooper,,0,1,1,,,,348223482
+1,West Indies,14,B Cooper,EA Osborne,SR Taylor,,0,1,1,,,,348223482
+1,West Indies,15,B Cooper,JL Jonassen,SR Taylor,,0,0,0,,,,348223482
+1,West Indies,15,B Cooper,JL Jonassen,SR Taylor,,0,1,1,,,,348223482
+1,West Indies,15,SR Taylor,JL Jonassen,B Cooper,,0,1,1,,,,348223482
+1,West Indies,15,B Cooper,JL Jonassen,SR Taylor,,0,4,4,,,,348223482
+1,West Indies,15,B Cooper,JL Jonassen,SR Taylor,,0,4,4,,,,348223482
+1,West Indies,15,B Cooper,JL Jonassen,SR Taylor,,0,1,1,,,,348223482
+1,West Indies,16,B Cooper,SJ Coyte,SR Taylor,,0,1,1,,,,348223482
+1,West Indies,16,SR Taylor,SJ Coyte,B Cooper,,0,0,0,,,,348223482
+1,West Indies,16,SR Taylor,SJ Coyte,B Cooper,,0,1,1,,,,348223482
+1,West Indies,16,B Cooper,SJ Coyte,SR Taylor,,0,1,1,,,,348223482
+1,West Indies,16,SR Taylor,SJ Coyte,B Cooper,,0,1,1,,,,348223482
+1,West Indies,16,B Cooper,SJ Coyte,SR Taylor,,0,1,1,,,,348223482
+1,West Indies,17,B Cooper,KM Beams,SR Taylor,,0,0,0,stumped,B Cooper,AJ Healy,348223482
+1,West Indies,17,SF Daley,KM Beams,SR Taylor,,0,1,1,,,,348223482
+1,West Indies,17,SR Taylor,KM Beams,SF Daley,,0,2,2,,,,348223482
+1,West Indies,17,SR Taylor,KM Beams,SF Daley,,0,0,0,,,,348223482
+1,West Indies,17,SR Taylor,KM Beams,SF Daley,,0,0,0,caught,SR Taylor,JE Cameron,348223482
+1,West Indies,17,MR Aguilleira,KM Beams,SF Daley,,0,0,0,,,,348223482
+1,West Indies,18,SF Daley,SJ Coyte,MR Aguilleira,,0,1,1,,,,348223482
+1,West Indies,18,MR Aguilleira,SJ Coyte,SF Daley,,0,1,1,,,,348223482
+1,West Indies,18,SF Daley,SJ Coyte,MR Aguilleira,,0,1,1,,,,348223482
+1,West Indies,18,MR Aguilleira,SJ Coyte,SF Daley,,0,0,0,caught,MR Aguilleira,JE Cameron,348223482
+1,West Indies,18,SF Daley,SJ Coyte,SL Quintyne,,0,0,0,,,,348223482
+1,West Indies,18,SF Daley,SJ Coyte,SL Quintyne,byes,4,4,0,,,,348223482
+1,West Indies,19,SL Quintyne,RM Farrell,SF Daley,,0,1,1,,,,348223482
+1,West Indies,19,SF Daley,RM Farrell,SL Quintyne,,0,1,1,,,,348223482
+1,West Indies,19,SL Quintyne,RM Farrell,SF Daley,,0,0,0,,,,348223482
+1,West Indies,19,SL Quintyne,RM Farrell,SF Daley,,0,1,1,,,,348223482
+1,West Indies,19,SF Daley,RM Farrell,SL Quintyne,,0,1,1,,,,348223482
+1,West Indies,19,SL Quintyne,RM Farrell,SF Daley,,0,1,1,run out,SL Quintyne,JE Cameron,348223482

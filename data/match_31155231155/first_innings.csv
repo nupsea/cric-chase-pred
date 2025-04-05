@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,L Lee,LM Kasperek,L Wolvaardt,,0,1,1,,,,31155231155
+1,South Africa,0,L Wolvaardt,LM Kasperek,L Lee,,0,4,4,,,,31155231155
+1,South Africa,0,L Wolvaardt,LM Kasperek,L Lee,,0,0,0,,,,31155231155
+1,South Africa,0,L Wolvaardt,LM Kasperek,L Lee,,0,1,1,,,,31155231155
+1,South Africa,0,L Lee,LM Kasperek,L Wolvaardt,,0,0,0,,,,31155231155
+1,South Africa,0,L Lee,LM Kasperek,L Wolvaardt,,0,1,1,,,,31155231155
+1,South Africa,1,L Lee,LMM Tahuhu,L Wolvaardt,,0,0,0,,,,31155231155
+1,South Africa,1,L Lee,LMM Tahuhu,L Wolvaardt,legbyes,1,1,0,,,,31155231155
+1,South Africa,1,L Wolvaardt,LMM Tahuhu,L Lee,wides,1,1,0,,,,31155231155
+1,South Africa,1,L Wolvaardt,LMM Tahuhu,L Lee,,0,1,1,,,,31155231155
+1,South Africa,1,L Lee,LMM Tahuhu,L Wolvaardt,,0,4,4,,,,31155231155
+1,South Africa,1,L Lee,LMM Tahuhu,L Wolvaardt,wides,1,1,0,,,,31155231155
+1,South Africa,1,L Lee,LMM Tahuhu,L Wolvaardt,,0,0,0,,,,31155231155
+1,South Africa,1,L Lee,LMM Tahuhu,L Wolvaardt,,0,2,2,,,,31155231155
+1,South Africa,2,L Wolvaardt,SFM Devine,L Lee,,0,4,4,,,,31155231155
+1,South Africa,2,L Wolvaardt,SFM Devine,L Lee,,0,1,1,,,,31155231155
+1,South Africa,2,L Lee,SFM Devine,L Wolvaardt,,0,4,4,,,,31155231155
+1,South Africa,2,L Lee,SFM Devine,L Wolvaardt,,0,1,1,,,,31155231155
+1,South Africa,2,L Wolvaardt,SFM Devine,L Lee,,0,1,1,,,,31155231155
+1,South Africa,2,L Lee,SFM Devine,L Wolvaardt,,0,0,0,,,,31155231155
+1,South Africa,3,L Wolvaardt,LMM Tahuhu,L Lee,,0,0,0,,,,31155231155
+1,South Africa,3,L Wolvaardt,LMM Tahuhu,L Lee,,0,4,4,,,,31155231155
+1,South Africa,3,L Wolvaardt,LMM Tahuhu,L Lee,,0,0,0,,,,31155231155
+1,South Africa,3,L Wolvaardt,LMM Tahuhu,L Lee,,0,0,0,,,,31155231155
+1,South Africa,3,L Wolvaardt,LMM Tahuhu,L Lee,,0,0,0,,,,31155231155
+1,South Africa,3,L Wolvaardt,LMM Tahuhu,L Lee,,0,0,0,,,,31155231155
+1,South Africa,4,L Lee,LM Kasperek,L Wolvaardt,,0,4,4,,,,31155231155
+1,South Africa,4,L Lee,LM Kasperek,L Wolvaardt,,0,0,0,,,,31155231155
+1,South Africa,4,L Lee,LM Kasperek,L Wolvaardt,,0,0,0,,,,31155231155
+1,South Africa,4,L Lee,LM Kasperek,L Wolvaardt,,0,0,0,caught,L Lee,RH Priest,31155231155
+1,South Africa,4,N de Klerk,LM Kasperek,L Wolvaardt,,0,1,1,,,,31155231155
+1,South Africa,4,L Wolvaardt,LM Kasperek,N de Klerk,,0,0,0,,,,31155231155
+1,South Africa,5,N de Klerk,HNK Jensen,L Wolvaardt,,0,1,1,,,,31155231155
+1,South Africa,5,L Wolvaardt,HNK Jensen,N de Klerk,wides,1,1,0,,,,31155231155
+1,South Africa,5,L Wolvaardt,HNK Jensen,N de Klerk,,0,0,0,,,,31155231155
+1,South Africa,5,L Wolvaardt,HNK Jensen,N de Klerk,,0,1,1,,,,31155231155
+1,South Africa,5,N de Klerk,HNK Jensen,L Wolvaardt,,0,0,0,,,,31155231155
+1,South Africa,5,N de Klerk,HNK Jensen,L Wolvaardt,,0,0,0,,,,31155231155
+1,South Africa,5,N de Klerk,HNK Jensen,L Wolvaardt,,0,0,0,,,,31155231155
+1,South Africa,6,L Wolvaardt,LM Kasperek,N de Klerk,,0,0,0,,,,31155231155
+1,South Africa,6,L Wolvaardt,LM Kasperek,N de Klerk,,0,1,1,,,,31155231155
+1,South Africa,6,N de Klerk,LM Kasperek,L Wolvaardt,,0,0,0,,,,31155231155
+1,South Africa,6,N de Klerk,LM Kasperek,L Wolvaardt,,0,0,0,,,,31155231155
+1,South Africa,6,N de Klerk,LM Kasperek,L Wolvaardt,,0,1,1,,,,31155231155
+1,South Africa,6,L Wolvaardt,LM Kasperek,N de Klerk,,0,0,0,,,,31155231155
+1,South Africa,7,N de Klerk,HNK Jensen,L Wolvaardt,,0,0,0,,,,31155231155
+1,South Africa,7,N de Klerk,HNK Jensen,L Wolvaardt,,0,4,4,,,,31155231155
+1,South Africa,7,N de Klerk,HNK Jensen,L Wolvaardt,,0,0,0,,,,31155231155
+1,South Africa,7,N de Klerk,HNK Jensen,L Wolvaardt,,0,0,0,,,,31155231155
+1,South Africa,7,N de Klerk,HNK Jensen,L Wolvaardt,,0,1,1,,,,31155231155
+1,South Africa,7,L Wolvaardt,HNK Jensen,N de Klerk,,0,1,1,,,,31155231155
+1,South Africa,8,L Wolvaardt,SW Bates,N de Klerk,,0,1,1,,,,31155231155
+1,South Africa,8,N de Klerk,SW Bates,L Wolvaardt,legbyes,1,1,0,,,,31155231155
+1,South Africa,8,L Wolvaardt,SW Bates,N de Klerk,,0,1,1,,,,31155231155
+1,South Africa,8,N de Klerk,SW Bates,L Wolvaardt,,0,1,1,,,,31155231155
+1,South Africa,8,L Wolvaardt,SW Bates,N de Klerk,,0,1,1,,,,31155231155
+1,South Africa,8,N de Klerk,SW Bates,L Wolvaardt,,0,1,1,,,,31155231155
+1,South Africa,9,N de Klerk,AC Kerr,L Wolvaardt,,0,0,0,,,,31155231155
+1,South Africa,9,N de Klerk,AC Kerr,L Wolvaardt,,0,0,0,,,,31155231155
+1,South Africa,9,N de Klerk,AC Kerr,L Wolvaardt,,0,0,0,,,,31155231155
+1,South Africa,9,N de Klerk,AC Kerr,L Wolvaardt,,0,1,1,,,,31155231155
+1,South Africa,9,L Wolvaardt,AC Kerr,N de Klerk,,0,0,0,,,,31155231155
+1,South Africa,9,L Wolvaardt,AC Kerr,N de Klerk,,0,1,1,,,,31155231155
+1,South Africa,10,L Wolvaardt,SW Bates,N de Klerk,,0,2,2,,,,31155231155
+1,South Africa,10,L Wolvaardt,SW Bates,N de Klerk,,0,1,1,,,,31155231155
+1,South Africa,10,N de Klerk,SW Bates,L Wolvaardt,,0,4,4,,,,31155231155
+1,South Africa,10,N de Klerk,SW Bates,L Wolvaardt,,0,1,1,,,,31155231155
+1,South Africa,10,L Wolvaardt,SW Bates,N de Klerk,,0,1,1,,,,31155231155
+1,South Africa,10,N de Klerk,SW Bates,L Wolvaardt,,0,1,1,,,,31155231155
+1,South Africa,11,N de Klerk,AC Kerr,L Wolvaardt,,0,2,2,,,,31155231155
+1,South Africa,11,N de Klerk,AC Kerr,L Wolvaardt,,0,4,4,,,,31155231155
+1,South Africa,11,N de Klerk,AC Kerr,L Wolvaardt,,0,0,0,bowled,N de Klerk,,31155231155
+1,South Africa,11,M du Preez,AC Kerr,L Wolvaardt,,0,0,0,,,,31155231155
+1,South Africa,11,M du Preez,AC Kerr,L Wolvaardt,,0,1,1,,,,31155231155
+1,South Africa,11,L Wolvaardt,AC Kerr,M du Preez,,0,0,0,,,,31155231155
+1,South Africa,12,M du Preez,HNK Jensen,L Wolvaardt,,0,0,0,,,,31155231155
+1,South Africa,12,M du Preez,HNK Jensen,L Wolvaardt,,0,1,1,,,,31155231155
+1,South Africa,12,L Wolvaardt,HNK Jensen,M du Preez,,0,1,1,,,,31155231155
+1,South Africa,12,M du Preez,HNK Jensen,L Wolvaardt,,0,1,1,,,,31155231155
+1,South Africa,12,L Wolvaardt,HNK Jensen,M du Preez,,0,0,0,,,,31155231155
+1,South Africa,12,L Wolvaardt,HNK Jensen,M du Preez,,0,2,2,,,,31155231155
+1,South Africa,13,M du Preez,RA Mair,L Wolvaardt,,0,0,0,,,,31155231155
+1,South Africa,13,M du Preez,RA Mair,L Wolvaardt,,0,2,2,,,,31155231155
+1,South Africa,13,M du Preez,RA Mair,L Wolvaardt,,0,0,0,,,,31155231155
+1,South Africa,13,M du Preez,RA Mair,L Wolvaardt,,0,4,4,,,,31155231155
+1,South Africa,13,M du Preez,RA Mair,L Wolvaardt,,0,0,0,,,,31155231155
+1,South Africa,13,M du Preez,RA Mair,L Wolvaardt,,0,0,0,,,,31155231155
+1,South Africa,14,L Wolvaardt,HNK Jensen,M du Preez,,0,1,1,,,,31155231155
+1,South Africa,14,M du Preez,HNK Jensen,L Wolvaardt,,0,0,0,,,,31155231155
+1,South Africa,14,M du Preez,HNK Jensen,L Wolvaardt,,0,1,1,,,,31155231155
+1,South Africa,14,L Wolvaardt,HNK Jensen,M du Preez,,0,2,2,,,,31155231155
+1,South Africa,14,L Wolvaardt,HNK Jensen,M du Preez,,0,0,0,caught,L Wolvaardt,LMM Tahuhu,31155231155
+1,South Africa,14,M du Preez,HNK Jensen,CL Tryon,,0,0,0,run out,CL Tryon,,31155231155
+1,South Africa,15,M du Preez,RA Mair,T Chetty,,0,0,0,,,,31155231155
+1,South Africa,15,M du Preez,RA Mair,T Chetty,,0,1,1,,,,31155231155
+1,South Africa,15,T Chetty,RA Mair,M du Preez,,0,0,0,,,,31155231155
+1,South Africa,15,T Chetty,RA Mair,M du Preez,,0,1,1,,,,31155231155
+1,South Africa,15,M du Preez,RA Mair,T Chetty,,0,1,1,,,,31155231155
+1,South Africa,15,T Chetty,RA Mair,M du Preez,,0,4,4,,,,31155231155
+1,South Africa,16,M du Preez,SW Bates,T Chetty,,0,6,6,,,,31155231155
+1,South Africa,16,M du Preez,SW Bates,T Chetty,,0,1,1,,,,31155231155
+1,South Africa,16,T Chetty,SW Bates,M du Preez,,0,1,1,,,,31155231155
+1,South Africa,16,M du Preez,SW Bates,T Chetty,,0,1,1,run out,M du Preez,,31155231155
+1,South Africa,16,S Ismail,SW Bates,T Chetty,legbyes,1,1,0,,,,31155231155
+1,South Africa,16,T Chetty,SW Bates,S Ismail,,0,0,0,,,,31155231155
+1,South Africa,17,S Ismail,AC Kerr,T Chetty,,0,1,1,,,,31155231155
+1,South Africa,17,T Chetty,AC Kerr,S Ismail,,0,1,1,,,,31155231155
+1,South Africa,17,S Ismail,AC Kerr,T Chetty,,0,0,0,,,,31155231155
+1,South Africa,17,S Ismail,AC Kerr,T Chetty,,0,0,0,,,,31155231155
+1,South Africa,17,S Ismail,AC Kerr,T Chetty,,0,1,1,,,,31155231155
+1,South Africa,17,T Chetty,AC Kerr,S Ismail,,0,1,1,,,,31155231155
+1,South Africa,18,T Chetty,LM Kasperek,S Ismail,,0,0,0,,,,31155231155
+1,South Africa,18,T Chetty,LM Kasperek,S Ismail,,0,2,2,,,,31155231155
+1,South Africa,18,T Chetty,LM Kasperek,S Ismail,,0,1,1,,,,31155231155
+1,South Africa,18,S Ismail,LM Kasperek,T Chetty,,0,0,0,caught,S Ismail,SW Bates,31155231155
+1,South Africa,18,A Khaka,LM Kasperek,T Chetty,,0,0,0,,,,31155231155
+1,South Africa,18,A Khaka,LM Kasperek,T Chetty,,0,0,0,,,,31155231155
+1,South Africa,19,T Chetty,AC Kerr,A Khaka,,0,0,0,,,,31155231155
+1,South Africa,19,T Chetty,AC Kerr,A Khaka,,0,1,1,,,,31155231155
+1,South Africa,19,A Khaka,AC Kerr,T Chetty,,0,1,1,,,,31155231155
+1,South Africa,19,T Chetty,AC Kerr,A Khaka,,0,0,0,caught and bowled,T Chetty,,31155231155
+1,South Africa,19,M Klaas,AC Kerr,A Khaka,,0,1,1,,,,31155231155
+1,South Africa,19,A Khaka,AC Kerr,M Klaas,,0,1,1,,,,31155231155

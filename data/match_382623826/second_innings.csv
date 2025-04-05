@@ -1,0 +1,127 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Ireland,0,SR Thompson,PM Seelaar,PR Stirling,,0,2,2,,,,382623826
+2,Ireland,0,SR Thompson,PM Seelaar,PR Stirling,,0,0,0,,,,382623826
+2,Ireland,0,SR Thompson,PM Seelaar,PR Stirling,,0,0,0,,,,382623826
+2,Ireland,0,SR Thompson,PM Seelaar,PR Stirling,,0,6,6,,,,382623826
+2,Ireland,0,SR Thompson,PM Seelaar,PR Stirling,,0,0,0,,,,382623826
+2,Ireland,0,SR Thompson,PM Seelaar,PR Stirling,,0,0,0,,,,382623826
+2,Ireland,1,PR Stirling,FJ Klaassen,SR Thompson,,0,1,1,,,,382623826
+2,Ireland,1,SR Thompson,FJ Klaassen,PR Stirling,,0,1,1,,,,382623826
+2,Ireland,1,PR Stirling,FJ Klaassen,SR Thompson,,0,0,0,,,,382623826
+2,Ireland,1,PR Stirling,FJ Klaassen,SR Thompson,,0,1,1,,,,382623826
+2,Ireland,1,SR Thompson,FJ Klaassen,PR Stirling,,0,4,4,,,,382623826
+2,Ireland,1,SR Thompson,FJ Klaassen,PR Stirling,,0,2,2,,,,382623826
+2,Ireland,2,PR Stirling,S Snater,SR Thompson,,0,1,1,,,,382623826
+2,Ireland,2,SR Thompson,S Snater,PR Stirling,,0,0,0,,,,382623826
+2,Ireland,2,SR Thompson,S Snater,PR Stirling,,0,0,0,caught,SR Thompson,SA Edwards,382623826
+2,Ireland,2,WTS Porterfield,S Snater,PR Stirling,,0,1,1,,,,382623826
+2,Ireland,2,PR Stirling,S Snater,WTS Porterfield,,0,0,0,,,,382623826
+2,Ireland,2,PR Stirling,S Snater,WTS Porterfield,,0,0,0,,,,382623826
+2,Ireland,3,WTS Porterfield,PA van Meekeren,PR Stirling,,0,1,1,,,,382623826
+2,Ireland,3,PR Stirling,PA van Meekeren,WTS Porterfield,,0,0,0,,,,382623826
+2,Ireland,3,PR Stirling,PA van Meekeren,WTS Porterfield,,0,0,0,,,,382623826
+2,Ireland,3,PR Stirling,PA van Meekeren,WTS Porterfield,,0,0,0,,,,382623826
+2,Ireland,3,PR Stirling,PA van Meekeren,WTS Porterfield,,0,0,0,,,,382623826
+2,Ireland,3,PR Stirling,PA van Meekeren,WTS Porterfield,,0,0,0,,,,382623826
+2,Ireland,4,WTS Porterfield,FJ Klaassen,PR Stirling,wides,1,1,0,,,,382623826
+2,Ireland,4,WTS Porterfield,FJ Klaassen,PR Stirling,,0,0,0,,,,382623826
+2,Ireland,4,WTS Porterfield,FJ Klaassen,PR Stirling,,0,0,0,caught,WTS Porterfield,BN Cooper,382623826
+2,Ireland,4,PR Stirling,FJ Klaassen,GC Wilson,,0,1,1,,,,382623826
+2,Ireland,4,GC Wilson,FJ Klaassen,PR Stirling,,0,0,0,,,,382623826
+2,Ireland,4,GC Wilson,FJ Klaassen,PR Stirling,,0,0,0,,,,382623826
+2,Ireland,4,GC Wilson,FJ Klaassen,PR Stirling,,0,0,0,,,,382623826
+2,Ireland,5,PR Stirling,S Snater,GC Wilson,,0,0,0,,,,382623826
+2,Ireland,5,PR Stirling,S Snater,GC Wilson,,0,6,6,,,,382623826
+2,Ireland,5,PR Stirling,S Snater,GC Wilson,noballs,1,1,0,,,,382623826
+2,Ireland,5,PR Stirling,S Snater,GC Wilson,,0,4,4,,,,382623826
+2,Ireland,5,PR Stirling,S Snater,GC Wilson,,0,0,0,,,,382623826
+2,Ireland,5,PR Stirling,S Snater,GC Wilson,,0,0,0,,,,382623826
+2,Ireland,5,PR Stirling,S Snater,GC Wilson,,0,1,1,,,,382623826
+2,Ireland,6,PR Stirling,PM Seelaar,GC Wilson,,0,1,1,,,,382623826
+2,Ireland,6,GC Wilson,PM Seelaar,PR Stirling,,0,1,1,,,,382623826
+2,Ireland,6,PR Stirling,PM Seelaar,GC Wilson,,0,1,1,,,,382623826
+2,Ireland,6,GC Wilson,PM Seelaar,PR Stirling,,0,1,1,,,,382623826
+2,Ireland,6,PR Stirling,PM Seelaar,GC Wilson,,0,0,0,,,,382623826
+2,Ireland,6,PR Stirling,PM Seelaar,GC Wilson,,0,0,0,stumped,PR Stirling,SA Edwards,382623826
+2,Ireland,7,GC Wilson,Saqib Zulfiqar,KJ O'Brien,,0,1,1,,,,382623826
+2,Ireland,7,KJ O'Brien,Saqib Zulfiqar,GC Wilson,,0,1,1,,,,382623826
+2,Ireland,7,GC Wilson,Saqib Zulfiqar,KJ O'Brien,,0,1,1,,,,382623826
+2,Ireland,7,KJ O'Brien,Saqib Zulfiqar,GC Wilson,,0,0,0,,,,382623826
+2,Ireland,7,KJ O'Brien,Saqib Zulfiqar,GC Wilson,,0,0,0,,,,382623826
+2,Ireland,7,KJ O'Brien,Saqib Zulfiqar,GC Wilson,,0,1,1,,,,382623826
+2,Ireland,8,KJ O'Brien,PM Seelaar,GC Wilson,,0,1,1,,,,382623826
+2,Ireland,8,GC Wilson,PM Seelaar,KJ O'Brien,,0,1,1,,,,382623826
+2,Ireland,8,KJ O'Brien,PM Seelaar,GC Wilson,,0,1,1,,,,382623826
+2,Ireland,8,GC Wilson,PM Seelaar,KJ O'Brien,,0,0,0,,,,382623826
+2,Ireland,8,GC Wilson,PM Seelaar,KJ O'Brien,,0,0,0,,,,382623826
+2,Ireland,8,GC Wilson,PM Seelaar,KJ O'Brien,,0,0,0,bowled,GC Wilson,,382623826
+2,Ireland,9,KJ O'Brien,PA van Meekeren,JNK Shannon,,0,0,0,,,,382623826
+2,Ireland,9,KJ O'Brien,PA van Meekeren,JNK Shannon,,0,0,0,,,,382623826
+2,Ireland,9,KJ O'Brien,PA van Meekeren,JNK Shannon,,0,0,0,,,,382623826
+2,Ireland,9,KJ O'Brien,PA van Meekeren,JNK Shannon,,0,2,2,,,,382623826
+2,Ireland,9,KJ O'Brien,PA van Meekeren,JNK Shannon,,0,0,0,caught,KJ O'Brien,PM Seelaar,382623826
+2,Ireland,9,JNK Shannon,PA van Meekeren,SW Poynter,,0,0,0,,,,382623826
+2,Ireland,10,SW Poynter,Saqib Zulfiqar,JNK Shannon,,0,0,0,,,,382623826
+2,Ireland,10,SW Poynter,Saqib Zulfiqar,JNK Shannon,,0,1,1,,,,382623826
+2,Ireland,10,JNK Shannon,Saqib Zulfiqar,SW Poynter,,0,0,0,,,,382623826
+2,Ireland,10,JNK Shannon,Saqib Zulfiqar,SW Poynter,,0,4,4,,,,382623826
+2,Ireland,10,JNK Shannon,Saqib Zulfiqar,SW Poynter,,0,1,1,,,,382623826
+2,Ireland,10,SW Poynter,Saqib Zulfiqar,JNK Shannon,,0,1,1,,,,382623826
+2,Ireland,11,SW Poynter,S Snater,JNK Shannon,,0,1,1,,,,382623826
+2,Ireland,11,JNK Shannon,S Snater,SW Poynter,,0,0,0,caught,JNK Shannon,PM Seelaar,382623826
+2,Ireland,11,SW Poynter,S Snater,Simi Singh,,0,1,1,,,,382623826
+2,Ireland,11,Simi Singh,S Snater,SW Poynter,,0,0,0,,,,382623826
+2,Ireland,11,Simi Singh,S Snater,SW Poynter,,0,1,1,,,,382623826
+2,Ireland,11,SW Poynter,S Snater,Simi Singh,,0,1,1,,,,382623826
+2,Ireland,12,SW Poynter,FJ Klaassen,Simi Singh,,0,0,0,,,,382623826
+2,Ireland,12,SW Poynter,FJ Klaassen,Simi Singh,wides,1,1,0,,,,382623826
+2,Ireland,12,SW Poynter,FJ Klaassen,Simi Singh,,0,0,0,,,,382623826
+2,Ireland,12,SW Poynter,FJ Klaassen,Simi Singh,,0,0,0,,,,382623826
+2,Ireland,12,SW Poynter,FJ Klaassen,Simi Singh,,0,1,1,,,,382623826
+2,Ireland,12,Simi Singh,FJ Klaassen,SW Poynter,wides,1,1,0,,,,382623826
+2,Ireland,12,Simi Singh,FJ Klaassen,SW Poynter,,0,1,1,,,,382623826
+2,Ireland,12,SW Poynter,FJ Klaassen,Simi Singh,,0,1,1,,,,382623826
+2,Ireland,13,SW Poynter,MP O'Dowd,Simi Singh,,0,0,0,bowled,SW Poynter,,382623826
+2,Ireland,13,GH Dockrell,MP O'Dowd,Simi Singh,,0,1,1,,,,382623826
+2,Ireland,13,Simi Singh,MP O'Dowd,GH Dockrell,,0,1,1,,,,382623826
+2,Ireland,13,GH Dockrell,MP O'Dowd,Simi Singh,,0,1,1,,,,382623826
+2,Ireland,13,Simi Singh,MP O'Dowd,GH Dockrell,,0,6,6,,,,382623826
+2,Ireland,13,Simi Singh,MP O'Dowd,GH Dockrell,,0,1,1,,,,382623826
+2,Ireland,14,Simi Singh,Saqib Zulfiqar,GH Dockrell,,0,1,1,,,,382623826
+2,Ireland,14,GH Dockrell,Saqib Zulfiqar,Simi Singh,,0,1,1,,,,382623826
+2,Ireland,14,Simi Singh,Saqib Zulfiqar,GH Dockrell,,0,6,6,,,,382623826
+2,Ireland,14,Simi Singh,Saqib Zulfiqar,GH Dockrell,,0,1,1,,,,382623826
+2,Ireland,14,GH Dockrell,Saqib Zulfiqar,Simi Singh,,0,1,1,,,,382623826
+2,Ireland,14,Simi Singh,Saqib Zulfiqar,GH Dockrell,,0,1,1,,,,382623826
+2,Ireland,15,Simi Singh,S Snater,GH Dockrell,wides,1,1,0,,,,382623826
+2,Ireland,15,Simi Singh,S Snater,GH Dockrell,,0,1,1,,,,382623826
+2,Ireland,15,GH Dockrell,S Snater,Simi Singh,,0,2,2,,,,382623826
+2,Ireland,15,GH Dockrell,S Snater,Simi Singh,noballs,1,1,0,,,,382623826
+2,Ireland,15,GH Dockrell,S Snater,Simi Singh,,0,1,1,,,,382623826
+2,Ireland,15,Simi Singh,S Snater,GH Dockrell,,0,0,0,,,,382623826
+2,Ireland,15,Simi Singh,S Snater,GH Dockrell,,0,1,1,,,,382623826
+2,Ireland,15,GH Dockrell,S Snater,Simi Singh,,0,0,0,,,,382623826
+2,Ireland,16,Simi Singh,PM Seelaar,GH Dockrell,,0,2,2,,,,382623826
+2,Ireland,16,Simi Singh,PM Seelaar,GH Dockrell,,0,1,1,,,,382623826
+2,Ireland,16,GH Dockrell,PM Seelaar,Simi Singh,,0,2,2,,,,382623826
+2,Ireland,16,GH Dockrell,PM Seelaar,Simi Singh,,0,0,0,caught,GH Dockrell,S Snater,382623826
+2,Ireland,16,Simi Singh,PM Seelaar,BJ McCarthy,,0,4,4,,,,382623826
+2,Ireland,16,Simi Singh,PM Seelaar,BJ McCarthy,,0,1,1,,,,382623826
+2,Ireland,17,Simi Singh,PA van Meekeren,BJ McCarthy,,0,2,2,,,,382623826
+2,Ireland,17,Simi Singh,PA van Meekeren,BJ McCarthy,,0,4,4,,,,382623826
+2,Ireland,17,Simi Singh,PA van Meekeren,BJ McCarthy,,0,0,0,,,,382623826
+2,Ireland,17,Simi Singh,PA van Meekeren,BJ McCarthy,,0,1,1,,,,382623826
+2,Ireland,17,BJ McCarthy,PA van Meekeren,Simi Singh,,0,2,2,,,,382623826
+2,Ireland,17,BJ McCarthy,PA van Meekeren,Simi Singh,,0,1,1,,,,382623826
+2,Ireland,18,BJ McCarthy,FJ Klaassen,Simi Singh,,0,1,1,,,,382623826
+2,Ireland,18,Simi Singh,FJ Klaassen,BJ McCarthy,,0,6,6,,,,382623826
+2,Ireland,18,Simi Singh,FJ Klaassen,BJ McCarthy,,0,4,4,,,,382623826
+2,Ireland,18,Simi Singh,FJ Klaassen,BJ McCarthy,,0,4,4,,,,382623826
+2,Ireland,18,Simi Singh,FJ Klaassen,BJ McCarthy,,0,1,1,,,,382623826
+2,Ireland,18,BJ McCarthy,FJ Klaassen,Simi Singh,,0,6,6,,,,382623826
+2,Ireland,19,Simi Singh,PA van Meekeren,BJ McCarthy,,0,2,2,,,,382623826
+2,Ireland,19,Simi Singh,PA van Meekeren,BJ McCarthy,,0,2,2,,,,382623826
+2,Ireland,19,Simi Singh,PA van Meekeren,BJ McCarthy,,0,1,1,,,,382623826
+2,Ireland,19,BJ McCarthy,PA van Meekeren,Simi Singh,,0,0,0,,,,382623826
+2,Ireland,19,BJ McCarthy,PA van Meekeren,Simi Singh,,0,1,1,,,,382623826
+2,Ireland,19,Simi Singh,PA van Meekeren,BJ McCarthy,,0,1,1,,,,382623826

@@ -1,0 +1,127 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,H Davids,MJ McClenaghan,F du Plessis,legbyes,1,1,0,,,,330223302
+1,South Africa,0,F du Plessis,MJ McClenaghan,H Davids,,0,0,0,,,,330223302
+1,South Africa,0,F du Plessis,MJ McClenaghan,H Davids,,0,0,0,,,,330223302
+1,South Africa,0,F du Plessis,MJ McClenaghan,H Davids,,0,0,0,,,,330223302
+1,South Africa,0,F du Plessis,MJ McClenaghan,H Davids,,0,1,1,,,,330223302
+1,South Africa,0,H Davids,MJ McClenaghan,F du Plessis,,0,0,0,,,,330223302
+1,South Africa,1,F du Plessis,RM Hira,H Davids,,0,0,0,,,,330223302
+1,South Africa,1,F du Plessis,RM Hira,H Davids,,0,0,0,,,,330223302
+1,South Africa,1,F du Plessis,RM Hira,H Davids,,0,0,0,,,,330223302
+1,South Africa,1,F du Plessis,RM Hira,H Davids,,0,0,0,,,,330223302
+1,South Africa,1,F du Plessis,RM Hira,H Davids,,0,0,0,bowled,F du Plessis,,330223302
+1,South Africa,1,Q de Kock,RM Hira,H Davids,,0,0,0,,,,330223302
+1,South Africa,2,H Davids,MJ McClenaghan,Q de Kock,,0,4,4,,,,330223302
+1,South Africa,2,H Davids,MJ McClenaghan,Q de Kock,,0,0,0,,,,330223302
+1,South Africa,2,H Davids,MJ McClenaghan,Q de Kock,,0,0,0,,,,330223302
+1,South Africa,2,H Davids,MJ McClenaghan,Q de Kock,wides,1,1,0,,,,330223302
+1,South Africa,2,H Davids,MJ McClenaghan,Q de Kock,,0,0,0,,,,330223302
+1,South Africa,2,H Davids,MJ McClenaghan,Q de Kock,,0,0,0,,,,330223302
+1,South Africa,2,H Davids,MJ McClenaghan,Q de Kock,,0,1,1,,,,330223302
+1,South Africa,3,H Davids,NL McCullum,Q de Kock,,0,0,0,,,,330223302
+1,South Africa,3,H Davids,NL McCullum,Q de Kock,,0,4,4,,,,330223302
+1,South Africa,3,H Davids,NL McCullum,Q de Kock,,0,6,6,,,,330223302
+1,South Africa,3,H Davids,NL McCullum,Q de Kock,,0,1,1,,,,330223302
+1,South Africa,3,Q de Kock,NL McCullum,H Davids,,0,1,1,,,,330223302
+1,South Africa,3,H Davids,NL McCullum,Q de Kock,,0,0,0,,,,330223302
+1,South Africa,4,Q de Kock,MJ McClenaghan,H Davids,,0,1,1,,,,330223302
+1,South Africa,4,H Davids,MJ McClenaghan,Q de Kock,,0,4,4,,,,330223302
+1,South Africa,4,H Davids,MJ McClenaghan,Q de Kock,,0,1,1,,,,330223302
+1,South Africa,4,Q de Kock,MJ McClenaghan,H Davids,,0,0,0,caught,Q de Kock,CJ Anderson,330223302
+1,South Africa,4,H Davids,MJ McClenaghan,JL Ontong,,0,0,0,,,,330223302
+1,South Africa,4,H Davids,MJ McClenaghan,JL Ontong,,0,4,4,,,,330223302
+1,South Africa,5,JL Ontong,RM Hira,H Davids,,0,0,0,,,,330223302
+1,South Africa,5,JL Ontong,RM Hira,H Davids,,0,1,1,,,,330223302
+1,South Africa,5,H Davids,RM Hira,JL Ontong,,0,1,1,,,,330223302
+1,South Africa,5,JL Ontong,RM Hira,H Davids,,0,2,2,,,,330223302
+1,South Africa,5,JL Ontong,RM Hira,H Davids,,0,1,1,,,,330223302
+1,South Africa,5,H Davids,RM Hira,JL Ontong,,0,1,1,,,,330223302
+1,South Africa,6,H Davids,JEC Franklin,JL Ontong,,0,2,2,,,,330223302
+1,South Africa,6,H Davids,JEC Franklin,JL Ontong,,0,1,1,,,,330223302
+1,South Africa,6,JL Ontong,JEC Franklin,H Davids,,0,0,0,,,,330223302
+1,South Africa,6,JL Ontong,JEC Franklin,H Davids,,0,1,1,,,,330223302
+1,South Africa,6,H Davids,JEC Franklin,JL Ontong,,0,0,0,,,,330223302
+1,South Africa,6,H Davids,JEC Franklin,JL Ontong,,0,1,1,,,,330223302
+1,South Africa,7,H Davids,DAJ Bracewell,JL Ontong,,0,0,0,,,,330223302
+1,South Africa,7,H Davids,DAJ Bracewell,JL Ontong,,0,1,1,,,,330223302
+1,South Africa,7,JL Ontong,DAJ Bracewell,H Davids,,0,4,4,,,,330223302
+1,South Africa,7,JL Ontong,DAJ Bracewell,H Davids,,0,1,1,,,,330223302
+1,South Africa,7,H Davids,DAJ Bracewell,JL Ontong,legbyes,2,2,0,,,,330223302
+1,South Africa,7,H Davids,DAJ Bracewell,JL Ontong,,0,0,0,,,,330223302
+1,South Africa,8,JL Ontong,JDS Neesham,H Davids,,0,1,1,,,,330223302
+1,South Africa,8,H Davids,JDS Neesham,JL Ontong,,0,1,1,,,,330223302
+1,South Africa,8,JL Ontong,JDS Neesham,H Davids,,0,1,1,,,,330223302
+1,South Africa,8,H Davids,JDS Neesham,JL Ontong,,0,1,1,,,,330223302
+1,South Africa,8,JL Ontong,JDS Neesham,H Davids,,0,1,1,,,,330223302
+1,South Africa,8,H Davids,JDS Neesham,JL Ontong,,0,4,4,,,,330223302
+1,South Africa,9,JL Ontong,RM Hira,H Davids,,0,1,1,,,,330223302
+1,South Africa,9,H Davids,RM Hira,JL Ontong,,0,0,0,,,,330223302
+1,South Africa,9,H Davids,RM Hira,JL Ontong,,0,1,1,,,,330223302
+1,South Africa,9,JL Ontong,RM Hira,H Davids,,0,1,1,,,,330223302
+1,South Africa,9,H Davids,RM Hira,JL Ontong,,0,1,1,,,,330223302
+1,South Africa,9,JL Ontong,RM Hira,H Davids,,0,1,1,,,,330223302
+1,South Africa,10,JL Ontong,JEC Franklin,H Davids,,0,1,1,,,,330223302
+1,South Africa,10,H Davids,JEC Franklin,JL Ontong,,0,0,0,,,,330223302
+1,South Africa,10,H Davids,JEC Franklin,JL Ontong,,0,4,4,,,,330223302
+1,South Africa,10,H Davids,JEC Franklin,JL Ontong,,0,1,1,,,,330223302
+1,South Africa,10,JL Ontong,JEC Franklin,H Davids,,0,1,1,,,,330223302
+1,South Africa,10,H Davids,JEC Franklin,JL Ontong,,0,1,1,,,,330223302
+1,South Africa,11,H Davids,RM Hira,JL Ontong,,0,1,1,,,,330223302
+1,South Africa,11,JL Ontong,RM Hira,H Davids,,0,1,1,,,,330223302
+1,South Africa,11,H Davids,RM Hira,JL Ontong,,0,1,1,,,,330223302
+1,South Africa,11,JL Ontong,RM Hira,H Davids,,0,6,6,,,,330223302
+1,South Africa,11,JL Ontong,RM Hira,H Davids,,0,2,2,,,,330223302
+1,South Africa,11,JL Ontong,RM Hira,H Davids,,0,2,2,,,,330223302
+1,South Africa,12,H Davids,JDS Neesham,JL Ontong,,0,1,1,,,,330223302
+1,South Africa,12,JL Ontong,JDS Neesham,H Davids,legbyes,1,1,0,,,,330223302
+1,South Africa,12,H Davids,JDS Neesham,JL Ontong,,0,1,1,,,,330223302
+1,South Africa,12,JL Ontong,JDS Neesham,H Davids,,0,1,1,,,,330223302
+1,South Africa,12,H Davids,JDS Neesham,JL Ontong,,0,4,4,,,,330223302
+1,South Africa,12,H Davids,JDS Neesham,JL Ontong,,0,1,1,,,,330223302
+1,South Africa,13,H Davids,NL McCullum,JL Ontong,,0,2,2,,,,330223302
+1,South Africa,13,H Davids,NL McCullum,JL Ontong,,0,1,1,,,,330223302
+1,South Africa,13,JL Ontong,NL McCullum,H Davids,,0,1,1,,,,330223302
+1,South Africa,13,H Davids,NL McCullum,JL Ontong,,0,1,1,,,,330223302
+1,South Africa,13,JL Ontong,NL McCullum,H Davids,,0,0,0,,,,330223302
+1,South Africa,13,JL Ontong,NL McCullum,H Davids,,0,1,1,,,,330223302
+1,South Africa,14,JL Ontong,JEC Franklin,H Davids,,0,6,6,,,,330223302
+1,South Africa,14,JL Ontong,JEC Franklin,H Davids,,0,6,6,,,,330223302
+1,South Africa,14,JL Ontong,JEC Franklin,H Davids,,0,2,2,,,,330223302
+1,South Africa,14,JL Ontong,JEC Franklin,H Davids,,0,2,2,,,,330223302
+1,South Africa,14,JL Ontong,JEC Franklin,H Davids,,0,0,0,caught,JL Ontong,CJ Anderson,330223302
+1,South Africa,14,H Davids,JEC Franklin,DA Miller,,0,1,1,,,,330223302
+1,South Africa,15,H Davids,DAJ Bracewell,DA Miller,,0,6,6,,,,330223302
+1,South Africa,15,H Davids,DAJ Bracewell,DA Miller,wides,1,1,0,,,,330223302
+1,South Africa,15,H Davids,DAJ Bracewell,DA Miller,,0,1,1,,,,330223302
+1,South Africa,15,DA Miller,DAJ Bracewell,H Davids,,0,4,4,,,,330223302
+1,South Africa,15,DA Miller,DAJ Bracewell,H Davids,,0,1,1,,,,330223302
+1,South Africa,15,H Davids,DAJ Bracewell,DA Miller,,0,1,1,,,,330223302
+1,South Africa,15,DA Miller,DAJ Bracewell,H Davids,,0,1,1,,,,330223302
+1,South Africa,16,DA Miller,MJ McClenaghan,H Davids,wides,1,1,0,,,,330223302
+1,South Africa,16,DA Miller,MJ McClenaghan,H Davids,,0,2,2,,,,330223302
+1,South Africa,16,DA Miller,MJ McClenaghan,H Davids,,0,1,1,,,,330223302
+1,South Africa,16,H Davids,MJ McClenaghan,DA Miller,,0,0,0,caught,H Davids,CJ Anderson,330223302
+1,South Africa,16,DA Miller,MJ McClenaghan,F Behardien,,0,1,1,,,,330223302
+1,South Africa,16,F Behardien,MJ McClenaghan,DA Miller,,0,1,1,,,,330223302
+1,South Africa,16,DA Miller,MJ McClenaghan,F Behardien,,0,1,1,,,,330223302
+1,South Africa,17,DA Miller,NL McCullum,F Behardien,,0,1,1,,,,330223302
+1,South Africa,17,F Behardien,NL McCullum,DA Miller,,0,2,2,,,,330223302
+1,South Africa,17,F Behardien,NL McCullum,DA Miller,,0,4,4,,,,330223302
+1,South Africa,17,F Behardien,NL McCullum,DA Miller,,0,1,1,,,,330223302
+1,South Africa,17,DA Miller,NL McCullum,F Behardien,,0,1,1,,,,330223302
+1,South Africa,17,F Behardien,NL McCullum,DA Miller,,0,0,0,,,,330223302
+1,South Africa,18,DA Miller,JDS Neesham,F Behardien,,0,1,1,,,,330223302
+1,South Africa,18,F Behardien,JDS Neesham,DA Miller,wides,1,1,0,,,,330223302
+1,South Africa,18,F Behardien,JDS Neesham,DA Miller,wides,1,1,0,,,,330223302
+1,South Africa,18,F Behardien,JDS Neesham,DA Miller,,0,4,4,,,,330223302
+1,South Africa,18,F Behardien,JDS Neesham,DA Miller,,0,6,6,,,,330223302
+1,South Africa,18,F Behardien,JDS Neesham,DA Miller,,0,2,2,,,,330223302
+1,South Africa,18,F Behardien,JDS Neesham,DA Miller,,0,0,0,,,,330223302
+1,South Africa,18,F Behardien,JDS Neesham,DA Miller,wides,1,1,0,,,,330223302
+1,South Africa,18,F Behardien,JDS Neesham,DA Miller,,0,2,2,,,,330223302
+1,South Africa,19,DA Miller,DAJ Bracewell,F Behardien,,0,4,4,,,,330223302
+1,South Africa,19,DA Miller,DAJ Bracewell,F Behardien,,0,4,4,,,,330223302
+1,South Africa,19,DA Miller,DAJ Bracewell,F Behardien,,0,2,2,,,,330223302
+1,South Africa,19,DA Miller,DAJ Bracewell,F Behardien,,0,4,4,,,,330223302
+1,South Africa,19,DA Miller,DAJ Bracewell,F Behardien,,0,0,0,caught,DA Miller,CJ Anderson,330223302
+1,South Africa,19,F Behardien,DAJ Bracewell,RK Kleinveldt,,0,0,0,caught,F Behardien,MJ McClenaghan,330223302

@@ -1,0 +1,119 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,West Indies,0,LMP Simmons,A Dananjaya,E Lewis,,0,1,1,,,,31479231479
+2,West Indies,0,E Lewis,A Dananjaya,LMP Simmons,,0,4,4,,,,31479231479
+2,West Indies,0,E Lewis,A Dananjaya,LMP Simmons,,0,0,0,,,,31479231479
+2,West Indies,0,E Lewis,A Dananjaya,LMP Simmons,,0,0,0,,,,31479231479
+2,West Indies,0,E Lewis,A Dananjaya,LMP Simmons,,0,6,6,,,,31479231479
+2,West Indies,0,E Lewis,A Dananjaya,LMP Simmons,,0,0,0,,,,31479231479
+2,West Indies,1,LMP Simmons,PVD Chameera,E Lewis,legbyes,4,4,0,,,,31479231479
+2,West Indies,1,LMP Simmons,PVD Chameera,E Lewis,,0,0,0,,,,31479231479
+2,West Indies,1,LMP Simmons,PVD Chameera,E Lewis,,0,1,1,,,,31479231479
+2,West Indies,1,E Lewis,PVD Chameera,LMP Simmons,,0,1,1,,,,31479231479
+2,West Indies,1,LMP Simmons,PVD Chameera,E Lewis,,0,2,2,,,,31479231479
+2,West Indies,1,LMP Simmons,PVD Chameera,E Lewis,,0,1,1,,,,31479231479
+2,West Indies,2,LMP Simmons,A Dananjaya,E Lewis,,0,1,1,,,,31479231479
+2,West Indies,2,E Lewis,A Dananjaya,LMP Simmons,,0,0,0,,,,31479231479
+2,West Indies,2,E Lewis,A Dananjaya,LMP Simmons,,0,0,0,,,,31479231479
+2,West Indies,2,E Lewis,A Dananjaya,LMP Simmons,,0,0,0,,,,31479231479
+2,West Indies,2,E Lewis,A Dananjaya,LMP Simmons,,0,4,4,,,,31479231479
+2,West Indies,2,E Lewis,A Dananjaya,LMP Simmons,,0,1,1,,,,31479231479
+2,West Indies,3,E Lewis,PVD Chameera,LMP Simmons,,0,0,0,,,,31479231479
+2,West Indies,3,E Lewis,PVD Chameera,LMP Simmons,,0,4,4,,,,31479231479
+2,West Indies,3,E Lewis,PVD Chameera,LMP Simmons,,0,0,0,,,,31479231479
+2,West Indies,3,E Lewis,PVD Chameera,LMP Simmons,,0,1,1,,,,31479231479
+2,West Indies,3,LMP Simmons,PVD Chameera,E Lewis,,0,4,4,,,,31479231479
+2,West Indies,3,LMP Simmons,PVD Chameera,E Lewis,,0,1,1,,,,31479231479
+2,West Indies,4,LMP Simmons,PWH de Silva,E Lewis,,0,1,1,,,,31479231479
+2,West Indies,4,E Lewis,PWH de Silva,LMP Simmons,,0,0,0,,,,31479231479
+2,West Indies,4,E Lewis,PWH de Silva,LMP Simmons,,0,0,0,,,,31479231479
+2,West Indies,4,E Lewis,PWH de Silva,LMP Simmons,,0,0,0,lbw,E Lewis,,31479231479
+2,West Indies,4,CH Gayle,PWH de Silva,LMP Simmons,,0,1,1,,,,31479231479
+2,West Indies,4,LMP Simmons,PWH de Silva,CH Gayle,,0,0,0,,,,31479231479
+2,West Indies,5,CH Gayle,A Dananjaya,LMP Simmons,,0,0,0,,,,31479231479
+2,West Indies,5,CH Gayle,A Dananjaya,LMP Simmons,legbyes,1,1,0,,,,31479231479
+2,West Indies,5,LMP Simmons,A Dananjaya,CH Gayle,,0,0,0,,,,31479231479
+2,West Indies,5,LMP Simmons,A Dananjaya,CH Gayle,,0,4,4,,,,31479231479
+2,West Indies,5,LMP Simmons,A Dananjaya,CH Gayle,,0,6,6,,,,31479231479
+2,West Indies,5,LMP Simmons,A Dananjaya,CH Gayle,,0,4,4,,,,31479231479
+2,West Indies,6,CH Gayle,PWH de Silva,LMP Simmons,,0,0,0,,,,31479231479
+2,West Indies,6,CH Gayle,PWH de Silva,LMP Simmons,,0,1,1,,,,31479231479
+2,West Indies,6,LMP Simmons,PWH de Silva,CH Gayle,,0,0,0,,,,31479231479
+2,West Indies,6,LMP Simmons,PWH de Silva,CH Gayle,,0,0,0,,,,31479231479
+2,West Indies,6,LMP Simmons,PWH de Silva,CH Gayle,,0,0,0,stumped,LMP Simmons,N Dickwella,31479231479
+2,West Indies,6,KA Pollard,PWH de Silva,CH Gayle,,0,0,0,,,,31479231479
+2,West Indies,7,CH Gayle,PVD Chameera,KA Pollard,,0,0,0,,,,31479231479
+2,West Indies,7,CH Gayle,PVD Chameera,KA Pollard,wides,1,1,0,,,,31479231479
+2,West Indies,7,CH Gayle,PVD Chameera,KA Pollard,wides,1,1,0,,,,31479231479
+2,West Indies,7,CH Gayle,PVD Chameera,KA Pollard,,0,0,0,,,,31479231479
+2,West Indies,7,CH Gayle,PVD Chameera,KA Pollard,,0,4,4,,,,31479231479
+2,West Indies,7,CH Gayle,PVD Chameera,KA Pollard,,0,1,1,,,,31479231479
+2,West Indies,7,KA Pollard,PVD Chameera,CH Gayle,,0,0,0,,,,31479231479
+2,West Indies,7,KA Pollard,PVD Chameera,CH Gayle,,0,0,0,caught,KA Pollard,N Dickwella,31479231479
+2,West Indies,8,CH Gayle,MD Gunathilaka,N Pooran,,0,1,1,,,,31479231479
+2,West Indies,8,N Pooran,MD Gunathilaka,CH Gayle,,0,0,0,,,,31479231479
+2,West Indies,8,N Pooran,MD Gunathilaka,CH Gayle,,0,0,0,,,,31479231479
+2,West Indies,8,N Pooran,MD Gunathilaka,CH Gayle,,0,0,0,,,,31479231479
+2,West Indies,8,N Pooran,MD Gunathilaka,CH Gayle,,0,1,1,,,,31479231479
+2,West Indies,8,CH Gayle,MD Gunathilaka,N Pooran,,0,1,1,,,,31479231479
+2,West Indies,9,CH Gayle,PADLR Sandakan,N Pooran,,0,0,0,,,,31479231479
+2,West Indies,9,CH Gayle,PADLR Sandakan,N Pooran,,0,0,0,,,,31479231479
+2,West Indies,9,CH Gayle,PADLR Sandakan,N Pooran,wides,1,1,0,,,,31479231479
+2,West Indies,9,CH Gayle,PADLR Sandakan,N Pooran,,0,1,1,,,,31479231479
+2,West Indies,9,N Pooran,PADLR Sandakan,CH Gayle,,0,1,1,,,,31479231479
+2,West Indies,9,CH Gayle,PADLR Sandakan,N Pooran,,0,1,1,,,,31479231479
+2,West Indies,9,N Pooran,PADLR Sandakan,CH Gayle,,0,1,1,,,,31479231479
+2,West Indies,10,N Pooran,MD Gunathilaka,CH Gayle,,0,1,1,,,,31479231479
+2,West Indies,10,CH Gayle,MD Gunathilaka,N Pooran,,0,1,1,,,,31479231479
+2,West Indies,10,N Pooran,MD Gunathilaka,CH Gayle,,0,1,1,,,,31479231479
+2,West Indies,10,CH Gayle,MD Gunathilaka,N Pooran,,0,1,1,,,,31479231479
+2,West Indies,10,N Pooran,MD Gunathilaka,CH Gayle,,0,1,1,,,,31479231479
+2,West Indies,10,CH Gayle,MD Gunathilaka,N Pooran,,0,0,0,,,,31479231479
+2,West Indies,11,N Pooran,PADLR Sandakan,CH Gayle,,0,1,1,,,,31479231479
+2,West Indies,11,CH Gayle,PADLR Sandakan,N Pooran,,0,0,0,,,,31479231479
+2,West Indies,11,CH Gayle,PADLR Sandakan,N Pooran,,0,0,0,bowled,CH Gayle,,31479231479
+2,West Indies,11,JO Holder,PADLR Sandakan,N Pooran,,0,0,0,,,,31479231479
+2,West Indies,11,JO Holder,PADLR Sandakan,N Pooran,,0,1,1,,,,31479231479
+2,West Indies,11,N Pooran,PADLR Sandakan,JO Holder,,0,1,1,,,,31479231479
+2,West Indies,12,N Pooran,MD Gunathilaka,JO Holder,,0,1,1,,,,31479231479
+2,West Indies,12,JO Holder,MD Gunathilaka,N Pooran,,0,0,0,,,,31479231479
+2,West Indies,12,JO Holder,MD Gunathilaka,N Pooran,,0,1,1,,,,31479231479
+2,West Indies,12,N Pooran,MD Gunathilaka,JO Holder,,0,0,0,,,,31479231479
+2,West Indies,12,N Pooran,MD Gunathilaka,JO Holder,,0,1,1,,,,31479231479
+2,West Indies,12,JO Holder,MD Gunathilaka,N Pooran,,0,0,0,,,,31479231479
+2,West Indies,13,N Pooran,PADLR Sandakan,JO Holder,,0,6,6,,,,31479231479
+2,West Indies,13,N Pooran,PADLR Sandakan,JO Holder,,0,1,1,,,,31479231479
+2,West Indies,13,JO Holder,PADLR Sandakan,N Pooran,,0,0,0,,,,31479231479
+2,West Indies,13,JO Holder,PADLR Sandakan,N Pooran,,0,0,0,,,,31479231479
+2,West Indies,13,JO Holder,PADLR Sandakan,N Pooran,,0,1,1,,,,31479231479
+2,West Indies,13,N Pooran,PADLR Sandakan,JO Holder,,0,6,6,,,,31479231479
+2,West Indies,14,JO Holder,PVD Chameera,N Pooran,,0,1,1,,,,31479231479
+2,West Indies,14,N Pooran,PVD Chameera,JO Holder,,0,0,0,bowled,N Pooran,,31479231479
+2,West Indies,14,R Powell,PVD Chameera,JO Holder,,0,0,0,,,,31479231479
+2,West Indies,14,R Powell,PVD Chameera,JO Holder,,0,0,0,,,,31479231479
+2,West Indies,14,R Powell,PVD Chameera,JO Holder,,0,0,0,,,,31479231479
+2,West Indies,14,R Powell,PVD Chameera,JO Holder,,0,0,0,,,,31479231479
+2,West Indies,15,JO Holder,PWH de Silva,R Powell,,0,0,0,,,,31479231479
+2,West Indies,15,JO Holder,PWH de Silva,R Powell,,0,1,1,,,,31479231479
+2,West Indies,15,R Powell,PWH de Silva,JO Holder,,0,1,1,,,,31479231479
+2,West Indies,15,JO Holder,PWH de Silva,R Powell,,0,0,0,,,,31479231479
+2,West Indies,15,JO Holder,PWH de Silva,R Powell,,0,1,1,,,,31479231479
+2,West Indies,15,R Powell,PWH de Silva,JO Holder,,0,0,0,,,,31479231479
+2,West Indies,16,JO Holder,PADLR Sandakan,R Powell,,0,0,0,,,,31479231479
+2,West Indies,16,JO Holder,PADLR Sandakan,R Powell,,0,1,1,,,,31479231479
+2,West Indies,16,R Powell,PADLR Sandakan,JO Holder,,0,6,6,,,,31479231479
+2,West Indies,16,R Powell,PADLR Sandakan,JO Holder,,0,0,0,bowled,R Powell,,31479231479
+2,West Indies,16,DJ Bravo,PADLR Sandakan,JO Holder,,0,0,0,caught,DJ Bravo,A Dananjaya,31479231479
+2,West Indies,16,FA Allen,PADLR Sandakan,JO Holder,,0,0,0,,,,31479231479
+2,West Indies,17,JO Holder,PWH de Silva,FA Allen,,0,0,0,,,,31479231479
+2,West Indies,17,JO Holder,PWH de Silva,FA Allen,,0,0,0,,,,31479231479
+2,West Indies,17,JO Holder,PWH de Silva,FA Allen,noballs,1,1,0,,,,31479231479
+2,West Indies,17,JO Holder,PWH de Silva,FA Allen,,0,6,6,,,,31479231479
+2,West Indies,17,JO Holder,PWH de Silva,FA Allen,,0,0,0,,,,31479231479
+2,West Indies,17,JO Holder,PWH de Silva,FA Allen,,0,0,0,,,,31479231479
+2,West Indies,17,JO Holder,PWH de Silva,FA Allen,,0,0,0,,,,31479231479
+2,West Indies,18,FA Allen,A Dananjaya,JO Holder,,0,6,6,,,,31479231479
+2,West Indies,18,FA Allen,A Dananjaya,JO Holder,,0,2,2,,,,31479231479
+2,West Indies,18,FA Allen,A Dananjaya,JO Holder,,0,6,6,,,,31479231479
+2,West Indies,18,FA Allen,A Dananjaya,JO Holder,,0,1,1,,,,31479231479
+2,West Indies,18,JO Holder,A Dananjaya,FA Allen,,0,1,1,,,,31479231479
+2,West Indies,18,FA Allen,A Dananjaya,JO Holder,,0,6,6,,,,31479231479

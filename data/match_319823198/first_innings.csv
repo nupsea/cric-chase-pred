@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,RE Levi,RM Hira,HM Amla,,0,0,0,,,,319823198
+1,South Africa,0,RE Levi,RM Hira,HM Amla,,0,1,1,,,,319823198
+1,South Africa,0,HM Amla,RM Hira,RE Levi,,0,1,1,,,,319823198
+1,South Africa,0,RE Levi,RM Hira,HM Amla,,0,4,4,,,,319823198
+1,South Africa,0,RE Levi,RM Hira,HM Amla,,0,0,0,,,,319823198
+1,South Africa,0,RE Levi,RM Hira,HM Amla,,0,0,0,,,,319823198
+1,South Africa,1,HM Amla,MD Bates,RE Levi,,0,4,4,,,,319823198
+1,South Africa,1,HM Amla,MD Bates,RE Levi,,0,0,0,,,,319823198
+1,South Africa,1,HM Amla,MD Bates,RE Levi,,0,0,0,,,,319823198
+1,South Africa,1,HM Amla,MD Bates,RE Levi,,0,4,4,,,,319823198
+1,South Africa,1,HM Amla,MD Bates,RE Levi,,0,0,0,,,,319823198
+1,South Africa,1,HM Amla,MD Bates,RE Levi,,0,0,0,,,,319823198
+1,South Africa,2,RE Levi,JEC Franklin,HM Amla,,0,6,6,,,,319823198
+1,South Africa,2,RE Levi,JEC Franklin,HM Amla,,0,0,0,caught,RE Levi,RJ Nicol,319823198
+1,South Africa,2,HM Amla,JEC Franklin,JA Morkel,,0,1,1,,,,319823198
+1,South Africa,2,JA Morkel,JEC Franklin,HM Amla,,0,0,0,,,,319823198
+1,South Africa,2,JA Morkel,JEC Franklin,HM Amla,,0,1,1,,,,319823198
+1,South Africa,2,HM Amla,JEC Franklin,JA Morkel,,0,1,1,,,,319823198
+1,South Africa,3,HM Amla,MD Bates,JA Morkel,,0,4,4,,,,319823198
+1,South Africa,3,HM Amla,MD Bates,JA Morkel,,0,1,1,,,,319823198
+1,South Africa,3,JA Morkel,MD Bates,HM Amla,,0,1,1,,,,319823198
+1,South Africa,3,HM Amla,MD Bates,JA Morkel,,0,1,1,,,,319823198
+1,South Africa,3,JA Morkel,MD Bates,HM Amla,,0,6,6,,,,319823198
+1,South Africa,3,JA Morkel,MD Bates,HM Amla,,0,1,1,,,,319823198
+1,South Africa,4,JA Morkel,TG Southee,HM Amla,,0,0,0,,,,319823198
+1,South Africa,4,JA Morkel,TG Southee,HM Amla,,0,1,1,,,,319823198
+1,South Africa,4,HM Amla,TG Southee,JA Morkel,,0,1,1,,,,319823198
+1,South Africa,4,JA Morkel,TG Southee,HM Amla,,0,0,0,,,,319823198
+1,South Africa,4,JA Morkel,TG Southee,HM Amla,,0,0,0,caught,JA Morkel,RJ Nicol,319823198
+1,South Africa,4,HM Amla,TG Southee,AB de Villiers,,0,1,1,,,,319823198
+1,South Africa,5,HM Amla,RM Hira,AB de Villiers,,0,4,4,,,,319823198
+1,South Africa,5,HM Amla,RM Hira,AB de Villiers,,0,6,6,,,,319823198
+1,South Africa,5,HM Amla,RM Hira,AB de Villiers,,0,1,1,,,,319823198
+1,South Africa,5,AB de Villiers,RM Hira,HM Amla,,0,1,1,,,,319823198
+1,South Africa,5,HM Amla,RM Hira,AB de Villiers,,0,0,0,,,,319823198
+1,South Africa,5,HM Amla,RM Hira,AB de Villiers,wides,1,1,0,,,,319823198
+1,South Africa,5,HM Amla,RM Hira,AB de Villiers,,0,1,1,,,,319823198
+1,South Africa,6,HM Amla,TG Southee,AB de Villiers,,0,1,1,,,,319823198
+1,South Africa,6,AB de Villiers,TG Southee,HM Amla,,0,0,0,,,,319823198
+1,South Africa,6,AB de Villiers,TG Southee,HM Amla,,0,1,1,,,,319823198
+1,South Africa,6,HM Amla,TG Southee,AB de Villiers,,0,1,1,,,,319823198
+1,South Africa,6,AB de Villiers,TG Southee,HM Amla,,0,0,0,,,,319823198
+1,South Africa,6,AB de Villiers,TG Southee,HM Amla,,0,2,2,,,,319823198
+1,South Africa,7,HM Amla,DAJ Bracewell,AB de Villiers,,0,0,0,caught,HM Amla,BB McCullum,319823198
+1,South Africa,7,JP Duminy,DAJ Bracewell,AB de Villiers,,0,0,0,,,,319823198
+1,South Africa,7,JP Duminy,DAJ Bracewell,AB de Villiers,,0,1,1,,,,319823198
+1,South Africa,7,AB de Villiers,DAJ Bracewell,JP Duminy,,0,1,1,,,,319823198
+1,South Africa,7,JP Duminy,DAJ Bracewell,AB de Villiers,,0,1,1,,,,319823198
+1,South Africa,7,AB de Villiers,DAJ Bracewell,JP Duminy,,0,1,1,,,,319823198
+1,South Africa,8,AB de Villiers,NL McCullum,JP Duminy,,0,1,1,,,,319823198
+1,South Africa,8,JP Duminy,NL McCullum,AB de Villiers,,0,2,2,,,,319823198
+1,South Africa,8,JP Duminy,NL McCullum,AB de Villiers,,0,1,1,,,,319823198
+1,South Africa,8,AB de Villiers,NL McCullum,JP Duminy,,0,1,1,,,,319823198
+1,South Africa,8,JP Duminy,NL McCullum,AB de Villiers,,0,0,0,,,,319823198
+1,South Africa,8,JP Duminy,NL McCullum,AB de Villiers,,0,1,1,,,,319823198
+1,South Africa,9,JP Duminy,DAJ Bracewell,AB de Villiers,,0,6,6,,,,319823198
+1,South Africa,9,JP Duminy,DAJ Bracewell,AB de Villiers,,0,2,2,,,,319823198
+1,South Africa,9,JP Duminy,DAJ Bracewell,AB de Villiers,,0,0,0,,,,319823198
+1,South Africa,9,JP Duminy,DAJ Bracewell,AB de Villiers,,0,0,0,,,,319823198
+1,South Africa,9,JP Duminy,DAJ Bracewell,AB de Villiers,,0,1,1,,,,319823198
+1,South Africa,9,AB de Villiers,DAJ Bracewell,JP Duminy,,0,1,1,,,,319823198
+1,South Africa,10,AB de Villiers,NL McCullum,JP Duminy,,0,1,1,,,,319823198
+1,South Africa,10,JP Duminy,NL McCullum,AB de Villiers,,0,4,4,,,,319823198
+1,South Africa,10,JP Duminy,NL McCullum,AB de Villiers,,0,1,1,,,,319823198
+1,South Africa,10,AB de Villiers,NL McCullum,JP Duminy,,0,4,4,,,,319823198
+1,South Africa,10,AB de Villiers,NL McCullum,JP Duminy,,0,1,1,,,,319823198
+1,South Africa,10,JP Duminy,NL McCullum,AB de Villiers,,0,5,5,,,,319823198
+1,South Africa,11,JP Duminy,JEC Franklin,AB de Villiers,,0,4,4,,,,319823198
+1,South Africa,11,JP Duminy,JEC Franklin,AB de Villiers,,0,1,1,,,,319823198
+1,South Africa,11,AB de Villiers,JEC Franklin,JP Duminy,,0,1,1,,,,319823198
+1,South Africa,11,JP Duminy,JEC Franklin,AB de Villiers,,0,6,6,,,,319823198
+1,South Africa,11,JP Duminy,JEC Franklin,AB de Villiers,,0,1,1,,,,319823198
+1,South Africa,11,AB de Villiers,JEC Franklin,JP Duminy,,0,1,1,,,,319823198
+1,South Africa,12,AB de Villiers,RJ Nicol,JP Duminy,,0,1,1,,,,319823198
+1,South Africa,12,JP Duminy,RJ Nicol,AB de Villiers,,0,1,1,,,,319823198
+1,South Africa,12,AB de Villiers,RJ Nicol,JP Duminy,,0,0,0,,,,319823198
+1,South Africa,12,AB de Villiers,RJ Nicol,JP Duminy,,0,6,6,,,,319823198
+1,South Africa,12,AB de Villiers,RJ Nicol,JP Duminy,,0,4,4,,,,319823198
+1,South Africa,12,AB de Villiers,RJ Nicol,JP Duminy,,0,0,0,run out,JP Duminy,RJ Nicol,319823198
+1,South Africa,13,JL Ontong,MD Bates,AB de Villiers,,0,0,0,,,,319823198
+1,South Africa,13,JL Ontong,MD Bates,AB de Villiers,,0,4,4,,,,319823198
+1,South Africa,13,JL Ontong,MD Bates,AB de Villiers,,0,1,1,,,,319823198
+1,South Africa,13,AB de Villiers,MD Bates,JL Ontong,,0,1,1,,,,319823198
+1,South Africa,13,JL Ontong,MD Bates,AB de Villiers,,0,1,1,,,,319823198
+1,South Africa,13,AB de Villiers,MD Bates,JL Ontong,legbyes,1,1,0,,,,319823198
+1,South Africa,14,AB de Villiers,RJ Nicol,JL Ontong,,0,0,0,bowled,AB de Villiers,,319823198
+1,South Africa,14,J Botha,RJ Nicol,JL Ontong,,0,1,1,,,,319823198
+1,South Africa,14,JL Ontong,RJ Nicol,J Botha,,0,0,0,lbw,JL Ontong,,319823198
+1,South Africa,14,WD Parnell,RJ Nicol,J Botha,,0,1,1,,,,319823198
+1,South Africa,14,J Botha,RJ Nicol,WD Parnell,,0,1,1,,,,319823198
+1,South Africa,14,WD Parnell,RJ Nicol,J Botha,,0,1,1,,,,319823198
+1,South Africa,15,WD Parnell,DAJ Bracewell,J Botha,,0,4,4,,,,319823198
+1,South Africa,15,WD Parnell,DAJ Bracewell,J Botha,,0,0,0,,,,319823198
+1,South Africa,15,WD Parnell,DAJ Bracewell,J Botha,,0,0,0,,,,319823198
+1,South Africa,15,WD Parnell,DAJ Bracewell,J Botha,,0,0,0,,,,319823198
+1,South Africa,15,WD Parnell,DAJ Bracewell,J Botha,,0,0,0,,,,319823198
+1,South Africa,15,WD Parnell,DAJ Bracewell,J Botha,,0,0,0,,,,319823198
+1,South Africa,16,J Botha,TG Southee,WD Parnell,,0,0,0,,,,319823198
+1,South Africa,16,J Botha,TG Southee,WD Parnell,,0,0,0,,,,319823198
+1,South Africa,16,J Botha,TG Southee,WD Parnell,,0,0,0,,,,319823198
+1,South Africa,16,J Botha,TG Southee,WD Parnell,,0,0,0,,,,319823198
+1,South Africa,16,J Botha,TG Southee,WD Parnell,,0,0,0,caught,J Botha,MJ Guptill,319823198
+1,South Africa,16,RJ Peterson,TG Southee,WD Parnell,,0,1,1,,,,319823198
+1,South Africa,17,RJ Peterson,DAJ Bracewell,WD Parnell,wides,1,1,0,,,,319823198
+1,South Africa,17,RJ Peterson,DAJ Bracewell,WD Parnell,,0,1,1,,,,319823198
+1,South Africa,17,WD Parnell,DAJ Bracewell,RJ Peterson,,0,1,1,,,,319823198
+1,South Africa,17,RJ Peterson,DAJ Bracewell,WD Parnell,,0,0,0,,,,319823198
+1,South Africa,17,RJ Peterson,DAJ Bracewell,WD Parnell,,0,1,1,,,,319823198
+1,South Africa,17,WD Parnell,DAJ Bracewell,RJ Peterson,,0,2,2,,,,319823198
+1,South Africa,17,WD Parnell,DAJ Bracewell,RJ Peterson,,0,4,4,,,,319823198
+1,South Africa,18,RJ Peterson,RJ Nicol,WD Parnell,,0,0,0,,,,319823198
+1,South Africa,18,RJ Peterson,RJ Nicol,WD Parnell,,0,1,1,,,,319823198
+1,South Africa,18,WD Parnell,RJ Nicol,RJ Peterson,,0,0,0,,,,319823198
+1,South Africa,18,WD Parnell,RJ Nicol,RJ Peterson,,0,1,1,,,,319823198
+1,South Africa,18,RJ Peterson,RJ Nicol,WD Parnell,,0,1,1,,,,319823198
+1,South Africa,18,WD Parnell,RJ Nicol,RJ Peterson,,0,1,1,,,,319823198
+1,South Africa,19,WD Parnell,TG Southee,RJ Peterson,,0,6,6,,,,319823198
+1,South Africa,19,WD Parnell,TG Southee,RJ Peterson,,0,0,0,,,,319823198
+1,South Africa,19,WD Parnell,TG Southee,RJ Peterson,,0,1,1,,,,319823198
+1,South Africa,19,RJ Peterson,TG Southee,WD Parnell,,0,2,2,,,,319823198
+1,South Africa,19,RJ Peterson,TG Southee,WD Parnell,,0,0,0,,,,319823198
+1,South Africa,19,RJ Peterson,TG Southee,WD Parnell,,0,4,4,,,,319823198

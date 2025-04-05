@@ -1,0 +1,108 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Kenya,0,MA Ouma,SE Bond,DO Obuya,,0,0,0,,,,3162316
+1,Kenya,0,MA Ouma,SE Bond,DO Obuya,,0,0,0,bowled,MA Ouma,,3162316
+1,Kenya,0,T Mishra,SE Bond,DO Obuya,,0,0,0,,,,3162316
+1,Kenya,0,T Mishra,SE Bond,DO Obuya,,0,0,0,,,,3162316
+1,Kenya,0,T Mishra,SE Bond,DO Obuya,,0,0,0,caught,T Mishra,JDP Oram,3162316
+1,Kenya,0,SO Tikolo,SE Bond,DO Obuya,,0,0,0,,,,3162316
+1,Kenya,1,DO Obuya,MR Gillespie,SO Tikolo,,0,0,0,hit wicket,DO Obuya,,3162316
+1,Kenya,1,CO Obuya,MR Gillespie,SO Tikolo,,0,0,0,,,,3162316
+1,Kenya,1,CO Obuya,MR Gillespie,SO Tikolo,,0,0,0,,,,3162316
+1,Kenya,1,CO Obuya,MR Gillespie,SO Tikolo,,0,1,1,,,,3162316
+1,Kenya,1,SO Tikolo,MR Gillespie,CO Obuya,,0,0,0,lbw,SO Tikolo,,3162316
+1,Kenya,1,TM Odoyo,MR Gillespie,CO Obuya,,0,0,0,,,,3162316
+1,Kenya,2,CO Obuya,SE Bond,TM Odoyo,,0,0,0,,,,3162316
+1,Kenya,2,CO Obuya,SE Bond,TM Odoyo,,0,0,0,,,,3162316
+1,Kenya,2,CO Obuya,SE Bond,TM Odoyo,,0,1,1,,,,3162316
+1,Kenya,2,TM Odoyo,SE Bond,CO Obuya,,0,0,0,,,,3162316
+1,Kenya,2,TM Odoyo,SE Bond,CO Obuya,,0,0,0,,,,3162316
+1,Kenya,2,TM Odoyo,SE Bond,CO Obuya,,0,0,0,,,,3162316
+1,Kenya,3,CO Obuya,MR Gillespie,TM Odoyo,,0,0,0,,,,3162316
+1,Kenya,3,CO Obuya,MR Gillespie,TM Odoyo,,0,0,0,,,,3162316
+1,Kenya,3,CO Obuya,MR Gillespie,TM Odoyo,,0,0,0,,,,3162316
+1,Kenya,3,CO Obuya,MR Gillespie,TM Odoyo,wides,1,1,0,,,,3162316
+1,Kenya,3,CO Obuya,MR Gillespie,TM Odoyo,,0,2,2,,,,3162316
+1,Kenya,3,CO Obuya,MR Gillespie,TM Odoyo,,0,0,0,,,,3162316
+1,Kenya,3,CO Obuya,MR Gillespie,TM Odoyo,,0,0,0,,,,3162316
+1,Kenya,4,TM Odoyo,SE Bond,CO Obuya,wides,1,1,0,,,,3162316
+1,Kenya,4,TM Odoyo,SE Bond,CO Obuya,,0,0,0,,,,3162316
+1,Kenya,4,TM Odoyo,SE Bond,CO Obuya,,0,0,0,,,,3162316
+1,Kenya,4,TM Odoyo,SE Bond,CO Obuya,,0,4,4,,,,3162316
+1,Kenya,4,TM Odoyo,SE Bond,CO Obuya,,0,0,0,,,,3162316
+1,Kenya,4,TM Odoyo,SE Bond,CO Obuya,,0,0,0,,,,3162316
+1,Kenya,4,TM Odoyo,SE Bond,CO Obuya,,0,1,1,,,,3162316
+1,Kenya,5,TM Odoyo,JDP Oram,CO Obuya,,0,4,4,,,,3162316
+1,Kenya,5,TM Odoyo,JDP Oram,CO Obuya,,0,0,0,,,,3162316
+1,Kenya,5,TM Odoyo,JDP Oram,CO Obuya,,0,2,2,,,,3162316
+1,Kenya,5,TM Odoyo,JDP Oram,CO Obuya,,0,1,1,,,,3162316
+1,Kenya,5,CO Obuya,JDP Oram,TM Odoyo,wides,1,1,0,,,,3162316
+1,Kenya,5,CO Obuya,JDP Oram,TM Odoyo,,0,0,0,,,,3162316
+1,Kenya,5,CO Obuya,JDP Oram,TM Odoyo,,0,4,4,,,,3162316
+1,Kenya,6,TM Odoyo,SE Bond,CO Obuya,,0,0,0,,,,3162316
+1,Kenya,6,TM Odoyo,SE Bond,CO Obuya,,0,0,0,,,,3162316
+1,Kenya,6,TM Odoyo,SE Bond,CO Obuya,,0,4,4,,,,3162316
+1,Kenya,6,TM Odoyo,SE Bond,CO Obuya,,0,0,0,,,,3162316
+1,Kenya,6,TM Odoyo,SE Bond,CO Obuya,,0,0,0,,,,3162316
+1,Kenya,6,TM Odoyo,SE Bond,CO Obuya,,0,1,1,,,,3162316
+1,Kenya,7,TM Odoyo,JDP Oram,CO Obuya,legbyes,1,1,0,,,,3162316
+1,Kenya,7,CO Obuya,JDP Oram,TM Odoyo,,0,4,4,,,,3162316
+1,Kenya,7,CO Obuya,JDP Oram,TM Odoyo,,0,2,2,,,,3162316
+1,Kenya,7,CO Obuya,JDP Oram,TM Odoyo,,0,1,1,,,,3162316
+1,Kenya,7,TM Odoyo,JDP Oram,CO Obuya,,0,0,0,,,,3162316
+1,Kenya,7,TM Odoyo,JDP Oram,CO Obuya,,0,1,1,,,,3162316
+1,Kenya,8,TM Odoyo,CS Martin,CO Obuya,,0,0,0,,,,3162316
+1,Kenya,8,TM Odoyo,CS Martin,CO Obuya,,0,0,0,,,,3162316
+1,Kenya,8,TM Odoyo,CS Martin,CO Obuya,,0,0,0,caught,TM Odoyo,LRPL Taylor,3162316
+1,Kenya,8,NN Odhiambo,CS Martin,CO Obuya,,0,0,0,,,,3162316
+1,Kenya,8,NN Odhiambo,CS Martin,CO Obuya,,0,0,0,,,,3162316
+1,Kenya,8,NN Odhiambo,CS Martin,CO Obuya,,0,0,0,,,,3162316
+1,Kenya,9,CO Obuya,DL Vettori,NN Odhiambo,,0,0,0,,,,3162316
+1,Kenya,9,CO Obuya,DL Vettori,NN Odhiambo,,0,0,0,,,,3162316
+1,Kenya,9,CO Obuya,DL Vettori,NN Odhiambo,,0,0,0,,,,3162316
+1,Kenya,9,CO Obuya,DL Vettori,NN Odhiambo,,0,1,1,,,,3162316
+1,Kenya,9,NN Odhiambo,DL Vettori,CO Obuya,,0,0,0,,,,3162316
+1,Kenya,9,NN Odhiambo,DL Vettori,CO Obuya,,0,0,0,,,,3162316
+1,Kenya,10,CO Obuya,CS Martin,NN Odhiambo,,0,0,0,,,,3162316
+1,Kenya,10,CO Obuya,CS Martin,NN Odhiambo,,0,0,0,,,,3162316
+1,Kenya,10,CO Obuya,CS Martin,NN Odhiambo,,0,1,1,,,,3162316
+1,Kenya,10,NN Odhiambo,CS Martin,CO Obuya,,0,0,0,caught,NN Odhiambo,LRPL Taylor,3162316
+1,Kenya,10,AA Obanda,CS Martin,CO Obuya,,0,0,0,,,,3162316
+1,Kenya,10,AA Obanda,CS Martin,CO Obuya,,0,0,0,,,,3162316
+1,Kenya,11,CO Obuya,DL Vettori,AA Obanda,,0,1,1,,,,3162316
+1,Kenya,11,AA Obanda,DL Vettori,CO Obuya,,0,0,0,,,,3162316
+1,Kenya,11,AA Obanda,DL Vettori,CO Obuya,,0,0,0,,,,3162316
+1,Kenya,11,AA Obanda,DL Vettori,CO Obuya,,0,1,1,,,,3162316
+1,Kenya,11,CO Obuya,DL Vettori,AA Obanda,wides,1,1,0,stumped,CO Obuya,BB McCullum,3162316
+1,Kenya,11,JK Kamande,DL Vettori,AA Obanda,,0,0,0,,,,3162316
+1,Kenya,11,JK Kamande,DL Vettori,AA Obanda,,0,0,0,,,,3162316
+1,Kenya,12,AA Obanda,CS Martin,JK Kamande,,0,2,2,,,,3162316
+1,Kenya,12,AA Obanda,CS Martin,JK Kamande,,0,0,0,,,,3162316
+1,Kenya,12,AA Obanda,CS Martin,JK Kamande,,0,0,0,,,,3162316
+1,Kenya,12,AA Obanda,CS Martin,JK Kamande,wides,1,1,0,,,,3162316
+1,Kenya,12,AA Obanda,CS Martin,JK Kamande,,0,0,0,,,,3162316
+1,Kenya,12,AA Obanda,CS Martin,JK Kamande,,0,1,1,,,,3162316
+1,Kenya,12,JK Kamande,CS Martin,AA Obanda,,0,0,0,,,,3162316
+1,Kenya,13,AA Obanda,DL Vettori,JK Kamande,,0,0,0,,,,3162316
+1,Kenya,13,AA Obanda,DL Vettori,JK Kamande,,0,0,0,bowled,AA Obanda,,3162316
+1,Kenya,13,RL Bhudia,DL Vettori,JK Kamande,,0,0,0,,,,3162316
+1,Kenya,13,RL Bhudia,DL Vettori,JK Kamande,,0,1,1,,,,3162316
+1,Kenya,13,JK Kamande,DL Vettori,RL Bhudia,,0,2,2,,,,3162316
+1,Kenya,13,JK Kamande,DL Vettori,RL Bhudia,,0,2,2,,,,3162316
+1,Kenya,14,RL Bhudia,CS Martin,JK Kamande,,0,0,0,,,,3162316
+1,Kenya,14,RL Bhudia,CS Martin,JK Kamande,legbyes,1,1,0,,,,3162316
+1,Kenya,14,JK Kamande,CS Martin,RL Bhudia,,0,1,1,,,,3162316
+1,Kenya,14,RL Bhudia,CS Martin,JK Kamande,,0,2,2,,,,3162316
+1,Kenya,14,RL Bhudia,CS Martin,JK Kamande,,0,0,0,,,,3162316
+1,Kenya,14,RL Bhudia,CS Martin,JK Kamande,,0,6,6,,,,3162316
+1,Kenya,15,JK Kamande,DL Vettori,RL Bhudia,,0,4,4,,,,3162316
+1,Kenya,15,JK Kamande,DL Vettori,RL Bhudia,,0,1,1,,,,3162316
+1,Kenya,15,RL Bhudia,DL Vettori,JK Kamande,,0,1,1,,,,3162316
+1,Kenya,15,JK Kamande,DL Vettori,RL Bhudia,,0,1,1,,,,3162316
+1,Kenya,15,RL Bhudia,DL Vettori,JK Kamande,,0,1,1,,,,3162316
+1,Kenya,15,JK Kamande,DL Vettori,RL Bhudia,,0,1,1,,,,3162316
+1,Kenya,16,JK Kamande,MR Gillespie,RL Bhudia,,0,2,2,,,,3162316
+1,Kenya,16,JK Kamande,MR Gillespie,RL Bhudia,,0,0,0,,,,3162316
+1,Kenya,16,JK Kamande,MR Gillespie,RL Bhudia,wides,1,1,0,,,,3162316
+1,Kenya,16,JK Kamande,MR Gillespie,RL Bhudia,,0,0,0,bowled,JK Kamande,,3162316
+1,Kenya,16,PJ Ongondo,MR Gillespie,RL Bhudia,,0,0,0,,,,3162316
+1,Kenya,16,PJ Ongondo,MR Gillespie,RL Bhudia,,0,0,0,bowled,PJ Ongondo,,3162316

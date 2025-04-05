@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,Q de Kock,KM Jarvis,GL Cloete,,0,0,0,,,,384023840
+1,South Africa,0,Q de Kock,KM Jarvis,GL Cloete,,0,1,1,,,,384023840
+1,South Africa,0,GL Cloete,KM Jarvis,Q de Kock,,0,0,0,,,,384023840
+1,South Africa,0,GL Cloete,KM Jarvis,Q de Kock,,0,2,2,,,,384023840
+1,South Africa,0,GL Cloete,KM Jarvis,Q de Kock,,0,0,0,caught,GL Cloete,H Masakadza,384023840
+1,South Africa,0,F du Plessis,KM Jarvis,Q de Kock,,0,4,4,,,,384023840
+1,South Africa,1,Q de Kock,CB Mpofu,F du Plessis,,0,4,4,,,,384023840
+1,South Africa,1,Q de Kock,CB Mpofu,F du Plessis,,0,0,0,,,,384023840
+1,South Africa,1,Q de Kock,CB Mpofu,F du Plessis,,0,0,0,caught,Q de Kock,CJ Chibhabha,384023840
+1,South Africa,1,F du Plessis,CB Mpofu,HE van der Dussen,,0,4,4,,,,384023840
+1,South Africa,1,F du Plessis,CB Mpofu,HE van der Dussen,,0,0,0,,,,384023840
+1,South Africa,1,F du Plessis,CB Mpofu,HE van der Dussen,,0,1,1,,,,384023840
+1,South Africa,2,F du Plessis,TS Chisoro,HE van der Dussen,,0,0,0,,,,384023840
+1,South Africa,2,F du Plessis,TS Chisoro,HE van der Dussen,,0,0,0,,,,384023840
+1,South Africa,2,F du Plessis,TS Chisoro,HE van der Dussen,,0,0,0,,,,384023840
+1,South Africa,2,F du Plessis,TS Chisoro,HE van der Dussen,,0,6,6,,,,384023840
+1,South Africa,2,F du Plessis,TS Chisoro,HE van der Dussen,,0,0,0,,,,384023840
+1,South Africa,2,F du Plessis,TS Chisoro,HE van der Dussen,,0,6,6,,,,384023840
+1,South Africa,3,HE van der Dussen,CB Mpofu,F du Plessis,,0,2,2,,,,384023840
+1,South Africa,3,HE van der Dussen,CB Mpofu,F du Plessis,,0,0,0,,,,384023840
+1,South Africa,3,HE van der Dussen,CB Mpofu,F du Plessis,,0,0,0,,,,384023840
+1,South Africa,3,HE van der Dussen,CB Mpofu,F du Plessis,,0,0,0,,,,384023840
+1,South Africa,3,HE van der Dussen,CB Mpofu,F du Plessis,,0,0,0,,,,384023840
+1,South Africa,3,HE van der Dussen,CB Mpofu,F du Plessis,,0,0,0,,,,384023840
+1,South Africa,4,F du Plessis,TS Chisoro,HE van der Dussen,,0,4,4,,,,384023840
+1,South Africa,4,F du Plessis,TS Chisoro,HE van der Dussen,,0,0,0,,,,384023840
+1,South Africa,4,F du Plessis,TS Chisoro,HE van der Dussen,,0,0,0,,,,384023840
+1,South Africa,4,F du Plessis,TS Chisoro,HE van der Dussen,wides,1,1,0,,,,384023840
+1,South Africa,4,F du Plessis,TS Chisoro,HE van der Dussen,,0,0,0,,,,384023840
+1,South Africa,4,F du Plessis,TS Chisoro,HE van der Dussen,,0,4,4,,,,384023840
+1,South Africa,4,F du Plessis,TS Chisoro,HE van der Dussen,wides,1,1,0,,,,384023840
+1,South Africa,4,F du Plessis,TS Chisoro,HE van der Dussen,,0,4,4,,,,384023840
+1,South Africa,5,HE van der Dussen,KM Jarvis,F du Plessis,,0,6,6,,,,384023840
+1,South Africa,5,HE van der Dussen,KM Jarvis,F du Plessis,,0,0,0,,,,384023840
+1,South Africa,5,HE van der Dussen,KM Jarvis,F du Plessis,,0,1,1,,,,384023840
+1,South Africa,5,F du Plessis,KM Jarvis,HE van der Dussen,,0,0,0,,,,384023840
+1,South Africa,5,F du Plessis,KM Jarvis,HE van der Dussen,,0,0,0,,,,384023840
+1,South Africa,5,F du Plessis,KM Jarvis,HE van der Dussen,,0,1,1,,,,384023840
+1,South Africa,6,F du Plessis,B Mavuta,HE van der Dussen,,0,0,0,caught,F du Plessis,TS Chisoro,384023840
+1,South Africa,6,DA Miller,B Mavuta,HE van der Dussen,,0,0,0,,,,384023840
+1,South Africa,6,DA Miller,B Mavuta,HE van der Dussen,,0,1,1,,,,384023840
+1,South Africa,6,HE van der Dussen,B Mavuta,DA Miller,,0,4,4,,,,384023840
+1,South Africa,6,HE van der Dussen,B Mavuta,DA Miller,,0,0,0,,,,384023840
+1,South Africa,6,HE van der Dussen,B Mavuta,DA Miller,,0,2,2,,,,384023840
+1,South Africa,7,DA Miller,SC Williams,HE van der Dussen,,0,0,0,,,,384023840
+1,South Africa,7,DA Miller,SC Williams,HE van der Dussen,,0,0,0,,,,384023840
+1,South Africa,7,DA Miller,SC Williams,HE van der Dussen,,0,1,1,,,,384023840
+1,South Africa,7,HE van der Dussen,SC Williams,DA Miller,,0,2,2,,,,384023840
+1,South Africa,7,HE van der Dussen,SC Williams,DA Miller,,0,1,1,,,,384023840
+1,South Africa,7,DA Miller,SC Williams,HE van der Dussen,,0,1,1,,,,384023840
+1,South Africa,8,DA Miller,B Mavuta,HE van der Dussen,,0,1,1,,,,384023840
+1,South Africa,8,HE van der Dussen,B Mavuta,DA Miller,,0,1,1,,,,384023840
+1,South Africa,8,DA Miller,B Mavuta,HE van der Dussen,,0,0,0,,,,384023840
+1,South Africa,8,DA Miller,B Mavuta,HE van der Dussen,,0,1,1,,,,384023840
+1,South Africa,8,HE van der Dussen,B Mavuta,DA Miller,,0,2,2,,,,384023840
+1,South Africa,8,HE van der Dussen,B Mavuta,DA Miller,legbyes,2,2,0,,,,384023840
+1,South Africa,9,DA Miller,CJ Chibhabha,HE van der Dussen,,0,2,2,,,,384023840
+1,South Africa,9,DA Miller,CJ Chibhabha,HE van der Dussen,,0,4,4,,,,384023840
+1,South Africa,9,DA Miller,CJ Chibhabha,HE van der Dussen,,0,1,1,,,,384023840
+1,South Africa,9,HE van der Dussen,CJ Chibhabha,DA Miller,,0,2,2,,,,384023840
+1,South Africa,9,HE van der Dussen,CJ Chibhabha,DA Miller,,0,1,1,,,,384023840
+1,South Africa,9,DA Miller,CJ Chibhabha,HE van der Dussen,,0,1,1,,,,384023840
+1,South Africa,10,DA Miller,SC Williams,HE van der Dussen,,0,0,0,,,,384023840
+1,South Africa,10,DA Miller,SC Williams,HE van der Dussen,,0,1,1,,,,384023840
+1,South Africa,10,HE van der Dussen,SC Williams,DA Miller,,0,1,1,,,,384023840
+1,South Africa,10,DA Miller,SC Williams,HE van der Dussen,,0,2,2,,,,384023840
+1,South Africa,10,DA Miller,SC Williams,HE van der Dussen,legbyes,1,1,0,,,,384023840
+1,South Africa,10,HE van der Dussen,SC Williams,DA Miller,,0,1,1,,,,384023840
+1,South Africa,11,HE van der Dussen,B Mavuta,DA Miller,,0,0,0,,,,384023840
+1,South Africa,11,HE van der Dussen,B Mavuta,DA Miller,,0,0,0,,,,384023840
+1,South Africa,11,HE van der Dussen,B Mavuta,DA Miller,,0,1,1,,,,384023840
+1,South Africa,11,DA Miller,B Mavuta,HE van der Dussen,,0,0,0,,,,384023840
+1,South Africa,11,DA Miller,B Mavuta,HE van der Dussen,,0,1,1,,,,384023840
+1,South Africa,11,HE van der Dussen,B Mavuta,DA Miller,,0,1,1,,,,384023840
+1,South Africa,12,HE van der Dussen,TS Chisoro,DA Miller,,0,0,0,,,,384023840
+1,South Africa,12,HE van der Dussen,TS Chisoro,DA Miller,,0,1,1,,,,384023840
+1,South Africa,12,DA Miller,TS Chisoro,HE van der Dussen,wides,1,1,0,,,,384023840
+1,South Africa,12,DA Miller,TS Chisoro,HE van der Dussen,,0,2,2,,,,384023840
+1,South Africa,12,DA Miller,TS Chisoro,HE van der Dussen,,0,2,2,,,,384023840
+1,South Africa,12,DA Miller,TS Chisoro,HE van der Dussen,,0,1,1,,,,384023840
+1,South Africa,12,HE van der Dussen,TS Chisoro,DA Miller,,0,4,4,,,,384023840
+1,South Africa,13,DA Miller,SC Williams,HE van der Dussen,,0,0,0,,,,384023840
+1,South Africa,13,DA Miller,SC Williams,HE van der Dussen,,0,6,6,,,,384023840
+1,South Africa,13,DA Miller,SC Williams,HE van der Dussen,,0,1,1,,,,384023840
+1,South Africa,13,HE van der Dussen,SC Williams,DA Miller,,0,2,2,,,,384023840
+1,South Africa,13,HE van der Dussen,SC Williams,DA Miller,,0,1,1,,,,384023840
+1,South Africa,13,DA Miller,SC Williams,HE van der Dussen,,0,1,1,,,,384023840
+1,South Africa,14,DA Miller,B Mavuta,HE van der Dussen,,0,1,1,,,,384023840
+1,South Africa,14,HE van der Dussen,B Mavuta,DA Miller,,0,1,1,,,,384023840
+1,South Africa,14,DA Miller,B Mavuta,HE van der Dussen,,0,1,1,,,,384023840
+1,South Africa,14,HE van der Dussen,B Mavuta,DA Miller,,0,1,1,,,,384023840
+1,South Africa,14,DA Miller,B Mavuta,HE van der Dussen,,0,0,0,,,,384023840
+1,South Africa,14,DA Miller,B Mavuta,HE van der Dussen,,0,0,0,,,,384023840
+1,South Africa,15,HE van der Dussen,SC Williams,DA Miller,,0,0,0,,,,384023840
+1,South Africa,15,HE van der Dussen,SC Williams,DA Miller,,0,4,4,,,,384023840
+1,South Africa,15,HE van der Dussen,SC Williams,DA Miller,,0,1,1,,,,384023840
+1,South Africa,15,DA Miller,SC Williams,HE van der Dussen,,0,1,1,,,,384023840
+1,South Africa,15,HE van der Dussen,SC Williams,DA Miller,,0,0,0,,,,384023840
+1,South Africa,15,HE van der Dussen,SC Williams,DA Miller,,0,1,1,,,,384023840
+1,South Africa,16,HE van der Dussen,KM Jarvis,DA Miller,,0,4,4,,,,384023840
+1,South Africa,16,HE van der Dussen,KM Jarvis,DA Miller,,0,4,4,,,,384023840
+1,South Africa,16,HE van der Dussen,KM Jarvis,DA Miller,,0,1,1,,,,384023840
+1,South Africa,16,DA Miller,KM Jarvis,HE van der Dussen,,0,6,6,,,,384023840
+1,South Africa,16,DA Miller,KM Jarvis,HE van der Dussen,,0,0,0,,,,384023840
+1,South Africa,16,DA Miller,KM Jarvis,HE van der Dussen,,0,0,0,caught,DA Miller,SC Williams,384023840
+1,South Africa,17,C Jonker,CB Mpofu,HE van der Dussen,,0,1,1,,,,384023840
+1,South Africa,17,HE van der Dussen,CB Mpofu,C Jonker,,0,0,0,,,,384023840
+1,South Africa,17,HE van der Dussen,CB Mpofu,C Jonker,,0,1,1,,,,384023840
+1,South Africa,17,C Jonker,CB Mpofu,HE van der Dussen,,0,1,1,,,,384023840
+1,South Africa,17,HE van der Dussen,CB Mpofu,C Jonker,,0,2,2,,,,384023840
+1,South Africa,17,HE van der Dussen,CB Mpofu,C Jonker,wides,5,5,0,,,,384023840
+1,South Africa,17,HE van der Dussen,CB Mpofu,C Jonker,,0,0,0,caught,HE van der Dussen,H Masakadza,384023840
+1,South Africa,18,AL Phehlukwayo,KM Jarvis,C Jonker,,0,0,0,,,,384023840
+1,South Africa,18,AL Phehlukwayo,KM Jarvis,C Jonker,,0,0,0,,,,384023840
+1,South Africa,18,AL Phehlukwayo,KM Jarvis,C Jonker,,0,1,1,,,,384023840
+1,South Africa,18,C Jonker,KM Jarvis,AL Phehlukwayo,,0,6,6,,,,384023840
+1,South Africa,18,C Jonker,KM Jarvis,AL Phehlukwayo,,0,0,0,,,,384023840
+1,South Africa,18,C Jonker,KM Jarvis,AL Phehlukwayo,,0,0,0,caught,C Jonker,H Masakadza,384023840
+1,South Africa,19,AL Phehlukwayo,CB Mpofu,CJ Dala,,0,0,0,,,,384023840
+1,South Africa,19,AL Phehlukwayo,CB Mpofu,CJ Dala,,0,1,1,,,,384023840
+1,South Africa,19,CJ Dala,CB Mpofu,AL Phehlukwayo,legbyes,1,1,0,,,,384023840
+1,South Africa,19,AL Phehlukwayo,CB Mpofu,CJ Dala,,0,0,0,,,,384023840
+1,South Africa,19,AL Phehlukwayo,CB Mpofu,CJ Dala,,0,0,0,,,,384023840
+1,South Africa,19,AL Phehlukwayo,CB Mpofu,CJ Dala,,0,2,2,,,,384023840

@@ -1,0 +1,111 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Ireland,0,WTS Porterfield,KAJ Roach,PR Stirling,,0,4,4,,,,311323113
+2,Ireland,0,WTS Porterfield,KAJ Roach,PR Stirling,,0,0,0,caught,WTS Porterfield,DJG Sammy,311323113
+2,Ireland,0,NJ O'Brien,KAJ Roach,PR Stirling,,0,0,0,,,,311323113
+2,Ireland,0,NJ O'Brien,KAJ Roach,PR Stirling,,0,1,1,,,,311323113
+2,Ireland,0,PR Stirling,KAJ Roach,NJ O'Brien,,0,0,0,,,,311323113
+2,Ireland,0,PR Stirling,KAJ Roach,NJ O'Brien,,0,0,0,,,,311323113
+2,Ireland,1,NJ O'Brien,R Rampaul,PR Stirling,,0,1,1,,,,311323113
+2,Ireland,1,PR Stirling,R Rampaul,NJ O'Brien,wides,1,1,0,,,,311323113
+2,Ireland,1,PR Stirling,R Rampaul,NJ O'Brien,,0,0,0,,,,311323113
+2,Ireland,1,PR Stirling,R Rampaul,NJ O'Brien,,0,0,0,caught,PR Stirling,DJG Sammy,311323113
+2,Ireland,1,NJ O'Brien,R Rampaul,AR Cusack,,0,4,4,,,,311323113
+2,Ireland,1,NJ O'Brien,R Rampaul,AR Cusack,,0,0,0,caught,NJ O'Brien,D Ramdin,311323113
+2,Ireland,1,GC Wilson,R Rampaul,AR Cusack,,0,0,0,,,,311323113
+2,Ireland,2,AR Cusack,KAJ Roach,GC Wilson,,0,0,0,,,,311323113
+2,Ireland,2,AR Cusack,KAJ Roach,GC Wilson,,0,1,1,,,,311323113
+2,Ireland,2,GC Wilson,KAJ Roach,AR Cusack,,0,0,0,,,,311323113
+2,Ireland,2,GC Wilson,KAJ Roach,AR Cusack,wides,1,1,0,,,,311323113
+2,Ireland,2,GC Wilson,KAJ Roach,AR Cusack,wides,1,1,0,,,,311323113
+2,Ireland,2,GC Wilson,KAJ Roach,AR Cusack,,0,0,0,,,,311323113
+2,Ireland,2,GC Wilson,KAJ Roach,AR Cusack,,0,0,0,,,,311323113
+2,Ireland,2,GC Wilson,KAJ Roach,AR Cusack,,0,0,0,,,,311323113
+2,Ireland,3,AR Cusack,R Rampaul,GC Wilson,,0,1,1,,,,311323113
+2,Ireland,3,GC Wilson,R Rampaul,AR Cusack,legbyes,1,1,0,,,,311323113
+2,Ireland,3,AR Cusack,R Rampaul,GC Wilson,,0,0,0,caught,AR Cusack,DJG Sammy,311323113
+2,Ireland,3,KJ O'Brien,R Rampaul,GC Wilson,,0,1,1,,,,311323113
+2,Ireland,3,GC Wilson,R Rampaul,KJ O'Brien,wides,1,1,0,,,,311323113
+2,Ireland,3,GC Wilson,R Rampaul,KJ O'Brien,,0,0,0,,,,311323113
+2,Ireland,3,GC Wilson,R Rampaul,KJ O'Brien,,0,0,0,,,,311323113
+2,Ireland,4,KJ O'Brien,KAJ Roach,GC Wilson,,0,0,0,,,,311323113
+2,Ireland,4,KJ O'Brien,KAJ Roach,GC Wilson,,0,0,0,,,,311323113
+2,Ireland,4,KJ O'Brien,KAJ Roach,GC Wilson,wides,1,1,0,,,,311323113
+2,Ireland,4,KJ O'Brien,KAJ Roach,GC Wilson,,0,0,0,,,,311323113
+2,Ireland,4,KJ O'Brien,KAJ Roach,GC Wilson,,0,0,0,,,,311323113
+2,Ireland,4,KJ O'Brien,KAJ Roach,GC Wilson,legbyes,4,4,0,,,,311323113
+2,Ireland,4,KJ O'Brien,KAJ Roach,GC Wilson,,0,0,0,,,,311323113
+2,Ireland,5,GC Wilson,R Rampaul,KJ O'Brien,,0,1,1,,,,311323113
+2,Ireland,5,KJ O'Brien,R Rampaul,GC Wilson,,0,4,4,,,,311323113
+2,Ireland,5,KJ O'Brien,R Rampaul,GC Wilson,,0,0,0,,,,311323113
+2,Ireland,5,KJ O'Brien,R Rampaul,GC Wilson,wides,1,1,0,,,,311323113
+2,Ireland,5,KJ O'Brien,R Rampaul,GC Wilson,,0,1,1,,,,311323113
+2,Ireland,5,GC Wilson,R Rampaul,KJ O'Brien,,0,0,0,,,,311323113
+2,Ireland,5,GC Wilson,R Rampaul,KJ O'Brien,,0,1,1,,,,311323113
+2,Ireland,6,GC Wilson,DJ Bravo,KJ O'Brien,,0,1,1,,,,311323113
+2,Ireland,6,KJ O'Brien,DJ Bravo,GC Wilson,wides,1,1,0,,,,311323113
+2,Ireland,6,KJ O'Brien,DJ Bravo,GC Wilson,,0,1,1,,,,311323113
+2,Ireland,6,GC Wilson,DJ Bravo,KJ O'Brien,,0,0,0,,,,311323113
+2,Ireland,6,GC Wilson,DJ Bravo,KJ O'Brien,,0,0,0,,,,311323113
+2,Ireland,6,GC Wilson,DJ Bravo,KJ O'Brien,,0,1,1,,,,311323113
+2,Ireland,6,KJ O'Brien,DJ Bravo,GC Wilson,,0,0,0,,,,311323113
+2,Ireland,7,GC Wilson,NO Miller,KJ O'Brien,,0,0,0,,,,311323113
+2,Ireland,7,GC Wilson,NO Miller,KJ O'Brien,,0,1,1,,,,311323113
+2,Ireland,7,KJ O'Brien,NO Miller,GC Wilson,,0,0,0,,,,311323113
+2,Ireland,7,KJ O'Brien,NO Miller,GC Wilson,,0,1,1,,,,311323113
+2,Ireland,7,GC Wilson,NO Miller,KJ O'Brien,,0,1,1,,,,311323113
+2,Ireland,7,KJ O'Brien,NO Miller,GC Wilson,,0,1,1,,,,311323113
+2,Ireland,8,KJ O'Brien,DJG Sammy,GC Wilson,,0,0,0,caught,KJ O'Brien,ADS Fletcher,311323113
+2,Ireland,8,GC Wilson,DJG Sammy,DT Johnston,,0,0,0,,,,311323113
+2,Ireland,8,GC Wilson,DJG Sammy,DT Johnston,,0,1,1,,,,311323113
+2,Ireland,8,DT Johnston,DJG Sammy,GC Wilson,,0,0,0,,,,311323113
+2,Ireland,8,DT Johnston,DJG Sammy,GC Wilson,,0,0,0,,,,311323113
+2,Ireland,8,DT Johnston,DJG Sammy,GC Wilson,,0,1,1,,,,311323113
+2,Ireland,9,DT Johnston,NO Miller,GC Wilson,,0,0,0,,,,311323113
+2,Ireland,9,DT Johnston,NO Miller,GC Wilson,,0,1,1,,,,311323113
+2,Ireland,9,GC Wilson,NO Miller,DT Johnston,,0,1,1,,,,311323113
+2,Ireland,9,DT Johnston,NO Miller,GC Wilson,,0,1,1,,,,311323113
+2,Ireland,9,GC Wilson,NO Miller,DT Johnston,,0,2,2,,,,311323113
+2,Ireland,9,GC Wilson,NO Miller,DT Johnston,,0,1,1,,,,311323113
+2,Ireland,10,GC Wilson,DJG Sammy,DT Johnston,,0,0,0,,,,311323113
+2,Ireland,10,GC Wilson,DJG Sammy,DT Johnston,,0,0,0,,,,311323113
+2,Ireland,10,GC Wilson,DJG Sammy,DT Johnston,,0,0,0,,,,311323113
+2,Ireland,10,GC Wilson,DJG Sammy,DT Johnston,,0,2,2,,,,311323113
+2,Ireland,10,GC Wilson,DJG Sammy,DT Johnston,,0,0,0,,,,311323113
+2,Ireland,10,GC Wilson,DJG Sammy,DT Johnston,,0,2,2,,,,311323113
+2,Ireland,11,DT Johnston,NO Miller,GC Wilson,,0,1,1,,,,311323113
+2,Ireland,11,GC Wilson,NO Miller,DT Johnston,,0,0,0,,,,311323113
+2,Ireland,11,GC Wilson,NO Miller,DT Johnston,,0,0,0,,,,311323113
+2,Ireland,11,GC Wilson,NO Miller,DT Johnston,,0,1,1,,,,311323113
+2,Ireland,11,DT Johnston,NO Miller,GC Wilson,,0,1,1,,,,311323113
+2,Ireland,11,GC Wilson,NO Miller,DT Johnston,,0,1,1,,,,311323113
+2,Ireland,12,GC Wilson,DJ Bravo,DT Johnston,,0,0,0,caught,GC Wilson,DJG Sammy,311323113
+2,Ireland,12,JF Mooney,DJ Bravo,DT Johnston,,0,1,1,,,,311323113
+2,Ireland,12,DT Johnston,DJ Bravo,JF Mooney,,0,0,0,,,,311323113
+2,Ireland,12,DT Johnston,DJ Bravo,JF Mooney,,0,0,0,bowled,DT Johnston,,311323113
+2,Ireland,12,AC Botha,DJ Bravo,JF Mooney,,0,0,0,,,,311323113
+2,Ireland,12,AC Botha,DJ Bravo,JF Mooney,,0,0,0,,,,311323113
+2,Ireland,13,JF Mooney,NO Miller,AC Botha,legbyes,2,2,0,,,,311323113
+2,Ireland,13,JF Mooney,NO Miller,AC Botha,wides,2,2,0,,,,311323113
+2,Ireland,13,AC Botha,NO Miller,JF Mooney,,0,0,0,,,,311323113
+2,Ireland,13,AC Botha,NO Miller,JF Mooney,,0,1,1,,,,311323113
+2,Ireland,13,JF Mooney,NO Miller,AC Botha,,0,0,0,lbw,JF Mooney,,311323113
+2,Ireland,13,WB Rankin,NO Miller,AC Botha,,0,0,0,,,,311323113
+2,Ireland,13,WB Rankin,NO Miller,AC Botha,,0,1,1,,,,311323113
+2,Ireland,14,WB Rankin,DJG Sammy,AC Botha,,0,0,0,,,,311323113
+2,Ireland,14,WB Rankin,DJG Sammy,AC Botha,legbyes,1,1,0,,,,311323113
+2,Ireland,14,AC Botha,DJG Sammy,WB Rankin,,0,0,0,,,,311323113
+2,Ireland,14,AC Botha,DJG Sammy,WB Rankin,,0,1,1,,,,311323113
+2,Ireland,14,WB Rankin,DJG Sammy,AC Botha,,0,0,0,caught,WB Rankin,D Ramdin,311323113
+2,Ireland,14,GH Dockrell,DJG Sammy,AC Botha,,0,0,0,,,,311323113
+2,Ireland,15,AC Botha,KAJ Roach,GH Dockrell,,0,0,0,,,,311323113
+2,Ireland,15,AC Botha,KAJ Roach,GH Dockrell,,0,0,0,,,,311323113
+2,Ireland,15,AC Botha,KAJ Roach,GH Dockrell,,0,1,1,,,,311323113
+2,Ireland,15,GH Dockrell,KAJ Roach,AC Botha,wides,1,1,0,,,,311323113
+2,Ireland,15,GH Dockrell,KAJ Roach,AC Botha,wides,1,1,0,,,,311323113
+2,Ireland,15,GH Dockrell,KAJ Roach,AC Botha,,0,0,0,,,,311323113
+2,Ireland,15,GH Dockrell,KAJ Roach,AC Botha,,0,0,0,,,,311323113
+2,Ireland,15,GH Dockrell,KAJ Roach,AC Botha,,0,0,0,,,,311323113
+2,Ireland,16,AC Botha,DJG Sammy,GH Dockrell,,0,0,0,,,,311323113
+2,Ireland,16,AC Botha,DJG Sammy,GH Dockrell,,0,1,1,,,,311323113
+2,Ireland,16,GH Dockrell,DJG Sammy,AC Botha,,0,0,0,,,,311323113
+2,Ireland,16,GH Dockrell,DJG Sammy,AC Botha,,0,0,0,caught,GH Dockrell,D Ramdin,311323113

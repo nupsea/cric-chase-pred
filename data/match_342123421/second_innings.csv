@@ -1,0 +1,110 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,England,0,AD Hales,MR Swart,MJ Lumb,,0,0,0,,,,342123421
+2,England,0,AD Hales,MR Swart,MJ Lumb,,0,4,4,,,,342123421
+2,England,0,AD Hales,MR Swart,MJ Lumb,,0,0,0,,,,342123421
+2,England,0,AD Hales,MR Swart,MJ Lumb,,0,1,1,,,,342123421
+2,England,0,MJ Lumb,MR Swart,AD Hales,,0,3,3,,,,342123421
+2,England,0,AD Hales,MR Swart,MJ Lumb,,0,0,0,,,,342123421
+2,England,1,MJ Lumb,T van der Gugten,AD Hales,,0,1,1,,,,342123421
+2,England,1,AD Hales,T van der Gugten,MJ Lumb,wides,1,1,0,,,,342123421
+2,England,1,AD Hales,T van der Gugten,MJ Lumb,,0,1,1,,,,342123421
+2,England,1,MJ Lumb,T van der Gugten,AD Hales,,0,2,2,,,,342123421
+2,England,1,MJ Lumb,T van der Gugten,AD Hales,,0,0,0,,,,342123421
+2,England,1,MJ Lumb,T van der Gugten,AD Hales,,0,0,0,,,,342123421
+2,England,1,MJ Lumb,T van der Gugten,AD Hales,,0,0,0,,,,342123421
+2,England,2,AD Hales,Mudassar Bukhari,MJ Lumb,,0,0,0,,,,342123421
+2,England,2,AD Hales,Mudassar Bukhari,MJ Lumb,,0,4,4,,,,342123421
+2,England,2,AD Hales,Mudassar Bukhari,MJ Lumb,,0,0,0,,,,342123421
+2,England,2,AD Hales,Mudassar Bukhari,MJ Lumb,,0,1,1,,,,342123421
+2,England,2,MJ Lumb,Mudassar Bukhari,AD Hales,,0,0,0,,,,342123421
+2,England,2,MJ Lumb,Mudassar Bukhari,AD Hales,,0,0,0,caught,MJ Lumb,TLW Cooper,342123421
+2,England,3,AD Hales,T van der Gugten,MM Ali,,0,0,0,,,,342123421
+2,England,3,AD Hales,T van der Gugten,MM Ali,,0,0,0,,,,342123421
+2,England,3,AD Hales,T van der Gugten,MM Ali,,0,0,0,,,,342123421
+2,England,3,AD Hales,T van der Gugten,MM Ali,,0,0,0,,,,342123421
+2,England,3,AD Hales,T van der Gugten,MM Ali,,0,0,0,,,,342123421
+2,England,3,AD Hales,T van der Gugten,MM Ali,,0,1,1,,,,342123421
+2,England,4,AD Hales,Mudassar Bukhari,MM Ali,,0,0,0,bowled,AD Hales,,342123421
+2,England,4,EJG Morgan,Mudassar Bukhari,MM Ali,,0,0,0,,,,342123421
+2,England,4,EJG Morgan,Mudassar Bukhari,MM Ali,,0,0,0,,,,342123421
+2,England,4,EJG Morgan,Mudassar Bukhari,MM Ali,,0,0,0,,,,342123421
+2,England,4,EJG Morgan,Mudassar Bukhari,MM Ali,,0,0,0,,,,342123421
+2,England,4,EJG Morgan,Mudassar Bukhari,MM Ali,,0,2,2,,,,342123421
+2,England,5,MM Ali,T van der Gugten,EJG Morgan,,0,0,0,,,,342123421
+2,England,5,MM Ali,T van der Gugten,EJG Morgan,,0,1,1,,,,342123421
+2,England,5,EJG Morgan,T van der Gugten,MM Ali,,0,0,0,,,,342123421
+2,England,5,EJG Morgan,T van der Gugten,MM Ali,,0,4,4,,,,342123421
+2,England,5,EJG Morgan,T van der Gugten,MM Ali,,0,0,0,caught,EJG Morgan,PW Borren,342123421
+2,England,5,JC Buttler,T van der Gugten,MM Ali,,0,0,0,,,,342123421
+2,England,6,MM Ali,Mudassar Bukhari,JC Buttler,,0,0,0,,,,342123421
+2,England,6,MM Ali,Mudassar Bukhari,JC Buttler,,0,0,0,,,,342123421
+2,England,6,MM Ali,Mudassar Bukhari,JC Buttler,,0,1,1,,,,342123421
+2,England,6,JC Buttler,Mudassar Bukhari,MM Ali,,0,0,0,,,,342123421
+2,England,6,JC Buttler,Mudassar Bukhari,MM Ali,,0,0,0,,,,342123421
+2,England,6,JC Buttler,Mudassar Bukhari,MM Ali,,0,1,1,,,,342123421
+2,England,7,JC Buttler,Ahsan Malik,MM Ali,,0,0,0,,,,342123421
+2,England,7,JC Buttler,Ahsan Malik,MM Ali,,0,0,0,,,,342123421
+2,England,7,JC Buttler,Ahsan Malik,MM Ali,,0,0,0,,,,342123421
+2,England,7,JC Buttler,Ahsan Malik,MM Ali,legbyes,2,2,0,,,,342123421
+2,England,7,JC Buttler,Ahsan Malik,MM Ali,,0,1,1,,,,342123421
+2,England,7,MM Ali,Ahsan Malik,JC Buttler,,0,1,1,,,,342123421
+2,England,8,MM Ali,PW Borren,JC Buttler,,0,0,0,caught,MM Ali,TLW Cooper,342123421
+2,England,8,RS Bopara,PW Borren,JC Buttler,,0,0,0,,,,342123421
+2,England,8,RS Bopara,PW Borren,JC Buttler,,0,1,1,,,,342123421
+2,England,8,JC Buttler,PW Borren,RS Bopara,,0,2,2,,,,342123421
+2,England,8,JC Buttler,PW Borren,RS Bopara,,0,1,1,,,,342123421
+2,England,8,RS Bopara,PW Borren,JC Buttler,,0,1,1,,,,342123421
+2,England,9,RS Bopara,LV van Beek,JC Buttler,,0,1,1,,,,342123421
+2,England,9,JC Buttler,LV van Beek,RS Bopara,,0,0,0,,,,342123421
+2,England,9,JC Buttler,LV van Beek,RS Bopara,,0,1,1,,,,342123421
+2,England,9,RS Bopara,LV van Beek,JC Buttler,,0,2,2,,,,342123421
+2,England,9,RS Bopara,LV van Beek,JC Buttler,,0,1,1,,,,342123421
+2,England,9,JC Buttler,LV van Beek,RS Bopara,,0,0,0,caught,JC Buttler,PM Seelaar,342123421
+2,England,10,RS Bopara,PM Seelaar,TT Bresnan,wides,1,1,0,,,,342123421
+2,England,10,RS Bopara,PM Seelaar,TT Bresnan,wides,1,1,0,,,,342123421
+2,England,10,RS Bopara,PM Seelaar,TT Bresnan,,0,1,1,,,,342123421
+2,England,10,TT Bresnan,PM Seelaar,RS Bopara,,0,0,0,,,,342123421
+2,England,10,TT Bresnan,PM Seelaar,RS Bopara,,0,2,2,,,,342123421
+2,England,10,TT Bresnan,PM Seelaar,RS Bopara,,0,0,0,,,,342123421
+2,England,10,TT Bresnan,PM Seelaar,RS Bopara,,0,2,2,,,,342123421
+2,England,10,TT Bresnan,PM Seelaar,RS Bopara,,0,0,0,,,,342123421
+2,England,11,RS Bopara,PW Borren,TT Bresnan,,0,0,0,,,,342123421
+2,England,11,RS Bopara,PW Borren,TT Bresnan,,0,1,1,,,,342123421
+2,England,11,TT Bresnan,PW Borren,RS Bopara,,0,1,1,,,,342123421
+2,England,11,RS Bopara,PW Borren,TT Bresnan,,0,1,1,run out,TT Bresnan,PW Borren,342123421
+2,England,11,RS Bopara,PW Borren,CJ Jordan,,0,1,1,,,,342123421
+2,England,11,CJ Jordan,PW Borren,RS Bopara,,0,1,1,,,,342123421
+2,England,12,CJ Jordan,Ahsan Malik,RS Bopara,,0,1,1,,,,342123421
+2,England,12,RS Bopara,Ahsan Malik,CJ Jordan,,0,1,1,,,,342123421
+2,England,12,CJ Jordan,Ahsan Malik,RS Bopara,,0,1,1,,,,342123421
+2,England,12,RS Bopara,Ahsan Malik,CJ Jordan,,0,1,1,,,,342123421
+2,England,12,CJ Jordan,Ahsan Malik,RS Bopara,,0,0,0,,,,342123421
+2,England,12,CJ Jordan,Ahsan Malik,RS Bopara,,0,1,1,,,,342123421
+2,England,13,CJ Jordan,PW Borren,RS Bopara,,0,1,1,,,,342123421
+2,England,13,RS Bopara,PW Borren,CJ Jordan,,0,1,1,,,,342123421
+2,England,13,CJ Jordan,PW Borren,RS Bopara,,0,1,1,,,,342123421
+2,England,13,RS Bopara,PW Borren,CJ Jordan,,0,1,1,,,,342123421
+2,England,13,CJ Jordan,PW Borren,RS Bopara,,0,2,2,,,,342123421
+2,England,13,CJ Jordan,PW Borren,RS Bopara,,0,2,2,,,,342123421
+2,England,14,RS Bopara,PM Seelaar,CJ Jordan,,0,0,0,,,,342123421
+2,England,14,RS Bopara,PM Seelaar,CJ Jordan,,0,1,1,,,,342123421
+2,England,14,CJ Jordan,PM Seelaar,RS Bopara,,0,2,2,,,,342123421
+2,England,14,CJ Jordan,PM Seelaar,RS Bopara,,0,1,1,,,,342123421
+2,England,14,RS Bopara,PM Seelaar,CJ Jordan,,0,2,2,,,,342123421
+2,England,14,RS Bopara,PM Seelaar,CJ Jordan,,0,1,1,,,,342123421
+2,England,15,RS Bopara,LV van Beek,CJ Jordan,,0,0,0,caught,RS Bopara,PM Seelaar,342123421
+2,England,15,CJ Jordan,LV van Beek,SCJ Broad,,0,0,0,,,,342123421
+2,England,15,CJ Jordan,LV van Beek,SCJ Broad,,0,1,1,,,,342123421
+2,England,15,SCJ Broad,LV van Beek,CJ Jordan,,0,1,1,,,,342123421
+2,England,15,CJ Jordan,LV van Beek,SCJ Broad,,0,0,0,caught,CJ Jordan,MR Swart,342123421
+2,England,15,SCJ Broad,LV van Beek,JC Tredwell,,0,2,2,,,,342123421
+2,England,16,JC Tredwell,Ahsan Malik,SCJ Broad,,0,0,0,,,,342123421
+2,England,16,JC Tredwell,Ahsan Malik,SCJ Broad,,0,4,4,,,,342123421
+2,England,16,JC Tredwell,Ahsan Malik,SCJ Broad,,0,1,1,,,,342123421
+2,England,16,SCJ Broad,Ahsan Malik,JC Tredwell,,0,1,1,,,,342123421
+2,England,16,JC Tredwell,Ahsan Malik,SCJ Broad,,0,1,1,,,,342123421
+2,England,16,SCJ Broad,Ahsan Malik,JC Tredwell,,0,0,0,,,,342123421
+2,England,17,JC Tredwell,Mudassar Bukhari,SCJ Broad,,0,1,1,,,,342123421
+2,England,17,SCJ Broad,Mudassar Bukhari,JC Tredwell,,0,0,0,caught,SCJ Broad,W Barresi,342123421
+2,England,17,SD Parry,Mudassar Bukhari,JC Tredwell,,0,1,1,,,,342123421
+2,England,17,JC Tredwell,Mudassar Bukhari,SD Parry,,0,1,1,run out,SD Parry,W Barresi,342123421

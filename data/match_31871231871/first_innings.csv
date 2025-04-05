@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Kenya,0,RN Patel,DM Nakrani,AA Obanda,,0,1,1,,,,31871231871
+1,Kenya,0,AA Obanda,DM Nakrani,RN Patel,,0,6,6,,,,31871231871
+1,Kenya,0,AA Obanda,DM Nakrani,RN Patel,,0,1,1,,,,31871231871
+1,Kenya,0,RN Patel,DM Nakrani,AA Obanda,wides,1,1,0,,,,31871231871
+1,Kenya,0,RN Patel,DM Nakrani,AA Obanda,wides,1,1,0,,,,31871231871
+1,Kenya,0,RN Patel,DM Nakrani,AA Obanda,,0,1,1,,,,31871231871
+1,Kenya,0,AA Obanda,DM Nakrani,RN Patel,,0,4,4,,,,31871231871
+1,Kenya,0,AA Obanda,DM Nakrani,RN Patel,,0,0,0,,,,31871231871
+1,Kenya,1,RN Patel,F Nsubuga,AA Obanda,,0,1,1,,,,31871231871
+1,Kenya,1,AA Obanda,F Nsubuga,RN Patel,,0,0,0,,,,31871231871
+1,Kenya,1,AA Obanda,F Nsubuga,RN Patel,,0,0,0,,,,31871231871
+1,Kenya,1,AA Obanda,F Nsubuga,RN Patel,,0,0,0,,,,31871231871
+1,Kenya,1,AA Obanda,F Nsubuga,RN Patel,,0,0,0,,,,31871231871
+1,Kenya,1,AA Obanda,F Nsubuga,RN Patel,,0,0,0,,,,31871231871
+1,Kenya,2,RN Patel,DM Nakrani,AA Obanda,,0,1,1,,,,31871231871
+1,Kenya,2,AA Obanda,DM Nakrani,RN Patel,,0,0,0,,,,31871231871
+1,Kenya,2,AA Obanda,DM Nakrani,RN Patel,,0,0,0,,,,31871231871
+1,Kenya,2,AA Obanda,DM Nakrani,RN Patel,,0,1,1,,,,31871231871
+1,Kenya,2,RN Patel,DM Nakrani,AA Obanda,,0,0,0,,,,31871231871
+1,Kenya,2,RN Patel,DM Nakrani,AA Obanda,,0,0,0,caught,RN Patel,Riazat Ali Shah,31871231871
+1,Kenya,3,AA Obanda,F Nsubuga,IA Karim,,0,0,0,,,,31871231871
+1,Kenya,3,AA Obanda,F Nsubuga,IA Karim,,0,0,0,,,,31871231871
+1,Kenya,3,AA Obanda,F Nsubuga,IA Karim,,0,0,0,,,,31871231871
+1,Kenya,3,AA Obanda,F Nsubuga,IA Karim,,0,4,4,,,,31871231871
+1,Kenya,3,AA Obanda,F Nsubuga,IA Karim,,0,0,0,,,,31871231871
+1,Kenya,3,AA Obanda,F Nsubuga,IA Karim,,0,1,1,,,,31871231871
+1,Kenya,4,AA Obanda,H Ssenyondo,IA Karim,,0,0,0,,,,31871231871
+1,Kenya,4,AA Obanda,H Ssenyondo,IA Karim,,0,2,2,,,,31871231871
+1,Kenya,4,AA Obanda,H Ssenyondo,IA Karim,,0,1,1,,,,31871231871
+1,Kenya,4,IA Karim,H Ssenyondo,AA Obanda,,0,1,1,,,,31871231871
+1,Kenya,4,AA Obanda,H Ssenyondo,IA Karim,,0,1,1,,,,31871231871
+1,Kenya,4,IA Karim,H Ssenyondo,AA Obanda,,0,1,1,,,,31871231871
+1,Kenya,5,IA Karim,F Nsubuga,AA Obanda,,0,0,0,,,,31871231871
+1,Kenya,5,IA Karim,F Nsubuga,AA Obanda,,0,0,0,bowled,IA Karim,,31871231871
+1,Kenya,5,CO Obuya,F Nsubuga,AA Obanda,,0,0,0,,,,31871231871
+1,Kenya,5,CO Obuya,F Nsubuga,AA Obanda,,0,0,0,,,,31871231871
+1,Kenya,5,CO Obuya,F Nsubuga,AA Obanda,,0,0,0,,,,31871231871
+1,Kenya,5,CO Obuya,F Nsubuga,AA Obanda,,0,0,0,,,,31871231871
+1,Kenya,6,AA Obanda,H Ssenyondo,CO Obuya,,0,0,0,,,,31871231871
+1,Kenya,6,AA Obanda,H Ssenyondo,CO Obuya,,0,0,0,bowled,AA Obanda,,31871231871
+1,Kenya,6,RR Patel,H Ssenyondo,CO Obuya,,0,0,0,,,,31871231871
+1,Kenya,6,RR Patel,H Ssenyondo,CO Obuya,,0,1,1,,,,31871231871
+1,Kenya,6,CO Obuya,H Ssenyondo,RR Patel,,0,0,0,,,,31871231871
+1,Kenya,6,CO Obuya,H Ssenyondo,RR Patel,,0,0,0,,,,31871231871
+1,Kenya,7,RR Patel,F Nsubuga,CO Obuya,,0,1,1,,,,31871231871
+1,Kenya,7,CO Obuya,F Nsubuga,RR Patel,,0,0,0,,,,31871231871
+1,Kenya,7,CO Obuya,F Nsubuga,RR Patel,,0,1,1,,,,31871231871
+1,Kenya,7,RR Patel,F Nsubuga,CO Obuya,,0,0,0,,,,31871231871
+1,Kenya,7,RR Patel,F Nsubuga,CO Obuya,,0,0,0,,,,31871231871
+1,Kenya,7,RR Patel,F Nsubuga,CO Obuya,,0,1,1,,,,31871231871
+1,Kenya,8,RR Patel,H Ssenyondo,CO Obuya,,0,0,0,,,,31871231871
+1,Kenya,8,RR Patel,H Ssenyondo,CO Obuya,,0,0,0,,,,31871231871
+1,Kenya,8,RR Patel,H Ssenyondo,CO Obuya,,0,0,0,,,,31871231871
+1,Kenya,8,RR Patel,H Ssenyondo,CO Obuya,,0,4,4,,,,31871231871
+1,Kenya,8,RR Patel,H Ssenyondo,CO Obuya,,0,0,0,,,,31871231871
+1,Kenya,8,RR Patel,H Ssenyondo,CO Obuya,,0,1,1,,,,31871231871
+1,Kenya,9,RR Patel,F Akankwasa,CO Obuya,,0,0,0,,,,31871231871
+1,Kenya,9,RR Patel,F Akankwasa,CO Obuya,,0,4,4,,,,31871231871
+1,Kenya,9,RR Patel,F Akankwasa,CO Obuya,,0,0,0,,,,31871231871
+1,Kenya,9,RR Patel,F Akankwasa,CO Obuya,,0,0,0,,,,31871231871
+1,Kenya,9,RR Patel,F Akankwasa,CO Obuya,,0,0,0,,,,31871231871
+1,Kenya,9,RR Patel,F Akankwasa,CO Obuya,,0,0,0,,,,31871231871
+1,Kenya,10,CO Obuya,H Ssenyondo,RR Patel,,0,0,0,,,,31871231871
+1,Kenya,10,CO Obuya,H Ssenyondo,RR Patel,,0,1,1,,,,31871231871
+1,Kenya,10,RR Patel,H Ssenyondo,CO Obuya,,0,1,1,,,,31871231871
+1,Kenya,10,CO Obuya,H Ssenyondo,RR Patel,,0,0,0,,,,31871231871
+1,Kenya,10,CO Obuya,H Ssenyondo,RR Patel,,0,0,0,,,,31871231871
+1,Kenya,10,CO Obuya,H Ssenyondo,RR Patel,,0,0,0,,,,31871231871
+1,Kenya,11,RR Patel,F Akankwasa,CO Obuya,,0,4,4,,,,31871231871
+1,Kenya,11,RR Patel,F Akankwasa,CO Obuya,,0,0,0,,,,31871231871
+1,Kenya,11,RR Patel,F Akankwasa,CO Obuya,,0,0,0,,,,31871231871
+1,Kenya,11,RR Patel,F Akankwasa,CO Obuya,,0,1,1,,,,31871231871
+1,Kenya,11,CO Obuya,F Akankwasa,RR Patel,,0,0,0,,,,31871231871
+1,Kenya,11,CO Obuya,F Akankwasa,RR Patel,,0,1,1,,,,31871231871
+1,Kenya,12,CO Obuya,D Muhumuza,RR Patel,,0,1,1,,,,31871231871
+1,Kenya,12,RR Patel,D Muhumuza,CO Obuya,,0,0,0,,,,31871231871
+1,Kenya,12,RR Patel,D Muhumuza,CO Obuya,,0,1,1,,,,31871231871
+1,Kenya,12,CO Obuya,D Muhumuza,RR Patel,,0,1,1,,,,31871231871
+1,Kenya,12,RR Patel,D Muhumuza,CO Obuya,,0,4,4,,,,31871231871
+1,Kenya,12,RR Patel,D Muhumuza,CO Obuya,,0,0,0,,,,31871231871
+1,Kenya,13,CO Obuya,F Akankwasa,RR Patel,,0,6,6,,,,31871231871
+1,Kenya,13,CO Obuya,F Akankwasa,RR Patel,,0,1,1,,,,31871231871
+1,Kenya,13,RR Patel,F Akankwasa,CO Obuya,,0,0,0,,,,31871231871
+1,Kenya,13,RR Patel,F Akankwasa,CO Obuya,,0,1,1,,,,31871231871
+1,Kenya,13,CO Obuya,F Akankwasa,RR Patel,,0,0,0,,,,31871231871
+1,Kenya,13,CO Obuya,F Akankwasa,RR Patel,,0,0,0,,,,31871231871
+1,Kenya,14,RR Patel,D Muhumuza,CO Obuya,,0,0,0,,,,31871231871
+1,Kenya,14,RR Patel,D Muhumuza,CO Obuya,,0,0,0,,,,31871231871
+1,Kenya,14,RR Patel,D Muhumuza,CO Obuya,,0,6,6,,,,31871231871
+1,Kenya,14,RR Patel,D Muhumuza,CO Obuya,,0,1,1,,,,31871231871
+1,Kenya,14,CO Obuya,D Muhumuza,RR Patel,,0,4,4,,,,31871231871
+1,Kenya,14,CO Obuya,D Muhumuza,RR Patel,,0,1,1,,,,31871231871
+1,Kenya,15,CO Obuya,Riazat Ali Shah,RR Patel,,0,1,1,,,,31871231871
+1,Kenya,15,RR Patel,Riazat Ali Shah,CO Obuya,,0,4,4,,,,31871231871
+1,Kenya,15,RR Patel,Riazat Ali Shah,CO Obuya,,0,1,1,,,,31871231871
+1,Kenya,15,CO Obuya,Riazat Ali Shah,RR Patel,,0,1,1,,,,31871231871
+1,Kenya,15,RR Patel,Riazat Ali Shah,CO Obuya,legbyes,1,1,0,,,,31871231871
+1,Kenya,15,CO Obuya,Riazat Ali Shah,RR Patel,,0,1,1,,,,31871231871
+1,Kenya,16,CO Obuya,DM Nakrani,RR Patel,,0,0,0,,,,31871231871
+1,Kenya,16,CO Obuya,DM Nakrani,RR Patel,,0,0,0,,,,31871231871
+1,Kenya,16,CO Obuya,DM Nakrani,RR Patel,,0,0,0,,,,31871231871
+1,Kenya,16,CO Obuya,DM Nakrani,RR Patel,,0,0,0,,,,31871231871
+1,Kenya,16,CO Obuya,DM Nakrani,RR Patel,wides,1,1,0,,,,31871231871
+1,Kenya,16,CO Obuya,DM Nakrani,RR Patel,,0,4,4,,,,31871231871
+1,Kenya,16,CO Obuya,DM Nakrani,RR Patel,,0,1,1,,,,31871231871
+1,Kenya,17,CO Obuya,Riazat Ali Shah,RR Patel,,0,1,1,,,,31871231871
+1,Kenya,17,RR Patel,Riazat Ali Shah,CO Obuya,,0,6,6,,,,31871231871
+1,Kenya,17,RR Patel,Riazat Ali Shah,CO Obuya,,0,1,1,,,,31871231871
+1,Kenya,17,CO Obuya,Riazat Ali Shah,RR Patel,,0,0,0,,,,31871231871
+1,Kenya,17,CO Obuya,Riazat Ali Shah,RR Patel,,0,1,1,,,,31871231871
+1,Kenya,17,RR Patel,Riazat Ali Shah,CO Obuya,,0,0,0,,,,31871231871
+1,Kenya,18,CO Obuya,DM Nakrani,RR Patel,,0,1,1,,,,31871231871
+1,Kenya,18,RR Patel,DM Nakrani,CO Obuya,,0,1,1,,,,31871231871
+1,Kenya,18,CO Obuya,DM Nakrani,RR Patel,,0,0,0,,,,31871231871
+1,Kenya,18,CO Obuya,DM Nakrani,RR Patel,,0,0,0,,,,31871231871
+1,Kenya,18,CO Obuya,DM Nakrani,RR Patel,legbyes,1,1,0,,,,31871231871
+1,Kenya,18,RR Patel,DM Nakrani,CO Obuya,,0,1,1,,,,31871231871
+1,Kenya,19,RR Patel,Riazat Ali Shah,CO Obuya,,0,1,1,,,,31871231871
+1,Kenya,19,CO Obuya,Riazat Ali Shah,RR Patel,,0,1,1,,,,31871231871
+1,Kenya,19,RR Patel,Riazat Ali Shah,CO Obuya,,0,6,6,,,,31871231871
+1,Kenya,19,RR Patel,Riazat Ali Shah,CO Obuya,,0,4,4,,,,31871231871
+1,Kenya,19,RR Patel,Riazat Ali Shah,CO Obuya,,0,0,0,,,,31871231871
+1,Kenya,19,RR Patel,Riazat Ali Shah,CO Obuya,,0,6,6,,,,31871231871

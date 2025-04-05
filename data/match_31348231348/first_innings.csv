@@ -1,0 +1,55 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,India,0,Shafali Verma,HK Matthews,JI Rodrigues,,0,0,0,,,,31348231348
+1,India,0,Shafali Verma,HK Matthews,JI Rodrigues,,0,1,1,,,,31348231348
+1,India,0,JI Rodrigues,HK Matthews,Shafali Verma,legbyes,1,1,0,,,,31348231348
+1,India,0,Shafali Verma,HK Matthews,JI Rodrigues,,0,6,6,,,,31348231348
+1,India,0,Shafali Verma,HK Matthews,JI Rodrigues,,0,0,0,caught,Shafali Verma,CA Henry,31348231348
+1,India,0,JI Rodrigues,HK Matthews,V Krishnamurthy,,0,0,0,,,,31348231348
+1,India,1,V Krishnamurthy,A Mohammed,JI Rodrigues,legbyes,1,1,0,,,,31348231348
+1,India,1,JI Rodrigues,A Mohammed,V Krishnamurthy,,0,2,2,,,,31348231348
+1,India,1,JI Rodrigues,A Mohammed,V Krishnamurthy,,0,0,0,,,,31348231348
+1,India,1,JI Rodrigues,A Mohammed,V Krishnamurthy,,0,1,1,,,,31348231348
+1,India,1,V Krishnamurthy,A Mohammed,JI Rodrigues,,0,1,1,,,,31348231348
+1,India,1,JI Rodrigues,A Mohammed,V Krishnamurthy,,0,3,3,,,,31348231348
+1,India,2,JI Rodrigues,HK Matthews,V Krishnamurthy,,0,0,0,caught,JI Rodrigues,Kyshona A Knight,31348231348
+1,India,2,V Krishnamurthy,HK Matthews,H Kaur,,0,4,4,,,,31348231348
+1,India,2,V Krishnamurthy,HK Matthews,H Kaur,,0,0,0,,,,31348231348
+1,India,2,V Krishnamurthy,HK Matthews,H Kaur,,0,0,0,caught,V Krishnamurthy,NY McLean,31348231348
+1,India,2,H Kaur,HK Matthews,DB Sharma,,0,0,0,,,,31348231348
+1,India,2,H Kaur,HK Matthews,DB Sharma,,0,2,2,,,,31348231348
+1,India,3,DB Sharma,A Mohammed,H Kaur,,0,1,1,,,,31348231348
+1,India,3,H Kaur,A Mohammed,DB Sharma,,0,0,0,,,,31348231348
+1,India,3,H Kaur,A Mohammed,DB Sharma,,0,1,1,,,,31348231348
+1,India,3,DB Sharma,A Mohammed,H Kaur,,0,1,1,,,,31348231348
+1,India,3,H Kaur,A Mohammed,DB Sharma,,0,1,1,,,,31348231348
+1,India,3,DB Sharma,A Mohammed,H Kaur,,0,2,2,,,,31348231348
+1,India,4,H Kaur,ASS Fletcher,DB Sharma,,0,0,0,,,,31348231348
+1,India,4,H Kaur,ASS Fletcher,DB Sharma,,0,0,0,,,,31348231348
+1,India,4,H Kaur,ASS Fletcher,DB Sharma,,0,0,0,,,,31348231348
+1,India,4,H Kaur,ASS Fletcher,DB Sharma,,0,1,1,,,,31348231348
+1,India,4,DB Sharma,ASS Fletcher,H Kaur,,0,0,0,,,,31348231348
+1,India,4,DB Sharma,ASS Fletcher,H Kaur,,0,0,0,,,,31348231348
+1,India,5,H Kaur,SS Grimmond,DB Sharma,,0,0,0,,,,31348231348
+1,India,5,H Kaur,SS Grimmond,DB Sharma,,0,1,1,,,,31348231348
+1,India,5,DB Sharma,SS Grimmond,H Kaur,,0,0,0,,,,31348231348
+1,India,5,DB Sharma,SS Grimmond,H Kaur,,0,0,0,bowled,DB Sharma,,31348231348
+1,India,5,P Vastrakar,SS Grimmond,H Kaur,,0,0,0,,,,31348231348
+1,India,5,P Vastrakar,SS Grimmond,H Kaur,,0,1,1,,,,31348231348
+1,India,6,P Vastrakar,ASS Fletcher,H Kaur,,0,1,1,,,,31348231348
+1,India,6,H Kaur,ASS Fletcher,P Vastrakar,,0,0,0,stumped,H Kaur,SA Campbelle,31348231348
+1,India,6,H Deol,ASS Fletcher,P Vastrakar,,0,0,0,caught,H Deol,A Mohammed,31348231348
+1,India,6,T Bhatia,ASS Fletcher,P Vastrakar,,0,0,0,,,,31348231348
+1,India,6,T Bhatia,ASS Fletcher,P Vastrakar,,0,0,0,,,,31348231348
+1,India,6,T Bhatia,ASS Fletcher,P Vastrakar,,0,0,0,,,,31348231348
+1,India,7,P Vastrakar,SS Grimmond,T Bhatia,,0,4,4,,,,31348231348
+1,India,7,P Vastrakar,SS Grimmond,T Bhatia,,0,2,2,,,,31348231348
+1,India,7,P Vastrakar,SS Grimmond,T Bhatia,,0,0,0,,,,31348231348
+1,India,7,P Vastrakar,SS Grimmond,T Bhatia,,0,2,2,,,,31348231348
+1,India,7,P Vastrakar,SS Grimmond,T Bhatia,,0,0,0,caught,P Vastrakar,CA Henry,31348231348
+1,India,7,T Bhatia,SS Grimmond,AA Patil,,0,0,0,,,,31348231348
+1,India,8,AA Patil,SACA King,T Bhatia,,0,1,1,,,,31348231348
+1,India,8,T Bhatia,SACA King,AA Patil,,0,1,1,,,,31348231348
+1,India,8,AA Patil,SACA King,T Bhatia,,0,1,1,,,,31348231348
+1,India,8,T Bhatia,SACA King,AA Patil,,0,4,4,,,,31348231348
+1,India,8,T Bhatia,SACA King,AA Patil,,0,2,2,,,,31348231348
+1,India,8,T Bhatia,SACA King,AA Patil,,0,1,1,,,,31348231348

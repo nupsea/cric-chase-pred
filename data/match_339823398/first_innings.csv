@@ -1,0 +1,130 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Nepal,0,SP Khakurel,Mashrafe Mortaza,Sagar Pun,,0,0,0,,,,339823398
+1,Nepal,0,SP Khakurel,Mashrafe Mortaza,Sagar Pun,,0,2,2,,,,339823398
+1,Nepal,0,SP Khakurel,Mashrafe Mortaza,Sagar Pun,,0,0,0,,,,339823398
+1,Nepal,0,SP Khakurel,Mashrafe Mortaza,Sagar Pun,legbyes,1,1,0,,,,339823398
+1,Nepal,0,Sagar Pun,Mashrafe Mortaza,SP Khakurel,,0,0,0,,,,339823398
+1,Nepal,0,Sagar Pun,Mashrafe Mortaza,SP Khakurel,,0,0,0,,,,339823398
+1,Nepal,1,SP Khakurel,Al-Amin Hossain,Sagar Pun,,0,0,0,,,,339823398
+1,Nepal,1,SP Khakurel,Al-Amin Hossain,Sagar Pun,wides,1,1,0,,,,339823398
+1,Nepal,1,SP Khakurel,Al-Amin Hossain,Sagar Pun,wides,1,1,0,,,,339823398
+1,Nepal,1,SP Khakurel,Al-Amin Hossain,Sagar Pun,,0,1,1,,,,339823398
+1,Nepal,1,Sagar Pun,Al-Amin Hossain,SP Khakurel,,0,0,0,,,,339823398
+1,Nepal,1,Sagar Pun,Al-Amin Hossain,SP Khakurel,,0,0,0,,,,339823398
+1,Nepal,1,Sagar Pun,Al-Amin Hossain,SP Khakurel,,0,4,4,,,,339823398
+1,Nepal,1,Sagar Pun,Al-Amin Hossain,SP Khakurel,wides,1,1,0,,,,339823398
+1,Nepal,1,Sagar Pun,Al-Amin Hossain,SP Khakurel,,0,0,0,,,,339823398
+1,Nepal,2,SP Khakurel,Mashrafe Mortaza,Sagar Pun,,0,1,1,,,,339823398
+1,Nepal,2,Sagar Pun,Mashrafe Mortaza,SP Khakurel,,0,0,0,,,,339823398
+1,Nepal,2,Sagar Pun,Mashrafe Mortaza,SP Khakurel,,0,1,1,,,,339823398
+1,Nepal,2,SP Khakurel,Mashrafe Mortaza,Sagar Pun,,0,1,1,,,,339823398
+1,Nepal,2,Sagar Pun,Mashrafe Mortaza,SP Khakurel,,0,0,0,,,,339823398
+1,Nepal,2,Sagar Pun,Mashrafe Mortaza,SP Khakurel,,0,0,0,,,,339823398
+1,Nepal,3,SP Khakurel,Farhad Reza,Sagar Pun,,0,2,2,,,,339823398
+1,Nepal,3,SP Khakurel,Farhad Reza,Sagar Pun,,0,1,1,,,,339823398
+1,Nepal,3,Sagar Pun,Farhad Reza,SP Khakurel,,0,1,1,,,,339823398
+1,Nepal,3,SP Khakurel,Farhad Reza,Sagar Pun,wides,1,1,0,,,,339823398
+1,Nepal,3,SP Khakurel,Farhad Reza,Sagar Pun,,0,0,0,,,,339823398
+1,Nepal,3,SP Khakurel,Farhad Reza,Sagar Pun,,0,0,0,,,,339823398
+1,Nepal,3,SP Khakurel,Farhad Reza,Sagar Pun,,0,0,0,caught,SP Khakurel,Abdur Razzak,339823398
+1,Nepal,4,G Malla,Mashrafe Mortaza,Sagar Pun,,0,3,3,,,,339823398
+1,Nepal,4,Sagar Pun,Mashrafe Mortaza,G Malla,,0,4,4,,,,339823398
+1,Nepal,4,Sagar Pun,Mashrafe Mortaza,G Malla,,0,0,0,,,,339823398
+1,Nepal,4,Sagar Pun,Mashrafe Mortaza,G Malla,,0,1,1,,,,339823398
+1,Nepal,4,G Malla,Mashrafe Mortaza,Sagar Pun,,0,1,1,,,,339823398
+1,Nepal,4,Sagar Pun,Mashrafe Mortaza,G Malla,,0,0,0,,,,339823398
+1,Nepal,5,G Malla,Shakib Al Hasan,Sagar Pun,,0,1,1,,,,339823398
+1,Nepal,5,Sagar Pun,Shakib Al Hasan,G Malla,,0,0,0,,,,339823398
+1,Nepal,5,Sagar Pun,Shakib Al Hasan,G Malla,,0,0,0,,,,339823398
+1,Nepal,5,Sagar Pun,Shakib Al Hasan,G Malla,,0,1,1,,,,339823398
+1,Nepal,5,G Malla,Shakib Al Hasan,Sagar Pun,,0,4,4,,,,339823398
+1,Nepal,5,G Malla,Shakib Al Hasan,Sagar Pun,,0,4,4,,,,339823398
+1,Nepal,6,Sagar Pun,Al-Amin Hossain,G Malla,,0,0,0,caught,Sagar Pun,Shakib Al Hasan,339823398
+1,Nepal,6,P Khadka,Al-Amin Hossain,G Malla,,0,1,1,,,,339823398
+1,Nepal,6,G Malla,Al-Amin Hossain,P Khadka,,0,0,0,lbw,G Malla,,339823398
+1,Nepal,6,S Vesawkar,Al-Amin Hossain,P Khadka,,0,0,0,,,,339823398
+1,Nepal,6,S Vesawkar,Al-Amin Hossain,P Khadka,,0,0,0,,,,339823398
+1,Nepal,6,S Vesawkar,Al-Amin Hossain,P Khadka,,0,1,1,,,,339823398
+1,Nepal,7,S Vesawkar,Farhad Reza,P Khadka,,0,2,2,,,,339823398
+1,Nepal,7,S Vesawkar,Farhad Reza,P Khadka,,0,0,0,,,,339823398
+1,Nepal,7,S Vesawkar,Farhad Reza,P Khadka,,0,0,0,,,,339823398
+1,Nepal,7,S Vesawkar,Farhad Reza,P Khadka,,0,1,1,,,,339823398
+1,Nepal,7,P Khadka,Farhad Reza,S Vesawkar,,0,4,4,,,,339823398
+1,Nepal,7,P Khadka,Farhad Reza,S Vesawkar,,0,1,1,,,,339823398
+1,Nepal,8,P Khadka,Al-Amin Hossain,S Vesawkar,,0,1,1,,,,339823398
+1,Nepal,8,S Vesawkar,Al-Amin Hossain,P Khadka,,0,4,4,,,,339823398
+1,Nepal,8,S Vesawkar,Al-Amin Hossain,P Khadka,,0,0,0,,,,339823398
+1,Nepal,8,S Vesawkar,Al-Amin Hossain,P Khadka,,0,0,0,,,,339823398
+1,Nepal,8,S Vesawkar,Al-Amin Hossain,P Khadka,,0,0,0,,,,339823398
+1,Nepal,8,S Vesawkar,Al-Amin Hossain,P Khadka,,0,0,0,,,,339823398
+1,Nepal,9,P Khadka,Nasir Hossain,S Vesawkar,,0,0,0,,,,339823398
+1,Nepal,9,P Khadka,Nasir Hossain,S Vesawkar,,0,1,1,,,,339823398
+1,Nepal,9,S Vesawkar,Nasir Hossain,P Khadka,,0,0,0,,,,339823398
+1,Nepal,9,S Vesawkar,Nasir Hossain,P Khadka,,0,0,0,,,,339823398
+1,Nepal,9,S Vesawkar,Nasir Hossain,P Khadka,,0,0,0,,,,339823398
+1,Nepal,9,S Vesawkar,Nasir Hossain,P Khadka,,0,0,0,,,,339823398
+1,Nepal,10,P Khadka,Abdur Razzak,S Vesawkar,,0,1,1,,,,339823398
+1,Nepal,10,S Vesawkar,Abdur Razzak,P Khadka,,0,1,1,,,,339823398
+1,Nepal,10,P Khadka,Abdur Razzak,S Vesawkar,,0,1,1,,,,339823398
+1,Nepal,10,S Vesawkar,Abdur Razzak,P Khadka,wides,1,1,0,,,,339823398
+1,Nepal,10,S Vesawkar,Abdur Razzak,P Khadka,,0,0,0,,,,339823398
+1,Nepal,10,S Vesawkar,Abdur Razzak,P Khadka,,0,1,1,,,,339823398
+1,Nepal,10,P Khadka,Abdur Razzak,S Vesawkar,,0,0,0,,,,339823398
+1,Nepal,11,S Vesawkar,Shakib Al Hasan,P Khadka,,0,1,1,,,,339823398
+1,Nepal,11,P Khadka,Shakib Al Hasan,S Vesawkar,,0,1,1,,,,339823398
+1,Nepal,11,S Vesawkar,Shakib Al Hasan,P Khadka,,0,0,0,,,,339823398
+1,Nepal,11,S Vesawkar,Shakib Al Hasan,P Khadka,,0,0,0,,,,339823398
+1,Nepal,11,S Vesawkar,Shakib Al Hasan,P Khadka,,0,1,1,,,,339823398
+1,Nepal,11,P Khadka,Shakib Al Hasan,S Vesawkar,,0,1,1,,,,339823398
+1,Nepal,12,P Khadka,Nasir Hossain,S Vesawkar,,0,4,4,,,,339823398
+1,Nepal,12,P Khadka,Nasir Hossain,S Vesawkar,,0,0,0,,,,339823398
+1,Nepal,12,P Khadka,Nasir Hossain,S Vesawkar,wides,1,1,0,,,,339823398
+1,Nepal,12,P Khadka,Nasir Hossain,S Vesawkar,,0,4,4,,,,339823398
+1,Nepal,12,P Khadka,Nasir Hossain,S Vesawkar,,0,1,1,,,,339823398
+1,Nepal,12,S Vesawkar,Nasir Hossain,P Khadka,,0,0,0,,,,339823398
+1,Nepal,12,S Vesawkar,Nasir Hossain,P Khadka,,0,1,1,,,,339823398
+1,Nepal,13,S Vesawkar,Shakib Al Hasan,P Khadka,,0,1,1,,,,339823398
+1,Nepal,13,P Khadka,Shakib Al Hasan,S Vesawkar,,0,0,0,,,,339823398
+1,Nepal,13,P Khadka,Shakib Al Hasan,S Vesawkar,,0,0,0,,,,339823398
+1,Nepal,13,P Khadka,Shakib Al Hasan,S Vesawkar,,0,1,1,,,,339823398
+1,Nepal,13,S Vesawkar,Shakib Al Hasan,P Khadka,,0,0,0,,,,339823398
+1,Nepal,13,S Vesawkar,Shakib Al Hasan,P Khadka,,0,0,0,,,,339823398
+1,Nepal,14,P Khadka,Nasir Hossain,S Vesawkar,,0,2,2,,,,339823398
+1,Nepal,14,P Khadka,Nasir Hossain,S Vesawkar,wides,1,1,0,,,,339823398
+1,Nepal,14,P Khadka,Nasir Hossain,S Vesawkar,,0,0,0,,,,339823398
+1,Nepal,14,P Khadka,Nasir Hossain,S Vesawkar,,0,1,1,,,,339823398
+1,Nepal,14,S Vesawkar,Nasir Hossain,P Khadka,,0,4,4,,,,339823398
+1,Nepal,14,S Vesawkar,Nasir Hossain,P Khadka,,0,1,1,,,,339823398
+1,Nepal,14,P Khadka,Nasir Hossain,S Vesawkar,,0,1,1,,,,339823398
+1,Nepal,15,P Khadka,Shakib Al Hasan,S Vesawkar,legbyes,1,1,0,,,,339823398
+1,Nepal,15,S Vesawkar,Shakib Al Hasan,P Khadka,,0,1,1,,,,339823398
+1,Nepal,15,P Khadka,Shakib Al Hasan,S Vesawkar,,0,1,1,,,,339823398
+1,Nepal,15,S Vesawkar,Shakib Al Hasan,P Khadka,,0,2,2,,,,339823398
+1,Nepal,15,S Vesawkar,Shakib Al Hasan,P Khadka,,0,1,1,,,,339823398
+1,Nepal,15,P Khadka,Shakib Al Hasan,S Vesawkar,,0,1,1,,,,339823398
+1,Nepal,16,P Khadka,Farhad Reza,S Vesawkar,,0,0,0,,,,339823398
+1,Nepal,16,P Khadka,Farhad Reza,S Vesawkar,wides,1,1,0,,,,339823398
+1,Nepal,16,P Khadka,Farhad Reza,S Vesawkar,,0,4,4,,,,339823398
+1,Nepal,16,P Khadka,Farhad Reza,S Vesawkar,,0,0,0,,,,339823398
+1,Nepal,16,P Khadka,Farhad Reza,S Vesawkar,,0,1,1,,,,339823398
+1,Nepal,16,S Vesawkar,Farhad Reza,P Khadka,,0,4,4,,,,339823398
+1,Nepal,16,S Vesawkar,Farhad Reza,P Khadka,,0,4,4,,,,339823398
+1,Nepal,17,P Khadka,Abdur Razzak,S Vesawkar,,0,4,4,,,,339823398
+1,Nepal,17,P Khadka,Abdur Razzak,S Vesawkar,,0,0,0,,,,339823398
+1,Nepal,17,P Khadka,Abdur Razzak,S Vesawkar,,0,1,1,,,,339823398
+1,Nepal,17,S Vesawkar,Abdur Razzak,P Khadka,legbyes,1,1,0,,,,339823398
+1,Nepal,17,P Khadka,Abdur Razzak,S Vesawkar,,0,1,1,,,,339823398
+1,Nepal,17,S Vesawkar,Abdur Razzak,P Khadka,,0,1,1,,,,339823398
+1,Nepal,18,S Vesawkar,Mashrafe Mortaza,P Khadka,,0,4,4,,,,339823398
+1,Nepal,18,S Vesawkar,Mashrafe Mortaza,P Khadka,,0,0,0,,,,339823398
+1,Nepal,18,S Vesawkar,Mashrafe Mortaza,P Khadka,,0,2,2,,,,339823398
+1,Nepal,18,S Vesawkar,Mashrafe Mortaza,P Khadka,,0,1,1,,,,339823398
+1,Nepal,18,P Khadka,Mashrafe Mortaza,S Vesawkar,,0,2,2,,,,339823398
+1,Nepal,18,P Khadka,Mashrafe Mortaza,S Vesawkar,,0,0,0,bowled,P Khadka,,339823398
+1,Nepal,19,S Vesawkar,Al-Amin Hossain,B Bhandari,,0,0,0,,,,339823398
+1,Nepal,19,S Vesawkar,Al-Amin Hossain,B Bhandari,,0,1,1,,,,339823398
+1,Nepal,19,B Bhandari,Al-Amin Hossain,S Vesawkar,wides,1,1,0,,,,339823398
+1,Nepal,19,B Bhandari,Al-Amin Hossain,S Vesawkar,,0,0,0,,,,339823398
+1,Nepal,19,B Bhandari,Al-Amin Hossain,S Vesawkar,,0,0,0,,,,339823398
+1,Nepal,19,B Bhandari,Al-Amin Hossain,S Vesawkar,,0,0,0,,,,339823398
+1,Nepal,19,B Bhandari,Al-Amin Hossain,S Vesawkar,,0,0,0,run out,S Vesawkar,Mushfiqur Rahim,339823398

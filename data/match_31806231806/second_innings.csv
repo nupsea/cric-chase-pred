@@ -1,0 +1,68 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Cameroon,0,P Abanda,F Damiao Couana,I Tchakou,wides,1,1,0,,,,31806231806
+2,Cameroon,0,P Abanda,F Damiao Couana,I Tchakou,wides,1,1,0,,,,31806231806
+2,Cameroon,0,P Abanda,F Damiao Couana,I Tchakou,,0,0,0,,,,31806231806
+2,Cameroon,0,P Abanda,F Damiao Couana,I Tchakou,,0,0,0,,,,31806231806
+2,Cameroon,0,P Abanda,F Damiao Couana,I Tchakou,,0,0,0,,,,31806231806
+2,Cameroon,0,P Abanda,F Damiao Couana,I Tchakou,,0,0,0,,,,31806231806
+2,Cameroon,0,P Abanda,F Damiao Couana,I Tchakou,,0,1,1,,,,31806231806
+2,Cameroon,0,I Tchakou,F Damiao Couana,P Abanda,,0,0,0,,,,31806231806
+2,Cameroon,1,P Abanda,J Bulele,I Tchakou,,0,1,1,,,,31806231806
+2,Cameroon,1,I Tchakou,J Bulele,P Abanda,,0,0,0,,,,31806231806
+2,Cameroon,1,I Tchakou,J Bulele,P Abanda,,0,0,0,,,,31806231806
+2,Cameroon,1,I Tchakou,J Bulele,P Abanda,,0,0,0,,,,31806231806
+2,Cameroon,1,I Tchakou,J Bulele,P Abanda,,0,1,1,,,,31806231806
+2,Cameroon,1,P Abanda,J Bulele,I Tchakou,,0,4,4,,,,31806231806
+2,Cameroon,2,I Tchakou,F Damiao Couana,P Abanda,,0,0,0,bowled,I Tchakou,,31806231806
+2,Cameroon,2,DB Loic,F Damiao Couana,P Abanda,,0,4,4,,,,31806231806
+2,Cameroon,2,DB Loic,F Damiao Couana,P Abanda,,0,1,1,,,,31806231806
+2,Cameroon,2,P Abanda,F Damiao Couana,DB Loic,,0,0,0,,,,31806231806
+2,Cameroon,2,P Abanda,F Damiao Couana,DB Loic,,0,2,2,,,,31806231806
+2,Cameroon,2,P Abanda,F Damiao Couana,DB Loic,,0,0,0,,,,31806231806
+2,Cameroon,3,DB Loic,J Bulele,P Abanda,,0,0,0,caught,DB Loic,FA Cossa,31806231806
+2,Cameroon,3,RGA Amah,J Bulele,P Abanda,,0,1,1,,,,31806231806
+2,Cameroon,3,P Abanda,J Bulele,RGA Amah,,0,0,0,,,,31806231806
+2,Cameroon,3,P Abanda,J Bulele,RGA Amah,,0,0,0,,,,31806231806
+2,Cameroon,3,P Abanda,J Bulele,RGA Amah,,0,0,0,,,,31806231806
+2,Cameroon,3,P Abanda,J Bulele,RGA Amah,,0,1,1,,,,31806231806
+2,Cameroon,4,P Abanda,F Damiao Couana,RGA Amah,,0,0,0,bowled,P Abanda,,31806231806
+2,Cameroon,4,BN Toube,F Damiao Couana,RGA Amah,,0,0,0,lbw,BN Toube,,31806231806
+2,Cameroon,4,JB Abega,F Damiao Couana,RGA Amah,,0,0,0,,,,31806231806
+2,Cameroon,4,JB Abega,F Damiao Couana,RGA Amah,,0,1,1,,,,31806231806
+2,Cameroon,4,RGA Amah,F Damiao Couana,JB Abega,wides,1,1,0,,,,31806231806
+2,Cameroon,4,RGA Amah,F Damiao Couana,JB Abega,,0,1,1,,,,31806231806
+2,Cameroon,4,JB Abega,F Damiao Couana,RGA Amah,,0,0,0,caught,JB Abega,JJ Huo,31806231806
+2,Cameroon,5,RGA Amah,J Bulele,M Fru,,0,1,1,,,,31806231806
+2,Cameroon,5,M Fru,J Bulele,RGA Amah,,0,0,0,,,,31806231806
+2,Cameroon,5,M Fru,J Bulele,RGA Amah,,0,1,1,,,,31806231806
+2,Cameroon,5,RGA Amah,J Bulele,M Fru,wides,1,1,0,,,,31806231806
+2,Cameroon,5,RGA Amah,J Bulele,M Fru,,0,0,0,caught,RGA Amah,L Emilio,31806231806
+2,Cameroon,5,AN Toube,J Bulele,M Fru,,0,0,0,stumped,AN Toube,L Emilio,31806231806
+2,Cameroon,5,FJ Mpegna,J Bulele,M Fru,,0,0,0,,,,31806231806
+2,Cameroon,6,M Fru,F Damiao Couana,FJ Mpegna,,0,1,1,,,,31806231806
+2,Cameroon,6,FJ Mpegna,F Damiao Couana,M Fru,,0,0,0,,,,31806231806
+2,Cameroon,6,FJ Mpegna,F Damiao Couana,M Fru,,0,4,4,,,,31806231806
+2,Cameroon,6,FJ Mpegna,F Damiao Couana,M Fru,wides,1,1,0,,,,31806231806
+2,Cameroon,6,FJ Mpegna,F Damiao Couana,M Fru,,0,0,0,bowled,FJ Mpegna,,31806231806
+2,Cameroon,6,CB Ondoa,F Damiao Couana,M Fru,,0,0,0,,,,31806231806
+2,Cameroon,6,CB Ondoa,F Damiao Couana,M Fru,,0,0,0,,,,31806231806
+2,Cameroon,7,M Fru,J Bulele,CB Ondoa,,0,0,0,stumped,M Fru,L Emilio,31806231806
+2,Cameroon,7,AB Mengoumou,J Bulele,CB Ondoa,,0,0,0,,,,31806231806
+2,Cameroon,7,AB Mengoumou,J Bulele,CB Ondoa,,0,1,1,,,,31806231806
+2,Cameroon,7,CB Ondoa,J Bulele,AB Mengoumou,wides,1,1,0,,,,31806231806
+2,Cameroon,7,CB Ondoa,J Bulele,AB Mengoumou,,0,0,0,,,,31806231806
+2,Cameroon,7,CB Ondoa,J Bulele,AB Mengoumou,,0,0,0,,,,31806231806
+2,Cameroon,7,CB Ondoa,J Bulele,AB Mengoumou,,0,0,0,,,,31806231806
+2,Cameroon,8,AB Mengoumou,JJ Huo,CB Ondoa,,0,0,0,,,,31806231806
+2,Cameroon,8,AB Mengoumou,JJ Huo,CB Ondoa,,0,0,0,,,,31806231806
+2,Cameroon,8,AB Mengoumou,JJ Huo,CB Ondoa,,0,0,0,,,,31806231806
+2,Cameroon,8,AB Mengoumou,JJ Huo,CB Ondoa,,0,1,1,,,,31806231806
+2,Cameroon,8,CB Ondoa,JJ Huo,AB Mengoumou,,0,1,1,,,,31806231806
+2,Cameroon,8,AB Mengoumou,JJ Huo,CB Ondoa,,0,0,0,,,,31806231806
+2,Cameroon,9,CB Ondoa,SF Nhavotso,AB Mengoumou,,0,0,0,,,,31806231806
+2,Cameroon,9,CB Ondoa,SF Nhavotso,AB Mengoumou,,0,1,1,,,,31806231806
+2,Cameroon,9,AB Mengoumou,SF Nhavotso,CB Ondoa,,0,1,1,,,,31806231806
+2,Cameroon,9,CB Ondoa,SF Nhavotso,AB Mengoumou,,0,0,0,,,,31806231806
+2,Cameroon,9,CB Ondoa,SF Nhavotso,AB Mengoumou,,0,1,1,,,,31806231806
+2,Cameroon,9,AB Mengoumou,SF Nhavotso,CB Ondoa,,0,1,1,,,,31806231806
+2,Cameroon,10,AB Mengoumou,JJ Huo,CB Ondoa,,0,0,0,bowled,AB Mengoumou,,31806231806

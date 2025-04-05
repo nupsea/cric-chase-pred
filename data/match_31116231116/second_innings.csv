@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Norway,0,Raza Iqbal,Delawar Khan,E Ul Haq,,0,0,0,,,,31116231116
+2,Norway,0,Raza Iqbal,Delawar Khan,E Ul Haq,,0,0,0,,,,31116231116
+2,Norway,0,Raza Iqbal,Delawar Khan,E Ul Haq,,0,1,1,,,,31116231116
+2,Norway,0,E Ul Haq,Delawar Khan,Raza Iqbal,,0,1,1,,,,31116231116
+2,Norway,0,Raza Iqbal,Delawar Khan,E Ul Haq,,0,0,0,,,,31116231116
+2,Norway,0,Raza Iqbal,Delawar Khan,E Ul Haq,wides,1,1,0,,,,31116231116
+2,Norway,0,Raza Iqbal,Delawar Khan,E Ul Haq,,0,1,1,,,,31116231116
+2,Norway,1,Raza Iqbal,ND Laegsgaard,E Ul Haq,,0,3,3,,,,31116231116
+2,Norway,1,E Ul Haq,ND Laegsgaard,Raza Iqbal,,0,0,0,,,,31116231116
+2,Norway,1,E Ul Haq,ND Laegsgaard,Raza Iqbal,,0,0,0,bowled,E Ul Haq,,31116231116
+2,Norway,1,Walid Ghauri,ND Laegsgaard,Raza Iqbal,,0,0,0,,,,31116231116
+2,Norway,1,Walid Ghauri,ND Laegsgaard,Raza Iqbal,,0,0,0,,,,31116231116
+2,Norway,1,Walid Ghauri,ND Laegsgaard,Raza Iqbal,,0,1,1,,,,31116231116
+2,Norway,2,Walid Ghauri,Delawar Khan,Raza Iqbal,,0,0,0,,,,31116231116
+2,Norway,2,Walid Ghauri,Delawar Khan,Raza Iqbal,,0,4,4,,,,31116231116
+2,Norway,2,Walid Ghauri,Delawar Khan,Raza Iqbal,,0,0,0,,,,31116231116
+2,Norway,2,Walid Ghauri,Delawar Khan,Raza Iqbal,,0,0,0,,,,31116231116
+2,Norway,2,Walid Ghauri,Delawar Khan,Raza Iqbal,,0,1,1,,,,31116231116
+2,Norway,2,Raza Iqbal,Delawar Khan,Walid Ghauri,wides,1,1,0,,,,31116231116
+2,Norway,2,Raza Iqbal,Delawar Khan,Walid Ghauri,,0,4,4,,,,31116231116
+2,Norway,3,Walid Ghauri,ND Laegsgaard,Raza Iqbal,,0,0,0,,,,31116231116
+2,Norway,3,Walid Ghauri,ND Laegsgaard,Raza Iqbal,,0,0,0,,,,31116231116
+2,Norway,3,Walid Ghauri,ND Laegsgaard,Raza Iqbal,,0,0,0,caught and bowled,Walid Ghauri,,31116231116
+2,Norway,3,Ansar Iqbal,ND Laegsgaard,Raza Iqbal,legbyes,1,1,0,,,,31116231116
+2,Norway,3,Raza Iqbal,ND Laegsgaard,Ansar Iqbal,,0,0,0,,,,31116231116
+2,Norway,3,Raza Iqbal,ND Laegsgaard,Ansar Iqbal,,0,1,1,,,,31116231116
+2,Norway,4,Raza Iqbal,J Jojo,Ansar Iqbal,,0,0,0,,,,31116231116
+2,Norway,4,Raza Iqbal,J Jojo,Ansar Iqbal,,0,4,4,,,,31116231116
+2,Norway,4,Raza Iqbal,J Jojo,Ansar Iqbal,,0,1,1,,,,31116231116
+2,Norway,4,Ansar Iqbal,J Jojo,Raza Iqbal,,0,0,0,,,,31116231116
+2,Norway,4,Ansar Iqbal,J Jojo,Raza Iqbal,,0,1,1,,,,31116231116
+2,Norway,4,Raza Iqbal,J Jojo,Ansar Iqbal,,0,0,0,,,,31116231116
+2,Norway,5,Ansar Iqbal,OD Hald,Raza Iqbal,,0,0,0,,,,31116231116
+2,Norway,5,Ansar Iqbal,OD Hald,Raza Iqbal,,0,0,0,,,,31116231116
+2,Norway,5,Ansar Iqbal,OD Hald,Raza Iqbal,,0,0,0,caught,Ansar Iqbal,T Bharaj,31116231116
+2,Norway,5,Raza Iqbal,OD Hald,Tafseer Ali,,0,0,0,,,,31116231116
+2,Norway,5,Raza Iqbal,OD Hald,Tafseer Ali,,0,4,4,,,,31116231116
+2,Norway,5,Raza Iqbal,OD Hald,Tafseer Ali,,0,0,0,,,,31116231116
+2,Norway,6,Tafseer Ali,HAM Shah,Raza Iqbal,,0,0,0,,,,31116231116
+2,Norway,6,Tafseer Ali,HAM Shah,Raza Iqbal,,0,1,1,,,,31116231116
+2,Norway,6,Raza Iqbal,HAM Shah,Tafseer Ali,,0,0,0,,,,31116231116
+2,Norway,6,Raza Iqbal,HAM Shah,Tafseer Ali,,0,0,0,,,,31116231116
+2,Norway,6,Raza Iqbal,HAM Shah,Tafseer Ali,,0,0,0,caught,Raza Iqbal,Delawar Khan,31116231116
+2,Norway,6,Tafseer Ali,HAM Shah,Hayatullah Niazi,,0,0,0,,,,31116231116
+2,Norway,7,Hayatullah Niazi,OD Hald,Tafseer Ali,,0,0,0,,,,31116231116
+2,Norway,7,Hayatullah Niazi,OD Hald,Tafseer Ali,,0,0,0,,,,31116231116
+2,Norway,7,Hayatullah Niazi,OD Hald,Tafseer Ali,,0,1,1,,,,31116231116
+2,Norway,7,Tafseer Ali,OD Hald,Hayatullah Niazi,,0,0,0,,,,31116231116
+2,Norway,7,Tafseer Ali,OD Hald,Hayatullah Niazi,,0,0,0,,,,31116231116
+2,Norway,7,Tafseer Ali,OD Hald,Hayatullah Niazi,,0,0,0,,,,31116231116
+2,Norway,8,Hayatullah Niazi,HAM Shah,Tafseer Ali,,0,1,1,,,,31116231116
+2,Norway,8,Tafseer Ali,HAM Shah,Hayatullah Niazi,,0,0,0,,,,31116231116
+2,Norway,8,Tafseer Ali,HAM Shah,Hayatullah Niazi,,0,0,0,,,,31116231116
+2,Norway,8,Tafseer Ali,HAM Shah,Hayatullah Niazi,,0,1,1,,,,31116231116
+2,Norway,8,Hayatullah Niazi,HAM Shah,Tafseer Ali,wides,1,1,0,,,,31116231116
+2,Norway,8,Hayatullah Niazi,HAM Shah,Tafseer Ali,,0,1,1,,,,31116231116
+2,Norway,8,Tafseer Ali,HAM Shah,Hayatullah Niazi,,0,1,1,,,,31116231116
+2,Norway,9,Tafseer Ali,SA Ahmad,Hayatullah Niazi,,0,1,1,,,,31116231116
+2,Norway,9,Hayatullah Niazi,SA Ahmad,Tafseer Ali,,0,0,0,,,,31116231116
+2,Norway,9,Hayatullah Niazi,SA Ahmad,Tafseer Ali,,0,0,0,,,,31116231116
+2,Norway,9,Hayatullah Niazi,SA Ahmad,Tafseer Ali,,0,0,0,,,,31116231116
+2,Norway,9,Hayatullah Niazi,SA Ahmad,Tafseer Ali,,0,1,1,,,,31116231116
+2,Norway,9,Tafseer Ali,SA Ahmad,Hayatullah Niazi,,0,0,0,,,,31116231116
+2,Norway,10,Hayatullah Niazi,HAM Shah,Tafseer Ali,,0,6,6,,,,31116231116
+2,Norway,10,Hayatullah Niazi,HAM Shah,Tafseer Ali,,0,6,6,,,,31116231116
+2,Norway,10,Hayatullah Niazi,HAM Shah,Tafseer Ali,,0,0,0,,,,31116231116
+2,Norway,10,Hayatullah Niazi,HAM Shah,Tafseer Ali,,0,1,1,,,,31116231116
+2,Norway,10,Tafseer Ali,HAM Shah,Hayatullah Niazi,,0,1,1,,,,31116231116
+2,Norway,10,Hayatullah Niazi,HAM Shah,Tafseer Ali,,0,2,2,,,,31116231116
+2,Norway,11,Tafseer Ali,SA Ahmad,Hayatullah Niazi,,0,0,0,,,,31116231116
+2,Norway,11,Tafseer Ali,SA Ahmad,Hayatullah Niazi,,0,0,0,,,,31116231116
+2,Norway,11,Tafseer Ali,SA Ahmad,Hayatullah Niazi,,0,0,0,caught and bowled,Tafseer Ali,,31116231116
+2,Norway,11,Khizer Ahmed,SA Ahmad,Hayatullah Niazi,,0,0,0,,,,31116231116
+2,Norway,11,Khizer Ahmed,SA Ahmad,Hayatullah Niazi,,0,0,0,,,,31116231116
+2,Norway,11,Khizer Ahmed,SA Ahmad,Hayatullah Niazi,,0,0,0,,,,31116231116
+2,Norway,12,Hayatullah Niazi,J Jojo,Khizer Ahmed,,0,1,1,,,,31116231116
+2,Norway,12,Khizer Ahmed,J Jojo,Hayatullah Niazi,,0,0,0,,,,31116231116
+2,Norway,12,Khizer Ahmed,J Jojo,Hayatullah Niazi,legbyes,1,1,0,,,,31116231116
+2,Norway,12,Hayatullah Niazi,J Jojo,Khizer Ahmed,,0,1,1,,,,31116231116
+2,Norway,12,Khizer Ahmed,J Jojo,Hayatullah Niazi,,0,1,1,,,,31116231116
+2,Norway,12,Hayatullah Niazi,J Jojo,Khizer Ahmed,,0,2,2,,,,31116231116
+2,Norway,13,Khizer Ahmed,SA Ahmad,Hayatullah Niazi,,0,0,0,caught,Khizer Ahmed,T Bharaj,31116231116
+2,Norway,13,Abdullah Sheikh,SA Ahmad,Hayatullah Niazi,,0,0,0,,,,31116231116
+2,Norway,13,Abdullah Sheikh,SA Ahmad,Hayatullah Niazi,wides,1,1,0,,,,31116231116
+2,Norway,13,Abdullah Sheikh,SA Ahmad,Hayatullah Niazi,,0,0,0,,,,31116231116
+2,Norway,13,Abdullah Sheikh,SA Ahmad,Hayatullah Niazi,,0,0,0,,,,31116231116
+2,Norway,13,Abdullah Sheikh,SA Ahmad,Hayatullah Niazi,,0,0,0,,,,31116231116
+2,Norway,13,Abdullah Sheikh,SA Ahmad,Hayatullah Niazi,,0,1,1,,,,31116231116
+2,Norway,14,Abdullah Sheikh,J Jojo,Hayatullah Niazi,,0,0,0,,,,31116231116
+2,Norway,14,Abdullah Sheikh,J Jojo,Hayatullah Niazi,,0,0,0,,,,31116231116
+2,Norway,14,Abdullah Sheikh,J Jojo,Hayatullah Niazi,,0,0,0,,,,31116231116
+2,Norway,14,Abdullah Sheikh,J Jojo,Hayatullah Niazi,,0,1,1,,,,31116231116
+2,Norway,14,Hayatullah Niazi,J Jojo,Abdullah Sheikh,,0,0,0,,,,31116231116
+2,Norway,14,Hayatullah Niazi,J Jojo,Abdullah Sheikh,,0,1,1,,,,31116231116
+2,Norway,15,Hayatullah Niazi,SA Ahmad,Abdullah Sheikh,,0,1,1,,,,31116231116
+2,Norway,15,Abdullah Sheikh,SA Ahmad,Hayatullah Niazi,,0,1,1,,,,31116231116
+2,Norway,15,Hayatullah Niazi,SA Ahmad,Abdullah Sheikh,,0,0,0,,,,31116231116
+2,Norway,15,Hayatullah Niazi,SA Ahmad,Abdullah Sheikh,,0,2,2,,,,31116231116
+2,Norway,15,Hayatullah Niazi,SA Ahmad,Abdullah Sheikh,,0,0,0,bowled,Hayatullah Niazi,,31116231116
+2,Norway,15,S Waqas Ahmed,SA Ahmad,Abdullah Sheikh,,0,1,1,,,,31116231116
+2,Norway,16,S Waqas Ahmed,J Jojo,Abdullah Sheikh,,0,1,1,,,,31116231116
+2,Norway,16,Abdullah Sheikh,J Jojo,S Waqas Ahmed,,0,2,2,,,,31116231116
+2,Norway,16,Abdullah Sheikh,J Jojo,S Waqas Ahmed,,0,4,4,,,,31116231116
+2,Norway,16,Abdullah Sheikh,J Jojo,S Waqas Ahmed,,0,1,1,,,,31116231116
+2,Norway,16,S Waqas Ahmed,J Jojo,Abdullah Sheikh,,0,0,0,,,,31116231116
+2,Norway,16,S Waqas Ahmed,J Jojo,Abdullah Sheikh,,0,0,0,,,,31116231116
+2,Norway,17,Abdullah Sheikh,Anique Uddin,S Waqas Ahmed,,0,0,0,,,,31116231116
+2,Norway,17,Abdullah Sheikh,Anique Uddin,S Waqas Ahmed,,0,1,1,,,,31116231116
+2,Norway,17,S Waqas Ahmed,Anique Uddin,Abdullah Sheikh,,0,1,1,,,,31116231116
+2,Norway,17,Abdullah Sheikh,Anique Uddin,S Waqas Ahmed,,0,0,0,caught,Abdullah Sheikh,T Bharaj,31116231116
+2,Norway,17,Junaid Sheikh,Anique Uddin,S Waqas Ahmed,,0,0,0,,,,31116231116
+2,Norway,17,Junaid Sheikh,Anique Uddin,S Waqas Ahmed,,0,0,0,,,,31116231116
+2,Norway,18,S Waqas Ahmed,OD Hald,Junaid Sheikh,,0,1,1,,,,31116231116
+2,Norway,18,Junaid Sheikh,OD Hald,S Waqas Ahmed,,0,1,1,,,,31116231116
+2,Norway,18,S Waqas Ahmed,OD Hald,Junaid Sheikh,,0,0,0,,,,31116231116
+2,Norway,18,S Waqas Ahmed,OD Hald,Junaid Sheikh,,0,0,0,,,,31116231116
+2,Norway,18,S Waqas Ahmed,OD Hald,Junaid Sheikh,,0,2,2,,,,31116231116
+2,Norway,18,S Waqas Ahmed,OD Hald,Junaid Sheikh,,0,1,1,,,,31116231116
+2,Norway,19,S Waqas Ahmed,Anique Uddin,Junaid Sheikh,,0,1,1,,,,31116231116
+2,Norway,19,Junaid Sheikh,Anique Uddin,S Waqas Ahmed,,0,6,6,,,,31116231116
+2,Norway,19,Junaid Sheikh,Anique Uddin,S Waqas Ahmed,,0,2,2,,,,31116231116
+2,Norway,19,Junaid Sheikh,Anique Uddin,S Waqas Ahmed,,0,0,0,caught,Junaid Sheikh,ND Laegsgaard,31116231116
+2,Norway,19,P Bhart,Anique Uddin,S Waqas Ahmed,,0,0,0,,,,31116231116
+2,Norway,19,P Bhart,Anique Uddin,S Waqas Ahmed,,0,1,1,,,,31116231116

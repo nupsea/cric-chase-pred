@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Sri Lanka,0,P Nissanka,PR Stirling,MDKJ Perera,,0,1,1,,,,31633231633
+1,Sri Lanka,0,MDKJ Perera,PR Stirling,P Nissanka,,0,0,0,caught,MDKJ Perera,GJ Delany,31633231633
+1,Sri Lanka,0,LD Chandimal,PR Stirling,P Nissanka,,0,1,1,,,,31633231633
+1,Sri Lanka,0,P Nissanka,PR Stirling,LD Chandimal,,0,1,1,,,,31633231633
+1,Sri Lanka,0,LD Chandimal,PR Stirling,P Nissanka,,0,0,0,,,,31633231633
+1,Sri Lanka,0,LD Chandimal,PR Stirling,P Nissanka,,0,1,1,,,,31633231633
+1,Sri Lanka,1,LD Chandimal,J Little,P Nissanka,,0,0,0,,,,31633231633
+1,Sri Lanka,1,LD Chandimal,J Little,P Nissanka,,0,4,4,,,,31633231633
+1,Sri Lanka,1,LD Chandimal,J Little,P Nissanka,,0,0,0,bowled,LD Chandimal,,31633231633
+1,Sri Lanka,1,WIA Fernando,J Little,P Nissanka,,0,0,0,bowled,WIA Fernando,,31633231633
+1,Sri Lanka,1,PWH de Silva,J Little,P Nissanka,,0,0,0,,,,31633231633
+1,Sri Lanka,1,PWH de Silva,J Little,P Nissanka,wides,1,1,0,,,,31633231633
+1,Sri Lanka,1,PWH de Silva,J Little,P Nissanka,,0,0,0,,,,31633231633
+1,Sri Lanka,2,P Nissanka,CA Young,PWH de Silva,,0,0,0,,,,31633231633
+1,Sri Lanka,2,P Nissanka,CA Young,PWH de Silva,,0,0,0,,,,31633231633
+1,Sri Lanka,2,P Nissanka,CA Young,PWH de Silva,,0,0,0,,,,31633231633
+1,Sri Lanka,2,P Nissanka,CA Young,PWH de Silva,,0,1,1,,,,31633231633
+1,Sri Lanka,2,PWH de Silva,CA Young,P Nissanka,,0,0,0,,,,31633231633
+1,Sri Lanka,2,PWH de Silva,CA Young,P Nissanka,,0,1,1,,,,31633231633
+1,Sri Lanka,3,PWH de Silva,J Little,P Nissanka,,0,0,0,,,,31633231633
+1,Sri Lanka,3,PWH de Silva,J Little,P Nissanka,,0,0,0,,,,31633231633
+1,Sri Lanka,3,PWH de Silva,J Little,P Nissanka,,0,1,1,,,,31633231633
+1,Sri Lanka,3,P Nissanka,J Little,PWH de Silva,legbyes,1,1,0,,,,31633231633
+1,Sri Lanka,3,PWH de Silva,J Little,P Nissanka,,0,4,4,,,,31633231633
+1,Sri Lanka,3,PWH de Silva,J Little,P Nissanka,,0,0,0,,,,31633231633
+1,Sri Lanka,4,P Nissanka,MR Adair,PWH de Silva,,0,4,4,,,,31633231633
+1,Sri Lanka,4,P Nissanka,MR Adair,PWH de Silva,,0,4,4,,,,31633231633
+1,Sri Lanka,4,P Nissanka,MR Adair,PWH de Silva,,0,0,0,,,,31633231633
+1,Sri Lanka,4,P Nissanka,MR Adair,PWH de Silva,,0,1,1,,,,31633231633
+1,Sri Lanka,4,PWH de Silva,MR Adair,P Nissanka,,0,4,4,,,,31633231633
+1,Sri Lanka,4,PWH de Silva,MR Adair,P Nissanka,,0,0,0,,,,31633231633
+1,Sri Lanka,5,P Nissanka,Simi Singh,PWH de Silva,,0,1,1,,,,31633231633
+1,Sri Lanka,5,PWH de Silva,Simi Singh,P Nissanka,,0,0,0,,,,31633231633
+1,Sri Lanka,5,PWH de Silva,Simi Singh,P Nissanka,,0,4,4,,,,31633231633
+1,Sri Lanka,5,PWH de Silva,Simi Singh,P Nissanka,,0,4,4,,,,31633231633
+1,Sri Lanka,5,PWH de Silva,Simi Singh,P Nissanka,,0,4,4,,,,31633231633
+1,Sri Lanka,5,PWH de Silva,Simi Singh,P Nissanka,,0,4,4,,,,31633231633
+1,Sri Lanka,6,P Nissanka,C Campher,PWH de Silva,,0,2,2,,,,31633231633
+1,Sri Lanka,6,P Nissanka,C Campher,PWH de Silva,,0,1,1,,,,31633231633
+1,Sri Lanka,6,PWH de Silva,C Campher,P Nissanka,,0,1,1,,,,31633231633
+1,Sri Lanka,6,P Nissanka,C Campher,PWH de Silva,,0,1,1,,,,31633231633
+1,Sri Lanka,6,PWH de Silva,C Campher,P Nissanka,,0,1,1,,,,31633231633
+1,Sri Lanka,6,P Nissanka,C Campher,PWH de Silva,,0,1,1,,,,31633231633
+1,Sri Lanka,7,P Nissanka,CA Young,PWH de Silva,,0,1,1,,,,31633231633
+1,Sri Lanka,7,PWH de Silva,CA Young,P Nissanka,,0,0,0,,,,31633231633
+1,Sri Lanka,7,PWH de Silva,CA Young,P Nissanka,,0,1,1,,,,31633231633
+1,Sri Lanka,7,P Nissanka,CA Young,PWH de Silva,,0,1,1,,,,31633231633
+1,Sri Lanka,7,PWH de Silva,CA Young,P Nissanka,,0,2,2,,,,31633231633
+1,Sri Lanka,7,PWH de Silva,CA Young,P Nissanka,,0,6,6,,,,31633231633
+1,Sri Lanka,8,P Nissanka,C Campher,PWH de Silva,legbyes,1,1,0,,,,31633231633
+1,Sri Lanka,8,PWH de Silva,C Campher,P Nissanka,,0,0,0,,,,31633231633
+1,Sri Lanka,8,PWH de Silva,C Campher,P Nissanka,,0,0,0,,,,31633231633
+1,Sri Lanka,8,PWH de Silva,C Campher,P Nissanka,,0,0,0,,,,31633231633
+1,Sri Lanka,8,PWH de Silva,C Campher,P Nissanka,,0,1,1,,,,31633231633
+1,Sri Lanka,8,P Nissanka,C Campher,PWH de Silva,,0,1,1,,,,31633231633
+1,Sri Lanka,9,P Nissanka,Simi Singh,PWH de Silva,,0,1,1,,,,31633231633
+1,Sri Lanka,9,PWH de Silva,Simi Singh,P Nissanka,,0,1,1,,,,31633231633
+1,Sri Lanka,9,P Nissanka,Simi Singh,PWH de Silva,,0,4,4,,,,31633231633
+1,Sri Lanka,9,P Nissanka,Simi Singh,PWH de Silva,,0,1,1,,,,31633231633
+1,Sri Lanka,9,PWH de Silva,Simi Singh,P Nissanka,,0,1,1,,,,31633231633
+1,Sri Lanka,9,P Nissanka,Simi Singh,PWH de Silva,,0,2,2,,,,31633231633
+1,Sri Lanka,10,PWH de Silva,MR Adair,P Nissanka,,0,0,0,,,,31633231633
+1,Sri Lanka,10,PWH de Silva,MR Adair,P Nissanka,,0,0,0,,,,31633231633
+1,Sri Lanka,10,PWH de Silva,MR Adair,P Nissanka,,0,0,0,,,,31633231633
+1,Sri Lanka,10,PWH de Silva,MR Adair,P Nissanka,,0,1,1,,,,31633231633
+1,Sri Lanka,10,P Nissanka,MR Adair,PWH de Silva,,0,1,1,,,,31633231633
+1,Sri Lanka,10,PWH de Silva,MR Adair,P Nissanka,,0,0,0,,,,31633231633
+1,Sri Lanka,11,P Nissanka,C Campher,PWH de Silva,,0,0,0,,,,31633231633
+1,Sri Lanka,11,P Nissanka,C Campher,PWH de Silva,,0,6,6,,,,31633231633
+1,Sri Lanka,11,P Nissanka,C Campher,PWH de Silva,,0,2,2,,,,31633231633
+1,Sri Lanka,11,P Nissanka,C Campher,PWH de Silva,,0,1,1,,,,31633231633
+1,Sri Lanka,11,PWH de Silva,C Campher,P Nissanka,,0,4,4,,,,31633231633
+1,Sri Lanka,11,PWH de Silva,C Campher,P Nissanka,,0,2,2,,,,31633231633
+1,Sri Lanka,12,P Nissanka,CA Young,PWH de Silva,,0,1,1,,,,31633231633
+1,Sri Lanka,12,PWH de Silva,CA Young,P Nissanka,,0,1,1,,,,31633231633
+1,Sri Lanka,12,P Nissanka,CA Young,PWH de Silva,,0,1,1,,,,31633231633
+1,Sri Lanka,12,PWH de Silva,CA Young,P Nissanka,,0,1,1,,,,31633231633
+1,Sri Lanka,12,P Nissanka,CA Young,PWH de Silva,legbyes,1,1,0,,,,31633231633
+1,Sri Lanka,12,PWH de Silva,CA Young,P Nissanka,,0,2,2,,,,31633231633
+1,Sri Lanka,13,P Nissanka,Simi Singh,PWH de Silva,,0,2,2,,,,31633231633
+1,Sri Lanka,13,P Nissanka,Simi Singh,PWH de Silva,,0,1,1,,,,31633231633
+1,Sri Lanka,13,PWH de Silva,Simi Singh,P Nissanka,,0,2,2,,,,31633231633
+1,Sri Lanka,13,PWH de Silva,Simi Singh,P Nissanka,,0,4,4,,,,31633231633
+1,Sri Lanka,13,PWH de Silva,Simi Singh,P Nissanka,,0,4,4,,,,31633231633
+1,Sri Lanka,13,PWH de Silva,Simi Singh,P Nissanka,,0,1,1,,,,31633231633
+1,Sri Lanka,14,PWH de Silva,C Campher,P Nissanka,,0,2,2,,,,31633231633
+1,Sri Lanka,14,PWH de Silva,C Campher,P Nissanka,,0,4,4,,,,31633231633
+1,Sri Lanka,14,PWH de Silva,C Campher,P Nissanka,,0,1,1,,,,31633231633
+1,Sri Lanka,14,P Nissanka,C Campher,PWH de Silva,,0,4,4,,,,31633231633
+1,Sri Lanka,14,P Nissanka,C Campher,PWH de Silva,,0,1,1,,,,31633231633
+1,Sri Lanka,14,PWH de Silva,C Campher,P Nissanka,,0,2,2,,,,31633231633
+1,Sri Lanka,15,P Nissanka,MR Adair,PWH de Silva,,0,1,1,,,,31633231633
+1,Sri Lanka,15,PWH de Silva,MR Adair,P Nissanka,,0,0,0,caught,PWH de Silva,CA Young,31633231633
+1,Sri Lanka,15,PBB Rajapaksa,MR Adair,P Nissanka,,0,1,1,,,,31633231633
+1,Sri Lanka,15,P Nissanka,MR Adair,PBB Rajapaksa,,0,4,4,,,,31633231633
+1,Sri Lanka,15,P Nissanka,MR Adair,PBB Rajapaksa,,0,0,0,,,,31633231633
+1,Sri Lanka,15,P Nissanka,MR Adair,PBB Rajapaksa,legbyes,1,1,0,,,,31633231633
+1,Sri Lanka,16,P Nissanka,J Little,PBB Rajapaksa,wides,1,1,0,,,,31633231633
+1,Sri Lanka,16,P Nissanka,J Little,PBB Rajapaksa,,0,4,4,,,,31633231633
+1,Sri Lanka,16,P Nissanka,J Little,PBB Rajapaksa,,0,1,1,,,,31633231633
+1,Sri Lanka,16,PBB Rajapaksa,J Little,P Nissanka,,0,0,0,,,,31633231633
+1,Sri Lanka,16,PBB Rajapaksa,J Little,P Nissanka,,0,0,0,caught,PBB Rajapaksa,HT Tector,31633231633
+1,Sri Lanka,16,P Nissanka,J Little,MD Shanaka,legbyes,1,1,0,,,,31633231633
+1,Sri Lanka,16,MD Shanaka,J Little,P Nissanka,,0,1,1,,,,31633231633
+1,Sri Lanka,17,MD Shanaka,CA Young,P Nissanka,,0,0,0,,,,31633231633
+1,Sri Lanka,17,MD Shanaka,CA Young,P Nissanka,,0,1,1,,,,31633231633
+1,Sri Lanka,17,P Nissanka,CA Young,MD Shanaka,,0,1,1,,,,31633231633
+1,Sri Lanka,17,MD Shanaka,CA Young,P Nissanka,,0,1,1,,,,31633231633
+1,Sri Lanka,17,P Nissanka,CA Young,MD Shanaka,,0,1,1,,,,31633231633
+1,Sri Lanka,17,MD Shanaka,CA Young,P Nissanka,,0,1,1,,,,31633231633
+1,Sri Lanka,18,MD Shanaka,J Little,P Nissanka,,0,4,4,,,,31633231633
+1,Sri Lanka,18,MD Shanaka,J Little,P Nissanka,,0,1,1,,,,31633231633
+1,Sri Lanka,18,P Nissanka,J Little,MD Shanaka,byes,1,1,0,,,,31633231633
+1,Sri Lanka,18,MD Shanaka,J Little,P Nissanka,,0,1,1,,,,31633231633
+1,Sri Lanka,18,P Nissanka,J Little,MD Shanaka,,0,0,0,caught,P Nissanka,NA Rock,31633231633
+1,Sri Lanka,18,C Karunaratne,J Little,MD Shanaka,,0,0,0,,,,31633231633
+1,Sri Lanka,19,MD Shanaka,MR Adair,C Karunaratne,,0,1,1,,,,31633231633
+1,Sri Lanka,19,C Karunaratne,MR Adair,MD Shanaka,,0,2,2,,,,31633231633
+1,Sri Lanka,19,C Karunaratne,MR Adair,MD Shanaka,,0,0,0,bowled,C Karunaratne,,31633231633
+1,Sri Lanka,19,PVD Chameera,MR Adair,MD Shanaka,,0,1,1,,,,31633231633
+1,Sri Lanka,19,MD Shanaka,MR Adair,PVD Chameera,,0,6,6,,,,31633231633
+1,Sri Lanka,19,MD Shanaka,MR Adair,PVD Chameera,,0,4,4,,,,31633231633

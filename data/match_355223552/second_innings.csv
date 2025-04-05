@@ -1,0 +1,126 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,West Indies,0,Kycia A Knight,S Ismail,SR Taylor,,0,0,0,,,,355223552
+2,West Indies,0,Kycia A Knight,S Ismail,SR Taylor,,0,0,0,,,,355223552
+2,West Indies,0,Kycia A Knight,S Ismail,SR Taylor,wides,1,1,0,,,,355223552
+2,West Indies,0,Kycia A Knight,S Ismail,SR Taylor,,0,0,0,,,,355223552
+2,West Indies,0,Kycia A Knight,S Ismail,SR Taylor,,0,0,0,,,,355223552
+2,West Indies,0,Kycia A Knight,S Ismail,SR Taylor,,0,0,0,,,,355223552
+2,West Indies,0,Kycia A Knight,S Ismail,SR Taylor,,0,1,1,,,,355223552
+2,West Indies,1,Kycia A Knight,M Daniels,SR Taylor,,0,0,0,,,,355223552
+2,West Indies,1,Kycia A Knight,M Daniels,SR Taylor,wides,1,1,0,,,,355223552
+2,West Indies,1,Kycia A Knight,M Daniels,SR Taylor,,0,0,0,,,,355223552
+2,West Indies,1,Kycia A Knight,M Daniels,SR Taylor,,0,4,4,,,,355223552
+2,West Indies,1,Kycia A Knight,M Daniels,SR Taylor,,0,1,1,,,,355223552
+2,West Indies,1,SR Taylor,M Daniels,Kycia A Knight,,0,0,0,,,,355223552
+2,West Indies,1,SR Taylor,M Daniels,Kycia A Knight,,0,4,4,,,,355223552
+2,West Indies,2,Kycia A Knight,S Ismail,SR Taylor,,0,0,0,,,,355223552
+2,West Indies,2,Kycia A Knight,S Ismail,SR Taylor,,0,1,1,,,,355223552
+2,West Indies,2,SR Taylor,S Ismail,Kycia A Knight,,0,0,0,caught,SR Taylor,M Kapp,355223552
+2,West Indies,2,HK Matthews,S Ismail,Kycia A Knight,,0,0,0,caught,HK Matthews,T Chetty,355223552
+2,West Indies,2,Kyshona A Knight,S Ismail,Kycia A Knight,,0,0,0,,,,355223552
+2,West Indies,2,Kyshona A Knight,S Ismail,Kycia A Knight,,0,1,1,,,,355223552
+2,West Indies,3,Kyshona A Knight,O Kirsten,Kycia A Knight,,0,1,1,,,,355223552
+2,West Indies,3,Kycia A Knight,O Kirsten,Kyshona A Knight,,0,1,1,,,,355223552
+2,West Indies,3,Kyshona A Knight,O Kirsten,Kycia A Knight,,0,0,0,,,,355223552
+2,West Indies,3,Kyshona A Knight,O Kirsten,Kycia A Knight,,0,0,0,,,,355223552
+2,West Indies,3,Kyshona A Knight,O Kirsten,Kycia A Knight,,0,0,0,caught,Kyshona A Knight,S Ismail,355223552
+2,West Indies,3,DJS Dottin,O Kirsten,Kycia A Knight,,0,0,0,,,,355223552
+2,West Indies,4,Kycia A Knight,S Ismail,DJS Dottin,,0,0,0,,,,355223552
+2,West Indies,4,Kycia A Knight,S Ismail,DJS Dottin,,0,0,0,,,,355223552
+2,West Indies,4,Kycia A Knight,S Ismail,DJS Dottin,,0,0,0,caught,Kycia A Knight,T Chetty,355223552
+2,West Indies,4,SACA King,S Ismail,DJS Dottin,,0,0,0,,,,355223552
+2,West Indies,4,SACA King,S Ismail,DJS Dottin,,0,0,0,,,,355223552
+2,West Indies,4,SACA King,S Ismail,DJS Dottin,,0,0,0,,,,355223552
+2,West Indies,5,DJS Dottin,O Kirsten,SACA King,,0,0,0,,,,355223552
+2,West Indies,5,DJS Dottin,O Kirsten,SACA King,,0,6,6,,,,355223552
+2,West Indies,5,DJS Dottin,O Kirsten,SACA King,wides,1,1,0,,,,355223552
+2,West Indies,5,DJS Dottin,O Kirsten,SACA King,,0,0,0,,,,355223552
+2,West Indies,5,DJS Dottin,O Kirsten,SACA King,,0,2,2,,,,355223552
+2,West Indies,5,DJS Dottin,O Kirsten,SACA King,,0,6,6,,,,355223552
+2,West Indies,5,DJS Dottin,O Kirsten,SACA King,,0,0,0,,,,355223552
+2,West Indies,6,SACA King,S Luus,DJS Dottin,,0,0,0,,,,355223552
+2,West Indies,6,SACA King,S Luus,DJS Dottin,,0,0,0,,,,355223552
+2,West Indies,6,SACA King,S Luus,DJS Dottin,wides,1,1,0,,,,355223552
+2,West Indies,6,SACA King,S Luus,DJS Dottin,,0,1,1,,,,355223552
+2,West Indies,6,DJS Dottin,S Luus,SACA King,,0,0,0,,,,355223552
+2,West Indies,6,DJS Dottin,S Luus,SACA King,,0,1,1,,,,355223552
+2,West Indies,6,SACA King,S Luus,DJS Dottin,,0,0,0,,,,355223552
+2,West Indies,7,DJS Dottin,M Daniels,SACA King,,0,0,0,,,,355223552
+2,West Indies,7,DJS Dottin,M Daniels,SACA King,,0,0,0,,,,355223552
+2,West Indies,7,DJS Dottin,M Daniels,SACA King,,0,1,1,,,,355223552
+2,West Indies,7,SACA King,M Daniels,DJS Dottin,,0,0,0,,,,355223552
+2,West Indies,7,SACA King,M Daniels,DJS Dottin,,0,0,0,,,,355223552
+2,West Indies,7,SACA King,M Daniels,DJS Dottin,,0,4,4,,,,355223552
+2,West Indies,8,DJS Dottin,S Luus,SACA King,,0,1,1,,,,355223552
+2,West Indies,8,SACA King,S Luus,DJS Dottin,,0,1,1,,,,355223552
+2,West Indies,8,DJS Dottin,S Luus,SACA King,,0,0,0,,,,355223552
+2,West Indies,8,DJS Dottin,S Luus,SACA King,,0,1,1,,,,355223552
+2,West Indies,8,SACA King,S Luus,DJS Dottin,,0,1,1,,,,355223552
+2,West Indies,8,DJS Dottin,S Luus,SACA King,,0,0,0,,,,355223552
+2,West Indies,9,SACA King,MM Letsoalo,DJS Dottin,,0,1,1,,,,355223552
+2,West Indies,9,DJS Dottin,MM Letsoalo,SACA King,,0,6,6,,,,355223552
+2,West Indies,9,DJS Dottin,MM Letsoalo,SACA King,,0,0,0,,,,355223552
+2,West Indies,9,DJS Dottin,MM Letsoalo,SACA King,,0,1,1,,,,355223552
+2,West Indies,9,SACA King,MM Letsoalo,DJS Dottin,,0,1,1,,,,355223552
+2,West Indies,9,DJS Dottin,MM Letsoalo,SACA King,,0,1,1,,,,355223552
+2,West Indies,10,DJS Dottin,S Luus,SACA King,,0,0,0,,,,355223552
+2,West Indies,10,DJS Dottin,S Luus,SACA King,,0,1,1,,,,355223552
+2,West Indies,10,SACA King,S Luus,DJS Dottin,,0,1,1,,,,355223552
+2,West Indies,10,DJS Dottin,S Luus,SACA King,,0,1,1,,,,355223552
+2,West Indies,10,SACA King,S Luus,DJS Dottin,,0,0,0,,,,355223552
+2,West Indies,10,SACA King,S Luus,DJS Dottin,,0,0,0,,,,355223552
+2,West Indies,11,DJS Dottin,D van Niekerk,SACA King,,0,0,0,,,,355223552
+2,West Indies,11,DJS Dottin,D van Niekerk,SACA King,,0,1,1,,,,355223552
+2,West Indies,11,SACA King,D van Niekerk,DJS Dottin,,0,2,2,,,,355223552
+2,West Indies,11,SACA King,D van Niekerk,DJS Dottin,,0,4,4,,,,355223552
+2,West Indies,11,SACA King,D van Niekerk,DJS Dottin,,0,0,0,,,,355223552
+2,West Indies,11,SACA King,D van Niekerk,DJS Dottin,,0,1,1,,,,355223552
+2,West Indies,12,SACA King,S Luus,DJS Dottin,,0,0,0,,,,355223552
+2,West Indies,12,SACA King,S Luus,DJS Dottin,,0,0,0,,,,355223552
+2,West Indies,12,SACA King,S Luus,DJS Dottin,,0,2,2,,,,355223552
+2,West Indies,12,SACA King,S Luus,DJS Dottin,,0,1,1,,,,355223552
+2,West Indies,12,DJS Dottin,S Luus,SACA King,,0,6,6,,,,355223552
+2,West Indies,12,DJS Dottin,S Luus,SACA King,,0,4,4,,,,355223552
+2,West Indies,13,SACA King,D van Niekerk,DJS Dottin,,0,0,0,,,,355223552
+2,West Indies,13,SACA King,D van Niekerk,DJS Dottin,,0,0,0,,,,355223552
+2,West Indies,13,SACA King,D van Niekerk,DJS Dottin,,0,0,0,,,,355223552
+2,West Indies,13,SACA King,D van Niekerk,DJS Dottin,,0,0,0,,,,355223552
+2,West Indies,13,SACA King,D van Niekerk,DJS Dottin,,0,1,1,,,,355223552
+2,West Indies,13,DJS Dottin,D van Niekerk,SACA King,,0,0,0,,,,355223552
+2,West Indies,14,SACA King,O Kirsten,DJS Dottin,,0,4,4,,,,355223552
+2,West Indies,14,SACA King,O Kirsten,DJS Dottin,wides,1,1,0,,,,355223552
+2,West Indies,14,SACA King,O Kirsten,DJS Dottin,,0,4,4,,,,355223552
+2,West Indies,14,SACA King,O Kirsten,DJS Dottin,,0,0,0,,,,355223552
+2,West Indies,14,SACA King,O Kirsten,DJS Dottin,,0,0,0,,,,355223552
+2,West Indies,14,SACA King,O Kirsten,DJS Dottin,,0,0,0,,,,355223552
+2,West Indies,14,SACA King,O Kirsten,DJS Dottin,,0,0,0,,,,355223552
+2,West Indies,15,DJS Dottin,D van Niekerk,SACA King,,0,1,1,,,,355223552
+2,West Indies,15,SACA King,D van Niekerk,DJS Dottin,,0,0,0,bowled,SACA King,,355223552
+2,West Indies,15,SA Campbelle,D van Niekerk,DJS Dottin,,0,0,0,,,,355223552
+2,West Indies,15,SA Campbelle,D van Niekerk,DJS Dottin,,0,1,1,,,,355223552
+2,West Indies,15,DJS Dottin,D van Niekerk,SA Campbelle,,0,0,0,,,,355223552
+2,West Indies,15,DJS Dottin,D van Niekerk,SA Campbelle,,0,0,0,caught,DJS Dottin,M Daniels,355223552
+2,West Indies,16,SL Quintyne,M Daniels,SA Campbelle,,0,0,0,,,,355223552
+2,West Indies,16,SL Quintyne,M Daniels,SA Campbelle,,0,0,0,,,,355223552
+2,West Indies,16,SL Quintyne,M Daniels,SA Campbelle,,0,0,0,,,,355223552
+2,West Indies,16,SL Quintyne,M Daniels,SA Campbelle,,0,1,1,,,,355223552
+2,West Indies,16,SA Campbelle,M Daniels,SL Quintyne,,0,0,0,,,,355223552
+2,West Indies,16,SA Campbelle,M Daniels,SL Quintyne,,0,1,1,,,,355223552
+2,West Indies,17,SA Campbelle,D van Niekerk,SL Quintyne,,0,0,0,,,,355223552
+2,West Indies,17,SA Campbelle,D van Niekerk,SL Quintyne,,0,4,4,,,,355223552
+2,West Indies,17,SA Campbelle,D van Niekerk,SL Quintyne,,0,0,0,,,,355223552
+2,West Indies,17,SA Campbelle,D van Niekerk,SL Quintyne,,0,2,2,,,,355223552
+2,West Indies,17,SA Campbelle,D van Niekerk,SL Quintyne,,0,1,1,,,,355223552
+2,West Indies,17,SL Quintyne,D van Niekerk,SA Campbelle,,0,1,1,,,,355223552
+2,West Indies,18,SL Quintyne,M Daniels,SA Campbelle,,0,0,0,,,,355223552
+2,West Indies,18,SL Quintyne,M Daniels,SA Campbelle,,0,1,1,,,,355223552
+2,West Indies,18,SA Campbelle,M Daniels,SL Quintyne,,0,4,4,,,,355223552
+2,West Indies,18,SA Campbelle,M Daniels,SL Quintyne,,0,0,0,,,,355223552
+2,West Indies,18,SA Campbelle,M Daniels,SL Quintyne,,0,1,1,,,,355223552
+2,West Indies,18,SL Quintyne,M Daniels,SA Campbelle,,0,1,1,,,,355223552
+2,West Indies,19,SL Quintyne,S Ismail,SA Campbelle,,0,1,1,,,,355223552
+2,West Indies,19,SA Campbelle,S Ismail,SL Quintyne,,0,0,0,,,,355223552
+2,West Indies,19,SA Campbelle,S Ismail,SL Quintyne,,0,1,1,,,,355223552
+2,West Indies,19,SL Quintyne,S Ismail,SA Campbelle,,0,4,4,,,,355223552
+2,West Indies,19,SL Quintyne,S Ismail,SA Campbelle,,0,1,1,,,,355223552
+2,West Indies,19,SA Campbelle,S Ismail,SL Quintyne,,0,1,1,,,,355223552

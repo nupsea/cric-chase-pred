@@ -1,0 +1,126 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Cayman Islands,0,C Hauptfleisch,Junaid Siddiqui,D Cato,,0,0,0,,,,31232231232
+2,Cayman Islands,0,C Hauptfleisch,Junaid Siddiqui,D Cato,,0,1,1,,,,31232231232
+2,Cayman Islands,0,D Cato,Junaid Siddiqui,C Hauptfleisch,,0,0,0,,,,31232231232
+2,Cayman Islands,0,D Cato,Junaid Siddiqui,C Hauptfleisch,,0,2,2,,,,31232231232
+2,Cayman Islands,0,D Cato,Junaid Siddiqui,C Hauptfleisch,,0,0,0,,,,31232231232
+2,Cayman Islands,0,D Cato,Junaid Siddiqui,C Hauptfleisch,,0,1,1,,,,31232231232
+2,Cayman Islands,1,D Cato,GDR Eranga,C Hauptfleisch,,0,1,1,,,,31232231232
+2,Cayman Islands,1,C Hauptfleisch,GDR Eranga,D Cato,,0,0,0,caught,C Hauptfleisch,Hamza Tariq,31232231232
+2,Cayman Islands,1,YSD Seneveratne,GDR Eranga,D Cato,,0,0,0,,,,31232231232
+2,Cayman Islands,1,YSD Seneveratne,GDR Eranga,D Cato,,0,0,0,,,,31232231232
+2,Cayman Islands,1,YSD Seneveratne,GDR Eranga,D Cato,,0,0,0,bowled,YSD Seneveratne,,31232231232
+2,Cayman Islands,1,OR Willis,GDR Eranga,D Cato,,0,0,0,,,,31232231232
+2,Cayman Islands,2,D Cato,Junaid Siddiqui,OR Willis,,0,1,1,,,,31232231232
+2,Cayman Islands,2,OR Willis,Junaid Siddiqui,D Cato,,0,1,1,,,,31232231232
+2,Cayman Islands,2,D Cato,Junaid Siddiqui,OR Willis,,0,0,0,,,,31232231232
+2,Cayman Islands,2,D Cato,Junaid Siddiqui,OR Willis,,0,0,0,,,,31232231232
+2,Cayman Islands,2,D Cato,Junaid Siddiqui,OR Willis,,0,0,0,,,,31232231232
+2,Cayman Islands,2,D Cato,Junaid Siddiqui,OR Willis,,0,0,0,,,,31232231232
+2,Cayman Islands,3,OR Willis,GDR Eranga,D Cato,legbyes,1,1,0,,,,31232231232
+2,Cayman Islands,3,D Cato,GDR Eranga,OR Willis,,0,0,0,,,,31232231232
+2,Cayman Islands,3,D Cato,GDR Eranga,OR Willis,,0,1,1,,,,31232231232
+2,Cayman Islands,3,OR Willis,GDR Eranga,D Cato,,0,0,0,bowled,OR Willis,,31232231232
+2,Cayman Islands,3,GM Strydom,GDR Eranga,D Cato,,0,0,0,,,,31232231232
+2,Cayman Islands,3,GM Strydom,GDR Eranga,D Cato,wides,1,1,0,,,,31232231232
+2,Cayman Islands,3,GM Strydom,GDR Eranga,D Cato,,0,0,0,,,,31232231232
+2,Cayman Islands,4,D Cato,Junaid Siddiqui,GM Strydom,legbyes,2,2,0,,,,31232231232
+2,Cayman Islands,4,D Cato,Junaid Siddiqui,GM Strydom,,0,0,0,,,,31232231232
+2,Cayman Islands,4,D Cato,Junaid Siddiqui,GM Strydom,,0,0,0,run out,D Cato,,31232231232
+2,Cayman Islands,4,GM Strydom,Junaid Siddiqui,P Manning,,0,0,0,,,,31232231232
+2,Cayman Islands,4,GM Strydom,Junaid Siddiqui,P Manning,,0,1,1,,,,31232231232
+2,Cayman Islands,4,P Manning,Junaid Siddiqui,GM Strydom,,0,0,0,lbw,P Manning,,31232231232
+2,Cayman Islands,5,GM Strydom,GDR Eranga,AF Ifill,,0,0,0,,,,31232231232
+2,Cayman Islands,5,GM Strydom,GDR Eranga,AF Ifill,,0,1,1,,,,31232231232
+2,Cayman Islands,5,AF Ifill,GDR Eranga,GM Strydom,,0,1,1,,,,31232231232
+2,Cayman Islands,5,GM Strydom,GDR Eranga,AF Ifill,,0,4,4,,,,31232231232
+2,Cayman Islands,5,GM Strydom,GDR Eranga,AF Ifill,,0,4,4,,,,31232231232
+2,Cayman Islands,5,GM Strydom,GDR Eranga,AF Ifill,,0,1,1,,,,31232231232
+2,Cayman Islands,6,GM Strydom,Junaid Siddiqui,AF Ifill,,0,1,1,,,,31232231232
+2,Cayman Islands,6,AF Ifill,Junaid Siddiqui,GM Strydom,,0,0,0,,,,31232231232
+2,Cayman Islands,6,AF Ifill,Junaid Siddiqui,GM Strydom,,0,0,0,,,,31232231232
+2,Cayman Islands,6,AF Ifill,Junaid Siddiqui,GM Strydom,,0,0,0,,,,31232231232
+2,Cayman Islands,6,AF Ifill,Junaid Siddiqui,GM Strydom,,0,1,1,,,,31232231232
+2,Cayman Islands,6,GM Strydom,Junaid Siddiqui,AF Ifill,,0,1,1,,,,31232231232
+2,Cayman Islands,7,GM Strydom,D Heyliger,AF Ifill,,0,1,1,,,,31232231232
+2,Cayman Islands,7,AF Ifill,D Heyliger,GM Strydom,,0,0,0,,,,31232231232
+2,Cayman Islands,7,AF Ifill,D Heyliger,GM Strydom,,0,0,0,,,,31232231232
+2,Cayman Islands,7,AF Ifill,D Heyliger,GM Strydom,,0,1,1,,,,31232231232
+2,Cayman Islands,7,GM Strydom,D Heyliger,AF Ifill,,0,4,4,,,,31232231232
+2,Cayman Islands,7,GM Strydom,D Heyliger,AF Ifill,,0,0,0,,,,31232231232
+2,Cayman Islands,8,AF Ifill,Saad Bin Zafar,GM Strydom,,0,1,1,,,,31232231232
+2,Cayman Islands,8,GM Strydom,Saad Bin Zafar,AF Ifill,,0,0,0,,,,31232231232
+2,Cayman Islands,8,GM Strydom,Saad Bin Zafar,AF Ifill,,0,0,0,,,,31232231232
+2,Cayman Islands,8,GM Strydom,Saad Bin Zafar,AF Ifill,,0,0,0,,,,31232231232
+2,Cayman Islands,8,GM Strydom,Saad Bin Zafar,AF Ifill,,0,1,1,,,,31232231232
+2,Cayman Islands,8,AF Ifill,Saad Bin Zafar,GM Strydom,byes,2,2,0,,,,31232231232
+2,Cayman Islands,9,GM Strydom,D Heyliger,AF Ifill,,0,1,1,,,,31232231232
+2,Cayman Islands,9,AF Ifill,D Heyliger,GM Strydom,,0,4,4,,,,31232231232
+2,Cayman Islands,9,AF Ifill,D Heyliger,GM Strydom,,0,1,1,,,,31232231232
+2,Cayman Islands,9,GM Strydom,D Heyliger,AF Ifill,,0,1,1,,,,31232231232
+2,Cayman Islands,9,AF Ifill,D Heyliger,GM Strydom,,0,0,0,caught,AF Ifill,Hamza Tariq,31232231232
+2,Cayman Islands,9,T Taylor,D Heyliger,GM Strydom,,0,0,0,,,,31232231232
+2,Cayman Islands,10,GM Strydom,Saad Bin Zafar,T Taylor,,0,2,2,,,,31232231232
+2,Cayman Islands,10,GM Strydom,Saad Bin Zafar,T Taylor,,0,4,4,,,,31232231232
+2,Cayman Islands,10,GM Strydom,Saad Bin Zafar,T Taylor,,0,1,1,,,,31232231232
+2,Cayman Islands,10,T Taylor,Saad Bin Zafar,GM Strydom,,0,2,2,,,,31232231232
+2,Cayman Islands,10,T Taylor,Saad Bin Zafar,GM Strydom,,0,0,0,,,,31232231232
+2,Cayman Islands,10,T Taylor,Saad Bin Zafar,GM Strydom,,0,2,2,,,,31232231232
+2,Cayman Islands,11,GM Strydom,N Dutta,T Taylor,,0,0,0,,,,31232231232
+2,Cayman Islands,11,GM Strydom,N Dutta,T Taylor,,0,1,1,,,,31232231232
+2,Cayman Islands,11,T Taylor,N Dutta,GM Strydom,,0,0,0,,,,31232231232
+2,Cayman Islands,11,T Taylor,N Dutta,GM Strydom,,0,0,0,,,,31232231232
+2,Cayman Islands,11,T Taylor,N Dutta,GM Strydom,wides,1,1,0,,,,31232231232
+2,Cayman Islands,11,T Taylor,N Dutta,GM Strydom,,0,0,0,,,,31232231232
+2,Cayman Islands,11,T Taylor,N Dutta,GM Strydom,,0,6,6,,,,31232231232
+2,Cayman Islands,12,GM Strydom,Saad Bin Zafar,T Taylor,,0,0,0,,,,31232231232
+2,Cayman Islands,12,GM Strydom,Saad Bin Zafar,T Taylor,,0,0,0,,,,31232231232
+2,Cayman Islands,12,GM Strydom,Saad Bin Zafar,T Taylor,,0,6,6,,,,31232231232
+2,Cayman Islands,12,GM Strydom,Saad Bin Zafar,T Taylor,,0,4,4,,,,31232231232
+2,Cayman Islands,12,GM Strydom,Saad Bin Zafar,T Taylor,,0,2,2,,,,31232231232
+2,Cayman Islands,12,GM Strydom,Saad Bin Zafar,T Taylor,,0,1,1,,,,31232231232
+2,Cayman Islands,13,GM Strydom,N Dutta,T Taylor,,0,6,6,,,,31232231232
+2,Cayman Islands,13,GM Strydom,N Dutta,T Taylor,,0,1,1,,,,31232231232
+2,Cayman Islands,13,GM Strydom,N Dutta,T Taylor,,0,0,0,caught,GM Strydom,NS Dhaliwal,31232231232
+2,Cayman Islands,13,C Wright,N Dutta,T Taylor,,0,2,2,,,,31232231232
+2,Cayman Islands,13,C Wright,N Dutta,T Taylor,,0,0,0,,,,31232231232
+2,Cayman Islands,13,C Wright,N Dutta,T Taylor,,0,0,0,,,,31232231232
+2,Cayman Islands,14,T Taylor,Saad Bin Zafar,C Wright,,0,0,0,,,,31232231232
+2,Cayman Islands,14,T Taylor,Saad Bin Zafar,C Wright,,0,0,0,,,,31232231232
+2,Cayman Islands,14,T Taylor,Saad Bin Zafar,C Wright,,0,0,0,,,,31232231232
+2,Cayman Islands,14,T Taylor,Saad Bin Zafar,C Wright,,0,1,1,,,,31232231232
+2,Cayman Islands,14,C Wright,Saad Bin Zafar,T Taylor,,0,0,0,,,,31232231232
+2,Cayman Islands,14,C Wright,Saad Bin Zafar,T Taylor,,0,1,1,,,,31232231232
+2,Cayman Islands,15,C Wright,N Dutta,T Taylor,,0,0,0,,,,31232231232
+2,Cayman Islands,15,C Wright,N Dutta,T Taylor,,0,1,1,,,,31232231232
+2,Cayman Islands,15,T Taylor,N Dutta,C Wright,,0,6,6,,,,31232231232
+2,Cayman Islands,15,T Taylor,N Dutta,C Wright,,0,0,0,,,,31232231232
+2,Cayman Islands,15,T Taylor,N Dutta,C Wright,,0,1,1,,,,31232231232
+2,Cayman Islands,15,C Wright,N Dutta,T Taylor,noballs,1,5,4,,,,31232231232
+2,Cayman Islands,15,C Wright,N Dutta,T Taylor,,0,0,0,,,,31232231232
+2,Cayman Islands,16,T Taylor,D Heyliger,C Wright,,0,0,0,,,,31232231232
+2,Cayman Islands,16,T Taylor,D Heyliger,C Wright,,0,0,0,,,,31232231232
+2,Cayman Islands,16,T Taylor,D Heyliger,C Wright,,0,0,0,,,,31232231232
+2,Cayman Islands,16,C Wright,D Heyliger,T Taylor,,0,1,1,,,,31232231232
+2,Cayman Islands,16,T Taylor,D Heyliger,C Wright,,0,0,0,,,,31232231232
+2,Cayman Islands,16,C Wright,D Heyliger,T Taylor,,0,2,2,,,,31232231232
+2,Cayman Islands,17,C Wright,GDR Eranga,T Taylor,,0,1,1,,,,31232231232
+2,Cayman Islands,17,T Taylor,GDR Eranga,C Wright,,0,0,0,,,,31232231232
+2,Cayman Islands,17,T Taylor,GDR Eranga,C Wright,,0,1,1,,,,31232231232
+2,Cayman Islands,17,C Wright,GDR Eranga,T Taylor,,0,1,1,,,,31232231232
+2,Cayman Islands,17,T Taylor,GDR Eranga,C Wright,,0,0,0,,,,31232231232
+2,Cayman Islands,17,T Taylor,GDR Eranga,C Wright,noballs,1,1,0,,,,31232231232
+2,Cayman Islands,17,T Taylor,GDR Eranga,C Wright,wides,1,1,0,,,,31232231232
+2,Cayman Islands,17,T Taylor,GDR Eranga,C Wright,,0,0,0,,,,31232231232
+2,Cayman Islands,18,C Wright,D Heyliger,T Taylor,,0,1,1,,,,31232231232
+2,Cayman Islands,18,T Taylor,D Heyliger,C Wright,legbyes,1,1,0,,,,31232231232
+2,Cayman Islands,18,C Wright,D Heyliger,T Taylor,,0,1,1,,,,31232231232
+2,Cayman Islands,18,T Taylor,D Heyliger,C Wright,,0,0,0,,,,31232231232
+2,Cayman Islands,18,T Taylor,D Heyliger,C Wright,,0,0,0,,,,31232231232
+2,Cayman Islands,18,T Taylor,D Heyliger,C Wright,,0,0,0,,,,31232231232
+2,Cayman Islands,19,C Wright,NS Dhaliwal,T Taylor,,0,1,1,,,,31232231232
+2,Cayman Islands,19,T Taylor,NS Dhaliwal,C Wright,,0,0,0,,,,31232231232
+2,Cayman Islands,19,T Taylor,NS Dhaliwal,C Wright,,0,0,0,,,,31232231232
+2,Cayman Islands,19,T Taylor,NS Dhaliwal,C Wright,,0,0,0,,,,31232231232
+2,Cayman Islands,19,T Taylor,NS Dhaliwal,C Wright,,0,0,0,,,,31232231232
+2,Cayman Islands,19,T Taylor,NS Dhaliwal,C Wright,,0,0,0,,,,31232231232

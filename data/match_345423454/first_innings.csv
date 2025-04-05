@@ -1,0 +1,121 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,England,0,CM Edwards,M Kapp,L Winfield,,0,0,0,,,,345423454
+1,England,0,CM Edwards,M Kapp,L Winfield,,0,0,0,,,,345423454
+1,England,0,CM Edwards,M Kapp,L Winfield,,0,0,0,,,,345423454
+1,England,0,CM Edwards,M Kapp,L Winfield,,0,1,1,,,,345423454
+1,England,0,L Winfield,M Kapp,CM Edwards,,0,0,0,,,,345423454
+1,England,0,L Winfield,M Kapp,CM Edwards,,0,0,0,,,,345423454
+1,England,1,CM Edwards,S Ismail,L Winfield,,0,0,0,,,,345423454
+1,England,1,CM Edwards,S Ismail,L Winfield,,0,0,0,,,,345423454
+1,England,1,CM Edwards,S Ismail,L Winfield,,0,1,1,,,,345423454
+1,England,1,L Winfield,S Ismail,CM Edwards,,0,0,0,,,,345423454
+1,England,1,L Winfield,S Ismail,CM Edwards,,0,0,0,,,,345423454
+1,England,1,L Winfield,S Ismail,CM Edwards,,0,4,4,,,,345423454
+1,England,2,CM Edwards,M Kapp,L Winfield,,0,4,4,,,,345423454
+1,England,2,CM Edwards,M Kapp,L Winfield,,0,0,0,,,,345423454
+1,England,2,CM Edwards,M Kapp,L Winfield,,0,4,4,,,,345423454
+1,England,2,CM Edwards,M Kapp,L Winfield,,0,1,1,,,,345423454
+1,England,2,L Winfield,M Kapp,CM Edwards,,0,0,0,,,,345423454
+1,England,2,L Winfield,M Kapp,CM Edwards,,0,1,1,,,,345423454
+1,England,3,L Winfield,CL Tryon,CM Edwards,,0,0,0,,,,345423454
+1,England,3,L Winfield,CL Tryon,CM Edwards,,0,1,1,,,,345423454
+1,England,3,CM Edwards,CL Tryon,L Winfield,,0,0,0,,,,345423454
+1,England,3,CM Edwards,CL Tryon,L Winfield,legbyes,1,1,0,,,,345423454
+1,England,3,L Winfield,CL Tryon,CM Edwards,,0,0,0,,,,345423454
+1,England,3,L Winfield,CL Tryon,CM Edwards,,0,4,4,,,,345423454
+1,England,4,CM Edwards,M Daniels,L Winfield,,0,0,0,,,,345423454
+1,England,4,CM Edwards,M Daniels,L Winfield,,0,4,4,,,,345423454
+1,England,4,CM Edwards,M Daniels,L Winfield,,0,1,1,,,,345423454
+1,England,4,L Winfield,M Daniels,CM Edwards,,0,0,0,,,,345423454
+1,England,4,L Winfield,M Daniels,CM Edwards,,0,0,0,,,,345423454
+1,England,4,L Winfield,M Daniels,CM Edwards,,0,4,4,,,,345423454
+1,England,5,CM Edwards,S Ismail,L Winfield,,0,0,0,,,,345423454
+1,England,5,CM Edwards,S Ismail,L Winfield,,0,4,4,,,,345423454
+1,England,5,CM Edwards,S Ismail,L Winfield,,0,1,1,,,,345423454
+1,England,5,L Winfield,S Ismail,CM Edwards,,0,4,4,,,,345423454
+1,England,5,L Winfield,S Ismail,CM Edwards,,0,0,0,,,,345423454
+1,England,5,L Winfield,S Ismail,CM Edwards,,0,4,4,,,,345423454
+1,England,6,CM Edwards,D van Niekerk,L Winfield,,0,0,0,,,,345423454
+1,England,6,CM Edwards,D van Niekerk,L Winfield,,0,0,0,,,,345423454
+1,England,6,CM Edwards,D van Niekerk,L Winfield,,0,1,1,,,,345423454
+1,England,6,L Winfield,D van Niekerk,CM Edwards,,0,0,0,,,,345423454
+1,England,6,L Winfield,D van Niekerk,CM Edwards,,0,0,0,,,,345423454
+1,England,6,L Winfield,D van Niekerk,CM Edwards,,0,0,0,stumped,L Winfield,T Chetty,345423454
+1,England,7,CM Edwards,S Loubser,SJ Taylor,,0,4,4,,,,345423454
+1,England,7,CM Edwards,S Loubser,SJ Taylor,,0,1,1,,,,345423454
+1,England,7,SJ Taylor,S Loubser,CM Edwards,,0,1,1,,,,345423454
+1,England,7,CM Edwards,S Loubser,SJ Taylor,,0,1,1,,,,345423454
+1,England,7,SJ Taylor,S Loubser,CM Edwards,,0,0,0,,,,345423454
+1,England,7,SJ Taylor,S Loubser,CM Edwards,,0,0,0,,,,345423454
+1,England,8,CM Edwards,D van Niekerk,SJ Taylor,,0,2,2,,,,345423454
+1,England,8,CM Edwards,D van Niekerk,SJ Taylor,,0,1,1,,,,345423454
+1,England,8,SJ Taylor,D van Niekerk,CM Edwards,,0,1,1,,,,345423454
+1,England,8,CM Edwards,D van Niekerk,SJ Taylor,,0,1,1,,,,345423454
+1,England,8,SJ Taylor,D van Niekerk,CM Edwards,,0,0,0,,,,345423454
+1,England,8,SJ Taylor,D van Niekerk,CM Edwards,,0,1,1,,,,345423454
+1,England,9,SJ Taylor,S Loubser,CM Edwards,,0,1,1,,,,345423454
+1,England,9,CM Edwards,S Loubser,SJ Taylor,,0,1,1,,,,345423454
+1,England,9,SJ Taylor,S Loubser,CM Edwards,,0,4,4,,,,345423454
+1,England,9,SJ Taylor,S Loubser,CM Edwards,,0,1,1,,,,345423454
+1,England,9,CM Edwards,S Loubser,SJ Taylor,,0,4,4,,,,345423454
+1,England,9,CM Edwards,S Loubser,SJ Taylor,,0,1,1,,,,345423454
+1,England,10,CM Edwards,D van Niekerk,SJ Taylor,,0,4,4,,,,345423454
+1,England,10,CM Edwards,D van Niekerk,SJ Taylor,,0,0,0,,,,345423454
+1,England,10,CM Edwards,D van Niekerk,SJ Taylor,,0,0,0,,,,345423454
+1,England,10,CM Edwards,D van Niekerk,SJ Taylor,,0,2,2,,,,345423454
+1,England,10,CM Edwards,D van Niekerk,SJ Taylor,,0,0,0,,,,345423454
+1,England,10,CM Edwards,D van Niekerk,SJ Taylor,,0,0,0,,,,345423454
+1,England,11,SJ Taylor,CL Tryon,CM Edwards,,0,1,1,,,,345423454
+1,England,11,CM Edwards,CL Tryon,SJ Taylor,,0,1,1,,,,345423454
+1,England,11,SJ Taylor,CL Tryon,CM Edwards,,0,0,0,,,,345423454
+1,England,11,SJ Taylor,CL Tryon,CM Edwards,,0,0,0,,,,345423454
+1,England,11,SJ Taylor,CL Tryon,CM Edwards,,0,1,1,,,,345423454
+1,England,11,CM Edwards,CL Tryon,SJ Taylor,,0,0,0,,,,345423454
+1,England,12,SJ Taylor,M Daniels,CM Edwards,,0,0,0,,,,345423454
+1,England,12,SJ Taylor,M Daniels,CM Edwards,,0,4,4,,,,345423454
+1,England,12,SJ Taylor,M Daniels,CM Edwards,,0,0,0,caught,SJ Taylor,MM Letsoalo,345423454
+1,England,12,NR Sciver,M Daniels,CM Edwards,,0,1,1,,,,345423454
+1,England,12,CM Edwards,M Daniels,NR Sciver,,0,1,1,,,,345423454
+1,England,12,NR Sciver,M Daniels,CM Edwards,,0,1,1,,,,345423454
+1,England,13,NR Sciver,CL Tryon,CM Edwards,,0,0,0,,,,345423454
+1,England,13,NR Sciver,CL Tryon,CM Edwards,,0,4,4,,,,345423454
+1,England,13,NR Sciver,CL Tryon,CM Edwards,,0,1,1,,,,345423454
+1,England,13,CM Edwards,CL Tryon,NR Sciver,,0,1,1,,,,345423454
+1,England,13,NR Sciver,CL Tryon,CM Edwards,,0,1,1,,,,345423454
+1,England,13,CM Edwards,CL Tryon,NR Sciver,,0,0,0,,,,345423454
+1,England,14,NR Sciver,M Daniels,CM Edwards,,0,0,0,,,,345423454
+1,England,14,NR Sciver,M Daniels,CM Edwards,,0,1,1,,,,345423454
+1,England,14,CM Edwards,M Daniels,NR Sciver,,0,1,1,,,,345423454
+1,England,14,NR Sciver,M Daniels,CM Edwards,,0,1,1,,,,345423454
+1,England,14,CM Edwards,M Daniels,NR Sciver,,0,1,1,,,,345423454
+1,England,14,NR Sciver,M Daniels,CM Edwards,,0,1,1,,,,345423454
+1,England,15,NR Sciver,CL Tryon,CM Edwards,,0,1,1,,,,345423454
+1,England,15,CM Edwards,CL Tryon,NR Sciver,,0,1,1,,,,345423454
+1,England,15,NR Sciver,CL Tryon,CM Edwards,,0,1,1,,,,345423454
+1,England,15,CM Edwards,CL Tryon,NR Sciver,,0,0,0,,,,345423454
+1,England,15,CM Edwards,CL Tryon,NR Sciver,,0,4,4,,,,345423454
+1,England,15,CM Edwards,CL Tryon,NR Sciver,,0,4,4,,,,345423454
+1,England,16,NR Sciver,M Daniels,CM Edwards,,0,1,1,,,,345423454
+1,England,16,CM Edwards,M Daniels,NR Sciver,,0,1,1,,,,345423454
+1,England,16,NR Sciver,M Daniels,CM Edwards,,0,0,0,caught,NR Sciver,S Ismail,345423454
+1,England,16,CM Edwards,M Daniels,LS Greenway,,0,4,4,,,,345423454
+1,England,16,CM Edwards,M Daniels,LS Greenway,,0,0,0,,,,345423454
+1,England,16,CM Edwards,M Daniels,LS Greenway,,0,1,1,,,,345423454
+1,England,17,CM Edwards,S Ismail,LS Greenway,,0,1,1,,,,345423454
+1,England,17,LS Greenway,S Ismail,CM Edwards,,0,1,1,,,,345423454
+1,England,17,CM Edwards,S Ismail,LS Greenway,,0,1,1,,,,345423454
+1,England,17,LS Greenway,S Ismail,CM Edwards,,0,1,1,,,,345423454
+1,England,17,CM Edwards,S Ismail,LS Greenway,,0,1,1,,,,345423454
+1,England,17,LS Greenway,S Ismail,CM Edwards,,0,0,0,,,,345423454
+1,England,18,CM Edwards,M Kapp,LS Greenway,,0,1,1,,,,345423454
+1,England,18,LS Greenway,M Kapp,CM Edwards,,0,1,1,,,,345423454
+1,England,18,CM Edwards,M Kapp,LS Greenway,,0,1,1,,,,345423454
+1,England,18,LS Greenway,M Kapp,CM Edwards,,0,4,4,,,,345423454
+1,England,18,LS Greenway,M Kapp,CM Edwards,,0,1,1,,,,345423454
+1,England,18,CM Edwards,M Kapp,LS Greenway,,0,1,1,,,,345423454
+1,England,19,CM Edwards,S Ismail,LS Greenway,,0,4,4,,,,345423454
+1,England,19,CM Edwards,S Ismail,LS Greenway,,0,1,1,,,,345423454
+1,England,19,LS Greenway,S Ismail,CM Edwards,,0,2,2,,,,345423454
+1,England,19,LS Greenway,S Ismail,CM Edwards,,0,1,1,,,,345423454
+1,England,19,CM Edwards,S Ismail,LS Greenway,legbyes,1,1,0,,,,345423454
+1,England,19,LS Greenway,S Ismail,CM Edwards,,0,2,2,,,,345423454

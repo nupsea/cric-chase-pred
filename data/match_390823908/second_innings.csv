@@ -1,0 +1,58 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,England,0,DN Wyatt,Salma Khatun,TT Beaumont,,0,0,0,lbw,DN Wyatt,,390823908
+2,England,0,AE Jones,Salma Khatun,TT Beaumont,,0,1,1,,,,390823908
+2,England,0,TT Beaumont,Salma Khatun,AE Jones,,0,0,0,,,,390823908
+2,England,0,TT Beaumont,Salma Khatun,AE Jones,,0,1,1,,,,390823908
+2,England,0,AE Jones,Salma Khatun,TT Beaumont,,0,0,0,,,,390823908
+2,England,0,AE Jones,Salma Khatun,TT Beaumont,,0,4,4,,,,390823908
+2,England,1,TT Beaumont,Rumana Ahmed,AE Jones,,0,0,0,,,,390823908
+2,England,1,TT Beaumont,Rumana Ahmed,AE Jones,,0,1,1,,,,390823908
+2,England,1,AE Jones,Rumana Ahmed,TT Beaumont,,0,0,0,,,,390823908
+2,England,1,AE Jones,Rumana Ahmed,TT Beaumont,,0,0,0,,,,390823908
+2,England,1,AE Jones,Rumana Ahmed,TT Beaumont,,0,4,4,,,,390823908
+2,England,1,AE Jones,Rumana Ahmed,TT Beaumont,,0,1,1,,,,390823908
+2,England,2,AE Jones,Salma Khatun,TT Beaumont,,0,1,1,,,,390823908
+2,England,2,TT Beaumont,Salma Khatun,AE Jones,,0,0,0,,,,390823908
+2,England,2,TT Beaumont,Salma Khatun,AE Jones,,0,0,0,caught,TT Beaumont,Fargana Hoque,390823908
+2,England,2,AE Jones,Salma Khatun,NR Sciver,,0,1,1,,,,390823908
+2,England,2,NR Sciver,Salma Khatun,AE Jones,,0,0,0,,,,390823908
+2,England,2,NR Sciver,Salma Khatun,AE Jones,,0,0,0,,,,390823908
+2,England,3,AE Jones,Rumana Ahmed,NR Sciver,,0,2,2,,,,390823908
+2,England,3,AE Jones,Rumana Ahmed,NR Sciver,,0,1,1,,,,390823908
+2,England,3,NR Sciver,Rumana Ahmed,AE Jones,,0,1,1,,,,390823908
+2,England,3,AE Jones,Rumana Ahmed,NR Sciver,,0,1,1,,,,390823908
+2,England,3,NR Sciver,Rumana Ahmed,AE Jones,,0,1,1,,,,390823908
+2,England,3,AE Jones,Rumana Ahmed,NR Sciver,,0,1,1,,,,390823908
+2,England,4,AE Jones,Salma Khatun,NR Sciver,,0,1,1,,,,390823908
+2,England,4,NR Sciver,Salma Khatun,AE Jones,,0,4,4,,,,390823908
+2,England,4,NR Sciver,Salma Khatun,AE Jones,,0,1,1,,,,390823908
+2,England,4,AE Jones,Salma Khatun,NR Sciver,,0,0,0,,,,390823908
+2,England,4,AE Jones,Salma Khatun,NR Sciver,,0,2,2,,,,390823908
+2,England,4,AE Jones,Salma Khatun,NR Sciver,,0,1,1,,,,390823908
+2,England,5,AE Jones,Khadija Tul Kubra,NR Sciver,,0,1,1,,,,390823908
+2,England,5,NR Sciver,Khadija Tul Kubra,AE Jones,,0,0,0,,,,390823908
+2,England,5,NR Sciver,Khadija Tul Kubra,AE Jones,,0,4,4,,,,390823908
+2,England,5,NR Sciver,Khadija Tul Kubra,AE Jones,,0,2,2,,,,390823908
+2,England,5,NR Sciver,Khadija Tul Kubra,AE Jones,,0,0,0,,,,390823908
+2,England,5,NR Sciver,Khadija Tul Kubra,AE Jones,,0,0,0,,,,390823908
+2,England,6,AE Jones,Fahima Khatun,NR Sciver,,0,1,1,,,,390823908
+2,England,6,NR Sciver,Fahima Khatun,AE Jones,,0,1,1,,,,390823908
+2,England,6,AE Jones,Fahima Khatun,NR Sciver,,0,1,1,,,,390823908
+2,England,6,NR Sciver,Fahima Khatun,AE Jones,,0,4,4,,,,390823908
+2,England,6,NR Sciver,Fahima Khatun,AE Jones,,0,1,1,,,,390823908
+2,England,6,AE Jones,Fahima Khatun,NR Sciver,,0,1,1,,,,390823908
+2,England,7,AE Jones,Khadija Tul Kubra,NR Sciver,,0,1,1,,,,390823908
+2,England,7,NR Sciver,Khadija Tul Kubra,AE Jones,,0,4,4,,,,390823908
+2,England,7,NR Sciver,Khadija Tul Kubra,AE Jones,,0,0,0,,,,390823908
+2,England,7,NR Sciver,Khadija Tul Kubra,AE Jones,,0,0,0,stumped,NR Sciver,Shamima Sultana,390823908
+2,England,7,HC Knight,Khadija Tul Kubra,AE Jones,,0,0,0,,,,390823908
+2,England,7,HC Knight,Khadija Tul Kubra,AE Jones,,0,1,1,,,,390823908
+2,England,8,HC Knight,Jahanara Alam,AE Jones,,0,0,0,,,,390823908
+2,England,8,HC Knight,Jahanara Alam,AE Jones,,0,0,0,,,,390823908
+2,England,8,HC Knight,Jahanara Alam,AE Jones,,0,0,0,,,,390823908
+2,England,8,HC Knight,Jahanara Alam,AE Jones,,0,1,1,,,,390823908
+2,England,8,AE Jones,Jahanara Alam,HC Knight,,0,0,0,,,,390823908
+2,England,8,AE Jones,Jahanara Alam,HC Knight,,0,2,2,,,,390823908
+2,England,9,HC Knight,Rumana Ahmed,AE Jones,,0,4,4,,,,390823908
+2,England,9,HC Knight,Rumana Ahmed,AE Jones,,0,4,4,,,,390823908
+2,England,9,HC Knight,Rumana Ahmed,AE Jones,,0,1,1,,,,390823908

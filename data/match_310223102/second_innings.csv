@@ -1,0 +1,82 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,South Africa,0,GC Smith,JM Anderson,LE Bosman,,0,0,0,,,,310223102
+2,South Africa,0,GC Smith,JM Anderson,LE Bosman,,0,0,0,,,,310223102
+2,South Africa,0,GC Smith,JM Anderson,LE Bosman,,0,0,0,,,,310223102
+2,South Africa,0,GC Smith,JM Anderson,LE Bosman,,0,0,0,,,,310223102
+2,South Africa,0,GC Smith,JM Anderson,LE Bosman,,0,1,1,,,,310223102
+2,South Africa,0,LE Bosman,JM Anderson,GC Smith,,0,1,1,,,,310223102
+2,South Africa,1,LE Bosman,TT Bresnan,GC Smith,,0,0,0,,,,310223102
+2,South Africa,1,LE Bosman,TT Bresnan,GC Smith,,0,0,0,,,,310223102
+2,South Africa,1,LE Bosman,TT Bresnan,GC Smith,,0,4,4,,,,310223102
+2,South Africa,1,LE Bosman,TT Bresnan,GC Smith,,0,6,6,,,,310223102
+2,South Africa,1,LE Bosman,TT Bresnan,GC Smith,,0,1,1,,,,310223102
+2,South Africa,1,GC Smith,TT Bresnan,LE Bosman,,0,0,0,,,,310223102
+2,South Africa,2,LE Bosman,JM Anderson,GC Smith,,0,0,0,,,,310223102
+2,South Africa,2,LE Bosman,JM Anderson,GC Smith,,0,6,6,,,,310223102
+2,South Africa,2,LE Bosman,JM Anderson,GC Smith,,0,1,1,,,,310223102
+2,South Africa,2,GC Smith,JM Anderson,LE Bosman,,0,1,1,,,,310223102
+2,South Africa,2,LE Bosman,JM Anderson,GC Smith,,0,4,4,,,,310223102
+2,South Africa,2,LE Bosman,JM Anderson,GC Smith,,0,4,4,,,,310223102
+2,South Africa,3,GC Smith,SI Mahmood,LE Bosman,,0,1,1,,,,310223102
+2,South Africa,3,LE Bosman,SI Mahmood,GC Smith,,0,4,4,,,,310223102
+2,South Africa,3,LE Bosman,SI Mahmood,GC Smith,,0,0,0,,,,310223102
+2,South Africa,3,LE Bosman,SI Mahmood,GC Smith,,0,0,0,,,,310223102
+2,South Africa,3,LE Bosman,SI Mahmood,GC Smith,,0,0,0,,,,310223102
+2,South Africa,3,LE Bosman,SI Mahmood,GC Smith,,0,0,0,,,,310223102
+2,South Africa,4,GC Smith,TT Bresnan,LE Bosman,,0,0,0,,,,310223102
+2,South Africa,4,GC Smith,TT Bresnan,LE Bosman,,0,0,0,,,,310223102
+2,South Africa,4,GC Smith,TT Bresnan,LE Bosman,,0,4,4,,,,310223102
+2,South Africa,4,GC Smith,TT Bresnan,LE Bosman,,0,6,6,,,,310223102
+2,South Africa,4,GC Smith,TT Bresnan,LE Bosman,,0,0,0,,,,310223102
+2,South Africa,4,GC Smith,TT Bresnan,LE Bosman,,0,4,4,,,,310223102
+2,South Africa,5,LE Bosman,SI Mahmood,GC Smith,,0,2,2,,,,310223102
+2,South Africa,5,LE Bosman,SI Mahmood,GC Smith,,0,1,1,,,,310223102
+2,South Africa,5,GC Smith,SI Mahmood,LE Bosman,,0,6,6,,,,310223102
+2,South Africa,5,GC Smith,SI Mahmood,LE Bosman,,0,4,4,,,,310223102
+2,South Africa,5,GC Smith,SI Mahmood,LE Bosman,,0,0,0,,,,310223102
+2,South Africa,5,GC Smith,SI Mahmood,LE Bosman,,0,6,6,,,,310223102
+2,South Africa,6,LE Bosman,LJ Wright,GC Smith,,0,0,0,,,,310223102
+2,South Africa,6,LE Bosman,LJ Wright,GC Smith,,0,1,1,,,,310223102
+2,South Africa,6,GC Smith,LJ Wright,LE Bosman,,0,1,1,,,,310223102
+2,South Africa,6,LE Bosman,LJ Wright,GC Smith,,0,6,6,,,,310223102
+2,South Africa,6,LE Bosman,LJ Wright,GC Smith,,0,0,0,,,,310223102
+2,South Africa,6,LE Bosman,LJ Wright,GC Smith,,0,1,1,,,,310223102
+2,South Africa,7,LE Bosman,GP Swann,GC Smith,,0,6,6,,,,310223102
+2,South Africa,7,LE Bosman,GP Swann,GC Smith,,0,1,1,,,,310223102
+2,South Africa,7,GC Smith,GP Swann,LE Bosman,,0,6,6,,,,310223102
+2,South Africa,7,GC Smith,GP Swann,LE Bosman,,0,1,1,,,,310223102
+2,South Africa,7,LE Bosman,GP Swann,GC Smith,,0,1,1,,,,310223102
+2,South Africa,7,GC Smith,GP Swann,LE Bosman,,0,0,0,,,,310223102
+2,South Africa,8,LE Bosman,LJ Wright,GC Smith,wides,1,1,0,,,,310223102
+2,South Africa,8,LE Bosman,LJ Wright,GC Smith,,0,4,4,,,,310223102
+2,South Africa,8,LE Bosman,LJ Wright,GC Smith,,0,1,1,,,,310223102
+2,South Africa,8,GC Smith,LJ Wright,LE Bosman,,0,0,0,caught,GC Smith,EJG Morgan,310223102
+2,South Africa,8,JP Duminy,LJ Wright,LE Bosman,,0,0,0,,,,310223102
+2,South Africa,8,JP Duminy,LJ Wright,LE Bosman,,0,1,1,,,,310223102
+2,South Africa,8,LE Bosman,LJ Wright,JP Duminy,,0,1,1,,,,310223102
+2,South Africa,9,LE Bosman,GP Swann,JP Duminy,,0,2,2,,,,310223102
+2,South Africa,9,LE Bosman,GP Swann,JP Duminy,,0,0,0,caught,LE Bosman,PD Collingwood,310223102
+2,South Africa,9,AB de Villiers,GP Swann,JP Duminy,,0,1,1,,,,310223102
+2,South Africa,9,JP Duminy,GP Swann,AB de Villiers,,0,1,1,,,,310223102
+2,South Africa,9,AB de Villiers,GP Swann,JP Duminy,,0,4,4,,,,310223102
+2,South Africa,9,AB de Villiers,GP Swann,JP Duminy,,0,0,0,,,,310223102
+2,South Africa,10,JP Duminy,SI Mahmood,AB de Villiers,,0,4,4,,,,310223102
+2,South Africa,10,JP Duminy,SI Mahmood,AB de Villiers,wides,1,1,0,,,,310223102
+2,South Africa,10,JP Duminy,SI Mahmood,AB de Villiers,,0,0,0,lbw,JP Duminy,,310223102
+2,South Africa,10,JA Morkel,SI Mahmood,AB de Villiers,,0,1,1,,,,310223102
+2,South Africa,10,AB de Villiers,SI Mahmood,JA Morkel,,0,0,0,,,,310223102
+2,South Africa,10,AB de Villiers,SI Mahmood,JA Morkel,,0,0,0,,,,310223102
+2,South Africa,10,AB de Villiers,SI Mahmood,JA Morkel,,0,1,1,,,,310223102
+2,South Africa,11,AB de Villiers,GP Swann,JA Morkel,,0,1,1,,,,310223102
+2,South Africa,11,JA Morkel,GP Swann,AB de Villiers,,0,0,0,,,,310223102
+2,South Africa,11,JA Morkel,GP Swann,AB de Villiers,,0,0,0,,,,310223102
+2,South Africa,11,JA Morkel,GP Swann,AB de Villiers,,0,0,0,,,,310223102
+2,South Africa,11,JA Morkel,GP Swann,AB de Villiers,,0,6,6,,,,310223102
+2,South Africa,11,JA Morkel,GP Swann,AB de Villiers,,0,0,0,,,,310223102
+2,South Africa,12,AB de Villiers,JM Anderson,JA Morkel,,0,1,1,,,,310223102
+2,South Africa,12,JA Morkel,JM Anderson,AB de Villiers,,0,1,1,,,,310223102
+2,South Africa,12,AB de Villiers,JM Anderson,JA Morkel,,0,1,1,,,,310223102
+2,South Africa,12,JA Morkel,JM Anderson,AB de Villiers,wides,1,1,0,,,,310223102
+2,South Africa,12,JA Morkel,JM Anderson,AB de Villiers,,0,0,0,,,,310223102
+2,South Africa,12,JA Morkel,JM Anderson,AB de Villiers,,0,1,1,,,,310223102
+2,South Africa,12,AB de Villiers,JM Anderson,JA Morkel,,0,1,1,,,,310223102

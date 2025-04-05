@@ -1,0 +1,108 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Bhutan,0,Y Choden,K Kunwar,N Choden,,0,0,0,,,,32084232084
+2,Bhutan,0,Y Choden,K Kunwar,N Choden,,0,0,0,,,,32084232084
+2,Bhutan,0,Y Choden,K Kunwar,N Choden,,0,1,1,,,,32084232084
+2,Bhutan,0,N Choden,K Kunwar,Y Choden,,0,0,0,,,,32084232084
+2,Bhutan,0,N Choden,K Kunwar,Y Choden,,0,1,1,,,,32084232084
+2,Bhutan,0,Y Choden,K Kunwar,N Choden,,0,0,0,,,,32084232084
+2,Bhutan,1,N Choden,A Karmacharya,Y Choden,,0,0,0,,,,32084232084
+2,Bhutan,1,N Choden,A Karmacharya,Y Choden,,0,0,0,,,,32084232084
+2,Bhutan,1,N Choden,A Karmacharya,Y Choden,,0,0,0,,,,32084232084
+2,Bhutan,1,N Choden,A Karmacharya,Y Choden,,0,0,0,,,,32084232084
+2,Bhutan,1,N Choden,A Karmacharya,Y Choden,,0,2,2,,,,32084232084
+2,Bhutan,1,N Choden,A Karmacharya,Y Choden,,0,0,0,,,,32084232084
+2,Bhutan,2,Y Choden,K Kunwar,N Choden,,0,0,0,,,,32084232084
+2,Bhutan,2,Y Choden,K Kunwar,N Choden,,0,0,0,,,,32084232084
+2,Bhutan,2,Y Choden,K Kunwar,N Choden,,0,0,0,,,,32084232084
+2,Bhutan,2,Y Choden,K Kunwar,N Choden,,0,0,0,bowled,Y Choden,,32084232084
+2,Bhutan,2,D Wangmo,K Kunwar,N Choden,,0,0,0,,,,32084232084
+2,Bhutan,2,D Wangmo,K Kunwar,N Choden,,0,0,0,,,,32084232084
+2,Bhutan,3,N Choden,A Karmacharya,D Wangmo,,0,1,1,,,,32084232084
+2,Bhutan,3,D Wangmo,A Karmacharya,N Choden,,0,0,0,,,,32084232084
+2,Bhutan,3,D Wangmo,A Karmacharya,N Choden,,0,0,0,,,,32084232084
+2,Bhutan,3,D Wangmo,A Karmacharya,N Choden,,0,1,1,,,,32084232084
+2,Bhutan,3,N Choden,A Karmacharya,D Wangmo,,0,1,1,,,,32084232084
+2,Bhutan,3,D Wangmo,A Karmacharya,N Choden,,0,0,0,,,,32084232084
+2,Bhutan,4,N Choden,K Kunwar,D Wangmo,,0,0,0,,,,32084232084
+2,Bhutan,4,N Choden,K Kunwar,D Wangmo,legbyes,1,1,0,,,,32084232084
+2,Bhutan,4,D Wangmo,K Kunwar,N Choden,,0,0,0,,,,32084232084
+2,Bhutan,4,D Wangmo,K Kunwar,N Choden,,0,0,0,,,,32084232084
+2,Bhutan,4,D Wangmo,K Kunwar,N Choden,,0,0,0,caught,D Wangmo,J Pandey,32084232084
+2,Bhutan,4,N Choden,K Kunwar,T Zangmo,,0,1,1,,,,32084232084
+2,Bhutan,5,N Choden,A Karmacharya,T Zangmo,,0,2,2,,,,32084232084
+2,Bhutan,5,N Choden,A Karmacharya,T Zangmo,,0,0,0,,,,32084232084
+2,Bhutan,5,N Choden,A Karmacharya,T Zangmo,,0,0,0,lbw,N Choden,,32084232084
+2,Bhutan,5,S Choden,A Karmacharya,T Zangmo,,0,0,0,,,,32084232084
+2,Bhutan,5,S Choden,A Karmacharya,T Zangmo,,0,0,0,,,,32084232084
+2,Bhutan,5,S Choden,A Karmacharya,T Zangmo,,0,0,0,,,,32084232084
+2,Bhutan,6,T Zangmo,SR Magar,S Choden,,0,0,0,,,,32084232084
+2,Bhutan,6,T Zangmo,SR Magar,S Choden,,0,0,0,,,,32084232084
+2,Bhutan,6,T Zangmo,SR Magar,S Choden,,0,1,1,,,,32084232084
+2,Bhutan,6,S Choden,SR Magar,T Zangmo,,0,0,0,,,,32084232084
+2,Bhutan,6,S Choden,SR Magar,T Zangmo,,0,0,0,,,,32084232084
+2,Bhutan,6,S Choden,SR Magar,T Zangmo,,0,0,0,,,,32084232084
+2,Bhutan,7,T Zangmo,RC Belbashi,S Choden,,0,2,2,,,,32084232084
+2,Bhutan,7,T Zangmo,RC Belbashi,S Choden,,0,1,1,,,,32084232084
+2,Bhutan,7,S Choden,RC Belbashi,T Zangmo,,0,0,0,,,,32084232084
+2,Bhutan,7,S Choden,RC Belbashi,T Zangmo,,0,0,0,,,,32084232084
+2,Bhutan,7,S Choden,RC Belbashi,T Zangmo,,0,0,0,,,,32084232084
+2,Bhutan,7,S Choden,RC Belbashi,T Zangmo,,0,4,4,,,,32084232084
+2,Bhutan,8,T Zangmo,SR Magar,S Choden,,0,0,0,,,,32084232084
+2,Bhutan,8,T Zangmo,SR Magar,S Choden,,0,1,1,,,,32084232084
+2,Bhutan,8,S Choden,SR Magar,T Zangmo,legbyes,1,1,0,,,,32084232084
+2,Bhutan,8,T Zangmo,SR Magar,S Choden,,0,0,0,,,,32084232084
+2,Bhutan,8,T Zangmo,SR Magar,S Choden,,0,0,0,,,,32084232084
+2,Bhutan,8,T Zangmo,SR Magar,S Choden,,0,0,0,,,,32084232084
+2,Bhutan,9,S Choden,RC Belbashi,T Zangmo,,0,0,0,,,,32084232084
+2,Bhutan,9,S Choden,RC Belbashi,T Zangmo,legbyes,1,1,0,,,,32084232084
+2,Bhutan,9,T Zangmo,RC Belbashi,S Choden,,0,0,0,,,,32084232084
+2,Bhutan,9,T Zangmo,RC Belbashi,S Choden,,0,0,0,,,,32084232084
+2,Bhutan,9,T Zangmo,RC Belbashi,S Choden,,0,0,0,,,,32084232084
+2,Bhutan,9,T Zangmo,RC Belbashi,S Choden,,0,0,0,,,,32084232084
+2,Bhutan,10,S Choden,SR Magar,T Zangmo,,0,1,1,,,,32084232084
+2,Bhutan,10,T Zangmo,SR Magar,S Choden,,0,1,1,,,,32084232084
+2,Bhutan,10,S Choden,SR Magar,T Zangmo,,0,0,0,caught,S Choden,B Rawal,32084232084
+2,Bhutan,10,P Seldon,SR Magar,T Zangmo,,0,0,0,,,,32084232084
+2,Bhutan,10,P Seldon,SR Magar,T Zangmo,,0,1,1,,,,32084232084
+2,Bhutan,10,T Zangmo,SR Magar,P Seldon,,0,1,1,,,,32084232084
+2,Bhutan,11,T Zangmo,RC Belbashi,P Seldon,,0,1,1,,,,32084232084
+2,Bhutan,11,P Seldon,RC Belbashi,T Zangmo,,0,0,0,,,,32084232084
+2,Bhutan,11,P Seldon,RC Belbashi,T Zangmo,,0,1,1,,,,32084232084
+2,Bhutan,11,T Zangmo,RC Belbashi,P Seldon,,0,1,1,,,,32084232084
+2,Bhutan,11,P Seldon,RC Belbashi,T Zangmo,,0,0,0,,,,32084232084
+2,Bhutan,11,P Seldon,RC Belbashi,T Zangmo,,0,1,1,,,,32084232084
+2,Bhutan,12,P Seldon,I Barma,T Zangmo,,0,0,0,,,,32084232084
+2,Bhutan,12,P Seldon,I Barma,T Zangmo,,0,1,1,,,,32084232084
+2,Bhutan,12,T Zangmo,I Barma,P Seldon,,0,0,0,,,,32084232084
+2,Bhutan,12,T Zangmo,I Barma,P Seldon,,0,1,1,,,,32084232084
+2,Bhutan,12,P Seldon,I Barma,T Zangmo,,0,0,0,bowled,P Seldon,,32084232084
+2,Bhutan,12,T Lhaden,I Barma,T Zangmo,,0,0,0,,,,32084232084
+2,Bhutan,13,T Zangmo,Sangita Rai,T Lhaden,,0,1,1,,,,32084232084
+2,Bhutan,13,T Lhaden,Sangita Rai,T Zangmo,,0,1,1,,,,32084232084
+2,Bhutan,13,T Zangmo,Sangita Rai,T Lhaden,,0,1,1,,,,32084232084
+2,Bhutan,13,T Lhaden,Sangita Rai,T Zangmo,,0,0,0,bowled,T Lhaden,,32084232084
+2,Bhutan,13,Sonam,Sangita Rai,T Zangmo,,0,0,0,,,,32084232084
+2,Bhutan,13,Sonam,Sangita Rai,T Zangmo,,0,0,0,,,,32084232084
+2,Bhutan,14,T Zangmo,I Barma,Sonam,,0,1,1,,,,32084232084
+2,Bhutan,14,Sonam,I Barma,T Zangmo,,0,0,0,,,,32084232084
+2,Bhutan,14,Sonam,I Barma,T Zangmo,legbyes,1,1,0,,,,32084232084
+2,Bhutan,14,T Zangmo,I Barma,Sonam,,0,1,1,,,,32084232084
+2,Bhutan,14,Sonam,I Barma,T Zangmo,,0,1,1,,,,32084232084
+2,Bhutan,14,T Zangmo,I Barma,Sonam,,0,0,0,,,,32084232084
+2,Bhutan,15,Sonam,Sangita Rai,T Zangmo,,0,0,0,caught,Sonam,RC Belbashi,32084232084
+2,Bhutan,15,T Zangmo,Sangita Rai,Sangay Wangmo,,0,1,1,,,,32084232084
+2,Bhutan,15,Sangay Wangmo,Sangita Rai,T Zangmo,,0,0,0,,,,32084232084
+2,Bhutan,15,Sangay Wangmo,Sangita Rai,T Zangmo,,0,0,0,,,,32084232084
+2,Bhutan,15,Sangay Wangmo,Sangita Rai,T Zangmo,,0,0,0,,,,32084232084
+2,Bhutan,15,Sangay Wangmo,Sangita Rai,T Zangmo,,0,0,0,,,,32084232084
+2,Bhutan,16,T Zangmo,SR Magar,Sangay Wangmo,,0,1,1,,,,32084232084
+2,Bhutan,16,Sangay Wangmo,SR Magar,T Zangmo,,0,0,0,,,,32084232084
+2,Bhutan,16,Sangay Wangmo,SR Magar,T Zangmo,,0,0,0,,,,32084232084
+2,Bhutan,16,Sangay Wangmo,SR Magar,T Zangmo,,0,1,1,,,,32084232084
+2,Bhutan,16,T Zangmo,SR Magar,Sangay Wangmo,,0,0,0,caught,T Zangmo,I Barma,32084232084
+2,Bhutan,16,Sangay Wangmo,SR Magar,A Gurung,,0,0,0,,,,32084232084
+2,Bhutan,17,A Gurung,Sangita Rai,Sangay Wangmo,,0,1,1,,,,32084232084
+2,Bhutan,17,Sangay Wangmo,Sangita Rai,A Gurung,,0,0,0,,,,32084232084
+2,Bhutan,17,Sangay Wangmo,Sangita Rai,A Gurung,,0,1,1,,,,32084232084
+2,Bhutan,17,A Gurung,Sangita Rai,Sangay Wangmo,,0,0,0,bowled,A Gurung,,32084232084
+2,Bhutan,17,T Cheki,Sangita Rai,Sangay Wangmo,,0,0,0,lbw,T Cheki,,32084232084

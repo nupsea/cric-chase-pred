@@ -1,0 +1,122 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Afghanistan,0,Mohammad Shahzad,Mudassar Bukhari,Nawroz Mangal,,0,0,0,,,,336823368
+1,Afghanistan,0,Mohammad Shahzad,Mudassar Bukhari,Nawroz Mangal,,0,1,1,,,,336823368
+1,Afghanistan,0,Nawroz Mangal,Mudassar Bukhari,Mohammad Shahzad,,0,1,1,,,,336823368
+1,Afghanistan,0,Mohammad Shahzad,Mudassar Bukhari,Nawroz Mangal,legbyes,1,1,0,,,,336823368
+1,Afghanistan,0,Nawroz Mangal,Mudassar Bukhari,Mohammad Shahzad,,0,1,1,,,,336823368
+1,Afghanistan,0,Mohammad Shahzad,Mudassar Bukhari,Nawroz Mangal,,0,0,0,,,,336823368
+1,Afghanistan,1,Nawroz Mangal,PA van Meekeren,Mohammad Shahzad,wides,1,1,0,,,,336823368
+1,Afghanistan,1,Nawroz Mangal,PA van Meekeren,Mohammad Shahzad,,0,2,2,,,,336823368
+1,Afghanistan,1,Nawroz Mangal,PA van Meekeren,Mohammad Shahzad,,0,4,4,,,,336823368
+1,Afghanistan,1,Nawroz Mangal,PA van Meekeren,Mohammad Shahzad,,0,0,0,caught,Nawroz Mangal,W Barresi,336823368
+1,Afghanistan,1,Karim Sadiq,PA van Meekeren,Mohammad Shahzad,,0,0,0,,,,336823368
+1,Afghanistan,1,Karim Sadiq,PA van Meekeren,Mohammad Shahzad,,0,1,1,,,,336823368
+1,Afghanistan,1,Mohammad Shahzad,PA van Meekeren,Karim Sadiq,,0,0,0,,,,336823368
+1,Afghanistan,2,Karim Sadiq,Mudassar Bukhari,Mohammad Shahzad,,0,0,0,,,,336823368
+1,Afghanistan,2,Karim Sadiq,Mudassar Bukhari,Mohammad Shahzad,,0,0,0,,,,336823368
+1,Afghanistan,2,Karim Sadiq,Mudassar Bukhari,Mohammad Shahzad,,0,0,0,caught,Karim Sadiq,BN Cooper,336823368
+1,Afghanistan,2,Samiullah Shenwari,Mudassar Bukhari,Mohammad Shahzad,,0,0,0,,,,336823368
+1,Afghanistan,2,Samiullah Shenwari,Mudassar Bukhari,Mohammad Shahzad,,0,0,0,,,,336823368
+1,Afghanistan,2,Samiullah Shenwari,Mudassar Bukhari,Mohammad Shahzad,,0,1,1,,,,336823368
+1,Afghanistan,3,Samiullah Shenwari,PA van Meekeren,Mohammad Shahzad,,0,0,0,,,,336823368
+1,Afghanistan,3,Samiullah Shenwari,PA van Meekeren,Mohammad Shahzad,noballs,1,1,0,,,,336823368
+1,Afghanistan,3,Samiullah Shenwari,PA van Meekeren,Mohammad Shahzad,,0,0,0,,,,336823368
+1,Afghanistan,3,Samiullah Shenwari,PA van Meekeren,Mohammad Shahzad,,0,0,0,,,,336823368
+1,Afghanistan,3,Samiullah Shenwari,PA van Meekeren,Mohammad Shahzad,,0,0,0,caught,Samiullah Shenwari,PM Seelaar,336823368
+1,Afghanistan,3,Shafiqullah,PA van Meekeren,Mohammad Shahzad,,0,0,0,,,,336823368
+1,Afghanistan,3,Shafiqullah,PA van Meekeren,Mohammad Shahzad,,0,0,0,,,,336823368
+1,Afghanistan,4,Mohammad Shahzad,PW Borren,Shafiqullah,,0,4,4,,,,336823368
+1,Afghanistan,4,Mohammad Shahzad,PW Borren,Shafiqullah,,0,1,1,,,,336823368
+1,Afghanistan,4,Shafiqullah,PW Borren,Mohammad Shahzad,,0,0,0,,,,336823368
+1,Afghanistan,4,Shafiqullah,PW Borren,Mohammad Shahzad,,0,1,1,,,,336823368
+1,Afghanistan,4,Mohammad Shahzad,PW Borren,Shafiqullah,,0,0,0,,,,336823368
+1,Afghanistan,4,Mohammad Shahzad,PW Borren,Shafiqullah,,0,4,4,,,,336823368
+1,Afghanistan,5,Shafiqullah,PA van Meekeren,Mohammad Shahzad,,0,0,0,,,,336823368
+1,Afghanistan,5,Shafiqullah,PA van Meekeren,Mohammad Shahzad,,0,0,0,,,,336823368
+1,Afghanistan,5,Shafiqullah,PA van Meekeren,Mohammad Shahzad,,0,0,0,,,,336823368
+1,Afghanistan,5,Shafiqullah,PA van Meekeren,Mohammad Shahzad,,0,0,0,,,,336823368
+1,Afghanistan,5,Shafiqullah,PA van Meekeren,Mohammad Shahzad,legbyes,1,1,0,,,,336823368
+1,Afghanistan,5,Mohammad Shahzad,PA van Meekeren,Shafiqullah,,0,0,0,,,,336823368
+1,Afghanistan,6,Shafiqullah,PM Seelaar,Mohammad Shahzad,,0,1,1,,,,336823368
+1,Afghanistan,6,Mohammad Shahzad,PM Seelaar,Shafiqullah,,0,0,0,,,,336823368
+1,Afghanistan,6,Mohammad Shahzad,PM Seelaar,Shafiqullah,,0,1,1,,,,336823368
+1,Afghanistan,6,Shafiqullah,PM Seelaar,Mohammad Shahzad,,0,0,0,,,,336823368
+1,Afghanistan,6,Shafiqullah,PM Seelaar,Mohammad Shahzad,,0,2,2,,,,336823368
+1,Afghanistan,6,Shafiqullah,PM Seelaar,Mohammad Shahzad,,0,1,1,,,,336823368
+1,Afghanistan,7,Shafiqullah,PA van Meekeren,Mohammad Shahzad,,0,2,2,,,,336823368
+1,Afghanistan,7,Shafiqullah,PA van Meekeren,Mohammad Shahzad,,0,1,1,,,,336823368
+1,Afghanistan,7,Mohammad Shahzad,PA van Meekeren,Shafiqullah,,0,4,4,,,,336823368
+1,Afghanistan,7,Mohammad Shahzad,PA van Meekeren,Shafiqullah,,0,1,1,,,,336823368
+1,Afghanistan,7,Shafiqullah,PA van Meekeren,Mohammad Shahzad,,0,1,1,,,,336823368
+1,Afghanistan,7,Mohammad Shahzad,PA van Meekeren,Shafiqullah,,0,0,0,,,,336823368
+1,Afghanistan,8,Shafiqullah,PM Seelaar,Mohammad Shahzad,,0,0,0,,,,336823368
+1,Afghanistan,8,Shafiqullah,PM Seelaar,Mohammad Shahzad,byes,1,1,0,,,,336823368
+1,Afghanistan,8,Mohammad Shahzad,PM Seelaar,Shafiqullah,,0,1,1,,,,336823368
+1,Afghanistan,8,Shafiqullah,PM Seelaar,Mohammad Shahzad,,0,0,0,caught,Shafiqullah,ES Szwarczynski,336823368
+1,Afghanistan,8,Mohammad Nabi,PM Seelaar,Mohammad Shahzad,,0,4,4,,,,336823368
+1,Afghanistan,8,Mohammad Nabi,PM Seelaar,Mohammad Shahzad,,0,0,0,,,,336823368
+1,Afghanistan,9,Mohammad Shahzad,MJG Rippon,Mohammad Nabi,,0,0,0,,,,336823368
+1,Afghanistan,9,Mohammad Shahzad,MJG Rippon,Mohammad Nabi,,0,0,0,,,,336823368
+1,Afghanistan,9,Mohammad Shahzad,MJG Rippon,Mohammad Nabi,,0,1,1,,,,336823368
+1,Afghanistan,9,Mohammad Nabi,MJG Rippon,Mohammad Shahzad,,0,1,1,,,,336823368
+1,Afghanistan,9,Mohammad Shahzad,MJG Rippon,Mohammad Nabi,,0,0,0,,,,336823368
+1,Afghanistan,9,Mohammad Shahzad,MJG Rippon,Mohammad Nabi,,0,1,1,,,,336823368
+1,Afghanistan,10,Mohammad Shahzad,PW Borren,Mohammad Nabi,,0,0,0,,,,336823368
+1,Afghanistan,10,Mohammad Shahzad,PW Borren,Mohammad Nabi,,0,1,1,,,,336823368
+1,Afghanistan,10,Mohammad Nabi,PW Borren,Mohammad Shahzad,,0,1,1,,,,336823368
+1,Afghanistan,10,Mohammad Shahzad,PW Borren,Mohammad Nabi,,0,0,0,,,,336823368
+1,Afghanistan,10,Mohammad Shahzad,PW Borren,Mohammad Nabi,,0,0,0,caught,Mohammad Shahzad,MJG Rippon,336823368
+1,Afghanistan,10,Mohammad Nabi,PW Borren,Najibullah Zadran,,0,0,0,,,,336823368
+1,Afghanistan,11,Najibullah Zadran,MJG Rippon,Mohammad Nabi,,0,0,0,,,,336823368
+1,Afghanistan,11,Najibullah Zadran,MJG Rippon,Mohammad Nabi,,0,0,0,,,,336823368
+1,Afghanistan,11,Najibullah Zadran,MJG Rippon,Mohammad Nabi,,0,2,2,,,,336823368
+1,Afghanistan,11,Najibullah Zadran,MJG Rippon,Mohammad Nabi,,0,2,2,,,,336823368
+1,Afghanistan,11,Najibullah Zadran,MJG Rippon,Mohammad Nabi,,0,1,1,,,,336823368
+1,Afghanistan,11,Mohammad Nabi,MJG Rippon,Najibullah Zadran,,0,0,0,,,,336823368
+1,Afghanistan,12,Najibullah Zadran,PM Seelaar,Mohammad Nabi,,0,0,0,,,,336823368
+1,Afghanistan,12,Najibullah Zadran,PM Seelaar,Mohammad Nabi,,0,1,1,,,,336823368
+1,Afghanistan,12,Mohammad Nabi,PM Seelaar,Najibullah Zadran,,0,0,0,caught,Mohammad Nabi,ES Szwarczynski,336823368
+1,Afghanistan,12,Gulbadin Naib,PM Seelaar,Najibullah Zadran,,0,0,0,,,,336823368
+1,Afghanistan,12,Gulbadin Naib,PM Seelaar,Najibullah Zadran,,0,1,1,,,,336823368
+1,Afghanistan,12,Najibullah Zadran,PM Seelaar,Gulbadin Naib,,0,0,0,,,,336823368
+1,Afghanistan,13,Gulbadin Naib,PW Borren,Najibullah Zadran,,0,1,1,,,,336823368
+1,Afghanistan,13,Najibullah Zadran,PW Borren,Gulbadin Naib,,0,0,0,,,,336823368
+1,Afghanistan,13,Najibullah Zadran,PW Borren,Gulbadin Naib,,0,0,0,,,,336823368
+1,Afghanistan,13,Najibullah Zadran,PW Borren,Gulbadin Naib,legbyes,1,1,0,,,,336823368
+1,Afghanistan,13,Gulbadin Naib,PW Borren,Najibullah Zadran,,0,1,1,,,,336823368
+1,Afghanistan,13,Najibullah Zadran,PW Borren,Gulbadin Naib,,0,0,0,,,,336823368
+1,Afghanistan,14,Gulbadin Naib,PM Seelaar,Najibullah Zadran,,0,1,1,,,,336823368
+1,Afghanistan,14,Najibullah Zadran,PM Seelaar,Gulbadin Naib,,0,1,1,,,,336823368
+1,Afghanistan,14,Gulbadin Naib,PM Seelaar,Najibullah Zadran,,0,0,0,,,,336823368
+1,Afghanistan,14,Gulbadin Naib,PM Seelaar,Najibullah Zadran,,0,1,1,,,,336823368
+1,Afghanistan,14,Najibullah Zadran,PM Seelaar,Gulbadin Naib,,0,1,1,,,,336823368
+1,Afghanistan,14,Gulbadin Naib,PM Seelaar,Najibullah Zadran,wides,5,5,0,,,,336823368
+1,Afghanistan,14,Gulbadin Naib,PM Seelaar,Najibullah Zadran,,0,0,0,,,,336823368
+1,Afghanistan,15,Najibullah Zadran,Ahsan Malik,Gulbadin Naib,wides,1,1,0,,,,336823368
+1,Afghanistan,15,Najibullah Zadran,Ahsan Malik,Gulbadin Naib,,0,1,1,,,,336823368
+1,Afghanistan,15,Gulbadin Naib,Ahsan Malik,Najibullah Zadran,,0,1,1,,,,336823368
+1,Afghanistan,15,Najibullah Zadran,Ahsan Malik,Gulbadin Naib,,0,2,2,,,,336823368
+1,Afghanistan,15,Najibullah Zadran,Ahsan Malik,Gulbadin Naib,wides,1,1,0,,,,336823368
+1,Afghanistan,15,Najibullah Zadran,Ahsan Malik,Gulbadin Naib,,0,0,0,,,,336823368
+1,Afghanistan,15,Najibullah Zadran,Ahsan Malik,Gulbadin Naib,,0,0,0,,,,336823368
+1,Afghanistan,15,Najibullah Zadran,Ahsan Malik,Gulbadin Naib,,0,1,1,,,,336823368
+1,Afghanistan,16,Najibullah Zadran,PW Borren,Gulbadin Naib,,0,0,0,,,,336823368
+1,Afghanistan,16,Najibullah Zadran,PW Borren,Gulbadin Naib,,0,1,1,,,,336823368
+1,Afghanistan,16,Gulbadin Naib,PW Borren,Najibullah Zadran,wides,1,1,0,,,,336823368
+1,Afghanistan,16,Gulbadin Naib,PW Borren,Najibullah Zadran,,0,1,1,,,,336823368
+1,Afghanistan,16,Najibullah Zadran,PW Borren,Gulbadin Naib,,0,4,4,,,,336823368
+1,Afghanistan,16,Najibullah Zadran,PW Borren,Gulbadin Naib,,0,1,1,,,,336823368
+1,Afghanistan,16,Gulbadin Naib,PW Borren,Najibullah Zadran,,0,0,0,,,,336823368
+1,Afghanistan,17,Najibullah Zadran,Mudassar Bukhari,Gulbadin Naib,,0,1,1,,,,336823368
+1,Afghanistan,17,Gulbadin Naib,Mudassar Bukhari,Najibullah Zadran,,0,1,1,,,,336823368
+1,Afghanistan,17,Najibullah Zadran,Mudassar Bukhari,Gulbadin Naib,,0,0,0,,,,336823368
+1,Afghanistan,17,Najibullah Zadran,Mudassar Bukhari,Gulbadin Naib,,0,0,0,,,,336823368
+1,Afghanistan,17,Najibullah Zadran,Mudassar Bukhari,Gulbadin Naib,,0,0,0,bowled,Najibullah Zadran,,336823368
+1,Afghanistan,17,Hamid Hassan,Mudassar Bukhari,Gulbadin Naib,,0,1,1,,,,336823368
+1,Afghanistan,18,Hamid Hassan,Ahsan Malik,Gulbadin Naib,,0,1,1,,,,336823368
+1,Afghanistan,18,Gulbadin Naib,Ahsan Malik,Hamid Hassan,,0,1,1,,,,336823368
+1,Afghanistan,18,Hamid Hassan,Ahsan Malik,Gulbadin Naib,,0,1,1,,,,336823368
+1,Afghanistan,18,Gulbadin Naib,Ahsan Malik,Hamid Hassan,,0,0,0,caught,Gulbadin Naib,PA van Meekeren,336823368
+1,Afghanistan,18,Shapoor Zadran,Ahsan Malik,Hamid Hassan,,0,0,0,,,,336823368
+1,Afghanistan,18,Shapoor Zadran,Ahsan Malik,Hamid Hassan,,0,0,0,bowled,Shapoor Zadran,,336823368
+1,Afghanistan,19,Hamid Hassan,Mudassar Bukhari,Amir Hamza,,0,0,0,run out,Amir Hamza,Mudassar Bukhari,336823368

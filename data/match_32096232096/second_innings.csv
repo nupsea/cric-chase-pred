@@ -1,0 +1,71 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Qatar,0,Shahreeennawab,GK Diviya,SK Rana,,0,0,0,,,,32096232096
+2,Qatar,0,Shahreeennawab,GK Diviya,SK Rana,,0,0,0,,,,32096232096
+2,Qatar,0,Shahreeennawab,GK Diviya,SK Rana,,0,1,1,,,,32096232096
+2,Qatar,0,SK Rana,GK Diviya,Shahreeennawab,,0,0,0,,,,32096232096
+2,Qatar,0,SK Rana,GK Diviya,Shahreeennawab,,0,2,2,,,,32096232096
+2,Qatar,0,SK Rana,GK Diviya,Shahreeennawab,,0,4,4,,,,32096232096
+2,Qatar,1,Shahreeennawab,I Shukla,SK Rana,wides,1,1,0,,,,32096232096
+2,Qatar,1,Shahreeennawab,I Shukla,SK Rana,wides,1,1,0,,,,32096232096
+2,Qatar,1,Shahreeennawab,I Shukla,SK Rana,wides,2,2,0,,,,32096232096
+2,Qatar,1,SK Rana,I Shukla,Shahreeennawab,,0,0,0,bowled,SK Rana,,32096232096
+2,Qatar,1,Aysha,I Shukla,Shahreeennawab,,0,0,0,,,,32096232096
+2,Qatar,1,Aysha,I Shukla,Shahreeennawab,,0,0,0,,,,32096232096
+2,Qatar,1,Aysha,I Shukla,Shahreeennawab,,0,0,0,,,,32096232096
+2,Qatar,1,Aysha,I Shukla,Shahreeennawab,,0,1,1,,,,32096232096
+2,Qatar,1,Shahreeennawab,I Shukla,Aysha,,0,0,0,,,,32096232096
+2,Qatar,2,Aysha,GK Diviya,Shahreeennawab,,0,1,1,,,,32096232096
+2,Qatar,2,Shahreeennawab,GK Diviya,Aysha,,0,0,0,,,,32096232096
+2,Qatar,2,Shahreeennawab,GK Diviya,Aysha,,0,1,1,,,,32096232096
+2,Qatar,2,Aysha,GK Diviya,Shahreeennawab,,0,3,3,,,,32096232096
+2,Qatar,2,Shahreeennawab,GK Diviya,Aysha,,0,0,0,,,,32096232096
+2,Qatar,2,Shahreeennawab,GK Diviya,Aysha,,0,0,0,,,,32096232096
+2,Qatar,3,Aysha,Shafina Mahesh,Shahreeennawab,,0,0,0,,,,32096232096
+2,Qatar,3,Aysha,Shafina Mahesh,Shahreeennawab,,0,0,0,,,,32096232096
+2,Qatar,3,Aysha,Shafina Mahesh,Shahreeennawab,wides,1,1,0,,,,32096232096
+2,Qatar,3,Aysha,Shafina Mahesh,Shahreeennawab,,0,0,0,,,,32096232096
+2,Qatar,3,Aysha,Shafina Mahesh,Shahreeennawab,,0,0,0,,,,32096232096
+2,Qatar,3,Aysha,Shafina Mahesh,Shahreeennawab,,0,2,2,,,,32096232096
+2,Qatar,3,Aysha,Shafina Mahesh,Shahreeennawab,,0,0,0,caught and bowled,Aysha,,32096232096
+2,Qatar,4,Shahreeennawab,GK Diviya,A Mare,,0,0,0,,,,32096232096
+2,Qatar,4,Shahreeennawab,GK Diviya,A Mare,,0,0,0,,,,32096232096
+2,Qatar,4,Shahreeennawab,GK Diviya,A Mare,,0,0,0,caught,Shahreeennawab,Ada Bhasin,32096232096
+2,Qatar,4,A Mare,GK Diviya,S Dhadwal,,0,1,1,,,,32096232096
+2,Qatar,4,S Dhadwal,GK Diviya,A Mare,,0,0,0,,,,32096232096
+2,Qatar,4,S Dhadwal,GK Diviya,A Mare,,0,0,0,,,,32096232096
+2,Qatar,5,A Mare,Shafina Mahesh,S Dhadwal,,0,1,1,,,,32096232096
+2,Qatar,5,S Dhadwal,Shafina Mahesh,A Mare,,0,0,0,,,,32096232096
+2,Qatar,5,S Dhadwal,Shafina Mahesh,A Mare,,0,0,0,,,,32096232096
+2,Qatar,5,S Dhadwal,Shafina Mahesh,A Mare,,0,2,2,,,,32096232096
+2,Qatar,5,S Dhadwal,Shafina Mahesh,A Mare,,0,1,1,,,,32096232096
+2,Qatar,5,A Mare,Shafina Mahesh,S Dhadwal,,0,1,1,,,,32096232096
+2,Qatar,6,A Mare,Vinu Kumar,S Dhadwal,,0,0,0,,,,32096232096
+2,Qatar,6,A Mare,Vinu Kumar,S Dhadwal,,0,0,0,,,,32096232096
+2,Qatar,6,A Mare,Vinu Kumar,S Dhadwal,,0,0,0,,,,32096232096
+2,Qatar,6,A Mare,Vinu Kumar,S Dhadwal,,0,0,0,,,,32096232096
+2,Qatar,6,A Mare,Vinu Kumar,S Dhadwal,,0,1,1,,,,32096232096
+2,Qatar,6,S Dhadwal,Vinu Kumar,A Mare,,0,1,1,,,,32096232096
+2,Qatar,7,S Dhadwal,Shafina Mahesh,A Mare,,0,0,0,,,,32096232096
+2,Qatar,7,S Dhadwal,Shafina Mahesh,A Mare,,0,1,1,,,,32096232096
+2,Qatar,7,A Mare,Shafina Mahesh,S Dhadwal,wides,1,1,0,,,,32096232096
+2,Qatar,7,A Mare,Shafina Mahesh,S Dhadwal,,0,4,4,,,,32096232096
+2,Qatar,7,A Mare,Shafina Mahesh,S Dhadwal,,0,0,0,,,,32096232096
+2,Qatar,7,A Mare,Shafina Mahesh,S Dhadwal,wides,1,1,0,,,,32096232096
+2,Qatar,7,A Mare,Shafina Mahesh,S Dhadwal,,0,0,0,caught,A Mare,PSR Gurusinghe,32096232096
+2,Qatar,7,Aleena Khan,Shafina Mahesh,S Dhadwal,,0,0,0,,,,32096232096
+2,Qatar,8,S Dhadwal,Vinu Kumar,Aleena Khan,,0,2,2,,,,32096232096
+2,Qatar,8,S Dhadwal,Vinu Kumar,Aleena Khan,,0,0,0,,,,32096232096
+2,Qatar,8,S Dhadwal,Vinu Kumar,Aleena Khan,,0,0,0,run out,Aleena Khan,I Shukla,32096232096
+2,Qatar,8,S Dhadwal,Vinu Kumar,H Agarwal,,0,1,1,,,,32096232096
+2,Qatar,8,H Agarwal,Vinu Kumar,S Dhadwal,,0,0,0,,,,32096232096
+2,Qatar,8,H Agarwal,Vinu Kumar,S Dhadwal,,0,0,0,,,,32096232096
+2,Qatar,9,S Dhadwal,Shafina Mahesh,H Agarwal,,0,2,2,,,,32096232096
+2,Qatar,9,S Dhadwal,Shafina Mahesh,H Agarwal,,0,0,0,,,,32096232096
+2,Qatar,9,S Dhadwal,Shafina Mahesh,H Agarwal,,0,2,2,,,,32096232096
+2,Qatar,9,S Dhadwal,Shafina Mahesh,H Agarwal,wides,1,1,0,,,,32096232096
+2,Qatar,9,S Dhadwal,Shafina Mahesh,H Agarwal,,0,0,0,,,,32096232096
+2,Qatar,9,S Dhadwal,Shafina Mahesh,H Agarwal,,0,0,0,,,,32096232096
+2,Qatar,9,S Dhadwal,Shafina Mahesh,H Agarwal,,0,1,1,,,,32096232096
+2,Qatar,10,S Dhadwal,GK Diviya,H Agarwal,,0,1,1,,,,32096232096
+2,Qatar,10,H Agarwal,GK Diviya,S Dhadwal,,0,0,0,,,,32096232096
+2,Qatar,10,H Agarwal,GK Diviya,S Dhadwal,,0,2,2,,,,32096232096

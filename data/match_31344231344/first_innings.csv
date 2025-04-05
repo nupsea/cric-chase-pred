@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,India,0,KL Rahul,SL Malinga,S Dhawan,,0,0,0,,,,31344231344
+1,India,0,KL Rahul,SL Malinga,S Dhawan,,0,1,1,,,,31344231344
+1,India,0,S Dhawan,SL Malinga,KL Rahul,wides,2,2,0,,,,31344231344
+1,India,0,KL Rahul,SL Malinga,S Dhawan,,0,0,0,,,,31344231344
+1,India,0,KL Rahul,SL Malinga,S Dhawan,,0,1,1,,,,31344231344
+1,India,0,S Dhawan,SL Malinga,KL Rahul,,0,1,1,,,,31344231344
+1,India,0,KL Rahul,SL Malinga,S Dhawan,,0,4,4,,,,31344231344
+1,India,1,S Dhawan,AD Mathews,KL Rahul,,0,0,0,,,,31344231344
+1,India,1,S Dhawan,AD Mathews,KL Rahul,,0,0,0,,,,31344231344
+1,India,1,S Dhawan,AD Mathews,KL Rahul,,0,4,4,,,,31344231344
+1,India,1,S Dhawan,AD Mathews,KL Rahul,,0,1,1,,,,31344231344
+1,India,1,KL Rahul,AD Mathews,S Dhawan,,0,4,4,,,,31344231344
+1,India,1,KL Rahul,AD Mathews,S Dhawan,,0,4,4,,,,31344231344
+1,India,2,S Dhawan,SL Malinga,KL Rahul,,0,0,0,,,,31344231344
+1,India,2,S Dhawan,SL Malinga,KL Rahul,,0,1,1,,,,31344231344
+1,India,2,KL Rahul,SL Malinga,S Dhawan,,0,1,1,,,,31344231344
+1,India,2,S Dhawan,SL Malinga,KL Rahul,,0,0,0,,,,31344231344
+1,India,2,S Dhawan,SL Malinga,KL Rahul,legbyes,1,1,0,,,,31344231344
+1,India,2,KL Rahul,SL Malinga,S Dhawan,,0,1,1,,,,31344231344
+1,India,3,KL Rahul,DM de Silva,S Dhawan,,0,1,1,,,,31344231344
+1,India,3,S Dhawan,DM de Silva,KL Rahul,,0,4,4,,,,31344231344
+1,India,3,S Dhawan,DM de Silva,KL Rahul,,0,1,1,,,,31344231344
+1,India,3,KL Rahul,DM de Silva,S Dhawan,,0,0,0,,,,31344231344
+1,India,3,KL Rahul,DM de Silva,S Dhawan,,0,6,6,,,,31344231344
+1,India,3,KL Rahul,DM de Silva,S Dhawan,,0,1,1,,,,31344231344
+1,India,4,KL Rahul,SL Malinga,S Dhawan,,0,2,2,,,,31344231344
+1,India,4,KL Rahul,SL Malinga,S Dhawan,,0,1,1,,,,31344231344
+1,India,4,S Dhawan,SL Malinga,KL Rahul,,0,4,4,,,,31344231344
+1,India,4,S Dhawan,SL Malinga,KL Rahul,,0,1,1,,,,31344231344
+1,India,4,KL Rahul,SL Malinga,S Dhawan,,0,1,1,,,,31344231344
+1,India,4,S Dhawan,SL Malinga,KL Rahul,,0,4,4,,,,31344231344
+1,India,5,KL Rahul,CBRLS Kumara,S Dhawan,,0,1,1,,,,31344231344
+1,India,5,S Dhawan,CBRLS Kumara,KL Rahul,,0,4,4,,,,31344231344
+1,India,5,S Dhawan,CBRLS Kumara,KL Rahul,,0,4,4,,,,31344231344
+1,India,5,S Dhawan,CBRLS Kumara,KL Rahul,,0,1,1,,,,31344231344
+1,India,5,KL Rahul,CBRLS Kumara,S Dhawan,,0,0,0,,,,31344231344
+1,India,5,KL Rahul,CBRLS Kumara,S Dhawan,,0,1,1,,,,31344231344
+1,India,6,KL Rahul,AD Mathews,S Dhawan,,0,1,1,,,,31344231344
+1,India,6,S Dhawan,AD Mathews,KL Rahul,,0,2,2,,,,31344231344
+1,India,6,S Dhawan,AD Mathews,KL Rahul,wides,1,1,0,,,,31344231344
+1,India,6,S Dhawan,AD Mathews,KL Rahul,,0,4,4,,,,31344231344
+1,India,6,S Dhawan,AD Mathews,KL Rahul,,0,0,0,,,,31344231344
+1,India,6,S Dhawan,AD Mathews,KL Rahul,,0,0,0,,,,31344231344
+1,India,6,S Dhawan,AD Mathews,KL Rahul,,0,1,1,,,,31344231344
+1,India,7,S Dhawan,PWH de Silva,KL Rahul,,0,0,0,,,,31344231344
+1,India,7,S Dhawan,PWH de Silva,KL Rahul,,0,1,1,,,,31344231344
+1,India,7,KL Rahul,PWH de Silva,S Dhawan,,0,1,1,,,,31344231344
+1,India,7,S Dhawan,PWH de Silva,KL Rahul,,0,0,0,,,,31344231344
+1,India,7,S Dhawan,PWH de Silva,KL Rahul,,0,1,1,,,,31344231344
+1,India,7,KL Rahul,PWH de Silva,S Dhawan,,0,1,1,,,,31344231344
+1,India,8,KL Rahul,PADLR Sandakan,S Dhawan,,0,1,1,,,,31344231344
+1,India,8,S Dhawan,PADLR Sandakan,KL Rahul,,0,1,1,,,,31344231344
+1,India,8,KL Rahul,PADLR Sandakan,S Dhawan,,0,1,1,,,,31344231344
+1,India,8,S Dhawan,PADLR Sandakan,KL Rahul,legbyes,1,1,0,,,,31344231344
+1,India,8,KL Rahul,PADLR Sandakan,S Dhawan,,0,1,1,,,,31344231344
+1,India,8,S Dhawan,PADLR Sandakan,KL Rahul,,0,1,1,,,,31344231344
+1,India,9,S Dhawan,PWH de Silva,KL Rahul,,0,6,6,,,,31344231344
+1,India,9,S Dhawan,PWH de Silva,KL Rahul,,0,1,1,,,,31344231344
+1,India,9,KL Rahul,PWH de Silva,S Dhawan,,0,1,1,,,,31344231344
+1,India,9,S Dhawan,PWH de Silva,KL Rahul,,0,0,0,,,,31344231344
+1,India,9,S Dhawan,PWH de Silva,KL Rahul,,0,1,1,,,,31344231344
+1,India,9,KL Rahul,PWH de Silva,S Dhawan,,0,1,1,,,,31344231344
+1,India,10,KL Rahul,PADLR Sandakan,S Dhawan,,0,1,1,,,,31344231344
+1,India,10,S Dhawan,PADLR Sandakan,KL Rahul,,0,1,1,,,,31344231344
+1,India,10,KL Rahul,PADLR Sandakan,S Dhawan,,0,1,1,,,,31344231344
+1,India,10,S Dhawan,PADLR Sandakan,KL Rahul,,0,2,2,,,,31344231344
+1,India,10,S Dhawan,PADLR Sandakan,KL Rahul,,0,0,0,caught,S Dhawan,MD Gunathilaka,31344231344
+1,India,10,SV Samson,PADLR Sandakan,KL Rahul,,0,6,6,,,,31344231344
+1,India,11,KL Rahul,PWH de Silva,SV Samson,,0,2,2,,,,31344231344
+1,India,11,KL Rahul,PWH de Silva,SV Samson,,0,1,1,,,,31344231344
+1,India,11,SV Samson,PWH de Silva,KL Rahul,,0,0,0,lbw,SV Samson,,31344231344
+1,India,11,MK Pandey,PWH de Silva,KL Rahul,,0,1,1,,,,31344231344
+1,India,11,KL Rahul,PWH de Silva,MK Pandey,,0,4,4,,,,31344231344
+1,India,11,KL Rahul,PWH de Silva,MK Pandey,,0,1,1,,,,31344231344
+1,India,12,KL Rahul,PADLR Sandakan,MK Pandey,,0,2,2,,,,31344231344
+1,India,12,KL Rahul,PADLR Sandakan,MK Pandey,,0,4,4,,,,31344231344
+1,India,12,KL Rahul,PADLR Sandakan,MK Pandey,,0,0,0,stumped,KL Rahul,MDKJ Perera,31344231344
+1,India,12,SS Iyer,PADLR Sandakan,MK Pandey,,0,4,4,,,,31344231344
+1,India,12,SS Iyer,PADLR Sandakan,MK Pandey,,0,0,0,caught and bowled,SS Iyer,,31344231344
+1,India,12,V Kohli,PADLR Sandakan,MK Pandey,,0,1,1,,,,31344231344
+1,India,13,V Kohli,CBRLS Kumara,MK Pandey,,0,0,0,,,,31344231344
+1,India,13,V Kohli,CBRLS Kumara,MK Pandey,,0,1,1,,,,31344231344
+1,India,13,MK Pandey,CBRLS Kumara,V Kohli,,0,1,1,,,,31344231344
+1,India,13,V Kohli,CBRLS Kumara,MK Pandey,,0,0,0,,,,31344231344
+1,India,13,V Kohli,CBRLS Kumara,MK Pandey,,0,1,1,,,,31344231344
+1,India,13,MK Pandey,CBRLS Kumara,V Kohli,,0,4,4,,,,31344231344
+1,India,14,V Kohli,PADLR Sandakan,MK Pandey,,0,0,0,,,,31344231344
+1,India,14,V Kohli,PADLR Sandakan,MK Pandey,,0,4,4,,,,31344231344
+1,India,14,V Kohli,PADLR Sandakan,MK Pandey,,0,1,1,,,,31344231344
+1,India,14,MK Pandey,PADLR Sandakan,V Kohli,,0,1,1,,,,31344231344
+1,India,14,V Kohli,PADLR Sandakan,MK Pandey,,0,1,1,,,,31344231344
+1,India,14,MK Pandey,PADLR Sandakan,V Kohli,,0,1,1,,,,31344231344
+1,India,15,MK Pandey,PWH de Silva,V Kohli,,0,0,0,,,,31344231344
+1,India,15,MK Pandey,PWH de Silva,V Kohli,,0,1,1,,,,31344231344
+1,India,15,V Kohli,PWH de Silva,MK Pandey,,0,0,0,,,,31344231344
+1,India,15,V Kohli,PWH de Silva,MK Pandey,,0,1,1,,,,31344231344
+1,India,15,MK Pandey,PWH de Silva,V Kohli,,0,2,2,,,,31344231344
+1,India,15,MK Pandey,PWH de Silva,V Kohli,,0,0,0,,,,31344231344
+1,India,16,V Kohli,AD Mathews,MK Pandey,,0,2,2,,,,31344231344
+1,India,16,V Kohli,AD Mathews,MK Pandey,,0,6,6,,,,31344231344
+1,India,16,V Kohli,AD Mathews,MK Pandey,,0,1,1,,,,31344231344
+1,India,16,MK Pandey,AD Mathews,V Kohli,,0,1,1,,,,31344231344
+1,India,16,V Kohli,AD Mathews,MK Pandey,,0,4,4,,,,31344231344
+1,India,16,V Kohli,AD Mathews,MK Pandey,,0,2,2,,,,31344231344
+1,India,17,MK Pandey,CBRLS Kumara,V Kohli,,0,4,4,,,,31344231344
+1,India,17,MK Pandey,CBRLS Kumara,V Kohli,,0,1,1,,,,31344231344
+1,India,17,V Kohli,CBRLS Kumara,MK Pandey,,0,1,1,run out,V Kohli,,31344231344
+1,India,17,Washington Sundar,CBRLS Kumara,MK Pandey,,0,0,0,caught,Washington Sundar,PADLR Sandakan,31344231344
+1,India,17,MK Pandey,CBRLS Kumara,SN Thakur,,0,1,1,,,,31344231344
+1,India,17,SN Thakur,CBRLS Kumara,MK Pandey,wides,1,1,0,,,,31344231344
+1,India,17,SN Thakur,CBRLS Kumara,MK Pandey,,0,1,1,,,,31344231344
+1,India,18,SN Thakur,SL Malinga,MK Pandey,,0,6,6,,,,31344231344
+1,India,18,SN Thakur,SL Malinga,MK Pandey,,0,1,1,,,,31344231344
+1,India,18,MK Pandey,SL Malinga,SN Thakur,,0,2,2,,,,31344231344
+1,India,18,MK Pandey,SL Malinga,SN Thakur,,0,4,4,,,,31344231344
+1,India,18,MK Pandey,SL Malinga,SN Thakur,,0,1,1,,,,31344231344
+1,India,18,SN Thakur,SL Malinga,MK Pandey,,0,1,1,,,,31344231344
+1,India,19,SN Thakur,CBRLS Kumara,MK Pandey,,0,2,2,,,,31344231344
+1,India,19,SN Thakur,CBRLS Kumara,MK Pandey,,0,6,6,,,,31344231344
+1,India,19,SN Thakur,CBRLS Kumara,MK Pandey,,0,4,4,,,,31344231344
+1,India,19,SN Thakur,CBRLS Kumara,MK Pandey,,0,1,1,,,,31344231344
+1,India,19,MK Pandey,CBRLS Kumara,SN Thakur,,0,4,4,,,,31344231344
+1,India,19,MK Pandey,CBRLS Kumara,SN Thakur,,0,2,2,,,,31344231344

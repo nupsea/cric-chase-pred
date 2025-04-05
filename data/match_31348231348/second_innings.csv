@@ -1,0 +1,56 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,West Indies,0,HK Matthews,DB Sharma,CN Nation,,0,0,0,,,,31348231348
+2,West Indies,0,HK Matthews,DB Sharma,CN Nation,,0,1,1,,,,31348231348
+2,West Indies,0,HK Matthews,DB Sharma,CN Nation,,0,1,1,,,,31348231348
+2,West Indies,0,CN Nation,DB Sharma,HK Matthews,,0,1,1,,,,31348231348
+2,West Indies,0,CN Nation,DB Sharma,HK Matthews,,0,1,1,,,,31348231348
+2,West Indies,0,HK Matthews,DB Sharma,CN Nation,,0,2,2,,,,31348231348
+2,West Indies,1,CN Nation,RP Yadav,HK Matthews,,0,0,0,,,,31348231348
+2,West Indies,1,CN Nation,RP Yadav,HK Matthews,,0,1,1,,,,31348231348
+2,West Indies,1,HK Matthews,RP Yadav,CN Nation,,0,0,0,,,,31348231348
+2,West Indies,1,HK Matthews,RP Yadav,CN Nation,,0,0,0,,,,31348231348
+2,West Indies,1,HK Matthews,RP Yadav,CN Nation,,0,0,0,,,,31348231348
+2,West Indies,1,HK Matthews,RP Yadav,CN Nation,,0,0,0,,,,31348231348
+2,West Indies,2,CN Nation,DB Sharma,HK Matthews,legbyes,1,1,0,,,,31348231348
+2,West Indies,2,HK Matthews,DB Sharma,CN Nation,wides,1,1,0,,,,31348231348
+2,West Indies,2,HK Matthews,DB Sharma,CN Nation,,0,1,1,,,,31348231348
+2,West Indies,2,CN Nation,DB Sharma,HK Matthews,,0,0,0,,,,31348231348
+2,West Indies,2,CN Nation,DB Sharma,HK Matthews,,0,0,0,,,,31348231348
+2,West Indies,2,CN Nation,DB Sharma,HK Matthews,,0,0,0,bowled,CN Nation,,31348231348
+2,West Indies,2,CA Henry,DB Sharma,HK Matthews,,0,0,0,,,,31348231348
+2,West Indies,3,HK Matthews,H Deol,CA Henry,,0,1,1,,,,31348231348
+2,West Indies,3,CA Henry,H Deol,HK Matthews,,0,1,1,,,,31348231348
+2,West Indies,3,HK Matthews,H Deol,CA Henry,,0,0,0,,,,31348231348
+2,West Indies,3,HK Matthews,H Deol,CA Henry,,0,4,4,,,,31348231348
+2,West Indies,3,HK Matthews,H Deol,CA Henry,,0,1,1,,,,31348231348
+2,West Indies,3,CA Henry,H Deol,HK Matthews,,0,1,1,,,,31348231348
+2,West Indies,4,CA Henry,AA Patil,HK Matthews,,0,0,0,,,,31348231348
+2,West Indies,4,CA Henry,AA Patil,HK Matthews,,0,0,0,,,,31348231348
+2,West Indies,4,CA Henry,AA Patil,HK Matthews,,0,0,0,,,,31348231348
+2,West Indies,4,CA Henry,AA Patil,HK Matthews,,0,0,0,,,,31348231348
+2,West Indies,4,CA Henry,AA Patil,HK Matthews,,0,1,1,,,,31348231348
+2,West Indies,4,HK Matthews,AA Patil,CA Henry,,0,0,0,bowled,HK Matthews,,31348231348
+2,West Indies,5,CA Henry,M Joshi,NY McLean,,0,4,4,,,,31348231348
+2,West Indies,5,CA Henry,M Joshi,NY McLean,,0,0,0,,,,31348231348
+2,West Indies,5,CA Henry,M Joshi,NY McLean,,0,1,1,,,,31348231348
+2,West Indies,5,NY McLean,M Joshi,CA Henry,,0,0,0,,,,31348231348
+2,West Indies,5,NY McLean,M Joshi,CA Henry,,0,1,1,,,,31348231348
+2,West Indies,5,CA Henry,M Joshi,NY McLean,,0,0,0,,,,31348231348
+2,West Indies,6,NY McLean,H Deol,CA Henry,,0,1,1,,,,31348231348
+2,West Indies,6,CA Henry,H Deol,NY McLean,,0,1,1,,,,31348231348
+2,West Indies,6,NY McLean,H Deol,CA Henry,,0,1,1,,,,31348231348
+2,West Indies,6,CA Henry,H Deol,NY McLean,,0,1,1,,,,31348231348
+2,West Indies,6,NY McLean,H Deol,CA Henry,,0,1,1,,,,31348231348
+2,West Indies,6,CA Henry,H Deol,NY McLean,,0,1,1,,,,31348231348
+2,West Indies,7,CA Henry,RP Yadav,NY McLean,,0,0,0,bowled,CA Henry,,31348231348
+2,West Indies,7,SA Campbelle,RP Yadav,NY McLean,,0,1,1,,,,31348231348
+2,West Indies,7,NY McLean,RP Yadav,SA Campbelle,,0,2,2,,,,31348231348
+2,West Indies,7,NY McLean,RP Yadav,SA Campbelle,,0,0,0,,,,31348231348
+2,West Indies,7,NY McLean,RP Yadav,SA Campbelle,,0,4,4,,,,31348231348
+2,West Indies,7,NY McLean,RP Yadav,SA Campbelle,,0,0,0,,,,31348231348
+2,West Indies,8,SA Campbelle,AA Patil,NY McLean,,0,2,2,,,,31348231348
+2,West Indies,8,SA Campbelle,AA Patil,NY McLean,,0,1,1,run out,NY McLean,,31348231348
+2,West Indies,8,SA Campbelle,AA Patil,SS Grimmond,,0,1,1,,,,31348231348
+2,West Indies,8,SS Grimmond,AA Patil,SA Campbelle,,0,2,2,,,,31348231348
+2,West Indies,8,SS Grimmond,AA Patil,SA Campbelle,,0,0,0,caught,SS Grimmond,T Bhatia,31348231348
+2,West Indies,8,SACA King,AA Patil,SA Campbelle,,0,1,1,,,,31348231348

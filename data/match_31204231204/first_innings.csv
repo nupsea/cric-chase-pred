@@ -1,0 +1,47 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Scotland,0,SJ Bryce,S Farooq,KE Bryce,,0,0,0,,,,31204231204
+1,Scotland,0,SJ Bryce,S Farooq,KE Bryce,,0,1,1,,,,31204231204
+1,Scotland,0,KE Bryce,S Farooq,SJ Bryce,,0,0,0,,,,31204231204
+1,Scotland,0,KE Bryce,S Farooq,SJ Bryce,,0,0,0,,,,31204231204
+1,Scotland,0,KE Bryce,S Farooq,SJ Bryce,,0,1,1,,,,31204231204
+1,Scotland,0,SJ Bryce,S Farooq,KE Bryce,,0,1,1,,,,31204231204
+1,Scotland,1,SJ Bryce,L Ramjit,KE Bryce,legbyes,1,1,0,,,,31204231204
+1,Scotland,1,KE Bryce,L Ramjit,SJ Bryce,,0,1,1,,,,31204231204
+1,Scotland,1,SJ Bryce,L Ramjit,KE Bryce,,0,1,1,,,,31204231204
+1,Scotland,1,KE Bryce,L Ramjit,SJ Bryce,,0,2,2,,,,31204231204
+1,Scotland,1,KE Bryce,L Ramjit,SJ Bryce,,0,0,0,,,,31204231204
+1,Scotland,1,KE Bryce,L Ramjit,SJ Bryce,,0,1,1,,,,31204231204
+1,Scotland,2,KE Bryce,S Ramautar,SJ Bryce,wides,1,1,0,,,,31204231204
+1,Scotland,2,KE Bryce,S Ramautar,SJ Bryce,wides,1,1,0,,,,31204231204
+1,Scotland,2,KE Bryce,S Ramautar,SJ Bryce,,0,4,4,,,,31204231204
+1,Scotland,2,KE Bryce,S Ramautar,SJ Bryce,,0,0,0,,,,31204231204
+1,Scotland,2,KE Bryce,S Ramautar,SJ Bryce,,0,1,1,,,,31204231204
+1,Scotland,2,SJ Bryce,S Ramautar,KE Bryce,,0,1,1,,,,31204231204
+1,Scotland,2,KE Bryce,S Ramautar,SJ Bryce,,0,2,2,,,,31204231204
+1,Scotland,2,KE Bryce,S Ramautar,SJ Bryce,,0,1,1,,,,31204231204
+1,Scotland,3,KE Bryce,C Beckford,SJ Bryce,,0,1,1,,,,31204231204
+1,Scotland,3,SJ Bryce,C Beckford,KE Bryce,,0,0,0,,,,31204231204
+1,Scotland,3,SJ Bryce,C Beckford,KE Bryce,,0,4,4,,,,31204231204
+1,Scotland,3,SJ Bryce,C Beckford,KE Bryce,,0,4,4,,,,31204231204
+1,Scotland,3,SJ Bryce,C Beckford,KE Bryce,,0,0,0,bowled,SJ Bryce,,31204231204
+1,Scotland,3,RS Glen,C Beckford,KE Bryce,wides,1,1,0,,,,31204231204
+1,Scotland,3,RS Glen,C Beckford,KE Bryce,,0,1,1,,,,31204231204
+1,Scotland,4,RS Glen,S Farooq,KE Bryce,,0,2,2,,,,31204231204
+1,Scotland,4,RS Glen,S Farooq,KE Bryce,,0,2,2,,,,31204231204
+1,Scotland,4,RS Glen,S Farooq,KE Bryce,,0,0,0,,,,31204231204
+1,Scotland,4,RS Glen,S Farooq,KE Bryce,,0,0,0,,,,31204231204
+1,Scotland,4,RS Glen,S Farooq,KE Bryce,,0,1,1,,,,31204231204
+1,Scotland,4,KE Bryce,S Farooq,RS Glen,,0,4,4,,,,31204231204
+1,Scotland,5,RS Glen,L Ramjit,KE Bryce,,0,1,1,,,,31204231204
+1,Scotland,5,KE Bryce,L Ramjit,RS Glen,,0,1,1,,,,31204231204
+1,Scotland,5,RS Glen,L Ramjit,KE Bryce,legbyes,1,1,0,,,,31204231204
+1,Scotland,5,KE Bryce,L Ramjit,RS Glen,,0,1,1,,,,31204231204
+1,Scotland,5,RS Glen,L Ramjit,KE Bryce,,0,1,1,,,,31204231204
+1,Scotland,5,KE Bryce,L Ramjit,RS Glen,,0,0,0,,,,31204231204
+1,Scotland,6,RS Glen,C Beckford,KE Bryce,wides,1,1,0,stumped,RS Glen,S Sriharsha,31204231204
+1,Scotland,6,RK Willis,C Beckford,KE Bryce,,0,4,4,,,,31204231204
+1,Scotland,6,RK Willis,C Beckford,KE Bryce,,0,0,0,bowled,RK Willis,,31204231204
+1,Scotland,6,L Jack,C Beckford,KE Bryce,,0,1,1,,,,31204231204
+1,Scotland,6,KE Bryce,C Beckford,L Jack,,0,4,4,,,,31204231204
+1,Scotland,6,KE Bryce,C Beckford,L Jack,,0,4,4,,,,31204231204
+1,Scotland,6,KE Bryce,C Beckford,L Jack,,0,1,1,,,,31204231204

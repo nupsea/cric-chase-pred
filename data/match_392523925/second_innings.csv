@@ -1,0 +1,121 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,England,0,JM Vince,Imad Wasim,BM Duckett,,0,1,1,,,,392523925
+2,England,0,BM Duckett,Imad Wasim,JM Vince,,0,1,1,,,,392523925
+2,England,0,JM Vince,Imad Wasim,BM Duckett,,0,1,1,,,,392523925
+2,England,0,BM Duckett,Imad Wasim,JM Vince,,0,0,0,,,,392523925
+2,England,0,BM Duckett,Imad Wasim,JM Vince,,0,1,1,,,,392523925
+2,England,0,JM Vince,Imad Wasim,BM Duckett,,0,3,3,,,,392523925
+2,England,1,JM Vince,Faheem Ashraf,BM Duckett,,0,0,0,,,,392523925
+2,England,1,JM Vince,Faheem Ashraf,BM Duckett,,0,0,0,,,,392523925
+2,England,1,JM Vince,Faheem Ashraf,BM Duckett,,0,6,6,,,,392523925
+2,England,1,JM Vince,Faheem Ashraf,BM Duckett,,0,0,0,,,,392523925
+2,England,1,JM Vince,Faheem Ashraf,BM Duckett,,0,1,1,,,,392523925
+2,England,1,BM Duckett,Faheem Ashraf,JM Vince,,0,3,3,,,,392523925
+2,England,2,BM Duckett,Shaheen Shah Afridi,JM Vince,,0,4,4,,,,392523925
+2,England,2,BM Duckett,Shaheen Shah Afridi,JM Vince,,0,0,0,,,,392523925
+2,England,2,BM Duckett,Shaheen Shah Afridi,JM Vince,,0,0,0,caught,BM Duckett,Imad Wasim,392523925
+2,England,2,JE Root,Shaheen Shah Afridi,JM Vince,,0,0,0,,,,392523925
+2,England,2,JE Root,Shaheen Shah Afridi,JM Vince,wides,1,1,0,,,,392523925
+2,England,2,JE Root,Shaheen Shah Afridi,JM Vince,,0,1,1,,,,392523925
+2,England,2,JM Vince,Shaheen Shah Afridi,JE Root,,0,1,1,,,,392523925
+2,England,3,JM Vince,Mohammad Hasnain,JE Root,,0,1,1,,,,392523925
+2,England,3,JE Root,Mohammad Hasnain,JM Vince,,0,0,0,,,,392523925
+2,England,3,JE Root,Mohammad Hasnain,JM Vince,,0,1,1,,,,392523925
+2,England,3,JM Vince,Mohammad Hasnain,JE Root,,0,0,0,,,,392523925
+2,England,3,JM Vince,Mohammad Hasnain,JE Root,wides,1,1,0,,,,392523925
+2,England,3,JM Vince,Mohammad Hasnain,JE Root,,0,0,0,,,,392523925
+2,England,3,JM Vince,Mohammad Hasnain,JE Root,,0,4,4,,,,392523925
+2,England,4,JE Root,Hasan Ali,JM Vince,,0,0,0,,,,392523925
+2,England,4,JE Root,Hasan Ali,JM Vince,,0,1,1,,,,392523925
+2,England,4,JM Vince,Hasan Ali,JE Root,,0,0,0,,,,392523925
+2,England,4,JM Vince,Hasan Ali,JE Root,,0,1,1,,,,392523925
+2,England,4,JE Root,Hasan Ali,JM Vince,,0,1,1,,,,392523925
+2,England,4,JM Vince,Hasan Ali,JE Root,,0,4,4,,,,392523925
+2,England,5,JE Root,Shaheen Shah Afridi,JM Vince,,0,0,0,,,,392523925
+2,England,5,JE Root,Shaheen Shah Afridi,JM Vince,,0,2,2,,,,392523925
+2,England,5,JE Root,Shaheen Shah Afridi,JM Vince,,0,2,2,,,,392523925
+2,England,5,JE Root,Shaheen Shah Afridi,JM Vince,,0,1,1,,,,392523925
+2,England,5,JM Vince,Shaheen Shah Afridi,JE Root,,0,1,1,,,,392523925
+2,England,5,JE Root,Shaheen Shah Afridi,JM Vince,,0,4,4,,,,392523925
+2,England,6,JM Vince,Imad Wasim,JE Root,,0,1,1,,,,392523925
+2,England,6,JE Root,Imad Wasim,JM Vince,,0,1,1,,,,392523925
+2,England,6,JM Vince,Imad Wasim,JE Root,,0,1,1,,,,392523925
+2,England,6,JE Root,Imad Wasim,JM Vince,,0,1,1,,,,392523925
+2,England,6,JM Vince,Imad Wasim,JE Root,,0,1,1,,,,392523925
+2,England,6,JE Root,Imad Wasim,JM Vince,,0,0,0,,,,392523925
+2,England,7,JM Vince,Mohammad Hasnain,JE Root,,0,1,1,,,,392523925
+2,England,7,JE Root,Mohammad Hasnain,JM Vince,,0,1,1,,,,392523925
+2,England,7,JM Vince,Mohammad Hasnain,JE Root,,0,4,4,,,,392523925
+2,England,7,JM Vince,Mohammad Hasnain,JE Root,,0,1,1,,,,392523925
+2,England,7,JE Root,Mohammad Hasnain,JM Vince,,0,1,1,,,,392523925
+2,England,7,JM Vince,Mohammad Hasnain,JE Root,,0,0,0,,,,392523925
+2,England,8,JE Root,Imad Wasim,JM Vince,,0,0,0,,,,392523925
+2,England,8,JE Root,Imad Wasim,JM Vince,,0,1,1,,,,392523925
+2,England,8,JM Vince,Imad Wasim,JE Root,,0,1,1,,,,392523925
+2,England,8,JE Root,Imad Wasim,JM Vince,,0,1,1,,,,392523925
+2,England,8,JM Vince,Imad Wasim,JE Root,,0,2,2,,,,392523925
+2,England,8,JM Vince,Imad Wasim,JE Root,,0,0,0,caught,JM Vince,Sarfraz Ahmed,392523925
+2,England,9,JE Root,Mohammad Hasnain,EJG Morgan,,0,1,1,,,,392523925
+2,England,9,EJG Morgan,Mohammad Hasnain,JE Root,,0,1,1,,,,392523925
+2,England,9,JE Root,Mohammad Hasnain,EJG Morgan,,0,0,0,,,,392523925
+2,England,9,JE Root,Mohammad Hasnain,EJG Morgan,,0,2,2,,,,392523925
+2,England,9,JE Root,Mohammad Hasnain,EJG Morgan,,0,1,1,,,,392523925
+2,England,9,EJG Morgan,Mohammad Hasnain,JE Root,,0,4,4,,,,392523925
+2,England,10,JE Root,Imad Wasim,EJG Morgan,,0,4,4,,,,392523925
+2,England,10,JE Root,Imad Wasim,EJG Morgan,,0,0,0,,,,392523925
+2,England,10,JE Root,Imad Wasim,EJG Morgan,,0,1,1,,,,392523925
+2,England,10,EJG Morgan,Imad Wasim,JE Root,,0,2,2,,,,392523925
+2,England,10,EJG Morgan,Imad Wasim,JE Root,,0,0,0,,,,392523925
+2,England,10,EJG Morgan,Imad Wasim,JE Root,,0,0,0,,,,392523925
+2,England,11,JE Root,Faheem Ashraf,EJG Morgan,legbyes,1,1,0,,,,392523925
+2,England,11,EJG Morgan,Faheem Ashraf,JE Root,,0,0,0,,,,392523925
+2,England,11,EJG Morgan,Faheem Ashraf,JE Root,,0,6,6,,,,392523925
+2,England,11,EJG Morgan,Faheem Ashraf,JE Root,,0,4,4,,,,392523925
+2,England,11,EJG Morgan,Faheem Ashraf,JE Root,,0,4,4,,,,392523925
+2,England,11,EJG Morgan,Faheem Ashraf,JE Root,,0,2,2,,,,392523925
+2,England,12,JE Root,Mohammad Hasnain,EJG Morgan,,0,1,1,,,,392523925
+2,England,12,EJG Morgan,Mohammad Hasnain,JE Root,legbyes,1,1,0,,,,392523925
+2,England,12,JE Root,Mohammad Hasnain,EJG Morgan,,0,0,0,,,,392523925
+2,England,12,JE Root,Mohammad Hasnain,EJG Morgan,,0,0,0,,,,392523925
+2,England,12,JE Root,Mohammad Hasnain,EJG Morgan,,0,0,0,,,,392523925
+2,England,12,JE Root,Mohammad Hasnain,EJG Morgan,,0,4,4,,,,392523925
+2,England,13,EJG Morgan,Hasan Ali,JE Root,,0,1,1,,,,392523925
+2,England,13,JE Root,Hasan Ali,EJG Morgan,,0,1,1,,,,392523925
+2,England,13,EJG Morgan,Hasan Ali,JE Root,,0,0,0,,,,392523925
+2,England,13,EJG Morgan,Hasan Ali,JE Root,,0,1,1,,,,392523925
+2,England,13,JE Root,Hasan Ali,EJG Morgan,,0,4,4,,,,392523925
+2,England,13,JE Root,Hasan Ali,EJG Morgan,,0,1,1,,,,392523925
+2,England,14,JE Root,Faheem Ashraf,EJG Morgan,,0,4,4,,,,392523925
+2,England,14,JE Root,Faheem Ashraf,EJG Morgan,,0,1,1,,,,392523925
+2,England,14,EJG Morgan,Faheem Ashraf,JE Root,,0,1,1,,,,392523925
+2,England,14,JE Root,Faheem Ashraf,EJG Morgan,,0,1,1,,,,392523925
+2,England,14,EJG Morgan,Faheem Ashraf,JE Root,,0,1,1,,,,392523925
+2,England,14,JE Root,Faheem Ashraf,EJG Morgan,,0,1,1,,,,392523925
+2,England,15,JE Root,Hasan Ali,EJG Morgan,,0,1,1,,,,392523925
+2,England,15,EJG Morgan,Hasan Ali,JE Root,noballs,1,7,6,,,,392523925
+2,England,15,EJG Morgan,Hasan Ali,JE Root,,0,1,1,,,,392523925
+2,England,15,JE Root,Hasan Ali,EJG Morgan,,0,0,0,caught,JE Root,Sarfraz Ahmed,392523925
+2,England,15,JL Denly,Hasan Ali,EJG Morgan,,0,1,1,,,,392523925
+2,England,15,EJG Morgan,Hasan Ali,JL Denly,,0,4,4,,,,392523925
+2,England,15,EJG Morgan,Hasan Ali,JL Denly,,0,1,1,,,,392523925
+2,England,16,EJG Morgan,Shaheen Shah Afridi,JL Denly,,0,1,1,,,,392523925
+2,England,16,JL Denly,Shaheen Shah Afridi,EJG Morgan,,0,1,1,,,,392523925
+2,England,16,EJG Morgan,Shaheen Shah Afridi,JL Denly,wides,1,1,0,,,,392523925
+2,England,16,EJG Morgan,Shaheen Shah Afridi,JL Denly,,0,1,1,,,,392523925
+2,England,16,JL Denly,Shaheen Shah Afridi,EJG Morgan,,0,0,0,,,,392523925
+2,England,16,JL Denly,Shaheen Shah Afridi,EJG Morgan,,0,0,0,,,,392523925
+2,England,16,JL Denly,Shaheen Shah Afridi,EJG Morgan,,0,4,4,,,,392523925
+2,England,17,EJG Morgan,Hasan Ali,JL Denly,,0,4,4,,,,392523925
+2,England,17,EJG Morgan,Hasan Ali,JL Denly,,0,1,1,,,,392523925
+2,England,17,JL Denly,Hasan Ali,EJG Morgan,,0,1,1,,,,392523925
+2,England,17,EJG Morgan,Hasan Ali,JL Denly,,0,1,1,,,,392523925
+2,England,17,JL Denly,Hasan Ali,EJG Morgan,,0,4,4,,,,392523925
+2,England,17,JL Denly,Hasan Ali,EJG Morgan,,0,1,1,,,,392523925
+2,England,18,JL Denly,Shaheen Shah Afridi,EJG Morgan,,0,6,6,,,,392523925
+2,England,18,JL Denly,Shaheen Shah Afridi,EJG Morgan,,0,1,1,,,,392523925
+2,England,18,EJG Morgan,Shaheen Shah Afridi,JL Denly,,0,1,1,,,,392523925
+2,England,18,JL Denly,Shaheen Shah Afridi,EJG Morgan,,0,1,1,,,,392523925
+2,England,18,EJG Morgan,Shaheen Shah Afridi,JL Denly,,0,1,1,,,,392523925
+2,England,18,JL Denly,Shaheen Shah Afridi,EJG Morgan,,0,0,0,,,,392523925
+2,England,19,EJG Morgan,Faheem Ashraf,JL Denly,,0,2,2,,,,392523925
+2,England,19,EJG Morgan,Faheem Ashraf,JL Denly,,0,6,6,,,,392523925

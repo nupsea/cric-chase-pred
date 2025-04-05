@@ -1,0 +1,120 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Uganda,0,A Otwani,E Otieno,Saud Islam,wides,1,1,0,,,,31685231685
+2,Uganda,0,A Otwani,E Otieno,Saud Islam,,0,2,2,,,,31685231685
+2,Uganda,0,A Otwani,E Otieno,Saud Islam,,0,1,1,,,,31685231685
+2,Uganda,0,Saud Islam,E Otieno,A Otwani,legbyes,1,1,0,,,,31685231685
+2,Uganda,0,A Otwani,E Otieno,Saud Islam,,0,1,1,,,,31685231685
+2,Uganda,0,Saud Islam,E Otieno,A Otwani,wides,1,1,0,,,,31685231685
+2,Uganda,0,Saud Islam,E Otieno,A Otwani,,0,0,0,,,,31685231685
+2,Uganda,0,Saud Islam,E Otieno,A Otwani,,0,0,0,,,,31685231685
+2,Uganda,1,A Otwani,NN Odhiambo,Saud Islam,,0,4,4,,,,31685231685
+2,Uganda,1,A Otwani,NN Odhiambo,Saud Islam,,0,0,0,,,,31685231685
+2,Uganda,1,A Otwani,NN Odhiambo,Saud Islam,,0,1,1,run out,A Otwani,NN Odhiambo,31685231685
+2,Uganda,1,Saud Islam,NN Odhiambo,RB Patel,,0,0,0,,,,31685231685
+2,Uganda,1,Saud Islam,NN Odhiambo,RB Patel,,0,1,1,,,,31685231685
+2,Uganda,1,RB Patel,NN Odhiambo,Saud Islam,,0,0,0,,,,31685231685
+2,Uganda,2,Saud Islam,E Otieno,RB Patel,,0,1,1,,,,31685231685
+2,Uganda,2,RB Patel,E Otieno,Saud Islam,,0,0,0,,,,31685231685
+2,Uganda,2,RB Patel,E Otieno,Saud Islam,,0,0,0,,,,31685231685
+2,Uganda,2,RB Patel,E Otieno,Saud Islam,,0,0,0,caught,RB Patel,SO Ngoche,31685231685
+2,Uganda,2,D Muhumuza,E Otieno,Saud Islam,,0,0,0,,,,31685231685
+2,Uganda,2,D Muhumuza,E Otieno,Saud Islam,,0,0,0,,,,31685231685
+2,Uganda,3,Saud Islam,NN Odhiambo,D Muhumuza,,0,1,1,,,,31685231685
+2,Uganda,3,D Muhumuza,NN Odhiambo,Saud Islam,,0,0,0,,,,31685231685
+2,Uganda,3,D Muhumuza,NN Odhiambo,Saud Islam,,0,0,0,,,,31685231685
+2,Uganda,3,D Muhumuza,NN Odhiambo,Saud Islam,,0,0,0,,,,31685231685
+2,Uganda,3,D Muhumuza,NN Odhiambo,Saud Islam,,0,1,1,,,,31685231685
+2,Uganda,3,Saud Islam,NN Odhiambo,D Muhumuza,,0,4,4,,,,31685231685
+2,Uganda,4,D Muhumuza,EB Ringera,Saud Islam,,0,0,0,,,,31685231685
+2,Uganda,4,D Muhumuza,EB Ringera,Saud Islam,,0,0,0,caught,D Muhumuza,SO Ngoche,31685231685
+2,Uganda,4,Riazat Ali Shah,EB Ringera,Saud Islam,,0,2,2,,,,31685231685
+2,Uganda,4,Riazat Ali Shah,EB Ringera,Saud Islam,,0,0,0,,,,31685231685
+2,Uganda,4,Riazat Ali Shah,EB Ringera,Saud Islam,,0,1,1,,,,31685231685
+2,Uganda,4,Saud Islam,EB Ringera,Riazat Ali Shah,,0,0,0,,,,31685231685
+2,Uganda,5,Riazat Ali Shah,SO Ngoche,Saud Islam,,0,0,0,,,,31685231685
+2,Uganda,5,Riazat Ali Shah,SO Ngoche,Saud Islam,,0,0,0,,,,31685231685
+2,Uganda,5,Riazat Ali Shah,SO Ngoche,Saud Islam,,0,0,0,,,,31685231685
+2,Uganda,5,Riazat Ali Shah,SO Ngoche,Saud Islam,,0,0,0,,,,31685231685
+2,Uganda,5,Riazat Ali Shah,SO Ngoche,Saud Islam,,0,0,0,,,,31685231685
+2,Uganda,5,Riazat Ali Shah,SO Ngoche,Saud Islam,,0,0,0,,,,31685231685
+2,Uganda,6,Saud Islam,EB Ringera,Riazat Ali Shah,,0,1,1,,,,31685231685
+2,Uganda,6,Riazat Ali Shah,EB Ringera,Saud Islam,,0,4,4,,,,31685231685
+2,Uganda,6,Riazat Ali Shah,EB Ringera,Saud Islam,,0,0,0,,,,31685231685
+2,Uganda,6,Riazat Ali Shah,EB Ringera,Saud Islam,,0,1,1,,,,31685231685
+2,Uganda,6,Saud Islam,EB Ringera,Riazat Ali Shah,,0,0,0,,,,31685231685
+2,Uganda,6,Saud Islam,EB Ringera,Riazat Ali Shah,,0,1,1,,,,31685231685
+2,Uganda,7,Saud Islam,SO Ngoche,Riazat Ali Shah,,0,0,0,,,,31685231685
+2,Uganda,7,Saud Islam,SO Ngoche,Riazat Ali Shah,,0,1,1,,,,31685231685
+2,Uganda,7,Riazat Ali Shah,SO Ngoche,Saud Islam,,0,1,1,,,,31685231685
+2,Uganda,7,Saud Islam,SO Ngoche,Riazat Ali Shah,,0,0,0,,,,31685231685
+2,Uganda,7,Saud Islam,SO Ngoche,Riazat Ali Shah,,0,1,1,,,,31685231685
+2,Uganda,7,Riazat Ali Shah,SO Ngoche,Saud Islam,,0,1,1,,,,31685231685
+2,Uganda,8,Riazat Ali Shah,EB Ringera,Saud Islam,,0,1,1,,,,31685231685
+2,Uganda,8,Saud Islam,EB Ringera,Riazat Ali Shah,,0,0,0,,,,31685231685
+2,Uganda,8,Saud Islam,EB Ringera,Riazat Ali Shah,,0,1,1,,,,31685231685
+2,Uganda,8,Riazat Ali Shah,EB Ringera,Saud Islam,,0,1,1,,,,31685231685
+2,Uganda,8,Saud Islam,EB Ringera,Riazat Ali Shah,,0,0,0,,,,31685231685
+2,Uganda,8,Saud Islam,EB Ringera,Riazat Ali Shah,,0,0,0,,,,31685231685
+2,Uganda,9,Riazat Ali Shah,Gurdeep Singh,Saud Islam,,0,6,6,,,,31685231685
+2,Uganda,9,Riazat Ali Shah,Gurdeep Singh,Saud Islam,,0,2,2,,,,31685231685
+2,Uganda,9,Riazat Ali Shah,Gurdeep Singh,Saud Islam,,0,2,2,,,,31685231685
+2,Uganda,9,Riazat Ali Shah,Gurdeep Singh,Saud Islam,,0,4,4,,,,31685231685
+2,Uganda,9,Riazat Ali Shah,Gurdeep Singh,Saud Islam,,0,0,0,,,,31685231685
+2,Uganda,9,Riazat Ali Shah,Gurdeep Singh,Saud Islam,,0,0,0,,,,31685231685
+2,Uganda,10,Saud Islam,P Koech,Riazat Ali Shah,,0,2,2,,,,31685231685
+2,Uganda,10,Saud Islam,P Koech,Riazat Ali Shah,,0,2,2,,,,31685231685
+2,Uganda,10,Saud Islam,P Koech,Riazat Ali Shah,,0,1,1,,,,31685231685
+2,Uganda,10,Riazat Ali Shah,P Koech,Saud Islam,wides,1,1,0,,,,31685231685
+2,Uganda,10,Riazat Ali Shah,P Koech,Saud Islam,,0,1,1,,,,31685231685
+2,Uganda,10,Saud Islam,P Koech,Riazat Ali Shah,wides,1,1,0,,,,31685231685
+2,Uganda,10,Saud Islam,P Koech,Riazat Ali Shah,,0,2,2,,,,31685231685
+2,Uganda,10,Saud Islam,P Koech,Riazat Ali Shah,,0,2,2,,,,31685231685
+2,Uganda,11,Riazat Ali Shah,SO Ngoche,Saud Islam,,0,1,1,,,,31685231685
+2,Uganda,11,Saud Islam,SO Ngoche,Riazat Ali Shah,,0,1,1,,,,31685231685
+2,Uganda,11,Riazat Ali Shah,SO Ngoche,Saud Islam,,0,2,2,,,,31685231685
+2,Uganda,11,Riazat Ali Shah,SO Ngoche,Saud Islam,,0,0,0,,,,31685231685
+2,Uganda,11,Riazat Ali Shah,SO Ngoche,Saud Islam,,0,1,1,,,,31685231685
+2,Uganda,11,Saud Islam,SO Ngoche,Riazat Ali Shah,,0,2,2,,,,31685231685
+2,Uganda,12,Riazat Ali Shah,P Koech,Saud Islam,wides,1,1,0,,,,31685231685
+2,Uganda,12,Riazat Ali Shah,P Koech,Saud Islam,,0,0,0,caught,Riazat Ali Shah,IA Karim,31685231685
+2,Uganda,12,DM Nakrani,P Koech,Saud Islam,,0,1,1,,,,31685231685
+2,Uganda,12,Saud Islam,P Koech,DM Nakrani,,0,4,4,,,,31685231685
+2,Uganda,12,Saud Islam,P Koech,DM Nakrani,,0,2,2,,,,31685231685
+2,Uganda,12,Saud Islam,P Koech,DM Nakrani,,0,1,1,,,,31685231685
+2,Uganda,12,DM Nakrani,P Koech,Saud Islam,,0,0,0,,,,31685231685
+2,Uganda,13,Saud Islam,Zahid Abbas,DM Nakrani,,0,0,0,,,,31685231685
+2,Uganda,13,Saud Islam,Zahid Abbas,DM Nakrani,,0,2,2,,,,31685231685
+2,Uganda,13,Saud Islam,Zahid Abbas,DM Nakrani,,0,1,1,,,,31685231685
+2,Uganda,13,DM Nakrani,Zahid Abbas,Saud Islam,,0,1,1,,,,31685231685
+2,Uganda,13,Saud Islam,Zahid Abbas,DM Nakrani,,0,1,1,,,,31685231685
+2,Uganda,13,DM Nakrani,Zahid Abbas,Saud Islam,,0,1,1,,,,31685231685
+2,Uganda,14,DM Nakrani,NN Odhiambo,Saud Islam,,0,0,0,caught,DM Nakrani,RN Patel,31685231685
+2,Uganda,14,F Akankwasa,NN Odhiambo,Saud Islam,,0,0,0,,,,31685231685
+2,Uganda,14,F Akankwasa,NN Odhiambo,Saud Islam,,0,1,1,,,,31685231685
+2,Uganda,14,Saud Islam,NN Odhiambo,F Akankwasa,,0,0,0,,,,31685231685
+2,Uganda,14,Saud Islam,NN Odhiambo,F Akankwasa,,0,1,1,,,,31685231685
+2,Uganda,14,F Akankwasa,NN Odhiambo,Saud Islam,,0,1,1,,,,31685231685
+2,Uganda,15,F Akankwasa,Zahid Abbas,Saud Islam,,0,4,4,,,,31685231685
+2,Uganda,15,F Akankwasa,Zahid Abbas,Saud Islam,,0,0,0,caught,F Akankwasa,RN Patel,31685231685
+2,Uganda,15,Saud Islam,Zahid Abbas,F Achelam,,0,1,1,,,,31685231685
+2,Uganda,15,F Achelam,Zahid Abbas,Saud Islam,,0,1,1,,,,31685231685
+2,Uganda,15,Saud Islam,Zahid Abbas,F Achelam,,0,4,4,,,,31685231685
+2,Uganda,15,Saud Islam,Zahid Abbas,F Achelam,,0,0,0,run out,F Achelam,AA Obanda,31685231685
+2,Uganda,16,Saud Islam,EB Ringera,B Masaba,,0,2,2,,,,31685231685
+2,Uganda,16,Saud Islam,EB Ringera,B Masaba,,0,2,2,,,,31685231685
+2,Uganda,16,Saud Islam,EB Ringera,B Masaba,,0,6,6,,,,31685231685
+2,Uganda,16,Saud Islam,EB Ringera,B Masaba,,0,1,1,,,,31685231685
+2,Uganda,16,B Masaba,EB Ringera,Saud Islam,,0,0,0,,,,31685231685
+2,Uganda,16,B Masaba,EB Ringera,Saud Islam,,0,0,0,,,,31685231685
+2,Uganda,17,Saud Islam,SO Ngoche,B Masaba,,0,2,2,,,,31685231685
+2,Uganda,17,Saud Islam,SO Ngoche,B Masaba,,0,1,1,,,,31685231685
+2,Uganda,17,B Masaba,SO Ngoche,Saud Islam,,0,4,4,,,,31685231685
+2,Uganda,17,B Masaba,SO Ngoche,Saud Islam,,0,4,4,,,,31685231685
+2,Uganda,17,B Masaba,SO Ngoche,Saud Islam,,0,1,1,,,,31685231685
+2,Uganda,17,Saud Islam,SO Ngoche,B Masaba,,0,1,1,,,,31685231685
+2,Uganda,18,Saud Islam,NN Odhiambo,B Masaba,,0,4,4,,,,31685231685
+2,Uganda,18,Saud Islam,NN Odhiambo,B Masaba,,0,1,1,,,,31685231685
+2,Uganda,18,B Masaba,NN Odhiambo,Saud Islam,,0,1,1,,,,31685231685
+2,Uganda,18,Saud Islam,NN Odhiambo,B Masaba,,0,0,0,bowled,Saud Islam,,31685231685
+2,Uganda,18,Bilal Hassun,NN Odhiambo,B Masaba,,0,1,1,run out,Bilal Hassun,IA Karim,31685231685
+2,Uganda,18,H Ssenyondo,NN Odhiambo,B Masaba,,0,0,0,caught,H Ssenyondo,E Otieno,31685231685

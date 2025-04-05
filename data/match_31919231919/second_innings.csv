@@ -1,0 +1,114 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Oman,0,Jatinder Singh,MR Adair,KH Prajapati,,0,2,2,,,,31919231919
+2,Oman,0,Jatinder Singh,MR Adair,KH Prajapati,,0,0,0,,,,31919231919
+2,Oman,0,Jatinder Singh,MR Adair,KH Prajapati,,0,1,1,,,,31919231919
+2,Oman,0,KH Prajapati,MR Adair,Jatinder Singh,,0,0,0,,,,31919231919
+2,Oman,0,KH Prajapati,MR Adair,Jatinder Singh,,0,4,4,,,,31919231919
+2,Oman,0,KH Prajapati,MR Adair,Jatinder Singh,,0,1,1,,,,31919231919
+2,Oman,1,KH Prajapati,J Little,Jatinder Singh,,0,0,0,,,,31919231919
+2,Oman,1,KH Prajapati,J Little,Jatinder Singh,,0,0,0,,,,31919231919
+2,Oman,1,KH Prajapati,J Little,Jatinder Singh,,0,0,0,,,,31919231919
+2,Oman,1,KH Prajapati,J Little,Jatinder Singh,,0,1,1,,,,31919231919
+2,Oman,1,Jatinder Singh,J Little,KH Prajapati,,0,0,0,,,,31919231919
+2,Oman,1,Jatinder Singh,J Little,KH Prajapati,legbyes,2,2,0,,,,31919231919
+2,Oman,2,KH Prajapati,MR Adair,Jatinder Singh,,0,0,0,,,,31919231919
+2,Oman,2,KH Prajapati,MR Adair,Jatinder Singh,,0,1,1,,,,31919231919
+2,Oman,2,Jatinder Singh,MR Adair,KH Prajapati,,0,0,0,,,,31919231919
+2,Oman,2,Jatinder Singh,MR Adair,KH Prajapati,,0,1,1,,,,31919231919
+2,Oman,2,KH Prajapati,MR Adair,Jatinder Singh,,0,0,0,caught,KH Prajapati,CA Young,31919231919
+2,Oman,2,Jatinder Singh,MR Adair,Shoaib Khan,,0,0,0,,,,31919231919
+2,Oman,3,Shoaib Khan,J Little,Jatinder Singh,,0,1,1,,,,31919231919
+2,Oman,3,Jatinder Singh,J Little,Shoaib Khan,,0,1,1,,,,31919231919
+2,Oman,3,Shoaib Khan,J Little,Jatinder Singh,,0,0,0,,,,31919231919
+2,Oman,3,Shoaib Khan,J Little,Jatinder Singh,,0,2,2,,,,31919231919
+2,Oman,3,Shoaib Khan,J Little,Jatinder Singh,,0,4,4,,,,31919231919
+2,Oman,3,Shoaib Khan,J Little,Jatinder Singh,,0,0,0,,,,31919231919
+2,Oman,4,Jatinder Singh,CA Young,Shoaib Khan,,0,1,1,,,,31919231919
+2,Oman,4,Shoaib Khan,CA Young,Jatinder Singh,,0,0,0,,,,31919231919
+2,Oman,4,Shoaib Khan,CA Young,Jatinder Singh,,0,1,1,,,,31919231919
+2,Oman,4,Jatinder Singh,CA Young,Shoaib Khan,,0,0,0,,,,31919231919
+2,Oman,4,Jatinder Singh,CA Young,Shoaib Khan,,0,1,1,,,,31919231919
+2,Oman,4,Shoaib Khan,CA Young,Jatinder Singh,,0,4,4,,,,31919231919
+2,Oman,5,Jatinder Singh,Simi Singh,Shoaib Khan,,0,0,0,lbw,Jatinder Singh,,31919231919
+2,Oman,5,Zeeshan Maqsood,Simi Singh,Shoaib Khan,,0,0,0,,,,31919231919
+2,Oman,5,Zeeshan Maqsood,Simi Singh,Shoaib Khan,,0,1,1,,,,31919231919
+2,Oman,5,Shoaib Khan,Simi Singh,Zeeshan Maqsood,,0,4,4,,,,31919231919
+2,Oman,5,Shoaib Khan,Simi Singh,Zeeshan Maqsood,,0,4,4,,,,31919231919
+2,Oman,5,Shoaib Khan,Simi Singh,Zeeshan Maqsood,,0,0,0,,,,31919231919
+2,Oman,6,Zeeshan Maqsood,AR McBrine,Shoaib Khan,,0,1,1,,,,31919231919
+2,Oman,6,Shoaib Khan,AR McBrine,Zeeshan Maqsood,,0,1,1,,,,31919231919
+2,Oman,6,Zeeshan Maqsood,AR McBrine,Shoaib Khan,,0,1,1,,,,31919231919
+2,Oman,6,Shoaib Khan,AR McBrine,Zeeshan Maqsood,,0,1,1,,,,31919231919
+2,Oman,6,Zeeshan Maqsood,AR McBrine,Shoaib Khan,,0,0,0,,,,31919231919
+2,Oman,6,Zeeshan Maqsood,AR McBrine,Shoaib Khan,,0,0,0,,,,31919231919
+2,Oman,7,Shoaib Khan,Simi Singh,Zeeshan Maqsood,,0,1,1,,,,31919231919
+2,Oman,7,Zeeshan Maqsood,Simi Singh,Shoaib Khan,,0,4,4,,,,31919231919
+2,Oman,7,Zeeshan Maqsood,Simi Singh,Shoaib Khan,,0,1,1,,,,31919231919
+2,Oman,7,Shoaib Khan,Simi Singh,Zeeshan Maqsood,,0,1,1,,,,31919231919
+2,Oman,7,Zeeshan Maqsood,Simi Singh,Shoaib Khan,,0,1,1,,,,31919231919
+2,Oman,7,Shoaib Khan,Simi Singh,Zeeshan Maqsood,,0,1,1,,,,31919231919
+2,Oman,8,Shoaib Khan,CA Young,Zeeshan Maqsood,,0,1,1,,,,31919231919
+2,Oman,8,Zeeshan Maqsood,CA Young,Shoaib Khan,,0,1,1,,,,31919231919
+2,Oman,8,Shoaib Khan,CA Young,Zeeshan Maqsood,,0,1,1,,,,31919231919
+2,Oman,8,Zeeshan Maqsood,CA Young,Shoaib Khan,,0,4,4,,,,31919231919
+2,Oman,8,Zeeshan Maqsood,CA Young,Shoaib Khan,,0,4,4,,,,31919231919
+2,Oman,8,Zeeshan Maqsood,CA Young,Shoaib Khan,,0,1,1,,,,31919231919
+2,Oman,9,Zeeshan Maqsood,AR McBrine,Shoaib Khan,,0,1,1,,,,31919231919
+2,Oman,9,Shoaib Khan,AR McBrine,Zeeshan Maqsood,,0,1,1,,,,31919231919
+2,Oman,9,Zeeshan Maqsood,AR McBrine,Shoaib Khan,,0,1,1,,,,31919231919
+2,Oman,9,Shoaib Khan,AR McBrine,Zeeshan Maqsood,,0,1,1,,,,31919231919
+2,Oman,9,Zeeshan Maqsood,AR McBrine,Shoaib Khan,,0,1,1,,,,31919231919
+2,Oman,9,Shoaib Khan,AR McBrine,Zeeshan Maqsood,,0,1,1,,,,31919231919
+2,Oman,10,Shoaib Khan,J Little,Zeeshan Maqsood,,0,0,0,caught,Shoaib Khan,L Tucker,31919231919
+2,Oman,10,Khurram Nawaz,J Little,Zeeshan Maqsood,,0,0,0,,,,31919231919
+2,Oman,10,Khurram Nawaz,J Little,Zeeshan Maqsood,,0,0,0,,,,31919231919
+2,Oman,10,Khurram Nawaz,J Little,Zeeshan Maqsood,,0,0,0,caught,Khurram Nawaz,L Tucker,31919231919
+2,Oman,10,Khawar Ali,J Little,Zeeshan Maqsood,,0,0,0,,,,31919231919
+2,Oman,10,Khawar Ali,J Little,Zeeshan Maqsood,,0,1,1,,,,31919231919
+2,Oman,11,Khawar Ali,AR McBrine,Zeeshan Maqsood,,0,0,0,,,,31919231919
+2,Oman,11,Khawar Ali,AR McBrine,Zeeshan Maqsood,,0,1,1,,,,31919231919
+2,Oman,11,Zeeshan Maqsood,AR McBrine,Khawar Ali,,0,1,1,,,,31919231919
+2,Oman,11,Khawar Ali,AR McBrine,Zeeshan Maqsood,,0,1,1,,,,31919231919
+2,Oman,11,Zeeshan Maqsood,AR McBrine,Khawar Ali,,0,0,0,,,,31919231919
+2,Oman,11,Zeeshan Maqsood,AR McBrine,Khawar Ali,,0,1,1,,,,31919231919
+2,Oman,12,Zeeshan Maqsood,CA Young,Khawar Ali,,0,1,1,,,,31919231919
+2,Oman,12,Khawar Ali,CA Young,Zeeshan Maqsood,,0,0,0,,,,31919231919
+2,Oman,12,Khawar Ali,CA Young,Zeeshan Maqsood,,0,1,1,,,,31919231919
+2,Oman,12,Zeeshan Maqsood,CA Young,Khawar Ali,,0,1,1,,,,31919231919
+2,Oman,12,Khawar Ali,CA Young,Zeeshan Maqsood,,0,6,6,,,,31919231919
+2,Oman,12,Khawar Ali,CA Young,Zeeshan Maqsood,wides,2,2,0,,,,31919231919
+2,Oman,12,Zeeshan Maqsood,CA Young,Khawar Ali,,0,0,0,,,,31919231919
+2,Oman,13,Khawar Ali,Simi Singh,Zeeshan Maqsood,,0,0,0,,,,31919231919
+2,Oman,13,Khawar Ali,Simi Singh,Zeeshan Maqsood,,0,0,0,lbw,Khawar Ali,,31919231919
+2,Oman,13,Naseem Khushi,Simi Singh,Zeeshan Maqsood,,0,0,0,,,,31919231919
+2,Oman,13,Naseem Khushi,Simi Singh,Zeeshan Maqsood,,0,0,0,,,,31919231919
+2,Oman,13,Naseem Khushi,Simi Singh,Zeeshan Maqsood,,0,1,1,,,,31919231919
+2,Oman,13,Zeeshan Maqsood,Simi Singh,Naseem Khushi,,0,1,1,,,,31919231919
+2,Oman,14,Zeeshan Maqsood,CA Young,Naseem Khushi,,0,1,1,,,,31919231919
+2,Oman,14,Naseem Khushi,CA Young,Zeeshan Maqsood,,0,0,0,,,,31919231919
+2,Oman,14,Naseem Khushi,CA Young,Zeeshan Maqsood,,0,0,0,caught,Naseem Khushi,AR McBrine,31919231919
+2,Oman,14,Zeeshan Maqsood,CA Young,Aamir Kaleem,,0,0,0,caught,Zeeshan Maqsood,Simi Singh,31919231919
+2,Oman,14,Fayyaz Butt,CA Young,Aamir Kaleem,,0,1,1,,,,31919231919
+2,Oman,14,Aamir Kaleem,CA Young,Fayyaz Butt,,0,0,0,,,,31919231919
+2,Oman,15,Fayyaz Butt,AR McBrine,Aamir Kaleem,,0,1,1,,,,31919231919
+2,Oman,15,Aamir Kaleem,AR McBrine,Fayyaz Butt,,0,0,0,stumped,Aamir Kaleem,L Tucker,31919231919
+2,Oman,15,Kaleemullah,AR McBrine,Fayyaz Butt,,0,2,2,,,,31919231919
+2,Oman,15,Kaleemullah,AR McBrine,Fayyaz Butt,,0,6,6,,,,31919231919
+2,Oman,15,Kaleemullah,AR McBrine,Fayyaz Butt,,0,0,0,caught,Kaleemullah,MR Adair,31919231919
+2,Oman,15,Fayyaz Butt,AR McBrine,Bilal Khan,,0,1,1,,,,31919231919
+2,Oman,16,Fayyaz Butt,J Little,Bilal Khan,,0,0,0,,,,31919231919
+2,Oman,16,Fayyaz Butt,J Little,Bilal Khan,,0,0,0,,,,31919231919
+2,Oman,16,Fayyaz Butt,J Little,Bilal Khan,,0,0,0,,,,31919231919
+2,Oman,16,Fayyaz Butt,J Little,Bilal Khan,,0,0,0,,,,31919231919
+2,Oman,16,Fayyaz Butt,J Little,Bilal Khan,,0,4,4,,,,31919231919
+2,Oman,16,Fayyaz Butt,J Little,Bilal Khan,,0,0,0,,,,31919231919
+2,Oman,17,Bilal Khan,MR Adair,Fayyaz Butt,wides,1,1,0,,,,31919231919
+2,Oman,17,Bilal Khan,MR Adair,Fayyaz Butt,,0,1,1,,,,31919231919
+2,Oman,17,Fayyaz Butt,MR Adair,Bilal Khan,,0,0,0,,,,31919231919
+2,Oman,17,Fayyaz Butt,MR Adair,Bilal Khan,,0,0,0,,,,31919231919
+2,Oman,17,Fayyaz Butt,MR Adair,Bilal Khan,,0,4,4,,,,31919231919
+2,Oman,17,Fayyaz Butt,MR Adair,Bilal Khan,,0,1,1,,,,31919231919
+2,Oman,17,Bilal Khan,MR Adair,Fayyaz Butt,,0,0,0,,,,31919231919
+2,Oman,18,Fayyaz Butt,Simi Singh,Bilal Khan,,0,0,0,,,,31919231919
+2,Oman,18,Fayyaz Butt,Simi Singh,Bilal Khan,,0,0,0,,,,31919231919
+2,Oman,18,Fayyaz Butt,Simi Singh,Bilal Khan,,0,0,0,caught,Fayyaz Butt,MR Adair,31919231919

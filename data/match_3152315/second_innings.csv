@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,South Africa,0,GC Smith,DBL Powell,HH Gibbs,,0,0,0,,,,3152315
+2,South Africa,0,GC Smith,DBL Powell,HH Gibbs,,0,1,1,,,,3152315
+2,South Africa,0,HH Gibbs,DBL Powell,GC Smith,,0,0,0,,,,3152315
+2,South Africa,0,HH Gibbs,DBL Powell,GC Smith,,0,0,0,,,,3152315
+2,South Africa,0,HH Gibbs,DBL Powell,GC Smith,,0,0,0,,,,3152315
+2,South Africa,0,HH Gibbs,DBL Powell,GC Smith,,0,0,0,,,,3152315
+2,South Africa,1,GC Smith,R Rampaul,HH Gibbs,,0,0,0,,,,3152315
+2,South Africa,1,GC Smith,R Rampaul,HH Gibbs,,0,0,0,,,,3152315
+2,South Africa,1,GC Smith,R Rampaul,HH Gibbs,legbyes,1,1,0,,,,3152315
+2,South Africa,1,HH Gibbs,R Rampaul,GC Smith,,0,1,1,,,,3152315
+2,South Africa,1,GC Smith,R Rampaul,HH Gibbs,,0,1,1,,,,3152315
+2,South Africa,1,HH Gibbs,R Rampaul,GC Smith,,0,4,4,,,,3152315
+2,South Africa,2,GC Smith,DBL Powell,HH Gibbs,,0,0,0,,,,3152315
+2,South Africa,2,GC Smith,DBL Powell,HH Gibbs,wides,1,1,0,,,,3152315
+2,South Africa,2,GC Smith,DBL Powell,HH Gibbs,,0,4,4,,,,3152315
+2,South Africa,2,GC Smith,DBL Powell,HH Gibbs,,0,0,0,,,,3152315
+2,South Africa,2,GC Smith,DBL Powell,HH Gibbs,,0,1,1,,,,3152315
+2,South Africa,2,HH Gibbs,DBL Powell,GC Smith,,0,0,0,,,,3152315
+2,South Africa,2,HH Gibbs,DBL Powell,GC Smith,,0,6,6,,,,3152315
+2,South Africa,3,GC Smith,R Rampaul,HH Gibbs,,0,6,6,,,,3152315
+2,South Africa,3,GC Smith,R Rampaul,HH Gibbs,,0,1,1,,,,3152315
+2,South Africa,3,HH Gibbs,R Rampaul,GC Smith,noballs,1,5,4,,,,3152315
+2,South Africa,3,HH Gibbs,R Rampaul,GC Smith,,0,3,3,,,,3152315
+2,South Africa,3,GC Smith,R Rampaul,HH Gibbs,,0,0,0,,,,3152315
+2,South Africa,3,GC Smith,R Rampaul,HH Gibbs,,0,0,0,,,,3152315
+2,South Africa,3,GC Smith,R Rampaul,HH Gibbs,,0,1,1,,,,3152315
+2,South Africa,4,GC Smith,DBL Powell,HH Gibbs,,0,4,4,,,,3152315
+2,South Africa,4,GC Smith,DBL Powell,HH Gibbs,wides,2,2,0,,,,3152315
+2,South Africa,4,HH Gibbs,DBL Powell,GC Smith,,0,1,1,,,,3152315
+2,South Africa,4,GC Smith,DBL Powell,HH Gibbs,wides,1,1,0,,,,3152315
+2,South Africa,4,GC Smith,DBL Powell,HH Gibbs,,0,4,4,,,,3152315
+2,South Africa,4,GC Smith,DBL Powell,HH Gibbs,,0,0,0,,,,3152315
+2,South Africa,4,GC Smith,DBL Powell,HH Gibbs,wides,1,1,0,,,,3152315
+2,South Africa,4,GC Smith,DBL Powell,HH Gibbs,,0,1,1,,,,3152315
+2,South Africa,4,HH Gibbs,DBL Powell,GC Smith,,0,0,0,,,,3152315
+2,South Africa,5,GC Smith,R Rampaul,HH Gibbs,,0,4,4,,,,3152315
+2,South Africa,5,GC Smith,R Rampaul,HH Gibbs,,0,0,0,caught,GC Smith,CH Gayle,3152315
+2,South Africa,5,AB de Villiers,R Rampaul,HH Gibbs,wides,1,1,0,,,,3152315
+2,South Africa,5,AB de Villiers,R Rampaul,HH Gibbs,,0,0,0,,,,3152315
+2,South Africa,5,AB de Villiers,R Rampaul,HH Gibbs,,0,1,1,,,,3152315
+2,South Africa,5,HH Gibbs,R Rampaul,AB de Villiers,,0,1,1,,,,3152315
+2,South Africa,5,AB de Villiers,R Rampaul,HH Gibbs,,0,2,2,,,,3152315
+2,South Africa,6,HH Gibbs,DBL Powell,AB de Villiers,,0,0,0,,,,3152315
+2,South Africa,6,HH Gibbs,DBL Powell,AB de Villiers,,0,0,0,,,,3152315
+2,South Africa,6,HH Gibbs,DBL Powell,AB de Villiers,,0,2,2,,,,3152315
+2,South Africa,6,HH Gibbs,DBL Powell,AB de Villiers,,0,4,4,,,,3152315
+2,South Africa,6,HH Gibbs,DBL Powell,AB de Villiers,legbyes,1,1,0,,,,3152315
+2,South Africa,6,AB de Villiers,DBL Powell,HH Gibbs,,0,1,1,,,,3152315
+2,South Africa,7,AB de Villiers,DR Smith,HH Gibbs,wides,1,1,0,,,,3152315
+2,South Africa,7,AB de Villiers,DR Smith,HH Gibbs,,0,6,6,,,,3152315
+2,South Africa,7,AB de Villiers,DR Smith,HH Gibbs,,0,4,4,,,,3152315
+2,South Africa,7,AB de Villiers,DR Smith,HH Gibbs,,0,1,1,,,,3152315
+2,South Africa,7,HH Gibbs,DR Smith,AB de Villiers,,0,0,0,,,,3152315
+2,South Africa,7,HH Gibbs,DR Smith,AB de Villiers,wides,1,1,0,,,,3152315
+2,South Africa,7,HH Gibbs,DR Smith,AB de Villiers,,0,1,1,,,,3152315
+2,South Africa,7,AB de Villiers,DR Smith,HH Gibbs,wides,5,5,0,,,,3152315
+2,South Africa,7,AB de Villiers,DR Smith,HH Gibbs,,0,1,1,,,,3152315
+2,South Africa,8,AB de Villiers,FH Edwards,HH Gibbs,wides,1,1,0,,,,3152315
+2,South Africa,8,AB de Villiers,FH Edwards,HH Gibbs,,0,0,0,caught,AB de Villiers,D Ramdin,3152315
+2,South Africa,8,HH Gibbs,FH Edwards,JM Kemp,,0,0,0,,,,3152315
+2,South Africa,8,HH Gibbs,FH Edwards,JM Kemp,,0,0,0,,,,3152315
+2,South Africa,8,HH Gibbs,FH Edwards,JM Kemp,wides,1,1,0,,,,3152315
+2,South Africa,8,HH Gibbs,FH Edwards,JM Kemp,,0,0,0,,,,3152315
+2,South Africa,8,HH Gibbs,FH Edwards,JM Kemp,,0,0,0,,,,3152315
+2,South Africa,8,HH Gibbs,FH Edwards,JM Kemp,,0,4,4,,,,3152315
+2,South Africa,9,JM Kemp,DJ Bravo,HH Gibbs,wides,1,1,0,,,,3152315
+2,South Africa,9,JM Kemp,DJ Bravo,HH Gibbs,,0,0,0,,,,3152315
+2,South Africa,9,JM Kemp,DJ Bravo,HH Gibbs,,0,1,1,,,,3152315
+2,South Africa,9,HH Gibbs,DJ Bravo,JM Kemp,,0,4,4,,,,3152315
+2,South Africa,9,HH Gibbs,DJ Bravo,JM Kemp,,0,2,2,,,,3152315
+2,South Africa,9,HH Gibbs,DJ Bravo,JM Kemp,,0,4,4,,,,3152315
+2,South Africa,9,HH Gibbs,DJ Bravo,JM Kemp,,0,1,1,,,,3152315
+2,South Africa,10,HH Gibbs,FH Edwards,JM Kemp,,0,0,0,,,,3152315
+2,South Africa,10,HH Gibbs,FH Edwards,JM Kemp,,0,0,0,,,,3152315
+2,South Africa,10,HH Gibbs,FH Edwards,JM Kemp,,0,0,0,,,,3152315
+2,South Africa,10,HH Gibbs,FH Edwards,JM Kemp,,0,1,1,,,,3152315
+2,South Africa,10,JM Kemp,FH Edwards,HH Gibbs,,0,1,1,,,,3152315
+2,South Africa,10,HH Gibbs,FH Edwards,JM Kemp,,0,0,0,,,,3152315
+2,South Africa,11,JM Kemp,DJ Bravo,HH Gibbs,,0,4,4,,,,3152315
+2,South Africa,11,JM Kemp,DJ Bravo,HH Gibbs,,0,1,1,,,,3152315
+2,South Africa,11,HH Gibbs,DJ Bravo,JM Kemp,,0,4,4,,,,3152315
+2,South Africa,11,HH Gibbs,DJ Bravo,JM Kemp,,0,1,1,,,,3152315
+2,South Africa,11,JM Kemp,DJ Bravo,HH Gibbs,legbyes,1,1,0,,,,3152315
+2,South Africa,11,HH Gibbs,DJ Bravo,JM Kemp,,0,1,1,,,,3152315
+2,South Africa,12,HH Gibbs,DR Smith,JM Kemp,wides,2,2,0,,,,3152315
+2,South Africa,12,JM Kemp,DR Smith,HH Gibbs,,0,4,4,,,,3152315
+2,South Africa,12,JM Kemp,DR Smith,HH Gibbs,,0,1,1,,,,3152315
+2,South Africa,12,HH Gibbs,DR Smith,JM Kemp,,0,4,4,,,,3152315
+2,South Africa,12,HH Gibbs,DR Smith,JM Kemp,,0,1,1,,,,3152315
+2,South Africa,12,JM Kemp,DR Smith,HH Gibbs,,0,1,1,,,,3152315
+2,South Africa,12,HH Gibbs,DR Smith,JM Kemp,wides,2,2,0,,,,3152315
+2,South Africa,12,JM Kemp,DR Smith,HH Gibbs,,0,2,2,,,,3152315
+2,South Africa,13,HH Gibbs,MN Samuels,JM Kemp,,0,1,1,,,,3152315
+2,South Africa,13,JM Kemp,MN Samuels,HH Gibbs,,0,4,4,,,,3152315
+2,South Africa,13,JM Kemp,MN Samuels,HH Gibbs,,0,4,4,,,,3152315
+2,South Africa,13,JM Kemp,MN Samuels,HH Gibbs,,0,1,1,,,,3152315
+2,South Africa,13,HH Gibbs,MN Samuels,JM Kemp,,0,1,1,,,,3152315
+2,South Africa,13,JM Kemp,MN Samuels,HH Gibbs,,0,0,0,,,,3152315
+2,South Africa,14,HH Gibbs,R Rampaul,JM Kemp,,0,4,4,,,,3152315
+2,South Africa,14,HH Gibbs,R Rampaul,JM Kemp,,0,4,4,,,,3152315
+2,South Africa,14,HH Gibbs,R Rampaul,JM Kemp,,0,1,1,,,,3152315
+2,South Africa,14,JM Kemp,R Rampaul,HH Gibbs,,0,0,0,,,,3152315
+2,South Africa,14,JM Kemp,R Rampaul,HH Gibbs,,0,6,6,,,,3152315
+2,South Africa,14,JM Kemp,R Rampaul,HH Gibbs,,0,6,6,,,,3152315
+2,South Africa,15,HH Gibbs,MN Samuels,JM Kemp,legbyes,1,1,0,,,,3152315
+2,South Africa,15,JM Kemp,MN Samuels,HH Gibbs,,0,1,1,,,,3152315
+2,South Africa,15,HH Gibbs,MN Samuels,JM Kemp,,0,0,0,,,,3152315
+2,South Africa,15,HH Gibbs,MN Samuels,JM Kemp,,0,4,4,,,,3152315
+2,South Africa,15,HH Gibbs,MN Samuels,JM Kemp,,0,4,4,,,,3152315
+2,South Africa,15,HH Gibbs,MN Samuels,JM Kemp,,0,1,1,,,,3152315
+2,South Africa,16,HH Gibbs,FH Edwards,JM Kemp,,0,1,1,,,,3152315
+2,South Africa,16,JM Kemp,FH Edwards,HH Gibbs,,0,4,4,,,,3152315
+2,South Africa,16,JM Kemp,FH Edwards,HH Gibbs,wides,1,1,0,,,,3152315
+2,South Africa,16,JM Kemp,FH Edwards,HH Gibbs,,0,2,2,,,,3152315
+2,South Africa,16,JM Kemp,FH Edwards,HH Gibbs,,0,2,2,,,,3152315
+2,South Africa,16,JM Kemp,FH Edwards,HH Gibbs,,0,1,1,,,,3152315
+2,South Africa,16,HH Gibbs,FH Edwards,JM Kemp,wides,1,1,0,,,,3152315
+2,South Africa,16,HH Gibbs,FH Edwards,JM Kemp,,0,1,1,,,,3152315
+2,South Africa,17,HH Gibbs,DJ Bravo,JM Kemp,,0,6,6,,,,3152315
+2,South Africa,17,HH Gibbs,DJ Bravo,JM Kemp,,0,4,4,,,,3152315
+2,South Africa,17,HH Gibbs,DJ Bravo,JM Kemp,,0,0,0,,,,3152315
+2,South Africa,17,HH Gibbs,DJ Bravo,JM Kemp,wides,1,1,0,,,,3152315
+2,South Africa,17,HH Gibbs,DJ Bravo,JM Kemp,,0,4,4,,,,3152315

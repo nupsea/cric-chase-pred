@@ -1,0 +1,109 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,England,0,DN Wyatt,JL Jonassen,AE Jones,,0,4,4,,,,380023800
+1,England,0,DN Wyatt,JL Jonassen,AE Jones,,0,2,2,,,,380023800
+1,England,0,DN Wyatt,JL Jonassen,AE Jones,,0,0,0,,,,380023800
+1,England,0,DN Wyatt,JL Jonassen,AE Jones,,0,0,0,caught,DN Wyatt,A Wellington,380023800
+1,England,0,TT Beaumont,JL Jonassen,AE Jones,,0,0,0,,,,380023800
+1,England,0,TT Beaumont,JL Jonassen,AE Jones,,0,1,1,,,,380023800
+1,England,1,TT Beaumont,ML Schutt,AE Jones,,0,0,0,,,,380023800
+1,England,1,TT Beaumont,ML Schutt,AE Jones,,0,4,4,,,,380023800
+1,England,1,TT Beaumont,ML Schutt,AE Jones,,0,1,1,,,,380023800
+1,England,1,AE Jones,ML Schutt,TT Beaumont,,0,1,1,,,,380023800
+1,England,1,TT Beaumont,ML Schutt,AE Jones,,0,1,1,,,,380023800
+1,England,1,AE Jones,ML Schutt,TT Beaumont,,0,1,1,,,,380023800
+1,England,2,AE Jones,EA Perry,TT Beaumont,,0,0,0,,,,380023800
+1,England,2,AE Jones,EA Perry,TT Beaumont,,0,0,0,,,,380023800
+1,England,2,AE Jones,EA Perry,TT Beaumont,,0,1,1,,,,380023800
+1,England,2,TT Beaumont,EA Perry,AE Jones,,0,0,0,,,,380023800
+1,England,2,TT Beaumont,EA Perry,AE Jones,,0,0,0,,,,380023800
+1,England,2,TT Beaumont,EA Perry,AE Jones,,0,4,4,,,,380023800
+1,England,3,AE Jones,DM Kimmince,TT Beaumont,,0,1,1,,,,380023800
+1,England,3,TT Beaumont,DM Kimmince,AE Jones,,0,4,4,,,,380023800
+1,England,3,TT Beaumont,DM Kimmince,AE Jones,wides,1,1,0,,,,380023800
+1,England,3,TT Beaumont,DM Kimmince,AE Jones,,0,2,2,,,,380023800
+1,England,3,TT Beaumont,DM Kimmince,AE Jones,,0,0,0,caught,TT Beaumont,AJ Healy,380023800
+1,England,3,NR Sciver,DM Kimmince,AE Jones,,0,0,0,,,,380023800
+1,England,3,NR Sciver,DM Kimmince,AE Jones,,0,1,1,,,,380023800
+1,England,4,NR Sciver,EA Perry,AE Jones,wides,1,1,0,,,,380023800
+1,England,4,NR Sciver,EA Perry,AE Jones,,0,0,0,,,,380023800
+1,England,4,NR Sciver,EA Perry,AE Jones,legbyes,1,1,0,,,,380023800
+1,England,4,AE Jones,EA Perry,NR Sciver,,0,0,0,,,,380023800
+1,England,4,AE Jones,EA Perry,NR Sciver,,0,0,0,caught,AE Jones,EJ Villani,380023800
+1,England,4,NR Sciver,EA Perry,HC Knight,,0,4,4,,,,380023800
+1,England,4,NR Sciver,EA Perry,HC Knight,,0,1,1,,,,380023800
+1,England,5,NR Sciver,ML Schutt,HC Knight,,0,0,0,,,,380023800
+1,England,5,NR Sciver,ML Schutt,HC Knight,,0,4,4,,,,380023800
+1,England,5,NR Sciver,ML Schutt,HC Knight,,0,0,0,caught,NR Sciver,MM Lanning,380023800
+1,England,5,FC Wilson,ML Schutt,HC Knight,,0,0,0,,,,380023800
+1,England,5,FC Wilson,ML Schutt,HC Knight,,0,0,0,,,,380023800
+1,England,5,FC Wilson,ML Schutt,HC Knight,,0,0,0,,,,380023800
+1,England,6,HC Knight,A Wellington,FC Wilson,,0,0,0,,,,380023800
+1,England,6,HC Knight,A Wellington,FC Wilson,,0,0,0,,,,380023800
+1,England,6,HC Knight,A Wellington,FC Wilson,,0,0,0,lbw,HC Knight,,380023800
+1,England,6,AN Davidson-Richards,A Wellington,FC Wilson,,0,1,1,,,,380023800
+1,England,6,FC Wilson,A Wellington,AN Davidson-Richards,,0,0,0,,,,380023800
+1,England,6,FC Wilson,A Wellington,AN Davidson-Richards,,0,1,1,,,,380023800
+1,England,7,FC Wilson,S Molineux,AN Davidson-Richards,,0,1,1,,,,380023800
+1,England,7,AN Davidson-Richards,S Molineux,FC Wilson,,0,0,0,,,,380023800
+1,England,7,AN Davidson-Richards,S Molineux,FC Wilson,,0,0,0,,,,380023800
+1,England,7,AN Davidson-Richards,S Molineux,FC Wilson,,0,0,0,,,,380023800
+1,England,7,AN Davidson-Richards,S Molineux,FC Wilson,,0,1,1,,,,380023800
+1,England,7,FC Wilson,S Molineux,AN Davidson-Richards,,0,0,0,,,,380023800
+1,England,8,AN Davidson-Richards,DM Kimmince,FC Wilson,,0,0,0,,,,380023800
+1,England,8,AN Davidson-Richards,DM Kimmince,FC Wilson,,0,1,1,,,,380023800
+1,England,8,FC Wilson,DM Kimmince,AN Davidson-Richards,,0,1,1,,,,380023800
+1,England,8,AN Davidson-Richards,DM Kimmince,FC Wilson,,0,0,0,,,,380023800
+1,England,8,AN Davidson-Richards,DM Kimmince,FC Wilson,,0,1,1,,,,380023800
+1,England,8,FC Wilson,DM Kimmince,AN Davidson-Richards,,0,2,2,,,,380023800
+1,England,9,AN Davidson-Richards,JL Jonassen,FC Wilson,,0,2,2,,,,380023800
+1,England,9,AN Davidson-Richards,JL Jonassen,FC Wilson,,0,1,1,,,,380023800
+1,England,9,FC Wilson,JL Jonassen,AN Davidson-Richards,,0,0,0,,,,380023800
+1,England,9,FC Wilson,JL Jonassen,AN Davidson-Richards,,0,4,4,,,,380023800
+1,England,9,FC Wilson,JL Jonassen,AN Davidson-Richards,,0,1,1,,,,380023800
+1,England,9,AN Davidson-Richards,JL Jonassen,FC Wilson,,0,1,1,,,,380023800
+1,England,10,AN Davidson-Richards,A Gardner,FC Wilson,,0,1,1,,,,380023800
+1,England,10,FC Wilson,A Gardner,AN Davidson-Richards,,0,1,1,,,,380023800
+1,England,10,AN Davidson-Richards,A Gardner,FC Wilson,,0,1,1,,,,380023800
+1,England,10,FC Wilson,A Gardner,AN Davidson-Richards,,0,0,0,,,,380023800
+1,England,10,FC Wilson,A Gardner,AN Davidson-Richards,,0,0,0,caught,FC Wilson,EA Perry,380023800
+1,England,10,AN Davidson-Richards,A Gardner,JL Gunn,,0,1,1,,,,380023800
+1,England,11,AN Davidson-Richards,EA Perry,JL Gunn,,0,1,1,,,,380023800
+1,England,11,JL Gunn,EA Perry,AN Davidson-Richards,,0,0,0,,,,380023800
+1,England,11,JL Gunn,EA Perry,AN Davidson-Richards,,0,4,4,,,,380023800
+1,England,11,JL Gunn,EA Perry,AN Davidson-Richards,,0,1,1,,,,380023800
+1,England,11,AN Davidson-Richards,EA Perry,JL Gunn,,0,4,4,,,,380023800
+1,England,11,AN Davidson-Richards,EA Perry,JL Gunn,,0,4,4,,,,380023800
+1,England,12,JL Gunn,JL Jonassen,AN Davidson-Richards,,0,0,0,,,,380023800
+1,England,12,JL Gunn,JL Jonassen,AN Davidson-Richards,,0,1,1,,,,380023800
+1,England,12,AN Davidson-Richards,JL Jonassen,JL Gunn,,0,1,1,,,,380023800
+1,England,12,JL Gunn,JL Jonassen,AN Davidson-Richards,,0,0,0,,,,380023800
+1,England,12,JL Gunn,JL Jonassen,AN Davidson-Richards,,0,1,1,,,,380023800
+1,England,12,AN Davidson-Richards,JL Jonassen,JL Gunn,,0,0,0,,,,380023800
+1,England,13,JL Gunn,S Molineux,AN Davidson-Richards,,0,4,4,,,,380023800
+1,England,13,JL Gunn,S Molineux,AN Davidson-Richards,,0,0,0,,,,380023800
+1,England,13,JL Gunn,S Molineux,AN Davidson-Richards,,0,1,1,,,,380023800
+1,England,13,AN Davidson-Richards,S Molineux,JL Gunn,,0,1,1,,,,380023800
+1,England,13,JL Gunn,S Molineux,AN Davidson-Richards,legbyes,1,1,0,,,,380023800
+1,England,13,AN Davidson-Richards,S Molineux,JL Gunn,,0,1,1,,,,380023800
+1,England,14,AN Davidson-Richards,DM Kimmince,JL Gunn,,0,1,1,,,,380023800
+1,England,14,JL Gunn,DM Kimmince,AN Davidson-Richards,,0,0,0,bowled,JL Gunn,,380023800
+1,England,14,D Hazell,DM Kimmince,AN Davidson-Richards,,0,0,0,,,,380023800
+1,England,14,D Hazell,DM Kimmince,AN Davidson-Richards,,0,0,0,,,,380023800
+1,England,14,D Hazell,DM Kimmince,AN Davidson-Richards,,0,0,0,bowled,D Hazell,,380023800
+1,England,14,S Ecclestone,DM Kimmince,AN Davidson-Richards,,0,1,1,,,,380023800
+1,England,15,S Ecclestone,JL Jonassen,AN Davidson-Richards,,0,0,0,,,,380023800
+1,England,15,S Ecclestone,JL Jonassen,AN Davidson-Richards,,0,0,0,,,,380023800
+1,England,15,S Ecclestone,JL Jonassen,AN Davidson-Richards,,0,1,1,,,,380023800
+1,England,15,AN Davidson-Richards,JL Jonassen,S Ecclestone,,0,0,0,caught,AN Davidson-Richards,RL Haynes,380023800
+1,England,15,S Ecclestone,JL Jonassen,NE Farrant,,0,0,0,,,,380023800
+1,England,15,S Ecclestone,JL Jonassen,NE Farrant,,0,1,1,,,,380023800
+1,England,16,S Ecclestone,DM Kimmince,NE Farrant,,0,0,0,,,,380023800
+1,England,16,S Ecclestone,DM Kimmince,NE Farrant,,0,1,1,,,,380023800
+1,England,16,NE Farrant,DM Kimmince,S Ecclestone,,0,1,1,,,,380023800
+1,England,16,S Ecclestone,DM Kimmince,NE Farrant,,0,0,0,,,,380023800
+1,England,16,S Ecclestone,DM Kimmince,NE Farrant,,0,1,1,,,,380023800
+1,England,16,NE Farrant,DM Kimmince,S Ecclestone,,0,1,1,,,,380023800
+1,England,17,NE Farrant,ML Schutt,S Ecclestone,,0,0,0,,,,380023800
+1,England,17,NE Farrant,ML Schutt,S Ecclestone,,0,0,0,,,,380023800
+1,England,17,NE Farrant,ML Schutt,S Ecclestone,,0,1,1,,,,380023800
+1,England,17,S Ecclestone,ML Schutt,NE Farrant,,0,0,0,bowled,S Ecclestone,,380023800

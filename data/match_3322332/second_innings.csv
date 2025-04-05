@@ -1,0 +1,97 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Bangladesh,0,Tamim Iqbal,WPUJC Vaas,Nazimuddin,,0,0,0,,,,3322332
+2,Bangladesh,0,Tamim Iqbal,WPUJC Vaas,Nazimuddin,,0,0,0,,,,3322332
+2,Bangladesh,0,Tamim Iqbal,WPUJC Vaas,Nazimuddin,,0,0,0,,,,3322332
+2,Bangladesh,0,Tamim Iqbal,WPUJC Vaas,Nazimuddin,,0,1,1,,,,3322332
+2,Bangladesh,0,Nazimuddin,WPUJC Vaas,Tamim Iqbal,,0,0,0,lbw,Nazimuddin,,3322332
+2,Bangladesh,0,Aftab Ahmed,WPUJC Vaas,Tamim Iqbal,,0,3,3,,,,3322332
+2,Bangladesh,1,Aftab Ahmed,CRD Fernando,Tamim Iqbal,,0,4,4,,,,3322332
+2,Bangladesh,1,Aftab Ahmed,CRD Fernando,Tamim Iqbal,,0,4,4,,,,3322332
+2,Bangladesh,1,Aftab Ahmed,CRD Fernando,Tamim Iqbal,,0,1,1,,,,3322332
+2,Bangladesh,1,Tamim Iqbal,CRD Fernando,Aftab Ahmed,,0,1,1,,,,3322332
+2,Bangladesh,1,Aftab Ahmed,CRD Fernando,Tamim Iqbal,,0,4,4,,,,3322332
+2,Bangladesh,1,Aftab Ahmed,CRD Fernando,Tamim Iqbal,,0,1,1,,,,3322332
+2,Bangladesh,2,Aftab Ahmed,WPUJC Vaas,Tamim Iqbal,,0,0,0,,,,3322332
+2,Bangladesh,2,Aftab Ahmed,WPUJC Vaas,Tamim Iqbal,,0,1,1,,,,3322332
+2,Bangladesh,2,Tamim Iqbal,WPUJC Vaas,Aftab Ahmed,,0,0,0,,,,3322332
+2,Bangladesh,2,Tamim Iqbal,WPUJC Vaas,Aftab Ahmed,,0,0,0,,,,3322332
+2,Bangladesh,2,Tamim Iqbal,WPUJC Vaas,Aftab Ahmed,,0,1,1,,,,3322332
+2,Bangladesh,2,Aftab Ahmed,WPUJC Vaas,Tamim Iqbal,,0,0,0,,,,3322332
+2,Bangladesh,3,Tamim Iqbal,CRD Fernando,Aftab Ahmed,,0,0,0,,,,3322332
+2,Bangladesh,3,Tamim Iqbal,CRD Fernando,Aftab Ahmed,,0,0,0,caught,Tamim Iqbal,SL Malinga,3322332
+2,Bangladesh,3,Aftab Ahmed,CRD Fernando,Mohammad Ashraful,,0,0,0,,,,3322332
+2,Bangladesh,3,Aftab Ahmed,CRD Fernando,Mohammad Ashraful,,0,0,0,bowled,Aftab Ahmed,,3322332
+2,Bangladesh,3,Shakib Al Hasan,CRD Fernando,Mohammad Ashraful,,0,0,0,,,,3322332
+2,Bangladesh,3,Shakib Al Hasan,CRD Fernando,Mohammad Ashraful,,0,0,0,,,,3322332
+2,Bangladesh,4,Mohammad Ashraful,WPUJC Vaas,Shakib Al Hasan,,0,0,0,,,,3322332
+2,Bangladesh,4,Mohammad Ashraful,WPUJC Vaas,Shakib Al Hasan,,0,2,2,,,,3322332
+2,Bangladesh,4,Mohammad Ashraful,WPUJC Vaas,Shakib Al Hasan,,0,1,1,,,,3322332
+2,Bangladesh,4,Shakib Al Hasan,WPUJC Vaas,Mohammad Ashraful,,0,1,1,,,,3322332
+2,Bangladesh,4,Mohammad Ashraful,WPUJC Vaas,Shakib Al Hasan,,0,0,0,,,,3322332
+2,Bangladesh,4,Mohammad Ashraful,WPUJC Vaas,Shakib Al Hasan,,0,0,0,,,,3322332
+2,Bangladesh,5,Shakib Al Hasan,CRD Fernando,Mohammad Ashraful,,0,0,0,,,,3322332
+2,Bangladesh,5,Shakib Al Hasan,CRD Fernando,Mohammad Ashraful,,0,0,0,,,,3322332
+2,Bangladesh,5,Shakib Al Hasan,CRD Fernando,Mohammad Ashraful,,0,4,4,,,,3322332
+2,Bangladesh,5,Shakib Al Hasan,CRD Fernando,Mohammad Ashraful,,0,1,1,,,,3322332
+2,Bangladesh,5,Mohammad Ashraful,CRD Fernando,Shakib Al Hasan,,0,1,1,,,,3322332
+2,Bangladesh,5,Shakib Al Hasan,CRD Fernando,Mohammad Ashraful,,0,0,0,,,,3322332
+2,Bangladesh,6,Mohammad Ashraful,WPUJC Vaas,Shakib Al Hasan,,0,0,0,,,,3322332
+2,Bangladesh,6,Mohammad Ashraful,WPUJC Vaas,Shakib Al Hasan,,0,0,0,caught,Mohammad Ashraful,TM Dilshan,3322332
+2,Bangladesh,6,Shakib Al Hasan,WPUJC Vaas,Nadif Chowdhury,,0,0,0,,,,3322332
+2,Bangladesh,6,Shakib Al Hasan,WPUJC Vaas,Nadif Chowdhury,,0,1,1,,,,3322332
+2,Bangladesh,6,Nadif Chowdhury,WPUJC Vaas,Shakib Al Hasan,,0,2,2,,,,3322332
+2,Bangladesh,6,Nadif Chowdhury,WPUJC Vaas,Shakib Al Hasan,,0,1,1,,,,3322332
+2,Bangladesh,7,Nadif Chowdhury,MF Maharoof,Shakib Al Hasan,,0,0,0,,,,3322332
+2,Bangladesh,7,Nadif Chowdhury,MF Maharoof,Shakib Al Hasan,,0,1,1,,,,3322332
+2,Bangladesh,7,Shakib Al Hasan,MF Maharoof,Nadif Chowdhury,,0,1,1,,,,3322332
+2,Bangladesh,7,Nadif Chowdhury,MF Maharoof,Shakib Al Hasan,,0,0,0,,,,3322332
+2,Bangladesh,7,Nadif Chowdhury,MF Maharoof,Shakib Al Hasan,,0,1,1,,,,3322332
+2,Bangladesh,7,Shakib Al Hasan,MF Maharoof,Nadif Chowdhury,,0,1,1,,,,3322332
+2,Bangladesh,8,Shakib Al Hasan,TM Dilshan,Nadif Chowdhury,,0,1,1,run out,Nadif Chowdhury,TM Dilshan,3322332
+2,Bangladesh,8,Shakib Al Hasan,TM Dilshan,Mahmudullah,,0,4,4,,,,3322332
+2,Bangladesh,8,Shakib Al Hasan,TM Dilshan,Mahmudullah,,0,0,0,,,,3322332
+2,Bangladesh,8,Shakib Al Hasan,TM Dilshan,Mahmudullah,,0,2,2,,,,3322332
+2,Bangladesh,8,Shakib Al Hasan,TM Dilshan,Mahmudullah,,0,1,1,,,,3322332
+2,Bangladesh,8,Mahmudullah,TM Dilshan,Shakib Al Hasan,,0,1,1,,,,3322332
+2,Bangladesh,9,Mahmudullah,MF Maharoof,Shakib Al Hasan,,0,1,1,,,,3322332
+2,Bangladesh,9,Shakib Al Hasan,MF Maharoof,Mahmudullah,,0,1,1,,,,3322332
+2,Bangladesh,9,Mahmudullah,MF Maharoof,Shakib Al Hasan,,0,0,0,,,,3322332
+2,Bangladesh,9,Mahmudullah,MF Maharoof,Shakib Al Hasan,,0,2,2,,,,3322332
+2,Bangladesh,9,Mahmudullah,MF Maharoof,Shakib Al Hasan,,0,1,1,,,,3322332
+2,Bangladesh,9,Shakib Al Hasan,MF Maharoof,Mahmudullah,,0,0,0,bowled,Shakib Al Hasan,,3322332
+2,Bangladesh,10,Mahmudullah,SL Malinga,Mashrafe Mortaza,,0,0,0,,,,3322332
+2,Bangladesh,10,Mahmudullah,SL Malinga,Mashrafe Mortaza,,0,1,1,,,,3322332
+2,Bangladesh,10,Mashrafe Mortaza,SL Malinga,Mahmudullah,,0,0,0,,,,3322332
+2,Bangladesh,10,Mashrafe Mortaza,SL Malinga,Mahmudullah,,0,1,1,,,,3322332
+2,Bangladesh,10,Mahmudullah,SL Malinga,Mashrafe Mortaza,,0,0,0,,,,3322332
+2,Bangladesh,10,Mahmudullah,SL Malinga,Mashrafe Mortaza,,0,0,0,,,,3322332
+2,Bangladesh,11,Mashrafe Mortaza,MF Maharoof,Mahmudullah,,0,0,0,,,,3322332
+2,Bangladesh,11,Mashrafe Mortaza,MF Maharoof,Mahmudullah,,0,4,4,,,,3322332
+2,Bangladesh,11,Mashrafe Mortaza,MF Maharoof,Mahmudullah,,0,2,2,,,,3322332
+2,Bangladesh,11,Mashrafe Mortaza,MF Maharoof,Mahmudullah,,0,0,0,,,,3322332
+2,Bangladesh,11,Mashrafe Mortaza,MF Maharoof,Mahmudullah,,0,0,0,,,,3322332
+2,Bangladesh,11,Mashrafe Mortaza,MF Maharoof,Mahmudullah,,0,1,1,,,,3322332
+2,Bangladesh,12,Mashrafe Mortaza,SL Malinga,Mahmudullah,,0,0,0,,,,3322332
+2,Bangladesh,12,Mashrafe Mortaza,SL Malinga,Mahmudullah,,0,0,0,,,,3322332
+2,Bangladesh,12,Mashrafe Mortaza,SL Malinga,Mahmudullah,,0,4,4,,,,3322332
+2,Bangladesh,12,Mashrafe Mortaza,SL Malinga,Mahmudullah,,0,0,0,bowled,Mashrafe Mortaza,,3322332
+2,Bangladesh,12,Mushfiqur Rahim,SL Malinga,Mahmudullah,,0,1,1,,,,3322332
+2,Bangladesh,12,Mahmudullah,SL Malinga,Mushfiqur Rahim,,0,1,1,run out,Mushfiqur Rahim,KC Sangakkara,3322332
+2,Bangladesh,12,Mahmudullah,SL Malinga,Abdur Razzak,legbyes,1,1,0,,,,3322332
+2,Bangladesh,13,Mahmudullah,ST Jayasuriya,Abdur Razzak,,0,1,1,,,,3322332
+2,Bangladesh,13,Abdur Razzak,ST Jayasuriya,Mahmudullah,,0,0,0,,,,3322332
+2,Bangladesh,13,Abdur Razzak,ST Jayasuriya,Mahmudullah,,0,0,0,,,,3322332
+2,Bangladesh,13,Abdur Razzak,ST Jayasuriya,Mahmudullah,,0,0,0,,,,3322332
+2,Bangladesh,13,Abdur Razzak,ST Jayasuriya,Mahmudullah,,0,0,0,,,,3322332
+2,Bangladesh,13,Abdur Razzak,ST Jayasuriya,Mahmudullah,,0,1,1,,,,3322332
+2,Bangladesh,14,Abdur Razzak,TM Dilshan,Mahmudullah,,0,1,1,,,,3322332
+2,Bangladesh,14,Mahmudullah,TM Dilshan,Abdur Razzak,,0,1,1,,,,3322332
+2,Bangladesh,14,Abdur Razzak,TM Dilshan,Mahmudullah,,0,0,0,,,,3322332
+2,Bangladesh,14,Abdur Razzak,TM Dilshan,Mahmudullah,,0,1,1,,,,3322332
+2,Bangladesh,14,Mahmudullah,TM Dilshan,Abdur Razzak,,0,6,6,,,,3322332
+2,Bangladesh,14,Mahmudullah,TM Dilshan,Abdur Razzak,,0,1,1,,,,3322332
+2,Bangladesh,15,Mahmudullah,ST Jayasuriya,Abdur Razzak,,0,0,0,caught,Mahmudullah,J Mubarak,3322332
+2,Bangladesh,15,Abdur Razzak,ST Jayasuriya,Syed Rasel,,0,0,0,,,,3322332
+2,Bangladesh,15,Abdur Razzak,ST Jayasuriya,Syed Rasel,,0,0,0,,,,3322332
+2,Bangladesh,15,Abdur Razzak,ST Jayasuriya,Syed Rasel,,0,2,2,,,,3322332
+2,Bangladesh,15,Abdur Razzak,ST Jayasuriya,Syed Rasel,,0,0,0,caught,Abdur Razzak,KC Sangakkara,3322332

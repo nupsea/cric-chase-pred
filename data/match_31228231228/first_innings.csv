@@ -1,0 +1,139 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Hong Kong,0,Bella Poon,N Tokizawa,Y Daswani,,0,0,0,,,,31228231228
+1,Hong Kong,0,Bella Poon,N Tokizawa,Y Daswani,,0,0,0,caught,Bella Poon,A Kanada,31228231228
+1,Hong Kong,0,Y Daswani,N Tokizawa,YS To,,0,0,0,,,,31228231228
+1,Hong Kong,0,Y Daswani,N Tokizawa,YS To,,0,1,1,,,,31228231228
+1,Hong Kong,0,YS To,N Tokizawa,Y Daswani,,0,1,1,,,,31228231228
+1,Hong Kong,0,Y Daswani,N Tokizawa,YS To,wides,1,1,0,,,,31228231228
+1,Hong Kong,0,Y Daswani,N Tokizawa,YS To,,0,0,0,run out,Y Daswani,,31228231228
+1,Hong Kong,1,YS To,M Kanno,KY Chan,,0,0,0,,,,31228231228
+1,Hong Kong,1,YS To,M Kanno,KY Chan,,0,1,1,,,,31228231228
+1,Hong Kong,1,KY Chan,M Kanno,YS To,,0,0,0,,,,31228231228
+1,Hong Kong,1,KY Chan,M Kanno,YS To,,0,0,0,caught,KY Chan,M Shiraishi,31228231228
+1,Hong Kong,1,YS To,M Kanno,M Hill,wides,1,1,0,,,,31228231228
+1,Hong Kong,1,YS To,M Kanno,M Hill,,0,0,0,,,,31228231228
+1,Hong Kong,1,YS To,M Kanno,M Hill,,0,1,1,,,,31228231228
+1,Hong Kong,2,YS To,N Tokizawa,M Hill,,0,0,0,,,,31228231228
+1,Hong Kong,2,YS To,N Tokizawa,M Hill,,0,0,0,,,,31228231228
+1,Hong Kong,2,YS To,N Tokizawa,M Hill,,0,0,0,,,,31228231228
+1,Hong Kong,2,YS To,N Tokizawa,M Hill,,0,1,1,,,,31228231228
+1,Hong Kong,2,M Hill,N Tokizawa,YS To,,0,0,0,,,,31228231228
+1,Hong Kong,2,M Hill,N Tokizawa,YS To,,0,0,0,,,,31228231228
+1,Hong Kong,3,YS To,M Kanno,M Hill,,0,0,0,,,,31228231228
+1,Hong Kong,3,YS To,M Kanno,M Hill,,0,0,0,,,,31228231228
+1,Hong Kong,3,YS To,M Kanno,M Hill,,0,0,0,,,,31228231228
+1,Hong Kong,3,YS To,M Kanno,M Hill,,0,0,0,,,,31228231228
+1,Hong Kong,3,YS To,M Kanno,M Hill,,0,0,0,,,,31228231228
+1,Hong Kong,3,YS To,M Kanno,M Hill,,0,0,0,,,,31228231228
+1,Hong Kong,4,M Hill,N Tokizawa,YS To,,0,1,1,,,,31228231228
+1,Hong Kong,4,YS To,N Tokizawa,M Hill,,0,2,2,,,,31228231228
+1,Hong Kong,4,YS To,N Tokizawa,M Hill,,0,1,1,,,,31228231228
+1,Hong Kong,4,M Hill,N Tokizawa,YS To,,0,0,0,,,,31228231228
+1,Hong Kong,4,M Hill,N Tokizawa,YS To,,0,2,2,,,,31228231228
+1,Hong Kong,4,M Hill,N Tokizawa,YS To,,0,1,1,,,,31228231228
+1,Hong Kong,5,M Hill,M Kanno,YS To,,0,0,0,,,,31228231228
+1,Hong Kong,5,M Hill,M Kanno,YS To,,0,0,0,,,,31228231228
+1,Hong Kong,5,M Hill,M Kanno,YS To,,0,4,4,,,,31228231228
+1,Hong Kong,5,M Hill,M Kanno,YS To,wides,1,1,0,,,,31228231228
+1,Hong Kong,5,M Hill,M Kanno,YS To,,0,0,0,lbw,M Hill,,31228231228
+1,Hong Kong,5,Shanzeen Shahzad,M Kanno,YS To,,0,0,0,,,,31228231228
+1,Hong Kong,5,Shanzeen Shahzad,M Kanno,YS To,,0,0,0,,,,31228231228
+1,Hong Kong,6,YS To,S Miyaji,Shanzeen Shahzad,,0,1,1,,,,31228231228
+1,Hong Kong,6,Shanzeen Shahzad,S Miyaji,YS To,,0,1,1,,,,31228231228
+1,Hong Kong,6,YS To,S Miyaji,Shanzeen Shahzad,,0,2,2,,,,31228231228
+1,Hong Kong,6,YS To,S Miyaji,Shanzeen Shahzad,,0,1,1,,,,31228231228
+1,Hong Kong,6,Shanzeen Shahzad,S Miyaji,YS To,,0,1,1,,,,31228231228
+1,Hong Kong,6,YS To,S Miyaji,Shanzeen Shahzad,,0,0,0,caught,YS To,A Kano,31228231228
+1,Hong Kong,7,Shanzeen Shahzad,K Nanno,Ruchitha Venkatesh,wides,1,1,0,,,,31228231228
+1,Hong Kong,7,Shanzeen Shahzad,K Nanno,Ruchitha Venkatesh,wides,1,1,0,,,,31228231228
+1,Hong Kong,7,Shanzeen Shahzad,K Nanno,Ruchitha Venkatesh,wides,1,1,0,,,,31228231228
+1,Hong Kong,7,Shanzeen Shahzad,K Nanno,Ruchitha Venkatesh,,0,0,0,bowled,Shanzeen Shahzad,,31228231228
+1,Hong Kong,7,M Yousaf,K Nanno,Ruchitha Venkatesh,,0,0,0,,,,31228231228
+1,Hong Kong,7,M Yousaf,K Nanno,Ruchitha Venkatesh,wides,1,1,0,,,,31228231228
+1,Hong Kong,7,M Yousaf,K Nanno,Ruchitha Venkatesh,,0,0,0,,,,31228231228
+1,Hong Kong,7,M Yousaf,K Nanno,Ruchitha Venkatesh,,0,1,1,,,,31228231228
+1,Hong Kong,7,Ruchitha Venkatesh,K Nanno,M Yousaf,,0,0,0,,,,31228231228
+1,Hong Kong,7,Ruchitha Venkatesh,K Nanno,M Yousaf,,0,1,1,,,,31228231228
+1,Hong Kong,8,Ruchitha Venkatesh,S Miyaji,M Yousaf,,0,1,1,,,,31228231228
+1,Hong Kong,8,M Yousaf,S Miyaji,Ruchitha Venkatesh,,0,0,0,,,,31228231228
+1,Hong Kong,8,M Yousaf,S Miyaji,Ruchitha Venkatesh,,0,0,0,,,,31228231228
+1,Hong Kong,8,M Yousaf,S Miyaji,Ruchitha Venkatesh,,0,1,1,,,,31228231228
+1,Hong Kong,8,Ruchitha Venkatesh,S Miyaji,M Yousaf,,0,0,0,,,,31228231228
+1,Hong Kong,8,Ruchitha Venkatesh,S Miyaji,M Yousaf,,0,2,2,,,,31228231228
+1,Hong Kong,9,M Yousaf,M Yanagida,Ruchitha Venkatesh,wides,1,1,0,,,,31228231228
+1,Hong Kong,9,M Yousaf,M Yanagida,Ruchitha Venkatesh,,0,0,0,,,,31228231228
+1,Hong Kong,9,M Yousaf,M Yanagida,Ruchitha Venkatesh,,0,1,1,,,,31228231228
+1,Hong Kong,9,Ruchitha Venkatesh,M Yanagida,M Yousaf,,0,0,0,,,,31228231228
+1,Hong Kong,9,Ruchitha Venkatesh,M Yanagida,M Yousaf,,0,0,0,,,,31228231228
+1,Hong Kong,9,Ruchitha Venkatesh,M Yanagida,M Yousaf,,0,0,0,,,,31228231228
+1,Hong Kong,9,Ruchitha Venkatesh,M Yanagida,M Yousaf,,0,0,0,,,,31228231228
+1,Hong Kong,10,M Yousaf,S Miyaji,Ruchitha Venkatesh,,0,1,1,,,,31228231228
+1,Hong Kong,10,Ruchitha Venkatesh,S Miyaji,M Yousaf,,0,0,0,,,,31228231228
+1,Hong Kong,10,Ruchitha Venkatesh,S Miyaji,M Yousaf,,0,0,0,,,,31228231228
+1,Hong Kong,10,Ruchitha Venkatesh,S Miyaji,M Yousaf,,0,1,1,,,,31228231228
+1,Hong Kong,10,M Yousaf,S Miyaji,Ruchitha Venkatesh,,0,0,0,,,,31228231228
+1,Hong Kong,10,M Yousaf,S Miyaji,Ruchitha Venkatesh,,0,0,0,,,,31228231228
+1,Hong Kong,11,Ruchitha Venkatesh,M Yanagida,M Yousaf,noballs,1,2,1,,,,31228231228
+1,Hong Kong,11,M Yousaf,M Yanagida,Ruchitha Venkatesh,,0,1,1,,,,31228231228
+1,Hong Kong,11,Ruchitha Venkatesh,M Yanagida,M Yousaf,,0,0,0,,,,31228231228
+1,Hong Kong,11,Ruchitha Venkatesh,M Yanagida,M Yousaf,noballs,1,1,0,,,,31228231228
+1,Hong Kong,11,Ruchitha Venkatesh,M Yanagida,M Yousaf,,0,0,0,,,,31228231228
+1,Hong Kong,11,Ruchitha Venkatesh,M Yanagida,M Yousaf,,0,1,1,,,,31228231228
+1,Hong Kong,11,M Yousaf,M Yanagida,Ruchitha Venkatesh,,0,0,0,,,,31228231228
+1,Hong Kong,11,M Yousaf,M Yanagida,Ruchitha Venkatesh,,0,0,0,,,,31228231228
+1,Hong Kong,12,Ruchitha Venkatesh,S Miyaji,M Yousaf,,0,4,4,,,,31228231228
+1,Hong Kong,12,Ruchitha Venkatesh,S Miyaji,M Yousaf,,0,0,0,,,,31228231228
+1,Hong Kong,12,Ruchitha Venkatesh,S Miyaji,M Yousaf,,0,0,0,,,,31228231228
+1,Hong Kong,12,Ruchitha Venkatesh,S Miyaji,M Yousaf,,0,0,0,,,,31228231228
+1,Hong Kong,12,Ruchitha Venkatesh,S Miyaji,M Yousaf,,0,0,0,,,,31228231228
+1,Hong Kong,12,Ruchitha Venkatesh,S Miyaji,M Yousaf,,0,0,0,,,,31228231228
+1,Hong Kong,13,M Yousaf,M Kanno,Ruchitha Venkatesh,,0,1,1,,,,31228231228
+1,Hong Kong,13,Ruchitha Venkatesh,M Kanno,M Yousaf,wides,1,1,0,,,,31228231228
+1,Hong Kong,13,Ruchitha Venkatesh,M Kanno,M Yousaf,,0,2,2,,,,31228231228
+1,Hong Kong,13,Ruchitha Venkatesh,M Kanno,M Yousaf,,0,0,0,,,,31228231228
+1,Hong Kong,13,Ruchitha Venkatesh,M Kanno,M Yousaf,,0,1,1,,,,31228231228
+1,Hong Kong,13,M Yousaf,M Kanno,Ruchitha Venkatesh,,0,0,0,,,,31228231228
+1,Hong Kong,13,M Yousaf,M Kanno,Ruchitha Venkatesh,,0,1,1,,,,31228231228
+1,Hong Kong,14,M Yousaf,M Yanagida,Ruchitha Venkatesh,,0,1,1,,,,31228231228
+1,Hong Kong,14,Ruchitha Venkatesh,M Yanagida,M Yousaf,,0,1,1,,,,31228231228
+1,Hong Kong,14,M Yousaf,M Yanagida,Ruchitha Venkatesh,,0,2,2,,,,31228231228
+1,Hong Kong,14,M Yousaf,M Yanagida,Ruchitha Venkatesh,,0,0,0,,,,31228231228
+1,Hong Kong,14,M Yousaf,M Yanagida,Ruchitha Venkatesh,,0,0,0,caught,M Yousaf,A Kanada,31228231228
+1,Hong Kong,14,Ruchitha Venkatesh,M Yanagida,Hiu Ying Cheung,,0,0,0,,,,31228231228
+1,Hong Kong,15,Hiu Ying Cheung,R Endo,Ruchitha Venkatesh,,0,1,1,,,,31228231228
+1,Hong Kong,15,Ruchitha Venkatesh,R Endo,Hiu Ying Cheung,wides,1,1,0,,,,31228231228
+1,Hong Kong,15,Ruchitha Venkatesh,R Endo,Hiu Ying Cheung,,0,1,1,,,,31228231228
+1,Hong Kong,15,Hiu Ying Cheung,R Endo,Ruchitha Venkatesh,,0,0,0,,,,31228231228
+1,Hong Kong,15,Hiu Ying Cheung,R Endo,Ruchitha Venkatesh,,0,0,0,,,,31228231228
+1,Hong Kong,15,Hiu Ying Cheung,R Endo,Ruchitha Venkatesh,,0,4,4,,,,31228231228
+1,Hong Kong,15,Hiu Ying Cheung,R Endo,Ruchitha Venkatesh,wides,3,3,0,,,,31228231228
+1,Hong Kong,15,Hiu Ying Cheung,R Endo,Ruchitha Venkatesh,noballs,1,2,1,,,,31228231228
+1,Hong Kong,15,Ruchitha Venkatesh,R Endo,Hiu Ying Cheung,,0,1,1,,,,31228231228
+1,Hong Kong,16,Ruchitha Venkatesh,M Yanagida,Hiu Ying Cheung,,0,2,2,,,,31228231228
+1,Hong Kong,16,Ruchitha Venkatesh,M Yanagida,Hiu Ying Cheung,,0,0,0,,,,31228231228
+1,Hong Kong,16,Ruchitha Venkatesh,M Yanagida,Hiu Ying Cheung,,0,0,0,,,,31228231228
+1,Hong Kong,16,Ruchitha Venkatesh,M Yanagida,Hiu Ying Cheung,wides,1,1,0,,,,31228231228
+1,Hong Kong,16,Ruchitha Venkatesh,M Yanagida,Hiu Ying Cheung,,0,1,1,,,,31228231228
+1,Hong Kong,16,Hiu Ying Cheung,M Yanagida,Ruchitha Venkatesh,,0,0,0,,,,31228231228
+1,Hong Kong,16,Hiu Ying Cheung,M Yanagida,Ruchitha Venkatesh,,0,0,0,,,,31228231228
+1,Hong Kong,17,Ruchitha Venkatesh,A Kanada,Hiu Ying Cheung,,0,2,2,,,,31228231228
+1,Hong Kong,17,Ruchitha Venkatesh,A Kanada,Hiu Ying Cheung,,0,1,1,,,,31228231228
+1,Hong Kong,17,Hiu Ying Cheung,A Kanada,Ruchitha Venkatesh,,0,1,1,,,,31228231228
+1,Hong Kong,17,Ruchitha Venkatesh,A Kanada,Hiu Ying Cheung,,0,0,0,run out,Hiu Ying Cheung,,31228231228
+1,Hong Kong,17,Ruchitha Venkatesh,A Kanada,Chan Ka Man,,0,0,0,,,,31228231228
+1,Hong Kong,17,Ruchitha Venkatesh,A Kanada,Chan Ka Man,,0,1,1,,,,31228231228
+1,Hong Kong,18,Ruchitha Venkatesh,N Tokizawa,Chan Ka Man,wides,1,1,0,,,,31228231228
+1,Hong Kong,18,Ruchitha Venkatesh,N Tokizawa,Chan Ka Man,,0,1,1,,,,31228231228
+1,Hong Kong,18,Chan Ka Man,N Tokizawa,Ruchitha Venkatesh,,0,0,0,,,,31228231228
+1,Hong Kong,18,Chan Ka Man,N Tokizawa,Ruchitha Venkatesh,,0,0,0,,,,31228231228
+1,Hong Kong,18,Chan Ka Man,N Tokizawa,Ruchitha Venkatesh,,0,0,0,,,,31228231228
+1,Hong Kong,18,Chan Ka Man,N Tokizawa,Ruchitha Venkatesh,,0,4,4,,,,31228231228
+1,Hong Kong,18,Chan Ka Man,N Tokizawa,Ruchitha Venkatesh,wides,1,1,0,,,,31228231228
+1,Hong Kong,18,Chan Ka Man,N Tokizawa,Ruchitha Venkatesh,,0,1,1,,,,31228231228
+1,Hong Kong,19,Chan Ka Man,A Kanada,Ruchitha Venkatesh,,0,0,0,,,,31228231228
+1,Hong Kong,19,Chan Ka Man,A Kanada,Ruchitha Venkatesh,,0,0,0,lbw,Chan Ka Man,,31228231228
+1,Hong Kong,19,M Wai Siu,A Kanada,Ruchitha Venkatesh,wides,1,1,0,,,,31228231228
+1,Hong Kong,19,M Wai Siu,A Kanada,Ruchitha Venkatesh,,0,0,0,,,,31228231228
+1,Hong Kong,19,M Wai Siu,A Kanada,Ruchitha Venkatesh,wides,1,1,0,,,,31228231228
+1,Hong Kong,19,M Wai Siu,A Kanada,Ruchitha Venkatesh,,0,0,0,,,,31228231228
+1,Hong Kong,19,M Wai Siu,A Kanada,Ruchitha Venkatesh,,0,1,1,run out,Ruchitha Venkatesh,,31228231228

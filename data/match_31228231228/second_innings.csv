@@ -1,0 +1,127 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Japan,0,Erika Oda,M Wai Siu,A Kitayama,,0,0,0,,,,31228231228
+2,Japan,0,Erika Oda,M Wai Siu,A Kitayama,,0,0,0,,,,31228231228
+2,Japan,0,Erika Oda,M Wai Siu,A Kitayama,,0,1,1,,,,31228231228
+2,Japan,0,A Kitayama,M Wai Siu,Erika Oda,,0,0,0,caught,A Kitayama,KY Chan,31228231228
+2,Japan,0,M Kanno,M Wai Siu,Erika Oda,,0,0,0,,,,31228231228
+2,Japan,0,M Kanno,M Wai Siu,Erika Oda,,0,0,0,,,,31228231228
+2,Japan,1,Erika Oda,M Hill,M Kanno,,0,0,0,,,,31228231228
+2,Japan,1,Erika Oda,M Hill,M Kanno,wides,2,2,0,,,,31228231228
+2,Japan,1,M Kanno,M Hill,Erika Oda,wides,2,2,0,,,,31228231228
+2,Japan,1,Erika Oda,M Hill,M Kanno,noballs,2,2,0,,,,31228231228
+2,Japan,1,M Kanno,M Hill,Erika Oda,wides,2,2,0,,,,31228231228
+2,Japan,1,Erika Oda,M Hill,M Kanno,,0,2,2,,,,31228231228
+2,Japan,1,Erika Oda,M Hill,M Kanno,,0,4,4,,,,31228231228
+2,Japan,1,Erika Oda,M Hill,M Kanno,wides,1,1,0,,,,31228231228
+2,Japan,1,Erika Oda,M Hill,M Kanno,,0,4,4,,,,31228231228
+2,Japan,1,Erika Oda,M Hill,M Kanno,wides,1,1,0,,,,31228231228
+2,Japan,1,Erika Oda,M Hill,M Kanno,,0,4,4,,,,31228231228
+2,Japan,1,Erika Oda,M Hill,M Kanno,wides,1,1,0,,,,31228231228
+2,Japan,1,Erika Oda,M Hill,M Kanno,,0,1,1,,,,31228231228
+2,Japan,2,Erika Oda,M Wai Siu,M Kanno,,0,1,1,,,,31228231228
+2,Japan,2,M Kanno,M Wai Siu,Erika Oda,,0,0,0,,,,31228231228
+2,Japan,2,M Kanno,M Wai Siu,Erika Oda,,0,0,0,,,,31228231228
+2,Japan,2,M Kanno,M Wai Siu,Erika Oda,,0,1,1,,,,31228231228
+2,Japan,2,Erika Oda,M Wai Siu,M Kanno,,0,4,4,,,,31228231228
+2,Japan,2,Erika Oda,M Wai Siu,M Kanno,,0,0,0,,,,31228231228
+2,Japan,3,M Kanno,KY Chan,Erika Oda,,0,0,0,,,,31228231228
+2,Japan,3,M Kanno,KY Chan,Erika Oda,,0,0,0,lbw,M Kanno,,31228231228
+2,Japan,3,A Kanada,KY Chan,Erika Oda,,0,0,0,,,,31228231228
+2,Japan,3,A Kanada,KY Chan,Erika Oda,,0,0,0,bowled,A Kanada,,31228231228
+2,Japan,3,M Yanagida,KY Chan,Erika Oda,,0,0,0,,,,31228231228
+2,Japan,3,M Yanagida,KY Chan,Erika Oda,,0,0,0,,,,31228231228
+2,Japan,4,Erika Oda,Chan Ka Man,M Yanagida,,0,0,0,,,,31228231228
+2,Japan,4,Erika Oda,Chan Ka Man,M Yanagida,,0,0,0,,,,31228231228
+2,Japan,4,Erika Oda,Chan Ka Man,M Yanagida,,0,0,0,bowled,Erika Oda,,31228231228
+2,Japan,4,S Miyaji,Chan Ka Man,M Yanagida,,0,0,0,,,,31228231228
+2,Japan,4,S Miyaji,Chan Ka Man,M Yanagida,,0,0,0,,,,31228231228
+2,Japan,4,S Miyaji,Chan Ka Man,M Yanagida,,0,1,1,,,,31228231228
+2,Japan,5,S Miyaji,KY Chan,M Yanagida,,0,2,2,,,,31228231228
+2,Japan,5,S Miyaji,KY Chan,M Yanagida,,0,0,0,,,,31228231228
+2,Japan,5,S Miyaji,KY Chan,M Yanagida,,0,0,0,,,,31228231228
+2,Japan,5,S Miyaji,KY Chan,M Yanagida,,0,1,1,,,,31228231228
+2,Japan,5,M Yanagida,KY Chan,S Miyaji,,0,0,0,,,,31228231228
+2,Japan,5,M Yanagida,KY Chan,S Miyaji,,0,0,0,,,,31228231228
+2,Japan,6,S Miyaji,Chan Ka Man,M Yanagida,,0,0,0,,,,31228231228
+2,Japan,6,S Miyaji,Chan Ka Man,M Yanagida,,0,5,5,,,,31228231228
+2,Japan,6,M Yanagida,Chan Ka Man,S Miyaji,,0,0,0,,,,31228231228
+2,Japan,6,M Yanagida,Chan Ka Man,S Miyaji,,0,2,2,,,,31228231228
+2,Japan,6,M Yanagida,Chan Ka Man,S Miyaji,,0,0,0,,,,31228231228
+2,Japan,6,M Yanagida,Chan Ka Man,S Miyaji,noballs,1,1,0,,,,31228231228
+2,Japan,6,M Yanagida,Chan Ka Man,S Miyaji,,0,1,1,,,,31228231228
+2,Japan,7,S Miyaji,KY Chan,M Yanagida,,0,0,0,bowled,S Miyaji,,31228231228
+2,Japan,7,M Shiraishi,KY Chan,M Yanagida,,0,0,0,,,,31228231228
+2,Japan,7,M Shiraishi,KY Chan,M Yanagida,,0,0,0,,,,31228231228
+2,Japan,7,M Shiraishi,KY Chan,M Yanagida,,0,0,0,,,,31228231228
+2,Japan,7,M Shiraishi,KY Chan,M Yanagida,,0,2,2,,,,31228231228
+2,Japan,7,M Shiraishi,KY Chan,M Yanagida,wides,1,1,0,,,,31228231228
+2,Japan,7,M Shiraishi,KY Chan,M Yanagida,wides,1,1,0,,,,31228231228
+2,Japan,7,M Shiraishi,KY Chan,M Yanagida,,0,0,0,,,,31228231228
+2,Japan,8,M Yanagida,Chan Ka Man,M Shiraishi,,0,1,1,,,,31228231228
+2,Japan,8,M Shiraishi,Chan Ka Man,M Yanagida,,0,0,0,bowled,M Shiraishi,,31228231228
+2,Japan,8,A Kano,Chan Ka Man,M Yanagida,,0,0,0,lbw,A Kano,,31228231228
+2,Japan,8,N Tokizawa,Chan Ka Man,M Yanagida,,0,0,0,,,,31228231228
+2,Japan,8,N Tokizawa,Chan Ka Man,M Yanagida,,0,0,0,,,,31228231228
+2,Japan,8,N Tokizawa,Chan Ka Man,M Yanagida,,0,0,0,,,,31228231228
+2,Japan,9,M Yanagida,Ruchitha Venkatesh,N Tokizawa,,0,0,0,,,,31228231228
+2,Japan,9,M Yanagida,Ruchitha Venkatesh,N Tokizawa,,0,0,0,,,,31228231228
+2,Japan,9,M Yanagida,Ruchitha Venkatesh,N Tokizawa,,0,0,0,,,,31228231228
+2,Japan,9,M Yanagida,Ruchitha Venkatesh,N Tokizawa,,0,0,0,,,,31228231228
+2,Japan,9,M Yanagida,Ruchitha Venkatesh,N Tokizawa,,0,1,1,,,,31228231228
+2,Japan,9,N Tokizawa,Ruchitha Venkatesh,M Yanagida,,0,0,0,,,,31228231228
+2,Japan,10,M Yanagida,YS To,N Tokizawa,,0,0,0,,,,31228231228
+2,Japan,10,M Yanagida,YS To,N Tokizawa,,0,3,3,,,,31228231228
+2,Japan,10,N Tokizawa,YS To,M Yanagida,,0,0,0,,,,31228231228
+2,Japan,10,N Tokizawa,YS To,M Yanagida,,0,0,0,,,,31228231228
+2,Japan,10,N Tokizawa,YS To,M Yanagida,,0,0,0,,,,31228231228
+2,Japan,10,N Tokizawa,YS To,M Yanagida,,0,1,1,,,,31228231228
+2,Japan,11,N Tokizawa,Ruchitha Venkatesh,M Yanagida,,0,2,2,,,,31228231228
+2,Japan,11,N Tokizawa,Ruchitha Venkatesh,M Yanagida,,0,0,0,,,,31228231228
+2,Japan,11,N Tokizawa,Ruchitha Venkatesh,M Yanagida,,0,1,1,,,,31228231228
+2,Japan,11,M Yanagida,Ruchitha Venkatesh,N Tokizawa,,0,0,0,,,,31228231228
+2,Japan,11,M Yanagida,Ruchitha Venkatesh,N Tokizawa,,0,0,0,,,,31228231228
+2,Japan,11,M Yanagida,Ruchitha Venkatesh,N Tokizawa,,0,0,0,,,,31228231228
+2,Japan,12,N Tokizawa,YS To,M Yanagida,,0,0,0,,,,31228231228
+2,Japan,12,N Tokizawa,YS To,M Yanagida,,0,1,1,,,,31228231228
+2,Japan,12,M Yanagida,YS To,N Tokizawa,,0,1,1,,,,31228231228
+2,Japan,12,N Tokizawa,YS To,M Yanagida,,0,0,0,,,,31228231228
+2,Japan,12,N Tokizawa,YS To,M Yanagida,,0,0,0,,,,31228231228
+2,Japan,12,N Tokizawa,YS To,M Yanagida,,0,1,1,,,,31228231228
+2,Japan,13,N Tokizawa,Ruchitha Venkatesh,M Yanagida,,0,2,2,,,,31228231228
+2,Japan,13,N Tokizawa,Ruchitha Venkatesh,M Yanagida,,0,2,2,,,,31228231228
+2,Japan,13,N Tokizawa,Ruchitha Venkatesh,M Yanagida,,0,1,1,,,,31228231228
+2,Japan,13,M Yanagida,Ruchitha Venkatesh,N Tokizawa,,0,1,1,,,,31228231228
+2,Japan,13,N Tokizawa,Ruchitha Venkatesh,M Yanagida,,0,4,4,,,,31228231228
+2,Japan,13,N Tokizawa,Ruchitha Venkatesh,M Yanagida,,0,1,1,,,,31228231228
+2,Japan,14,N Tokizawa,Chan Ka Man,M Yanagida,,0,0,0,,,,31228231228
+2,Japan,14,N Tokizawa,Chan Ka Man,M Yanagida,,0,0,0,,,,31228231228
+2,Japan,14,N Tokizawa,Chan Ka Man,M Yanagida,,0,1,1,,,,31228231228
+2,Japan,14,M Yanagida,Chan Ka Man,N Tokizawa,,0,1,1,,,,31228231228
+2,Japan,14,N Tokizawa,Chan Ka Man,M Yanagida,,0,0,0,,,,31228231228
+2,Japan,14,N Tokizawa,Chan Ka Man,M Yanagida,,0,0,0,,,,31228231228
+2,Japan,15,M Yanagida,YS To,N Tokizawa,,0,1,1,,,,31228231228
+2,Japan,15,N Tokizawa,YS To,M Yanagida,,0,0,0,,,,31228231228
+2,Japan,15,N Tokizawa,YS To,M Yanagida,,0,1,1,,,,31228231228
+2,Japan,15,M Yanagida,YS To,N Tokizawa,,0,1,1,,,,31228231228
+2,Japan,15,N Tokizawa,YS To,M Yanagida,,0,1,1,,,,31228231228
+2,Japan,15,M Yanagida,YS To,N Tokizawa,,0,0,0,,,,31228231228
+2,Japan,16,N Tokizawa,M Wai Siu,M Yanagida,,0,1,1,,,,31228231228
+2,Japan,16,M Yanagida,M Wai Siu,N Tokizawa,,0,0,0,,,,31228231228
+2,Japan,16,M Yanagida,M Wai Siu,N Tokizawa,,0,0,0,,,,31228231228
+2,Japan,16,M Yanagida,M Wai Siu,N Tokizawa,,0,1,1,,,,31228231228
+2,Japan,16,N Tokizawa,M Wai Siu,M Yanagida,legbyes,1,1,0,,,,31228231228
+2,Japan,16,M Yanagida,M Wai Siu,N Tokizawa,,0,1,1,,,,31228231228
+2,Japan,17,M Yanagida,YS To,N Tokizawa,,0,1,1,,,,31228231228
+2,Japan,17,N Tokizawa,YS To,M Yanagida,wides,1,1,0,,,,31228231228
+2,Japan,17,N Tokizawa,YS To,M Yanagida,,0,0,0,,,,31228231228
+2,Japan,17,N Tokizawa,YS To,M Yanagida,,0,1,1,,,,31228231228
+2,Japan,17,M Yanagida,YS To,N Tokizawa,,0,1,1,,,,31228231228
+2,Japan,17,N Tokizawa,YS To,M Yanagida,,0,1,1,,,,31228231228
+2,Japan,17,M Yanagida,YS To,N Tokizawa,,0,1,1,,,,31228231228
+2,Japan,18,M Yanagida,M Wai Siu,N Tokizawa,,0,0,0,,,,31228231228
+2,Japan,18,M Yanagida,M Wai Siu,N Tokizawa,wides,1,1,0,,,,31228231228
+2,Japan,18,M Yanagida,M Wai Siu,N Tokizawa,,0,0,0,run out,N Tokizawa,,31228231228
+2,Japan,18,R Endo,M Wai Siu,M Yanagida,,0,0,0,,,,31228231228
+2,Japan,18,R Endo,M Wai Siu,M Yanagida,wides,1,1,0,,,,31228231228
+2,Japan,18,R Endo,M Wai Siu,M Yanagida,,0,0,0,,,,31228231228
+2,Japan,18,R Endo,M Wai Siu,M Yanagida,,0,1,1,,,,31228231228

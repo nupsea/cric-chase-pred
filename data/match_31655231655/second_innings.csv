@@ -1,0 +1,85 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,South Africa,0,Q de Kock,Taskin Ahmed,RR Hendricks,wides,1,1,0,,,,31655231655
+2,South Africa,0,Q de Kock,Taskin Ahmed,RR Hendricks,,0,1,1,,,,31655231655
+2,South Africa,0,RR Hendricks,Taskin Ahmed,Q de Kock,,0,0,0,,,,31655231655
+2,South Africa,0,RR Hendricks,Taskin Ahmed,Q de Kock,,0,0,0,,,,31655231655
+2,South Africa,0,RR Hendricks,Taskin Ahmed,Q de Kock,,0,4,4,,,,31655231655
+2,South Africa,0,RR Hendricks,Taskin Ahmed,Q de Kock,,0,0,0,,,,31655231655
+2,South Africa,0,RR Hendricks,Taskin Ahmed,Q de Kock,,0,0,0,lbw,RR Hendricks,,31655231655
+2,South Africa,1,Q de Kock,Shoriful Islam,HE van der Dussen,,0,0,0,,,,31655231655
+2,South Africa,1,Q de Kock,Shoriful Islam,HE van der Dussen,,0,0,0,,,,31655231655
+2,South Africa,1,Q de Kock,Shoriful Islam,HE van der Dussen,,0,0,0,,,,31655231655
+2,South Africa,1,Q de Kock,Shoriful Islam,HE van der Dussen,,0,1,1,,,,31655231655
+2,South Africa,1,HE van der Dussen,Shoriful Islam,Q de Kock,wides,1,1,0,,,,31655231655
+2,South Africa,1,HE van der Dussen,Shoriful Islam,Q de Kock,,0,0,0,,,,31655231655
+2,South Africa,1,HE van der Dussen,Shoriful Islam,Q de Kock,legbyes,1,1,0,,,,31655231655
+2,South Africa,2,HE van der Dussen,Taskin Ahmed,Q de Kock,,0,1,1,,,,31655231655
+2,South Africa,2,Q de Kock,Taskin Ahmed,HE van der Dussen,,0,0,0,,,,31655231655
+2,South Africa,2,Q de Kock,Taskin Ahmed,HE van der Dussen,,0,2,2,,,,31655231655
+2,South Africa,2,Q de Kock,Taskin Ahmed,HE van der Dussen,,0,0,0,,,,31655231655
+2,South Africa,2,Q de Kock,Taskin Ahmed,HE van der Dussen,,0,0,0,,,,31655231655
+2,South Africa,2,Q de Kock,Taskin Ahmed,HE van der Dussen,,0,4,4,,,,31655231655
+2,South Africa,3,HE van der Dussen,Shoriful Islam,Q de Kock,,0,0,0,,,,31655231655
+2,South Africa,3,HE van der Dussen,Shoriful Islam,Q de Kock,,0,0,0,,,,31655231655
+2,South Africa,3,HE van der Dussen,Shoriful Islam,Q de Kock,,0,0,0,,,,31655231655
+2,South Africa,3,HE van der Dussen,Shoriful Islam,Q de Kock,,0,4,4,,,,31655231655
+2,South Africa,3,HE van der Dussen,Shoriful Islam,Q de Kock,,0,0,0,,,,31655231655
+2,South Africa,3,HE van der Dussen,Shoriful Islam,Q de Kock,,0,0,0,,,,31655231655
+2,South Africa,4,Q de Kock,Mahedi Hasan,HE van der Dussen,,0,0,0,,,,31655231655
+2,South Africa,4,Q de Kock,Mahedi Hasan,HE van der Dussen,,0,4,4,,,,31655231655
+2,South Africa,4,Q de Kock,Mahedi Hasan,HE van der Dussen,,0,4,4,,,,31655231655
+2,South Africa,4,Q de Kock,Mahedi Hasan,HE van der Dussen,,0,0,0,,,,31655231655
+2,South Africa,4,Q de Kock,Mahedi Hasan,HE van der Dussen,,0,0,0,bowled,Q de Kock,,31655231655
+2,South Africa,4,AK Markram,Mahedi Hasan,HE van der Dussen,,0,0,0,,,,31655231655
+2,South Africa,5,HE van der Dussen,Taskin Ahmed,AK Markram,,0,0,0,,,,31655231655
+2,South Africa,5,HE van der Dussen,Taskin Ahmed,AK Markram,,0,1,1,,,,31655231655
+2,South Africa,5,AK Markram,Taskin Ahmed,HE van der Dussen,,0,0,0,,,,31655231655
+2,South Africa,5,AK Markram,Taskin Ahmed,HE van der Dussen,byes,4,4,0,,,,31655231655
+2,South Africa,5,AK Markram,Taskin Ahmed,HE van der Dussen,,0,0,0,caught,AK Markram,Mohammad Naim,31655231655
+2,South Africa,5,T Bavuma,Taskin Ahmed,HE van der Dussen,,0,0,0,,,,31655231655
+2,South Africa,6,HE van der Dussen,Shoriful Islam,T Bavuma,,0,0,0,,,,31655231655
+2,South Africa,6,HE van der Dussen,Shoriful Islam,T Bavuma,,0,0,0,,,,31655231655
+2,South Africa,6,HE van der Dussen,Shoriful Islam,T Bavuma,,0,1,1,,,,31655231655
+2,South Africa,6,T Bavuma,Shoriful Islam,HE van der Dussen,,0,0,0,,,,31655231655
+2,South Africa,6,T Bavuma,Shoriful Islam,HE van der Dussen,,0,0,0,,,,31655231655
+2,South Africa,6,T Bavuma,Shoriful Islam,HE van der Dussen,,0,3,3,,,,31655231655
+2,South Africa,7,T Bavuma,Taskin Ahmed,HE van der Dussen,,0,0,0,,,,31655231655
+2,South Africa,7,T Bavuma,Taskin Ahmed,HE van der Dussen,,0,0,0,,,,31655231655
+2,South Africa,7,T Bavuma,Taskin Ahmed,HE van der Dussen,,0,0,0,,,,31655231655
+2,South Africa,7,T Bavuma,Taskin Ahmed,HE van der Dussen,,0,4,4,,,,31655231655
+2,South Africa,7,T Bavuma,Taskin Ahmed,HE van der Dussen,,0,0,0,,,,31655231655
+2,South Africa,7,T Bavuma,Taskin Ahmed,HE van der Dussen,,0,0,0,,,,31655231655
+2,South Africa,8,HE van der Dussen,Nasum Ahmed,T Bavuma,,0,1,1,,,,31655231655
+2,South Africa,8,T Bavuma,Nasum Ahmed,HE van der Dussen,,0,0,0,,,,31655231655
+2,South Africa,8,T Bavuma,Nasum Ahmed,HE van der Dussen,,0,2,2,,,,31655231655
+2,South Africa,8,T Bavuma,Nasum Ahmed,HE van der Dussen,,0,6,6,,,,31655231655
+2,South Africa,8,T Bavuma,Nasum Ahmed,HE van der Dussen,,0,0,0,,,,31655231655
+2,South Africa,8,T Bavuma,Nasum Ahmed,HE van der Dussen,,0,0,0,,,,31655231655
+2,South Africa,9,HE van der Dussen,Shoriful Islam,T Bavuma,,0,1,1,,,,31655231655
+2,South Africa,9,T Bavuma,Shoriful Islam,HE van der Dussen,,0,3,3,,,,31655231655
+2,South Africa,9,HE van der Dussen,Shoriful Islam,T Bavuma,,0,0,0,,,,31655231655
+2,South Africa,9,HE van der Dussen,Shoriful Islam,T Bavuma,,0,1,1,,,,31655231655
+2,South Africa,9,T Bavuma,Shoriful Islam,HE van der Dussen,,0,0,0,,,,31655231655
+2,South Africa,9,T Bavuma,Shoriful Islam,HE van der Dussen,,0,0,0,,,,31655231655
+2,South Africa,10,HE van der Dussen,Mahedi Hasan,T Bavuma,,0,1,1,,,,31655231655
+2,South Africa,10,T Bavuma,Mahedi Hasan,HE van der Dussen,,0,1,1,,,,31655231655
+2,South Africa,10,HE van der Dussen,Mahedi Hasan,T Bavuma,,0,1,1,,,,31655231655
+2,South Africa,10,T Bavuma,Mahedi Hasan,HE van der Dussen,,0,0,0,,,,31655231655
+2,South Africa,10,T Bavuma,Mahedi Hasan,HE van der Dussen,,0,1,1,,,,31655231655
+2,South Africa,10,HE van der Dussen,Mahedi Hasan,T Bavuma,,0,1,1,,,,31655231655
+2,South Africa,11,HE van der Dussen,Soumya Sarkar,T Bavuma,,0,1,1,,,,31655231655
+2,South Africa,11,T Bavuma,Soumya Sarkar,HE van der Dussen,,0,1,1,,,,31655231655
+2,South Africa,11,HE van der Dussen,Soumya Sarkar,T Bavuma,,0,0,0,,,,31655231655
+2,South Africa,11,HE van der Dussen,Soumya Sarkar,T Bavuma,,0,1,1,,,,31655231655
+2,South Africa,11,T Bavuma,Soumya Sarkar,HE van der Dussen,,0,4,4,,,,31655231655
+2,South Africa,11,T Bavuma,Soumya Sarkar,HE van der Dussen,,0,0,0,,,,31655231655
+2,South Africa,12,HE van der Dussen,Nasum Ahmed,T Bavuma,,0,3,3,,,,31655231655
+2,South Africa,12,T Bavuma,Nasum Ahmed,HE van der Dussen,wides,1,1,0,,,,31655231655
+2,South Africa,12,T Bavuma,Nasum Ahmed,HE van der Dussen,,0,0,0,,,,31655231655
+2,South Africa,12,T Bavuma,Nasum Ahmed,HE van der Dussen,,0,4,4,,,,31655231655
+2,South Africa,12,T Bavuma,Nasum Ahmed,HE van der Dussen,,0,1,1,,,,31655231655
+2,South Africa,12,HE van der Dussen,Nasum Ahmed,T Bavuma,,0,4,4,,,,31655231655
+2,South Africa,12,HE van der Dussen,Nasum Ahmed,T Bavuma,,0,0,0,caught,HE van der Dussen,Shoriful Islam,31655231655
+2,South Africa,13,DA Miller,Mahedi Hasan,T Bavuma,,0,1,1,,,,31655231655
+2,South Africa,13,T Bavuma,Mahedi Hasan,DA Miller,,0,1,1,,,,31655231655
+2,South Africa,13,DA Miller,Mahedi Hasan,T Bavuma,,0,4,4,,,,31655231655

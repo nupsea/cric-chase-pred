@@ -1,0 +1,107 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Kenya,0,MA Ouma,PC Connell,KO Otieno,,0,2,2,,,,3932393
+1,Kenya,0,MA Ouma,PC Connell,KO Otieno,,0,0,0,,,,3932393
+1,Kenya,0,MA Ouma,PC Connell,KO Otieno,,0,0,0,,,,3932393
+1,Kenya,0,MA Ouma,PC Connell,KO Otieno,,0,4,4,,,,3932393
+1,Kenya,0,MA Ouma,PC Connell,KO Otieno,,0,0,0,caught,MA Ouma,AR Cusack,3932393
+1,Kenya,0,KO Otieno,PC Connell,NN Odhiambo,,0,2,2,,,,3932393
+1,Kenya,1,NN Odhiambo,KJ O'Brien,KO Otieno,,0,0,0,,,,3932393
+1,Kenya,1,NN Odhiambo,KJ O'Brien,KO Otieno,,0,1,1,,,,3932393
+1,Kenya,1,KO Otieno,KJ O'Brien,NN Odhiambo,,0,2,2,,,,3932393
+1,Kenya,1,KO Otieno,KJ O'Brien,NN Odhiambo,,0,0,0,,,,3932393
+1,Kenya,1,KO Otieno,KJ O'Brien,NN Odhiambo,,0,1,1,,,,3932393
+1,Kenya,1,NN Odhiambo,KJ O'Brien,KO Otieno,,0,0,0,lbw,NN Odhiambo,,3932393
+1,Kenya,2,KO Otieno,PC Connell,SO Tikolo,,0,1,1,,,,3932393
+1,Kenya,2,SO Tikolo,PC Connell,KO Otieno,,0,0,0,,,,3932393
+1,Kenya,2,SO Tikolo,PC Connell,KO Otieno,,0,0,0,,,,3932393
+1,Kenya,2,SO Tikolo,PC Connell,KO Otieno,,0,0,0,,,,3932393
+1,Kenya,2,SO Tikolo,PC Connell,KO Otieno,,0,0,0,,,,3932393
+1,Kenya,2,SO Tikolo,PC Connell,KO Otieno,,0,0,0,,,,3932393
+1,Kenya,3,KO Otieno,KJ O'Brien,SO Tikolo,,0,0,0,,,,3932393
+1,Kenya,3,KO Otieno,KJ O'Brien,SO Tikolo,,0,0,0,,,,3932393
+1,Kenya,3,KO Otieno,KJ O'Brien,SO Tikolo,,0,0,0,,,,3932393
+1,Kenya,3,KO Otieno,KJ O'Brien,SO Tikolo,,0,1,1,,,,3932393
+1,Kenya,3,SO Tikolo,KJ O'Brien,KO Otieno,byes,1,1,0,,,,3932393
+1,Kenya,3,KO Otieno,KJ O'Brien,SO Tikolo,,0,0,0,caught,KO Otieno,PC Connell,3932393
+1,Kenya,4,AA Obanda,PC Connell,SO Tikolo,,0,0,0,,,,3932393
+1,Kenya,4,AA Obanda,PC Connell,SO Tikolo,legbyes,1,1,0,,,,3932393
+1,Kenya,4,SO Tikolo,PC Connell,AA Obanda,,0,0,0,,,,3932393
+1,Kenya,4,SO Tikolo,PC Connell,AA Obanda,,0,1,1,,,,3932393
+1,Kenya,4,AA Obanda,PC Connell,SO Tikolo,legbyes,1,1,0,,,,3932393
+1,Kenya,4,SO Tikolo,PC Connell,AA Obanda,,0,1,1,,,,3932393
+1,Kenya,5,SO Tikolo,KJ O'Brien,AA Obanda,,0,0,0,,,,3932393
+1,Kenya,5,SO Tikolo,KJ O'Brien,AA Obanda,,0,1,1,,,,3932393
+1,Kenya,5,AA Obanda,KJ O'Brien,SO Tikolo,legbyes,1,1,0,,,,3932393
+1,Kenya,5,SO Tikolo,KJ O'Brien,AA Obanda,,0,0,0,,,,3932393
+1,Kenya,5,SO Tikolo,KJ O'Brien,AA Obanda,,0,0,0,,,,3932393
+1,Kenya,5,SO Tikolo,KJ O'Brien,AA Obanda,,0,1,1,,,,3932393
+1,Kenya,6,SO Tikolo,PC Connell,AA Obanda,,0,4,4,,,,3932393
+1,Kenya,6,SO Tikolo,PC Connell,AA Obanda,,0,0,0,,,,3932393
+1,Kenya,6,SO Tikolo,PC Connell,AA Obanda,,0,0,0,,,,3932393
+1,Kenya,6,SO Tikolo,PC Connell,AA Obanda,,0,1,1,,,,3932393
+1,Kenya,6,AA Obanda,PC Connell,SO Tikolo,,0,0,0,caught,AA Obanda,WK McCallan,3932393
+1,Kenya,6,SO Tikolo,PC Connell,TM Odoyo,,0,0,0,,,,3932393
+1,Kenya,7,TM Odoyo,KJ O'Brien,SO Tikolo,,0,0,0,,,,3932393
+1,Kenya,7,TM Odoyo,KJ O'Brien,SO Tikolo,,0,1,1,,,,3932393
+1,Kenya,7,SO Tikolo,KJ O'Brien,TM Odoyo,,0,1,1,,,,3932393
+1,Kenya,7,TM Odoyo,KJ O'Brien,SO Tikolo,,0,4,4,,,,3932393
+1,Kenya,7,TM Odoyo,KJ O'Brien,SO Tikolo,,0,1,1,,,,3932393
+1,Kenya,7,SO Tikolo,KJ O'Brien,TM Odoyo,,0,1,1,,,,3932393
+1,Kenya,8,SO Tikolo,AR Cusack,TM Odoyo,,0,0,0,,,,3932393
+1,Kenya,8,SO Tikolo,AR Cusack,TM Odoyo,,0,0,0,,,,3932393
+1,Kenya,8,SO Tikolo,AR Cusack,TM Odoyo,,0,2,2,,,,3932393
+1,Kenya,8,SO Tikolo,AR Cusack,TM Odoyo,byes,1,1,0,,,,3932393
+1,Kenya,8,TM Odoyo,AR Cusack,SO Tikolo,,0,0,0,,,,3932393
+1,Kenya,8,TM Odoyo,AR Cusack,SO Tikolo,,0,0,0,,,,3932393
+1,Kenya,9,SO Tikolo,AC Botha,TM Odoyo,,0,0,0,lbw,SO Tikolo,,3932393
+1,Kenya,9,RG Aga,AC Botha,TM Odoyo,wides,5,5,0,,,,3932393
+1,Kenya,9,RG Aga,AC Botha,TM Odoyo,,0,4,4,,,,3932393
+1,Kenya,9,RG Aga,AC Botha,TM Odoyo,,0,0,0,,,,3932393
+1,Kenya,9,RG Aga,AC Botha,TM Odoyo,,0,0,0,,,,3932393
+1,Kenya,9,RG Aga,AC Botha,TM Odoyo,,0,1,1,,,,3932393
+1,Kenya,9,TM Odoyo,AC Botha,RG Aga,,0,0,0,,,,3932393
+1,Kenya,10,RG Aga,AR Cusack,TM Odoyo,,0,0,0,,,,3932393
+1,Kenya,10,RG Aga,AR Cusack,TM Odoyo,,0,0,0,bowled,RG Aga,,3932393
+1,Kenya,10,JK Kamande,AR Cusack,TM Odoyo,,0,0,0,,,,3932393
+1,Kenya,10,JK Kamande,AR Cusack,TM Odoyo,,0,0,0,bowled,JK Kamande,,3932393
+1,Kenya,10,AO Suji,AR Cusack,TM Odoyo,,0,0,0,,,,3932393
+1,Kenya,10,AO Suji,AR Cusack,TM Odoyo,,0,0,0,,,,3932393
+1,Kenya,11,TM Odoyo,AC Botha,AO Suji,,0,0,0,,,,3932393
+1,Kenya,11,TM Odoyo,AC Botha,AO Suji,,0,0,0,,,,3932393
+1,Kenya,11,TM Odoyo,AC Botha,AO Suji,,0,2,2,,,,3932393
+1,Kenya,11,TM Odoyo,AC Botha,AO Suji,,0,1,1,,,,3932393
+1,Kenya,11,AO Suji,AC Botha,TM Odoyo,,0,0,0,,,,3932393
+1,Kenya,11,AO Suji,AC Botha,TM Odoyo,,0,1,1,,,,3932393
+1,Kenya,12,AO Suji,DT Johnston,TM Odoyo,,0,0,0,,,,3932393
+1,Kenya,12,AO Suji,DT Johnston,TM Odoyo,,0,1,1,,,,3932393
+1,Kenya,12,TM Odoyo,DT Johnston,AO Suji,,0,0,0,,,,3932393
+1,Kenya,12,TM Odoyo,DT Johnston,AO Suji,,0,1,1,,,,3932393
+1,Kenya,12,AO Suji,DT Johnston,TM Odoyo,wides,1,1,0,,,,3932393
+1,Kenya,12,AO Suji,DT Johnston,TM Odoyo,,0,1,1,,,,3932393
+1,Kenya,12,TM Odoyo,DT Johnston,AO Suji,,0,0,0,,,,3932393
+1,Kenya,13,AO Suji,AC Botha,TM Odoyo,,0,0,0,,,,3932393
+1,Kenya,13,AO Suji,AC Botha,TM Odoyo,,0,1,1,,,,3932393
+1,Kenya,13,TM Odoyo,AC Botha,AO Suji,,0,0,0,,,,3932393
+1,Kenya,13,TM Odoyo,AC Botha,AO Suji,,0,0,0,bowled,TM Odoyo,,3932393
+1,Kenya,13,PJ Ongondo,AC Botha,AO Suji,,0,0,0,bowled,PJ Ongondo,,3932393
+1,Kenya,13,HA Varaiya,AC Botha,AO Suji,,0,0,0,,,,3932393
+1,Kenya,14,AO Suji,AR Cusack,HA Varaiya,,0,0,0,,,,3932393
+1,Kenya,14,AO Suji,AR Cusack,HA Varaiya,,0,0,0,,,,3932393
+1,Kenya,14,AO Suji,AR Cusack,HA Varaiya,,0,1,1,,,,3932393
+1,Kenya,14,HA Varaiya,AR Cusack,AO Suji,,0,0,0,,,,3932393
+1,Kenya,14,HA Varaiya,AR Cusack,AO Suji,,0,0,0,,,,3932393
+1,Kenya,14,HA Varaiya,AR Cusack,AO Suji,,0,0,0,,,,3932393
+1,Kenya,15,AO Suji,AC Botha,HA Varaiya,,0,0,0,,,,3932393
+1,Kenya,15,AO Suji,AC Botha,HA Varaiya,,0,1,1,,,,3932393
+1,Kenya,15,HA Varaiya,AC Botha,AO Suji,,0,2,2,,,,3932393
+1,Kenya,15,HA Varaiya,AC Botha,AO Suji,,0,2,2,,,,3932393
+1,Kenya,15,HA Varaiya,AC Botha,AO Suji,legbyes,1,1,0,,,,3932393
+1,Kenya,15,AO Suji,AC Botha,HA Varaiya,,0,0,0,,,,3932393
+1,Kenya,16,HA Varaiya,DT Johnston,AO Suji,,0,1,1,,,,3932393
+1,Kenya,16,AO Suji,DT Johnston,HA Varaiya,,0,0,0,,,,3932393
+1,Kenya,16,AO Suji,DT Johnston,HA Varaiya,,0,1,1,,,,3932393
+1,Kenya,16,HA Varaiya,DT Johnston,AO Suji,,0,0,0,,,,3932393
+1,Kenya,16,HA Varaiya,DT Johnston,AO Suji,,0,0,0,,,,3932393
+1,Kenya,16,HA Varaiya,DT Johnston,AO Suji,,0,1,1,,,,3932393
+1,Kenya,17,HA Varaiya,WK McCallan,AO Suji,,0,0,0,,,,3932393
+1,Kenya,17,HA Varaiya,WK McCallan,AO Suji,,0,0,0,run out,AO Suji,WTS Porterfield,3932393

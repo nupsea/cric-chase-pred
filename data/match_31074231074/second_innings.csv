@@ -1,0 +1,127 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Namibia,0,A van der Merwe,J Nkomo,KA Green,,0,4,4,,,,31074231074
+2,Namibia,0,A van der Merwe,J Nkomo,KA Green,,0,0,0,,,,31074231074
+2,Namibia,0,A van der Merwe,J Nkomo,KA Green,,0,2,2,,,,31074231074
+2,Namibia,0,A van der Merwe,J Nkomo,KA Green,,0,0,0,,,,31074231074
+2,Namibia,0,A van der Merwe,J Nkomo,KA Green,,0,0,0,,,,31074231074
+2,Namibia,0,A van der Merwe,J Nkomo,KA Green,legbyes,1,1,0,,,,31074231074
+2,Namibia,1,A van der Merwe,N Sibanda,KA Green,,0,1,1,,,,31074231074
+2,Namibia,1,KA Green,N Sibanda,A van der Merwe,,0,0,0,,,,31074231074
+2,Namibia,1,KA Green,N Sibanda,A van der Merwe,,0,0,0,,,,31074231074
+2,Namibia,1,KA Green,N Sibanda,A van der Merwe,,0,0,0,,,,31074231074
+2,Namibia,1,KA Green,N Sibanda,A van der Merwe,,0,0,0,,,,31074231074
+2,Namibia,1,KA Green,N Sibanda,A van der Merwe,,0,1,1,,,,31074231074
+2,Namibia,2,KA Green,J Nkomo,A van der Merwe,wides,1,1,0,,,,31074231074
+2,Namibia,2,KA Green,J Nkomo,A van der Merwe,,0,0,0,bowled,KA Green,,31074231074
+2,Namibia,2,Yasmeen Khan,J Nkomo,A van der Merwe,wides,1,1,0,,,,31074231074
+2,Namibia,2,Yasmeen Khan,J Nkomo,A van der Merwe,,0,0,0,,,,31074231074
+2,Namibia,2,Yasmeen Khan,J Nkomo,A van der Merwe,,0,0,0,,,,31074231074
+2,Namibia,2,Yasmeen Khan,J Nkomo,A van der Merwe,,0,1,1,,,,31074231074
+2,Namibia,2,A van der Merwe,J Nkomo,Yasmeen Khan,,0,1,1,,,,31074231074
+2,Namibia,2,Yasmeen Khan,J Nkomo,A van der Merwe,,0,0,0,,,,31074231074
+2,Namibia,3,A van der Merwe,T Granger,Yasmeen Khan,,0,2,2,,,,31074231074
+2,Namibia,3,A van der Merwe,T Granger,Yasmeen Khan,,0,0,0,caught,A van der Merwe,N Sibanda,31074231074
+2,Namibia,3,I van Zyl,T Granger,Yasmeen Khan,,0,0,0,,,,31074231074
+2,Namibia,3,I van Zyl,T Granger,Yasmeen Khan,,0,0,0,,,,31074231074
+2,Namibia,3,I van Zyl,T Granger,Yasmeen Khan,,0,0,0,,,,31074231074
+2,Namibia,3,I van Zyl,T Granger,Yasmeen Khan,,0,0,0,,,,31074231074
+2,Namibia,4,Yasmeen Khan,N Sibanda,I van Zyl,,0,0,0,,,,31074231074
+2,Namibia,4,Yasmeen Khan,N Sibanda,I van Zyl,,0,1,1,,,,31074231074
+2,Namibia,4,I van Zyl,N Sibanda,Yasmeen Khan,,0,0,0,,,,31074231074
+2,Namibia,4,I van Zyl,N Sibanda,Yasmeen Khan,,0,0,0,,,,31074231074
+2,Namibia,4,I van Zyl,N Sibanda,Yasmeen Khan,,0,0,0,caught and bowled,I van Zyl,,31074231074
+2,Namibia,4,SA Wittmann,N Sibanda,Yasmeen Khan,,0,4,4,,,,31074231074
+2,Namibia,5,Yasmeen Khan,T Granger,SA Wittmann,,0,0,0,,,,31074231074
+2,Namibia,5,Yasmeen Khan,T Granger,SA Wittmann,wides,2,2,0,,,,31074231074
+2,Namibia,5,SA Wittmann,T Granger,Yasmeen Khan,,0,0,0,,,,31074231074
+2,Namibia,5,SA Wittmann,T Granger,Yasmeen Khan,,0,0,0,,,,31074231074
+2,Namibia,5,SA Wittmann,T Granger,Yasmeen Khan,,0,0,0,,,,31074231074
+2,Namibia,5,SA Wittmann,T Granger,Yasmeen Khan,wides,1,1,0,,,,31074231074
+2,Namibia,5,SA Wittmann,T Granger,Yasmeen Khan,,0,0,0,,,,31074231074
+2,Namibia,5,SA Wittmann,T Granger,Yasmeen Khan,,0,0,0,,,,31074231074
+2,Namibia,6,Yasmeen Khan,N Mutasa,SA Wittmann,,0,0,0,,,,31074231074
+2,Namibia,6,Yasmeen Khan,N Mutasa,SA Wittmann,,0,0,0,,,,31074231074
+2,Namibia,6,Yasmeen Khan,N Mutasa,SA Wittmann,,0,1,1,,,,31074231074
+2,Namibia,6,SA Wittmann,N Mutasa,Yasmeen Khan,,0,1,1,,,,31074231074
+2,Namibia,6,Yasmeen Khan,N Mutasa,SA Wittmann,,0,0,0,,,,31074231074
+2,Namibia,6,Yasmeen Khan,N Mutasa,SA Wittmann,,0,0,0,,,,31074231074
+2,Namibia,7,SA Wittmann,T Granger,Yasmeen Khan,,0,0,0,,,,31074231074
+2,Namibia,7,SA Wittmann,T Granger,Yasmeen Khan,,0,1,1,,,,31074231074
+2,Namibia,7,Yasmeen Khan,T Granger,SA Wittmann,,0,0,0,,,,31074231074
+2,Namibia,7,Yasmeen Khan,T Granger,SA Wittmann,,0,1,1,,,,31074231074
+2,Namibia,7,SA Wittmann,T Granger,Yasmeen Khan,,0,0,0,,,,31074231074
+2,Namibia,7,SA Wittmann,T Granger,Yasmeen Khan,,0,0,0,,,,31074231074
+2,Namibia,8,Yasmeen Khan,N Mutasa,SA Wittmann,,0,0,0,,,,31074231074
+2,Namibia,8,Yasmeen Khan,N Mutasa,SA Wittmann,,0,4,4,,,,31074231074
+2,Namibia,8,Yasmeen Khan,N Mutasa,SA Wittmann,,0,1,1,,,,31074231074
+2,Namibia,8,SA Wittmann,N Mutasa,Yasmeen Khan,,0,1,1,,,,31074231074
+2,Namibia,8,Yasmeen Khan,N Mutasa,SA Wittmann,,0,0,0,,,,31074231074
+2,Namibia,8,Yasmeen Khan,N Mutasa,SA Wittmann,wides,1,1,0,,,,31074231074
+2,Namibia,8,Yasmeen Khan,N Mutasa,SA Wittmann,,0,0,0,,,,31074231074
+2,Namibia,9,SA Wittmann,AC Mushangwe,Yasmeen Khan,,0,0,0,,,,31074231074
+2,Namibia,9,SA Wittmann,AC Mushangwe,Yasmeen Khan,,0,0,0,,,,31074231074
+2,Namibia,9,SA Wittmann,AC Mushangwe,Yasmeen Khan,,0,0,0,,,,31074231074
+2,Namibia,9,SA Wittmann,AC Mushangwe,Yasmeen Khan,,0,0,0,,,,31074231074
+2,Namibia,9,SA Wittmann,AC Mushangwe,Yasmeen Khan,,0,1,1,,,,31074231074
+2,Namibia,9,Yasmeen Khan,AC Mushangwe,SA Wittmann,,0,0,0,,,,31074231074
+2,Namibia,10,SA Wittmann,P Marange,Yasmeen Khan,,0,0,0,,,,31074231074
+2,Namibia,10,SA Wittmann,P Marange,Yasmeen Khan,,0,4,4,,,,31074231074
+2,Namibia,10,SA Wittmann,P Marange,Yasmeen Khan,,0,0,0,,,,31074231074
+2,Namibia,10,SA Wittmann,P Marange,Yasmeen Khan,,0,0,0,,,,31074231074
+2,Namibia,10,SA Wittmann,P Marange,Yasmeen Khan,,0,0,0,,,,31074231074
+2,Namibia,10,SA Wittmann,P Marange,Yasmeen Khan,,0,1,1,,,,31074231074
+2,Namibia,11,SA Wittmann,AC Mushangwe,Yasmeen Khan,,0,0,0,,,,31074231074
+2,Namibia,11,SA Wittmann,AC Mushangwe,Yasmeen Khan,,0,0,0,,,,31074231074
+2,Namibia,11,SA Wittmann,AC Mushangwe,Yasmeen Khan,,0,1,1,,,,31074231074
+2,Namibia,11,Yasmeen Khan,AC Mushangwe,SA Wittmann,,0,0,0,,,,31074231074
+2,Namibia,11,Yasmeen Khan,AC Mushangwe,SA Wittmann,,0,1,1,,,,31074231074
+2,Namibia,11,SA Wittmann,AC Mushangwe,Yasmeen Khan,,0,0,0,,,,31074231074
+2,Namibia,12,Yasmeen Khan,P Marange,SA Wittmann,legbyes,1,1,0,,,,31074231074
+2,Namibia,12,SA Wittmann,P Marange,Yasmeen Khan,,0,0,0,,,,31074231074
+2,Namibia,12,SA Wittmann,P Marange,Yasmeen Khan,,0,0,0,,,,31074231074
+2,Namibia,12,SA Wittmann,P Marange,Yasmeen Khan,,0,0,0,,,,31074231074
+2,Namibia,12,SA Wittmann,P Marange,Yasmeen Khan,,0,0,0,,,,31074231074
+2,Namibia,12,SA Wittmann,P Marange,Yasmeen Khan,,0,0,0,,,,31074231074
+2,Namibia,13,Yasmeen Khan,AC Mushangwe,SA Wittmann,,0,1,1,,,,31074231074
+2,Namibia,13,SA Wittmann,AC Mushangwe,Yasmeen Khan,,0,1,1,,,,31074231074
+2,Namibia,13,Yasmeen Khan,AC Mushangwe,SA Wittmann,,0,0,0,,,,31074231074
+2,Namibia,13,Yasmeen Khan,AC Mushangwe,SA Wittmann,,0,0,0,caught,Yasmeen Khan,CS Mugeri,31074231074
+2,Namibia,13,SA Wittmann,AC Mushangwe,M Short,,0,0,0,,,,31074231074
+2,Namibia,13,SA Wittmann,AC Mushangwe,M Short,,0,0,0,,,,31074231074
+2,Namibia,14,M Short,P Marange,SA Wittmann,,0,1,1,,,,31074231074
+2,Namibia,14,SA Wittmann,P Marange,M Short,,0,1,1,,,,31074231074
+2,Namibia,14,M Short,P Marange,SA Wittmann,,0,0,0,,,,31074231074
+2,Namibia,14,M Short,P Marange,SA Wittmann,,0,0,0,,,,31074231074
+2,Namibia,14,M Short,P Marange,SA Wittmann,,0,0,0,,,,31074231074
+2,Namibia,14,M Short,P Marange,SA Wittmann,,0,0,0,,,,31074231074
+2,Namibia,15,SA Wittmann,AC Mushangwe,M Short,,0,0,0,,,,31074231074
+2,Namibia,15,SA Wittmann,AC Mushangwe,M Short,,0,1,1,,,,31074231074
+2,Namibia,15,M Short,AC Mushangwe,SA Wittmann,,0,0,0,bowled,M Short,,31074231074
+2,Namibia,15,JA Diergaardt,AC Mushangwe,SA Wittmann,,0,0,0,,,,31074231074
+2,Namibia,15,JA Diergaardt,AC Mushangwe,SA Wittmann,,0,0,0,,,,31074231074
+2,Namibia,15,JA Diergaardt,AC Mushangwe,SA Wittmann,,0,0,0,lbw,JA Diergaardt,,31074231074
+2,Namibia,16,SA Wittmann,P Marange,D Foerster,,0,0,0,,,,31074231074
+2,Namibia,16,SA Wittmann,P Marange,D Foerster,,0,0,0,,,,31074231074
+2,Namibia,16,SA Wittmann,P Marange,D Foerster,,0,0,0,,,,31074231074
+2,Namibia,16,SA Wittmann,P Marange,D Foerster,,0,1,1,,,,31074231074
+2,Namibia,16,D Foerster,P Marange,SA Wittmann,,0,2,2,,,,31074231074
+2,Namibia,16,D Foerster,P Marange,SA Wittmann,,0,0,0,,,,31074231074
+2,Namibia,17,SA Wittmann,T Granger,D Foerster,,0,0,0,caught,SA Wittmann,M Musonda,31074231074
+2,Namibia,17,D Foerster,T Granger,W Mwatile,,0,0,0,,,,31074231074
+2,Namibia,17,D Foerster,T Granger,W Mwatile,,0,0,0,,,,31074231074
+2,Namibia,17,D Foerster,T Granger,W Mwatile,,0,0,0,,,,31074231074
+2,Namibia,17,D Foerster,T Granger,W Mwatile,,0,0,0,,,,31074231074
+2,Namibia,17,D Foerster,T Granger,W Mwatile,,0,0,0,,,,31074231074
+2,Namibia,18,W Mwatile,N Sibanda,D Foerster,,0,0,0,,,,31074231074
+2,Namibia,18,W Mwatile,N Sibanda,D Foerster,,0,4,4,,,,31074231074
+2,Namibia,18,W Mwatile,N Sibanda,D Foerster,,0,4,4,,,,31074231074
+2,Namibia,18,W Mwatile,N Sibanda,D Foerster,,0,1,1,,,,31074231074
+2,Namibia,18,D Foerster,N Sibanda,W Mwatile,,0,1,1,,,,31074231074
+2,Namibia,18,W Mwatile,N Sibanda,D Foerster,,0,0,0,,,,31074231074
+2,Namibia,19,D Foerster,J Nkomo,W Mwatile,,0,0,0,,,,31074231074
+2,Namibia,19,D Foerster,J Nkomo,W Mwatile,byes,1,1,0,,,,31074231074
+2,Namibia,19,W Mwatile,J Nkomo,D Foerster,,0,0,0,bowled,W Mwatile,,31074231074
+2,Namibia,19,SN Shihepo,J Nkomo,D Foerster,wides,1,1,0,,,,31074231074
+2,Namibia,19,SN Shihepo,J Nkomo,D Foerster,,0,0,0,,,,31074231074
+2,Namibia,19,SN Shihepo,J Nkomo,D Foerster,,0,0,0,caught,SN Shihepo,N Sibanda,31074231074
+2,Namibia,19,V Hamunyela,J Nkomo,D Foerster,,0,1,1,,,,31074231074

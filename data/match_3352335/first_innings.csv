@@ -1,0 +1,121 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Sri Lanka,0,WU Tharanga,B Lee,ST Jayasuriya,,0,1,1,,,,3352335
+1,Sri Lanka,0,ST Jayasuriya,B Lee,WU Tharanga,,0,0,0,,,,3352335
+1,Sri Lanka,0,ST Jayasuriya,B Lee,WU Tharanga,,0,0,0,lbw,ST Jayasuriya,,3352335
+1,Sri Lanka,0,KC Sangakkara,B Lee,WU Tharanga,,0,1,1,,,,3352335
+1,Sri Lanka,0,WU Tharanga,B Lee,KC Sangakkara,,0,1,1,,,,3352335
+1,Sri Lanka,0,KC Sangakkara,B Lee,WU Tharanga,,0,4,4,,,,3352335
+1,Sri Lanka,1,WU Tharanga,NW Bracken,KC Sangakkara,,0,0,0,,,,3352335
+1,Sri Lanka,1,WU Tharanga,NW Bracken,KC Sangakkara,,0,0,0,,,,3352335
+1,Sri Lanka,1,WU Tharanga,NW Bracken,KC Sangakkara,,0,2,2,,,,3352335
+1,Sri Lanka,1,WU Tharanga,NW Bracken,KC Sangakkara,,0,0,0,,,,3352335
+1,Sri Lanka,1,WU Tharanga,NW Bracken,KC Sangakkara,,0,0,0,,,,3352335
+1,Sri Lanka,1,WU Tharanga,NW Bracken,KC Sangakkara,,0,0,0,caught,WU Tharanga,B Lee,3352335
+1,Sri Lanka,2,DPMD Jayawardene,B Lee,KC Sangakkara,,0,1,1,,,,3352335
+1,Sri Lanka,2,KC Sangakkara,B Lee,DPMD Jayawardene,,0,0,0,,,,3352335
+1,Sri Lanka,2,KC Sangakkara,B Lee,DPMD Jayawardene,,0,1,1,,,,3352335
+1,Sri Lanka,2,DPMD Jayawardene,B Lee,KC Sangakkara,,0,0,0,caught,DPMD Jayawardene,SR Clark,3352335
+1,Sri Lanka,2,LPC Silva,B Lee,KC Sangakkara,,0,0,0,,,,3352335
+1,Sri Lanka,2,LPC Silva,B Lee,KC Sangakkara,,0,0,0,,,,3352335
+1,Sri Lanka,3,KC Sangakkara,NW Bracken,LPC Silva,,0,0,0,,,,3352335
+1,Sri Lanka,3,KC Sangakkara,NW Bracken,LPC Silva,,0,1,1,,,,3352335
+1,Sri Lanka,3,LPC Silva,NW Bracken,KC Sangakkara,,0,1,1,,,,3352335
+1,Sri Lanka,3,KC Sangakkara,NW Bracken,LPC Silva,,0,0,0,,,,3352335
+1,Sri Lanka,3,KC Sangakkara,NW Bracken,LPC Silva,,0,2,2,,,,3352335
+1,Sri Lanka,3,KC Sangakkara,NW Bracken,LPC Silva,,0,0,0,,,,3352335
+1,Sri Lanka,4,LPC Silva,MG Johnson,KC Sangakkara,,0,4,4,,,,3352335
+1,Sri Lanka,4,LPC Silva,MG Johnson,KC Sangakkara,,0,0,0,,,,3352335
+1,Sri Lanka,4,LPC Silva,MG Johnson,KC Sangakkara,,0,0,0,,,,3352335
+1,Sri Lanka,4,LPC Silva,MG Johnson,KC Sangakkara,wides,1,1,0,,,,3352335
+1,Sri Lanka,4,LPC Silva,MG Johnson,KC Sangakkara,,0,0,0,,,,3352335
+1,Sri Lanka,4,LPC Silva,MG Johnson,KC Sangakkara,,0,1,1,,,,3352335
+1,Sri Lanka,4,KC Sangakkara,MG Johnson,LPC Silva,,0,0,0,,,,3352335
+1,Sri Lanka,5,LPC Silva,SR Clark,KC Sangakkara,,0,0,0,,,,3352335
+1,Sri Lanka,5,LPC Silva,SR Clark,KC Sangakkara,,0,0,0,,,,3352335
+1,Sri Lanka,5,LPC Silva,SR Clark,KC Sangakkara,,0,0,0,caught,LPC Silva,B Lee,3352335
+1,Sri Lanka,5,KC Sangakkara,SR Clark,TM Dilshan,,0,4,4,,,,3352335
+1,Sri Lanka,5,KC Sangakkara,SR Clark,TM Dilshan,,0,1,1,,,,3352335
+1,Sri Lanka,5,TM Dilshan,SR Clark,KC Sangakkara,,0,0,0,,,,3352335
+1,Sri Lanka,6,KC Sangakkara,MG Johnson,TM Dilshan,,0,0,0,,,,3352335
+1,Sri Lanka,6,KC Sangakkara,MG Johnson,TM Dilshan,,0,0,0,,,,3352335
+1,Sri Lanka,6,KC Sangakkara,MG Johnson,TM Dilshan,,0,0,0,,,,3352335
+1,Sri Lanka,6,KC Sangakkara,MG Johnson,TM Dilshan,,0,1,1,,,,3352335
+1,Sri Lanka,6,TM Dilshan,MG Johnson,KC Sangakkara,,0,1,1,,,,3352335
+1,Sri Lanka,6,KC Sangakkara,MG Johnson,TM Dilshan,,0,0,0,,,,3352335
+1,Sri Lanka,7,TM Dilshan,SR Clark,KC Sangakkara,,0,2,2,,,,3352335
+1,Sri Lanka,7,TM Dilshan,SR Clark,KC Sangakkara,,0,0,0,,,,3352335
+1,Sri Lanka,7,TM Dilshan,SR Clark,KC Sangakkara,,0,0,0,caught,TM Dilshan,AC Gilchrist,3352335
+1,Sri Lanka,7,J Mubarak,SR Clark,KC Sangakkara,,0,0,0,,,,3352335
+1,Sri Lanka,7,J Mubarak,SR Clark,KC Sangakkara,,0,4,4,,,,3352335
+1,Sri Lanka,7,J Mubarak,SR Clark,KC Sangakkara,,0,0,0,,,,3352335
+1,Sri Lanka,8,KC Sangakkara,MG Johnson,J Mubarak,,0,1,1,,,,3352335
+1,Sri Lanka,8,J Mubarak,MG Johnson,KC Sangakkara,,0,0,0,,,,3352335
+1,Sri Lanka,8,J Mubarak,MG Johnson,KC Sangakkara,,0,1,1,,,,3352335
+1,Sri Lanka,8,KC Sangakkara,MG Johnson,J Mubarak,,0,1,1,,,,3352335
+1,Sri Lanka,8,J Mubarak,MG Johnson,KC Sangakkara,,0,1,1,,,,3352335
+1,Sri Lanka,8,KC Sangakkara,MG Johnson,J Mubarak,,0,1,1,,,,3352335
+1,Sri Lanka,9,KC Sangakkara,SR Clark,J Mubarak,,0,0,0,,,,3352335
+1,Sri Lanka,9,KC Sangakkara,SR Clark,J Mubarak,,0,4,4,,,,3352335
+1,Sri Lanka,9,KC Sangakkara,SR Clark,J Mubarak,,0,0,0,caught,KC Sangakkara,MJ Clarke,3352335
+1,Sri Lanka,9,MF Maharoof,SR Clark,J Mubarak,,0,0,0,,,,3352335
+1,Sri Lanka,9,MF Maharoof,SR Clark,J Mubarak,,0,0,0,caught,MF Maharoof,MJ Clarke,3352335
+1,Sri Lanka,9,WPUJC Vaas,SR Clark,J Mubarak,,0,0,0,,,,3352335
+1,Sri Lanka,10,J Mubarak,B Lee,WPUJC Vaas,,0,1,1,,,,3352335
+1,Sri Lanka,10,WPUJC Vaas,B Lee,J Mubarak,,0,4,4,,,,3352335
+1,Sri Lanka,10,WPUJC Vaas,B Lee,J Mubarak,,0,1,1,,,,3352335
+1,Sri Lanka,10,J Mubarak,B Lee,WPUJC Vaas,,0,4,4,,,,3352335
+1,Sri Lanka,10,J Mubarak,B Lee,WPUJC Vaas,,0,0,0,,,,3352335
+1,Sri Lanka,10,J Mubarak,B Lee,WPUJC Vaas,,0,2,2,,,,3352335
+1,Sri Lanka,11,WPUJC Vaas,SR Clark,J Mubarak,,0,0,0,,,,3352335
+1,Sri Lanka,11,WPUJC Vaas,SR Clark,J Mubarak,,0,1,1,,,,3352335
+1,Sri Lanka,11,J Mubarak,SR Clark,WPUJC Vaas,,0,1,1,,,,3352335
+1,Sri Lanka,11,WPUJC Vaas,SR Clark,J Mubarak,noballs,1,2,1,,,,3352335
+1,Sri Lanka,11,J Mubarak,SR Clark,WPUJC Vaas,,0,1,1,,,,3352335
+1,Sri Lanka,11,WPUJC Vaas,SR Clark,J Mubarak,,0,0,0,,,,3352335
+1,Sri Lanka,11,WPUJC Vaas,SR Clark,J Mubarak,,0,0,0,,,,3352335
+1,Sri Lanka,12,J Mubarak,SR Watson,WPUJC Vaas,,0,1,1,,,,3352335
+1,Sri Lanka,12,WPUJC Vaas,SR Watson,J Mubarak,,0,1,1,,,,3352335
+1,Sri Lanka,12,J Mubarak,SR Watson,WPUJC Vaas,,0,1,1,,,,3352335
+1,Sri Lanka,12,WPUJC Vaas,SR Watson,J Mubarak,,0,0,0,,,,3352335
+1,Sri Lanka,12,WPUJC Vaas,SR Watson,J Mubarak,,0,1,1,,,,3352335
+1,Sri Lanka,12,J Mubarak,SR Watson,WPUJC Vaas,,0,1,1,,,,3352335
+1,Sri Lanka,13,J Mubarak,NW Bracken,WPUJC Vaas,,0,4,4,,,,3352335
+1,Sri Lanka,13,J Mubarak,NW Bracken,WPUJC Vaas,,0,0,0,,,,3352335
+1,Sri Lanka,13,J Mubarak,NW Bracken,WPUJC Vaas,,0,1,1,,,,3352335
+1,Sri Lanka,13,WPUJC Vaas,NW Bracken,J Mubarak,,0,0,0,,,,3352335
+1,Sri Lanka,13,WPUJC Vaas,NW Bracken,J Mubarak,,0,1,1,,,,3352335
+1,Sri Lanka,13,J Mubarak,NW Bracken,WPUJC Vaas,,0,1,1,,,,3352335
+1,Sri Lanka,14,J Mubarak,SR Watson,WPUJC Vaas,,0,1,1,,,,3352335
+1,Sri Lanka,14,WPUJC Vaas,SR Watson,J Mubarak,noballs,1,1,0,,,,3352335
+1,Sri Lanka,14,WPUJC Vaas,SR Watson,J Mubarak,,0,1,1,,,,3352335
+1,Sri Lanka,14,J Mubarak,SR Watson,WPUJC Vaas,,0,0,0,,,,3352335
+1,Sri Lanka,14,J Mubarak,SR Watson,WPUJC Vaas,,0,1,1,,,,3352335
+1,Sri Lanka,14,WPUJC Vaas,SR Watson,J Mubarak,,0,1,1,,,,3352335
+1,Sri Lanka,14,J Mubarak,SR Watson,WPUJC Vaas,,0,0,0,,,,3352335
+1,Sri Lanka,15,WPUJC Vaas,MG Johnson,J Mubarak,,0,1,1,,,,3352335
+1,Sri Lanka,15,J Mubarak,MG Johnson,WPUJC Vaas,,0,1,1,,,,3352335
+1,Sri Lanka,15,WPUJC Vaas,MG Johnson,J Mubarak,,0,0,0,,,,3352335
+1,Sri Lanka,15,WPUJC Vaas,MG Johnson,J Mubarak,,0,1,1,,,,3352335
+1,Sri Lanka,15,J Mubarak,MG Johnson,WPUJC Vaas,,0,1,1,,,,3352335
+1,Sri Lanka,15,WPUJC Vaas,MG Johnson,J Mubarak,,0,1,1,,,,3352335
+1,Sri Lanka,16,WPUJC Vaas,SR Watson,J Mubarak,,0,1,1,,,,3352335
+1,Sri Lanka,16,J Mubarak,SR Watson,WPUJC Vaas,,0,0,0,caught,J Mubarak,A Symonds,3352335
+1,Sri Lanka,16,WPUJC Vaas,SR Watson,SL Malinga,,0,1,1,,,,3352335
+1,Sri Lanka,16,SL Malinga,SR Watson,WPUJC Vaas,,0,0,0,,,,3352335
+1,Sri Lanka,16,SL Malinga,SR Watson,WPUJC Vaas,legbyes,1,1,0,,,,3352335
+1,Sri Lanka,16,WPUJC Vaas,SR Watson,SL Malinga,,0,1,1,,,,3352335
+1,Sri Lanka,17,WPUJC Vaas,B Lee,SL Malinga,,0,1,1,,,,3352335
+1,Sri Lanka,17,SL Malinga,B Lee,WPUJC Vaas,,0,1,1,,,,3352335
+1,Sri Lanka,17,WPUJC Vaas,B Lee,SL Malinga,,0,1,1,,,,3352335
+1,Sri Lanka,17,SL Malinga,B Lee,WPUJC Vaas,,0,1,1,,,,3352335
+1,Sri Lanka,17,WPUJC Vaas,B Lee,SL Malinga,,0,1,1,,,,3352335
+1,Sri Lanka,17,SL Malinga,B Lee,WPUJC Vaas,,0,1,1,,,,3352335
+1,Sri Lanka,18,SL Malinga,SR Watson,WPUJC Vaas,,0,0,0,,,,3352335
+1,Sri Lanka,18,SL Malinga,SR Watson,WPUJC Vaas,,0,6,6,,,,3352335
+1,Sri Lanka,18,SL Malinga,A Symonds,WPUJC Vaas,,0,1,1,,,,3352335
+1,Sri Lanka,18,WPUJC Vaas,A Symonds,SL Malinga,,0,0,0,,,,3352335
+1,Sri Lanka,18,WPUJC Vaas,A Symonds,SL Malinga,,0,0,0,caught,WPUJC Vaas,B Lee,3352335
+1,Sri Lanka,18,SL Malinga,A Symonds,CRD Fernando,,0,1,1,,,,3352335
+1,Sri Lanka,19,SL Malinga,NW Bracken,CRD Fernando,,0,1,1,,,,3352335
+1,Sri Lanka,19,CRD Fernando,NW Bracken,SL Malinga,,0,0,0,,,,3352335
+1,Sri Lanka,19,CRD Fernando,NW Bracken,SL Malinga,,0,0,0,caught and bowled,CRD Fernando,,3352335

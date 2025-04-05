@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Zimbabwe,0,C Zhuwao,Shoaib Malik,SF Mire,,0,1,1,,,,383623836
+1,Zimbabwe,0,SF Mire,Shoaib Malik,C Zhuwao,,0,1,1,,,,383623836
+1,Zimbabwe,0,C Zhuwao,Shoaib Malik,SF Mire,,0,0,0,,,,383623836
+1,Zimbabwe,0,C Zhuwao,Shoaib Malik,SF Mire,,0,6,6,,,,383623836
+1,Zimbabwe,0,C Zhuwao,Shoaib Malik,SF Mire,,0,0,0,,,,383623836
+1,Zimbabwe,0,C Zhuwao,Shoaib Malik,SF Mire,,0,4,4,,,,383623836
+1,Zimbabwe,1,SF Mire,Mohammad Amir,C Zhuwao,,0,1,1,,,,383623836
+1,Zimbabwe,1,C Zhuwao,Mohammad Amir,SF Mire,,0,0,0,,,,383623836
+1,Zimbabwe,1,C Zhuwao,Mohammad Amir,SF Mire,,0,0,0,,,,383623836
+1,Zimbabwe,1,C Zhuwao,Mohammad Amir,SF Mire,,0,0,0,,,,383623836
+1,Zimbabwe,1,C Zhuwao,Mohammad Amir,SF Mire,,0,0,0,,,,383623836
+1,Zimbabwe,1,C Zhuwao,Mohammad Amir,SF Mire,,0,1,1,,,,383623836
+1,Zimbabwe,2,C Zhuwao,Hasan Ali,SF Mire,,0,4,4,,,,383623836
+1,Zimbabwe,2,C Zhuwao,Hasan Ali,SF Mire,,0,0,0,,,,383623836
+1,Zimbabwe,2,C Zhuwao,Hasan Ali,SF Mire,,0,0,0,,,,383623836
+1,Zimbabwe,2,C Zhuwao,Hasan Ali,SF Mire,,0,4,4,,,,383623836
+1,Zimbabwe,2,C Zhuwao,Hasan Ali,SF Mire,,0,1,1,,,,383623836
+1,Zimbabwe,2,SF Mire,Hasan Ali,C Zhuwao,legbyes,1,1,0,,,,383623836
+1,Zimbabwe,3,SF Mire,Mohammad Amir,C Zhuwao,,0,0,0,,,,383623836
+1,Zimbabwe,3,SF Mire,Mohammad Amir,C Zhuwao,,0,4,4,,,,383623836
+1,Zimbabwe,3,SF Mire,Mohammad Amir,C Zhuwao,,0,0,0,,,,383623836
+1,Zimbabwe,3,SF Mire,Mohammad Amir,C Zhuwao,,0,0,0,,,,383623836
+1,Zimbabwe,3,SF Mire,Mohammad Amir,C Zhuwao,,0,1,1,,,,383623836
+1,Zimbabwe,3,C Zhuwao,Mohammad Amir,SF Mire,,0,0,0,,,,383623836
+1,Zimbabwe,4,SF Mire,Hasan Ali,C Zhuwao,,0,4,4,,,,383623836
+1,Zimbabwe,4,SF Mire,Hasan Ali,C Zhuwao,,0,2,2,,,,383623836
+1,Zimbabwe,4,SF Mire,Hasan Ali,C Zhuwao,,0,2,2,,,,383623836
+1,Zimbabwe,4,SF Mire,Hasan Ali,C Zhuwao,,0,0,0,,,,383623836
+1,Zimbabwe,4,SF Mire,Hasan Ali,C Zhuwao,,0,1,1,,,,383623836
+1,Zimbabwe,4,C Zhuwao,Hasan Ali,SF Mire,,0,0,0,,,,383623836
+1,Zimbabwe,5,SF Mire,Faheem Ashraf,C Zhuwao,,0,0,0,,,,383623836
+1,Zimbabwe,5,SF Mire,Faheem Ashraf,C Zhuwao,,0,0,0,,,,383623836
+1,Zimbabwe,5,SF Mire,Faheem Ashraf,C Zhuwao,,0,0,0,,,,383623836
+1,Zimbabwe,5,SF Mire,Faheem Ashraf,C Zhuwao,,0,1,1,,,,383623836
+1,Zimbabwe,5,C Zhuwao,Faheem Ashraf,SF Mire,,0,1,1,,,,383623836
+1,Zimbabwe,5,SF Mire,Faheem Ashraf,C Zhuwao,,0,6,6,,,,383623836
+1,Zimbabwe,6,C Zhuwao,Shadab Khan,SF Mire,,0,0,0,,,,383623836
+1,Zimbabwe,6,C Zhuwao,Shadab Khan,SF Mire,,0,0,0,,,,383623836
+1,Zimbabwe,6,C Zhuwao,Shadab Khan,SF Mire,,0,0,0,,,,383623836
+1,Zimbabwe,6,C Zhuwao,Shadab Khan,SF Mire,,0,0,0,,,,383623836
+1,Zimbabwe,6,C Zhuwao,Shadab Khan,SF Mire,,0,1,1,,,,383623836
+1,Zimbabwe,6,SF Mire,Shadab Khan,C Zhuwao,,0,0,0,,,,383623836
+1,Zimbabwe,7,C Zhuwao,Faheem Ashraf,SF Mire,,0,1,1,,,,383623836
+1,Zimbabwe,7,SF Mire,Faheem Ashraf,C Zhuwao,,0,1,1,,,,383623836
+1,Zimbabwe,7,C Zhuwao,Faheem Ashraf,SF Mire,,0,0,0,,,,383623836
+1,Zimbabwe,7,C Zhuwao,Faheem Ashraf,SF Mire,,0,0,0,bowled,C Zhuwao,,383623836
+1,Zimbabwe,7,H Masakadza,Faheem Ashraf,SF Mire,,0,0,0,,,,383623836
+1,Zimbabwe,7,H Masakadza,Faheem Ashraf,SF Mire,,0,0,0,,,,383623836
+1,Zimbabwe,8,SF Mire,Mohammad Nawaz (3),H Masakadza,,0,0,0,,,,383623836
+1,Zimbabwe,8,SF Mire,Mohammad Nawaz (3),H Masakadza,,0,1,1,,,,383623836
+1,Zimbabwe,8,H Masakadza,Mohammad Nawaz (3),SF Mire,,0,1,1,,,,383623836
+1,Zimbabwe,8,SF Mire,Mohammad Nawaz (3),H Masakadza,,0,4,4,,,,383623836
+1,Zimbabwe,8,SF Mire,Mohammad Nawaz (3),H Masakadza,,0,0,0,,,,383623836
+1,Zimbabwe,8,SF Mire,Mohammad Nawaz (3),H Masakadza,,0,0,0,,,,383623836
+1,Zimbabwe,9,H Masakadza,Shadab Khan,SF Mire,,0,1,1,,,,383623836
+1,Zimbabwe,9,SF Mire,Shadab Khan,H Masakadza,,0,6,6,,,,383623836
+1,Zimbabwe,9,SF Mire,Shadab Khan,H Masakadza,,0,2,2,,,,383623836
+1,Zimbabwe,9,SF Mire,Shadab Khan,H Masakadza,,0,0,0,,,,383623836
+1,Zimbabwe,9,SF Mire,Shadab Khan,H Masakadza,wides,1,1,0,,,,383623836
+1,Zimbabwe,9,SF Mire,Shadab Khan,H Masakadza,,0,6,6,,,,383623836
+1,Zimbabwe,9,SF Mire,Shadab Khan,H Masakadza,,0,1,1,,,,383623836
+1,Zimbabwe,10,SF Mire,Mohammad Nawaz (3),H Masakadza,,0,0,0,,,,383623836
+1,Zimbabwe,10,SF Mire,Mohammad Nawaz (3),H Masakadza,,0,6,6,,,,383623836
+1,Zimbabwe,10,SF Mire,Mohammad Nawaz (3),H Masakadza,,0,4,4,,,,383623836
+1,Zimbabwe,10,SF Mire,Mohammad Nawaz (3),H Masakadza,,0,0,0,,,,383623836
+1,Zimbabwe,10,SF Mire,Mohammad Nawaz (3),H Masakadza,,0,0,0,,,,383623836
+1,Zimbabwe,10,SF Mire,Mohammad Nawaz (3),H Masakadza,,0,0,0,,,,383623836
+1,Zimbabwe,11,H Masakadza,Shadab Khan,SF Mire,,0,0,0,bowled,H Masakadza,,383623836
+1,Zimbabwe,11,TK Musakanda,Shadab Khan,SF Mire,,0,1,1,,,,383623836
+1,Zimbabwe,11,SF Mire,Shadab Khan,TK Musakanda,,0,0,0,,,,383623836
+1,Zimbabwe,11,SF Mire,Shadab Khan,TK Musakanda,,0,4,4,,,,383623836
+1,Zimbabwe,11,SF Mire,Shadab Khan,TK Musakanda,,0,4,4,,,,383623836
+1,Zimbabwe,11,SF Mire,Shadab Khan,TK Musakanda,,0,1,1,,,,383623836
+1,Zimbabwe,12,SF Mire,Faheem Ashraf,TK Musakanda,,0,1,1,,,,383623836
+1,Zimbabwe,12,TK Musakanda,Faheem Ashraf,SF Mire,,0,4,4,,,,383623836
+1,Zimbabwe,12,TK Musakanda,Faheem Ashraf,SF Mire,,0,2,2,,,,383623836
+1,Zimbabwe,12,TK Musakanda,Faheem Ashraf,SF Mire,,0,1,1,,,,383623836
+1,Zimbabwe,12,SF Mire,Faheem Ashraf,TK Musakanda,,0,1,1,,,,383623836
+1,Zimbabwe,12,TK Musakanda,Faheem Ashraf,SF Mire,,0,1,1,,,,383623836
+1,Zimbabwe,13,TK Musakanda,Hasan Ali,SF Mire,,0,1,1,,,,383623836
+1,Zimbabwe,13,SF Mire,Hasan Ali,TK Musakanda,,0,2,2,,,,383623836
+1,Zimbabwe,13,SF Mire,Hasan Ali,TK Musakanda,,0,1,1,,,,383623836
+1,Zimbabwe,13,TK Musakanda,Hasan Ali,SF Mire,,0,1,1,,,,383623836
+1,Zimbabwe,13,SF Mire,Hasan Ali,TK Musakanda,,0,0,0,,,,383623836
+1,Zimbabwe,13,SF Mire,Hasan Ali,TK Musakanda,,0,2,2,,,,383623836
+1,Zimbabwe,14,TK Musakanda,Mohammad Nawaz (3),SF Mire,,0,1,1,,,,383623836
+1,Zimbabwe,14,SF Mire,Mohammad Nawaz (3),TK Musakanda,,0,6,6,,,,383623836
+1,Zimbabwe,14,SF Mire,Mohammad Nawaz (3),TK Musakanda,,0,0,0,,,,383623836
+1,Zimbabwe,14,SF Mire,Mohammad Nawaz (3),TK Musakanda,,0,0,0,,,,383623836
+1,Zimbabwe,14,SF Mire,Mohammad Nawaz (3),TK Musakanda,,0,2,2,,,,383623836
+1,Zimbabwe,14,SF Mire,Mohammad Nawaz (3),TK Musakanda,,0,0,0,,,,383623836
+1,Zimbabwe,15,TK Musakanda,Mohammad Amir,SF Mire,,0,1,1,,,,383623836
+1,Zimbabwe,15,SF Mire,Mohammad Amir,TK Musakanda,,0,1,1,,,,383623836
+1,Zimbabwe,15,TK Musakanda,Mohammad Amir,SF Mire,,0,0,0,,,,383623836
+1,Zimbabwe,15,TK Musakanda,Mohammad Amir,SF Mire,,0,1,1,,,,383623836
+1,Zimbabwe,15,SF Mire,Mohammad Amir,TK Musakanda,,0,6,6,,,,383623836
+1,Zimbabwe,15,SF Mire,Mohammad Amir,TK Musakanda,,0,1,1,,,,383623836
+1,Zimbabwe,16,SF Mire,Faheem Ashraf,TK Musakanda,,0,2,2,,,,383623836
+1,Zimbabwe,16,SF Mire,Faheem Ashraf,TK Musakanda,,0,0,0,,,,383623836
+1,Zimbabwe,16,SF Mire,Faheem Ashraf,TK Musakanda,,0,0,0,,,,383623836
+1,Zimbabwe,16,SF Mire,Faheem Ashraf,TK Musakanda,,0,1,1,,,,383623836
+1,Zimbabwe,16,TK Musakanda,Faheem Ashraf,SF Mire,,0,0,0,,,,383623836
+1,Zimbabwe,16,TK Musakanda,Faheem Ashraf,SF Mire,,0,1,1,,,,383623836
+1,Zimbabwe,17,TK Musakanda,Hasan Ali,SF Mire,,0,4,4,,,,383623836
+1,Zimbabwe,17,TK Musakanda,Hasan Ali,SF Mire,,0,4,4,,,,383623836
+1,Zimbabwe,17,TK Musakanda,Hasan Ali,SF Mire,,0,1,1,,,,383623836
+1,Zimbabwe,17,SF Mire,Hasan Ali,TK Musakanda,,0,0,0,,,,383623836
+1,Zimbabwe,17,SF Mire,Hasan Ali,TK Musakanda,,0,2,2,,,,383623836
+1,Zimbabwe,17,SF Mire,Hasan Ali,TK Musakanda,,0,1,1,,,,383623836
+1,Zimbabwe,18,SF Mire,Hussain Talat,TK Musakanda,,0,2,2,,,,383623836
+1,Zimbabwe,18,SF Mire,Hussain Talat,TK Musakanda,,0,0,0,caught,SF Mire,Shadab Khan,383623836
+1,Zimbabwe,18,TK Musakanda,Hussain Talat,E Chigumbura,,0,2,2,,,,383623836
+1,Zimbabwe,18,TK Musakanda,Hussain Talat,E Chigumbura,wides,1,1,0,,,,383623836
+1,Zimbabwe,18,TK Musakanda,Hussain Talat,E Chigumbura,,0,1,1,,,,383623836
+1,Zimbabwe,18,E Chigumbura,Hussain Talat,TK Musakanda,,0,2,2,,,,383623836
+1,Zimbabwe,18,E Chigumbura,Hussain Talat,TK Musakanda,wides,1,1,0,,,,383623836
+1,Zimbabwe,18,E Chigumbura,Hussain Talat,TK Musakanda,,0,1,1,,,,383623836
+1,Zimbabwe,19,E Chigumbura,Mohammad Amir,TK Musakanda,,0,1,1,,,,383623836
+1,Zimbabwe,19,TK Musakanda,Mohammad Amir,E Chigumbura,,0,4,4,,,,383623836
+1,Zimbabwe,19,TK Musakanda,Mohammad Amir,E Chigumbura,,0,2,2,,,,383623836
+1,Zimbabwe,19,TK Musakanda,Mohammad Amir,E Chigumbura,,0,0,0,,,,383623836
+1,Zimbabwe,19,TK Musakanda,Mohammad Amir,E Chigumbura,,0,0,0,caught,TK Musakanda,Shoaib Malik,383623836
+1,Zimbabwe,19,E Chigumbura,Mohammad Amir,MN Waller,,0,1,1,,,,383623836

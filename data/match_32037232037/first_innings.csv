@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Ireland,0,L Paul,N Mlaba,GH Lewis,,0,0,0,,,,32037232037
+1,Ireland,0,L Paul,N Mlaba,GH Lewis,,0,1,1,,,,32037232037
+1,Ireland,0,GH Lewis,N Mlaba,L Paul,,0,0,0,,,,32037232037
+1,Ireland,0,GH Lewis,N Mlaba,L Paul,,0,4,4,,,,32037232037
+1,Ireland,0,GH Lewis,N Mlaba,L Paul,,0,4,4,,,,32037232037
+1,Ireland,0,GH Lewis,N Mlaba,L Paul,,0,0,0,,,,32037232037
+1,Ireland,1,L Paul,S Ismail,GH Lewis,,0,0,0,,,,32037232037
+1,Ireland,1,L Paul,S Ismail,GH Lewis,,0,0,0,,,,32037232037
+1,Ireland,1,L Paul,S Ismail,GH Lewis,,0,0,0,,,,32037232037
+1,Ireland,1,L Paul,S Ismail,GH Lewis,,0,0,0,,,,32037232037
+1,Ireland,1,L Paul,S Ismail,GH Lewis,,0,0,0,,,,32037232037
+1,Ireland,1,L Paul,S Ismail,GH Lewis,,0,0,0,,,,32037232037
+1,Ireland,2,GH Lewis,N de Klerk,L Paul,,0,1,1,,,,32037232037
+1,Ireland,2,L Paul,N de Klerk,GH Lewis,,0,0,0,,,,32037232037
+1,Ireland,2,L Paul,N de Klerk,GH Lewis,,0,0,0,,,,32037232037
+1,Ireland,2,L Paul,N de Klerk,GH Lewis,,0,4,4,,,,32037232037
+1,Ireland,2,L Paul,N de Klerk,GH Lewis,,0,4,4,,,,32037232037
+1,Ireland,2,L Paul,N de Klerk,GH Lewis,,0,0,0,,,,32037232037
+1,Ireland,3,GH Lewis,S Ismail,L Paul,,0,0,0,,,,32037232037
+1,Ireland,3,GH Lewis,S Ismail,L Paul,,0,1,1,,,,32037232037
+1,Ireland,3,L Paul,S Ismail,GH Lewis,,0,0,0,,,,32037232037
+1,Ireland,3,L Paul,S Ismail,GH Lewis,,0,0,0,lbw,L Paul,,32037232037
+1,Ireland,3,MV Waldron,S Ismail,GH Lewis,noballs,1,2,1,,,,32037232037
+1,Ireland,3,GH Lewis,S Ismail,MV Waldron,,0,1,1,,,,32037232037
+1,Ireland,3,MV Waldron,S Ismail,GH Lewis,,0,0,0,,,,32037232037
+1,Ireland,4,GH Lewis,N de Klerk,MV Waldron,,0,0,0,,,,32037232037
+1,Ireland,4,GH Lewis,N de Klerk,MV Waldron,,0,0,0,,,,32037232037
+1,Ireland,4,GH Lewis,N de Klerk,MV Waldron,,0,2,2,,,,32037232037
+1,Ireland,4,GH Lewis,N de Klerk,MV Waldron,,0,0,0,,,,32037232037
+1,Ireland,4,GH Lewis,N de Klerk,MV Waldron,,0,6,6,,,,32037232037
+1,Ireland,4,GH Lewis,N de Klerk,MV Waldron,,0,0,0,,,,32037232037
+1,Ireland,5,MV Waldron,TS Sekhukhune,GH Lewis,,0,0,0,,,,32037232037
+1,Ireland,5,MV Waldron,TS Sekhukhune,GH Lewis,,0,1,1,,,,32037232037
+1,Ireland,5,GH Lewis,TS Sekhukhune,MV Waldron,,0,0,0,,,,32037232037
+1,Ireland,5,GH Lewis,TS Sekhukhune,MV Waldron,,0,4,4,,,,32037232037
+1,Ireland,5,GH Lewis,TS Sekhukhune,MV Waldron,,0,0,0,,,,32037232037
+1,Ireland,5,GH Lewis,TS Sekhukhune,MV Waldron,,0,0,0,,,,32037232037
+1,Ireland,6,MV Waldron,N Mlaba,GH Lewis,,0,1,1,,,,32037232037
+1,Ireland,6,GH Lewis,N Mlaba,MV Waldron,,0,2,2,,,,32037232037
+1,Ireland,6,GH Lewis,N Mlaba,MV Waldron,,0,1,1,,,,32037232037
+1,Ireland,6,MV Waldron,N Mlaba,GH Lewis,,0,1,1,,,,32037232037
+1,Ireland,6,GH Lewis,N Mlaba,MV Waldron,,0,0,0,,,,32037232037
+1,Ireland,6,GH Lewis,N Mlaba,MV Waldron,,0,1,1,,,,32037232037
+1,Ireland,7,GH Lewis,TS Sekhukhune,MV Waldron,,0,1,1,,,,32037232037
+1,Ireland,7,MV Waldron,TS Sekhukhune,GH Lewis,,0,0,0,,,,32037232037
+1,Ireland,7,MV Waldron,TS Sekhukhune,GH Lewis,,0,1,1,,,,32037232037
+1,Ireland,7,GH Lewis,TS Sekhukhune,MV Waldron,,0,0,0,,,,32037232037
+1,Ireland,7,GH Lewis,TS Sekhukhune,MV Waldron,,0,0,0,,,,32037232037
+1,Ireland,7,GH Lewis,TS Sekhukhune,MV Waldron,,0,0,0,,,,32037232037
+1,Ireland,8,MV Waldron,N Mlaba,GH Lewis,,0,1,1,,,,32037232037
+1,Ireland,8,GH Lewis,N Mlaba,MV Waldron,,0,1,1,,,,32037232037
+1,Ireland,8,MV Waldron,N Mlaba,GH Lewis,,0,1,1,,,,32037232037
+1,Ireland,8,GH Lewis,N Mlaba,MV Waldron,,0,2,2,,,,32037232037
+1,Ireland,8,GH Lewis,N Mlaba,MV Waldron,,0,0,0,caught,GH Lewis,S Ismail,32037232037
+1,Ireland,8,MV Waldron,N Mlaba,SM Kavanagh,,0,1,1,,,,32037232037
+1,Ireland,9,MV Waldron,CL Tryon,SM Kavanagh,,0,1,1,,,,32037232037
+1,Ireland,9,SM Kavanagh,CL Tryon,MV Waldron,,0,0,0,,,,32037232037
+1,Ireland,9,SM Kavanagh,CL Tryon,MV Waldron,wides,1,1,0,,,,32037232037
+1,Ireland,9,SM Kavanagh,CL Tryon,MV Waldron,,0,0,0,,,,32037232037
+1,Ireland,9,SM Kavanagh,CL Tryon,MV Waldron,,0,1,1,,,,32037232037
+1,Ireland,9,MV Waldron,CL Tryon,SM Kavanagh,,0,1,1,,,,32037232037
+1,Ireland,9,SM Kavanagh,CL Tryon,MV Waldron,,0,0,0,,,,32037232037
+1,Ireland,10,MV Waldron,N Mlaba,SM Kavanagh,,0,0,0,,,,32037232037
+1,Ireland,10,MV Waldron,N Mlaba,SM Kavanagh,,0,1,1,,,,32037232037
+1,Ireland,10,SM Kavanagh,N Mlaba,MV Waldron,,0,0,0,,,,32037232037
+1,Ireland,10,SM Kavanagh,N Mlaba,MV Waldron,,0,1,1,,,,32037232037
+1,Ireland,10,MV Waldron,N Mlaba,SM Kavanagh,,0,0,0,,,,32037232037
+1,Ireland,10,MV Waldron,N Mlaba,SM Kavanagh,,0,1,1,,,,32037232037
+1,Ireland,11,MV Waldron,CL Tryon,SM Kavanagh,,0,4,4,,,,32037232037
+1,Ireland,11,MV Waldron,CL Tryon,SM Kavanagh,,0,2,2,,,,32037232037
+1,Ireland,11,MV Waldron,CL Tryon,SM Kavanagh,,0,1,1,,,,32037232037
+1,Ireland,11,SM Kavanagh,CL Tryon,MV Waldron,,0,0,0,,,,32037232037
+1,Ireland,11,SM Kavanagh,CL Tryon,MV Waldron,,0,1,1,,,,32037232037
+1,Ireland,11,MV Waldron,CL Tryon,SM Kavanagh,,0,0,0,,,,32037232037
+1,Ireland,12,SM Kavanagh,N de Klerk,MV Waldron,,0,0,0,bowled,SM Kavanagh,,32037232037
+1,Ireland,12,AN Kelly,N de Klerk,MV Waldron,byes,1,1,0,,,,32037232037
+1,Ireland,12,MV Waldron,N de Klerk,AN Kelly,,0,1,1,,,,32037232037
+1,Ireland,12,AN Kelly,N de Klerk,MV Waldron,,0,0,0,,,,32037232037
+1,Ireland,12,AN Kelly,N de Klerk,MV Waldron,,0,0,0,,,,32037232037
+1,Ireland,12,AN Kelly,N de Klerk,MV Waldron,,0,0,0,,,,32037232037
+1,Ireland,13,MV Waldron,S Ismail,AN Kelly,,0,0,0,,,,32037232037
+1,Ireland,13,MV Waldron,S Ismail,AN Kelly,,0,1,1,,,,32037232037
+1,Ireland,13,AN Kelly,S Ismail,MV Waldron,,0,0,0,,,,32037232037
+1,Ireland,13,AN Kelly,S Ismail,MV Waldron,,0,0,0,,,,32037232037
+1,Ireland,13,AN Kelly,S Ismail,MV Waldron,,0,1,1,,,,32037232037
+1,Ireland,13,MV Waldron,S Ismail,AN Kelly,,0,0,0,,,,32037232037
+1,Ireland,14,AN Kelly,A Bosch,MV Waldron,,0,2,2,,,,32037232037
+1,Ireland,14,AN Kelly,A Bosch,MV Waldron,wides,1,1,0,,,,32037232037
+1,Ireland,14,AN Kelly,A Bosch,MV Waldron,,0,0,0,,,,32037232037
+1,Ireland,14,AN Kelly,A Bosch,MV Waldron,,0,1,1,,,,32037232037
+1,Ireland,14,MV Waldron,A Bosch,AN Kelly,,0,1,1,,,,32037232037
+1,Ireland,14,AN Kelly,A Bosch,MV Waldron,,0,2,2,,,,32037232037
+1,Ireland,14,AN Kelly,A Bosch,MV Waldron,,0,0,0,,,,32037232037
+1,Ireland,15,MV Waldron,TS Sekhukhune,AN Kelly,,0,0,0,,,,32037232037
+1,Ireland,15,MV Waldron,TS Sekhukhune,AN Kelly,,0,1,1,,,,32037232037
+1,Ireland,15,AN Kelly,TS Sekhukhune,MV Waldron,,0,0,0,caught,AN Kelly,S Ismail,32037232037
+1,Ireland,15,MV Waldron,TS Sekhukhune,S MacMahon,,0,1,1,,,,32037232037
+1,Ireland,15,S MacMahon,TS Sekhukhune,MV Waldron,,0,2,2,,,,32037232037
+1,Ireland,15,S MacMahon,TS Sekhukhune,MV Waldron,,0,1,1,,,,32037232037
+1,Ireland,16,S MacMahon,A Bosch,MV Waldron,,0,1,1,,,,32037232037
+1,Ireland,16,MV Waldron,A Bosch,S MacMahon,,0,0,0,,,,32037232037
+1,Ireland,16,MV Waldron,A Bosch,S MacMahon,,0,0,0,caught,MV Waldron,TS Sekhukhune,32037232037
+1,Ireland,16,Rachel Delaney,A Bosch,S MacMahon,,0,2,2,,,,32037232037
+1,Ireland,16,Rachel Delaney,A Bosch,S MacMahon,,0,0,0,,,,32037232037
+1,Ireland,16,Rachel Delaney,A Bosch,S MacMahon,,0,1,1,,,,32037232037
+1,Ireland,17,Rachel Delaney,TS Sekhukhune,S MacMahon,,0,1,1,,,,32037232037
+1,Ireland,17,S MacMahon,TS Sekhukhune,Rachel Delaney,,0,0,0,caught and bowled,S MacMahon,,32037232037
+1,Ireland,17,G Dempsey,TS Sekhukhune,Rachel Delaney,,0,0,0,,,,32037232037
+1,Ireland,17,G Dempsey,TS Sekhukhune,Rachel Delaney,,0,1,1,,,,32037232037
+1,Ireland,17,Rachel Delaney,TS Sekhukhune,G Dempsey,,0,2,2,,,,32037232037
+1,Ireland,17,Rachel Delaney,TS Sekhukhune,G Dempsey,,0,1,1,,,,32037232037
+1,Ireland,18,Rachel Delaney,N de Klerk,G Dempsey,wides,1,1,0,,,,32037232037
+1,Ireland,18,Rachel Delaney,N de Klerk,G Dempsey,,0,1,1,,,,32037232037
+1,Ireland,18,G Dempsey,N de Klerk,Rachel Delaney,,0,1,1,,,,32037232037
+1,Ireland,18,Rachel Delaney,N de Klerk,G Dempsey,,0,4,4,,,,32037232037
+1,Ireland,18,Rachel Delaney,N de Klerk,G Dempsey,,0,0,0,caught,Rachel Delaney,TS Sekhukhune,32037232037
+1,Ireland,18,C Raack,N de Klerk,G Dempsey,,0,0,0,,,,32037232037
+1,Ireland,18,C Raack,N de Klerk,G Dempsey,,0,1,1,,,,32037232037
+1,Ireland,19,C Raack,S Ismail,G Dempsey,legbyes,1,1,0,,,,32037232037
+1,Ireland,19,G Dempsey,S Ismail,C Raack,,0,1,1,,,,32037232037
+1,Ireland,19,C Raack,S Ismail,G Dempsey,,0,4,4,,,,32037232037
+1,Ireland,19,C Raack,S Ismail,G Dempsey,,0,2,2,,,,32037232037
+1,Ireland,19,C Raack,S Ismail,G Dempsey,,0,0,0,,,,32037232037
+1,Ireland,19,C Raack,S Ismail,G Dempsey,byes,1,1,0,,,,32037232037

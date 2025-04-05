@@ -1,0 +1,115 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Ireland,0,PR Stirling,NK Patel,A Balbirnie,,0,4,4,,,,31893231893
+1,Ireland,0,PR Stirling,NK Patel,A Balbirnie,,0,1,1,,,,31893231893
+1,Ireland,0,A Balbirnie,NK Patel,PR Stirling,,0,1,1,,,,31893231893
+1,Ireland,0,PR Stirling,NK Patel,A Balbirnie,,0,0,0,,,,31893231893
+1,Ireland,0,PR Stirling,NK Patel,A Balbirnie,,0,0,0,,,,31893231893
+1,Ireland,0,PR Stirling,NK Patel,A Balbirnie,,0,0,0,lbw,PR Stirling,,31893231893
+1,Ireland,1,A Balbirnie,SN Netravalkar,L Tucker,,0,4,4,,,,31893231893
+1,Ireland,1,A Balbirnie,SN Netravalkar,L Tucker,,0,4,4,,,,31893231893
+1,Ireland,1,A Balbirnie,SN Netravalkar,L Tucker,,0,1,1,,,,31893231893
+1,Ireland,1,L Tucker,SN Netravalkar,A Balbirnie,,0,4,4,,,,31893231893
+1,Ireland,1,L Tucker,SN Netravalkar,A Balbirnie,,0,1,1,,,,31893231893
+1,Ireland,1,A Balbirnie,SN Netravalkar,L Tucker,,0,0,0,caught,A Balbirnie,SJ Modani,31893231893
+1,Ireland,2,L Tucker,NK Patel,C Campher,,0,0,0,,,,31893231893
+1,Ireland,2,L Tucker,NK Patel,C Campher,,0,1,1,,,,31893231893
+1,Ireland,2,C Campher,NK Patel,L Tucker,,0,0,0,,,,31893231893
+1,Ireland,2,C Campher,NK Patel,L Tucker,,0,4,4,,,,31893231893
+1,Ireland,2,C Campher,NK Patel,L Tucker,,0,4,4,,,,31893231893
+1,Ireland,2,C Campher,NK Patel,L Tucker,,0,1,1,,,,31893231893
+1,Ireland,3,C Campher,Ali Khan,L Tucker,,0,0,0,,,,31893231893
+1,Ireland,3,C Campher,Ali Khan,L Tucker,,0,1,1,,,,31893231893
+1,Ireland,3,L Tucker,Ali Khan,C Campher,,0,0,0,,,,31893231893
+1,Ireland,3,L Tucker,Ali Khan,C Campher,,0,6,6,,,,31893231893
+1,Ireland,3,L Tucker,Ali Khan,C Campher,,0,0,0,,,,31893231893
+1,Ireland,3,L Tucker,Ali Khan,C Campher,,0,4,4,,,,31893231893
+1,Ireland,4,C Campher,Yasir Mohammad,L Tucker,,0,6,6,,,,31893231893
+1,Ireland,4,C Campher,Yasir Mohammad,L Tucker,,0,1,1,,,,31893231893
+1,Ireland,4,L Tucker,Yasir Mohammad,C Campher,,0,0,0,,,,31893231893
+1,Ireland,4,L Tucker,Yasir Mohammad,C Campher,,0,1,1,,,,31893231893
+1,Ireland,4,C Campher,Yasir Mohammad,L Tucker,,0,0,0,,,,31893231893
+1,Ireland,4,C Campher,Yasir Mohammad,L Tucker,,0,0,0,,,,31893231893
+1,Ireland,5,L Tucker,SN Netravalkar,C Campher,,0,0,0,,,,31893231893
+1,Ireland,5,L Tucker,SN Netravalkar,C Campher,,0,4,4,,,,31893231893
+1,Ireland,5,L Tucker,SN Netravalkar,C Campher,,0,0,0,,,,31893231893
+1,Ireland,5,L Tucker,SN Netravalkar,C Campher,,0,0,0,,,,31893231893
+1,Ireland,5,L Tucker,SN Netravalkar,C Campher,,0,4,4,,,,31893231893
+1,Ireland,5,L Tucker,SN Netravalkar,C Campher,,0,2,2,,,,31893231893
+1,Ireland,6,C Campher,Yasir Mohammad,L Tucker,,0,0,0,caught,C Campher,MO Kain,31893231893
+1,Ireland,6,L Tucker,Yasir Mohammad,SC Getkate,,0,4,4,,,,31893231893
+1,Ireland,6,L Tucker,Yasir Mohammad,SC Getkate,,0,1,1,,,,31893231893
+1,Ireland,6,SC Getkate,Yasir Mohammad,L Tucker,,0,0,0,,,,31893231893
+1,Ireland,6,SC Getkate,Yasir Mohammad,L Tucker,,0,1,1,,,,31893231893
+1,Ireland,6,L Tucker,Yasir Mohammad,SC Getkate,,0,1,1,,,,31893231893
+1,Ireland,7,L Tucker,VM Vaghela,SC Getkate,,0,1,1,,,,31893231893
+1,Ireland,7,SC Getkate,VM Vaghela,L Tucker,,0,0,0,,,,31893231893
+1,Ireland,7,SC Getkate,VM Vaghela,L Tucker,,0,1,1,,,,31893231893
+1,Ireland,7,L Tucker,VM Vaghela,SC Getkate,,0,1,1,,,,31893231893
+1,Ireland,7,SC Getkate,VM Vaghela,L Tucker,,0,0,0,,,,31893231893
+1,Ireland,7,SC Getkate,VM Vaghela,L Tucker,,0,1,1,,,,31893231893
+1,Ireland,8,SC Getkate,Yasir Mohammad,L Tucker,,0,0,0,,,,31893231893
+1,Ireland,8,SC Getkate,Yasir Mohammad,L Tucker,,0,1,1,,,,31893231893
+1,Ireland,8,L Tucker,Yasir Mohammad,SC Getkate,,0,4,4,,,,31893231893
+1,Ireland,8,L Tucker,Yasir Mohammad,SC Getkate,,0,0,0,,,,31893231893
+1,Ireland,8,L Tucker,Yasir Mohammad,SC Getkate,,0,0,0,,,,31893231893
+1,Ireland,8,L Tucker,Yasir Mohammad,SC Getkate,,0,1,1,,,,31893231893
+1,Ireland,9,L Tucker,VM Vaghela,SC Getkate,,0,4,4,,,,31893231893
+1,Ireland,9,L Tucker,VM Vaghela,SC Getkate,,0,1,1,,,,31893231893
+1,Ireland,9,SC Getkate,VM Vaghela,L Tucker,,0,1,1,,,,31893231893
+1,Ireland,9,L Tucker,VM Vaghela,SC Getkate,,0,1,1,,,,31893231893
+1,Ireland,9,SC Getkate,VM Vaghela,L Tucker,,0,0,0,caught,SC Getkate,RR Behera,31893231893
+1,Ireland,9,L Tucker,VM Vaghela,NA Rock,,0,1,1,,,,31893231893
+1,Ireland,10,L Tucker,RR Behera,NA Rock,,0,1,1,,,,31893231893
+1,Ireland,10,NA Rock,RR Behera,L Tucker,,0,1,1,,,,31893231893
+1,Ireland,10,L Tucker,RR Behera,NA Rock,,0,1,1,,,,31893231893
+1,Ireland,10,NA Rock,RR Behera,L Tucker,,0,0,0,,,,31893231893
+1,Ireland,10,NA Rock,RR Behera,L Tucker,,0,1,1,,,,31893231893
+1,Ireland,10,L Tucker,RR Behera,NA Rock,,0,1,1,,,,31893231893
+1,Ireland,11,L Tucker,VM Vaghela,NA Rock,,0,0,0,,,,31893231893
+1,Ireland,11,L Tucker,VM Vaghela,NA Rock,,0,1,1,,,,31893231893
+1,Ireland,11,NA Rock,VM Vaghela,L Tucker,,0,2,2,,,,31893231893
+1,Ireland,11,NA Rock,VM Vaghela,L Tucker,,0,0,0,caught,NA Rock,RR Behera,31893231893
+1,Ireland,11,L Tucker,VM Vaghela,W McClintock,,0,1,1,,,,31893231893
+1,Ireland,11,W McClintock,VM Vaghela,L Tucker,,0,0,0,,,,31893231893
+1,Ireland,12,L Tucker,NK Patel,W McClintock,,0,1,1,,,,31893231893
+1,Ireland,12,W McClintock,NK Patel,L Tucker,,0,1,1,,,,31893231893
+1,Ireland,12,L Tucker,NK Patel,W McClintock,,0,1,1,,,,31893231893
+1,Ireland,12,W McClintock,NK Patel,L Tucker,,0,0,0,caught,W McClintock,MO Kain,31893231893
+1,Ireland,12,L Tucker,NK Patel,MR Adair,,0,1,1,,,,31893231893
+1,Ireland,12,MR Adair,NK Patel,L Tucker,,0,2,2,,,,31893231893
+1,Ireland,13,L Tucker,SN Netravalkar,MR Adair,,0,1,1,,,,31893231893
+1,Ireland,13,MR Adair,SN Netravalkar,L Tucker,,0,1,1,,,,31893231893
+1,Ireland,13,L Tucker,SN Netravalkar,MR Adair,,0,1,1,,,,31893231893
+1,Ireland,13,MR Adair,SN Netravalkar,L Tucker,,0,0,0,,,,31893231893
+1,Ireland,13,MR Adair,SN Netravalkar,L Tucker,,0,0,0,bowled,MR Adair,,31893231893
+1,Ireland,13,Simi Singh,SN Netravalkar,L Tucker,,0,1,1,,,,31893231893
+1,Ireland,14,Simi Singh,NK Patel,L Tucker,,0,1,1,,,,31893231893
+1,Ireland,14,L Tucker,NK Patel,Simi Singh,,0,1,1,,,,31893231893
+1,Ireland,14,Simi Singh,NK Patel,L Tucker,,0,1,1,,,,31893231893
+1,Ireland,14,L Tucker,NK Patel,Simi Singh,,0,2,2,,,,31893231893
+1,Ireland,14,L Tucker,NK Patel,Simi Singh,,0,1,1,,,,31893231893
+1,Ireland,14,Simi Singh,NK Patel,L Tucker,,0,1,1,,,,31893231893
+1,Ireland,15,Simi Singh,Ali Khan,L Tucker,,0,0,0,,,,31893231893
+1,Ireland,15,Simi Singh,Ali Khan,L Tucker,,0,2,2,,,,31893231893
+1,Ireland,15,Simi Singh,Ali Khan,L Tucker,,0,1,1,,,,31893231893
+1,Ireland,15,L Tucker,Ali Khan,Simi Singh,,0,1,1,,,,31893231893
+1,Ireland,15,Simi Singh,Ali Khan,L Tucker,,0,1,1,,,,31893231893
+1,Ireland,15,L Tucker,Ali Khan,Simi Singh,,0,1,1,,,,31893231893
+1,Ireland,16,L Tucker,Yasir Mohammad,Simi Singh,,0,1,1,,,,31893231893
+1,Ireland,16,Simi Singh,Yasir Mohammad,L Tucker,,0,4,4,,,,31893231893
+1,Ireland,16,Simi Singh,Yasir Mohammad,L Tucker,,0,1,1,,,,31893231893
+1,Ireland,16,L Tucker,Yasir Mohammad,Simi Singh,wides,5,5,0,,,,31893231893
+1,Ireland,16,L Tucker,Yasir Mohammad,Simi Singh,legbyes,1,1,0,,,,31893231893
+1,Ireland,16,Simi Singh,Yasir Mohammad,L Tucker,,0,0,0,caught,Simi Singh,Ali Khan,31893231893
+1,Ireland,16,BJ McCarthy,Yasir Mohammad,L Tucker,,0,0,0,,,,31893231893
+1,Ireland,17,L Tucker,Ali Khan,BJ McCarthy,,0,6,6,,,,31893231893
+1,Ireland,17,L Tucker,Ali Khan,BJ McCarthy,,0,0,0,,,,31893231893
+1,Ireland,17,L Tucker,Ali Khan,BJ McCarthy,,0,0,0,run out,BJ McCarthy,MD Patel,31893231893
+1,Ireland,17,B White,Ali Khan,L Tucker,,0,1,1,,,,31893231893
+1,Ireland,17,L Tucker,Ali Khan,B White,,0,4,4,,,,31893231893
+1,Ireland,17,L Tucker,Ali Khan,B White,,0,6,6,,,,31893231893
+1,Ireland,18,B White,SN Netravalkar,L Tucker,,0,1,1,,,,31893231893
+1,Ireland,18,L Tucker,SN Netravalkar,B White,,0,0,0,,,,31893231893
+1,Ireland,18,L Tucker,SN Netravalkar,B White,,0,4,4,,,,31893231893
+1,Ireland,18,L Tucker,SN Netravalkar,B White,,0,0,0,,,,31893231893
+1,Ireland,18,L Tucker,SN Netravalkar,B White,,0,0,0,bowled,L Tucker,,31893231893

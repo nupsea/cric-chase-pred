@@ -1,0 +1,127 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Sri Lanka,0,MDKJ Perera,MA Starc,TM Dilshan,,0,0,0,,,,367523675
+1,Sri Lanka,0,MDKJ Perera,MA Starc,TM Dilshan,wides,1,1,0,,,,367523675
+1,Sri Lanka,0,MDKJ Perera,MA Starc,TM Dilshan,,0,4,4,,,,367523675
+1,Sri Lanka,0,MDKJ Perera,MA Starc,TM Dilshan,,0,1,1,,,,367523675
+1,Sri Lanka,0,TM Dilshan,MA Starc,MDKJ Perera,,0,1,1,,,,367523675
+1,Sri Lanka,0,MDKJ Perera,MA Starc,TM Dilshan,,0,2,2,,,,367523675
+1,Sri Lanka,0,MDKJ Perera,MA Starc,TM Dilshan,,0,0,0,,,,367523675
+1,Sri Lanka,1,TM Dilshan,JW Hastings,MDKJ Perera,,0,0,0,,,,367523675
+1,Sri Lanka,1,TM Dilshan,JW Hastings,MDKJ Perera,,0,0,0,caught,TM Dilshan,DA Warner,367523675
+1,Sri Lanka,1,DM de Silva,JW Hastings,MDKJ Perera,,0,0,0,,,,367523675
+1,Sri Lanka,1,DM de Silva,JW Hastings,MDKJ Perera,,0,0,0,,,,367523675
+1,Sri Lanka,1,DM de Silva,JW Hastings,MDKJ Perera,,0,1,1,,,,367523675
+1,Sri Lanka,1,MDKJ Perera,JW Hastings,DM de Silva,,0,0,0,,,,367523675
+1,Sri Lanka,2,DM de Silva,MA Starc,MDKJ Perera,,0,4,4,,,,367523675
+1,Sri Lanka,2,DM de Silva,MA Starc,MDKJ Perera,,0,0,0,,,,367523675
+1,Sri Lanka,2,DM de Silva,MA Starc,MDKJ Perera,,0,3,3,,,,367523675
+1,Sri Lanka,2,MDKJ Perera,MA Starc,DM de Silva,,0,0,0,,,,367523675
+1,Sri Lanka,2,MDKJ Perera,MA Starc,DM de Silva,,0,4,4,,,,367523675
+1,Sri Lanka,2,MDKJ Perera,MA Starc,DM de Silva,,0,0,0,,,,367523675
+1,Sri Lanka,3,DM de Silva,JW Hastings,MDKJ Perera,,0,3,3,,,,367523675
+1,Sri Lanka,3,MDKJ Perera,JW Hastings,DM de Silva,,0,1,1,,,,367523675
+1,Sri Lanka,3,DM de Silva,JW Hastings,MDKJ Perera,,0,1,1,,,,367523675
+1,Sri Lanka,3,MDKJ Perera,JW Hastings,DM de Silva,,0,0,0,,,,367523675
+1,Sri Lanka,3,MDKJ Perera,JW Hastings,DM de Silva,,0,0,0,,,,367523675
+1,Sri Lanka,3,MDKJ Perera,JW Hastings,DM de Silva,,0,1,1,,,,367523675
+1,Sri Lanka,4,MDKJ Perera,GJ Maxwell,DM de Silva,,0,4,4,,,,367523675
+1,Sri Lanka,4,MDKJ Perera,GJ Maxwell,DM de Silva,,0,1,1,,,,367523675
+1,Sri Lanka,4,DM de Silva,GJ Maxwell,MDKJ Perera,,0,2,2,,,,367523675
+1,Sri Lanka,4,DM de Silva,GJ Maxwell,MDKJ Perera,,0,4,4,,,,367523675
+1,Sri Lanka,4,DM de Silva,GJ Maxwell,MDKJ Perera,,0,1,1,,,,367523675
+1,Sri Lanka,4,MDKJ Perera,GJ Maxwell,DM de Silva,,0,4,4,,,,367523675
+1,Sri Lanka,5,DM de Silva,JP Faulkner,MDKJ Perera,,0,0,0,,,,367523675
+1,Sri Lanka,5,DM de Silva,JP Faulkner,MDKJ Perera,,0,1,1,,,,367523675
+1,Sri Lanka,5,MDKJ Perera,JP Faulkner,DM de Silva,,0,0,0,,,,367523675
+1,Sri Lanka,5,MDKJ Perera,JP Faulkner,DM de Silva,,0,0,0,caught,MDKJ Perera,DA Warner,367523675
+1,Sri Lanka,5,DM de Silva,JP Faulkner,LD Chandimal,,0,1,1,,,,367523675
+1,Sri Lanka,5,LD Chandimal,JP Faulkner,DM de Silva,,0,1,1,,,,367523675
+1,Sri Lanka,6,LD Chandimal,A Zampa,DM de Silva,,0,1,1,,,,367523675
+1,Sri Lanka,6,DM de Silva,A Zampa,LD Chandimal,,0,0,0,,,,367523675
+1,Sri Lanka,6,DM de Silva,A Zampa,LD Chandimal,,0,1,1,,,,367523675
+1,Sri Lanka,6,LD Chandimal,A Zampa,DM de Silva,,0,1,1,,,,367523675
+1,Sri Lanka,6,DM de Silva,A Zampa,LD Chandimal,,0,1,1,,,,367523675
+1,Sri Lanka,6,LD Chandimal,A Zampa,DM de Silva,,0,1,1,,,,367523675
+1,Sri Lanka,7,LD Chandimal,JP Faulkner,DM de Silva,,0,0,0,caught and bowled,LD Chandimal,,367523675
+1,Sri Lanka,7,BKG Mendis,JP Faulkner,DM de Silva,,0,1,1,,,,367523675
+1,Sri Lanka,7,DM de Silva,JP Faulkner,BKG Mendis,,0,0,0,,,,367523675
+1,Sri Lanka,7,DM de Silva,JP Faulkner,BKG Mendis,,0,1,1,,,,367523675
+1,Sri Lanka,7,BKG Mendis,JP Faulkner,DM de Silva,,0,0,0,,,,367523675
+1,Sri Lanka,7,BKG Mendis,JP Faulkner,DM de Silva,,0,0,0,,,,367523675
+1,Sri Lanka,8,DM de Silva,A Zampa,BKG Mendis,,0,1,1,,,,367523675
+1,Sri Lanka,8,BKG Mendis,A Zampa,DM de Silva,,0,4,4,,,,367523675
+1,Sri Lanka,8,BKG Mendis,A Zampa,DM de Silva,,0,0,0,,,,367523675
+1,Sri Lanka,8,BKG Mendis,A Zampa,DM de Silva,,0,0,0,,,,367523675
+1,Sri Lanka,8,BKG Mendis,A Zampa,DM de Silva,,0,0,0,lbw,BKG Mendis,,367523675
+1,Sri Lanka,8,CK Kapugedera,A Zampa,DM de Silva,,0,0,0,,,,367523675
+1,Sri Lanka,9,DM de Silva,MC Henriques,CK Kapugedera,legbyes,1,1,0,,,,367523675
+1,Sri Lanka,9,CK Kapugedera,MC Henriques,DM de Silva,,0,2,2,,,,367523675
+1,Sri Lanka,9,CK Kapugedera,MC Henriques,DM de Silva,,0,0,0,,,,367523675
+1,Sri Lanka,9,CK Kapugedera,MC Henriques,DM de Silva,,0,1,1,,,,367523675
+1,Sri Lanka,9,DM de Silva,MC Henriques,CK Kapugedera,,0,1,1,,,,367523675
+1,Sri Lanka,9,CK Kapugedera,MC Henriques,DM de Silva,,0,1,1,,,,367523675
+1,Sri Lanka,10,CK Kapugedera,A Zampa,DM de Silva,,0,0,0,,,,367523675
+1,Sri Lanka,10,CK Kapugedera,A Zampa,DM de Silva,,0,0,0,,,,367523675
+1,Sri Lanka,10,CK Kapugedera,A Zampa,DM de Silva,,0,1,1,,,,367523675
+1,Sri Lanka,10,DM de Silva,A Zampa,CK Kapugedera,,0,1,1,,,,367523675
+1,Sri Lanka,10,CK Kapugedera,A Zampa,DM de Silva,,0,1,1,,,,367523675
+1,Sri Lanka,10,DM de Silva,A Zampa,CK Kapugedera,,0,1,1,,,,367523675
+1,Sri Lanka,11,DM de Silva,MC Henriques,CK Kapugedera,,0,4,4,,,,367523675
+1,Sri Lanka,11,DM de Silva,MC Henriques,CK Kapugedera,,0,1,1,,,,367523675
+1,Sri Lanka,11,CK Kapugedera,MC Henriques,DM de Silva,,0,1,1,,,,367523675
+1,Sri Lanka,11,DM de Silva,MC Henriques,CK Kapugedera,,0,0,0,,,,367523675
+1,Sri Lanka,11,DM de Silva,MC Henriques,CK Kapugedera,,0,0,0,,,,367523675
+1,Sri Lanka,11,DM de Silva,MC Henriques,CK Kapugedera,,0,1,1,,,,367523675
+1,Sri Lanka,12,DM de Silva,A Zampa,CK Kapugedera,,0,1,1,,,,367523675
+1,Sri Lanka,12,CK Kapugedera,A Zampa,DM de Silva,,0,0,0,,,,367523675
+1,Sri Lanka,12,CK Kapugedera,A Zampa,DM de Silva,,0,0,0,caught,CK Kapugedera,DA Warner,367523675
+1,Sri Lanka,12,NLTC Perera,A Zampa,DM de Silva,,0,0,0,,,,367523675
+1,Sri Lanka,12,NLTC Perera,A Zampa,DM de Silva,,0,0,0,caught,NLTC Perera,TM Head,367523675
+1,Sri Lanka,12,DM de Silva,A Zampa,SS Pathirana,,0,1,1,,,,367523675
+1,Sri Lanka,13,DM de Silva,MC Henriques,SS Pathirana,,0,1,1,,,,367523675
+1,Sri Lanka,13,SS Pathirana,MC Henriques,DM de Silva,wides,1,1,0,,,,367523675
+1,Sri Lanka,13,SS Pathirana,MC Henriques,DM de Silva,,0,1,1,,,,367523675
+1,Sri Lanka,13,DM de Silva,MC Henriques,SS Pathirana,,0,1,1,,,,367523675
+1,Sri Lanka,13,SS Pathirana,MC Henriques,DM de Silva,,0,0,0,,,,367523675
+1,Sri Lanka,13,SS Pathirana,MC Henriques,DM de Silva,,0,4,4,,,,367523675
+1,Sri Lanka,13,SS Pathirana,MC Henriques,DM de Silva,,0,1,1,,,,367523675
+1,Sri Lanka,14,SS Pathirana,JW Hastings,DM de Silva,,0,0,0,caught and bowled,SS Pathirana,,367523675
+1,Sri Lanka,14,S Prasanna,JW Hastings,DM de Silva,,0,1,1,,,,367523675
+1,Sri Lanka,14,DM de Silva,JW Hastings,S Prasanna,,0,1,1,,,,367523675
+1,Sri Lanka,14,S Prasanna,JW Hastings,DM de Silva,,0,0,0,,,,367523675
+1,Sri Lanka,14,S Prasanna,JW Hastings,DM de Silva,,0,1,1,,,,367523675
+1,Sri Lanka,14,DM de Silva,JW Hastings,S Prasanna,,0,4,4,,,,367523675
+1,Sri Lanka,15,S Prasanna,JP Faulkner,DM de Silva,,0,0,0,,,,367523675
+1,Sri Lanka,15,S Prasanna,JP Faulkner,DM de Silva,,0,0,0,,,,367523675
+1,Sri Lanka,15,S Prasanna,JP Faulkner,DM de Silva,,0,1,1,,,,367523675
+1,Sri Lanka,15,DM de Silva,JP Faulkner,S Prasanna,,0,2,2,,,,367523675
+1,Sri Lanka,15,DM de Silva,JP Faulkner,S Prasanna,,0,2,2,,,,367523675
+1,Sri Lanka,15,DM de Silva,JP Faulkner,S Prasanna,,0,1,1,,,,367523675
+1,Sri Lanka,16,DM de Silva,MA Starc,S Prasanna,wides,1,1,0,,,,367523675
+1,Sri Lanka,16,DM de Silva,MA Starc,S Prasanna,,0,0,0,,,,367523675
+1,Sri Lanka,16,DM de Silva,MA Starc,S Prasanna,,0,1,1,,,,367523675
+1,Sri Lanka,16,S Prasanna,MA Starc,DM de Silva,,0,1,1,,,,367523675
+1,Sri Lanka,16,DM de Silva,MA Starc,S Prasanna,,0,2,2,,,,367523675
+1,Sri Lanka,16,DM de Silva,MA Starc,S Prasanna,,0,1,1,,,,367523675
+1,Sri Lanka,16,S Prasanna,MA Starc,DM de Silva,,0,1,1,,,,367523675
+1,Sri Lanka,17,S Prasanna,JP Faulkner,DM de Silva,,0,1,1,,,,367523675
+1,Sri Lanka,17,DM de Silva,JP Faulkner,S Prasanna,,0,4,4,,,,367523675
+1,Sri Lanka,17,DM de Silva,JP Faulkner,S Prasanna,,0,1,1,,,,367523675
+1,Sri Lanka,17,S Prasanna,JP Faulkner,DM de Silva,,0,1,1,,,,367523675
+1,Sri Lanka,17,DM de Silva,JP Faulkner,S Prasanna,,0,1,1,,,,367523675
+1,Sri Lanka,17,S Prasanna,JP Faulkner,DM de Silva,,0,0,0,caught,S Prasanna,UT Khawaja,367523675
+1,Sri Lanka,18,SMSM Senanayake,JW Hastings,DM de Silva,,0,1,1,,,,367523675
+1,Sri Lanka,18,DM de Silva,JW Hastings,SMSM Senanayake,,0,2,2,,,,367523675
+1,Sri Lanka,18,DM de Silva,JW Hastings,SMSM Senanayake,,0,1,1,,,,367523675
+1,Sri Lanka,18,SMSM Senanayake,JW Hastings,DM de Silva,wides,1,1,0,,,,367523675
+1,Sri Lanka,18,SMSM Senanayake,JW Hastings,DM de Silva,,0,1,1,,,,367523675
+1,Sri Lanka,18,DM de Silva,JW Hastings,SMSM Senanayake,,0,1,1,,,,367523675
+1,Sri Lanka,18,SMSM Senanayake,JW Hastings,DM de Silva,noballs,1,1,0,,,,367523675
+1,Sri Lanka,18,SMSM Senanayake,JW Hastings,DM de Silva,,0,1,1,,,,367523675
+1,Sri Lanka,19,SMSM Senanayake,MA Starc,DM de Silva,wides,1,1,0,,,,367523675
+1,Sri Lanka,19,SMSM Senanayake,MA Starc,DM de Silva,,0,0,0,,,,367523675
+1,Sri Lanka,19,SMSM Senanayake,MA Starc,DM de Silva,,0,1,1,,,,367523675
+1,Sri Lanka,19,DM de Silva,MA Starc,SMSM Senanayake,,0,0,0,,,,367523675
+1,Sri Lanka,19,DM de Silva,MA Starc,SMSM Senanayake,,0,0,0,caught,DM de Silva,JP Faulkner,367523675
+1,Sri Lanka,19,SMSM Senanayake,MA Starc,RAS Lakmal,,0,2,2,,,,367523675
+1,Sri Lanka,19,SMSM Senanayake,MA Starc,RAS Lakmal,,0,1,1,,,,367523675

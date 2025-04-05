@@ -1,0 +1,120 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Sri Lanka,0,MD Gunathilaka,DJ Willey,MDKJ Perera,,0,4,4,,,,31460231460
+2,Sri Lanka,0,MD Gunathilaka,DJ Willey,MDKJ Perera,,0,0,0,caught,MD Gunathilaka,DJ Malan,31460231460
+2,Sri Lanka,0,BOP Fernando,DJ Willey,MDKJ Perera,,0,2,2,,,,31460231460
+2,Sri Lanka,0,BOP Fernando,DJ Willey,MDKJ Perera,wides,3,3,0,,,,31460231460
+2,Sri Lanka,0,BOP Fernando,DJ Willey,MDKJ Perera,,0,2,2,,,,31460231460
+2,Sri Lanka,0,BOP Fernando,DJ Willey,MDKJ Perera,,0,0,0,,,,31460231460
+2,Sri Lanka,0,BOP Fernando,DJ Willey,MDKJ Perera,legbyes,1,1,0,,,,31460231460
+2,Sri Lanka,1,BOP Fernando,CR Woakes,MDKJ Perera,,0,0,0,,,,31460231460
+2,Sri Lanka,1,BOP Fernando,CR Woakes,MDKJ Perera,,0,0,0,,,,31460231460
+2,Sri Lanka,1,BOP Fernando,CR Woakes,MDKJ Perera,,0,0,0,,,,31460231460
+2,Sri Lanka,1,BOP Fernando,CR Woakes,MDKJ Perera,,0,0,0,,,,31460231460
+2,Sri Lanka,1,BOP Fernando,CR Woakes,MDKJ Perera,,0,0,0,,,,31460231460
+2,Sri Lanka,1,BOP Fernando,CR Woakes,MDKJ Perera,,0,2,2,,,,31460231460
+2,Sri Lanka,2,MDKJ Perera,DJ Willey,BOP Fernando,,0,0,0,,,,31460231460
+2,Sri Lanka,2,MDKJ Perera,DJ Willey,BOP Fernando,legbyes,1,1,0,,,,31460231460
+2,Sri Lanka,2,BOP Fernando,DJ Willey,MDKJ Perera,,0,0,0,,,,31460231460
+2,Sri Lanka,2,BOP Fernando,DJ Willey,MDKJ Perera,,0,2,2,,,,31460231460
+2,Sri Lanka,2,BOP Fernando,DJ Willey,MDKJ Perera,,0,1,1,,,,31460231460
+2,Sri Lanka,2,MDKJ Perera,DJ Willey,BOP Fernando,,0,2,2,,,,31460231460
+2,Sri Lanka,3,BOP Fernando,CR Woakes,MDKJ Perera,,0,1,1,,,,31460231460
+2,Sri Lanka,3,MDKJ Perera,CR Woakes,BOP Fernando,,0,0,0,,,,31460231460
+2,Sri Lanka,3,MDKJ Perera,CR Woakes,BOP Fernando,,0,1,1,,,,31460231460
+2,Sri Lanka,3,BOP Fernando,CR Woakes,MDKJ Perera,,0,0,0,,,,31460231460
+2,Sri Lanka,3,BOP Fernando,CR Woakes,MDKJ Perera,,0,1,1,,,,31460231460
+2,Sri Lanka,3,MDKJ Perera,CR Woakes,BOP Fernando,,0,0,0,caught,MDKJ Perera,LS Livingstone,31460231460
+2,Sri Lanka,4,BKG Mendis,DJ Willey,BOP Fernando,,0,0,0,,,,31460231460
+2,Sri Lanka,4,BKG Mendis,DJ Willey,BOP Fernando,,0,0,0,,,,31460231460
+2,Sri Lanka,4,BKG Mendis,DJ Willey,BOP Fernando,,0,6,6,,,,31460231460
+2,Sri Lanka,4,BKG Mendis,DJ Willey,BOP Fernando,,0,0,0,caught,BKG Mendis,JM Bairstow,31460231460
+2,Sri Lanka,4,N Dickwella,DJ Willey,BOP Fernando,,0,0,0,,,,31460231460
+2,Sri Lanka,4,N Dickwella,DJ Willey,BOP Fernando,,0,4,4,,,,31460231460
+2,Sri Lanka,5,BOP Fernando,CJ Jordan,N Dickwella,,0,0,0,,,,31460231460
+2,Sri Lanka,5,BOP Fernando,CJ Jordan,N Dickwella,,0,0,0,,,,31460231460
+2,Sri Lanka,5,BOP Fernando,CJ Jordan,N Dickwella,,0,6,6,,,,31460231460
+2,Sri Lanka,5,BOP Fernando,CJ Jordan,N Dickwella,,0,0,0,,,,31460231460
+2,Sri Lanka,5,BOP Fernando,CJ Jordan,N Dickwella,,0,0,0,,,,31460231460
+2,Sri Lanka,5,BOP Fernando,CJ Jordan,N Dickwella,,0,0,0,,,,31460231460
+2,Sri Lanka,6,N Dickwella,SM Curran,BOP Fernando,legbyes,1,1,0,,,,31460231460
+2,Sri Lanka,6,BOP Fernando,SM Curran,N Dickwella,,0,1,1,,,,31460231460
+2,Sri Lanka,6,N Dickwella,SM Curran,BOP Fernando,,0,0,0,,,,31460231460
+2,Sri Lanka,6,N Dickwella,SM Curran,BOP Fernando,,0,1,1,,,,31460231460
+2,Sri Lanka,6,BOP Fernando,SM Curran,N Dickwella,wides,1,1,0,,,,31460231460
+2,Sri Lanka,6,BOP Fernando,SM Curran,N Dickwella,,0,0,0,,,,31460231460
+2,Sri Lanka,6,BOP Fernando,SM Curran,N Dickwella,,0,0,0,,,,31460231460
+2,Sri Lanka,7,N Dickwella,CJ Jordan,BOP Fernando,,0,0,0,,,,31460231460
+2,Sri Lanka,7,N Dickwella,CJ Jordan,BOP Fernando,,0,1,1,,,,31460231460
+2,Sri Lanka,7,BOP Fernando,CJ Jordan,N Dickwella,,0,1,1,,,,31460231460
+2,Sri Lanka,7,N Dickwella,CJ Jordan,BOP Fernando,wides,1,1,0,,,,31460231460
+2,Sri Lanka,7,N Dickwella,CJ Jordan,BOP Fernando,,0,0,0,,,,31460231460
+2,Sri Lanka,7,N Dickwella,CJ Jordan,BOP Fernando,,0,0,0,,,,31460231460
+2,Sri Lanka,7,N Dickwella,CJ Jordan,BOP Fernando,,0,0,0,,,,31460231460
+2,Sri Lanka,8,BOP Fernando,SM Curran,N Dickwella,,0,0,0,caught,BOP Fernando,DJ Willey,31460231460
+2,Sri Lanka,8,N Dickwella,SM Curran,MD Shanaka,,0,1,1,,,,31460231460
+2,Sri Lanka,8,MD Shanaka,SM Curran,N Dickwella,legbyes,1,1,0,,,,31460231460
+2,Sri Lanka,8,N Dickwella,SM Curran,MD Shanaka,,0,1,1,,,,31460231460
+2,Sri Lanka,8,MD Shanaka,SM Curran,N Dickwella,,0,0,0,,,,31460231460
+2,Sri Lanka,8,MD Shanaka,SM Curran,N Dickwella,,0,0,0,,,,31460231460
+2,Sri Lanka,9,N Dickwella,CR Woakes,MD Shanaka,legbyes,1,1,0,,,,31460231460
+2,Sri Lanka,9,MD Shanaka,CR Woakes,N Dickwella,,0,1,1,,,,31460231460
+2,Sri Lanka,9,N Dickwella,CR Woakes,MD Shanaka,,0,1,1,,,,31460231460
+2,Sri Lanka,9,MD Shanaka,CR Woakes,N Dickwella,,0,0,0,,,,31460231460
+2,Sri Lanka,9,MD Shanaka,CR Woakes,N Dickwella,wides,1,1,0,,,,31460231460
+2,Sri Lanka,9,MD Shanaka,CR Woakes,N Dickwella,,0,0,0,,,,31460231460
+2,Sri Lanka,9,MD Shanaka,CR Woakes,N Dickwella,,0,0,0,,,,31460231460
+2,Sri Lanka,10,N Dickwella,SM Curran,MD Shanaka,,0,1,1,,,,31460231460
+2,Sri Lanka,10,MD Shanaka,SM Curran,N Dickwella,,0,0,0,,,,31460231460
+2,Sri Lanka,10,MD Shanaka,SM Curran,N Dickwella,,0,0,0,,,,31460231460
+2,Sri Lanka,10,MD Shanaka,SM Curran,N Dickwella,,0,0,0,,,,31460231460
+2,Sri Lanka,10,MD Shanaka,SM Curran,N Dickwella,,0,4,4,,,,31460231460
+2,Sri Lanka,10,MD Shanaka,SM Curran,N Dickwella,noballs,1,1,0,,,,31460231460
+2,Sri Lanka,10,MD Shanaka,SM Curran,N Dickwella,,0,1,1,,,,31460231460
+2,Sri Lanka,11,MD Shanaka,CR Woakes,N Dickwella,,0,0,0,,,,31460231460
+2,Sri Lanka,11,MD Shanaka,CR Woakes,N Dickwella,,0,1,1,run out,MD Shanaka,SW Billings,31460231460
+2,Sri Lanka,11,N Dickwella,CR Woakes,PWH de Silva,byes,1,1,0,,,,31460231460
+2,Sri Lanka,11,PWH de Silva,CR Woakes,N Dickwella,,0,0,0,,,,31460231460
+2,Sri Lanka,11,PWH de Silva,CR Woakes,N Dickwella,,0,0,0,,,,31460231460
+2,Sri Lanka,11,PWH de Silva,CR Woakes,N Dickwella,,0,0,0,,,,31460231460
+2,Sri Lanka,12,N Dickwella,SM Curran,PWH de Silva,,0,0,0,,,,31460231460
+2,Sri Lanka,12,N Dickwella,SM Curran,PWH de Silva,,0,1,1,,,,31460231460
+2,Sri Lanka,12,PWH de Silva,SM Curran,N Dickwella,,0,1,1,,,,31460231460
+2,Sri Lanka,12,N Dickwella,SM Curran,PWH de Silva,,0,0,0,caught,N Dickwella,CJ Jordan,31460231460
+2,Sri Lanka,12,I Udana,SM Curran,PWH de Silva,,0,0,0,,,,31460231460
+2,Sri Lanka,12,I Udana,SM Curran,PWH de Silva,,0,0,0,,,,31460231460
+2,Sri Lanka,13,PWH de Silva,CJ Jordan,I Udana,,0,0,0,,,,31460231460
+2,Sri Lanka,13,PWH de Silva,CJ Jordan,I Udana,,0,0,0,,,,31460231460
+2,Sri Lanka,13,PWH de Silva,CJ Jordan,I Udana,,0,0,0,,,,31460231460
+2,Sri Lanka,13,PWH de Silva,CJ Jordan,I Udana,,0,0,0,caught,PWH de Silva,DJ Malan,31460231460
+2,Sri Lanka,13,B Fernando,CJ Jordan,I Udana,,0,0,0,,,,31460231460
+2,Sri Lanka,13,B Fernando,CJ Jordan,I Udana,,0,0,0,,,,31460231460
+2,Sri Lanka,14,I Udana,DJ Willey,B Fernando,,0,0,0,,,,31460231460
+2,Sri Lanka,14,I Udana,DJ Willey,B Fernando,,0,0,0,caught,I Udana,MM Ali,31460231460
+2,Sri Lanka,14,B Fernando,DJ Willey,PADLR Sandakan,legbyes,2,2,0,,,,31460231460
+2,Sri Lanka,14,B Fernando,DJ Willey,PADLR Sandakan,,0,1,1,,,,31460231460
+2,Sri Lanka,14,PADLR Sandakan,DJ Willey,B Fernando,,0,0,0,,,,31460231460
+2,Sri Lanka,14,PADLR Sandakan,DJ Willey,B Fernando,,0,0,0,,,,31460231460
+2,Sri Lanka,15,B Fernando,CJ Jordan,PADLR Sandakan,,0,3,3,,,,31460231460
+2,Sri Lanka,15,PADLR Sandakan,CJ Jordan,B Fernando,wides,1,1,0,,,,31460231460
+2,Sri Lanka,15,PADLR Sandakan,CJ Jordan,B Fernando,,0,0,0,,,,31460231460
+2,Sri Lanka,15,PADLR Sandakan,CJ Jordan,B Fernando,,0,0,0,,,,31460231460
+2,Sri Lanka,15,PADLR Sandakan,CJ Jordan,B Fernando,,0,0,0,,,,31460231460
+2,Sri Lanka,15,PADLR Sandakan,CJ Jordan,B Fernando,,0,0,0,,,,31460231460
+2,Sri Lanka,15,PADLR Sandakan,CJ Jordan,B Fernando,,0,0,0,,,,31460231460
+2,Sri Lanka,16,B Fernando,AU Rashid,PADLR Sandakan,,0,0,0,,,,31460231460
+2,Sri Lanka,16,B Fernando,AU Rashid,PADLR Sandakan,,0,0,0,,,,31460231460
+2,Sri Lanka,16,B Fernando,AU Rashid,PADLR Sandakan,,0,2,2,,,,31460231460
+2,Sri Lanka,16,B Fernando,AU Rashid,PADLR Sandakan,,0,4,4,,,,31460231460
+2,Sri Lanka,16,B Fernando,AU Rashid,PADLR Sandakan,,0,2,2,,,,31460231460
+2,Sri Lanka,16,B Fernando,AU Rashid,PADLR Sandakan,,0,1,1,,,,31460231460
+2,Sri Lanka,17,B Fernando,LS Livingstone,PADLR Sandakan,,0,1,1,,,,31460231460
+2,Sri Lanka,17,PADLR Sandakan,LS Livingstone,B Fernando,,0,1,1,,,,31460231460
+2,Sri Lanka,17,B Fernando,LS Livingstone,PADLR Sandakan,,0,6,6,,,,31460231460
+2,Sri Lanka,17,B Fernando,LS Livingstone,PADLR Sandakan,,0,0,0,bowled,B Fernando,,31460231460
+2,Sri Lanka,17,PVD Chameera,LS Livingstone,PADLR Sandakan,,0,0,0,,,,31460231460
+2,Sri Lanka,17,PVD Chameera,LS Livingstone,PADLR Sandakan,,0,0,0,,,,31460231460
+2,Sri Lanka,18,PADLR Sandakan,MM Ali,PVD Chameera,,0,1,1,,,,31460231460
+2,Sri Lanka,18,PVD Chameera,MM Ali,PADLR Sandakan,,0,1,1,,,,31460231460
+2,Sri Lanka,18,PADLR Sandakan,MM Ali,PVD Chameera,,0,0,0,,,,31460231460
+2,Sri Lanka,18,PADLR Sandakan,MM Ali,PVD Chameera,,0,1,1,,,,31460231460
+2,Sri Lanka,18,PVD Chameera,MM Ali,PADLR Sandakan,,0,0,0,lbw,PVD Chameera,,31460231460

@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Bangladesh,0,Liton Das,S Badree,Tamim Iqbal,,0,0,0,,,,386523865
+1,Bangladesh,0,Liton Das,S Badree,Tamim Iqbal,,0,0,0,,,,386523865
+1,Bangladesh,0,Liton Das,S Badree,Tamim Iqbal,,0,1,1,,,,386523865
+1,Bangladesh,0,Tamim Iqbal,S Badree,Liton Das,,0,0,0,,,,386523865
+1,Bangladesh,0,Tamim Iqbal,S Badree,Liton Das,,0,0,0,,,,386523865
+1,Bangladesh,0,Tamim Iqbal,S Badree,Liton Das,,0,1,1,,,,386523865
+1,Bangladesh,1,Tamim Iqbal,AR Nurse,Liton Das,,0,0,0,,,,386523865
+1,Bangladesh,1,Tamim Iqbal,AR Nurse,Liton Das,,0,4,4,,,,386523865
+1,Bangladesh,1,Tamim Iqbal,AR Nurse,Liton Das,,0,1,1,,,,386523865
+1,Bangladesh,1,Liton Das,AR Nurse,Tamim Iqbal,,0,0,0,,,,386523865
+1,Bangladesh,1,Liton Das,AR Nurse,Tamim Iqbal,,0,0,0,caught,Liton Das,CR Brathwaite,386523865
+1,Bangladesh,1,Mushfiqur Rahim,AR Nurse,Tamim Iqbal,,0,1,1,,,,386523865
+1,Bangladesh,2,Mushfiqur Rahim,S Badree,Tamim Iqbal,,0,1,1,,,,386523865
+1,Bangladesh,2,Tamim Iqbal,S Badree,Mushfiqur Rahim,,0,4,4,,,,386523865
+1,Bangladesh,2,Tamim Iqbal,S Badree,Mushfiqur Rahim,,0,0,0,,,,386523865
+1,Bangladesh,2,Tamim Iqbal,S Badree,Mushfiqur Rahim,,0,0,0,,,,386523865
+1,Bangladesh,2,Tamim Iqbal,S Badree,Mushfiqur Rahim,,0,6,6,,,,386523865
+1,Bangladesh,2,Tamim Iqbal,S Badree,Mushfiqur Rahim,,0,1,1,,,,386523865
+1,Bangladesh,3,Tamim Iqbal,AR Nurse,Mushfiqur Rahim,wides,1,1,0,,,,386523865
+1,Bangladesh,3,Tamim Iqbal,AR Nurse,Mushfiqur Rahim,,0,1,1,,,,386523865
+1,Bangladesh,3,Mushfiqur Rahim,AR Nurse,Tamim Iqbal,,0,2,2,,,,386523865
+1,Bangladesh,3,Mushfiqur Rahim,AR Nurse,Tamim Iqbal,,0,0,0,caught,Mushfiqur Rahim,AD Russell,386523865
+1,Bangladesh,3,Soumya Sarkar,AR Nurse,Tamim Iqbal,,0,1,1,,,,386523865
+1,Bangladesh,3,Tamim Iqbal,AR Nurse,Soumya Sarkar,,0,1,1,,,,386523865
+1,Bangladesh,3,Soumya Sarkar,AR Nurse,Tamim Iqbal,,0,0,0,,,,386523865
+1,Bangladesh,4,Tamim Iqbal,AD Russell,Soumya Sarkar,,0,0,0,,,,386523865
+1,Bangladesh,4,Tamim Iqbal,AD Russell,Soumya Sarkar,,0,1,1,,,,386523865
+1,Bangladesh,4,Soumya Sarkar,AD Russell,Tamim Iqbal,,0,0,0,,,,386523865
+1,Bangladesh,4,Soumya Sarkar,AD Russell,Tamim Iqbal,,0,0,0,,,,386523865
+1,Bangladesh,4,Soumya Sarkar,AD Russell,Tamim Iqbal,,0,0,0,,,,386523865
+1,Bangladesh,4,Soumya Sarkar,AD Russell,Tamim Iqbal,,0,0,0,,,,386523865
+1,Bangladesh,5,Tamim Iqbal,AR Nurse,Soumya Sarkar,,0,1,1,,,,386523865
+1,Bangladesh,5,Soumya Sarkar,AR Nurse,Tamim Iqbal,,0,0,0,,,,386523865
+1,Bangladesh,5,Soumya Sarkar,AR Nurse,Tamim Iqbal,,0,0,0,,,,386523865
+1,Bangladesh,5,Soumya Sarkar,AR Nurse,Tamim Iqbal,,0,6,6,,,,386523865
+1,Bangladesh,5,Soumya Sarkar,AR Nurse,Tamim Iqbal,,0,0,0,,,,386523865
+1,Bangladesh,5,Soumya Sarkar,AR Nurse,Tamim Iqbal,,0,1,1,,,,386523865
+1,Bangladesh,6,Soumya Sarkar,AD Russell,Tamim Iqbal,legbyes,1,1,0,,,,386523865
+1,Bangladesh,6,Tamim Iqbal,AD Russell,Soumya Sarkar,,0,1,1,,,,386523865
+1,Bangladesh,6,Soumya Sarkar,AD Russell,Tamim Iqbal,,0,2,2,,,,386523865
+1,Bangladesh,6,Soumya Sarkar,AD Russell,Tamim Iqbal,,0,0,0,,,,386523865
+1,Bangladesh,6,Soumya Sarkar,AD Russell,Tamim Iqbal,,0,0,0,,,,386523865
+1,Bangladesh,6,Soumya Sarkar,AD Russell,Tamim Iqbal,,0,4,4,,,,386523865
+1,Bangladesh,7,Tamim Iqbal,KMA Paul,Soumya Sarkar,,0,4,4,,,,386523865
+1,Bangladesh,7,Tamim Iqbal,KMA Paul,Soumya Sarkar,,0,1,1,,,,386523865
+1,Bangladesh,7,Soumya Sarkar,KMA Paul,Tamim Iqbal,,0,0,0,,,,386523865
+1,Bangladesh,7,Soumya Sarkar,KMA Paul,Tamim Iqbal,,0,0,0,caught,Soumya Sarkar,R Powell,386523865
+1,Bangladesh,7,Tamim Iqbal,KMA Paul,Shakib Al Hasan,,0,0,0,,,,386523865
+1,Bangladesh,7,Tamim Iqbal,KMA Paul,Shakib Al Hasan,,0,4,4,,,,386523865
+1,Bangladesh,8,Shakib Al Hasan,AR Nurse,Tamim Iqbal,,0,1,1,,,,386523865
+1,Bangladesh,8,Tamim Iqbal,AR Nurse,Shakib Al Hasan,,0,1,1,,,,386523865
+1,Bangladesh,8,Shakib Al Hasan,AR Nurse,Tamim Iqbal,,0,1,1,,,,386523865
+1,Bangladesh,8,Tamim Iqbal,AR Nurse,Shakib Al Hasan,,0,1,1,,,,386523865
+1,Bangladesh,8,Shakib Al Hasan,AR Nurse,Tamim Iqbal,,0,0,0,,,,386523865
+1,Bangladesh,8,Shakib Al Hasan,AR Nurse,Tamim Iqbal,,0,1,1,,,,386523865
+1,Bangladesh,9,Shakib Al Hasan,KMA Paul,Tamim Iqbal,,0,4,4,,,,386523865
+1,Bangladesh,9,Shakib Al Hasan,KMA Paul,Tamim Iqbal,,0,4,4,,,,386523865
+1,Bangladesh,9,Shakib Al Hasan,KMA Paul,Tamim Iqbal,,0,0,0,,,,386523865
+1,Bangladesh,9,Shakib Al Hasan,KMA Paul,Tamim Iqbal,,0,1,1,,,,386523865
+1,Bangladesh,9,Tamim Iqbal,KMA Paul,Shakib Al Hasan,,0,1,1,,,,386523865
+1,Bangladesh,9,Shakib Al Hasan,KMA Paul,Tamim Iqbal,,0,0,0,,,,386523865
+1,Bangladesh,10,Tamim Iqbal,KOK Williams,Shakib Al Hasan,,0,0,0,,,,386523865
+1,Bangladesh,10,Tamim Iqbal,KOK Williams,Shakib Al Hasan,,0,2,2,,,,386523865
+1,Bangladesh,10,Tamim Iqbal,KOK Williams,Shakib Al Hasan,,0,1,1,,,,386523865
+1,Bangladesh,10,Shakib Al Hasan,KOK Williams,Tamim Iqbal,,0,0,0,,,,386523865
+1,Bangladesh,10,Shakib Al Hasan,KOK Williams,Tamim Iqbal,,0,4,4,,,,386523865
+1,Bangladesh,10,Shakib Al Hasan,KOK Williams,Tamim Iqbal,,0,0,0,,,,386523865
+1,Bangladesh,11,Tamim Iqbal,CR Brathwaite,Shakib Al Hasan,,0,1,1,,,,386523865
+1,Bangladesh,11,Shakib Al Hasan,CR Brathwaite,Tamim Iqbal,,0,1,1,,,,386523865
+1,Bangladesh,11,Tamim Iqbal,CR Brathwaite,Shakib Al Hasan,,0,1,1,,,,386523865
+1,Bangladesh,11,Shakib Al Hasan,CR Brathwaite,Tamim Iqbal,,0,1,1,,,,386523865
+1,Bangladesh,11,Tamim Iqbal,CR Brathwaite,Shakib Al Hasan,,0,3,3,,,,386523865
+1,Bangladesh,11,Shakib Al Hasan,CR Brathwaite,Tamim Iqbal,,0,1,1,,,,386523865
+1,Bangladesh,12,Shakib Al Hasan,KOK Williams,Tamim Iqbal,,0,4,4,,,,386523865
+1,Bangladesh,12,Shakib Al Hasan,KOK Williams,Tamim Iqbal,,0,0,0,,,,386523865
+1,Bangladesh,12,Shakib Al Hasan,KOK Williams,Tamim Iqbal,,0,4,4,,,,386523865
+1,Bangladesh,12,Shakib Al Hasan,KOK Williams,Tamim Iqbal,,0,1,1,,,,386523865
+1,Bangladesh,12,Tamim Iqbal,KOK Williams,Shakib Al Hasan,,0,1,1,,,,386523865
+1,Bangladesh,12,Shakib Al Hasan,KOK Williams,Tamim Iqbal,,0,4,4,,,,386523865
+1,Bangladesh,13,Tamim Iqbal,CR Brathwaite,Shakib Al Hasan,,0,4,4,,,,386523865
+1,Bangladesh,13,Tamim Iqbal,CR Brathwaite,Shakib Al Hasan,,0,0,0,,,,386523865
+1,Bangladesh,13,Tamim Iqbal,CR Brathwaite,Shakib Al Hasan,,0,1,1,,,,386523865
+1,Bangladesh,13,Shakib Al Hasan,CR Brathwaite,Tamim Iqbal,,0,4,4,,,,386523865
+1,Bangladesh,13,Shakib Al Hasan,CR Brathwaite,Tamim Iqbal,,0,0,0,,,,386523865
+1,Bangladesh,13,Shakib Al Hasan,CR Brathwaite,Tamim Iqbal,,0,0,0,,,,386523865
+1,Bangladesh,14,Tamim Iqbal,KMA Paul,Shakib Al Hasan,,0,2,2,,,,386523865
+1,Bangladesh,14,Tamim Iqbal,KMA Paul,Shakib Al Hasan,,0,0,0,,,,386523865
+1,Bangladesh,14,Tamim Iqbal,KMA Paul,Shakib Al Hasan,,0,1,1,,,,386523865
+1,Bangladesh,14,Shakib Al Hasan,KMA Paul,Tamim Iqbal,,0,6,6,,,,386523865
+1,Bangladesh,14,Shakib Al Hasan,KMA Paul,Tamim Iqbal,,0,1,1,,,,386523865
+1,Bangladesh,14,Tamim Iqbal,KMA Paul,Shakib Al Hasan,,0,1,1,,,,386523865
+1,Bangladesh,15,Tamim Iqbal,AD Russell,Shakib Al Hasan,,0,6,6,,,,386523865
+1,Bangladesh,15,Tamim Iqbal,AD Russell,Shakib Al Hasan,,0,0,0,,,,386523865
+1,Bangladesh,15,Tamim Iqbal,AD Russell,Shakib Al Hasan,,0,6,6,,,,386523865
+1,Bangladesh,15,Tamim Iqbal,AD Russell,Shakib Al Hasan,,0,4,4,,,,386523865
+1,Bangladesh,15,Tamim Iqbal,AD Russell,Shakib Al Hasan,,0,6,6,,,,386523865
+1,Bangladesh,15,Tamim Iqbal,AD Russell,Shakib Al Hasan,,0,0,0,caught,Tamim Iqbal,KMA Paul,386523865
+1,Bangladesh,16,Mahmudullah,KOK Williams,Shakib Al Hasan,,0,1,1,,,,386523865
+1,Bangladesh,16,Shakib Al Hasan,KOK Williams,Mahmudullah,,0,0,0,,,,386523865
+1,Bangladesh,16,Shakib Al Hasan,KOK Williams,Mahmudullah,,0,1,1,,,,386523865
+1,Bangladesh,16,Mahmudullah,KOK Williams,Shakib Al Hasan,,0,1,1,,,,386523865
+1,Bangladesh,16,Shakib Al Hasan,KOK Williams,Mahmudullah,,0,4,4,,,,386523865
+1,Bangladesh,16,Shakib Al Hasan,KOK Williams,Mahmudullah,,0,1,1,,,,386523865
+1,Bangladesh,17,Shakib Al Hasan,AD Russell,Mahmudullah,,0,1,1,,,,386523865
+1,Bangladesh,17,Mahmudullah,AD Russell,Shakib Al Hasan,,0,0,0,,,,386523865
+1,Bangladesh,17,Mahmudullah,AD Russell,Shakib Al Hasan,,0,1,1,,,,386523865
+1,Bangladesh,17,Shakib Al Hasan,AD Russell,Mahmudullah,,0,0,0,,,,386523865
+1,Bangladesh,17,Shakib Al Hasan,AD Russell,Mahmudullah,,0,1,1,,,,386523865
+1,Bangladesh,17,Mahmudullah,AD Russell,Shakib Al Hasan,,0,0,0,,,,386523865
+1,Bangladesh,18,Shakib Al Hasan,CR Brathwaite,Mahmudullah,,0,4,4,,,,386523865
+1,Bangladesh,18,Shakib Al Hasan,CR Brathwaite,Mahmudullah,legbyes,1,1,0,,,,386523865
+1,Bangladesh,18,Mahmudullah,CR Brathwaite,Shakib Al Hasan,,0,4,4,,,,386523865
+1,Bangladesh,18,Mahmudullah,CR Brathwaite,Shakib Al Hasan,,0,2,2,,,,386523865
+1,Bangladesh,18,Mahmudullah,CR Brathwaite,Shakib Al Hasan,,0,1,1,,,,386523865
+1,Bangladesh,18,Shakib Al Hasan,CR Brathwaite,Mahmudullah,,0,1,1,,,,386523865
+1,Bangladesh,19,Shakib Al Hasan,KMA Paul,Mahmudullah,,0,2,2,,,,386523865
+1,Bangladesh,19,Shakib Al Hasan,KMA Paul,Mahmudullah,wides,1,1,0,,,,386523865
+1,Bangladesh,19,Shakib Al Hasan,KMA Paul,Mahmudullah,,0,2,2,,,,386523865
+1,Bangladesh,19,Shakib Al Hasan,KMA Paul,Mahmudullah,,0,0,0,caught,Shakib Al Hasan,CAK Walton,386523865
+1,Bangladesh,19,Mahmudullah,KMA Paul,Ariful Haque,,0,1,1,,,,386523865
+1,Bangladesh,19,Ariful Haque,KMA Paul,Mahmudullah,,0,1,1,,,,386523865
+1,Bangladesh,19,Mahmudullah,KMA Paul,Ariful Haque,,0,2,2,,,,386523865

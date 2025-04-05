@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Papua New Guinea,0,S Jimmy,IMHC Joyce,K John,,0,1,1,,,,387823878
+2,Papua New Guinea,0,K John,IMHC Joyce,S Jimmy,,0,0,0,,,,387823878
+2,Papua New Guinea,0,K John,IMHC Joyce,S Jimmy,,0,1,1,,,,387823878
+2,Papua New Guinea,0,S Jimmy,IMHC Joyce,K John,,0,1,1,,,,387823878
+2,Papua New Guinea,0,K John,IMHC Joyce,S Jimmy,,0,0,0,,,,387823878
+2,Papua New Guinea,0,K John,IMHC Joyce,S Jimmy,,0,0,0,,,,387823878
+2,Papua New Guinea,1,S Jimmy,EAJ Richardson,K John,,0,0,0,,,,387823878
+2,Papua New Guinea,1,S Jimmy,EAJ Richardson,K John,,0,1,1,,,,387823878
+2,Papua New Guinea,1,K John,EAJ Richardson,S Jimmy,,0,0,0,,,,387823878
+2,Papua New Guinea,1,K John,EAJ Richardson,S Jimmy,,0,0,0,stumped,K John,MV Waldron,387823878
+2,Papua New Guinea,1,B Tau,EAJ Richardson,S Jimmy,,0,1,1,,,,387823878
+2,Papua New Guinea,1,S Jimmy,EAJ Richardson,B Tau,,0,0,0,,,,387823878
+2,Papua New Guinea,2,B Tau,IMHC Joyce,S Jimmy,,0,0,0,,,,387823878
+2,Papua New Guinea,2,B Tau,IMHC Joyce,S Jimmy,,0,0,0,,,,387823878
+2,Papua New Guinea,2,B Tau,IMHC Joyce,S Jimmy,,0,0,0,,,,387823878
+2,Papua New Guinea,2,B Tau,IMHC Joyce,S Jimmy,wides,1,1,0,,,,387823878
+2,Papua New Guinea,2,B Tau,IMHC Joyce,S Jimmy,,0,1,1,,,,387823878
+2,Papua New Guinea,2,S Jimmy,IMHC Joyce,B Tau,,0,0,0,,,,387823878
+2,Papua New Guinea,2,S Jimmy,IMHC Joyce,B Tau,,0,0,0,caught,S Jimmy,KJ Garth,387823878
+2,Papua New Guinea,3,B Tau,EAJ Richardson,T Ruma,,0,2,2,,,,387823878
+2,Papua New Guinea,3,B Tau,EAJ Richardson,T Ruma,,0,0,0,,,,387823878
+2,Papua New Guinea,3,B Tau,EAJ Richardson,T Ruma,,0,0,0,,,,387823878
+2,Papua New Guinea,3,B Tau,EAJ Richardson,T Ruma,,0,0,0,,,,387823878
+2,Papua New Guinea,3,B Tau,EAJ Richardson,T Ruma,,0,1,1,,,,387823878
+2,Papua New Guinea,3,T Ruma,EAJ Richardson,B Tau,,0,2,2,,,,387823878
+2,Papua New Guinea,4,B Tau,CJ Metcalfe,T Ruma,,0,0,0,,,,387823878
+2,Papua New Guinea,4,B Tau,CJ Metcalfe,T Ruma,,0,1,1,,,,387823878
+2,Papua New Guinea,4,T Ruma,CJ Metcalfe,B Tau,,0,0,0,,,,387823878
+2,Papua New Guinea,4,T Ruma,CJ Metcalfe,B Tau,,0,0,0,,,,387823878
+2,Papua New Guinea,4,T Ruma,CJ Metcalfe,B Tau,,0,0,0,,,,387823878
+2,Papua New Guinea,4,T Ruma,CJ Metcalfe,B Tau,legbyes,1,1,0,,,,387823878
+2,Papua New Guinea,5,T Ruma,LK O'Reilly,B Tau,,0,1,1,,,,387823878
+2,Papua New Guinea,5,B Tau,LK O'Reilly,T Ruma,,0,0,0,,,,387823878
+2,Papua New Guinea,5,B Tau,LK O'Reilly,T Ruma,wides,1,1,0,,,,387823878
+2,Papua New Guinea,5,B Tau,LK O'Reilly,T Ruma,,0,0,0,,,,387823878
+2,Papua New Guinea,5,B Tau,LK O'Reilly,T Ruma,,0,0,0,,,,387823878
+2,Papua New Guinea,5,B Tau,LK O'Reilly,T Ruma,,0,1,1,,,,387823878
+2,Papua New Guinea,5,T Ruma,LK O'Reilly,B Tau,,0,0,0,,,,387823878
+2,Papua New Guinea,6,B Tau,CJ Metcalfe,T Ruma,,0,1,1,,,,387823878
+2,Papua New Guinea,6,T Ruma,CJ Metcalfe,B Tau,,0,0,0,,,,387823878
+2,Papua New Guinea,6,T Ruma,CJ Metcalfe,B Tau,wides,1,1,0,,,,387823878
+2,Papua New Guinea,6,T Ruma,CJ Metcalfe,B Tau,,0,0,0,,,,387823878
+2,Papua New Guinea,6,T Ruma,CJ Metcalfe,B Tau,wides,1,1,0,,,,387823878
+2,Papua New Guinea,6,T Ruma,CJ Metcalfe,B Tau,,0,0,0,,,,387823878
+2,Papua New Guinea,6,T Ruma,CJ Metcalfe,B Tau,,0,1,1,,,,387823878
+2,Papua New Guinea,6,B Tau,CJ Metcalfe,T Ruma,,0,0,0,,,,387823878
+2,Papua New Guinea,7,T Ruma,L Delany,B Tau,,0,1,1,,,,387823878
+2,Papua New Guinea,7,B Tau,L Delany,T Ruma,,0,0,0,,,,387823878
+2,Papua New Guinea,7,B Tau,L Delany,T Ruma,,0,0,0,,,,387823878
+2,Papua New Guinea,7,B Tau,L Delany,T Ruma,,0,0,0,,,,387823878
+2,Papua New Guinea,7,B Tau,L Delany,T Ruma,,0,0,0,,,,387823878
+2,Papua New Guinea,7,B Tau,L Delany,T Ruma,,0,0,0,,,,387823878
+2,Papua New Guinea,8,T Ruma,KJ Garth,B Tau,,0,0,0,,,,387823878
+2,Papua New Guinea,8,T Ruma,KJ Garth,B Tau,,0,1,1,,,,387823878
+2,Papua New Guinea,8,B Tau,KJ Garth,T Ruma,,0,4,4,,,,387823878
+2,Papua New Guinea,8,B Tau,KJ Garth,T Ruma,wides,1,1,0,,,,387823878
+2,Papua New Guinea,8,B Tau,KJ Garth,T Ruma,,0,0,0,,,,387823878
+2,Papua New Guinea,8,B Tau,KJ Garth,T Ruma,wides,1,1,0,,,,387823878
+2,Papua New Guinea,8,B Tau,KJ Garth,T Ruma,,0,0,0,,,,387823878
+2,Papua New Guinea,8,B Tau,KJ Garth,T Ruma,,0,0,0,,,,387823878
+2,Papua New Guinea,9,T Ruma,L Delany,B Tau,,0,1,1,,,,387823878
+2,Papua New Guinea,9,B Tau,L Delany,T Ruma,,0,1,1,,,,387823878
+2,Papua New Guinea,9,T Ruma,L Delany,B Tau,,0,1,1,,,,387823878
+2,Papua New Guinea,9,B Tau,L Delany,T Ruma,,0,0,0,,,,387823878
+2,Papua New Guinea,9,B Tau,L Delany,T Ruma,,0,1,1,,,,387823878
+2,Papua New Guinea,9,T Ruma,L Delany,B Tau,,0,0,0,,,,387823878
+2,Papua New Guinea,10,B Tau,KJ Garth,T Ruma,,0,1,1,,,,387823878
+2,Papua New Guinea,10,T Ruma,KJ Garth,B Tau,,0,1,1,,,,387823878
+2,Papua New Guinea,10,B Tau,KJ Garth,T Ruma,,0,0,0,,,,387823878
+2,Papua New Guinea,10,B Tau,KJ Garth,T Ruma,,0,1,1,,,,387823878
+2,Papua New Guinea,10,T Ruma,KJ Garth,B Tau,,0,0,0,,,,387823878
+2,Papua New Guinea,10,T Ruma,KJ Garth,B Tau,,0,0,0,,,,387823878
+2,Papua New Guinea,11,B Tau,EAJ Richardson,T Ruma,,0,1,1,,,,387823878
+2,Papua New Guinea,11,T Ruma,EAJ Richardson,B Tau,,0,1,1,,,,387823878
+2,Papua New Guinea,11,B Tau,EAJ Richardson,T Ruma,,0,1,1,,,,387823878
+2,Papua New Guinea,11,T Ruma,EAJ Richardson,B Tau,,0,0,0,run out,T Ruma,,387823878
+2,Papua New Guinea,11,K Arua,EAJ Richardson,B Tau,,0,1,1,,,,387823878
+2,Papua New Guinea,11,B Tau,EAJ Richardson,K Arua,,0,2,2,,,,387823878
+2,Papua New Guinea,12,K Arua,CJ Metcalfe,B Tau,,0,1,1,,,,387823878
+2,Papua New Guinea,12,B Tau,CJ Metcalfe,K Arua,,0,1,1,,,,387823878
+2,Papua New Guinea,12,K Arua,CJ Metcalfe,B Tau,,0,1,1,,,,387823878
+2,Papua New Guinea,12,B Tau,CJ Metcalfe,K Arua,,0,1,1,,,,387823878
+2,Papua New Guinea,12,K Arua,CJ Metcalfe,B Tau,,0,1,1,,,,387823878
+2,Papua New Guinea,12,B Tau,CJ Metcalfe,K Arua,,0,0,0,stumped,B Tau,MV Waldron,387823878
+2,Papua New Guinea,13,K Arua,LK O'Reilly,V Frank,,0,1,1,,,,387823878
+2,Papua New Guinea,13,V Frank,LK O'Reilly,K Arua,,0,0,0,,,,387823878
+2,Papua New Guinea,13,V Frank,LK O'Reilly,K Arua,,0,1,1,,,,387823878
+2,Papua New Guinea,13,K Arua,LK O'Reilly,V Frank,,0,2,2,,,,387823878
+2,Papua New Guinea,13,K Arua,LK O'Reilly,V Frank,,0,1,1,,,,387823878
+2,Papua New Guinea,13,V Frank,LK O'Reilly,K Arua,,0,2,2,,,,387823878
+2,Papua New Guinea,14,K Arua,IMHC Joyce,V Frank,,0,3,3,,,,387823878
+2,Papua New Guinea,14,V Frank,IMHC Joyce,K Arua,,0,1,1,,,,387823878
+2,Papua New Guinea,14,K Arua,IMHC Joyce,V Frank,,0,1,1,,,,387823878
+2,Papua New Guinea,14,V Frank,IMHC Joyce,K Arua,wides,1,1,0,,,,387823878
+2,Papua New Guinea,14,V Frank,IMHC Joyce,K Arua,,0,1,1,,,,387823878
+2,Papua New Guinea,14,K Arua,IMHC Joyce,V Frank,,0,1,1,,,,387823878
+2,Papua New Guinea,14,V Frank,IMHC Joyce,K Arua,,0,1,1,,,,387823878
+2,Papua New Guinea,15,V Frank,L Delany,K Arua,,0,1,1,,,,387823878
+2,Papua New Guinea,15,K Arua,L Delany,V Frank,,0,0,0,bowled,K Arua,,387823878
+2,Papua New Guinea,15,N Vare,L Delany,V Frank,,0,0,0,,,,387823878
+2,Papua New Guinea,15,N Vare,L Delany,V Frank,,0,0,0,caught,N Vare,LK O'Reilly,387823878
+2,Papua New Guinea,15,V Frank,L Delany,I Toua,,0,1,1,,,,387823878
+2,Papua New Guinea,15,I Toua,L Delany,V Frank,,0,0,0,,,,387823878
+2,Papua New Guinea,16,V Frank,EAJ Richardson,I Toua,,0,4,4,,,,387823878
+2,Papua New Guinea,16,V Frank,EAJ Richardson,I Toua,,0,1,1,,,,387823878
+2,Papua New Guinea,16,I Toua,EAJ Richardson,V Frank,,0,0,0,caught,I Toua,IMHC Joyce,387823878
+2,Papua New Guinea,16,R Oa,EAJ Richardson,V Frank,,0,1,1,,,,387823878
+2,Papua New Guinea,16,V Frank,EAJ Richardson,R Oa,,0,0,0,,,,387823878
+2,Papua New Guinea,16,V Frank,EAJ Richardson,R Oa,wides,1,1,0,,,,387823878
+2,Papua New Guinea,16,V Frank,EAJ Richardson,R Oa,,0,2,2,,,,387823878
+2,Papua New Guinea,17,R Oa,LK O'Reilly,V Frank,,0,0,0,,,,387823878
+2,Papua New Guinea,17,R Oa,LK O'Reilly,V Frank,,0,1,1,,,,387823878
+2,Papua New Guinea,17,V Frank,LK O'Reilly,R Oa,,0,1,1,,,,387823878
+2,Papua New Guinea,17,R Oa,LK O'Reilly,V Frank,,0,0,0,caught,R Oa,KJ Garth,387823878
+2,Papua New Guinea,17,V Frank,LK O'Reilly,V Araa,,0,0,0,caught,V Frank,MV Waldron,387823878
+2,Papua New Guinea,17,M Tom,LK O'Reilly,V Araa,byes,1,1,0,,,,387823878
+2,Papua New Guinea,18,M Tom,L Delany,V Araa,,0,3,3,,,,387823878
+2,Papua New Guinea,18,V Araa,L Delany,M Tom,,0,1,1,,,,387823878
+2,Papua New Guinea,18,M Tom,L Delany,V Araa,,0,1,1,,,,387823878
+2,Papua New Guinea,18,V Araa,L Delany,M Tom,,0,1,1,,,,387823878
+2,Papua New Guinea,18,M Tom,L Delany,V Araa,,0,1,1,,,,387823878
+2,Papua New Guinea,18,V Araa,L Delany,M Tom,,0,1,1,,,,387823878
+2,Papua New Guinea,19,V Araa,LK O'Reilly,M Tom,,0,1,1,,,,387823878
+2,Papua New Guinea,19,M Tom,LK O'Reilly,V Araa,,0,0,0,caught,M Tom,IMHC Joyce,387823878

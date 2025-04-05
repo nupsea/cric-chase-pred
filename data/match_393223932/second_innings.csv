@@ -1,0 +1,108 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Sri Lanka,0,N Dickwella,LH Ferguson,S Samarawickrama,,0,4,4,,,,393223932
+2,Sri Lanka,0,N Dickwella,LH Ferguson,S Samarawickrama,,0,6,6,,,,393223932
+2,Sri Lanka,0,N Dickwella,LH Ferguson,S Samarawickrama,,0,0,0,,,,393223932
+2,Sri Lanka,0,N Dickwella,LH Ferguson,S Samarawickrama,,0,1,1,,,,393223932
+2,Sri Lanka,0,S Samarawickrama,LH Ferguson,N Dickwella,,0,0,0,bowled,S Samarawickrama,,393223932
+2,Sri Lanka,0,MDKJ Perera,LH Ferguson,N Dickwella,,0,0,0,,,,393223932
+2,Sri Lanka,1,N Dickwella,TG Southee,MDKJ Perera,,0,1,1,,,,393223932
+2,Sri Lanka,1,MDKJ Perera,TG Southee,N Dickwella,,0,4,4,,,,393223932
+2,Sri Lanka,1,MDKJ Perera,TG Southee,N Dickwella,,0,0,0,,,,393223932
+2,Sri Lanka,1,MDKJ Perera,TG Southee,N Dickwella,,0,2,2,,,,393223932
+2,Sri Lanka,1,MDKJ Perera,TG Southee,N Dickwella,wides,1,1,0,,,,393223932
+2,Sri Lanka,1,MDKJ Perera,TG Southee,N Dickwella,,0,4,4,,,,393223932
+2,Sri Lanka,1,MDKJ Perera,TG Southee,N Dickwella,,0,6,6,,,,393223932
+2,Sri Lanka,2,N Dickwella,LH Ferguson,MDKJ Perera,,0,4,4,,,,393223932
+2,Sri Lanka,2,N Dickwella,LH Ferguson,MDKJ Perera,,0,0,0,,,,393223932
+2,Sri Lanka,2,N Dickwella,LH Ferguson,MDKJ Perera,,0,1,1,,,,393223932
+2,Sri Lanka,2,MDKJ Perera,LH Ferguson,N Dickwella,,0,0,0,,,,393223932
+2,Sri Lanka,2,MDKJ Perera,LH Ferguson,N Dickwella,,0,2,2,,,,393223932
+2,Sri Lanka,2,MDKJ Perera,LH Ferguson,N Dickwella,,0,1,1,,,,393223932
+2,Sri Lanka,3,MDKJ Perera,SC Kuggeleijn,N Dickwella,,0,0,0,,,,393223932
+2,Sri Lanka,3,MDKJ Perera,SC Kuggeleijn,N Dickwella,,0,4,4,,,,393223932
+2,Sri Lanka,3,MDKJ Perera,SC Kuggeleijn,N Dickwella,,0,0,0,caught,MDKJ Perera,DAJ Bracewell,393223932
+2,Sri Lanka,3,BKG Mendis,SC Kuggeleijn,N Dickwella,,0,0,0,,,,393223932
+2,Sri Lanka,3,BKG Mendis,SC Kuggeleijn,N Dickwella,,0,3,3,,,,393223932
+2,Sri Lanka,3,N Dickwella,SC Kuggeleijn,BKG Mendis,,0,1,1,,,,393223932
+2,Sri Lanka,4,N Dickwella,DAJ Bracewell,BKG Mendis,,0,0,0,caught,N Dickwella,TL Seifert,393223932
+2,Sri Lanka,4,BKG Mendis,DAJ Bracewell,NLTC Perera,,0,2,2,,,,393223932
+2,Sri Lanka,4,BKG Mendis,DAJ Bracewell,NLTC Perera,,0,1,1,,,,393223932
+2,Sri Lanka,4,NLTC Perera,DAJ Bracewell,BKG Mendis,,0,2,2,,,,393223932
+2,Sri Lanka,4,NLTC Perera,DAJ Bracewell,BKG Mendis,,0,2,2,,,,393223932
+2,Sri Lanka,4,NLTC Perera,DAJ Bracewell,BKG Mendis,,0,0,0,,,,393223932
+2,Sri Lanka,5,BKG Mendis,SC Kuggeleijn,NLTC Perera,,0,0,0,,,,393223932
+2,Sri Lanka,5,BKG Mendis,SC Kuggeleijn,NLTC Perera,,0,2,2,,,,393223932
+2,Sri Lanka,5,BKG Mendis,SC Kuggeleijn,NLTC Perera,,0,1,1,,,,393223932
+2,Sri Lanka,5,NLTC Perera,SC Kuggeleijn,BKG Mendis,wides,5,5,0,,,,393223932
+2,Sri Lanka,5,NLTC Perera,SC Kuggeleijn,BKG Mendis,,0,0,0,,,,393223932
+2,Sri Lanka,5,NLTC Perera,SC Kuggeleijn,BKG Mendis,,0,1,1,,,,393223932
+2,Sri Lanka,5,BKG Mendis,SC Kuggeleijn,NLTC Perera,,0,0,0,,,,393223932
+2,Sri Lanka,6,NLTC Perera,DAJ Bracewell,BKG Mendis,,0,1,1,,,,393223932
+2,Sri Lanka,6,BKG Mendis,DAJ Bracewell,NLTC Perera,,0,2,2,,,,393223932
+2,Sri Lanka,6,BKG Mendis,DAJ Bracewell,NLTC Perera,,0,1,1,,,,393223932
+2,Sri Lanka,6,NLTC Perera,DAJ Bracewell,BKG Mendis,,0,6,6,,,,393223932
+2,Sri Lanka,6,NLTC Perera,DAJ Bracewell,BKG Mendis,,0,1,1,,,,393223932
+2,Sri Lanka,6,BKG Mendis,DAJ Bracewell,NLTC Perera,,0,1,1,,,,393223932
+2,Sri Lanka,7,BKG Mendis,MJ Santner,NLTC Perera,,0,1,1,,,,393223932
+2,Sri Lanka,7,NLTC Perera,MJ Santner,BKG Mendis,,0,0,0,,,,393223932
+2,Sri Lanka,7,NLTC Perera,MJ Santner,BKG Mendis,,0,6,6,,,,393223932
+2,Sri Lanka,7,NLTC Perera,MJ Santner,BKG Mendis,,0,1,1,,,,393223932
+2,Sri Lanka,7,BKG Mendis,MJ Santner,NLTC Perera,,0,1,1,,,,393223932
+2,Sri Lanka,7,NLTC Perera,MJ Santner,BKG Mendis,,0,1,1,,,,393223932
+2,Sri Lanka,8,NLTC Perera,IS Sodhi,BKG Mendis,,0,2,2,,,,393223932
+2,Sri Lanka,8,NLTC Perera,IS Sodhi,BKG Mendis,,0,4,4,,,,393223932
+2,Sri Lanka,8,NLTC Perera,IS Sodhi,BKG Mendis,,0,1,1,,,,393223932
+2,Sri Lanka,8,BKG Mendis,IS Sodhi,NLTC Perera,,0,0,0,,,,393223932
+2,Sri Lanka,8,BKG Mendis,IS Sodhi,NLTC Perera,wides,1,1,0,,,,393223932
+2,Sri Lanka,8,BKG Mendis,IS Sodhi,NLTC Perera,,0,1,1,,,,393223932
+2,Sri Lanka,8,NLTC Perera,IS Sodhi,BKG Mendis,,0,0,0,,,,393223932
+2,Sri Lanka,9,BKG Mendis,TG Southee,NLTC Perera,,0,0,0,,,,393223932
+2,Sri Lanka,9,BKG Mendis,TG Southee,NLTC Perera,,0,0,0,,,,393223932
+2,Sri Lanka,9,BKG Mendis,TG Southee,NLTC Perera,,0,1,1,,,,393223932
+2,Sri Lanka,9,NLTC Perera,TG Southee,BKG Mendis,,0,1,1,,,,393223932
+2,Sri Lanka,9,BKG Mendis,TG Southee,NLTC Perera,,0,0,0,caught,BKG Mendis,SC Kuggeleijn,393223932
+2,Sri Lanka,9,DM de Silva,TG Southee,NLTC Perera,,0,1,1,,,,393223932
+2,Sri Lanka,10,DM de Silva,IS Sodhi,NLTC Perera,,0,4,4,,,,393223932
+2,Sri Lanka,10,DM de Silva,IS Sodhi,NLTC Perera,,0,0,0,,,,393223932
+2,Sri Lanka,10,DM de Silva,IS Sodhi,NLTC Perera,,0,1,1,,,,393223932
+2,Sri Lanka,10,NLTC Perera,IS Sodhi,DM de Silva,,0,6,6,,,,393223932
+2,Sri Lanka,10,NLTC Perera,IS Sodhi,DM de Silva,,0,1,1,,,,393223932
+2,Sri Lanka,10,DM de Silva,IS Sodhi,NLTC Perera,,0,1,1,,,,393223932
+2,Sri Lanka,11,DM de Silva,SC Kuggeleijn,NLTC Perera,,0,1,1,,,,393223932
+2,Sri Lanka,11,NLTC Perera,SC Kuggeleijn,DM de Silva,,0,4,4,,,,393223932
+2,Sri Lanka,11,NLTC Perera,SC Kuggeleijn,DM de Silva,,0,2,2,,,,393223932
+2,Sri Lanka,11,NLTC Perera,SC Kuggeleijn,DM de Silva,,0,1,1,,,,393223932
+2,Sri Lanka,11,DM de Silva,SC Kuggeleijn,NLTC Perera,,0,1,1,,,,393223932
+2,Sri Lanka,11,NLTC Perera,SC Kuggeleijn,DM de Silva,,0,0,0,,,,393223932
+2,Sri Lanka,12,DM de Silva,LH Ferguson,NLTC Perera,,0,0,0,,,,393223932
+2,Sri Lanka,12,DM de Silva,LH Ferguson,NLTC Perera,,0,1,1,,,,393223932
+2,Sri Lanka,12,NLTC Perera,LH Ferguson,DM de Silva,,0,0,0,caught,NLTC Perera,DAJ Bracewell,393223932
+2,Sri Lanka,12,DM de Silva,LH Ferguson,MD Shanaka,,0,0,0,,,,393223932
+2,Sri Lanka,12,DM de Silva,LH Ferguson,MD Shanaka,,0,0,0,,,,393223932
+2,Sri Lanka,12,DM de Silva,LH Ferguson,MD Shanaka,wides,1,1,0,,,,393223932
+2,Sri Lanka,12,DM de Silva,LH Ferguson,MD Shanaka,,0,0,0,bowled,DM de Silva,,393223932
+2,Sri Lanka,13,MD Shanaka,MJ Santner,CAK Rajitha,,0,1,1,,,,393223932
+2,Sri Lanka,13,CAK Rajitha,MJ Santner,MD Shanaka,,0,1,1,,,,393223932
+2,Sri Lanka,13,MD Shanaka,MJ Santner,CAK Rajitha,,0,4,4,,,,393223932
+2,Sri Lanka,13,MD Shanaka,MJ Santner,CAK Rajitha,,0,1,1,,,,393223932
+2,Sri Lanka,13,CAK Rajitha,MJ Santner,MD Shanaka,,0,1,1,,,,393223932
+2,Sri Lanka,13,MD Shanaka,MJ Santner,CAK Rajitha,,0,1,1,,,,393223932
+2,Sri Lanka,14,MD Shanaka,IS Sodhi,CAK Rajitha,,0,0,0,lbw,MD Shanaka,,393223932
+2,Sri Lanka,14,SL Malinga,IS Sodhi,CAK Rajitha,,0,0,0,,,,393223932
+2,Sri Lanka,14,SL Malinga,IS Sodhi,CAK Rajitha,,0,1,1,,,,393223932
+2,Sri Lanka,14,CAK Rajitha,IS Sodhi,SL Malinga,,0,0,0,,,,393223932
+2,Sri Lanka,14,CAK Rajitha,IS Sodhi,SL Malinga,,0,0,0,,,,393223932
+2,Sri Lanka,14,CAK Rajitha,IS Sodhi,SL Malinga,,0,1,1,,,,393223932
+2,Sri Lanka,15,CAK Rajitha,MJ Santner,SL Malinga,,0,1,1,,,,393223932
+2,Sri Lanka,15,SL Malinga,MJ Santner,CAK Rajitha,wides,1,1,0,,,,393223932
+2,Sri Lanka,15,SL Malinga,MJ Santner,CAK Rajitha,,0,4,4,,,,393223932
+2,Sri Lanka,15,SL Malinga,MJ Santner,CAK Rajitha,,0,1,1,,,,393223932
+2,Sri Lanka,15,CAK Rajitha,MJ Santner,SL Malinga,,0,1,1,,,,393223932
+2,Sri Lanka,15,SL Malinga,MJ Santner,CAK Rajitha,,0,0,0,caught,SL Malinga,MJ Guptill,393223932
+2,Sri Lanka,15,CAK Rajitha,MJ Santner,CBRLS Kumara,,0,0,0,,,,393223932
+2,Sri Lanka,16,CBRLS Kumara,IS Sodhi,CAK Rajitha,,0,4,4,,,,393223932
+2,Sri Lanka,16,CBRLS Kumara,IS Sodhi,CAK Rajitha,,0,0,0,caught,CBRLS Kumara,SC Kuggeleijn,393223932
+2,Sri Lanka,16,PADLR Sandakan,IS Sodhi,CAK Rajitha,,0,0,0,,,,393223932
+2,Sri Lanka,16,PADLR Sandakan,IS Sodhi,CAK Rajitha,,0,1,1,,,,393223932
+2,Sri Lanka,16,CAK Rajitha,IS Sodhi,PADLR Sandakan,wides,1,1,0,,,,393223932
+2,Sri Lanka,16,CAK Rajitha,IS Sodhi,PADLR Sandakan,,0,0,0,caught,CAK Rajitha,TL Seifert,393223932

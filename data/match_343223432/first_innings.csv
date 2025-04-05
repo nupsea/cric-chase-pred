@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,West Indies,0,Kycia A Knight,Salma Khatun,SL Quintyne,,0,0,0,,,,343223432
+1,West Indies,0,Kycia A Knight,Salma Khatun,SL Quintyne,,0,0,0,lbw,Kycia A Knight,,343223432
+1,West Indies,0,Kyshona A Knight,Salma Khatun,SL Quintyne,,0,0,0,,,,343223432
+1,West Indies,0,Kyshona A Knight,Salma Khatun,SL Quintyne,wides,1,1,0,,,,343223432
+1,West Indies,0,Kyshona A Knight,Salma Khatun,SL Quintyne,,0,1,1,,,,343223432
+1,West Indies,0,SL Quintyne,Salma Khatun,Kyshona A Knight,,0,0,0,,,,343223432
+1,West Indies,0,SL Quintyne,Salma Khatun,Kyshona A Knight,,0,0,0,,,,343223432
+1,West Indies,1,Kyshona A Knight,Jahanara Alam,SL Quintyne,,0,0,0,,,,343223432
+1,West Indies,1,Kyshona A Knight,Jahanara Alam,SL Quintyne,,0,0,0,,,,343223432
+1,West Indies,1,Kyshona A Knight,Jahanara Alam,SL Quintyne,,0,1,1,,,,343223432
+1,West Indies,1,SL Quintyne,Jahanara Alam,Kyshona A Knight,,0,0,0,,,,343223432
+1,West Indies,1,SL Quintyne,Jahanara Alam,Kyshona A Knight,,0,0,0,,,,343223432
+1,West Indies,1,SL Quintyne,Jahanara Alam,Kyshona A Knight,,0,0,0,,,,343223432
+1,West Indies,2,Kyshona A Knight,Salma Khatun,SL Quintyne,,0,0,0,,,,343223432
+1,West Indies,2,Kyshona A Knight,Salma Khatun,SL Quintyne,,0,0,0,,,,343223432
+1,West Indies,2,Kyshona A Knight,Salma Khatun,SL Quintyne,,0,0,0,,,,343223432
+1,West Indies,2,Kyshona A Knight,Salma Khatun,SL Quintyne,,0,0,0,,,,343223432
+1,West Indies,2,Kyshona A Knight,Salma Khatun,SL Quintyne,,0,0,0,,,,343223432
+1,West Indies,2,Kyshona A Knight,Salma Khatun,SL Quintyne,,0,0,0,,,,343223432
+1,West Indies,3,SL Quintyne,Jahanara Alam,Kyshona A Knight,,0,0,0,,,,343223432
+1,West Indies,3,SL Quintyne,Jahanara Alam,Kyshona A Knight,,0,0,0,,,,343223432
+1,West Indies,3,SL Quintyne,Jahanara Alam,Kyshona A Knight,,0,0,0,,,,343223432
+1,West Indies,3,SL Quintyne,Jahanara Alam,Kyshona A Knight,,0,4,4,,,,343223432
+1,West Indies,3,SL Quintyne,Jahanara Alam,Kyshona A Knight,,0,1,1,,,,343223432
+1,West Indies,3,Kyshona A Knight,Jahanara Alam,SL Quintyne,wides,5,5,0,,,,343223432
+1,West Indies,3,Kyshona A Knight,Jahanara Alam,SL Quintyne,,0,1,1,,,,343223432
+1,West Indies,4,Kyshona A Knight,Salma Khatun,SL Quintyne,,0,1,1,,,,343223432
+1,West Indies,4,SL Quintyne,Salma Khatun,Kyshona A Knight,,0,0,0,,,,343223432
+1,West Indies,4,SL Quintyne,Salma Khatun,Kyshona A Knight,,0,1,1,,,,343223432
+1,West Indies,4,Kyshona A Knight,Salma Khatun,SL Quintyne,,0,1,1,,,,343223432
+1,West Indies,4,SL Quintyne,Salma Khatun,Kyshona A Knight,,0,1,1,,,,343223432
+1,West Indies,4,Kyshona A Knight,Salma Khatun,SL Quintyne,,0,0,0,,,,343223432
+1,West Indies,5,SL Quintyne,Fahima Khatun,Kyshona A Knight,,0,4,4,,,,343223432
+1,West Indies,5,SL Quintyne,Fahima Khatun,Kyshona A Knight,,0,0,0,bowled,SL Quintyne,,343223432
+1,West Indies,5,DJS Dottin,Fahima Khatun,Kyshona A Knight,,0,0,0,,,,343223432
+1,West Indies,5,DJS Dottin,Fahima Khatun,Kyshona A Knight,,0,4,4,,,,343223432
+1,West Indies,5,DJS Dottin,Fahima Khatun,Kyshona A Knight,,0,0,0,,,,343223432
+1,West Indies,5,DJS Dottin,Fahima Khatun,Kyshona A Knight,,0,0,0,,,,343223432
+1,West Indies,6,Kyshona A Knight,Rumana Ahmed,DJS Dottin,,0,0,0,,,,343223432
+1,West Indies,6,Kyshona A Knight,Rumana Ahmed,DJS Dottin,,0,4,4,,,,343223432
+1,West Indies,6,Kyshona A Knight,Rumana Ahmed,DJS Dottin,,0,1,1,,,,343223432
+1,West Indies,6,DJS Dottin,Rumana Ahmed,Kyshona A Knight,,0,0,0,,,,343223432
+1,West Indies,6,DJS Dottin,Rumana Ahmed,Kyshona A Knight,,0,1,1,,,,343223432
+1,West Indies,6,Kyshona A Knight,Rumana Ahmed,DJS Dottin,,0,1,1,,,,343223432
+1,West Indies,7,Kyshona A Knight,Fahima Khatun,DJS Dottin,,0,0,0,lbw,Kyshona A Knight,,343223432
+1,West Indies,7,MR Aguilleira,Fahima Khatun,DJS Dottin,,0,2,2,,,,343223432
+1,West Indies,7,MR Aguilleira,Fahima Khatun,DJS Dottin,,0,0,0,,,,343223432
+1,West Indies,7,MR Aguilleira,Fahima Khatun,DJS Dottin,,0,4,4,,,,343223432
+1,West Indies,7,MR Aguilleira,Fahima Khatun,DJS Dottin,,0,0,0,,,,343223432
+1,West Indies,7,MR Aguilleira,Fahima Khatun,DJS Dottin,,0,0,0,,,,343223432
+1,West Indies,8,DJS Dottin,Rumana Ahmed,MR Aguilleira,,0,0,0,,,,343223432
+1,West Indies,8,DJS Dottin,Rumana Ahmed,MR Aguilleira,,0,1,1,,,,343223432
+1,West Indies,8,MR Aguilleira,Rumana Ahmed,DJS Dottin,,0,0,0,,,,343223432
+1,West Indies,8,MR Aguilleira,Rumana Ahmed,DJS Dottin,,0,0,0,,,,343223432
+1,West Indies,8,MR Aguilleira,Rumana Ahmed,DJS Dottin,,0,0,0,,,,343223432
+1,West Indies,8,MR Aguilleira,Rumana Ahmed,DJS Dottin,,0,0,0,,,,343223432
+1,West Indies,9,DJS Dottin,Fahima Khatun,MR Aguilleira,,0,0,0,,,,343223432
+1,West Indies,9,DJS Dottin,Fahima Khatun,MR Aguilleira,,0,0,0,,,,343223432
+1,West Indies,9,DJS Dottin,Fahima Khatun,MR Aguilleira,,0,0,0,,,,343223432
+1,West Indies,9,DJS Dottin,Fahima Khatun,MR Aguilleira,,0,0,0,,,,343223432
+1,West Indies,9,DJS Dottin,Fahima Khatun,MR Aguilleira,wides,1,1,0,,,,343223432
+1,West Indies,9,DJS Dottin,Fahima Khatun,MR Aguilleira,,0,0,0,,,,343223432
+1,West Indies,9,DJS Dottin,Fahima Khatun,MR Aguilleira,,0,1,1,,,,343223432
+1,West Indies,10,DJS Dottin,Rumana Ahmed,MR Aguilleira,,0,0,0,,,,343223432
+1,West Indies,10,DJS Dottin,Rumana Ahmed,MR Aguilleira,,0,0,0,,,,343223432
+1,West Indies,10,DJS Dottin,Rumana Ahmed,MR Aguilleira,,0,1,1,,,,343223432
+1,West Indies,10,MR Aguilleira,Rumana Ahmed,DJS Dottin,,0,0,0,caught,MR Aguilleira,Panna Ghosh,343223432
+1,West Indies,10,DJS Dottin,Rumana Ahmed,SACA King,,0,0,0,,,,343223432
+1,West Indies,10,DJS Dottin,Rumana Ahmed,SACA King,,0,2,2,,,,343223432
+1,West Indies,11,SACA King,Fahima Khatun,DJS Dottin,,0,0,0,,,,343223432
+1,West Indies,11,SACA King,Fahima Khatun,DJS Dottin,,0,1,1,,,,343223432
+1,West Indies,11,DJS Dottin,Fahima Khatun,SACA King,,0,4,4,,,,343223432
+1,West Indies,11,DJS Dottin,Fahima Khatun,SACA King,,0,0,0,,,,343223432
+1,West Indies,11,DJS Dottin,Fahima Khatun,SACA King,,0,2,2,,,,343223432
+1,West Indies,11,DJS Dottin,Fahima Khatun,SACA King,,0,4,4,,,,343223432
+1,West Indies,12,SACA King,Rumana Ahmed,DJS Dottin,,0,1,1,,,,343223432
+1,West Indies,12,DJS Dottin,Rumana Ahmed,SACA King,,0,1,1,,,,343223432
+1,West Indies,12,SACA King,Rumana Ahmed,DJS Dottin,,0,4,4,,,,343223432
+1,West Indies,12,SACA King,Rumana Ahmed,DJS Dottin,,0,0,0,,,,343223432
+1,West Indies,12,SACA King,Rumana Ahmed,DJS Dottin,,0,6,6,,,,343223432
+1,West Indies,12,SACA King,Rumana Ahmed,DJS Dottin,,0,0,0,,,,343223432
+1,West Indies,13,DJS Dottin,Khadija Tul Kubra,SACA King,,0,0,0,,,,343223432
+1,West Indies,13,DJS Dottin,Khadija Tul Kubra,SACA King,,0,0,0,,,,343223432
+1,West Indies,13,DJS Dottin,Khadija Tul Kubra,SACA King,,0,0,0,,,,343223432
+1,West Indies,13,DJS Dottin,Khadija Tul Kubra,SACA King,,0,1,1,,,,343223432
+1,West Indies,13,SACA King,Khadija Tul Kubra,DJS Dottin,,0,1,1,,,,343223432
+1,West Indies,13,DJS Dottin,Khadija Tul Kubra,SACA King,,0,2,2,,,,343223432
+1,West Indies,14,SACA King,Panna Ghosh,DJS Dottin,,0,0,0,,,,343223432
+1,West Indies,14,SACA King,Panna Ghosh,DJS Dottin,,0,1,1,,,,343223432
+1,West Indies,14,DJS Dottin,Panna Ghosh,SACA King,,0,2,2,,,,343223432
+1,West Indies,14,DJS Dottin,Panna Ghosh,SACA King,,0,1,1,,,,343223432
+1,West Indies,14,SACA King,Panna Ghosh,DJS Dottin,,0,4,4,,,,343223432
+1,West Indies,14,SACA King,Panna Ghosh,DJS Dottin,,0,2,2,,,,343223432
+1,West Indies,15,DJS Dottin,Khadija Tul Kubra,SACA King,,0,1,1,,,,343223432
+1,West Indies,15,SACA King,Khadija Tul Kubra,DJS Dottin,,0,0,0,caught,SACA King,Fahima Khatun,343223432
+1,West Indies,15,DJS Dottin,Khadija Tul Kubra,SA Campbelle,,0,6,6,,,,343223432
+1,West Indies,15,DJS Dottin,Khadija Tul Kubra,SA Campbelle,,0,0,0,caught,DJS Dottin,Fahima Khatun,343223432
+1,West Indies,15,SA Campbelle,Khadija Tul Kubra,A Mohammed,,0,1,1,,,,343223432
+1,West Indies,15,A Mohammed,Khadija Tul Kubra,SA Campbelle,,0,0,0,,,,343223432
+1,West Indies,16,SA Campbelle,Panna Ghosh,A Mohammed,,0,0,0,,,,343223432
+1,West Indies,16,SA Campbelle,Panna Ghosh,A Mohammed,,0,6,6,,,,343223432
+1,West Indies,16,SA Campbelle,Panna Ghosh,A Mohammed,,0,0,0,run out,SA Campbelle,Fahima Khatun,343223432
+1,West Indies,16,TD Smartt,Panna Ghosh,A Mohammed,,0,1,1,,,,343223432
+1,West Indies,16,A Mohammed,Panna Ghosh,TD Smartt,,0,1,1,,,,343223432
+1,West Indies,16,TD Smartt,Panna Ghosh,A Mohammed,,0,0,0,,,,343223432
+1,West Indies,17,A Mohammed,Khadija Tul Kubra,TD Smartt,,0,4,4,,,,343223432
+1,West Indies,17,A Mohammed,Khadija Tul Kubra,TD Smartt,,0,0,0,,,,343223432
+1,West Indies,17,A Mohammed,Khadija Tul Kubra,TD Smartt,,0,1,1,,,,343223432
+1,West Indies,17,TD Smartt,Khadija Tul Kubra,A Mohammed,,0,1,1,,,,343223432
+1,West Indies,17,A Mohammed,Khadija Tul Kubra,TD Smartt,,0,0,0,,,,343223432
+1,West Indies,17,A Mohammed,Khadija Tul Kubra,TD Smartt,,0,1,1,,,,343223432
+1,West Indies,18,A Mohammed,Salma Khatun,TD Smartt,,0,1,1,,,,343223432
+1,West Indies,18,TD Smartt,Salma Khatun,A Mohammed,,0,1,1,,,,343223432
+1,West Indies,18,A Mohammed,Salma Khatun,TD Smartt,,0,2,2,,,,343223432
+1,West Indies,18,A Mohammed,Salma Khatun,TD Smartt,,0,1,1,,,,343223432
+1,West Indies,18,TD Smartt,Salma Khatun,A Mohammed,,0,0,0,,,,343223432
+1,West Indies,18,TD Smartt,Salma Khatun,A Mohammed,,0,0,0,caught and bowled,TD Smartt,,343223432
+1,West Indies,19,A Mohammed,Khadija Tul Kubra,SC Selman,,0,1,1,,,,343223432
+1,West Indies,19,SC Selman,Khadija Tul Kubra,A Mohammed,,0,1,1,,,,343223432
+1,West Indies,19,A Mohammed,Khadija Tul Kubra,SC Selman,,0,2,2,,,,343223432
+1,West Indies,19,A Mohammed,Khadija Tul Kubra,SC Selman,,0,0,0,,,,343223432
+1,West Indies,19,A Mohammed,Khadija Tul Kubra,SC Selman,,0,1,1,run out,A Mohammed,Jahanara Alam,343223432
+1,West Indies,19,SC Selman,Khadija Tul Kubra,SF Daley,,0,0,0,caught,SC Selman,Lata Mondal,343223432

@@ -1,0 +1,83 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Thailand,0,S Desungnoen,Pavandeep Singh,N Nuntarach,,0,0,0,,,,32198232198
+1,Thailand,0,S Desungnoen,Pavandeep Singh,N Nuntarach,,0,2,2,,,,32198232198
+1,Thailand,0,S Desungnoen,Pavandeep Singh,N Nuntarach,,0,0,0,,,,32198232198
+1,Thailand,0,S Desungnoen,Pavandeep Singh,N Nuntarach,,0,0,0,,,,32198232198
+1,Thailand,0,S Desungnoen,Pavandeep Singh,N Nuntarach,,0,0,0,,,,32198232198
+1,Thailand,0,S Desungnoen,Pavandeep Singh,N Nuntarach,,0,0,0,,,,32198232198
+1,Thailand,1,N Nuntarach,Syazrul Idrus,S Desungnoen,,0,1,1,,,,32198232198
+1,Thailand,1,S Desungnoen,Syazrul Idrus,N Nuntarach,,0,0,0,,,,32198232198
+1,Thailand,1,S Desungnoen,Syazrul Idrus,N Nuntarach,,0,0,0,,,,32198232198
+1,Thailand,1,S Desungnoen,Syazrul Idrus,N Nuntarach,,0,0,0,bowled,S Desungnoen,,32198232198
+1,Thailand,1,J Pakhiaokajee,Syazrul Idrus,N Nuntarach,,0,0,0,lbw,J Pakhiaokajee,,32198232198
+1,Thailand,1,C Chatphaisan,Syazrul Idrus,N Nuntarach,,0,0,0,lbw,C Chatphaisan,,32198232198
+1,Thailand,2,N Nuntarach,Pavandeep Singh,Vichanath Singh,,0,0,0,,,,32198232198
+1,Thailand,2,N Nuntarach,Pavandeep Singh,Vichanath Singh,,0,0,0,,,,32198232198
+1,Thailand,2,N Nuntarach,Pavandeep Singh,Vichanath Singh,,0,0,0,,,,32198232198
+1,Thailand,2,N Nuntarach,Pavandeep Singh,Vichanath Singh,,0,1,1,,,,32198232198
+1,Thailand,2,Vichanath Singh,Pavandeep Singh,N Nuntarach,,0,0,0,,,,32198232198
+1,Thailand,2,Vichanath Singh,Pavandeep Singh,N Nuntarach,,0,0,0,,,,32198232198
+1,Thailand,3,N Nuntarach,Syazrul Idrus,Vichanath Singh,,0,2,2,,,,32198232198
+1,Thailand,3,N Nuntarach,Syazrul Idrus,Vichanath Singh,,0,1,1,,,,32198232198
+1,Thailand,3,Vichanath Singh,Syazrul Idrus,N Nuntarach,,0,0,0,,,,32198232198
+1,Thailand,3,Vichanath Singh,Syazrul Idrus,N Nuntarach,,0,0,0,,,,32198232198
+1,Thailand,3,Vichanath Singh,Syazrul Idrus,N Nuntarach,,0,0,0,,,,32198232198
+1,Thailand,3,Vichanath Singh,Syazrul Idrus,N Nuntarach,,0,1,1,,,,32198232198
+1,Thailand,4,Vichanath Singh,Pavandeep Singh,N Nuntarach,,0,0,0,,,,32198232198
+1,Thailand,4,Vichanath Singh,Pavandeep Singh,N Nuntarach,,0,0,0,,,,32198232198
+1,Thailand,4,Vichanath Singh,Pavandeep Singh,N Nuntarach,,0,0,0,,,,32198232198
+1,Thailand,4,Vichanath Singh,Pavandeep Singh,N Nuntarach,wides,1,1,0,,,,32198232198
+1,Thailand,4,Vichanath Singh,Pavandeep Singh,N Nuntarach,,0,0,0,,,,32198232198
+1,Thailand,4,Vichanath Singh,Pavandeep Singh,N Nuntarach,,0,0,0,,,,32198232198
+1,Thailand,4,Vichanath Singh,Pavandeep Singh,N Nuntarach,,0,0,0,,,,32198232198
+1,Thailand,5,N Nuntarach,Syazrul Idrus,Vichanath Singh,,0,0,0,,,,32198232198
+1,Thailand,5,N Nuntarach,Syazrul Idrus,Vichanath Singh,,0,2,2,,,,32198232198
+1,Thailand,5,N Nuntarach,Syazrul Idrus,Vichanath Singh,,0,0,0,,,,32198232198
+1,Thailand,5,N Nuntarach,Syazrul Idrus,Vichanath Singh,,0,0,0,caught,N Nuntarach,Virandeep Singh,32198232198
+1,Thailand,5,P Suanchuai,Syazrul Idrus,Vichanath Singh,,0,4,4,,,,32198232198
+1,Thailand,5,P Suanchuai,Syazrul Idrus,Vichanath Singh,,0,2,2,,,,32198232198
+1,Thailand,6,Vichanath Singh,Virandeep Singh,P Suanchuai,,0,0,0,,,,32198232198
+1,Thailand,6,Vichanath Singh,Virandeep Singh,P Suanchuai,,0,0,0,,,,32198232198
+1,Thailand,6,Vichanath Singh,Virandeep Singh,P Suanchuai,,0,1,1,,,,32198232198
+1,Thailand,6,P Suanchuai,Virandeep Singh,Vichanath Singh,,0,1,1,,,,32198232198
+1,Thailand,6,Vichanath Singh,Virandeep Singh,P Suanchuai,,0,0,0,,,,32198232198
+1,Thailand,6,Vichanath Singh,Virandeep Singh,P Suanchuai,,0,0,0,,,,32198232198
+1,Thailand,7,P Suanchuai,Syazrul Idrus,Vichanath Singh,,0,1,1,,,,32198232198
+1,Thailand,7,Vichanath Singh,Syazrul Idrus,P Suanchuai,,0,0,0,,,,32198232198
+1,Thailand,7,Vichanath Singh,Syazrul Idrus,P Suanchuai,,0,0,0,,,,32198232198
+1,Thailand,7,Vichanath Singh,Syazrul Idrus,P Suanchuai,,0,1,1,,,,32198232198
+1,Thailand,7,P Suanchuai,Syazrul Idrus,Vichanath Singh,,0,1,1,,,,32198232198
+1,Thailand,7,Vichanath Singh,Syazrul Idrus,P Suanchuai,,0,1,1,,,,32198232198
+1,Thailand,8,Vichanath Singh,Virandeep Singh,P Suanchuai,,0,0,0,,,,32198232198
+1,Thailand,8,Vichanath Singh,Virandeep Singh,P Suanchuai,,0,0,0,caught,Vichanath Singh,Pavandeep Singh,32198232198
+1,Thailand,8,P Suanchuai,Virandeep Singh,C Pengkumta,,0,0,0,caught,P Suanchuai,Syed Aziz,32198232198
+1,Thailand,8,Y Saranonnakkun,Virandeep Singh,C Pengkumta,,0,0,0,,,,32198232198
+1,Thailand,8,Y Saranonnakkun,Virandeep Singh,C Pengkumta,,0,1,1,,,,32198232198
+1,Thailand,8,C Pengkumta,Virandeep Singh,Y Saranonnakkun,,0,0,0,,,,32198232198
+1,Thailand,9,Y Saranonnakkun,Khizar Hayat,C Pengkumta,,0,0,0,lbw,Y Saranonnakkun,,32198232198
+1,Thailand,9,P Thongsa,Khizar Hayat,C Pengkumta,,0,0,0,,,,32198232198
+1,Thailand,9,P Thongsa,Khizar Hayat,C Pengkumta,,0,0,0,,,,32198232198
+1,Thailand,9,P Thongsa,Khizar Hayat,C Pengkumta,,0,0,0,,,,32198232198
+1,Thailand,9,P Thongsa,Khizar Hayat,C Pengkumta,,0,0,0,,,,32198232198
+1,Thailand,9,P Thongsa,Khizar Hayat,C Pengkumta,,0,0,0,,,,32198232198
+1,Thailand,10,C Pengkumta,Virandeep Singh,P Thongsa,,0,0,0,,,,32198232198
+1,Thailand,10,C Pengkumta,Virandeep Singh,P Thongsa,,0,1,1,run out,C Pengkumta,M Syahadat Ramli,32198232198
+1,Thailand,10,K Senamontree,Virandeep Singh,P Thongsa,wides,1,1,0,,,,32198232198
+1,Thailand,10,K Senamontree,Virandeep Singh,P Thongsa,,0,0,0,,,,32198232198
+1,Thailand,10,K Senamontree,Virandeep Singh,P Thongsa,wides,1,1,0,,,,32198232198
+1,Thailand,10,K Senamontree,Virandeep Singh,P Thongsa,,0,0,0,,,,32198232198
+1,Thailand,10,K Senamontree,Virandeep Singh,P Thongsa,,0,0,0,,,,32198232198
+1,Thailand,10,K Senamontree,Virandeep Singh,P Thongsa,,0,0,0,,,,32198232198
+1,Thailand,11,P Thongsa,Khizar Hayat,K Senamontree,,0,0,0,,,,32198232198
+1,Thailand,11,P Thongsa,Khizar Hayat,K Senamontree,,0,0,0,,,,32198232198
+1,Thailand,11,P Thongsa,Khizar Hayat,K Senamontree,,0,0,0,,,,32198232198
+1,Thailand,11,P Thongsa,Khizar Hayat,K Senamontree,,0,0,0,,,,32198232198
+1,Thailand,11,P Thongsa,Khizar Hayat,K Senamontree,,0,2,2,,,,32198232198
+1,Thailand,11,P Thongsa,Khizar Hayat,K Senamontree,,0,0,0,,,,32198232198
+1,Thailand,12,K Senamontree,Virandeep Singh,P Thongsa,,0,0,0,caught,K Senamontree,Muhammad Amir,32198232198
+1,Thailand,12,K Namchaikul,Virandeep Singh,P Thongsa,,0,0,0,,,,32198232198
+1,Thailand,12,K Namchaikul,Virandeep Singh,P Thongsa,,0,0,0,,,,32198232198
+1,Thailand,12,K Namchaikul,Virandeep Singh,P Thongsa,,0,0,0,,,,32198232198
+1,Thailand,12,K Namchaikul,Virandeep Singh,P Thongsa,,0,1,1,,,,32198232198
+1,Thailand,12,P Thongsa,Virandeep Singh,K Namchaikul,,0,0,0,,,,32198232198
+1,Thailand,13,K Namchaikul,Khizar Hayat,P Thongsa,,0,0,0,lbw,K Namchaikul,,32198232198

@@ -1,0 +1,115 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Bangladesh,0,Lata Mondal,SS Weerakkody,Fargana Hoque,,0,0,0,,,,331623316
+1,Bangladesh,0,Lata Mondal,SS Weerakkody,Fargana Hoque,,0,0,0,,,,331623316
+1,Bangladesh,0,Lata Mondal,SS Weerakkody,Fargana Hoque,,0,1,1,,,,331623316
+1,Bangladesh,0,Fargana Hoque,SS Weerakkody,Lata Mondal,,0,0,0,,,,331623316
+1,Bangladesh,0,Fargana Hoque,SS Weerakkody,Lata Mondal,wides,1,1,0,,,,331623316
+1,Bangladesh,0,Fargana Hoque,SS Weerakkody,Lata Mondal,,0,0,0,,,,331623316
+1,Bangladesh,0,Fargana Hoque,SS Weerakkody,Lata Mondal,,0,2,2,,,,331623316
+1,Bangladesh,1,Lata Mondal,KDU Prabodhani,Fargana Hoque,wides,1,1,0,,,,331623316
+1,Bangladesh,1,Lata Mondal,KDU Prabodhani,Fargana Hoque,,0,0,0,,,,331623316
+1,Bangladesh,1,Lata Mondal,KDU Prabodhani,Fargana Hoque,noballs,1,2,1,,,,331623316
+1,Bangladesh,1,Fargana Hoque,KDU Prabodhani,Lata Mondal,,0,1,1,,,,331623316
+1,Bangladesh,1,Lata Mondal,KDU Prabodhani,Fargana Hoque,,0,1,1,,,,331623316
+1,Bangladesh,1,Fargana Hoque,KDU Prabodhani,Lata Mondal,,0,0,0,,,,331623316
+1,Bangladesh,1,Fargana Hoque,KDU Prabodhani,Lata Mondal,wides,1,1,0,,,,331623316
+1,Bangladesh,1,Fargana Hoque,KDU Prabodhani,Lata Mondal,,0,0,0,,,,331623316
+1,Bangladesh,1,Fargana Hoque,KDU Prabodhani,Lata Mondal,,0,0,0,,,,331623316
+1,Bangladesh,2,Lata Mondal,SS Weerakkody,Fargana Hoque,,0,0,0,,,,331623316
+1,Bangladesh,2,Lata Mondal,SS Weerakkody,Fargana Hoque,,0,0,0,,,,331623316
+1,Bangladesh,2,Lata Mondal,SS Weerakkody,Fargana Hoque,,0,1,1,,,,331623316
+1,Bangladesh,2,Fargana Hoque,SS Weerakkody,Lata Mondal,,0,0,0,,,,331623316
+1,Bangladesh,2,Fargana Hoque,SS Weerakkody,Lata Mondal,,0,0,0,bowled,Fargana Hoque,,331623316
+1,Bangladesh,2,Tazia Akhter,SS Weerakkody,Lata Mondal,,0,0,0,,,,331623316
+1,Bangladesh,3,Lata Mondal,CR Seneviratna,Tazia Akhter,,0,0,0,,,,331623316
+1,Bangladesh,3,Lata Mondal,CR Seneviratna,Tazia Akhter,,0,0,0,,,,331623316
+1,Bangladesh,3,Lata Mondal,CR Seneviratna,Tazia Akhter,,0,0,0,,,,331623316
+1,Bangladesh,3,Lata Mondal,CR Seneviratna,Tazia Akhter,,0,1,1,,,,331623316
+1,Bangladesh,3,Tazia Akhter,CR Seneviratna,Lata Mondal,,0,0,0,,,,331623316
+1,Bangladesh,3,Tazia Akhter,CR Seneviratna,Lata Mondal,,0,0,0,caught,Tazia Akhter,KDU Prabodhani,331623316
+1,Bangladesh,4,Salma Khatun,SS Weerakkody,Lata Mondal,,0,1,1,,,,331623316
+1,Bangladesh,4,Lata Mondal,SS Weerakkody,Salma Khatun,,0,0,0,,,,331623316
+1,Bangladesh,4,Lata Mondal,SS Weerakkody,Salma Khatun,,0,2,2,,,,331623316
+1,Bangladesh,4,Lata Mondal,SS Weerakkody,Salma Khatun,,0,0,0,,,,331623316
+1,Bangladesh,4,Lata Mondal,SS Weerakkody,Salma Khatun,,0,0,0,,,,331623316
+1,Bangladesh,4,Lata Mondal,SS Weerakkody,Salma Khatun,,0,0,0,,,,331623316
+1,Bangladesh,5,Salma Khatun,I Ranaweera,Lata Mondal,,0,1,1,,,,331623316
+1,Bangladesh,5,Lata Mondal,I Ranaweera,Salma Khatun,,0,0,0,,,,331623316
+1,Bangladesh,5,Lata Mondal,I Ranaweera,Salma Khatun,,0,0,0,lbw,Lata Mondal,,331623316
+1,Bangladesh,5,Rumana Ahmed,I Ranaweera,Salma Khatun,,0,0,0,,,,331623316
+1,Bangladesh,5,Rumana Ahmed,I Ranaweera,Salma Khatun,,0,0,0,,,,331623316
+1,Bangladesh,5,Rumana Ahmed,I Ranaweera,Salma Khatun,,0,0,0,,,,331623316
+1,Bangladesh,6,Salma Khatun,KDU Prabodhani,Rumana Ahmed,,0,0,0,caught,Salma Khatun,CR Seneviratna,331623316
+1,Bangladesh,6,Ritu Moni,KDU Prabodhani,Rumana Ahmed,,0,2,2,,,,331623316
+1,Bangladesh,6,Ritu Moni,KDU Prabodhani,Rumana Ahmed,,0,0,0,,,,331623316
+1,Bangladesh,6,Ritu Moni,KDU Prabodhani,Rumana Ahmed,,0,0,0,,,,331623316
+1,Bangladesh,6,Ritu Moni,KDU Prabodhani,Rumana Ahmed,,0,0,0,,,,331623316
+1,Bangladesh,6,Ritu Moni,KDU Prabodhani,Rumana Ahmed,,0,0,0,,,,331623316
+1,Bangladesh,7,Rumana Ahmed,I Ranaweera,Ritu Moni,,0,1,1,,,,331623316
+1,Bangladesh,7,Ritu Moni,I Ranaweera,Rumana Ahmed,,0,2,2,,,,331623316
+1,Bangladesh,7,Ritu Moni,I Ranaweera,Rumana Ahmed,,0,0,0,,,,331623316
+1,Bangladesh,7,Ritu Moni,I Ranaweera,Rumana Ahmed,,0,0,0,,,,331623316
+1,Bangladesh,7,Ritu Moni,I Ranaweera,Rumana Ahmed,,0,0,0,,,,331623316
+1,Bangladesh,7,Ritu Moni,I Ranaweera,Rumana Ahmed,,0,0,0,caught,Ritu Moni,MADD Surangika,331623316
+1,Bangladesh,8,Rumana Ahmed,LE Kaushalya,Panna Ghosh,legbyes,1,1,0,,,,331623316
+1,Bangladesh,8,Panna Ghosh,LE Kaushalya,Rumana Ahmed,wides,1,1,0,,,,331623316
+1,Bangladesh,8,Panna Ghosh,LE Kaushalya,Rumana Ahmed,,0,1,1,,,,331623316
+1,Bangladesh,8,Rumana Ahmed,LE Kaushalya,Panna Ghosh,,0,1,1,,,,331623316
+1,Bangladesh,8,Panna Ghosh,LE Kaushalya,Rumana Ahmed,,0,0,0,,,,331623316
+1,Bangladesh,8,Panna Ghosh,LE Kaushalya,Rumana Ahmed,,0,0,0,,,,331623316
+1,Bangladesh,8,Panna Ghosh,LE Kaushalya,Rumana Ahmed,,0,0,0,,,,331623316
+1,Bangladesh,9,Rumana Ahmed,I Ranaweera,Panna Ghosh,wides,1,1,0,,,,331623316
+1,Bangladesh,9,Rumana Ahmed,I Ranaweera,Panna Ghosh,,0,0,0,,,,331623316
+1,Bangladesh,9,Rumana Ahmed,I Ranaweera,Panna Ghosh,,0,0,0,,,,331623316
+1,Bangladesh,9,Rumana Ahmed,I Ranaweera,Panna Ghosh,,0,0,0,,,,331623316
+1,Bangladesh,9,Rumana Ahmed,I Ranaweera,Panna Ghosh,byes,1,1,0,,,,331623316
+1,Bangladesh,9,Panna Ghosh,I Ranaweera,Rumana Ahmed,,0,0,0,,,,331623316
+1,Bangladesh,9,Panna Ghosh,I Ranaweera,Rumana Ahmed,,0,0,0,bowled,Panna Ghosh,,331623316
+1,Bangladesh,10,Rumana Ahmed,LE Kaushalya,Jahanara Alam,,0,0,0,,,,331623316
+1,Bangladesh,10,Rumana Ahmed,LE Kaushalya,Jahanara Alam,legbyes,1,1,0,,,,331623316
+1,Bangladesh,10,Jahanara Alam,LE Kaushalya,Rumana Ahmed,,0,0,0,,,,331623316
+1,Bangladesh,10,Jahanara Alam,LE Kaushalya,Rumana Ahmed,,0,1,1,,,,331623316
+1,Bangladesh,10,Rumana Ahmed,LE Kaushalya,Jahanara Alam,legbyes,1,1,0,,,,331623316
+1,Bangladesh,10,Jahanara Alam,LE Kaushalya,Rumana Ahmed,,0,0,0,,,,331623316
+1,Bangladesh,11,Rumana Ahmed,I Ranaweera,Jahanara Alam,,0,0,0,,,,331623316
+1,Bangladesh,11,Rumana Ahmed,I Ranaweera,Jahanara Alam,,0,0,0,,,,331623316
+1,Bangladesh,11,Rumana Ahmed,I Ranaweera,Jahanara Alam,,0,1,1,,,,331623316
+1,Bangladesh,11,Jahanara Alam,I Ranaweera,Rumana Ahmed,,0,0,0,,,,331623316
+1,Bangladesh,11,Jahanara Alam,I Ranaweera,Rumana Ahmed,,0,0,0,,,,331623316
+1,Bangladesh,11,Jahanara Alam,I Ranaweera,Rumana Ahmed,,0,3,3,,,,331623316
+1,Bangladesh,12,Jahanara Alam,CR Seneviratna,Rumana Ahmed,,0,0,0,,,,331623316
+1,Bangladesh,12,Jahanara Alam,CR Seneviratna,Rumana Ahmed,,0,0,0,,,,331623316
+1,Bangladesh,12,Jahanara Alam,CR Seneviratna,Rumana Ahmed,,0,0,0,,,,331623316
+1,Bangladesh,12,Jahanara Alam,CR Seneviratna,Rumana Ahmed,,0,0,0,run out,Jahanara Alam,HMD Rasangika,331623316
+1,Bangladesh,12,Rumana Ahmed,CR Seneviratna,Nuzhat Tasnia,,0,0,0,,,,331623316
+1,Bangladesh,12,Rumana Ahmed,CR Seneviratna,Nuzhat Tasnia,,0,2,2,,,,331623316
+1,Bangladesh,13,Nuzhat Tasnia,HASD Siriwardene,Rumana Ahmed,,0,0,0,,,,331623316
+1,Bangladesh,13,Nuzhat Tasnia,HASD Siriwardene,Rumana Ahmed,,0,1,1,,,,331623316
+1,Bangladesh,13,Rumana Ahmed,HASD Siriwardene,Nuzhat Tasnia,,0,0,0,,,,331623316
+1,Bangladesh,13,Rumana Ahmed,HASD Siriwardene,Nuzhat Tasnia,,0,0,0,,,,331623316
+1,Bangladesh,13,Rumana Ahmed,HASD Siriwardene,Nuzhat Tasnia,,0,4,4,,,,331623316
+1,Bangladesh,13,Rumana Ahmed,HASD Siriwardene,Nuzhat Tasnia,,0,2,2,,,,331623316
+1,Bangladesh,14,Nuzhat Tasnia,CR Seneviratna,Rumana Ahmed,,0,1,1,,,,331623316
+1,Bangladesh,14,Rumana Ahmed,CR Seneviratna,Nuzhat Tasnia,,0,0,0,,,,331623316
+1,Bangladesh,14,Rumana Ahmed,CR Seneviratna,Nuzhat Tasnia,,0,2,2,,,,331623316
+1,Bangladesh,14,Rumana Ahmed,CR Seneviratna,Nuzhat Tasnia,,0,0,0,,,,331623316
+1,Bangladesh,14,Rumana Ahmed,CR Seneviratna,Nuzhat Tasnia,,0,4,4,,,,331623316
+1,Bangladesh,14,Rumana Ahmed,CR Seneviratna,Nuzhat Tasnia,,0,0,0,,,,331623316
+1,Bangladesh,15,Nuzhat Tasnia,HASD Siriwardene,Rumana Ahmed,,0,0,0,,,,331623316
+1,Bangladesh,15,Nuzhat Tasnia,HASD Siriwardene,Rumana Ahmed,,0,2,2,,,,331623316
+1,Bangladesh,15,Nuzhat Tasnia,HASD Siriwardene,Rumana Ahmed,,0,0,0,,,,331623316
+1,Bangladesh,15,Nuzhat Tasnia,HASD Siriwardene,Rumana Ahmed,,0,1,1,,,,331623316
+1,Bangladesh,15,Rumana Ahmed,HASD Siriwardene,Nuzhat Tasnia,,0,2,2,,,,331623316
+1,Bangladesh,15,Rumana Ahmed,HASD Siriwardene,Nuzhat Tasnia,,0,3,3,,,,331623316
+1,Bangladesh,16,Rumana Ahmed,KDU Prabodhani,Nuzhat Tasnia,,0,0,0,,,,331623316
+1,Bangladesh,16,Rumana Ahmed,KDU Prabodhani,Nuzhat Tasnia,,0,1,1,,,,331623316
+1,Bangladesh,16,Nuzhat Tasnia,KDU Prabodhani,Rumana Ahmed,,0,0,0,,,,331623316
+1,Bangladesh,16,Nuzhat Tasnia,KDU Prabodhani,Rumana Ahmed,,0,1,1,,,,331623316
+1,Bangladesh,16,Rumana Ahmed,KDU Prabodhani,Nuzhat Tasnia,,0,2,2,,,,331623316
+1,Bangladesh,16,Rumana Ahmed,KDU Prabodhani,Nuzhat Tasnia,,0,0,0,,,,331623316
+1,Bangladesh,17,Nuzhat Tasnia,SK Dolawatte,Rumana Ahmed,,0,0,0,,,,331623316
+1,Bangladesh,17,Nuzhat Tasnia,SK Dolawatte,Rumana Ahmed,,0,0,0,lbw,Nuzhat Tasnia,,331623316
+1,Bangladesh,17,Lily Rani Biswas,SK Dolawatte,Rumana Ahmed,,0,0,0,,,,331623316
+1,Bangladesh,17,Lily Rani Biswas,SK Dolawatte,Rumana Ahmed,,0,0,0,caught,Lily Rani Biswas,I Ranaweera,331623316
+1,Bangladesh,17,Khadija Tul Kubra,SK Dolawatte,Rumana Ahmed,,0,0,0,,,,331623316
+1,Bangladesh,17,Khadija Tul Kubra,SK Dolawatte,Rumana Ahmed,,0,0,0,bowled,Khadija Tul Kubra,,331623316

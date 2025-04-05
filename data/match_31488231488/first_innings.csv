@@ -1,0 +1,130 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Pakistan,0,Mohammad Rizwan,WP Masakadza,Babar Azam,,0,0,0,,,,31488231488
+1,Pakistan,0,Mohammad Rizwan,WP Masakadza,Babar Azam,,0,0,0,,,,31488231488
+1,Pakistan,0,Mohammad Rizwan,WP Masakadza,Babar Azam,,0,1,1,,,,31488231488
+1,Pakistan,0,Babar Azam,WP Masakadza,Mohammad Rizwan,,0,0,0,,,,31488231488
+1,Pakistan,0,Babar Azam,WP Masakadza,Mohammad Rizwan,,0,1,1,,,,31488231488
+1,Pakistan,0,Mohammad Rizwan,WP Masakadza,Babar Azam,,0,4,4,,,,31488231488
+1,Pakistan,1,Babar Azam,B Muzarabani,Mohammad Rizwan,,0,1,1,,,,31488231488
+1,Pakistan,1,Mohammad Rizwan,B Muzarabani,Babar Azam,,0,1,1,,,,31488231488
+1,Pakistan,1,Babar Azam,B Muzarabani,Mohammad Rizwan,,0,0,0,caught,Babar Azam,RP Burl,31488231488
+1,Pakistan,1,Fakhar Zaman,B Muzarabani,Mohammad Rizwan,,0,0,0,,,,31488231488
+1,Pakistan,1,Fakhar Zaman,B Muzarabani,Mohammad Rizwan,,0,0,0,,,,31488231488
+1,Pakistan,1,Fakhar Zaman,B Muzarabani,Mohammad Rizwan,,0,0,0,,,,31488231488
+1,Pakistan,2,Mohammad Rizwan,R Ngarava,Fakhar Zaman,,0,0,0,,,,31488231488
+1,Pakistan,2,Mohammad Rizwan,R Ngarava,Fakhar Zaman,,0,0,0,,,,31488231488
+1,Pakistan,2,Mohammad Rizwan,R Ngarava,Fakhar Zaman,,0,0,0,,,,31488231488
+1,Pakistan,2,Mohammad Rizwan,R Ngarava,Fakhar Zaman,,0,4,4,,,,31488231488
+1,Pakistan,2,Mohammad Rizwan,R Ngarava,Fakhar Zaman,,0,0,0,,,,31488231488
+1,Pakistan,2,Mohammad Rizwan,R Ngarava,Fakhar Zaman,,0,1,1,,,,31488231488
+1,Pakistan,3,Mohammad Rizwan,B Muzarabani,Fakhar Zaman,,0,1,1,,,,31488231488
+1,Pakistan,3,Fakhar Zaman,B Muzarabani,Mohammad Rizwan,wides,1,1,0,,,,31488231488
+1,Pakistan,3,Fakhar Zaman,B Muzarabani,Mohammad Rizwan,,0,4,4,,,,31488231488
+1,Pakistan,3,Fakhar Zaman,B Muzarabani,Mohammad Rizwan,,0,0,0,,,,31488231488
+1,Pakistan,3,Fakhar Zaman,B Muzarabani,Mohammad Rizwan,,0,1,1,,,,31488231488
+1,Pakistan,3,Mohammad Rizwan,B Muzarabani,Fakhar Zaman,,0,0,0,,,,31488231488
+1,Pakistan,3,Mohammad Rizwan,B Muzarabani,Fakhar Zaman,,0,1,1,,,,31488231488
+1,Pakistan,4,Mohammad Rizwan,R Ngarava,Fakhar Zaman,,0,0,0,,,,31488231488
+1,Pakistan,4,Mohammad Rizwan,R Ngarava,Fakhar Zaman,,0,4,4,,,,31488231488
+1,Pakistan,4,Mohammad Rizwan,R Ngarava,Fakhar Zaman,wides,1,1,0,,,,31488231488
+1,Pakistan,4,Mohammad Rizwan,R Ngarava,Fakhar Zaman,,0,0,0,,,,31488231488
+1,Pakistan,4,Mohammad Rizwan,R Ngarava,Fakhar Zaman,byes,1,1,0,,,,31488231488
+1,Pakistan,4,Fakhar Zaman,R Ngarava,Mohammad Rizwan,,0,1,1,,,,31488231488
+1,Pakistan,4,Mohammad Rizwan,R Ngarava,Fakhar Zaman,,0,4,4,,,,31488231488
+1,Pakistan,5,Fakhar Zaman,LM Jongwe,Mohammad Rizwan,wides,1,1,0,,,,31488231488
+1,Pakistan,5,Fakhar Zaman,LM Jongwe,Mohammad Rizwan,,0,1,1,,,,31488231488
+1,Pakistan,5,Mohammad Rizwan,LM Jongwe,Fakhar Zaman,,0,1,1,,,,31488231488
+1,Pakistan,5,Fakhar Zaman,LM Jongwe,Mohammad Rizwan,,0,0,0,,,,31488231488
+1,Pakistan,5,Fakhar Zaman,LM Jongwe,Mohammad Rizwan,,0,4,4,,,,31488231488
+1,Pakistan,5,Fakhar Zaman,LM Jongwe,Mohammad Rizwan,,0,2,2,,,,31488231488
+1,Pakistan,5,Fakhar Zaman,LM Jongwe,Mohammad Rizwan,byes,1,1,0,,,,31488231488
+1,Pakistan,6,Fakhar Zaman,W Madhevere,Mohammad Rizwan,,0,0,0,,,,31488231488
+1,Pakistan,6,Fakhar Zaman,W Madhevere,Mohammad Rizwan,,0,0,0,bowled,Fakhar Zaman,,31488231488
+1,Pakistan,6,Mohammad Hafeez,W Madhevere,Mohammad Rizwan,,0,1,1,,,,31488231488
+1,Pakistan,6,Mohammad Rizwan,W Madhevere,Mohammad Hafeez,,0,1,1,,,,31488231488
+1,Pakistan,6,Mohammad Hafeez,W Madhevere,Mohammad Rizwan,,0,0,0,,,,31488231488
+1,Pakistan,6,Mohammad Hafeez,W Madhevere,Mohammad Rizwan,,0,1,1,,,,31488231488
+1,Pakistan,7,Mohammad Hafeez,WP Masakadza,Mohammad Rizwan,,0,1,1,,,,31488231488
+1,Pakistan,7,Mohammad Rizwan,WP Masakadza,Mohammad Hafeez,wides,1,1,0,,,,31488231488
+1,Pakistan,7,Mohammad Rizwan,WP Masakadza,Mohammad Hafeez,,0,1,1,,,,31488231488
+1,Pakistan,7,Mohammad Hafeez,WP Masakadza,Mohammad Rizwan,,0,1,1,,,,31488231488
+1,Pakistan,7,Mohammad Rizwan,WP Masakadza,Mohammad Hafeez,,0,1,1,,,,31488231488
+1,Pakistan,7,Mohammad Hafeez,WP Masakadza,Mohammad Rizwan,,0,1,1,,,,31488231488
+1,Pakistan,7,Mohammad Rizwan,WP Masakadza,Mohammad Hafeez,,0,4,4,,,,31488231488
+1,Pakistan,8,Mohammad Hafeez,W Madhevere,Mohammad Rizwan,,0,0,0,caught,Mohammad Hafeez,R Ngarava,31488231488
+1,Pakistan,8,Danish Aziz,W Madhevere,Mohammad Rizwan,,0,1,1,,,,31488231488
+1,Pakistan,8,Mohammad Rizwan,W Madhevere,Danish Aziz,,0,4,4,,,,31488231488
+1,Pakistan,8,Mohammad Rizwan,W Madhevere,Danish Aziz,,0,0,0,,,,31488231488
+1,Pakistan,8,Mohammad Rizwan,W Madhevere,Danish Aziz,,0,2,2,,,,31488231488
+1,Pakistan,8,Mohammad Rizwan,W Madhevere,Danish Aziz,,0,1,1,,,,31488231488
+1,Pakistan,9,Mohammad Rizwan,RP Burl,Danish Aziz,wides,1,1,0,,,,31488231488
+1,Pakistan,9,Mohammad Rizwan,RP Burl,Danish Aziz,,0,0,0,,,,31488231488
+1,Pakistan,9,Mohammad Rizwan,RP Burl,Danish Aziz,,0,0,0,,,,31488231488
+1,Pakistan,9,Mohammad Rizwan,RP Burl,Danish Aziz,,0,1,1,,,,31488231488
+1,Pakistan,9,Danish Aziz,RP Burl,Mohammad Rizwan,,0,1,1,,,,31488231488
+1,Pakistan,9,Mohammad Rizwan,RP Burl,Danish Aziz,,0,1,1,,,,31488231488
+1,Pakistan,9,Danish Aziz,RP Burl,Mohammad Rizwan,,0,0,0,,,,31488231488
+1,Pakistan,10,Mohammad Rizwan,SC Williams,Danish Aziz,,0,1,1,,,,31488231488
+1,Pakistan,10,Danish Aziz,SC Williams,Mohammad Rizwan,,0,1,1,,,,31488231488
+1,Pakistan,10,Mohammad Rizwan,SC Williams,Danish Aziz,,0,1,1,,,,31488231488
+1,Pakistan,10,Danish Aziz,SC Williams,Mohammad Rizwan,,0,2,2,,,,31488231488
+1,Pakistan,10,Danish Aziz,SC Williams,Mohammad Rizwan,,0,0,0,,,,31488231488
+1,Pakistan,10,Danish Aziz,SC Williams,Mohammad Rizwan,,0,2,2,,,,31488231488
+1,Pakistan,11,Mohammad Rizwan,RP Burl,Danish Aziz,,0,0,0,,,,31488231488
+1,Pakistan,11,Mohammad Rizwan,RP Burl,Danish Aziz,,0,0,0,,,,31488231488
+1,Pakistan,11,Mohammad Rizwan,RP Burl,Danish Aziz,,0,0,0,,,,31488231488
+1,Pakistan,11,Mohammad Rizwan,RP Burl,Danish Aziz,,0,1,1,,,,31488231488
+1,Pakistan,11,Danish Aziz,RP Burl,Mohammad Rizwan,,0,6,6,,,,31488231488
+1,Pakistan,11,Danish Aziz,RP Burl,Mohammad Rizwan,,0,1,1,,,,31488231488
+1,Pakistan,12,Danish Aziz,LM Jongwe,Mohammad Rizwan,,0,1,1,,,,31488231488
+1,Pakistan,12,Mohammad Rizwan,LM Jongwe,Danish Aziz,,0,2,2,,,,31488231488
+1,Pakistan,12,Mohammad Rizwan,LM Jongwe,Danish Aziz,,0,2,2,,,,31488231488
+1,Pakistan,12,Mohammad Rizwan,LM Jongwe,Danish Aziz,wides,1,1,0,,,,31488231488
+1,Pakistan,12,Mohammad Rizwan,LM Jongwe,Danish Aziz,,0,1,1,,,,31488231488
+1,Pakistan,12,Danish Aziz,LM Jongwe,Mohammad Rizwan,,0,0,0,caught,Danish Aziz,R Ngarava,31488231488
+1,Pakistan,12,Haider Ali,LM Jongwe,Mohammad Rizwan,,0,0,0,,,,31488231488
+1,Pakistan,13,Mohammad Rizwan,WP Masakadza,Haider Ali,,0,0,0,,,,31488231488
+1,Pakistan,13,Mohammad Rizwan,WP Masakadza,Haider Ali,,0,0,0,,,,31488231488
+1,Pakistan,13,Mohammad Rizwan,WP Masakadza,Haider Ali,,0,1,1,,,,31488231488
+1,Pakistan,13,Haider Ali,WP Masakadza,Mohammad Rizwan,,0,1,1,,,,31488231488
+1,Pakistan,13,Mohammad Rizwan,WP Masakadza,Haider Ali,,0,1,1,,,,31488231488
+1,Pakistan,13,Haider Ali,WP Masakadza,Mohammad Rizwan,,0,1,1,,,,31488231488
+1,Pakistan,14,Haider Ali,RP Burl,Mohammad Rizwan,,0,0,0,,,,31488231488
+1,Pakistan,14,Haider Ali,RP Burl,Mohammad Rizwan,,0,0,0,,,,31488231488
+1,Pakistan,14,Haider Ali,RP Burl,Mohammad Rizwan,,0,1,1,,,,31488231488
+1,Pakistan,14,Mohammad Rizwan,RP Burl,Haider Ali,,0,1,1,,,,31488231488
+1,Pakistan,14,Haider Ali,RP Burl,Mohammad Rizwan,,0,1,1,,,,31488231488
+1,Pakistan,14,Mohammad Rizwan,RP Burl,Haider Ali,,0,0,0,,,,31488231488
+1,Pakistan,15,Haider Ali,LM Jongwe,Mohammad Rizwan,,0,1,1,,,,31488231488
+1,Pakistan,15,Mohammad Rizwan,LM Jongwe,Haider Ali,,0,1,1,,,,31488231488
+1,Pakistan,15,Haider Ali,LM Jongwe,Mohammad Rizwan,,0,0,0,bowled,Haider Ali,,31488231488
+1,Pakistan,15,Faheem Ashraf,LM Jongwe,Mohammad Rizwan,,0,1,1,,,,31488231488
+1,Pakistan,15,Mohammad Rizwan,LM Jongwe,Faheem Ashraf,,0,1,1,run out,Faheem Ashraf,,31488231488
+1,Pakistan,15,Mohammad Rizwan,LM Jongwe,Mohammad Nawaz (3),,0,4,4,,,,31488231488
+1,Pakistan,16,Mohammad Nawaz (3),B Muzarabani,Mohammad Rizwan,,0,1,1,,,,31488231488
+1,Pakistan,16,Mohammad Rizwan,B Muzarabani,Mohammad Nawaz (3),,0,1,1,,,,31488231488
+1,Pakistan,16,Mohammad Nawaz (3),B Muzarabani,Mohammad Rizwan,,0,2,2,,,,31488231488
+1,Pakistan,16,Mohammad Nawaz (3),B Muzarabani,Mohammad Rizwan,,0,0,0,,,,31488231488
+1,Pakistan,16,Mohammad Nawaz (3),B Muzarabani,Mohammad Rizwan,,0,1,1,,,,31488231488
+1,Pakistan,16,Mohammad Rizwan,B Muzarabani,Mohammad Nawaz (3),,0,2,2,,,,31488231488
+1,Pakistan,17,Mohammad Nawaz (3),R Ngarava,Mohammad Rizwan,,0,2,2,,,,31488231488
+1,Pakistan,17,Mohammad Nawaz (3),R Ngarava,Mohammad Rizwan,wides,5,5,0,,,,31488231488
+1,Pakistan,17,Mohammad Nawaz (3),R Ngarava,Mohammad Rizwan,,0,1,1,,,,31488231488
+1,Pakistan,17,Mohammad Rizwan,R Ngarava,Mohammad Nawaz (3),,0,1,1,,,,31488231488
+1,Pakistan,17,Mohammad Nawaz (3),R Ngarava,Mohammad Rizwan,,0,0,0,,,,31488231488
+1,Pakistan,17,Mohammad Nawaz (3),R Ngarava,Mohammad Rizwan,,0,2,2,,,,31488231488
+1,Pakistan,17,Mohammad Nawaz (3),R Ngarava,Mohammad Rizwan,wides,1,1,0,,,,31488231488
+1,Pakistan,17,Mohammad Nawaz (3),R Ngarava,Mohammad Rizwan,wides,1,1,0,,,,31488231488
+1,Pakistan,17,Mohammad Nawaz (3),R Ngarava,Mohammad Rizwan,,0,0,0,caught,Mohammad Nawaz (3),RW Chakabva,31488231488
+1,Pakistan,18,Mohammad Rizwan,B Muzarabani,Usman Qadir,,0,2,2,,,,31488231488
+1,Pakistan,18,Mohammad Rizwan,B Muzarabani,Usman Qadir,,0,1,1,,,,31488231488
+1,Pakistan,18,Usman Qadir,B Muzarabani,Mohammad Rizwan,,0,0,0,,,,31488231488
+1,Pakistan,18,Usman Qadir,B Muzarabani,Mohammad Rizwan,,0,0,0,,,,31488231488
+1,Pakistan,18,Usman Qadir,B Muzarabani,Mohammad Rizwan,,0,0,0,,,,31488231488
+1,Pakistan,18,Usman Qadir,B Muzarabani,Mohammad Rizwan,,0,2,2,,,,31488231488
+1,Pakistan,19,Mohammad Rizwan,R Ngarava,Usman Qadir,,0,0,0,,,,31488231488
+1,Pakistan,19,Mohammad Rizwan,R Ngarava,Usman Qadir,,0,4,4,,,,31488231488
+1,Pakistan,19,Mohammad Rizwan,R Ngarava,Usman Qadir,,0,2,2,,,,31488231488
+1,Pakistan,19,Mohammad Rizwan,R Ngarava,Usman Qadir,,0,6,6,,,,31488231488
+1,Pakistan,19,Mohammad Rizwan,R Ngarava,Usman Qadir,,0,4,4,,,,31488231488
+1,Pakistan,19,Mohammad Rizwan,R Ngarava,Usman Qadir,,0,4,4,,,,31488231488

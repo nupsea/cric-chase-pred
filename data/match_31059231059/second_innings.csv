@@ -1,0 +1,132 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Botswana,0,L Mophakedi,SN Shihepo,F Samanyika,wides,1,1,0,,,,31059231059
+2,Botswana,0,L Mophakedi,SN Shihepo,F Samanyika,,0,0,0,,,,31059231059
+2,Botswana,0,L Mophakedi,SN Shihepo,F Samanyika,,0,2,2,,,,31059231059
+2,Botswana,0,L Mophakedi,SN Shihepo,F Samanyika,,0,0,0,,,,31059231059
+2,Botswana,0,L Mophakedi,SN Shihepo,F Samanyika,,0,2,2,,,,31059231059
+2,Botswana,0,L Mophakedi,SN Shihepo,F Samanyika,,0,1,1,,,,31059231059
+2,Botswana,0,F Samanyika,SN Shihepo,L Mophakedi,,0,0,0,,,,31059231059
+2,Botswana,1,L Mophakedi,M Short,F Samanyika,,0,0,0,,,,31059231059
+2,Botswana,1,L Mophakedi,M Short,F Samanyika,,0,0,0,bowled,L Mophakedi,,31059231059
+2,Botswana,1,O Batisani,M Short,F Samanyika,wides,1,1,0,,,,31059231059
+2,Botswana,1,O Batisani,M Short,F Samanyika,,0,0,0,,,,31059231059
+2,Botswana,1,O Batisani,M Short,F Samanyika,wides,2,2,0,,,,31059231059
+2,Botswana,1,F Samanyika,M Short,O Batisani,wides,1,1,0,,,,31059231059
+2,Botswana,1,F Samanyika,M Short,O Batisani,,0,0,0,,,,31059231059
+2,Botswana,1,F Samanyika,M Short,O Batisani,wides,1,1,0,,,,31059231059
+2,Botswana,1,F Samanyika,M Short,O Batisani,,0,0,0,,,,31059231059
+2,Botswana,1,F Samanyika,M Short,O Batisani,,0,0,0,,,,31059231059
+2,Botswana,2,O Batisani,SN Shihepo,F Samanyika,,0,0,0,,,,31059231059
+2,Botswana,2,O Batisani,SN Shihepo,F Samanyika,,0,0,0,,,,31059231059
+2,Botswana,2,O Batisani,SN Shihepo,F Samanyika,,0,0,0,,,,31059231059
+2,Botswana,2,O Batisani,SN Shihepo,F Samanyika,,0,0,0,,,,31059231059
+2,Botswana,2,O Batisani,SN Shihepo,F Samanyika,,0,1,1,,,,31059231059
+2,Botswana,2,F Samanyika,SN Shihepo,O Batisani,,0,0,0,lbw,F Samanyika,,31059231059
+2,Botswana,3,O Batisani,M Short,T Legaabile,wides,1,1,0,,,,31059231059
+2,Botswana,3,O Batisani,M Short,T Legaabile,,0,0,0,run out,O Batisani,,31059231059
+2,Botswana,3,T Legaabile,M Short,G Matome,,0,0,0,,,,31059231059
+2,Botswana,3,T Legaabile,M Short,G Matome,,0,1,1,,,,31059231059
+2,Botswana,3,G Matome,M Short,T Legaabile,,0,0,0,,,,31059231059
+2,Botswana,3,G Matome,M Short,T Legaabile,,0,0,0,,,,31059231059
+2,Botswana,3,G Matome,M Short,T Legaabile,,0,0,0,,,,31059231059
+2,Botswana,4,T Legaabile,SN Shihepo,G Matome,,0,0,0,,,,31059231059
+2,Botswana,4,T Legaabile,SN Shihepo,G Matome,,0,1,1,,,,31059231059
+2,Botswana,4,G Matome,SN Shihepo,T Legaabile,,0,0,0,,,,31059231059
+2,Botswana,4,G Matome,SN Shihepo,T Legaabile,,0,4,4,,,,31059231059
+2,Botswana,4,G Matome,SN Shihepo,T Legaabile,,0,0,0,,,,31059231059
+2,Botswana,4,G Matome,SN Shihepo,T Legaabile,,0,0,0,,,,31059231059
+2,Botswana,5,T Legaabile,M Short,G Matome,wides,2,2,0,,,,31059231059
+2,Botswana,5,G Matome,M Short,T Legaabile,wides,1,1,0,,,,31059231059
+2,Botswana,5,G Matome,M Short,T Legaabile,,0,0,0,,,,31059231059
+2,Botswana,5,G Matome,M Short,T Legaabile,wides,1,1,0,,,,31059231059
+2,Botswana,5,G Matome,M Short,T Legaabile,,0,0,0,,,,31059231059
+2,Botswana,5,G Matome,M Short,T Legaabile,,0,2,2,,,,31059231059
+2,Botswana,5,G Matome,M Short,T Legaabile,wides,1,1,0,,,,31059231059
+2,Botswana,5,G Matome,M Short,T Legaabile,,0,2,2,,,,31059231059
+2,Botswana,5,G Matome,M Short,T Legaabile,,0,0,0,,,,31059231059
+2,Botswana,5,G Matome,M Short,T Legaabile,,0,1,1,,,,31059231059
+2,Botswana,6,G Matome,Reehana Khan,T Legaabile,,0,1,1,,,,31059231059
+2,Botswana,6,T Legaabile,Reehana Khan,G Matome,,0,0,0,,,,31059231059
+2,Botswana,6,T Legaabile,Reehana Khan,G Matome,,0,0,0,,,,31059231059
+2,Botswana,6,T Legaabile,Reehana Khan,G Matome,,0,0,0,caught and bowled,T Legaabile,,31059231059
+2,Botswana,6,B Gaanamong,Reehana Khan,G Matome,,0,1,1,,,,31059231059
+2,Botswana,6,G Matome,Reehana Khan,B Gaanamong,,0,1,1,,,,31059231059
+2,Botswana,7,G Matome,KA Green,B Gaanamong,wides,1,1,0,,,,31059231059
+2,Botswana,7,G Matome,KA Green,B Gaanamong,,0,0,0,,,,31059231059
+2,Botswana,7,G Matome,KA Green,B Gaanamong,,0,1,1,,,,31059231059
+2,Botswana,7,B Gaanamong,KA Green,G Matome,,0,0,0,,,,31059231059
+2,Botswana,7,B Gaanamong,KA Green,G Matome,,0,0,0,,,,31059231059
+2,Botswana,7,B Gaanamong,KA Green,G Matome,wides,2,2,0,,,,31059231059
+2,Botswana,7,G Matome,KA Green,B Gaanamong,wides,1,1,0,,,,31059231059
+2,Botswana,7,G Matome,KA Green,B Gaanamong,,0,0,0,,,,31059231059
+2,Botswana,7,G Matome,KA Green,B Gaanamong,,0,2,2,,,,31059231059
+2,Botswana,8,B Gaanamong,Reehana Khan,G Matome,wides,1,1,0,,,,31059231059
+2,Botswana,8,B Gaanamong,Reehana Khan,G Matome,,0,0,0,,,,31059231059
+2,Botswana,8,B Gaanamong,Reehana Khan,G Matome,noballs,1,1,0,,,,31059231059
+2,Botswana,8,B Gaanamong,Reehana Khan,G Matome,noballs,1,2,1,,,,31059231059
+2,Botswana,8,G Matome,Reehana Khan,B Gaanamong,,0,1,1,,,,31059231059
+2,Botswana,8,B Gaanamong,Reehana Khan,G Matome,,0,1,1,,,,31059231059
+2,Botswana,8,G Matome,Reehana Khan,B Gaanamong,,0,0,0,,,,31059231059
+2,Botswana,8,G Matome,Reehana Khan,B Gaanamong,,0,1,1,,,,31059231059
+2,Botswana,8,B Gaanamong,Reehana Khan,G Matome,,0,1,1,,,,31059231059
+2,Botswana,9,B Gaanamong,KA Green,G Matome,,0,0,0,,,,31059231059
+2,Botswana,9,B Gaanamong,KA Green,G Matome,,0,0,0,,,,31059231059
+2,Botswana,9,B Gaanamong,KA Green,G Matome,,0,0,0,,,,31059231059
+2,Botswana,9,B Gaanamong,KA Green,G Matome,,0,0,0,,,,31059231059
+2,Botswana,9,B Gaanamong,KA Green,G Matome,,0,2,2,,,,31059231059
+2,Botswana,9,B Gaanamong,KA Green,G Matome,,0,1,1,,,,31059231059
+2,Botswana,10,B Gaanamong,EU Kejarukua,G Matome,,0,0,0,,,,31059231059
+2,Botswana,10,B Gaanamong,EU Kejarukua,G Matome,wides,1,1,0,,,,31059231059
+2,Botswana,10,B Gaanamong,EU Kejarukua,G Matome,,0,0,0,,,,31059231059
+2,Botswana,10,B Gaanamong,EU Kejarukua,G Matome,,0,0,0,,,,31059231059
+2,Botswana,10,B Gaanamong,EU Kejarukua,G Matome,wides,1,1,0,,,,31059231059
+2,Botswana,10,B Gaanamong,EU Kejarukua,G Matome,,0,1,1,,,,31059231059
+2,Botswana,10,G Matome,EU Kejarukua,B Gaanamong,,0,0,0,,,,31059231059
+2,Botswana,10,G Matome,EU Kejarukua,B Gaanamong,,0,0,0,,,,31059231059
+2,Botswana,11,B Gaanamong,Reehana Khan,G Matome,,0,4,4,,,,31059231059
+2,Botswana,11,B Gaanamong,Reehana Khan,G Matome,,0,1,1,,,,31059231059
+2,Botswana,11,G Matome,Reehana Khan,B Gaanamong,,0,0,0,,,,31059231059
+2,Botswana,11,G Matome,Reehana Khan,B Gaanamong,wides,1,1,0,,,,31059231059
+2,Botswana,11,G Matome,Reehana Khan,B Gaanamong,,0,0,0,,,,31059231059
+2,Botswana,11,G Matome,Reehana Khan,B Gaanamong,,0,1,1,,,,31059231059
+2,Botswana,11,B Gaanamong,Reehana Khan,G Matome,,0,1,1,,,,31059231059
+2,Botswana,12,B Gaanamong,EU Kejarukua,G Matome,,0,0,0,,,,31059231059
+2,Botswana,12,B Gaanamong,EU Kejarukua,G Matome,,0,0,0,,,,31059231059
+2,Botswana,12,B Gaanamong,EU Kejarukua,G Matome,wides,1,1,0,,,,31059231059
+2,Botswana,12,B Gaanamong,EU Kejarukua,G Matome,,0,2,2,,,,31059231059
+2,Botswana,12,B Gaanamong,EU Kejarukua,G Matome,,0,1,1,,,,31059231059
+2,Botswana,12,G Matome,EU Kejarukua,B Gaanamong,,0,1,1,,,,31059231059
+2,Botswana,12,B Gaanamong,EU Kejarukua,G Matome,,0,1,1,,,,31059231059
+2,Botswana,13,B Gaanamong,I van Zyl,G Matome,,0,1,1,,,,31059231059
+2,Botswana,13,G Matome,I van Zyl,B Gaanamong,,0,0,0,,,,31059231059
+2,Botswana,13,G Matome,I van Zyl,B Gaanamong,,0,0,0,,,,31059231059
+2,Botswana,13,G Matome,I van Zyl,B Gaanamong,,0,0,0,run out,B Gaanamong,,31059231059
+2,Botswana,13,G Matome,I van Zyl,B Madimabe,,0,0,0,caught,G Matome,A van der Merwe,31059231059
+2,Botswana,13,T Shadrack,I van Zyl,B Madimabe,,0,1,1,,,,31059231059
+2,Botswana,14,T Shadrack,KA Green,B Madimabe,byes,1,1,0,,,,31059231059
+2,Botswana,14,B Madimabe,KA Green,T Shadrack,,0,0,0,,,,31059231059
+2,Botswana,14,B Madimabe,KA Green,T Shadrack,,0,1,1,,,,31059231059
+2,Botswana,14,T Shadrack,KA Green,B Madimabe,,0,0,0,bowled,T Shadrack,,31059231059
+2,Botswana,14,T Modise,KA Green,B Madimabe,,0,0,0,,,,31059231059
+2,Botswana,14,T Modise,KA Green,B Madimabe,,0,1,1,,,,31059231059
+2,Botswana,15,T Modise,I van Zyl,B Madimabe,,0,0,0,run out,T Modise,,31059231059
+2,Botswana,15,B Madimabe,I van Zyl,B Mpedi,,0,0,0,,,,31059231059
+2,Botswana,15,B Madimabe,I van Zyl,B Mpedi,,0,0,0,,,,31059231059
+2,Botswana,15,B Madimabe,I van Zyl,B Mpedi,,0,0,0,,,,31059231059
+2,Botswana,15,B Madimabe,I van Zyl,B Mpedi,wides,1,1,0,,,,31059231059
+2,Botswana,15,B Madimabe,I van Zyl,B Mpedi,,0,0,0,,,,31059231059
+2,Botswana,15,B Madimabe,I van Zyl,B Mpedi,,0,0,0,run out,B Mpedi,,31059231059
+2,Botswana,16,B Madimabe,KA Green,M Ramafifi,,0,0,0,,,,31059231059
+2,Botswana,16,B Madimabe,KA Green,M Ramafifi,,0,0,0,,,,31059231059
+2,Botswana,16,B Madimabe,KA Green,M Ramafifi,,0,1,1,,,,31059231059
+2,Botswana,16,M Ramafifi,KA Green,B Madimabe,,0,0,0,,,,31059231059
+2,Botswana,16,M Ramafifi,KA Green,B Madimabe,,0,0,0,,,,31059231059
+2,Botswana,16,M Ramafifi,KA Green,B Madimabe,,0,1,1,,,,31059231059
+2,Botswana,17,M Ramafifi,I van Zyl,B Madimabe,,0,0,0,,,,31059231059
+2,Botswana,17,M Ramafifi,I van Zyl,B Madimabe,,0,0,0,,,,31059231059
+2,Botswana,17,M Ramafifi,I van Zyl,B Madimabe,byes,1,1,0,,,,31059231059
+2,Botswana,17,B Madimabe,I van Zyl,M Ramafifi,,0,0,0,,,,31059231059
+2,Botswana,17,B Madimabe,I van Zyl,M Ramafifi,,0,0,0,,,,31059231059
+2,Botswana,17,B Madimabe,I van Zyl,M Ramafifi,,0,0,0,,,,31059231059
+2,Botswana,18,M Ramafifi,KA Green,B Madimabe,,0,0,0,,,,31059231059
+2,Botswana,18,M Ramafifi,KA Green,B Madimabe,,0,0,0,caught,M Ramafifi,SN Shihepo,31059231059

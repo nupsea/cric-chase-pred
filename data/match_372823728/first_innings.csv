@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Ireland,0,PR Stirling,MRJ Watt,SW Poynter,,0,0,0,,,,372823728
+1,Ireland,0,PR Stirling,MRJ Watt,SW Poynter,,0,0,0,,,,372823728
+1,Ireland,0,PR Stirling,MRJ Watt,SW Poynter,,0,4,4,,,,372823728
+1,Ireland,0,PR Stirling,MRJ Watt,SW Poynter,,0,0,0,,,,372823728
+1,Ireland,0,PR Stirling,MRJ Watt,SW Poynter,,0,0,0,,,,372823728
+1,Ireland,0,PR Stirling,MRJ Watt,SW Poynter,,0,0,0,,,,372823728
+1,Ireland,1,SW Poynter,BTJ Wheal,PR Stirling,,0,0,0,,,,372823728
+1,Ireland,1,SW Poynter,BTJ Wheal,PR Stirling,,0,2,2,,,,372823728
+1,Ireland,1,SW Poynter,BTJ Wheal,PR Stirling,,0,0,0,,,,372823728
+1,Ireland,1,SW Poynter,BTJ Wheal,PR Stirling,,0,0,0,,,,372823728
+1,Ireland,1,SW Poynter,BTJ Wheal,PR Stirling,,0,0,0,,,,372823728
+1,Ireland,1,SW Poynter,BTJ Wheal,PR Stirling,,0,4,4,,,,372823728
+1,Ireland,2,PR Stirling,JH Davey,SW Poynter,,0,6,6,,,,372823728
+1,Ireland,2,PR Stirling,JH Davey,SW Poynter,,0,4,4,,,,372823728
+1,Ireland,2,PR Stirling,JH Davey,SW Poynter,,0,2,2,,,,372823728
+1,Ireland,2,PR Stirling,JH Davey,SW Poynter,,0,0,0,,,,372823728
+1,Ireland,2,PR Stirling,JH Davey,SW Poynter,,0,1,1,,,,372823728
+1,Ireland,2,SW Poynter,JH Davey,PR Stirling,,0,4,4,,,,372823728
+1,Ireland,3,PR Stirling,MRJ Watt,SW Poynter,,0,1,1,,,,372823728
+1,Ireland,3,SW Poynter,MRJ Watt,PR Stirling,,0,1,1,,,,372823728
+1,Ireland,3,PR Stirling,MRJ Watt,SW Poynter,,0,6,6,,,,372823728
+1,Ireland,3,PR Stirling,MRJ Watt,SW Poynter,,0,1,1,,,,372823728
+1,Ireland,3,SW Poynter,MRJ Watt,PR Stirling,,0,0,0,,,,372823728
+1,Ireland,3,SW Poynter,MRJ Watt,PR Stirling,,0,4,4,,,,372823728
+1,Ireland,4,PR Stirling,SM Sharif,SW Poynter,,0,1,1,,,,372823728
+1,Ireland,4,SW Poynter,SM Sharif,PR Stirling,,0,1,1,,,,372823728
+1,Ireland,4,PR Stirling,SM Sharif,SW Poynter,,0,4,4,,,,372823728
+1,Ireland,4,PR Stirling,SM Sharif,SW Poynter,,0,4,4,,,,372823728
+1,Ireland,4,PR Stirling,SM Sharif,SW Poynter,wides,1,1,0,,,,372823728
+1,Ireland,4,PR Stirling,SM Sharif,SW Poynter,,0,1,1,,,,372823728
+1,Ireland,4,SW Poynter,SM Sharif,PR Stirling,,0,4,4,,,,372823728
+1,Ireland,5,PR Stirling,BTJ Wheal,SW Poynter,,0,1,1,,,,372823728
+1,Ireland,5,SW Poynter,BTJ Wheal,PR Stirling,,0,1,1,,,,372823728
+1,Ireland,5,PR Stirling,BTJ Wheal,SW Poynter,,0,1,1,,,,372823728
+1,Ireland,5,SW Poynter,BTJ Wheal,PR Stirling,,0,4,4,,,,372823728
+1,Ireland,5,SW Poynter,BTJ Wheal,PR Stirling,,0,4,4,,,,372823728
+1,Ireland,5,SW Poynter,BTJ Wheal,PR Stirling,,0,4,4,,,,372823728
+1,Ireland,6,PR Stirling,CD de Lange,SW Poynter,,0,1,1,,,,372823728
+1,Ireland,6,SW Poynter,CD de Lange,PR Stirling,,0,0,0,,,,372823728
+1,Ireland,6,SW Poynter,CD de Lange,PR Stirling,,0,6,6,,,,372823728
+1,Ireland,6,SW Poynter,CD de Lange,PR Stirling,,0,0,0,caught,SW Poynter,CS MacLeod,372823728
+1,Ireland,6,PR Stirling,CD de Lange,WTS Porterfield,wides,1,1,0,,,,372823728
+1,Ireland,6,PR Stirling,CD de Lange,WTS Porterfield,,0,4,4,,,,372823728
+1,Ireland,6,PR Stirling,CD de Lange,WTS Porterfield,,0,1,1,,,,372823728
+1,Ireland,7,PR Stirling,JH Davey,WTS Porterfield,,0,0,0,,,,372823728
+1,Ireland,7,PR Stirling,JH Davey,WTS Porterfield,,0,1,1,,,,372823728
+1,Ireland,7,WTS Porterfield,JH Davey,PR Stirling,,0,2,2,,,,372823728
+1,Ireland,7,WTS Porterfield,JH Davey,PR Stirling,,0,0,0,caught,WTS Porterfield,KJ Coetzer,372823728
+1,Ireland,7,KJ O'Brien,JH Davey,PR Stirling,,0,1,1,,,,372823728
+1,Ireland,7,PR Stirling,JH Davey,KJ O'Brien,,0,1,1,,,,372823728
+1,Ireland,8,PR Stirling,SM Sharif,KJ O'Brien,,0,1,1,,,,372823728
+1,Ireland,8,KJ O'Brien,SM Sharif,PR Stirling,,0,0,0,,,,372823728
+1,Ireland,8,KJ O'Brien,SM Sharif,PR Stirling,legbyes,1,1,0,,,,372823728
+1,Ireland,8,PR Stirling,SM Sharif,KJ O'Brien,,0,0,0,,,,372823728
+1,Ireland,8,PR Stirling,SM Sharif,KJ O'Brien,,0,1,1,,,,372823728
+1,Ireland,8,KJ O'Brien,SM Sharif,PR Stirling,,0,1,1,,,,372823728
+1,Ireland,9,KJ O'Brien,CD de Lange,PR Stirling,,0,1,1,,,,372823728
+1,Ireland,9,PR Stirling,CD de Lange,KJ O'Brien,,0,1,1,,,,372823728
+1,Ireland,9,KJ O'Brien,CD de Lange,PR Stirling,,0,2,2,,,,372823728
+1,Ireland,9,KJ O'Brien,CD de Lange,PR Stirling,legbyes,1,1,0,,,,372823728
+1,Ireland,9,PR Stirling,CD de Lange,KJ O'Brien,,0,2,2,,,,372823728
+1,Ireland,9,PR Stirling,CD de Lange,KJ O'Brien,,0,2,2,,,,372823728
+1,Ireland,10,KJ O'Brien,MRJ Watt,PR Stirling,,0,1,1,,,,372823728
+1,Ireland,10,PR Stirling,MRJ Watt,KJ O'Brien,,0,6,6,,,,372823728
+1,Ireland,10,PR Stirling,MRJ Watt,KJ O'Brien,,0,1,1,,,,372823728
+1,Ireland,10,KJ O'Brien,MRJ Watt,PR Stirling,,0,6,6,,,,372823728
+1,Ireland,10,KJ O'Brien,MRJ Watt,PR Stirling,,0,1,1,,,,372823728
+1,Ireland,10,PR Stirling,MRJ Watt,KJ O'Brien,,0,1,1,,,,372823728
+1,Ireland,11,PR Stirling,CD de Lange,KJ O'Brien,,0,0,0,caught and bowled,PR Stirling,,372823728
+1,Ireland,11,GC Wilson,CD de Lange,KJ O'Brien,,0,1,1,,,,372823728
+1,Ireland,11,KJ O'Brien,CD de Lange,GC Wilson,,0,2,2,,,,372823728
+1,Ireland,11,KJ O'Brien,CD de Lange,GC Wilson,wides,1,1,0,,,,372823728
+1,Ireland,11,KJ O'Brien,CD de Lange,GC Wilson,,0,1,1,,,,372823728
+1,Ireland,11,GC Wilson,CD de Lange,KJ O'Brien,,0,1,1,,,,372823728
+1,Ireland,11,KJ O'Brien,CD de Lange,GC Wilson,,0,1,1,,,,372823728
+1,Ireland,12,KJ O'Brien,BTJ Wheal,GC Wilson,,0,1,1,,,,372823728
+1,Ireland,12,GC Wilson,BTJ Wheal,KJ O'Brien,,0,4,4,,,,372823728
+1,Ireland,12,GC Wilson,BTJ Wheal,KJ O'Brien,,0,1,1,,,,372823728
+1,Ireland,12,KJ O'Brien,BTJ Wheal,GC Wilson,,0,1,1,,,,372823728
+1,Ireland,12,GC Wilson,BTJ Wheal,KJ O'Brien,,0,4,4,,,,372823728
+1,Ireland,12,GC Wilson,BTJ Wheal,KJ O'Brien,,0,1,1,,,,372823728
+1,Ireland,13,GC Wilson,CD de Lange,KJ O'Brien,,0,1,1,,,,372823728
+1,Ireland,13,KJ O'Brien,CD de Lange,GC Wilson,,0,1,1,,,,372823728
+1,Ireland,13,GC Wilson,CD de Lange,KJ O'Brien,,0,1,1,,,,372823728
+1,Ireland,13,KJ O'Brien,CD de Lange,GC Wilson,,0,1,1,,,,372823728
+1,Ireland,13,GC Wilson,CD de Lange,KJ O'Brien,,0,4,4,,,,372823728
+1,Ireland,13,GC Wilson,CD de Lange,KJ O'Brien,,0,1,1,,,,372823728
+1,Ireland,14,GC Wilson,SM Sharif,KJ O'Brien,,0,0,0,,,,372823728
+1,Ireland,14,GC Wilson,SM Sharif,KJ O'Brien,,0,1,1,,,,372823728
+1,Ireland,14,KJ O'Brien,SM Sharif,GC Wilson,,0,1,1,,,,372823728
+1,Ireland,14,GC Wilson,SM Sharif,KJ O'Brien,,0,0,0,,,,372823728
+1,Ireland,14,GC Wilson,SM Sharif,KJ O'Brien,,0,1,1,,,,372823728
+1,Ireland,14,KJ O'Brien,SM Sharif,GC Wilson,,0,1,1,,,,372823728
+1,Ireland,15,KJ O'Brien,MRJ Watt,GC Wilson,,0,1,1,,,,372823728
+1,Ireland,15,GC Wilson,MRJ Watt,KJ O'Brien,,0,4,4,,,,372823728
+1,Ireland,15,GC Wilson,MRJ Watt,KJ O'Brien,,0,1,1,,,,372823728
+1,Ireland,15,KJ O'Brien,MRJ Watt,GC Wilson,,0,6,6,,,,372823728
+1,Ireland,15,KJ O'Brien,MRJ Watt,GC Wilson,wides,1,1,0,,,,372823728
+1,Ireland,15,KJ O'Brien,MRJ Watt,GC Wilson,,0,0,0,stumped,KJ O'Brien,MH Cross,372823728
+1,Ireland,15,AR McBrine,MRJ Watt,GC Wilson,,0,1,1,,,,372823728
+1,Ireland,16,AR McBrine,BTJ Wheal,GC Wilson,,0,2,2,,,,372823728
+1,Ireland,16,AR McBrine,BTJ Wheal,GC Wilson,,0,0,0,,,,372823728
+1,Ireland,16,AR McBrine,BTJ Wheal,GC Wilson,,0,0,0,,,,372823728
+1,Ireland,16,AR McBrine,BTJ Wheal,GC Wilson,,0,1,1,,,,372823728
+1,Ireland,16,GC Wilson,BTJ Wheal,AR McBrine,,0,0,0,,,,372823728
+1,Ireland,16,GC Wilson,BTJ Wheal,AR McBrine,,0,4,4,,,,372823728
+1,Ireland,17,AR McBrine,JH Davey,GC Wilson,,0,2,2,,,,372823728
+1,Ireland,17,AR McBrine,JH Davey,GC Wilson,,0,0,0,caught,AR McBrine,HG Munsey,372823728
+1,Ireland,17,GC Wilson,JH Davey,GJ Thompson,,0,0,0,,,,372823728
+1,Ireland,17,GC Wilson,JH Davey,GJ Thompson,,0,4,4,,,,372823728
+1,Ireland,17,GC Wilson,JH Davey,GJ Thompson,,0,6,6,,,,372823728
+1,Ireland,17,GC Wilson,JH Davey,GJ Thompson,,0,4,4,,,,372823728
+1,Ireland,18,GJ Thompson,SM Sharif,GC Wilson,,0,0,0,,,,372823728
+1,Ireland,18,GJ Thompson,SM Sharif,GC Wilson,,0,0,0,bowled,GJ Thompson,,372823728
+1,Ireland,18,GH Dockrell,SM Sharif,GC Wilson,,0,1,1,,,,372823728
+1,Ireland,18,GC Wilson,SM Sharif,GH Dockrell,,0,6,6,,,,372823728
+1,Ireland,18,GC Wilson,SM Sharif,GH Dockrell,,0,2,2,,,,372823728
+1,Ireland,18,GC Wilson,SM Sharif,GH Dockrell,,0,6,6,,,,372823728
+1,Ireland,19,GH Dockrell,JH Davey,GC Wilson,,0,1,1,,,,372823728
+1,Ireland,19,GC Wilson,JH Davey,GH Dockrell,,0,0,0,,,,372823728
+1,Ireland,19,GC Wilson,JH Davey,GH Dockrell,,0,4,4,,,,372823728
+1,Ireland,19,GC Wilson,JH Davey,GH Dockrell,,0,1,1,,,,372823728
+1,Ireland,19,GH Dockrell,JH Davey,GC Wilson,,0,1,1,,,,372823728
+1,Ireland,19,GC Wilson,JH Davey,GH Dockrell,,0,2,2,,,,372823728

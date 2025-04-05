@@ -1,0 +1,44 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,United States of America,0,EH Rendler,RV Scholes,S Bhaskar,,0,0,0,,,,31204231204
+2,United States of America,0,EH Rendler,RV Scholes,S Bhaskar,,0,2,2,,,,31204231204
+2,United States of America,0,EH Rendler,RV Scholes,S Bhaskar,,0,1,1,,,,31204231204
+2,United States of America,0,S Bhaskar,RV Scholes,EH Rendler,,0,0,0,caught,S Bhaskar,SJ Bryce,31204231204
+2,United States of America,0,S Sriharsha,RV Scholes,EH Rendler,,0,0,0,,,,31204231204
+2,United States of America,0,S Sriharsha,RV Scholes,EH Rendler,,0,2,2,,,,31204231204
+2,United States of America,1,EH Rendler,KE Bryce,S Sriharsha,,0,0,0,,,,31204231204
+2,United States of America,1,EH Rendler,KE Bryce,S Sriharsha,,0,0,0,lbw,EH Rendler,,31204231204
+2,United States of America,1,OT Wallerson,KE Bryce,S Sriharsha,,0,1,1,,,,31204231204
+2,United States of America,1,S Sriharsha,KE Bryce,OT Wallerson,,0,0,0,,,,31204231204
+2,United States of America,1,S Sriharsha,KE Bryce,OT Wallerson,,0,0,0,,,,31204231204
+2,United States of America,1,S Sriharsha,KE Bryce,OT Wallerson,,0,1,1,,,,31204231204
+2,United States of America,2,S Sriharsha,K Fraser,OT Wallerson,,0,1,1,,,,31204231204
+2,United States of America,2,OT Wallerson,K Fraser,S Sriharsha,,0,0,0,,,,31204231204
+2,United States of America,2,OT Wallerson,K Fraser,S Sriharsha,,0,0,0,,,,31204231204
+2,United States of America,2,OT Wallerson,K Fraser,S Sriharsha,,0,1,1,,,,31204231204
+2,United States of America,2,S Sriharsha,K Fraser,OT Wallerson,,0,0,0,,,,31204231204
+2,United States of America,2,S Sriharsha,K Fraser,OT Wallerson,,0,1,1,,,,31204231204
+2,United States of America,3,S Sriharsha,AH Maqsood,OT Wallerson,wides,1,1,0,,,,31204231204
+2,United States of America,3,S Sriharsha,AH Maqsood,OT Wallerson,,0,2,2,,,,31204231204
+2,United States of America,3,S Sriharsha,AH Maqsood,OT Wallerson,,0,1,1,,,,31204231204
+2,United States of America,3,OT Wallerson,AH Maqsood,S Sriharsha,,0,0,0,stumped,OT Wallerson,SJ Bryce,31204231204
+2,United States of America,3,NT Gruny,AH Maqsood,S Sriharsha,,0,0,0,,,,31204231204
+2,United States of America,3,NT Gruny,AH Maqsood,S Sriharsha,,0,1,1,,,,31204231204
+2,United States of America,3,S Sriharsha,AH Maqsood,NT Gruny,,0,0,0,,,,31204231204
+2,United States of America,4,NT Gruny,K Fraser,S Sriharsha,,0,1,1,,,,31204231204
+2,United States of America,4,S Sriharsha,K Fraser,NT Gruny,,0,2,2,,,,31204231204
+2,United States of America,4,S Sriharsha,K Fraser,NT Gruny,,0,0,0,,,,31204231204
+2,United States of America,4,S Sriharsha,K Fraser,NT Gruny,,0,0,0,caught,S Sriharsha,RS Glen,31204231204
+2,United States of America,4,NT Gruny,K Fraser,SK Chandhrasekar,,0,1,1,,,,31204231204
+2,United States of America,4,SK Chandhrasekar,K Fraser,NT Gruny,,0,1,1,,,,31204231204
+2,United States of America,5,SK Chandhrasekar,KE Bryce,NT Gruny,,0,1,1,,,,31204231204
+2,United States of America,5,NT Gruny,KE Bryce,SK Chandhrasekar,,0,1,1,,,,31204231204
+2,United States of America,5,SK Chandhrasekar,KE Bryce,NT Gruny,,0,1,1,,,,31204231204
+2,United States of America,5,NT Gruny,KE Bryce,SK Chandhrasekar,,0,0,0,,,,31204231204
+2,United States of America,5,NT Gruny,KE Bryce,SK Chandhrasekar,,0,1,1,,,,31204231204
+2,United States of America,5,SK Chandhrasekar,KE Bryce,NT Gruny,,0,0,0,lbw,SK Chandhrasekar,,31204231204
+2,United States of America,6,NT Gruny,K McGill,S Ramautar,,0,1,1,,,,31204231204
+2,United States of America,6,S Ramautar,K McGill,NT Gruny,,0,1,1,,,,31204231204
+2,United States of America,6,NT Gruny,K McGill,S Ramautar,,0,1,1,,,,31204231204
+2,United States of America,6,S Ramautar,K McGill,NT Gruny,,0,1,1,,,,31204231204
+2,United States of America,6,NT Gruny,K McGill,S Ramautar,,0,1,1,,,,31204231204
+2,United States of America,6,S Ramautar,K McGill,NT Gruny,,0,1,1,,,,31204231204

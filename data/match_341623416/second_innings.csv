@@ -1,0 +1,117 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,India,0,RG Sharma,Mashrafe Mortaza,S Dhawan,,0,2,2,,,,341623416
+2,India,0,RG Sharma,Mashrafe Mortaza,S Dhawan,,0,0,0,,,,341623416
+2,India,0,RG Sharma,Mashrafe Mortaza,S Dhawan,,0,0,0,,,,341623416
+2,India,0,RG Sharma,Mashrafe Mortaza,S Dhawan,,0,0,0,,,,341623416
+2,India,0,RG Sharma,Mashrafe Mortaza,S Dhawan,,0,1,1,,,,341623416
+2,India,0,S Dhawan,Mashrafe Mortaza,RG Sharma,,0,0,0,,,,341623416
+2,India,1,RG Sharma,Sohag Gazi,S Dhawan,,0,0,0,,,,341623416
+2,India,1,RG Sharma,Sohag Gazi,S Dhawan,,0,0,0,,,,341623416
+2,India,1,RG Sharma,Sohag Gazi,S Dhawan,,0,1,1,,,,341623416
+2,India,1,S Dhawan,Sohag Gazi,RG Sharma,,0,1,1,,,,341623416
+2,India,1,RG Sharma,Sohag Gazi,S Dhawan,,0,1,1,,,,341623416
+2,India,1,S Dhawan,Sohag Gazi,RG Sharma,,0,0,0,,,,341623416
+2,India,2,RG Sharma,Al-Amin Hossain,S Dhawan,,0,6,6,,,,341623416
+2,India,2,RG Sharma,Al-Amin Hossain,S Dhawan,,0,1,1,,,,341623416
+2,India,2,S Dhawan,Al-Amin Hossain,RG Sharma,,0,0,0,,,,341623416
+2,India,2,S Dhawan,Al-Amin Hossain,RG Sharma,,0,0,0,,,,341623416
+2,India,2,S Dhawan,Al-Amin Hossain,RG Sharma,,0,0,0,bowled,S Dhawan,,341623416
+2,India,2,V Kohli,Al-Amin Hossain,RG Sharma,,0,0,0,,,,341623416
+2,India,3,RG Sharma,Shakib Al Hasan,V Kohli,,0,1,1,,,,341623416
+2,India,3,V Kohli,Shakib Al Hasan,RG Sharma,,0,0,0,,,,341623416
+2,India,3,V Kohli,Shakib Al Hasan,RG Sharma,,0,2,2,,,,341623416
+2,India,3,V Kohli,Shakib Al Hasan,RG Sharma,wides,1,1,0,,,,341623416
+2,India,3,V Kohli,Shakib Al Hasan,RG Sharma,,0,0,0,,,,341623416
+2,India,3,V Kohli,Shakib Al Hasan,RG Sharma,,0,0,0,,,,341623416
+2,India,3,V Kohli,Shakib Al Hasan,RG Sharma,,0,1,1,,,,341623416
+2,India,4,V Kohli,Al-Amin Hossain,RG Sharma,,0,0,0,,,,341623416
+2,India,4,V Kohli,Al-Amin Hossain,RG Sharma,,0,1,1,,,,341623416
+2,India,4,RG Sharma,Al-Amin Hossain,V Kohli,,0,1,1,,,,341623416
+2,India,4,V Kohli,Al-Amin Hossain,RG Sharma,,0,6,6,,,,341623416
+2,India,4,V Kohli,Al-Amin Hossain,RG Sharma,,0,1,1,,,,341623416
+2,India,4,RG Sharma,Al-Amin Hossain,V Kohli,noballs,1,1,0,,,,341623416
+2,India,4,RG Sharma,Al-Amin Hossain,V Kohli,,0,1,1,,,,341623416
+2,India,5,RG Sharma,Shakib Al Hasan,V Kohli,,0,1,1,,,,341623416
+2,India,5,V Kohli,Shakib Al Hasan,RG Sharma,,0,0,0,,,,341623416
+2,India,5,V Kohli,Shakib Al Hasan,RG Sharma,,0,1,1,,,,341623416
+2,India,5,RG Sharma,Shakib Al Hasan,V Kohli,,0,4,4,,,,341623416
+2,India,5,RG Sharma,Shakib Al Hasan,V Kohli,,0,0,0,,,,341623416
+2,India,5,RG Sharma,Shakib Al Hasan,V Kohli,,0,4,4,,,,341623416
+2,India,6,V Kohli,Mashrafe Mortaza,RG Sharma,,0,1,1,,,,341623416
+2,India,6,RG Sharma,Mashrafe Mortaza,V Kohli,,0,4,4,,,,341623416
+2,India,6,RG Sharma,Mashrafe Mortaza,V Kohli,,0,1,1,,,,341623416
+2,India,6,V Kohli,Mashrafe Mortaza,RG Sharma,,0,2,2,,,,341623416
+2,India,6,V Kohli,Mashrafe Mortaza,RG Sharma,,0,1,1,,,,341623416
+2,India,6,RG Sharma,Mashrafe Mortaza,V Kohli,,0,2,2,,,,341623416
+2,India,7,V Kohli,Sohag Gazi,RG Sharma,,0,1,1,,,,341623416
+2,India,7,RG Sharma,Sohag Gazi,V Kohli,,0,1,1,,,,341623416
+2,India,7,V Kohli,Sohag Gazi,RG Sharma,,0,1,1,,,,341623416
+2,India,7,RG Sharma,Sohag Gazi,V Kohli,,0,1,1,,,,341623416
+2,India,7,V Kohli,Sohag Gazi,RG Sharma,,0,0,0,,,,341623416
+2,India,7,V Kohli,Sohag Gazi,RG Sharma,,0,1,1,,,,341623416
+2,India,8,V Kohli,Ziaur Rahman,RG Sharma,,0,1,1,,,,341623416
+2,India,8,RG Sharma,Ziaur Rahman,V Kohli,,0,1,1,,,,341623416
+2,India,8,V Kohli,Ziaur Rahman,RG Sharma,,0,1,1,,,,341623416
+2,India,8,RG Sharma,Ziaur Rahman,V Kohli,,0,2,2,,,,341623416
+2,India,8,RG Sharma,Ziaur Rahman,V Kohli,,0,0,0,,,,341623416
+2,India,8,RG Sharma,Ziaur Rahman,V Kohli,,0,4,4,,,,341623416
+2,India,9,V Kohli,Sohag Gazi,RG Sharma,,0,2,2,,,,341623416
+2,India,9,V Kohli,Sohag Gazi,RG Sharma,,0,4,4,,,,341623416
+2,India,9,V Kohli,Sohag Gazi,RG Sharma,,0,1,1,,,,341623416
+2,India,9,RG Sharma,Sohag Gazi,V Kohli,,0,1,1,,,,341623416
+2,India,9,V Kohli,Sohag Gazi,RG Sharma,,0,4,4,,,,341623416
+2,India,9,V Kohli,Sohag Gazi,RG Sharma,,0,1,1,,,,341623416
+2,India,10,V Kohli,Shakib Al Hasan,RG Sharma,,0,1,1,,,,341623416
+2,India,10,RG Sharma,Shakib Al Hasan,V Kohli,,0,0,0,,,,341623416
+2,India,10,RG Sharma,Shakib Al Hasan,V Kohli,,0,1,1,,,,341623416
+2,India,10,V Kohli,Shakib Al Hasan,RG Sharma,wides,1,1,0,,,,341623416
+2,India,10,V Kohli,Shakib Al Hasan,RG Sharma,,0,1,1,,,,341623416
+2,India,10,RG Sharma,Shakib Al Hasan,V Kohli,,0,1,1,,,,341623416
+2,India,10,V Kohli,Shakib Al Hasan,RG Sharma,,0,1,1,,,,341623416
+2,India,11,V Kohli,Ziaur Rahman,RG Sharma,,0,1,1,,,,341623416
+2,India,11,RG Sharma,Ziaur Rahman,V Kohli,,0,1,1,,,,341623416
+2,India,11,V Kohli,Ziaur Rahman,RG Sharma,,0,1,1,,,,341623416
+2,India,11,RG Sharma,Ziaur Rahman,V Kohli,,0,1,1,,,,341623416
+2,India,11,V Kohli,Ziaur Rahman,RG Sharma,,0,4,4,,,,341623416
+2,India,11,V Kohli,Ziaur Rahman,RG Sharma,,0,1,1,,,,341623416
+2,India,12,V Kohli,Shakib Al Hasan,RG Sharma,,0,1,1,,,,341623416
+2,India,12,RG Sharma,Shakib Al Hasan,V Kohli,,0,2,2,,,,341623416
+2,India,12,RG Sharma,Shakib Al Hasan,V Kohli,,0,0,0,,,,341623416
+2,India,12,RG Sharma,Shakib Al Hasan,V Kohli,,0,1,1,,,,341623416
+2,India,12,V Kohli,Shakib Al Hasan,RG Sharma,,0,0,0,,,,341623416
+2,India,12,V Kohli,Shakib Al Hasan,RG Sharma,,0,1,1,,,,341623416
+2,India,13,V Kohli,Mahmudullah,RG Sharma,wides,1,1,0,,,,341623416
+2,India,13,V Kohli,Mahmudullah,RG Sharma,,0,0,0,,,,341623416
+2,India,13,V Kohli,Mahmudullah,RG Sharma,,0,2,2,,,,341623416
+2,India,13,V Kohli,Mahmudullah,RG Sharma,,0,1,1,,,,341623416
+2,India,13,RG Sharma,Mahmudullah,V Kohli,,0,1,1,,,,341623416
+2,India,13,V Kohli,Mahmudullah,RG Sharma,,0,1,1,,,,341623416
+2,India,13,RG Sharma,Mahmudullah,V Kohli,,0,1,1,,,,341623416
+2,India,14,RG Sharma,Al-Amin Hossain,V Kohli,,0,4,4,,,,341623416
+2,India,14,RG Sharma,Al-Amin Hossain,V Kohli,,0,1,1,,,,341623416
+2,India,14,V Kohli,Al-Amin Hossain,RG Sharma,,0,1,1,,,,341623416
+2,India,14,RG Sharma,Al-Amin Hossain,V Kohli,,0,1,1,,,,341623416
+2,India,14,V Kohli,Al-Amin Hossain,RG Sharma,,0,1,1,,,,341623416
+2,India,14,RG Sharma,Al-Amin Hossain,V Kohli,,0,0,0,,,,341623416
+2,India,15,V Kohli,Mashrafe Mortaza,RG Sharma,,0,1,1,,,,341623416
+2,India,15,RG Sharma,Mashrafe Mortaza,V Kohli,,0,0,0,caught,RG Sharma,Nasir Hossain,341623416
+2,India,15,MS Dhoni,Mashrafe Mortaza,V Kohli,wides,1,1,0,,,,341623416
+2,India,15,MS Dhoni,Mashrafe Mortaza,V Kohli,,0,1,1,,,,341623416
+2,India,15,V Kohli,Mashrafe Mortaza,MS Dhoni,,0,1,1,,,,341623416
+2,India,15,MS Dhoni,Mashrafe Mortaza,V Kohli,,0,0,0,,,,341623416
+2,India,15,MS Dhoni,Mashrafe Mortaza,V Kohli,,0,1,1,,,,341623416
+2,India,16,MS Dhoni,Al-Amin Hossain,V Kohli,,0,0,0,,,,341623416
+2,India,16,MS Dhoni,Al-Amin Hossain,V Kohli,,0,1,1,,,,341623416
+2,India,16,V Kohli,Al-Amin Hossain,MS Dhoni,,0,1,1,,,,341623416
+2,India,16,MS Dhoni,Al-Amin Hossain,V Kohli,,0,4,4,,,,341623416
+2,India,16,MS Dhoni,Al-Amin Hossain,V Kohli,,0,0,0,,,,341623416
+2,India,16,MS Dhoni,Al-Amin Hossain,V Kohli,,0,6,6,,,,341623416
+2,India,17,V Kohli,Mashrafe Mortaza,MS Dhoni,,0,1,1,,,,341623416
+2,India,17,MS Dhoni,Mashrafe Mortaza,V Kohli,,0,1,1,,,,341623416
+2,India,17,V Kohli,Mashrafe Mortaza,MS Dhoni,,0,0,0,,,,341623416
+2,India,17,V Kohli,Mashrafe Mortaza,MS Dhoni,,0,1,1,,,,341623416
+2,India,17,MS Dhoni,Mashrafe Mortaza,V Kohli,,0,1,1,,,,341623416
+2,India,17,V Kohli,Mashrafe Mortaza,MS Dhoni,,0,0,0,,,,341623416
+2,India,18,MS Dhoni,Ziaur Rahman,V Kohli,,0,1,1,,,,341623416
+2,India,18,V Kohli,Ziaur Rahman,MS Dhoni,,0,1,1,,,,341623416
+2,India,18,MS Dhoni,Ziaur Rahman,V Kohli,,0,6,6,,,,341623416

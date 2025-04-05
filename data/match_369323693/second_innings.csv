@@ -1,0 +1,103 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,England,0,JJ Roy,A Nehra,SW Billings,,0,0,0,,,,369323693
+2,England,0,JJ Roy,A Nehra,SW Billings,,0,0,0,,,,369323693
+2,England,0,JJ Roy,A Nehra,SW Billings,,0,0,0,,,,369323693
+2,England,0,JJ Roy,A Nehra,SW Billings,,0,0,0,,,,369323693
+2,England,0,JJ Roy,A Nehra,SW Billings,,0,0,0,,,,369323693
+2,England,0,JJ Roy,A Nehra,SW Billings,legbyes,1,1,0,,,,369323693
+2,England,1,JJ Roy,YS Chahal,SW Billings,,0,6,6,,,,369323693
+2,England,1,JJ Roy,YS Chahal,SW Billings,legbyes,1,1,0,,,,369323693
+2,England,1,SW Billings,YS Chahal,JJ Roy,,0,0,0,caught,SW Billings,SK Raina,369323693
+2,England,1,JE Root,YS Chahal,JJ Roy,,0,0,0,,,,369323693
+2,England,1,JE Root,YS Chahal,JJ Roy,,0,1,1,,,,369323693
+2,England,1,JJ Roy,YS Chahal,JE Root,,0,3,3,,,,369323693
+2,England,2,JJ Roy,A Nehra,JE Root,,0,4,4,,,,369323693
+2,England,2,JJ Roy,A Nehra,JE Root,,0,1,1,,,,369323693
+2,England,2,JE Root,A Nehra,JJ Roy,,0,4,4,,,,369323693
+2,England,2,JE Root,A Nehra,JJ Roy,,0,0,0,,,,369323693
+2,England,2,JE Root,A Nehra,JJ Roy,,0,0,0,,,,369323693
+2,England,2,JE Root,A Nehra,JJ Roy,,0,4,4,,,,369323693
+2,England,3,JJ Roy,YS Chahal,JE Root,,0,4,4,,,,369323693
+2,England,3,JJ Roy,YS Chahal,JE Root,,0,2,2,,,,369323693
+2,England,3,JJ Roy,YS Chahal,JE Root,,0,0,0,,,,369323693
+2,England,3,JJ Roy,YS Chahal,JE Root,,0,1,1,,,,369323693
+2,England,3,JE Root,YS Chahal,JJ Roy,,0,1,1,,,,369323693
+2,England,3,JJ Roy,YS Chahal,JE Root,,0,1,1,,,,369323693
+2,England,4,JJ Roy,JJ Bumrah,JE Root,,0,4,4,,,,369323693
+2,England,4,JJ Roy,JJ Bumrah,JE Root,,0,0,0,,,,369323693
+2,England,4,JJ Roy,JJ Bumrah,JE Root,,0,1,1,,,,369323693
+2,England,4,JE Root,JJ Bumrah,JJ Roy,,0,0,0,,,,369323693
+2,England,4,JE Root,JJ Bumrah,JJ Roy,,0,4,4,,,,369323693
+2,England,4,JE Root,JJ Bumrah,JJ Roy,,0,1,1,,,,369323693
+2,England,5,JE Root,A Nehra,JJ Roy,wides,1,1,0,,,,369323693
+2,England,5,JE Root,A Nehra,JJ Roy,,0,0,0,,,,369323693
+2,England,5,JE Root,A Nehra,JJ Roy,,0,0,0,,,,369323693
+2,England,5,JE Root,A Nehra,JJ Roy,,0,1,1,,,,369323693
+2,England,5,JJ Roy,A Nehra,JE Root,,0,4,4,,,,369323693
+2,England,5,JJ Roy,A Nehra,JE Root,,0,1,1,,,,369323693
+2,England,5,JE Root,A Nehra,JJ Roy,,0,4,4,,,,369323693
+2,England,6,JJ Roy,A Mishra,JE Root,,0,0,0,,,,369323693
+2,England,6,JJ Roy,A Mishra,JE Root,,0,0,0,caught,JJ Roy,MS Dhoni,369323693
+2,England,6,JE Root,A Mishra,EJG Morgan,,0,0,0,,,,369323693
+2,England,6,JE Root,A Mishra,EJG Morgan,,0,0,0,,,,369323693
+2,England,6,JE Root,A Mishra,EJG Morgan,,0,1,1,,,,369323693
+2,England,6,EJG Morgan,A Mishra,JE Root,,0,0,0,,,,369323693
+2,England,7,JE Root,HH Pandya,EJG Morgan,,0,6,6,,,,369323693
+2,England,7,JE Root,HH Pandya,EJG Morgan,,0,0,0,,,,369323693
+2,England,7,JE Root,HH Pandya,EJG Morgan,,0,1,1,,,,369323693
+2,England,7,EJG Morgan,HH Pandya,JE Root,,0,0,0,,,,369323693
+2,England,7,EJG Morgan,HH Pandya,JE Root,,0,0,0,,,,369323693
+2,England,7,EJG Morgan,HH Pandya,JE Root,,0,1,1,,,,369323693
+2,England,8,EJG Morgan,A Mishra,JE Root,,0,4,4,,,,369323693
+2,England,8,EJG Morgan,A Mishra,JE Root,,0,4,4,,,,369323693
+2,England,8,EJG Morgan,A Mishra,JE Root,,0,2,2,,,,369323693
+2,England,8,EJG Morgan,A Mishra,JE Root,,0,1,1,,,,369323693
+2,England,8,JE Root,A Mishra,EJG Morgan,,0,1,1,,,,369323693
+2,England,8,EJG Morgan,A Mishra,JE Root,,0,1,1,,,,369323693
+2,England,9,EJG Morgan,HH Pandya,JE Root,,0,1,1,,,,369323693
+2,England,9,JE Root,HH Pandya,EJG Morgan,,0,1,1,,,,369323693
+2,England,9,EJG Morgan,HH Pandya,JE Root,,0,1,1,,,,369323693
+2,England,9,JE Root,HH Pandya,EJG Morgan,,0,6,6,,,,369323693
+2,England,9,JE Root,HH Pandya,EJG Morgan,,0,0,0,,,,369323693
+2,England,9,JE Root,HH Pandya,EJG Morgan,,0,0,0,,,,369323693
+2,England,10,EJG Morgan,A Mishra,JE Root,,0,1,1,,,,369323693
+2,England,10,JE Root,A Mishra,EJG Morgan,,0,0,0,,,,369323693
+2,England,10,JE Root,A Mishra,EJG Morgan,,0,1,1,,,,369323693
+2,England,10,EJG Morgan,A Mishra,JE Root,,0,2,2,,,,369323693
+2,England,10,EJG Morgan,A Mishra,JE Root,,0,1,1,,,,369323693
+2,England,10,JE Root,A Mishra,EJG Morgan,,0,1,1,,,,369323693
+2,England,11,JE Root,SK Raina,EJG Morgan,,0,1,1,,,,369323693
+2,England,11,EJG Morgan,SK Raina,JE Root,,0,6,6,,,,369323693
+2,England,11,EJG Morgan,SK Raina,JE Root,,0,6,6,,,,369323693
+2,England,11,EJG Morgan,SK Raina,JE Root,wides,1,1,0,,,,369323693
+2,England,11,EJG Morgan,SK Raina,JE Root,,0,6,6,,,,369323693
+2,England,11,EJG Morgan,SK Raina,JE Root,,0,1,1,,,,369323693
+2,England,11,JE Root,SK Raina,EJG Morgan,,0,1,1,,,,369323693
+2,England,12,JE Root,A Mishra,EJG Morgan,,0,1,1,,,,369323693
+2,England,12,EJG Morgan,A Mishra,JE Root,,0,1,1,,,,369323693
+2,England,12,JE Root,A Mishra,EJG Morgan,,0,0,0,,,,369323693
+2,England,12,JE Root,A Mishra,EJG Morgan,,0,0,0,,,,369323693
+2,England,12,JE Root,A Mishra,EJG Morgan,,0,0,0,,,,369323693
+2,England,12,JE Root,A Mishra,EJG Morgan,wides,1,1,0,,,,369323693
+2,England,12,JE Root,A Mishra,EJG Morgan,,0,0,0,,,,369323693
+2,England,13,EJG Morgan,YS Chahal,JE Root,,0,1,1,,,,369323693
+2,England,13,JE Root,YS Chahal,EJG Morgan,,0,1,1,,,,369323693
+2,England,13,EJG Morgan,YS Chahal,JE Root,,0,0,0,caught,EJG Morgan,RR Pant,369323693
+2,England,13,JE Root,YS Chahal,JC Buttler,,0,0,0,lbw,JE Root,,369323693
+2,England,13,BA Stokes,YS Chahal,JC Buttler,,0,0,0,,,,369323693
+2,England,13,BA Stokes,YS Chahal,JC Buttler,,0,0,0,,,,369323693
+2,England,14,JC Buttler,JJ Bumrah,BA Stokes,,0,0,0,,,,369323693
+2,England,14,JC Buttler,JJ Bumrah,BA Stokes,,0,0,0,caught,JC Buttler,V Kohli,369323693
+2,England,14,BA Stokes,JJ Bumrah,MM Ali,,0,1,1,,,,369323693
+2,England,14,MM Ali,JJ Bumrah,BA Stokes,,0,1,1,,,,369323693
+2,England,14,BA Stokes,JJ Bumrah,MM Ali,,0,1,1,,,,369323693
+2,England,14,MM Ali,JJ Bumrah,BA Stokes,,0,1,1,,,,369323693
+2,England,15,MM Ali,YS Chahal,BA Stokes,,0,0,0,caught,MM Ali,V Kohli,369323693
+2,England,15,BA Stokes,YS Chahal,LE Plunkett,,0,0,0,,,,369323693
+2,England,15,BA Stokes,YS Chahal,LE Plunkett,,0,4,4,,,,369323693
+2,England,15,BA Stokes,YS Chahal,LE Plunkett,,0,0,0,caught,BA Stokes,SK Raina,369323693
+2,England,15,CJ Jordan,YS Chahal,LE Plunkett,,0,0,0,,,,369323693
+2,England,15,CJ Jordan,YS Chahal,LE Plunkett,,0,0,0,stumped,CJ Jordan,MS Dhoni,369323693
+2,England,16,LE Plunkett,JJ Bumrah,AU Rashid,,0,0,0,bowled,LE Plunkett,,369323693
+2,England,16,TS Mills,JJ Bumrah,AU Rashid,,0,0,0,,,,369323693
+2,England,16,TS Mills,JJ Bumrah,AU Rashid,,0,0,0,caught,TS Mills,V Kohli,369323693

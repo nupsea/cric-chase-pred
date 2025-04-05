@@ -1,0 +1,101 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Malaysia,0,WA Duraisingam,C Sutthiruang,Wan Julia,,0,0,0,,,,31015231015
+2,Malaysia,0,WA Duraisingam,C Sutthiruang,Wan Julia,wides,1,1,0,,,,31015231015
+2,Malaysia,0,WA Duraisingam,C Sutthiruang,Wan Julia,,0,0,0,,,,31015231015
+2,Malaysia,0,WA Duraisingam,C Sutthiruang,Wan Julia,,0,1,1,,,,31015231015
+2,Malaysia,0,Wan Julia,C Sutthiruang,WA Duraisingam,,0,0,0,,,,31015231015
+2,Malaysia,0,Wan Julia,C Sutthiruang,WA Duraisingam,,0,1,1,,,,31015231015
+2,Malaysia,0,WA Duraisingam,C Sutthiruang,Wan Julia,,0,0,0,,,,31015231015
+2,Malaysia,1,Wan Julia,N Boochatham,WA Duraisingam,,0,0,0,,,,31015231015
+2,Malaysia,1,Wan Julia,N Boochatham,WA Duraisingam,,0,0,0,bowled,Wan Julia,,31015231015
+2,Malaysia,1,Siow Tzin Yee,N Boochatham,WA Duraisingam,,0,0,0,,,,31015231015
+2,Malaysia,1,Siow Tzin Yee,N Boochatham,WA Duraisingam,,0,0,0,,,,31015231015
+2,Malaysia,1,Siow Tzin Yee,N Boochatham,WA Duraisingam,,0,1,1,,,,31015231015
+2,Malaysia,1,WA Duraisingam,N Boochatham,Siow Tzin Yee,,0,0,0,,,,31015231015
+2,Malaysia,2,Siow Tzin Yee,C Sutthiruang,WA Duraisingam,wides,1,1,0,,,,31015231015
+2,Malaysia,2,Siow Tzin Yee,C Sutthiruang,WA Duraisingam,legbyes,1,1,0,,,,31015231015
+2,Malaysia,2,WA Duraisingam,C Sutthiruang,Siow Tzin Yee,,0,0,0,,,,31015231015
+2,Malaysia,2,WA Duraisingam,C Sutthiruang,Siow Tzin Yee,,0,1,1,,,,31015231015
+2,Malaysia,2,Siow Tzin Yee,C Sutthiruang,WA Duraisingam,,0,0,0,,,,31015231015
+2,Malaysia,2,Siow Tzin Yee,C Sutthiruang,WA Duraisingam,,0,0,0,,,,31015231015
+2,Malaysia,2,Siow Tzin Yee,C Sutthiruang,WA Duraisingam,,0,0,0,,,,31015231015
+2,Malaysia,3,WA Duraisingam,N Boochatham,Siow Tzin Yee,,0,0,0,,,,31015231015
+2,Malaysia,3,WA Duraisingam,N Boochatham,Siow Tzin Yee,,0,0,0,,,,31015231015
+2,Malaysia,3,WA Duraisingam,N Boochatham,Siow Tzin Yee,,0,0,0,,,,31015231015
+2,Malaysia,3,WA Duraisingam,N Boochatham,Siow Tzin Yee,,0,0,0,,,,31015231015
+2,Malaysia,3,WA Duraisingam,N Boochatham,Siow Tzin Yee,,0,0,0,caught and bowled,WA Duraisingam,,31015231015
+2,Malaysia,3,Mas Elysa,N Boochatham,Siow Tzin Yee,,0,0,0,,,,31015231015
+2,Malaysia,4,Siow Tzin Yee,S Tippoch,Mas Elysa,,0,0,0,bowled,Siow Tzin Yee,,31015231015
+2,Malaysia,4,Christina Baret,S Tippoch,Mas Elysa,,0,0,0,,,,31015231015
+2,Malaysia,4,Christina Baret,S Tippoch,Mas Elysa,,0,0,0,caught,Christina Baret,N Koncharoenkai,31015231015
+2,Malaysia,4,Zumika Azmi,S Tippoch,Mas Elysa,,0,0,0,,,,31015231015
+2,Malaysia,4,Zumika Azmi,S Tippoch,Mas Elysa,,0,0,0,,,,31015231015
+2,Malaysia,4,Zumika Azmi,S Tippoch,Mas Elysa,,0,0,0,,,,31015231015
+2,Malaysia,5,Mas Elysa,C Sutthiruang,Zumika Azmi,legbyes,1,1,0,,,,31015231015
+2,Malaysia,5,Zumika Azmi,C Sutthiruang,Mas Elysa,,0,1,1,,,,31015231015
+2,Malaysia,5,Mas Elysa,C Sutthiruang,Zumika Azmi,,0,2,2,,,,31015231015
+2,Malaysia,5,Mas Elysa,C Sutthiruang,Zumika Azmi,,0,0,0,,,,31015231015
+2,Malaysia,5,Mas Elysa,C Sutthiruang,Zumika Azmi,,0,2,2,,,,31015231015
+2,Malaysia,5,Mas Elysa,C Sutthiruang,Zumika Azmi,noballs,1,1,0,,,,31015231015
+2,Malaysia,5,Mas Elysa,C Sutthiruang,Zumika Azmi,,0,0,0,,,,31015231015
+2,Malaysia,6,Zumika Azmi,S Tippoch,Mas Elysa,,0,0,0,,,,31015231015
+2,Malaysia,6,Zumika Azmi,S Tippoch,Mas Elysa,,0,0,0,stumped,Zumika Azmi,N Koncharoenkai,31015231015
+2,Malaysia,6,J Intan,S Tippoch,Mas Elysa,,0,0,0,,,,31015231015
+2,Malaysia,6,J Intan,S Tippoch,Mas Elysa,,0,0,0,,,,31015231015
+2,Malaysia,6,J Intan,S Tippoch,Mas Elysa,,0,1,1,,,,31015231015
+2,Malaysia,6,Mas Elysa,S Tippoch,J Intan,,0,1,1,,,,31015231015
+2,Malaysia,7,Mas Elysa,S Laomi,J Intan,,0,0,0,caught,Mas Elysa,N Chantam,31015231015
+2,Malaysia,7,J Intan,S Laomi,Nur Nadihirah,,0,0,0,,,,31015231015
+2,Malaysia,7,J Intan,S Laomi,Nur Nadihirah,,0,1,1,,,,31015231015
+2,Malaysia,7,Nur Nadihirah,S Laomi,J Intan,,0,0,0,,,,31015231015
+2,Malaysia,7,Nur Nadihirah,S Laomi,J Intan,,0,0,0,lbw,Nur Nadihirah,,31015231015
+2,Malaysia,7,Ainna Hamizah Hashim,S Laomi,J Intan,,0,0,0,,,,31015231015
+2,Malaysia,8,J Intan,S Tippoch,Ainna Hamizah Hashim,,0,0,0,,,,31015231015
+2,Malaysia,8,J Intan,S Tippoch,Ainna Hamizah Hashim,wides,1,1,0,,,,31015231015
+2,Malaysia,8,J Intan,S Tippoch,Ainna Hamizah Hashim,,0,0,0,,,,31015231015
+2,Malaysia,8,J Intan,S Tippoch,Ainna Hamizah Hashim,,0,0,0,,,,31015231015
+2,Malaysia,8,J Intan,S Tippoch,Ainna Hamizah Hashim,,0,0,0,,,,31015231015
+2,Malaysia,8,J Intan,S Tippoch,Ainna Hamizah Hashim,,0,0,0,,,,31015231015
+2,Malaysia,8,J Intan,S Tippoch,Ainna Hamizah Hashim,legbyes,1,1,0,,,,31015231015
+2,Malaysia,9,J Intan,S Laomi,Ainna Hamizah Hashim,,0,1,1,,,,31015231015
+2,Malaysia,9,Ainna Hamizah Hashim,S Laomi,J Intan,,0,0,0,,,,31015231015
+2,Malaysia,9,Ainna Hamizah Hashim,S Laomi,J Intan,,0,0,0,,,,31015231015
+2,Malaysia,9,Ainna Hamizah Hashim,S Laomi,J Intan,,0,0,0,,,,31015231015
+2,Malaysia,9,Ainna Hamizah Hashim,S Laomi,J Intan,,0,0,0,,,,31015231015
+2,Malaysia,9,Ainna Hamizah Hashim,S Laomi,J Intan,,0,0,0,,,,31015231015
+2,Malaysia,10,J Intan,N Boochatham,Ainna Hamizah Hashim,,0,0,0,,,,31015231015
+2,Malaysia,10,J Intan,N Boochatham,Ainna Hamizah Hashim,,0,1,1,,,,31015231015
+2,Malaysia,10,Ainna Hamizah Hashim,N Boochatham,J Intan,,0,0,0,,,,31015231015
+2,Malaysia,10,Ainna Hamizah Hashim,N Boochatham,J Intan,,0,0,0,,,,31015231015
+2,Malaysia,10,Ainna Hamizah Hashim,N Boochatham,J Intan,,0,0,0,,,,31015231015
+2,Malaysia,10,Ainna Hamizah Hashim,N Boochatham,J Intan,,0,0,0,,,,31015231015
+2,Malaysia,11,J Intan,S Laomi,Ainna Hamizah Hashim,legbyes,1,1,0,,,,31015231015
+2,Malaysia,11,Ainna Hamizah Hashim,S Laomi,J Intan,,0,0,0,,,,31015231015
+2,Malaysia,11,Ainna Hamizah Hashim,S Laomi,J Intan,,0,1,1,,,,31015231015
+2,Malaysia,11,J Intan,S Laomi,Ainna Hamizah Hashim,,0,0,0,,,,31015231015
+2,Malaysia,11,J Intan,S Laomi,Ainna Hamizah Hashim,,0,0,0,bowled,J Intan,,31015231015
+2,Malaysia,11,Nur Arianna Natsya,S Laomi,Ainna Hamizah Hashim,,0,0,0,,,,31015231015
+2,Malaysia,12,Ainna Hamizah Hashim,O Kamchomphu,Nur Arianna Natsya,,0,0,0,,,,31015231015
+2,Malaysia,12,Ainna Hamizah Hashim,O Kamchomphu,Nur Arianna Natsya,,0,0,0,,,,31015231015
+2,Malaysia,12,Ainna Hamizah Hashim,O Kamchomphu,Nur Arianna Natsya,,0,0,0,,,,31015231015
+2,Malaysia,12,Ainna Hamizah Hashim,O Kamchomphu,Nur Arianna Natsya,,0,0,0,,,,31015231015
+2,Malaysia,12,Ainna Hamizah Hashim,O Kamchomphu,Nur Arianna Natsya,,0,0,0,,,,31015231015
+2,Malaysia,12,Ainna Hamizah Hashim,O Kamchomphu,Nur Arianna Natsya,,0,1,1,,,,31015231015
+2,Malaysia,13,Ainna Hamizah Hashim,S Laomi,Nur Arianna Natsya,,0,0,0,,,,31015231015
+2,Malaysia,13,Ainna Hamizah Hashim,S Laomi,Nur Arianna Natsya,,0,1,1,,,,31015231015
+2,Malaysia,13,Nur Arianna Natsya,S Laomi,Ainna Hamizah Hashim,,0,0,0,,,,31015231015
+2,Malaysia,13,Nur Arianna Natsya,S Laomi,Ainna Hamizah Hashim,,0,0,0,,,,31015231015
+2,Malaysia,13,Nur Arianna Natsya,S Laomi,Ainna Hamizah Hashim,,0,0,0,,,,31015231015
+2,Malaysia,13,Nur Arianna Natsya,S Laomi,Ainna Hamizah Hashim,,0,0,0,,,,31015231015
+2,Malaysia,14,Ainna Hamizah Hashim,O Kamchomphu,Nur Arianna Natsya,,0,0,0,,,,31015231015
+2,Malaysia,14,Ainna Hamizah Hashim,O Kamchomphu,Nur Arianna Natsya,,0,0,0,,,,31015231015
+2,Malaysia,14,Ainna Hamizah Hashim,O Kamchomphu,Nur Arianna Natsya,,0,0,0,,,,31015231015
+2,Malaysia,14,Ainna Hamizah Hashim,O Kamchomphu,Nur Arianna Natsya,,0,1,1,,,,31015231015
+2,Malaysia,14,Nur Arianna Natsya,O Kamchomphu,Ainna Hamizah Hashim,,0,0,0,stumped,Nur Arianna Natsya,N Koncharoenkai,31015231015
+2,Malaysia,14,Wan Nor Zulaika,O Kamchomphu,Ainna Hamizah Hashim,,0,0,0,,,,31015231015
+2,Malaysia,15,Ainna Hamizah Hashim,S Tippoch,Wan Nor Zulaika,,0,0,0,,,,31015231015
+2,Malaysia,15,Ainna Hamizah Hashim,S Tippoch,Wan Nor Zulaika,,0,0,0,,,,31015231015
+2,Malaysia,15,Ainna Hamizah Hashim,S Tippoch,Wan Nor Zulaika,,0,1,1,,,,31015231015
+2,Malaysia,15,Wan Nor Zulaika,S Tippoch,Ainna Hamizah Hashim,,0,0,0,,,,31015231015
+2,Malaysia,15,Wan Nor Zulaika,S Tippoch,Ainna Hamizah Hashim,,0,0,0,,,,31015231015
+2,Malaysia,15,Wan Nor Zulaika,S Tippoch,Ainna Hamizah Hashim,,0,0,0,lbw,Wan Nor Zulaika,,31015231015

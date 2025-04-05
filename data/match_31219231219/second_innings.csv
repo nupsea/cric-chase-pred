@@ -1,0 +1,121 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Netherlands,0,SL Kalis,KE Bryce,D Hannema,,0,0,0,,,,31219231219
+2,Netherlands,0,SL Kalis,KE Bryce,D Hannema,,0,0,0,,,,31219231219
+2,Netherlands,0,SL Kalis,KE Bryce,D Hannema,,0,1,1,,,,31219231219
+2,Netherlands,0,D Hannema,KE Bryce,SL Kalis,,0,0,0,,,,31219231219
+2,Netherlands,0,D Hannema,KE Bryce,SL Kalis,,0,0,0,,,,31219231219
+2,Netherlands,0,D Hannema,KE Bryce,SL Kalis,,0,0,0,,,,31219231219
+2,Netherlands,1,SL Kalis,RV Scholes,D Hannema,,0,0,0,,,,31219231219
+2,Netherlands,1,SL Kalis,RV Scholes,D Hannema,,0,0,0,,,,31219231219
+2,Netherlands,1,SL Kalis,RV Scholes,D Hannema,,0,0,0,,,,31219231219
+2,Netherlands,1,SL Kalis,RV Scholes,D Hannema,,0,1,1,,,,31219231219
+2,Netherlands,1,D Hannema,RV Scholes,SL Kalis,,0,1,1,,,,31219231219
+2,Netherlands,1,SL Kalis,RV Scholes,D Hannema,,0,1,1,,,,31219231219
+2,Netherlands,2,SL Kalis,KE Bryce,D Hannema,,0,1,1,,,,31219231219
+2,Netherlands,2,D Hannema,KE Bryce,SL Kalis,,0,0,0,,,,31219231219
+2,Netherlands,2,D Hannema,KE Bryce,SL Kalis,,0,0,0,,,,31219231219
+2,Netherlands,2,D Hannema,KE Bryce,SL Kalis,,0,0,0,caught,D Hannema,SJ Bryce,31219231219
+2,Netherlands,2,SL Kalis,KE Bryce,B de Leede,,0,0,0,,,,31219231219
+2,Netherlands,2,SL Kalis,KE Bryce,B de Leede,,0,0,0,,,,31219231219
+2,Netherlands,3,B de Leede,RV Scholes,SL Kalis,,0,1,1,,,,31219231219
+2,Netherlands,3,SL Kalis,RV Scholes,B de Leede,wides,1,1,0,,,,31219231219
+2,Netherlands,3,SL Kalis,RV Scholes,B de Leede,,0,0,0,,,,31219231219
+2,Netherlands,3,SL Kalis,RV Scholes,B de Leede,,0,0,0,,,,31219231219
+2,Netherlands,3,SL Kalis,RV Scholes,B de Leede,,0,0,0,,,,31219231219
+2,Netherlands,3,SL Kalis,RV Scholes,B de Leede,,0,1,1,,,,31219231219
+2,Netherlands,3,B de Leede,RV Scholes,SL Kalis,,0,0,0,,,,31219231219
+2,Netherlands,4,SL Kalis,KE Bryce,B de Leede,,0,0,0,,,,31219231219
+2,Netherlands,4,SL Kalis,KE Bryce,B de Leede,,0,0,0,,,,31219231219
+2,Netherlands,4,SL Kalis,KE Bryce,B de Leede,,0,0,0,,,,31219231219
+2,Netherlands,4,SL Kalis,KE Bryce,B de Leede,,0,1,1,,,,31219231219
+2,Netherlands,4,B de Leede,KE Bryce,SL Kalis,,0,0,0,,,,31219231219
+2,Netherlands,4,B de Leede,KE Bryce,SL Kalis,,0,0,0,,,,31219231219
+2,Netherlands,5,SL Kalis,K Fraser,B de Leede,,0,0,0,caught,SL Kalis,PA Chatterji,31219231219
+2,Netherlands,5,HDJ Siegers,K Fraser,B de Leede,,0,0,0,stumped,HDJ Siegers,SJ Bryce,31219231219
+2,Netherlands,5,M Veringmeier,K Fraser,B de Leede,,0,1,1,,,,31219231219
+2,Netherlands,5,B de Leede,K Fraser,M Veringmeier,,0,1,1,,,,31219231219
+2,Netherlands,5,M Veringmeier,K Fraser,B de Leede,,0,1,1,,,,31219231219
+2,Netherlands,5,B de Leede,K Fraser,M Veringmeier,,0,1,1,,,,31219231219
+2,Netherlands,6,B de Leede,AH Maqsood,M Veringmeier,,0,1,1,,,,31219231219
+2,Netherlands,6,M Veringmeier,AH Maqsood,B de Leede,,0,0,0,,,,31219231219
+2,Netherlands,6,M Veringmeier,AH Maqsood,B de Leede,,0,1,1,,,,31219231219
+2,Netherlands,6,B de Leede,AH Maqsood,M Veringmeier,,0,0,0,,,,31219231219
+2,Netherlands,6,B de Leede,AH Maqsood,M Veringmeier,,0,1,1,,,,31219231219
+2,Netherlands,6,M Veringmeier,AH Maqsood,B de Leede,,0,1,1,,,,31219231219
+2,Netherlands,7,M Veringmeier,K Fraser,B de Leede,,0,1,1,,,,31219231219
+2,Netherlands,7,B de Leede,K Fraser,M Veringmeier,,0,1,1,,,,31219231219
+2,Netherlands,7,M Veringmeier,K Fraser,B de Leede,,0,1,1,,,,31219231219
+2,Netherlands,7,B de Leede,K Fraser,M Veringmeier,,0,1,1,,,,31219231219
+2,Netherlands,7,M Veringmeier,K Fraser,B de Leede,,0,4,4,,,,31219231219
+2,Netherlands,7,M Veringmeier,K Fraser,B de Leede,,0,1,1,,,,31219231219
+2,Netherlands,8,M Veringmeier,AH Maqsood,B de Leede,,0,4,4,,,,31219231219
+2,Netherlands,8,M Veringmeier,AH Maqsood,B de Leede,,0,1,1,,,,31219231219
+2,Netherlands,8,B de Leede,AH Maqsood,M Veringmeier,,0,0,0,stumped,B de Leede,SJ Bryce,31219231219
+2,Netherlands,8,R Rijke,AH Maqsood,M Veringmeier,,0,1,1,,,,31219231219
+2,Netherlands,8,M Veringmeier,AH Maqsood,R Rijke,,0,2,2,,,,31219231219
+2,Netherlands,8,M Veringmeier,AH Maqsood,R Rijke,,0,0,0,,,,31219231219
+2,Netherlands,9,R Rijke,K Fraser,M Veringmeier,,0,1,1,,,,31219231219
+2,Netherlands,9,M Veringmeier,K Fraser,R Rijke,,0,1,1,,,,31219231219
+2,Netherlands,9,R Rijke,K Fraser,M Veringmeier,,0,0,0,,,,31219231219
+2,Netherlands,9,R Rijke,K Fraser,M Veringmeier,,0,0,0,,,,31219231219
+2,Netherlands,9,R Rijke,K Fraser,M Veringmeier,,0,1,1,,,,31219231219
+2,Netherlands,9,M Veringmeier,K Fraser,R Rijke,,0,1,1,,,,31219231219
+2,Netherlands,10,M Veringmeier,AH Maqsood,R Rijke,,0,2,2,,,,31219231219
+2,Netherlands,10,M Veringmeier,AH Maqsood,R Rijke,,0,6,6,,,,31219231219
+2,Netherlands,10,M Veringmeier,AH Maqsood,R Rijke,,0,1,1,,,,31219231219
+2,Netherlands,10,R Rijke,AH Maqsood,M Veringmeier,,0,0,0,,,,31219231219
+2,Netherlands,10,R Rijke,AH Maqsood,M Veringmeier,,0,4,4,,,,31219231219
+2,Netherlands,10,R Rijke,AH Maqsood,M Veringmeier,,0,0,0,,,,31219231219
+2,Netherlands,11,M Veringmeier,K Fraser,R Rijke,,0,0,0,,,,31219231219
+2,Netherlands,11,M Veringmeier,K Fraser,R Rijke,,0,0,0,,,,31219231219
+2,Netherlands,11,M Veringmeier,K Fraser,R Rijke,,0,1,1,,,,31219231219
+2,Netherlands,11,R Rijke,K Fraser,M Veringmeier,,0,0,0,,,,31219231219
+2,Netherlands,11,R Rijke,K Fraser,M Veringmeier,,0,1,1,,,,31219231219
+2,Netherlands,11,M Veringmeier,K Fraser,R Rijke,,0,1,1,,,,31219231219
+2,Netherlands,12,M Veringmeier,HRA Rainey,R Rijke,,0,4,4,,,,31219231219
+2,Netherlands,12,M Veringmeier,HRA Rainey,R Rijke,,0,2,2,,,,31219231219
+2,Netherlands,12,M Veringmeier,HRA Rainey,R Rijke,,0,1,1,,,,31219231219
+2,Netherlands,12,R Rijke,HRA Rainey,M Veringmeier,,0,1,1,,,,31219231219
+2,Netherlands,12,M Veringmeier,HRA Rainey,R Rijke,,0,1,1,,,,31219231219
+2,Netherlands,12,R Rijke,HRA Rainey,M Veringmeier,,0,0,0,,,,31219231219
+2,Netherlands,13,M Veringmeier,RV Scholes,R Rijke,,0,1,1,,,,31219231219
+2,Netherlands,13,R Rijke,RV Scholes,M Veringmeier,,0,1,1,,,,31219231219
+2,Netherlands,13,M Veringmeier,RV Scholes,R Rijke,,0,1,1,,,,31219231219
+2,Netherlands,13,R Rijke,RV Scholes,M Veringmeier,,0,2,2,,,,31219231219
+2,Netherlands,13,R Rijke,RV Scholes,M Veringmeier,,0,1,1,,,,31219231219
+2,Netherlands,13,M Veringmeier,RV Scholes,R Rijke,,0,1,1,,,,31219231219
+2,Netherlands,14,M Veringmeier,PA Chatterji,R Rijke,,0,1,1,,,,31219231219
+2,Netherlands,14,R Rijke,PA Chatterji,M Veringmeier,,0,0,0,,,,31219231219
+2,Netherlands,14,R Rijke,PA Chatterji,M Veringmeier,,0,1,1,,,,31219231219
+2,Netherlands,14,M Veringmeier,PA Chatterji,R Rijke,,0,1,1,,,,31219231219
+2,Netherlands,14,R Rijke,PA Chatterji,M Veringmeier,,0,4,4,,,,31219231219
+2,Netherlands,14,R Rijke,PA Chatterji,M Veringmeier,,0,0,0,,,,31219231219
+2,Netherlands,15,M Veringmeier,RV Scholes,R Rijke,,0,1,1,,,,31219231219
+2,Netherlands,15,R Rijke,RV Scholes,M Veringmeier,,0,1,1,,,,31219231219
+2,Netherlands,15,M Veringmeier,RV Scholes,R Rijke,,0,0,0,caught,M Veringmeier,KE Bryce,31219231219
+2,Netherlands,15,R Rijke,RV Scholes,J Post,,0,0,0,stumped,R Rijke,SJ Bryce,31219231219
+2,Netherlands,15,IJR Zwilling,RV Scholes,J Post,,0,0,0,,,,31219231219
+2,Netherlands,15,IJR Zwilling,RV Scholes,J Post,,0,1,1,,,,31219231219
+2,Netherlands,16,IJR Zwilling,PA Chatterji,J Post,,0,4,4,,,,31219231219
+2,Netherlands,16,IJR Zwilling,PA Chatterji,J Post,,0,0,0,,,,31219231219
+2,Netherlands,16,IJR Zwilling,PA Chatterji,J Post,,0,1,1,,,,31219231219
+2,Netherlands,16,J Post,PA Chatterji,IJR Zwilling,,0,0,0,run out,IJR Zwilling,,31219231219
+2,Netherlands,16,J Post,PA Chatterji,EN Lynch,,0,1,1,,,,31219231219
+2,Netherlands,16,EN Lynch,PA Chatterji,J Post,,0,1,1,,,,31219231219
+2,Netherlands,17,EN Lynch,KE Bryce,J Post,,0,0,0,,,,31219231219
+2,Netherlands,17,EN Lynch,KE Bryce,J Post,,0,0,0,,,,31219231219
+2,Netherlands,17,EN Lynch,KE Bryce,J Post,,0,0,0,,,,31219231219
+2,Netherlands,17,EN Lynch,KE Bryce,J Post,,0,2,2,,,,31219231219
+2,Netherlands,17,EN Lynch,KE Bryce,J Post,,0,4,4,,,,31219231219
+2,Netherlands,17,EN Lynch,KE Bryce,J Post,,0,0,0,,,,31219231219
+2,Netherlands,18,J Post,AH Maqsood,EN Lynch,,0,0,0,,,,31219231219
+2,Netherlands,18,J Post,AH Maqsood,EN Lynch,,0,0,0,stumped,J Post,SJ Bryce,31219231219
+2,Netherlands,18,S Siegers,AH Maqsood,EN Lynch,,0,0,0,,,,31219231219
+2,Netherlands,18,S Siegers,AH Maqsood,EN Lynch,,0,2,2,,,,31219231219
+2,Netherlands,18,S Siegers,AH Maqsood,EN Lynch,,0,0,0,caught,S Siegers,K Fraser,31219231219
+2,Netherlands,18,C de Lange,AH Maqsood,EN Lynch,,0,0,0,,,,31219231219
+2,Netherlands,19,EN Lynch,PA Chatterji,C de Lange,wides,1,1,0,,,,31219231219
+2,Netherlands,19,EN Lynch,PA Chatterji,C de Lange,,0,0,0,,,,31219231219
+2,Netherlands,19,EN Lynch,PA Chatterji,C de Lange,,0,0,0,,,,31219231219
+2,Netherlands,19,EN Lynch,PA Chatterji,C de Lange,,0,1,1,,,,31219231219
+2,Netherlands,19,C de Lange,PA Chatterji,EN Lynch,,0,0,0,bowled,C de Lange,,31219231219

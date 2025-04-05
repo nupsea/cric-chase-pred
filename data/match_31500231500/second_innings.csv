@@ -1,0 +1,110 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Netherlands,0,MP O'Dowd,Sompal Kami,TP Visee,,0,0,0,,,,31500231500
+2,Netherlands,0,MP O'Dowd,Sompal Kami,TP Visee,,0,1,1,,,,31500231500
+2,Netherlands,0,TP Visee,Sompal Kami,MP O'Dowd,,0,0,0,,,,31500231500
+2,Netherlands,0,TP Visee,Sompal Kami,MP O'Dowd,,0,1,1,,,,31500231500
+2,Netherlands,0,MP O'Dowd,Sompal Kami,TP Visee,,0,0,0,,,,31500231500
+2,Netherlands,0,MP O'Dowd,Sompal Kami,TP Visee,wides,1,1,0,,,,31500231500
+2,Netherlands,0,MP O'Dowd,Sompal Kami,TP Visee,,0,0,0,,,,31500231500
+2,Netherlands,1,TP Visee,KS Airee,MP O'Dowd,,0,0,0,,,,31500231500
+2,Netherlands,1,TP Visee,KS Airee,MP O'Dowd,,0,0,0,,,,31500231500
+2,Netherlands,1,TP Visee,KS Airee,MP O'Dowd,,0,1,1,,,,31500231500
+2,Netherlands,1,MP O'Dowd,KS Airee,TP Visee,,0,6,6,,,,31500231500
+2,Netherlands,1,MP O'Dowd,KS Airee,TP Visee,,0,0,0,run out,TP Visee,,31500231500
+2,Netherlands,1,BN Cooper,KS Airee,MP O'Dowd,wides,1,1,0,,,,31500231500
+2,Netherlands,1,BN Cooper,KS Airee,MP O'Dowd,,0,0,0,,,,31500231500
+2,Netherlands,2,MP O'Dowd,Sompal Kami,BN Cooper,,0,2,2,,,,31500231500
+2,Netherlands,2,MP O'Dowd,Sompal Kami,BN Cooper,,0,0,0,,,,31500231500
+2,Netherlands,2,MP O'Dowd,Sompal Kami,BN Cooper,,0,0,0,,,,31500231500
+2,Netherlands,2,MP O'Dowd,Sompal Kami,BN Cooper,,0,0,0,,,,31500231500
+2,Netherlands,2,MP O'Dowd,Sompal Kami,BN Cooper,,0,0,0,,,,31500231500
+2,Netherlands,2,MP O'Dowd,Sompal Kami,BN Cooper,,0,4,4,,,,31500231500
+2,Netherlands,3,BN Cooper,KS Airee,MP O'Dowd,,0,4,4,,,,31500231500
+2,Netherlands,3,BN Cooper,KS Airee,MP O'Dowd,,0,1,1,,,,31500231500
+2,Netherlands,3,MP O'Dowd,KS Airee,BN Cooper,,0,2,2,,,,31500231500
+2,Netherlands,3,MP O'Dowd,KS Airee,BN Cooper,,0,1,1,,,,31500231500
+2,Netherlands,3,BN Cooper,KS Airee,MP O'Dowd,,0,2,2,,,,31500231500
+2,Netherlands,3,BN Cooper,KS Airee,MP O'Dowd,,0,0,0,caught,BN Cooper,G Malla,31500231500
+2,Netherlands,4,BFW de Leede,Sompal Kami,MP O'Dowd,,0,0,0,,,,31500231500
+2,Netherlands,4,BFW de Leede,Sompal Kami,MP O'Dowd,,0,0,0,,,,31500231500
+2,Netherlands,4,BFW de Leede,Sompal Kami,MP O'Dowd,,0,1,1,,,,31500231500
+2,Netherlands,4,MP O'Dowd,Sompal Kami,BFW de Leede,,0,4,4,,,,31500231500
+2,Netherlands,4,MP O'Dowd,Sompal Kami,BFW de Leede,wides,1,1,0,,,,31500231500
+2,Netherlands,4,MP O'Dowd,Sompal Kami,BFW de Leede,,0,0,0,run out,BFW de Leede,,31500231500
+2,Netherlands,4,PM Seelaar,Sompal Kami,MP O'Dowd,,0,1,1,,,,31500231500
+2,Netherlands,5,PM Seelaar,Karan KC,MP O'Dowd,,0,1,1,,,,31500231500
+2,Netherlands,5,MP O'Dowd,Karan KC,PM Seelaar,,0,0,0,,,,31500231500
+2,Netherlands,5,MP O'Dowd,Karan KC,PM Seelaar,wides,1,1,0,,,,31500231500
+2,Netherlands,5,MP O'Dowd,Karan KC,PM Seelaar,,0,0,0,,,,31500231500
+2,Netherlands,5,MP O'Dowd,Karan KC,PM Seelaar,,0,0,0,bowled,MP O'Dowd,,31500231500
+2,Netherlands,5,SA Edwards,Karan KC,PM Seelaar,,0,0,0,,,,31500231500
+2,Netherlands,5,SA Edwards,Karan KC,PM Seelaar,,0,1,1,,,,31500231500
+2,Netherlands,6,SA Edwards,S Lamichhane,PM Seelaar,,0,0,0,,,,31500231500
+2,Netherlands,6,SA Edwards,S Lamichhane,PM Seelaar,,0,0,0,,,,31500231500
+2,Netherlands,6,SA Edwards,S Lamichhane,PM Seelaar,,0,4,4,,,,31500231500
+2,Netherlands,6,SA Edwards,S Lamichhane,PM Seelaar,,0,0,0,lbw,SA Edwards,,31500231500
+2,Netherlands,6,AJ Staal,S Lamichhane,PM Seelaar,,0,0,0,,,,31500231500
+2,Netherlands,6,AJ Staal,S Lamichhane,PM Seelaar,,0,0,0,,,,31500231500
+2,Netherlands,7,PM Seelaar,Karan KC,AJ Staal,,0,0,0,,,,31500231500
+2,Netherlands,7,PM Seelaar,Karan KC,AJ Staal,,0,0,0,,,,31500231500
+2,Netherlands,7,PM Seelaar,Karan KC,AJ Staal,,0,1,1,,,,31500231500
+2,Netherlands,7,AJ Staal,Karan KC,PM Seelaar,,0,0,0,caught,AJ Staal,Sompal Kami,31500231500
+2,Netherlands,7,TS Braat,Karan KC,PM Seelaar,,0,0,0,,,,31500231500
+2,Netherlands,7,TS Braat,Karan KC,PM Seelaar,noballs,1,1,0,,,,31500231500
+2,Netherlands,7,TS Braat,Karan KC,PM Seelaar,,0,0,0,,,,31500231500
+2,Netherlands,8,PM Seelaar,S Lamichhane,TS Braat,,0,0,0,,,,31500231500
+2,Netherlands,8,PM Seelaar,S Lamichhane,TS Braat,,0,0,0,,,,31500231500
+2,Netherlands,8,PM Seelaar,S Lamichhane,TS Braat,,0,0,0,,,,31500231500
+2,Netherlands,8,PM Seelaar,S Lamichhane,TS Braat,,0,4,4,,,,31500231500
+2,Netherlands,8,PM Seelaar,S Lamichhane,TS Braat,,0,2,2,,,,31500231500
+2,Netherlands,8,PM Seelaar,S Lamichhane,TS Braat,,0,4,4,,,,31500231500
+2,Netherlands,9,TS Braat,Karan KC,PM Seelaar,,0,1,1,,,,31500231500
+2,Netherlands,9,PM Seelaar,Karan KC,TS Braat,,0,0,0,bowled,PM Seelaar,,31500231500
+2,Netherlands,9,PRP Boissevain,Karan KC,TS Braat,,0,1,1,,,,31500231500
+2,Netherlands,9,TS Braat,Karan KC,PRP Boissevain,,0,0,0,,,,31500231500
+2,Netherlands,9,TS Braat,Karan KC,PRP Boissevain,,0,0,0,,,,31500231500
+2,Netherlands,9,TS Braat,Karan KC,PRP Boissevain,,0,4,4,,,,31500231500
+2,Netherlands,10,PRP Boissevain,S Lamichhane,TS Braat,,0,0,0,,,,31500231500
+2,Netherlands,10,PRP Boissevain,S Lamichhane,TS Braat,,0,0,0,,,,31500231500
+2,Netherlands,10,PRP Boissevain,S Lamichhane,TS Braat,,0,0,0,,,,31500231500
+2,Netherlands,10,PRP Boissevain,S Lamichhane,TS Braat,,0,0,0,,,,31500231500
+2,Netherlands,10,PRP Boissevain,S Lamichhane,TS Braat,,0,1,1,,,,31500231500
+2,Netherlands,10,TS Braat,S Lamichhane,PRP Boissevain,,0,0,0,,,,31500231500
+2,Netherlands,11,PRP Boissevain,A Bohara,TS Braat,,0,0,0,,,,31500231500
+2,Netherlands,11,PRP Boissevain,A Bohara,TS Braat,,0,0,0,,,,31500231500
+2,Netherlands,11,PRP Boissevain,A Bohara,TS Braat,,0,0,0,,,,31500231500
+2,Netherlands,11,PRP Boissevain,A Bohara,TS Braat,,0,0,0,,,,31500231500
+2,Netherlands,11,PRP Boissevain,A Bohara,TS Braat,,0,5,5,,,,31500231500
+2,Netherlands,11,TS Braat,A Bohara,PRP Boissevain,,0,1,1,,,,31500231500
+2,Netherlands,12,TS Braat,S Lamichhane,PRP Boissevain,,0,0,0,,,,31500231500
+2,Netherlands,12,TS Braat,S Lamichhane,PRP Boissevain,,0,4,4,,,,31500231500
+2,Netherlands,12,TS Braat,S Lamichhane,PRP Boissevain,,0,1,1,,,,31500231500
+2,Netherlands,12,PRP Boissevain,S Lamichhane,TS Braat,,0,0,0,caught,PRP Boissevain,S Jora,31500231500
+2,Netherlands,12,TS Braat,S Lamichhane,PA van Meekeren,,0,6,6,,,,31500231500
+2,Netherlands,12,TS Braat,S Lamichhane,PA van Meekeren,,0,0,0,,,,31500231500
+2,Netherlands,13,PA van Meekeren,A Bohara,TS Braat,,0,4,4,,,,31500231500
+2,Netherlands,13,PA van Meekeren,A Bohara,TS Braat,,0,1,1,,,,31500231500
+2,Netherlands,13,TS Braat,A Bohara,PA van Meekeren,,0,0,0,,,,31500231500
+2,Netherlands,13,TS Braat,A Bohara,PA van Meekeren,,0,4,4,,,,31500231500
+2,Netherlands,13,TS Braat,A Bohara,PA van Meekeren,,0,1,1,,,,31500231500
+2,Netherlands,13,PA van Meekeren,A Bohara,TS Braat,,0,0,0,,,,31500231500
+2,Netherlands,14,TS Braat,KS Airee,PA van Meekeren,,0,1,1,,,,31500231500
+2,Netherlands,14,PA van Meekeren,KS Airee,TS Braat,,0,0,0,caught,PA van Meekeren,Kushal Malla,31500231500
+2,Netherlands,14,TS Braat,KS Airee,VJ Kingma,,0,0,0,,,,31500231500
+2,Netherlands,14,TS Braat,KS Airee,VJ Kingma,,0,0,0,,,,31500231500
+2,Netherlands,14,TS Braat,KS Airee,VJ Kingma,,0,0,0,,,,31500231500
+2,Netherlands,14,TS Braat,KS Airee,VJ Kingma,,0,0,0,,,,31500231500
+2,Netherlands,15,VJ Kingma,A Bohara,TS Braat,,0,0,0,,,,31500231500
+2,Netherlands,15,VJ Kingma,A Bohara,TS Braat,,0,2,2,,,,31500231500
+2,Netherlands,15,VJ Kingma,A Bohara,TS Braat,,0,0,0,,,,31500231500
+2,Netherlands,15,VJ Kingma,A Bohara,TS Braat,,0,1,1,,,,31500231500
+2,Netherlands,15,TS Braat,A Bohara,VJ Kingma,,0,0,0,,,,31500231500
+2,Netherlands,15,TS Braat,A Bohara,VJ Kingma,,0,0,0,,,,31500231500
+2,Netherlands,16,VJ Kingma,KS Airee,TS Braat,legbyes,1,1,0,,,,31500231500
+2,Netherlands,16,TS Braat,KS Airee,VJ Kingma,,0,1,1,,,,31500231500
+2,Netherlands,16,VJ Kingma,KS Airee,TS Braat,,0,0,0,,,,31500231500
+2,Netherlands,16,VJ Kingma,KS Airee,TS Braat,,0,1,1,,,,31500231500
+2,Netherlands,16,TS Braat,KS Airee,VJ Kingma,,0,1,1,,,,31500231500
+2,Netherlands,16,VJ Kingma,KS Airee,TS Braat,,0,0,0,,,,31500231500
+2,Netherlands,17,TS Braat,A Bohara,VJ Kingma,,0,1,1,,,,31500231500
+2,Netherlands,17,VJ Kingma,A Bohara,TS Braat,,0,0,0,bowled,VJ Kingma,,31500231500

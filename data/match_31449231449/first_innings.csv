@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,JN Malan,Shaheen Shah Afridi,RR Hendricks,,0,2,2,,,,31449231449
+1,South Africa,0,JN Malan,Shaheen Shah Afridi,RR Hendricks,,0,0,0,,,,31449231449
+1,South Africa,0,JN Malan,Shaheen Shah Afridi,RR Hendricks,,0,4,4,,,,31449231449
+1,South Africa,0,JN Malan,Shaheen Shah Afridi,RR Hendricks,,0,1,1,,,,31449231449
+1,South Africa,0,RR Hendricks,Shaheen Shah Afridi,JN Malan,,0,0,0,,,,31449231449
+1,South Africa,0,RR Hendricks,Shaheen Shah Afridi,JN Malan,,0,1,1,,,,31449231449
+1,South Africa,1,RR Hendricks,Mohammad Nawaz (3),JN Malan,,0,0,0,,,,31449231449
+1,South Africa,1,RR Hendricks,Mohammad Nawaz (3),JN Malan,,0,1,1,,,,31449231449
+1,South Africa,1,JN Malan,Mohammad Nawaz (3),RR Hendricks,,0,0,0,,,,31449231449
+1,South Africa,1,JN Malan,Mohammad Nawaz (3),RR Hendricks,,0,1,1,,,,31449231449
+1,South Africa,1,RR Hendricks,Mohammad Nawaz (3),JN Malan,,0,0,0,bowled,RR Hendricks,,31449231449
+1,South Africa,1,JT Smuts,Mohammad Nawaz (3),JN Malan,,0,0,0,,,,31449231449
+1,South Africa,2,JN Malan,Shaheen Shah Afridi,JT Smuts,,0,1,1,,,,31449231449
+1,South Africa,2,JT Smuts,Shaheen Shah Afridi,JN Malan,,0,0,0,,,,31449231449
+1,South Africa,2,JT Smuts,Shaheen Shah Afridi,JN Malan,,0,0,0,,,,31449231449
+1,South Africa,2,JT Smuts,Shaheen Shah Afridi,JN Malan,,0,1,1,,,,31449231449
+1,South Africa,2,JN Malan,Shaheen Shah Afridi,JT Smuts,,0,0,0,,,,31449231449
+1,South Africa,2,JN Malan,Shaheen Shah Afridi,JT Smuts,,0,1,1,,,,31449231449
+1,South Africa,3,JN Malan,Mohammad Nawaz (3),JT Smuts,,0,4,4,,,,31449231449
+1,South Africa,3,JN Malan,Mohammad Nawaz (3),JT Smuts,,0,0,0,,,,31449231449
+1,South Africa,3,JN Malan,Mohammad Nawaz (3),JT Smuts,,0,6,6,,,,31449231449
+1,South Africa,3,JN Malan,Mohammad Nawaz (3),JT Smuts,,0,1,1,,,,31449231449
+1,South Africa,3,JT Smuts,Mohammad Nawaz (3),JN Malan,,0,0,0,,,,31449231449
+1,South Africa,3,JT Smuts,Mohammad Nawaz (3),JN Malan,,0,0,0,caught,JT Smuts,Babar Azam,31449231449
+1,South Africa,4,PJ van Biljon,Faheem Ashraf,JN Malan,,0,0,0,,,,31449231449
+1,South Africa,4,PJ van Biljon,Faheem Ashraf,JN Malan,,0,0,0,,,,31449231449
+1,South Africa,4,PJ van Biljon,Faheem Ashraf,JN Malan,,0,0,0,,,,31449231449
+1,South Africa,4,PJ van Biljon,Faheem Ashraf,JN Malan,,0,0,0,,,,31449231449
+1,South Africa,4,PJ van Biljon,Faheem Ashraf,JN Malan,,0,4,4,,,,31449231449
+1,South Africa,4,PJ van Biljon,Faheem Ashraf,JN Malan,,0,0,0,,,,31449231449
+1,South Africa,5,JN Malan,Hasan Ali,PJ van Biljon,,0,1,1,,,,31449231449
+1,South Africa,5,PJ van Biljon,Hasan Ali,JN Malan,,0,0,0,,,,31449231449
+1,South Africa,5,PJ van Biljon,Hasan Ali,JN Malan,,0,4,4,,,,31449231449
+1,South Africa,5,PJ van Biljon,Hasan Ali,JN Malan,,0,4,4,,,,31449231449
+1,South Africa,5,PJ van Biljon,Hasan Ali,JN Malan,,0,4,4,,,,31449231449
+1,South Africa,5,PJ van Biljon,Hasan Ali,JN Malan,,0,0,0,bowled,PJ van Biljon,,31449231449
+1,South Africa,6,JN Malan,Zahid Mahmood,H Klaasen,,0,4,4,,,,31449231449
+1,South Africa,6,JN Malan,Zahid Mahmood,H Klaasen,,0,1,1,,,,31449231449
+1,South Africa,6,H Klaasen,Zahid Mahmood,JN Malan,,0,0,0,caught,H Klaasen,Usman Qadir,31449231449
+1,South Africa,6,JN Malan,Zahid Mahmood,DA Miller,,0,0,0,lbw,JN Malan,,31449231449
+1,South Africa,6,AL Phehlukwayo,Zahid Mahmood,DA Miller,wides,1,1,0,,,,31449231449
+1,South Africa,6,AL Phehlukwayo,Zahid Mahmood,DA Miller,,0,0,0,,,,31449231449
+1,South Africa,6,AL Phehlukwayo,Zahid Mahmood,DA Miller,,0,0,0,,,,31449231449
+1,South Africa,7,DA Miller,Usman Qadir,AL Phehlukwayo,,0,1,1,,,,31449231449
+1,South Africa,7,AL Phehlukwayo,Usman Qadir,DA Miller,,0,0,0,caught,AL Phehlukwayo,Asif Ali,31449231449
+1,South Africa,7,D Pretorius,Usman Qadir,DA Miller,,0,0,0,,,,31449231449
+1,South Africa,7,D Pretorius,Usman Qadir,DA Miller,,0,0,0,,,,31449231449
+1,South Africa,7,D Pretorius,Usman Qadir,DA Miller,,0,0,0,,,,31449231449
+1,South Africa,7,D Pretorius,Usman Qadir,DA Miller,,0,1,1,,,,31449231449
+1,South Africa,8,D Pretorius,Zahid Mahmood,DA Miller,,0,1,1,,,,31449231449
+1,South Africa,8,DA Miller,Zahid Mahmood,D Pretorius,,0,0,0,,,,31449231449
+1,South Africa,8,DA Miller,Zahid Mahmood,D Pretorius,,0,1,1,,,,31449231449
+1,South Africa,8,D Pretorius,Zahid Mahmood,DA Miller,,0,0,0,,,,31449231449
+1,South Africa,8,D Pretorius,Zahid Mahmood,DA Miller,,0,0,0,,,,31449231449
+1,South Africa,8,D Pretorius,Zahid Mahmood,DA Miller,,0,6,6,,,,31449231449
+1,South Africa,9,DA Miller,Usman Qadir,D Pretorius,,0,4,4,,,,31449231449
+1,South Africa,9,DA Miller,Usman Qadir,D Pretorius,,0,0,0,,,,31449231449
+1,South Africa,9,DA Miller,Usman Qadir,D Pretorius,,0,0,0,,,,31449231449
+1,South Africa,9,DA Miller,Usman Qadir,D Pretorius,,0,0,0,,,,31449231449
+1,South Africa,9,DA Miller,Usman Qadir,D Pretorius,,0,0,0,,,,31449231449
+1,South Africa,9,DA Miller,Usman Qadir,D Pretorius,,0,0,0,,,,31449231449
+1,South Africa,10,D Pretorius,Zahid Mahmood,DA Miller,,0,1,1,,,,31449231449
+1,South Africa,10,DA Miller,Zahid Mahmood,D Pretorius,,0,2,2,,,,31449231449
+1,South Africa,10,DA Miller,Zahid Mahmood,D Pretorius,,0,1,1,,,,31449231449
+1,South Africa,10,D Pretorius,Zahid Mahmood,DA Miller,,0,0,0,bowled,D Pretorius,,31449231449
+1,South Africa,10,BC Fortuin,Zahid Mahmood,DA Miller,,0,4,4,,,,31449231449
+1,South Africa,10,BC Fortuin,Zahid Mahmood,DA Miller,,0,1,1,,,,31449231449
+1,South Africa,11,BC Fortuin,Usman Qadir,DA Miller,,0,0,0,,,,31449231449
+1,South Africa,11,BC Fortuin,Usman Qadir,DA Miller,,0,1,1,,,,31449231449
+1,South Africa,11,DA Miller,Usman Qadir,BC Fortuin,,0,4,4,,,,31449231449
+1,South Africa,11,DA Miller,Usman Qadir,BC Fortuin,,0,0,0,,,,31449231449
+1,South Africa,11,DA Miller,Usman Qadir,BC Fortuin,,0,0,0,,,,31449231449
+1,South Africa,11,DA Miller,Usman Qadir,BC Fortuin,,0,1,1,,,,31449231449
+1,South Africa,12,DA Miller,Zahid Mahmood,BC Fortuin,,0,6,6,,,,31449231449
+1,South Africa,12,DA Miller,Zahid Mahmood,BC Fortuin,,0,1,1,,,,31449231449
+1,South Africa,12,BC Fortuin,Zahid Mahmood,DA Miller,,0,1,1,,,,31449231449
+1,South Africa,12,DA Miller,Zahid Mahmood,BC Fortuin,,0,2,2,,,,31449231449
+1,South Africa,12,DA Miller,Zahid Mahmood,BC Fortuin,,0,6,6,,,,31449231449
+1,South Africa,12,DA Miller,Zahid Mahmood,BC Fortuin,,0,1,1,,,,31449231449
+1,South Africa,13,DA Miller,Hasan Ali,BC Fortuin,,0,2,2,,,,31449231449
+1,South Africa,13,DA Miller,Hasan Ali,BC Fortuin,legbyes,1,1,0,,,,31449231449
+1,South Africa,13,BC Fortuin,Hasan Ali,DA Miller,,0,0,0,,,,31449231449
+1,South Africa,13,BC Fortuin,Hasan Ali,DA Miller,,0,0,0,,,,31449231449
+1,South Africa,13,BC Fortuin,Hasan Ali,DA Miller,legbyes,1,1,0,,,,31449231449
+1,South Africa,13,DA Miller,Hasan Ali,BC Fortuin,,0,0,0,,,,31449231449
+1,South Africa,14,BC Fortuin,Faheem Ashraf,DA Miller,,0,1,1,,,,31449231449
+1,South Africa,14,DA Miller,Faheem Ashraf,BC Fortuin,,0,4,4,,,,31449231449
+1,South Africa,14,DA Miller,Faheem Ashraf,BC Fortuin,,0,1,1,,,,31449231449
+1,South Africa,14,BC Fortuin,Faheem Ashraf,DA Miller,,0,1,1,,,,31449231449
+1,South Africa,14,DA Miller,Faheem Ashraf,BC Fortuin,,0,1,1,,,,31449231449
+1,South Africa,14,BC Fortuin,Faheem Ashraf,DA Miller,,0,1,1,,,,31449231449
+1,South Africa,15,BC Fortuin,Hasan Ali,DA Miller,,0,0,0,bowled,BC Fortuin,,31449231449
+1,South Africa,15,L Sipamla,Hasan Ali,DA Miller,,0,1,1,,,,31449231449
+1,South Africa,15,DA Miller,Hasan Ali,L Sipamla,,0,1,1,,,,31449231449
+1,South Africa,15,L Sipamla,Hasan Ali,DA Miller,,0,1,1,,,,31449231449
+1,South Africa,15,DA Miller,Hasan Ali,L Sipamla,,0,1,1,,,,31449231449
+1,South Africa,15,L Sipamla,Hasan Ali,DA Miller,,0,0,0,,,,31449231449
+1,South Africa,16,DA Miller,Shaheen Shah Afridi,L Sipamla,,0,4,4,,,,31449231449
+1,South Africa,16,DA Miller,Shaheen Shah Afridi,L Sipamla,,0,4,4,,,,31449231449
+1,South Africa,16,DA Miller,Shaheen Shah Afridi,L Sipamla,,0,2,2,,,,31449231449
+1,South Africa,16,DA Miller,Shaheen Shah Afridi,L Sipamla,,0,1,1,,,,31449231449
+1,South Africa,16,L Sipamla,Shaheen Shah Afridi,DA Miller,,0,1,1,,,,31449231449
+1,South Africa,16,DA Miller,Shaheen Shah Afridi,L Sipamla,,0,1,1,,,,31449231449
+1,South Africa,17,DA Miller,Hasan Ali,L Sipamla,,0,1,1,,,,31449231449
+1,South Africa,17,L Sipamla,Hasan Ali,DA Miller,,0,0,0,,,,31449231449
+1,South Africa,17,L Sipamla,Hasan Ali,DA Miller,,0,1,1,,,,31449231449
+1,South Africa,17,DA Miller,Hasan Ali,L Sipamla,,0,6,6,,,,31449231449
+1,South Africa,17,DA Miller,Hasan Ali,L Sipamla,,0,2,2,,,,31449231449
+1,South Africa,17,DA Miller,Hasan Ali,L Sipamla,,0,0,0,,,,31449231449
+1,South Africa,18,L Sipamla,Shaheen Shah Afridi,DA Miller,,0,0,0,,,,31449231449
+1,South Africa,18,L Sipamla,Shaheen Shah Afridi,DA Miller,,0,0,0,,,,31449231449
+1,South Africa,18,L Sipamla,Shaheen Shah Afridi,DA Miller,,0,4,4,,,,31449231449
+1,South Africa,18,L Sipamla,Shaheen Shah Afridi,DA Miller,legbyes,1,1,0,,,,31449231449
+1,South Africa,18,DA Miller,Shaheen Shah Afridi,L Sipamla,,0,0,0,,,,31449231449
+1,South Africa,18,DA Miller,Shaheen Shah Afridi,L Sipamla,legbyes,1,1,0,,,,31449231449
+1,South Africa,19,DA Miller,Faheem Ashraf,L Sipamla,,0,6,6,,,,31449231449
+1,South Africa,19,DA Miller,Faheem Ashraf,L Sipamla,wides,1,1,0,,,,31449231449
+1,South Africa,19,DA Miller,Faheem Ashraf,L Sipamla,,0,6,6,,,,31449231449
+1,South Africa,19,DA Miller,Faheem Ashraf,L Sipamla,,0,0,0,,,,31449231449
+1,South Africa,19,DA Miller,Faheem Ashraf,L Sipamla,,0,6,6,,,,31449231449
+1,South Africa,19,DA Miller,Faheem Ashraf,L Sipamla,,0,0,0,,,,31449231449
+1,South Africa,19,DA Miller,Faheem Ashraf,L Sipamla,,0,6,6,,,,31449231449

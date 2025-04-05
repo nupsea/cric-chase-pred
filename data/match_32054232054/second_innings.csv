@@ -1,0 +1,121 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,West Indies,0,BA King,B Kumar,KR Mayers,wides,1,1,0,,,,32054232054
+2,West Indies,0,BA King,B Kumar,KR Mayers,,0,4,4,,,,32054232054
+2,West Indies,0,BA King,B Kumar,KR Mayers,,0,0,0,,,,32054232054
+2,West Indies,0,BA King,B Kumar,KR Mayers,,0,4,4,,,,32054232054
+2,West Indies,0,BA King,B Kumar,KR Mayers,,0,1,1,,,,32054232054
+2,West Indies,0,KR Mayers,B Kumar,BA King,,0,4,4,,,,32054232054
+2,West Indies,0,KR Mayers,B Kumar,BA King,,0,0,0,,,,32054232054
+2,West Indies,1,BA King,Avesh Khan,KR Mayers,,0,0,0,,,,32054232054
+2,West Indies,1,BA King,Avesh Khan,KR Mayers,,0,4,4,,,,32054232054
+2,West Indies,1,BA King,Avesh Khan,KR Mayers,,0,0,0,,,,32054232054
+2,West Indies,1,BA King,Avesh Khan,KR Mayers,,0,0,0,caught and bowled,BA King,,32054232054
+2,West Indies,1,DC Thomas,Avesh Khan,KR Mayers,,0,0,0,,,,32054232054
+2,West Indies,1,DC Thomas,Avesh Khan,KR Mayers,,0,0,0,,,,32054232054
+2,West Indies,2,KR Mayers,B Kumar,DC Thomas,,0,0,0,,,,32054232054
+2,West Indies,2,KR Mayers,B Kumar,DC Thomas,,0,0,0,,,,32054232054
+2,West Indies,2,KR Mayers,B Kumar,DC Thomas,,0,1,1,,,,32054232054
+2,West Indies,2,DC Thomas,B Kumar,KR Mayers,,0,1,1,,,,32054232054
+2,West Indies,2,KR Mayers,B Kumar,DC Thomas,,0,2,2,,,,32054232054
+2,West Indies,2,KR Mayers,B Kumar,DC Thomas,,0,0,0,,,,32054232054
+2,West Indies,3,DC Thomas,Avesh Khan,KR Mayers,,0,0,0,caught,DC Thomas,DJ Hooda,32054232054
+2,West Indies,3,KR Mayers,Avesh Khan,N Pooran,,0,0,0,,,,32054232054
+2,West Indies,3,KR Mayers,Avesh Khan,N Pooran,,0,1,1,,,,32054232054
+2,West Indies,3,N Pooran,Avesh Khan,KR Mayers,,0,1,1,,,,32054232054
+2,West Indies,3,KR Mayers,Avesh Khan,N Pooran,,0,1,1,,,,32054232054
+2,West Indies,3,N Pooran,Avesh Khan,KR Mayers,wides,1,1,0,,,,32054232054
+2,West Indies,3,N Pooran,Avesh Khan,KR Mayers,,0,1,1,,,,32054232054
+2,West Indies,4,N Pooran,AR Patel,KR Mayers,,0,4,4,,,,32054232054
+2,West Indies,4,N Pooran,AR Patel,KR Mayers,,0,6,6,,,,32054232054
+2,West Indies,4,N Pooran,AR Patel,KR Mayers,,0,0,0,,,,32054232054
+2,West Indies,4,N Pooran,AR Patel,KR Mayers,,0,6,6,,,,32054232054
+2,West Indies,4,N Pooran,AR Patel,KR Mayers,,0,6,6,,,,32054232054
+2,West Indies,4,N Pooran,AR Patel,KR Mayers,,0,0,0,run out,N Pooran,SV Samson,32054232054
+2,West Indies,5,KR Mayers,Arshdeep Singh,R Powell,,0,4,4,,,,32054232054
+2,West Indies,5,KR Mayers,Arshdeep Singh,R Powell,legbyes,1,1,0,,,,32054232054
+2,West Indies,5,R Powell,Arshdeep Singh,KR Mayers,,0,4,4,,,,32054232054
+2,West Indies,5,R Powell,Arshdeep Singh,KR Mayers,,0,1,1,,,,32054232054
+2,West Indies,5,KR Mayers,Arshdeep Singh,R Powell,legbyes,1,1,0,,,,32054232054
+2,West Indies,5,R Powell,Arshdeep Singh,KR Mayers,,0,1,1,,,,32054232054
+2,West Indies,6,R Powell,AR Patel,KR Mayers,,0,0,0,,,,32054232054
+2,West Indies,6,R Powell,AR Patel,KR Mayers,,0,1,1,,,,32054232054
+2,West Indies,6,KR Mayers,AR Patel,R Powell,,0,0,0,,,,32054232054
+2,West Indies,6,KR Mayers,AR Patel,R Powell,,0,1,1,,,,32054232054
+2,West Indies,6,R Powell,AR Patel,KR Mayers,,0,1,1,,,,32054232054
+2,West Indies,6,KR Mayers,AR Patel,R Powell,,0,0,0,caught,KR Mayers,DJ Hooda,32054232054
+2,West Indies,7,R Powell,Ravi Bishnoi,SO Hetmyer,,0,0,0,,,,32054232054
+2,West Indies,7,R Powell,Ravi Bishnoi,SO Hetmyer,,0,0,0,,,,32054232054
+2,West Indies,7,R Powell,Ravi Bishnoi,SO Hetmyer,,0,0,0,,,,32054232054
+2,West Indies,7,R Powell,Ravi Bishnoi,SO Hetmyer,,0,1,1,,,,32054232054
+2,West Indies,7,SO Hetmyer,Ravi Bishnoi,R Powell,,0,1,1,,,,32054232054
+2,West Indies,7,R Powell,Ravi Bishnoi,SO Hetmyer,,0,1,1,,,,32054232054
+2,West Indies,8,R Powell,AR Patel,SO Hetmyer,,0,2,2,,,,32054232054
+2,West Indies,8,R Powell,AR Patel,SO Hetmyer,,0,6,6,,,,32054232054
+2,West Indies,8,R Powell,AR Patel,SO Hetmyer,,0,0,0,,,,32054232054
+2,West Indies,8,R Powell,AR Patel,SO Hetmyer,,0,6,6,,,,32054232054
+2,West Indies,8,R Powell,AR Patel,SO Hetmyer,wides,1,1,0,,,,32054232054
+2,West Indies,8,R Powell,AR Patel,SO Hetmyer,,0,0,0,caught,R Powell,DJ Hooda,32054232054
+2,West Indies,8,JO Holder,AR Patel,SO Hetmyer,,0,0,0,,,,32054232054
+2,West Indies,9,SO Hetmyer,Avesh Khan,JO Holder,,0,0,0,,,,32054232054
+2,West Indies,9,SO Hetmyer,Avesh Khan,JO Holder,,0,1,1,,,,32054232054
+2,West Indies,9,JO Holder,Avesh Khan,SO Hetmyer,,0,1,1,,,,32054232054
+2,West Indies,9,SO Hetmyer,Avesh Khan,JO Holder,,0,0,0,,,,32054232054
+2,West Indies,9,SO Hetmyer,Avesh Khan,JO Holder,,0,4,4,,,,32054232054
+2,West Indies,9,SO Hetmyer,Avesh Khan,JO Holder,,0,0,0,,,,32054232054
+2,West Indies,10,JO Holder,Ravi Bishnoi,SO Hetmyer,,0,0,0,,,,32054232054
+2,West Indies,10,JO Holder,Ravi Bishnoi,SO Hetmyer,,0,2,2,,,,32054232054
+2,West Indies,10,JO Holder,Ravi Bishnoi,SO Hetmyer,,0,0,0,,,,32054232054
+2,West Indies,10,JO Holder,Ravi Bishnoi,SO Hetmyer,,0,0,0,,,,32054232054
+2,West Indies,10,JO Holder,Ravi Bishnoi,SO Hetmyer,,0,6,6,,,,32054232054
+2,West Indies,10,JO Holder,Ravi Bishnoi,SO Hetmyer,,0,4,4,,,,32054232054
+2,West Indies,11,SO Hetmyer,Arshdeep Singh,JO Holder,,0,1,1,,,,32054232054
+2,West Indies,11,JO Holder,Arshdeep Singh,SO Hetmyer,,0,0,0,caught,JO Holder,SV Samson,32054232054
+2,West Indies,11,AJ Hosein,Arshdeep Singh,SO Hetmyer,,0,0,0,,,,32054232054
+2,West Indies,11,AJ Hosein,Arshdeep Singh,SO Hetmyer,,0,0,0,,,,32054232054
+2,West Indies,11,AJ Hosein,Arshdeep Singh,SO Hetmyer,,0,0,0,,,,32054232054
+2,West Indies,11,AJ Hosein,Arshdeep Singh,SO Hetmyer,,0,0,0,,,,32054232054
+2,West Indies,12,SO Hetmyer,Ravi Bishnoi,AJ Hosein,,0,0,0,,,,32054232054
+2,West Indies,12,SO Hetmyer,Ravi Bishnoi,AJ Hosein,,0,0,0,,,,32054232054
+2,West Indies,12,SO Hetmyer,Ravi Bishnoi,AJ Hosein,,0,0,0,,,,32054232054
+2,West Indies,12,SO Hetmyer,Ravi Bishnoi,AJ Hosein,,0,0,0,,,,32054232054
+2,West Indies,12,SO Hetmyer,Ravi Bishnoi,AJ Hosein,,0,1,1,,,,32054232054
+2,West Indies,12,AJ Hosein,Ravi Bishnoi,SO Hetmyer,,0,1,1,,,,32054232054
+2,West Indies,13,AJ Hosein,B Kumar,SO Hetmyer,,0,1,1,,,,32054232054
+2,West Indies,13,SO Hetmyer,B Kumar,AJ Hosein,,0,1,1,,,,32054232054
+2,West Indies,13,AJ Hosein,B Kumar,SO Hetmyer,,0,0,0,,,,32054232054
+2,West Indies,13,AJ Hosein,B Kumar,SO Hetmyer,,0,0,0,,,,32054232054
+2,West Indies,13,AJ Hosein,B Kumar,SO Hetmyer,,0,1,1,,,,32054232054
+2,West Indies,13,SO Hetmyer,B Kumar,AJ Hosein,,0,0,0,,,,32054232054
+2,West Indies,14,AJ Hosein,Ravi Bishnoi,SO Hetmyer,,0,0,0,caught,AJ Hosein,SA Yadav,32054232054
+2,West Indies,14,SO Hetmyer,Ravi Bishnoi,DC Drakes,,0,0,0,,,,32054232054
+2,West Indies,14,SO Hetmyer,Ravi Bishnoi,DC Drakes,,0,0,0,,,,32054232054
+2,West Indies,14,SO Hetmyer,Ravi Bishnoi,DC Drakes,,0,4,4,,,,32054232054
+2,West Indies,14,SO Hetmyer,Ravi Bishnoi,DC Drakes,,0,6,6,,,,32054232054
+2,West Indies,14,SO Hetmyer,Ravi Bishnoi,DC Drakes,,0,0,0,bowled,SO Hetmyer,,32054232054
+2,West Indies,15,DC Drakes,Avesh Khan,AS Joseph,,0,0,0,,,,32054232054
+2,West Indies,15,DC Drakes,Avesh Khan,AS Joseph,,0,1,1,,,,32054232054
+2,West Indies,15,AS Joseph,Avesh Khan,DC Drakes,,0,0,0,,,,32054232054
+2,West Indies,15,AS Joseph,Avesh Khan,DC Drakes,,0,0,0,,,,32054232054
+2,West Indies,15,AS Joseph,Avesh Khan,DC Drakes,,0,0,0,,,,32054232054
+2,West Indies,15,AS Joseph,Avesh Khan,DC Drakes,,0,1,1,,,,32054232054
+2,West Indies,16,AS Joseph,AR Patel,DC Drakes,,0,1,1,,,,32054232054
+2,West Indies,16,DC Drakes,AR Patel,AS Joseph,,0,0,0,,,,32054232054
+2,West Indies,16,DC Drakes,AR Patel,AS Joseph,,0,0,0,,,,32054232054
+2,West Indies,16,DC Drakes,AR Patel,AS Joseph,wides,1,1,0,,,,32054232054
+2,West Indies,16,DC Drakes,AR Patel,AS Joseph,wides,1,1,0,,,,32054232054
+2,West Indies,16,DC Drakes,AR Patel,AS Joseph,legbyes,1,1,0,,,,32054232054
+2,West Indies,16,AS Joseph,AR Patel,DC Drakes,,0,1,1,,,,32054232054
+2,West Indies,16,DC Drakes,AR Patel,AS Joseph,,0,4,4,,,,32054232054
+2,West Indies,17,AS Joseph,Arshdeep Singh,DC Drakes,,0,1,1,,,,32054232054
+2,West Indies,17,DC Drakes,Arshdeep Singh,AS Joseph,,0,0,0,bowled,DC Drakes,,32054232054
+2,West Indies,17,OC McCoy,Arshdeep Singh,AS Joseph,,0,0,0,,,,32054232054
+2,West Indies,17,OC McCoy,Arshdeep Singh,AS Joseph,,0,0,0,,,,32054232054
+2,West Indies,17,OC McCoy,Arshdeep Singh,AS Joseph,,0,0,0,,,,32054232054
+2,West Indies,17,OC McCoy,Arshdeep Singh,AS Joseph,,0,0,0,,,,32054232054
+2,West Indies,18,AS Joseph,DJ Hooda,OC McCoy,,0,1,1,,,,32054232054
+2,West Indies,18,OC McCoy,DJ Hooda,AS Joseph,,0,1,1,,,,32054232054
+2,West Indies,18,AS Joseph,DJ Hooda,OC McCoy,,0,1,1,,,,32054232054
+2,West Indies,18,OC McCoy,DJ Hooda,AS Joseph,,0,0,0,,,,32054232054
+2,West Indies,18,OC McCoy,DJ Hooda,AS Joseph,,0,1,1,,,,32054232054
+2,West Indies,18,AS Joseph,DJ Hooda,OC McCoy,,0,0,0,,,,32054232054
+2,West Indies,19,OC McCoy,Arshdeep Singh,AS Joseph,,0,0,0,bowled,OC McCoy,,32054232054

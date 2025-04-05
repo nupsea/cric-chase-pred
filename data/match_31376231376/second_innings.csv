@@ -1,0 +1,145 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Oman,0,SV Shetty,MS Beresford,Fiza,wides,1,1,0,,,,31376231376
+2,Oman,0,SV Shetty,MS Beresford,Fiza,,0,4,4,,,,31376231376
+2,Oman,0,SV Shetty,MS Beresford,Fiza,,0,1,1,,,,31376231376
+2,Oman,0,Fiza,MS Beresford,SV Shetty,,0,0,0,,,,31376231376
+2,Oman,0,Fiza,MS Beresford,SV Shetty,,0,1,1,,,,31376231376
+2,Oman,0,SV Shetty,MS Beresford,Fiza,,0,0,0,,,,31376231376
+2,Oman,0,SV Shetty,MS Beresford,Fiza,,0,1,1,,,,31376231376
+2,Oman,1,SV Shetty,CM Gough,Fiza,,0,0,0,,,,31376231376
+2,Oman,1,SV Shetty,CM Gough,Fiza,,0,0,0,,,,31376231376
+2,Oman,1,SV Shetty,CM Gough,Fiza,,0,0,0,,,,31376231376
+2,Oman,1,SV Shetty,CM Gough,Fiza,,0,0,0,,,,31376231376
+2,Oman,1,SV Shetty,CM Gough,Fiza,wides,1,1,0,,,,31376231376
+2,Oman,1,SV Shetty,CM Gough,Fiza,,0,0,0,,,,31376231376
+2,Oman,1,SV Shetty,CM Gough,Fiza,,0,0,0,,,,31376231376
+2,Oman,2,Fiza,MS Beresford,SV Shetty,,0,0,0,,,,31376231376
+2,Oman,2,Fiza,MS Beresford,SV Shetty,,0,1,1,,,,31376231376
+2,Oman,2,SV Shetty,MS Beresford,Fiza,,0,0,0,caught,SV Shetty,A Doddaballapur,31376231376
+2,Oman,2,Fiza,MS Beresford,V Jesrani,,0,0,0,,,,31376231376
+2,Oman,2,Fiza,MS Beresford,V Jesrani,,0,0,0,,,,31376231376
+2,Oman,2,Fiza,MS Beresford,V Jesrani,wides,1,1,0,,,,31376231376
+2,Oman,2,Fiza,MS Beresford,V Jesrani,,0,0,0,,,,31376231376
+2,Oman,3,V Jesrani,CM Gough,Fiza,,0,0,0,,,,31376231376
+2,Oman,3,V Jesrani,CM Gough,Fiza,byes,1,1,0,,,,31376231376
+2,Oman,3,Fiza,CM Gough,V Jesrani,,0,0,0,,,,31376231376
+2,Oman,3,Fiza,CM Gough,V Jesrani,,0,0,0,,,,31376231376
+2,Oman,3,Fiza,CM Gough,V Jesrani,,0,1,1,,,,31376231376
+2,Oman,3,V Jesrani,CM Gough,Fiza,,0,0,0,,,,31376231376
+2,Oman,4,Fiza,MS Beresford,V Jesrani,,0,1,1,,,,31376231376
+2,Oman,4,V Jesrani,MS Beresford,Fiza,noballs,1,2,1,,,,31376231376
+2,Oman,4,Fiza,MS Beresford,V Jesrani,,0,0,0,,,,31376231376
+2,Oman,4,Fiza,MS Beresford,V Jesrani,,0,1,1,,,,31376231376
+2,Oman,4,V Jesrani,MS Beresford,Fiza,,0,0,0,,,,31376231376
+2,Oman,4,V Jesrani,MS Beresford,Fiza,wides,1,1,0,,,,31376231376
+2,Oman,4,V Jesrani,MS Beresford,Fiza,,0,0,0,,,,31376231376
+2,Oman,4,V Jesrani,MS Beresford,Fiza,,0,1,1,,,,31376231376
+2,Oman,5,V Jesrani,CM Gough,Fiza,,0,0,0,,,,31376231376
+2,Oman,5,V Jesrani,CM Gough,Fiza,,0,0,0,,,,31376231376
+2,Oman,5,V Jesrani,CM Gough,Fiza,,0,0,0,,,,31376231376
+2,Oman,5,V Jesrani,CM Gough,Fiza,,0,0,0,bowled,V Jesrani,,31376231376
+2,Oman,5,PE Mendonca,CM Gough,Fiza,wides,3,3,0,,,,31376231376
+2,Oman,5,PE Mendonca,CM Gough,Fiza,,0,0,0,,,,31376231376
+2,Oman,5,PE Mendonca,CM Gough,Fiza,,0,1,1,,,,31376231376
+2,Oman,6,PE Mendonca,AM Healey,Fiza,,0,2,2,,,,31376231376
+2,Oman,6,PE Mendonca,AM Healey,Fiza,wides,1,1,0,,,,31376231376
+2,Oman,6,PE Mendonca,AM Healey,Fiza,,0,0,0,caught,PE Mendonca,JE Ronalds,31376231376
+2,Oman,6,Javed Hina,AM Healey,Fiza,,0,2,2,,,,31376231376
+2,Oman,6,Javed Hina,AM Healey,Fiza,wides,1,1,0,,,,31376231376
+2,Oman,6,Javed Hina,AM Healey,Fiza,,0,0,0,,,,31376231376
+2,Oman,6,Javed Hina,AM Healey,Fiza,,0,0,0,,,,31376231376
+2,Oman,6,Javed Hina,AM Healey,Fiza,,0,0,0,,,,31376231376
+2,Oman,7,Fiza,EC Bargna,Javed Hina,,0,0,0,caught,Fiza,JE Ronalds,31376231376
+2,Oman,7,Javed Hina,EC Bargna,Javed Hira,,0,2,2,,,,31376231376
+2,Oman,7,Javed Hina,EC Bargna,Javed Hira,,0,0,0,,,,31376231376
+2,Oman,7,Javed Hina,EC Bargna,Javed Hira,wides,1,1,0,,,,31376231376
+2,Oman,7,Javed Hina,EC Bargna,Javed Hira,,0,0,0,,,,31376231376
+2,Oman,7,Javed Hina,EC Bargna,Javed Hira,,0,1,1,,,,31376231376
+2,Oman,7,Javed Hira,EC Bargna,Javed Hina,,0,0,0,,,,31376231376
+2,Oman,8,Javed Hina,AM Healey,Javed Hira,,0,0,0,,,,31376231376
+2,Oman,8,Javed Hina,AM Healey,Javed Hira,,0,1,1,,,,31376231376
+2,Oman,8,Javed Hira,AM Healey,Javed Hina,,0,4,4,,,,31376231376
+2,Oman,8,Javed Hira,AM Healey,Javed Hina,,0,1,1,,,,31376231376
+2,Oman,8,Javed Hina,AM Healey,Javed Hira,,0,1,1,,,,31376231376
+2,Oman,8,Javed Hira,AM Healey,Javed Hina,,0,0,0,,,,31376231376
+2,Oman,9,Javed Hina,EC Bargna,Javed Hira,,0,1,1,,,,31376231376
+2,Oman,9,Javed Hira,EC Bargna,Javed Hina,,0,1,1,,,,31376231376
+2,Oman,9,Javed Hina,EC Bargna,Javed Hira,,0,4,4,,,,31376231376
+2,Oman,9,Javed Hina,EC Bargna,Javed Hira,,0,0,0,,,,31376231376
+2,Oman,9,Javed Hina,EC Bargna,Javed Hira,,0,0,0,,,,31376231376
+2,Oman,9,Javed Hina,EC Bargna,Javed Hira,,0,0,0,run out,Javed Hina,,31376231376
+2,Oman,10,Y Verma,AM Healey,Javed Hira,,0,0,0,bowled,Y Verma,,31376231376
+2,Oman,10,N Jagadish,AM Healey,Javed Hira,,0,0,0,,,,31376231376
+2,Oman,10,N Jagadish,AM Healey,Javed Hira,,0,0,0,,,,31376231376
+2,Oman,10,N Jagadish,AM Healey,Javed Hira,,0,0,0,,,,31376231376
+2,Oman,10,N Jagadish,AM Healey,Javed Hira,wides,1,1,0,,,,31376231376
+2,Oman,10,N Jagadish,AM Healey,Javed Hira,,0,0,0,,,,31376231376
+2,Oman,10,N Jagadish,AM Healey,Javed Hira,,0,0,0,,,,31376231376
+2,Oman,11,Javed Hira,EC Bargna,N Jagadish,,0,1,1,,,,31376231376
+2,Oman,11,N Jagadish,EC Bargna,Javed Hira,,0,0,0,,,,31376231376
+2,Oman,11,N Jagadish,EC Bargna,Javed Hira,,0,0,0,,,,31376231376
+2,Oman,11,N Jagadish,EC Bargna,Javed Hira,,0,1,1,,,,31376231376
+2,Oman,11,Javed Hira,EC Bargna,N Jagadish,,0,1,1,,,,31376231376
+2,Oman,11,N Jagadish,EC Bargna,Javed Hira,,0,0,0,,,,31376231376
+2,Oman,12,Javed Hira,ST Frohnmayer,N Jagadish,wides,1,1,0,,,,31376231376
+2,Oman,12,Javed Hira,ST Frohnmayer,N Jagadish,,0,0,0,,,,31376231376
+2,Oman,12,Javed Hira,ST Frohnmayer,N Jagadish,,0,1,1,,,,31376231376
+2,Oman,12,N Jagadish,ST Frohnmayer,Javed Hira,,0,0,0,,,,31376231376
+2,Oman,12,N Jagadish,ST Frohnmayer,Javed Hira,wides,1,1,0,,,,31376231376
+2,Oman,12,N Jagadish,ST Frohnmayer,Javed Hira,,0,1,1,,,,31376231376
+2,Oman,12,Javed Hira,ST Frohnmayer,N Jagadish,,0,1,1,,,,31376231376
+2,Oman,12,N Jagadish,ST Frohnmayer,Javed Hira,noballs,1,1,0,,,,31376231376
+2,Oman,12,N Jagadish,ST Frohnmayer,Javed Hira,,0,0,0,,,,31376231376
+2,Oman,13,Javed Hira,A Doddaballapur,N Jagadish,,0,1,1,run out,N Jagadish,,31376231376
+2,Oman,13,Javed Hira,A Doddaballapur,B Shetty,,0,1,1,,,,31376231376
+2,Oman,13,B Shetty,A Doddaballapur,Javed Hira,,0,1,1,,,,31376231376
+2,Oman,13,Javed Hira,A Doddaballapur,B Shetty,,0,2,2,,,,31376231376
+2,Oman,13,Javed Hira,A Doddaballapur,B Shetty,,0,2,2,,,,31376231376
+2,Oman,13,Javed Hira,A Doddaballapur,B Shetty,,0,2,2,,,,31376231376
+2,Oman,14,B Shetty,ST Frohnmayer,Javed Hira,,0,0,0,,,,31376231376
+2,Oman,14,B Shetty,ST Frohnmayer,Javed Hira,,0,2,2,,,,31376231376
+2,Oman,14,B Shetty,ST Frohnmayer,Javed Hira,wides,1,1,0,,,,31376231376
+2,Oman,14,B Shetty,ST Frohnmayer,Javed Hira,,0,1,1,,,,31376231376
+2,Oman,14,Javed Hira,ST Frohnmayer,B Shetty,wides,1,1,0,,,,31376231376
+2,Oman,14,Javed Hira,ST Frohnmayer,B Shetty,,0,0,0,,,,31376231376
+2,Oman,14,Javed Hira,ST Frohnmayer,B Shetty,,0,0,0,,,,31376231376
+2,Oman,14,Javed Hira,ST Frohnmayer,B Shetty,,0,1,1,,,,31376231376
+2,Oman,15,Javed Hira,A Doddaballapur,B Shetty,,0,0,0,,,,31376231376
+2,Oman,15,Javed Hira,A Doddaballapur,B Shetty,,0,0,0,,,,31376231376
+2,Oman,15,Javed Hira,A Doddaballapur,B Shetty,,0,2,2,,,,31376231376
+2,Oman,15,Javed Hira,A Doddaballapur,B Shetty,,0,0,0,,,,31376231376
+2,Oman,15,Javed Hira,A Doddaballapur,B Shetty,,0,1,1,,,,31376231376
+2,Oman,15,B Shetty,A Doddaballapur,Javed Hira,wides,1,1,0,,,,31376231376
+2,Oman,15,B Shetty,A Doddaballapur,Javed Hira,noballs,1,2,1,,,,31376231376
+2,Oman,15,Javed Hira,A Doddaballapur,B Shetty,wides,1,1,0,,,,31376231376
+2,Oman,15,Javed Hira,A Doddaballapur,B Shetty,,0,4,4,,,,31376231376
+2,Oman,16,B Shetty,ST Frohnmayer,Javed Hira,legbyes,1,1,0,,,,31376231376
+2,Oman,16,Javed Hira,ST Frohnmayer,B Shetty,wides,1,1,0,,,,31376231376
+2,Oman,16,Javed Hira,ST Frohnmayer,B Shetty,,0,1,1,,,,31376231376
+2,Oman,16,B Shetty,ST Frohnmayer,Javed Hira,wides,1,1,0,,,,31376231376
+2,Oman,16,B Shetty,ST Frohnmayer,Javed Hira,,0,0,0,,,,31376231376
+2,Oman,16,B Shetty,ST Frohnmayer,Javed Hira,wides,1,1,0,,,,31376231376
+2,Oman,16,B Shetty,ST Frohnmayer,Javed Hira,wides,1,1,0,,,,31376231376
+2,Oman,16,B Shetty,ST Frohnmayer,Javed Hira,,0,0,0,,,,31376231376
+2,Oman,16,B Shetty,ST Frohnmayer,Javed Hira,,0,0,0,,,,31376231376
+2,Oman,16,B Shetty,ST Frohnmayer,Javed Hira,,0,1,1,,,,31376231376
+2,Oman,17,B Shetty,CM Gough,Javed Hira,,0,1,1,,,,31376231376
+2,Oman,17,Javed Hira,CM Gough,B Shetty,,0,2,2,,,,31376231376
+2,Oman,17,Javed Hira,CM Gough,B Shetty,,0,1,1,,,,31376231376
+2,Oman,17,B Shetty,CM Gough,Javed Hira,,0,0,0,,,,31376231376
+2,Oman,17,B Shetty,CM Gough,Javed Hira,,0,1,1,,,,31376231376
+2,Oman,17,Javed Hira,CM Gough,B Shetty,,0,1,1,run out,B Shetty,,31376231376
+2,Oman,18,S Nair,MS Beresford,Javed Hira,,0,0,0,,,,31376231376
+2,Oman,18,S Nair,MS Beresford,Javed Hira,,0,1,1,,,,31376231376
+2,Oman,18,Javed Hira,MS Beresford,S Nair,,0,4,4,,,,31376231376
+2,Oman,18,Javed Hira,MS Beresford,S Nair,wides,2,2,0,,,,31376231376
+2,Oman,18,S Nair,MS Beresford,Javed Hira,wides,1,1,0,,,,31376231376
+2,Oman,18,S Nair,MS Beresford,Javed Hira,,0,0,0,,,,31376231376
+2,Oman,18,S Nair,MS Beresford,Javed Hira,,0,0,0,,,,31376231376
+2,Oman,18,S Nair,MS Beresford,Javed Hira,,0,0,0,bowled,S Nair,,31376231376
+2,Oman,19,Javed Hira,AM Healey,AL Tiwari,,0,0,0,,,,31376231376
+2,Oman,19,Javed Hira,AM Healey,AL Tiwari,,0,1,1,,,,31376231376
+2,Oman,19,AL Tiwari,AM Healey,Javed Hira,,0,0,0,,,,31376231376
+2,Oman,19,AL Tiwari,AM Healey,Javed Hira,,0,0,0,,,,31376231376
+2,Oman,19,AL Tiwari,AM Healey,Javed Hira,,0,1,1,,,,31376231376
+2,Oman,19,Javed Hira,AM Healey,AL Tiwari,,0,0,0,,,,31376231376

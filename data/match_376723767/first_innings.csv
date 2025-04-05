@@ -1,0 +1,113 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Sri Lanka,0,MD Gunathilaka,Imad Wasim,EMDY Munaweera,,0,1,1,,,,376723767
+1,Sri Lanka,0,EMDY Munaweera,Imad Wasim,MD Gunathilaka,,0,0,0,,,,376723767
+1,Sri Lanka,0,EMDY Munaweera,Imad Wasim,MD Gunathilaka,,0,0,0,bowled,EMDY Munaweera,,376723767
+1,Sri Lanka,0,S Samarawickrama,Imad Wasim,MD Gunathilaka,,0,2,2,,,,376723767
+1,Sri Lanka,0,S Samarawickrama,Imad Wasim,MD Gunathilaka,,0,1,1,,,,376723767
+1,Sri Lanka,0,MD Gunathilaka,Imad Wasim,S Samarawickrama,,0,4,4,,,,376723767
+1,Sri Lanka,1,S Samarawickrama,Usman Shinwari,MD Gunathilaka,,0,4,4,,,,376723767
+1,Sri Lanka,1,S Samarawickrama,Usman Shinwari,MD Gunathilaka,,0,0,0,,,,376723767
+1,Sri Lanka,1,S Samarawickrama,Usman Shinwari,MD Gunathilaka,,0,0,0,,,,376723767
+1,Sri Lanka,1,S Samarawickrama,Usman Shinwari,MD Gunathilaka,,0,2,2,,,,376723767
+1,Sri Lanka,1,S Samarawickrama,Usman Shinwari,MD Gunathilaka,,0,1,1,,,,376723767
+1,Sri Lanka,1,MD Gunathilaka,Usman Shinwari,S Samarawickrama,,0,1,1,,,,376723767
+1,Sri Lanka,2,MD Gunathilaka,Imad Wasim,S Samarawickrama,,0,4,4,,,,376723767
+1,Sri Lanka,2,MD Gunathilaka,Imad Wasim,S Samarawickrama,,0,2,2,,,,376723767
+1,Sri Lanka,2,MD Gunathilaka,Imad Wasim,S Samarawickrama,,0,1,1,,,,376723767
+1,Sri Lanka,2,S Samarawickrama,Imad Wasim,MD Gunathilaka,,0,0,0,,,,376723767
+1,Sri Lanka,2,S Samarawickrama,Imad Wasim,MD Gunathilaka,,0,1,1,,,,376723767
+1,Sri Lanka,2,MD Gunathilaka,Imad Wasim,S Samarawickrama,,0,1,1,,,,376723767
+1,Sri Lanka,3,MD Gunathilaka,Usman Shinwari,S Samarawickrama,,0,0,0,,,,376723767
+1,Sri Lanka,3,MD Gunathilaka,Usman Shinwari,S Samarawickrama,,0,4,4,,,,376723767
+1,Sri Lanka,3,MD Gunathilaka,Usman Shinwari,S Samarawickrama,,0,0,0,,,,376723767
+1,Sri Lanka,3,MD Gunathilaka,Usman Shinwari,S Samarawickrama,,0,0,0,caught,MD Gunathilaka,Sarfraz Ahmed,376723767
+1,Sri Lanka,3,SMA Priyanjan,Usman Shinwari,S Samarawickrama,,0,0,0,,,,376723767
+1,Sri Lanka,3,SMA Priyanjan,Usman Shinwari,S Samarawickrama,,0,0,0,,,,376723767
+1,Sri Lanka,4,S Samarawickrama,Imad Wasim,SMA Priyanjan,,0,0,0,,,,376723767
+1,Sri Lanka,4,S Samarawickrama,Imad Wasim,SMA Priyanjan,,0,1,1,,,,376723767
+1,Sri Lanka,4,SMA Priyanjan,Imad Wasim,S Samarawickrama,legbyes,1,1,0,,,,376723767
+1,Sri Lanka,4,S Samarawickrama,Imad Wasim,SMA Priyanjan,,0,1,1,,,,376723767
+1,Sri Lanka,4,SMA Priyanjan,Imad Wasim,S Samarawickrama,,0,1,1,,,,376723767
+1,Sri Lanka,4,S Samarawickrama,Imad Wasim,SMA Priyanjan,,0,1,1,,,,376723767
+1,Sri Lanka,5,S Samarawickrama,Hasan Ali,SMA Priyanjan,,0,1,1,,,,376723767
+1,Sri Lanka,5,SMA Priyanjan,Hasan Ali,S Samarawickrama,,0,0,0,,,,376723767
+1,Sri Lanka,5,SMA Priyanjan,Hasan Ali,S Samarawickrama,,0,1,1,,,,376723767
+1,Sri Lanka,5,S Samarawickrama,Hasan Ali,SMA Priyanjan,,0,0,0,,,,376723767
+1,Sri Lanka,5,S Samarawickrama,Hasan Ali,SMA Priyanjan,,0,4,4,,,,376723767
+1,Sri Lanka,5,S Samarawickrama,Hasan Ali,SMA Priyanjan,,0,0,0,,,,376723767
+1,Sri Lanka,6,SMA Priyanjan,Faheem Ashraf,S Samarawickrama,,0,1,1,,,,376723767
+1,Sri Lanka,6,S Samarawickrama,Faheem Ashraf,SMA Priyanjan,,0,1,1,,,,376723767
+1,Sri Lanka,6,SMA Priyanjan,Faheem Ashraf,S Samarawickrama,,0,1,1,,,,376723767
+1,Sri Lanka,6,S Samarawickrama,Faheem Ashraf,SMA Priyanjan,legbyes,1,1,0,,,,376723767
+1,Sri Lanka,6,SMA Priyanjan,Faheem Ashraf,S Samarawickrama,,0,0,0,,,,376723767
+1,Sri Lanka,6,SMA Priyanjan,Faheem Ashraf,S Samarawickrama,,0,0,0,,,,376723767
+1,Sri Lanka,7,S Samarawickrama,Shadab Khan,SMA Priyanjan,,0,1,1,,,,376723767
+1,Sri Lanka,7,SMA Priyanjan,Shadab Khan,S Samarawickrama,,0,1,1,,,,376723767
+1,Sri Lanka,7,S Samarawickrama,Shadab Khan,SMA Priyanjan,,0,1,1,,,,376723767
+1,Sri Lanka,7,SMA Priyanjan,Shadab Khan,S Samarawickrama,,0,1,1,,,,376723767
+1,Sri Lanka,7,S Samarawickrama,Shadab Khan,SMA Priyanjan,,0,1,1,,,,376723767
+1,Sri Lanka,7,SMA Priyanjan,Shadab Khan,S Samarawickrama,,0,1,1,,,,376723767
+1,Sri Lanka,8,SMA Priyanjan,Faheem Ashraf,S Samarawickrama,,0,1,1,,,,376723767
+1,Sri Lanka,8,S Samarawickrama,Faheem Ashraf,SMA Priyanjan,,0,0,0,bowled,S Samarawickrama,,376723767
+1,Sri Lanka,8,ML Udawatte,Faheem Ashraf,SMA Priyanjan,,0,0,0,,,,376723767
+1,Sri Lanka,8,ML Udawatte,Faheem Ashraf,SMA Priyanjan,,0,1,1,,,,376723767
+1,Sri Lanka,8,SMA Priyanjan,Faheem Ashraf,ML Udawatte,,0,0,0,,,,376723767
+1,Sri Lanka,8,SMA Priyanjan,Faheem Ashraf,ML Udawatte,,0,1,1,,,,376723767
+1,Sri Lanka,9,SMA Priyanjan,Imad Wasim,ML Udawatte,,0,1,1,,,,376723767
+1,Sri Lanka,9,ML Udawatte,Imad Wasim,SMA Priyanjan,,0,1,1,,,,376723767
+1,Sri Lanka,9,SMA Priyanjan,Imad Wasim,ML Udawatte,,0,1,1,,,,376723767
+1,Sri Lanka,9,ML Udawatte,Imad Wasim,SMA Priyanjan,,0,0,0,,,,376723767
+1,Sri Lanka,9,ML Udawatte,Imad Wasim,SMA Priyanjan,,0,1,1,,,,376723767
+1,Sri Lanka,9,SMA Priyanjan,Imad Wasim,ML Udawatte,,0,1,1,,,,376723767
+1,Sri Lanka,10,SMA Priyanjan,Shadab Khan,ML Udawatte,,0,0,0,caught,SMA Priyanjan,Shoaib Malik,376723767
+1,Sri Lanka,10,SS Pathirana,Shadab Khan,ML Udawatte,,0,1,1,,,,376723767
+1,Sri Lanka,10,ML Udawatte,Shadab Khan,SS Pathirana,,0,4,4,,,,376723767
+1,Sri Lanka,10,ML Udawatte,Shadab Khan,SS Pathirana,,0,1,1,,,,376723767
+1,Sri Lanka,10,SS Pathirana,Shadab Khan,ML Udawatte,,0,1,1,,,,376723767
+1,Sri Lanka,10,ML Udawatte,Shadab Khan,SS Pathirana,legbyes,1,1,0,,,,376723767
+1,Sri Lanka,11,ML Udawatte,Mohammad Hafeez,SS Pathirana,,0,0,0,lbw,ML Udawatte,,376723767
+1,Sri Lanka,11,MD Shanaka,Mohammad Hafeez,SS Pathirana,,0,0,0,,,,376723767
+1,Sri Lanka,11,MD Shanaka,Mohammad Hafeez,SS Pathirana,,0,0,0,,,,376723767
+1,Sri Lanka,11,MD Shanaka,Mohammad Hafeez,SS Pathirana,,0,0,0,stumped,MD Shanaka,Sarfraz Ahmed,376723767
+1,Sri Lanka,11,S Prasanna,Mohammad Hafeez,SS Pathirana,,0,0,0,,,,376723767
+1,Sri Lanka,11,S Prasanna,Mohammad Hafeez,SS Pathirana,,0,0,0,,,,376723767
+1,Sri Lanka,12,SS Pathirana,Hasan Ali,S Prasanna,,0,2,2,,,,376723767
+1,Sri Lanka,12,SS Pathirana,Hasan Ali,S Prasanna,,0,0,0,,,,376723767
+1,Sri Lanka,12,SS Pathirana,Hasan Ali,S Prasanna,,0,0,0,caught and bowled,SS Pathirana,,376723767
+1,Sri Lanka,12,NLTC Perera,Hasan Ali,S Prasanna,,0,0,0,,,,376723767
+1,Sri Lanka,12,NLTC Perera,Hasan Ali,S Prasanna,,0,0,0,,,,376723767
+1,Sri Lanka,12,NLTC Perera,Hasan Ali,S Prasanna,,0,4,4,,,,376723767
+1,Sri Lanka,13,S Prasanna,Mohammad Hafeez,NLTC Perera,,0,0,0,,,,376723767
+1,Sri Lanka,13,S Prasanna,Mohammad Hafeez,NLTC Perera,,0,6,6,,,,376723767
+1,Sri Lanka,13,S Prasanna,Mohammad Hafeez,NLTC Perera,,0,2,2,,,,376723767
+1,Sri Lanka,13,S Prasanna,Mohammad Hafeez,NLTC Perera,,0,2,2,,,,376723767
+1,Sri Lanka,13,S Prasanna,Mohammad Hafeez,NLTC Perera,,0,0,0,,,,376723767
+1,Sri Lanka,13,S Prasanna,Mohammad Hafeez,NLTC Perera,,0,0,0,,,,376723767
+1,Sri Lanka,14,NLTC Perera,Shadab Khan,S Prasanna,,0,1,1,,,,376723767
+1,Sri Lanka,14,S Prasanna,Shadab Khan,NLTC Perera,,0,0,0,,,,376723767
+1,Sri Lanka,14,S Prasanna,Shadab Khan,NLTC Perera,,0,0,0,,,,376723767
+1,Sri Lanka,14,S Prasanna,Shadab Khan,NLTC Perera,,0,0,0,,,,376723767
+1,Sri Lanka,14,S Prasanna,Shadab Khan,NLTC Perera,,0,0,0,,,,376723767
+1,Sri Lanka,14,S Prasanna,Shadab Khan,NLTC Perera,,0,0,0,,,,376723767
+1,Sri Lanka,15,NLTC Perera,Usman Shinwari,S Prasanna,,0,0,0,,,,376723767
+1,Sri Lanka,15,NLTC Perera,Usman Shinwari,S Prasanna,,0,1,1,,,,376723767
+1,Sri Lanka,15,S Prasanna,Usman Shinwari,NLTC Perera,,0,0,0,,,,376723767
+1,Sri Lanka,15,S Prasanna,Usman Shinwari,NLTC Perera,,0,1,1,,,,376723767
+1,Sri Lanka,15,NLTC Perera,Usman Shinwari,S Prasanna,,0,0,0,caught,NLTC Perera,Sarfraz Ahmed,376723767
+1,Sri Lanka,15,S Prasanna,Usman Shinwari,I Udana,,0,2,2,,,,376723767
+1,Sri Lanka,16,I Udana,Hasan Ali,S Prasanna,,0,0,0,bowled,I Udana,,376723767
+1,Sri Lanka,16,JRMVB Sanjaya,Hasan Ali,S Prasanna,,0,1,1,,,,376723767
+1,Sri Lanka,16,S Prasanna,Hasan Ali,JRMVB Sanjaya,,0,1,1,,,,376723767
+1,Sri Lanka,16,JRMVB Sanjaya,Hasan Ali,S Prasanna,,0,1,1,,,,376723767
+1,Sri Lanka,16,S Prasanna,Hasan Ali,JRMVB Sanjaya,wides,1,1,0,,,,376723767
+1,Sri Lanka,16,S Prasanna,Hasan Ali,JRMVB Sanjaya,,0,0,0,,,,376723767
+1,Sri Lanka,16,S Prasanna,Hasan Ali,JRMVB Sanjaya,,0,0,0,,,,376723767
+1,Sri Lanka,17,JRMVB Sanjaya,Usman Shinwari,S Prasanna,,0,0,0,,,,376723767
+1,Sri Lanka,17,JRMVB Sanjaya,Usman Shinwari,S Prasanna,,0,0,0,,,,376723767
+1,Sri Lanka,17,JRMVB Sanjaya,Usman Shinwari,S Prasanna,,0,1,1,,,,376723767
+1,Sri Lanka,17,S Prasanna,Usman Shinwari,JRMVB Sanjaya,,0,1,1,,,,376723767
+1,Sri Lanka,17,JRMVB Sanjaya,Usman Shinwari,S Prasanna,,0,1,1,,,,376723767
+1,Sri Lanka,17,S Prasanna,Usman Shinwari,JRMVB Sanjaya,,0,1,1,,,,376723767
+1,Sri Lanka,18,S Prasanna,Hasan Ali,JRMVB Sanjaya,,0,6,6,,,,376723767
+1,Sri Lanka,18,S Prasanna,Hasan Ali,JRMVB Sanjaya,,0,1,1,,,,376723767
+1,Sri Lanka,18,JRMVB Sanjaya,Hasan Ali,S Prasanna,,0,0,0,caught,JRMVB Sanjaya,Faheem Ashraf,376723767

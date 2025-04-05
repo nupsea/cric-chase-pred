@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Afghanistan,0,Karim Sadiq,Mudassar Bukhari,Nawroz Mangal,,0,2,2,,,,316123161
+1,Afghanistan,0,Karim Sadiq,Mudassar Bukhari,Nawroz Mangal,,0,0,0,,,,316123161
+1,Afghanistan,0,Karim Sadiq,Mudassar Bukhari,Nawroz Mangal,,0,1,1,,,,316123161
+1,Afghanistan,0,Nawroz Mangal,Mudassar Bukhari,Karim Sadiq,,0,3,3,,,,316123161
+1,Afghanistan,0,Karim Sadiq,Mudassar Bukhari,Nawroz Mangal,,0,1,1,,,,316123161
+1,Afghanistan,0,Nawroz Mangal,Mudassar Bukhari,Karim Sadiq,,0,0,0,,,,316123161
+1,Afghanistan,1,Karim Sadiq,RN ten Doeschate,Nawroz Mangal,,0,4,4,,,,316123161
+1,Afghanistan,1,Karim Sadiq,RN ten Doeschate,Nawroz Mangal,,0,1,1,,,,316123161
+1,Afghanistan,1,Nawroz Mangal,RN ten Doeschate,Karim Sadiq,,0,1,1,,,,316123161
+1,Afghanistan,1,Karim Sadiq,RN ten Doeschate,Nawroz Mangal,wides,1,1,0,,,,316123161
+1,Afghanistan,1,Karim Sadiq,RN ten Doeschate,Nawroz Mangal,,0,1,1,,,,316123161
+1,Afghanistan,1,Nawroz Mangal,RN ten Doeschate,Karim Sadiq,,0,1,1,,,,316123161
+1,Afghanistan,1,Karim Sadiq,RN ten Doeschate,Nawroz Mangal,,0,1,1,,,,316123161
+1,Afghanistan,2,Karim Sadiq,MBS Jonkman,Nawroz Mangal,,0,0,0,,,,316123161
+1,Afghanistan,2,Karim Sadiq,MBS Jonkman,Nawroz Mangal,,0,1,1,,,,316123161
+1,Afghanistan,2,Nawroz Mangal,MBS Jonkman,Karim Sadiq,,0,1,1,,,,316123161
+1,Afghanistan,2,Karim Sadiq,MBS Jonkman,Nawroz Mangal,,0,2,2,,,,316123161
+1,Afghanistan,2,Karim Sadiq,MBS Jonkman,Nawroz Mangal,,0,0,0,,,,316123161
+1,Afghanistan,2,Karim Sadiq,MBS Jonkman,Nawroz Mangal,wides,1,1,0,,,,316123161
+1,Afghanistan,2,Karim Sadiq,MBS Jonkman,Nawroz Mangal,,0,1,1,,,,316123161
+1,Afghanistan,3,Karim Sadiq,Mudassar Bukhari,Nawroz Mangal,,0,0,0,,,,316123161
+1,Afghanistan,3,Karim Sadiq,Mudassar Bukhari,Nawroz Mangal,,0,2,2,,,,316123161
+1,Afghanistan,3,Karim Sadiq,Mudassar Bukhari,Nawroz Mangal,,0,1,1,,,,316123161
+1,Afghanistan,3,Nawroz Mangal,Mudassar Bukhari,Karim Sadiq,,0,0,0,,,,316123161
+1,Afghanistan,3,Nawroz Mangal,Mudassar Bukhari,Karim Sadiq,,0,4,4,,,,316123161
+1,Afghanistan,3,Nawroz Mangal,Mudassar Bukhari,Karim Sadiq,,0,0,0,,,,316123161
+1,Afghanistan,4,Karim Sadiq,MBS Jonkman,Nawroz Mangal,,0,0,0,caught,Karim Sadiq,PM Seelaar,316123161
+1,Afghanistan,4,Nawroz Mangal,MBS Jonkman,Mohammad Shahzad,,0,0,0,,,,316123161
+1,Afghanistan,4,Nawroz Mangal,MBS Jonkman,Mohammad Shahzad,wides,1,1,0,,,,316123161
+1,Afghanistan,4,Nawroz Mangal,MBS Jonkman,Mohammad Shahzad,,0,0,0,,,,316123161
+1,Afghanistan,4,Nawroz Mangal,MBS Jonkman,Mohammad Shahzad,,0,0,0,bowled,Nawroz Mangal,,316123161
+1,Afghanistan,4,Mohammad Nabi,MBS Jonkman,Mohammad Shahzad,,0,0,0,,,,316123161
+1,Afghanistan,4,Mohammad Nabi,MBS Jonkman,Mohammad Shahzad,,0,1,1,,,,316123161
+1,Afghanistan,5,Mohammad Nabi,RN ten Doeschate,Mohammad Shahzad,,0,0,0,caught,Mohammad Nabi,PW Borren,316123161
+1,Afghanistan,5,Mohammad Shahzad,RN ten Doeschate,Raees Ahmadzai,,0,0,0,,,,316123161
+1,Afghanistan,5,Mohammad Shahzad,RN ten Doeschate,Raees Ahmadzai,,0,0,0,,,,316123161
+1,Afghanistan,5,Mohammad Shahzad,RN ten Doeschate,Raees Ahmadzai,,0,0,0,,,,316123161
+1,Afghanistan,5,Mohammad Shahzad,RN ten Doeschate,Raees Ahmadzai,,0,1,1,,,,316123161
+1,Afghanistan,5,Raees Ahmadzai,RN ten Doeschate,Mohammad Shahzad,,0,4,4,,,,316123161
+1,Afghanistan,6,Mohammad Shahzad,PM Seelaar,Raees Ahmadzai,,0,1,1,,,,316123161
+1,Afghanistan,6,Raees Ahmadzai,PM Seelaar,Mohammad Shahzad,,0,1,1,,,,316123161
+1,Afghanistan,6,Mohammad Shahzad,PM Seelaar,Raees Ahmadzai,,0,1,1,,,,316123161
+1,Afghanistan,6,Raees Ahmadzai,PM Seelaar,Mohammad Shahzad,,0,1,1,,,,316123161
+1,Afghanistan,6,Mohammad Shahzad,PM Seelaar,Raees Ahmadzai,,0,6,6,,,,316123161
+1,Afghanistan,6,Mohammad Shahzad,PM Seelaar,Raees Ahmadzai,,0,0,0,,,,316123161
+1,Afghanistan,7,Raees Ahmadzai,PW Borren,Mohammad Shahzad,legbyes,1,1,0,,,,316123161
+1,Afghanistan,7,Mohammad Shahzad,PW Borren,Raees Ahmadzai,,0,1,1,,,,316123161
+1,Afghanistan,7,Raees Ahmadzai,PW Borren,Mohammad Shahzad,,0,1,1,,,,316123161
+1,Afghanistan,7,Mohammad Shahzad,PW Borren,Raees Ahmadzai,,0,1,1,run out,Mohammad Shahzad,PW Borren,316123161
+1,Afghanistan,7,Raees Ahmadzai,PW Borren,Noor Ali Zadran,,0,0,0,,,,316123161
+1,Afghanistan,7,Raees Ahmadzai,PW Borren,Noor Ali Zadran,,0,0,0,,,,316123161
+1,Afghanistan,8,Noor Ali Zadran,PM Seelaar,Raees Ahmadzai,,0,0,0,,,,316123161
+1,Afghanistan,8,Noor Ali Zadran,PM Seelaar,Raees Ahmadzai,,0,0,0,,,,316123161
+1,Afghanistan,8,Noor Ali Zadran,PM Seelaar,Raees Ahmadzai,,0,0,0,,,,316123161
+1,Afghanistan,8,Noor Ali Zadran,PM Seelaar,Raees Ahmadzai,,0,1,1,,,,316123161
+1,Afghanistan,8,Raees Ahmadzai,PM Seelaar,Noor Ali Zadran,,0,1,1,,,,316123161
+1,Afghanistan,8,Noor Ali Zadran,PM Seelaar,Raees Ahmadzai,,0,0,0,,,,316123161
+1,Afghanistan,9,Raees Ahmadzai,PW Borren,Noor Ali Zadran,,0,1,1,,,,316123161
+1,Afghanistan,9,Noor Ali Zadran,PW Borren,Raees Ahmadzai,,0,1,1,,,,316123161
+1,Afghanistan,9,Raees Ahmadzai,PW Borren,Noor Ali Zadran,,0,1,1,,,,316123161
+1,Afghanistan,9,Noor Ali Zadran,PW Borren,Raees Ahmadzai,,0,2,2,,,,316123161
+1,Afghanistan,9,Noor Ali Zadran,PW Borren,Raees Ahmadzai,,0,1,1,,,,316123161
+1,Afghanistan,9,Raees Ahmadzai,PW Borren,Noor Ali Zadran,,0,0,0,,,,316123161
+1,Afghanistan,10,Noor Ali Zadran,PM Seelaar,Raees Ahmadzai,,0,0,0,,,,316123161
+1,Afghanistan,10,Noor Ali Zadran,PM Seelaar,Raees Ahmadzai,,0,2,2,,,,316123161
+1,Afghanistan,10,Noor Ali Zadran,PM Seelaar,Raees Ahmadzai,,0,1,1,,,,316123161
+1,Afghanistan,10,Raees Ahmadzai,PM Seelaar,Noor Ali Zadran,,0,1,1,,,,316123161
+1,Afghanistan,10,Noor Ali Zadran,PM Seelaar,Raees Ahmadzai,,0,0,0,,,,316123161
+1,Afghanistan,10,Noor Ali Zadran,PM Seelaar,Raees Ahmadzai,,0,0,0,,,,316123161
+1,Afghanistan,11,Raees Ahmadzai,PW Borren,Noor Ali Zadran,,0,4,4,,,,316123161
+1,Afghanistan,11,Raees Ahmadzai,PW Borren,Noor Ali Zadran,,0,0,0,,,,316123161
+1,Afghanistan,11,Raees Ahmadzai,PW Borren,Noor Ali Zadran,,0,1,1,,,,316123161
+1,Afghanistan,11,Noor Ali Zadran,PW Borren,Raees Ahmadzai,,0,1,1,,,,316123161
+1,Afghanistan,11,Raees Ahmadzai,PW Borren,Noor Ali Zadran,,0,1,1,,,,316123161
+1,Afghanistan,11,Noor Ali Zadran,PW Borren,Raees Ahmadzai,,0,1,1,,,,316123161
+1,Afghanistan,12,Noor Ali Zadran,Mohammad Kashif,Raees Ahmadzai,,0,1,1,,,,316123161
+1,Afghanistan,12,Raees Ahmadzai,Mohammad Kashif,Noor Ali Zadran,,0,0,0,,,,316123161
+1,Afghanistan,12,Raees Ahmadzai,Mohammad Kashif,Noor Ali Zadran,,0,1,1,,,,316123161
+1,Afghanistan,12,Noor Ali Zadran,Mohammad Kashif,Raees Ahmadzai,,0,0,0,,,,316123161
+1,Afghanistan,12,Noor Ali Zadran,Mohammad Kashif,Raees Ahmadzai,,0,1,1,,,,316123161
+1,Afghanistan,12,Raees Ahmadzai,Mohammad Kashif,Noor Ali Zadran,,0,1,1,,,,316123161
+1,Afghanistan,13,Raees Ahmadzai,PW Borren,Noor Ali Zadran,,0,2,2,,,,316123161
+1,Afghanistan,13,Raees Ahmadzai,PW Borren,Noor Ali Zadran,,0,1,1,,,,316123161
+1,Afghanistan,13,Noor Ali Zadran,PW Borren,Raees Ahmadzai,,0,1,1,,,,316123161
+1,Afghanistan,13,Raees Ahmadzai,PW Borren,Noor Ali Zadran,,0,1,1,,,,316123161
+1,Afghanistan,13,Noor Ali Zadran,PW Borren,Raees Ahmadzai,,0,2,2,,,,316123161
+1,Afghanistan,13,Noor Ali Zadran,PW Borren,Raees Ahmadzai,,0,0,0,,,,316123161
+1,Afghanistan,14,Raees Ahmadzai,Mohammad Kashif,Noor Ali Zadran,,0,0,0,caught,Raees Ahmadzai,RN ten Doeschate,316123161
+1,Afghanistan,14,Noor Ali Zadran,Mohammad Kashif,Shafiqullah,,0,0,0,,,,316123161
+1,Afghanistan,14,Noor Ali Zadran,Mohammad Kashif,Shafiqullah,,0,1,1,,,,316123161
+1,Afghanistan,14,Shafiqullah,Mohammad Kashif,Noor Ali Zadran,,0,1,1,,,,316123161
+1,Afghanistan,14,Noor Ali Zadran,Mohammad Kashif,Shafiqullah,,0,2,2,,,,316123161
+1,Afghanistan,14,Noor Ali Zadran,Mohammad Kashif,Shafiqullah,,0,0,0,,,,316123161
+1,Afghanistan,15,Shafiqullah,MBS Jonkman,Noor Ali Zadran,,0,0,0,,,,316123161
+1,Afghanistan,15,Shafiqullah,MBS Jonkman,Noor Ali Zadran,,0,0,0,run out,Noor Ali Zadran,AF Buurman,316123161
+1,Afghanistan,15,Samiullah Shenwari,MBS Jonkman,Shafiqullah,,0,1,1,,,,316123161
+1,Afghanistan,15,Shafiqullah,MBS Jonkman,Samiullah Shenwari,,0,0,0,,,,316123161
+1,Afghanistan,15,Shafiqullah,MBS Jonkman,Samiullah Shenwari,,0,1,1,,,,316123161
+1,Afghanistan,15,Samiullah Shenwari,MBS Jonkman,Shafiqullah,,0,1,1,,,,316123161
+1,Afghanistan,16,Samiullah Shenwari,PM Seelaar,Shafiqullah,,0,2,2,,,,316123161
+1,Afghanistan,16,Samiullah Shenwari,PM Seelaar,Shafiqullah,,0,1,1,,,,316123161
+1,Afghanistan,16,Shafiqullah,PM Seelaar,Samiullah Shenwari,,0,0,0,caught,Shafiqullah,Mohammad Kashif,316123161
+1,Afghanistan,16,Samiullah Shenwari,PM Seelaar,Mirwais Ashraf,,0,4,4,,,,316123161
+1,Afghanistan,16,Samiullah Shenwari,PM Seelaar,Mirwais Ashraf,,0,1,1,,,,316123161
+1,Afghanistan,16,Mirwais Ashraf,PM Seelaar,Samiullah Shenwari,,0,1,1,,,,316123161
+1,Afghanistan,17,Mirwais Ashraf,Mudassar Bukhari,Samiullah Shenwari,,0,1,1,,,,316123161
+1,Afghanistan,17,Samiullah Shenwari,Mudassar Bukhari,Mirwais Ashraf,,0,1,1,,,,316123161
+1,Afghanistan,17,Mirwais Ashraf,Mudassar Bukhari,Samiullah Shenwari,,0,2,2,,,,316123161
+1,Afghanistan,17,Mirwais Ashraf,Mudassar Bukhari,Samiullah Shenwari,,0,1,1,,,,316123161
+1,Afghanistan,17,Samiullah Shenwari,Mudassar Bukhari,Mirwais Ashraf,,0,0,0,,,,316123161
+1,Afghanistan,17,Samiullah Shenwari,Mudassar Bukhari,Mirwais Ashraf,,0,1,1,,,,316123161
+1,Afghanistan,18,Samiullah Shenwari,MBS Jonkman,Mirwais Ashraf,,0,1,1,,,,316123161
+1,Afghanistan,18,Mirwais Ashraf,MBS Jonkman,Samiullah Shenwari,byes,1,1,0,,,,316123161
+1,Afghanistan,18,Samiullah Shenwari,MBS Jonkman,Mirwais Ashraf,,0,2,2,,,,316123161
+1,Afghanistan,18,Samiullah Shenwari,MBS Jonkman,Mirwais Ashraf,,0,2,2,,,,316123161
+1,Afghanistan,18,Samiullah Shenwari,MBS Jonkman,Mirwais Ashraf,,0,1,1,,,,316123161
+1,Afghanistan,18,Mirwais Ashraf,MBS Jonkman,Samiullah Shenwari,,0,6,6,,,,316123161
+1,Afghanistan,19,Samiullah Shenwari,Mudassar Bukhari,Mirwais Ashraf,,0,1,1,run out,Samiullah Shenwari,AF Buurman,316123161
+1,Afghanistan,19,Hamid Hassan,Mudassar Bukhari,Mirwais Ashraf,,0,1,1,,,,316123161
+1,Afghanistan,19,Mirwais Ashraf,Mudassar Bukhari,Hamid Hassan,,0,6,6,,,,316123161
+1,Afghanistan,19,Mirwais Ashraf,Mudassar Bukhari,Hamid Hassan,,0,1,1,,,,316123161
+1,Afghanistan,19,Hamid Hassan,Mudassar Bukhari,Mirwais Ashraf,,0,1,1,,,,316123161
+1,Afghanistan,19,Mirwais Ashraf,Mudassar Bukhari,Hamid Hassan,,0,1,1,run out,Mirwais Ashraf,AF Buurman,316123161

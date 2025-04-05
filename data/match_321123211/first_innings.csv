@@ -1,0 +1,122 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Pakistan,0,Mohammad Hafeez,ST Finn,Awais Zia,,0,1,1,,,,321123211
+1,Pakistan,0,Awais Zia,ST Finn,Mohammad Hafeez,,0,2,2,,,,321123211
+1,Pakistan,0,Awais Zia,ST Finn,Mohammad Hafeez,,0,4,4,,,,321123211
+1,Pakistan,0,Awais Zia,ST Finn,Mohammad Hafeez,,0,0,0,,,,321123211
+1,Pakistan,0,Awais Zia,ST Finn,Mohammad Hafeez,,0,1,1,,,,321123211
+1,Pakistan,0,Mohammad Hafeez,ST Finn,Awais Zia,,0,0,0,,,,321123211
+1,Pakistan,1,Awais Zia,JW Dernbach,Mohammad Hafeez,,0,0,0,,,,321123211
+1,Pakistan,1,Awais Zia,JW Dernbach,Mohammad Hafeez,,0,0,0,,,,321123211
+1,Pakistan,1,Awais Zia,JW Dernbach,Mohammad Hafeez,,0,1,1,,,,321123211
+1,Pakistan,1,Mohammad Hafeez,JW Dernbach,Awais Zia,,0,0,0,,,,321123211
+1,Pakistan,1,Mohammad Hafeez,JW Dernbach,Awais Zia,,0,4,4,,,,321123211
+1,Pakistan,1,Mohammad Hafeez,JW Dernbach,Awais Zia,,0,4,4,,,,321123211
+1,Pakistan,2,Awais Zia,ST Finn,Mohammad Hafeez,,0,6,6,,,,321123211
+1,Pakistan,2,Awais Zia,ST Finn,Mohammad Hafeez,,0,2,2,,,,321123211
+1,Pakistan,2,Awais Zia,ST Finn,Mohammad Hafeez,wides,1,1,0,,,,321123211
+1,Pakistan,2,Awais Zia,ST Finn,Mohammad Hafeez,,0,2,2,,,,321123211
+1,Pakistan,2,Awais Zia,ST Finn,Mohammad Hafeez,legbyes,4,4,0,,,,321123211
+1,Pakistan,2,Awais Zia,ST Finn,Mohammad Hafeez,,0,0,0,caught,Awais Zia,SCJ Broad,321123211
+1,Pakistan,2,Asad Shafiq,ST Finn,Mohammad Hafeez,,0,4,4,,,,321123211
+1,Pakistan,3,Mohammad Hafeez,SCJ Broad,Asad Shafiq,,0,1,1,,,,321123211
+1,Pakistan,3,Asad Shafiq,SCJ Broad,Mohammad Hafeez,,0,0,0,,,,321123211
+1,Pakistan,3,Asad Shafiq,SCJ Broad,Mohammad Hafeez,,0,0,0,,,,321123211
+1,Pakistan,3,Asad Shafiq,SCJ Broad,Mohammad Hafeez,,0,0,0,,,,321123211
+1,Pakistan,3,Asad Shafiq,SCJ Broad,Mohammad Hafeez,,0,1,1,,,,321123211
+1,Pakistan,3,Mohammad Hafeez,SCJ Broad,Asad Shafiq,,0,0,0,,,,321123211
+1,Pakistan,4,Asad Shafiq,JW Dernbach,Mohammad Hafeez,,0,4,4,,,,321123211
+1,Pakistan,4,Asad Shafiq,JW Dernbach,Mohammad Hafeez,,0,0,0,,,,321123211
+1,Pakistan,4,Asad Shafiq,JW Dernbach,Mohammad Hafeez,,0,1,1,,,,321123211
+1,Pakistan,4,Mohammad Hafeez,JW Dernbach,Asad Shafiq,,0,1,1,,,,321123211
+1,Pakistan,4,Asad Shafiq,JW Dernbach,Mohammad Hafeez,,0,1,1,,,,321123211
+1,Pakistan,4,Mohammad Hafeez,JW Dernbach,Asad Shafiq,,0,1,1,,,,321123211
+1,Pakistan,5,Mohammad Hafeez,SCJ Broad,Asad Shafiq,,0,0,0,,,,321123211
+1,Pakistan,5,Mohammad Hafeez,SCJ Broad,Asad Shafiq,,0,0,0,,,,321123211
+1,Pakistan,5,Mohammad Hafeez,SCJ Broad,Asad Shafiq,,0,1,1,,,,321123211
+1,Pakistan,5,Asad Shafiq,SCJ Broad,Mohammad Hafeez,,0,0,0,,,,321123211
+1,Pakistan,5,Asad Shafiq,SCJ Broad,Mohammad Hafeez,,0,0,0,,,,321123211
+1,Pakistan,5,Asad Shafiq,SCJ Broad,Mohammad Hafeez,,0,2,2,,,,321123211
+1,Pakistan,6,Mohammad Hafeez,GP Swann,Asad Shafiq,,0,0,0,,,,321123211
+1,Pakistan,6,Mohammad Hafeez,GP Swann,Asad Shafiq,,0,2,2,,,,321123211
+1,Pakistan,6,Mohammad Hafeez,GP Swann,Asad Shafiq,,0,1,1,,,,321123211
+1,Pakistan,6,Asad Shafiq,GP Swann,Mohammad Hafeez,,0,3,3,,,,321123211
+1,Pakistan,6,Mohammad Hafeez,GP Swann,Asad Shafiq,,0,1,1,,,,321123211
+1,Pakistan,6,Asad Shafiq,GP Swann,Mohammad Hafeez,,0,1,1,,,,321123211
+1,Pakistan,7,Asad Shafiq,RS Bopara,Mohammad Hafeez,,0,0,0,,,,321123211
+1,Pakistan,7,Asad Shafiq,RS Bopara,Mohammad Hafeez,,0,1,1,,,,321123211
+1,Pakistan,7,Mohammad Hafeez,RS Bopara,Asad Shafiq,,0,4,4,,,,321123211
+1,Pakistan,7,Mohammad Hafeez,RS Bopara,Asad Shafiq,,0,1,1,,,,321123211
+1,Pakistan,7,Asad Shafiq,RS Bopara,Mohammad Hafeez,,0,1,1,,,,321123211
+1,Pakistan,7,Mohammad Hafeez,RS Bopara,Asad Shafiq,,0,1,1,,,,321123211
+1,Pakistan,8,Mohammad Hafeez,GP Swann,Asad Shafiq,,0,0,0,run out,Asad Shafiq,GP Swann,321123211
+1,Pakistan,8,Mohammad Hafeez,GP Swann,Shahid Afridi,,0,0,0,,,,321123211
+1,Pakistan,8,Mohammad Hafeez,GP Swann,Shahid Afridi,,0,0,0,caught,Mohammad Hafeez,JM Bairstow,321123211
+1,Pakistan,8,Shahid Afridi,GP Swann,Misbah-ul-Haq,,0,0,0,,,,321123211
+1,Pakistan,8,Shahid Afridi,GP Swann,Misbah-ul-Haq,,0,1,1,,,,321123211
+1,Pakistan,8,Misbah-ul-Haq,GP Swann,Shahid Afridi,,0,0,0,,,,321123211
+1,Pakistan,9,Shahid Afridi,SCJ Broad,Misbah-ul-Haq,,0,0,0,,,,321123211
+1,Pakistan,9,Shahid Afridi,SCJ Broad,Misbah-ul-Haq,,0,4,4,,,,321123211
+1,Pakistan,9,Shahid Afridi,SCJ Broad,Misbah-ul-Haq,,0,1,1,,,,321123211
+1,Pakistan,9,Misbah-ul-Haq,SCJ Broad,Shahid Afridi,,0,1,1,,,,321123211
+1,Pakistan,9,Shahid Afridi,SCJ Broad,Misbah-ul-Haq,,0,1,1,,,,321123211
+1,Pakistan,9,Misbah-ul-Haq,SCJ Broad,Shahid Afridi,,0,0,0,,,,321123211
+1,Pakistan,10,Shahid Afridi,GP Swann,Misbah-ul-Haq,,0,0,0,caught,Shahid Afridi,EJG Morgan,321123211
+1,Pakistan,10,Umar Akmal,GP Swann,Misbah-ul-Haq,,0,0,0,,,,321123211
+1,Pakistan,10,Umar Akmal,GP Swann,Misbah-ul-Haq,,0,0,0,,,,321123211
+1,Pakistan,10,Umar Akmal,GP Swann,Misbah-ul-Haq,,0,0,0,caught,Umar Akmal,JW Dernbach,321123211
+1,Pakistan,10,Shoaib Malik,GP Swann,Misbah-ul-Haq,,0,0,0,,,,321123211
+1,Pakistan,10,Shoaib Malik,GP Swann,Misbah-ul-Haq,,0,0,0,,,,321123211
+1,Pakistan,11,Misbah-ul-Haq,SR Patel,Shoaib Malik,,0,2,2,,,,321123211
+1,Pakistan,11,Misbah-ul-Haq,SR Patel,Shoaib Malik,,0,0,0,,,,321123211
+1,Pakistan,11,Misbah-ul-Haq,SR Patel,Shoaib Malik,,0,0,0,,,,321123211
+1,Pakistan,11,Misbah-ul-Haq,SR Patel,Shoaib Malik,,0,0,0,,,,321123211
+1,Pakistan,11,Misbah-ul-Haq,SR Patel,Shoaib Malik,,0,1,1,,,,321123211
+1,Pakistan,11,Shoaib Malik,SR Patel,Misbah-ul-Haq,,0,0,0,,,,321123211
+1,Pakistan,12,Misbah-ul-Haq,GP Swann,Shoaib Malik,,0,1,1,,,,321123211
+1,Pakistan,12,Shoaib Malik,GP Swann,Misbah-ul-Haq,,0,1,1,,,,321123211
+1,Pakistan,12,Misbah-ul-Haq,GP Swann,Shoaib Malik,,0,1,1,,,,321123211
+1,Pakistan,12,Shoaib Malik,GP Swann,Misbah-ul-Haq,,0,0,0,,,,321123211
+1,Pakistan,12,Shoaib Malik,GP Swann,Misbah-ul-Haq,,0,0,0,,,,321123211
+1,Pakistan,12,Shoaib Malik,GP Swann,Misbah-ul-Haq,,0,1,1,,,,321123211
+1,Pakistan,13,Shoaib Malik,SR Patel,Misbah-ul-Haq,,0,1,1,,,,321123211
+1,Pakistan,13,Misbah-ul-Haq,SR Patel,Shoaib Malik,,0,1,1,,,,321123211
+1,Pakistan,13,Shoaib Malik,SR Patel,Misbah-ul-Haq,,0,0,0,,,,321123211
+1,Pakistan,13,Shoaib Malik,SR Patel,Misbah-ul-Haq,,0,1,1,,,,321123211
+1,Pakistan,13,Misbah-ul-Haq,SR Patel,Shoaib Malik,,0,1,1,,,,321123211
+1,Pakistan,13,Shoaib Malik,SR Patel,Misbah-ul-Haq,,0,6,6,,,,321123211
+1,Pakistan,14,Misbah-ul-Haq,ST Finn,Shoaib Malik,legbyes,1,1,0,,,,321123211
+1,Pakistan,14,Shoaib Malik,ST Finn,Misbah-ul-Haq,,0,1,1,,,,321123211
+1,Pakistan,14,Misbah-ul-Haq,ST Finn,Shoaib Malik,legbyes,4,4,0,,,,321123211
+1,Pakistan,14,Misbah-ul-Haq,ST Finn,Shoaib Malik,,0,1,1,,,,321123211
+1,Pakistan,14,Shoaib Malik,ST Finn,Misbah-ul-Haq,,0,1,1,,,,321123211
+1,Pakistan,14,Misbah-ul-Haq,ST Finn,Shoaib Malik,,0,1,1,,,,321123211
+1,Pakistan,15,Misbah-ul-Haq,SR Patel,Shoaib Malik,,0,1,1,,,,321123211
+1,Pakistan,15,Shoaib Malik,SR Patel,Misbah-ul-Haq,,0,0,0,,,,321123211
+1,Pakistan,15,Shoaib Malik,SR Patel,Misbah-ul-Haq,,0,1,1,,,,321123211
+1,Pakistan,15,Misbah-ul-Haq,SR Patel,Shoaib Malik,,0,6,6,,,,321123211
+1,Pakistan,15,Misbah-ul-Haq,SR Patel,Shoaib Malik,,0,1,1,,,,321123211
+1,Pakistan,15,Shoaib Malik,SR Patel,Misbah-ul-Haq,,0,1,1,,,,321123211
+1,Pakistan,16,Shoaib Malik,SCJ Broad,Misbah-ul-Haq,,0,4,4,,,,321123211
+1,Pakistan,16,Shoaib Malik,SCJ Broad,Misbah-ul-Haq,,0,0,0,,,,321123211
+1,Pakistan,16,Shoaib Malik,SCJ Broad,Misbah-ul-Haq,,0,2,2,,,,321123211
+1,Pakistan,16,Shoaib Malik,SCJ Broad,Misbah-ul-Haq,legbyes,2,2,0,,,,321123211
+1,Pakistan,16,Shoaib Malik,SCJ Broad,Misbah-ul-Haq,,0,1,1,,,,321123211
+1,Pakistan,16,Misbah-ul-Haq,SCJ Broad,Shoaib Malik,,0,0,0,,,,321123211
+1,Pakistan,17,Shoaib Malik,JW Dernbach,Misbah-ul-Haq,,0,1,1,,,,321123211
+1,Pakistan,17,Misbah-ul-Haq,JW Dernbach,Shoaib Malik,,0,1,1,,,,321123211
+1,Pakistan,17,Shoaib Malik,JW Dernbach,Misbah-ul-Haq,,0,0,0,,,,321123211
+1,Pakistan,17,Shoaib Malik,JW Dernbach,Misbah-ul-Haq,,0,1,1,,,,321123211
+1,Pakistan,17,Misbah-ul-Haq,JW Dernbach,Shoaib Malik,,0,1,1,,,,321123211
+1,Pakistan,17,Shoaib Malik,JW Dernbach,Misbah-ul-Haq,,0,1,1,,,,321123211
+1,Pakistan,18,Shoaib Malik,ST Finn,Misbah-ul-Haq,,0,4,4,,,,321123211
+1,Pakistan,18,Shoaib Malik,ST Finn,Misbah-ul-Haq,,0,1,1,,,,321123211
+1,Pakistan,18,Misbah-ul-Haq,ST Finn,Shoaib Malik,,0,1,1,,,,321123211
+1,Pakistan,18,Shoaib Malik,ST Finn,Misbah-ul-Haq,,0,0,0,,,,321123211
+1,Pakistan,18,Shoaib Malik,ST Finn,Misbah-ul-Haq,,0,4,4,,,,321123211
+1,Pakistan,18,Shoaib Malik,ST Finn,Misbah-ul-Haq,,0,2,2,,,,321123211
+1,Pakistan,19,Misbah-ul-Haq,JW Dernbach,Shoaib Malik,,0,0,0,,,,321123211
+1,Pakistan,19,Misbah-ul-Haq,JW Dernbach,Shoaib Malik,,0,4,4,,,,321123211
+1,Pakistan,19,Misbah-ul-Haq,JW Dernbach,Shoaib Malik,,0,1,1,,,,321123211
+1,Pakistan,19,Shoaib Malik,JW Dernbach,Misbah-ul-Haq,,0,0,0,,,,321123211
+1,Pakistan,19,Shoaib Malik,JW Dernbach,Misbah-ul-Haq,,0,4,4,,,,321123211
+1,Pakistan,19,Shoaib Malik,JW Dernbach,Misbah-ul-Haq,,0,0,0,caught,Shoaib Malik,JM Bairstow,321123211

@@ -1,0 +1,105 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Tanzania,0,AR Patwa,SO Ngoche,II Selemani,,0,0,0,,,,31867231867
+1,Tanzania,0,AR Patwa,SO Ngoche,II Selemani,,0,0,0,caught,AR Patwa,S Singh,31867231867
+1,Tanzania,0,AA Jasani,SO Ngoche,II Selemani,,0,0,0,,,,31867231867
+1,Tanzania,0,AA Jasani,SO Ngoche,II Selemani,,0,1,1,,,,31867231867
+1,Tanzania,0,II Selemani,SO Ngoche,AA Jasani,,0,0,0,,,,31867231867
+1,Tanzania,0,II Selemani,SO Ngoche,AA Jasani,,0,0,0,caught,II Selemani,RN Patel,31867231867
+1,Tanzania,1,AA Jasani,NN Odhiambo,K Nassoro,,0,0,0,caught,AA Jasani,IA Karim,31867231867
+1,Tanzania,1,K Nassoro,NN Odhiambo,Jitin Singh,,0,1,1,,,,31867231867
+1,Tanzania,1,Jitin Singh,NN Odhiambo,K Nassoro,,0,0,0,,,,31867231867
+1,Tanzania,1,Jitin Singh,NN Odhiambo,K Nassoro,,0,4,4,,,,31867231867
+1,Tanzania,1,Jitin Singh,NN Odhiambo,K Nassoro,,0,4,4,,,,31867231867
+1,Tanzania,1,Jitin Singh,NN Odhiambo,K Nassoro,,0,3,3,,,,31867231867
+1,Tanzania,2,Jitin Singh,SO Ngoche,K Nassoro,,0,0,0,,,,31867231867
+1,Tanzania,2,Jitin Singh,SO Ngoche,K Nassoro,,0,1,1,,,,31867231867
+1,Tanzania,2,K Nassoro,SO Ngoche,Jitin Singh,,0,0,0,,,,31867231867
+1,Tanzania,2,K Nassoro,SO Ngoche,Jitin Singh,,0,0,0,,,,31867231867
+1,Tanzania,2,K Nassoro,SO Ngoche,Jitin Singh,,0,0,0,,,,31867231867
+1,Tanzania,2,K Nassoro,SO Ngoche,Jitin Singh,,0,1,1,,,,31867231867
+1,Tanzania,3,K Nassoro,NN Odhiambo,Jitin Singh,,0,4,4,,,,31867231867
+1,Tanzania,3,K Nassoro,NN Odhiambo,Jitin Singh,,0,4,4,,,,31867231867
+1,Tanzania,3,K Nassoro,NN Odhiambo,Jitin Singh,,0,1,1,,,,31867231867
+1,Tanzania,3,Jitin Singh,NN Odhiambo,K Nassoro,,0,1,1,,,,31867231867
+1,Tanzania,3,K Nassoro,NN Odhiambo,Jitin Singh,,0,0,0,,,,31867231867
+1,Tanzania,3,K Nassoro,NN Odhiambo,Jitin Singh,,0,6,6,,,,31867231867
+1,Tanzania,4,Jitin Singh,E Otieno,K Nassoro,,0,4,4,,,,31867231867
+1,Tanzania,4,Jitin Singh,E Otieno,K Nassoro,,0,0,0,,,,31867231867
+1,Tanzania,4,Jitin Singh,E Otieno,K Nassoro,,0,1,1,,,,31867231867
+1,Tanzania,4,K Nassoro,E Otieno,Jitin Singh,,0,0,0,,,,31867231867
+1,Tanzania,4,K Nassoro,E Otieno,Jitin Singh,,0,6,6,,,,31867231867
+1,Tanzania,4,K Nassoro,E Otieno,Jitin Singh,,0,1,1,,,,31867231867
+1,Tanzania,5,K Nassoro,SO Ngoche,Jitin Singh,,0,1,1,,,,31867231867
+1,Tanzania,5,Jitin Singh,SO Ngoche,K Nassoro,,0,0,0,,,,31867231867
+1,Tanzania,5,Jitin Singh,SO Ngoche,K Nassoro,,0,1,1,,,,31867231867
+1,Tanzania,5,K Nassoro,SO Ngoche,Jitin Singh,,0,1,1,,,,31867231867
+1,Tanzania,5,Jitin Singh,SO Ngoche,K Nassoro,,0,1,1,,,,31867231867
+1,Tanzania,5,K Nassoro,SO Ngoche,Jitin Singh,,0,1,1,,,,31867231867
+1,Tanzania,6,K Nassoro,Vraj Patel,Jitin Singh,,0,1,1,,,,31867231867
+1,Tanzania,6,Jitin Singh,Vraj Patel,K Nassoro,,0,1,1,,,,31867231867
+1,Tanzania,6,K Nassoro,Vraj Patel,Jitin Singh,,0,1,1,,,,31867231867
+1,Tanzania,6,Jitin Singh,Vraj Patel,K Nassoro,,0,0,0,stumped,Jitin Singh,IA Karim,31867231867
+1,Tanzania,6,N Mapunda,Vraj Patel,K Nassoro,,0,0,0,,,,31867231867
+1,Tanzania,6,N Mapunda,Vraj Patel,K Nassoro,,0,4,4,,,,31867231867
+1,Tanzania,7,K Nassoro,CO Obuya,N Mapunda,,0,0,0,,,,31867231867
+1,Tanzania,7,K Nassoro,CO Obuya,N Mapunda,,0,1,1,,,,31867231867
+1,Tanzania,7,N Mapunda,CO Obuya,K Nassoro,,0,4,4,,,,31867231867
+1,Tanzania,7,N Mapunda,CO Obuya,K Nassoro,,0,0,0,,,,31867231867
+1,Tanzania,7,N Mapunda,CO Obuya,K Nassoro,legbyes,1,1,0,,,,31867231867
+1,Tanzania,7,K Nassoro,CO Obuya,N Mapunda,,0,0,0,,,,31867231867
+1,Tanzania,8,N Mapunda,Vraj Patel,K Nassoro,,0,0,0,,,,31867231867
+1,Tanzania,8,N Mapunda,Vraj Patel,K Nassoro,,0,1,1,,,,31867231867
+1,Tanzania,8,K Nassoro,Vraj Patel,N Mapunda,,0,0,0,,,,31867231867
+1,Tanzania,8,K Nassoro,Vraj Patel,N Mapunda,,0,1,1,,,,31867231867
+1,Tanzania,8,N Mapunda,Vraj Patel,K Nassoro,,0,0,0,,,,31867231867
+1,Tanzania,8,N Mapunda,Vraj Patel,K Nassoro,,0,1,1,,,,31867231867
+1,Tanzania,9,N Mapunda,CO Obuya,K Nassoro,,0,0,0,,,,31867231867
+1,Tanzania,9,N Mapunda,CO Obuya,K Nassoro,,0,0,0,,,,31867231867
+1,Tanzania,9,N Mapunda,CO Obuya,K Nassoro,,0,0,0,,,,31867231867
+1,Tanzania,9,N Mapunda,CO Obuya,K Nassoro,,0,0,0,,,,31867231867
+1,Tanzania,9,N Mapunda,CO Obuya,K Nassoro,,0,0,0,,,,31867231867
+1,Tanzania,9,N Mapunda,CO Obuya,K Nassoro,,0,0,0,,,,31867231867
+1,Tanzania,10,K Nassoro,Vraj Patel,N Mapunda,,0,1,1,,,,31867231867
+1,Tanzania,10,N Mapunda,Vraj Patel,K Nassoro,,0,2,2,,,,31867231867
+1,Tanzania,10,N Mapunda,Vraj Patel,K Nassoro,,0,0,0,,,,31867231867
+1,Tanzania,10,N Mapunda,Vraj Patel,K Nassoro,,0,1,1,,,,31867231867
+1,Tanzania,10,K Nassoro,Vraj Patel,N Mapunda,,0,1,1,,,,31867231867
+1,Tanzania,10,N Mapunda,Vraj Patel,K Nassoro,,0,0,0,,,,31867231867
+1,Tanzania,11,K Nassoro,CO Obuya,N Mapunda,,0,1,1,,,,31867231867
+1,Tanzania,11,N Mapunda,CO Obuya,K Nassoro,,0,2,2,,,,31867231867
+1,Tanzania,11,N Mapunda,CO Obuya,K Nassoro,,0,0,0,caught,N Mapunda,S Singh,31867231867
+1,Tanzania,11,K Nassoro,CO Obuya,S Thakor,,0,4,4,,,,31867231867
+1,Tanzania,11,K Nassoro,CO Obuya,S Thakor,,0,2,2,,,,31867231867
+1,Tanzania,11,K Nassoro,CO Obuya,S Thakor,,0,1,1,,,,31867231867
+1,Tanzania,12,K Nassoro,Vraj Patel,S Thakor,,0,1,1,,,,31867231867
+1,Tanzania,12,S Thakor,Vraj Patel,K Nassoro,,0,0,0,lbw,S Thakor,,31867231867
+1,Tanzania,12,RK Kiseto,Vraj Patel,K Nassoro,,0,0,0,,,,31867231867
+1,Tanzania,12,RK Kiseto,Vraj Patel,K Nassoro,,0,0,0,,,,31867231867
+1,Tanzania,12,RK Kiseto,Vraj Patel,K Nassoro,,0,1,1,,,,31867231867
+1,Tanzania,12,K Nassoro,Vraj Patel,RK Kiseto,,0,0,0,caught,K Nassoro,S Singh,31867231867
+1,Tanzania,13,RK Kiseto,CO Obuya,SA Jumbe,,0,0,0,,,,31867231867
+1,Tanzania,13,RK Kiseto,CO Obuya,SA Jumbe,,0,2,2,,,,31867231867
+1,Tanzania,13,RK Kiseto,CO Obuya,SA Jumbe,,0,0,0,,,,31867231867
+1,Tanzania,13,RK Kiseto,CO Obuya,SA Jumbe,wides,1,1,0,,,,31867231867
+1,Tanzania,13,RK Kiseto,CO Obuya,SA Jumbe,,0,1,1,,,,31867231867
+1,Tanzania,13,SA Jumbe,CO Obuya,RK Kiseto,,0,4,4,,,,31867231867
+1,Tanzania,13,SA Jumbe,CO Obuya,RK Kiseto,wides,1,1,0,,,,31867231867
+1,Tanzania,13,SA Jumbe,CO Obuya,RK Kiseto,,0,0,0,,,,31867231867
+1,Tanzania,14,RK Kiseto,RN Patel,SA Jumbe,,0,0,0,,,,31867231867
+1,Tanzania,14,RK Kiseto,RN Patel,SA Jumbe,,0,1,1,,,,31867231867
+1,Tanzania,14,SA Jumbe,RN Patel,RK Kiseto,,0,1,1,,,,31867231867
+1,Tanzania,14,RK Kiseto,RN Patel,SA Jumbe,,0,0,0,,,,31867231867
+1,Tanzania,14,RK Kiseto,RN Patel,SA Jumbe,,0,0,0,caught,RK Kiseto,IA Karim,31867231867
+1,Tanzania,14,HA Chohan,RN Patel,SA Jumbe,,0,0,0,,,,31867231867
+1,Tanzania,15,SA Jumbe,SO Ngoche,HA Chohan,,0,1,1,,,,31867231867
+1,Tanzania,15,HA Chohan,SO Ngoche,SA Jumbe,,0,0,0,,,,31867231867
+1,Tanzania,15,HA Chohan,SO Ngoche,SA Jumbe,,0,2,2,,,,31867231867
+1,Tanzania,15,HA Chohan,SO Ngoche,SA Jumbe,,0,1,1,,,,31867231867
+1,Tanzania,15,SA Jumbe,SO Ngoche,HA Chohan,,0,0,0,,,,31867231867
+1,Tanzania,15,SA Jumbe,SO Ngoche,HA Chohan,,0,0,0,run out,HA Chohan,SO Ngoche,31867231867
+1,Tanzania,16,AM Kimote,RN Patel,SA Jumbe,,0,1,1,,,,31867231867
+1,Tanzania,16,SA Jumbe,RN Patel,AM Kimote,,0,1,1,,,,31867231867
+1,Tanzania,16,AM Kimote,RN Patel,SA Jumbe,,0,2,2,,,,31867231867
+1,Tanzania,16,AM Kimote,RN Patel,SA Jumbe,,0,1,1,,,,31867231867
+1,Tanzania,16,SA Jumbe,RN Patel,AM Kimote,,0,0,0,,,,31867231867
+1,Tanzania,16,SA Jumbe,RN Patel,AM Kimote,,0,0,0,lbw,SA Jumbe,,31867231867

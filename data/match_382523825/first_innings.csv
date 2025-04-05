@@ -1,0 +1,103 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Netherlands,0,TP Visee,Sompal Kami,MP O'Dowd,,0,0,0,,,,382523825
+1,Netherlands,0,TP Visee,Sompal Kami,MP O'Dowd,,0,4,4,,,,382523825
+1,Netherlands,0,TP Visee,Sompal Kami,MP O'Dowd,,0,0,0,,,,382523825
+1,Netherlands,0,TP Visee,Sompal Kami,MP O'Dowd,,0,2,2,,,,382523825
+1,Netherlands,0,TP Visee,Sompal Kami,MP O'Dowd,,0,0,0,,,,382523825
+1,Netherlands,0,TP Visee,Sompal Kami,MP O'Dowd,wides,1,1,0,,,,382523825
+1,Netherlands,0,TP Visee,Sompal Kami,MP O'Dowd,,0,4,4,,,,382523825
+1,Netherlands,1,MP O'Dowd,B Regmi,TP Visee,,0,1,1,,,,382523825
+1,Netherlands,1,TP Visee,B Regmi,MP O'Dowd,,0,1,1,,,,382523825
+1,Netherlands,1,MP O'Dowd,B Regmi,TP Visee,,0,0,0,,,,382523825
+1,Netherlands,1,MP O'Dowd,B Regmi,TP Visee,,0,1,1,,,,382523825
+1,Netherlands,1,TP Visee,B Regmi,MP O'Dowd,,0,0,0,bowled,TP Visee,,382523825
+1,Netherlands,1,W Barresi,B Regmi,MP O'Dowd,,0,0,0,,,,382523825
+1,Netherlands,2,MP O'Dowd,Karan KC,W Barresi,,0,3,3,,,,382523825
+1,Netherlands,2,W Barresi,Karan KC,MP O'Dowd,,0,4,4,,,,382523825
+1,Netherlands,2,W Barresi,Karan KC,MP O'Dowd,,0,2,2,,,,382523825
+1,Netherlands,2,W Barresi,Karan KC,MP O'Dowd,,0,1,1,,,,382523825
+1,Netherlands,2,MP O'Dowd,Karan KC,W Barresi,,0,0,0,caught,MP O'Dowd,Aarif Sheikh,382523825
+1,Netherlands,2,W Barresi,Karan KC,RN ten Doeschate,,0,0,0,,,,382523825
+1,Netherlands,3,RN ten Doeschate,S Lamichhane,W Barresi,,0,0,0,,,,382523825
+1,Netherlands,3,RN ten Doeschate,S Lamichhane,W Barresi,,0,0,0,,,,382523825
+1,Netherlands,3,RN ten Doeschate,S Lamichhane,W Barresi,,0,1,1,,,,382523825
+1,Netherlands,3,W Barresi,S Lamichhane,RN ten Doeschate,,0,0,0,,,,382523825
+1,Netherlands,3,W Barresi,S Lamichhane,RN ten Doeschate,,0,4,4,,,,382523825
+1,Netherlands,3,W Barresi,S Lamichhane,RN ten Doeschate,,0,1,1,,,,382523825
+1,Netherlands,4,W Barresi,Sompal Kami,RN ten Doeschate,,0,4,4,,,,382523825
+1,Netherlands,4,W Barresi,Sompal Kami,RN ten Doeschate,,0,6,6,,,,382523825
+1,Netherlands,4,W Barresi,Sompal Kami,RN ten Doeschate,,0,1,1,,,,382523825
+1,Netherlands,4,RN ten Doeschate,Sompal Kami,W Barresi,legbyes,1,1,0,,,,382523825
+1,Netherlands,4,W Barresi,Sompal Kami,RN ten Doeschate,,0,1,1,,,,382523825
+1,Netherlands,4,RN ten Doeschate,Sompal Kami,W Barresi,,0,1,1,,,,382523825
+1,Netherlands,5,RN ten Doeschate,B Regmi,W Barresi,,0,6,6,,,,382523825
+1,Netherlands,5,RN ten Doeschate,B Regmi,W Barresi,,0,1,1,,,,382523825
+1,Netherlands,5,W Barresi,B Regmi,RN ten Doeschate,,0,3,3,,,,382523825
+1,Netherlands,5,RN ten Doeschate,B Regmi,W Barresi,,0,1,1,,,,382523825
+1,Netherlands,5,W Barresi,B Regmi,RN ten Doeschate,,0,4,4,,,,382523825
+1,Netherlands,5,W Barresi,B Regmi,RN ten Doeschate,,0,1,1,,,,382523825
+1,Netherlands,6,W Barresi,S Lamichhane,RN ten Doeschate,,0,1,1,,,,382523825
+1,Netherlands,6,RN ten Doeschate,S Lamichhane,W Barresi,,0,1,1,,,,382523825
+1,Netherlands,6,W Barresi,S Lamichhane,RN ten Doeschate,,0,0,0,,,,382523825
+1,Netherlands,6,W Barresi,S Lamichhane,RN ten Doeschate,,0,4,4,,,,382523825
+1,Netherlands,6,W Barresi,S Lamichhane,RN ten Doeschate,,0,0,0,,,,382523825
+1,Netherlands,6,W Barresi,S Lamichhane,RN ten Doeschate,,0,4,4,,,,382523825
+1,Netherlands,7,RN ten Doeschate,LN Rajbanshi,W Barresi,,0,1,1,,,,382523825
+1,Netherlands,7,W Barresi,LN Rajbanshi,RN ten Doeschate,wides,2,2,0,,,,382523825
+1,Netherlands,7,RN ten Doeschate,LN Rajbanshi,W Barresi,,0,0,0,,,,382523825
+1,Netherlands,7,RN ten Doeschate,LN Rajbanshi,W Barresi,,0,0,0,,,,382523825
+1,Netherlands,7,RN ten Doeschate,LN Rajbanshi,W Barresi,,0,1,1,,,,382523825
+1,Netherlands,7,W Barresi,LN Rajbanshi,RN ten Doeschate,,0,1,1,,,,382523825
+1,Netherlands,7,RN ten Doeschate,LN Rajbanshi,W Barresi,,0,0,0,,,,382523825
+1,Netherlands,8,W Barresi,Sompal Kami,RN ten Doeschate,,0,1,1,,,,382523825
+1,Netherlands,8,RN ten Doeschate,Sompal Kami,W Barresi,,0,1,1,,,,382523825
+1,Netherlands,8,W Barresi,Sompal Kami,RN ten Doeschate,,0,1,1,,,,382523825
+1,Netherlands,8,RN ten Doeschate,Sompal Kami,W Barresi,,0,1,1,,,,382523825
+1,Netherlands,8,W Barresi,Sompal Kami,RN ten Doeschate,,0,0,0,bowled,W Barresi,,382523825
+1,Netherlands,8,MJG Rippon,Sompal Kami,RN ten Doeschate,,0,1,1,,,,382523825
+1,Netherlands,9,MJG Rippon,LN Rajbanshi,RN ten Doeschate,,0,1,1,,,,382523825
+1,Netherlands,9,RN ten Doeschate,LN Rajbanshi,MJG Rippon,,0,1,1,,,,382523825
+1,Netherlands,9,MJG Rippon,LN Rajbanshi,RN ten Doeschate,,0,0,0,,,,382523825
+1,Netherlands,9,MJG Rippon,LN Rajbanshi,RN ten Doeschate,,0,0,0,,,,382523825
+1,Netherlands,9,MJG Rippon,LN Rajbanshi,RN ten Doeschate,,0,2,2,,,,382523825
+1,Netherlands,9,MJG Rippon,LN Rajbanshi,RN ten Doeschate,,0,2,2,,,,382523825
+1,Netherlands,10,RN ten Doeschate,P Khadka,MJG Rippon,,0,2,2,,,,382523825
+1,Netherlands,10,RN ten Doeschate,P Khadka,MJG Rippon,,0,2,2,,,,382523825
+1,Netherlands,10,RN ten Doeschate,P Khadka,MJG Rippon,,0,6,6,,,,382523825
+1,Netherlands,10,RN ten Doeschate,P Khadka,MJG Rippon,,0,1,1,,,,382523825
+1,Netherlands,10,MJG Rippon,P Khadka,RN ten Doeschate,,0,0,0,,,,382523825
+1,Netherlands,10,MJG Rippon,P Khadka,RN ten Doeschate,,0,4,4,,,,382523825
+1,Netherlands,11,RN ten Doeschate,B Regmi,MJG Rippon,,0,0,0,,,,382523825
+1,Netherlands,11,RN ten Doeschate,B Regmi,MJG Rippon,,0,2,2,,,,382523825
+1,Netherlands,11,RN ten Doeschate,B Regmi,MJG Rippon,,0,4,4,,,,382523825
+1,Netherlands,11,RN ten Doeschate,B Regmi,MJG Rippon,,0,1,1,,,,382523825
+1,Netherlands,11,MJG Rippon,B Regmi,RN ten Doeschate,,0,1,1,,,,382523825
+1,Netherlands,11,RN ten Doeschate,B Regmi,MJG Rippon,,0,3,3,,,,382523825
+1,Netherlands,12,RN ten Doeschate,S Lamichhane,MJG Rippon,,0,1,1,,,,382523825
+1,Netherlands,12,MJG Rippon,S Lamichhane,RN ten Doeschate,,0,0,0,run out,RN ten Doeschate,,382523825
+1,Netherlands,12,SA Edwards,S Lamichhane,MJG Rippon,,0,2,2,,,,382523825
+1,Netherlands,12,SA Edwards,S Lamichhane,MJG Rippon,,0,2,2,,,,382523825
+1,Netherlands,12,SA Edwards,S Lamichhane,MJG Rippon,,0,4,4,,,,382523825
+1,Netherlands,12,SA Edwards,S Lamichhane,MJG Rippon,,0,1,1,,,,382523825
+1,Netherlands,13,SA Edwards,LN Rajbanshi,MJG Rippon,,0,1,1,,,,382523825
+1,Netherlands,13,MJG Rippon,LN Rajbanshi,SA Edwards,,0,6,6,,,,382523825
+1,Netherlands,13,MJG Rippon,LN Rajbanshi,SA Edwards,,0,1,1,,,,382523825
+1,Netherlands,13,SA Edwards,LN Rajbanshi,MJG Rippon,,0,4,4,,,,382523825
+1,Netherlands,13,SA Edwards,LN Rajbanshi,MJG Rippon,,0,1,1,,,,382523825
+1,Netherlands,13,MJG Rippon,LN Rajbanshi,SA Edwards,,0,1,1,,,,382523825
+1,Netherlands,14,MJG Rippon,Sompal Kami,SA Edwards,,0,2,2,,,,382523825
+1,Netherlands,14,MJG Rippon,Sompal Kami,SA Edwards,,0,1,1,,,,382523825
+1,Netherlands,14,SA Edwards,Sompal Kami,MJG Rippon,,0,0,0,,,,382523825
+1,Netherlands,14,SA Edwards,Sompal Kami,MJG Rippon,,0,4,4,,,,382523825
+1,Netherlands,14,SA Edwards,Sompal Kami,MJG Rippon,,0,1,1,,,,382523825
+1,Netherlands,14,MJG Rippon,Sompal Kami,SA Edwards,,0,6,6,,,,382523825
+1,Netherlands,15,SA Edwards,S Lamichhane,MJG Rippon,,0,6,6,,,,382523825
+1,Netherlands,15,SA Edwards,S Lamichhane,MJG Rippon,,0,6,6,,,,382523825
+1,Netherlands,15,SA Edwards,S Lamichhane,MJG Rippon,,0,1,1,,,,382523825
+1,Netherlands,15,MJG Rippon,S Lamichhane,SA Edwards,,0,4,4,,,,382523825
+1,Netherlands,15,MJG Rippon,S Lamichhane,SA Edwards,,0,0,0,,,,382523825
+1,Netherlands,15,MJG Rippon,S Lamichhane,SA Edwards,,0,0,0,,,,382523825
+1,Netherlands,16,SA Edwards,Karan KC,MJG Rippon,,0,1,1,,,,382523825
+1,Netherlands,16,MJG Rippon,Karan KC,SA Edwards,,0,4,4,,,,382523825
+1,Netherlands,16,MJG Rippon,Karan KC,SA Edwards,,0,0,0,,,,382523825
+1,Netherlands,16,MJG Rippon,Karan KC,SA Edwards,,0,2,2,,,,382523825

@@ -1,0 +1,127 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Australia,0,AJ Healy,S Ismail,BL Mooney,,0,0,0,,,,31039231039
+1,Australia,0,AJ Healy,S Ismail,BL Mooney,,0,0,0,,,,31039231039
+1,Australia,0,AJ Healy,S Ismail,BL Mooney,,0,0,0,,,,31039231039
+1,Australia,0,AJ Healy,S Ismail,BL Mooney,,0,4,4,,,,31039231039
+1,Australia,0,AJ Healy,S Ismail,BL Mooney,,0,1,1,,,,31039231039
+1,Australia,0,BL Mooney,S Ismail,AJ Healy,,0,1,1,,,,31039231039
+1,Australia,1,BL Mooney,A Khaka,AJ Healy,,0,2,2,,,,31039231039
+1,Australia,1,BL Mooney,A Khaka,AJ Healy,,0,0,0,,,,31039231039
+1,Australia,1,BL Mooney,A Khaka,AJ Healy,,0,0,0,,,,31039231039
+1,Australia,1,BL Mooney,A Khaka,AJ Healy,,0,0,0,,,,31039231039
+1,Australia,1,BL Mooney,A Khaka,AJ Healy,,0,1,1,,,,31039231039
+1,Australia,1,AJ Healy,A Khaka,BL Mooney,,0,0,0,,,,31039231039
+1,Australia,2,BL Mooney,S Ismail,AJ Healy,,0,0,0,,,,31039231039
+1,Australia,2,BL Mooney,S Ismail,AJ Healy,,0,4,4,,,,31039231039
+1,Australia,2,BL Mooney,S Ismail,AJ Healy,,0,0,0,,,,31039231039
+1,Australia,2,BL Mooney,S Ismail,AJ Healy,,0,1,1,,,,31039231039
+1,Australia,2,AJ Healy,S Ismail,BL Mooney,,0,4,4,,,,31039231039
+1,Australia,2,AJ Healy,S Ismail,BL Mooney,,0,0,0,,,,31039231039
+1,Australia,3,BL Mooney,N Mlaba,AJ Healy,,0,1,1,,,,31039231039
+1,Australia,3,AJ Healy,N Mlaba,BL Mooney,,0,1,1,,,,31039231039
+1,Australia,3,BL Mooney,N Mlaba,AJ Healy,legbyes,1,1,0,,,,31039231039
+1,Australia,3,AJ Healy,N Mlaba,BL Mooney,,0,4,4,,,,31039231039
+1,Australia,3,AJ Healy,N Mlaba,BL Mooney,,0,4,4,,,,31039231039
+1,Australia,3,AJ Healy,N Mlaba,BL Mooney,,0,0,0,,,,31039231039
+1,Australia,4,BL Mooney,A Khaka,AJ Healy,,0,4,4,,,,31039231039
+1,Australia,4,BL Mooney,A Khaka,AJ Healy,,0,0,0,,,,31039231039
+1,Australia,4,BL Mooney,A Khaka,AJ Healy,,0,1,1,,,,31039231039
+1,Australia,4,AJ Healy,A Khaka,BL Mooney,,0,0,0,caught,AJ Healy,D van Niekerk,31039231039
+1,Australia,4,MM Lanning,A Khaka,BL Mooney,,0,0,0,,,,31039231039
+1,Australia,4,MM Lanning,A Khaka,BL Mooney,wides,1,1,0,,,,31039231039
+1,Australia,4,MM Lanning,A Khaka,BL Mooney,,0,2,2,,,,31039231039
+1,Australia,5,BL Mooney,D van Niekerk,MM Lanning,,0,4,4,,,,31039231039
+1,Australia,5,BL Mooney,D van Niekerk,MM Lanning,,0,1,1,,,,31039231039
+1,Australia,5,MM Lanning,D van Niekerk,BL Mooney,,0,0,0,,,,31039231039
+1,Australia,5,MM Lanning,D van Niekerk,BL Mooney,,0,1,1,,,,31039231039
+1,Australia,5,BL Mooney,D van Niekerk,MM Lanning,,0,4,4,,,,31039231039
+1,Australia,5,BL Mooney,D van Niekerk,MM Lanning,,0,1,1,,,,31039231039
+1,Australia,6,BL Mooney,N de Klerk,MM Lanning,,0,1,1,,,,31039231039
+1,Australia,6,MM Lanning,N de Klerk,BL Mooney,,0,0,0,,,,31039231039
+1,Australia,6,MM Lanning,N de Klerk,BL Mooney,,0,2,2,,,,31039231039
+1,Australia,6,MM Lanning,N de Klerk,BL Mooney,,0,1,1,,,,31039231039
+1,Australia,6,BL Mooney,N de Klerk,MM Lanning,wides,1,1,0,,,,31039231039
+1,Australia,6,BL Mooney,N de Klerk,MM Lanning,,0,1,1,,,,31039231039
+1,Australia,6,MM Lanning,N de Klerk,BL Mooney,,0,0,0,,,,31039231039
+1,Australia,7,BL Mooney,D van Niekerk,MM Lanning,,0,0,0,,,,31039231039
+1,Australia,7,BL Mooney,D van Niekerk,MM Lanning,,0,1,1,,,,31039231039
+1,Australia,7,MM Lanning,D van Niekerk,BL Mooney,,0,0,0,,,,31039231039
+1,Australia,7,MM Lanning,D van Niekerk,BL Mooney,,0,1,1,,,,31039231039
+1,Australia,7,MM Lanning,D van Niekerk,BL Mooney,,0,6,6,,,,31039231039
+1,Australia,7,MM Lanning,D van Niekerk,BL Mooney,,0,1,1,,,,31039231039
+1,Australia,8,MM Lanning,N de Klerk,BL Mooney,,0,4,4,,,,31039231039
+1,Australia,8,MM Lanning,N de Klerk,BL Mooney,,0,1,1,,,,31039231039
+1,Australia,8,BL Mooney,N de Klerk,MM Lanning,,0,0,0,bowled,BL Mooney,,31039231039
+1,Australia,8,JL Jonassen,N de Klerk,MM Lanning,,0,0,0,,,,31039231039
+1,Australia,8,JL Jonassen,N de Klerk,MM Lanning,,0,1,1,,,,31039231039
+1,Australia,8,MM Lanning,N de Klerk,JL Jonassen,,0,0,0,,,,31039231039
+1,Australia,9,JL Jonassen,N Mlaba,MM Lanning,,0,0,0,caught,JL Jonassen,S Ismail,31039231039
+1,Australia,9,MM Lanning,N Mlaba,A Gardner,,0,0,0,,,,31039231039
+1,Australia,9,MM Lanning,N Mlaba,A Gardner,,0,0,0,,,,31039231039
+1,Australia,9,MM Lanning,N Mlaba,A Gardner,,0,0,0,,,,31039231039
+1,Australia,9,MM Lanning,N Mlaba,A Gardner,,0,1,1,,,,31039231039
+1,Australia,9,A Gardner,N Mlaba,MM Lanning,,0,0,0,,,,31039231039
+1,Australia,10,MM Lanning,N de Klerk,A Gardner,,0,1,1,,,,31039231039
+1,Australia,10,A Gardner,N de Klerk,MM Lanning,,0,0,0,caught,A Gardner,T Chetty,31039231039
+1,Australia,10,RL Haynes,N de Klerk,MM Lanning,,0,1,1,,,,31039231039
+1,Australia,10,MM Lanning,N de Klerk,RL Haynes,,0,0,0,,,,31039231039
+1,Australia,10,MM Lanning,N de Klerk,RL Haynes,,0,1,1,,,,31039231039
+1,Australia,10,RL Haynes,N de Klerk,MM Lanning,,0,1,1,,,,31039231039
+1,Australia,11,RL Haynes,CL Tryon,MM Lanning,,0,0,0,,,,31039231039
+1,Australia,11,RL Haynes,CL Tryon,MM Lanning,,0,1,1,,,,31039231039
+1,Australia,11,MM Lanning,CL Tryon,RL Haynes,,0,1,1,,,,31039231039
+1,Australia,11,RL Haynes,CL Tryon,MM Lanning,,0,1,1,,,,31039231039
+1,Australia,11,MM Lanning,CL Tryon,RL Haynes,,0,1,1,,,,31039231039
+1,Australia,11,RL Haynes,CL Tryon,MM Lanning,,0,1,1,,,,31039231039
+1,Australia,12,RL Haynes,S Ismail,MM Lanning,,0,0,0,,,,31039231039
+1,Australia,12,RL Haynes,S Ismail,MM Lanning,,0,0,0,,,,31039231039
+1,Australia,12,RL Haynes,S Ismail,MM Lanning,,0,1,1,,,,31039231039
+1,Australia,12,MM Lanning,S Ismail,RL Haynes,,0,0,0,,,,31039231039
+1,Australia,12,MM Lanning,S Ismail,RL Haynes,,0,0,0,,,,31039231039
+1,Australia,12,MM Lanning,S Ismail,RL Haynes,wides,1,1,0,,,,31039231039
+1,Australia,12,MM Lanning,S Ismail,RL Haynes,,0,0,0,,,,31039231039
+1,Australia,13,RL Haynes,CL Tryon,MM Lanning,,0,1,1,,,,31039231039
+1,Australia,13,MM Lanning,CL Tryon,RL Haynes,wides,1,1,0,,,,31039231039
+1,Australia,13,MM Lanning,CL Tryon,RL Haynes,,0,2,2,,,,31039231039
+1,Australia,13,MM Lanning,CL Tryon,RL Haynes,,0,0,0,,,,31039231039
+1,Australia,13,MM Lanning,CL Tryon,RL Haynes,,0,1,1,,,,31039231039
+1,Australia,13,RL Haynes,CL Tryon,MM Lanning,,0,1,1,,,,31039231039
+1,Australia,13,MM Lanning,CL Tryon,RL Haynes,,0,0,0,,,,31039231039
+1,Australia,14,RL Haynes,N Mlaba,MM Lanning,,0,1,1,,,,31039231039
+1,Australia,14,MM Lanning,N Mlaba,RL Haynes,,0,0,0,,,,31039231039
+1,Australia,14,MM Lanning,N Mlaba,RL Haynes,,0,4,4,,,,31039231039
+1,Australia,14,MM Lanning,N Mlaba,RL Haynes,,0,1,1,,,,31039231039
+1,Australia,14,RL Haynes,N Mlaba,MM Lanning,,0,1,1,,,,31039231039
+1,Australia,14,MM Lanning,N Mlaba,RL Haynes,,0,0,0,,,,31039231039
+1,Australia,15,RL Haynes,CL Tryon,MM Lanning,,0,3,3,,,,31039231039
+1,Australia,15,MM Lanning,CL Tryon,RL Haynes,,0,1,1,,,,31039231039
+1,Australia,15,RL Haynes,CL Tryon,MM Lanning,,0,1,1,,,,31039231039
+1,Australia,15,MM Lanning,CL Tryon,RL Haynes,,0,1,1,,,,31039231039
+1,Australia,15,RL Haynes,CL Tryon,MM Lanning,,0,2,2,,,,31039231039
+1,Australia,15,RL Haynes,CL Tryon,MM Lanning,,0,1,1,,,,31039231039
+1,Australia,16,RL Haynes,N de Klerk,MM Lanning,,0,0,0,bowled,RL Haynes,,31039231039
+1,Australia,16,NJ Carey,N de Klerk,MM Lanning,,0,0,0,,,,31039231039
+1,Australia,16,NJ Carey,N de Klerk,MM Lanning,,0,1,1,,,,31039231039
+1,Australia,16,MM Lanning,N de Klerk,NJ Carey,,0,0,0,,,,31039231039
+1,Australia,16,MM Lanning,N de Klerk,NJ Carey,,0,1,1,,,,31039231039
+1,Australia,16,NJ Carey,N de Klerk,MM Lanning,,0,1,1,,,,31039231039
+1,Australia,17,NJ Carey,A Khaka,MM Lanning,wides,1,1,0,,,,31039231039
+1,Australia,17,NJ Carey,A Khaka,MM Lanning,legbyes,1,1,0,,,,31039231039
+1,Australia,17,MM Lanning,A Khaka,NJ Carey,,0,1,1,,,,31039231039
+1,Australia,17,NJ Carey,A Khaka,MM Lanning,,0,1,1,,,,31039231039
+1,Australia,17,MM Lanning,A Khaka,NJ Carey,legbyes,4,4,0,,,,31039231039
+1,Australia,17,MM Lanning,A Khaka,NJ Carey,,0,4,4,,,,31039231039
+1,Australia,17,MM Lanning,A Khaka,NJ Carey,wides,1,1,0,,,,31039231039
+1,Australia,17,MM Lanning,A Khaka,NJ Carey,,0,4,4,,,,31039231039
+1,Australia,18,NJ Carey,S Ismail,MM Lanning,,0,0,0,,,,31039231039
+1,Australia,18,NJ Carey,S Ismail,MM Lanning,,0,1,1,,,,31039231039
+1,Australia,18,MM Lanning,S Ismail,NJ Carey,,0,0,0,,,,31039231039
+1,Australia,18,MM Lanning,S Ismail,NJ Carey,legbyes,2,2,0,,,,31039231039
+1,Australia,18,MM Lanning,S Ismail,NJ Carey,,0,1,1,,,,31039231039
+1,Australia,18,NJ Carey,S Ismail,MM Lanning,,0,1,1,,,,31039231039
+1,Australia,19,NJ Carey,A Khaka,MM Lanning,,0,1,1,,,,31039231039
+1,Australia,19,MM Lanning,A Khaka,NJ Carey,,0,1,1,,,,31039231039
+1,Australia,19,NJ Carey,A Khaka,MM Lanning,,0,0,0,,,,31039231039
+1,Australia,19,NJ Carey,A Khaka,MM Lanning,,0,1,1,,,,31039231039
+1,Australia,19,MM Lanning,A Khaka,NJ Carey,,0,2,2,,,,31039231039
+1,Australia,19,MM Lanning,A Khaka,NJ Carey,,0,1,1,,,,31039231039

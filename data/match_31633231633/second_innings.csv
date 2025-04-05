@@ -1,0 +1,114 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Ireland,0,PR Stirling,C Karunaratne,KJ O'Brien,,0,1,1,,,,31633231633
+2,Ireland,0,KJ O'Brien,C Karunaratne,PR Stirling,,0,4,4,,,,31633231633
+2,Ireland,0,KJ O'Brien,C Karunaratne,PR Stirling,,0,1,1,,,,31633231633
+2,Ireland,0,PR Stirling,C Karunaratne,KJ O'Brien,,0,0,0,,,,31633231633
+2,Ireland,0,PR Stirling,C Karunaratne,KJ O'Brien,,0,1,1,,,,31633231633
+2,Ireland,0,KJ O'Brien,C Karunaratne,PR Stirling,wides,1,1,0,,,,31633231633
+2,Ireland,0,KJ O'Brien,C Karunaratne,PR Stirling,,0,0,0,caught,KJ O'Brien,M Theekshana,31633231633
+2,Ireland,1,A Balbirnie,PVD Chameera,PR Stirling,,0,0,0,,,,31633231633
+2,Ireland,1,A Balbirnie,PVD Chameera,PR Stirling,,0,0,0,,,,31633231633
+2,Ireland,1,A Balbirnie,PVD Chameera,PR Stirling,,0,1,1,,,,31633231633
+2,Ireland,1,PR Stirling,PVD Chameera,A Balbirnie,,0,1,1,,,,31633231633
+2,Ireland,1,A Balbirnie,PVD Chameera,PR Stirling,,0,0,0,,,,31633231633
+2,Ireland,1,A Balbirnie,PVD Chameera,PR Stirling,,0,4,4,,,,31633231633
+2,Ireland,2,PR Stirling,M Theekshana,A Balbirnie,,0,0,0,,,,31633231633
+2,Ireland,2,PR Stirling,M Theekshana,A Balbirnie,,0,4,4,,,,31633231633
+2,Ireland,2,PR Stirling,M Theekshana,A Balbirnie,,0,0,0,caught,PR Stirling,CBRLS Kumara,31633231633
+2,Ireland,2,GJ Delany,M Theekshana,A Balbirnie,,0,0,0,,,,31633231633
+2,Ireland,2,GJ Delany,M Theekshana,A Balbirnie,,0,0,0,,,,31633231633
+2,Ireland,2,GJ Delany,M Theekshana,A Balbirnie,,0,2,2,,,,31633231633
+2,Ireland,3,A Balbirnie,CBRLS Kumara,GJ Delany,,0,0,0,,,,31633231633
+2,Ireland,3,A Balbirnie,CBRLS Kumara,GJ Delany,,0,0,0,,,,31633231633
+2,Ireland,3,A Balbirnie,CBRLS Kumara,GJ Delany,byes,4,4,0,,,,31633231633
+2,Ireland,3,A Balbirnie,CBRLS Kumara,GJ Delany,,0,0,0,,,,31633231633
+2,Ireland,3,A Balbirnie,CBRLS Kumara,GJ Delany,,0,6,6,,,,31633231633
+2,Ireland,3,A Balbirnie,CBRLS Kumara,GJ Delany,,0,1,1,,,,31633231633
+2,Ireland,4,A Balbirnie,PWH de Silva,GJ Delany,,0,1,1,,,,31633231633
+2,Ireland,4,GJ Delany,PWH de Silva,A Balbirnie,,0,0,0,bowled,GJ Delany,,31633231633
+2,Ireland,4,C Campher,PWH de Silva,A Balbirnie,,0,0,0,,,,31633231633
+2,Ireland,4,C Campher,PWH de Silva,A Balbirnie,,0,0,0,,,,31633231633
+2,Ireland,4,C Campher,PWH de Silva,A Balbirnie,,0,0,0,,,,31633231633
+2,Ireland,4,C Campher,PWH de Silva,A Balbirnie,,0,1,1,,,,31633231633
+2,Ireland,5,C Campher,PVD Chameera,A Balbirnie,,0,0,0,,,,31633231633
+2,Ireland,5,C Campher,PVD Chameera,A Balbirnie,,0,4,4,,,,31633231633
+2,Ireland,5,C Campher,PVD Chameera,A Balbirnie,,0,0,0,,,,31633231633
+2,Ireland,5,C Campher,PVD Chameera,A Balbirnie,,0,4,4,,,,31633231633
+2,Ireland,5,C Campher,PVD Chameera,A Balbirnie,,0,0,0,,,,31633231633
+2,Ireland,5,C Campher,PVD Chameera,A Balbirnie,,0,0,0,,,,31633231633
+2,Ireland,6,A Balbirnie,PWH de Silva,C Campher,,0,0,0,,,,31633231633
+2,Ireland,6,A Balbirnie,PWH de Silva,C Campher,,0,0,0,,,,31633231633
+2,Ireland,6,A Balbirnie,PWH de Silva,C Campher,,0,1,1,,,,31633231633
+2,Ireland,6,C Campher,PWH de Silva,A Balbirnie,,0,0,0,,,,31633231633
+2,Ireland,6,C Campher,PWH de Silva,A Balbirnie,,0,1,1,,,,31633231633
+2,Ireland,6,A Balbirnie,PWH de Silva,C Campher,,0,0,0,,,,31633231633
+2,Ireland,7,C Campher,C Karunaratne,A Balbirnie,legbyes,1,1,0,,,,31633231633
+2,Ireland,7,A Balbirnie,C Karunaratne,C Campher,,0,0,0,,,,31633231633
+2,Ireland,7,A Balbirnie,C Karunaratne,C Campher,,0,6,6,,,,31633231633
+2,Ireland,7,A Balbirnie,C Karunaratne,C Campher,,0,1,1,,,,31633231633
+2,Ireland,7,C Campher,C Karunaratne,A Balbirnie,,0,0,0,,,,31633231633
+2,Ireland,7,C Campher,C Karunaratne,A Balbirnie,,0,1,1,,,,31633231633
+2,Ireland,8,C Campher,M Theekshana,A Balbirnie,,0,0,0,,,,31633231633
+2,Ireland,8,C Campher,M Theekshana,A Balbirnie,,0,1,1,,,,31633231633
+2,Ireland,8,A Balbirnie,M Theekshana,C Campher,,0,2,2,,,,31633231633
+2,Ireland,8,A Balbirnie,M Theekshana,C Campher,,0,0,0,,,,31633231633
+2,Ireland,8,A Balbirnie,M Theekshana,C Campher,,0,1,1,,,,31633231633
+2,Ireland,8,C Campher,M Theekshana,A Balbirnie,,0,0,0,,,,31633231633
+2,Ireland,9,A Balbirnie,CBRLS Kumara,C Campher,,0,1,1,,,,31633231633
+2,Ireland,9,C Campher,CBRLS Kumara,A Balbirnie,,0,0,0,,,,31633231633
+2,Ireland,9,C Campher,CBRLS Kumara,A Balbirnie,,0,5,5,,,,31633231633
+2,Ireland,9,A Balbirnie,CBRLS Kumara,C Campher,,0,1,1,,,,31633231633
+2,Ireland,9,C Campher,CBRLS Kumara,A Balbirnie,,0,1,1,,,,31633231633
+2,Ireland,9,A Balbirnie,CBRLS Kumara,C Campher,,0,1,1,,,,31633231633
+2,Ireland,10,A Balbirnie,PWH de Silva,C Campher,,0,0,0,,,,31633231633
+2,Ireland,10,A Balbirnie,PWH de Silva,C Campher,,0,1,1,,,,31633231633
+2,Ireland,10,C Campher,PWH de Silva,A Balbirnie,,0,2,2,,,,31633231633
+2,Ireland,10,C Campher,PWH de Silva,A Balbirnie,,0,1,1,,,,31633231633
+2,Ireland,10,A Balbirnie,PWH de Silva,C Campher,,0,2,2,,,,31633231633
+2,Ireland,10,A Balbirnie,PWH de Silva,C Campher,,0,0,0,,,,31633231633
+2,Ireland,11,C Campher,C Karunaratne,A Balbirnie,,0,1,1,,,,31633231633
+2,Ireland,11,A Balbirnie,C Karunaratne,C Campher,,0,0,0,,,,31633231633
+2,Ireland,11,A Balbirnie,C Karunaratne,C Campher,,0,1,1,,,,31633231633
+2,Ireland,11,C Campher,C Karunaratne,A Balbirnie,wides,1,1,0,,,,31633231633
+2,Ireland,11,C Campher,C Karunaratne,A Balbirnie,,0,1,1,,,,31633231633
+2,Ireland,11,A Balbirnie,C Karunaratne,C Campher,,0,4,4,,,,31633231633
+2,Ireland,11,A Balbirnie,C Karunaratne,C Campher,,0,2,2,,,,31633231633
+2,Ireland,12,C Campher,M Theekshana,A Balbirnie,legbyes,1,1,0,,,,31633231633
+2,Ireland,12,A Balbirnie,M Theekshana,C Campher,,0,1,1,,,,31633231633
+2,Ireland,12,C Campher,M Theekshana,A Balbirnie,,0,1,1,,,,31633231633
+2,Ireland,12,A Balbirnie,M Theekshana,C Campher,,0,1,1,,,,31633231633
+2,Ireland,12,C Campher,M Theekshana,A Balbirnie,,0,0,0,bowled,C Campher,,31633231633
+2,Ireland,12,HT Tector,M Theekshana,A Balbirnie,,0,1,1,,,,31633231633
+2,Ireland,13,HT Tector,CBRLS Kumara,A Balbirnie,,0,0,0,,,,31633231633
+2,Ireland,13,HT Tector,CBRLS Kumara,A Balbirnie,,0,0,0,,,,31633231633
+2,Ireland,13,HT Tector,CBRLS Kumara,A Balbirnie,,0,2,2,,,,31633231633
+2,Ireland,13,HT Tector,CBRLS Kumara,A Balbirnie,,0,0,0,,,,31633231633
+2,Ireland,13,HT Tector,CBRLS Kumara,A Balbirnie,,0,0,0,caught,HT Tector,MDKJ Perera,31633231633
+2,Ireland,13,NA Rock,CBRLS Kumara,A Balbirnie,,0,1,1,,,,31633231633
+2,Ireland,14,NA Rock,M Theekshana,A Balbirnie,,0,0,0,,,,31633231633
+2,Ireland,14,NA Rock,M Theekshana,A Balbirnie,,0,0,0,stumped,NA Rock,MDKJ Perera,31633231633
+2,Ireland,14,MR Adair,M Theekshana,A Balbirnie,,0,1,1,,,,31633231633
+2,Ireland,14,A Balbirnie,M Theekshana,MR Adair,,0,1,1,,,,31633231633
+2,Ireland,14,MR Adair,M Theekshana,A Balbirnie,,0,1,1,,,,31633231633
+2,Ireland,14,A Balbirnie,M Theekshana,MR Adair,,0,0,0,,,,31633231633
+2,Ireland,15,MR Adair,CBRLS Kumara,A Balbirnie,,0,0,0,run out,MR Adair,PVD Chameera,31633231633
+2,Ireland,15,A Balbirnie,CBRLS Kumara,Simi Singh,,0,1,1,,,,31633231633
+2,Ireland,15,Simi Singh,CBRLS Kumara,A Balbirnie,,0,1,1,,,,31633231633
+2,Ireland,15,A Balbirnie,CBRLS Kumara,Simi Singh,,0,0,0,caught,A Balbirnie,WIA Fernando,31633231633
+2,Ireland,15,CA Young,CBRLS Kumara,Simi Singh,legbyes,1,1,0,,,,31633231633
+2,Ireland,15,Simi Singh,CBRLS Kumara,CA Young,,0,1,1,,,,31633231633
+2,Ireland,16,Simi Singh,PWH de Silva,CA Young,,0,1,1,,,,31633231633
+2,Ireland,16,CA Young,PWH de Silva,Simi Singh,,0,0,0,,,,31633231633
+2,Ireland,16,CA Young,PWH de Silva,Simi Singh,,0,0,0,,,,31633231633
+2,Ireland,16,CA Young,PWH de Silva,Simi Singh,,0,0,0,,,,31633231633
+2,Ireland,16,CA Young,PWH de Silva,Simi Singh,,0,1,1,,,,31633231633
+2,Ireland,16,Simi Singh,PWH de Silva,CA Young,,0,0,0,,,,31633231633
+2,Ireland,17,CA Young,PVD Chameera,Simi Singh,,0,0,0,bowled,CA Young,,31633231633
+2,Ireland,17,J Little,PVD Chameera,Simi Singh,,0,1,1,,,,31633231633
+2,Ireland,17,Simi Singh,PVD Chameera,J Little,,0,0,0,,,,31633231633
+2,Ireland,17,Simi Singh,PVD Chameera,J Little,,0,0,0,,,,31633231633
+2,Ireland,17,Simi Singh,PVD Chameera,J Little,,0,1,1,,,,31633231633
+2,Ireland,17,J Little,PVD Chameera,Simi Singh,,0,0,0,,,,31633231633
+2,Ireland,18,Simi Singh,C Karunaratne,J Little,,0,0,0,,,,31633231633
+2,Ireland,18,Simi Singh,C Karunaratne,J Little,,0,1,1,,,,31633231633
+2,Ireland,18,J Little,C Karunaratne,Simi Singh,,0,0,0,bowled,J Little,,31633231633

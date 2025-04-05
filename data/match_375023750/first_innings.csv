@@ -1,0 +1,58 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,New Zealand,0,MJ Guptill,SS Cottrell,C Munro,,0,0,0,,,,375023750
+1,New Zealand,0,MJ Guptill,SS Cottrell,C Munro,,0,2,2,,,,375023750
+1,New Zealand,0,MJ Guptill,SS Cottrell,C Munro,,0,0,0,,,,375023750
+1,New Zealand,0,MJ Guptill,SS Cottrell,C Munro,wides,1,1,0,,,,375023750
+1,New Zealand,0,MJ Guptill,SS Cottrell,C Munro,,0,0,0,caught,MJ Guptill,CAK Walton,375023750
+1,New Zealand,0,KS Williamson,SS Cottrell,C Munro,,0,0,0,,,,375023750
+1,New Zealand,0,KS Williamson,SS Cottrell,C Munro,,0,1,1,,,,375023750
+1,New Zealand,1,KS Williamson,S Badree,C Munro,,0,2,2,,,,375023750
+1,New Zealand,1,KS Williamson,S Badree,C Munro,,0,1,1,,,,375023750
+1,New Zealand,1,C Munro,S Badree,KS Williamson,,0,0,0,,,,375023750
+1,New Zealand,1,C Munro,S Badree,KS Williamson,,0,4,4,,,,375023750
+1,New Zealand,1,C Munro,S Badree,KS Williamson,,0,0,0,,,,375023750
+1,New Zealand,1,C Munro,S Badree,KS Williamson,,0,4,4,,,,375023750
+1,New Zealand,2,KS Williamson,SS Cottrell,C Munro,,0,1,1,,,,375023750
+1,New Zealand,2,C Munro,SS Cottrell,KS Williamson,,0,6,6,,,,375023750
+1,New Zealand,2,C Munro,SS Cottrell,KS Williamson,,0,2,2,,,,375023750
+1,New Zealand,2,C Munro,SS Cottrell,KS Williamson,,0,6,6,,,,375023750
+1,New Zealand,2,C Munro,SS Cottrell,KS Williamson,,0,1,1,,,,375023750
+1,New Zealand,2,KS Williamson,SS Cottrell,C Munro,,0,1,1,,,,375023750
+1,New Zealand,3,KS Williamson,S Badree,C Munro,,0,1,1,,,,375023750
+1,New Zealand,3,C Munro,S Badree,KS Williamson,,0,4,4,,,,375023750
+1,New Zealand,3,C Munro,S Badree,KS Williamson,,0,0,0,,,,375023750
+1,New Zealand,3,C Munro,S Badree,KS Williamson,,0,0,0,,,,375023750
+1,New Zealand,3,C Munro,S Badree,KS Williamson,,0,4,4,,,,375023750
+1,New Zealand,3,C Munro,S Badree,KS Williamson,,0,0,0,,,,375023750
+1,New Zealand,4,KS Williamson,CR Brathwaite,C Munro,,0,1,1,,,,375023750
+1,New Zealand,4,C Munro,CR Brathwaite,KS Williamson,,0,6,6,,,,375023750
+1,New Zealand,4,C Munro,CR Brathwaite,KS Williamson,,0,4,4,,,,375023750
+1,New Zealand,4,C Munro,CR Brathwaite,KS Williamson,,0,4,4,,,,375023750
+1,New Zealand,4,C Munro,CR Brathwaite,KS Williamson,wides,1,1,0,,,,375023750
+1,New Zealand,4,C Munro,CR Brathwaite,KS Williamson,,0,4,4,,,,375023750
+1,New Zealand,4,C Munro,CR Brathwaite,KS Williamson,,0,1,1,,,,375023750
+1,New Zealand,5,C Munro,KOK Williams,KS Williamson,,0,4,4,,,,375023750
+1,New Zealand,5,C Munro,KOK Williams,KS Williamson,,0,4,4,,,,375023750
+1,New Zealand,5,C Munro,KOK Williams,KS Williamson,,0,4,4,,,,375023750
+1,New Zealand,5,C Munro,KOK Williams,KS Williamson,,0,4,4,,,,375023750
+1,New Zealand,5,C Munro,KOK Williams,KS Williamson,,0,0,0,caught,C Munro,R Powell,375023750
+1,New Zealand,5,KS Williamson,KOK Williams,GD Phillips,noballs,1,2,1,,,,375023750
+1,New Zealand,5,GD Phillips,KOK Williams,KS Williamson,,0,6,6,,,,375023750
+1,New Zealand,6,KS Williamson,AR Nurse,GD Phillips,,0,1,1,,,,375023750
+1,New Zealand,6,GD Phillips,AR Nurse,KS Williamson,,0,1,1,,,,375023750
+1,New Zealand,6,KS Williamson,AR Nurse,GD Phillips,,0,0,0,,,,375023750
+1,New Zealand,6,KS Williamson,AR Nurse,GD Phillips,,0,1,1,,,,375023750
+1,New Zealand,6,GD Phillips,AR Nurse,KS Williamson,,0,2,2,,,,375023750
+1,New Zealand,6,GD Phillips,AR Nurse,KS Williamson,,0,1,1,,,,375023750
+1,New Zealand,7,GD Phillips,S Badree,KS Williamson,,0,0,0,lbw,GD Phillips,,375023750
+1,New Zealand,7,TC Bruce,S Badree,KS Williamson,,0,0,0,,,,375023750
+1,New Zealand,7,TC Bruce,S Badree,KS Williamson,,0,0,0,,,,375023750
+1,New Zealand,7,TC Bruce,S Badree,KS Williamson,,0,0,0,,,,375023750
+1,New Zealand,7,TC Bruce,S Badree,KS Williamson,,0,1,1,,,,375023750
+1,New Zealand,7,KS Williamson,S Badree,TC Bruce,,0,2,2,,,,375023750
+1,New Zealand,8,TC Bruce,AR Nurse,KS Williamson,,0,0,0,,,,375023750
+1,New Zealand,8,TC Bruce,AR Nurse,KS Williamson,,0,2,2,,,,375023750
+1,New Zealand,8,TC Bruce,AR Nurse,KS Williamson,,0,0,0,caught,TC Bruce,CR Brathwaite,375023750
+1,New Zealand,8,AK Kitchen,AR Nurse,KS Williamson,,0,1,1,,,,375023750
+1,New Zealand,8,KS Williamson,AR Nurse,AK Kitchen,,0,0,0,,,,375023750
+1,New Zealand,8,KS Williamson,AR Nurse,AK Kitchen,,0,4,4,,,,375023750

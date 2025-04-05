@@ -1,0 +1,32 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Philippines,0,DC Smith,N Nipiko,Karweng NG,,0,1,1,,,,31048231048
+1,Philippines,0,Karweng NG,N Nipiko,DC Smith,,0,2,2,,,,31048231048
+1,Philippines,0,Karweng NG,N Nipiko,DC Smith,,0,0,0,caught,Karweng NG,A Mansale,31048231048
+1,Philippines,0,J Hill,N Nipiko,DC Smith,,0,4,4,,,,31048231048
+1,Philippines,0,J Hill,N Nipiko,DC Smith,,0,0,0,caught,J Hill,JW Chilia,31048231048
+1,Philippines,0,DC Smith,N Nipiko,R Goodwin,wides,1,1,0,,,,31048231048
+1,Philippines,0,DC Smith,N Nipiko,R Goodwin,,0,1,1,,,,31048231048
+1,Philippines,1,DC Smith,CC Blake,R Goodwin,,0,0,0,,,,31048231048
+1,Philippines,1,DC Smith,CC Blake,R Goodwin,,0,4,4,,,,31048231048
+1,Philippines,1,DC Smith,CC Blake,R Goodwin,,0,4,4,,,,31048231048
+1,Philippines,1,DC Smith,CC Blake,R Goodwin,,0,1,1,,,,31048231048
+1,Philippines,1,R Goodwin,CC Blake,DC Smith,,0,1,1,,,,31048231048
+1,Philippines,1,DC Smith,CC Blake,R Goodwin,,0,0,0,,,,31048231048
+1,Philippines,2,R Goodwin,JW Chilia,DC Smith,,0,2,2,,,,31048231048
+1,Philippines,2,R Goodwin,JW Chilia,DC Smith,,0,1,1,,,,31048231048
+1,Philippines,2,DC Smith,JW Chilia,R Goodwin,,0,4,4,,,,31048231048
+1,Philippines,2,DC Smith,JW Chilia,R Goodwin,,0,0,0,,,,31048231048
+1,Philippines,2,DC Smith,JW Chilia,R Goodwin,,0,2,2,,,,31048231048
+1,Philippines,2,DC Smith,JW Chilia,R Goodwin,,0,2,2,,,,31048231048
+1,Philippines,3,R Goodwin,CC Blake,DC Smith,,0,2,2,,,,31048231048
+1,Philippines,3,R Goodwin,CC Blake,DC Smith,,0,0,0,,,,31048231048
+1,Philippines,3,R Goodwin,CC Blake,DC Smith,,0,4,4,,,,31048231048
+1,Philippines,3,R Goodwin,CC Blake,DC Smith,,0,1,1,,,,31048231048
+1,Philippines,3,DC Smith,CC Blake,R Goodwin,,0,1,1,,,,31048231048
+1,Philippines,3,R Goodwin,CC Blake,DC Smith,,0,0,0,,,,31048231048
+1,Philippines,4,DC Smith,N Nipiko,R Goodwin,,0,2,2,,,,31048231048
+1,Philippines,4,DC Smith,N Nipiko,R Goodwin,byes,1,1,0,,,,31048231048
+1,Philippines,4,R Goodwin,N Nipiko,DC Smith,,0,2,2,,,,31048231048
+1,Philippines,4,R Goodwin,N Nipiko,DC Smith,,0,2,2,,,,31048231048
+1,Philippines,4,R Goodwin,N Nipiko,DC Smith,,0,1,1,,,,31048231048
+1,Philippines,4,DC Smith,N Nipiko,R Goodwin,,0,0,0,bowled,DC Smith,,31048231048

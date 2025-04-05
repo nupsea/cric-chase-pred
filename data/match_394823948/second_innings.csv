@@ -1,0 +1,109 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Sri Lanka,0,BYA Mendis,DB Sharma,AC Jayangani,legbyes,1,1,0,,,,394823948
+2,Sri Lanka,0,AC Jayangani,DB Sharma,BYA Mendis,,0,0,0,,,,394823948
+2,Sri Lanka,0,AC Jayangani,DB Sharma,BYA Mendis,,0,0,0,,,,394823948
+2,Sri Lanka,0,AC Jayangani,DB Sharma,BYA Mendis,,0,0,0,caught,AC Jayangani,AA Patil,394823948
+2,Sri Lanka,0,BYA Mendis,DB Sharma,MAA Sanjeewani,,0,2,2,,,,394823948
+2,Sri Lanka,0,BYA Mendis,DB Sharma,MAA Sanjeewani,,0,0,0,,,,394823948
+2,Sri Lanka,1,MAA Sanjeewani,A Reddy,BYA Mendis,,0,1,1,,,,394823948
+2,Sri Lanka,1,BYA Mendis,A Reddy,MAA Sanjeewani,,0,1,1,,,,394823948
+2,Sri Lanka,1,MAA Sanjeewani,A Reddy,BYA Mendis,,0,0,0,,,,394823948
+2,Sri Lanka,1,MAA Sanjeewani,A Reddy,BYA Mendis,,0,1,1,,,,394823948
+2,Sri Lanka,1,BYA Mendis,A Reddy,MAA Sanjeewani,,0,1,1,,,,394823948
+2,Sri Lanka,1,MAA Sanjeewani,A Reddy,BYA Mendis,,0,0,0,,,,394823948
+2,Sri Lanka,2,BYA Mendis,DB Sharma,MAA Sanjeewani,,0,6,6,,,,394823948
+2,Sri Lanka,2,BYA Mendis,DB Sharma,MAA Sanjeewani,,0,0,0,,,,394823948
+2,Sri Lanka,2,BYA Mendis,DB Sharma,MAA Sanjeewani,,0,0,0,,,,394823948
+2,Sri Lanka,2,BYA Mendis,DB Sharma,MAA Sanjeewani,,0,0,0,stumped,BYA Mendis,T Bhatia,394823948
+2,Sri Lanka,2,HASD Siriwardene,DB Sharma,MAA Sanjeewani,,0,0,0,,,,394823948
+2,Sri Lanka,2,HASD Siriwardene,DB Sharma,MAA Sanjeewani,,0,2,2,,,,394823948
+2,Sri Lanka,3,MAA Sanjeewani,A Reddy,HASD Siriwardene,,0,0,0,,,,394823948
+2,Sri Lanka,3,MAA Sanjeewani,A Reddy,HASD Siriwardene,byes,4,4,0,,,,394823948
+2,Sri Lanka,3,MAA Sanjeewani,A Reddy,HASD Siriwardene,,0,1,1,,,,394823948
+2,Sri Lanka,3,HASD Siriwardene,A Reddy,MAA Sanjeewani,,0,1,1,,,,394823948
+2,Sri Lanka,3,MAA Sanjeewani,A Reddy,HASD Siriwardene,,0,0,0,,,,394823948
+2,Sri Lanka,3,MAA Sanjeewani,A Reddy,HASD Siriwardene,,0,0,0,,,,394823948
+2,Sri Lanka,4,HASD Siriwardene,DB Sharma,MAA Sanjeewani,wides,1,1,0,,,,394823948
+2,Sri Lanka,4,HASD Siriwardene,DB Sharma,MAA Sanjeewani,,0,0,0,,,,394823948
+2,Sri Lanka,4,HASD Siriwardene,DB Sharma,MAA Sanjeewani,,0,4,4,,,,394823948
+2,Sri Lanka,4,HASD Siriwardene,DB Sharma,MAA Sanjeewani,,0,2,2,,,,394823948
+2,Sri Lanka,4,HASD Siriwardene,DB Sharma,MAA Sanjeewani,,0,0,0,,,,394823948
+2,Sri Lanka,4,HASD Siriwardene,DB Sharma,MAA Sanjeewani,,0,1,1,,,,394823948
+2,Sri Lanka,4,MAA Sanjeewani,DB Sharma,HASD Siriwardene,,0,0,0,,,,394823948
+2,Sri Lanka,5,HASD Siriwardene,A Reddy,MAA Sanjeewani,,0,4,4,,,,394823948
+2,Sri Lanka,5,HASD Siriwardene,A Reddy,MAA Sanjeewani,,0,1,1,,,,394823948
+2,Sri Lanka,5,MAA Sanjeewani,A Reddy,HASD Siriwardene,,0,4,4,,,,394823948
+2,Sri Lanka,5,MAA Sanjeewani,A Reddy,HASD Siriwardene,,0,1,1,,,,394823948
+2,Sri Lanka,5,HASD Siriwardene,A Reddy,MAA Sanjeewani,,0,2,2,,,,394823948
+2,Sri Lanka,5,HASD Siriwardene,A Reddy,MAA Sanjeewani,,0,0,0,,,,394823948
+2,Sri Lanka,6,MAA Sanjeewani,Poonam Yadav,HASD Siriwardene,,0,0,0,,,,394823948
+2,Sri Lanka,6,MAA Sanjeewani,Poonam Yadav,HASD Siriwardene,,0,0,0,,,,394823948
+2,Sri Lanka,6,MAA Sanjeewani,Poonam Yadav,HASD Siriwardene,,0,1,1,,,,394823948
+2,Sri Lanka,6,HASD Siriwardene,Poonam Yadav,MAA Sanjeewani,,0,0,0,,,,394823948
+2,Sri Lanka,6,HASD Siriwardene,Poonam Yadav,MAA Sanjeewani,,0,1,1,,,,394823948
+2,Sri Lanka,6,MAA Sanjeewani,Poonam Yadav,HASD Siriwardene,,0,0,0,,,,394823948
+2,Sri Lanka,7,HASD Siriwardene,RP Yadav,MAA Sanjeewani,,0,0,0,,,,394823948
+2,Sri Lanka,7,HASD Siriwardene,RP Yadav,MAA Sanjeewani,,0,0,0,,,,394823948
+2,Sri Lanka,7,HASD Siriwardene,RP Yadav,MAA Sanjeewani,,0,4,4,,,,394823948
+2,Sri Lanka,7,HASD Siriwardene,RP Yadav,MAA Sanjeewani,,0,0,0,bowled,HASD Siriwardene,,394823948
+2,Sri Lanka,7,OU Ranasinghe,RP Yadav,MAA Sanjeewani,,0,1,1,,,,394823948
+2,Sri Lanka,7,MAA Sanjeewani,RP Yadav,OU Ranasinghe,,0,0,0,,,,394823948
+2,Sri Lanka,8,OU Ranasinghe,AA Patil,MAA Sanjeewani,,0,0,0,,,,394823948
+2,Sri Lanka,8,OU Ranasinghe,AA Patil,MAA Sanjeewani,,0,1,1,,,,394823948
+2,Sri Lanka,8,MAA Sanjeewani,AA Patil,OU Ranasinghe,,0,0,0,,,,394823948
+2,Sri Lanka,8,MAA Sanjeewani,AA Patil,OU Ranasinghe,,0,1,1,,,,394823948
+2,Sri Lanka,8,OU Ranasinghe,AA Patil,MAA Sanjeewani,,0,1,1,,,,394823948
+2,Sri Lanka,8,MAA Sanjeewani,AA Patil,OU Ranasinghe,,0,0,0,,,,394823948
+2,Sri Lanka,9,OU Ranasinghe,RP Yadav,MAA Sanjeewani,,0,4,4,,,,394823948
+2,Sri Lanka,9,OU Ranasinghe,RP Yadav,MAA Sanjeewani,,0,1,1,,,,394823948
+2,Sri Lanka,9,MAA Sanjeewani,RP Yadav,OU Ranasinghe,,0,0,0,,,,394823948
+2,Sri Lanka,9,MAA Sanjeewani,RP Yadav,OU Ranasinghe,legbyes,1,1,0,,,,394823948
+2,Sri Lanka,9,OU Ranasinghe,RP Yadav,MAA Sanjeewani,,0,0,0,,,,394823948
+2,Sri Lanka,9,OU Ranasinghe,RP Yadav,MAA Sanjeewani,,0,1,1,,,,394823948
+2,Sri Lanka,10,OU Ranasinghe,AA Patil,MAA Sanjeewani,,0,1,1,,,,394823948
+2,Sri Lanka,10,MAA Sanjeewani,AA Patil,OU Ranasinghe,,0,1,1,,,,394823948
+2,Sri Lanka,10,OU Ranasinghe,AA Patil,MAA Sanjeewani,,0,1,1,,,,394823948
+2,Sri Lanka,10,MAA Sanjeewani,AA Patil,OU Ranasinghe,,0,0,0,,,,394823948
+2,Sri Lanka,10,MAA Sanjeewani,AA Patil,OU Ranasinghe,,0,1,1,,,,394823948
+2,Sri Lanka,10,OU Ranasinghe,AA Patil,MAA Sanjeewani,,0,0,0,,,,394823948
+2,Sri Lanka,11,MAA Sanjeewani,H Kaur,OU Ranasinghe,,0,1,1,,,,394823948
+2,Sri Lanka,11,OU Ranasinghe,H Kaur,MAA Sanjeewani,,0,0,0,,,,394823948
+2,Sri Lanka,11,OU Ranasinghe,H Kaur,MAA Sanjeewani,,0,4,4,,,,394823948
+2,Sri Lanka,11,OU Ranasinghe,H Kaur,MAA Sanjeewani,,0,1,1,,,,394823948
+2,Sri Lanka,11,MAA Sanjeewani,H Kaur,OU Ranasinghe,,0,0,0,,,,394823948
+2,Sri Lanka,11,MAA Sanjeewani,H Kaur,OU Ranasinghe,,0,4,4,,,,394823948
+2,Sri Lanka,12,OU Ranasinghe,Poonam Yadav,MAA Sanjeewani,,0,1,1,,,,394823948
+2,Sri Lanka,12,MAA Sanjeewani,Poonam Yadav,OU Ranasinghe,,0,4,4,,,,394823948
+2,Sri Lanka,12,MAA Sanjeewani,Poonam Yadav,OU Ranasinghe,,0,1,1,,,,394823948
+2,Sri Lanka,12,OU Ranasinghe,Poonam Yadav,MAA Sanjeewani,,0,2,2,,,,394823948
+2,Sri Lanka,12,OU Ranasinghe,Poonam Yadav,MAA Sanjeewani,,0,0,0,,,,394823948
+2,Sri Lanka,12,OU Ranasinghe,Poonam Yadav,MAA Sanjeewani,,0,1,1,,,,394823948
+2,Sri Lanka,13,OU Ranasinghe,A Reddy,MAA Sanjeewani,,0,1,1,,,,394823948
+2,Sri Lanka,13,MAA Sanjeewani,A Reddy,OU Ranasinghe,,0,2,2,,,,394823948
+2,Sri Lanka,13,MAA Sanjeewani,A Reddy,OU Ranasinghe,,0,1,1,,,,394823948
+2,Sri Lanka,13,OU Ranasinghe,A Reddy,MAA Sanjeewani,,0,1,1,run out,OU Ranasinghe,,394823948
+2,Sri Lanka,13,NND de Silva,A Reddy,MAA Sanjeewani,,0,2,2,,,,394823948
+2,Sri Lanka,13,NND de Silva,A Reddy,MAA Sanjeewani,,0,0,0,,,,394823948
+2,Sri Lanka,14,MAA Sanjeewani,Poonam Yadav,NND de Silva,,0,1,1,,,,394823948
+2,Sri Lanka,14,NND de Silva,Poonam Yadav,MAA Sanjeewani,,0,0,0,caught,NND de Silva,V Krishnamurthy,394823948
+2,Sri Lanka,14,MAA Sanjeewani,Poonam Yadav,LE Kaushalya,,0,1,1,,,,394823948
+2,Sri Lanka,14,LE Kaushalya,Poonam Yadav,MAA Sanjeewani,,0,0,0,,,,394823948
+2,Sri Lanka,14,LE Kaushalya,Poonam Yadav,MAA Sanjeewani,,0,1,1,,,,394823948
+2,Sri Lanka,14,MAA Sanjeewani,Poonam Yadav,LE Kaushalya,,0,1,1,,,,394823948
+2,Sri Lanka,15,MAA Sanjeewani,RP Yadav,LE Kaushalya,,0,1,1,,,,394823948
+2,Sri Lanka,15,LE Kaushalya,RP Yadav,MAA Sanjeewani,,0,1,1,,,,394823948
+2,Sri Lanka,15,MAA Sanjeewani,RP Yadav,LE Kaushalya,,0,0,0,stumped,MAA Sanjeewani,T Bhatia,394823948
+2,Sri Lanka,15,RS Vandort,RP Yadav,LE Kaushalya,legbyes,2,2,0,,,,394823948
+2,Sri Lanka,15,RS Vandort,RP Yadav,LE Kaushalya,legbyes,1,1,0,,,,394823948
+2,Sri Lanka,15,LE Kaushalya,RP Yadav,RS Vandort,,0,1,1,,,,394823948
+2,Sri Lanka,16,LE Kaushalya,Poonam Yadav,RS Vandort,wides,1,1,0,stumped,LE Kaushalya,T Bhatia,394823948
+2,Sri Lanka,16,SS Weerakkody,Poonam Yadav,RS Vandort,,0,1,1,,,,394823948
+2,Sri Lanka,16,RS Vandort,Poonam Yadav,SS Weerakkody,,0,0,0,,,,394823948
+2,Sri Lanka,16,RS Vandort,Poonam Yadav,SS Weerakkody,,0,1,1,run out,SS Weerakkody,,394823948
+2,Sri Lanka,16,RS Vandort,Poonam Yadav,WK Dilhari,,0,0,0,bowled,RS Vandort,,394823948
+2,Sri Lanka,16,SIP Fernando,Poonam Yadav,WK Dilhari,,0,0,0,,,,394823948
+2,Sri Lanka,16,SIP Fernando,Poonam Yadav,WK Dilhari,,0,0,0,,,,394823948
+2,Sri Lanka,17,WK Dilhari,AA Patil,SIP Fernando,,0,1,1,,,,394823948
+2,Sri Lanka,17,SIP Fernando,AA Patil,WK Dilhari,,0,1,1,,,,394823948
+2,Sri Lanka,17,WK Dilhari,AA Patil,SIP Fernando,,0,1,1,,,,394823948
+2,Sri Lanka,17,SIP Fernando,AA Patil,WK Dilhari,,0,1,1,run out,SIP Fernando,,394823948

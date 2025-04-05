@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Panama,0,SP Guzman,Garret Banner,Yusuf Bhoola,,0,2,2,,,,31830231830
+2,Panama,0,SP Guzman,Garret Banner,Yusuf Bhoola,,0,4,4,,,,31830231830
+2,Panama,0,SP Guzman,Garret Banner,Yusuf Bhoola,,0,2,2,,,,31830231830
+2,Panama,0,SP Guzman,Garret Banner,Yusuf Bhoola,wides,1,1,0,,,,31830231830
+2,Panama,0,SP Guzman,Garret Banner,Yusuf Bhoola,,0,0,0,,,,31830231830
+2,Panama,0,SP Guzman,Garret Banner,Yusuf Bhoola,,0,0,0,,,,31830231830
+2,Panama,0,SP Guzman,Garret Banner,Yusuf Bhoola,wides,1,1,0,,,,31830231830
+2,Panama,0,SP Guzman,Garret Banner,Yusuf Bhoola,,0,0,0,,,,31830231830
+2,Panama,1,Yusuf Bhoola,TW Samuels,SP Guzman,,0,1,1,,,,31830231830
+2,Panama,1,SP Guzman,TW Samuels,Yusuf Bhoola,,0,0,0,,,,31830231830
+2,Panama,1,SP Guzman,TW Samuels,Yusuf Bhoola,,0,4,4,,,,31830231830
+2,Panama,1,SP Guzman,TW Samuels,Yusuf Bhoola,,0,0,0,,,,31830231830
+2,Panama,1,SP Guzman,TW Samuels,Yusuf Bhoola,,0,1,1,,,,31830231830
+2,Panama,1,Yusuf Bhoola,TW Samuels,SP Guzman,,0,0,0,,,,31830231830
+2,Panama,2,SP Guzman,Garret Banner,Yusuf Bhoola,,0,0,0,bowled,SP Guzman,,31830231830
+2,Panama,2,A Natubhai Ahir,Garret Banner,Yusuf Bhoola,,0,0,0,,,,31830231830
+2,Panama,2,A Natubhai Ahir,Garret Banner,Yusuf Bhoola,,0,0,0,,,,31830231830
+2,Panama,2,A Natubhai Ahir,Garret Banner,Yusuf Bhoola,,0,0,0,,,,31830231830
+2,Panama,2,A Natubhai Ahir,Garret Banner,Yusuf Bhoola,,0,0,0,,,,31830231830
+2,Panama,2,A Natubhai Ahir,Garret Banner,Yusuf Bhoola,,0,0,0,,,,31830231830
+2,Panama,3,Yusuf Bhoola,TW Samuels,A Natubhai Ahir,,0,0,0,,,,31830231830
+2,Panama,3,Yusuf Bhoola,TW Samuels,A Natubhai Ahir,wides,5,5,0,,,,31830231830
+2,Panama,3,Yusuf Bhoola,TW Samuels,A Natubhai Ahir,wides,2,2,0,,,,31830231830
+2,Panama,3,A Natubhai Ahir,TW Samuels,Yusuf Bhoola,,0,1,1,,,,31830231830
+2,Panama,3,Yusuf Bhoola,TW Samuels,A Natubhai Ahir,,0,0,0,,,,31830231830
+2,Panama,3,Yusuf Bhoola,TW Samuels,A Natubhai Ahir,,0,4,4,,,,31830231830
+2,Panama,3,Yusuf Bhoola,TW Samuels,A Natubhai Ahir,,0,0,0,,,,31830231830
+2,Panama,3,Yusuf Bhoola,TW Samuels,A Natubhai Ahir,,0,0,0,,,,31830231830
+2,Panama,4,A Natubhai Ahir,Garret Banner,Yusuf Bhoola,,0,0,0,,,,31830231830
+2,Panama,4,A Natubhai Ahir,Garret Banner,Yusuf Bhoola,legbyes,1,1,0,,,,31830231830
+2,Panama,4,Yusuf Bhoola,Garret Banner,A Natubhai Ahir,,0,0,0,,,,31830231830
+2,Panama,4,Yusuf Bhoola,Garret Banner,A Natubhai Ahir,,0,4,4,,,,31830231830
+2,Panama,4,Yusuf Bhoola,Garret Banner,A Natubhai Ahir,,0,0,0,,,,31830231830
+2,Panama,4,Yusuf Bhoola,Garret Banner,A Natubhai Ahir,,0,0,0,,,,31830231830
+2,Panama,5,A Natubhai Ahir,KJ Young,Yusuf Bhoola,,0,1,1,,,,31830231830
+2,Panama,5,Yusuf Bhoola,KJ Young,A Natubhai Ahir,,0,4,4,,,,31830231830
+2,Panama,5,Yusuf Bhoola,KJ Young,A Natubhai Ahir,,0,1,1,,,,31830231830
+2,Panama,5,A Natubhai Ahir,KJ Young,Yusuf Bhoola,,0,0,0,,,,31830231830
+2,Panama,5,A Natubhai Ahir,KJ Young,Yusuf Bhoola,,0,0,0,,,,31830231830
+2,Panama,5,A Natubhai Ahir,KJ Young,Yusuf Bhoola,,0,0,0,,,,31830231830
+2,Panama,6,Yusuf Bhoola,ML Castillo,A Natubhai Ahir,,0,0,0,,,,31830231830
+2,Panama,6,Yusuf Bhoola,ML Castillo,A Natubhai Ahir,,0,2,2,,,,31830231830
+2,Panama,6,Yusuf Bhoola,ML Castillo,A Natubhai Ahir,,0,0,0,,,,31830231830
+2,Panama,6,Yusuf Bhoola,ML Castillo,A Natubhai Ahir,byes,1,1,0,,,,31830231830
+2,Panama,6,A Natubhai Ahir,ML Castillo,Yusuf Bhoola,,0,1,1,,,,31830231830
+2,Panama,6,Yusuf Bhoola,ML Castillo,A Natubhai Ahir,,0,0,0,,,,31830231830
+2,Panama,7,A Natubhai Ahir,KJ Young,Yusuf Bhoola,,0,0,0,,,,31830231830
+2,Panama,7,A Natubhai Ahir,KJ Young,Yusuf Bhoola,,0,1,1,,,,31830231830
+2,Panama,7,Yusuf Bhoola,KJ Young,A Natubhai Ahir,,0,1,1,,,,31830231830
+2,Panama,7,A Natubhai Ahir,KJ Young,Yusuf Bhoola,,0,4,4,,,,31830231830
+2,Panama,7,A Natubhai Ahir,KJ Young,Yusuf Bhoola,,0,0,0,,,,31830231830
+2,Panama,7,A Natubhai Ahir,KJ Young,Yusuf Bhoola,,0,1,1,,,,31830231830
+2,Panama,8,Yusuf Bhoola,ML Castillo,A Natubhai Ahir,,0,1,1,,,,31830231830
+2,Panama,8,A Natubhai Ahir,ML Castillo,Yusuf Bhoola,,0,0,0,caught,A Natubhai Ahir,GG Banner,31830231830
+2,Panama,8,Yusuf Ebrahim,ML Castillo,Yusuf Bhoola,,0,1,1,,,,31830231830
+2,Panama,8,Yusuf Bhoola,ML Castillo,Yusuf Ebrahim,,0,0,0,,,,31830231830
+2,Panama,8,Yusuf Bhoola,ML Castillo,Yusuf Ebrahim,,0,0,0,bowled,Yusuf Bhoola,,31830231830
+2,Panama,8,Irfan Hafejee,ML Castillo,Yusuf Ebrahim,,0,0,0,,,,31830231830
+2,Panama,9,Yusuf Ebrahim,KJ Young,Irfan Hafejee,,0,0,0,,,,31830231830
+2,Panama,9,Yusuf Ebrahim,KJ Young,Irfan Hafejee,,0,0,0,,,,31830231830
+2,Panama,9,Yusuf Ebrahim,KJ Young,Irfan Hafejee,,0,0,0,,,,31830231830
+2,Panama,9,Yusuf Ebrahim,KJ Young,Irfan Hafejee,,0,1,1,,,,31830231830
+2,Panama,9,Irfan Hafejee,KJ Young,Yusuf Ebrahim,,0,0,0,,,,31830231830
+2,Panama,9,Irfan Hafejee,KJ Young,Yusuf Ebrahim,,0,0,0,,,,31830231830
+2,Panama,10,Yusuf Ebrahim,ML Castillo,Irfan Hafejee,,0,0,0,,,,31830231830
+2,Panama,10,Yusuf Ebrahim,ML Castillo,Irfan Hafejee,,0,0,0,,,,31830231830
+2,Panama,10,Yusuf Ebrahim,ML Castillo,Irfan Hafejee,,0,0,0,,,,31830231830
+2,Panama,10,Yusuf Ebrahim,ML Castillo,Irfan Hafejee,,0,0,0,,,,31830231830
+2,Panama,10,Yusuf Ebrahim,ML Castillo,Irfan Hafejee,,0,0,0,,,,31830231830
+2,Panama,10,Yusuf Ebrahim,ML Castillo,Irfan Hafejee,,0,0,0,,,,31830231830
+2,Panama,11,Irfan Hafejee,KJ Young,Yusuf Ebrahim,,0,0,0,,,,31830231830
+2,Panama,11,Irfan Hafejee,KJ Young,Yusuf Ebrahim,,0,1,1,,,,31830231830
+2,Panama,11,Yusuf Ebrahim,KJ Young,Irfan Hafejee,,0,0,0,,,,31830231830
+2,Panama,11,Yusuf Ebrahim,KJ Young,Irfan Hafejee,,0,1,1,,,,31830231830
+2,Panama,11,Irfan Hafejee,KJ Young,Yusuf Ebrahim,,0,1,1,,,,31830231830
+2,Panama,11,Yusuf Ebrahim,KJ Young,Irfan Hafejee,,0,1,1,,,,31830231830
+2,Panama,12,Yusuf Ebrahim,ML Castillo,Irfan Hafejee,,0,4,4,,,,31830231830
+2,Panama,12,Yusuf Ebrahim,ML Castillo,Irfan Hafejee,,0,2,2,,,,31830231830
+2,Panama,12,Yusuf Ebrahim,ML Castillo,Irfan Hafejee,,0,4,4,,,,31830231830
+2,Panama,12,Yusuf Ebrahim,ML Castillo,Irfan Hafejee,,0,4,4,,,,31830231830
+2,Panama,12,Yusuf Ebrahim,ML Castillo,Irfan Hafejee,,0,1,1,,,,31830231830
+2,Panama,12,Irfan Hafejee,ML Castillo,Yusuf Ebrahim,,0,0,0,,,,31830231830
+2,Panama,13,Yusuf Ebrahim,TJ Stephenson,Irfan Hafejee,,0,0,0,caught,Yusuf Ebrahim,ML Castillo,31830231830
+2,Panama,13,M Sohel Patel,TJ Stephenson,Irfan Hafejee,,0,0,0,,,,31830231830
+2,Panama,13,M Sohel Patel,TJ Stephenson,Irfan Hafejee,,0,1,1,,,,31830231830
+2,Panama,13,Irfan Hafejee,TJ Stephenson,M Sohel Patel,,0,1,1,,,,31830231830
+2,Panama,13,M Sohel Patel,TJ Stephenson,Irfan Hafejee,,0,0,0,stumped,M Sohel Patel,AK Muslar,31830231830
+2,Panama,13,D Ahir,TJ Stephenson,Irfan Hafejee,byes,2,2,0,,,,31830231830
+2,Panama,14,Irfan Hafejee,BS Stephenson,D Ahir,,0,0,0,,,,31830231830
+2,Panama,14,Irfan Hafejee,BS Stephenson,D Ahir,,0,0,0,,,,31830231830
+2,Panama,14,Irfan Hafejee,BS Stephenson,D Ahir,,0,4,4,,,,31830231830
+2,Panama,14,Irfan Hafejee,BS Stephenson,D Ahir,,0,1,1,,,,31830231830
+2,Panama,14,D Ahir,BS Stephenson,Irfan Hafejee,,0,0,0,,,,31830231830
+2,Panama,14,D Ahir,BS Stephenson,Irfan Hafejee,,0,4,4,,,,31830231830
+2,Panama,15,Irfan Hafejee,TJ Stephenson,D Ahir,,0,4,4,,,,31830231830
+2,Panama,15,Irfan Hafejee,TJ Stephenson,D Ahir,,0,1,1,,,,31830231830
+2,Panama,15,D Ahir,TJ Stephenson,Irfan Hafejee,,0,1,1,,,,31830231830
+2,Panama,15,Irfan Hafejee,TJ Stephenson,D Ahir,,0,1,1,,,,31830231830
+2,Panama,15,D Ahir,TJ Stephenson,Irfan Hafejee,,0,2,2,,,,31830231830
+2,Panama,15,D Ahir,TJ Stephenson,Irfan Hafejee,,0,1,1,,,,31830231830
+2,Panama,16,D Ahir,BS Stephenson,Irfan Hafejee,,0,0,0,,,,31830231830
+2,Panama,16,D Ahir,BS Stephenson,Irfan Hafejee,,0,0,0,bowled,D Ahir,,31830231830
+2,Panama,16,Mahmud Jasat,BS Stephenson,Irfan Hafejee,,0,1,1,,,,31830231830
+2,Panama,16,Irfan Hafejee,BS Stephenson,Mahmud Jasat,,0,2,2,,,,31830231830
+2,Panama,16,Irfan Hafejee,BS Stephenson,Mahmud Jasat,,0,0,0,caught,Irfan Hafejee,KJ Young,31830231830
+2,Panama,16,Mahmud Jasat,BS Stephenson,Abdullah Jasat,,0,1,1,,,,31830231830
+2,Panama,17,Mahmud Jasat,Garret Banner,Abdullah Jasat,,0,0,0,,,,31830231830
+2,Panama,17,Mahmud Jasat,Garret Banner,Abdullah Jasat,,0,1,1,,,,31830231830
+2,Panama,17,Abdullah Jasat,Garret Banner,Mahmud Jasat,,0,1,1,,,,31830231830
+2,Panama,17,Mahmud Jasat,Garret Banner,Abdullah Jasat,,0,1,1,,,,31830231830
+2,Panama,17,Abdullah Jasat,Garret Banner,Mahmud Jasat,,0,1,1,,,,31830231830
+2,Panama,17,Mahmud Jasat,Garret Banner,Abdullah Jasat,,0,1,1,,,,31830231830
+2,Panama,18,Mahmud Jasat,BS Stephenson,Abdullah Jasat,,0,2,2,,,,31830231830
+2,Panama,18,Mahmud Jasat,BS Stephenson,Abdullah Jasat,legbyes,1,1,0,,,,31830231830
+2,Panama,18,Abdullah Jasat,BS Stephenson,Mahmud Jasat,,0,6,6,,,,31830231830
+2,Panama,18,Abdullah Jasat,BS Stephenson,Mahmud Jasat,,0,0,0,caught,Abdullah Jasat,GG Banner,31830231830
+2,Panama,18,Mahmud Jasat,BS Stephenson,KB Ahir,,0,2,2,,,,31830231830
+2,Panama,18,Mahmud Jasat,BS Stephenson,KB Ahir,,0,2,2,,,,31830231830
+2,Panama,19,KB Ahir,NN Banner,Mahmud Jasat,,0,4,4,,,,31830231830
+2,Panama,19,KB Ahir,NN Banner,Mahmud Jasat,,0,1,1,,,,31830231830
+2,Panama,19,Mahmud Jasat,NN Banner,KB Ahir,,0,4,4,,,,31830231830
+2,Panama,19,Mahmud Jasat,NN Banner,KB Ahir,,0,2,2,,,,31830231830
+2,Panama,19,Mahmud Jasat,NN Banner,KB Ahir,,0,2,2,,,,31830231830
+2,Panama,19,Mahmud Jasat,NN Banner,KB Ahir,,0,1,1,,,,31830231830

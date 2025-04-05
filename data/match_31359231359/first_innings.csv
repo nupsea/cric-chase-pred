@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,England,0,AE Jones,Anam Amin,DN Wyatt,,0,1,1,,,,31359231359
+1,England,0,DN Wyatt,Anam Amin,AE Jones,,0,0,0,,,,31359231359
+1,England,0,DN Wyatt,Anam Amin,AE Jones,,0,1,1,,,,31359231359
+1,England,0,AE Jones,Anam Amin,DN Wyatt,,0,1,1,,,,31359231359
+1,England,0,DN Wyatt,Anam Amin,AE Jones,,0,0,0,,,,31359231359
+1,England,0,DN Wyatt,Anam Amin,AE Jones,,0,1,1,,,,31359231359
+1,England,1,DN Wyatt,Diana Baig,AE Jones,legbyes,1,1,0,,,,31359231359
+1,England,1,AE Jones,Diana Baig,DN Wyatt,,0,0,0,,,,31359231359
+1,England,1,AE Jones,Diana Baig,DN Wyatt,,0,0,0,,,,31359231359
+1,England,1,AE Jones,Diana Baig,DN Wyatt,,0,0,0,,,,31359231359
+1,England,1,AE Jones,Diana Baig,DN Wyatt,,0,1,1,,,,31359231359
+1,England,1,DN Wyatt,Diana Baig,AE Jones,,0,4,4,,,,31359231359
+1,England,2,AE Jones,Anam Amin,DN Wyatt,,0,1,1,,,,31359231359
+1,England,2,DN Wyatt,Anam Amin,AE Jones,,0,1,1,,,,31359231359
+1,England,2,AE Jones,Anam Amin,DN Wyatt,,0,0,0,,,,31359231359
+1,England,2,AE Jones,Anam Amin,DN Wyatt,,0,1,1,,,,31359231359
+1,England,2,DN Wyatt,Anam Amin,AE Jones,,0,6,6,,,,31359231359
+1,England,2,DN Wyatt,Anam Amin,AE Jones,,0,1,1,,,,31359231359
+1,England,3,DN Wyatt,Fatima Sana,AE Jones,,0,4,4,,,,31359231359
+1,England,3,DN Wyatt,Fatima Sana,AE Jones,,0,0,0,,,,31359231359
+1,England,3,DN Wyatt,Fatima Sana,AE Jones,,0,0,0,,,,31359231359
+1,England,3,DN Wyatt,Fatima Sana,AE Jones,,0,1,1,,,,31359231359
+1,England,3,AE Jones,Fatima Sana,DN Wyatt,,0,0,0,,,,31359231359
+1,England,3,AE Jones,Fatima Sana,DN Wyatt,,0,0,0,,,,31359231359
+1,England,4,DN Wyatt,Diana Baig,AE Jones,,0,6,6,,,,31359231359
+1,England,4,DN Wyatt,Diana Baig,AE Jones,,0,0,0,caught,DN Wyatt,Umaima Sohail,31359231359
+1,England,4,AE Jones,Diana Baig,HC Knight,,0,1,1,,,,31359231359
+1,England,4,HC Knight,Diana Baig,AE Jones,,0,0,0,,,,31359231359
+1,England,4,HC Knight,Diana Baig,AE Jones,,0,0,0,,,,31359231359
+1,England,4,HC Knight,Diana Baig,AE Jones,,0,1,1,,,,31359231359
+1,England,5,HC Knight,Fatima Sana,AE Jones,,0,0,0,,,,31359231359
+1,England,5,HC Knight,Fatima Sana,AE Jones,,0,1,1,,,,31359231359
+1,England,5,AE Jones,Fatima Sana,HC Knight,,0,0,0,,,,31359231359
+1,England,5,AE Jones,Fatima Sana,HC Knight,,0,4,4,,,,31359231359
+1,England,5,AE Jones,Fatima Sana,HC Knight,,0,0,0,,,,31359231359
+1,England,5,AE Jones,Fatima Sana,HC Knight,legbyes,4,4,0,,,,31359231359
+1,England,6,HC Knight,Syeda Aroob Shah,AE Jones,,0,4,4,,,,31359231359
+1,England,6,HC Knight,Syeda Aroob Shah,AE Jones,,0,1,1,,,,31359231359
+1,England,6,AE Jones,Syeda Aroob Shah,HC Knight,,0,1,1,,,,31359231359
+1,England,6,HC Knight,Syeda Aroob Shah,AE Jones,,0,1,1,,,,31359231359
+1,England,6,AE Jones,Syeda Aroob Shah,HC Knight,,0,1,1,,,,31359231359
+1,England,6,HC Knight,Syeda Aroob Shah,AE Jones,,0,1,1,,,,31359231359
+1,England,7,HC Knight,Fatima Sana,AE Jones,,0,0,0,,,,31359231359
+1,England,7,HC Knight,Fatima Sana,AE Jones,,0,0,0,,,,31359231359
+1,England,7,HC Knight,Fatima Sana,AE Jones,,0,4,4,,,,31359231359
+1,England,7,HC Knight,Fatima Sana,AE Jones,,0,1,1,,,,31359231359
+1,England,7,AE Jones,Fatima Sana,HC Knight,,0,1,1,,,,31359231359
+1,England,7,HC Knight,Fatima Sana,AE Jones,,0,0,0,,,,31359231359
+1,England,8,AE Jones,Syeda Aroob Shah,HC Knight,,0,1,1,,,,31359231359
+1,England,8,HC Knight,Syeda Aroob Shah,AE Jones,,0,4,4,,,,31359231359
+1,England,8,HC Knight,Syeda Aroob Shah,AE Jones,,0,1,1,,,,31359231359
+1,England,8,AE Jones,Syeda Aroob Shah,HC Knight,,0,1,1,,,,31359231359
+1,England,8,HC Knight,Syeda Aroob Shah,AE Jones,,0,0,0,,,,31359231359
+1,England,8,HC Knight,Syeda Aroob Shah,AE Jones,,0,0,0,,,,31359231359
+1,England,9,AE Jones,Bismah Maroof,HC Knight,,0,4,4,,,,31359231359
+1,England,9,AE Jones,Bismah Maroof,HC Knight,,0,4,4,,,,31359231359
+1,England,9,AE Jones,Bismah Maroof,HC Knight,,0,4,4,,,,31359231359
+1,England,9,AE Jones,Bismah Maroof,HC Knight,,0,0,0,,,,31359231359
+1,England,9,AE Jones,Bismah Maroof,HC Knight,,0,1,1,,,,31359231359
+1,England,9,HC Knight,Bismah Maroof,AE Jones,,0,1,1,,,,31359231359
+1,England,10,HC Knight,Syeda Aroob Shah,AE Jones,,0,6,6,,,,31359231359
+1,England,10,HC Knight,Syeda Aroob Shah,AE Jones,,0,0,0,,,,31359231359
+1,England,10,HC Knight,Syeda Aroob Shah,AE Jones,,0,6,6,,,,31359231359
+1,England,10,HC Knight,Syeda Aroob Shah,AE Jones,,0,1,1,,,,31359231359
+1,England,10,AE Jones,Syeda Aroob Shah,HC Knight,,0,0,0,,,,31359231359
+1,England,10,AE Jones,Syeda Aroob Shah,HC Knight,,0,1,1,,,,31359231359
+1,England,11,AE Jones,Umaima Sohail,HC Knight,wides,1,1,0,,,,31359231359
+1,England,11,AE Jones,Umaima Sohail,HC Knight,,0,4,4,,,,31359231359
+1,England,11,AE Jones,Umaima Sohail,HC Knight,,0,1,1,,,,31359231359
+1,England,11,HC Knight,Umaima Sohail,AE Jones,,0,1,1,,,,31359231359
+1,England,11,AE Jones,Umaima Sohail,HC Knight,,0,1,1,,,,31359231359
+1,England,11,HC Knight,Umaima Sohail,AE Jones,,0,0,0,,,,31359231359
+1,England,11,HC Knight,Umaima Sohail,AE Jones,legbyes,1,1,0,,,,31359231359
+1,England,12,HC Knight,Diana Baig,AE Jones,,0,6,6,,,,31359231359
+1,England,12,HC Knight,Diana Baig,AE Jones,,0,1,1,,,,31359231359
+1,England,12,AE Jones,Diana Baig,HC Knight,,0,1,1,,,,31359231359
+1,England,12,HC Knight,Diana Baig,AE Jones,wides,1,1,0,,,,31359231359
+1,England,12,HC Knight,Diana Baig,AE Jones,,0,1,1,,,,31359231359
+1,England,12,AE Jones,Diana Baig,HC Knight,,0,0,0,,,,31359231359
+1,England,12,AE Jones,Diana Baig,HC Knight,,0,1,1,,,,31359231359
+1,England,13,AE Jones,Umaima Sohail,HC Knight,,0,0,0,caught,AE Jones,Syeda Aroob Shah,31359231359
+1,England,13,FC Wilson,Umaima Sohail,HC Knight,,0,2,2,,,,31359231359
+1,England,13,FC Wilson,Umaima Sohail,HC Knight,,0,0,0,,,,31359231359
+1,England,13,FC Wilson,Umaima Sohail,HC Knight,,0,1,1,,,,31359231359
+1,England,13,HC Knight,Umaima Sohail,FC Wilson,,0,1,1,,,,31359231359
+1,England,13,FC Wilson,Umaima Sohail,HC Knight,,0,1,1,,,,31359231359
+1,England,14,FC Wilson,Diana Baig,HC Knight,,0,1,1,,,,31359231359
+1,England,14,HC Knight,Diana Baig,FC Wilson,,0,0,0,caught,HC Knight,Javeria Khan,31359231359
+1,England,14,FC Wilson,Diana Baig,TT Beaumont,,0,1,1,,,,31359231359
+1,England,14,TT Beaumont,Diana Baig,FC Wilson,,0,1,1,,,,31359231359
+1,England,14,FC Wilson,Diana Baig,TT Beaumont,,0,1,1,,,,31359231359
+1,England,14,TT Beaumont,Diana Baig,FC Wilson,,0,0,0,,,,31359231359
+1,England,15,FC Wilson,Umaima Sohail,TT Beaumont,,0,1,1,,,,31359231359
+1,England,15,TT Beaumont,Umaima Sohail,FC Wilson,,0,1,1,,,,31359231359
+1,England,15,FC Wilson,Umaima Sohail,TT Beaumont,,0,1,1,,,,31359231359
+1,England,15,TT Beaumont,Umaima Sohail,FC Wilson,,0,1,1,,,,31359231359
+1,England,15,FC Wilson,Umaima Sohail,TT Beaumont,,0,0,0,,,,31359231359
+1,England,15,FC Wilson,Umaima Sohail,TT Beaumont,,0,1,1,,,,31359231359
+1,England,16,FC Wilson,Anam Amin,TT Beaumont,,0,1,1,,,,31359231359
+1,England,16,TT Beaumont,Anam Amin,FC Wilson,noballs,1,3,2,,,,31359231359
+1,England,16,TT Beaumont,Anam Amin,FC Wilson,,0,1,1,,,,31359231359
+1,England,16,FC Wilson,Anam Amin,TT Beaumont,,0,6,6,,,,31359231359
+1,England,16,FC Wilson,Anam Amin,TT Beaumont,,0,1,1,,,,31359231359
+1,England,16,TT Beaumont,Anam Amin,FC Wilson,,0,1,1,,,,31359231359
+1,England,16,FC Wilson,Anam Amin,TT Beaumont,,0,2,2,,,,31359231359
+1,England,17,TT Beaumont,Syeda Aroob Shah,FC Wilson,,0,1,1,,,,31359231359
+1,England,17,FC Wilson,Syeda Aroob Shah,TT Beaumont,,0,0,0,,,,31359231359
+1,England,17,FC Wilson,Syeda Aroob Shah,TT Beaumont,legbyes,1,1,0,,,,31359231359
+1,England,17,TT Beaumont,Syeda Aroob Shah,FC Wilson,,0,1,1,,,,31359231359
+1,England,17,FC Wilson,Syeda Aroob Shah,TT Beaumont,,0,1,1,,,,31359231359
+1,England,17,TT Beaumont,Syeda Aroob Shah,FC Wilson,,0,1,1,,,,31359231359
+1,England,18,TT Beaumont,Anam Amin,FC Wilson,,0,0,0,,,,31359231359
+1,England,18,TT Beaumont,Anam Amin,FC Wilson,,0,2,2,,,,31359231359
+1,England,18,TT Beaumont,Anam Amin,FC Wilson,,0,6,6,,,,31359231359
+1,England,18,TT Beaumont,Anam Amin,FC Wilson,,0,1,1,,,,31359231359
+1,England,18,FC Wilson,Anam Amin,TT Beaumont,,0,1,1,,,,31359231359
+1,England,18,TT Beaumont,Anam Amin,FC Wilson,,0,4,4,,,,31359231359
+1,England,19,FC Wilson,Fatima Sana,TT Beaumont,,0,0,0,,,,31359231359
+1,England,19,FC Wilson,Fatima Sana,TT Beaumont,legbyes,2,2,0,,,,31359231359
+1,England,19,FC Wilson,Fatima Sana,TT Beaumont,,0,1,1,,,,31359231359
+1,England,19,TT Beaumont,Fatima Sana,FC Wilson,legbyes,1,1,0,,,,31359231359
+1,England,19,FC Wilson,Fatima Sana,TT Beaumont,,0,4,4,,,,31359231359
+1,England,19,FC Wilson,Fatima Sana,TT Beaumont,,0,2,2,,,,31359231359

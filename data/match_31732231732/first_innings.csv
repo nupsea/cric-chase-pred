@@ -1,0 +1,128 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Bangladesh,0,Mohammad Naim,Mohammad Nawaz,Saif Hassan,,0,0,0,,,,31732231732
+1,Bangladesh,0,Mohammad Naim,Mohammad Nawaz,Saif Hassan,,0,1,1,,,,31732231732
+1,Bangladesh,0,Saif Hassan,Mohammad Nawaz,Mohammad Naim,,0,0,0,,,,31732231732
+1,Bangladesh,0,Saif Hassan,Mohammad Nawaz,Mohammad Naim,,0,0,0,,,,31732231732
+1,Bangladesh,0,Saif Hassan,Mohammad Nawaz,Mohammad Naim,,0,0,0,,,,31732231732
+1,Bangladesh,0,Saif Hassan,Mohammad Nawaz,Mohammad Naim,wides,1,1,0,,,,31732231732
+1,Bangladesh,0,Saif Hassan,Mohammad Nawaz,Mohammad Naim,,0,0,0,,,,31732231732
+1,Bangladesh,1,Mohammad Naim,Hasan Ali,Saif Hassan,wides,1,1,0,,,,31732231732
+1,Bangladesh,1,Mohammad Naim,Hasan Ali,Saif Hassan,,0,0,0,caught,Mohammad Naim,Mohammad Rizwan,31732231732
+1,Bangladesh,1,Nazmul Hossain Shanto,Hasan Ali,Saif Hassan,,0,0,0,,,,31732231732
+1,Bangladesh,1,Nazmul Hossain Shanto,Hasan Ali,Saif Hassan,,0,1,1,,,,31732231732
+1,Bangladesh,1,Saif Hassan,Hasan Ali,Nazmul Hossain Shanto,,0,0,0,,,,31732231732
+1,Bangladesh,1,Saif Hassan,Hasan Ali,Nazmul Hossain Shanto,wides,1,1,0,,,,31732231732
+1,Bangladesh,1,Saif Hassan,Hasan Ali,Nazmul Hossain Shanto,,0,1,1,,,,31732231732
+1,Bangladesh,1,Nazmul Hossain Shanto,Hasan Ali,Saif Hassan,,0,1,1,,,,31732231732
+1,Bangladesh,2,Nazmul Hossain Shanto,Mohammad Wasim,Saif Hassan,,0,0,0,,,,31732231732
+1,Bangladesh,2,Nazmul Hossain Shanto,Mohammad Wasim,Saif Hassan,,0,0,0,,,,31732231732
+1,Bangladesh,2,Nazmul Hossain Shanto,Mohammad Wasim,Saif Hassan,,0,2,2,,,,31732231732
+1,Bangladesh,2,Nazmul Hossain Shanto,Mohammad Wasim,Saif Hassan,,0,1,1,,,,31732231732
+1,Bangladesh,2,Saif Hassan,Mohammad Wasim,Nazmul Hossain Shanto,,0,0,0,,,,31732231732
+1,Bangladesh,2,Saif Hassan,Mohammad Wasim,Nazmul Hossain Shanto,,0,0,0,caught,Saif Hassan,Fakhar Zaman,31732231732
+1,Bangladesh,3,Nazmul Hossain Shanto,Hasan Ali,Afif Hossain,,0,1,1,,,,31732231732
+1,Bangladesh,3,Afif Hossain,Hasan Ali,Nazmul Hossain Shanto,,0,1,1,,,,31732231732
+1,Bangladesh,3,Nazmul Hossain Shanto,Hasan Ali,Afif Hossain,,0,0,0,,,,31732231732
+1,Bangladesh,3,Nazmul Hossain Shanto,Hasan Ali,Afif Hossain,,0,0,0,,,,31732231732
+1,Bangladesh,3,Nazmul Hossain Shanto,Hasan Ali,Afif Hossain,,0,0,0,,,,31732231732
+1,Bangladesh,3,Nazmul Hossain Shanto,Hasan Ali,Afif Hossain,,0,0,0,,,,31732231732
+1,Bangladesh,4,Afif Hossain,Mohammad Wasim,Nazmul Hossain Shanto,,0,1,1,,,,31732231732
+1,Bangladesh,4,Nazmul Hossain Shanto,Mohammad Wasim,Afif Hossain,,0,1,1,,,,31732231732
+1,Bangladesh,4,Afif Hossain,Mohammad Wasim,Nazmul Hossain Shanto,,0,1,1,,,,31732231732
+1,Bangladesh,4,Nazmul Hossain Shanto,Mohammad Wasim,Afif Hossain,,0,0,0,caught and bowled,Nazmul Hossain Shanto,,31732231732
+1,Bangladesh,4,Afif Hossain,Mohammad Wasim,Mahmudullah,,0,0,0,,,,31732231732
+1,Bangladesh,4,Afif Hossain,Mohammad Wasim,Mahmudullah,,0,1,1,,,,31732231732
+1,Bangladesh,5,Afif Hossain,Haris Rauf,Mahmudullah,wides,1,1,0,,,,31732231732
+1,Bangladesh,5,Afif Hossain,Haris Rauf,Mahmudullah,,0,4,4,,,,31732231732
+1,Bangladesh,5,Afif Hossain,Haris Rauf,Mahmudullah,,0,0,0,,,,31732231732
+1,Bangladesh,5,Afif Hossain,Haris Rauf,Mahmudullah,wides,1,1,0,,,,31732231732
+1,Bangladesh,5,Afif Hossain,Haris Rauf,Mahmudullah,,0,1,1,,,,31732231732
+1,Bangladesh,5,Mahmudullah,Haris Rauf,Afif Hossain,,0,0,0,,,,31732231732
+1,Bangladesh,5,Mahmudullah,Haris Rauf,Afif Hossain,,0,1,1,,,,31732231732
+1,Bangladesh,5,Afif Hossain,Haris Rauf,Mahmudullah,,0,1,1,,,,31732231732
+1,Bangladesh,6,Afif Hossain,Mohammad Nawaz,Mahmudullah,,0,0,0,,,,31732231732
+1,Bangladesh,6,Afif Hossain,Mohammad Nawaz,Mahmudullah,,0,4,4,,,,31732231732
+1,Bangladesh,6,Afif Hossain,Mohammad Nawaz,Mahmudullah,,0,0,0,,,,31732231732
+1,Bangladesh,6,Afif Hossain,Mohammad Nawaz,Mahmudullah,,0,1,1,,,,31732231732
+1,Bangladesh,6,Mahmudullah,Mohammad Nawaz,Afif Hossain,,0,2,2,,,,31732231732
+1,Bangladesh,6,Mahmudullah,Mohammad Nawaz,Afif Hossain,,0,1,1,,,,31732231732
+1,Bangladesh,7,Mahmudullah,Shadab Khan,Afif Hossain,,0,0,0,,,,31732231732
+1,Bangladesh,7,Mahmudullah,Shadab Khan,Afif Hossain,,0,0,0,,,,31732231732
+1,Bangladesh,7,Mahmudullah,Shadab Khan,Afif Hossain,,0,1,1,,,,31732231732
+1,Bangladesh,7,Afif Hossain,Shadab Khan,Mahmudullah,,0,1,1,,,,31732231732
+1,Bangladesh,7,Mahmudullah,Shadab Khan,Afif Hossain,,0,1,1,,,,31732231732
+1,Bangladesh,7,Afif Hossain,Shadab Khan,Mahmudullah,,0,1,1,,,,31732231732
+1,Bangladesh,8,Afif Hossain,Mohammad Nawaz,Mahmudullah,,0,0,0,,,,31732231732
+1,Bangladesh,8,Afif Hossain,Mohammad Nawaz,Mahmudullah,,0,1,1,,,,31732231732
+1,Bangladesh,8,Mahmudullah,Mohammad Nawaz,Afif Hossain,legbyes,1,1,0,,,,31732231732
+1,Bangladesh,8,Afif Hossain,Mohammad Nawaz,Mahmudullah,,0,1,1,,,,31732231732
+1,Bangladesh,8,Mahmudullah,Mohammad Nawaz,Afif Hossain,,0,0,0,,,,31732231732
+1,Bangladesh,8,Mahmudullah,Mohammad Nawaz,Afif Hossain,,0,0,0,bowled,Mahmudullah,,31732231732
+1,Bangladesh,9,Afif Hossain,Shadab Khan,Nurul Hasan,,0,0,0,,,,31732231732
+1,Bangladesh,9,Afif Hossain,Shadab Khan,Nurul Hasan,,0,0,0,,,,31732231732
+1,Bangladesh,9,Afif Hossain,Shadab Khan,Nurul Hasan,,0,0,0,,,,31732231732
+1,Bangladesh,9,Afif Hossain,Shadab Khan,Nurul Hasan,,0,0,0,,,,31732231732
+1,Bangladesh,9,Afif Hossain,Shadab Khan,Nurul Hasan,,0,0,0,,,,31732231732
+1,Bangladesh,9,Afif Hossain,Shadab Khan,Nurul Hasan,,0,0,0,,,,31732231732
+1,Bangladesh,10,Nurul Hasan,Mohammad Nawaz,Afif Hossain,,0,1,1,,,,31732231732
+1,Bangladesh,10,Afif Hossain,Mohammad Nawaz,Nurul Hasan,,0,6,6,,,,31732231732
+1,Bangladesh,10,Afif Hossain,Mohammad Nawaz,Nurul Hasan,,0,6,6,,,,31732231732
+1,Bangladesh,10,Afif Hossain,Mohammad Nawaz,Nurul Hasan,,0,0,0,,,,31732231732
+1,Bangladesh,10,Afif Hossain,Mohammad Nawaz,Nurul Hasan,,0,2,2,,,,31732231732
+1,Bangladesh,10,Afif Hossain,Mohammad Nawaz,Nurul Hasan,,0,0,0,,,,31732231732
+1,Bangladesh,11,Nurul Hasan,Haris Rauf,Afif Hossain,,0,1,1,,,,31732231732
+1,Bangladesh,11,Afif Hossain,Haris Rauf,Nurul Hasan,,0,1,1,,,,31732231732
+1,Bangladesh,11,Nurul Hasan,Haris Rauf,Afif Hossain,,0,1,1,,,,31732231732
+1,Bangladesh,11,Afif Hossain,Haris Rauf,Nurul Hasan,,0,1,1,,,,31732231732
+1,Bangladesh,11,Nurul Hasan,Haris Rauf,Afif Hossain,,0,0,0,,,,31732231732
+1,Bangladesh,11,Nurul Hasan,Haris Rauf,Afif Hossain,,0,0,0,,,,31732231732
+1,Bangladesh,12,Afif Hossain,Shadab Khan,Nurul Hasan,,0,1,1,,,,31732231732
+1,Bangladesh,12,Nurul Hasan,Shadab Khan,Afif Hossain,,0,0,0,,,,31732231732
+1,Bangladesh,12,Nurul Hasan,Shadab Khan,Afif Hossain,,0,1,1,,,,31732231732
+1,Bangladesh,12,Afif Hossain,Shadab Khan,Nurul Hasan,,0,0,0,,,,31732231732
+1,Bangladesh,12,Afif Hossain,Shadab Khan,Nurul Hasan,,0,0,0,stumped,Afif Hossain,Mohammad Rizwan,31732231732
+1,Bangladesh,12,Mahedi Hasan,Shadab Khan,Nurul Hasan,,0,1,1,,,,31732231732
+1,Bangladesh,13,Mahedi Hasan,Mohammad Wasim,Nurul Hasan,,0,1,1,,,,31732231732
+1,Bangladesh,13,Nurul Hasan,Mohammad Wasim,Mahedi Hasan,,0,0,0,,,,31732231732
+1,Bangladesh,13,Nurul Hasan,Mohammad Wasim,Mahedi Hasan,,0,2,2,,,,31732231732
+1,Bangladesh,13,Nurul Hasan,Mohammad Wasim,Mahedi Hasan,,0,1,1,,,,31732231732
+1,Bangladesh,13,Mahedi Hasan,Mohammad Wasim,Nurul Hasan,wides,1,1,0,,,,31732231732
+1,Bangladesh,13,Mahedi Hasan,Mohammad Wasim,Nurul Hasan,,0,0,0,,,,31732231732
+1,Bangladesh,13,Mahedi Hasan,Mohammad Wasim,Nurul Hasan,,0,0,0,,,,31732231732
+1,Bangladesh,14,Nurul Hasan,Shadab Khan,Mahedi Hasan,,0,1,1,,,,31732231732
+1,Bangladesh,14,Mahedi Hasan,Shadab Khan,Nurul Hasan,,0,1,1,,,,31732231732
+1,Bangladesh,14,Nurul Hasan,Shadab Khan,Mahedi Hasan,,0,6,6,,,,31732231732
+1,Bangladesh,14,Nurul Hasan,Shadab Khan,Mahedi Hasan,,0,1,1,,,,31732231732
+1,Bangladesh,14,Mahedi Hasan,Shadab Khan,Nurul Hasan,,0,0,0,,,,31732231732
+1,Bangladesh,14,Mahedi Hasan,Shadab Khan,Nurul Hasan,,0,4,4,,,,31732231732
+1,Bangladesh,15,Nurul Hasan,Mohammad Wasim,Mahedi Hasan,,0,1,1,,,,31732231732
+1,Bangladesh,15,Mahedi Hasan,Mohammad Wasim,Nurul Hasan,,0,1,1,,,,31732231732
+1,Bangladesh,15,Nurul Hasan,Mohammad Wasim,Mahedi Hasan,wides,1,1,0,,,,31732231732
+1,Bangladesh,15,Nurul Hasan,Mohammad Wasim,Mahedi Hasan,,0,0,0,,,,31732231732
+1,Bangladesh,15,Nurul Hasan,Mohammad Wasim,Mahedi Hasan,,0,2,2,,,,31732231732
+1,Bangladesh,15,Nurul Hasan,Mohammad Wasim,Mahedi Hasan,,0,6,6,,,,31732231732
+1,Bangladesh,15,Nurul Hasan,Mohammad Wasim,Mahedi Hasan,,0,1,1,,,,31732231732
+1,Bangladesh,16,Nurul Hasan,Hasan Ali,Mahedi Hasan,,0,1,1,,,,31732231732
+1,Bangladesh,16,Mahedi Hasan,Hasan Ali,Nurul Hasan,,0,1,1,,,,31732231732
+1,Bangladesh,16,Nurul Hasan,Hasan Ali,Mahedi Hasan,,0,0,0,,,,31732231732
+1,Bangladesh,16,Nurul Hasan,Hasan Ali,Mahedi Hasan,,0,2,2,,,,31732231732
+1,Bangladesh,16,Nurul Hasan,Hasan Ali,Mahedi Hasan,,0,0,0,caught,Nurul Hasan,Mohammad Rizwan,31732231732
+1,Bangladesh,16,Aminul Islam,Hasan Ali,Mahedi Hasan,,0,0,0,,,,31732231732
+1,Bangladesh,17,Mahedi Hasan,Haris Rauf,Aminul Islam,,0,1,1,,,,31732231732
+1,Bangladesh,17,Aminul Islam,Haris Rauf,Mahedi Hasan,,0,0,0,,,,31732231732
+1,Bangladesh,17,Aminul Islam,Haris Rauf,Mahedi Hasan,,0,1,1,,,,31732231732
+1,Bangladesh,17,Mahedi Hasan,Haris Rauf,Aminul Islam,,0,1,1,,,,31732231732
+1,Bangladesh,17,Aminul Islam,Haris Rauf,Mahedi Hasan,,0,1,1,,,,31732231732
+1,Bangladesh,17,Mahedi Hasan,Haris Rauf,Aminul Islam,,0,1,1,,,,31732231732
+1,Bangladesh,18,Mahedi Hasan,Hasan Ali,Aminul Islam,,0,6,6,,,,31732231732
+1,Bangladesh,18,Mahedi Hasan,Hasan Ali,Aminul Islam,,0,2,2,,,,31732231732
+1,Bangladesh,18,Mahedi Hasan,Hasan Ali,Aminul Islam,,0,1,1,,,,31732231732
+1,Bangladesh,18,Aminul Islam,Hasan Ali,Mahedi Hasan,,0,0,0,bowled,Aminul Islam,,31732231732
+1,Bangladesh,18,Taskin Ahmed,Hasan Ali,Mahedi Hasan,,0,2,2,,,,31732231732
+1,Bangladesh,18,Taskin Ahmed,Hasan Ali,Mahedi Hasan,,0,0,0,,,,31732231732
+1,Bangladesh,19,Mahedi Hasan,Haris Rauf,Taskin Ahmed,,0,6,6,,,,31732231732
+1,Bangladesh,19,Mahedi Hasan,Haris Rauf,Taskin Ahmed,,0,0,0,,,,31732231732
+1,Bangladesh,19,Mahedi Hasan,Haris Rauf,Taskin Ahmed,,0,0,0,,,,31732231732
+1,Bangladesh,19,Mahedi Hasan,Haris Rauf,Taskin Ahmed,,0,2,2,,,,31732231732
+1,Bangladesh,19,Mahedi Hasan,Haris Rauf,Taskin Ahmed,,0,1,1,,,,31732231732
+1,Bangladesh,19,Taskin Ahmed,Haris Rauf,Mahedi Hasan,,0,6,6,,,,31732231732

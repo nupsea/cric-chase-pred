@@ -1,0 +1,122 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Netherlands,0,RI Ahmed,Sompal Kami,SJ Myburgh,,0,3,3,,,,353123531
+1,Netherlands,0,SJ Myburgh,Sompal Kami,RI Ahmed,,0,0,0,,,,353123531
+1,Netherlands,0,SJ Myburgh,Sompal Kami,RI Ahmed,wides,1,1,0,,,,353123531
+1,Netherlands,0,SJ Myburgh,Sompal Kami,RI Ahmed,,0,2,2,,,,353123531
+1,Netherlands,0,SJ Myburgh,Sompal Kami,RI Ahmed,,0,4,4,,,,353123531
+1,Netherlands,0,SJ Myburgh,Sompal Kami,RI Ahmed,,0,1,1,,,,353123531
+1,Netherlands,0,RI Ahmed,Sompal Kami,SJ Myburgh,,0,1,1,,,,353123531
+1,Netherlands,1,RI Ahmed,Sagar Pun,SJ Myburgh,,0,2,2,,,,353123531
+1,Netherlands,1,RI Ahmed,Sagar Pun,SJ Myburgh,,0,0,0,,,,353123531
+1,Netherlands,1,RI Ahmed,Sagar Pun,SJ Myburgh,,0,1,1,,,,353123531
+1,Netherlands,1,SJ Myburgh,Sagar Pun,RI Ahmed,,0,0,0,,,,353123531
+1,Netherlands,1,SJ Myburgh,Sagar Pun,RI Ahmed,,0,0,0,,,,353123531
+1,Netherlands,1,SJ Myburgh,Sagar Pun,RI Ahmed,,0,1,1,,,,353123531
+1,Netherlands,2,SJ Myburgh,Sompal Kami,RI Ahmed,,0,0,0,,,,353123531
+1,Netherlands,2,SJ Myburgh,Sompal Kami,RI Ahmed,,0,4,4,,,,353123531
+1,Netherlands,2,SJ Myburgh,Sompal Kami,RI Ahmed,,0,0,0,,,,353123531
+1,Netherlands,2,SJ Myburgh,Sompal Kami,RI Ahmed,,0,1,1,,,,353123531
+1,Netherlands,2,RI Ahmed,Sompal Kami,SJ Myburgh,,0,0,0,,,,353123531
+1,Netherlands,2,RI Ahmed,Sompal Kami,SJ Myburgh,,0,0,0,,,,353123531
+1,Netherlands,3,SJ Myburgh,Sagar Pun,RI Ahmed,,0,1,1,,,,353123531
+1,Netherlands,3,RI Ahmed,Sagar Pun,SJ Myburgh,,0,1,1,,,,353123531
+1,Netherlands,3,SJ Myburgh,Sagar Pun,RI Ahmed,,0,1,1,,,,353123531
+1,Netherlands,3,RI Ahmed,Sagar Pun,SJ Myburgh,,0,1,1,,,,353123531
+1,Netherlands,3,SJ Myburgh,Sagar Pun,RI Ahmed,,0,0,0,,,,353123531
+1,Netherlands,3,SJ Myburgh,Sagar Pun,RI Ahmed,,0,0,0,,,,353123531
+1,Netherlands,4,RI Ahmed,Karan KC,SJ Myburgh,,0,0,0,,,,353123531
+1,Netherlands,4,RI Ahmed,Karan KC,SJ Myburgh,,0,0,0,,,,353123531
+1,Netherlands,4,RI Ahmed,Karan KC,SJ Myburgh,,0,2,2,,,,353123531
+1,Netherlands,4,RI Ahmed,Karan KC,SJ Myburgh,,0,1,1,,,,353123531
+1,Netherlands,4,SJ Myburgh,Karan KC,RI Ahmed,,0,1,1,,,,353123531
+1,Netherlands,4,RI Ahmed,Karan KC,SJ Myburgh,,0,0,0,,,,353123531
+1,Netherlands,5,SJ Myburgh,Sagar Pun,RI Ahmed,,0,0,0,,,,353123531
+1,Netherlands,5,SJ Myburgh,Sagar Pun,RI Ahmed,,0,4,4,,,,353123531
+1,Netherlands,5,SJ Myburgh,Sagar Pun,RI Ahmed,,0,0,0,,,,353123531
+1,Netherlands,5,SJ Myburgh,Sagar Pun,RI Ahmed,,0,0,0,,,,353123531
+1,Netherlands,5,SJ Myburgh,Sagar Pun,RI Ahmed,,0,3,3,,,,353123531
+1,Netherlands,5,RI Ahmed,Sagar Pun,SJ Myburgh,,0,1,1,,,,353123531
+1,Netherlands,6,RI Ahmed,Karan KC,SJ Myburgh,,0,0,0,caught and bowled,RI Ahmed,,353123531
+1,Netherlands,6,BN Cooper,Karan KC,SJ Myburgh,,0,0,0,,,,353123531
+1,Netherlands,6,BN Cooper,Karan KC,SJ Myburgh,,0,0,0,,,,353123531
+1,Netherlands,6,BN Cooper,Karan KC,SJ Myburgh,,0,6,6,,,,353123531
+1,Netherlands,6,BN Cooper,Karan KC,SJ Myburgh,,0,0,0,,,,353123531
+1,Netherlands,6,BN Cooper,Karan KC,SJ Myburgh,,0,1,1,,,,353123531
+1,Netherlands,7,BN Cooper,Sagar Pun,SJ Myburgh,,0,1,1,,,,353123531
+1,Netherlands,7,SJ Myburgh,Sagar Pun,BN Cooper,,0,1,1,,,,353123531
+1,Netherlands,7,BN Cooper,Sagar Pun,SJ Myburgh,,0,0,0,caught,BN Cooper,P Khadka,353123531
+1,Netherlands,7,W Barresi,Sagar Pun,SJ Myburgh,,0,4,4,,,,353123531
+1,Netherlands,7,W Barresi,Sagar Pun,SJ Myburgh,,0,1,1,,,,353123531
+1,Netherlands,7,SJ Myburgh,Sagar Pun,W Barresi,,0,1,1,,,,353123531
+1,Netherlands,8,SJ Myburgh,B Regmi,W Barresi,,0,2,2,,,,353123531
+1,Netherlands,8,SJ Myburgh,B Regmi,W Barresi,,0,0,0,,,,353123531
+1,Netherlands,8,SJ Myburgh,B Regmi,W Barresi,,0,1,1,,,,353123531
+1,Netherlands,8,W Barresi,B Regmi,SJ Myburgh,,0,1,1,,,,353123531
+1,Netherlands,8,SJ Myburgh,B Regmi,W Barresi,,0,1,1,,,,353123531
+1,Netherlands,8,W Barresi,B Regmi,SJ Myburgh,,0,1,1,,,,353123531
+1,Netherlands,9,W Barresi,SP Gauchan,SJ Myburgh,,0,0,0,,,,353123531
+1,Netherlands,9,W Barresi,SP Gauchan,SJ Myburgh,,0,1,1,,,,353123531
+1,Netherlands,9,SJ Myburgh,SP Gauchan,W Barresi,,0,1,1,,,,353123531
+1,Netherlands,9,W Barresi,SP Gauchan,SJ Myburgh,,0,1,1,,,,353123531
+1,Netherlands,9,SJ Myburgh,SP Gauchan,W Barresi,,0,1,1,,,,353123531
+1,Netherlands,9,W Barresi,SP Gauchan,SJ Myburgh,,0,1,1,,,,353123531
+1,Netherlands,10,W Barresi,B Regmi,SJ Myburgh,,0,0,0,,,,353123531
+1,Netherlands,10,W Barresi,B Regmi,SJ Myburgh,,0,2,2,,,,353123531
+1,Netherlands,10,W Barresi,B Regmi,SJ Myburgh,,0,1,1,,,,353123531
+1,Netherlands,10,SJ Myburgh,B Regmi,W Barresi,,0,6,6,,,,353123531
+1,Netherlands,10,SJ Myburgh,B Regmi,W Barresi,,0,1,1,,,,353123531
+1,Netherlands,10,W Barresi,B Regmi,SJ Myburgh,,0,1,1,,,,353123531
+1,Netherlands,11,W Barresi,SP Gauchan,SJ Myburgh,,0,0,0,stumped,W Barresi,SP Khakurel,353123531
+1,Netherlands,11,PW Borren,SP Gauchan,SJ Myburgh,,0,0,0,,,,353123531
+1,Netherlands,11,PW Borren,SP Gauchan,SJ Myburgh,,0,1,1,,,,353123531
+1,Netherlands,11,SJ Myburgh,SP Gauchan,PW Borren,,0,1,1,,,,353123531
+1,Netherlands,11,PW Borren,SP Gauchan,SJ Myburgh,,0,2,2,,,,353123531
+1,Netherlands,11,PW Borren,SP Gauchan,SJ Myburgh,,0,6,6,,,,353123531
+1,Netherlands,12,SJ Myburgh,P Khadka,PW Borren,,0,1,1,,,,353123531
+1,Netherlands,12,PW Borren,P Khadka,SJ Myburgh,,0,1,1,,,,353123531
+1,Netherlands,12,SJ Myburgh,P Khadka,PW Borren,,0,1,1,,,,353123531
+1,Netherlands,12,PW Borren,P Khadka,SJ Myburgh,,0,4,4,,,,353123531
+1,Netherlands,12,PW Borren,P Khadka,SJ Myburgh,,0,1,1,,,,353123531
+1,Netherlands,12,SJ Myburgh,P Khadka,PW Borren,,0,1,1,,,,353123531
+1,Netherlands,13,SJ Myburgh,B Regmi,PW Borren,,0,1,1,,,,353123531
+1,Netherlands,13,PW Borren,B Regmi,SJ Myburgh,,0,4,4,,,,353123531
+1,Netherlands,13,PW Borren,B Regmi,SJ Myburgh,,0,0,0,caught,PW Borren,S Vesawkar,353123531
+1,Netherlands,13,SJ Myburgh,B Regmi,PM Seelaar,,0,1,1,,,,353123531
+1,Netherlands,13,PM Seelaar,B Regmi,SJ Myburgh,,0,0,0,,,,353123531
+1,Netherlands,13,PM Seelaar,B Regmi,SJ Myburgh,,0,1,1,,,,353123531
+1,Netherlands,14,PM Seelaar,SP Gauchan,SJ Myburgh,,0,1,1,,,,353123531
+1,Netherlands,14,SJ Myburgh,SP Gauchan,PM Seelaar,,0,2,2,,,,353123531
+1,Netherlands,14,SJ Myburgh,SP Gauchan,PM Seelaar,,0,1,1,,,,353123531
+1,Netherlands,14,PM Seelaar,SP Gauchan,SJ Myburgh,,0,0,0,,,,353123531
+1,Netherlands,14,PM Seelaar,SP Gauchan,SJ Myburgh,,0,1,1,,,,353123531
+1,Netherlands,14,SJ Myburgh,SP Gauchan,PM Seelaar,,0,2,2,,,,353123531
+1,Netherlands,15,PM Seelaar,B Regmi,SJ Myburgh,,0,1,1,,,,353123531
+1,Netherlands,15,SJ Myburgh,B Regmi,PM Seelaar,,0,1,1,,,,353123531
+1,Netherlands,15,PM Seelaar,B Regmi,SJ Myburgh,,0,1,1,,,,353123531
+1,Netherlands,15,SJ Myburgh,B Regmi,PM Seelaar,,0,1,1,,,,353123531
+1,Netherlands,15,PM Seelaar,B Regmi,SJ Myburgh,,0,1,1,,,,353123531
+1,Netherlands,15,SJ Myburgh,B Regmi,PM Seelaar,,0,0,0,run out,PM Seelaar,SP Khakurel,353123531
+1,Netherlands,16,SJ Myburgh,SP Gauchan,MP O'Dowd,,0,0,0,,,,353123531
+1,Netherlands,16,SJ Myburgh,SP Gauchan,MP O'Dowd,,0,1,1,,,,353123531
+1,Netherlands,16,MP O'Dowd,SP Gauchan,SJ Myburgh,,0,0,0,,,,353123531
+1,Netherlands,16,MP O'Dowd,SP Gauchan,SJ Myburgh,,0,0,0,,,,353123531
+1,Netherlands,16,MP O'Dowd,SP Gauchan,SJ Myburgh,,0,1,1,,,,353123531
+1,Netherlands,16,SJ Myburgh,SP Gauchan,MP O'Dowd,,0,6,6,,,,353123531
+1,Netherlands,17,MP O'Dowd,Sompal Kami,SJ Myburgh,,0,1,1,,,,353123531
+1,Netherlands,17,SJ Myburgh,Sompal Kami,MP O'Dowd,,0,1,1,,,,353123531
+1,Netherlands,17,MP O'Dowd,Sompal Kami,SJ Myburgh,,0,1,1,,,,353123531
+1,Netherlands,17,SJ Myburgh,Sompal Kami,MP O'Dowd,,0,0,0,,,,353123531
+1,Netherlands,17,SJ Myburgh,Sompal Kami,MP O'Dowd,,0,0,0,,,,353123531
+1,Netherlands,17,SJ Myburgh,Sompal Kami,MP O'Dowd,,0,4,4,,,,353123531
+1,Netherlands,18,MP O'Dowd,Karan KC,SJ Myburgh,,0,0,0,caught,MP O'Dowd,G Malla,353123531
+1,Netherlands,18,SJ Myburgh,Karan KC,T van der Gugten,,0,1,1,,,,353123531
+1,Netherlands,18,T van der Gugten,Karan KC,SJ Myburgh,,0,1,1,,,,353123531
+1,Netherlands,18,SJ Myburgh,Karan KC,T van der Gugten,,0,1,1,,,,353123531
+1,Netherlands,18,T van der Gugten,Karan KC,SJ Myburgh,,0,4,4,,,,353123531
+1,Netherlands,18,T van der Gugten,Karan KC,SJ Myburgh,,0,6,6,,,,353123531
+1,Netherlands,19,SJ Myburgh,Sompal Kami,T van der Gugten,,0,4,4,,,,353123531
+1,Netherlands,19,SJ Myburgh,Sompal Kami,T van der Gugten,,0,0,0,,,,353123531
+1,Netherlands,19,SJ Myburgh,Sompal Kami,T van der Gugten,,0,1,1,,,,353123531
+1,Netherlands,19,T van der Gugten,Sompal Kami,SJ Myburgh,,0,1,1,,,,353123531
+1,Netherlands,19,SJ Myburgh,Sompal Kami,T van der Gugten,,0,1,1,,,,353123531
+1,Netherlands,19,T van der Gugten,Sompal Kami,SJ Myburgh,legbyes,2,2,0,,,,353123531

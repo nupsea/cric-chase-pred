@@ -1,0 +1,67 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Rwanda,0,O Tuyisenge,TD Chaoana,S Samal,,0,0,0,,,,31798231798
+1,Rwanda,0,O Tuyisenge,TD Chaoana,S Samal,,0,2,2,,,,31798231798
+1,Rwanda,0,O Tuyisenge,TD Chaoana,S Samal,,0,1,1,,,,31798231798
+1,Rwanda,0,S Samal,TD Chaoana,O Tuyisenge,,0,1,1,,,,31798231798
+1,Rwanda,0,O Tuyisenge,TD Chaoana,S Samal,,0,1,1,,,,31798231798
+1,Rwanda,0,S Samal,TD Chaoana,O Tuyisenge,,0,1,1,,,,31798231798
+1,Rwanda,1,S Samal,YYM Jakda,O Tuyisenge,,0,0,0,,,,31798231798
+1,Rwanda,1,S Samal,YYM Jakda,O Tuyisenge,,0,4,4,,,,31798231798
+1,Rwanda,1,S Samal,YYM Jakda,O Tuyisenge,,0,0,0,,,,31798231798
+1,Rwanda,1,S Samal,YYM Jakda,O Tuyisenge,,0,1,1,,,,31798231798
+1,Rwanda,1,O Tuyisenge,YYM Jakda,S Samal,,0,6,6,,,,31798231798
+1,Rwanda,1,O Tuyisenge,YYM Jakda,S Samal,,0,4,4,,,,31798231798
+1,Rwanda,2,S Samal,TD Chaoana,O Tuyisenge,,0,6,6,,,,31798231798
+1,Rwanda,2,S Samal,TD Chaoana,O Tuyisenge,,0,0,0,,,,31798231798
+1,Rwanda,2,S Samal,TD Chaoana,O Tuyisenge,,0,4,4,,,,31798231798
+1,Rwanda,2,S Samal,TD Chaoana,O Tuyisenge,,0,0,0,,,,31798231798
+1,Rwanda,2,S Samal,TD Chaoana,O Tuyisenge,,0,1,1,,,,31798231798
+1,Rwanda,2,O Tuyisenge,TD Chaoana,S Samal,,0,1,1,,,,31798231798
+1,Rwanda,3,O Tuyisenge,Sarfaraj Patel,S Samal,,0,4,4,,,,31798231798
+1,Rwanda,3,O Tuyisenge,Sarfaraj Patel,S Samal,byes,1,1,0,,,,31798231798
+1,Rwanda,3,S Samal,Sarfaraj Patel,O Tuyisenge,,0,2,2,,,,31798231798
+1,Rwanda,3,S Samal,Sarfaraj Patel,O Tuyisenge,,0,1,1,,,,31798231798
+1,Rwanda,3,O Tuyisenge,Sarfaraj Patel,S Samal,,0,2,2,,,,31798231798
+1,Rwanda,3,O Tuyisenge,Sarfaraj Patel,S Samal,,0,1,1,,,,31798231798
+1,Rwanda,4,O Tuyisenge,MV Matsau,S Samal,,0,0,0,caught,O Tuyisenge,ME Leoela,31798231798
+1,Rwanda,4,E Niyomugabo,MV Matsau,S Samal,,0,1,1,,,,31798231798
+1,Rwanda,4,S Samal,MV Matsau,E Niyomugabo,,0,3,3,,,,31798231798
+1,Rwanda,4,E Niyomugabo,MV Matsau,S Samal,,0,1,1,,,,31798231798
+1,Rwanda,4,S Samal,MV Matsau,E Niyomugabo,,0,6,6,,,,31798231798
+1,Rwanda,4,S Samal,MV Matsau,E Niyomugabo,,0,1,1,,,,31798231798
+1,Rwanda,5,S Samal,Sarfaraj Patel,E Niyomugabo,,0,0,0,caught,S Samal,YYM Jakda,31798231798
+1,Rwanda,5,E Niyomugabo,Sarfaraj Patel,C Rububagumya,,0,0,0,,,,31798231798
+1,Rwanda,5,E Niyomugabo,Sarfaraj Patel,C Rububagumya,,0,0,0,caught,E Niyomugabo,C Tlali,31798231798
+1,Rwanda,5,E Sebareme,Sarfaraj Patel,C Rububagumya,,0,2,2,,,,31798231798
+1,Rwanda,5,E Sebareme,Sarfaraj Patel,C Rububagumya,,0,0,0,,,,31798231798
+1,Rwanda,5,E Sebareme,Sarfaraj Patel,C Rububagumya,,0,1,1,,,,31798231798
+1,Rwanda,6,E Sebareme,YYM Jakda,C Rububagumya,,0,2,2,,,,31798231798
+1,Rwanda,6,E Sebareme,YYM Jakda,C Rububagumya,,0,1,1,,,,31798231798
+1,Rwanda,6,C Rububagumya,YYM Jakda,E Sebareme,,0,1,1,,,,31798231798
+1,Rwanda,6,E Sebareme,YYM Jakda,C Rububagumya,,0,4,4,,,,31798231798
+1,Rwanda,6,E Sebareme,YYM Jakda,C Rububagumya,,0,4,4,,,,31798231798
+1,Rwanda,6,E Sebareme,YYM Jakda,C Rububagumya,,0,0,0,,,,31798231798
+1,Rwanda,7,C Rububagumya,Sarfaraj Patel,E Sebareme,,0,0,0,,,,31798231798
+1,Rwanda,7,C Rububagumya,Sarfaraj Patel,E Sebareme,,0,2,2,,,,31798231798
+1,Rwanda,7,C Rububagumya,Sarfaraj Patel,E Sebareme,,0,1,1,,,,31798231798
+1,Rwanda,7,E Sebareme,Sarfaraj Patel,C Rububagumya,,0,1,1,,,,31798231798
+1,Rwanda,7,C Rububagumya,Sarfaraj Patel,E Sebareme,,0,2,2,,,,31798231798
+1,Rwanda,7,C Rububagumya,Sarfaraj Patel,E Sebareme,,0,0,0,,,,31798231798
+1,Rwanda,8,E Sebareme,TG Thamae,C Rububagumya,,0,0,0,lbw,E Sebareme,,31798231798
+1,Rwanda,8,M Akayezu,TG Thamae,C Rububagumya,,0,1,1,,,,31798231798
+1,Rwanda,8,C Rububagumya,TG Thamae,M Akayezu,,0,0,0,,,,31798231798
+1,Rwanda,8,C Rububagumya,TG Thamae,M Akayezu,,0,0,0,caught,C Rububagumya,AAA Patel,31798231798
+1,Rwanda,8,Bosco Tuyizere,TG Thamae,M Akayezu,,0,0,0,,,,31798231798
+1,Rwanda,8,Bosco Tuyizere,TG Thamae,M Akayezu,,0,4,4,,,,31798231798
+1,Rwanda,9,M Akayezu,MV Matsau,Bosco Tuyizere,,0,0,0,,,,31798231798
+1,Rwanda,9,M Akayezu,MV Matsau,Bosco Tuyizere,,0,0,0,caught,M Akayezu,Omar Hussain,31798231798
+1,Rwanda,9,Bosco Tuyizere,MV Matsau,P Vekaria,,0,0,0,,,,31798231798
+1,Rwanda,9,Bosco Tuyizere,MV Matsau,P Vekaria,,0,2,2,,,,31798231798
+1,Rwanda,9,Bosco Tuyizere,MV Matsau,P Vekaria,,0,1,1,,,,31798231798
+1,Rwanda,9,P Vekaria,MV Matsau,Bosco Tuyizere,,0,3,3,run out,P Vekaria,Sameer Patel,31798231798
+1,Rwanda,10,Bosco Tuyizere,TG Thamae,K Irakoze,,0,1,1,run out,K Irakoze,TG Thamae,31798231798
+1,Rwanda,10,Bosco Tuyizere,TG Thamae,D Ndikubwimana,,0,6,6,,,,31798231798
+1,Rwanda,10,Bosco Tuyizere,TG Thamae,D Ndikubwimana,,0,1,1,,,,31798231798
+1,Rwanda,10,D Ndikubwimana,TG Thamae,Bosco Tuyizere,,0,2,2,,,,31798231798
+1,Rwanda,10,D Ndikubwimana,TG Thamae,Bosco Tuyizere,,0,0,0,,,,31798231798
+1,Rwanda,10,D Ndikubwimana,TG Thamae,Bosco Tuyizere,,0,4,4,,,,31798231798

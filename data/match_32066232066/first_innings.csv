@@ -1,0 +1,106 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Brazil,0,D Staddon,L Udeh,E de Souza,,0,0,0,,,,32066232066
+1,Brazil,0,D Staddon,L Udeh,E de Souza,,0,0,0,,,,32066232066
+1,Brazil,0,D Staddon,L Udeh,E de Souza,wides,1,1,0,,,,32066232066
+1,Brazil,0,D Staddon,L Udeh,E de Souza,,0,0,0,,,,32066232066
+1,Brazil,0,D Staddon,L Udeh,E de Souza,,0,0,0,,,,32066232066
+1,Brazil,0,D Staddon,L Udeh,E de Souza,legbyes,1,1,0,,,,32066232066
+1,Brazil,0,E de Souza,L Udeh,D Staddon,,0,0,0,,,,32066232066
+1,Brazil,1,D Staddon,R Abdulrasak,E de Souza,,0,0,0,,,,32066232066
+1,Brazil,1,D Staddon,R Abdulrasak,E de Souza,,0,0,0,bowled,D Staddon,,32066232066
+1,Brazil,1,LV Boas,R Abdulrasak,E de Souza,,0,2,2,,,,32066232066
+1,Brazil,1,LV Boas,R Abdulrasak,E de Souza,,0,0,0,,,,32066232066
+1,Brazil,1,LV Boas,R Abdulrasak,E de Souza,,0,4,4,,,,32066232066
+1,Brazil,1,LV Boas,R Abdulrasak,E de Souza,,0,0,0,,,,32066232066
+1,Brazil,2,E de Souza,L Udeh,LV Boas,,0,1,1,,,,32066232066
+1,Brazil,2,LV Boas,L Udeh,E de Souza,,0,0,0,,,,32066232066
+1,Brazil,2,LV Boas,L Udeh,E de Souza,,0,0,0,,,,32066232066
+1,Brazil,2,LV Boas,L Udeh,E de Souza,,0,0,0,,,,32066232066
+1,Brazil,2,LV Boas,L Udeh,E de Souza,,0,0,0,,,,32066232066
+1,Brazil,2,LV Boas,L Udeh,E de Souza,,0,0,0,lbw,LV Boas,,32066232066
+1,Brazil,3,E de Souza,R Abdulrasak,RMAM Avery,,0,0,0,,,,32066232066
+1,Brazil,3,E de Souza,R Abdulrasak,RMAM Avery,,0,0,0,,,,32066232066
+1,Brazil,3,E de Souza,R Abdulrasak,RMAM Avery,,0,0,0,,,,32066232066
+1,Brazil,3,E de Souza,R Abdulrasak,RMAM Avery,,0,0,0,,,,32066232066
+1,Brazil,3,E de Souza,R Abdulrasak,RMAM Avery,,0,1,1,,,,32066232066
+1,Brazil,3,RMAM Avery,R Abdulrasak,E de Souza,,0,0,0,,,,32066232066
+1,Brazil,4,E de Souza,L Udeh,RMAM Avery,,0,2,2,,,,32066232066
+1,Brazil,4,E de Souza,L Udeh,RMAM Avery,,0,0,0,,,,32066232066
+1,Brazil,4,E de Souza,L Udeh,RMAM Avery,noballs,1,3,2,,,,32066232066
+1,Brazil,4,E de Souza,L Udeh,RMAM Avery,,0,0,0,,,,32066232066
+1,Brazil,4,E de Souza,L Udeh,RMAM Avery,,0,4,4,,,,32066232066
+1,Brazil,4,E de Souza,L Udeh,RMAM Avery,,0,1,1,,,,32066232066
+1,Brazil,4,RMAM Avery,L Udeh,E de Souza,wides,1,1,0,,,,32066232066
+1,Brazil,4,RMAM Avery,L Udeh,E de Souza,,0,0,0,,,,32066232066
+1,Brazil,5,E de Souza,R Samson,RMAM Avery,noballs,1,1,0,,,,32066232066
+1,Brazil,5,E de Souza,R Samson,RMAM Avery,,0,1,1,,,,32066232066
+1,Brazil,5,RMAM Avery,R Samson,E de Souza,,0,0,0,lbw,RMAM Avery,,32066232066
+1,Brazil,5,L Agatha,R Samson,E de Souza,,0,0,0,,,,32066232066
+1,Brazil,5,L Agatha,R Samson,E de Souza,noballs,1,5,4,,,,32066232066
+1,Brazil,5,L Agatha,R Samson,E de Souza,byes,1,1,0,,,,32066232066
+1,Brazil,5,E de Souza,R Samson,L Agatha,,0,0,0,,,,32066232066
+1,Brazil,5,E de Souza,R Samson,L Agatha,,0,0,0,,,,32066232066
+1,Brazil,6,L Agatha,F Eseigbe,E de Souza,,0,1,1,,,,32066232066
+1,Brazil,6,E de Souza,F Eseigbe,L Agatha,,0,0,0,,,,32066232066
+1,Brazil,6,E de Souza,F Eseigbe,L Agatha,,0,0,0,,,,32066232066
+1,Brazil,6,E de Souza,F Eseigbe,L Agatha,,0,0,0,,,,32066232066
+1,Brazil,6,E de Souza,F Eseigbe,L Agatha,wides,1,1,0,,,,32066232066
+1,Brazil,6,E de Souza,F Eseigbe,L Agatha,wides,1,1,0,,,,32066232066
+1,Brazil,6,E de Souza,F Eseigbe,L Agatha,,0,0,0,,,,32066232066
+1,Brazil,6,E de Souza,F Eseigbe,L Agatha,,0,0,0,caught,E de Souza,A Obulor,32066232066
+1,Brazil,7,L Agatha,R Samson,RD de Sousa,,0,0,0,,,,32066232066
+1,Brazil,7,L Agatha,R Samson,RD de Sousa,,0,0,0,,,,32066232066
+1,Brazil,7,L Agatha,R Samson,RD de Sousa,,0,0,0,bowled,L Agatha,,32066232066
+1,Brazil,7,M Artur,R Samson,RD de Sousa,,0,0,0,,,,32066232066
+1,Brazil,7,M Artur,R Samson,RD de Sousa,,0,0,0,,,,32066232066
+1,Brazil,7,M Artur,R Samson,RD de Sousa,,0,1,1,,,,32066232066
+1,Brazil,8,M Artur,F Eseigbe,RD de Sousa,,0,0,0,,,,32066232066
+1,Brazil,8,M Artur,F Eseigbe,RD de Sousa,,0,0,0,,,,32066232066
+1,Brazil,8,M Artur,F Eseigbe,RD de Sousa,,0,0,0,bowled,M Artur,,32066232066
+1,Brazil,8,MLG Silva,F Eseigbe,RD de Sousa,,0,0,0,,,,32066232066
+1,Brazil,8,MLG Silva,F Eseigbe,RD de Sousa,,0,0,0,,,,32066232066
+1,Brazil,8,MLG Silva,F Eseigbe,RD de Sousa,,0,0,0,,,,32066232066
+1,Brazil,9,RD de Sousa,M Imimole,MLG Silva,wides,1,1,0,,,,32066232066
+1,Brazil,9,RD de Sousa,M Imimole,MLG Silva,,0,0,0,,,,32066232066
+1,Brazil,9,RD de Sousa,M Imimole,MLG Silva,,0,0,0,,,,32066232066
+1,Brazil,9,RD de Sousa,M Imimole,MLG Silva,,0,0,0,,,,32066232066
+1,Brazil,9,RD de Sousa,M Imimole,MLG Silva,,0,0,0,,,,32066232066
+1,Brazil,9,RD de Sousa,M Imimole,MLG Silva,,0,2,2,,,,32066232066
+1,Brazil,9,RD de Sousa,M Imimole,MLG Silva,wides,1,1,0,,,,32066232066
+1,Brazil,9,RD de Sousa,M Imimole,MLG Silva,,0,0,0,,,,32066232066
+1,Brazil,10,MLG Silva,F Eseigbe,RD de Sousa,,0,1,1,,,,32066232066
+1,Brazil,10,RD de Sousa,F Eseigbe,MLG Silva,,0,1,1,,,,32066232066
+1,Brazil,10,MLG Silva,F Eseigbe,RD de Sousa,,0,0,0,caught,MLG Silva,E Sandy,32066232066
+1,Brazil,10,RD de Sousa,F Eseigbe,NC Monteiro,,0,1,1,,,,32066232066
+1,Brazil,10,NC Monteiro,F Eseigbe,RD de Sousa,,0,0,0,,,,32066232066
+1,Brazil,10,NC Monteiro,F Eseigbe,RD de Sousa,,0,1,1,,,,32066232066
+1,Brazil,11,NC Monteiro,M Imimole,RD de Sousa,,0,0,0,,,,32066232066
+1,Brazil,11,NC Monteiro,M Imimole,RD de Sousa,,0,0,0,,,,32066232066
+1,Brazil,11,NC Monteiro,M Imimole,RD de Sousa,,0,0,0,,,,32066232066
+1,Brazil,11,NC Monteiro,M Imimole,RD de Sousa,,0,1,1,,,,32066232066
+1,Brazil,11,RD de Sousa,M Imimole,NC Monteiro,,0,0,0,,,,32066232066
+1,Brazil,11,RD de Sousa,M Imimole,NC Monteiro,wides,1,1,0,,,,32066232066
+1,Brazil,11,RD de Sousa,M Imimole,NC Monteiro,,0,0,0,,,,32066232066
+1,Brazil,12,NC Monteiro,F Eseigbe,RD de Sousa,,0,1,1,,,,32066232066
+1,Brazil,12,RD de Sousa,F Eseigbe,NC Monteiro,,0,1,1,,,,32066232066
+1,Brazil,12,NC Monteiro,F Eseigbe,RD de Sousa,,0,1,1,,,,32066232066
+1,Brazil,12,RD de Sousa,F Eseigbe,NC Monteiro,,0,0,0,,,,32066232066
+1,Brazil,12,RD de Sousa,F Eseigbe,NC Monteiro,,0,1,1,,,,32066232066
+1,Brazil,12,NC Monteiro,F Eseigbe,RD de Sousa,,0,1,1,,,,32066232066
+1,Brazil,13,NC Monteiro,R Abdulrasak,RD de Sousa,,0,2,2,,,,32066232066
+1,Brazil,13,NC Monteiro,R Abdulrasak,RD de Sousa,,0,0,0,,,,32066232066
+1,Brazil,13,NC Monteiro,R Abdulrasak,RD de Sousa,,0,0,0,,,,32066232066
+1,Brazil,13,NC Monteiro,R Abdulrasak,RD de Sousa,,0,0,0,,,,32066232066
+1,Brazil,13,NC Monteiro,R Abdulrasak,RD de Sousa,,0,0,0,,,,32066232066
+1,Brazil,13,NC Monteiro,R Abdulrasak,RD de Sousa,,0,0,0,lbw,NC Monteiro,,32066232066
+1,Brazil,14,RD de Sousa,L Udeh,M Ribeiro,wides,1,1,0,,,,32066232066
+1,Brazil,14,RD de Sousa,L Udeh,M Ribeiro,wides,1,1,0,,,,32066232066
+1,Brazil,14,RD de Sousa,L Udeh,M Ribeiro,,0,0,0,,,,32066232066
+1,Brazil,14,RD de Sousa,L Udeh,M Ribeiro,wides,1,1,0,,,,32066232066
+1,Brazil,14,RD de Sousa,L Udeh,M Ribeiro,,0,0,0,,,,32066232066
+1,Brazil,14,RD de Sousa,L Udeh,M Ribeiro,,0,0,0,,,,32066232066
+1,Brazil,14,RD de Sousa,L Udeh,M Ribeiro,,0,0,0,,,,32066232066
+1,Brazil,14,RD de Sousa,L Udeh,M Ribeiro,,0,0,0,,,,32066232066
+1,Brazil,14,RD de Sousa,L Udeh,M Ribeiro,,0,0,0,,,,32066232066
+1,Brazil,15,M Ribeiro,R Abdulrasak,RD de Sousa,,0,0,0,bowled,M Ribeiro,,32066232066
+1,Brazil,15,CS Nascimento,R Abdulrasak,RD de Sousa,,0,0,0,bowled,CS Nascimento,,32066232066

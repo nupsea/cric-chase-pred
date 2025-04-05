@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,South Africa,0,L Lee,P Vastrakar,T Brits,,0,4,4,,,,31267231267
+2,South Africa,0,L Lee,P Vastrakar,T Brits,,0,0,0,,,,31267231267
+2,South Africa,0,L Lee,P Vastrakar,T Brits,wides,1,1,0,,,,31267231267
+2,South Africa,0,L Lee,P Vastrakar,T Brits,,0,4,4,,,,31267231267
+2,South Africa,0,L Lee,P Vastrakar,T Brits,,0,0,0,,,,31267231267
+2,South Africa,0,L Lee,P Vastrakar,T Brits,,0,4,4,,,,31267231267
+2,South Africa,0,L Lee,P Vastrakar,T Brits,wides,5,5,0,,,,31267231267
+2,South Africa,0,L Lee,P Vastrakar,T Brits,,0,0,0,,,,31267231267
+2,South Africa,1,T Brits,S Pandey,L Lee,,0,1,1,,,,31267231267
+2,South Africa,1,L Lee,S Pandey,T Brits,,0,0,0,,,,31267231267
+2,South Africa,1,L Lee,S Pandey,T Brits,,0,4,4,,,,31267231267
+2,South Africa,1,L Lee,S Pandey,T Brits,,0,0,0,,,,31267231267
+2,South Africa,1,L Lee,S Pandey,T Brits,wides,1,1,0,,,,31267231267
+2,South Africa,1,L Lee,S Pandey,T Brits,wides,1,1,0,,,,31267231267
+2,South Africa,1,L Lee,S Pandey,T Brits,,0,0,0,,,,31267231267
+2,South Africa,1,L Lee,S Pandey,T Brits,,0,0,0,bowled,L Lee,,31267231267
+2,South Africa,2,T Brits,DB Sharma,L Wolvaardt,,0,0,0,,,,31267231267
+2,South Africa,2,T Brits,DB Sharma,L Wolvaardt,,0,0,0,,,,31267231267
+2,South Africa,2,T Brits,DB Sharma,L Wolvaardt,,0,0,0,,,,31267231267
+2,South Africa,2,T Brits,DB Sharma,L Wolvaardt,,0,0,0,,,,31267231267
+2,South Africa,2,T Brits,DB Sharma,L Wolvaardt,,0,0,0,,,,31267231267
+2,South Africa,2,T Brits,DB Sharma,L Wolvaardt,,0,0,0,,,,31267231267
+2,South Africa,3,L Wolvaardt,S Pandey,T Brits,,0,1,1,,,,31267231267
+2,South Africa,3,T Brits,S Pandey,L Wolvaardt,,0,1,1,,,,31267231267
+2,South Africa,3,L Wolvaardt,S Pandey,T Brits,,0,0,0,,,,31267231267
+2,South Africa,3,L Wolvaardt,S Pandey,T Brits,,0,1,1,,,,31267231267
+2,South Africa,3,T Brits,S Pandey,L Wolvaardt,,0,0,0,,,,31267231267
+2,South Africa,3,T Brits,S Pandey,L Wolvaardt,,0,1,1,,,,31267231267
+2,South Africa,4,T Brits,DB Sharma,L Wolvaardt,,0,0,0,bowled,T Brits,,31267231267
+2,South Africa,4,N de Klerk,DB Sharma,L Wolvaardt,,0,0,0,,,,31267231267
+2,South Africa,4,N de Klerk,DB Sharma,L Wolvaardt,,0,0,0,,,,31267231267
+2,South Africa,4,N de Klerk,DB Sharma,L Wolvaardt,,0,0,0,,,,31267231267
+2,South Africa,4,N de Klerk,DB Sharma,L Wolvaardt,,0,0,0,caught,N de Klerk,T Bhatia,31267231267
+2,South Africa,4,M du Preez,DB Sharma,L Wolvaardt,,0,0,0,,,,31267231267
+2,South Africa,5,L Wolvaardt,S Pandey,M du Preez,,0,4,4,,,,31267231267
+2,South Africa,5,L Wolvaardt,S Pandey,M du Preez,,0,1,1,,,,31267231267
+2,South Africa,5,M du Preez,S Pandey,L Wolvaardt,,0,0,0,,,,31267231267
+2,South Africa,5,M du Preez,S Pandey,L Wolvaardt,,0,0,0,,,,31267231267
+2,South Africa,5,M du Preez,S Pandey,L Wolvaardt,,0,0,0,,,,31267231267
+2,South Africa,5,M du Preez,S Pandey,L Wolvaardt,,0,1,1,,,,31267231267
+2,South Africa,6,M du Preez,Poonam Yadav,L Wolvaardt,,0,2,2,,,,31267231267
+2,South Africa,6,M du Preez,Poonam Yadav,L Wolvaardt,,0,1,1,,,,31267231267
+2,South Africa,6,L Wolvaardt,Poonam Yadav,M du Preez,,0,0,0,,,,31267231267
+2,South Africa,6,L Wolvaardt,Poonam Yadav,M du Preez,,0,0,0,,,,31267231267
+2,South Africa,6,L Wolvaardt,Poonam Yadav,M du Preez,,0,0,0,,,,31267231267
+2,South Africa,6,L Wolvaardt,Poonam Yadav,M du Preez,,0,4,4,,,,31267231267
+2,South Africa,7,M du Preez,H Kaur,L Wolvaardt,,0,1,1,,,,31267231267
+2,South Africa,7,L Wolvaardt,H Kaur,M du Preez,,0,1,1,,,,31267231267
+2,South Africa,7,M du Preez,H Kaur,L Wolvaardt,,0,0,0,,,,31267231267
+2,South Africa,7,M du Preez,H Kaur,L Wolvaardt,,0,0,0,,,,31267231267
+2,South Africa,7,M du Preez,H Kaur,L Wolvaardt,,0,1,1,,,,31267231267
+2,South Africa,7,L Wolvaardt,H Kaur,M du Preez,,0,1,1,,,,31267231267
+2,South Africa,8,L Wolvaardt,Poonam Yadav,M du Preez,,0,0,0,,,,31267231267
+2,South Africa,8,L Wolvaardt,Poonam Yadav,M du Preez,,0,1,1,,,,31267231267
+2,South Africa,8,M du Preez,Poonam Yadav,L Wolvaardt,,0,1,1,,,,31267231267
+2,South Africa,8,L Wolvaardt,Poonam Yadav,M du Preez,,0,0,0,bowled,L Wolvaardt,,31267231267
+2,South Africa,8,S Luus,Poonam Yadav,M du Preez,,0,0,0,caught,S Luus,S Mandhana,31267231267
+2,South Africa,8,N Shangase,Poonam Yadav,M du Preez,,0,0,0,,,,31267231267
+2,South Africa,9,M du Preez,RP Yadav,N Shangase,,0,0,0,,,,31267231267
+2,South Africa,9,M du Preez,RP Yadav,N Shangase,,0,3,3,,,,31267231267
+2,South Africa,9,N Shangase,RP Yadav,M du Preez,,0,0,0,,,,31267231267
+2,South Africa,9,N Shangase,RP Yadav,M du Preez,,0,0,0,,,,31267231267
+2,South Africa,9,N Shangase,RP Yadav,M du Preez,,0,0,0,,,,31267231267
+2,South Africa,9,N Shangase,RP Yadav,M du Preez,,0,0,0,,,,31267231267
+2,South Africa,10,M du Preez,Poonam Yadav,N Shangase,,0,4,4,,,,31267231267
+2,South Africa,10,M du Preez,Poonam Yadav,N Shangase,,0,4,4,,,,31267231267
+2,South Africa,10,M du Preez,Poonam Yadav,N Shangase,,0,1,1,,,,31267231267
+2,South Africa,10,N Shangase,Poonam Yadav,M du Preez,,0,0,0,,,,31267231267
+2,South Africa,10,N Shangase,Poonam Yadav,M du Preez,,0,0,0,,,,31267231267
+2,South Africa,10,N Shangase,Poonam Yadav,M du Preez,,0,0,0,,,,31267231267
+2,South Africa,11,M du Preez,H Kaur,N Shangase,,0,0,0,,,,31267231267
+2,South Africa,11,M du Preez,H Kaur,N Shangase,,0,0,0,,,,31267231267
+2,South Africa,11,M du Preez,H Kaur,N Shangase,,0,1,1,,,,31267231267
+2,South Africa,11,N Shangase,H Kaur,M du Preez,,0,4,4,,,,31267231267
+2,South Africa,11,N Shangase,H Kaur,M du Preez,,0,0,0,bowled,N Shangase,,31267231267
+2,South Africa,11,S Ismail,H Kaur,M du Preez,,0,0,0,,,,31267231267
+2,South Africa,12,M du Preez,RP Yadav,S Ismail,,0,1,1,,,,31267231267
+2,South Africa,12,S Ismail,RP Yadav,M du Preez,,0,1,1,,,,31267231267
+2,South Africa,12,M du Preez,RP Yadav,S Ismail,,0,1,1,,,,31267231267
+2,South Africa,12,S Ismail,RP Yadav,M du Preez,,0,0,0,,,,31267231267
+2,South Africa,12,S Ismail,RP Yadav,M du Preez,,0,4,4,,,,31267231267
+2,South Africa,12,S Ismail,RP Yadav,M du Preez,,0,1,1,,,,31267231267
+2,South Africa,13,S Ismail,DB Sharma,M du Preez,,0,0,0,,,,31267231267
+2,South Africa,13,S Ismail,DB Sharma,M du Preez,,0,0,0,stumped,S Ismail,T Bhatia,31267231267
+2,South Africa,13,A Khaka,DB Sharma,M du Preez,,0,0,0,,,,31267231267
+2,South Africa,13,A Khaka,DB Sharma,M du Preez,,0,0,0,,,,31267231267
+2,South Africa,13,A Khaka,DB Sharma,M du Preez,,0,0,0,,,,31267231267
+2,South Africa,13,A Khaka,DB Sharma,M du Preez,,0,0,0,,,,31267231267
+2,South Africa,14,M du Preez,Poonam Yadav,A Khaka,,0,1,1,,,,31267231267
+2,South Africa,14,A Khaka,Poonam Yadav,M du Preez,,0,1,1,,,,31267231267
+2,South Africa,14,M du Preez,Poonam Yadav,A Khaka,,0,4,4,,,,31267231267
+2,South Africa,14,M du Preez,Poonam Yadav,A Khaka,,0,1,1,,,,31267231267
+2,South Africa,14,A Khaka,Poonam Yadav,M du Preez,,0,0,0,,,,31267231267
+2,South Africa,14,A Khaka,Poonam Yadav,M du Preez,,0,0,0,,,,31267231267
+2,South Africa,15,M du Preez,RP Yadav,A Khaka,,0,0,0,,,,31267231267
+2,South Africa,15,M du Preez,RP Yadav,A Khaka,,0,0,0,,,,31267231267
+2,South Africa,15,M du Preez,RP Yadav,A Khaka,,0,1,1,,,,31267231267
+2,South Africa,15,A Khaka,RP Yadav,M du Preez,,0,1,1,,,,31267231267
+2,South Africa,15,M du Preez,RP Yadav,A Khaka,,0,6,6,,,,31267231267
+2,South Africa,15,M du Preez,RP Yadav,A Khaka,,0,4,4,,,,31267231267
+2,South Africa,16,A Khaka,H Kaur,M du Preez,,0,1,1,,,,31267231267
+2,South Africa,16,M du Preez,H Kaur,A Khaka,,0,6,6,,,,31267231267
+2,South Africa,16,M du Preez,H Kaur,A Khaka,,0,1,1,,,,31267231267
+2,South Africa,16,A Khaka,H Kaur,M du Preez,legbyes,1,1,0,,,,31267231267
+2,South Africa,16,M du Preez,H Kaur,A Khaka,,0,1,1,,,,31267231267
+2,South Africa,16,A Khaka,H Kaur,M du Preez,,0,2,2,,,,31267231267
+2,South Africa,17,M du Preez,S Pandey,A Khaka,,0,0,0,,,,31267231267
+2,South Africa,17,M du Preez,S Pandey,A Khaka,,0,1,1,,,,31267231267
+2,South Africa,17,A Khaka,S Pandey,M du Preez,,0,0,0,,,,31267231267
+2,South Africa,17,A Khaka,S Pandey,M du Preez,,0,0,0,,,,31267231267
+2,South Africa,17,A Khaka,S Pandey,M du Preez,,0,0,0,bowled,A Khaka,,31267231267
+2,South Africa,17,TS Sekhukhune,S Pandey,M du Preez,,0,0,0,,,,31267231267
+2,South Africa,18,M du Preez,DB Sharma,TS Sekhukhune,,0,2,2,,,,31267231267
+2,South Africa,18,M du Preez,DB Sharma,TS Sekhukhune,,0,1,1,,,,31267231267
+2,South Africa,18,TS Sekhukhune,DB Sharma,M du Preez,,0,1,1,,,,31267231267
+2,South Africa,18,M du Preez,DB Sharma,TS Sekhukhune,,0,1,1,,,,31267231267
+2,South Africa,18,TS Sekhukhune,DB Sharma,M du Preez,,0,1,1,,,,31267231267
+2,South Africa,18,M du Preez,DB Sharma,TS Sekhukhune,wides,1,1,0,,,,31267231267
+2,South Africa,18,M du Preez,DB Sharma,TS Sekhukhune,,0,1,1,,,,31267231267
+2,South Africa,19,M du Preez,RP Yadav,TS Sekhukhune,,0,6,6,,,,31267231267
+2,South Africa,19,M du Preez,RP Yadav,TS Sekhukhune,,0,0,0,,,,31267231267
+2,South Africa,19,M du Preez,RP Yadav,TS Sekhukhune,,0,0,0,,,,31267231267
+2,South Africa,19,M du Preez,RP Yadav,TS Sekhukhune,,0,0,0,stumped,M du Preez,T Bhatia,31267231267
+2,South Africa,19,N Mlaba,RP Yadav,TS Sekhukhune,,0,0,0,stumped,N Mlaba,T Bhatia,31267231267

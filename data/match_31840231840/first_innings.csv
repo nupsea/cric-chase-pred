@@ -1,0 +1,113 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Argentina,0,P Baron,Junaid Siddiqui,LA Musiani,,0,0,0,,,,31840231840
+1,Argentina,0,P Baron,Junaid Siddiqui,LA Musiani,,0,0,0,,,,31840231840
+1,Argentina,0,P Baron,Junaid Siddiqui,LA Musiani,,0,1,1,,,,31840231840
+1,Argentina,0,LA Musiani,Junaid Siddiqui,P Baron,,0,0,0,,,,31840231840
+1,Argentina,0,LA Musiani,Junaid Siddiqui,P Baron,wides,2,2,0,,,,31840231840
+1,Argentina,0,P Baron,Junaid Siddiqui,LA Musiani,,0,0,0,,,,31840231840
+1,Argentina,0,P Baron,Junaid Siddiqui,LA Musiani,,0,0,0,,,,31840231840
+1,Argentina,1,LA Musiani,C Pervez,P Baron,,0,2,2,,,,31840231840
+1,Argentina,1,LA Musiani,C Pervez,P Baron,,0,1,1,,,,31840231840
+1,Argentina,1,P Baron,C Pervez,LA Musiani,,0,1,1,,,,31840231840
+1,Argentina,1,LA Musiani,C Pervez,P Baron,,0,0,0,,,,31840231840
+1,Argentina,1,LA Musiani,C Pervez,P Baron,,0,4,4,,,,31840231840
+1,Argentina,1,LA Musiani,C Pervez,P Baron,,0,4,4,,,,31840231840
+1,Argentina,2,P Baron,Junaid Siddiqui,LA Musiani,,0,0,0,,,,31840231840
+1,Argentina,2,P Baron,Junaid Siddiqui,LA Musiani,,0,1,1,,,,31840231840
+1,Argentina,2,LA Musiani,Junaid Siddiqui,P Baron,,0,0,0,,,,31840231840
+1,Argentina,2,LA Musiani,Junaid Siddiqui,P Baron,,0,1,1,,,,31840231840
+1,Argentina,2,P Baron,Junaid Siddiqui,LA Musiani,,0,2,2,,,,31840231840
+1,Argentina,2,P Baron,Junaid Siddiqui,LA Musiani,,0,4,4,,,,31840231840
+1,Argentina,3,LA Musiani,Salman Nazar,P Baron,,0,1,1,,,,31840231840
+1,Argentina,3,P Baron,Salman Nazar,LA Musiani,,0,0,0,,,,31840231840
+1,Argentina,3,P Baron,Salman Nazar,LA Musiani,,0,0,0,,,,31840231840
+1,Argentina,3,P Baron,Salman Nazar,LA Musiani,,0,0,0,,,,31840231840
+1,Argentina,3,P Baron,Salman Nazar,LA Musiani,wides,1,1,0,,,,31840231840
+1,Argentina,3,P Baron,Salman Nazar,LA Musiani,,0,6,6,,,,31840231840
+1,Argentina,3,P Baron,Salman Nazar,LA Musiani,,0,0,0,,,,31840231840
+1,Argentina,4,LA Musiani,Saad Bin Zafar,P Baron,legbyes,1,1,0,,,,31840231840
+1,Argentina,4,P Baron,Saad Bin Zafar,LA Musiani,,0,1,1,,,,31840231840
+1,Argentina,4,LA Musiani,Saad Bin Zafar,P Baron,,0,0,0,,,,31840231840
+1,Argentina,4,LA Musiani,Saad Bin Zafar,P Baron,,0,4,4,,,,31840231840
+1,Argentina,4,LA Musiani,Saad Bin Zafar,P Baron,,0,0,0,bowled,LA Musiani,,31840231840
+1,Argentina,4,A Ferguson,Saad Bin Zafar,P Baron,,0,4,4,,,,31840231840
+1,Argentina,5,P Baron,D Heyliger,A Ferguson,,0,1,1,,,,31840231840
+1,Argentina,5,A Ferguson,D Heyliger,P Baron,,0,1,1,,,,31840231840
+1,Argentina,5,P Baron,D Heyliger,A Ferguson,,0,1,1,,,,31840231840
+1,Argentina,5,A Ferguson,D Heyliger,P Baron,,0,0,0,,,,31840231840
+1,Argentina,5,A Ferguson,D Heyliger,P Baron,,0,1,1,,,,31840231840
+1,Argentina,5,P Baron,D Heyliger,A Ferguson,,0,0,0,,,,31840231840
+1,Argentina,6,A Ferguson,Saad Bin Zafar,P Baron,,0,1,1,,,,31840231840
+1,Argentina,6,P Baron,Saad Bin Zafar,A Ferguson,,0,0,0,,,,31840231840
+1,Argentina,6,P Baron,Saad Bin Zafar,A Ferguson,,0,0,0,,,,31840231840
+1,Argentina,6,P Baron,Saad Bin Zafar,A Ferguson,,0,1,1,,,,31840231840
+1,Argentina,6,A Ferguson,Saad Bin Zafar,P Baron,,0,1,1,,,,31840231840
+1,Argentina,6,P Baron,Saad Bin Zafar,A Ferguson,,0,0,0,caught,P Baron,H Thaker,31840231840
+1,Argentina,7,A Kirschbaum,D Heyliger,A Ferguson,,0,0,0,bowled,A Kirschbaum,,31840231840
+1,Argentina,7,RM Siri,D Heyliger,A Ferguson,,0,1,1,,,,31840231840
+1,Argentina,7,A Ferguson,D Heyliger,RM Siri,,0,0,0,,,,31840231840
+1,Argentina,7,A Ferguson,D Heyliger,RM Siri,,0,4,4,,,,31840231840
+1,Argentina,7,A Ferguson,D Heyliger,RM Siri,,0,0,0,,,,31840231840
+1,Argentina,7,A Ferguson,D Heyliger,RM Siri,,0,0,0,,,,31840231840
+1,Argentina,8,RM Siri,Saad Bin Zafar,A Ferguson,,0,1,1,,,,31840231840
+1,Argentina,8,A Ferguson,Saad Bin Zafar,RM Siri,,0,1,1,,,,31840231840
+1,Argentina,8,RM Siri,Saad Bin Zafar,A Ferguson,,0,0,0,,,,31840231840
+1,Argentina,8,RM Siri,Saad Bin Zafar,A Ferguson,,0,1,1,,,,31840231840
+1,Argentina,8,A Ferguson,Saad Bin Zafar,RM Siri,,0,0,0,,,,31840231840
+1,Argentina,8,A Ferguson,Saad Bin Zafar,RM Siri,,0,1,1,,,,31840231840
+1,Argentina,9,A Ferguson,H Thaker,RM Siri,,0,1,1,,,,31840231840
+1,Argentina,9,RM Siri,H Thaker,A Ferguson,,0,1,1,,,,31840231840
+1,Argentina,9,A Ferguson,H Thaker,RM Siri,,0,1,1,,,,31840231840
+1,Argentina,9,RM Siri,H Thaker,A Ferguson,,0,1,1,,,,31840231840
+1,Argentina,9,A Ferguson,H Thaker,RM Siri,,0,1,1,,,,31840231840
+1,Argentina,9,RM Siri,H Thaker,A Ferguson,,0,2,2,,,,31840231840
+1,Argentina,10,A Ferguson,Salman Nazar,RM Siri,,0,1,1,,,,31840231840
+1,Argentina,10,RM Siri,Salman Nazar,A Ferguson,wides,5,5,0,,,,31840231840
+1,Argentina,10,RM Siri,Salman Nazar,A Ferguson,,0,0,0,,,,31840231840
+1,Argentina,10,RM Siri,Salman Nazar,A Ferguson,,0,4,4,,,,31840231840
+1,Argentina,10,RM Siri,Salman Nazar,A Ferguson,,0,0,0,,,,31840231840
+1,Argentina,10,RM Siri,Salman Nazar,A Ferguson,,0,4,4,,,,31840231840
+1,Argentina,10,RM Siri,Salman Nazar,A Ferguson,,0,1,1,,,,31840231840
+1,Argentina,11,RM Siri,H Thaker,A Ferguson,,0,0,0,,,,31840231840
+1,Argentina,11,RM Siri,H Thaker,A Ferguson,,0,0,0,,,,31840231840
+1,Argentina,11,RM Siri,H Thaker,A Ferguson,byes,4,4,0,,,,31840231840
+1,Argentina,11,RM Siri,H Thaker,A Ferguson,,0,0,0,lbw,RM Siri,,31840231840
+1,Argentina,11,R Escobar,H Thaker,A Ferguson,,0,0,0,,,,31840231840
+1,Argentina,11,R Escobar,H Thaker,A Ferguson,,0,0,0,,,,31840231840
+1,Argentina,12,A Ferguson,Salman Nazar,R Escobar,,0,1,1,,,,31840231840
+1,Argentina,12,R Escobar,Salman Nazar,A Ferguson,,0,0,0,,,,31840231840
+1,Argentina,12,R Escobar,Salman Nazar,A Ferguson,,0,0,0,,,,31840231840
+1,Argentina,12,R Escobar,Salman Nazar,A Ferguson,,0,1,1,,,,31840231840
+1,Argentina,12,A Ferguson,Salman Nazar,R Escobar,,0,4,4,,,,31840231840
+1,Argentina,12,A Ferguson,Salman Nazar,R Escobar,,0,0,0,stumped,A Ferguson,Hamza Tariq,31840231840
+1,Argentina,13,R Escobar,H Thaker,PL Bruno,,0,0,0,,,,31840231840
+1,Argentina,13,R Escobar,H Thaker,PL Bruno,,0,1,1,,,,31840231840
+1,Argentina,13,PL Bruno,H Thaker,R Escobar,,0,1,1,,,,31840231840
+1,Argentina,13,R Escobar,H Thaker,PL Bruno,,0,1,1,,,,31840231840
+1,Argentina,13,PL Bruno,H Thaker,R Escobar,,0,1,1,,,,31840231840
+1,Argentina,13,R Escobar,H Thaker,PL Bruno,,0,1,1,,,,31840231840
+1,Argentina,14,R Escobar,Salman Nazar,PL Bruno,,0,0,0,,,,31840231840
+1,Argentina,14,R Escobar,Salman Nazar,PL Bruno,,0,0,0,,,,31840231840
+1,Argentina,14,R Escobar,Salman Nazar,PL Bruno,,0,1,1,,,,31840231840
+1,Argentina,14,PL Bruno,Salman Nazar,R Escobar,,0,0,0,lbw,PL Bruno,,31840231840
+1,Argentina,14,T Rossi,Salman Nazar,R Escobar,,0,0,0,,,,31840231840
+1,Argentina,14,T Rossi,Salman Nazar,R Escobar,,0,0,0,,,,31840231840
+1,Argentina,15,R Escobar,D Heyliger,T Rossi,legbyes,1,1,0,,,,31840231840
+1,Argentina,15,T Rossi,D Heyliger,R Escobar,,0,0,0,,,,31840231840
+1,Argentina,15,T Rossi,D Heyliger,R Escobar,,0,0,0,bowled,T Rossi,,31840231840
+1,Argentina,15,H Fennell,D Heyliger,R Escobar,,0,0,0,bowled,H Fennell,,31840231840
+1,Argentina,15,A Husain,D Heyliger,R Escobar,wides,1,1,0,,,,31840231840
+1,Argentina,15,A Husain,D Heyliger,R Escobar,,0,0,0,,,,31840231840
+1,Argentina,15,A Husain,D Heyliger,R Escobar,,0,4,4,,,,31840231840
+1,Argentina,16,R Escobar,J Matharu,A Husain,,0,1,1,,,,31840231840
+1,Argentina,16,A Husain,J Matharu,R Escobar,,0,1,1,,,,31840231840
+1,Argentina,16,R Escobar,J Matharu,A Husain,,0,0,0,,,,31840231840
+1,Argentina,16,R Escobar,J Matharu,A Husain,legbyes,1,1,0,,,,31840231840
+1,Argentina,16,A Husain,J Matharu,R Escobar,,0,1,1,,,,31840231840
+1,Argentina,16,R Escobar,J Matharu,A Husain,,0,1,1,,,,31840231840
+1,Argentina,17,R Escobar,D Heyliger,A Husain,,0,1,1,,,,31840231840
+1,Argentina,17,A Husain,D Heyliger,R Escobar,legbyes,1,1,0,,,,31840231840
+1,Argentina,17,R Escobar,D Heyliger,A Husain,,0,0,0,,,,31840231840
+1,Argentina,17,R Escobar,D Heyliger,A Husain,,0,1,1,,,,31840231840
+1,Argentina,17,A Husain,D Heyliger,R Escobar,,0,0,0,caught,A Husain,Ravinderpal Singh,31840231840
+1,Argentina,17,J Hurley,D Heyliger,R Escobar,,0,0,0,bowled,J Hurley,,31840231840

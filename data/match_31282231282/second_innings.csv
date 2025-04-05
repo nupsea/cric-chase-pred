@@ -1,0 +1,107 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Namibia,0,JP Kotze,N Pokana,N Davin,,0,0,0,,,,31282231282
+2,Namibia,0,JP Kotze,N Pokana,N Davin,,0,0,0,,,,31282231282
+2,Namibia,0,JP Kotze,N Pokana,N Davin,,0,0,0,,,,31282231282
+2,Namibia,0,JP Kotze,N Pokana,N Davin,wides,1,1,0,,,,31282231282
+2,Namibia,0,JP Kotze,N Pokana,N Davin,,0,0,0,,,,31282231282
+2,Namibia,0,JP Kotze,N Pokana,N Davin,,0,1,1,,,,31282231282
+2,Namibia,0,N Davin,N Pokana,JP Kotze,,0,2,2,,,,31282231282
+2,Namibia,1,JP Kotze,S Bau,N Davin,,0,0,0,,,,31282231282
+2,Namibia,1,JP Kotze,S Bau,N Davin,,0,0,0,,,,31282231282
+2,Namibia,1,JP Kotze,S Bau,N Davin,,0,4,4,,,,31282231282
+2,Namibia,1,JP Kotze,S Bau,N Davin,byes,4,4,0,,,,31282231282
+2,Namibia,1,JP Kotze,S Bau,N Davin,,0,0,0,,,,31282231282
+2,Namibia,1,JP Kotze,S Bau,N Davin,,0,1,1,,,,31282231282
+2,Namibia,2,JP Kotze,N Pokana,N Davin,,0,1,1,,,,31282231282
+2,Namibia,2,N Davin,N Pokana,JP Kotze,,0,6,6,,,,31282231282
+2,Namibia,2,N Davin,N Pokana,JP Kotze,,0,2,2,,,,31282231282
+2,Namibia,2,N Davin,N Pokana,JP Kotze,,0,4,4,,,,31282231282
+2,Namibia,2,N Davin,N Pokana,JP Kotze,,0,0,0,,,,31282231282
+2,Namibia,2,N Davin,N Pokana,JP Kotze,,0,1,1,,,,31282231282
+2,Namibia,3,N Davin,S Bau,JP Kotze,,0,0,0,,,,31282231282
+2,Namibia,3,N Davin,S Bau,JP Kotze,,0,0,0,caught,N Davin,R Hekure,31282231282
+2,Namibia,3,JP Kotze,S Bau,MG Erasmus,,0,0,0,,,,31282231282
+2,Namibia,3,JP Kotze,S Bau,MG Erasmus,,0,1,1,,,,31282231282
+2,Namibia,3,MG Erasmus,S Bau,JP Kotze,,0,1,1,,,,31282231282
+2,Namibia,3,JP Kotze,S Bau,MG Erasmus,,0,2,2,,,,31282231282
+2,Namibia,4,MG Erasmus,D Ravu,JP Kotze,,0,0,0,,,,31282231282
+2,Namibia,4,MG Erasmus,D Ravu,JP Kotze,,0,0,0,,,,31282231282
+2,Namibia,4,MG Erasmus,D Ravu,JP Kotze,,0,4,4,,,,31282231282
+2,Namibia,4,MG Erasmus,D Ravu,JP Kotze,,0,1,1,,,,31282231282
+2,Namibia,4,JP Kotze,D Ravu,MG Erasmus,,0,1,1,,,,31282231282
+2,Namibia,4,MG Erasmus,D Ravu,JP Kotze,,0,4,4,,,,31282231282
+2,Namibia,5,JP Kotze,N Vanua,MG Erasmus,legbyes,4,4,0,,,,31282231282
+2,Namibia,5,JP Kotze,N Vanua,MG Erasmus,,0,1,1,,,,31282231282
+2,Namibia,5,MG Erasmus,N Vanua,JP Kotze,,0,0,0,run out,JP Kotze,,31282231282
+2,Namibia,5,CG Williams,N Vanua,MG Erasmus,,0,0,0,,,,31282231282
+2,Namibia,5,CG Williams,N Vanua,MG Erasmus,,0,0,0,bowled,CG Williams,,31282231282
+2,Namibia,5,C Viljoen,N Vanua,MG Erasmus,,0,0,0,,,,31282231282
+2,Namibia,6,MG Erasmus,D Ravu,C Viljoen,,0,0,0,caught,MG Erasmus,A Vala,31282231282
+2,Namibia,6,JJ Smit,D Ravu,C Viljoen,,0,1,1,,,,31282231282
+2,Namibia,6,C Viljoen,D Ravu,JJ Smit,,0,0,0,,,,31282231282
+2,Namibia,6,C Viljoen,D Ravu,JJ Smit,,0,0,0,,,,31282231282
+2,Namibia,6,C Viljoen,D Ravu,JJ Smit,,0,0,0,,,,31282231282
+2,Namibia,6,C Viljoen,D Ravu,JJ Smit,,0,1,1,,,,31282231282
+2,Namibia,7,C Viljoen,N Vanua,JJ Smit,,0,2,2,,,,31282231282
+2,Namibia,7,C Viljoen,N Vanua,JJ Smit,,0,0,0,,,,31282231282
+2,Namibia,7,C Viljoen,N Vanua,JJ Smit,,0,0,0,,,,31282231282
+2,Namibia,7,C Viljoen,N Vanua,JJ Smit,,0,1,1,,,,31282231282
+2,Namibia,7,JJ Smit,N Vanua,C Viljoen,,0,0,0,,,,31282231282
+2,Namibia,7,JJ Smit,N Vanua,C Viljoen,,0,1,1,,,,31282231282
+2,Namibia,8,JJ Smit,D Ravu,C Viljoen,legbyes,4,4,0,,,,31282231282
+2,Namibia,8,JJ Smit,D Ravu,C Viljoen,,0,0,0,,,,31282231282
+2,Namibia,8,JJ Smit,D Ravu,C Viljoen,,0,1,1,,,,31282231282
+2,Namibia,8,C Viljoen,D Ravu,JJ Smit,,0,0,0,,,,31282231282
+2,Namibia,8,C Viljoen,D Ravu,JJ Smit,,0,2,2,,,,31282231282
+2,Namibia,8,C Viljoen,D Ravu,JJ Smit,,0,1,1,,,,31282231282
+2,Namibia,9,C Viljoen,J Kila,JJ Smit,noballs,1,2,1,,,,31282231282
+2,Namibia,9,JJ Smit,J Kila,C Viljoen,,0,6,6,,,,31282231282
+2,Namibia,9,JJ Smit,J Kila,C Viljoen,,0,1,1,,,,31282231282
+2,Namibia,9,C Viljoen,J Kila,JJ Smit,,0,1,1,,,,31282231282
+2,Namibia,9,JJ Smit,J Kila,C Viljoen,,0,1,1,,,,31282231282
+2,Namibia,9,C Viljoen,J Kila,JJ Smit,,0,0,0,,,,31282231282
+2,Namibia,9,C Viljoen,J Kila,JJ Smit,,0,1,1,,,,31282231282
+2,Namibia,10,C Viljoen,CJA Amini,JJ Smit,,0,6,6,,,,31282231282
+2,Namibia,10,C Viljoen,CJA Amini,JJ Smit,,0,0,0,,,,31282231282
+2,Namibia,10,C Viljoen,CJA Amini,JJ Smit,,0,0,0,,,,31282231282
+2,Namibia,10,C Viljoen,CJA Amini,JJ Smit,,0,1,1,,,,31282231282
+2,Namibia,10,JJ Smit,CJA Amini,C Viljoen,,0,1,1,,,,31282231282
+2,Namibia,10,C Viljoen,CJA Amini,JJ Smit,,0,0,0,bowled,C Viljoen,,31282231282
+2,Namibia,11,JJ Smit,A Vala,ZE Green,,0,0,0,,,,31282231282
+2,Namibia,11,JJ Smit,A Vala,ZE Green,,0,0,0,caught,JJ Smit,R Hekure,31282231282
+2,Namibia,11,ZE Green,A Vala,JN Frylinck,,0,0,0,bowled,ZE Green,,31282231282
+2,Namibia,11,Z Groenewald,A Vala,JN Frylinck,,0,1,1,,,,31282231282
+2,Namibia,11,JN Frylinck,A Vala,Z Groenewald,legbyes,1,1,0,,,,31282231282
+2,Namibia,11,Z Groenewald,A Vala,JN Frylinck,,0,0,0,,,,31282231282
+2,Namibia,12,JN Frylinck,S Bau,Z Groenewald,,0,0,0,,,,31282231282
+2,Namibia,12,JN Frylinck,S Bau,Z Groenewald,,0,1,1,,,,31282231282
+2,Namibia,12,Z Groenewald,S Bau,JN Frylinck,,0,0,0,,,,31282231282
+2,Namibia,12,Z Groenewald,S Bau,JN Frylinck,,0,0,0,,,,31282231282
+2,Namibia,12,Z Groenewald,S Bau,JN Frylinck,,0,1,1,,,,31282231282
+2,Namibia,12,JN Frylinck,S Bau,Z Groenewald,,0,0,0,,,,31282231282
+2,Namibia,13,Z Groenewald,A Vala,JN Frylinck,,0,2,2,,,,31282231282
+2,Namibia,13,Z Groenewald,A Vala,JN Frylinck,,0,0,0,,,,31282231282
+2,Namibia,13,Z Groenewald,A Vala,JN Frylinck,,0,0,0,,,,31282231282
+2,Namibia,13,Z Groenewald,A Vala,JN Frylinck,,0,0,0,,,,31282231282
+2,Namibia,13,Z Groenewald,A Vala,JN Frylinck,,0,0,0,bowled,Z Groenewald,,31282231282
+2,Namibia,13,HN Ya France,A Vala,JN Frylinck,,0,4,4,,,,31282231282
+2,Namibia,14,JN Frylinck,S Bau,HN Ya France,,0,0,0,,,,31282231282
+2,Namibia,14,JN Frylinck,S Bau,HN Ya France,legbyes,4,4,0,,,,31282231282
+2,Namibia,14,JN Frylinck,S Bau,HN Ya France,,0,0,0,,,,31282231282
+2,Namibia,14,JN Frylinck,S Bau,HN Ya France,,0,1,1,,,,31282231282
+2,Namibia,14,HN Ya France,S Bau,JN Frylinck,,0,1,1,,,,31282231282
+2,Namibia,14,JN Frylinck,S Bau,HN Ya France,,0,2,2,,,,31282231282
+2,Namibia,15,HN Ya France,A Vala,JN Frylinck,,0,1,1,,,,31282231282
+2,Namibia,15,JN Frylinck,A Vala,HN Ya France,,0,4,4,,,,31282231282
+2,Namibia,15,JN Frylinck,A Vala,HN Ya France,,0,1,1,,,,31282231282
+2,Namibia,15,HN Ya France,A Vala,JN Frylinck,,0,0,0,,,,31282231282
+2,Namibia,15,HN Ya France,A Vala,JN Frylinck,,0,0,0,,,,31282231282
+2,Namibia,15,HN Ya France,A Vala,JN Frylinck,,0,6,6,,,,31282231282
+2,Namibia,16,JN Frylinck,N Pokana,HN Ya France,wides,1,1,0,,,,31282231282
+2,Namibia,16,JN Frylinck,N Pokana,HN Ya France,,0,1,1,,,,31282231282
+2,Namibia,16,HN Ya France,N Pokana,JN Frylinck,,0,0,0,,,,31282231282
+2,Namibia,16,HN Ya France,N Pokana,JN Frylinck,,0,1,1,,,,31282231282
+2,Namibia,16,JN Frylinck,N Pokana,HN Ya France,,0,2,2,,,,31282231282
+2,Namibia,16,JN Frylinck,N Pokana,HN Ya France,,0,1,1,,,,31282231282
+2,Namibia,16,HN Ya France,N Pokana,JN Frylinck,,0,0,0,caught,HN Ya France,JB Reva,31282231282
+2,Namibia,17,JN Frylinck,R Hekure,BM Scholtz,,0,0,0,run out,BM Scholtz,,31282231282

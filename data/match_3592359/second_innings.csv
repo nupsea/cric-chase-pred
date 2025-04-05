@@ -1,0 +1,115 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,South Africa,0,HH Gibbs,NW Bracken,JH Kallis,,0,0,0,,,,3592359
+2,South Africa,0,HH Gibbs,NW Bracken,JH Kallis,,0,0,0,,,,3592359
+2,South Africa,0,HH Gibbs,NW Bracken,JH Kallis,wides,1,1,0,,,,3592359
+2,South Africa,0,HH Gibbs,NW Bracken,JH Kallis,,0,0,0,lbw,HH Gibbs,,3592359
+2,South Africa,0,AB de Villiers,NW Bracken,JH Kallis,,0,0,0,,,,3592359
+2,South Africa,0,AB de Villiers,NW Bracken,JH Kallis,,0,0,0,,,,3592359
+2,South Africa,0,AB de Villiers,NW Bracken,JH Kallis,,0,0,0,,,,3592359
+2,South Africa,1,JH Kallis,SW Tait,AB de Villiers,,0,0,0,,,,3592359
+2,South Africa,1,JH Kallis,SW Tait,AB de Villiers,legbyes,1,1,0,,,,3592359
+2,South Africa,1,AB de Villiers,SW Tait,JH Kallis,,0,0,0,hit wicket,AB de Villiers,,3592359
+2,South Africa,1,JP Duminy,SW Tait,JH Kallis,legbyes,1,1,0,,,,3592359
+2,South Africa,1,JH Kallis,SW Tait,JP Duminy,,0,4,4,,,,3592359
+2,South Africa,1,JH Kallis,SW Tait,JP Duminy,,0,0,0,,,,3592359
+2,South Africa,2,JP Duminy,BW Hilfenhaus,JH Kallis,,0,0,0,,,,3592359
+2,South Africa,2,JP Duminy,BW Hilfenhaus,JH Kallis,,0,4,4,,,,3592359
+2,South Africa,2,JP Duminy,BW Hilfenhaus,JH Kallis,,0,1,1,,,,3592359
+2,South Africa,2,JH Kallis,BW Hilfenhaus,JP Duminy,,0,0,0,,,,3592359
+2,South Africa,2,JH Kallis,BW Hilfenhaus,JP Duminy,,0,0,0,bowled,JH Kallis,,3592359
+2,South Africa,2,VB van Jaarsveld,BW Hilfenhaus,JP Duminy,,0,0,0,,,,3592359
+2,South Africa,3,JP Duminy,SW Tait,VB van Jaarsveld,,0,0,0,,,,3592359
+2,South Africa,3,JP Duminy,SW Tait,VB van Jaarsveld,,0,0,0,,,,3592359
+2,South Africa,3,JP Duminy,SW Tait,VB van Jaarsveld,,0,4,4,,,,3592359
+2,South Africa,3,JP Duminy,SW Tait,VB van Jaarsveld,,0,4,4,,,,3592359
+2,South Africa,3,JP Duminy,SW Tait,VB van Jaarsveld,wides,1,1,0,,,,3592359
+2,South Africa,3,JP Duminy,SW Tait,VB van Jaarsveld,wides,1,1,0,,,,3592359
+2,South Africa,3,JP Duminy,SW Tait,VB van Jaarsveld,,0,4,4,,,,3592359
+2,South Africa,3,JP Duminy,SW Tait,VB van Jaarsveld,,0,0,0,,,,3592359
+2,South Africa,4,VB van Jaarsveld,BW Hilfenhaus,JP Duminy,,0,1,1,,,,3592359
+2,South Africa,4,JP Duminy,BW Hilfenhaus,VB van Jaarsveld,,0,4,4,,,,3592359
+2,South Africa,4,JP Duminy,BW Hilfenhaus,VB van Jaarsveld,,0,0,0,,,,3592359
+2,South Africa,4,JP Duminy,BW Hilfenhaus,VB van Jaarsveld,,0,4,4,,,,3592359
+2,South Africa,4,JP Duminy,BW Hilfenhaus,VB van Jaarsveld,,0,0,0,,,,3592359
+2,South Africa,4,JP Duminy,BW Hilfenhaus,VB van Jaarsveld,,0,0,0,,,,3592359
+2,South Africa,5,VB van Jaarsveld,NW Bracken,JP Duminy,,0,1,1,,,,3592359
+2,South Africa,5,JP Duminy,NW Bracken,VB van Jaarsveld,,0,1,1,,,,3592359
+2,South Africa,5,VB van Jaarsveld,NW Bracken,JP Duminy,,0,3,3,,,,3592359
+2,South Africa,5,JP Duminy,NW Bracken,VB van Jaarsveld,,0,2,2,,,,3592359
+2,South Africa,5,JP Duminy,NW Bracken,VB van Jaarsveld,,0,1,1,,,,3592359
+2,South Africa,5,VB van Jaarsveld,NW Bracken,JP Duminy,,0,1,1,,,,3592359
+2,South Africa,6,VB van Jaarsveld,JR Hopes,JP Duminy,,0,1,1,,,,3592359
+2,South Africa,6,JP Duminy,JR Hopes,VB van Jaarsveld,,0,1,1,,,,3592359
+2,South Africa,6,VB van Jaarsveld,JR Hopes,JP Duminy,,0,1,1,,,,3592359
+2,South Africa,6,JP Duminy,JR Hopes,VB van Jaarsveld,,0,1,1,,,,3592359
+2,South Africa,6,VB van Jaarsveld,JR Hopes,JP Duminy,,0,1,1,,,,3592359
+2,South Africa,6,JP Duminy,JR Hopes,VB van Jaarsveld,,0,4,4,,,,3592359
+2,South Africa,7,VB van Jaarsveld,DJ Hussey,JP Duminy,,0,0,0,,,,3592359
+2,South Africa,7,VB van Jaarsveld,DJ Hussey,JP Duminy,,0,1,1,,,,3592359
+2,South Africa,7,JP Duminy,DJ Hussey,VB van Jaarsveld,wides,2,2,0,,,,3592359
+2,South Africa,7,VB van Jaarsveld,DJ Hussey,JP Duminy,legbyes,1,1,0,,,,3592359
+2,South Africa,7,JP Duminy,DJ Hussey,VB van Jaarsveld,,0,1,1,,,,3592359
+2,South Africa,7,VB van Jaarsveld,DJ Hussey,JP Duminy,,0,1,1,,,,3592359
+2,South Africa,7,JP Duminy,DJ Hussey,VB van Jaarsveld,,0,3,3,,,,3592359
+2,South Africa,8,JP Duminy,JR Hopes,VB van Jaarsveld,,0,1,1,,,,3592359
+2,South Africa,8,VB van Jaarsveld,JR Hopes,JP Duminy,,0,0,0,,,,3592359
+2,South Africa,8,VB van Jaarsveld,JR Hopes,JP Duminy,,0,1,1,,,,3592359
+2,South Africa,8,JP Duminy,JR Hopes,VB van Jaarsveld,,0,1,1,,,,3592359
+2,South Africa,8,VB van Jaarsveld,JR Hopes,JP Duminy,,0,0,0,caught,VB van Jaarsveld,CL White,3592359
+2,South Africa,8,MV Boucher,JR Hopes,JP Duminy,,0,0,0,,,,3592359
+2,South Africa,9,JP Duminy,DJ Hussey,MV Boucher,,0,1,1,,,,3592359
+2,South Africa,9,MV Boucher,DJ Hussey,JP Duminy,,0,1,1,,,,3592359
+2,South Africa,9,JP Duminy,DJ Hussey,MV Boucher,,0,2,2,,,,3592359
+2,South Africa,9,JP Duminy,DJ Hussey,MV Boucher,,0,1,1,,,,3592359
+2,South Africa,9,MV Boucher,DJ Hussey,JP Duminy,,0,1,1,,,,3592359
+2,South Africa,9,JP Duminy,DJ Hussey,MV Boucher,,0,2,2,,,,3592359
+2,South Africa,10,MV Boucher,JR Hopes,JP Duminy,legbyes,1,1,0,,,,3592359
+2,South Africa,10,JP Duminy,JR Hopes,MV Boucher,,0,1,1,,,,3592359
+2,South Africa,10,MV Boucher,JR Hopes,JP Duminy,,0,1,1,,,,3592359
+2,South Africa,10,JP Duminy,JR Hopes,MV Boucher,,0,2,2,,,,3592359
+2,South Africa,10,JP Duminy,JR Hopes,MV Boucher,,0,1,1,,,,3592359
+2,South Africa,10,MV Boucher,JR Hopes,JP Duminy,,0,2,2,,,,3592359
+2,South Africa,11,JP Duminy,DJ Hussey,MV Boucher,,0,1,1,,,,3592359
+2,South Africa,11,MV Boucher,DJ Hussey,JP Duminy,,0,0,0,caught,MV Boucher,MEK Hussey,3592359
+2,South Africa,11,JP Duminy,DJ Hussey,JA Morkel,,0,1,1,,,,3592359
+2,South Africa,11,JA Morkel,DJ Hussey,JP Duminy,,0,1,1,,,,3592359
+2,South Africa,11,JP Duminy,DJ Hussey,JA Morkel,,0,1,1,,,,3592359
+2,South Africa,11,JA Morkel,DJ Hussey,JP Duminy,wides,1,1,0,,,,3592359
+2,South Africa,11,JA Morkel,DJ Hussey,JP Duminy,,0,0,0,,,,3592359
+2,South Africa,12,JP Duminy,JR Hopes,JA Morkel,,0,0,0,,,,3592359
+2,South Africa,12,JP Duminy,JR Hopes,JA Morkel,,0,1,1,,,,3592359
+2,South Africa,12,JA Morkel,JR Hopes,JP Duminy,wides,1,1,0,,,,3592359
+2,South Africa,12,JA Morkel,JR Hopes,JP Duminy,,0,1,1,,,,3592359
+2,South Africa,12,JP Duminy,JR Hopes,JA Morkel,,0,4,4,,,,3592359
+2,South Africa,12,JP Duminy,JR Hopes,JA Morkel,,0,4,4,,,,3592359
+2,South Africa,12,JP Duminy,JR Hopes,JA Morkel,,0,1,1,,,,3592359
+2,South Africa,13,JP Duminy,SW Tait,JA Morkel,,0,6,6,,,,3592359
+2,South Africa,13,JP Duminy,SW Tait,JA Morkel,,0,0,0,,,,3592359
+2,South Africa,13,JP Duminy,SW Tait,JA Morkel,,0,2,2,,,,3592359
+2,South Africa,13,JP Duminy,SW Tait,JA Morkel,,0,2,2,,,,3592359
+2,South Africa,13,JP Duminy,SW Tait,JA Morkel,,0,1,1,,,,3592359
+2,South Africa,13,JA Morkel,SW Tait,JP Duminy,,0,5,5,,,,3592359
+2,South Africa,14,JA Morkel,NW Bracken,JP Duminy,,0,4,4,,,,3592359
+2,South Africa,14,JA Morkel,NW Bracken,JP Duminy,,0,1,1,,,,3592359
+2,South Africa,14,JP Duminy,NW Bracken,JA Morkel,,0,1,1,,,,3592359
+2,South Africa,14,JA Morkel,NW Bracken,JP Duminy,,0,0,0,,,,3592359
+2,South Africa,14,JA Morkel,NW Bracken,JP Duminy,,0,0,0,caught,JA Morkel,CL White,3592359
+2,South Africa,14,JP Duminy,NW Bracken,J Botha,,0,2,2,,,,3592359
+2,South Africa,15,J Botha,DJ Hussey,JP Duminy,,0,1,1,,,,3592359
+2,South Africa,15,JP Duminy,DJ Hussey,J Botha,,0,0,0,lbw,JP Duminy,,3592359
+2,South Africa,15,DW Steyn,DJ Hussey,J Botha,,0,1,1,,,,3592359
+2,South Africa,15,J Botha,DJ Hussey,DW Steyn,,0,1,1,,,,3592359
+2,South Africa,15,DW Steyn,DJ Hussey,J Botha,,0,0,0,caught,DW Steyn,NW Bracken,3592359
+2,South Africa,15,J Botha,DJ Hussey,M Ntini,,0,1,1,,,,3592359
+2,South Africa,16,J Botha,BW Hilfenhaus,M Ntini,,0,1,1,,,,3592359
+2,South Africa,16,M Ntini,BW Hilfenhaus,J Botha,,0,0,0,bowled,M Ntini,,3592359
+2,South Africa,16,LL Tsotsobe,BW Hilfenhaus,J Botha,,0,0,0,,,,3592359
+2,South Africa,16,LL Tsotsobe,BW Hilfenhaus,J Botha,,0,0,0,,,,3592359
+2,South Africa,16,LL Tsotsobe,BW Hilfenhaus,J Botha,,0,0,0,,,,3592359
+2,South Africa,16,LL Tsotsobe,BW Hilfenhaus,J Botha,,0,0,0,,,,3592359
+2,South Africa,17,J Botha,SW Tait,LL Tsotsobe,,0,1,1,,,,3592359
+2,South Africa,17,LL Tsotsobe,SW Tait,J Botha,,0,0,0,,,,3592359
+2,South Africa,17,LL Tsotsobe,SW Tait,J Botha,,0,1,1,,,,3592359
+2,South Africa,17,J Botha,SW Tait,LL Tsotsobe,,0,0,0,,,,3592359
+2,South Africa,17,J Botha,SW Tait,LL Tsotsobe,legbyes,1,1,0,,,,3592359
+2,South Africa,17,LL Tsotsobe,SW Tait,J Botha,,0,0,0,bowled,LL Tsotsobe,,3592359

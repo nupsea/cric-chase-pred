@@ -1,0 +1,114 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Papua New Guinea,0,TP Ura,Sultan Ahmed,VV Morea,,0,0,0,,,,374123741
+1,Papua New Guinea,0,TP Ura,Sultan Ahmed,VV Morea,,0,1,1,,,,374123741
+1,Papua New Guinea,0,VV Morea,Sultan Ahmed,TP Ura,,0,0,0,,,,374123741
+1,Papua New Guinea,0,VV Morea,Sultan Ahmed,TP Ura,,0,0,0,,,,374123741
+1,Papua New Guinea,0,VV Morea,Sultan Ahmed,TP Ura,,0,0,0,caught,VV Morea,Ghulam Shabber,374123741
+1,Papua New Guinea,0,L Siaka,Sultan Ahmed,TP Ura,,0,0,0,,,,374123741
+1,Papua New Guinea,1,TP Ura,Amjad Javed,L Siaka,,0,0,0,,,,374123741
+1,Papua New Guinea,1,TP Ura,Amjad Javed,L Siaka,,0,0,0,,,,374123741
+1,Papua New Guinea,1,TP Ura,Amjad Javed,L Siaka,,0,4,4,,,,374123741
+1,Papua New Guinea,1,TP Ura,Amjad Javed,L Siaka,,0,1,1,,,,374123741
+1,Papua New Guinea,1,L Siaka,Amjad Javed,TP Ura,,0,0,0,,,,374123741
+1,Papua New Guinea,1,L Siaka,Amjad Javed,TP Ura,,0,0,0,,,,374123741
+1,Papua New Guinea,2,TP Ura,Sultan Ahmed,L Siaka,,0,0,0,,,,374123741
+1,Papua New Guinea,2,TP Ura,Sultan Ahmed,L Siaka,,0,0,0,,,,374123741
+1,Papua New Guinea,2,TP Ura,Sultan Ahmed,L Siaka,,0,0,0,,,,374123741
+1,Papua New Guinea,2,TP Ura,Sultan Ahmed,L Siaka,,0,0,0,,,,374123741
+1,Papua New Guinea,2,TP Ura,Sultan Ahmed,L Siaka,,0,0,0,,,,374123741
+1,Papua New Guinea,2,TP Ura,Sultan Ahmed,L Siaka,,0,0,0,,,,374123741
+1,Papua New Guinea,3,L Siaka,Amjad Javed,TP Ura,,0,0,0,,,,374123741
+1,Papua New Guinea,3,L Siaka,Amjad Javed,TP Ura,,0,0,0,caught,L Siaka,Mohammad Naveed,374123741
+1,Papua New Guinea,3,TP Ura,Amjad Javed,A Vala,,0,1,1,,,,374123741
+1,Papua New Guinea,3,A Vala,Amjad Javed,TP Ura,,0,0,0,,,,374123741
+1,Papua New Guinea,3,A Vala,Amjad Javed,TP Ura,,0,1,1,,,,374123741
+1,Papua New Guinea,3,TP Ura,Amjad Javed,A Vala,,0,0,0,caught,TP Ura,Mohammed Qasim,374123741
+1,Papua New Guinea,4,A Vala,Sultan Ahmed,S Bau,,0,1,1,,,,374123741
+1,Papua New Guinea,4,S Bau,Sultan Ahmed,A Vala,,0,0,0,,,,374123741
+1,Papua New Guinea,4,S Bau,Sultan Ahmed,A Vala,,0,0,0,,,,374123741
+1,Papua New Guinea,4,S Bau,Sultan Ahmed,A Vala,,0,1,1,,,,374123741
+1,Papua New Guinea,4,A Vala,Sultan Ahmed,S Bau,,0,0,0,,,,374123741
+1,Papua New Guinea,4,A Vala,Sultan Ahmed,S Bau,,0,0,0,,,,374123741
+1,Papua New Guinea,5,S Bau,Amjad Javed,A Vala,,0,1,1,,,,374123741
+1,Papua New Guinea,5,A Vala,Amjad Javed,S Bau,,0,0,0,,,,374123741
+1,Papua New Guinea,5,A Vala,Amjad Javed,S Bau,legbyes,1,1,0,,,,374123741
+1,Papua New Guinea,5,S Bau,Amjad Javed,A Vala,,0,0,0,,,,374123741
+1,Papua New Guinea,5,S Bau,Amjad Javed,A Vala,,0,1,1,,,,374123741
+1,Papua New Guinea,5,A Vala,Amjad Javed,S Bau,,0,1,1,,,,374123741
+1,Papua New Guinea,6,A Vala,Sultan Ahmed,S Bau,,0,1,1,,,,374123741
+1,Papua New Guinea,6,S Bau,Sultan Ahmed,A Vala,,0,1,1,,,,374123741
+1,Papua New Guinea,6,A Vala,Sultan Ahmed,S Bau,,0,4,4,,,,374123741
+1,Papua New Guinea,6,A Vala,Sultan Ahmed,S Bau,,0,1,1,,,,374123741
+1,Papua New Guinea,6,S Bau,Sultan Ahmed,A Vala,,0,0,0,,,,374123741
+1,Papua New Guinea,6,S Bau,Sultan Ahmed,A Vala,,0,2,2,,,,374123741
+1,Papua New Guinea,7,A Vala,Amjad Javed,S Bau,,0,0,0,bowled,A Vala,,374123741
+1,Papua New Guinea,7,MD Dai,Amjad Javed,S Bau,wides,1,1,0,,,,374123741
+1,Papua New Guinea,7,MD Dai,Amjad Javed,S Bau,,0,1,1,,,,374123741
+1,Papua New Guinea,7,S Bau,Amjad Javed,MD Dai,,0,0,0,,,,374123741
+1,Papua New Guinea,7,S Bau,Amjad Javed,MD Dai,,0,0,0,,,,374123741
+1,Papua New Guinea,7,S Bau,Amjad Javed,MD Dai,,0,0,0,,,,374123741
+1,Papua New Guinea,7,S Bau,Amjad Javed,MD Dai,legbyes,2,2,0,,,,374123741
+1,Papua New Guinea,8,MD Dai,Ahmed Raza,S Bau,,0,0,0,,,,374123741
+1,Papua New Guinea,8,MD Dai,Ahmed Raza,S Bau,,0,1,1,,,,374123741
+1,Papua New Guinea,8,S Bau,Ahmed Raza,MD Dai,,0,1,1,,,,374123741
+1,Papua New Guinea,8,MD Dai,Ahmed Raza,S Bau,,0,0,0,,,,374123741
+1,Papua New Guinea,8,MD Dai,Ahmed Raza,S Bau,,0,0,0,,,,374123741
+1,Papua New Guinea,8,MD Dai,Ahmed Raza,S Bau,,0,1,1,,,,374123741
+1,Papua New Guinea,9,MD Dai,Mohammad Naveed,S Bau,,0,2,2,,,,374123741
+1,Papua New Guinea,9,MD Dai,Mohammad Naveed,S Bau,,0,4,4,,,,374123741
+1,Papua New Guinea,9,MD Dai,Mohammad Naveed,S Bau,,0,2,2,,,,374123741
+1,Papua New Guinea,9,MD Dai,Mohammad Naveed,S Bau,,0,2,2,,,,374123741
+1,Papua New Guinea,9,MD Dai,Mohammad Naveed,S Bau,,0,1,1,,,,374123741
+1,Papua New Guinea,9,S Bau,Mohammad Naveed,MD Dai,,0,0,0,,,,374123741
+1,Papua New Guinea,10,MD Dai,Ahmed Raza,S Bau,,0,1,1,,,,374123741
+1,Papua New Guinea,10,S Bau,Ahmed Raza,MD Dai,,0,4,4,,,,374123741
+1,Papua New Guinea,10,S Bau,Ahmed Raza,MD Dai,,0,1,1,,,,374123741
+1,Papua New Guinea,10,MD Dai,Ahmed Raza,S Bau,,0,1,1,,,,374123741
+1,Papua New Guinea,10,S Bau,Ahmed Raza,MD Dai,,0,0,0,,,,374123741
+1,Papua New Guinea,10,S Bau,Ahmed Raza,MD Dai,,0,1,1,,,,374123741
+1,Papua New Guinea,11,S Bau,Imran Haider,MD Dai,,0,6,6,,,,374123741
+1,Papua New Guinea,11,S Bau,Imran Haider,MD Dai,wides,1,1,0,,,,374123741
+1,Papua New Guinea,11,S Bau,Imran Haider,MD Dai,,0,1,1,,,,374123741
+1,Papua New Guinea,11,MD Dai,Imran Haider,S Bau,,0,1,1,,,,374123741
+1,Papua New Guinea,11,S Bau,Imran Haider,MD Dai,,0,2,2,,,,374123741
+1,Papua New Guinea,11,S Bau,Imran Haider,MD Dai,,0,0,0,caught,S Bau,Muhammad Usman,374123741
+1,Papua New Guinea,11,JNT Vare,Imran Haider,MD Dai,wides,1,1,0,,,,374123741
+1,Papua New Guinea,11,JNT Vare,Imran Haider,MD Dai,,0,0,0,,,,374123741
+1,Papua New Guinea,12,MD Dai,Ahmed Raza,JNT Vare,,0,0,0,,,,374123741
+1,Papua New Guinea,12,MD Dai,Ahmed Raza,JNT Vare,,0,1,1,,,,374123741
+1,Papua New Guinea,12,JNT Vare,Ahmed Raza,MD Dai,,0,1,1,,,,374123741
+1,Papua New Guinea,12,MD Dai,Ahmed Raza,JNT Vare,,0,1,1,,,,374123741
+1,Papua New Guinea,12,JNT Vare,Ahmed Raza,MD Dai,,0,1,1,,,,374123741
+1,Papua New Guinea,12,MD Dai,Ahmed Raza,JNT Vare,,0,1,1,,,,374123741
+1,Papua New Guinea,13,MD Dai,Imran Haider,JNT Vare,,0,0,0,,,,374123741
+1,Papua New Guinea,13,MD Dai,Imran Haider,JNT Vare,,0,1,1,,,,374123741
+1,Papua New Guinea,13,JNT Vare,Imran Haider,MD Dai,,0,1,1,,,,374123741
+1,Papua New Guinea,13,MD Dai,Imran Haider,JNT Vare,,0,4,4,,,,374123741
+1,Papua New Guinea,13,MD Dai,Imran Haider,JNT Vare,,0,1,1,,,,374123741
+1,Papua New Guinea,13,JNT Vare,Imran Haider,MD Dai,,0,0,0,,,,374123741
+1,Papua New Guinea,14,MD Dai,Ahmed Raza,JNT Vare,,0,2,2,,,,374123741
+1,Papua New Guinea,14,MD Dai,Ahmed Raza,JNT Vare,,0,1,1,,,,374123741
+1,Papua New Guinea,14,JNT Vare,Ahmed Raza,MD Dai,,0,1,1,,,,374123741
+1,Papua New Guinea,14,MD Dai,Ahmed Raza,JNT Vare,,0,1,1,,,,374123741
+1,Papua New Guinea,14,JNT Vare,Ahmed Raza,MD Dai,,0,1,1,,,,374123741
+1,Papua New Guinea,14,MD Dai,Ahmed Raza,JNT Vare,,0,1,1,,,,374123741
+1,Papua New Guinea,15,MD Dai,Mohammad Naveed,JNT Vare,,0,0,0,lbw,MD Dai,,374123741
+1,Papua New Guinea,15,JB Reva,Mohammad Naveed,JNT Vare,,0,4,4,,,,374123741
+1,Papua New Guinea,15,JB Reva,Mohammad Naveed,JNT Vare,,0,1,1,,,,374123741
+1,Papua New Guinea,15,JNT Vare,Mohammad Naveed,JB Reva,,0,0,0,run out,JNT Vare,Mohammad Naveed,374123741
+1,Papua New Guinea,15,N Vanua,Mohammad Naveed,JB Reva,,0,4,4,,,,374123741
+1,Papua New Guinea,15,N Vanua,Mohammad Naveed,JB Reva,,0,1,1,,,,374123741
+1,Papua New Guinea,16,N Vanua,Rohan Mustafa,JB Reva,,0,2,2,,,,374123741
+1,Papua New Guinea,16,N Vanua,Rohan Mustafa,JB Reva,,0,0,0,,,,374123741
+1,Papua New Guinea,16,N Vanua,Rohan Mustafa,JB Reva,,0,2,2,,,,374123741
+1,Papua New Guinea,16,N Vanua,Rohan Mustafa,JB Reva,,0,1,1,,,,374123741
+1,Papua New Guinea,16,JB Reva,Rohan Mustafa,N Vanua,,0,1,1,,,,374123741
+1,Papua New Guinea,16,N Vanua,Rohan Mustafa,JB Reva,,0,1,1,,,,374123741
+1,Papua New Guinea,17,N Vanua,Mohammad Naveed,JB Reva,,0,1,1,,,,374123741
+1,Papua New Guinea,17,JB Reva,Mohammad Naveed,N Vanua,,0,0,0,,,,374123741
+1,Papua New Guinea,17,JB Reva,Mohammad Naveed,N Vanua,,0,0,0,,,,374123741
+1,Papua New Guinea,17,JB Reva,Mohammad Naveed,N Vanua,,0,0,0,caught,JB Reva,Amjad Javed,374123741
+1,Papua New Guinea,17,N Vanua,Mohammad Naveed,A Nao,,0,2,2,,,,374123741
+1,Papua New Guinea,17,N Vanua,Mohammad Naveed,A Nao,,0,0,0,caught,N Vanua,Ahmed Raza,374123741
+1,Papua New Guinea,18,WT Gavera,Rohan Mustafa,A Nao,,0,2,2,,,,374123741
+1,Papua New Guinea,18,WT Gavera,Rohan Mustafa,A Nao,,0,0,0,bowled,WT Gavera,,374123741

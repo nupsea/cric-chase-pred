@@ -1,0 +1,83 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Bangladesh,0,Munim Shahriar,AJ Hosein,Anamul Haque,,0,0,0,,,,32043232043
+1,Bangladesh,0,Munim Shahriar,AJ Hosein,Anamul Haque,,0,2,2,,,,32043232043
+1,Bangladesh,0,Munim Shahriar,AJ Hosein,Anamul Haque,,0,0,0,caught,Munim Shahriar,DC Thomas,32043232043
+1,Bangladesh,0,Shakib Al Hasan,AJ Hosein,Anamul Haque,,0,0,0,,,,32043232043
+1,Bangladesh,0,Shakib Al Hasan,AJ Hosein,Anamul Haque,,0,1,1,,,,32043232043
+1,Bangladesh,0,Anamul Haque,AJ Hosein,Shakib Al Hasan,,0,4,4,,,,32043232043
+1,Bangladesh,1,Shakib Al Hasan,R Shepherd,Anamul Haque,,0,1,1,,,,32043232043
+1,Bangladesh,1,Anamul Haque,R Shepherd,Shakib Al Hasan,,0,4,4,,,,32043232043
+1,Bangladesh,1,Anamul Haque,R Shepherd,Shakib Al Hasan,,0,1,1,,,,32043232043
+1,Bangladesh,1,Shakib Al Hasan,R Shepherd,Anamul Haque,,0,4,4,,,,32043232043
+1,Bangladesh,1,Shakib Al Hasan,R Shepherd,Anamul Haque,,0,1,1,,,,32043232043
+1,Bangladesh,1,Anamul Haque,R Shepherd,Shakib Al Hasan,,0,1,1,,,,32043232043
+1,Bangladesh,2,Anamul Haque,AJ Hosein,Shakib Al Hasan,,0,0,0,,,,32043232043
+1,Bangladesh,2,Anamul Haque,AJ Hosein,Shakib Al Hasan,,0,1,1,,,,32043232043
+1,Bangladesh,2,Shakib Al Hasan,AJ Hosein,Anamul Haque,,0,1,1,,,,32043232043
+1,Bangladesh,2,Anamul Haque,AJ Hosein,Shakib Al Hasan,,0,1,1,,,,32043232043
+1,Bangladesh,2,Shakib Al Hasan,AJ Hosein,Anamul Haque,,0,6,6,,,,32043232043
+1,Bangladesh,2,Shakib Al Hasan,AJ Hosein,Anamul Haque,,0,4,4,,,,32043232043
+1,Bangladesh,3,Anamul Haque,OC McCoy,Shakib Al Hasan,,0,4,4,,,,32043232043
+1,Bangladesh,3,Anamul Haque,OC McCoy,Shakib Al Hasan,,0,0,0,,,,32043232043
+1,Bangladesh,3,Anamul Haque,OC McCoy,Shakib Al Hasan,,0,0,0,lbw,Anamul Haque,,32043232043
+1,Bangladesh,3,Liton Das,OC McCoy,Shakib Al Hasan,,0,0,0,,,,32043232043
+1,Bangladesh,3,Liton Das,OC McCoy,Shakib Al Hasan,,0,4,4,,,,32043232043
+1,Bangladesh,3,Liton Das,OC McCoy,Shakib Al Hasan,,0,0,0,,,,32043232043
+1,Bangladesh,4,Shakib Al Hasan,OF Smith,Liton Das,,0,1,1,,,,32043232043
+1,Bangladesh,4,Liton Das,OF Smith,Shakib Al Hasan,,0,0,0,,,,32043232043
+1,Bangladesh,4,Liton Das,OF Smith,Shakib Al Hasan,noballs,1,1,0,,,,32043232043
+1,Bangladesh,4,Liton Das,OF Smith,Shakib Al Hasan,,0,4,4,,,,32043232043
+1,Bangladesh,4,Liton Das,OF Smith,Shakib Al Hasan,,0,0,0,,,,32043232043
+1,Bangladesh,4,Liton Das,OF Smith,Shakib Al Hasan,,0,0,0,,,,32043232043
+1,Bangladesh,4,Liton Das,OF Smith,Shakib Al Hasan,,0,0,0,,,,32043232043
+1,Bangladesh,5,Shakib Al Hasan,HR Walsh,Liton Das,,0,6,6,,,,32043232043
+1,Bangladesh,5,Shakib Al Hasan,HR Walsh,Liton Das,,0,1,1,,,,32043232043
+1,Bangladesh,5,Liton Das,HR Walsh,Shakib Al Hasan,,0,0,0,,,,32043232043
+1,Bangladesh,5,Liton Das,HR Walsh,Shakib Al Hasan,,0,0,0,,,,32043232043
+1,Bangladesh,5,Liton Das,HR Walsh,Shakib Al Hasan,,0,1,1,,,,32043232043
+1,Bangladesh,5,Shakib Al Hasan,HR Walsh,Liton Das,,0,2,2,,,,32043232043
+1,Bangladesh,6,Liton Das,R Shepherd,Shakib Al Hasan,,0,0,0,,,,32043232043
+1,Bangladesh,6,Liton Das,R Shepherd,Shakib Al Hasan,,0,0,0,caught,Liton Das,N Pooran,32043232043
+1,Bangladesh,6,Mahmudullah,R Shepherd,Shakib Al Hasan,,0,0,0,,,,32043232043
+1,Bangladesh,6,Mahmudullah,R Shepherd,Shakib Al Hasan,,0,1,1,,,,32043232043
+1,Bangladesh,6,Shakib Al Hasan,R Shepherd,Mahmudullah,,0,1,1,,,,32043232043
+1,Bangladesh,6,Mahmudullah,R Shepherd,Shakib Al Hasan,,0,1,1,,,,32043232043
+1,Bangladesh,7,Mahmudullah,HR Walsh,Shakib Al Hasan,,0,1,1,,,,32043232043
+1,Bangladesh,7,Shakib Al Hasan,HR Walsh,Mahmudullah,,0,0,0,,,,32043232043
+1,Bangladesh,7,Shakib Al Hasan,HR Walsh,Mahmudullah,,0,0,0,caught,Shakib Al Hasan,DC Thomas,32043232043
+1,Bangladesh,7,Afif Hossain,HR Walsh,Mahmudullah,,0,0,0,,,,32043232043
+1,Bangladesh,7,Afif Hossain,HR Walsh,Mahmudullah,,0,0,0,caught,Afif Hossain,BA King,32043232043
+1,Bangladesh,7,Mahmudullah,HR Walsh,Nurul Hasan,,0,1,1,,,,32043232043
+1,Bangladesh,8,Mahmudullah,AJ Hosein,Nurul Hasan,,0,0,0,,,,32043232043
+1,Bangladesh,8,Mahmudullah,AJ Hosein,Nurul Hasan,,0,0,0,,,,32043232043
+1,Bangladesh,8,Mahmudullah,AJ Hosein,Nurul Hasan,,0,0,0,,,,32043232043
+1,Bangladesh,8,Mahmudullah,AJ Hosein,Nurul Hasan,,0,1,1,,,,32043232043
+1,Bangladesh,8,Nurul Hasan,AJ Hosein,Mahmudullah,,0,0,0,,,,32043232043
+1,Bangladesh,8,Nurul Hasan,AJ Hosein,Mahmudullah,,0,1,1,,,,32043232043
+1,Bangladesh,9,Nurul Hasan,HR Walsh,Mahmudullah,,0,1,1,,,,32043232043
+1,Bangladesh,9,Mahmudullah,HR Walsh,Nurul Hasan,,0,2,2,,,,32043232043
+1,Bangladesh,9,Mahmudullah,HR Walsh,Nurul Hasan,wides,1,1,0,,,,32043232043
+1,Bangladesh,9,Mahmudullah,HR Walsh,Nurul Hasan,,0,0,0,,,,32043232043
+1,Bangladesh,9,Mahmudullah,HR Walsh,Nurul Hasan,,0,1,1,,,,32043232043
+1,Bangladesh,9,Nurul Hasan,HR Walsh,Mahmudullah,wides,5,5,0,,,,32043232043
+1,Bangladesh,9,Nurul Hasan,HR Walsh,Mahmudullah,,0,0,0,,,,32043232043
+1,Bangladesh,9,Nurul Hasan,HR Walsh,Mahmudullah,,0,2,2,,,,32043232043
+1,Bangladesh,10,Mahmudullah,R Shepherd,Nurul Hasan,,0,0,0,caught,Mahmudullah,HR Walsh,32043232043
+1,Bangladesh,10,Mahedi Hasan,R Shepherd,Nurul Hasan,,0,1,1,,,,32043232043
+1,Bangladesh,10,Nurul Hasan,R Shepherd,Mahedi Hasan,,0,1,1,,,,32043232043
+1,Bangladesh,10,Mahedi Hasan,R Shepherd,Nurul Hasan,,0,0,0,,,,32043232043
+1,Bangladesh,10,Mahedi Hasan,R Shepherd,Nurul Hasan,,0,0,0,caught,Mahedi Hasan,DC Thomas,32043232043
+1,Bangladesh,10,Nasum Ahmed,R Shepherd,Nurul Hasan,,0,4,4,,,,32043232043
+1,Bangladesh,11,Nurul Hasan,OC McCoy,Nasum Ahmed,,0,0,0,,,,32043232043
+1,Bangladesh,11,Nurul Hasan,OC McCoy,Nasum Ahmed,,0,1,1,,,,32043232043
+1,Bangladesh,11,Nasum Ahmed,OC McCoy,Nurul Hasan,,0,0,0,,,,32043232043
+1,Bangladesh,11,Nasum Ahmed,OC McCoy,Nurul Hasan,,0,1,1,,,,32043232043
+1,Bangladesh,11,Nurul Hasan,OC McCoy,Nasum Ahmed,noballs,1,5,4,,,,32043232043
+1,Bangladesh,11,Nurul Hasan,OC McCoy,Nasum Ahmed,,0,0,0,,,,32043232043
+1,Bangladesh,11,Nurul Hasan,OC McCoy,Nasum Ahmed,,0,1,1,,,,32043232043
+1,Bangladesh,12,Nurul Hasan,OF Smith,Nasum Ahmed,,0,0,0,,,,32043232043
+1,Bangladesh,12,Nurul Hasan,OF Smith,Nasum Ahmed,,0,6,6,,,,32043232043
+1,Bangladesh,12,Nurul Hasan,OF Smith,Nasum Ahmed,,0,2,2,,,,32043232043
+1,Bangladesh,12,Nurul Hasan,OF Smith,Nasum Ahmed,,0,6,6,,,,32043232043
+1,Bangladesh,12,Nurul Hasan,OF Smith,Nasum Ahmed,,0,0,0,caught,Nurul Hasan,BA King,32043232043
+1,Bangladesh,12,Nasum Ahmed,OF Smith,Shoriful Islam,,0,2,2,,,,32043232043

@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Pakistan,0,Babar Azam,AY Patel,Sahibzada Farhan,,0,4,4,,,,394223942
+1,Pakistan,0,Babar Azam,AY Patel,Sahibzada Farhan,,0,0,0,,,,394223942
+1,Pakistan,0,Babar Azam,AY Patel,Sahibzada Farhan,,0,0,0,,,,394223942
+1,Pakistan,0,Babar Azam,AY Patel,Sahibzada Farhan,,0,1,1,,,,394223942
+1,Pakistan,0,Sahibzada Farhan,AY Patel,Babar Azam,,0,0,0,,,,394223942
+1,Pakistan,0,Sahibzada Farhan,AY Patel,Babar Azam,,0,0,0,,,,394223942
+1,Pakistan,1,Babar Azam,TG Southee,Sahibzada Farhan,,0,0,0,,,,394223942
+1,Pakistan,1,Babar Azam,TG Southee,Sahibzada Farhan,,0,2,2,,,,394223942
+1,Pakistan,1,Babar Azam,TG Southee,Sahibzada Farhan,legbyes,1,1,0,,,,394223942
+1,Pakistan,1,Sahibzada Farhan,TG Southee,Babar Azam,,0,0,0,,,,394223942
+1,Pakistan,1,Sahibzada Farhan,TG Southee,Babar Azam,,0,0,0,,,,394223942
+1,Pakistan,1,Sahibzada Farhan,TG Southee,Babar Azam,,0,0,0,,,,394223942
+1,Pakistan,2,Babar Azam,AF Milne,Sahibzada Farhan,,0,0,0,,,,394223942
+1,Pakistan,2,Babar Azam,AF Milne,Sahibzada Farhan,,0,0,0,caught,Babar Azam,TL Seifert,394223942
+1,Pakistan,2,Asif Ali,AF Milne,Sahibzada Farhan,,0,0,0,,,,394223942
+1,Pakistan,2,Asif Ali,AF Milne,Sahibzada Farhan,,0,1,1,,,,394223942
+1,Pakistan,2,Sahibzada Farhan,AF Milne,Asif Ali,,0,0,0,,,,394223942
+1,Pakistan,2,Sahibzada Farhan,AF Milne,Asif Ali,,0,1,1,,,,394223942
+1,Pakistan,3,Sahibzada Farhan,AY Patel,Asif Ali,,0,0,0,caught,Sahibzada Farhan,C Munro,394223942
+1,Pakistan,3,Mohammad Hafeez,AY Patel,Asif Ali,,0,0,0,,,,394223942
+1,Pakistan,3,Mohammad Hafeez,AY Patel,Asif Ali,,0,0,0,,,,394223942
+1,Pakistan,3,Mohammad Hafeez,AY Patel,Asif Ali,,0,0,0,,,,394223942
+1,Pakistan,3,Mohammad Hafeez,AY Patel,Asif Ali,,0,4,4,,,,394223942
+1,Pakistan,3,Mohammad Hafeez,AY Patel,Asif Ali,,0,0,0,,,,394223942
+1,Pakistan,4,Asif Ali,AF Milne,Mohammad Hafeez,,0,4,4,,,,394223942
+1,Pakistan,4,Asif Ali,AF Milne,Mohammad Hafeez,,0,1,1,,,,394223942
+1,Pakistan,4,Mohammad Hafeez,AF Milne,Asif Ali,,0,0,0,,,,394223942
+1,Pakistan,4,Mohammad Hafeez,AF Milne,Asif Ali,,0,4,4,,,,394223942
+1,Pakistan,4,Mohammad Hafeez,AF Milne,Asif Ali,,0,0,0,,,,394223942
+1,Pakistan,4,Mohammad Hafeez,AF Milne,Asif Ali,,0,1,1,,,,394223942
+1,Pakistan,5,Mohammad Hafeez,TG Southee,Asif Ali,,0,0,0,,,,394223942
+1,Pakistan,5,Mohammad Hafeez,TG Southee,Asif Ali,,0,0,0,,,,394223942
+1,Pakistan,5,Mohammad Hafeez,TG Southee,Asif Ali,,0,0,0,,,,394223942
+1,Pakistan,5,Mohammad Hafeez,TG Southee,Asif Ali,,0,6,6,,,,394223942
+1,Pakistan,5,Mohammad Hafeez,TG Southee,Asif Ali,,0,1,1,,,,394223942
+1,Pakistan,5,Asif Ali,TG Southee,Mohammad Hafeez,,0,0,0,,,,394223942
+1,Pakistan,6,Mohammad Hafeez,C de Grandhomme,Asif Ali,,0,0,0,,,,394223942
+1,Pakistan,6,Mohammad Hafeez,C de Grandhomme,Asif Ali,,0,0,0,,,,394223942
+1,Pakistan,6,Mohammad Hafeez,C de Grandhomme,Asif Ali,,0,2,2,,,,394223942
+1,Pakistan,6,Mohammad Hafeez,C de Grandhomme,Asif Ali,,0,4,4,,,,394223942
+1,Pakistan,6,Mohammad Hafeez,C de Grandhomme,Asif Ali,,0,1,1,,,,394223942
+1,Pakistan,6,Asif Ali,C de Grandhomme,Mohammad Hafeez,,0,1,1,,,,394223942
+1,Pakistan,7,Asif Ali,IS Sodhi,Mohammad Hafeez,,0,1,1,,,,394223942
+1,Pakistan,7,Mohammad Hafeez,IS Sodhi,Asif Ali,,0,0,0,,,,394223942
+1,Pakistan,7,Mohammad Hafeez,IS Sodhi,Asif Ali,,0,0,0,,,,394223942
+1,Pakistan,7,Mohammad Hafeez,IS Sodhi,Asif Ali,,0,1,1,,,,394223942
+1,Pakistan,7,Asif Ali,IS Sodhi,Mohammad Hafeez,,0,1,1,,,,394223942
+1,Pakistan,7,Mohammad Hafeez,IS Sodhi,Asif Ali,,0,1,1,,,,394223942
+1,Pakistan,8,Mohammad Hafeez,C Munro,Asif Ali,,0,0,0,,,,394223942
+1,Pakistan,8,Mohammad Hafeez,C Munro,Asif Ali,,0,4,4,,,,394223942
+1,Pakistan,8,Mohammad Hafeez,C Munro,Asif Ali,,0,1,1,,,,394223942
+1,Pakistan,8,Asif Ali,C Munro,Mohammad Hafeez,,0,1,1,,,,394223942
+1,Pakistan,8,Mohammad Hafeez,C Munro,Asif Ali,,0,1,1,,,,394223942
+1,Pakistan,8,Asif Ali,C Munro,Mohammad Hafeez,,0,6,6,,,,394223942
+1,Pakistan,9,Mohammad Hafeez,IS Sodhi,Asif Ali,,0,1,1,,,,394223942
+1,Pakistan,9,Asif Ali,IS Sodhi,Mohammad Hafeez,,0,1,1,,,,394223942
+1,Pakistan,9,Mohammad Hafeez,IS Sodhi,Asif Ali,,0,1,1,,,,394223942
+1,Pakistan,9,Asif Ali,IS Sodhi,Mohammad Hafeez,wides,1,1,0,,,,394223942
+1,Pakistan,9,Asif Ali,IS Sodhi,Mohammad Hafeez,,0,0,0,,,,394223942
+1,Pakistan,9,Asif Ali,IS Sodhi,Mohammad Hafeez,,0,1,1,,,,394223942
+1,Pakistan,9,Mohammad Hafeez,IS Sodhi,Asif Ali,,0,0,0,,,,394223942
+1,Pakistan,10,Asif Ali,AY Patel,Mohammad Hafeez,,0,1,1,,,,394223942
+1,Pakistan,10,Mohammad Hafeez,AY Patel,Asif Ali,,0,1,1,,,,394223942
+1,Pakistan,10,Asif Ali,AY Patel,Mohammad Hafeez,,0,1,1,,,,394223942
+1,Pakistan,10,Mohammad Hafeez,AY Patel,Asif Ali,,0,6,6,,,,394223942
+1,Pakistan,10,Mohammad Hafeez,AY Patel,Asif Ali,,0,1,1,,,,394223942
+1,Pakistan,10,Asif Ali,AY Patel,Mohammad Hafeez,,0,1,1,,,,394223942
+1,Pakistan,11,Asif Ali,AF Milne,Mohammad Hafeez,,0,1,1,,,,394223942
+1,Pakistan,11,Mohammad Hafeez,AF Milne,Asif Ali,,0,4,4,,,,394223942
+1,Pakistan,11,Mohammad Hafeez,AF Milne,Asif Ali,,0,0,0,,,,394223942
+1,Pakistan,11,Mohammad Hafeez,AF Milne,Asif Ali,,0,0,0,caught,Mohammad Hafeez,TG Southee,394223942
+1,Pakistan,11,Sarfraz Ahmed,AF Milne,Asif Ali,,0,1,1,,,,394223942
+1,Pakistan,11,Asif Ali,AF Milne,Sarfraz Ahmed,,0,0,0,,,,394223942
+1,Pakistan,12,Sarfraz Ahmed,C de Grandhomme,Asif Ali,,0,0,0,,,,394223942
+1,Pakistan,12,Sarfraz Ahmed,C de Grandhomme,Asif Ali,,0,1,1,,,,394223942
+1,Pakistan,12,Asif Ali,C de Grandhomme,Sarfraz Ahmed,,0,1,1,,,,394223942
+1,Pakistan,12,Sarfraz Ahmed,C de Grandhomme,Asif Ali,,0,0,0,,,,394223942
+1,Pakistan,12,Sarfraz Ahmed,C de Grandhomme,Asif Ali,,0,4,4,,,,394223942
+1,Pakistan,12,Sarfraz Ahmed,C de Grandhomme,Asif Ali,,0,1,1,,,,394223942
+1,Pakistan,13,Sarfraz Ahmed,AY Patel,Asif Ali,,0,4,4,,,,394223942
+1,Pakistan,13,Sarfraz Ahmed,AY Patel,Asif Ali,,0,1,1,,,,394223942
+1,Pakistan,13,Asif Ali,AY Patel,Sarfraz Ahmed,,0,1,1,,,,394223942
+1,Pakistan,13,Sarfraz Ahmed,AY Patel,Asif Ali,,0,0,0,,,,394223942
+1,Pakistan,13,Sarfraz Ahmed,AY Patel,Asif Ali,,0,0,0,,,,394223942
+1,Pakistan,13,Sarfraz Ahmed,AY Patel,Asif Ali,,0,1,1,,,,394223942
+1,Pakistan,14,Sarfraz Ahmed,C de Grandhomme,Asif Ali,,0,1,1,,,,394223942
+1,Pakistan,14,Asif Ali,C de Grandhomme,Sarfraz Ahmed,,0,0,0,caught,Asif Ali,GD Phillips,394223942
+1,Pakistan,14,Sarfraz Ahmed,C de Grandhomme,Shoaib Malik,wides,1,1,0,,,,394223942
+1,Pakistan,14,Sarfraz Ahmed,C de Grandhomme,Shoaib Malik,,0,1,1,,,,394223942
+1,Pakistan,14,Shoaib Malik,C de Grandhomme,Sarfraz Ahmed,,0,4,4,,,,394223942
+1,Pakistan,14,Shoaib Malik,C de Grandhomme,Sarfraz Ahmed,,0,1,1,,,,394223942
+1,Pakistan,14,Sarfraz Ahmed,C de Grandhomme,Shoaib Malik,,0,1,1,,,,394223942
+1,Pakistan,15,Sarfraz Ahmed,IS Sodhi,Shoaib Malik,,0,0,0,,,,394223942
+1,Pakistan,15,Sarfraz Ahmed,IS Sodhi,Shoaib Malik,,0,2,2,,,,394223942
+1,Pakistan,15,Sarfraz Ahmed,IS Sodhi,Shoaib Malik,,0,0,0,,,,394223942
+1,Pakistan,15,Sarfraz Ahmed,IS Sodhi,Shoaib Malik,,0,1,1,,,,394223942
+1,Pakistan,15,Shoaib Malik,IS Sodhi,Sarfraz Ahmed,,0,1,1,,,,394223942
+1,Pakistan,15,Sarfraz Ahmed,IS Sodhi,Shoaib Malik,,0,1,1,,,,394223942
+1,Pakistan,16,Sarfraz Ahmed,TG Southee,Shoaib Malik,,0,0,0,,,,394223942
+1,Pakistan,16,Sarfraz Ahmed,TG Southee,Shoaib Malik,,0,4,4,,,,394223942
+1,Pakistan,16,Sarfraz Ahmed,TG Southee,Shoaib Malik,,0,2,2,,,,394223942
+1,Pakistan,16,Sarfraz Ahmed,TG Southee,Shoaib Malik,,0,1,1,,,,394223942
+1,Pakistan,16,Shoaib Malik,TG Southee,Sarfraz Ahmed,,0,0,0,,,,394223942
+1,Pakistan,16,Shoaib Malik,TG Southee,Sarfraz Ahmed,,0,0,0,,,,394223942
+1,Pakistan,17,Sarfraz Ahmed,IS Sodhi,Shoaib Malik,,0,1,1,,,,394223942
+1,Pakistan,17,Shoaib Malik,IS Sodhi,Sarfraz Ahmed,,0,1,1,,,,394223942
+1,Pakistan,17,Sarfraz Ahmed,IS Sodhi,Shoaib Malik,,0,6,6,,,,394223942
+1,Pakistan,17,Sarfraz Ahmed,IS Sodhi,Shoaib Malik,,0,0,0,caught,Sarfraz Ahmed,CJ Anderson,394223942
+1,Pakistan,17,Shoaib Malik,IS Sodhi,Faheem Ashraf,,0,1,1,,,,394223942
+1,Pakistan,17,Faheem Ashraf,IS Sodhi,Shoaib Malik,,0,1,1,run out,Shoaib Malik,,394223942
+1,Pakistan,18,Faheem Ashraf,AF Milne,Imad Wasim,legbyes,1,1,0,,,,394223942
+1,Pakistan,18,Imad Wasim,AF Milne,Faheem Ashraf,,0,1,1,,,,394223942
+1,Pakistan,18,Faheem Ashraf,AF Milne,Imad Wasim,,0,0,0,,,,394223942
+1,Pakistan,18,Faheem Ashraf,AF Milne,Imad Wasim,wides,1,1,0,,,,394223942
+1,Pakistan,18,Faheem Ashraf,AF Milne,Imad Wasim,,0,2,2,,,,394223942
+1,Pakistan,18,Faheem Ashraf,AF Milne,Imad Wasim,,0,0,0,,,,394223942
+1,Pakistan,18,Faheem Ashraf,AF Milne,Imad Wasim,,0,6,6,,,,394223942
+1,Pakistan,19,Imad Wasim,TG Southee,Faheem Ashraf,,0,2,2,,,,394223942
+1,Pakistan,19,Imad Wasim,TG Southee,Faheem Ashraf,,0,1,1,,,,394223942
+1,Pakistan,19,Faheem Ashraf,TG Southee,Imad Wasim,,0,0,0,,,,394223942
+1,Pakistan,19,Faheem Ashraf,TG Southee,Imad Wasim,,0,1,1,,,,394223942
+1,Pakistan,19,Imad Wasim,TG Southee,Faheem Ashraf,,0,4,4,,,,394223942
+1,Pakistan,19,Imad Wasim,TG Southee,Faheem Ashraf,,0,6,6,,,,394223942

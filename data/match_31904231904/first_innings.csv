@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Nepal,0,K Bhurtel,Bilal Khan,Aasif Sheikh,,0,1,1,,,,31904231904
+1,Nepal,0,Aasif Sheikh,Bilal Khan,K Bhurtel,wides,1,1,0,,,,31904231904
+1,Nepal,0,Aasif Sheikh,Bilal Khan,K Bhurtel,,0,4,4,,,,31904231904
+1,Nepal,0,Aasif Sheikh,Bilal Khan,K Bhurtel,,0,0,0,,,,31904231904
+1,Nepal,0,Aasif Sheikh,Bilal Khan,K Bhurtel,,0,0,0,,,,31904231904
+1,Nepal,0,Aasif Sheikh,Bilal Khan,K Bhurtel,,0,0,0,,,,31904231904
+1,Nepal,0,Aasif Sheikh,Bilal Khan,K Bhurtel,,0,0,0,caught,Aasif Sheikh,Fayyaz Butt,31904231904
+1,Nepal,1,G Malla,Kaleemullah,K Bhurtel,,0,0,0,,,,31904231904
+1,Nepal,1,G Malla,Kaleemullah,K Bhurtel,,0,1,1,,,,31904231904
+1,Nepal,1,K Bhurtel,Kaleemullah,G Malla,,0,0,0,,,,31904231904
+1,Nepal,1,K Bhurtel,Kaleemullah,G Malla,,0,0,0,,,,31904231904
+1,Nepal,1,K Bhurtel,Kaleemullah,G Malla,,0,0,0,,,,31904231904
+1,Nepal,1,K Bhurtel,Kaleemullah,G Malla,,0,0,0,,,,31904231904
+1,Nepal,2,G Malla,Bilal Khan,K Bhurtel,,0,1,1,,,,31904231904
+1,Nepal,2,K Bhurtel,Bilal Khan,G Malla,,0,4,4,,,,31904231904
+1,Nepal,2,K Bhurtel,Bilal Khan,G Malla,,0,0,0,,,,31904231904
+1,Nepal,2,K Bhurtel,Bilal Khan,G Malla,,0,0,0,caught,K Bhurtel,Khawar Ali,31904231904
+1,Nepal,2,DS Airee,Bilal Khan,G Malla,,0,0,0,,,,31904231904
+1,Nepal,2,DS Airee,Bilal Khan,G Malla,,0,4,4,,,,31904231904
+1,Nepal,3,G Malla,Kaleemullah,DS Airee,,0,1,1,,,,31904231904
+1,Nepal,3,DS Airee,Kaleemullah,G Malla,,0,0,0,,,,31904231904
+1,Nepal,3,DS Airee,Kaleemullah,G Malla,,0,0,0,,,,31904231904
+1,Nepal,3,DS Airee,Kaleemullah,G Malla,,0,1,1,,,,31904231904
+1,Nepal,3,G Malla,Kaleemullah,DS Airee,,0,0,0,,,,31904231904
+1,Nepal,3,G Malla,Kaleemullah,DS Airee,,0,1,1,,,,31904231904
+1,Nepal,4,G Malla,Fayyaz Butt,DS Airee,,0,4,4,,,,31904231904
+1,Nepal,4,G Malla,Fayyaz Butt,DS Airee,,0,0,0,,,,31904231904
+1,Nepal,4,G Malla,Fayyaz Butt,DS Airee,,0,4,4,,,,31904231904
+1,Nepal,4,G Malla,Fayyaz Butt,DS Airee,,0,0,0,,,,31904231904
+1,Nepal,4,G Malla,Fayyaz Butt,DS Airee,,0,1,1,,,,31904231904
+1,Nepal,4,DS Airee,Fayyaz Butt,G Malla,,0,0,0,,,,31904231904
+1,Nepal,5,G Malla,Kaleemullah,DS Airee,,0,1,1,,,,31904231904
+1,Nepal,5,DS Airee,Kaleemullah,G Malla,,0,0,0,,,,31904231904
+1,Nepal,5,DS Airee,Kaleemullah,G Malla,,0,0,0,,,,31904231904
+1,Nepal,5,DS Airee,Kaleemullah,G Malla,,0,0,0,,,,31904231904
+1,Nepal,5,DS Airee,Kaleemullah,G Malla,,0,1,1,,,,31904231904
+1,Nepal,5,G Malla,Kaleemullah,DS Airee,,0,0,0,,,,31904231904
+1,Nepal,6,DS Airee,Fayyaz Butt,G Malla,,0,0,0,,,,31904231904
+1,Nepal,6,DS Airee,Fayyaz Butt,G Malla,,0,1,1,,,,31904231904
+1,Nepal,6,G Malla,Fayyaz Butt,DS Airee,,0,1,1,,,,31904231904
+1,Nepal,6,DS Airee,Fayyaz Butt,G Malla,,0,1,1,,,,31904231904
+1,Nepal,6,G Malla,Fayyaz Butt,DS Airee,,0,0,0,bowled,G Malla,,31904231904
+1,Nepal,6,Aarif Sheikh,Fayyaz Butt,DS Airee,,0,0,0,,,,31904231904
+1,Nepal,7,DS Airee,Kaleemullah,Aarif Sheikh,,0,0,0,,,,31904231904
+1,Nepal,7,DS Airee,Kaleemullah,Aarif Sheikh,,0,2,2,,,,31904231904
+1,Nepal,7,DS Airee,Kaleemullah,Aarif Sheikh,,0,1,1,,,,31904231904
+1,Nepal,7,Aarif Sheikh,Kaleemullah,DS Airee,,0,2,2,,,,31904231904
+1,Nepal,7,Aarif Sheikh,Kaleemullah,DS Airee,,0,1,1,,,,31904231904
+1,Nepal,7,DS Airee,Kaleemullah,Aarif Sheikh,,0,0,0,,,,31904231904
+1,Nepal,8,Aarif Sheikh,Zeeshan Maqsood,DS Airee,,0,0,0,,,,31904231904
+1,Nepal,8,Aarif Sheikh,Zeeshan Maqsood,DS Airee,,0,1,1,,,,31904231904
+1,Nepal,8,DS Airee,Zeeshan Maqsood,Aarif Sheikh,,0,0,0,stumped,DS Airee,Naseem Khushi,31904231904
+1,Nepal,8,Lokesh Bam,Zeeshan Maqsood,Aarif Sheikh,,0,1,1,,,,31904231904
+1,Nepal,8,Aarif Sheikh,Zeeshan Maqsood,Lokesh Bam,,0,1,1,,,,31904231904
+1,Nepal,8,Lokesh Bam,Zeeshan Maqsood,Aarif Sheikh,,0,0,0,,,,31904231904
+1,Nepal,9,Aarif Sheikh,Aamir Kaleem,Lokesh Bam,,0,1,1,,,,31904231904
+1,Nepal,9,Lokesh Bam,Aamir Kaleem,Aarif Sheikh,,0,0,0,,,,31904231904
+1,Nepal,9,Lokesh Bam,Aamir Kaleem,Aarif Sheikh,,0,1,1,,,,31904231904
+1,Nepal,9,Aarif Sheikh,Aamir Kaleem,Lokesh Bam,,0,1,1,,,,31904231904
+1,Nepal,9,Lokesh Bam,Aamir Kaleem,Aarif Sheikh,,0,0,0,,,,31904231904
+1,Nepal,9,Lokesh Bam,Aamir Kaleem,Aarif Sheikh,,0,0,0,,,,31904231904
+1,Nepal,10,Aarif Sheikh,Zeeshan Maqsood,Lokesh Bam,,0,2,2,,,,31904231904
+1,Nepal,10,Aarif Sheikh,Zeeshan Maqsood,Lokesh Bam,,0,0,0,,,,31904231904
+1,Nepal,10,Aarif Sheikh,Zeeshan Maqsood,Lokesh Bam,,0,1,1,,,,31904231904
+1,Nepal,10,Lokesh Bam,Zeeshan Maqsood,Aarif Sheikh,,0,0,0,,,,31904231904
+1,Nepal,10,Lokesh Bam,Zeeshan Maqsood,Aarif Sheikh,,0,2,2,,,,31904231904
+1,Nepal,10,Lokesh Bam,Zeeshan Maqsood,Aarif Sheikh,,0,0,0,,,,31904231904
+1,Nepal,11,Aarif Sheikh,Aamir Kaleem,Lokesh Bam,,0,1,1,,,,31904231904
+1,Nepal,11,Lokesh Bam,Aamir Kaleem,Aarif Sheikh,,0,1,1,,,,31904231904
+1,Nepal,11,Aarif Sheikh,Aamir Kaleem,Lokesh Bam,,0,1,1,,,,31904231904
+1,Nepal,11,Lokesh Bam,Aamir Kaleem,Aarif Sheikh,,0,1,1,,,,31904231904
+1,Nepal,11,Aarif Sheikh,Aamir Kaleem,Lokesh Bam,,0,0,0,,,,31904231904
+1,Nepal,11,Aarif Sheikh,Aamir Kaleem,Lokesh Bam,,0,1,1,,,,31904231904
+1,Nepal,12,Aarif Sheikh,Zeeshan Maqsood,Lokesh Bam,,0,1,1,,,,31904231904
+1,Nepal,12,Lokesh Bam,Zeeshan Maqsood,Aarif Sheikh,,0,0,0,,,,31904231904
+1,Nepal,12,Lokesh Bam,Zeeshan Maqsood,Aarif Sheikh,,0,1,1,,,,31904231904
+1,Nepal,12,Aarif Sheikh,Zeeshan Maqsood,Lokesh Bam,,0,1,1,,,,31904231904
+1,Nepal,12,Lokesh Bam,Zeeshan Maqsood,Aarif Sheikh,,0,6,6,,,,31904231904
+1,Nepal,12,Lokesh Bam,Zeeshan Maqsood,Aarif Sheikh,,0,1,1,,,,31904231904
+1,Nepal,13,Lokesh Bam,Khawar Ali,Aarif Sheikh,,0,2,2,,,,31904231904
+1,Nepal,13,Lokesh Bam,Khawar Ali,Aarif Sheikh,,0,0,0,caught,Lokesh Bam,Kaleemullah,31904231904
+1,Nepal,13,Aarif Sheikh,Khawar Ali,B Yadav,,0,0,0,,,,31904231904
+1,Nepal,13,Aarif Sheikh,Khawar Ali,B Yadav,,0,1,1,,,,31904231904
+1,Nepal,13,B Yadav,Khawar Ali,Aarif Sheikh,,0,0,0,,,,31904231904
+1,Nepal,13,B Yadav,Khawar Ali,Aarif Sheikh,,0,3,3,,,,31904231904
+1,Nepal,14,B Yadav,Aamir Kaleem,Aarif Sheikh,wides,1,1,0,,,,31904231904
+1,Nepal,14,B Yadav,Aamir Kaleem,Aarif Sheikh,,0,0,0,,,,31904231904
+1,Nepal,14,B Yadav,Aamir Kaleem,Aarif Sheikh,legbyes,1,1,0,,,,31904231904
+1,Nepal,14,Aarif Sheikh,Aamir Kaleem,B Yadav,,0,1,1,,,,31904231904
+1,Nepal,14,B Yadav,Aamir Kaleem,Aarif Sheikh,,0,1,1,,,,31904231904
+1,Nepal,14,Aarif Sheikh,Aamir Kaleem,B Yadav,,0,1,1,,,,31904231904
+1,Nepal,14,B Yadav,Aamir Kaleem,Aarif Sheikh,,0,1,1,,,,31904231904
+1,Nepal,15,B Yadav,Khawar Ali,Aarif Sheikh,,0,0,0,,,,31904231904
+1,Nepal,15,B Yadav,Khawar Ali,Aarif Sheikh,,0,1,1,,,,31904231904
+1,Nepal,15,Aarif Sheikh,Khawar Ali,B Yadav,,0,1,1,,,,31904231904
+1,Nepal,15,B Yadav,Khawar Ali,Aarif Sheikh,,0,1,1,,,,31904231904
+1,Nepal,15,Aarif Sheikh,Khawar Ali,B Yadav,,0,1,1,,,,31904231904
+1,Nepal,15,B Yadav,Khawar Ali,Aarif Sheikh,,0,0,0,caught,B Yadav,Fayyaz Butt,31904231904
+1,Nepal,16,Aarif Sheikh,Aamir Kaleem,KS Airee,,0,0,0,,,,31904231904
+1,Nepal,16,Aarif Sheikh,Aamir Kaleem,KS Airee,,0,2,2,,,,31904231904
+1,Nepal,16,Aarif Sheikh,Aamir Kaleem,KS Airee,,0,1,1,,,,31904231904
+1,Nepal,16,KS Airee,Aamir Kaleem,Aarif Sheikh,,0,0,0,,,,31904231904
+1,Nepal,16,KS Airee,Aamir Kaleem,Aarif Sheikh,,0,1,1,,,,31904231904
+1,Nepal,16,Aarif Sheikh,Aamir Kaleem,KS Airee,,0,1,1,,,,31904231904
+1,Nepal,17,Aarif Sheikh,Khawar Ali,KS Airee,,0,1,1,,,,31904231904
+1,Nepal,17,KS Airee,Khawar Ali,Aarif Sheikh,,0,0,0,caught,KS Airee,KH Prajapati,31904231904
+1,Nepal,17,S Lamichhane,Khawar Ali,Aarif Sheikh,,0,1,1,,,,31904231904
+1,Nepal,17,Aarif Sheikh,Khawar Ali,S Lamichhane,,0,2,2,,,,31904231904
+1,Nepal,17,Aarif Sheikh,Khawar Ali,S Lamichhane,,0,0,0,,,,31904231904
+1,Nepal,17,Aarif Sheikh,Khawar Ali,S Lamichhane,,0,1,1,,,,31904231904
+1,Nepal,18,Aarif Sheikh,Bilal Khan,S Lamichhane,,0,4,4,,,,31904231904
+1,Nepal,18,Aarif Sheikh,Bilal Khan,S Lamichhane,,0,0,0,,,,31904231904
+1,Nepal,18,Aarif Sheikh,Bilal Khan,S Lamichhane,,0,1,1,,,,31904231904
+1,Nepal,18,S Lamichhane,Bilal Khan,Aarif Sheikh,,0,1,1,,,,31904231904
+1,Nepal,18,Aarif Sheikh,Bilal Khan,S Lamichhane,,0,4,4,,,,31904231904
+1,Nepal,18,Aarif Sheikh,Bilal Khan,S Lamichhane,legbyes,1,1,0,,,,31904231904
+1,Nepal,19,Aarif Sheikh,Khawar Ali,S Lamichhane,,0,1,1,,,,31904231904
+1,Nepal,19,S Lamichhane,Khawar Ali,Aarif Sheikh,,0,4,4,,,,31904231904
+1,Nepal,19,S Lamichhane,Khawar Ali,Aarif Sheikh,,0,2,2,,,,31904231904
+1,Nepal,19,S Lamichhane,Khawar Ali,Aarif Sheikh,,0,2,2,,,,31904231904
+1,Nepal,19,S Lamichhane,Khawar Ali,Aarif Sheikh,,0,6,6,,,,31904231904
+1,Nepal,19,S Lamichhane,Khawar Ali,Aarif Sheikh,,0,0,0,run out,Aarif Sheikh,Naseem Khushi,31904231904

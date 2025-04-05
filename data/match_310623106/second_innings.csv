@@ -1,0 +1,106 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,West Indies,0,DM Richards,Shakib Al Hasan,ADS Fletcher,,0,0,0,bowled,DM Richards,,310623106
+2,West Indies,0,DS Smith,Shakib Al Hasan,ADS Fletcher,wides,1,1,0,,,,310623106
+2,West Indies,0,DS Smith,Shakib Al Hasan,ADS Fletcher,,0,0,0,,,,310623106
+2,West Indies,0,DS Smith,Shakib Al Hasan,ADS Fletcher,wides,1,1,0,,,,310623106
+2,West Indies,0,DS Smith,Shakib Al Hasan,ADS Fletcher,,0,0,0,,,,310623106
+2,West Indies,0,DS Smith,Shakib Al Hasan,ADS Fletcher,,0,0,0,,,,310623106
+2,West Indies,0,DS Smith,Shakib Al Hasan,ADS Fletcher,,0,0,0,,,,310623106
+2,West Indies,0,DS Smith,Shakib Al Hasan,ADS Fletcher,,0,1,1,,,,310623106
+2,West Indies,1,DS Smith,Naeem Islam,ADS Fletcher,,0,0,0,,,,310623106
+2,West Indies,1,DS Smith,Naeem Islam,ADS Fletcher,,0,0,0,,,,310623106
+2,West Indies,1,DS Smith,Naeem Islam,ADS Fletcher,,0,1,1,,,,310623106
+2,West Indies,1,ADS Fletcher,Naeem Islam,DS Smith,,0,1,1,,,,310623106
+2,West Indies,1,DS Smith,Naeem Islam,ADS Fletcher,,0,6,6,,,,310623106
+2,West Indies,1,DS Smith,Naeem Islam,ADS Fletcher,,0,4,4,,,,310623106
+2,West Indies,2,ADS Fletcher,Shakib Al Hasan,DS Smith,,0,0,0,,,,310623106
+2,West Indies,2,ADS Fletcher,Shakib Al Hasan,DS Smith,,0,0,0,,,,310623106
+2,West Indies,2,ADS Fletcher,Shakib Al Hasan,DS Smith,,0,0,0,,,,310623106
+2,West Indies,2,ADS Fletcher,Shakib Al Hasan,DS Smith,,0,0,0,,,,310623106
+2,West Indies,2,ADS Fletcher,Shakib Al Hasan,DS Smith,,0,1,1,,,,310623106
+2,West Indies,2,DS Smith,Shakib Al Hasan,ADS Fletcher,,0,1,1,,,,310623106
+2,West Indies,3,DS Smith,Mahmudullah,ADS Fletcher,,0,4,4,,,,310623106
+2,West Indies,3,DS Smith,Mahmudullah,ADS Fletcher,,0,6,6,,,,310623106
+2,West Indies,3,DS Smith,Mahmudullah,ADS Fletcher,,0,4,4,,,,310623106
+2,West Indies,3,DS Smith,Mahmudullah,ADS Fletcher,,0,0,0,,,,310623106
+2,West Indies,3,DS Smith,Mahmudullah,ADS Fletcher,,0,1,1,,,,310623106
+2,West Indies,3,ADS Fletcher,Mahmudullah,DS Smith,,0,0,0,,,,310623106
+2,West Indies,4,DS Smith,Shakib Al Hasan,ADS Fletcher,,0,0,0,,,,310623106
+2,West Indies,4,DS Smith,Shakib Al Hasan,ADS Fletcher,,0,0,0,,,,310623106
+2,West Indies,4,DS Smith,Shakib Al Hasan,ADS Fletcher,,0,3,3,,,,310623106
+2,West Indies,4,ADS Fletcher,Shakib Al Hasan,DS Smith,,0,0,0,,,,310623106
+2,West Indies,4,ADS Fletcher,Shakib Al Hasan,DS Smith,,0,1,1,,,,310623106
+2,West Indies,4,DS Smith,Shakib Al Hasan,ADS Fletcher,,0,0,0,,,,310623106
+2,West Indies,5,ADS Fletcher,Nazmul Hossain,DS Smith,,0,0,0,,,,310623106
+2,West Indies,5,ADS Fletcher,Nazmul Hossain,DS Smith,,0,4,4,,,,310623106
+2,West Indies,5,ADS Fletcher,Nazmul Hossain,DS Smith,,0,1,1,,,,310623106
+2,West Indies,5,DS Smith,Nazmul Hossain,ADS Fletcher,,0,1,1,,,,310623106
+2,West Indies,5,ADS Fletcher,Nazmul Hossain,DS Smith,legbyes,4,4,0,,,,310623106
+2,West Indies,5,ADS Fletcher,Nazmul Hossain,DS Smith,,0,0,0,lbw,ADS Fletcher,,310623106
+2,West Indies,6,DS Smith,Mehrab Hossain jnr,TM Dowlin,wides,1,1,0,,,,310623106
+2,West Indies,6,DS Smith,Mehrab Hossain jnr,TM Dowlin,,0,1,1,,,,310623106
+2,West Indies,6,TM Dowlin,Mehrab Hossain jnr,DS Smith,,0,0,0,,,,310623106
+2,West Indies,6,TM Dowlin,Mehrab Hossain jnr,DS Smith,,0,0,0,,,,310623106
+2,West Indies,6,TM Dowlin,Mehrab Hossain jnr,DS Smith,,0,4,4,,,,310623106
+2,West Indies,6,TM Dowlin,Mehrab Hossain jnr,DS Smith,,0,1,1,,,,310623106
+2,West Indies,6,DS Smith,Mehrab Hossain jnr,TM Dowlin,,0,2,2,,,,310623106
+2,West Indies,7,TM Dowlin,Nazmul Hossain,DS Smith,,0,0,0,,,,310623106
+2,West Indies,7,TM Dowlin,Nazmul Hossain,DS Smith,,0,2,2,,,,310623106
+2,West Indies,7,TM Dowlin,Nazmul Hossain,DS Smith,,0,4,4,,,,310623106
+2,West Indies,7,TM Dowlin,Nazmul Hossain,DS Smith,,0,2,2,,,,310623106
+2,West Indies,7,TM Dowlin,Nazmul Hossain,DS Smith,,0,1,1,,,,310623106
+2,West Indies,7,DS Smith,Nazmul Hossain,TM Dowlin,,0,0,0,,,,310623106
+2,West Indies,8,TM Dowlin,Rubel Hossain,DS Smith,,0,1,1,,,,310623106
+2,West Indies,8,DS Smith,Rubel Hossain,TM Dowlin,,0,0,0,,,,310623106
+2,West Indies,8,DS Smith,Rubel Hossain,TM Dowlin,,0,2,2,,,,310623106
+2,West Indies,8,DS Smith,Rubel Hossain,TM Dowlin,,0,0,0,caught,DS Smith,Mushfiqur Rahim,310623106
+2,West Indies,8,FL Reifer,Rubel Hossain,TM Dowlin,,0,0,0,,,,310623106
+2,West Indies,8,FL Reifer,Rubel Hossain,TM Dowlin,,0,1,1,,,,310623106
+2,West Indies,9,FL Reifer,Naeem Islam,TM Dowlin,,0,1,1,,,,310623106
+2,West Indies,9,TM Dowlin,Naeem Islam,FL Reifer,,0,0,0,,,,310623106
+2,West Indies,9,TM Dowlin,Naeem Islam,FL Reifer,noballs,1,3,2,,,,310623106
+2,West Indies,9,TM Dowlin,Naeem Islam,FL Reifer,,0,4,4,,,,310623106
+2,West Indies,9,TM Dowlin,Naeem Islam,FL Reifer,,0,1,1,,,,310623106
+2,West Indies,9,FL Reifer,Naeem Islam,TM Dowlin,,0,0,0,,,,310623106
+2,West Indies,9,FL Reifer,Naeem Islam,TM Dowlin,,0,0,0,,,,310623106
+2,West Indies,10,TM Dowlin,Rubel Hossain,FL Reifer,,0,0,0,,,,310623106
+2,West Indies,10,TM Dowlin,Rubel Hossain,FL Reifer,,0,0,0,,,,310623106
+2,West Indies,10,TM Dowlin,Rubel Hossain,FL Reifer,,0,0,0,,,,310623106
+2,West Indies,10,TM Dowlin,Rubel Hossain,FL Reifer,,0,1,1,,,,310623106
+2,West Indies,10,FL Reifer,Rubel Hossain,TM Dowlin,,0,1,1,,,,310623106
+2,West Indies,10,TM Dowlin,Rubel Hossain,FL Reifer,,0,0,0,,,,310623106
+2,West Indies,11,FL Reifer,Shakib Al Hasan,TM Dowlin,,0,1,1,,,,310623106
+2,West Indies,11,TM Dowlin,Shakib Al Hasan,FL Reifer,,0,1,1,,,,310623106
+2,West Indies,11,FL Reifer,Shakib Al Hasan,TM Dowlin,,0,0,0,,,,310623106
+2,West Indies,11,FL Reifer,Shakib Al Hasan,TM Dowlin,,0,0,0,,,,310623106
+2,West Indies,11,FL Reifer,Shakib Al Hasan,TM Dowlin,,0,2,2,,,,310623106
+2,West Indies,11,FL Reifer,Shakib Al Hasan,TM Dowlin,,0,0,0,,,,310623106
+2,West Indies,12,TM Dowlin,Rubel Hossain,FL Reifer,,0,1,1,,,,310623106
+2,West Indies,12,FL Reifer,Rubel Hossain,TM Dowlin,,0,1,1,,,,310623106
+2,West Indies,12,TM Dowlin,Rubel Hossain,FL Reifer,,0,1,1,,,,310623106
+2,West Indies,12,FL Reifer,Rubel Hossain,TM Dowlin,,0,4,4,,,,310623106
+2,West Indies,12,FL Reifer,Rubel Hossain,TM Dowlin,,0,0,0,,,,310623106
+2,West Indies,12,FL Reifer,Rubel Hossain,TM Dowlin,,0,0,0,,,,310623106
+2,West Indies,13,TM Dowlin,Mohammad Ashraful,FL Reifer,,0,0,0,,,,310623106
+2,West Indies,13,TM Dowlin,Mohammad Ashraful,FL Reifer,,0,0,0,,,,310623106
+2,West Indies,13,TM Dowlin,Mohammad Ashraful,FL Reifer,,0,0,0,,,,310623106
+2,West Indies,13,TM Dowlin,Mohammad Ashraful,FL Reifer,,0,1,1,,,,310623106
+2,West Indies,13,FL Reifer,Mohammad Ashraful,TM Dowlin,,0,4,4,,,,310623106
+2,West Indies,13,FL Reifer,Mohammad Ashraful,TM Dowlin,,0,0,0,,,,310623106
+2,West Indies,14,TM Dowlin,Mehrab Hossain jnr,FL Reifer,,0,0,0,,,,310623106
+2,West Indies,14,TM Dowlin,Mehrab Hossain jnr,FL Reifer,,0,0,0,,,,310623106
+2,West Indies,14,TM Dowlin,Mehrab Hossain jnr,FL Reifer,,0,1,1,,,,310623106
+2,West Indies,14,FL Reifer,Mehrab Hossain jnr,TM Dowlin,,0,1,1,,,,310623106
+2,West Indies,14,TM Dowlin,Mehrab Hossain jnr,FL Reifer,,0,0,0,,,,310623106
+2,West Indies,14,TM Dowlin,Mehrab Hossain jnr,FL Reifer,,0,4,4,,,,310623106
+2,West Indies,15,FL Reifer,Mohammad Ashraful,TM Dowlin,,0,6,6,,,,310623106
+2,West Indies,15,FL Reifer,Mohammad Ashraful,TM Dowlin,,0,0,0,caught,FL Reifer,Mahmudullah,310623106
+2,West Indies,15,TM Dowlin,Mohammad Ashraful,DJG Sammy,,0,0,0,,,,310623106
+2,West Indies,15,TM Dowlin,Mohammad Ashraful,DJG Sammy,,0,1,1,,,,310623106
+2,West Indies,15,DJG Sammy,Mohammad Ashraful,TM Dowlin,,0,6,6,,,,310623106
+2,West Indies,15,DJG Sammy,Mohammad Ashraful,TM Dowlin,,0,0,0,caught,DJG Sammy,Mahmudullah,310623106
+2,West Indies,16,DE Bernard,Mehrab Hossain jnr,TM Dowlin,,0,1,1,,,,310623106
+2,West Indies,16,TM Dowlin,Mehrab Hossain jnr,DE Bernard,,0,0,0,,,,310623106
+2,West Indies,16,TM Dowlin,Mehrab Hossain jnr,DE Bernard,,0,0,0,,,,310623106
+2,West Indies,16,TM Dowlin,Mehrab Hossain jnr,DE Bernard,,0,0,0,,,,310623106
+2,West Indies,16,TM Dowlin,Mehrab Hossain jnr,DE Bernard,,0,4,4,,,,310623106

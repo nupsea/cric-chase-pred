@@ -1,0 +1,126 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Pakistan,0,Kamran Akmal,SE Bond,Salman Butt,,0,0,0,,,,312923129
+2,Pakistan,0,Kamran Akmal,SE Bond,Salman Butt,,0,2,2,,,,312923129
+2,Pakistan,0,Kamran Akmal,SE Bond,Salman Butt,,0,1,1,,,,312923129
+2,Pakistan,0,Salman Butt,SE Bond,Kamran Akmal,,0,1,1,,,,312923129
+2,Pakistan,0,Kamran Akmal,SE Bond,Salman Butt,,0,0,0,,,,312923129
+2,Pakistan,0,Kamran Akmal,SE Bond,Salman Butt,,0,0,0,,,,312923129
+2,Pakistan,1,Salman Butt,KD Mills,Kamran Akmal,,0,1,1,,,,312923129
+2,Pakistan,1,Kamran Akmal,KD Mills,Salman Butt,,0,1,1,,,,312923129
+2,Pakistan,1,Salman Butt,KD Mills,Kamran Akmal,,0,1,1,,,,312923129
+2,Pakistan,1,Kamran Akmal,KD Mills,Salman Butt,wides,1,1,0,,,,312923129
+2,Pakistan,1,Kamran Akmal,KD Mills,Salman Butt,noballs,1,2,1,,,,312923129
+2,Pakistan,1,Salman Butt,KD Mills,Kamran Akmal,,0,4,4,,,,312923129
+2,Pakistan,1,Salman Butt,KD Mills,Kamran Akmal,,0,1,1,,,,312923129
+2,Pakistan,1,Kamran Akmal,KD Mills,Salman Butt,,0,0,0,bowled,Kamran Akmal,,312923129
+2,Pakistan,2,Salman Butt,SE Bond,Mohammad Hafeez,,0,0,0,,,,312923129
+2,Pakistan,2,Salman Butt,SE Bond,Mohammad Hafeez,,0,1,1,,,,312923129
+2,Pakistan,2,Mohammad Hafeez,SE Bond,Salman Butt,,0,0,0,,,,312923129
+2,Pakistan,2,Mohammad Hafeez,SE Bond,Salman Butt,,0,4,4,,,,312923129
+2,Pakistan,2,Mohammad Hafeez,SE Bond,Salman Butt,,0,4,4,,,,312923129
+2,Pakistan,2,Mohammad Hafeez,SE Bond,Salman Butt,,0,0,0,caught,Mohammad Hafeez,GJ Hopkins,312923129
+2,Pakistan,3,Salman Butt,KD Mills,Umar Akmal,,0,1,1,,,,312923129
+2,Pakistan,3,Umar Akmal,KD Mills,Salman Butt,,0,0,0,caught,Umar Akmal,GJ Hopkins,312923129
+2,Pakistan,3,Misbah-ul-Haq,KD Mills,Salman Butt,wides,1,1,0,,,,312923129
+2,Pakistan,3,Misbah-ul-Haq,KD Mills,Salman Butt,,0,0,0,,,,312923129
+2,Pakistan,3,Misbah-ul-Haq,KD Mills,Salman Butt,,0,0,0,,,,312923129
+2,Pakistan,3,Misbah-ul-Haq,KD Mills,Salman Butt,,0,0,0,,,,312923129
+2,Pakistan,3,Misbah-ul-Haq,KD Mills,Salman Butt,,0,1,1,,,,312923129
+2,Pakistan,4,Misbah-ul-Haq,IG Butler,Salman Butt,,0,0,0,,,,312923129
+2,Pakistan,4,Misbah-ul-Haq,IG Butler,Salman Butt,,0,0,0,,,,312923129
+2,Pakistan,4,Misbah-ul-Haq,IG Butler,Salman Butt,,0,0,0,,,,312923129
+2,Pakistan,4,Misbah-ul-Haq,IG Butler,Salman Butt,,0,0,0,,,,312923129
+2,Pakistan,4,Misbah-ul-Haq,IG Butler,Salman Butt,,0,0,0,,,,312923129
+2,Pakistan,4,Misbah-ul-Haq,IG Butler,Salman Butt,,0,0,0,,,,312923129
+2,Pakistan,5,Salman Butt,KD Mills,Misbah-ul-Haq,,0,0,0,,,,312923129
+2,Pakistan,5,Salman Butt,KD Mills,Misbah-ul-Haq,,0,0,0,,,,312923129
+2,Pakistan,5,Salman Butt,KD Mills,Misbah-ul-Haq,,0,4,4,,,,312923129
+2,Pakistan,5,Salman Butt,KD Mills,Misbah-ul-Haq,,0,0,0,,,,312923129
+2,Pakistan,5,Salman Butt,KD Mills,Misbah-ul-Haq,,0,0,0,,,,312923129
+2,Pakistan,5,Salman Butt,KD Mills,Misbah-ul-Haq,,0,4,4,,,,312923129
+2,Pakistan,6,Misbah-ul-Haq,DL Vettori,Salman Butt,,0,1,1,,,,312923129
+2,Pakistan,6,Salman Butt,DL Vettori,Misbah-ul-Haq,,0,0,0,,,,312923129
+2,Pakistan,6,Salman Butt,DL Vettori,Misbah-ul-Haq,,0,4,4,,,,312923129
+2,Pakistan,6,Salman Butt,DL Vettori,Misbah-ul-Haq,,0,1,1,,,,312923129
+2,Pakistan,6,Misbah-ul-Haq,DL Vettori,Salman Butt,,0,1,1,,,,312923129
+2,Pakistan,6,Salman Butt,DL Vettori,Misbah-ul-Haq,,0,0,0,,,,312923129
+2,Pakistan,7,Misbah-ul-Haq,IG Butler,Salman Butt,,0,0,0,lbw,Misbah-ul-Haq,,312923129
+2,Pakistan,7,Shahid Afridi,IG Butler,Salman Butt,,0,1,1,,,,312923129
+2,Pakistan,7,Salman Butt,IG Butler,Shahid Afridi,,0,0,0,,,,312923129
+2,Pakistan,7,Salman Butt,IG Butler,Shahid Afridi,,0,1,1,,,,312923129
+2,Pakistan,7,Shahid Afridi,IG Butler,Salman Butt,,0,4,4,,,,312923129
+2,Pakistan,7,Shahid Afridi,IG Butler,Salman Butt,,0,1,1,,,,312923129
+2,Pakistan,8,Shahid Afridi,DL Vettori,Salman Butt,,0,1,1,,,,312923129
+2,Pakistan,8,Salman Butt,DL Vettori,Shahid Afridi,,0,1,1,,,,312923129
+2,Pakistan,8,Shahid Afridi,DL Vettori,Salman Butt,,0,1,1,,,,312923129
+2,Pakistan,8,Salman Butt,DL Vettori,Shahid Afridi,,0,1,1,,,,312923129
+2,Pakistan,8,Shahid Afridi,DL Vettori,Salman Butt,,0,2,2,,,,312923129
+2,Pakistan,8,Shahid Afridi,DL Vettori,Salman Butt,,0,0,0,,,,312923129
+2,Pakistan,9,Salman Butt,IG Butler,Shahid Afridi,,0,1,1,,,,312923129
+2,Pakistan,9,Shahid Afridi,IG Butler,Salman Butt,,0,1,1,,,,312923129
+2,Pakistan,9,Salman Butt,IG Butler,Shahid Afridi,,0,1,1,,,,312923129
+2,Pakistan,9,Shahid Afridi,IG Butler,Salman Butt,,0,0,0,caught,Shahid Afridi,NL McCullum,312923129
+2,Pakistan,9,Salman Butt,IG Butler,Abdul Razzaq,,0,1,1,,,,312923129
+2,Pakistan,9,Abdul Razzaq,IG Butler,Salman Butt,,0,0,0,,,,312923129
+2,Pakistan,10,Salman Butt,DL Vettori,Abdul Razzaq,,0,0,0,,,,312923129
+2,Pakistan,10,Salman Butt,DL Vettori,Abdul Razzaq,,0,0,0,,,,312923129
+2,Pakistan,10,Salman Butt,DL Vettori,Abdul Razzaq,legbyes,1,1,0,,,,312923129
+2,Pakistan,10,Abdul Razzaq,DL Vettori,Salman Butt,,0,0,0,,,,312923129
+2,Pakistan,10,Abdul Razzaq,DL Vettori,Salman Butt,wides,1,1,0,,,,312923129
+2,Pakistan,10,Abdul Razzaq,DL Vettori,Salman Butt,,0,0,0,,,,312923129
+2,Pakistan,10,Abdul Razzaq,DL Vettori,Salman Butt,,0,1,1,,,,312923129
+2,Pakistan,11,Abdul Razzaq,NL McCullum,Salman Butt,,0,1,1,,,,312923129
+2,Pakistan,11,Salman Butt,NL McCullum,Abdul Razzaq,,0,1,1,,,,312923129
+2,Pakistan,11,Abdul Razzaq,NL McCullum,Salman Butt,,0,0,0,,,,312923129
+2,Pakistan,11,Abdul Razzaq,NL McCullum,Salman Butt,,0,1,1,,,,312923129
+2,Pakistan,11,Salman Butt,NL McCullum,Abdul Razzaq,,0,1,1,,,,312923129
+2,Pakistan,11,Abdul Razzaq,NL McCullum,Salman Butt,,0,0,0,,,,312923129
+2,Pakistan,12,Salman Butt,SE Bond,Abdul Razzaq,,0,0,0,,,,312923129
+2,Pakistan,12,Salman Butt,SE Bond,Abdul Razzaq,,0,4,4,,,,312923129
+2,Pakistan,12,Salman Butt,SE Bond,Abdul Razzaq,,0,1,1,,,,312923129
+2,Pakistan,12,Abdul Razzaq,SE Bond,Salman Butt,wides,1,1,0,,,,312923129
+2,Pakistan,12,Abdul Razzaq,SE Bond,Salman Butt,,0,1,1,,,,312923129
+2,Pakistan,12,Salman Butt,SE Bond,Abdul Razzaq,,0,1,1,,,,312923129
+2,Pakistan,12,Abdul Razzaq,SE Bond,Salman Butt,,0,0,0,,,,312923129
+2,Pakistan,13,Salman Butt,NL McCullum,Abdul Razzaq,,0,2,2,,,,312923129
+2,Pakistan,13,Salman Butt,NL McCullum,Abdul Razzaq,,0,1,1,,,,312923129
+2,Pakistan,13,Abdul Razzaq,NL McCullum,Salman Butt,,0,0,0,,,,312923129
+2,Pakistan,13,Abdul Razzaq,NL McCullum,Salman Butt,,0,0,0,,,,312923129
+2,Pakistan,13,Abdul Razzaq,NL McCullum,Salman Butt,,0,0,0,,,,312923129
+2,Pakistan,13,Abdul Razzaq,NL McCullum,Salman Butt,,0,1,1,,,,312923129
+2,Pakistan,14,Abdul Razzaq,DL Vettori,Salman Butt,,0,0,0,,,,312923129
+2,Pakistan,14,Abdul Razzaq,DL Vettori,Salman Butt,,0,0,0,,,,312923129
+2,Pakistan,14,Abdul Razzaq,DL Vettori,Salman Butt,,0,6,6,,,,312923129
+2,Pakistan,14,Abdul Razzaq,DL Vettori,Salman Butt,,0,4,4,,,,312923129
+2,Pakistan,14,Abdul Razzaq,DL Vettori,Salman Butt,,0,0,0,,,,312923129
+2,Pakistan,14,Abdul Razzaq,DL Vettori,Salman Butt,,0,6,6,,,,312923129
+2,Pakistan,15,Salman Butt,NL McCullum,Abdul Razzaq,,0,0,0,,,,312923129
+2,Pakistan,15,Salman Butt,NL McCullum,Abdul Razzaq,,0,4,4,,,,312923129
+2,Pakistan,15,Salman Butt,NL McCullum,Abdul Razzaq,,0,0,0,,,,312923129
+2,Pakistan,15,Salman Butt,NL McCullum,Abdul Razzaq,,0,1,1,,,,312923129
+2,Pakistan,15,Abdul Razzaq,NL McCullum,Salman Butt,,0,1,1,,,,312923129
+2,Pakistan,15,Salman Butt,NL McCullum,Abdul Razzaq,,0,1,1,,,,312923129
+2,Pakistan,16,Salman Butt,SE Bond,Abdul Razzaq,,0,1,1,,,,312923129
+2,Pakistan,16,Abdul Razzaq,SE Bond,Salman Butt,,0,0,0,,,,312923129
+2,Pakistan,16,Abdul Razzaq,SE Bond,Salman Butt,,0,0,0,,,,312923129
+2,Pakistan,16,Abdul Razzaq,SE Bond,Salman Butt,,0,0,0,,,,312923129
+2,Pakistan,16,Abdul Razzaq,SE Bond,Salman Butt,,0,0,0,,,,312923129
+2,Pakistan,16,Abdul Razzaq,SE Bond,Salman Butt,,0,6,6,,,,312923129
+2,Pakistan,17,Salman Butt,NL McCullum,Abdul Razzaq,,0,1,1,,,,312923129
+2,Pakistan,17,Abdul Razzaq,NL McCullum,Salman Butt,,0,1,1,,,,312923129
+2,Pakistan,17,Salman Butt,NL McCullum,Abdul Razzaq,,0,1,1,,,,312923129
+2,Pakistan,17,Abdul Razzaq,NL McCullum,Salman Butt,,0,0,0,,,,312923129
+2,Pakistan,17,Abdul Razzaq,NL McCullum,Salman Butt,,0,0,0,caught,Abdul Razzaq,LRPL Taylor,312923129
+2,Pakistan,17,Salman Butt,NL McCullum,Abdur Rehman,,0,1,1,,,,312923129
+2,Pakistan,18,Salman Butt,KD Mills,Abdur Rehman,,0,6,6,,,,312923129
+2,Pakistan,18,Salman Butt,KD Mills,Abdur Rehman,,0,1,1,,,,312923129
+2,Pakistan,18,Abdur Rehman,KD Mills,Salman Butt,,0,1,1,,,,312923129
+2,Pakistan,18,Salman Butt,KD Mills,Abdur Rehman,,0,1,1,,,,312923129
+2,Pakistan,18,Abdur Rehman,KD Mills,Salman Butt,,0,1,1,,,,312923129
+2,Pakistan,18,Salman Butt,KD Mills,Abdur Rehman,,0,1,1,,,,312923129
+2,Pakistan,19,Salman Butt,IG Butler,Abdur Rehman,,0,0,0,,,,312923129
+2,Pakistan,19,Salman Butt,IG Butler,Abdur Rehman,,0,4,4,,,,312923129
+2,Pakistan,19,Salman Butt,IG Butler,Abdur Rehman,,0,0,0,,,,312923129
+2,Pakistan,19,Salman Butt,IG Butler,Abdur Rehman,,0,4,4,,,,312923129
+2,Pakistan,19,Salman Butt,IG Butler,Abdur Rehman,byes,1,1,0,,,,312923129
+2,Pakistan,19,Abdur Rehman,IG Butler,Salman Butt,,0,0,0,caught,Abdur Rehman,MJ Guptill,312923129

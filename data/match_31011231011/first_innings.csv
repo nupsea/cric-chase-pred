@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Malaysia,0,Yusrina Yaakop,Wang Meng,WA Duraisingam,,0,0,0,,,,31011231011
+1,Malaysia,0,Yusrina Yaakop,Wang Meng,WA Duraisingam,,0,1,1,,,,31011231011
+1,Malaysia,0,WA Duraisingam,Wang Meng,Yusrina Yaakop,,0,0,0,,,,31011231011
+1,Malaysia,0,WA Duraisingam,Wang Meng,Yusrina Yaakop,,0,0,0,,,,31011231011
+1,Malaysia,0,WA Duraisingam,Wang Meng,Yusrina Yaakop,,0,0,0,run out,WA Duraisingam,,31011231011
+1,Malaysia,0,Mas Elysa,Wang Meng,Yusrina Yaakop,,0,0,0,,,,31011231011
+1,Malaysia,1,Yusrina Yaakop,Wu Juan,Mas Elysa,,0,0,0,,,,31011231011
+1,Malaysia,1,Yusrina Yaakop,Wu Juan,Mas Elysa,,0,1,1,,,,31011231011
+1,Malaysia,1,Mas Elysa,Wu Juan,Yusrina Yaakop,,0,0,0,,,,31011231011
+1,Malaysia,1,Mas Elysa,Wu Juan,Yusrina Yaakop,,0,1,1,,,,31011231011
+1,Malaysia,1,Yusrina Yaakop,Wu Juan,Mas Elysa,,0,0,0,,,,31011231011
+1,Malaysia,1,Yusrina Yaakop,Wu Juan,Mas Elysa,,0,1,1,,,,31011231011
+1,Malaysia,2,Yusrina Yaakop,Wang Meng,Mas Elysa,,0,0,0,,,,31011231011
+1,Malaysia,2,Yusrina Yaakop,Wang Meng,Mas Elysa,,0,0,0,,,,31011231011
+1,Malaysia,2,Yusrina Yaakop,Wang Meng,Mas Elysa,,0,1,1,,,,31011231011
+1,Malaysia,2,Mas Elysa,Wang Meng,Yusrina Yaakop,,0,4,4,,,,31011231011
+1,Malaysia,2,Mas Elysa,Wang Meng,Yusrina Yaakop,,0,1,1,,,,31011231011
+1,Malaysia,2,Yusrina Yaakop,Wang Meng,Mas Elysa,,0,0,0,,,,31011231011
+1,Malaysia,3,Mas Elysa,Wu Juan,Yusrina Yaakop,,0,0,0,,,,31011231011
+1,Malaysia,3,Mas Elysa,Wu Juan,Yusrina Yaakop,,0,0,0,,,,31011231011
+1,Malaysia,3,Mas Elysa,Wu Juan,Yusrina Yaakop,,0,1,1,,,,31011231011
+1,Malaysia,3,Yusrina Yaakop,Wu Juan,Mas Elysa,,0,0,0,,,,31011231011
+1,Malaysia,3,Yusrina Yaakop,Wu Juan,Mas Elysa,,0,1,1,,,,31011231011
+1,Malaysia,3,Mas Elysa,Wu Juan,Yusrina Yaakop,,0,0,0,,,,31011231011
+1,Malaysia,4,Yusrina Yaakop,L Jie,Mas Elysa,,0,1,1,,,,31011231011
+1,Malaysia,4,Mas Elysa,L Jie,Yusrina Yaakop,,0,0,0,,,,31011231011
+1,Malaysia,4,Mas Elysa,L Jie,Yusrina Yaakop,,0,1,1,,,,31011231011
+1,Malaysia,4,Yusrina Yaakop,L Jie,Mas Elysa,,0,1,1,,,,31011231011
+1,Malaysia,4,Mas Elysa,L Jie,Yusrina Yaakop,,0,0,0,,,,31011231011
+1,Malaysia,4,Mas Elysa,L Jie,Yusrina Yaakop,,0,0,0,,,,31011231011
+1,Malaysia,5,Yusrina Yaakop,Wu Juan,Mas Elysa,,0,0,0,run out,Yusrina Yaakop,,31011231011
+1,Malaysia,5,Mas Elysa,Wu Juan,Siow Tzin Yee,,0,3,3,,,,31011231011
+1,Malaysia,5,Siow Tzin Yee,Wu Juan,Mas Elysa,,0,0,0,,,,31011231011
+1,Malaysia,5,Siow Tzin Yee,Wu Juan,Mas Elysa,,0,0,0,,,,31011231011
+1,Malaysia,5,Siow Tzin Yee,Wu Juan,Mas Elysa,,0,0,0,,,,31011231011
+1,Malaysia,5,Siow Tzin Yee,Wu Juan,Mas Elysa,,0,1,1,,,,31011231011
+1,Malaysia,6,Siow Tzin Yee,L Jie,Mas Elysa,,0,0,0,,,,31011231011
+1,Malaysia,6,Siow Tzin Yee,L Jie,Mas Elysa,,0,1,1,,,,31011231011
+1,Malaysia,6,Mas Elysa,L Jie,Siow Tzin Yee,,0,1,1,,,,31011231011
+1,Malaysia,6,Siow Tzin Yee,L Jie,Mas Elysa,,0,1,1,,,,31011231011
+1,Malaysia,6,Mas Elysa,L Jie,Siow Tzin Yee,,0,1,1,,,,31011231011
+1,Malaysia,6,Siow Tzin Yee,L Jie,Mas Elysa,,0,1,1,,,,31011231011
+1,Malaysia,7,Siow Tzin Yee,LI Haoye,Mas Elysa,,0,0,0,,,,31011231011
+1,Malaysia,7,Siow Tzin Yee,LI Haoye,Mas Elysa,,0,1,1,,,,31011231011
+1,Malaysia,7,Mas Elysa,LI Haoye,Siow Tzin Yee,,0,0,0,,,,31011231011
+1,Malaysia,7,Mas Elysa,LI Haoye,Siow Tzin Yee,,0,1,1,,,,31011231011
+1,Malaysia,7,Siow Tzin Yee,LI Haoye,Mas Elysa,,0,0,0,,,,31011231011
+1,Malaysia,7,Siow Tzin Yee,LI Haoye,Mas Elysa,,0,0,0,,,,31011231011
+1,Malaysia,8,Mas Elysa,Han Lili,Siow Tzin Yee,,0,0,0,stumped,Mas Elysa,Zhang Chan,31011231011
+1,Malaysia,8,Christina Baret,Han Lili,Siow Tzin Yee,,0,0,0,,,,31011231011
+1,Malaysia,8,Christina Baret,Han Lili,Siow Tzin Yee,wides,1,1,0,,,,31011231011
+1,Malaysia,8,Christina Baret,Han Lili,Siow Tzin Yee,,0,1,1,,,,31011231011
+1,Malaysia,8,Siow Tzin Yee,Han Lili,Christina Baret,,0,0,0,,,,31011231011
+1,Malaysia,8,Siow Tzin Yee,Han Lili,Christina Baret,,0,1,1,,,,31011231011
+1,Malaysia,8,Christina Baret,Han Lili,Siow Tzin Yee,,0,1,1,,,,31011231011
+1,Malaysia,9,Christina Baret,LI Haoye,Siow Tzin Yee,,0,0,0,,,,31011231011
+1,Malaysia,9,Christina Baret,LI Haoye,Siow Tzin Yee,,0,0,0,,,,31011231011
+1,Malaysia,9,Christina Baret,LI Haoye,Siow Tzin Yee,,0,0,0,,,,31011231011
+1,Malaysia,9,Christina Baret,LI Haoye,Siow Tzin Yee,,0,0,0,,,,31011231011
+1,Malaysia,9,Christina Baret,LI Haoye,Siow Tzin Yee,,0,2,2,,,,31011231011
+1,Malaysia,9,Christina Baret,LI Haoye,Siow Tzin Yee,,0,1,1,,,,31011231011
+1,Malaysia,10,Christina Baret,Han Lili,Siow Tzin Yee,,0,0,0,,,,31011231011
+1,Malaysia,10,Christina Baret,Han Lili,Siow Tzin Yee,,0,2,2,,,,31011231011
+1,Malaysia,10,Christina Baret,Han Lili,Siow Tzin Yee,,0,0,0,run out,Siow Tzin Yee,,31011231011
+1,Malaysia,10,Emylia Eliani,Han Lili,Christina Baret,,0,0,0,,,,31011231011
+1,Malaysia,10,Emylia Eliani,Han Lili,Christina Baret,,0,0,0,,,,31011231011
+1,Malaysia,10,Emylia Eliani,Han Lili,Christina Baret,,0,1,1,,,,31011231011
+1,Malaysia,11,Emylia Eliani,LI Haoye,Christina Baret,,0,0,0,,,,31011231011
+1,Malaysia,11,Emylia Eliani,LI Haoye,Christina Baret,,0,0,0,,,,31011231011
+1,Malaysia,11,Emylia Eliani,LI Haoye,Christina Baret,,0,0,0,,,,31011231011
+1,Malaysia,11,Emylia Eliani,LI Haoye,Christina Baret,,0,0,0,bowled,Emylia Eliani,,31011231011
+1,Malaysia,11,Sasha Azmi,LI Haoye,Christina Baret,,0,1,1,,,,31011231011
+1,Malaysia,11,Christina Baret,LI Haoye,Sasha Azmi,,0,0,0,,,,31011231011
+1,Malaysia,12,Sasha Azmi,Han Lili,Christina Baret,,0,0,0,,,,31011231011
+1,Malaysia,12,Sasha Azmi,Han Lili,Christina Baret,,0,0,0,caught,Sasha Azmi,F Song,31011231011
+1,Malaysia,12,Zumika Azmi,Han Lili,Christina Baret,,0,0,0,,,,31011231011
+1,Malaysia,12,Zumika Azmi,Han Lili,Christina Baret,,0,1,1,,,,31011231011
+1,Malaysia,12,Christina Baret,Han Lili,Zumika Azmi,,0,0,0,,,,31011231011
+1,Malaysia,12,Christina Baret,Han Lili,Zumika Azmi,,0,1,1,,,,31011231011
+1,Malaysia,13,Christina Baret,LI Haoye,Zumika Azmi,,0,0,0,,,,31011231011
+1,Malaysia,13,Christina Baret,LI Haoye,Zumika Azmi,,0,0,0,,,,31011231011
+1,Malaysia,13,Christina Baret,LI Haoye,Zumika Azmi,,0,0,0,,,,31011231011
+1,Malaysia,13,Christina Baret,LI Haoye,Zumika Azmi,,0,1,1,,,,31011231011
+1,Malaysia,13,Zumika Azmi,LI Haoye,Christina Baret,,0,1,1,,,,31011231011
+1,Malaysia,13,Christina Baret,LI Haoye,Zumika Azmi,,0,0,0,,,,31011231011
+1,Malaysia,14,Zumika Azmi,Han Lili,Christina Baret,,0,2,2,,,,31011231011
+1,Malaysia,14,Zumika Azmi,Han Lili,Christina Baret,,0,0,0,,,,31011231011
+1,Malaysia,14,Zumika Azmi,Han Lili,Christina Baret,,0,1,1,,,,31011231011
+1,Malaysia,14,Christina Baret,Han Lili,Zumika Azmi,,0,1,1,,,,31011231011
+1,Malaysia,14,Zumika Azmi,Han Lili,Christina Baret,,0,0,0,,,,31011231011
+1,Malaysia,14,Zumika Azmi,Han Lili,Christina Baret,,0,0,0,,,,31011231011
+1,Malaysia,15,Christina Baret,F Song,Zumika Azmi,,0,0,0,,,,31011231011
+1,Malaysia,15,Christina Baret,F Song,Zumika Azmi,,0,0,0,,,,31011231011
+1,Malaysia,15,Christina Baret,F Song,Zumika Azmi,,0,1,1,,,,31011231011
+1,Malaysia,15,Zumika Azmi,F Song,Christina Baret,,0,0,0,,,,31011231011
+1,Malaysia,15,Zumika Azmi,F Song,Christina Baret,,0,2,2,,,,31011231011
+1,Malaysia,15,Zumika Azmi,F Song,Christina Baret,,0,1,1,,,,31011231011
+1,Malaysia,16,Zumika Azmi,L Jie,Christina Baret,,0,0,0,,,,31011231011
+1,Malaysia,16,Zumika Azmi,L Jie,Christina Baret,,0,1,1,,,,31011231011
+1,Malaysia,16,Christina Baret,L Jie,Zumika Azmi,,0,1,1,,,,31011231011
+1,Malaysia,16,Zumika Azmi,L Jie,Christina Baret,,0,1,1,,,,31011231011
+1,Malaysia,16,Christina Baret,L Jie,Zumika Azmi,byes,1,1,0,,,,31011231011
+1,Malaysia,16,Zumika Azmi,L Jie,Christina Baret,,0,0,0,,,,31011231011
+1,Malaysia,17,Christina Baret,F Song,Zumika Azmi,,0,0,0,bowled,Christina Baret,,31011231011
+1,Malaysia,17,Nur Nadihirah,F Song,Zumika Azmi,,0,0,0,,,,31011231011
+1,Malaysia,17,Nur Nadihirah,F Song,Zumika Azmi,,0,1,1,,,,31011231011
+1,Malaysia,17,Zumika Azmi,F Song,Nur Nadihirah,,0,2,2,,,,31011231011
+1,Malaysia,17,Zumika Azmi,F Song,Nur Nadihirah,,0,0,0,,,,31011231011
+1,Malaysia,17,Zumika Azmi,F Song,Nur Nadihirah,,0,1,1,,,,31011231011
+1,Malaysia,18,Zumika Azmi,L Jie,Nur Nadihirah,wides,1,1,0,,,,31011231011
+1,Malaysia,18,Zumika Azmi,L Jie,Nur Nadihirah,,0,0,0,,,,31011231011
+1,Malaysia,18,Zumika Azmi,L Jie,Nur Nadihirah,,0,1,1,,,,31011231011
+1,Malaysia,18,Nur Nadihirah,L Jie,Zumika Azmi,,0,0,0,lbw,Nur Nadihirah,,31011231011
+1,Malaysia,18,Nur Arianna Natsya,L Jie,Zumika Azmi,,0,0,0,,,,31011231011
+1,Malaysia,18,Nur Arianna Natsya,L Jie,Zumika Azmi,,0,0,0,,,,31011231011
+1,Malaysia,18,Nur Arianna Natsya,L Jie,Zumika Azmi,,0,0,0,bowled,Nur Arianna Natsya,,31011231011
+1,Malaysia,19,Zumika Azmi,Wu Juan,Wan Nor Zulaika,,0,0,0,,,,31011231011
+1,Malaysia,19,Zumika Azmi,Wu Juan,Wan Nor Zulaika,,0,2,2,,,,31011231011
+1,Malaysia,19,Zumika Azmi,Wu Juan,Wan Nor Zulaika,,0,1,1,,,,31011231011
+1,Malaysia,19,Wan Nor Zulaika,Wu Juan,Zumika Azmi,,0,0,0,,,,31011231011
+1,Malaysia,19,Wan Nor Zulaika,Wu Juan,Zumika Azmi,,0,0,0,,,,31011231011
+1,Malaysia,19,Wan Nor Zulaika,Wu Juan,Zumika Azmi,legbyes,1,1,0,,,,31011231011

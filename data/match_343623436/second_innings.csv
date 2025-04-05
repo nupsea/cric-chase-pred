@@ -1,0 +1,93 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Ireland,0,CMA Shillington,S Ismail,MV Waldron,,0,0,0,,,,343623436
+2,Ireland,0,CMA Shillington,S Ismail,MV Waldron,,0,1,1,,,,343623436
+2,Ireland,0,MV Waldron,S Ismail,CMA Shillington,,0,1,1,,,,343623436
+2,Ireland,0,CMA Shillington,S Ismail,MV Waldron,,0,0,0,,,,343623436
+2,Ireland,0,CMA Shillington,S Ismail,MV Waldron,,0,0,0,bowled,CMA Shillington,,343623436
+2,Ireland,0,IMHC Joyce,S Ismail,MV Waldron,,0,0,0,,,,343623436
+2,Ireland,1,MV Waldron,CL Tryon,IMHC Joyce,noballs,1,1,0,,,,343623436
+2,Ireland,1,MV Waldron,CL Tryon,IMHC Joyce,,0,0,0,,,,343623436
+2,Ireland,1,MV Waldron,CL Tryon,IMHC Joyce,,0,0,0,,,,343623436
+2,Ireland,1,MV Waldron,CL Tryon,IMHC Joyce,,0,4,4,,,,343623436
+2,Ireland,1,MV Waldron,CL Tryon,IMHC Joyce,,0,0,0,,,,343623436
+2,Ireland,1,MV Waldron,CL Tryon,IMHC Joyce,,0,0,0,,,,343623436
+2,Ireland,1,MV Waldron,CL Tryon,IMHC Joyce,,0,4,4,,,,343623436
+2,Ireland,2,IMHC Joyce,S Ismail,MV Waldron,,0,0,0,,,,343623436
+2,Ireland,2,IMHC Joyce,S Ismail,MV Waldron,,0,0,0,,,,343623436
+2,Ireland,2,IMHC Joyce,S Ismail,MV Waldron,,0,0,0,,,,343623436
+2,Ireland,2,IMHC Joyce,S Ismail,MV Waldron,,0,0,0,,,,343623436
+2,Ireland,2,IMHC Joyce,S Ismail,MV Waldron,,0,1,1,,,,343623436
+2,Ireland,2,MV Waldron,S Ismail,IMHC Joyce,,0,0,0,,,,343623436
+2,Ireland,3,IMHC Joyce,S Loubser,MV Waldron,,0,0,0,,,,343623436
+2,Ireland,3,IMHC Joyce,S Loubser,MV Waldron,,0,0,0,,,,343623436
+2,Ireland,3,IMHC Joyce,S Loubser,MV Waldron,,0,1,1,,,,343623436
+2,Ireland,3,MV Waldron,S Loubser,IMHC Joyce,,0,4,4,,,,343623436
+2,Ireland,3,MV Waldron,S Loubser,IMHC Joyce,,0,4,4,,,,343623436
+2,Ireland,3,MV Waldron,S Loubser,IMHC Joyce,,0,0,0,,,,343623436
+2,Ireland,4,IMHC Joyce,CL Tryon,MV Waldron,,0,0,0,,,,343623436
+2,Ireland,4,IMHC Joyce,CL Tryon,MV Waldron,,0,1,1,,,,343623436
+2,Ireland,4,MV Waldron,CL Tryon,IMHC Joyce,,0,4,4,,,,343623436
+2,Ireland,4,MV Waldron,CL Tryon,IMHC Joyce,,0,0,0,,,,343623436
+2,Ireland,4,MV Waldron,CL Tryon,IMHC Joyce,,0,0,0,,,,343623436
+2,Ireland,4,MV Waldron,CL Tryon,IMHC Joyce,,0,0,0,,,,343623436
+2,Ireland,5,IMHC Joyce,M Kapp,MV Waldron,,0,0,0,,,,343623436
+2,Ireland,5,IMHC Joyce,M Kapp,MV Waldron,,0,0,0,,,,343623436
+2,Ireland,5,IMHC Joyce,M Kapp,MV Waldron,,0,1,1,,,,343623436
+2,Ireland,5,MV Waldron,M Kapp,IMHC Joyce,,0,0,0,,,,343623436
+2,Ireland,5,MV Waldron,M Kapp,IMHC Joyce,,0,0,0,,,,343623436
+2,Ireland,5,MV Waldron,M Kapp,IMHC Joyce,,0,0,0,,,,343623436
+2,Ireland,6,IMHC Joyce,MM Letsoalo,MV Waldron,,0,1,1,,,,343623436
+2,Ireland,6,MV Waldron,MM Letsoalo,IMHC Joyce,,0,0,0,,,,343623436
+2,Ireland,6,MV Waldron,MM Letsoalo,IMHC Joyce,,0,0,0,,,,343623436
+2,Ireland,6,MV Waldron,MM Letsoalo,IMHC Joyce,,0,1,1,,,,343623436
+2,Ireland,6,IMHC Joyce,MM Letsoalo,MV Waldron,,0,1,1,,,,343623436
+2,Ireland,6,MV Waldron,MM Letsoalo,IMHC Joyce,,0,1,1,,,,343623436
+2,Ireland,7,MV Waldron,M Kapp,IMHC Joyce,,0,4,4,,,,343623436
+2,Ireland,7,MV Waldron,M Kapp,IMHC Joyce,,0,0,0,,,,343623436
+2,Ireland,7,MV Waldron,M Kapp,IMHC Joyce,,0,1,1,,,,343623436
+2,Ireland,7,IMHC Joyce,M Kapp,MV Waldron,,0,1,1,,,,343623436
+2,Ireland,7,MV Waldron,M Kapp,IMHC Joyce,,0,1,1,,,,343623436
+2,Ireland,7,IMHC Joyce,M Kapp,MV Waldron,,0,0,0,,,,343623436
+2,Ireland,8,MV Waldron,MM Letsoalo,IMHC Joyce,,0,4,4,,,,343623436
+2,Ireland,8,MV Waldron,MM Letsoalo,IMHC Joyce,,0,0,0,,,,343623436
+2,Ireland,8,MV Waldron,MM Letsoalo,IMHC Joyce,,0,0,0,stumped,MV Waldron,T Chetty,343623436
+2,Ireland,8,MEMO Scott-Hayward,MM Letsoalo,IMHC Joyce,,0,1,1,,,,343623436
+2,Ireland,8,IMHC Joyce,MM Letsoalo,MEMO Scott-Hayward,,0,2,2,,,,343623436
+2,Ireland,8,IMHC Joyce,MM Letsoalo,MEMO Scott-Hayward,,0,4,4,,,,343623436
+2,Ireland,9,MEMO Scott-Hayward,D van Niekerk,IMHC Joyce,,0,2,2,,,,343623436
+2,Ireland,9,MEMO Scott-Hayward,D van Niekerk,IMHC Joyce,,0,2,2,,,,343623436
+2,Ireland,9,MEMO Scott-Hayward,D van Niekerk,IMHC Joyce,,0,1,1,,,,343623436
+2,Ireland,9,IMHC Joyce,D van Niekerk,MEMO Scott-Hayward,,0,2,2,,,,343623436
+2,Ireland,9,IMHC Joyce,D van Niekerk,MEMO Scott-Hayward,,0,0,0,lbw,IMHC Joyce,,343623436
+2,Ireland,9,EJ Tice,D van Niekerk,MEMO Scott-Hayward,,0,1,1,,,,343623436
+2,Ireland,10,EJ Tice,S Loubser,MEMO Scott-Hayward,,0,0,0,,,,343623436
+2,Ireland,10,EJ Tice,S Loubser,MEMO Scott-Hayward,,0,1,1,,,,343623436
+2,Ireland,10,MEMO Scott-Hayward,S Loubser,EJ Tice,,0,1,1,,,,343623436
+2,Ireland,10,EJ Tice,S Loubser,MEMO Scott-Hayward,,0,1,1,,,,343623436
+2,Ireland,10,MEMO Scott-Hayward,S Loubser,EJ Tice,,0,1,1,,,,343623436
+2,Ireland,10,EJ Tice,S Loubser,MEMO Scott-Hayward,,0,0,0,,,,343623436
+2,Ireland,11,MEMO Scott-Hayward,MM Letsoalo,EJ Tice,,0,2,2,,,,343623436
+2,Ireland,11,MEMO Scott-Hayward,MM Letsoalo,EJ Tice,,0,4,4,,,,343623436
+2,Ireland,11,MEMO Scott-Hayward,MM Letsoalo,EJ Tice,,0,0,0,,,,343623436
+2,Ireland,11,MEMO Scott-Hayward,MM Letsoalo,EJ Tice,,0,0,0,caught,MEMO Scott-Hayward,Y van der Westhuizen,343623436
+2,Ireland,11,EJ Tice,MM Letsoalo,J Gray,,0,1,1,,,,343623436
+2,Ireland,11,J Gray,MM Letsoalo,EJ Tice,,0,1,1,,,,343623436
+2,Ireland,12,J Gray,S Ismail,EJ Tice,,0,1,1,,,,343623436
+2,Ireland,12,EJ Tice,S Ismail,J Gray,,0,0,0,bowled,EJ Tice,,343623436
+2,Ireland,12,EAJ Richardson,S Ismail,J Gray,,0,0,0,,,,343623436
+2,Ireland,12,EAJ Richardson,S Ismail,J Gray,,0,0,0,,,,343623436
+2,Ireland,12,EAJ Richardson,S Ismail,J Gray,,0,0,0,bowled,EAJ Richardson,,343623436
+2,Ireland,12,LN McCarthy,S Ismail,J Gray,,0,1,1,,,,343623436
+2,Ireland,13,LN McCarthy,S Loubser,J Gray,,0,1,1,,,,343623436
+2,Ireland,13,J Gray,S Loubser,LN McCarthy,,0,1,1,,,,343623436
+2,Ireland,13,LN McCarthy,S Loubser,J Gray,,0,1,1,,,,343623436
+2,Ireland,13,J Gray,S Loubser,LN McCarthy,,0,1,1,,,,343623436
+2,Ireland,13,LN McCarthy,S Loubser,J Gray,,0,1,1,,,,343623436
+2,Ireland,13,J Gray,S Loubser,LN McCarthy,,0,1,1,,,,343623436
+2,Ireland,14,J Gray,D van Niekerk,LN McCarthy,,0,1,1,,,,343623436
+2,Ireland,14,LN McCarthy,D van Niekerk,J Gray,,0,1,1,,,,343623436
+2,Ireland,14,J Gray,D van Niekerk,LN McCarthy,,0,0,0,stumped,J Gray,T Chetty,343623436
+2,Ireland,14,K McKenna,D van Niekerk,LN McCarthy,,0,0,0,,,,343623436
+2,Ireland,14,K McKenna,D van Niekerk,LN McCarthy,,0,0,0,,,,343623436
+2,Ireland,14,K McKenna,D van Niekerk,LN McCarthy,,0,0,0,caught,K McKenna,S Loubser,343623436
+2,Ireland,15,LN McCarthy,M Kapp,AJ Kenealy,,0,0,0,caught,LN McCarthy,T Chetty,343623436

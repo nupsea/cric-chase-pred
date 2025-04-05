@@ -1,0 +1,102 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Ireland,0,PR Stirling,Bilal Khan,KJ O'Brien,,0,4,4,,,,31247231247
+2,Ireland,0,PR Stirling,Bilal Khan,KJ O'Brien,,0,0,0,,,,31247231247
+2,Ireland,0,PR Stirling,Bilal Khan,KJ O'Brien,,0,0,0,,,,31247231247
+2,Ireland,0,PR Stirling,Bilal Khan,KJ O'Brien,,0,0,0,,,,31247231247
+2,Ireland,0,PR Stirling,Bilal Khan,KJ O'Brien,,0,0,0,,,,31247231247
+2,Ireland,0,PR Stirling,Bilal Khan,KJ O'Brien,,0,0,0,caught,PR Stirling,Mohammad Nadeem,31247231247
+2,Ireland,1,KJ O'Brien,Fayyaz Butt,A Balbirnie,,0,1,1,,,,31247231247
+2,Ireland,1,A Balbirnie,Fayyaz Butt,KJ O'Brien,,0,4,4,,,,31247231247
+2,Ireland,1,A Balbirnie,Fayyaz Butt,KJ O'Brien,,0,0,0,,,,31247231247
+2,Ireland,1,A Balbirnie,Fayyaz Butt,KJ O'Brien,,0,0,0,,,,31247231247
+2,Ireland,1,A Balbirnie,Fayyaz Butt,KJ O'Brien,,0,4,4,,,,31247231247
+2,Ireland,1,A Balbirnie,Fayyaz Butt,KJ O'Brien,,0,0,0,,,,31247231247
+2,Ireland,2,KJ O'Brien,Bilal Khan,A Balbirnie,,0,2,2,,,,31247231247
+2,Ireland,2,KJ O'Brien,Bilal Khan,A Balbirnie,,0,0,0,,,,31247231247
+2,Ireland,2,KJ O'Brien,Bilal Khan,A Balbirnie,,0,1,1,,,,31247231247
+2,Ireland,2,A Balbirnie,Bilal Khan,KJ O'Brien,,0,1,1,,,,31247231247
+2,Ireland,2,KJ O'Brien,Bilal Khan,A Balbirnie,,0,1,1,,,,31247231247
+2,Ireland,2,A Balbirnie,Bilal Khan,KJ O'Brien,,0,4,4,,,,31247231247
+2,Ireland,3,KJ O'Brien,Fayyaz Butt,A Balbirnie,,0,6,6,,,,31247231247
+2,Ireland,3,KJ O'Brien,Fayyaz Butt,A Balbirnie,,0,6,6,,,,31247231247
+2,Ireland,3,KJ O'Brien,Fayyaz Butt,A Balbirnie,,0,1,1,,,,31247231247
+2,Ireland,3,A Balbirnie,Fayyaz Butt,KJ O'Brien,,0,0,0,,,,31247231247
+2,Ireland,3,A Balbirnie,Fayyaz Butt,KJ O'Brien,,0,1,1,,,,31247231247
+2,Ireland,3,KJ O'Brien,Fayyaz Butt,A Balbirnie,wides,1,1,0,,,,31247231247
+2,Ireland,3,KJ O'Brien,Fayyaz Butt,A Balbirnie,,0,4,4,,,,31247231247
+2,Ireland,4,A Balbirnie,Aamir Kaleem,KJ O'Brien,noballs,1,5,4,,,,31247231247
+2,Ireland,4,A Balbirnie,Aamir Kaleem,KJ O'Brien,,0,0,0,,,,31247231247
+2,Ireland,4,A Balbirnie,Aamir Kaleem,KJ O'Brien,,0,1,1,,,,31247231247
+2,Ireland,4,KJ O'Brien,Aamir Kaleem,A Balbirnie,,0,6,6,,,,31247231247
+2,Ireland,4,KJ O'Brien,Aamir Kaleem,A Balbirnie,,0,1,1,,,,31247231247
+2,Ireland,4,A Balbirnie,Aamir Kaleem,KJ O'Brien,,0,0,0,caught,A Balbirnie,Mohammad Nadeem,31247231247
+2,Ireland,4,KJ O'Brien,Aamir Kaleem,GJ Delany,,0,0,0,,,,31247231247
+2,Ireland,5,GJ Delany,Zeeshan Maqsood,KJ O'Brien,,0,0,0,,,,31247231247
+2,Ireland,5,GJ Delany,Zeeshan Maqsood,KJ O'Brien,,0,0,0,,,,31247231247
+2,Ireland,5,GJ Delany,Zeeshan Maqsood,KJ O'Brien,,0,1,1,,,,31247231247
+2,Ireland,5,KJ O'Brien,Zeeshan Maqsood,GJ Delany,,0,0,0,,,,31247231247
+2,Ireland,5,KJ O'Brien,Zeeshan Maqsood,GJ Delany,,0,6,6,,,,31247231247
+2,Ireland,5,KJ O'Brien,Zeeshan Maqsood,GJ Delany,,0,4,4,,,,31247231247
+2,Ireland,6,GJ Delany,Aamir Kaleem,KJ O'Brien,,0,2,2,,,,31247231247
+2,Ireland,6,GJ Delany,Aamir Kaleem,KJ O'Brien,,0,1,1,,,,31247231247
+2,Ireland,6,KJ O'Brien,Aamir Kaleem,GJ Delany,,0,0,0,caught,KJ O'Brien,Mohammad Nadeem,31247231247
+2,Ireland,6,GJ Delany,Aamir Kaleem,HT Tector,,0,2,2,,,,31247231247
+2,Ireland,6,GJ Delany,Aamir Kaleem,HT Tector,,0,3,3,,,,31247231247
+2,Ireland,6,HT Tector,Aamir Kaleem,GJ Delany,,0,1,1,,,,31247231247
+2,Ireland,7,HT Tector,Zeeshan Maqsood,GJ Delany,,0,1,1,,,,31247231247
+2,Ireland,7,GJ Delany,Zeeshan Maqsood,HT Tector,,0,1,1,,,,31247231247
+2,Ireland,7,HT Tector,Zeeshan Maqsood,GJ Delany,,0,4,4,,,,31247231247
+2,Ireland,7,HT Tector,Zeeshan Maqsood,GJ Delany,,0,1,1,,,,31247231247
+2,Ireland,7,GJ Delany,Zeeshan Maqsood,HT Tector,,0,1,1,,,,31247231247
+2,Ireland,7,HT Tector,Zeeshan Maqsood,GJ Delany,,0,4,4,,,,31247231247
+2,Ireland,8,GJ Delany,Mohammad Nadeem,HT Tector,,0,0,0,,,,31247231247
+2,Ireland,8,GJ Delany,Mohammad Nadeem,HT Tector,,0,0,0,bowled,GJ Delany,,31247231247
+2,Ireland,8,GC Wilson,Mohammad Nadeem,HT Tector,,0,0,0,,,,31247231247
+2,Ireland,8,GC Wilson,Mohammad Nadeem,HT Tector,,0,1,1,,,,31247231247
+2,Ireland,8,HT Tector,Mohammad Nadeem,GC Wilson,,0,1,1,,,,31247231247
+2,Ireland,8,GC Wilson,Mohammad Nadeem,HT Tector,,0,1,1,,,,31247231247
+2,Ireland,9,GC Wilson,Khawar Ali,HT Tector,wides,1,1,0,,,,31247231247
+2,Ireland,9,GC Wilson,Khawar Ali,HT Tector,,0,1,1,,,,31247231247
+2,Ireland,9,HT Tector,Khawar Ali,GC Wilson,,0,0,0,lbw,HT Tector,,31247231247
+2,Ireland,9,SC Getkate,Khawar Ali,GC Wilson,,0,1,1,,,,31247231247
+2,Ireland,9,GC Wilson,Khawar Ali,SC Getkate,,0,1,1,,,,31247231247
+2,Ireland,9,SC Getkate,Khawar Ali,GC Wilson,,0,1,1,,,,31247231247
+2,Ireland,9,GC Wilson,Khawar Ali,SC Getkate,,0,1,1,,,,31247231247
+2,Ireland,10,GC Wilson,Mohammad Nadeem,SC Getkate,,0,0,0,caught,GC Wilson,Suraj Kumar,31247231247
+2,Ireland,10,SR Thompson,Mohammad Nadeem,SC Getkate,,0,0,0,,,,31247231247
+2,Ireland,10,SR Thompson,Mohammad Nadeem,SC Getkate,,0,0,0,,,,31247231247
+2,Ireland,10,SR Thompson,Mohammad Nadeem,SC Getkate,,0,1,1,,,,31247231247
+2,Ireland,10,SC Getkate,Mohammad Nadeem,SR Thompson,,0,1,1,,,,31247231247
+2,Ireland,10,SR Thompson,Mohammad Nadeem,SC Getkate,,0,2,2,,,,31247231247
+2,Ireland,11,SC Getkate,Khawar Ali,SR Thompson,,0,1,1,,,,31247231247
+2,Ireland,11,SR Thompson,Khawar Ali,SC Getkate,,0,2,2,,,,31247231247
+2,Ireland,11,SR Thompson,Khawar Ali,SC Getkate,,0,4,4,,,,31247231247
+2,Ireland,11,SR Thompson,Khawar Ali,SC Getkate,,0,1,1,,,,31247231247
+2,Ireland,11,SC Getkate,Khawar Ali,SR Thompson,,0,0,0,caught and bowled,SC Getkate,,31247231247
+2,Ireland,11,MR Adair,Khawar Ali,SR Thompson,,0,1,1,,,,31247231247
+2,Ireland,12,MR Adair,Mohammad Nadeem,SR Thompson,,0,0,0,,,,31247231247
+2,Ireland,12,MR Adair,Mohammad Nadeem,SR Thompson,,0,0,0,,,,31247231247
+2,Ireland,12,MR Adair,Mohammad Nadeem,SR Thompson,,0,1,1,,,,31247231247
+2,Ireland,12,SR Thompson,Mohammad Nadeem,MR Adair,,0,0,0,,,,31247231247
+2,Ireland,12,SR Thompson,Mohammad Nadeem,MR Adair,,0,0,0,bowled,SR Thompson,,31247231247
+2,Ireland,12,GH Dockrell,Mohammad Nadeem,MR Adair,,0,1,1,,,,31247231247
+2,Ireland,13,GH Dockrell,Khawar Ali,MR Adair,,0,1,1,,,,31247231247
+2,Ireland,13,MR Adair,Khawar Ali,GH Dockrell,,0,2,2,,,,31247231247
+2,Ireland,13,MR Adair,Khawar Ali,GH Dockrell,,0,1,1,,,,31247231247
+2,Ireland,13,GH Dockrell,Khawar Ali,MR Adair,,0,1,1,,,,31247231247
+2,Ireland,13,MR Adair,Khawar Ali,GH Dockrell,,0,0,0,,,,31247231247
+2,Ireland,13,MR Adair,Khawar Ali,GH Dockrell,,0,1,1,,,,31247231247
+2,Ireland,14,MR Adair,Mohammad Nadeem,GH Dockrell,,0,0,0,,,,31247231247
+2,Ireland,14,MR Adair,Mohammad Nadeem,GH Dockrell,,0,2,2,,,,31247231247
+2,Ireland,14,MR Adair,Mohammad Nadeem,GH Dockrell,,0,1,1,,,,31247231247
+2,Ireland,14,GH Dockrell,Mohammad Nadeem,MR Adair,,0,1,1,,,,31247231247
+2,Ireland,14,MR Adair,Mohammad Nadeem,GH Dockrell,,0,0,0,,,,31247231247
+2,Ireland,14,MR Adair,Mohammad Nadeem,GH Dockrell,,0,1,1,,,,31247231247
+2,Ireland,15,MR Adair,Khawar Ali,GH Dockrell,,0,1,1,,,,31247231247
+2,Ireland,15,GH Dockrell,Khawar Ali,MR Adair,,0,1,1,,,,31247231247
+2,Ireland,15,MR Adair,Khawar Ali,GH Dockrell,,0,2,2,,,,31247231247
+2,Ireland,15,MR Adair,Khawar Ali,GH Dockrell,,0,2,2,,,,31247231247
+2,Ireland,15,MR Adair,Khawar Ali,GH Dockrell,,0,1,1,,,,31247231247
+2,Ireland,15,GH Dockrell,Khawar Ali,MR Adair,,0,0,0,lbw,GH Dockrell,,31247231247
+2,Ireland,16,MR Adair,Bilal Khan,CA Young,,0,2,2,,,,31247231247
+2,Ireland,16,MR Adair,Bilal Khan,CA Young,,0,0,0,caught,MR Adair,Jatinder Singh,31247231247

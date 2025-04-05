@@ -1,0 +1,127 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Guernsey,0,J Butler,ND Laegsgaard,TCR Kimber,,0,1,1,,,,31167231167
+1,Guernsey,0,TCR Kimber,ND Laegsgaard,J Butler,,0,0,0,,,,31167231167
+1,Guernsey,0,TCR Kimber,ND Laegsgaard,J Butler,,0,1,1,,,,31167231167
+1,Guernsey,0,J Butler,ND Laegsgaard,TCR Kimber,,0,0,0,,,,31167231167
+1,Guernsey,0,J Butler,ND Laegsgaard,TCR Kimber,,0,0,0,,,,31167231167
+1,Guernsey,0,J Butler,ND Laegsgaard,TCR Kimber,,0,0,0,,,,31167231167
+1,Guernsey,1,TCR Kimber,OD Hald,J Butler,,0,0,0,,,,31167231167
+1,Guernsey,1,TCR Kimber,OD Hald,J Butler,,0,0,0,,,,31167231167
+1,Guernsey,1,TCR Kimber,OD Hald,J Butler,,0,1,1,,,,31167231167
+1,Guernsey,1,J Butler,OD Hald,TCR Kimber,,0,1,1,,,,31167231167
+1,Guernsey,1,TCR Kimber,OD Hald,J Butler,,0,0,0,caught,TCR Kimber,Zishan Shah,31167231167
+1,Guernsey,1,LJ Barker,OD Hald,J Butler,,0,1,1,,,,31167231167
+1,Guernsey,2,LJ Barker,ND Laegsgaard,J Butler,,0,0,0,,,,31167231167
+1,Guernsey,2,LJ Barker,ND Laegsgaard,J Butler,,0,1,1,,,,31167231167
+1,Guernsey,2,J Butler,ND Laegsgaard,LJ Barker,,0,0,0,,,,31167231167
+1,Guernsey,2,J Butler,ND Laegsgaard,LJ Barker,,0,1,1,,,,31167231167
+1,Guernsey,2,LJ Barker,ND Laegsgaard,J Butler,,0,0,0,,,,31167231167
+1,Guernsey,2,LJ Barker,ND Laegsgaard,J Butler,,0,2,2,,,,31167231167
+1,Guernsey,3,J Butler,OD Hald,LJ Barker,,0,1,1,,,,31167231167
+1,Guernsey,3,LJ Barker,OD Hald,J Butler,,0,0,0,,,,31167231167
+1,Guernsey,3,LJ Barker,OD Hald,J Butler,wides,1,1,0,,,,31167231167
+1,Guernsey,3,LJ Barker,OD Hald,J Butler,,0,1,1,,,,31167231167
+1,Guernsey,3,J Butler,OD Hald,LJ Barker,,0,0,0,,,,31167231167
+1,Guernsey,3,J Butler,OD Hald,LJ Barker,wides,1,1,0,,,,31167231167
+1,Guernsey,3,J Butler,OD Hald,LJ Barker,,0,0,0,,,,31167231167
+1,Guernsey,3,J Butler,OD Hald,LJ Barker,,0,2,2,,,,31167231167
+1,Guernsey,4,LJ Barker,J Jojo,J Butler,,0,0,0,,,,31167231167
+1,Guernsey,4,LJ Barker,J Jojo,J Butler,,0,4,4,,,,31167231167
+1,Guernsey,4,LJ Barker,J Jojo,J Butler,,0,0,0,,,,31167231167
+1,Guernsey,4,LJ Barker,J Jojo,J Butler,,0,1,1,,,,31167231167
+1,Guernsey,4,J Butler,J Jojo,LJ Barker,,0,0,0,,,,31167231167
+1,Guernsey,4,J Butler,J Jojo,LJ Barker,,0,2,2,,,,31167231167
+1,Guernsey,5,LJ Barker,Delawar Khan,J Butler,,0,0,0,,,,31167231167
+1,Guernsey,5,LJ Barker,Delawar Khan,J Butler,,0,0,0,,,,31167231167
+1,Guernsey,5,LJ Barker,Delawar Khan,J Butler,,0,1,1,,,,31167231167
+1,Guernsey,5,J Butler,Delawar Khan,LJ Barker,,0,1,1,,,,31167231167
+1,Guernsey,5,LJ Barker,Delawar Khan,J Butler,,0,1,1,,,,31167231167
+1,Guernsey,5,J Butler,Delawar Khan,LJ Barker,,0,1,1,,,,31167231167
+1,Guernsey,6,J Butler,J Jojo,LJ Barker,,0,0,0,,,,31167231167
+1,Guernsey,6,J Butler,J Jojo,LJ Barker,,0,1,1,,,,31167231167
+1,Guernsey,6,LJ Barker,J Jojo,J Butler,,0,1,1,,,,31167231167
+1,Guernsey,6,J Butler,J Jojo,LJ Barker,,0,4,4,,,,31167231167
+1,Guernsey,6,J Butler,J Jojo,LJ Barker,,0,1,1,,,,31167231167
+1,Guernsey,6,LJ Barker,J Jojo,J Butler,,0,1,1,,,,31167231167
+1,Guernsey,7,LJ Barker,Delawar Khan,J Butler,,0,0,0,,,,31167231167
+1,Guernsey,7,LJ Barker,Delawar Khan,J Butler,,0,4,4,,,,31167231167
+1,Guernsey,7,LJ Barker,Delawar Khan,J Butler,,0,1,1,,,,31167231167
+1,Guernsey,7,J Butler,Delawar Khan,LJ Barker,,0,1,1,,,,31167231167
+1,Guernsey,7,LJ Barker,Delawar Khan,J Butler,,0,1,1,,,,31167231167
+1,Guernsey,7,J Butler,Delawar Khan,LJ Barker,,0,0,0,bowled,J Butler,,31167231167
+1,Guernsey,8,LJ Barker,ND Laegsgaard,MWR Stokes,,0,0,0,bowled,LJ Barker,,31167231167
+1,Guernsey,8,LB Ferbrache,ND Laegsgaard,MWR Stokes,,0,0,0,,,,31167231167
+1,Guernsey,8,LB Ferbrache,ND Laegsgaard,MWR Stokes,,0,1,1,,,,31167231167
+1,Guernsey,8,MWR Stokes,ND Laegsgaard,LB Ferbrache,,0,0,0,,,,31167231167
+1,Guernsey,8,MWR Stokes,ND Laegsgaard,LB Ferbrache,,0,1,1,,,,31167231167
+1,Guernsey,8,LB Ferbrache,ND Laegsgaard,MWR Stokes,,0,2,2,,,,31167231167
+1,Guernsey,9,MWR Stokes,Bashir Shah,LB Ferbrache,wides,1,1,0,,,,31167231167
+1,Guernsey,9,MWR Stokes,Bashir Shah,LB Ferbrache,,0,0,0,,,,31167231167
+1,Guernsey,9,MWR Stokes,Bashir Shah,LB Ferbrache,,0,1,1,,,,31167231167
+1,Guernsey,9,LB Ferbrache,Bashir Shah,MWR Stokes,,0,1,1,,,,31167231167
+1,Guernsey,9,MWR Stokes,Bashir Shah,LB Ferbrache,,0,1,1,,,,31167231167
+1,Guernsey,9,LB Ferbrache,Bashir Shah,MWR Stokes,,0,1,1,,,,31167231167
+1,Guernsey,9,MWR Stokes,Bashir Shah,LB Ferbrache,,0,0,0,,,,31167231167
+1,Guernsey,10,LB Ferbrache,ND Laegsgaard,MWR Stokes,,0,1,1,,,,31167231167
+1,Guernsey,10,MWR Stokes,ND Laegsgaard,LB Ferbrache,,0,0,0,,,,31167231167
+1,Guernsey,10,MWR Stokes,ND Laegsgaard,LB Ferbrache,,0,1,1,,,,31167231167
+1,Guernsey,10,LB Ferbrache,ND Laegsgaard,MWR Stokes,,0,1,1,,,,31167231167
+1,Guernsey,10,MWR Stokes,ND Laegsgaard,LB Ferbrache,,0,0,0,,,,31167231167
+1,Guernsey,10,MWR Stokes,ND Laegsgaard,LB Ferbrache,,0,0,0,caught,MWR Stokes,HAM Shah,31167231167
+1,Guernsey,11,LB Ferbrache,Bashir Shah,DR Hooper,,0,0,0,,,,31167231167
+1,Guernsey,11,LB Ferbrache,Bashir Shah,DR Hooper,,0,1,1,,,,31167231167
+1,Guernsey,11,DR Hooper,Bashir Shah,LB Ferbrache,,0,0,0,bowled,DR Hooper,,31167231167
+1,Guernsey,11,OE Newey,Bashir Shah,LB Ferbrache,,0,1,1,,,,31167231167
+1,Guernsey,11,LB Ferbrache,Bashir Shah,OE Newey,,0,1,1,,,,31167231167
+1,Guernsey,11,OE Newey,Bashir Shah,LB Ferbrache,wides,5,5,0,,,,31167231167
+1,Guernsey,11,OE Newey,Bashir Shah,LB Ferbrache,legbyes,1,1,0,,,,31167231167
+1,Guernsey,12,OE Newey,OD Hald,LB Ferbrache,,0,1,1,,,,31167231167
+1,Guernsey,12,LB Ferbrache,OD Hald,OE Newey,,0,1,1,,,,31167231167
+1,Guernsey,12,OE Newey,OD Hald,LB Ferbrache,,0,1,1,,,,31167231167
+1,Guernsey,12,LB Ferbrache,OD Hald,OE Newey,,0,1,1,,,,31167231167
+1,Guernsey,12,OE Newey,OD Hald,LB Ferbrache,,0,1,1,,,,31167231167
+1,Guernsey,12,LB Ferbrache,OD Hald,OE Newey,,0,1,1,,,,31167231167
+1,Guernsey,13,LB Ferbrache,Bashir Shah,OE Newey,,0,0,0,,,,31167231167
+1,Guernsey,13,LB Ferbrache,Bashir Shah,OE Newey,,0,0,0,,,,31167231167
+1,Guernsey,13,LB Ferbrache,Bashir Shah,OE Newey,,0,1,1,,,,31167231167
+1,Guernsey,13,OE Newey,Bashir Shah,LB Ferbrache,,0,0,0,,,,31167231167
+1,Guernsey,13,OE Newey,Bashir Shah,LB Ferbrache,,0,0,0,,,,31167231167
+1,Guernsey,13,OE Newey,Bashir Shah,LB Ferbrache,,0,0,0,,,,31167231167
+1,Guernsey,14,LB Ferbrache,OD Hald,OE Newey,,0,0,0,,,,31167231167
+1,Guernsey,14,LB Ferbrache,OD Hald,OE Newey,wides,1,1,0,,,,31167231167
+1,Guernsey,14,LB Ferbrache,OD Hald,OE Newey,,0,1,1,,,,31167231167
+1,Guernsey,14,OE Newey,OD Hald,LB Ferbrache,,0,0,0,,,,31167231167
+1,Guernsey,14,OE Newey,OD Hald,LB Ferbrache,,0,2,2,,,,31167231167
+1,Guernsey,14,OE Newey,OD Hald,LB Ferbrache,,0,1,1,,,,31167231167
+1,Guernsey,14,LB Ferbrache,OD Hald,OE Newey,,0,0,0,,,,31167231167
+1,Guernsey,15,OE Newey,Bashir Shah,LB Ferbrache,,0,0,0,,,,31167231167
+1,Guernsey,15,OE Newey,Bashir Shah,LB Ferbrache,,0,1,1,,,,31167231167
+1,Guernsey,15,LB Ferbrache,Bashir Shah,OE Newey,,0,1,1,,,,31167231167
+1,Guernsey,15,OE Newey,Bashir Shah,LB Ferbrache,,0,1,1,,,,31167231167
+1,Guernsey,15,LB Ferbrache,Bashir Shah,OE Newey,,0,2,2,,,,31167231167
+1,Guernsey,15,LB Ferbrache,Bashir Shah,OE Newey,,0,0,0,bowled,LB Ferbrache,,31167231167
+1,Guernsey,16,OE Newey,J Jojo,LC Le Tissier,,0,2,2,,,,31167231167
+1,Guernsey,16,OE Newey,J Jojo,LC Le Tissier,,0,1,1,,,,31167231167
+1,Guernsey,16,LC Le Tissier,J Jojo,OE Newey,,0,0,0,,,,31167231167
+1,Guernsey,16,LC Le Tissier,J Jojo,OE Newey,,0,0,0,,,,31167231167
+1,Guernsey,16,LC Le Tissier,J Jojo,OE Newey,,0,2,2,,,,31167231167
+1,Guernsey,16,LC Le Tissier,J Jojo,OE Newey,,0,2,2,,,,31167231167
+1,Guernsey,17,OE Newey,Delawar Khan,LC Le Tissier,,0,4,4,,,,31167231167
+1,Guernsey,17,OE Newey,Delawar Khan,LC Le Tissier,,0,1,1,,,,31167231167
+1,Guernsey,17,LC Le Tissier,Delawar Khan,OE Newey,,0,4,4,,,,31167231167
+1,Guernsey,17,LC Le Tissier,Delawar Khan,OE Newey,byes,1,1,0,,,,31167231167
+1,Guernsey,17,OE Newey,Delawar Khan,LC Le Tissier,noballs,1,2,1,,,,31167231167
+1,Guernsey,17,LC Le Tissier,Delawar Khan,OE Newey,,0,1,1,,,,31167231167
+1,Guernsey,17,OE Newey,Delawar Khan,LC Le Tissier,,0,0,0,run out,LC Le Tissier,,31167231167
+1,Guernsey,18,OE Newey,J Jojo,JL Martel,,0,1,1,,,,31167231167
+1,Guernsey,18,JL Martel,J Jojo,OE Newey,,0,0,0,,,,31167231167
+1,Guernsey,18,JL Martel,J Jojo,OE Newey,,0,1,1,,,,31167231167
+1,Guernsey,18,OE Newey,J Jojo,JL Martel,,0,2,2,,,,31167231167
+1,Guernsey,18,OE Newey,J Jojo,JL Martel,,0,0,0,,,,31167231167
+1,Guernsey,18,OE Newey,J Jojo,JL Martel,,0,2,2,,,,31167231167
+1,Guernsey,19,JL Martel,Delawar Khan,OE Newey,,0,1,1,,,,31167231167
+1,Guernsey,19,OE Newey,Delawar Khan,JL Martel,,0,0,0,,,,31167231167
+1,Guernsey,19,OE Newey,Delawar Khan,JL Martel,byes,1,1,0,,,,31167231167
+1,Guernsey,19,JL Martel,Delawar Khan,OE Newey,,0,4,4,,,,31167231167
+1,Guernsey,19,JL Martel,Delawar Khan,OE Newey,,0,6,6,,,,31167231167
+1,Guernsey,19,JL Martel,Delawar Khan,OE Newey,,0,1,1,,,,31167231167

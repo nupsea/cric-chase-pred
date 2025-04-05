@@ -1,0 +1,78 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Germany,0,VB Chikkannaiah,U Shahid,Abdul-Shakoor Rahimzei,,0,1,1,,,,31585231585
+2,Germany,0,Abdul-Shakoor Rahimzei,U Shahid,VB Chikkannaiah,,0,0,0,,,,31585231585
+2,Germany,0,Abdul-Shakoor Rahimzei,U Shahid,VB Chikkannaiah,,0,0,0,stumped,Abdul-Shakoor Rahimzei,HA Jackson,31585231585
+2,Germany,0,Talha Khan,U Shahid,VB Chikkannaiah,,0,0,0,,,,31585231585
+2,Germany,0,Talha Khan,U Shahid,VB Chikkannaiah,wides,3,3,0,,,,31585231585
+2,Germany,0,Talha Khan,U Shahid,VB Chikkannaiah,,0,1,1,,,,31585231585
+2,Germany,0,VB Chikkannaiah,U Shahid,Talha Khan,,0,4,4,,,,31585231585
+2,Germany,1,Talha Khan,Dawood Ahmadzai,VB Chikkannaiah,,0,0,0,,,,31585231585
+2,Germany,1,Talha Khan,Dawood Ahmadzai,VB Chikkannaiah,,0,1,1,,,,31585231585
+2,Germany,1,VB Chikkannaiah,Dawood Ahmadzai,Talha Khan,,0,1,1,,,,31585231585
+2,Germany,1,Talha Khan,Dawood Ahmadzai,VB Chikkannaiah,,0,0,0,,,,31585231585
+2,Germany,1,Talha Khan,Dawood Ahmadzai,VB Chikkannaiah,,0,0,0,caught,Talha Khan,Rahmatullah Mangal,31585231585
+2,Germany,1,VB Chikkannaiah,Dawood Ahmadzai,DA Blignaut,,0,0,0,,,,31585231585
+2,Germany,2,DA Blignaut,U Shahid,VB Chikkannaiah,,0,0,0,,,,31585231585
+2,Germany,2,DA Blignaut,U Shahid,VB Chikkannaiah,,0,1,1,,,,31585231585
+2,Germany,2,VB Chikkannaiah,U Shahid,DA Blignaut,,0,0,0,caught,VB Chikkannaiah,Jubaid Ahamed,31585231585
+2,Germany,2,H Singh,U Shahid,DA Blignaut,,0,4,4,,,,31585231585
+2,Germany,2,H Singh,U Shahid,DA Blignaut,,0,0,0,,,,31585231585
+2,Germany,2,H Singh,U Shahid,DA Blignaut,,0,2,2,,,,31585231585
+2,Germany,3,DA Blignaut,Dawood Ahmadzai,H Singh,,0,3,3,,,,31585231585
+2,Germany,3,H Singh,Dawood Ahmadzai,DA Blignaut,,0,1,1,,,,31585231585
+2,Germany,3,DA Blignaut,Dawood Ahmadzai,H Singh,,0,0,0,,,,31585231585
+2,Germany,3,DA Blignaut,Dawood Ahmadzai,H Singh,,0,0,0,,,,31585231585
+2,Germany,3,DA Blignaut,Dawood Ahmadzai,H Singh,,0,1,1,,,,31585231585
+2,Germany,3,H Singh,Dawood Ahmadzai,DA Blignaut,,0,4,4,,,,31585231585
+2,Germany,4,DA Blignaut,Rahmatullah Mangal,H Singh,,0,0,0,bowled,DA Blignaut,,31585231585
+2,Germany,4,V Ganesan,Rahmatullah Mangal,H Singh,,0,0,0,,,,31585231585
+2,Germany,4,V Ganesan,Rahmatullah Mangal,H Singh,,0,0,0,,,,31585231585
+2,Germany,4,V Ganesan,Rahmatullah Mangal,H Singh,,0,0,0,,,,31585231585
+2,Germany,4,V Ganesan,Rahmatullah Mangal,H Singh,,0,0,0,,,,31585231585
+2,Germany,4,V Ganesan,Rahmatullah Mangal,H Singh,,0,2,2,,,,31585231585
+2,Germany,5,H Singh,Usman Khan,V Ganesan,wides,1,1,0,,,,31585231585
+2,Germany,5,H Singh,Usman Khan,V Ganesan,wides,1,1,0,,,,31585231585
+2,Germany,5,H Singh,Usman Khan,V Ganesan,,0,0,0,run out,V Ganesan,Jubaid Ahamed,31585231585
+2,Germany,5,H Singh,Usman Khan,Sahir Naqash,,0,4,4,,,,31585231585
+2,Germany,5,H Singh,Usman Khan,Sahir Naqash,,0,0,0,,,,31585231585
+2,Germany,5,H Singh,Usman Khan,Sahir Naqash,,0,1,1,,,,31585231585
+2,Germany,5,Sahir Naqash,Usman Khan,H Singh,,0,0,0,,,,31585231585
+2,Germany,5,Sahir Naqash,Usman Khan,H Singh,,0,0,0,,,,31585231585
+2,Germany,6,H Singh,Rahmatullah Mangal,Sahir Naqash,,0,4,4,,,,31585231585
+2,Germany,6,H Singh,Rahmatullah Mangal,Sahir Naqash,,0,3,3,,,,31585231585
+2,Germany,6,Sahir Naqash,Rahmatullah Mangal,H Singh,,0,1,1,,,,31585231585
+2,Germany,6,H Singh,Rahmatullah Mangal,Sahir Naqash,,0,4,4,,,,31585231585
+2,Germany,6,H Singh,Rahmatullah Mangal,Sahir Naqash,,0,4,4,,,,31585231585
+2,Germany,6,H Singh,Rahmatullah Mangal,Sahir Naqash,,0,4,4,,,,31585231585
+2,Germany,7,Sahir Naqash,Dawood Ahmadzai,H Singh,,0,1,1,,,,31585231585
+2,Germany,7,H Singh,Dawood Ahmadzai,Sahir Naqash,,0,0,0,,,,31585231585
+2,Germany,7,H Singh,Dawood Ahmadzai,Sahir Naqash,,0,3,3,,,,31585231585
+2,Germany,7,Sahir Naqash,Dawood Ahmadzai,H Singh,,0,0,0,,,,31585231585
+2,Germany,7,Sahir Naqash,Dawood Ahmadzai,H Singh,,0,0,0,,,,31585231585
+2,Germany,7,Sahir Naqash,Dawood Ahmadzai,H Singh,,0,0,0,,,,31585231585
+2,Germany,8,H Singh,Mobashar Ashraf,Sahir Naqash,,0,1,1,,,,31585231585
+2,Germany,8,Sahir Naqash,Mobashar Ashraf,H Singh,,0,1,1,,,,31585231585
+2,Germany,8,H Singh,Mobashar Ashraf,Sahir Naqash,,0,1,1,,,,31585231585
+2,Germany,8,Sahir Naqash,Mobashar Ashraf,H Singh,,0,4,4,,,,31585231585
+2,Germany,8,Sahir Naqash,Mobashar Ashraf,H Singh,,0,0,0,,,,31585231585
+2,Germany,8,Sahir Naqash,Mobashar Ashraf,H Singh,,0,0,0,bowled,Sahir Naqash,,31585231585
+2,Germany,9,H Singh,Dawood Ahmadzai,H Srinivasan,,0,0,0,,,,31585231585
+2,Germany,9,H Singh,Dawood Ahmadzai,H Srinivasan,,0,4,4,,,,31585231585
+2,Germany,9,H Singh,Dawood Ahmadzai,H Srinivasan,,0,1,1,,,,31585231585
+2,Germany,9,H Srinivasan,Dawood Ahmadzai,H Singh,,0,1,1,,,,31585231585
+2,Germany,9,H Singh,Dawood Ahmadzai,H Srinivasan,,0,0,0,,,,31585231585
+2,Germany,9,H Singh,Dawood Ahmadzai,H Srinivasan,,0,1,1,,,,31585231585
+2,Germany,10,H Singh,U Shahid,H Srinivasan,,0,1,1,,,,31585231585
+2,Germany,10,H Srinivasan,U Shahid,H Singh,,0,0,0,,,,31585231585
+2,Germany,10,H Srinivasan,U Shahid,H Singh,,0,1,1,,,,31585231585
+2,Germany,10,H Singh,U Shahid,H Srinivasan,,0,2,2,,,,31585231585
+2,Germany,10,H Singh,U Shahid,H Srinivasan,,0,1,1,,,,31585231585
+2,Germany,10,H Srinivasan,U Shahid,H Singh,,0,0,0,caught,H Srinivasan,Mustafa Omer,31585231585
+2,Germany,11,H Singh,Mobashar Ashraf,Nooruddin Mujadady,,0,4,4,,,,31585231585
+2,Germany,11,H Singh,Mobashar Ashraf,Nooruddin Mujadady,,0,0,0,,,,31585231585
+2,Germany,11,H Singh,Mobashar Ashraf,Nooruddin Mujadady,,0,0,0,,,,31585231585
+2,Germany,11,H Singh,Mobashar Ashraf,Nooruddin Mujadady,,0,6,6,,,,31585231585
+2,Germany,11,H Singh,Mobashar Ashraf,Nooruddin Mujadady,,0,0,0,,,,31585231585
+2,Germany,11,H Singh,Mobashar Ashraf,Nooruddin Mujadady,,0,0,0,run out,Nooruddin Mujadady,Virk Ali,31585231585
+2,Germany,12,H Singh,U Shahid,Ghulam Ahmadi,,0,4,4,,,,31585231585
+2,Germany,12,H Singh,U Shahid,Ghulam Ahmadi,,0,4,4,,,,31585231585

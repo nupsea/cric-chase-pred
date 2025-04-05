@@ -1,0 +1,93 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,United States of America,0,JS Malhotra,Mohammad Naveed,XM Marshall,,0,0,0,,,,31055231055
+1,United States of America,0,JS Malhotra,Mohammad Naveed,XM Marshall,noballs,1,5,4,,,,31055231055
+1,United States of America,0,JS Malhotra,Mohammad Naveed,XM Marshall,,0,1,1,,,,31055231055
+1,United States of America,0,XM Marshall,Mohammad Naveed,JS Malhotra,,0,0,0,,,,31055231055
+1,United States of America,0,XM Marshall,Mohammad Naveed,JS Malhotra,,0,0,0,,,,31055231055
+1,United States of America,0,XM Marshall,Mohammad Naveed,JS Malhotra,,0,0,0,,,,31055231055
+1,United States of America,0,XM Marshall,Mohammad Naveed,JS Malhotra,,0,1,1,,,,31055231055
+1,United States of America,1,XM Marshall,Sultan Ahmed,JS Malhotra,,0,0,0,,,,31055231055
+1,United States of America,1,XM Marshall,Sultan Ahmed,JS Malhotra,,0,0,0,,,,31055231055
+1,United States of America,1,XM Marshall,Sultan Ahmed,JS Malhotra,,0,0,0,bowled,XM Marshall,,31055231055
+1,United States of America,1,SR Taylor,Sultan Ahmed,JS Malhotra,,0,6,6,,,,31055231055
+1,United States of America,1,SR Taylor,Sultan Ahmed,JS Malhotra,,0,0,0,,,,31055231055
+1,United States of America,1,SR Taylor,Sultan Ahmed,JS Malhotra,,0,0,0,,,,31055231055
+1,United States of America,2,JS Malhotra,Mohammad Naveed,SR Taylor,,0,1,1,,,,31055231055
+1,United States of America,2,SR Taylor,Mohammad Naveed,JS Malhotra,,0,1,1,,,,31055231055
+1,United States of America,2,JS Malhotra,Mohammad Naveed,SR Taylor,,0,4,4,,,,31055231055
+1,United States of America,2,JS Malhotra,Mohammad Naveed,SR Taylor,,0,1,1,,,,31055231055
+1,United States of America,2,SR Taylor,Mohammad Naveed,JS Malhotra,,0,4,4,,,,31055231055
+1,United States of America,2,SR Taylor,Mohammad Naveed,JS Malhotra,,0,0,0,,,,31055231055
+1,United States of America,3,JS Malhotra,Sultan Ahmed,SR Taylor,,0,0,0,,,,31055231055
+1,United States of America,3,JS Malhotra,Sultan Ahmed,SR Taylor,,0,1,1,,,,31055231055
+1,United States of America,3,SR Taylor,Sultan Ahmed,JS Malhotra,,0,0,0,,,,31055231055
+1,United States of America,3,SR Taylor,Sultan Ahmed,JS Malhotra,,0,1,1,,,,31055231055
+1,United States of America,3,JS Malhotra,Sultan Ahmed,SR Taylor,,0,4,4,,,,31055231055
+1,United States of America,3,JS Malhotra,Sultan Ahmed,SR Taylor,,0,1,1,,,,31055231055
+1,United States of America,4,JS Malhotra,Rohan Mustafa,SR Taylor,,0,4,4,,,,31055231055
+1,United States of America,4,JS Malhotra,Rohan Mustafa,SR Taylor,legbyes,1,1,0,,,,31055231055
+1,United States of America,4,SR Taylor,Rohan Mustafa,JS Malhotra,,0,6,6,,,,31055231055
+1,United States of America,4,SR Taylor,Rohan Mustafa,JS Malhotra,,0,0,0,,,,31055231055
+1,United States of America,4,SR Taylor,Rohan Mustafa,JS Malhotra,,0,4,4,,,,31055231055
+1,United States of America,4,SR Taylor,Rohan Mustafa,JS Malhotra,,0,1,1,,,,31055231055
+1,United States of America,5,SR Taylor,Zahoor Khan,JS Malhotra,,0,0,0,,,,31055231055
+1,United States of America,5,SR Taylor,Zahoor Khan,JS Malhotra,,0,4,4,,,,31055231055
+1,United States of America,5,SR Taylor,Zahoor Khan,JS Malhotra,,0,1,1,,,,31055231055
+1,United States of America,5,JS Malhotra,Zahoor Khan,SR Taylor,,0,1,1,,,,31055231055
+1,United States of America,5,SR Taylor,Zahoor Khan,JS Malhotra,,0,4,4,,,,31055231055
+1,United States of America,5,SR Taylor,Zahoor Khan,JS Malhotra,,0,0,0,,,,31055231055
+1,United States of America,6,JS Malhotra,Rohan Mustafa,SR Taylor,,0,1,1,,,,31055231055
+1,United States of America,6,SR Taylor,Rohan Mustafa,JS Malhotra,,0,0,0,,,,31055231055
+1,United States of America,6,SR Taylor,Rohan Mustafa,JS Malhotra,,0,1,1,,,,31055231055
+1,United States of America,6,JS Malhotra,Rohan Mustafa,SR Taylor,,0,0,0,,,,31055231055
+1,United States of America,6,JS Malhotra,Rohan Mustafa,SR Taylor,,0,0,0,,,,31055231055
+1,United States of America,6,JS Malhotra,Rohan Mustafa,SR Taylor,,0,1,1,,,,31055231055
+1,United States of America,7,JS Malhotra,Ahmed Raza,SR Taylor,,0,1,1,,,,31055231055
+1,United States of America,7,SR Taylor,Ahmed Raza,JS Malhotra,,0,4,4,,,,31055231055
+1,United States of America,7,SR Taylor,Ahmed Raza,JS Malhotra,,0,0,0,,,,31055231055
+1,United States of America,7,SR Taylor,Ahmed Raza,JS Malhotra,,0,6,6,,,,31055231055
+1,United States of America,7,SR Taylor,Ahmed Raza,JS Malhotra,,0,1,1,,,,31055231055
+1,United States of America,7,JS Malhotra,Ahmed Raza,SR Taylor,,0,1,1,,,,31055231055
+1,United States of America,8,JS Malhotra,Ashfaq Ahmed,SR Taylor,,0,1,1,,,,31055231055
+1,United States of America,8,SR Taylor,Ashfaq Ahmed,JS Malhotra,,0,1,1,,,,31055231055
+1,United States of America,8,JS Malhotra,Ashfaq Ahmed,SR Taylor,,0,1,1,,,,31055231055
+1,United States of America,8,SR Taylor,Ashfaq Ahmed,JS Malhotra,,0,1,1,,,,31055231055
+1,United States of America,8,JS Malhotra,Ashfaq Ahmed,SR Taylor,,0,0,0,caught,JS Malhotra,Sultan Ahmed,31055231055
+1,United States of America,8,MD Patel,Ashfaq Ahmed,SR Taylor,,0,0,0,,,,31055231055
+1,United States of America,9,SR Taylor,Zahoor Khan,MD Patel,,0,4,4,,,,31055231055
+1,United States of America,9,SR Taylor,Zahoor Khan,MD Patel,,0,4,4,,,,31055231055
+1,United States of America,9,SR Taylor,Zahoor Khan,MD Patel,,0,1,1,,,,31055231055
+1,United States of America,9,MD Patel,Zahoor Khan,SR Taylor,,0,1,1,,,,31055231055
+1,United States of America,9,SR Taylor,Zahoor Khan,MD Patel,,0,4,4,,,,31055231055
+1,United States of America,9,SR Taylor,Zahoor Khan,MD Patel,,0,1,1,,,,31055231055
+1,United States of America,10,SR Taylor,Ashfaq Ahmed,MD Patel,,0,2,2,,,,31055231055
+1,United States of America,10,SR Taylor,Ashfaq Ahmed,MD Patel,,0,1,1,,,,31055231055
+1,United States of America,10,MD Patel,Ashfaq Ahmed,SR Taylor,,0,1,1,,,,31055231055
+1,United States of America,10,SR Taylor,Ashfaq Ahmed,MD Patel,,0,4,4,,,,31055231055
+1,United States of America,10,SR Taylor,Ashfaq Ahmed,MD Patel,,0,1,1,,,,31055231055
+1,United States of America,10,MD Patel,Ashfaq Ahmed,SR Taylor,,0,1,1,,,,31055231055
+1,United States of America,11,MD Patel,Sultan Ahmed,SR Taylor,byes,4,4,0,,,,31055231055
+1,United States of America,11,MD Patel,Sultan Ahmed,SR Taylor,wides,5,5,0,,,,31055231055
+1,United States of America,11,MD Patel,Sultan Ahmed,SR Taylor,,0,1,1,,,,31055231055
+1,United States of America,11,SR Taylor,Sultan Ahmed,MD Patel,,0,1,1,,,,31055231055
+1,United States of America,11,MD Patel,Sultan Ahmed,SR Taylor,,0,1,1,,,,31055231055
+1,United States of America,11,SR Taylor,Sultan Ahmed,MD Patel,,0,1,1,,,,31055231055
+1,United States of America,11,MD Patel,Sultan Ahmed,SR Taylor,,0,4,4,,,,31055231055
+1,United States of America,12,SR Taylor,Rohan Mustafa,MD Patel,,0,1,1,,,,31055231055
+1,United States of America,12,MD Patel,Rohan Mustafa,SR Taylor,,0,0,0,,,,31055231055
+1,United States of America,12,MD Patel,Rohan Mustafa,SR Taylor,,0,0,0,run out,MD Patel,,31055231055
+1,United States of America,12,SR Taylor,Rohan Mustafa,KRP Silva,,0,1,1,,,,31055231055
+1,United States of America,12,KRP Silva,Rohan Mustafa,SR Taylor,,0,4,4,,,,31055231055
+1,United States of America,12,KRP Silva,Rohan Mustafa,SR Taylor,,0,2,2,,,,31055231055
+1,United States of America,13,SR Taylor,Mohammad Naveed,KRP Silva,,0,0,0,caught,SR Taylor,Sultan Ahmed,31055231055
+1,United States of America,13,KRP Silva,Mohammad Naveed,HR Walsh,,0,1,1,,,,31055231055
+1,United States of America,13,HR Walsh,Mohammad Naveed,KRP Silva,,0,1,1,,,,31055231055
+1,United States of America,13,KRP Silva,Mohammad Naveed,HR Walsh,,0,6,6,,,,31055231055
+1,United States of America,13,KRP Silva,Mohammad Naveed,HR Walsh,,0,6,6,,,,31055231055
+1,United States of America,13,KRP Silva,Mohammad Naveed,HR Walsh,,0,6,6,,,,31055231055
+1,United States of America,14,HR Walsh,Zahoor Khan,KRP Silva,,0,4,4,,,,31055231055
+1,United States of America,14,HR Walsh,Zahoor Khan,KRP Silva,,0,0,0,,,,31055231055
+1,United States of America,14,HR Walsh,Zahoor Khan,KRP Silva,,0,0,0,hit wicket,HR Walsh,,31055231055
+1,United States of America,14,Aaron Jones,Zahoor Khan,KRP Silva,,0,1,1,,,,31055231055
+1,United States of America,14,KRP Silva,Zahoor Khan,Aaron Jones,,0,0,0,run out,KRP Silva,,31055231055
+1,United States of America,14,Jasdeep Singh,Zahoor Khan,Aaron Jones,,0,0,0,caught,Jasdeep Singh,Rohan Mustafa,31055231055

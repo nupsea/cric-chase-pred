@@ -1,0 +1,44 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Oman,0,Khawar Ali,CM Akachukwu,Jatinder Singh,wides,1,1,0,,,,31295231295
+2,Oman,0,Khawar Ali,CM Akachukwu,Jatinder Singh,,0,0,0,,,,31295231295
+2,Oman,0,Khawar Ali,CM Akachukwu,Jatinder Singh,,0,0,0,,,,31295231295
+2,Oman,0,Khawar Ali,CM Akachukwu,Jatinder Singh,,0,1,1,,,,31295231295
+2,Oman,0,Jatinder Singh,CM Akachukwu,Khawar Ali,legbyes,1,1,0,,,,31295231295
+2,Oman,0,Khawar Ali,CM Akachukwu,Jatinder Singh,,0,1,1,,,,31295231295
+2,Oman,0,Jatinder Singh,CM Akachukwu,Khawar Ali,,0,4,4,,,,31295231295
+2,Oman,1,Khawar Ali,D Ajekun,Jatinder Singh,,0,6,6,,,,31295231295
+2,Oman,1,Khawar Ali,D Ajekun,Jatinder Singh,,0,4,4,,,,31295231295
+2,Oman,1,Khawar Ali,D Ajekun,Jatinder Singh,byes,1,1,0,,,,31295231295
+2,Oman,1,Jatinder Singh,D Ajekun,Khawar Ali,,0,0,0,,,,31295231295
+2,Oman,1,Jatinder Singh,D Ajekun,Khawar Ali,,0,4,4,,,,31295231295
+2,Oman,1,Jatinder Singh,D Ajekun,Khawar Ali,,0,4,4,,,,31295231295
+2,Oman,2,Khawar Ali,IO Okpe,Jatinder Singh,,0,1,1,,,,31295231295
+2,Oman,2,Jatinder Singh,IO Okpe,Khawar Ali,,0,4,4,,,,31295231295
+2,Oman,2,Jatinder Singh,IO Okpe,Khawar Ali,,0,1,1,,,,31295231295
+2,Oman,2,Khawar Ali,IO Okpe,Jatinder Singh,,0,0,0,,,,31295231295
+2,Oman,2,Khawar Ali,IO Okpe,Jatinder Singh,,0,0,0,caught,Khawar Ali,JO Adedeji,31295231295
+2,Oman,2,Jatinder Singh,IO Okpe,Aqib Ilyas,,0,1,1,,,,31295231295
+2,Oman,3,Jatinder Singh,AS Abioye,Aqib Ilyas,,0,0,0,,,,31295231295
+2,Oman,3,Jatinder Singh,AS Abioye,Aqib Ilyas,,0,2,2,,,,31295231295
+2,Oman,3,Jatinder Singh,AS Abioye,Aqib Ilyas,,0,0,0,,,,31295231295
+2,Oman,3,Jatinder Singh,AS Abioye,Aqib Ilyas,,0,4,4,,,,31295231295
+2,Oman,3,Jatinder Singh,AS Abioye,Aqib Ilyas,,0,4,4,,,,31295231295
+2,Oman,3,Jatinder Singh,AS Abioye,Aqib Ilyas,,0,4,4,,,,31295231295
+2,Oman,4,Aqib Ilyas,IO Okpe,Jatinder Singh,,0,1,1,,,,31295231295
+2,Oman,4,Jatinder Singh,IO Okpe,Aqib Ilyas,,0,4,4,,,,31295231295
+2,Oman,4,Jatinder Singh,IO Okpe,Aqib Ilyas,,0,6,6,,,,31295231295
+2,Oman,4,Jatinder Singh,IO Okpe,Aqib Ilyas,,0,0,0,,,,31295231295
+2,Oman,4,Jatinder Singh,IO Okpe,Aqib Ilyas,,0,4,4,,,,31295231295
+2,Oman,4,Jatinder Singh,IO Okpe,Aqib Ilyas,,0,1,1,,,,31295231295
+2,Oman,5,Jatinder Singh,SA Okpe,Aqib Ilyas,,0,1,1,,,,31295231295
+2,Oman,5,Aqib Ilyas,SA Okpe,Jatinder Singh,,0,0,0,,,,31295231295
+2,Oman,5,Aqib Ilyas,SA Okpe,Jatinder Singh,,0,1,1,,,,31295231295
+2,Oman,5,Jatinder Singh,SA Okpe,Aqib Ilyas,,0,0,0,,,,31295231295
+2,Oman,5,Jatinder Singh,SA Okpe,Aqib Ilyas,,0,0,0,caught,Jatinder Singh,AS Abioye,31295231295
+2,Oman,5,Khurram Nawaz,SA Okpe,Aqib Ilyas,,0,2,2,,,,31295231295
+2,Oman,6,Aqib Ilyas,Sulaimon Runsewe,Khurram Nawaz,,0,0,0,,,,31295231295
+2,Oman,6,Aqib Ilyas,Sulaimon Runsewe,Khurram Nawaz,,0,0,0,caught,Aqib Ilyas,SA Okpe,31295231295
+2,Oman,6,Khurram Nawaz,Sulaimon Runsewe,Aamir Kaleem,,0,1,1,,,,31295231295
+2,Oman,6,Aamir Kaleem,Sulaimon Runsewe,Khurram Nawaz,,0,0,0,,,,31295231295
+2,Oman,6,Aamir Kaleem,Sulaimon Runsewe,Khurram Nawaz,,0,1,1,,,,31295231295
+2,Oman,6,Khurram Nawaz,Sulaimon Runsewe,Aamir Kaleem,,0,2,2,,,,31295231295

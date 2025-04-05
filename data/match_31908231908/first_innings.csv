@@ -1,0 +1,122 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Canada,0,R Pathan,Bilal Khan,M Spoors,wides,1,1,0,,,,31908231908
+1,Canada,0,R Pathan,Bilal Khan,M Spoors,,0,0,0,,,,31908231908
+1,Canada,0,R Pathan,Bilal Khan,M Spoors,,0,2,2,,,,31908231908
+1,Canada,0,R Pathan,Bilal Khan,M Spoors,,0,2,2,,,,31908231908
+1,Canada,0,R Pathan,Bilal Khan,M Spoors,,0,4,4,,,,31908231908
+1,Canada,0,R Pathan,Bilal Khan,M Spoors,,0,1,1,,,,31908231908
+1,Canada,0,M Spoors,Bilal Khan,R Pathan,,0,0,0,,,,31908231908
+1,Canada,1,R Pathan,Kaleemullah,M Spoors,,0,1,1,,,,31908231908
+1,Canada,1,M Spoors,Kaleemullah,R Pathan,,0,0,0,,,,31908231908
+1,Canada,1,M Spoors,Kaleemullah,R Pathan,,0,0,0,,,,31908231908
+1,Canada,1,M Spoors,Kaleemullah,R Pathan,,0,2,2,,,,31908231908
+1,Canada,1,M Spoors,Kaleemullah,R Pathan,,0,0,0,,,,31908231908
+1,Canada,1,M Spoors,Kaleemullah,R Pathan,,0,4,4,,,,31908231908
+1,Canada,2,R Pathan,Bilal Khan,M Spoors,,0,4,4,,,,31908231908
+1,Canada,2,R Pathan,Bilal Khan,M Spoors,,0,0,0,,,,31908231908
+1,Canada,2,R Pathan,Bilal Khan,M Spoors,,0,4,4,,,,31908231908
+1,Canada,2,R Pathan,Bilal Khan,M Spoors,,0,2,2,,,,31908231908
+1,Canada,2,R Pathan,Bilal Khan,M Spoors,,0,0,0,,,,31908231908
+1,Canada,2,R Pathan,Bilal Khan,M Spoors,,0,1,1,,,,31908231908
+1,Canada,3,R Pathan,Kaleemullah,M Spoors,,0,4,4,,,,31908231908
+1,Canada,3,R Pathan,Kaleemullah,M Spoors,,0,1,1,,,,31908231908
+1,Canada,3,M Spoors,Kaleemullah,R Pathan,,0,0,0,run out,R Pathan,Kaleemullah,31908231908
+1,Canada,3,M Spoors,Kaleemullah,NS Dhaliwal,,0,0,0,,,,31908231908
+1,Canada,3,M Spoors,Kaleemullah,NS Dhaliwal,,0,0,0,,,,31908231908
+1,Canada,3,M Spoors,Kaleemullah,NS Dhaliwal,,0,4,4,,,,31908231908
+1,Canada,4,NS Dhaliwal,Fayyaz Butt,M Spoors,,0,0,0,,,,31908231908
+1,Canada,4,NS Dhaliwal,Fayyaz Butt,M Spoors,,0,1,1,,,,31908231908
+1,Canada,4,M Spoors,Fayyaz Butt,NS Dhaliwal,,0,1,1,,,,31908231908
+1,Canada,4,NS Dhaliwal,Fayyaz Butt,M Spoors,,0,0,0,,,,31908231908
+1,Canada,4,NS Dhaliwal,Fayyaz Butt,M Spoors,,0,0,0,,,,31908231908
+1,Canada,4,NS Dhaliwal,Fayyaz Butt,M Spoors,,0,0,0,,,,31908231908
+1,Canada,5,M Spoors,Kaleemullah,NS Dhaliwal,,0,0,0,,,,31908231908
+1,Canada,5,M Spoors,Kaleemullah,NS Dhaliwal,,0,0,0,caught,M Spoors,Naseem Khushi,31908231908
+1,Canada,5,Ravinderpal Singh,Kaleemullah,NS Dhaliwal,legbyes,1,1,0,,,,31908231908
+1,Canada,5,NS Dhaliwal,Kaleemullah,Ravinderpal Singh,,0,0,0,,,,31908231908
+1,Canada,5,NS Dhaliwal,Kaleemullah,Ravinderpal Singh,,0,0,0,,,,31908231908
+1,Canada,5,NS Dhaliwal,Kaleemullah,Ravinderpal Singh,,0,0,0,,,,31908231908
+1,Canada,6,Ravinderpal Singh,Fayyaz Butt,NS Dhaliwal,,0,1,1,,,,31908231908
+1,Canada,6,NS Dhaliwal,Fayyaz Butt,Ravinderpal Singh,,0,0,0,caught,NS Dhaliwal,KH Prajapati,31908231908
+1,Canada,6,Saad Bin Zafar,Fayyaz Butt,Ravinderpal Singh,,0,0,0,,,,31908231908
+1,Canada,6,Saad Bin Zafar,Fayyaz Butt,Ravinderpal Singh,,0,1,1,,,,31908231908
+1,Canada,6,Ravinderpal Singh,Fayyaz Butt,Saad Bin Zafar,,0,1,1,,,,31908231908
+1,Canada,6,Saad Bin Zafar,Fayyaz Butt,Ravinderpal Singh,,0,0,0,,,,31908231908
+1,Canada,7,Ravinderpal Singh,Kaleemullah,Saad Bin Zafar,,0,1,1,,,,31908231908
+1,Canada,7,Saad Bin Zafar,Kaleemullah,Ravinderpal Singh,,0,1,1,,,,31908231908
+1,Canada,7,Ravinderpal Singh,Kaleemullah,Saad Bin Zafar,,0,0,0,,,,31908231908
+1,Canada,7,Ravinderpal Singh,Kaleemullah,Saad Bin Zafar,,0,0,0,,,,31908231908
+1,Canada,7,Ravinderpal Singh,Kaleemullah,Saad Bin Zafar,,0,1,1,,,,31908231908
+1,Canada,7,Saad Bin Zafar,Kaleemullah,Ravinderpal Singh,,0,0,0,,,,31908231908
+1,Canada,8,Ravinderpal Singh,Zeeshan Maqsood,Saad Bin Zafar,,0,1,1,,,,31908231908
+1,Canada,8,Saad Bin Zafar,Zeeshan Maqsood,Ravinderpal Singh,,0,4,4,,,,31908231908
+1,Canada,8,Saad Bin Zafar,Zeeshan Maqsood,Ravinderpal Singh,,0,0,0,,,,31908231908
+1,Canada,8,Saad Bin Zafar,Zeeshan Maqsood,Ravinderpal Singh,,0,0,0,,,,31908231908
+1,Canada,8,Saad Bin Zafar,Zeeshan Maqsood,Ravinderpal Singh,,0,1,1,,,,31908231908
+1,Canada,8,Ravinderpal Singh,Zeeshan Maqsood,Saad Bin Zafar,,0,0,0,,,,31908231908
+1,Canada,9,Saad Bin Zafar,Khawar Ali,Ravinderpal Singh,,0,0,0,,,,31908231908
+1,Canada,9,Saad Bin Zafar,Khawar Ali,Ravinderpal Singh,,0,6,6,,,,31908231908
+1,Canada,9,Saad Bin Zafar,Khawar Ali,Ravinderpal Singh,,0,1,1,,,,31908231908
+1,Canada,9,Ravinderpal Singh,Khawar Ali,Saad Bin Zafar,,0,1,1,,,,31908231908
+1,Canada,9,Saad Bin Zafar,Khawar Ali,Ravinderpal Singh,,0,1,1,,,,31908231908
+1,Canada,9,Ravinderpal Singh,Khawar Ali,Saad Bin Zafar,,0,1,1,,,,31908231908
+1,Canada,10,Ravinderpal Singh,Zeeshan Maqsood,Saad Bin Zafar,,0,1,1,,,,31908231908
+1,Canada,10,Saad Bin Zafar,Zeeshan Maqsood,Ravinderpal Singh,,0,0,0,,,,31908231908
+1,Canada,10,Saad Bin Zafar,Zeeshan Maqsood,Ravinderpal Singh,legbyes,1,1,0,,,,31908231908
+1,Canada,10,Ravinderpal Singh,Zeeshan Maqsood,Saad Bin Zafar,,0,1,1,,,,31908231908
+1,Canada,10,Saad Bin Zafar,Zeeshan Maqsood,Ravinderpal Singh,,0,1,1,,,,31908231908
+1,Canada,10,Ravinderpal Singh,Zeeshan Maqsood,Saad Bin Zafar,,0,2,2,,,,31908231908
+1,Canada,11,Saad Bin Zafar,Sandeep Goud,Ravinderpal Singh,,0,2,2,,,,31908231908
+1,Canada,11,Saad Bin Zafar,Sandeep Goud,Ravinderpal Singh,,0,1,1,,,,31908231908
+1,Canada,11,Ravinderpal Singh,Sandeep Goud,Saad Bin Zafar,,0,4,4,,,,31908231908
+1,Canada,11,Ravinderpal Singh,Sandeep Goud,Saad Bin Zafar,,0,2,2,,,,31908231908
+1,Canada,11,Ravinderpal Singh,Sandeep Goud,Saad Bin Zafar,,0,2,2,,,,31908231908
+1,Canada,11,Ravinderpal Singh,Sandeep Goud,Saad Bin Zafar,,0,2,2,,,,31908231908
+1,Canada,12,Saad Bin Zafar,Zeeshan Maqsood,Ravinderpal Singh,,0,0,0,,,,31908231908
+1,Canada,12,Saad Bin Zafar,Zeeshan Maqsood,Ravinderpal Singh,,0,1,1,,,,31908231908
+1,Canada,12,Ravinderpal Singh,Zeeshan Maqsood,Saad Bin Zafar,,0,1,1,,,,31908231908
+1,Canada,12,Saad Bin Zafar,Zeeshan Maqsood,Ravinderpal Singh,,0,0,0,bowled,Saad Bin Zafar,,31908231908
+1,Canada,12,Hamza Tariq,Zeeshan Maqsood,Ravinderpal Singh,,0,1,1,,,,31908231908
+1,Canada,12,Ravinderpal Singh,Zeeshan Maqsood,Hamza Tariq,,0,2,2,,,,31908231908
+1,Canada,13,Hamza Tariq,Aamir Kaleem,Ravinderpal Singh,,0,1,1,,,,31908231908
+1,Canada,13,Ravinderpal Singh,Aamir Kaleem,Hamza Tariq,,0,4,4,,,,31908231908
+1,Canada,13,Ravinderpal Singh,Aamir Kaleem,Hamza Tariq,,0,0,0,,,,31908231908
+1,Canada,13,Ravinderpal Singh,Aamir Kaleem,Hamza Tariq,,0,6,6,,,,31908231908
+1,Canada,13,Ravinderpal Singh,Aamir Kaleem,Hamza Tariq,,0,0,0,,,,31908231908
+1,Canada,13,Ravinderpal Singh,Aamir Kaleem,Hamza Tariq,,0,1,1,,,,31908231908
+1,Canada,14,Ravinderpal Singh,Zeeshan Maqsood,Hamza Tariq,,0,1,1,,,,31908231908
+1,Canada,14,Hamza Tariq,Zeeshan Maqsood,Ravinderpal Singh,,0,6,6,,,,31908231908
+1,Canada,14,Hamza Tariq,Zeeshan Maqsood,Ravinderpal Singh,,0,1,1,,,,31908231908
+1,Canada,14,Ravinderpal Singh,Zeeshan Maqsood,Hamza Tariq,,0,1,1,,,,31908231908
+1,Canada,14,Hamza Tariq,Zeeshan Maqsood,Ravinderpal Singh,,0,1,1,,,,31908231908
+1,Canada,14,Ravinderpal Singh,Zeeshan Maqsood,Hamza Tariq,,0,1,1,,,,31908231908
+1,Canada,15,Ravinderpal Singh,Aamir Kaleem,Hamza Tariq,,0,1,1,,,,31908231908
+1,Canada,15,Hamza Tariq,Aamir Kaleem,Ravinderpal Singh,,0,0,0,,,,31908231908
+1,Canada,15,Hamza Tariq,Aamir Kaleem,Ravinderpal Singh,,0,1,1,,,,31908231908
+1,Canada,15,Ravinderpal Singh,Aamir Kaleem,Hamza Tariq,,0,1,1,,,,31908231908
+1,Canada,15,Hamza Tariq,Aamir Kaleem,Ravinderpal Singh,,0,1,1,,,,31908231908
+1,Canada,15,Ravinderpal Singh,Aamir Kaleem,Hamza Tariq,,0,1,1,,,,31908231908
+1,Canada,16,Ravinderpal Singh,Bilal Khan,Hamza Tariq,,0,4,4,,,,31908231908
+1,Canada,16,Ravinderpal Singh,Bilal Khan,Hamza Tariq,,0,1,1,,,,31908231908
+1,Canada,16,Hamza Tariq,Bilal Khan,Ravinderpal Singh,,0,1,1,,,,31908231908
+1,Canada,16,Ravinderpal Singh,Bilal Khan,Hamza Tariq,,0,0,0,,,,31908231908
+1,Canada,16,Ravinderpal Singh,Bilal Khan,Hamza Tariq,,0,0,0,,,,31908231908
+1,Canada,16,Ravinderpal Singh,Bilal Khan,Hamza Tariq,,0,0,0,caught,Ravinderpal Singh,KH Prajapati,31908231908
+1,Canada,17,H Thaker,Fayyaz Butt,Hamza Tariq,,0,6,6,,,,31908231908
+1,Canada,17,H Thaker,Fayyaz Butt,Hamza Tariq,,0,0,0,lbw,H Thaker,,31908231908
+1,Canada,17,D Heyliger,Fayyaz Butt,Hamza Tariq,,0,0,0,,,,31908231908
+1,Canada,17,D Heyliger,Fayyaz Butt,Hamza Tariq,,0,6,6,,,,31908231908
+1,Canada,17,D Heyliger,Fayyaz Butt,Hamza Tariq,,0,4,4,,,,31908231908
+1,Canada,17,D Heyliger,Fayyaz Butt,Hamza Tariq,,0,4,4,,,,31908231908
+1,Canada,18,Hamza Tariq,Bilal Khan,D Heyliger,,0,1,1,,,,31908231908
+1,Canada,18,D Heyliger,Bilal Khan,Hamza Tariq,,0,0,0,,,,31908231908
+1,Canada,18,D Heyliger,Bilal Khan,Hamza Tariq,,0,4,4,,,,31908231908
+1,Canada,18,D Heyliger,Bilal Khan,Hamza Tariq,,0,0,0,,,,31908231908
+1,Canada,18,D Heyliger,Bilal Khan,Hamza Tariq,,0,1,1,,,,31908231908
+1,Canada,18,Hamza Tariq,Bilal Khan,D Heyliger,,0,0,0,,,,31908231908
+1,Canada,19,D Heyliger,Khawar Ali,Hamza Tariq,,0,1,1,,,,31908231908
+1,Canada,19,Hamza Tariq,Khawar Ali,D Heyliger,,0,1,1,,,,31908231908
+1,Canada,19,D Heyliger,Khawar Ali,Hamza Tariq,,0,1,1,,,,31908231908
+1,Canada,19,Hamza Tariq,Khawar Ali,D Heyliger,,0,0,0,,,,31908231908
+1,Canada,19,Hamza Tariq,Khawar Ali,D Heyliger,,0,0,0,,,,31908231908
+1,Canada,19,Hamza Tariq,Khawar Ali,D Heyliger,,0,6,6,,,,31908231908

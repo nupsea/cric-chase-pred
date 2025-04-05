@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,New Zealand,0,KS Williamson,Mashrafe Mortaza,JDS Neesham,,0,0,0,,,,368523685
+1,New Zealand,0,KS Williamson,Mashrafe Mortaza,JDS Neesham,,0,1,1,,,,368523685
+1,New Zealand,0,JDS Neesham,Mashrafe Mortaza,KS Williamson,,0,4,4,,,,368523685
+1,New Zealand,0,JDS Neesham,Mashrafe Mortaza,KS Williamson,,0,4,4,,,,368523685
+1,New Zealand,0,JDS Neesham,Mashrafe Mortaza,KS Williamson,,0,0,0,,,,368523685
+1,New Zealand,0,JDS Neesham,Mashrafe Mortaza,KS Williamson,,0,0,0,,,,368523685
+1,New Zealand,1,KS Williamson,Taskin Ahmed,JDS Neesham,legbyes,1,1,0,,,,368523685
+1,New Zealand,1,JDS Neesham,Taskin Ahmed,KS Williamson,,0,1,1,,,,368523685
+1,New Zealand,1,KS Williamson,Taskin Ahmed,JDS Neesham,,0,0,0,,,,368523685
+1,New Zealand,1,KS Williamson,Taskin Ahmed,JDS Neesham,,0,0,0,,,,368523685
+1,New Zealand,1,KS Williamson,Taskin Ahmed,JDS Neesham,,0,1,1,,,,368523685
+1,New Zealand,1,JDS Neesham,Taskin Ahmed,KS Williamson,wides,1,1,0,,,,368523685
+1,New Zealand,1,JDS Neesham,Taskin Ahmed,KS Williamson,,0,0,0,,,,368523685
+1,New Zealand,2,KS Williamson,Rubel Hossain,JDS Neesham,,0,0,0,,,,368523685
+1,New Zealand,2,KS Williamson,Rubel Hossain,JDS Neesham,,0,1,1,,,,368523685
+1,New Zealand,2,JDS Neesham,Rubel Hossain,KS Williamson,,0,0,0,,,,368523685
+1,New Zealand,2,JDS Neesham,Rubel Hossain,KS Williamson,,0,4,4,,,,368523685
+1,New Zealand,2,JDS Neesham,Rubel Hossain,KS Williamson,,0,1,1,,,,368523685
+1,New Zealand,2,KS Williamson,Rubel Hossain,JDS Neesham,,0,0,0,,,,368523685
+1,New Zealand,3,JDS Neesham,Shakib Al Hasan,KS Williamson,,0,1,1,,,,368523685
+1,New Zealand,3,KS Williamson,Shakib Al Hasan,JDS Neesham,,0,0,0,,,,368523685
+1,New Zealand,3,KS Williamson,Shakib Al Hasan,JDS Neesham,,0,0,0,,,,368523685
+1,New Zealand,3,KS Williamson,Shakib Al Hasan,JDS Neesham,,0,4,4,,,,368523685
+1,New Zealand,3,KS Williamson,Shakib Al Hasan,JDS Neesham,,0,4,4,,,,368523685
+1,New Zealand,3,KS Williamson,Shakib Al Hasan,JDS Neesham,,0,2,2,,,,368523685
+1,New Zealand,4,JDS Neesham,Rubel Hossain,KS Williamson,legbyes,4,4,0,,,,368523685
+1,New Zealand,4,JDS Neesham,Rubel Hossain,KS Williamson,,0,0,0,lbw,JDS Neesham,,368523685
+1,New Zealand,4,C Munro,Rubel Hossain,KS Williamson,legbyes,1,1,0,,,,368523685
+1,New Zealand,4,KS Williamson,Rubel Hossain,C Munro,,0,1,1,,,,368523685
+1,New Zealand,4,C Munro,Rubel Hossain,KS Williamson,,0,0,0,,,,368523685
+1,New Zealand,4,C Munro,Rubel Hossain,KS Williamson,,0,0,0,caught,C Munro,Soumya Sarkar,368523685
+1,New Zealand,5,TC Bruce,Taskin Ahmed,KS Williamson,,0,0,0,,,,368523685
+1,New Zealand,5,TC Bruce,Taskin Ahmed,KS Williamson,,0,4,4,,,,368523685
+1,New Zealand,5,TC Bruce,Taskin Ahmed,KS Williamson,,0,1,1,,,,368523685
+1,New Zealand,5,KS Williamson,Taskin Ahmed,TC Bruce,,0,0,0,,,,368523685
+1,New Zealand,5,KS Williamson,Taskin Ahmed,TC Bruce,,0,0,0,,,,368523685
+1,New Zealand,5,KS Williamson,Taskin Ahmed,TC Bruce,,0,0,0,,,,368523685
+1,New Zealand,6,TC Bruce,Mosaddek Hossain,KS Williamson,,0,0,0,caught,TC Bruce,Imrul Kayes,368523685
+1,New Zealand,6,KS Williamson,Mosaddek Hossain,CJ Anderson,,0,0,0,,,,368523685
+1,New Zealand,6,KS Williamson,Mosaddek Hossain,CJ Anderson,,0,0,0,,,,368523685
+1,New Zealand,6,KS Williamson,Mosaddek Hossain,CJ Anderson,,0,1,1,,,,368523685
+1,New Zealand,6,CJ Anderson,Mosaddek Hossain,KS Williamson,,0,1,1,,,,368523685
+1,New Zealand,6,KS Williamson,Mosaddek Hossain,CJ Anderson,,0,1,1,,,,368523685
+1,New Zealand,7,KS Williamson,Shakib Al Hasan,CJ Anderson,,0,1,1,,,,368523685
+1,New Zealand,7,CJ Anderson,Shakib Al Hasan,KS Williamson,,0,0,0,,,,368523685
+1,New Zealand,7,CJ Anderson,Shakib Al Hasan,KS Williamson,,0,0,0,,,,368523685
+1,New Zealand,7,CJ Anderson,Shakib Al Hasan,KS Williamson,,0,0,0,,,,368523685
+1,New Zealand,7,CJ Anderson,Shakib Al Hasan,KS Williamson,,0,1,1,,,,368523685
+1,New Zealand,7,KS Williamson,Shakib Al Hasan,CJ Anderson,,0,0,0,,,,368523685
+1,New Zealand,8,CJ Anderson,Mosaddek Hossain,KS Williamson,,0,0,0,,,,368523685
+1,New Zealand,8,CJ Anderson,Mosaddek Hossain,KS Williamson,,0,1,1,,,,368523685
+1,New Zealand,8,KS Williamson,Mosaddek Hossain,CJ Anderson,,0,1,1,,,,368523685
+1,New Zealand,8,CJ Anderson,Mosaddek Hossain,KS Williamson,,0,1,1,,,,368523685
+1,New Zealand,8,KS Williamson,Mosaddek Hossain,CJ Anderson,,0,0,0,,,,368523685
+1,New Zealand,8,KS Williamson,Mosaddek Hossain,CJ Anderson,,0,1,1,,,,368523685
+1,New Zealand,9,KS Williamson,Shakib Al Hasan,CJ Anderson,,0,1,1,,,,368523685
+1,New Zealand,9,CJ Anderson,Shakib Al Hasan,KS Williamson,,0,1,1,,,,368523685
+1,New Zealand,9,KS Williamson,Shakib Al Hasan,CJ Anderson,,0,1,1,,,,368523685
+1,New Zealand,9,CJ Anderson,Shakib Al Hasan,KS Williamson,,0,1,1,,,,368523685
+1,New Zealand,9,KS Williamson,Shakib Al Hasan,CJ Anderson,,0,0,0,,,,368523685
+1,New Zealand,9,KS Williamson,Shakib Al Hasan,CJ Anderson,,0,1,1,,,,368523685
+1,New Zealand,10,KS Williamson,Mosaddek Hossain,CJ Anderson,,0,0,0,,,,368523685
+1,New Zealand,10,KS Williamson,Mosaddek Hossain,CJ Anderson,,0,4,4,,,,368523685
+1,New Zealand,10,KS Williamson,Mosaddek Hossain,CJ Anderson,,0,2,2,,,,368523685
+1,New Zealand,10,KS Williamson,Mosaddek Hossain,CJ Anderson,,0,1,1,,,,368523685
+1,New Zealand,10,CJ Anderson,Mosaddek Hossain,KS Williamson,,0,4,4,,,,368523685
+1,New Zealand,10,CJ Anderson,Mosaddek Hossain,KS Williamson,,0,1,1,,,,368523685
+1,New Zealand,11,CJ Anderson,Mashrafe Mortaza,KS Williamson,,0,1,1,,,,368523685
+1,New Zealand,11,KS Williamson,Mashrafe Mortaza,CJ Anderson,,0,1,1,,,,368523685
+1,New Zealand,11,CJ Anderson,Mashrafe Mortaza,KS Williamson,,0,6,6,,,,368523685
+1,New Zealand,11,CJ Anderson,Mashrafe Mortaza,KS Williamson,,0,1,1,,,,368523685
+1,New Zealand,11,KS Williamson,Mashrafe Mortaza,CJ Anderson,,0,1,1,,,,368523685
+1,New Zealand,11,CJ Anderson,Mashrafe Mortaza,KS Williamson,,0,2,2,,,,368523685
+1,New Zealand,12,KS Williamson,Rubel Hossain,CJ Anderson,,0,4,4,,,,368523685
+1,New Zealand,12,KS Williamson,Rubel Hossain,CJ Anderson,,0,2,2,,,,368523685
+1,New Zealand,12,KS Williamson,Rubel Hossain,CJ Anderson,,0,4,4,,,,368523685
+1,New Zealand,12,KS Williamson,Rubel Hossain,CJ Anderson,,0,1,1,,,,368523685
+1,New Zealand,12,CJ Anderson,Rubel Hossain,KS Williamson,,0,1,1,,,,368523685
+1,New Zealand,12,KS Williamson,Rubel Hossain,CJ Anderson,,0,0,0,,,,368523685
+1,New Zealand,13,CJ Anderson,Taskin Ahmed,KS Williamson,,0,1,1,,,,368523685
+1,New Zealand,13,KS Williamson,Taskin Ahmed,CJ Anderson,,0,6,6,,,,368523685
+1,New Zealand,13,KS Williamson,Taskin Ahmed,CJ Anderson,,0,4,4,,,,368523685
+1,New Zealand,13,KS Williamson,Taskin Ahmed,CJ Anderson,,0,0,0,,,,368523685
+1,New Zealand,13,KS Williamson,Taskin Ahmed,CJ Anderson,,0,0,0,,,,368523685
+1,New Zealand,13,KS Williamson,Taskin Ahmed,CJ Anderson,,0,1,1,,,,368523685
+1,New Zealand,14,KS Williamson,Mashrafe Mortaza,CJ Anderson,legbyes,4,4,0,,,,368523685
+1,New Zealand,14,KS Williamson,Mashrafe Mortaza,CJ Anderson,,0,1,1,,,,368523685
+1,New Zealand,14,CJ Anderson,Mashrafe Mortaza,KS Williamson,,0,4,4,,,,368523685
+1,New Zealand,14,CJ Anderson,Mashrafe Mortaza,KS Williamson,,0,6,6,,,,368523685
+1,New Zealand,14,CJ Anderson,Mashrafe Mortaza,KS Williamson,,0,6,6,,,,368523685
+1,New Zealand,14,CJ Anderson,Mashrafe Mortaza,KS Williamson,,0,1,1,,,,368523685
+1,New Zealand,15,CJ Anderson,Shakib Al Hasan,KS Williamson,,0,1,1,,,,368523685
+1,New Zealand,15,KS Williamson,Shakib Al Hasan,CJ Anderson,,0,2,2,,,,368523685
+1,New Zealand,15,KS Williamson,Shakib Al Hasan,CJ Anderson,,0,0,0,,,,368523685
+1,New Zealand,15,KS Williamson,Shakib Al Hasan,CJ Anderson,,0,1,1,,,,368523685
+1,New Zealand,15,CJ Anderson,Shakib Al Hasan,KS Williamson,,0,0,0,,,,368523685
+1,New Zealand,15,CJ Anderson,Shakib Al Hasan,KS Williamson,,0,0,0,,,,368523685
+1,New Zealand,16,KS Williamson,Soumya Sarkar,CJ Anderson,,0,1,1,,,,368523685
+1,New Zealand,16,CJ Anderson,Soumya Sarkar,KS Williamson,,0,6,6,,,,368523685
+1,New Zealand,16,CJ Anderson,Soumya Sarkar,KS Williamson,,0,6,6,,,,368523685
+1,New Zealand,16,CJ Anderson,Soumya Sarkar,KS Williamson,,0,6,6,,,,368523685
+1,New Zealand,16,CJ Anderson,Soumya Sarkar,KS Williamson,,0,2,2,,,,368523685
+1,New Zealand,16,CJ Anderson,Soumya Sarkar,KS Williamson,,0,0,0,,,,368523685
+1,New Zealand,17,KS Williamson,Mashrafe Mortaza,CJ Anderson,,0,1,1,,,,368523685
+1,New Zealand,17,CJ Anderson,Mashrafe Mortaza,KS Williamson,,0,2,2,,,,368523685
+1,New Zealand,17,CJ Anderson,Mosaddek Hossain,KS Williamson,,0,1,1,,,,368523685
+1,New Zealand,17,KS Williamson,Mosaddek Hossain,CJ Anderson,legbyes,4,4,0,,,,368523685
+1,New Zealand,17,KS Williamson,Mosaddek Hossain,CJ Anderson,,0,1,1,,,,368523685
+1,New Zealand,17,CJ Anderson,Mosaddek Hossain,KS Williamson,,0,6,6,,,,368523685
+1,New Zealand,18,KS Williamson,Rubel Hossain,CJ Anderson,,0,0,0,bowled,KS Williamson,,368523685
+1,New Zealand,18,C de Grandhomme,Rubel Hossain,CJ Anderson,,0,2,2,,,,368523685
+1,New Zealand,18,C de Grandhomme,Rubel Hossain,CJ Anderson,,0,1,1,,,,368523685
+1,New Zealand,18,CJ Anderson,Rubel Hossain,C de Grandhomme,,0,2,2,,,,368523685
+1,New Zealand,18,CJ Anderson,Rubel Hossain,C de Grandhomme,,0,6,6,,,,368523685
+1,New Zealand,18,CJ Anderson,Rubel Hossain,C de Grandhomme,,0,1,1,,,,368523685
+1,New Zealand,19,CJ Anderson,Taskin Ahmed,C de Grandhomme,wides,1,1,0,,,,368523685
+1,New Zealand,19,CJ Anderson,Taskin Ahmed,C de Grandhomme,,0,6,6,,,,368523685
+1,New Zealand,19,CJ Anderson,Taskin Ahmed,C de Grandhomme,,0,1,1,,,,368523685
+1,New Zealand,19,C de Grandhomme,Taskin Ahmed,CJ Anderson,,0,1,1,,,,368523685
+1,New Zealand,19,CJ Anderson,Taskin Ahmed,C de Grandhomme,,0,0,0,,,,368523685
+1,New Zealand,19,CJ Anderson,Taskin Ahmed,C de Grandhomme,,0,6,6,,,,368523685
+1,New Zealand,19,CJ Anderson,Taskin Ahmed,C de Grandhomme,,0,2,2,,,,368523685

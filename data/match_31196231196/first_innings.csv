@@ -1,0 +1,126 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Sri Lanka,0,BKG Mendis,TG Southee,MDKJ Perera,,0,1,1,,,,31196231196
+1,Sri Lanka,0,MDKJ Perera,TG Southee,BKG Mendis,,0,0,0,,,,31196231196
+1,Sri Lanka,0,MDKJ Perera,TG Southee,BKG Mendis,,0,0,0,,,,31196231196
+1,Sri Lanka,0,MDKJ Perera,TG Southee,BKG Mendis,,0,1,1,,,,31196231196
+1,Sri Lanka,0,BKG Mendis,TG Southee,MDKJ Perera,,0,0,0,,,,31196231196
+1,Sri Lanka,0,BKG Mendis,TG Southee,MDKJ Perera,,0,0,0,,,,31196231196
+1,Sri Lanka,1,MDKJ Perera,SHA Rance,BKG Mendis,legbyes,1,1,0,,,,31196231196
+1,Sri Lanka,1,BKG Mendis,SHA Rance,MDKJ Perera,,0,1,1,,,,31196231196
+1,Sri Lanka,1,MDKJ Perera,SHA Rance,BKG Mendis,,0,1,1,,,,31196231196
+1,Sri Lanka,1,BKG Mendis,SHA Rance,MDKJ Perera,,0,2,2,,,,31196231196
+1,Sri Lanka,1,BKG Mendis,SHA Rance,MDKJ Perera,,0,0,0,,,,31196231196
+1,Sri Lanka,1,BKG Mendis,SHA Rance,MDKJ Perera,,0,4,4,,,,31196231196
+1,Sri Lanka,2,MDKJ Perera,SC Kuggeleijn,BKG Mendis,wides,1,1,0,,,,31196231196
+1,Sri Lanka,2,MDKJ Perera,SC Kuggeleijn,BKG Mendis,,0,4,4,,,,31196231196
+1,Sri Lanka,2,MDKJ Perera,SC Kuggeleijn,BKG Mendis,,0,0,0,,,,31196231196
+1,Sri Lanka,2,MDKJ Perera,SC Kuggeleijn,BKG Mendis,,0,1,1,,,,31196231196
+1,Sri Lanka,2,BKG Mendis,SC Kuggeleijn,MDKJ Perera,,0,0,0,,,,31196231196
+1,Sri Lanka,2,BKG Mendis,SC Kuggeleijn,MDKJ Perera,,0,0,0,,,,31196231196
+1,Sri Lanka,2,BKG Mendis,SC Kuggeleijn,MDKJ Perera,,0,1,1,,,,31196231196
+1,Sri Lanka,3,BKG Mendis,SHA Rance,MDKJ Perera,,0,4,4,,,,31196231196
+1,Sri Lanka,3,BKG Mendis,SHA Rance,MDKJ Perera,,0,4,4,,,,31196231196
+1,Sri Lanka,3,BKG Mendis,SHA Rance,MDKJ Perera,,0,6,6,,,,31196231196
+1,Sri Lanka,3,BKG Mendis,SHA Rance,MDKJ Perera,,0,0,0,,,,31196231196
+1,Sri Lanka,3,BKG Mendis,SHA Rance,MDKJ Perera,,0,1,1,,,,31196231196
+1,Sri Lanka,3,MDKJ Perera,SHA Rance,BKG Mendis,,0,4,4,,,,31196231196
+1,Sri Lanka,4,BKG Mendis,TG Southee,MDKJ Perera,,0,1,1,,,,31196231196
+1,Sri Lanka,4,MDKJ Perera,TG Southee,BKG Mendis,wides,2,2,0,,,,31196231196
+1,Sri Lanka,4,BKG Mendis,TG Southee,MDKJ Perera,,0,1,1,,,,31196231196
+1,Sri Lanka,4,MDKJ Perera,TG Southee,BKG Mendis,,0,0,0,caught,MDKJ Perera,C de Grandhomme,31196231196
+1,Sri Lanka,4,WIA Fernando,TG Southee,BKG Mendis,,0,1,1,,,,31196231196
+1,Sri Lanka,4,BKG Mendis,TG Southee,WIA Fernando,,0,1,1,,,,31196231196
+1,Sri Lanka,4,WIA Fernando,TG Southee,BKG Mendis,,0,1,1,,,,31196231196
+1,Sri Lanka,5,WIA Fernando,MJ Santner,BKG Mendis,,0,0,0,,,,31196231196
+1,Sri Lanka,5,WIA Fernando,MJ Santner,BKG Mendis,,0,1,1,,,,31196231196
+1,Sri Lanka,5,BKG Mendis,MJ Santner,WIA Fernando,,0,4,4,,,,31196231196
+1,Sri Lanka,5,BKG Mendis,MJ Santner,WIA Fernando,,0,0,0,,,,31196231196
+1,Sri Lanka,5,BKG Mendis,MJ Santner,WIA Fernando,,0,1,1,,,,31196231196
+1,Sri Lanka,5,WIA Fernando,MJ Santner,BKG Mendis,,0,0,0,,,,31196231196
+1,Sri Lanka,6,BKG Mendis,IS Sodhi,WIA Fernando,,0,1,1,,,,31196231196
+1,Sri Lanka,6,WIA Fernando,IS Sodhi,BKG Mendis,,0,1,1,,,,31196231196
+1,Sri Lanka,6,BKG Mendis,IS Sodhi,WIA Fernando,,0,1,1,,,,31196231196
+1,Sri Lanka,6,WIA Fernando,IS Sodhi,BKG Mendis,byes,1,1,0,,,,31196231196
+1,Sri Lanka,6,BKG Mendis,IS Sodhi,WIA Fernando,,0,1,1,,,,31196231196
+1,Sri Lanka,6,WIA Fernando,IS Sodhi,BKG Mendis,,0,1,1,,,,31196231196
+1,Sri Lanka,7,WIA Fernando,MJ Santner,BKG Mendis,,0,1,1,,,,31196231196
+1,Sri Lanka,7,BKG Mendis,MJ Santner,WIA Fernando,,0,1,1,,,,31196231196
+1,Sri Lanka,7,WIA Fernando,MJ Santner,BKG Mendis,,0,0,0,,,,31196231196
+1,Sri Lanka,7,WIA Fernando,MJ Santner,BKG Mendis,,0,0,0,,,,31196231196
+1,Sri Lanka,7,WIA Fernando,MJ Santner,BKG Mendis,,0,1,1,,,,31196231196
+1,Sri Lanka,7,BKG Mendis,MJ Santner,WIA Fernando,,0,2,2,,,,31196231196
+1,Sri Lanka,8,WIA Fernando,IS Sodhi,BKG Mendis,,0,1,1,,,,31196231196
+1,Sri Lanka,8,BKG Mendis,IS Sodhi,WIA Fernando,wides,1,1,0,,,,31196231196
+1,Sri Lanka,8,BKG Mendis,IS Sodhi,WIA Fernando,wides,1,1,0,,,,31196231196
+1,Sri Lanka,8,BKG Mendis,IS Sodhi,WIA Fernando,,0,1,1,,,,31196231196
+1,Sri Lanka,8,WIA Fernando,IS Sodhi,BKG Mendis,,0,0,0,,,,31196231196
+1,Sri Lanka,8,WIA Fernando,IS Sodhi,BKG Mendis,,0,1,1,,,,31196231196
+1,Sri Lanka,8,BKG Mendis,IS Sodhi,WIA Fernando,,0,1,1,,,,31196231196
+1,Sri Lanka,8,WIA Fernando,IS Sodhi,BKG Mendis,,0,1,1,,,,31196231196
+1,Sri Lanka,9,WIA Fernando,MJ Santner,BKG Mendis,,0,0,0,stumped,WIA Fernando,TL Seifert,31196231196
+1,Sri Lanka,9,N Dickwella,MJ Santner,BKG Mendis,,0,0,0,,,,31196231196
+1,Sri Lanka,9,N Dickwella,MJ Santner,BKG Mendis,,0,1,1,,,,31196231196
+1,Sri Lanka,9,BKG Mendis,MJ Santner,N Dickwella,,0,1,1,,,,31196231196
+1,Sri Lanka,9,N Dickwella,MJ Santner,BKG Mendis,,0,2,2,,,,31196231196
+1,Sri Lanka,9,N Dickwella,MJ Santner,BKG Mendis,,0,1,1,,,,31196231196
+1,Sri Lanka,10,N Dickwella,SC Kuggeleijn,BKG Mendis,,0,2,2,,,,31196231196
+1,Sri Lanka,10,N Dickwella,SC Kuggeleijn,BKG Mendis,,0,1,1,,,,31196231196
+1,Sri Lanka,10,BKG Mendis,SC Kuggeleijn,N Dickwella,,0,1,1,,,,31196231196
+1,Sri Lanka,10,N Dickwella,SC Kuggeleijn,BKG Mendis,,0,1,1,,,,31196231196
+1,Sri Lanka,10,BKG Mendis,SC Kuggeleijn,N Dickwella,,0,4,4,,,,31196231196
+1,Sri Lanka,10,BKG Mendis,SC Kuggeleijn,N Dickwella,,0,1,1,,,,31196231196
+1,Sri Lanka,11,BKG Mendis,C de Grandhomme,N Dickwella,,0,0,0,,,,31196231196
+1,Sri Lanka,11,BKG Mendis,C de Grandhomme,N Dickwella,,0,0,0,,,,31196231196
+1,Sri Lanka,11,BKG Mendis,C de Grandhomme,N Dickwella,,0,4,4,,,,31196231196
+1,Sri Lanka,11,BKG Mendis,C de Grandhomme,N Dickwella,,0,1,1,,,,31196231196
+1,Sri Lanka,11,N Dickwella,C de Grandhomme,BKG Mendis,,0,0,0,,,,31196231196
+1,Sri Lanka,11,N Dickwella,C de Grandhomme,BKG Mendis,,0,1,1,,,,31196231196
+1,Sri Lanka,12,N Dickwella,MJ Santner,BKG Mendis,,0,1,1,,,,31196231196
+1,Sri Lanka,12,BKG Mendis,MJ Santner,N Dickwella,,0,0,0,,,,31196231196
+1,Sri Lanka,12,BKG Mendis,MJ Santner,N Dickwella,,0,2,2,,,,31196231196
+1,Sri Lanka,12,BKG Mendis,MJ Santner,N Dickwella,,0,1,1,,,,31196231196
+1,Sri Lanka,12,N Dickwella,MJ Santner,BKG Mendis,,0,1,1,,,,31196231196
+1,Sri Lanka,12,BKG Mendis,MJ Santner,N Dickwella,,0,1,1,,,,31196231196
+1,Sri Lanka,13,BKG Mendis,C de Grandhomme,N Dickwella,,0,4,4,,,,31196231196
+1,Sri Lanka,13,BKG Mendis,C de Grandhomme,N Dickwella,,0,1,1,,,,31196231196
+1,Sri Lanka,13,N Dickwella,C de Grandhomme,BKG Mendis,,0,1,1,,,,31196231196
+1,Sri Lanka,13,BKG Mendis,C de Grandhomme,N Dickwella,,0,1,1,,,,31196231196
+1,Sri Lanka,13,N Dickwella,C de Grandhomme,BKG Mendis,,0,1,1,,,,31196231196
+1,Sri Lanka,13,BKG Mendis,C de Grandhomme,N Dickwella,,0,0,0,,,,31196231196
+1,Sri Lanka,14,N Dickwella,IS Sodhi,BKG Mendis,,0,1,1,,,,31196231196
+1,Sri Lanka,14,BKG Mendis,IS Sodhi,N Dickwella,,0,2,2,,,,31196231196
+1,Sri Lanka,14,BKG Mendis,IS Sodhi,N Dickwella,wides,1,1,0,,,,31196231196
+1,Sri Lanka,14,BKG Mendis,IS Sodhi,N Dickwella,,0,1,1,,,,31196231196
+1,Sri Lanka,14,N Dickwella,IS Sodhi,BKG Mendis,,0,4,4,,,,31196231196
+1,Sri Lanka,14,N Dickwella,IS Sodhi,BKG Mendis,,0,1,1,,,,31196231196
+1,Sri Lanka,14,BKG Mendis,IS Sodhi,N Dickwella,,0,1,1,,,,31196231196
+1,Sri Lanka,15,BKG Mendis,C de Grandhomme,N Dickwella,,0,4,4,,,,31196231196
+1,Sri Lanka,15,BKG Mendis,C de Grandhomme,N Dickwella,,0,6,6,,,,31196231196
+1,Sri Lanka,15,BKG Mendis,C de Grandhomme,N Dickwella,,0,2,2,,,,31196231196
+1,Sri Lanka,15,BKG Mendis,C de Grandhomme,N Dickwella,,0,0,0,,,,31196231196
+1,Sri Lanka,15,BKG Mendis,C de Grandhomme,N Dickwella,,0,1,1,,,,31196231196
+1,Sri Lanka,15,N Dickwella,C de Grandhomme,BKG Mendis,,0,4,4,,,,31196231196
+1,Sri Lanka,16,BKG Mendis,TG Southee,N Dickwella,,0,0,0,caught,BKG Mendis,MJ Guptill,31196231196
+1,Sri Lanka,16,N Dickwella,TG Southee,MD Shanaka,,0,1,1,,,,31196231196
+1,Sri Lanka,16,MD Shanaka,TG Southee,N Dickwella,,0,1,1,,,,31196231196
+1,Sri Lanka,16,N Dickwella,TG Southee,MD Shanaka,,0,1,1,,,,31196231196
+1,Sri Lanka,16,MD Shanaka,TG Southee,N Dickwella,,0,1,1,,,,31196231196
+1,Sri Lanka,16,N Dickwella,TG Southee,MD Shanaka,,0,1,1,,,,31196231196
+1,Sri Lanka,17,N Dickwella,SHA Rance,MD Shanaka,,0,2,2,,,,31196231196
+1,Sri Lanka,17,N Dickwella,SHA Rance,MD Shanaka,,0,1,1,,,,31196231196
+1,Sri Lanka,17,MD Shanaka,SHA Rance,N Dickwella,,0,1,1,,,,31196231196
+1,Sri Lanka,17,N Dickwella,SHA Rance,MD Shanaka,,0,1,1,,,,31196231196
+1,Sri Lanka,17,MD Shanaka,SHA Rance,N Dickwella,,0,1,1,,,,31196231196
+1,Sri Lanka,17,N Dickwella,SHA Rance,MD Shanaka,,0,2,2,,,,31196231196
+1,Sri Lanka,18,MD Shanaka,TG Southee,N Dickwella,,0,0,0,,,,31196231196
+1,Sri Lanka,18,MD Shanaka,TG Southee,N Dickwella,,0,2,2,,,,31196231196
+1,Sri Lanka,18,MD Shanaka,TG Southee,N Dickwella,,0,1,1,,,,31196231196
+1,Sri Lanka,18,N Dickwella,TG Southee,MD Shanaka,,0,1,1,,,,31196231196
+1,Sri Lanka,18,MD Shanaka,TG Southee,N Dickwella,,0,2,2,,,,31196231196
+1,Sri Lanka,18,MD Shanaka,TG Southee,N Dickwella,legbyes,1,1,0,,,,31196231196
+1,Sri Lanka,19,MD Shanaka,SHA Rance,N Dickwella,,0,2,2,,,,31196231196
+1,Sri Lanka,19,MD Shanaka,SHA Rance,N Dickwella,,0,6,6,,,,31196231196
+1,Sri Lanka,19,MD Shanaka,SHA Rance,N Dickwella,,0,0,0,run out,N Dickwella,,31196231196
+1,Sri Lanka,19,I Udana,SHA Rance,MD Shanaka,,0,6,6,,,,31196231196
+1,Sri Lanka,19,I Udana,SHA Rance,MD Shanaka,,0,6,6,,,,31196231196
+1,Sri Lanka,19,I Udana,SHA Rance,MD Shanaka,,0,3,3,,,,31196231196

@@ -1,0 +1,50 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Scotland,0,SJ Bryce,Jahanara Alam,KE Bryce,,0,2,2,,,,31211231211
+2,Scotland,0,SJ Bryce,Jahanara Alam,KE Bryce,,0,0,0,,,,31211231211
+2,Scotland,0,SJ Bryce,Jahanara Alam,KE Bryce,,0,1,1,,,,31211231211
+2,Scotland,0,KE Bryce,Jahanara Alam,SJ Bryce,,0,0,0,,,,31211231211
+2,Scotland,0,KE Bryce,Jahanara Alam,SJ Bryce,,0,2,2,,,,31211231211
+2,Scotland,0,KE Bryce,Jahanara Alam,SJ Bryce,,0,0,0,,,,31211231211
+2,Scotland,1,SJ Bryce,Nahida Akter,KE Bryce,,0,0,0,,,,31211231211
+2,Scotland,1,SJ Bryce,Nahida Akter,KE Bryce,,0,0,0,stumped,SJ Bryce,Nigar Sultana,31211231211
+2,Scotland,1,L Jack,Nahida Akter,KE Bryce,,0,0,0,,,,31211231211
+2,Scotland,1,L Jack,Nahida Akter,KE Bryce,byes,1,1,0,,,,31211231211
+2,Scotland,1,KE Bryce,Nahida Akter,L Jack,,0,2,2,,,,31211231211
+2,Scotland,1,KE Bryce,Nahida Akter,L Jack,,0,4,4,,,,31211231211
+2,Scotland,2,L Jack,Ritu Moni,KE Bryce,,0,0,0,,,,31211231211
+2,Scotland,2,L Jack,Ritu Moni,KE Bryce,,0,1,1,,,,31211231211
+2,Scotland,2,KE Bryce,Ritu Moni,L Jack,,0,0,0,,,,31211231211
+2,Scotland,2,KE Bryce,Ritu Moni,L Jack,,0,4,4,,,,31211231211
+2,Scotland,2,KE Bryce,Ritu Moni,L Jack,,0,1,1,,,,31211231211
+2,Scotland,2,L Jack,Ritu Moni,KE Bryce,,0,0,0,caught,L Jack,Salma Khatun,31211231211
+2,Scotland,3,RV Scholes,Fahima Khatun,KE Bryce,,0,1,1,,,,31211231211
+2,Scotland,3,KE Bryce,Fahima Khatun,RV Scholes,,0,0,0,,,,31211231211
+2,Scotland,3,KE Bryce,Fahima Khatun,RV Scholes,,0,0,0,,,,31211231211
+2,Scotland,3,KE Bryce,Fahima Khatun,RV Scholes,,0,1,1,,,,31211231211
+2,Scotland,3,RV Scholes,Fahima Khatun,KE Bryce,,0,1,1,,,,31211231211
+2,Scotland,3,KE Bryce,Fahima Khatun,RV Scholes,,0,1,1,,,,31211231211
+2,Scotland,4,KE Bryce,Ritu Moni,RV Scholes,,0,1,1,,,,31211231211
+2,Scotland,4,RV Scholes,Ritu Moni,KE Bryce,,0,2,2,,,,31211231211
+2,Scotland,4,RV Scholes,Ritu Moni,KE Bryce,,0,1,1,,,,31211231211
+2,Scotland,4,KE Bryce,Ritu Moni,RV Scholes,,0,2,2,,,,31211231211
+2,Scotland,4,KE Bryce,Ritu Moni,RV Scholes,,0,1,1,,,,31211231211
+2,Scotland,4,RV Scholes,Ritu Moni,KE Bryce,,0,4,4,,,,31211231211
+2,Scotland,5,KE Bryce,Fahima Khatun,RV Scholes,wides,1,1,0,,,,31211231211
+2,Scotland,5,KE Bryce,Fahima Khatun,RV Scholes,,0,0,0,run out,RV Scholes,,31211231211
+2,Scotland,5,RS Glen,Fahima Khatun,KE Bryce,,0,1,1,,,,31211231211
+2,Scotland,5,KE Bryce,Fahima Khatun,RS Glen,,0,1,1,,,,31211231211
+2,Scotland,5,RS Glen,Fahima Khatun,KE Bryce,,0,1,1,,,,31211231211
+2,Scotland,5,KE Bryce,Fahima Khatun,RS Glen,,0,0,0,run out,RS Glen,,31211231211
+2,Scotland,5,RK Willis,Fahima Khatun,KE Bryce,,0,0,0,,,,31211231211
+2,Scotland,6,KE Bryce,Khadija Tul Kubra,RK Willis,,0,1,1,,,,31211231211
+2,Scotland,6,RK Willis,Khadija Tul Kubra,KE Bryce,,0,2,2,run out,RK Willis,,31211231211
+2,Scotland,6,KE Bryce,Khadija Tul Kubra,PA Chatterji,,0,0,0,caught,KE Bryce,Sanjida Islam,31211231211
+2,Scotland,6,PA Chatterji,Khadija Tul Kubra,EL Watson,,0,0,0,,,,31211231211
+2,Scotland,6,PA Chatterji,Khadija Tul Kubra,EL Watson,,0,4,4,,,,31211231211
+2,Scotland,6,PA Chatterji,Khadija Tul Kubra,EL Watson,,0,0,0,,,,31211231211
+2,Scotland,7,EL Watson,Nahida Akter,PA Chatterji,,0,0,0,,,,31211231211
+2,Scotland,7,EL Watson,Nahida Akter,PA Chatterji,legbyes,1,1,0,,,,31211231211
+2,Scotland,7,PA Chatterji,Nahida Akter,EL Watson,,0,1,1,,,,31211231211
+2,Scotland,7,EL Watson,Nahida Akter,PA Chatterji,,0,2,2,,,,31211231211
+2,Scotland,7,EL Watson,Nahida Akter,PA Chatterji,,0,1,1,,,,31211231211
+2,Scotland,7,PA Chatterji,Nahida Akter,EL Watson,,0,0,0,,,,31211231211

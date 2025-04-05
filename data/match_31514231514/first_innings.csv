@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,RR Hendricks,K Sinclair,Q de Kock,,0,0,0,,,,31514231514
+1,South Africa,0,RR Hendricks,K Sinclair,Q de Kock,,0,0,0,,,,31514231514
+1,South Africa,0,RR Hendricks,K Sinclair,Q de Kock,,0,1,1,,,,31514231514
+1,South Africa,0,Q de Kock,K Sinclair,RR Hendricks,,0,0,0,,,,31514231514
+1,South Africa,0,Q de Kock,K Sinclair,RR Hendricks,,0,2,2,,,,31514231514
+1,South Africa,0,Q de Kock,K Sinclair,RR Hendricks,,0,1,1,,,,31514231514
+1,South Africa,1,Q de Kock,JO Holder,RR Hendricks,,0,0,0,,,,31514231514
+1,South Africa,1,Q de Kock,JO Holder,RR Hendricks,wides,1,1,0,,,,31514231514
+1,South Africa,1,Q de Kock,JO Holder,RR Hendricks,,0,2,2,,,,31514231514
+1,South Africa,1,Q de Kock,JO Holder,RR Hendricks,,0,2,2,,,,31514231514
+1,South Africa,1,Q de Kock,JO Holder,RR Hendricks,,0,4,4,,,,31514231514
+1,South Africa,1,Q de Kock,JO Holder,RR Hendricks,,0,1,1,,,,31514231514
+1,South Africa,1,RR Hendricks,JO Holder,Q de Kock,,0,1,1,,,,31514231514
+1,South Africa,2,RR Hendricks,K Sinclair,Q de Kock,,0,4,4,,,,31514231514
+1,South Africa,2,RR Hendricks,K Sinclair,Q de Kock,,0,1,1,,,,31514231514
+1,South Africa,2,Q de Kock,K Sinclair,RR Hendricks,,0,1,1,,,,31514231514
+1,South Africa,2,RR Hendricks,K Sinclair,Q de Kock,,0,6,6,,,,31514231514
+1,South Africa,2,RR Hendricks,K Sinclair,Q de Kock,,0,4,4,,,,31514231514
+1,South Africa,2,RR Hendricks,K Sinclair,Q de Kock,wides,1,1,0,,,,31514231514
+1,South Africa,2,RR Hendricks,K Sinclair,Q de Kock,,0,0,0,,,,31514231514
+1,South Africa,3,Q de Kock,FA Allen,RR Hendricks,,0,0,0,,,,31514231514
+1,South Africa,3,Q de Kock,FA Allen,RR Hendricks,,0,1,1,,,,31514231514
+1,South Africa,3,RR Hendricks,FA Allen,Q de Kock,,0,0,0,,,,31514231514
+1,South Africa,3,RR Hendricks,FA Allen,Q de Kock,,0,0,0,bowled,RR Hendricks,,31514231514
+1,South Africa,3,T Bavuma,FA Allen,Q de Kock,,0,0,0,,,,31514231514
+1,South Africa,3,T Bavuma,FA Allen,Q de Kock,,0,0,0,,,,31514231514
+1,South Africa,4,Q de Kock,JO Holder,T Bavuma,,0,0,0,,,,31514231514
+1,South Africa,4,Q de Kock,JO Holder,T Bavuma,,0,4,4,,,,31514231514
+1,South Africa,4,Q de Kock,JO Holder,T Bavuma,,0,0,0,,,,31514231514
+1,South Africa,4,Q de Kock,JO Holder,T Bavuma,,0,2,2,,,,31514231514
+1,South Africa,4,Q de Kock,JO Holder,T Bavuma,,0,6,6,,,,31514231514
+1,South Africa,4,Q de Kock,JO Holder,T Bavuma,,0,1,1,,,,31514231514
+1,South Africa,5,Q de Kock,FA Allen,T Bavuma,,0,0,0,,,,31514231514
+1,South Africa,5,Q de Kock,FA Allen,T Bavuma,,0,1,1,,,,31514231514
+1,South Africa,5,T Bavuma,FA Allen,Q de Kock,,0,0,0,,,,31514231514
+1,South Africa,5,T Bavuma,FA Allen,Q de Kock,,0,4,4,,,,31514231514
+1,South Africa,5,T Bavuma,FA Allen,Q de Kock,,0,1,1,,,,31514231514
+1,South Africa,5,Q de Kock,FA Allen,T Bavuma,,0,1,1,,,,31514231514
+1,South Africa,6,Q de Kock,AD Russell,T Bavuma,,0,0,0,,,,31514231514
+1,South Africa,6,Q de Kock,AD Russell,T Bavuma,,0,6,6,,,,31514231514
+1,South Africa,6,Q de Kock,AD Russell,T Bavuma,,0,2,2,,,,31514231514
+1,South Africa,6,Q de Kock,AD Russell,T Bavuma,,0,0,0,caught,Q de Kock,JO Holder,31514231514
+1,South Africa,6,HE van der Dussen,AD Russell,T Bavuma,,0,1,1,,,,31514231514
+1,South Africa,6,T Bavuma,AD Russell,HE van der Dussen,,0,0,0,,,,31514231514
+1,South Africa,7,HE van der Dussen,FA Allen,T Bavuma,legbyes,1,1,0,,,,31514231514
+1,South Africa,7,T Bavuma,FA Allen,HE van der Dussen,,0,1,1,,,,31514231514
+1,South Africa,7,HE van der Dussen,FA Allen,T Bavuma,,0,1,1,,,,31514231514
+1,South Africa,7,T Bavuma,FA Allen,HE van der Dussen,,0,1,1,,,,31514231514
+1,South Africa,7,HE van der Dussen,FA Allen,T Bavuma,,0,1,1,,,,31514231514
+1,South Africa,7,T Bavuma,FA Allen,HE van der Dussen,,0,1,1,,,,31514231514
+1,South Africa,8,T Bavuma,AD Russell,HE van der Dussen,,0,1,1,,,,31514231514
+1,South Africa,8,HE van der Dussen,AD Russell,T Bavuma,,0,4,4,,,,31514231514
+1,South Africa,8,HE van der Dussen,AD Russell,T Bavuma,,0,1,1,,,,31514231514
+1,South Africa,8,T Bavuma,AD Russell,HE van der Dussen,,0,0,0,,,,31514231514
+1,South Africa,8,T Bavuma,AD Russell,HE van der Dussen,,0,4,4,,,,31514231514
+1,South Africa,8,T Bavuma,AD Russell,HE van der Dussen,,0,2,2,,,,31514231514
+1,South Africa,9,HE van der Dussen,OC McCoy,T Bavuma,,0,1,1,,,,31514231514
+1,South Africa,9,T Bavuma,OC McCoy,HE van der Dussen,,0,0,0,,,,31514231514
+1,South Africa,9,T Bavuma,OC McCoy,HE van der Dussen,,0,4,4,,,,31514231514
+1,South Africa,9,T Bavuma,OC McCoy,HE van der Dussen,,0,1,1,,,,31514231514
+1,South Africa,9,HE van der Dussen,OC McCoy,T Bavuma,,0,0,0,,,,31514231514
+1,South Africa,9,HE van der Dussen,OC McCoy,T Bavuma,,0,0,0,,,,31514231514
+1,South Africa,10,T Bavuma,DJ Bravo,HE van der Dussen,,0,1,1,,,,31514231514
+1,South Africa,10,HE van der Dussen,DJ Bravo,T Bavuma,,0,1,1,,,,31514231514
+1,South Africa,10,T Bavuma,DJ Bravo,HE van der Dussen,legbyes,1,1,0,,,,31514231514
+1,South Africa,10,HE van der Dussen,DJ Bravo,T Bavuma,,0,1,1,,,,31514231514
+1,South Africa,10,T Bavuma,DJ Bravo,HE van der Dussen,,0,1,1,,,,31514231514
+1,South Africa,10,HE van der Dussen,DJ Bravo,T Bavuma,,0,4,4,,,,31514231514
+1,South Africa,11,T Bavuma,FA Allen,HE van der Dussen,,0,0,0,caught,T Bavuma,E Lewis,31514231514
+1,South Africa,11,HE van der Dussen,FA Allen,H Klaasen,,0,1,1,,,,31514231514
+1,South Africa,11,H Klaasen,FA Allen,HE van der Dussen,,0,1,1,,,,31514231514
+1,South Africa,11,HE van der Dussen,FA Allen,H Klaasen,,0,1,1,,,,31514231514
+1,South Africa,11,H Klaasen,FA Allen,HE van der Dussen,,0,1,1,,,,31514231514
+1,South Africa,11,HE van der Dussen,FA Allen,H Klaasen,,0,1,1,,,,31514231514
+1,South Africa,12,HE van der Dussen,DJ Bravo,H Klaasen,,0,1,1,,,,31514231514
+1,South Africa,12,H Klaasen,DJ Bravo,HE van der Dussen,,0,0,0,,,,31514231514
+1,South Africa,12,H Klaasen,DJ Bravo,HE van der Dussen,,0,1,1,,,,31514231514
+1,South Africa,12,HE van der Dussen,DJ Bravo,H Klaasen,,0,1,1,,,,31514231514
+1,South Africa,12,H Klaasen,DJ Bravo,HE van der Dussen,,0,0,0,,,,31514231514
+1,South Africa,12,H Klaasen,DJ Bravo,HE van der Dussen,,0,1,1,,,,31514231514
+1,South Africa,13,H Klaasen,OC McCoy,HE van der Dussen,,0,0,0,,,,31514231514
+1,South Africa,13,H Klaasen,OC McCoy,HE van der Dussen,,0,1,1,,,,31514231514
+1,South Africa,13,HE van der Dussen,OC McCoy,H Klaasen,wides,1,1,0,,,,31514231514
+1,South Africa,13,HE van der Dussen,OC McCoy,H Klaasen,,0,1,1,,,,31514231514
+1,South Africa,13,H Klaasen,OC McCoy,HE van der Dussen,,0,1,1,,,,31514231514
+1,South Africa,13,HE van der Dussen,OC McCoy,H Klaasen,,0,1,1,,,,31514231514
+1,South Africa,13,H Klaasen,OC McCoy,HE van der Dussen,,0,0,0,,,,31514231514
+1,South Africa,14,HE van der Dussen,JO Holder,H Klaasen,,0,1,1,,,,31514231514
+1,South Africa,14,H Klaasen,JO Holder,HE van der Dussen,,0,1,1,,,,31514231514
+1,South Africa,14,HE van der Dussen,JO Holder,H Klaasen,,0,1,1,,,,31514231514
+1,South Africa,14,H Klaasen,JO Holder,HE van der Dussen,,0,0,0,caught,H Klaasen,FA Allen,31514231514
+1,South Africa,14,DA Miller,JO Holder,HE van der Dussen,,0,1,1,,,,31514231514
+1,South Africa,14,HE van der Dussen,JO Holder,DA Miller,,0,1,1,,,,31514231514
+1,South Africa,15,HE van der Dussen,AD Russell,DA Miller,,0,1,1,,,,31514231514
+1,South Africa,15,DA Miller,AD Russell,HE van der Dussen,,0,0,0,,,,31514231514
+1,South Africa,15,DA Miller,AD Russell,HE van der Dussen,,0,1,1,,,,31514231514
+1,South Africa,15,HE van der Dussen,AD Russell,DA Miller,,0,2,2,,,,31514231514
+1,South Africa,15,HE van der Dussen,AD Russell,DA Miller,,0,4,4,,,,31514231514
+1,South Africa,15,HE van der Dussen,AD Russell,DA Miller,,0,0,0,,,,31514231514
+1,South Africa,16,DA Miller,DJ Bravo,HE van der Dussen,,0,1,1,,,,31514231514
+1,South Africa,16,HE van der Dussen,DJ Bravo,DA Miller,,0,0,0,,,,31514231514
+1,South Africa,16,HE van der Dussen,DJ Bravo,DA Miller,,0,1,1,,,,31514231514
+1,South Africa,16,DA Miller,DJ Bravo,HE van der Dussen,,0,2,2,,,,31514231514
+1,South Africa,16,DA Miller,DJ Bravo,HE van der Dussen,,0,1,1,,,,31514231514
+1,South Africa,16,HE van der Dussen,DJ Bravo,DA Miller,,0,6,6,,,,31514231514
+1,South Africa,17,DA Miller,OC McCoy,HE van der Dussen,,0,1,1,,,,31514231514
+1,South Africa,17,HE van der Dussen,OC McCoy,DA Miller,,0,1,1,,,,31514231514
+1,South Africa,17,DA Miller,OC McCoy,HE van der Dussen,,0,1,1,,,,31514231514
+1,South Africa,17,HE van der Dussen,OC McCoy,DA Miller,,0,1,1,,,,31514231514
+1,South Africa,17,DA Miller,OC McCoy,HE van der Dussen,,0,1,1,,,,31514231514
+1,South Africa,17,HE van der Dussen,OC McCoy,DA Miller,,0,2,2,,,,31514231514
+1,South Africa,18,DA Miller,DJ Bravo,HE van der Dussen,,0,0,0,,,,31514231514
+1,South Africa,18,DA Miller,DJ Bravo,HE van der Dussen,,0,0,0,caught,DA Miller,KA Pollard,31514231514
+1,South Africa,18,GF Linde,DJ Bravo,HE van der Dussen,,0,0,0,caught,GF Linde,K Sinclair,31514231514
+1,South Africa,18,HE van der Dussen,DJ Bravo,K Rabada,,0,1,1,,,,31514231514
+1,South Africa,18,K Rabada,DJ Bravo,HE van der Dussen,,0,4,4,,,,31514231514
+1,South Africa,18,K Rabada,DJ Bravo,HE van der Dussen,,0,2,2,,,,31514231514
+1,South Africa,19,HE van der Dussen,OC McCoy,K Rabada,,0,6,6,,,,31514231514
+1,South Africa,19,HE van der Dussen,OC McCoy,K Rabada,,0,1,1,,,,31514231514
+1,South Africa,19,K Rabada,OC McCoy,HE van der Dussen,byes,1,1,0,,,,31514231514
+1,South Africa,19,HE van der Dussen,OC McCoy,K Rabada,,0,4,4,,,,31514231514
+1,South Africa,19,HE van der Dussen,OC McCoy,K Rabada,,0,0,0,,,,31514231514
+1,South Africa,19,HE van der Dussen,OC McCoy,K Rabada,,0,1,1,,,,31514231514

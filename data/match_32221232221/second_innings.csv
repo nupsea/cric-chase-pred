@@ -1,0 +1,115 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Bahrain,0,Umer Imtiaz,Sayed Monib,Muhammad Younis,,0,4,4,,,,32221232221
+2,Bahrain,0,Umer Imtiaz,Sayed Monib,Muhammad Younis,,0,0,0,,,,32221232221
+2,Bahrain,0,Umer Imtiaz,Sayed Monib,Muhammad Younis,,0,6,6,,,,32221232221
+2,Bahrain,0,Umer Imtiaz,Sayed Monib,Muhammad Younis,,0,0,0,,,,32221232221
+2,Bahrain,0,Umer Imtiaz,Sayed Monib,Muhammad Younis,,0,0,0,,,,32221232221
+2,Bahrain,0,Umer Imtiaz,Sayed Monib,Muhammad Younis,wides,1,1,0,,,,32221232221
+2,Bahrain,0,Umer Imtiaz,Sayed Monib,Muhammad Younis,,0,1,1,,,,32221232221
+2,Bahrain,1,Umer Imtiaz,Shahrukh Quddus,Muhammad Younis,,0,0,0,lbw,Umer Imtiaz,,32221232221
+2,Bahrain,1,Shahbaz Badar,Shahrukh Quddus,Muhammad Younis,,0,0,0,lbw,Shahbaz Badar,,32221232221
+2,Bahrain,1,Haider Butt,Shahrukh Quddus,Muhammad Younis,,0,0,0,lbw,Haider Butt,,32221232221
+2,Bahrain,1,DK Mathias,Shahrukh Quddus,Muhammad Younis,,0,0,0,,,,32221232221
+2,Bahrain,1,DK Mathias,Shahrukh Quddus,Muhammad Younis,,0,1,1,,,,32221232221
+2,Bahrain,1,Muhammad Younis,Shahrukh Quddus,DK Mathias,,0,0,0,,,,32221232221
+2,Bahrain,2,DK Mathias,Yasin Patel,Muhammad Younis,,0,1,1,,,,32221232221
+2,Bahrain,2,Muhammad Younis,Yasin Patel,DK Mathias,,0,0,0,,,,32221232221
+2,Bahrain,2,Muhammad Younis,Yasin Patel,DK Mathias,,0,0,0,,,,32221232221
+2,Bahrain,2,Muhammad Younis,Yasin Patel,DK Mathias,,0,0,0,,,,32221232221
+2,Bahrain,2,Muhammad Younis,Yasin Patel,DK Mathias,,0,2,2,,,,32221232221
+2,Bahrain,2,Muhammad Younis,Yasin Patel,DK Mathias,,0,1,1,,,,32221232221
+2,Bahrain,3,Muhammad Younis,Shahrukh Quddus,DK Mathias,,0,0,0,,,,32221232221
+2,Bahrain,3,Muhammad Younis,Shahrukh Quddus,DK Mathias,,0,0,0,,,,32221232221
+2,Bahrain,3,Muhammad Younis,Shahrukh Quddus,DK Mathias,,0,0,0,,,,32221232221
+2,Bahrain,3,Muhammad Younis,Shahrukh Quddus,DK Mathias,,0,1,1,,,,32221232221
+2,Bahrain,3,DK Mathias,Shahrukh Quddus,Muhammad Younis,,0,0,0,,,,32221232221
+2,Bahrain,3,DK Mathias,Shahrukh Quddus,Muhammad Younis,,0,0,0,,,,32221232221
+2,Bahrain,4,Muhammad Younis,Yasin Patel,DK Mathias,,0,0,0,,,,32221232221
+2,Bahrain,4,Muhammad Younis,Yasin Patel,DK Mathias,,0,0,0,,,,32221232221
+2,Bahrain,4,Muhammad Younis,Yasin Patel,DK Mathias,,0,1,1,,,,32221232221
+2,Bahrain,4,DK Mathias,Yasin Patel,Muhammad Younis,,0,0,0,,,,32221232221
+2,Bahrain,4,DK Mathias,Yasin Patel,Muhammad Younis,,0,0,0,bowled,DK Mathias,,32221232221
+2,Bahrain,4,Sikder Billah,Yasin Patel,Muhammad Younis,,0,0,0,bowled,Sikder Billah,,32221232221
+2,Bahrain,5,Muhammad Younis,Shahrukh Quddus,Junaid Aziz,,0,0,0,,,,32221232221
+2,Bahrain,5,Muhammad Younis,Shahrukh Quddus,Junaid Aziz,,0,4,4,,,,32221232221
+2,Bahrain,5,Muhammad Younis,Shahrukh Quddus,Junaid Aziz,,0,1,1,,,,32221232221
+2,Bahrain,5,Junaid Aziz,Shahrukh Quddus,Muhammad Younis,,0,1,1,,,,32221232221
+2,Bahrain,5,Muhammad Younis,Shahrukh Quddus,Junaid Aziz,,0,1,1,,,,32221232221
+2,Bahrain,5,Junaid Aziz,Shahrukh Quddus,Muhammad Younis,,0,0,0,,,,32221232221
+2,Bahrain,6,Muhammad Younis,Yasin Patel,Junaid Aziz,,0,0,0,,,,32221232221
+2,Bahrain,6,Muhammad Younis,Yasin Patel,Junaid Aziz,,0,0,0,caught,Muhammad Younis,Sayed Monib,32221232221
+2,Bahrain,6,Junaid Aziz,Yasin Patel,S Veerapathiran,,0,0,0,,,,32221232221
+2,Bahrain,6,Junaid Aziz,Yasin Patel,S Veerapathiran,,0,0,0,,,,32221232221
+2,Bahrain,6,Junaid Aziz,Yasin Patel,S Veerapathiran,,0,1,1,,,,32221232221
+2,Bahrain,6,S Veerapathiran,Yasin Patel,Junaid Aziz,,0,0,0,,,,32221232221
+2,Bahrain,7,Junaid Aziz,MNM Aslam,S Veerapathiran,,0,0,0,,,,32221232221
+2,Bahrain,7,Junaid Aziz,MNM Aslam,S Veerapathiran,,0,0,0,,,,32221232221
+2,Bahrain,7,Junaid Aziz,MNM Aslam,S Veerapathiran,,0,0,0,run out,S Veerapathiran,Shiraz Khan,32221232221
+2,Bahrain,7,Sachin Kumar,MNM Aslam,Junaid Aziz,,0,0,0,,,,32221232221
+2,Bahrain,7,Sachin Kumar,MNM Aslam,Junaid Aziz,,0,0,0,,,,32221232221
+2,Bahrain,7,Sachin Kumar,MNM Aslam,Junaid Aziz,,0,0,0,,,,32221232221
+2,Bahrain,8,Junaid Aziz,Yasin Patel,Sachin Kumar,,0,0,0,,,,32221232221
+2,Bahrain,8,Junaid Aziz,Yasin Patel,Sachin Kumar,,0,0,0,,,,32221232221
+2,Bahrain,8,Junaid Aziz,Yasin Patel,Sachin Kumar,,0,6,6,,,,32221232221
+2,Bahrain,8,Junaid Aziz,Yasin Patel,Sachin Kumar,,0,0,0,,,,32221232221
+2,Bahrain,8,Junaid Aziz,Yasin Patel,Sachin Kumar,,0,0,0,,,,32221232221
+2,Bahrain,8,Junaid Aziz,Yasin Patel,Sachin Kumar,,0,1,1,,,,32221232221
+2,Bahrain,9,Junaid Aziz,MNM Aslam,Sachin Kumar,,0,0,0,,,,32221232221
+2,Bahrain,9,Junaid Aziz,MNM Aslam,Sachin Kumar,,0,0,0,,,,32221232221
+2,Bahrain,9,Junaid Aziz,MNM Aslam,Sachin Kumar,,0,0,0,,,,32221232221
+2,Bahrain,9,Junaid Aziz,MNM Aslam,Sachin Kumar,,0,0,0,,,,32221232221
+2,Bahrain,9,Junaid Aziz,MNM Aslam,Sachin Kumar,,0,0,0,,,,32221232221
+2,Bahrain,9,Junaid Aziz,MNM Aslam,Sachin Kumar,,0,0,0,,,,32221232221
+2,Bahrain,10,Sachin Kumar,Shiraz Khan,Junaid Aziz,,0,0,0,,,,32221232221
+2,Bahrain,10,Sachin Kumar,Shiraz Khan,Junaid Aziz,wides,1,1,0,,,,32221232221
+2,Bahrain,10,Sachin Kumar,Shiraz Khan,Junaid Aziz,,0,0,0,,,,32221232221
+2,Bahrain,10,Sachin Kumar,Shiraz Khan,Junaid Aziz,,0,1,1,,,,32221232221
+2,Bahrain,10,Junaid Aziz,Shiraz Khan,Sachin Kumar,,0,0,0,,,,32221232221
+2,Bahrain,10,Junaid Aziz,Shiraz Khan,Sachin Kumar,,0,6,6,,,,32221232221
+2,Bahrain,10,Junaid Aziz,Shiraz Khan,Sachin Kumar,,0,0,0,,,,32221232221
+2,Bahrain,11,Sachin Kumar,MNM Aslam,Junaid Aziz,,0,1,1,,,,32221232221
+2,Bahrain,11,Junaid Aziz,MNM Aslam,Sachin Kumar,,0,0,0,,,,32221232221
+2,Bahrain,11,Junaid Aziz,MNM Aslam,Sachin Kumar,,0,0,0,,,,32221232221
+2,Bahrain,11,Junaid Aziz,MNM Aslam,Sachin Kumar,,0,0,0,,,,32221232221
+2,Bahrain,11,Junaid Aziz,MNM Aslam,Sachin Kumar,,0,0,0,,,,32221232221
+2,Bahrain,11,Junaid Aziz,MNM Aslam,Sachin Kumar,,0,0,0,,,,32221232221
+2,Bahrain,12,Sachin Kumar,Shiraz Khan,Junaid Aziz,,0,1,1,,,,32221232221
+2,Bahrain,12,Junaid Aziz,Shiraz Khan,Sachin Kumar,,0,4,4,,,,32221232221
+2,Bahrain,12,Junaid Aziz,Shiraz Khan,Sachin Kumar,,0,1,1,,,,32221232221
+2,Bahrain,12,Sachin Kumar,Shiraz Khan,Junaid Aziz,,0,0,0,,,,32221232221
+2,Bahrain,12,Sachin Kumar,Shiraz Khan,Junaid Aziz,,0,4,4,,,,32221232221
+2,Bahrain,12,Sachin Kumar,Shiraz Khan,Junaid Aziz,,0,0,0,,,,32221232221
+2,Bahrain,13,Junaid Aziz,MNM Aslam,Sachin Kumar,,0,0,0,,,,32221232221
+2,Bahrain,13,Junaid Aziz,MNM Aslam,Sachin Kumar,,0,0,0,,,,32221232221
+2,Bahrain,13,Junaid Aziz,MNM Aslam,Sachin Kumar,,0,1,1,,,,32221232221
+2,Bahrain,13,Sachin Kumar,MNM Aslam,Junaid Aziz,,0,0,0,,,,32221232221
+2,Bahrain,13,Sachin Kumar,MNM Aslam,Junaid Aziz,,0,1,1,,,,32221232221
+2,Bahrain,13,Junaid Aziz,MNM Aslam,Sachin Kumar,,0,1,1,,,,32221232221
+2,Bahrain,14,Junaid Aziz,Adnan Idrees,Sachin Kumar,,0,0,0,caught,Junaid Aziz,Usman Patel,32221232221
+2,Bahrain,14,Sachin Kumar,Adnan Idrees,Imran Khan,,0,0,0,,,,32221232221
+2,Bahrain,14,Sachin Kumar,Adnan Idrees,Imran Khan,,0,0,0,,,,32221232221
+2,Bahrain,14,Sachin Kumar,Adnan Idrees,Imran Khan,,0,1,1,,,,32221232221
+2,Bahrain,14,Imran Khan,Adnan Idrees,Sachin Kumar,,0,0,0,,,,32221232221
+2,Bahrain,14,Imran Khan,Adnan Idrees,Sachin Kumar,,0,0,0,caught,Imran Khan,Meet Bhavsar,32221232221
+2,Bahrain,15,Shahid Mahmood,Shahrukh Quddus,Sachin Kumar,,0,0,0,,,,32221232221
+2,Bahrain,15,Shahid Mahmood,Shahrukh Quddus,Sachin Kumar,,0,0,0,,,,32221232221
+2,Bahrain,15,Shahid Mahmood,Shahrukh Quddus,Sachin Kumar,,0,1,1,,,,32221232221
+2,Bahrain,15,Sachin Kumar,Shahrukh Quddus,Shahid Mahmood,,0,0,0,,,,32221232221
+2,Bahrain,15,Sachin Kumar,Shahrukh Quddus,Shahid Mahmood,,0,4,4,,,,32221232221
+2,Bahrain,15,Sachin Kumar,Shahrukh Quddus,Shahid Mahmood,,0,0,0,,,,32221232221
+2,Bahrain,16,Shahid Mahmood,Adnan Idrees,Sachin Kumar,,0,1,1,,,,32221232221
+2,Bahrain,16,Sachin Kumar,Adnan Idrees,Shahid Mahmood,,0,1,1,,,,32221232221
+2,Bahrain,16,Shahid Mahmood,Adnan Idrees,Sachin Kumar,,0,6,6,,,,32221232221
+2,Bahrain,16,Shahid Mahmood,Adnan Idrees,Sachin Kumar,,0,0,0,,,,32221232221
+2,Bahrain,16,Shahid Mahmood,Adnan Idrees,Sachin Kumar,,0,6,6,,,,32221232221
+2,Bahrain,16,Shahid Mahmood,Adnan Idrees,Sachin Kumar,,0,0,0,,,,32221232221
+2,Bahrain,17,Sachin Kumar,Shiraz Khan,Shahid Mahmood,,0,1,1,,,,32221232221
+2,Bahrain,17,Shahid Mahmood,Shiraz Khan,Sachin Kumar,,0,0,0,,,,32221232221
+2,Bahrain,17,Shahid Mahmood,Shiraz Khan,Sachin Kumar,,0,1,1,,,,32221232221
+2,Bahrain,17,Sachin Kumar,Shiraz Khan,Shahid Mahmood,,0,2,2,,,,32221232221
+2,Bahrain,17,Sachin Kumar,Shiraz Khan,Shahid Mahmood,,0,1,1,,,,32221232221
+2,Bahrain,17,Shahid Mahmood,Shiraz Khan,Sachin Kumar,,0,1,1,,,,32221232221
+2,Bahrain,18,Shahid Mahmood,Sayed Monib,Sachin Kumar,,0,0,0,,,,32221232221
+2,Bahrain,18,Shahid Mahmood,Sayed Monib,Sachin Kumar,,0,1,1,,,,32221232221
+2,Bahrain,18,Sachin Kumar,Sayed Monib,Shahid Mahmood,,0,1,1,,,,32221232221
+2,Bahrain,18,Shahid Mahmood,Sayed Monib,Sachin Kumar,,0,0,0,bowled,Shahid Mahmood,,32221232221

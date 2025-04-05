@@ -1,0 +1,118 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Namibia,0,CG Williams,BTJ Wheal,M van Lingen,,0,1,1,,,,31646231646
+2,Namibia,0,M van Lingen,BTJ Wheal,CG Williams,legbyes,4,4,0,,,,31646231646
+2,Namibia,0,M van Lingen,BTJ Wheal,CG Williams,,0,0,0,,,,31646231646
+2,Namibia,0,M van Lingen,BTJ Wheal,CG Williams,,0,1,1,,,,31646231646
+2,Namibia,0,CG Williams,BTJ Wheal,M van Lingen,,0,0,0,,,,31646231646
+2,Namibia,0,CG Williams,BTJ Wheal,M van Lingen,,0,0,0,,,,31646231646
+2,Namibia,1,M van Lingen,JH Davey,CG Williams,,0,0,0,,,,31646231646
+2,Namibia,1,M van Lingen,JH Davey,CG Williams,,0,0,0,,,,31646231646
+2,Namibia,1,M van Lingen,JH Davey,CG Williams,,0,2,2,,,,31646231646
+2,Namibia,1,M van Lingen,JH Davey,CG Williams,,0,2,2,,,,31646231646
+2,Namibia,1,M van Lingen,JH Davey,CG Williams,,0,1,1,,,,31646231646
+2,Namibia,1,CG Williams,JH Davey,M van Lingen,,0,0,0,,,,31646231646
+2,Namibia,2,M van Lingen,BTJ Wheal,CG Williams,,0,0,0,,,,31646231646
+2,Namibia,2,M van Lingen,BTJ Wheal,CG Williams,,0,0,0,,,,31646231646
+2,Namibia,2,M van Lingen,BTJ Wheal,CG Williams,,0,0,0,,,,31646231646
+2,Namibia,2,M van Lingen,BTJ Wheal,CG Williams,,0,2,2,,,,31646231646
+2,Namibia,2,M van Lingen,BTJ Wheal,CG Williams,,0,0,0,,,,31646231646
+2,Namibia,2,M van Lingen,BTJ Wheal,CG Williams,,0,0,0,,,,31646231646
+2,Namibia,3,CG Williams,SM Sharif,M van Lingen,,0,0,0,,,,31646231646
+2,Namibia,3,CG Williams,SM Sharif,M van Lingen,,0,1,1,,,,31646231646
+2,Namibia,3,M van Lingen,SM Sharif,CG Williams,legbyes,1,1,0,,,,31646231646
+2,Namibia,3,CG Williams,SM Sharif,M van Lingen,,0,1,1,,,,31646231646
+2,Namibia,3,M van Lingen,SM Sharif,CG Williams,,0,0,0,,,,31646231646
+2,Namibia,3,M van Lingen,SM Sharif,CG Williams,,0,0,0,,,,31646231646
+2,Namibia,4,CG Williams,JH Davey,M van Lingen,,0,1,1,,,,31646231646
+2,Namibia,4,M van Lingen,JH Davey,CG Williams,,0,0,0,,,,31646231646
+2,Namibia,4,M van Lingen,JH Davey,CG Williams,,0,0,0,,,,31646231646
+2,Namibia,4,M van Lingen,JH Davey,CG Williams,,0,4,4,,,,31646231646
+2,Namibia,4,M van Lingen,JH Davey,CG Williams,,0,4,4,,,,31646231646
+2,Namibia,4,M van Lingen,JH Davey,CG Williams,,0,1,1,,,,31646231646
+2,Namibia,5,M van Lingen,SM Sharif,CG Williams,,0,1,1,,,,31646231646
+2,Namibia,5,CG Williams,SM Sharif,M van Lingen,,0,1,1,,,,31646231646
+2,Namibia,5,M van Lingen,SM Sharif,CG Williams,,0,0,0,caught,M van Lingen,RD Berrington,31646231646
+2,Namibia,5,CG Williams,SM Sharif,ZE Green,,0,0,0,,,,31646231646
+2,Namibia,5,CG Williams,SM Sharif,ZE Green,,0,0,0,,,,31646231646
+2,Namibia,5,CG Williams,SM Sharif,ZE Green,,0,1,1,,,,31646231646
+2,Namibia,6,CG Williams,BTJ Wheal,ZE Green,,0,1,1,,,,31646231646
+2,Namibia,6,ZE Green,BTJ Wheal,CG Williams,,0,0,0,,,,31646231646
+2,Namibia,6,ZE Green,BTJ Wheal,CG Williams,,0,1,1,,,,31646231646
+2,Namibia,6,CG Williams,BTJ Wheal,ZE Green,,0,1,1,,,,31646231646
+2,Namibia,6,ZE Green,BTJ Wheal,CG Williams,,0,0,0,,,,31646231646
+2,Namibia,6,ZE Green,BTJ Wheal,CG Williams,,0,1,1,,,,31646231646
+2,Namibia,7,ZE Green,CN Greaves,CG Williams,,0,4,4,,,,31646231646
+2,Namibia,7,ZE Green,CN Greaves,CG Williams,,0,0,0,,,,31646231646
+2,Namibia,7,ZE Green,CN Greaves,CG Williams,,0,1,1,,,,31646231646
+2,Namibia,7,CG Williams,CN Greaves,ZE Green,legbyes,2,2,0,,,,31646231646
+2,Namibia,7,CG Williams,CN Greaves,ZE Green,,0,0,0,,,,31646231646
+2,Namibia,7,CG Williams,CN Greaves,ZE Green,,0,0,0,,,,31646231646
+2,Namibia,8,ZE Green,MRJ Watt,CG Williams,,0,0,0,,,,31646231646
+2,Namibia,8,ZE Green,MRJ Watt,CG Williams,,0,0,0,,,,31646231646
+2,Namibia,8,ZE Green,MRJ Watt,CG Williams,,0,0,0,,,,31646231646
+2,Namibia,8,ZE Green,MRJ Watt,CG Williams,,0,2,2,,,,31646231646
+2,Namibia,8,ZE Green,MRJ Watt,CG Williams,wides,1,1,0,,,,31646231646
+2,Namibia,8,ZE Green,MRJ Watt,CG Williams,legbyes,1,1,0,,,,31646231646
+2,Namibia,8,CG Williams,MRJ Watt,ZE Green,,0,6,6,,,,31646231646
+2,Namibia,9,ZE Green,CN Greaves,CG Williams,,0,0,0,caught,ZE Green,HG Munsey,31646231646
+2,Namibia,9,CG Williams,CN Greaves,MG Erasmus,,0,2,2,,,,31646231646
+2,Namibia,9,CG Williams,CN Greaves,MG Erasmus,,0,1,1,,,,31646231646
+2,Namibia,9,MG Erasmus,CN Greaves,CG Williams,legbyes,1,1,0,,,,31646231646
+2,Namibia,9,CG Williams,CN Greaves,MG Erasmus,,0,1,1,,,,31646231646
+2,Namibia,9,MG Erasmus,CN Greaves,CG Williams,,0,1,1,,,,31646231646
+2,Namibia,10,MG Erasmus,MRJ Watt,CG Williams,,0,0,0,,,,31646231646
+2,Namibia,10,MG Erasmus,MRJ Watt,CG Williams,,0,1,1,,,,31646231646
+2,Namibia,10,CG Williams,MRJ Watt,MG Erasmus,,0,0,0,,,,31646231646
+2,Namibia,10,CG Williams,MRJ Watt,MG Erasmus,,0,0,0,,,,31646231646
+2,Namibia,10,CG Williams,MRJ Watt,MG Erasmus,,0,1,1,,,,31646231646
+2,Namibia,10,MG Erasmus,MRJ Watt,CG Williams,,0,2,2,,,,31646231646
+2,Namibia,11,CG Williams,MA Leask,MG Erasmus,,0,1,1,,,,31646231646
+2,Namibia,11,MG Erasmus,MA Leask,CG Williams,,0,0,0,bowled,MG Erasmus,,31646231646
+2,Namibia,11,D Wiese,MA Leask,CG Williams,,0,1,1,,,,31646231646
+2,Namibia,11,CG Williams,MA Leask,D Wiese,,0,1,1,,,,31646231646
+2,Namibia,11,D Wiese,MA Leask,CG Williams,,0,0,0,,,,31646231646
+2,Namibia,11,D Wiese,MA Leask,CG Williams,,0,2,2,,,,31646231646
+2,Namibia,12,CG Williams,MRJ Watt,D Wiese,,0,0,0,,,,31646231646
+2,Namibia,12,CG Williams,MRJ Watt,D Wiese,,0,2,2,,,,31646231646
+2,Namibia,12,CG Williams,MRJ Watt,D Wiese,,0,0,0,stumped,CG Williams,MH Cross,31646231646
+2,Namibia,12,JJ Smit,MRJ Watt,D Wiese,,0,1,1,,,,31646231646
+2,Namibia,12,D Wiese,MRJ Watt,JJ Smit,,0,1,1,,,,31646231646
+2,Namibia,12,JJ Smit,MRJ Watt,D Wiese,,0,2,2,,,,31646231646
+2,Namibia,13,D Wiese,CN Greaves,JJ Smit,,0,0,0,,,,31646231646
+2,Namibia,13,D Wiese,CN Greaves,JJ Smit,,0,1,1,,,,31646231646
+2,Namibia,13,JJ Smit,CN Greaves,D Wiese,,0,0,0,,,,31646231646
+2,Namibia,13,JJ Smit,CN Greaves,D Wiese,,0,2,2,,,,31646231646
+2,Namibia,13,JJ Smit,CN Greaves,D Wiese,,0,0,0,,,,31646231646
+2,Namibia,13,JJ Smit,CN Greaves,D Wiese,,0,1,1,,,,31646231646
+2,Namibia,14,JJ Smit,SM Sharif,D Wiese,,0,4,4,,,,31646231646
+2,Namibia,14,JJ Smit,SM Sharif,D Wiese,,0,1,1,,,,31646231646
+2,Namibia,14,D Wiese,SM Sharif,JJ Smit,,0,2,2,,,,31646231646
+2,Namibia,14,D Wiese,SM Sharif,JJ Smit,,0,1,1,,,,31646231646
+2,Namibia,14,JJ Smit,SM Sharif,D Wiese,wides,1,1,0,,,,31646231646
+2,Namibia,14,JJ Smit,SM Sharif,D Wiese,,0,0,0,,,,31646231646
+2,Namibia,14,JJ Smit,SM Sharif,D Wiese,,0,1,1,,,,31646231646
+2,Namibia,15,JJ Smit,CN Greaves,D Wiese,,0,0,0,,,,31646231646
+2,Namibia,15,JJ Smit,CN Greaves,D Wiese,,0,6,6,,,,31646231646
+2,Namibia,15,JJ Smit,CN Greaves,D Wiese,,0,0,0,,,,31646231646
+2,Namibia,15,JJ Smit,CN Greaves,D Wiese,,0,0,0,,,,31646231646
+2,Namibia,15,JJ Smit,CN Greaves,D Wiese,,0,2,2,,,,31646231646
+2,Namibia,15,JJ Smit,CN Greaves,D Wiese,,0,0,0,,,,31646231646
+2,Namibia,16,D Wiese,MRJ Watt,JJ Smit,,0,1,1,,,,31646231646
+2,Namibia,16,JJ Smit,MRJ Watt,D Wiese,,0,1,1,,,,31646231646
+2,Namibia,16,D Wiese,MRJ Watt,JJ Smit,,0,1,1,,,,31646231646
+2,Namibia,16,JJ Smit,MRJ Watt,D Wiese,,0,0,0,,,,31646231646
+2,Namibia,16,JJ Smit,MRJ Watt,D Wiese,,0,0,0,,,,31646231646
+2,Namibia,16,JJ Smit,MRJ Watt,D Wiese,,0,0,0,,,,31646231646
+2,Namibia,17,D Wiese,MA Leask,JJ Smit,,0,0,0,,,,31646231646
+2,Namibia,17,D Wiese,MA Leask,JJ Smit,,0,6,6,,,,31646231646
+2,Namibia,17,D Wiese,MA Leask,JJ Smit,,0,0,0,,,,31646231646
+2,Namibia,17,D Wiese,MA Leask,JJ Smit,,0,0,0,caught,D Wiese,MRJ Watt,31646231646
+2,Namibia,17,JN Frylinck,MA Leask,JJ Smit,,0,0,0,,,,31646231646
+2,Namibia,17,JN Frylinck,MA Leask,JJ Smit,,0,1,1,,,,31646231646
+2,Namibia,18,JN Frylinck,BTJ Wheal,JJ Smit,,0,1,1,,,,31646231646
+2,Namibia,18,JJ Smit,BTJ Wheal,JN Frylinck,,0,4,4,,,,31646231646
+2,Namibia,18,JJ Smit,BTJ Wheal,JN Frylinck,,0,1,1,,,,31646231646
+2,Namibia,18,JN Frylinck,BTJ Wheal,JJ Smit,,0,0,0,caught,JN Frylinck,CS MacLeod,31646231646
+2,Namibia,18,HN Ya France,BTJ Wheal,JJ Smit,,0,0,0,,,,31646231646
+2,Namibia,18,HN Ya France,BTJ Wheal,JJ Smit,,0,0,0,,,,31646231646
+2,Namibia,19,JJ Smit,SM Sharif,HN Ya France,,0,6,6,,,,31646231646

@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Switzerland,0,Faheem Nazir,Naveed Ahmed,Azeem Nazir,,0,4,4,,,,32160232160
+1,Switzerland,0,Faheem Nazir,Naveed Ahmed,Azeem Nazir,,0,4,4,,,,32160232160
+1,Switzerland,0,Faheem Nazir,Naveed Ahmed,Azeem Nazir,wides,1,1,0,,,,32160232160
+1,Switzerland,0,Faheem Nazir,Naveed Ahmed,Azeem Nazir,,0,1,1,,,,32160232160
+1,Switzerland,0,Azeem Nazir,Naveed Ahmed,Faheem Nazir,,0,0,0,,,,32160232160
+1,Switzerland,0,Azeem Nazir,Naveed Ahmed,Faheem Nazir,,0,0,0,caught,Azeem Nazir,S Wickramasekara,32160232160
+1,Switzerland,0,Ali Nayyer,Naveed Ahmed,Faheem Nazir,,0,1,1,,,,32160232160
+1,Switzerland,1,Ali Nayyer,SMK Waththage,Faheem Nazir,,0,2,2,,,,32160232160
+1,Switzerland,1,Ali Nayyer,SMK Waththage,Faheem Nazir,,0,0,0,,,,32160232160
+1,Switzerland,1,Ali Nayyer,SMK Waththage,Faheem Nazir,,0,4,4,,,,32160232160
+1,Switzerland,1,Ali Nayyer,SMK Waththage,Faheem Nazir,,0,0,0,caught and bowled,Ali Nayyer,,32160232160
+1,Switzerland,1,Faheem Nazir,SMK Waththage,Noorkhan Ahmedi,,0,1,1,,,,32160232160
+1,Switzerland,1,Noorkhan Ahmedi,SMK Waththage,Faheem Nazir,,0,0,0,,,,32160232160
+1,Switzerland,2,Faheem Nazir,Naveed Ahmed,Noorkhan Ahmedi,,0,6,6,,,,32160232160
+1,Switzerland,2,Faheem Nazir,Naveed Ahmed,Noorkhan Ahmedi,,0,0,0,,,,32160232160
+1,Switzerland,2,Faheem Nazir,Naveed Ahmed,Noorkhan Ahmedi,,0,1,1,,,,32160232160
+1,Switzerland,2,Noorkhan Ahmedi,Naveed Ahmed,Faheem Nazir,,0,4,4,,,,32160232160
+1,Switzerland,2,Noorkhan Ahmedi,Naveed Ahmed,Faheem Nazir,,0,4,4,,,,32160232160
+1,Switzerland,2,Noorkhan Ahmedi,Naveed Ahmed,Faheem Nazir,,0,0,0,,,,32160232160
+1,Switzerland,3,Faheem Nazir,SMK Waththage,Noorkhan Ahmedi,,0,6,6,,,,32160232160
+1,Switzerland,3,Faheem Nazir,SMK Waththage,Noorkhan Ahmedi,,0,1,1,,,,32160232160
+1,Switzerland,3,Noorkhan Ahmedi,SMK Waththage,Faheem Nazir,,0,0,0,,,,32160232160
+1,Switzerland,3,Noorkhan Ahmedi,SMK Waththage,Faheem Nazir,,0,1,1,,,,32160232160
+1,Switzerland,3,Faheem Nazir,SMK Waththage,Noorkhan Ahmedi,,0,4,4,,,,32160232160
+1,Switzerland,3,Faheem Nazir,SMK Waththage,Noorkhan Ahmedi,,0,1,1,,,,32160232160
+1,Switzerland,4,Faheem Nazir,S Wickramasekara,Noorkhan Ahmedi,,0,1,1,,,,32160232160
+1,Switzerland,4,Noorkhan Ahmedi,S Wickramasekara,Faheem Nazir,,0,0,0,,,,32160232160
+1,Switzerland,4,Noorkhan Ahmedi,S Wickramasekara,Faheem Nazir,,0,1,1,,,,32160232160
+1,Switzerland,4,Faheem Nazir,S Wickramasekara,Noorkhan Ahmedi,legbyes,1,1,0,,,,32160232160
+1,Switzerland,4,Noorkhan Ahmedi,S Wickramasekara,Faheem Nazir,,0,1,1,,,,32160232160
+1,Switzerland,4,Faheem Nazir,S Wickramasekara,Noorkhan Ahmedi,,0,1,1,,,,32160232160
+1,Switzerland,5,Faheem Nazir,Abul Farhad,Noorkhan Ahmedi,noballs,1,3,2,,,,32160232160
+1,Switzerland,5,Faheem Nazir,Abul Farhad,Noorkhan Ahmedi,,0,1,1,,,,32160232160
+1,Switzerland,5,Noorkhan Ahmedi,Abul Farhad,Faheem Nazir,,0,4,4,,,,32160232160
+1,Switzerland,5,Noorkhan Ahmedi,Abul Farhad,Faheem Nazir,,0,3,3,,,,32160232160
+1,Switzerland,5,Faheem Nazir,Abul Farhad,Noorkhan Ahmedi,,0,0,0,,,,32160232160
+1,Switzerland,5,Faheem Nazir,Abul Farhad,Noorkhan Ahmedi,,0,1,1,,,,32160232160
+1,Switzerland,5,Noorkhan Ahmedi,Abul Farhad,Faheem Nazir,,0,6,6,,,,32160232160
+1,Switzerland,6,Faheem Nazir,S Wickramasekara,Noorkhan Ahmedi,,0,0,0,,,,32160232160
+1,Switzerland,6,Faheem Nazir,S Wickramasekara,Noorkhan Ahmedi,byes,1,1,0,,,,32160232160
+1,Switzerland,6,Noorkhan Ahmedi,S Wickramasekara,Faheem Nazir,,0,4,4,,,,32160232160
+1,Switzerland,6,Noorkhan Ahmedi,S Wickramasekara,Faheem Nazir,,0,0,0,,,,32160232160
+1,Switzerland,6,Noorkhan Ahmedi,S Wickramasekara,Faheem Nazir,,0,1,1,,,,32160232160
+1,Switzerland,6,Faheem Nazir,S Wickramasekara,Noorkhan Ahmedi,,0,1,1,,,,32160232160
+1,Switzerland,7,Faheem Nazir,A Ashokan,Noorkhan Ahmedi,,0,1,1,,,,32160232160
+1,Switzerland,7,Noorkhan Ahmedi,A Ashokan,Faheem Nazir,,0,2,2,,,,32160232160
+1,Switzerland,7,Noorkhan Ahmedi,A Ashokan,Faheem Nazir,,0,0,0,,,,32160232160
+1,Switzerland,7,Noorkhan Ahmedi,A Ashokan,Faheem Nazir,,0,1,1,,,,32160232160
+1,Switzerland,7,Faheem Nazir,A Ashokan,Noorkhan Ahmedi,,0,1,1,,,,32160232160
+1,Switzerland,7,Noorkhan Ahmedi,A Ashokan,Faheem Nazir,,0,0,0,lbw,Noorkhan Ahmedi,,32160232160
+1,Switzerland,8,Faheem Nazir,TK Lal,Asad Mahmood,,0,1,1,,,,32160232160
+1,Switzerland,8,Asad Mahmood,TK Lal,Faheem Nazir,,0,1,1,,,,32160232160
+1,Switzerland,8,Faheem Nazir,TK Lal,Asad Mahmood,,0,2,2,,,,32160232160
+1,Switzerland,8,Faheem Nazir,TK Lal,Asad Mahmood,,0,0,0,,,,32160232160
+1,Switzerland,8,Faheem Nazir,TK Lal,Asad Mahmood,,0,2,2,,,,32160232160
+1,Switzerland,8,Faheem Nazir,TK Lal,Asad Mahmood,,0,1,1,,,,32160232160
+1,Switzerland,9,Faheem Nazir,A Ashokan,Asad Mahmood,,0,1,1,,,,32160232160
+1,Switzerland,9,Asad Mahmood,A Ashokan,Faheem Nazir,,0,1,1,,,,32160232160
+1,Switzerland,9,Faheem Nazir,A Ashokan,Asad Mahmood,,0,1,1,,,,32160232160
+1,Switzerland,9,Asad Mahmood,A Ashokan,Faheem Nazir,,0,0,0,caught,Asad Mahmood,S Davizi,32160232160
+1,Switzerland,9,Anser Mehmood,A Ashokan,Faheem Nazir,,0,0,0,,,,32160232160
+1,Switzerland,9,Anser Mehmood,A Ashokan,Faheem Nazir,,0,0,0,,,,32160232160
+1,Switzerland,10,Faheem Nazir,TK Lal,Anser Mehmood,,0,1,1,,,,32160232160
+1,Switzerland,10,Anser Mehmood,TK Lal,Faheem Nazir,,0,0,0,,,,32160232160
+1,Switzerland,10,Anser Mehmood,TK Lal,Faheem Nazir,,0,1,1,,,,32160232160
+1,Switzerland,10,Faheem Nazir,TK Lal,Anser Mehmood,,0,0,0,,,,32160232160
+1,Switzerland,10,Faheem Nazir,TK Lal,Anser Mehmood,,0,1,1,,,,32160232160
+1,Switzerland,10,Anser Mehmood,TK Lal,Faheem Nazir,,0,1,1,,,,32160232160
+1,Switzerland,11,Anser Mehmood,A Ashokan,Faheem Nazir,,0,1,1,,,,32160232160
+1,Switzerland,11,Faheem Nazir,A Ashokan,Anser Mehmood,,0,2,2,,,,32160232160
+1,Switzerland,11,Faheem Nazir,A Ashokan,Anser Mehmood,,0,2,2,,,,32160232160
+1,Switzerland,11,Faheem Nazir,A Ashokan,Anser Mehmood,,0,1,1,,,,32160232160
+1,Switzerland,11,Anser Mehmood,A Ashokan,Faheem Nazir,,0,0,0,caught,Anser Mehmood,Dylan Steyn,32160232160
+1,Switzerland,11,Faheem Nazir,A Ashokan,Arjun Vinod,,0,6,6,,,,32160232160
+1,Switzerland,12,Arjun Vinod,TK Lal,Faheem Nazir,,0,1,1,,,,32160232160
+1,Switzerland,12,Faheem Nazir,TK Lal,Arjun Vinod,,0,1,1,,,,32160232160
+1,Switzerland,12,Arjun Vinod,TK Lal,Faheem Nazir,,0,1,1,,,,32160232160
+1,Switzerland,12,Faheem Nazir,TK Lal,Arjun Vinod,,0,3,3,,,,32160232160
+1,Switzerland,12,Arjun Vinod,TK Lal,Faheem Nazir,,0,1,1,,,,32160232160
+1,Switzerland,12,Faheem Nazir,TK Lal,Arjun Vinod,,0,1,1,,,,32160232160
+1,Switzerland,13,Faheem Nazir,A Ashokan,Arjun Vinod,,0,2,2,,,,32160232160
+1,Switzerland,13,Faheem Nazir,A Ashokan,Arjun Vinod,,0,4,4,,,,32160232160
+1,Switzerland,13,Faheem Nazir,A Ashokan,Arjun Vinod,,0,0,0,,,,32160232160
+1,Switzerland,13,Faheem Nazir,A Ashokan,Arjun Vinod,,0,1,1,,,,32160232160
+1,Switzerland,13,Arjun Vinod,A Ashokan,Faheem Nazir,,0,1,1,,,,32160232160
+1,Switzerland,13,Faheem Nazir,A Ashokan,Arjun Vinod,,0,4,4,,,,32160232160
+1,Switzerland,14,Arjun Vinod,TK Lal,Faheem Nazir,,0,6,6,,,,32160232160
+1,Switzerland,14,Arjun Vinod,TK Lal,Faheem Nazir,,0,1,1,,,,32160232160
+1,Switzerland,14,Faheem Nazir,TK Lal,Arjun Vinod,,0,4,4,,,,32160232160
+1,Switzerland,14,Faheem Nazir,TK Lal,Arjun Vinod,legbyes,1,1,0,,,,32160232160
+1,Switzerland,14,Arjun Vinod,TK Lal,Faheem Nazir,,0,0,0,,,,32160232160
+1,Switzerland,14,Arjun Vinod,TK Lal,Faheem Nazir,,0,1,1,,,,32160232160
+1,Switzerland,15,Arjun Vinod,Abul Farhad,Faheem Nazir,,0,0,0,,,,32160232160
+1,Switzerland,15,Arjun Vinod,Abul Farhad,Faheem Nazir,,0,0,0,,,,32160232160
+1,Switzerland,15,Arjun Vinod,Abul Farhad,Faheem Nazir,,0,0,0,caught,Arjun Vinod,Sazib Bhuiyan,32160232160
+1,Switzerland,15,Faheem Nazir,Abul Farhad,Sathya Narayanan,,0,1,1,,,,32160232160
+1,Switzerland,15,Sathya Narayanan,Abul Farhad,Faheem Nazir,,0,1,1,,,,32160232160
+1,Switzerland,15,Faheem Nazir,Abul Farhad,Sathya Narayanan,,0,4,4,,,,32160232160
+1,Switzerland,16,Sathya Narayanan,S Wickramasekara,Faheem Nazir,byes,1,1,0,,,,32160232160
+1,Switzerland,16,Faheem Nazir,S Wickramasekara,Sathya Narayanan,legbyes,2,2,0,,,,32160232160
+1,Switzerland,16,Faheem Nazir,S Wickramasekara,Sathya Narayanan,,0,2,2,,,,32160232160
+1,Switzerland,16,Faheem Nazir,S Wickramasekara,Sathya Narayanan,,0,3,3,,,,32160232160
+1,Switzerland,16,Sathya Narayanan,S Wickramasekara,Faheem Nazir,,0,1,1,,,,32160232160
+1,Switzerland,16,Faheem Nazir,S Wickramasekara,Sathya Narayanan,,0,1,1,,,,32160232160
+1,Switzerland,17,Faheem Nazir,Abul Farhad,Sathya Narayanan,,0,2,2,,,,32160232160
+1,Switzerland,17,Faheem Nazir,Abul Farhad,Sathya Narayanan,,0,2,2,,,,32160232160
+1,Switzerland,17,Faheem Nazir,Abul Farhad,Sathya Narayanan,,0,0,0,,,,32160232160
+1,Switzerland,17,Faheem Nazir,Abul Farhad,Sathya Narayanan,,0,1,1,,,,32160232160
+1,Switzerland,17,Sathya Narayanan,Abul Farhad,Faheem Nazir,,0,0,0,caught,Sathya Narayanan,Ritik Tomar,32160232160
+1,Switzerland,17,Faheem Nazir,Abul Farhad,NK Aneesh Kumar,wides,1,1,0,,,,32160232160
+1,Switzerland,17,Faheem Nazir,Abul Farhad,NK Aneesh Kumar,,0,4,4,,,,32160232160
+1,Switzerland,18,NK Aneesh Kumar,S Wickramasekara,Faheem Nazir,,0,1,1,,,,32160232160
+1,Switzerland,18,Faheem Nazir,S Wickramasekara,NK Aneesh Kumar,,0,1,1,,,,32160232160
+1,Switzerland,18,NK Aneesh Kumar,S Wickramasekara,Faheem Nazir,,0,1,1,,,,32160232160
+1,Switzerland,18,Faheem Nazir,S Wickramasekara,NK Aneesh Kumar,,0,0,0,,,,32160232160
+1,Switzerland,18,Faheem Nazir,S Wickramasekara,NK Aneesh Kumar,,0,4,4,,,,32160232160
+1,Switzerland,18,Faheem Nazir,S Wickramasekara,NK Aneesh Kumar,,0,1,1,,,,32160232160
+1,Switzerland,19,Faheem Nazir,SMK Waththage,NK Aneesh Kumar,,0,4,4,,,,32160232160
+1,Switzerland,19,Faheem Nazir,SMK Waththage,NK Aneesh Kumar,,0,2,2,,,,32160232160
+1,Switzerland,19,Faheem Nazir,SMK Waththage,NK Aneesh Kumar,,0,2,2,,,,32160232160
+1,Switzerland,19,Faheem Nazir,SMK Waththage,NK Aneesh Kumar,,0,0,0,,,,32160232160
+1,Switzerland,19,Faheem Nazir,SMK Waththage,NK Aneesh Kumar,,0,0,0,caught,Faheem Nazir,Ritik Tomar,32160232160
+1,Switzerland,19,NK Aneesh Kumar,SMK Waththage,Ashwin Vinod,byes,1,1,0,,,,32160232160

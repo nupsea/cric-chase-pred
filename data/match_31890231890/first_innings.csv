@@ -1,0 +1,129 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Nepal,0,K Kunwar,A Mare,J Pandey,,0,0,0,,,,31890231890
+1,Nepal,0,K Kunwar,A Mare,J Pandey,,0,1,1,,,,31890231890
+1,Nepal,0,J Pandey,A Mare,K Kunwar,,0,0,0,,,,31890231890
+1,Nepal,0,J Pandey,A Mare,K Kunwar,,0,0,0,,,,31890231890
+1,Nepal,0,J Pandey,A Mare,K Kunwar,,0,1,1,,,,31890231890
+1,Nepal,0,K Kunwar,A Mare,J Pandey,,0,2,2,,,,31890231890
+1,Nepal,1,J Pandey,H Agarwal,K Kunwar,,0,1,1,,,,31890231890
+1,Nepal,1,K Kunwar,H Agarwal,J Pandey,,0,0,0,,,,31890231890
+1,Nepal,1,K Kunwar,H Agarwal,J Pandey,,0,0,0,,,,31890231890
+1,Nepal,1,K Kunwar,H Agarwal,J Pandey,,0,2,2,,,,31890231890
+1,Nepal,1,K Kunwar,H Agarwal,J Pandey,,0,1,1,,,,31890231890
+1,Nepal,1,J Pandey,H Agarwal,K Kunwar,,0,0,0,,,,31890231890
+1,Nepal,2,K Kunwar,A Mare,J Pandey,,0,1,1,,,,31890231890
+1,Nepal,2,J Pandey,A Mare,K Kunwar,,0,0,0,,,,31890231890
+1,Nepal,2,J Pandey,A Mare,K Kunwar,wides,1,1,0,,,,31890231890
+1,Nepal,2,J Pandey,A Mare,K Kunwar,,0,4,4,,,,31890231890
+1,Nepal,2,J Pandey,A Mare,K Kunwar,,0,0,0,,,,31890231890
+1,Nepal,2,J Pandey,A Mare,K Kunwar,,0,0,0,caught,J Pandey,Aleena Khan,31890231890
+1,Nepal,2,K Shrestha,A Mare,K Kunwar,,0,0,0,,,,31890231890
+1,Nepal,3,K Kunwar,H Agarwal,K Shrestha,,0,0,0,,,,31890231890
+1,Nepal,3,K Kunwar,H Agarwal,K Shrestha,,0,1,1,,,,31890231890
+1,Nepal,3,K Shrestha,H Agarwal,K Kunwar,,0,1,1,,,,31890231890
+1,Nepal,3,K Kunwar,H Agarwal,K Shrestha,,0,0,0,,,,31890231890
+1,Nepal,3,K Kunwar,H Agarwal,K Shrestha,,0,0,0,,,,31890231890
+1,Nepal,3,K Kunwar,H Agarwal,K Shrestha,,0,2,2,,,,31890231890
+1,Nepal,4,K Shrestha,A Mare,K Kunwar,,0,2,2,,,,31890231890
+1,Nepal,4,K Shrestha,A Mare,K Kunwar,,0,0,0,bowled,K Shrestha,,31890231890
+1,Nepal,4,RC Belbashi,A Mare,K Kunwar,,0,0,0,,,,31890231890
+1,Nepal,4,RC Belbashi,A Mare,K Kunwar,wides,1,1,0,,,,31890231890
+1,Nepal,4,RC Belbashi,A Mare,K Kunwar,,0,1,1,,,,31890231890
+1,Nepal,4,K Kunwar,A Mare,RC Belbashi,,0,6,6,,,,31890231890
+1,Nepal,4,K Kunwar,A Mare,RC Belbashi,,0,0,0,,,,31890231890
+1,Nepal,5,RC Belbashi,H Agarwal,K Kunwar,,0,0,0,,,,31890231890
+1,Nepal,5,RC Belbashi,H Agarwal,K Kunwar,,0,0,0,,,,31890231890
+1,Nepal,5,RC Belbashi,H Agarwal,K Kunwar,,0,0,0,,,,31890231890
+1,Nepal,5,RC Belbashi,H Agarwal,K Kunwar,,0,0,0,,,,31890231890
+1,Nepal,5,RC Belbashi,H Agarwal,K Kunwar,,0,0,0,,,,31890231890
+1,Nepal,5,RC Belbashi,H Agarwal,K Kunwar,,0,1,1,,,,31890231890
+1,Nepal,6,RC Belbashi,A Mare,K Kunwar,,0,4,4,,,,31890231890
+1,Nepal,6,RC Belbashi,A Mare,K Kunwar,,0,1,1,,,,31890231890
+1,Nepal,6,K Kunwar,A Mare,RC Belbashi,,0,1,1,,,,31890231890
+1,Nepal,6,RC Belbashi,A Mare,K Kunwar,,0,1,1,,,,31890231890
+1,Nepal,6,K Kunwar,A Mare,RC Belbashi,,0,0,0,,,,31890231890
+1,Nepal,6,K Kunwar,A Mare,RC Belbashi,,0,1,1,,,,31890231890
+1,Nepal,7,K Kunwar,H Agarwal,RC Belbashi,,0,0,0,,,,31890231890
+1,Nepal,7,K Kunwar,H Agarwal,RC Belbashi,,0,6,6,,,,31890231890
+1,Nepal,7,K Kunwar,H Agarwal,RC Belbashi,,0,2,2,,,,31890231890
+1,Nepal,7,K Kunwar,H Agarwal,RC Belbashi,wides,1,1,0,,,,31890231890
+1,Nepal,7,K Kunwar,H Agarwal,RC Belbashi,,0,0,0,,,,31890231890
+1,Nepal,7,K Kunwar,H Agarwal,RC Belbashi,,0,1,1,,,,31890231890
+1,Nepal,7,RC Belbashi,H Agarwal,K Kunwar,,0,0,0,,,,31890231890
+1,Nepal,8,K Kunwar,Aysha,RC Belbashi,wides,5,5,0,,,,31890231890
+1,Nepal,8,K Kunwar,Aysha,RC Belbashi,,0,0,0,,,,31890231890
+1,Nepal,8,K Kunwar,Aysha,RC Belbashi,wides,1,1,0,,,,31890231890
+1,Nepal,8,K Kunwar,Aysha,RC Belbashi,,0,1,1,,,,31890231890
+1,Nepal,8,RC Belbashi,Aysha,K Kunwar,,0,4,4,,,,31890231890
+1,Nepal,8,RC Belbashi,Aysha,K Kunwar,,0,0,0,,,,31890231890
+1,Nepal,8,RC Belbashi,Aysha,K Kunwar,,0,1,1,,,,31890231890
+1,Nepal,8,K Kunwar,Aysha,RC Belbashi,,0,0,0,,,,31890231890
+1,Nepal,9,RC Belbashi,Aleena Khan,K Kunwar,,0,1,1,,,,31890231890
+1,Nepal,9,K Kunwar,Aleena Khan,RC Belbashi,,0,1,1,,,,31890231890
+1,Nepal,9,RC Belbashi,Aleena Khan,K Kunwar,,0,4,4,,,,31890231890
+1,Nepal,9,RC Belbashi,Aleena Khan,K Kunwar,,0,1,1,,,,31890231890
+1,Nepal,9,K Kunwar,Aleena Khan,RC Belbashi,wides,1,1,0,,,,31890231890
+1,Nepal,9,K Kunwar,Aleena Khan,RC Belbashi,,0,1,1,,,,31890231890
+1,Nepal,9,RC Belbashi,Aleena Khan,K Kunwar,,0,0,0,,,,31890231890
+1,Nepal,10,K Kunwar,SA Panayan,RC Belbashi,,0,1,1,,,,31890231890
+1,Nepal,10,RC Belbashi,SA Panayan,K Kunwar,,0,6,6,,,,31890231890
+1,Nepal,10,RC Belbashi,SA Panayan,K Kunwar,,0,1,1,,,,31890231890
+1,Nepal,10,K Kunwar,SA Panayan,RC Belbashi,,0,0,0,caught,K Kunwar,S Dhadwal,31890231890
+1,Nepal,10,RC Belbashi,SA Panayan,S Magar,,0,0,0,,,,31890231890
+1,Nepal,10,RC Belbashi,SA Panayan,S Magar,,0,0,0,,,,31890231890
+1,Nepal,11,S Magar,Aleena Khan,RC Belbashi,,0,0,0,,,,31890231890
+1,Nepal,11,S Magar,Aleena Khan,RC Belbashi,,0,2,2,,,,31890231890
+1,Nepal,11,S Magar,Aleena Khan,RC Belbashi,,0,0,0,,,,31890231890
+1,Nepal,11,S Magar,Aleena Khan,RC Belbashi,,0,1,1,,,,31890231890
+1,Nepal,11,RC Belbashi,Aleena Khan,S Magar,,0,2,2,,,,31890231890
+1,Nepal,11,RC Belbashi,Aleena Khan,S Magar,,0,0,0,,,,31890231890
+1,Nepal,12,S Magar,SA Panayan,RC Belbashi,,0,0,0,,,,31890231890
+1,Nepal,12,S Magar,SA Panayan,RC Belbashi,,0,0,0,,,,31890231890
+1,Nepal,12,S Magar,SA Panayan,RC Belbashi,,0,1,1,,,,31890231890
+1,Nepal,12,RC Belbashi,SA Panayan,S Magar,,0,0,0,,,,31890231890
+1,Nepal,12,RC Belbashi,SA Panayan,S Magar,,0,1,1,,,,31890231890
+1,Nepal,12,S Magar,SA Panayan,RC Belbashi,,0,0,0,,,,31890231890
+1,Nepal,13,RC Belbashi,Aleena Khan,S Magar,,0,1,1,,,,31890231890
+1,Nepal,13,S Magar,Aleena Khan,RC Belbashi,,0,0,0,,,,31890231890
+1,Nepal,13,S Magar,Aleena Khan,RC Belbashi,,0,0,0,bowled,S Magar,,31890231890
+1,Nepal,13,D Bhatta,Aleena Khan,RC Belbashi,,0,0,0,,,,31890231890
+1,Nepal,13,D Bhatta,Aleena Khan,RC Belbashi,,0,0,0,,,,31890231890
+1,Nepal,13,D Bhatta,Aleena Khan,RC Belbashi,,0,0,0,,,,31890231890
+1,Nepal,14,RC Belbashi,SA Panayan,D Bhatta,,0,2,2,,,,31890231890
+1,Nepal,14,RC Belbashi,SA Panayan,D Bhatta,,0,0,0,,,,31890231890
+1,Nepal,14,RC Belbashi,SA Panayan,D Bhatta,,0,1,1,run out,D Bhatta,T Kale,31890231890
+1,Nepal,14,Apsari Begam,SA Panayan,RC Belbashi,,0,0,0,,,,31890231890
+1,Nepal,14,Apsari Begam,SA Panayan,RC Belbashi,,0,0,0,,,,31890231890
+1,Nepal,14,Apsari Begam,SA Panayan,RC Belbashi,,0,0,0,,,,31890231890
+1,Nepal,15,RC Belbashi,Aleena Khan,Apsari Begam,,0,1,1,,,,31890231890
+1,Nepal,15,Apsari Begam,Aleena Khan,RC Belbashi,,0,1,1,,,,31890231890
+1,Nepal,15,RC Belbashi,Aleena Khan,Apsari Begam,,0,0,0,,,,31890231890
+1,Nepal,15,RC Belbashi,Aleena Khan,Apsari Begam,,0,2,2,,,,31890231890
+1,Nepal,15,RC Belbashi,Aleena Khan,Apsari Begam,,0,1,1,,,,31890231890
+1,Nepal,15,Apsari Begam,Aleena Khan,RC Belbashi,,0,0,0,,,,31890231890
+1,Nepal,16,RC Belbashi,SA Panayan,Apsari Begam,,0,2,2,,,,31890231890
+1,Nepal,16,RC Belbashi,SA Panayan,Apsari Begam,,0,1,1,,,,31890231890
+1,Nepal,16,Apsari Begam,SA Panayan,RC Belbashi,,0,1,1,,,,31890231890
+1,Nepal,16,RC Belbashi,SA Panayan,Apsari Begam,,0,4,4,,,,31890231890
+1,Nepal,16,RC Belbashi,SA Panayan,Apsari Begam,,0,0,0,,,,31890231890
+1,Nepal,16,RC Belbashi,SA Panayan,Apsari Begam,,0,2,2,,,,31890231890
+1,Nepal,17,Apsari Begam,S Dhadwal,RC Belbashi,,0,2,2,,,,31890231890
+1,Nepal,17,Apsari Begam,S Dhadwal,RC Belbashi,,0,1,1,,,,31890231890
+1,Nepal,17,RC Belbashi,S Dhadwal,Apsari Begam,,0,2,2,,,,31890231890
+1,Nepal,17,RC Belbashi,S Dhadwal,Apsari Begam,,0,0,0,,,,31890231890
+1,Nepal,17,RC Belbashi,S Dhadwal,Apsari Begam,,0,0,0,,,,31890231890
+1,Nepal,17,RC Belbashi,S Dhadwal,Apsari Begam,,0,0,0,,,,31890231890
+1,Nepal,18,Apsari Begam,Khadija Imtiaz,RC Belbashi,,0,4,4,,,,31890231890
+1,Nepal,18,Apsari Begam,Khadija Imtiaz,RC Belbashi,,0,2,2,,,,31890231890
+1,Nepal,18,Apsari Begam,Khadija Imtiaz,RC Belbashi,,0,2,2,,,,31890231890
+1,Nepal,18,Apsari Begam,Khadija Imtiaz,RC Belbashi,,0,1,1,,,,31890231890
+1,Nepal,18,RC Belbashi,Khadija Imtiaz,Apsari Begam,,0,1,1,,,,31890231890
+1,Nepal,18,Apsari Begam,Khadija Imtiaz,RC Belbashi,noballs,1,2,1,,,,31890231890
+1,Nepal,18,RC Belbashi,Khadija Imtiaz,Apsari Begam,,0,0,0,,,,31890231890
+1,Nepal,19,Apsari Begam,S Dhadwal,RC Belbashi,,0,1,1,,,,31890231890
+1,Nepal,19,RC Belbashi,S Dhadwal,Apsari Begam,,0,1,1,,,,31890231890
+1,Nepal,19,Apsari Begam,S Dhadwal,RC Belbashi,,0,3,3,,,,31890231890
+1,Nepal,19,RC Belbashi,S Dhadwal,Apsari Begam,,0,0,0,caught,RC Belbashi,Aysha,31890231890
+1,Nepal,19,Apsari Begam,S Dhadwal,K Joshi,wides,1,1,0,,,,31890231890
+1,Nepal,19,Apsari Begam,S Dhadwal,K Joshi,,0,2,2,,,,31890231890
+1,Nepal,19,Apsari Begam,S Dhadwal,K Joshi,,0,2,2,,,,31890231890

@@ -1,0 +1,114 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,New Zealand,0,BB McCullum,Mohammad Amir,AJ Redmond,,0,4,4,,,,3832383
+1,New Zealand,0,BB McCullum,Mohammad Amir,AJ Redmond,,0,2,2,,,,3832383
+1,New Zealand,0,BB McCullum,Mohammad Amir,AJ Redmond,,0,1,1,,,,3832383
+1,New Zealand,0,AJ Redmond,Mohammad Amir,BB McCullum,,0,2,2,,,,3832383
+1,New Zealand,0,AJ Redmond,Mohammad Amir,BB McCullum,,0,1,1,,,,3832383
+1,New Zealand,0,BB McCullum,Mohammad Amir,AJ Redmond,,0,4,4,,,,3832383
+1,New Zealand,1,AJ Redmond,Abdul Razzaq,BB McCullum,,0,1,1,,,,3832383
+1,New Zealand,1,BB McCullum,Abdul Razzaq,AJ Redmond,,0,1,1,,,,3832383
+1,New Zealand,1,AJ Redmond,Abdul Razzaq,BB McCullum,,0,1,1,,,,3832383
+1,New Zealand,1,BB McCullum,Abdul Razzaq,AJ Redmond,,0,0,0,caught,BB McCullum,Fawad Alam,3832383
+1,New Zealand,1,MJ Guptill,Abdul Razzaq,AJ Redmond,,0,0,0,,,,3832383
+1,New Zealand,1,MJ Guptill,Abdul Razzaq,AJ Redmond,,0,0,0,,,,3832383
+1,New Zealand,2,AJ Redmond,Mohammad Amir,MJ Guptill,,0,0,0,,,,3832383
+1,New Zealand,2,AJ Redmond,Mohammad Amir,MJ Guptill,,0,0,0,,,,3832383
+1,New Zealand,2,AJ Redmond,Mohammad Amir,MJ Guptill,,0,0,0,,,,3832383
+1,New Zealand,2,AJ Redmond,Mohammad Amir,MJ Guptill,,0,4,4,,,,3832383
+1,New Zealand,2,AJ Redmond,Mohammad Amir,MJ Guptill,,0,1,1,,,,3832383
+1,New Zealand,2,MJ Guptill,Mohammad Amir,AJ Redmond,,0,1,1,,,,3832383
+1,New Zealand,3,MJ Guptill,Abdul Razzaq,AJ Redmond,,0,4,4,,,,3832383
+1,New Zealand,3,MJ Guptill,Abdul Razzaq,AJ Redmond,,0,0,0,,,,3832383
+1,New Zealand,3,MJ Guptill,Abdul Razzaq,AJ Redmond,,0,1,1,,,,3832383
+1,New Zealand,3,AJ Redmond,Abdul Razzaq,MJ Guptill,,0,0,0,,,,3832383
+1,New Zealand,3,AJ Redmond,Abdul Razzaq,MJ Guptill,,0,4,4,,,,3832383
+1,New Zealand,3,AJ Redmond,Abdul Razzaq,MJ Guptill,,0,1,1,,,,3832383
+1,New Zealand,4,AJ Redmond,Mohammad Amir,MJ Guptill,,0,0,0,,,,3832383
+1,New Zealand,4,AJ Redmond,Mohammad Amir,MJ Guptill,,0,0,0,caught,AJ Redmond,Umar Gul,3832383
+1,New Zealand,4,SB Styris,Mohammad Amir,MJ Guptill,,0,0,0,,,,3832383
+1,New Zealand,4,SB Styris,Mohammad Amir,MJ Guptill,,0,0,0,,,,3832383
+1,New Zealand,4,SB Styris,Mohammad Amir,MJ Guptill,,0,1,1,,,,3832383
+1,New Zealand,4,MJ Guptill,Mohammad Amir,SB Styris,,0,2,2,,,,3832383
+1,New Zealand,5,SB Styris,Abdul Razzaq,MJ Guptill,,0,0,0,,,,3832383
+1,New Zealand,5,SB Styris,Abdul Razzaq,MJ Guptill,legbyes,1,1,0,,,,3832383
+1,New Zealand,5,MJ Guptill,Abdul Razzaq,SB Styris,,0,0,0,lbw,MJ Guptill,,3832383
+1,New Zealand,5,JDP Oram,Abdul Razzaq,SB Styris,,0,0,0,,,,3832383
+1,New Zealand,5,JDP Oram,Abdul Razzaq,SB Styris,,0,0,0,,,,3832383
+1,New Zealand,5,JDP Oram,Abdul Razzaq,SB Styris,,0,0,0,,,,3832383
+1,New Zealand,6,SB Styris,Saeed Ajmal,JDP Oram,,0,1,1,,,,3832383
+1,New Zealand,6,JDP Oram,Saeed Ajmal,SB Styris,,0,1,1,,,,3832383
+1,New Zealand,6,SB Styris,Saeed Ajmal,JDP Oram,,0,0,0,,,,3832383
+1,New Zealand,6,SB Styris,Saeed Ajmal,JDP Oram,,0,0,0,,,,3832383
+1,New Zealand,6,SB Styris,Saeed Ajmal,JDP Oram,,0,1,1,,,,3832383
+1,New Zealand,6,JDP Oram,Saeed Ajmal,SB Styris,,0,1,1,,,,3832383
+1,New Zealand,7,JDP Oram,Shahid Afridi,SB Styris,,0,0,0,,,,3832383
+1,New Zealand,7,JDP Oram,Shahid Afridi,SB Styris,legbyes,1,1,0,,,,3832383
+1,New Zealand,7,SB Styris,Shahid Afridi,JDP Oram,,0,0,0,,,,3832383
+1,New Zealand,7,SB Styris,Shahid Afridi,JDP Oram,,0,0,0,,,,3832383
+1,New Zealand,7,SB Styris,Shahid Afridi,JDP Oram,,0,1,1,,,,3832383
+1,New Zealand,7,JDP Oram,Shahid Afridi,SB Styris,,0,0,0,,,,3832383
+1,New Zealand,8,SB Styris,Saeed Ajmal,JDP Oram,,0,6,6,,,,3832383
+1,New Zealand,8,SB Styris,Saeed Ajmal,JDP Oram,,0,1,1,,,,3832383
+1,New Zealand,8,JDP Oram,Saeed Ajmal,SB Styris,,0,2,2,,,,3832383
+1,New Zealand,8,JDP Oram,Saeed Ajmal,SB Styris,,0,1,1,,,,3832383
+1,New Zealand,8,SB Styris,Saeed Ajmal,JDP Oram,,0,0,0,,,,3832383
+1,New Zealand,8,SB Styris,Saeed Ajmal,JDP Oram,,0,1,1,,,,3832383
+1,New Zealand,9,SB Styris,Shahid Afridi,JDP Oram,,0,0,0,,,,3832383
+1,New Zealand,9,SB Styris,Shahid Afridi,JDP Oram,,0,1,1,,,,3832383
+1,New Zealand,9,JDP Oram,Shahid Afridi,SB Styris,,0,0,0,caught,JDP Oram,Misbah-ul-Haq,3832383
+1,New Zealand,9,SB Styris,Shahid Afridi,PD McGlashan,,0,0,0,,,,3832383
+1,New Zealand,9,SB Styris,Shahid Afridi,PD McGlashan,,0,0,0,,,,3832383
+1,New Zealand,9,SB Styris,Shahid Afridi,PD McGlashan,,0,1,1,,,,3832383
+1,New Zealand,10,SB Styris,Shoaib Malik,PD McGlashan,,0,1,1,,,,3832383
+1,New Zealand,10,PD McGlashan,Shoaib Malik,SB Styris,,0,1,1,,,,3832383
+1,New Zealand,10,SB Styris,Shoaib Malik,PD McGlashan,,0,1,1,,,,3832383
+1,New Zealand,10,PD McGlashan,Shoaib Malik,SB Styris,,0,0,0,,,,3832383
+1,New Zealand,10,PD McGlashan,Shoaib Malik,SB Styris,,0,4,4,,,,3832383
+1,New Zealand,10,PD McGlashan,Shoaib Malik,SB Styris,,0,1,1,,,,3832383
+1,New Zealand,11,PD McGlashan,Shahid Afridi,SB Styris,,0,1,1,,,,3832383
+1,New Zealand,11,SB Styris,Shahid Afridi,PD McGlashan,,0,1,1,,,,3832383
+1,New Zealand,11,PD McGlashan,Shahid Afridi,SB Styris,,0,0,0,,,,3832383
+1,New Zealand,11,PD McGlashan,Shahid Afridi,SB Styris,,0,1,1,,,,3832383
+1,New Zealand,11,SB Styris,Shahid Afridi,PD McGlashan,,0,2,2,,,,3832383
+1,New Zealand,11,SB Styris,Shahid Afridi,PD McGlashan,,0,3,3,,,,3832383
+1,New Zealand,12,SB Styris,Umar Gul,PD McGlashan,,0,0,0,,,,3832383
+1,New Zealand,12,SB Styris,Umar Gul,PD McGlashan,,0,0,0,,,,3832383
+1,New Zealand,12,SB Styris,Umar Gul,PD McGlashan,wides,1,1,0,,,,3832383
+1,New Zealand,12,SB Styris,Umar Gul,PD McGlashan,,0,0,0,caught,SB Styris,Shahid Afridi,3832383
+1,New Zealand,12,PD McGlashan,Umar Gul,NL McCullum,,0,0,0,lbw,PD McGlashan,,3832383
+1,New Zealand,12,JEC Franklin,Umar Gul,NL McCullum,legbyes,1,1,0,,,,3832383
+1,New Zealand,12,NL McCullum,Umar Gul,JEC Franklin,,0,0,0,,,,3832383
+1,New Zealand,13,JEC Franklin,Shahid Afridi,NL McCullum,,0,1,1,,,,3832383
+1,New Zealand,13,NL McCullum,Shahid Afridi,JEC Franklin,,0,4,4,,,,3832383
+1,New Zealand,13,NL McCullum,Shahid Afridi,JEC Franklin,,0,0,0,,,,3832383
+1,New Zealand,13,NL McCullum,Shahid Afridi,JEC Franklin,wides,1,1,0,,,,3832383
+1,New Zealand,13,NL McCullum,Shahid Afridi,JEC Franklin,,0,0,0,,,,3832383
+1,New Zealand,13,NL McCullum,Shahid Afridi,JEC Franklin,,0,0,0,,,,3832383
+1,New Zealand,13,NL McCullum,Shahid Afridi,JEC Franklin,,0,0,0,,,,3832383
+1,New Zealand,14,JEC Franklin,Saeed Ajmal,NL McCullum,,0,1,1,,,,3832383
+1,New Zealand,14,NL McCullum,Saeed Ajmal,JEC Franklin,,0,1,1,,,,3832383
+1,New Zealand,14,JEC Franklin,Saeed Ajmal,NL McCullum,,0,1,1,,,,3832383
+1,New Zealand,14,NL McCullum,Saeed Ajmal,JEC Franklin,,0,0,0,,,,3832383
+1,New Zealand,14,NL McCullum,Saeed Ajmal,JEC Franklin,,0,1,1,,,,3832383
+1,New Zealand,14,JEC Franklin,Saeed Ajmal,NL McCullum,,0,0,0,,,,3832383
+1,New Zealand,15,NL McCullum,Umar Gul,JEC Franklin,,0,1,1,,,,3832383
+1,New Zealand,15,JEC Franklin,Umar Gul,NL McCullum,,0,2,2,,,,3832383
+1,New Zealand,15,JEC Franklin,Umar Gul,NL McCullum,legbyes,1,1,0,,,,3832383
+1,New Zealand,15,NL McCullum,Umar Gul,JEC Franklin,,0,0,0,bowled,NL McCullum,,3832383
+1,New Zealand,15,DL Vettori,Umar Gul,JEC Franklin,,0,0,0,,,,3832383
+1,New Zealand,15,DL Vettori,Umar Gul,JEC Franklin,,0,0,0,,,,3832383
+1,New Zealand,16,JEC Franklin,Saeed Ajmal,DL Vettori,,0,1,1,,,,3832383
+1,New Zealand,16,DL Vettori,Saeed Ajmal,JEC Franklin,,0,2,2,,,,3832383
+1,New Zealand,16,DL Vettori,Saeed Ajmal,JEC Franklin,,0,0,0,,,,3832383
+1,New Zealand,16,DL Vettori,Saeed Ajmal,JEC Franklin,,0,1,1,,,,3832383
+1,New Zealand,16,JEC Franklin,Saeed Ajmal,DL Vettori,,0,0,0,,,,3832383
+1,New Zealand,16,JEC Franklin,Saeed Ajmal,DL Vettori,,0,1,1,,,,3832383
+1,New Zealand,17,JEC Franklin,Umar Gul,DL Vettori,,0,0,0,,,,3832383
+1,New Zealand,17,JEC Franklin,Umar Gul,DL Vettori,,0,0,0,,,,3832383
+1,New Zealand,17,JEC Franklin,Umar Gul,DL Vettori,,0,0,0,bowled,JEC Franklin,,3832383
+1,New Zealand,17,KD Mills,Umar Gul,DL Vettori,,0,0,0,caught,KD Mills,Shahzaib Hasan,3832383
+1,New Zealand,17,IG Butler,Umar Gul,DL Vettori,,0,1,1,,,,3832383
+1,New Zealand,17,DL Vettori,Umar Gul,IG Butler,,0,1,1,,,,3832383
+1,New Zealand,18,DL Vettori,Abdul Razzaq,IG Butler,,0,4,4,,,,3832383
+1,New Zealand,18,DL Vettori,Abdul Razzaq,IG Butler,,0,0,0,,,,3832383
+1,New Zealand,18,DL Vettori,Abdul Razzaq,IG Butler,,0,0,0,run out,DL Vettori,Abdul Razzaq,3832383

@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,South Africa,0,SA Fritz,SC Selman,T Chetty,,0,0,0,,,,314323143
+2,South Africa,0,SA Fritz,SC Selman,T Chetty,,0,0,0,caught,SA Fritz,DJS Dottin,314323143
+2,South Africa,0,K Thomson,SC Selman,T Chetty,,0,0,0,,,,314323143
+2,South Africa,0,K Thomson,SC Selman,T Chetty,,0,0,0,,,,314323143
+2,South Africa,0,K Thomson,SC Selman,T Chetty,,0,1,1,,,,314323143
+2,South Africa,0,T Chetty,SC Selman,K Thomson,,0,1,1,,,,314323143
+2,South Africa,1,T Chetty,SF Daley,K Thomson,,0,0,0,,,,314323143
+2,South Africa,1,T Chetty,SF Daley,K Thomson,,0,0,0,,,,314323143
+2,South Africa,1,T Chetty,SF Daley,K Thomson,,0,0,0,,,,314323143
+2,South Africa,1,T Chetty,SF Daley,K Thomson,,0,1,1,,,,314323143
+2,South Africa,1,K Thomson,SF Daley,T Chetty,,0,1,1,,,,314323143
+2,South Africa,1,T Chetty,SF Daley,K Thomson,,0,0,0,,,,314323143
+2,South Africa,2,K Thomson,SC Selman,T Chetty,,0,0,0,,,,314323143
+2,South Africa,2,K Thomson,SC Selman,T Chetty,,0,4,4,,,,314323143
+2,South Africa,2,K Thomson,SC Selman,T Chetty,,0,0,0,,,,314323143
+2,South Africa,2,K Thomson,SC Selman,T Chetty,,0,0,0,,,,314323143
+2,South Africa,2,K Thomson,SC Selman,T Chetty,,0,4,4,,,,314323143
+2,South Africa,2,K Thomson,SC Selman,T Chetty,,0,0,0,,,,314323143
+2,South Africa,3,T Chetty,SF Daley,K Thomson,,0,0,0,,,,314323143
+2,South Africa,3,T Chetty,SF Daley,K Thomson,,0,0,0,,,,314323143
+2,South Africa,3,T Chetty,SF Daley,K Thomson,,0,1,1,,,,314323143
+2,South Africa,3,K Thomson,SF Daley,T Chetty,,0,0,0,,,,314323143
+2,South Africa,3,K Thomson,SF Daley,T Chetty,,0,2,2,,,,314323143
+2,South Africa,3,K Thomson,SF Daley,T Chetty,wides,3,3,0,,,,314323143
+2,South Africa,3,K Thomson,SF Daley,T Chetty,,0,0,0,,,,314323143
+2,South Africa,4,T Chetty,CN Nation,K Thomson,,0,0,0,,,,314323143
+2,South Africa,4,T Chetty,CN Nation,K Thomson,,0,0,0,,,,314323143
+2,South Africa,4,T Chetty,CN Nation,K Thomson,,0,2,2,,,,314323143
+2,South Africa,4,T Chetty,CN Nation,K Thomson,,0,0,0,,,,314323143
+2,South Africa,4,T Chetty,CN Nation,K Thomson,,0,0,0,lbw,T Chetty,,314323143
+2,South Africa,4,M du Preez,CN Nation,K Thomson,,0,1,1,,,,314323143
+2,South Africa,5,M du Preez,SACA King,K Thomson,,0,0,0,,,,314323143
+2,South Africa,5,M du Preez,SACA King,K Thomson,,0,0,0,,,,314323143
+2,South Africa,5,M du Preez,SACA King,K Thomson,,0,1,1,,,,314323143
+2,South Africa,5,K Thomson,SACA King,M du Preez,wides,1,1,0,,,,314323143
+2,South Africa,5,K Thomson,SACA King,M du Preez,wides,1,1,0,,,,314323143
+2,South Africa,5,K Thomson,SACA King,M du Preez,,0,1,1,,,,314323143
+2,South Africa,5,M du Preez,SACA King,K Thomson,,0,0,0,,,,314323143
+2,South Africa,5,M du Preez,SACA King,K Thomson,,0,1,1,,,,314323143
+2,South Africa,6,M du Preez,CN Nation,K Thomson,,0,0,0,,,,314323143
+2,South Africa,6,M du Preez,CN Nation,K Thomson,,0,0,0,bowled,M du Preez,,314323143
+2,South Africa,6,AE Smith,CN Nation,K Thomson,,0,0,0,,,,314323143
+2,South Africa,6,AE Smith,CN Nation,K Thomson,,0,0,0,,,,314323143
+2,South Africa,6,AE Smith,CN Nation,K Thomson,,0,4,4,,,,314323143
+2,South Africa,6,AE Smith,CN Nation,K Thomson,,0,0,0,,,,314323143
+2,South Africa,7,K Thomson,TD Smartt,AE Smith,,0,1,1,,,,314323143
+2,South Africa,7,AE Smith,TD Smartt,K Thomson,,0,0,0,,,,314323143
+2,South Africa,7,AE Smith,TD Smartt,K Thomson,,0,0,0,,,,314323143
+2,South Africa,7,AE Smith,TD Smartt,K Thomson,,0,1,1,,,,314323143
+2,South Africa,7,K Thomson,TD Smartt,AE Smith,,0,0,0,,,,314323143
+2,South Africa,7,K Thomson,TD Smartt,AE Smith,,0,0,0,,,,314323143
+2,South Africa,8,AE Smith,CN Nation,K Thomson,,0,1,1,,,,314323143
+2,South Africa,8,K Thomson,CN Nation,AE Smith,,0,1,1,,,,314323143
+2,South Africa,8,AE Smith,CN Nation,K Thomson,,0,1,1,,,,314323143
+2,South Africa,8,K Thomson,CN Nation,AE Smith,,0,0,0,,,,314323143
+2,South Africa,8,K Thomson,CN Nation,AE Smith,,0,1,1,,,,314323143
+2,South Africa,8,AE Smith,CN Nation,K Thomson,,0,0,0,,,,314323143
+2,South Africa,9,K Thomson,TD Smartt,AE Smith,,0,1,1,,,,314323143
+2,South Africa,9,AE Smith,TD Smartt,K Thomson,,0,1,1,,,,314323143
+2,South Africa,9,K Thomson,TD Smartt,AE Smith,,0,1,1,,,,314323143
+2,South Africa,9,AE Smith,TD Smartt,K Thomson,,0,2,2,,,,314323143
+2,South Africa,9,AE Smith,TD Smartt,K Thomson,,0,0,0,,,,314323143
+2,South Africa,9,AE Smith,TD Smartt,K Thomson,,0,0,0,,,,314323143
+2,South Africa,10,K Thomson,SA Campbelle,AE Smith,,0,0,0,,,,314323143
+2,South Africa,10,K Thomson,SA Campbelle,AE Smith,,0,0,0,,,,314323143
+2,South Africa,10,K Thomson,SA Campbelle,AE Smith,,0,0,0,,,,314323143
+2,South Africa,10,K Thomson,SA Campbelle,AE Smith,,0,0,0,,,,314323143
+2,South Africa,10,K Thomson,SA Campbelle,AE Smith,,0,0,0,,,,314323143
+2,South Africa,10,K Thomson,SA Campbelle,AE Smith,,0,2,2,,,,314323143
+2,South Africa,11,AE Smith,CN Nation,K Thomson,,0,0,0,,,,314323143
+2,South Africa,11,AE Smith,CN Nation,K Thomson,,0,0,0,,,,314323143
+2,South Africa,11,AE Smith,CN Nation,K Thomson,,0,0,0,,,,314323143
+2,South Africa,11,AE Smith,CN Nation,K Thomson,,0,2,2,,,,314323143
+2,South Africa,11,AE Smith,CN Nation,K Thomson,,0,1,1,,,,314323143
+2,South Africa,11,K Thomson,CN Nation,AE Smith,,0,0,0,,,,314323143
+2,South Africa,12,AE Smith,SA Campbelle,K Thomson,,0,0,0,,,,314323143
+2,South Africa,12,AE Smith,SA Campbelle,K Thomson,,0,0,0,,,,314323143
+2,South Africa,12,AE Smith,SA Campbelle,K Thomson,,0,0,0,,,,314323143
+2,South Africa,12,AE Smith,SA Campbelle,K Thomson,,0,1,1,,,,314323143
+2,South Africa,12,K Thomson,SA Campbelle,AE Smith,,0,1,1,,,,314323143
+2,South Africa,12,AE Smith,SA Campbelle,K Thomson,,0,0,0,,,,314323143
+2,South Africa,13,K Thomson,SACA King,AE Smith,,0,0,0,,,,314323143
+2,South Africa,13,K Thomson,SACA King,AE Smith,,0,1,1,,,,314323143
+2,South Africa,13,AE Smith,SACA King,K Thomson,,0,1,1,,,,314323143
+2,South Africa,13,K Thomson,SACA King,AE Smith,,0,1,1,,,,314323143
+2,South Africa,13,AE Smith,SACA King,K Thomson,,0,4,4,,,,314323143
+2,South Africa,13,AE Smith,SACA King,K Thomson,,0,0,0,,,,314323143
+2,South Africa,14,K Thomson,SA Campbelle,AE Smith,,0,1,1,,,,314323143
+2,South Africa,14,AE Smith,SA Campbelle,K Thomson,,0,0,0,,,,314323143
+2,South Africa,14,AE Smith,SA Campbelle,K Thomson,,0,1,1,,,,314323143
+2,South Africa,14,K Thomson,SA Campbelle,AE Smith,,0,1,1,,,,314323143
+2,South Africa,14,AE Smith,SA Campbelle,K Thomson,,0,0,0,,,,314323143
+2,South Africa,14,AE Smith,SA Campbelle,K Thomson,,0,1,1,,,,314323143
+2,South Africa,15,AE Smith,SACA King,K Thomson,,0,1,1,,,,314323143
+2,South Africa,15,K Thomson,SACA King,AE Smith,,0,1,1,,,,314323143
+2,South Africa,15,AE Smith,SACA King,K Thomson,,0,0,0,,,,314323143
+2,South Africa,15,AE Smith,SACA King,K Thomson,,0,1,1,,,,314323143
+2,South Africa,15,K Thomson,SACA King,AE Smith,,0,1,1,,,,314323143
+2,South Africa,15,AE Smith,SACA King,K Thomson,,0,2,2,,,,314323143
+2,South Africa,16,K Thomson,A Mohammed,AE Smith,,0,1,1,,,,314323143
+2,South Africa,16,AE Smith,A Mohammed,K Thomson,,0,1,1,,,,314323143
+2,South Africa,16,K Thomson,A Mohammed,AE Smith,,0,1,1,,,,314323143
+2,South Africa,16,AE Smith,A Mohammed,K Thomson,,0,0,0,,,,314323143
+2,South Africa,16,AE Smith,A Mohammed,K Thomson,,0,1,1,,,,314323143
+2,South Africa,16,K Thomson,A Mohammed,AE Smith,,0,1,1,,,,314323143
+2,South Africa,17,K Thomson,SA Campbelle,AE Smith,,0,0,0,,,,314323143
+2,South Africa,17,K Thomson,SA Campbelle,AE Smith,,0,1,1,,,,314323143
+2,South Africa,17,AE Smith,SA Campbelle,K Thomson,,0,2,2,,,,314323143
+2,South Africa,17,AE Smith,SA Campbelle,K Thomson,,0,6,6,,,,314323143
+2,South Africa,17,AE Smith,SA Campbelle,K Thomson,,0,0,0,,,,314323143
+2,South Africa,17,AE Smith,SA Campbelle,K Thomson,,0,2,2,,,,314323143
+2,South Africa,18,K Thomson,A Mohammed,AE Smith,,0,1,1,,,,314323143
+2,South Africa,18,AE Smith,A Mohammed,K Thomson,,0,1,1,,,,314323143
+2,South Africa,18,K Thomson,A Mohammed,AE Smith,,0,0,0,caught,K Thomson,SF Daley,314323143
+2,South Africa,18,AE Smith,A Mohammed,AS Taai,,0,1,1,,,,314323143
+2,South Africa,18,AS Taai,A Mohammed,AE Smith,,0,1,1,,,,314323143
+2,South Africa,18,AE Smith,A Mohammed,AS Taai,,0,1,1,,,,314323143
+2,South Africa,19,AE Smith,SACA King,AS Taai,,0,4,4,,,,314323143
+2,South Africa,19,AE Smith,SACA King,AS Taai,,0,0,0,lbw,AE Smith,,314323143
+2,South Africa,19,APC Kilowan,SACA King,AS Taai,,0,1,1,,,,314323143
+2,South Africa,19,AS Taai,SACA King,APC Kilowan,,0,2,2,,,,314323143
+2,South Africa,19,AS Taai,SACA King,APC Kilowan,,0,1,1,,,,314323143
+2,South Africa,19,APC Kilowan,SACA King,AS Taai,,0,1,1,run out,AS Taai,SACA King,314323143

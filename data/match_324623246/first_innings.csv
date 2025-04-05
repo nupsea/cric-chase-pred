@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,New Zealand,0,SW Bates,M Kapp,AE Satterthwaite,,0,4,4,,,,324623246
+1,New Zealand,0,SW Bates,M Kapp,AE Satterthwaite,,0,1,1,,,,324623246
+1,New Zealand,0,AE Satterthwaite,M Kapp,SW Bates,,0,0,0,,,,324623246
+1,New Zealand,0,AE Satterthwaite,M Kapp,SW Bates,,0,0,0,,,,324623246
+1,New Zealand,0,AE Satterthwaite,M Kapp,SW Bates,,0,0,0,,,,324623246
+1,New Zealand,0,AE Satterthwaite,M Kapp,SW Bates,,0,1,1,,,,324623246
+1,New Zealand,1,AE Satterthwaite,SM Benade,SW Bates,,0,0,0,,,,324623246
+1,New Zealand,1,AE Satterthwaite,SM Benade,SW Bates,,0,1,1,,,,324623246
+1,New Zealand,1,SW Bates,SM Benade,AE Satterthwaite,,0,0,0,,,,324623246
+1,New Zealand,1,SW Bates,SM Benade,AE Satterthwaite,,0,0,0,,,,324623246
+1,New Zealand,1,SW Bates,SM Benade,AE Satterthwaite,wides,1,1,0,,,,324623246
+1,New Zealand,1,SW Bates,SM Benade,AE Satterthwaite,,0,1,1,,,,324623246
+1,New Zealand,1,AE Satterthwaite,SM Benade,SW Bates,,0,0,0,bowled,AE Satterthwaite,,324623246
+1,New Zealand,2,SW Bates,S Ismail,SFM Devine,,0,3,3,,,,324623246
+1,New Zealand,2,SFM Devine,S Ismail,SW Bates,,0,0,0,,,,324623246
+1,New Zealand,2,SFM Devine,S Ismail,SW Bates,,0,0,0,,,,324623246
+1,New Zealand,2,SFM Devine,S Ismail,SW Bates,,0,3,3,,,,324623246
+1,New Zealand,2,SW Bates,S Ismail,SFM Devine,,0,1,1,,,,324623246
+1,New Zealand,2,SFM Devine,S Ismail,SW Bates,,0,4,4,,,,324623246
+1,New Zealand,3,SW Bates,SM Benade,SFM Devine,,0,0,0,,,,324623246
+1,New Zealand,3,SW Bates,SM Benade,SFM Devine,,0,4,4,,,,324623246
+1,New Zealand,3,SW Bates,SM Benade,SFM Devine,,0,0,0,bowled,SW Bates,,324623246
+1,New Zealand,3,FL Mackay,SM Benade,SFM Devine,,0,0,0,,,,324623246
+1,New Zealand,3,FL Mackay,SM Benade,SFM Devine,,0,1,1,,,,324623246
+1,New Zealand,3,SFM Devine,SM Benade,FL Mackay,,0,1,1,,,,324623246
+1,New Zealand,4,SFM Devine,D van Niekerk,FL Mackay,wides,5,5,0,,,,324623246
+1,New Zealand,4,SFM Devine,D van Niekerk,FL Mackay,,0,0,0,,,,324623246
+1,New Zealand,4,SFM Devine,D van Niekerk,FL Mackay,,0,0,0,,,,324623246
+1,New Zealand,4,SFM Devine,D van Niekerk,FL Mackay,,0,0,0,,,,324623246
+1,New Zealand,4,SFM Devine,D van Niekerk,FL Mackay,,0,0,0,,,,324623246
+1,New Zealand,4,SFM Devine,D van Niekerk,FL Mackay,,0,0,0,,,,324623246
+1,New Zealand,4,SFM Devine,D van Niekerk,FL Mackay,,0,0,0,,,,324623246
+1,New Zealand,5,FL Mackay,SM Benade,SFM Devine,,0,0,0,,,,324623246
+1,New Zealand,5,FL Mackay,SM Benade,SFM Devine,,0,1,1,,,,324623246
+1,New Zealand,5,SFM Devine,SM Benade,FL Mackay,,0,0,0,,,,324623246
+1,New Zealand,5,SFM Devine,SM Benade,FL Mackay,,0,0,0,,,,324623246
+1,New Zealand,5,SFM Devine,SM Benade,FL Mackay,,0,0,0,,,,324623246
+1,New Zealand,5,SFM Devine,SM Benade,FL Mackay,,0,1,1,,,,324623246
+1,New Zealand,6,SFM Devine,D van Niekerk,FL Mackay,,0,1,1,,,,324623246
+1,New Zealand,6,FL Mackay,D van Niekerk,SFM Devine,,0,0,0,,,,324623246
+1,New Zealand,6,FL Mackay,D van Niekerk,SFM Devine,,0,1,1,,,,324623246
+1,New Zealand,6,SFM Devine,D van Niekerk,FL Mackay,,0,1,1,,,,324623246
+1,New Zealand,6,FL Mackay,D van Niekerk,SFM Devine,,0,1,1,,,,324623246
+1,New Zealand,6,SFM Devine,D van Niekerk,FL Mackay,,0,0,0,,,,324623246
+1,New Zealand,7,FL Mackay,SM Benade,SFM Devine,,0,0,0,,,,324623246
+1,New Zealand,7,FL Mackay,SM Benade,SFM Devine,,0,0,0,,,,324623246
+1,New Zealand,7,FL Mackay,SM Benade,SFM Devine,,0,1,1,,,,324623246
+1,New Zealand,7,SFM Devine,SM Benade,FL Mackay,,0,1,1,,,,324623246
+1,New Zealand,7,FL Mackay,SM Benade,SFM Devine,,0,1,1,,,,324623246
+1,New Zealand,7,SFM Devine,SM Benade,FL Mackay,,0,1,1,,,,324623246
+1,New Zealand,8,SFM Devine,MM Letsoalo,FL Mackay,,0,0,0,,,,324623246
+1,New Zealand,8,SFM Devine,MM Letsoalo,FL Mackay,,0,0,0,,,,324623246
+1,New Zealand,8,SFM Devine,MM Letsoalo,FL Mackay,,0,1,1,,,,324623246
+1,New Zealand,8,FL Mackay,MM Letsoalo,SFM Devine,,0,0,0,,,,324623246
+1,New Zealand,8,FL Mackay,MM Letsoalo,SFM Devine,,0,1,1,,,,324623246
+1,New Zealand,8,SFM Devine,MM Letsoalo,FL Mackay,,0,1,1,,,,324623246
+1,New Zealand,9,SFM Devine,S Loubser,FL Mackay,,0,1,1,,,,324623246
+1,New Zealand,9,FL Mackay,S Loubser,SFM Devine,,0,1,1,,,,324623246
+1,New Zealand,9,SFM Devine,S Loubser,FL Mackay,,0,0,0,,,,324623246
+1,New Zealand,9,SFM Devine,S Loubser,FL Mackay,,0,6,6,,,,324623246
+1,New Zealand,9,SFM Devine,S Loubser,FL Mackay,,0,4,4,,,,324623246
+1,New Zealand,9,SFM Devine,S Loubser,FL Mackay,,0,1,1,,,,324623246
+1,New Zealand,10,SFM Devine,MM Letsoalo,FL Mackay,,0,4,4,,,,324623246
+1,New Zealand,10,SFM Devine,MM Letsoalo,FL Mackay,,0,0,0,,,,324623246
+1,New Zealand,10,SFM Devine,MM Letsoalo,FL Mackay,,0,0,0,,,,324623246
+1,New Zealand,10,SFM Devine,MM Letsoalo,FL Mackay,,0,1,1,,,,324623246
+1,New Zealand,10,FL Mackay,MM Letsoalo,SFM Devine,,0,1,1,,,,324623246
+1,New Zealand,10,SFM Devine,MM Letsoalo,FL Mackay,,0,4,4,,,,324623246
+1,New Zealand,11,FL Mackay,M Kapp,SFM Devine,,0,0,0,,,,324623246
+1,New Zealand,11,FL Mackay,M Kapp,SFM Devine,,0,0,0,,,,324623246
+1,New Zealand,11,FL Mackay,M Kapp,SFM Devine,,0,1,1,,,,324623246
+1,New Zealand,11,SFM Devine,M Kapp,FL Mackay,,0,0,0,,,,324623246
+1,New Zealand,11,SFM Devine,M Kapp,FL Mackay,,0,0,0,,,,324623246
+1,New Zealand,11,SFM Devine,M Kapp,FL Mackay,,0,4,4,,,,324623246
+1,New Zealand,12,FL Mackay,S Ismail,SFM Devine,,0,1,1,,,,324623246
+1,New Zealand,12,SFM Devine,S Ismail,FL Mackay,,0,1,1,,,,324623246
+1,New Zealand,12,FL Mackay,S Ismail,SFM Devine,,0,0,0,,,,324623246
+1,New Zealand,12,FL Mackay,S Ismail,SFM Devine,,0,4,4,,,,324623246
+1,New Zealand,12,FL Mackay,S Ismail,SFM Devine,,0,0,0,,,,324623246
+1,New Zealand,12,FL Mackay,S Ismail,SFM Devine,,0,1,1,,,,324623246
+1,New Zealand,13,FL Mackay,D van Niekerk,SFM Devine,,0,4,4,,,,324623246
+1,New Zealand,13,FL Mackay,D van Niekerk,SFM Devine,,0,4,4,,,,324623246
+1,New Zealand,13,FL Mackay,D van Niekerk,SFM Devine,,0,4,4,,,,324623246
+1,New Zealand,13,FL Mackay,D van Niekerk,SFM Devine,,0,0,0,,,,324623246
+1,New Zealand,13,FL Mackay,D van Niekerk,SFM Devine,,0,1,1,,,,324623246
+1,New Zealand,13,SFM Devine,D van Niekerk,FL Mackay,,0,1,1,,,,324623246
+1,New Zealand,14,SFM Devine,MM Letsoalo,FL Mackay,,0,1,1,,,,324623246
+1,New Zealand,14,FL Mackay,MM Letsoalo,SFM Devine,,0,4,4,,,,324623246
+1,New Zealand,14,FL Mackay,MM Letsoalo,SFM Devine,,0,0,0,,,,324623246
+1,New Zealand,14,FL Mackay,MM Letsoalo,SFM Devine,,0,1,1,,,,324623246
+1,New Zealand,14,SFM Devine,MM Letsoalo,FL Mackay,,0,1,1,,,,324623246
+1,New Zealand,14,FL Mackay,MM Letsoalo,SFM Devine,,0,2,2,,,,324623246
+1,New Zealand,15,SFM Devine,S Loubser,FL Mackay,,0,6,6,,,,324623246
+1,New Zealand,15,SFM Devine,S Loubser,FL Mackay,,0,2,2,,,,324623246
+1,New Zealand,15,SFM Devine,S Loubser,FL Mackay,,0,6,6,,,,324623246
+1,New Zealand,15,SFM Devine,S Loubser,FL Mackay,,0,1,1,,,,324623246
+1,New Zealand,15,FL Mackay,S Loubser,SFM Devine,,0,1,1,,,,324623246
+1,New Zealand,15,SFM Devine,S Loubser,FL Mackay,,0,0,0,caught,SFM Devine,M Kapp,324623246
+1,New Zealand,16,SJ McGlashan,S Ismail,FL Mackay,,0,1,1,,,,324623246
+1,New Zealand,16,FL Mackay,S Ismail,SJ McGlashan,,0,4,4,,,,324623246
+1,New Zealand,16,FL Mackay,S Ismail,SJ McGlashan,,0,1,1,,,,324623246
+1,New Zealand,16,SJ McGlashan,S Ismail,FL Mackay,,0,1,1,,,,324623246
+1,New Zealand,16,FL Mackay,S Ismail,SJ McGlashan,,0,4,4,,,,324623246
+1,New Zealand,16,FL Mackay,S Ismail,SJ McGlashan,,0,1,1,,,,324623246
+1,New Zealand,17,FL Mackay,M Kapp,SJ McGlashan,,0,1,1,,,,324623246
+1,New Zealand,17,SJ McGlashan,M Kapp,FL Mackay,,0,0,0,,,,324623246
+1,New Zealand,17,SJ McGlashan,M Kapp,FL Mackay,,0,1,1,,,,324623246
+1,New Zealand,17,FL Mackay,M Kapp,SJ McGlashan,,0,1,1,,,,324623246
+1,New Zealand,17,SJ McGlashan,M Kapp,FL Mackay,,0,0,0,,,,324623246
+1,New Zealand,17,SJ McGlashan,M Kapp,FL Mackay,,0,4,4,,,,324623246
+1,New Zealand,18,FL Mackay,D van Niekerk,SJ McGlashan,,0,0,0,caught,FL Mackay,M du Preez,324623246
+1,New Zealand,18,NJ Browne,D van Niekerk,SJ McGlashan,wides,1,1,0,,,,324623246
+1,New Zealand,18,NJ Browne,D van Niekerk,SJ McGlashan,,0,0,0,,,,324623246
+1,New Zealand,18,NJ Browne,D van Niekerk,SJ McGlashan,,0,2,2,,,,324623246
+1,New Zealand,18,NJ Browne,D van Niekerk,SJ McGlashan,,0,1,1,,,,324623246
+1,New Zealand,18,SJ McGlashan,D van Niekerk,NJ Browne,,0,2,2,,,,324623246
+1,New Zealand,18,SJ McGlashan,D van Niekerk,NJ Browne,,0,0,0,stumped,SJ McGlashan,T Chetty,324623246
+1,New Zealand,19,NJ Browne,M Kapp,KT Perkins,,0,0,0,,,,324623246
+1,New Zealand,19,NJ Browne,M Kapp,KT Perkins,,0,4,4,,,,324623246
+1,New Zealand,19,NJ Browne,M Kapp,KT Perkins,,0,1,1,,,,324623246
+1,New Zealand,19,KT Perkins,M Kapp,NJ Browne,,0,1,1,,,,324623246
+1,New Zealand,19,NJ Browne,M Kapp,KT Perkins,,0,1,1,,,,324623246
+1,New Zealand,19,KT Perkins,M Kapp,NJ Browne,,0,1,1,,,,324623246

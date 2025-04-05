@@ -1,0 +1,117 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,New Zealand,0,MJ Guptill,MR Swart,KS Williamson,,0,0,0,,,,341723417
+2,New Zealand,0,MJ Guptill,MR Swart,KS Williamson,wides,1,1,0,,,,341723417
+2,New Zealand,0,MJ Guptill,MR Swart,KS Williamson,,0,0,0,,,,341723417
+2,New Zealand,0,MJ Guptill,MR Swart,KS Williamson,,0,4,4,,,,341723417
+2,New Zealand,0,MJ Guptill,MR Swart,KS Williamson,,0,0,0,,,,341723417
+2,New Zealand,0,MJ Guptill,MR Swart,KS Williamson,,0,1,1,,,,341723417
+2,New Zealand,0,KS Williamson,MR Swart,MJ Guptill,,0,0,0,,,,341723417
+2,New Zealand,1,MJ Guptill,T van der Gugten,KS Williamson,,0,0,0,,,,341723417
+2,New Zealand,1,MJ Guptill,T van der Gugten,KS Williamson,,0,0,0,,,,341723417
+2,New Zealand,1,MJ Guptill,T van der Gugten,KS Williamson,,0,0,0,,,,341723417
+2,New Zealand,1,MJ Guptill,T van der Gugten,KS Williamson,,0,2,2,,,,341723417
+2,New Zealand,1,MJ Guptill,T van der Gugten,KS Williamson,,0,1,1,,,,341723417
+2,New Zealand,1,KS Williamson,T van der Gugten,MJ Guptill,,0,0,0,,,,341723417
+2,New Zealand,2,MJ Guptill,Mudassar Bukhari,KS Williamson,,0,0,0,,,,341723417
+2,New Zealand,2,MJ Guptill,Mudassar Bukhari,KS Williamson,,0,0,0,,,,341723417
+2,New Zealand,2,MJ Guptill,Mudassar Bukhari,KS Williamson,,0,1,1,,,,341723417
+2,New Zealand,2,KS Williamson,Mudassar Bukhari,MJ Guptill,,0,0,0,,,,341723417
+2,New Zealand,2,KS Williamson,Mudassar Bukhari,MJ Guptill,,0,0,0,,,,341723417
+2,New Zealand,2,KS Williamson,Mudassar Bukhari,MJ Guptill,,0,4,4,,,,341723417
+2,New Zealand,3,MJ Guptill,T van der Gugten,KS Williamson,,0,0,0,,,,341723417
+2,New Zealand,3,MJ Guptill,T van der Gugten,KS Williamson,,0,0,0,caught,MJ Guptill,W Barresi,341723417
+2,New Zealand,3,BB McCullum,T van der Gugten,KS Williamson,,0,0,0,,,,341723417
+2,New Zealand,3,BB McCullum,T van der Gugten,KS Williamson,,0,1,1,,,,341723417
+2,New Zealand,3,KS Williamson,T van der Gugten,BB McCullum,,0,1,1,,,,341723417
+2,New Zealand,3,BB McCullum,T van der Gugten,KS Williamson,,0,4,4,,,,341723417
+2,New Zealand,4,KS Williamson,Mudassar Bukhari,BB McCullum,,0,0,0,,,,341723417
+2,New Zealand,4,KS Williamson,Mudassar Bukhari,BB McCullum,,0,0,0,,,,341723417
+2,New Zealand,4,KS Williamson,Mudassar Bukhari,BB McCullum,legbyes,1,1,0,,,,341723417
+2,New Zealand,4,BB McCullum,Mudassar Bukhari,KS Williamson,,0,1,1,,,,341723417
+2,New Zealand,4,KS Williamson,Mudassar Bukhari,BB McCullum,,0,4,4,,,,341723417
+2,New Zealand,4,KS Williamson,Mudassar Bukhari,BB McCullum,,0,4,4,,,,341723417
+2,New Zealand,5,BB McCullum,Ahsan Malik,KS Williamson,,0,0,0,,,,341723417
+2,New Zealand,5,BB McCullum,Ahsan Malik,KS Williamson,,0,1,1,,,,341723417
+2,New Zealand,5,KS Williamson,Ahsan Malik,BB McCullum,,0,4,4,,,,341723417
+2,New Zealand,5,KS Williamson,Ahsan Malik,BB McCullum,,0,2,2,,,,341723417
+2,New Zealand,5,KS Williamson,Ahsan Malik,BB McCullum,,0,1,1,,,,341723417
+2,New Zealand,5,BB McCullum,Ahsan Malik,KS Williamson,,0,4,4,,,,341723417
+2,New Zealand,6,KS Williamson,PW Borren,BB McCullum,,0,0,0,,,,341723417
+2,New Zealand,6,KS Williamson,PW Borren,BB McCullum,,0,1,1,,,,341723417
+2,New Zealand,6,BB McCullum,PW Borren,KS Williamson,,0,1,1,,,,341723417
+2,New Zealand,6,KS Williamson,PW Borren,BB McCullum,,0,1,1,,,,341723417
+2,New Zealand,6,BB McCullum,PW Borren,KS Williamson,,0,0,0,,,,341723417
+2,New Zealand,6,BB McCullum,PW Borren,KS Williamson,,0,1,1,,,,341723417
+2,New Zealand,7,BB McCullum,PM Seelaar,KS Williamson,,0,1,1,,,,341723417
+2,New Zealand,7,KS Williamson,PM Seelaar,BB McCullum,,0,4,4,,,,341723417
+2,New Zealand,7,KS Williamson,PM Seelaar,BB McCullum,,0,0,0,,,,341723417
+2,New Zealand,7,KS Williamson,PM Seelaar,BB McCullum,,0,1,1,,,,341723417
+2,New Zealand,7,BB McCullum,PM Seelaar,KS Williamson,,0,1,1,,,,341723417
+2,New Zealand,7,KS Williamson,PM Seelaar,BB McCullum,,0,2,2,,,,341723417
+2,New Zealand,8,BB McCullum,LV van Beek,KS Williamson,,0,0,0,,,,341723417
+2,New Zealand,8,BB McCullum,LV van Beek,KS Williamson,,0,1,1,,,,341723417
+2,New Zealand,8,KS Williamson,LV van Beek,BB McCullum,,0,0,0,caught,KS Williamson,W Barresi,341723417
+2,New Zealand,8,LRPL Taylor,LV van Beek,BB McCullum,,0,1,1,,,,341723417
+2,New Zealand,8,BB McCullum,LV van Beek,LRPL Taylor,,0,1,1,,,,341723417
+2,New Zealand,8,LRPL Taylor,LV van Beek,BB McCullum,,0,1,1,,,,341723417
+2,New Zealand,9,LRPL Taylor,PW Borren,BB McCullum,,0,1,1,,,,341723417
+2,New Zealand,9,BB McCullum,PW Borren,LRPL Taylor,,0,1,1,,,,341723417
+2,New Zealand,9,LRPL Taylor,PW Borren,BB McCullum,,0,1,1,,,,341723417
+2,New Zealand,9,BB McCullum,PW Borren,LRPL Taylor,,0,1,1,,,,341723417
+2,New Zealand,9,LRPL Taylor,PW Borren,BB McCullum,,0,1,1,,,,341723417
+2,New Zealand,9,BB McCullum,PW Borren,LRPL Taylor,,0,1,1,,,,341723417
+2,New Zealand,10,BB McCullum,LV van Beek,LRPL Taylor,,0,1,1,,,,341723417
+2,New Zealand,10,LRPL Taylor,LV van Beek,BB McCullum,,0,1,1,,,,341723417
+2,New Zealand,10,BB McCullum,LV van Beek,LRPL Taylor,,0,1,1,,,,341723417
+2,New Zealand,10,LRPL Taylor,LV van Beek,BB McCullum,,0,4,4,,,,341723417
+2,New Zealand,10,LRPL Taylor,LV van Beek,BB McCullum,,0,1,1,,,,341723417
+2,New Zealand,10,BB McCullum,LV van Beek,LRPL Taylor,,0,2,2,,,,341723417
+2,New Zealand,11,LRPL Taylor,PM Seelaar,BB McCullum,,0,1,1,,,,341723417
+2,New Zealand,11,BB McCullum,PM Seelaar,LRPL Taylor,,0,2,2,,,,341723417
+2,New Zealand,11,BB McCullum,PM Seelaar,LRPL Taylor,,0,0,0,,,,341723417
+2,New Zealand,11,BB McCullum,PM Seelaar,LRPL Taylor,,0,4,4,,,,341723417
+2,New Zealand,11,BB McCullum,PM Seelaar,LRPL Taylor,,0,0,0,,,,341723417
+2,New Zealand,11,BB McCullum,PM Seelaar,LRPL Taylor,,0,0,0,,,,341723417
+2,New Zealand,12,LRPL Taylor,T van der Gugten,BB McCullum,,0,6,6,,,,341723417
+2,New Zealand,12,LRPL Taylor,T van der Gugten,BB McCullum,,0,0,0,caught,LRPL Taylor,W Barresi,341723417
+2,New Zealand,12,BB McCullum,T van der Gugten,CJ Anderson,,0,0,0,,,,341723417
+2,New Zealand,12,BB McCullum,T van der Gugten,CJ Anderson,,0,2,2,,,,341723417
+2,New Zealand,12,BB McCullum,T van der Gugten,CJ Anderson,,0,0,0,,,,341723417
+2,New Zealand,12,BB McCullum,T van der Gugten,CJ Anderson,,0,1,1,,,,341723417
+2,New Zealand,13,BB McCullum,Ahsan Malik,CJ Anderson,,0,1,1,,,,341723417
+2,New Zealand,13,CJ Anderson,Ahsan Malik,BB McCullum,,0,0,0,,,,341723417
+2,New Zealand,13,CJ Anderson,Ahsan Malik,BB McCullum,,0,0,0,,,,341723417
+2,New Zealand,13,CJ Anderson,Ahsan Malik,BB McCullum,,0,2,2,,,,341723417
+2,New Zealand,13,CJ Anderson,Ahsan Malik,BB McCullum,,0,1,1,,,,341723417
+2,New Zealand,13,BB McCullum,Ahsan Malik,CJ Anderson,,0,1,1,,,,341723417
+2,New Zealand,14,BB McCullum,Mudassar Bukhari,CJ Anderson,legbyes,1,1,0,,,,341723417
+2,New Zealand,14,CJ Anderson,Mudassar Bukhari,BB McCullum,,0,1,1,,,,341723417
+2,New Zealand,14,BB McCullum,Mudassar Bukhari,CJ Anderson,,0,6,6,,,,341723417
+2,New Zealand,14,BB McCullum,Mudassar Bukhari,CJ Anderson,,0,2,2,,,,341723417
+2,New Zealand,14,BB McCullum,Mudassar Bukhari,CJ Anderson,,0,0,0,,,,341723417
+2,New Zealand,14,BB McCullum,Mudassar Bukhari,CJ Anderson,,0,1,1,,,,341723417
+2,New Zealand,15,BB McCullum,Ahsan Malik,CJ Anderson,,0,2,2,,,,341723417
+2,New Zealand,15,BB McCullum,Ahsan Malik,CJ Anderson,,0,6,6,,,,341723417
+2,New Zealand,15,BB McCullum,Ahsan Malik,CJ Anderson,,0,1,1,,,,341723417
+2,New Zealand,15,CJ Anderson,Ahsan Malik,BB McCullum,,0,4,4,,,,341723417
+2,New Zealand,15,CJ Anderson,Ahsan Malik,BB McCullum,,0,1,1,,,,341723417
+2,New Zealand,15,BB McCullum,Ahsan Malik,CJ Anderson,,0,2,2,,,,341723417
+2,New Zealand,16,CJ Anderson,T van der Gugten,BB McCullum,,0,1,1,,,,341723417
+2,New Zealand,16,BB McCullum,T van der Gugten,CJ Anderson,,0,6,6,,,,341723417
+2,New Zealand,16,BB McCullum,T van der Gugten,CJ Anderson,,0,0,0,,,,341723417
+2,New Zealand,16,BB McCullum,T van der Gugten,CJ Anderson,,0,4,4,,,,341723417
+2,New Zealand,16,BB McCullum,T van der Gugten,CJ Anderson,,0,0,0,caught,BB McCullum,Mudassar Bukhari,341723417
+2,New Zealand,16,CJ Anderson,T van der Gugten,JDS Neesham,,0,1,1,,,,341723417
+2,New Zealand,17,CJ Anderson,Ahsan Malik,JDS Neesham,,0,6,6,,,,341723417
+2,New Zealand,17,CJ Anderson,Ahsan Malik,JDS Neesham,,0,1,1,,,,341723417
+2,New Zealand,17,JDS Neesham,Ahsan Malik,CJ Anderson,,0,1,1,,,,341723417
+2,New Zealand,17,CJ Anderson,Ahsan Malik,JDS Neesham,,0,1,1,,,,341723417
+2,New Zealand,17,JDS Neesham,Ahsan Malik,CJ Anderson,,0,1,1,,,,341723417
+2,New Zealand,17,CJ Anderson,Ahsan Malik,JDS Neesham,,0,0,0,,,,341723417
+2,New Zealand,18,JDS Neesham,Mudassar Bukhari,CJ Anderson,,0,1,1,,,,341723417
+2,New Zealand,18,CJ Anderson,Mudassar Bukhari,JDS Neesham,,0,1,1,,,,341723417
+2,New Zealand,18,JDS Neesham,Mudassar Bukhari,CJ Anderson,,0,0,0,,,,341723417
+2,New Zealand,18,JDS Neesham,Mudassar Bukhari,CJ Anderson,,0,2,2,,,,341723417
+2,New Zealand,18,JDS Neesham,Mudassar Bukhari,CJ Anderson,,0,0,0,,,,341723417
+2,New Zealand,18,JDS Neesham,Mudassar Bukhari,CJ Anderson,wides,1,1,0,,,,341723417
+2,New Zealand,18,JDS Neesham,Mudassar Bukhari,CJ Anderson,,0,2,2,,,,341723417

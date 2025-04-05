@@ -1,0 +1,101 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,England,0,JJ Roy,PVD Chameera,JM Bairstow,,0,0,0,,,,31459231459
+2,England,0,JJ Roy,PVD Chameera,JM Bairstow,,0,0,0,,,,31459231459
+2,England,0,JJ Roy,PVD Chameera,JM Bairstow,,0,0,0,,,,31459231459
+2,England,0,JJ Roy,PVD Chameera,JM Bairstow,,0,1,1,,,,31459231459
+2,England,0,JM Bairstow,PVD Chameera,JJ Roy,,0,0,0,,,,31459231459
+2,England,0,JM Bairstow,PVD Chameera,JJ Roy,,0,0,0,,,,31459231459
+2,England,1,JJ Roy,B Fernando,JM Bairstow,,0,1,1,,,,31459231459
+2,England,1,JM Bairstow,B Fernando,JJ Roy,,0,0,0,bowled,JM Bairstow,,31459231459
+2,England,1,DJ Malan,B Fernando,JJ Roy,,0,0,0,,,,31459231459
+2,England,1,DJ Malan,B Fernando,JJ Roy,,0,0,0,,,,31459231459
+2,England,1,DJ Malan,B Fernando,JJ Roy,,0,4,4,,,,31459231459
+2,England,1,DJ Malan,B Fernando,JJ Roy,,0,0,0,,,,31459231459
+2,England,2,JJ Roy,PVD Chameera,DJ Malan,,0,0,0,,,,31459231459
+2,England,2,JJ Roy,PVD Chameera,DJ Malan,,0,1,1,,,,31459231459
+2,England,2,DJ Malan,PVD Chameera,JJ Roy,wides,1,1,0,,,,31459231459
+2,England,2,DJ Malan,PVD Chameera,JJ Roy,,0,0,0,lbw,DJ Malan,,31459231459
+2,England,2,EJG Morgan,PVD Chameera,JJ Roy,,0,1,1,,,,31459231459
+2,England,2,JJ Roy,PVD Chameera,EJG Morgan,,0,1,1,,,,31459231459
+2,England,2,EJG Morgan,PVD Chameera,JJ Roy,,0,0,0,,,,31459231459
+2,England,3,JJ Roy,B Fernando,EJG Morgan,,0,0,0,,,,31459231459
+2,England,3,JJ Roy,B Fernando,EJG Morgan,,0,0,0,,,,31459231459
+2,England,3,JJ Roy,B Fernando,EJG Morgan,,0,1,1,,,,31459231459
+2,England,3,EJG Morgan,B Fernando,JJ Roy,,0,0,0,,,,31459231459
+2,England,3,EJG Morgan,B Fernando,JJ Roy,,0,2,2,,,,31459231459
+2,England,3,EJG Morgan,B Fernando,JJ Roy,,0,4,4,,,,31459231459
+2,England,4,JJ Roy,PVD Chameera,EJG Morgan,,0,4,4,,,,31459231459
+2,England,4,JJ Roy,PVD Chameera,EJG Morgan,,0,2,2,,,,31459231459
+2,England,4,JJ Roy,PVD Chameera,EJG Morgan,,0,1,1,,,,31459231459
+2,England,4,EJG Morgan,PVD Chameera,JJ Roy,,0,0,0,,,,31459231459
+2,England,4,EJG Morgan,PVD Chameera,JJ Roy,wides,1,1,0,,,,31459231459
+2,England,4,EJG Morgan,PVD Chameera,JJ Roy,,0,4,4,,,,31459231459
+2,England,4,EJG Morgan,PVD Chameera,JJ Roy,,0,0,0,,,,31459231459
+2,England,5,JJ Roy,I Udana,EJG Morgan,,0,1,1,,,,31459231459
+2,England,5,EJG Morgan,I Udana,JJ Roy,,0,0,0,caught,EJG Morgan,PWH de Silva,31459231459
+2,England,5,SW Billings,I Udana,JJ Roy,,0,0,0,,,,31459231459
+2,England,5,SW Billings,I Udana,JJ Roy,,0,0,0,,,,31459231459
+2,England,5,SW Billings,I Udana,JJ Roy,,0,0,0,,,,31459231459
+2,England,5,SW Billings,I Udana,JJ Roy,,0,1,1,,,,31459231459
+2,England,6,SW Billings,PWH de Silva,JJ Roy,,0,1,1,,,,31459231459
+2,England,6,JJ Roy,PWH de Silva,SW Billings,,0,4,4,,,,31459231459
+2,England,6,JJ Roy,PWH de Silva,SW Billings,,0,0,0,caught,JJ Roy,MD Shanaka,31459231459
+2,England,6,LS Livingstone,PWH de Silva,SW Billings,,0,0,0,,,,31459231459
+2,England,6,LS Livingstone,PWH de Silva,SW Billings,,0,1,1,,,,31459231459
+2,England,6,SW Billings,PWH de Silva,LS Livingstone,,0,0,0,,,,31459231459
+2,England,7,LS Livingstone,I Udana,SW Billings,,0,0,0,,,,31459231459
+2,England,7,LS Livingstone,I Udana,SW Billings,,0,1,1,,,,31459231459
+2,England,7,SW Billings,I Udana,LS Livingstone,,0,4,4,,,,31459231459
+2,England,7,SW Billings,I Udana,LS Livingstone,,0,0,0,,,,31459231459
+2,England,7,SW Billings,I Udana,LS Livingstone,,0,1,1,,,,31459231459
+2,England,7,LS Livingstone,I Udana,SW Billings,,0,1,1,,,,31459231459
+2,England,8,LS Livingstone,PWH de Silva,SW Billings,,0,1,1,,,,31459231459
+2,England,8,SW Billings,PWH de Silva,LS Livingstone,,0,1,1,,,,31459231459
+2,England,8,LS Livingstone,PWH de Silva,SW Billings,,0,0,0,,,,31459231459
+2,England,8,LS Livingstone,PWH de Silva,SW Billings,,0,0,0,,,,31459231459
+2,England,8,LS Livingstone,PWH de Silva,SW Billings,,0,3,3,,,,31459231459
+2,England,8,SW Billings,PWH de Silva,LS Livingstone,,0,1,1,,,,31459231459
+2,England,9,SW Billings,B Fernando,LS Livingstone,,0,0,0,,,,31459231459
+2,England,9,SW Billings,B Fernando,LS Livingstone,,0,0,0,,,,31459231459
+2,England,9,SW Billings,B Fernando,LS Livingstone,,0,1,1,,,,31459231459
+2,England,9,LS Livingstone,B Fernando,SW Billings,wides,1,1,0,,,,31459231459
+2,England,9,LS Livingstone,B Fernando,SW Billings,,0,1,1,,,,31459231459
+2,England,9,SW Billings,B Fernando,LS Livingstone,,0,1,1,,,,31459231459
+2,England,9,LS Livingstone,B Fernando,SW Billings,,0,1,1,,,,31459231459
+2,England,10,LS Livingstone,A Dananjaya,SW Billings,,0,1,1,,,,31459231459
+2,England,10,SW Billings,A Dananjaya,LS Livingstone,,0,2,2,,,,31459231459
+2,England,10,SW Billings,A Dananjaya,LS Livingstone,,0,1,1,,,,31459231459
+2,England,10,LS Livingstone,A Dananjaya,SW Billings,,0,1,1,,,,31459231459
+2,England,10,SW Billings,A Dananjaya,LS Livingstone,,0,1,1,,,,31459231459
+2,England,10,LS Livingstone,A Dananjaya,SW Billings,,0,1,1,,,,31459231459
+2,England,11,LS Livingstone,I Udana,SW Billings,,0,0,0,,,,31459231459
+2,England,11,LS Livingstone,I Udana,SW Billings,,0,2,2,,,,31459231459
+2,England,11,LS Livingstone,I Udana,SW Billings,,0,2,2,,,,31459231459
+2,England,11,LS Livingstone,I Udana,SW Billings,,0,1,1,,,,31459231459
+2,England,11,SW Billings,I Udana,LS Livingstone,,0,1,1,,,,31459231459
+2,England,11,LS Livingstone,I Udana,SW Billings,,0,1,1,,,,31459231459
+2,England,12,LS Livingstone,PWH de Silva,SW Billings,,0,1,1,,,,31459231459
+2,England,12,SW Billings,PWH de Silva,LS Livingstone,,0,0,0,,,,31459231459
+2,England,12,SW Billings,PWH de Silva,LS Livingstone,,0,1,1,,,,31459231459
+2,England,12,LS Livingstone,PWH de Silva,SW Billings,,0,1,1,,,,31459231459
+2,England,12,SW Billings,PWH de Silva,LS Livingstone,,0,2,2,,,,31459231459
+2,England,12,SW Billings,PWH de Silva,LS Livingstone,,0,0,0,,,,31459231459
+2,England,13,LS Livingstone,PVD Chameera,SW Billings,,0,1,1,,,,31459231459
+2,England,13,SW Billings,PVD Chameera,LS Livingstone,,0,4,4,,,,31459231459
+2,England,13,SW Billings,PVD Chameera,LS Livingstone,,0,0,0,,,,31459231459
+2,England,13,SW Billings,PVD Chameera,LS Livingstone,,0,1,1,,,,31459231459
+2,England,13,LS Livingstone,PVD Chameera,SW Billings,,0,6,6,,,,31459231459
+2,England,13,LS Livingstone,PVD Chameera,SW Billings,,0,0,0,,,,31459231459
+2,England,14,SW Billings,PWH de Silva,LS Livingstone,,0,0,0,,,,31459231459
+2,England,14,SW Billings,PWH de Silva,LS Livingstone,legbyes,4,4,0,,,,31459231459
+2,England,14,SW Billings,PWH de Silva,LS Livingstone,,0,0,0,bowled,SW Billings,,31459231459
+2,England,14,SM Curran,PWH de Silva,LS Livingstone,,0,0,0,,,,31459231459
+2,England,14,SM Curran,PWH de Silva,LS Livingstone,,0,2,2,,,,31459231459
+2,England,14,SM Curran,PWH de Silva,LS Livingstone,,0,1,1,,,,31459231459
+2,England,15,SM Curran,I Udana,LS Livingstone,,0,4,4,,,,31459231459
+2,England,15,SM Curran,I Udana,LS Livingstone,,0,1,1,,,,31459231459
+2,England,15,LS Livingstone,I Udana,SM Curran,,0,1,1,,,,31459231459
+2,England,15,SM Curran,I Udana,LS Livingstone,,0,1,1,,,,31459231459
+2,England,15,LS Livingstone,I Udana,SM Curran,,0,1,1,,,,31459231459
+2,England,15,SM Curran,I Udana,LS Livingstone,,0,1,1,,,,31459231459
+2,England,16,SM Curran,A Dananjaya,LS Livingstone,,0,6,6,,,,31459231459

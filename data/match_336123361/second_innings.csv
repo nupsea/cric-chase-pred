@@ -1,0 +1,88 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,South Africa,0,HM Amla,Mohammad Hafeez,Q de Kock,,0,2,2,,,,336123361
+2,South Africa,0,HM Amla,Mohammad Hafeez,Q de Kock,,0,4,4,,,,336123361
+2,South Africa,0,HM Amla,Mohammad Hafeez,Q de Kock,,0,1,1,,,,336123361
+2,South Africa,0,Q de Kock,Mohammad Hafeez,HM Amla,,0,0,0,,,,336123361
+2,South Africa,0,Q de Kock,Mohammad Hafeez,HM Amla,,0,1,1,,,,336123361
+2,South Africa,0,HM Amla,Mohammad Hafeez,Q de Kock,,0,1,1,,,,336123361
+2,South Africa,1,HM Amla,Mohammad Irfan,Q de Kock,,0,0,0,,,,336123361
+2,South Africa,1,HM Amla,Mohammad Irfan,Q de Kock,,0,0,0,,,,336123361
+2,South Africa,1,HM Amla,Mohammad Irfan,Q de Kock,,0,1,1,,,,336123361
+2,South Africa,1,Q de Kock,Mohammad Irfan,HM Amla,,0,2,2,,,,336123361
+2,South Africa,1,Q de Kock,Mohammad Irfan,HM Amla,,0,0,0,,,,336123361
+2,South Africa,1,Q de Kock,Mohammad Irfan,HM Amla,,0,0,0,,,,336123361
+2,South Africa,2,HM Amla,Sohail Tanvir,Q de Kock,,0,4,4,,,,336123361
+2,South Africa,2,HM Amla,Sohail Tanvir,Q de Kock,,0,0,0,bowled,HM Amla,,336123361
+2,South Africa,2,F du Plessis,Sohail Tanvir,Q de Kock,,0,0,0,,,,336123361
+2,South Africa,2,F du Plessis,Sohail Tanvir,Q de Kock,,0,0,0,,,,336123361
+2,South Africa,2,F du Plessis,Sohail Tanvir,Q de Kock,,0,4,4,,,,336123361
+2,South Africa,2,F du Plessis,Sohail Tanvir,Q de Kock,,0,0,0,,,,336123361
+2,South Africa,3,Q de Kock,Mohammad Irfan,F du Plessis,,0,2,2,,,,336123361
+2,South Africa,3,Q de Kock,Mohammad Irfan,F du Plessis,,0,0,0,,,,336123361
+2,South Africa,3,Q de Kock,Mohammad Irfan,F du Plessis,,0,0,0,,,,336123361
+2,South Africa,3,Q de Kock,Mohammad Irfan,F du Plessis,,0,0,0,,,,336123361
+2,South Africa,3,Q de Kock,Mohammad Irfan,F du Plessis,,0,2,2,,,,336123361
+2,South Africa,3,Q de Kock,Mohammad Irfan,F du Plessis,,0,0,0,,,,336123361
+2,South Africa,4,F du Plessis,Sohail Tanvir,Q de Kock,,0,1,1,,,,336123361
+2,South Africa,4,Q de Kock,Sohail Tanvir,F du Plessis,,0,2,2,,,,336123361
+2,South Africa,4,Q de Kock,Sohail Tanvir,F du Plessis,,0,4,4,,,,336123361
+2,South Africa,4,Q de Kock,Sohail Tanvir,F du Plessis,,0,1,1,,,,336123361
+2,South Africa,4,F du Plessis,Sohail Tanvir,Q de Kock,,0,4,4,,,,336123361
+2,South Africa,4,F du Plessis,Sohail Tanvir,Q de Kock,,0,1,1,,,,336123361
+2,South Africa,5,F du Plessis,Saeed Ajmal,Q de Kock,,0,1,1,,,,336123361
+2,South Africa,5,Q de Kock,Saeed Ajmal,F du Plessis,,0,1,1,,,,336123361
+2,South Africa,5,F du Plessis,Saeed Ajmal,Q de Kock,,0,0,0,,,,336123361
+2,South Africa,5,F du Plessis,Saeed Ajmal,Q de Kock,,0,0,0,,,,336123361
+2,South Africa,5,F du Plessis,Saeed Ajmal,Q de Kock,,0,0,0,,,,336123361
+2,South Africa,5,F du Plessis,Saeed Ajmal,Q de Kock,,0,0,0,,,,336123361
+2,South Africa,6,Q de Kock,Shahid Afridi,F du Plessis,,0,1,1,,,,336123361
+2,South Africa,6,F du Plessis,Shahid Afridi,Q de Kock,,0,0,0,,,,336123361
+2,South Africa,6,F du Plessis,Shahid Afridi,Q de Kock,,0,0,0,,,,336123361
+2,South Africa,6,F du Plessis,Shahid Afridi,Q de Kock,,0,4,4,,,,336123361
+2,South Africa,6,F du Plessis,Shahid Afridi,Q de Kock,,0,1,1,,,,336123361
+2,South Africa,6,Q de Kock,Shahid Afridi,F du Plessis,,0,0,0,,,,336123361
+2,South Africa,7,F du Plessis,Saeed Ajmal,Q de Kock,,0,0,0,,,,336123361
+2,South Africa,7,F du Plessis,Saeed Ajmal,Q de Kock,,0,0,0,,,,336123361
+2,South Africa,7,F du Plessis,Saeed Ajmal,Q de Kock,,0,0,0,,,,336123361
+2,South Africa,7,F du Plessis,Saeed Ajmal,Q de Kock,,0,0,0,,,,336123361
+2,South Africa,7,F du Plessis,Saeed Ajmal,Q de Kock,,0,1,1,,,,336123361
+2,South Africa,7,Q de Kock,Saeed Ajmal,F du Plessis,,0,0,0,,,,336123361
+2,South Africa,8,F du Plessis,Shahid Afridi,Q de Kock,,0,1,1,,,,336123361
+2,South Africa,8,Q de Kock,Shahid Afridi,F du Plessis,,0,1,1,,,,336123361
+2,South Africa,8,F du Plessis,Shahid Afridi,Q de Kock,,0,0,0,,,,336123361
+2,South Africa,8,F du Plessis,Shahid Afridi,Q de Kock,legbyes,1,1,0,,,,336123361
+2,South Africa,8,Q de Kock,Shahid Afridi,F du Plessis,,0,1,1,,,,336123361
+2,South Africa,8,F du Plessis,Shahid Afridi,Q de Kock,,0,1,1,,,,336123361
+2,South Africa,9,F du Plessis,Saeed Ajmal,Q de Kock,,0,0,0,,,,336123361
+2,South Africa,9,F du Plessis,Saeed Ajmal,Q de Kock,,0,0,0,,,,336123361
+2,South Africa,9,F du Plessis,Saeed Ajmal,Q de Kock,,0,0,0,,,,336123361
+2,South Africa,9,F du Plessis,Saeed Ajmal,Q de Kock,,0,0,0,,,,336123361
+2,South Africa,9,F du Plessis,Saeed Ajmal,Q de Kock,,0,0,0,,,,336123361
+2,South Africa,9,F du Plessis,Saeed Ajmal,Q de Kock,,0,2,2,,,,336123361
+2,South Africa,10,Q de Kock,Mohammad Hafeez,F du Plessis,,0,1,1,,,,336123361
+2,South Africa,10,F du Plessis,Mohammad Hafeez,Q de Kock,,0,1,1,,,,336123361
+2,South Africa,10,Q de Kock,Mohammad Hafeez,F du Plessis,,0,0,0,,,,336123361
+2,South Africa,10,Q de Kock,Mohammad Hafeez,F du Plessis,,0,1,1,,,,336123361
+2,South Africa,10,F du Plessis,Mohammad Hafeez,Q de Kock,,0,1,1,,,,336123361
+2,South Africa,10,Q de Kock,Mohammad Hafeez,F du Plessis,,0,0,0,,,,336123361
+2,South Africa,11,F du Plessis,Abdur Rehman,Q de Kock,,0,4,4,,,,336123361
+2,South Africa,11,F du Plessis,Abdur Rehman,Q de Kock,,0,1,1,,,,336123361
+2,South Africa,11,Q de Kock,Abdur Rehman,F du Plessis,,0,0,0,,,,336123361
+2,South Africa,11,Q de Kock,Abdur Rehman,F du Plessis,,0,6,6,,,,336123361
+2,South Africa,11,Q de Kock,Abdur Rehman,F du Plessis,,0,1,1,,,,336123361
+2,South Africa,11,F du Plessis,Abdur Rehman,Q de Kock,,0,6,6,,,,336123361
+2,South Africa,12,Q de Kock,Mohammad Hafeez,F du Plessis,,0,2,2,,,,336123361
+2,South Africa,12,Q de Kock,Mohammad Hafeez,F du Plessis,,0,6,6,,,,336123361
+2,South Africa,12,Q de Kock,Mohammad Hafeez,F du Plessis,,0,1,1,,,,336123361
+2,South Africa,12,F du Plessis,Mohammad Hafeez,Q de Kock,,0,1,1,,,,336123361
+2,South Africa,12,Q de Kock,Mohammad Hafeez,F du Plessis,,0,0,0,,,,336123361
+2,South Africa,12,Q de Kock,Mohammad Hafeez,F du Plessis,,0,1,1,,,,336123361
+2,South Africa,13,Q de Kock,Saeed Ajmal,F du Plessis,,0,1,1,,,,336123361
+2,South Africa,13,F du Plessis,Saeed Ajmal,Q de Kock,,0,1,1,,,,336123361
+2,South Africa,13,Q de Kock,Saeed Ajmal,F du Plessis,,0,0,0,,,,336123361
+2,South Africa,13,Q de Kock,Saeed Ajmal,F du Plessis,,0,4,4,,,,336123361
+2,South Africa,13,Q de Kock,Saeed Ajmal,F du Plessis,,0,1,1,,,,336123361
+2,South Africa,13,F du Plessis,Saeed Ajmal,Q de Kock,,0,0,0,,,,336123361
+2,South Africa,14,Q de Kock,Shahid Afridi,F du Plessis,,0,4,4,,,,336123361
+2,South Africa,14,Q de Kock,Shahid Afridi,F du Plessis,,0,1,1,,,,336123361
+2,South Africa,14,F du Plessis,Shahid Afridi,Q de Kock,,0,1,1,,,,336123361

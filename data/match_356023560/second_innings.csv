@@ -1,0 +1,102 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Pakistan,0,Mohammad Hafeez,CJ Anderson,Ahmed Shehzad,,0,1,1,,,,356023560
+2,Pakistan,0,Ahmed Shehzad,CJ Anderson,Mohammad Hafeez,,0,1,1,,,,356023560
+2,Pakistan,0,Mohammad Hafeez,CJ Anderson,Ahmed Shehzad,,0,0,0,,,,356023560
+2,Pakistan,0,Mohammad Hafeez,CJ Anderson,Ahmed Shehzad,,0,1,1,,,,356023560
+2,Pakistan,0,Ahmed Shehzad,CJ Anderson,Mohammad Hafeez,,0,0,0,,,,356023560
+2,Pakistan,0,Ahmed Shehzad,CJ Anderson,Mohammad Hafeez,,0,4,4,,,,356023560
+2,Pakistan,1,Mohammad Hafeez,TA Boult,Ahmed Shehzad,,0,0,0,caught,Mohammad Hafeez,MJ Santner,356023560
+2,Pakistan,1,Ahmed Shehzad,TA Boult,Mohammad Rizwan,,0,2,2,,,,356023560
+2,Pakistan,1,Ahmed Shehzad,TA Boult,Mohammad Rizwan,,0,1,1,,,,356023560
+2,Pakistan,1,Mohammad Rizwan,TA Boult,Ahmed Shehzad,,0,0,0,,,,356023560
+2,Pakistan,1,Mohammad Rizwan,TA Boult,Ahmed Shehzad,,0,0,0,,,,356023560
+2,Pakistan,1,Mohammad Rizwan,TA Boult,Ahmed Shehzad,,0,4,4,,,,356023560
+2,Pakistan,2,Ahmed Shehzad,CJ Anderson,Mohammad Rizwan,,0,0,0,caught,Ahmed Shehzad,TA Boult,356023560
+2,Pakistan,2,Shoaib Malik,CJ Anderson,Mohammad Rizwan,,0,1,1,,,,356023560
+2,Pakistan,2,Mohammad Rizwan,CJ Anderson,Shoaib Malik,,0,0,0,run out,Mohammad Rizwan,MJ Santner,356023560
+2,Pakistan,2,Sarfraz Ahmed,CJ Anderson,Shoaib Malik,,0,0,0,,,,356023560
+2,Pakistan,2,Sarfraz Ahmed,CJ Anderson,Shoaib Malik,,0,2,2,,,,356023560
+2,Pakistan,2,Sarfraz Ahmed,CJ Anderson,Shoaib Malik,,0,0,0,,,,356023560
+2,Pakistan,3,Shoaib Malik,TA Boult,Sarfraz Ahmed,,0,4,4,,,,356023560
+2,Pakistan,3,Shoaib Malik,TA Boult,Sarfraz Ahmed,,0,1,1,,,,356023560
+2,Pakistan,3,Sarfraz Ahmed,TA Boult,Shoaib Malik,,0,0,0,,,,356023560
+2,Pakistan,3,Sarfraz Ahmed,TA Boult,Shoaib Malik,,0,1,1,,,,356023560
+2,Pakistan,3,Shoaib Malik,TA Boult,Sarfraz Ahmed,,0,4,4,,,,356023560
+2,Pakistan,3,Shoaib Malik,TA Boult,Sarfraz Ahmed,,0,4,4,,,,356023560
+2,Pakistan,4,Sarfraz Ahmed,CJ Anderson,Shoaib Malik,,0,4,4,,,,356023560
+2,Pakistan,4,Sarfraz Ahmed,CJ Anderson,Shoaib Malik,,0,0,0,,,,356023560
+2,Pakistan,4,Sarfraz Ahmed,CJ Anderson,Shoaib Malik,,0,0,0,,,,356023560
+2,Pakistan,4,Sarfraz Ahmed,CJ Anderson,Shoaib Malik,,0,1,1,,,,356023560
+2,Pakistan,4,Shoaib Malik,CJ Anderson,Sarfraz Ahmed,,0,0,0,caught,Shoaib Malik,MJ McClenaghan,356023560
+2,Pakistan,4,Sarfraz Ahmed,CJ Anderson,Umar Akmal,,0,2,2,,,,356023560
+2,Pakistan,5,Umar Akmal,AF Milne,Sarfraz Ahmed,,0,0,0,,,,356023560
+2,Pakistan,5,Umar Akmal,AF Milne,Sarfraz Ahmed,,0,0,0,,,,356023560
+2,Pakistan,5,Umar Akmal,AF Milne,Sarfraz Ahmed,legbyes,1,1,0,,,,356023560
+2,Pakistan,5,Sarfraz Ahmed,AF Milne,Umar Akmal,,0,1,1,,,,356023560
+2,Pakistan,5,Umar Akmal,AF Milne,Sarfraz Ahmed,,0,0,0,,,,356023560
+2,Pakistan,5,Umar Akmal,AF Milne,Sarfraz Ahmed,,0,2,2,,,,356023560
+2,Pakistan,6,Sarfraz Ahmed,MJ Santner,Umar Akmal,,0,4,4,,,,356023560
+2,Pakistan,6,Sarfraz Ahmed,MJ Santner,Umar Akmal,,0,0,0,,,,356023560
+2,Pakistan,6,Sarfraz Ahmed,MJ Santner,Umar Akmal,,0,1,1,,,,356023560
+2,Pakistan,6,Umar Akmal,MJ Santner,Sarfraz Ahmed,,0,1,1,,,,356023560
+2,Pakistan,6,Sarfraz Ahmed,MJ Santner,Umar Akmal,,0,0,0,,,,356023560
+2,Pakistan,6,Sarfraz Ahmed,MJ Santner,Umar Akmal,,0,1,1,,,,356023560
+2,Pakistan,7,Sarfraz Ahmed,MJ McClenaghan,Umar Akmal,legbyes,1,1,0,,,,356023560
+2,Pakistan,7,Umar Akmal,MJ McClenaghan,Sarfraz Ahmed,,0,0,0,,,,356023560
+2,Pakistan,7,Umar Akmal,MJ McClenaghan,Sarfraz Ahmed,,0,1,1,,,,356023560
+2,Pakistan,7,Sarfraz Ahmed,MJ McClenaghan,Umar Akmal,,0,1,1,,,,356023560
+2,Pakistan,7,Umar Akmal,MJ McClenaghan,Sarfraz Ahmed,,0,1,1,,,,356023560
+2,Pakistan,7,Sarfraz Ahmed,MJ McClenaghan,Umar Akmal,,0,2,2,,,,356023560
+2,Pakistan,8,Umar Akmal,AF Milne,Sarfraz Ahmed,,0,0,0,,,,356023560
+2,Pakistan,8,Umar Akmal,AF Milne,Sarfraz Ahmed,,0,0,0,,,,356023560
+2,Pakistan,8,Umar Akmal,AF Milne,Sarfraz Ahmed,,0,0,0,,,,356023560
+2,Pakistan,8,Umar Akmal,AF Milne,Sarfraz Ahmed,,0,0,0,caught,Umar Akmal,PF Younghusband,356023560
+2,Pakistan,8,Shahid Afridi,AF Milne,Sarfraz Ahmed,,0,0,0,,,,356023560
+2,Pakistan,8,Shahid Afridi,AF Milne,Sarfraz Ahmed,,0,0,0,,,,356023560
+2,Pakistan,9,Sarfraz Ahmed,MJ McClenaghan,Shahid Afridi,,0,0,0,,,,356023560
+2,Pakistan,9,Sarfraz Ahmed,MJ McClenaghan,Shahid Afridi,,0,4,4,,,,356023560
+2,Pakistan,9,Sarfraz Ahmed,MJ McClenaghan,Shahid Afridi,,0,0,0,,,,356023560
+2,Pakistan,9,Sarfraz Ahmed,MJ McClenaghan,Shahid Afridi,,0,1,1,,,,356023560
+2,Pakistan,9,Shahid Afridi,MJ McClenaghan,Sarfraz Ahmed,,0,0,0,,,,356023560
+2,Pakistan,9,Shahid Afridi,MJ McClenaghan,Sarfraz Ahmed,wides,1,1,0,,,,356023560
+2,Pakistan,9,Shahid Afridi,MJ McClenaghan,Sarfraz Ahmed,,0,1,1,,,,356023560
+2,Pakistan,10,Shahid Afridi,TA Boult,Sarfraz Ahmed,,0,6,6,,,,356023560
+2,Pakistan,10,Shahid Afridi,TA Boult,Sarfraz Ahmed,,0,1,1,,,,356023560
+2,Pakistan,10,Sarfraz Ahmed,TA Boult,Shahid Afridi,,0,0,0,,,,356023560
+2,Pakistan,10,Sarfraz Ahmed,TA Boult,Shahid Afridi,wides,1,1,0,,,,356023560
+2,Pakistan,10,Sarfraz Ahmed,TA Boult,Shahid Afridi,,0,2,2,,,,356023560
+2,Pakistan,10,Sarfraz Ahmed,TA Boult,Shahid Afridi,,0,1,1,,,,356023560
+2,Pakistan,10,Shahid Afridi,TA Boult,Sarfraz Ahmed,,0,0,0,,,,356023560
+2,Pakistan,11,Sarfraz Ahmed,GD Elliott,Shahid Afridi,,0,0,0,,,,356023560
+2,Pakistan,11,Sarfraz Ahmed,GD Elliott,Shahid Afridi,,0,1,1,,,,356023560
+2,Pakistan,11,Shahid Afridi,GD Elliott,Sarfraz Ahmed,wides,1,1,0,,,,356023560
+2,Pakistan,11,Shahid Afridi,GD Elliott,Sarfraz Ahmed,,0,0,0,caught,Shahid Afridi,MJ Henry,356023560
+2,Pakistan,11,Sarfraz Ahmed,GD Elliott,Imad Wasim,,0,1,1,,,,356023560
+2,Pakistan,11,Imad Wasim,GD Elliott,Sarfraz Ahmed,,0,0,0,caught,Imad Wasim,MJ Guptill,356023560
+2,Pakistan,11,Anwar Ali,GD Elliott,Sarfraz Ahmed,,0,1,1,,,,356023560
+2,Pakistan,12,Anwar Ali,C Munro,Sarfraz Ahmed,,0,1,1,,,,356023560
+2,Pakistan,12,Sarfraz Ahmed,C Munro,Anwar Ali,,0,1,1,,,,356023560
+2,Pakistan,12,Anwar Ali,C Munro,Sarfraz Ahmed,,0,1,1,,,,356023560
+2,Pakistan,12,Sarfraz Ahmed,C Munro,Anwar Ali,wides,1,1,0,,,,356023560
+2,Pakistan,12,Sarfraz Ahmed,C Munro,Anwar Ali,,0,4,4,,,,356023560
+2,Pakistan,12,Sarfraz Ahmed,C Munro,Anwar Ali,,0,4,4,,,,356023560
+2,Pakistan,12,Sarfraz Ahmed,C Munro,Anwar Ali,,0,1,1,,,,356023560
+2,Pakistan,13,Sarfraz Ahmed,GD Elliott,Anwar Ali,,0,0,0,,,,356023560
+2,Pakistan,13,Sarfraz Ahmed,GD Elliott,Anwar Ali,,0,1,1,,,,356023560
+2,Pakistan,13,Anwar Ali,GD Elliott,Sarfraz Ahmed,,0,1,1,,,,356023560
+2,Pakistan,13,Sarfraz Ahmed,GD Elliott,Anwar Ali,,0,0,0,caught,Sarfraz Ahmed,AF Milne,356023560
+2,Pakistan,13,Wahab Riaz,GD Elliott,Anwar Ali,,0,1,1,,,,356023560
+2,Pakistan,13,Anwar Ali,GD Elliott,Wahab Riaz,,0,0,0,,,,356023560
+2,Pakistan,14,Wahab Riaz,AF Milne,Anwar Ali,,0,1,1,,,,356023560
+2,Pakistan,14,Anwar Ali,AF Milne,Wahab Riaz,,0,4,4,,,,356023560
+2,Pakistan,14,Anwar Ali,AF Milne,Wahab Riaz,,0,0,0,caught,Anwar Ali,L Ronchi,356023560
+2,Pakistan,14,Mohammad Amir,AF Milne,Wahab Riaz,,0,0,0,,,,356023560
+2,Pakistan,14,Mohammad Amir,AF Milne,Wahab Riaz,,0,0,0,,,,356023560
+2,Pakistan,14,Mohammad Amir,AF Milne,Wahab Riaz,,0,0,0,,,,356023560
+2,Pakistan,15,Wahab Riaz,MJ McClenaghan,Mohammad Amir,,0,1,1,,,,356023560
+2,Pakistan,15,Mohammad Amir,MJ McClenaghan,Wahab Riaz,,0,0,0,,,,356023560
+2,Pakistan,15,Mohammad Amir,MJ McClenaghan,Wahab Riaz,,0,1,1,,,,356023560
+2,Pakistan,15,Wahab Riaz,MJ McClenaghan,Mohammad Amir,,0,1,1,,,,356023560
+2,Pakistan,15,Mohammad Amir,MJ McClenaghan,Wahab Riaz,,0,0,0,,,,356023560
+2,Pakistan,15,Mohammad Amir,MJ McClenaghan,Wahab Riaz,,0,0,0,,,,356023560
+2,Pakistan,16,Wahab Riaz,AF Milne,Mohammad Amir,,0,0,0,caught,Wahab Riaz,L Ronchi,356023560

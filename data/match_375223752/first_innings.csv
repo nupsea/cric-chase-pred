@@ -1,0 +1,122 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Pakistan,0,Fakhar Zaman,SHA Rance,Umar Amin,,0,1,1,,,,375223752
+1,Pakistan,0,Umar Amin,SHA Rance,Fakhar Zaman,,0,0,0,,,,375223752
+1,Pakistan,0,Umar Amin,SHA Rance,Fakhar Zaman,,0,0,0,,,,375223752
+1,Pakistan,0,Umar Amin,SHA Rance,Fakhar Zaman,,0,0,0,,,,375223752
+1,Pakistan,0,Umar Amin,SHA Rance,Fakhar Zaman,,0,0,0,,,,375223752
+1,Pakistan,0,Umar Amin,SHA Rance,Fakhar Zaman,,0,0,0,,,,375223752
+1,Pakistan,1,Fakhar Zaman,TG Southee,Umar Amin,,0,2,2,,,,375223752
+1,Pakistan,1,Fakhar Zaman,TG Southee,Umar Amin,,0,0,0,,,,375223752
+1,Pakistan,1,Fakhar Zaman,TG Southee,Umar Amin,wides,1,1,0,,,,375223752
+1,Pakistan,1,Fakhar Zaman,TG Southee,Umar Amin,,0,0,0,caught,Fakhar Zaman,AK Kitchen,375223752
+1,Pakistan,1,Mohammad Nawaz (3),TG Southee,Umar Amin,,0,0,0,,,,375223752
+1,Pakistan,1,Mohammad Nawaz (3),TG Southee,Umar Amin,,0,0,0,,,,375223752
+1,Pakistan,1,Mohammad Nawaz (3),TG Southee,Umar Amin,,0,0,0,,,,375223752
+1,Pakistan,2,Umar Amin,SHA Rance,Mohammad Nawaz (3),,0,0,0,,,,375223752
+1,Pakistan,2,Umar Amin,SHA Rance,Mohammad Nawaz (3),,0,0,0,caught,Umar Amin,AK Kitchen,375223752
+1,Pakistan,2,Mohammad Nawaz (3),SHA Rance,Haris Sohail,,0,4,4,,,,375223752
+1,Pakistan,2,Mohammad Nawaz (3),SHA Rance,Haris Sohail,,0,0,0,,,,375223752
+1,Pakistan,2,Mohammad Nawaz (3),SHA Rance,Haris Sohail,,0,0,0,,,,375223752
+1,Pakistan,2,Mohammad Nawaz (3),SHA Rance,Haris Sohail,,0,2,2,,,,375223752
+1,Pakistan,3,Haris Sohail,TG Southee,Mohammad Nawaz (3),,0,1,1,,,,375223752
+1,Pakistan,3,Mohammad Nawaz (3),TG Southee,Haris Sohail,,0,1,1,,,,375223752
+1,Pakistan,3,Haris Sohail,TG Southee,Mohammad Nawaz (3),,0,0,0,,,,375223752
+1,Pakistan,3,Haris Sohail,TG Southee,Mohammad Nawaz (3),,0,3,3,,,,375223752
+1,Pakistan,3,Mohammad Nawaz (3),TG Southee,Haris Sohail,,0,0,0,caught,Mohammad Nawaz (3),C Munro,375223752
+1,Pakistan,3,Babar Azam,TG Southee,Haris Sohail,,0,0,0,,,,375223752
+1,Pakistan,4,Haris Sohail,C de Grandhomme,Babar Azam,,0,1,1,,,,375223752
+1,Pakistan,4,Babar Azam,C de Grandhomme,Haris Sohail,,0,0,0,,,,375223752
+1,Pakistan,4,Babar Azam,C de Grandhomme,Haris Sohail,,0,1,1,,,,375223752
+1,Pakistan,4,Haris Sohail,C de Grandhomme,Babar Azam,,0,0,0,,,,375223752
+1,Pakistan,4,Haris Sohail,C de Grandhomme,Babar Azam,,0,4,4,,,,375223752
+1,Pakistan,4,Haris Sohail,C de Grandhomme,Babar Azam,,0,0,0,,,,375223752
+1,Pakistan,5,Babar Azam,AK Kitchen,Haris Sohail,,0,1,1,,,,375223752
+1,Pakistan,5,Haris Sohail,AK Kitchen,Babar Azam,,0,0,0,,,,375223752
+1,Pakistan,5,Haris Sohail,AK Kitchen,Babar Azam,,0,0,0,,,,375223752
+1,Pakistan,5,Haris Sohail,AK Kitchen,Babar Azam,,0,0,0,caught,Haris Sohail,TC Bruce,375223752
+1,Pakistan,5,Sarfraz Ahmed,AK Kitchen,Babar Azam,,0,1,1,,,,375223752
+1,Pakistan,5,Babar Azam,AK Kitchen,Sarfraz Ahmed,,0,1,1,,,,375223752
+1,Pakistan,6,Babar Azam,IS Sodhi,Sarfraz Ahmed,,0,3,3,,,,375223752
+1,Pakistan,6,Sarfraz Ahmed,IS Sodhi,Babar Azam,,0,0,0,,,,375223752
+1,Pakistan,6,Sarfraz Ahmed,IS Sodhi,Babar Azam,,0,4,4,,,,375223752
+1,Pakistan,6,Sarfraz Ahmed,IS Sodhi,Babar Azam,,0,0,0,,,,375223752
+1,Pakistan,6,Sarfraz Ahmed,IS Sodhi,Babar Azam,,0,0,0,,,,375223752
+1,Pakistan,6,Sarfraz Ahmed,IS Sodhi,Babar Azam,,0,0,0,,,,375223752
+1,Pakistan,7,Babar Azam,MJ Santner,Sarfraz Ahmed,,0,0,0,,,,375223752
+1,Pakistan,7,Babar Azam,MJ Santner,Sarfraz Ahmed,,0,1,1,,,,375223752
+1,Pakistan,7,Sarfraz Ahmed,MJ Santner,Babar Azam,,0,1,1,,,,375223752
+1,Pakistan,7,Babar Azam,MJ Santner,Sarfraz Ahmed,,0,1,1,,,,375223752
+1,Pakistan,7,Sarfraz Ahmed,MJ Santner,Babar Azam,,0,0,0,,,,375223752
+1,Pakistan,7,Sarfraz Ahmed,MJ Santner,Babar Azam,,0,1,1,,,,375223752
+1,Pakistan,8,Sarfraz Ahmed,IS Sodhi,Babar Azam,,0,1,1,,,,375223752
+1,Pakistan,8,Babar Azam,IS Sodhi,Sarfraz Ahmed,,0,1,1,,,,375223752
+1,Pakistan,8,Sarfraz Ahmed,IS Sodhi,Babar Azam,,0,0,0,,,,375223752
+1,Pakistan,8,Sarfraz Ahmed,IS Sodhi,Babar Azam,,0,0,0,,,,375223752
+1,Pakistan,8,Sarfraz Ahmed,IS Sodhi,Babar Azam,,0,1,1,,,,375223752
+1,Pakistan,8,Babar Azam,IS Sodhi,Sarfraz Ahmed,,0,0,0,,,,375223752
+1,Pakistan,9,Sarfraz Ahmed,MJ Santner,Babar Azam,,0,0,0,stumped,Sarfraz Ahmed,GD Phillips,375223752
+1,Pakistan,9,Shadab Khan,MJ Santner,Babar Azam,,0,0,0,caught,Shadab Khan,GD Phillips,375223752
+1,Pakistan,9,Faheem Ashraf,MJ Santner,Babar Azam,,0,0,0,,,,375223752
+1,Pakistan,9,Faheem Ashraf,MJ Santner,Babar Azam,,0,0,0,,,,375223752
+1,Pakistan,9,Faheem Ashraf,MJ Santner,Babar Azam,,0,1,1,,,,375223752
+1,Pakistan,9,Babar Azam,MJ Santner,Faheem Ashraf,,0,0,0,,,,375223752
+1,Pakistan,10,Faheem Ashraf,IS Sodhi,Babar Azam,wides,1,1,0,,,,375223752
+1,Pakistan,10,Faheem Ashraf,IS Sodhi,Babar Azam,,0,0,0,,,,375223752
+1,Pakistan,10,Faheem Ashraf,IS Sodhi,Babar Azam,,0,1,1,,,,375223752
+1,Pakistan,10,Babar Azam,IS Sodhi,Faheem Ashraf,,0,0,0,,,,375223752
+1,Pakistan,10,Babar Azam,IS Sodhi,Faheem Ashraf,,0,1,1,,,,375223752
+1,Pakistan,10,Faheem Ashraf,IS Sodhi,Babar Azam,,0,1,1,,,,375223752
+1,Pakistan,10,Babar Azam,IS Sodhi,Faheem Ashraf,,0,1,1,,,,375223752
+1,Pakistan,11,Babar Azam,MJ Santner,Faheem Ashraf,,0,0,0,,,,375223752
+1,Pakistan,11,Babar Azam,MJ Santner,Faheem Ashraf,,0,1,1,,,,375223752
+1,Pakistan,11,Faheem Ashraf,MJ Santner,Babar Azam,,0,1,1,,,,375223752
+1,Pakistan,11,Babar Azam,MJ Santner,Faheem Ashraf,,0,1,1,,,,375223752
+1,Pakistan,11,Faheem Ashraf,MJ Santner,Babar Azam,,0,0,0,,,,375223752
+1,Pakistan,11,Faheem Ashraf,MJ Santner,Babar Azam,,0,0,0,,,,375223752
+1,Pakistan,12,Babar Azam,C de Grandhomme,Faheem Ashraf,,0,1,1,,,,375223752
+1,Pakistan,12,Faheem Ashraf,C de Grandhomme,Babar Azam,,0,1,1,,,,375223752
+1,Pakistan,12,Babar Azam,C de Grandhomme,Faheem Ashraf,,0,1,1,,,,375223752
+1,Pakistan,12,Faheem Ashraf,C de Grandhomme,Babar Azam,,0,2,2,,,,375223752
+1,Pakistan,12,Faheem Ashraf,C de Grandhomme,Babar Azam,,0,0,0,,,,375223752
+1,Pakistan,12,Faheem Ashraf,C de Grandhomme,Babar Azam,,0,0,0,,,,375223752
+1,Pakistan,13,Babar Azam,TG Southee,Faheem Ashraf,,0,0,0,,,,375223752
+1,Pakistan,13,Babar Azam,TG Southee,Faheem Ashraf,,0,0,0,,,,375223752
+1,Pakistan,13,Babar Azam,TG Southee,Faheem Ashraf,,0,0,0,,,,375223752
+1,Pakistan,13,Babar Azam,TG Southee,Faheem Ashraf,,0,1,1,,,,375223752
+1,Pakistan,13,Faheem Ashraf,TG Southee,Babar Azam,,0,0,0,caught,Faheem Ashraf,TC Bruce,375223752
+1,Pakistan,13,Hasan Ali,TG Southee,Babar Azam,,0,0,0,,,,375223752
+1,Pakistan,14,Babar Azam,IS Sodhi,Hasan Ali,,0,1,1,,,,375223752
+1,Pakistan,14,Hasan Ali,IS Sodhi,Babar Azam,,0,1,1,,,,375223752
+1,Pakistan,14,Babar Azam,IS Sodhi,Hasan Ali,,0,1,1,,,,375223752
+1,Pakistan,14,Hasan Ali,IS Sodhi,Babar Azam,,0,6,6,,,,375223752
+1,Pakistan,14,Hasan Ali,IS Sodhi,Babar Azam,,0,0,0,,,,375223752
+1,Pakistan,14,Hasan Ali,IS Sodhi,Babar Azam,,0,1,1,,,,375223752
+1,Pakistan,15,Hasan Ali,MJ Santner,Babar Azam,,0,1,1,,,,375223752
+1,Pakistan,15,Babar Azam,MJ Santner,Hasan Ali,,0,1,1,,,,375223752
+1,Pakistan,15,Hasan Ali,MJ Santner,Babar Azam,,0,1,1,,,,375223752
+1,Pakistan,15,Babar Azam,MJ Santner,Hasan Ali,,0,1,1,,,,375223752
+1,Pakistan,15,Hasan Ali,MJ Santner,Babar Azam,,0,1,1,,,,375223752
+1,Pakistan,15,Babar Azam,MJ Santner,Hasan Ali,,0,2,2,,,,375223752
+1,Pakistan,16,Hasan Ali,SHA Rance,Babar Azam,,0,0,0,,,,375223752
+1,Pakistan,16,Hasan Ali,SHA Rance,Babar Azam,wides,1,1,0,,,,375223752
+1,Pakistan,16,Hasan Ali,SHA Rance,Babar Azam,,0,6,6,,,,375223752
+1,Pakistan,16,Hasan Ali,SHA Rance,Babar Azam,,0,6,6,,,,375223752
+1,Pakistan,16,Hasan Ali,SHA Rance,Babar Azam,,0,0,0,caught,Hasan Ali,TG Southee,375223752
+1,Pakistan,16,Babar Azam,SHA Rance,Mohammad Amir,,0,1,1,,,,375223752
+1,Pakistan,16,Mohammad Amir,SHA Rance,Babar Azam,,0,0,0,,,,375223752
+1,Pakistan,17,Babar Azam,TG Southee,Mohammad Amir,,0,1,1,,,,375223752
+1,Pakistan,17,Mohammad Amir,TG Southee,Babar Azam,,0,0,0,,,,375223752
+1,Pakistan,17,Mohammad Amir,TG Southee,Babar Azam,,0,1,1,,,,375223752
+1,Pakistan,17,Babar Azam,TG Southee,Mohammad Amir,,0,0,0,,,,375223752
+1,Pakistan,17,Babar Azam,TG Southee,Mohammad Amir,,0,1,1,,,,375223752
+1,Pakistan,17,Mohammad Amir,TG Southee,Babar Azam,,0,1,1,,,,375223752
+1,Pakistan,18,Mohammad Amir,SHA Rance,Babar Azam,,0,1,1,,,,375223752
+1,Pakistan,18,Babar Azam,SHA Rance,Mohammad Amir,,0,0,0,,,,375223752
+1,Pakistan,18,Babar Azam,SHA Rance,Mohammad Amir,,0,1,1,,,,375223752
+1,Pakistan,18,Mohammad Amir,SHA Rance,Babar Azam,,0,0,0,caught,Mohammad Amir,TG Southee,375223752
+1,Pakistan,18,Babar Azam,SHA Rance,Rumman Raees,,0,2,2,,,,375223752
+1,Pakistan,18,Babar Azam,SHA Rance,Rumman Raees,,0,1,1,,,,375223752
+1,Pakistan,19,Babar Azam,C Munro,Rumman Raees,,0,4,4,,,,375223752
+1,Pakistan,19,Babar Azam,C Munro,Rumman Raees,,0,2,2,,,,375223752
+1,Pakistan,19,Babar Azam,C Munro,Rumman Raees,,0,6,6,,,,375223752
+1,Pakistan,19,Babar Azam,C Munro,Rumman Raees,,0,0,0,caught,Babar Azam,TC Bruce,375223752

@@ -1,0 +1,67 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,JT Smuts,AD Mathews,HG Kuhn,,0,1,1,,,,357623576
+1,South Africa,0,HG Kuhn,AD Mathews,JT Smuts,,0,4,4,,,,357623576
+1,South Africa,0,HG Kuhn,AD Mathews,JT Smuts,,0,1,1,,,,357623576
+1,South Africa,0,JT Smuts,AD Mathews,HG Kuhn,,0,1,1,,,,357623576
+1,South Africa,0,HG Kuhn,AD Mathews,JT Smuts,,0,1,1,,,,357623576
+1,South Africa,0,JT Smuts,AD Mathews,HG Kuhn,wides,1,1,0,,,,357623576
+1,South Africa,0,JT Smuts,AD Mathews,HG Kuhn,,0,1,1,,,,357623576
+1,South Africa,1,JT Smuts,KMDN Kulasekara,HG Kuhn,legbyes,1,1,0,,,,357623576
+1,South Africa,1,HG Kuhn,KMDN Kulasekara,JT Smuts,,0,0,0,,,,357623576
+1,South Africa,1,HG Kuhn,KMDN Kulasekara,JT Smuts,,0,4,4,,,,357623576
+1,South Africa,1,HG Kuhn,KMDN Kulasekara,JT Smuts,,0,0,0,lbw,HG Kuhn,,357623576
+1,South Africa,1,TB de Bruyn,KMDN Kulasekara,JT Smuts,,0,4,4,,,,357623576
+1,South Africa,1,TB de Bruyn,KMDN Kulasekara,JT Smuts,,0,0,0,,,,357623576
+1,South Africa,2,JT Smuts,RAS Lakmal,TB de Bruyn,,0,4,4,,,,357623576
+1,South Africa,2,JT Smuts,RAS Lakmal,TB de Bruyn,wides,1,1,0,,,,357623576
+1,South Africa,2,JT Smuts,RAS Lakmal,TB de Bruyn,,0,0,0,,,,357623576
+1,South Africa,2,JT Smuts,RAS Lakmal,TB de Bruyn,,0,6,6,,,,357623576
+1,South Africa,2,JT Smuts,RAS Lakmal,TB de Bruyn,,0,0,0,caught,JT Smuts,DAS Gunaratne,357623576
+1,South Africa,2,TB de Bruyn,RAS Lakmal,DA Miller,,0,6,6,,,,357623576
+1,South Africa,2,TB de Bruyn,RAS Lakmal,DA Miller,,0,1,1,,,,357623576
+1,South Africa,3,TB de Bruyn,DAS Gunaratne,DA Miller,,0,1,1,,,,357623576
+1,South Africa,3,DA Miller,DAS Gunaratne,TB de Bruyn,,0,1,1,,,,357623576
+1,South Africa,3,TB de Bruyn,DAS Gunaratne,DA Miller,,0,1,1,,,,357623576
+1,South Africa,3,DA Miller,DAS Gunaratne,TB de Bruyn,,0,1,1,,,,357623576
+1,South Africa,3,TB de Bruyn,DAS Gunaratne,DA Miller,,0,1,1,,,,357623576
+1,South Africa,3,DA Miller,DAS Gunaratne,TB de Bruyn,,0,0,0,,,,357623576
+1,South Africa,4,TB de Bruyn,S Prasanna,DA Miller,,0,4,4,,,,357623576
+1,South Africa,4,TB de Bruyn,S Prasanna,DA Miller,,0,1,1,,,,357623576
+1,South Africa,4,DA Miller,S Prasanna,TB de Bruyn,,0,6,6,,,,357623576
+1,South Africa,4,DA Miller,S Prasanna,TB de Bruyn,,0,1,1,,,,357623576
+1,South Africa,4,TB de Bruyn,S Prasanna,DA Miller,,0,0,0,caught,TB de Bruyn,DAS Gunaratne,357623576
+1,South Africa,4,F Behardien,S Prasanna,DA Miller,wides,1,1,0,,,,357623576
+1,South Africa,4,F Behardien,S Prasanna,DA Miller,,0,1,1,,,,357623576
+1,South Africa,5,F Behardien,DAS Gunaratne,DA Miller,,0,1,1,,,,357623576
+1,South Africa,5,DA Miller,DAS Gunaratne,F Behardien,wides,1,1,0,,,,357623576
+1,South Africa,5,DA Miller,DAS Gunaratne,F Behardien,,0,1,1,,,,357623576
+1,South Africa,5,F Behardien,DAS Gunaratne,DA Miller,,0,2,2,,,,357623576
+1,South Africa,5,F Behardien,DAS Gunaratne,DA Miller,,0,0,0,,,,357623576
+1,South Africa,5,F Behardien,DAS Gunaratne,DA Miller,,0,1,1,,,,357623576
+1,South Africa,5,DA Miller,DAS Gunaratne,F Behardien,,0,1,1,,,,357623576
+1,South Africa,6,DA Miller,N Pradeep,F Behardien,,0,1,1,,,,357623576
+1,South Africa,6,F Behardien,N Pradeep,DA Miller,,0,4,4,,,,357623576
+1,South Africa,6,F Behardien,N Pradeep,DA Miller,,0,0,0,,,,357623576
+1,South Africa,6,F Behardien,N Pradeep,DA Miller,,0,1,1,,,,357623576
+1,South Africa,6,DA Miller,N Pradeep,F Behardien,,0,1,1,,,,357623576
+1,South Africa,6,F Behardien,N Pradeep,DA Miller,,0,4,4,,,,357623576
+1,South Africa,7,DA Miller,AD Mathews,F Behardien,,0,1,1,,,,357623576
+1,South Africa,7,F Behardien,AD Mathews,DA Miller,,0,1,1,,,,357623576
+1,South Africa,7,DA Miller,AD Mathews,F Behardien,,0,6,6,,,,357623576
+1,South Africa,7,DA Miller,AD Mathews,F Behardien,wides,1,1,0,,,,357623576
+1,South Africa,7,DA Miller,AD Mathews,F Behardien,,0,2,2,,,,357623576
+1,South Africa,7,DA Miller,AD Mathews,F Behardien,,0,4,4,,,,357623576
+1,South Africa,7,DA Miller,AD Mathews,F Behardien,,0,4,4,,,,357623576
+1,South Africa,8,F Behardien,KMDN Kulasekara,DA Miller,,0,1,1,,,,357623576
+1,South Africa,8,DA Miller,KMDN Kulasekara,F Behardien,noballs,1,1,0,,,,357623576
+1,South Africa,8,DA Miller,KMDN Kulasekara,F Behardien,,0,4,4,,,,357623576
+1,South Africa,8,DA Miller,KMDN Kulasekara,F Behardien,,0,6,6,,,,357623576
+1,South Africa,8,DA Miller,KMDN Kulasekara,F Behardien,,0,0,0,caught,DA Miller,RAS Lakmal,357623576
+1,South Africa,8,F Behardien,KMDN Kulasekara,M Mosehle,,0,1,1,,,,357623576
+1,South Africa,8,M Mosehle,KMDN Kulasekara,F Behardien,,0,6,6,,,,357623576
+1,South Africa,9,F Behardien,N Pradeep,M Mosehle,,0,0,0,,,,357623576
+1,South Africa,9,F Behardien,N Pradeep,M Mosehle,,0,4,4,,,,357623576
+1,South Africa,9,F Behardien,N Pradeep,M Mosehle,,0,6,6,,,,357623576
+1,South Africa,9,F Behardien,N Pradeep,M Mosehle,,0,2,2,,,,357623576
+1,South Africa,9,F Behardien,N Pradeep,M Mosehle,,0,1,1,run out,M Mosehle,DAS Gunaratne,357623576
+1,South Africa,9,F Behardien,N Pradeep,WD Parnell,,0,1,1,,,,357623576

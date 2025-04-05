@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,L Lee,A Shrubsole,D van Niekerk,,0,0,0,,,,344723447
+1,South Africa,0,L Lee,A Shrubsole,D van Niekerk,,0,0,0,,,,344723447
+1,South Africa,0,L Lee,A Shrubsole,D van Niekerk,,0,0,0,bowled,L Lee,,344723447
+1,South Africa,0,T Chetty,A Shrubsole,D van Niekerk,,0,1,1,,,,344723447
+1,South Africa,0,D van Niekerk,A Shrubsole,T Chetty,,0,0,0,,,,344723447
+1,South Africa,0,D van Niekerk,A Shrubsole,T Chetty,,0,0,0,,,,344723447
+1,South Africa,1,T Chetty,D Hazell,D van Niekerk,,0,0,0,,,,344723447
+1,South Africa,1,T Chetty,D Hazell,D van Niekerk,,0,0,0,,,,344723447
+1,South Africa,1,T Chetty,D Hazell,D van Niekerk,,0,1,1,,,,344723447
+1,South Africa,1,D van Niekerk,D Hazell,T Chetty,,0,2,2,,,,344723447
+1,South Africa,1,D van Niekerk,D Hazell,T Chetty,,0,0,0,,,,344723447
+1,South Africa,1,D van Niekerk,D Hazell,T Chetty,,0,0,0,,,,344723447
+1,South Africa,2,T Chetty,A Shrubsole,D van Niekerk,,0,1,1,,,,344723447
+1,South Africa,2,D van Niekerk,A Shrubsole,T Chetty,,0,1,1,,,,344723447
+1,South Africa,2,T Chetty,A Shrubsole,D van Niekerk,wides,1,1,0,,,,344723447
+1,South Africa,2,T Chetty,A Shrubsole,D van Niekerk,,0,0,0,bowled,T Chetty,,344723447
+1,South Africa,2,Y van der Westhuizen,A Shrubsole,D van Niekerk,,0,0,0,,,,344723447
+1,South Africa,2,Y van der Westhuizen,A Shrubsole,D van Niekerk,,0,2,2,,,,344723447
+1,South Africa,2,Y van der Westhuizen,A Shrubsole,D van Niekerk,,0,4,4,,,,344723447
+1,South Africa,3,D van Niekerk,RL Grundy,Y van der Westhuizen,,0,1,1,,,,344723447
+1,South Africa,3,Y van der Westhuizen,RL Grundy,D van Niekerk,,0,0,0,,,,344723447
+1,South Africa,3,Y van der Westhuizen,RL Grundy,D van Niekerk,,0,0,0,,,,344723447
+1,South Africa,3,Y van der Westhuizen,RL Grundy,D van Niekerk,,0,0,0,lbw,Y van der Westhuizen,,344723447
+1,South Africa,3,M du Preez,RL Grundy,D van Niekerk,,0,0,0,,,,344723447
+1,South Africa,3,M du Preez,RL Grundy,D van Niekerk,,0,0,0,,,,344723447
+1,South Africa,4,D van Niekerk,A Shrubsole,M du Preez,,0,0,0,,,,344723447
+1,South Africa,4,D van Niekerk,A Shrubsole,M du Preez,,0,0,0,,,,344723447
+1,South Africa,4,D van Niekerk,A Shrubsole,M du Preez,,0,0,0,,,,344723447
+1,South Africa,4,D van Niekerk,A Shrubsole,M du Preez,,0,0,0,,,,344723447
+1,South Africa,4,D van Niekerk,A Shrubsole,M du Preez,,0,0,0,,,,344723447
+1,South Africa,4,D van Niekerk,A Shrubsole,M du Preez,,0,0,0,,,,344723447
+1,South Africa,5,M du Preez,RL Grundy,D van Niekerk,,0,0,0,,,,344723447
+1,South Africa,5,M du Preez,RL Grundy,D van Niekerk,,0,0,0,,,,344723447
+1,South Africa,5,M du Preez,RL Grundy,D van Niekerk,,0,0,0,,,,344723447
+1,South Africa,5,M du Preez,RL Grundy,D van Niekerk,,0,4,4,,,,344723447
+1,South Africa,5,M du Preez,RL Grundy,D van Niekerk,,0,4,4,,,,344723447
+1,South Africa,5,M du Preez,RL Grundy,D van Niekerk,,0,1,1,,,,344723447
+1,South Africa,6,M du Preez,A Shrubsole,D van Niekerk,,0,0,0,,,,344723447
+1,South Africa,6,M du Preez,A Shrubsole,D van Niekerk,,0,1,1,,,,344723447
+1,South Africa,6,D van Niekerk,A Shrubsole,M du Preez,,0,0,0,,,,344723447
+1,South Africa,6,D van Niekerk,A Shrubsole,M du Preez,,0,0,0,,,,344723447
+1,South Africa,6,D van Niekerk,A Shrubsole,M du Preez,,0,1,1,,,,344723447
+1,South Africa,6,M du Preez,A Shrubsole,D van Niekerk,,0,0,0,,,,344723447
+1,South Africa,7,D van Niekerk,D Hazell,M du Preez,,0,0,0,,,,344723447
+1,South Africa,7,D van Niekerk,D Hazell,M du Preez,,0,1,1,,,,344723447
+1,South Africa,7,M du Preez,D Hazell,D van Niekerk,,0,0,0,,,,344723447
+1,South Africa,7,M du Preez,D Hazell,D van Niekerk,,0,0,0,,,,344723447
+1,South Africa,7,M du Preez,D Hazell,D van Niekerk,,0,1,1,,,,344723447
+1,South Africa,7,D van Niekerk,D Hazell,M du Preez,,0,0,0,,,,344723447
+1,South Africa,8,M du Preez,JL Gunn,D van Niekerk,wides,1,1,0,,,,344723447
+1,South Africa,8,M du Preez,JL Gunn,D van Niekerk,,0,0,0,,,,344723447
+1,South Africa,8,M du Preez,JL Gunn,D van Niekerk,,0,1,1,,,,344723447
+1,South Africa,8,D van Niekerk,JL Gunn,M du Preez,,0,1,1,,,,344723447
+1,South Africa,8,M du Preez,JL Gunn,D van Niekerk,,0,0,0,,,,344723447
+1,South Africa,8,M du Preez,JL Gunn,D van Niekerk,,0,0,0,,,,344723447
+1,South Africa,8,M du Preez,JL Gunn,D van Niekerk,,0,2,2,,,,344723447
+1,South Africa,9,D van Niekerk,D Hazell,M du Preez,,0,0,0,run out,D van Niekerk,SJ Taylor,344723447
+1,South Africa,9,M du Preez,D Hazell,M Kapp,,0,1,1,,,,344723447
+1,South Africa,9,M Kapp,D Hazell,M du Preez,,0,0,0,,,,344723447
+1,South Africa,9,M Kapp,D Hazell,M du Preez,,0,0,0,run out,M Kapp,D Hazell,344723447
+1,South Africa,9,M du Preez,D Hazell,CL Tryon,,0,0,0,,,,344723447
+1,South Africa,9,M du Preez,D Hazell,CL Tryon,,0,0,0,,,,344723447
+1,South Africa,10,CL Tryon,JL Gunn,M du Preez,,0,0,0,,,,344723447
+1,South Africa,10,CL Tryon,JL Gunn,M du Preez,,0,1,1,,,,344723447
+1,South Africa,10,M du Preez,JL Gunn,CL Tryon,,0,0,0,,,,344723447
+1,South Africa,10,M du Preez,JL Gunn,CL Tryon,,0,1,1,,,,344723447
+1,South Africa,10,CL Tryon,JL Gunn,M du Preez,,0,1,1,,,,344723447
+1,South Africa,10,M du Preez,JL Gunn,CL Tryon,,0,1,1,,,,344723447
+1,South Africa,11,M du Preez,RL Grundy,CL Tryon,,0,1,1,,,,344723447
+1,South Africa,11,CL Tryon,RL Grundy,M du Preez,,0,1,1,,,,344723447
+1,South Africa,11,M du Preez,RL Grundy,CL Tryon,,0,2,2,,,,344723447
+1,South Africa,11,M du Preez,RL Grundy,CL Tryon,,0,0,0,,,,344723447
+1,South Africa,11,M du Preez,RL Grundy,CL Tryon,,0,1,1,,,,344723447
+1,South Africa,11,CL Tryon,RL Grundy,M du Preez,,0,0,0,,,,344723447
+1,South Africa,12,M du Preez,NR Sciver,CL Tryon,,0,1,1,,,,344723447
+1,South Africa,12,CL Tryon,NR Sciver,M du Preez,,0,0,0,,,,344723447
+1,South Africa,12,CL Tryon,NR Sciver,M du Preez,,0,0,0,,,,344723447
+1,South Africa,12,CL Tryon,NR Sciver,M du Preez,,0,0,0,,,,344723447
+1,South Africa,12,CL Tryon,NR Sciver,M du Preez,,0,4,4,,,,344723447
+1,South Africa,12,CL Tryon,NR Sciver,M du Preez,,0,0,0,,,,344723447
+1,South Africa,13,M du Preez,RL Grundy,CL Tryon,,0,1,1,,,,344723447
+1,South Africa,13,CL Tryon,RL Grundy,M du Preez,,0,4,4,,,,344723447
+1,South Africa,13,CL Tryon,RL Grundy,M du Preez,legbyes,3,3,0,,,,344723447
+1,South Africa,13,M du Preez,RL Grundy,CL Tryon,,0,0,0,caught,M du Preez,LS Greenway,344723447
+1,South Africa,13,CL Tryon,RL Grundy,S Luus,,0,1,1,,,,344723447
+1,South Africa,13,S Luus,RL Grundy,CL Tryon,,0,1,1,,,,344723447
+1,South Africa,14,S Luus,NR Sciver,CL Tryon,wides,1,1,0,,,,344723447
+1,South Africa,14,S Luus,NR Sciver,CL Tryon,,0,1,1,,,,344723447
+1,South Africa,14,CL Tryon,NR Sciver,S Luus,,0,0,0,,,,344723447
+1,South Africa,14,CL Tryon,NR Sciver,S Luus,,0,1,1,,,,344723447
+1,South Africa,14,S Luus,NR Sciver,CL Tryon,noballs,1,2,1,,,,344723447
+1,South Africa,14,CL Tryon,NR Sciver,S Luus,,0,2,2,,,,344723447
+1,South Africa,14,CL Tryon,NR Sciver,S Luus,,0,4,4,,,,344723447
+1,South Africa,14,CL Tryon,NR Sciver,S Luus,,0,1,1,,,,344723447
+1,South Africa,15,CL Tryon,JL Gunn,S Luus,,0,1,1,,,,344723447
+1,South Africa,15,S Luus,JL Gunn,CL Tryon,,0,1,1,,,,344723447
+1,South Africa,15,CL Tryon,JL Gunn,S Luus,,0,2,2,,,,344723447
+1,South Africa,15,CL Tryon,JL Gunn,S Luus,,0,1,1,,,,344723447
+1,South Africa,15,S Luus,JL Gunn,CL Tryon,,0,0,0,,,,344723447
+1,South Africa,15,S Luus,JL Gunn,CL Tryon,,0,1,1,run out,S Luus,SJ Taylor,344723447
+1,South Africa,16,CL Tryon,CM Edwards,S Ismail,,0,6,6,,,,344723447
+1,South Africa,16,CL Tryon,CM Edwards,S Ismail,,0,2,2,,,,344723447
+1,South Africa,16,CL Tryon,CM Edwards,S Ismail,,0,1,1,,,,344723447
+1,South Africa,16,S Ismail,CM Edwards,CL Tryon,,0,0,0,,,,344723447
+1,South Africa,16,S Ismail,CM Edwards,CL Tryon,byes,1,1,0,,,,344723447
+1,South Africa,16,CL Tryon,CM Edwards,S Ismail,,0,0,0,,,,344723447
+1,South Africa,17,S Ismail,D Hazell,CL Tryon,,0,0,0,,,,344723447
+1,South Africa,17,S Ismail,D Hazell,CL Tryon,,0,0,0,,,,344723447
+1,South Africa,17,S Ismail,D Hazell,CL Tryon,,0,1,1,,,,344723447
+1,South Africa,17,CL Tryon,D Hazell,S Ismail,legbyes,1,1,0,,,,344723447
+1,South Africa,17,S Ismail,D Hazell,CL Tryon,,0,1,1,,,,344723447
+1,South Africa,17,CL Tryon,D Hazell,S Ismail,,0,0,0,,,,344723447
+1,South Africa,18,S Ismail,JL Gunn,CL Tryon,,0,4,4,,,,344723447
+1,South Africa,18,S Ismail,JL Gunn,CL Tryon,,0,0,0,run out,S Ismail,JL Gunn,344723447
+1,South Africa,18,CL Tryon,JL Gunn,S Loubser,,0,6,6,,,,344723447
+1,South Africa,18,CL Tryon,JL Gunn,S Loubser,,0,1,1,,,,344723447
+1,South Africa,18,S Loubser,JL Gunn,CL Tryon,,0,0,0,,,,344723447
+1,South Africa,18,S Loubser,JL Gunn,CL Tryon,,0,0,0,,,,344723447
+1,South Africa,19,CL Tryon,NR Sciver,S Loubser,,0,0,0,,,,344723447
+1,South Africa,19,CL Tryon,NR Sciver,S Loubser,,0,0,0,bowled,CL Tryon,,344723447
+1,South Africa,19,M Daniels,NR Sciver,S Loubser,,0,1,1,,,,344723447
+1,South Africa,19,S Loubser,NR Sciver,M Daniels,,0,1,1,,,,344723447
+1,South Africa,19,M Daniels,NR Sciver,S Loubser,,0,0,0,run out,M Daniels,NR Sciver,344723447

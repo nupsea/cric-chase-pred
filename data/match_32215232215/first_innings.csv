@@ -1,0 +1,122 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Zimbabwe,0,RW Chakabva,Mustafizur Rahman,CR Ervine,,0,4,4,,,,32215232215
+1,Zimbabwe,0,RW Chakabva,Mustafizur Rahman,CR Ervine,,0,0,0,,,,32215232215
+1,Zimbabwe,0,RW Chakabva,Mustafizur Rahman,CR Ervine,,0,0,0,,,,32215232215
+1,Zimbabwe,0,RW Chakabva,Mustafizur Rahman,CR Ervine,,0,1,1,,,,32215232215
+1,Zimbabwe,0,CR Ervine,Mustafizur Rahman,RW Chakabva,,0,0,0,,,,32215232215
+1,Zimbabwe,0,CR Ervine,Mustafizur Rahman,RW Chakabva,,0,1,1,,,,32215232215
+1,Zimbabwe,1,CR Ervine,Mahedi Hasan,RW Chakabva,,0,0,0,,,,32215232215
+1,Zimbabwe,1,CR Ervine,Mahedi Hasan,RW Chakabva,,0,0,0,,,,32215232215
+1,Zimbabwe,1,CR Ervine,Mahedi Hasan,RW Chakabva,,0,1,1,,,,32215232215
+1,Zimbabwe,1,RW Chakabva,Mahedi Hasan,CR Ervine,,0,1,1,,,,32215232215
+1,Zimbabwe,1,CR Ervine,Mahedi Hasan,RW Chakabva,,0,6,6,,,,32215232215
+1,Zimbabwe,1,CR Ervine,Mahedi Hasan,RW Chakabva,,0,0,0,,,,32215232215
+1,Zimbabwe,2,RW Chakabva,Mosaddek Hossain,CR Ervine,,0,4,4,,,,32215232215
+1,Zimbabwe,2,RW Chakabva,Mosaddek Hossain,CR Ervine,,0,0,0,,,,32215232215
+1,Zimbabwe,2,RW Chakabva,Mosaddek Hossain,CR Ervine,,0,6,6,,,,32215232215
+1,Zimbabwe,2,RW Chakabva,Mosaddek Hossain,CR Ervine,,0,1,1,,,,32215232215
+1,Zimbabwe,2,CR Ervine,Mosaddek Hossain,RW Chakabva,,0,0,0,,,,32215232215
+1,Zimbabwe,2,CR Ervine,Mosaddek Hossain,RW Chakabva,,0,4,4,,,,32215232215
+1,Zimbabwe,3,RW Chakabva,Nasum Ahmed,CR Ervine,,0,0,0,caught,RW Chakabva,Afif Hossain,32215232215
+1,Zimbabwe,3,W Madhevere,Nasum Ahmed,CR Ervine,,0,0,0,,,,32215232215
+1,Zimbabwe,3,W Madhevere,Nasum Ahmed,CR Ervine,,0,0,0,,,,32215232215
+1,Zimbabwe,3,W Madhevere,Nasum Ahmed,CR Ervine,,0,1,1,,,,32215232215
+1,Zimbabwe,3,CR Ervine,Nasum Ahmed,W Madhevere,,0,4,4,,,,32215232215
+1,Zimbabwe,3,CR Ervine,Nasum Ahmed,W Madhevere,,0,1,1,,,,32215232215
+1,Zimbabwe,4,CR Ervine,Hasan Mahmud,W Madhevere,,0,0,0,,,,32215232215
+1,Zimbabwe,4,CR Ervine,Hasan Mahmud,W Madhevere,,0,1,1,,,,32215232215
+1,Zimbabwe,4,W Madhevere,Hasan Mahmud,CR Ervine,,0,0,0,,,,32215232215
+1,Zimbabwe,4,W Madhevere,Hasan Mahmud,CR Ervine,,0,4,4,,,,32215232215
+1,Zimbabwe,4,W Madhevere,Hasan Mahmud,CR Ervine,legbyes,1,1,0,,,,32215232215
+1,Zimbabwe,4,CR Ervine,Hasan Mahmud,W Madhevere,,0,0,0,,,,32215232215
+1,Zimbabwe,5,W Madhevere,Mahedi Hasan,CR Ervine,legbyes,4,4,0,,,,32215232215
+1,Zimbabwe,5,W Madhevere,Mahedi Hasan,CR Ervine,,0,0,0,bowled,W Madhevere,,32215232215
+1,Zimbabwe,5,Sikandar Raza,Mahedi Hasan,CR Ervine,,0,0,0,caught,Sikandar Raza,Mustafizur Rahman,32215232215
+1,Zimbabwe,5,SC Williams,Mahedi Hasan,CR Ervine,,0,0,0,,,,32215232215
+1,Zimbabwe,5,SC Williams,Mahedi Hasan,CR Ervine,,0,0,0,,,,32215232215
+1,Zimbabwe,5,SC Williams,Mahedi Hasan,CR Ervine,,0,0,0,,,,32215232215
+1,Zimbabwe,6,CR Ervine,Mosaddek Hossain,SC Williams,,0,0,0,,,,32215232215
+1,Zimbabwe,6,CR Ervine,Mosaddek Hossain,SC Williams,,0,0,0,,,,32215232215
+1,Zimbabwe,6,CR Ervine,Mosaddek Hossain,SC Williams,,0,2,2,,,,32215232215
+1,Zimbabwe,6,CR Ervine,Mosaddek Hossain,SC Williams,,0,1,1,,,,32215232215
+1,Zimbabwe,6,SC Williams,Mosaddek Hossain,CR Ervine,,0,1,1,,,,32215232215
+1,Zimbabwe,6,CR Ervine,Mosaddek Hossain,SC Williams,,0,0,0,,,,32215232215
+1,Zimbabwe,7,SC Williams,Mahedi Hasan,CR Ervine,,0,0,0,,,,32215232215
+1,Zimbabwe,7,SC Williams,Mahedi Hasan,CR Ervine,legbyes,1,1,0,,,,32215232215
+1,Zimbabwe,7,CR Ervine,Mahedi Hasan,SC Williams,,0,1,1,,,,32215232215
+1,Zimbabwe,7,SC Williams,Mahedi Hasan,CR Ervine,,0,1,1,,,,32215232215
+1,Zimbabwe,7,CR Ervine,Mahedi Hasan,SC Williams,,0,0,0,,,,32215232215
+1,Zimbabwe,7,CR Ervine,Mahedi Hasan,SC Williams,,0,1,1,,,,32215232215
+1,Zimbabwe,8,CR Ervine,Mosaddek Hossain,SC Williams,,0,0,0,,,,32215232215
+1,Zimbabwe,8,CR Ervine,Mosaddek Hossain,SC Williams,legbyes,1,1,0,,,,32215232215
+1,Zimbabwe,8,SC Williams,Mosaddek Hossain,CR Ervine,,0,0,0,caught,SC Williams,Nazmul Hossain Shanto,32215232215
+1,Zimbabwe,8,CR Ervine,Mosaddek Hossain,M Shumba,,0,0,0,,,,32215232215
+1,Zimbabwe,8,CR Ervine,Mosaddek Hossain,M Shumba,,0,1,1,,,,32215232215
+1,Zimbabwe,8,M Shumba,Mosaddek Hossain,CR Ervine,,0,0,0,,,,32215232215
+1,Zimbabwe,9,CR Ervine,Mahmudullah,M Shumba,,0,0,0,stumped,CR Ervine,Anamul Haque,32215232215
+1,Zimbabwe,9,RP Burl,Mahmudullah,M Shumba,,0,0,0,,,,32215232215
+1,Zimbabwe,9,RP Burl,Mahmudullah,M Shumba,,0,0,0,,,,32215232215
+1,Zimbabwe,9,RP Burl,Mahmudullah,M Shumba,,0,0,0,,,,32215232215
+1,Zimbabwe,9,RP Burl,Mahmudullah,M Shumba,,0,1,1,,,,32215232215
+1,Zimbabwe,9,M Shumba,Mahmudullah,RP Burl,,0,0,0,,,,32215232215
+1,Zimbabwe,10,RP Burl,Mosaddek Hossain,M Shumba,,0,0,0,,,,32215232215
+1,Zimbabwe,10,RP Burl,Mosaddek Hossain,M Shumba,,0,0,0,,,,32215232215
+1,Zimbabwe,10,RP Burl,Mosaddek Hossain,M Shumba,,0,1,1,,,,32215232215
+1,Zimbabwe,10,M Shumba,Mosaddek Hossain,RP Burl,,0,0,0,,,,32215232215
+1,Zimbabwe,10,M Shumba,Mosaddek Hossain,RP Burl,,0,1,1,,,,32215232215
+1,Zimbabwe,10,RP Burl,Mosaddek Hossain,M Shumba,,0,0,0,,,,32215232215
+1,Zimbabwe,11,M Shumba,Mahmudullah,RP Burl,,0,0,0,,,,32215232215
+1,Zimbabwe,11,M Shumba,Mahmudullah,RP Burl,,0,1,1,,,,32215232215
+1,Zimbabwe,11,RP Burl,Mahmudullah,M Shumba,,0,1,1,,,,32215232215
+1,Zimbabwe,11,M Shumba,Mahmudullah,RP Burl,,0,1,1,,,,32215232215
+1,Zimbabwe,11,RP Burl,Mahmudullah,M Shumba,,0,0,0,,,,32215232215
+1,Zimbabwe,11,RP Burl,Mahmudullah,M Shumba,,0,4,4,,,,32215232215
+1,Zimbabwe,12,M Shumba,Mustafizur Rahman,RP Burl,,0,1,1,,,,32215232215
+1,Zimbabwe,12,RP Burl,Mustafizur Rahman,M Shumba,,0,0,0,,,,32215232215
+1,Zimbabwe,12,RP Burl,Mustafizur Rahman,M Shumba,,0,1,1,,,,32215232215
+1,Zimbabwe,12,M Shumba,Mustafizur Rahman,RP Burl,,0,0,0,,,,32215232215
+1,Zimbabwe,12,M Shumba,Mustafizur Rahman,RP Burl,,0,0,0,,,,32215232215
+1,Zimbabwe,12,M Shumba,Mustafizur Rahman,RP Burl,,0,0,0,caught,M Shumba,Anamul Haque,32215232215
+1,Zimbabwe,13,RP Burl,Hasan Mahmud,LM Jongwe,,0,1,1,,,,32215232215
+1,Zimbabwe,13,LM Jongwe,Hasan Mahmud,RP Burl,,0,4,4,,,,32215232215
+1,Zimbabwe,13,LM Jongwe,Hasan Mahmud,RP Burl,,0,4,4,,,,32215232215
+1,Zimbabwe,13,LM Jongwe,Hasan Mahmud,RP Burl,,0,0,0,,,,32215232215
+1,Zimbabwe,13,LM Jongwe,Hasan Mahmud,RP Burl,,0,0,0,,,,32215232215
+1,Zimbabwe,13,LM Jongwe,Hasan Mahmud,RP Burl,,0,0,0,,,,32215232215
+1,Zimbabwe,14,RP Burl,Nasum Ahmed,LM Jongwe,,0,6,6,,,,32215232215
+1,Zimbabwe,14,RP Burl,Nasum Ahmed,LM Jongwe,,0,6,6,,,,32215232215
+1,Zimbabwe,14,RP Burl,Nasum Ahmed,LM Jongwe,,0,6,6,,,,32215232215
+1,Zimbabwe,14,RP Burl,Nasum Ahmed,LM Jongwe,,0,6,6,,,,32215232215
+1,Zimbabwe,14,RP Burl,Nasum Ahmed,LM Jongwe,,0,4,4,,,,32215232215
+1,Zimbabwe,14,RP Burl,Nasum Ahmed,LM Jongwe,,0,6,6,,,,32215232215
+1,Zimbabwe,15,LM Jongwe,Hasan Mahmud,RP Burl,,0,0,0,,,,32215232215
+1,Zimbabwe,15,LM Jongwe,Hasan Mahmud,RP Burl,,0,1,1,,,,32215232215
+1,Zimbabwe,15,RP Burl,Hasan Mahmud,LM Jongwe,,0,0,0,,,,32215232215
+1,Zimbabwe,15,RP Burl,Hasan Mahmud,LM Jongwe,,0,1,1,,,,32215232215
+1,Zimbabwe,15,LM Jongwe,Hasan Mahmud,RP Burl,,0,4,4,,,,32215232215
+1,Zimbabwe,15,LM Jongwe,Hasan Mahmud,RP Burl,,0,4,4,,,,32215232215
+1,Zimbabwe,16,RP Burl,Mahedi Hasan,LM Jongwe,,0,1,1,,,,32215232215
+1,Zimbabwe,16,LM Jongwe,Mahedi Hasan,RP Burl,,0,2,2,,,,32215232215
+1,Zimbabwe,16,LM Jongwe,Mahedi Hasan,RP Burl,,0,0,0,,,,32215232215
+1,Zimbabwe,16,LM Jongwe,Mahedi Hasan,RP Burl,,0,6,6,,,,32215232215
+1,Zimbabwe,16,LM Jongwe,Mahedi Hasan,RP Burl,,0,1,1,,,,32215232215
+1,Zimbabwe,16,RP Burl,Mahedi Hasan,LM Jongwe,wides,1,1,0,,,,32215232215
+1,Zimbabwe,16,RP Burl,Mahedi Hasan,LM Jongwe,,0,6,6,,,,32215232215
+1,Zimbabwe,17,LM Jongwe,Mustafizur Rahman,RP Burl,,0,0,0,,,,32215232215
+1,Zimbabwe,17,LM Jongwe,Mustafizur Rahman,RP Burl,,0,0,0,,,,32215232215
+1,Zimbabwe,17,LM Jongwe,Mustafizur Rahman,RP Burl,,0,6,6,,,,32215232215
+1,Zimbabwe,17,LM Jongwe,Mustafizur Rahman,RP Burl,,0,0,0,,,,32215232215
+1,Zimbabwe,17,LM Jongwe,Mustafizur Rahman,RP Burl,,0,2,2,,,,32215232215
+1,Zimbabwe,17,LM Jongwe,Mustafizur Rahman,RP Burl,,0,1,1,,,,32215232215
+1,Zimbabwe,18,LM Jongwe,Hasan Mahmud,RP Burl,,0,0,0,caught,LM Jongwe,Mosaddek Hossain,32215232215
+1,Zimbabwe,18,RP Burl,Hasan Mahmud,B Evans,,0,1,1,,,,32215232215
+1,Zimbabwe,18,B Evans,Hasan Mahmud,RP Burl,,0,1,1,,,,32215232215
+1,Zimbabwe,18,RP Burl,Hasan Mahmud,B Evans,,0,0,0,,,,32215232215
+1,Zimbabwe,18,RP Burl,Hasan Mahmud,B Evans,,0,2,2,,,,32215232215
+1,Zimbabwe,18,RP Burl,Hasan Mahmud,B Evans,,0,0,0,caught,RP Burl,Liton Das,32215232215
+1,Zimbabwe,19,VM Nyauchi,Mustafizur Rahman,B Evans,,0,0,0,,,,32215232215
+1,Zimbabwe,19,VM Nyauchi,Mustafizur Rahman,B Evans,byes,1,1,0,,,,32215232215
+1,Zimbabwe,19,B Evans,Mustafizur Rahman,VM Nyauchi,,0,1,1,,,,32215232215
+1,Zimbabwe,19,VM Nyauchi,Mustafizur Rahman,B Evans,,0,1,1,,,,32215232215
+1,Zimbabwe,19,B Evans,Mustafizur Rahman,VM Nyauchi,,0,0,0,,,,32215232215
+1,Zimbabwe,19,B Evans,Mustafizur Rahman,VM Nyauchi,,0,3,3,,,,32215232215

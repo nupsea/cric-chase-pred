@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Pakistan,0,Imran Farhat,SW Tait,Imran Nazir,,0,0,0,,,,311223112
+2,Pakistan,0,Imran Farhat,SW Tait,Imran Nazir,,0,0,0,,,,311223112
+2,Pakistan,0,Imran Farhat,SW Tait,Imran Nazir,,0,0,0,,,,311223112
+2,Pakistan,0,Imran Farhat,SW Tait,Imran Nazir,wides,1,1,0,,,,311223112
+2,Pakistan,0,Imran Farhat,SW Tait,Imran Nazir,,0,4,4,,,,311223112
+2,Pakistan,0,Imran Farhat,SW Tait,Imran Nazir,,0,0,0,,,,311223112
+2,Pakistan,0,Imran Farhat,SW Tait,Imran Nazir,,0,0,0,,,,311223112
+2,Pakistan,1,Imran Nazir,DP Nannes,Imran Farhat,,0,0,0,,,,311223112
+2,Pakistan,1,Imran Nazir,DP Nannes,Imran Farhat,,0,0,0,,,,311223112
+2,Pakistan,1,Imran Nazir,DP Nannes,Imran Farhat,,0,0,0,,,,311223112
+2,Pakistan,1,Imran Nazir,DP Nannes,Imran Farhat,,0,0,0,,,,311223112
+2,Pakistan,1,Imran Nazir,DP Nannes,Imran Farhat,,0,0,0,run out,Imran Nazir,MG Johnson,311223112
+2,Pakistan,1,Imran Farhat,DP Nannes,Kamran Akmal,,0,0,0,,,,311223112
+2,Pakistan,2,Kamran Akmal,SW Tait,Imran Farhat,,0,1,1,,,,311223112
+2,Pakistan,2,Imran Farhat,SW Tait,Kamran Akmal,,0,0,0,,,,311223112
+2,Pakistan,2,Imran Farhat,SW Tait,Kamran Akmal,,0,4,4,,,,311223112
+2,Pakistan,2,Imran Farhat,SW Tait,Kamran Akmal,,0,0,0,caught,Imran Farhat,SR Watson,311223112
+2,Pakistan,2,Khalid Latif,SW Tait,Kamran Akmal,,0,0,0,,,,311223112
+2,Pakistan,2,Khalid Latif,SW Tait,Kamran Akmal,,0,0,0,,,,311223112
+2,Pakistan,3,Kamran Akmal,DP Nannes,Khalid Latif,,0,0,0,,,,311223112
+2,Pakistan,3,Kamran Akmal,DP Nannes,Khalid Latif,,0,3,3,,,,311223112
+2,Pakistan,3,Khalid Latif,DP Nannes,Kamran Akmal,,0,1,1,,,,311223112
+2,Pakistan,3,Kamran Akmal,DP Nannes,Khalid Latif,,0,4,4,,,,311223112
+2,Pakistan,3,Kamran Akmal,DP Nannes,Khalid Latif,,0,2,2,,,,311223112
+2,Pakistan,3,Kamran Akmal,DP Nannes,Khalid Latif,,0,4,4,,,,311223112
+2,Pakistan,4,Khalid Latif,MG Johnson,Kamran Akmal,,0,4,4,,,,311223112
+2,Pakistan,4,Khalid Latif,MG Johnson,Kamran Akmal,,0,1,1,,,,311223112
+2,Pakistan,4,Kamran Akmal,MG Johnson,Khalid Latif,,0,2,2,,,,311223112
+2,Pakistan,4,Kamran Akmal,MG Johnson,Khalid Latif,,0,4,4,,,,311223112
+2,Pakistan,4,Kamran Akmal,MG Johnson,Khalid Latif,wides,1,1,0,,,,311223112
+2,Pakistan,4,Kamran Akmal,MG Johnson,Khalid Latif,,0,2,2,,,,311223112
+2,Pakistan,4,Kamran Akmal,MG Johnson,Khalid Latif,,0,6,6,,,,311223112
+2,Pakistan,5,Khalid Latif,SR Watson,Kamran Akmal,,0,0,0,,,,311223112
+2,Pakistan,5,Khalid Latif,SR Watson,Kamran Akmal,,0,0,0,,,,311223112
+2,Pakistan,5,Khalid Latif,SR Watson,Kamran Akmal,,0,0,0,lbw,Khalid Latif,,311223112
+2,Pakistan,5,Shoaib Malik,SR Watson,Kamran Akmal,,0,0,0,,,,311223112
+2,Pakistan,5,Shoaib Malik,SR Watson,Kamran Akmal,,0,0,0,,,,311223112
+2,Pakistan,5,Shoaib Malik,SR Watson,Kamran Akmal,,0,0,0,,,,311223112
+2,Pakistan,6,Kamran Akmal,MG Johnson,Shoaib Malik,,0,1,1,,,,311223112
+2,Pakistan,6,Shoaib Malik,MG Johnson,Kamran Akmal,,0,0,0,,,,311223112
+2,Pakistan,6,Shoaib Malik,MG Johnson,Kamran Akmal,,0,0,0,,,,311223112
+2,Pakistan,6,Shoaib Malik,MG Johnson,Kamran Akmal,,0,1,1,,,,311223112
+2,Pakistan,6,Kamran Akmal,MG Johnson,Shoaib Malik,,0,0,0,,,,311223112
+2,Pakistan,6,Kamran Akmal,MG Johnson,Shoaib Malik,,0,0,0,,,,311223112
+2,Pakistan,7,Shoaib Malik,SR Watson,Kamran Akmal,,0,1,1,,,,311223112
+2,Pakistan,7,Kamran Akmal,SR Watson,Shoaib Malik,,0,1,1,,,,311223112
+2,Pakistan,7,Shoaib Malik,SR Watson,Kamran Akmal,,0,1,1,,,,311223112
+2,Pakistan,7,Kamran Akmal,SR Watson,Shoaib Malik,,0,4,4,,,,311223112
+2,Pakistan,7,Kamran Akmal,SR Watson,Shoaib Malik,,0,4,4,,,,311223112
+2,Pakistan,7,Kamran Akmal,SR Watson,Shoaib Malik,,0,0,0,,,,311223112
+2,Pakistan,8,Shoaib Malik,SW Tait,Kamran Akmal,legbyes,1,1,0,,,,311223112
+2,Pakistan,8,Kamran Akmal,SW Tait,Shoaib Malik,,0,1,1,,,,311223112
+2,Pakistan,8,Shoaib Malik,SW Tait,Kamran Akmal,,0,0,0,,,,311223112
+2,Pakistan,8,Shoaib Malik,SW Tait,Kamran Akmal,,0,0,0,caught,Shoaib Malik,TR Birt,311223112
+2,Pakistan,8,Umar Akmal,SW Tait,Kamran Akmal,,0,0,0,,,,311223112
+2,Pakistan,8,Umar Akmal,SW Tait,Kamran Akmal,,0,0,0,,,,311223112
+2,Pakistan,9,Kamran Akmal,MG Johnson,Umar Akmal,,0,0,0,,,,311223112
+2,Pakistan,9,Kamran Akmal,MG Johnson,Umar Akmal,legbyes,1,1,0,,,,311223112
+2,Pakistan,9,Umar Akmal,MG Johnson,Kamran Akmal,,0,0,0,,,,311223112
+2,Pakistan,9,Umar Akmal,MG Johnson,Kamran Akmal,,0,2,2,,,,311223112
+2,Pakistan,9,Umar Akmal,MG Johnson,Kamran Akmal,,0,0,0,,,,311223112
+2,Pakistan,9,Umar Akmal,MG Johnson,Kamran Akmal,,0,0,0,,,,311223112
+2,Pakistan,10,Kamran Akmal,SPD Smith,Umar Akmal,,0,1,1,,,,311223112
+2,Pakistan,10,Umar Akmal,SPD Smith,Kamran Akmal,,0,0,0,,,,311223112
+2,Pakistan,10,Umar Akmal,SPD Smith,Kamran Akmal,,0,0,0,,,,311223112
+2,Pakistan,10,Umar Akmal,SPD Smith,Kamran Akmal,,0,1,1,,,,311223112
+2,Pakistan,10,Kamran Akmal,SPD Smith,Umar Akmal,,0,4,4,,,,311223112
+2,Pakistan,10,Kamran Akmal,SPD Smith,Umar Akmal,,0,2,2,,,,311223112
+2,Pakistan,11,Umar Akmal,DP Nannes,Kamran Akmal,,0,0,0,,,,311223112
+2,Pakistan,11,Umar Akmal,DP Nannes,Kamran Akmal,,0,2,2,,,,311223112
+2,Pakistan,11,Umar Akmal,DP Nannes,Kamran Akmal,,0,1,1,,,,311223112
+2,Pakistan,11,Kamran Akmal,DP Nannes,Umar Akmal,,0,1,1,,,,311223112
+2,Pakistan,11,Umar Akmal,DP Nannes,Kamran Akmal,,0,1,1,,,,311223112
+2,Pakistan,11,Kamran Akmal,DP Nannes,Umar Akmal,,0,6,6,,,,311223112
+2,Pakistan,12,Umar Akmal,SPD Smith,Kamran Akmal,,0,1,1,,,,311223112
+2,Pakistan,12,Kamran Akmal,SPD Smith,Umar Akmal,,0,0,0,,,,311223112
+2,Pakistan,12,Kamran Akmal,SPD Smith,Umar Akmal,,0,4,4,,,,311223112
+2,Pakistan,12,Kamran Akmal,SPD Smith,Umar Akmal,,0,2,2,,,,311223112
+2,Pakistan,12,Kamran Akmal,SPD Smith,Umar Akmal,,0,2,2,,,,311223112
+2,Pakistan,12,Kamran Akmal,SPD Smith,Umar Akmal,,0,1,1,,,,311223112
+2,Pakistan,13,Kamran Akmal,SR Watson,Umar Akmal,,0,1,1,,,,311223112
+2,Pakistan,13,Umar Akmal,SR Watson,Kamran Akmal,,0,2,2,,,,311223112
+2,Pakistan,13,Umar Akmal,SR Watson,Kamran Akmal,,0,2,2,,,,311223112
+2,Pakistan,13,Umar Akmal,SR Watson,Kamran Akmal,,0,0,0,,,,311223112
+2,Pakistan,13,Umar Akmal,SR Watson,Kamran Akmal,,0,1,1,,,,311223112
+2,Pakistan,13,Kamran Akmal,SR Watson,Umar Akmal,,0,1,1,,,,311223112
+2,Pakistan,14,Kamran Akmal,SW Tait,Umar Akmal,,0,0,0,caught,Kamran Akmal,DJ Hussey,311223112
+2,Pakistan,14,Fawad Alam,SW Tait,Umar Akmal,,0,0,0,,,,311223112
+2,Pakistan,14,Fawad Alam,SW Tait,Umar Akmal,,0,0,0,,,,311223112
+2,Pakistan,14,Fawad Alam,SW Tait,Umar Akmal,,0,0,0,,,,311223112
+2,Pakistan,14,Fawad Alam,SW Tait,Umar Akmal,,0,1,1,,,,311223112
+2,Pakistan,14,Umar Akmal,SW Tait,Fawad Alam,,0,1,1,,,,311223112
+2,Pakistan,15,Umar Akmal,SPD Smith,Fawad Alam,,0,2,2,,,,311223112
+2,Pakistan,15,Umar Akmal,SPD Smith,Fawad Alam,,0,1,1,,,,311223112
+2,Pakistan,15,Fawad Alam,SPD Smith,Umar Akmal,,0,0,0,caught,Fawad Alam,CL White,311223112
+2,Pakistan,15,Naved-ul-Hasan,SPD Smith,Umar Akmal,,0,0,0,,,,311223112
+2,Pakistan,15,Naved-ul-Hasan,SPD Smith,Umar Akmal,,0,1,1,,,,311223112
+2,Pakistan,15,Umar Akmal,SPD Smith,Naved-ul-Hasan,,0,2,2,,,,311223112
+2,Pakistan,16,Naved-ul-Hasan,MG Johnson,Umar Akmal,,0,0,0,,,,311223112
+2,Pakistan,16,Naved-ul-Hasan,MG Johnson,Umar Akmal,,0,0,0,,,,311223112
+2,Pakistan,16,Naved-ul-Hasan,MG Johnson,Umar Akmal,,0,0,0,,,,311223112
+2,Pakistan,16,Naved-ul-Hasan,MG Johnson,Umar Akmal,,0,0,0,,,,311223112
+2,Pakistan,16,Naved-ul-Hasan,MG Johnson,Umar Akmal,,0,0,0,,,,311223112
+2,Pakistan,16,Naved-ul-Hasan,MG Johnson,Umar Akmal,,0,0,0,,,,311223112
+2,Pakistan,17,Umar Akmal,SPD Smith,Naved-ul-Hasan,,0,1,1,,,,311223112
+2,Pakistan,17,Naved-ul-Hasan,SPD Smith,Umar Akmal,,0,0,0,stumped,Naved-ul-Hasan,BJ Haddin,311223112
+2,Pakistan,17,Umar Gul,SPD Smith,Umar Akmal,,0,6,6,,,,311223112
+2,Pakistan,17,Umar Gul,SPD Smith,Umar Akmal,,0,1,1,,,,311223112
+2,Pakistan,17,Umar Akmal,SPD Smith,Umar Gul,,0,1,1,,,,311223112
+2,Pakistan,17,Umar Gul,SPD Smith,Umar Akmal,,0,1,1,,,,311223112
+2,Pakistan,18,Umar Gul,DP Nannes,Umar Akmal,,0,0,0,,,,311223112
+2,Pakistan,18,Umar Gul,DP Nannes,Umar Akmal,,0,0,0,,,,311223112
+2,Pakistan,18,Umar Gul,DP Nannes,Umar Akmal,,0,0,0,,,,311223112
+2,Pakistan,18,Umar Gul,DP Nannes,Umar Akmal,,0,2,2,,,,311223112
+2,Pakistan,18,Umar Gul,DP Nannes,Umar Akmal,,0,0,0,,,,311223112
+2,Pakistan,18,Umar Gul,DP Nannes,Umar Akmal,,0,0,0,bowled,Umar Gul,,311223112
+2,Pakistan,19,Umar Akmal,SR Watson,Saeed Ajmal,,0,0,0,caught,Umar Akmal,DA Warner,311223112
+2,Pakistan,19,Saeed Ajmal,SR Watson,Mohammad Asif,,0,1,1,,,,311223112
+2,Pakistan,19,Mohammad Asif,SR Watson,Saeed Ajmal,,0,1,1,,,,311223112
+2,Pakistan,19,Saeed Ajmal,SR Watson,Mohammad Asif,,0,0,0,,,,311223112
+2,Pakistan,19,Saeed Ajmal,SR Watson,Mohammad Asif,legbyes,1,1,0,,,,311223112
+2,Pakistan,19,Mohammad Asif,SR Watson,Saeed Ajmal,,0,4,4,,,,311223112

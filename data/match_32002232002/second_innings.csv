@@ -1,0 +1,129 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Malta,0,B Arora,Gaurav Mishra,HS Gericke,,0,1,1,,,,32002232002
+2,Malta,0,HS Gericke,Gaurav Mishra,B Arora,,0,1,1,,,,32002232002
+2,Malta,0,B Arora,Gaurav Mishra,HS Gericke,,0,4,4,,,,32002232002
+2,Malta,0,B Arora,Gaurav Mishra,HS Gericke,wides,1,1,0,,,,32002232002
+2,Malta,0,B Arora,Gaurav Mishra,HS Gericke,,0,1,1,,,,32002232002
+2,Malta,0,HS Gericke,Gaurav Mishra,B Arora,,0,0,0,,,,32002232002
+2,Malta,0,HS Gericke,Gaurav Mishra,B Arora,legbyes,1,1,0,,,,32002232002
+2,Malta,1,HS Gericke,R Kumar,B Arora,,0,0,0,,,,32002232002
+2,Malta,1,HS Gericke,R Kumar,B Arora,,0,0,0,,,,32002232002
+2,Malta,1,HS Gericke,R Kumar,B Arora,,0,4,4,,,,32002232002
+2,Malta,1,HS Gericke,R Kumar,B Arora,,0,1,1,,,,32002232002
+2,Malta,1,B Arora,R Kumar,HS Gericke,,0,1,1,,,,32002232002
+2,Malta,1,HS Gericke,R Kumar,B Arora,,0,0,0,,,,32002232002
+2,Malta,2,B Arora,Gaurav Mishra,HS Gericke,,0,0,0,,,,32002232002
+2,Malta,2,B Arora,Gaurav Mishra,HS Gericke,,0,1,1,,,,32002232002
+2,Malta,2,HS Gericke,Gaurav Mishra,B Arora,,0,4,4,,,,32002232002
+2,Malta,2,HS Gericke,Gaurav Mishra,B Arora,,0,3,3,,,,32002232002
+2,Malta,2,B Arora,Gaurav Mishra,HS Gericke,,0,0,0,,,,32002232002
+2,Malta,2,B Arora,Gaurav Mishra,HS Gericke,,0,4,4,,,,32002232002
+2,Malta,3,HS Gericke,R Kumar,B Arora,,0,0,0,,,,32002232002
+2,Malta,3,HS Gericke,R Kumar,B Arora,,0,1,1,,,,32002232002
+2,Malta,3,B Arora,R Kumar,HS Gericke,,0,0,0,,,,32002232002
+2,Malta,3,B Arora,R Kumar,HS Gericke,,0,2,2,,,,32002232002
+2,Malta,3,B Arora,R Kumar,HS Gericke,,0,4,4,,,,32002232002
+2,Malta,3,B Arora,R Kumar,HS Gericke,,0,1,1,,,,32002232002
+2,Malta,4,B Arora,Ijaz Hussain,HS Gericke,wides,1,1,0,,,,32002232002
+2,Malta,4,B Arora,Ijaz Hussain,HS Gericke,,0,0,0,,,,32002232002
+2,Malta,4,B Arora,Ijaz Hussain,HS Gericke,,0,0,0,,,,32002232002
+2,Malta,4,B Arora,Ijaz Hussain,HS Gericke,,0,0,0,,,,32002232002
+2,Malta,4,B Arora,Ijaz Hussain,HS Gericke,,0,0,0,,,,32002232002
+2,Malta,4,B Arora,Ijaz Hussain,HS Gericke,,0,0,0,,,,32002232002
+2,Malta,4,B Arora,Ijaz Hussain,HS Gericke,,0,4,4,,,,32002232002
+2,Malta,5,HS Gericke,V Saini,B Arora,,0,0,0,,,,32002232002
+2,Malta,5,HS Gericke,V Saini,B Arora,,0,1,1,,,,32002232002
+2,Malta,5,B Arora,V Saini,HS Gericke,,0,0,0,,,,32002232002
+2,Malta,5,B Arora,V Saini,HS Gericke,,0,1,1,,,,32002232002
+2,Malta,5,HS Gericke,V Saini,B Arora,,0,1,1,,,,32002232002
+2,Malta,5,B Arora,V Saini,HS Gericke,,0,0,0,caught,B Arora,Taranjeet Singh,32002232002
+2,Malta,6,HS Gericke,Ijaz Hussain,B George,wides,1,1,0,,,,32002232002
+2,Malta,6,HS Gericke,Ijaz Hussain,B George,wides,1,1,0,,,,32002232002
+2,Malta,6,HS Gericke,Ijaz Hussain,B George,,0,1,1,,,,32002232002
+2,Malta,6,B George,Ijaz Hussain,HS Gericke,,0,1,1,,,,32002232002
+2,Malta,6,HS Gericke,Ijaz Hussain,B George,,0,0,0,,,,32002232002
+2,Malta,6,HS Gericke,Ijaz Hussain,B George,,0,4,4,,,,32002232002
+2,Malta,6,HS Gericke,Ijaz Hussain,B George,,0,1,1,,,,32002232002
+2,Malta,6,B George,Ijaz Hussain,HS Gericke,,0,0,0,,,,32002232002
+2,Malta,7,HS Gericke,V Saini,B George,,0,1,1,,,,32002232002
+2,Malta,7,B George,V Saini,HS Gericke,,0,0,0,,,,32002232002
+2,Malta,7,B George,V Saini,HS Gericke,,0,2,2,,,,32002232002
+2,Malta,7,B George,V Saini,HS Gericke,,0,4,4,,,,32002232002
+2,Malta,7,B George,V Saini,HS Gericke,,0,2,2,,,,32002232002
+2,Malta,7,B George,V Saini,HS Gericke,,0,1,1,,,,32002232002
+2,Malta,8,B George,Taranjeet Singh,HS Gericke,,0,1,1,,,,32002232002
+2,Malta,8,HS Gericke,Taranjeet Singh,B George,,0,1,1,,,,32002232002
+2,Malta,8,B George,Taranjeet Singh,HS Gericke,,0,0,0,caught,B George,S Periyalwar,32002232002
+2,Malta,8,HS Gericke,Taranjeet Singh,VP Thamotharam,,0,0,0,lbw,HS Gericke,,32002232002
+2,Malta,8,Aaftab Alam Khan,Taranjeet Singh,VP Thamotharam,,0,0,0,,,,32002232002
+2,Malta,8,Aaftab Alam Khan,Taranjeet Singh,VP Thamotharam,,0,0,0,,,,32002232002
+2,Malta,9,VP Thamotharam,R Satheesan,Aaftab Alam Khan,wides,1,1,0,,,,32002232002
+2,Malta,9,VP Thamotharam,R Satheesan,Aaftab Alam Khan,,0,1,1,,,,32002232002
+2,Malta,9,Aaftab Alam Khan,R Satheesan,VP Thamotharam,,0,1,1,,,,32002232002
+2,Malta,9,VP Thamotharam,R Satheesan,Aaftab Alam Khan,,0,0,0,,,,32002232002
+2,Malta,9,VP Thamotharam,R Satheesan,Aaftab Alam Khan,,0,6,6,,,,32002232002
+2,Malta,9,VP Thamotharam,R Satheesan,Aaftab Alam Khan,,0,0,0,lbw,VP Thamotharam,,32002232002
+2,Malta,9,N Khanna,R Satheesan,Aaftab Alam Khan,,0,1,1,,,,32002232002
+2,Malta,10,N Khanna,Taranjeet Singh,Aaftab Alam Khan,,0,1,1,,,,32002232002
+2,Malta,10,Aaftab Alam Khan,Taranjeet Singh,N Khanna,,0,2,2,,,,32002232002
+2,Malta,10,Aaftab Alam Khan,Taranjeet Singh,N Khanna,,0,0,0,,,,32002232002
+2,Malta,10,Aaftab Alam Khan,Taranjeet Singh,N Khanna,,0,0,0,,,,32002232002
+2,Malta,10,Aaftab Alam Khan,Taranjeet Singh,N Khanna,byes,1,1,0,,,,32002232002
+2,Malta,10,N Khanna,Taranjeet Singh,Aaftab Alam Khan,,0,2,2,,,,32002232002
+2,Malta,11,Aaftab Alam Khan,R Satheesan,N Khanna,,0,4,4,,,,32002232002
+2,Malta,11,Aaftab Alam Khan,R Satheesan,N Khanna,,0,4,4,,,,32002232002
+2,Malta,11,Aaftab Alam Khan,R Satheesan,N Khanna,,0,1,1,,,,32002232002
+2,Malta,11,N Khanna,R Satheesan,Aaftab Alam Khan,,0,0,0,,,,32002232002
+2,Malta,11,N Khanna,R Satheesan,Aaftab Alam Khan,,0,2,2,,,,32002232002
+2,Malta,11,N Khanna,R Satheesan,Aaftab Alam Khan,,0,1,1,,,,32002232002
+2,Malta,12,N Khanna,Taranjeet Singh,Aaftab Alam Khan,,0,0,0,,,,32002232002
+2,Malta,12,N Khanna,Taranjeet Singh,Aaftab Alam Khan,,0,0,0,,,,32002232002
+2,Malta,12,N Khanna,Taranjeet Singh,Aaftab Alam Khan,,0,0,0,,,,32002232002
+2,Malta,12,N Khanna,Taranjeet Singh,Aaftab Alam Khan,,0,2,2,,,,32002232002
+2,Malta,12,N Khanna,Taranjeet Singh,Aaftab Alam Khan,,0,0,0,bowled,N Khanna,,32002232002
+2,Malta,12,Imran Ameer,Taranjeet Singh,Aaftab Alam Khan,,0,1,1,,,,32002232002
+2,Malta,13,Imran Ameer,R Kumar,Aaftab Alam Khan,,0,0,0,,,,32002232002
+2,Malta,13,Imran Ameer,R Kumar,Aaftab Alam Khan,,0,1,1,,,,32002232002
+2,Malta,13,Aaftab Alam Khan,R Kumar,Imran Ameer,,0,0,0,,,,32002232002
+2,Malta,13,Aaftab Alam Khan,R Kumar,Imran Ameer,,0,1,1,,,,32002232002
+2,Malta,13,Imran Ameer,R Kumar,Aaftab Alam Khan,,0,4,4,,,,32002232002
+2,Malta,13,Imran Ameer,R Kumar,Aaftab Alam Khan,,0,4,4,,,,32002232002
+2,Malta,14,Aaftab Alam Khan,Taranjeet Singh,Imran Ameer,,0,1,1,,,,32002232002
+2,Malta,14,Imran Ameer,Taranjeet Singh,Aaftab Alam Khan,,0,1,1,,,,32002232002
+2,Malta,14,Aaftab Alam Khan,Taranjeet Singh,Imran Ameer,,0,0,0,bowled,Aaftab Alam Khan,,32002232002
+2,Malta,14,Bilal Muhammad,Taranjeet Singh,Imran Ameer,,0,0,0,,,,32002232002
+2,Malta,14,Bilal Muhammad,Taranjeet Singh,Imran Ameer,,0,6,6,,,,32002232002
+2,Malta,14,Bilal Muhammad,Taranjeet Singh,Imran Ameer,,0,2,2,,,,32002232002
+2,Malta,15,Imran Ameer,V Saini,Bilal Muhammad,,0,0,0,,,,32002232002
+2,Malta,15,Imran Ameer,V Saini,Bilal Muhammad,,0,1,1,,,,32002232002
+2,Malta,15,Bilal Muhammad,V Saini,Imran Ameer,,0,2,2,,,,32002232002
+2,Malta,15,Bilal Muhammad,V Saini,Imran Ameer,,0,1,1,,,,32002232002
+2,Malta,15,Imran Ameer,V Saini,Bilal Muhammad,,0,1,1,run out,Bilal Muhammad,V Saini,32002232002
+2,Malta,15,Amar Sharma,V Saini,Imran Ameer,,0,1,1,,,,32002232002
+2,Malta,16,Amar Sharma,Ijaz Hussain,Imran Ameer,,0,1,1,,,,32002232002
+2,Malta,16,Imran Ameer,Ijaz Hussain,Amar Sharma,legbyes,1,1,0,,,,32002232002
+2,Malta,16,Amar Sharma,Ijaz Hussain,Imran Ameer,,0,1,1,,,,32002232002
+2,Malta,16,Imran Ameer,Ijaz Hussain,Amar Sharma,wides,1,1,0,,,,32002232002
+2,Malta,16,Imran Ameer,Ijaz Hussain,Amar Sharma,,0,1,1,,,,32002232002
+2,Malta,16,Amar Sharma,Ijaz Hussain,Imran Ameer,,0,2,2,,,,32002232002
+2,Malta,16,Amar Sharma,Ijaz Hussain,Imran Ameer,,0,2,2,,,,32002232002
+2,Malta,17,Imran Ameer,V Saini,Amar Sharma,,0,1,1,,,,32002232002
+2,Malta,17,Imran Ameer,V Saini,Amar Sharma,,0,2,2,,,,32002232002
+2,Malta,17,Imran Ameer,V Saini,Amar Sharma,,0,4,4,,,,32002232002
+2,Malta,17,Imran Ameer,V Saini,Amar Sharma,noballs,1,1,0,,,,32002232002
+2,Malta,17,Imran Ameer,V Saini,Amar Sharma,,0,0,0,,,,32002232002
+2,Malta,17,Imran Ameer,V Saini,Amar Sharma,,0,2,2,,,,32002232002
+2,Malta,17,Imran Ameer,V Saini,Amar Sharma,,0,1,1,,,,32002232002
+2,Malta,18,Imran Ameer,Ijaz Hussain,Amar Sharma,,0,1,1,,,,32002232002
+2,Malta,18,Amar Sharma,Ijaz Hussain,Imran Ameer,,0,2,2,,,,32002232002
+2,Malta,18,Amar Sharma,Ijaz Hussain,Imran Ameer,,0,3,3,,,,32002232002
+2,Malta,18,Imran Ameer,Ijaz Hussain,Amar Sharma,,0,1,1,,,,32002232002
+2,Malta,18,Amar Sharma,Ijaz Hussain,Imran Ameer,,0,1,1,,,,32002232002
+2,Malta,18,Imran Ameer,Ijaz Hussain,Amar Sharma,,0,1,1,,,,32002232002
+2,Malta,19,Imran Ameer,R Kumar,Amar Sharma,byes,1,1,0,,,,32002232002
+2,Malta,19,Amar Sharma,R Kumar,Imran Ameer,,0,2,2,,,,32002232002
+2,Malta,19,Amar Sharma,R Kumar,Imran Ameer,,0,0,0,,,,32002232002
+2,Malta,19,Amar Sharma,R Kumar,Imran Ameer,,0,6,6,,,,32002232002
+2,Malta,19,Amar Sharma,R Kumar,Imran Ameer,wides,1,1,0,,,,32002232002
+2,Malta,19,Amar Sharma,R Kumar,Imran Ameer,,0,1,1,,,,32002232002
+2,Malta,19,Imran Ameer,R Kumar,Amar Sharma,,0,1,1,,,,32002232002

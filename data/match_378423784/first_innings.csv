@@ -1,0 +1,129 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,India,0,M Raj,M Kapp,S Mandhana,,0,0,0,,,,378423784
+1,India,0,M Raj,M Kapp,S Mandhana,,0,0,0,,,,378423784
+1,India,0,M Raj,M Kapp,S Mandhana,legbyes,4,4,0,,,,378423784
+1,India,0,M Raj,M Kapp,S Mandhana,,0,0,0,,,,378423784
+1,India,0,M Raj,M Kapp,S Mandhana,,0,0,0,,,,378423784
+1,India,0,M Raj,M Kapp,S Mandhana,,0,0,0,,,,378423784
+1,India,1,S Mandhana,A Khaka,M Raj,wides,1,1,0,,,,378423784
+1,India,1,S Mandhana,A Khaka,M Raj,wides,1,1,0,,,,378423784
+1,India,1,S Mandhana,A Khaka,M Raj,wides,1,1,0,,,,378423784
+1,India,1,S Mandhana,A Khaka,M Raj,,0,4,4,,,,378423784
+1,India,1,S Mandhana,A Khaka,M Raj,,0,0,0,,,,378423784
+1,India,1,S Mandhana,A Khaka,M Raj,wides,1,1,0,,,,378423784
+1,India,1,S Mandhana,A Khaka,M Raj,,0,0,0,,,,378423784
+1,India,1,S Mandhana,A Khaka,M Raj,,0,0,0,,,,378423784
+1,India,1,S Mandhana,A Khaka,M Raj,wides,1,1,0,,,,378423784
+1,India,1,S Mandhana,A Khaka,M Raj,,0,0,0,,,,378423784
+1,India,1,S Mandhana,A Khaka,M Raj,wides,1,1,0,,,,378423784
+1,India,1,S Mandhana,A Khaka,M Raj,,0,1,1,,,,378423784
+1,India,2,S Mandhana,M Kapp,M Raj,,0,0,0,,,,378423784
+1,India,2,S Mandhana,M Kapp,M Raj,,0,0,0,,,,378423784
+1,India,2,S Mandhana,M Kapp,M Raj,,0,0,0,,,,378423784
+1,India,2,S Mandhana,M Kapp,M Raj,,0,4,4,,,,378423784
+1,India,2,S Mandhana,M Kapp,M Raj,,0,0,0,,,,378423784
+1,India,2,S Mandhana,M Kapp,M Raj,,0,0,0,,,,378423784
+1,India,3,M Raj,S Ismail,S Mandhana,,0,0,0,,,,378423784
+1,India,3,M Raj,S Ismail,S Mandhana,,0,4,4,,,,378423784
+1,India,3,M Raj,S Ismail,S Mandhana,,0,0,0,,,,378423784
+1,India,3,M Raj,S Ismail,S Mandhana,,0,4,4,,,,378423784
+1,India,3,M Raj,S Ismail,S Mandhana,,0,0,0,,,,378423784
+1,India,3,M Raj,S Ismail,S Mandhana,,0,0,0,,,,378423784
+1,India,4,S Mandhana,M Kapp,M Raj,,0,4,4,,,,378423784
+1,India,4,S Mandhana,M Kapp,M Raj,wides,1,1,0,,,,378423784
+1,India,4,S Mandhana,M Kapp,M Raj,,0,0,0,caught,S Mandhana,M Klaas,378423784
+1,India,4,M Raj,M Kapp,JI Rodrigues,,0,0,0,,,,378423784
+1,India,4,M Raj,M Kapp,JI Rodrigues,,0,0,0,,,,378423784
+1,India,4,M Raj,M Kapp,JI Rodrigues,,0,0,0,,,,378423784
+1,India,4,M Raj,M Kapp,JI Rodrigues,,0,4,4,,,,378423784
+1,India,5,JI Rodrigues,S Ismail,M Raj,,0,0,0,,,,378423784
+1,India,5,JI Rodrigues,S Ismail,M Raj,,0,1,1,,,,378423784
+1,India,5,M Raj,S Ismail,JI Rodrigues,,0,0,0,,,,378423784
+1,India,5,M Raj,S Ismail,JI Rodrigues,,0,1,1,,,,378423784
+1,India,5,JI Rodrigues,S Ismail,M Raj,,0,1,1,,,,378423784
+1,India,5,M Raj,S Ismail,JI Rodrigues,,0,0,0,,,,378423784
+1,India,6,JI Rodrigues,M Klaas,M Raj,,0,0,0,,,,378423784
+1,India,6,JI Rodrigues,M Klaas,M Raj,,0,1,1,,,,378423784
+1,India,6,M Raj,M Klaas,JI Rodrigues,,0,0,0,,,,378423784
+1,India,6,M Raj,M Klaas,JI Rodrigues,,0,1,1,,,,378423784
+1,India,6,JI Rodrigues,M Klaas,M Raj,,0,1,1,,,,378423784
+1,India,6,M Raj,M Klaas,JI Rodrigues,,0,4,4,,,,378423784
+1,India,7,JI Rodrigues,D van Niekerk,M Raj,,0,0,0,,,,378423784
+1,India,7,JI Rodrigues,D van Niekerk,M Raj,,0,1,1,,,,378423784
+1,India,7,M Raj,D van Niekerk,JI Rodrigues,,0,0,0,,,,378423784
+1,India,7,M Raj,D van Niekerk,JI Rodrigues,,0,1,1,,,,378423784
+1,India,7,JI Rodrigues,D van Niekerk,M Raj,,0,1,1,,,,378423784
+1,India,7,M Raj,D van Niekerk,JI Rodrigues,,0,0,0,,,,378423784
+1,India,8,JI Rodrigues,M Klaas,M Raj,,0,1,1,,,,378423784
+1,India,8,M Raj,M Klaas,JI Rodrigues,,0,6,6,,,,378423784
+1,India,8,M Raj,M Klaas,JI Rodrigues,,0,1,1,,,,378423784
+1,India,8,JI Rodrigues,M Klaas,M Raj,,0,4,4,,,,378423784
+1,India,8,JI Rodrigues,M Klaas,M Raj,,0,1,1,,,,378423784
+1,India,8,M Raj,M Klaas,JI Rodrigues,,0,1,1,,,,378423784
+1,India,9,M Raj,D van Niekerk,JI Rodrigues,,0,0,0,,,,378423784
+1,India,9,M Raj,D van Niekerk,JI Rodrigues,,0,6,6,,,,378423784
+1,India,9,M Raj,D van Niekerk,JI Rodrigues,,0,0,0,,,,378423784
+1,India,9,M Raj,D van Niekerk,JI Rodrigues,,0,0,0,,,,378423784
+1,India,9,M Raj,D van Niekerk,JI Rodrigues,,0,1,1,,,,378423784
+1,India,9,JI Rodrigues,D van Niekerk,M Raj,,0,1,1,,,,378423784
+1,India,10,JI Rodrigues,R Ntozakhe,M Raj,,0,1,1,,,,378423784
+1,India,10,M Raj,R Ntozakhe,JI Rodrigues,,0,0,0,,,,378423784
+1,India,10,M Raj,R Ntozakhe,JI Rodrigues,,0,0,0,,,,378423784
+1,India,10,M Raj,R Ntozakhe,JI Rodrigues,,0,1,1,,,,378423784
+1,India,10,JI Rodrigues,R Ntozakhe,M Raj,,0,1,1,,,,378423784
+1,India,10,M Raj,R Ntozakhe,JI Rodrigues,,0,6,6,,,,378423784
+1,India,11,JI Rodrigues,D van Niekerk,M Raj,,0,0,0,,,,378423784
+1,India,11,JI Rodrigues,D van Niekerk,M Raj,,0,1,1,,,,378423784
+1,India,11,M Raj,D van Niekerk,JI Rodrigues,,0,1,1,,,,378423784
+1,India,11,JI Rodrigues,D van Niekerk,M Raj,,0,1,1,,,,378423784
+1,India,11,M Raj,D van Niekerk,JI Rodrigues,,0,1,1,,,,378423784
+1,India,11,JI Rodrigues,D van Niekerk,M Raj,,0,1,1,,,,378423784
+1,India,12,JI Rodrigues,R Ntozakhe,M Raj,,0,4,4,,,,378423784
+1,India,12,JI Rodrigues,R Ntozakhe,M Raj,,0,0,0,,,,378423784
+1,India,12,JI Rodrigues,R Ntozakhe,M Raj,,0,6,6,,,,378423784
+1,India,12,JI Rodrigues,R Ntozakhe,M Raj,,0,1,1,,,,378423784
+1,India,12,M Raj,R Ntozakhe,JI Rodrigues,,0,1,1,,,,378423784
+1,India,12,JI Rodrigues,R Ntozakhe,M Raj,,0,0,0,,,,378423784
+1,India,13,M Raj,D van Niekerk,JI Rodrigues,,0,1,1,,,,378423784
+1,India,13,JI Rodrigues,D van Niekerk,M Raj,,0,0,0,,,,378423784
+1,India,13,JI Rodrigues,D van Niekerk,M Raj,,0,4,4,,,,378423784
+1,India,13,JI Rodrigues,D van Niekerk,M Raj,,0,0,0,,,,378423784
+1,India,13,JI Rodrigues,D van Niekerk,M Raj,,0,1,1,,,,378423784
+1,India,13,M Raj,D van Niekerk,JI Rodrigues,,0,0,0,,,,378423784
+1,India,14,JI Rodrigues,A Khaka,M Raj,,0,1,1,,,,378423784
+1,India,14,M Raj,A Khaka,JI Rodrigues,,0,4,4,,,,378423784
+1,India,14,M Raj,A Khaka,JI Rodrigues,,0,0,0,,,,378423784
+1,India,14,M Raj,A Khaka,JI Rodrigues,,0,0,0,,,,378423784
+1,India,14,M Raj,A Khaka,JI Rodrigues,,0,1,1,,,,378423784
+1,India,14,JI Rodrigues,A Khaka,M Raj,noballs,1,2,1,,,,378423784
+1,India,14,M Raj,A Khaka,JI Rodrigues,,0,4,4,,,,378423784
+1,India,15,JI Rodrigues,S Ismail,M Raj,,0,6,6,,,,378423784
+1,India,15,JI Rodrigues,S Ismail,M Raj,,0,1,1,,,,378423784
+1,India,15,M Raj,S Ismail,JI Rodrigues,,0,4,4,,,,378423784
+1,India,15,M Raj,S Ismail,JI Rodrigues,,0,4,4,,,,378423784
+1,India,15,M Raj,S Ismail,JI Rodrigues,,0,0,0,caught,M Raj,L Lee,378423784
+1,India,15,H Kaur,S Ismail,JI Rodrigues,,0,1,1,,,,378423784
+1,India,16,H Kaur,A Khaka,JI Rodrigues,,0,1,1,,,,378423784
+1,India,16,JI Rodrigues,A Khaka,H Kaur,,0,1,1,,,,378423784
+1,India,16,H Kaur,A Khaka,JI Rodrigues,,0,0,0,,,,378423784
+1,India,16,H Kaur,A Khaka,JI Rodrigues,,0,1,1,,,,378423784
+1,India,16,JI Rodrigues,A Khaka,H Kaur,,0,0,0,caught and bowled,JI Rodrigues,,378423784
+1,India,16,H Kaur,A Khaka,V Krishnamurthy,,0,0,0,,,,378423784
+1,India,17,V Krishnamurthy,S Ismail,H Kaur,,0,1,1,,,,378423784
+1,India,17,H Kaur,S Ismail,V Krishnamurthy,,0,1,1,,,,378423784
+1,India,17,V Krishnamurthy,S Ismail,H Kaur,,0,1,1,,,,378423784
+1,India,17,H Kaur,S Ismail,V Krishnamurthy,,0,0,0,,,,378423784
+1,India,17,H Kaur,S Ismail,V Krishnamurthy,,0,1,1,,,,378423784
+1,India,17,V Krishnamurthy,S Ismail,H Kaur,,0,4,4,,,,378423784
+1,India,18,H Kaur,A Khaka,V Krishnamurthy,,0,4,4,,,,378423784
+1,India,18,H Kaur,A Khaka,V Krishnamurthy,,0,2,2,,,,378423784
+1,India,18,H Kaur,A Khaka,V Krishnamurthy,,0,1,1,,,,378423784
+1,India,18,V Krishnamurthy,A Khaka,H Kaur,,0,1,1,,,,378423784
+1,India,18,H Kaur,A Khaka,V Krishnamurthy,,0,6,6,,,,378423784
+1,India,18,H Kaur,A Khaka,V Krishnamurthy,,0,1,1,,,,378423784
+1,India,19,H Kaur,M Kapp,V Krishnamurthy,,0,6,6,,,,378423784
+1,India,19,H Kaur,M Kapp,V Krishnamurthy,,0,0,0,,,,378423784
+1,India,19,H Kaur,M Kapp,V Krishnamurthy,,0,1,1,,,,378423784
+1,India,19,V Krishnamurthy,M Kapp,H Kaur,,0,1,1,,,,378423784
+1,India,19,H Kaur,M Kapp,V Krishnamurthy,,0,1,1,,,,378423784
+1,India,19,V Krishnamurthy,M Kapp,H Kaur,,0,0,0,run out,V Krishnamurthy,,378423784

@@ -1,0 +1,102 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Ireland,0,WTS Porterfield,KD Mills,GC Wilson,,0,1,1,,,,3782378
+2,Ireland,0,GC Wilson,KD Mills,WTS Porterfield,,0,0,0,,,,3782378
+2,Ireland,0,GC Wilson,KD Mills,WTS Porterfield,,0,0,0,,,,3782378
+2,Ireland,0,GC Wilson,KD Mills,WTS Porterfield,,0,0,0,run out,WTS Porterfield,KD Mills,3782378
+2,Ireland,0,GC Wilson,KD Mills,NJ O'Brien,wides,1,1,0,,,,3782378
+2,Ireland,0,GC Wilson,KD Mills,NJ O'Brien,,0,0,0,,,,3782378
+2,Ireland,0,GC Wilson,KD Mills,NJ O'Brien,,0,1,1,,,,3782378
+2,Ireland,1,GC Wilson,JEC Franklin,NJ O'Brien,,0,4,4,,,,3782378
+2,Ireland,1,GC Wilson,JEC Franklin,NJ O'Brien,,0,0,0,,,,3782378
+2,Ireland,1,GC Wilson,JEC Franklin,NJ O'Brien,,0,0,0,,,,3782378
+2,Ireland,1,GC Wilson,JEC Franklin,NJ O'Brien,,0,0,0,,,,3782378
+2,Ireland,1,GC Wilson,JEC Franklin,NJ O'Brien,,0,0,0,,,,3782378
+2,Ireland,1,GC Wilson,JEC Franklin,NJ O'Brien,,0,2,2,,,,3782378
+2,Ireland,2,NJ O'Brien,KD Mills,GC Wilson,,0,0,0,,,,3782378
+2,Ireland,2,NJ O'Brien,KD Mills,GC Wilson,,0,2,2,,,,3782378
+2,Ireland,2,NJ O'Brien,KD Mills,GC Wilson,,0,1,1,,,,3782378
+2,Ireland,2,GC Wilson,KD Mills,NJ O'Brien,,0,3,3,,,,3782378
+2,Ireland,2,NJ O'Brien,KD Mills,GC Wilson,,0,0,0,caught,NJ O'Brien,JDP Oram,3782378
+2,Ireland,2,AC Botha,KD Mills,GC Wilson,,0,0,0,,,,3782378
+2,Ireland,3,GC Wilson,JEC Franklin,AC Botha,,0,4,4,,,,3782378
+2,Ireland,3,GC Wilson,JEC Franklin,AC Botha,,0,0,0,,,,3782378
+2,Ireland,3,GC Wilson,JEC Franklin,AC Botha,,0,0,0,,,,3782378
+2,Ireland,3,GC Wilson,JEC Franklin,AC Botha,,0,1,1,,,,3782378
+2,Ireland,3,AC Botha,JEC Franklin,GC Wilson,,0,0,0,,,,3782378
+2,Ireland,3,AC Botha,JEC Franklin,GC Wilson,,0,2,2,,,,3782378
+2,Ireland,4,GC Wilson,IG Butler,AC Botha,,0,0,0,,,,3782378
+2,Ireland,4,GC Wilson,IG Butler,AC Botha,,0,1,1,,,,3782378
+2,Ireland,4,AC Botha,IG Butler,GC Wilson,,0,4,4,,,,3782378
+2,Ireland,4,AC Botha,IG Butler,GC Wilson,,0,0,0,,,,3782378
+2,Ireland,4,AC Botha,IG Butler,GC Wilson,,0,2,2,,,,3782378
+2,Ireland,4,AC Botha,IG Butler,GC Wilson,,0,4,4,,,,3782378
+2,Ireland,5,GC Wilson,JDP Oram,AC Botha,,0,2,2,,,,3782378
+2,Ireland,5,GC Wilson,JDP Oram,AC Botha,,0,1,1,,,,3782378
+2,Ireland,5,AC Botha,JDP Oram,GC Wilson,,0,1,1,,,,3782378
+2,Ireland,5,GC Wilson,JDP Oram,AC Botha,,0,1,1,,,,3782378
+2,Ireland,5,AC Botha,JDP Oram,GC Wilson,,0,4,4,,,,3782378
+2,Ireland,5,AC Botha,JDP Oram,GC Wilson,,0,0,0,,,,3782378
+2,Ireland,6,GC Wilson,IG Butler,AC Botha,,0,2,2,,,,3782378
+2,Ireland,6,GC Wilson,IG Butler,AC Botha,,0,0,0,,,,3782378
+2,Ireland,6,GC Wilson,IG Butler,AC Botha,,0,0,0,,,,3782378
+2,Ireland,6,GC Wilson,IG Butler,AC Botha,legbyes,2,2,0,,,,3782378
+2,Ireland,6,GC Wilson,IG Butler,AC Botha,,0,1,1,,,,3782378
+2,Ireland,6,AC Botha,IG Butler,GC Wilson,,0,1,1,,,,3782378
+2,Ireland,7,AC Botha,SB Styris,GC Wilson,,0,4,4,,,,3782378
+2,Ireland,7,AC Botha,SB Styris,GC Wilson,,0,4,4,,,,3782378
+2,Ireland,7,AC Botha,SB Styris,GC Wilson,,0,1,1,,,,3782378
+2,Ireland,7,GC Wilson,SB Styris,AC Botha,,0,0,0,,,,3782378
+2,Ireland,7,GC Wilson,SB Styris,AC Botha,,0,0,0,caught,GC Wilson,JEC Franklin,3782378
+2,Ireland,7,AC Botha,SB Styris,KJ O'Brien,,0,1,1,,,,3782378
+2,Ireland,8,AC Botha,NL McCullum,KJ O'Brien,,0,0,0,,,,3782378
+2,Ireland,8,AC Botha,NL McCullum,KJ O'Brien,,0,0,0,run out,AC Botha,PD McGlashan,3782378
+2,Ireland,8,JF Mooney,NL McCullum,KJ O'Brien,,0,1,1,,,,3782378
+2,Ireland,8,KJ O'Brien,NL McCullum,JF Mooney,,0,1,1,,,,3782378
+2,Ireland,8,JF Mooney,NL McCullum,KJ O'Brien,,0,0,0,,,,3782378
+2,Ireland,8,JF Mooney,NL McCullum,KJ O'Brien,,0,0,0,,,,3782378
+2,Ireland,9,KJ O'Brien,SB Styris,JF Mooney,,0,1,1,,,,3782378
+2,Ireland,9,JF Mooney,SB Styris,KJ O'Brien,,0,0,0,,,,3782378
+2,Ireland,9,JF Mooney,SB Styris,KJ O'Brien,,0,0,0,,,,3782378
+2,Ireland,9,JF Mooney,SB Styris,KJ O'Brien,,0,4,4,,,,3782378
+2,Ireland,9,JF Mooney,SB Styris,KJ O'Brien,,0,0,0,,,,3782378
+2,Ireland,9,JF Mooney,SB Styris,KJ O'Brien,,0,1,1,,,,3782378
+2,Ireland,10,JF Mooney,NL McCullum,KJ O'Brien,,0,1,1,,,,3782378
+2,Ireland,10,KJ O'Brien,NL McCullum,JF Mooney,,0,0,0,caught,KJ O'Brien,JEC Franklin,3782378
+2,Ireland,10,AR Cusack,NL McCullum,JF Mooney,,0,2,2,,,,3782378
+2,Ireland,10,AR Cusack,NL McCullum,JF Mooney,,0,1,1,,,,3782378
+2,Ireland,10,JF Mooney,NL McCullum,AR Cusack,,0,1,1,,,,3782378
+2,Ireland,10,AR Cusack,NL McCullum,JF Mooney,,0,6,6,,,,3782378
+2,Ireland,11,JF Mooney,JDP Oram,AR Cusack,,0,1,1,,,,3782378
+2,Ireland,11,AR Cusack,JDP Oram,JF Mooney,,0,0,0,,,,3782378
+2,Ireland,11,AR Cusack,JDP Oram,JF Mooney,,0,1,1,,,,3782378
+2,Ireland,11,JF Mooney,JDP Oram,AR Cusack,,0,2,2,,,,3782378
+2,Ireland,11,JF Mooney,JDP Oram,AR Cusack,,0,1,1,,,,3782378
+2,Ireland,11,AR Cusack,JDP Oram,JF Mooney,,0,4,4,,,,3782378
+2,Ireland,12,JF Mooney,JEC Franklin,AR Cusack,,0,0,0,run out,JF Mooney,BB McCullum,3782378
+2,Ireland,12,AR Cusack,JEC Franklin,DT Johnston,,0,2,2,,,,3782378
+2,Ireland,12,AR Cusack,JEC Franklin,DT Johnston,,0,0,0,,,,3782378
+2,Ireland,12,AR Cusack,JEC Franklin,DT Johnston,,0,1,1,,,,3782378
+2,Ireland,12,DT Johnston,JEC Franklin,AR Cusack,,0,0,0,,,,3782378
+2,Ireland,12,DT Johnston,JEC Franklin,AR Cusack,,0,1,1,,,,3782378
+2,Ireland,13,DT Johnston,SB Styris,AR Cusack,,0,1,1,,,,3782378
+2,Ireland,13,AR Cusack,SB Styris,DT Johnston,,0,2,2,,,,3782378
+2,Ireland,13,AR Cusack,SB Styris,DT Johnston,,0,1,1,,,,3782378
+2,Ireland,13,DT Johnston,SB Styris,AR Cusack,,0,2,2,,,,3782378
+2,Ireland,13,DT Johnston,SB Styris,AR Cusack,,0,6,6,,,,3782378
+2,Ireland,13,DT Johnston,SB Styris,AR Cusack,,0,1,1,,,,3782378
+2,Ireland,14,DT Johnston,NL McCullum,AR Cusack,,0,1,1,,,,3782378
+2,Ireland,14,AR Cusack,NL McCullum,DT Johnston,,0,0,0,caught,AR Cusack,BB McCullum,3782378
+2,Ireland,14,WK McCallan,NL McCullum,DT Johnston,,0,0,0,,,,3782378
+2,Ireland,14,WK McCallan,NL McCullum,DT Johnston,,0,0,0,lbw,WK McCallan,,3782378
+2,Ireland,14,RM West,NL McCullum,DT Johnston,,0,0,0,,,,3782378
+2,Ireland,14,RM West,NL McCullum,DT Johnston,,0,1,1,,,,3782378
+2,Ireland,15,RM West,JDP Oram,DT Johnston,,0,4,4,,,,3782378
+2,Ireland,15,RM West,JDP Oram,DT Johnston,,0,1,1,,,,3782378
+2,Ireland,15,DT Johnston,JDP Oram,RM West,,0,2,2,,,,3782378
+2,Ireland,15,DT Johnston,JDP Oram,RM West,,0,0,0,run out,DT Johnston,BB McCullum,3782378
+2,Ireland,15,RM West,JDP Oram,PC Connell,,0,0,0,,,,3782378
+2,Ireland,15,RM West,JDP Oram,PC Connell,,0,0,0,,,,3782378
+2,Ireland,16,PC Connell,KD Mills,RM West,,0,0,0,,,,3782378
+2,Ireland,16,PC Connell,KD Mills,RM West,,0,1,1,,,,3782378
+2,Ireland,16,RM West,KD Mills,PC Connell,,0,2,2,,,,3782378
+2,Ireland,16,RM West,KD Mills,PC Connell,,0,0,0,bowled,RM West,,3782378

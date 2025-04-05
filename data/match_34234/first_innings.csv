@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,England,0,ME Trescothick,Shoaib Akhtar,IR Bell,,0,1,1,,,,34234
+1,England,0,IR Bell,Shoaib Akhtar,ME Trescothick,,0,0,0,,,,34234
+1,England,0,IR Bell,Shoaib Akhtar,ME Trescothick,,0,1,1,,,,34234
+1,England,0,ME Trescothick,Shoaib Akhtar,IR Bell,,0,1,1,,,,34234
+1,England,0,IR Bell,Shoaib Akhtar,ME Trescothick,,0,0,0,,,,34234
+1,England,0,IR Bell,Shoaib Akhtar,ME Trescothick,,0,0,0,,,,34234
+1,England,1,ME Trescothick,Mohammad Asif,IR Bell,,0,1,1,,,,34234
+1,England,1,IR Bell,Mohammad Asif,ME Trescothick,,0,0,0,,,,34234
+1,England,1,IR Bell,Mohammad Asif,ME Trescothick,,0,0,0,,,,34234
+1,England,1,IR Bell,Mohammad Asif,ME Trescothick,,0,1,1,,,,34234
+1,England,1,ME Trescothick,Mohammad Asif,IR Bell,,0,4,4,,,,34234
+1,England,1,ME Trescothick,Mohammad Asif,IR Bell,,0,0,0,,,,34234
+1,England,2,IR Bell,Shoaib Akhtar,ME Trescothick,,0,0,0,,,,34234
+1,England,2,IR Bell,Shoaib Akhtar,ME Trescothick,,0,1,1,,,,34234
+1,England,2,ME Trescothick,Shoaib Akhtar,IR Bell,,0,0,0,,,,34234
+1,England,2,ME Trescothick,Shoaib Akhtar,IR Bell,,0,4,4,,,,34234
+1,England,2,ME Trescothick,Shoaib Akhtar,IR Bell,,0,4,4,,,,34234
+1,England,2,ME Trescothick,Shoaib Akhtar,IR Bell,,0,4,4,,,,34234
+1,England,3,IR Bell,Mohammad Asif,ME Trescothick,,0,1,1,,,,34234
+1,England,3,ME Trescothick,Mohammad Asif,IR Bell,legbyes,1,1,0,,,,34234
+1,England,3,IR Bell,Mohammad Asif,ME Trescothick,,0,4,4,,,,34234
+1,England,3,IR Bell,Mohammad Asif,ME Trescothick,,0,1,1,,,,34234
+1,England,3,ME Trescothick,Mohammad Asif,IR Bell,,0,0,0,,,,34234
+1,England,3,ME Trescothick,Mohammad Asif,IR Bell,,0,4,4,,,,34234
+1,England,4,IR Bell,Shoaib Akhtar,ME Trescothick,,0,0,0,,,,34234
+1,England,4,IR Bell,Shoaib Akhtar,ME Trescothick,,0,4,4,,,,34234
+1,England,4,IR Bell,Shoaib Akhtar,ME Trescothick,,0,0,0,,,,34234
+1,England,4,IR Bell,Shoaib Akhtar,ME Trescothick,,0,1,1,,,,34234
+1,England,4,ME Trescothick,Shoaib Akhtar,IR Bell,,0,1,1,,,,34234
+1,England,4,IR Bell,Shoaib Akhtar,ME Trescothick,,0,0,0,caught,IR Bell,Younis Khan,34234
+1,England,5,ME Trescothick,Mohammad Asif,KP Pietersen,legbyes,1,1,0,,,,34234
+1,England,5,KP Pietersen,Mohammad Asif,ME Trescothick,,0,0,0,bowled,KP Pietersen,,34234
+1,England,5,AJ Strauss,Mohammad Asif,ME Trescothick,,0,0,0,,,,34234
+1,England,5,AJ Strauss,Mohammad Asif,ME Trescothick,,0,0,0,caught,AJ Strauss,Kamran Akmal,34234
+1,England,5,PD Collingwood,Mohammad Asif,ME Trescothick,,0,0,0,,,,34234
+1,England,5,PD Collingwood,Mohammad Asif,ME Trescothick,,0,0,0,,,,34234
+1,England,6,ME Trescothick,Naved-ul-Hasan,PD Collingwood,,0,1,1,,,,34234
+1,England,6,PD Collingwood,Naved-ul-Hasan,ME Trescothick,,0,0,0,,,,34234
+1,England,6,PD Collingwood,Naved-ul-Hasan,ME Trescothick,,0,0,0,,,,34234
+1,England,6,PD Collingwood,Naved-ul-Hasan,ME Trescothick,,0,0,0,,,,34234
+1,England,6,PD Collingwood,Naved-ul-Hasan,ME Trescothick,,0,0,0,,,,34234
+1,England,6,PD Collingwood,Naved-ul-Hasan,ME Trescothick,noballs,1,1,0,,,,34234
+1,England,6,PD Collingwood,Naved-ul-Hasan,ME Trescothick,,0,2,2,,,,34234
+1,England,7,ME Trescothick,Mohammad Asif,PD Collingwood,,0,0,0,,,,34234
+1,England,7,ME Trescothick,Mohammad Asif,PD Collingwood,,0,0,0,,,,34234
+1,England,7,ME Trescothick,Mohammad Asif,PD Collingwood,,0,1,1,,,,34234
+1,England,7,PD Collingwood,Mohammad Asif,ME Trescothick,,0,0,0,,,,34234
+1,England,7,PD Collingwood,Mohammad Asif,ME Trescothick,legbyes,1,1,0,,,,34234
+1,England,7,ME Trescothick,Mohammad Asif,PD Collingwood,,0,4,4,,,,34234
+1,England,8,PD Collingwood,Naved-ul-Hasan,ME Trescothick,,0,0,0,caught,PD Collingwood,Kamran Akmal,34234
+1,England,8,JWM Dalrymple,Naved-ul-Hasan,ME Trescothick,,0,1,1,,,,34234
+1,England,8,ME Trescothick,Naved-ul-Hasan,JWM Dalrymple,,0,1,1,,,,34234
+1,England,8,JWM Dalrymple,Naved-ul-Hasan,ME Trescothick,,0,1,1,,,,34234
+1,England,8,ME Trescothick,Naved-ul-Hasan,JWM Dalrymple,,0,4,4,,,,34234
+1,England,8,ME Trescothick,Naved-ul-Hasan,JWM Dalrymple,,0,0,0,,,,34234
+1,England,9,JWM Dalrymple,Shahid Afridi,ME Trescothick,,0,1,1,,,,34234
+1,England,9,ME Trescothick,Shahid Afridi,JWM Dalrymple,,0,0,0,,,,34234
+1,England,9,ME Trescothick,Shahid Afridi,JWM Dalrymple,,0,1,1,,,,34234
+1,England,9,JWM Dalrymple,Shahid Afridi,ME Trescothick,,0,0,0,,,,34234
+1,England,9,JWM Dalrymple,Shahid Afridi,ME Trescothick,,0,0,0,,,,34234
+1,England,9,JWM Dalrymple,Shahid Afridi,ME Trescothick,,0,1,1,,,,34234
+1,England,10,JWM Dalrymple,Naved-ul-Hasan,ME Trescothick,,0,0,0,,,,34234
+1,England,10,JWM Dalrymple,Naved-ul-Hasan,ME Trescothick,,0,1,1,,,,34234
+1,England,10,ME Trescothick,Naved-ul-Hasan,JWM Dalrymple,,0,1,1,,,,34234
+1,England,10,JWM Dalrymple,Naved-ul-Hasan,ME Trescothick,,0,2,2,,,,34234
+1,England,10,JWM Dalrymple,Naved-ul-Hasan,ME Trescothick,,0,2,2,,,,34234
+1,England,10,JWM Dalrymple,Naved-ul-Hasan,ME Trescothick,,0,4,4,,,,34234
+1,England,11,ME Trescothick,Shahid Afridi,JWM Dalrymple,,0,1,1,,,,34234
+1,England,11,JWM Dalrymple,Shahid Afridi,ME Trescothick,legbyes,1,1,0,,,,34234
+1,England,11,ME Trescothick,Shahid Afridi,JWM Dalrymple,,0,4,4,,,,34234
+1,England,11,ME Trescothick,Shahid Afridi,JWM Dalrymple,,0,4,4,,,,34234
+1,England,11,ME Trescothick,Shahid Afridi,JWM Dalrymple,,0,0,0,,,,34234
+1,England,11,ME Trescothick,Shahid Afridi,JWM Dalrymple,wides,1,1,0,,,,34234
+1,England,11,ME Trescothick,Shahid Afridi,JWM Dalrymple,,0,1,1,,,,34234
+1,England,12,ME Trescothick,Abdul Razzaq,JWM Dalrymple,,0,1,1,,,,34234
+1,England,12,JWM Dalrymple,Abdul Razzaq,ME Trescothick,,0,0,0,,,,34234
+1,England,12,JWM Dalrymple,Abdul Razzaq,ME Trescothick,,0,1,1,,,,34234
+1,England,12,ME Trescothick,Abdul Razzaq,JWM Dalrymple,,0,1,1,,,,34234
+1,England,12,JWM Dalrymple,Abdul Razzaq,ME Trescothick,,0,1,1,,,,34234
+1,England,12,ME Trescothick,Abdul Razzaq,JWM Dalrymple,,0,1,1,,,,34234
+1,England,13,ME Trescothick,Shahid Afridi,JWM Dalrymple,,0,1,1,,,,34234
+1,England,13,JWM Dalrymple,Shahid Afridi,ME Trescothick,,0,4,4,,,,34234
+1,England,13,JWM Dalrymple,Shahid Afridi,ME Trescothick,wides,1,1,0,,,,34234
+1,England,13,JWM Dalrymple,Shahid Afridi,ME Trescothick,,0,0,0,,,,34234
+1,England,13,JWM Dalrymple,Shahid Afridi,ME Trescothick,,0,0,0,,,,34234
+1,England,13,JWM Dalrymple,Shahid Afridi,ME Trescothick,,0,1,1,,,,34234
+1,England,13,ME Trescothick,Shahid Afridi,JWM Dalrymple,,0,2,2,,,,34234
+1,England,14,JWM Dalrymple,Abdul Razzaq,ME Trescothick,,0,1,1,,,,34234
+1,England,14,ME Trescothick,Abdul Razzaq,JWM Dalrymple,,0,0,0,caught,ME Trescothick,Kamran Akmal,34234
+1,England,14,MH Yardy,Abdul Razzaq,JWM Dalrymple,,0,1,1,,,,34234
+1,England,14,JWM Dalrymple,Abdul Razzaq,MH Yardy,,0,1,1,,,,34234
+1,England,14,MH Yardy,Abdul Razzaq,JWM Dalrymple,,0,1,1,,,,34234
+1,England,14,JWM Dalrymple,Abdul Razzaq,MH Yardy,,0,1,1,,,,34234
+1,England,15,JWM Dalrymple,Shahid Afridi,MH Yardy,,0,1,1,,,,34234
+1,England,15,MH Yardy,Shahid Afridi,JWM Dalrymple,,0,1,1,,,,34234
+1,England,15,JWM Dalrymple,Shahid Afridi,MH Yardy,,0,1,1,,,,34234
+1,England,15,MH Yardy,Shahid Afridi,JWM Dalrymple,,0,1,1,,,,34234
+1,England,15,JWM Dalrymple,Shahid Afridi,MH Yardy,,0,1,1,,,,34234
+1,England,15,MH Yardy,Shahid Afridi,JWM Dalrymple,,0,0,0,,,,34234
+1,England,16,JWM Dalrymple,Abdul Razzaq,MH Yardy,legbyes,1,1,0,,,,34234
+1,England,16,MH Yardy,Abdul Razzaq,JWM Dalrymple,,0,4,4,,,,34234
+1,England,16,MH Yardy,Abdul Razzaq,JWM Dalrymple,,0,1,1,,,,34234
+1,England,16,JWM Dalrymple,Abdul Razzaq,MH Yardy,,0,1,1,,,,34234
+1,England,16,MH Yardy,Abdul Razzaq,JWM Dalrymple,,0,1,1,,,,34234
+1,England,16,JWM Dalrymple,Abdul Razzaq,MH Yardy,,0,0,0,caught,JWM Dalrymple,Shoaib Akhtar,34234
+1,England,17,CMW Read,Naved-ul-Hasan,MH Yardy,,0,0,0,,,,34234
+1,England,17,CMW Read,Naved-ul-Hasan,MH Yardy,,0,1,1,,,,34234
+1,England,17,MH Yardy,Naved-ul-Hasan,CMW Read,,0,1,1,,,,34234
+1,England,17,CMW Read,Naved-ul-Hasan,MH Yardy,,0,0,0,,,,34234
+1,England,17,CMW Read,Naved-ul-Hasan,MH Yardy,,0,2,2,,,,34234
+1,England,17,CMW Read,Naved-ul-Hasan,MH Yardy,,0,1,1,,,,34234
+1,England,18,CMW Read,Shoaib Akhtar,MH Yardy,,0,0,0,,,,34234
+1,England,18,CMW Read,Shoaib Akhtar,MH Yardy,,0,4,4,,,,34234
+1,England,18,CMW Read,Shoaib Akhtar,MH Yardy,,0,1,1,,,,34234
+1,England,18,MH Yardy,Shoaib Akhtar,CMW Read,legbyes,1,1,0,,,,34234
+1,England,18,CMW Read,Shoaib Akhtar,MH Yardy,,0,4,4,,,,34234
+1,England,18,CMW Read,Shoaib Akhtar,MH Yardy,byes,1,1,0,,,,34234
+1,England,19,CMW Read,Abdul Razzaq,MH Yardy,,0,0,0,caught,CMW Read,Naved-ul-Hasan,34234
+1,England,19,MH Yardy,Abdul Razzaq,SI Mahmood,,0,1,1,,,,34234
+1,England,19,SI Mahmood,Abdul Razzaq,MH Yardy,legbyes,1,1,0,,,,34234
+1,England,19,MH Yardy,Abdul Razzaq,SI Mahmood,,0,6,6,,,,34234
+1,England,19,MH Yardy,Abdul Razzaq,SI Mahmood,,0,4,4,,,,34234
+1,England,19,MH Yardy,Abdul Razzaq,SI Mahmood,,0,2,2,,,,34234

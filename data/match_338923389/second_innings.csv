@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,South Africa,0,L Lee,KDU Prabodhani,T Chetty,,0,1,1,,,,338923389
+2,South Africa,0,T Chetty,KDU Prabodhani,L Lee,,0,1,1,,,,338923389
+2,South Africa,0,L Lee,KDU Prabodhani,T Chetty,,0,1,1,,,,338923389
+2,South Africa,0,T Chetty,KDU Prabodhani,L Lee,,0,0,0,,,,338923389
+2,South Africa,0,T Chetty,KDU Prabodhani,L Lee,,0,4,4,,,,338923389
+2,South Africa,0,T Chetty,KDU Prabodhani,L Lee,,0,0,0,,,,338923389
+2,South Africa,1,L Lee,HAM Samuddika,T Chetty,,0,0,0,,,,338923389
+2,South Africa,1,L Lee,HAM Samuddika,T Chetty,,0,0,0,,,,338923389
+2,South Africa,1,L Lee,HAM Samuddika,T Chetty,,0,1,1,,,,338923389
+2,South Africa,1,T Chetty,HAM Samuddika,L Lee,,0,0,0,,,,338923389
+2,South Africa,1,T Chetty,HAM Samuddika,L Lee,,0,0,0,caught,T Chetty,BYA Mendis,338923389
+2,South Africa,1,L Lee,HAM Samuddika,M du Preez,,0,0,0,,,,338923389
+2,South Africa,2,M du Preez,CR Seneviratna,L Lee,,0,0,0,,,,338923389
+2,South Africa,2,M du Preez,CR Seneviratna,L Lee,,0,4,4,,,,338923389
+2,South Africa,2,M du Preez,CR Seneviratna,L Lee,,0,1,1,,,,338923389
+2,South Africa,2,L Lee,CR Seneviratna,M du Preez,,0,0,0,,,,338923389
+2,South Africa,2,L Lee,CR Seneviratna,M du Preez,,0,0,0,,,,338923389
+2,South Africa,2,L Lee,CR Seneviratna,M du Preez,,0,0,0,,,,338923389
+2,South Africa,3,M du Preez,HAM Samuddika,L Lee,,0,1,1,,,,338923389
+2,South Africa,3,L Lee,HAM Samuddika,M du Preez,,0,4,4,,,,338923389
+2,South Africa,3,L Lee,HAM Samuddika,M du Preez,,0,0,0,,,,338923389
+2,South Africa,3,L Lee,HAM Samuddika,M du Preez,,0,4,4,,,,338923389
+2,South Africa,3,L Lee,HAM Samuddika,M du Preez,,0,1,1,,,,338923389
+2,South Africa,3,M du Preez,HAM Samuddika,L Lee,,0,0,0,,,,338923389
+2,South Africa,4,L Lee,HHC Gunaratne,M du Preez,,0,1,1,,,,338923389
+2,South Africa,4,M du Preez,HHC Gunaratne,L Lee,,0,4,4,,,,338923389
+2,South Africa,4,M du Preez,HHC Gunaratne,L Lee,,0,1,1,,,,338923389
+2,South Africa,4,L Lee,HHC Gunaratne,M du Preez,,0,4,4,,,,338923389
+2,South Africa,4,L Lee,HHC Gunaratne,M du Preez,wides,1,1,0,,,,338923389
+2,South Africa,4,L Lee,HHC Gunaratne,M du Preez,,0,4,4,,,,338923389
+2,South Africa,4,L Lee,HHC Gunaratne,M du Preez,,0,0,0,,,,338923389
+2,South Africa,5,M du Preez,HASD Siriwardene,L Lee,,0,1,1,,,,338923389
+2,South Africa,5,L Lee,HASD Siriwardene,M du Preez,,0,1,1,,,,338923389
+2,South Africa,5,M du Preez,HASD Siriwardene,L Lee,,0,1,1,,,,338923389
+2,South Africa,5,L Lee,HASD Siriwardene,M du Preez,,0,0,0,,,,338923389
+2,South Africa,5,L Lee,HASD Siriwardene,M du Preez,,0,0,0,,,,338923389
+2,South Africa,5,L Lee,HASD Siriwardene,M du Preez,,0,1,1,,,,338923389
+2,South Africa,6,L Lee,SS Weerakkody,M du Preez,,0,0,0,caught,L Lee,RS Vandort,338923389
+2,South Africa,6,M Kapp,SS Weerakkody,M du Preez,,0,0,0,,,,338923389
+2,South Africa,6,M Kapp,SS Weerakkody,M du Preez,,0,1,1,,,,338923389
+2,South Africa,6,M du Preez,SS Weerakkody,M Kapp,,0,2,2,,,,338923389
+2,South Africa,6,M du Preez,SS Weerakkody,M Kapp,,0,1,1,,,,338923389
+2,South Africa,6,M Kapp,SS Weerakkody,M du Preez,,0,1,1,,,,338923389
+2,South Africa,7,M Kapp,HASD Siriwardene,M du Preez,legbyes,2,2,0,,,,338923389
+2,South Africa,7,M Kapp,HASD Siriwardene,M du Preez,,0,1,1,,,,338923389
+2,South Africa,7,M du Preez,HASD Siriwardene,M Kapp,,0,1,1,,,,338923389
+2,South Africa,7,M Kapp,HASD Siriwardene,M du Preez,,0,1,1,,,,338923389
+2,South Africa,7,M du Preez,HASD Siriwardene,M Kapp,,0,1,1,,,,338923389
+2,South Africa,7,M Kapp,HASD Siriwardene,M du Preez,,0,0,0,,,,338923389
+2,South Africa,8,M du Preez,SS Weerakkody,M Kapp,,0,1,1,,,,338923389
+2,South Africa,8,M Kapp,SS Weerakkody,M du Preez,,0,0,0,,,,338923389
+2,South Africa,8,M Kapp,SS Weerakkody,M du Preez,,0,1,1,,,,338923389
+2,South Africa,8,M du Preez,SS Weerakkody,M Kapp,,0,1,1,,,,338923389
+2,South Africa,8,M Kapp,SS Weerakkody,M du Preez,,0,1,1,,,,338923389
+2,South Africa,8,M du Preez,SS Weerakkody,M Kapp,,0,1,1,,,,338923389
+2,South Africa,9,M du Preez,HASD Siriwardene,M Kapp,,0,0,0,caught,M du Preez,BYA Mendis,338923389
+2,South Africa,9,M Kapp,HASD Siriwardene,D van Niekerk,,0,0,0,,,,338923389
+2,South Africa,9,M Kapp,HASD Siriwardene,D van Niekerk,,0,0,0,lbw,M Kapp,,338923389
+2,South Africa,9,A le Breton,HASD Siriwardene,D van Niekerk,,0,1,1,,,,338923389
+2,South Africa,9,D van Niekerk,HASD Siriwardene,A le Breton,,0,1,1,,,,338923389
+2,South Africa,9,A le Breton,HASD Siriwardene,D van Niekerk,,0,1,1,,,,338923389
+2,South Africa,10,A le Breton,SS Weerakkody,D van Niekerk,,0,0,0,,,,338923389
+2,South Africa,10,A le Breton,SS Weerakkody,D van Niekerk,,0,0,0,,,,338923389
+2,South Africa,10,A le Breton,SS Weerakkody,D van Niekerk,,0,0,0,,,,338923389
+2,South Africa,10,A le Breton,SS Weerakkody,D van Niekerk,,0,4,4,,,,338923389
+2,South Africa,10,A le Breton,SS Weerakkody,D van Niekerk,,0,0,0,,,,338923389
+2,South Africa,10,A le Breton,SS Weerakkody,D van Niekerk,,0,1,1,,,,338923389
+2,South Africa,11,A le Breton,HASD Siriwardene,D van Niekerk,,0,0,0,,,,338923389
+2,South Africa,11,A le Breton,HASD Siriwardene,D van Niekerk,,0,1,1,,,,338923389
+2,South Africa,11,D van Niekerk,HASD Siriwardene,A le Breton,,0,0,0,,,,338923389
+2,South Africa,11,D van Niekerk,HASD Siriwardene,A le Breton,,0,0,0,,,,338923389
+2,South Africa,11,D van Niekerk,HASD Siriwardene,A le Breton,,0,0,0,,,,338923389
+2,South Africa,11,D van Niekerk,HASD Siriwardene,A le Breton,,0,4,4,,,,338923389
+2,South Africa,12,A le Breton,SS Weerakkody,D van Niekerk,,0,1,1,,,,338923389
+2,South Africa,12,D van Niekerk,SS Weerakkody,A le Breton,,0,0,0,,,,338923389
+2,South Africa,12,D van Niekerk,SS Weerakkody,A le Breton,,0,0,0,,,,338923389
+2,South Africa,12,D van Niekerk,SS Weerakkody,A le Breton,,0,0,0,,,,338923389
+2,South Africa,12,D van Niekerk,SS Weerakkody,A le Breton,,0,0,0,,,,338923389
+2,South Africa,12,D van Niekerk,SS Weerakkody,A le Breton,,0,1,1,,,,338923389
+2,South Africa,13,D van Niekerk,HAM Samuddika,A le Breton,,0,2,2,,,,338923389
+2,South Africa,13,D van Niekerk,HAM Samuddika,A le Breton,,0,0,0,,,,338923389
+2,South Africa,13,D van Niekerk,HAM Samuddika,A le Breton,,0,1,1,,,,338923389
+2,South Africa,13,A le Breton,HAM Samuddika,D van Niekerk,,0,1,1,run out,A le Breton,RS Vandort,338923389
+2,South Africa,13,S Luus,HAM Samuddika,D van Niekerk,,0,1,1,,,,338923389
+2,South Africa,13,D van Niekerk,HAM Samuddika,S Luus,,0,1,1,,,,338923389
+2,South Africa,14,D van Niekerk,KDU Prabodhani,S Luus,,0,1,1,,,,338923389
+2,South Africa,14,S Luus,KDU Prabodhani,D van Niekerk,,0,0,0,,,,338923389
+2,South Africa,14,S Luus,KDU Prabodhani,D van Niekerk,,0,0,0,,,,338923389
+2,South Africa,14,S Luus,KDU Prabodhani,D van Niekerk,,0,1,1,,,,338923389
+2,South Africa,14,D van Niekerk,KDU Prabodhani,S Luus,,0,1,1,,,,338923389
+2,South Africa,14,S Luus,KDU Prabodhani,D van Niekerk,,0,1,1,,,,338923389
+2,South Africa,15,S Luus,HAM Samuddika,D van Niekerk,,0,1,1,,,,338923389
+2,South Africa,15,D van Niekerk,HAM Samuddika,S Luus,,0,1,1,,,,338923389
+2,South Africa,15,S Luus,HAM Samuddika,D van Niekerk,,0,1,1,,,,338923389
+2,South Africa,15,D van Niekerk,HAM Samuddika,S Luus,,0,1,1,,,,338923389
+2,South Africa,15,S Luus,HAM Samuddika,D van Niekerk,,0,0,0,stumped,S Luus,RS Vandort,338923389
+2,South Africa,15,S Ismail,HAM Samuddika,D van Niekerk,,0,0,0,,,,338923389
+2,South Africa,16,D van Niekerk,KDU Prabodhani,S Ismail,,0,1,1,,,,338923389
+2,South Africa,16,S Ismail,KDU Prabodhani,D van Niekerk,,0,1,1,,,,338923389
+2,South Africa,16,D van Niekerk,KDU Prabodhani,S Ismail,,0,1,1,,,,338923389
+2,South Africa,16,S Ismail,KDU Prabodhani,D van Niekerk,,0,1,1,,,,338923389
+2,South Africa,16,D van Niekerk,KDU Prabodhani,S Ismail,,0,1,1,,,,338923389
+2,South Africa,16,S Ismail,KDU Prabodhani,D van Niekerk,,0,1,1,,,,338923389
+2,South Africa,17,S Ismail,CR Seneviratna,D van Niekerk,,0,2,2,,,,338923389
+2,South Africa,17,S Ismail,CR Seneviratna,D van Niekerk,,0,0,0,,,,338923389
+2,South Africa,17,S Ismail,CR Seneviratna,D van Niekerk,byes,1,1,0,,,,338923389
+2,South Africa,17,D van Niekerk,CR Seneviratna,S Ismail,,0,2,2,,,,338923389
+2,South Africa,17,D van Niekerk,CR Seneviratna,S Ismail,,0,1,1,,,,338923389
+2,South Africa,17,S Ismail,CR Seneviratna,D van Niekerk,,0,0,0,,,,338923389
+2,South Africa,18,D van Niekerk,KDU Prabodhani,S Ismail,wides,1,1,0,,,,338923389
+2,South Africa,18,D van Niekerk,KDU Prabodhani,S Ismail,,0,2,2,,,,338923389
+2,South Africa,18,D van Niekerk,KDU Prabodhani,S Ismail,,0,2,2,,,,338923389
+2,South Africa,18,D van Niekerk,KDU Prabodhani,S Ismail,,0,1,1,,,,338923389
+2,South Africa,18,S Ismail,KDU Prabodhani,D van Niekerk,legbyes,4,4,0,,,,338923389
+2,South Africa,18,S Ismail,KDU Prabodhani,D van Niekerk,,0,2,2,,,,338923389
+2,South Africa,18,S Ismail,KDU Prabodhani,D van Niekerk,,0,1,1,,,,338923389
+2,South Africa,19,S Ismail,CR Seneviratna,D van Niekerk,,0,0,0,bowled,S Ismail,,338923389
+2,South Africa,19,S Loubser,CR Seneviratna,D van Niekerk,,0,1,1,,,,338923389
+2,South Africa,19,D van Niekerk,CR Seneviratna,S Loubser,,0,1,1,run out,D van Niekerk,RS Vandort,338923389
+2,South Africa,19,M Daniels,CR Seneviratna,S Loubser,,0,1,1,,,,338923389
+2,South Africa,19,S Loubser,CR Seneviratna,M Daniels,,0,1,1,,,,338923389
+2,South Africa,19,M Daniels,CR Seneviratna,S Loubser,,0,2,2,,,,338923389

@@ -1,0 +1,106 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Thailand,0,N Nuntarach,Ibrahim Hassan,J Pakhiaokajee,,0,0,0,,,,32204232204
+2,Thailand,0,N Nuntarach,Ibrahim Hassan,J Pakhiaokajee,,0,1,1,,,,32204232204
+2,Thailand,0,J Pakhiaokajee,Ibrahim Hassan,N Nuntarach,,0,0,0,,,,32204232204
+2,Thailand,0,J Pakhiaokajee,Ibrahim Hassan,N Nuntarach,,0,2,2,,,,32204232204
+2,Thailand,0,J Pakhiaokajee,Ibrahim Hassan,N Nuntarach,,0,0,0,,,,32204232204
+2,Thailand,0,J Pakhiaokajee,Ibrahim Hassan,N Nuntarach,,0,0,0,,,,32204232204
+2,Thailand,1,N Nuntarach,Umar Adam,J Pakhiaokajee,,0,1,1,,,,32204232204
+2,Thailand,1,J Pakhiaokajee,Umar Adam,N Nuntarach,,0,0,0,lbw,J Pakhiaokajee,,32204232204
+2,Thailand,1,P Suanchuai,Umar Adam,N Nuntarach,,0,0,0,,,,32204232204
+2,Thailand,1,P Suanchuai,Umar Adam,N Nuntarach,,0,0,0,,,,32204232204
+2,Thailand,1,P Suanchuai,Umar Adam,N Nuntarach,,0,0,0,,,,32204232204
+2,Thailand,1,P Suanchuai,Umar Adam,N Nuntarach,,0,0,0,,,,32204232204
+2,Thailand,2,N Nuntarach,Ibrahim Hassan,P Suanchuai,,0,2,2,,,,32204232204
+2,Thailand,2,N Nuntarach,Ibrahim Hassan,P Suanchuai,,0,1,1,,,,32204232204
+2,Thailand,2,P Suanchuai,Ibrahim Hassan,N Nuntarach,,0,0,0,,,,32204232204
+2,Thailand,2,P Suanchuai,Ibrahim Hassan,N Nuntarach,,0,0,0,,,,32204232204
+2,Thailand,2,P Suanchuai,Ibrahim Hassan,N Nuntarach,,0,0,0,,,,32204232204
+2,Thailand,2,P Suanchuai,Ibrahim Hassan,N Nuntarach,,0,0,0,,,,32204232204
+2,Thailand,3,N Nuntarach,Umar Adam,P Suanchuai,,0,0,0,,,,32204232204
+2,Thailand,3,N Nuntarach,Umar Adam,P Suanchuai,byes,2,2,0,,,,32204232204
+2,Thailand,3,N Nuntarach,Umar Adam,P Suanchuai,,0,0,0,,,,32204232204
+2,Thailand,3,N Nuntarach,Umar Adam,P Suanchuai,,0,1,1,,,,32204232204
+2,Thailand,3,P Suanchuai,Umar Adam,N Nuntarach,,0,0,0,,,,32204232204
+2,Thailand,3,P Suanchuai,Umar Adam,N Nuntarach,,0,0,0,,,,32204232204
+2,Thailand,4,N Nuntarach,Ibrahim Hassan,P Suanchuai,,0,0,0,,,,32204232204
+2,Thailand,4,N Nuntarach,Ibrahim Hassan,P Suanchuai,,0,0,0,,,,32204232204
+2,Thailand,4,N Nuntarach,Ibrahim Hassan,P Suanchuai,,0,0,0,,,,32204232204
+2,Thailand,4,N Nuntarach,Ibrahim Hassan,P Suanchuai,,0,1,1,,,,32204232204
+2,Thailand,4,P Suanchuai,Ibrahim Hassan,N Nuntarach,,0,0,0,,,,32204232204
+2,Thailand,4,P Suanchuai,Ibrahim Hassan,N Nuntarach,,0,0,0,,,,32204232204
+2,Thailand,5,N Nuntarach,Umar Adam,P Suanchuai,,0,0,0,lbw,N Nuntarach,,32204232204
+2,Thailand,5,C Pengkumta,Umar Adam,P Suanchuai,,0,0,0,,,,32204232204
+2,Thailand,5,C Pengkumta,Umar Adam,P Suanchuai,,0,0,0,,,,32204232204
+2,Thailand,5,C Pengkumta,Umar Adam,P Suanchuai,,0,0,0,,,,32204232204
+2,Thailand,5,C Pengkumta,Umar Adam,P Suanchuai,,0,0,0,,,,32204232204
+2,Thailand,5,C Pengkumta,Umar Adam,P Suanchuai,wides,1,1,0,,,,32204232204
+2,Thailand,5,C Pengkumta,Umar Adam,P Suanchuai,wides,1,1,0,,,,32204232204
+2,Thailand,5,C Pengkumta,Umar Adam,P Suanchuai,,0,0,0,,,,32204232204
+2,Thailand,6,P Suanchuai,Ibrahim Hassan,C Pengkumta,,0,0,0,,,,32204232204
+2,Thailand,6,C Chatphaisan,Ibrahim Hassan,C Pengkumta,,0,0,0,,,,32204232204
+2,Thailand,6,C Chatphaisan,Ibrahim Hassan,C Pengkumta,,0,4,4,,,,32204232204
+2,Thailand,6,C Chatphaisan,Ibrahim Hassan,C Pengkumta,,0,1,1,,,,32204232204
+2,Thailand,6,C Pengkumta,Ibrahim Hassan,C Chatphaisan,,0,0,0,bowled,C Pengkumta,,32204232204
+2,Thailand,6,Vichanath Singh,Ibrahim Hassan,C Chatphaisan,,0,0,0,,,,32204232204
+2,Thailand,7,C Chatphaisan,Umar Adam,Vichanath Singh,,0,0,0,,,,32204232204
+2,Thailand,7,C Chatphaisan,Umar Adam,Vichanath Singh,,0,2,2,,,,32204232204
+2,Thailand,7,C Chatphaisan,Umar Adam,Vichanath Singh,,0,0,0,,,,32204232204
+2,Thailand,7,C Chatphaisan,Umar Adam,Vichanath Singh,,0,1,1,,,,32204232204
+2,Thailand,7,Vichanath Singh,Umar Adam,C Chatphaisan,,0,1,1,,,,32204232204
+2,Thailand,7,C Chatphaisan,Umar Adam,Vichanath Singh,,0,0,0,,,,32204232204
+2,Thailand,8,Vichanath Singh,Ameel Mauroof,C Chatphaisan,wides,1,1,0,,,,32204232204
+2,Thailand,8,Vichanath Singh,Ameel Mauroof,C Chatphaisan,,0,2,2,,,,32204232204
+2,Thailand,8,Vichanath Singh,Ameel Mauroof,C Chatphaisan,,0,0,0,,,,32204232204
+2,Thailand,8,Vichanath Singh,Ameel Mauroof,C Chatphaisan,,0,0,0,,,,32204232204
+2,Thailand,8,Vichanath Singh,Ameel Mauroof,C Chatphaisan,,0,0,0,,,,32204232204
+2,Thailand,8,Vichanath Singh,Ameel Mauroof,C Chatphaisan,,0,1,1,,,,32204232204
+2,Thailand,8,C Chatphaisan,Ameel Mauroof,Vichanath Singh,,0,0,0,,,,32204232204
+2,Thailand,9,Vichanath Singh,Ibrahim Rizan,C Chatphaisan,,0,1,1,,,,32204232204
+2,Thailand,9,C Chatphaisan,Ibrahim Rizan,Vichanath Singh,,0,0,0,,,,32204232204
+2,Thailand,9,C Chatphaisan,Ibrahim Rizan,Vichanath Singh,,0,2,2,,,,32204232204
+2,Thailand,9,C Chatphaisan,Ibrahim Rizan,Vichanath Singh,,0,0,0,,,,32204232204
+2,Thailand,9,C Chatphaisan,Ibrahim Rizan,Vichanath Singh,,0,0,0,,,,32204232204
+2,Thailand,9,C Chatphaisan,Ibrahim Rizan,Vichanath Singh,,0,1,1,,,,32204232204
+2,Thailand,10,C Chatphaisan,Ameel Mauroof,Vichanath Singh,,0,4,4,,,,32204232204
+2,Thailand,10,C Chatphaisan,Ameel Mauroof,Vichanath Singh,,0,0,0,,,,32204232204
+2,Thailand,10,C Chatphaisan,Ameel Mauroof,Vichanath Singh,,0,0,0,caught,C Chatphaisan,Mohamed Azzam,32204232204
+2,Thailand,10,P Suanchuai,Ameel Mauroof,Vichanath Singh,,0,0,0,,,,32204232204
+2,Thailand,10,P Suanchuai,Ameel Mauroof,Vichanath Singh,,0,1,1,,,,32204232204
+2,Thailand,10,Vichanath Singh,Ameel Mauroof,P Suanchuai,,0,1,1,,,,32204232204
+2,Thailand,11,Vichanath Singh,Ibrahim Rizan,P Suanchuai,,0,0,0,,,,32204232204
+2,Thailand,11,Vichanath Singh,Ibrahim Rizan,P Suanchuai,,0,0,0,,,,32204232204
+2,Thailand,11,Vichanath Singh,Ibrahim Rizan,P Suanchuai,,0,0,0,,,,32204232204
+2,Thailand,11,Vichanath Singh,Ibrahim Rizan,P Suanchuai,,0,2,2,,,,32204232204
+2,Thailand,11,Vichanath Singh,Ibrahim Rizan,P Suanchuai,,0,1,1,,,,32204232204
+2,Thailand,11,P Suanchuai,Ibrahim Rizan,Vichanath Singh,,0,0,0,,,,32204232204
+2,Thailand,12,Vichanath Singh,Azyan Farhath,P Suanchuai,,0,0,0,,,,32204232204
+2,Thailand,12,Vichanath Singh,Azyan Farhath,P Suanchuai,,0,1,1,,,,32204232204
+2,Thailand,12,P Suanchuai,Azyan Farhath,Vichanath Singh,,0,1,1,,,,32204232204
+2,Thailand,12,Vichanath Singh,Azyan Farhath,P Suanchuai,,0,0,0,bowled,Vichanath Singh,,32204232204
+2,Thailand,12,S Desungnoen,Azyan Farhath,P Suanchuai,,0,0,0,caught,S Desungnoen,Ameel Mauroof,32204232204
+2,Thailand,12,P Suanchuai,Azyan Farhath,Y Saranonnakkun,,0,0,0,,,,32204232204
+2,Thailand,13,Y Saranonnakkun,Ibrahim Rizan,P Suanchuai,,0,0,0,caught,Y Saranonnakkun,Ibrahim Hassan,32204232204
+2,Thailand,13,P Suanchuai,Ibrahim Rizan,K Senamontree,,0,0,0,,,,32204232204
+2,Thailand,13,P Suanchuai,Ibrahim Rizan,K Senamontree,,0,0,0,,,,32204232204
+2,Thailand,13,P Suanchuai,Ibrahim Rizan,K Senamontree,,0,1,1,,,,32204232204
+2,Thailand,13,K Senamontree,Ibrahim Rizan,P Suanchuai,,0,0,0,,,,32204232204
+2,Thailand,13,K Senamontree,Ibrahim Rizan,P Suanchuai,,0,1,1,,,,32204232204
+2,Thailand,14,K Senamontree,Azyan Farhath,P Suanchuai,,0,1,1,,,,32204232204
+2,Thailand,14,P Suanchuai,Azyan Farhath,K Senamontree,,0,0,0,,,,32204232204
+2,Thailand,14,P Suanchuai,Azyan Farhath,K Senamontree,,0,4,4,,,,32204232204
+2,Thailand,14,P Suanchuai,Azyan Farhath,K Senamontree,,0,1,1,,,,32204232204
+2,Thailand,14,K Senamontree,Azyan Farhath,P Suanchuai,,0,1,1,,,,32204232204
+2,Thailand,14,P Suanchuai,Azyan Farhath,K Senamontree,,0,0,0,,,,32204232204
+2,Thailand,15,K Senamontree,Ibrahim Rizan,P Suanchuai,,0,0,0,caught,K Senamontree,Hassan Rasheed,32204232204
+2,Thailand,15,P Suanchuai,Ibrahim Rizan,T Yotharat,,0,0,0,,,,32204232204
+2,Thailand,15,P Suanchuai,Ibrahim Rizan,T Yotharat,,0,0,0,,,,32204232204
+2,Thailand,15,P Suanchuai,Ibrahim Rizan,T Yotharat,,0,1,1,,,,32204232204
+2,Thailand,15,T Yotharat,Ibrahim Rizan,P Suanchuai,,0,0,0,,,,32204232204
+2,Thailand,15,T Yotharat,Ibrahim Rizan,P Suanchuai,wides,1,1,0,,,,32204232204
+2,Thailand,15,T Yotharat,Ibrahim Rizan,P Suanchuai,,0,1,1,,,,32204232204
+2,Thailand,16,T Yotharat,Azyan Farhath,P Suanchuai,,0,2,2,,,,32204232204
+2,Thailand,16,T Yotharat,Azyan Farhath,P Suanchuai,,0,1,1,,,,32204232204
+2,Thailand,16,P Suanchuai,Azyan Farhath,T Yotharat,,0,0,0,stumped,P Suanchuai,Mohamed Azzam,32204232204
+2,Thailand,16,K Namchaikul,Azyan Farhath,T Yotharat,,0,0,0,,,,32204232204
+2,Thailand,16,K Namchaikul,Azyan Farhath,T Yotharat,,0,0,0,bowled,K Namchaikul,,32204232204

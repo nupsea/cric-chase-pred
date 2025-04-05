@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Qatar,0,S Dhadwal,K Kunwar,H Agarwal,wides,1,1,0,,,,31890231890
+2,Qatar,0,S Dhadwal,K Kunwar,H Agarwal,,0,0,0,,,,31890231890
+2,Qatar,0,S Dhadwal,K Kunwar,H Agarwal,,0,0,0,,,,31890231890
+2,Qatar,0,S Dhadwal,K Kunwar,H Agarwal,,0,0,0,,,,31890231890
+2,Qatar,0,S Dhadwal,K Kunwar,H Agarwal,,0,0,0,,,,31890231890
+2,Qatar,0,S Dhadwal,K Kunwar,H Agarwal,,0,0,0,,,,31890231890
+2,Qatar,0,S Dhadwal,K Kunwar,H Agarwal,,0,0,0,,,,31890231890
+2,Qatar,1,H Agarwal,SC Kumari,S Dhadwal,,0,0,0,caught,H Agarwal,Sabnam Rai,31890231890
+2,Qatar,1,SA Panayan,SC Kumari,S Dhadwal,,0,0,0,,,,31890231890
+2,Qatar,1,SA Panayan,SC Kumari,S Dhadwal,,0,0,0,,,,31890231890
+2,Qatar,1,SA Panayan,SC Kumari,S Dhadwal,,0,0,0,caught,SA Panayan,K Kunwar,31890231890
+2,Qatar,1,Aysha,SC Kumari,S Dhadwal,,0,0,0,,,,31890231890
+2,Qatar,1,Aysha,SC Kumari,S Dhadwal,,0,0,0,,,,31890231890
+2,Qatar,2,S Dhadwal,K Kunwar,Aysha,,0,0,0,,,,31890231890
+2,Qatar,2,S Dhadwal,K Kunwar,Aysha,,0,0,0,,,,31890231890
+2,Qatar,2,S Dhadwal,K Kunwar,Aysha,,0,0,0,,,,31890231890
+2,Qatar,2,S Dhadwal,K Kunwar,Aysha,,0,0,0,,,,31890231890
+2,Qatar,2,S Dhadwal,K Kunwar,Aysha,,0,4,4,,,,31890231890
+2,Qatar,2,S Dhadwal,K Kunwar,Aysha,,0,0,0,,,,31890231890
+2,Qatar,3,Aysha,SC Kumari,S Dhadwal,,0,1,1,,,,31890231890
+2,Qatar,3,S Dhadwal,SC Kumari,Aysha,,0,0,0,,,,31890231890
+2,Qatar,3,S Dhadwal,SC Kumari,Aysha,,0,0,0,lbw,S Dhadwal,,31890231890
+2,Qatar,3,Khadija Imtiaz,SC Kumari,Aysha,,0,0,0,,,,31890231890
+2,Qatar,3,Khadija Imtiaz,SC Kumari,Aysha,,0,1,1,,,,31890231890
+2,Qatar,3,Aysha,SC Kumari,Khadija Imtiaz,,0,0,0,,,,31890231890
+2,Qatar,4,Khadija Imtiaz,Sabnam Rai,Aysha,,0,0,0,,,,31890231890
+2,Qatar,4,Khadija Imtiaz,Sabnam Rai,Aysha,,0,0,0,,,,31890231890
+2,Qatar,4,Khadija Imtiaz,Sabnam Rai,Aysha,wides,2,2,0,,,,31890231890
+2,Qatar,4,Aysha,Sabnam Rai,Khadija Imtiaz,,0,1,1,,,,31890231890
+2,Qatar,4,Khadija Imtiaz,Sabnam Rai,Aysha,,0,0,0,,,,31890231890
+2,Qatar,4,Khadija Imtiaz,Sabnam Rai,Aysha,,0,0,0,,,,31890231890
+2,Qatar,4,Khadija Imtiaz,Sabnam Rai,Aysha,,0,0,0,,,,31890231890
+2,Qatar,5,Aysha,SC Kumari,Khadija Imtiaz,,0,0,0,,,,31890231890
+2,Qatar,5,Aysha,SC Kumari,Khadija Imtiaz,,0,0,0,,,,31890231890
+2,Qatar,5,Aysha,SC Kumari,Khadija Imtiaz,,0,4,4,,,,31890231890
+2,Qatar,5,Aysha,SC Kumari,Khadija Imtiaz,,0,0,0,,,,31890231890
+2,Qatar,5,Aysha,SC Kumari,Khadija Imtiaz,,0,0,0,,,,31890231890
+2,Qatar,5,Aysha,SC Kumari,Khadija Imtiaz,,0,0,0,,,,31890231890
+2,Qatar,6,Khadija Imtiaz,Sabnam Rai,Aysha,,0,0,0,,,,31890231890
+2,Qatar,6,Khadija Imtiaz,Sabnam Rai,Aysha,,0,0,0,,,,31890231890
+2,Qatar,6,Khadija Imtiaz,Sabnam Rai,Aysha,,0,0,0,,,,31890231890
+2,Qatar,6,Khadija Imtiaz,Sabnam Rai,Aysha,,0,0,0,,,,31890231890
+2,Qatar,6,Khadija Imtiaz,Sabnam Rai,Aysha,,0,0,0,,,,31890231890
+2,Qatar,6,Khadija Imtiaz,Sabnam Rai,Aysha,,0,1,1,,,,31890231890
+2,Qatar,7,Khadija Imtiaz,RC Belbashi,Aysha,,0,2,2,,,,31890231890
+2,Qatar,7,Khadija Imtiaz,RC Belbashi,Aysha,,0,0,0,,,,31890231890
+2,Qatar,7,Khadija Imtiaz,RC Belbashi,Aysha,,0,0,0,bowled,Khadija Imtiaz,,31890231890
+2,Qatar,7,KE Pounsett,RC Belbashi,Aysha,,0,0,0,,,,31890231890
+2,Qatar,7,KE Pounsett,RC Belbashi,Aysha,,0,4,4,,,,31890231890
+2,Qatar,7,KE Pounsett,RC Belbashi,Aysha,,0,0,0,,,,31890231890
+2,Qatar,8,Aysha,Sangita Rai,KE Pounsett,,0,0,0,,,,31890231890
+2,Qatar,8,Aysha,Sangita Rai,KE Pounsett,,0,1,1,,,,31890231890
+2,Qatar,8,KE Pounsett,Sangita Rai,Aysha,,0,1,1,,,,31890231890
+2,Qatar,8,Aysha,Sangita Rai,KE Pounsett,,0,1,1,,,,31890231890
+2,Qatar,8,KE Pounsett,Sangita Rai,Aysha,,0,0,0,,,,31890231890
+2,Qatar,8,KE Pounsett,Sangita Rai,Aysha,,0,0,0,,,,31890231890
+2,Qatar,9,Aysha,RC Belbashi,KE Pounsett,,0,0,0,,,,31890231890
+2,Qatar,9,Aysha,RC Belbashi,KE Pounsett,,0,0,0,,,,31890231890
+2,Qatar,9,Aysha,RC Belbashi,KE Pounsett,,0,2,2,,,,31890231890
+2,Qatar,9,Aysha,RC Belbashi,KE Pounsett,,0,0,0,,,,31890231890
+2,Qatar,9,Aysha,RC Belbashi,KE Pounsett,,0,4,4,,,,31890231890
+2,Qatar,9,Aysha,RC Belbashi,KE Pounsett,,0,0,0,,,,31890231890
+2,Qatar,10,KE Pounsett,Sangita Rai,Aysha,,0,4,4,,,,31890231890
+2,Qatar,10,KE Pounsett,Sangita Rai,Aysha,,0,1,1,,,,31890231890
+2,Qatar,10,Aysha,Sangita Rai,KE Pounsett,,0,0,0,,,,31890231890
+2,Qatar,10,Aysha,Sangita Rai,KE Pounsett,,0,0,0,,,,31890231890
+2,Qatar,10,Aysha,Sangita Rai,KE Pounsett,,0,2,2,,,,31890231890
+2,Qatar,10,Aysha,Sangita Rai,KE Pounsett,,0,1,1,,,,31890231890
+2,Qatar,11,Aysha,K Joshi,KE Pounsett,,0,1,1,,,,31890231890
+2,Qatar,11,KE Pounsett,K Joshi,Aysha,,0,0,0,,,,31890231890
+2,Qatar,11,KE Pounsett,K Joshi,Aysha,,0,0,0,,,,31890231890
+2,Qatar,11,KE Pounsett,K Joshi,Aysha,wides,1,1,0,,,,31890231890
+2,Qatar,11,KE Pounsett,K Joshi,Aysha,,0,0,0,,,,31890231890
+2,Qatar,11,KE Pounsett,K Joshi,Aysha,,0,1,1,,,,31890231890
+2,Qatar,11,Aysha,K Joshi,KE Pounsett,,0,1,1,,,,31890231890
+2,Qatar,12,Aysha,Sabnam Rai,KE Pounsett,,0,0,0,,,,31890231890
+2,Qatar,12,Aysha,Sabnam Rai,KE Pounsett,,0,1,1,,,,31890231890
+2,Qatar,12,KE Pounsett,Sabnam Rai,Aysha,,0,0,0,,,,31890231890
+2,Qatar,12,KE Pounsett,Sabnam Rai,Aysha,,0,1,1,,,,31890231890
+2,Qatar,12,Aysha,Sabnam Rai,KE Pounsett,,0,2,2,,,,31890231890
+2,Qatar,12,Aysha,Sabnam Rai,KE Pounsett,,0,2,2,,,,31890231890
+2,Qatar,13,KE Pounsett,K Joshi,Aysha,,0,2,2,,,,31890231890
+2,Qatar,13,KE Pounsett,K Joshi,Aysha,,0,0,0,,,,31890231890
+2,Qatar,13,KE Pounsett,K Joshi,Aysha,,0,1,1,,,,31890231890
+2,Qatar,13,Aysha,K Joshi,KE Pounsett,,0,0,0,,,,31890231890
+2,Qatar,13,Aysha,K Joshi,KE Pounsett,,0,0,0,bowled,Aysha,,31890231890
+2,Qatar,13,A Mare,K Joshi,KE Pounsett,,0,0,0,,,,31890231890
+2,Qatar,14,KE Pounsett,Sabnam Rai,A Mare,,0,0,0,bowled,KE Pounsett,,31890231890
+2,Qatar,14,Aleena Khan,Sabnam Rai,A Mare,,0,0,0,,,,31890231890
+2,Qatar,14,Aleena Khan,Sabnam Rai,A Mare,,0,0,0,,,,31890231890
+2,Qatar,14,Aleena Khan,Sabnam Rai,A Mare,,0,0,0,,,,31890231890
+2,Qatar,14,Aleena Khan,Sabnam Rai,A Mare,,0,0,0,,,,31890231890
+2,Qatar,14,Aleena Khan,Sabnam Rai,A Mare,,0,0,0,,,,31890231890
+2,Qatar,15,A Mare,K Joshi,Aleena Khan,,0,4,4,,,,31890231890
+2,Qatar,15,A Mare,K Joshi,Aleena Khan,,0,1,1,,,,31890231890
+2,Qatar,15,Aleena Khan,K Joshi,A Mare,,0,0,0,,,,31890231890
+2,Qatar,15,Aleena Khan,K Joshi,A Mare,,0,0,0,,,,31890231890
+2,Qatar,15,Aleena Khan,K Joshi,A Mare,,0,0,0,,,,31890231890
+2,Qatar,15,Aleena Khan,K Joshi,A Mare,,0,1,1,,,,31890231890
+2,Qatar,16,Aleena Khan,Sangita Rai,A Mare,,0,0,0,,,,31890231890
+2,Qatar,16,Aleena Khan,Sangita Rai,A Mare,,0,1,1,,,,31890231890
+2,Qatar,16,A Mare,Sangita Rai,Aleena Khan,,0,1,1,,,,31890231890
+2,Qatar,16,Aleena Khan,Sangita Rai,A Mare,,0,4,4,,,,31890231890
+2,Qatar,16,Aleena Khan,Sangita Rai,A Mare,,0,0,0,,,,31890231890
+2,Qatar,16,Aleena Khan,Sangita Rai,A Mare,,0,0,0,,,,31890231890
+2,Qatar,17,A Mare,SC Kumari,Aleena Khan,,0,0,0,,,,31890231890
+2,Qatar,17,A Mare,SC Kumari,Aleena Khan,wides,1,1,0,,,,31890231890
+2,Qatar,17,A Mare,SC Kumari,Aleena Khan,,0,1,1,,,,31890231890
+2,Qatar,17,Aleena Khan,SC Kumari,A Mare,,0,0,0,,,,31890231890
+2,Qatar,17,Aleena Khan,SC Kumari,A Mare,,0,0,0,bowled,Aleena Khan,,31890231890
+2,Qatar,17,Rizpha Bano,SC Kumari,A Mare,,0,0,0,,,,31890231890
+2,Qatar,17,Rizpha Bano,SC Kumari,A Mare,,0,0,0,,,,31890231890
+2,Qatar,18,A Mare,Sangita Rai,Rizpha Bano,,0,0,0,bowled,A Mare,,31890231890
+2,Qatar,18,Shahreeennawab,Sangita Rai,Rizpha Bano,,0,1,1,,,,31890231890
+2,Qatar,18,Rizpha Bano,Sangita Rai,Shahreeennawab,,0,0,0,,,,31890231890
+2,Qatar,18,Rizpha Bano,Sangita Rai,Shahreeennawab,,0,0,0,,,,31890231890
+2,Qatar,18,Rizpha Bano,Sangita Rai,Shahreeennawab,wides,1,1,0,,,,31890231890
+2,Qatar,18,Rizpha Bano,Sangita Rai,Shahreeennawab,,0,0,0,,,,31890231890
+2,Qatar,18,Rizpha Bano,Sangita Rai,Shahreeennawab,,0,1,1,,,,31890231890
+2,Qatar,19,Rizpha Bano,RC Belbashi,Shahreeennawab,,0,0,0,run out,Shahreeennawab,S Magar,31890231890
+2,Qatar,19,T Kale,RC Belbashi,Rizpha Bano,,0,0,0,,,,31890231890
+2,Qatar,19,T Kale,RC Belbashi,Rizpha Bano,,0,0,0,stumped,T Kale,K Shrestha,31890231890

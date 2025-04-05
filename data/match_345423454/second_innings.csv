@@ -1,0 +1,117 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,South Africa,0,D van Niekerk,KH Brunt,L Lee,noballs,1,1,0,,,,345423454
+2,South Africa,0,D van Niekerk,KH Brunt,L Lee,,0,4,4,,,,345423454
+2,South Africa,0,D van Niekerk,KH Brunt,L Lee,,0,0,0,,,,345423454
+2,South Africa,0,D van Niekerk,KH Brunt,L Lee,,0,0,0,,,,345423454
+2,South Africa,0,D van Niekerk,KH Brunt,L Lee,,0,0,0,,,,345423454
+2,South Africa,0,D van Niekerk,KH Brunt,L Lee,,0,0,0,,,,345423454
+2,South Africa,0,D van Niekerk,KH Brunt,L Lee,,0,4,4,,,,345423454
+2,South Africa,1,L Lee,A Shrubsole,D van Niekerk,,0,4,4,,,,345423454
+2,South Africa,1,L Lee,A Shrubsole,D van Niekerk,,0,0,0,,,,345423454
+2,South Africa,1,L Lee,A Shrubsole,D van Niekerk,,0,0,0,bowled,L Lee,,345423454
+2,South Africa,1,M du Preez,A Shrubsole,D van Niekerk,,0,0,0,,,,345423454
+2,South Africa,1,M du Preez,A Shrubsole,D van Niekerk,,0,0,0,,,,345423454
+2,South Africa,1,M du Preez,A Shrubsole,D van Niekerk,,0,0,0,,,,345423454
+2,South Africa,2,D van Niekerk,KH Brunt,M du Preez,,0,0,0,,,,345423454
+2,South Africa,2,D van Niekerk,KH Brunt,M du Preez,,0,0,0,,,,345423454
+2,South Africa,2,D van Niekerk,KH Brunt,M du Preez,,0,0,0,,,,345423454
+2,South Africa,2,D van Niekerk,KH Brunt,M du Preez,,0,0,0,,,,345423454
+2,South Africa,2,D van Niekerk,KH Brunt,M du Preez,,0,1,1,,,,345423454
+2,South Africa,2,M du Preez,KH Brunt,D van Niekerk,,0,4,4,,,,345423454
+2,South Africa,3,D van Niekerk,A Shrubsole,M du Preez,,0,0,0,,,,345423454
+2,South Africa,3,D van Niekerk,A Shrubsole,M du Preez,noballs,1,5,4,,,,345423454
+2,South Africa,3,D van Niekerk,A Shrubsole,M du Preez,,0,0,0,,,,345423454
+2,South Africa,3,D van Niekerk,A Shrubsole,M du Preez,,0,4,4,,,,345423454
+2,South Africa,3,D van Niekerk,A Shrubsole,M du Preez,,0,0,0,,,,345423454
+2,South Africa,3,D van Niekerk,A Shrubsole,M du Preez,,0,1,1,,,,345423454
+2,South Africa,3,M du Preez,A Shrubsole,D van Niekerk,,0,4,4,,,,345423454
+2,South Africa,4,D van Niekerk,D Hazell,M du Preez,,0,4,4,,,,345423454
+2,South Africa,4,D van Niekerk,D Hazell,M du Preez,,0,0,0,,,,345423454
+2,South Africa,4,D van Niekerk,D Hazell,M du Preez,,0,2,2,,,,345423454
+2,South Africa,4,D van Niekerk,D Hazell,M du Preez,,0,0,0,,,,345423454
+2,South Africa,4,D van Niekerk,D Hazell,M du Preez,,0,0,0,,,,345423454
+2,South Africa,4,D van Niekerk,D Hazell,M du Preez,,0,0,0,,,,345423454
+2,South Africa,5,M du Preez,JL Gunn,D van Niekerk,,0,2,2,,,,345423454
+2,South Africa,5,M du Preez,JL Gunn,D van Niekerk,,0,0,0,,,,345423454
+2,South Africa,5,M du Preez,JL Gunn,D van Niekerk,,0,1,1,,,,345423454
+2,South Africa,5,D van Niekerk,JL Gunn,M du Preez,,0,1,1,,,,345423454
+2,South Africa,5,M du Preez,JL Gunn,D van Niekerk,,0,4,4,,,,345423454
+2,South Africa,5,M du Preez,JL Gunn,D van Niekerk,,0,0,0,,,,345423454
+2,South Africa,6,D van Niekerk,D Hazell,M du Preez,,0,0,0,,,,345423454
+2,South Africa,6,D van Niekerk,D Hazell,M du Preez,,0,1,1,,,,345423454
+2,South Africa,6,M du Preez,D Hazell,D van Niekerk,,0,0,0,caught,M du Preez,NR Sciver,345423454
+2,South Africa,6,D van Niekerk,D Hazell,M Kapp,,0,1,1,,,,345423454
+2,South Africa,6,M Kapp,D Hazell,D van Niekerk,,0,1,1,,,,345423454
+2,South Africa,6,D van Niekerk,D Hazell,M Kapp,,0,1,1,,,,345423454
+2,South Africa,7,D van Niekerk,HC Knight,M Kapp,,0,0,0,,,,345423454
+2,South Africa,7,D van Niekerk,HC Knight,M Kapp,,0,0,0,,,,345423454
+2,South Africa,7,D van Niekerk,HC Knight,M Kapp,,0,1,1,,,,345423454
+2,South Africa,7,M Kapp,HC Knight,D van Niekerk,,0,0,0,,,,345423454
+2,South Africa,7,M Kapp,HC Knight,D van Niekerk,,0,1,1,,,,345423454
+2,South Africa,7,D van Niekerk,HC Knight,M Kapp,,0,0,0,,,,345423454
+2,South Africa,8,M Kapp,D Hazell,D van Niekerk,,0,0,0,,,,345423454
+2,South Africa,8,M Kapp,D Hazell,D van Niekerk,,0,1,1,,,,345423454
+2,South Africa,8,D van Niekerk,D Hazell,M Kapp,,0,0,0,,,,345423454
+2,South Africa,8,D van Niekerk,D Hazell,M Kapp,,0,0,0,,,,345423454
+2,South Africa,8,D van Niekerk,D Hazell,M Kapp,,0,1,1,,,,345423454
+2,South Africa,8,M Kapp,D Hazell,D van Niekerk,,0,1,1,,,,345423454
+2,South Africa,9,M Kapp,HC Knight,D van Niekerk,,0,1,1,,,,345423454
+2,South Africa,9,D van Niekerk,HC Knight,M Kapp,,0,0,0,,,,345423454
+2,South Africa,9,D van Niekerk,HC Knight,M Kapp,,0,1,1,,,,345423454
+2,South Africa,9,M Kapp,HC Knight,D van Niekerk,,0,4,4,,,,345423454
+2,South Africa,9,M Kapp,HC Knight,D van Niekerk,,0,2,2,,,,345423454
+2,South Africa,9,M Kapp,HC Knight,D van Niekerk,,0,0,0,,,,345423454
+2,South Africa,10,D van Niekerk,D Hazell,M Kapp,,0,0,0,,,,345423454
+2,South Africa,10,D van Niekerk,D Hazell,M Kapp,,0,1,1,,,,345423454
+2,South Africa,10,M Kapp,D Hazell,D van Niekerk,,0,1,1,,,,345423454
+2,South Africa,10,D van Niekerk,D Hazell,M Kapp,,0,0,0,,,,345423454
+2,South Africa,10,D van Niekerk,D Hazell,M Kapp,,0,1,1,,,,345423454
+2,South Africa,10,M Kapp,D Hazell,D van Niekerk,,0,1,1,,,,345423454
+2,South Africa,11,M Kapp,NR Sciver,D van Niekerk,,0,1,1,,,,345423454
+2,South Africa,11,D van Niekerk,NR Sciver,M Kapp,,0,0,0,,,,345423454
+2,South Africa,11,D van Niekerk,NR Sciver,M Kapp,,0,0,0,,,,345423454
+2,South Africa,11,D van Niekerk,NR Sciver,M Kapp,,0,1,1,,,,345423454
+2,South Africa,11,M Kapp,NR Sciver,D van Niekerk,,0,1,1,,,,345423454
+2,South Africa,11,D van Niekerk,NR Sciver,M Kapp,,0,0,0,,,,345423454
+2,South Africa,12,M Kapp,JL Gunn,D van Niekerk,,0,1,1,,,,345423454
+2,South Africa,12,D van Niekerk,JL Gunn,M Kapp,,0,0,0,caught,D van Niekerk,KH Brunt,345423454
+2,South Africa,12,M Kapp,JL Gunn,S Luus,,0,1,1,,,,345423454
+2,South Africa,12,S Luus,JL Gunn,M Kapp,,0,0,0,,,,345423454
+2,South Africa,12,S Luus,JL Gunn,M Kapp,,0,0,0,,,,345423454
+2,South Africa,12,S Luus,JL Gunn,M Kapp,,0,0,0,,,,345423454
+2,South Africa,13,M Kapp,NR Sciver,S Luus,,0,1,1,,,,345423454
+2,South Africa,13,S Luus,NR Sciver,M Kapp,,0,1,1,,,,345423454
+2,South Africa,13,M Kapp,NR Sciver,S Luus,,0,0,0,,,,345423454
+2,South Africa,13,M Kapp,NR Sciver,S Luus,wides,1,1,0,,,,345423454
+2,South Africa,13,M Kapp,NR Sciver,S Luus,,0,1,1,,,,345423454
+2,South Africa,13,S Luus,NR Sciver,M Kapp,,0,1,1,,,,345423454
+2,South Africa,13,M Kapp,NR Sciver,S Luus,,0,0,0,,,,345423454
+2,South Africa,14,S Luus,JL Gunn,M Kapp,,0,1,1,,,,345423454
+2,South Africa,14,M Kapp,JL Gunn,S Luus,,0,0,0,,,,345423454
+2,South Africa,14,M Kapp,JL Gunn,S Luus,,0,1,1,,,,345423454
+2,South Africa,14,S Luus,JL Gunn,M Kapp,,0,0,0,bowled,S Luus,,345423454
+2,South Africa,14,CL Tryon,JL Gunn,M Kapp,,0,0,0,lbw,CL Tryon,,345423454
+2,South Africa,14,S Ismail,JL Gunn,M Kapp,,0,1,1,,,,345423454
+2,South Africa,15,S Ismail,A Shrubsole,M Kapp,,0,2,2,,,,345423454
+2,South Africa,15,S Ismail,A Shrubsole,M Kapp,,0,1,1,,,,345423454
+2,South Africa,15,M Kapp,A Shrubsole,S Ismail,,0,1,1,,,,345423454
+2,South Africa,15,S Ismail,A Shrubsole,M Kapp,,0,0,0,,,,345423454
+2,South Africa,15,S Ismail,A Shrubsole,M Kapp,,0,0,0,stumped,S Ismail,SJ Taylor,345423454
+2,South Africa,15,T Chetty,A Shrubsole,M Kapp,,0,4,4,,,,345423454
+2,South Africa,16,M Kapp,HC Knight,T Chetty,,0,1,1,,,,345423454
+2,South Africa,16,T Chetty,HC Knight,M Kapp,,0,0,0,,,,345423454
+2,South Africa,16,T Chetty,HC Knight,M Kapp,,0,2,2,,,,345423454
+2,South Africa,16,T Chetty,HC Knight,M Kapp,,0,0,0,stumped,T Chetty,SJ Taylor,345423454
+2,South Africa,16,S Loubser,HC Knight,M Kapp,,0,0,0,,,,345423454
+2,South Africa,16,S Loubser,HC Knight,M Kapp,,0,0,0,bowled,S Loubser,,345423454
+2,South Africa,17,M Kapp,KH Brunt,MM Letsoalo,,0,2,2,,,,345423454
+2,South Africa,17,M Kapp,KH Brunt,MM Letsoalo,,0,1,1,,,,345423454
+2,South Africa,17,MM Letsoalo,KH Brunt,M Kapp,,0,1,1,,,,345423454
+2,South Africa,17,M Kapp,KH Brunt,MM Letsoalo,,0,2,2,,,,345423454
+2,South Africa,17,M Kapp,KH Brunt,MM Letsoalo,,0,0,0,stumped,M Kapp,SJ Taylor,345423454
+2,South Africa,17,M Daniels,KH Brunt,MM Letsoalo,wides,1,1,0,,,,345423454
+2,South Africa,17,M Daniels,KH Brunt,MM Letsoalo,,0,0,0,,,,345423454
+2,South Africa,18,MM Letsoalo,HC Knight,M Daniels,,0,0,0,,,,345423454
+2,South Africa,18,MM Letsoalo,HC Knight,M Daniels,,0,0,0,,,,345423454
+2,South Africa,18,MM Letsoalo,HC Knight,M Daniels,wides,1,1,0,,,,345423454
+2,South Africa,18,MM Letsoalo,HC Knight,M Daniels,,0,0,0,run out,M Daniels,A Shrubsole,345423454

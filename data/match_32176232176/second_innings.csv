@@ -1,0 +1,71 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Netherlands,0,SL Kalis,I van Zyl,C de Lange,,0,1,1,,,,32176232176
+2,Netherlands,0,C de Lange,I van Zyl,SL Kalis,,0,1,1,,,,32176232176
+2,Netherlands,0,SL Kalis,I van Zyl,C de Lange,,0,0,0,,,,32176232176
+2,Netherlands,0,SL Kalis,I van Zyl,C de Lange,,0,1,1,,,,32176232176
+2,Netherlands,0,C de Lange,I van Zyl,SL Kalis,,0,0,0,,,,32176232176
+2,Netherlands,0,C de Lange,I van Zyl,SL Kalis,,0,1,1,,,,32176232176
+2,Netherlands,1,C de Lange,W Mwatile,SL Kalis,,0,0,0,bowled,C de Lange,,32176232176
+2,Netherlands,1,B de Leede,W Mwatile,SL Kalis,,0,1,1,,,,32176232176
+2,Netherlands,1,SL Kalis,W Mwatile,B de Leede,wides,2,2,0,,,,32176232176
+2,Netherlands,1,B de Leede,W Mwatile,SL Kalis,,0,0,0,,,,32176232176
+2,Netherlands,1,B de Leede,W Mwatile,SL Kalis,,0,0,0,,,,32176232176
+2,Netherlands,1,B de Leede,W Mwatile,SL Kalis,,0,4,4,,,,32176232176
+2,Netherlands,1,B de Leede,W Mwatile,SL Kalis,,0,0,0,,,,32176232176
+2,Netherlands,2,SL Kalis,I van Zyl,B de Leede,,0,1,1,,,,32176232176
+2,Netherlands,2,B de Leede,I van Zyl,SL Kalis,,0,0,0,,,,32176232176
+2,Netherlands,2,B de Leede,I van Zyl,SL Kalis,,0,0,0,,,,32176232176
+2,Netherlands,2,B de Leede,I van Zyl,SL Kalis,,0,0,0,,,,32176232176
+2,Netherlands,2,B de Leede,I van Zyl,SL Kalis,,0,0,0,,,,32176232176
+2,Netherlands,2,B de Leede,I van Zyl,SL Kalis,,0,1,1,,,,32176232176
+2,Netherlands,3,B de Leede,KA Green,SL Kalis,,0,1,1,,,,32176232176
+2,Netherlands,3,SL Kalis,KA Green,B de Leede,,0,1,1,,,,32176232176
+2,Netherlands,3,B de Leede,KA Green,SL Kalis,,0,0,0,,,,32176232176
+2,Netherlands,3,B de Leede,KA Green,SL Kalis,,0,1,1,,,,32176232176
+2,Netherlands,3,SL Kalis,KA Green,B de Leede,,0,1,1,,,,32176232176
+2,Netherlands,3,B de Leede,KA Green,SL Kalis,,0,0,0,,,,32176232176
+2,Netherlands,4,SL Kalis,I van Zyl,B de Leede,,0,1,1,,,,32176232176
+2,Netherlands,4,B de Leede,I van Zyl,SL Kalis,,0,1,1,,,,32176232176
+2,Netherlands,4,SL Kalis,I van Zyl,B de Leede,,0,4,4,,,,32176232176
+2,Netherlands,4,SL Kalis,I van Zyl,B de Leede,,0,0,0,,,,32176232176
+2,Netherlands,4,SL Kalis,I van Zyl,B de Leede,,0,4,4,,,,32176232176
+2,Netherlands,4,SL Kalis,I van Zyl,B de Leede,,0,4,4,,,,32176232176
+2,Netherlands,5,B de Leede,KA Green,SL Kalis,,0,0,0,,,,32176232176
+2,Netherlands,5,B de Leede,KA Green,SL Kalis,,0,1,1,,,,32176232176
+2,Netherlands,5,SL Kalis,KA Green,B de Leede,,0,0,0,,,,32176232176
+2,Netherlands,5,SL Kalis,KA Green,B de Leede,,0,0,0,,,,32176232176
+2,Netherlands,5,SL Kalis,KA Green,B de Leede,,0,1,1,,,,32176232176
+2,Netherlands,5,B de Leede,KA Green,SL Kalis,,0,0,0,,,,32176232176
+2,Netherlands,6,SL Kalis,SA Wittmann,B de Leede,,0,0,0,,,,32176232176
+2,Netherlands,6,SL Kalis,SA Wittmann,B de Leede,,0,1,1,,,,32176232176
+2,Netherlands,6,B de Leede,SA Wittmann,SL Kalis,,0,0,0,,,,32176232176
+2,Netherlands,6,B de Leede,SA Wittmann,SL Kalis,,0,4,4,,,,32176232176
+2,Netherlands,6,B de Leede,SA Wittmann,SL Kalis,wides,1,1,0,,,,32176232176
+2,Netherlands,6,B de Leede,SA Wittmann,SL Kalis,,0,0,0,,,,32176232176
+2,Netherlands,6,B de Leede,SA Wittmann,SL Kalis,legbyes,1,1,0,,,,32176232176
+2,Netherlands,7,B de Leede,KA Green,SL Kalis,,0,0,0,,,,32176232176
+2,Netherlands,7,B de Leede,KA Green,SL Kalis,,0,2,2,,,,32176232176
+2,Netherlands,7,B de Leede,KA Green,SL Kalis,,0,4,4,,,,32176232176
+2,Netherlands,7,B de Leede,KA Green,SL Kalis,wides,1,1,0,,,,32176232176
+2,Netherlands,7,B de Leede,KA Green,SL Kalis,,0,2,2,,,,32176232176
+2,Netherlands,7,B de Leede,KA Green,SL Kalis,,0,1,1,,,,32176232176
+2,Netherlands,7,SL Kalis,KA Green,B de Leede,,0,0,0,,,,32176232176
+2,Netherlands,8,B de Leede,SA Wittmann,SL Kalis,legbyes,1,1,0,,,,32176232176
+2,Netherlands,8,SL Kalis,SA Wittmann,B de Leede,,0,2,2,,,,32176232176
+2,Netherlands,8,SL Kalis,SA Wittmann,B de Leede,,0,4,4,,,,32176232176
+2,Netherlands,8,SL Kalis,SA Wittmann,B de Leede,,0,1,1,,,,32176232176
+2,Netherlands,8,B de Leede,SA Wittmann,SL Kalis,,0,2,2,,,,32176232176
+2,Netherlands,8,B de Leede,SA Wittmann,SL Kalis,,0,1,1,,,,32176232176
+2,Netherlands,9,B de Leede,W Mwatile,SL Kalis,,0,0,0,,,,32176232176
+2,Netherlands,9,B de Leede,W Mwatile,SL Kalis,,0,0,0,run out,SL Kalis,W Mwatile,32176232176
+2,Netherlands,9,B de Leede,W Mwatile,R Rijke,,0,0,0,,,,32176232176
+2,Netherlands,9,B de Leede,W Mwatile,R Rijke,,0,1,1,,,,32176232176
+2,Netherlands,9,R Rijke,W Mwatile,B de Leede,legbyes,1,1,0,,,,32176232176
+2,Netherlands,9,B de Leede,W Mwatile,R Rijke,wides,1,1,0,,,,32176232176
+2,Netherlands,9,B de Leede,W Mwatile,R Rijke,,0,1,1,,,,32176232176
+2,Netherlands,10,B de Leede,SA Wittmann,R Rijke,,0,1,1,,,,32176232176
+2,Netherlands,10,R Rijke,SA Wittmann,B de Leede,,0,0,0,,,,32176232176
+2,Netherlands,10,R Rijke,SA Wittmann,B de Leede,,0,0,0,,,,32176232176
+2,Netherlands,10,R Rijke,SA Wittmann,B de Leede,,0,1,1,,,,32176232176
+2,Netherlands,10,B de Leede,SA Wittmann,R Rijke,,0,4,4,,,,32176232176
+2,Netherlands,10,B de Leede,SA Wittmann,R Rijke,,0,0,0,,,,32176232176

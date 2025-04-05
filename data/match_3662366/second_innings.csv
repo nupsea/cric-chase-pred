@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Netherlands,0,AN Kervezee,JM Anderson,DJ Reekers,,0,1,1,,,,3662366
+2,Netherlands,0,DJ Reekers,JM Anderson,AN Kervezee,,0,1,1,,,,3662366
+2,Netherlands,0,AN Kervezee,JM Anderson,DJ Reekers,,0,0,0,,,,3662366
+2,Netherlands,0,AN Kervezee,JM Anderson,DJ Reekers,,0,0,0,,,,3662366
+2,Netherlands,0,AN Kervezee,JM Anderson,DJ Reekers,,0,0,0,caught,AN Kervezee,SCJ Broad,3662366
+2,Netherlands,0,DJ Reekers,JM Anderson,B Zuiderent,,0,0,0,,,,3662366
+2,Netherlands,1,B Zuiderent,RJ Sidebottom,DJ Reekers,,0,0,0,,,,3662366
+2,Netherlands,1,B Zuiderent,RJ Sidebottom,DJ Reekers,,0,0,0,,,,3662366
+2,Netherlands,1,B Zuiderent,RJ Sidebottom,DJ Reekers,,0,1,1,,,,3662366
+2,Netherlands,1,DJ Reekers,RJ Sidebottom,B Zuiderent,,0,6,6,,,,3662366
+2,Netherlands,1,DJ Reekers,RJ Sidebottom,B Zuiderent,,0,0,0,,,,3662366
+2,Netherlands,1,DJ Reekers,RJ Sidebottom,B Zuiderent,,0,1,1,,,,3662366
+2,Netherlands,2,DJ Reekers,JM Anderson,B Zuiderent,,0,4,4,,,,3662366
+2,Netherlands,2,DJ Reekers,JM Anderson,B Zuiderent,,0,0,0,,,,3662366
+2,Netherlands,2,DJ Reekers,JM Anderson,B Zuiderent,,0,6,6,,,,3662366
+2,Netherlands,2,DJ Reekers,JM Anderson,B Zuiderent,,0,2,2,,,,3662366
+2,Netherlands,2,DJ Reekers,JM Anderson,B Zuiderent,legbyes,1,1,0,,,,3662366
+2,Netherlands,2,B Zuiderent,JM Anderson,DJ Reekers,,0,0,0,,,,3662366
+2,Netherlands,3,DJ Reekers,SCJ Broad,B Zuiderent,,0,0,0,,,,3662366
+2,Netherlands,3,DJ Reekers,SCJ Broad,B Zuiderent,,0,0,0,,,,3662366
+2,Netherlands,3,DJ Reekers,SCJ Broad,B Zuiderent,,0,0,0,caught,DJ Reekers,OA Shah,3662366
+2,Netherlands,3,B Zuiderent,SCJ Broad,TN de Grooth,,0,1,1,,,,3662366
+2,Netherlands,3,TN de Grooth,SCJ Broad,B Zuiderent,,0,4,4,,,,3662366
+2,Netherlands,3,TN de Grooth,SCJ Broad,B Zuiderent,,0,0,0,,,,3662366
+2,Netherlands,4,B Zuiderent,RJ Sidebottom,TN de Grooth,legbyes,2,2,0,,,,3662366
+2,Netherlands,4,B Zuiderent,RJ Sidebottom,TN de Grooth,,0,1,1,,,,3662366
+2,Netherlands,4,TN de Grooth,RJ Sidebottom,B Zuiderent,,0,0,0,,,,3662366
+2,Netherlands,4,TN de Grooth,RJ Sidebottom,B Zuiderent,,0,0,0,,,,3662366
+2,Netherlands,4,TN de Grooth,RJ Sidebottom,B Zuiderent,,0,1,1,,,,3662366
+2,Netherlands,4,B Zuiderent,RJ Sidebottom,TN de Grooth,legbyes,4,4,0,,,,3662366
+2,Netherlands,5,TN de Grooth,SCJ Broad,B Zuiderent,,0,4,4,,,,3662366
+2,Netherlands,5,TN de Grooth,SCJ Broad,B Zuiderent,,0,1,1,,,,3662366
+2,Netherlands,5,B Zuiderent,SCJ Broad,TN de Grooth,,0,0,0,,,,3662366
+2,Netherlands,5,B Zuiderent,SCJ Broad,TN de Grooth,,0,4,4,,,,3662366
+2,Netherlands,5,B Zuiderent,SCJ Broad,TN de Grooth,legbyes,1,1,0,,,,3662366
+2,Netherlands,5,TN de Grooth,SCJ Broad,B Zuiderent,,0,6,6,,,,3662366
+2,Netherlands,6,B Zuiderent,AU Rashid,TN de Grooth,,0,1,1,,,,3662366
+2,Netherlands,6,TN de Grooth,AU Rashid,B Zuiderent,,0,4,4,,,,3662366
+2,Netherlands,6,TN de Grooth,AU Rashid,B Zuiderent,,0,0,0,,,,3662366
+2,Netherlands,6,TN de Grooth,AU Rashid,B Zuiderent,,0,0,0,,,,3662366
+2,Netherlands,6,TN de Grooth,AU Rashid,B Zuiderent,,0,1,1,,,,3662366
+2,Netherlands,6,B Zuiderent,AU Rashid,TN de Grooth,,0,2,2,,,,3662366
+2,Netherlands,7,TN de Grooth,LJ Wright,B Zuiderent,,0,1,1,,,,3662366
+2,Netherlands,7,B Zuiderent,LJ Wright,TN de Grooth,,0,1,1,,,,3662366
+2,Netherlands,7,TN de Grooth,LJ Wright,B Zuiderent,,0,1,1,,,,3662366
+2,Netherlands,7,B Zuiderent,LJ Wright,TN de Grooth,,0,1,1,,,,3662366
+2,Netherlands,7,TN de Grooth,LJ Wright,B Zuiderent,,0,2,2,,,,3662366
+2,Netherlands,7,TN de Grooth,LJ Wright,B Zuiderent,,0,0,0,,,,3662366
+2,Netherlands,8,B Zuiderent,AU Rashid,TN de Grooth,,0,0,0,stumped,B Zuiderent,JS Foster,3662366
+2,Netherlands,8,PW Borren,AU Rashid,TN de Grooth,,0,4,4,,,,3662366
+2,Netherlands,8,PW Borren,AU Rashid,TN de Grooth,,0,1,1,,,,3662366
+2,Netherlands,8,TN de Grooth,AU Rashid,PW Borren,,0,3,3,,,,3662366
+2,Netherlands,8,PW Borren,AU Rashid,TN de Grooth,,0,1,1,,,,3662366
+2,Netherlands,8,TN de Grooth,AU Rashid,PW Borren,,0,4,4,,,,3662366
+2,Netherlands,9,PW Borren,LJ Wright,TN de Grooth,,0,1,1,,,,3662366
+2,Netherlands,9,TN de Grooth,LJ Wright,PW Borren,,0,4,4,,,,3662366
+2,Netherlands,9,TN de Grooth,LJ Wright,PW Borren,,0,2,2,,,,3662366
+2,Netherlands,9,TN de Grooth,LJ Wright,PW Borren,,0,1,1,,,,3662366
+2,Netherlands,9,PW Borren,LJ Wright,TN de Grooth,wides,1,1,0,,,,3662366
+2,Netherlands,9,PW Borren,LJ Wright,TN de Grooth,,0,1,1,,,,3662366
+2,Netherlands,9,TN de Grooth,LJ Wright,PW Borren,,0,2,2,,,,3662366
+2,Netherlands,10,PW Borren,PD Collingwood,TN de Grooth,,0,1,1,,,,3662366
+2,Netherlands,10,TN de Grooth,PD Collingwood,PW Borren,,0,1,1,,,,3662366
+2,Netherlands,10,PW Borren,PD Collingwood,TN de Grooth,,0,1,1,,,,3662366
+2,Netherlands,10,TN de Grooth,PD Collingwood,PW Borren,,0,4,4,,,,3662366
+2,Netherlands,10,TN de Grooth,PD Collingwood,PW Borren,,0,0,0,,,,3662366
+2,Netherlands,10,TN de Grooth,PD Collingwood,PW Borren,,0,1,1,,,,3662366
+2,Netherlands,11,TN de Grooth,RJ Sidebottom,PW Borren,,0,1,1,,,,3662366
+2,Netherlands,11,PW Borren,RJ Sidebottom,TN de Grooth,,0,1,1,,,,3662366
+2,Netherlands,11,TN de Grooth,RJ Sidebottom,PW Borren,,0,0,0,,,,3662366
+2,Netherlands,11,TN de Grooth,RJ Sidebottom,PW Borren,,0,1,1,,,,3662366
+2,Netherlands,11,PW Borren,RJ Sidebottom,TN de Grooth,,0,2,2,,,,3662366
+2,Netherlands,11,PW Borren,RJ Sidebottom,TN de Grooth,,0,1,1,,,,3662366
+2,Netherlands,12,PW Borren,PD Collingwood,TN de Grooth,legbyes,2,2,0,,,,3662366
+2,Netherlands,12,PW Borren,PD Collingwood,TN de Grooth,,0,0,0,,,,3662366
+2,Netherlands,12,PW Borren,PD Collingwood,TN de Grooth,,0,2,2,,,,3662366
+2,Netherlands,12,PW Borren,PD Collingwood,TN de Grooth,,0,6,6,,,,3662366
+2,Netherlands,12,PW Borren,PD Collingwood,TN de Grooth,,0,1,1,,,,3662366
+2,Netherlands,12,TN de Grooth,PD Collingwood,PW Borren,,0,0,0,caught,TN de Grooth,RWT Key,3662366
+2,Netherlands,13,PW Borren,SCJ Broad,RN ten Doeschate,,0,0,0,,,,3662366
+2,Netherlands,13,PW Borren,SCJ Broad,RN ten Doeschate,,0,2,2,,,,3662366
+2,Netherlands,13,PW Borren,SCJ Broad,RN ten Doeschate,,0,1,1,,,,3662366
+2,Netherlands,13,RN ten Doeschate,SCJ Broad,PW Borren,,0,1,1,,,,3662366
+2,Netherlands,13,PW Borren,SCJ Broad,RN ten Doeschate,wides,1,1,0,,,,3662366
+2,Netherlands,13,PW Borren,SCJ Broad,RN ten Doeschate,,0,0,0,,,,3662366
+2,Netherlands,13,PW Borren,SCJ Broad,RN ten Doeschate,,0,1,1,,,,3662366
+2,Netherlands,14,PW Borren,AU Rashid,RN ten Doeschate,,0,0,0,,,,3662366
+2,Netherlands,14,PW Borren,AU Rashid,RN ten Doeschate,,0,1,1,,,,3662366
+2,Netherlands,14,RN ten Doeschate,AU Rashid,PW Borren,,0,0,0,,,,3662366
+2,Netherlands,14,RN ten Doeschate,AU Rashid,PW Borren,,0,4,4,,,,3662366
+2,Netherlands,14,RN ten Doeschate,AU Rashid,PW Borren,,0,0,0,,,,3662366
+2,Netherlands,14,RN ten Doeschate,AU Rashid,PW Borren,,0,1,1,,,,3662366
+2,Netherlands,15,RN ten Doeschate,JM Anderson,PW Borren,,0,1,1,,,,3662366
+2,Netherlands,15,PW Borren,JM Anderson,RN ten Doeschate,,0,1,1,,,,3662366
+2,Netherlands,15,RN ten Doeschate,JM Anderson,PW Borren,,0,1,1,,,,3662366
+2,Netherlands,15,PW Borren,JM Anderson,RN ten Doeschate,,0,1,1,,,,3662366
+2,Netherlands,15,RN ten Doeschate,JM Anderson,PW Borren,,0,1,1,,,,3662366
+2,Netherlands,15,PW Borren,JM Anderson,RN ten Doeschate,,0,0,0,caught,PW Borren,OA Shah,3662366
+2,Netherlands,16,DLS van Bunge,AU Rashid,RN ten Doeschate,,0,0,0,,,,3662366
+2,Netherlands,16,DLS van Bunge,AU Rashid,RN ten Doeschate,,0,1,1,,,,3662366
+2,Netherlands,16,RN ten Doeschate,AU Rashid,DLS van Bunge,,0,3,3,,,,3662366
+2,Netherlands,16,DLS van Bunge,AU Rashid,RN ten Doeschate,,0,4,4,,,,3662366
+2,Netherlands,16,DLS van Bunge,AU Rashid,RN ten Doeschate,,0,1,1,,,,3662366
+2,Netherlands,16,RN ten Doeschate,AU Rashid,DLS van Bunge,,0,0,0,,,,3662366
+2,Netherlands,17,DLS van Bunge,JM Anderson,RN ten Doeschate,,0,1,1,,,,3662366
+2,Netherlands,17,RN ten Doeschate,JM Anderson,DLS van Bunge,,0,1,1,,,,3662366
+2,Netherlands,17,DLS van Bunge,JM Anderson,RN ten Doeschate,,0,1,1,,,,3662366
+2,Netherlands,17,RN ten Doeschate,JM Anderson,DLS van Bunge,,0,1,1,,,,3662366
+2,Netherlands,17,DLS van Bunge,JM Anderson,RN ten Doeschate,,0,0,0,,,,3662366
+2,Netherlands,17,DLS van Bunge,JM Anderson,RN ten Doeschate,,0,0,0,caught,DLS van Bunge,LJ Wright,3662366
+2,Netherlands,18,E Schiferli,RJ Sidebottom,RN ten Doeschate,,0,0,0,,,,3662366
+2,Netherlands,18,E Schiferli,RJ Sidebottom,RN ten Doeschate,legbyes,1,1,0,,,,3662366
+2,Netherlands,18,RN ten Doeschate,RJ Sidebottom,E Schiferli,,0,4,4,,,,3662366
+2,Netherlands,18,RN ten Doeschate,RJ Sidebottom,E Schiferli,,0,1,1,,,,3662366
+2,Netherlands,18,E Schiferli,RJ Sidebottom,RN ten Doeschate,legbyes,2,2,0,,,,3662366
+2,Netherlands,18,E Schiferli,RJ Sidebottom,RN ten Doeschate,,0,2,2,,,,3662366
+2,Netherlands,19,RN ten Doeschate,SCJ Broad,E Schiferli,,0,1,1,,,,3662366
+2,Netherlands,19,E Schiferli,SCJ Broad,RN ten Doeschate,,0,1,1,,,,3662366
+2,Netherlands,19,RN ten Doeschate,SCJ Broad,E Schiferli,,0,1,1,,,,3662366
+2,Netherlands,19,E Schiferli,SCJ Broad,RN ten Doeschate,byes,1,1,0,,,,3662366
+2,Netherlands,19,RN ten Doeschate,SCJ Broad,E Schiferli,,0,1,1,,,,3662366
+2,Netherlands,19,E Schiferli,SCJ Broad,RN ten Doeschate,,0,2,2,,,,3662366

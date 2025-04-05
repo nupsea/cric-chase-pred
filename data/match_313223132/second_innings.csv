@@ -1,0 +1,103 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Sri Lanka,0,DPMD Jayawardene,DP Nannes,ST Jayasuriya,,0,1,1,,,,313223132
+2,Sri Lanka,0,ST Jayasuriya,DP Nannes,DPMD Jayawardene,,0,2,2,,,,313223132
+2,Sri Lanka,0,ST Jayasuriya,DP Nannes,DPMD Jayawardene,,0,0,0,,,,313223132
+2,Sri Lanka,0,ST Jayasuriya,DP Nannes,DPMD Jayawardene,legbyes,1,1,0,,,,313223132
+2,Sri Lanka,0,DPMD Jayawardene,DP Nannes,ST Jayasuriya,,0,1,1,,,,313223132
+2,Sri Lanka,0,ST Jayasuriya,DP Nannes,DPMD Jayawardene,,0,1,1,,,,313223132
+2,Sri Lanka,1,ST Jayasuriya,SW Tait,DPMD Jayawardene,wides,1,1,0,,,,313223132
+2,Sri Lanka,1,ST Jayasuriya,SW Tait,DPMD Jayawardene,,0,0,0,,,,313223132
+2,Sri Lanka,1,ST Jayasuriya,SW Tait,DPMD Jayawardene,,0,0,0,,,,313223132
+2,Sri Lanka,1,ST Jayasuriya,SW Tait,DPMD Jayawardene,,0,1,1,,,,313223132
+2,Sri Lanka,1,DPMD Jayawardene,SW Tait,ST Jayasuriya,wides,1,1,0,,,,313223132
+2,Sri Lanka,1,DPMD Jayawardene,SW Tait,ST Jayasuriya,,0,1,1,,,,313223132
+2,Sri Lanka,1,ST Jayasuriya,SW Tait,DPMD Jayawardene,,0,0,0,,,,313223132
+2,Sri Lanka,1,ST Jayasuriya,SW Tait,DPMD Jayawardene,,0,0,0,,,,313223132
+2,Sri Lanka,2,DPMD Jayawardene,DP Nannes,ST Jayasuriya,,0,0,0,,,,313223132
+2,Sri Lanka,2,DPMD Jayawardene,DP Nannes,ST Jayasuriya,,0,6,6,,,,313223132
+2,Sri Lanka,2,DPMD Jayawardene,DP Nannes,ST Jayasuriya,,0,0,0,caught,DPMD Jayawardene,SPD Smith,313223132
+2,Sri Lanka,2,ST Jayasuriya,DP Nannes,KC Sangakkara,,0,0,0,,,,313223132
+2,Sri Lanka,2,ST Jayasuriya,DP Nannes,KC Sangakkara,,0,0,0,,,,313223132
+2,Sri Lanka,2,ST Jayasuriya,DP Nannes,KC Sangakkara,,0,0,0,,,,313223132
+2,Sri Lanka,3,KC Sangakkara,SW Tait,ST Jayasuriya,,0,2,2,,,,313223132
+2,Sri Lanka,3,KC Sangakkara,SW Tait,ST Jayasuriya,,0,0,0,,,,313223132
+2,Sri Lanka,3,KC Sangakkara,SW Tait,ST Jayasuriya,,0,0,0,caught,KC Sangakkara,BJ Haddin,313223132
+2,Sri Lanka,3,TM Dilshan,SW Tait,ST Jayasuriya,,0,4,4,,,,313223132
+2,Sri Lanka,3,TM Dilshan,SW Tait,ST Jayasuriya,,0,0,0,,,,313223132
+2,Sri Lanka,3,TM Dilshan,SW Tait,ST Jayasuriya,,0,0,0,,,,313223132
+2,Sri Lanka,4,ST Jayasuriya,DP Nannes,TM Dilshan,,0,1,1,,,,313223132
+2,Sri Lanka,4,TM Dilshan,DP Nannes,ST Jayasuriya,,0,2,2,,,,313223132
+2,Sri Lanka,4,TM Dilshan,DP Nannes,ST Jayasuriya,,0,0,0,,,,313223132
+2,Sri Lanka,4,TM Dilshan,DP Nannes,ST Jayasuriya,,0,1,1,,,,313223132
+2,Sri Lanka,4,ST Jayasuriya,DP Nannes,TM Dilshan,,0,0,0,lbw,ST Jayasuriya,,313223132
+2,Sri Lanka,4,AD Mathews,DP Nannes,TM Dilshan,,0,4,4,,,,313223132
+2,Sri Lanka,5,TM Dilshan,SR Watson,AD Mathews,,0,4,4,,,,313223132
+2,Sri Lanka,5,TM Dilshan,SR Watson,AD Mathews,,0,6,6,,,,313223132
+2,Sri Lanka,5,TM Dilshan,SR Watson,AD Mathews,,0,0,0,,,,313223132
+2,Sri Lanka,5,TM Dilshan,SR Watson,AD Mathews,,0,1,1,,,,313223132
+2,Sri Lanka,5,AD Mathews,SR Watson,TM Dilshan,,0,4,4,,,,313223132
+2,Sri Lanka,5,AD Mathews,SR Watson,TM Dilshan,,0,0,0,,,,313223132
+2,Sri Lanka,6,TM Dilshan,MG Johnson,AD Mathews,,0,2,2,,,,313223132
+2,Sri Lanka,6,TM Dilshan,MG Johnson,AD Mathews,wides,1,1,0,,,,313223132
+2,Sri Lanka,6,TM Dilshan,MG Johnson,AD Mathews,,0,0,0,caught,TM Dilshan,CL White,313223132
+2,Sri Lanka,6,LD Chandimal,MG Johnson,AD Mathews,,0,0,0,,,,313223132
+2,Sri Lanka,6,LD Chandimal,MG Johnson,AD Mathews,,0,0,0,,,,313223132
+2,Sri Lanka,6,LD Chandimal,MG Johnson,AD Mathews,,0,1,1,,,,313223132
+2,Sri Lanka,6,AD Mathews,MG Johnson,LD Chandimal,,0,0,0,caught,AD Mathews,MEK Hussey,313223132
+2,Sri Lanka,7,LD Chandimal,SPD Smith,CK Kapugedera,,0,1,1,,,,313223132
+2,Sri Lanka,7,CK Kapugedera,SPD Smith,LD Chandimal,wides,1,1,0,,,,313223132
+2,Sri Lanka,7,CK Kapugedera,SPD Smith,LD Chandimal,,0,1,1,,,,313223132
+2,Sri Lanka,7,LD Chandimal,SPD Smith,CK Kapugedera,,0,1,1,,,,313223132
+2,Sri Lanka,7,CK Kapugedera,SPD Smith,LD Chandimal,,0,0,0,,,,313223132
+2,Sri Lanka,7,CK Kapugedera,SPD Smith,LD Chandimal,,0,0,0,,,,313223132
+2,Sri Lanka,7,CK Kapugedera,SPD Smith,LD Chandimal,,0,1,1,,,,313223132
+2,Sri Lanka,8,CK Kapugedera,MG Johnson,LD Chandimal,,0,1,1,,,,313223132
+2,Sri Lanka,8,LD Chandimal,MG Johnson,CK Kapugedera,,0,2,2,,,,313223132
+2,Sri Lanka,8,LD Chandimal,MG Johnson,CK Kapugedera,,0,1,1,,,,313223132
+2,Sri Lanka,8,CK Kapugedera,MG Johnson,LD Chandimal,,0,0,0,,,,313223132
+2,Sri Lanka,8,CK Kapugedera,MG Johnson,LD Chandimal,,0,4,4,,,,313223132
+2,Sri Lanka,8,CK Kapugedera,MG Johnson,LD Chandimal,,0,1,1,,,,313223132
+2,Sri Lanka,9,CK Kapugedera,SPD Smith,LD Chandimal,legbyes,1,1,0,,,,313223132
+2,Sri Lanka,9,LD Chandimal,SPD Smith,CK Kapugedera,,0,1,1,,,,313223132
+2,Sri Lanka,9,CK Kapugedera,SPD Smith,LD Chandimal,,0,1,1,,,,313223132
+2,Sri Lanka,9,LD Chandimal,SPD Smith,CK Kapugedera,,0,0,0,,,,313223132
+2,Sri Lanka,9,LD Chandimal,SPD Smith,CK Kapugedera,,0,0,0,,,,313223132
+2,Sri Lanka,9,LD Chandimal,SPD Smith,CK Kapugedera,,0,1,1,,,,313223132
+2,Sri Lanka,10,LD Chandimal,SR Watson,CK Kapugedera,,0,0,0,,,,313223132
+2,Sri Lanka,10,LD Chandimal,SR Watson,CK Kapugedera,,0,1,1,,,,313223132
+2,Sri Lanka,10,CK Kapugedera,SR Watson,LD Chandimal,,0,1,1,,,,313223132
+2,Sri Lanka,10,LD Chandimal,SR Watson,CK Kapugedera,,0,1,1,,,,313223132
+2,Sri Lanka,10,CK Kapugedera,SR Watson,LD Chandimal,,0,1,1,,,,313223132
+2,Sri Lanka,10,LD Chandimal,SR Watson,CK Kapugedera,,0,0,0,,,,313223132
+2,Sri Lanka,11,CK Kapugedera,SPD Smith,LD Chandimal,,0,1,1,,,,313223132
+2,Sri Lanka,11,LD Chandimal,SPD Smith,CK Kapugedera,,0,1,1,,,,313223132
+2,Sri Lanka,11,CK Kapugedera,SPD Smith,LD Chandimal,,0,0,0,,,,313223132
+2,Sri Lanka,11,CK Kapugedera,SPD Smith,LD Chandimal,,0,0,0,bowled,CK Kapugedera,,313223132
+2,Sri Lanka,11,S Randiv,SPD Smith,LD Chandimal,,0,1,1,,,,313223132
+2,Sri Lanka,11,LD Chandimal,SPD Smith,S Randiv,,0,1,1,,,,313223132
+2,Sri Lanka,12,LD Chandimal,SR Watson,S Randiv,,0,2,2,,,,313223132
+2,Sri Lanka,12,LD Chandimal,SR Watson,S Randiv,,0,4,4,,,,313223132
+2,Sri Lanka,12,LD Chandimal,SR Watson,S Randiv,,0,0,0,,,,313223132
+2,Sri Lanka,12,LD Chandimal,SR Watson,S Randiv,,0,1,1,,,,313223132
+2,Sri Lanka,12,S Randiv,SR Watson,LD Chandimal,,0,1,1,run out,S Randiv,DP Nannes,313223132
+2,Sri Lanka,12,SL Malinga,SR Watson,LD Chandimal,,0,0,0,,,,313223132
+2,Sri Lanka,13,LD Chandimal,SPD Smith,SL Malinga,,0,0,0,,,,313223132
+2,Sri Lanka,13,LD Chandimal,SPD Smith,SL Malinga,,0,0,0,,,,313223132
+2,Sri Lanka,13,LD Chandimal,SPD Smith,SL Malinga,,0,0,0,stumped,LD Chandimal,BJ Haddin,313223132
+2,Sri Lanka,13,BAW Mendis,SPD Smith,SL Malinga,,0,0,0,,,,313223132
+2,Sri Lanka,13,BAW Mendis,SPD Smith,SL Malinga,,0,0,0,,,,313223132
+2,Sri Lanka,13,BAW Mendis,SPD Smith,SL Malinga,,0,0,0,,,,313223132
+2,Sri Lanka,14,SL Malinga,MG Johnson,BAW Mendis,,0,0,0,,,,313223132
+2,Sri Lanka,14,SL Malinga,MG Johnson,BAW Mendis,,0,0,0,,,,313223132
+2,Sri Lanka,14,SL Malinga,MG Johnson,BAW Mendis,,0,0,0,,,,313223132
+2,Sri Lanka,14,SL Malinga,MG Johnson,BAW Mendis,,0,0,0,,,,313223132
+2,Sri Lanka,14,SL Malinga,MG Johnson,BAW Mendis,,0,1,1,,,,313223132
+2,Sri Lanka,14,BAW Mendis,MG Johnson,SL Malinga,,0,0,0,,,,313223132
+2,Sri Lanka,15,SL Malinga,MJ Clarke,BAW Mendis,,0,0,0,,,,313223132
+2,Sri Lanka,15,SL Malinga,MJ Clarke,BAW Mendis,,0,0,0,caught,SL Malinga,SPD Smith,313223132
+2,Sri Lanka,15,BAW Mendis,MJ Clarke,UWMBCA Welegedara,,0,0,0,,,,313223132
+2,Sri Lanka,15,BAW Mendis,MJ Clarke,UWMBCA Welegedara,,0,1,1,,,,313223132
+2,Sri Lanka,15,UWMBCA Welegedara,MJ Clarke,BAW Mendis,,0,0,0,,,,313223132
+2,Sri Lanka,15,UWMBCA Welegedara,MJ Clarke,BAW Mendis,,0,1,1,,,,313223132
+2,Sri Lanka,16,UWMBCA Welegedara,MG Johnson,BAW Mendis,,0,1,1,,,,313223132
+2,Sri Lanka,16,BAW Mendis,MG Johnson,UWMBCA Welegedara,,0,0,0,bowled,BAW Mendis,,313223132

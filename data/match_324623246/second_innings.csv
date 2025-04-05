@@ -1,0 +1,126 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,South Africa,0,SA Fritz,SEA Ruck,T Chetty,,0,1,1,,,,324623246
+2,South Africa,0,T Chetty,SEA Ruck,SA Fritz,,0,0,0,,,,324623246
+2,South Africa,0,T Chetty,SEA Ruck,SA Fritz,,0,0,0,,,,324623246
+2,South Africa,0,T Chetty,SEA Ruck,SA Fritz,,0,0,0,,,,324623246
+2,South Africa,0,T Chetty,SEA Ruck,SA Fritz,,0,0,0,,,,324623246
+2,South Africa,0,T Chetty,SEA Ruck,SA Fritz,,0,1,1,,,,324623246
+2,South Africa,1,T Chetty,EM Bermingham,SA Fritz,,0,0,0,,,,324623246
+2,South Africa,1,T Chetty,EM Bermingham,SA Fritz,,0,1,1,,,,324623246
+2,South Africa,1,SA Fritz,EM Bermingham,T Chetty,,0,0,0,lbw,SA Fritz,,324623246
+2,South Africa,1,AL Hodgkinson,EM Bermingham,T Chetty,,0,4,4,,,,324623246
+2,South Africa,1,AL Hodgkinson,EM Bermingham,T Chetty,,0,0,0,,,,324623246
+2,South Africa,1,AL Hodgkinson,EM Bermingham,T Chetty,,0,0,0,,,,324623246
+2,South Africa,2,T Chetty,SEA Ruck,AL Hodgkinson,,0,4,4,,,,324623246
+2,South Africa,2,T Chetty,SEA Ruck,AL Hodgkinson,,0,1,1,,,,324623246
+2,South Africa,2,AL Hodgkinson,SEA Ruck,T Chetty,,0,0,0,,,,324623246
+2,South Africa,2,AL Hodgkinson,SEA Ruck,T Chetty,,0,0,0,,,,324623246
+2,South Africa,2,AL Hodgkinson,SEA Ruck,T Chetty,wides,1,1,0,,,,324623246
+2,South Africa,2,AL Hodgkinson,SEA Ruck,T Chetty,,0,1,1,,,,324623246
+2,South Africa,2,T Chetty,SEA Ruck,AL Hodgkinson,,0,0,0,,,,324623246
+2,South Africa,3,AL Hodgkinson,EM Bermingham,T Chetty,,0,0,0,,,,324623246
+2,South Africa,3,AL Hodgkinson,EM Bermingham,T Chetty,,0,0,0,,,,324623246
+2,South Africa,3,AL Hodgkinson,EM Bermingham,T Chetty,,0,1,1,,,,324623246
+2,South Africa,3,T Chetty,EM Bermingham,AL Hodgkinson,,0,0,0,stumped,T Chetty,KJ Martin,324623246
+2,South Africa,3,SM Benade,EM Bermingham,AL Hodgkinson,,0,0,0,,,,324623246
+2,South Africa,3,SM Benade,EM Bermingham,AL Hodgkinson,,0,0,0,,,,324623246
+2,South Africa,4,AL Hodgkinson,SEA Ruck,SM Benade,,0,0,0,,,,324623246
+2,South Africa,4,AL Hodgkinson,SEA Ruck,SM Benade,,0,0,0,,,,324623246
+2,South Africa,4,AL Hodgkinson,SEA Ruck,SM Benade,,0,0,0,,,,324623246
+2,South Africa,4,AL Hodgkinson,SEA Ruck,SM Benade,,0,0,0,,,,324623246
+2,South Africa,4,AL Hodgkinson,SEA Ruck,SM Benade,,0,1,1,,,,324623246
+2,South Africa,4,SM Benade,SEA Ruck,AL Hodgkinson,,0,1,1,,,,324623246
+2,South Africa,5,SM Benade,EM Bermingham,AL Hodgkinson,,0,6,6,,,,324623246
+2,South Africa,5,SM Benade,EM Bermingham,AL Hodgkinson,,0,0,0,,,,324623246
+2,South Africa,5,SM Benade,EM Bermingham,AL Hodgkinson,,0,4,4,,,,324623246
+2,South Africa,5,SM Benade,EM Bermingham,AL Hodgkinson,,0,1,1,,,,324623246
+2,South Africa,5,AL Hodgkinson,EM Bermingham,SM Benade,,0,0,0,,,,324623246
+2,South Africa,5,AL Hodgkinson,EM Bermingham,SM Benade,,0,4,4,,,,324623246
+2,South Africa,6,SM Benade,NJ Browne,AL Hodgkinson,,0,0,0,,,,324623246
+2,South Africa,6,SM Benade,NJ Browne,AL Hodgkinson,,0,0,0,,,,324623246
+2,South Africa,6,SM Benade,NJ Browne,AL Hodgkinson,,0,0,0,,,,324623246
+2,South Africa,6,SM Benade,NJ Browne,AL Hodgkinson,,0,1,1,,,,324623246
+2,South Africa,6,AL Hodgkinson,NJ Browne,SM Benade,,0,0,0,,,,324623246
+2,South Africa,6,AL Hodgkinson,NJ Browne,SM Benade,,0,1,1,,,,324623246
+2,South Africa,7,AL Hodgkinson,SFM Devine,SM Benade,,0,1,1,,,,324623246
+2,South Africa,7,SM Benade,SFM Devine,AL Hodgkinson,,0,1,1,,,,324623246
+2,South Africa,7,AL Hodgkinson,SFM Devine,SM Benade,,0,0,0,,,,324623246
+2,South Africa,7,AL Hodgkinson,SFM Devine,SM Benade,,0,1,1,,,,324623246
+2,South Africa,7,SM Benade,SFM Devine,AL Hodgkinson,,0,4,4,,,,324623246
+2,South Africa,7,SM Benade,SFM Devine,AL Hodgkinson,wides,1,1,0,,,,324623246
+2,South Africa,7,SM Benade,SFM Devine,AL Hodgkinson,,0,6,6,,,,324623246
+2,South Africa,8,AL Hodgkinson,NJ Browne,SM Benade,,0,4,4,,,,324623246
+2,South Africa,8,AL Hodgkinson,NJ Browne,SM Benade,,0,1,1,,,,324623246
+2,South Africa,8,SM Benade,NJ Browne,AL Hodgkinson,,0,0,0,,,,324623246
+2,South Africa,8,SM Benade,NJ Browne,AL Hodgkinson,,0,0,0,caught,SM Benade,MJG Nielsen,324623246
+2,South Africa,8,AL Hodgkinson,NJ Browne,M du Preez,,0,0,0,,,,324623246
+2,South Africa,8,AL Hodgkinson,NJ Browne,M du Preez,,0,0,0,,,,324623246
+2,South Africa,9,M du Preez,MJG Nielsen,AL Hodgkinson,,0,1,1,,,,324623246
+2,South Africa,9,AL Hodgkinson,MJG Nielsen,M du Preez,,0,0,0,,,,324623246
+2,South Africa,9,AL Hodgkinson,MJG Nielsen,M du Preez,,0,2,2,,,,324623246
+2,South Africa,9,AL Hodgkinson,MJG Nielsen,M du Preez,,0,1,1,,,,324623246
+2,South Africa,9,M du Preez,MJG Nielsen,AL Hodgkinson,,0,0,0,,,,324623246
+2,South Africa,9,M du Preez,MJG Nielsen,AL Hodgkinson,,0,4,4,,,,324623246
+2,South Africa,10,AL Hodgkinson,NJ Browne,M du Preez,,0,0,0,,,,324623246
+2,South Africa,10,AL Hodgkinson,NJ Browne,M du Preez,,0,4,4,,,,324623246
+2,South Africa,10,AL Hodgkinson,NJ Browne,M du Preez,,0,0,0,,,,324623246
+2,South Africa,10,AL Hodgkinson,NJ Browne,M du Preez,,0,1,1,,,,324623246
+2,South Africa,10,M du Preez,NJ Browne,AL Hodgkinson,,0,0,0,caught,M du Preez,SFM Devine,324623246
+2,South Africa,10,AL Hodgkinson,NJ Browne,Y van der Westhuizen,,0,1,1,,,,324623246
+2,South Africa,11,AL Hodgkinson,FL Mackay,Y van der Westhuizen,,0,2,2,,,,324623246
+2,South Africa,11,AL Hodgkinson,FL Mackay,Y van der Westhuizen,,0,1,1,,,,324623246
+2,South Africa,11,Y van der Westhuizen,FL Mackay,AL Hodgkinson,,0,0,0,,,,324623246
+2,South Africa,11,Y van der Westhuizen,FL Mackay,AL Hodgkinson,,0,1,1,,,,324623246
+2,South Africa,11,AL Hodgkinson,FL Mackay,Y van der Westhuizen,,0,0,0,bowled,AL Hodgkinson,,324623246
+2,South Africa,11,M Kapp,FL Mackay,Y van der Westhuizen,,0,0,0,,,,324623246
+2,South Africa,12,Y van der Westhuizen,NJ Browne,M Kapp,,0,0,0,caught,Y van der Westhuizen,SJ McGlashan,324623246
+2,South Africa,12,D van Niekerk,NJ Browne,M Kapp,,0,0,0,,,,324623246
+2,South Africa,12,D van Niekerk,NJ Browne,M Kapp,,0,0,0,,,,324623246
+2,South Africa,12,D van Niekerk,NJ Browne,M Kapp,,0,0,0,,,,324623246
+2,South Africa,12,D van Niekerk,NJ Browne,M Kapp,,0,0,0,,,,324623246
+2,South Africa,12,D van Niekerk,NJ Browne,M Kapp,,0,0,0,,,,324623246
+2,South Africa,13,M Kapp,FL Mackay,D van Niekerk,,0,2,2,,,,324623246
+2,South Africa,13,M Kapp,FL Mackay,D van Niekerk,,0,1,1,,,,324623246
+2,South Africa,13,D van Niekerk,FL Mackay,M Kapp,,0,0,0,,,,324623246
+2,South Africa,13,D van Niekerk,FL Mackay,M Kapp,,0,1,1,,,,324623246
+2,South Africa,13,M Kapp,FL Mackay,D van Niekerk,,0,2,2,,,,324623246
+2,South Africa,13,M Kapp,FL Mackay,D van Niekerk,,0,1,1,,,,324623246
+2,South Africa,14,M Kapp,SFM Devine,D van Niekerk,,0,0,0,,,,324623246
+2,South Africa,14,M Kapp,SFM Devine,D van Niekerk,,0,1,1,,,,324623246
+2,South Africa,14,D van Niekerk,SFM Devine,M Kapp,,0,1,1,,,,324623246
+2,South Africa,14,M Kapp,SFM Devine,D van Niekerk,,0,2,2,,,,324623246
+2,South Africa,14,M Kapp,SFM Devine,D van Niekerk,,0,0,0,caught,M Kapp,KT Perkins,324623246
+2,South Africa,14,S Loubser,SFM Devine,D van Niekerk,,0,1,1,,,,324623246
+2,South Africa,15,S Loubser,FL Mackay,D van Niekerk,,0,1,1,,,,324623246
+2,South Africa,15,D van Niekerk,FL Mackay,S Loubser,,0,0,0,,,,324623246
+2,South Africa,15,D van Niekerk,FL Mackay,S Loubser,,0,4,4,,,,324623246
+2,South Africa,15,D van Niekerk,FL Mackay,S Loubser,,0,1,1,,,,324623246
+2,South Africa,15,S Loubser,FL Mackay,D van Niekerk,,0,1,1,,,,324623246
+2,South Africa,15,D van Niekerk,FL Mackay,S Loubser,,0,1,1,,,,324623246
+2,South Africa,16,D van Niekerk,MJG Nielsen,S Loubser,,0,4,4,,,,324623246
+2,South Africa,16,D van Niekerk,MJG Nielsen,S Loubser,,0,1,1,,,,324623246
+2,South Africa,16,S Loubser,MJG Nielsen,D van Niekerk,,0,4,4,,,,324623246
+2,South Africa,16,S Loubser,MJG Nielsen,D van Niekerk,,0,0,0,caught,S Loubser,EM Bermingham,324623246
+2,South Africa,16,D van Niekerk,MJG Nielsen,S Ismail,,0,1,1,,,,324623246
+2,South Africa,16,S Ismail,MJG Nielsen,D van Niekerk,,0,0,0,,,,324623246
+2,South Africa,17,D van Niekerk,FL Mackay,S Ismail,,0,1,1,,,,324623246
+2,South Africa,17,S Ismail,FL Mackay,D van Niekerk,,0,1,1,,,,324623246
+2,South Africa,17,D van Niekerk,FL Mackay,S Ismail,,0,4,4,,,,324623246
+2,South Africa,17,D van Niekerk,FL Mackay,S Ismail,,0,1,1,,,,324623246
+2,South Africa,17,S Ismail,FL Mackay,D van Niekerk,,0,1,1,,,,324623246
+2,South Africa,17,D van Niekerk,FL Mackay,S Ismail,,0,4,4,,,,324623246
+2,South Africa,18,S Ismail,SFM Devine,D van Niekerk,,0,0,0,caught,S Ismail,KJ Martin,324623246
+2,South Africa,18,MM Letsoalo,SFM Devine,D van Niekerk,,0,1,1,,,,324623246
+2,South Africa,18,D van Niekerk,SFM Devine,MM Letsoalo,,0,0,0,,,,324623246
+2,South Africa,18,D van Niekerk,SFM Devine,MM Letsoalo,,0,2,2,,,,324623246
+2,South Africa,18,D van Niekerk,SFM Devine,MM Letsoalo,,0,2,2,,,,324623246
+2,South Africa,18,D van Niekerk,SFM Devine,MM Letsoalo,,0,1,1,,,,324623246
+2,South Africa,19,D van Niekerk,SW Bates,MM Letsoalo,,0,1,1,,,,324623246
+2,South Africa,19,MM Letsoalo,SW Bates,D van Niekerk,wides,1,1,0,,,,324623246
+2,South Africa,19,MM Letsoalo,SW Bates,D van Niekerk,legbyes,1,1,0,,,,324623246
+2,South Africa,19,D van Niekerk,SW Bates,MM Letsoalo,,0,2,2,,,,324623246
+2,South Africa,19,D van Niekerk,SW Bates,MM Letsoalo,,0,1,1,,,,324623246
+2,South Africa,19,MM Letsoalo,SW Bates,D van Niekerk,noballs,1,1,0,,,,324623246
+2,South Africa,19,MM Letsoalo,SW Bates,D van Niekerk,legbyes,1,1,0,,,,324623246
+2,South Africa,19,D van Niekerk,SW Bates,MM Letsoalo,noballs,1,1,0,,,,324623246
+2,South Africa,19,D van Niekerk,SW Bates,MM Letsoalo,,0,1,1,,,,324623246

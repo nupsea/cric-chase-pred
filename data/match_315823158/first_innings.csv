@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Canada,0,Rizwan Cheema,E Schiferli,JM Davison,,0,2,2,,,,315823158
+1,Canada,0,Rizwan Cheema,E Schiferli,JM Davison,wides,1,1,0,,,,315823158
+1,Canada,0,Rizwan Cheema,E Schiferli,JM Davison,,0,1,1,,,,315823158
+1,Canada,0,JM Davison,E Schiferli,Rizwan Cheema,,0,0,0,,,,315823158
+1,Canada,0,JM Davison,E Schiferli,Rizwan Cheema,,0,0,0,,,,315823158
+1,Canada,0,JM Davison,E Schiferli,Rizwan Cheema,,0,0,0,caught,JM Davison,TN de Grooth,315823158
+1,Canada,0,H Patel,E Schiferli,Rizwan Cheema,,0,1,1,,,,315823158
+1,Canada,1,H Patel,Mudassar Bukhari,Rizwan Cheema,,0,0,0,,,,315823158
+1,Canada,1,H Patel,Mudassar Bukhari,Rizwan Cheema,,0,1,1,,,,315823158
+1,Canada,1,Rizwan Cheema,Mudassar Bukhari,H Patel,,0,0,0,retired hurt,Rizwan Cheema,,315823158
+1,Canada,1,GEF Barnett,Mudassar Bukhari,H Patel,legbyes,1,1,0,,,,315823158
+1,Canada,1,H Patel,Mudassar Bukhari,GEF Barnett,,0,0,0,,,,315823158
+1,Canada,1,H Patel,Mudassar Bukhari,GEF Barnett,,0,4,4,,,,315823158
+1,Canada,2,GEF Barnett,E Schiferli,H Patel,,0,0,0,,,,315823158
+1,Canada,2,GEF Barnett,E Schiferli,H Patel,,0,4,4,,,,315823158
+1,Canada,2,GEF Barnett,E Schiferli,H Patel,,0,4,4,,,,315823158
+1,Canada,2,GEF Barnett,E Schiferli,H Patel,,0,4,4,,,,315823158
+1,Canada,2,GEF Barnett,E Schiferli,H Patel,,0,1,1,,,,315823158
+1,Canada,2,H Patel,E Schiferli,GEF Barnett,,0,1,1,,,,315823158
+1,Canada,3,H Patel,Mudassar Bukhari,GEF Barnett,,0,2,2,,,,315823158
+1,Canada,3,H Patel,Mudassar Bukhari,GEF Barnett,,0,1,1,,,,315823158
+1,Canada,3,GEF Barnett,Mudassar Bukhari,H Patel,,0,0,0,,,,315823158
+1,Canada,3,GEF Barnett,Mudassar Bukhari,H Patel,,0,3,3,,,,315823158
+1,Canada,3,H Patel,Mudassar Bukhari,GEF Barnett,,0,1,1,,,,315823158
+1,Canada,3,GEF Barnett,Mudassar Bukhari,H Patel,,0,0,0,,,,315823158
+1,Canada,4,H Patel,RN ten Doeschate,GEF Barnett,,0,1,1,,,,315823158
+1,Canada,4,GEF Barnett,RN ten Doeschate,H Patel,,0,4,4,,,,315823158
+1,Canada,4,GEF Barnett,RN ten Doeschate,H Patel,,0,1,1,,,,315823158
+1,Canada,4,H Patel,RN ten Doeschate,GEF Barnett,,0,3,3,,,,315823158
+1,Canada,4,GEF Barnett,RN ten Doeschate,H Patel,,0,0,0,,,,315823158
+1,Canada,4,GEF Barnett,RN ten Doeschate,H Patel,,0,4,4,,,,315823158
+1,Canada,5,H Patel,E Schiferli,GEF Barnett,,0,2,2,,,,315823158
+1,Canada,5,H Patel,E Schiferli,GEF Barnett,,0,0,0,,,,315823158
+1,Canada,5,H Patel,E Schiferli,GEF Barnett,,0,0,0,,,,315823158
+1,Canada,5,H Patel,E Schiferli,GEF Barnett,,0,2,2,,,,315823158
+1,Canada,5,H Patel,E Schiferli,GEF Barnett,,0,1,1,,,,315823158
+1,Canada,5,GEF Barnett,E Schiferli,H Patel,,0,3,3,,,,315823158
+1,Canada,6,GEF Barnett,PW Borren,H Patel,,0,1,1,,,,315823158
+1,Canada,6,H Patel,PW Borren,GEF Barnett,,0,2,2,,,,315823158
+1,Canada,6,H Patel,PW Borren,GEF Barnett,,0,1,1,,,,315823158
+1,Canada,6,GEF Barnett,PW Borren,H Patel,,0,2,2,,,,315823158
+1,Canada,6,GEF Barnett,PW Borren,H Patel,,0,4,4,,,,315823158
+1,Canada,6,GEF Barnett,PW Borren,H Patel,,0,1,1,,,,315823158
+1,Canada,7,GEF Barnett,PM Seelaar,H Patel,,0,0,0,,,,315823158
+1,Canada,7,GEF Barnett,PM Seelaar,H Patel,,0,0,0,caught,GEF Barnett,TN de Grooth,315823158
+1,Canada,7,H Patel,PM Seelaar,A Bagai,,0,0,0,,,,315823158
+1,Canada,7,H Patel,PM Seelaar,A Bagai,,0,0,0,,,,315823158
+1,Canada,7,H Patel,PM Seelaar,A Bagai,,0,0,0,,,,315823158
+1,Canada,7,H Patel,PM Seelaar,A Bagai,,0,1,1,,,,315823158
+1,Canada,8,H Patel,DLS van Bunge,A Bagai,,0,0,0,,,,315823158
+1,Canada,8,H Patel,DLS van Bunge,A Bagai,,0,1,1,,,,315823158
+1,Canada,8,A Bagai,DLS van Bunge,H Patel,,0,1,1,,,,315823158
+1,Canada,8,H Patel,DLS van Bunge,A Bagai,,0,0,0,caught and bowled,H Patel,,315823158
+1,Canada,8,IS Billcliff,DLS van Bunge,A Bagai,,0,0,0,,,,315823158
+1,Canada,8,IS Billcliff,DLS van Bunge,A Bagai,,0,1,1,,,,315823158
+1,Canada,9,IS Billcliff,PM Seelaar,A Bagai,,0,0,0,,,,315823158
+1,Canada,9,IS Billcliff,PM Seelaar,A Bagai,,0,1,1,,,,315823158
+1,Canada,9,A Bagai,PM Seelaar,IS Billcliff,,0,1,1,,,,315823158
+1,Canada,9,IS Billcliff,PM Seelaar,A Bagai,,0,1,1,,,,315823158
+1,Canada,9,A Bagai,PM Seelaar,IS Billcliff,,0,1,1,,,,315823158
+1,Canada,9,IS Billcliff,PM Seelaar,A Bagai,,0,1,1,,,,315823158
+1,Canada,10,IS Billcliff,RN ten Doeschate,A Bagai,legbyes,1,1,0,,,,315823158
+1,Canada,10,A Bagai,RN ten Doeschate,IS Billcliff,,0,2,2,,,,315823158
+1,Canada,10,A Bagai,RN ten Doeschate,IS Billcliff,wides,1,1,0,,,,315823158
+1,Canada,10,A Bagai,RN ten Doeschate,IS Billcliff,,0,1,1,,,,315823158
+1,Canada,10,IS Billcliff,RN ten Doeschate,A Bagai,,0,0,0,,,,315823158
+1,Canada,10,IS Billcliff,RN ten Doeschate,A Bagai,,0,4,4,,,,315823158
+1,Canada,10,IS Billcliff,RN ten Doeschate,A Bagai,,0,0,0,,,,315823158
+1,Canada,11,A Bagai,PM Seelaar,IS Billcliff,,0,1,1,,,,315823158
+1,Canada,11,IS Billcliff,PM Seelaar,A Bagai,,0,4,4,,,,315823158
+1,Canada,11,IS Billcliff,PM Seelaar,A Bagai,,0,0,0,,,,315823158
+1,Canada,11,IS Billcliff,PM Seelaar,A Bagai,,0,2,2,,,,315823158
+1,Canada,11,IS Billcliff,PM Seelaar,A Bagai,,0,0,0,,,,315823158
+1,Canada,11,IS Billcliff,PM Seelaar,A Bagai,,0,0,0,,,,315823158
+1,Canada,12,A Bagai,PW Borren,IS Billcliff,,0,0,0,,,,315823158
+1,Canada,12,A Bagai,PW Borren,IS Billcliff,,0,1,1,,,,315823158
+1,Canada,12,IS Billcliff,PW Borren,A Bagai,,0,1,1,,,,315823158
+1,Canada,12,A Bagai,PW Borren,IS Billcliff,,0,1,1,,,,315823158
+1,Canada,12,IS Billcliff,PW Borren,A Bagai,,0,4,4,,,,315823158
+1,Canada,12,IS Billcliff,PW Borren,A Bagai,,0,1,1,,,,315823158
+1,Canada,13,IS Billcliff,DLS van Bunge,A Bagai,,0,1,1,,,,315823158
+1,Canada,13,A Bagai,DLS van Bunge,IS Billcliff,,0,1,1,,,,315823158
+1,Canada,13,IS Billcliff,DLS van Bunge,A Bagai,,0,6,6,,,,315823158
+1,Canada,13,IS Billcliff,DLS van Bunge,A Bagai,,0,1,1,,,,315823158
+1,Canada,13,A Bagai,DLS van Bunge,IS Billcliff,,0,1,1,,,,315823158
+1,Canada,13,IS Billcliff,DLS van Bunge,A Bagai,,0,1,1,,,,315823158
+1,Canada,14,IS Billcliff,PW Borren,A Bagai,,0,1,1,,,,315823158
+1,Canada,14,A Bagai,PW Borren,IS Billcliff,,0,0,0,,,,315823158
+1,Canada,14,A Bagai,PW Borren,IS Billcliff,,0,1,1,,,,315823158
+1,Canada,14,IS Billcliff,PW Borren,A Bagai,,0,2,2,,,,315823158
+1,Canada,14,IS Billcliff,PW Borren,A Bagai,,0,1,1,,,,315823158
+1,Canada,14,A Bagai,PW Borren,IS Billcliff,,0,1,1,,,,315823158
+1,Canada,15,A Bagai,PM Seelaar,IS Billcliff,,0,0,0,,,,315823158
+1,Canada,15,A Bagai,PM Seelaar,IS Billcliff,,0,1,1,,,,315823158
+1,Canada,15,IS Billcliff,PM Seelaar,A Bagai,,0,2,2,,,,315823158
+1,Canada,15,IS Billcliff,PM Seelaar,A Bagai,,0,1,1,,,,315823158
+1,Canada,15,A Bagai,PM Seelaar,IS Billcliff,,0,0,0,bowled,A Bagai,,315823158
+1,Canada,15,S Dhaniram,PM Seelaar,IS Billcliff,,0,1,1,,,,315823158
+1,Canada,16,S Dhaniram,RN ten Doeschate,IS Billcliff,,0,0,0,,,,315823158
+1,Canada,16,S Dhaniram,RN ten Doeschate,IS Billcliff,,0,1,1,,,,315823158
+1,Canada,16,IS Billcliff,RN ten Doeschate,S Dhaniram,,0,0,0,,,,315823158
+1,Canada,16,IS Billcliff,RN ten Doeschate,S Dhaniram,,0,1,1,,,,315823158
+1,Canada,16,S Dhaniram,RN ten Doeschate,IS Billcliff,,0,1,1,,,,315823158
+1,Canada,16,IS Billcliff,RN ten Doeschate,S Dhaniram,,0,0,0,bowled,IS Billcliff,,315823158
+1,Canada,17,S Dhaniram,Mudassar Bukhari,U Bhatti,,0,1,1,,,,315823158
+1,Canada,17,U Bhatti,Mudassar Bukhari,S Dhaniram,,0,1,1,,,,315823158
+1,Canada,17,S Dhaniram,Mudassar Bukhari,U Bhatti,,0,0,0,caught,S Dhaniram,ES Szwarczynski,315823158
+1,Canada,17,U Bhatti,Mudassar Bukhari,Khurram Chohan,,0,0,0,,,,315823158
+1,Canada,17,U Bhatti,Mudassar Bukhari,Khurram Chohan,,0,1,1,,,,315823158
+1,Canada,17,Khurram Chohan,Mudassar Bukhari,U Bhatti,,0,1,1,,,,315823158
+1,Canada,18,Khurram Chohan,RN ten Doeschate,U Bhatti,,0,1,1,,,,315823158
+1,Canada,18,U Bhatti,RN ten Doeschate,Khurram Chohan,,0,1,1,,,,315823158
+1,Canada,18,Khurram Chohan,RN ten Doeschate,U Bhatti,legbyes,1,1,0,,,,315823158
+1,Canada,18,U Bhatti,RN ten Doeschate,Khurram Chohan,,0,0,0,,,,315823158
+1,Canada,18,U Bhatti,RN ten Doeschate,Khurram Chohan,,0,2,2,,,,315823158
+1,Canada,18,U Bhatti,RN ten Doeschate,Khurram Chohan,,0,2,2,,,,315823158
+1,Canada,19,Khurram Chohan,Mudassar Bukhari,U Bhatti,,0,0,0,,,,315823158
+1,Canada,19,Khurram Chohan,Mudassar Bukhari,U Bhatti,,0,0,0,run out,U Bhatti,AF Buurman,315823158
+1,Canada,19,HS Baidwan,Mudassar Bukhari,Khurram Chohan,,0,1,1,,,,315823158
+1,Canada,19,Khurram Chohan,Mudassar Bukhari,HS Baidwan,,0,4,4,,,,315823158
+1,Canada,19,Khurram Chohan,Mudassar Bukhari,HS Baidwan,,0,1,1,,,,315823158
+1,Canada,19,HS Baidwan,Mudassar Bukhari,Khurram Chohan,,0,3,3,,,,315823158

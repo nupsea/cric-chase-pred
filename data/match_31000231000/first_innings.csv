@@ -1,0 +1,50 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,China,0,Zhang Mei,C Sutthiruang,C Zhou,,0,0,0,,,,31000231000
+1,China,0,Zhang Mei,C Sutthiruang,C Zhou,,0,1,1,,,,31000231000
+1,China,0,C Zhou,C Sutthiruang,Zhang Mei,,0,0,0,,,,31000231000
+1,China,0,C Zhou,C Sutthiruang,Zhang Mei,,0,1,1,,,,31000231000
+1,China,0,Zhang Mei,C Sutthiruang,C Zhou,,0,0,0,,,,31000231000
+1,China,0,Zhang Mei,C Sutthiruang,C Zhou,,0,0,0,,,,31000231000
+1,China,1,C Zhou,N Boochatham,Zhang Mei,,0,0,0,,,,31000231000
+1,China,1,C Zhou,N Boochatham,Zhang Mei,,0,1,1,,,,31000231000
+1,China,1,Zhang Mei,N Boochatham,C Zhou,,0,2,2,,,,31000231000
+1,China,1,Zhang Mei,N Boochatham,C Zhou,,0,1,1,,,,31000231000
+1,China,1,C Zhou,N Boochatham,Zhang Mei,,0,1,1,,,,31000231000
+1,China,1,Zhang Mei,N Boochatham,C Zhou,,0,2,2,,,,31000231000
+1,China,2,C Zhou,C Sutthiruang,Zhang Mei,,0,0,0,bowled,C Zhou,,31000231000
+1,China,2,Zheng Lili,C Sutthiruang,Zhang Mei,,0,0,0,bowled,Zheng Lili,,31000231000
+1,China,2,Huang Zhuo,C Sutthiruang,Zhang Mei,,0,0,0,lbw,Huang Zhuo,,31000231000
+1,China,2,F Song,C Sutthiruang,Zhang Mei,,0,0,0,,,,31000231000
+1,China,2,F Song,C Sutthiruang,Zhang Mei,,0,0,0,,,,31000231000
+1,China,2,F Song,C Sutthiruang,Zhang Mei,,0,1,1,,,,31000231000
+1,China,3,F Song,N Boochatham,Zhang Mei,,0,0,0,,,,31000231000
+1,China,3,F Song,N Boochatham,Zhang Mei,,0,1,1,,,,31000231000
+1,China,3,Zhang Mei,N Boochatham,F Song,,0,2,2,,,,31000231000
+1,China,3,Zhang Mei,N Boochatham,F Song,,0,2,2,,,,31000231000
+1,China,3,Zhang Mei,N Boochatham,F Song,,0,1,1,,,,31000231000
+1,China,3,F Song,N Boochatham,Zhang Mei,,0,1,1,,,,31000231000
+1,China,4,F Song,S Laomi,Zhang Mei,,0,0,0,,,,31000231000
+1,China,4,F Song,S Laomi,Zhang Mei,,0,0,0,,,,31000231000
+1,China,4,F Song,S Laomi,Zhang Mei,,0,0,0,,,,31000231000
+1,China,4,F Song,S Laomi,Zhang Mei,,0,0,0,,,,31000231000
+1,China,4,F Song,S Laomi,Zhang Mei,,0,1,1,,,,31000231000
+1,China,4,Zhang Mei,S Laomi,F Song,,0,0,0,bowled,Zhang Mei,,31000231000
+1,China,5,F Song,S Tippoch,Zhang Chan,,0,1,1,,,,31000231000
+1,China,5,Zhang Chan,S Tippoch,F Song,wides,1,1,0,,,,31000231000
+1,China,5,Zhang Chan,S Tippoch,F Song,,0,0,0,,,,31000231000
+1,China,5,Zhang Chan,S Tippoch,F Song,,0,1,1,,,,31000231000
+1,China,5,F Song,S Tippoch,Zhang Chan,,0,1,1,,,,31000231000
+1,China,5,Zhang Chan,S Tippoch,F Song,,0,1,1,,,,31000231000
+1,China,5,F Song,S Tippoch,Zhang Chan,,0,1,1,,,,31000231000
+1,China,6,F Song,S Laomi,Zhang Chan,,0,0,0,caught,F Song,N Chantam,31000231000
+1,China,6,Zhang Chan,S Laomi,Han Lili,,0,0,0,,,,31000231000
+1,China,6,Zhang Chan,S Laomi,Han Lili,,0,2,2,,,,31000231000
+1,China,6,Zhang Chan,S Laomi,Han Lili,,0,0,0,,,,31000231000
+1,China,6,Zhang Chan,S Laomi,Han Lili,,0,0,0,caught and bowled,Zhang Chan,,31000231000
+1,China,6,Han Lili,S Laomi,Wu Juan,,0,1,1,,,,31000231000
+1,China,7,Han Lili,S Tippoch,Wu Juan,,0,1,1,,,,31000231000
+1,China,7,Wu Juan,S Tippoch,Han Lili,,0,0,0,,,,31000231000
+1,China,7,Wu Juan,S Tippoch,Han Lili,,0,2,2,,,,31000231000
+1,China,7,Wu Juan,S Tippoch,Han Lili,,0,1,1,,,,31000231000
+1,China,7,Han Lili,S Tippoch,Wu Juan,,0,1,1,,,,31000231000
+1,China,7,Wu Juan,S Tippoch,Han Lili,,0,0,0,caught,Wu Juan,O Kamchomphu,31000231000

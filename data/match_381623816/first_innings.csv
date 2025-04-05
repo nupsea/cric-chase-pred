@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Sri Lanka,0,MAA Sanjeewani,Diana Baig,AC Jayangani,,0,0,0,,,,381623816
+1,Sri Lanka,0,MAA Sanjeewani,Diana Baig,AC Jayangani,,0,0,0,,,,381623816
+1,Sri Lanka,0,MAA Sanjeewani,Diana Baig,AC Jayangani,,0,1,1,,,,381623816
+1,Sri Lanka,0,AC Jayangani,Diana Baig,MAA Sanjeewani,,0,0,0,,,,381623816
+1,Sri Lanka,0,AC Jayangani,Diana Baig,MAA Sanjeewani,,0,0,0,,,,381623816
+1,Sri Lanka,0,AC Jayangani,Diana Baig,MAA Sanjeewani,,0,4,4,,,,381623816
+1,Sri Lanka,1,MAA Sanjeewani,Sana Mir,AC Jayangani,,0,1,1,,,,381623816
+1,Sri Lanka,1,AC Jayangani,Sana Mir,MAA Sanjeewani,,0,0,0,,,,381623816
+1,Sri Lanka,1,AC Jayangani,Sana Mir,MAA Sanjeewani,,0,0,0,,,,381623816
+1,Sri Lanka,1,AC Jayangani,Sana Mir,MAA Sanjeewani,,0,0,0,,,,381623816
+1,Sri Lanka,1,AC Jayangani,Sana Mir,MAA Sanjeewani,,0,4,4,,,,381623816
+1,Sri Lanka,1,AC Jayangani,Sana Mir,MAA Sanjeewani,,0,0,0,,,,381623816
+1,Sri Lanka,2,MAA Sanjeewani,Diana Baig,AC Jayangani,,0,0,0,,,,381623816
+1,Sri Lanka,2,MAA Sanjeewani,Diana Baig,AC Jayangani,,0,1,1,,,,381623816
+1,Sri Lanka,2,AC Jayangani,Diana Baig,MAA Sanjeewani,,0,0,0,,,,381623816
+1,Sri Lanka,2,AC Jayangani,Diana Baig,MAA Sanjeewani,,0,0,0,,,,381623816
+1,Sri Lanka,2,AC Jayangani,Diana Baig,MAA Sanjeewani,,0,2,2,,,,381623816
+1,Sri Lanka,2,AC Jayangani,Diana Baig,MAA Sanjeewani,,0,0,0,,,,381623816
+1,Sri Lanka,3,MAA Sanjeewani,Sana Mir,AC Jayangani,,0,0,0,,,,381623816
+1,Sri Lanka,3,MAA Sanjeewani,Sana Mir,AC Jayangani,,0,4,4,,,,381623816
+1,Sri Lanka,3,MAA Sanjeewani,Sana Mir,AC Jayangani,,0,1,1,,,,381623816
+1,Sri Lanka,3,AC Jayangani,Sana Mir,MAA Sanjeewani,,0,0,0,bowled,AC Jayangani,,381623816
+1,Sri Lanka,3,GWHM Perera,Sana Mir,MAA Sanjeewani,,0,0,0,caught,GWHM Perera,Fareeha Mehmood,381623816
+1,Sri Lanka,3,HIS Mendis,Sana Mir,MAA Sanjeewani,,0,0,0,,,,381623816
+1,Sri Lanka,4,MAA Sanjeewani,Diana Baig,HIS Mendis,,0,0,0,,,,381623816
+1,Sri Lanka,4,MAA Sanjeewani,Diana Baig,HIS Mendis,,0,4,4,,,,381623816
+1,Sri Lanka,4,MAA Sanjeewani,Diana Baig,HIS Mendis,legbyes,1,1,0,,,,381623816
+1,Sri Lanka,4,HIS Mendis,Diana Baig,MAA Sanjeewani,,0,0,0,bowled,HIS Mendis,,381623816
+1,Sri Lanka,4,RS Vandort,Diana Baig,MAA Sanjeewani,wides,1,1,0,,,,381623816
+1,Sri Lanka,4,RS Vandort,Diana Baig,MAA Sanjeewani,,0,2,2,,,,381623816
+1,Sri Lanka,4,RS Vandort,Diana Baig,MAA Sanjeewani,,0,1,1,,,,381623816
+1,Sri Lanka,5,RS Vandort,Nashra Sandhu,MAA Sanjeewani,,0,1,1,,,,381623816
+1,Sri Lanka,5,MAA Sanjeewani,Nashra Sandhu,RS Vandort,,0,1,1,,,,381623816
+1,Sri Lanka,5,RS Vandort,Nashra Sandhu,MAA Sanjeewani,,0,1,1,,,,381623816
+1,Sri Lanka,5,MAA Sanjeewani,Nashra Sandhu,RS Vandort,byes,2,2,0,,,,381623816
+1,Sri Lanka,5,MAA Sanjeewani,Nashra Sandhu,RS Vandort,,0,0,0,,,,381623816
+1,Sri Lanka,5,MAA Sanjeewani,Nashra Sandhu,RS Vandort,,0,0,0,,,,381623816
+1,Sri Lanka,6,RS Vandort,Diana Baig,MAA Sanjeewani,,0,0,0,caught,RS Vandort,Bismah Maroof,381623816
+1,Sri Lanka,6,HASD Siriwardene,Diana Baig,MAA Sanjeewani,,0,0,0,,,,381623816
+1,Sri Lanka,6,HASD Siriwardene,Diana Baig,MAA Sanjeewani,,0,0,0,,,,381623816
+1,Sri Lanka,6,HASD Siriwardene,Diana Baig,MAA Sanjeewani,,0,0,0,,,,381623816
+1,Sri Lanka,6,HASD Siriwardene,Diana Baig,MAA Sanjeewani,,0,1,1,,,,381623816
+1,Sri Lanka,6,MAA Sanjeewani,Diana Baig,HASD Siriwardene,,0,1,1,,,,381623816
+1,Sri Lanka,7,MAA Sanjeewani,Nashra Sandhu,HASD Siriwardene,,0,0,0,,,,381623816
+1,Sri Lanka,7,MAA Sanjeewani,Nashra Sandhu,HASD Siriwardene,,0,0,0,,,,381623816
+1,Sri Lanka,7,MAA Sanjeewani,Nashra Sandhu,HASD Siriwardene,,0,1,1,,,,381623816
+1,Sri Lanka,7,HASD Siriwardene,Nashra Sandhu,MAA Sanjeewani,,0,1,1,,,,381623816
+1,Sri Lanka,7,MAA Sanjeewani,Nashra Sandhu,HASD Siriwardene,,0,1,1,,,,381623816
+1,Sri Lanka,7,HASD Siriwardene,Nashra Sandhu,MAA Sanjeewani,,0,0,0,,,,381623816
+1,Sri Lanka,8,MAA Sanjeewani,Nida Dar,HASD Siriwardene,,0,1,1,,,,381623816
+1,Sri Lanka,8,HASD Siriwardene,Nida Dar,MAA Sanjeewani,,0,0,0,,,,381623816
+1,Sri Lanka,8,HASD Siriwardene,Nida Dar,MAA Sanjeewani,,0,0,0,caught and bowled,HASD Siriwardene,,381623816
+1,Sri Lanka,8,NND de Silva,Nida Dar,MAA Sanjeewani,,0,2,2,,,,381623816
+1,Sri Lanka,8,NND de Silva,Nida Dar,MAA Sanjeewani,,0,0,0,,,,381623816
+1,Sri Lanka,8,NND de Silva,Nida Dar,MAA Sanjeewani,,0,1,1,,,,381623816
+1,Sri Lanka,9,NND de Silva,Nashra Sandhu,MAA Sanjeewani,,0,0,0,,,,381623816
+1,Sri Lanka,9,NND de Silva,Nashra Sandhu,MAA Sanjeewani,,0,1,1,,,,381623816
+1,Sri Lanka,9,MAA Sanjeewani,Nashra Sandhu,NND de Silva,,0,1,1,,,,381623816
+1,Sri Lanka,9,NND de Silva,Nashra Sandhu,MAA Sanjeewani,,0,4,4,,,,381623816
+1,Sri Lanka,9,NND de Silva,Nashra Sandhu,MAA Sanjeewani,,0,1,1,,,,381623816
+1,Sri Lanka,9,MAA Sanjeewani,Nashra Sandhu,NND de Silva,,0,1,1,,,,381623816
+1,Sri Lanka,10,MAA Sanjeewani,Nida Dar,NND de Silva,,0,1,1,,,,381623816
+1,Sri Lanka,10,NND de Silva,Nida Dar,MAA Sanjeewani,legbyes,1,1,0,,,,381623816
+1,Sri Lanka,10,MAA Sanjeewani,Nida Dar,NND de Silva,,0,4,4,,,,381623816
+1,Sri Lanka,10,MAA Sanjeewani,Nida Dar,NND de Silva,byes,1,1,0,,,,381623816
+1,Sri Lanka,10,NND de Silva,Nida Dar,MAA Sanjeewani,,0,0,0,,,,381623816
+1,Sri Lanka,10,NND de Silva,Nida Dar,MAA Sanjeewani,,0,1,1,,,,381623816
+1,Sri Lanka,11,NND de Silva,Ghulam Fatima,MAA Sanjeewani,,0,1,1,,,,381623816
+1,Sri Lanka,11,MAA Sanjeewani,Ghulam Fatima,NND de Silva,,0,0,0,,,,381623816
+1,Sri Lanka,11,MAA Sanjeewani,Ghulam Fatima,NND de Silva,byes,1,1,0,,,,381623816
+1,Sri Lanka,11,NND de Silva,Ghulam Fatima,MAA Sanjeewani,,0,0,0,,,,381623816
+1,Sri Lanka,11,NND de Silva,Ghulam Fatima,MAA Sanjeewani,,0,1,1,,,,381623816
+1,Sri Lanka,11,MAA Sanjeewani,Ghulam Fatima,NND de Silva,byes,1,1,0,,,,381623816
+1,Sri Lanka,12,MAA Sanjeewani,Sana Mir,NND de Silva,,0,2,2,,,,381623816
+1,Sri Lanka,12,MAA Sanjeewani,Sana Mir,NND de Silva,wides,1,1,0,,,,381623816
+1,Sri Lanka,12,MAA Sanjeewani,Sana Mir,NND de Silva,,0,2,2,,,,381623816
+1,Sri Lanka,12,MAA Sanjeewani,Sana Mir,NND de Silva,,0,1,1,,,,381623816
+1,Sri Lanka,12,NND de Silva,Sana Mir,MAA Sanjeewani,,0,1,1,,,,381623816
+1,Sri Lanka,12,MAA Sanjeewani,Sana Mir,NND de Silva,,0,1,1,,,,381623816
+1,Sri Lanka,12,NND de Silva,Sana Mir,MAA Sanjeewani,,0,0,0,,,,381623816
+1,Sri Lanka,13,MAA Sanjeewani,Ghulam Fatima,NND de Silva,,0,0,0,,,,381623816
+1,Sri Lanka,13,MAA Sanjeewani,Ghulam Fatima,NND de Silva,,0,0,0,,,,381623816
+1,Sri Lanka,13,MAA Sanjeewani,Ghulam Fatima,NND de Silva,,0,0,0,,,,381623816
+1,Sri Lanka,13,MAA Sanjeewani,Ghulam Fatima,NND de Silva,,0,1,1,,,,381623816
+1,Sri Lanka,13,NND de Silva,Ghulam Fatima,MAA Sanjeewani,,0,1,1,,,,381623816
+1,Sri Lanka,13,MAA Sanjeewani,Ghulam Fatima,NND de Silva,noballs,1,1,0,,,,381623816
+1,Sri Lanka,13,MAA Sanjeewani,Ghulam Fatima,NND de Silva,,0,0,0,,,,381623816
+1,Sri Lanka,14,NND de Silva,Bismah Maroof,MAA Sanjeewani,,0,1,1,,,,381623816
+1,Sri Lanka,14,MAA Sanjeewani,Bismah Maroof,NND de Silva,byes,1,1,0,,,,381623816
+1,Sri Lanka,14,NND de Silva,Bismah Maroof,MAA Sanjeewani,,0,4,4,,,,381623816
+1,Sri Lanka,14,NND de Silva,Bismah Maroof,MAA Sanjeewani,,0,1,1,,,,381623816
+1,Sri Lanka,14,MAA Sanjeewani,Bismah Maroof,NND de Silva,,0,1,1,,,,381623816
+1,Sri Lanka,14,NND de Silva,Bismah Maroof,MAA Sanjeewani,,0,1,1,,,,381623816
+1,Sri Lanka,15,NND de Silva,Ghulam Fatima,MAA Sanjeewani,,0,1,1,,,,381623816
+1,Sri Lanka,15,MAA Sanjeewani,Ghulam Fatima,NND de Silva,,0,4,4,,,,381623816
+1,Sri Lanka,15,MAA Sanjeewani,Ghulam Fatima,NND de Silva,,0,0,0,,,,381623816
+1,Sri Lanka,15,MAA Sanjeewani,Ghulam Fatima,NND de Silva,,0,1,1,,,,381623816
+1,Sri Lanka,15,NND de Silva,Ghulam Fatima,MAA Sanjeewani,,0,1,1,,,,381623816
+1,Sri Lanka,15,MAA Sanjeewani,Ghulam Fatima,NND de Silva,,0,4,4,,,,381623816
+1,Sri Lanka,16,NND de Silva,Natalia Pervaiz,MAA Sanjeewani,,0,1,1,,,,381623816
+1,Sri Lanka,16,MAA Sanjeewani,Natalia Pervaiz,NND de Silva,,0,0,0,,,,381623816
+1,Sri Lanka,16,MAA Sanjeewani,Natalia Pervaiz,NND de Silva,,0,4,4,,,,381623816
+1,Sri Lanka,16,MAA Sanjeewani,Natalia Pervaiz,NND de Silva,,0,1,1,,,,381623816
+1,Sri Lanka,16,NND de Silva,Natalia Pervaiz,MAA Sanjeewani,,0,1,1,,,,381623816
+1,Sri Lanka,16,MAA Sanjeewani,Natalia Pervaiz,NND de Silva,,0,4,4,,,,381623816
+1,Sri Lanka,17,NND de Silva,Nashra Sandhu,MAA Sanjeewani,,0,1,1,,,,381623816
+1,Sri Lanka,17,MAA Sanjeewani,Nashra Sandhu,NND de Silva,,0,0,0,,,,381623816
+1,Sri Lanka,17,MAA Sanjeewani,Nashra Sandhu,NND de Silva,,0,4,4,,,,381623816
+1,Sri Lanka,17,MAA Sanjeewani,Nashra Sandhu,NND de Silva,,0,2,2,,,,381623816
+1,Sri Lanka,17,MAA Sanjeewani,Nashra Sandhu,NND de Silva,,0,1,1,,,,381623816
+1,Sri Lanka,17,NND de Silva,Nashra Sandhu,MAA Sanjeewani,,0,1,1,,,,381623816
+1,Sri Lanka,18,NND de Silva,Sana Mir,MAA Sanjeewani,,0,2,2,,,,381623816
+1,Sri Lanka,18,NND de Silva,Sana Mir,MAA Sanjeewani,,0,1,1,,,,381623816
+1,Sri Lanka,18,MAA Sanjeewani,Sana Mir,NND de Silva,,0,1,1,,,,381623816
+1,Sri Lanka,18,NND de Silva,Sana Mir,MAA Sanjeewani,,0,0,0,,,,381623816
+1,Sri Lanka,18,NND de Silva,Sana Mir,MAA Sanjeewani,,0,1,1,,,,381623816
+1,Sri Lanka,18,MAA Sanjeewani,Sana Mir,NND de Silva,,0,2,2,,,,381623816
+1,Sri Lanka,19,NND de Silva,Nida Dar,MAA Sanjeewani,,0,1,1,,,,381623816
+1,Sri Lanka,19,MAA Sanjeewani,Nida Dar,NND de Silva,,0,1,1,,,,381623816
+1,Sri Lanka,19,NND de Silva,Nida Dar,MAA Sanjeewani,,0,0,0,,,,381623816
+1,Sri Lanka,19,NND de Silva,Nida Dar,MAA Sanjeewani,,0,1,1,,,,381623816
+1,Sri Lanka,19,MAA Sanjeewani,Nida Dar,NND de Silva,,0,0,0,run out,MAA Sanjeewani,,381623816
+1,Sri Lanka,19,NND de Silva,Nida Dar,KADA Kanchana,,0,2,2,,,,381623816

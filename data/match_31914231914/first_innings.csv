@@ -1,0 +1,95 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Canada,0,R Pathan,KS Airee,M Spoors,,0,0,0,,,,31914231914
+1,Canada,0,R Pathan,KS Airee,M Spoors,wides,1,1,0,,,,31914231914
+1,Canada,0,R Pathan,KS Airee,M Spoors,,0,1,1,,,,31914231914
+1,Canada,0,M Spoors,KS Airee,R Pathan,,0,0,0,,,,31914231914
+1,Canada,0,M Spoors,KS Airee,R Pathan,,0,0,0,,,,31914231914
+1,Canada,0,M Spoors,KS Airee,R Pathan,,0,0,0,caught,M Spoors,Kushal Malla,31914231914
+1,Canada,0,R Pathan,KS Airee,NS Dhaliwal,,0,0,0,,,,31914231914
+1,Canada,1,NS Dhaliwal,JK Mukhiya,R Pathan,,0,1,1,,,,31914231914
+1,Canada,1,R Pathan,JK Mukhiya,NS Dhaliwal,,0,0,0,,,,31914231914
+1,Canada,1,R Pathan,JK Mukhiya,NS Dhaliwal,,0,1,1,,,,31914231914
+1,Canada,1,NS Dhaliwal,JK Mukhiya,R Pathan,wides,1,1,0,,,,31914231914
+1,Canada,1,NS Dhaliwal,JK Mukhiya,R Pathan,,0,4,4,,,,31914231914
+1,Canada,1,NS Dhaliwal,JK Mukhiya,R Pathan,,0,6,6,,,,31914231914
+1,Canada,1,NS Dhaliwal,JK Mukhiya,R Pathan,,0,0,0,,,,31914231914
+1,Canada,2,R Pathan,KS Airee,NS Dhaliwal,,0,4,4,,,,31914231914
+1,Canada,2,R Pathan,KS Airee,NS Dhaliwal,wides,1,1,0,,,,31914231914
+1,Canada,2,R Pathan,KS Airee,NS Dhaliwal,,0,1,1,,,,31914231914
+1,Canada,2,NS Dhaliwal,KS Airee,R Pathan,,0,2,2,,,,31914231914
+1,Canada,2,NS Dhaliwal,KS Airee,R Pathan,,0,0,0,,,,31914231914
+1,Canada,2,NS Dhaliwal,KS Airee,R Pathan,,0,0,0,,,,31914231914
+1,Canada,2,NS Dhaliwal,KS Airee,R Pathan,,0,0,0,,,,31914231914
+1,Canada,3,R Pathan,S Lamichhane,NS Dhaliwal,,0,6,6,,,,31914231914
+1,Canada,3,R Pathan,S Lamichhane,NS Dhaliwal,,0,0,0,,,,31914231914
+1,Canada,3,R Pathan,S Lamichhane,NS Dhaliwal,,0,1,1,,,,31914231914
+1,Canada,3,NS Dhaliwal,S Lamichhane,R Pathan,,0,0,0,,,,31914231914
+1,Canada,3,NS Dhaliwal,S Lamichhane,R Pathan,,0,0,0,,,,31914231914
+1,Canada,3,NS Dhaliwal,S Lamichhane,R Pathan,,0,1,1,,,,31914231914
+1,Canada,4,NS Dhaliwal,KS Airee,R Pathan,,0,0,0,,,,31914231914
+1,Canada,4,NS Dhaliwal,KS Airee,R Pathan,,0,4,4,,,,31914231914
+1,Canada,4,NS Dhaliwal,KS Airee,R Pathan,,0,0,0,caught,NS Dhaliwal,Lokesh Bam,31914231914
+1,Canada,4,Ravinderpal Singh,KS Airee,R Pathan,wides,1,1,0,,,,31914231914
+1,Canada,4,Ravinderpal Singh,KS Airee,R Pathan,,0,0,0,,,,31914231914
+1,Canada,4,Ravinderpal Singh,KS Airee,R Pathan,,0,1,1,,,,31914231914
+1,Canada,4,R Pathan,KS Airee,Ravinderpal Singh,,0,0,0,,,,31914231914
+1,Canada,5,Ravinderpal Singh,A Bohara,R Pathan,,0,0,0,,,,31914231914
+1,Canada,5,Ravinderpal Singh,A Bohara,R Pathan,,0,0,0,run out,R Pathan,A Bohara,31914231914
+1,Canada,5,Ravinderpal Singh,A Bohara,Saad Bin Zafar,legbyes,1,1,0,,,,31914231914
+1,Canada,5,Saad Bin Zafar,A Bohara,Ravinderpal Singh,,0,1,1,,,,31914231914
+1,Canada,5,Ravinderpal Singh,A Bohara,Saad Bin Zafar,,0,0,0,,,,31914231914
+1,Canada,5,Ravinderpal Singh,A Bohara,Saad Bin Zafar,,0,0,0,caught,Ravinderpal Singh,Aasif Sheikh,31914231914
+1,Canada,6,Hamza Tariq,S Lamichhane,Saad Bin Zafar,,0,0,0,,,,31914231914
+1,Canada,6,Hamza Tariq,S Lamichhane,Saad Bin Zafar,,0,1,1,,,,31914231914
+1,Canada,6,Saad Bin Zafar,S Lamichhane,Hamza Tariq,,0,1,1,,,,31914231914
+1,Canada,6,Hamza Tariq,S Lamichhane,Saad Bin Zafar,,0,0,0,,,,31914231914
+1,Canada,6,Hamza Tariq,S Lamichhane,Saad Bin Zafar,,0,0,0,,,,31914231914
+1,Canada,6,Hamza Tariq,S Lamichhane,Saad Bin Zafar,,0,0,0,lbw,Hamza Tariq,,31914231914
+1,Canada,7,Saad Bin Zafar,DS Airee,H Thaker,,0,0,0,,,,31914231914
+1,Canada,7,Saad Bin Zafar,DS Airee,H Thaker,,0,0,0,,,,31914231914
+1,Canada,7,Saad Bin Zafar,DS Airee,H Thaker,,0,0,0,run out,Saad Bin Zafar,KS Airee,31914231914
+1,Canada,7,Kaleem Sana,DS Airee,H Thaker,,0,1,1,,,,31914231914
+1,Canada,7,H Thaker,DS Airee,Kaleem Sana,,0,1,1,,,,31914231914
+1,Canada,7,Kaleem Sana,DS Airee,H Thaker,,0,0,0,,,,31914231914
+1,Canada,8,H Thaker,S Lamichhane,Kaleem Sana,,0,0,0,,,,31914231914
+1,Canada,8,H Thaker,S Lamichhane,Kaleem Sana,,0,1,1,,,,31914231914
+1,Canada,8,Kaleem Sana,S Lamichhane,H Thaker,,0,0,0,,,,31914231914
+1,Canada,8,Kaleem Sana,S Lamichhane,H Thaker,,0,0,0,,,,31914231914
+1,Canada,8,Kaleem Sana,S Lamichhane,H Thaker,,0,0,0,,,,31914231914
+1,Canada,8,Kaleem Sana,S Lamichhane,H Thaker,,0,0,0,caught,Kaleem Sana,Kushal Malla,31914231914
+1,Canada,9,H Thaker,Kushal Malla,Junaid Siddiqui,,0,0,0,lbw,H Thaker,,31914231914
+1,Canada,9,D Heyliger,Kushal Malla,Junaid Siddiqui,,0,1,1,,,,31914231914
+1,Canada,9,Junaid Siddiqui,Kushal Malla,D Heyliger,,0,1,1,,,,31914231914
+1,Canada,9,D Heyliger,Kushal Malla,Junaid Siddiqui,,0,1,1,,,,31914231914
+1,Canada,9,Junaid Siddiqui,Kushal Malla,D Heyliger,,0,0,0,,,,31914231914
+1,Canada,9,Junaid Siddiqui,Kushal Malla,D Heyliger,,0,1,1,,,,31914231914
+1,Canada,10,Junaid Siddiqui,S Lamichhane,D Heyliger,,0,0,0,caught,Junaid Siddiqui,Aasif Sheikh,31914231914
+1,Canada,10,Salman Nazar,S Lamichhane,D Heyliger,,0,0,0,,,,31914231914
+1,Canada,10,Salman Nazar,S Lamichhane,D Heyliger,,0,1,1,,,,31914231914
+1,Canada,10,D Heyliger,S Lamichhane,Salman Nazar,,0,0,0,,,,31914231914
+1,Canada,10,D Heyliger,S Lamichhane,Salman Nazar,,0,0,0,,,,31914231914
+1,Canada,10,D Heyliger,S Lamichhane,Salman Nazar,,0,0,0,,,,31914231914
+1,Canada,11,Salman Nazar,DS Airee,D Heyliger,,0,1,1,,,,31914231914
+1,Canada,11,D Heyliger,DS Airee,Salman Nazar,,0,6,6,,,,31914231914
+1,Canada,11,D Heyliger,DS Airee,Salman Nazar,,0,0,0,,,,31914231914
+1,Canada,11,D Heyliger,DS Airee,Salman Nazar,,0,0,0,,,,31914231914
+1,Canada,11,D Heyliger,DS Airee,Salman Nazar,,0,6,6,,,,31914231914
+1,Canada,11,D Heyliger,DS Airee,Salman Nazar,,0,1,1,,,,31914231914
+1,Canada,12,D Heyliger,A Bohara,Salman Nazar,,0,0,0,,,,31914231914
+1,Canada,12,D Heyliger,A Bohara,Salman Nazar,,0,0,0,,,,31914231914
+1,Canada,12,D Heyliger,A Bohara,Salman Nazar,,0,1,1,,,,31914231914
+1,Canada,12,Salman Nazar,A Bohara,D Heyliger,,0,1,1,,,,31914231914
+1,Canada,12,D Heyliger,A Bohara,Salman Nazar,,0,0,0,,,,31914231914
+1,Canada,12,D Heyliger,A Bohara,Salman Nazar,,0,1,1,,,,31914231914
+1,Canada,13,D Heyliger,JK Mukhiya,Salman Nazar,,0,4,4,,,,31914231914
+1,Canada,13,D Heyliger,JK Mukhiya,Salman Nazar,,0,0,0,,,,31914231914
+1,Canada,13,D Heyliger,JK Mukhiya,Salman Nazar,,0,1,1,,,,31914231914
+1,Canada,13,Salman Nazar,JK Mukhiya,D Heyliger,,0,2,2,,,,31914231914
+1,Canada,13,Salman Nazar,JK Mukhiya,D Heyliger,,0,4,4,,,,31914231914
+1,Canada,13,Salman Nazar,JK Mukhiya,D Heyliger,,0,0,0,,,,31914231914
+1,Canada,14,D Heyliger,A Bohara,Salman Nazar,,0,0,0,,,,31914231914
+1,Canada,14,D Heyliger,A Bohara,Salman Nazar,,0,1,1,,,,31914231914
+1,Canada,14,Salman Nazar,A Bohara,D Heyliger,,0,1,1,,,,31914231914
+1,Canada,14,D Heyliger,A Bohara,Salman Nazar,,0,0,0,,,,31914231914
+1,Canada,14,D Heyliger,A Bohara,Salman Nazar,,0,1,1,,,,31914231914
+1,Canada,14,Salman Nazar,A Bohara,D Heyliger,,0,0,0,caught,Salman Nazar,S Lamichhane,31914231914

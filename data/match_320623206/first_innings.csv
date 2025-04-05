@@ -1,0 +1,126 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,T Chetty,IT Guha,D van Niekerk,,0,0,0,,,,320623206
+1,South Africa,0,T Chetty,IT Guha,D van Niekerk,,0,2,2,,,,320623206
+1,South Africa,0,T Chetty,IT Guha,D van Niekerk,wides,1,1,0,,,,320623206
+1,South Africa,0,T Chetty,IT Guha,D van Niekerk,,0,1,1,,,,320623206
+1,South Africa,0,D van Niekerk,IT Guha,T Chetty,,0,0,0,,,,320623206
+1,South Africa,0,D van Niekerk,IT Guha,T Chetty,,0,1,1,,,,320623206
+1,South Africa,0,T Chetty,IT Guha,D van Niekerk,,0,0,0,,,,320623206
+1,South Africa,1,D van Niekerk,A Brindle,T Chetty,,0,1,1,,,,320623206
+1,South Africa,1,T Chetty,A Brindle,D van Niekerk,,0,0,0,,,,320623206
+1,South Africa,1,T Chetty,A Brindle,D van Niekerk,,0,0,0,run out,T Chetty,A Brindle,320623206
+1,South Africa,1,K Thomson,A Brindle,D van Niekerk,,0,0,0,,,,320623206
+1,South Africa,1,K Thomson,A Brindle,D van Niekerk,,0,4,4,,,,320623206
+1,South Africa,1,K Thomson,A Brindle,D van Niekerk,,0,2,2,,,,320623206
+1,South Africa,2,D van Niekerk,D Hazell,K Thomson,,0,0,0,,,,320623206
+1,South Africa,2,D van Niekerk,D Hazell,K Thomson,,0,1,1,,,,320623206
+1,South Africa,2,K Thomson,D Hazell,D van Niekerk,,0,0,0,,,,320623206
+1,South Africa,2,K Thomson,D Hazell,D van Niekerk,,0,0,0,,,,320623206
+1,South Africa,2,K Thomson,D Hazell,D van Niekerk,,0,0,0,,,,320623206
+1,South Africa,2,K Thomson,D Hazell,D van Niekerk,,0,0,0,,,,320623206
+1,South Africa,3,D van Niekerk,LA Marsh,K Thomson,,0,1,1,,,,320623206
+1,South Africa,3,K Thomson,LA Marsh,D van Niekerk,,0,0,0,,,,320623206
+1,South Africa,3,K Thomson,LA Marsh,D van Niekerk,,0,0,0,,,,320623206
+1,South Africa,3,K Thomson,LA Marsh,D van Niekerk,,0,0,0,caught and bowled,K Thomson,,320623206
+1,South Africa,3,AL Hodgkinson,LA Marsh,D van Niekerk,,0,0,0,,,,320623206
+1,South Africa,3,AL Hodgkinson,LA Marsh,D van Niekerk,,0,4,4,,,,320623206
+1,South Africa,4,D van Niekerk,D Hazell,AL Hodgkinson,,0,1,1,,,,320623206
+1,South Africa,4,AL Hodgkinson,D Hazell,D van Niekerk,,0,0,0,,,,320623206
+1,South Africa,4,AL Hodgkinson,D Hazell,D van Niekerk,,0,0,0,,,,320623206
+1,South Africa,4,AL Hodgkinson,D Hazell,D van Niekerk,,0,1,1,,,,320623206
+1,South Africa,4,D van Niekerk,D Hazell,AL Hodgkinson,,0,4,4,,,,320623206
+1,South Africa,4,D van Niekerk,D Hazell,AL Hodgkinson,,0,0,0,,,,320623206
+1,South Africa,5,AL Hodgkinson,A Brindle,D van Niekerk,wides,1,1,0,,,,320623206
+1,South Africa,5,AL Hodgkinson,A Brindle,D van Niekerk,,0,0,0,,,,320623206
+1,South Africa,5,AL Hodgkinson,A Brindle,D van Niekerk,,0,0,0,lbw,AL Hodgkinson,,320623206
+1,South Africa,5,C Brits,A Brindle,D van Niekerk,,0,0,0,,,,320623206
+1,South Africa,5,C Brits,A Brindle,D van Niekerk,,0,0,0,,,,320623206
+1,South Africa,5,C Brits,A Brindle,D van Niekerk,,0,1,1,,,,320623206
+1,South Africa,5,D van Niekerk,A Brindle,C Brits,,0,0,0,,,,320623206
+1,South Africa,6,C Brits,IT Guha,D van Niekerk,,0,1,1,,,,320623206
+1,South Africa,6,D van Niekerk,IT Guha,C Brits,,0,1,1,,,,320623206
+1,South Africa,6,C Brits,IT Guha,D van Niekerk,,0,0,0,,,,320623206
+1,South Africa,6,C Brits,IT Guha,D van Niekerk,,0,0,0,,,,320623206
+1,South Africa,6,C Brits,IT Guha,D van Niekerk,,0,0,0,,,,320623206
+1,South Africa,6,C Brits,IT Guha,D van Niekerk,,0,4,4,,,,320623206
+1,South Africa,7,D van Niekerk,A Brindle,C Brits,,0,1,1,,,,320623206
+1,South Africa,7,C Brits,A Brindle,D van Niekerk,,0,1,1,,,,320623206
+1,South Africa,7,D van Niekerk,A Brindle,C Brits,,0,1,1,,,,320623206
+1,South Africa,7,C Brits,A Brindle,D van Niekerk,,0,0,0,,,,320623206
+1,South Africa,7,C Brits,A Brindle,D van Niekerk,,0,0,0,,,,320623206
+1,South Africa,7,C Brits,A Brindle,D van Niekerk,,0,0,0,,,,320623206
+1,South Africa,8,D van Niekerk,D Hazell,C Brits,,0,0,0,,,,320623206
+1,South Africa,8,D van Niekerk,D Hazell,C Brits,,0,1,1,,,,320623206
+1,South Africa,8,C Brits,D Hazell,D van Niekerk,,0,0,0,,,,320623206
+1,South Africa,8,C Brits,D Hazell,D van Niekerk,,0,1,1,,,,320623206
+1,South Africa,8,D van Niekerk,D Hazell,C Brits,,0,1,1,,,,320623206
+1,South Africa,8,C Brits,D Hazell,D van Niekerk,,0,1,1,,,,320623206
+1,South Africa,9,C Brits,JL Gunn,D van Niekerk,,0,0,0,,,,320623206
+1,South Africa,9,C Brits,JL Gunn,D van Niekerk,,0,0,0,,,,320623206
+1,South Africa,9,C Brits,JL Gunn,D van Niekerk,,0,1,1,,,,320623206
+1,South Africa,9,D van Niekerk,JL Gunn,C Brits,,0,0,0,,,,320623206
+1,South Africa,9,D van Niekerk,JL Gunn,C Brits,,0,4,4,,,,320623206
+1,South Africa,9,D van Niekerk,JL Gunn,C Brits,wides,1,1,0,,,,320623206
+1,South Africa,9,D van Niekerk,JL Gunn,C Brits,,0,1,1,,,,320623206
+1,South Africa,10,D van Niekerk,D Hazell,C Brits,,0,1,1,,,,320623206
+1,South Africa,10,C Brits,D Hazell,D van Niekerk,,0,1,1,,,,320623206
+1,South Africa,10,D van Niekerk,D Hazell,C Brits,,0,1,1,,,,320623206
+1,South Africa,10,C Brits,D Hazell,D van Niekerk,,0,2,2,,,,320623206
+1,South Africa,10,C Brits,D Hazell,D van Niekerk,,0,4,4,,,,320623206
+1,South Africa,10,C Brits,D Hazell,D van Niekerk,,0,1,1,,,,320623206
+1,South Africa,11,C Brits,JL Gunn,D van Niekerk,,0,1,1,,,,320623206
+1,South Africa,11,D van Niekerk,JL Gunn,C Brits,,0,1,1,,,,320623206
+1,South Africa,11,C Brits,JL Gunn,D van Niekerk,,0,0,0,,,,320623206
+1,South Africa,11,C Brits,JL Gunn,D van Niekerk,byes,1,1,0,,,,320623206
+1,South Africa,11,D van Niekerk,JL Gunn,C Brits,,0,1,1,,,,320623206
+1,South Africa,11,C Brits,JL Gunn,D van Niekerk,,0,0,0,,,,320623206
+1,South Africa,12,D van Niekerk,IT Guha,C Brits,,0,2,2,,,,320623206
+1,South Africa,12,D van Niekerk,IT Guha,C Brits,,0,1,1,,,,320623206
+1,South Africa,12,C Brits,IT Guha,D van Niekerk,,0,0,0,,,,320623206
+1,South Africa,12,C Brits,IT Guha,D van Niekerk,,0,4,4,,,,320623206
+1,South Africa,12,C Brits,IT Guha,D van Niekerk,,0,1,1,,,,320623206
+1,South Africa,12,D van Niekerk,IT Guha,C Brits,,0,0,0,,,,320623206
+1,South Africa,13,C Brits,LA Marsh,D van Niekerk,,0,1,1,,,,320623206
+1,South Africa,13,D van Niekerk,LA Marsh,C Brits,,0,0,0,,,,320623206
+1,South Africa,13,D van Niekerk,LA Marsh,C Brits,,0,0,0,,,,320623206
+1,South Africa,13,D van Niekerk,LA Marsh,C Brits,,0,0,0,,,,320623206
+1,South Africa,13,D van Niekerk,LA Marsh,C Brits,,0,1,1,,,,320623206
+1,South Africa,13,C Brits,LA Marsh,D van Niekerk,,0,1,1,,,,320623206
+1,South Africa,14,C Brits,JL Gunn,D van Niekerk,wides,1,1,0,,,,320623206
+1,South Africa,14,C Brits,JL Gunn,D van Niekerk,,0,4,4,,,,320623206
+1,South Africa,14,C Brits,JL Gunn,D van Niekerk,,0,4,4,,,,320623206
+1,South Africa,14,C Brits,JL Gunn,D van Niekerk,,0,1,1,,,,320623206
+1,South Africa,14,D van Niekerk,JL Gunn,C Brits,wides,1,1,0,stumped,D van Niekerk,SJ Taylor,320623206
+1,South Africa,14,CL Tryon,JL Gunn,C Brits,,0,0,0,,,,320623206
+1,South Africa,14,CL Tryon,JL Gunn,C Brits,,0,1,1,,,,320623206
+1,South Africa,14,C Brits,JL Gunn,CL Tryon,,0,1,1,,,,320623206
+1,South Africa,15,C Brits,LA Marsh,CL Tryon,,0,0,0,bowled,C Brits,,320623206
+1,South Africa,15,M du Preez,LA Marsh,CL Tryon,,0,1,1,,,,320623206
+1,South Africa,15,CL Tryon,LA Marsh,M du Preez,,0,4,4,,,,320623206
+1,South Africa,15,CL Tryon,LA Marsh,M du Preez,,0,1,1,,,,320623206
+1,South Africa,15,M du Preez,LA Marsh,CL Tryon,,0,0,0,,,,320623206
+1,South Africa,15,M du Preez,LA Marsh,CL Tryon,,0,1,1,,,,320623206
+1,South Africa,16,M du Preez,IT Guha,CL Tryon,,0,4,4,,,,320623206
+1,South Africa,16,M du Preez,IT Guha,CL Tryon,,0,0,0,stumped,M du Preez,SJ Taylor,320623206
+1,South Africa,16,D Devnarain,IT Guha,CL Tryon,,0,1,1,,,,320623206
+1,South Africa,16,CL Tryon,IT Guha,D Devnarain,,0,0,0,caught,CL Tryon,JL Gunn,320623206
+1,South Africa,16,S Ismail,IT Guha,D Devnarain,,0,0,0,,,,320623206
+1,South Africa,16,S Ismail,IT Guha,D Devnarain,,0,0,0,,,,320623206
+1,South Africa,17,D Devnarain,A Brindle,S Ismail,,0,1,1,,,,320623206
+1,South Africa,17,S Ismail,A Brindle,D Devnarain,,0,1,1,,,,320623206
+1,South Africa,17,D Devnarain,A Brindle,S Ismail,,0,1,1,,,,320623206
+1,South Africa,17,S Ismail,A Brindle,D Devnarain,,0,2,2,,,,320623206
+1,South Africa,17,S Ismail,A Brindle,D Devnarain,,0,0,0,,,,320623206
+1,South Africa,17,S Ismail,A Brindle,D Devnarain,,0,1,1,,,,320623206
+1,South Africa,18,S Ismail,JL Gunn,D Devnarain,,0,0,0,,,,320623206
+1,South Africa,18,S Ismail,JL Gunn,D Devnarain,,0,1,1,,,,320623206
+1,South Africa,18,D Devnarain,JL Gunn,S Ismail,,0,0,0,,,,320623206
+1,South Africa,18,D Devnarain,JL Gunn,S Ismail,,0,1,1,,,,320623206
+1,South Africa,18,S Ismail,JL Gunn,D Devnarain,,0,1,1,,,,320623206
+1,South Africa,18,D Devnarain,JL Gunn,S Ismail,,0,1,1,,,,320623206
+1,South Africa,19,D Devnarain,LA Marsh,S Ismail,,0,1,1,,,,320623206
+1,South Africa,19,S Ismail,LA Marsh,D Devnarain,,0,0,0,stumped,S Ismail,SJ Taylor,320623206
+1,South Africa,19,M Smook,LA Marsh,D Devnarain,,0,1,1,,,,320623206
+1,South Africa,19,D Devnarain,LA Marsh,M Smook,,0,0,0,,,,320623206
+1,South Africa,19,D Devnarain,LA Marsh,M Smook,,0,1,1,,,,320623206
+1,South Africa,19,M Smook,LA Marsh,D Devnarain,,0,1,1,,,,320623206

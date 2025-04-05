@@ -1,0 +1,103 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Bangladesh,0,Tamim Iqbal,Tanwir Afzal,Anamul Haque,,0,0,0,,,,340223402
+1,Bangladesh,0,Tamim Iqbal,Tanwir Afzal,Anamul Haque,,0,0,0,bowled,Tamim Iqbal,,340223402
+1,Bangladesh,0,Sabbir Rahman,Tanwir Afzal,Anamul Haque,wides,1,1,0,,,,340223402
+1,Bangladesh,0,Sabbir Rahman,Tanwir Afzal,Anamul Haque,,0,0,0,,,,340223402
+1,Bangladesh,0,Sabbir Rahman,Tanwir Afzal,Anamul Haque,,0,2,2,,,,340223402
+1,Bangladesh,0,Sabbir Rahman,Tanwir Afzal,Anamul Haque,,0,0,0,,,,340223402
+1,Bangladesh,0,Sabbir Rahman,Tanwir Afzal,Anamul Haque,,0,0,0,lbw,Sabbir Rahman,,340223402
+1,Bangladesh,1,Anamul Haque,Haseeb Amjad,Shakib Al Hasan,,0,0,0,,,,340223402
+1,Bangladesh,1,Anamul Haque,Haseeb Amjad,Shakib Al Hasan,,0,1,1,,,,340223402
+1,Bangladesh,1,Shakib Al Hasan,Haseeb Amjad,Anamul Haque,,0,0,0,,,,340223402
+1,Bangladesh,1,Shakib Al Hasan,Haseeb Amjad,Anamul Haque,,0,1,1,,,,340223402
+1,Bangladesh,1,Anamul Haque,Haseeb Amjad,Shakib Al Hasan,,0,1,1,,,,340223402
+1,Bangladesh,1,Shakib Al Hasan,Haseeb Amjad,Anamul Haque,,0,4,4,,,,340223402
+1,Bangladesh,2,Anamul Haque,Tanwir Afzal,Shakib Al Hasan,,0,6,6,,,,340223402
+1,Bangladesh,2,Anamul Haque,Tanwir Afzal,Shakib Al Hasan,,0,0,0,,,,340223402
+1,Bangladesh,2,Anamul Haque,Tanwir Afzal,Shakib Al Hasan,,0,0,0,,,,340223402
+1,Bangladesh,2,Anamul Haque,Tanwir Afzal,Shakib Al Hasan,,0,2,2,,,,340223402
+1,Bangladesh,2,Anamul Haque,Tanwir Afzal,Shakib Al Hasan,,0,1,1,,,,340223402
+1,Bangladesh,2,Shakib Al Hasan,Tanwir Afzal,Anamul Haque,,0,1,1,,,,340223402
+1,Bangladesh,3,Shakib Al Hasan,Haseeb Amjad,Anamul Haque,,0,4,4,,,,340223402
+1,Bangladesh,3,Shakib Al Hasan,Haseeb Amjad,Anamul Haque,,0,4,4,,,,340223402
+1,Bangladesh,3,Shakib Al Hasan,Haseeb Amjad,Anamul Haque,,0,0,0,,,,340223402
+1,Bangladesh,3,Shakib Al Hasan,Haseeb Amjad,Anamul Haque,,0,1,1,,,,340223402
+1,Bangladesh,3,Anamul Haque,Haseeb Amjad,Shakib Al Hasan,,0,0,0,,,,340223402
+1,Bangladesh,3,Anamul Haque,Haseeb Amjad,Shakib Al Hasan,,0,0,0,,,,340223402
+1,Bangladesh,4,Shakib Al Hasan,Tanwir Afzal,Anamul Haque,,0,0,0,,,,340223402
+1,Bangladesh,4,Shakib Al Hasan,Tanwir Afzal,Anamul Haque,,0,4,4,,,,340223402
+1,Bangladesh,4,Shakib Al Hasan,Tanwir Afzal,Anamul Haque,,0,1,1,,,,340223402
+1,Bangladesh,4,Anamul Haque,Tanwir Afzal,Shakib Al Hasan,,0,1,1,,,,340223402
+1,Bangladesh,4,Shakib Al Hasan,Tanwir Afzal,Anamul Haque,,0,1,1,,,,340223402
+1,Bangladesh,4,Anamul Haque,Tanwir Afzal,Shakib Al Hasan,,0,1,1,,,,340223402
+1,Bangladesh,5,Anamul Haque,Nadeem Ahmed,Shakib Al Hasan,,0,1,1,,,,340223402
+1,Bangladesh,5,Shakib Al Hasan,Nadeem Ahmed,Anamul Haque,,0,1,1,,,,340223402
+1,Bangladesh,5,Anamul Haque,Nadeem Ahmed,Shakib Al Hasan,,0,4,4,,,,340223402
+1,Bangladesh,5,Anamul Haque,Nadeem Ahmed,Shakib Al Hasan,,0,4,4,,,,340223402
+1,Bangladesh,5,Anamul Haque,Nadeem Ahmed,Shakib Al Hasan,,0,4,4,,,,340223402
+1,Bangladesh,5,Anamul Haque,Nadeem Ahmed,Shakib Al Hasan,,0,0,0,bowled,Anamul Haque,,340223402
+1,Bangladesh,6,Shakib Al Hasan,Tanwir Afzal,Mushfiqur Rahim,,0,0,0,,,,340223402
+1,Bangladesh,6,Shakib Al Hasan,Tanwir Afzal,Mushfiqur Rahim,,0,1,1,,,,340223402
+1,Bangladesh,6,Mushfiqur Rahim,Tanwir Afzal,Shakib Al Hasan,,0,0,0,,,,340223402
+1,Bangladesh,6,Mushfiqur Rahim,Tanwir Afzal,Shakib Al Hasan,,0,1,1,,,,340223402
+1,Bangladesh,6,Shakib Al Hasan,Tanwir Afzal,Mushfiqur Rahim,legbyes,1,1,0,,,,340223402
+1,Bangladesh,6,Mushfiqur Rahim,Tanwir Afzal,Shakib Al Hasan,,0,1,1,,,,340223402
+1,Bangladesh,7,Mushfiqur Rahim,Irfan Ahmed,Shakib Al Hasan,,0,0,0,,,,340223402
+1,Bangladesh,7,Mushfiqur Rahim,Irfan Ahmed,Shakib Al Hasan,,0,1,1,,,,340223402
+1,Bangladesh,7,Shakib Al Hasan,Irfan Ahmed,Mushfiqur Rahim,,0,4,4,,,,340223402
+1,Bangladesh,7,Shakib Al Hasan,Irfan Ahmed,Mushfiqur Rahim,,0,0,0,,,,340223402
+1,Bangladesh,7,Shakib Al Hasan,Irfan Ahmed,Mushfiqur Rahim,,0,1,1,,,,340223402
+1,Bangladesh,7,Mushfiqur Rahim,Irfan Ahmed,Shakib Al Hasan,,0,4,4,,,,340223402
+1,Bangladesh,8,Shakib Al Hasan,Ehsan Nawaz,Mushfiqur Rahim,,0,1,1,,,,340223402
+1,Bangladesh,8,Mushfiqur Rahim,Ehsan Nawaz,Shakib Al Hasan,,0,0,0,,,,340223402
+1,Bangladesh,8,Mushfiqur Rahim,Ehsan Nawaz,Shakib Al Hasan,,0,4,4,,,,340223402
+1,Bangladesh,8,Mushfiqur Rahim,Ehsan Nawaz,Shakib Al Hasan,,0,4,4,,,,340223402
+1,Bangladesh,8,Mushfiqur Rahim,Ehsan Nawaz,Shakib Al Hasan,,0,1,1,,,,340223402
+1,Bangladesh,8,Shakib Al Hasan,Ehsan Nawaz,Mushfiqur Rahim,,0,0,0,,,,340223402
+1,Bangladesh,9,Mushfiqur Rahim,Nizakat Khan,Shakib Al Hasan,,0,1,1,,,,340223402
+1,Bangladesh,9,Shakib Al Hasan,Nizakat Khan,Mushfiqur Rahim,,0,0,0,,,,340223402
+1,Bangladesh,9,Shakib Al Hasan,Nizakat Khan,Mushfiqur Rahim,,0,0,0,,,,340223402
+1,Bangladesh,9,Shakib Al Hasan,Nizakat Khan,Mushfiqur Rahim,,0,1,1,,,,340223402
+1,Bangladesh,9,Mushfiqur Rahim,Nizakat Khan,Shakib Al Hasan,,0,2,2,,,,340223402
+1,Bangladesh,9,Mushfiqur Rahim,Nizakat Khan,Shakib Al Hasan,,0,1,1,,,,340223402
+1,Bangladesh,10,Mushfiqur Rahim,Irfan Ahmed,Shakib Al Hasan,,0,1,1,,,,340223402
+1,Bangladesh,10,Shakib Al Hasan,Irfan Ahmed,Mushfiqur Rahim,,0,4,4,,,,340223402
+1,Bangladesh,10,Shakib Al Hasan,Irfan Ahmed,Mushfiqur Rahim,,0,0,0,,,,340223402
+1,Bangladesh,10,Shakib Al Hasan,Irfan Ahmed,Mushfiqur Rahim,,0,0,0,caught,Shakib Al Hasan,Nizakat Khan,340223402
+1,Bangladesh,10,Nasir Hossain,Irfan Ahmed,Mushfiqur Rahim,,0,1,1,,,,340223402
+1,Bangladesh,10,Mushfiqur Rahim,Irfan Ahmed,Nasir Hossain,,0,1,1,,,,340223402
+1,Bangladesh,11,Mushfiqur Rahim,Nizakat Khan,Nasir Hossain,,0,1,1,,,,340223402
+1,Bangladesh,11,Nasir Hossain,Nizakat Khan,Mushfiqur Rahim,,0,1,1,,,,340223402
+1,Bangladesh,11,Mushfiqur Rahim,Nizakat Khan,Nasir Hossain,,0,0,0,,,,340223402
+1,Bangladesh,11,Mushfiqur Rahim,Nizakat Khan,Nasir Hossain,,0,0,0,caught,Mushfiqur Rahim,Munir Dar,340223402
+1,Bangladesh,11,Mahmudullah,Nizakat Khan,Nasir Hossain,,0,1,1,,,,340223402
+1,Bangladesh,11,Nasir Hossain,Nizakat Khan,Mahmudullah,,0,1,1,,,,340223402
+1,Bangladesh,12,Nasir Hossain,Nadeem Ahmed,Mahmudullah,,0,0,0,,,,340223402
+1,Bangladesh,12,Nasir Hossain,Nadeem Ahmed,Mahmudullah,,0,1,1,,,,340223402
+1,Bangladesh,12,Mahmudullah,Nadeem Ahmed,Nasir Hossain,,0,1,1,,,,340223402
+1,Bangladesh,12,Nasir Hossain,Nadeem Ahmed,Mahmudullah,,0,2,2,,,,340223402
+1,Bangladesh,12,Nasir Hossain,Nadeem Ahmed,Mahmudullah,,0,1,1,,,,340223402
+1,Bangladesh,12,Mahmudullah,Nadeem Ahmed,Nasir Hossain,,0,0,0,bowled,Mahmudullah,,340223402
+1,Bangladesh,13,Nasir Hossain,Nizakat Khan,Farhad Reza,,0,0,0,,,,340223402
+1,Bangladesh,13,Nasir Hossain,Nizakat Khan,Farhad Reza,,0,1,1,,,,340223402
+1,Bangladesh,13,Farhad Reza,Nizakat Khan,Nasir Hossain,,0,0,0,,,,340223402
+1,Bangladesh,13,Farhad Reza,Nizakat Khan,Nasir Hossain,wides,3,3,0,,,,340223402
+1,Bangladesh,13,Farhad Reza,Nizakat Khan,Nasir Hossain,wides,1,1,0,,,,340223402
+1,Bangladesh,13,Farhad Reza,Nizakat Khan,Nasir Hossain,,0,0,0,caught,Farhad Reza,JJ Atkinson,340223402
+1,Bangladesh,13,Abdur Razzak,Nizakat Khan,Nasir Hossain,,0,0,0,caught,Abdur Razzak,JJ Atkinson,340223402
+1,Bangladesh,13,Rubel Hossain,Nizakat Khan,Nasir Hossain,,0,0,0,,,,340223402
+1,Bangladesh,14,Nasir Hossain,Nadeem Ahmed,Rubel Hossain,,0,0,0,,,,340223402
+1,Bangladesh,14,Nasir Hossain,Nadeem Ahmed,Rubel Hossain,,0,1,1,,,,340223402
+1,Bangladesh,14,Rubel Hossain,Nadeem Ahmed,Nasir Hossain,,0,0,0,,,,340223402
+1,Bangladesh,14,Rubel Hossain,Nadeem Ahmed,Nasir Hossain,,0,0,0,bowled,Rubel Hossain,,340223402
+1,Bangladesh,14,Al-Amin Hossain,Nadeem Ahmed,Nasir Hossain,,0,0,0,,,,340223402
+1,Bangladesh,14,Al-Amin Hossain,Nadeem Ahmed,Nasir Hossain,,0,0,0,,,,340223402
+1,Bangladesh,15,Nasir Hossain,Nizakat Khan,Al-Amin Hossain,,0,2,2,,,,340223402
+1,Bangladesh,15,Nasir Hossain,Nizakat Khan,Al-Amin Hossain,,0,0,0,,,,340223402
+1,Bangladesh,15,Nasir Hossain,Nizakat Khan,Al-Amin Hossain,,0,1,1,,,,340223402
+1,Bangladesh,15,Al-Amin Hossain,Nizakat Khan,Nasir Hossain,,0,1,1,,,,340223402
+1,Bangladesh,15,Nasir Hossain,Nizakat Khan,Al-Amin Hossain,,0,1,1,,,,340223402
+1,Bangladesh,15,Al-Amin Hossain,Nizakat Khan,Nasir Hossain,,0,0,0,,,,340223402
+1,Bangladesh,16,Nasir Hossain,Nadeem Ahmed,Al-Amin Hossain,,0,0,0,,,,340223402
+1,Bangladesh,16,Nasir Hossain,Nadeem Ahmed,Al-Amin Hossain,,0,1,1,,,,340223402
+1,Bangladesh,16,Al-Amin Hossain,Nadeem Ahmed,Nasir Hossain,,0,0,0,caught,Al-Amin Hossain,Babar Hayat,340223402

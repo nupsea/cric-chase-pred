@@ -1,0 +1,127 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Ireland,0,R Stokell,IJR Zwilling,GH Lewis,,0,0,0,,,,31680231680
+1,Ireland,0,R Stokell,IJR Zwilling,GH Lewis,,0,0,0,,,,31680231680
+1,Ireland,0,R Stokell,IJR Zwilling,GH Lewis,,0,0,0,,,,31680231680
+1,Ireland,0,R Stokell,IJR Zwilling,GH Lewis,,0,0,0,,,,31680231680
+1,Ireland,0,R Stokell,IJR Zwilling,GH Lewis,,0,1,1,,,,31680231680
+1,Ireland,0,GH Lewis,IJR Zwilling,R Stokell,,0,1,1,,,,31680231680
+1,Ireland,1,GH Lewis,DM Braat,R Stokell,,0,1,1,,,,31680231680
+1,Ireland,1,R Stokell,DM Braat,GH Lewis,,0,0,0,,,,31680231680
+1,Ireland,1,R Stokell,DM Braat,GH Lewis,,0,2,2,,,,31680231680
+1,Ireland,1,R Stokell,DM Braat,GH Lewis,,0,0,0,,,,31680231680
+1,Ireland,1,R Stokell,DM Braat,GH Lewis,,0,1,1,,,,31680231680
+1,Ireland,1,GH Lewis,DM Braat,R Stokell,,0,2,2,,,,31680231680
+1,Ireland,2,R Stokell,IJR Zwilling,GH Lewis,,0,0,0,,,,31680231680
+1,Ireland,2,R Stokell,IJR Zwilling,GH Lewis,,0,4,4,,,,31680231680
+1,Ireland,2,R Stokell,IJR Zwilling,GH Lewis,,0,0,0,lbw,R Stokell,,31680231680
+1,Ireland,2,L Delany,IJR Zwilling,GH Lewis,,0,0,0,,,,31680231680
+1,Ireland,2,L Delany,IJR Zwilling,GH Lewis,,0,0,0,,,,31680231680
+1,Ireland,2,L Delany,IJR Zwilling,GH Lewis,,0,0,0,,,,31680231680
+1,Ireland,3,GH Lewis,DM Braat,L Delany,,0,0,0,,,,31680231680
+1,Ireland,3,GH Lewis,DM Braat,L Delany,,0,0,0,,,,31680231680
+1,Ireland,3,GH Lewis,DM Braat,L Delany,,0,0,0,,,,31680231680
+1,Ireland,3,GH Lewis,DM Braat,L Delany,,0,6,6,,,,31680231680
+1,Ireland,3,GH Lewis,DM Braat,L Delany,,0,0,0,,,,31680231680
+1,Ireland,3,GH Lewis,DM Braat,L Delany,,0,0,0,,,,31680231680
+1,Ireland,4,L Delany,IJR Zwilling,GH Lewis,wides,1,1,0,,,,31680231680
+1,Ireland,4,L Delany,IJR Zwilling,GH Lewis,wides,1,1,0,,,,31680231680
+1,Ireland,4,L Delany,IJR Zwilling,GH Lewis,,0,0,0,caught,L Delany,F Overdijk,31680231680
+1,Ireland,4,L Paul,IJR Zwilling,GH Lewis,,0,0,0,,,,31680231680
+1,Ireland,4,L Paul,IJR Zwilling,GH Lewis,,0,0,0,caught,L Paul,B de Leede,31680231680
+1,Ireland,4,EAJ Richardson,IJR Zwilling,GH Lewis,,0,0,0,,,,31680231680
+1,Ireland,4,EAJ Richardson,IJR Zwilling,GH Lewis,,0,1,1,,,,31680231680
+1,Ireland,4,GH Lewis,IJR Zwilling,EAJ Richardson,,0,1,1,,,,31680231680
+1,Ireland,5,GH Lewis,DM Braat,EAJ Richardson,,0,0,0,,,,31680231680
+1,Ireland,5,GH Lewis,DM Braat,EAJ Richardson,,0,0,0,,,,31680231680
+1,Ireland,5,GH Lewis,DM Braat,EAJ Richardson,,0,2,2,,,,31680231680
+1,Ireland,5,GH Lewis,DM Braat,EAJ Richardson,,0,0,0,,,,31680231680
+1,Ireland,5,GH Lewis,DM Braat,EAJ Richardson,wides,1,1,0,,,,31680231680
+1,Ireland,5,GH Lewis,DM Braat,EAJ Richardson,,0,1,1,,,,31680231680
+1,Ireland,5,EAJ Richardson,DM Braat,GH Lewis,,0,0,0,,,,31680231680
+1,Ireland,6,GH Lewis,IJR Zwilling,EAJ Richardson,,0,1,1,,,,31680231680
+1,Ireland,6,EAJ Richardson,IJR Zwilling,GH Lewis,,0,2,2,,,,31680231680
+1,Ireland,6,EAJ Richardson,IJR Zwilling,GH Lewis,legbyes,1,1,0,,,,31680231680
+1,Ireland,6,GH Lewis,IJR Zwilling,EAJ Richardson,,0,0,0,,,,31680231680
+1,Ireland,6,GH Lewis,IJR Zwilling,EAJ Richardson,,0,0,0,,,,31680231680
+1,Ireland,6,GH Lewis,IJR Zwilling,EAJ Richardson,,0,1,1,,,,31680231680
+1,Ireland,7,GH Lewis,DM Braat,EAJ Richardson,,0,1,1,,,,31680231680
+1,Ireland,7,EAJ Richardson,DM Braat,GH Lewis,,0,0,0,,,,31680231680
+1,Ireland,7,EAJ Richardson,DM Braat,GH Lewis,,0,0,0,,,,31680231680
+1,Ireland,7,EAJ Richardson,DM Braat,GH Lewis,,0,4,4,,,,31680231680
+1,Ireland,7,EAJ Richardson,DM Braat,GH Lewis,,0,0,0,,,,31680231680
+1,Ireland,7,EAJ Richardson,DM Braat,GH Lewis,,0,0,0,,,,31680231680
+1,Ireland,8,GH Lewis,F Overdijk,EAJ Richardson,,0,1,1,,,,31680231680
+1,Ireland,8,EAJ Richardson,F Overdijk,GH Lewis,,0,1,1,,,,31680231680
+1,Ireland,8,GH Lewis,F Overdijk,EAJ Richardson,,0,0,0,,,,31680231680
+1,Ireland,8,GH Lewis,F Overdijk,EAJ Richardson,,0,1,1,,,,31680231680
+1,Ireland,8,EAJ Richardson,F Overdijk,GH Lewis,,0,0,0,,,,31680231680
+1,Ireland,8,EAJ Richardson,F Overdijk,GH Lewis,,0,0,0,,,,31680231680
+1,Ireland,9,GH Lewis,C de Lange,EAJ Richardson,,0,0,0,,,,31680231680
+1,Ireland,9,GH Lewis,C de Lange,EAJ Richardson,,0,1,1,,,,31680231680
+1,Ireland,9,EAJ Richardson,C de Lange,GH Lewis,wides,1,1,0,,,,31680231680
+1,Ireland,9,EAJ Richardson,C de Lange,GH Lewis,,0,0,0,,,,31680231680
+1,Ireland,9,EAJ Richardson,C de Lange,GH Lewis,,0,0,0,,,,31680231680
+1,Ireland,9,EAJ Richardson,C de Lange,GH Lewis,,0,2,2,,,,31680231680
+1,Ireland,9,EAJ Richardson,C de Lange,GH Lewis,,0,1,1,,,,31680231680
+1,Ireland,10,EAJ Richardson,F Overdijk,GH Lewis,,0,4,4,,,,31680231680
+1,Ireland,10,EAJ Richardson,F Overdijk,GH Lewis,,0,4,4,,,,31680231680
+1,Ireland,10,EAJ Richardson,F Overdijk,GH Lewis,,0,0,0,,,,31680231680
+1,Ireland,10,EAJ Richardson,F Overdijk,GH Lewis,,0,1,1,,,,31680231680
+1,Ireland,10,GH Lewis,F Overdijk,EAJ Richardson,,0,0,0,,,,31680231680
+1,Ireland,10,GH Lewis,F Overdijk,EAJ Richardson,,0,4,4,,,,31680231680
+1,Ireland,11,EAJ Richardson,C de Lange,GH Lewis,,0,2,2,,,,31680231680
+1,Ireland,11,EAJ Richardson,C de Lange,GH Lewis,,0,4,4,,,,31680231680
+1,Ireland,11,EAJ Richardson,C de Lange,GH Lewis,,0,0,0,,,,31680231680
+1,Ireland,11,EAJ Richardson,C de Lange,GH Lewis,,0,0,0,,,,31680231680
+1,Ireland,11,EAJ Richardson,C de Lange,GH Lewis,,0,0,0,,,,31680231680
+1,Ireland,11,EAJ Richardson,C de Lange,GH Lewis,,0,1,1,,,,31680231680
+1,Ireland,12,EAJ Richardson,S Siegers,GH Lewis,,0,4,4,,,,31680231680
+1,Ireland,12,EAJ Richardson,S Siegers,GH Lewis,,0,0,0,,,,31680231680
+1,Ireland,12,EAJ Richardson,S Siegers,GH Lewis,,0,1,1,,,,31680231680
+1,Ireland,12,GH Lewis,S Siegers,EAJ Richardson,,0,0,0,,,,31680231680
+1,Ireland,12,GH Lewis,S Siegers,EAJ Richardson,,0,0,0,,,,31680231680
+1,Ireland,12,GH Lewis,S Siegers,EAJ Richardson,,0,0,0,,,,31680231680
+1,Ireland,13,EAJ Richardson,EN Lynch,GH Lewis,,0,0,0,,,,31680231680
+1,Ireland,13,EAJ Richardson,EN Lynch,GH Lewis,,0,1,1,,,,31680231680
+1,Ireland,13,GH Lewis,EN Lynch,EAJ Richardson,,0,0,0,,,,31680231680
+1,Ireland,13,GH Lewis,EN Lynch,EAJ Richardson,,0,0,0,,,,31680231680
+1,Ireland,13,GH Lewis,EN Lynch,EAJ Richardson,,0,1,1,,,,31680231680
+1,Ireland,13,EAJ Richardson,EN Lynch,GH Lewis,,0,1,1,,,,31680231680
+1,Ireland,14,EAJ Richardson,S Siegers,GH Lewis,,0,1,1,,,,31680231680
+1,Ireland,14,GH Lewis,S Siegers,EAJ Richardson,,0,0,0,,,,31680231680
+1,Ireland,14,GH Lewis,S Siegers,EAJ Richardson,,0,0,0,,,,31680231680
+1,Ireland,14,GH Lewis,S Siegers,EAJ Richardson,,0,4,4,,,,31680231680
+1,Ireland,14,GH Lewis,S Siegers,EAJ Richardson,,0,2,2,,,,31680231680
+1,Ireland,14,GH Lewis,S Siegers,EAJ Richardson,,0,1,1,,,,31680231680
+1,Ireland,15,GH Lewis,EN Lynch,EAJ Richardson,,0,0,0,caught,GH Lewis,M Veringmeier,31680231680
+1,Ireland,15,O Prendergast,EN Lynch,EAJ Richardson,,0,0,0,caught,O Prendergast,F Overdijk,31680231680
+1,Ireland,15,EAJ Richardson,EN Lynch,L Maritz,,0,0,0,,,,31680231680
+1,Ireland,15,EAJ Richardson,EN Lynch,L Maritz,wides,1,1,0,,,,31680231680
+1,Ireland,15,EAJ Richardson,EN Lynch,L Maritz,wides,1,1,0,,,,31680231680
+1,Ireland,15,EAJ Richardson,EN Lynch,L Maritz,,0,0,0,,,,31680231680
+1,Ireland,15,EAJ Richardson,EN Lynch,L Maritz,,0,0,0,,,,31680231680
+1,Ireland,15,EAJ Richardson,EN Lynch,L Maritz,,0,0,0,,,,31680231680
+1,Ireland,16,L Maritz,S Siegers,EAJ Richardson,,0,0,0,,,,31680231680
+1,Ireland,16,L Maritz,S Siegers,EAJ Richardson,,0,0,0,,,,31680231680
+1,Ireland,16,L Maritz,S Siegers,EAJ Richardson,,0,0,0,bowled,L Maritz,,31680231680
+1,Ireland,16,S MacMahon,S Siegers,EAJ Richardson,,0,1,1,,,,31680231680
+1,Ireland,16,EAJ Richardson,S Siegers,S MacMahon,,0,2,2,,,,31680231680
+1,Ireland,16,EAJ Richardson,S Siegers,S MacMahon,,0,2,2,,,,31680231680
+1,Ireland,17,S MacMahon,EN Lynch,EAJ Richardson,,0,4,4,,,,31680231680
+1,Ireland,17,S MacMahon,EN Lynch,EAJ Richardson,,0,1,1,,,,31680231680
+1,Ireland,17,EAJ Richardson,EN Lynch,S MacMahon,,0,2,2,,,,31680231680
+1,Ireland,17,EAJ Richardson,EN Lynch,S MacMahon,,0,0,0,,,,31680231680
+1,Ireland,17,EAJ Richardson,EN Lynch,S MacMahon,,0,1,1,,,,31680231680
+1,Ireland,17,S MacMahon,EN Lynch,EAJ Richardson,,0,0,0,bowled,S MacMahon,,31680231680
+1,Ireland,18,EAJ Richardson,S Siegers,MV Waldron,,0,1,1,,,,31680231680
+1,Ireland,18,MV Waldron,S Siegers,EAJ Richardson,,0,0,0,,,,31680231680
+1,Ireland,18,MV Waldron,S Siegers,EAJ Richardson,,0,1,1,,,,31680231680
+1,Ireland,18,EAJ Richardson,S Siegers,MV Waldron,,0,1,1,,,,31680231680
+1,Ireland,18,MV Waldron,S Siegers,EAJ Richardson,legbyes,1,1,0,,,,31680231680
+1,Ireland,18,EAJ Richardson,S Siegers,MV Waldron,,0,1,1,,,,31680231680
+1,Ireland,19,EAJ Richardson,EN Lynch,MV Waldron,,0,6,6,,,,31680231680
+1,Ireland,19,EAJ Richardson,EN Lynch,MV Waldron,,0,2,2,,,,31680231680
+1,Ireland,19,EAJ Richardson,EN Lynch,MV Waldron,,0,0,0,bowled,EAJ Richardson,,31680231680
+1,Ireland,19,C Murray,EN Lynch,MV Waldron,,0,1,1,,,,31680231680
+1,Ireland,19,MV Waldron,EN Lynch,C Murray,,0,1,1,,,,31680231680
+1,Ireland,19,C Murray,EN Lynch,MV Waldron,,0,1,1,run out,C Murray,F Overdijk,31680231680

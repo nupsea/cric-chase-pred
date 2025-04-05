@@ -1,0 +1,86 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,South Africa,0,JN Malan,Shaheen Shah Afridi,AK Markram,,0,0,0,,,,31468231468
+2,South Africa,0,JN Malan,Shaheen Shah Afridi,AK Markram,,0,1,1,,,,31468231468
+2,South Africa,0,AK Markram,Shaheen Shah Afridi,JN Malan,,0,0,0,,,,31468231468
+2,South Africa,0,AK Markram,Shaheen Shah Afridi,JN Malan,,0,4,4,,,,31468231468
+2,South Africa,0,AK Markram,Shaheen Shah Afridi,JN Malan,,0,0,0,,,,31468231468
+2,South Africa,0,AK Markram,Shaheen Shah Afridi,JN Malan,,0,1,1,,,,31468231468
+2,South Africa,1,AK Markram,Mohammad Nawaz (3),JN Malan,,0,1,1,,,,31468231468
+2,South Africa,1,JN Malan,Mohammad Nawaz (3),AK Markram,,0,1,1,,,,31468231468
+2,South Africa,1,AK Markram,Mohammad Nawaz (3),JN Malan,,0,0,0,,,,31468231468
+2,South Africa,1,AK Markram,Mohammad Nawaz (3),JN Malan,,0,0,0,,,,31468231468
+2,South Africa,1,AK Markram,Mohammad Nawaz (3),JN Malan,,0,4,4,,,,31468231468
+2,South Africa,1,AK Markram,Mohammad Nawaz (3),JN Malan,,0,6,6,,,,31468231468
+2,South Africa,2,JN Malan,Shaheen Shah Afridi,AK Markram,,0,1,1,,,,31468231468
+2,South Africa,2,AK Markram,Shaheen Shah Afridi,JN Malan,,0,0,0,,,,31468231468
+2,South Africa,2,AK Markram,Shaheen Shah Afridi,JN Malan,legbyes,1,1,0,,,,31468231468
+2,South Africa,2,JN Malan,Shaheen Shah Afridi,AK Markram,,0,0,0,,,,31468231468
+2,South Africa,2,JN Malan,Shaheen Shah Afridi,AK Markram,,0,0,0,,,,31468231468
+2,South Africa,2,JN Malan,Shaheen Shah Afridi,AK Markram,,0,6,6,,,,31468231468
+2,South Africa,3,AK Markram,Mohammad Hasnain,JN Malan,,0,4,4,,,,31468231468
+2,South Africa,3,AK Markram,Mohammad Hasnain,JN Malan,,0,4,4,,,,31468231468
+2,South Africa,3,AK Markram,Mohammad Hasnain,JN Malan,,0,0,0,,,,31468231468
+2,South Africa,3,AK Markram,Mohammad Hasnain,JN Malan,,0,0,0,,,,31468231468
+2,South Africa,3,AK Markram,Mohammad Hasnain,JN Malan,,0,4,4,,,,31468231468
+2,South Africa,3,AK Markram,Mohammad Hasnain,JN Malan,,0,0,0,,,,31468231468
+2,South Africa,4,JN Malan,Hasan Ali,AK Markram,,0,6,6,,,,31468231468
+2,South Africa,4,JN Malan,Hasan Ali,AK Markram,,0,0,0,,,,31468231468
+2,South Africa,4,JN Malan,Hasan Ali,AK Markram,,0,0,0,caught,JN Malan,Shaheen Shah Afridi,31468231468
+2,South Africa,4,AK Markram,Hasan Ali,WJ Lubbe,,0,1,1,,,,31468231468
+2,South Africa,4,WJ Lubbe,Hasan Ali,AK Markram,,0,0,0,,,,31468231468
+2,South Africa,4,WJ Lubbe,Hasan Ali,AK Markram,,0,0,0,,,,31468231468
+2,South Africa,5,AK Markram,Mohammad Hasnain,WJ Lubbe,,0,1,1,,,,31468231468
+2,South Africa,5,WJ Lubbe,Mohammad Hasnain,AK Markram,,0,4,4,,,,31468231468
+2,South Africa,5,WJ Lubbe,Mohammad Hasnain,AK Markram,,0,4,4,,,,31468231468
+2,South Africa,5,WJ Lubbe,Mohammad Hasnain,AK Markram,,0,0,0,,,,31468231468
+2,South Africa,5,WJ Lubbe,Mohammad Hasnain,AK Markram,,0,4,4,,,,31468231468
+2,South Africa,5,WJ Lubbe,Mohammad Hasnain,AK Markram,,0,0,0,caught,WJ Lubbe,Babar Azam,31468231468
+2,South Africa,6,H Klaasen,Hasan Ali,AK Markram,,0,0,0,,,,31468231468
+2,South Africa,6,H Klaasen,Hasan Ali,AK Markram,,0,1,1,,,,31468231468
+2,South Africa,6,AK Markram,Hasan Ali,H Klaasen,wides,1,1,0,,,,31468231468
+2,South Africa,6,AK Markram,Hasan Ali,H Klaasen,,0,6,6,,,,31468231468
+2,South Africa,6,AK Markram,Hasan Ali,H Klaasen,,0,0,0,,,,31468231468
+2,South Africa,6,AK Markram,Hasan Ali,H Klaasen,,0,0,0,,,,31468231468
+2,South Africa,6,AK Markram,Hasan Ali,H Klaasen,,0,1,1,,,,31468231468
+2,South Africa,7,AK Markram,Mohammad Nawaz (3),H Klaasen,,0,1,1,,,,31468231468
+2,South Africa,7,H Klaasen,Mohammad Nawaz (3),AK Markram,,0,1,1,,,,31468231468
+2,South Africa,7,AK Markram,Mohammad Nawaz (3),H Klaasen,,0,4,4,,,,31468231468
+2,South Africa,7,AK Markram,Mohammad Nawaz (3),H Klaasen,,0,4,4,,,,31468231468
+2,South Africa,7,AK Markram,Mohammad Nawaz (3),H Klaasen,,0,1,1,,,,31468231468
+2,South Africa,7,H Klaasen,Mohammad Nawaz (3),AK Markram,,0,2,2,,,,31468231468
+2,South Africa,8,AK Markram,Usman Qadir,H Klaasen,,0,6,6,,,,31468231468
+2,South Africa,8,AK Markram,Usman Qadir,H Klaasen,,0,1,1,,,,31468231468
+2,South Africa,8,H Klaasen,Usman Qadir,AK Markram,,0,0,0,,,,31468231468
+2,South Africa,8,H Klaasen,Usman Qadir,AK Markram,,0,0,0,,,,31468231468
+2,South Africa,8,H Klaasen,Usman Qadir,AK Markram,,0,1,1,,,,31468231468
+2,South Africa,8,AK Markram,Usman Qadir,H Klaasen,,0,0,0,caught,AK Markram,Faheem Ashraf,31468231468
+2,South Africa,9,H Klaasen,Mohammad Nawaz (3),PJ van Biljon,,0,1,1,,,,31468231468
+2,South Africa,9,PJ van Biljon,Mohammad Nawaz (3),H Klaasen,,0,1,1,,,,31468231468
+2,South Africa,9,H Klaasen,Mohammad Nawaz (3),PJ van Biljon,,0,1,1,,,,31468231468
+2,South Africa,9,PJ van Biljon,Mohammad Nawaz (3),H Klaasen,,0,0,0,,,,31468231468
+2,South Africa,9,PJ van Biljon,Mohammad Nawaz (3),H Klaasen,,0,0,0,,,,31468231468
+2,South Africa,9,PJ van Biljon,Mohammad Nawaz (3),H Klaasen,,0,1,1,,,,31468231468
+2,South Africa,10,PJ van Biljon,Usman Qadir,H Klaasen,,0,0,0,,,,31468231468
+2,South Africa,10,PJ van Biljon,Usman Qadir,H Klaasen,,0,0,0,caught,PJ van Biljon,Mohammad Rizwan,31468231468
+2,South Africa,10,GF Linde,Usman Qadir,H Klaasen,,0,0,0,,,,31468231468
+2,South Africa,10,GF Linde,Usman Qadir,H Klaasen,,0,6,6,,,,31468231468
+2,South Africa,10,GF Linde,Usman Qadir,H Klaasen,,0,0,0,,,,31468231468
+2,South Africa,10,GF Linde,Usman Qadir,H Klaasen,,0,2,2,,,,31468231468
+2,South Africa,11,H Klaasen,Faheem Ashraf,GF Linde,,0,4,4,,,,31468231468
+2,South Africa,11,H Klaasen,Faheem Ashraf,GF Linde,,0,1,1,,,,31468231468
+2,South Africa,11,GF Linde,Faheem Ashraf,H Klaasen,,0,1,1,,,,31468231468
+2,South Africa,11,H Klaasen,Faheem Ashraf,GF Linde,,0,4,4,,,,31468231468
+2,South Africa,11,H Klaasen,Faheem Ashraf,GF Linde,,0,0,0,,,,31468231468
+2,South Africa,11,H Klaasen,Faheem Ashraf,GF Linde,,0,4,4,,,,31468231468
+2,South Africa,12,GF Linde,Usman Qadir,H Klaasen,,0,1,1,,,,31468231468
+2,South Africa,12,H Klaasen,Usman Qadir,GF Linde,,0,1,1,,,,31468231468
+2,South Africa,12,GF Linde,Usman Qadir,H Klaasen,,0,2,2,,,,31468231468
+2,South Africa,12,GF Linde,Usman Qadir,H Klaasen,,0,1,1,,,,31468231468
+2,South Africa,12,H Klaasen,Usman Qadir,GF Linde,,0,4,4,,,,31468231468
+2,South Africa,12,H Klaasen,Usman Qadir,GF Linde,,0,1,1,,,,31468231468
+2,South Africa,13,H Klaasen,Shaheen Shah Afridi,GF Linde,,0,2,2,,,,31468231468
+2,South Africa,13,H Klaasen,Shaheen Shah Afridi,GF Linde,,0,6,6,,,,31468231468
+2,South Africa,13,H Klaasen,Shaheen Shah Afridi,GF Linde,,0,1,1,,,,31468231468
+2,South Africa,13,GF Linde,Shaheen Shah Afridi,H Klaasen,,0,6,6,,,,31468231468
+2,South Africa,13,GF Linde,Shaheen Shah Afridi,H Klaasen,,0,1,1,,,,31468231468
+2,South Africa,13,H Klaasen,Shaheen Shah Afridi,GF Linde,,0,1,1,,,,31468231468

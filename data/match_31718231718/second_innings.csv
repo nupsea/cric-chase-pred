@@ -1,0 +1,126 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Bulgaria,0,P Mishra,Atif Kamal,KC D'Souza,,0,0,0,,,,31718231718
+2,Bulgaria,0,P Mishra,Atif Kamal,KC D'Souza,,0,1,1,,,,31718231718
+2,Bulgaria,0,KC D'Souza,Atif Kamal,P Mishra,wides,1,1,0,,,,31718231718
+2,Bulgaria,0,KC D'Souza,Atif Kamal,P Mishra,,0,0,0,,,,31718231718
+2,Bulgaria,0,KC D'Souza,Atif Kamal,P Mishra,,0,4,4,,,,31718231718
+2,Bulgaria,0,KC D'Souza,Atif Kamal,P Mishra,,0,4,4,,,,31718231718
+2,Bulgaria,0,KC D'Souza,Atif Kamal,P Mishra,,0,0,0,,,,31718231718
+2,Bulgaria,1,P Mishra,WJ Cope,KC D'Souza,wides,1,1,0,,,,31718231718
+2,Bulgaria,1,P Mishra,WJ Cope,KC D'Souza,,0,0,0,caught,P Mishra,A Nanda,31718231718
+2,Bulgaria,1,KC D'Souza,WJ Cope,H Lakov,,0,0,0,,,,31718231718
+2,Bulgaria,1,KC D'Souza,WJ Cope,H Lakov,,0,4,4,,,,31718231718
+2,Bulgaria,1,KC D'Souza,WJ Cope,H Lakov,,0,6,6,,,,31718231718
+2,Bulgaria,1,KC D'Souza,WJ Cope,H Lakov,wides,1,1,0,,,,31718231718
+2,Bulgaria,1,KC D'Souza,WJ Cope,H Lakov,,0,1,1,,,,31718231718
+2,Bulgaria,1,H Lakov,WJ Cope,KC D'Souza,byes,1,1,0,,,,31718231718
+2,Bulgaria,2,H Lakov,Atif Kamal,KC D'Souza,wides,1,1,0,,,,31718231718
+2,Bulgaria,2,H Lakov,Atif Kamal,KC D'Souza,,0,1,1,,,,31718231718
+2,Bulgaria,2,KC D'Souza,Atif Kamal,H Lakov,,0,2,2,,,,31718231718
+2,Bulgaria,2,KC D'Souza,Atif Kamal,H Lakov,,0,0,0,,,,31718231718
+2,Bulgaria,2,KC D'Souza,Atif Kamal,H Lakov,,0,0,0,,,,31718231718
+2,Bulgaria,2,KC D'Souza,Atif Kamal,H Lakov,,0,4,4,,,,31718231718
+2,Bulgaria,2,KC D'Souza,Atif Kamal,H Lakov,,0,4,4,,,,31718231718
+2,Bulgaria,3,H Lakov,A Nanda,KC D'Souza,,0,0,0,caught,H Lakov,A Manepalli,31718231718
+2,Bulgaria,3,IA De Silva,A Nanda,KC D'Souza,,0,2,2,,,,31718231718
+2,Bulgaria,3,IA De Silva,A Nanda,KC D'Souza,wides,1,1,0,,,,31718231718
+2,Bulgaria,3,IA De Silva,A Nanda,KC D'Souza,,0,1,1,,,,31718231718
+2,Bulgaria,3,KC D'Souza,A Nanda,IA De Silva,,0,0,0,,,,31718231718
+2,Bulgaria,3,KC D'Souza,A Nanda,IA De Silva,wides,1,1,0,,,,31718231718
+2,Bulgaria,3,KC D'Souza,A Nanda,IA De Silva,,0,0,0,,,,31718231718
+2,Bulgaria,3,KC D'Souza,A Nanda,IA De Silva,,0,2,2,,,,31718231718
+2,Bulgaria,4,IA De Silva,M Dixit,KC D'Souza,,0,0,0,,,,31718231718
+2,Bulgaria,4,IA De Silva,M Dixit,KC D'Souza,,0,0,0,,,,31718231718
+2,Bulgaria,4,IA De Silva,M Dixit,KC D'Souza,,0,1,1,,,,31718231718
+2,Bulgaria,4,KC D'Souza,M Dixit,IA De Silva,,0,0,0,,,,31718231718
+2,Bulgaria,4,KC D'Souza,M Dixit,IA De Silva,wides,1,1,0,,,,31718231718
+2,Bulgaria,4,KC D'Souza,M Dixit,IA De Silva,,0,0,0,,,,31718231718
+2,Bulgaria,4,KC D'Souza,M Dixit,IA De Silva,,0,0,0,caught,KC D'Souza,A Nanda,31718231718
+2,Bulgaria,5,IA De Silva,A Nanda,Omar Rassol,wides,1,1,0,,,,31718231718
+2,Bulgaria,5,IA De Silva,A Nanda,Omar Rassol,legbyes,1,1,0,,,,31718231718
+2,Bulgaria,5,Omar Rassol,A Nanda,IA De Silva,,0,1,1,,,,31718231718
+2,Bulgaria,5,IA De Silva,A Nanda,Omar Rassol,,0,0,0,,,,31718231718
+2,Bulgaria,5,IA De Silva,A Nanda,Omar Rassol,,0,1,1,,,,31718231718
+2,Bulgaria,5,Omar Rassol,A Nanda,IA De Silva,,0,0,0,,,,31718231718
+2,Bulgaria,5,Omar Rassol,A Nanda,IA De Silva,,0,0,0,,,,31718231718
+2,Bulgaria,6,IA De Silva,M Dixit,Omar Rassol,,0,0,0,run out,Omar Rassol,TC Barker,31718231718
+2,Bulgaria,6,IA De Silva,M Dixit,V Hristov,,0,0,0,,,,31718231718
+2,Bulgaria,6,IA De Silva,M Dixit,V Hristov,,0,1,1,,,,31718231718
+2,Bulgaria,6,V Hristov,M Dixit,IA De Silva,,0,0,0,,,,31718231718
+2,Bulgaria,6,V Hristov,M Dixit,IA De Silva,,0,0,0,,,,31718231718
+2,Bulgaria,6,V Hristov,M Dixit,IA De Silva,,0,2,2,,,,31718231718
+2,Bulgaria,7,IA De Silva,A Nanda,V Hristov,,0,1,1,,,,31718231718
+2,Bulgaria,7,V Hristov,A Nanda,IA De Silva,,0,0,0,bowled,V Hristov,,31718231718
+2,Bulgaria,7,A Ahmadhel,A Nanda,IA De Silva,,0,0,0,,,,31718231718
+2,Bulgaria,7,A Ahmadhel,A Nanda,IA De Silva,,0,0,0,,,,31718231718
+2,Bulgaria,7,A Ahmadhel,A Nanda,IA De Silva,,0,0,0,,,,31718231718
+2,Bulgaria,7,A Ahmadhel,A Nanda,IA De Silva,,0,4,4,,,,31718231718
+2,Bulgaria,8,IA De Silva,M Dixit,A Ahmadhel,,0,4,4,,,,31718231718
+2,Bulgaria,8,IA De Silva,M Dixit,A Ahmadhel,,0,0,0,,,,31718231718
+2,Bulgaria,8,IA De Silva,M Dixit,A Ahmadhel,,0,1,1,,,,31718231718
+2,Bulgaria,8,A Ahmadhel,M Dixit,IA De Silva,wides,1,1,0,,,,31718231718
+2,Bulgaria,8,A Ahmadhel,M Dixit,IA De Silva,,0,0,0,bowled,A Ahmadhel,,31718231718
+2,Bulgaria,8,D Nikolov,M Dixit,IA De Silva,,0,0,0,,,,31718231718
+2,Bulgaria,8,D Nikolov,M Dixit,IA De Silva,,0,0,0,caught,D Nikolov,TC Barker,31718231718
+2,Bulgaria,9,IA De Silva,A Nanda,M Kadyan,,0,0,0,,,,31718231718
+2,Bulgaria,9,IA De Silva,A Nanda,M Kadyan,,0,0,0,,,,31718231718
+2,Bulgaria,9,IA De Silva,A Nanda,M Kadyan,,0,1,1,,,,31718231718
+2,Bulgaria,9,M Kadyan,A Nanda,IA De Silva,wides,1,1,0,,,,31718231718
+2,Bulgaria,9,M Kadyan,A Nanda,IA De Silva,,0,0,0,,,,31718231718
+2,Bulgaria,9,M Kadyan,A Nanda,IA De Silva,,0,1,1,,,,31718231718
+2,Bulgaria,9,IA De Silva,A Nanda,M Kadyan,,0,1,1,,,,31718231718
+2,Bulgaria,10,IA De Silva,M Dixit,M Kadyan,,0,0,0,,,,31718231718
+2,Bulgaria,10,IA De Silva,M Dixit,M Kadyan,,0,4,4,,,,31718231718
+2,Bulgaria,10,IA De Silva,M Dixit,M Kadyan,,0,1,1,,,,31718231718
+2,Bulgaria,10,M Kadyan,M Dixit,IA De Silva,wides,1,1,0,,,,31718231718
+2,Bulgaria,10,M Kadyan,M Dixit,IA De Silva,,0,2,2,,,,31718231718
+2,Bulgaria,10,M Kadyan,M Dixit,IA De Silva,,0,0,0,,,,31718231718
+2,Bulgaria,10,M Kadyan,M Dixit,IA De Silva,,0,0,0,,,,31718231718
+2,Bulgaria,11,IA De Silva,Atif Kamal,M Kadyan,,0,0,0,,,,31718231718
+2,Bulgaria,11,IA De Silva,Atif Kamal,M Kadyan,,0,1,1,,,,31718231718
+2,Bulgaria,11,M Kadyan,Atif Kamal,IA De Silva,,0,0,0,,,,31718231718
+2,Bulgaria,11,M Kadyan,Atif Kamal,IA De Silva,,0,0,0,,,,31718231718
+2,Bulgaria,11,M Kadyan,Atif Kamal,IA De Silva,,0,1,1,,,,31718231718
+2,Bulgaria,11,IA De Silva,Atif Kamal,M Kadyan,,0,0,0,,,,31718231718
+2,Bulgaria,12,M Kadyan,M Cope,IA De Silva,,0,0,0,,,,31718231718
+2,Bulgaria,12,M Kadyan,M Cope,IA De Silva,,0,4,4,,,,31718231718
+2,Bulgaria,12,M Kadyan,M Cope,IA De Silva,,0,0,0,,,,31718231718
+2,Bulgaria,12,M Kadyan,M Cope,IA De Silva,wides,1,1,0,,,,31718231718
+2,Bulgaria,12,M Kadyan,M Cope,IA De Silva,,0,0,0,,,,31718231718
+2,Bulgaria,12,M Kadyan,M Cope,IA De Silva,,0,1,1,,,,31718231718
+2,Bulgaria,12,IA De Silva,M Cope,M Kadyan,,0,4,4,,,,31718231718
+2,Bulgaria,13,M Kadyan,Atif Kamal,IA De Silva,,0,1,1,,,,31718231718
+2,Bulgaria,13,IA De Silva,Atif Kamal,M Kadyan,,0,0,0,,,,31718231718
+2,Bulgaria,13,IA De Silva,Atif Kamal,M Kadyan,,0,0,0,,,,31718231718
+2,Bulgaria,13,IA De Silva,Atif Kamal,M Kadyan,,0,0,0,caught,IA De Silva,A Manepalli,31718231718
+2,Bulgaria,13,J Albin,Atif Kamal,M Kadyan,,0,0,0,,,,31718231718
+2,Bulgaria,13,J Albin,Atif Kamal,M Kadyan,,0,0,0,,,,31718231718
+2,Bulgaria,14,M Kadyan,M Cope,J Albin,,0,6,6,,,,31718231718
+2,Bulgaria,14,M Kadyan,M Cope,J Albin,,0,6,6,,,,31718231718
+2,Bulgaria,14,M Kadyan,M Cope,J Albin,,0,0,0,,,,31718231718
+2,Bulgaria,14,M Kadyan,M Cope,J Albin,,0,1,1,,,,31718231718
+2,Bulgaria,14,J Albin,M Cope,M Kadyan,,0,0,0,,,,31718231718
+2,Bulgaria,14,J Albin,M Cope,M Kadyan,,0,2,2,,,,31718231718
+2,Bulgaria,15,M Kadyan,WJ Cope,J Albin,,0,1,1,,,,31718231718
+2,Bulgaria,15,J Albin,WJ Cope,M Kadyan,,0,0,0,,,,31718231718
+2,Bulgaria,15,J Albin,WJ Cope,M Kadyan,,0,2,2,,,,31718231718
+2,Bulgaria,15,J Albin,WJ Cope,M Kadyan,,0,0,0,,,,31718231718
+2,Bulgaria,15,J Albin,WJ Cope,M Kadyan,,0,0,0,,,,31718231718
+2,Bulgaria,15,J Albin,WJ Cope,M Kadyan,,0,0,0,,,,31718231718
+2,Bulgaria,16,M Kadyan,M Cope,J Albin,,0,1,1,,,,31718231718
+2,Bulgaria,16,J Albin,M Cope,M Kadyan,,0,1,1,,,,31718231718
+2,Bulgaria,16,M Kadyan,M Cope,J Albin,,0,0,0,caught,M Kadyan,J Mees,31718231718
+2,Bulgaria,16,J Albin,M Cope,DV Varghese,,0,4,4,,,,31718231718
+2,Bulgaria,16,J Albin,M Cope,DV Varghese,,0,0,0,,,,31718231718
+2,Bulgaria,16,J Albin,M Cope,DV Varghese,,0,0,0,,,,31718231718
+2,Bulgaria,17,DV Varghese,WJ Cope,J Albin,,0,0,0,,,,31718231718
+2,Bulgaria,17,DV Varghese,WJ Cope,J Albin,,0,1,1,,,,31718231718
+2,Bulgaria,17,J Albin,WJ Cope,DV Varghese,,0,0,0,,,,31718231718
+2,Bulgaria,17,J Albin,WJ Cope,DV Varghese,wides,1,1,0,,,,31718231718
+2,Bulgaria,17,J Albin,WJ Cope,DV Varghese,,0,1,1,,,,31718231718
+2,Bulgaria,17,DV Varghese,WJ Cope,J Albin,,0,2,2,,,,31718231718
+2,Bulgaria,17,DV Varghese,WJ Cope,J Albin,,0,4,4,,,,31718231718
+2,Bulgaria,18,J Albin,M Cope,DV Varghese,,0,1,1,,,,31718231718
+2,Bulgaria,18,DV Varghese,M Cope,J Albin,,0,1,1,,,,31718231718
+2,Bulgaria,18,J Albin,M Cope,DV Varghese,,0,1,1,,,,31718231718
+2,Bulgaria,18,DV Varghese,M Cope,J Albin,,0,1,1,run out,J Albin,WJ Cope,31718231718

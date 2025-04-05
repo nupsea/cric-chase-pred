@@ -1,0 +1,121 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,South Africa,0,AB de Villiers,NM Coulter-Nile,Q de Kock,,0,0,0,caught,AB de Villiers,PM Nevill,353223532
+2,South Africa,0,F du Plessis,NM Coulter-Nile,Q de Kock,,0,2,2,,,,353223532
+2,South Africa,0,F du Plessis,NM Coulter-Nile,Q de Kock,,0,1,1,,,,353223532
+2,South Africa,0,Q de Kock,NM Coulter-Nile,F du Plessis,,0,1,1,,,,353223532
+2,South Africa,0,F du Plessis,NM Coulter-Nile,Q de Kock,,0,0,0,,,,353223532
+2,South Africa,0,F du Plessis,NM Coulter-Nile,Q de Kock,,0,0,0,,,,353223532
+2,South Africa,1,Q de Kock,JW Hastings,F du Plessis,,0,0,0,,,,353223532
+2,South Africa,1,Q de Kock,JW Hastings,F du Plessis,,0,0,0,,,,353223532
+2,South Africa,1,Q de Kock,JW Hastings,F du Plessis,,0,0,0,,,,353223532
+2,South Africa,1,Q de Kock,JW Hastings,F du Plessis,,0,2,2,,,,353223532
+2,South Africa,1,Q de Kock,JW Hastings,F du Plessis,,0,4,4,,,,353223532
+2,South Africa,1,Q de Kock,JW Hastings,F du Plessis,,0,0,0,,,,353223532
+2,South Africa,2,F du Plessis,NM Coulter-Nile,Q de Kock,,0,2,2,,,,353223532
+2,South Africa,2,F du Plessis,NM Coulter-Nile,Q de Kock,,0,0,0,,,,353223532
+2,South Africa,2,F du Plessis,NM Coulter-Nile,Q de Kock,,0,4,4,,,,353223532
+2,South Africa,2,F du Plessis,NM Coulter-Nile,Q de Kock,,0,1,1,,,,353223532
+2,South Africa,2,Q de Kock,NM Coulter-Nile,F du Plessis,,0,0,0,caught and bowled,Q de Kock,,353223532
+2,South Africa,2,F du Plessis,NM Coulter-Nile,JP Duminy,,0,2,2,,,,353223532
+2,South Africa,3,JP Duminy,JW Hastings,F du Plessis,,0,1,1,,,,353223532
+2,South Africa,3,F du Plessis,JW Hastings,JP Duminy,,0,1,1,,,,353223532
+2,South Africa,3,JP Duminy,JW Hastings,F du Plessis,,0,0,0,,,,353223532
+2,South Africa,3,JP Duminy,JW Hastings,F du Plessis,,0,0,0,,,,353223532
+2,South Africa,3,JP Duminy,JW Hastings,F du Plessis,,0,0,0,,,,353223532
+2,South Africa,3,JP Duminy,JW Hastings,F du Plessis,,0,0,0,,,,353223532
+2,South Africa,4,F du Plessis,GJ Maxwell,JP Duminy,,0,1,1,,,,353223532
+2,South Africa,4,JP Duminy,GJ Maxwell,F du Plessis,,0,1,1,,,,353223532
+2,South Africa,4,F du Plessis,GJ Maxwell,JP Duminy,,0,4,4,,,,353223532
+2,South Africa,4,F du Plessis,GJ Maxwell,JP Duminy,,0,0,0,,,,353223532
+2,South Africa,4,F du Plessis,GJ Maxwell,JP Duminy,,0,6,6,,,,353223532
+2,South Africa,4,F du Plessis,GJ Maxwell,JP Duminy,,0,4,4,,,,353223532
+2,South Africa,5,JP Duminy,AJ Tye,F du Plessis,,0,1,1,,,,353223532
+2,South Africa,5,F du Plessis,AJ Tye,JP Duminy,,0,1,1,,,,353223532
+2,South Africa,5,JP Duminy,AJ Tye,F du Plessis,,0,2,2,,,,353223532
+2,South Africa,5,JP Duminy,AJ Tye,F du Plessis,,0,0,0,caught,JP Duminy,AJ Finch,353223532
+2,South Africa,5,RR Rossouw,AJ Tye,F du Plessis,,0,4,4,,,,353223532
+2,South Africa,5,RR Rossouw,AJ Tye,F du Plessis,,0,0,0,,,,353223532
+2,South Africa,6,F du Plessis,MR Marsh,RR Rossouw,,0,0,0,,,,353223532
+2,South Africa,6,F du Plessis,MR Marsh,RR Rossouw,,0,0,0,,,,353223532
+2,South Africa,6,F du Plessis,MR Marsh,RR Rossouw,,0,1,1,,,,353223532
+2,South Africa,6,RR Rossouw,MR Marsh,F du Plessis,,0,1,1,,,,353223532
+2,South Africa,6,F du Plessis,MR Marsh,RR Rossouw,,0,0,0,,,,353223532
+2,South Africa,6,F du Plessis,MR Marsh,RR Rossouw,,0,2,2,,,,353223532
+2,South Africa,7,RR Rossouw,A Zampa,F du Plessis,,0,2,2,,,,353223532
+2,South Africa,7,RR Rossouw,A Zampa,F du Plessis,,0,2,2,,,,353223532
+2,South Africa,7,RR Rossouw,A Zampa,F du Plessis,,0,0,0,,,,353223532
+2,South Africa,7,RR Rossouw,A Zampa,F du Plessis,,0,1,1,,,,353223532
+2,South Africa,7,F du Plessis,A Zampa,RR Rossouw,,0,1,1,,,,353223532
+2,South Africa,7,RR Rossouw,A Zampa,F du Plessis,,0,1,1,,,,353223532
+2,South Africa,8,RR Rossouw,AJ Tye,F du Plessis,,0,0,0,,,,353223532
+2,South Africa,8,RR Rossouw,AJ Tye,F du Plessis,,0,1,1,,,,353223532
+2,South Africa,8,F du Plessis,AJ Tye,RR Rossouw,,0,1,1,,,,353223532
+2,South Africa,8,RR Rossouw,AJ Tye,F du Plessis,,0,4,4,,,,353223532
+2,South Africa,8,RR Rossouw,AJ Tye,F du Plessis,noballs,1,2,1,,,,353223532
+2,South Africa,8,F du Plessis,AJ Tye,RR Rossouw,,0,1,1,,,,353223532
+2,South Africa,8,RR Rossouw,AJ Tye,F du Plessis,,0,2,2,,,,353223532
+2,South Africa,9,F du Plessis,MR Marsh,RR Rossouw,,0,4,4,,,,353223532
+2,South Africa,9,F du Plessis,MR Marsh,RR Rossouw,,0,1,1,,,,353223532
+2,South Africa,9,RR Rossouw,MR Marsh,F du Plessis,,0,0,0,caught,RR Rossouw,UT Khawaja,353223532
+2,South Africa,9,DA Miller,MR Marsh,F du Plessis,,0,0,0,run out,F du Plessis,PM Nevill,353223532
+2,South Africa,9,D Wiese,MR Marsh,DA Miller,,0,1,1,,,,353223532
+2,South Africa,9,DA Miller,MR Marsh,D Wiese,,0,0,0,,,,353223532
+2,South Africa,10,D Wiese,NM Coulter-Nile,DA Miller,,0,1,1,,,,353223532
+2,South Africa,10,DA Miller,NM Coulter-Nile,D Wiese,,0,1,1,,,,353223532
+2,South Africa,10,D Wiese,NM Coulter-Nile,DA Miller,,0,0,0,,,,353223532
+2,South Africa,10,D Wiese,NM Coulter-Nile,DA Miller,,0,6,6,,,,353223532
+2,South Africa,10,D Wiese,NM Coulter-Nile,DA Miller,,0,0,0,,,,353223532
+2,South Africa,10,D Wiese,NM Coulter-Nile,DA Miller,wides,1,1,0,,,,353223532
+2,South Africa,10,D Wiese,NM Coulter-Nile,DA Miller,,0,1,1,,,,353223532
+2,South Africa,11,D Wiese,A Zampa,DA Miller,,0,0,0,,,,353223532
+2,South Africa,11,D Wiese,A Zampa,DA Miller,,0,1,1,,,,353223532
+2,South Africa,11,DA Miller,A Zampa,D Wiese,,0,0,0,,,,353223532
+2,South Africa,11,DA Miller,A Zampa,D Wiese,,0,1,1,,,,353223532
+2,South Africa,11,D Wiese,A Zampa,DA Miller,,0,0,0,,,,353223532
+2,South Africa,11,D Wiese,A Zampa,DA Miller,,0,2,2,,,,353223532
+2,South Africa,12,DA Miller,JW Hastings,D Wiese,,0,4,4,,,,353223532
+2,South Africa,12,DA Miller,JW Hastings,D Wiese,legbyes,1,1,0,,,,353223532
+2,South Africa,12,D Wiese,JW Hastings,DA Miller,,0,1,1,,,,353223532
+2,South Africa,12,DA Miller,JW Hastings,D Wiese,,0,2,2,,,,353223532
+2,South Africa,12,DA Miller,JW Hastings,D Wiese,,0,0,0,run out,D Wiese,SPD Smith,353223532
+2,South Africa,12,DA Miller,JW Hastings,CH Morris,,0,1,1,,,,353223532
+2,South Africa,13,DA Miller,A Zampa,CH Morris,,0,1,1,,,,353223532
+2,South Africa,13,CH Morris,A Zampa,DA Miller,,0,0,0,,,,353223532
+2,South Africa,13,CH Morris,A Zampa,DA Miller,,0,0,0,,,,353223532
+2,South Africa,13,CH Morris,A Zampa,DA Miller,,0,1,1,,,,353223532
+2,South Africa,13,DA Miller,A Zampa,CH Morris,wides,3,3,0,,,,353223532
+2,South Africa,13,DA Miller,A Zampa,CH Morris,,0,4,4,,,,353223532
+2,South Africa,13,DA Miller,A Zampa,CH Morris,,0,1,1,,,,353223532
+2,South Africa,14,DA Miller,MR Marsh,CH Morris,,0,0,0,,,,353223532
+2,South Africa,14,DA Miller,MR Marsh,CH Morris,,0,1,1,,,,353223532
+2,South Africa,14,CH Morris,MR Marsh,DA Miller,,0,4,4,,,,353223532
+2,South Africa,14,CH Morris,MR Marsh,DA Miller,,0,1,1,,,,353223532
+2,South Africa,14,DA Miller,MR Marsh,CH Morris,,0,1,1,,,,353223532
+2,South Africa,14,CH Morris,MR Marsh,DA Miller,,0,0,0,,,,353223532
+2,South Africa,15,DA Miller,AJ Tye,CH Morris,,0,1,1,,,,353223532
+2,South Africa,15,CH Morris,AJ Tye,DA Miller,,0,1,1,,,,353223532
+2,South Africa,15,DA Miller,AJ Tye,CH Morris,,0,6,6,,,,353223532
+2,South Africa,15,DA Miller,AJ Tye,CH Morris,,0,2,2,,,,353223532
+2,South Africa,15,DA Miller,AJ Tye,CH Morris,,0,6,6,,,,353223532
+2,South Africa,15,DA Miller,AJ Tye,CH Morris,,0,0,0,,,,353223532
+2,South Africa,16,CH Morris,NM Coulter-Nile,DA Miller,,0,1,1,,,,353223532
+2,South Africa,16,DA Miller,NM Coulter-Nile,CH Morris,,0,2,2,,,,353223532
+2,South Africa,16,DA Miller,NM Coulter-Nile,CH Morris,wides,1,1,0,,,,353223532
+2,South Africa,16,DA Miller,NM Coulter-Nile,CH Morris,,0,0,0,,,,353223532
+2,South Africa,16,DA Miller,NM Coulter-Nile,CH Morris,,0,1,1,,,,353223532
+2,South Africa,16,CH Morris,NM Coulter-Nile,DA Miller,,0,0,0,caught,CH Morris,AJ Finch,353223532
+2,South Africa,16,DA Miller,NM Coulter-Nile,KJ Abbott,,0,1,1,,,,353223532
+2,South Africa,17,DA Miller,JW Hastings,KJ Abbott,,0,4,4,,,,353223532
+2,South Africa,17,DA Miller,JW Hastings,KJ Abbott,,0,1,1,,,,353223532
+2,South Africa,17,KJ Abbott,JW Hastings,DA Miller,,0,1,1,,,,353223532
+2,South Africa,17,DA Miller,JW Hastings,KJ Abbott,,0,0,0,,,,353223532
+2,South Africa,17,DA Miller,JW Hastings,KJ Abbott,,0,6,6,,,,353223532
+2,South Africa,17,DA Miller,JW Hastings,KJ Abbott,,0,1,1,,,,353223532
+2,South Africa,18,DA Miller,A Zampa,KJ Abbott,,0,0,0,,,,353223532
+2,South Africa,18,DA Miller,A Zampa,KJ Abbott,,0,1,1,,,,353223532
+2,South Africa,18,KJ Abbott,A Zampa,DA Miller,,0,0,0,,,,353223532
+2,South Africa,18,KJ Abbott,A Zampa,DA Miller,,0,1,1,,,,353223532
+2,South Africa,18,DA Miller,A Zampa,KJ Abbott,,0,2,2,,,,353223532
+2,South Africa,18,DA Miller,A Zampa,KJ Abbott,,0,1,1,,,,353223532
+2,South Africa,19,DA Miller,AJ Tye,KJ Abbott,,0,1,1,,,,353223532
+2,South Africa,19,KJ Abbott,AJ Tye,DA Miller,,0,4,4,,,,353223532

@@ -1,0 +1,63 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Romania,0,C Zavoiu,D Nikolov,P Danci,,0,0,0,,,,31440231440
+2,Romania,0,C Zavoiu,D Nikolov,P Danci,,0,1,1,,,,31440231440
+2,Romania,0,P Danci,D Nikolov,C Zavoiu,,0,2,2,,,,31440231440
+2,Romania,0,P Danci,D Nikolov,C Zavoiu,,0,1,1,,,,31440231440
+2,Romania,0,C Zavoiu,D Nikolov,P Danci,,0,4,4,,,,31440231440
+2,Romania,0,C Zavoiu,D Nikolov,P Danci,,0,2,2,,,,31440231440
+2,Romania,1,P Danci,N Nankov,C Zavoiu,,0,0,0,,,,31440231440
+2,Romania,1,P Danci,N Nankov,C Zavoiu,,0,0,0,,,,31440231440
+2,Romania,1,P Danci,N Nankov,C Zavoiu,wides,1,1,0,,,,31440231440
+2,Romania,1,P Danci,N Nankov,C Zavoiu,,0,0,0,,,,31440231440
+2,Romania,1,P Danci,N Nankov,C Zavoiu,,0,0,0,,,,31440231440
+2,Romania,1,P Danci,N Nankov,C Zavoiu,,0,4,4,,,,31440231440
+2,Romania,1,P Danci,N Nankov,C Zavoiu,byes,1,1,0,,,,31440231440
+2,Romania,2,P Danci,H Ivanov,C Zavoiu,,0,0,0,,,,31440231440
+2,Romania,2,P Danci,H Ivanov,C Zavoiu,,0,4,4,,,,31440231440
+2,Romania,2,P Danci,H Ivanov,C Zavoiu,,0,0,0,,,,31440231440
+2,Romania,2,P Danci,H Ivanov,C Zavoiu,,0,0,0,,,,31440231440
+2,Romania,2,P Danci,H Ivanov,C Zavoiu,,0,0,0,,,,31440231440
+2,Romania,2,P Danci,H Ivanov,C Zavoiu,,0,1,1,,,,31440231440
+2,Romania,3,P Danci,N Nankov,C Zavoiu,,0,0,0,bowled,P Danci,,31440231440
+2,Romania,3,P Florin,N Nankov,C Zavoiu,,0,0,0,,,,31440231440
+2,Romania,3,P Florin,N Nankov,C Zavoiu,,0,0,0,,,,31440231440
+2,Romania,3,P Florin,N Nankov,C Zavoiu,,0,2,2,,,,31440231440
+2,Romania,3,P Florin,N Nankov,C Zavoiu,,0,2,2,,,,31440231440
+2,Romania,3,P Florin,N Nankov,C Zavoiu,,0,4,4,,,,31440231440
+2,Romania,4,C Zavoiu,H Ivanov,P Florin,,0,1,1,,,,31440231440
+2,Romania,4,P Florin,H Ivanov,C Zavoiu,,0,0,0,,,,31440231440
+2,Romania,4,P Florin,H Ivanov,C Zavoiu,,0,1,1,,,,31440231440
+2,Romania,4,C Zavoiu,H Ivanov,P Florin,,0,0,0,,,,31440231440
+2,Romania,4,C Zavoiu,H Ivanov,P Florin,wides,1,1,0,,,,31440231440
+2,Romania,4,C Zavoiu,H Ivanov,P Florin,,0,0,0,,,,31440231440
+2,Romania,4,C Zavoiu,H Ivanov,P Florin,,0,3,3,,,,31440231440
+2,Romania,5,C Zavoiu,Rohan Bhavesh Patel,P Florin,,0,3,3,,,,31440231440
+2,Romania,5,P Florin,Rohan Bhavesh Patel,C Zavoiu,,0,0,0,,,,31440231440
+2,Romania,5,P Florin,Rohan Bhavesh Patel,C Zavoiu,,0,2,2,,,,31440231440
+2,Romania,5,P Florin,Rohan Bhavesh Patel,C Zavoiu,,0,2,2,,,,31440231440
+2,Romania,5,P Florin,Rohan Bhavesh Patel,C Zavoiu,,0,0,0,,,,31440231440
+2,Romania,5,P Florin,Rohan Bhavesh Patel,C Zavoiu,,0,0,0,,,,31440231440
+2,Romania,6,C Zavoiu,P Mishra,P Florin,,0,0,0,,,,31440231440
+2,Romania,6,C Zavoiu,P Mishra,P Florin,,0,0,0,,,,31440231440
+2,Romania,6,C Zavoiu,P Mishra,P Florin,,0,0,0,lbw,C Zavoiu,,31440231440
+2,Romania,6,S Periyalwar,P Mishra,P Florin,,0,0,0,,,,31440231440
+2,Romania,6,S Periyalwar,P Mishra,P Florin,,0,0,0,,,,31440231440
+2,Romania,6,S Periyalwar,P Mishra,P Florin,,0,0,0,,,,31440231440
+2,Romania,7,P Florin,Rohan Bhavesh Patel,S Periyalwar,,0,1,1,,,,31440231440
+2,Romania,7,S Periyalwar,Rohan Bhavesh Patel,P Florin,,0,4,4,,,,31440231440
+2,Romania,7,S Periyalwar,Rohan Bhavesh Patel,P Florin,,0,0,0,,,,31440231440
+2,Romania,7,S Periyalwar,Rohan Bhavesh Patel,P Florin,,0,0,0,,,,31440231440
+2,Romania,7,S Periyalwar,Rohan Bhavesh Patel,P Florin,,0,0,0,,,,31440231440
+2,Romania,7,S Periyalwar,Rohan Bhavesh Patel,P Florin,,0,0,0,,,,31440231440
+2,Romania,8,P Florin,P Mishra,S Periyalwar,,0,0,0,,,,31440231440
+2,Romania,8,P Florin,P Mishra,S Periyalwar,,0,0,0,,,,31440231440
+2,Romania,8,P Florin,P Mishra,S Periyalwar,,0,0,0,caught,P Florin,Asad Ali Rehemtulla,31440231440
+2,Romania,8,S Nadigotla,P Mishra,S Periyalwar,wides,1,1,0,,,,31440231440
+2,Romania,8,S Nadigotla,P Mishra,S Periyalwar,,0,3,3,,,,31440231440
+2,Romania,8,S Periyalwar,P Mishra,S Nadigotla,,0,4,4,,,,31440231440
+2,Romania,8,S Periyalwar,P Mishra,S Nadigotla,,0,0,0,,,,31440231440
+2,Romania,9,S Nadigotla,A Ahmadhel,S Periyalwar,,0,0,0,,,,31440231440
+2,Romania,9,S Nadigotla,A Ahmadhel,S Periyalwar,,0,0,0,caught,S Nadigotla,D Nikolov,31440231440
+2,Romania,9,S Vashisht,A Ahmadhel,S Periyalwar,wides,2,2,0,,,,31440231440
+2,Romania,9,S Periyalwar,A Ahmadhel,S Vashisht,,0,0,0,,,,31440231440
+2,Romania,9,S Periyalwar,A Ahmadhel,S Vashisht,,0,4,4,,,,31440231440

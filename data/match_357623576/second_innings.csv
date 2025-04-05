@@ -1,0 +1,61 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Sri Lanka,0,N Dickwella,L Ngidi,DM de Silva,legbyes,1,1,0,,,,357623576
+2,Sri Lanka,0,DM de Silva,L Ngidi,N Dickwella,,0,0,0,,,,357623576
+2,Sri Lanka,0,DM de Silva,L Ngidi,N Dickwella,,0,4,4,,,,357623576
+2,Sri Lanka,0,DM de Silva,L Ngidi,N Dickwella,,0,0,0,,,,357623576
+2,Sri Lanka,0,DM de Silva,L Ngidi,N Dickwella,,0,4,4,,,,357623576
+2,Sri Lanka,0,DM de Silva,L Ngidi,N Dickwella,,0,0,0,,,,357623576
+2,Sri Lanka,1,N Dickwella,WD Parnell,DM de Silva,,0,0,0,,,,357623576
+2,Sri Lanka,1,N Dickwella,WD Parnell,DM de Silva,,0,4,4,,,,357623576
+2,Sri Lanka,1,N Dickwella,WD Parnell,DM de Silva,,0,4,4,,,,357623576
+2,Sri Lanka,1,N Dickwella,WD Parnell,DM de Silva,,0,4,4,,,,357623576
+2,Sri Lanka,1,N Dickwella,WD Parnell,DM de Silva,legbyes,1,1,0,,,,357623576
+2,Sri Lanka,1,DM de Silva,WD Parnell,N Dickwella,,0,2,2,,,,357623576
+2,Sri Lanka,2,N Dickwella,AL Phehlukwayo,DM de Silva,,0,6,6,,,,357623576
+2,Sri Lanka,2,N Dickwella,AL Phehlukwayo,DM de Silva,,0,2,2,,,,357623576
+2,Sri Lanka,2,N Dickwella,AL Phehlukwayo,DM de Silva,,0,4,4,,,,357623576
+2,Sri Lanka,2,N Dickwella,AL Phehlukwayo,DM de Silva,,0,2,2,,,,357623576
+2,Sri Lanka,2,N Dickwella,AL Phehlukwayo,DM de Silva,,0,1,1,,,,357623576
+2,Sri Lanka,2,DM de Silva,AL Phehlukwayo,N Dickwella,,0,1,1,,,,357623576
+2,Sri Lanka,3,DM de Silva,Imran Tahir,N Dickwella,,0,1,1,,,,357623576
+2,Sri Lanka,3,N Dickwella,Imran Tahir,DM de Silva,,0,1,1,,,,357623576
+2,Sri Lanka,3,DM de Silva,Imran Tahir,N Dickwella,,0,0,0,,,,357623576
+2,Sri Lanka,3,DM de Silva,Imran Tahir,N Dickwella,,0,1,1,,,,357623576
+2,Sri Lanka,3,N Dickwella,Imran Tahir,DM de Silva,,0,0,0,,,,357623576
+2,Sri Lanka,3,N Dickwella,Imran Tahir,DM de Silva,,0,6,6,,,,357623576
+2,Sri Lanka,4,DM de Silva,AM Phangiso,N Dickwella,,0,0,0,,,,357623576
+2,Sri Lanka,4,DM de Silva,AM Phangiso,N Dickwella,,0,1,1,,,,357623576
+2,Sri Lanka,4,N Dickwella,AM Phangiso,DM de Silva,,0,0,0,,,,357623576
+2,Sri Lanka,4,N Dickwella,AM Phangiso,DM de Silva,,0,4,4,,,,357623576
+2,Sri Lanka,4,N Dickwella,AM Phangiso,DM de Silva,,0,4,4,,,,357623576
+2,Sri Lanka,4,N Dickwella,AM Phangiso,DM de Silva,,0,1,1,,,,357623576
+2,Sri Lanka,5,N Dickwella,Imran Tahir,DM de Silva,,0,0,0,caught,N Dickwella,TB de Bruyn,357623576
+2,Sri Lanka,5,DM de Silva,Imran Tahir,AD Mathews,,0,6,6,,,,357623576
+2,Sri Lanka,5,DM de Silva,Imran Tahir,AD Mathews,,0,6,6,,,,357623576
+2,Sri Lanka,5,DM de Silva,Imran Tahir,AD Mathews,,0,1,1,,,,357623576
+2,Sri Lanka,5,AD Mathews,Imran Tahir,DM de Silva,,0,1,1,,,,357623576
+2,Sri Lanka,5,DM de Silva,Imran Tahir,AD Mathews,,0,0,0,bowled,DM de Silva,,357623576
+2,Sri Lanka,6,AD Mathews,AM Phangiso,ST de Silva,,0,1,1,,,,357623576
+2,Sri Lanka,6,ST de Silva,AM Phangiso,AD Mathews,,0,0,0,caught,ST de Silva,HG Kuhn,357623576
+2,Sri Lanka,6,AD Mathews,AM Phangiso,S Prasanna,,0,0,0,,,,357623576
+2,Sri Lanka,6,AD Mathews,AM Phangiso,S Prasanna,,0,1,1,,,,357623576
+2,Sri Lanka,6,S Prasanna,AM Phangiso,AD Mathews,,0,6,6,,,,357623576
+2,Sri Lanka,6,S Prasanna,AM Phangiso,AD Mathews,,0,6,6,,,,357623576
+2,Sri Lanka,7,AD Mathews,L Ngidi,S Prasanna,,0,1,1,,,,357623576
+2,Sri Lanka,7,S Prasanna,L Ngidi,AD Mathews,,0,0,0,caught,S Prasanna,M Mosehle,357623576
+2,Sri Lanka,7,BKG Mendis,L Ngidi,AD Mathews,,0,1,1,,,,357623576
+2,Sri Lanka,7,AD Mathews,L Ngidi,BKG Mendis,,0,1,1,,,,357623576
+2,Sri Lanka,7,BKG Mendis,L Ngidi,AD Mathews,,0,0,0,caught,BKG Mendis,Imran Tahir,357623576
+2,Sri Lanka,7,AD Mathews,L Ngidi,LD Chandimal,,0,1,1,,,,357623576
+2,Sri Lanka,8,AD Mathews,WD Parnell,LD Chandimal,,0,0,0,caught,AD Mathews,TB de Bruyn,357623576
+2,Sri Lanka,8,DAS Gunaratne,WD Parnell,LD Chandimal,,0,1,1,,,,357623576
+2,Sri Lanka,8,LD Chandimal,WD Parnell,DAS Gunaratne,,0,0,0,,,,357623576
+2,Sri Lanka,8,LD Chandimal,WD Parnell,DAS Gunaratne,,0,1,1,,,,357623576
+2,Sri Lanka,8,DAS Gunaratne,WD Parnell,LD Chandimal,,0,6,6,,,,357623576
+2,Sri Lanka,8,DAS Gunaratne,WD Parnell,LD Chandimal,,0,1,1,,,,357623576
+2,Sri Lanka,9,DAS Gunaratne,AL Phehlukwayo,LD Chandimal,,0,1,1,,,,357623576
+2,Sri Lanka,9,LD Chandimal,AL Phehlukwayo,DAS Gunaratne,,0,0,0,,,,357623576
+2,Sri Lanka,9,LD Chandimal,AL Phehlukwayo,DAS Gunaratne,,0,4,4,,,,357623576
+2,Sri Lanka,9,LD Chandimal,AL Phehlukwayo,DAS Gunaratne,,0,1,1,,,,357623576
+2,Sri Lanka,9,DAS Gunaratne,AL Phehlukwayo,LD Chandimal,,0,0,0,,,,357623576
+2,Sri Lanka,9,DAS Gunaratne,AL Phehlukwayo,LD Chandimal,,0,1,1,,,,357623576

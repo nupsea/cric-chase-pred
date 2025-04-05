@@ -1,0 +1,84 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,India,0,RG Sharma,Taskin Ahmed,S Dhawan,,0,0,0,,,,367223672
+2,India,0,RG Sharma,Taskin Ahmed,S Dhawan,,0,1,1,,,,367223672
+2,India,0,S Dhawan,Taskin Ahmed,RG Sharma,,0,0,0,,,,367223672
+2,India,0,S Dhawan,Taskin Ahmed,RG Sharma,,0,4,4,,,,367223672
+2,India,0,S Dhawan,Taskin Ahmed,RG Sharma,,0,0,0,,,,367223672
+2,India,0,S Dhawan,Taskin Ahmed,RG Sharma,,0,0,0,,,,367223672
+2,India,1,RG Sharma,Al-Amin Hossain,S Dhawan,,0,0,0,,,,367223672
+2,India,1,RG Sharma,Al-Amin Hossain,S Dhawan,,0,0,0,,,,367223672
+2,India,1,RG Sharma,Al-Amin Hossain,S Dhawan,,0,0,0,caught,RG Sharma,Soumya Sarkar,367223672
+2,India,1,V Kohli,Al-Amin Hossain,S Dhawan,,0,2,2,,,,367223672
+2,India,1,V Kohli,Al-Amin Hossain,S Dhawan,,0,1,1,,,,367223672
+2,India,1,S Dhawan,Al-Amin Hossain,V Kohli,,0,0,0,,,,367223672
+2,India,2,V Kohli,Taskin Ahmed,S Dhawan,,0,0,0,,,,367223672
+2,India,2,V Kohli,Taskin Ahmed,S Dhawan,,0,2,2,,,,367223672
+2,India,2,V Kohli,Taskin Ahmed,S Dhawan,,0,0,0,,,,367223672
+2,India,2,V Kohli,Taskin Ahmed,S Dhawan,,0,0,0,,,,367223672
+2,India,2,V Kohli,Taskin Ahmed,S Dhawan,,0,1,1,,,,367223672
+2,India,2,S Dhawan,Taskin Ahmed,V Kohli,,0,1,1,,,,367223672
+2,India,3,S Dhawan,Al-Amin Hossain,V Kohli,,0,0,0,,,,367223672
+2,India,3,S Dhawan,Al-Amin Hossain,V Kohli,,0,0,0,,,,367223672
+2,India,3,S Dhawan,Al-Amin Hossain,V Kohli,,0,4,4,,,,367223672
+2,India,3,S Dhawan,Al-Amin Hossain,V Kohli,,0,1,1,,,,367223672
+2,India,3,V Kohli,Al-Amin Hossain,S Dhawan,,0,1,1,,,,367223672
+2,India,3,S Dhawan,Al-Amin Hossain,V Kohli,,0,1,1,,,,367223672
+2,India,4,S Dhawan,Abu Hider,V Kohli,,0,4,4,,,,367223672
+2,India,4,S Dhawan,Abu Hider,V Kohli,,0,0,0,,,,367223672
+2,India,4,S Dhawan,Abu Hider,V Kohli,,0,1,1,,,,367223672
+2,India,4,V Kohli,Abu Hider,S Dhawan,,0,4,4,,,,367223672
+2,India,4,V Kohli,Abu Hider,S Dhawan,,0,1,1,,,,367223672
+2,India,4,S Dhawan,Abu Hider,V Kohli,,0,4,4,,,,367223672
+2,India,5,V Kohli,Shakib Al Hasan,S Dhawan,,0,4,4,,,,367223672
+2,India,5,V Kohli,Shakib Al Hasan,S Dhawan,,0,1,1,,,,367223672
+2,India,5,S Dhawan,Shakib Al Hasan,V Kohli,,0,4,4,,,,367223672
+2,India,5,S Dhawan,Shakib Al Hasan,V Kohli,,0,0,0,,,,367223672
+2,India,5,S Dhawan,Shakib Al Hasan,V Kohli,,0,2,2,,,,367223672
+2,India,5,S Dhawan,Shakib Al Hasan,V Kohli,,0,4,4,,,,367223672
+2,India,6,V Kohli,Mashrafe Mortaza,S Dhawan,,0,1,1,,,,367223672
+2,India,6,S Dhawan,Mashrafe Mortaza,V Kohli,,0,0,0,,,,367223672
+2,India,6,S Dhawan,Mashrafe Mortaza,V Kohli,,0,1,1,,,,367223672
+2,India,6,V Kohli,Mashrafe Mortaza,S Dhawan,,0,4,4,,,,367223672
+2,India,6,V Kohli,Mashrafe Mortaza,S Dhawan,,0,1,1,,,,367223672
+2,India,6,S Dhawan,Mashrafe Mortaza,V Kohli,,0,0,0,,,,367223672
+2,India,7,V Kohli,Nasir Hossain,S Dhawan,,0,1,1,,,,367223672
+2,India,7,S Dhawan,Nasir Hossain,V Kohli,,0,0,0,,,,367223672
+2,India,7,S Dhawan,Nasir Hossain,V Kohli,,0,1,1,,,,367223672
+2,India,7,V Kohli,Nasir Hossain,S Dhawan,,0,0,0,,,,367223672
+2,India,7,V Kohli,Nasir Hossain,S Dhawan,,0,1,1,,,,367223672
+2,India,7,S Dhawan,Nasir Hossain,V Kohli,,0,1,1,,,,367223672
+2,India,8,S Dhawan,Mashrafe Mortaza,V Kohli,,0,1,1,,,,367223672
+2,India,8,V Kohli,Mashrafe Mortaza,S Dhawan,,0,1,1,,,,367223672
+2,India,8,S Dhawan,Mashrafe Mortaza,V Kohli,,0,6,6,,,,367223672
+2,India,8,S Dhawan,Mashrafe Mortaza,V Kohli,,0,0,0,,,,367223672
+2,India,8,S Dhawan,Mashrafe Mortaza,V Kohli,,0,1,1,,,,367223672
+2,India,8,V Kohli,Mashrafe Mortaza,S Dhawan,,0,0,0,,,,367223672
+2,India,9,S Dhawan,Nasir Hossain,V Kohli,,0,0,0,,,,367223672
+2,India,9,S Dhawan,Nasir Hossain,V Kohli,,0,0,0,,,,367223672
+2,India,9,S Dhawan,Nasir Hossain,V Kohli,,0,1,1,,,,367223672
+2,India,9,V Kohli,Nasir Hossain,S Dhawan,,0,1,1,,,,367223672
+2,India,9,S Dhawan,Nasir Hossain,V Kohli,,0,1,1,,,,367223672
+2,India,9,V Kohli,Nasir Hossain,S Dhawan,,0,0,0,,,,367223672
+2,India,10,S Dhawan,Shakib Al Hasan,V Kohli,,0,4,4,,,,367223672
+2,India,10,S Dhawan,Shakib Al Hasan,V Kohli,,0,4,4,,,,367223672
+2,India,10,S Dhawan,Shakib Al Hasan,V Kohli,,0,0,0,,,,367223672
+2,India,10,S Dhawan,Shakib Al Hasan,V Kohli,,0,1,1,,,,367223672
+2,India,10,V Kohli,Shakib Al Hasan,S Dhawan,,0,1,1,,,,367223672
+2,India,10,S Dhawan,Shakib Al Hasan,V Kohli,,0,1,1,,,,367223672
+2,India,11,S Dhawan,Nasir Hossain,V Kohli,,0,1,1,,,,367223672
+2,India,11,V Kohli,Nasir Hossain,S Dhawan,,0,4,4,,,,367223672
+2,India,11,V Kohli,Nasir Hossain,S Dhawan,,0,4,4,,,,367223672
+2,India,11,V Kohli,Nasir Hossain,S Dhawan,,0,1,1,,,,367223672
+2,India,11,S Dhawan,Nasir Hossain,V Kohli,,0,4,4,,,,367223672
+2,India,11,S Dhawan,Nasir Hossain,V Kohli,,0,1,1,,,,367223672
+2,India,12,S Dhawan,Taskin Ahmed,V Kohli,,0,0,0,,,,367223672
+2,India,12,S Dhawan,Taskin Ahmed,V Kohli,,0,1,1,,,,367223672
+2,India,12,V Kohli,Taskin Ahmed,S Dhawan,,0,1,1,,,,367223672
+2,India,12,S Dhawan,Taskin Ahmed,V Kohli,,0,0,0,caught,S Dhawan,Soumya Sarkar,367223672
+2,India,12,MS Dhoni,Taskin Ahmed,V Kohli,,0,2,2,,,,367223672
+2,India,12,MS Dhoni,Taskin Ahmed,V Kohli,,0,1,1,,,,367223672
+2,India,13,MS Dhoni,Al-Amin Hossain,V Kohli,,0,6,6,,,,367223672
+2,India,13,MS Dhoni,Al-Amin Hossain,V Kohli,,0,1,1,,,,367223672
+2,India,13,V Kohli,Al-Amin Hossain,MS Dhoni,,0,3,3,,,,367223672
+2,India,13,MS Dhoni,Al-Amin Hossain,V Kohli,,0,4,4,,,,367223672
+2,India,13,MS Dhoni,Al-Amin Hossain,V Kohli,,0,6,6,,,,367223672

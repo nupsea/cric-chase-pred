@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Pakistan,0,Kamran Akmal,WB Rankin,Shahzaib Hasan,,0,0,0,,,,3872387
+1,Pakistan,0,Kamran Akmal,WB Rankin,Shahzaib Hasan,,0,1,1,,,,3872387
+1,Pakistan,0,Shahzaib Hasan,WB Rankin,Kamran Akmal,,0,0,0,,,,3872387
+1,Pakistan,0,Shahzaib Hasan,WB Rankin,Kamran Akmal,,0,2,2,,,,3872387
+1,Pakistan,0,Shahzaib Hasan,WB Rankin,Kamran Akmal,,0,1,1,,,,3872387
+1,Pakistan,0,Kamran Akmal,WB Rankin,Shahzaib Hasan,,0,0,0,,,,3872387
+1,Pakistan,1,Shahzaib Hasan,DT Johnston,Kamran Akmal,wides,1,1,0,,,,3872387
+1,Pakistan,1,Shahzaib Hasan,DT Johnston,Kamran Akmal,,0,4,4,,,,3872387
+1,Pakistan,1,Shahzaib Hasan,DT Johnston,Kamran Akmal,,0,0,0,,,,3872387
+1,Pakistan,1,Shahzaib Hasan,DT Johnston,Kamran Akmal,,0,0,0,,,,3872387
+1,Pakistan,1,Shahzaib Hasan,DT Johnston,Kamran Akmal,,0,0,0,,,,3872387
+1,Pakistan,1,Shahzaib Hasan,DT Johnston,Kamran Akmal,,0,4,4,,,,3872387
+1,Pakistan,1,Shahzaib Hasan,DT Johnston,Kamran Akmal,,0,0,0,,,,3872387
+1,Pakistan,2,Kamran Akmal,WB Rankin,Shahzaib Hasan,,0,0,0,,,,3872387
+1,Pakistan,2,Kamran Akmal,WB Rankin,Shahzaib Hasan,,0,0,0,,,,3872387
+1,Pakistan,2,Kamran Akmal,WB Rankin,Shahzaib Hasan,,0,0,0,,,,3872387
+1,Pakistan,2,Kamran Akmal,WB Rankin,Shahzaib Hasan,,0,0,0,,,,3872387
+1,Pakistan,2,Kamran Akmal,WB Rankin,Shahzaib Hasan,,0,1,1,,,,3872387
+1,Pakistan,2,Shahzaib Hasan,WB Rankin,Kamran Akmal,,0,0,0,,,,3872387
+1,Pakistan,3,Kamran Akmal,DT Johnston,Shahzaib Hasan,,0,0,0,,,,3872387
+1,Pakistan,3,Kamran Akmal,DT Johnston,Shahzaib Hasan,,0,0,0,,,,3872387
+1,Pakistan,3,Kamran Akmal,DT Johnston,Shahzaib Hasan,,0,6,6,,,,3872387
+1,Pakistan,3,Kamran Akmal,DT Johnston,Shahzaib Hasan,noballs,1,2,1,,,,3872387
+1,Pakistan,3,Shahzaib Hasan,DT Johnston,Kamran Akmal,,0,4,4,,,,3872387
+1,Pakistan,3,Shahzaib Hasan,DT Johnston,Kamran Akmal,,0,2,2,,,,3872387
+1,Pakistan,3,Shahzaib Hasan,DT Johnston,Kamran Akmal,,0,6,6,,,,3872387
+1,Pakistan,4,Kamran Akmal,WB Rankin,Shahzaib Hasan,,0,1,1,,,,3872387
+1,Pakistan,4,Shahzaib Hasan,WB Rankin,Kamran Akmal,legbyes,1,1,0,,,,3872387
+1,Pakistan,4,Kamran Akmal,WB Rankin,Shahzaib Hasan,,0,1,1,,,,3872387
+1,Pakistan,4,Shahzaib Hasan,WB Rankin,Kamran Akmal,,0,0,0,,,,3872387
+1,Pakistan,4,Shahzaib Hasan,WB Rankin,Kamran Akmal,,0,0,0,,,,3872387
+1,Pakistan,4,Shahzaib Hasan,WB Rankin,Kamran Akmal,,0,0,0,,,,3872387
+1,Pakistan,5,Kamran Akmal,AR Cusack,Shahzaib Hasan,,0,0,0,,,,3872387
+1,Pakistan,5,Kamran Akmal,AR Cusack,Shahzaib Hasan,,0,1,1,,,,3872387
+1,Pakistan,5,Shahzaib Hasan,AR Cusack,Kamran Akmal,,0,0,0,,,,3872387
+1,Pakistan,5,Shahzaib Hasan,AR Cusack,Kamran Akmal,,0,0,0,caught,Shahzaib Hasan,WK McCallan,3872387
+1,Pakistan,5,Kamran Akmal,AR Cusack,Shahid Afridi,,0,0,0,,,,3872387
+1,Pakistan,5,Kamran Akmal,AR Cusack,Shahid Afridi,,0,0,0,,,,3872387
+1,Pakistan,6,Shahid Afridi,RM West,Kamran Akmal,,0,1,1,,,,3872387
+1,Pakistan,6,Kamran Akmal,RM West,Shahid Afridi,,0,4,4,,,,3872387
+1,Pakistan,6,Kamran Akmal,RM West,Shahid Afridi,,0,2,2,,,,3872387
+1,Pakistan,6,Kamran Akmal,RM West,Shahid Afridi,,0,1,1,,,,3872387
+1,Pakistan,6,Shahid Afridi,RM West,Kamran Akmal,,0,2,2,,,,3872387
+1,Pakistan,6,Shahid Afridi,RM West,Kamran Akmal,,0,1,1,,,,3872387
+1,Pakistan,7,Shahid Afridi,AR Cusack,Kamran Akmal,,0,4,4,,,,3872387
+1,Pakistan,7,Shahid Afridi,AR Cusack,Kamran Akmal,,0,1,1,,,,3872387
+1,Pakistan,7,Kamran Akmal,AR Cusack,Shahid Afridi,,0,4,4,,,,3872387
+1,Pakistan,7,Kamran Akmal,AR Cusack,Shahid Afridi,,0,1,1,,,,3872387
+1,Pakistan,7,Shahid Afridi,AR Cusack,Kamran Akmal,,0,2,2,,,,3872387
+1,Pakistan,7,Shahid Afridi,AR Cusack,Kamran Akmal,,0,2,2,,,,3872387
+1,Pakistan,8,Kamran Akmal,RM West,Shahid Afridi,,0,1,1,,,,3872387
+1,Pakistan,8,Shahid Afridi,RM West,Kamran Akmal,,0,2,2,,,,3872387
+1,Pakistan,8,Shahid Afridi,RM West,Kamran Akmal,,0,0,0,,,,3872387
+1,Pakistan,8,Shahid Afridi,RM West,Kamran Akmal,,0,4,4,,,,3872387
+1,Pakistan,8,Shahid Afridi,RM West,Kamran Akmal,,0,1,1,,,,3872387
+1,Pakistan,8,Kamran Akmal,RM West,Shahid Afridi,wides,1,1,0,,,,3872387
+1,Pakistan,8,Kamran Akmal,RM West,Shahid Afridi,,0,1,1,,,,3872387
+1,Pakistan,9,Kamran Akmal,WK McCallan,Shahid Afridi,,0,1,1,,,,3872387
+1,Pakistan,9,Shahid Afridi,WK McCallan,Kamran Akmal,,0,4,4,,,,3872387
+1,Pakistan,9,Shahid Afridi,WK McCallan,Kamran Akmal,,0,0,0,caught,Shahid Afridi,JF Mooney,3872387
+1,Pakistan,9,Kamran Akmal,WK McCallan,Younis Khan,,0,0,0,,,,3872387
+1,Pakistan,9,Kamran Akmal,WK McCallan,Younis Khan,,0,0,0,,,,3872387
+1,Pakistan,9,Kamran Akmal,WK McCallan,Younis Khan,,0,1,1,,,,3872387
+1,Pakistan,10,Kamran Akmal,DT Johnston,Younis Khan,,0,0,0,,,,3872387
+1,Pakistan,10,Kamran Akmal,DT Johnston,Younis Khan,,0,1,1,,,,3872387
+1,Pakistan,10,Younis Khan,DT Johnston,Kamran Akmal,,0,2,2,,,,3872387
+1,Pakistan,10,Younis Khan,DT Johnston,Kamran Akmal,,0,4,4,,,,3872387
+1,Pakistan,10,Younis Khan,DT Johnston,Kamran Akmal,,0,1,1,,,,3872387
+1,Pakistan,10,Kamran Akmal,DT Johnston,Younis Khan,,0,4,4,,,,3872387
+1,Pakistan,11,Younis Khan,WK McCallan,Kamran Akmal,,0,1,1,,,,3872387
+1,Pakistan,11,Kamran Akmal,WK McCallan,Younis Khan,,0,2,2,,,,3872387
+1,Pakistan,11,Kamran Akmal,WK McCallan,Younis Khan,,0,0,0,,,,3872387
+1,Pakistan,11,Kamran Akmal,WK McCallan,Younis Khan,,0,1,1,,,,3872387
+1,Pakistan,11,Younis Khan,WK McCallan,Kamran Akmal,,0,1,1,,,,3872387
+1,Pakistan,11,Kamran Akmal,WK McCallan,Younis Khan,,0,0,0,,,,3872387
+1,Pakistan,12,Younis Khan,RM West,Kamran Akmal,,0,0,0,,,,3872387
+1,Pakistan,12,Younis Khan,RM West,Kamran Akmal,,0,1,1,,,,3872387
+1,Pakistan,12,Kamran Akmal,RM West,Younis Khan,,0,4,4,,,,3872387
+1,Pakistan,12,Kamran Akmal,RM West,Younis Khan,,0,1,1,,,,3872387
+1,Pakistan,12,Younis Khan,RM West,Kamran Akmal,,0,0,0,bowled,Younis Khan,,3872387
+1,Pakistan,12,Misbah-ul-Haq,RM West,Kamran Akmal,legbyes,1,1,0,,,,3872387
+1,Pakistan,13,Misbah-ul-Haq,WK McCallan,Kamran Akmal,,0,1,1,,,,3872387
+1,Pakistan,13,Kamran Akmal,WK McCallan,Misbah-ul-Haq,,0,0,0,,,,3872387
+1,Pakistan,13,Kamran Akmal,WK McCallan,Misbah-ul-Haq,,0,1,1,,,,3872387
+1,Pakistan,13,Misbah-ul-Haq,WK McCallan,Kamran Akmal,,0,1,1,,,,3872387
+1,Pakistan,13,Kamran Akmal,WK McCallan,Misbah-ul-Haq,,0,2,2,,,,3872387
+1,Pakistan,13,Kamran Akmal,WK McCallan,Misbah-ul-Haq,,0,1,1,,,,3872387
+1,Pakistan,14,Kamran Akmal,RM West,Misbah-ul-Haq,,0,3,3,,,,3872387
+1,Pakistan,14,Misbah-ul-Haq,RM West,Kamran Akmal,,0,0,0,,,,3872387
+1,Pakistan,14,Misbah-ul-Haq,RM West,Kamran Akmal,,0,1,1,,,,3872387
+1,Pakistan,14,Kamran Akmal,RM West,Misbah-ul-Haq,legbyes,1,1,0,,,,3872387
+1,Pakistan,14,Misbah-ul-Haq,RM West,Kamran Akmal,,0,1,1,,,,3872387
+1,Pakistan,14,Kamran Akmal,RM West,Misbah-ul-Haq,,0,1,1,,,,3872387
+1,Pakistan,15,Kamran Akmal,AR Cusack,Misbah-ul-Haq,,0,1,1,,,,3872387
+1,Pakistan,15,Misbah-ul-Haq,AR Cusack,Kamran Akmal,,0,2,2,,,,3872387
+1,Pakistan,15,Misbah-ul-Haq,AR Cusack,Kamran Akmal,,0,1,1,,,,3872387
+1,Pakistan,15,Kamran Akmal,AR Cusack,Misbah-ul-Haq,,0,4,4,,,,3872387
+1,Pakistan,15,Kamran Akmal,AR Cusack,Misbah-ul-Haq,,0,1,1,,,,3872387
+1,Pakistan,15,Misbah-ul-Haq,AR Cusack,Kamran Akmal,,0,4,4,,,,3872387
+1,Pakistan,16,Kamran Akmal,DT Johnston,Misbah-ul-Haq,,0,1,1,,,,3872387
+1,Pakistan,16,Misbah-ul-Haq,DT Johnston,Kamran Akmal,,0,1,1,,,,3872387
+1,Pakistan,16,Kamran Akmal,DT Johnston,Misbah-ul-Haq,,0,1,1,,,,3872387
+1,Pakistan,16,Misbah-ul-Haq,DT Johnston,Kamran Akmal,,0,1,1,,,,3872387
+1,Pakistan,16,Kamran Akmal,DT Johnston,Misbah-ul-Haq,,0,0,0,bowled,Kamran Akmal,,3872387
+1,Pakistan,16,Abdul Razzaq,DT Johnston,Misbah-ul-Haq,,0,0,0,,,,3872387
+1,Pakistan,17,Misbah-ul-Haq,WK McCallan,Abdul Razzaq,,0,6,6,,,,3872387
+1,Pakistan,17,Misbah-ul-Haq,WK McCallan,Abdul Razzaq,,0,1,1,,,,3872387
+1,Pakistan,17,Abdul Razzaq,WK McCallan,Misbah-ul-Haq,,0,1,1,,,,3872387
+1,Pakistan,17,Misbah-ul-Haq,WK McCallan,Abdul Razzaq,,0,0,0,caught,Misbah-ul-Haq,NJ O'Brien,3872387
+1,Pakistan,17,Shoaib Malik,WK McCallan,Abdul Razzaq,,0,0,0,,,,3872387
+1,Pakistan,17,Shoaib Malik,WK McCallan,Abdul Razzaq,,0,1,1,,,,3872387
+1,Pakistan,18,Shoaib Malik,WB Rankin,Abdul Razzaq,,0,0,0,,,,3872387
+1,Pakistan,18,Shoaib Malik,WB Rankin,Abdul Razzaq,,0,1,1,,,,3872387
+1,Pakistan,18,Abdul Razzaq,WB Rankin,Shoaib Malik,,0,1,1,,,,3872387
+1,Pakistan,18,Shoaib Malik,WB Rankin,Abdul Razzaq,,0,0,0,,,,3872387
+1,Pakistan,18,Shoaib Malik,WB Rankin,Abdul Razzaq,,0,1,1,,,,3872387
+1,Pakistan,18,Abdul Razzaq,WB Rankin,Shoaib Malik,,0,1,1,,,,3872387
+1,Pakistan,19,Abdul Razzaq,AR Cusack,Shoaib Malik,,0,1,1,,,,3872387
+1,Pakistan,19,Shoaib Malik,AR Cusack,Abdul Razzaq,,0,1,1,,,,3872387
+1,Pakistan,19,Abdul Razzaq,AR Cusack,Shoaib Malik,,0,6,6,,,,3872387
+1,Pakistan,19,Abdul Razzaq,AR Cusack,Shoaib Malik,,0,2,2,,,,3872387
+1,Pakistan,19,Abdul Razzaq,AR Cusack,Shoaib Malik,,0,2,2,,,,3872387
+1,Pakistan,19,Abdul Razzaq,AR Cusack,Shoaib Malik,,0,1,1,,,,3872387

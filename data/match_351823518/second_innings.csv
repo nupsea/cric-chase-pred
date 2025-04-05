@@ -1,0 +1,119 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Scotland,0,HG Munsey,Dawlat Zadran,KJ Coetzer,wides,1,1,0,,,,351823518
+2,Scotland,0,HG Munsey,Dawlat Zadran,KJ Coetzer,,0,0,0,,,,351823518
+2,Scotland,0,HG Munsey,Dawlat Zadran,KJ Coetzer,,0,0,0,,,,351823518
+2,Scotland,0,HG Munsey,Dawlat Zadran,KJ Coetzer,,0,0,0,,,,351823518
+2,Scotland,0,HG Munsey,Dawlat Zadran,KJ Coetzer,,0,1,1,,,,351823518
+2,Scotland,0,KJ Coetzer,Dawlat Zadran,HG Munsey,legbyes,1,1,0,,,,351823518
+2,Scotland,0,HG Munsey,Dawlat Zadran,KJ Coetzer,,0,0,0,,,,351823518
+2,Scotland,1,KJ Coetzer,Mohammad Nabi,HG Munsey,,0,1,1,,,,351823518
+2,Scotland,1,HG Munsey,Mohammad Nabi,KJ Coetzer,,0,4,4,,,,351823518
+2,Scotland,1,HG Munsey,Mohammad Nabi,KJ Coetzer,,0,1,1,,,,351823518
+2,Scotland,1,KJ Coetzer,Mohammad Nabi,HG Munsey,,0,1,1,,,,351823518
+2,Scotland,1,HG Munsey,Mohammad Nabi,KJ Coetzer,,0,0,0,caught,HG Munsey,Samiullah Shenwari,351823518
+2,Scotland,1,CS MacLeod,Mohammad Nabi,KJ Coetzer,,0,0,0,,,,351823518
+2,Scotland,2,KJ Coetzer,Dawlat Zadran,CS MacLeod,,0,0,0,,,,351823518
+2,Scotland,2,KJ Coetzer,Dawlat Zadran,CS MacLeod,,0,4,4,,,,351823518
+2,Scotland,2,KJ Coetzer,Dawlat Zadran,CS MacLeod,,0,0,0,,,,351823518
+2,Scotland,2,KJ Coetzer,Dawlat Zadran,CS MacLeod,legbyes,4,4,0,,,,351823518
+2,Scotland,2,KJ Coetzer,Dawlat Zadran,CS MacLeod,,0,4,4,,,,351823518
+2,Scotland,2,KJ Coetzer,Dawlat Zadran,CS MacLeod,,0,1,1,,,,351823518
+2,Scotland,3,KJ Coetzer,Mohammad Nabi,CS MacLeod,,0,1,1,,,,351823518
+2,Scotland,3,CS MacLeod,Mohammad Nabi,KJ Coetzer,,0,1,1,,,,351823518
+2,Scotland,3,KJ Coetzer,Mohammad Nabi,CS MacLeod,,0,0,0,,,,351823518
+2,Scotland,3,KJ Coetzer,Mohammad Nabi,CS MacLeod,,0,1,1,,,,351823518
+2,Scotland,3,CS MacLeod,Mohammad Nabi,KJ Coetzer,,0,0,0,,,,351823518
+2,Scotland,3,CS MacLeod,Mohammad Nabi,KJ Coetzer,,0,1,1,,,,351823518
+2,Scotland,4,CS MacLeod,Hamid Hassan,KJ Coetzer,,0,4,4,,,,351823518
+2,Scotland,4,CS MacLeod,Hamid Hassan,KJ Coetzer,,0,6,6,,,,351823518
+2,Scotland,4,CS MacLeod,Hamid Hassan,KJ Coetzer,,0,0,0,,,,351823518
+2,Scotland,4,CS MacLeod,Hamid Hassan,KJ Coetzer,,0,1,1,,,,351823518
+2,Scotland,4,KJ Coetzer,Hamid Hassan,CS MacLeod,,0,1,1,,,,351823518
+2,Scotland,4,CS MacLeod,Hamid Hassan,KJ Coetzer,,0,2,2,,,,351823518
+2,Scotland,5,KJ Coetzer,Mirwais Ashraf,CS MacLeod,,0,1,1,,,,351823518
+2,Scotland,5,CS MacLeod,Mirwais Ashraf,KJ Coetzer,,0,0,0,,,,351823518
+2,Scotland,5,CS MacLeod,Mirwais Ashraf,KJ Coetzer,,0,4,4,,,,351823518
+2,Scotland,5,CS MacLeod,Mirwais Ashraf,KJ Coetzer,byes,1,1,0,,,,351823518
+2,Scotland,5,KJ Coetzer,Mirwais Ashraf,CS MacLeod,,0,0,0,caught,KJ Coetzer,Mohammad Nabi,351823518
+2,Scotland,5,MH Cross,Mirwais Ashraf,CS MacLeod,,0,1,1,,,,351823518
+2,Scotland,6,MH Cross,Hamid Hassan,CS MacLeod,,0,0,0,run out,CS MacLeod,Mohammad Nabi,351823518
+2,Scotland,6,RD Berrington,Hamid Hassan,MH Cross,,0,1,1,,,,351823518
+2,Scotland,6,MH Cross,Hamid Hassan,RD Berrington,,0,0,0,,,,351823518
+2,Scotland,6,MH Cross,Hamid Hassan,RD Berrington,,0,0,0,,,,351823518
+2,Scotland,6,MH Cross,Hamid Hassan,RD Berrington,,0,1,1,,,,351823518
+2,Scotland,6,RD Berrington,Hamid Hassan,MH Cross,,0,1,1,,,,351823518
+2,Scotland,7,RD Berrington,Sharafuddin Ashraf,MH Cross,,0,1,1,,,,351823518
+2,Scotland,7,MH Cross,Sharafuddin Ashraf,RD Berrington,,0,4,4,,,,351823518
+2,Scotland,7,MH Cross,Sharafuddin Ashraf,RD Berrington,,0,1,1,,,,351823518
+2,Scotland,7,RD Berrington,Sharafuddin Ashraf,MH Cross,,0,1,1,,,,351823518
+2,Scotland,7,MH Cross,Sharafuddin Ashraf,RD Berrington,,0,6,6,,,,351823518
+2,Scotland,7,MH Cross,Sharafuddin Ashraf,RD Berrington,,0,1,1,,,,351823518
+2,Scotland,8,MH Cross,Mirwais Ashraf,RD Berrington,,0,0,0,,,,351823518
+2,Scotland,8,MH Cross,Mirwais Ashraf,RD Berrington,,0,1,1,,,,351823518
+2,Scotland,8,RD Berrington,Mirwais Ashraf,MH Cross,,0,0,0,,,,351823518
+2,Scotland,8,RD Berrington,Mirwais Ashraf,MH Cross,,0,1,1,,,,351823518
+2,Scotland,8,MH Cross,Mirwais Ashraf,RD Berrington,,0,1,1,,,,351823518
+2,Scotland,8,RD Berrington,Mirwais Ashraf,MH Cross,,0,6,6,,,,351823518
+2,Scotland,9,MH Cross,Sharafuddin Ashraf,RD Berrington,,0,2,2,,,,351823518
+2,Scotland,9,MH Cross,Sharafuddin Ashraf,RD Berrington,,0,4,4,,,,351823518
+2,Scotland,9,MH Cross,Sharafuddin Ashraf,RD Berrington,,0,6,6,,,,351823518
+2,Scotland,9,MH Cross,Sharafuddin Ashraf,RD Berrington,,0,1,1,,,,351823518
+2,Scotland,9,RD Berrington,Sharafuddin Ashraf,MH Cross,,0,1,1,,,,351823518
+2,Scotland,9,MH Cross,Sharafuddin Ashraf,RD Berrington,,0,6,6,,,,351823518
+2,Scotland,10,RD Berrington,Mirwais Ashraf,MH Cross,,0,1,1,,,,351823518
+2,Scotland,10,MH Cross,Mirwais Ashraf,RD Berrington,,0,0,0,,,,351823518
+2,Scotland,10,MH Cross,Mirwais Ashraf,RD Berrington,,0,1,1,,,,351823518
+2,Scotland,10,RD Berrington,Mirwais Ashraf,MH Cross,,0,1,1,,,,351823518
+2,Scotland,10,MH Cross,Mirwais Ashraf,RD Berrington,,0,1,1,,,,351823518
+2,Scotland,10,RD Berrington,Mirwais Ashraf,MH Cross,,0,0,0,,,,351823518
+2,Scotland,11,MH Cross,Mohammad Nabi,RD Berrington,,0,0,0,,,,351823518
+2,Scotland,11,MH Cross,Mohammad Nabi,RD Berrington,,0,0,0,caught and bowled,MH Cross,,351823518
+2,Scotland,11,RD Berrington,Mohammad Nabi,PL Mommsen,,0,0,0,,,,351823518
+2,Scotland,11,RD Berrington,Mohammad Nabi,PL Mommsen,,0,4,4,,,,351823518
+2,Scotland,11,RD Berrington,Mohammad Nabi,PL Mommsen,,0,1,1,,,,351823518
+2,Scotland,11,PL Mommsen,Mohammad Nabi,RD Berrington,,0,1,1,,,,351823518
+2,Scotland,12,PL Mommsen,Mirwais Ashraf,RD Berrington,,0,1,1,,,,351823518
+2,Scotland,12,RD Berrington,Mirwais Ashraf,PL Mommsen,,0,4,4,,,,351823518
+2,Scotland,12,RD Berrington,Mirwais Ashraf,PL Mommsen,,0,1,1,,,,351823518
+2,Scotland,12,PL Mommsen,Mirwais Ashraf,RD Berrington,,0,1,1,,,,351823518
+2,Scotland,12,RD Berrington,Mirwais Ashraf,PL Mommsen,,0,0,0,caught,RD Berrington,Shafiqullah,351823518
+2,Scotland,12,PL Mommsen,Mirwais Ashraf,MA Leask,,0,0,0,,,,351823518
+2,Scotland,13,MA Leask,Samiullah Shenwari,PL Mommsen,,0,1,1,,,,351823518
+2,Scotland,13,PL Mommsen,Samiullah Shenwari,MA Leask,,0,0,0,,,,351823518
+2,Scotland,13,PL Mommsen,Samiullah Shenwari,MA Leask,,0,0,0,,,,351823518
+2,Scotland,13,PL Mommsen,Samiullah Shenwari,MA Leask,,0,4,4,,,,351823518
+2,Scotland,13,PL Mommsen,Samiullah Shenwari,MA Leask,,0,0,0,,,,351823518
+2,Scotland,13,PL Mommsen,Samiullah Shenwari,MA Leask,,0,1,1,,,,351823518
+2,Scotland,14,PL Mommsen,Dawlat Zadran,MA Leask,,0,0,0,,,,351823518
+2,Scotland,14,PL Mommsen,Dawlat Zadran,MA Leask,,0,4,4,,,,351823518
+2,Scotland,14,PL Mommsen,Dawlat Zadran,MA Leask,,0,6,6,,,,351823518
+2,Scotland,14,PL Mommsen,Dawlat Zadran,MA Leask,,0,6,6,,,,351823518
+2,Scotland,14,PL Mommsen,Dawlat Zadran,MA Leask,,0,6,6,,,,351823518
+2,Scotland,14,PL Mommsen,Dawlat Zadran,MA Leask,,0,2,2,,,,351823518
+2,Scotland,15,MA Leask,Samiullah Shenwari,PL Mommsen,,0,4,4,,,,351823518
+2,Scotland,15,MA Leask,Samiullah Shenwari,PL Mommsen,,0,1,1,,,,351823518
+2,Scotland,15,PL Mommsen,Samiullah Shenwari,MA Leask,wides,1,1,0,,,,351823518
+2,Scotland,15,PL Mommsen,Samiullah Shenwari,MA Leask,,0,1,1,,,,351823518
+2,Scotland,15,MA Leask,Samiullah Shenwari,PL Mommsen,,0,0,0,,,,351823518
+2,Scotland,15,MA Leask,Samiullah Shenwari,PL Mommsen,,0,1,1,,,,351823518
+2,Scotland,15,PL Mommsen,Samiullah Shenwari,MA Leask,,0,4,4,,,,351823518
+2,Scotland,16,MA Leask,Hamid Hassan,PL Mommsen,,0,1,1,,,,351823518
+2,Scotland,16,PL Mommsen,Hamid Hassan,MA Leask,,0,6,6,,,,351823518
+2,Scotland,16,PL Mommsen,Hamid Hassan,MA Leask,,0,1,1,,,,351823518
+2,Scotland,16,MA Leask,Hamid Hassan,PL Mommsen,,0,1,1,,,,351823518
+2,Scotland,16,PL Mommsen,Hamid Hassan,MA Leask,,0,0,0,caught,PL Mommsen,Shafiqullah,351823518
+2,Scotland,16,MA Leask,Hamid Hassan,SM Sharif,,0,1,1,,,,351823518
+2,Scotland,17,MA Leask,Mohammad Nabi,SM Sharif,,0,0,0,caught,MA Leask,Najibullah Zadran,351823518
+2,Scotland,17,SM Sharif,Mohammad Nabi,CD de Lange,,0,4,4,,,,351823518
+2,Scotland,17,SM Sharif,Mohammad Nabi,CD de Lange,,0,1,1,,,,351823518
+2,Scotland,17,CD de Lange,Mohammad Nabi,SM Sharif,,0,1,1,,,,351823518
+2,Scotland,17,SM Sharif,Mohammad Nabi,CD de Lange,,0,2,2,,,,351823518
+2,Scotland,17,SM Sharif,Mohammad Nabi,CD de Lange,,0,0,0,,,,351823518
+2,Scotland,18,CD de Lange,Hamid Hassan,SM Sharif,,0,0,0,bowled,CD de Lange,,351823518
+2,Scotland,18,AC Evans,Hamid Hassan,SM Sharif,,0,0,0,,,,351823518
+2,Scotland,18,AC Evans,Hamid Hassan,SM Sharif,,0,0,0,,,,351823518
+2,Scotland,18,AC Evans,Hamid Hassan,SM Sharif,,0,0,0,bowled,AC Evans,,351823518
+2,Scotland,18,MRJ Watt,Hamid Hassan,SM Sharif,,0,1,1,,,,351823518
+2,Scotland,18,SM Sharif,Hamid Hassan,MRJ Watt,,0,1,1,,,,351823518
+2,Scotland,19,SM Sharif,Dawlat Zadran,MRJ Watt,,0,0,0,,,,351823518
+2,Scotland,19,SM Sharif,Dawlat Zadran,MRJ Watt,,0,0,0,caught,SM Sharif,Shafiqullah,351823518

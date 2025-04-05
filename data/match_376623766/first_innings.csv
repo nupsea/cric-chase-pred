@@ -1,0 +1,50 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,India,0,RG Sharma,TA Boult,S Dhawan,,0,1,1,,,,376623766
+1,India,0,S Dhawan,TA Boult,RG Sharma,,0,0,0,,,,376623766
+1,India,0,S Dhawan,TA Boult,RG Sharma,,0,0,0,,,,376623766
+1,India,0,S Dhawan,TA Boult,RG Sharma,,0,2,2,,,,376623766
+1,India,0,S Dhawan,TA Boult,RG Sharma,,0,4,4,,,,376623766
+1,India,0,S Dhawan,TA Boult,RG Sharma,,0,0,0,,,,376623766
+1,India,1,RG Sharma,MJ Santner,S Dhawan,,0,0,0,,,,376623766
+1,India,1,RG Sharma,MJ Santner,S Dhawan,,0,2,2,,,,376623766
+1,India,1,RG Sharma,MJ Santner,S Dhawan,,0,0,0,,,,376623766
+1,India,1,RG Sharma,MJ Santner,S Dhawan,,0,4,4,,,,376623766
+1,India,1,RG Sharma,MJ Santner,S Dhawan,,0,0,0,,,,376623766
+1,India,1,RG Sharma,MJ Santner,S Dhawan,legbyes,1,1,0,,,,376623766
+1,India,2,RG Sharma,TG Southee,S Dhawan,,0,1,1,,,,376623766
+1,India,2,S Dhawan,TG Southee,RG Sharma,,0,0,0,caught,S Dhawan,MJ Santner,376623766
+1,India,2,RG Sharma,TG Southee,V Kohli,,0,0,0,caught,RG Sharma,MJ Santner,376623766
+1,India,2,V Kohli,TG Southee,SS Iyer,,0,1,1,,,,376623766
+1,India,2,SS Iyer,TG Southee,V Kohli,,0,1,1,,,,376623766
+1,India,2,V Kohli,TG Southee,SS Iyer,,0,1,1,,,,376623766
+1,India,3,V Kohli,IS Sodhi,SS Iyer,,0,4,4,,,,376623766
+1,India,3,V Kohli,IS Sodhi,SS Iyer,,0,6,6,,,,376623766
+1,India,3,V Kohli,IS Sodhi,SS Iyer,,0,1,1,,,,376623766
+1,India,3,SS Iyer,IS Sodhi,V Kohli,,0,1,1,,,,376623766
+1,India,3,V Kohli,IS Sodhi,SS Iyer,,0,0,0,caught,V Kohli,TA Boult,376623766
+1,India,3,MK Pandey,IS Sodhi,SS Iyer,,0,1,1,,,,376623766
+1,India,4,MK Pandey,TG Southee,SS Iyer,,0,4,4,,,,376623766
+1,India,4,MK Pandey,TG Southee,SS Iyer,,0,0,0,,,,376623766
+1,India,4,MK Pandey,TG Southee,SS Iyer,,0,1,1,,,,376623766
+1,India,4,SS Iyer,TG Southee,MK Pandey,,0,0,0,,,,376623766
+1,India,4,SS Iyer,TG Southee,MK Pandey,,0,2,2,,,,376623766
+1,India,4,SS Iyer,TG Southee,MK Pandey,,0,2,2,,,,376623766
+1,India,5,MK Pandey,IS Sodhi,SS Iyer,wides,1,1,0,,,,376623766
+1,India,5,MK Pandey,IS Sodhi,SS Iyer,,0,6,6,,,,376623766
+1,India,5,MK Pandey,IS Sodhi,SS Iyer,,0,0,0,,,,376623766
+1,India,5,MK Pandey,IS Sodhi,SS Iyer,,0,1,1,,,,376623766
+1,India,5,SS Iyer,IS Sodhi,MK Pandey,,0,0,0,caught,SS Iyer,MJ Guptill,376623766
+1,India,5,MK Pandey,IS Sodhi,HH Pandya,,0,1,1,,,,376623766
+1,India,5,HH Pandya,IS Sodhi,MK Pandey,,0,1,1,,,,376623766
+1,India,6,HH Pandya,MJ Santner,MK Pandey,,0,0,0,,,,376623766
+1,India,6,HH Pandya,MJ Santner,MK Pandey,,0,1,1,,,,376623766
+1,India,6,MK Pandey,MJ Santner,HH Pandya,,0,2,2,,,,376623766
+1,India,6,MK Pandey,MJ Santner,HH Pandya,,0,1,1,,,,376623766
+1,India,6,HH Pandya,MJ Santner,MK Pandey,,0,6,6,,,,376623766
+1,India,6,HH Pandya,MJ Santner,MK Pandey,legbyes,1,1,0,,,,376623766
+1,India,7,HH Pandya,TA Boult,MK Pandey,,0,1,1,,,,376623766
+1,India,7,MK Pandey,TA Boult,HH Pandya,,0,0,0,caught,MK Pandey,C de Grandhomme,376623766
+1,India,7,HH Pandya,TA Boult,MS Dhoni,,0,2,2,,,,376623766
+1,India,7,HH Pandya,TA Boult,MS Dhoni,,0,2,2,,,,376623766
+1,India,7,HH Pandya,TA Boult,MS Dhoni,,0,0,0,,,,376623766
+1,India,7,HH Pandya,TA Boult,MS Dhoni,,0,1,1,,,,376623766

@@ -1,0 +1,97 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Zimbabwe,0,T Taibu,NL McCullum,H Masakadza,,0,1,1,,,,312023120
+1,Zimbabwe,0,H Masakadza,NL McCullum,T Taibu,,0,2,2,,,,312023120
+1,Zimbabwe,0,H Masakadza,NL McCullum,T Taibu,,0,4,4,,,,312023120
+1,Zimbabwe,0,H Masakadza,NL McCullum,T Taibu,,0,0,0,,,,312023120
+1,Zimbabwe,0,H Masakadza,NL McCullum,T Taibu,,0,1,1,,,,312023120
+1,Zimbabwe,0,T Taibu,NL McCullum,H Masakadza,,0,0,0,,,,312023120
+1,Zimbabwe,1,H Masakadza,SE Bond,T Taibu,,0,0,0,,,,312023120
+1,Zimbabwe,1,H Masakadza,SE Bond,T Taibu,,0,0,0,,,,312023120
+1,Zimbabwe,1,H Masakadza,SE Bond,T Taibu,,0,0,0,,,,312023120
+1,Zimbabwe,1,H Masakadza,SE Bond,T Taibu,,0,1,1,,,,312023120
+1,Zimbabwe,1,T Taibu,SE Bond,H Masakadza,wides,1,1,0,,,,312023120
+1,Zimbabwe,1,T Taibu,SE Bond,H Masakadza,,0,0,0,,,,312023120
+1,Zimbabwe,1,T Taibu,SE Bond,H Masakadza,,0,4,4,,,,312023120
+1,Zimbabwe,2,H Masakadza,TG Southee,T Taibu,,0,1,1,,,,312023120
+1,Zimbabwe,2,T Taibu,TG Southee,H Masakadza,legbyes,1,1,0,,,,312023120
+1,Zimbabwe,2,H Masakadza,TG Southee,T Taibu,wides,1,1,0,,,,312023120
+1,Zimbabwe,2,H Masakadza,TG Southee,T Taibu,,0,1,1,,,,312023120
+1,Zimbabwe,2,T Taibu,TG Southee,H Masakadza,,0,1,1,,,,312023120
+1,Zimbabwe,2,H Masakadza,TG Southee,T Taibu,,0,0,0,,,,312023120
+1,Zimbabwe,2,H Masakadza,TG Southee,T Taibu,,0,1,1,,,,312023120
+1,Zimbabwe,3,H Masakadza,SE Bond,T Taibu,,0,1,1,,,,312023120
+1,Zimbabwe,3,T Taibu,SE Bond,H Masakadza,,0,4,4,,,,312023120
+1,Zimbabwe,3,T Taibu,SE Bond,H Masakadza,,0,2,2,,,,312023120
+1,Zimbabwe,3,T Taibu,SE Bond,H Masakadza,,0,0,0,,,,312023120
+1,Zimbabwe,3,T Taibu,SE Bond,H Masakadza,,0,1,1,,,,312023120
+1,Zimbabwe,3,H Masakadza,SE Bond,T Taibu,,0,0,0,,,,312023120
+1,Zimbabwe,4,T Taibu,TG Southee,H Masakadza,,0,4,4,,,,312023120
+1,Zimbabwe,4,T Taibu,TG Southee,H Masakadza,,0,2,2,,,,312023120
+1,Zimbabwe,4,T Taibu,TG Southee,H Masakadza,,0,2,2,,,,312023120
+1,Zimbabwe,4,T Taibu,TG Southee,H Masakadza,,0,0,0,caught,T Taibu,JDP Oram,312023120
+1,Zimbabwe,4,AM Blignaut,TG Southee,H Masakadza,,0,1,1,,,,312023120
+1,Zimbabwe,4,H Masakadza,TG Southee,AM Blignaut,,0,4,4,,,,312023120
+1,Zimbabwe,5,AM Blignaut,JDP Oram,H Masakadza,,0,1,1,,,,312023120
+1,Zimbabwe,5,H Masakadza,JDP Oram,AM Blignaut,,0,0,0,,,,312023120
+1,Zimbabwe,5,H Masakadza,JDP Oram,AM Blignaut,,0,1,1,,,,312023120
+1,Zimbabwe,5,AM Blignaut,JDP Oram,H Masakadza,,0,4,4,,,,312023120
+1,Zimbabwe,5,AM Blignaut,JDP Oram,H Masakadza,,0,1,1,,,,312023120
+1,Zimbabwe,5,H Masakadza,JDP Oram,AM Blignaut,wides,5,5,0,,,,312023120
+1,Zimbabwe,5,H Masakadza,JDP Oram,AM Blignaut,,0,1,1,,,,312023120
+1,Zimbabwe,6,H Masakadza,NL McCullum,AM Blignaut,,0,1,1,,,,312023120
+1,Zimbabwe,6,AM Blignaut,NL McCullum,H Masakadza,wides,1,1,0,,,,312023120
+1,Zimbabwe,6,AM Blignaut,NL McCullum,H Masakadza,,0,0,0,,,,312023120
+1,Zimbabwe,6,AM Blignaut,NL McCullum,H Masakadza,,0,1,1,,,,312023120
+1,Zimbabwe,6,H Masakadza,NL McCullum,AM Blignaut,,0,1,1,run out,H Masakadza,GJ Hopkins,312023120
+1,Zimbabwe,6,E Chigumbura,NL McCullum,AM Blignaut,,0,1,1,,,,312023120
+1,Zimbabwe,6,AM Blignaut,NL McCullum,E Chigumbura,,0,0,0,,,,312023120
+1,Zimbabwe,7,E Chigumbura,DL Vettori,AM Blignaut,,0,1,1,,,,312023120
+1,Zimbabwe,7,AM Blignaut,DL Vettori,E Chigumbura,,0,0,0,bowled,AM Blignaut,,312023120
+1,Zimbabwe,7,CR Ervine,DL Vettori,E Chigumbura,,0,0,0,,,,312023120
+1,Zimbabwe,7,CR Ervine,DL Vettori,E Chigumbura,,0,1,1,,,,312023120
+1,Zimbabwe,7,E Chigumbura,DL Vettori,CR Ervine,,0,1,1,,,,312023120
+1,Zimbabwe,7,CR Ervine,DL Vettori,E Chigumbura,,0,0,0,,,,312023120
+1,Zimbabwe,8,E Chigumbura,NL McCullum,CR Ervine,,0,0,0,caught,E Chigumbura,MJ Guptill,312023120
+1,Zimbabwe,8,CK Coventry,NL McCullum,CR Ervine,,0,0,0,,,,312023120
+1,Zimbabwe,8,CK Coventry,NL McCullum,CR Ervine,,0,0,0,caught and bowled,CK Coventry,,312023120
+1,Zimbabwe,8,GA Lamb,NL McCullum,CR Ervine,,0,1,1,,,,312023120
+1,Zimbabwe,8,CR Ervine,NL McCullum,GA Lamb,,0,0,0,,,,312023120
+1,Zimbabwe,8,CR Ervine,NL McCullum,GA Lamb,,0,0,0,stumped,CR Ervine,GJ Hopkins,312023120
+1,Zimbabwe,9,GA Lamb,DL Vettori,T Maruma,,0,1,1,,,,312023120
+1,Zimbabwe,9,T Maruma,DL Vettori,GA Lamb,,0,0,0,,,,312023120
+1,Zimbabwe,9,T Maruma,DL Vettori,GA Lamb,,0,1,1,,,,312023120
+1,Zimbabwe,9,GA Lamb,DL Vettori,T Maruma,,0,0,0,,,,312023120
+1,Zimbabwe,9,GA Lamb,DL Vettori,T Maruma,,0,0,0,,,,312023120
+1,Zimbabwe,9,GA Lamb,DL Vettori,T Maruma,,0,1,1,,,,312023120
+1,Zimbabwe,10,GA Lamb,NL McCullum,T Maruma,,0,1,1,,,,312023120
+1,Zimbabwe,10,T Maruma,NL McCullum,GA Lamb,,0,0,0,,,,312023120
+1,Zimbabwe,10,T Maruma,NL McCullum,GA Lamb,,0,0,0,,,,312023120
+1,Zimbabwe,10,T Maruma,NL McCullum,GA Lamb,,0,0,0,,,,312023120
+1,Zimbabwe,10,T Maruma,NL McCullum,GA Lamb,,0,1,1,,,,312023120
+1,Zimbabwe,10,GA Lamb,NL McCullum,T Maruma,,0,0,0,,,,312023120
+1,Zimbabwe,11,T Maruma,DL Vettori,GA Lamb,,0,1,1,,,,312023120
+1,Zimbabwe,11,GA Lamb,DL Vettori,T Maruma,,0,1,1,,,,312023120
+1,Zimbabwe,11,T Maruma,DL Vettori,GA Lamb,,0,1,1,,,,312023120
+1,Zimbabwe,11,GA Lamb,DL Vettori,T Maruma,,0,1,1,,,,312023120
+1,Zimbabwe,11,T Maruma,DL Vettori,GA Lamb,,0,0,0,,,,312023120
+1,Zimbabwe,11,T Maruma,DL Vettori,GA Lamb,,0,0,0,,,,312023120
+1,Zimbabwe,12,GA Lamb,SB Styris,T Maruma,,0,0,0,,,,312023120
+1,Zimbabwe,12,GA Lamb,SB Styris,T Maruma,,0,1,1,,,,312023120
+1,Zimbabwe,12,T Maruma,SB Styris,GA Lamb,,0,0,0,caught,T Maruma,MJ Guptill,312023120
+1,Zimbabwe,12,GA Lamb,SB Styris,AG Cremer,,0,1,1,,,,312023120
+1,Zimbabwe,12,AG Cremer,SB Styris,GA Lamb,,0,0,0,bowled,AG Cremer,,312023120
+1,Zimbabwe,12,P Utseya,SB Styris,GA Lamb,,0,0,0,lbw,P Utseya,,312023120
+1,Zimbabwe,13,GA Lamb,SE Bond,RW Price,,0,0,0,,,,312023120
+1,Zimbabwe,13,GA Lamb,SE Bond,RW Price,wides,1,1,0,,,,312023120
+1,Zimbabwe,13,GA Lamb,SE Bond,RW Price,,0,0,0,,,,312023120
+1,Zimbabwe,13,GA Lamb,SE Bond,RW Price,,0,2,2,,,,312023120
+1,Zimbabwe,13,GA Lamb,SE Bond,RW Price,,0,1,1,,,,312023120
+1,Zimbabwe,13,RW Price,SE Bond,GA Lamb,,0,1,1,,,,312023120
+1,Zimbabwe,13,GA Lamb,SE Bond,RW Price,,0,1,1,,,,312023120
+1,Zimbabwe,14,GA Lamb,SB Styris,RW Price,,0,0,0,,,,312023120
+1,Zimbabwe,14,GA Lamb,SB Styris,RW Price,,0,0,0,,,,312023120
+1,Zimbabwe,14,GA Lamb,SB Styris,RW Price,,0,1,1,,,,312023120
+1,Zimbabwe,14,RW Price,SB Styris,GA Lamb,,0,1,1,,,,312023120
+1,Zimbabwe,14,GA Lamb,SB Styris,RW Price,,0,1,1,,,,312023120
+1,Zimbabwe,14,RW Price,SB Styris,GA Lamb,byes,1,1,0,,,,312023120
+1,Zimbabwe,15,RW Price,DL Vettori,GA Lamb,,0,0,0,bowled,RW Price,,312023120

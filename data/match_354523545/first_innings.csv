@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,England,0,JJ Roy,Anwar Ali,AD Hales,,0,0,0,,,,354523545
+1,England,0,JJ Roy,Anwar Ali,AD Hales,,0,3,3,,,,354523545
+1,England,0,AD Hales,Anwar Ali,JJ Roy,,0,0,0,,,,354523545
+1,England,0,AD Hales,Anwar Ali,JJ Roy,,0,0,0,,,,354523545
+1,England,0,AD Hales,Anwar Ali,JJ Roy,,0,1,1,,,,354523545
+1,England,0,JJ Roy,Anwar Ali,AD Hales,,0,1,1,,,,354523545
+1,England,1,JJ Roy,Sohail Tanvir,AD Hales,wides,1,1,0,,,,354523545
+1,England,1,JJ Roy,Sohail Tanvir,AD Hales,,0,1,1,,,,354523545
+1,England,1,AD Hales,Sohail Tanvir,JJ Roy,,0,0,0,,,,354523545
+1,England,1,AD Hales,Sohail Tanvir,JJ Roy,,0,4,4,,,,354523545
+1,England,1,AD Hales,Sohail Tanvir,JJ Roy,,0,1,1,,,,354523545
+1,England,1,JJ Roy,Sohail Tanvir,AD Hales,,0,4,4,,,,354523545
+1,England,1,JJ Roy,Sohail Tanvir,AD Hales,,0,0,0,caught,JJ Roy,Imran Khan (1),354523545
+1,England,2,AD Hales,Anwar Ali,JM Vince,,0,0,0,,,,354523545
+1,England,2,AD Hales,Anwar Ali,JM Vince,,0,2,2,,,,354523545
+1,England,2,AD Hales,Anwar Ali,JM Vince,,0,0,0,caught,AD Hales,Shahid Afridi,354523545
+1,England,2,MM Ali,Anwar Ali,JM Vince,,0,0,0,,,,354523545
+1,England,2,MM Ali,Anwar Ali,JM Vince,,0,0,0,,,,354523545
+1,England,2,MM Ali,Anwar Ali,JM Vince,,0,0,0,,,,354523545
+1,England,3,JM Vince,Sohail Tanvir,MM Ali,,0,0,0,,,,354523545
+1,England,3,JM Vince,Sohail Tanvir,MM Ali,legbyes,1,1,0,,,,354523545
+1,England,3,MM Ali,Sohail Tanvir,JM Vince,,0,0,0,,,,354523545
+1,England,3,MM Ali,Sohail Tanvir,JM Vince,,0,0,0,,,,354523545
+1,England,3,MM Ali,Sohail Tanvir,JM Vince,,0,0,0,caught,MM Ali,Umar Akmal,354523545
+1,England,3,EJG Morgan,Sohail Tanvir,JM Vince,,0,0,0,,,,354523545
+1,England,4,JM Vince,Anwar Ali,EJG Morgan,,0,0,0,,,,354523545
+1,England,4,JM Vince,Anwar Ali,EJG Morgan,,0,0,0,,,,354523545
+1,England,4,JM Vince,Anwar Ali,EJG Morgan,,0,1,1,,,,354523545
+1,England,4,EJG Morgan,Anwar Ali,JM Vince,,0,1,1,,,,354523545
+1,England,4,JM Vince,Anwar Ali,EJG Morgan,,0,0,0,,,,354523545
+1,England,4,JM Vince,Anwar Ali,EJG Morgan,,0,4,4,,,,354523545
+1,England,5,EJG Morgan,Wahab Riaz,JM Vince,,0,4,4,,,,354523545
+1,England,5,EJG Morgan,Wahab Riaz,JM Vince,,0,1,1,,,,354523545
+1,England,5,JM Vince,Wahab Riaz,EJG Morgan,,0,4,4,,,,354523545
+1,England,5,JM Vince,Wahab Riaz,EJG Morgan,,0,1,1,,,,354523545
+1,England,5,EJG Morgan,Wahab Riaz,JM Vince,,0,1,1,,,,354523545
+1,England,5,JM Vince,Wahab Riaz,EJG Morgan,,0,4,4,,,,354523545
+1,England,6,EJG Morgan,Shahid Afridi,JM Vince,,0,0,0,,,,354523545
+1,England,6,EJG Morgan,Shahid Afridi,JM Vince,,0,1,1,,,,354523545
+1,England,6,JM Vince,Shahid Afridi,EJG Morgan,,0,0,0,,,,354523545
+1,England,6,JM Vince,Shahid Afridi,EJG Morgan,,0,0,0,,,,354523545
+1,England,6,JM Vince,Shahid Afridi,EJG Morgan,,0,1,1,,,,354523545
+1,England,6,EJG Morgan,Shahid Afridi,JM Vince,,0,1,1,,,,354523545
+1,England,7,EJG Morgan,Imran Khan (1),JM Vince,,0,1,1,,,,354523545
+1,England,7,JM Vince,Imran Khan (1),EJG Morgan,,0,0,0,,,,354523545
+1,England,7,JM Vince,Imran Khan (1),EJG Morgan,,0,0,0,,,,354523545
+1,England,7,JM Vince,Imran Khan (1),EJG Morgan,,0,1,1,,,,354523545
+1,England,7,EJG Morgan,Imran Khan (1),JM Vince,,0,4,4,,,,354523545
+1,England,7,EJG Morgan,Imran Khan (1),JM Vince,,0,0,0,,,,354523545
+1,England,8,JM Vince,Shahid Afridi,EJG Morgan,,0,0,0,,,,354523545
+1,England,8,JM Vince,Shahid Afridi,EJG Morgan,,0,4,4,,,,354523545
+1,England,8,JM Vince,Shahid Afridi,EJG Morgan,,0,1,1,,,,354523545
+1,England,8,EJG Morgan,Shahid Afridi,JM Vince,,0,0,0,,,,354523545
+1,England,8,EJG Morgan,Shahid Afridi,JM Vince,,0,0,0,,,,354523545
+1,England,8,EJG Morgan,Shahid Afridi,JM Vince,,0,2,2,,,,354523545
+1,England,9,JM Vince,Imran Khan (1),EJG Morgan,,0,6,6,,,,354523545
+1,England,9,JM Vince,Imran Khan (1),EJG Morgan,,0,1,1,,,,354523545
+1,England,9,EJG Morgan,Imran Khan (1),JM Vince,,0,1,1,,,,354523545
+1,England,9,JM Vince,Imran Khan (1),EJG Morgan,wides,1,1,0,,,,354523545
+1,England,9,JM Vince,Imran Khan (1),EJG Morgan,,0,0,0,,,,354523545
+1,England,9,JM Vince,Imran Khan (1),EJG Morgan,,0,1,1,,,,354523545
+1,England,9,EJG Morgan,Imran Khan (1),JM Vince,,0,1,1,,,,354523545
+1,England,10,EJG Morgan,Shahid Afridi,JM Vince,,0,4,4,,,,354523545
+1,England,10,EJG Morgan,Shahid Afridi,JM Vince,,0,1,1,,,,354523545
+1,England,10,JM Vince,Shahid Afridi,EJG Morgan,,0,0,0,,,,354523545
+1,England,10,JM Vince,Shahid Afridi,EJG Morgan,,0,0,0,,,,354523545
+1,England,10,JM Vince,Shahid Afridi,EJG Morgan,,0,4,4,,,,354523545
+1,England,10,JM Vince,Shahid Afridi,EJG Morgan,,0,1,1,,,,354523545
+1,England,11,JM Vince,Wahab Riaz,EJG Morgan,,0,1,1,,,,354523545
+1,England,11,EJG Morgan,Wahab Riaz,JM Vince,,0,1,1,,,,354523545
+1,England,11,JM Vince,Wahab Riaz,EJG Morgan,,0,0,0,,,,354523545
+1,England,11,JM Vince,Wahab Riaz,EJG Morgan,,0,0,0,,,,354523545
+1,England,11,JM Vince,Wahab Riaz,EJG Morgan,,0,0,0,,,,354523545
+1,England,11,JM Vince,Wahab Riaz,EJG Morgan,,0,1,1,,,,354523545
+1,England,12,JM Vince,Shahid Afridi,EJG Morgan,legbyes,1,1,0,,,,354523545
+1,England,12,EJG Morgan,Shahid Afridi,JM Vince,,0,6,6,,,,354523545
+1,England,12,EJG Morgan,Shahid Afridi,JM Vince,,0,1,1,,,,354523545
+1,England,12,JM Vince,Shahid Afridi,EJG Morgan,,0,4,4,,,,354523545
+1,England,12,JM Vince,Shahid Afridi,EJG Morgan,,0,1,1,,,,354523545
+1,England,12,EJG Morgan,Shahid Afridi,JM Vince,,0,1,1,,,,354523545
+1,England,13,EJG Morgan,Wahab Riaz,JM Vince,,0,0,0,,,,354523545
+1,England,13,EJG Morgan,Wahab Riaz,JM Vince,,0,0,0,,,,354523545
+1,England,13,EJG Morgan,Wahab Riaz,JM Vince,,0,0,0,,,,354523545
+1,England,13,EJG Morgan,Wahab Riaz,JM Vince,,0,0,0,,,,354523545
+1,England,13,EJG Morgan,Wahab Riaz,JM Vince,,0,1,1,,,,354523545
+1,England,13,JM Vince,Wahab Riaz,EJG Morgan,,0,0,0,bowled,JM Vince,,354523545
+1,England,14,EJG Morgan,Imran Khan (1),SW Billings,,0,1,1,,,,354523545
+1,England,14,SW Billings,Imran Khan (1),EJG Morgan,,0,1,1,,,,354523545
+1,England,14,EJG Morgan,Imran Khan (1),SW Billings,,0,1,1,,,,354523545
+1,England,14,SW Billings,Imran Khan (1),EJG Morgan,,0,1,1,,,,354523545
+1,England,14,EJG Morgan,Imran Khan (1),SW Billings,,0,1,1,,,,354523545
+1,England,14,SW Billings,Imran Khan (1),EJG Morgan,,0,1,1,,,,354523545
+1,England,15,SW Billings,Sohail Tanvir,EJG Morgan,,0,0,0,,,,354523545
+1,England,15,SW Billings,Sohail Tanvir,EJG Morgan,,0,2,2,,,,354523545
+1,England,15,SW Billings,Sohail Tanvir,EJG Morgan,,0,4,4,,,,354523545
+1,England,15,SW Billings,Sohail Tanvir,EJG Morgan,,0,1,1,,,,354523545
+1,England,15,EJG Morgan,Sohail Tanvir,SW Billings,,0,1,1,,,,354523545
+1,England,15,SW Billings,Sohail Tanvir,EJG Morgan,,0,4,4,,,,354523545
+1,England,16,EJG Morgan,Anwar Ali,SW Billings,,0,1,1,,,,354523545
+1,England,16,SW Billings,Anwar Ali,EJG Morgan,,0,0,0,,,,354523545
+1,England,16,SW Billings,Anwar Ali,EJG Morgan,,0,2,2,,,,354523545
+1,England,16,SW Billings,Anwar Ali,EJG Morgan,,0,1,1,,,,354523545
+1,England,16,EJG Morgan,Anwar Ali,SW Billings,,0,1,1,,,,354523545
+1,England,16,SW Billings,Anwar Ali,EJG Morgan,,0,1,1,,,,354523545
+1,England,17,SW Billings,Imran Khan (1),EJG Morgan,,0,4,4,,,,354523545
+1,England,17,SW Billings,Imran Khan (1),EJG Morgan,,0,4,4,,,,354523545
+1,England,17,SW Billings,Imran Khan (1),EJG Morgan,,0,6,6,,,,354523545
+1,England,17,SW Billings,Imran Khan (1),EJG Morgan,,0,2,2,,,,354523545
+1,England,17,SW Billings,Imran Khan (1),EJG Morgan,,0,1,1,,,,354523545
+1,England,17,EJG Morgan,Imran Khan (1),SW Billings,,0,2,2,,,,354523545
+1,England,18,SW Billings,Wahab Riaz,EJG Morgan,,0,4,4,,,,354523545
+1,England,18,SW Billings,Wahab Riaz,EJG Morgan,,0,6,6,,,,354523545
+1,England,18,SW Billings,Wahab Riaz,EJG Morgan,,0,0,0,,,,354523545
+1,England,18,SW Billings,Wahab Riaz,EJG Morgan,,0,0,0,,,,354523545
+1,England,18,SW Billings,Wahab Riaz,EJG Morgan,,0,2,2,,,,354523545
+1,England,18,SW Billings,Wahab Riaz,EJG Morgan,,0,2,2,,,,354523545
+1,England,19,EJG Morgan,Sohail Tanvir,SW Billings,,0,1,1,,,,354523545
+1,England,19,SW Billings,Sohail Tanvir,EJG Morgan,,0,1,1,,,,354523545
+1,England,19,EJG Morgan,Sohail Tanvir,SW Billings,,0,1,1,,,,354523545
+1,England,19,SW Billings,Sohail Tanvir,EJG Morgan,,0,3,3,,,,354523545
+1,England,19,EJG Morgan,Sohail Tanvir,SW Billings,,0,2,2,,,,354523545
+1,England,19,EJG Morgan,Sohail Tanvir,SW Billings,,0,0,0,run out,SW Billings,Sarfraz Ahmed,354523545

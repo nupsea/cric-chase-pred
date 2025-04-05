@@ -1,0 +1,128 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Gibraltar,0,BA Pai,Murid Ekrami,L Bruce,,0,1,1,,,,32106232106
+1,Gibraltar,0,L Bruce,Murid Ekrami,BA Pai,,0,0,0,,,,32106232106
+1,Gibraltar,0,L Bruce,Murid Ekrami,BA Pai,,0,1,1,,,,32106232106
+1,Gibraltar,0,BA Pai,Murid Ekrami,L Bruce,,0,1,1,,,,32106232106
+1,Gibraltar,0,L Bruce,Murid Ekrami,BA Pai,,0,1,1,,,,32106232106
+1,Gibraltar,0,BA Pai,Murid Ekrami,L Bruce,,0,1,1,,,,32106232106
+1,Gibraltar,1,BA Pai,Muhammad Fahim,L Bruce,,0,0,0,,,,32106232106
+1,Gibraltar,1,BA Pai,Muhammad Fahim,L Bruce,,0,1,1,,,,32106232106
+1,Gibraltar,1,L Bruce,Muhammad Fahim,BA Pai,,0,0,0,,,,32106232106
+1,Gibraltar,1,L Bruce,Muhammad Fahim,BA Pai,,0,0,0,,,,32106232106
+1,Gibraltar,1,L Bruce,Muhammad Fahim,BA Pai,,0,0,0,,,,32106232106
+1,Gibraltar,1,L Bruce,Muhammad Fahim,BA Pai,,0,0,0,,,,32106232106
+1,Gibraltar,2,BA Pai,Murid Ekrami,L Bruce,,0,1,1,,,,32106232106
+1,Gibraltar,2,L Bruce,Murid Ekrami,BA Pai,,0,0,0,caught,L Bruce,Shaheryar Butt,32106232106
+1,Gibraltar,2,PA Raikes,Murid Ekrami,BA Pai,,0,0,0,,,,32106232106
+1,Gibraltar,2,PA Raikes,Murid Ekrami,BA Pai,,0,0,0,,,,32106232106
+1,Gibraltar,2,PA Raikes,Murid Ekrami,BA Pai,,0,0,0,,,,32106232106
+1,Gibraltar,2,PA Raikes,Murid Ekrami,BA Pai,,0,0,0,,,,32106232106
+1,Gibraltar,3,BA Pai,Muhammad Fahim,PA Raikes,,0,0,0,,,,32106232106
+1,Gibraltar,3,BA Pai,Muhammad Fahim,PA Raikes,,0,1,1,,,,32106232106
+1,Gibraltar,3,PA Raikes,Muhammad Fahim,BA Pai,,0,2,2,,,,32106232106
+1,Gibraltar,3,PA Raikes,Muhammad Fahim,BA Pai,,0,0,0,,,,32106232106
+1,Gibraltar,3,PA Raikes,Muhammad Fahim,BA Pai,,0,0,0,,,,32106232106
+1,Gibraltar,3,PA Raikes,Muhammad Fahim,BA Pai,,0,0,0,,,,32106232106
+1,Gibraltar,4,BA Pai,Murid Ekrami,PA Raikes,,0,1,1,,,,32106232106
+1,Gibraltar,4,PA Raikes,Murid Ekrami,BA Pai,,0,0,0,,,,32106232106
+1,Gibraltar,4,PA Raikes,Murid Ekrami,BA Pai,,0,4,4,,,,32106232106
+1,Gibraltar,4,PA Raikes,Murid Ekrami,BA Pai,,0,1,1,,,,32106232106
+1,Gibraltar,4,BA Pai,Murid Ekrami,PA Raikes,,0,0,0,,,,32106232106
+1,Gibraltar,4,BA Pai,Murid Ekrami,PA Raikes,,0,1,1,,,,32106232106
+1,Gibraltar,5,BA Pai,Muhammad Fahim,PA Raikes,,0,1,1,,,,32106232106
+1,Gibraltar,5,PA Raikes,Muhammad Fahim,BA Pai,,0,0,0,,,,32106232106
+1,Gibraltar,5,PA Raikes,Muhammad Fahim,BA Pai,,0,0,0,,,,32106232106
+1,Gibraltar,5,PA Raikes,Muhammad Fahim,BA Pai,,0,0,0,caught,PA Raikes,Saber Zakhil,32106232106
+1,Gibraltar,5,KJ Stagno,Muhammad Fahim,BA Pai,,0,0,0,,,,32106232106
+1,Gibraltar,5,KJ Stagno,Muhammad Fahim,BA Pai,,0,0,0,,,,32106232106
+1,Gibraltar,6,BA Pai,Ahmad Khalid Ahmadzai,KJ Stagno,,0,4,4,,,,32106232106
+1,Gibraltar,6,BA Pai,Ahmad Khalid Ahmadzai,KJ Stagno,,0,1,1,,,,32106232106
+1,Gibraltar,6,KJ Stagno,Ahmad Khalid Ahmadzai,BA Pai,,0,1,1,,,,32106232106
+1,Gibraltar,6,BA Pai,Ahmad Khalid Ahmadzai,KJ Stagno,,0,0,0,,,,32106232106
+1,Gibraltar,6,BA Pai,Ahmad Khalid Ahmadzai,KJ Stagno,wides,1,1,0,,,,32106232106
+1,Gibraltar,6,BA Pai,Ahmad Khalid Ahmadzai,KJ Stagno,,0,0,0,,,,32106232106
+1,Gibraltar,6,BA Pai,Ahmad Khalid Ahmadzai,KJ Stagno,wides,1,1,0,,,,32106232106
+1,Gibraltar,6,BA Pai,Ahmad Khalid Ahmadzai,KJ Stagno,,0,1,1,,,,32106232106
+1,Gibraltar,7,BA Pai,Shagharai Sefat,KJ Stagno,wides,1,1,0,,,,32106232106
+1,Gibraltar,7,BA Pai,Shagharai Sefat,KJ Stagno,,0,1,1,,,,32106232106
+1,Gibraltar,7,KJ Stagno,Shagharai Sefat,BA Pai,,0,0,0,caught,KJ Stagno,A Raza,32106232106
+1,Gibraltar,7,IDM Latin,Shagharai Sefat,BA Pai,wides,1,1,0,,,,32106232106
+1,Gibraltar,7,IDM Latin,Shagharai Sefat,BA Pai,,0,1,1,,,,32106232106
+1,Gibraltar,7,BA Pai,Shagharai Sefat,IDM Latin,,0,0,0,,,,32106232106
+1,Gibraltar,7,BA Pai,Shagharai Sefat,IDM Latin,,0,4,4,,,,32106232106
+1,Gibraltar,7,BA Pai,Shagharai Sefat,IDM Latin,,0,0,0,,,,32106232106
+1,Gibraltar,8,IDM Latin,Ahmad Khalid Ahmadzai,BA Pai,,0,1,1,,,,32106232106
+1,Gibraltar,8,BA Pai,Ahmad Khalid Ahmadzai,IDM Latin,,0,0,0,,,,32106232106
+1,Gibraltar,8,BA Pai,Ahmad Khalid Ahmadzai,IDM Latin,wides,1,1,0,,,,32106232106
+1,Gibraltar,8,BA Pai,Ahmad Khalid Ahmadzai,IDM Latin,,0,6,6,,,,32106232106
+1,Gibraltar,8,BA Pai,Ahmad Khalid Ahmadzai,IDM Latin,,0,0,0,,,,32106232106
+1,Gibraltar,8,BA Pai,Ahmad Khalid Ahmadzai,IDM Latin,,0,1,1,,,,32106232106
+1,Gibraltar,8,IDM Latin,Ahmad Khalid Ahmadzai,BA Pai,,0,0,0,,,,32106232106
+1,Gibraltar,9,BA Pai,Shagharai Sefat,IDM Latin,,0,1,1,,,,32106232106
+1,Gibraltar,9,IDM Latin,Shagharai Sefat,BA Pai,,0,0,0,,,,32106232106
+1,Gibraltar,9,IDM Latin,Shagharai Sefat,BA Pai,,0,0,0,,,,32106232106
+1,Gibraltar,9,IDM Latin,Shagharai Sefat,BA Pai,,0,1,1,,,,32106232106
+1,Gibraltar,9,BA Pai,Shagharai Sefat,IDM Latin,,0,1,1,,,,32106232106
+1,Gibraltar,9,IDM Latin,Shagharai Sefat,BA Pai,,0,0,0,,,,32106232106
+1,Gibraltar,10,BA Pai,Aziz Mohammad,IDM Latin,,0,1,1,,,,32106232106
+1,Gibraltar,10,IDM Latin,Aziz Mohammad,BA Pai,,0,2,2,,,,32106232106
+1,Gibraltar,10,IDM Latin,Aziz Mohammad,BA Pai,,0,1,1,,,,32106232106
+1,Gibraltar,10,BA Pai,Aziz Mohammad,IDM Latin,,0,1,1,,,,32106232106
+1,Gibraltar,10,IDM Latin,Aziz Mohammad,BA Pai,,0,1,1,,,,32106232106
+1,Gibraltar,10,BA Pai,Aziz Mohammad,IDM Latin,,0,1,1,,,,32106232106
+1,Gibraltar,11,BA Pai,Shagharai Sefat,IDM Latin,,0,1,1,,,,32106232106
+1,Gibraltar,11,IDM Latin,Shagharai Sefat,BA Pai,,0,6,6,,,,32106232106
+1,Gibraltar,11,IDM Latin,Shagharai Sefat,BA Pai,,0,0,0,,,,32106232106
+1,Gibraltar,11,IDM Latin,Shagharai Sefat,BA Pai,,0,1,1,,,,32106232106
+1,Gibraltar,11,BA Pai,Shagharai Sefat,IDM Latin,wides,1,1,0,,,,32106232106
+1,Gibraltar,11,BA Pai,Shagharai Sefat,IDM Latin,,0,1,1,,,,32106232106
+1,Gibraltar,11,IDM Latin,Shagharai Sefat,BA Pai,noballs,1,2,1,,,,32106232106
+1,Gibraltar,11,BA Pai,Shagharai Sefat,IDM Latin,,0,1,1,,,,32106232106
+1,Gibraltar,12,BA Pai,Murid Ekrami,IDM Latin,,0,1,1,,,,32106232106
+1,Gibraltar,12,IDM Latin,Murid Ekrami,BA Pai,,0,0,0,,,,32106232106
+1,Gibraltar,12,IDM Latin,Murid Ekrami,BA Pai,,0,1,1,,,,32106232106
+1,Gibraltar,12,BA Pai,Murid Ekrami,IDM Latin,,0,1,1,,,,32106232106
+1,Gibraltar,12,IDM Latin,Murid Ekrami,BA Pai,,0,1,1,,,,32106232106
+1,Gibraltar,12,BA Pai,Murid Ekrami,IDM Latin,,0,1,1,,,,32106232106
+1,Gibraltar,13,BA Pai,Aziz Mohammad,IDM Latin,,0,2,2,,,,32106232106
+1,Gibraltar,13,BA Pai,Aziz Mohammad,IDM Latin,,0,4,4,,,,32106232106
+1,Gibraltar,13,BA Pai,Aziz Mohammad,IDM Latin,,0,1,1,,,,32106232106
+1,Gibraltar,13,IDM Latin,Aziz Mohammad,BA Pai,,0,1,1,,,,32106232106
+1,Gibraltar,13,BA Pai,Aziz Mohammad,IDM Latin,,0,1,1,,,,32106232106
+1,Gibraltar,13,IDM Latin,Aziz Mohammad,BA Pai,,0,6,6,,,,32106232106
+1,Gibraltar,14,BA Pai,Sheraz Sheikh,IDM Latin,,0,1,1,,,,32106232106
+1,Gibraltar,14,IDM Latin,Sheraz Sheikh,BA Pai,,0,6,6,,,,32106232106
+1,Gibraltar,14,IDM Latin,Sheraz Sheikh,BA Pai,,0,1,1,,,,32106232106
+1,Gibraltar,14,BA Pai,Sheraz Sheikh,IDM Latin,,0,1,1,,,,32106232106
+1,Gibraltar,14,IDM Latin,Sheraz Sheikh,BA Pai,,0,1,1,,,,32106232106
+1,Gibraltar,14,BA Pai,Sheraz Sheikh,IDM Latin,,0,1,1,,,,32106232106
+1,Gibraltar,15,BA Pai,Ahmad Khalid Ahmadzai,IDM Latin,,0,1,1,,,,32106232106
+1,Gibraltar,15,IDM Latin,Ahmad Khalid Ahmadzai,BA Pai,,0,0,0,bowled,IDM Latin,,32106232106
+1,Gibraltar,15,M Gouws,Ahmad Khalid Ahmadzai,BA Pai,,0,1,1,,,,32106232106
+1,Gibraltar,15,BA Pai,Ahmad Khalid Ahmadzai,M Gouws,,0,4,4,,,,32106232106
+1,Gibraltar,15,BA Pai,Ahmad Khalid Ahmadzai,M Gouws,,0,4,4,,,,32106232106
+1,Gibraltar,15,BA Pai,Ahmad Khalid Ahmadzai,M Gouws,,0,1,1,,,,32106232106
+1,Gibraltar,16,BA Pai,Aziz Mohammad,M Gouws,,0,1,1,,,,32106232106
+1,Gibraltar,16,M Gouws,Aziz Mohammad,BA Pai,,0,1,1,,,,32106232106
+1,Gibraltar,16,BA Pai,Aziz Mohammad,M Gouws,,0,1,1,,,,32106232106
+1,Gibraltar,16,M Gouws,Aziz Mohammad,BA Pai,,0,1,1,,,,32106232106
+1,Gibraltar,16,BA Pai,Aziz Mohammad,M Gouws,,0,1,1,,,,32106232106
+1,Gibraltar,16,M Gouws,Aziz Mohammad,BA Pai,,0,0,0,,,,32106232106
+1,Gibraltar,17,BA Pai,Shagharai Sefat,M Gouws,,0,1,1,,,,32106232106
+1,Gibraltar,17,M Gouws,Shagharai Sefat,BA Pai,,0,0,0,,,,32106232106
+1,Gibraltar,17,M Gouws,Shagharai Sefat,BA Pai,,0,1,1,,,,32106232106
+1,Gibraltar,17,BA Pai,Shagharai Sefat,M Gouws,,0,4,4,,,,32106232106
+1,Gibraltar,17,BA Pai,Shagharai Sefat,M Gouws,,0,1,1,,,,32106232106
+1,Gibraltar,17,M Gouws,Shagharai Sefat,BA Pai,,0,0,0,bowled,M Gouws,,32106232106
+1,Gibraltar,18,BA Pai,Aziz Mohammad,JD Freyone,,0,1,1,,,,32106232106
+1,Gibraltar,18,JD Freyone,Aziz Mohammad,BA Pai,,0,1,1,,,,32106232106
+1,Gibraltar,18,BA Pai,Aziz Mohammad,JD Freyone,,0,1,1,,,,32106232106
+1,Gibraltar,18,JD Freyone,Aziz Mohammad,BA Pai,,0,6,6,,,,32106232106
+1,Gibraltar,18,JD Freyone,Aziz Mohammad,BA Pai,,0,1,1,,,,32106232106
+1,Gibraltar,18,BA Pai,Aziz Mohammad,JD Freyone,,0,4,4,,,,32106232106
+1,Gibraltar,19,JD Freyone,Ahmad Khalid Ahmadzai,BA Pai,,0,1,1,,,,32106232106
+1,Gibraltar,19,BA Pai,Ahmad Khalid Ahmadzai,JD Freyone,,0,1,1,,,,32106232106
+1,Gibraltar,19,JD Freyone,Ahmad Khalid Ahmadzai,BA Pai,,0,1,1,,,,32106232106
+1,Gibraltar,19,BA Pai,Ahmad Khalid Ahmadzai,JD Freyone,,0,1,1,,,,32106232106
+1,Gibraltar,19,JD Freyone,Ahmad Khalid Ahmadzai,BA Pai,,0,0,0,,,,32106232106
+1,Gibraltar,19,JD Freyone,Ahmad Khalid Ahmadzai,BA Pai,,0,0,0,,,,32106232106

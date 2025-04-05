@@ -1,0 +1,103 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Canada,0,H Patel,MR Swart,R Gunasekera,,0,1,1,,,,326923269
+2,Canada,0,R Gunasekera,MR Swart,H Patel,,0,0,0,,,,326923269
+2,Canada,0,R Gunasekera,MR Swart,H Patel,,0,0,0,,,,326923269
+2,Canada,0,R Gunasekera,MR Swart,H Patel,,0,1,1,,,,326923269
+2,Canada,0,H Patel,MR Swart,R Gunasekera,,0,1,1,,,,326923269
+2,Canada,0,R Gunasekera,MR Swart,H Patel,,0,0,0,,,,326923269
+2,Canada,1,H Patel,T van der Gugten,R Gunasekera,legbyes,1,1,0,,,,326923269
+2,Canada,1,R Gunasekera,T van der Gugten,H Patel,,0,0,0,,,,326923269
+2,Canada,1,R Gunasekera,T van der Gugten,H Patel,,0,0,0,,,,326923269
+2,Canada,1,R Gunasekera,T van der Gugten,H Patel,legbyes,1,1,0,,,,326923269
+2,Canada,1,H Patel,T van der Gugten,R Gunasekera,,0,1,1,,,,326923269
+2,Canada,1,H Patel,T van der Gugten,R Gunasekera,,0,0,0,,,,326923269
+2,Canada,2,R Gunasekera,MR Swart,H Patel,,0,2,2,,,,326923269
+2,Canada,2,R Gunasekera,MR Swart,H Patel,,0,0,0,,,,326923269
+2,Canada,2,R Gunasekera,MR Swart,H Patel,,0,1,1,,,,326923269
+2,Canada,2,H Patel,MR Swart,R Gunasekera,,0,0,0,,,,326923269
+2,Canada,2,H Patel,MR Swart,R Gunasekera,,0,0,0,,,,326923269
+2,Canada,2,H Patel,MR Swart,R Gunasekera,,0,1,1,,,,326923269
+2,Canada,3,H Patel,T van der Gugten,R Gunasekera,,0,0,0,,,,326923269
+2,Canada,3,H Patel,T van der Gugten,R Gunasekera,,0,2,2,,,,326923269
+2,Canada,3,R Gunasekera,T van der Gugten,H Patel,,0,4,4,,,,326923269
+2,Canada,3,R Gunasekera,T van der Gugten,H Patel,,0,1,1,,,,326923269
+2,Canada,3,H Patel,T van der Gugten,R Gunasekera,byes,1,1,0,,,,326923269
+2,Canada,3,R Gunasekera,T van der Gugten,H Patel,,0,0,0,bowled,R Gunasekera,,326923269
+2,Canada,4,H Patel,MR Swart,Raza-ur-Rehman,,0,2,2,,,,326923269
+2,Canada,4,H Patel,MR Swart,Raza-ur-Rehman,,0,1,1,,,,326923269
+2,Canada,4,Raza-ur-Rehman,MR Swart,H Patel,,0,0,0,,,,326923269
+2,Canada,4,Raza-ur-Rehman,MR Swart,H Patel,,0,0,0,,,,326923269
+2,Canada,4,Raza-ur-Rehman,MR Swart,H Patel,,0,1,1,,,,326923269
+2,Canada,4,H Patel,MR Swart,Raza-ur-Rehman,,0,0,0,,,,326923269
+2,Canada,5,Raza-ur-Rehman,Mudassar Bukhari,H Patel,,0,0,0,bowled,Raza-ur-Rehman,,326923269
+2,Canada,5,Rizwan Cheema,Mudassar Bukhari,H Patel,,0,0,0,,,,326923269
+2,Canada,5,Rizwan Cheema,Mudassar Bukhari,H Patel,,0,0,0,lbw,Rizwan Cheema,,326923269
+2,Canada,5,NR Kumar,Mudassar Bukhari,H Patel,,0,1,1,,,,326923269
+2,Canada,5,H Patel,Mudassar Bukhari,NR Kumar,,0,1,1,,,,326923269
+2,Canada,5,NR Kumar,Mudassar Bukhari,H Patel,,0,0,0,,,,326923269
+2,Canada,6,H Patel,PW Borren,NR Kumar,,0,1,1,,,,326923269
+2,Canada,6,NR Kumar,PW Borren,H Patel,,0,0,0,,,,326923269
+2,Canada,6,NR Kumar,PW Borren,H Patel,,0,0,0,run out,NR Kumar,SJ Myburgh,326923269
+2,Canada,6,AS Hansra,PW Borren,H Patel,,0,0,0,,,,326923269
+2,Canada,6,AS Hansra,PW Borren,H Patel,,0,1,1,,,,326923269
+2,Canada,6,H Patel,PW Borren,AS Hansra,,0,0,0,bowled,H Patel,,326923269
+2,Canada,7,AS Hansra,Mudassar Bukhari,HS Baidwan,,0,0,0,,,,326923269
+2,Canada,7,AS Hansra,Mudassar Bukhari,HS Baidwan,,0,0,0,,,,326923269
+2,Canada,7,AS Hansra,Mudassar Bukhari,HS Baidwan,wides,1,1,0,,,,326923269
+2,Canada,7,AS Hansra,Mudassar Bukhari,HS Baidwan,,0,0,0,,,,326923269
+2,Canada,7,AS Hansra,Mudassar Bukhari,HS Baidwan,,0,0,0,,,,326923269
+2,Canada,7,AS Hansra,Mudassar Bukhari,HS Baidwan,,0,0,0,,,,326923269
+2,Canada,7,AS Hansra,Mudassar Bukhari,HS Baidwan,,0,4,4,,,,326923269
+2,Canada,8,HS Baidwan,PW Borren,AS Hansra,,0,1,1,,,,326923269
+2,Canada,8,AS Hansra,PW Borren,HS Baidwan,,0,0,0,,,,326923269
+2,Canada,8,AS Hansra,PW Borren,HS Baidwan,,0,0,0,,,,326923269
+2,Canada,8,AS Hansra,PW Borren,HS Baidwan,,0,1,1,,,,326923269
+2,Canada,8,HS Baidwan,PW Borren,AS Hansra,,0,1,1,,,,326923269
+2,Canada,8,AS Hansra,PW Borren,HS Baidwan,,0,0,0,,,,326923269
+2,Canada,9,HS Baidwan,Mudassar Bukhari,AS Hansra,,0,1,1,,,,326923269
+2,Canada,9,AS Hansra,Mudassar Bukhari,HS Baidwan,,0,2,2,,,,326923269
+2,Canada,9,AS Hansra,Mudassar Bukhari,HS Baidwan,,0,6,6,,,,326923269
+2,Canada,9,AS Hansra,Mudassar Bukhari,HS Baidwan,,0,0,0,,,,326923269
+2,Canada,9,AS Hansra,Mudassar Bukhari,HS Baidwan,,0,0,0,,,,326923269
+2,Canada,9,AS Hansra,Mudassar Bukhari,HS Baidwan,,0,6,6,,,,326923269
+2,Canada,10,HS Baidwan,PW Borren,AS Hansra,,0,3,3,,,,326923269
+2,Canada,10,AS Hansra,PW Borren,HS Baidwan,,0,1,1,,,,326923269
+2,Canada,10,HS Baidwan,PW Borren,AS Hansra,,0,1,1,,,,326923269
+2,Canada,10,AS Hansra,PW Borren,HS Baidwan,,0,1,1,,,,326923269
+2,Canada,10,HS Baidwan,PW Borren,AS Hansra,,0,1,1,,,,326923269
+2,Canada,10,AS Hansra,PW Borren,HS Baidwan,,0,2,2,,,,326923269
+2,Canada,11,HS Baidwan,PM Seelaar,AS Hansra,,0,1,1,,,,326923269
+2,Canada,11,AS Hansra,PM Seelaar,HS Baidwan,,0,1,1,,,,326923269
+2,Canada,11,HS Baidwan,PM Seelaar,AS Hansra,,0,1,1,,,,326923269
+2,Canada,11,AS Hansra,PM Seelaar,HS Baidwan,,0,0,0,,,,326923269
+2,Canada,11,AS Hansra,PM Seelaar,HS Baidwan,,0,1,1,,,,326923269
+2,Canada,11,HS Baidwan,PM Seelaar,AS Hansra,,0,4,4,,,,326923269
+2,Canada,12,AS Hansra,Ahsan Malik,HS Baidwan,,0,1,1,,,,326923269
+2,Canada,12,HS Baidwan,Ahsan Malik,AS Hansra,,0,4,4,,,,326923269
+2,Canada,12,HS Baidwan,Ahsan Malik,AS Hansra,,0,0,0,,,,326923269
+2,Canada,12,HS Baidwan,Ahsan Malik,AS Hansra,,0,2,2,,,,326923269
+2,Canada,12,HS Baidwan,Ahsan Malik,AS Hansra,,0,1,1,,,,326923269
+2,Canada,12,AS Hansra,Ahsan Malik,HS Baidwan,,0,0,0,,,,326923269
+2,Canada,13,HS Baidwan,PM Seelaar,AS Hansra,,0,0,0,bowled,HS Baidwan,,326923269
+2,Canada,13,RA Bhatti,PM Seelaar,AS Hansra,,0,1,1,,,,326923269
+2,Canada,13,AS Hansra,PM Seelaar,RA Bhatti,,0,2,2,,,,326923269
+2,Canada,13,AS Hansra,PM Seelaar,RA Bhatti,,0,0,0,,,,326923269
+2,Canada,13,AS Hansra,PM Seelaar,RA Bhatti,,0,1,1,,,,326923269
+2,Canada,13,RA Bhatti,PM Seelaar,AS Hansra,,0,1,1,,,,326923269
+2,Canada,14,RA Bhatti,Ahsan Malik,AS Hansra,,0,1,1,,,,326923269
+2,Canada,14,AS Hansra,Ahsan Malik,RA Bhatti,,0,0,0,,,,326923269
+2,Canada,14,AS Hansra,Ahsan Malik,RA Bhatti,legbyes,1,1,0,,,,326923269
+2,Canada,14,RA Bhatti,Ahsan Malik,AS Hansra,,0,1,1,,,,326923269
+2,Canada,14,AS Hansra,Ahsan Malik,RA Bhatti,,0,0,0,caught,AS Hansra,PW Borren,326923269
+2,Canada,14,RA Bhatti,Ahsan Malik,Junaid Siddiqui,,0,1,1,,,,326923269
+2,Canada,15,RA Bhatti,PM Seelaar,Junaid Siddiqui,,0,1,1,,,,326923269
+2,Canada,15,Junaid Siddiqui,PM Seelaar,RA Bhatti,,0,0,0,,,,326923269
+2,Canada,15,Junaid Siddiqui,PM Seelaar,RA Bhatti,,0,1,1,,,,326923269
+2,Canada,15,RA Bhatti,PM Seelaar,Junaid Siddiqui,,0,0,0,caught and bowled,RA Bhatti,,326923269
+2,Canada,15,H Osinde,PM Seelaar,Junaid Siddiqui,,0,1,1,,,,326923269
+2,Canada,15,Junaid Siddiqui,PM Seelaar,H Osinde,,0,0,0,lbw,Junaid Siddiqui,,326923269
+2,Canada,16,H Osinde,Ahsan Malik,Zahid Hussain,wides,5,5,0,,,,326923269
+2,Canada,16,H Osinde,Ahsan Malik,Zahid Hussain,,0,1,1,,,,326923269
+2,Canada,16,Zahid Hussain,Ahsan Malik,H Osinde,,0,1,1,,,,326923269
+2,Canada,16,H Osinde,Ahsan Malik,Zahid Hussain,,0,0,0,,,,326923269
+2,Canada,16,H Osinde,Ahsan Malik,Zahid Hussain,,0,0,0,caught,H Osinde,TLW Cooper,326923269

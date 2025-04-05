@@ -1,0 +1,129 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Bangladesh,0,Anamul Haque,AJ Hosein,Liton Das,,0,2,2,,,,32044232044
+2,Bangladesh,0,Anamul Haque,AJ Hosein,Liton Das,,0,1,1,,,,32044232044
+2,Bangladesh,0,Liton Das,AJ Hosein,Anamul Haque,,0,4,4,,,,32044232044
+2,Bangladesh,0,Liton Das,AJ Hosein,Anamul Haque,,0,0,0,,,,32044232044
+2,Bangladesh,0,Liton Das,AJ Hosein,Anamul Haque,,0,1,1,,,,32044232044
+2,Bangladesh,0,Anamul Haque,AJ Hosein,Liton Das,,0,0,0,,,,32044232044
+2,Bangladesh,1,Liton Das,OC McCoy,Anamul Haque,,0,0,0,caught,Liton Das,SSJ Brooks,32044232044
+2,Bangladesh,1,Anamul Haque,OC McCoy,Shakib Al Hasan,,0,0,0,bowled,Anamul Haque,,32044232044
+2,Bangladesh,1,Mahmudullah,OC McCoy,Shakib Al Hasan,,0,0,0,,,,32044232044
+2,Bangladesh,1,Mahmudullah,OC McCoy,Shakib Al Hasan,,0,1,1,,,,32044232044
+2,Bangladesh,1,Shakib Al Hasan,OC McCoy,Mahmudullah,,0,0,0,,,,32044232044
+2,Bangladesh,1,Shakib Al Hasan,OC McCoy,Mahmudullah,,0,1,1,,,,32044232044
+2,Bangladesh,2,Shakib Al Hasan,OF Smith,Mahmudullah,legbyes,1,1,0,,,,32044232044
+2,Bangladesh,2,Mahmudullah,OF Smith,Shakib Al Hasan,,0,0,0,,,,32044232044
+2,Bangladesh,2,Mahmudullah,OF Smith,Shakib Al Hasan,wides,1,1,0,,,,32044232044
+2,Bangladesh,2,Mahmudullah,OF Smith,Shakib Al Hasan,,0,6,6,,,,32044232044
+2,Bangladesh,2,Mahmudullah,OF Smith,Shakib Al Hasan,,0,4,4,,,,32044232044
+2,Bangladesh,2,Mahmudullah,OF Smith,Shakib Al Hasan,wides,1,1,0,,,,32044232044
+2,Bangladesh,2,Mahmudullah,OF Smith,Shakib Al Hasan,,0,0,0,,,,32044232044
+2,Bangladesh,2,Mahmudullah,OF Smith,Shakib Al Hasan,,0,0,0,caught,Mahmudullah,OC McCoy,32044232044
+2,Bangladesh,3,Shakib Al Hasan,OC McCoy,Afif Hossain,,0,0,0,,,,32044232044
+2,Bangladesh,3,Shakib Al Hasan,OC McCoy,Afif Hossain,,0,4,4,,,,32044232044
+2,Bangladesh,3,Shakib Al Hasan,OC McCoy,Afif Hossain,,0,0,0,,,,32044232044
+2,Bangladesh,3,Shakib Al Hasan,OC McCoy,Afif Hossain,,0,0,0,,,,32044232044
+2,Bangladesh,3,Shakib Al Hasan,OC McCoy,Afif Hossain,,0,0,0,,,,32044232044
+2,Bangladesh,3,Shakib Al Hasan,OC McCoy,Afif Hossain,,0,1,1,,,,32044232044
+2,Bangladesh,4,Shakib Al Hasan,OF Smith,Afif Hossain,,0,0,0,,,,32044232044
+2,Bangladesh,4,Shakib Al Hasan,OF Smith,Afif Hossain,,0,4,4,,,,32044232044
+2,Bangladesh,4,Shakib Al Hasan,OF Smith,Afif Hossain,,0,1,1,,,,32044232044
+2,Bangladesh,4,Afif Hossain,OF Smith,Shakib Al Hasan,,0,0,0,,,,32044232044
+2,Bangladesh,4,Afif Hossain,OF Smith,Shakib Al Hasan,,0,0,0,,,,32044232044
+2,Bangladesh,4,Afif Hossain,OF Smith,Shakib Al Hasan,,0,1,1,,,,32044232044
+2,Bangladesh,5,Afif Hossain,R Shepherd,Shakib Al Hasan,,0,0,0,,,,32044232044
+2,Bangladesh,5,Afif Hossain,R Shepherd,Shakib Al Hasan,,0,0,0,,,,32044232044
+2,Bangladesh,5,Afif Hossain,R Shepherd,Shakib Al Hasan,,0,0,0,,,,32044232044
+2,Bangladesh,5,Afif Hossain,R Shepherd,Shakib Al Hasan,,0,2,2,,,,32044232044
+2,Bangladesh,5,Afif Hossain,R Shepherd,Shakib Al Hasan,,0,4,4,,,,32044232044
+2,Bangladesh,5,Afif Hossain,R Shepherd,Shakib Al Hasan,,0,4,4,,,,32044232044
+2,Bangladesh,6,Shakib Al Hasan,KMA Paul,Afif Hossain,,0,0,0,,,,32044232044
+2,Bangladesh,6,Shakib Al Hasan,KMA Paul,Afif Hossain,wides,1,1,0,,,,32044232044
+2,Bangladesh,6,Shakib Al Hasan,KMA Paul,Afif Hossain,,0,4,4,,,,32044232044
+2,Bangladesh,6,Shakib Al Hasan,KMA Paul,Afif Hossain,,0,1,1,,,,32044232044
+2,Bangladesh,6,Afif Hossain,KMA Paul,Shakib Al Hasan,,0,0,0,,,,32044232044
+2,Bangladesh,6,Afif Hossain,KMA Paul,Shakib Al Hasan,,0,2,2,,,,32044232044
+2,Bangladesh,6,Afif Hossain,KMA Paul,Shakib Al Hasan,,0,1,1,,,,32044232044
+2,Bangladesh,7,Afif Hossain,HR Walsh,Shakib Al Hasan,,0,2,2,,,,32044232044
+2,Bangladesh,7,Afif Hossain,HR Walsh,Shakib Al Hasan,,0,0,0,,,,32044232044
+2,Bangladesh,7,Afif Hossain,HR Walsh,Shakib Al Hasan,,0,4,4,,,,32044232044
+2,Bangladesh,7,Afif Hossain,HR Walsh,Shakib Al Hasan,,0,1,1,,,,32044232044
+2,Bangladesh,7,Shakib Al Hasan,HR Walsh,Afif Hossain,,0,1,1,,,,32044232044
+2,Bangladesh,7,Afif Hossain,HR Walsh,Shakib Al Hasan,,0,1,1,,,,32044232044
+2,Bangladesh,8,Afif Hossain,AJ Hosein,Shakib Al Hasan,,0,1,1,,,,32044232044
+2,Bangladesh,8,Shakib Al Hasan,AJ Hosein,Afif Hossain,legbyes,1,1,0,,,,32044232044
+2,Bangladesh,8,Afif Hossain,AJ Hosein,Shakib Al Hasan,,0,0,0,,,,32044232044
+2,Bangladesh,8,Afif Hossain,AJ Hosein,Shakib Al Hasan,,0,2,2,,,,32044232044
+2,Bangladesh,8,Afif Hossain,AJ Hosein,Shakib Al Hasan,,0,6,6,,,,32044232044
+2,Bangladesh,8,Afif Hossain,AJ Hosein,Shakib Al Hasan,,0,0,0,,,,32044232044
+2,Bangladesh,9,Shakib Al Hasan,HR Walsh,Afif Hossain,,0,1,1,,,,32044232044
+2,Bangladesh,9,Afif Hossain,HR Walsh,Shakib Al Hasan,,0,0,0,,,,32044232044
+2,Bangladesh,9,Afif Hossain,HR Walsh,Shakib Al Hasan,,0,1,1,,,,32044232044
+2,Bangladesh,9,Shakib Al Hasan,HR Walsh,Afif Hossain,,0,1,1,,,,32044232044
+2,Bangladesh,9,Afif Hossain,HR Walsh,Shakib Al Hasan,,0,0,0,,,,32044232044
+2,Bangladesh,9,Afif Hossain,HR Walsh,Shakib Al Hasan,,0,2,2,,,,32044232044
+2,Bangladesh,10,Shakib Al Hasan,R Shepherd,Afif Hossain,,0,1,1,,,,32044232044
+2,Bangladesh,10,Afif Hossain,R Shepherd,Shakib Al Hasan,,0,0,0,caught,Afif Hossain,N Pooran,32044232044
+2,Bangladesh,10,Nurul Hasan,R Shepherd,Shakib Al Hasan,,0,0,0,,,,32044232044
+2,Bangladesh,10,Nurul Hasan,R Shepherd,Shakib Al Hasan,,0,1,1,,,,32044232044
+2,Bangladesh,10,Shakib Al Hasan,R Shepherd,Nurul Hasan,,0,1,1,,,,32044232044
+2,Bangladesh,10,Nurul Hasan,R Shepherd,Shakib Al Hasan,,0,0,0,,,,32044232044
+2,Bangladesh,11,Shakib Al Hasan,HR Walsh,Nurul Hasan,,0,1,1,,,,32044232044
+2,Bangladesh,11,Nurul Hasan,HR Walsh,Shakib Al Hasan,,0,1,1,,,,32044232044
+2,Bangladesh,11,Shakib Al Hasan,HR Walsh,Nurul Hasan,,0,1,1,,,,32044232044
+2,Bangladesh,11,Nurul Hasan,HR Walsh,Shakib Al Hasan,,0,0,0,,,,32044232044
+2,Bangladesh,11,Nurul Hasan,HR Walsh,Shakib Al Hasan,,0,1,1,,,,32044232044
+2,Bangladesh,11,Shakib Al Hasan,HR Walsh,Nurul Hasan,,0,1,1,,,,32044232044
+2,Bangladesh,12,Shakib Al Hasan,AJ Hosein,Nurul Hasan,,0,2,2,,,,32044232044
+2,Bangladesh,12,Shakib Al Hasan,AJ Hosein,Nurul Hasan,,0,0,0,,,,32044232044
+2,Bangladesh,12,Shakib Al Hasan,AJ Hosein,Nurul Hasan,,0,1,1,,,,32044232044
+2,Bangladesh,12,Nurul Hasan,AJ Hosein,Shakib Al Hasan,,0,1,1,,,,32044232044
+2,Bangladesh,12,Shakib Al Hasan,AJ Hosein,Nurul Hasan,,0,1,1,,,,32044232044
+2,Bangladesh,12,Nurul Hasan,AJ Hosein,Shakib Al Hasan,,0,0,0,,,,32044232044
+2,Bangladesh,13,Shakib Al Hasan,HR Walsh,Nurul Hasan,,0,0,0,,,,32044232044
+2,Bangladesh,13,Shakib Al Hasan,HR Walsh,Nurul Hasan,,0,1,1,,,,32044232044
+2,Bangladesh,13,Nurul Hasan,HR Walsh,Shakib Al Hasan,,0,0,0,,,,32044232044
+2,Bangladesh,13,Nurul Hasan,HR Walsh,Shakib Al Hasan,,0,1,1,,,,32044232044
+2,Bangladesh,13,Shakib Al Hasan,HR Walsh,Nurul Hasan,,0,1,1,,,,32044232044
+2,Bangladesh,13,Nurul Hasan,HR Walsh,Shakib Al Hasan,,0,1,1,,,,32044232044
+2,Bangladesh,14,Nurul Hasan,AJ Hosein,Shakib Al Hasan,,0,1,1,,,,32044232044
+2,Bangladesh,14,Shakib Al Hasan,AJ Hosein,Nurul Hasan,wides,1,1,0,,,,32044232044
+2,Bangladesh,14,Shakib Al Hasan,AJ Hosein,Nurul Hasan,,0,1,1,,,,32044232044
+2,Bangladesh,14,Nurul Hasan,AJ Hosein,Shakib Al Hasan,,0,0,0,caught,Nurul Hasan,BA King,32044232044
+2,Bangladesh,14,Mosaddek Hossain,AJ Hosein,Shakib Al Hasan,,0,0,0,,,,32044232044
+2,Bangladesh,14,Mosaddek Hossain,AJ Hosein,Shakib Al Hasan,,0,1,1,,,,32044232044
+2,Bangladesh,14,Shakib Al Hasan,AJ Hosein,Mosaddek Hossain,,0,1,1,,,,32044232044
+2,Bangladesh,15,Shakib Al Hasan,R Shepherd,Mosaddek Hossain,,0,1,1,,,,32044232044
+2,Bangladesh,15,Mosaddek Hossain,R Shepherd,Shakib Al Hasan,wides,1,1,0,,,,32044232044
+2,Bangladesh,15,Mosaddek Hossain,R Shepherd,Shakib Al Hasan,,0,1,1,,,,32044232044
+2,Bangladesh,15,Shakib Al Hasan,R Shepherd,Mosaddek Hossain,,0,1,1,,,,32044232044
+2,Bangladesh,15,Mosaddek Hossain,R Shepherd,Shakib Al Hasan,,0,1,1,,,,32044232044
+2,Bangladesh,15,Shakib Al Hasan,R Shepherd,Mosaddek Hossain,,0,1,1,,,,32044232044
+2,Bangladesh,15,Mosaddek Hossain,R Shepherd,Shakib Al Hasan,,0,1,1,,,,32044232044
+2,Bangladesh,16,Mosaddek Hossain,OC McCoy,Shakib Al Hasan,,0,1,1,,,,32044232044
+2,Bangladesh,16,Shakib Al Hasan,OC McCoy,Mosaddek Hossain,,0,0,0,,,,32044232044
+2,Bangladesh,16,Shakib Al Hasan,OC McCoy,Mosaddek Hossain,,0,6,6,,,,32044232044
+2,Bangladesh,16,Shakib Al Hasan,OC McCoy,Mosaddek Hossain,,0,1,1,,,,32044232044
+2,Bangladesh,16,Mosaddek Hossain,OC McCoy,Shakib Al Hasan,,0,1,1,,,,32044232044
+2,Bangladesh,16,Shakib Al Hasan,OC McCoy,Mosaddek Hossain,,0,1,1,,,,32044232044
+2,Bangladesh,17,Shakib Al Hasan,OF Smith,Mosaddek Hossain,,0,0,0,,,,32044232044
+2,Bangladesh,17,Shakib Al Hasan,OF Smith,Mosaddek Hossain,,0,0,0,,,,32044232044
+2,Bangladesh,17,Shakib Al Hasan,OF Smith,Mosaddek Hossain,,0,4,4,,,,32044232044
+2,Bangladesh,17,Shakib Al Hasan,OF Smith,Mosaddek Hossain,,0,1,1,,,,32044232044
+2,Bangladesh,17,Mosaddek Hossain,OF Smith,Shakib Al Hasan,,0,2,2,,,,32044232044
+2,Bangladesh,17,Mosaddek Hossain,OF Smith,Shakib Al Hasan,wides,1,1,0,,,,32044232044
+2,Bangladesh,17,Mosaddek Hossain,OF Smith,Shakib Al Hasan,,0,6,6,,,,32044232044
+2,Bangladesh,18,Shakib Al Hasan,OC McCoy,Mosaddek Hossain,,0,2,2,,,,32044232044
+2,Bangladesh,18,Shakib Al Hasan,OC McCoy,Mosaddek Hossain,,0,6,6,,,,32044232044
+2,Bangladesh,18,Shakib Al Hasan,OC McCoy,Mosaddek Hossain,,0,1,1,,,,32044232044
+2,Bangladesh,18,Mosaddek Hossain,OC McCoy,Shakib Al Hasan,,0,1,1,,,,32044232044
+2,Bangladesh,18,Shakib Al Hasan,OC McCoy,Mosaddek Hossain,,0,4,4,,,,32044232044
+2,Bangladesh,18,Shakib Al Hasan,OC McCoy,Mosaddek Hossain,,0,6,6,,,,32044232044
+2,Bangladesh,19,Mosaddek Hossain,R Shepherd,Shakib Al Hasan,,0,0,0,caught,Mosaddek Hossain,N Pooran,32044232044
+2,Bangladesh,19,Mahedi Hasan,R Shepherd,Shakib Al Hasan,,0,4,4,,,,32044232044
+2,Bangladesh,19,Mahedi Hasan,R Shepherd,Shakib Al Hasan,,0,1,1,,,,32044232044
+2,Bangladesh,19,Shakib Al Hasan,R Shepherd,Mahedi Hasan,wides,1,1,0,,,,32044232044
+2,Bangladesh,19,Shakib Al Hasan,R Shepherd,Mahedi Hasan,,0,0,0,,,,32044232044
+2,Bangladesh,19,Shakib Al Hasan,R Shepherd,Mahedi Hasan,wides,1,1,0,,,,32044232044
+2,Bangladesh,19,Shakib Al Hasan,R Shepherd,Mahedi Hasan,,0,0,0,,,,32044232044
+2,Bangladesh,19,Shakib Al Hasan,R Shepherd,Mahedi Hasan,,0,1,1,,,,32044232044

@@ -1,0 +1,100 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,New Zealand,0,JD Ryder,Abdul Razzaq,MJ Guptill,,0,0,0,,,,318023180
+2,New Zealand,0,JD Ryder,Abdul Razzaq,MJ Guptill,legbyes,1,1,0,,,,318023180
+2,New Zealand,0,MJ Guptill,Abdul Razzaq,JD Ryder,,0,0,0,,,,318023180
+2,New Zealand,0,MJ Guptill,Abdul Razzaq,JD Ryder,,0,0,0,caught,MJ Guptill,Ahmed Shehzad,318023180
+2,New Zealand,0,DG Brownlie,Abdul Razzaq,JD Ryder,,0,0,0,,,,318023180
+2,New Zealand,0,DG Brownlie,Abdul Razzaq,JD Ryder,,0,0,0,,,,318023180
+2,New Zealand,1,JD Ryder,Tanvir Ahmed,DG Brownlie,,0,0,0,,,,318023180
+2,New Zealand,1,JD Ryder,Tanvir Ahmed,DG Brownlie,wides,1,1,0,,,,318023180
+2,New Zealand,1,JD Ryder,Tanvir Ahmed,DG Brownlie,,0,0,0,,,,318023180
+2,New Zealand,1,JD Ryder,Tanvir Ahmed,DG Brownlie,,0,0,0,caught,JD Ryder,Ahmed Shehzad,318023180
+2,New Zealand,1,DG Brownlie,Tanvir Ahmed,LRPL Taylor,,0,0,0,,,,318023180
+2,New Zealand,1,DG Brownlie,Tanvir Ahmed,LRPL Taylor,,0,0,0,,,,318023180
+2,New Zealand,1,DG Brownlie,Tanvir Ahmed,LRPL Taylor,,0,0,0,run out,DG Brownlie,Shahid Afridi,318023180
+2,New Zealand,2,JEC Franklin,Abdul Razzaq,LRPL Taylor,,0,0,0,,,,318023180
+2,New Zealand,2,JEC Franklin,Abdul Razzaq,LRPL Taylor,,0,1,1,,,,318023180
+2,New Zealand,2,LRPL Taylor,Abdul Razzaq,JEC Franklin,,0,0,0,,,,318023180
+2,New Zealand,2,LRPL Taylor,Abdul Razzaq,JEC Franklin,,0,0,0,,,,318023180
+2,New Zealand,2,LRPL Taylor,Abdul Razzaq,JEC Franklin,,0,0,0,lbw,LRPL Taylor,,318023180
+2,New Zealand,2,SB Styris,Abdul Razzaq,JEC Franklin,,0,0,0,,,,318023180
+2,New Zealand,3,JEC Franklin,Tanvir Ahmed,SB Styris,noballs,1,1,0,,,,318023180
+2,New Zealand,3,JEC Franklin,Tanvir Ahmed,SB Styris,,0,0,0,,,,318023180
+2,New Zealand,3,JEC Franklin,Tanvir Ahmed,SB Styris,,0,1,1,,,,318023180
+2,New Zealand,3,SB Styris,Tanvir Ahmed,JEC Franklin,,0,4,4,,,,318023180
+2,New Zealand,3,SB Styris,Tanvir Ahmed,JEC Franklin,,0,0,0,,,,318023180
+2,New Zealand,3,SB Styris,Tanvir Ahmed,JEC Franklin,,0,0,0,,,,318023180
+2,New Zealand,3,SB Styris,Tanvir Ahmed,JEC Franklin,,0,0,0,,,,318023180
+2,New Zealand,4,JEC Franklin,Abdul Razzaq,SB Styris,,0,1,1,,,,318023180
+2,New Zealand,4,SB Styris,Abdul Razzaq,JEC Franklin,,0,1,1,,,,318023180
+2,New Zealand,4,JEC Franklin,Abdul Razzaq,SB Styris,,0,0,0,,,,318023180
+2,New Zealand,4,JEC Franklin,Abdul Razzaq,SB Styris,,0,0,0,bowled,JEC Franklin,,318023180
+2,New Zealand,4,PD McGlashan,Abdul Razzaq,SB Styris,,0,0,0,,,,318023180
+2,New Zealand,4,PD McGlashan,Abdul Razzaq,SB Styris,,0,0,0,,,,318023180
+2,New Zealand,5,SB Styris,Tanvir Ahmed,PD McGlashan,,0,0,0,,,,318023180
+2,New Zealand,5,SB Styris,Tanvir Ahmed,PD McGlashan,,0,1,1,,,,318023180
+2,New Zealand,5,PD McGlashan,Tanvir Ahmed,SB Styris,wides,1,1,0,,,,318023180
+2,New Zealand,5,PD McGlashan,Tanvir Ahmed,SB Styris,,0,0,0,,,,318023180
+2,New Zealand,5,PD McGlashan,Tanvir Ahmed,SB Styris,,0,4,4,,,,318023180
+2,New Zealand,5,PD McGlashan,Tanvir Ahmed,SB Styris,,0,0,0,,,,318023180
+2,New Zealand,5,PD McGlashan,Tanvir Ahmed,SB Styris,,0,0,0,,,,318023180
+2,New Zealand,6,SB Styris,Abdul Razzaq,PD McGlashan,,0,1,1,,,,318023180
+2,New Zealand,6,PD McGlashan,Abdul Razzaq,SB Styris,,0,1,1,,,,318023180
+2,New Zealand,6,SB Styris,Abdul Razzaq,PD McGlashan,,0,0,0,,,,318023180
+2,New Zealand,6,SB Styris,Abdul Razzaq,PD McGlashan,,0,0,0,,,,318023180
+2,New Zealand,6,SB Styris,Abdul Razzaq,PD McGlashan,,0,4,4,,,,318023180
+2,New Zealand,6,SB Styris,Abdul Razzaq,PD McGlashan,,0,4,4,,,,318023180
+2,New Zealand,7,PD McGlashan,Wahab Riaz,SB Styris,,0,0,0,,,,318023180
+2,New Zealand,7,PD McGlashan,Wahab Riaz,SB Styris,,0,0,0,,,,318023180
+2,New Zealand,7,PD McGlashan,Wahab Riaz,SB Styris,,0,0,0,,,,318023180
+2,New Zealand,7,PD McGlashan,Wahab Riaz,SB Styris,,0,1,1,,,,318023180
+2,New Zealand,7,SB Styris,Wahab Riaz,PD McGlashan,,0,6,6,,,,318023180
+2,New Zealand,7,SB Styris,Wahab Riaz,PD McGlashan,,0,0,0,,,,318023180
+2,New Zealand,8,PD McGlashan,Abdur Rehman,SB Styris,,0,1,1,,,,318023180
+2,New Zealand,8,SB Styris,Abdur Rehman,PD McGlashan,,0,0,0,,,,318023180
+2,New Zealand,8,SB Styris,Abdur Rehman,PD McGlashan,,0,1,1,,,,318023180
+2,New Zealand,8,PD McGlashan,Abdur Rehman,SB Styris,,0,0,0,bowled,PD McGlashan,,318023180
+2,New Zealand,8,NL McCullum,Abdur Rehman,SB Styris,,0,0,0,,,,318023180
+2,New Zealand,8,NL McCullum,Abdur Rehman,SB Styris,,0,0,0,,,,318023180
+2,New Zealand,9,SB Styris,Wahab Riaz,NL McCullum,,0,4,4,,,,318023180
+2,New Zealand,9,SB Styris,Wahab Riaz,NL McCullum,,0,0,0,,,,318023180
+2,New Zealand,9,SB Styris,Wahab Riaz,NL McCullum,,0,0,0,,,,318023180
+2,New Zealand,9,SB Styris,Wahab Riaz,NL McCullum,noballs,1,2,1,,,,318023180
+2,New Zealand,9,NL McCullum,Wahab Riaz,SB Styris,,0,1,1,,,,318023180
+2,New Zealand,9,SB Styris,Wahab Riaz,NL McCullum,,0,1,1,,,,318023180
+2,New Zealand,9,NL McCullum,Wahab Riaz,SB Styris,legbyes,2,2,0,,,,318023180
+2,New Zealand,10,SB Styris,Abdur Rehman,NL McCullum,,0,1,1,,,,318023180
+2,New Zealand,10,NL McCullum,Abdur Rehman,SB Styris,,0,1,1,,,,318023180
+2,New Zealand,10,SB Styris,Abdur Rehman,NL McCullum,,0,0,0,,,,318023180
+2,New Zealand,10,SB Styris,Abdur Rehman,NL McCullum,,0,1,1,,,,318023180
+2,New Zealand,10,NL McCullum,Abdur Rehman,SB Styris,,0,4,4,,,,318023180
+2,New Zealand,10,NL McCullum,Abdur Rehman,SB Styris,,0,0,0,,,,318023180
+2,New Zealand,11,SB Styris,Shahid Afridi,NL McCullum,,0,1,1,,,,318023180
+2,New Zealand,11,NL McCullum,Shahid Afridi,SB Styris,,0,1,1,,,,318023180
+2,New Zealand,11,SB Styris,Shahid Afridi,NL McCullum,,0,1,1,,,,318023180
+2,New Zealand,11,NL McCullum,Shahid Afridi,SB Styris,,0,1,1,,,,318023180
+2,New Zealand,11,SB Styris,Shahid Afridi,NL McCullum,,0,1,1,,,,318023180
+2,New Zealand,11,NL McCullum,Shahid Afridi,SB Styris,,0,0,0,lbw,NL McCullum,,318023180
+2,New Zealand,12,SB Styris,Abdur Rehman,KD Mills,,0,1,1,,,,318023180
+2,New Zealand,12,KD Mills,Abdur Rehman,SB Styris,,0,0,0,,,,318023180
+2,New Zealand,12,KD Mills,Abdur Rehman,SB Styris,,0,1,1,,,,318023180
+2,New Zealand,12,SB Styris,Abdur Rehman,KD Mills,,0,1,1,,,,318023180
+2,New Zealand,12,KD Mills,Abdur Rehman,SB Styris,,0,1,1,,,,318023180
+2,New Zealand,12,SB Styris,Abdur Rehman,KD Mills,,0,4,4,,,,318023180
+2,New Zealand,13,KD Mills,Shahid Afridi,SB Styris,,0,1,1,,,,318023180
+2,New Zealand,13,SB Styris,Shahid Afridi,KD Mills,,0,2,2,,,,318023180
+2,New Zealand,13,SB Styris,Shahid Afridi,KD Mills,,0,4,4,,,,318023180
+2,New Zealand,13,SB Styris,Shahid Afridi,KD Mills,,0,0,0,bowled,SB Styris,,318023180
+2,New Zealand,13,TG Southee,Shahid Afridi,KD Mills,,0,0,0,bowled,TG Southee,,318023180
+2,New Zealand,13,AF Milne,Shahid Afridi,KD Mills,,0,1,1,,,,318023180
+2,New Zealand,14,AF Milne,Abdur Rehman,KD Mills,,0,0,0,,,,318023180
+2,New Zealand,14,AF Milne,Abdur Rehman,KD Mills,,0,0,0,,,,318023180
+2,New Zealand,14,AF Milne,Abdur Rehman,KD Mills,,0,0,0,,,,318023180
+2,New Zealand,14,AF Milne,Abdur Rehman,KD Mills,,0,0,0,,,,318023180
+2,New Zealand,14,AF Milne,Abdur Rehman,KD Mills,,0,1,1,,,,318023180
+2,New Zealand,14,KD Mills,Abdur Rehman,AF Milne,,0,4,4,,,,318023180
+2,New Zealand,15,AF Milne,Shahid Afridi,KD Mills,,0,1,1,,,,318023180
+2,New Zealand,15,KD Mills,Shahid Afridi,AF Milne,,0,0,0,,,,318023180
+2,New Zealand,15,KD Mills,Shahid Afridi,AF Milne,,0,0,0,,,,318023180
+2,New Zealand,15,KD Mills,Shahid Afridi,AF Milne,,0,0,0,,,,318023180
+2,New Zealand,15,KD Mills,Shahid Afridi,AF Milne,,0,0,0,bowled,KD Mills,,318023180

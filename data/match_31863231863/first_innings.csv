@@ -1,0 +1,126 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Uganda,0,Saud Islam,IO Okpe,S Sesazi,,0,4,4,,,,31863231863
+1,Uganda,0,Saud Islam,IO Okpe,S Sesazi,,0,0,0,,,,31863231863
+1,Uganda,0,Saud Islam,IO Okpe,S Sesazi,,0,1,1,,,,31863231863
+1,Uganda,0,S Sesazi,IO Okpe,Saud Islam,,0,1,1,,,,31863231863
+1,Uganda,0,Saud Islam,IO Okpe,S Sesazi,,0,0,0,,,,31863231863
+1,Uganda,0,Saud Islam,IO Okpe,S Sesazi,,0,0,0,,,,31863231863
+1,Uganda,1,S Sesazi,P Useni,Saud Islam,,0,2,2,,,,31863231863
+1,Uganda,1,S Sesazi,P Useni,Saud Islam,,0,0,0,,,,31863231863
+1,Uganda,1,S Sesazi,P Useni,Saud Islam,,0,6,6,,,,31863231863
+1,Uganda,1,S Sesazi,P Useni,Saud Islam,,0,0,0,,,,31863231863
+1,Uganda,1,S Sesazi,P Useni,Saud Islam,,0,0,0,,,,31863231863
+1,Uganda,1,S Sesazi,P Useni,Saud Islam,,0,4,4,,,,31863231863
+1,Uganda,2,Saud Islam,IO Okpe,S Sesazi,,0,1,1,,,,31863231863
+1,Uganda,2,S Sesazi,IO Okpe,Saud Islam,,0,0,0,,,,31863231863
+1,Uganda,2,S Sesazi,IO Okpe,Saud Islam,,0,0,0,,,,31863231863
+1,Uganda,2,S Sesazi,IO Okpe,Saud Islam,,0,0,0,,,,31863231863
+1,Uganda,2,S Sesazi,IO Okpe,Saud Islam,,0,0,0,,,,31863231863
+1,Uganda,2,S Sesazi,IO Okpe,Saud Islam,noballs,1,7,6,,,,31863231863
+1,Uganda,2,S Sesazi,IO Okpe,Saud Islam,,0,0,0,,,,31863231863
+1,Uganda,3,Saud Islam,P Useni,S Sesazi,,0,0,0,,,,31863231863
+1,Uganda,3,Saud Islam,P Useni,S Sesazi,,0,0,0,,,,31863231863
+1,Uganda,3,Saud Islam,P Useni,S Sesazi,,0,1,1,,,,31863231863
+1,Uganda,3,S Sesazi,P Useni,Saud Islam,,0,0,0,caught,S Sesazi,S Mba,31863231863
+1,Uganda,3,Saud Islam,P Useni,RB Patel,,0,0,0,caught,Saud Islam,P Aho,31863231863
+1,Uganda,3,D Muhumuza,P Useni,RB Patel,,0,2,2,,,,31863231863
+1,Uganda,4,RB Patel,JO Adedeji,D Muhumuza,,0,1,1,,,,31863231863
+1,Uganda,4,D Muhumuza,JO Adedeji,RB Patel,,0,0,0,,,,31863231863
+1,Uganda,4,D Muhumuza,JO Adedeji,RB Patel,,0,0,0,,,,31863231863
+1,Uganda,4,D Muhumuza,JO Adedeji,RB Patel,,0,1,1,,,,31863231863
+1,Uganda,4,RB Patel,JO Adedeji,D Muhumuza,,0,0,0,,,,31863231863
+1,Uganda,4,RB Patel,JO Adedeji,D Muhumuza,,0,0,0,,,,31863231863
+1,Uganda,5,D Muhumuza,P Aho,RB Patel,,0,0,0,,,,31863231863
+1,Uganda,5,D Muhumuza,P Aho,RB Patel,,0,0,0,,,,31863231863
+1,Uganda,5,D Muhumuza,P Aho,RB Patel,,0,0,0,,,,31863231863
+1,Uganda,5,D Muhumuza,P Aho,RB Patel,,0,4,4,,,,31863231863
+1,Uganda,5,D Muhumuza,P Aho,RB Patel,,0,0,0,lbw,D Muhumuza,,31863231863
+1,Uganda,5,Riazat Ali Shah,P Aho,RB Patel,,0,0,0,,,,31863231863
+1,Uganda,6,RB Patel,JO Adedeji,Riazat Ali Shah,,0,1,1,,,,31863231863
+1,Uganda,6,Riazat Ali Shah,JO Adedeji,RB Patel,,0,0,0,,,,31863231863
+1,Uganda,6,Riazat Ali Shah,JO Adedeji,RB Patel,,0,1,1,,,,31863231863
+1,Uganda,6,RB Patel,JO Adedeji,Riazat Ali Shah,,0,1,1,,,,31863231863
+1,Uganda,6,Riazat Ali Shah,JO Adedeji,RB Patel,,0,1,1,,,,31863231863
+1,Uganda,6,RB Patel,JO Adedeji,Riazat Ali Shah,,0,0,0,,,,31863231863
+1,Uganda,7,Riazat Ali Shah,P Aho,RB Patel,,0,1,1,,,,31863231863
+1,Uganda,7,RB Patel,P Aho,Riazat Ali Shah,,0,4,4,,,,31863231863
+1,Uganda,7,RB Patel,P Aho,Riazat Ali Shah,,0,0,0,lbw,RB Patel,,31863231863
+1,Uganda,7,B Masaba,P Aho,Riazat Ali Shah,,0,0,0,,,,31863231863
+1,Uganda,7,B Masaba,P Aho,Riazat Ali Shah,,0,1,1,,,,31863231863
+1,Uganda,7,Riazat Ali Shah,P Aho,B Masaba,,0,0,0,,,,31863231863
+1,Uganda,8,B Masaba,JO Adedeji,Riazat Ali Shah,,0,1,1,,,,31863231863
+1,Uganda,8,Riazat Ali Shah,JO Adedeji,B Masaba,,0,2,2,,,,31863231863
+1,Uganda,8,Riazat Ali Shah,JO Adedeji,B Masaba,,0,2,2,,,,31863231863
+1,Uganda,8,Riazat Ali Shah,JO Adedeji,B Masaba,,0,1,1,,,,31863231863
+1,Uganda,8,B Masaba,JO Adedeji,Riazat Ali Shah,,0,1,1,,,,31863231863
+1,Uganda,8,Riazat Ali Shah,JO Adedeji,B Masaba,,0,1,1,,,,31863231863
+1,Uganda,9,Riazat Ali Shah,SA Okpe,B Masaba,wides,2,2,0,,,,31863231863
+1,Uganda,9,B Masaba,SA Okpe,Riazat Ali Shah,,0,0,0,,,,31863231863
+1,Uganda,9,B Masaba,SA Okpe,Riazat Ali Shah,,0,1,1,,,,31863231863
+1,Uganda,9,Riazat Ali Shah,SA Okpe,B Masaba,,0,0,0,,,,31863231863
+1,Uganda,9,Riazat Ali Shah,SA Okpe,B Masaba,,0,1,1,,,,31863231863
+1,Uganda,9,B Masaba,SA Okpe,Riazat Ali Shah,,0,0,0,,,,31863231863
+1,Uganda,9,B Masaba,SA Okpe,Riazat Ali Shah,,0,0,0,,,,31863231863
+1,Uganda,10,Riazat Ali Shah,R Abdulkareem,B Masaba,,0,4,4,,,,31863231863
+1,Uganda,10,Riazat Ali Shah,R Abdulkareem,B Masaba,,0,1,1,,,,31863231863
+1,Uganda,10,B Masaba,R Abdulkareem,Riazat Ali Shah,,0,1,1,,,,31863231863
+1,Uganda,10,Riazat Ali Shah,R Abdulkareem,B Masaba,,0,6,6,,,,31863231863
+1,Uganda,10,Riazat Ali Shah,R Abdulkareem,B Masaba,wides,1,1,0,,,,31863231863
+1,Uganda,10,Riazat Ali Shah,R Abdulkareem,B Masaba,,0,1,1,,,,31863231863
+1,Uganda,10,B Masaba,R Abdulkareem,Riazat Ali Shah,,0,1,1,,,,31863231863
+1,Uganda,11,B Masaba,SA Okpe,Riazat Ali Shah,,0,0,0,,,,31863231863
+1,Uganda,11,B Masaba,SA Okpe,Riazat Ali Shah,,0,0,0,,,,31863231863
+1,Uganda,11,B Masaba,SA Okpe,Riazat Ali Shah,,0,0,0,,,,31863231863
+1,Uganda,11,B Masaba,SA Okpe,Riazat Ali Shah,,0,1,1,,,,31863231863
+1,Uganda,11,Riazat Ali Shah,SA Okpe,B Masaba,,0,4,4,,,,31863231863
+1,Uganda,11,Riazat Ali Shah,SA Okpe,B Masaba,,0,0,0,,,,31863231863
+1,Uganda,12,B Masaba,R Abdulkareem,Riazat Ali Shah,,0,0,0,,,,31863231863
+1,Uganda,12,B Masaba,R Abdulkareem,Riazat Ali Shah,,0,1,1,,,,31863231863
+1,Uganda,12,Riazat Ali Shah,R Abdulkareem,B Masaba,,0,6,6,,,,31863231863
+1,Uganda,12,Riazat Ali Shah,R Abdulkareem,B Masaba,,0,1,1,,,,31863231863
+1,Uganda,12,B Masaba,R Abdulkareem,Riazat Ali Shah,,0,0,0,caught,B Masaba,IO Okpe,31863231863
+1,Uganda,12,Riazat Ali Shah,R Abdulkareem,DM Nakrani,,0,1,1,,,,31863231863
+1,Uganda,13,Riazat Ali Shah,P Aho,DM Nakrani,,0,2,2,,,,31863231863
+1,Uganda,13,Riazat Ali Shah,P Aho,DM Nakrani,,0,2,2,,,,31863231863
+1,Uganda,13,Riazat Ali Shah,P Aho,DM Nakrani,,0,1,1,,,,31863231863
+1,Uganda,13,DM Nakrani,P Aho,Riazat Ali Shah,,0,0,0,,,,31863231863
+1,Uganda,13,DM Nakrani,P Aho,Riazat Ali Shah,,0,0,0,,,,31863231863
+1,Uganda,13,DM Nakrani,P Aho,Riazat Ali Shah,,0,4,4,,,,31863231863
+1,Uganda,14,Riazat Ali Shah,SA Okpe,DM Nakrani,,0,0,0,caught,Riazat Ali Shah,JO Adedeji,31863231863
+1,Uganda,14,DM Nakrani,SA Okpe,F Akankwasa,,0,1,1,,,,31863231863
+1,Uganda,14,F Akankwasa,SA Okpe,DM Nakrani,,0,0,0,,,,31863231863
+1,Uganda,14,F Akankwasa,SA Okpe,DM Nakrani,,0,1,1,,,,31863231863
+1,Uganda,14,DM Nakrani,SA Okpe,F Akankwasa,,0,0,0,,,,31863231863
+1,Uganda,14,DM Nakrani,SA Okpe,F Akankwasa,,0,0,0,,,,31863231863
+1,Uganda,15,F Akankwasa,P Aho,DM Nakrani,,0,0,0,,,,31863231863
+1,Uganda,15,F Akankwasa,P Aho,DM Nakrani,legbyes,1,1,0,,,,31863231863
+1,Uganda,15,DM Nakrani,P Aho,F Akankwasa,,0,1,1,,,,31863231863
+1,Uganda,15,F Akankwasa,P Aho,DM Nakrani,,0,0,0,,,,31863231863
+1,Uganda,15,F Akankwasa,P Aho,DM Nakrani,legbyes,1,1,0,,,,31863231863
+1,Uganda,15,DM Nakrani,P Aho,F Akankwasa,,0,0,0,,,,31863231863
+1,Uganda,16,F Akankwasa,IO Okpe,DM Nakrani,,0,0,0,caught,F Akankwasa,P Useni,31863231863
+1,Uganda,16,F Achelam,IO Okpe,DM Nakrani,,0,0,0,,,,31863231863
+1,Uganda,16,F Achelam,IO Okpe,DM Nakrani,wides,1,1,0,,,,31863231863
+1,Uganda,16,F Achelam,IO Okpe,DM Nakrani,,0,1,1,,,,31863231863
+1,Uganda,16,DM Nakrani,IO Okpe,F Achelam,,0,4,4,,,,31863231863
+1,Uganda,16,DM Nakrani,IO Okpe,F Achelam,,0,4,4,,,,31863231863
+1,Uganda,16,DM Nakrani,IO Okpe,F Achelam,,0,1,1,,,,31863231863
+1,Uganda,17,DM Nakrani,P Useni,F Achelam,,0,6,6,,,,31863231863
+1,Uganda,17,DM Nakrani,P Useni,F Achelam,,0,0,0,,,,31863231863
+1,Uganda,17,DM Nakrani,P Useni,F Achelam,,0,1,1,,,,31863231863
+1,Uganda,17,F Achelam,P Useni,DM Nakrani,,0,1,1,,,,31863231863
+1,Uganda,17,DM Nakrani,P Useni,F Achelam,,0,0,0,,,,31863231863
+1,Uganda,17,DM Nakrani,P Useni,F Achelam,,0,6,6,,,,31863231863
+1,Uganda,18,F Achelam,SA Okpe,DM Nakrani,,0,2,2,,,,31863231863
+1,Uganda,18,F Achelam,SA Okpe,DM Nakrani,,0,2,2,,,,31863231863
+1,Uganda,18,F Achelam,SA Okpe,DM Nakrani,,0,4,4,,,,31863231863
+1,Uganda,18,F Achelam,SA Okpe,DM Nakrani,,0,0,0,,,,31863231863
+1,Uganda,18,F Achelam,SA Okpe,DM Nakrani,,0,4,4,,,,31863231863
+1,Uganda,18,F Achelam,SA Okpe,DM Nakrani,,0,0,0,caught,F Achelam,S Mba,31863231863
+1,Uganda,19,DM Nakrani,IO Okpe,F Nsubuga,,0,4,4,,,,31863231863
+1,Uganda,19,DM Nakrani,IO Okpe,F Nsubuga,,0,2,2,,,,31863231863
+1,Uganda,19,DM Nakrani,IO Okpe,F Nsubuga,,0,0,0,,,,31863231863
+1,Uganda,19,DM Nakrani,IO Okpe,F Nsubuga,wides,1,1,0,,,,31863231863
+1,Uganda,19,DM Nakrani,IO Okpe,F Nsubuga,,0,2,2,,,,31863231863
+1,Uganda,19,DM Nakrani,IO Okpe,F Nsubuga,,0,0,0,,,,31863231863
+1,Uganda,19,DM Nakrani,IO Okpe,F Nsubuga,,0,1,1,run out,F Nsubuga,P Aho,31863231863

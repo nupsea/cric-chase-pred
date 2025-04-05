@@ -1,0 +1,121 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Bangladesh,0,Tamim Iqbal,TS Chisoro,Soumya Sarkar,,0,1,1,,,,365023650
+2,Bangladesh,0,Soumya Sarkar,TS Chisoro,Tamim Iqbal,,0,4,4,,,,365023650
+2,Bangladesh,0,Soumya Sarkar,TS Chisoro,Tamim Iqbal,,0,0,0,,,,365023650
+2,Bangladesh,0,Soumya Sarkar,TS Chisoro,Tamim Iqbal,,0,0,0,,,,365023650
+2,Bangladesh,0,Soumya Sarkar,TS Chisoro,Tamim Iqbal,,0,0,0,,,,365023650
+2,Bangladesh,0,Soumya Sarkar,TS Chisoro,Tamim Iqbal,,0,1,1,,,,365023650
+2,Bangladesh,1,Soumya Sarkar,N Madziva,Tamim Iqbal,,0,6,6,,,,365023650
+2,Bangladesh,1,Soumya Sarkar,N Madziva,Tamim Iqbal,,0,0,0,caught,Soumya Sarkar,R Mutumbami,365023650
+2,Bangladesh,1,Sabbir Rahman,N Madziva,Tamim Iqbal,,0,0,0,,,,365023650
+2,Bangladesh,1,Sabbir Rahman,N Madziva,Tamim Iqbal,,0,0,0,,,,365023650
+2,Bangladesh,1,Sabbir Rahman,N Madziva,Tamim Iqbal,,0,1,1,,,,365023650
+2,Bangladesh,1,Tamim Iqbal,N Madziva,Sabbir Rahman,,0,0,0,bowled,Tamim Iqbal,,365023650
+2,Bangladesh,2,Sabbir Rahman,TS Chisoro,Imrul Kayes,,0,0,0,caught,Sabbir Rahman,WP Masakadza,365023650
+2,Bangladesh,2,Shakib Al Hasan,TS Chisoro,Imrul Kayes,,0,0,0,,,,365023650
+2,Bangladesh,2,Shakib Al Hasan,TS Chisoro,Imrul Kayes,,0,4,4,,,,365023650
+2,Bangladesh,2,Shakib Al Hasan,TS Chisoro,Imrul Kayes,,0,0,0,bowled,Shakib Al Hasan,,365023650
+2,Bangladesh,2,Mahmudullah,TS Chisoro,Imrul Kayes,,0,0,0,,,,365023650
+2,Bangladesh,2,Mahmudullah,TS Chisoro,Imrul Kayes,,0,0,0,,,,365023650
+2,Bangladesh,3,Imrul Kayes,N Madziva,Mahmudullah,,0,1,1,,,,365023650
+2,Bangladesh,3,Mahmudullah,N Madziva,Imrul Kayes,,0,0,0,,,,365023650
+2,Bangladesh,3,Mahmudullah,N Madziva,Imrul Kayes,,0,4,4,,,,365023650
+2,Bangladesh,3,Mahmudullah,N Madziva,Imrul Kayes,,0,4,4,,,,365023650
+2,Bangladesh,3,Mahmudullah,N Madziva,Imrul Kayes,,0,0,0,,,,365023650
+2,Bangladesh,3,Mahmudullah,N Madziva,Imrul Kayes,,0,0,0,,,,365023650
+2,Bangladesh,4,Imrul Kayes,TS Chisoro,Mahmudullah,,0,0,0,,,,365023650
+2,Bangladesh,4,Imrul Kayes,TS Chisoro,Mahmudullah,,0,1,1,,,,365023650
+2,Bangladesh,4,Mahmudullah,TS Chisoro,Imrul Kayes,,0,1,1,,,,365023650
+2,Bangladesh,4,Imrul Kayes,TS Chisoro,Mahmudullah,,0,0,0,,,,365023650
+2,Bangladesh,4,Imrul Kayes,TS Chisoro,Mahmudullah,,0,0,0,,,,365023650
+2,Bangladesh,4,Imrul Kayes,TS Chisoro,Mahmudullah,,0,1,1,,,,365023650
+2,Bangladesh,5,Imrul Kayes,LM Jongwe,Mahmudullah,,0,4,4,,,,365023650
+2,Bangladesh,5,Imrul Kayes,LM Jongwe,Mahmudullah,wides,1,1,0,,,,365023650
+2,Bangladesh,5,Imrul Kayes,LM Jongwe,Mahmudullah,,0,0,0,,,,365023650
+2,Bangladesh,5,Imrul Kayes,LM Jongwe,Mahmudullah,,0,0,0,,,,365023650
+2,Bangladesh,5,Imrul Kayes,LM Jongwe,Mahmudullah,,0,6,6,,,,365023650
+2,Bangladesh,5,Imrul Kayes,LM Jongwe,Mahmudullah,,0,0,0,,,,365023650
+2,Bangladesh,5,Imrul Kayes,LM Jongwe,Mahmudullah,,0,4,4,,,,365023650
+2,Bangladesh,6,Mahmudullah,Sikandar Raza,Imrul Kayes,,0,1,1,,,,365023650
+2,Bangladesh,6,Imrul Kayes,Sikandar Raza,Mahmudullah,,0,1,1,,,,365023650
+2,Bangladesh,6,Mahmudullah,Sikandar Raza,Imrul Kayes,,0,6,6,,,,365023650
+2,Bangladesh,6,Mahmudullah,Sikandar Raza,Imrul Kayes,,0,1,1,,,,365023650
+2,Bangladesh,6,Imrul Kayes,Sikandar Raza,Mahmudullah,,0,0,0,caught,Imrul Kayes,LM Jongwe,365023650
+2,Bangladesh,6,Nurul Hasan,Sikandar Raza,Mahmudullah,,0,0,0,,,,365023650
+2,Bangladesh,7,Mahmudullah,LM Jongwe,Nurul Hasan,,0,4,4,,,,365023650
+2,Bangladesh,7,Mahmudullah,LM Jongwe,Nurul Hasan,,0,0,0,,,,365023650
+2,Bangladesh,7,Mahmudullah,LM Jongwe,Nurul Hasan,,0,1,1,,,,365023650
+2,Bangladesh,7,Nurul Hasan,LM Jongwe,Mahmudullah,,0,4,4,,,,365023650
+2,Bangladesh,7,Nurul Hasan,LM Jongwe,Mahmudullah,,0,1,1,,,,365023650
+2,Bangladesh,7,Mahmudullah,LM Jongwe,Nurul Hasan,,0,1,1,,,,365023650
+2,Bangladesh,8,Mahmudullah,AG Cremer,Nurul Hasan,wides,1,1,0,,,,365023650
+2,Bangladesh,8,Mahmudullah,AG Cremer,Nurul Hasan,,0,0,0,,,,365023650
+2,Bangladesh,8,Mahmudullah,AG Cremer,Nurul Hasan,,0,1,1,,,,365023650
+2,Bangladesh,8,Nurul Hasan,AG Cremer,Mahmudullah,,0,1,1,,,,365023650
+2,Bangladesh,8,Mahmudullah,AG Cremer,Nurul Hasan,,0,0,0,,,,365023650
+2,Bangladesh,8,Mahmudullah,AG Cremer,Nurul Hasan,,0,0,0,,,,365023650
+2,Bangladesh,8,Mahmudullah,AG Cremer,Nurul Hasan,,0,1,1,,,,365023650
+2,Bangladesh,9,Mahmudullah,E Chigumbura,Nurul Hasan,,0,4,4,,,,365023650
+2,Bangladesh,9,Mahmudullah,E Chigumbura,Nurul Hasan,,0,1,1,,,,365023650
+2,Bangladesh,9,Nurul Hasan,E Chigumbura,Mahmudullah,,0,1,1,,,,365023650
+2,Bangladesh,9,Mahmudullah,E Chigumbura,Nurul Hasan,,0,2,2,,,,365023650
+2,Bangladesh,9,Mahmudullah,E Chigumbura,Nurul Hasan,,0,6,6,,,,365023650
+2,Bangladesh,9,Mahmudullah,E Chigumbura,Nurul Hasan,,0,2,2,,,,365023650
+2,Bangladesh,10,Nurul Hasan,AG Cremer,Mahmudullah,,0,2,2,,,,365023650
+2,Bangladesh,10,Nurul Hasan,AG Cremer,Mahmudullah,,0,1,1,,,,365023650
+2,Bangladesh,10,Mahmudullah,AG Cremer,Nurul Hasan,,0,1,1,,,,365023650
+2,Bangladesh,10,Nurul Hasan,AG Cremer,Mahmudullah,,0,0,0,,,,365023650
+2,Bangladesh,10,Nurul Hasan,AG Cremer,Mahmudullah,,0,1,1,,,,365023650
+2,Bangladesh,10,Mahmudullah,AG Cremer,Nurul Hasan,,0,1,1,,,,365023650
+2,Bangladesh,11,Mahmudullah,Sikandar Raza,Nurul Hasan,,0,2,2,,,,365023650
+2,Bangladesh,11,Mahmudullah,Sikandar Raza,Nurul Hasan,wides,3,3,0,,,,365023650
+2,Bangladesh,11,Mahmudullah,Sikandar Raza,Nurul Hasan,,0,1,1,,,,365023650
+2,Bangladesh,11,Nurul Hasan,Sikandar Raza,Mahmudullah,,0,1,1,,,,365023650
+2,Bangladesh,11,Mahmudullah,Sikandar Raza,Nurul Hasan,legbyes,1,1,0,,,,365023650
+2,Bangladesh,11,Nurul Hasan,Sikandar Raza,Mahmudullah,,0,1,1,,,,365023650
+2,Bangladesh,11,Mahmudullah,Sikandar Raza,Nurul Hasan,,0,0,0,,,,365023650
+2,Bangladesh,12,Nurul Hasan,AG Cremer,Mahmudullah,,0,1,1,,,,365023650
+2,Bangladesh,12,Mahmudullah,AG Cremer,Nurul Hasan,,0,4,4,,,,365023650
+2,Bangladesh,12,Mahmudullah,AG Cremer,Nurul Hasan,,0,1,1,,,,365023650
+2,Bangladesh,12,Nurul Hasan,AG Cremer,Mahmudullah,,0,1,1,,,,365023650
+2,Bangladesh,12,Mahmudullah,AG Cremer,Nurul Hasan,,0,1,1,,,,365023650
+2,Bangladesh,12,Nurul Hasan,AG Cremer,Mahmudullah,,0,0,0,,,,365023650
+2,Bangladesh,13,Mahmudullah,Sikandar Raza,Nurul Hasan,,0,0,0,,,,365023650
+2,Bangladesh,13,Mahmudullah,Sikandar Raza,Nurul Hasan,wides,1,1,0,,,,365023650
+2,Bangladesh,13,Mahmudullah,Sikandar Raza,Nurul Hasan,wides,2,2,0,,,,365023650
+2,Bangladesh,13,Nurul Hasan,Sikandar Raza,Mahmudullah,,0,0,0,caught,Nurul Hasan,E Chigumbura,365023650
+2,Bangladesh,13,Mahmudullah,Sikandar Raza,Mashrafe Mortaza,,0,1,1,,,,365023650
+2,Bangladesh,13,Mashrafe Mortaza,Sikandar Raza,Mahmudullah,,0,0,0,,,,365023650
+2,Bangladesh,13,Mashrafe Mortaza,Sikandar Raza,Mahmudullah,,0,4,4,,,,365023650
+2,Bangladesh,13,Mashrafe Mortaza,Sikandar Raza,Mahmudullah,,0,6,6,,,,365023650
+2,Bangladesh,14,Mahmudullah,AG Cremer,Mashrafe Mortaza,,0,1,1,,,,365023650
+2,Bangladesh,14,Mashrafe Mortaza,AG Cremer,Mahmudullah,,0,0,0,,,,365023650
+2,Bangladesh,14,Mashrafe Mortaza,AG Cremer,Mahmudullah,,0,6,6,,,,365023650
+2,Bangladesh,14,Mashrafe Mortaza,AG Cremer,Mahmudullah,,0,2,2,,,,365023650
+2,Bangladesh,14,Mashrafe Mortaza,AG Cremer,Mahmudullah,legbyes,1,1,0,,,,365023650
+2,Bangladesh,14,Mahmudullah,AG Cremer,Mashrafe Mortaza,,0,0,0,,,,365023650
+2,Bangladesh,15,Mashrafe Mortaza,TS Chisoro,Mahmudullah,,0,1,1,,,,365023650
+2,Bangladesh,15,Mahmudullah,TS Chisoro,Mashrafe Mortaza,,0,0,0,,,,365023650
+2,Bangladesh,15,Mahmudullah,TS Chisoro,Mashrafe Mortaza,,0,1,1,,,,365023650
+2,Bangladesh,15,Mashrafe Mortaza,TS Chisoro,Mahmudullah,,0,1,1,,,,365023650
+2,Bangladesh,15,Mahmudullah,TS Chisoro,Mashrafe Mortaza,,0,0,0,bowled,Mahmudullah,,365023650
+2,Bangladesh,15,Abu Hider,TS Chisoro,Mashrafe Mortaza,,0,1,1,,,,365023650
+2,Bangladesh,16,Abu Hider,N Madziva,Mashrafe Mortaza,,0,1,1,,,,365023650
+2,Bangladesh,16,Mashrafe Mortaza,N Madziva,Abu Hider,,0,1,1,,,,365023650
+2,Bangladesh,16,Abu Hider,N Madziva,Mashrafe Mortaza,,0,0,0,,,,365023650
+2,Bangladesh,16,Abu Hider,N Madziva,Mashrafe Mortaza,,0,0,0,,,,365023650
+2,Bangladesh,16,Abu Hider,N Madziva,Mashrafe Mortaza,,0,1,1,,,,365023650
+2,Bangladesh,16,Mashrafe Mortaza,N Madziva,Abu Hider,,0,1,1,,,,365023650
+2,Bangladesh,17,Mashrafe Mortaza,LM Jongwe,Abu Hider,,0,0,0,caught,Mashrafe Mortaza,V Sibanda,365023650
+2,Bangladesh,17,Arafat Sunny,LM Jongwe,Abu Hider,,0,1,1,,,,365023650
+2,Bangladesh,17,Abu Hider,LM Jongwe,Arafat Sunny,,0,0,0,,,,365023650
+2,Bangladesh,17,Abu Hider,LM Jongwe,Arafat Sunny,,0,1,1,,,,365023650
+2,Bangladesh,17,Arafat Sunny,LM Jongwe,Abu Hider,,0,1,1,,,,365023650
+2,Bangladesh,17,Abu Hider,LM Jongwe,Arafat Sunny,,0,6,6,,,,365023650
+2,Bangladesh,18,Arafat Sunny,N Madziva,Abu Hider,wides,1,1,0,,,,365023650
+2,Bangladesh,18,Arafat Sunny,N Madziva,Abu Hider,,0,4,4,,,,365023650
+2,Bangladesh,18,Arafat Sunny,N Madziva,Abu Hider,,0,4,4,,,,365023650
+2,Bangladesh,18,Arafat Sunny,N Madziva,Abu Hider,,0,0,0,bowled,Arafat Sunny,,365023650
+2,Bangladesh,18,Taskin Ahmed,N Madziva,Abu Hider,,0,1,1,,,,365023650
+2,Bangladesh,18,Abu Hider,N Madziva,Taskin Ahmed,,0,4,4,,,,365023650
+2,Bangladesh,18,Abu Hider,N Madziva,Taskin Ahmed,,0,0,0,caught,Abu Hider,LM Jongwe,365023650

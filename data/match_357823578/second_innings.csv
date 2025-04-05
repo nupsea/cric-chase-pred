@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Sri Lanka,0,N Dickwella,L Ngidi,WU Tharanga,legbyes,1,1,0,,,,357823578
+2,Sri Lanka,0,WU Tharanga,L Ngidi,N Dickwella,,0,1,1,,,,357823578
+2,Sri Lanka,0,N Dickwella,L Ngidi,WU Tharanga,,0,2,2,,,,357823578
+2,Sri Lanka,0,N Dickwella,L Ngidi,WU Tharanga,,0,4,4,,,,357823578
+2,Sri Lanka,0,N Dickwella,L Ngidi,WU Tharanga,,0,0,0,,,,357823578
+2,Sri Lanka,0,N Dickwella,L Ngidi,WU Tharanga,,0,1,1,,,,357823578
+2,Sri Lanka,1,N Dickwella,D Paterson,WU Tharanga,,0,0,0,,,,357823578
+2,Sri Lanka,1,N Dickwella,D Paterson,WU Tharanga,,0,1,1,,,,357823578
+2,Sri Lanka,1,WU Tharanga,D Paterson,N Dickwella,,0,0,0,,,,357823578
+2,Sri Lanka,1,WU Tharanga,D Paterson,N Dickwella,,0,0,0,,,,357823578
+2,Sri Lanka,1,WU Tharanga,D Paterson,N Dickwella,,0,4,4,,,,357823578
+2,Sri Lanka,1,WU Tharanga,D Paterson,N Dickwella,,0,4,4,,,,357823578
+2,Sri Lanka,2,N Dickwella,L Ngidi,WU Tharanga,,0,0,0,,,,357823578
+2,Sri Lanka,2,N Dickwella,L Ngidi,WU Tharanga,byes,1,1,0,,,,357823578
+2,Sri Lanka,2,WU Tharanga,L Ngidi,N Dickwella,,0,1,1,,,,357823578
+2,Sri Lanka,2,N Dickwella,L Ngidi,WU Tharanga,,0,4,4,,,,357823578
+2,Sri Lanka,2,N Dickwella,L Ngidi,WU Tharanga,,0,0,0,,,,357823578
+2,Sri Lanka,2,N Dickwella,L Ngidi,WU Tharanga,,0,0,0,,,,357823578
+2,Sri Lanka,3,WU Tharanga,D Paterson,N Dickwella,,0,1,1,,,,357823578
+2,Sri Lanka,3,N Dickwella,D Paterson,WU Tharanga,,0,0,0,,,,357823578
+2,Sri Lanka,3,N Dickwella,D Paterson,WU Tharanga,,0,1,1,,,,357823578
+2,Sri Lanka,3,WU Tharanga,D Paterson,N Dickwella,,0,4,4,,,,357823578
+2,Sri Lanka,3,WU Tharanga,D Paterson,N Dickwella,,0,4,4,,,,357823578
+2,Sri Lanka,3,WU Tharanga,D Paterson,N Dickwella,wides,1,1,0,,,,357823578
+2,Sri Lanka,3,WU Tharanga,D Paterson,N Dickwella,,0,1,1,,,,357823578
+2,Sri Lanka,4,WU Tharanga,WD Parnell,N Dickwella,,0,0,0,caught,WU Tharanga,F Behardien,357823578
+2,Sri Lanka,4,LD Chandimal,WD Parnell,N Dickwella,,0,0,0,,,,357823578
+2,Sri Lanka,4,LD Chandimal,WD Parnell,N Dickwella,,0,2,2,,,,357823578
+2,Sri Lanka,4,LD Chandimal,WD Parnell,N Dickwella,,0,2,2,,,,357823578
+2,Sri Lanka,4,LD Chandimal,WD Parnell,N Dickwella,,0,1,1,,,,357823578
+2,Sri Lanka,4,N Dickwella,WD Parnell,LD Chandimal,,0,4,4,,,,357823578
+2,Sri Lanka,5,LD Chandimal,Imran Tahir,N Dickwella,,0,0,0,bowled,LD Chandimal,,357823578
+2,Sri Lanka,5,DM de Silva,Imran Tahir,N Dickwella,,0,1,1,,,,357823578
+2,Sri Lanka,5,N Dickwella,Imran Tahir,DM de Silva,,0,1,1,,,,357823578
+2,Sri Lanka,5,DM de Silva,Imran Tahir,N Dickwella,,0,0,0,,,,357823578
+2,Sri Lanka,5,DM de Silva,Imran Tahir,N Dickwella,,0,0,0,,,,357823578
+2,Sri Lanka,5,DM de Silva,Imran Tahir,N Dickwella,,0,1,1,,,,357823578
+2,Sri Lanka,6,DM de Silva,WD Parnell,N Dickwella,,0,1,1,,,,357823578
+2,Sri Lanka,6,N Dickwella,WD Parnell,DM de Silva,,0,0,0,,,,357823578
+2,Sri Lanka,6,N Dickwella,WD Parnell,DM de Silva,,0,1,1,,,,357823578
+2,Sri Lanka,6,DM de Silva,WD Parnell,N Dickwella,,0,1,1,,,,357823578
+2,Sri Lanka,6,N Dickwella,WD Parnell,DM de Silva,,0,4,4,,,,357823578
+2,Sri Lanka,6,N Dickwella,WD Parnell,DM de Silva,,0,0,0,,,,357823578
+2,Sri Lanka,7,DM de Silva,Imran Tahir,N Dickwella,,0,0,0,,,,357823578
+2,Sri Lanka,7,DM de Silva,Imran Tahir,N Dickwella,,0,0,0,,,,357823578
+2,Sri Lanka,7,DM de Silva,Imran Tahir,N Dickwella,,0,2,2,,,,357823578
+2,Sri Lanka,7,DM de Silva,Imran Tahir,N Dickwella,,0,0,0,,,,357823578
+2,Sri Lanka,7,DM de Silva,Imran Tahir,N Dickwella,,0,2,2,,,,357823578
+2,Sri Lanka,7,DM de Silva,Imran Tahir,N Dickwella,,0,1,1,,,,357823578
+2,Sri Lanka,8,DM de Silva,AL Phehlukwayo,N Dickwella,legbyes,1,1,0,,,,357823578
+2,Sri Lanka,8,N Dickwella,AL Phehlukwayo,DM de Silva,,0,4,4,,,,357823578
+2,Sri Lanka,8,N Dickwella,AL Phehlukwayo,DM de Silva,,0,0,0,,,,357823578
+2,Sri Lanka,8,N Dickwella,AL Phehlukwayo,DM de Silva,,0,4,4,,,,357823578
+2,Sri Lanka,8,N Dickwella,AL Phehlukwayo,DM de Silva,,0,0,0,,,,357823578
+2,Sri Lanka,8,N Dickwella,AL Phehlukwayo,DM de Silva,,0,4,4,,,,357823578
+2,Sri Lanka,9,DM de Silva,Imran Tahir,N Dickwella,,0,1,1,,,,357823578
+2,Sri Lanka,9,N Dickwella,Imran Tahir,DM de Silva,,0,4,4,,,,357823578
+2,Sri Lanka,9,N Dickwella,Imran Tahir,DM de Silva,,0,0,0,,,,357823578
+2,Sri Lanka,9,N Dickwella,Imran Tahir,DM de Silva,,0,1,1,,,,357823578
+2,Sri Lanka,9,DM de Silva,Imran Tahir,N Dickwella,,0,1,1,,,,357823578
+2,Sri Lanka,9,N Dickwella,Imran Tahir,DM de Silva,,0,1,1,,,,357823578
+2,Sri Lanka,10,N Dickwella,AL Phehlukwayo,DM de Silva,,0,1,1,,,,357823578
+2,Sri Lanka,10,DM de Silva,AL Phehlukwayo,N Dickwella,,0,0,0,,,,357823578
+2,Sri Lanka,10,DM de Silva,AL Phehlukwayo,N Dickwella,,0,0,0,,,,357823578
+2,Sri Lanka,10,DM de Silva,AL Phehlukwayo,N Dickwella,,0,1,1,,,,357823578
+2,Sri Lanka,10,N Dickwella,AL Phehlukwayo,DM de Silva,,0,1,1,,,,357823578
+2,Sri Lanka,10,DM de Silva,AL Phehlukwayo,N Dickwella,,0,1,1,,,,357823578
+2,Sri Lanka,11,DM de Silva,JT Smuts,N Dickwella,,0,1,1,,,,357823578
+2,Sri Lanka,11,N Dickwella,JT Smuts,DM de Silva,,0,1,1,,,,357823578
+2,Sri Lanka,11,DM de Silva,JT Smuts,N Dickwella,,0,1,1,,,,357823578
+2,Sri Lanka,11,N Dickwella,JT Smuts,DM de Silva,,0,4,4,,,,357823578
+2,Sri Lanka,11,N Dickwella,JT Smuts,DM de Silva,,0,2,2,,,,357823578
+2,Sri Lanka,11,N Dickwella,JT Smuts,DM de Silva,,0,1,1,,,,357823578
+2,Sri Lanka,12,N Dickwella,WD Parnell,DM de Silva,,0,1,1,,,,357823578
+2,Sri Lanka,12,DM de Silva,WD Parnell,N Dickwella,,0,1,1,,,,357823578
+2,Sri Lanka,12,N Dickwella,WD Parnell,DM de Silva,,0,2,2,,,,357823578
+2,Sri Lanka,12,N Dickwella,WD Parnell,DM de Silva,,0,2,2,,,,357823578
+2,Sri Lanka,12,N Dickwella,WD Parnell,DM de Silva,,0,0,0,,,,357823578
+2,Sri Lanka,12,N Dickwella,WD Parnell,DM de Silva,,0,1,1,,,,357823578
+2,Sri Lanka,13,N Dickwella,JT Smuts,DM de Silva,,0,0,0,,,,357823578
+2,Sri Lanka,13,N Dickwella,JT Smuts,DM de Silva,,0,4,4,,,,357823578
+2,Sri Lanka,13,N Dickwella,JT Smuts,DM de Silva,,0,6,6,,,,357823578
+2,Sri Lanka,13,N Dickwella,JT Smuts,DM de Silva,,0,1,1,,,,357823578
+2,Sri Lanka,13,DM de Silva,JT Smuts,N Dickwella,,0,1,1,,,,357823578
+2,Sri Lanka,13,N Dickwella,JT Smuts,DM de Silva,,0,0,0,,,,357823578
+2,Sri Lanka,14,DM de Silva,AL Phehlukwayo,N Dickwella,,0,1,1,,,,357823578
+2,Sri Lanka,14,N Dickwella,AL Phehlukwayo,DM de Silva,,0,0,0,,,,357823578
+2,Sri Lanka,14,N Dickwella,AL Phehlukwayo,DM de Silva,,0,0,0,,,,357823578
+2,Sri Lanka,14,N Dickwella,AL Phehlukwayo,DM de Silva,,0,0,0,,,,357823578
+2,Sri Lanka,14,N Dickwella,AL Phehlukwayo,DM de Silva,byes,1,1,0,,,,357823578
+2,Sri Lanka,14,DM de Silva,AL Phehlukwayo,N Dickwella,,0,0,0,,,,357823578
+2,Sri Lanka,15,N Dickwella,Imran Tahir,DM de Silva,,0,0,0,,,,357823578
+2,Sri Lanka,15,N Dickwella,Imran Tahir,DM de Silva,,0,0,0,caught,N Dickwella,F Behardien,357823578
+2,Sri Lanka,15,DM de Silva,Imran Tahir,S Prasanna,,0,1,1,,,,357823578
+2,Sri Lanka,15,S Prasanna,Imran Tahir,DM de Silva,,0,1,1,,,,357823578
+2,Sri Lanka,15,DM de Silva,Imran Tahir,S Prasanna,,0,0,0,stumped,DM de Silva,M Mosehle,357823578
+2,Sri Lanka,15,BKG Mendis,Imran Tahir,S Prasanna,,0,0,0,,,,357823578
+2,Sri Lanka,16,S Prasanna,WD Parnell,BKG Mendis,,0,1,1,,,,357823578
+2,Sri Lanka,16,BKG Mendis,WD Parnell,S Prasanna,,0,1,1,,,,357823578
+2,Sri Lanka,16,S Prasanna,WD Parnell,BKG Mendis,,0,0,0,,,,357823578
+2,Sri Lanka,16,S Prasanna,WD Parnell,BKG Mendis,,0,4,4,,,,357823578
+2,Sri Lanka,16,S Prasanna,WD Parnell,BKG Mendis,,0,6,6,,,,357823578
+2,Sri Lanka,16,S Prasanna,WD Parnell,BKG Mendis,wides,1,1,0,,,,357823578
+2,Sri Lanka,16,S Prasanna,WD Parnell,BKG Mendis,,0,6,6,,,,357823578
+2,Sri Lanka,17,BKG Mendis,D Paterson,S Prasanna,,0,1,1,,,,357823578
+2,Sri Lanka,17,S Prasanna,D Paterson,BKG Mendis,,0,4,4,,,,357823578
+2,Sri Lanka,17,S Prasanna,D Paterson,BKG Mendis,,0,0,0,run out,BKG Mendis,D Paterson,357823578
+2,Sri Lanka,17,DAS Gunaratne,D Paterson,S Prasanna,legbyes,1,1,0,,,,357823578
+2,Sri Lanka,17,S Prasanna,D Paterson,DAS Gunaratne,,0,0,0,,,,357823578
+2,Sri Lanka,17,S Prasanna,D Paterson,DAS Gunaratne,,0,1,1,,,,357823578
+2,Sri Lanka,18,S Prasanna,AL Phehlukwayo,DAS Gunaratne,,0,3,3,,,,357823578
+2,Sri Lanka,18,DAS Gunaratne,AL Phehlukwayo,S Prasanna,,0,1,1,,,,357823578
+2,Sri Lanka,18,S Prasanna,AL Phehlukwayo,DAS Gunaratne,,0,6,6,,,,357823578
+2,Sri Lanka,18,S Prasanna,AL Phehlukwayo,DAS Gunaratne,wides,1,1,0,,,,357823578
+2,Sri Lanka,18,S Prasanna,AL Phehlukwayo,DAS Gunaratne,,0,0,0,,,,357823578
+2,Sri Lanka,18,S Prasanna,AL Phehlukwayo,DAS Gunaratne,,0,0,0,,,,357823578
+2,Sri Lanka,18,S Prasanna,AL Phehlukwayo,DAS Gunaratne,,0,4,4,,,,357823578
+2,Sri Lanka,19,DAS Gunaratne,D Paterson,S Prasanna,,0,4,4,,,,357823578
+2,Sri Lanka,19,DAS Gunaratne,D Paterson,S Prasanna,,0,1,1,,,,357823578
+2,Sri Lanka,19,S Prasanna,D Paterson,DAS Gunaratne,,0,1,1,,,,357823578
+2,Sri Lanka,19,DAS Gunaratne,D Paterson,S Prasanna,,0,4,4,,,,357823578
+2,Sri Lanka,19,DAS Gunaratne,D Paterson,S Prasanna,,0,1,1,,,,357823578

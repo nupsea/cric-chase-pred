@@ -1,0 +1,104 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,England,0,JJ Roy,B Kumar,JC Buttler,,0,0,0,caught,JJ Roy,RG Sharma,31727231727
+2,England,0,DJ Malan,B Kumar,JC Buttler,,0,0,0,,,,31727231727
+2,England,0,DJ Malan,B Kumar,JC Buttler,,0,0,0,,,,31727231727
+2,England,0,DJ Malan,B Kumar,JC Buttler,,0,0,0,,,,31727231727
+2,England,0,DJ Malan,B Kumar,JC Buttler,,0,0,0,,,,31727231727
+2,England,0,DJ Malan,B Kumar,JC Buttler,,0,0,0,,,,31727231727
+2,England,1,JC Buttler,JJ Bumrah,DJ Malan,,0,1,1,,,,31727231727
+2,England,1,DJ Malan,JJ Bumrah,JC Buttler,,0,1,1,,,,31727231727
+2,England,1,JC Buttler,JJ Bumrah,DJ Malan,,0,1,1,,,,31727231727
+2,England,1,DJ Malan,JJ Bumrah,JC Buttler,,0,4,4,,,,31727231727
+2,England,1,DJ Malan,JJ Bumrah,JC Buttler,,0,1,1,,,,31727231727
+2,England,1,JC Buttler,JJ Bumrah,DJ Malan,,0,0,0,,,,31727231727
+2,England,2,DJ Malan,B Kumar,JC Buttler,,0,1,1,,,,31727231727
+2,England,2,JC Buttler,B Kumar,DJ Malan,,0,2,2,,,,31727231727
+2,England,2,JC Buttler,B Kumar,DJ Malan,,0,0,0,caught,JC Buttler,RR Pant,31727231727
+2,England,2,LS Livingstone,B Kumar,DJ Malan,,0,4,4,,,,31727231727
+2,England,2,LS Livingstone,B Kumar,DJ Malan,,0,4,4,,,,31727231727
+2,England,2,LS Livingstone,B Kumar,DJ Malan,,0,0,0,,,,31727231727
+2,England,3,DJ Malan,HH Pandya,LS Livingstone,,0,1,1,,,,31727231727
+2,England,3,LS Livingstone,HH Pandya,DJ Malan,,0,2,2,,,,31727231727
+2,England,3,LS Livingstone,HH Pandya,DJ Malan,,0,0,0,,,,31727231727
+2,England,3,LS Livingstone,HH Pandya,DJ Malan,,0,4,4,,,,31727231727
+2,England,3,LS Livingstone,HH Pandya,DJ Malan,,0,0,0,,,,31727231727
+2,England,3,LS Livingstone,HH Pandya,DJ Malan,,0,1,1,,,,31727231727
+2,England,4,LS Livingstone,JJ Bumrah,DJ Malan,,0,0,0,bowled,LS Livingstone,,31727231727
+2,England,4,HC Brook,JJ Bumrah,DJ Malan,,0,0,0,,,,31727231727
+2,England,4,HC Brook,JJ Bumrah,DJ Malan,,0,0,0,,,,31727231727
+2,England,4,HC Brook,JJ Bumrah,DJ Malan,,0,0,0,,,,31727231727
+2,England,4,HC Brook,JJ Bumrah,DJ Malan,,0,0,0,,,,31727231727
+2,England,4,HC Brook,JJ Bumrah,DJ Malan,,0,0,0,,,,31727231727
+2,England,5,DJ Malan,HV Patel,HC Brook,,0,0,0,,,,31727231727
+2,England,5,DJ Malan,HV Patel,HC Brook,,0,0,0,,,,31727231727
+2,England,5,DJ Malan,HV Patel,HC Brook,,0,4,4,,,,31727231727
+2,England,5,DJ Malan,HV Patel,HC Brook,,0,0,0,,,,31727231727
+2,England,5,DJ Malan,HV Patel,HC Brook,,0,1,1,,,,31727231727
+2,England,5,HC Brook,HV Patel,DJ Malan,,0,4,4,,,,31727231727
+2,England,6,DJ Malan,YS Chahal,HC Brook,,0,1,1,,,,31727231727
+2,England,6,HC Brook,YS Chahal,DJ Malan,,0,4,4,,,,31727231727
+2,England,6,HC Brook,YS Chahal,DJ Malan,,0,0,0,,,,31727231727
+2,England,6,HC Brook,YS Chahal,DJ Malan,,0,0,0,caught,HC Brook,SA Yadav,31727231727
+2,England,6,DJ Malan,YS Chahal,MM Ali,,0,0,0,,,,31727231727
+2,England,6,DJ Malan,YS Chahal,MM Ali,,0,1,1,,,,31727231727
+2,England,7,DJ Malan,HH Pandya,MM Ali,,0,0,0,,,,31727231727
+2,England,7,DJ Malan,HH Pandya,MM Ali,,0,1,1,,,,31727231727
+2,England,7,MM Ali,HH Pandya,DJ Malan,,0,1,1,,,,31727231727
+2,England,7,DJ Malan,HH Pandya,MM Ali,,0,1,1,,,,31727231727
+2,England,7,MM Ali,HH Pandya,DJ Malan,legbyes,1,1,0,,,,31727231727
+2,England,7,DJ Malan,HH Pandya,MM Ali,,0,0,0,,,,31727231727
+2,England,8,MM Ali,HV Patel,DJ Malan,,0,0,0,,,,31727231727
+2,England,8,MM Ali,HV Patel,DJ Malan,,0,4,4,,,,31727231727
+2,England,8,MM Ali,HV Patel,DJ Malan,,0,1,1,,,,31727231727
+2,England,8,DJ Malan,HV Patel,MM Ali,,0,1,1,,,,31727231727
+2,England,8,MM Ali,HV Patel,DJ Malan,wides,1,1,0,,,,31727231727
+2,England,8,MM Ali,HV Patel,DJ Malan,,0,1,1,,,,31727231727
+2,England,8,DJ Malan,HV Patel,MM Ali,,0,1,1,,,,31727231727
+2,England,9,DJ Malan,YS Chahal,MM Ali,,0,0,0,caught,DJ Malan,HV Patel,31727231727
+2,England,9,SM Curran,YS Chahal,MM Ali,,0,0,0,,,,31727231727
+2,England,9,SM Curran,YS Chahal,MM Ali,,0,1,1,,,,31727231727
+2,England,9,MM Ali,YS Chahal,SM Curran,,0,1,1,,,,31727231727
+2,England,9,SM Curran,YS Chahal,MM Ali,,0,1,1,,,,31727231727
+2,England,9,MM Ali,YS Chahal,SM Curran,,0,1,1,,,,31727231727
+2,England,10,MM Ali,JJ Bumrah,SM Curran,,0,1,1,,,,31727231727
+2,England,10,SM Curran,JJ Bumrah,MM Ali,,0,0,0,caught,SM Curran,HH Pandya,31727231727
+2,England,10,MM Ali,JJ Bumrah,DJ Willey,,0,1,1,,,,31727231727
+2,England,10,DJ Willey,JJ Bumrah,MM Ali,,0,0,0,,,,31727231727
+2,England,10,DJ Willey,JJ Bumrah,MM Ali,,0,0,0,,,,31727231727
+2,England,10,DJ Willey,JJ Bumrah,MM Ali,,0,0,0,,,,31727231727
+2,England,11,MM Ali,RA Jadeja,DJ Willey,,0,1,1,,,,31727231727
+2,England,11,DJ Willey,RA Jadeja,MM Ali,,0,0,0,,,,31727231727
+2,England,11,DJ Willey,RA Jadeja,MM Ali,,0,1,1,,,,31727231727
+2,England,11,MM Ali,RA Jadeja,DJ Willey,,0,1,1,,,,31727231727
+2,England,11,DJ Willey,RA Jadeja,MM Ali,,0,1,1,,,,31727231727
+2,England,11,MM Ali,RA Jadeja,DJ Willey,,0,4,4,,,,31727231727
+2,England,12,DJ Willey,HV Patel,MM Ali,,0,0,0,,,,31727231727
+2,England,12,DJ Willey,HV Patel,MM Ali,,0,0,0,,,,31727231727
+2,England,12,DJ Willey,HV Patel,MM Ali,,0,1,1,,,,31727231727
+2,England,12,MM Ali,HV Patel,DJ Willey,,0,0,0,,,,31727231727
+2,England,12,MM Ali,HV Patel,DJ Willey,,0,0,0,,,,31727231727
+2,England,12,MM Ali,HV Patel,DJ Willey,,0,4,4,,,,31727231727
+2,England,13,DJ Willey,RA Jadeja,MM Ali,,0,1,1,,,,31727231727
+2,England,13,MM Ali,RA Jadeja,DJ Willey,,0,1,1,,,,31727231727
+2,England,13,DJ Willey,RA Jadeja,MM Ali,,0,4,4,,,,31727231727
+2,England,13,DJ Willey,RA Jadeja,MM Ali,,0,1,1,,,,31727231727
+2,England,13,MM Ali,RA Jadeja,DJ Willey,,0,6,6,,,,31727231727
+2,England,13,MM Ali,RA Jadeja,DJ Willey,,0,1,1,,,,31727231727
+2,England,14,MM Ali,HH Pandya,DJ Willey,,0,6,6,,,,31727231727
+2,England,14,MM Ali,HH Pandya,DJ Willey,,0,0,0,caught,MM Ali,RG Sharma,31727231727
+2,England,14,CJ Jordan,HH Pandya,DJ Willey,,0,1,1,run out,CJ Jordan,YS Chahal,31727231727
+2,England,14,DJ Willey,HH Pandya,RJ Gleeson,,0,4,4,,,,31727231727
+2,England,14,DJ Willey,HH Pandya,RJ Gleeson,,0,6,6,,,,31727231727
+2,England,14,DJ Willey,HH Pandya,RJ Gleeson,,0,1,1,,,,31727231727
+2,England,15,DJ Willey,B Kumar,RJ Gleeson,,0,1,1,,,,31727231727
+2,England,15,RJ Gleeson,B Kumar,DJ Willey,,0,2,2,,,,31727231727
+2,England,15,RJ Gleeson,B Kumar,DJ Willey,,0,0,0,,,,31727231727
+2,England,15,RJ Gleeson,B Kumar,DJ Willey,,0,0,0,caught,RJ Gleeson,V Kohli,31727231727
+2,England,15,DJ Willey,B Kumar,MW Parkinson,,0,1,1,,,,31727231727
+2,England,15,MW Parkinson,B Kumar,DJ Willey,,0,0,0,,,,31727231727
+2,England,16,DJ Willey,HV Patel,MW Parkinson,,0,6,6,,,,31727231727
+2,England,16,DJ Willey,HV Patel,MW Parkinson,,0,4,4,,,,31727231727
+2,England,16,DJ Willey,HV Patel,MW Parkinson,,0,0,0,,,,31727231727
+2,England,16,DJ Willey,HV Patel,MW Parkinson,,0,0,0,,,,31727231727
+2,England,16,DJ Willey,HV Patel,MW Parkinson,,0,1,1,,,,31727231727
+2,England,16,MW Parkinson,HV Patel,DJ Willey,,0,0,0,bowled,MW Parkinson,,31727231727

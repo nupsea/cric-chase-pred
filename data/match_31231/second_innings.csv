@@ -1,0 +1,91 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Australia,0,AC Gilchrist,D Gough,ML Hayden,,0,0,0,,,,31231
+2,Australia,0,AC Gilchrist,D Gough,ML Hayden,,0,4,4,,,,31231
+2,Australia,0,AC Gilchrist,D Gough,ML Hayden,,0,0,0,,,,31231
+2,Australia,0,AC Gilchrist,D Gough,ML Hayden,,0,0,0,,,,31231
+2,Australia,0,AC Gilchrist,D Gough,ML Hayden,,0,4,4,,,,31231
+2,Australia,0,AC Gilchrist,D Gough,ML Hayden,,0,0,0,,,,31231
+2,Australia,1,ML Hayden,J Lewis,AC Gilchrist,,0,4,4,,,,31231
+2,Australia,1,ML Hayden,J Lewis,AC Gilchrist,,0,1,1,,,,31231
+2,Australia,1,AC Gilchrist,J Lewis,ML Hayden,,0,0,0,,,,31231
+2,Australia,1,AC Gilchrist,J Lewis,ML Hayden,,0,0,0,,,,31231
+2,Australia,1,AC Gilchrist,J Lewis,ML Hayden,,0,4,4,,,,31231
+2,Australia,1,AC Gilchrist,J Lewis,ML Hayden,,0,1,1,,,,31231
+2,Australia,2,AC Gilchrist,D Gough,ML Hayden,legbyes,1,1,0,,,,31231
+2,Australia,2,ML Hayden,D Gough,AC Gilchrist,,0,1,1,,,,31231
+2,Australia,2,AC Gilchrist,D Gough,ML Hayden,noballs,1,1,0,,,,31231
+2,Australia,2,AC Gilchrist,D Gough,ML Hayden,,0,2,2,,,,31231
+2,Australia,2,AC Gilchrist,D Gough,ML Hayden,,0,0,0,caught,AC Gilchrist,KP Pietersen,31231
+2,Australia,2,ML Hayden,D Gough,A Symonds,,0,0,0,caught,ML Hayden,KP Pietersen,31231
+2,Australia,2,A Symonds,D Gough,MJ Clarke,,0,0,0,,,,31231
+2,Australia,3,MJ Clarke,J Lewis,A Symonds,,0,0,0,caught,MJ Clarke,GO Jones,31231
+2,Australia,3,MEK Hussey,J Lewis,A Symonds,,0,0,0,,,,31231
+2,Australia,3,MEK Hussey,J Lewis,A Symonds,,0,1,1,,,,31231
+2,Australia,3,A Symonds,J Lewis,MEK Hussey,,0,0,0,caught,A Symonds,KP Pietersen,31231
+2,Australia,3,RT Ponting,J Lewis,MEK Hussey,,0,0,0,,,,31231
+2,Australia,3,RT Ponting,J Lewis,MEK Hussey,,0,0,0,,,,31231
+2,Australia,4,MEK Hussey,D Gough,RT Ponting,,0,0,0,,,,31231
+2,Australia,4,MEK Hussey,D Gough,RT Ponting,,0,0,0,,,,31231
+2,Australia,4,MEK Hussey,D Gough,RT Ponting,,0,0,0,,,,31231
+2,Australia,4,MEK Hussey,D Gough,RT Ponting,,0,0,0,caught,MEK Hussey,A Flintoff,31231
+2,Australia,4,DR Martyn,D Gough,RT Ponting,,0,0,0,,,,31231
+2,Australia,4,DR Martyn,D Gough,RT Ponting,,0,4,4,,,,31231
+2,Australia,5,RT Ponting,J Lewis,DR Martyn,,0,0,0,caught,RT Ponting,VS Solanki,31231
+2,Australia,5,B Lee,J Lewis,DR Martyn,,0,0,0,,,,31231
+2,Australia,5,B Lee,J Lewis,DR Martyn,,0,3,3,,,,31231
+2,Australia,5,DR Martyn,J Lewis,B Lee,,0,0,0,,,,31231
+2,Australia,5,DR Martyn,J Lewis,B Lee,,0,0,0,caught,DR Martyn,ME Trescothick,31231
+2,Australia,5,JN Gillespie,J Lewis,B Lee,,0,0,0,,,,31231
+2,Australia,6,B Lee,SJ Harmison,JN Gillespie,,0,0,0,,,,31231
+2,Australia,6,B Lee,SJ Harmison,JN Gillespie,,0,1,1,,,,31231
+2,Australia,6,JN Gillespie,SJ Harmison,B Lee,noballs,1,1,0,,,,31231
+2,Australia,6,JN Gillespie,SJ Harmison,B Lee,,0,1,1,,,,31231
+2,Australia,6,B Lee,SJ Harmison,JN Gillespie,,0,4,4,,,,31231
+2,Australia,6,B Lee,SJ Harmison,JN Gillespie,,0,1,1,,,,31231
+2,Australia,6,JN Gillespie,SJ Harmison,B Lee,,0,0,0,,,,31231
+2,Australia,7,B Lee,J Lewis,JN Gillespie,,0,2,2,,,,31231
+2,Australia,7,B Lee,J Lewis,JN Gillespie,,0,1,1,,,,31231
+2,Australia,7,JN Gillespie,J Lewis,B Lee,,0,0,0,,,,31231
+2,Australia,7,JN Gillespie,J Lewis,B Lee,,0,4,4,,,,31231
+2,Australia,7,JN Gillespie,J Lewis,B Lee,,0,0,0,,,,31231
+2,Australia,7,JN Gillespie,J Lewis,B Lee,,0,3,3,,,,31231
+2,Australia,8,JN Gillespie,SJ Harmison,B Lee,,0,4,4,,,,31231
+2,Australia,8,JN Gillespie,SJ Harmison,B Lee,,0,0,0,,,,31231
+2,Australia,8,JN Gillespie,SJ Harmison,B Lee,,0,0,0,,,,31231
+2,Australia,8,JN Gillespie,SJ Harmison,B Lee,,0,1,1,,,,31231
+2,Australia,8,B Lee,SJ Harmison,JN Gillespie,,0,0,0,,,,31231
+2,Australia,8,B Lee,SJ Harmison,JN Gillespie,,0,0,0,,,,31231
+2,Australia,9,JN Gillespie,A Flintoff,B Lee,,0,4,4,,,,31231
+2,Australia,9,JN Gillespie,A Flintoff,B Lee,,0,4,4,,,,31231
+2,Australia,9,JN Gillespie,A Flintoff,B Lee,,0,1,1,,,,31231
+2,Australia,9,B Lee,A Flintoff,JN Gillespie,,0,1,1,,,,31231
+2,Australia,9,JN Gillespie,A Flintoff,B Lee,,0,1,1,,,,31231
+2,Australia,9,B Lee,A Flintoff,JN Gillespie,,0,0,0,,,,31231
+2,Australia,10,JN Gillespie,PD Collingwood,B Lee,,0,1,1,,,,31231
+2,Australia,10,B Lee,PD Collingwood,JN Gillespie,byes,1,1,0,,,,31231
+2,Australia,10,JN Gillespie,PD Collingwood,B Lee,,0,0,0,caught,JN Gillespie,ME Trescothick,31231
+2,Australia,10,B Lee,PD Collingwood,MS Kasprowicz,,0,1,1,,,,31231
+2,Australia,10,MS Kasprowicz,PD Collingwood,B Lee,,0,0,0,,,,31231
+2,Australia,10,MS Kasprowicz,PD Collingwood,B Lee,,0,0,0,,,,31231
+2,Australia,11,B Lee,A Flintoff,MS Kasprowicz,,0,0,0,,,,31231
+2,Australia,11,B Lee,A Flintoff,MS Kasprowicz,,0,0,0,,,,31231
+2,Australia,11,B Lee,A Flintoff,MS Kasprowicz,,0,0,0,,,,31231
+2,Australia,11,B Lee,A Flintoff,MS Kasprowicz,legbyes,1,1,0,,,,31231
+2,Australia,11,MS Kasprowicz,A Flintoff,B Lee,wides,1,1,0,,,,31231
+2,Australia,11,MS Kasprowicz,A Flintoff,B Lee,,0,1,1,,,,31231
+2,Australia,11,B Lee,A Flintoff,MS Kasprowicz,,0,1,1,,,,31231
+2,Australia,12,B Lee,PD Collingwood,MS Kasprowicz,,0,0,0,caught,B Lee,SJ Harmison,31231
+2,Australia,12,MS Kasprowicz,PD Collingwood,GD McGrath,,0,1,1,,,,31231
+2,Australia,12,GD McGrath,PD Collingwood,MS Kasprowicz,,0,0,0,,,,31231
+2,Australia,12,GD McGrath,PD Collingwood,MS Kasprowicz,,0,3,3,,,,31231
+2,Australia,12,MS Kasprowicz,PD Collingwood,GD McGrath,,0,1,1,,,,31231
+2,Australia,12,GD McGrath,PD Collingwood,MS Kasprowicz,,0,1,1,,,,31231
+2,Australia,13,GD McGrath,A Flintoff,MS Kasprowicz,,0,0,0,,,,31231
+2,Australia,13,GD McGrath,A Flintoff,MS Kasprowicz,,0,0,0,,,,31231
+2,Australia,13,GD McGrath,A Flintoff,MS Kasprowicz,,0,0,0,,,,31231
+2,Australia,13,GD McGrath,A Flintoff,MS Kasprowicz,,0,0,0,,,,31231
+2,Australia,13,GD McGrath,A Flintoff,MS Kasprowicz,,0,0,0,,,,31231
+2,Australia,13,GD McGrath,A Flintoff,MS Kasprowicz,,0,1,1,,,,31231
+2,Australia,14,GD McGrath,SJ Harmison,MS Kasprowicz,,0,0,0,,,,31231
+2,Australia,14,GD McGrath,SJ Harmison,MS Kasprowicz,,0,0,0,,,,31231
+2,Australia,14,GD McGrath,SJ Harmison,MS Kasprowicz,,0,0,0,bowled,GD McGrath,,31231

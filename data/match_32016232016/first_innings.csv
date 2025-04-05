@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Zimbabwe,0,RW Chakabva,R Trumpelmann,W Madhevere,,0,0,0,,,,32016232016
+1,Zimbabwe,0,RW Chakabva,R Trumpelmann,W Madhevere,wides,1,1,0,,,,32016232016
+1,Zimbabwe,0,RW Chakabva,R Trumpelmann,W Madhevere,,0,1,1,,,,32016232016
+1,Zimbabwe,0,W Madhevere,R Trumpelmann,RW Chakabva,,0,0,0,,,,32016232016
+1,Zimbabwe,0,W Madhevere,R Trumpelmann,RW Chakabva,legbyes,1,1,0,,,,32016232016
+1,Zimbabwe,0,RW Chakabva,R Trumpelmann,W Madhevere,,0,1,1,,,,32016232016
+1,Zimbabwe,0,W Madhevere,R Trumpelmann,RW Chakabva,,0,1,1,,,,32016232016
+1,Zimbabwe,1,W Madhevere,D Wiese,RW Chakabva,,0,1,1,,,,32016232016
+1,Zimbabwe,1,RW Chakabva,D Wiese,W Madhevere,,0,0,0,,,,32016232016
+1,Zimbabwe,1,RW Chakabva,D Wiese,W Madhevere,,0,0,0,,,,32016232016
+1,Zimbabwe,1,RW Chakabva,D Wiese,W Madhevere,,0,1,1,,,,32016232016
+1,Zimbabwe,1,W Madhevere,D Wiese,RW Chakabva,,0,4,4,,,,32016232016
+1,Zimbabwe,1,W Madhevere,D Wiese,RW Chakabva,,0,4,4,,,,32016232016
+1,Zimbabwe,2,RW Chakabva,R Trumpelmann,W Madhevere,,0,2,2,,,,32016232016
+1,Zimbabwe,2,RW Chakabva,R Trumpelmann,W Madhevere,,0,1,1,,,,32016232016
+1,Zimbabwe,2,W Madhevere,R Trumpelmann,RW Chakabva,,0,1,1,,,,32016232016
+1,Zimbabwe,2,RW Chakabva,R Trumpelmann,W Madhevere,,0,0,0,,,,32016232016
+1,Zimbabwe,2,RW Chakabva,R Trumpelmann,W Madhevere,,0,1,1,,,,32016232016
+1,Zimbabwe,2,W Madhevere,R Trumpelmann,RW Chakabva,,0,4,4,,,,32016232016
+1,Zimbabwe,3,RW Chakabva,T Lungameni,W Madhevere,,0,0,0,,,,32016232016
+1,Zimbabwe,3,RW Chakabva,T Lungameni,W Madhevere,,0,0,0,,,,32016232016
+1,Zimbabwe,3,RW Chakabva,T Lungameni,W Madhevere,,0,1,1,,,,32016232016
+1,Zimbabwe,3,W Madhevere,T Lungameni,RW Chakabva,,0,0,0,,,,32016232016
+1,Zimbabwe,3,W Madhevere,T Lungameni,RW Chakabva,,0,4,4,,,,32016232016
+1,Zimbabwe,3,W Madhevere,T Lungameni,RW Chakabva,,0,4,4,,,,32016232016
+1,Zimbabwe,4,RW Chakabva,BM Scholtz,W Madhevere,,0,1,1,,,,32016232016
+1,Zimbabwe,4,W Madhevere,BM Scholtz,RW Chakabva,,0,0,0,caught,W Madhevere,MG Erasmus,32016232016
+1,Zimbabwe,4,RW Chakabva,BM Scholtz,CR Ervine,,0,1,1,,,,32016232016
+1,Zimbabwe,4,CR Ervine,BM Scholtz,RW Chakabva,,0,1,1,,,,32016232016
+1,Zimbabwe,4,RW Chakabva,BM Scholtz,CR Ervine,,0,0,0,,,,32016232016
+1,Zimbabwe,4,RW Chakabva,BM Scholtz,CR Ervine,,0,0,0,,,,32016232016
+1,Zimbabwe,5,CR Ervine,JN Frylinck,RW Chakabva,,0,0,0,,,,32016232016
+1,Zimbabwe,5,CR Ervine,JN Frylinck,RW Chakabva,,0,1,1,,,,32016232016
+1,Zimbabwe,5,RW Chakabva,JN Frylinck,CR Ervine,,0,4,4,,,,32016232016
+1,Zimbabwe,5,RW Chakabva,JN Frylinck,CR Ervine,,0,1,1,,,,32016232016
+1,Zimbabwe,5,CR Ervine,JN Frylinck,RW Chakabva,,0,0,0,,,,32016232016
+1,Zimbabwe,5,CR Ervine,JN Frylinck,RW Chakabva,,0,2,2,,,,32016232016
+1,Zimbabwe,6,RW Chakabva,BM Scholtz,CR Ervine,,0,0,0,,,,32016232016
+1,Zimbabwe,6,RW Chakabva,BM Scholtz,CR Ervine,,0,0,0,bowled,RW Chakabva,,32016232016
+1,Zimbabwe,6,Sikandar Raza,BM Scholtz,CR Ervine,,0,2,2,,,,32016232016
+1,Zimbabwe,6,Sikandar Raza,BM Scholtz,CR Ervine,,0,0,0,,,,32016232016
+1,Zimbabwe,6,Sikandar Raza,BM Scholtz,CR Ervine,,0,0,0,,,,32016232016
+1,Zimbabwe,6,Sikandar Raza,BM Scholtz,CR Ervine,,0,0,0,,,,32016232016
+1,Zimbabwe,7,CR Ervine,HN Ya France,Sikandar Raza,,0,0,0,,,,32016232016
+1,Zimbabwe,7,CR Ervine,HN Ya France,Sikandar Raza,,0,0,0,,,,32016232016
+1,Zimbabwe,7,CR Ervine,HN Ya France,Sikandar Raza,,0,1,1,,,,32016232016
+1,Zimbabwe,7,Sikandar Raza,HN Ya France,CR Ervine,,0,4,4,,,,32016232016
+1,Zimbabwe,7,Sikandar Raza,HN Ya France,CR Ervine,wides,1,1,0,,,,32016232016
+1,Zimbabwe,7,Sikandar Raza,HN Ya France,CR Ervine,,0,1,1,,,,32016232016
+1,Zimbabwe,7,CR Ervine,HN Ya France,Sikandar Raza,,0,1,1,,,,32016232016
+1,Zimbabwe,8,CR Ervine,BM Scholtz,Sikandar Raza,,0,1,1,,,,32016232016
+1,Zimbabwe,8,Sikandar Raza,BM Scholtz,CR Ervine,,0,1,1,,,,32016232016
+1,Zimbabwe,8,CR Ervine,BM Scholtz,Sikandar Raza,,0,0,0,,,,32016232016
+1,Zimbabwe,8,CR Ervine,BM Scholtz,Sikandar Raza,,0,0,0,,,,32016232016
+1,Zimbabwe,8,CR Ervine,BM Scholtz,Sikandar Raza,,0,0,0,,,,32016232016
+1,Zimbabwe,8,CR Ervine,BM Scholtz,Sikandar Raza,,0,2,2,,,,32016232016
+1,Zimbabwe,9,Sikandar Raza,JN Frylinck,CR Ervine,,0,0,0,,,,32016232016
+1,Zimbabwe,9,Sikandar Raza,JN Frylinck,CR Ervine,,0,0,0,,,,32016232016
+1,Zimbabwe,9,Sikandar Raza,JN Frylinck,CR Ervine,,0,1,1,,,,32016232016
+1,Zimbabwe,9,CR Ervine,JN Frylinck,Sikandar Raza,,0,0,0,,,,32016232016
+1,Zimbabwe,9,CR Ervine,JN Frylinck,Sikandar Raza,,0,1,1,,,,32016232016
+1,Zimbabwe,9,Sikandar Raza,JN Frylinck,CR Ervine,,0,1,1,,,,32016232016
+1,Zimbabwe,10,Sikandar Raza,BM Scholtz,CR Ervine,,0,1,1,,,,32016232016
+1,Zimbabwe,10,CR Ervine,BM Scholtz,Sikandar Raza,,0,6,6,,,,32016232016
+1,Zimbabwe,10,CR Ervine,BM Scholtz,Sikandar Raza,legbyes,1,1,0,,,,32016232016
+1,Zimbabwe,10,Sikandar Raza,BM Scholtz,CR Ervine,,0,0,0,,,,32016232016
+1,Zimbabwe,10,Sikandar Raza,BM Scholtz,CR Ervine,,0,1,1,,,,32016232016
+1,Zimbabwe,10,CR Ervine,BM Scholtz,Sikandar Raza,,0,2,2,,,,32016232016
+1,Zimbabwe,11,Sikandar Raza,D la Cock,CR Ervine,,0,1,1,,,,32016232016
+1,Zimbabwe,11,CR Ervine,D la Cock,Sikandar Raza,,0,1,1,,,,32016232016
+1,Zimbabwe,11,Sikandar Raza,D la Cock,CR Ervine,,0,6,6,,,,32016232016
+1,Zimbabwe,11,Sikandar Raza,D la Cock,CR Ervine,,0,1,1,,,,32016232016
+1,Zimbabwe,11,CR Ervine,D la Cock,Sikandar Raza,,0,1,1,,,,32016232016
+1,Zimbabwe,11,Sikandar Raza,D la Cock,CR Ervine,,0,1,1,,,,32016232016
+1,Zimbabwe,12,Sikandar Raza,T Lungameni,CR Ervine,,0,1,1,,,,32016232016
+1,Zimbabwe,12,CR Ervine,T Lungameni,Sikandar Raza,,0,1,1,,,,32016232016
+1,Zimbabwe,12,Sikandar Raza,T Lungameni,CR Ervine,,0,1,1,,,,32016232016
+1,Zimbabwe,12,CR Ervine,T Lungameni,Sikandar Raza,wides,2,2,0,,,,32016232016
+1,Zimbabwe,12,Sikandar Raza,T Lungameni,CR Ervine,,0,2,2,,,,32016232016
+1,Zimbabwe,12,Sikandar Raza,T Lungameni,CR Ervine,,0,1,1,,,,32016232016
+1,Zimbabwe,12,CR Ervine,T Lungameni,Sikandar Raza,,0,4,4,,,,32016232016
+1,Zimbabwe,13,Sikandar Raza,D Wiese,CR Ervine,,0,4,4,,,,32016232016
+1,Zimbabwe,13,Sikandar Raza,D Wiese,CR Ervine,,0,1,1,,,,32016232016
+1,Zimbabwe,13,CR Ervine,D Wiese,Sikandar Raza,,0,1,1,,,,32016232016
+1,Zimbabwe,13,Sikandar Raza,D Wiese,CR Ervine,,0,2,2,,,,32016232016
+1,Zimbabwe,13,Sikandar Raza,D Wiese,CR Ervine,,0,2,2,,,,32016232016
+1,Zimbabwe,13,Sikandar Raza,D Wiese,CR Ervine,,0,0,0,,,,32016232016
+1,Zimbabwe,14,CR Ervine,JN Frylinck,Sikandar Raza,,0,1,1,,,,32016232016
+1,Zimbabwe,14,Sikandar Raza,JN Frylinck,CR Ervine,,0,1,1,,,,32016232016
+1,Zimbabwe,14,CR Ervine,JN Frylinck,Sikandar Raza,,0,4,4,,,,32016232016
+1,Zimbabwe,14,CR Ervine,JN Frylinck,Sikandar Raza,legbyes,1,1,0,,,,32016232016
+1,Zimbabwe,14,Sikandar Raza,JN Frylinck,CR Ervine,,0,1,1,,,,32016232016
+1,Zimbabwe,14,CR Ervine,JN Frylinck,Sikandar Raza,,0,1,1,,,,32016232016
+1,Zimbabwe,15,CR Ervine,MG Erasmus,Sikandar Raza,,0,1,1,,,,32016232016
+1,Zimbabwe,15,Sikandar Raza,MG Erasmus,CR Ervine,,0,0,0,lbw,Sikandar Raza,,32016232016
+1,Zimbabwe,15,M Shumba,MG Erasmus,CR Ervine,,0,0,0,,,,32016232016
+1,Zimbabwe,15,M Shumba,MG Erasmus,CR Ervine,,0,0,0,,,,32016232016
+1,Zimbabwe,15,M Shumba,MG Erasmus,CR Ervine,,0,0,0,,,,32016232016
+1,Zimbabwe,15,M Shumba,MG Erasmus,CR Ervine,,0,1,1,,,,32016232016
+1,Zimbabwe,16,M Shumba,HN Ya France,CR Ervine,,0,1,1,,,,32016232016
+1,Zimbabwe,16,CR Ervine,HN Ya France,M Shumba,,0,1,1,,,,32016232016
+1,Zimbabwe,16,M Shumba,HN Ya France,CR Ervine,,0,2,2,,,,32016232016
+1,Zimbabwe,16,M Shumba,HN Ya France,CR Ervine,,0,0,0,caught,M Shumba,MG Erasmus,32016232016
+1,Zimbabwe,16,RP Burl,HN Ya France,CR Ervine,,0,1,1,,,,32016232016
+1,Zimbabwe,16,CR Ervine,HN Ya France,RP Burl,,0,1,1,,,,32016232016
+1,Zimbabwe,17,CR Ervine,MG Erasmus,RP Burl,,0,1,1,,,,32016232016
+1,Zimbabwe,17,RP Burl,MG Erasmus,CR Ervine,,0,0,0,,,,32016232016
+1,Zimbabwe,17,RP Burl,MG Erasmus,CR Ervine,byes,4,4,0,,,,32016232016
+1,Zimbabwe,17,RP Burl,MG Erasmus,CR Ervine,,0,0,0,,,,32016232016
+1,Zimbabwe,17,RP Burl,MG Erasmus,CR Ervine,,0,0,0,,,,32016232016
+1,Zimbabwe,17,RP Burl,MG Erasmus,CR Ervine,,0,0,0,,,,32016232016
+1,Zimbabwe,18,CR Ervine,JN Frylinck,RP Burl,,0,1,1,,,,32016232016
+1,Zimbabwe,18,RP Burl,JN Frylinck,CR Ervine,,0,1,1,,,,32016232016
+1,Zimbabwe,18,CR Ervine,JN Frylinck,RP Burl,legbyes,1,1,0,,,,32016232016
+1,Zimbabwe,18,RP Burl,JN Frylinck,CR Ervine,,0,1,1,,,,32016232016
+1,Zimbabwe,18,CR Ervine,JN Frylinck,RP Burl,,0,4,4,,,,32016232016
+1,Zimbabwe,18,CR Ervine,JN Frylinck,RP Burl,,0,6,6,,,,32016232016
+1,Zimbabwe,19,RP Burl,MG Erasmus,CR Ervine,,0,2,2,,,,32016232016
+1,Zimbabwe,19,RP Burl,MG Erasmus,CR Ervine,,0,1,1,,,,32016232016
+1,Zimbabwe,19,CR Ervine,MG Erasmus,RP Burl,,0,1,1,,,,32016232016
+1,Zimbabwe,19,RP Burl,MG Erasmus,CR Ervine,,0,1,1,,,,32016232016
+1,Zimbabwe,19,CR Ervine,MG Erasmus,RP Burl,,0,6,6,,,,32016232016
+1,Zimbabwe,19,CR Ervine,MG Erasmus,RP Burl,,0,1,1,,,,32016232016

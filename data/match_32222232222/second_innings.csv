@@ -1,0 +1,126 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Singapore,0,R Rohan,Ateeq Iqbal,Aritra Dutta,,0,0,0,,,,32222232222
+2,Singapore,0,R Rohan,Ateeq Iqbal,Aritra Dutta,,0,0,0,,,,32222232222
+2,Singapore,0,R Rohan,Ateeq Iqbal,Aritra Dutta,,0,1,1,,,,32222232222
+2,Singapore,0,Aritra Dutta,Ateeq Iqbal,R Rohan,,0,0,0,,,,32222232222
+2,Singapore,0,Aritra Dutta,Ateeq Iqbal,R Rohan,,0,4,4,,,,32222232222
+2,Singapore,0,Aritra Dutta,Ateeq Iqbal,R Rohan,,0,1,1,,,,32222232222
+2,Singapore,1,Aritra Dutta,Haroon Arshad,R Rohan,wides,1,1,0,,,,32222232222
+2,Singapore,1,Aritra Dutta,Haroon Arshad,R Rohan,,0,1,1,,,,32222232222
+2,Singapore,1,R Rohan,Haroon Arshad,Aritra Dutta,legbyes,1,1,0,,,,32222232222
+2,Singapore,1,Aritra Dutta,Haroon Arshad,R Rohan,,0,4,4,,,,32222232222
+2,Singapore,1,Aritra Dutta,Haroon Arshad,R Rohan,,0,0,0,,,,32222232222
+2,Singapore,1,Aritra Dutta,Haroon Arshad,R Rohan,,0,6,6,,,,32222232222
+2,Singapore,1,Aritra Dutta,Haroon Arshad,R Rohan,,0,1,1,,,,32222232222
+2,Singapore,2,Aritra Dutta,Aizaz Khan,R Rohan,,0,0,0,,,,32222232222
+2,Singapore,2,Aritra Dutta,Aizaz Khan,R Rohan,,0,4,4,,,,32222232222
+2,Singapore,2,Aritra Dutta,Aizaz Khan,R Rohan,,0,0,0,,,,32222232222
+2,Singapore,2,Aritra Dutta,Aizaz Khan,R Rohan,,0,6,6,,,,32222232222
+2,Singapore,2,Aritra Dutta,Aizaz Khan,R Rohan,wides,1,1,0,,,,32222232222
+2,Singapore,2,Aritra Dutta,Aizaz Khan,R Rohan,wides,1,1,0,,,,32222232222
+2,Singapore,2,Aritra Dutta,Aizaz Khan,R Rohan,,0,0,0,,,,32222232222
+2,Singapore,2,Aritra Dutta,Aizaz Khan,R Rohan,,0,1,1,,,,32222232222
+2,Singapore,3,Aritra Dutta,Ehsan Khan,R Rohan,,0,0,0,,,,32222232222
+2,Singapore,3,Aritra Dutta,Ehsan Khan,R Rohan,,0,1,1,,,,32222232222
+2,Singapore,3,R Rohan,Ehsan Khan,Aritra Dutta,,0,0,0,,,,32222232222
+2,Singapore,3,R Rohan,Ehsan Khan,Aritra Dutta,,0,1,1,run out,Aritra Dutta,Haroon Arshad,32222232222
+2,Singapore,3,R Gaznavi,Ehsan Khan,R Rohan,,0,0,0,,,,32222232222
+2,Singapore,3,R Gaznavi,Ehsan Khan,R Rohan,,0,4,4,,,,32222232222
+2,Singapore,4,R Rohan,Haroon Arshad,R Gaznavi,,0,0,0,,,,32222232222
+2,Singapore,4,R Rohan,Haroon Arshad,R Gaznavi,,0,1,1,,,,32222232222
+2,Singapore,4,R Gaznavi,Haroon Arshad,R Rohan,,0,0,0,,,,32222232222
+2,Singapore,4,R Gaznavi,Haroon Arshad,R Rohan,,0,1,1,,,,32222232222
+2,Singapore,4,R Rohan,Haroon Arshad,R Gaznavi,,0,4,4,,,,32222232222
+2,Singapore,4,R Rohan,Haroon Arshad,R Gaznavi,,0,1,1,,,,32222232222
+2,Singapore,5,R Rohan,Ehsan Khan,R Gaznavi,,0,0,0,bowled,R Rohan,,32222232222
+2,Singapore,5,Janak Prakash,Ehsan Khan,R Gaznavi,,0,2,2,,,,32222232222
+2,Singapore,5,Janak Prakash,Ehsan Khan,R Gaznavi,,0,0,0,,,,32222232222
+2,Singapore,5,Janak Prakash,Ehsan Khan,R Gaznavi,,0,4,4,,,,32222232222
+2,Singapore,5,Janak Prakash,Ehsan Khan,R Gaznavi,,0,0,0,,,,32222232222
+2,Singapore,5,Janak Prakash,Ehsan Khan,R Gaznavi,,0,0,0,,,,32222232222
+2,Singapore,6,R Gaznavi,Yasim Murtaza,Janak Prakash,,0,0,0,,,,32222232222
+2,Singapore,6,R Gaznavi,Yasim Murtaza,Janak Prakash,,0,1,1,,,,32222232222
+2,Singapore,6,Janak Prakash,Yasim Murtaza,R Gaznavi,,0,0,0,,,,32222232222
+2,Singapore,6,Janak Prakash,Yasim Murtaza,R Gaznavi,,0,0,0,,,,32222232222
+2,Singapore,6,Janak Prakash,Yasim Murtaza,R Gaznavi,,0,4,4,,,,32222232222
+2,Singapore,6,Janak Prakash,Yasim Murtaza,R Gaznavi,,0,0,0,,,,32222232222
+2,Singapore,7,R Gaznavi,Mohammad Ghazanfar,Janak Prakash,,0,1,1,,,,32222232222
+2,Singapore,7,Janak Prakash,Mohammad Ghazanfar,R Gaznavi,,0,0,0,,,,32222232222
+2,Singapore,7,Janak Prakash,Mohammad Ghazanfar,R Gaznavi,,0,1,1,,,,32222232222
+2,Singapore,7,R Gaznavi,Mohammad Ghazanfar,Janak Prakash,,0,1,1,,,,32222232222
+2,Singapore,7,Janak Prakash,Mohammad Ghazanfar,R Gaznavi,,0,1,1,,,,32222232222
+2,Singapore,7,R Gaznavi,Mohammad Ghazanfar,Janak Prakash,,0,1,1,,,,32222232222
+2,Singapore,8,R Gaznavi,Yasim Murtaza,Janak Prakash,,0,3,3,,,,32222232222
+2,Singapore,8,Janak Prakash,Yasim Murtaza,R Gaznavi,,0,0,0,,,,32222232222
+2,Singapore,8,Janak Prakash,Yasim Murtaza,R Gaznavi,,0,0,0,,,,32222232222
+2,Singapore,8,Janak Prakash,Yasim Murtaza,R Gaznavi,,0,2,2,,,,32222232222
+2,Singapore,8,Janak Prakash,Yasim Murtaza,R Gaznavi,,0,4,4,,,,32222232222
+2,Singapore,8,Janak Prakash,Yasim Murtaza,R Gaznavi,,0,0,0,,,,32222232222
+2,Singapore,9,R Gaznavi,Mohammad Ghazanfar,Janak Prakash,,0,1,1,,,,32222232222
+2,Singapore,9,Janak Prakash,Mohammad Ghazanfar,R Gaznavi,,0,0,0,,,,32222232222
+2,Singapore,9,Janak Prakash,Mohammad Ghazanfar,R Gaznavi,,0,1,1,,,,32222232222
+2,Singapore,9,R Gaznavi,Mohammad Ghazanfar,Janak Prakash,,0,4,4,,,,32222232222
+2,Singapore,9,R Gaznavi,Mohammad Ghazanfar,Janak Prakash,,0,0,0,,,,32222232222
+2,Singapore,9,R Gaznavi,Mohammad Ghazanfar,Janak Prakash,,0,0,0,caught,R Gaznavi,SS McKechnie,32222232222
+2,Singapore,10,Janak Prakash,Yasim Murtaza,Manpreet Singh,,0,1,1,,,,32222232222
+2,Singapore,10,Manpreet Singh,Yasim Murtaza,Janak Prakash,,0,1,1,,,,32222232222
+2,Singapore,10,Janak Prakash,Yasim Murtaza,Manpreet Singh,,0,0,0,,,,32222232222
+2,Singapore,10,Janak Prakash,Yasim Murtaza,Manpreet Singh,,0,1,1,,,,32222232222
+2,Singapore,10,Manpreet Singh,Yasim Murtaza,Janak Prakash,,0,0,0,,,,32222232222
+2,Singapore,10,Manpreet Singh,Yasim Murtaza,Janak Prakash,,0,1,1,,,,32222232222
+2,Singapore,11,Manpreet Singh,Mohammad Ghazanfar,Janak Prakash,,0,1,1,,,,32222232222
+2,Singapore,11,Janak Prakash,Mohammad Ghazanfar,Manpreet Singh,,0,0,0,,,,32222232222
+2,Singapore,11,Janak Prakash,Mohammad Ghazanfar,Manpreet Singh,,0,1,1,,,,32222232222
+2,Singapore,11,Manpreet Singh,Mohammad Ghazanfar,Janak Prakash,,0,1,1,,,,32222232222
+2,Singapore,11,Janak Prakash,Mohammad Ghazanfar,Manpreet Singh,,0,1,1,,,,32222232222
+2,Singapore,11,Manpreet Singh,Mohammad Ghazanfar,Janak Prakash,,0,1,1,,,,32222232222
+2,Singapore,12,Manpreet Singh,Yasim Murtaza,Janak Prakash,,0,1,1,,,,32222232222
+2,Singapore,12,Janak Prakash,Yasim Murtaza,Manpreet Singh,,0,4,4,,,,32222232222
+2,Singapore,12,Janak Prakash,Yasim Murtaza,Manpreet Singh,,0,0,0,,,,32222232222
+2,Singapore,12,Janak Prakash,Yasim Murtaza,Manpreet Singh,,0,1,1,,,,32222232222
+2,Singapore,12,Manpreet Singh,Yasim Murtaza,Janak Prakash,,0,1,1,,,,32222232222
+2,Singapore,12,Janak Prakash,Yasim Murtaza,Manpreet Singh,,0,1,1,,,,32222232222
+2,Singapore,13,Janak Prakash,Mohammad Ghazanfar,Manpreet Singh,,0,1,1,,,,32222232222
+2,Singapore,13,Manpreet Singh,Mohammad Ghazanfar,Janak Prakash,,0,0,0,,,,32222232222
+2,Singapore,13,Manpreet Singh,Mohammad Ghazanfar,Janak Prakash,,0,1,1,,,,32222232222
+2,Singapore,13,Janak Prakash,Mohammad Ghazanfar,Manpreet Singh,,0,1,1,,,,32222232222
+2,Singapore,13,Manpreet Singh,Mohammad Ghazanfar,Janak Prakash,,0,1,1,,,,32222232222
+2,Singapore,13,Janak Prakash,Mohammad Ghazanfar,Manpreet Singh,,0,0,0,bowled,Janak Prakash,,32222232222
+2,Singapore,14,Manpreet Singh,KD Shah,Avi Dixit,,0,0,0,,,,32222232222
+2,Singapore,14,Manpreet Singh,KD Shah,Avi Dixit,,0,1,1,,,,32222232222
+2,Singapore,14,Avi Dixit,KD Shah,Manpreet Singh,,0,1,1,,,,32222232222
+2,Singapore,14,Manpreet Singh,KD Shah,Avi Dixit,,0,2,2,,,,32222232222
+2,Singapore,14,Manpreet Singh,KD Shah,Avi Dixit,,0,0,0,caught,Manpreet Singh,Aizaz Khan,32222232222
+2,Singapore,14,Avi Dixit,KD Shah,S Chandramohan,,0,1,1,,,,32222232222
+2,Singapore,15,Avi Dixit,Ehsan Khan,S Chandramohan,,0,0,0,,,,32222232222
+2,Singapore,15,Avi Dixit,Ehsan Khan,S Chandramohan,,0,0,0,,,,32222232222
+2,Singapore,15,Avi Dixit,Ehsan Khan,S Chandramohan,,0,0,0,,,,32222232222
+2,Singapore,15,Avi Dixit,Ehsan Khan,S Chandramohan,,0,0,0,,,,32222232222
+2,Singapore,15,Avi Dixit,Ehsan Khan,S Chandramohan,wides,2,2,0,,,,32222232222
+2,Singapore,15,S Chandramohan,Ehsan Khan,Avi Dixit,,0,0,0,,,,32222232222
+2,Singapore,15,S Chandramohan,Ehsan Khan,Avi Dixit,,0,1,1,,,,32222232222
+2,Singapore,16,S Chandramohan,KD Shah,Avi Dixit,,0,0,0,,,,32222232222
+2,Singapore,16,S Chandramohan,KD Shah,Avi Dixit,,0,1,1,,,,32222232222
+2,Singapore,16,Avi Dixit,KD Shah,S Chandramohan,,0,4,4,,,,32222232222
+2,Singapore,16,Avi Dixit,KD Shah,S Chandramohan,,0,1,1,,,,32222232222
+2,Singapore,16,S Chandramohan,KD Shah,Avi Dixit,,0,6,6,,,,32222232222
+2,Singapore,16,S Chandramohan,KD Shah,Avi Dixit,,0,2,2,,,,32222232222
+2,Singapore,17,Avi Dixit,Haroon Arshad,S Chandramohan,,0,4,4,,,,32222232222
+2,Singapore,17,Avi Dixit,Haroon Arshad,S Chandramohan,,0,2,2,,,,32222232222
+2,Singapore,17,Avi Dixit,Haroon Arshad,S Chandramohan,,0,1,1,,,,32222232222
+2,Singapore,17,S Chandramohan,Haroon Arshad,Avi Dixit,,0,2,2,,,,32222232222
+2,Singapore,17,S Chandramohan,Haroon Arshad,Avi Dixit,,0,0,0,,,,32222232222
+2,Singapore,17,S Chandramohan,Haroon Arshad,Avi Dixit,,0,0,0,,,,32222232222
+2,Singapore,18,Avi Dixit,Ehsan Khan,S Chandramohan,,0,1,1,,,,32222232222
+2,Singapore,18,S Chandramohan,Ehsan Khan,Avi Dixit,,0,0,0,caught,S Chandramohan,Babar Hayat,32222232222
+2,Singapore,18,Avi Dixit,Ehsan Khan,U Aryaman Sunil,,0,4,4,,,,32222232222
+2,Singapore,18,Avi Dixit,Ehsan Khan,U Aryaman Sunil,,0,0,0,,,,32222232222
+2,Singapore,18,Avi Dixit,Ehsan Khan,U Aryaman Sunil,,0,0,0,bowled,Avi Dixit,,32222232222
+2,Singapore,18,Amjad Mahboob,Ehsan Khan,U Aryaman Sunil,,0,0,0,,,,32222232222
+2,Singapore,19,U Aryaman Sunil,Haroon Arshad,Amjad Mahboob,,0,0,0,,,,32222232222
+2,Singapore,19,U Aryaman Sunil,Haroon Arshad,Amjad Mahboob,,0,0,0,,,,32222232222
+2,Singapore,19,U Aryaman Sunil,Haroon Arshad,Amjad Mahboob,wides,1,1,0,,,,32222232222
+2,Singapore,19,U Aryaman Sunil,Haroon Arshad,Amjad Mahboob,,0,0,0,,,,32222232222
+2,Singapore,19,U Aryaman Sunil,Haroon Arshad,Amjad Mahboob,,0,4,4,,,,32222232222
+2,Singapore,19,U Aryaman Sunil,Haroon Arshad,Amjad Mahboob,,0,0,0,,,,32222232222
+2,Singapore,19,U Aryaman Sunil,Haroon Arshad,Amjad Mahboob,,0,1,1,,,,32222232222

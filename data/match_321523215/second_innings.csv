@@ -1,0 +1,111 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Zimbabwe,0,H Masakadza,KMDN Kulasekara,V Sibanda,legbyes,1,1,0,,,,321523215
+2,Zimbabwe,0,V Sibanda,KMDN Kulasekara,H Masakadza,,0,0,0,,,,321523215
+2,Zimbabwe,0,V Sibanda,KMDN Kulasekara,H Masakadza,,0,0,0,,,,321523215
+2,Zimbabwe,0,V Sibanda,KMDN Kulasekara,H Masakadza,wides,1,1,0,,,,321523215
+2,Zimbabwe,0,V Sibanda,KMDN Kulasekara,H Masakadza,,0,1,1,,,,321523215
+2,Zimbabwe,0,H Masakadza,KMDN Kulasekara,V Sibanda,,0,0,0,,,,321523215
+2,Zimbabwe,0,H Masakadza,KMDN Kulasekara,V Sibanda,,0,0,0,,,,321523215
+2,Zimbabwe,1,V Sibanda,SL Malinga,H Masakadza,,0,0,0,,,,321523215
+2,Zimbabwe,1,V Sibanda,SL Malinga,H Masakadza,,0,1,1,,,,321523215
+2,Zimbabwe,1,H Masakadza,SL Malinga,V Sibanda,,0,0,0,,,,321523215
+2,Zimbabwe,1,H Masakadza,SL Malinga,V Sibanda,legbyes,4,4,0,,,,321523215
+2,Zimbabwe,1,H Masakadza,SL Malinga,V Sibanda,,0,0,0,,,,321523215
+2,Zimbabwe,1,H Masakadza,SL Malinga,V Sibanda,,0,0,0,,,,321523215
+2,Zimbabwe,2,V Sibanda,KMDN Kulasekara,H Masakadza,,0,0,0,,,,321523215
+2,Zimbabwe,2,V Sibanda,KMDN Kulasekara,H Masakadza,legbyes,1,1,0,,,,321523215
+2,Zimbabwe,2,H Masakadza,KMDN Kulasekara,V Sibanda,,0,1,1,,,,321523215
+2,Zimbabwe,2,V Sibanda,KMDN Kulasekara,H Masakadza,,0,1,1,,,,321523215
+2,Zimbabwe,2,H Masakadza,KMDN Kulasekara,V Sibanda,,0,4,4,,,,321523215
+2,Zimbabwe,2,H Masakadza,KMDN Kulasekara,V Sibanda,,0,1,1,,,,321523215
+2,Zimbabwe,3,H Masakadza,SL Malinga,V Sibanda,,0,4,4,,,,321523215
+2,Zimbabwe,3,H Masakadza,SL Malinga,V Sibanda,,0,1,1,,,,321523215
+2,Zimbabwe,3,V Sibanda,SL Malinga,H Masakadza,,0,0,0,,,,321523215
+2,Zimbabwe,3,V Sibanda,SL Malinga,H Masakadza,,0,1,1,,,,321523215
+2,Zimbabwe,3,H Masakadza,SL Malinga,V Sibanda,,0,2,2,,,,321523215
+2,Zimbabwe,3,H Masakadza,SL Malinga,V Sibanda,,0,4,4,,,,321523215
+2,Zimbabwe,4,V Sibanda,KMDN Kulasekara,H Masakadza,,0,0,0,,,,321523215
+2,Zimbabwe,4,V Sibanda,KMDN Kulasekara,H Masakadza,,0,1,1,,,,321523215
+2,Zimbabwe,4,H Masakadza,KMDN Kulasekara,V Sibanda,legbyes,1,1,0,,,,321523215
+2,Zimbabwe,4,V Sibanda,KMDN Kulasekara,H Masakadza,,0,4,4,,,,321523215
+2,Zimbabwe,4,V Sibanda,KMDN Kulasekara,H Masakadza,,0,0,0,,,,321523215
+2,Zimbabwe,4,V Sibanda,KMDN Kulasekara,H Masakadza,,0,2,2,,,,321523215
+2,Zimbabwe,5,H Masakadza,BAW Mendis,V Sibanda,,0,0,0,,,,321523215
+2,Zimbabwe,5,H Masakadza,BAW Mendis,V Sibanda,,0,1,1,,,,321523215
+2,Zimbabwe,5,V Sibanda,BAW Mendis,H Masakadza,,0,0,0,bowled,V Sibanda,,321523215
+2,Zimbabwe,5,BRM Taylor,BAW Mendis,H Masakadza,,0,0,0,stumped,BRM Taylor,KC Sangakkara,321523215
+2,Zimbabwe,5,E Chigumbura,BAW Mendis,H Masakadza,,0,0,0,,,,321523215
+2,Zimbabwe,5,E Chigumbura,BAW Mendis,H Masakadza,,0,2,2,,,,321523215
+2,Zimbabwe,6,H Masakadza,AD Mathews,E Chigumbura,,0,1,1,,,,321523215
+2,Zimbabwe,6,E Chigumbura,AD Mathews,H Masakadza,,0,1,1,,,,321523215
+2,Zimbabwe,6,H Masakadza,AD Mathews,E Chigumbura,,0,0,0,,,,321523215
+2,Zimbabwe,6,H Masakadza,AD Mathews,E Chigumbura,,0,0,0,,,,321523215
+2,Zimbabwe,6,H Masakadza,AD Mathews,E Chigumbura,wides,1,1,0,,,,321523215
+2,Zimbabwe,6,H Masakadza,AD Mathews,E Chigumbura,,0,1,1,,,,321523215
+2,Zimbabwe,6,E Chigumbura,AD Mathews,H Masakadza,,0,0,0,,,,321523215
+2,Zimbabwe,7,H Masakadza,BAW Mendis,E Chigumbura,,0,0,0,,,,321523215
+2,Zimbabwe,7,H Masakadza,BAW Mendis,E Chigumbura,,0,0,0,bowled,H Masakadza,,321523215
+2,Zimbabwe,7,CR Ervine,BAW Mendis,E Chigumbura,,0,0,0,,,,321523215
+2,Zimbabwe,7,CR Ervine,BAW Mendis,E Chigumbura,,0,0,0,,,,321523215
+2,Zimbabwe,7,CR Ervine,BAW Mendis,E Chigumbura,,0,0,0,,,,321523215
+2,Zimbabwe,7,CR Ervine,BAW Mendis,E Chigumbura,,0,0,0,,,,321523215
+2,Zimbabwe,8,E Chigumbura,AD Mathews,CR Ervine,legbyes,1,1,0,,,,321523215
+2,Zimbabwe,8,CR Ervine,AD Mathews,E Chigumbura,,0,0,0,,,,321523215
+2,Zimbabwe,8,CR Ervine,AD Mathews,E Chigumbura,,0,2,2,,,,321523215
+2,Zimbabwe,8,CR Ervine,AD Mathews,E Chigumbura,,0,0,0,,,,321523215
+2,Zimbabwe,8,CR Ervine,AD Mathews,E Chigumbura,,0,1,1,,,,321523215
+2,Zimbabwe,8,E Chigumbura,AD Mathews,CR Ervine,legbyes,1,1,0,,,,321523215
+2,Zimbabwe,9,E Chigumbura,NLTC Perera,CR Ervine,,0,0,0,,,,321523215
+2,Zimbabwe,9,E Chigumbura,NLTC Perera,CR Ervine,,0,1,1,,,,321523215
+2,Zimbabwe,9,CR Ervine,NLTC Perera,E Chigumbura,,0,0,0,,,,321523215
+2,Zimbabwe,9,CR Ervine,NLTC Perera,E Chigumbura,,0,1,1,,,,321523215
+2,Zimbabwe,9,E Chigumbura,NLTC Perera,CR Ervine,,0,1,1,,,,321523215
+2,Zimbabwe,9,CR Ervine,NLTC Perera,E Chigumbura,,0,6,6,,,,321523215
+2,Zimbabwe,10,E Chigumbura,BMAJ Mendis,CR Ervine,,0,1,1,,,,321523215
+2,Zimbabwe,10,CR Ervine,BMAJ Mendis,E Chigumbura,,0,0,0,,,,321523215
+2,Zimbabwe,10,CR Ervine,BMAJ Mendis,E Chigumbura,,0,0,0,stumped,CR Ervine,KC Sangakkara,321523215
+2,Zimbabwe,10,MN Waller,BMAJ Mendis,E Chigumbura,,0,0,0,,,,321523215
+2,Zimbabwe,10,MN Waller,BMAJ Mendis,E Chigumbura,,0,0,0,lbw,MN Waller,,321523215
+2,Zimbabwe,10,AG Cremer,BMAJ Mendis,E Chigumbura,wides,1,1,0,,,,321523215
+2,Zimbabwe,10,AG Cremer,BMAJ Mendis,E Chigumbura,,0,0,0,,,,321523215
+2,Zimbabwe,11,E Chigumbura,NLTC Perera,AG Cremer,,0,1,1,,,,321523215
+2,Zimbabwe,11,AG Cremer,NLTC Perera,E Chigumbura,,0,0,0,,,,321523215
+2,Zimbabwe,11,AG Cremer,NLTC Perera,E Chigumbura,,0,4,4,,,,321523215
+2,Zimbabwe,11,AG Cremer,NLTC Perera,E Chigumbura,,0,0,0,,,,321523215
+2,Zimbabwe,11,AG Cremer,NLTC Perera,E Chigumbura,,0,1,1,,,,321523215
+2,Zimbabwe,11,E Chigumbura,NLTC Perera,AG Cremer,,0,1,1,,,,321523215
+2,Zimbabwe,12,E Chigumbura,BMAJ Mendis,AG Cremer,,0,6,6,,,,321523215
+2,Zimbabwe,12,E Chigumbura,BMAJ Mendis,AG Cremer,,0,0,0,,,,321523215
+2,Zimbabwe,12,E Chigumbura,BMAJ Mendis,AG Cremer,wides,1,1,0,,,,321523215
+2,Zimbabwe,12,E Chigumbura,BMAJ Mendis,AG Cremer,,0,1,1,,,,321523215
+2,Zimbabwe,12,AG Cremer,BMAJ Mendis,E Chigumbura,,0,0,0,,,,321523215
+2,Zimbabwe,12,AG Cremer,BMAJ Mendis,E Chigumbura,,0,0,0,,,,321523215
+2,Zimbabwe,12,AG Cremer,BMAJ Mendis,E Chigumbura,,0,1,1,,,,321523215
+2,Zimbabwe,13,AG Cremer,BAW Mendis,E Chigumbura,,0,0,0,,,,321523215
+2,Zimbabwe,13,AG Cremer,BAW Mendis,E Chigumbura,,0,1,1,,,,321523215
+2,Zimbabwe,13,E Chigumbura,BAW Mendis,AG Cremer,,0,0,0,,,,321523215
+2,Zimbabwe,13,E Chigumbura,BAW Mendis,AG Cremer,,0,0,0,,,,321523215
+2,Zimbabwe,13,E Chigumbura,BAW Mendis,AG Cremer,,0,4,4,,,,321523215
+2,Zimbabwe,13,E Chigumbura,BAW Mendis,AG Cremer,,0,0,0,bowled,E Chigumbura,,321523215
+2,Zimbabwe,14,AG Cremer,BMAJ Mendis,P Utseya,,0,1,1,,,,321523215
+2,Zimbabwe,14,P Utseya,BMAJ Mendis,AG Cremer,,0,1,1,,,,321523215
+2,Zimbabwe,14,AG Cremer,BMAJ Mendis,P Utseya,,0,2,2,,,,321523215
+2,Zimbabwe,14,AG Cremer,BMAJ Mendis,P Utseya,,0,1,1,,,,321523215
+2,Zimbabwe,14,P Utseya,BMAJ Mendis,AG Cremer,wides,2,2,0,,,,321523215
+2,Zimbabwe,14,AG Cremer,BMAJ Mendis,P Utseya,,0,0,0,,,,321523215
+2,Zimbabwe,14,AG Cremer,BMAJ Mendis,P Utseya,,0,0,0,,,,321523215
+2,Zimbabwe,15,P Utseya,BAW Mendis,AG Cremer,,0,0,0,caught,P Utseya,DPMD Jayawardene,321523215
+2,Zimbabwe,15,KM Jarvis,BAW Mendis,AG Cremer,,0,0,0,,,,321523215
+2,Zimbabwe,15,KM Jarvis,BAW Mendis,AG Cremer,,0,0,0,,,,321523215
+2,Zimbabwe,15,KM Jarvis,BAW Mendis,AG Cremer,,0,0,0,lbw,KM Jarvis,,321523215
+2,Zimbabwe,15,BV Vitori,BAW Mendis,AG Cremer,,0,0,0,,,,321523215
+2,Zimbabwe,15,BV Vitori,BAW Mendis,AG Cremer,,0,0,0,,,,321523215
+2,Zimbabwe,16,AG Cremer,BMAJ Mendis,BV Vitori,,0,4,4,,,,321523215
+2,Zimbabwe,16,AG Cremer,BMAJ Mendis,BV Vitori,,0,0,0,,,,321523215
+2,Zimbabwe,16,AG Cremer,BMAJ Mendis,BV Vitori,,0,0,0,,,,321523215
+2,Zimbabwe,16,AG Cremer,BMAJ Mendis,BV Vitori,,0,2,2,,,,321523215
+2,Zimbabwe,16,AG Cremer,BMAJ Mendis,BV Vitori,,0,0,0,bowled,AG Cremer,,321523215
+2,Zimbabwe,16,CB Mpofu,BMAJ Mendis,BV Vitori,,0,0,0,,,,321523215
+2,Zimbabwe,17,BV Vitori,SL Malinga,CB Mpofu,,0,0,0,,,,321523215
+2,Zimbabwe,17,BV Vitori,SL Malinga,CB Mpofu,,0,7,7,,,,321523215
+2,Zimbabwe,17,CB Mpofu,SL Malinga,BV Vitori,,0,0,0,caught,CB Mpofu,LD Chandimal,321523215

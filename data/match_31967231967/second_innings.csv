@@ -1,0 +1,41 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Ireland,0,PR Stirling,Naveen-ul-Haq,A Balbirnie,,0,4,4,,,,31967231967
+2,Ireland,0,PR Stirling,Naveen-ul-Haq,A Balbirnie,,0,0,0,,,,31967231967
+2,Ireland,0,PR Stirling,Naveen-ul-Haq,A Balbirnie,,0,1,1,,,,31967231967
+2,Ireland,0,A Balbirnie,Naveen-ul-Haq,PR Stirling,,0,0,0,,,,31967231967
+2,Ireland,0,A Balbirnie,Naveen-ul-Haq,PR Stirling,,0,1,1,,,,31967231967
+2,Ireland,0,PR Stirling,Naveen-ul-Haq,A Balbirnie,,0,1,1,,,,31967231967
+2,Ireland,1,PR Stirling,Fareed Ahmad,A Balbirnie,,0,1,1,,,,31967231967
+2,Ireland,1,A Balbirnie,Fareed Ahmad,PR Stirling,,0,0,0,,,,31967231967
+2,Ireland,1,A Balbirnie,Fareed Ahmad,PR Stirling,,0,0,0,,,,31967231967
+2,Ireland,1,A Balbirnie,Fareed Ahmad,PR Stirling,,0,0,0,,,,31967231967
+2,Ireland,1,A Balbirnie,Fareed Ahmad,PR Stirling,,0,0,0,,,,31967231967
+2,Ireland,1,A Balbirnie,Fareed Ahmad,PR Stirling,,0,6,6,,,,31967231967
+2,Ireland,2,PR Stirling,Mujeeb Ur Rahman,A Balbirnie,,0,1,1,,,,31967231967
+2,Ireland,2,A Balbirnie,Mujeeb Ur Rahman,PR Stirling,,0,2,2,,,,31967231967
+2,Ireland,2,A Balbirnie,Mujeeb Ur Rahman,PR Stirling,,0,0,0,lbw,A Balbirnie,,31967231967
+2,Ireland,2,L Tucker,Mujeeb Ur Rahman,PR Stirling,,0,1,1,,,,31967231967
+2,Ireland,2,PR Stirling,Mujeeb Ur Rahman,L Tucker,,0,1,1,,,,31967231967
+2,Ireland,2,L Tucker,Mujeeb Ur Rahman,PR Stirling,legbyes,1,1,0,,,,31967231967
+2,Ireland,3,L Tucker,Rashid Khan,PR Stirling,,0,0,0,,,,31967231967
+2,Ireland,3,L Tucker,Rashid Khan,PR Stirling,,0,2,2,,,,31967231967
+2,Ireland,3,L Tucker,Rashid Khan,PR Stirling,,0,1,1,,,,31967231967
+2,Ireland,3,PR Stirling,Rashid Khan,L Tucker,,0,6,6,,,,31967231967
+2,Ireland,3,PR Stirling,Rashid Khan,L Tucker,,0,1,1,,,,31967231967
+2,Ireland,3,L Tucker,Rashid Khan,PR Stirling,,0,1,1,,,,31967231967
+2,Ireland,4,L Tucker,Mujeeb Ur Rahman,PR Stirling,,0,6,6,,,,31967231967
+2,Ireland,4,L Tucker,Mujeeb Ur Rahman,PR Stirling,,0,0,0,,,,31967231967
+2,Ireland,4,L Tucker,Mujeeb Ur Rahman,PR Stirling,,0,1,1,,,,31967231967
+2,Ireland,4,PR Stirling,Mujeeb Ur Rahman,L Tucker,,0,0,0,caught,PR Stirling,Naveen-ul-Haq,31967231967
+2,Ireland,4,L Tucker,Mujeeb Ur Rahman,HT Tector,,0,1,1,,,,31967231967
+2,Ireland,4,HT Tector,Mujeeb Ur Rahman,L Tucker,,0,4,4,,,,31967231967
+2,Ireland,5,L Tucker,Rashid Khan,HT Tector,,0,1,1,,,,31967231967
+2,Ireland,5,HT Tector,Rashid Khan,L Tucker,,0,1,1,,,,31967231967
+2,Ireland,5,L Tucker,Rashid Khan,HT Tector,,0,0,0,caught,L Tucker,Fareed Ahmad,31967231967
+2,Ireland,5,HT Tector,Rashid Khan,GH Dockrell,,0,1,1,,,,31967231967
+2,Ireland,5,GH Dockrell,Rashid Khan,HT Tector,,0,1,1,,,,31967231967
+2,Ireland,5,HT Tector,Rashid Khan,GH Dockrell,,0,2,2,,,,31967231967
+2,Ireland,6,GH Dockrell,Fareed Ahmad,HT Tector,,0,1,1,,,,31967231967
+2,Ireland,6,HT Tector,Fareed Ahmad,GH Dockrell,,0,1,1,,,,31967231967
+2,Ireland,6,GH Dockrell,Fareed Ahmad,HT Tector,,0,4,4,,,,31967231967
+2,Ireland,6,GH Dockrell,Fareed Ahmad,HT Tector,,0,1,1,,,,31967231967

@@ -1,0 +1,33 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,England,0,HC Knight,SS Connell,NR Sciver,wides,1,1,0,,,,31420231420
+2,England,0,HC Knight,SS Connell,NR Sciver,,0,4,4,,,,31420231420
+2,England,0,HC Knight,SS Connell,NR Sciver,,0,0,0,caught,HC Knight,SR Taylor,31420231420
+2,England,0,AE Jones,SS Connell,NR Sciver,,0,0,0,,,,31420231420
+2,England,0,AE Jones,SS Connell,NR Sciver,,0,0,0,caught,AE Jones,NY McLean,31420231420
+2,England,0,NR Sciver,SS Connell,TT Beaumont,,0,0,0,,,,31420231420
+2,England,0,NR Sciver,SS Connell,TT Beaumont,,0,0,0,,,,31420231420
+2,England,1,TT Beaumont,SC Selman,NR Sciver,,0,1,1,,,,31420231420
+2,England,1,NR Sciver,SC Selman,TT Beaumont,,0,1,1,,,,31420231420
+2,England,1,TT Beaumont,SC Selman,NR Sciver,noballs,1,1,0,,,,31420231420
+2,England,1,TT Beaumont,SC Selman,NR Sciver,,0,4,4,,,,31420231420
+2,England,1,TT Beaumont,SC Selman,NR Sciver,,0,4,4,,,,31420231420
+2,England,1,TT Beaumont,SC Selman,NR Sciver,wides,1,1,0,,,,31420231420
+2,England,1,TT Beaumont,SC Selman,NR Sciver,,0,0,0,caught,TT Beaumont,CN Nation,31420231420
+2,England,1,NR Sciver,SC Selman,KH Brunt,,0,1,1,,,,31420231420
+2,England,2,NR Sciver,SS Connell,KH Brunt,,0,4,4,,,,31420231420
+2,England,2,NR Sciver,SS Connell,KH Brunt,,0,1,1,,,,31420231420
+2,England,2,KH Brunt,SS Connell,NR Sciver,,0,2,2,,,,31420231420
+2,England,2,KH Brunt,SS Connell,NR Sciver,,0,0,0,run out,NR Sciver,,31420231420
+2,England,2,KH Brunt,SS Connell,SIR Dunkley,,0,0,0,caught,KH Brunt,SR Taylor,31420231420
+2,England,2,S Glenn,SS Connell,SIR Dunkley,,0,2,2,,,,31420231420
+2,England,3,SIR Dunkley,DJS Dottin,S Glenn,legbyes,1,1,0,,,,31420231420
+2,England,3,S Glenn,DJS Dottin,SIR Dunkley,,0,2,2,,,,31420231420
+2,England,3,S Glenn,DJS Dottin,SIR Dunkley,legbyes,1,1,0,,,,31420231420
+2,England,3,SIR Dunkley,DJS Dottin,S Glenn,,0,2,2,,,,31420231420
+2,England,3,SIR Dunkley,DJS Dottin,S Glenn,,0,1,1,,,,31420231420
+2,England,3,S Glenn,DJS Dottin,SIR Dunkley,,0,1,1,,,,31420231420
+2,England,4,S Glenn,SC Selman,SIR Dunkley,,0,2,2,,,,31420231420
+2,England,4,S Glenn,SC Selman,SIR Dunkley,,0,1,1,run out,S Glenn,,31420231420
+2,England,4,FC Wilson,SC Selman,SIR Dunkley,,0,1,1,run out,FC Wilson,,31420231420
+2,England,4,S Ecclestone,SC Selman,SIR Dunkley,noballs,1,2,1,,,,31420231420
+2,England,4,SIR Dunkley,SC Selman,S Ecclestone,noballs,1,1,0,,,,31420231420

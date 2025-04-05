@@ -1,0 +1,91 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,England,0,JJ Roy,Shakib Al Hasan,JC Buttler,,0,4,4,,,,31645231645
+2,England,0,JJ Roy,Shakib Al Hasan,JC Buttler,,0,1,1,,,,31645231645
+2,England,0,JC Buttler,Shakib Al Hasan,JJ Roy,,0,0,0,,,,31645231645
+2,England,0,JC Buttler,Shakib Al Hasan,JJ Roy,,0,1,1,,,,31645231645
+2,England,0,JJ Roy,Shakib Al Hasan,JC Buttler,,0,1,1,,,,31645231645
+2,England,0,JC Buttler,Shakib Al Hasan,JJ Roy,,0,0,0,,,,31645231645
+2,England,1,JJ Roy,Mustafizur Rahman,JC Buttler,legbyes,1,1,0,,,,31645231645
+2,England,1,JC Buttler,Mustafizur Rahman,JJ Roy,,0,0,0,,,,31645231645
+2,England,1,JC Buttler,Mustafizur Rahman,JJ Roy,,0,0,0,,,,31645231645
+2,England,1,JC Buttler,Mustafizur Rahman,JJ Roy,legbyes,1,1,0,,,,31645231645
+2,England,1,JJ Roy,Mustafizur Rahman,JC Buttler,wides,1,1,0,,,,31645231645
+2,England,1,JJ Roy,Mustafizur Rahman,JC Buttler,,0,4,4,,,,31645231645
+2,England,1,JJ Roy,Mustafizur Rahman,JC Buttler,,0,4,4,,,,31645231645
+2,England,2,JC Buttler,Shakib Al Hasan,JJ Roy,,0,1,1,,,,31645231645
+2,England,2,JJ Roy,Shakib Al Hasan,JC Buttler,,0,0,0,,,,31645231645
+2,England,2,JJ Roy,Shakib Al Hasan,JC Buttler,,0,1,1,,,,31645231645
+2,England,2,JC Buttler,Shakib Al Hasan,JJ Roy,,0,6,6,,,,31645231645
+2,England,2,JC Buttler,Shakib Al Hasan,JJ Roy,,0,0,0,,,,31645231645
+2,England,2,JC Buttler,Shakib Al Hasan,JJ Roy,,0,2,2,,,,31645231645
+2,England,3,JJ Roy,Shoriful Islam,JC Buttler,,0,0,0,,,,31645231645
+2,England,3,JJ Roy,Shoriful Islam,JC Buttler,wides,1,1,0,,,,31645231645
+2,England,3,JJ Roy,Shoriful Islam,JC Buttler,,0,1,1,,,,31645231645
+2,England,3,JC Buttler,Shoriful Islam,JJ Roy,,0,4,4,,,,31645231645
+2,England,3,JC Buttler,Shoriful Islam,JJ Roy,,0,1,1,,,,31645231645
+2,England,3,JJ Roy,Shoriful Islam,JC Buttler,,0,1,1,,,,31645231645
+2,England,3,JC Buttler,Shoriful Islam,JJ Roy,,0,1,1,,,,31645231645
+2,England,4,JC Buttler,Nasum Ahmed,JJ Roy,,0,0,0,,,,31645231645
+2,England,4,JC Buttler,Nasum Ahmed,JJ Roy,,0,2,2,,,,31645231645
+2,England,4,JC Buttler,Nasum Ahmed,JJ Roy,,0,0,0,,,,31645231645
+2,England,4,JC Buttler,Nasum Ahmed,JJ Roy,,0,0,0,,,,31645231645
+2,England,4,JC Buttler,Nasum Ahmed,JJ Roy,,0,0,0,caught,JC Buttler,Mohammad Naim,31645231645
+2,England,4,JJ Roy,Nasum Ahmed,DJ Malan,,0,1,1,,,,31645231645
+2,England,5,JJ Roy,Mustafizur Rahman,DJ Malan,,0,0,0,,,,31645231645
+2,England,5,JJ Roy,Mustafizur Rahman,DJ Malan,,0,1,1,,,,31645231645
+2,England,5,DJ Malan,Mustafizur Rahman,JJ Roy,,0,0,0,,,,31645231645
+2,England,5,DJ Malan,Mustafizur Rahman,JJ Roy,,0,1,1,,,,31645231645
+2,England,5,JJ Roy,Mustafizur Rahman,DJ Malan,,0,4,4,,,,31645231645
+2,England,5,JJ Roy,Mustafizur Rahman,DJ Malan,legbyes,4,4,0,,,,31645231645
+2,England,6,DJ Malan,Mahedi Hasan,JJ Roy,,0,0,0,,,,31645231645
+2,England,6,DJ Malan,Mahedi Hasan,JJ Roy,,0,1,1,,,,31645231645
+2,England,6,JJ Roy,Mahedi Hasan,DJ Malan,,0,6,6,,,,31645231645
+2,England,6,JJ Roy,Mahedi Hasan,DJ Malan,,0,4,4,,,,31645231645
+2,England,6,JJ Roy,Mahedi Hasan,DJ Malan,,0,1,1,,,,31645231645
+2,England,6,DJ Malan,Mahedi Hasan,JJ Roy,,0,1,1,,,,31645231645
+2,England,7,DJ Malan,Nasum Ahmed,JJ Roy,,0,4,4,,,,31645231645
+2,England,7,DJ Malan,Nasum Ahmed,JJ Roy,,0,1,1,,,,31645231645
+2,England,7,JJ Roy,Nasum Ahmed,DJ Malan,,0,1,1,,,,31645231645
+2,England,7,DJ Malan,Nasum Ahmed,JJ Roy,,0,1,1,,,,31645231645
+2,England,7,JJ Roy,Nasum Ahmed,DJ Malan,,0,1,1,,,,31645231645
+2,England,7,DJ Malan,Nasum Ahmed,JJ Roy,,0,4,4,,,,31645231645
+2,England,8,JJ Roy,Mahedi Hasan,DJ Malan,wides,1,1,0,,,,31645231645
+2,England,8,JJ Roy,Mahedi Hasan,DJ Malan,,0,2,2,,,,31645231645
+2,England,8,JJ Roy,Mahedi Hasan,DJ Malan,,0,1,1,,,,31645231645
+2,England,8,DJ Malan,Mahedi Hasan,JJ Roy,,0,1,1,,,,31645231645
+2,England,8,JJ Roy,Mahedi Hasan,DJ Malan,,0,1,1,,,,31645231645
+2,England,8,DJ Malan,Mahedi Hasan,JJ Roy,,0,1,1,,,,31645231645
+2,England,8,JJ Roy,Mahedi Hasan,DJ Malan,,0,1,1,,,,31645231645
+2,England,9,JJ Roy,Shakib Al Hasan,DJ Malan,,0,1,1,,,,31645231645
+2,England,9,DJ Malan,Shakib Al Hasan,JJ Roy,,0,0,0,,,,31645231645
+2,England,9,DJ Malan,Shakib Al Hasan,JJ Roy,wides,1,1,0,,,,31645231645
+2,England,9,DJ Malan,Shakib Al Hasan,JJ Roy,wides,1,1,0,,,,31645231645
+2,England,9,DJ Malan,Shakib Al Hasan,JJ Roy,,0,1,1,,,,31645231645
+2,England,9,JJ Roy,Shakib Al Hasan,DJ Malan,,0,1,1,,,,31645231645
+2,England,9,DJ Malan,Shakib Al Hasan,JJ Roy,,0,1,1,,,,31645231645
+2,England,9,JJ Roy,Shakib Al Hasan,DJ Malan,,0,1,1,,,,31645231645
+2,England,10,JJ Roy,Shoriful Islam,DJ Malan,,0,1,1,,,,31645231645
+2,England,10,DJ Malan,Shoriful Islam,JJ Roy,,0,1,1,,,,31645231645
+2,England,10,JJ Roy,Shoriful Islam,DJ Malan,,0,1,1,,,,31645231645
+2,England,10,DJ Malan,Shoriful Islam,JJ Roy,,0,0,0,,,,31645231645
+2,England,10,DJ Malan,Shoriful Islam,JJ Roy,,0,0,0,,,,31645231645
+2,England,10,DJ Malan,Shoriful Islam,JJ Roy,,0,0,0,,,,31645231645
+2,England,11,JJ Roy,Nasum Ahmed,DJ Malan,,0,1,1,,,,31645231645
+2,England,11,DJ Malan,Nasum Ahmed,JJ Roy,,0,1,1,,,,31645231645
+2,England,11,JJ Roy,Nasum Ahmed,DJ Malan,,0,0,0,,,,31645231645
+2,England,11,JJ Roy,Nasum Ahmed,DJ Malan,,0,6,6,,,,31645231645
+2,England,11,JJ Roy,Nasum Ahmed,DJ Malan,,0,1,1,,,,31645231645
+2,England,11,DJ Malan,Nasum Ahmed,JJ Roy,,0,2,2,,,,31645231645
+2,England,12,JJ Roy,Shoriful Islam,DJ Malan,,0,0,0,,,,31645231645
+2,England,12,JJ Roy,Shoriful Islam,DJ Malan,,0,6,6,,,,31645231645
+2,England,12,JJ Roy,Shoriful Islam,DJ Malan,,0,1,1,,,,31645231645
+2,England,12,DJ Malan,Shoriful Islam,JJ Roy,,0,1,1,,,,31645231645
+2,England,12,JJ Roy,Shoriful Islam,DJ Malan,,0,0,0,caught,JJ Roy,Nasum Ahmed,31645231645
+2,England,12,JM Bairstow,Shoriful Islam,DJ Malan,,0,2,2,,,,31645231645
+2,England,13,DJ Malan,Mustafizur Rahman,JM Bairstow,,0,0,0,,,,31645231645
+2,England,13,DJ Malan,Mustafizur Rahman,JM Bairstow,,0,1,1,,,,31645231645
+2,England,13,JM Bairstow,Mustafizur Rahman,DJ Malan,,0,1,1,,,,31645231645
+2,England,13,DJ Malan,Mustafizur Rahman,JM Bairstow,,0,4,4,,,,31645231645
+2,England,13,DJ Malan,Mustafizur Rahman,JM Bairstow,,0,1,1,,,,31645231645
+2,England,13,JM Bairstow,Mustafizur Rahman,DJ Malan,,0,1,1,,,,31645231645
+2,England,14,JM Bairstow,Shoriful Islam,DJ Malan,,0,4,4,,,,31645231645

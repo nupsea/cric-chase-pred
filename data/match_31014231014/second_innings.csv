@@ -1,0 +1,118 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Nepal,0,K Shrestha,JE Titmuss,SR Magar,wides,1,1,0,,,,31014231014
+2,Nepal,0,K Shrestha,JE Titmuss,SR Magar,,0,2,2,,,,31014231014
+2,Nepal,0,K Shrestha,JE Titmuss,SR Magar,,0,0,0,,,,31014231014
+2,Nepal,0,K Shrestha,JE Titmuss,SR Magar,,0,0,0,,,,31014231014
+2,Nepal,0,K Shrestha,JE Titmuss,SR Magar,,0,0,0,,,,31014231014
+2,Nepal,0,K Shrestha,JE Titmuss,SR Magar,,0,1,1,,,,31014231014
+2,Nepal,0,SR Magar,JE Titmuss,K Shrestha,,0,0,0,,,,31014231014
+2,Nepal,1,K Shrestha,Chan Ka Man,SR Magar,,0,0,0,,,,31014231014
+2,Nepal,1,K Shrestha,Chan Ka Man,SR Magar,,0,0,0,,,,31014231014
+2,Nepal,1,K Shrestha,Chan Ka Man,SR Magar,,0,0,0,,,,31014231014
+2,Nepal,1,K Shrestha,Chan Ka Man,SR Magar,,0,1,1,,,,31014231014
+2,Nepal,1,SR Magar,Chan Ka Man,K Shrestha,,0,0,0,,,,31014231014
+2,Nepal,1,SR Magar,Chan Ka Man,K Shrestha,,0,0,0,,,,31014231014
+2,Nepal,2,K Shrestha,JE Titmuss,SR Magar,,0,0,0,,,,31014231014
+2,Nepal,2,K Shrestha,JE Titmuss,SR Magar,,0,0,0,lbw,K Shrestha,,31014231014
+2,Nepal,2,I Barma,JE Titmuss,SR Magar,,0,1,1,,,,31014231014
+2,Nepal,2,SR Magar,JE Titmuss,I Barma,,0,0,0,,,,31014231014
+2,Nepal,2,SR Magar,JE Titmuss,I Barma,,0,0,0,caught,SR Magar,M Hill,31014231014
+2,Nepal,2,Apsari Begam,JE Titmuss,I Barma,,0,0,0,,,,31014231014
+2,Nepal,3,I Barma,Chan Ka Man,Apsari Begam,,0,0,0,,,,31014231014
+2,Nepal,3,I Barma,Chan Ka Man,Apsari Begam,,0,0,0,,,,31014231014
+2,Nepal,3,I Barma,Chan Ka Man,Apsari Begam,,0,0,0,,,,31014231014
+2,Nepal,3,I Barma,Chan Ka Man,Apsari Begam,,0,1,1,,,,31014231014
+2,Nepal,3,Apsari Begam,Chan Ka Man,I Barma,,0,0,0,,,,31014231014
+2,Nepal,3,Apsari Begam,Chan Ka Man,I Barma,,0,0,0,,,,31014231014
+2,Nepal,4,I Barma,Hung Ying Ho,Apsari Begam,wides,1,1,0,,,,31014231014
+2,Nepal,4,I Barma,Hung Ying Ho,Apsari Begam,,0,0,0,,,,31014231014
+2,Nepal,4,I Barma,Hung Ying Ho,Apsari Begam,,0,1,1,,,,31014231014
+2,Nepal,4,Apsari Begam,Hung Ying Ho,I Barma,,0,0,0,,,,31014231014
+2,Nepal,4,Apsari Begam,Hung Ying Ho,I Barma,,0,0,0,,,,31014231014
+2,Nepal,4,Apsari Begam,Hung Ying Ho,I Barma,,0,0,0,,,,31014231014
+2,Nepal,4,Apsari Begam,Hung Ying Ho,I Barma,,0,0,0,,,,31014231014
+2,Nepal,5,I Barma,KY Chan,Apsari Begam,,0,0,0,,,,31014231014
+2,Nepal,5,I Barma,KY Chan,Apsari Begam,,0,0,0,,,,31014231014
+2,Nepal,5,I Barma,KY Chan,Apsari Begam,wides,1,1,0,,,,31014231014
+2,Nepal,5,I Barma,KY Chan,Apsari Begam,,0,1,1,,,,31014231014
+2,Nepal,5,Apsari Begam,KY Chan,I Barma,,0,0,0,,,,31014231014
+2,Nepal,5,Apsari Begam,KY Chan,I Barma,,0,0,0,,,,31014231014
+2,Nepal,5,Apsari Begam,KY Chan,I Barma,,0,1,1,,,,31014231014
+2,Nepal,6,Apsari Begam,Hung Ying Ho,I Barma,,0,0,0,,,,31014231014
+2,Nepal,6,Apsari Begam,Hung Ying Ho,I Barma,,0,0,0,,,,31014231014
+2,Nepal,6,Apsari Begam,Hung Ying Ho,I Barma,,0,4,4,,,,31014231014
+2,Nepal,6,Apsari Begam,Hung Ying Ho,I Barma,,0,0,0,,,,31014231014
+2,Nepal,6,Apsari Begam,Hung Ying Ho,I Barma,,0,0,0,,,,31014231014
+2,Nepal,6,Apsari Begam,Hung Ying Ho,I Barma,,0,0,0,,,,31014231014
+2,Nepal,7,I Barma,KY Chan,Apsari Begam,,0,0,0,,,,31014231014
+2,Nepal,7,I Barma,KY Chan,Apsari Begam,,0,0,0,,,,31014231014
+2,Nepal,7,I Barma,KY Chan,Apsari Begam,,0,0,0,,,,31014231014
+2,Nepal,7,I Barma,KY Chan,Apsari Begam,,0,0,0,,,,31014231014
+2,Nepal,7,I Barma,KY Chan,Apsari Begam,,0,0,0,,,,31014231014
+2,Nepal,7,I Barma,KY Chan,Apsari Begam,,0,0,0,,,,31014231014
+2,Nepal,8,Apsari Begam,YS To,I Barma,,0,1,1,,,,31014231014
+2,Nepal,8,I Barma,YS To,Apsari Begam,,0,0,0,stumped,I Barma,JM Davies,31014231014
+2,Nepal,8,RC Belbashi,YS To,Apsari Begam,,0,1,1,,,,31014231014
+2,Nepal,8,Apsari Begam,YS To,RC Belbashi,,0,1,1,,,,31014231014
+2,Nepal,8,RC Belbashi,YS To,Apsari Begam,,0,1,1,,,,31014231014
+2,Nepal,8,Apsari Begam,YS To,RC Belbashi,,0,0,0,,,,31014231014
+2,Nepal,9,RC Belbashi,KY Chan,Apsari Begam,,0,0,0,,,,31014231014
+2,Nepal,9,RC Belbashi,KY Chan,Apsari Begam,,0,4,4,,,,31014231014
+2,Nepal,9,RC Belbashi,KY Chan,Apsari Begam,,0,0,0,,,,31014231014
+2,Nepal,9,RC Belbashi,KY Chan,Apsari Begam,,0,0,0,stumped,RC Belbashi,JM Davies,31014231014
+2,Nepal,9,S Magar,KY Chan,Apsari Begam,,0,0,0,,,,31014231014
+2,Nepal,9,S Magar,KY Chan,Apsari Begam,,0,0,0,,,,31014231014
+2,Nepal,10,Apsari Begam,YS To,S Magar,,0,1,1,,,,31014231014
+2,Nepal,10,S Magar,YS To,Apsari Begam,,0,0,0,,,,31014231014
+2,Nepal,10,S Magar,YS To,Apsari Begam,,0,0,0,,,,31014231014
+2,Nepal,10,S Magar,YS To,Apsari Begam,,0,1,1,,,,31014231014
+2,Nepal,10,Apsari Begam,YS To,S Magar,,0,1,1,,,,31014231014
+2,Nepal,10,S Magar,YS To,Apsari Begam,,0,1,1,,,,31014231014
+2,Nepal,11,S Magar,KY Chan,Apsari Begam,,0,0,0,,,,31014231014
+2,Nepal,11,S Magar,KY Chan,Apsari Begam,,0,0,0,,,,31014231014
+2,Nepal,11,S Magar,KY Chan,Apsari Begam,,0,0,0,,,,31014231014
+2,Nepal,11,S Magar,KY Chan,Apsari Begam,,0,1,1,,,,31014231014
+2,Nepal,11,Apsari Begam,KY Chan,S Magar,,0,0,0,,,,31014231014
+2,Nepal,11,Apsari Begam,KY Chan,S Magar,,0,2,2,,,,31014231014
+2,Nepal,12,S Magar,YS To,Apsari Begam,,0,0,0,,,,31014231014
+2,Nepal,12,S Magar,YS To,Apsari Begam,,0,1,1,,,,31014231014
+2,Nepal,12,Apsari Begam,YS To,S Magar,,0,4,4,,,,31014231014
+2,Nepal,12,Apsari Begam,YS To,S Magar,,0,4,4,,,,31014231014
+2,Nepal,12,Apsari Begam,YS To,S Magar,,0,1,1,,,,31014231014
+2,Nepal,12,S Magar,YS To,Apsari Begam,,0,1,1,,,,31014231014
+2,Nepal,13,S Magar,M Hill,Apsari Begam,,0,0,0,,,,31014231014
+2,Nepal,13,S Magar,M Hill,Apsari Begam,,0,1,1,,,,31014231014
+2,Nepal,13,Apsari Begam,M Hill,S Magar,,0,0,0,,,,31014231014
+2,Nepal,13,Apsari Begam,M Hill,S Magar,,0,0,0,,,,31014231014
+2,Nepal,13,Apsari Begam,M Hill,S Magar,,0,0,0,,,,31014231014
+2,Nepal,13,Apsari Begam,M Hill,S Magar,,0,0,0,,,,31014231014
+2,Nepal,14,S Magar,M Yousaf,Apsari Begam,,0,1,1,,,,31014231014
+2,Nepal,14,Apsari Begam,M Yousaf,S Magar,wides,1,1,0,,,,31014231014
+2,Nepal,14,Apsari Begam,M Yousaf,S Magar,,0,1,1,,,,31014231014
+2,Nepal,14,S Magar,M Yousaf,Apsari Begam,wides,1,1,0,,,,31014231014
+2,Nepal,14,S Magar,M Yousaf,Apsari Begam,,0,0,0,,,,31014231014
+2,Nepal,14,S Magar,M Yousaf,Apsari Begam,,0,1,1,,,,31014231014
+2,Nepal,14,Apsari Begam,M Yousaf,S Magar,,0,1,1,,,,31014231014
+2,Nepal,14,S Magar,M Yousaf,Apsari Begam,,0,0,0,,,,31014231014
+2,Nepal,15,Apsari Begam,Chan Ka Man,S Magar,,0,1,1,,,,31014231014
+2,Nepal,15,S Magar,Chan Ka Man,Apsari Begam,,0,0,0,,,,31014231014
+2,Nepal,15,S Magar,Chan Ka Man,Apsari Begam,,0,2,2,,,,31014231014
+2,Nepal,15,S Magar,Chan Ka Man,Apsari Begam,,0,1,1,,,,31014231014
+2,Nepal,15,Apsari Begam,Chan Ka Man,S Magar,,0,1,1,,,,31014231014
+2,Nepal,15,S Magar,Chan Ka Man,Apsari Begam,,0,1,1,,,,31014231014
+2,Nepal,16,S Magar,JE Titmuss,Apsari Begam,,0,0,0,,,,31014231014
+2,Nepal,16,S Magar,JE Titmuss,Apsari Begam,,0,1,1,,,,31014231014
+2,Nepal,16,Apsari Begam,JE Titmuss,S Magar,,0,0,0,caught,Apsari Begam,KY Chan,31014231014
+2,Nepal,16,Roma Thapa,JE Titmuss,S Magar,,0,1,1,,,,31014231014
+2,Nepal,16,S Magar,JE Titmuss,Roma Thapa,,0,1,1,,,,31014231014
+2,Nepal,16,Roma Thapa,JE Titmuss,S Magar,,0,1,1,,,,31014231014
+2,Nepal,17,Roma Thapa,M Hill,S Magar,,0,0,0,,,,31014231014
+2,Nepal,17,Roma Thapa,M Hill,S Magar,,0,0,0,,,,31014231014
+2,Nepal,17,Roma Thapa,M Hill,S Magar,,0,0,0,bowled,Roma Thapa,,31014231014
+2,Nepal,17,Nary Thapa,M Hill,S Magar,,0,0,0,,,,31014231014
+2,Nepal,17,Nary Thapa,M Hill,S Magar,,0,1,1,,,,31014231014
+2,Nepal,17,S Magar,M Hill,Nary Thapa,,0,1,1,,,,31014231014
+2,Nepal,18,S Magar,JE Titmuss,Nary Thapa,,0,0,0,,,,31014231014
+2,Nepal,18,S Magar,JE Titmuss,Nary Thapa,wides,1,1,0,,,,31014231014
+2,Nepal,18,S Magar,JE Titmuss,Nary Thapa,,0,0,0,,,,31014231014
+2,Nepal,18,S Magar,JE Titmuss,Nary Thapa,,0,1,1,,,,31014231014

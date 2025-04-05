@@ -1,0 +1,111 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Afghanistan,0,Karim Sadiq,PC Connell,Noor Ali Zadran,,0,0,0,,,,316323163
+2,Afghanistan,0,Karim Sadiq,PC Connell,Noor Ali Zadran,,0,1,1,,,,316323163
+2,Afghanistan,0,Noor Ali Zadran,PC Connell,Karim Sadiq,,0,1,1,,,,316323163
+2,Afghanistan,0,Karim Sadiq,PC Connell,Noor Ali Zadran,,0,2,2,,,,316323163
+2,Afghanistan,0,Karim Sadiq,PC Connell,Noor Ali Zadran,,0,2,2,,,,316323163
+2,Afghanistan,0,Karim Sadiq,PC Connell,Noor Ali Zadran,,0,1,1,,,,316323163
+2,Afghanistan,1,Karim Sadiq,DT Johnston,Noor Ali Zadran,,0,4,4,,,,316323163
+2,Afghanistan,1,Karim Sadiq,DT Johnston,Noor Ali Zadran,,0,4,4,,,,316323163
+2,Afghanistan,1,Karim Sadiq,DT Johnston,Noor Ali Zadran,,0,1,1,,,,316323163
+2,Afghanistan,1,Noor Ali Zadran,DT Johnston,Karim Sadiq,,0,1,1,,,,316323163
+2,Afghanistan,1,Karim Sadiq,DT Johnston,Noor Ali Zadran,,0,0,0,,,,316323163
+2,Afghanistan,1,Karim Sadiq,DT Johnston,Noor Ali Zadran,,0,4,4,,,,316323163
+2,Afghanistan,2,Noor Ali Zadran,PC Connell,Karim Sadiq,,0,0,0,,,,316323163
+2,Afghanistan,2,Noor Ali Zadran,PC Connell,Karim Sadiq,,0,1,1,,,,316323163
+2,Afghanistan,2,Karim Sadiq,PC Connell,Noor Ali Zadran,,0,0,0,,,,316323163
+2,Afghanistan,2,Karim Sadiq,PC Connell,Noor Ali Zadran,,0,6,6,,,,316323163
+2,Afghanistan,2,Karim Sadiq,PC Connell,Noor Ali Zadran,,0,2,2,,,,316323163
+2,Afghanistan,2,Karim Sadiq,PC Connell,Noor Ali Zadran,,0,1,1,,,,316323163
+2,Afghanistan,3,Karim Sadiq,DT Johnston,Noor Ali Zadran,,0,2,2,,,,316323163
+2,Afghanistan,3,Karim Sadiq,DT Johnston,Noor Ali Zadran,,0,4,4,,,,316323163
+2,Afghanistan,3,Karim Sadiq,DT Johnston,Noor Ali Zadran,,0,0,0,caught,Karim Sadiq,AR White,316323163
+2,Afghanistan,3,Noor Ali Zadran,DT Johnston,Mohammad Shahzad,,0,0,0,,,,316323163
+2,Afghanistan,3,Noor Ali Zadran,DT Johnston,Mohammad Shahzad,,0,0,0,,,,316323163
+2,Afghanistan,3,Noor Ali Zadran,DT Johnston,Mohammad Shahzad,,0,0,0,,,,316323163
+2,Afghanistan,4,Mohammad Shahzad,PC Connell,Noor Ali Zadran,,0,4,4,,,,316323163
+2,Afghanistan,4,Mohammad Shahzad,PC Connell,Noor Ali Zadran,,0,4,4,,,,316323163
+2,Afghanistan,4,Mohammad Shahzad,PC Connell,Noor Ali Zadran,,0,4,4,,,,316323163
+2,Afghanistan,4,Mohammad Shahzad,PC Connell,Noor Ali Zadran,,0,4,4,,,,316323163
+2,Afghanistan,4,Mohammad Shahzad,PC Connell,Noor Ali Zadran,,0,4,4,,,,316323163
+2,Afghanistan,4,Mohammad Shahzad,PC Connell,Noor Ali Zadran,,0,0,0,,,,316323163
+2,Afghanistan,5,Noor Ali Zadran,DT Johnston,Mohammad Shahzad,,0,0,0,,,,316323163
+2,Afghanistan,5,Noor Ali Zadran,DT Johnston,Mohammad Shahzad,byes,1,1,0,,,,316323163
+2,Afghanistan,5,Mohammad Shahzad,DT Johnston,Noor Ali Zadran,,0,0,0,,,,316323163
+2,Afghanistan,5,Mohammad Shahzad,DT Johnston,Noor Ali Zadran,,0,0,0,,,,316323163
+2,Afghanistan,5,Mohammad Shahzad,DT Johnston,Noor Ali Zadran,,0,0,0,,,,316323163
+2,Afghanistan,5,Mohammad Shahzad,DT Johnston,Noor Ali Zadran,,0,2,2,,,,316323163
+2,Afghanistan,6,Noor Ali Zadran,AR Cusack,Mohammad Shahzad,,0,0,0,,,,316323163
+2,Afghanistan,6,Noor Ali Zadran,AR Cusack,Mohammad Shahzad,,0,1,1,,,,316323163
+2,Afghanistan,6,Mohammad Shahzad,AR Cusack,Noor Ali Zadran,,0,0,0,,,,316323163
+2,Afghanistan,6,Mohammad Shahzad,AR Cusack,Noor Ali Zadran,,0,0,0,,,,316323163
+2,Afghanistan,6,Mohammad Shahzad,AR Cusack,Noor Ali Zadran,,0,0,0,,,,316323163
+2,Afghanistan,6,Mohammad Shahzad,AR Cusack,Noor Ali Zadran,wides,1,1,0,,,,316323163
+2,Afghanistan,6,Mohammad Shahzad,AR Cusack,Noor Ali Zadran,,0,1,1,,,,316323163
+2,Afghanistan,7,Mohammad Shahzad,DT Johnston,Noor Ali Zadran,,0,0,0,,,,316323163
+2,Afghanistan,7,Mohammad Shahzad,DT Johnston,Noor Ali Zadran,,0,1,1,,,,316323163
+2,Afghanistan,7,Noor Ali Zadran,DT Johnston,Mohammad Shahzad,,0,1,1,,,,316323163
+2,Afghanistan,7,Mohammad Shahzad,DT Johnston,Noor Ali Zadran,,0,1,1,,,,316323163
+2,Afghanistan,7,Noor Ali Zadran,DT Johnston,Mohammad Shahzad,,0,2,2,,,,316323163
+2,Afghanistan,7,Noor Ali Zadran,DT Johnston,Mohammad Shahzad,,0,1,1,,,,316323163
+2,Afghanistan,8,Noor Ali Zadran,AR Cusack,Mohammad Shahzad,,0,1,1,,,,316323163
+2,Afghanistan,8,Mohammad Shahzad,AR Cusack,Noor Ali Zadran,,0,1,1,,,,316323163
+2,Afghanistan,8,Noor Ali Zadran,AR Cusack,Mohammad Shahzad,,0,0,0,,,,316323163
+2,Afghanistan,8,Noor Ali Zadran,AR Cusack,Mohammad Shahzad,,0,0,0,,,,316323163
+2,Afghanistan,8,Noor Ali Zadran,AR Cusack,Mohammad Shahzad,,0,0,0,,,,316323163
+2,Afghanistan,8,Noor Ali Zadran,AR Cusack,Mohammad Shahzad,,0,1,1,,,,316323163
+2,Afghanistan,9,Noor Ali Zadran,GH Dockrell,Mohammad Shahzad,,0,0,0,,,,316323163
+2,Afghanistan,9,Noor Ali Zadran,GH Dockrell,Mohammad Shahzad,,0,1,1,,,,316323163
+2,Afghanistan,9,Mohammad Shahzad,GH Dockrell,Noor Ali Zadran,,0,0,0,,,,316323163
+2,Afghanistan,9,Mohammad Shahzad,GH Dockrell,Noor Ali Zadran,,0,4,4,,,,316323163
+2,Afghanistan,9,Mohammad Shahzad,GH Dockrell,Noor Ali Zadran,,0,2,2,,,,316323163
+2,Afghanistan,9,Mohammad Shahzad,GH Dockrell,Noor Ali Zadran,,0,1,1,,,,316323163
+2,Afghanistan,10,Mohammad Shahzad,KJ O'Brien,Noor Ali Zadran,,0,2,2,,,,316323163
+2,Afghanistan,10,Mohammad Shahzad,KJ O'Brien,Noor Ali Zadran,,0,1,1,,,,316323163
+2,Afghanistan,10,Noor Ali Zadran,KJ O'Brien,Mohammad Shahzad,,0,4,4,,,,316323163
+2,Afghanistan,10,Noor Ali Zadran,KJ O'Brien,Mohammad Shahzad,,0,1,1,,,,316323163
+2,Afghanistan,10,Mohammad Shahzad,KJ O'Brien,Noor Ali Zadran,,0,1,1,,,,316323163
+2,Afghanistan,10,Noor Ali Zadran,KJ O'Brien,Mohammad Shahzad,,0,0,0,lbw,Noor Ali Zadran,,316323163
+2,Afghanistan,11,Mohammad Shahzad,GH Dockrell,Nawroz Mangal,,0,0,0,,,,316323163
+2,Afghanistan,11,Mohammad Shahzad,GH Dockrell,Nawroz Mangal,,0,1,1,,,,316323163
+2,Afghanistan,11,Nawroz Mangal,GH Dockrell,Mohammad Shahzad,,0,0,0,,,,316323163
+2,Afghanistan,11,Nawroz Mangal,GH Dockrell,Mohammad Shahzad,,0,0,0,,,,316323163
+2,Afghanistan,11,Nawroz Mangal,GH Dockrell,Mohammad Shahzad,,0,0,0,,,,316323163
+2,Afghanistan,11,Nawroz Mangal,GH Dockrell,Mohammad Shahzad,,0,4,4,,,,316323163
+2,Afghanistan,12,Mohammad Shahzad,KJ O'Brien,Nawroz Mangal,,0,2,2,,,,316323163
+2,Afghanistan,12,Mohammad Shahzad,KJ O'Brien,Nawroz Mangal,,0,1,1,,,,316323163
+2,Afghanistan,12,Nawroz Mangal,KJ O'Brien,Mohammad Shahzad,,0,4,4,,,,316323163
+2,Afghanistan,12,Nawroz Mangal,KJ O'Brien,Mohammad Shahzad,,0,0,0,,,,316323163
+2,Afghanistan,12,Nawroz Mangal,KJ O'Brien,Mohammad Shahzad,,0,0,0,,,,316323163
+2,Afghanistan,12,Nawroz Mangal,KJ O'Brien,Mohammad Shahzad,,0,0,0,,,,316323163
+2,Afghanistan,13,Mohammad Shahzad,GH Dockrell,Nawroz Mangal,,0,0,0,,,,316323163
+2,Afghanistan,13,Mohammad Shahzad,GH Dockrell,Nawroz Mangal,,0,0,0,,,,316323163
+2,Afghanistan,13,Mohammad Shahzad,GH Dockrell,Nawroz Mangal,legbyes,1,1,0,,,,316323163
+2,Afghanistan,13,Nawroz Mangal,GH Dockrell,Mohammad Shahzad,,0,1,1,,,,316323163
+2,Afghanistan,13,Mohammad Shahzad,GH Dockrell,Nawroz Mangal,,0,2,2,,,,316323163
+2,Afghanistan,13,Mohammad Shahzad,GH Dockrell,Nawroz Mangal,,0,2,2,,,,316323163
+2,Afghanistan,14,Nawroz Mangal,NG Jones,Mohammad Shahzad,,0,0,0,,,,316323163
+2,Afghanistan,14,Nawroz Mangal,NG Jones,Mohammad Shahzad,,0,2,2,,,,316323163
+2,Afghanistan,14,Nawroz Mangal,NG Jones,Mohammad Shahzad,,0,1,1,,,,316323163
+2,Afghanistan,14,Mohammad Shahzad,NG Jones,Nawroz Mangal,,0,2,2,,,,316323163
+2,Afghanistan,14,Mohammad Shahzad,NG Jones,Nawroz Mangal,,0,2,2,,,,316323163
+2,Afghanistan,14,Mohammad Shahzad,NG Jones,Nawroz Mangal,,0,1,1,,,,316323163
+2,Afghanistan,15,Mohammad Shahzad,GH Dockrell,Nawroz Mangal,,0,0,0,,,,316323163
+2,Afghanistan,15,Mohammad Shahzad,GH Dockrell,Nawroz Mangal,wides,1,1,0,,,,316323163
+2,Afghanistan,15,Mohammad Shahzad,GH Dockrell,Nawroz Mangal,,0,2,2,,,,316323163
+2,Afghanistan,15,Mohammad Shahzad,GH Dockrell,Nawroz Mangal,,0,1,1,,,,316323163
+2,Afghanistan,15,Nawroz Mangal,GH Dockrell,Mohammad Shahzad,,0,1,1,,,,316323163
+2,Afghanistan,15,Mohammad Shahzad,GH Dockrell,Nawroz Mangal,wides,1,1,0,,,,316323163
+2,Afghanistan,15,Mohammad Shahzad,GH Dockrell,Nawroz Mangal,,0,1,1,,,,316323163
+2,Afghanistan,15,Nawroz Mangal,GH Dockrell,Mohammad Shahzad,,0,1,1,,,,316323163
+2,Afghanistan,16,Nawroz Mangal,AR Cusack,Mohammad Shahzad,wides,5,5,0,,,,316323163
+2,Afghanistan,16,Nawroz Mangal,AR Cusack,Mohammad Shahzad,,0,1,1,,,,316323163
+2,Afghanistan,16,Mohammad Shahzad,AR Cusack,Nawroz Mangal,,0,1,1,,,,316323163
+2,Afghanistan,16,Nawroz Mangal,AR Cusack,Mohammad Shahzad,,0,4,4,,,,316323163
+2,Afghanistan,16,Nawroz Mangal,AR Cusack,Mohammad Shahzad,,0,1,1,,,,316323163
+2,Afghanistan,16,Mohammad Shahzad,AR Cusack,Nawroz Mangal,,0,2,2,,,,316323163
+2,Afghanistan,16,Mohammad Shahzad,AR Cusack,Nawroz Mangal,,0,1,1,,,,316323163
+2,Afghanistan,17,Mohammad Shahzad,PC Connell,Nawroz Mangal,,0,1,1,,,,316323163
+2,Afghanistan,17,Nawroz Mangal,PC Connell,Mohammad Shahzad,wides,1,1,0,,,,316323163
+2,Afghanistan,17,Nawroz Mangal,PC Connell,Mohammad Shahzad,,0,1,1,,,,316323163
+2,Afghanistan,17,Mohammad Shahzad,PC Connell,Nawroz Mangal,,0,6,6,,,,316323163

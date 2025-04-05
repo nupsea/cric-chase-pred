@@ -1,0 +1,93 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Afghanistan,0,Mohammad Shahzad,KM Jarvis,Karim Sadiq,,0,0,0,,,,381023810
+2,Afghanistan,0,Mohammad Shahzad,KM Jarvis,Karim Sadiq,,0,1,1,,,,381023810
+2,Afghanistan,0,Karim Sadiq,KM Jarvis,Mohammad Shahzad,,0,0,0,,,,381023810
+2,Afghanistan,0,Karim Sadiq,KM Jarvis,Mohammad Shahzad,,0,0,0,,,,381023810
+2,Afghanistan,0,Karim Sadiq,KM Jarvis,Mohammad Shahzad,,0,0,0,,,,381023810
+2,Afghanistan,0,Karim Sadiq,KM Jarvis,Mohammad Shahzad,,0,0,0,,,,381023810
+2,Afghanistan,1,Mohammad Shahzad,TL Chatara,Karim Sadiq,,0,0,0,,,,381023810
+2,Afghanistan,1,Mohammad Shahzad,TL Chatara,Karim Sadiq,,0,1,1,,,,381023810
+2,Afghanistan,1,Karim Sadiq,TL Chatara,Mohammad Shahzad,,0,4,4,,,,381023810
+2,Afghanistan,1,Karim Sadiq,TL Chatara,Mohammad Shahzad,,0,1,1,,,,381023810
+2,Afghanistan,1,Mohammad Shahzad,TL Chatara,Karim Sadiq,,0,2,2,,,,381023810
+2,Afghanistan,1,Mohammad Shahzad,TL Chatara,Karim Sadiq,,0,6,6,,,,381023810
+2,Afghanistan,2,Karim Sadiq,KM Jarvis,Mohammad Shahzad,,0,0,0,caught,Karim Sadiq,BRM Taylor,381023810
+2,Afghanistan,2,Asghar Stanikzai,KM Jarvis,Mohammad Shahzad,,0,0,0,,,,381023810
+2,Afghanistan,2,Asghar Stanikzai,KM Jarvis,Mohammad Shahzad,,0,0,0,,,,381023810
+2,Afghanistan,2,Asghar Stanikzai,KM Jarvis,Mohammad Shahzad,,0,0,0,,,,381023810
+2,Afghanistan,2,Asghar Stanikzai,KM Jarvis,Mohammad Shahzad,,0,4,4,,,,381023810
+2,Afghanistan,2,Asghar Stanikzai,KM Jarvis,Mohammad Shahzad,,0,0,0,,,,381023810
+2,Afghanistan,3,Mohammad Shahzad,B Muzarabani,Asghar Stanikzai,legbyes,1,1,0,,,,381023810
+2,Afghanistan,3,Asghar Stanikzai,B Muzarabani,Mohammad Shahzad,,0,1,1,,,,381023810
+2,Afghanistan,3,Mohammad Shahzad,B Muzarabani,Asghar Stanikzai,,0,4,4,,,,381023810
+2,Afghanistan,3,Mohammad Shahzad,B Muzarabani,Asghar Stanikzai,,0,6,6,,,,381023810
+2,Afghanistan,3,Mohammad Shahzad,B Muzarabani,Asghar Stanikzai,byes,4,4,0,,,,381023810
+2,Afghanistan,3,Mohammad Shahzad,B Muzarabani,Asghar Stanikzai,,0,0,0,caught,Mohammad Shahzad,BRM Taylor,381023810
+2,Afghanistan,4,Asghar Stanikzai,KM Jarvis,Mohammad Nabi,,0,0,0,,,,381023810
+2,Afghanistan,4,Asghar Stanikzai,KM Jarvis,Mohammad Nabi,,0,1,1,,,,381023810
+2,Afghanistan,4,Mohammad Nabi,KM Jarvis,Asghar Stanikzai,legbyes,1,1,0,,,,381023810
+2,Afghanistan,4,Asghar Stanikzai,KM Jarvis,Mohammad Nabi,wides,1,1,0,,,,381023810
+2,Afghanistan,4,Asghar Stanikzai,KM Jarvis,Mohammad Nabi,,0,0,0,,,,381023810
+2,Afghanistan,4,Asghar Stanikzai,KM Jarvis,Mohammad Nabi,,0,0,0,,,,381023810
+2,Afghanistan,4,Asghar Stanikzai,KM Jarvis,Mohammad Nabi,,0,4,4,,,,381023810
+2,Afghanistan,5,Mohammad Nabi,B Muzarabani,Asghar Stanikzai,,0,0,0,,,,381023810
+2,Afghanistan,5,Mohammad Nabi,B Muzarabani,Asghar Stanikzai,,0,0,0,,,,381023810
+2,Afghanistan,5,Mohammad Nabi,B Muzarabani,Asghar Stanikzai,,0,0,0,,,,381023810
+2,Afghanistan,5,Mohammad Nabi,B Muzarabani,Asghar Stanikzai,,0,4,4,,,,381023810
+2,Afghanistan,5,Mohammad Nabi,B Muzarabani,Asghar Stanikzai,,0,4,4,,,,381023810
+2,Afghanistan,5,Mohammad Nabi,B Muzarabani,Asghar Stanikzai,,0,0,0,,,,381023810
+2,Afghanistan,6,Asghar Stanikzai,TL Chatara,Mohammad Nabi,,0,0,0,,,,381023810
+2,Afghanistan,6,Asghar Stanikzai,TL Chatara,Mohammad Nabi,,0,1,1,,,,381023810
+2,Afghanistan,6,Asghar Stanikzai,TL Chatara,Mohammad Nabi,,0,0,0,,,,381023810
+2,Afghanistan,6,Asghar Stanikzai,TL Chatara,Mohammad Nabi,,0,0,0,lbw,Asghar Stanikzai,,381023810
+2,Afghanistan,6,Sharafuddin Ashraf,TL Chatara,Mohammad Nabi,,0,1,1,,,,381023810
+2,Afghanistan,6,Mohammad Nabi,TL Chatara,Sharafuddin Ashraf,,0,0,0,,,,381023810
+2,Afghanistan,7,Sharafuddin Ashraf,AG Cremer,Mohammad Nabi,,0,2,2,,,,381023810
+2,Afghanistan,7,Sharafuddin Ashraf,AG Cremer,Mohammad Nabi,,0,1,1,,,,381023810
+2,Afghanistan,7,Mohammad Nabi,AG Cremer,Sharafuddin Ashraf,,0,0,0,,,,381023810
+2,Afghanistan,7,Mohammad Nabi,AG Cremer,Sharafuddin Ashraf,,0,1,1,,,,381023810
+2,Afghanistan,7,Sharafuddin Ashraf,AG Cremer,Mohammad Nabi,,0,0,0,,,,381023810
+2,Afghanistan,7,Sharafuddin Ashraf,AG Cremer,Mohammad Nabi,,0,1,1,,,,381023810
+2,Afghanistan,8,Sharafuddin Ashraf,TL Chatara,Mohammad Nabi,,0,4,4,,,,381023810
+2,Afghanistan,8,Sharafuddin Ashraf,TL Chatara,Mohammad Nabi,,0,0,0,,,,381023810
+2,Afghanistan,8,Sharafuddin Ashraf,TL Chatara,Mohammad Nabi,,0,1,1,,,,381023810
+2,Afghanistan,8,Mohammad Nabi,TL Chatara,Sharafuddin Ashraf,,0,0,0,,,,381023810
+2,Afghanistan,8,Mohammad Nabi,TL Chatara,Sharafuddin Ashraf,,0,0,0,,,,381023810
+2,Afghanistan,8,Mohammad Nabi,TL Chatara,Sharafuddin Ashraf,,0,2,2,,,,381023810
+2,Afghanistan,9,Sharafuddin Ashraf,AG Cremer,Mohammad Nabi,,0,0,0,,,,381023810
+2,Afghanistan,9,Sharafuddin Ashraf,AG Cremer,Mohammad Nabi,,0,6,6,,,,381023810
+2,Afghanistan,9,Sharafuddin Ashraf,AG Cremer,Mohammad Nabi,,0,0,0,,,,381023810
+2,Afghanistan,9,Sharafuddin Ashraf,AG Cremer,Mohammad Nabi,,0,1,1,,,,381023810
+2,Afghanistan,9,Mohammad Nabi,AG Cremer,Sharafuddin Ashraf,,0,0,0,,,,381023810
+2,Afghanistan,9,Mohammad Nabi,AG Cremer,Sharafuddin Ashraf,,0,6,6,,,,381023810
+2,Afghanistan,10,Sharafuddin Ashraf,RP Burl,Mohammad Nabi,wides,1,1,0,,,,381023810
+2,Afghanistan,10,Sharafuddin Ashraf,RP Burl,Mohammad Nabi,,0,0,0,,,,381023810
+2,Afghanistan,10,Sharafuddin Ashraf,RP Burl,Mohammad Nabi,,0,1,1,,,,381023810
+2,Afghanistan,10,Mohammad Nabi,RP Burl,Sharafuddin Ashraf,,0,1,1,,,,381023810
+2,Afghanistan,10,Sharafuddin Ashraf,RP Burl,Mohammad Nabi,,0,0,0,lbw,Sharafuddin Ashraf,,381023810
+2,Afghanistan,10,Najibullah Zadran,RP Burl,Mohammad Nabi,,0,0,0,,,,381023810
+2,Afghanistan,10,Najibullah Zadran,RP Burl,Mohammad Nabi,,0,0,0,,,,381023810
+2,Afghanistan,11,Mohammad Nabi,B Muzarabani,Najibullah Zadran,,0,4,4,,,,381023810
+2,Afghanistan,11,Mohammad Nabi,B Muzarabani,Najibullah Zadran,,0,0,0,,,,381023810
+2,Afghanistan,11,Mohammad Nabi,B Muzarabani,Najibullah Zadran,legbyes,1,1,0,,,,381023810
+2,Afghanistan,11,Najibullah Zadran,B Muzarabani,Mohammad Nabi,,0,0,0,,,,381023810
+2,Afghanistan,11,Najibullah Zadran,B Muzarabani,Mohammad Nabi,,0,0,0,caught,Najibullah Zadran,BRM Taylor,381023810
+2,Afghanistan,11,Shafiqullah,B Muzarabani,Mohammad Nabi,legbyes,2,2,0,,,,381023810
+2,Afghanistan,12,Mohammad Nabi,RP Burl,Shafiqullah,,0,1,1,,,,381023810
+2,Afghanistan,12,Shafiqullah,RP Burl,Mohammad Nabi,,0,0,0,,,,381023810
+2,Afghanistan,12,Shafiqullah,RP Burl,Mohammad Nabi,,0,1,1,,,,381023810
+2,Afghanistan,12,Mohammad Nabi,RP Burl,Shafiqullah,,0,0,0,,,,381023810
+2,Afghanistan,12,Mohammad Nabi,RP Burl,Shafiqullah,,0,6,6,,,,381023810
+2,Afghanistan,12,Mohammad Nabi,RP Burl,Shafiqullah,,0,0,0,,,,381023810
+2,Afghanistan,13,Shafiqullah,B Muzarabani,Mohammad Nabi,,0,1,1,,,,381023810
+2,Afghanistan,13,Mohammad Nabi,B Muzarabani,Shafiqullah,,0,1,1,,,,381023810
+2,Afghanistan,13,Shafiqullah,B Muzarabani,Mohammad Nabi,,0,4,4,,,,381023810
+2,Afghanistan,13,Shafiqullah,B Muzarabani,Mohammad Nabi,,0,1,1,,,,381023810
+2,Afghanistan,13,Mohammad Nabi,B Muzarabani,Shafiqullah,,0,0,0,,,,381023810
+2,Afghanistan,13,Mohammad Nabi,B Muzarabani,Shafiqullah,,0,6,6,,,,381023810
+2,Afghanistan,14,Shafiqullah,KM Jarvis,Mohammad Nabi,,0,0,0,,,,381023810
+2,Afghanistan,14,Shafiqullah,KM Jarvis,Mohammad Nabi,wides,1,1,0,,,,381023810
+2,Afghanistan,14,Shafiqullah,KM Jarvis,Mohammad Nabi,,0,6,6,,,,381023810
+2,Afghanistan,14,Shafiqullah,KM Jarvis,Mohammad Nabi,,0,1,1,,,,381023810
+2,Afghanistan,14,Mohammad Nabi,KM Jarvis,Shafiqullah,,0,4,4,,,,381023810
+2,Afghanistan,14,Mohammad Nabi,KM Jarvis,Shafiqullah,wides,1,1,0,,,,381023810

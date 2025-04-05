@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,L Lee,DB Sharma,S Luus,,0,0,0,,,,31350231350
+1,South Africa,0,L Lee,DB Sharma,S Luus,,0,0,0,,,,31350231350
+1,South Africa,0,L Lee,DB Sharma,S Luus,,0,0,0,,,,31350231350
+1,South Africa,0,L Lee,DB Sharma,S Luus,,0,0,0,,,,31350231350
+1,South Africa,0,L Lee,DB Sharma,S Luus,,0,1,1,,,,31350231350
+1,South Africa,0,S Luus,DB Sharma,L Lee,,0,4,4,,,,31350231350
+1,South Africa,1,L Lee,S Pandey,S Luus,wides,1,1,0,,,,31350231350
+1,South Africa,1,L Lee,S Pandey,S Luus,,0,0,0,,,,31350231350
+1,South Africa,1,L Lee,S Pandey,S Luus,,0,1,1,,,,31350231350
+1,South Africa,1,S Luus,S Pandey,L Lee,,0,0,0,,,,31350231350
+1,South Africa,1,S Luus,S Pandey,L Lee,,0,0,0,,,,31350231350
+1,South Africa,1,S Luus,S Pandey,L Lee,,0,0,0,,,,31350231350
+1,South Africa,1,S Luus,S Pandey,L Lee,,0,0,0,,,,31350231350
+1,South Africa,2,L Lee,DB Sharma,S Luus,,0,0,0,,,,31350231350
+1,South Africa,2,L Lee,DB Sharma,S Luus,,0,1,1,,,,31350231350
+1,South Africa,2,S Luus,DB Sharma,L Lee,,0,0,0,,,,31350231350
+1,South Africa,2,S Luus,DB Sharma,L Lee,,0,0,0,,,,31350231350
+1,South Africa,2,S Luus,DB Sharma,L Lee,,0,1,1,,,,31350231350
+1,South Africa,2,L Lee,DB Sharma,S Luus,,0,0,0,,,,31350231350
+1,South Africa,3,S Luus,S Pandey,L Lee,,0,0,0,,,,31350231350
+1,South Africa,3,S Luus,S Pandey,L Lee,,0,1,1,,,,31350231350
+1,South Africa,3,L Lee,S Pandey,S Luus,,0,0,0,,,,31350231350
+1,South Africa,3,L Lee,S Pandey,S Luus,,0,2,2,,,,31350231350
+1,South Africa,3,L Lee,S Pandey,S Luus,,0,1,1,,,,31350231350
+1,South Africa,3,S Luus,S Pandey,L Lee,,0,0,0,,,,31350231350
+1,South Africa,4,L Lee,DB Sharma,S Luus,,0,1,1,,,,31350231350
+1,South Africa,4,S Luus,DB Sharma,L Lee,,0,0,0,,,,31350231350
+1,South Africa,4,S Luus,DB Sharma,L Lee,,0,1,1,,,,31350231350
+1,South Africa,4,L Lee,DB Sharma,S Luus,,0,0,0,,,,31350231350
+1,South Africa,4,L Lee,DB Sharma,S Luus,,0,4,4,,,,31350231350
+1,South Africa,4,L Lee,DB Sharma,S Luus,,0,4,4,,,,31350231350
+1,South Africa,5,S Luus,RP Yadav,L Lee,,0,0,0,lbw,S Luus,,31350231350
+1,South Africa,5,L Wolvaardt,RP Yadav,L Lee,,0,0,0,,,,31350231350
+1,South Africa,5,L Wolvaardt,RP Yadav,L Lee,,0,0,0,,,,31350231350
+1,South Africa,5,L Wolvaardt,RP Yadav,L Lee,,0,1,1,,,,31350231350
+1,South Africa,5,L Lee,RP Yadav,L Wolvaardt,,0,1,1,,,,31350231350
+1,South Africa,5,L Wolvaardt,RP Yadav,L Lee,,0,0,0,,,,31350231350
+1,South Africa,6,L Lee,Poonam Yadav,L Wolvaardt,,0,0,0,,,,31350231350
+1,South Africa,6,L Lee,Poonam Yadav,L Wolvaardt,,0,0,0,,,,31350231350
+1,South Africa,6,L Lee,Poonam Yadav,L Wolvaardt,,0,0,0,,,,31350231350
+1,South Africa,6,L Lee,Poonam Yadav,L Wolvaardt,,0,0,0,caught,L Lee,S Mandhana,31350231350
+1,South Africa,6,N de Klerk,Poonam Yadav,L Wolvaardt,,0,0,0,,,,31350231350
+1,South Africa,6,N de Klerk,Poonam Yadav,L Wolvaardt,,0,0,0,,,,31350231350
+1,South Africa,7,L Wolvaardt,H Kaur,N de Klerk,,0,1,1,,,,31350231350
+1,South Africa,7,N de Klerk,H Kaur,L Wolvaardt,,0,0,0,,,,31350231350
+1,South Africa,7,N de Klerk,H Kaur,L Wolvaardt,,0,0,0,,,,31350231350
+1,South Africa,7,N de Klerk,H Kaur,L Wolvaardt,,0,4,4,,,,31350231350
+1,South Africa,7,N de Klerk,H Kaur,L Wolvaardt,,0,1,1,,,,31350231350
+1,South Africa,7,L Wolvaardt,H Kaur,N de Klerk,,0,1,1,,,,31350231350
+1,South Africa,8,L Wolvaardt,Poonam Yadav,N de Klerk,,0,1,1,,,,31350231350
+1,South Africa,8,N de Klerk,Poonam Yadav,L Wolvaardt,,0,0,0,,,,31350231350
+1,South Africa,8,N de Klerk,Poonam Yadav,L Wolvaardt,,0,2,2,,,,31350231350
+1,South Africa,8,N de Klerk,Poonam Yadav,L Wolvaardt,,0,1,1,,,,31350231350
+1,South Africa,8,L Wolvaardt,Poonam Yadav,N de Klerk,,0,0,0,,,,31350231350
+1,South Africa,8,L Wolvaardt,Poonam Yadav,N de Klerk,,0,0,0,,,,31350231350
+1,South Africa,9,N de Klerk,P Vastrakar,L Wolvaardt,noballs,5,5,0,,,,31350231350
+1,South Africa,9,N de Klerk,P Vastrakar,L Wolvaardt,wides,1,1,0,,,,31350231350
+1,South Africa,9,N de Klerk,P Vastrakar,L Wolvaardt,,0,1,1,,,,31350231350
+1,South Africa,9,L Wolvaardt,P Vastrakar,N de Klerk,,0,0,0,,,,31350231350
+1,South Africa,9,L Wolvaardt,P Vastrakar,N de Klerk,,0,4,4,,,,31350231350
+1,South Africa,9,L Wolvaardt,P Vastrakar,N de Klerk,,0,0,0,,,,31350231350
+1,South Africa,9,L Wolvaardt,P Vastrakar,N de Klerk,,0,0,0,,,,31350231350
+1,South Africa,9,L Wolvaardt,P Vastrakar,N de Klerk,,0,0,0,,,,31350231350
+1,South Africa,10,N de Klerk,RP Yadav,L Wolvaardt,,0,0,0,,,,31350231350
+1,South Africa,10,N de Klerk,RP Yadav,L Wolvaardt,,0,1,1,,,,31350231350
+1,South Africa,10,L Wolvaardt,RP Yadav,N de Klerk,,0,0,0,,,,31350231350
+1,South Africa,10,L Wolvaardt,RP Yadav,N de Klerk,,0,4,4,,,,31350231350
+1,South Africa,10,L Wolvaardt,RP Yadav,N de Klerk,,0,4,4,,,,31350231350
+1,South Africa,10,L Wolvaardt,RP Yadav,N de Klerk,,0,1,1,,,,31350231350
+1,South Africa,11,L Wolvaardt,H Kaur,N de Klerk,,0,0,0,,,,31350231350
+1,South Africa,11,L Wolvaardt,H Kaur,N de Klerk,,0,0,0,bowled,L Wolvaardt,,31350231350
+1,South Africa,11,M du Preez,H Kaur,N de Klerk,,0,0,0,,,,31350231350
+1,South Africa,11,M du Preez,H Kaur,N de Klerk,,0,1,1,,,,31350231350
+1,South Africa,11,N de Klerk,H Kaur,M du Preez,,0,1,1,,,,31350231350
+1,South Africa,11,M du Preez,H Kaur,N de Klerk,,0,0,0,,,,31350231350
+1,South Africa,12,N de Klerk,RP Yadav,M du Preez,,0,0,0,caught,N de Klerk,DB Sharma,31350231350
+1,South Africa,12,M du Preez,RP Yadav,L Goodall,,0,0,0,,,,31350231350
+1,South Africa,12,M du Preez,RP Yadav,L Goodall,,0,0,0,,,,31350231350
+1,South Africa,12,M du Preez,RP Yadav,L Goodall,,0,1,1,,,,31350231350
+1,South Africa,12,L Goodall,RP Yadav,M du Preez,,0,0,0,,,,31350231350
+1,South Africa,12,L Goodall,RP Yadav,M du Preez,,0,1,1,,,,31350231350
+1,South Africa,13,L Goodall,H Kaur,M du Preez,,0,1,1,,,,31350231350
+1,South Africa,13,M du Preez,H Kaur,L Goodall,,0,0,0,,,,31350231350
+1,South Africa,13,M du Preez,H Kaur,L Goodall,,0,1,1,,,,31350231350
+1,South Africa,13,L Goodall,H Kaur,M du Preez,,0,1,1,,,,31350231350
+1,South Africa,13,M du Preez,H Kaur,L Goodall,,0,1,1,,,,31350231350
+1,South Africa,13,L Goodall,H Kaur,M du Preez,,0,0,0,,,,31350231350
+1,South Africa,14,M du Preez,Poonam Yadav,L Goodall,,0,1,1,,,,31350231350
+1,South Africa,14,L Goodall,Poonam Yadav,M du Preez,,0,0,0,,,,31350231350
+1,South Africa,14,L Goodall,Poonam Yadav,M du Preez,,0,1,1,,,,31350231350
+1,South Africa,14,M du Preez,Poonam Yadav,L Goodall,,0,4,4,,,,31350231350
+1,South Africa,14,M du Preez,Poonam Yadav,L Goodall,,0,1,1,,,,31350231350
+1,South Africa,14,L Goodall,Poonam Yadav,M du Preez,legbyes,1,1,0,,,,31350231350
+1,South Africa,15,L Goodall,S Pandey,M du Preez,,0,0,0,,,,31350231350
+1,South Africa,15,L Goodall,S Pandey,M du Preez,,0,0,0,,,,31350231350
+1,South Africa,15,L Goodall,S Pandey,M du Preez,,0,1,1,,,,31350231350
+1,South Africa,15,M du Preez,S Pandey,L Goodall,,0,0,0,caught,M du Preez,DB Sharma,31350231350
+1,South Africa,15,L Goodall,S Pandey,A Bosch,,0,0,0,,,,31350231350
+1,South Africa,15,L Goodall,S Pandey,A Bosch,,0,1,1,,,,31350231350
+1,South Africa,16,L Goodall,Poonam Yadav,A Bosch,,0,1,1,,,,31350231350
+1,South Africa,16,A Bosch,Poonam Yadav,L Goodall,,0,1,1,,,,31350231350
+1,South Africa,16,L Goodall,Poonam Yadav,A Bosch,,0,0,0,,,,31350231350
+1,South Africa,16,L Goodall,Poonam Yadav,A Bosch,,0,1,1,,,,31350231350
+1,South Africa,16,A Bosch,Poonam Yadav,L Goodall,,0,1,1,,,,31350231350
+1,South Africa,16,L Goodall,Poonam Yadav,A Bosch,,0,0,0,,,,31350231350
+1,South Africa,17,A Bosch,S Pandey,L Goodall,legbyes,1,1,0,,,,31350231350
+1,South Africa,17,L Goodall,S Pandey,A Bosch,,0,1,1,,,,31350231350
+1,South Africa,17,A Bosch,S Pandey,L Goodall,,0,4,4,,,,31350231350
+1,South Africa,17,A Bosch,S Pandey,L Goodall,,0,1,1,,,,31350231350
+1,South Africa,17,L Goodall,S Pandey,A Bosch,,0,0,0,,,,31350231350
+1,South Africa,17,L Goodall,S Pandey,A Bosch,,0,1,1,,,,31350231350
+1,South Africa,18,L Goodall,RP Yadav,A Bosch,,0,0,0,,,,31350231350
+1,South Africa,18,L Goodall,RP Yadav,A Bosch,,0,4,4,,,,31350231350
+1,South Africa,18,L Goodall,RP Yadav,A Bosch,,0,1,1,,,,31350231350
+1,South Africa,18,A Bosch,RP Yadav,L Goodall,,0,4,4,,,,31350231350
+1,South Africa,18,A Bosch,RP Yadav,L Goodall,,0,0,0,,,,31350231350
+1,South Africa,18,A Bosch,RP Yadav,L Goodall,,0,0,0,caught,A Bosch,S Mandhana,31350231350
+1,South Africa,19,S Ismail,DB Sharma,L Goodall,,0,0,0,caught,S Ismail,V Krishnamurthy,31350231350
+1,South Africa,19,L Goodall,DB Sharma,A Khaka,,0,0,0,stumped,L Goodall,T Bhatia,31350231350
+1,South Africa,19,TS Sekhukhune,DB Sharma,A Khaka,,0,0,0,,,,31350231350
+1,South Africa,19,TS Sekhukhune,DB Sharma,A Khaka,,0,0,0,,,,31350231350
+1,South Africa,19,TS Sekhukhune,DB Sharma,A Khaka,,0,1,1,,,,31350231350
+1,South Africa,19,A Khaka,DB Sharma,TS Sekhukhune,,0,1,1,,,,31350231350

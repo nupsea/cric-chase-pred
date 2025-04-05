@@ -1,0 +1,52 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Sri Lanka,0,BYA Mendis,AA Patil,AC Jayangani,,0,0,0,,,,394523945
+1,Sri Lanka,0,BYA Mendis,AA Patil,AC Jayangani,,0,1,1,,,,394523945
+1,Sri Lanka,0,AC Jayangani,AA Patil,BYA Mendis,,0,0,0,,,,394523945
+1,Sri Lanka,0,AC Jayangani,AA Patil,BYA Mendis,wides,5,5,0,,,,394523945
+1,Sri Lanka,0,AC Jayangani,AA Patil,BYA Mendis,,0,1,1,,,,394523945
+1,Sri Lanka,0,BYA Mendis,AA Patil,AC Jayangani,,0,0,0,,,,394523945
+1,Sri Lanka,0,BYA Mendis,AA Patil,AC Jayangani,,0,0,0,,,,394523945
+1,Sri Lanka,1,AC Jayangani,A Reddy,BYA Mendis,,0,2,2,,,,394523945
+1,Sri Lanka,1,AC Jayangani,A Reddy,BYA Mendis,,0,1,1,,,,394523945
+1,Sri Lanka,1,BYA Mendis,A Reddy,AC Jayangani,,0,0,0,,,,394523945
+1,Sri Lanka,1,BYA Mendis,A Reddy,AC Jayangani,,0,0,0,caught,BYA Mendis,DB Sharma,394523945
+1,Sri Lanka,1,AC Jayangani,A Reddy,MADD Surangika,,0,4,4,,,,394523945
+1,Sri Lanka,1,AC Jayangani,A Reddy,MADD Surangika,wides,1,1,0,,,,394523945
+1,Sri Lanka,1,AC Jayangani,A Reddy,MADD Surangika,,0,4,4,,,,394523945
+1,Sri Lanka,2,MADD Surangika,AA Patil,AC Jayangani,,0,1,1,,,,394523945
+1,Sri Lanka,2,AC Jayangani,AA Patil,MADD Surangika,,0,0,0,,,,394523945
+1,Sri Lanka,2,AC Jayangani,AA Patil,MADD Surangika,,0,1,1,,,,394523945
+1,Sri Lanka,2,MADD Surangika,AA Patil,AC Jayangani,,0,1,1,,,,394523945
+1,Sri Lanka,2,AC Jayangani,AA Patil,MADD Surangika,,0,0,0,,,,394523945
+1,Sri Lanka,2,AC Jayangani,AA Patil,MADD Surangika,wides,1,1,0,,,,394523945
+1,Sri Lanka,2,AC Jayangani,AA Patil,MADD Surangika,wides,1,1,0,,,,394523945
+1,Sri Lanka,2,AC Jayangani,AA Patil,MADD Surangika,,0,6,6,,,,394523945
+1,Sri Lanka,3,MADD Surangika,DB Sharma,AC Jayangani,,0,1,1,,,,394523945
+1,Sri Lanka,3,AC Jayangani,DB Sharma,MADD Surangika,,0,1,1,,,,394523945
+1,Sri Lanka,3,MADD Surangika,DB Sharma,AC Jayangani,,0,0,0,,,,394523945
+1,Sri Lanka,3,MADD Surangika,DB Sharma,AC Jayangani,,0,1,1,,,,394523945
+1,Sri Lanka,3,AC Jayangani,DB Sharma,MADD Surangika,,0,0,0,,,,394523945
+1,Sri Lanka,3,AC Jayangani,DB Sharma,MADD Surangika,,0,0,0,,,,394523945
+1,Sri Lanka,4,MADD Surangika,AA Patil,AC Jayangani,,0,2,2,,,,394523945
+1,Sri Lanka,4,MADD Surangika,AA Patil,AC Jayangani,,0,1,1,,,,394523945
+1,Sri Lanka,4,AC Jayangani,AA Patil,MADD Surangika,,0,1,1,,,,394523945
+1,Sri Lanka,4,MADD Surangika,AA Patil,AC Jayangani,,0,0,0,,,,394523945
+1,Sri Lanka,4,MADD Surangika,AA Patil,AC Jayangani,,0,1,1,,,,394523945
+1,Sri Lanka,4,AC Jayangani,AA Patil,MADD Surangika,,0,0,0,,,,394523945
+1,Sri Lanka,5,MADD Surangika,DB Sharma,AC Jayangani,,0,0,0,,,,394523945
+1,Sri Lanka,5,MADD Surangika,DB Sharma,AC Jayangani,,0,1,1,,,,394523945
+1,Sri Lanka,5,AC Jayangani,DB Sharma,MADD Surangika,,0,0,0,bowled,AC Jayangani,,394523945
+1,Sri Lanka,5,WK Dilhari,DB Sharma,MADD Surangika,,0,1,1,,,,394523945
+1,Sri Lanka,5,MADD Surangika,DB Sharma,WK Dilhari,,0,1,1,,,,394523945
+1,Sri Lanka,5,WK Dilhari,DB Sharma,MADD Surangika,,0,1,1,,,,394523945
+1,Sri Lanka,6,WK Dilhari,Poonam Yadav,MADD Surangika,,0,1,1,,,,394523945
+1,Sri Lanka,6,MADD Surangika,Poonam Yadav,WK Dilhari,,0,0,0,,,,394523945
+1,Sri Lanka,6,MADD Surangika,Poonam Yadav,WK Dilhari,,0,1,1,,,,394523945
+1,Sri Lanka,6,WK Dilhari,Poonam Yadav,MADD Surangika,,0,0,0,,,,394523945
+1,Sri Lanka,6,WK Dilhari,Poonam Yadav,MADD Surangika,,0,0,0,caught,WK Dilhari,A Reddy,394523945
+1,Sri Lanka,6,MADD Surangika,Poonam Yadav,LE Kaushalya,,0,0,0,,,,394523945
+1,Sri Lanka,7,LE Kaushalya,RP Yadav,MADD Surangika,,0,0,0,,,,394523945
+1,Sri Lanka,7,LE Kaushalya,RP Yadav,MADD Surangika,,0,0,0,,,,394523945
+1,Sri Lanka,7,LE Kaushalya,RP Yadav,MADD Surangika,,0,1,1,,,,394523945
+1,Sri Lanka,7,MADD Surangika,RP Yadav,LE Kaushalya,,0,0,0,,,,394523945
+1,Sri Lanka,7,MADD Surangika,RP Yadav,LE Kaushalya,,0,4,4,,,,394523945

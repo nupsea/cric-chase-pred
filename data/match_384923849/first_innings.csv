@@ -1,0 +1,56 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,L Lee,Jahanara Alam,T Brits,,0,0,0,,,,384923849
+1,South Africa,0,L Lee,Jahanara Alam,T Brits,,0,4,4,,,,384923849
+1,South Africa,0,L Lee,Jahanara Alam,T Brits,,0,0,0,,,,384923849
+1,South Africa,0,L Lee,Jahanara Alam,T Brits,,0,1,1,,,,384923849
+1,South Africa,0,T Brits,Jahanara Alam,L Lee,,0,2,2,,,,384923849
+1,South Africa,0,T Brits,Jahanara Alam,L Lee,,0,0,0,,,,384923849
+1,South Africa,1,L Lee,Salma Khatun,T Brits,,0,0,0,,,,384923849
+1,South Africa,1,L Lee,Salma Khatun,T Brits,,0,4,4,,,,384923849
+1,South Africa,1,L Lee,Salma Khatun,T Brits,,0,0,0,lbw,L Lee,,384923849
+1,South Africa,1,S Luus,Salma Khatun,T Brits,,0,1,1,,,,384923849
+1,South Africa,1,T Brits,Salma Khatun,S Luus,,0,1,1,,,,384923849
+1,South Africa,1,S Luus,Salma Khatun,T Brits,wides,1,1,0,,,,384923849
+1,South Africa,1,S Luus,Salma Khatun,T Brits,,0,2,2,,,,384923849
+1,South Africa,2,T Brits,Khadija Tul Kubra,S Luus,,0,1,1,,,,384923849
+1,South Africa,2,S Luus,Khadija Tul Kubra,T Brits,,0,0,0,,,,384923849
+1,South Africa,2,S Luus,Khadija Tul Kubra,T Brits,,0,0,0,,,,384923849
+1,South Africa,2,S Luus,Khadija Tul Kubra,T Brits,,0,1,1,,,,384923849
+1,South Africa,2,T Brits,Khadija Tul Kubra,S Luus,,0,0,0,,,,384923849
+1,South Africa,2,T Brits,Khadija Tul Kubra,S Luus,,0,1,1,,,,384923849
+1,South Africa,3,T Brits,Salma Khatun,S Luus,,0,4,4,,,,384923849
+1,South Africa,3,T Brits,Salma Khatun,S Luus,,0,1,1,,,,384923849
+1,South Africa,3,S Luus,Salma Khatun,T Brits,,0,1,1,,,,384923849
+1,South Africa,3,T Brits,Salma Khatun,S Luus,,0,2,2,,,,384923849
+1,South Africa,3,T Brits,Salma Khatun,S Luus,,0,1,1,,,,384923849
+1,South Africa,3,S Luus,Salma Khatun,T Brits,,0,0,0,stumped,S Luus,Shamima Sultana,384923849
+1,South Africa,4,T Brits,Khadija Tul Kubra,D van Niekerk,,0,1,1,,,,384923849
+1,South Africa,4,D van Niekerk,Khadija Tul Kubra,T Brits,,0,1,1,,,,384923849
+1,South Africa,4,T Brits,Khadija Tul Kubra,D van Niekerk,,0,0,0,,,,384923849
+1,South Africa,4,T Brits,Khadija Tul Kubra,D van Niekerk,,0,1,1,,,,384923849
+1,South Africa,4,D van Niekerk,Khadija Tul Kubra,T Brits,,0,2,2,,,,384923849
+1,South Africa,4,D van Niekerk,Khadija Tul Kubra,T Brits,,0,0,0,,,,384923849
+1,South Africa,5,T Brits,Rumana Ahmed,D van Niekerk,,0,1,1,,,,384923849
+1,South Africa,5,D van Niekerk,Rumana Ahmed,T Brits,,0,0,0,,,,384923849
+1,South Africa,5,D van Niekerk,Rumana Ahmed,T Brits,,0,2,2,,,,384923849
+1,South Africa,5,D van Niekerk,Rumana Ahmed,T Brits,,0,1,1,,,,384923849
+1,South Africa,5,T Brits,Rumana Ahmed,D van Niekerk,,0,1,1,,,,384923849
+1,South Africa,5,D van Niekerk,Rumana Ahmed,T Brits,,0,0,0,,,,384923849
+1,South Africa,6,T Brits,Panna Ghosh,D van Niekerk,,0,4,4,,,,384923849
+1,South Africa,6,T Brits,Panna Ghosh,D van Niekerk,,0,2,2,,,,384923849
+1,South Africa,6,T Brits,Panna Ghosh,D van Niekerk,,0,1,1,,,,384923849
+1,South Africa,6,D van Niekerk,Panna Ghosh,T Brits,,0,0,0,,,,384923849
+1,South Africa,6,D van Niekerk,Panna Ghosh,T Brits,,0,6,6,,,,384923849
+1,South Africa,6,D van Niekerk,Panna Ghosh,T Brits,,0,0,0,,,,384923849
+1,South Africa,7,T Brits,Rumana Ahmed,D van Niekerk,,0,4,4,,,,384923849
+1,South Africa,7,T Brits,Rumana Ahmed,D van Niekerk,,0,0,0,run out,D van Niekerk,,384923849
+1,South Africa,7,T Brits,Rumana Ahmed,CL Tryon,,0,1,1,,,,384923849
+1,South Africa,7,CL Tryon,Rumana Ahmed,T Brits,,0,1,1,,,,384923849
+1,South Africa,7,T Brits,Rumana Ahmed,CL Tryon,,0,0,0,caught,T Brits,Shamima Sultana,384923849
+1,South Africa,7,CL Tryon,Rumana Ahmed,M Kapp,,0,2,2,,,,384923849
+1,South Africa,8,M Kapp,Jahanara Alam,CL Tryon,,0,1,1,,,,384923849
+1,South Africa,8,CL Tryon,Jahanara Alam,M Kapp,,0,0,0,,,,384923849
+1,South Africa,8,CL Tryon,Jahanara Alam,M Kapp,,0,0,0,,,,384923849
+1,South Africa,8,CL Tryon,Jahanara Alam,M Kapp,,0,1,1,,,,384923849
+1,South Africa,8,M Kapp,Jahanara Alam,CL Tryon,,0,2,2,,,,384923849
+1,South Africa,8,M Kapp,Jahanara Alam,CL Tryon,,0,1,1,,,,384923849

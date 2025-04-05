@@ -1,0 +1,80 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Australia,0,MM Lanning,LMM Tahuhu,BL Mooney,,0,0,0,,,,370023700
+2,Australia,0,MM Lanning,LMM Tahuhu,BL Mooney,,0,2,2,,,,370023700
+2,Australia,0,MM Lanning,LMM Tahuhu,BL Mooney,,0,0,0,,,,370023700
+2,Australia,0,MM Lanning,LMM Tahuhu,BL Mooney,,0,0,0,,,,370023700
+2,Australia,0,MM Lanning,LMM Tahuhu,BL Mooney,,0,0,0,,,,370023700
+2,Australia,0,MM Lanning,LMM Tahuhu,BL Mooney,,0,0,0,,,,370023700
+2,Australia,1,BL Mooney,HR Huddleston,MM Lanning,noballs,1,5,4,,,,370023700
+2,Australia,1,BL Mooney,HR Huddleston,MM Lanning,,0,0,0,,,,370023700
+2,Australia,1,BL Mooney,HR Huddleston,MM Lanning,,0,0,0,,,,370023700
+2,Australia,1,BL Mooney,HR Huddleston,MM Lanning,,0,0,0,,,,370023700
+2,Australia,1,BL Mooney,HR Huddleston,MM Lanning,,0,0,0,bowled,BL Mooney,,370023700
+2,Australia,1,A Gardner,HR Huddleston,MM Lanning,,0,0,0,,,,370023700
+2,Australia,1,A Gardner,HR Huddleston,MM Lanning,,0,4,4,,,,370023700
+2,Australia,2,MM Lanning,LMM Tahuhu,A Gardner,,0,4,4,,,,370023700
+2,Australia,2,MM Lanning,LMM Tahuhu,A Gardner,,0,0,0,,,,370023700
+2,Australia,2,MM Lanning,LMM Tahuhu,A Gardner,,0,0,0,,,,370023700
+2,Australia,2,MM Lanning,LMM Tahuhu,A Gardner,,0,0,0,,,,370023700
+2,Australia,2,MM Lanning,LMM Tahuhu,A Gardner,,0,0,0,,,,370023700
+2,Australia,2,MM Lanning,LMM Tahuhu,A Gardner,,0,1,1,,,,370023700
+2,Australia,3,MM Lanning,EM Bermingham,A Gardner,,0,1,1,,,,370023700
+2,Australia,3,A Gardner,EM Bermingham,MM Lanning,,0,1,1,,,,370023700
+2,Australia,3,MM Lanning,EM Bermingham,A Gardner,,0,0,0,,,,370023700
+2,Australia,3,MM Lanning,EM Bermingham,A Gardner,,0,1,1,,,,370023700
+2,Australia,3,A Gardner,EM Bermingham,MM Lanning,,0,0,0,,,,370023700
+2,Australia,3,A Gardner,EM Bermingham,MM Lanning,,0,0,0,run out,A Gardner,RH Priest,370023700
+2,Australia,4,MM Lanning,LMM Tahuhu,EJ Villani,,0,0,0,,,,370023700
+2,Australia,4,MM Lanning,LMM Tahuhu,EJ Villani,,0,0,0,,,,370023700
+2,Australia,4,MM Lanning,LMM Tahuhu,EJ Villani,,0,0,0,,,,370023700
+2,Australia,4,MM Lanning,LMM Tahuhu,EJ Villani,,0,0,0,,,,370023700
+2,Australia,4,MM Lanning,LMM Tahuhu,EJ Villani,,0,0,0,,,,370023700
+2,Australia,4,MM Lanning,LMM Tahuhu,EJ Villani,,0,0,0,,,,370023700
+2,Australia,5,EJ Villani,EM Bermingham,MM Lanning,,0,4,4,,,,370023700
+2,Australia,5,EJ Villani,EM Bermingham,MM Lanning,,0,0,0,,,,370023700
+2,Australia,5,EJ Villani,EM Bermingham,MM Lanning,,0,4,4,,,,370023700
+2,Australia,5,EJ Villani,EM Bermingham,MM Lanning,,0,1,1,,,,370023700
+2,Australia,5,MM Lanning,EM Bermingham,EJ Villani,,0,0,0,bowled,MM Lanning,,370023700
+2,Australia,5,AJ Blackwell,EM Bermingham,EJ Villani,,0,1,1,,,,370023700
+2,Australia,6,AJ Blackwell,LMM Tahuhu,EJ Villani,,0,0,0,,,,370023700
+2,Australia,6,AJ Blackwell,LMM Tahuhu,EJ Villani,,0,0,0,,,,370023700
+2,Australia,6,AJ Blackwell,LMM Tahuhu,EJ Villani,,0,4,4,,,,370023700
+2,Australia,6,AJ Blackwell,LMM Tahuhu,EJ Villani,,0,0,0,,,,370023700
+2,Australia,6,AJ Blackwell,LMM Tahuhu,EJ Villani,,0,0,0,,,,370023700
+2,Australia,6,AJ Blackwell,LMM Tahuhu,EJ Villani,,0,0,0,,,,370023700
+2,Australia,7,EJ Villani,SW Bates,AJ Blackwell,,0,0,0,,,,370023700
+2,Australia,7,EJ Villani,SW Bates,AJ Blackwell,,0,0,0,,,,370023700
+2,Australia,7,EJ Villani,SW Bates,AJ Blackwell,,0,1,1,,,,370023700
+2,Australia,7,AJ Blackwell,SW Bates,EJ Villani,,0,0,0,,,,370023700
+2,Australia,7,AJ Blackwell,SW Bates,EJ Villani,,0,0,0,,,,370023700
+2,Australia,7,AJ Blackwell,SW Bates,EJ Villani,,0,1,1,,,,370023700
+2,Australia,8,AJ Blackwell,HR Huddleston,EJ Villani,,0,0,0,,,,370023700
+2,Australia,8,AJ Blackwell,HR Huddleston,EJ Villani,,0,1,1,,,,370023700
+2,Australia,8,EJ Villani,HR Huddleston,AJ Blackwell,,0,1,1,,,,370023700
+2,Australia,8,AJ Blackwell,HR Huddleston,EJ Villani,,0,1,1,,,,370023700
+2,Australia,8,EJ Villani,HR Huddleston,AJ Blackwell,,0,0,0,,,,370023700
+2,Australia,8,EJ Villani,HR Huddleston,AJ Blackwell,,0,1,1,,,,370023700
+2,Australia,9,EJ Villani,SW Bates,AJ Blackwell,,0,2,2,,,,370023700
+2,Australia,9,EJ Villani,SW Bates,AJ Blackwell,,0,0,0,,,,370023700
+2,Australia,9,EJ Villani,SW Bates,AJ Blackwell,,0,1,1,,,,370023700
+2,Australia,9,AJ Blackwell,SW Bates,EJ Villani,,0,0,0,,,,370023700
+2,Australia,9,AJ Blackwell,SW Bates,EJ Villani,,0,1,1,,,,370023700
+2,Australia,9,EJ Villani,SW Bates,AJ Blackwell,,0,0,0,,,,370023700
+2,Australia,10,AJ Blackwell,HR Huddleston,EJ Villani,,0,2,2,,,,370023700
+2,Australia,10,AJ Blackwell,HR Huddleston,EJ Villani,,0,1,1,,,,370023700
+2,Australia,10,EJ Villani,HR Huddleston,AJ Blackwell,legbyes,1,1,0,,,,370023700
+2,Australia,10,AJ Blackwell,HR Huddleston,EJ Villani,,0,0,0,,,,370023700
+2,Australia,10,AJ Blackwell,HR Huddleston,EJ Villani,,0,2,2,,,,370023700
+2,Australia,10,AJ Blackwell,HR Huddleston,EJ Villani,,0,0,0,caught,AJ Blackwell,RH Priest,370023700
+2,Australia,11,EJ Villani,AE Satterthwaite,AJ Healy,,0,4,4,,,,370023700
+2,Australia,11,EJ Villani,AE Satterthwaite,AJ Healy,,0,0,0,caught,EJ Villani,SW Bates,370023700
+2,Australia,11,AJ Healy,AE Satterthwaite,JL Jonassen,,0,2,2,,,,370023700
+2,Australia,11,AJ Healy,AE Satterthwaite,JL Jonassen,,0,2,2,,,,370023700
+2,Australia,11,AJ Healy,AE Satterthwaite,JL Jonassen,,0,1,1,,,,370023700
+2,Australia,11,JL Jonassen,AE Satterthwaite,AJ Healy,,0,1,1,,,,370023700
+2,Australia,12,JL Jonassen,AM Peterson,AJ Healy,,0,0,0,caught,JL Jonassen,KT Perkins,370023700
+2,Australia,12,AJ Healy,AM Peterson,ML Schutt,,0,0,0,caught,AJ Healy,ML Green,370023700
+2,Australia,12,ML Schutt,AM Peterson,A Wellington,,0,0,0,caught,ML Schutt,SW Bates,370023700
+2,Australia,12,A Wellington,AM Peterson,M Strano,,0,0,0,,,,370023700
+2,Australia,12,A Wellington,AM Peterson,M Strano,,0,1,1,,,,370023700
+2,Australia,12,M Strano,AM Peterson,A Wellington,,0,1,1,run out,M Strano,RH Priest,370023700

@@ -1,0 +1,122 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,JH Kallis,NL McCullum,GC Smith,,0,1,1,,,,312623126
+1,South Africa,0,GC Smith,NL McCullum,JH Kallis,,0,0,0,,,,312623126
+1,South Africa,0,GC Smith,NL McCullum,JH Kallis,,0,1,1,,,,312623126
+1,South Africa,0,JH Kallis,NL McCullum,GC Smith,,0,1,1,,,,312623126
+1,South Africa,0,GC Smith,NL McCullum,JH Kallis,wides,2,2,0,,,,312623126
+1,South Africa,0,JH Kallis,NL McCullum,GC Smith,,0,0,0,,,,312623126
+1,South Africa,0,JH Kallis,NL McCullum,GC Smith,,0,1,1,,,,312623126
+1,South Africa,1,JH Kallis,SE Bond,GC Smith,,0,0,0,,,,312623126
+1,South Africa,1,JH Kallis,SE Bond,GC Smith,,0,6,6,,,,312623126
+1,South Africa,1,JH Kallis,SE Bond,GC Smith,,0,1,1,,,,312623126
+1,South Africa,1,GC Smith,SE Bond,JH Kallis,,0,1,1,,,,312623126
+1,South Africa,1,JH Kallis,SE Bond,GC Smith,,0,4,4,,,,312623126
+1,South Africa,1,JH Kallis,SE Bond,GC Smith,,0,1,1,,,,312623126
+1,South Africa,2,JH Kallis,NL McCullum,GC Smith,,0,0,0,,,,312623126
+1,South Africa,2,JH Kallis,NL McCullum,GC Smith,,0,0,0,,,,312623126
+1,South Africa,2,JH Kallis,NL McCullum,GC Smith,,0,1,1,,,,312623126
+1,South Africa,2,GC Smith,NL McCullum,JH Kallis,,0,1,1,,,,312623126
+1,South Africa,2,JH Kallis,NL McCullum,GC Smith,,0,0,0,,,,312623126
+1,South Africa,2,JH Kallis,NL McCullum,GC Smith,,0,6,6,,,,312623126
+1,South Africa,3,GC Smith,SE Bond,JH Kallis,,0,0,0,,,,312623126
+1,South Africa,3,GC Smith,SE Bond,JH Kallis,,0,1,1,,,,312623126
+1,South Africa,3,JH Kallis,SE Bond,GC Smith,,0,1,1,,,,312623126
+1,South Africa,3,GC Smith,SE Bond,JH Kallis,,0,0,0,,,,312623126
+1,South Africa,3,GC Smith,SE Bond,JH Kallis,,0,0,0,,,,312623126
+1,South Africa,3,GC Smith,SE Bond,JH Kallis,,0,4,4,,,,312623126
+1,South Africa,4,JH Kallis,TG Southee,GC Smith,,0,0,0,,,,312623126
+1,South Africa,4,JH Kallis,TG Southee,GC Smith,,0,1,1,,,,312623126
+1,South Africa,4,GC Smith,TG Southee,JH Kallis,,0,4,4,,,,312623126
+1,South Africa,4,GC Smith,TG Southee,JH Kallis,,0,2,2,,,,312623126
+1,South Africa,4,GC Smith,TG Southee,JH Kallis,,0,0,0,caught,GC Smith,MJ Guptill,312623126
+1,South Africa,4,JH Kallis,TG Southee,HH Gibbs,,0,1,1,,,,312623126
+1,South Africa,5,JH Kallis,JDP Oram,HH Gibbs,,0,0,0,,,,312623126
+1,South Africa,5,JH Kallis,JDP Oram,HH Gibbs,,0,1,1,,,,312623126
+1,South Africa,5,HH Gibbs,JDP Oram,JH Kallis,,0,0,0,,,,312623126
+1,South Africa,5,HH Gibbs,JDP Oram,JH Kallis,,0,4,4,,,,312623126
+1,South Africa,5,HH Gibbs,JDP Oram,JH Kallis,,0,1,1,,,,312623126
+1,South Africa,5,JH Kallis,JDP Oram,HH Gibbs,,0,1,1,,,,312623126
+1,South Africa,6,JH Kallis,DL Vettori,HH Gibbs,,0,1,1,,,,312623126
+1,South Africa,6,HH Gibbs,DL Vettori,JH Kallis,,0,0,0,,,,312623126
+1,South Africa,6,HH Gibbs,DL Vettori,JH Kallis,,0,0,0,,,,312623126
+1,South Africa,6,HH Gibbs,DL Vettori,JH Kallis,,0,0,0,,,,312623126
+1,South Africa,6,HH Gibbs,DL Vettori,JH Kallis,,0,1,1,,,,312623126
+1,South Africa,6,JH Kallis,DL Vettori,HH Gibbs,,0,1,1,,,,312623126
+1,South Africa,7,JH Kallis,JDP Oram,HH Gibbs,,0,1,1,,,,312623126
+1,South Africa,7,HH Gibbs,JDP Oram,JH Kallis,,0,1,1,,,,312623126
+1,South Africa,7,JH Kallis,JDP Oram,HH Gibbs,,0,1,1,,,,312623126
+1,South Africa,7,HH Gibbs,JDP Oram,JH Kallis,,0,1,1,,,,312623126
+1,South Africa,7,JH Kallis,JDP Oram,HH Gibbs,,0,0,0,caught,JH Kallis,TG Southee,312623126
+1,South Africa,7,HH Gibbs,JDP Oram,AB de Villiers,,0,0,0,,,,312623126
+1,South Africa,8,AB de Villiers,DL Vettori,HH Gibbs,,0,0,0,,,,312623126
+1,South Africa,8,AB de Villiers,DL Vettori,HH Gibbs,,0,1,1,,,,312623126
+1,South Africa,8,HH Gibbs,DL Vettori,AB de Villiers,,0,2,2,,,,312623126
+1,South Africa,8,HH Gibbs,DL Vettori,AB de Villiers,,0,1,1,,,,312623126
+1,South Africa,8,AB de Villiers,DL Vettori,HH Gibbs,,0,2,2,,,,312623126
+1,South Africa,8,AB de Villiers,DL Vettori,HH Gibbs,,0,0,0,,,,312623126
+1,South Africa,9,HH Gibbs,SB Styris,AB de Villiers,,0,0,0,,,,312623126
+1,South Africa,9,HH Gibbs,SB Styris,AB de Villiers,,0,1,1,,,,312623126
+1,South Africa,9,AB de Villiers,SB Styris,HH Gibbs,,0,1,1,,,,312623126
+1,South Africa,9,HH Gibbs,SB Styris,AB de Villiers,,0,1,1,,,,312623126
+1,South Africa,9,AB de Villiers,SB Styris,HH Gibbs,,0,1,1,,,,312623126
+1,South Africa,9,HH Gibbs,SB Styris,AB de Villiers,,0,1,1,,,,312623126
+1,South Africa,10,HH Gibbs,DL Vettori,AB de Villiers,,0,0,0,,,,312623126
+1,South Africa,10,HH Gibbs,DL Vettori,AB de Villiers,,0,1,1,,,,312623126
+1,South Africa,10,AB de Villiers,DL Vettori,HH Gibbs,,0,1,1,,,,312623126
+1,South Africa,10,HH Gibbs,DL Vettori,AB de Villiers,,0,1,1,,,,312623126
+1,South Africa,10,AB de Villiers,DL Vettori,HH Gibbs,,0,0,0,,,,312623126
+1,South Africa,10,AB de Villiers,DL Vettori,HH Gibbs,,0,1,1,,,,312623126
+1,South Africa,11,AB de Villiers,SB Styris,HH Gibbs,,0,1,1,,,,312623126
+1,South Africa,11,HH Gibbs,SB Styris,AB de Villiers,,0,1,1,,,,312623126
+1,South Africa,11,AB de Villiers,SB Styris,HH Gibbs,,0,2,2,,,,312623126
+1,South Africa,11,AB de Villiers,SB Styris,HH Gibbs,,0,4,4,,,,312623126
+1,South Africa,11,AB de Villiers,SB Styris,HH Gibbs,,0,0,0,,,,312623126
+1,South Africa,11,AB de Villiers,SB Styris,HH Gibbs,,0,1,1,,,,312623126
+1,South Africa,12,AB de Villiers,JDP Oram,HH Gibbs,,0,2,2,,,,312623126
+1,South Africa,12,AB de Villiers,JDP Oram,HH Gibbs,,0,1,1,,,,312623126
+1,South Africa,12,HH Gibbs,JDP Oram,AB de Villiers,,0,6,6,,,,312623126
+1,South Africa,12,HH Gibbs,JDP Oram,AB de Villiers,,0,1,1,,,,312623126
+1,South Africa,12,AB de Villiers,JDP Oram,HH Gibbs,,0,0,0,,,,312623126
+1,South Africa,12,AB de Villiers,JDP Oram,HH Gibbs,,0,1,1,,,,312623126
+1,South Africa,13,AB de Villiers,NL McCullum,HH Gibbs,,0,1,1,,,,312623126
+1,South Africa,13,HH Gibbs,NL McCullum,AB de Villiers,,0,6,6,,,,312623126
+1,South Africa,13,HH Gibbs,NL McCullum,AB de Villiers,,0,0,0,caught,HH Gibbs,BB McCullum,312623126
+1,South Africa,13,AB de Villiers,NL McCullum,JA Morkel,,0,1,1,,,,312623126
+1,South Africa,13,JA Morkel,NL McCullum,AB de Villiers,,0,1,1,,,,312623126
+1,South Africa,13,AB de Villiers,NL McCullum,JA Morkel,,0,1,1,,,,312623126
+1,South Africa,14,AB de Villiers,DL Vettori,JA Morkel,,0,1,1,,,,312623126
+1,South Africa,14,JA Morkel,DL Vettori,AB de Villiers,,0,0,0,,,,312623126
+1,South Africa,14,JA Morkel,DL Vettori,AB de Villiers,,0,6,6,,,,312623126
+1,South Africa,14,JA Morkel,DL Vettori,AB de Villiers,,0,0,0,,,,312623126
+1,South Africa,14,JA Morkel,DL Vettori,AB de Villiers,,0,1,1,,,,312623126
+1,South Africa,14,AB de Villiers,DL Vettori,JA Morkel,,0,0,0,,,,312623126
+1,South Africa,15,JA Morkel,NL McCullum,AB de Villiers,,0,1,1,,,,312623126
+1,South Africa,15,AB de Villiers,NL McCullum,JA Morkel,,0,6,6,,,,312623126
+1,South Africa,15,AB de Villiers,NL McCullum,JA Morkel,,0,0,0,,,,312623126
+1,South Africa,15,AB de Villiers,NL McCullum,JA Morkel,,0,1,1,,,,312623126
+1,South Africa,15,JA Morkel,NL McCullum,AB de Villiers,,0,1,1,,,,312623126
+1,South Africa,15,AB de Villiers,NL McCullum,JA Morkel,,0,2,2,,,,312623126
+1,South Africa,16,JA Morkel,TG Southee,AB de Villiers,,0,6,6,,,,312623126
+1,South Africa,16,JA Morkel,TG Southee,AB de Villiers,,0,1,1,,,,312623126
+1,South Africa,16,AB de Villiers,TG Southee,JA Morkel,byes,4,4,0,,,,312623126
+1,South Africa,16,AB de Villiers,TG Southee,JA Morkel,,0,1,1,,,,312623126
+1,South Africa,16,JA Morkel,TG Southee,AB de Villiers,,0,1,1,,,,312623126
+1,South Africa,16,AB de Villiers,TG Southee,JA Morkel,,0,1,1,,,,312623126
+1,South Africa,17,AB de Villiers,SE Bond,JA Morkel,,0,1,1,,,,312623126
+1,South Africa,17,JA Morkel,SE Bond,AB de Villiers,,0,1,1,,,,312623126
+1,South Africa,17,AB de Villiers,SE Bond,JA Morkel,,0,1,1,,,,312623126
+1,South Africa,17,JA Morkel,SE Bond,AB de Villiers,,0,1,1,,,,312623126
+1,South Africa,17,AB de Villiers,SE Bond,JA Morkel,,0,6,6,,,,312623126
+1,South Africa,17,AB de Villiers,SE Bond,JA Morkel,,0,1,1,,,,312623126
+1,South Africa,18,AB de Villiers,TG Southee,JA Morkel,,0,1,1,,,,312623126
+1,South Africa,18,JA Morkel,TG Southee,AB de Villiers,,0,6,6,,,,312623126
+1,South Africa,18,JA Morkel,TG Southee,AB de Villiers,,0,2,2,,,,312623126
+1,South Africa,18,JA Morkel,TG Southee,AB de Villiers,,0,6,6,,,,312623126
+1,South Africa,18,JA Morkel,TG Southee,AB de Villiers,,0,0,0,,,,312623126
+1,South Africa,18,JA Morkel,TG Southee,AB de Villiers,,0,6,6,,,,312623126
+1,South Africa,19,AB de Villiers,SE Bond,JA Morkel,,0,1,1,,,,312623126
+1,South Africa,19,JA Morkel,SE Bond,AB de Villiers,byes,1,1,0,,,,312623126
+1,South Africa,19,AB de Villiers,SE Bond,JA Morkel,,0,2,2,,,,312623126
+1,South Africa,19,AB de Villiers,SE Bond,JA Morkel,,0,0,0,,,,312623126
+1,South Africa,19,AB de Villiers,SE Bond,JA Morkel,,0,0,0,run out,JA Morkel,GJ Hopkins,312623126
+1,South Africa,19,MV Boucher,SE Bond,AB de Villiers,byes,1,1,0,,,,312623126

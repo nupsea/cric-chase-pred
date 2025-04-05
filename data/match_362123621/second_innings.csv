@@ -1,0 +1,114 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Australia,0,EJ Villani,Y Fourie,AJ Healy,,0,2,2,,,,362123621
+2,Australia,0,EJ Villani,Y Fourie,AJ Healy,,0,1,1,,,,362123621
+2,Australia,0,AJ Healy,Y Fourie,EJ Villani,,0,0,0,,,,362123621
+2,Australia,0,AJ Healy,Y Fourie,EJ Villani,,0,0,0,,,,362123621
+2,Australia,0,AJ Healy,Y Fourie,EJ Villani,,0,0,0,,,,362123621
+2,Australia,0,AJ Healy,Y Fourie,EJ Villani,,0,1,1,,,,362123621
+2,Australia,1,AJ Healy,S Ismail,EJ Villani,,0,0,0,,,,362123621
+2,Australia,1,AJ Healy,S Ismail,EJ Villani,,0,4,4,,,,362123621
+2,Australia,1,AJ Healy,S Ismail,EJ Villani,,0,0,0,bowled,AJ Healy,,362123621
+2,Australia,1,EA Perry,S Ismail,EJ Villani,,0,0,0,,,,362123621
+2,Australia,1,EA Perry,S Ismail,EJ Villani,,0,0,0,,,,362123621
+2,Australia,1,EA Perry,S Ismail,EJ Villani,,0,0,0,,,,362123621
+2,Australia,2,EJ Villani,M Kapp,EA Perry,,0,0,0,,,,362123621
+2,Australia,2,EJ Villani,M Kapp,EA Perry,,0,0,0,,,,362123621
+2,Australia,2,EJ Villani,M Kapp,EA Perry,,0,1,1,,,,362123621
+2,Australia,2,EA Perry,M Kapp,EJ Villani,,0,0,0,caught,EA Perry,T Chetty,362123621
+2,Australia,2,AJ Blackwell,M Kapp,EJ Villani,,0,0,0,,,,362123621
+2,Australia,2,AJ Blackwell,M Kapp,EJ Villani,,0,0,0,,,,362123621
+2,Australia,3,EJ Villani,S Ismail,AJ Blackwell,,0,0,0,,,,362123621
+2,Australia,3,EJ Villani,S Ismail,AJ Blackwell,,0,0,0,,,,362123621
+2,Australia,3,EJ Villani,S Ismail,AJ Blackwell,,0,0,0,,,,362123621
+2,Australia,3,EJ Villani,S Ismail,AJ Blackwell,,0,0,0,bowled,EJ Villani,,362123621
+2,Australia,3,JL Jonassen,S Ismail,AJ Blackwell,,0,0,0,,,,362123621
+2,Australia,3,JL Jonassen,S Ismail,AJ Blackwell,,0,0,0,,,,362123621
+2,Australia,4,AJ Blackwell,M Kapp,JL Jonassen,wides,1,1,0,,,,362123621
+2,Australia,4,AJ Blackwell,M Kapp,JL Jonassen,,0,4,4,,,,362123621
+2,Australia,4,AJ Blackwell,M Kapp,JL Jonassen,,0,0,0,,,,362123621
+2,Australia,4,AJ Blackwell,M Kapp,JL Jonassen,,0,0,0,,,,362123621
+2,Australia,4,AJ Blackwell,M Kapp,JL Jonassen,,0,0,0,,,,362123621
+2,Australia,4,AJ Blackwell,M Kapp,JL Jonassen,,0,1,1,,,,362123621
+2,Australia,4,JL Jonassen,M Kapp,AJ Blackwell,,0,0,0,,,,362123621
+2,Australia,5,AJ Blackwell,M Daniels,JL Jonassen,,0,1,1,,,,362123621
+2,Australia,5,JL Jonassen,M Daniels,AJ Blackwell,,0,0,0,,,,362123621
+2,Australia,5,JL Jonassen,M Daniels,AJ Blackwell,,0,1,1,,,,362123621
+2,Australia,5,AJ Blackwell,M Daniels,JL Jonassen,,0,0,0,,,,362123621
+2,Australia,5,AJ Blackwell,M Daniels,JL Jonassen,,0,1,1,,,,362123621
+2,Australia,5,JL Jonassen,M Daniels,AJ Blackwell,,0,0,0,,,,362123621
+2,Australia,6,AJ Blackwell,A Khaka,JL Jonassen,,0,1,1,,,,362123621
+2,Australia,6,JL Jonassen,A Khaka,AJ Blackwell,,0,1,1,,,,362123621
+2,Australia,6,AJ Blackwell,A Khaka,JL Jonassen,,0,0,0,,,,362123621
+2,Australia,6,AJ Blackwell,A Khaka,JL Jonassen,,0,1,1,,,,362123621
+2,Australia,6,JL Jonassen,A Khaka,AJ Blackwell,,0,0,0,,,,362123621
+2,Australia,6,JL Jonassen,A Khaka,AJ Blackwell,,0,1,1,,,,362123621
+2,Australia,7,JL Jonassen,M Daniels,AJ Blackwell,legbyes,1,1,0,,,,362123621
+2,Australia,7,AJ Blackwell,M Daniels,JL Jonassen,,0,1,1,,,,362123621
+2,Australia,7,JL Jonassen,M Daniels,AJ Blackwell,,0,0,0,,,,362123621
+2,Australia,7,JL Jonassen,M Daniels,AJ Blackwell,,0,0,0,,,,362123621
+2,Australia,7,JL Jonassen,M Daniels,AJ Blackwell,,0,0,0,,,,362123621
+2,Australia,7,JL Jonassen,M Daniels,AJ Blackwell,,0,1,1,,,,362123621
+2,Australia,8,JL Jonassen,A Khaka,AJ Blackwell,,0,4,4,,,,362123621
+2,Australia,8,JL Jonassen,A Khaka,AJ Blackwell,byes,4,4,0,,,,362123621
+2,Australia,8,JL Jonassen,A Khaka,AJ Blackwell,,0,1,1,,,,362123621
+2,Australia,8,AJ Blackwell,A Khaka,JL Jonassen,,0,0,0,,,,362123621
+2,Australia,8,AJ Blackwell,A Khaka,JL Jonassen,,0,1,1,,,,362123621
+2,Australia,8,JL Jonassen,A Khaka,AJ Blackwell,,0,2,2,,,,362123621
+2,Australia,9,AJ Blackwell,M Daniels,JL Jonassen,,0,1,1,,,,362123621
+2,Australia,9,JL Jonassen,M Daniels,AJ Blackwell,,0,0,0,,,,362123621
+2,Australia,9,JL Jonassen,M Daniels,AJ Blackwell,,0,1,1,,,,362123621
+2,Australia,9,AJ Blackwell,M Daniels,JL Jonassen,,0,1,1,,,,362123621
+2,Australia,9,JL Jonassen,M Daniels,AJ Blackwell,legbyes,1,1,0,,,,362123621
+2,Australia,9,AJ Blackwell,M Daniels,JL Jonassen,,0,2,2,,,,362123621
+2,Australia,10,JL Jonassen,D van Niekerk,AJ Blackwell,,0,1,1,,,,362123621
+2,Australia,10,AJ Blackwell,D van Niekerk,JL Jonassen,,0,0,0,,,,362123621
+2,Australia,10,AJ Blackwell,D van Niekerk,JL Jonassen,,0,1,1,,,,362123621
+2,Australia,10,JL Jonassen,D van Niekerk,AJ Blackwell,,0,1,1,,,,362123621
+2,Australia,10,AJ Blackwell,D van Niekerk,JL Jonassen,,0,2,2,,,,362123621
+2,Australia,10,AJ Blackwell,D van Niekerk,JL Jonassen,,0,1,1,,,,362123621
+2,Australia,11,AJ Blackwell,M Daniels,JL Jonassen,,0,0,0,,,,362123621
+2,Australia,11,AJ Blackwell,M Daniels,JL Jonassen,,0,0,0,,,,362123621
+2,Australia,11,AJ Blackwell,M Daniels,JL Jonassen,,0,1,1,,,,362123621
+2,Australia,11,JL Jonassen,M Daniels,AJ Blackwell,,0,1,1,,,,362123621
+2,Australia,11,AJ Blackwell,M Daniels,JL Jonassen,,0,1,1,,,,362123621
+2,Australia,11,JL Jonassen,M Daniels,AJ Blackwell,,0,1,1,,,,362123621
+2,Australia,12,JL Jonassen,D van Niekerk,AJ Blackwell,,0,0,0,stumped,JL Jonassen,T Chetty,362123621
+2,Australia,12,MM Lanning,D van Niekerk,AJ Blackwell,,0,0,0,,,,362123621
+2,Australia,12,MM Lanning,D van Niekerk,AJ Blackwell,,0,0,0,,,,362123621
+2,Australia,12,MM Lanning,D van Niekerk,AJ Blackwell,,0,0,0,,,,362123621
+2,Australia,12,MM Lanning,D van Niekerk,AJ Blackwell,,0,4,4,,,,362123621
+2,Australia,12,MM Lanning,D van Niekerk,AJ Blackwell,,0,0,0,,,,362123621
+2,Australia,13,AJ Blackwell,S Luus,MM Lanning,,0,0,0,,,,362123621
+2,Australia,13,AJ Blackwell,S Luus,MM Lanning,,0,1,1,,,,362123621
+2,Australia,13,MM Lanning,S Luus,AJ Blackwell,,0,4,4,,,,362123621
+2,Australia,13,MM Lanning,S Luus,AJ Blackwell,,0,2,2,,,,362123621
+2,Australia,13,MM Lanning,S Luus,AJ Blackwell,,0,1,1,,,,362123621
+2,Australia,13,AJ Blackwell,S Luus,MM Lanning,,0,0,0,,,,362123621
+2,Australia,14,MM Lanning,D van Niekerk,AJ Blackwell,,0,0,0,,,,362123621
+2,Australia,14,MM Lanning,D van Niekerk,AJ Blackwell,,0,1,1,,,,362123621
+2,Australia,14,AJ Blackwell,D van Niekerk,MM Lanning,,0,1,1,,,,362123621
+2,Australia,14,MM Lanning,D van Niekerk,AJ Blackwell,,0,4,4,,,,362123621
+2,Australia,14,MM Lanning,D van Niekerk,AJ Blackwell,,0,1,1,,,,362123621
+2,Australia,14,AJ Blackwell,D van Niekerk,MM Lanning,,0,1,1,,,,362123621
+2,Australia,15,AJ Blackwell,A Khaka,MM Lanning,,0,1,1,,,,362123621
+2,Australia,15,MM Lanning,A Khaka,AJ Blackwell,,0,1,1,,,,362123621
+2,Australia,15,AJ Blackwell,A Khaka,MM Lanning,,0,4,4,,,,362123621
+2,Australia,15,AJ Blackwell,A Khaka,MM Lanning,,0,0,0,,,,362123621
+2,Australia,15,AJ Blackwell,A Khaka,MM Lanning,,0,0,0,,,,362123621
+2,Australia,15,AJ Blackwell,A Khaka,MM Lanning,,0,1,1,,,,362123621
+2,Australia,16,AJ Blackwell,M Kapp,MM Lanning,,0,1,1,,,,362123621
+2,Australia,16,MM Lanning,M Kapp,AJ Blackwell,,0,2,2,,,,362123621
+2,Australia,16,MM Lanning,M Kapp,AJ Blackwell,,0,1,1,,,,362123621
+2,Australia,16,AJ Blackwell,M Kapp,MM Lanning,,0,4,4,,,,362123621
+2,Australia,16,AJ Blackwell,M Kapp,MM Lanning,,0,1,1,,,,362123621
+2,Australia,16,MM Lanning,M Kapp,AJ Blackwell,wides,1,1,0,,,,362123621
+2,Australia,16,MM Lanning,M Kapp,AJ Blackwell,,0,0,0,,,,362123621
+2,Australia,17,AJ Blackwell,S Ismail,MM Lanning,,0,0,0,,,,362123621
+2,Australia,17,AJ Blackwell,S Ismail,MM Lanning,,0,1,1,,,,362123621
+2,Australia,17,MM Lanning,S Ismail,AJ Blackwell,,0,4,4,,,,362123621
+2,Australia,17,MM Lanning,S Ismail,AJ Blackwell,,0,4,4,,,,362123621
+2,Australia,17,MM Lanning,S Ismail,AJ Blackwell,,0,1,1,,,,362123621
+2,Australia,17,AJ Blackwell,S Ismail,MM Lanning,,0,1,1,,,,362123621
+2,Australia,18,AJ Blackwell,M Kapp,MM Lanning,,0,0,0,,,,362123621
+2,Australia,18,AJ Blackwell,M Kapp,MM Lanning,,0,0,0,,,,362123621
+2,Australia,18,AJ Blackwell,M Kapp,MM Lanning,,0,4,4,,,,362123621

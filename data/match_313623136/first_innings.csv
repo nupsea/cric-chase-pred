@@ -1,0 +1,120 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,West Indies,0,CH Gayle,DP Nannes,S Chanderpaul,wides,1,1,0,,,,313623136
+1,West Indies,0,CH Gayle,DP Nannes,S Chanderpaul,,0,4,4,,,,313623136
+1,West Indies,0,CH Gayle,DP Nannes,S Chanderpaul,,0,0,0,bowled,CH Gayle,,313623136
+1,West Indies,0,RR Sarwan,DP Nannes,S Chanderpaul,,0,1,1,,,,313623136
+1,West Indies,0,S Chanderpaul,DP Nannes,RR Sarwan,,0,4,4,,,,313623136
+1,West Indies,0,S Chanderpaul,DP Nannes,RR Sarwan,,0,1,1,,,,313623136
+1,West Indies,0,RR Sarwan,DP Nannes,S Chanderpaul,,0,1,1,,,,313623136
+1,West Indies,1,RR Sarwan,SW Tait,S Chanderpaul,,0,0,0,,,,313623136
+1,West Indies,1,RR Sarwan,SW Tait,S Chanderpaul,legbyes,1,1,0,,,,313623136
+1,West Indies,1,S Chanderpaul,SW Tait,RR Sarwan,,0,4,4,,,,313623136
+1,West Indies,1,S Chanderpaul,SW Tait,RR Sarwan,,0,0,0,,,,313623136
+1,West Indies,1,S Chanderpaul,SW Tait,RR Sarwan,,0,2,2,,,,313623136
+1,West Indies,1,S Chanderpaul,SW Tait,RR Sarwan,,0,1,1,,,,313623136
+1,West Indies,2,S Chanderpaul,DP Nannes,RR Sarwan,,0,0,0,,,,313623136
+1,West Indies,2,S Chanderpaul,DP Nannes,RR Sarwan,,0,2,2,,,,313623136
+1,West Indies,2,S Chanderpaul,DP Nannes,RR Sarwan,,0,0,0,,,,313623136
+1,West Indies,2,S Chanderpaul,DP Nannes,RR Sarwan,,0,0,0,,,,313623136
+1,West Indies,2,S Chanderpaul,DP Nannes,RR Sarwan,,0,1,1,,,,313623136
+1,West Indies,2,RR Sarwan,DP Nannes,S Chanderpaul,,0,1,1,,,,313623136
+1,West Indies,3,RR Sarwan,SR Watson,S Chanderpaul,,0,0,0,,,,313623136
+1,West Indies,3,RR Sarwan,SR Watson,S Chanderpaul,,0,4,4,,,,313623136
+1,West Indies,3,RR Sarwan,SR Watson,S Chanderpaul,,0,0,0,,,,313623136
+1,West Indies,3,RR Sarwan,SR Watson,S Chanderpaul,,0,1,1,,,,313623136
+1,West Indies,3,S Chanderpaul,SR Watson,RR Sarwan,,0,1,1,,,,313623136
+1,West Indies,3,RR Sarwan,SR Watson,S Chanderpaul,,0,0,0,,,,313623136
+1,West Indies,4,S Chanderpaul,MG Johnson,RR Sarwan,,0,0,0,,,,313623136
+1,West Indies,4,S Chanderpaul,MG Johnson,RR Sarwan,wides,1,1,0,,,,313623136
+1,West Indies,4,S Chanderpaul,MG Johnson,RR Sarwan,,0,4,4,,,,313623136
+1,West Indies,4,S Chanderpaul,MG Johnson,RR Sarwan,,0,0,0,,,,313623136
+1,West Indies,4,S Chanderpaul,MG Johnson,RR Sarwan,,0,0,0,,,,313623136
+1,West Indies,4,S Chanderpaul,MG Johnson,RR Sarwan,,0,4,4,,,,313623136
+1,West Indies,4,S Chanderpaul,MG Johnson,RR Sarwan,,0,0,0,caught,S Chanderpaul,DJ Hussey,313623136
+1,West Indies,5,DJ Bravo,SW Tait,RR Sarwan,,0,0,0,,,,313623136
+1,West Indies,5,DJ Bravo,SW Tait,RR Sarwan,,0,0,0,,,,313623136
+1,West Indies,5,DJ Bravo,SW Tait,RR Sarwan,,0,0,0,,,,313623136
+1,West Indies,5,DJ Bravo,SW Tait,RR Sarwan,,0,0,0,,,,313623136
+1,West Indies,5,DJ Bravo,SW Tait,RR Sarwan,,0,1,1,,,,313623136
+1,West Indies,5,RR Sarwan,SW Tait,DJ Bravo,,0,0,0,,,,313623136
+1,West Indies,6,DJ Bravo,SPD Smith,RR Sarwan,,0,1,1,,,,313623136
+1,West Indies,6,RR Sarwan,SPD Smith,DJ Bravo,,0,0,0,,,,313623136
+1,West Indies,6,RR Sarwan,SPD Smith,DJ Bravo,,0,1,1,,,,313623136
+1,West Indies,6,DJ Bravo,SPD Smith,RR Sarwan,,0,2,2,,,,313623136
+1,West Indies,6,DJ Bravo,SPD Smith,RR Sarwan,,0,1,1,,,,313623136
+1,West Indies,6,RR Sarwan,SPD Smith,DJ Bravo,,0,1,1,,,,313623136
+1,West Indies,7,RR Sarwan,MG Johnson,DJ Bravo,,0,4,4,,,,313623136
+1,West Indies,7,RR Sarwan,MG Johnson,DJ Bravo,legbyes,1,1,0,,,,313623136
+1,West Indies,7,DJ Bravo,MG Johnson,RR Sarwan,,0,1,1,,,,313623136
+1,West Indies,7,RR Sarwan,MG Johnson,DJ Bravo,,0,0,0,,,,313623136
+1,West Indies,7,RR Sarwan,MG Johnson,DJ Bravo,,0,0,0,run out,DJ Bravo,MG Johnson,313623136
+1,West Indies,7,RR Sarwan,MG Johnson,N Deonarine,,0,1,1,,,,313623136
+1,West Indies,8,RR Sarwan,SPD Smith,N Deonarine,,0,2,2,,,,313623136
+1,West Indies,8,RR Sarwan,SPD Smith,N Deonarine,,0,1,1,,,,313623136
+1,West Indies,8,N Deonarine,SPD Smith,RR Sarwan,,0,0,0,,,,313623136
+1,West Indies,8,N Deonarine,SPD Smith,RR Sarwan,,0,0,0,caught,N Deonarine,MEK Hussey,313623136
+1,West Indies,8,D Ramdin,SPD Smith,RR Sarwan,,0,1,1,,,,313623136
+1,West Indies,8,RR Sarwan,SPD Smith,D Ramdin,,0,1,1,,,,313623136
+1,West Indies,9,RR Sarwan,MG Johnson,D Ramdin,,0,0,0,,,,313623136
+1,West Indies,9,RR Sarwan,MG Johnson,D Ramdin,,0,1,1,,,,313623136
+1,West Indies,9,D Ramdin,MG Johnson,RR Sarwan,wides,1,1,0,,,,313623136
+1,West Indies,9,D Ramdin,MG Johnson,RR Sarwan,,0,0,0,caught,D Ramdin,BJ Haddin,313623136
+1,West Indies,9,KA Pollard,MG Johnson,RR Sarwan,,0,0,0,,,,313623136
+1,West Indies,9,KA Pollard,MG Johnson,RR Sarwan,,0,0,0,,,,313623136
+1,West Indies,9,KA Pollard,MG Johnson,RR Sarwan,,0,1,1,,,,313623136
+1,West Indies,10,KA Pollard,SPD Smith,RR Sarwan,,0,0,0,,,,313623136
+1,West Indies,10,KA Pollard,SPD Smith,RR Sarwan,,0,1,1,,,,313623136
+1,West Indies,10,RR Sarwan,SPD Smith,KA Pollard,,0,1,1,,,,313623136
+1,West Indies,10,KA Pollard,SPD Smith,RR Sarwan,,0,4,4,,,,313623136
+1,West Indies,10,KA Pollard,SPD Smith,RR Sarwan,,0,0,0,,,,313623136
+1,West Indies,10,KA Pollard,SPD Smith,RR Sarwan,,0,0,0,,,,313623136
+1,West Indies,11,RR Sarwan,MJ Clarke,KA Pollard,,0,1,1,,,,313623136
+1,West Indies,11,KA Pollard,MJ Clarke,RR Sarwan,,0,1,1,,,,313623136
+1,West Indies,11,RR Sarwan,MJ Clarke,KA Pollard,,0,1,1,,,,313623136
+1,West Indies,11,KA Pollard,MJ Clarke,RR Sarwan,,0,0,0,,,,313623136
+1,West Indies,11,KA Pollard,MJ Clarke,RR Sarwan,,0,0,0,,,,313623136
+1,West Indies,11,KA Pollard,MJ Clarke,RR Sarwan,,0,6,6,,,,313623136
+1,West Indies,12,RR Sarwan,SPD Smith,KA Pollard,,0,1,1,,,,313623136
+1,West Indies,12,KA Pollard,SPD Smith,RR Sarwan,,0,0,0,,,,313623136
+1,West Indies,12,KA Pollard,SPD Smith,RR Sarwan,,0,0,0,stumped,KA Pollard,BJ Haddin,313623136
+1,West Indies,12,DJG Sammy,SPD Smith,RR Sarwan,,0,0,0,caught and bowled,DJG Sammy,,313623136
+1,West Indies,12,JE Taylor,SPD Smith,RR Sarwan,,0,0,0,,,,313623136
+1,West Indies,12,JE Taylor,SPD Smith,RR Sarwan,,0,2,2,,,,313623136
+1,West Indies,13,RR Sarwan,MJ Clarke,JE Taylor,,0,1,1,,,,313623136
+1,West Indies,13,JE Taylor,MJ Clarke,RR Sarwan,,0,0,0,,,,313623136
+1,West Indies,13,JE Taylor,MJ Clarke,RR Sarwan,,0,1,1,,,,313623136
+1,West Indies,13,RR Sarwan,MJ Clarke,JE Taylor,,0,1,1,,,,313623136
+1,West Indies,13,JE Taylor,MJ Clarke,RR Sarwan,,0,0,0,,,,313623136
+1,West Indies,13,JE Taylor,MJ Clarke,RR Sarwan,,0,0,0,,,,313623136
+1,West Indies,14,RR Sarwan,DJ Hussey,JE Taylor,,0,0,0,caught,RR Sarwan,DA Warner,313623136
+1,West Indies,14,NO Miller,DJ Hussey,JE Taylor,,0,2,2,,,,313623136
+1,West Indies,14,NO Miller,DJ Hussey,JE Taylor,legbyes,1,1,0,,,,313623136
+1,West Indies,14,JE Taylor,DJ Hussey,NO Miller,,0,0,0,caught,JE Taylor,MG Johnson,313623136
+1,West Indies,14,SJ Benn,DJ Hussey,NO Miller,,0,1,1,,,,313623136
+1,West Indies,14,NO Miller,DJ Hussey,SJ Benn,,0,0,0,,,,313623136
+1,West Indies,15,SJ Benn,MG Johnson,NO Miller,,0,0,0,,,,313623136
+1,West Indies,15,SJ Benn,MG Johnson,NO Miller,,0,0,0,,,,313623136
+1,West Indies,15,SJ Benn,MG Johnson,NO Miller,legbyes,1,1,0,,,,313623136
+1,West Indies,15,NO Miller,MG Johnson,SJ Benn,,0,1,1,,,,313623136
+1,West Indies,15,SJ Benn,MG Johnson,NO Miller,noballs,1,2,1,,,,313623136
+1,West Indies,15,NO Miller,MG Johnson,SJ Benn,,0,1,1,,,,313623136
+1,West Indies,15,SJ Benn,MG Johnson,NO Miller,,0,0,0,,,,313623136
+1,West Indies,16,NO Miller,DP Nannes,SJ Benn,,0,0,0,,,,313623136
+1,West Indies,16,NO Miller,DP Nannes,SJ Benn,,0,2,2,,,,313623136
+1,West Indies,16,NO Miller,DP Nannes,SJ Benn,,0,0,0,,,,313623136
+1,West Indies,16,NO Miller,DP Nannes,SJ Benn,,0,1,1,,,,313623136
+1,West Indies,16,SJ Benn,DP Nannes,NO Miller,,0,0,0,,,,313623136
+1,West Indies,16,SJ Benn,DP Nannes,NO Miller,,0,0,0,,,,313623136
+1,West Indies,17,NO Miller,SW Tait,SJ Benn,wides,1,1,0,,,,313623136
+1,West Indies,17,NO Miller,SW Tait,SJ Benn,,0,1,1,,,,313623136
+1,West Indies,17,SJ Benn,SW Tait,NO Miller,,0,1,1,,,,313623136
+1,West Indies,17,NO Miller,SW Tait,SJ Benn,,0,1,1,,,,313623136
+1,West Indies,17,SJ Benn,SW Tait,NO Miller,,0,0,0,,,,313623136
+1,West Indies,17,SJ Benn,SW Tait,NO Miller,,0,0,0,,,,313623136
+1,West Indies,17,SJ Benn,SW Tait,NO Miller,,0,0,0,,,,313623136
+1,West Indies,18,NO Miller,SR Watson,SJ Benn,,0,0,0,,,,313623136
+1,West Indies,18,NO Miller,SR Watson,SJ Benn,,0,1,1,,,,313623136
+1,West Indies,18,SJ Benn,SR Watson,NO Miller,,0,0,0,,,,313623136
+1,West Indies,18,SJ Benn,SR Watson,NO Miller,,0,6,6,,,,313623136
+1,West Indies,18,SJ Benn,SR Watson,NO Miller,,0,0,0,,,,313623136
+1,West Indies,18,SJ Benn,SR Watson,NO Miller,,0,0,0,bowled,SJ Benn,,313623136

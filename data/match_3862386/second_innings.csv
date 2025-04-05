@@ -1,0 +1,54 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,West Indies,0,CH Gayle,JM Anderson,ADS Fletcher,wides,1,1,0,,,,3862386
+2,West Indies,0,CH Gayle,JM Anderson,ADS Fletcher,,0,0,0,,,,3862386
+2,West Indies,0,CH Gayle,JM Anderson,ADS Fletcher,,0,4,4,,,,3862386
+2,West Indies,0,CH Gayle,JM Anderson,ADS Fletcher,,0,1,1,,,,3862386
+2,West Indies,0,ADS Fletcher,JM Anderson,CH Gayle,,0,0,0,,,,3862386
+2,West Indies,0,ADS Fletcher,JM Anderson,CH Gayle,,0,0,0,,,,3862386
+2,West Indies,0,ADS Fletcher,JM Anderson,CH Gayle,,0,0,0,caught,ADS Fletcher,JS Foster,3862386
+2,West Indies,1,CH Gayle,RJ Sidebottom,LMP Simmons,,0,4,4,,,,3862386
+2,West Indies,1,CH Gayle,RJ Sidebottom,LMP Simmons,,0,0,0,,,,3862386
+2,West Indies,1,CH Gayle,RJ Sidebottom,LMP Simmons,,0,4,4,,,,3862386
+2,West Indies,1,CH Gayle,RJ Sidebottom,LMP Simmons,,0,2,2,,,,3862386
+2,West Indies,1,CH Gayle,RJ Sidebottom,LMP Simmons,,0,0,0,bowled,CH Gayle,,3862386
+2,West Indies,1,DJ Bravo,RJ Sidebottom,LMP Simmons,,0,0,0,,,,3862386
+2,West Indies,2,LMP Simmons,SCJ Broad,DJ Bravo,,0,0,0,caught,LMP Simmons,RJ Sidebottom,3862386
+2,West Indies,2,DJ Bravo,SCJ Broad,KA Pollard,,0,4,4,,,,3862386
+2,West Indies,2,DJ Bravo,SCJ Broad,KA Pollard,,0,1,1,,,,3862386
+2,West Indies,2,KA Pollard,SCJ Broad,DJ Bravo,,0,1,1,,,,3862386
+2,West Indies,2,DJ Bravo,SCJ Broad,KA Pollard,,0,1,1,,,,3862386
+2,West Indies,2,KA Pollard,SCJ Broad,DJ Bravo,,0,0,0,,,,3862386
+2,West Indies,3,DJ Bravo,GP Swann,KA Pollard,,0,0,0,,,,3862386
+2,West Indies,3,DJ Bravo,GP Swann,KA Pollard,,0,0,0,,,,3862386
+2,West Indies,3,DJ Bravo,GP Swann,KA Pollard,,0,1,1,,,,3862386
+2,West Indies,3,KA Pollard,GP Swann,DJ Bravo,legbyes,1,1,0,,,,3862386
+2,West Indies,3,DJ Bravo,GP Swann,KA Pollard,,0,1,1,,,,3862386
+2,West Indies,3,KA Pollard,GP Swann,DJ Bravo,,0,6,6,,,,3862386
+2,West Indies,4,DJ Bravo,AU Rashid,KA Pollard,,0,6,6,,,,3862386
+2,West Indies,4,DJ Bravo,AU Rashid,KA Pollard,,0,1,1,,,,3862386
+2,West Indies,4,KA Pollard,AU Rashid,DJ Bravo,,0,2,2,,,,3862386
+2,West Indies,4,KA Pollard,AU Rashid,DJ Bravo,,0,0,0,bowled,KA Pollard,,3862386
+2,West Indies,4,S Chanderpaul,AU Rashid,DJ Bravo,,0,1,1,,,,3862386
+2,West Indies,4,DJ Bravo,AU Rashid,S Chanderpaul,,0,1,1,,,,3862386
+2,West Indies,5,DJ Bravo,GP Swann,S Chanderpaul,,0,2,2,,,,3862386
+2,West Indies,5,DJ Bravo,GP Swann,S Chanderpaul,,0,0,0,stumped,DJ Bravo,JS Foster,3862386
+2,West Indies,5,RR Sarwan,GP Swann,S Chanderpaul,wides,1,1,0,,,,3862386
+2,West Indies,5,RR Sarwan,GP Swann,S Chanderpaul,,0,2,2,,,,3862386
+2,West Indies,5,RR Sarwan,GP Swann,S Chanderpaul,,0,1,1,,,,3862386
+2,West Indies,5,S Chanderpaul,GP Swann,RR Sarwan,,0,1,1,,,,3862386
+2,West Indies,5,RR Sarwan,GP Swann,S Chanderpaul,,0,1,1,,,,3862386
+2,West Indies,6,RR Sarwan,JM Anderson,S Chanderpaul,,0,1,1,,,,3862386
+2,West Indies,6,S Chanderpaul,JM Anderson,RR Sarwan,,0,1,1,,,,3862386
+2,West Indies,6,RR Sarwan,JM Anderson,S Chanderpaul,wides,1,1,0,,,,3862386
+2,West Indies,6,RR Sarwan,JM Anderson,S Chanderpaul,,0,4,4,,,,3862386
+2,West Indies,6,RR Sarwan,JM Anderson,S Chanderpaul,,0,4,4,,,,3862386
+2,West Indies,6,RR Sarwan,JM Anderson,S Chanderpaul,,0,1,1,,,,3862386
+2,West Indies,6,S Chanderpaul,JM Anderson,RR Sarwan,,0,1,1,,,,3862386
+2,West Indies,7,S Chanderpaul,SCJ Broad,RR Sarwan,,0,3,3,,,,3862386
+2,West Indies,7,RR Sarwan,SCJ Broad,S Chanderpaul,,0,1,1,,,,3862386
+2,West Indies,7,S Chanderpaul,SCJ Broad,RR Sarwan,,0,2,2,,,,3862386
+2,West Indies,7,S Chanderpaul,SCJ Broad,RR Sarwan,,0,2,2,,,,3862386
+2,West Indies,7,S Chanderpaul,SCJ Broad,RR Sarwan,,0,4,4,,,,3862386
+2,West Indies,7,S Chanderpaul,SCJ Broad,RR Sarwan,,0,1,1,,,,3862386
+2,West Indies,8,S Chanderpaul,RJ Sidebottom,RR Sarwan,,0,1,1,,,,3862386
+2,West Indies,8,RR Sarwan,RJ Sidebottom,S Chanderpaul,,0,4,4,,,,3862386

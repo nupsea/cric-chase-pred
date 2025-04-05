@@ -1,0 +1,110 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Sierra Leone,0,Zahid Khan,F Damiao Couana,J Bangura,,0,1,1,,,,31809231809
+2,Sierra Leone,0,J Bangura,F Damiao Couana,Zahid Khan,,0,0,0,,,,31809231809
+2,Sierra Leone,0,J Bangura,F Damiao Couana,Zahid Khan,noballs,1,1,0,,,,31809231809
+2,Sierra Leone,0,J Bangura,F Damiao Couana,Zahid Khan,,0,1,1,,,,31809231809
+2,Sierra Leone,0,Zahid Khan,F Damiao Couana,J Bangura,,0,1,1,,,,31809231809
+2,Sierra Leone,0,J Bangura,F Damiao Couana,Zahid Khan,,0,0,0,,,,31809231809
+2,Sierra Leone,0,J Bangura,F Damiao Couana,Zahid Khan,,0,0,0,,,,31809231809
+2,Sierra Leone,1,Zahid Khan,ZE Matsinhe,J Bangura,byes,1,1,0,,,,31809231809
+2,Sierra Leone,1,J Bangura,ZE Matsinhe,Zahid Khan,,0,0,0,,,,31809231809
+2,Sierra Leone,1,J Bangura,ZE Matsinhe,Zahid Khan,,0,0,0,,,,31809231809
+2,Sierra Leone,1,J Bangura,ZE Matsinhe,Zahid Khan,wides,1,1,0,,,,31809231809
+2,Sierra Leone,1,J Bangura,ZE Matsinhe,Zahid Khan,,0,1,1,,,,31809231809
+2,Sierra Leone,1,Zahid Khan,ZE Matsinhe,J Bangura,,0,1,1,,,,31809231809
+2,Sierra Leone,1,J Bangura,ZE Matsinhe,Zahid Khan,,0,0,0,,,,31809231809
+2,Sierra Leone,2,Zahid Khan,F Damiao Couana,J Bangura,,0,0,0,lbw,Zahid Khan,,31809231809
+2,Sierra Leone,2,S Conteh,F Damiao Couana,J Bangura,,0,0,0,,,,31809231809
+2,Sierra Leone,2,S Conteh,F Damiao Couana,J Bangura,wides,1,1,0,,,,31809231809
+2,Sierra Leone,2,S Conteh,F Damiao Couana,J Bangura,,0,0,0,,,,31809231809
+2,Sierra Leone,2,S Conteh,F Damiao Couana,J Bangura,,0,0,0,,,,31809231809
+2,Sierra Leone,2,S Conteh,F Damiao Couana,J Bangura,,0,4,4,,,,31809231809
+2,Sierra Leone,2,S Conteh,F Damiao Couana,J Bangura,,0,0,0,,,,31809231809
+2,Sierra Leone,3,J Bangura,ZE Matsinhe,S Conteh,,0,1,1,,,,31809231809
+2,Sierra Leone,3,S Conteh,ZE Matsinhe,J Bangura,,0,0,0,,,,31809231809
+2,Sierra Leone,3,S Conteh,ZE Matsinhe,J Bangura,,0,4,4,,,,31809231809
+2,Sierra Leone,3,S Conteh,ZE Matsinhe,J Bangura,,0,0,0,,,,31809231809
+2,Sierra Leone,3,S Conteh,ZE Matsinhe,J Bangura,,0,1,1,,,,31809231809
+2,Sierra Leone,3,J Bangura,ZE Matsinhe,S Conteh,,0,0,0,caught,J Bangura,SF Nhavotso,31809231809
+2,Sierra Leone,4,S Conteh,F Damiao Couana,G Sesay,,0,1,1,,,,31809231809
+2,Sierra Leone,4,G Sesay,F Damiao Couana,S Conteh,,0,1,1,,,,31809231809
+2,Sierra Leone,4,S Conteh,F Damiao Couana,G Sesay,,0,0,0,,,,31809231809
+2,Sierra Leone,4,S Conteh,F Damiao Couana,G Sesay,,0,4,4,,,,31809231809
+2,Sierra Leone,4,S Conteh,F Damiao Couana,G Sesay,,0,0,0,run out,G Sesay,L Emilio,31809231809
+2,Sierra Leone,4,S Conteh,F Damiao Couana,AL Kerai,,0,0,0,,,,31809231809
+2,Sierra Leone,5,S Conteh,ZE Matsinhe,AL Kerai,,0,0,0,,,,31809231809
+2,Sierra Leone,5,S Conteh,ZE Matsinhe,AL Kerai,,0,0,0,,,,31809231809
+2,Sierra Leone,5,S Conteh,ZE Matsinhe,AL Kerai,,0,0,0,,,,31809231809
+2,Sierra Leone,5,S Conteh,ZE Matsinhe,AL Kerai,,0,0,0,,,,31809231809
+2,Sierra Leone,5,S Conteh,ZE Matsinhe,AL Kerai,,0,1,1,,,,31809231809
+2,Sierra Leone,5,AL Kerai,ZE Matsinhe,S Conteh,,0,0,0,,,,31809231809
+2,Sierra Leone,6,S Conteh,JJ Huo,AL Kerai,,0,1,1,,,,31809231809
+2,Sierra Leone,6,AL Kerai,JJ Huo,S Conteh,,0,0,0,,,,31809231809
+2,Sierra Leone,6,AL Kerai,JJ Huo,S Conteh,legbyes,1,1,0,,,,31809231809
+2,Sierra Leone,6,S Conteh,JJ Huo,AL Kerai,,0,1,1,,,,31809231809
+2,Sierra Leone,6,AL Kerai,JJ Huo,S Conteh,legbyes,1,1,0,,,,31809231809
+2,Sierra Leone,6,S Conteh,JJ Huo,AL Kerai,,0,1,1,,,,31809231809
+2,Sierra Leone,7,S Conteh,J Bulele,AL Kerai,,0,0,0,,,,31809231809
+2,Sierra Leone,7,S Conteh,J Bulele,AL Kerai,,0,0,0,,,,31809231809
+2,Sierra Leone,7,S Conteh,J Bulele,AL Kerai,,0,0,0,caught,S Conteh,ZE Matsinhe,31809231809
+2,Sierra Leone,7,AL Kerai,J Bulele,L Lamin,,0,0,0,,,,31809231809
+2,Sierra Leone,7,AL Kerai,J Bulele,L Lamin,,0,2,2,,,,31809231809
+2,Sierra Leone,7,AL Kerai,J Bulele,L Lamin,,0,0,0,,,,31809231809
+2,Sierra Leone,8,L Lamin,JJ Huo,AL Kerai,,0,1,1,,,,31809231809
+2,Sierra Leone,8,AL Kerai,JJ Huo,L Lamin,,0,0,0,,,,31809231809
+2,Sierra Leone,8,AL Kerai,JJ Huo,L Lamin,,0,2,2,,,,31809231809
+2,Sierra Leone,8,AL Kerai,JJ Huo,L Lamin,,0,2,2,,,,31809231809
+2,Sierra Leone,8,AL Kerai,JJ Huo,L Lamin,,0,1,1,,,,31809231809
+2,Sierra Leone,8,L Lamin,JJ Huo,AL Kerai,,0,0,0,,,,31809231809
+2,Sierra Leone,9,AL Kerai,J Bulele,L Lamin,legbyes,1,1,0,,,,31809231809
+2,Sierra Leone,9,L Lamin,J Bulele,AL Kerai,,0,1,1,,,,31809231809
+2,Sierra Leone,9,AL Kerai,J Bulele,L Lamin,,0,1,1,,,,31809231809
+2,Sierra Leone,9,L Lamin,J Bulele,AL Kerai,,0,0,0,,,,31809231809
+2,Sierra Leone,9,L Lamin,J Bulele,AL Kerai,,0,0,0,,,,31809231809
+2,Sierra Leone,9,L Lamin,J Bulele,AL Kerai,,0,1,1,,,,31809231809
+2,Sierra Leone,10,L Lamin,FA Cossa,AL Kerai,,0,1,1,,,,31809231809
+2,Sierra Leone,10,AL Kerai,FA Cossa,L Lamin,,0,0,0,,,,31809231809
+2,Sierra Leone,10,AL Kerai,FA Cossa,L Lamin,,0,4,4,,,,31809231809
+2,Sierra Leone,10,AL Kerai,FA Cossa,L Lamin,,0,0,0,,,,31809231809
+2,Sierra Leone,10,AL Kerai,FA Cossa,L Lamin,,0,1,1,,,,31809231809
+2,Sierra Leone,10,L Lamin,FA Cossa,AL Kerai,,0,1,1,,,,31809231809
+2,Sierra Leone,11,L Lamin,J Bulele,AL Kerai,,0,1,1,,,,31809231809
+2,Sierra Leone,11,AL Kerai,J Bulele,L Lamin,wides,1,1,0,,,,31809231809
+2,Sierra Leone,11,AL Kerai,J Bulele,L Lamin,,0,1,1,,,,31809231809
+2,Sierra Leone,11,L Lamin,J Bulele,AL Kerai,,0,0,0,,,,31809231809
+2,Sierra Leone,11,L Lamin,J Bulele,AL Kerai,byes,1,1,0,,,,31809231809
+2,Sierra Leone,11,AL Kerai,J Bulele,L Lamin,,0,2,2,,,,31809231809
+2,Sierra Leone,11,AL Kerai,J Bulele,L Lamin,,0,0,0,,,,31809231809
+2,Sierra Leone,12,L Lamin,FA Cossa,AL Kerai,,0,1,1,,,,31809231809
+2,Sierra Leone,12,AL Kerai,FA Cossa,L Lamin,,0,2,2,,,,31809231809
+2,Sierra Leone,12,AL Kerai,FA Cossa,L Lamin,,0,1,1,,,,31809231809
+2,Sierra Leone,12,L Lamin,FA Cossa,AL Kerai,,0,0,0,,,,31809231809
+2,Sierra Leone,12,L Lamin,FA Cossa,AL Kerai,,0,1,1,,,,31809231809
+2,Sierra Leone,12,AL Kerai,FA Cossa,L Lamin,,0,1,1,,,,31809231809
+2,Sierra Leone,13,AL Kerai,J Bulele,L Lamin,,0,4,4,,,,31809231809
+2,Sierra Leone,13,AL Kerai,J Bulele,L Lamin,,0,0,0,caught,AL Kerai,FA Cossa,31809231809
+2,Sierra Leone,13,I Mansaray,J Bulele,L Lamin,,0,1,1,,,,31809231809
+2,Sierra Leone,13,L Lamin,J Bulele,I Mansaray,,0,0,0,,,,31809231809
+2,Sierra Leone,13,L Lamin,J Bulele,I Mansaray,,0,4,4,,,,31809231809
+2,Sierra Leone,13,L Lamin,J Bulele,I Mansaray,,0,0,0,,,,31809231809
+2,Sierra Leone,14,I Mansaray,FA Cossa,L Lamin,,0,0,0,,,,31809231809
+2,Sierra Leone,14,I Mansaray,FA Cossa,L Lamin,,0,1,1,,,,31809231809
+2,Sierra Leone,14,L Lamin,FA Cossa,I Mansaray,,0,4,4,,,,31809231809
+2,Sierra Leone,14,L Lamin,FA Cossa,I Mansaray,,0,1,1,,,,31809231809
+2,Sierra Leone,14,I Mansaray,FA Cossa,L Lamin,,0,1,1,,,,31809231809
+2,Sierra Leone,14,L Lamin,FA Cossa,I Mansaray,,0,2,2,,,,31809231809
+2,Sierra Leone,15,I Mansaray,SF Nhavotso,L Lamin,,0,0,0,,,,31809231809
+2,Sierra Leone,15,I Mansaray,SF Nhavotso,L Lamin,wides,1,1,0,,,,31809231809
+2,Sierra Leone,15,I Mansaray,SF Nhavotso,L Lamin,,0,0,0,,,,31809231809
+2,Sierra Leone,15,I Mansaray,SF Nhavotso,L Lamin,,0,0,0,,,,31809231809
+2,Sierra Leone,15,I Mansaray,SF Nhavotso,L Lamin,,0,0,0,,,,31809231809
+2,Sierra Leone,15,I Mansaray,SF Nhavotso,L Lamin,,0,0,0,,,,31809231809
+2,Sierra Leone,15,I Mansaray,SF Nhavotso,L Lamin,,0,1,1,,,,31809231809
+2,Sierra Leone,16,I Mansaray,JJ Huo,L Lamin,,0,0,0,,,,31809231809
+2,Sierra Leone,16,I Mansaray,JJ Huo,L Lamin,,0,1,1,,,,31809231809
+2,Sierra Leone,16,L Lamin,JJ Huo,I Mansaray,,0,4,4,,,,31809231809
+2,Sierra Leone,16,L Lamin,JJ Huo,I Mansaray,,0,2,2,,,,31809231809
+2,Sierra Leone,16,L Lamin,JJ Huo,I Mansaray,,0,4,4,,,,31809231809
+2,Sierra Leone,16,L Lamin,JJ Huo,I Mansaray,legbyes,1,1,0,,,,31809231809
+2,Sierra Leone,17,L Lamin,SF Nhavotso,I Mansaray,byes,2,2,0,,,,31809231809
+2,Sierra Leone,17,L Lamin,SF Nhavotso,I Mansaray,,0,1,1,,,,31809231809

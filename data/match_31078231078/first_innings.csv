@@ -1,0 +1,70 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Fiji,0,M Vuruna,M Tom,I Waqavakatoga,,0,0,0,,,,31078231078
+1,Fiji,0,M Vuruna,M Tom,I Waqavakatoga,,0,0,0,,,,31078231078
+1,Fiji,0,M Vuruna,M Tom,I Waqavakatoga,,0,0,0,,,,31078231078
+1,Fiji,0,M Vuruna,M Tom,I Waqavakatoga,,0,1,1,,,,31078231078
+1,Fiji,0,I Waqavakatoga,M Tom,M Vuruna,wides,1,1,0,,,,31078231078
+1,Fiji,0,I Waqavakatoga,M Tom,M Vuruna,,0,0,0,,,,31078231078
+1,Fiji,0,I Waqavakatoga,M Tom,M Vuruna,,0,0,0,,,,31078231078
+1,Fiji,1,M Vuruna,S Jimmy,I Waqavakatoga,,0,2,2,,,,31078231078
+1,Fiji,1,M Vuruna,S Jimmy,I Waqavakatoga,,0,1,1,,,,31078231078
+1,Fiji,1,I Waqavakatoga,S Jimmy,M Vuruna,,0,1,1,,,,31078231078
+1,Fiji,1,M Vuruna,S Jimmy,I Waqavakatoga,,0,1,1,,,,31078231078
+1,Fiji,1,I Waqavakatoga,S Jimmy,M Vuruna,,0,0,0,caught,I Waqavakatoga,NM Ambo,31078231078
+1,Fiji,1,S Lomani,S Jimmy,M Vuruna,,0,0,0,,,,31078231078
+1,Fiji,2,M Vuruna,M Tom,S Lomani,,0,0,0,,,,31078231078
+1,Fiji,2,M Vuruna,M Tom,S Lomani,,0,0,0,,,,31078231078
+1,Fiji,2,M Vuruna,M Tom,S Lomani,,0,0,0,caught and bowled,M Vuruna,,31078231078
+1,Fiji,2,M Vua,M Tom,S Lomani,,0,0,0,,,,31078231078
+1,Fiji,2,M Vua,M Tom,S Lomani,,0,0,0,,,,31078231078
+1,Fiji,2,M Vua,M Tom,S Lomani,,0,1,1,,,,31078231078
+1,Fiji,3,M Vua,S Jimmy,S Lomani,,0,0,0,,,,31078231078
+1,Fiji,3,M Vua,S Jimmy,S Lomani,,0,0,0,,,,31078231078
+1,Fiji,3,M Vua,S Jimmy,S Lomani,,0,1,1,,,,31078231078
+1,Fiji,3,S Lomani,S Jimmy,M Vua,,0,1,1,,,,31078231078
+1,Fiji,3,M Vua,S Jimmy,S Lomani,,0,0,0,,,,31078231078
+1,Fiji,3,M Vua,S Jimmy,S Lomani,,0,1,1,,,,31078231078
+1,Fiji,4,M Vua,K Arua,S Lomani,,0,0,0,,,,31078231078
+1,Fiji,4,M Vua,K Arua,S Lomani,,0,1,1,,,,31078231078
+1,Fiji,4,S Lomani,K Arua,M Vua,,0,1,1,,,,31078231078
+1,Fiji,4,M Vua,K Arua,S Lomani,,0,0,0,,,,31078231078
+1,Fiji,4,M Vua,K Arua,S Lomani,,0,0,0,,,,31078231078
+1,Fiji,4,M Vua,K Arua,S Lomani,,0,0,0,,,,31078231078
+1,Fiji,5,S Lomani,R Oa,M Vua,,0,0,0,,,,31078231078
+1,Fiji,5,S Lomani,R Oa,M Vua,wides,1,1,0,,,,31078231078
+1,Fiji,5,S Lomani,R Oa,M Vua,,0,0,0,run out,M Vua,,31078231078
+1,Fiji,5,S Lomani,R Oa,R Muriyalo,,0,0,0,,,,31078231078
+1,Fiji,5,S Lomani,R Oa,R Muriyalo,,0,1,1,,,,31078231078
+1,Fiji,5,R Muriyalo,R Oa,S Lomani,,0,0,0,,,,31078231078
+1,Fiji,5,R Muriyalo,R Oa,S Lomani,,0,0,0,,,,31078231078
+1,Fiji,6,S Lomani,K Arua,R Muriyalo,,0,0,0,,,,31078231078
+1,Fiji,6,S Lomani,K Arua,R Muriyalo,,0,0,0,,,,31078231078
+1,Fiji,6,S Lomani,K Arua,R Muriyalo,,0,2,2,,,,31078231078
+1,Fiji,6,S Lomani,K Arua,R Muriyalo,,0,0,0,,,,31078231078
+1,Fiji,6,S Lomani,K Arua,R Muriyalo,,0,0,0,run out,S Lomani,,31078231078
+1,Fiji,6,W Ofamoli,K Arua,R Muriyalo,,0,1,1,,,,31078231078
+1,Fiji,7,W Ofamoli,R Oa,R Muriyalo,,0,0,0,,,,31078231078
+1,Fiji,7,W Ofamoli,R Oa,R Muriyalo,,0,0,0,bowled,W Ofamoli,,31078231078
+1,Fiji,7,S Lote,R Oa,R Muriyalo,,0,0,0,,,,31078231078
+1,Fiji,7,S Lote,R Oa,R Muriyalo,,0,1,1,,,,31078231078
+1,Fiji,7,R Muriyalo,R Oa,S Lote,,0,0,0,,,,31078231078
+1,Fiji,7,R Muriyalo,R Oa,S Lote,,0,1,1,,,,31078231078
+1,Fiji,8,R Muriyalo,K Arua,S Lote,,0,1,1,,,,31078231078
+1,Fiji,8,S Lote,K Arua,R Muriyalo,,0,0,0,,,,31078231078
+1,Fiji,8,S Lote,K Arua,R Muriyalo,,0,0,0,,,,31078231078
+1,Fiji,8,S Lote,K Arua,R Muriyalo,,0,0,0,,,,31078231078
+1,Fiji,8,S Lote,K Arua,R Muriyalo,,0,1,1,,,,31078231078
+1,Fiji,8,R Muriyalo,K Arua,S Lote,,0,0,0,caught,R Muriyalo,N Vare,31078231078
+1,Fiji,9,S Lote,R Oa,A Tagilala,,0,0,0,stumped,S Lote,B Tau,31078231078
+1,Fiji,9,L Samani,R Oa,A Tagilala,,0,0,0,,,,31078231078
+1,Fiji,9,L Samani,R Oa,A Tagilala,,0,0,0,,,,31078231078
+1,Fiji,9,L Samani,R Oa,A Tagilala,,0,0,0,,,,31078231078
+1,Fiji,9,L Samani,R Oa,A Tagilala,,0,0,0,bowled,L Samani,,31078231078
+1,Fiji,9,M Tilau,R Oa,A Tagilala,,0,0,0,,,,31078231078
+1,Fiji,10,A Tagilala,K Arua,M Tilau,,0,0,0,,,,31078231078
+1,Fiji,10,A Tagilala,K Arua,M Tilau,,0,1,1,,,,31078231078
+1,Fiji,10,M Tilau,K Arua,A Tagilala,,0,0,0,caught and bowled,M Tilau,,31078231078
+1,Fiji,10,L Vua,K Arua,A Tagilala,,0,0,0,,,,31078231078
+1,Fiji,10,L Vua,K Arua,A Tagilala,,0,0,0,,,,31078231078
+1,Fiji,10,L Vua,K Arua,A Tagilala,,0,0,0,,,,31078231078
+1,Fiji,11,A Tagilala,R Oa,L Vua,,0,0,0,bowled,A Tagilala,,31078231078

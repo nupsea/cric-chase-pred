@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,New Zealand,0,MJ Guptill,DJ Willey,C Munro,legbyes,1,1,0,,,,371623716
+2,New Zealand,0,C Munro,DJ Willey,MJ Guptill,,0,6,6,,,,371623716
+2,New Zealand,0,C Munro,DJ Willey,MJ Guptill,,0,0,0,,,,371623716
+2,New Zealand,0,C Munro,DJ Willey,MJ Guptill,,0,0,0,,,,371623716
+2,New Zealand,0,C Munro,DJ Willey,MJ Guptill,,0,0,0,,,,371623716
+2,New Zealand,0,C Munro,DJ Willey,MJ Guptill,,0,6,6,,,,371623716
+2,New Zealand,1,MJ Guptill,TK Curran,C Munro,,0,0,0,,,,371623716
+2,New Zealand,1,MJ Guptill,TK Curran,C Munro,,0,1,1,,,,371623716
+2,New Zealand,1,C Munro,TK Curran,MJ Guptill,,0,6,6,,,,371623716
+2,New Zealand,1,C Munro,TK Curran,MJ Guptill,,0,6,6,,,,371623716
+2,New Zealand,1,C Munro,TK Curran,MJ Guptill,,0,0,0,,,,371623716
+2,New Zealand,1,C Munro,TK Curran,MJ Guptill,,0,4,4,,,,371623716
+2,New Zealand,2,MJ Guptill,DJ Willey,C Munro,legbyes,4,4,0,,,,371623716
+2,New Zealand,2,MJ Guptill,DJ Willey,C Munro,,0,0,0,,,,371623716
+2,New Zealand,2,MJ Guptill,DJ Willey,C Munro,wides,1,1,0,,,,371623716
+2,New Zealand,2,MJ Guptill,DJ Willey,C Munro,,0,0,0,,,,371623716
+2,New Zealand,2,MJ Guptill,DJ Willey,C Munro,,0,1,1,,,,371623716
+2,New Zealand,2,C Munro,DJ Willey,MJ Guptill,,0,1,1,,,,371623716
+2,New Zealand,2,MJ Guptill,DJ Willey,C Munro,,0,0,0,,,,371623716
+2,New Zealand,3,C Munro,CJ Jordan,MJ Guptill,,0,0,0,,,,371623716
+2,New Zealand,3,C Munro,CJ Jordan,MJ Guptill,legbyes,1,1,0,,,,371623716
+2,New Zealand,3,MJ Guptill,CJ Jordan,C Munro,,0,1,1,,,,371623716
+2,New Zealand,3,C Munro,CJ Jordan,MJ Guptill,,0,1,1,,,,371623716
+2,New Zealand,3,MJ Guptill,CJ Jordan,C Munro,,0,1,1,,,,371623716
+2,New Zealand,3,C Munro,CJ Jordan,MJ Guptill,,0,6,6,,,,371623716
+2,New Zealand,4,MJ Guptill,DJ Willey,C Munro,,0,1,1,,,,371623716
+2,New Zealand,4,C Munro,DJ Willey,MJ Guptill,,0,6,6,,,,371623716
+2,New Zealand,4,C Munro,DJ Willey,MJ Guptill,legbyes,1,1,0,,,,371623716
+2,New Zealand,4,MJ Guptill,DJ Willey,C Munro,,0,1,1,,,,371623716
+2,New Zealand,4,C Munro,DJ Willey,MJ Guptill,,0,4,4,,,,371623716
+2,New Zealand,4,C Munro,DJ Willey,MJ Guptill,,0,6,6,,,,371623716
+2,New Zealand,5,MJ Guptill,CJ Jordan,C Munro,,0,4,4,,,,371623716
+2,New Zealand,5,MJ Guptill,CJ Jordan,C Munro,,0,0,0,,,,371623716
+2,New Zealand,5,MJ Guptill,CJ Jordan,C Munro,,0,1,1,,,,371623716
+2,New Zealand,5,C Munro,CJ Jordan,MJ Guptill,,0,4,4,,,,371623716
+2,New Zealand,5,C Munro,CJ Jordan,MJ Guptill,,0,1,1,,,,371623716
+2,New Zealand,5,MJ Guptill,CJ Jordan,C Munro,,0,1,1,,,,371623716
+2,New Zealand,6,MJ Guptill,AU Rashid,C Munro,,0,0,0,,,,371623716
+2,New Zealand,6,MJ Guptill,AU Rashid,C Munro,,0,1,1,,,,371623716
+2,New Zealand,6,C Munro,AU Rashid,MJ Guptill,,0,0,0,caught,C Munro,DJ Willey,371623716
+2,New Zealand,6,MJ Guptill,AU Rashid,KS Williamson,,0,1,1,,,,371623716
+2,New Zealand,6,KS Williamson,AU Rashid,MJ Guptill,,0,1,1,,,,371623716
+2,New Zealand,6,MJ Guptill,AU Rashid,KS Williamson,,0,0,0,,,,371623716
+2,New Zealand,7,KS Williamson,LA Dawson,MJ Guptill,,0,1,1,,,,371623716
+2,New Zealand,7,MJ Guptill,LA Dawson,KS Williamson,,0,0,0,,,,371623716
+2,New Zealand,7,MJ Guptill,LA Dawson,KS Williamson,,0,0,0,,,,371623716
+2,New Zealand,7,MJ Guptill,LA Dawson,KS Williamson,,0,1,1,,,,371623716
+2,New Zealand,7,KS Williamson,LA Dawson,MJ Guptill,,0,0,0,,,,371623716
+2,New Zealand,7,KS Williamson,LA Dawson,MJ Guptill,,0,0,0,,,,371623716
+2,New Zealand,8,MJ Guptill,AU Rashid,KS Williamson,,0,4,4,,,,371623716
+2,New Zealand,8,MJ Guptill,AU Rashid,KS Williamson,,0,1,1,,,,371623716
+2,New Zealand,8,KS Williamson,AU Rashid,MJ Guptill,,0,1,1,,,,371623716
+2,New Zealand,8,MJ Guptill,AU Rashid,KS Williamson,,0,1,1,,,,371623716
+2,New Zealand,8,KS Williamson,AU Rashid,MJ Guptill,,0,0,0,,,,371623716
+2,New Zealand,8,KS Williamson,AU Rashid,MJ Guptill,,0,1,1,,,,371623716
+2,New Zealand,9,KS Williamson,LA Dawson,MJ Guptill,,0,1,1,,,,371623716
+2,New Zealand,9,MJ Guptill,LA Dawson,KS Williamson,,0,0,0,,,,371623716
+2,New Zealand,9,MJ Guptill,LA Dawson,KS Williamson,,0,1,1,,,,371623716
+2,New Zealand,9,KS Williamson,LA Dawson,MJ Guptill,,0,1,1,,,,371623716
+2,New Zealand,9,MJ Guptill,LA Dawson,KS Williamson,,0,1,1,,,,371623716
+2,New Zealand,9,KS Williamson,LA Dawson,MJ Guptill,,0,0,0,,,,371623716
+2,New Zealand,10,MJ Guptill,AU Rashid,KS Williamson,,0,1,1,,,,371623716
+2,New Zealand,10,KS Williamson,AU Rashid,MJ Guptill,,0,1,1,,,,371623716
+2,New Zealand,10,MJ Guptill,AU Rashid,KS Williamson,,0,0,0,,,,371623716
+2,New Zealand,10,MJ Guptill,AU Rashid,KS Williamson,,0,1,1,,,,371623716
+2,New Zealand,10,KS Williamson,AU Rashid,MJ Guptill,,0,1,1,,,,371623716
+2,New Zealand,10,MJ Guptill,AU Rashid,KS Williamson,,0,2,2,,,,371623716
+2,New Zealand,11,KS Williamson,LA Dawson,MJ Guptill,,0,0,0,bowled,KS Williamson,,371623716
+2,New Zealand,11,MS Chapman,LA Dawson,MJ Guptill,,0,1,1,,,,371623716
+2,New Zealand,11,MJ Guptill,LA Dawson,MS Chapman,,0,1,1,,,,371623716
+2,New Zealand,11,MS Chapman,LA Dawson,MJ Guptill,,0,0,0,,,,371623716
+2,New Zealand,11,MS Chapman,LA Dawson,MJ Guptill,,0,0,0,,,,371623716
+2,New Zealand,11,MS Chapman,LA Dawson,MJ Guptill,,0,1,1,,,,371623716
+2,New Zealand,12,MS Chapman,AU Rashid,MJ Guptill,,0,1,1,,,,371623716
+2,New Zealand,12,MJ Guptill,AU Rashid,MS Chapman,,0,1,1,,,,371623716
+2,New Zealand,12,MS Chapman,AU Rashid,MJ Guptill,,0,0,0,,,,371623716
+2,New Zealand,12,MS Chapman,AU Rashid,MJ Guptill,,0,1,1,,,,371623716
+2,New Zealand,12,MJ Guptill,AU Rashid,MS Chapman,,0,1,1,,,,371623716
+2,New Zealand,12,MS Chapman,AU Rashid,MJ Guptill,,0,1,1,,,,371623716
+2,New Zealand,13,MS Chapman,LA Dawson,MJ Guptill,,0,6,6,,,,371623716
+2,New Zealand,13,MS Chapman,LA Dawson,MJ Guptill,,0,1,1,,,,371623716
+2,New Zealand,13,MJ Guptill,LA Dawson,MS Chapman,,0,4,4,,,,371623716
+2,New Zealand,13,MJ Guptill,LA Dawson,MS Chapman,,0,1,1,,,,371623716
+2,New Zealand,13,MS Chapman,LA Dawson,MJ Guptill,,0,6,6,,,,371623716
+2,New Zealand,13,MS Chapman,LA Dawson,MJ Guptill,,0,0,0,,,,371623716
+2,New Zealand,14,MJ Guptill,DJ Malan,MS Chapman,,0,6,6,,,,371623716
+2,New Zealand,14,MJ Guptill,DJ Malan,MS Chapman,,0,1,1,,,,371623716
+2,New Zealand,14,MS Chapman,DJ Malan,MJ Guptill,,0,2,2,,,,371623716
+2,New Zealand,14,MS Chapman,DJ Malan,MJ Guptill,,0,2,2,,,,371623716
+2,New Zealand,14,MS Chapman,DJ Malan,MJ Guptill,,0,1,1,,,,371623716
+2,New Zealand,14,MJ Guptill,DJ Malan,MS Chapman,,0,0,0,,,,371623716
+2,New Zealand,15,MS Chapman,CJ Jordan,MJ Guptill,legbyes,1,1,0,,,,371623716
+2,New Zealand,15,MJ Guptill,CJ Jordan,MS Chapman,,0,6,6,,,,371623716
+2,New Zealand,15,MJ Guptill,CJ Jordan,MS Chapman,,0,1,1,,,,371623716
+2,New Zealand,15,MS Chapman,CJ Jordan,MJ Guptill,,0,4,4,,,,371623716
+2,New Zealand,15,MS Chapman,CJ Jordan,MJ Guptill,,0,1,1,,,,371623716
+2,New Zealand,15,MJ Guptill,CJ Jordan,MS Chapman,,0,1,1,,,,371623716
+2,New Zealand,16,MJ Guptill,DJ Malan,MS Chapman,,0,6,6,,,,371623716
+2,New Zealand,16,MJ Guptill,DJ Malan,MS Chapman,,0,6,6,,,,371623716
+2,New Zealand,16,MJ Guptill,DJ Malan,MS Chapman,,0,0,0,bowled,MJ Guptill,,371623716
+2,New Zealand,16,LRPL Taylor,DJ Malan,MS Chapman,,0,1,1,,,,371623716
+2,New Zealand,16,MS Chapman,DJ Malan,LRPL Taylor,,0,1,1,,,,371623716
+2,New Zealand,16,LRPL Taylor,DJ Malan,MS Chapman,,0,1,1,,,,371623716
+2,New Zealand,17,LRPL Taylor,TK Curran,MS Chapman,,0,0,0,,,,371623716
+2,New Zealand,17,LRPL Taylor,TK Curran,MS Chapman,,0,4,4,,,,371623716
+2,New Zealand,17,LRPL Taylor,TK Curran,MS Chapman,,0,1,1,,,,371623716
+2,New Zealand,17,MS Chapman,TK Curran,LRPL Taylor,,0,1,1,,,,371623716
+2,New Zealand,17,LRPL Taylor,TK Curran,MS Chapman,,0,0,0,caught,LRPL Taylor,EJG Morgan,371623716
+2,New Zealand,17,MS Chapman,TK Curran,C de Grandhomme,,0,1,1,,,,371623716
+2,New Zealand,18,MS Chapman,CJ Jordan,C de Grandhomme,,0,1,1,,,,371623716
+2,New Zealand,18,C de Grandhomme,CJ Jordan,MS Chapman,,0,4,4,,,,371623716
+2,New Zealand,18,C de Grandhomme,CJ Jordan,MS Chapman,noballs,1,2,1,,,,371623716
+2,New Zealand,18,MS Chapman,CJ Jordan,C de Grandhomme,wides,1,1,0,,,,371623716
+2,New Zealand,18,MS Chapman,CJ Jordan,C de Grandhomme,,0,0,0,,,,371623716
+2,New Zealand,18,MS Chapman,CJ Jordan,C de Grandhomme,,0,0,0,,,,371623716
+2,New Zealand,18,MS Chapman,CJ Jordan,C de Grandhomme,noballs,1,1,0,,,,371623716
+2,New Zealand,18,MS Chapman,CJ Jordan,C de Grandhomme,,0,0,0,,,,371623716
+2,New Zealand,18,MS Chapman,CJ Jordan,C de Grandhomme,,0,0,0,,,,371623716
+2,New Zealand,19,C de Grandhomme,TK Curran,MS Chapman,,0,1,1,,,,371623716
+2,New Zealand,19,MS Chapman,TK Curran,C de Grandhomme,,0,1,1,,,,371623716
+2,New Zealand,19,C de Grandhomme,TK Curran,MS Chapman,,0,1,1,,,,371623716
+2,New Zealand,19,MS Chapman,TK Curran,C de Grandhomme,,0,4,4,,,,371623716
+2,New Zealand,19,MS Chapman,TK Curran,C de Grandhomme,byes,1,1,0,,,,371623716
+2,New Zealand,19,C de Grandhomme,TK Curran,MS Chapman,,0,1,1,,,,371623716

@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,GC Smith,JM Anderson,LE Bosman,,0,0,0,,,,310323103
+1,South Africa,0,GC Smith,JM Anderson,LE Bosman,,0,0,0,,,,310323103
+1,South Africa,0,GC Smith,JM Anderson,LE Bosman,wides,1,1,0,,,,310323103
+1,South Africa,0,GC Smith,JM Anderson,LE Bosman,,0,1,1,,,,310323103
+1,South Africa,0,LE Bosman,JM Anderson,GC Smith,,0,0,0,,,,310323103
+1,South Africa,0,LE Bosman,JM Anderson,GC Smith,,0,0,0,,,,310323103
+1,South Africa,0,LE Bosman,JM Anderson,GC Smith,,0,0,0,,,,310323103
+1,South Africa,1,GC Smith,TT Bresnan,LE Bosman,,0,4,4,,,,310323103
+1,South Africa,1,GC Smith,TT Bresnan,LE Bosman,,0,0,0,,,,310323103
+1,South Africa,1,GC Smith,TT Bresnan,LE Bosman,,0,1,1,,,,310323103
+1,South Africa,1,LE Bosman,TT Bresnan,GC Smith,,0,0,0,,,,310323103
+1,South Africa,1,LE Bosman,TT Bresnan,GC Smith,,0,0,0,,,,310323103
+1,South Africa,1,LE Bosman,TT Bresnan,GC Smith,,0,1,1,,,,310323103
+1,South Africa,2,LE Bosman,JM Anderson,GC Smith,,0,4,4,,,,310323103
+1,South Africa,2,LE Bosman,JM Anderson,GC Smith,,0,0,0,,,,310323103
+1,South Africa,2,LE Bosman,JM Anderson,GC Smith,,0,1,1,,,,310323103
+1,South Africa,2,GC Smith,JM Anderson,LE Bosman,,0,0,0,,,,310323103
+1,South Africa,2,GC Smith,JM Anderson,LE Bosman,,0,1,1,,,,310323103
+1,South Africa,2,LE Bosman,JM Anderson,GC Smith,,0,0,0,,,,310323103
+1,South Africa,3,GC Smith,SI Mahmood,LE Bosman,,0,4,4,,,,310323103
+1,South Africa,3,GC Smith,SI Mahmood,LE Bosman,,0,4,4,,,,310323103
+1,South Africa,3,GC Smith,SI Mahmood,LE Bosman,noballs,1,5,4,,,,310323103
+1,South Africa,3,GC Smith,SI Mahmood,LE Bosman,,0,0,0,,,,310323103
+1,South Africa,3,GC Smith,SI Mahmood,LE Bosman,,0,0,0,,,,310323103
+1,South Africa,3,GC Smith,SI Mahmood,LE Bosman,,0,1,1,,,,310323103
+1,South Africa,3,LE Bosman,SI Mahmood,GC Smith,noballs,1,1,0,,,,310323103
+1,South Africa,3,LE Bosman,SI Mahmood,GC Smith,,0,6,6,,,,310323103
+1,South Africa,4,GC Smith,TT Bresnan,LE Bosman,,0,0,0,,,,310323103
+1,South Africa,4,GC Smith,TT Bresnan,LE Bosman,,0,4,4,,,,310323103
+1,South Africa,4,GC Smith,TT Bresnan,LE Bosman,,0,4,4,,,,310323103
+1,South Africa,4,GC Smith,TT Bresnan,LE Bosman,,0,1,1,,,,310323103
+1,South Africa,4,LE Bosman,TT Bresnan,GC Smith,,0,6,6,,,,310323103
+1,South Africa,4,LE Bosman,TT Bresnan,GC Smith,,0,1,1,,,,310323103
+1,South Africa,5,LE Bosman,LJ Wright,GC Smith,,0,6,6,,,,310323103
+1,South Africa,5,LE Bosman,LJ Wright,GC Smith,,0,1,1,,,,310323103
+1,South Africa,5,GC Smith,LJ Wright,LE Bosman,,0,6,6,,,,310323103
+1,South Africa,5,GC Smith,LJ Wright,LE Bosman,,0,4,4,,,,310323103
+1,South Africa,5,GC Smith,LJ Wright,LE Bosman,,0,1,1,,,,310323103
+1,South Africa,5,LE Bosman,LJ Wright,GC Smith,,0,0,0,,,,310323103
+1,South Africa,6,GC Smith,SI Mahmood,LE Bosman,,0,1,1,,,,310323103
+1,South Africa,6,LE Bosman,SI Mahmood,GC Smith,,0,1,1,,,,310323103
+1,South Africa,6,GC Smith,SI Mahmood,LE Bosman,,0,1,1,,,,310323103
+1,South Africa,6,LE Bosman,SI Mahmood,GC Smith,,0,0,0,,,,310323103
+1,South Africa,6,LE Bosman,SI Mahmood,GC Smith,,0,4,4,,,,310323103
+1,South Africa,6,LE Bosman,SI Mahmood,GC Smith,,0,6,6,,,,310323103
+1,South Africa,7,GC Smith,AU Rashid,LE Bosman,,0,6,6,,,,310323103
+1,South Africa,7,GC Smith,AU Rashid,LE Bosman,,0,6,6,,,,310323103
+1,South Africa,7,GC Smith,AU Rashid,LE Bosman,,0,0,0,,,,310323103
+1,South Africa,7,GC Smith,AU Rashid,LE Bosman,,0,1,1,,,,310323103
+1,South Africa,7,LE Bosman,AU Rashid,GC Smith,,0,6,6,,,,310323103
+1,South Africa,7,LE Bosman,AU Rashid,GC Smith,,0,6,6,,,,310323103
+1,South Africa,8,GC Smith,LJ Wright,LE Bosman,,0,0,0,,,,310323103
+1,South Africa,8,GC Smith,LJ Wright,LE Bosman,,0,1,1,,,,310323103
+1,South Africa,8,LE Bosman,LJ Wright,GC Smith,legbyes,1,1,0,,,,310323103
+1,South Africa,8,GC Smith,LJ Wright,LE Bosman,,0,4,4,,,,310323103
+1,South Africa,8,GC Smith,LJ Wright,LE Bosman,,0,1,1,,,,310323103
+1,South Africa,8,LE Bosman,LJ Wright,GC Smith,,0,2,2,,,,310323103
+1,South Africa,9,GC Smith,TT Bresnan,LE Bosman,,0,6,6,,,,310323103
+1,South Africa,9,GC Smith,TT Bresnan,LE Bosman,,0,6,6,,,,310323103
+1,South Africa,9,GC Smith,TT Bresnan,LE Bosman,,0,0,0,,,,310323103
+1,South Africa,9,GC Smith,TT Bresnan,LE Bosman,,0,1,1,,,,310323103
+1,South Africa,9,LE Bosman,TT Bresnan,GC Smith,,0,1,1,,,,310323103
+1,South Africa,9,GC Smith,TT Bresnan,LE Bosman,,0,1,1,,,,310323103
+1,South Africa,10,GC Smith,LJ Wright,LE Bosman,,0,1,1,,,,310323103
+1,South Africa,10,LE Bosman,LJ Wright,GC Smith,,0,1,1,,,,310323103
+1,South Africa,10,GC Smith,LJ Wright,LE Bosman,,0,1,1,,,,310323103
+1,South Africa,10,LE Bosman,LJ Wright,GC Smith,,0,2,2,,,,310323103
+1,South Africa,10,LE Bosman,LJ Wright,GC Smith,,0,2,2,,,,310323103
+1,South Africa,10,LE Bosman,LJ Wright,GC Smith,,0,0,0,,,,310323103
+1,South Africa,11,GC Smith,SI Mahmood,LE Bosman,,0,6,6,,,,310323103
+1,South Africa,11,GC Smith,SI Mahmood,LE Bosman,,0,2,2,,,,310323103
+1,South Africa,11,GC Smith,SI Mahmood,LE Bosman,,0,1,1,,,,310323103
+1,South Africa,11,LE Bosman,SI Mahmood,GC Smith,,0,2,2,,,,310323103
+1,South Africa,11,LE Bosman,SI Mahmood,GC Smith,,0,4,4,,,,310323103
+1,South Africa,11,LE Bosman,SI Mahmood,GC Smith,,0,4,4,,,,310323103
+1,South Africa,12,GC Smith,KP Pietersen,LE Bosman,,0,1,1,,,,310323103
+1,South Africa,12,LE Bosman,KP Pietersen,GC Smith,,0,6,6,,,,310323103
+1,South Africa,12,LE Bosman,KP Pietersen,GC Smith,,0,4,4,,,,310323103
+1,South Africa,12,LE Bosman,KP Pietersen,GC Smith,,0,0,0,,,,310323103
+1,South Africa,12,LE Bosman,KP Pietersen,GC Smith,,0,1,1,,,,310323103
+1,South Africa,12,GC Smith,KP Pietersen,LE Bosman,,0,1,1,,,,310323103
+1,South Africa,13,GC Smith,JL Denly,LE Bosman,,0,0,0,caught,GC Smith,SI Mahmood,310323103
+1,South Africa,13,LE Bosman,JL Denly,JA Morkel,,0,1,1,,,,310323103
+1,South Africa,13,JA Morkel,JL Denly,LE Bosman,,0,0,0,,,,310323103
+1,South Africa,13,JA Morkel,JL Denly,LE Bosman,,0,4,4,,,,310323103
+1,South Africa,13,JA Morkel,JL Denly,LE Bosman,,0,0,0,,,,310323103
+1,South Africa,13,JA Morkel,JL Denly,LE Bosman,,0,4,4,,,,310323103
+1,South Africa,14,LE Bosman,KP Pietersen,JA Morkel,,0,6,6,,,,310323103
+1,South Africa,14,LE Bosman,KP Pietersen,JA Morkel,,0,1,1,,,,310323103
+1,South Africa,14,JA Morkel,KP Pietersen,LE Bosman,,0,6,6,,,,310323103
+1,South Africa,14,JA Morkel,KP Pietersen,LE Bosman,,0,0,0,caught,JA Morkel,TT Bresnan,310323103
+1,South Africa,14,JP Duminy,KP Pietersen,LE Bosman,byes,2,2,0,,,,310323103
+1,South Africa,14,JP Duminy,KP Pietersen,LE Bosman,,0,1,1,,,,310323103
+1,South Africa,15,JP Duminy,JM Anderson,LE Bosman,,0,1,1,,,,310323103
+1,South Africa,15,LE Bosman,JM Anderson,JP Duminy,,0,6,6,,,,310323103
+1,South Africa,15,LE Bosman,JM Anderson,JP Duminy,,0,0,0,,,,310323103
+1,South Africa,15,LE Bosman,JM Anderson,JP Duminy,,0,1,1,,,,310323103
+1,South Africa,15,JP Duminy,JM Anderson,LE Bosman,,0,0,0,caught,JP Duminy,LJ Wright,310323103
+1,South Africa,15,LE Bosman,JM Anderson,AB de Villiers,,0,1,1,,,,310323103
+1,South Africa,16,LE Bosman,LJ Wright,AB de Villiers,,0,0,0,caught,LE Bosman,JM Anderson,310323103
+1,South Africa,16,AB de Villiers,LJ Wright,JH Kallis,,0,1,1,,,,310323103
+1,South Africa,16,JH Kallis,LJ Wright,AB de Villiers,,0,0,0,,,,310323103
+1,South Africa,16,JH Kallis,LJ Wright,AB de Villiers,,0,1,1,,,,310323103
+1,South Africa,16,AB de Villiers,LJ Wright,JH Kallis,,0,1,1,,,,310323103
+1,South Africa,16,JH Kallis,LJ Wright,AB de Villiers,,0,4,4,,,,310323103
+1,South Africa,17,AB de Villiers,SI Mahmood,JH Kallis,,0,1,1,,,,310323103
+1,South Africa,17,JH Kallis,SI Mahmood,AB de Villiers,,0,2,2,,,,310323103
+1,South Africa,17,JH Kallis,SI Mahmood,AB de Villiers,,0,0,0,bowled,JH Kallis,,310323103
+1,South Africa,17,HG Kuhn,SI Mahmood,AB de Villiers,,0,1,1,,,,310323103
+1,South Africa,17,AB de Villiers,SI Mahmood,HG Kuhn,,0,4,4,,,,310323103
+1,South Africa,17,AB de Villiers,SI Mahmood,HG Kuhn,,0,0,0,,,,310323103
+1,South Africa,18,HG Kuhn,TT Bresnan,AB de Villiers,,0,1,1,,,,310323103
+1,South Africa,18,AB de Villiers,TT Bresnan,HG Kuhn,,0,2,2,,,,310323103
+1,South Africa,18,AB de Villiers,TT Bresnan,HG Kuhn,,0,0,0,,,,310323103
+1,South Africa,18,AB de Villiers,TT Bresnan,HG Kuhn,,0,0,0,,,,310323103
+1,South Africa,18,AB de Villiers,TT Bresnan,HG Kuhn,,0,4,4,,,,310323103
+1,South Africa,18,AB de Villiers,TT Bresnan,HG Kuhn,,0,4,4,,,,310323103
+1,South Africa,19,HG Kuhn,JM Anderson,AB de Villiers,,0,1,1,,,,310323103
+1,South Africa,19,AB de Villiers,JM Anderson,HG Kuhn,,0,6,6,,,,310323103
+1,South Africa,19,AB de Villiers,JM Anderson,HG Kuhn,,0,0,0,,,,310323103
+1,South Africa,19,AB de Villiers,JM Anderson,HG Kuhn,,0,1,1,run out,AB de Villiers,MJ Prior,310323103
+1,South Africa,19,R McLaren,JM Anderson,HG Kuhn,,0,1,1,,,,310323103
+1,South Africa,19,HG Kuhn,JM Anderson,R McLaren,,0,2,2,,,,310323103

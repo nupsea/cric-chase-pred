@@ -1,0 +1,84 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Netherlands,0,PW Borren,PR Stirling,SJ Myburgh,,0,4,4,,,,340423404
+2,Netherlands,0,PW Borren,PR Stirling,SJ Myburgh,,0,0,0,,,,340423404
+2,Netherlands,0,PW Borren,PR Stirling,SJ Myburgh,,0,1,1,,,,340423404
+2,Netherlands,0,SJ Myburgh,PR Stirling,PW Borren,,0,1,1,,,,340423404
+2,Netherlands,0,PW Borren,PR Stirling,SJ Myburgh,,0,1,1,,,,340423404
+2,Netherlands,0,SJ Myburgh,PR Stirling,PW Borren,,0,2,2,,,,340423404
+2,Netherlands,1,PW Borren,AR McBrine,SJ Myburgh,,0,6,6,,,,340423404
+2,Netherlands,1,PW Borren,AR McBrine,SJ Myburgh,legbyes,1,1,0,,,,340423404
+2,Netherlands,1,SJ Myburgh,AR McBrine,PW Borren,,0,6,6,,,,340423404
+2,Netherlands,1,SJ Myburgh,AR McBrine,PW Borren,,0,6,6,,,,340423404
+2,Netherlands,1,SJ Myburgh,AR McBrine,PW Borren,,0,6,6,,,,340423404
+2,Netherlands,1,SJ Myburgh,AR McBrine,PW Borren,,0,0,0,,,,340423404
+2,Netherlands,2,PW Borren,TJ Murtagh,SJ Myburgh,,0,0,0,,,,340423404
+2,Netherlands,2,PW Borren,TJ Murtagh,SJ Myburgh,,0,6,6,,,,340423404
+2,Netherlands,2,PW Borren,TJ Murtagh,SJ Myburgh,legbyes,1,1,0,,,,340423404
+2,Netherlands,2,SJ Myburgh,TJ Murtagh,PW Borren,,0,4,4,,,,340423404
+2,Netherlands,2,SJ Myburgh,TJ Murtagh,PW Borren,,0,0,0,,,,340423404
+2,Netherlands,2,SJ Myburgh,TJ Murtagh,PW Borren,,0,1,1,,,,340423404
+2,Netherlands,3,SJ Myburgh,AR Cusack,PW Borren,,0,6,6,,,,340423404
+2,Netherlands,3,SJ Myburgh,AR Cusack,PW Borren,,0,6,6,,,,340423404
+2,Netherlands,3,SJ Myburgh,AR Cusack,PW Borren,,0,6,6,,,,340423404
+2,Netherlands,3,SJ Myburgh,AR Cusack,PW Borren,,0,0,0,,,,340423404
+2,Netherlands,3,SJ Myburgh,AR Cusack,PW Borren,,0,0,0,,,,340423404
+2,Netherlands,3,SJ Myburgh,AR Cusack,PW Borren,,0,4,4,,,,340423404
+2,Netherlands,4,PW Borren,TJ Murtagh,SJ Myburgh,,0,4,4,,,,340423404
+2,Netherlands,4,PW Borren,TJ Murtagh,SJ Myburgh,,0,1,1,,,,340423404
+2,Netherlands,4,SJ Myburgh,TJ Murtagh,PW Borren,,0,0,0,,,,340423404
+2,Netherlands,4,SJ Myburgh,TJ Murtagh,PW Borren,,0,4,4,,,,340423404
+2,Netherlands,4,SJ Myburgh,TJ Murtagh,PW Borren,,0,4,4,,,,340423404
+2,Netherlands,4,SJ Myburgh,TJ Murtagh,PW Borren,legbyes,1,1,0,,,,340423404
+2,Netherlands,5,SJ Myburgh,KJ O'Brien,PW Borren,,0,0,0,,,,340423404
+2,Netherlands,5,SJ Myburgh,KJ O'Brien,PW Borren,,0,1,1,,,,340423404
+2,Netherlands,5,PW Borren,KJ O'Brien,SJ Myburgh,,0,0,0,,,,340423404
+2,Netherlands,5,PW Borren,KJ O'Brien,SJ Myburgh,,0,4,4,,,,340423404
+2,Netherlands,5,PW Borren,KJ O'Brien,SJ Myburgh,,0,4,4,,,,340423404
+2,Netherlands,5,PW Borren,KJ O'Brien,SJ Myburgh,,0,0,0,caught,PW Borren,GH Dockrell,340423404
+2,Netherlands,6,W Barresi,GH Dockrell,SJ Myburgh,,0,1,1,,,,340423404
+2,Netherlands,6,SJ Myburgh,GH Dockrell,W Barresi,,0,6,6,,,,340423404
+2,Netherlands,6,SJ Myburgh,GH Dockrell,W Barresi,,0,0,0,caught,SJ Myburgh,EC Joyce,340423404
+2,Netherlands,6,W Barresi,GH Dockrell,LV van Beek,,0,0,0,,,,340423404
+2,Netherlands,6,W Barresi,GH Dockrell,LV van Beek,,0,1,1,,,,340423404
+2,Netherlands,6,LV van Beek,GH Dockrell,W Barresi,,0,1,1,,,,340423404
+2,Netherlands,7,LV van Beek,KJ O'Brien,W Barresi,,0,0,0,,,,340423404
+2,Netherlands,7,LV van Beek,KJ O'Brien,W Barresi,,0,0,0,caught,LV van Beek,WTS Porterfield,340423404
+2,Netherlands,7,W Barresi,KJ O'Brien,TLW Cooper,,0,1,1,,,,340423404
+2,Netherlands,7,TLW Cooper,KJ O'Brien,W Barresi,,0,1,1,,,,340423404
+2,Netherlands,7,W Barresi,KJ O'Brien,TLW Cooper,,0,4,4,,,,340423404
+2,Netherlands,7,W Barresi,KJ O'Brien,TLW Cooper,,0,1,1,,,,340423404
+2,Netherlands,8,W Barresi,GH Dockrell,TLW Cooper,,0,1,1,,,,340423404
+2,Netherlands,8,TLW Cooper,GH Dockrell,W Barresi,,0,1,1,,,,340423404
+2,Netherlands,8,W Barresi,GH Dockrell,TLW Cooper,,0,1,1,,,,340423404
+2,Netherlands,8,TLW Cooper,GH Dockrell,W Barresi,,0,6,6,,,,340423404
+2,Netherlands,8,TLW Cooper,GH Dockrell,W Barresi,,0,0,0,,,,340423404
+2,Netherlands,8,TLW Cooper,GH Dockrell,W Barresi,,0,0,0,,,,340423404
+2,Netherlands,9,W Barresi,PR Stirling,TLW Cooper,,0,6,6,,,,340423404
+2,Netherlands,9,W Barresi,PR Stirling,TLW Cooper,,0,0,0,,,,340423404
+2,Netherlands,9,W Barresi,PR Stirling,TLW Cooper,,0,1,1,,,,340423404
+2,Netherlands,9,TLW Cooper,PR Stirling,W Barresi,,0,6,6,,,,340423404
+2,Netherlands,9,TLW Cooper,PR Stirling,W Barresi,,0,2,2,,,,340423404
+2,Netherlands,9,TLW Cooper,PR Stirling,W Barresi,legbyes,1,1,0,,,,340423404
+2,Netherlands,10,TLW Cooper,GH Dockrell,W Barresi,,0,6,6,,,,340423404
+2,Netherlands,10,TLW Cooper,GH Dockrell,W Barresi,,0,6,6,,,,340423404
+2,Netherlands,10,TLW Cooper,GH Dockrell,W Barresi,,0,6,6,,,,340423404
+2,Netherlands,10,TLW Cooper,GH Dockrell,W Barresi,,0,6,6,,,,340423404
+2,Netherlands,10,TLW Cooper,GH Dockrell,W Barresi,,0,1,1,,,,340423404
+2,Netherlands,10,W Barresi,GH Dockrell,TLW Cooper,,0,0,0,,,,340423404
+2,Netherlands,11,TLW Cooper,TJ Murtagh,W Barresi,,0,4,4,,,,340423404
+2,Netherlands,11,TLW Cooper,TJ Murtagh,W Barresi,,0,0,0,caught,TLW Cooper,KJ O'Brien,340423404
+2,Netherlands,11,W Barresi,TJ Murtagh,BN Cooper,,0,0,0,,,,340423404
+2,Netherlands,11,W Barresi,TJ Murtagh,BN Cooper,,0,1,1,,,,340423404
+2,Netherlands,11,BN Cooper,TJ Murtagh,W Barresi,,0,0,0,,,,340423404
+2,Netherlands,11,BN Cooper,TJ Murtagh,W Barresi,,0,2,2,,,,340423404
+2,Netherlands,12,W Barresi,KJ O'Brien,BN Cooper,,0,1,1,,,,340423404
+2,Netherlands,12,BN Cooper,KJ O'Brien,W Barresi,,0,0,0,,,,340423404
+2,Netherlands,12,BN Cooper,KJ O'Brien,W Barresi,,0,1,1,,,,340423404
+2,Netherlands,12,W Barresi,KJ O'Brien,BN Cooper,,0,4,4,,,,340423404
+2,Netherlands,12,W Barresi,KJ O'Brien,BN Cooper,,0,1,1,,,,340423404
+2,Netherlands,12,BN Cooper,KJ O'Brien,W Barresi,,0,6,6,,,,340423404
+2,Netherlands,13,W Barresi,TJ Murtagh,BN Cooper,,0,0,0,,,,340423404
+2,Netherlands,13,W Barresi,TJ Murtagh,BN Cooper,,0,6,6,,,,340423404
+2,Netherlands,13,W Barresi,TJ Murtagh,BN Cooper,,0,0,0,,,,340423404
+2,Netherlands,13,W Barresi,TJ Murtagh,BN Cooper,,0,4,4,,,,340423404
+2,Netherlands,13,W Barresi,TJ Murtagh,BN Cooper,,0,6,6,,,,340423404

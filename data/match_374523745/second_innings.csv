@@ -1,0 +1,83 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Afghanistan,0,Gulbadin Naib,S Badree,Noor Ali Zadran,,0,0,0,,,,374523745
+2,Afghanistan,0,Gulbadin Naib,S Badree,Noor Ali Zadran,,0,0,0,,,,374523745
+2,Afghanistan,0,Gulbadin Naib,S Badree,Noor Ali Zadran,,0,0,0,,,,374523745
+2,Afghanistan,0,Gulbadin Naib,S Badree,Noor Ali Zadran,,0,0,0,,,,374523745
+2,Afghanistan,0,Gulbadin Naib,S Badree,Noor Ali Zadran,,0,1,1,,,,374523745
+2,Afghanistan,0,Noor Ali Zadran,S Badree,Gulbadin Naib,,0,0,0,,,,374523745
+2,Afghanistan,1,Gulbadin Naib,JE Taylor,Noor Ali Zadran,,0,1,1,,,,374523745
+2,Afghanistan,1,Noor Ali Zadran,JE Taylor,Gulbadin Naib,,0,1,1,,,,374523745
+2,Afghanistan,1,Gulbadin Naib,JE Taylor,Noor Ali Zadran,,0,0,0,,,,374523745
+2,Afghanistan,1,Gulbadin Naib,JE Taylor,Noor Ali Zadran,wides,1,1,0,,,,374523745
+2,Afghanistan,1,Gulbadin Naib,JE Taylor,Noor Ali Zadran,,0,2,2,,,,374523745
+2,Afghanistan,1,Gulbadin Naib,JE Taylor,Noor Ali Zadran,,0,0,0,,,,374523745
+2,Afghanistan,1,Gulbadin Naib,JE Taylor,Noor Ali Zadran,,0,1,1,,,,374523745
+2,Afghanistan,2,Gulbadin Naib,S Badree,Noor Ali Zadran,,0,1,1,,,,374523745
+2,Afghanistan,2,Noor Ali Zadran,S Badree,Gulbadin Naib,,0,0,0,,,,374523745
+2,Afghanistan,2,Noor Ali Zadran,S Badree,Gulbadin Naib,,0,1,1,,,,374523745
+2,Afghanistan,2,Gulbadin Naib,S Badree,Noor Ali Zadran,,0,0,0,,,,374523745
+2,Afghanistan,2,Gulbadin Naib,S Badree,Noor Ali Zadran,,0,6,6,,,,374523745
+2,Afghanistan,2,Gulbadin Naib,S Badree,Noor Ali Zadran,,0,0,0,bowled,Gulbadin Naib,,374523745
+2,Afghanistan,3,Noor Ali Zadran,KOK Williams,Asghar Stanikzai,,0,4,4,,,,374523745
+2,Afghanistan,3,Noor Ali Zadran,KOK Williams,Asghar Stanikzai,,0,0,0,caught,Noor Ali Zadran,JE Taylor,374523745
+2,Afghanistan,3,Samiullah Shenwari,KOK Williams,Asghar Stanikzai,,0,0,0,caught,Samiullah Shenwari,CAK Walton,374523745
+2,Afghanistan,3,Mohammad Nabi,KOK Williams,Asghar Stanikzai,,0,0,0,,,,374523745
+2,Afghanistan,3,Mohammad Nabi,KOK Williams,Asghar Stanikzai,,0,0,0,,,,374523745
+2,Afghanistan,3,Mohammad Nabi,KOK Williams,Asghar Stanikzai,,0,0,0,,,,374523745
+2,Afghanistan,4,Asghar Stanikzai,S Badree,Mohammad Nabi,,0,0,0,,,,374523745
+2,Afghanistan,4,Asghar Stanikzai,S Badree,Mohammad Nabi,,0,1,1,,,,374523745
+2,Afghanistan,4,Mohammad Nabi,S Badree,Asghar Stanikzai,,0,1,1,,,,374523745
+2,Afghanistan,4,Asghar Stanikzai,S Badree,Mohammad Nabi,,0,0,0,,,,374523745
+2,Afghanistan,4,Asghar Stanikzai,S Badree,Mohammad Nabi,legbyes,2,2,0,,,,374523745
+2,Afghanistan,4,Asghar Stanikzai,S Badree,Mohammad Nabi,,0,0,0,,,,374523745
+2,Afghanistan,5,Mohammad Nabi,KOK Williams,Asghar Stanikzai,,0,1,1,,,,374523745
+2,Afghanistan,5,Asghar Stanikzai,KOK Williams,Mohammad Nabi,,0,0,0,,,,374523745
+2,Afghanistan,5,Asghar Stanikzai,KOK Williams,Mohammad Nabi,,0,1,1,,,,374523745
+2,Afghanistan,5,Mohammad Nabi,KOK Williams,Asghar Stanikzai,legbyes,1,1,0,,,,374523745
+2,Afghanistan,5,Asghar Stanikzai,KOK Williams,Mohammad Nabi,,0,1,1,,,,374523745
+2,Afghanistan,5,Mohammad Nabi,KOK Williams,Asghar Stanikzai,,0,1,1,,,,374523745
+2,Afghanistan,6,Mohammad Nabi,SP Narine,Asghar Stanikzai,,0,4,4,,,,374523745
+2,Afghanistan,6,Mohammad Nabi,SP Narine,Asghar Stanikzai,,0,1,1,,,,374523745
+2,Afghanistan,6,Asghar Stanikzai,SP Narine,Mohammad Nabi,,0,0,0,,,,374523745
+2,Afghanistan,6,Asghar Stanikzai,SP Narine,Mohammad Nabi,legbyes,1,1,0,,,,374523745
+2,Afghanistan,6,Mohammad Nabi,SP Narine,Asghar Stanikzai,,0,0,0,,,,374523745
+2,Afghanistan,6,Mohammad Nabi,SP Narine,Asghar Stanikzai,,0,0,0,run out,Mohammad Nabi,CAK Walton,374523745
+2,Afghanistan,7,Asghar Stanikzai,CR Brathwaite,Karim Janat,,0,6,6,,,,374523745
+2,Afghanistan,7,Asghar Stanikzai,CR Brathwaite,Karim Janat,,0,0,0,caught,Asghar Stanikzai,LMP Simmons,374523745
+2,Afghanistan,7,Shafiqullah,CR Brathwaite,Karim Janat,,0,1,1,,,,374523745
+2,Afghanistan,7,Karim Janat,CR Brathwaite,Shafiqullah,,0,0,0,run out,Shafiqullah,KOK Williams,374523745
+2,Afghanistan,7,Karim Janat,CR Brathwaite,Najibullah Zadran,,0,0,0,,,,374523745
+2,Afghanistan,7,Karim Janat,CR Brathwaite,Najibullah Zadran,,0,0,0,,,,374523745
+2,Afghanistan,8,Najibullah Zadran,SP Narine,Karim Janat,,0,0,0,,,,374523745
+2,Afghanistan,8,Najibullah Zadran,SP Narine,Karim Janat,,0,2,2,,,,374523745
+2,Afghanistan,8,Najibullah Zadran,SP Narine,Karim Janat,,0,2,2,,,,374523745
+2,Afghanistan,8,Najibullah Zadran,SP Narine,Karim Janat,,0,2,2,,,,374523745
+2,Afghanistan,8,Najibullah Zadran,SP Narine,Karim Janat,,0,4,4,,,,374523745
+2,Afghanistan,8,Najibullah Zadran,SP Narine,Karim Janat,,0,1,1,,,,374523745
+2,Afghanistan,9,Najibullah Zadran,CR Brathwaite,Karim Janat,,0,0,0,,,,374523745
+2,Afghanistan,9,Najibullah Zadran,CR Brathwaite,Karim Janat,,0,0,0,bowled,Najibullah Zadran,,374523745
+2,Afghanistan,9,Rashid Khan,CR Brathwaite,Karim Janat,,0,1,1,,,,374523745
+2,Afghanistan,9,Karim Janat,CR Brathwaite,Rashid Khan,,0,0,0,,,,374523745
+2,Afghanistan,9,Karim Janat,CR Brathwaite,Rashid Khan,,0,0,0,,,,374523745
+2,Afghanistan,9,Karim Janat,CR Brathwaite,Rashid Khan,,0,0,0,,,,374523745
+2,Afghanistan,10,Rashid Khan,SP Narine,Karim Janat,,0,1,1,,,,374523745
+2,Afghanistan,10,Karim Janat,SP Narine,Rashid Khan,,0,1,1,,,,374523745
+2,Afghanistan,10,Rashid Khan,SP Narine,Karim Janat,,0,0,0,,,,374523745
+2,Afghanistan,10,Rashid Khan,SP Narine,Karim Janat,,0,0,0,bowled,Rashid Khan,,374523745
+2,Afghanistan,10,Dawlat Zadran,SP Narine,Karim Janat,,0,6,6,,,,374523745
+2,Afghanistan,10,Dawlat Zadran,SP Narine,Karim Janat,byes,4,4,0,,,,374523745
+2,Afghanistan,11,Karim Janat,CR Brathwaite,Dawlat Zadran,,0,0,0,,,,374523745
+2,Afghanistan,11,Karim Janat,CR Brathwaite,Dawlat Zadran,,0,6,6,,,,374523745
+2,Afghanistan,11,Karim Janat,CR Brathwaite,Dawlat Zadran,,0,1,1,,,,374523745
+2,Afghanistan,11,Dawlat Zadran,CR Brathwaite,Karim Janat,,0,1,1,,,,374523745
+2,Afghanistan,11,Karim Janat,CR Brathwaite,Dawlat Zadran,,0,4,4,,,,374523745
+2,Afghanistan,11,Karim Janat,CR Brathwaite,Dawlat Zadran,,0,6,6,,,,374523745
+2,Afghanistan,12,Dawlat Zadran,JE Taylor,Karim Janat,,0,2,2,,,,374523745
+2,Afghanistan,12,Dawlat Zadran,JE Taylor,Karim Janat,,0,0,0,bowled,Dawlat Zadran,,374523745
+2,Afghanistan,12,Amir Hamza,JE Taylor,Karim Janat,,0,4,4,,,,374523745
+2,Afghanistan,12,Amir Hamza,JE Taylor,Karim Janat,,0,0,0,,,,374523745
+2,Afghanistan,12,Amir Hamza,JE Taylor,Karim Janat,,0,1,1,,,,374523745
+2,Afghanistan,12,Karim Janat,JE Taylor,Amir Hamza,,0,0,0,,,,374523745
+2,Afghanistan,13,Amir Hamza,KOK Williams,Karim Janat,,0,1,1,,,,374523745
+2,Afghanistan,13,Karim Janat,KOK Williams,Amir Hamza,,0,2,2,,,,374523745
+2,Afghanistan,13,Karim Janat,KOK Williams,Amir Hamza,,0,0,0,caught,Karim Janat,CR Brathwaite,374523745

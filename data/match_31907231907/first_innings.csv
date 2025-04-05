@@ -1,0 +1,104 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Germany,0,J Broad,Imran Anwar,VB Chikkannaiah,,0,1,1,,,,31907231907
+1,Germany,0,VB Chikkannaiah,Imran Anwar,J Broad,,0,1,1,,,,31907231907
+1,Germany,0,J Broad,Imran Anwar,VB Chikkannaiah,,0,1,1,,,,31907231907
+1,Germany,0,VB Chikkannaiah,Imran Anwar,J Broad,,0,1,1,,,,31907231907
+1,Germany,0,J Broad,Imran Anwar,VB Chikkannaiah,,0,1,1,,,,31907231907
+1,Germany,0,VB Chikkannaiah,Imran Anwar,J Broad,,0,1,1,,,,31907231907
+1,Germany,1,VB Chikkannaiah,Shahid Mahmood,J Broad,,0,0,0,,,,31907231907
+1,Germany,1,VB Chikkannaiah,Shahid Mahmood,J Broad,,0,0,0,,,,31907231907
+1,Germany,1,VB Chikkannaiah,Shahid Mahmood,J Broad,,0,0,0,,,,31907231907
+1,Germany,1,VB Chikkannaiah,Shahid Mahmood,J Broad,,0,2,2,,,,31907231907
+1,Germany,1,VB Chikkannaiah,Shahid Mahmood,J Broad,,0,0,0,,,,31907231907
+1,Germany,1,VB Chikkannaiah,Shahid Mahmood,J Broad,,0,0,0,,,,31907231907
+1,Germany,2,J Broad,Imran Anwar,VB Chikkannaiah,,0,0,0,,,,31907231907
+1,Germany,2,J Broad,Imran Anwar,VB Chikkannaiah,,0,0,0,,,,31907231907
+1,Germany,2,J Broad,Imran Anwar,VB Chikkannaiah,,0,4,4,,,,31907231907
+1,Germany,2,J Broad,Imran Anwar,VB Chikkannaiah,,0,4,4,,,,31907231907
+1,Germany,2,J Broad,Imran Anwar,VB Chikkannaiah,,0,1,1,,,,31907231907
+1,Germany,2,VB Chikkannaiah,Imran Anwar,J Broad,,0,0,0,,,,31907231907
+1,Germany,3,J Broad,Shahid Mahmood,VB Chikkannaiah,,0,0,0,,,,31907231907
+1,Germany,3,J Broad,Shahid Mahmood,VB Chikkannaiah,,0,4,4,,,,31907231907
+1,Germany,3,J Broad,Shahid Mahmood,VB Chikkannaiah,,0,1,1,,,,31907231907
+1,Germany,3,VB Chikkannaiah,Shahid Mahmood,J Broad,,0,1,1,,,,31907231907
+1,Germany,3,J Broad,Shahid Mahmood,VB Chikkannaiah,,0,1,1,,,,31907231907
+1,Germany,3,VB Chikkannaiah,Shahid Mahmood,J Broad,,0,0,0,,,,31907231907
+1,Germany,4,J Broad,S Veerapathiran,VB Chikkannaiah,,0,1,1,,,,31907231907
+1,Germany,4,VB Chikkannaiah,S Veerapathiran,J Broad,,0,0,0,,,,31907231907
+1,Germany,4,VB Chikkannaiah,S Veerapathiran,J Broad,,0,1,1,,,,31907231907
+1,Germany,4,J Broad,S Veerapathiran,VB Chikkannaiah,,0,1,1,,,,31907231907
+1,Germany,4,VB Chikkannaiah,S Veerapathiran,J Broad,,0,0,0,,,,31907231907
+1,Germany,4,VB Chikkannaiah,S Veerapathiran,J Broad,,0,1,1,,,,31907231907
+1,Germany,5,VB Chikkannaiah,Shahid Mahmood,J Broad,,0,1,1,,,,31907231907
+1,Germany,5,J Broad,Shahid Mahmood,VB Chikkannaiah,,0,0,0,lbw,J Broad,,31907231907
+1,Germany,5,MJ Richardson,Shahid Mahmood,VB Chikkannaiah,,0,1,1,,,,31907231907
+1,Germany,5,VB Chikkannaiah,Shahid Mahmood,MJ Richardson,,0,4,4,,,,31907231907
+1,Germany,5,VB Chikkannaiah,Shahid Mahmood,MJ Richardson,,0,4,4,,,,31907231907
+1,Germany,5,VB Chikkannaiah,Shahid Mahmood,MJ Richardson,,0,1,1,,,,31907231907
+1,Germany,6,VB Chikkannaiah,S Veerapathiran,MJ Richardson,,0,1,1,,,,31907231907
+1,Germany,6,MJ Richardson,S Veerapathiran,VB Chikkannaiah,,0,1,1,,,,31907231907
+1,Germany,6,VB Chikkannaiah,S Veerapathiran,MJ Richardson,,0,1,1,,,,31907231907
+1,Germany,6,MJ Richardson,S Veerapathiran,VB Chikkannaiah,,0,0,0,caught,MJ Richardson,Haider Butt,31907231907
+1,Germany,6,DA Blignaut,S Veerapathiran,VB Chikkannaiah,legbyes,1,1,0,,,,31907231907
+1,Germany,6,VB Chikkannaiah,S Veerapathiran,DA Blignaut,,0,4,4,,,,31907231907
+1,Germany,7,DA Blignaut,Sarfaraz Ali,VB Chikkannaiah,,0,0,0,,,,31907231907
+1,Germany,7,DA Blignaut,Sarfaraz Ali,VB Chikkannaiah,,0,0,0,,,,31907231907
+1,Germany,7,DA Blignaut,Sarfaraz Ali,VB Chikkannaiah,,0,1,1,,,,31907231907
+1,Germany,7,VB Chikkannaiah,Sarfaraz Ali,DA Blignaut,,0,4,4,,,,31907231907
+1,Germany,7,VB Chikkannaiah,Sarfaraz Ali,DA Blignaut,,0,0,0,,,,31907231907
+1,Germany,7,VB Chikkannaiah,Sarfaraz Ali,DA Blignaut,wides,1,1,0,,,,31907231907
+1,Germany,7,VB Chikkannaiah,Sarfaraz Ali,DA Blignaut,,0,0,0,,,,31907231907
+1,Germany,8,DA Blignaut,Waseeq Ahmed,VB Chikkannaiah,,0,0,0,,,,31907231907
+1,Germany,8,DA Blignaut,Waseeq Ahmed,VB Chikkannaiah,,0,1,1,,,,31907231907
+1,Germany,8,VB Chikkannaiah,Waseeq Ahmed,DA Blignaut,,0,1,1,,,,31907231907
+1,Germany,8,DA Blignaut,Waseeq Ahmed,VB Chikkannaiah,,0,0,0,,,,31907231907
+1,Germany,8,DA Blignaut,Waseeq Ahmed,VB Chikkannaiah,,0,0,0,bowled,DA Blignaut,,31907231907
+1,Germany,8,Faisal Mubashir,Waseeq Ahmed,VB Chikkannaiah,,0,0,0,lbw,Faisal Mubashir,,31907231907
+1,Germany,9,VB Chikkannaiah,Sarfaraz Ali,V Ganesan,,0,0,0,,,,31907231907
+1,Germany,9,VB Chikkannaiah,Sarfaraz Ali,V Ganesan,,0,0,0,,,,31907231907
+1,Germany,9,VB Chikkannaiah,Sarfaraz Ali,V Ganesan,,0,1,1,,,,31907231907
+1,Germany,9,V Ganesan,Sarfaraz Ali,VB Chikkannaiah,,0,0,0,,,,31907231907
+1,Germany,9,V Ganesan,Sarfaraz Ali,VB Chikkannaiah,,0,1,1,,,,31907231907
+1,Germany,9,VB Chikkannaiah,Sarfaraz Ali,V Ganesan,,0,1,1,,,,31907231907
+1,Germany,10,VB Chikkannaiah,Waseeq Ahmed,V Ganesan,wides,1,1,0,,,,31907231907
+1,Germany,10,VB Chikkannaiah,Waseeq Ahmed,V Ganesan,,0,1,1,,,,31907231907
+1,Germany,10,V Ganesan,Waseeq Ahmed,VB Chikkannaiah,,0,1,1,,,,31907231907
+1,Germany,10,VB Chikkannaiah,Waseeq Ahmed,V Ganesan,,0,1,1,,,,31907231907
+1,Germany,10,V Ganesan,Waseeq Ahmed,VB Chikkannaiah,,0,0,0,,,,31907231907
+1,Germany,10,V Ganesan,Waseeq Ahmed,VB Chikkannaiah,,0,0,0,,,,31907231907
+1,Germany,10,V Ganesan,Waseeq Ahmed,VB Chikkannaiah,,0,2,2,,,,31907231907
+1,Germany,11,VB Chikkannaiah,Sarfaraz Ali,V Ganesan,,0,1,1,,,,31907231907
+1,Germany,11,V Ganesan,Sarfaraz Ali,VB Chikkannaiah,wides,1,1,0,,,,31907231907
+1,Germany,11,V Ganesan,Sarfaraz Ali,VB Chikkannaiah,,0,4,4,,,,31907231907
+1,Germany,11,V Ganesan,Sarfaraz Ali,VB Chikkannaiah,,0,0,0,,,,31907231907
+1,Germany,11,V Ganesan,Sarfaraz Ali,VB Chikkannaiah,,0,1,1,,,,31907231907
+1,Germany,11,VB Chikkannaiah,Sarfaraz Ali,V Ganesan,,0,6,6,,,,31907231907
+1,Germany,11,VB Chikkannaiah,Sarfaraz Ali,V Ganesan,,0,2,2,,,,31907231907
+1,Germany,12,V Ganesan,Waseeq Ahmed,VB Chikkannaiah,,0,4,4,,,,31907231907
+1,Germany,12,V Ganesan,Waseeq Ahmed,VB Chikkannaiah,,0,1,1,,,,31907231907
+1,Germany,12,VB Chikkannaiah,Waseeq Ahmed,V Ganesan,,0,1,1,,,,31907231907
+1,Germany,12,V Ganesan,Waseeq Ahmed,VB Chikkannaiah,,0,2,2,,,,31907231907
+1,Germany,12,V Ganesan,Waseeq Ahmed,VB Chikkannaiah,,0,0,0,,,,31907231907
+1,Germany,12,V Ganesan,Waseeq Ahmed,VB Chikkannaiah,,0,0,0,,,,31907231907
+1,Germany,13,VB Chikkannaiah,S Veerapathiran,V Ganesan,byes,1,1,0,,,,31907231907
+1,Germany,13,V Ganesan,S Veerapathiran,VB Chikkannaiah,,0,1,1,,,,31907231907
+1,Germany,13,VB Chikkannaiah,S Veerapathiran,V Ganesan,,0,1,1,,,,31907231907
+1,Germany,13,V Ganesan,S Veerapathiran,VB Chikkannaiah,,0,1,1,,,,31907231907
+1,Germany,13,VB Chikkannaiah,S Veerapathiran,V Ganesan,,0,4,4,,,,31907231907
+1,Germany,13,VB Chikkannaiah,S Veerapathiran,V Ganesan,,0,1,1,,,,31907231907
+1,Germany,14,VB Chikkannaiah,Junaid Aziz,V Ganesan,,0,1,1,,,,31907231907
+1,Germany,14,V Ganesan,Junaid Aziz,VB Chikkannaiah,,0,2,2,,,,31907231907
+1,Germany,14,V Ganesan,Junaid Aziz,VB Chikkannaiah,,0,0,0,stumped,V Ganesan,Muhammad Safdar,31907231907
+1,Germany,14,Fayaz Khan,Junaid Aziz,VB Chikkannaiah,,0,0,0,caught,Fayaz Khan,Waseeq Ahmed,31907231907
+1,Germany,14,D Klein,Junaid Aziz,VB Chikkannaiah,,0,0,0,,,,31907231907
+1,Germany,14,D Klein,Junaid Aziz,VB Chikkannaiah,,0,0,0,caught,D Klein,Sarfaraz Ali,31907231907
+1,Germany,15,VB Chikkannaiah,Haider Butt,Muslim Yar,,0,0,0,lbw,VB Chikkannaiah,,31907231907
+1,Germany,15,Ghulam Ahmadi,Haider Butt,Muslim Yar,,0,0,0,,,,31907231907
+1,Germany,15,Ghulam Ahmadi,Haider Butt,Muslim Yar,,0,1,1,,,,31907231907
+1,Germany,15,Muslim Yar,Haider Butt,Ghulam Ahmadi,,0,4,4,,,,31907231907
+1,Germany,15,Muslim Yar,Haider Butt,Ghulam Ahmadi,,0,0,0,,,,31907231907
+1,Germany,15,Muslim Yar,Haider Butt,Ghulam Ahmadi,,0,0,0,,,,31907231907
+1,Germany,16,Ghulam Ahmadi,Junaid Aziz,Muslim Yar,,0,2,2,,,,31907231907
+1,Germany,16,Ghulam Ahmadi,Junaid Aziz,Muslim Yar,,0,0,0,caught and bowled,Ghulam Ahmadi,,31907231907
+1,Germany,16,SVE Bharathi,Junaid Aziz,Muslim Yar,,0,0,0,,,,31907231907
+1,Germany,16,SVE Bharathi,Junaid Aziz,Muslim Yar,,0,0,0,caught,SVE Bharathi,Muhammad Safdar,31907231907

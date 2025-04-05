@@ -1,0 +1,121 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,South Africa,0,HH Gibbs,JE Taylor,GC Smith,,0,0,0,,,,3462346
+2,South Africa,0,HH Gibbs,JE Taylor,GC Smith,,0,0,0,,,,3462346
+2,South Africa,0,HH Gibbs,JE Taylor,GC Smith,,0,0,0,bowled,HH Gibbs,,3462346
+2,South Africa,0,AB de Villiers,JE Taylor,GC Smith,,0,4,4,,,,3462346
+2,South Africa,0,AB de Villiers,JE Taylor,GC Smith,,0,4,4,,,,3462346
+2,South Africa,0,AB de Villiers,JE Taylor,GC Smith,wides,1,1,0,,,,3462346
+2,South Africa,0,AB de Villiers,JE Taylor,GC Smith,,0,1,1,,,,3462346
+2,South Africa,1,AB de Villiers,FH Edwards,GC Smith,,0,0,0,,,,3462346
+2,South Africa,1,AB de Villiers,FH Edwards,GC Smith,legbyes,1,1,0,,,,3462346
+2,South Africa,1,GC Smith,FH Edwards,AB de Villiers,wides,1,1,0,,,,3462346
+2,South Africa,1,GC Smith,FH Edwards,AB de Villiers,,0,1,1,,,,3462346
+2,South Africa,1,AB de Villiers,FH Edwards,GC Smith,,0,0,0,,,,3462346
+2,South Africa,1,AB de Villiers,FH Edwards,GC Smith,,0,1,1,,,,3462346
+2,South Africa,1,GC Smith,FH Edwards,AB de Villiers,,0,1,1,,,,3462346
+2,South Africa,2,GC Smith,JE Taylor,AB de Villiers,,0,2,2,,,,3462346
+2,South Africa,2,GC Smith,JE Taylor,AB de Villiers,,0,0,0,bowled,GC Smith,,3462346
+2,South Africa,2,JP Duminy,JE Taylor,AB de Villiers,,0,1,1,,,,3462346
+2,South Africa,2,AB de Villiers,JE Taylor,JP Duminy,,0,2,2,,,,3462346
+2,South Africa,2,AB de Villiers,JE Taylor,JP Duminy,wides,1,1,0,,,,3462346
+2,South Africa,2,AB de Villiers,JE Taylor,JP Duminy,,0,0,0,,,,3462346
+2,South Africa,2,AB de Villiers,JE Taylor,JP Duminy,,0,1,1,,,,3462346
+2,South Africa,3,AB de Villiers,FH Edwards,JP Duminy,,0,1,1,,,,3462346
+2,South Africa,3,JP Duminy,FH Edwards,AB de Villiers,,0,0,0,,,,3462346
+2,South Africa,3,JP Duminy,FH Edwards,AB de Villiers,,0,0,0,,,,3462346
+2,South Africa,3,JP Duminy,FH Edwards,AB de Villiers,,0,0,0,,,,3462346
+2,South Africa,3,JP Duminy,FH Edwards,AB de Villiers,,0,0,0,,,,3462346
+2,South Africa,3,JP Duminy,FH Edwards,AB de Villiers,,0,4,4,,,,3462346
+2,South Africa,4,AB de Villiers,JE Taylor,JP Duminy,,0,0,0,,,,3462346
+2,South Africa,4,AB de Villiers,JE Taylor,JP Duminy,,0,0,0,,,,3462346
+2,South Africa,4,AB de Villiers,JE Taylor,JP Duminy,,0,0,0,,,,3462346
+2,South Africa,4,AB de Villiers,JE Taylor,JP Duminy,,0,1,1,,,,3462346
+2,South Africa,4,JP Duminy,JE Taylor,AB de Villiers,wides,1,1,0,,,,3462346
+2,South Africa,4,JP Duminy,JE Taylor,AB de Villiers,,0,0,0,,,,3462346
+2,South Africa,4,JP Duminy,JE Taylor,AB de Villiers,,0,0,0,,,,3462346
+2,South Africa,5,AB de Villiers,DJG Sammy,JP Duminy,,0,1,1,,,,3462346
+2,South Africa,5,JP Duminy,DJG Sammy,AB de Villiers,,0,2,2,,,,3462346
+2,South Africa,5,JP Duminy,DJG Sammy,AB de Villiers,,0,4,4,,,,3462346
+2,South Africa,5,JP Duminy,DJG Sammy,AB de Villiers,,0,0,0,,,,3462346
+2,South Africa,5,JP Duminy,DJG Sammy,AB de Villiers,,0,2,2,,,,3462346
+2,South Africa,5,JP Duminy,DJG Sammy,AB de Villiers,,0,0,0,caught,JP Duminy,S Chanderpaul,3462346
+2,South Africa,6,AB de Villiers,JE Taylor,JL Ontong,,0,1,1,,,,3462346
+2,South Africa,6,JL Ontong,JE Taylor,AB de Villiers,,0,0,0,,,,3462346
+2,South Africa,6,JL Ontong,JE Taylor,AB de Villiers,,0,1,1,,,,3462346
+2,South Africa,6,AB de Villiers,JE Taylor,JL Ontong,,0,4,4,,,,3462346
+2,South Africa,6,AB de Villiers,JE Taylor,JL Ontong,,0,0,0,,,,3462346
+2,South Africa,6,AB de Villiers,JE Taylor,JL Ontong,,0,4,4,,,,3462346
+2,South Africa,7,JL Ontong,DJG Sammy,AB de Villiers,,0,3,3,,,,3462346
+2,South Africa,7,AB de Villiers,DJG Sammy,JL Ontong,,0,0,0,,,,3462346
+2,South Africa,7,AB de Villiers,DJG Sammy,JL Ontong,,0,0,0,caught,AB de Villiers,D Ramdin,3462346
+2,South Africa,7,MV Boucher,DJG Sammy,JL Ontong,,0,1,1,,,,3462346
+2,South Africa,7,JL Ontong,DJG Sammy,MV Boucher,,0,0,0,,,,3462346
+2,South Africa,7,JL Ontong,DJG Sammy,MV Boucher,,0,2,2,,,,3462346
+2,South Africa,8,MV Boucher,R Rampaul,JL Ontong,,0,0,0,,,,3462346
+2,South Africa,8,MV Boucher,R Rampaul,JL Ontong,legbyes,1,1,0,,,,3462346
+2,South Africa,8,JL Ontong,R Rampaul,MV Boucher,,0,0,0,,,,3462346
+2,South Africa,8,JL Ontong,R Rampaul,MV Boucher,,0,1,1,,,,3462346
+2,South Africa,8,MV Boucher,R Rampaul,JL Ontong,,0,0,0,,,,3462346
+2,South Africa,8,MV Boucher,R Rampaul,JL Ontong,,0,0,0,,,,3462346
+2,South Africa,9,JL Ontong,DJG Sammy,MV Boucher,,0,1,1,,,,3462346
+2,South Africa,9,MV Boucher,DJG Sammy,JL Ontong,,0,0,0,,,,3462346
+2,South Africa,9,MV Boucher,DJG Sammy,JL Ontong,,0,1,1,,,,3462346
+2,South Africa,9,JL Ontong,DJG Sammy,MV Boucher,,0,1,1,,,,3462346
+2,South Africa,9,MV Boucher,DJG Sammy,JL Ontong,,0,0,0,,,,3462346
+2,South Africa,9,MV Boucher,DJG Sammy,JL Ontong,,0,0,0,,,,3462346
+2,South Africa,10,JL Ontong,R Rampaul,MV Boucher,,0,1,1,,,,3462346
+2,South Africa,10,MV Boucher,R Rampaul,JL Ontong,legbyes,1,1,0,,,,3462346
+2,South Africa,10,JL Ontong,R Rampaul,MV Boucher,,0,0,0,,,,3462346
+2,South Africa,10,JL Ontong,R Rampaul,MV Boucher,,0,0,0,,,,3462346
+2,South Africa,10,JL Ontong,R Rampaul,MV Boucher,,0,2,2,,,,3462346
+2,South Africa,10,JL Ontong,R Rampaul,MV Boucher,,0,0,0,,,,3462346
+2,South Africa,11,MV Boucher,DJG Sammy,JL Ontong,,0,1,1,,,,3462346
+2,South Africa,11,JL Ontong,DJG Sammy,MV Boucher,,0,2,2,,,,3462346
+2,South Africa,11,JL Ontong,DJG Sammy,MV Boucher,,0,0,0,caught,JL Ontong,DJ Bravo,3462346
+2,South Africa,11,SM Pollock,DJG Sammy,MV Boucher,,0,0,0,,,,3462346
+2,South Africa,11,SM Pollock,DJG Sammy,MV Boucher,,0,0,0,,,,3462346
+2,South Africa,11,SM Pollock,DJG Sammy,MV Boucher,,0,0,0,,,,3462346
+2,South Africa,12,MV Boucher,RN Lewis,SM Pollock,,0,1,1,,,,3462346
+2,South Africa,12,SM Pollock,RN Lewis,MV Boucher,,0,4,4,,,,3462346
+2,South Africa,12,SM Pollock,RN Lewis,MV Boucher,,0,0,0,,,,3462346
+2,South Africa,12,SM Pollock,RN Lewis,MV Boucher,,0,2,2,,,,3462346
+2,South Africa,12,SM Pollock,RN Lewis,MV Boucher,,0,2,2,,,,3462346
+2,South Africa,12,SM Pollock,RN Lewis,MV Boucher,,0,0,0,,,,3462346
+2,South Africa,13,MV Boucher,MN Samuels,SM Pollock,,0,2,2,,,,3462346
+2,South Africa,13,MV Boucher,MN Samuels,SM Pollock,,0,0,0,,,,3462346
+2,South Africa,13,MV Boucher,MN Samuels,SM Pollock,,0,0,0,,,,3462346
+2,South Africa,13,MV Boucher,MN Samuels,SM Pollock,,0,0,0,,,,3462346
+2,South Africa,13,MV Boucher,MN Samuels,SM Pollock,,0,0,0,caught,MV Boucher,RN Lewis,3462346
+2,South Africa,13,SM Pollock,MN Samuels,JA Morkel,,0,0,0,,,,3462346
+2,South Africa,14,JA Morkel,R Rampaul,SM Pollock,,0,1,1,,,,3462346
+2,South Africa,14,SM Pollock,R Rampaul,JA Morkel,,0,0,0,,,,3462346
+2,South Africa,14,SM Pollock,R Rampaul,JA Morkel,,0,2,2,,,,3462346
+2,South Africa,14,SM Pollock,R Rampaul,JA Morkel,,0,4,4,,,,3462346
+2,South Africa,14,SM Pollock,R Rampaul,JA Morkel,,0,0,0,,,,3462346
+2,South Africa,14,SM Pollock,R Rampaul,JA Morkel,,0,1,1,,,,3462346
+2,South Africa,15,SM Pollock,MN Samuels,JA Morkel,,0,1,1,,,,3462346
+2,South Africa,15,JA Morkel,MN Samuels,SM Pollock,,0,1,1,,,,3462346
+2,South Africa,15,SM Pollock,MN Samuels,JA Morkel,,0,1,1,,,,3462346
+2,South Africa,15,JA Morkel,MN Samuels,SM Pollock,,0,0,0,,,,3462346
+2,South Africa,15,JA Morkel,MN Samuels,SM Pollock,,0,1,1,,,,3462346
+2,South Africa,15,SM Pollock,MN Samuels,JA Morkel,,0,0,0,,,,3462346
+2,South Africa,16,JA Morkel,R Rampaul,SM Pollock,,0,1,1,,,,3462346
+2,South Africa,16,SM Pollock,R Rampaul,JA Morkel,,0,1,1,,,,3462346
+2,South Africa,16,JA Morkel,R Rampaul,SM Pollock,,0,6,6,,,,3462346
+2,South Africa,16,JA Morkel,R Rampaul,SM Pollock,,0,1,1,,,,3462346
+2,South Africa,16,SM Pollock,R Rampaul,JA Morkel,,0,2,2,,,,3462346
+2,South Africa,16,SM Pollock,R Rampaul,JA Morkel,,0,2,2,,,,3462346
+2,South Africa,17,JA Morkel,FH Edwards,SM Pollock,,0,1,1,,,,3462346
+2,South Africa,17,SM Pollock,FH Edwards,JA Morkel,,0,1,1,,,,3462346
+2,South Africa,17,JA Morkel,FH Edwards,SM Pollock,,0,1,1,,,,3462346
+2,South Africa,17,SM Pollock,FH Edwards,JA Morkel,legbyes,1,1,0,,,,3462346
+2,South Africa,17,JA Morkel,FH Edwards,SM Pollock,,0,6,6,,,,3462346
+2,South Africa,17,JA Morkel,FH Edwards,SM Pollock,,0,0,0,,,,3462346
+2,South Africa,18,SM Pollock,MN Samuels,JA Morkel,,0,6,6,,,,3462346
+2,South Africa,18,SM Pollock,MN Samuels,JA Morkel,,0,6,6,,,,3462346
+2,South Africa,18,SM Pollock,MN Samuels,JA Morkel,,0,1,1,,,,3462346
+2,South Africa,18,JA Morkel,MN Samuels,SM Pollock,,0,0,0,,,,3462346
+2,South Africa,18,JA Morkel,MN Samuels,SM Pollock,,0,4,4,,,,3462346
+2,South Africa,18,JA Morkel,MN Samuels,SM Pollock,,0,1,1,,,,3462346
+2,South Africa,19,JA Morkel,FH Edwards,SM Pollock,,0,0,0,,,,3462346
+2,South Africa,19,JA Morkel,FH Edwards,SM Pollock,,0,4,4,,,,3462346

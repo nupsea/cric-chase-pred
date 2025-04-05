@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Namibia,0,SJ Baard,Janak Prakash,N Davin,,0,0,0,,,,31309231309
+1,Namibia,0,SJ Baard,Janak Prakash,N Davin,,0,0,0,,,,31309231309
+1,Namibia,0,SJ Baard,Janak Prakash,N Davin,,0,3,3,,,,31309231309
+1,Namibia,0,N Davin,Janak Prakash,SJ Baard,wides,1,1,0,,,,31309231309
+1,Namibia,0,N Davin,Janak Prakash,SJ Baard,,0,1,1,,,,31309231309
+1,Namibia,0,SJ Baard,Janak Prakash,N Davin,,0,1,1,,,,31309231309
+1,Namibia,0,N Davin,Janak Prakash,SJ Baard,,0,2,2,,,,31309231309
+1,Namibia,1,SJ Baard,V Baskaran,N Davin,,0,1,1,,,,31309231309
+1,Namibia,1,N Davin,V Baskaran,SJ Baard,,0,0,0,,,,31309231309
+1,Namibia,1,N Davin,V Baskaran,SJ Baard,,0,4,4,,,,31309231309
+1,Namibia,1,N Davin,V Baskaran,SJ Baard,wides,1,1,0,,,,31309231309
+1,Namibia,1,N Davin,V Baskaran,SJ Baard,,0,2,2,,,,31309231309
+1,Namibia,1,N Davin,V Baskaran,SJ Baard,,0,0,0,,,,31309231309
+1,Namibia,1,N Davin,V Baskaran,SJ Baard,,0,0,0,,,,31309231309
+1,Namibia,2,SJ Baard,Amjad Mahboob,N Davin,,0,4,4,,,,31309231309
+1,Namibia,2,SJ Baard,Amjad Mahboob,N Davin,,0,1,1,,,,31309231309
+1,Namibia,2,N Davin,Amjad Mahboob,SJ Baard,,0,0,0,,,,31309231309
+1,Namibia,2,N Davin,Amjad Mahboob,SJ Baard,,0,1,1,,,,31309231309
+1,Namibia,2,SJ Baard,Amjad Mahboob,N Davin,,0,0,0,,,,31309231309
+1,Namibia,2,SJ Baard,Amjad Mahboob,N Davin,,0,6,6,,,,31309231309
+1,Namibia,3,N Davin,NMS Param,SJ Baard,,0,4,4,,,,31309231309
+1,Namibia,3,N Davin,NMS Param,SJ Baard,,0,1,1,,,,31309231309
+1,Namibia,3,SJ Baard,NMS Param,N Davin,legbyes,1,1,0,,,,31309231309
+1,Namibia,3,N Davin,NMS Param,SJ Baard,,0,1,1,,,,31309231309
+1,Namibia,3,SJ Baard,NMS Param,N Davin,,0,1,1,,,,31309231309
+1,Namibia,3,N Davin,NMS Param,SJ Baard,,0,4,4,,,,31309231309
+1,Namibia,4,SJ Baard,Sidhant Singh,N Davin,,0,0,0,,,,31309231309
+1,Namibia,4,SJ Baard,Sidhant Singh,N Davin,,0,0,0,caught and bowled,SJ Baard,,31309231309
+1,Namibia,4,N Davin,Sidhant Singh,JP Kotze,,0,1,1,,,,31309231309
+1,Namibia,4,JP Kotze,Sidhant Singh,N Davin,,0,0,0,,,,31309231309
+1,Namibia,4,JP Kotze,Sidhant Singh,N Davin,,0,4,4,,,,31309231309
+1,Namibia,4,JP Kotze,Sidhant Singh,N Davin,,0,1,1,,,,31309231309
+1,Namibia,5,JP Kotze,Janak Prakash,N Davin,,0,0,0,,,,31309231309
+1,Namibia,5,JP Kotze,Janak Prakash,N Davin,,0,1,1,,,,31309231309
+1,Namibia,5,N Davin,Janak Prakash,JP Kotze,,0,0,0,caught,N Davin,TH David,31309231309
+1,Namibia,5,JP Kotze,Janak Prakash,CG Williams,,0,1,1,,,,31309231309
+1,Namibia,5,CG Williams,Janak Prakash,JP Kotze,,0,0,0,,,,31309231309
+1,Namibia,5,CG Williams,Janak Prakash,JP Kotze,,0,4,4,,,,31309231309
+1,Namibia,6,JP Kotze,Sidhant Singh,CG Williams,,0,1,1,,,,31309231309
+1,Namibia,6,CG Williams,Sidhant Singh,JP Kotze,,0,1,1,,,,31309231309
+1,Namibia,6,JP Kotze,Sidhant Singh,CG Williams,,0,1,1,,,,31309231309
+1,Namibia,6,CG Williams,Sidhant Singh,JP Kotze,,0,0,0,caught,CG Williams,V Baskaran,31309231309
+1,Namibia,6,MG Erasmus,Sidhant Singh,JP Kotze,,0,0,0,,,,31309231309
+1,Namibia,6,MG Erasmus,Sidhant Singh,JP Kotze,,0,1,1,,,,31309231309
+1,Namibia,7,MG Erasmus,V Baskaran,JP Kotze,,0,1,1,,,,31309231309
+1,Namibia,7,JP Kotze,V Baskaran,MG Erasmus,,0,6,6,,,,31309231309
+1,Namibia,7,JP Kotze,V Baskaran,MG Erasmus,byes,1,1,0,,,,31309231309
+1,Namibia,7,MG Erasmus,V Baskaran,JP Kotze,,0,1,1,,,,31309231309
+1,Namibia,7,JP Kotze,V Baskaran,MG Erasmus,,0,1,1,,,,31309231309
+1,Namibia,7,MG Erasmus,V Baskaran,JP Kotze,,0,0,0,,,,31309231309
+1,Namibia,8,JP Kotze,Sidhant Singh,MG Erasmus,,0,1,1,,,,31309231309
+1,Namibia,8,MG Erasmus,Sidhant Singh,JP Kotze,,0,1,1,,,,31309231309
+1,Namibia,8,JP Kotze,Sidhant Singh,MG Erasmus,,0,1,1,,,,31309231309
+1,Namibia,8,MG Erasmus,Sidhant Singh,JP Kotze,,0,1,1,,,,31309231309
+1,Namibia,8,JP Kotze,Sidhant Singh,MG Erasmus,,0,1,1,,,,31309231309
+1,Namibia,8,MG Erasmus,Sidhant Singh,JP Kotze,,0,2,2,,,,31309231309
+1,Namibia,9,JP Kotze,NMS Param,MG Erasmus,,0,4,4,,,,31309231309
+1,Namibia,9,JP Kotze,NMS Param,MG Erasmus,,0,0,0,,,,31309231309
+1,Namibia,9,JP Kotze,NMS Param,MG Erasmus,,0,1,1,,,,31309231309
+1,Namibia,9,MG Erasmus,NMS Param,JP Kotze,legbyes,1,1,0,,,,31309231309
+1,Namibia,9,JP Kotze,NMS Param,MG Erasmus,,0,1,1,,,,31309231309
+1,Namibia,9,MG Erasmus,NMS Param,JP Kotze,,0,1,1,,,,31309231309
+1,Namibia,10,MG Erasmus,Amjad Mahboob,JP Kotze,,0,0,0,,,,31309231309
+1,Namibia,10,MG Erasmus,Amjad Mahboob,JP Kotze,,0,1,1,,,,31309231309
+1,Namibia,10,JP Kotze,Amjad Mahboob,MG Erasmus,,0,1,1,,,,31309231309
+1,Namibia,10,MG Erasmus,Amjad Mahboob,JP Kotze,,0,1,1,,,,31309231309
+1,Namibia,10,JP Kotze,Amjad Mahboob,MG Erasmus,,0,6,6,,,,31309231309
+1,Namibia,10,JP Kotze,Amjad Mahboob,MG Erasmus,,0,2,2,,,,31309231309
+1,Namibia,11,MG Erasmus,TH David,JP Kotze,,0,0,0,,,,31309231309
+1,Namibia,11,MG Erasmus,TH David,JP Kotze,,0,0,0,,,,31309231309
+1,Namibia,11,MG Erasmus,TH David,JP Kotze,,0,1,1,,,,31309231309
+1,Namibia,11,JP Kotze,TH David,MG Erasmus,,0,0,0,,,,31309231309
+1,Namibia,11,JP Kotze,TH David,MG Erasmus,,0,2,2,,,,31309231309
+1,Namibia,11,JP Kotze,TH David,MG Erasmus,,0,0,0,,,,31309231309
+1,Namibia,12,MG Erasmus,Sidhant Singh,JP Kotze,,0,6,6,,,,31309231309
+1,Namibia,12,MG Erasmus,Sidhant Singh,JP Kotze,,0,6,6,,,,31309231309
+1,Namibia,12,MG Erasmus,Sidhant Singh,JP Kotze,,0,6,6,,,,31309231309
+1,Namibia,12,MG Erasmus,Sidhant Singh,JP Kotze,,0,6,6,,,,31309231309
+1,Namibia,12,MG Erasmus,Sidhant Singh,JP Kotze,,0,4,4,,,,31309231309
+1,Namibia,12,MG Erasmus,Sidhant Singh,JP Kotze,,0,1,1,,,,31309231309
+1,Namibia,13,MG Erasmus,TH David,JP Kotze,,0,1,1,,,,31309231309
+1,Namibia,13,JP Kotze,TH David,MG Erasmus,,0,0,0,caught,JP Kotze,S Chandramohan,31309231309
+1,Namibia,13,MG Erasmus,TH David,JJ Smit,,0,1,1,,,,31309231309
+1,Namibia,13,JJ Smit,TH David,MG Erasmus,,0,1,1,,,,31309231309
+1,Namibia,13,MG Erasmus,TH David,JJ Smit,,0,1,1,,,,31309231309
+1,Namibia,13,JJ Smit,TH David,MG Erasmus,,0,1,1,,,,31309231309
+1,Namibia,14,JJ Smit,V Baskaran,MG Erasmus,,0,1,1,,,,31309231309
+1,Namibia,14,MG Erasmus,V Baskaran,JJ Smit,,0,0,0,,,,31309231309
+1,Namibia,14,MG Erasmus,V Baskaran,JJ Smit,,0,4,4,,,,31309231309
+1,Namibia,14,MG Erasmus,V Baskaran,JJ Smit,,0,1,1,,,,31309231309
+1,Namibia,14,JJ Smit,V Baskaran,MG Erasmus,,0,4,4,,,,31309231309
+1,Namibia,14,JJ Smit,V Baskaran,MG Erasmus,,0,0,0,,,,31309231309
+1,Namibia,15,MG Erasmus,TH David,JJ Smit,,0,4,4,,,,31309231309
+1,Namibia,15,MG Erasmus,TH David,JJ Smit,,0,0,0,,,,31309231309
+1,Namibia,15,MG Erasmus,TH David,JJ Smit,,0,2,2,,,,31309231309
+1,Namibia,15,MG Erasmus,TH David,JJ Smit,,0,0,0,,,,31309231309
+1,Namibia,15,MG Erasmus,TH David,JJ Smit,,0,1,1,,,,31309231309
+1,Namibia,15,JJ Smit,TH David,MG Erasmus,,0,3,3,,,,31309231309
+1,Namibia,16,JJ Smit,Janak Prakash,MG Erasmus,,0,1,1,,,,31309231309
+1,Namibia,16,MG Erasmus,Janak Prakash,JJ Smit,,0,1,1,,,,31309231309
+1,Namibia,16,JJ Smit,Janak Prakash,MG Erasmus,,0,4,4,,,,31309231309
+1,Namibia,16,JJ Smit,Janak Prakash,MG Erasmus,noballs,1,3,2,,,,31309231309
+1,Namibia,16,JJ Smit,Janak Prakash,MG Erasmus,,0,2,2,,,,31309231309
+1,Namibia,16,JJ Smit,Janak Prakash,MG Erasmus,,0,1,1,,,,31309231309
+1,Namibia,16,MG Erasmus,Janak Prakash,JJ Smit,,0,1,1,,,,31309231309
+1,Namibia,17,MG Erasmus,U Aryaman Sunil,JJ Smit,,0,2,2,,,,31309231309
+1,Namibia,17,MG Erasmus,U Aryaman Sunil,JJ Smit,,0,0,0,,,,31309231309
+1,Namibia,17,MG Erasmus,U Aryaman Sunil,JJ Smit,,0,2,2,,,,31309231309
+1,Namibia,17,MG Erasmus,U Aryaman Sunil,JJ Smit,,0,0,0,,,,31309231309
+1,Namibia,17,MG Erasmus,U Aryaman Sunil,JJ Smit,,0,4,4,,,,31309231309
+1,Namibia,17,MG Erasmus,U Aryaman Sunil,JJ Smit,,0,4,4,,,,31309231309
+1,Namibia,18,JJ Smit,Janak Prakash,MG Erasmus,,0,4,4,,,,31309231309
+1,Namibia,18,JJ Smit,Janak Prakash,MG Erasmus,,0,0,0,caught and bowled,JJ Smit,,31309231309
+1,Namibia,18,MG Erasmus,Janak Prakash,JN Frylinck,,0,2,2,,,,31309231309
+1,Namibia,18,MG Erasmus,Janak Prakash,JN Frylinck,,0,1,1,,,,31309231309
+1,Namibia,18,JN Frylinck,Janak Prakash,MG Erasmus,,0,0,0,,,,31309231309
+1,Namibia,18,JN Frylinck,Janak Prakash,MG Erasmus,wides,1,1,0,,,,31309231309
+1,Namibia,18,JN Frylinck,Janak Prakash,MG Erasmus,,0,2,2,,,,31309231309
+1,Namibia,19,MG Erasmus,Amjad Mahboob,JN Frylinck,,0,0,0,,,,31309231309
+1,Namibia,19,MG Erasmus,Amjad Mahboob,JN Frylinck,byes,1,1,0,,,,31309231309
+1,Namibia,19,JN Frylinck,Amjad Mahboob,MG Erasmus,,0,0,0,caught,JN Frylinck,U Aryaman Sunil,31309231309
+1,Namibia,19,MG Erasmus,Amjad Mahboob,ZE Green,,0,0,0,caught,MG Erasmus,TH David,31309231309
+1,Namibia,19,ZE Green,Amjad Mahboob,C Viljoen,,0,6,6,,,,31309231309
+1,Namibia,19,ZE Green,Amjad Mahboob,C Viljoen,,0,0,0,lbw,ZE Green,,31309231309

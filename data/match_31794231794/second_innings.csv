@@ -1,0 +1,81 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Uganda,0,Saud Islam,Umair Qasim,S Sesazi,,0,0,0,caught,Saud Islam,Muhammad Amin,31794231794
+2,Uganda,0,K Waiswa,Umair Qasim,S Sesazi,,0,0,0,,,,31794231794
+2,Uganda,0,K Waiswa,Umair Qasim,S Sesazi,wides,1,1,0,,,,31794231794
+2,Uganda,0,K Waiswa,Umair Qasim,S Sesazi,,0,0,0,,,,31794231794
+2,Uganda,0,K Waiswa,Umair Qasim,S Sesazi,,0,0,0,,,,31794231794
+2,Uganda,0,K Waiswa,Umair Qasim,S Sesazi,wides,1,1,0,,,,31794231794
+2,Uganda,0,K Waiswa,Umair Qasim,S Sesazi,,0,1,1,,,,31794231794
+2,Uganda,0,S Sesazi,Umair Qasim,K Waiswa,,0,1,1,,,,31794231794
+2,Uganda,1,S Sesazi,M Magagula,K Waiswa,,0,4,4,,,,31794231794
+2,Uganda,1,S Sesazi,M Magagula,K Waiswa,,0,2,2,,,,31794231794
+2,Uganda,1,S Sesazi,M Magagula,K Waiswa,,0,0,0,caught,S Sesazi,Umair Qasim,31794231794
+2,Uganda,1,D Muhumuza,M Magagula,K Waiswa,wides,3,3,0,,,,31794231794
+2,Uganda,1,D Muhumuza,M Magagula,K Waiswa,,0,0,0,,,,31794231794
+2,Uganda,1,D Muhumuza,M Magagula,K Waiswa,,0,1,1,,,,31794231794
+2,Uganda,1,K Waiswa,M Magagula,D Muhumuza,,0,0,0,,,,31794231794
+2,Uganda,2,D Muhumuza,Umair Qasim,K Waiswa,,0,0,0,,,,31794231794
+2,Uganda,2,D Muhumuza,Umair Qasim,K Waiswa,,0,1,1,,,,31794231794
+2,Uganda,2,K Waiswa,Umair Qasim,D Muhumuza,,0,0,0,,,,31794231794
+2,Uganda,2,K Waiswa,Umair Qasim,D Muhumuza,,0,0,0,,,,31794231794
+2,Uganda,2,K Waiswa,Umair Qasim,D Muhumuza,,0,0,0,,,,31794231794
+2,Uganda,2,K Waiswa,Umair Qasim,D Muhumuza,,0,0,0,,,,31794231794
+2,Uganda,3,D Muhumuza,M Magagula,K Waiswa,legbyes,1,1,0,,,,31794231794
+2,Uganda,3,K Waiswa,M Magagula,D Muhumuza,,0,1,1,,,,31794231794
+2,Uganda,3,D Muhumuza,M Magagula,K Waiswa,legbyes,1,1,0,,,,31794231794
+2,Uganda,3,K Waiswa,M Magagula,D Muhumuza,,0,1,1,,,,31794231794
+2,Uganda,3,D Muhumuza,M Magagula,K Waiswa,,0,4,4,,,,31794231794
+2,Uganda,3,D Muhumuza,M Magagula,K Waiswa,,0,0,0,,,,31794231794
+2,Uganda,4,K Waiswa,Umair Qasim,D Muhumuza,,0,1,1,,,,31794231794
+2,Uganda,4,D Muhumuza,Umair Qasim,K Waiswa,,0,4,4,,,,31794231794
+2,Uganda,4,D Muhumuza,Umair Qasim,K Waiswa,,0,1,1,,,,31794231794
+2,Uganda,4,K Waiswa,Umair Qasim,D Muhumuza,,0,0,0,,,,31794231794
+2,Uganda,4,K Waiswa,Umair Qasim,D Muhumuza,,0,4,4,,,,31794231794
+2,Uganda,4,K Waiswa,Umair Qasim,D Muhumuza,,0,0,0,,,,31794231794
+2,Uganda,5,D Muhumuza,M Magagula,K Waiswa,,0,0,0,bowled,D Muhumuza,,31794231794
+2,Uganda,5,Riazat Ali Shah,M Magagula,K Waiswa,,0,1,1,,,,31794231794
+2,Uganda,5,K Waiswa,M Magagula,Riazat Ali Shah,,0,2,2,,,,31794231794
+2,Uganda,5,K Waiswa,M Magagula,Riazat Ali Shah,,0,0,0,,,,31794231794
+2,Uganda,5,K Waiswa,M Magagula,Riazat Ali Shah,legbyes,1,1,0,,,,31794231794
+2,Uganda,5,Riazat Ali Shah,M Magagula,K Waiswa,,0,0,0,lbw,Riazat Ali Shah,,31794231794
+2,Uganda,6,K Waiswa,Umair Qasim,DM Nakrani,,0,1,1,,,,31794231794
+2,Uganda,6,DM Nakrani,Umair Qasim,K Waiswa,,0,0,0,,,,31794231794
+2,Uganda,6,DM Nakrani,Umair Qasim,K Waiswa,,0,0,0,,,,31794231794
+2,Uganda,6,DM Nakrani,Umair Qasim,K Waiswa,,0,0,0,,,,31794231794
+2,Uganda,6,DM Nakrani,Umair Qasim,K Waiswa,,0,0,0,,,,31794231794
+2,Uganda,6,DM Nakrani,Umair Qasim,K Waiswa,,0,0,0,,,,31794231794
+2,Uganda,7,K Waiswa,M Magagula,DM Nakrani,,0,1,1,,,,31794231794
+2,Uganda,7,DM Nakrani,M Magagula,K Waiswa,byes,4,4,0,,,,31794231794
+2,Uganda,7,DM Nakrani,M Magagula,K Waiswa,,0,4,4,,,,31794231794
+2,Uganda,7,DM Nakrani,M Magagula,K Waiswa,,0,0,0,,,,31794231794
+2,Uganda,7,DM Nakrani,M Magagula,K Waiswa,,0,0,0,,,,31794231794
+2,Uganda,7,DM Nakrani,M Magagula,K Waiswa,,0,1,1,,,,31794231794
+2,Uganda,8,DM Nakrani,J Ghadiyali,K Waiswa,,0,1,1,,,,31794231794
+2,Uganda,8,K Waiswa,J Ghadiyali,DM Nakrani,,0,0,0,,,,31794231794
+2,Uganda,8,K Waiswa,J Ghadiyali,DM Nakrani,,0,0,0,,,,31794231794
+2,Uganda,8,K Waiswa,J Ghadiyali,DM Nakrani,,0,0,0,,,,31794231794
+2,Uganda,8,K Waiswa,J Ghadiyali,DM Nakrani,,0,2,2,,,,31794231794
+2,Uganda,8,K Waiswa,J Ghadiyali,DM Nakrani,,0,0,0,,,,31794231794
+2,Uganda,9,DM Nakrani,M Jele,K Waiswa,wides,1,1,0,,,,31794231794
+2,Uganda,9,DM Nakrani,M Jele,K Waiswa,noballs,1,1,0,,,,31794231794
+2,Uganda,9,DM Nakrani,M Jele,K Waiswa,,0,1,1,,,,31794231794
+2,Uganda,9,K Waiswa,M Jele,DM Nakrani,,0,1,1,,,,31794231794
+2,Uganda,9,DM Nakrani,M Jele,K Waiswa,,0,4,4,,,,31794231794
+2,Uganda,9,DM Nakrani,M Jele,K Waiswa,byes,1,1,0,,,,31794231794
+2,Uganda,9,K Waiswa,M Jele,DM Nakrani,,0,0,0,,,,31794231794
+2,Uganda,9,K Waiswa,M Jele,DM Nakrani,,0,0,0,,,,31794231794
+2,Uganda,10,DM Nakrani,J Ghadiyali,K Waiswa,,0,1,1,,,,31794231794
+2,Uganda,10,K Waiswa,J Ghadiyali,DM Nakrani,,0,0,0,,,,31794231794
+2,Uganda,10,K Waiswa,J Ghadiyali,DM Nakrani,,0,1,1,,,,31794231794
+2,Uganda,10,DM Nakrani,J Ghadiyali,K Waiswa,,0,0,0,,,,31794231794
+2,Uganda,10,DM Nakrani,J Ghadiyali,K Waiswa,,0,0,0,,,,31794231794
+2,Uganda,10,DM Nakrani,J Ghadiyali,K Waiswa,,0,0,0,,,,31794231794
+2,Uganda,11,K Waiswa,M Jele,DM Nakrani,,0,1,1,,,,31794231794
+2,Uganda,11,DM Nakrani,M Jele,K Waiswa,wides,1,1,0,,,,31794231794
+2,Uganda,11,DM Nakrani,M Jele,K Waiswa,,0,0,0,,,,31794231794
+2,Uganda,11,DM Nakrani,M Jele,K Waiswa,,0,1,1,,,,31794231794
+2,Uganda,11,K Waiswa,M Jele,DM Nakrani,,0,0,0,,,,31794231794
+2,Uganda,11,K Waiswa,M Jele,DM Nakrani,wides,2,2,0,,,,31794231794
+2,Uganda,11,DM Nakrani,M Jele,K Waiswa,,0,4,4,,,,31794231794
+2,Uganda,11,DM Nakrani,M Jele,K Waiswa,,0,1,1,,,,31794231794
+2,Uganda,12,DM Nakrani,J Ghadiyali,K Waiswa,,0,4,4,,,,31794231794

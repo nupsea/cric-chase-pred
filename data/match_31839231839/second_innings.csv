@@ -1,0 +1,119 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Bahamas,0,M Taylor,Abdullah Jasat,GT Taylor,,0,1,1,,,,31839231839
+2,Bahamas,0,GT Taylor,Abdullah Jasat,M Taylor,,0,0,0,,,,31839231839
+2,Bahamas,0,GT Taylor,Abdullah Jasat,M Taylor,,0,1,1,,,,31839231839
+2,Bahamas,0,M Taylor,Abdullah Jasat,GT Taylor,,0,1,1,,,,31839231839
+2,Bahamas,0,GT Taylor,Abdullah Jasat,M Taylor,,0,1,1,,,,31839231839
+2,Bahamas,0,M Taylor,Abdullah Jasat,GT Taylor,,0,4,4,,,,31839231839
+2,Bahamas,1,GT Taylor,N Ahir,M Taylor,,0,0,0,,,,31839231839
+2,Bahamas,1,GT Taylor,N Ahir,M Taylor,,0,6,6,,,,31839231839
+2,Bahamas,1,GT Taylor,N Ahir,M Taylor,wides,1,1,0,,,,31839231839
+2,Bahamas,1,GT Taylor,N Ahir,M Taylor,wides,1,1,0,,,,31839231839
+2,Bahamas,1,GT Taylor,N Ahir,M Taylor,,0,0,0,,,,31839231839
+2,Bahamas,1,GT Taylor,N Ahir,M Taylor,,0,0,0,,,,31839231839
+2,Bahamas,1,GT Taylor,N Ahir,M Taylor,,0,1,1,,,,31839231839
+2,Bahamas,1,M Taylor,N Ahir,GT Taylor,,0,0,0,,,,31839231839
+2,Bahamas,2,GT Taylor,Abdullah Jasat,M Taylor,,0,1,1,,,,31839231839
+2,Bahamas,2,M Taylor,Abdullah Jasat,GT Taylor,,0,0,0,,,,31839231839
+2,Bahamas,2,M Taylor,Abdullah Jasat,GT Taylor,,0,0,0,caught,M Taylor,Yusuf Ebrahim,31839231839
+2,Bahamas,2,GT Taylor,Abdullah Jasat,JR Barry,,0,1,1,,,,31839231839
+2,Bahamas,2,JR Barry,Abdullah Jasat,GT Taylor,legbyes,1,1,0,,,,31839231839
+2,Bahamas,2,GT Taylor,Abdullah Jasat,JR Barry,wides,1,1,0,,,,31839231839
+2,Bahamas,2,GT Taylor,Abdullah Jasat,JR Barry,,0,0,0,,,,31839231839
+2,Bahamas,3,JR Barry,Irfan Hafejee,GT Taylor,,0,4,4,,,,31839231839
+2,Bahamas,3,JR Barry,Irfan Hafejee,GT Taylor,,0,4,4,,,,31839231839
+2,Bahamas,3,JR Barry,Irfan Hafejee,GT Taylor,noballs,1,2,1,,,,31839231839
+2,Bahamas,3,GT Taylor,Irfan Hafejee,JR Barry,,0,6,6,,,,31839231839
+2,Bahamas,3,GT Taylor,Irfan Hafejee,JR Barry,,0,1,1,,,,31839231839
+2,Bahamas,3,JR Barry,Irfan Hafejee,GT Taylor,,0,0,0,,,,31839231839
+2,Bahamas,3,JR Barry,Irfan Hafejee,GT Taylor,,0,1,1,,,,31839231839
+2,Bahamas,4,JR Barry,Abdullah Jasat,GT Taylor,,0,2,2,,,,31839231839
+2,Bahamas,4,JR Barry,Abdullah Jasat,GT Taylor,,0,1,1,,,,31839231839
+2,Bahamas,4,GT Taylor,Abdullah Jasat,JR Barry,,0,1,1,,,,31839231839
+2,Bahamas,4,JR Barry,Abdullah Jasat,GT Taylor,wides,1,1,0,,,,31839231839
+2,Bahamas,4,JR Barry,Abdullah Jasat,GT Taylor,,0,0,0,,,,31839231839
+2,Bahamas,4,JR Barry,Abdullah Jasat,GT Taylor,,0,1,1,,,,31839231839
+2,Bahamas,4,GT Taylor,Abdullah Jasat,JR Barry,,0,1,1,,,,31839231839
+2,Bahamas,5,GT Taylor,Yusuf Ebrahim,JR Barry,,0,0,0,,,,31839231839
+2,Bahamas,5,GT Taylor,Yusuf Ebrahim,JR Barry,,0,0,0,caught,GT Taylor,N Ahir,31839231839
+2,Bahamas,5,JR Barry,Yusuf Ebrahim,K Hinds,,0,0,0,,,,31839231839
+2,Bahamas,5,JR Barry,Yusuf Ebrahim,K Hinds,,0,1,1,,,,31839231839
+2,Bahamas,5,K Hinds,Yusuf Ebrahim,JR Barry,,0,2,2,,,,31839231839
+2,Bahamas,5,K Hinds,Yusuf Ebrahim,JR Barry,,0,4,4,,,,31839231839
+2,Bahamas,6,JR Barry,D Ahir,K Hinds,wides,1,1,0,,,,31839231839
+2,Bahamas,6,JR Barry,D Ahir,K Hinds,,0,1,1,,,,31839231839
+2,Bahamas,6,K Hinds,D Ahir,JR Barry,legbyes,1,1,0,,,,31839231839
+2,Bahamas,6,JR Barry,D Ahir,K Hinds,wides,1,1,0,,,,31839231839
+2,Bahamas,6,JR Barry,D Ahir,K Hinds,,0,0,0,,,,31839231839
+2,Bahamas,6,JR Barry,D Ahir,K Hinds,,0,1,1,,,,31839231839
+2,Bahamas,6,K Hinds,D Ahir,JR Barry,,0,1,1,,,,31839231839
+2,Bahamas,6,JR Barry,D Ahir,K Hinds,,0,1,1,,,,31839231839
+2,Bahamas,7,JR Barry,Yusuf Ebrahim,K Hinds,,0,1,1,,,,31839231839
+2,Bahamas,7,K Hinds,Yusuf Ebrahim,JR Barry,,0,0,0,,,,31839231839
+2,Bahamas,7,K Hinds,Yusuf Ebrahim,JR Barry,,0,2,2,,,,31839231839
+2,Bahamas,7,K Hinds,Yusuf Ebrahim,JR Barry,,0,1,1,,,,31839231839
+2,Bahamas,7,JR Barry,Yusuf Ebrahim,K Hinds,,0,2,2,,,,31839231839
+2,Bahamas,7,JR Barry,Yusuf Ebrahim,K Hinds,,0,1,1,,,,31839231839
+2,Bahamas,8,JR Barry,D Ahir,K Hinds,,0,0,0,caught,JR Barry,A Natubhai Ahir,31839231839
+2,Bahamas,8,J Jagroo,D Ahir,K Hinds,,0,1,1,,,,31839231839
+2,Bahamas,8,K Hinds,D Ahir,J Jagroo,legbyes,1,1,0,,,,31839231839
+2,Bahamas,8,J Jagroo,D Ahir,K Hinds,,0,1,1,,,,31839231839
+2,Bahamas,8,K Hinds,D Ahir,J Jagroo,,0,0,0,,,,31839231839
+2,Bahamas,8,K Hinds,D Ahir,J Jagroo,,0,0,0,caught,K Hinds,Yusuf Bhoola,31839231839
+2,Bahamas,9,J Jagroo,A Natubhai Ahir,R Davson,,0,0,0,,,,31839231839
+2,Bahamas,9,J Jagroo,A Natubhai Ahir,R Davson,,0,0,0,,,,31839231839
+2,Bahamas,9,J Jagroo,A Natubhai Ahir,R Davson,,0,2,2,,,,31839231839
+2,Bahamas,9,J Jagroo,A Natubhai Ahir,R Davson,legbyes,1,1,0,,,,31839231839
+2,Bahamas,9,R Davson,A Natubhai Ahir,J Jagroo,,0,0,0,,,,31839231839
+2,Bahamas,9,R Davson,A Natubhai Ahir,J Jagroo,,0,1,1,,,,31839231839
+2,Bahamas,10,R Davson,D Ahir,J Jagroo,,0,1,1,,,,31839231839
+2,Bahamas,10,J Jagroo,D Ahir,R Davson,,0,1,1,,,,31839231839
+2,Bahamas,10,R Davson,D Ahir,J Jagroo,,0,0,0,,,,31839231839
+2,Bahamas,10,R Davson,D Ahir,J Jagroo,,0,1,1,,,,31839231839
+2,Bahamas,10,J Jagroo,D Ahir,R Davson,,0,1,1,,,,31839231839
+2,Bahamas,10,R Davson,D Ahir,J Jagroo,,0,0,0,,,,31839231839
+2,Bahamas,11,J Jagroo,A Natubhai Ahir,R Davson,,0,0,0,,,,31839231839
+2,Bahamas,11,J Jagroo,A Natubhai Ahir,R Davson,,0,2,2,,,,31839231839
+2,Bahamas,11,J Jagroo,A Natubhai Ahir,R Davson,,0,0,0,,,,31839231839
+2,Bahamas,11,J Jagroo,A Natubhai Ahir,R Davson,,0,1,1,,,,31839231839
+2,Bahamas,11,R Davson,A Natubhai Ahir,J Jagroo,,0,0,0,,,,31839231839
+2,Bahamas,11,R Davson,A Natubhai Ahir,J Jagroo,,0,1,1,,,,31839231839
+2,Bahamas,12,R Davson,D Ahir,J Jagroo,,0,0,0,,,,31839231839
+2,Bahamas,12,R Davson,D Ahir,J Jagroo,legbyes,1,1,0,,,,31839231839
+2,Bahamas,12,J Jagroo,D Ahir,R Davson,,0,1,1,,,,31839231839
+2,Bahamas,12,R Davson,D Ahir,J Jagroo,,0,1,1,,,,31839231839
+2,Bahamas,12,J Jagroo,D Ahir,R Davson,,0,6,6,,,,31839231839
+2,Bahamas,12,J Jagroo,D Ahir,R Davson,,0,1,1,,,,31839231839
+2,Bahamas,13,J Jagroo,A Natubhai Ahir,R Davson,,0,0,0,,,,31839231839
+2,Bahamas,13,J Jagroo,A Natubhai Ahir,R Davson,,0,1,1,,,,31839231839
+2,Bahamas,13,R Davson,A Natubhai Ahir,J Jagroo,,0,1,1,,,,31839231839
+2,Bahamas,13,J Jagroo,A Natubhai Ahir,R Davson,,0,1,1,,,,31839231839
+2,Bahamas,13,R Davson,A Natubhai Ahir,J Jagroo,,0,0,0,,,,31839231839
+2,Bahamas,13,R Davson,A Natubhai Ahir,J Jagroo,,0,0,0,bowled,R Davson,,31839231839
+2,Bahamas,14,J Jagroo,Irfan Hafejee,O Stewart,,0,0,0,caught,J Jagroo,Yusuf Ebrahim,31839231839
+2,Bahamas,14,MS Graham,Irfan Hafejee,O Stewart,,0,2,2,,,,31839231839
+2,Bahamas,14,MS Graham,Irfan Hafejee,O Stewart,,0,0,0,,,,31839231839
+2,Bahamas,14,MS Graham,Irfan Hafejee,O Stewart,,0,0,0,,,,31839231839
+2,Bahamas,14,MS Graham,Irfan Hafejee,O Stewart,,0,1,1,,,,31839231839
+2,Bahamas,14,O Stewart,Irfan Hafejee,MS Graham,,0,0,0,run out,O Stewart,Yusuf Ebrahim,31839231839
+2,Bahamas,15,Sandeep Goud,A Natubhai Ahir,MS Graham,,0,1,1,,,,31839231839
+2,Bahamas,15,MS Graham,A Natubhai Ahir,Sandeep Goud,,0,0,0,,,,31839231839
+2,Bahamas,15,MS Graham,A Natubhai Ahir,Sandeep Goud,,0,1,1,,,,31839231839
+2,Bahamas,15,Sandeep Goud,A Natubhai Ahir,MS Graham,,0,4,4,,,,31839231839
+2,Bahamas,15,Sandeep Goud,A Natubhai Ahir,MS Graham,,0,1,1,,,,31839231839
+2,Bahamas,15,MS Graham,A Natubhai Ahir,Sandeep Goud,,0,0,0,,,,31839231839
+2,Bahamas,16,Sandeep Goud,Irfan Hafejee,MS Graham,,0,0,0,,,,31839231839
+2,Bahamas,16,Sandeep Goud,Irfan Hafejee,MS Graham,,0,1,1,,,,31839231839
+2,Bahamas,16,MS Graham,Irfan Hafejee,Sandeep Goud,,0,4,4,,,,31839231839
+2,Bahamas,16,MS Graham,Irfan Hafejee,Sandeep Goud,,0,0,0,bowled,MS Graham,,31839231839
+2,Bahamas,16,E Haven,Irfan Hafejee,Sandeep Goud,,0,0,0,,,,31839231839
+2,Bahamas,16,E Haven,Irfan Hafejee,Sandeep Goud,legbyes,1,1,0,,,,31839231839
+2,Bahamas,17,E Haven,Abdullah Jasat,Sandeep Goud,,0,0,0,bowled,E Haven,,31839231839
+2,Bahamas,17,RP Mitchell,Abdullah Jasat,Sandeep Goud,,0,0,0,,,,31839231839
+2,Bahamas,17,RP Mitchell,Abdullah Jasat,Sandeep Goud,,0,0,0,,,,31839231839
+2,Bahamas,17,RP Mitchell,Abdullah Jasat,Sandeep Goud,,0,1,1,,,,31839231839
+2,Bahamas,17,Sandeep Goud,Abdullah Jasat,RP Mitchell,,0,1,1,,,,31839231839
+2,Bahamas,17,RP Mitchell,Abdullah Jasat,Sandeep Goud,,0,0,0,,,,31839231839
+2,Bahamas,18,Sandeep Goud,Irfan Hafejee,RP Mitchell,,0,0,0,,,,31839231839
+2,Bahamas,18,Sandeep Goud,Irfan Hafejee,RP Mitchell,,0,0,0,,,,31839231839
+2,Bahamas,18,Sandeep Goud,Irfan Hafejee,RP Mitchell,,0,0,0,caught,Sandeep Goud,Yusuf Bhoola,31839231839

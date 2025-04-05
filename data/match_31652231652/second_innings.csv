@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Namibia,0,CG Williams,Naveen-ul-Haq,M van Lingen,,0,0,0,,,,31652231652
+2,Namibia,0,CG Williams,Naveen-ul-Haq,M van Lingen,,0,1,1,,,,31652231652
+2,Namibia,0,M van Lingen,Naveen-ul-Haq,CG Williams,,0,1,1,,,,31652231652
+2,Namibia,0,CG Williams,Naveen-ul-Haq,M van Lingen,,0,0,0,caught,CG Williams,Usman Ghani,31652231652
+2,Namibia,0,M van Lingen,Naveen-ul-Haq,JN Loftie-Eaton,,0,1,1,,,,31652231652
+2,Namibia,0,JN Loftie-Eaton,Naveen-ul-Haq,M van Lingen,,0,0,0,,,,31652231652
+2,Namibia,1,M van Lingen,Mohammad Nabi,JN Loftie-Eaton,,0,2,2,,,,31652231652
+2,Namibia,1,M van Lingen,Mohammad Nabi,JN Loftie-Eaton,,0,6,6,,,,31652231652
+2,Namibia,1,M van Lingen,Mohammad Nabi,JN Loftie-Eaton,,0,0,0,,,,31652231652
+2,Namibia,1,M van Lingen,Mohammad Nabi,JN Loftie-Eaton,,0,1,1,,,,31652231652
+2,Namibia,1,JN Loftie-Eaton,Mohammad Nabi,M van Lingen,,0,0,0,,,,31652231652
+2,Namibia,1,JN Loftie-Eaton,Mohammad Nabi,M van Lingen,,0,1,1,,,,31652231652
+2,Namibia,2,JN Loftie-Eaton,Naveen-ul-Haq,M van Lingen,,0,2,2,,,,31652231652
+2,Namibia,2,JN Loftie-Eaton,Naveen-ul-Haq,M van Lingen,,0,1,1,,,,31652231652
+2,Namibia,2,M van Lingen,Naveen-ul-Haq,JN Loftie-Eaton,,0,0,0,,,,31652231652
+2,Namibia,2,M van Lingen,Naveen-ul-Haq,JN Loftie-Eaton,,0,0,0,caught,M van Lingen,Hamid Hassan,31652231652
+2,Namibia,2,JN Loftie-Eaton,Naveen-ul-Haq,MG Erasmus,,0,2,2,,,,31652231652
+2,Namibia,2,JN Loftie-Eaton,Naveen-ul-Haq,MG Erasmus,,0,1,1,,,,31652231652
+2,Namibia,3,JN Loftie-Eaton,Mohammad Nabi,MG Erasmus,legbyes,1,1,0,,,,31652231652
+2,Namibia,3,MG Erasmus,Mohammad Nabi,JN Loftie-Eaton,,0,0,0,,,,31652231652
+2,Namibia,3,MG Erasmus,Mohammad Nabi,JN Loftie-Eaton,,0,1,1,,,,31652231652
+2,Namibia,3,JN Loftie-Eaton,Mohammad Nabi,MG Erasmus,,0,6,6,,,,31652231652
+2,Namibia,3,JN Loftie-Eaton,Mohammad Nabi,MG Erasmus,,0,0,0,,,,31652231652
+2,Namibia,3,JN Loftie-Eaton,Mohammad Nabi,MG Erasmus,,0,0,0,,,,31652231652
+2,Namibia,4,MG Erasmus,Hamid Hassan,JN Loftie-Eaton,,0,1,1,,,,31652231652
+2,Namibia,4,JN Loftie-Eaton,Hamid Hassan,MG Erasmus,,0,0,0,,,,31652231652
+2,Namibia,4,JN Loftie-Eaton,Hamid Hassan,MG Erasmus,,0,0,0,,,,31652231652
+2,Namibia,4,JN Loftie-Eaton,Hamid Hassan,MG Erasmus,,0,1,1,,,,31652231652
+2,Namibia,4,MG Erasmus,Hamid Hassan,JN Loftie-Eaton,,0,0,0,,,,31652231652
+2,Namibia,4,MG Erasmus,Hamid Hassan,JN Loftie-Eaton,,0,0,0,,,,31652231652
+2,Namibia,5,JN Loftie-Eaton,Gulbadin Naib,MG Erasmus,,0,0,0,,,,31652231652
+2,Namibia,5,JN Loftie-Eaton,Gulbadin Naib,MG Erasmus,,0,0,0,bowled,JN Loftie-Eaton,,31652231652
+2,Namibia,5,ZE Green,Gulbadin Naib,MG Erasmus,,0,0,0,,,,31652231652
+2,Namibia,5,ZE Green,Gulbadin Naib,MG Erasmus,,0,0,0,,,,31652231652
+2,Namibia,5,ZE Green,Gulbadin Naib,MG Erasmus,,0,0,0,,,,31652231652
+2,Namibia,5,ZE Green,Gulbadin Naib,MG Erasmus,,0,0,0,,,,31652231652
+2,Namibia,6,MG Erasmus,Karim Janat,ZE Green,,0,0,0,,,,31652231652
+2,Namibia,6,MG Erasmus,Karim Janat,ZE Green,,0,4,4,,,,31652231652
+2,Namibia,6,MG Erasmus,Karim Janat,ZE Green,,0,0,0,,,,31652231652
+2,Namibia,6,MG Erasmus,Karim Janat,ZE Green,,0,1,1,,,,31652231652
+2,Namibia,6,ZE Green,Karim Janat,MG Erasmus,wides,1,1,0,,,,31652231652
+2,Namibia,6,ZE Green,Karim Janat,MG Erasmus,,0,0,0,,,,31652231652
+2,Namibia,6,ZE Green,Karim Janat,MG Erasmus,,0,1,1,,,,31652231652
+2,Namibia,7,ZE Green,Rashid Khan,MG Erasmus,,0,0,0,bowled,ZE Green,,31652231652
+2,Namibia,7,D Wiese,Rashid Khan,MG Erasmus,,0,0,0,,,,31652231652
+2,Namibia,7,D Wiese,Rashid Khan,MG Erasmus,,0,2,2,,,,31652231652
+2,Namibia,7,D Wiese,Rashid Khan,MG Erasmus,,0,0,0,,,,31652231652
+2,Namibia,7,D Wiese,Rashid Khan,MG Erasmus,,0,0,0,,,,31652231652
+2,Namibia,7,D Wiese,Rashid Khan,MG Erasmus,,0,1,1,,,,31652231652
+2,Namibia,8,D Wiese,Gulbadin Naib,MG Erasmus,,0,1,1,,,,31652231652
+2,Namibia,8,MG Erasmus,Gulbadin Naib,D Wiese,,0,1,1,,,,31652231652
+2,Namibia,8,D Wiese,Gulbadin Naib,MG Erasmus,,0,1,1,,,,31652231652
+2,Namibia,8,MG Erasmus,Gulbadin Naib,D Wiese,,0,2,2,,,,31652231652
+2,Namibia,8,MG Erasmus,Gulbadin Naib,D Wiese,,0,1,1,,,,31652231652
+2,Namibia,8,D Wiese,Gulbadin Naib,MG Erasmus,,0,4,4,,,,31652231652
+2,Namibia,9,MG Erasmus,Rashid Khan,D Wiese,,0,1,1,,,,31652231652
+2,Namibia,9,D Wiese,Rashid Khan,MG Erasmus,,0,0,0,,,,31652231652
+2,Namibia,9,D Wiese,Rashid Khan,MG Erasmus,,0,2,2,,,,31652231652
+2,Namibia,9,D Wiese,Rashid Khan,MG Erasmus,,0,0,0,,,,31652231652
+2,Namibia,9,D Wiese,Rashid Khan,MG Erasmus,,0,2,2,,,,31652231652
+2,Namibia,9,D Wiese,Rashid Khan,MG Erasmus,,0,1,1,,,,31652231652
+2,Namibia,10,D Wiese,Hamid Hassan,MG Erasmus,,0,0,0,,,,31652231652
+2,Namibia,10,D Wiese,Hamid Hassan,MG Erasmus,,0,1,1,,,,31652231652
+2,Namibia,10,MG Erasmus,Hamid Hassan,D Wiese,,0,0,0,bowled,MG Erasmus,,31652231652
+2,Namibia,10,JJ Smit,Hamid Hassan,D Wiese,,0,0,0,,,,31652231652
+2,Namibia,10,JJ Smit,Hamid Hassan,D Wiese,,0,0,0,,,,31652231652
+2,Namibia,10,JJ Smit,Hamid Hassan,D Wiese,,0,0,0,caught,JJ Smit,Mohammad Shahzad,31652231652
+2,Namibia,11,D Wiese,Rashid Khan,JN Frylinck,,0,0,0,,,,31652231652
+2,Namibia,11,D Wiese,Rashid Khan,JN Frylinck,,0,0,0,,,,31652231652
+2,Namibia,11,D Wiese,Rashid Khan,JN Frylinck,,0,0,0,,,,31652231652
+2,Namibia,11,D Wiese,Rashid Khan,JN Frylinck,,0,1,1,,,,31652231652
+2,Namibia,11,JN Frylinck,Rashid Khan,D Wiese,legbyes,1,1,0,,,,31652231652
+2,Namibia,11,D Wiese,Rashid Khan,JN Frylinck,,0,0,0,,,,31652231652
+2,Namibia,12,JN Frylinck,Hamid Hassan,D Wiese,,0,1,1,,,,31652231652
+2,Namibia,12,D Wiese,Hamid Hassan,JN Frylinck,,0,1,1,,,,31652231652
+2,Namibia,12,JN Frylinck,Hamid Hassan,D Wiese,,0,0,0,,,,31652231652
+2,Namibia,12,JN Frylinck,Hamid Hassan,D Wiese,,0,0,0,,,,31652231652
+2,Namibia,12,JN Frylinck,Hamid Hassan,D Wiese,,0,0,0,,,,31652231652
+2,Namibia,12,JN Frylinck,Hamid Hassan,D Wiese,,0,1,1,,,,31652231652
+2,Namibia,13,JN Frylinck,Rashid Khan,D Wiese,wides,1,1,0,,,,31652231652
+2,Namibia,13,JN Frylinck,Rashid Khan,D Wiese,,0,0,0,,,,31652231652
+2,Namibia,13,JN Frylinck,Rashid Khan,D Wiese,,0,0,0,,,,31652231652
+2,Namibia,13,JN Frylinck,Rashid Khan,D Wiese,,0,0,0,,,,31652231652
+2,Namibia,13,JN Frylinck,Rashid Khan,D Wiese,,0,0,0,,,,31652231652
+2,Namibia,13,JN Frylinck,Rashid Khan,D Wiese,,0,1,1,,,,31652231652
+2,Namibia,13,D Wiese,Rashid Khan,JN Frylinck,,0,2,2,,,,31652231652
+2,Namibia,14,JN Frylinck,Naveen-ul-Haq,D Wiese,,0,2,2,,,,31652231652
+2,Namibia,14,JN Frylinck,Naveen-ul-Haq,D Wiese,,0,1,1,,,,31652231652
+2,Namibia,14,D Wiese,Naveen-ul-Haq,JN Frylinck,,0,0,0,,,,31652231652
+2,Namibia,14,D Wiese,Naveen-ul-Haq,JN Frylinck,,0,1,1,,,,31652231652
+2,Namibia,14,JN Frylinck,Naveen-ul-Haq,D Wiese,,0,0,0,caught,JN Frylinck,Mohammad Nabi,31652231652
+2,Namibia,14,D Wiese,Naveen-ul-Haq,HN Ya France,,0,4,4,,,,31652231652
+2,Namibia,15,HN Ya France,Gulbadin Naib,D Wiese,,0,0,0,,,,31652231652
+2,Namibia,15,HN Ya France,Gulbadin Naib,D Wiese,,0,2,2,,,,31652231652
+2,Namibia,15,HN Ya France,Gulbadin Naib,D Wiese,,0,1,1,,,,31652231652
+2,Namibia,15,D Wiese,Gulbadin Naib,HN Ya France,,0,1,1,,,,31652231652
+2,Namibia,15,HN Ya France,Gulbadin Naib,D Wiese,,0,0,0,,,,31652231652
+2,Namibia,15,HN Ya France,Gulbadin Naib,D Wiese,,0,0,0,caught and bowled,HN Ya France,,31652231652
+2,Namibia,16,D Wiese,Hamid Hassan,R Trumpelmann,wides,1,1,0,,,,31652231652
+2,Namibia,16,D Wiese,Hamid Hassan,R Trumpelmann,,0,0,0,,,,31652231652
+2,Namibia,16,D Wiese,Hamid Hassan,R Trumpelmann,,0,0,0,,,,31652231652
+2,Namibia,16,D Wiese,Hamid Hassan,R Trumpelmann,,0,1,1,,,,31652231652
+2,Namibia,16,R Trumpelmann,Hamid Hassan,D Wiese,,0,1,1,,,,31652231652
+2,Namibia,16,D Wiese,Hamid Hassan,R Trumpelmann,,0,0,0,bowled,D Wiese,,31652231652
+2,Namibia,16,BM Scholtz,Hamid Hassan,R Trumpelmann,,0,0,0,,,,31652231652
+2,Namibia,17,R Trumpelmann,Gulbadin Naib,BM Scholtz,wides,1,1,0,,,,31652231652
+2,Namibia,17,R Trumpelmann,Gulbadin Naib,BM Scholtz,,0,1,1,,,,31652231652
+2,Namibia,17,BM Scholtz,Gulbadin Naib,R Trumpelmann,,0,0,0,,,,31652231652
+2,Namibia,17,BM Scholtz,Gulbadin Naib,R Trumpelmann,,0,0,0,,,,31652231652
+2,Namibia,17,BM Scholtz,Gulbadin Naib,R Trumpelmann,,0,0,0,,,,31652231652
+2,Namibia,17,BM Scholtz,Gulbadin Naib,R Trumpelmann,,0,2,2,,,,31652231652
+2,Namibia,17,BM Scholtz,Gulbadin Naib,R Trumpelmann,,0,1,1,,,,31652231652
+2,Namibia,18,BM Scholtz,Naveen-ul-Haq,R Trumpelmann,,0,1,1,,,,31652231652
+2,Namibia,18,R Trumpelmann,Naveen-ul-Haq,BM Scholtz,,0,4,4,,,,31652231652
+2,Namibia,18,R Trumpelmann,Naveen-ul-Haq,BM Scholtz,,0,4,4,,,,31652231652
+2,Namibia,18,R Trumpelmann,Naveen-ul-Haq,BM Scholtz,,0,0,0,,,,31652231652
+2,Namibia,18,R Trumpelmann,Naveen-ul-Haq,BM Scholtz,,0,0,0,,,,31652231652
+2,Namibia,18,R Trumpelmann,Naveen-ul-Haq,BM Scholtz,,0,0,0,,,,31652231652
+2,Namibia,19,BM Scholtz,Karim Janat,R Trumpelmann,,0,0,0,,,,31652231652
+2,Namibia,19,BM Scholtz,Karim Janat,R Trumpelmann,,0,1,1,,,,31652231652
+2,Namibia,19,R Trumpelmann,Karim Janat,BM Scholtz,,0,1,1,,,,31652231652
+2,Namibia,19,BM Scholtz,Karim Janat,R Trumpelmann,,0,0,0,,,,31652231652
+2,Namibia,19,BM Scholtz,Karim Janat,R Trumpelmann,,0,1,1,,,,31652231652
+2,Namibia,19,R Trumpelmann,Karim Janat,BM Scholtz,,0,1,1,,,,31652231652

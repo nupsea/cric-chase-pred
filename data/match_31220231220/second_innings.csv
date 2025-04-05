@@ -1,0 +1,112 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Bangladesh,0,Liton Das,SC Williams,Soumya Sarkar,,0,0,0,,,,31220231220
+2,Bangladesh,0,Liton Das,SC Williams,Soumya Sarkar,,0,1,1,,,,31220231220
+2,Bangladesh,0,Soumya Sarkar,SC Williams,Liton Das,,0,1,1,,,,31220231220
+2,Bangladesh,0,Liton Das,SC Williams,Soumya Sarkar,,0,0,0,,,,31220231220
+2,Bangladesh,0,Liton Das,SC Williams,Soumya Sarkar,,0,6,6,,,,31220231220
+2,Bangladesh,0,Liton Das,SC Williams,Soumya Sarkar,,0,0,0,,,,31220231220
+2,Bangladesh,1,Soumya Sarkar,KM Jarvis,Liton Das,,0,1,1,,,,31220231220
+2,Bangladesh,1,Liton Das,KM Jarvis,Soumya Sarkar,,0,0,0,,,,31220231220
+2,Bangladesh,1,Liton Das,KM Jarvis,Soumya Sarkar,,0,4,4,,,,31220231220
+2,Bangladesh,1,Liton Das,KM Jarvis,Soumya Sarkar,,0,2,2,,,,31220231220
+2,Bangladesh,1,Liton Das,KM Jarvis,Soumya Sarkar,noballs,1,2,1,,,,31220231220
+2,Bangladesh,1,Soumya Sarkar,KM Jarvis,Liton Das,,0,0,0,,,,31220231220
+2,Bangladesh,1,Soumya Sarkar,KM Jarvis,Liton Das,,0,0,0,,,,31220231220
+2,Bangladesh,2,Liton Das,TL Chatara,Soumya Sarkar,,0,1,1,,,,31220231220
+2,Bangladesh,2,Soumya Sarkar,TL Chatara,Liton Das,,0,1,1,,,,31220231220
+2,Bangladesh,2,Liton Das,TL Chatara,Soumya Sarkar,noballs,1,3,2,,,,31220231220
+2,Bangladesh,2,Liton Das,TL Chatara,Soumya Sarkar,,0,2,2,,,,31220231220
+2,Bangladesh,2,Liton Das,TL Chatara,Soumya Sarkar,legbyes,1,1,0,,,,31220231220
+2,Bangladesh,2,Soumya Sarkar,TL Chatara,Liton Das,,0,1,1,,,,31220231220
+2,Bangladesh,2,Liton Das,TL Chatara,Soumya Sarkar,,0,0,0,bowled,Liton Das,,31220231220
+2,Bangladesh,3,Soumya Sarkar,KM Jarvis,Shakib Al Hasan,,0,0,0,caught,Soumya Sarkar,N Madziva,31220231220
+2,Bangladesh,3,Shakib Al Hasan,KM Jarvis,Mushfiqur Rahim,,0,0,0,,,,31220231220
+2,Bangladesh,3,Shakib Al Hasan,KM Jarvis,Mushfiqur Rahim,,0,1,1,,,,31220231220
+2,Bangladesh,3,Mushfiqur Rahim,KM Jarvis,Shakib Al Hasan,,0,0,0,caught,Mushfiqur Rahim,BRM Taylor,31220231220
+2,Bangladesh,3,Mahmudullah,KM Jarvis,Shakib Al Hasan,,0,0,0,,,,31220231220
+2,Bangladesh,3,Mahmudullah,KM Jarvis,Shakib Al Hasan,,0,1,1,,,,31220231220
+2,Bangladesh,4,Mahmudullah,TL Chatara,Shakib Al Hasan,,0,0,0,,,,31220231220
+2,Bangladesh,4,Mahmudullah,TL Chatara,Shakib Al Hasan,,0,1,1,,,,31220231220
+2,Bangladesh,4,Shakib Al Hasan,TL Chatara,Mahmudullah,,0,0,0,caught,Shakib Al Hasan,H Masakadza,31220231220
+2,Bangladesh,4,Sabbir Rahman,TL Chatara,Mahmudullah,,0,1,1,,,,31220231220
+2,Bangladesh,4,Mahmudullah,TL Chatara,Sabbir Rahman,,0,0,0,,,,31220231220
+2,Bangladesh,4,Mahmudullah,TL Chatara,Sabbir Rahman,,0,4,4,,,,31220231220
+2,Bangladesh,5,Sabbir Rahman,KM Jarvis,Mahmudullah,,0,4,4,,,,31220231220
+2,Bangladesh,5,Sabbir Rahman,KM Jarvis,Mahmudullah,,0,1,1,,,,31220231220
+2,Bangladesh,5,Mahmudullah,KM Jarvis,Sabbir Rahman,,0,0,0,,,,31220231220
+2,Bangladesh,5,Mahmudullah,KM Jarvis,Sabbir Rahman,,0,1,1,,,,31220231220
+2,Bangladesh,5,Sabbir Rahman,KM Jarvis,Mahmudullah,,0,0,0,,,,31220231220
+2,Bangladesh,5,Sabbir Rahman,KM Jarvis,Mahmudullah,,0,1,1,,,,31220231220
+2,Bangladesh,6,Sabbir Rahman,RP Burl,Mahmudullah,wides,1,1,0,,,,31220231220
+2,Bangladesh,6,Sabbir Rahman,RP Burl,Mahmudullah,,0,1,1,,,,31220231220
+2,Bangladesh,6,Mahmudullah,RP Burl,Sabbir Rahman,,0,1,1,,,,31220231220
+2,Bangladesh,6,Sabbir Rahman,RP Burl,Mahmudullah,,0,2,2,,,,31220231220
+2,Bangladesh,6,Sabbir Rahman,RP Burl,Mahmudullah,,0,1,1,,,,31220231220
+2,Bangladesh,6,Mahmudullah,RP Burl,Sabbir Rahman,,0,1,1,,,,31220231220
+2,Bangladesh,6,Sabbir Rahman,RP Burl,Mahmudullah,,0,2,2,,,,31220231220
+2,Bangladesh,7,Mahmudullah,N Madziva,Sabbir Rahman,,0,0,0,,,,31220231220
+2,Bangladesh,7,Mahmudullah,N Madziva,Sabbir Rahman,,0,4,4,,,,31220231220
+2,Bangladesh,7,Mahmudullah,N Madziva,Sabbir Rahman,,0,0,0,,,,31220231220
+2,Bangladesh,7,Mahmudullah,N Madziva,Sabbir Rahman,wides,1,1,0,,,,31220231220
+2,Bangladesh,7,Mahmudullah,N Madziva,Sabbir Rahman,,0,0,0,,,,31220231220
+2,Bangladesh,7,Mahmudullah,N Madziva,Sabbir Rahman,,0,1,1,,,,31220231220
+2,Bangladesh,7,Sabbir Rahman,N Madziva,Mahmudullah,,0,0,0,,,,31220231220
+2,Bangladesh,8,Mahmudullah,RP Burl,Sabbir Rahman,,0,0,0,lbw,Mahmudullah,,31220231220
+2,Bangladesh,8,Mosaddek Hossain,RP Burl,Sabbir Rahman,,0,1,1,,,,31220231220
+2,Bangladesh,8,Sabbir Rahman,RP Burl,Mosaddek Hossain,,0,0,0,,,,31220231220
+2,Bangladesh,8,Sabbir Rahman,RP Burl,Mosaddek Hossain,,0,0,0,,,,31220231220
+2,Bangladesh,8,Sabbir Rahman,RP Burl,Mosaddek Hossain,,0,1,1,,,,31220231220
+2,Bangladesh,8,Mosaddek Hossain,RP Burl,Sabbir Rahman,,0,0,0,,,,31220231220
+2,Bangladesh,9,Sabbir Rahman,N Madziva,Mosaddek Hossain,,0,1,1,,,,31220231220
+2,Bangladesh,9,Mosaddek Hossain,N Madziva,Sabbir Rahman,,0,1,1,,,,31220231220
+2,Bangladesh,9,Sabbir Rahman,N Madziva,Mosaddek Hossain,,0,0,0,caught,Sabbir Rahman,RP Burl,31220231220
+2,Bangladesh,9,Mosaddek Hossain,N Madziva,Afif Hossain,,0,1,1,,,,31220231220
+2,Bangladesh,9,Afif Hossain,N Madziva,Mosaddek Hossain,,0,4,4,,,,31220231220
+2,Bangladesh,9,Afif Hossain,N Madziva,Mosaddek Hossain,,0,0,0,,,,31220231220
+2,Bangladesh,10,Mosaddek Hossain,SC Williams,Afif Hossain,,0,0,0,,,,31220231220
+2,Bangladesh,10,Mosaddek Hossain,SC Williams,Afif Hossain,,0,1,1,,,,31220231220
+2,Bangladesh,10,Afif Hossain,SC Williams,Mosaddek Hossain,,0,4,4,,,,31220231220
+2,Bangladesh,10,Afif Hossain,SC Williams,Mosaddek Hossain,,0,4,4,,,,31220231220
+2,Bangladesh,10,Afif Hossain,SC Williams,Mosaddek Hossain,,0,0,0,,,,31220231220
+2,Bangladesh,10,Afif Hossain,SC Williams,Mosaddek Hossain,,0,6,6,,,,31220231220
+2,Bangladesh,11,Mosaddek Hossain,RP Burl,Afif Hossain,,0,6,6,,,,31220231220
+2,Bangladesh,11,Mosaddek Hossain,RP Burl,Afif Hossain,,0,6,6,,,,31220231220
+2,Bangladesh,11,Mosaddek Hossain,RP Burl,Afif Hossain,,0,1,1,,,,31220231220
+2,Bangladesh,11,Afif Hossain,RP Burl,Mosaddek Hossain,,0,1,1,,,,31220231220
+2,Bangladesh,11,Mosaddek Hossain,RP Burl,Afif Hossain,,0,1,1,,,,31220231220
+2,Bangladesh,11,Afif Hossain,RP Burl,Mosaddek Hossain,,0,1,1,,,,31220231220
+2,Bangladesh,12,Afif Hossain,TL Chatara,Mosaddek Hossain,,0,4,4,,,,31220231220
+2,Bangladesh,12,Afif Hossain,TL Chatara,Mosaddek Hossain,,0,1,1,,,,31220231220
+2,Bangladesh,12,Mosaddek Hossain,TL Chatara,Afif Hossain,,0,1,1,,,,31220231220
+2,Bangladesh,12,Afif Hossain,TL Chatara,Mosaddek Hossain,,0,0,0,,,,31220231220
+2,Bangladesh,12,Afif Hossain,TL Chatara,Mosaddek Hossain,,0,2,2,,,,31220231220
+2,Bangladesh,12,Afif Hossain,TL Chatara,Mosaddek Hossain,,0,0,0,,,,31220231220
+2,Bangladesh,13,Mosaddek Hossain,N Madziva,Afif Hossain,,0,0,0,,,,31220231220
+2,Bangladesh,13,Mosaddek Hossain,N Madziva,Afif Hossain,,0,0,0,,,,31220231220
+2,Bangladesh,13,Mosaddek Hossain,N Madziva,Afif Hossain,,0,1,1,,,,31220231220
+2,Bangladesh,13,Afif Hossain,N Madziva,Mosaddek Hossain,,0,1,1,,,,31220231220
+2,Bangladesh,13,Mosaddek Hossain,N Madziva,Afif Hossain,wides,1,1,0,,,,31220231220
+2,Bangladesh,13,Mosaddek Hossain,N Madziva,Afif Hossain,,0,1,1,,,,31220231220
+2,Bangladesh,13,Afif Hossain,N Madziva,Mosaddek Hossain,,0,0,0,,,,31220231220
+2,Bangladesh,14,Mosaddek Hossain,SC Williams,Afif Hossain,,0,0,0,,,,31220231220
+2,Bangladesh,14,Mosaddek Hossain,SC Williams,Afif Hossain,,0,1,1,,,,31220231220
+2,Bangladesh,14,Afif Hossain,SC Williams,Mosaddek Hossain,,0,1,1,,,,31220231220
+2,Bangladesh,14,Mosaddek Hossain,SC Williams,Afif Hossain,,0,2,2,,,,31220231220
+2,Bangladesh,14,Mosaddek Hossain,SC Williams,Afif Hossain,byes,1,1,0,,,,31220231220
+2,Bangladesh,14,Afif Hossain,SC Williams,Mosaddek Hossain,,0,4,4,,,,31220231220
+2,Bangladesh,15,Mosaddek Hossain,KM Jarvis,Afif Hossain,,0,3,3,,,,31220231220
+2,Bangladesh,15,Afif Hossain,KM Jarvis,Mosaddek Hossain,,0,1,1,,,,31220231220
+2,Bangladesh,15,Mosaddek Hossain,KM Jarvis,Afif Hossain,,0,0,0,,,,31220231220
+2,Bangladesh,15,Mosaddek Hossain,KM Jarvis,Afif Hossain,,0,1,1,,,,31220231220
+2,Bangladesh,15,Afif Hossain,KM Jarvis,Mosaddek Hossain,,0,4,4,,,,31220231220
+2,Bangladesh,15,Afif Hossain,KM Jarvis,Mosaddek Hossain,,0,4,4,,,,31220231220
+2,Bangladesh,16,Mosaddek Hossain,TL Chatara,Afif Hossain,,0,1,1,,,,31220231220
+2,Bangladesh,16,Afif Hossain,TL Chatara,Mosaddek Hossain,,0,1,1,,,,31220231220
+2,Bangladesh,16,Mosaddek Hossain,TL Chatara,Afif Hossain,,0,1,1,,,,31220231220
+2,Bangladesh,16,Afif Hossain,TL Chatara,Mosaddek Hossain,,0,4,4,,,,31220231220
+2,Bangladesh,16,Afif Hossain,TL Chatara,Mosaddek Hossain,,0,2,2,,,,31220231220
+2,Bangladesh,16,Afif Hossain,TL Chatara,Mosaddek Hossain,,0,1,1,,,,31220231220
+2,Bangladesh,17,Afif Hossain,N Madziva,Mosaddek Hossain,,0,2,2,,,,31220231220
+2,Bangladesh,17,Afif Hossain,N Madziva,Mosaddek Hossain,,0,0,0,caught,Afif Hossain,H Masakadza,31220231220
+2,Bangladesh,17,Mohammad Saifuddin,N Madziva,Mosaddek Hossain,,0,2,2,,,,31220231220
+2,Bangladesh,17,Mohammad Saifuddin,N Madziva,Mosaddek Hossain,,0,4,4,,,,31220231220

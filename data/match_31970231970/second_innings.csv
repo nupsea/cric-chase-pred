@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Sri Lanka,0,MD Gunathilaka,JA Richardson,P Nissanka,,0,4,4,,,,31970231970
+2,Sri Lanka,0,MD Gunathilaka,JA Richardson,P Nissanka,,0,0,0,,,,31970231970
+2,Sri Lanka,0,MD Gunathilaka,JA Richardson,P Nissanka,,0,0,0,,,,31970231970
+2,Sri Lanka,0,MD Gunathilaka,JA Richardson,P Nissanka,,0,1,1,,,,31970231970
+2,Sri Lanka,0,P Nissanka,JA Richardson,MD Gunathilaka,,0,2,2,,,,31970231970
+2,Sri Lanka,0,P Nissanka,JA Richardson,MD Gunathilaka,,0,4,4,,,,31970231970
+2,Sri Lanka,1,MD Gunathilaka,JR Hazlewood,P Nissanka,,0,1,1,,,,31970231970
+2,Sri Lanka,1,P Nissanka,JR Hazlewood,MD Gunathilaka,,0,0,0,,,,31970231970
+2,Sri Lanka,1,P Nissanka,JR Hazlewood,MD Gunathilaka,,0,0,0,,,,31970231970
+2,Sri Lanka,1,P Nissanka,JR Hazlewood,MD Gunathilaka,legbyes,1,1,0,,,,31970231970
+2,Sri Lanka,1,MD Gunathilaka,JR Hazlewood,P Nissanka,,0,0,0,,,,31970231970
+2,Sri Lanka,1,MD Gunathilaka,JR Hazlewood,P Nissanka,,0,1,1,,,,31970231970
+2,Sri Lanka,2,MD Gunathilaka,KW Richardson,P Nissanka,,0,6,6,,,,31970231970
+2,Sri Lanka,2,MD Gunathilaka,KW Richardson,P Nissanka,,0,1,1,,,,31970231970
+2,Sri Lanka,2,P Nissanka,KW Richardson,MD Gunathilaka,,0,2,2,,,,31970231970
+2,Sri Lanka,2,P Nissanka,KW Richardson,MD Gunathilaka,,0,1,1,,,,31970231970
+2,Sri Lanka,2,MD Gunathilaka,KW Richardson,P Nissanka,,0,1,1,,,,31970231970
+2,Sri Lanka,2,P Nissanka,KW Richardson,MD Gunathilaka,,0,0,0,,,,31970231970
+2,Sri Lanka,3,MD Gunathilaka,JR Hazlewood,P Nissanka,,0,0,0,,,,31970231970
+2,Sri Lanka,3,MD Gunathilaka,JR Hazlewood,P Nissanka,,0,0,0,caught,MD Gunathilaka,JA Richardson,31970231970
+2,Sri Lanka,3,KIC Asalanka,JR Hazlewood,P Nissanka,,0,0,0,,,,31970231970
+2,Sri Lanka,3,KIC Asalanka,JR Hazlewood,P Nissanka,,0,0,0,,,,31970231970
+2,Sri Lanka,3,KIC Asalanka,JR Hazlewood,P Nissanka,,0,0,0,,,,31970231970
+2,Sri Lanka,3,KIC Asalanka,JR Hazlewood,P Nissanka,legbyes,1,1,0,,,,31970231970
+2,Sri Lanka,4,KIC Asalanka,JA Richardson,P Nissanka,,0,0,0,,,,31970231970
+2,Sri Lanka,4,KIC Asalanka,JA Richardson,P Nissanka,,0,1,1,,,,31970231970
+2,Sri Lanka,4,P Nissanka,JA Richardson,KIC Asalanka,legbyes,1,1,0,,,,31970231970
+2,Sri Lanka,4,KIC Asalanka,JA Richardson,P Nissanka,,0,1,1,,,,31970231970
+2,Sri Lanka,4,P Nissanka,JA Richardson,KIC Asalanka,,0,4,4,,,,31970231970
+2,Sri Lanka,4,P Nissanka,JA Richardson,KIC Asalanka,,0,1,1,,,,31970231970
+2,Sri Lanka,5,P Nissanka,KW Richardson,KIC Asalanka,,0,1,1,,,,31970231970
+2,Sri Lanka,5,KIC Asalanka,KW Richardson,P Nissanka,,0,4,4,,,,31970231970
+2,Sri Lanka,5,KIC Asalanka,KW Richardson,P Nissanka,,0,6,6,,,,31970231970
+2,Sri Lanka,5,KIC Asalanka,KW Richardson,P Nissanka,wides,1,1,0,,,,31970231970
+2,Sri Lanka,5,KIC Asalanka,KW Richardson,P Nissanka,,0,1,1,,,,31970231970
+2,Sri Lanka,5,P Nissanka,KW Richardson,KIC Asalanka,,0,2,2,,,,31970231970
+2,Sri Lanka,5,P Nissanka,KW Richardson,KIC Asalanka,,0,0,0,,,,31970231970
+2,Sri Lanka,6,KIC Asalanka,AC Agar,P Nissanka,,0,4,4,,,,31970231970
+2,Sri Lanka,6,KIC Asalanka,AC Agar,P Nissanka,,0,1,1,,,,31970231970
+2,Sri Lanka,6,P Nissanka,AC Agar,KIC Asalanka,,0,1,1,,,,31970231970
+2,Sri Lanka,6,KIC Asalanka,AC Agar,P Nissanka,,0,0,0,,,,31970231970
+2,Sri Lanka,6,KIC Asalanka,AC Agar,P Nissanka,,0,4,4,,,,31970231970
+2,Sri Lanka,6,KIC Asalanka,AC Agar,P Nissanka,,0,1,1,,,,31970231970
+2,Sri Lanka,7,KIC Asalanka,GJ Maxwell,P Nissanka,,0,1,1,,,,31970231970
+2,Sri Lanka,7,P Nissanka,GJ Maxwell,KIC Asalanka,,0,1,1,,,,31970231970
+2,Sri Lanka,7,KIC Asalanka,GJ Maxwell,P Nissanka,,0,1,1,,,,31970231970
+2,Sri Lanka,7,P Nissanka,GJ Maxwell,KIC Asalanka,,0,1,1,,,,31970231970
+2,Sri Lanka,7,KIC Asalanka,GJ Maxwell,P Nissanka,,0,1,1,,,,31970231970
+2,Sri Lanka,7,P Nissanka,GJ Maxwell,KIC Asalanka,,0,1,1,,,,31970231970
+2,Sri Lanka,8,P Nissanka,MP Stoinis,KIC Asalanka,,0,1,1,,,,31970231970
+2,Sri Lanka,8,KIC Asalanka,MP Stoinis,P Nissanka,,0,0,0,caught,KIC Asalanka,AJ Finch,31970231970
+2,Sri Lanka,8,P Nissanka,MP Stoinis,PBB Rajapaksa,,0,1,1,,,,31970231970
+2,Sri Lanka,8,PBB Rajapaksa,MP Stoinis,P Nissanka,,0,1,1,,,,31970231970
+2,Sri Lanka,8,P Nissanka,MP Stoinis,PBB Rajapaksa,,0,1,1,,,,31970231970
+2,Sri Lanka,8,PBB Rajapaksa,MP Stoinis,P Nissanka,,0,1,1,,,,31970231970
+2,Sri Lanka,9,PBB Rajapaksa,GJ Maxwell,P Nissanka,,0,1,1,,,,31970231970
+2,Sri Lanka,9,P Nissanka,GJ Maxwell,PBB Rajapaksa,,0,1,1,,,,31970231970
+2,Sri Lanka,9,PBB Rajapaksa,GJ Maxwell,P Nissanka,,0,0,0,,,,31970231970
+2,Sri Lanka,9,PBB Rajapaksa,GJ Maxwell,P Nissanka,,0,0,0,,,,31970231970
+2,Sri Lanka,9,PBB Rajapaksa,GJ Maxwell,P Nissanka,,0,4,4,,,,31970231970
+2,Sri Lanka,9,PBB Rajapaksa,GJ Maxwell,P Nissanka,,0,0,0,,,,31970231970
+2,Sri Lanka,10,P Nissanka,MP Stoinis,PBB Rajapaksa,,0,1,1,,,,31970231970
+2,Sri Lanka,10,PBB Rajapaksa,MP Stoinis,P Nissanka,,0,1,1,,,,31970231970
+2,Sri Lanka,10,P Nissanka,MP Stoinis,PBB Rajapaksa,,0,1,1,,,,31970231970
+2,Sri Lanka,10,PBB Rajapaksa,MP Stoinis,P Nissanka,legbyes,1,1,0,,,,31970231970
+2,Sri Lanka,10,P Nissanka,MP Stoinis,PBB Rajapaksa,,0,0,0,caught,P Nissanka,JR Hazlewood,31970231970
+2,Sri Lanka,10,BKG Mendis,MP Stoinis,PBB Rajapaksa,,0,0,0,,,,31970231970
+2,Sri Lanka,11,PBB Rajapaksa,GJ Maxwell,BKG Mendis,,0,6,6,,,,31970231970
+2,Sri Lanka,11,PBB Rajapaksa,GJ Maxwell,BKG Mendis,,0,1,1,,,,31970231970
+2,Sri Lanka,11,BKG Mendis,GJ Maxwell,PBB Rajapaksa,,0,0,0,,,,31970231970
+2,Sri Lanka,11,BKG Mendis,GJ Maxwell,PBB Rajapaksa,,0,4,4,,,,31970231970
+2,Sri Lanka,11,BKG Mendis,GJ Maxwell,PBB Rajapaksa,,0,1,1,,,,31970231970
+2,Sri Lanka,11,PBB Rajapaksa,GJ Maxwell,BKG Mendis,,0,2,2,,,,31970231970
+2,Sri Lanka,12,BKG Mendis,AC Agar,PBB Rajapaksa,,0,1,1,,,,31970231970
+2,Sri Lanka,12,PBB Rajapaksa,AC Agar,BKG Mendis,,0,0,0,lbw,PBB Rajapaksa,,31970231970
+2,Sri Lanka,12,MD Shanaka,AC Agar,BKG Mendis,,0,0,0,,,,31970231970
+2,Sri Lanka,12,MD Shanaka,AC Agar,BKG Mendis,,0,1,1,,,,31970231970
+2,Sri Lanka,12,BKG Mendis,AC Agar,MD Shanaka,,0,0,0,,,,31970231970
+2,Sri Lanka,12,BKG Mendis,AC Agar,MD Shanaka,,0,0,0,,,,31970231970
+2,Sri Lanka,13,MD Shanaka,JR Hazlewood,BKG Mendis,,0,0,0,,,,31970231970
+2,Sri Lanka,13,MD Shanaka,JR Hazlewood,BKG Mendis,,0,0,0,,,,31970231970
+2,Sri Lanka,13,MD Shanaka,JR Hazlewood,BKG Mendis,,0,0,0,,,,31970231970
+2,Sri Lanka,13,MD Shanaka,JR Hazlewood,BKG Mendis,,0,1,1,,,,31970231970
+2,Sri Lanka,13,BKG Mendis,JR Hazlewood,MD Shanaka,,0,0,0,bowled,BKG Mendis,,31970231970
+2,Sri Lanka,13,PWH de Silva,JR Hazlewood,MD Shanaka,,0,0,0,,,,31970231970
+2,Sri Lanka,14,MD Shanaka,AC Agar,PWH de Silva,,0,1,1,,,,31970231970
+2,Sri Lanka,14,PWH de Silva,AC Agar,MD Shanaka,,0,0,0,,,,31970231970
+2,Sri Lanka,14,PWH de Silva,AC Agar,MD Shanaka,,0,2,2,,,,31970231970
+2,Sri Lanka,14,PWH de Silva,AC Agar,MD Shanaka,,0,1,1,,,,31970231970
+2,Sri Lanka,14,MD Shanaka,AC Agar,PWH de Silva,,0,0,0,,,,31970231970
+2,Sri Lanka,14,MD Shanaka,AC Agar,PWH de Silva,,0,0,0,,,,31970231970
+2,Sri Lanka,15,PWH de Silva,JA Richardson,MD Shanaka,,0,1,1,,,,31970231970
+2,Sri Lanka,15,MD Shanaka,JA Richardson,PWH de Silva,,0,1,1,,,,31970231970
+2,Sri Lanka,15,PWH de Silva,JA Richardson,MD Shanaka,,0,4,4,,,,31970231970
+2,Sri Lanka,15,PWH de Silva,JA Richardson,MD Shanaka,,0,0,0,caught,PWH de Silva,AJ Finch,31970231970
+2,Sri Lanka,15,C Karunaratne,JA Richardson,MD Shanaka,,0,4,4,,,,31970231970
+2,Sri Lanka,15,C Karunaratne,JA Richardson,MD Shanaka,,0,0,0,,,,31970231970
+2,Sri Lanka,16,MD Shanaka,AC Agar,C Karunaratne,,0,1,1,,,,31970231970
+2,Sri Lanka,16,C Karunaratne,AC Agar,MD Shanaka,,0,1,1,,,,31970231970
+2,Sri Lanka,16,MD Shanaka,AC Agar,C Karunaratne,,0,1,1,,,,31970231970
+2,Sri Lanka,16,C Karunaratne,AC Agar,MD Shanaka,,0,2,2,,,,31970231970
+2,Sri Lanka,16,C Karunaratne,AC Agar,MD Shanaka,,0,0,0,,,,31970231970
+2,Sri Lanka,16,C Karunaratne,AC Agar,MD Shanaka,,0,1,1,,,,31970231970
+2,Sri Lanka,17,C Karunaratne,JR Hazlewood,MD Shanaka,,0,1,1,,,,31970231970
+2,Sri Lanka,17,MD Shanaka,JR Hazlewood,C Karunaratne,,0,6,6,,,,31970231970
+2,Sri Lanka,17,MD Shanaka,JR Hazlewood,C Karunaratne,,0,6,6,,,,31970231970
+2,Sri Lanka,17,MD Shanaka,JR Hazlewood,C Karunaratne,,0,4,4,,,,31970231970
+2,Sri Lanka,17,MD Shanaka,JR Hazlewood,C Karunaratne,,0,4,4,,,,31970231970
+2,Sri Lanka,17,MD Shanaka,JR Hazlewood,C Karunaratne,,0,1,1,,,,31970231970
+2,Sri Lanka,18,MD Shanaka,JA Richardson,C Karunaratne,,0,6,6,,,,31970231970
+2,Sri Lanka,18,MD Shanaka,JA Richardson,C Karunaratne,,0,1,1,,,,31970231970
+2,Sri Lanka,18,C Karunaratne,JA Richardson,MD Shanaka,,0,4,4,,,,31970231970
+2,Sri Lanka,18,C Karunaratne,JA Richardson,MD Shanaka,,0,1,1,,,,31970231970
+2,Sri Lanka,18,MD Shanaka,JA Richardson,C Karunaratne,,0,4,4,,,,31970231970
+2,Sri Lanka,18,MD Shanaka,JA Richardson,C Karunaratne,wides,1,1,0,,,,31970231970
+2,Sri Lanka,18,MD Shanaka,JA Richardson,C Karunaratne,,0,1,1,,,,31970231970
+2,Sri Lanka,19,MD Shanaka,KW Richardson,C Karunaratne,wides,1,1,0,,,,31970231970
+2,Sri Lanka,19,MD Shanaka,KW Richardson,C Karunaratne,wides,1,1,0,,,,31970231970
+2,Sri Lanka,19,MD Shanaka,KW Richardson,C Karunaratne,,0,1,1,,,,31970231970
+2,Sri Lanka,19,C Karunaratne,KW Richardson,MD Shanaka,byes,1,1,0,,,,31970231970
+2,Sri Lanka,19,MD Shanaka,KW Richardson,C Karunaratne,,0,4,4,,,,31970231970
+2,Sri Lanka,19,MD Shanaka,KW Richardson,C Karunaratne,,0,4,4,,,,31970231970
+2,Sri Lanka,19,MD Shanaka,KW Richardson,C Karunaratne,,0,6,6,,,,31970231970
+2,Sri Lanka,19,MD Shanaka,KW Richardson,C Karunaratne,wides,1,1,0,,,,31970231970

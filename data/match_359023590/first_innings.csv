@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Hong Kong,0,JJ Atkinson,MRJ Watt,RJ Campbell,,0,0,0,,,,359023590
+1,Hong Kong,0,JJ Atkinson,MRJ Watt,RJ Campbell,,0,0,0,,,,359023590
+1,Hong Kong,0,JJ Atkinson,MRJ Watt,RJ Campbell,,0,1,1,,,,359023590
+1,Hong Kong,0,RJ Campbell,MRJ Watt,JJ Atkinson,,0,0,0,,,,359023590
+1,Hong Kong,0,RJ Campbell,MRJ Watt,JJ Atkinson,,0,0,0,,,,359023590
+1,Hong Kong,0,RJ Campbell,MRJ Watt,JJ Atkinson,,0,0,0,,,,359023590
+1,Hong Kong,1,JJ Atkinson,JH Davey,RJ Campbell,,0,0,0,,,,359023590
+1,Hong Kong,1,JJ Atkinson,JH Davey,RJ Campbell,,0,0,0,,,,359023590
+1,Hong Kong,1,JJ Atkinson,JH Davey,RJ Campbell,,0,0,0,,,,359023590
+1,Hong Kong,1,JJ Atkinson,JH Davey,RJ Campbell,,0,4,4,,,,359023590
+1,Hong Kong,1,JJ Atkinson,JH Davey,RJ Campbell,,0,4,4,,,,359023590
+1,Hong Kong,1,JJ Atkinson,JH Davey,RJ Campbell,,0,0,0,,,,359023590
+1,Hong Kong,2,RJ Campbell,GT Main,JJ Atkinson,,0,0,0,caught,RJ Campbell,JH Davey,359023590
+1,Hong Kong,2,Babar Hayat,GT Main,JJ Atkinson,,0,4,4,,,,359023590
+1,Hong Kong,2,Babar Hayat,GT Main,JJ Atkinson,wides,1,1,0,,,,359023590
+1,Hong Kong,2,Babar Hayat,GT Main,JJ Atkinson,,0,0,0,,,,359023590
+1,Hong Kong,2,Babar Hayat,GT Main,JJ Atkinson,,0,4,4,,,,359023590
+1,Hong Kong,2,Babar Hayat,GT Main,JJ Atkinson,,0,4,4,,,,359023590
+1,Hong Kong,2,Babar Hayat,GT Main,JJ Atkinson,,0,0,0,,,,359023590
+1,Hong Kong,3,JJ Atkinson,RML Taylor,Babar Hayat,,0,1,1,,,,359023590
+1,Hong Kong,3,Babar Hayat,RML Taylor,JJ Atkinson,,0,0,0,,,,359023590
+1,Hong Kong,3,Babar Hayat,RML Taylor,JJ Atkinson,,0,1,1,,,,359023590
+1,Hong Kong,3,JJ Atkinson,RML Taylor,Babar Hayat,,0,0,0,,,,359023590
+1,Hong Kong,3,JJ Atkinson,RML Taylor,Babar Hayat,,0,0,0,,,,359023590
+1,Hong Kong,3,JJ Atkinson,RML Taylor,Babar Hayat,,0,1,1,,,,359023590
+1,Hong Kong,4,JJ Atkinson,MRJ Watt,Babar Hayat,,0,0,0,,,,359023590
+1,Hong Kong,4,JJ Atkinson,MRJ Watt,Babar Hayat,,0,1,1,,,,359023590
+1,Hong Kong,4,Babar Hayat,MRJ Watt,JJ Atkinson,,0,1,1,,,,359023590
+1,Hong Kong,4,JJ Atkinson,MRJ Watt,Babar Hayat,legbyes,1,1,0,,,,359023590
+1,Hong Kong,4,Babar Hayat,MRJ Watt,JJ Atkinson,,0,1,1,,,,359023590
+1,Hong Kong,4,JJ Atkinson,MRJ Watt,Babar Hayat,,0,1,1,,,,359023590
+1,Hong Kong,5,JJ Atkinson,JH Davey,Babar Hayat,,0,0,0,,,,359023590
+1,Hong Kong,5,JJ Atkinson,JH Davey,Babar Hayat,wides,1,1,0,,,,359023590
+1,Hong Kong,5,JJ Atkinson,JH Davey,Babar Hayat,,0,0,0,caught and bowled,JJ Atkinson,,359023590
+1,Hong Kong,5,MS Chapman,JH Davey,Babar Hayat,,0,0,0,,,,359023590
+1,Hong Kong,5,MS Chapman,JH Davey,Babar Hayat,,0,0,0,,,,359023590
+1,Hong Kong,5,MS Chapman,JH Davey,Babar Hayat,,0,0,0,,,,359023590
+1,Hong Kong,5,MS Chapman,JH Davey,Babar Hayat,,0,1,1,,,,359023590
+1,Hong Kong,6,MS Chapman,CD de Lange,Babar Hayat,,0,1,1,,,,359023590
+1,Hong Kong,6,Babar Hayat,CD de Lange,MS Chapman,,0,0,0,caught,Babar Hayat,CS MacLeod,359023590
+1,Hong Kong,6,MS Chapman,CD de Lange,Anshuman Rath,,0,0,0,,,,359023590
+1,Hong Kong,6,MS Chapman,CD de Lange,Anshuman Rath,,0,0,0,,,,359023590
+1,Hong Kong,6,MS Chapman,CD de Lange,Anshuman Rath,,0,0,0,,,,359023590
+1,Hong Kong,6,MS Chapman,CD de Lange,Anshuman Rath,,0,0,0,,,,359023590
+1,Hong Kong,7,Anshuman Rath,RD Berrington,MS Chapman,,0,1,1,,,,359023590
+1,Hong Kong,7,MS Chapman,RD Berrington,Anshuman Rath,,0,0,0,,,,359023590
+1,Hong Kong,7,MS Chapman,RD Berrington,Anshuman Rath,,0,0,0,,,,359023590
+1,Hong Kong,7,MS Chapman,RD Berrington,Anshuman Rath,,0,2,2,,,,359023590
+1,Hong Kong,7,MS Chapman,RD Berrington,Anshuman Rath,,0,1,1,,,,359023590
+1,Hong Kong,7,Anshuman Rath,RD Berrington,MS Chapman,,0,1,1,,,,359023590
+1,Hong Kong,8,Anshuman Rath,CD de Lange,MS Chapman,,0,1,1,,,,359023590
+1,Hong Kong,8,MS Chapman,CD de Lange,Anshuman Rath,,0,1,1,,,,359023590
+1,Hong Kong,8,Anshuman Rath,CD de Lange,MS Chapman,,0,0,0,,,,359023590
+1,Hong Kong,8,Anshuman Rath,CD de Lange,MS Chapman,,0,3,3,,,,359023590
+1,Hong Kong,8,MS Chapman,CD de Lange,Anshuman Rath,,0,1,1,,,,359023590
+1,Hong Kong,8,Anshuman Rath,CD de Lange,MS Chapman,,0,1,1,,,,359023590
+1,Hong Kong,9,Anshuman Rath,MW Machan,MS Chapman,,0,1,1,,,,359023590
+1,Hong Kong,9,MS Chapman,MW Machan,Anshuman Rath,,0,2,2,,,,359023590
+1,Hong Kong,9,MS Chapman,MW Machan,Anshuman Rath,,0,1,1,,,,359023590
+1,Hong Kong,9,Anshuman Rath,MW Machan,MS Chapman,,0,1,1,,,,359023590
+1,Hong Kong,9,MS Chapman,MW Machan,Anshuman Rath,,0,1,1,,,,359023590
+1,Hong Kong,9,Anshuman Rath,MW Machan,MS Chapman,,0,0,0,,,,359023590
+1,Hong Kong,10,MS Chapman,MRJ Watt,Anshuman Rath,legbyes,1,1,0,,,,359023590
+1,Hong Kong,10,Anshuman Rath,MRJ Watt,MS Chapman,,0,1,1,,,,359023590
+1,Hong Kong,10,MS Chapman,MRJ Watt,Anshuman Rath,,0,0,0,,,,359023590
+1,Hong Kong,10,MS Chapman,MRJ Watt,Anshuman Rath,,0,6,6,,,,359023590
+1,Hong Kong,10,MS Chapman,MRJ Watt,Anshuman Rath,,0,1,1,,,,359023590
+1,Hong Kong,10,Anshuman Rath,MRJ Watt,MS Chapman,,0,1,1,,,,359023590
+1,Hong Kong,11,Anshuman Rath,RD Berrington,MS Chapman,,0,1,1,,,,359023590
+1,Hong Kong,11,MS Chapman,RD Berrington,Anshuman Rath,,0,0,0,,,,359023590
+1,Hong Kong,11,MS Chapman,RD Berrington,Anshuman Rath,,0,1,1,,,,359023590
+1,Hong Kong,11,Anshuman Rath,RD Berrington,MS Chapman,,0,1,1,,,,359023590
+1,Hong Kong,11,MS Chapman,RD Berrington,Anshuman Rath,,0,1,1,,,,359023590
+1,Hong Kong,11,Anshuman Rath,RD Berrington,MS Chapman,legbyes,1,1,0,,,,359023590
+1,Hong Kong,12,Anshuman Rath,RML Taylor,MS Chapman,,0,2,2,,,,359023590
+1,Hong Kong,12,Anshuman Rath,RML Taylor,MS Chapman,,0,1,1,,,,359023590
+1,Hong Kong,12,MS Chapman,RML Taylor,Anshuman Rath,,0,4,4,,,,359023590
+1,Hong Kong,12,MS Chapman,RML Taylor,Anshuman Rath,,0,0,0,,,,359023590
+1,Hong Kong,12,MS Chapman,RML Taylor,Anshuman Rath,,0,1,1,,,,359023590
+1,Hong Kong,12,Anshuman Rath,RML Taylor,MS Chapman,,0,1,1,,,,359023590
+1,Hong Kong,13,Anshuman Rath,CD de Lange,MS Chapman,,0,1,1,,,,359023590
+1,Hong Kong,13,MS Chapman,CD de Lange,Anshuman Rath,,0,1,1,,,,359023590
+1,Hong Kong,13,Anshuman Rath,CD de Lange,MS Chapman,,0,1,1,,,,359023590
+1,Hong Kong,13,MS Chapman,CD de Lange,Anshuman Rath,,0,1,1,,,,359023590
+1,Hong Kong,13,Anshuman Rath,CD de Lange,MS Chapman,,0,0,0,,,,359023590
+1,Hong Kong,13,Anshuman Rath,CD de Lange,MS Chapman,,0,1,1,,,,359023590
+1,Hong Kong,14,Anshuman Rath,MW Machan,MS Chapman,,0,1,1,,,,359023590
+1,Hong Kong,14,MS Chapman,MW Machan,Anshuman Rath,,0,1,1,,,,359023590
+1,Hong Kong,14,Anshuman Rath,MW Machan,MS Chapman,,0,0,0,stumped,Anshuman Rath,MH Cross,359023590
+1,Hong Kong,14,Tanwir Afzal,MW Machan,MS Chapman,,0,0,0,,,,359023590
+1,Hong Kong,14,Tanwir Afzal,MW Machan,MS Chapman,,0,0,0,,,,359023590
+1,Hong Kong,14,Tanwir Afzal,MW Machan,MS Chapman,,0,0,0,,,,359023590
+1,Hong Kong,15,MS Chapman,CD de Lange,Tanwir Afzal,,0,1,1,,,,359023590
+1,Hong Kong,15,Tanwir Afzal,CD de Lange,MS Chapman,,0,0,0,run out,Tanwir Afzal,MH Cross,359023590
+1,Hong Kong,15,Nizakat Khan,CD de Lange,MS Chapman,,0,1,1,,,,359023590
+1,Hong Kong,15,MS Chapman,CD de Lange,Nizakat Khan,,0,2,2,,,,359023590
+1,Hong Kong,15,MS Chapman,CD de Lange,Nizakat Khan,,0,2,2,,,,359023590
+1,Hong Kong,15,MS Chapman,CD de Lange,Nizakat Khan,,0,0,0,,,,359023590
+1,Hong Kong,16,Nizakat Khan,MW Machan,MS Chapman,,0,0,0,,,,359023590
+1,Hong Kong,16,Nizakat Khan,MW Machan,MS Chapman,,0,0,0,,,,359023590
+1,Hong Kong,16,Nizakat Khan,MW Machan,MS Chapman,,0,1,1,,,,359023590
+1,Hong Kong,16,MS Chapman,MW Machan,Nizakat Khan,,0,1,1,,,,359023590
+1,Hong Kong,16,Nizakat Khan,MW Machan,MS Chapman,,0,1,1,,,,359023590
+1,Hong Kong,16,MS Chapman,MW Machan,Nizakat Khan,,0,1,1,,,,359023590
+1,Hong Kong,17,MS Chapman,MRJ Watt,Nizakat Khan,,0,2,2,,,,359023590
+1,Hong Kong,17,MS Chapman,MRJ Watt,Nizakat Khan,,0,2,2,,,,359023590
+1,Hong Kong,17,MS Chapman,MRJ Watt,Nizakat Khan,,0,1,1,,,,359023590
+1,Hong Kong,17,Nizakat Khan,MRJ Watt,MS Chapman,,0,1,1,,,,359023590
+1,Hong Kong,17,MS Chapman,MRJ Watt,Nizakat Khan,,0,0,0,caught,MS Chapman,KJ Coetzer,359023590
+1,Hong Kong,17,Nizakat Khan,MRJ Watt,KD Shah,,0,1,1,,,,359023590
+1,Hong Kong,18,Nizakat Khan,MW Machan,KD Shah,,0,6,6,,,,359023590
+1,Hong Kong,18,Nizakat Khan,MW Machan,KD Shah,,0,6,6,,,,359023590
+1,Hong Kong,18,Nizakat Khan,MW Machan,KD Shah,,0,0,0,caught,Nizakat Khan,GT Main,359023590
+1,Hong Kong,18,Aizaz Khan,MW Machan,KD Shah,,0,1,1,,,,359023590
+1,Hong Kong,18,KD Shah,MW Machan,Aizaz Khan,,0,0,0,,,,359023590
+1,Hong Kong,18,KD Shah,MW Machan,Aizaz Khan,,0,1,1,,,,359023590
+1,Hong Kong,19,KD Shah,JH Davey,Aizaz Khan,legbyes,1,1,0,,,,359023590
+1,Hong Kong,19,Aizaz Khan,JH Davey,KD Shah,,0,2,2,,,,359023590
+1,Hong Kong,19,Aizaz Khan,JH Davey,KD Shah,,0,4,4,,,,359023590
+1,Hong Kong,19,Aizaz Khan,JH Davey,KD Shah,byes,1,1,0,,,,359023590
+1,Hong Kong,19,KD Shah,JH Davey,Aizaz Khan,,0,4,4,,,,359023590
+1,Hong Kong,19,KD Shah,JH Davey,Aizaz Khan,,0,2,2,,,,359023590

@@ -1,0 +1,122 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Afghanistan,0,Mohammad Shahzad,AD Russell,Usman Ghani,,0,1,1,,,,361123611
+1,Afghanistan,0,Usman Ghani,AD Russell,Mohammad Shahzad,,0,0,0,,,,361123611
+1,Afghanistan,0,Usman Ghani,AD Russell,Mohammad Shahzad,,0,0,0,,,,361123611
+1,Afghanistan,0,Usman Ghani,AD Russell,Mohammad Shahzad,,0,0,0,,,,361123611
+1,Afghanistan,0,Usman Ghani,AD Russell,Mohammad Shahzad,,0,4,4,,,,361123611
+1,Afghanistan,0,Usman Ghani,AD Russell,Mohammad Shahzad,,0,0,0,,,,361123611
+1,Afghanistan,1,Mohammad Shahzad,S Badree,Usman Ghani,,0,0,0,,,,361123611
+1,Afghanistan,1,Mohammad Shahzad,S Badree,Usman Ghani,,0,0,0,,,,361123611
+1,Afghanistan,1,Mohammad Shahzad,S Badree,Usman Ghani,,0,2,2,,,,361123611
+1,Afghanistan,1,Mohammad Shahzad,S Badree,Usman Ghani,,0,1,1,,,,361123611
+1,Afghanistan,1,Usman Ghani,S Badree,Mohammad Shahzad,,0,0,0,bowled,Usman Ghani,,361123611
+1,Afghanistan,1,Asghar Stanikzai,S Badree,Mohammad Shahzad,,0,0,0,,,,361123611
+1,Afghanistan,2,Mohammad Shahzad,CR Brathwaite,Asghar Stanikzai,,0,1,1,,,,361123611
+1,Afghanistan,2,Asghar Stanikzai,CR Brathwaite,Mohammad Shahzad,,0,1,1,,,,361123611
+1,Afghanistan,2,Mohammad Shahzad,CR Brathwaite,Asghar Stanikzai,,0,4,4,,,,361123611
+1,Afghanistan,2,Mohammad Shahzad,CR Brathwaite,Asghar Stanikzai,,0,0,0,,,,361123611
+1,Afghanistan,2,Mohammad Shahzad,CR Brathwaite,Asghar Stanikzai,,0,4,4,,,,361123611
+1,Afghanistan,2,Mohammad Shahzad,CR Brathwaite,Asghar Stanikzai,,0,1,1,,,,361123611
+1,Afghanistan,3,Mohammad Shahzad,SJ Benn,Asghar Stanikzai,,0,0,0,,,,361123611
+1,Afghanistan,3,Mohammad Shahzad,SJ Benn,Asghar Stanikzai,,0,0,0,,,,361123611
+1,Afghanistan,3,Mohammad Shahzad,SJ Benn,Asghar Stanikzai,,0,0,0,,,,361123611
+1,Afghanistan,3,Mohammad Shahzad,SJ Benn,Asghar Stanikzai,,0,1,1,,,,361123611
+1,Afghanistan,3,Asghar Stanikzai,SJ Benn,Mohammad Shahzad,,0,1,1,,,,361123611
+1,Afghanistan,3,Mohammad Shahzad,SJ Benn,Asghar Stanikzai,,0,6,6,,,,361123611
+1,Afghanistan,4,Asghar Stanikzai,DJ Bravo,Mohammad Shahzad,,0,1,1,,,,361123611
+1,Afghanistan,4,Mohammad Shahzad,DJ Bravo,Asghar Stanikzai,,0,0,0,,,,361123611
+1,Afghanistan,4,Mohammad Shahzad,DJ Bravo,Asghar Stanikzai,,0,2,2,,,,361123611
+1,Afghanistan,4,Mohammad Shahzad,DJ Bravo,Asghar Stanikzai,,0,1,1,,,,361123611
+1,Afghanistan,4,Asghar Stanikzai,DJ Bravo,Mohammad Shahzad,,0,0,0,,,,361123611
+1,Afghanistan,4,Asghar Stanikzai,DJ Bravo,Mohammad Shahzad,,0,1,1,,,,361123611
+1,Afghanistan,5,Asghar Stanikzai,S Badree,Mohammad Shahzad,,0,0,0,,,,361123611
+1,Afghanistan,5,Asghar Stanikzai,S Badree,Mohammad Shahzad,,0,1,1,,,,361123611
+1,Afghanistan,5,Mohammad Shahzad,S Badree,Asghar Stanikzai,,0,0,0,,,,361123611
+1,Afghanistan,5,Mohammad Shahzad,S Badree,Asghar Stanikzai,,0,0,0,,,,361123611
+1,Afghanistan,5,Mohammad Shahzad,S Badree,Asghar Stanikzai,,0,0,0,,,,361123611
+1,Afghanistan,5,Mohammad Shahzad,S Badree,Asghar Stanikzai,,0,0,0,caught,Mohammad Shahzad,SJ Benn,361123611
+1,Afghanistan,6,Asghar Stanikzai,SJ Benn,Gulbadin Naib,,0,0,0,,,,361123611
+1,Afghanistan,6,Asghar Stanikzai,SJ Benn,Gulbadin Naib,,0,1,1,,,,361123611
+1,Afghanistan,6,Gulbadin Naib,SJ Benn,Asghar Stanikzai,,0,1,1,,,,361123611
+1,Afghanistan,6,Asghar Stanikzai,SJ Benn,Gulbadin Naib,,0,1,1,,,,361123611
+1,Afghanistan,6,Gulbadin Naib,SJ Benn,Asghar Stanikzai,,0,0,0,,,,361123611
+1,Afghanistan,6,Gulbadin Naib,SJ Benn,Asghar Stanikzai,,0,2,2,,,,361123611
+1,Afghanistan,7,Asghar Stanikzai,S Badree,Gulbadin Naib,,0,0,0,,,,361123611
+1,Afghanistan,7,Asghar Stanikzai,S Badree,Gulbadin Naib,,0,0,0,,,,361123611
+1,Afghanistan,7,Asghar Stanikzai,S Badree,Gulbadin Naib,,0,0,0,,,,361123611
+1,Afghanistan,7,Asghar Stanikzai,S Badree,Gulbadin Naib,,0,1,1,,,,361123611
+1,Afghanistan,7,Gulbadin Naib,S Badree,Asghar Stanikzai,,0,0,0,,,,361123611
+1,Afghanistan,7,Gulbadin Naib,S Badree,Asghar Stanikzai,,0,1,1,,,,361123611
+1,Afghanistan,8,Gulbadin Naib,SJ Benn,Asghar Stanikzai,,0,1,1,,,,361123611
+1,Afghanistan,8,Asghar Stanikzai,SJ Benn,Gulbadin Naib,,0,1,1,,,,361123611
+1,Afghanistan,8,Gulbadin Naib,SJ Benn,Asghar Stanikzai,,0,1,1,,,,361123611
+1,Afghanistan,8,Asghar Stanikzai,SJ Benn,Gulbadin Naib,,0,0,0,,,,361123611
+1,Afghanistan,8,Asghar Stanikzai,SJ Benn,Gulbadin Naib,,0,0,0,,,,361123611
+1,Afghanistan,8,Asghar Stanikzai,SJ Benn,Gulbadin Naib,,0,1,1,,,,361123611
+1,Afghanistan,9,Asghar Stanikzai,S Badree,Gulbadin Naib,,0,0,0,,,,361123611
+1,Afghanistan,9,Asghar Stanikzai,S Badree,Gulbadin Naib,,0,6,6,,,,361123611
+1,Afghanistan,9,Asghar Stanikzai,S Badree,Gulbadin Naib,,0,0,0,caught,Asghar Stanikzai,DJ Bravo,361123611
+1,Afghanistan,9,Gulbadin Naib,S Badree,Samiullah Shenwari,,0,0,0,,,,361123611
+1,Afghanistan,9,Gulbadin Naib,S Badree,Samiullah Shenwari,,0,1,1,,,,361123611
+1,Afghanistan,9,Samiullah Shenwari,S Badree,Gulbadin Naib,,0,1,1,,,,361123611
+1,Afghanistan,10,Samiullah Shenwari,SJ Benn,Gulbadin Naib,,0,0,0,,,,361123611
+1,Afghanistan,10,Samiullah Shenwari,SJ Benn,Gulbadin Naib,,0,0,0,caught,Samiullah Shenwari,DJG Sammy,361123611
+1,Afghanistan,10,Najibullah Zadran,SJ Benn,Gulbadin Naib,,0,1,1,,,,361123611
+1,Afghanistan,10,Gulbadin Naib,SJ Benn,Najibullah Zadran,,0,0,0,,,,361123611
+1,Afghanistan,10,Gulbadin Naib,SJ Benn,Najibullah Zadran,,0,0,0,,,,361123611
+1,Afghanistan,10,Gulbadin Naib,SJ Benn,Najibullah Zadran,,0,0,0,,,,361123611
+1,Afghanistan,11,Najibullah Zadran,DJG Sammy,Gulbadin Naib,,0,1,1,,,,361123611
+1,Afghanistan,11,Gulbadin Naib,DJG Sammy,Najibullah Zadran,,0,1,1,,,,361123611
+1,Afghanistan,11,Najibullah Zadran,DJG Sammy,Gulbadin Naib,,0,0,0,,,,361123611
+1,Afghanistan,11,Najibullah Zadran,DJG Sammy,Gulbadin Naib,,0,1,1,,,,361123611
+1,Afghanistan,11,Gulbadin Naib,DJG Sammy,Najibullah Zadran,,0,0,0,caught,Gulbadin Naib,DJ Bravo,361123611
+1,Afghanistan,11,Najibullah Zadran,DJG Sammy,Mohammad Nabi,,0,1,1,,,,361123611
+1,Afghanistan,12,Najibullah Zadran,AD Russell,Mohammad Nabi,,0,0,0,,,,361123611
+1,Afghanistan,12,Najibullah Zadran,AD Russell,Mohammad Nabi,,0,0,0,,,,361123611
+1,Afghanistan,12,Najibullah Zadran,AD Russell,Mohammad Nabi,,0,0,0,,,,361123611
+1,Afghanistan,12,Najibullah Zadran,AD Russell,Mohammad Nabi,,0,0,0,,,,361123611
+1,Afghanistan,12,Najibullah Zadran,AD Russell,Mohammad Nabi,,0,4,4,,,,361123611
+1,Afghanistan,12,Najibullah Zadran,AD Russell,Mohammad Nabi,,0,1,1,,,,361123611
+1,Afghanistan,13,Najibullah Zadran,DJ Bravo,Mohammad Nabi,,0,2,2,,,,361123611
+1,Afghanistan,13,Najibullah Zadran,DJ Bravo,Mohammad Nabi,,0,1,1,,,,361123611
+1,Afghanistan,13,Mohammad Nabi,DJ Bravo,Najibullah Zadran,,0,0,0,,,,361123611
+1,Afghanistan,13,Mohammad Nabi,DJ Bravo,Najibullah Zadran,,0,1,1,,,,361123611
+1,Afghanistan,13,Najibullah Zadran,DJ Bravo,Mohammad Nabi,,0,0,0,,,,361123611
+1,Afghanistan,13,Najibullah Zadran,DJ Bravo,Mohammad Nabi,,0,0,0,,,,361123611
+1,Afghanistan,14,Mohammad Nabi,CR Brathwaite,Najibullah Zadran,,0,1,1,,,,361123611
+1,Afghanistan,14,Najibullah Zadran,CR Brathwaite,Mohammad Nabi,,0,0,0,,,,361123611
+1,Afghanistan,14,Najibullah Zadran,CR Brathwaite,Mohammad Nabi,,0,2,2,,,,361123611
+1,Afghanistan,14,Najibullah Zadran,CR Brathwaite,Mohammad Nabi,,0,2,2,,,,361123611
+1,Afghanistan,14,Najibullah Zadran,CR Brathwaite,Mohammad Nabi,,0,1,1,,,,361123611
+1,Afghanistan,14,Mohammad Nabi,CR Brathwaite,Najibullah Zadran,,0,4,4,,,,361123611
+1,Afghanistan,15,Najibullah Zadran,DJG Sammy,Mohammad Nabi,,0,2,2,,,,361123611
+1,Afghanistan,15,Najibullah Zadran,DJG Sammy,Mohammad Nabi,,0,6,6,,,,361123611
+1,Afghanistan,15,Najibullah Zadran,DJG Sammy,Mohammad Nabi,,0,1,1,,,,361123611
+1,Afghanistan,15,Mohammad Nabi,DJG Sammy,Najibullah Zadran,,0,1,1,,,,361123611
+1,Afghanistan,15,Najibullah Zadran,DJG Sammy,Mohammad Nabi,,0,1,1,,,,361123611
+1,Afghanistan,15,Mohammad Nabi,DJG Sammy,Najibullah Zadran,,0,2,2,,,,361123611
+1,Afghanistan,16,Najibullah Zadran,AD Russell,Mohammad Nabi,,0,1,1,,,,361123611
+1,Afghanistan,16,Mohammad Nabi,AD Russell,Najibullah Zadran,,0,0,0,,,,361123611
+1,Afghanistan,16,Mohammad Nabi,AD Russell,Najibullah Zadran,,0,0,0,caught,Mohammad Nabi,MN Samuels,361123611
+1,Afghanistan,16,Shafiqullah,AD Russell,Najibullah Zadran,wides,1,1,0,,,,361123611
+1,Afghanistan,16,Shafiqullah,AD Russell,Najibullah Zadran,,0,1,1,,,,361123611
+1,Afghanistan,16,Najibullah Zadran,AD Russell,Shafiqullah,,0,0,0,,,,361123611
+1,Afghanistan,16,Najibullah Zadran,AD Russell,Shafiqullah,,0,1,1,,,,361123611
+1,Afghanistan,17,Najibullah Zadran,DJ Bravo,Shafiqullah,,0,0,0,,,,361123611
+1,Afghanistan,17,Najibullah Zadran,DJ Bravo,Shafiqullah,,0,4,4,,,,361123611
+1,Afghanistan,17,Najibullah Zadran,DJ Bravo,Shafiqullah,legbyes,2,2,0,,,,361123611
+1,Afghanistan,17,Najibullah Zadran,DJ Bravo,Shafiqullah,,0,1,1,,,,361123611
+1,Afghanistan,17,Shafiqullah,DJ Bravo,Najibullah Zadran,,0,2,2,,,,361123611
+1,Afghanistan,17,Shafiqullah,DJ Bravo,Najibullah Zadran,,0,1,1,,,,361123611
+1,Afghanistan,18,Shafiqullah,AD Russell,Najibullah Zadran,,0,0,0,caught,Shafiqullah,ADS Fletcher,361123611
+1,Afghanistan,18,Najibullah Zadran,AD Russell,Rashid Khan,,0,2,2,,,,361123611
+1,Afghanistan,18,Najibullah Zadran,AD Russell,Rashid Khan,,0,0,0,,,,361123611
+1,Afghanistan,18,Najibullah Zadran,AD Russell,Rashid Khan,,0,0,0,,,,361123611
+1,Afghanistan,18,Najibullah Zadran,AD Russell,Rashid Khan,,0,1,1,,,,361123611
+1,Afghanistan,18,Rashid Khan,AD Russell,Najibullah Zadran,,0,6,6,,,,361123611
+1,Afghanistan,19,Najibullah Zadran,DJ Bravo,Rashid Khan,,0,4,4,,,,361123611
+1,Afghanistan,19,Najibullah Zadran,DJ Bravo,Rashid Khan,,0,0,0,,,,361123611
+1,Afghanistan,19,Najibullah Zadran,DJ Bravo,Rashid Khan,,0,2,2,,,,361123611
+1,Afghanistan,19,Najibullah Zadran,DJ Bravo,Rashid Khan,,0,0,0,,,,361123611
+1,Afghanistan,19,Najibullah Zadran,DJ Bravo,Rashid Khan,,0,4,4,,,,361123611
+1,Afghanistan,19,Najibullah Zadran,DJ Bravo,Rashid Khan,,0,1,1,,,,361123611

@@ -1,0 +1,126 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Canada,0,RA Thomas,K Christie,NS Dhaliwal,,0,2,2,,,,31301231301
+2,Canada,0,RA Thomas,K Christie,NS Dhaliwal,,0,0,0,,,,31301231301
+2,Canada,0,RA Thomas,K Christie,NS Dhaliwal,,0,0,0,,,,31301231301
+2,Canada,0,RA Thomas,K Christie,NS Dhaliwal,,0,0,0,,,,31301231301
+2,Canada,0,RA Thomas,K Christie,NS Dhaliwal,,0,1,1,,,,31301231301
+2,Canada,0,NS Dhaliwal,K Christie,RA Thomas,,0,1,1,,,,31301231301
+2,Canada,1,NS Dhaliwal,Aizaz Khan,RA Thomas,,0,0,0,,,,31301231301
+2,Canada,1,NS Dhaliwal,Aizaz Khan,RA Thomas,,0,1,1,,,,31301231301
+2,Canada,1,RA Thomas,Aizaz Khan,NS Dhaliwal,,0,4,4,,,,31301231301
+2,Canada,1,RA Thomas,Aizaz Khan,NS Dhaliwal,,0,0,0,,,,31301231301
+2,Canada,1,RA Thomas,Aizaz Khan,NS Dhaliwal,,0,0,0,,,,31301231301
+2,Canada,1,RA Thomas,Aizaz Khan,NS Dhaliwal,,0,1,1,,,,31301231301
+2,Canada,2,RA Thomas,Nasrulla Rana,NS Dhaliwal,,0,0,0,,,,31301231301
+2,Canada,2,RA Thomas,Nasrulla Rana,NS Dhaliwal,,0,0,0,,,,31301231301
+2,Canada,2,RA Thomas,Nasrulla Rana,NS Dhaliwal,,0,4,4,,,,31301231301
+2,Canada,2,RA Thomas,Nasrulla Rana,NS Dhaliwal,,0,0,0,,,,31301231301
+2,Canada,2,RA Thomas,Nasrulla Rana,NS Dhaliwal,,0,0,0,caught,RA Thomas,Simandeep Singh,31301231301
+2,Canada,2,NR Kumar,Nasrulla Rana,NS Dhaliwal,,0,0,0,,,,31301231301
+2,Canada,3,NS Dhaliwal,Ehsan Khan,NR Kumar,,0,0,0,,,,31301231301
+2,Canada,3,NS Dhaliwal,Ehsan Khan,NR Kumar,,0,1,1,,,,31301231301
+2,Canada,3,NR Kumar,Ehsan Khan,NS Dhaliwal,,0,0,0,,,,31301231301
+2,Canada,3,NR Kumar,Ehsan Khan,NS Dhaliwal,,0,1,1,,,,31301231301
+2,Canada,3,NS Dhaliwal,Ehsan Khan,NR Kumar,,0,1,1,,,,31301231301
+2,Canada,3,NR Kumar,Ehsan Khan,NS Dhaliwal,,0,0,0,,,,31301231301
+2,Canada,4,NS Dhaliwal,Haroon Arshad,NR Kumar,,0,0,0,,,,31301231301
+2,Canada,4,NS Dhaliwal,Haroon Arshad,NR Kumar,,0,0,0,,,,31301231301
+2,Canada,4,NS Dhaliwal,Haroon Arshad,NR Kumar,,0,0,0,bowled,NS Dhaliwal,,31301231301
+2,Canada,4,Ravinderpal Singh,Haroon Arshad,NR Kumar,,0,0,0,,,,31301231301
+2,Canada,4,Ravinderpal Singh,Haroon Arshad,NR Kumar,,0,0,0,,,,31301231301
+2,Canada,4,Ravinderpal Singh,Haroon Arshad,NR Kumar,,0,1,1,,,,31301231301
+2,Canada,5,Ravinderpal Singh,K Christie,NR Kumar,,0,0,0,,,,31301231301
+2,Canada,5,Ravinderpal Singh,K Christie,NR Kumar,,0,1,1,,,,31301231301
+2,Canada,5,NR Kumar,K Christie,Ravinderpal Singh,,0,0,0,,,,31301231301
+2,Canada,5,NR Kumar,K Christie,Ravinderpal Singh,,0,4,4,,,,31301231301
+2,Canada,5,NR Kumar,K Christie,Ravinderpal Singh,,0,0,0,,,,31301231301
+2,Canada,5,NR Kumar,K Christie,Ravinderpal Singh,,0,1,1,,,,31301231301
+2,Canada,6,NR Kumar,Haroon Arshad,Ravinderpal Singh,,0,0,0,,,,31301231301
+2,Canada,6,NR Kumar,Haroon Arshad,Ravinderpal Singh,,0,0,0,,,,31301231301
+2,Canada,6,NR Kumar,Haroon Arshad,Ravinderpal Singh,,0,1,1,,,,31301231301
+2,Canada,6,Ravinderpal Singh,Haroon Arshad,NR Kumar,,0,1,1,,,,31301231301
+2,Canada,6,NR Kumar,Haroon Arshad,Ravinderpal Singh,,0,0,0,,,,31301231301
+2,Canada,6,NR Kumar,Haroon Arshad,Ravinderpal Singh,,0,1,1,,,,31301231301
+2,Canada,7,NR Kumar,Waqas Barkat,Ravinderpal Singh,,0,1,1,,,,31301231301
+2,Canada,7,Ravinderpal Singh,Waqas Barkat,NR Kumar,,0,1,1,,,,31301231301
+2,Canada,7,NR Kumar,Waqas Barkat,Ravinderpal Singh,,0,1,1,,,,31301231301
+2,Canada,7,Ravinderpal Singh,Waqas Barkat,NR Kumar,,0,0,0,,,,31301231301
+2,Canada,7,Ravinderpal Singh,Waqas Barkat,NR Kumar,,0,0,0,,,,31301231301
+2,Canada,7,Ravinderpal Singh,Waqas Barkat,NR Kumar,,0,1,1,,,,31301231301
+2,Canada,8,Ravinderpal Singh,Nasrulla Rana,NR Kumar,,0,1,1,,,,31301231301
+2,Canada,8,NR Kumar,Nasrulla Rana,Ravinderpal Singh,,0,1,1,,,,31301231301
+2,Canada,8,Ravinderpal Singh,Nasrulla Rana,NR Kumar,,0,1,1,,,,31301231301
+2,Canada,8,NR Kumar,Nasrulla Rana,Ravinderpal Singh,,0,1,1,,,,31301231301
+2,Canada,8,Ravinderpal Singh,Nasrulla Rana,NR Kumar,,0,2,2,,,,31301231301
+2,Canada,8,Ravinderpal Singh,Nasrulla Rana,NR Kumar,,0,0,0,,,,31301231301
+2,Canada,9,NR Kumar,Waqas Barkat,Ravinderpal Singh,,0,0,0,,,,31301231301
+2,Canada,9,NR Kumar,Waqas Barkat,Ravinderpal Singh,,0,0,0,,,,31301231301
+2,Canada,9,NR Kumar,Waqas Barkat,Ravinderpal Singh,,0,2,2,,,,31301231301
+2,Canada,9,NR Kumar,Waqas Barkat,Ravinderpal Singh,,0,0,0,,,,31301231301
+2,Canada,9,NR Kumar,Waqas Barkat,Ravinderpal Singh,,0,1,1,,,,31301231301
+2,Canada,9,Ravinderpal Singh,Waqas Barkat,NR Kumar,,0,4,4,,,,31301231301
+2,Canada,10,NR Kumar,Nasrulla Rana,Ravinderpal Singh,,0,1,1,,,,31301231301
+2,Canada,10,Ravinderpal Singh,Nasrulla Rana,NR Kumar,,0,0,0,bowled,Ravinderpal Singh,,31301231301
+2,Canada,10,Rizwan Cheema,Nasrulla Rana,NR Kumar,wides,1,1,0,,,,31301231301
+2,Canada,10,Rizwan Cheema,Nasrulla Rana,NR Kumar,,0,1,1,,,,31301231301
+2,Canada,10,NR Kumar,Nasrulla Rana,Rizwan Cheema,,0,1,1,,,,31301231301
+2,Canada,10,Rizwan Cheema,Nasrulla Rana,NR Kumar,,0,1,1,,,,31301231301
+2,Canada,10,NR Kumar,Nasrulla Rana,Rizwan Cheema,,0,1,1,,,,31301231301
+2,Canada,11,NR Kumar,Ehsan Khan,Rizwan Cheema,legbyes,1,1,0,,,,31301231301
+2,Canada,11,Rizwan Cheema,Ehsan Khan,NR Kumar,,0,0,0,,,,31301231301
+2,Canada,11,Rizwan Cheema,Ehsan Khan,NR Kumar,,0,0,0,,,,31301231301
+2,Canada,11,Rizwan Cheema,Ehsan Khan,NR Kumar,,0,1,1,,,,31301231301
+2,Canada,11,NR Kumar,Ehsan Khan,Rizwan Cheema,,0,1,1,,,,31301231301
+2,Canada,11,Rizwan Cheema,Ehsan Khan,NR Kumar,,0,1,1,,,,31301231301
+2,Canada,12,Rizwan Cheema,Aizaz Khan,NR Kumar,,0,0,0,,,,31301231301
+2,Canada,12,Rizwan Cheema,Aizaz Khan,NR Kumar,,0,1,1,,,,31301231301
+2,Canada,12,NR Kumar,Aizaz Khan,Rizwan Cheema,,0,0,0,caught,NR Kumar,Simandeep Singh,31301231301
+2,Canada,12,Rizwan Cheema,Aizaz Khan,Hamza Tariq,,0,0,0,,,,31301231301
+2,Canada,12,Rizwan Cheema,Aizaz Khan,Hamza Tariq,,0,1,1,,,,31301231301
+2,Canada,12,Hamza Tariq,Aizaz Khan,Rizwan Cheema,,0,0,0,,,,31301231301
+2,Canada,13,Rizwan Cheema,Ehsan Khan,Hamza Tariq,,0,4,4,,,,31301231301
+2,Canada,13,Rizwan Cheema,Ehsan Khan,Hamza Tariq,,0,1,1,,,,31301231301
+2,Canada,13,Hamza Tariq,Ehsan Khan,Rizwan Cheema,,0,0,0,,,,31301231301
+2,Canada,13,Hamza Tariq,Ehsan Khan,Rizwan Cheema,,0,0,0,,,,31301231301
+2,Canada,13,Hamza Tariq,Ehsan Khan,Rizwan Cheema,,0,0,0,,,,31301231301
+2,Canada,13,Hamza Tariq,Ehsan Khan,Rizwan Cheema,,0,1,1,,,,31301231301
+2,Canada,14,Hamza Tariq,Aizaz Khan,Rizwan Cheema,,0,1,1,,,,31301231301
+2,Canada,14,Rizwan Cheema,Aizaz Khan,Hamza Tariq,,0,1,1,,,,31301231301
+2,Canada,14,Hamza Tariq,Aizaz Khan,Rizwan Cheema,,0,4,4,,,,31301231301
+2,Canada,14,Hamza Tariq,Aizaz Khan,Rizwan Cheema,,0,1,1,,,,31301231301
+2,Canada,14,Rizwan Cheema,Aizaz Khan,Hamza Tariq,,0,4,4,,,,31301231301
+2,Canada,14,Rizwan Cheema,Aizaz Khan,Hamza Tariq,,0,1,1,,,,31301231301
+2,Canada,15,Rizwan Cheema,Ehsan Khan,Hamza Tariq,,0,1,1,,,,31301231301
+2,Canada,15,Hamza Tariq,Ehsan Khan,Rizwan Cheema,,0,1,1,,,,31301231301
+2,Canada,15,Rizwan Cheema,Ehsan Khan,Hamza Tariq,,0,1,1,,,,31301231301
+2,Canada,15,Hamza Tariq,Ehsan Khan,Rizwan Cheema,,0,4,4,,,,31301231301
+2,Canada,15,Hamza Tariq,Ehsan Khan,Rizwan Cheema,,0,1,1,,,,31301231301
+2,Canada,15,Rizwan Cheema,Ehsan Khan,Hamza Tariq,,0,0,0,,,,31301231301
+2,Canada,16,Hamza Tariq,Nasrulla Rana,Rizwan Cheema,,0,4,4,,,,31301231301
+2,Canada,16,Hamza Tariq,Nasrulla Rana,Rizwan Cheema,wides,1,1,0,,,,31301231301
+2,Canada,16,Hamza Tariq,Nasrulla Rana,Rizwan Cheema,,0,0,0,caught,Hamza Tariq,KD Shah,31301231301
+2,Canada,16,Rizwan Cheema,Nasrulla Rana,D Heyliger,,0,1,1,run out,Rizwan Cheema,,31301231301
+2,Canada,16,N Dutta,Nasrulla Rana,D Heyliger,wides,1,1,0,,,,31301231301
+2,Canada,16,N Dutta,Nasrulla Rana,D Heyliger,wides,1,1,0,,,,31301231301
+2,Canada,16,N Dutta,Nasrulla Rana,D Heyliger,,0,1,1,,,,31301231301
+2,Canada,16,D Heyliger,Nasrulla Rana,N Dutta,,0,0,0,,,,31301231301
+2,Canada,16,D Heyliger,Nasrulla Rana,N Dutta,,0,0,0,,,,31301231301
+2,Canada,17,N Dutta,K Christie,D Heyliger,,0,1,1,,,,31301231301
+2,Canada,17,D Heyliger,K Christie,N Dutta,wides,1,1,0,,,,31301231301
+2,Canada,17,D Heyliger,K Christie,N Dutta,,0,0,0,caught,D Heyliger,KD Shah,31301231301
+2,Canada,17,Abraash Khan,K Christie,N Dutta,,0,1,1,,,,31301231301
+2,Canada,17,N Dutta,K Christie,Abraash Khan,,0,2,2,,,,31301231301
+2,Canada,17,N Dutta,K Christie,Abraash Khan,,0,4,4,,,,31301231301
+2,Canada,17,N Dutta,K Christie,Abraash Khan,,0,0,0,,,,31301231301
+2,Canada,18,Abraash Khan,Aizaz Khan,N Dutta,,0,6,6,,,,31301231301
+2,Canada,18,Abraash Khan,Aizaz Khan,N Dutta,,0,4,4,,,,31301231301
+2,Canada,18,Abraash Khan,Aizaz Khan,N Dutta,,0,1,1,,,,31301231301
+2,Canada,18,N Dutta,Aizaz Khan,Abraash Khan,,0,1,1,,,,31301231301
+2,Canada,18,Abraash Khan,Aizaz Khan,N Dutta,,0,1,1,,,,31301231301
+2,Canada,18,N Dutta,Aizaz Khan,Abraash Khan,,0,1,1,,,,31301231301
+2,Canada,19,N Dutta,K Christie,Abraash Khan,,0,1,1,,,,31301231301
+2,Canada,19,Abraash Khan,K Christie,N Dutta,,0,0,0,lbw,Abraash Khan,,31301231301
+2,Canada,19,Saad Bin Zafar,K Christie,N Dutta,,0,1,1,,,,31301231301
+2,Canada,19,N Dutta,K Christie,Saad Bin Zafar,,0,1,1,run out,N Dutta,,31301231301
+2,Canada,19,JOA Gordon,K Christie,Saad Bin Zafar,,0,0,0,,,,31301231301
+2,Canada,19,JOA Gordon,K Christie,Saad Bin Zafar,,0,1,1,,,,31301231301

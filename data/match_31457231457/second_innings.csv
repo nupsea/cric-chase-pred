@@ -1,0 +1,81 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,South Africa,0,F Tunnicliffe,Anam Amin,A Bosch,,0,0,0,,,,31457231457
+2,South Africa,0,F Tunnicliffe,Anam Amin,A Bosch,,0,0,0,,,,31457231457
+2,South Africa,0,F Tunnicliffe,Anam Amin,A Bosch,,0,0,0,,,,31457231457
+2,South Africa,0,F Tunnicliffe,Anam Amin,A Bosch,,0,1,1,,,,31457231457
+2,South Africa,0,A Bosch,Anam Amin,F Tunnicliffe,,0,0,0,,,,31457231457
+2,South Africa,0,A Bosch,Anam Amin,F Tunnicliffe,,0,1,1,,,,31457231457
+2,South Africa,1,A Bosch,Diana Baig,F Tunnicliffe,,0,1,1,,,,31457231457
+2,South Africa,1,F Tunnicliffe,Diana Baig,A Bosch,,0,0,0,,,,31457231457
+2,South Africa,1,F Tunnicliffe,Diana Baig,A Bosch,,0,0,0,run out,F Tunnicliffe,,31457231457
+2,South Africa,1,M Kapp,Diana Baig,A Bosch,,0,0,0,,,,31457231457
+2,South Africa,1,M Kapp,Diana Baig,A Bosch,,0,1,1,,,,31457231457
+2,South Africa,1,A Bosch,Diana Baig,M Kapp,,0,0,0,,,,31457231457
+2,South Africa,2,M Kapp,Anam Amin,A Bosch,,0,0,0,,,,31457231457
+2,South Africa,2,M Kapp,Anam Amin,A Bosch,,0,0,0,bowled,M Kapp,,31457231457
+2,South Africa,2,M du Preez,Anam Amin,A Bosch,,0,1,1,,,,31457231457
+2,South Africa,2,A Bosch,Anam Amin,M du Preez,,0,0,0,,,,31457231457
+2,South Africa,2,A Bosch,Anam Amin,M du Preez,,0,0,0,,,,31457231457
+2,South Africa,2,A Bosch,Anam Amin,M du Preez,,0,1,1,,,,31457231457
+2,South Africa,3,A Bosch,Diana Baig,M du Preez,,0,0,0,,,,31457231457
+2,South Africa,3,A Bosch,Diana Baig,M du Preez,,0,0,0,,,,31457231457
+2,South Africa,3,A Bosch,Diana Baig,M du Preez,,0,4,4,,,,31457231457
+2,South Africa,3,A Bosch,Diana Baig,M du Preez,wides,1,1,0,,,,31457231457
+2,South Africa,3,A Bosch,Diana Baig,M du Preez,,0,1,1,,,,31457231457
+2,South Africa,3,M du Preez,Diana Baig,A Bosch,,0,0,0,,,,31457231457
+2,South Africa,3,M du Preez,Diana Baig,A Bosch,,0,1,1,,,,31457231457
+2,South Africa,4,M du Preez,Anam Amin,A Bosch,,0,0,0,,,,31457231457
+2,South Africa,4,M du Preez,Anam Amin,A Bosch,,0,0,0,,,,31457231457
+2,South Africa,4,M du Preez,Anam Amin,A Bosch,,0,0,0,,,,31457231457
+2,South Africa,4,M du Preez,Anam Amin,A Bosch,,0,4,4,,,,31457231457
+2,South Africa,4,M du Preez,Anam Amin,A Bosch,,0,0,0,,,,31457231457
+2,South Africa,4,M du Preez,Anam Amin,A Bosch,,0,0,0,,,,31457231457
+2,South Africa,5,A Bosch,Aiman Anwer,M du Preez,,0,0,0,,,,31457231457
+2,South Africa,5,A Bosch,Aiman Anwer,M du Preez,,0,0,0,,,,31457231457
+2,South Africa,5,A Bosch,Aiman Anwer,M du Preez,,0,4,4,,,,31457231457
+2,South Africa,5,A Bosch,Aiman Anwer,M du Preez,,0,0,0,,,,31457231457
+2,South Africa,5,A Bosch,Aiman Anwer,M du Preez,,0,0,0,,,,31457231457
+2,South Africa,5,A Bosch,Aiman Anwer,M du Preez,,0,1,1,,,,31457231457
+2,South Africa,6,A Bosch,Anam Amin,M du Preez,legbyes,1,1,0,,,,31457231457
+2,South Africa,6,M du Preez,Anam Amin,A Bosch,,0,0,0,,,,31457231457
+2,South Africa,6,M du Preez,Anam Amin,A Bosch,,0,1,1,,,,31457231457
+2,South Africa,6,A Bosch,Anam Amin,M du Preez,,0,0,0,caught and bowled,A Bosch,,31457231457
+2,South Africa,6,L Goodall,Anam Amin,M du Preez,,0,1,1,,,,31457231457
+2,South Africa,6,M du Preez,Anam Amin,L Goodall,,0,4,4,,,,31457231457
+2,South Africa,7,L Goodall,Aiman Anwer,M du Preez,,0,0,0,,,,31457231457
+2,South Africa,7,L Goodall,Aiman Anwer,M du Preez,legbyes,1,1,0,,,,31457231457
+2,South Africa,7,M du Preez,Aiman Anwer,L Goodall,,0,1,1,,,,31457231457
+2,South Africa,7,L Goodall,Aiman Anwer,M du Preez,,0,2,2,,,,31457231457
+2,South Africa,7,L Goodall,Aiman Anwer,M du Preez,,0,2,2,,,,31457231457
+2,South Africa,7,L Goodall,Aiman Anwer,M du Preez,,0,1,1,,,,31457231457
+2,South Africa,8,L Goodall,Nashra Sandhu,M du Preez,,0,1,1,,,,31457231457
+2,South Africa,8,M du Preez,Nashra Sandhu,L Goodall,,0,1,1,,,,31457231457
+2,South Africa,8,L Goodall,Nashra Sandhu,M du Preez,,0,2,2,,,,31457231457
+2,South Africa,8,L Goodall,Nashra Sandhu,M du Preez,,0,1,1,,,,31457231457
+2,South Africa,8,M du Preez,Nashra Sandhu,L Goodall,,0,1,1,,,,31457231457
+2,South Africa,8,L Goodall,Nashra Sandhu,M du Preez,,0,1,1,,,,31457231457
+2,South Africa,9,L Goodall,Nida Dar,M du Preez,noballs,1,1,0,,,,31457231457
+2,South Africa,9,L Goodall,Nida Dar,M du Preez,,0,0,0,,,,31457231457
+2,South Africa,9,L Goodall,Nida Dar,M du Preez,wides,1,1,0,,,,31457231457
+2,South Africa,9,L Goodall,Nida Dar,M du Preez,,0,0,0,bowled,L Goodall,,31457231457
+2,South Africa,9,S Luus,Nida Dar,M du Preez,,0,0,0,,,,31457231457
+2,South Africa,9,S Luus,Nida Dar,M du Preez,,0,1,1,,,,31457231457
+2,South Africa,9,M du Preez,Nida Dar,S Luus,,0,0,0,,,,31457231457
+2,South Africa,9,M du Preez,Nida Dar,S Luus,wides,1,1,0,,,,31457231457
+2,South Africa,9,M du Preez,Nida Dar,S Luus,,0,4,4,,,,31457231457
+2,South Africa,10,S Luus,Nashra Sandhu,M du Preez,,0,0,0,,,,31457231457
+2,South Africa,10,S Luus,Nashra Sandhu,M du Preez,,0,1,1,,,,31457231457
+2,South Africa,10,M du Preez,Nashra Sandhu,S Luus,,0,1,1,,,,31457231457
+2,South Africa,10,S Luus,Nashra Sandhu,M du Preez,,0,2,2,,,,31457231457
+2,South Africa,10,S Luus,Nashra Sandhu,M du Preez,,0,1,1,,,,31457231457
+2,South Africa,10,M du Preez,Nashra Sandhu,S Luus,noballs,1,2,1,,,,31457231457
+2,South Africa,10,S Luus,Nashra Sandhu,M du Preez,,0,1,1,,,,31457231457
+2,South Africa,11,S Luus,Nida Dar,M du Preez,,0,2,2,,,,31457231457
+2,South Africa,11,S Luus,Nida Dar,M du Preez,,0,0,0,,,,31457231457
+2,South Africa,11,S Luus,Nida Dar,M du Preez,,0,1,1,,,,31457231457
+2,South Africa,11,M du Preez,Nida Dar,S Luus,,0,2,2,,,,31457231457
+2,South Africa,11,M du Preez,Nida Dar,S Luus,byes,1,1,0,,,,31457231457
+2,South Africa,11,S Luus,Nida Dar,M du Preez,,0,0,0,,,,31457231457
+2,South Africa,12,M du Preez,Nashra Sandhu,S Luus,,0,1,1,,,,31457231457
+2,South Africa,12,S Luus,Nashra Sandhu,M du Preez,,0,1,1,,,,31457231457
+2,South Africa,12,M du Preez,Nashra Sandhu,S Luus,,0,1,1,,,,31457231457

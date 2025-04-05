@@ -1,0 +1,105 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Sri Lanka,0,AC Jayangani,SC Selman,BYA Mendis,,0,0,0,,,,343523435
+1,Sri Lanka,0,AC Jayangani,SC Selman,BYA Mendis,,0,1,1,,,,343523435
+1,Sri Lanka,0,BYA Mendis,SC Selman,AC Jayangani,,0,0,0,,,,343523435
+1,Sri Lanka,0,BYA Mendis,SC Selman,AC Jayangani,noballs,1,5,4,,,,343523435
+1,Sri Lanka,0,BYA Mendis,SC Selman,AC Jayangani,,0,4,4,,,,343523435
+1,Sri Lanka,0,BYA Mendis,SC Selman,AC Jayangani,,0,4,4,,,,343523435
+1,Sri Lanka,0,BYA Mendis,SC Selman,AC Jayangani,,0,0,0,,,,343523435
+1,Sri Lanka,1,AC Jayangani,TD Smartt,BYA Mendis,,0,1,1,,,,343523435
+1,Sri Lanka,1,BYA Mendis,TD Smartt,AC Jayangani,,0,1,1,,,,343523435
+1,Sri Lanka,1,AC Jayangani,TD Smartt,BYA Mendis,,0,0,0,,,,343523435
+1,Sri Lanka,1,AC Jayangani,TD Smartt,BYA Mendis,,0,0,0,,,,343523435
+1,Sri Lanka,1,AC Jayangani,TD Smartt,BYA Mendis,,0,1,1,,,,343523435
+1,Sri Lanka,1,BYA Mendis,TD Smartt,AC Jayangani,byes,1,1,0,,,,343523435
+1,Sri Lanka,2,BYA Mendis,SL Quintyne,AC Jayangani,,0,0,0,,,,343523435
+1,Sri Lanka,2,BYA Mendis,SL Quintyne,AC Jayangani,,0,1,1,,,,343523435
+1,Sri Lanka,2,AC Jayangani,SL Quintyne,BYA Mendis,,0,0,0,,,,343523435
+1,Sri Lanka,2,AC Jayangani,SL Quintyne,BYA Mendis,,0,0,0,,,,343523435
+1,Sri Lanka,2,AC Jayangani,SL Quintyne,BYA Mendis,,0,0,0,,,,343523435
+1,Sri Lanka,2,AC Jayangani,SL Quintyne,BYA Mendis,,0,0,0,,,,343523435
+1,Sri Lanka,3,BYA Mendis,TD Smartt,AC Jayangani,noballs,1,5,4,,,,343523435
+1,Sri Lanka,3,BYA Mendis,TD Smartt,AC Jayangani,,0,1,1,,,,343523435
+1,Sri Lanka,3,AC Jayangani,TD Smartt,BYA Mendis,,0,0,0,bowled,AC Jayangani,,343523435
+1,Sri Lanka,3,SS Weerakkody,TD Smartt,BYA Mendis,,0,1,1,,,,343523435
+1,Sri Lanka,3,BYA Mendis,TD Smartt,SS Weerakkody,,0,0,0,,,,343523435
+1,Sri Lanka,3,BYA Mendis,TD Smartt,SS Weerakkody,,0,0,0,,,,343523435
+1,Sri Lanka,3,BYA Mendis,TD Smartt,SS Weerakkody,,0,0,0,,,,343523435
+1,Sri Lanka,4,SS Weerakkody,SL Quintyne,BYA Mendis,,0,0,0,,,,343523435
+1,Sri Lanka,4,SS Weerakkody,SL Quintyne,BYA Mendis,,0,4,4,,,,343523435
+1,Sri Lanka,4,SS Weerakkody,SL Quintyne,BYA Mendis,,0,0,0,,,,343523435
+1,Sri Lanka,4,SS Weerakkody,SL Quintyne,BYA Mendis,noballs,1,1,0,,,,343523435
+1,Sri Lanka,4,SS Weerakkody,SL Quintyne,BYA Mendis,,0,4,4,,,,343523435
+1,Sri Lanka,4,SS Weerakkody,SL Quintyne,BYA Mendis,byes,4,4,0,,,,343523435
+1,Sri Lanka,4,SS Weerakkody,SL Quintyne,BYA Mendis,,0,0,0,,,,343523435
+1,Sri Lanka,5,BYA Mendis,SF Daley,SS Weerakkody,,0,0,0,,,,343523435
+1,Sri Lanka,5,BYA Mendis,SF Daley,SS Weerakkody,,0,2,2,,,,343523435
+1,Sri Lanka,5,BYA Mendis,SF Daley,SS Weerakkody,,0,0,0,caught,BYA Mendis,TD Smartt,343523435
+1,Sri Lanka,5,SS Weerakkody,SF Daley,HASD Siriwardene,,0,2,2,,,,343523435
+1,Sri Lanka,5,SS Weerakkody,SF Daley,HASD Siriwardene,,0,0,0,caught,SS Weerakkody,DJS Dottin,343523435
+1,Sri Lanka,5,HASD Siriwardene,SF Daley,PRCS Kumarihami,,0,4,4,,,,343523435
+1,Sri Lanka,6,PRCS Kumarihami,A Mohammed,HASD Siriwardene,,0,2,2,,,,343523435
+1,Sri Lanka,6,PRCS Kumarihami,A Mohammed,HASD Siriwardene,,0,0,0,run out,PRCS Kumarihami,SR Taylor,343523435
+1,Sri Lanka,6,LE Kaushalya,A Mohammed,HASD Siriwardene,,0,0,0,,,,343523435
+1,Sri Lanka,6,LE Kaushalya,A Mohammed,HASD Siriwardene,,0,4,4,,,,343523435
+1,Sri Lanka,6,LE Kaushalya,A Mohammed,HASD Siriwardene,,0,1,1,,,,343523435
+1,Sri Lanka,6,HASD Siriwardene,A Mohammed,LE Kaushalya,,0,0,0,,,,343523435
+1,Sri Lanka,7,LE Kaushalya,SF Daley,HASD Siriwardene,,0,1,1,,,,343523435
+1,Sri Lanka,7,HASD Siriwardene,SF Daley,LE Kaushalya,,0,0,0,,,,343523435
+1,Sri Lanka,7,HASD Siriwardene,SF Daley,LE Kaushalya,,0,0,0,,,,343523435
+1,Sri Lanka,7,HASD Siriwardene,SF Daley,LE Kaushalya,,0,1,1,,,,343523435
+1,Sri Lanka,7,LE Kaushalya,SF Daley,HASD Siriwardene,,0,0,0,,,,343523435
+1,Sri Lanka,7,LE Kaushalya,SF Daley,HASD Siriwardene,,0,1,1,,,,343523435
+1,Sri Lanka,8,LE Kaushalya,SC Selman,HASD Siriwardene,,0,1,1,,,,343523435
+1,Sri Lanka,8,HASD Siriwardene,SC Selman,LE Kaushalya,,0,0,0,,,,343523435
+1,Sri Lanka,8,HASD Siriwardene,SC Selman,LE Kaushalya,,0,1,1,,,,343523435
+1,Sri Lanka,8,LE Kaushalya,SC Selman,HASD Siriwardene,,0,0,0,,,,343523435
+1,Sri Lanka,8,LE Kaushalya,SC Selman,HASD Siriwardene,,0,1,1,,,,343523435
+1,Sri Lanka,8,HASD Siriwardene,SC Selman,LE Kaushalya,,0,1,1,,,,343523435
+1,Sri Lanka,9,HASD Siriwardene,A Mohammed,LE Kaushalya,,0,1,1,,,,343523435
+1,Sri Lanka,9,LE Kaushalya,A Mohammed,HASD Siriwardene,,0,0,0,,,,343523435
+1,Sri Lanka,9,LE Kaushalya,A Mohammed,HASD Siriwardene,,0,0,0,,,,343523435
+1,Sri Lanka,9,LE Kaushalya,A Mohammed,HASD Siriwardene,,0,1,1,,,,343523435
+1,Sri Lanka,9,HASD Siriwardene,A Mohammed,LE Kaushalya,,0,0,0,,,,343523435
+1,Sri Lanka,9,HASD Siriwardene,A Mohammed,LE Kaushalya,,0,0,0,,,,343523435
+1,Sri Lanka,10,LE Kaushalya,TD Smartt,HASD Siriwardene,,0,0,0,,,,343523435
+1,Sri Lanka,10,LE Kaushalya,TD Smartt,HASD Siriwardene,,0,2,2,,,,343523435
+1,Sri Lanka,10,LE Kaushalya,TD Smartt,HASD Siriwardene,,0,1,1,,,,343523435
+1,Sri Lanka,10,HASD Siriwardene,TD Smartt,LE Kaushalya,,0,0,0,,,,343523435
+1,Sri Lanka,10,HASD Siriwardene,TD Smartt,LE Kaushalya,,0,0,0,,,,343523435
+1,Sri Lanka,10,HASD Siriwardene,TD Smartt,LE Kaushalya,,0,0,0,,,,343523435
+1,Sri Lanka,11,LE Kaushalya,SF Daley,HASD Siriwardene,,0,1,1,,,,343523435
+1,Sri Lanka,11,HASD Siriwardene,SF Daley,LE Kaushalya,,0,0,0,,,,343523435
+1,Sri Lanka,11,HASD Siriwardene,SF Daley,LE Kaushalya,,0,1,1,,,,343523435
+1,Sri Lanka,11,LE Kaushalya,SF Daley,HASD Siriwardene,,0,1,1,,,,343523435
+1,Sri Lanka,11,HASD Siriwardene,SF Daley,LE Kaushalya,,0,0,0,caught,HASD Siriwardene,SR Taylor,343523435
+1,Sri Lanka,11,OU Ranasinghe,SF Daley,LE Kaushalya,,0,0,0,,,,343523435
+1,Sri Lanka,12,LE Kaushalya,SL Quintyne,OU Ranasinghe,,0,1,1,,,,343523435
+1,Sri Lanka,12,OU Ranasinghe,SL Quintyne,LE Kaushalya,,0,1,1,,,,343523435
+1,Sri Lanka,12,LE Kaushalya,SL Quintyne,OU Ranasinghe,,0,1,1,,,,343523435
+1,Sri Lanka,12,OU Ranasinghe,SL Quintyne,LE Kaushalya,,0,0,0,,,,343523435
+1,Sri Lanka,12,OU Ranasinghe,SL Quintyne,LE Kaushalya,,0,0,0,lbw,OU Ranasinghe,,343523435
+1,Sri Lanka,12,KDU Prabodhani,SL Quintyne,LE Kaushalya,,0,1,1,,,,343523435
+1,Sri Lanka,13,KDU Prabodhani,SC Selman,LE Kaushalya,legbyes,1,1,0,,,,343523435
+1,Sri Lanka,13,LE Kaushalya,SC Selman,KDU Prabodhani,,0,1,1,,,,343523435
+1,Sri Lanka,13,KDU Prabodhani,SC Selman,LE Kaushalya,,0,0,0,,,,343523435
+1,Sri Lanka,13,KDU Prabodhani,SC Selman,LE Kaushalya,,0,1,1,,,,343523435
+1,Sri Lanka,13,LE Kaushalya,SC Selman,KDU Prabodhani,,0,1,1,,,,343523435
+1,Sri Lanka,13,KDU Prabodhani,SC Selman,LE Kaushalya,,0,0,0,,,,343523435
+1,Sri Lanka,14,LE Kaushalya,A Mohammed,KDU Prabodhani,,0,1,1,,,,343523435
+1,Sri Lanka,14,KDU Prabodhani,A Mohammed,LE Kaushalya,,0,0,0,,,,343523435
+1,Sri Lanka,14,KDU Prabodhani,A Mohammed,LE Kaushalya,,0,1,1,,,,343523435
+1,Sri Lanka,14,LE Kaushalya,A Mohammed,KDU Prabodhani,,0,0,0,,,,343523435
+1,Sri Lanka,14,LE Kaushalya,A Mohammed,KDU Prabodhani,,0,0,0,caught,LE Kaushalya,Kycia A Knight,343523435
+1,Sri Lanka,14,I Ranaweera,A Mohammed,KDU Prabodhani,,0,1,1,,,,343523435
+1,Sri Lanka,15,I Ranaweera,SF Daley,KDU Prabodhani,legbyes,1,1,0,,,,343523435
+1,Sri Lanka,15,KDU Prabodhani,SF Daley,I Ranaweera,,0,0,0,,,,343523435
+1,Sri Lanka,15,KDU Prabodhani,SF Daley,I Ranaweera,,0,0,0,,,,343523435
+1,Sri Lanka,15,KDU Prabodhani,SF Daley,I Ranaweera,,0,1,1,,,,343523435
+1,Sri Lanka,15,I Ranaweera,SF Daley,KDU Prabodhani,,0,0,0,,,,343523435
+1,Sri Lanka,15,I Ranaweera,SF Daley,KDU Prabodhani,,0,0,0,lbw,I Ranaweera,,343523435
+1,Sri Lanka,16,KDU Prabodhani,TD Smartt,HAM Samuddika,,0,0,0,,,,343523435
+1,Sri Lanka,16,KDU Prabodhani,TD Smartt,HAM Samuddika,,0,0,0,bowled,KDU Prabodhani,,343523435
+1,Sri Lanka,16,RS Vandort,TD Smartt,HAM Samuddika,,0,1,1,,,,343523435
+1,Sri Lanka,16,HAM Samuddika,TD Smartt,RS Vandort,,0,1,1,,,,343523435
+1,Sri Lanka,16,RS Vandort,TD Smartt,HAM Samuddika,,0,0,0,bowled,RS Vandort,,343523435

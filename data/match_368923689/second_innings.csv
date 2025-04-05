@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,South Africa,0,JT Smuts,DJ Willey,RR Hendricks,wides,1,1,0,,,,368923689
+2,South Africa,0,JT Smuts,DJ Willey,RR Hendricks,legbyes,4,4,0,,,,368923689
+2,South Africa,0,JT Smuts,DJ Willey,RR Hendricks,,0,0,0,,,,368923689
+2,South Africa,0,JT Smuts,DJ Willey,RR Hendricks,,0,3,3,,,,368923689
+2,South Africa,0,RR Hendricks,DJ Willey,JT Smuts,,0,0,0,,,,368923689
+2,South Africa,0,RR Hendricks,DJ Willey,JT Smuts,,0,0,0,,,,368923689
+2,South Africa,0,RR Hendricks,DJ Willey,JT Smuts,,0,0,0,,,,368923689
+2,South Africa,1,JT Smuts,TK Curran,RR Hendricks,,0,1,1,,,,368923689
+2,South Africa,1,RR Hendricks,TK Curran,JT Smuts,legbyes,1,1,0,,,,368923689
+2,South Africa,1,JT Smuts,TK Curran,RR Hendricks,,0,0,0,,,,368923689
+2,South Africa,1,JT Smuts,TK Curran,RR Hendricks,,0,0,0,,,,368923689
+2,South Africa,1,JT Smuts,TK Curran,RR Hendricks,,0,1,1,,,,368923689
+2,South Africa,1,RR Hendricks,TK Curran,JT Smuts,,0,0,0,caught,RR Hendricks,LE Plunkett,368923689
+2,South Africa,2,JT Smuts,DJ Willey,CH Morris,,0,0,0,,,,368923689
+2,South Africa,2,JT Smuts,DJ Willey,CH Morris,,0,0,0,,,,368923689
+2,South Africa,2,JT Smuts,DJ Willey,CH Morris,,0,1,1,,,,368923689
+2,South Africa,2,CH Morris,DJ Willey,JT Smuts,,0,0,0,,,,368923689
+2,South Africa,2,CH Morris,DJ Willey,JT Smuts,,0,0,0,,,,368923689
+2,South Africa,2,CH Morris,DJ Willey,JT Smuts,,0,1,1,,,,368923689
+2,South Africa,3,CH Morris,TK Curran,JT Smuts,,0,0,0,,,,368923689
+2,South Africa,3,CH Morris,TK Curran,JT Smuts,,0,3,3,,,,368923689
+2,South Africa,3,JT Smuts,TK Curran,CH Morris,legbyes,1,1,0,,,,368923689
+2,South Africa,3,CH Morris,TK Curran,JT Smuts,,0,4,4,,,,368923689
+2,South Africa,3,CH Morris,TK Curran,JT Smuts,,0,0,0,,,,368923689
+2,South Africa,3,CH Morris,TK Curran,JT Smuts,,0,0,0,,,,368923689
+2,South Africa,4,JT Smuts,CJ Jordan,CH Morris,,0,1,1,,,,368923689
+2,South Africa,4,CH Morris,CJ Jordan,JT Smuts,,0,0,0,caught,CH Morris,AD Hales,368923689
+2,South Africa,4,JT Smuts,CJ Jordan,AB de Villiers,,0,0,0,,,,368923689
+2,South Africa,4,JT Smuts,CJ Jordan,AB de Villiers,,0,0,0,,,,368923689
+2,South Africa,4,JT Smuts,CJ Jordan,AB de Villiers,,0,1,1,,,,368923689
+2,South Africa,4,AB de Villiers,CJ Jordan,JT Smuts,,0,3,3,,,,368923689
+2,South Africa,5,AB de Villiers,LE Plunkett,JT Smuts,,0,1,1,,,,368923689
+2,South Africa,5,JT Smuts,LE Plunkett,AB de Villiers,,0,0,0,,,,368923689
+2,South Africa,5,JT Smuts,LE Plunkett,AB de Villiers,,0,0,0,,,,368923689
+2,South Africa,5,JT Smuts,LE Plunkett,AB de Villiers,,0,6,6,,,,368923689
+2,South Africa,5,JT Smuts,LE Plunkett,AB de Villiers,,0,4,4,,,,368923689
+2,South Africa,5,JT Smuts,LE Plunkett,AB de Villiers,,0,1,1,,,,368923689
+2,South Africa,6,JT Smuts,MS Crane,AB de Villiers,,0,4,4,,,,368923689
+2,South Africa,6,JT Smuts,MS Crane,AB de Villiers,,0,0,0,,,,368923689
+2,South Africa,6,JT Smuts,MS Crane,AB de Villiers,,0,1,1,,,,368923689
+2,South Africa,6,AB de Villiers,MS Crane,JT Smuts,,0,2,2,,,,368923689
+2,South Africa,6,AB de Villiers,MS Crane,JT Smuts,,0,1,1,,,,368923689
+2,South Africa,6,JT Smuts,MS Crane,AB de Villiers,,0,1,1,,,,368923689
+2,South Africa,7,JT Smuts,LE Plunkett,AB de Villiers,,0,1,1,,,,368923689
+2,South Africa,7,AB de Villiers,LE Plunkett,JT Smuts,,0,1,1,,,,368923689
+2,South Africa,7,JT Smuts,LE Plunkett,AB de Villiers,,0,0,0,,,,368923689
+2,South Africa,7,JT Smuts,LE Plunkett,AB de Villiers,,0,1,1,,,,368923689
+2,South Africa,7,AB de Villiers,LE Plunkett,JT Smuts,,0,0,0,,,,368923689
+2,South Africa,7,AB de Villiers,LE Plunkett,JT Smuts,,0,0,0,,,,368923689
+2,South Africa,8,JT Smuts,MS Crane,AB de Villiers,,0,1,1,,,,368923689
+2,South Africa,8,AB de Villiers,MS Crane,JT Smuts,,0,1,1,,,,368923689
+2,South Africa,8,JT Smuts,MS Crane,AB de Villiers,,0,1,1,,,,368923689
+2,South Africa,8,AB de Villiers,MS Crane,JT Smuts,,0,4,4,,,,368923689
+2,South Africa,8,AB de Villiers,MS Crane,JT Smuts,,0,0,0,,,,368923689
+2,South Africa,8,AB de Villiers,MS Crane,JT Smuts,,0,2,2,,,,368923689
+2,South Africa,9,JT Smuts,LE Plunkett,AB de Villiers,,0,0,0,caught,JT Smuts,DJ Malan,368923689
+2,South Africa,9,AB de Villiers,LE Plunkett,DA Miller,,0,1,1,,,,368923689
+2,South Africa,9,DA Miller,LE Plunkett,AB de Villiers,,0,1,1,,,,368923689
+2,South Africa,9,AB de Villiers,LE Plunkett,DA Miller,,0,1,1,,,,368923689
+2,South Africa,9,DA Miller,LE Plunkett,AB de Villiers,,0,1,1,,,,368923689
+2,South Africa,9,AB de Villiers,LE Plunkett,DA Miller,,0,1,1,,,,368923689
+2,South Africa,10,AB de Villiers,MS Crane,DA Miller,,0,4,4,,,,368923689
+2,South Africa,10,AB de Villiers,MS Crane,DA Miller,,0,6,6,,,,368923689
+2,South Africa,10,AB de Villiers,MS Crane,DA Miller,,0,6,6,,,,368923689
+2,South Africa,10,AB de Villiers,MS Crane,DA Miller,,0,1,1,,,,368923689
+2,South Africa,10,DA Miller,MS Crane,AB de Villiers,,0,1,1,,,,368923689
+2,South Africa,10,AB de Villiers,MS Crane,DA Miller,,0,0,0,caught,AB de Villiers,AD Hales,368923689
+2,South Africa,11,DA Miller,CJ Jordan,F Behardien,,0,2,2,,,,368923689
+2,South Africa,11,DA Miller,CJ Jordan,F Behardien,,0,2,2,,,,368923689
+2,South Africa,11,DA Miller,CJ Jordan,F Behardien,,0,0,0,caught,DA Miller,JC Buttler,368923689
+2,South Africa,11,M Mosehle,CJ Jordan,F Behardien,,0,0,0,,,,368923689
+2,South Africa,11,M Mosehle,CJ Jordan,F Behardien,,0,0,0,,,,368923689
+2,South Africa,11,M Mosehle,CJ Jordan,F Behardien,,0,0,0,,,,368923689
+2,South Africa,12,F Behardien,MS Crane,M Mosehle,,0,2,2,,,,368923689
+2,South Africa,12,F Behardien,MS Crane,M Mosehle,,0,0,0,,,,368923689
+2,South Africa,12,F Behardien,MS Crane,M Mosehle,,0,0,0,,,,368923689
+2,South Africa,12,F Behardien,MS Crane,M Mosehle,,0,0,0,,,,368923689
+2,South Africa,12,F Behardien,MS Crane,M Mosehle,,0,0,0,,,,368923689
+2,South Africa,12,F Behardien,MS Crane,M Mosehle,,0,0,0,,,,368923689
+2,South Africa,13,M Mosehle,CJ Jordan,F Behardien,,0,1,1,,,,368923689
+2,South Africa,13,F Behardien,CJ Jordan,M Mosehle,,0,1,1,,,,368923689
+2,South Africa,13,M Mosehle,CJ Jordan,F Behardien,,0,1,1,,,,368923689
+2,South Africa,13,F Behardien,CJ Jordan,M Mosehle,,0,0,0,caught,F Behardien,SW Billings,368923689
+2,South Africa,13,M Mosehle,CJ Jordan,AL Phehlukwayo,,0,1,1,,,,368923689
+2,South Africa,13,AL Phehlukwayo,CJ Jordan,M Mosehle,wides,1,1,0,,,,368923689
+2,South Africa,13,AL Phehlukwayo,CJ Jordan,M Mosehle,,0,0,0,,,,368923689
+2,South Africa,14,M Mosehle,DJ Willey,AL Phehlukwayo,,0,6,6,,,,368923689
+2,South Africa,14,M Mosehle,DJ Willey,AL Phehlukwayo,,0,1,1,,,,368923689
+2,South Africa,14,AL Phehlukwayo,DJ Willey,M Mosehle,,0,2,2,,,,368923689
+2,South Africa,14,AL Phehlukwayo,DJ Willey,M Mosehle,,0,4,4,,,,368923689
+2,South Africa,14,AL Phehlukwayo,DJ Willey,M Mosehle,,0,4,4,,,,368923689
+2,South Africa,14,AL Phehlukwayo,DJ Willey,M Mosehle,,0,1,1,,,,368923689
+2,South Africa,15,AL Phehlukwayo,LE Plunkett,M Mosehle,,0,0,0,,,,368923689
+2,South Africa,15,AL Phehlukwayo,LE Plunkett,M Mosehle,,0,1,1,,,,368923689
+2,South Africa,15,M Mosehle,LE Plunkett,AL Phehlukwayo,legbyes,2,2,0,,,,368923689
+2,South Africa,15,M Mosehle,LE Plunkett,AL Phehlukwayo,,0,1,1,,,,368923689
+2,South Africa,15,AL Phehlukwayo,LE Plunkett,M Mosehle,,0,0,0,,,,368923689
+2,South Africa,15,AL Phehlukwayo,LE Plunkett,M Mosehle,,0,0,0,,,,368923689
+2,South Africa,16,M Mosehle,TK Curran,AL Phehlukwayo,,0,0,0,,,,368923689
+2,South Africa,16,M Mosehle,TK Curran,AL Phehlukwayo,,0,0,0,,,,368923689
+2,South Africa,16,M Mosehle,TK Curran,AL Phehlukwayo,,0,0,0,,,,368923689
+2,South Africa,16,M Mosehle,TK Curran,AL Phehlukwayo,,0,6,6,,,,368923689
+2,South Africa,16,M Mosehle,TK Curran,AL Phehlukwayo,,0,1,1,,,,368923689
+2,South Africa,16,AL Phehlukwayo,TK Curran,M Mosehle,,0,0,0,,,,368923689
+2,South Africa,17,M Mosehle,DJ Willey,AL Phehlukwayo,,0,6,6,,,,368923689
+2,South Africa,17,M Mosehle,DJ Willey,AL Phehlukwayo,,0,6,6,,,,368923689
+2,South Africa,17,M Mosehle,DJ Willey,AL Phehlukwayo,,0,1,1,,,,368923689
+2,South Africa,17,AL Phehlukwayo,DJ Willey,M Mosehle,,0,2,2,,,,368923689
+2,South Africa,17,AL Phehlukwayo,DJ Willey,M Mosehle,,0,1,1,,,,368923689
+2,South Africa,17,M Mosehle,DJ Willey,AL Phehlukwayo,,0,0,0,,,,368923689
+2,South Africa,18,AL Phehlukwayo,TK Curran,M Mosehle,,0,0,0,,,,368923689
+2,South Africa,18,AL Phehlukwayo,TK Curran,M Mosehle,legbyes,1,1,0,,,,368923689
+2,South Africa,18,M Mosehle,TK Curran,AL Phehlukwayo,,0,1,1,,,,368923689
+2,South Africa,18,AL Phehlukwayo,TK Curran,M Mosehle,,0,1,1,,,,368923689
+2,South Africa,18,M Mosehle,TK Curran,AL Phehlukwayo,,0,4,4,,,,368923689
+2,South Africa,18,M Mosehle,TK Curran,AL Phehlukwayo,,0,0,0,caught,M Mosehle,SW Billings,368923689
+2,South Africa,19,M Morkel,CJ Jordan,AL Phehlukwayo,,0,1,1,,,,368923689
+2,South Africa,19,AL Phehlukwayo,CJ Jordan,M Morkel,,0,4,4,,,,368923689
+2,South Africa,19,AL Phehlukwayo,CJ Jordan,M Morkel,,0,4,4,,,,368923689
+2,South Africa,19,AL Phehlukwayo,CJ Jordan,M Morkel,,0,2,2,,,,368923689
+2,South Africa,19,AL Phehlukwayo,CJ Jordan,M Morkel,noballs,1,1,0,,,,368923689
+2,South Africa,19,AL Phehlukwayo,CJ Jordan,M Morkel,,0,1,1,,,,368923689
+2,South Africa,19,M Morkel,CJ Jordan,AL Phehlukwayo,,0,4,4,,,,368923689

@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Pakistan,0,Fakhar Zaman,DJ Willey,Babar Azam,,0,1,1,,,,392523925
+1,Pakistan,0,Babar Azam,DJ Willey,Fakhar Zaman,wides,1,1,0,,,,392523925
+1,Pakistan,0,Babar Azam,DJ Willey,Fakhar Zaman,,0,1,1,,,,392523925
+1,Pakistan,0,Fakhar Zaman,DJ Willey,Babar Azam,,0,1,1,,,,392523925
+1,Pakistan,0,Babar Azam,DJ Willey,Fakhar Zaman,,0,0,0,,,,392523925
+1,Pakistan,0,Babar Azam,DJ Willey,Fakhar Zaman,,0,2,2,,,,392523925
+1,Pakistan,0,Babar Azam,DJ Willey,Fakhar Zaman,,0,0,0,,,,392523925
+1,Pakistan,1,Fakhar Zaman,TK Curran,Babar Azam,,0,4,4,,,,392523925
+1,Pakistan,1,Fakhar Zaman,TK Curran,Babar Azam,,0,0,0,,,,392523925
+1,Pakistan,1,Fakhar Zaman,TK Curran,Babar Azam,,0,1,1,,,,392523925
+1,Pakistan,1,Babar Azam,TK Curran,Fakhar Zaman,,0,4,4,,,,392523925
+1,Pakistan,1,Babar Azam,TK Curran,Fakhar Zaman,,0,1,1,,,,392523925
+1,Pakistan,1,Fakhar Zaman,TK Curran,Babar Azam,,0,0,0,caught,Fakhar Zaman,EJG Morgan,392523925
+1,Pakistan,2,Babar Azam,DJ Willey,Imam-ul-Haq,,0,0,0,,,,392523925
+1,Pakistan,2,Babar Azam,DJ Willey,Imam-ul-Haq,,0,1,1,,,,392523925
+1,Pakistan,2,Imam-ul-Haq,DJ Willey,Babar Azam,,0,1,1,,,,392523925
+1,Pakistan,2,Babar Azam,DJ Willey,Imam-ul-Haq,,0,2,2,,,,392523925
+1,Pakistan,2,Babar Azam,DJ Willey,Imam-ul-Haq,,0,0,0,,,,392523925
+1,Pakistan,2,Babar Azam,DJ Willey,Imam-ul-Haq,,0,4,4,,,,392523925
+1,Pakistan,3,Imam-ul-Haq,TK Curran,Babar Azam,,0,0,0,,,,392523925
+1,Pakistan,3,Imam-ul-Haq,TK Curran,Babar Azam,,0,0,0,,,,392523925
+1,Pakistan,3,Imam-ul-Haq,TK Curran,Babar Azam,,0,0,0,,,,392523925
+1,Pakistan,3,Imam-ul-Haq,TK Curran,Babar Azam,,0,0,0,,,,392523925
+1,Pakistan,3,Imam-ul-Haq,TK Curran,Babar Azam,,0,1,1,,,,392523925
+1,Pakistan,3,Babar Azam,TK Curran,Imam-ul-Haq,,0,0,0,,,,392523925
+1,Pakistan,4,Imam-ul-Haq,JC Archer,Babar Azam,,0,2,2,,,,392523925
+1,Pakistan,4,Imam-ul-Haq,JC Archer,Babar Azam,,0,2,2,,,,392523925
+1,Pakistan,4,Imam-ul-Haq,JC Archer,Babar Azam,,0,1,1,,,,392523925
+1,Pakistan,4,Babar Azam,JC Archer,Imam-ul-Haq,,0,1,1,,,,392523925
+1,Pakistan,4,Imam-ul-Haq,JC Archer,Babar Azam,,0,0,0,caught,Imam-ul-Haq,BT Foakes,392523925
+1,Pakistan,4,Haris Sohail,JC Archer,Babar Azam,,0,0,0,,,,392523925
+1,Pakistan,5,Babar Azam,CJ Jordan,Haris Sohail,legbyes,1,1,0,,,,392523925
+1,Pakistan,5,Haris Sohail,CJ Jordan,Babar Azam,,0,4,4,,,,392523925
+1,Pakistan,5,Haris Sohail,CJ Jordan,Babar Azam,,0,0,0,,,,392523925
+1,Pakistan,5,Haris Sohail,CJ Jordan,Babar Azam,,0,0,0,,,,392523925
+1,Pakistan,5,Haris Sohail,CJ Jordan,Babar Azam,,0,0,0,,,,392523925
+1,Pakistan,5,Haris Sohail,CJ Jordan,Babar Azam,,0,2,2,,,,392523925
+1,Pakistan,6,Babar Azam,AU Rashid,Haris Sohail,,0,0,0,,,,392523925
+1,Pakistan,6,Babar Azam,AU Rashid,Haris Sohail,,0,1,1,,,,392523925
+1,Pakistan,6,Haris Sohail,AU Rashid,Babar Azam,,0,1,1,,,,392523925
+1,Pakistan,6,Babar Azam,AU Rashid,Haris Sohail,,0,0,0,,,,392523925
+1,Pakistan,6,Babar Azam,AU Rashid,Haris Sohail,,0,1,1,,,,392523925
+1,Pakistan,6,Haris Sohail,AU Rashid,Babar Azam,,0,1,1,,,,392523925
+1,Pakistan,7,Haris Sohail,CJ Jordan,Babar Azam,,0,0,0,,,,392523925
+1,Pakistan,7,Haris Sohail,CJ Jordan,Babar Azam,,0,6,6,,,,392523925
+1,Pakistan,7,Haris Sohail,CJ Jordan,Babar Azam,,0,0,0,,,,392523925
+1,Pakistan,7,Haris Sohail,CJ Jordan,Babar Azam,,0,4,4,,,,392523925
+1,Pakistan,7,Haris Sohail,CJ Jordan,Babar Azam,,0,1,1,,,,392523925
+1,Pakistan,7,Babar Azam,CJ Jordan,Haris Sohail,,0,4,4,,,,392523925
+1,Pakistan,8,Haris Sohail,AU Rashid,Babar Azam,,0,1,1,,,,392523925
+1,Pakistan,8,Babar Azam,AU Rashid,Haris Sohail,,0,6,6,,,,392523925
+1,Pakistan,8,Babar Azam,AU Rashid,Haris Sohail,,0,1,1,,,,392523925
+1,Pakistan,8,Haris Sohail,AU Rashid,Babar Azam,,0,1,1,,,,392523925
+1,Pakistan,8,Babar Azam,AU Rashid,Haris Sohail,,0,1,1,,,,392523925
+1,Pakistan,8,Haris Sohail,AU Rashid,Babar Azam,,0,1,1,,,,392523925
+1,Pakistan,9,Haris Sohail,JC Archer,Babar Azam,,0,2,2,,,,392523925
+1,Pakistan,9,Haris Sohail,JC Archer,Babar Azam,,0,4,4,,,,392523925
+1,Pakistan,9,Haris Sohail,JC Archer,Babar Azam,,0,0,0,,,,392523925
+1,Pakistan,9,Haris Sohail,JC Archer,Babar Azam,,0,2,2,,,,392523925
+1,Pakistan,9,Haris Sohail,JC Archer,Babar Azam,,0,4,4,,,,392523925
+1,Pakistan,9,Haris Sohail,JC Archer,Babar Azam,,0,1,1,,,,392523925
+1,Pakistan,10,Haris Sohail,AU Rashid,Babar Azam,,0,1,1,,,,392523925
+1,Pakistan,10,Babar Azam,AU Rashid,Haris Sohail,,0,0,0,,,,392523925
+1,Pakistan,10,Babar Azam,AU Rashid,Haris Sohail,legbyes,1,1,0,,,,392523925
+1,Pakistan,10,Haris Sohail,AU Rashid,Babar Azam,,0,1,1,,,,392523925
+1,Pakistan,10,Babar Azam,AU Rashid,Haris Sohail,,0,4,4,,,,392523925
+1,Pakistan,10,Babar Azam,AU Rashid,Haris Sohail,,0,2,2,,,,392523925
+1,Pakistan,11,Haris Sohail,TK Curran,Babar Azam,,0,2,2,,,,392523925
+1,Pakistan,11,Haris Sohail,TK Curran,Babar Azam,,0,1,1,,,,392523925
+1,Pakistan,11,Babar Azam,TK Curran,Haris Sohail,,0,0,0,,,,392523925
+1,Pakistan,11,Babar Azam,TK Curran,Haris Sohail,,0,1,1,,,,392523925
+1,Pakistan,11,Haris Sohail,TK Curran,Babar Azam,,0,2,2,,,,392523925
+1,Pakistan,11,Haris Sohail,TK Curran,Babar Azam,,0,0,0,,,,392523925
+1,Pakistan,12,Babar Azam,JL Denly,Haris Sohail,,0,6,6,,,,392523925
+1,Pakistan,12,Babar Azam,JL Denly,Haris Sohail,,0,6,6,,,,392523925
+1,Pakistan,12,Babar Azam,JL Denly,Haris Sohail,,0,1,1,,,,392523925
+1,Pakistan,12,Haris Sohail,JL Denly,Babar Azam,,0,1,1,,,,392523925
+1,Pakistan,12,Babar Azam,JL Denly,Haris Sohail,,0,0,0,,,,392523925
+1,Pakistan,12,Babar Azam,JL Denly,Haris Sohail,,0,1,1,,,,392523925
+1,Pakistan,13,Babar Azam,DJ Willey,Haris Sohail,,0,2,2,,,,392523925
+1,Pakistan,13,Babar Azam,DJ Willey,Haris Sohail,,0,1,1,,,,392523925
+1,Pakistan,13,Haris Sohail,DJ Willey,Babar Azam,wides,1,1,0,,,,392523925
+1,Pakistan,13,Haris Sohail,DJ Willey,Babar Azam,,0,0,0,,,,392523925
+1,Pakistan,13,Haris Sohail,DJ Willey,Babar Azam,,0,2,2,,,,392523925
+1,Pakistan,13,Haris Sohail,DJ Willey,Babar Azam,wides,1,1,0,,,,392523925
+1,Pakistan,13,Haris Sohail,DJ Willey,Babar Azam,,0,0,0,,,,392523925
+1,Pakistan,13,Haris Sohail,DJ Willey,Babar Azam,,0,4,4,,,,392523925
+1,Pakistan,14,Babar Azam,TK Curran,Haris Sohail,,0,1,1,,,,392523925
+1,Pakistan,14,Haris Sohail,TK Curran,Babar Azam,,0,1,1,,,,392523925
+1,Pakistan,14,Babar Azam,TK Curran,Haris Sohail,,0,4,4,,,,392523925
+1,Pakistan,14,Babar Azam,TK Curran,Haris Sohail,,0,2,2,,,,392523925
+1,Pakistan,14,Babar Azam,TK Curran,Haris Sohail,,0,2,2,,,,392523925
+1,Pakistan,14,Babar Azam,TK Curran,Haris Sohail,,0,1,1,,,,392523925
+1,Pakistan,15,Babar Azam,JC Archer,Haris Sohail,,0,1,1,,,,392523925
+1,Pakistan,15,Haris Sohail,JC Archer,Babar Azam,,0,0,0,,,,392523925
+1,Pakistan,15,Haris Sohail,JC Archer,Babar Azam,,0,0,0,caught,Haris Sohail,DJ Willey,392523925
+1,Pakistan,15,Asif Ali,JC Archer,Babar Azam,legbyes,1,1,0,,,,392523925
+1,Pakistan,15,Babar Azam,JC Archer,Asif Ali,,0,0,0,run out,Babar Azam,,392523925
+1,Pakistan,15,Asif Ali,JC Archer,Imad Wasim,,0,2,2,,,,392523925
+1,Pakistan,16,Imad Wasim,CJ Jordan,Asif Ali,,0,1,1,,,,392523925
+1,Pakistan,16,Asif Ali,CJ Jordan,Imad Wasim,,0,1,1,,,,392523925
+1,Pakistan,16,Imad Wasim,CJ Jordan,Asif Ali,,0,0,0,,,,392523925
+1,Pakistan,16,Imad Wasim,CJ Jordan,Asif Ali,,0,0,0,run out,Asif Ali,,392523925
+1,Pakistan,16,Imad Wasim,CJ Jordan,Faheem Ashraf,,0,1,1,,,,392523925
+1,Pakistan,16,Faheem Ashraf,CJ Jordan,Imad Wasim,,0,1,1,,,,392523925
+1,Pakistan,17,Faheem Ashraf,JC Archer,Imad Wasim,,0,1,1,,,,392523925
+1,Pakistan,17,Imad Wasim,JC Archer,Faheem Ashraf,,0,0,0,,,,392523925
+1,Pakistan,17,Imad Wasim,JC Archer,Faheem Ashraf,,0,1,1,,,,392523925
+1,Pakistan,17,Faheem Ashraf,JC Archer,Imad Wasim,,0,4,4,,,,392523925
+1,Pakistan,17,Faheem Ashraf,JC Archer,Imad Wasim,,0,1,1,,,,392523925
+1,Pakistan,17,Imad Wasim,JC Archer,Faheem Ashraf,,0,0,0,,,,392523925
+1,Pakistan,18,Faheem Ashraf,AU Rashid,Imad Wasim,,0,1,1,,,,392523925
+1,Pakistan,18,Imad Wasim,AU Rashid,Faheem Ashraf,,0,4,4,,,,392523925
+1,Pakistan,18,Imad Wasim,AU Rashid,Faheem Ashraf,,0,1,1,,,,392523925
+1,Pakistan,18,Faheem Ashraf,AU Rashid,Imad Wasim,,0,1,1,,,,392523925
+1,Pakistan,18,Imad Wasim,AU Rashid,Faheem Ashraf,,0,1,1,,,,392523925
+1,Pakistan,18,Faheem Ashraf,AU Rashid,Imad Wasim,,0,1,1,,,,392523925
+1,Pakistan,19,Faheem Ashraf,CJ Jordan,Imad Wasim,,0,1,1,,,,392523925
+1,Pakistan,19,Imad Wasim,CJ Jordan,Faheem Ashraf,,0,1,1,,,,392523925
+1,Pakistan,19,Faheem Ashraf,CJ Jordan,Imad Wasim,,0,6,6,,,,392523925
+1,Pakistan,19,Faheem Ashraf,CJ Jordan,Imad Wasim,,0,0,0,caught,Faheem Ashraf,JL Denly,392523925
+1,Pakistan,19,Imad Wasim,CJ Jordan,Hasan Ali,,0,4,4,,,,392523925
+1,Pakistan,19,Imad Wasim,CJ Jordan,Hasan Ali,,0,4,4,,,,392523925

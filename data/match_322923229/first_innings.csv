@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,RE Levi,Raza Hasan,HM Amla,,0,0,0,,,,322923229
+1,South Africa,0,RE Levi,Raza Hasan,HM Amla,,0,1,1,,,,322923229
+1,South Africa,0,HM Amla,Raza Hasan,RE Levi,,0,0,0,,,,322923229
+1,South Africa,0,HM Amla,Raza Hasan,RE Levi,,0,2,2,,,,322923229
+1,South Africa,0,HM Amla,Raza Hasan,RE Levi,,0,0,0,,,,322923229
+1,South Africa,0,HM Amla,Raza Hasan,RE Levi,,0,0,0,,,,322923229
+1,South Africa,1,RE Levi,Yasir Arafat,HM Amla,,0,0,0,,,,322923229
+1,South Africa,1,RE Levi,Yasir Arafat,HM Amla,,0,0,0,,,,322923229
+1,South Africa,1,RE Levi,Yasir Arafat,HM Amla,,0,1,1,,,,322923229
+1,South Africa,1,HM Amla,Yasir Arafat,RE Levi,,0,4,4,,,,322923229
+1,South Africa,1,HM Amla,Yasir Arafat,RE Levi,,0,0,0,caught,HM Amla,Shoaib Malik,322923229
+1,South Africa,1,JH Kallis,Yasir Arafat,RE Levi,,0,1,1,,,,322923229
+1,South Africa,2,JH Kallis,Raza Hasan,RE Levi,,0,0,0,,,,322923229
+1,South Africa,2,JH Kallis,Raza Hasan,RE Levi,,0,0,0,,,,322923229
+1,South Africa,2,JH Kallis,Raza Hasan,RE Levi,,0,0,0,,,,322923229
+1,South Africa,2,JH Kallis,Raza Hasan,RE Levi,,0,0,0,,,,322923229
+1,South Africa,2,JH Kallis,Raza Hasan,RE Levi,,0,0,0,,,,322923229
+1,South Africa,2,JH Kallis,Raza Hasan,RE Levi,,0,0,0,,,,322923229
+1,South Africa,3,RE Levi,Yasir Arafat,JH Kallis,,0,4,4,,,,322923229
+1,South Africa,3,RE Levi,Yasir Arafat,JH Kallis,,0,1,1,,,,322923229
+1,South Africa,3,JH Kallis,Yasir Arafat,RE Levi,wides,1,1,0,,,,322923229
+1,South Africa,3,JH Kallis,Yasir Arafat,RE Levi,,0,0,0,,,,322923229
+1,South Africa,3,JH Kallis,Yasir Arafat,RE Levi,,0,0,0,,,,322923229
+1,South Africa,3,JH Kallis,Yasir Arafat,RE Levi,,0,2,2,,,,322923229
+1,South Africa,3,JH Kallis,Yasir Arafat,RE Levi,,0,1,1,,,,322923229
+1,South Africa,4,JH Kallis,Raza Hasan,RE Levi,,0,6,6,,,,322923229
+1,South Africa,4,JH Kallis,Raza Hasan,RE Levi,,0,0,0,,,,322923229
+1,South Africa,4,JH Kallis,Raza Hasan,RE Levi,,0,1,1,,,,322923229
+1,South Africa,4,RE Levi,Raza Hasan,JH Kallis,,0,1,1,,,,322923229
+1,South Africa,4,JH Kallis,Raza Hasan,RE Levi,,0,0,0,,,,322923229
+1,South Africa,4,JH Kallis,Raza Hasan,RE Levi,,0,1,1,,,,322923229
+1,South Africa,5,JH Kallis,Saeed Ajmal,RE Levi,legbyes,1,1,0,,,,322923229
+1,South Africa,5,RE Levi,Saeed Ajmal,JH Kallis,,0,0,0,bowled,RE Levi,,322923229
+1,South Africa,5,JP Duminy,Saeed Ajmal,JH Kallis,,0,0,0,,,,322923229
+1,South Africa,5,JP Duminy,Saeed Ajmal,JH Kallis,,0,0,0,,,,322923229
+1,South Africa,5,JP Duminy,Saeed Ajmal,JH Kallis,,0,0,0,,,,322923229
+1,South Africa,5,JP Duminy,Saeed Ajmal,JH Kallis,,0,0,0,,,,322923229
+1,South Africa,6,JH Kallis,Mohammad Hafeez,JP Duminy,,0,0,0,caught,JH Kallis,Shahid Afridi,322923229
+1,South Africa,6,F Behardien,Mohammad Hafeez,JP Duminy,,0,0,0,,,,322923229
+1,South Africa,6,F Behardien,Mohammad Hafeez,JP Duminy,,0,0,0,,,,322923229
+1,South Africa,6,F Behardien,Mohammad Hafeez,JP Duminy,,0,1,1,,,,322923229
+1,South Africa,6,JP Duminy,Mohammad Hafeez,F Behardien,,0,1,1,,,,322923229
+1,South Africa,6,F Behardien,Mohammad Hafeez,JP Duminy,,0,1,1,,,,322923229
+1,South Africa,7,F Behardien,Shahid Afridi,JP Duminy,,0,1,1,,,,322923229
+1,South Africa,7,JP Duminy,Shahid Afridi,F Behardien,,0,1,1,,,,322923229
+1,South Africa,7,F Behardien,Shahid Afridi,JP Duminy,,0,1,1,,,,322923229
+1,South Africa,7,JP Duminy,Shahid Afridi,F Behardien,,0,1,1,,,,322923229
+1,South Africa,7,F Behardien,Shahid Afridi,JP Duminy,,0,0,0,,,,322923229
+1,South Africa,7,F Behardien,Shahid Afridi,JP Duminy,,0,0,0,,,,322923229
+1,South Africa,8,JP Duminy,Mohammad Hafeez,F Behardien,,0,0,0,,,,322923229
+1,South Africa,8,JP Duminy,Mohammad Hafeez,F Behardien,,0,1,1,,,,322923229
+1,South Africa,8,F Behardien,Mohammad Hafeez,JP Duminy,,0,1,1,,,,322923229
+1,South Africa,8,JP Duminy,Mohammad Hafeez,F Behardien,,0,0,0,,,,322923229
+1,South Africa,8,JP Duminy,Mohammad Hafeez,F Behardien,,0,1,1,,,,322923229
+1,South Africa,8,F Behardien,Mohammad Hafeez,JP Duminy,,0,1,1,,,,322923229
+1,South Africa,9,F Behardien,Shahid Afridi,JP Duminy,,0,1,1,,,,322923229
+1,South Africa,9,JP Duminy,Shahid Afridi,F Behardien,,0,1,1,,,,322923229
+1,South Africa,9,F Behardien,Shahid Afridi,JP Duminy,,0,0,0,,,,322923229
+1,South Africa,9,F Behardien,Shahid Afridi,JP Duminy,,0,1,1,,,,322923229
+1,South Africa,9,JP Duminy,Shahid Afridi,F Behardien,,0,1,1,,,,322923229
+1,South Africa,9,F Behardien,Shahid Afridi,JP Duminy,,0,4,4,,,,322923229
+1,South Africa,10,JP Duminy,Mohammad Hafeez,F Behardien,,0,0,0,,,,322923229
+1,South Africa,10,JP Duminy,Mohammad Hafeez,F Behardien,,0,1,1,,,,322923229
+1,South Africa,10,F Behardien,Mohammad Hafeez,JP Duminy,,0,1,1,,,,322923229
+1,South Africa,10,JP Duminy,Mohammad Hafeez,F Behardien,,0,2,2,,,,322923229
+1,South Africa,10,JP Duminy,Mohammad Hafeez,F Behardien,,0,1,1,,,,322923229
+1,South Africa,10,F Behardien,Mohammad Hafeez,JP Duminy,,0,0,0,,,,322923229
+1,South Africa,11,JP Duminy,Saeed Ajmal,F Behardien,,0,1,1,,,,322923229
+1,South Africa,11,F Behardien,Saeed Ajmal,JP Duminy,,0,1,1,,,,322923229
+1,South Africa,11,JP Duminy,Saeed Ajmal,F Behardien,,0,1,1,,,,322923229
+1,South Africa,11,F Behardien,Saeed Ajmal,JP Duminy,,0,4,4,,,,322923229
+1,South Africa,11,F Behardien,Saeed Ajmal,JP Duminy,,0,0,0,,,,322923229
+1,South Africa,11,F Behardien,Saeed Ajmal,JP Duminy,,0,0,0,,,,322923229
+1,South Africa,12,JP Duminy,Mohammad Hafeez,F Behardien,,0,6,6,,,,322923229
+1,South Africa,12,JP Duminy,Mohammad Hafeez,F Behardien,,0,1,1,,,,322923229
+1,South Africa,12,F Behardien,Mohammad Hafeez,JP Duminy,,0,0,0,stumped,F Behardien,Kamran Akmal,322923229
+1,South Africa,12,AB de Villiers,Mohammad Hafeez,JP Duminy,,0,1,1,,,,322923229
+1,South Africa,12,JP Duminy,Mohammad Hafeez,AB de Villiers,,0,1,1,,,,322923229
+1,South Africa,12,AB de Villiers,Mohammad Hafeez,JP Duminy,,0,2,2,,,,322923229
+1,South Africa,13,JP Duminy,Shahid Afridi,AB de Villiers,legbyes,1,1,0,,,,322923229
+1,South Africa,13,AB de Villiers,Shahid Afridi,JP Duminy,,0,1,1,,,,322923229
+1,South Africa,13,JP Duminy,Shahid Afridi,AB de Villiers,,0,1,1,,,,322923229
+1,South Africa,13,AB de Villiers,Shahid Afridi,JP Duminy,,0,1,1,,,,322923229
+1,South Africa,13,JP Duminy,Shahid Afridi,AB de Villiers,,0,1,1,,,,322923229
+1,South Africa,13,AB de Villiers,Shahid Afridi,JP Duminy,,0,0,0,,,,322923229
+1,South Africa,14,JP Duminy,Saeed Ajmal,AB de Villiers,,0,1,1,,,,322923229
+1,South Africa,14,AB de Villiers,Saeed Ajmal,JP Duminy,,0,0,0,,,,322923229
+1,South Africa,14,AB de Villiers,Saeed Ajmal,JP Duminy,,0,1,1,,,,322923229
+1,South Africa,14,JP Duminy,Saeed Ajmal,AB de Villiers,,0,1,1,,,,322923229
+1,South Africa,14,AB de Villiers,Saeed Ajmal,JP Duminy,,0,1,1,,,,322923229
+1,South Africa,14,JP Duminy,Saeed Ajmal,AB de Villiers,,0,4,4,,,,322923229
+1,South Africa,15,AB de Villiers,Shahid Afridi,JP Duminy,,0,0,0,,,,322923229
+1,South Africa,15,AB de Villiers,Shahid Afridi,JP Duminy,,0,4,4,,,,322923229
+1,South Africa,15,AB de Villiers,Shahid Afridi,JP Duminy,,0,1,1,,,,322923229
+1,South Africa,15,JP Duminy,Shahid Afridi,AB de Villiers,wides,1,1,0,,,,322923229
+1,South Africa,15,JP Duminy,Shahid Afridi,AB de Villiers,,0,2,2,,,,322923229
+1,South Africa,15,JP Duminy,Shahid Afridi,AB de Villiers,,0,1,1,,,,322923229
+1,South Africa,15,AB de Villiers,Shahid Afridi,JP Duminy,,0,1,1,,,,322923229
+1,South Africa,16,AB de Villiers,Saeed Ajmal,JP Duminy,,0,0,0,,,,322923229
+1,South Africa,16,AB de Villiers,Saeed Ajmal,JP Duminy,,0,4,4,,,,322923229
+1,South Africa,16,AB de Villiers,Saeed Ajmal,JP Duminy,,0,1,1,,,,322923229
+1,South Africa,16,JP Duminy,Saeed Ajmal,AB de Villiers,,0,4,4,,,,322923229
+1,South Africa,16,JP Duminy,Saeed Ajmal,AB de Villiers,,0,1,1,,,,322923229
+1,South Africa,16,AB de Villiers,Saeed Ajmal,JP Duminy,,0,1,1,,,,322923229
+1,South Africa,17,AB de Villiers,Umar Gul,JP Duminy,,0,6,6,,,,322923229
+1,South Africa,17,AB de Villiers,Umar Gul,JP Duminy,,0,0,0,caught,AB de Villiers,Imran Nazir,322923229
+1,South Africa,17,JP Duminy,Umar Gul,JA Morkel,,0,0,0,,,,322923229
+1,South Africa,17,JP Duminy,Umar Gul,JA Morkel,,0,2,2,,,,322923229
+1,South Africa,17,JP Duminy,Umar Gul,JA Morkel,,0,1,1,,,,322923229
+1,South Africa,17,JA Morkel,Umar Gul,JP Duminy,,0,1,1,,,,322923229
+1,South Africa,18,JA Morkel,Yasir Arafat,JP Duminy,,0,1,1,,,,322923229
+1,South Africa,18,JP Duminy,Yasir Arafat,JA Morkel,,0,6,6,,,,322923229
+1,South Africa,18,JP Duminy,Yasir Arafat,JA Morkel,,0,2,2,,,,322923229
+1,South Africa,18,JP Duminy,Yasir Arafat,JA Morkel,,0,0,0,caught,JP Duminy,Kamran Akmal,322923229
+1,South Africa,18,RJ Peterson,Yasir Arafat,JA Morkel,,0,0,0,,,,322923229
+1,South Africa,18,RJ Peterson,Yasir Arafat,JA Morkel,,0,1,1,,,,322923229
+1,South Africa,19,RJ Peterson,Umar Gul,JA Morkel,,0,1,1,,,,322923229
+1,South Africa,19,JA Morkel,Umar Gul,RJ Peterson,,0,1,1,,,,322923229
+1,South Africa,19,RJ Peterson,Umar Gul,JA Morkel,,0,1,1,,,,322923229
+1,South Africa,19,JA Morkel,Umar Gul,RJ Peterson,,0,4,4,,,,322923229
+1,South Africa,19,JA Morkel,Umar Gul,RJ Peterson,,0,0,0,,,,322923229
+1,South Africa,19,JA Morkel,Umar Gul,RJ Peterson,,0,2,2,,,,322923229

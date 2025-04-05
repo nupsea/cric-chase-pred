@@ -1,0 +1,111 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Nigeria,0,S Mba,S Williams,A Shreshta,,0,0,0,,,,31817231817
+1,Nigeria,0,S Mba,S Williams,A Shreshta,,0,0,0,,,,31817231817
+1,Nigeria,0,S Mba,S Williams,A Shreshta,,0,1,1,,,,31817231817
+1,Nigeria,0,A Shreshta,S Williams,S Mba,,0,2,2,,,,31817231817
+1,Nigeria,0,A Shreshta,S Williams,S Mba,,0,0,0,,,,31817231817
+1,Nigeria,0,A Shreshta,S Williams,S Mba,,0,1,1,,,,31817231817
+1,Nigeria,1,A Shreshta,S Tarawally,S Mba,,0,0,0,,,,31817231817
+1,Nigeria,1,A Shreshta,S Tarawally,S Mba,,0,0,0,,,,31817231817
+1,Nigeria,1,A Shreshta,S Tarawally,S Mba,,0,2,2,,,,31817231817
+1,Nigeria,1,A Shreshta,S Tarawally,S Mba,,0,1,1,,,,31817231817
+1,Nigeria,1,S Mba,S Tarawally,A Shreshta,,0,0,0,,,,31817231817
+1,Nigeria,1,S Mba,S Tarawally,A Shreshta,,0,0,0,,,,31817231817
+1,Nigeria,2,A Shreshta,S Williams,S Mba,,0,0,0,caught,A Shreshta,M Kpaka,31817231817
+1,Nigeria,2,JO Adedeji,S Williams,S Mba,,0,0,0,,,,31817231817
+1,Nigeria,2,JO Adedeji,S Williams,S Mba,,0,0,0,,,,31817231817
+1,Nigeria,2,JO Adedeji,S Williams,S Mba,,0,1,1,,,,31817231817
+1,Nigeria,2,S Mba,S Williams,JO Adedeji,,0,0,0,,,,31817231817
+1,Nigeria,2,S Mba,S Williams,JO Adedeji,,0,2,2,,,,31817231817
+1,Nigeria,3,JO Adedeji,S Tarawally,S Mba,,0,0,0,,,,31817231817
+1,Nigeria,3,JO Adedeji,S Tarawally,S Mba,,0,0,0,,,,31817231817
+1,Nigeria,3,JO Adedeji,S Tarawally,S Mba,,0,0,0,,,,31817231817
+1,Nigeria,3,JO Adedeji,S Tarawally,S Mba,,0,0,0,,,,31817231817
+1,Nigeria,3,JO Adedeji,S Tarawally,S Mba,,0,1,1,,,,31817231817
+1,Nigeria,3,S Mba,S Tarawally,JO Adedeji,,0,0,0,,,,31817231817
+1,Nigeria,4,JO Adedeji,S Williams,S Mba,,0,0,0,,,,31817231817
+1,Nigeria,4,JO Adedeji,S Williams,S Mba,,0,0,0,,,,31817231817
+1,Nigeria,4,JO Adedeji,S Williams,S Mba,,0,0,0,,,,31817231817
+1,Nigeria,4,JO Adedeji,S Williams,S Mba,,0,1,1,,,,31817231817
+1,Nigeria,4,S Mba,S Williams,JO Adedeji,,0,1,1,,,,31817231817
+1,Nigeria,4,JO Adedeji,S Williams,S Mba,,0,0,0,,,,31817231817
+1,Nigeria,5,S Mba,S Tarawally,JO Adedeji,,0,1,1,,,,31817231817
+1,Nigeria,5,JO Adedeji,S Tarawally,S Mba,wides,1,1,0,,,,31817231817
+1,Nigeria,5,JO Adedeji,S Tarawally,S Mba,,0,0,0,,,,31817231817
+1,Nigeria,5,JO Adedeji,S Tarawally,S Mba,,0,2,2,,,,31817231817
+1,Nigeria,5,JO Adedeji,S Tarawally,S Mba,,0,0,0,,,,31817231817
+1,Nigeria,5,JO Adedeji,S Tarawally,S Mba,,0,0,0,,,,31817231817
+1,Nigeria,5,JO Adedeji,S Tarawally,S Mba,,0,0,0,,,,31817231817
+1,Nigeria,6,S Mba,S Williams,JO Adedeji,,0,1,1,,,,31817231817
+1,Nigeria,6,JO Adedeji,S Williams,S Mba,,0,1,1,,,,31817231817
+1,Nigeria,6,S Mba,S Williams,JO Adedeji,,0,0,0,,,,31817231817
+1,Nigeria,6,S Mba,S Williams,JO Adedeji,,0,0,0,caught,S Mba,I Mansaray,31817231817
+1,Nigeria,6,CM Akachukwu,S Williams,JO Adedeji,,0,0,0,,,,31817231817
+1,Nigeria,6,CM Akachukwu,S Williams,JO Adedeji,,0,2,2,,,,31817231817
+1,Nigeria,7,JO Adedeji,S Tarawally,CM Akachukwu,,0,1,1,,,,31817231817
+1,Nigeria,7,CM Akachukwu,S Tarawally,JO Adedeji,wides,1,1,0,,,,31817231817
+1,Nigeria,7,CM Akachukwu,S Tarawally,JO Adedeji,,0,0,0,,,,31817231817
+1,Nigeria,7,CM Akachukwu,S Tarawally,JO Adedeji,,0,1,1,,,,31817231817
+1,Nigeria,7,JO Adedeji,S Tarawally,CM Akachukwu,,0,2,2,,,,31817231817
+1,Nigeria,7,JO Adedeji,S Tarawally,CM Akachukwu,,0,0,0,,,,31817231817
+1,Nigeria,7,JO Adedeji,S Tarawally,CM Akachukwu,,0,1,1,,,,31817231817
+1,Nigeria,8,JO Adedeji,E Ernest,CM Akachukwu,,0,0,0,,,,31817231817
+1,Nigeria,8,JO Adedeji,E Ernest,CM Akachukwu,,0,0,0,,,,31817231817
+1,Nigeria,8,JO Adedeji,E Ernest,CM Akachukwu,,0,1,1,,,,31817231817
+1,Nigeria,8,CM Akachukwu,E Ernest,JO Adedeji,,0,4,4,,,,31817231817
+1,Nigeria,8,CM Akachukwu,E Ernest,JO Adedeji,,0,0,0,,,,31817231817
+1,Nigeria,8,CM Akachukwu,E Ernest,JO Adedeji,,0,0,0,,,,31817231817
+1,Nigeria,9,JO Adedeji,M Kpaka,CM Akachukwu,,0,2,2,,,,31817231817
+1,Nigeria,9,JO Adedeji,M Kpaka,CM Akachukwu,,0,0,0,,,,31817231817
+1,Nigeria,9,JO Adedeji,M Kpaka,CM Akachukwu,,0,1,1,,,,31817231817
+1,Nigeria,9,CM Akachukwu,M Kpaka,JO Adedeji,,0,2,2,,,,31817231817
+1,Nigeria,9,CM Akachukwu,M Kpaka,JO Adedeji,wides,1,1,0,,,,31817231817
+1,Nigeria,9,CM Akachukwu,M Kpaka,JO Adedeji,,0,1,1,,,,31817231817
+1,Nigeria,9,JO Adedeji,M Kpaka,CM Akachukwu,,0,4,4,,,,31817231817
+1,Nigeria,10,CM Akachukwu,E Ernest,JO Adedeji,,0,2,2,,,,31817231817
+1,Nigeria,10,CM Akachukwu,E Ernest,JO Adedeji,,0,0,0,,,,31817231817
+1,Nigeria,10,CM Akachukwu,E Ernest,JO Adedeji,,0,2,2,,,,31817231817
+1,Nigeria,10,CM Akachukwu,E Ernest,JO Adedeji,,0,1,1,,,,31817231817
+1,Nigeria,10,JO Adedeji,E Ernest,CM Akachukwu,,0,2,2,,,,31817231817
+1,Nigeria,10,JO Adedeji,E Ernest,CM Akachukwu,,0,0,0,,,,31817231817
+1,Nigeria,11,CM Akachukwu,S Conteh,JO Adedeji,wides,1,1,0,,,,31817231817
+1,Nigeria,11,CM Akachukwu,S Conteh,JO Adedeji,,0,0,0,run out,JO Adedeji,I Mansaray,31817231817
+1,Nigeria,11,IO Okpe,S Conteh,CM Akachukwu,legbyes,1,1,0,,,,31817231817
+1,Nigeria,11,CM Akachukwu,S Conteh,IO Okpe,,0,2,2,,,,31817231817
+1,Nigeria,11,CM Akachukwu,S Conteh,IO Okpe,,0,1,1,,,,31817231817
+1,Nigeria,11,IO Okpe,S Conteh,CM Akachukwu,,0,1,1,,,,31817231817
+1,Nigeria,11,CM Akachukwu,S Conteh,IO Okpe,,0,0,0,,,,31817231817
+1,Nigeria,12,IO Okpe,A Gbla,CM Akachukwu,,0,2,2,,,,31817231817
+1,Nigeria,12,IO Okpe,A Gbla,CM Akachukwu,,0,0,0,,,,31817231817
+1,Nigeria,12,IO Okpe,A Gbla,CM Akachukwu,,0,0,0,bowled,IO Okpe,,31817231817
+1,Nigeria,12,AJ Ayannaike,A Gbla,CM Akachukwu,,0,1,1,,,,31817231817
+1,Nigeria,12,CM Akachukwu,A Gbla,AJ Ayannaike,,0,2,2,,,,31817231817
+1,Nigeria,12,CM Akachukwu,A Gbla,AJ Ayannaike,,0,4,4,,,,31817231817
+1,Nigeria,13,AJ Ayannaike,S Conteh,CM Akachukwu,,0,1,1,,,,31817231817
+1,Nigeria,13,CM Akachukwu,S Conteh,AJ Ayannaike,,0,0,0,,,,31817231817
+1,Nigeria,13,CM Akachukwu,S Conteh,AJ Ayannaike,,0,4,4,,,,31817231817
+1,Nigeria,13,CM Akachukwu,S Conteh,AJ Ayannaike,,0,1,1,,,,31817231817
+1,Nigeria,13,AJ Ayannaike,S Conteh,CM Akachukwu,,0,0,0,bowled,AJ Ayannaike,,31817231817
+1,Nigeria,13,D Gim,S Conteh,CM Akachukwu,,0,0,0,,,,31817231817
+1,Nigeria,14,CM Akachukwu,A Gbla,D Gim,,0,1,1,,,,31817231817
+1,Nigeria,14,D Gim,A Gbla,CM Akachukwu,,0,1,1,,,,31817231817
+1,Nigeria,14,CM Akachukwu,A Gbla,D Gim,,0,0,0,caught,CM Akachukwu,I Mansaray,31817231817
+1,Nigeria,14,D Gim,A Gbla,SA Okpe,,0,1,1,,,,31817231817
+1,Nigeria,14,SA Okpe,A Gbla,D Gim,,0,6,6,,,,31817231817
+1,Nigeria,14,SA Okpe,A Gbla,D Gim,,0,0,0,,,,31817231817
+1,Nigeria,15,D Gim,G Sesay,SA Okpe,,0,1,1,,,,31817231817
+1,Nigeria,15,SA Okpe,G Sesay,D Gim,,0,0,0,bowled,SA Okpe,,31817231817
+1,Nigeria,15,P Aho,G Sesay,D Gim,,0,2,2,,,,31817231817
+1,Nigeria,15,P Aho,G Sesay,D Gim,,0,2,2,,,,31817231817
+1,Nigeria,15,P Aho,G Sesay,D Gim,,0,1,1,,,,31817231817
+1,Nigeria,15,D Gim,G Sesay,P Aho,,0,0,0,bowled,D Gim,,31817231817
+1,Nigeria,16,P Aho,S Conteh,RA Abolarin,,0,0,0,,,,31817231817
+1,Nigeria,16,P Aho,S Conteh,RA Abolarin,,0,0,0,,,,31817231817
+1,Nigeria,16,P Aho,S Conteh,RA Abolarin,,0,1,1,,,,31817231817
+1,Nigeria,16,RA Abolarin,S Conteh,P Aho,,0,0,0,run out,P Aho,S Conteh,31817231817
+1,Nigeria,16,RA Abolarin,S Conteh,S Ogundipe,,0,1,1,,,,31817231817
+1,Nigeria,16,S Ogundipe,S Conteh,RA Abolarin,,0,0,0,,,,31817231817
+1,Nigeria,17,RA Abolarin,G Sesay,S Ogundipe,,0,1,1,,,,31817231817
+1,Nigeria,17,S Ogundipe,G Sesay,RA Abolarin,,0,0,0,,,,31817231817
+1,Nigeria,17,S Ogundipe,G Sesay,RA Abolarin,,0,1,1,,,,31817231817
+1,Nigeria,17,RA Abolarin,G Sesay,S Ogundipe,,0,0,0,bowled,RA Abolarin,,31817231817

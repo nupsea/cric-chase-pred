@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Netherlands,0,MP O'Dowd,Sompal Kami,TP Visee,,0,0,0,,,,31497231497
+2,Netherlands,0,MP O'Dowd,Sompal Kami,TP Visee,wides,1,1,0,,,,31497231497
+2,Netherlands,0,MP O'Dowd,Sompal Kami,TP Visee,noballs,1,1,0,,,,31497231497
+2,Netherlands,0,MP O'Dowd,Sompal Kami,TP Visee,,0,4,4,,,,31497231497
+2,Netherlands,0,MP O'Dowd,Sompal Kami,TP Visee,,0,0,0,,,,31497231497
+2,Netherlands,0,MP O'Dowd,Sompal Kami,TP Visee,wides,2,2,0,,,,31497231497
+2,Netherlands,0,TP Visee,Sompal Kami,MP O'Dowd,,0,0,0,,,,31497231497
+2,Netherlands,0,TP Visee,Sompal Kami,MP O'Dowd,,0,1,1,,,,31497231497
+2,Netherlands,0,MP O'Dowd,Sompal Kami,TP Visee,,0,1,1,,,,31497231497
+2,Netherlands,1,MP O'Dowd,S Lamichhane,TP Visee,,0,4,4,,,,31497231497
+2,Netherlands,1,MP O'Dowd,S Lamichhane,TP Visee,,0,0,0,,,,31497231497
+2,Netherlands,1,MP O'Dowd,S Lamichhane,TP Visee,,0,0,0,lbw,MP O'Dowd,,31497231497
+2,Netherlands,1,BN Cooper,S Lamichhane,TP Visee,,0,4,4,,,,31497231497
+2,Netherlands,1,BN Cooper,S Lamichhane,TP Visee,,0,0,0,,,,31497231497
+2,Netherlands,1,BN Cooper,S Lamichhane,TP Visee,,0,4,4,,,,31497231497
+2,Netherlands,2,TP Visee,Sompal Kami,BN Cooper,,0,1,1,,,,31497231497
+2,Netherlands,2,BN Cooper,Sompal Kami,TP Visee,,0,0,0,,,,31497231497
+2,Netherlands,2,BN Cooper,Sompal Kami,TP Visee,,0,4,4,,,,31497231497
+2,Netherlands,2,BN Cooper,Sompal Kami,TP Visee,legbyes,1,1,0,,,,31497231497
+2,Netherlands,2,TP Visee,Sompal Kami,BN Cooper,,0,4,4,,,,31497231497
+2,Netherlands,2,TP Visee,Sompal Kami,BN Cooper,,0,4,4,,,,31497231497
+2,Netherlands,3,BN Cooper,DS Airee,TP Visee,,0,1,1,,,,31497231497
+2,Netherlands,3,TP Visee,DS Airee,BN Cooper,,0,1,1,,,,31497231497
+2,Netherlands,3,BN Cooper,DS Airee,TP Visee,,0,4,4,,,,31497231497
+2,Netherlands,3,BN Cooper,DS Airee,TP Visee,,0,1,1,,,,31497231497
+2,Netherlands,3,TP Visee,DS Airee,BN Cooper,,0,0,0,,,,31497231497
+2,Netherlands,3,TP Visee,DS Airee,BN Cooper,byes,4,4,0,,,,31497231497
+2,Netherlands,4,BN Cooper,Karan KC,TP Visee,,0,4,4,,,,31497231497
+2,Netherlands,4,BN Cooper,Karan KC,TP Visee,,0,0,0,,,,31497231497
+2,Netherlands,4,BN Cooper,Karan KC,TP Visee,,0,2,2,,,,31497231497
+2,Netherlands,4,BN Cooper,Karan KC,TP Visee,,0,0,0,,,,31497231497
+2,Netherlands,4,BN Cooper,Karan KC,TP Visee,,0,4,4,,,,31497231497
+2,Netherlands,4,BN Cooper,Karan KC,TP Visee,,0,4,4,,,,31497231497
+2,Netherlands,5,TP Visee,S Lamichhane,BN Cooper,,0,0,0,,,,31497231497
+2,Netherlands,5,TP Visee,S Lamichhane,BN Cooper,,0,4,4,,,,31497231497
+2,Netherlands,5,TP Visee,S Lamichhane,BN Cooper,,0,0,0,stumped,TP Visee,B Bhandari,31497231497
+2,Netherlands,5,BFW de Leede,S Lamichhane,BN Cooper,,0,1,1,,,,31497231497
+2,Netherlands,5,BN Cooper,S Lamichhane,BFW de Leede,wides,1,1,0,,,,31497231497
+2,Netherlands,5,BN Cooper,S Lamichhane,BFW de Leede,,0,0,0,,,,31497231497
+2,Netherlands,5,BN Cooper,S Lamichhane,BFW de Leede,,0,4,4,,,,31497231497
+2,Netherlands,6,BFW de Leede,Karan KC,BN Cooper,,0,1,1,,,,31497231497
+2,Netherlands,6,BN Cooper,Karan KC,BFW de Leede,,0,1,1,,,,31497231497
+2,Netherlands,6,BFW de Leede,Karan KC,BN Cooper,,0,0,0,,,,31497231497
+2,Netherlands,6,BFW de Leede,Karan KC,BN Cooper,wides,1,1,0,,,,31497231497
+2,Netherlands,6,BFW de Leede,Karan KC,BN Cooper,,0,0,0,,,,31497231497
+2,Netherlands,6,BFW de Leede,Karan KC,BN Cooper,,0,4,4,,,,31497231497
+2,Netherlands,6,BFW de Leede,Karan KC,BN Cooper,,0,1,1,,,,31497231497
+2,Netherlands,7,BFW de Leede,DS Airee,BN Cooper,,0,0,0,,,,31497231497
+2,Netherlands,7,BFW de Leede,DS Airee,BN Cooper,,0,1,1,,,,31497231497
+2,Netherlands,7,BN Cooper,DS Airee,BFW de Leede,,0,1,1,,,,31497231497
+2,Netherlands,7,BFW de Leede,DS Airee,BN Cooper,,0,2,2,,,,31497231497
+2,Netherlands,7,BFW de Leede,DS Airee,BN Cooper,,0,1,1,,,,31497231497
+2,Netherlands,7,BN Cooper,DS Airee,BFW de Leede,,0,0,0,,,,31497231497
+2,Netherlands,8,BFW de Leede,Shahab Alam,BN Cooper,,0,0,0,,,,31497231497
+2,Netherlands,8,BFW de Leede,Shahab Alam,BN Cooper,,0,3,3,,,,31497231497
+2,Netherlands,8,BN Cooper,Shahab Alam,BFW de Leede,,0,1,1,,,,31497231497
+2,Netherlands,8,BFW de Leede,Shahab Alam,BN Cooper,,0,1,1,,,,31497231497
+2,Netherlands,8,BN Cooper,Shahab Alam,BFW de Leede,,0,0,0,,,,31497231497
+2,Netherlands,8,BN Cooper,Shahab Alam,BFW de Leede,,0,4,4,,,,31497231497
+2,Netherlands,9,BFW de Leede,A Bohara,BN Cooper,,0,1,1,,,,31497231497
+2,Netherlands,9,BN Cooper,A Bohara,BFW de Leede,,0,2,2,,,,31497231497
+2,Netherlands,9,BN Cooper,A Bohara,BFW de Leede,,0,0,0,,,,31497231497
+2,Netherlands,9,BN Cooper,A Bohara,BFW de Leede,,0,1,1,,,,31497231497
+2,Netherlands,9,BFW de Leede,A Bohara,BN Cooper,,0,0,0,,,,31497231497
+2,Netherlands,9,BFW de Leede,A Bohara,BN Cooper,,0,1,1,,,,31497231497
+2,Netherlands,10,BFW de Leede,Shahab Alam,BN Cooper,,0,0,0,,,,31497231497
+2,Netherlands,10,BFW de Leede,Shahab Alam,BN Cooper,,0,6,6,,,,31497231497
+2,Netherlands,10,BFW de Leede,Shahab Alam,BN Cooper,,0,0,0,,,,31497231497
+2,Netherlands,10,BFW de Leede,Shahab Alam,BN Cooper,,0,1,1,,,,31497231497
+2,Netherlands,10,BN Cooper,Shahab Alam,BFW de Leede,,0,1,1,,,,31497231497
+2,Netherlands,10,BFW de Leede,Shahab Alam,BN Cooper,,0,6,6,,,,31497231497
+2,Netherlands,11,BN Cooper,A Bohara,BFW de Leede,legbyes,4,4,0,,,,31497231497
+2,Netherlands,11,BN Cooper,A Bohara,BFW de Leede,,0,1,1,,,,31497231497
+2,Netherlands,11,BFW de Leede,A Bohara,BN Cooper,,0,2,2,,,,31497231497
+2,Netherlands,11,BFW de Leede,A Bohara,BN Cooper,,0,6,6,,,,31497231497
+2,Netherlands,11,BFW de Leede,A Bohara,BN Cooper,,0,1,1,,,,31497231497
+2,Netherlands,11,BN Cooper,A Bohara,BFW de Leede,,0,1,1,,,,31497231497
+2,Netherlands,12,BN Cooper,S Lamichhane,BFW de Leede,,0,0,0,,,,31497231497
+2,Netherlands,12,BN Cooper,S Lamichhane,BFW de Leede,,0,2,2,,,,31497231497
+2,Netherlands,12,BN Cooper,S Lamichhane,BFW de Leede,,0,4,4,,,,31497231497
+2,Netherlands,12,BN Cooper,S Lamichhane,BFW de Leede,,0,0,0,,,,31497231497
+2,Netherlands,12,BN Cooper,S Lamichhane,BFW de Leede,,0,0,0,caught,BN Cooper,DS Airee,31497231497
+2,Netherlands,12,BFW de Leede,S Lamichhane,A Dutt,,0,0,0,,,,31497231497
+2,Netherlands,13,A Dutt,Kushal Malla,BFW de Leede,,0,0,0,,,,31497231497
+2,Netherlands,13,A Dutt,Kushal Malla,BFW de Leede,,0,0,0,,,,31497231497
+2,Netherlands,13,A Dutt,Kushal Malla,BFW de Leede,,0,0,0,caught,A Dutt,DS Airee,31497231497
+2,Netherlands,13,BFW de Leede,Kushal Malla,PM Seelaar,,0,0,0,,,,31497231497
+2,Netherlands,13,BFW de Leede,Kushal Malla,PM Seelaar,,0,0,0,,,,31497231497
+2,Netherlands,13,BFW de Leede,Kushal Malla,PM Seelaar,,0,1,1,,,,31497231497
+2,Netherlands,14,BFW de Leede,Karan KC,PM Seelaar,,0,1,1,,,,31497231497
+2,Netherlands,14,PM Seelaar,Karan KC,BFW de Leede,,0,1,1,,,,31497231497
+2,Netherlands,14,BFW de Leede,Karan KC,PM Seelaar,,0,1,1,,,,31497231497
+2,Netherlands,14,PM Seelaar,Karan KC,BFW de Leede,,0,0,0,,,,31497231497
+2,Netherlands,14,PM Seelaar,Karan KC,BFW de Leede,,0,1,1,,,,31497231497
+2,Netherlands,14,BFW de Leede,Karan KC,PM Seelaar,,0,4,4,,,,31497231497
+2,Netherlands,15,PM Seelaar,Kushal Malla,BFW de Leede,,0,4,4,,,,31497231497
+2,Netherlands,15,PM Seelaar,Kushal Malla,BFW de Leede,,0,1,1,,,,31497231497
+2,Netherlands,15,BFW de Leede,Kushal Malla,PM Seelaar,,0,4,4,,,,31497231497
+2,Netherlands,15,BFW de Leede,Kushal Malla,PM Seelaar,,0,1,1,,,,31497231497
+2,Netherlands,15,PM Seelaar,Kushal Malla,BFW de Leede,,0,1,1,,,,31497231497
+2,Netherlands,15,BFW de Leede,Kushal Malla,PM Seelaar,legbyes,1,1,0,,,,31497231497
+2,Netherlands,16,BFW de Leede,A Bohara,PM Seelaar,,0,1,1,,,,31497231497
+2,Netherlands,16,PM Seelaar,A Bohara,BFW de Leede,,0,0,0,,,,31497231497
+2,Netherlands,16,PM Seelaar,A Bohara,BFW de Leede,,0,0,0,,,,31497231497
+2,Netherlands,16,PM Seelaar,A Bohara,BFW de Leede,,0,2,2,,,,31497231497
+2,Netherlands,16,PM Seelaar,A Bohara,BFW de Leede,,0,1,1,,,,31497231497
+2,Netherlands,16,BFW de Leede,A Bohara,PM Seelaar,,0,4,4,,,,31497231497
+2,Netherlands,17,PM Seelaar,S Lamichhane,BFW de Leede,,0,6,6,,,,31497231497
+2,Netherlands,17,PM Seelaar,S Lamichhane,BFW de Leede,,0,6,6,,,,31497231497
+2,Netherlands,17,PM Seelaar,S Lamichhane,BFW de Leede,,0,6,6,,,,31497231497
+2,Netherlands,17,PM Seelaar,S Lamichhane,BFW de Leede,,0,2,2,,,,31497231497
+2,Netherlands,17,PM Seelaar,S Lamichhane,BFW de Leede,,0,0,0,caught,PM Seelaar,G Malla,31497231497
+2,Netherlands,17,SA Edwards,S Lamichhane,BFW de Leede,,0,0,0,,,,31497231497
+2,Netherlands,18,BFW de Leede,A Bohara,SA Edwards,,0,6,6,,,,31497231497
+2,Netherlands,18,BFW de Leede,A Bohara,SA Edwards,,0,1,1,,,,31497231497
+2,Netherlands,18,SA Edwards,A Bohara,BFW de Leede,,0,2,2,,,,31497231497
+2,Netherlands,18,SA Edwards,A Bohara,BFW de Leede,,0,0,0,caught,SA Edwards,S Lamichhane,31497231497
+2,Netherlands,18,BFW de Leede,A Bohara,AJ Staal,,0,4,4,,,,31497231497
+2,Netherlands,18,BFW de Leede,A Bohara,AJ Staal,,0,6,6,,,,31497231497
+2,Netherlands,19,AJ Staal,Karan KC,BFW de Leede,,0,0,0,caught,AJ Staal,B Bhandari,31497231497
+2,Netherlands,19,BFW de Leede,Karan KC,PA van Meekeren,,0,4,4,,,,31497231497
+2,Netherlands,19,BFW de Leede,Karan KC,PA van Meekeren,,0,4,4,,,,31497231497

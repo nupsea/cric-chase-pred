@@ -1,0 +1,64 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Ireland,0,GH Lewis,C Sutthiruang,O Prendergast,,0,0,0,,,,31175231175
+2,Ireland,0,GH Lewis,C Sutthiruang,O Prendergast,,0,0,0,,,,31175231175
+2,Ireland,0,GH Lewis,C Sutthiruang,O Prendergast,,0,1,1,,,,31175231175
+2,Ireland,0,O Prendergast,C Sutthiruang,GH Lewis,,0,1,1,,,,31175231175
+2,Ireland,0,GH Lewis,C Sutthiruang,O Prendergast,,0,1,1,,,,31175231175
+2,Ireland,0,O Prendergast,C Sutthiruang,GH Lewis,,0,0,0,,,,31175231175
+2,Ireland,1,GH Lewis,N Boochatham,O Prendergast,,0,0,0,caught,GH Lewis,R Padunglerd,31175231175
+2,Ireland,1,SM Kavanagh,N Boochatham,O Prendergast,,0,0,0,,,,31175231175
+2,Ireland,1,SM Kavanagh,N Boochatham,O Prendergast,,0,1,1,,,,31175231175
+2,Ireland,1,O Prendergast,N Boochatham,SM Kavanagh,,0,0,0,,,,31175231175
+2,Ireland,1,O Prendergast,N Boochatham,SM Kavanagh,,0,4,4,,,,31175231175
+2,Ireland,1,O Prendergast,N Boochatham,SM Kavanagh,,0,0,0,,,,31175231175
+2,Ireland,2,SM Kavanagh,C Sutthiruang,O Prendergast,,0,0,0,,,,31175231175
+2,Ireland,2,SM Kavanagh,C Sutthiruang,O Prendergast,,0,0,0,,,,31175231175
+2,Ireland,2,SM Kavanagh,C Sutthiruang,O Prendergast,,0,1,1,,,,31175231175
+2,Ireland,2,O Prendergast,C Sutthiruang,SM Kavanagh,,0,0,0,bowled,O Prendergast,,31175231175
+2,Ireland,2,EAJ Richardson,C Sutthiruang,SM Kavanagh,,0,0,0,,,,31175231175
+2,Ireland,2,EAJ Richardson,C Sutthiruang,SM Kavanagh,,0,0,0,,,,31175231175
+2,Ireland,3,SM Kavanagh,S Laomi,EAJ Richardson,,0,0,0,,,,31175231175
+2,Ireland,3,SM Kavanagh,S Laomi,EAJ Richardson,,0,0,0,,,,31175231175
+2,Ireland,3,SM Kavanagh,S Laomi,EAJ Richardson,,0,0,0,,,,31175231175
+2,Ireland,3,SM Kavanagh,S Laomi,EAJ Richardson,,0,1,1,,,,31175231175
+2,Ireland,3,EAJ Richardson,S Laomi,SM Kavanagh,,0,0,0,,,,31175231175
+2,Ireland,3,EAJ Richardson,S Laomi,SM Kavanagh,,0,0,0,,,,31175231175
+2,Ireland,4,SM Kavanagh,R Padunglerd,EAJ Richardson,,0,0,0,,,,31175231175
+2,Ireland,4,SM Kavanagh,R Padunglerd,EAJ Richardson,,0,0,0,,,,31175231175
+2,Ireland,4,SM Kavanagh,R Padunglerd,EAJ Richardson,,0,1,1,,,,31175231175
+2,Ireland,4,EAJ Richardson,R Padunglerd,SM Kavanagh,,0,1,1,,,,31175231175
+2,Ireland,4,SM Kavanagh,R Padunglerd,EAJ Richardson,,0,1,1,,,,31175231175
+2,Ireland,4,EAJ Richardson,R Padunglerd,SM Kavanagh,byes,1,1,0,,,,31175231175
+2,Ireland,5,EAJ Richardson,S Laomi,SM Kavanagh,,0,1,1,,,,31175231175
+2,Ireland,5,SM Kavanagh,S Laomi,EAJ Richardson,,0,1,1,,,,31175231175
+2,Ireland,5,EAJ Richardson,S Laomi,SM Kavanagh,,0,1,1,,,,31175231175
+2,Ireland,5,SM Kavanagh,S Laomi,EAJ Richardson,,0,2,2,,,,31175231175
+2,Ireland,5,SM Kavanagh,S Laomi,EAJ Richardson,,0,1,1,,,,31175231175
+2,Ireland,5,EAJ Richardson,S Laomi,SM Kavanagh,,0,1,1,,,,31175231175
+2,Ireland,6,EAJ Richardson,S Tippoch,SM Kavanagh,,0,0,0,bowled,EAJ Richardson,,31175231175
+2,Ireland,6,L Delany,S Tippoch,SM Kavanagh,,0,0,0,,,,31175231175
+2,Ireland,6,L Delany,S Tippoch,SM Kavanagh,,0,1,1,,,,31175231175
+2,Ireland,6,SM Kavanagh,S Tippoch,L Delany,,0,1,1,,,,31175231175
+2,Ireland,6,L Delany,S Tippoch,SM Kavanagh,,0,1,1,,,,31175231175
+2,Ireland,6,SM Kavanagh,S Tippoch,L Delany,,0,2,2,,,,31175231175
+2,Ireland,7,L Delany,R Padunglerd,SM Kavanagh,wides,1,1,0,,,,31175231175
+2,Ireland,7,L Delany,R Padunglerd,SM Kavanagh,,0,0,0,,,,31175231175
+2,Ireland,7,L Delany,R Padunglerd,SM Kavanagh,,0,1,1,,,,31175231175
+2,Ireland,7,SM Kavanagh,R Padunglerd,L Delany,,0,0,0,caught,SM Kavanagh,N Koncharoenkai,31175231175
+2,Ireland,7,R Stokell,R Padunglerd,L Delany,wides,1,1,0,,,,31175231175
+2,Ireland,7,R Stokell,R Padunglerd,L Delany,,0,0,0,,,,31175231175
+2,Ireland,7,R Stokell,R Padunglerd,L Delany,,0,0,0,,,,31175231175
+2,Ireland,7,R Stokell,R Padunglerd,L Delany,,0,0,0,stumped,R Stokell,N Koncharoenkai,31175231175
+2,Ireland,8,L Delany,S Tippoch,U Raymond-Hoey,,0,1,1,,,,31175231175
+2,Ireland,8,U Raymond-Hoey,S Tippoch,L Delany,,0,1,1,,,,31175231175
+2,Ireland,8,L Delany,S Tippoch,U Raymond-Hoey,,0,0,0,,,,31175231175
+2,Ireland,8,L Delany,S Tippoch,U Raymond-Hoey,,0,1,1,,,,31175231175
+2,Ireland,8,U Raymond-Hoey,S Tippoch,L Delany,,0,1,1,,,,31175231175
+2,Ireland,8,L Delany,S Tippoch,U Raymond-Hoey,,0,4,4,,,,31175231175
+2,Ireland,9,U Raymond-Hoey,N Boochatham,L Delany,wides,3,3,0,,,,31175231175
+2,Ireland,9,U Raymond-Hoey,N Boochatham,L Delany,,0,0,0,caught,U Raymond-Hoey,N Koncharoenkai,31175231175
+2,Ireland,9,MV Waldron,N Boochatham,L Delany,,0,4,4,,,,31175231175
+2,Ireland,9,MV Waldron,N Boochatham,L Delany,,0,1,1,,,,31175231175
+2,Ireland,9,L Delany,N Boochatham,MV Waldron,,0,0,0,caught,L Delany,S Lateh,31175231175
+2,Ireland,9,MV Waldron,N Boochatham,L Little,,0,1,1,,,,31175231175
+2,Ireland,9,L Little,N Boochatham,MV Waldron,,0,4,4,,,,31175231175

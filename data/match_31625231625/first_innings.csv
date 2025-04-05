@@ -1,0 +1,121 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,L Lee,CA Henry,D van Niekerk,,0,0,0,,,,31625231625
+1,South Africa,0,L Lee,CA Henry,D van Niekerk,,0,4,4,,,,31625231625
+1,South Africa,0,L Lee,CA Henry,D van Niekerk,,0,1,1,,,,31625231625
+1,South Africa,0,D van Niekerk,CA Henry,L Lee,,0,0,0,caught,D van Niekerk,HK Matthews,31625231625
+1,South Africa,0,M Kapp,CA Henry,L Lee,,0,0,0,,,,31625231625
+1,South Africa,0,M Kapp,CA Henry,L Lee,,0,0,0,,,,31625231625
+1,South Africa,1,L Lee,AA Alleyne,M Kapp,,0,0,0,,,,31625231625
+1,South Africa,1,L Lee,AA Alleyne,M Kapp,,0,0,0,,,,31625231625
+1,South Africa,1,L Lee,AA Alleyne,M Kapp,,0,4,4,,,,31625231625
+1,South Africa,1,L Lee,AA Alleyne,M Kapp,,0,0,0,caught,L Lee,B Cooper,31625231625
+1,South Africa,1,M Kapp,AA Alleyne,L Wolvaardt,,0,0,0,,,,31625231625
+1,South Africa,1,M Kapp,AA Alleyne,L Wolvaardt,,0,0,0,caught,M Kapp,Kycia A Knight,31625231625
+1,South Africa,2,L Wolvaardt,CA Henry,T Brits,,0,3,3,,,,31625231625
+1,South Africa,2,T Brits,CA Henry,L Wolvaardt,,0,0,0,,,,31625231625
+1,South Africa,2,T Brits,CA Henry,L Wolvaardt,,0,0,0,,,,31625231625
+1,South Africa,2,T Brits,CA Henry,L Wolvaardt,,0,0,0,run out,L Wolvaardt,A Mohammed,31625231625
+1,South Africa,2,S Luus,CA Henry,T Brits,,0,0,0,,,,31625231625
+1,South Africa,2,S Luus,CA Henry,T Brits,,0,0,0,,,,31625231625
+1,South Africa,3,T Brits,AA Alleyne,S Luus,,0,2,2,,,,31625231625
+1,South Africa,3,T Brits,AA Alleyne,S Luus,,0,4,4,,,,31625231625
+1,South Africa,3,T Brits,AA Alleyne,S Luus,,0,1,1,,,,31625231625
+1,South Africa,3,S Luus,AA Alleyne,T Brits,,0,1,1,,,,31625231625
+1,South Africa,3,T Brits,AA Alleyne,S Luus,,0,0,0,,,,31625231625
+1,South Africa,3,T Brits,AA Alleyne,S Luus,,0,4,4,,,,31625231625
+1,South Africa,4,S Luus,CA Henry,T Brits,,0,1,1,,,,31625231625
+1,South Africa,4,T Brits,CA Henry,S Luus,,0,0,0,,,,31625231625
+1,South Africa,4,T Brits,CA Henry,S Luus,,0,0,0,,,,31625231625
+1,South Africa,4,T Brits,CA Henry,S Luus,,0,0,0,,,,31625231625
+1,South Africa,4,T Brits,CA Henry,S Luus,,0,4,4,,,,31625231625
+1,South Africa,4,T Brits,CA Henry,S Luus,,0,0,0,,,,31625231625
+1,South Africa,5,S Luus,HK Matthews,T Brits,,0,0,0,,,,31625231625
+1,South Africa,5,S Luus,HK Matthews,T Brits,,0,0,0,,,,31625231625
+1,South Africa,5,S Luus,HK Matthews,T Brits,,0,0,0,,,,31625231625
+1,South Africa,5,S Luus,HK Matthews,T Brits,,0,1,1,,,,31625231625
+1,South Africa,5,T Brits,HK Matthews,S Luus,,0,0,0,,,,31625231625
+1,South Africa,5,T Brits,HK Matthews,S Luus,,0,0,0,,,,31625231625
+1,South Africa,6,S Luus,Q Joseph,T Brits,,0,0,0,,,,31625231625
+1,South Africa,6,S Luus,Q Joseph,T Brits,,0,0,0,,,,31625231625
+1,South Africa,6,S Luus,Q Joseph,T Brits,,0,0,0,,,,31625231625
+1,South Africa,6,S Luus,Q Joseph,T Brits,,0,0,0,,,,31625231625
+1,South Africa,6,S Luus,Q Joseph,T Brits,,0,6,6,,,,31625231625
+1,South Africa,6,S Luus,Q Joseph,T Brits,,0,0,0,,,,31625231625
+1,South Africa,7,T Brits,HK Matthews,S Luus,,0,1,1,,,,31625231625
+1,South Africa,7,S Luus,HK Matthews,T Brits,,0,0,0,,,,31625231625
+1,South Africa,7,S Luus,HK Matthews,T Brits,,0,0,0,,,,31625231625
+1,South Africa,7,S Luus,HK Matthews,T Brits,,0,1,1,,,,31625231625
+1,South Africa,7,T Brits,HK Matthews,S Luus,,0,0,0,caught,T Brits,CN Nation,31625231625
+1,South Africa,7,S Luus,HK Matthews,CL Tryon,,0,1,1,,,,31625231625
+1,South Africa,8,S Luus,Q Joseph,CL Tryon,,0,1,1,,,,31625231625
+1,South Africa,8,CL Tryon,Q Joseph,S Luus,,0,1,1,,,,31625231625
+1,South Africa,8,S Luus,Q Joseph,CL Tryon,,0,0,0,,,,31625231625
+1,South Africa,8,S Luus,Q Joseph,CL Tryon,,0,1,1,,,,31625231625
+1,South Africa,8,CL Tryon,Q Joseph,S Luus,,0,0,0,,,,31625231625
+1,South Africa,8,CL Tryon,Q Joseph,S Luus,,0,0,0,,,,31625231625
+1,South Africa,9,S Luus,HK Matthews,CL Tryon,,0,0,0,,,,31625231625
+1,South Africa,9,S Luus,HK Matthews,CL Tryon,,0,0,0,,,,31625231625
+1,South Africa,9,S Luus,HK Matthews,CL Tryon,,0,1,1,,,,31625231625
+1,South Africa,9,CL Tryon,HK Matthews,S Luus,,0,0,0,,,,31625231625
+1,South Africa,9,CL Tryon,HK Matthews,S Luus,,0,0,0,,,,31625231625
+1,South Africa,9,CL Tryon,HK Matthews,S Luus,,0,0,0,,,,31625231625
+1,South Africa,10,S Luus,Q Joseph,CL Tryon,,0,0,0,,,,31625231625
+1,South Africa,10,S Luus,Q Joseph,CL Tryon,,0,1,1,,,,31625231625
+1,South Africa,10,CL Tryon,Q Joseph,S Luus,,0,2,2,,,,31625231625
+1,South Africa,10,CL Tryon,Q Joseph,S Luus,,0,0,0,,,,31625231625
+1,South Africa,10,CL Tryon,Q Joseph,S Luus,,0,0,0,,,,31625231625
+1,South Africa,10,CL Tryon,Q Joseph,S Luus,,0,0,0,,,,31625231625
+1,South Africa,11,S Luus,HK Matthews,CL Tryon,,0,0,0,,,,31625231625
+1,South Africa,11,S Luus,HK Matthews,CL Tryon,,0,1,1,,,,31625231625
+1,South Africa,11,CL Tryon,HK Matthews,S Luus,,0,1,1,,,,31625231625
+1,South Africa,11,S Luus,HK Matthews,CL Tryon,,0,1,1,,,,31625231625
+1,South Africa,11,CL Tryon,HK Matthews,S Luus,,0,1,1,,,,31625231625
+1,South Africa,11,S Luus,HK Matthews,CL Tryon,,0,0,0,,,,31625231625
+1,South Africa,12,CL Tryon,Q Joseph,S Luus,,0,1,1,,,,31625231625
+1,South Africa,12,S Luus,Q Joseph,CL Tryon,,0,0,0,,,,31625231625
+1,South Africa,12,S Luus,Q Joseph,CL Tryon,,0,1,1,,,,31625231625
+1,South Africa,12,CL Tryon,Q Joseph,S Luus,,0,1,1,,,,31625231625
+1,South Africa,12,S Luus,Q Joseph,CL Tryon,,0,4,4,,,,31625231625
+1,South Africa,12,S Luus,Q Joseph,CL Tryon,,0,0,0,,,,31625231625
+1,South Africa,13,CL Tryon,A Mohammed,S Luus,,0,0,0,,,,31625231625
+1,South Africa,13,CL Tryon,A Mohammed,S Luus,,0,1,1,,,,31625231625
+1,South Africa,13,S Luus,A Mohammed,CL Tryon,,0,0,0,,,,31625231625
+1,South Africa,13,S Luus,A Mohammed,CL Tryon,,0,1,1,,,,31625231625
+1,South Africa,13,CL Tryon,A Mohammed,S Luus,,0,1,1,,,,31625231625
+1,South Africa,13,S Luus,A Mohammed,CL Tryon,,0,0,0,caught,S Luus,AA Alleyne,31625231625
+1,South Africa,14,T Chetty,K Ramharack,CL Tryon,,0,0,0,,,,31625231625
+1,South Africa,14,T Chetty,K Ramharack,CL Tryon,,0,1,1,,,,31625231625
+1,South Africa,14,CL Tryon,K Ramharack,T Chetty,,0,0,0,caught,CL Tryon,CN Nation,31625231625
+1,South Africa,14,T Chetty,K Ramharack,M Klaas,,0,2,2,,,,31625231625
+1,South Africa,14,T Chetty,K Ramharack,M Klaas,,0,0,0,,,,31625231625
+1,South Africa,14,T Chetty,K Ramharack,M Klaas,,0,2,2,,,,31625231625
+1,South Africa,15,M Klaas,A Mohammed,T Chetty,,0,1,1,,,,31625231625
+1,South Africa,15,T Chetty,A Mohammed,M Klaas,,0,0,0,,,,31625231625
+1,South Africa,15,T Chetty,A Mohammed,M Klaas,,0,0,0,,,,31625231625
+1,South Africa,15,T Chetty,A Mohammed,M Klaas,,0,0,0,,,,31625231625
+1,South Africa,15,T Chetty,A Mohammed,M Klaas,,0,1,1,,,,31625231625
+1,South Africa,15,M Klaas,A Mohammed,T Chetty,,0,1,1,,,,31625231625
+1,South Africa,16,M Klaas,K Ramharack,T Chetty,,0,0,0,,,,31625231625
+1,South Africa,16,M Klaas,K Ramharack,T Chetty,,0,1,1,,,,31625231625
+1,South Africa,16,T Chetty,K Ramharack,M Klaas,,0,0,0,,,,31625231625
+1,South Africa,16,T Chetty,K Ramharack,M Klaas,,0,0,0,caught,T Chetty,Kyshona A Knight,31625231625
+1,South Africa,16,M Klaas,K Ramharack,A Khaka,,0,0,0,,,,31625231625
+1,South Africa,16,M Klaas,K Ramharack,A Khaka,,0,1,1,,,,31625231625
+1,South Africa,17,M Klaas,A Mohammed,A Khaka,,0,0,0,,,,31625231625
+1,South Africa,17,M Klaas,A Mohammed,A Khaka,,0,0,0,,,,31625231625
+1,South Africa,17,M Klaas,A Mohammed,A Khaka,,0,1,1,,,,31625231625
+1,South Africa,17,A Khaka,A Mohammed,M Klaas,,0,1,1,,,,31625231625
+1,South Africa,17,M Klaas,A Mohammed,A Khaka,,0,1,1,,,,31625231625
+1,South Africa,17,A Khaka,A Mohammed,M Klaas,,0,0,0,,,,31625231625
+1,South Africa,18,M Klaas,K Ramharack,A Khaka,,0,1,1,,,,31625231625
+1,South Africa,18,A Khaka,K Ramharack,M Klaas,,0,0,0,,,,31625231625
+1,South Africa,18,A Khaka,K Ramharack,M Klaas,,0,0,0,bowled,A Khaka,,31625231625
+1,South Africa,18,N Mlaba,K Ramharack,M Klaas,,0,0,0,,,,31625231625
+1,South Africa,18,N Mlaba,K Ramharack,M Klaas,,0,0,0,,,,31625231625
+1,South Africa,18,N Mlaba,K Ramharack,M Klaas,,0,0,0,,,,31625231625
+1,South Africa,19,M Klaas,A Mohammed,N Mlaba,,0,0,0,,,,31625231625
+1,South Africa,19,M Klaas,A Mohammed,N Mlaba,,0,1,1,,,,31625231625
+1,South Africa,19,N Mlaba,A Mohammed,M Klaas,,0,0,0,,,,31625231625
+1,South Africa,19,N Mlaba,A Mohammed,M Klaas,,0,1,1,,,,31625231625
+1,South Africa,19,M Klaas,A Mohammed,N Mlaba,,0,2,2,,,,31625231625
+1,South Africa,19,M Klaas,A Mohammed,N Mlaba,,0,2,2,,,,31625231625

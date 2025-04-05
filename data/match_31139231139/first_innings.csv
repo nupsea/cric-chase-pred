@@ -1,0 +1,122 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,India,0,RG Sharma,Shafiul Islam,S Dhawan,,0,4,4,,,,31139231139
+1,India,0,RG Sharma,Shafiul Islam,S Dhawan,,0,1,1,,,,31139231139
+1,India,0,S Dhawan,Shafiul Islam,RG Sharma,,0,1,1,,,,31139231139
+1,India,0,RG Sharma,Shafiul Islam,S Dhawan,,0,0,0,,,,31139231139
+1,India,0,RG Sharma,Shafiul Islam,S Dhawan,,0,4,4,,,,31139231139
+1,India,0,RG Sharma,Shafiul Islam,S Dhawan,,0,0,0,lbw,RG Sharma,,31139231139
+1,India,1,S Dhawan,Al-Amin Hossain,KL Rahul,,0,0,0,,,,31139231139
+1,India,1,S Dhawan,Al-Amin Hossain,KL Rahul,,0,0,0,,,,31139231139
+1,India,1,S Dhawan,Al-Amin Hossain,KL Rahul,,0,0,0,,,,31139231139
+1,India,1,S Dhawan,Al-Amin Hossain,KL Rahul,,0,1,1,,,,31139231139
+1,India,1,KL Rahul,Al-Amin Hossain,S Dhawan,,0,1,1,,,,31139231139
+1,India,1,S Dhawan,Al-Amin Hossain,KL Rahul,,0,0,0,,,,31139231139
+1,India,2,KL Rahul,Shafiul Islam,S Dhawan,,0,1,1,,,,31139231139
+1,India,2,S Dhawan,Shafiul Islam,KL Rahul,,0,1,1,,,,31139231139
+1,India,2,KL Rahul,Shafiul Islam,S Dhawan,,0,4,4,,,,31139231139
+1,India,2,KL Rahul,Shafiul Islam,S Dhawan,,0,0,0,,,,31139231139
+1,India,2,KL Rahul,Shafiul Islam,S Dhawan,,0,0,0,,,,31139231139
+1,India,2,KL Rahul,Shafiul Islam,S Dhawan,,0,0,0,,,,31139231139
+1,India,3,S Dhawan,Al-Amin Hossain,KL Rahul,,0,1,1,,,,31139231139
+1,India,3,KL Rahul,Al-Amin Hossain,S Dhawan,,0,1,1,,,,31139231139
+1,India,3,S Dhawan,Al-Amin Hossain,KL Rahul,,0,1,1,,,,31139231139
+1,India,3,KL Rahul,Al-Amin Hossain,S Dhawan,,0,0,0,,,,31139231139
+1,India,3,KL Rahul,Al-Amin Hossain,S Dhawan,,0,0,0,,,,31139231139
+1,India,3,KL Rahul,Al-Amin Hossain,S Dhawan,,0,1,1,,,,31139231139
+1,India,4,KL Rahul,Mustafizur Rahman,S Dhawan,,0,1,1,,,,31139231139
+1,India,4,S Dhawan,Mustafizur Rahman,KL Rahul,,0,0,0,,,,31139231139
+1,India,4,S Dhawan,Mustafizur Rahman,KL Rahul,,0,0,0,,,,31139231139
+1,India,4,S Dhawan,Mustafizur Rahman,KL Rahul,,0,1,1,,,,31139231139
+1,India,4,KL Rahul,Mustafizur Rahman,S Dhawan,,0,1,1,,,,31139231139
+1,India,4,S Dhawan,Mustafizur Rahman,KL Rahul,,0,4,4,,,,31139231139
+1,India,5,KL Rahul,Shafiul Islam,S Dhawan,,0,0,0,,,,31139231139
+1,India,5,KL Rahul,Shafiul Islam,S Dhawan,,0,0,0,,,,31139231139
+1,India,5,KL Rahul,Shafiul Islam,S Dhawan,,0,4,4,,,,31139231139
+1,India,5,KL Rahul,Shafiul Islam,S Dhawan,,0,1,1,,,,31139231139
+1,India,5,S Dhawan,Shafiul Islam,KL Rahul,,0,0,0,,,,31139231139
+1,India,5,S Dhawan,Shafiul Islam,KL Rahul,,0,1,1,,,,31139231139
+1,India,6,S Dhawan,Aminul Islam,KL Rahul,,0,0,0,,,,31139231139
+1,India,6,S Dhawan,Aminul Islam,KL Rahul,,0,1,1,,,,31139231139
+1,India,6,KL Rahul,Aminul Islam,S Dhawan,,0,0,0,caught,KL Rahul,Mahmudullah,31139231139
+1,India,6,SS Iyer,Aminul Islam,S Dhawan,,0,1,1,,,,31139231139
+1,India,6,S Dhawan,Aminul Islam,SS Iyer,,0,1,1,,,,31139231139
+1,India,6,SS Iyer,Aminul Islam,S Dhawan,,0,6,6,,,,31139231139
+1,India,7,S Dhawan,Soumya Sarkar,SS Iyer,,0,1,1,,,,31139231139
+1,India,7,SS Iyer,Soumya Sarkar,S Dhawan,,0,0,0,,,,31139231139
+1,India,7,SS Iyer,Soumya Sarkar,S Dhawan,,0,1,1,,,,31139231139
+1,India,7,S Dhawan,Soumya Sarkar,SS Iyer,,0,4,4,,,,31139231139
+1,India,7,S Dhawan,Soumya Sarkar,SS Iyer,,0,1,1,,,,31139231139
+1,India,7,SS Iyer,Soumya Sarkar,S Dhawan,,0,0,0,,,,31139231139
+1,India,8,S Dhawan,Aminul Islam,SS Iyer,,0,1,1,,,,31139231139
+1,India,8,SS Iyer,Aminul Islam,S Dhawan,,0,1,1,,,,31139231139
+1,India,8,S Dhawan,Aminul Islam,SS Iyer,,0,0,0,,,,31139231139
+1,India,8,S Dhawan,Aminul Islam,SS Iyer,,0,1,1,,,,31139231139
+1,India,8,SS Iyer,Aminul Islam,S Dhawan,,0,0,0,,,,31139231139
+1,India,8,SS Iyer,Aminul Islam,S Dhawan,,0,6,6,,,,31139231139
+1,India,9,S Dhawan,Soumya Sarkar,SS Iyer,,0,1,1,,,,31139231139
+1,India,9,SS Iyer,Soumya Sarkar,S Dhawan,,0,0,0,,,,31139231139
+1,India,9,SS Iyer,Soumya Sarkar,S Dhawan,,0,1,1,,,,31139231139
+1,India,9,S Dhawan,Soumya Sarkar,SS Iyer,,0,1,1,,,,31139231139
+1,India,9,SS Iyer,Soumya Sarkar,S Dhawan,,0,4,4,,,,31139231139
+1,India,9,SS Iyer,Soumya Sarkar,S Dhawan,,0,2,2,,,,31139231139
+1,India,10,S Dhawan,Aminul Islam,SS Iyer,,0,1,1,,,,31139231139
+1,India,10,SS Iyer,Aminul Islam,S Dhawan,,0,0,0,caught,SS Iyer,Mohammad Naim,31139231139
+1,India,10,S Dhawan,Aminul Islam,RR Pant,,0,1,1,,,,31139231139
+1,India,10,RR Pant,Aminul Islam,S Dhawan,,0,1,1,,,,31139231139
+1,India,10,S Dhawan,Aminul Islam,RR Pant,,0,1,1,,,,31139231139
+1,India,10,RR Pant,Aminul Islam,S Dhawan,,0,0,0,,,,31139231139
+1,India,11,S Dhawan,Afif Hossain,RR Pant,,0,0,0,,,,31139231139
+1,India,11,S Dhawan,Afif Hossain,RR Pant,,0,0,0,,,,31139231139
+1,India,11,S Dhawan,Afif Hossain,RR Pant,,0,1,1,,,,31139231139
+1,India,11,RR Pant,Afif Hossain,S Dhawan,,0,1,1,,,,31139231139
+1,India,11,S Dhawan,Afif Hossain,RR Pant,,0,0,0,,,,31139231139
+1,India,11,S Dhawan,Afif Hossain,RR Pant,,0,0,0,,,,31139231139
+1,India,12,RR Pant,Mosaddek Hossain,S Dhawan,,0,0,0,,,,31139231139
+1,India,12,RR Pant,Mosaddek Hossain,S Dhawan,,0,1,1,,,,31139231139
+1,India,12,S Dhawan,Mosaddek Hossain,RR Pant,,0,4,4,,,,31139231139
+1,India,12,S Dhawan,Mosaddek Hossain,RR Pant,,0,1,1,,,,31139231139
+1,India,12,RR Pant,Mosaddek Hossain,S Dhawan,,0,1,1,,,,31139231139
+1,India,12,S Dhawan,Mosaddek Hossain,RR Pant,,0,1,1,,,,31139231139
+1,India,13,S Dhawan,Afif Hossain,RR Pant,,0,1,1,,,,31139231139
+1,India,13,RR Pant,Afif Hossain,S Dhawan,,0,0,0,,,,31139231139
+1,India,13,RR Pant,Afif Hossain,S Dhawan,,0,0,0,,,,31139231139
+1,India,13,RR Pant,Afif Hossain,S Dhawan,,0,0,0,,,,31139231139
+1,India,13,RR Pant,Afif Hossain,S Dhawan,,0,1,1,,,,31139231139
+1,India,13,S Dhawan,Afif Hossain,RR Pant,,0,0,0,,,,31139231139
+1,India,14,RR Pant,Mahmudullah,S Dhawan,,0,1,1,,,,31139231139
+1,India,14,S Dhawan,Mahmudullah,RR Pant,,0,6,6,,,,31139231139
+1,India,14,S Dhawan,Mahmudullah,RR Pant,,0,0,0,,,,31139231139
+1,India,14,S Dhawan,Mahmudullah,RR Pant,wides,1,1,0,,,,31139231139
+1,India,14,S Dhawan,Mahmudullah,RR Pant,,0,1,1,,,,31139231139
+1,India,14,RR Pant,Mahmudullah,S Dhawan,,0,1,1,run out,S Dhawan,,31139231139
+1,India,14,S Dube,Mahmudullah,RR Pant,,0,0,0,,,,31139231139
+1,India,15,RR Pant,Afif Hossain,S Dube,,0,1,1,,,,31139231139
+1,India,15,S Dube,Afif Hossain,RR Pant,,0,0,0,,,,31139231139
+1,India,15,S Dube,Afif Hossain,RR Pant,,0,1,1,,,,31139231139
+1,India,15,RR Pant,Afif Hossain,S Dube,,0,4,4,,,,31139231139
+1,India,15,RR Pant,Afif Hossain,S Dube,,0,1,1,,,,31139231139
+1,India,15,S Dube,Afif Hossain,RR Pant,,0,0,0,caught and bowled,S Dube,,31139231139
+1,India,16,RR Pant,Mustafizur Rahman,KH Pandya,,0,2,2,,,,31139231139
+1,India,16,RR Pant,Mustafizur Rahman,KH Pandya,,0,4,4,,,,31139231139
+1,India,16,RR Pant,Mustafizur Rahman,KH Pandya,,0,0,0,,,,31139231139
+1,India,16,RR Pant,Mustafizur Rahman,KH Pandya,,0,0,0,,,,31139231139
+1,India,16,RR Pant,Mustafizur Rahman,KH Pandya,,0,1,1,,,,31139231139
+1,India,16,KH Pandya,Mustafizur Rahman,RR Pant,,0,1,1,,,,31139231139
+1,India,17,KH Pandya,Al-Amin Hossain,RR Pant,,0,1,1,,,,31139231139
+1,India,17,RR Pant,Al-Amin Hossain,KH Pandya,,0,4,4,,,,31139231139
+1,India,17,RR Pant,Al-Amin Hossain,KH Pandya,,0,0,0,,,,31139231139
+1,India,17,RR Pant,Al-Amin Hossain,KH Pandya,,0,1,1,,,,31139231139
+1,India,17,KH Pandya,Al-Amin Hossain,RR Pant,,0,1,1,,,,31139231139
+1,India,17,RR Pant,Al-Amin Hossain,KH Pandya,legbyes,1,1,0,,,,31139231139
+1,India,18,RR Pant,Shafiul Islam,KH Pandya,,0,2,2,,,,31139231139
+1,India,18,RR Pant,Shafiul Islam,KH Pandya,,0,0,0,caught,RR Pant,Mohammad Naim,31139231139
+1,India,18,Washington Sundar,Shafiul Islam,KH Pandya,,0,1,1,,,,31139231139
+1,India,18,KH Pandya,Shafiul Islam,Washington Sundar,,0,4,4,,,,31139231139
+1,India,18,KH Pandya,Shafiul Islam,Washington Sundar,,0,1,1,,,,31139231139
+1,India,18,Washington Sundar,Shafiul Islam,KH Pandya,,0,6,6,,,,31139231139
+1,India,19,KH Pandya,Al-Amin Hossain,Washington Sundar,legbyes,1,1,0,,,,31139231139
+1,India,19,Washington Sundar,Al-Amin Hossain,KH Pandya,legbyes,1,1,0,,,,31139231139
+1,India,19,KH Pandya,Al-Amin Hossain,Washington Sundar,,0,1,1,,,,31139231139
+1,India,19,Washington Sundar,Al-Amin Hossain,KH Pandya,,0,6,6,,,,31139231139
+1,India,19,Washington Sundar,Al-Amin Hossain,KH Pandya,,0,1,1,,,,31139231139
+1,India,19,KH Pandya,Al-Amin Hossain,Washington Sundar,,0,6,6,,,,31139231139

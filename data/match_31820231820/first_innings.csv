@@ -1,0 +1,127 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Maldives,0,Azyan Farhath,Ishtiaq Ahmad,Ahmed Hassan,,0,0,0,,,,31820231820
+1,Maldives,0,Azyan Farhath,Ishtiaq Ahmad,Ahmed Hassan,,0,1,1,,,,31820231820
+1,Maldives,0,Ahmed Hassan,Ishtiaq Ahmad,Azyan Farhath,,0,0,0,,,,31820231820
+1,Maldives,0,Ahmed Hassan,Ishtiaq Ahmad,Azyan Farhath,,0,1,1,,,,31820231820
+1,Maldives,0,Azyan Farhath,Ishtiaq Ahmad,Ahmed Hassan,,0,1,1,,,,31820231820
+1,Maldives,0,Ahmed Hassan,Ishtiaq Ahmad,Azyan Farhath,,0,0,0,,,,31820231820
+1,Maldives,1,Azyan Farhath,Imran Arif,Ahmed Hassan,,0,0,0,,,,31820231820
+1,Maldives,1,Azyan Farhath,Imran Arif,Ahmed Hassan,wides,1,1,0,,,,31820231820
+1,Maldives,1,Azyan Farhath,Imran Arif,Ahmed Hassan,,0,0,0,,,,31820231820
+1,Maldives,1,Azyan Farhath,Imran Arif,Ahmed Hassan,,0,1,1,,,,31820231820
+1,Maldives,1,Ahmed Hassan,Imran Arif,Azyan Farhath,,0,1,1,,,,31820231820
+1,Maldives,1,Azyan Farhath,Imran Arif,Ahmed Hassan,,0,0,0,,,,31820231820
+1,Maldives,1,Azyan Farhath,Imran Arif,Ahmed Hassan,,0,1,1,,,,31820231820
+1,Maldives,2,Azyan Farhath,Ishtiaq Ahmad,Ahmed Hassan,,0,0,0,caught,Azyan Farhath,Zeeshan Butt,31820231820
+1,Maldives,2,Umar Adam,Ishtiaq Ahmad,Ahmed Hassan,,0,0,0,,,,31820231820
+1,Maldives,2,Umar Adam,Ishtiaq Ahmad,Ahmed Hassan,,0,1,1,,,,31820231820
+1,Maldives,2,Ahmed Hassan,Ishtiaq Ahmad,Umar Adam,,0,0,0,,,,31820231820
+1,Maldives,2,Ahmed Hassan,Ishtiaq Ahmad,Umar Adam,,0,0,0,,,,31820231820
+1,Maldives,2,Ahmed Hassan,Ishtiaq Ahmad,Umar Adam,,0,0,0,,,,31820231820
+1,Maldives,3,Umar Adam,Imran Arif,Ahmed Hassan,,0,0,0,caught and bowled,Umar Adam,,31820231820
+1,Maldives,3,Ibrahim Nashath,Imran Arif,Ahmed Hassan,legbyes,4,4,0,,,,31820231820
+1,Maldives,3,Ibrahim Nashath,Imran Arif,Ahmed Hassan,,0,0,0,,,,31820231820
+1,Maldives,3,Ibrahim Nashath,Imran Arif,Ahmed Hassan,wides,1,1,0,,,,31820231820
+1,Maldives,3,Ibrahim Nashath,Imran Arif,Ahmed Hassan,,0,0,0,,,,31820231820
+1,Maldives,3,Ibrahim Nashath,Imran Arif,Ahmed Hassan,,0,0,0,,,,31820231820
+1,Maldives,3,Ibrahim Nashath,Imran Arif,Ahmed Hassan,,0,0,0,,,,31820231820
+1,Maldives,4,Ahmed Hassan,Ishtiaq Ahmad,Ibrahim Nashath,,0,4,4,,,,31820231820
+1,Maldives,4,Ahmed Hassan,Ishtiaq Ahmad,Ibrahim Nashath,,0,1,1,,,,31820231820
+1,Maldives,4,Ibrahim Nashath,Ishtiaq Ahmad,Ahmed Hassan,,0,0,0,,,,31820231820
+1,Maldives,4,Ibrahim Nashath,Ishtiaq Ahmad,Ahmed Hassan,,0,1,1,,,,31820231820
+1,Maldives,4,Ahmed Hassan,Ishtiaq Ahmad,Ibrahim Nashath,,0,1,1,,,,31820231820
+1,Maldives,4,Ibrahim Nashath,Ishtiaq Ahmad,Ahmed Hassan,,0,0,0,,,,31820231820
+1,Maldives,5,Ahmed Hassan,Imran Arif,Ibrahim Nashath,,0,0,0,,,,31820231820
+1,Maldives,5,Ahmed Hassan,Imran Arif,Ibrahim Nashath,,0,1,1,,,,31820231820
+1,Maldives,5,Ibrahim Nashath,Imran Arif,Ahmed Hassan,,0,0,0,,,,31820231820
+1,Maldives,5,Ibrahim Nashath,Imran Arif,Ahmed Hassan,,0,0,0,,,,31820231820
+1,Maldives,5,Ibrahim Nashath,Imran Arif,Ahmed Hassan,,0,1,1,,,,31820231820
+1,Maldives,5,Ahmed Hassan,Imran Arif,Ibrahim Nashath,,0,0,0,,,,31820231820
+1,Maldives,6,Ibrahim Nashath,Zain Ul Abidin,Ahmed Hassan,,0,1,1,,,,31820231820
+1,Maldives,6,Ahmed Hassan,Zain Ul Abidin,Ibrahim Nashath,,0,0,0,caught,Ahmed Hassan,Sajid Cheema,31820231820
+1,Maldives,6,Mohamed Rishwan,Zain Ul Abidin,Ibrahim Nashath,,0,0,0,,,,31820231820
+1,Maldives,6,Mohamed Rishwan,Zain Ul Abidin,Ibrahim Nashath,,0,1,1,,,,31820231820
+1,Maldives,6,Ibrahim Nashath,Zain Ul Abidin,Mohamed Rishwan,,0,0,0,,,,31820231820
+1,Maldives,6,Ibrahim Nashath,Zain Ul Abidin,Mohamed Rishwan,,0,0,0,,,,31820231820
+1,Maldives,7,Mohamed Rishwan,Imran Arif,Ibrahim Nashath,,0,0,0,,,,31820231820
+1,Maldives,7,Mohamed Rishwan,Imran Arif,Ibrahim Nashath,,0,0,0,,,,31820231820
+1,Maldives,7,Mohamed Rishwan,Imran Arif,Ibrahim Nashath,,0,0,0,,,,31820231820
+1,Maldives,7,Mohamed Rishwan,Imran Arif,Ibrahim Nashath,noballs,1,1,0,,,,31820231820
+1,Maldives,7,Mohamed Rishwan,Imran Arif,Ibrahim Nashath,,0,6,6,,,,31820231820
+1,Maldives,7,Mohamed Rishwan,Imran Arif,Ibrahim Nashath,,0,1,1,,,,31820231820
+1,Maldives,7,Ibrahim Nashath,Imran Arif,Mohamed Rishwan,,0,0,0,,,,31820231820
+1,Maldives,8,Mohamed Rishwan,Zain Ul Abidin,Ibrahim Nashath,,0,0,0,,,,31820231820
+1,Maldives,8,Mohamed Rishwan,Zain Ul Abidin,Ibrahim Nashath,,0,6,6,,,,31820231820
+1,Maldives,8,Mohamed Rishwan,Zain Ul Abidin,Ibrahim Nashath,,0,0,0,,,,31820231820
+1,Maldives,8,Mohamed Rishwan,Zain Ul Abidin,Ibrahim Nashath,,0,0,0,,,,31820231820
+1,Maldives,8,Mohamed Rishwan,Zain Ul Abidin,Ibrahim Nashath,,0,0,0,,,,31820231820
+1,Maldives,8,Mohamed Rishwan,Zain Ul Abidin,Ibrahim Nashath,,0,0,0,,,,31820231820
+1,Maldives,9,Ibrahim Nashath,Imran Yousuf,Mohamed Rishwan,,0,0,0,,,,31820231820
+1,Maldives,9,Ibrahim Nashath,Imran Yousuf,Mohamed Rishwan,,0,0,0,,,,31820231820
+1,Maldives,9,Ibrahim Nashath,Imran Yousuf,Mohamed Rishwan,,0,1,1,,,,31820231820
+1,Maldives,9,Mohamed Rishwan,Imran Yousuf,Ibrahim Nashath,,0,0,0,caught,Mohamed Rishwan,Faisal Khan,31820231820
+1,Maldives,9,WJ Malinda,Imran Yousuf,Ibrahim Nashath,,0,0,0,,,,31820231820
+1,Maldives,9,WJ Malinda,Imran Yousuf,Ibrahim Nashath,,0,0,0,,,,31820231820
+1,Maldives,10,Ibrahim Nashath,Zain Ul Abidin,WJ Malinda,,0,0,0,,,,31820231820
+1,Maldives,10,Ibrahim Nashath,Zain Ul Abidin,WJ Malinda,,0,2,2,,,,31820231820
+1,Maldives,10,Ibrahim Nashath,Zain Ul Abidin,WJ Malinda,,0,0,0,,,,31820231820
+1,Maldives,10,Ibrahim Nashath,Zain Ul Abidin,WJ Malinda,,0,1,1,,,,31820231820
+1,Maldives,10,WJ Malinda,Zain Ul Abidin,Ibrahim Nashath,,0,1,1,,,,31820231820
+1,Maldives,10,Ibrahim Nashath,Zain Ul Abidin,WJ Malinda,,0,0,0,run out,WJ Malinda,Imran Yousuf,31820231820
+1,Maldives,11,Ibrahim Nashath,Imran Yousuf,Mohamed Azzam,,0,0,0,,,,31820231820
+1,Maldives,11,Ibrahim Nashath,Imran Yousuf,Mohamed Azzam,,0,0,0,,,,31820231820
+1,Maldives,11,Ibrahim Nashath,Imran Yousuf,Mohamed Azzam,,0,0,0,,,,31820231820
+1,Maldives,11,Ibrahim Nashath,Imran Yousuf,Mohamed Azzam,,0,0,0,,,,31820231820
+1,Maldives,11,Ibrahim Nashath,Imran Yousuf,Mohamed Azzam,,0,0,0,,,,31820231820
+1,Maldives,11,Ibrahim Nashath,Imran Yousuf,Mohamed Azzam,,0,1,1,,,,31820231820
+1,Maldives,12,Ibrahim Nashath,Zain Ul Abidin,Mohamed Azzam,,0,1,1,,,,31820231820
+1,Maldives,12,Mohamed Azzam,Zain Ul Abidin,Ibrahim Nashath,,0,0,0,,,,31820231820
+1,Maldives,12,Mohamed Azzam,Zain Ul Abidin,Ibrahim Nashath,,0,0,0,,,,31820231820
+1,Maldives,12,Mohamed Azzam,Zain Ul Abidin,Ibrahim Nashath,,0,0,0,,,,31820231820
+1,Maldives,12,Mohamed Azzam,Zain Ul Abidin,Ibrahim Nashath,,0,4,4,,,,31820231820
+1,Maldives,12,Mohamed Azzam,Zain Ul Abidin,Ibrahim Nashath,,0,1,1,,,,31820231820
+1,Maldives,13,Mohamed Azzam,Imran Yousuf,Ibrahim Nashath,,0,2,2,,,,31820231820
+1,Maldives,13,Mohamed Azzam,Imran Yousuf,Ibrahim Nashath,byes,1,1,0,,,,31820231820
+1,Maldives,13,Ibrahim Nashath,Imran Yousuf,Mohamed Azzam,,0,1,1,,,,31820231820
+1,Maldives,13,Mohamed Azzam,Imran Yousuf,Ibrahim Nashath,,0,0,0,,,,31820231820
+1,Maldives,13,Mohamed Azzam,Imran Yousuf,Ibrahim Nashath,byes,4,4,0,,,,31820231820
+1,Maldives,13,Mohamed Azzam,Imran Yousuf,Ibrahim Nashath,wides,1,1,0,,,,31820231820
+1,Maldives,13,Mohamed Azzam,Imran Yousuf,Ibrahim Nashath,,0,0,0,,,,31820231820
+1,Maldives,14,Ibrahim Nashath,Abdul Wahid,Mohamed Azzam,,0,0,0,,,,31820231820
+1,Maldives,14,Ibrahim Nashath,Abdul Wahid,Mohamed Azzam,noballs,2,2,0,,,,31820231820
+1,Maldives,14,Mohamed Azzam,Abdul Wahid,Ibrahim Nashath,byes,1,1,0,,,,31820231820
+1,Maldives,14,Ibrahim Nashath,Abdul Wahid,Mohamed Azzam,,0,0,0,,,,31820231820
+1,Maldives,14,Ibrahim Nashath,Abdul Wahid,Mohamed Azzam,,0,0,0,,,,31820231820
+1,Maldives,14,Ibrahim Nashath,Abdul Wahid,Mohamed Azzam,,0,0,0,,,,31820231820
+1,Maldives,14,Ibrahim Nashath,Abdul Wahid,Mohamed Azzam,,0,2,2,,,,31820231820
+1,Maldives,15,Mohamed Azzam,Faisal Khan,Ibrahim Nashath,,0,4,4,,,,31820231820
+1,Maldives,15,Mohamed Azzam,Faisal Khan,Ibrahim Nashath,,0,2,2,,,,31820231820
+1,Maldives,15,Mohamed Azzam,Faisal Khan,Ibrahim Nashath,,0,1,1,,,,31820231820
+1,Maldives,15,Ibrahim Nashath,Faisal Khan,Mohamed Azzam,,0,1,1,,,,31820231820
+1,Maldives,15,Mohamed Azzam,Faisal Khan,Ibrahim Nashath,,0,0,0,,,,31820231820
+1,Maldives,15,Mohamed Azzam,Faisal Khan,Ibrahim Nashath,,0,1,1,,,,31820231820
+1,Maldives,16,Mohamed Azzam,Abdul Wahid,Ibrahim Nashath,,0,0,0,bowled,Mohamed Azzam,,31820231820
+1,Maldives,16,Ibrahim Rizan,Abdul Wahid,Ibrahim Nashath,,0,1,1,,,,31820231820
+1,Maldives,16,Ibrahim Nashath,Abdul Wahid,Ibrahim Rizan,,0,0,0,,,,31820231820
+1,Maldives,16,Ibrahim Nashath,Abdul Wahid,Ibrahim Rizan,,0,0,0,,,,31820231820
+1,Maldives,16,Ibrahim Nashath,Abdul Wahid,Ibrahim Rizan,,0,1,1,,,,31820231820
+1,Maldives,16,Ibrahim Rizan,Abdul Wahid,Ibrahim Nashath,,0,0,0,,,,31820231820
+1,Maldives,17,Ibrahim Nashath,Faisal Khan,Ibrahim Rizan,,0,1,1,,,,31820231820
+1,Maldives,17,Ibrahim Rizan,Faisal Khan,Ibrahim Nashath,,0,0,0,,,,31820231820
+1,Maldives,17,Ibrahim Rizan,Faisal Khan,Ibrahim Nashath,,0,0,0,stumped,Ibrahim Rizan,Zeeshan Butt,31820231820
+1,Maldives,17,Ibrahim Hassan,Faisal Khan,Ibrahim Nashath,,0,0,0,,,,31820231820
+1,Maldives,17,Ibrahim Hassan,Faisal Khan,Ibrahim Nashath,,0,6,6,,,,31820231820
+1,Maldives,17,Ibrahim Hassan,Faisal Khan,Ibrahim Nashath,wides,1,1,0,,,,31820231820
+1,Maldives,17,Ibrahim Hassan,Faisal Khan,Ibrahim Nashath,,0,6,6,,,,31820231820
+1,Maldives,18,Ibrahim Nashath,Abdul Wahid,Ibrahim Hassan,,0,0,0,,,,31820231820
+1,Maldives,18,Ibrahim Nashath,Abdul Wahid,Ibrahim Hassan,,0,2,2,,,,31820231820
+1,Maldives,18,Ibrahim Nashath,Abdul Wahid,Ibrahim Hassan,,0,1,1,,,,31820231820
+1,Maldives,18,Ibrahim Hassan,Abdul Wahid,Ibrahim Nashath,,0,1,1,,,,31820231820
+1,Maldives,18,Ibrahim Nashath,Abdul Wahid,Ibrahim Hassan,,0,0,0,,,,31820231820
+1,Maldives,18,Ibrahim Nashath,Abdul Wahid,Ibrahim Hassan,,0,0,0,,,,31820231820
+1,Maldives,19,Ibrahim Hassan,Ishtiaq Ahmad,Ibrahim Nashath,,0,1,1,,,,31820231820
+1,Maldives,19,Ibrahim Nashath,Ishtiaq Ahmad,Ibrahim Hassan,,0,1,1,,,,31820231820
+1,Maldives,19,Ibrahim Hassan,Ishtiaq Ahmad,Ibrahim Nashath,legbyes,1,1,0,,,,31820231820
+1,Maldives,19,Ibrahim Nashath,Ishtiaq Ahmad,Ibrahim Hassan,,0,1,1,run out,Ibrahim Hassan,Zain Ul Abidin,31820231820
+1,Maldives,19,Ibrahim Nashath,Ishtiaq Ahmad,L Shafeeg,,0,0,0,run out,L Shafeeg,Zeeshan Butt,31820231820
+1,Maldives,19,Mohamed Mahfooz,Ishtiaq Ahmad,Ibrahim Nashath,,0,1,1,,,,31820231820

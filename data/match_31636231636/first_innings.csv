@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Ireland,0,PR Stirling,R Trumpelmann,KJ O'Brien,,0,1,1,,,,31636231636
+1,Ireland,0,KJ O'Brien,R Trumpelmann,PR Stirling,,0,0,0,,,,31636231636
+1,Ireland,0,KJ O'Brien,R Trumpelmann,PR Stirling,,0,0,0,,,,31636231636
+1,Ireland,0,KJ O'Brien,R Trumpelmann,PR Stirling,,0,1,1,,,,31636231636
+1,Ireland,0,PR Stirling,R Trumpelmann,KJ O'Brien,,0,0,0,,,,31636231636
+1,Ireland,0,PR Stirling,R Trumpelmann,KJ O'Brien,wides,1,1,0,,,,31636231636
+1,Ireland,0,PR Stirling,R Trumpelmann,KJ O'Brien,,0,0,0,,,,31636231636
+1,Ireland,1,KJ O'Brien,D Wiese,PR Stirling,,0,0,0,,,,31636231636
+1,Ireland,1,KJ O'Brien,D Wiese,PR Stirling,,0,1,1,,,,31636231636
+1,Ireland,1,PR Stirling,D Wiese,KJ O'Brien,,0,0,0,,,,31636231636
+1,Ireland,1,PR Stirling,D Wiese,KJ O'Brien,,0,4,4,,,,31636231636
+1,Ireland,1,PR Stirling,D Wiese,KJ O'Brien,,0,1,1,,,,31636231636
+1,Ireland,1,KJ O'Brien,D Wiese,PR Stirling,,0,0,0,,,,31636231636
+1,Ireland,2,PR Stirling,JJ Smit,KJ O'Brien,,0,0,0,,,,31636231636
+1,Ireland,2,PR Stirling,JJ Smit,KJ O'Brien,,0,6,6,,,,31636231636
+1,Ireland,2,PR Stirling,JJ Smit,KJ O'Brien,,0,1,1,,,,31636231636
+1,Ireland,2,KJ O'Brien,JJ Smit,PR Stirling,,0,0,0,,,,31636231636
+1,Ireland,2,KJ O'Brien,JJ Smit,PR Stirling,,0,2,2,,,,31636231636
+1,Ireland,2,KJ O'Brien,JJ Smit,PR Stirling,,0,2,2,,,,31636231636
+1,Ireland,3,PR Stirling,BM Scholtz,KJ O'Brien,,0,4,4,,,,31636231636
+1,Ireland,3,PR Stirling,BM Scholtz,KJ O'Brien,,0,4,4,,,,31636231636
+1,Ireland,3,PR Stirling,BM Scholtz,KJ O'Brien,,0,1,1,,,,31636231636
+1,Ireland,3,KJ O'Brien,BM Scholtz,PR Stirling,,0,1,1,,,,31636231636
+1,Ireland,3,PR Stirling,BM Scholtz,KJ O'Brien,,0,0,0,,,,31636231636
+1,Ireland,3,PR Stirling,BM Scholtz,KJ O'Brien,,0,4,4,,,,31636231636
+1,Ireland,4,KJ O'Brien,R Trumpelmann,PR Stirling,,0,1,1,,,,31636231636
+1,Ireland,4,PR Stirling,R Trumpelmann,KJ O'Brien,,0,0,0,,,,31636231636
+1,Ireland,4,PR Stirling,R Trumpelmann,KJ O'Brien,,0,2,2,,,,31636231636
+1,Ireland,4,PR Stirling,R Trumpelmann,KJ O'Brien,,0,4,4,,,,31636231636
+1,Ireland,4,PR Stirling,R Trumpelmann,KJ O'Brien,,0,1,1,,,,31636231636
+1,Ireland,4,KJ O'Brien,R Trumpelmann,PR Stirling,,0,1,1,,,,31636231636
+1,Ireland,5,KJ O'Brien,JN Frylinck,PR Stirling,,0,4,4,,,,31636231636
+1,Ireland,5,KJ O'Brien,JN Frylinck,PR Stirling,,0,1,1,,,,31636231636
+1,Ireland,5,PR Stirling,JN Frylinck,KJ O'Brien,,0,1,1,,,,31636231636
+1,Ireland,5,KJ O'Brien,JN Frylinck,PR Stirling,,0,4,4,,,,31636231636
+1,Ireland,5,KJ O'Brien,JN Frylinck,PR Stirling,,0,1,1,,,,31636231636
+1,Ireland,5,PR Stirling,JN Frylinck,KJ O'Brien,,0,1,1,,,,31636231636
+1,Ireland,6,PR Stirling,JJ Smit,KJ O'Brien,,0,1,1,,,,31636231636
+1,Ireland,6,KJ O'Brien,JJ Smit,PR Stirling,,0,1,1,,,,31636231636
+1,Ireland,6,PR Stirling,JJ Smit,KJ O'Brien,,0,1,1,,,,31636231636
+1,Ireland,6,KJ O'Brien,JJ Smit,PR Stirling,,0,1,1,,,,31636231636
+1,Ireland,6,PR Stirling,JJ Smit,KJ O'Brien,,0,1,1,,,,31636231636
+1,Ireland,6,KJ O'Brien,JJ Smit,PR Stirling,,0,1,1,,,,31636231636
+1,Ireland,7,KJ O'Brien,BM Scholtz,PR Stirling,,0,1,1,,,,31636231636
+1,Ireland,7,PR Stirling,BM Scholtz,KJ O'Brien,,0,0,0,caught,PR Stirling,JN Loftie-Eaton,31636231636
+1,Ireland,7,KJ O'Brien,BM Scholtz,A Balbirnie,,0,1,1,,,,31636231636
+1,Ireland,7,A Balbirnie,BM Scholtz,KJ O'Brien,,0,1,1,,,,31636231636
+1,Ireland,7,KJ O'Brien,BM Scholtz,A Balbirnie,,0,1,1,,,,31636231636
+1,Ireland,7,A Balbirnie,BM Scholtz,KJ O'Brien,,0,1,1,,,,31636231636
+1,Ireland,8,A Balbirnie,JN Frylinck,KJ O'Brien,,0,0,0,,,,31636231636
+1,Ireland,8,A Balbirnie,JN Frylinck,KJ O'Brien,,0,1,1,,,,31636231636
+1,Ireland,8,KJ O'Brien,JN Frylinck,A Balbirnie,,0,0,0,,,,31636231636
+1,Ireland,8,KJ O'Brien,JN Frylinck,A Balbirnie,,0,0,0,caught,KJ O'Brien,M van Lingen,31636231636
+1,Ireland,8,A Balbirnie,JN Frylinck,GJ Delany,,0,0,0,,,,31636231636
+1,Ireland,8,A Balbirnie,JN Frylinck,GJ Delany,,0,1,1,,,,31636231636
+1,Ireland,9,A Balbirnie,HN Ya France,GJ Delany,,0,1,1,,,,31636231636
+1,Ireland,9,GJ Delany,HN Ya France,A Balbirnie,,0,0,0,,,,31636231636
+1,Ireland,9,GJ Delany,HN Ya France,A Balbirnie,legbyes,1,1,0,,,,31636231636
+1,Ireland,9,A Balbirnie,HN Ya France,GJ Delany,,0,0,0,,,,31636231636
+1,Ireland,9,A Balbirnie,HN Ya France,GJ Delany,wides,1,1,0,,,,31636231636
+1,Ireland,9,A Balbirnie,HN Ya France,GJ Delany,,0,0,0,,,,31636231636
+1,Ireland,9,A Balbirnie,HN Ya France,GJ Delany,,0,0,0,,,,31636231636
+1,Ireland,10,GJ Delany,JN Frylinck,A Balbirnie,,0,0,0,,,,31636231636
+1,Ireland,10,GJ Delany,JN Frylinck,A Balbirnie,,0,0,0,,,,31636231636
+1,Ireland,10,GJ Delany,JN Frylinck,A Balbirnie,wides,1,1,0,,,,31636231636
+1,Ireland,10,GJ Delany,JN Frylinck,A Balbirnie,,0,0,0,,,,31636231636
+1,Ireland,10,GJ Delany,JN Frylinck,A Balbirnie,,0,1,1,,,,31636231636
+1,Ireland,10,A Balbirnie,JN Frylinck,GJ Delany,,0,1,1,,,,31636231636
+1,Ireland,10,GJ Delany,JN Frylinck,A Balbirnie,,0,1,1,,,,31636231636
+1,Ireland,11,GJ Delany,HN Ya France,A Balbirnie,,0,1,1,,,,31636231636
+1,Ireland,11,A Balbirnie,HN Ya France,GJ Delany,,0,4,4,,,,31636231636
+1,Ireland,11,A Balbirnie,HN Ya France,GJ Delany,,0,1,1,,,,31636231636
+1,Ireland,11,GJ Delany,HN Ya France,A Balbirnie,,0,1,1,,,,31636231636
+1,Ireland,11,A Balbirnie,HN Ya France,GJ Delany,,0,1,1,,,,31636231636
+1,Ireland,11,GJ Delany,HN Ya France,A Balbirnie,,0,1,1,,,,31636231636
+1,Ireland,12,GJ Delany,JJ Smit,A Balbirnie,,0,0,0,,,,31636231636
+1,Ireland,12,GJ Delany,JJ Smit,A Balbirnie,,0,1,1,,,,31636231636
+1,Ireland,12,A Balbirnie,JJ Smit,GJ Delany,,0,0,0,,,,31636231636
+1,Ireland,12,A Balbirnie,JJ Smit,GJ Delany,,0,0,0,,,,31636231636
+1,Ireland,12,A Balbirnie,JJ Smit,GJ Delany,,0,1,1,,,,31636231636
+1,Ireland,12,GJ Delany,JJ Smit,A Balbirnie,,0,2,2,,,,31636231636
+1,Ireland,13,A Balbirnie,BM Scholtz,GJ Delany,,0,4,4,,,,31636231636
+1,Ireland,13,A Balbirnie,BM Scholtz,GJ Delany,,0,1,1,,,,31636231636
+1,Ireland,13,GJ Delany,BM Scholtz,A Balbirnie,,0,0,0,,,,31636231636
+1,Ireland,13,GJ Delany,BM Scholtz,A Balbirnie,,0,0,0,,,,31636231636
+1,Ireland,13,GJ Delany,BM Scholtz,A Balbirnie,,0,1,1,,,,31636231636
+1,Ireland,13,A Balbirnie,BM Scholtz,GJ Delany,,0,0,0,,,,31636231636
+1,Ireland,14,GJ Delany,D Wiese,A Balbirnie,,0,0,0,,,,31636231636
+1,Ireland,14,GJ Delany,D Wiese,A Balbirnie,,0,0,0,bowled,GJ Delany,,31636231636
+1,Ireland,14,C Campher,D Wiese,A Balbirnie,,0,1,1,,,,31636231636
+1,Ireland,14,A Balbirnie,D Wiese,C Campher,,0,0,0,,,,31636231636
+1,Ireland,14,A Balbirnie,D Wiese,C Campher,,0,0,0,,,,31636231636
+1,Ireland,14,A Balbirnie,D Wiese,C Campher,,0,0,0,,,,31636231636
+1,Ireland,15,C Campher,R Trumpelmann,A Balbirnie,,0,1,1,,,,31636231636
+1,Ireland,15,A Balbirnie,R Trumpelmann,C Campher,,0,2,2,,,,31636231636
+1,Ireland,15,A Balbirnie,R Trumpelmann,C Campher,,0,0,0,,,,31636231636
+1,Ireland,15,A Balbirnie,R Trumpelmann,C Campher,,0,0,0,,,,31636231636
+1,Ireland,15,A Balbirnie,R Trumpelmann,C Campher,,0,1,1,,,,31636231636
+1,Ireland,15,C Campher,R Trumpelmann,A Balbirnie,,0,2,2,,,,31636231636
+1,Ireland,16,A Balbirnie,JN Frylinck,C Campher,,0,0,0,lbw,A Balbirnie,,31636231636
+1,Ireland,16,HT Tector,JN Frylinck,C Campher,,0,0,0,,,,31636231636
+1,Ireland,16,HT Tector,JN Frylinck,C Campher,,0,2,2,,,,31636231636
+1,Ireland,16,HT Tector,JN Frylinck,C Campher,,0,1,1,,,,31636231636
+1,Ireland,16,C Campher,JN Frylinck,HT Tector,,0,0,0,,,,31636231636
+1,Ireland,16,C Campher,JN Frylinck,HT Tector,,0,0,0,bowled,C Campher,,31636231636
+1,Ireland,17,HT Tector,D Wiese,NA Rock,,0,1,1,,,,31636231636
+1,Ireland,17,NA Rock,D Wiese,HT Tector,,0,1,1,,,,31636231636
+1,Ireland,17,HT Tector,D Wiese,NA Rock,,0,4,4,,,,31636231636
+1,Ireland,17,HT Tector,D Wiese,NA Rock,,0,0,0,caught,HT Tector,ZE Green,31636231636
+1,Ireland,17,MR Adair,D Wiese,NA Rock,,0,1,1,,,,31636231636
+1,Ireland,17,NA Rock,D Wiese,MR Adair,,0,1,1,,,,31636231636
+1,Ireland,18,NA Rock,JJ Smit,MR Adair,,0,2,2,,,,31636231636
+1,Ireland,18,NA Rock,JJ Smit,MR Adair,,0,1,1,,,,31636231636
+1,Ireland,18,MR Adair,JJ Smit,NA Rock,,0,1,1,,,,31636231636
+1,Ireland,18,NA Rock,JJ Smit,MR Adair,,0,0,0,bowled,NA Rock,,31636231636
+1,Ireland,18,Simi Singh,JJ Smit,MR Adair,,0,1,1,,,,31636231636
+1,Ireland,18,MR Adair,JJ Smit,Simi Singh,,0,1,1,,,,31636231636
+1,Ireland,19,MR Adair,D Wiese,Simi Singh,,0,1,1,,,,31636231636
+1,Ireland,19,Simi Singh,D Wiese,MR Adair,,0,1,1,,,,31636231636
+1,Ireland,19,MR Adair,D Wiese,Simi Singh,,0,1,1,,,,31636231636
+1,Ireland,19,Simi Singh,D Wiese,MR Adair,,0,0,0,run out,MR Adair,D Wiese,31636231636
+1,Ireland,19,CA Young,D Wiese,Simi Singh,,0,1,1,,,,31636231636
+1,Ireland,19,Simi Singh,D Wiese,CA Young,,0,3,3,,,,31636231636

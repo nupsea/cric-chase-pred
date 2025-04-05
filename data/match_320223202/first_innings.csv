@@ -1,0 +1,122 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,West Indies,0,J Charles,TT Bresnan,DR Smith,,0,0,0,,,,320223202
+1,West Indies,0,J Charles,TT Bresnan,DR Smith,,0,1,1,,,,320223202
+1,West Indies,0,DR Smith,TT Bresnan,J Charles,,0,0,0,,,,320223202
+1,West Indies,0,DR Smith,TT Bresnan,J Charles,,0,0,0,,,,320223202
+1,West Indies,0,DR Smith,TT Bresnan,J Charles,,0,2,2,,,,320223202
+1,West Indies,0,DR Smith,TT Bresnan,J Charles,,0,1,1,,,,320223202
+1,West Indies,1,DR Smith,ST Finn,J Charles,,0,0,0,,,,320223202
+1,West Indies,1,DR Smith,ST Finn,J Charles,,0,0,0,,,,320223202
+1,West Indies,1,DR Smith,ST Finn,J Charles,,0,1,1,,,,320223202
+1,West Indies,1,J Charles,ST Finn,DR Smith,,0,0,0,,,,320223202
+1,West Indies,1,J Charles,ST Finn,DR Smith,,0,0,0,,,,320223202
+1,West Indies,1,J Charles,ST Finn,DR Smith,,0,0,0,,,,320223202
+1,West Indies,2,DR Smith,TT Bresnan,J Charles,,0,4,4,,,,320223202
+1,West Indies,2,DR Smith,TT Bresnan,J Charles,wides,1,1,0,,,,320223202
+1,West Indies,2,DR Smith,TT Bresnan,J Charles,,0,6,6,,,,320223202
+1,West Indies,2,DR Smith,TT Bresnan,J Charles,,0,4,4,,,,320223202
+1,West Indies,2,DR Smith,TT Bresnan,J Charles,,0,0,0,,,,320223202
+1,West Indies,2,DR Smith,TT Bresnan,J Charles,,0,6,6,,,,320223202
+1,West Indies,2,DR Smith,TT Bresnan,J Charles,,0,1,1,,,,320223202
+1,West Indies,3,DR Smith,ST Finn,J Charles,,0,1,1,,,,320223202
+1,West Indies,3,J Charles,ST Finn,DR Smith,,0,0,0,,,,320223202
+1,West Indies,3,J Charles,ST Finn,DR Smith,,0,4,4,,,,320223202
+1,West Indies,3,J Charles,ST Finn,DR Smith,,0,2,2,,,,320223202
+1,West Indies,3,J Charles,ST Finn,DR Smith,,0,4,4,,,,320223202
+1,West Indies,3,J Charles,ST Finn,DR Smith,,0,4,4,,,,320223202
+1,West Indies,4,DR Smith,JW Dernbach,J Charles,,0,0,0,,,,320223202
+1,West Indies,4,DR Smith,JW Dernbach,J Charles,,0,0,0,,,,320223202
+1,West Indies,4,DR Smith,JW Dernbach,J Charles,,0,1,1,,,,320223202
+1,West Indies,4,J Charles,JW Dernbach,DR Smith,,0,0,0,,,,320223202
+1,West Indies,4,J Charles,JW Dernbach,DR Smith,,0,0,0,,,,320223202
+1,West Indies,4,J Charles,JW Dernbach,DR Smith,,0,1,1,,,,320223202
+1,West Indies,5,J Charles,SR Patel,DR Smith,,0,0,0,,,,320223202
+1,West Indies,5,J Charles,SR Patel,DR Smith,,0,1,1,,,,320223202
+1,West Indies,5,DR Smith,SR Patel,J Charles,,0,2,2,,,,320223202
+1,West Indies,5,DR Smith,SR Patel,J Charles,,0,4,4,,,,320223202
+1,West Indies,5,DR Smith,SR Patel,J Charles,,0,0,0,,,,320223202
+1,West Indies,5,DR Smith,SR Patel,J Charles,,0,0,0,bowled,DR Smith,,320223202
+1,West Indies,6,J Charles,GP Swann,MN Samuels,,0,0,0,,,,320223202
+1,West Indies,6,J Charles,GP Swann,MN Samuels,,0,1,1,,,,320223202
+1,West Indies,6,MN Samuels,GP Swann,J Charles,,0,1,1,,,,320223202
+1,West Indies,6,J Charles,GP Swann,MN Samuels,,0,0,0,,,,320223202
+1,West Indies,6,J Charles,GP Swann,MN Samuels,,0,2,2,,,,320223202
+1,West Indies,6,J Charles,GP Swann,MN Samuels,,0,0,0,,,,320223202
+1,West Indies,7,MN Samuels,SR Patel,J Charles,,0,0,0,,,,320223202
+1,West Indies,7,MN Samuels,SR Patel,J Charles,,0,1,1,,,,320223202
+1,West Indies,7,J Charles,SR Patel,MN Samuels,,0,0,0,,,,320223202
+1,West Indies,7,J Charles,SR Patel,MN Samuels,,0,0,0,,,,320223202
+1,West Indies,7,J Charles,SR Patel,MN Samuels,,0,0,0,,,,320223202
+1,West Indies,7,J Charles,SR Patel,MN Samuels,,0,2,2,,,,320223202
+1,West Indies,8,MN Samuels,GP Swann,J Charles,,0,0,0,,,,320223202
+1,West Indies,8,MN Samuels,GP Swann,J Charles,,0,1,1,,,,320223202
+1,West Indies,8,J Charles,GP Swann,MN Samuels,,0,1,1,,,,320223202
+1,West Indies,8,MN Samuels,GP Swann,J Charles,,0,1,1,,,,320223202
+1,West Indies,8,J Charles,GP Swann,MN Samuels,,0,1,1,,,,320223202
+1,West Indies,8,MN Samuels,GP Swann,J Charles,,0,0,0,bowled,MN Samuels,,320223202
+1,West Indies,9,J Charles,SR Patel,DP Hyatt,,0,1,1,,,,320223202
+1,West Indies,9,DP Hyatt,SR Patel,J Charles,,0,0,0,,,,320223202
+1,West Indies,9,DP Hyatt,SR Patel,J Charles,,0,1,1,,,,320223202
+1,West Indies,9,J Charles,SR Patel,DP Hyatt,,0,1,1,,,,320223202
+1,West Indies,9,DP Hyatt,SR Patel,J Charles,,0,0,0,,,,320223202
+1,West Indies,9,DP Hyatt,SR Patel,J Charles,,0,1,1,,,,320223202
+1,West Indies,10,DP Hyatt,GP Swann,J Charles,,0,0,0,,,,320223202
+1,West Indies,10,DP Hyatt,GP Swann,J Charles,,0,1,1,,,,320223202
+1,West Indies,10,J Charles,GP Swann,DP Hyatt,,0,1,1,,,,320223202
+1,West Indies,10,DP Hyatt,GP Swann,J Charles,,0,1,1,,,,320223202
+1,West Indies,10,J Charles,GP Swann,DP Hyatt,,0,1,1,,,,320223202
+1,West Indies,10,DP Hyatt,GP Swann,J Charles,,0,1,1,,,,320223202
+1,West Indies,11,DP Hyatt,RS Bopara,J Charles,,0,1,1,,,,320223202
+1,West Indies,11,J Charles,RS Bopara,DP Hyatt,,0,0,0,,,,320223202
+1,West Indies,11,J Charles,RS Bopara,DP Hyatt,,0,0,0,,,,320223202
+1,West Indies,11,J Charles,RS Bopara,DP Hyatt,,0,0,0,,,,320223202
+1,West Indies,11,J Charles,RS Bopara,DP Hyatt,,0,0,0,,,,320223202
+1,West Indies,11,J Charles,RS Bopara,DP Hyatt,,0,0,0,,,,320223202
+1,West Indies,12,DP Hyatt,GP Swann,J Charles,,0,6,6,,,,320223202
+1,West Indies,12,DP Hyatt,GP Swann,J Charles,wides,1,1,0,,,,320223202
+1,West Indies,12,DP Hyatt,GP Swann,J Charles,,0,0,0,,,,320223202
+1,West Indies,12,DP Hyatt,GP Swann,J Charles,,0,0,0,,,,320223202
+1,West Indies,12,DP Hyatt,GP Swann,J Charles,,0,6,6,,,,320223202
+1,West Indies,12,DP Hyatt,GP Swann,J Charles,,0,0,0,,,,320223202
+1,West Indies,12,DP Hyatt,GP Swann,J Charles,,0,4,4,,,,320223202
+1,West Indies,13,J Charles,SR Patel,DP Hyatt,,0,2,2,,,,320223202
+1,West Indies,13,J Charles,SR Patel,DP Hyatt,,0,0,0,,,,320223202
+1,West Indies,13,J Charles,SR Patel,DP Hyatt,,0,6,6,,,,320223202
+1,West Indies,13,J Charles,SR Patel,DP Hyatt,,0,0,0,caught,J Charles,ST Finn,320223202
+1,West Indies,13,DP Hyatt,SR Patel,NE Bonner,,0,1,1,,,,320223202
+1,West Indies,13,NE Bonner,SR Patel,DP Hyatt,,0,0,0,,,,320223202
+1,West Indies,14,DP Hyatt,JW Dernbach,NE Bonner,,0,1,1,,,,320223202
+1,West Indies,14,NE Bonner,JW Dernbach,DP Hyatt,,0,0,0,,,,320223202
+1,West Indies,14,NE Bonner,JW Dernbach,DP Hyatt,,0,3,3,,,,320223202
+1,West Indies,14,DP Hyatt,JW Dernbach,NE Bonner,,0,0,0,,,,320223202
+1,West Indies,14,DP Hyatt,JW Dernbach,NE Bonner,,0,1,1,,,,320223202
+1,West Indies,14,NE Bonner,JW Dernbach,DP Hyatt,,0,0,0,,,,320223202
+1,West Indies,15,DP Hyatt,RS Bopara,NE Bonner,,0,1,1,,,,320223202
+1,West Indies,15,NE Bonner,RS Bopara,DP Hyatt,,0,0,0,bowled,NE Bonner,,320223202
+1,West Indies,15,CD Barnwell,RS Bopara,DP Hyatt,,0,0,0,caught,CD Barnwell,C Kieswetter,320223202
+1,West Indies,15,AD Russell,RS Bopara,DP Hyatt,,0,0,0,,,,320223202
+1,West Indies,15,AD Russell,RS Bopara,DP Hyatt,,0,1,1,,,,320223202
+1,West Indies,15,DP Hyatt,RS Bopara,AD Russell,,0,0,0,,,,320223202
+1,West Indies,16,AD Russell,JW Dernbach,DP Hyatt,,0,1,1,,,,320223202
+1,West Indies,16,DP Hyatt,JW Dernbach,AD Russell,,0,0,0,,,,320223202
+1,West Indies,16,DP Hyatt,JW Dernbach,AD Russell,,0,1,1,,,,320223202
+1,West Indies,16,AD Russell,JW Dernbach,DP Hyatt,,0,4,4,,,,320223202
+1,West Indies,16,AD Russell,JW Dernbach,DP Hyatt,,0,0,0,,,,320223202
+1,West Indies,16,AD Russell,JW Dernbach,DP Hyatt,,0,0,0,,,,320223202
+1,West Indies,17,DP Hyatt,RS Bopara,AD Russell,,0,0,0,,,,320223202
+1,West Indies,17,DP Hyatt,RS Bopara,AD Russell,,0,1,1,run out,AD Russell,RS Bopara,320223202
+1,West Indies,17,DP Hyatt,RS Bopara,DO Christian,,0,0,0,bowled,DP Hyatt,,320223202
+1,West Indies,17,DJG Sammy,RS Bopara,DO Christian,,0,0,0,,,,320223202
+1,West Indies,17,DJG Sammy,RS Bopara,DO Christian,,0,2,2,,,,320223202
+1,West Indies,17,DJG Sammy,RS Bopara,DO Christian,,0,2,2,,,,320223202
+1,West Indies,18,DO Christian,JW Dernbach,DJG Sammy,,0,0,0,,,,320223202
+1,West Indies,18,DO Christian,JW Dernbach,DJG Sammy,,0,0,0,bowled,DO Christian,,320223202
+1,West Indies,18,D Bishoo,JW Dernbach,DJG Sammy,wides,1,1,0,,,,320223202
+1,West Indies,18,D Bishoo,JW Dernbach,DJG Sammy,,0,0,0,run out,D Bishoo,JC Buttler,320223202
+1,West Indies,18,FH Edwards,JW Dernbach,DJG Sammy,,0,4,4,,,,320223202
+1,West Indies,18,FH Edwards,JW Dernbach,DJG Sammy,,0,0,0,,,,320223202
+1,West Indies,18,FH Edwards,JW Dernbach,DJG Sammy,,0,2,2,,,,320223202
+1,West Indies,19,DJG Sammy,RS Bopara,FH Edwards,,0,0,0,,,,320223202
+1,West Indies,19,DJG Sammy,RS Bopara,FH Edwards,,0,1,1,,,,320223202
+1,West Indies,19,FH Edwards,RS Bopara,DJG Sammy,,0,1,1,,,,320223202
+1,West Indies,19,DJG Sammy,RS Bopara,FH Edwards,,0,0,0,caught,DJG Sammy,JM Bairstow,320223202

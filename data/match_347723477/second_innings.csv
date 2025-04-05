@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Australia,0,BR Dunk,KJ Abbott,AJ Finch,,0,3,3,,,,347723477
+2,Australia,0,AJ Finch,KJ Abbott,BR Dunk,,0,0,0,,,,347723477
+2,Australia,0,AJ Finch,KJ Abbott,BR Dunk,,0,0,0,,,,347723477
+2,Australia,0,AJ Finch,KJ Abbott,BR Dunk,,0,0,0,,,,347723477
+2,Australia,0,AJ Finch,KJ Abbott,BR Dunk,,0,0,0,,,,347723477
+2,Australia,0,AJ Finch,KJ Abbott,BR Dunk,,0,1,1,,,,347723477
+2,Australia,1,AJ Finch,M de Lange,BR Dunk,,0,4,4,,,,347723477
+2,Australia,1,AJ Finch,M de Lange,BR Dunk,,0,0,0,,,,347723477
+2,Australia,1,AJ Finch,M de Lange,BR Dunk,,0,0,0,,,,347723477
+2,Australia,1,AJ Finch,M de Lange,BR Dunk,,0,2,2,,,,347723477
+2,Australia,1,AJ Finch,M de Lange,BR Dunk,wides,3,3,0,,,,347723477
+2,Australia,1,AJ Finch,M de Lange,BR Dunk,,0,0,0,,,,347723477
+2,Australia,1,AJ Finch,M de Lange,BR Dunk,,0,4,4,,,,347723477
+2,Australia,2,BR Dunk,KJ Abbott,AJ Finch,,0,1,1,,,,347723477
+2,Australia,2,AJ Finch,KJ Abbott,BR Dunk,,0,0,0,,,,347723477
+2,Australia,2,AJ Finch,KJ Abbott,BR Dunk,,0,2,2,,,,347723477
+2,Australia,2,AJ Finch,KJ Abbott,BR Dunk,,0,0,0,,,,347723477
+2,Australia,2,AJ Finch,KJ Abbott,BR Dunk,,0,0,0,,,,347723477
+2,Australia,2,AJ Finch,KJ Abbott,BR Dunk,,0,1,1,,,,347723477
+2,Australia,3,AJ Finch,WD Parnell,BR Dunk,,0,6,6,,,,347723477
+2,Australia,3,AJ Finch,WD Parnell,BR Dunk,,0,2,2,,,,347723477
+2,Australia,3,AJ Finch,WD Parnell,BR Dunk,,0,0,0,,,,347723477
+2,Australia,3,AJ Finch,WD Parnell,BR Dunk,,0,6,6,,,,347723477
+2,Australia,3,AJ Finch,WD Parnell,BR Dunk,,0,1,1,,,,347723477
+2,Australia,3,BR Dunk,WD Parnell,AJ Finch,,0,0,0,,,,347723477
+2,Australia,4,AJ Finch,D Wiese,BR Dunk,,0,2,2,,,,347723477
+2,Australia,4,AJ Finch,D Wiese,BR Dunk,,0,2,2,,,,347723477
+2,Australia,4,AJ Finch,D Wiese,BR Dunk,,0,0,0,,,,347723477
+2,Australia,4,AJ Finch,D Wiese,BR Dunk,,0,0,0,caught,AJ Finch,M de Lange,347723477
+2,Australia,4,SR Watson,D Wiese,BR Dunk,,0,0,0,,,,347723477
+2,Australia,4,SR Watson,D Wiese,BR Dunk,,0,0,0,,,,347723477
+2,Australia,5,BR Dunk,M de Lange,SR Watson,,0,3,3,,,,347723477
+2,Australia,5,SR Watson,M de Lange,BR Dunk,,0,1,1,,,,347723477
+2,Australia,5,BR Dunk,M de Lange,SR Watson,,0,0,0,,,,347723477
+2,Australia,5,BR Dunk,M de Lange,SR Watson,,0,1,1,,,,347723477
+2,Australia,5,SR Watson,M de Lange,BR Dunk,,0,0,0,,,,347723477
+2,Australia,5,SR Watson,M de Lange,BR Dunk,,0,1,1,,,,347723477
+2,Australia,6,SR Watson,RJ Peterson,BR Dunk,,0,0,0,,,,347723477
+2,Australia,6,SR Watson,RJ Peterson,BR Dunk,,0,1,1,,,,347723477
+2,Australia,6,BR Dunk,RJ Peterson,SR Watson,,0,6,6,,,,347723477
+2,Australia,6,BR Dunk,RJ Peterson,SR Watson,,0,0,0,caught and bowled,BR Dunk,,347723477
+2,Australia,6,NJ Maddinson,RJ Peterson,SR Watson,,0,0,0,,,,347723477
+2,Australia,6,NJ Maddinson,RJ Peterson,SR Watson,,0,0,0,,,,347723477
+2,Australia,7,SR Watson,D Wiese,NJ Maddinson,,0,1,1,,,,347723477
+2,Australia,7,NJ Maddinson,D Wiese,SR Watson,,0,1,1,,,,347723477
+2,Australia,7,SR Watson,D Wiese,NJ Maddinson,,0,1,1,,,,347723477
+2,Australia,7,NJ Maddinson,D Wiese,SR Watson,,0,2,2,,,,347723477
+2,Australia,7,NJ Maddinson,D Wiese,SR Watson,,0,1,1,,,,347723477
+2,Australia,7,SR Watson,D Wiese,NJ Maddinson,wides,2,2,0,,,,347723477
+2,Australia,7,NJ Maddinson,D Wiese,SR Watson,,0,0,0,bowled,NJ Maddinson,,347723477
+2,Australia,8,SR Watson,RJ Peterson,GJ Maxwell,wides,1,1,0,,,,347723477
+2,Australia,8,SR Watson,RJ Peterson,GJ Maxwell,,0,0,0,caught,SR Watson,DA Miller,347723477
+2,Australia,8,GJ Maxwell,RJ Peterson,CL White,,0,0,0,,,,347723477
+2,Australia,8,GJ Maxwell,RJ Peterson,CL White,,0,1,1,,,,347723477
+2,Australia,8,CL White,RJ Peterson,GJ Maxwell,,0,0,0,,,,347723477
+2,Australia,8,CL White,RJ Peterson,GJ Maxwell,,0,0,0,,,,347723477
+2,Australia,8,CL White,RJ Peterson,GJ Maxwell,,0,1,1,,,,347723477
+2,Australia,9,CL White,WD Parnell,GJ Maxwell,,0,4,4,,,,347723477
+2,Australia,9,CL White,WD Parnell,GJ Maxwell,,0,1,1,,,,347723477
+2,Australia,9,GJ Maxwell,WD Parnell,CL White,,0,0,0,,,,347723477
+2,Australia,9,GJ Maxwell,WD Parnell,CL White,,0,2,2,,,,347723477
+2,Australia,9,GJ Maxwell,WD Parnell,CL White,,0,1,1,,,,347723477
+2,Australia,9,CL White,WD Parnell,GJ Maxwell,,0,4,4,,,,347723477
+2,Australia,10,GJ Maxwell,RJ Peterson,CL White,,0,6,6,,,,347723477
+2,Australia,10,GJ Maxwell,RJ Peterson,CL White,,0,1,1,,,,347723477
+2,Australia,10,CL White,RJ Peterson,GJ Maxwell,,0,1,1,,,,347723477
+2,Australia,10,GJ Maxwell,RJ Peterson,CL White,,0,0,0,,,,347723477
+2,Australia,10,GJ Maxwell,RJ Peterson,CL White,,0,4,4,,,,347723477
+2,Australia,10,GJ Maxwell,RJ Peterson,CL White,,0,2,2,,,,347723477
+2,Australia,11,CL White,D Wiese,GJ Maxwell,,0,1,1,,,,347723477
+2,Australia,11,GJ Maxwell,D Wiese,CL White,,0,0,0,,,,347723477
+2,Australia,11,GJ Maxwell,D Wiese,CL White,,0,1,1,,,,347723477
+2,Australia,11,CL White,D Wiese,GJ Maxwell,,0,0,0,,,,347723477
+2,Australia,11,CL White,D Wiese,GJ Maxwell,,0,1,1,,,,347723477
+2,Australia,11,GJ Maxwell,D Wiese,CL White,,0,4,4,,,,347723477
+2,Australia,12,CL White,RJ Peterson,GJ Maxwell,,0,1,1,,,,347723477
+2,Australia,12,GJ Maxwell,RJ Peterson,CL White,,0,1,1,,,,347723477
+2,Australia,12,CL White,RJ Peterson,GJ Maxwell,,0,0,0,,,,347723477
+2,Australia,12,CL White,RJ Peterson,GJ Maxwell,,0,1,1,,,,347723477
+2,Australia,12,GJ Maxwell,RJ Peterson,CL White,,0,0,0,caught,GJ Maxwell,RR Hendricks,347723477
+2,Australia,12,CL White,RJ Peterson,JP Faulkner,,0,1,1,,,,347723477
+2,Australia,13,CL White,M de Lange,JP Faulkner,,0,1,1,,,,347723477
+2,Australia,13,JP Faulkner,M de Lange,CL White,,0,1,1,,,,347723477
+2,Australia,13,CL White,M de Lange,JP Faulkner,,0,0,0,,,,347723477
+2,Australia,13,CL White,M de Lange,JP Faulkner,,0,0,0,,,,347723477
+2,Australia,13,CL White,M de Lange,JP Faulkner,,0,1,1,,,,347723477
+2,Australia,13,JP Faulkner,M de Lange,CL White,,0,1,1,,,,347723477
+2,Australia,14,JP Faulkner,WD Parnell,CL White,,0,0,0,,,,347723477
+2,Australia,14,JP Faulkner,WD Parnell,CL White,,0,1,1,,,,347723477
+2,Australia,14,CL White,WD Parnell,JP Faulkner,,0,6,6,,,,347723477
+2,Australia,14,CL White,WD Parnell,JP Faulkner,,0,1,1,,,,347723477
+2,Australia,14,JP Faulkner,WD Parnell,CL White,,0,0,0,,,,347723477
+2,Australia,14,JP Faulkner,WD Parnell,CL White,wides,1,1,0,,,,347723477
+2,Australia,14,JP Faulkner,WD Parnell,CL White,,0,0,0,,,,347723477
+2,Australia,15,CL White,M de Lange,JP Faulkner,,0,4,4,,,,347723477
+2,Australia,15,CL White,M de Lange,JP Faulkner,,0,0,0,,,,347723477
+2,Australia,15,CL White,M de Lange,JP Faulkner,,0,1,1,,,,347723477
+2,Australia,15,JP Faulkner,M de Lange,CL White,,0,6,6,,,,347723477
+2,Australia,15,JP Faulkner,M de Lange,CL White,,0,0,0,caught,JP Faulkner,DA Miller,347723477
+2,Australia,15,PJ Cummins,M de Lange,CL White,,0,0,0,,,,347723477
+2,Australia,16,CL White,KJ Abbott,PJ Cummins,,0,4,4,,,,347723477
+2,Australia,16,CL White,KJ Abbott,PJ Cummins,,0,1,1,,,,347723477
+2,Australia,16,PJ Cummins,KJ Abbott,CL White,,0,0,0,,,,347723477
+2,Australia,16,PJ Cummins,KJ Abbott,CL White,,0,1,1,,,,347723477
+2,Australia,16,CL White,KJ Abbott,PJ Cummins,,0,1,1,,,,347723477
+2,Australia,16,PJ Cummins,KJ Abbott,CL White,,0,2,2,,,,347723477
+2,Australia,17,CL White,D Wiese,PJ Cummins,,0,1,1,,,,347723477
+2,Australia,17,PJ Cummins,D Wiese,CL White,,0,0,0,,,,347723477
+2,Australia,17,PJ Cummins,D Wiese,CL White,,0,0,0,,,,347723477
+2,Australia,17,PJ Cummins,D Wiese,CL White,,0,0,0,caught and bowled,PJ Cummins,,347723477
+2,Australia,17,SA Abbott,D Wiese,CL White,,0,0,0,,,,347723477
+2,Australia,17,SA Abbott,D Wiese,CL White,wides,1,1,0,,,,347723477
+2,Australia,17,SA Abbott,D Wiese,CL White,,0,0,0,,,,347723477
+2,Australia,18,CL White,WD Parnell,SA Abbott,,0,1,1,,,,347723477
+2,Australia,18,SA Abbott,WD Parnell,CL White,,0,0,0,,,,347723477
+2,Australia,18,SA Abbott,WD Parnell,CL White,,0,4,4,,,,347723477
+2,Australia,18,SA Abbott,WD Parnell,CL White,,0,1,1,,,,347723477
+2,Australia,18,CL White,WD Parnell,SA Abbott,,0,1,1,,,,347723477
+2,Australia,18,SA Abbott,WD Parnell,CL White,,0,0,0,,,,347723477
+2,Australia,19,CL White,KJ Abbott,SA Abbott,,0,1,1,,,,347723477
+2,Australia,19,SA Abbott,KJ Abbott,CL White,,0,0,0,,,,347723477
+2,Australia,19,SA Abbott,KJ Abbott,CL White,,0,0,0,lbw,SA Abbott,,347723477
+2,Australia,19,CJ Boyce,KJ Abbott,CL White,,0,1,1,,,,347723477
+2,Australia,19,CL White,KJ Abbott,CJ Boyce,,0,1,1,,,,347723477

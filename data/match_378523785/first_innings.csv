@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,New Zealand,0,SW Bates,M Kapp,SFM Devine,,0,0,0,,,,378523785
+1,New Zealand,0,SW Bates,M Kapp,SFM Devine,,0,1,1,,,,378523785
+1,New Zealand,0,SFM Devine,M Kapp,SW Bates,,0,0,0,,,,378523785
+1,New Zealand,0,SFM Devine,M Kapp,SW Bates,,0,0,0,,,,378523785
+1,New Zealand,0,SFM Devine,M Kapp,SW Bates,,0,1,1,,,,378523785
+1,New Zealand,0,SW Bates,M Kapp,SFM Devine,,0,0,0,,,,378523785
+1,New Zealand,1,SFM Devine,S Ismail,SW Bates,,0,5,5,,,,378523785
+1,New Zealand,1,SW Bates,S Ismail,SFM Devine,,0,0,0,,,,378523785
+1,New Zealand,1,SW Bates,S Ismail,SFM Devine,noballs,1,1,0,,,,378523785
+1,New Zealand,1,SW Bates,S Ismail,SFM Devine,,0,4,4,,,,378523785
+1,New Zealand,1,SW Bates,S Ismail,SFM Devine,,0,4,4,,,,378523785
+1,New Zealand,1,SW Bates,S Ismail,SFM Devine,,0,4,4,,,,378523785
+1,New Zealand,1,SW Bates,S Ismail,SFM Devine,,0,0,0,,,,378523785
+1,New Zealand,2,SFM Devine,M Kapp,SW Bates,,0,1,1,,,,378523785
+1,New Zealand,2,SW Bates,M Kapp,SFM Devine,,0,0,0,,,,378523785
+1,New Zealand,2,SW Bates,M Kapp,SFM Devine,,0,0,0,,,,378523785
+1,New Zealand,2,SW Bates,M Kapp,SFM Devine,,0,0,0,,,,378523785
+1,New Zealand,2,SW Bates,M Kapp,SFM Devine,,0,1,1,,,,378523785
+1,New Zealand,2,SFM Devine,M Kapp,SW Bates,,0,2,2,,,,378523785
+1,New Zealand,3,SW Bates,S Ismail,SFM Devine,,0,0,0,,,,378523785
+1,New Zealand,3,SW Bates,S Ismail,SFM Devine,,0,0,0,,,,378523785
+1,New Zealand,3,SW Bates,S Ismail,SFM Devine,,0,4,4,,,,378523785
+1,New Zealand,3,SW Bates,S Ismail,SFM Devine,,0,3,3,,,,378523785
+1,New Zealand,3,SFM Devine,S Ismail,SW Bates,byes,1,1,0,,,,378523785
+1,New Zealand,3,SW Bates,S Ismail,SFM Devine,,0,1,1,,,,378523785
+1,New Zealand,4,SW Bates,Z Mali,SFM Devine,,0,2,2,,,,378523785
+1,New Zealand,4,SW Bates,Z Mali,SFM Devine,,0,1,1,,,,378523785
+1,New Zealand,4,SFM Devine,Z Mali,SW Bates,,0,0,0,,,,378523785
+1,New Zealand,4,SFM Devine,Z Mali,SW Bates,,0,4,4,,,,378523785
+1,New Zealand,4,SFM Devine,Z Mali,SW Bates,,0,4,4,,,,378523785
+1,New Zealand,4,SFM Devine,Z Mali,SW Bates,,0,1,1,,,,378523785
+1,New Zealand,5,SFM Devine,R Ntozakhe,SW Bates,,0,4,4,,,,378523785
+1,New Zealand,5,SFM Devine,R Ntozakhe,SW Bates,,0,1,1,,,,378523785
+1,New Zealand,5,SW Bates,R Ntozakhe,SFM Devine,,0,1,1,,,,378523785
+1,New Zealand,5,SFM Devine,R Ntozakhe,SW Bates,,0,1,1,,,,378523785
+1,New Zealand,5,SW Bates,R Ntozakhe,SFM Devine,,0,4,4,,,,378523785
+1,New Zealand,5,SW Bates,R Ntozakhe,SFM Devine,,0,0,0,,,,378523785
+1,New Zealand,6,SFM Devine,Z Mali,SW Bates,,0,1,1,,,,378523785
+1,New Zealand,6,SW Bates,Z Mali,SFM Devine,,0,1,1,,,,378523785
+1,New Zealand,6,SFM Devine,Z Mali,SW Bates,,0,1,1,,,,378523785
+1,New Zealand,6,SW Bates,Z Mali,SFM Devine,,0,1,1,,,,378523785
+1,New Zealand,6,SFM Devine,Z Mali,SW Bates,,0,1,1,,,,378523785
+1,New Zealand,6,SW Bates,Z Mali,SFM Devine,,0,0,0,,,,378523785
+1,New Zealand,7,SFM Devine,R Ntozakhe,SW Bates,,0,6,6,,,,378523785
+1,New Zealand,7,SFM Devine,R Ntozakhe,SW Bates,,0,0,0,,,,378523785
+1,New Zealand,7,SFM Devine,R Ntozakhe,SW Bates,,0,2,2,,,,378523785
+1,New Zealand,7,SFM Devine,R Ntozakhe,SW Bates,,0,1,1,,,,378523785
+1,New Zealand,7,SW Bates,R Ntozakhe,SFM Devine,,0,2,2,,,,378523785
+1,New Zealand,7,SW Bates,R Ntozakhe,SFM Devine,,0,4,4,,,,378523785
+1,New Zealand,8,SFM Devine,Z Mali,SW Bates,,0,0,0,,,,378523785
+1,New Zealand,8,SFM Devine,Z Mali,SW Bates,,0,0,0,,,,378523785
+1,New Zealand,8,SFM Devine,Z Mali,SW Bates,,0,4,4,,,,378523785
+1,New Zealand,8,SFM Devine,Z Mali,SW Bates,,0,1,1,,,,378523785
+1,New Zealand,8,SW Bates,Z Mali,SFM Devine,,0,4,4,,,,378523785
+1,New Zealand,8,SW Bates,Z Mali,SFM Devine,,0,0,0,,,,378523785
+1,New Zealand,9,SFM Devine,D van Niekerk,SW Bates,,0,0,0,,,,378523785
+1,New Zealand,9,SFM Devine,D van Niekerk,SW Bates,,0,3,3,,,,378523785
+1,New Zealand,9,SW Bates,D van Niekerk,SFM Devine,,0,1,1,,,,378523785
+1,New Zealand,9,SFM Devine,D van Niekerk,SW Bates,,0,1,1,,,,378523785
+1,New Zealand,9,SW Bates,D van Niekerk,SFM Devine,,0,1,1,,,,378523785
+1,New Zealand,9,SFM Devine,D van Niekerk,SW Bates,,0,0,0,,,,378523785
+1,New Zealand,10,SW Bates,S Luus,SFM Devine,,0,4,4,,,,378523785
+1,New Zealand,10,SW Bates,S Luus,SFM Devine,,0,2,2,,,,378523785
+1,New Zealand,10,SW Bates,S Luus,SFM Devine,,0,1,1,,,,378523785
+1,New Zealand,10,SFM Devine,S Luus,SW Bates,,0,0,0,,,,378523785
+1,New Zealand,10,SFM Devine,S Luus,SW Bates,,0,1,1,,,,378523785
+1,New Zealand,10,SW Bates,S Luus,SFM Devine,,0,1,1,,,,378523785
+1,New Zealand,11,SW Bates,D van Niekerk,SFM Devine,,0,0,0,,,,378523785
+1,New Zealand,11,SW Bates,D van Niekerk,SFM Devine,,0,1,1,,,,378523785
+1,New Zealand,11,SFM Devine,D van Niekerk,SW Bates,,0,1,1,,,,378523785
+1,New Zealand,11,SW Bates,D van Niekerk,SFM Devine,,0,1,1,,,,378523785
+1,New Zealand,11,SFM Devine,D van Niekerk,SW Bates,,0,0,0,,,,378523785
+1,New Zealand,11,SFM Devine,D van Niekerk,SW Bates,,0,0,0,,,,378523785
+1,New Zealand,12,SW Bates,S Luus,SFM Devine,,0,4,4,,,,378523785
+1,New Zealand,12,SW Bates,S Luus,SFM Devine,,0,6,6,,,,378523785
+1,New Zealand,12,SW Bates,S Luus,SFM Devine,,0,1,1,,,,378523785
+1,New Zealand,12,SFM Devine,S Luus,SW Bates,,0,1,1,,,,378523785
+1,New Zealand,12,SW Bates,S Luus,SFM Devine,,0,4,4,,,,378523785
+1,New Zealand,12,SW Bates,S Luus,SFM Devine,,0,4,4,,,,378523785
+1,New Zealand,13,SFM Devine,D van Niekerk,SW Bates,,0,6,6,,,,378523785
+1,New Zealand,13,SFM Devine,D van Niekerk,SW Bates,,0,1,1,,,,378523785
+1,New Zealand,13,SW Bates,D van Niekerk,SFM Devine,,0,2,2,,,,378523785
+1,New Zealand,13,SW Bates,D van Niekerk,SFM Devine,,0,2,2,,,,378523785
+1,New Zealand,13,SW Bates,D van Niekerk,SFM Devine,,0,1,1,,,,378523785
+1,New Zealand,13,SFM Devine,D van Niekerk,SW Bates,,0,6,6,,,,378523785
+1,New Zealand,14,SW Bates,Z Mali,SFM Devine,,0,6,6,,,,378523785
+1,New Zealand,14,SW Bates,Z Mali,SFM Devine,,0,1,1,,,,378523785
+1,New Zealand,14,SFM Devine,Z Mali,SW Bates,,0,1,1,,,,378523785
+1,New Zealand,14,SW Bates,Z Mali,SFM Devine,,0,1,1,,,,378523785
+1,New Zealand,14,SFM Devine,Z Mali,SW Bates,,0,0,0,,,,378523785
+1,New Zealand,14,SFM Devine,Z Mali,SW Bates,,0,6,6,,,,378523785
+1,New Zealand,15,SW Bates,S Ismail,SFM Devine,,0,4,4,,,,378523785
+1,New Zealand,15,SW Bates,S Ismail,SFM Devine,,0,1,1,,,,378523785
+1,New Zealand,15,SFM Devine,S Ismail,SW Bates,byes,4,4,0,,,,378523785
+1,New Zealand,15,SFM Devine,S Ismail,SW Bates,,0,1,1,,,,378523785
+1,New Zealand,15,SW Bates,S Ismail,SFM Devine,wides,1,1,0,,,,378523785
+1,New Zealand,15,SW Bates,S Ismail,SFM Devine,,0,1,1,,,,378523785
+1,New Zealand,15,SFM Devine,S Ismail,SW Bates,,0,1,1,,,,378523785
+1,New Zealand,16,SFM Devine,D van Niekerk,SW Bates,,0,2,2,,,,378523785
+1,New Zealand,16,SFM Devine,D van Niekerk,SW Bates,,0,1,1,,,,378523785
+1,New Zealand,16,SW Bates,D van Niekerk,SFM Devine,,0,4,4,,,,378523785
+1,New Zealand,16,SW Bates,D van Niekerk,SFM Devine,,0,4,4,,,,378523785
+1,New Zealand,16,SW Bates,D van Niekerk,SFM Devine,,0,0,0,,,,378523785
+1,New Zealand,16,SW Bates,D van Niekerk,SFM Devine,,0,1,1,,,,378523785
+1,New Zealand,17,SW Bates,M Kapp,SFM Devine,,0,1,1,,,,378523785
+1,New Zealand,17,SFM Devine,M Kapp,SW Bates,,0,0,0,,,,378523785
+1,New Zealand,17,SFM Devine,M Kapp,SW Bates,,0,0,0,caught,SFM Devine,T Brits,378523785
+1,New Zealand,17,SW Bates,M Kapp,KJ Martin,,0,2,2,,,,378523785
+1,New Zealand,17,SW Bates,M Kapp,KJ Martin,,0,1,1,,,,378523785
+1,New Zealand,17,KJ Martin,M Kapp,SW Bates,,0,1,1,,,,378523785
+1,New Zealand,18,KJ Martin,S Ismail,SW Bates,,0,1,1,,,,378523785
+1,New Zealand,18,SW Bates,S Ismail,KJ Martin,,0,1,1,,,,378523785
+1,New Zealand,18,KJ Martin,S Ismail,SW Bates,,0,1,1,,,,378523785
+1,New Zealand,18,SW Bates,S Ismail,KJ Martin,,0,4,4,,,,378523785
+1,New Zealand,18,SW Bates,S Ismail,KJ Martin,,0,1,1,,,,378523785
+1,New Zealand,18,KJ Martin,S Ismail,SW Bates,,0,1,1,,,,378523785
+1,New Zealand,19,KJ Martin,M Kapp,SW Bates,,0,2,2,,,,378523785
+1,New Zealand,19,KJ Martin,M Kapp,SW Bates,,0,1,1,,,,378523785
+1,New Zealand,19,SW Bates,M Kapp,KJ Martin,,0,4,4,,,,378523785
+1,New Zealand,19,SW Bates,M Kapp,KJ Martin,,0,6,6,,,,378523785
+1,New Zealand,19,SW Bates,M Kapp,KJ Martin,wides,1,1,0,,,,378523785
+1,New Zealand,19,SW Bates,M Kapp,KJ Martin,,0,3,3,,,,378523785
+1,New Zealand,19,KJ Martin,M Kapp,SW Bates,,0,4,4,,,,378523785

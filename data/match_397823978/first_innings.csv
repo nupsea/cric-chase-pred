@@ -1,0 +1,129 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Afghanistan,0,Hazratullah,Simi Singh,Usman Ghani,,0,2,2,,,,397823978
+1,Afghanistan,0,Hazratullah,Simi Singh,Usman Ghani,,0,0,0,,,,397823978
+1,Afghanistan,0,Hazratullah,Simi Singh,Usman Ghani,,0,0,0,,,,397823978
+1,Afghanistan,0,Hazratullah,Simi Singh,Usman Ghani,,0,1,1,,,,397823978
+1,Afghanistan,0,Usman Ghani,Simi Singh,Hazratullah,,0,1,1,,,,397823978
+1,Afghanistan,0,Hazratullah,Simi Singh,Usman Ghani,,0,1,1,,,,397823978
+1,Afghanistan,1,Hazratullah,WB Rankin,Usman Ghani,,0,1,1,,,,397823978
+1,Afghanistan,1,Usman Ghani,WB Rankin,Hazratullah,,0,1,1,,,,397823978
+1,Afghanistan,1,Hazratullah,WB Rankin,Usman Ghani,legbyes,1,1,0,,,,397823978
+1,Afghanistan,1,Usman Ghani,WB Rankin,Hazratullah,,0,1,1,,,,397823978
+1,Afghanistan,1,Hazratullah,WB Rankin,Usman Ghani,,0,4,4,,,,397823978
+1,Afghanistan,1,Hazratullah,WB Rankin,Usman Ghani,,0,6,6,,,,397823978
+1,Afghanistan,2,Usman Ghani,PKD Chase,Hazratullah,,0,0,0,,,,397823978
+1,Afghanistan,2,Usman Ghani,PKD Chase,Hazratullah,,0,4,4,,,,397823978
+1,Afghanistan,2,Usman Ghani,PKD Chase,Hazratullah,,0,4,4,,,,397823978
+1,Afghanistan,2,Usman Ghani,PKD Chase,Hazratullah,,0,1,1,,,,397823978
+1,Afghanistan,2,Hazratullah,PKD Chase,Usman Ghani,,0,4,4,,,,397823978
+1,Afghanistan,2,Hazratullah,PKD Chase,Usman Ghani,,0,0,0,,,,397823978
+1,Afghanistan,3,Usman Ghani,J Little,Hazratullah,,0,1,1,,,,397823978
+1,Afghanistan,3,Hazratullah,J Little,Usman Ghani,,0,4,4,,,,397823978
+1,Afghanistan,3,Hazratullah,J Little,Usman Ghani,,0,4,4,,,,397823978
+1,Afghanistan,3,Hazratullah,J Little,Usman Ghani,wides,1,1,0,,,,397823978
+1,Afghanistan,3,Hazratullah,J Little,Usman Ghani,,0,4,4,,,,397823978
+1,Afghanistan,3,Hazratullah,J Little,Usman Ghani,,0,0,0,,,,397823978
+1,Afghanistan,3,Hazratullah,J Little,Usman Ghani,,0,0,0,,,,397823978
+1,Afghanistan,4,Usman Ghani,WB Rankin,Hazratullah,,0,0,0,lbw,Usman Ghani,,397823978
+1,Afghanistan,4,Najeeb Tarakai,WB Rankin,Hazratullah,,0,0,0,,,,397823978
+1,Afghanistan,4,Najeeb Tarakai,WB Rankin,Hazratullah,,0,4,4,,,,397823978
+1,Afghanistan,4,Najeeb Tarakai,WB Rankin,Hazratullah,,0,6,6,,,,397823978
+1,Afghanistan,4,Najeeb Tarakai,WB Rankin,Hazratullah,,0,1,1,,,,397823978
+1,Afghanistan,4,Hazratullah,WB Rankin,Najeeb Tarakai,,0,0,0,caught,Hazratullah,PR Stirling,397823978
+1,Afghanistan,5,Asghar Stanikzai,J Little,Najeeb Tarakai,wides,1,1,0,,,,397823978
+1,Afghanistan,5,Asghar Stanikzai,J Little,Najeeb Tarakai,,0,0,0,,,,397823978
+1,Afghanistan,5,Asghar Stanikzai,J Little,Najeeb Tarakai,legbyes,1,1,0,,,,397823978
+1,Afghanistan,5,Najeeb Tarakai,J Little,Asghar Stanikzai,,0,4,4,,,,397823978
+1,Afghanistan,5,Najeeb Tarakai,J Little,Asghar Stanikzai,,0,0,0,,,,397823978
+1,Afghanistan,5,Najeeb Tarakai,J Little,Asghar Stanikzai,,0,0,0,,,,397823978
+1,Afghanistan,5,Najeeb Tarakai,J Little,Asghar Stanikzai,,0,1,1,,,,397823978
+1,Afghanistan,6,Najeeb Tarakai,SR Thompson,Asghar Stanikzai,,0,1,1,,,,397823978
+1,Afghanistan,6,Asghar Stanikzai,SR Thompson,Najeeb Tarakai,,0,0,0,,,,397823978
+1,Afghanistan,6,Asghar Stanikzai,SR Thompson,Najeeb Tarakai,,0,0,0,,,,397823978
+1,Afghanistan,6,Asghar Stanikzai,SR Thompson,Najeeb Tarakai,,0,0,0,,,,397823978
+1,Afghanistan,6,Asghar Stanikzai,SR Thompson,Najeeb Tarakai,,0,0,0,,,,397823978
+1,Afghanistan,6,Asghar Stanikzai,SR Thompson,Najeeb Tarakai,,0,1,1,,,,397823978
+1,Afghanistan,7,Asghar Stanikzai,GH Dockrell,Najeeb Tarakai,,0,1,1,,,,397823978
+1,Afghanistan,7,Najeeb Tarakai,GH Dockrell,Asghar Stanikzai,,0,0,0,,,,397823978
+1,Afghanistan,7,Najeeb Tarakai,GH Dockrell,Asghar Stanikzai,,0,0,0,,,,397823978
+1,Afghanistan,7,Najeeb Tarakai,GH Dockrell,Asghar Stanikzai,,0,0,0,caught,Najeeb Tarakai,A Balbirnie,397823978
+1,Afghanistan,7,Asghar Stanikzai,GH Dockrell,Mohammad Nabi,,0,0,0,,,,397823978
+1,Afghanistan,7,Asghar Stanikzai,GH Dockrell,Mohammad Nabi,,0,0,0,,,,397823978
+1,Afghanistan,8,Mohammad Nabi,SR Thompson,Asghar Stanikzai,,0,0,0,,,,397823978
+1,Afghanistan,8,Mohammad Nabi,SR Thompson,Asghar Stanikzai,wides,1,1,0,,,,397823978
+1,Afghanistan,8,Mohammad Nabi,SR Thompson,Asghar Stanikzai,,0,0,0,,,,397823978
+1,Afghanistan,8,Mohammad Nabi,SR Thompson,Asghar Stanikzai,,0,2,2,,,,397823978
+1,Afghanistan,8,Mohammad Nabi,SR Thompson,Asghar Stanikzai,,0,1,1,,,,397823978
+1,Afghanistan,8,Asghar Stanikzai,SR Thompson,Mohammad Nabi,,0,4,4,,,,397823978
+1,Afghanistan,8,Asghar Stanikzai,SR Thompson,Mohammad Nabi,,0,6,6,,,,397823978
+1,Afghanistan,9,Mohammad Nabi,GH Dockrell,Asghar Stanikzai,,0,0,0,,,,397823978
+1,Afghanistan,9,Mohammad Nabi,GH Dockrell,Asghar Stanikzai,,0,0,0,,,,397823978
+1,Afghanistan,9,Mohammad Nabi,GH Dockrell,Asghar Stanikzai,,0,1,1,,,,397823978
+1,Afghanistan,9,Asghar Stanikzai,GH Dockrell,Mohammad Nabi,,0,0,0,,,,397823978
+1,Afghanistan,9,Asghar Stanikzai,GH Dockrell,Mohammad Nabi,,0,1,1,,,,397823978
+1,Afghanistan,9,Mohammad Nabi,GH Dockrell,Asghar Stanikzai,legbyes,1,1,0,,,,397823978
+1,Afghanistan,10,Mohammad Nabi,PKD Chase,Asghar Stanikzai,,0,4,4,,,,397823978
+1,Afghanistan,10,Mohammad Nabi,PKD Chase,Asghar Stanikzai,,0,1,1,,,,397823978
+1,Afghanistan,10,Asghar Stanikzai,PKD Chase,Mohammad Nabi,,0,4,4,,,,397823978
+1,Afghanistan,10,Asghar Stanikzai,PKD Chase,Mohammad Nabi,,0,0,0,,,,397823978
+1,Afghanistan,10,Asghar Stanikzai,PKD Chase,Mohammad Nabi,wides,1,1,0,,,,397823978
+1,Afghanistan,10,Asghar Stanikzai,PKD Chase,Mohammad Nabi,,0,1,1,,,,397823978
+1,Afghanistan,10,Mohammad Nabi,PKD Chase,Asghar Stanikzai,wides,1,1,0,,,,397823978
+1,Afghanistan,10,Mohammad Nabi,PKD Chase,Asghar Stanikzai,,0,1,1,,,,397823978
+1,Afghanistan,11,Mohammad Nabi,GH Dockrell,Asghar Stanikzai,,0,1,1,,,,397823978
+1,Afghanistan,11,Asghar Stanikzai,GH Dockrell,Mohammad Nabi,,0,1,1,,,,397823978
+1,Afghanistan,11,Mohammad Nabi,GH Dockrell,Asghar Stanikzai,,0,6,6,,,,397823978
+1,Afghanistan,11,Mohammad Nabi,GH Dockrell,Asghar Stanikzai,,0,1,1,,,,397823978
+1,Afghanistan,11,Asghar Stanikzai,GH Dockrell,Mohammad Nabi,,0,1,1,,,,397823978
+1,Afghanistan,11,Mohammad Nabi,GH Dockrell,Asghar Stanikzai,,0,0,0,,,,397823978
+1,Afghanistan,12,Asghar Stanikzai,SC Getkate,Mohammad Nabi,,0,0,0,caught,Asghar Stanikzai,SR Thompson,397823978
+1,Afghanistan,12,Najibullah Zadran,SC Getkate,Mohammad Nabi,legbyes,1,1,0,,,,397823978
+1,Afghanistan,12,Mohammad Nabi,SC Getkate,Najibullah Zadran,,0,1,1,,,,397823978
+1,Afghanistan,12,Najibullah Zadran,SC Getkate,Mohammad Nabi,legbyes,1,1,0,,,,397823978
+1,Afghanistan,12,Mohammad Nabi,SC Getkate,Najibullah Zadran,,0,1,1,,,,397823978
+1,Afghanistan,12,Najibullah Zadran,SC Getkate,Mohammad Nabi,,0,0,0,,,,397823978
+1,Afghanistan,13,Mohammad Nabi,GH Dockrell,Najibullah Zadran,,0,0,0,,,,397823978
+1,Afghanistan,13,Mohammad Nabi,GH Dockrell,Najibullah Zadran,,0,1,1,,,,397823978
+1,Afghanistan,13,Najibullah Zadran,GH Dockrell,Mohammad Nabi,,0,4,4,,,,397823978
+1,Afghanistan,13,Najibullah Zadran,GH Dockrell,Mohammad Nabi,,0,6,6,,,,397823978
+1,Afghanistan,13,Najibullah Zadran,GH Dockrell,Mohammad Nabi,,0,1,1,,,,397823978
+1,Afghanistan,13,Mohammad Nabi,GH Dockrell,Najibullah Zadran,,0,1,1,,,,397823978
+1,Afghanistan,14,Mohammad Nabi,SC Getkate,Najibullah Zadran,wides,1,1,0,,,,397823978
+1,Afghanistan,14,Mohammad Nabi,SC Getkate,Najibullah Zadran,,0,6,6,,,,397823978
+1,Afghanistan,14,Mohammad Nabi,SC Getkate,Najibullah Zadran,,0,1,1,,,,397823978
+1,Afghanistan,14,Najibullah Zadran,SC Getkate,Mohammad Nabi,,0,1,1,,,,397823978
+1,Afghanistan,14,Mohammad Nabi,SC Getkate,Najibullah Zadran,,0,6,6,,,,397823978
+1,Afghanistan,14,Mohammad Nabi,SC Getkate,Najibullah Zadran,,0,0,0,,,,397823978
+1,Afghanistan,14,Mohammad Nabi,SC Getkate,Najibullah Zadran,,0,4,4,,,,397823978
+1,Afghanistan,15,Najibullah Zadran,WB Rankin,Mohammad Nabi,,0,0,0,run out,Najibullah Zadran,,397823978
+1,Afghanistan,15,Mohammad Nabi,WB Rankin,Shafiqullah,,0,2,2,,,,397823978
+1,Afghanistan,15,Mohammad Nabi,WB Rankin,Shafiqullah,,0,4,4,,,,397823978
+1,Afghanistan,15,Mohammad Nabi,WB Rankin,Shafiqullah,,0,6,6,,,,397823978
+1,Afghanistan,15,Mohammad Nabi,WB Rankin,Shafiqullah,,0,6,6,,,,397823978
+1,Afghanistan,15,Mohammad Nabi,WB Rankin,Shafiqullah,,0,0,0,,,,397823978
+1,Afghanistan,16,Shafiqullah,J Little,Mohammad Nabi,,0,4,4,,,,397823978
+1,Afghanistan,16,Shafiqullah,J Little,Mohammad Nabi,,0,1,1,,,,397823978
+1,Afghanistan,16,Mohammad Nabi,J Little,Shafiqullah,,0,6,6,,,,397823978
+1,Afghanistan,16,Mohammad Nabi,J Little,Shafiqullah,,0,4,4,,,,397823978
+1,Afghanistan,16,Mohammad Nabi,J Little,Shafiqullah,,0,6,6,,,,397823978
+1,Afghanistan,16,Mohammad Nabi,J Little,Shafiqullah,,0,4,4,,,,397823978
+1,Afghanistan,17,Shafiqullah,PKD Chase,Mohammad Nabi,,0,1,1,,,,397823978
+1,Afghanistan,17,Mohammad Nabi,PKD Chase,Shafiqullah,,0,4,4,,,,397823978
+1,Afghanistan,17,Mohammad Nabi,PKD Chase,Shafiqullah,,0,0,0,caught,Mohammad Nabi,A Balbirnie,397823978
+1,Afghanistan,17,Shafiqullah,PKD Chase,Rashid Khan,,0,0,0,,,,397823978
+1,Afghanistan,17,Shafiqullah,PKD Chase,Rashid Khan,legbyes,1,1,0,,,,397823978
+1,Afghanistan,17,Rashid Khan,PKD Chase,Shafiqullah,,0,2,2,,,,397823978
+1,Afghanistan,18,Shafiqullah,WB Rankin,Rashid Khan,wides,1,1,0,,,,397823978
+1,Afghanistan,18,Shafiqullah,WB Rankin,Rashid Khan,wides,1,1,0,,,,397823978
+1,Afghanistan,18,Shafiqullah,WB Rankin,Rashid Khan,,0,6,6,,,,397823978
+1,Afghanistan,18,Shafiqullah,WB Rankin,Rashid Khan,,0,0,0,caught,Shafiqullah,SR Thompson,397823978
+1,Afghanistan,18,Rashid Khan,WB Rankin,Sharafuddin Ashraf,,0,1,1,,,,397823978
+1,Afghanistan,18,Sharafuddin Ashraf,WB Rankin,Rashid Khan,,0,0,0,,,,397823978
+1,Afghanistan,18,Sharafuddin Ashraf,WB Rankin,Rashid Khan,,0,1,1,,,,397823978
+1,Afghanistan,18,Rashid Khan,WB Rankin,Sharafuddin Ashraf,,0,1,1,,,,397823978
+1,Afghanistan,19,Rashid Khan,PKD Chase,Sharafuddin Ashraf,,0,0,0,,,,397823978
+1,Afghanistan,19,Rashid Khan,PKD Chase,Sharafuddin Ashraf,,0,1,1,,,,397823978
+1,Afghanistan,19,Sharafuddin Ashraf,PKD Chase,Rashid Khan,,0,1,1,,,,397823978
+1,Afghanistan,19,Rashid Khan,PKD Chase,Sharafuddin Ashraf,,0,1,1,,,,397823978
+1,Afghanistan,19,Sharafuddin Ashraf,PKD Chase,Rashid Khan,,0,1,1,,,,397823978
+1,Afghanistan,19,Rashid Khan,PKD Chase,Sharafuddin Ashraf,,0,1,1,,,,397823978

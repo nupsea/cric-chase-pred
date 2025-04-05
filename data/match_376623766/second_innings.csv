@@ -1,0 +1,51 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,New Zealand,0,MJ Guptill,B Kumar,C Munro,,0,1,1,,,,376623766
+2,New Zealand,0,C Munro,B Kumar,MJ Guptill,,0,6,6,,,,376623766
+2,New Zealand,0,C Munro,B Kumar,MJ Guptill,,0,0,0,,,,376623766
+2,New Zealand,0,C Munro,B Kumar,MJ Guptill,,0,1,1,,,,376623766
+2,New Zealand,0,MJ Guptill,B Kumar,C Munro,,0,0,0,,,,376623766
+2,New Zealand,0,MJ Guptill,B Kumar,C Munro,,0,0,0,bowled,MJ Guptill,,376623766
+2,New Zealand,1,C Munro,JJ Bumrah,KS Williamson,,0,0,0,,,,376623766
+2,New Zealand,1,C Munro,JJ Bumrah,KS Williamson,,0,0,0,,,,376623766
+2,New Zealand,1,C Munro,JJ Bumrah,KS Williamson,,0,0,0,caught,C Munro,RG Sharma,376623766
+2,New Zealand,1,KS Williamson,JJ Bumrah,GD Phillips,,0,1,1,,,,376623766
+2,New Zealand,1,GD Phillips,JJ Bumrah,KS Williamson,legbyes,1,1,0,,,,376623766
+2,New Zealand,1,KS Williamson,JJ Bumrah,GD Phillips,,0,1,1,,,,376623766
+2,New Zealand,2,KS Williamson,YS Chahal,GD Phillips,,0,0,0,,,,376623766
+2,New Zealand,2,KS Williamson,YS Chahal,GD Phillips,,0,2,2,,,,376623766
+2,New Zealand,2,KS Williamson,YS Chahal,GD Phillips,,0,0,0,,,,376623766
+2,New Zealand,2,KS Williamson,YS Chahal,GD Phillips,,0,1,1,,,,376623766
+2,New Zealand,2,GD Phillips,YS Chahal,KS Williamson,,0,0,0,,,,376623766
+2,New Zealand,2,GD Phillips,YS Chahal,KS Williamson,,0,2,2,,,,376623766
+2,New Zealand,3,KS Williamson,B Kumar,GD Phillips,,0,1,1,,,,376623766
+2,New Zealand,3,KS Williamson,B Kumar,GD Phillips,,0,1,1,,,,376623766
+2,New Zealand,3,GD Phillips,B Kumar,KS Williamson,,0,0,0,,,,376623766
+2,New Zealand,3,GD Phillips,B Kumar,KS Williamson,,0,4,4,,,,376623766
+2,New Zealand,3,GD Phillips,B Kumar,KS Williamson,,0,4,4,,,,376623766
+2,New Zealand,3,GD Phillips,B Kumar,KS Williamson,,0,0,0,,,,376623766
+2,New Zealand,4,KS Williamson,Kuldeep Yadav,GD Phillips,,0,1,1,,,,376623766
+2,New Zealand,4,GD Phillips,Kuldeep Yadav,KS Williamson,,0,1,1,,,,376623766
+2,New Zealand,4,KS Williamson,Kuldeep Yadav,GD Phillips,,0,0,0,run out,KS Williamson,,376623766
+2,New Zealand,4,GD Phillips,Kuldeep Yadav,C de Grandhomme,,0,0,0,caught,GD Phillips,S Dhawan,376623766
+2,New Zealand,4,C de Grandhomme,Kuldeep Yadav,HM Nicholls,,0,2,2,,,,376623766
+2,New Zealand,4,C de Grandhomme,Kuldeep Yadav,HM Nicholls,,0,6,6,,,,376623766
+2,New Zealand,5,HM Nicholls,YS Chahal,C de Grandhomme,,0,1,1,,,,376623766
+2,New Zealand,5,C de Grandhomme,YS Chahal,HM Nicholls,,0,0,0,,,,376623766
+2,New Zealand,5,C de Grandhomme,YS Chahal,HM Nicholls,,0,0,0,,,,376623766
+2,New Zealand,5,C de Grandhomme,YS Chahal,HM Nicholls,,0,1,1,,,,376623766
+2,New Zealand,5,HM Nicholls,YS Chahal,C de Grandhomme,,0,0,0,,,,376623766
+2,New Zealand,5,HM Nicholls,YS Chahal,C de Grandhomme,,0,1,1,,,,376623766
+2,New Zealand,6,HM Nicholls,JJ Bumrah,C de Grandhomme,,0,0,0,caught,HM Nicholls,SS Iyer,376623766
+2,New Zealand,6,C de Grandhomme,JJ Bumrah,TC Bruce,,0,1,1,,,,376623766
+2,New Zealand,6,TC Bruce,JJ Bumrah,C de Grandhomme,,0,4,4,,,,376623766
+2,New Zealand,6,TC Bruce,JJ Bumrah,C de Grandhomme,wides,2,2,0,,,,376623766
+2,New Zealand,6,C de Grandhomme,JJ Bumrah,TC Bruce,byes,1,1,0,,,,376623766
+2,New Zealand,6,TC Bruce,JJ Bumrah,C de Grandhomme,byes,1,1,0,run out,TC Bruce,,376623766
+2,New Zealand,6,MJ Santner,JJ Bumrah,C de Grandhomme,byes,1,1,0,,,,376623766
+2,New Zealand,7,MJ Santner,HH Pandya,C de Grandhomme,byes,1,1,0,,,,376623766
+2,New Zealand,7,C de Grandhomme,HH Pandya,MJ Santner,,0,0,0,,,,376623766
+2,New Zealand,7,C de Grandhomme,HH Pandya,MJ Santner,,0,6,6,,,,376623766
+2,New Zealand,7,C de Grandhomme,HH Pandya,MJ Santner,wides,1,1,0,,,,376623766
+2,New Zealand,7,C de Grandhomme,HH Pandya,MJ Santner,,0,1,1,,,,376623766
+2,New Zealand,7,MJ Santner,HH Pandya,C de Grandhomme,,0,2,2,,,,376623766
+2,New Zealand,7,MJ Santner,HH Pandya,C de Grandhomme,,0,1,1,,,,376623766

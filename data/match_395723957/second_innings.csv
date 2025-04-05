@@ -1,0 +1,80 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Namibia,0,Yasmeen Khan,F Bangur,JA Diergaardt,noballs,1,1,0,,,,395723957
+2,Namibia,0,Yasmeen Khan,F Bangur,JA Diergaardt,wides,1,1,0,,,,395723957
+2,Namibia,0,Yasmeen Khan,F Bangur,JA Diergaardt,,0,2,2,,,,395723957
+2,Namibia,0,Yasmeen Khan,F Bangur,JA Diergaardt,noballs,1,1,0,,,,395723957
+2,Namibia,0,Yasmeen Khan,F Bangur,JA Diergaardt,wides,1,1,0,,,,395723957
+2,Namibia,0,Yasmeen Khan,F Bangur,JA Diergaardt,,0,0,0,,,,395723957
+2,Namibia,0,Yasmeen Khan,F Bangur,JA Diergaardt,,0,1,1,,,,395723957
+2,Namibia,0,JA Diergaardt,F Bangur,Yasmeen Khan,,0,1,1,,,,395723957
+2,Namibia,0,Yasmeen Khan,F Bangur,JA Diergaardt,,0,1,1,,,,395723957
+2,Namibia,0,JA Diergaardt,F Bangur,Yasmeen Khan,,0,4,4,,,,395723957
+2,Namibia,1,Yasmeen Khan,J Kowa,JA Diergaardt,,0,0,0,,,,395723957
+2,Namibia,1,Yasmeen Khan,J Kowa,JA Diergaardt,wides,1,1,0,,,,395723957
+2,Namibia,1,Yasmeen Khan,J Kowa,JA Diergaardt,,0,1,1,,,,395723957
+2,Namibia,1,JA Diergaardt,J Kowa,Yasmeen Khan,,0,0,0,,,,395723957
+2,Namibia,1,JA Diergaardt,J Kowa,Yasmeen Khan,,0,0,0,caught,JA Diergaardt,M King,395723957
+2,Namibia,1,A van der Merwe,J Kowa,Yasmeen Khan,,0,0,0,,,,395723957
+2,Namibia,1,A van der Merwe,J Kowa,Yasmeen Khan,,0,0,0,,,,395723957
+2,Namibia,2,Yasmeen Khan,F Bangur,A van der Merwe,,0,2,2,,,,395723957
+2,Namibia,2,Yasmeen Khan,F Bangur,A van der Merwe,,0,0,0,,,,395723957
+2,Namibia,2,Yasmeen Khan,F Bangur,A van der Merwe,,0,2,2,,,,395723957
+2,Namibia,2,Yasmeen Khan,F Bangur,A van der Merwe,,0,0,0,,,,395723957
+2,Namibia,2,Yasmeen Khan,F Bangur,A van der Merwe,,0,1,1,run out,Yasmeen Khan,,395723957
+2,Namibia,2,W Mwatile,F Bangur,A van der Merwe,,0,0,0,,,,395723957
+2,Namibia,3,A van der Merwe,J Kowa,W Mwatile,wides,1,1,0,,,,395723957
+2,Namibia,3,A van der Merwe,J Kowa,W Mwatile,wides,1,1,0,,,,395723957
+2,Namibia,3,A van der Merwe,J Kowa,W Mwatile,,0,2,2,,,,395723957
+2,Namibia,3,A van der Merwe,J Kowa,W Mwatile,wides,1,1,0,,,,395723957
+2,Namibia,3,A van der Merwe,J Kowa,W Mwatile,,0,1,1,,,,395723957
+2,Namibia,3,W Mwatile,J Kowa,A van der Merwe,,0,2,2,,,,395723957
+2,Namibia,3,W Mwatile,J Kowa,A van der Merwe,,0,0,0,,,,395723957
+2,Namibia,3,W Mwatile,J Kowa,A van der Merwe,,0,0,0,bowled,W Mwatile,,395723957
+2,Namibia,3,KA Green,J Kowa,A van der Merwe,,0,0,0,,,,395723957
+2,Namibia,4,A van der Merwe,F Bangur,KA Green,,0,1,1,,,,395723957
+2,Namibia,4,KA Green,F Bangur,A van der Merwe,,0,4,4,,,,395723957
+2,Namibia,4,KA Green,F Bangur,A van der Merwe,,0,1,1,,,,395723957
+2,Namibia,4,A van der Merwe,F Bangur,KA Green,,0,1,1,,,,395723957
+2,Namibia,4,KA Green,F Bangur,A van der Merwe,,0,0,0,,,,395723957
+2,Namibia,4,KA Green,F Bangur,A van der Merwe,,0,0,0,,,,395723957
+2,Namibia,5,A van der Merwe,J Kowa,KA Green,,0,4,4,,,,395723957
+2,Namibia,5,A van der Merwe,J Kowa,KA Green,,0,0,0,,,,395723957
+2,Namibia,5,A van der Merwe,J Kowa,KA Green,wides,1,1,0,,,,395723957
+2,Namibia,5,A van der Merwe,J Kowa,KA Green,wides,1,1,0,,,,395723957
+2,Namibia,5,A van der Merwe,J Kowa,KA Green,,0,4,4,,,,395723957
+2,Namibia,5,A van der Merwe,J Kowa,KA Green,,0,0,0,,,,395723957
+2,Namibia,5,A van der Merwe,J Kowa,KA Green,,0,2,2,,,,395723957
+2,Namibia,5,A van der Merwe,J Kowa,KA Green,,0,0,0,,,,395723957
+2,Namibia,6,KA Green,Aminata Kamara,A van der Merwe,byes,1,1,0,,,,395723957
+2,Namibia,6,A van der Merwe,Aminata Kamara,KA Green,,0,0,0,,,,395723957
+2,Namibia,6,A van der Merwe,Aminata Kamara,KA Green,,0,0,0,,,,395723957
+2,Namibia,6,A van der Merwe,Aminata Kamara,KA Green,,0,4,4,,,,395723957
+2,Namibia,6,A van der Merwe,Aminata Kamara,KA Green,,0,0,0,,,,395723957
+2,Namibia,6,A van der Merwe,Aminata Kamara,KA Green,,0,2,2,,,,395723957
+2,Namibia,7,KA Green,AM Kamara,A van der Merwe,,0,1,1,,,,395723957
+2,Namibia,7,A van der Merwe,AM Kamara,KA Green,,0,0,0,,,,395723957
+2,Namibia,7,A van der Merwe,AM Kamara,KA Green,,0,0,0,,,,395723957
+2,Namibia,7,A van der Merwe,AM Kamara,KA Green,,0,4,4,,,,395723957
+2,Namibia,7,A van der Merwe,AM Kamara,KA Green,,0,0,0,,,,395723957
+2,Namibia,7,A van der Merwe,AM Kamara,KA Green,,0,0,0,,,,395723957
+2,Namibia,8,KA Green,Aminata Kamara,A van der Merwe,,0,4,4,,,,395723957
+2,Namibia,8,KA Green,Aminata Kamara,A van der Merwe,,0,0,0,,,,395723957
+2,Namibia,8,KA Green,Aminata Kamara,A van der Merwe,,0,0,0,,,,395723957
+2,Namibia,8,KA Green,Aminata Kamara,A van der Merwe,,0,0,0,,,,395723957
+2,Namibia,8,KA Green,Aminata Kamara,A van der Merwe,,0,2,2,,,,395723957
+2,Namibia,8,KA Green,Aminata Kamara,A van der Merwe,,0,1,1,,,,395723957
+2,Namibia,9,KA Green,AM Kamara,A van der Merwe,wides,1,1,0,,,,395723957
+2,Namibia,9,KA Green,AM Kamara,A van der Merwe,,0,2,2,,,,395723957
+2,Namibia,9,KA Green,AM Kamara,A van der Merwe,,0,4,4,,,,395723957
+2,Namibia,9,KA Green,AM Kamara,A van der Merwe,,0,2,2,,,,395723957
+2,Namibia,9,KA Green,AM Kamara,A van der Merwe,,0,0,0,,,,395723957
+2,Namibia,9,KA Green,AM Kamara,A van der Merwe,,0,0,0,,,,395723957
+2,Namibia,9,KA Green,AM Kamara,A van der Merwe,,0,0,0,,,,395723957
+2,Namibia,10,A van der Merwe,Aminata Kamara,KA Green,,0,0,0,,,,395723957
+2,Namibia,10,A van der Merwe,Aminata Kamara,KA Green,,0,0,0,,,,395723957
+2,Namibia,10,A van der Merwe,Aminata Kamara,KA Green,,0,1,1,,,,395723957
+2,Namibia,10,KA Green,Aminata Kamara,A van der Merwe,wides,2,2,0,,,,395723957
+2,Namibia,10,A van der Merwe,Aminata Kamara,KA Green,,0,0,0,,,,395723957
+2,Namibia,10,A van der Merwe,Aminata Kamara,KA Green,,0,1,1,,,,395723957
+2,Namibia,10,KA Green,Aminata Kamara,A van der Merwe,,0,4,4,,,,395723957
+2,Namibia,11,A van der Merwe,AM Kamara,KA Green,,0,1,1,,,,395723957

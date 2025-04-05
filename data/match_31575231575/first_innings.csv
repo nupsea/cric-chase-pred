@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Ireland,0,R Stokell,IJR Zwilling,GH Lewis,wides,1,1,0,,,,31575231575
+1,Ireland,0,R Stokell,IJR Zwilling,GH Lewis,,0,1,1,,,,31575231575
+1,Ireland,0,GH Lewis,IJR Zwilling,R Stokell,,0,1,1,,,,31575231575
+1,Ireland,0,R Stokell,IJR Zwilling,GH Lewis,,0,0,0,,,,31575231575
+1,Ireland,0,R Stokell,IJR Zwilling,GH Lewis,,0,4,4,,,,31575231575
+1,Ireland,0,R Stokell,IJR Zwilling,GH Lewis,,0,0,0,,,,31575231575
+1,Ireland,0,R Stokell,IJR Zwilling,GH Lewis,,0,0,0,,,,31575231575
+1,Ireland,1,GH Lewis,I van der Woning,R Stokell,,0,4,4,,,,31575231575
+1,Ireland,1,GH Lewis,I van der Woning,R Stokell,,0,0,0,,,,31575231575
+1,Ireland,1,GH Lewis,I van der Woning,R Stokell,,0,1,1,,,,31575231575
+1,Ireland,1,R Stokell,I van der Woning,GH Lewis,,0,1,1,,,,31575231575
+1,Ireland,1,GH Lewis,I van der Woning,R Stokell,,0,0,0,caught,GH Lewis,EN Lynch,31575231575
+1,Ireland,1,R Stokell,I van der Woning,L Delany,,0,0,0,,,,31575231575
+1,Ireland,2,L Delany,S Siegers,R Stokell,,0,4,4,,,,31575231575
+1,Ireland,2,L Delany,S Siegers,R Stokell,,0,0,0,,,,31575231575
+1,Ireland,2,L Delany,S Siegers,R Stokell,,0,1,1,,,,31575231575
+1,Ireland,2,R Stokell,S Siegers,L Delany,,0,0,0,,,,31575231575
+1,Ireland,2,R Stokell,S Siegers,L Delany,,0,0,0,,,,31575231575
+1,Ireland,2,R Stokell,S Siegers,L Delany,,0,0,0,,,,31575231575
+1,Ireland,3,L Delany,EN Lynch,R Stokell,,0,0,0,,,,31575231575
+1,Ireland,3,L Delany,EN Lynch,R Stokell,,0,1,1,,,,31575231575
+1,Ireland,3,R Stokell,EN Lynch,L Delany,,0,1,1,,,,31575231575
+1,Ireland,3,L Delany,EN Lynch,R Stokell,,0,1,1,,,,31575231575
+1,Ireland,3,R Stokell,EN Lynch,L Delany,,0,1,1,,,,31575231575
+1,Ireland,3,L Delany,EN Lynch,R Stokell,,0,0,0,,,,31575231575
+1,Ireland,4,R Stokell,IJR Zwilling,L Delany,,0,2,2,,,,31575231575
+1,Ireland,4,R Stokell,IJR Zwilling,L Delany,,0,0,0,,,,31575231575
+1,Ireland,4,R Stokell,IJR Zwilling,L Delany,,0,0,0,,,,31575231575
+1,Ireland,4,R Stokell,IJR Zwilling,L Delany,,0,1,1,,,,31575231575
+1,Ireland,4,L Delany,IJR Zwilling,R Stokell,,0,0,0,,,,31575231575
+1,Ireland,4,L Delany,IJR Zwilling,R Stokell,,0,1,1,,,,31575231575
+1,Ireland,5,L Delany,I van der Woning,R Stokell,,0,1,1,,,,31575231575
+1,Ireland,5,R Stokell,I van der Woning,L Delany,,0,1,1,,,,31575231575
+1,Ireland,5,L Delany,I van der Woning,R Stokell,,0,4,4,,,,31575231575
+1,Ireland,5,L Delany,I van der Woning,R Stokell,,0,1,1,,,,31575231575
+1,Ireland,5,R Stokell,I van der Woning,L Delany,,0,4,4,,,,31575231575
+1,Ireland,5,R Stokell,I van der Woning,L Delany,,0,0,0,,,,31575231575
+1,Ireland,6,L Delany,F Overdijk,R Stokell,,0,0,0,,,,31575231575
+1,Ireland,6,L Delany,F Overdijk,R Stokell,,0,0,0,,,,31575231575
+1,Ireland,6,L Delany,F Overdijk,R Stokell,,0,1,1,,,,31575231575
+1,Ireland,6,R Stokell,F Overdijk,L Delany,,0,0,0,,,,31575231575
+1,Ireland,6,R Stokell,F Overdijk,L Delany,,0,0,0,caught,R Stokell,EN Lynch,31575231575
+1,Ireland,6,L Delany,F Overdijk,SM Kavanagh,,0,1,1,,,,31575231575
+1,Ireland,7,L Delany,AS van Beuge,SM Kavanagh,,0,4,4,,,,31575231575
+1,Ireland,7,L Delany,AS van Beuge,SM Kavanagh,,0,4,4,,,,31575231575
+1,Ireland,7,L Delany,AS van Beuge,SM Kavanagh,,0,4,4,,,,31575231575
+1,Ireland,7,L Delany,AS van Beuge,SM Kavanagh,,0,1,1,,,,31575231575
+1,Ireland,7,SM Kavanagh,AS van Beuge,L Delany,,0,1,1,,,,31575231575
+1,Ireland,7,L Delany,AS van Beuge,SM Kavanagh,,0,0,0,,,,31575231575
+1,Ireland,8,SM Kavanagh,F Overdijk,L Delany,byes,1,1,0,,,,31575231575
+1,Ireland,8,L Delany,F Overdijk,SM Kavanagh,,0,0,0,,,,31575231575
+1,Ireland,8,L Delany,F Overdijk,SM Kavanagh,,0,1,1,,,,31575231575
+1,Ireland,8,SM Kavanagh,F Overdijk,L Delany,,0,1,1,,,,31575231575
+1,Ireland,8,L Delany,F Overdijk,SM Kavanagh,,0,2,2,,,,31575231575
+1,Ireland,8,L Delany,F Overdijk,SM Kavanagh,,0,1,1,,,,31575231575
+1,Ireland,9,L Delany,S Siegers,SM Kavanagh,,0,1,1,,,,31575231575
+1,Ireland,9,SM Kavanagh,S Siegers,L Delany,,0,1,1,,,,31575231575
+1,Ireland,9,L Delany,S Siegers,SM Kavanagh,,0,2,2,,,,31575231575
+1,Ireland,9,L Delany,S Siegers,SM Kavanagh,,0,0,0,,,,31575231575
+1,Ireland,9,L Delany,S Siegers,SM Kavanagh,,0,1,1,,,,31575231575
+1,Ireland,9,SM Kavanagh,S Siegers,L Delany,,0,1,1,,,,31575231575
+1,Ireland,10,SM Kavanagh,F Overdijk,L Delany,,0,0,0,,,,31575231575
+1,Ireland,10,SM Kavanagh,F Overdijk,L Delany,,0,0,0,,,,31575231575
+1,Ireland,10,SM Kavanagh,F Overdijk,L Delany,,0,1,1,,,,31575231575
+1,Ireland,10,L Delany,F Overdijk,SM Kavanagh,,0,2,2,,,,31575231575
+1,Ireland,10,L Delany,F Overdijk,SM Kavanagh,,0,4,4,,,,31575231575
+1,Ireland,10,L Delany,F Overdijk,SM Kavanagh,,0,1,1,,,,31575231575
+1,Ireland,11,L Delany,S Siegers,SM Kavanagh,,0,4,4,,,,31575231575
+1,Ireland,11,L Delany,S Siegers,SM Kavanagh,,0,0,0,,,,31575231575
+1,Ireland,11,L Delany,S Siegers,SM Kavanagh,,0,1,1,,,,31575231575
+1,Ireland,11,SM Kavanagh,S Siegers,L Delany,,0,4,4,,,,31575231575
+1,Ireland,11,SM Kavanagh,S Siegers,L Delany,,0,4,4,,,,31575231575
+1,Ireland,11,SM Kavanagh,S Siegers,L Delany,wides,1,1,0,,,,31575231575
+1,Ireland,11,SM Kavanagh,S Siegers,L Delany,,0,0,0,,,,31575231575
+1,Ireland,12,L Delany,EN Lynch,SM Kavanagh,,0,1,1,,,,31575231575
+1,Ireland,12,SM Kavanagh,EN Lynch,L Delany,,0,1,1,,,,31575231575
+1,Ireland,12,L Delany,EN Lynch,SM Kavanagh,,0,0,0,,,,31575231575
+1,Ireland,12,L Delany,EN Lynch,SM Kavanagh,,0,1,1,,,,31575231575
+1,Ireland,12,SM Kavanagh,EN Lynch,L Delany,,0,0,0,,,,31575231575
+1,Ireland,12,SM Kavanagh,EN Lynch,L Delany,,0,1,1,,,,31575231575
+1,Ireland,13,SM Kavanagh,HDJ Siegers,L Delany,,0,0,0,,,,31575231575
+1,Ireland,13,SM Kavanagh,HDJ Siegers,L Delany,,0,4,4,,,,31575231575
+1,Ireland,13,SM Kavanagh,HDJ Siegers,L Delany,,0,1,1,,,,31575231575
+1,Ireland,13,L Delany,HDJ Siegers,SM Kavanagh,,0,1,1,,,,31575231575
+1,Ireland,13,SM Kavanagh,HDJ Siegers,L Delany,,0,1,1,,,,31575231575
+1,Ireland,13,L Delany,HDJ Siegers,SM Kavanagh,,0,3,3,,,,31575231575
+1,Ireland,14,L Delany,EN Lynch,SM Kavanagh,,0,2,2,,,,31575231575
+1,Ireland,14,L Delany,EN Lynch,SM Kavanagh,,0,4,4,,,,31575231575
+1,Ireland,14,L Delany,EN Lynch,SM Kavanagh,,0,0,0,caught,L Delany,AS van Beuge,31575231575
+1,Ireland,14,SM Kavanagh,EN Lynch,EAJ Richardson,,0,0,0,lbw,SM Kavanagh,,31575231575
+1,Ireland,14,L Maritz,EN Lynch,EAJ Richardson,legbyes,1,1,0,,,,31575231575
+1,Ireland,14,EAJ Richardson,EN Lynch,L Maritz,,0,0,0,,,,31575231575
+1,Ireland,15,L Maritz,S Siegers,EAJ Richardson,noballs,1,2,1,,,,31575231575
+1,Ireland,15,EAJ Richardson,S Siegers,L Maritz,,0,0,0,,,,31575231575
+1,Ireland,15,EAJ Richardson,S Siegers,L Maritz,,0,4,4,,,,31575231575
+1,Ireland,15,EAJ Richardson,S Siegers,L Maritz,,0,1,1,,,,31575231575
+1,Ireland,15,L Maritz,S Siegers,EAJ Richardson,legbyes,1,1,0,,,,31575231575
+1,Ireland,15,EAJ Richardson,S Siegers,L Maritz,,0,1,1,,,,31575231575
+1,Ireland,15,L Maritz,S Siegers,EAJ Richardson,,0,0,0,bowled,L Maritz,,31575231575
+1,Ireland,16,EAJ Richardson,HDJ Siegers,O Prendergast,,0,1,1,,,,31575231575
+1,Ireland,16,O Prendergast,HDJ Siegers,EAJ Richardson,,0,1,1,,,,31575231575
+1,Ireland,16,EAJ Richardson,HDJ Siegers,O Prendergast,,0,0,0,,,,31575231575
+1,Ireland,16,EAJ Richardson,HDJ Siegers,O Prendergast,,0,1,1,,,,31575231575
+1,Ireland,16,O Prendergast,HDJ Siegers,EAJ Richardson,,0,1,1,,,,31575231575
+1,Ireland,16,EAJ Richardson,HDJ Siegers,O Prendergast,,0,1,1,,,,31575231575
+1,Ireland,17,EAJ Richardson,IJR Zwilling,O Prendergast,,0,4,4,,,,31575231575
+1,Ireland,17,EAJ Richardson,IJR Zwilling,O Prendergast,,0,4,4,,,,31575231575
+1,Ireland,17,EAJ Richardson,IJR Zwilling,O Prendergast,,0,1,1,,,,31575231575
+1,Ireland,17,O Prendergast,IJR Zwilling,EAJ Richardson,,0,4,4,,,,31575231575
+1,Ireland,17,O Prendergast,IJR Zwilling,EAJ Richardson,,0,2,2,,,,31575231575
+1,Ireland,17,O Prendergast,IJR Zwilling,EAJ Richardson,,0,1,1,,,,31575231575
+1,Ireland,18,O Prendergast,I van der Woning,EAJ Richardson,,0,0,0,,,,31575231575
+1,Ireland,18,O Prendergast,I van der Woning,EAJ Richardson,,0,6,6,,,,31575231575
+1,Ireland,18,O Prendergast,I van der Woning,EAJ Richardson,,0,4,4,,,,31575231575
+1,Ireland,18,O Prendergast,I van der Woning,EAJ Richardson,,0,0,0,,,,31575231575
+1,Ireland,18,O Prendergast,I van der Woning,EAJ Richardson,,0,1,1,,,,31575231575
+1,Ireland,18,EAJ Richardson,I van der Woning,O Prendergast,,0,1,1,,,,31575231575
+1,Ireland,19,EAJ Richardson,F Overdijk,O Prendergast,legbyes,1,1,0,,,,31575231575
+1,Ireland,19,O Prendergast,F Overdijk,EAJ Richardson,,0,4,4,,,,31575231575
+1,Ireland,19,O Prendergast,F Overdijk,EAJ Richardson,,0,2,2,,,,31575231575
+1,Ireland,19,O Prendergast,F Overdijk,EAJ Richardson,,0,1,1,,,,31575231575
+1,Ireland,19,EAJ Richardson,F Overdijk,O Prendergast,,0,0,0,caught,EAJ Richardson,J Post,31575231575
+1,Ireland,19,L Paul,F Overdijk,O Prendergast,,0,2,2,,,,31575231575

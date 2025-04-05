@@ -1,0 +1,102 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,England,0,JJ Roy,KA Maharaj,JC Buttler,,0,1,1,,,,31731231731
+2,England,0,JC Buttler,KA Maharaj,JJ Roy,,0,1,1,,,,31731231731
+2,England,0,JJ Roy,KA Maharaj,JC Buttler,,0,0,0,,,,31731231731
+2,England,0,JJ Roy,KA Maharaj,JC Buttler,,0,1,1,,,,31731231731
+2,England,0,JC Buttler,KA Maharaj,JJ Roy,,0,1,1,,,,31731231731
+2,England,0,JJ Roy,KA Maharaj,JC Buttler,,0,1,1,,,,31731231731
+2,England,1,JJ Roy,A Nortje,JC Buttler,,0,0,0,,,,31731231731
+2,England,1,JJ Roy,A Nortje,JC Buttler,,0,1,1,,,,31731231731
+2,England,1,JC Buttler,A Nortje,JJ Roy,,0,1,1,,,,31731231731
+2,England,1,JJ Roy,A Nortje,JC Buttler,,0,5,5,,,,31731231731
+2,England,1,JC Buttler,A Nortje,JJ Roy,,0,1,1,,,,31731231731
+2,England,1,JJ Roy,A Nortje,JC Buttler,,0,2,2,,,,31731231731
+2,England,2,JC Buttler,L Ngidi,JJ Roy,,0,4,4,,,,31731231731
+2,England,2,JC Buttler,L Ngidi,JJ Roy,,0,1,1,,,,31731231731
+2,England,2,JJ Roy,L Ngidi,JC Buttler,,0,0,0,,,,31731231731
+2,England,2,JJ Roy,L Ngidi,JC Buttler,,0,0,0,,,,31731231731
+2,England,2,JJ Roy,L Ngidi,JC Buttler,,0,1,1,,,,31731231731
+2,England,2,JC Buttler,L Ngidi,JJ Roy,,0,0,0,,,,31731231731
+2,England,3,JJ Roy,KA Maharaj,JC Buttler,,0,1,1,,,,31731231731
+2,England,3,JC Buttler,KA Maharaj,JJ Roy,,0,1,1,,,,31731231731
+2,England,3,JJ Roy,KA Maharaj,JC Buttler,,0,1,1,,,,31731231731
+2,England,3,JC Buttler,KA Maharaj,JJ Roy,,0,4,4,,,,31731231731
+2,England,3,JC Buttler,KA Maharaj,JJ Roy,,0,0,0,caught,JC Buttler,L Ngidi,31731231731
+2,England,3,DJ Malan,KA Maharaj,JJ Roy,,0,0,0,,,,31731231731
+2,England,4,JJ Roy,L Ngidi,DJ Malan,,0,0,0,,,,31731231731
+2,England,4,JJ Roy,L Ngidi,DJ Malan,,0,1,1,,,,31731231731
+2,England,4,DJ Malan,L Ngidi,JJ Roy,,0,1,1,,,,31731231731
+2,England,4,JJ Roy,L Ngidi,DJ Malan,,0,1,1,,,,31731231731
+2,England,4,DJ Malan,L Ngidi,JJ Roy,legbyes,1,1,0,,,,31731231731
+2,England,4,JJ Roy,L Ngidi,DJ Malan,,0,1,1,,,,31731231731
+2,England,5,JJ Roy,A Nortje,DJ Malan,,0,0,0,caught,JJ Roy,Q de Kock,31731231731
+2,England,5,JM Bairstow,A Nortje,DJ Malan,byes,4,4,0,,,,31731231731
+2,England,5,JM Bairstow,A Nortje,DJ Malan,,0,0,0,,,,31731231731
+2,England,5,JM Bairstow,A Nortje,DJ Malan,,0,0,0,,,,31731231731
+2,England,5,JM Bairstow,A Nortje,DJ Malan,noballs,1,1,0,,,,31731231731
+2,England,5,JM Bairstow,A Nortje,DJ Malan,,0,1,1,,,,31731231731
+2,England,5,DJ Malan,A Nortje,JM Bairstow,,0,0,0,,,,31731231731
+2,England,6,JM Bairstow,KA Maharaj,DJ Malan,,0,0,0,,,,31731231731
+2,England,6,JM Bairstow,KA Maharaj,DJ Malan,,0,0,0,,,,31731231731
+2,England,6,JM Bairstow,KA Maharaj,DJ Malan,,0,1,1,,,,31731231731
+2,England,6,DJ Malan,KA Maharaj,JM Bairstow,,0,1,1,,,,31731231731
+2,England,6,JM Bairstow,KA Maharaj,DJ Malan,,0,1,1,,,,31731231731
+2,England,6,DJ Malan,KA Maharaj,JM Bairstow,,0,2,2,,,,31731231731
+2,England,7,JM Bairstow,T Shamsi,DJ Malan,,0,2,2,,,,31731231731
+2,England,7,JM Bairstow,T Shamsi,DJ Malan,,0,1,1,,,,31731231731
+2,England,7,DJ Malan,T Shamsi,JM Bairstow,,0,0,0,,,,31731231731
+2,England,7,DJ Malan,T Shamsi,JM Bairstow,,0,1,1,,,,31731231731
+2,England,7,JM Bairstow,T Shamsi,DJ Malan,,0,1,1,,,,31731231731
+2,England,7,DJ Malan,T Shamsi,JM Bairstow,,0,1,1,,,,31731231731
+2,England,8,DJ Malan,AL Phehlukwayo,JM Bairstow,,0,1,1,,,,31731231731
+2,England,8,JM Bairstow,AL Phehlukwayo,DJ Malan,,0,1,1,,,,31731231731
+2,England,8,DJ Malan,AL Phehlukwayo,JM Bairstow,,0,0,0,caught,DJ Malan,A Nortje,31731231731
+2,England,8,MM Ali,AL Phehlukwayo,JM Bairstow,,0,0,0,,,,31731231731
+2,England,8,MM Ali,AL Phehlukwayo,JM Bairstow,,0,1,1,,,,31731231731
+2,England,8,JM Bairstow,AL Phehlukwayo,MM Ali,,0,1,1,,,,31731231731
+2,England,9,JM Bairstow,AK Markram,MM Ali,,0,1,1,,,,31731231731
+2,England,9,MM Ali,AK Markram,JM Bairstow,,0,1,1,,,,31731231731
+2,England,9,JM Bairstow,AK Markram,MM Ali,,0,1,1,,,,31731231731
+2,England,9,MM Ali,AK Markram,JM Bairstow,,0,1,1,,,,31731231731
+2,England,9,JM Bairstow,AK Markram,MM Ali,,0,1,1,,,,31731231731
+2,England,9,MM Ali,AK Markram,JM Bairstow,,0,0,0,caught,MM Ali,T Stubbs,31731231731
+2,England,10,JM Bairstow,AL Phehlukwayo,LS Livingstone,,0,1,1,,,,31731231731
+2,England,10,LS Livingstone,AL Phehlukwayo,JM Bairstow,,0,0,0,,,,31731231731
+2,England,10,LS Livingstone,AL Phehlukwayo,JM Bairstow,,0,1,1,,,,31731231731
+2,England,10,JM Bairstow,AL Phehlukwayo,LS Livingstone,,0,0,0,,,,31731231731
+2,England,10,JM Bairstow,AL Phehlukwayo,LS Livingstone,,0,1,1,,,,31731231731
+2,England,10,LS Livingstone,AL Phehlukwayo,JM Bairstow,,0,1,1,,,,31731231731
+2,England,11,LS Livingstone,T Shamsi,JM Bairstow,,0,0,0,,,,31731231731
+2,England,11,LS Livingstone,T Shamsi,JM Bairstow,,0,1,1,,,,31731231731
+2,England,11,JM Bairstow,T Shamsi,LS Livingstone,,0,1,1,,,,31731231731
+2,England,11,LS Livingstone,T Shamsi,JM Bairstow,,0,0,0,,,,31731231731
+2,England,11,LS Livingstone,T Shamsi,JM Bairstow,,0,0,0,caught,LS Livingstone,KA Maharaj,31731231731
+2,England,11,SM Curran,T Shamsi,JM Bairstow,,0,1,1,,,,31731231731
+2,England,12,SM Curran,AL Phehlukwayo,JM Bairstow,,0,0,0,,,,31731231731
+2,England,12,SM Curran,AL Phehlukwayo,JM Bairstow,,0,0,0,,,,31731231731
+2,England,12,SM Curran,AL Phehlukwayo,JM Bairstow,,0,1,1,,,,31731231731
+2,England,12,JM Bairstow,AL Phehlukwayo,SM Curran,,0,1,1,,,,31731231731
+2,England,12,SM Curran,AL Phehlukwayo,JM Bairstow,,0,1,1,,,,31731231731
+2,England,12,JM Bairstow,AL Phehlukwayo,SM Curran,,0,4,4,,,,31731231731
+2,England,13,SM Curran,T Shamsi,JM Bairstow,,0,6,6,,,,31731231731
+2,England,13,SM Curran,T Shamsi,JM Bairstow,,0,0,0,,,,31731231731
+2,England,13,SM Curran,T Shamsi,JM Bairstow,,0,0,0,caught,SM Curran,AK Markram,31731231731
+2,England,13,DJ Willey,T Shamsi,JM Bairstow,,0,0,0,bowled,DJ Willey,,31731231731
+2,England,13,CJ Jordan,T Shamsi,JM Bairstow,,0,1,1,,,,31731231731
+2,England,13,JM Bairstow,T Shamsi,CJ Jordan,,0,2,2,,,,31731231731
+2,England,14,CJ Jordan,AL Phehlukwayo,JM Bairstow,legbyes,1,1,0,,,,31731231731
+2,England,14,JM Bairstow,AL Phehlukwayo,CJ Jordan,,0,1,1,,,,31731231731
+2,England,14,CJ Jordan,AL Phehlukwayo,JM Bairstow,,0,4,4,,,,31731231731
+2,England,14,CJ Jordan,AL Phehlukwayo,JM Bairstow,,0,2,2,,,,31731231731
+2,England,14,CJ Jordan,AL Phehlukwayo,JM Bairstow,,0,1,1,,,,31731231731
+2,England,14,JM Bairstow,AL Phehlukwayo,CJ Jordan,,0,0,0,,,,31731231731
+2,England,15,CJ Jordan,T Shamsi,JM Bairstow,,0,0,0,,,,31731231731
+2,England,15,CJ Jordan,T Shamsi,JM Bairstow,,0,4,4,,,,31731231731
+2,England,15,CJ Jordan,T Shamsi,JM Bairstow,,0,2,2,,,,31731231731
+2,England,15,CJ Jordan,T Shamsi,JM Bairstow,,0,0,0,lbw,CJ Jordan,,31731231731
+2,England,15,AU Rashid,T Shamsi,JM Bairstow,,0,0,0,,,,31731231731
+2,England,15,AU Rashid,T Shamsi,JM Bairstow,,0,0,0,caught,AU Rashid,AK Markram,31731231731
+2,England,16,JM Bairstow,KA Maharaj,RJW Topley,,0,0,0,,,,31731231731
+2,England,16,JM Bairstow,KA Maharaj,RJW Topley,,0,0,0,,,,31731231731
+2,England,16,JM Bairstow,KA Maharaj,RJW Topley,,0,4,4,,,,31731231731
+2,England,16,JM Bairstow,KA Maharaj,RJW Topley,,0,0,0,caught,JM Bairstow,DA Miller,31731231731

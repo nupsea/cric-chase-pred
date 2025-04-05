@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,South Africa,0,HH Gibbs,Abdul Razzaq,GC Smith,,0,0,0,,,,313323133
+2,South Africa,0,HH Gibbs,Abdul Razzaq,GC Smith,,0,1,1,,,,313323133
+2,South Africa,0,GC Smith,Abdul Razzaq,HH Gibbs,,0,0,0,,,,313323133
+2,South Africa,0,GC Smith,Abdul Razzaq,HH Gibbs,,0,1,1,,,,313323133
+2,South Africa,0,HH Gibbs,Abdul Razzaq,GC Smith,,0,0,0,,,,313323133
+2,South Africa,0,HH Gibbs,Abdul Razzaq,GC Smith,,0,0,0,,,,313323133
+2,South Africa,1,GC Smith,Mohammad Amir,HH Gibbs,,0,2,2,,,,313323133
+2,South Africa,1,GC Smith,Mohammad Amir,HH Gibbs,,0,0,0,,,,313323133
+2,South Africa,1,GC Smith,Mohammad Amir,HH Gibbs,,0,4,4,,,,313323133
+2,South Africa,1,GC Smith,Mohammad Amir,HH Gibbs,,0,1,1,,,,313323133
+2,South Africa,1,HH Gibbs,Mohammad Amir,GC Smith,,0,0,0,,,,313323133
+2,South Africa,1,HH Gibbs,Mohammad Amir,GC Smith,,0,1,1,,,,313323133
+2,South Africa,2,HH Gibbs,Abdul Razzaq,GC Smith,,0,0,0,,,,313323133
+2,South Africa,2,HH Gibbs,Abdul Razzaq,GC Smith,,0,1,1,,,,313323133
+2,South Africa,2,GC Smith,Abdul Razzaq,HH Gibbs,,0,1,1,,,,313323133
+2,South Africa,2,HH Gibbs,Abdul Razzaq,GC Smith,,0,0,0,caught,HH Gibbs,Misbah-ul-Haq,313323133
+2,South Africa,2,JH Kallis,Abdul Razzaq,GC Smith,,0,0,0,,,,313323133
+2,South Africa,2,JH Kallis,Abdul Razzaq,GC Smith,,0,4,4,,,,313323133
+2,South Africa,3,GC Smith,Mohammad Amir,JH Kallis,,0,1,1,,,,313323133
+2,South Africa,3,JH Kallis,Mohammad Amir,GC Smith,,0,0,0,,,,313323133
+2,South Africa,3,JH Kallis,Mohammad Amir,GC Smith,,0,1,1,,,,313323133
+2,South Africa,3,GC Smith,Mohammad Amir,JH Kallis,,0,0,0,,,,313323133
+2,South Africa,3,GC Smith,Mohammad Amir,JH Kallis,,0,1,1,,,,313323133
+2,South Africa,3,JH Kallis,Mohammad Amir,GC Smith,,0,1,1,,,,313323133
+2,South Africa,4,JH Kallis,Abdur Rehman,GC Smith,,0,1,1,,,,313323133
+2,South Africa,4,GC Smith,Abdur Rehman,JH Kallis,,0,2,2,,,,313323133
+2,South Africa,4,GC Smith,Abdur Rehman,JH Kallis,,0,0,0,,,,313323133
+2,South Africa,4,GC Smith,Abdur Rehman,JH Kallis,,0,0,0,caught,GC Smith,Shahid Afridi,313323133
+2,South Africa,4,JH Kallis,Abdur Rehman,AB de Villiers,,0,1,1,,,,313323133
+2,South Africa,4,AB de Villiers,Abdur Rehman,JH Kallis,,0,0,0,,,,313323133
+2,South Africa,5,JH Kallis,Abdul Razzaq,AB de Villiers,,0,0,0,,,,313323133
+2,South Africa,5,JH Kallis,Abdul Razzaq,AB de Villiers,,0,1,1,,,,313323133
+2,South Africa,5,AB de Villiers,Abdul Razzaq,JH Kallis,,0,1,1,,,,313323133
+2,South Africa,5,JH Kallis,Abdul Razzaq,AB de Villiers,,0,1,1,,,,313323133
+2,South Africa,5,AB de Villiers,Abdul Razzaq,JH Kallis,,0,1,1,,,,313323133
+2,South Africa,5,JH Kallis,Abdul Razzaq,AB de Villiers,,0,4,4,,,,313323133
+2,South Africa,6,AB de Villiers,Mohammad Hafeez,JH Kallis,,0,0,0,,,,313323133
+2,South Africa,6,AB de Villiers,Mohammad Hafeez,JH Kallis,,0,1,1,,,,313323133
+2,South Africa,6,JH Kallis,Mohammad Hafeez,AB de Villiers,,0,1,1,,,,313323133
+2,South Africa,6,AB de Villiers,Mohammad Hafeez,JH Kallis,,0,1,1,,,,313323133
+2,South Africa,6,JH Kallis,Mohammad Hafeez,AB de Villiers,,0,1,1,,,,313323133
+2,South Africa,6,AB de Villiers,Mohammad Hafeez,JH Kallis,,0,1,1,,,,313323133
+2,South Africa,7,AB de Villiers,Shahid Afridi,JH Kallis,,0,0,0,,,,313323133
+2,South Africa,7,AB de Villiers,Shahid Afridi,JH Kallis,,0,0,0,,,,313323133
+2,South Africa,7,AB de Villiers,Shahid Afridi,JH Kallis,,0,1,1,,,,313323133
+2,South Africa,7,JH Kallis,Shahid Afridi,AB de Villiers,,0,0,0,,,,313323133
+2,South Africa,7,JH Kallis,Shahid Afridi,AB de Villiers,,0,2,2,,,,313323133
+2,South Africa,7,JH Kallis,Shahid Afridi,AB de Villiers,,0,1,1,,,,313323133
+2,South Africa,8,JH Kallis,Abdur Rehman,AB de Villiers,,0,0,0,,,,313323133
+2,South Africa,8,JH Kallis,Abdur Rehman,AB de Villiers,wides,1,1,0,,,,313323133
+2,South Africa,8,JH Kallis,Abdur Rehman,AB de Villiers,,0,1,1,,,,313323133
+2,South Africa,8,AB de Villiers,Abdur Rehman,JH Kallis,,0,1,1,,,,313323133
+2,South Africa,8,JH Kallis,Abdur Rehman,AB de Villiers,,0,1,1,,,,313323133
+2,South Africa,8,AB de Villiers,Abdur Rehman,JH Kallis,,0,0,0,,,,313323133
+2,South Africa,8,AB de Villiers,Abdur Rehman,JH Kallis,,0,1,1,,,,313323133
+2,South Africa,9,AB de Villiers,Shahid Afridi,JH Kallis,,0,0,0,,,,313323133
+2,South Africa,9,AB de Villiers,Shahid Afridi,JH Kallis,,0,1,1,,,,313323133
+2,South Africa,9,JH Kallis,Shahid Afridi,AB de Villiers,,0,1,1,,,,313323133
+2,South Africa,9,AB de Villiers,Shahid Afridi,JH Kallis,,0,0,0,,,,313323133
+2,South Africa,9,AB de Villiers,Shahid Afridi,JH Kallis,,0,0,0,,,,313323133
+2,South Africa,9,AB de Villiers,Shahid Afridi,JH Kallis,,0,1,1,,,,313323133
+2,South Africa,10,AB de Villiers,Saeed Ajmal,JH Kallis,,0,2,2,,,,313323133
+2,South Africa,10,AB de Villiers,Saeed Ajmal,JH Kallis,,0,2,2,,,,313323133
+2,South Africa,10,AB de Villiers,Saeed Ajmal,JH Kallis,,0,2,2,,,,313323133
+2,South Africa,10,AB de Villiers,Saeed Ajmal,JH Kallis,,0,1,1,,,,313323133
+2,South Africa,10,JH Kallis,Saeed Ajmal,AB de Villiers,,0,0,0,caught,JH Kallis,Umar Akmal,313323133
+2,South Africa,10,AB de Villiers,Saeed Ajmal,JP Duminy,,0,1,1,,,,313323133
+2,South Africa,11,AB de Villiers,Shahid Afridi,JP Duminy,,0,3,3,,,,313323133
+2,South Africa,11,JP Duminy,Shahid Afridi,AB de Villiers,,0,1,1,,,,313323133
+2,South Africa,11,AB de Villiers,Shahid Afridi,JP Duminy,,0,1,1,,,,313323133
+2,South Africa,11,JP Duminy,Shahid Afridi,AB de Villiers,,0,1,1,,,,313323133
+2,South Africa,11,AB de Villiers,Shahid Afridi,JP Duminy,,0,1,1,,,,313323133
+2,South Africa,11,JP Duminy,Shahid Afridi,AB de Villiers,legbyes,1,1,0,,,,313323133
+2,South Africa,12,JP Duminy,Abdur Rehman,AB de Villiers,,0,1,1,,,,313323133
+2,South Africa,12,AB de Villiers,Abdur Rehman,JP Duminy,wides,1,1,0,,,,313323133
+2,South Africa,12,AB de Villiers,Abdur Rehman,JP Duminy,,0,1,1,,,,313323133
+2,South Africa,12,JP Duminy,Abdur Rehman,AB de Villiers,,0,0,0,caught,JP Duminy,Khalid Latif,313323133
+2,South Africa,12,AB de Villiers,Abdur Rehman,MV Boucher,,0,1,1,,,,313323133
+2,South Africa,12,MV Boucher,Abdur Rehman,AB de Villiers,,0,1,1,,,,313323133
+2,South Africa,12,AB de Villiers,Abdur Rehman,MV Boucher,,0,1,1,,,,313323133
+2,South Africa,13,AB de Villiers,Shahid Afridi,MV Boucher,,0,1,1,,,,313323133
+2,South Africa,13,MV Boucher,Shahid Afridi,AB de Villiers,,0,1,1,,,,313323133
+2,South Africa,13,AB de Villiers,Shahid Afridi,MV Boucher,,0,2,2,,,,313323133
+2,South Africa,13,AB de Villiers,Shahid Afridi,MV Boucher,,0,2,2,,,,313323133
+2,South Africa,13,AB de Villiers,Shahid Afridi,MV Boucher,,0,1,1,,,,313323133
+2,South Africa,13,MV Boucher,Shahid Afridi,AB de Villiers,,0,0,0,,,,313323133
+2,South Africa,14,AB de Villiers,Abdur Rehman,MV Boucher,,0,2,2,,,,313323133
+2,South Africa,14,AB de Villiers,Abdur Rehman,MV Boucher,,0,0,0,,,,313323133
+2,South Africa,14,AB de Villiers,Abdur Rehman,MV Boucher,,0,4,4,,,,313323133
+2,South Africa,14,AB de Villiers,Abdur Rehman,MV Boucher,,0,6,6,,,,313323133
+2,South Africa,14,AB de Villiers,Abdur Rehman,MV Boucher,,0,6,6,,,,313323133
+2,South Africa,14,AB de Villiers,Abdur Rehman,MV Boucher,,0,2,2,,,,313323133
+2,South Africa,15,MV Boucher,Saeed Ajmal,AB de Villiers,,0,1,1,,,,313323133
+2,South Africa,15,AB de Villiers,Saeed Ajmal,MV Boucher,,0,1,1,,,,313323133
+2,South Africa,15,MV Boucher,Saeed Ajmal,AB de Villiers,,0,1,1,,,,313323133
+2,South Africa,15,AB de Villiers,Saeed Ajmal,MV Boucher,,0,0,0,caught,AB de Villiers,Kamran Akmal,313323133
+2,South Africa,15,MV Boucher,Saeed Ajmal,JA Morkel,,0,0,0,,,,313323133
+2,South Africa,15,MV Boucher,Saeed Ajmal,JA Morkel,,0,1,1,,,,313323133
+2,South Africa,16,MV Boucher,Mohammad Amir,JA Morkel,,0,1,1,,,,313323133
+2,South Africa,16,JA Morkel,Mohammad Amir,MV Boucher,,0,1,1,,,,313323133
+2,South Africa,16,MV Boucher,Mohammad Amir,JA Morkel,,0,1,1,,,,313323133
+2,South Africa,16,JA Morkel,Mohammad Amir,MV Boucher,,0,1,1,,,,313323133
+2,South Africa,16,MV Boucher,Mohammad Amir,JA Morkel,,0,1,1,,,,313323133
+2,South Africa,16,JA Morkel,Mohammad Amir,MV Boucher,,0,2,2,,,,313323133
+2,South Africa,17,MV Boucher,Saeed Ajmal,JA Morkel,,0,0,0,,,,313323133
+2,South Africa,17,MV Boucher,Saeed Ajmal,JA Morkel,,0,4,4,,,,313323133
+2,South Africa,17,MV Boucher,Saeed Ajmal,JA Morkel,,0,0,0,,,,313323133
+2,South Africa,17,MV Boucher,Saeed Ajmal,JA Morkel,,0,0,0,lbw,MV Boucher,,313323133
+2,South Africa,17,J Botha,Saeed Ajmal,JA Morkel,,0,4,4,,,,313323133
+2,South Africa,17,J Botha,Saeed Ajmal,JA Morkel,,0,1,1,,,,313323133
+2,South Africa,18,J Botha,Mohammad Amir,JA Morkel,,0,4,4,,,,313323133
+2,South Africa,18,J Botha,Mohammad Amir,JA Morkel,,0,1,1,,,,313323133
+2,South Africa,18,JA Morkel,Mohammad Amir,J Botha,,0,0,0,,,,313323133
+2,South Africa,18,JA Morkel,Mohammad Amir,J Botha,,0,1,1,,,,313323133
+2,South Africa,18,J Botha,Mohammad Amir,JA Morkel,,0,4,4,,,,313323133
+2,South Africa,18,J Botha,Mohammad Amir,JA Morkel,,0,4,4,,,,313323133
+2,South Africa,19,JA Morkel,Saeed Ajmal,J Botha,,0,1,1,,,,313323133
+2,South Africa,19,J Botha,Saeed Ajmal,JA Morkel,,0,1,1,,,,313323133
+2,South Africa,19,JA Morkel,Saeed Ajmal,J Botha,,0,1,1,,,,313323133
+2,South Africa,19,J Botha,Saeed Ajmal,JA Morkel,,0,0,0,stumped,J Botha,Kamran Akmal,313323133
+2,South Africa,19,RE van der Merwe,Saeed Ajmal,JA Morkel,,0,2,2,,,,313323133
+2,South Africa,19,RE van der Merwe,Saeed Ajmal,JA Morkel,,0,0,0,,,,313323133

@@ -1,0 +1,127 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,West Indies,0,Kyshona A Knight,ML Schutt,B Cooper,,0,1,1,,,,31264231264
+1,West Indies,0,B Cooper,ML Schutt,Kyshona A Knight,,0,0,0,,,,31264231264
+1,West Indies,0,B Cooper,ML Schutt,Kyshona A Knight,,0,0,0,,,,31264231264
+1,West Indies,0,B Cooper,ML Schutt,Kyshona A Knight,,0,0,0,bowled,B Cooper,,31264231264
+1,West Indies,0,SR Taylor,ML Schutt,Kyshona A Knight,,0,0,0,,,,31264231264
+1,West Indies,0,SR Taylor,ML Schutt,Kyshona A Knight,,0,0,0,run out,Kyshona A Knight,,31264231264
+1,West Indies,1,SR Taylor,EA Perry,R Boyce,,0,4,4,,,,31264231264
+1,West Indies,1,SR Taylor,EA Perry,R Boyce,,0,0,0,,,,31264231264
+1,West Indies,1,SR Taylor,EA Perry,R Boyce,,0,0,0,,,,31264231264
+1,West Indies,1,SR Taylor,EA Perry,R Boyce,,0,2,2,,,,31264231264
+1,West Indies,1,SR Taylor,EA Perry,R Boyce,,0,0,0,,,,31264231264
+1,West Indies,1,SR Taylor,EA Perry,R Boyce,,0,0,0,,,,31264231264
+1,West Indies,2,R Boyce,ML Schutt,SR Taylor,,0,0,0,,,,31264231264
+1,West Indies,2,R Boyce,ML Schutt,SR Taylor,noballs,1,1,0,,,,31264231264
+1,West Indies,2,R Boyce,ML Schutt,SR Taylor,,0,6,6,,,,31264231264
+1,West Indies,2,R Boyce,ML Schutt,SR Taylor,,0,0,0,caught and bowled,R Boyce,,31264231264
+1,West Indies,2,SACA King,ML Schutt,SR Taylor,,0,4,4,,,,31264231264
+1,West Indies,2,SACA King,ML Schutt,SR Taylor,,0,0,0,,,,31264231264
+1,West Indies,2,SACA King,ML Schutt,SR Taylor,,0,0,0,run out,SACA King,,31264231264
+1,West Indies,3,SR Taylor,EA Perry,NY McLean,,0,0,0,,,,31264231264
+1,West Indies,3,SR Taylor,EA Perry,NY McLean,,0,1,1,,,,31264231264
+1,West Indies,3,NY McLean,EA Perry,SR Taylor,,0,0,0,,,,31264231264
+1,West Indies,3,NY McLean,EA Perry,SR Taylor,wides,1,1,0,,,,31264231264
+1,West Indies,3,NY McLean,EA Perry,SR Taylor,,0,0,0,,,,31264231264
+1,West Indies,3,NY McLean,EA Perry,SR Taylor,,0,0,0,,,,31264231264
+1,West Indies,3,NY McLean,EA Perry,SR Taylor,,0,4,4,,,,31264231264
+1,West Indies,4,SR Taylor,DM Kimmince,NY McLean,,0,1,1,,,,31264231264
+1,West Indies,4,NY McLean,DM Kimmince,SR Taylor,,0,4,4,,,,31264231264
+1,West Indies,4,NY McLean,DM Kimmince,SR Taylor,,0,4,4,,,,31264231264
+1,West Indies,4,NY McLean,DM Kimmince,SR Taylor,,0,0,0,,,,31264231264
+1,West Indies,4,NY McLean,DM Kimmince,SR Taylor,,0,0,0,,,,31264231264
+1,West Indies,4,NY McLean,DM Kimmince,SR Taylor,,0,1,1,,,,31264231264
+1,West Indies,5,NY McLean,EA Perry,SR Taylor,,0,0,0,bowled,NY McLean,,31264231264
+1,West Indies,5,SS Grimmond,EA Perry,SR Taylor,,0,0,0,,,,31264231264
+1,West Indies,5,SS Grimmond,EA Perry,SR Taylor,,0,4,4,,,,31264231264
+1,West Indies,5,SS Grimmond,EA Perry,SR Taylor,,0,0,0,,,,31264231264
+1,West Indies,5,SS Grimmond,EA Perry,SR Taylor,,0,0,0,,,,31264231264
+1,West Indies,5,SS Grimmond,EA Perry,SR Taylor,,0,0,0,,,,31264231264
+1,West Indies,6,SR Taylor,G Wareham,SS Grimmond,,0,1,1,,,,31264231264
+1,West Indies,6,SS Grimmond,G Wareham,SR Taylor,,0,0,0,,,,31264231264
+1,West Indies,6,SS Grimmond,G Wareham,SR Taylor,,0,0,0,,,,31264231264
+1,West Indies,6,SS Grimmond,G Wareham,SR Taylor,,0,0,0,,,,31264231264
+1,West Indies,6,SS Grimmond,G Wareham,SR Taylor,,0,1,1,,,,31264231264
+1,West Indies,6,SR Taylor,G Wareham,SS Grimmond,,0,0,0,,,,31264231264
+1,West Indies,7,SS Grimmond,JL Jonassen,SR Taylor,,0,0,0,,,,31264231264
+1,West Indies,7,SS Grimmond,JL Jonassen,SR Taylor,,0,1,1,,,,31264231264
+1,West Indies,7,SR Taylor,JL Jonassen,SS Grimmond,,0,0,0,,,,31264231264
+1,West Indies,7,SR Taylor,JL Jonassen,SS Grimmond,,0,0,0,,,,31264231264
+1,West Indies,7,SR Taylor,JL Jonassen,SS Grimmond,,0,0,0,,,,31264231264
+1,West Indies,7,SR Taylor,JL Jonassen,SS Grimmond,,0,1,1,,,,31264231264
+1,West Indies,8,SR Taylor,G Wareham,SS Grimmond,,0,0,0,,,,31264231264
+1,West Indies,8,SR Taylor,G Wareham,SS Grimmond,,0,1,1,,,,31264231264
+1,West Indies,8,SS Grimmond,G Wareham,SR Taylor,,0,1,1,,,,31264231264
+1,West Indies,8,SR Taylor,G Wareham,SS Grimmond,,0,0,0,,,,31264231264
+1,West Indies,8,SR Taylor,G Wareham,SS Grimmond,,0,0,0,,,,31264231264
+1,West Indies,8,SR Taylor,G Wareham,SS Grimmond,,0,0,0,,,,31264231264
+1,West Indies,9,SS Grimmond,JL Jonassen,SR Taylor,,0,1,1,,,,31264231264
+1,West Indies,9,SR Taylor,JL Jonassen,SS Grimmond,,0,1,1,,,,31264231264
+1,West Indies,9,SS Grimmond,JL Jonassen,SR Taylor,wides,1,1,0,,,,31264231264
+1,West Indies,9,SS Grimmond,JL Jonassen,SR Taylor,,0,0,0,,,,31264231264
+1,West Indies,9,SS Grimmond,JL Jonassen,SR Taylor,,0,1,1,,,,31264231264
+1,West Indies,9,SR Taylor,JL Jonassen,SS Grimmond,wides,1,1,0,,,,31264231264
+1,West Indies,9,SR Taylor,JL Jonassen,SS Grimmond,,0,1,1,,,,31264231264
+1,West Indies,9,SS Grimmond,JL Jonassen,SR Taylor,,0,0,0,,,,31264231264
+1,West Indies,10,SR Taylor,A Gardner,SS Grimmond,,0,0,0,,,,31264231264
+1,West Indies,10,SR Taylor,A Gardner,SS Grimmond,,0,1,1,,,,31264231264
+1,West Indies,10,SS Grimmond,A Gardner,SR Taylor,,0,1,1,,,,31264231264
+1,West Indies,10,SR Taylor,A Gardner,SS Grimmond,,0,1,1,,,,31264231264
+1,West Indies,10,SS Grimmond,A Gardner,SR Taylor,,0,0,0,,,,31264231264
+1,West Indies,10,SS Grimmond,A Gardner,SR Taylor,,0,4,4,,,,31264231264
+1,West Indies,11,SR Taylor,DM Kimmince,SS Grimmond,,0,0,0,,,,31264231264
+1,West Indies,11,SR Taylor,DM Kimmince,SS Grimmond,,0,1,1,,,,31264231264
+1,West Indies,11,SS Grimmond,DM Kimmince,SR Taylor,,0,1,1,,,,31264231264
+1,West Indies,11,SR Taylor,DM Kimmince,SS Grimmond,,0,0,0,,,,31264231264
+1,West Indies,11,SR Taylor,DM Kimmince,SS Grimmond,,0,0,0,,,,31264231264
+1,West Indies,11,SR Taylor,DM Kimmince,SS Grimmond,,0,4,4,,,,31264231264
+1,West Indies,12,SS Grimmond,JL Jonassen,SR Taylor,,0,0,0,,,,31264231264
+1,West Indies,12,SS Grimmond,JL Jonassen,SR Taylor,,0,0,0,,,,31264231264
+1,West Indies,12,SS Grimmond,JL Jonassen,SR Taylor,,0,0,0,,,,31264231264
+1,West Indies,12,SS Grimmond,JL Jonassen,SR Taylor,,0,0,0,bowled,SS Grimmond,,31264231264
+1,West Indies,12,CA Henry,JL Jonassen,SR Taylor,,0,0,0,,,,31264231264
+1,West Indies,12,CA Henry,JL Jonassen,SR Taylor,,0,0,0,,,,31264231264
+1,West Indies,13,SR Taylor,G Wareham,CA Henry,wides,1,1,0,,,,31264231264
+1,West Indies,13,SR Taylor,G Wareham,CA Henry,,0,1,1,,,,31264231264
+1,West Indies,13,CA Henry,G Wareham,SR Taylor,,0,1,1,,,,31264231264
+1,West Indies,13,SR Taylor,G Wareham,CA Henry,,0,0,0,,,,31264231264
+1,West Indies,13,SR Taylor,G Wareham,CA Henry,,0,1,1,,,,31264231264
+1,West Indies,13,CA Henry,G Wareham,SR Taylor,,0,1,1,,,,31264231264
+1,West Indies,13,SR Taylor,G Wareham,CA Henry,,0,6,6,,,,31264231264
+1,West Indies,14,CA Henry,A Gardner,SR Taylor,,0,0,0,,,,31264231264
+1,West Indies,14,CA Henry,A Gardner,SR Taylor,,0,1,1,,,,31264231264
+1,West Indies,14,SR Taylor,A Gardner,CA Henry,,0,0,0,,,,31264231264
+1,West Indies,14,SR Taylor,A Gardner,CA Henry,,0,0,0,,,,31264231264
+1,West Indies,14,SR Taylor,A Gardner,CA Henry,,0,0,0,,,,31264231264
+1,West Indies,14,SR Taylor,A Gardner,CA Henry,,0,0,0,,,,31264231264
+1,West Indies,15,CA Henry,DM Kimmince,SR Taylor,,0,0,0,caught,CA Henry,MM Lanning,31264231264
+1,West Indies,15,S Gajnabi,DM Kimmince,SR Taylor,,0,0,0,,,,31264231264
+1,West Indies,15,S Gajnabi,DM Kimmince,SR Taylor,,0,1,1,,,,31264231264
+1,West Indies,15,SR Taylor,DM Kimmince,S Gajnabi,,0,1,1,,,,31264231264
+1,West Indies,15,S Gajnabi,DM Kimmince,SR Taylor,wides,1,1,0,,,,31264231264
+1,West Indies,15,S Gajnabi,DM Kimmince,SR Taylor,,0,1,1,,,,31264231264
+1,West Indies,15,SR Taylor,DM Kimmince,S Gajnabi,,0,0,0,,,,31264231264
+1,West Indies,16,S Gajnabi,A Gardner,SR Taylor,,0,1,1,,,,31264231264
+1,West Indies,16,SR Taylor,A Gardner,S Gajnabi,,0,1,1,,,,31264231264
+1,West Indies,16,S Gajnabi,A Gardner,SR Taylor,,0,1,1,,,,31264231264
+1,West Indies,16,SR Taylor,A Gardner,S Gajnabi,,0,1,1,,,,31264231264
+1,West Indies,16,S Gajnabi,A Gardner,SR Taylor,,0,0,0,,,,31264231264
+1,West Indies,16,S Gajnabi,A Gardner,SR Taylor,,0,1,1,,,,31264231264
+1,West Indies,17,S Gajnabi,ML Schutt,SR Taylor,,0,0,0,,,,31264231264
+1,West Indies,17,S Gajnabi,ML Schutt,SR Taylor,,0,4,4,,,,31264231264
+1,West Indies,17,S Gajnabi,ML Schutt,SR Taylor,,0,1,1,,,,31264231264
+1,West Indies,17,SR Taylor,ML Schutt,S Gajnabi,,0,4,4,,,,31264231264
+1,West Indies,17,SR Taylor,ML Schutt,S Gajnabi,,0,1,1,,,,31264231264
+1,West Indies,17,S Gajnabi,ML Schutt,SR Taylor,,0,0,0,caught,S Gajnabi,DM Kimmince,31264231264
+1,West Indies,18,ASS Fletcher,JL Jonassen,SR Taylor,,0,0,0,,,,31264231264
+1,West Indies,18,ASS Fletcher,JL Jonassen,SR Taylor,,0,1,1,,,,31264231264
+1,West Indies,18,SR Taylor,JL Jonassen,ASS Fletcher,,0,0,0,,,,31264231264
+1,West Indies,18,SR Taylor,JL Jonassen,ASS Fletcher,,0,1,1,,,,31264231264
+1,West Indies,18,ASS Fletcher,JL Jonassen,SR Taylor,,0,0,0,,,,31264231264
+1,West Indies,18,ASS Fletcher,JL Jonassen,SR Taylor,,0,1,1,,,,31264231264
+1,West Indies,19,ASS Fletcher,ML Schutt,SR Taylor,,0,1,1,,,,31264231264
+1,West Indies,19,SR Taylor,ML Schutt,ASS Fletcher,,0,1,1,,,,31264231264
+1,West Indies,19,ASS Fletcher,ML Schutt,SR Taylor,,0,0,0,,,,31264231264
+1,West Indies,19,ASS Fletcher,ML Schutt,SR Taylor,,0,1,1,,,,31264231264
+1,West Indies,19,SR Taylor,ML Schutt,ASS Fletcher,,0,0,0,,,,31264231264
+1,West Indies,19,SR Taylor,ML Schutt,ASS Fletcher,,0,6,6,,,,31264231264

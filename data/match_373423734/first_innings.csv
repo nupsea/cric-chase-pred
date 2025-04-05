@@ -1,0 +1,128 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Bangladesh,0,Tamim Iqbal,SL Malinga,Soumya Sarkar,,0,0,0,,,,373423734
+1,Bangladesh,0,Tamim Iqbal,SL Malinga,Soumya Sarkar,,0,0,0,bowled,Tamim Iqbal,,373423734
+1,Bangladesh,0,Sabbir Rahman,SL Malinga,Soumya Sarkar,,0,0,0,,,,373423734
+1,Bangladesh,0,Sabbir Rahman,SL Malinga,Soumya Sarkar,,0,0,0,,,,373423734
+1,Bangladesh,0,Sabbir Rahman,SL Malinga,Soumya Sarkar,wides,5,5,0,,,,373423734
+1,Bangladesh,0,Sabbir Rahman,SL Malinga,Soumya Sarkar,,0,1,1,,,,373423734
+1,Bangladesh,0,Soumya Sarkar,SL Malinga,Sabbir Rahman,,0,0,0,,,,373423734
+1,Bangladesh,1,Sabbir Rahman,KMDN Kulasekara,Soumya Sarkar,,0,3,3,,,,373423734
+1,Bangladesh,1,Soumya Sarkar,KMDN Kulasekara,Sabbir Rahman,,0,0,0,,,,373423734
+1,Bangladesh,1,Soumya Sarkar,KMDN Kulasekara,Sabbir Rahman,,0,4,4,,,,373423734
+1,Bangladesh,1,Soumya Sarkar,KMDN Kulasekara,Sabbir Rahman,wides,1,1,0,,,,373423734
+1,Bangladesh,1,Soumya Sarkar,KMDN Kulasekara,Sabbir Rahman,,0,2,2,,,,373423734
+1,Bangladesh,1,Soumya Sarkar,KMDN Kulasekara,Sabbir Rahman,,0,1,1,,,,373423734
+1,Bangladesh,1,Sabbir Rahman,KMDN Kulasekara,Soumya Sarkar,,0,1,1,,,,373423734
+1,Bangladesh,2,Sabbir Rahman,JRMVB Sanjaya,Soumya Sarkar,,0,1,1,,,,373423734
+1,Bangladesh,2,Soumya Sarkar,JRMVB Sanjaya,Sabbir Rahman,legbyes,4,4,0,,,,373423734
+1,Bangladesh,2,Soumya Sarkar,JRMVB Sanjaya,Sabbir Rahman,,0,4,4,,,,373423734
+1,Bangladesh,2,Soumya Sarkar,JRMVB Sanjaya,Sabbir Rahman,,0,1,1,,,,373423734
+1,Bangladesh,2,Sabbir Rahman,JRMVB Sanjaya,Soumya Sarkar,,0,0,0,,,,373423734
+1,Bangladesh,2,Sabbir Rahman,JRMVB Sanjaya,Soumya Sarkar,,0,0,0,,,,373423734
+1,Bangladesh,3,Soumya Sarkar,KMDN Kulasekara,Sabbir Rahman,wides,1,1,0,,,,373423734
+1,Bangladesh,3,Soumya Sarkar,KMDN Kulasekara,Sabbir Rahman,,0,0,0,,,,373423734
+1,Bangladesh,3,Soumya Sarkar,KMDN Kulasekara,Sabbir Rahman,,0,1,1,,,,373423734
+1,Bangladesh,3,Sabbir Rahman,KMDN Kulasekara,Soumya Sarkar,,0,4,4,,,,373423734
+1,Bangladesh,3,Sabbir Rahman,KMDN Kulasekara,Soumya Sarkar,,0,1,1,,,,373423734
+1,Bangladesh,3,Soumya Sarkar,KMDN Kulasekara,Sabbir Rahman,,0,4,4,,,,373423734
+1,Bangladesh,3,Soumya Sarkar,KMDN Kulasekara,Sabbir Rahman,,0,1,1,,,,373423734
+1,Bangladesh,4,Soumya Sarkar,SL Malinga,Sabbir Rahman,,0,2,2,,,,373423734
+1,Bangladesh,4,Soumya Sarkar,SL Malinga,Sabbir Rahman,,0,0,0,,,,373423734
+1,Bangladesh,4,Soumya Sarkar,SL Malinga,Sabbir Rahman,,0,3,3,,,,373423734
+1,Bangladesh,4,Sabbir Rahman,SL Malinga,Soumya Sarkar,noballs,1,5,4,,,,373423734
+1,Bangladesh,4,Sabbir Rahman,SL Malinga,Soumya Sarkar,,0,0,0,,,,373423734
+1,Bangladesh,4,Sabbir Rahman,SL Malinga,Soumya Sarkar,,0,1,1,,,,373423734
+1,Bangladesh,4,Soumya Sarkar,SL Malinga,Sabbir Rahman,,0,6,6,,,,373423734
+1,Bangladesh,5,Sabbir Rahman,JRMVB Sanjaya,Soumya Sarkar,,0,0,0,run out,Sabbir Rahman,S Prasanna,373423734
+1,Bangladesh,5,Soumya Sarkar,JRMVB Sanjaya,Mushfiqur Rahim,,0,0,0,,,,373423734
+1,Bangladesh,5,Soumya Sarkar,JRMVB Sanjaya,Mushfiqur Rahim,,0,0,0,,,,373423734
+1,Bangladesh,5,Soumya Sarkar,JRMVB Sanjaya,Mushfiqur Rahim,,0,0,0,,,,373423734
+1,Bangladesh,5,Soumya Sarkar,JRMVB Sanjaya,Mushfiqur Rahim,,0,0,0,caught,Soumya Sarkar,NLTC Perera,373423734
+1,Bangladesh,5,Mushfiqur Rahim,JRMVB Sanjaya,Shakib Al Hasan,legbyes,1,1,0,,,,373423734
+1,Bangladesh,6,Mushfiqur Rahim,DAS Gunaratne,Shakib Al Hasan,,0,0,0,,,,373423734
+1,Bangladesh,6,Mushfiqur Rahim,DAS Gunaratne,Shakib Al Hasan,,0,1,1,,,,373423734
+1,Bangladesh,6,Shakib Al Hasan,DAS Gunaratne,Mushfiqur Rahim,,0,0,0,,,,373423734
+1,Bangladesh,6,Shakib Al Hasan,DAS Gunaratne,Mushfiqur Rahim,,0,1,1,,,,373423734
+1,Bangladesh,6,Mushfiqur Rahim,DAS Gunaratne,Shakib Al Hasan,,0,4,4,,,,373423734
+1,Bangladesh,6,Mushfiqur Rahim,DAS Gunaratne,Shakib Al Hasan,,0,1,1,,,,373423734
+1,Bangladesh,7,Mushfiqur Rahim,S Prasanna,Shakib Al Hasan,,0,1,1,,,,373423734
+1,Bangladesh,7,Shakib Al Hasan,S Prasanna,Mushfiqur Rahim,,0,0,0,,,,373423734
+1,Bangladesh,7,Shakib Al Hasan,S Prasanna,Mushfiqur Rahim,,0,1,1,,,,373423734
+1,Bangladesh,7,Mushfiqur Rahim,S Prasanna,Shakib Al Hasan,,0,0,0,,,,373423734
+1,Bangladesh,7,Mushfiqur Rahim,S Prasanna,Shakib Al Hasan,,0,1,1,,,,373423734
+1,Bangladesh,7,Shakib Al Hasan,S Prasanna,Mushfiqur Rahim,,0,1,1,,,,373423734
+1,Bangladesh,8,Shakib Al Hasan,DAS Gunaratne,Mushfiqur Rahim,,0,1,1,,,,373423734
+1,Bangladesh,8,Mushfiqur Rahim,DAS Gunaratne,Shakib Al Hasan,,0,0,0,bowled,Mushfiqur Rahim,,373423734
+1,Bangladesh,8,Mosaddek Hossain,DAS Gunaratne,Shakib Al Hasan,,0,0,0,,,,373423734
+1,Bangladesh,8,Mosaddek Hossain,DAS Gunaratne,Shakib Al Hasan,,0,1,1,,,,373423734
+1,Bangladesh,8,Shakib Al Hasan,DAS Gunaratne,Mosaddek Hossain,,0,0,0,,,,373423734
+1,Bangladesh,8,Shakib Al Hasan,DAS Gunaratne,Mosaddek Hossain,,0,0,0,,,,373423734
+1,Bangladesh,9,Mosaddek Hossain,S Prasanna,Shakib Al Hasan,,0,1,1,,,,373423734
+1,Bangladesh,9,Shakib Al Hasan,S Prasanna,Mosaddek Hossain,,0,2,2,,,,373423734
+1,Bangladesh,9,Shakib Al Hasan,S Prasanna,Mosaddek Hossain,,0,0,0,,,,373423734
+1,Bangladesh,9,Shakib Al Hasan,S Prasanna,Mosaddek Hossain,,0,1,1,,,,373423734
+1,Bangladesh,9,Mosaddek Hossain,S Prasanna,Shakib Al Hasan,,0,0,0,,,,373423734
+1,Bangladesh,9,Mosaddek Hossain,S Prasanna,Shakib Al Hasan,,0,1,1,,,,373423734
+1,Bangladesh,10,Mosaddek Hossain,DAS Gunaratne,Shakib Al Hasan,,0,1,1,,,,373423734
+1,Bangladesh,10,Shakib Al Hasan,DAS Gunaratne,Mosaddek Hossain,,0,2,2,,,,373423734
+1,Bangladesh,10,Shakib Al Hasan,DAS Gunaratne,Mosaddek Hossain,,0,1,1,,,,373423734
+1,Bangladesh,10,Mosaddek Hossain,DAS Gunaratne,Shakib Al Hasan,,0,1,1,,,,373423734
+1,Bangladesh,10,Shakib Al Hasan,DAS Gunaratne,Mosaddek Hossain,,0,1,1,,,,373423734
+1,Bangladesh,10,Mosaddek Hossain,DAS Gunaratne,Shakib Al Hasan,,0,0,0,,,,373423734
+1,Bangladesh,11,Shakib Al Hasan,S Prasanna,Mosaddek Hossain,,0,0,0,caught,Shakib Al Hasan,DAS Gunaratne,373423734
+1,Bangladesh,11,Mahmudullah,S Prasanna,Mosaddek Hossain,,0,2,2,,,,373423734
+1,Bangladesh,11,Mahmudullah,S Prasanna,Mosaddek Hossain,,0,0,0,,,,373423734
+1,Bangladesh,11,Mahmudullah,S Prasanna,Mosaddek Hossain,,0,0,0,,,,373423734
+1,Bangladesh,11,Mahmudullah,S Prasanna,Mosaddek Hossain,,0,0,0,,,,373423734
+1,Bangladesh,11,Mahmudullah,S Prasanna,Mosaddek Hossain,,0,1,1,,,,373423734
+1,Bangladesh,12,Mahmudullah,DAS Gunaratne,Mosaddek Hossain,,0,0,0,,,,373423734
+1,Bangladesh,12,Mahmudullah,DAS Gunaratne,Mosaddek Hossain,,0,2,2,,,,373423734
+1,Bangladesh,12,Mahmudullah,DAS Gunaratne,Mosaddek Hossain,,0,1,1,,,,373423734
+1,Bangladesh,12,Mosaddek Hossain,DAS Gunaratne,Mahmudullah,,0,1,1,,,,373423734
+1,Bangladesh,12,Mahmudullah,DAS Gunaratne,Mosaddek Hossain,,0,1,1,,,,373423734
+1,Bangladesh,12,Mosaddek Hossain,DAS Gunaratne,Mahmudullah,,0,4,4,,,,373423734
+1,Bangladesh,13,Mahmudullah,S Prasanna,Mosaddek Hossain,,0,0,0,,,,373423734
+1,Bangladesh,13,Mahmudullah,S Prasanna,Mosaddek Hossain,,0,1,1,,,,373423734
+1,Bangladesh,13,Mosaddek Hossain,S Prasanna,Mahmudullah,,0,1,1,,,,373423734
+1,Bangladesh,13,Mahmudullah,S Prasanna,Mosaddek Hossain,legbyes,1,1,0,,,,373423734
+1,Bangladesh,13,Mosaddek Hossain,S Prasanna,Mahmudullah,,0,1,1,,,,373423734
+1,Bangladesh,13,Mahmudullah,S Prasanna,Mosaddek Hossain,,0,4,4,,,,373423734
+1,Bangladesh,14,Mosaddek Hossain,JRMVB Sanjaya,Mahmudullah,,0,1,1,,,,373423734
+1,Bangladesh,14,Mahmudullah,JRMVB Sanjaya,Mosaddek Hossain,,0,1,1,,,,373423734
+1,Bangladesh,14,Mosaddek Hossain,JRMVB Sanjaya,Mahmudullah,wides,1,1,0,,,,373423734
+1,Bangladesh,14,Mosaddek Hossain,JRMVB Sanjaya,Mahmudullah,,0,2,2,,,,373423734
+1,Bangladesh,14,Mosaddek Hossain,JRMVB Sanjaya,Mahmudullah,wides,1,1,0,,,,373423734
+1,Bangladesh,14,Mosaddek Hossain,JRMVB Sanjaya,Mahmudullah,,0,1,1,,,,373423734
+1,Bangladesh,14,Mahmudullah,JRMVB Sanjaya,Mosaddek Hossain,,0,2,2,,,,373423734
+1,Bangladesh,14,Mahmudullah,JRMVB Sanjaya,Mosaddek Hossain,,0,1,1,,,,373423734
+1,Bangladesh,15,Mahmudullah,KMDN Kulasekara,Mosaddek Hossain,,0,2,2,,,,373423734
+1,Bangladesh,15,Mahmudullah,KMDN Kulasekara,Mosaddek Hossain,,0,4,4,,,,373423734
+1,Bangladesh,15,Mahmudullah,KMDN Kulasekara,Mosaddek Hossain,,0,1,1,,,,373423734
+1,Bangladesh,15,Mosaddek Hossain,KMDN Kulasekara,Mahmudullah,,0,0,0,,,,373423734
+1,Bangladesh,15,Mosaddek Hossain,KMDN Kulasekara,Mahmudullah,,0,0,0,,,,373423734
+1,Bangladesh,15,Mosaddek Hossain,KMDN Kulasekara,Mahmudullah,,0,4,4,,,,373423734
+1,Bangladesh,16,Mahmudullah,SL Malinga,Mosaddek Hossain,,0,4,4,,,,373423734
+1,Bangladesh,16,Mahmudullah,SL Malinga,Mosaddek Hossain,,0,1,1,,,,373423734
+1,Bangladesh,16,Mosaddek Hossain,SL Malinga,Mahmudullah,,0,1,1,,,,373423734
+1,Bangladesh,16,Mahmudullah,SL Malinga,Mosaddek Hossain,,0,1,1,,,,373423734
+1,Bangladesh,16,Mosaddek Hossain,SL Malinga,Mahmudullah,,0,0,0,,,,373423734
+1,Bangladesh,16,Mosaddek Hossain,SL Malinga,Mahmudullah,,0,1,1,,,,373423734
+1,Bangladesh,17,Mosaddek Hossain,JRMVB Sanjaya,Mahmudullah,,0,1,1,,,,373423734
+1,Bangladesh,17,Mahmudullah,JRMVB Sanjaya,Mosaddek Hossain,,0,1,1,,,,373423734
+1,Bangladesh,17,Mosaddek Hossain,JRMVB Sanjaya,Mahmudullah,,0,1,1,,,,373423734
+1,Bangladesh,17,Mahmudullah,JRMVB Sanjaya,Mosaddek Hossain,,0,0,0,,,,373423734
+1,Bangladesh,17,Mahmudullah,JRMVB Sanjaya,Mosaddek Hossain,,0,1,1,,,,373423734
+1,Bangladesh,17,Mosaddek Hossain,JRMVB Sanjaya,Mahmudullah,,0,4,4,,,,373423734
+1,Bangladesh,18,Mahmudullah,SL Malinga,Mosaddek Hossain,,0,0,0,bowled,Mahmudullah,,373423734
+1,Bangladesh,18,Mashrafe Mortaza,SL Malinga,Mosaddek Hossain,,0,2,2,,,,373423734
+1,Bangladesh,18,Mashrafe Mortaza,SL Malinga,Mosaddek Hossain,wides,1,1,0,,,,373423734
+1,Bangladesh,18,Mashrafe Mortaza,SL Malinga,Mosaddek Hossain,,0,1,1,,,,373423734
+1,Bangladesh,18,Mosaddek Hossain,SL Malinga,Mashrafe Mortaza,,0,0,0,,,,373423734
+1,Bangladesh,18,Mosaddek Hossain,SL Malinga,Mashrafe Mortaza,,0,2,2,,,,373423734
+1,Bangladesh,18,Mosaddek Hossain,SL Malinga,Mashrafe Mortaza,,0,1,1,,,,373423734
+1,Bangladesh,19,Mosaddek Hossain,KMDN Kulasekara,Mashrafe Mortaza,,0,1,1,,,,373423734
+1,Bangladesh,19,Mashrafe Mortaza,KMDN Kulasekara,Mosaddek Hossain,,0,1,1,,,,373423734
+1,Bangladesh,19,Mosaddek Hossain,KMDN Kulasekara,Mashrafe Mortaza,,0,1,1,,,,373423734
+1,Bangladesh,19,Mashrafe Mortaza,KMDN Kulasekara,Mosaddek Hossain,,0,4,4,,,,373423734
+1,Bangladesh,19,Mashrafe Mortaza,KMDN Kulasekara,Mosaddek Hossain,,0,1,1,,,,373423734
+1,Bangladesh,19,Mosaddek Hossain,KMDN Kulasekara,Mashrafe Mortaza,,0,1,1,,,,373423734

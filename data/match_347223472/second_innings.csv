@@ -1,0 +1,100 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,New Zealand,0,MJ Guptill,DJ Willey,BB McCullum,,0,4,4,,,,347223472
+2,New Zealand,0,MJ Guptill,DJ Willey,BB McCullum,,0,2,2,,,,347223472
+2,New Zealand,0,MJ Guptill,DJ Willey,BB McCullum,,0,0,0,bowled,MJ Guptill,,347223472
+2,New Zealand,0,KS Williamson,DJ Willey,BB McCullum,,0,1,1,,,,347223472
+2,New Zealand,0,BB McCullum,DJ Willey,KS Williamson,,0,4,4,,,,347223472
+2,New Zealand,0,BB McCullum,DJ Willey,KS Williamson,,0,0,0,,,,347223472
+2,New Zealand,1,KS Williamson,ST Finn,BB McCullum,,0,1,1,,,,347223472
+2,New Zealand,1,BB McCullum,ST Finn,KS Williamson,,0,4,4,,,,347223472
+2,New Zealand,1,BB McCullum,ST Finn,KS Williamson,,0,0,0,,,,347223472
+2,New Zealand,1,BB McCullum,ST Finn,KS Williamson,,0,6,6,,,,347223472
+2,New Zealand,1,BB McCullum,ST Finn,KS Williamson,,0,1,1,,,,347223472
+2,New Zealand,1,KS Williamson,ST Finn,BB McCullum,,0,0,0,,,,347223472
+2,New Zealand,2,BB McCullum,DJ Willey,KS Williamson,,0,0,0,,,,347223472
+2,New Zealand,2,BB McCullum,DJ Willey,KS Williamson,,0,6,6,,,,347223472
+2,New Zealand,2,BB McCullum,DJ Willey,KS Williamson,legbyes,1,1,0,,,,347223472
+2,New Zealand,2,KS Williamson,DJ Willey,BB McCullum,,0,2,2,,,,347223472
+2,New Zealand,2,KS Williamson,DJ Willey,BB McCullum,,0,1,1,,,,347223472
+2,New Zealand,2,BB McCullum,DJ Willey,KS Williamson,,0,1,1,,,,347223472
+2,New Zealand,3,BB McCullum,MA Wood,KS Williamson,,0,6,6,,,,347223472
+2,New Zealand,3,BB McCullum,MA Wood,KS Williamson,,0,6,6,,,,347223472
+2,New Zealand,3,BB McCullum,MA Wood,KS Williamson,,0,0,0,,,,347223472
+2,New Zealand,3,BB McCullum,MA Wood,KS Williamson,,0,1,1,,,,347223472
+2,New Zealand,3,KS Williamson,MA Wood,BB McCullum,,0,1,1,,,,347223472
+2,New Zealand,3,BB McCullum,MA Wood,KS Williamson,,0,0,0,bowled,BB McCullum,,347223472
+2,New Zealand,4,KS Williamson,AU Rashid,LRPL Taylor,,0,4,4,,,,347223472
+2,New Zealand,4,KS Williamson,AU Rashid,LRPL Taylor,,0,4,4,,,,347223472
+2,New Zealand,4,KS Williamson,AU Rashid,LRPL Taylor,,0,2,2,,,,347223472
+2,New Zealand,4,KS Williamson,AU Rashid,LRPL Taylor,,0,1,1,,,,347223472
+2,New Zealand,4,LRPL Taylor,AU Rashid,KS Williamson,,0,4,4,,,,347223472
+2,New Zealand,4,LRPL Taylor,AU Rashid,KS Williamson,,0,1,1,,,,347223472
+2,New Zealand,5,LRPL Taylor,MA Wood,KS Williamson,,0,1,1,,,,347223472
+2,New Zealand,5,KS Williamson,MA Wood,LRPL Taylor,,0,1,1,,,,347223472
+2,New Zealand,5,LRPL Taylor,MA Wood,KS Williamson,,0,1,1,,,,347223472
+2,New Zealand,5,KS Williamson,MA Wood,LRPL Taylor,,0,4,4,,,,347223472
+2,New Zealand,5,KS Williamson,MA Wood,LRPL Taylor,,0,1,1,,,,347223472
+2,New Zealand,5,LRPL Taylor,MA Wood,KS Williamson,,0,1,1,,,,347223472
+2,New Zealand,6,LRPL Taylor,ST Finn,KS Williamson,,0,1,1,,,,347223472
+2,New Zealand,6,KS Williamson,ST Finn,LRPL Taylor,,0,1,1,,,,347223472
+2,New Zealand,6,LRPL Taylor,ST Finn,KS Williamson,,0,4,4,,,,347223472
+2,New Zealand,6,LRPL Taylor,ST Finn,KS Williamson,,0,2,2,,,,347223472
+2,New Zealand,6,LRPL Taylor,ST Finn,KS Williamson,,0,1,1,,,,347223472
+2,New Zealand,6,KS Williamson,ST Finn,LRPL Taylor,,0,0,0,,,,347223472
+2,New Zealand,7,LRPL Taylor,BA Stokes,KS Williamson,,0,1,1,,,,347223472
+2,New Zealand,7,KS Williamson,BA Stokes,LRPL Taylor,,0,4,4,,,,347223472
+2,New Zealand,7,KS Williamson,BA Stokes,LRPL Taylor,,0,0,0,,,,347223472
+2,New Zealand,7,KS Williamson,BA Stokes,LRPL Taylor,,0,1,1,,,,347223472
+2,New Zealand,7,LRPL Taylor,BA Stokes,KS Williamson,,0,0,0,,,,347223472
+2,New Zealand,7,LRPL Taylor,BA Stokes,KS Williamson,,0,0,0,,,,347223472
+2,New Zealand,8,KS Williamson,AU Rashid,LRPL Taylor,,0,1,1,,,,347223472
+2,New Zealand,8,LRPL Taylor,AU Rashid,KS Williamson,,0,0,0,caught,LRPL Taylor,DJ Willey,347223472
+2,New Zealand,8,KS Williamson,AU Rashid,C Munro,,0,4,4,,,,347223472
+2,New Zealand,8,KS Williamson,AU Rashid,C Munro,,0,0,0,,,,347223472
+2,New Zealand,8,KS Williamson,AU Rashid,C Munro,,0,1,1,,,,347223472
+2,New Zealand,8,C Munro,AU Rashid,KS Williamson,,0,1,1,,,,347223472
+2,New Zealand,9,C Munro,BA Stokes,KS Williamson,,0,0,0,bowled,C Munro,,347223472
+2,New Zealand,9,L Ronchi,BA Stokes,KS Williamson,,0,4,4,,,,347223472
+2,New Zealand,9,L Ronchi,BA Stokes,KS Williamson,,0,1,1,,,,347223472
+2,New Zealand,9,KS Williamson,BA Stokes,L Ronchi,,0,1,1,,,,347223472
+2,New Zealand,9,L Ronchi,BA Stokes,KS Williamson,,0,0,0,,,,347223472
+2,New Zealand,9,L Ronchi,BA Stokes,KS Williamson,,0,0,0,caught,L Ronchi,JM Bairstow,347223472
+2,New Zealand,10,MJ Santner,AU Rashid,KS Williamson,,0,0,0,,,,347223472
+2,New Zealand,10,MJ Santner,AU Rashid,KS Williamson,,0,2,2,,,,347223472
+2,New Zealand,10,MJ Santner,AU Rashid,KS Williamson,,0,0,0,,,,347223472
+2,New Zealand,10,MJ Santner,AU Rashid,KS Williamson,,0,1,1,,,,347223472
+2,New Zealand,10,KS Williamson,AU Rashid,MJ Santner,,0,1,1,,,,347223472
+2,New Zealand,10,MJ Santner,AU Rashid,KS Williamson,,0,0,0,,,,347223472
+2,New Zealand,11,KS Williamson,BA Stokes,MJ Santner,,0,0,0,,,,347223472
+2,New Zealand,11,KS Williamson,BA Stokes,MJ Santner,,0,4,4,,,,347223472
+2,New Zealand,11,KS Williamson,BA Stokes,MJ Santner,,0,0,0,,,,347223472
+2,New Zealand,11,KS Williamson,BA Stokes,MJ Santner,,0,4,4,,,,347223472
+2,New Zealand,11,KS Williamson,BA Stokes,MJ Santner,,0,0,0,,,,347223472
+2,New Zealand,11,KS Williamson,BA Stokes,MJ Santner,,0,4,4,,,,347223472
+2,New Zealand,12,MJ Santner,AU Rashid,KS Williamson,,0,1,1,,,,347223472
+2,New Zealand,12,KS Williamson,AU Rashid,MJ Santner,,0,1,1,,,,347223472
+2,New Zealand,12,MJ Santner,AU Rashid,KS Williamson,,0,1,1,,,,347223472
+2,New Zealand,12,KS Williamson,AU Rashid,MJ Santner,,0,1,1,,,,347223472
+2,New Zealand,12,MJ Santner,AU Rashid,KS Williamson,,0,1,1,,,,347223472
+2,New Zealand,12,KS Williamson,AU Rashid,MJ Santner,,0,1,1,,,,347223472
+2,New Zealand,13,KS Williamson,ST Finn,MJ Santner,,0,1,1,,,,347223472
+2,New Zealand,13,MJ Santner,ST Finn,KS Williamson,,0,0,0,,,,347223472
+2,New Zealand,13,MJ Santner,ST Finn,KS Williamson,,0,1,1,,,,347223472
+2,New Zealand,13,KS Williamson,ST Finn,MJ Santner,,0,1,1,,,,347223472
+2,New Zealand,13,MJ Santner,ST Finn,KS Williamson,,0,0,0,,,,347223472
+2,New Zealand,13,MJ Santner,ST Finn,KS Williamson,,0,2,2,,,,347223472
+2,New Zealand,14,KS Williamson,MA Wood,MJ Santner,,0,2,2,,,,347223472
+2,New Zealand,14,KS Williamson,MA Wood,MJ Santner,,0,1,1,,,,347223472
+2,New Zealand,14,MJ Santner,MA Wood,KS Williamson,,0,0,0,bowled,MJ Santner,,347223472
+2,New Zealand,14,NL McCullum,MA Wood,KS Williamson,,0,0,0,,,,347223472
+2,New Zealand,14,NL McCullum,MA Wood,KS Williamson,,0,0,0,run out,KS Williamson,DJ Willey,347223472
+2,New Zealand,14,TG Southee,MA Wood,NL McCullum,,0,0,0,caught,TG Southee,EJG Morgan,347223472
+2,New Zealand,15,NL McCullum,ST Finn,MJ Henry,,0,0,0,,,,347223472
+2,New Zealand,15,NL McCullum,ST Finn,MJ Henry,,0,0,0,,,,347223472
+2,New Zealand,15,NL McCullum,ST Finn,MJ Henry,,0,0,0,,,,347223472
+2,New Zealand,15,NL McCullum,ST Finn,MJ Henry,,0,2,2,,,,347223472
+2,New Zealand,15,NL McCullum,ST Finn,MJ Henry,,0,0,0,,,,347223472
+2,New Zealand,15,NL McCullum,ST Finn,MJ Henry,,0,1,1,,,,347223472
+2,New Zealand,16,NL McCullum,DJ Willey,MJ Henry,wides,1,1,0,,,,347223472
+2,New Zealand,16,NL McCullum,DJ Willey,MJ Henry,,0,0,0,caught,NL McCullum,ST Finn,347223472
+2,New Zealand,16,MJ McClenaghan,DJ Willey,MJ Henry,,0,0,0,caught,MJ McClenaghan,JM Bairstow,347223472

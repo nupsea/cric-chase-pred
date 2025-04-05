@@ -1,0 +1,130 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Pakistan,0,Kamran Akmal,RJ Sidebottom,Salman Butt,,0,6,6,,,,312523125
+1,Pakistan,0,Kamran Akmal,RJ Sidebottom,Salman Butt,,0,1,1,,,,312523125
+1,Pakistan,0,Salman Butt,RJ Sidebottom,Kamran Akmal,,0,0,0,,,,312523125
+1,Pakistan,0,Salman Butt,RJ Sidebottom,Kamran Akmal,,0,0,0,,,,312523125
+1,Pakistan,0,Salman Butt,RJ Sidebottom,Kamran Akmal,,0,0,0,,,,312523125
+1,Pakistan,0,Salman Butt,RJ Sidebottom,Kamran Akmal,,0,4,4,,,,312523125
+1,Pakistan,1,Kamran Akmal,TT Bresnan,Salman Butt,wides,1,1,0,,,,312523125
+1,Pakistan,1,Kamran Akmal,TT Bresnan,Salman Butt,,0,4,4,,,,312523125
+1,Pakistan,1,Kamran Akmal,TT Bresnan,Salman Butt,,0,0,0,,,,312523125
+1,Pakistan,1,Kamran Akmal,TT Bresnan,Salman Butt,,0,0,0,,,,312523125
+1,Pakistan,1,Kamran Akmal,TT Bresnan,Salman Butt,,0,0,0,,,,312523125
+1,Pakistan,1,Kamran Akmal,TT Bresnan,Salman Butt,,0,0,0,,,,312523125
+1,Pakistan,1,Kamran Akmal,TT Bresnan,Salman Butt,,0,0,0,,,,312523125
+1,Pakistan,2,Salman Butt,SCJ Broad,Kamran Akmal,,0,0,0,,,,312523125
+1,Pakistan,2,Salman Butt,SCJ Broad,Kamran Akmal,,0,2,2,,,,312523125
+1,Pakistan,2,Salman Butt,SCJ Broad,Kamran Akmal,,0,1,1,,,,312523125
+1,Pakistan,2,Kamran Akmal,SCJ Broad,Salman Butt,,0,4,4,,,,312523125
+1,Pakistan,2,Kamran Akmal,SCJ Broad,Salman Butt,,0,0,0,,,,312523125
+1,Pakistan,2,Kamran Akmal,SCJ Broad,Salman Butt,,0,0,0,,,,312523125
+1,Pakistan,3,Salman Butt,TT Bresnan,Kamran Akmal,,0,4,4,,,,312523125
+1,Pakistan,3,Salman Butt,TT Bresnan,Kamran Akmal,,0,1,1,,,,312523125
+1,Pakistan,3,Kamran Akmal,TT Bresnan,Salman Butt,,0,0,0,,,,312523125
+1,Pakistan,3,Kamran Akmal,TT Bresnan,Salman Butt,,0,0,0,,,,312523125
+1,Pakistan,3,Kamran Akmal,TT Bresnan,Salman Butt,,0,0,0,,,,312523125
+1,Pakistan,3,Kamran Akmal,TT Bresnan,Salman Butt,,0,0,0,,,,312523125
+1,Pakistan,4,Salman Butt,SCJ Broad,Kamran Akmal,,0,1,1,,,,312523125
+1,Pakistan,4,Kamran Akmal,SCJ Broad,Salman Butt,,0,0,0,,,,312523125
+1,Pakistan,4,Kamran Akmal,SCJ Broad,Salman Butt,byes,1,1,0,,,,312523125
+1,Pakistan,4,Salman Butt,SCJ Broad,Kamran Akmal,,0,1,1,,,,312523125
+1,Pakistan,4,Kamran Akmal,SCJ Broad,Salman Butt,,0,0,0,caught,Kamran Akmal,C Kieswetter,312523125
+1,Pakistan,4,Mohammad Hafeez,SCJ Broad,Salman Butt,,0,2,2,,,,312523125
+1,Pakistan,5,Salman Butt,TT Bresnan,Mohammad Hafeez,,0,4,4,,,,312523125
+1,Pakistan,5,Salman Butt,TT Bresnan,Mohammad Hafeez,,0,2,2,,,,312523125
+1,Pakistan,5,Salman Butt,TT Bresnan,Mohammad Hafeez,,0,1,1,,,,312523125
+1,Pakistan,5,Mohammad Hafeez,TT Bresnan,Salman Butt,,0,1,1,,,,312523125
+1,Pakistan,5,Salman Butt,TT Bresnan,Mohammad Hafeez,,0,0,0,,,,312523125
+1,Pakistan,5,Salman Butt,TT Bresnan,Mohammad Hafeez,wides,1,1,0,,,,312523125
+1,Pakistan,5,Salman Butt,TT Bresnan,Mohammad Hafeez,noballs,1,1,0,,,,312523125
+1,Pakistan,5,Salman Butt,TT Bresnan,Mohammad Hafeez,,0,1,1,,,,312523125
+1,Pakistan,6,Salman Butt,MH Yardy,Mohammad Hafeez,,0,1,1,,,,312523125
+1,Pakistan,6,Mohammad Hafeez,MH Yardy,Salman Butt,,0,1,1,,,,312523125
+1,Pakistan,6,Salman Butt,MH Yardy,Mohammad Hafeez,,0,1,1,,,,312523125
+1,Pakistan,6,Mohammad Hafeez,MH Yardy,Salman Butt,,0,4,4,,,,312523125
+1,Pakistan,6,Mohammad Hafeez,MH Yardy,Salman Butt,,0,4,4,,,,312523125
+1,Pakistan,6,Mohammad Hafeez,MH Yardy,Salman Butt,,0,1,1,,,,312523125
+1,Pakistan,7,Mohammad Hafeez,GP Swann,Salman Butt,,0,0,0,,,,312523125
+1,Pakistan,7,Mohammad Hafeez,GP Swann,Salman Butt,,0,1,1,,,,312523125
+1,Pakistan,7,Salman Butt,GP Swann,Mohammad Hafeez,,0,1,1,,,,312523125
+1,Pakistan,7,Mohammad Hafeez,GP Swann,Salman Butt,,0,0,0,,,,312523125
+1,Pakistan,7,Mohammad Hafeez,GP Swann,Salman Butt,,0,1,1,,,,312523125
+1,Pakistan,7,Salman Butt,GP Swann,Mohammad Hafeez,,0,1,1,,,,312523125
+1,Pakistan,8,Salman Butt,PD Collingwood,Mohammad Hafeez,,0,1,1,,,,312523125
+1,Pakistan,8,Mohammad Hafeez,PD Collingwood,Salman Butt,,0,1,1,,,,312523125
+1,Pakistan,8,Salman Butt,PD Collingwood,Mohammad Hafeez,,0,0,0,,,,312523125
+1,Pakistan,8,Salman Butt,PD Collingwood,Mohammad Hafeez,,0,1,1,,,,312523125
+1,Pakistan,8,Mohammad Hafeez,PD Collingwood,Salman Butt,,0,1,1,,,,312523125
+1,Pakistan,8,Salman Butt,PD Collingwood,Mohammad Hafeez,,0,6,6,,,,312523125
+1,Pakistan,9,Mohammad Hafeez,GP Swann,Salman Butt,,0,1,1,,,,312523125
+1,Pakistan,9,Salman Butt,GP Swann,Mohammad Hafeez,,0,0,0,caught,Salman Butt,PD Collingwood,312523125
+1,Pakistan,9,Umar Akmal,GP Swann,Mohammad Hafeez,,0,0,0,,,,312523125
+1,Pakistan,9,Umar Akmal,GP Swann,Mohammad Hafeez,,0,0,0,,,,312523125
+1,Pakistan,9,Umar Akmal,GP Swann,Mohammad Hafeez,,0,4,4,,,,312523125
+1,Pakistan,9,Umar Akmal,GP Swann,Mohammad Hafeez,,0,1,1,,,,312523125
+1,Pakistan,10,Umar Akmal,MH Yardy,Mohammad Hafeez,,0,0,0,,,,312523125
+1,Pakistan,10,Umar Akmal,MH Yardy,Mohammad Hafeez,,0,1,1,,,,312523125
+1,Pakistan,10,Mohammad Hafeez,MH Yardy,Umar Akmal,,0,0,0,caught,Mohammad Hafeez,SCJ Broad,312523125
+1,Pakistan,10,Shahid Afridi,MH Yardy,Umar Akmal,,0,0,0,run out,Shahid Afridi,C Kieswetter,312523125
+1,Pakistan,10,Misbah-ul-Haq,MH Yardy,Umar Akmal,,0,1,1,,,,312523125
+1,Pakistan,10,Umar Akmal,MH Yardy,Misbah-ul-Haq,,0,0,0,,,,312523125
+1,Pakistan,11,Misbah-ul-Haq,GP Swann,Umar Akmal,,0,1,1,,,,312523125
+1,Pakistan,11,Umar Akmal,GP Swann,Misbah-ul-Haq,,0,2,2,,,,312523125
+1,Pakistan,11,Umar Akmal,GP Swann,Misbah-ul-Haq,,0,2,2,,,,312523125
+1,Pakistan,11,Umar Akmal,GP Swann,Misbah-ul-Haq,,0,1,1,,,,312523125
+1,Pakistan,11,Misbah-ul-Haq,GP Swann,Umar Akmal,,0,1,1,,,,312523125
+1,Pakistan,11,Umar Akmal,GP Swann,Misbah-ul-Haq,,0,1,1,,,,312523125
+1,Pakistan,12,Umar Akmal,MH Yardy,Misbah-ul-Haq,,0,0,0,,,,312523125
+1,Pakistan,12,Umar Akmal,MH Yardy,Misbah-ul-Haq,,0,0,0,,,,312523125
+1,Pakistan,12,Umar Akmal,MH Yardy,Misbah-ul-Haq,,0,1,1,,,,312523125
+1,Pakistan,12,Misbah-ul-Haq,MH Yardy,Umar Akmal,,0,0,0,,,,312523125
+1,Pakistan,12,Misbah-ul-Haq,MH Yardy,Umar Akmal,,0,1,1,,,,312523125
+1,Pakistan,12,Umar Akmal,MH Yardy,Misbah-ul-Haq,,0,0,0,,,,312523125
+1,Pakistan,13,Misbah-ul-Haq,SCJ Broad,Umar Akmal,,0,1,1,,,,312523125
+1,Pakistan,13,Umar Akmal,SCJ Broad,Misbah-ul-Haq,noballs,1,2,1,,,,312523125
+1,Pakistan,13,Misbah-ul-Haq,SCJ Broad,Umar Akmal,,0,6,6,,,,312523125
+1,Pakistan,13,Misbah-ul-Haq,SCJ Broad,Umar Akmal,,0,0,0,,,,312523125
+1,Pakistan,13,Misbah-ul-Haq,SCJ Broad,Umar Akmal,,0,0,0,,,,312523125
+1,Pakistan,13,Misbah-ul-Haq,SCJ Broad,Umar Akmal,,0,1,1,,,,312523125
+1,Pakistan,13,Umar Akmal,SCJ Broad,Misbah-ul-Haq,,0,1,1,,,,312523125
+1,Pakistan,14,Umar Akmal,MH Yardy,Misbah-ul-Haq,,0,1,1,,,,312523125
+1,Pakistan,14,Misbah-ul-Haq,MH Yardy,Umar Akmal,,0,1,1,,,,312523125
+1,Pakistan,14,Umar Akmal,MH Yardy,Misbah-ul-Haq,,0,1,1,,,,312523125
+1,Pakistan,14,Misbah-ul-Haq,MH Yardy,Umar Akmal,,0,0,0,,,,312523125
+1,Pakistan,14,Misbah-ul-Haq,MH Yardy,Umar Akmal,,0,0,0,,,,312523125
+1,Pakistan,14,Misbah-ul-Haq,MH Yardy,Umar Akmal,,0,0,0,bowled,Misbah-ul-Haq,,312523125
+1,Pakistan,15,Umar Akmal,GP Swann,Abdul Razzaq,,0,1,1,,,,312523125
+1,Pakistan,15,Abdul Razzaq,GP Swann,Umar Akmal,,0,0,0,,,,312523125
+1,Pakistan,15,Abdul Razzaq,GP Swann,Umar Akmal,,0,0,0,,,,312523125
+1,Pakistan,15,Abdul Razzaq,GP Swann,Umar Akmal,,0,1,1,,,,312523125
+1,Pakistan,15,Umar Akmal,GP Swann,Abdul Razzaq,,0,6,6,,,,312523125
+1,Pakistan,15,Umar Akmal,GP Swann,Abdul Razzaq,,0,2,2,,,,312523125
+1,Pakistan,16,Abdul Razzaq,RJ Sidebottom,Umar Akmal,wides,1,1,0,,,,312523125
+1,Pakistan,16,Abdul Razzaq,RJ Sidebottom,Umar Akmal,,0,1,1,,,,312523125
+1,Pakistan,16,Umar Akmal,RJ Sidebottom,Abdul Razzaq,,0,4,4,,,,312523125
+1,Pakistan,16,Umar Akmal,RJ Sidebottom,Abdul Razzaq,,0,0,0,,,,312523125
+1,Pakistan,16,Umar Akmal,RJ Sidebottom,Abdul Razzaq,,0,0,0,caught,Umar Akmal,KP Pietersen,312523125
+1,Pakistan,16,Abdul Razzaq,RJ Sidebottom,Fawad Alam,,0,1,1,,,,312523125
+1,Pakistan,16,Fawad Alam,RJ Sidebottom,Abdul Razzaq,,0,1,1,,,,312523125
+1,Pakistan,17,Fawad Alam,SCJ Broad,Abdul Razzaq,,0,0,0,,,,312523125
+1,Pakistan,17,Fawad Alam,SCJ Broad,Abdul Razzaq,,0,0,0,caught,Fawad Alam,C Kieswetter,312523125
+1,Pakistan,17,Mohammad Amir,SCJ Broad,Abdul Razzaq,,0,1,1,,,,312523125
+1,Pakistan,17,Abdul Razzaq,SCJ Broad,Mohammad Amir,,0,0,0,,,,312523125
+1,Pakistan,17,Abdul Razzaq,SCJ Broad,Mohammad Amir,,0,1,1,,,,312523125
+1,Pakistan,17,Mohammad Amir,SCJ Broad,Abdul Razzaq,,0,1,1,,,,312523125
+1,Pakistan,18,Mohammad Amir,RJ Sidebottom,Abdul Razzaq,,0,0,0,,,,312523125
+1,Pakistan,18,Mohammad Amir,RJ Sidebottom,Abdul Razzaq,,0,0,0,,,,312523125
+1,Pakistan,18,Mohammad Amir,RJ Sidebottom,Abdul Razzaq,,0,0,0,,,,312523125
+1,Pakistan,18,Mohammad Amir,RJ Sidebottom,Abdul Razzaq,,0,1,1,,,,312523125
+1,Pakistan,18,Abdul Razzaq,RJ Sidebottom,Mohammad Amir,wides,1,1,0,,,,312523125
+1,Pakistan,18,Abdul Razzaq,RJ Sidebottom,Mohammad Amir,wides,1,1,0,,,,312523125
+1,Pakistan,18,Abdul Razzaq,RJ Sidebottom,Mohammad Amir,,0,6,6,,,,312523125
+1,Pakistan,18,Abdul Razzaq,RJ Sidebottom,Mohammad Amir,,0,0,0,caught,Abdul Razzaq,TT Bresnan,312523125
+1,Pakistan,19,Mohammad Amir,TT Bresnan,Saeed Ajmal,,0,0,0,caught,Mohammad Amir,MH Yardy,312523125
+1,Pakistan,19,Saeed Ajmal,TT Bresnan,Mohammad Asif,wides,1,1,0,,,,312523125
+1,Pakistan,19,Saeed Ajmal,TT Bresnan,Mohammad Asif,,0,0,0,,,,312523125
+1,Pakistan,19,Saeed Ajmal,TT Bresnan,Mohammad Asif,,0,4,4,,,,312523125
+1,Pakistan,19,Saeed Ajmal,TT Bresnan,Mohammad Asif,,0,2,2,,,,312523125
+1,Pakistan,19,Saeed Ajmal,TT Bresnan,Mohammad Asif,wides,1,1,0,,,,312523125
+1,Pakistan,19,Saeed Ajmal,TT Bresnan,Mohammad Asif,,0,6,6,,,,312523125
+1,Pakistan,19,Saeed Ajmal,TT Bresnan,Mohammad Asif,,0,1,1,,,,312523125

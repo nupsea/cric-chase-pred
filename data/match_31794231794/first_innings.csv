@@ -1,0 +1,94 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Swaziland,0,C Forbes,F Nsubuga,Muhammad Amin,,0,0,0,,,,31794231794
+1,Swaziland,0,C Forbes,F Nsubuga,Muhammad Amin,,0,1,1,,,,31794231794
+1,Swaziland,0,Muhammad Amin,F Nsubuga,C Forbes,,0,2,2,,,,31794231794
+1,Swaziland,0,Muhammad Amin,F Nsubuga,C Forbes,,0,0,0,,,,31794231794
+1,Swaziland,0,Muhammad Amin,F Nsubuga,C Forbes,,0,0,0,lbw,Muhammad Amin,,31794231794
+1,Swaziland,0,Naeem Gull,F Nsubuga,C Forbes,,0,0,0,,,,31794231794
+1,Swaziland,1,C Forbes,DM Nakrani,Naeem Gull,,0,0,0,,,,31794231794
+1,Swaziland,1,C Forbes,DM Nakrani,Naeem Gull,,0,0,0,,,,31794231794
+1,Swaziland,1,C Forbes,DM Nakrani,Naeem Gull,,0,1,1,,,,31794231794
+1,Swaziland,1,Naeem Gull,DM Nakrani,C Forbes,,0,4,4,,,,31794231794
+1,Swaziland,1,Naeem Gull,DM Nakrani,C Forbes,,0,0,0,,,,31794231794
+1,Swaziland,1,Naeem Gull,DM Nakrani,C Forbes,,0,0,0,,,,31794231794
+1,Swaziland,2,C Forbes,F Nsubuga,Naeem Gull,,0,1,1,,,,31794231794
+1,Swaziland,2,Naeem Gull,F Nsubuga,C Forbes,,0,0,0,,,,31794231794
+1,Swaziland,2,Naeem Gull,F Nsubuga,C Forbes,,0,0,0,,,,31794231794
+1,Swaziland,2,Naeem Gull,F Nsubuga,C Forbes,,0,0,0,,,,31794231794
+1,Swaziland,2,Naeem Gull,F Nsubuga,C Forbes,,0,0,0,,,,31794231794
+1,Swaziland,2,Naeem Gull,F Nsubuga,C Forbes,,0,0,0,,,,31794231794
+1,Swaziland,3,C Forbes,DM Nakrani,Naeem Gull,,0,0,0,,,,31794231794
+1,Swaziland,3,C Forbes,DM Nakrani,Naeem Gull,,0,0,0,,,,31794231794
+1,Swaziland,3,C Forbes,DM Nakrani,Naeem Gull,,0,2,2,,,,31794231794
+1,Swaziland,3,C Forbes,DM Nakrani,Naeem Gull,,0,0,0,caught and bowled,C Forbes,,31794231794
+1,Swaziland,3,J Ghadiyali,DM Nakrani,Naeem Gull,,0,0,0,lbw,J Ghadiyali,,31794231794
+1,Swaziland,3,Umair Qasim,DM Nakrani,Naeem Gull,legbyes,4,4,0,,,,31794231794
+1,Swaziland,4,Naeem Gull,F Nsubuga,Umair Qasim,,0,0,0,,,,31794231794
+1,Swaziland,4,Naeem Gull,F Nsubuga,Umair Qasim,,0,0,0,,,,31794231794
+1,Swaziland,4,Naeem Gull,F Nsubuga,Umair Qasim,,0,4,4,,,,31794231794
+1,Swaziland,4,Naeem Gull,F Nsubuga,Umair Qasim,,0,1,1,,,,31794231794
+1,Swaziland,4,Umair Qasim,F Nsubuga,Naeem Gull,,0,0,0,,,,31794231794
+1,Swaziland,4,Umair Qasim,F Nsubuga,Naeem Gull,,0,0,0,bowled,Umair Qasim,,31794231794
+1,Swaziland,5,Naeem Gull,DM Nakrani,JJ Wright,,0,0,0,,,,31794231794
+1,Swaziland,5,Naeem Gull,DM Nakrani,JJ Wright,wides,1,1,0,,,,31794231794
+1,Swaziland,5,Naeem Gull,DM Nakrani,JJ Wright,,0,0,0,,,,31794231794
+1,Swaziland,5,Naeem Gull,DM Nakrani,JJ Wright,,0,0,0,,,,31794231794
+1,Swaziland,5,Naeem Gull,DM Nakrani,JJ Wright,,0,0,0,,,,31794231794
+1,Swaziland,5,Naeem Gull,DM Nakrani,JJ Wright,,0,0,0,run out,JJ Wright,D Muhumuza,31794231794
+1,Swaziland,5,Shehzad Patel,DM Nakrani,Naeem Gull,,0,0,0,,,,31794231794
+1,Swaziland,6,Naeem Gull,F Nsubuga,Shehzad Patel,,0,0,0,,,,31794231794
+1,Swaziland,6,Naeem Gull,F Nsubuga,Shehzad Patel,,0,0,0,,,,31794231794
+1,Swaziland,6,Naeem Gull,F Nsubuga,Shehzad Patel,,0,0,0,,,,31794231794
+1,Swaziland,6,Naeem Gull,F Nsubuga,Shehzad Patel,,0,0,0,,,,31794231794
+1,Swaziland,6,Naeem Gull,F Nsubuga,Shehzad Patel,,0,0,0,bowled,Naeem Gull,,31794231794
+1,Swaziland,6,M Jele,F Nsubuga,Shehzad Patel,,0,0,0,,,,31794231794
+1,Swaziland,7,Shehzad Patel,DM Nakrani,M Jele,,0,1,1,,,,31794231794
+1,Swaziland,7,M Jele,DM Nakrani,Shehzad Patel,,0,0,0,,,,31794231794
+1,Swaziland,7,M Jele,DM Nakrani,Shehzad Patel,,0,0,0,bowled,M Jele,,31794231794
+1,Swaziland,7,M Magagula,DM Nakrani,Shehzad Patel,legbyes,1,1,0,,,,31794231794
+1,Swaziland,7,Shehzad Patel,DM Nakrani,M Magagula,,0,0,0,,,,31794231794
+1,Swaziland,7,Shehzad Patel,DM Nakrani,M Magagula,,0,4,4,,,,31794231794
+1,Swaziland,8,M Magagula,H Ssenyondo,Shehzad Patel,,0,2,2,,,,31794231794
+1,Swaziland,8,M Magagula,H Ssenyondo,Shehzad Patel,,0,0,0,,,,31794231794
+1,Swaziland,8,M Magagula,H Ssenyondo,Shehzad Patel,,0,1,1,,,,31794231794
+1,Swaziland,8,Shehzad Patel,H Ssenyondo,M Magagula,,0,0,0,,,,31794231794
+1,Swaziland,8,Shehzad Patel,H Ssenyondo,M Magagula,,0,0,0,,,,31794231794
+1,Swaziland,8,Shehzad Patel,H Ssenyondo,M Magagula,,0,4,4,,,,31794231794
+1,Swaziland,9,M Magagula,Bilal Hassun,Shehzad Patel,,0,0,0,,,,31794231794
+1,Swaziland,9,M Magagula,Bilal Hassun,Shehzad Patel,noballs,1,1,0,,,,31794231794
+1,Swaziland,9,M Magagula,Bilal Hassun,Shehzad Patel,,0,0,0,,,,31794231794
+1,Swaziland,9,M Magagula,Bilal Hassun,Shehzad Patel,,0,0,0,,,,31794231794
+1,Swaziland,9,M Magagula,Bilal Hassun,Shehzad Patel,,0,0,0,,,,31794231794
+1,Swaziland,9,M Magagula,Bilal Hassun,Shehzad Patel,,0,0,0,,,,31794231794
+1,Swaziland,9,M Magagula,Bilal Hassun,Shehzad Patel,,0,0,0,,,,31794231794
+1,Swaziland,10,Shehzad Patel,G Mubiru,M Magagula,,0,4,4,,,,31794231794
+1,Swaziland,10,Shehzad Patel,G Mubiru,M Magagula,,0,0,0,,,,31794231794
+1,Swaziland,10,Shehzad Patel,G Mubiru,M Magagula,,0,1,1,,,,31794231794
+1,Swaziland,10,M Magagula,G Mubiru,Shehzad Patel,,0,0,0,,,,31794231794
+1,Swaziland,10,M Magagula,G Mubiru,Shehzad Patel,,0,1,1,,,,31794231794
+1,Swaziland,10,Shehzad Patel,G Mubiru,M Magagula,,0,6,6,,,,31794231794
+1,Swaziland,11,M Magagula,H Ssenyondo,Shehzad Patel,,0,1,1,,,,31794231794
+1,Swaziland,11,Shehzad Patel,H Ssenyondo,M Magagula,,0,0,0,,,,31794231794
+1,Swaziland,11,Shehzad Patel,H Ssenyondo,M Magagula,,0,1,1,,,,31794231794
+1,Swaziland,11,M Magagula,H Ssenyondo,Shehzad Patel,,0,0,0,,,,31794231794
+1,Swaziland,11,M Magagula,H Ssenyondo,Shehzad Patel,,0,6,6,,,,31794231794
+1,Swaziland,11,M Magagula,H Ssenyondo,Shehzad Patel,,0,0,0,,,,31794231794
+1,Swaziland,12,Shehzad Patel,Bilal Hassun,M Magagula,legbyes,1,1,0,,,,31794231794
+1,Swaziland,12,M Magagula,Bilal Hassun,Shehzad Patel,,0,0,0,,,,31794231794
+1,Swaziland,12,M Magagula,Bilal Hassun,Shehzad Patel,wides,1,1,0,,,,31794231794
+1,Swaziland,12,M Magagula,Bilal Hassun,Shehzad Patel,wides,1,1,0,,,,31794231794
+1,Swaziland,12,M Magagula,Bilal Hassun,Shehzad Patel,,0,0,0,,,,31794231794
+1,Swaziland,12,M Magagula,Bilal Hassun,Shehzad Patel,,0,1,1,,,,31794231794
+1,Swaziland,12,Shehzad Patel,Bilal Hassun,M Magagula,,0,0,0,,,,31794231794
+1,Swaziland,12,Shehzad Patel,Bilal Hassun,M Magagula,,0,1,1,,,,31794231794
+1,Swaziland,13,Shehzad Patel,Riazat Ali Shah,M Magagula,byes,4,4,0,,,,31794231794
+1,Swaziland,13,Shehzad Patel,Riazat Ali Shah,M Magagula,,0,1,1,,,,31794231794
+1,Swaziland,13,M Magagula,Riazat Ali Shah,Shehzad Patel,,0,1,1,,,,31794231794
+1,Swaziland,13,Shehzad Patel,Riazat Ali Shah,M Magagula,,0,1,1,,,,31794231794
+1,Swaziland,13,M Magagula,Riazat Ali Shah,Shehzad Patel,,0,0,0,lbw,M Magagula,,31794231794
+1,Swaziland,13,S Kubheka,Riazat Ali Shah,Shehzad Patel,legbyes,4,4,0,,,,31794231794
+1,Swaziland,14,Shehzad Patel,Bilal Hassun,S Kubheka,,0,0,0,,,,31794231794
+1,Swaziland,14,Shehzad Patel,Bilal Hassun,S Kubheka,,0,1,1,,,,31794231794
+1,Swaziland,14,S Kubheka,Bilal Hassun,Shehzad Patel,,0,0,0,,,,31794231794
+1,Swaziland,14,S Kubheka,Bilal Hassun,Shehzad Patel,,0,0,0,bowled,S Kubheka,,31794231794
+1,Swaziland,14,JF Chester,Bilal Hassun,Shehzad Patel,,0,0,0,bowled,JF Chester,,31794231794

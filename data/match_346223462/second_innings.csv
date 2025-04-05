@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Sri Lanka,0,BYA Mendis,Asmavia Iqbal,PRCS Kumarihami,legbyes,1,1,0,,,,346223462
+2,Sri Lanka,0,PRCS Kumarihami,Asmavia Iqbal,BYA Mendis,,0,0,0,,,,346223462
+2,Sri Lanka,0,PRCS Kumarihami,Asmavia Iqbal,BYA Mendis,,0,0,0,,,,346223462
+2,Sri Lanka,0,PRCS Kumarihami,Asmavia Iqbal,BYA Mendis,,0,1,1,,,,346223462
+2,Sri Lanka,0,BYA Mendis,Asmavia Iqbal,PRCS Kumarihami,wides,1,1,0,,,,346223462
+2,Sri Lanka,0,BYA Mendis,Asmavia Iqbal,PRCS Kumarihami,,0,0,0,,,,346223462
+2,Sri Lanka,0,BYA Mendis,Asmavia Iqbal,PRCS Kumarihami,,0,1,1,,,,346223462
+2,Sri Lanka,1,BYA Mendis,Anam Amin,PRCS Kumarihami,,0,1,1,,,,346223462
+2,Sri Lanka,1,PRCS Kumarihami,Anam Amin,BYA Mendis,,0,0,0,,,,346223462
+2,Sri Lanka,1,PRCS Kumarihami,Anam Amin,BYA Mendis,,0,0,0,stumped,PRCS Kumarihami,Batool Fatima,346223462
+2,Sri Lanka,1,AC Jayangani,Anam Amin,BYA Mendis,,0,0,0,,,,346223462
+2,Sri Lanka,1,AC Jayangani,Anam Amin,BYA Mendis,,0,0,0,,,,346223462
+2,Sri Lanka,1,AC Jayangani,Anam Amin,BYA Mendis,,0,0,0,,,,346223462
+2,Sri Lanka,2,BYA Mendis,Asmavia Iqbal,AC Jayangani,,0,4,4,,,,346223462
+2,Sri Lanka,2,BYA Mendis,Asmavia Iqbal,AC Jayangani,,0,0,0,,,,346223462
+2,Sri Lanka,2,BYA Mendis,Asmavia Iqbal,AC Jayangani,,0,1,1,,,,346223462
+2,Sri Lanka,2,AC Jayangani,Asmavia Iqbal,BYA Mendis,wides,1,1,0,,,,346223462
+2,Sri Lanka,2,AC Jayangani,Asmavia Iqbal,BYA Mendis,,0,1,1,,,,346223462
+2,Sri Lanka,2,BYA Mendis,Asmavia Iqbal,AC Jayangani,,0,1,1,,,,346223462
+2,Sri Lanka,2,AC Jayangani,Asmavia Iqbal,BYA Mendis,,0,0,0,,,,346223462
+2,Sri Lanka,3,BYA Mendis,Anam Amin,AC Jayangani,,0,4,4,,,,346223462
+2,Sri Lanka,3,BYA Mendis,Anam Amin,AC Jayangani,,0,0,0,,,,346223462
+2,Sri Lanka,3,BYA Mendis,Anam Amin,AC Jayangani,,0,0,0,,,,346223462
+2,Sri Lanka,3,BYA Mendis,Anam Amin,AC Jayangani,noballs,1,2,1,,,,346223462
+2,Sri Lanka,3,AC Jayangani,Anam Amin,BYA Mendis,,0,0,0,bowled,AC Jayangani,,346223462
+2,Sri Lanka,3,HASD Siriwardene,Anam Amin,BYA Mendis,,0,1,1,,,,346223462
+2,Sri Lanka,3,BYA Mendis,Anam Amin,HASD Siriwardene,,0,1,1,,,,346223462
+2,Sri Lanka,4,BYA Mendis,Sana Mir,HASD Siriwardene,,0,0,0,,,,346223462
+2,Sri Lanka,4,BYA Mendis,Sana Mir,HASD Siriwardene,,0,4,4,,,,346223462
+2,Sri Lanka,4,BYA Mendis,Sana Mir,HASD Siriwardene,,0,0,0,,,,346223462
+2,Sri Lanka,4,BYA Mendis,Sana Mir,HASD Siriwardene,,0,0,0,,,,346223462
+2,Sri Lanka,4,BYA Mendis,Sana Mir,HASD Siriwardene,,0,0,0,,,,346223462
+2,Sri Lanka,4,BYA Mendis,Sana Mir,HASD Siriwardene,,0,1,1,,,,346223462
+2,Sri Lanka,5,BYA Mendis,Anam Amin,HASD Siriwardene,,0,0,0,,,,346223462
+2,Sri Lanka,5,BYA Mendis,Anam Amin,HASD Siriwardene,,0,0,0,,,,346223462
+2,Sri Lanka,5,BYA Mendis,Anam Amin,HASD Siriwardene,,0,1,1,,,,346223462
+2,Sri Lanka,5,HASD Siriwardene,Anam Amin,BYA Mendis,,0,1,1,,,,346223462
+2,Sri Lanka,5,BYA Mendis,Anam Amin,HASD Siriwardene,,0,2,2,,,,346223462
+2,Sri Lanka,5,BYA Mendis,Anam Amin,HASD Siriwardene,,0,0,0,,,,346223462
+2,Sri Lanka,6,HASD Siriwardene,Sania Khan,BYA Mendis,,0,0,0,,,,346223462
+2,Sri Lanka,6,HASD Siriwardene,Sania Khan,BYA Mendis,,0,0,0,,,,346223462
+2,Sri Lanka,6,HASD Siriwardene,Sania Khan,BYA Mendis,,0,1,1,,,,346223462
+2,Sri Lanka,6,BYA Mendis,Sania Khan,HASD Siriwardene,,0,0,0,,,,346223462
+2,Sri Lanka,6,BYA Mendis,Sania Khan,HASD Siriwardene,,0,1,1,,,,346223462
+2,Sri Lanka,6,HASD Siriwardene,Sania Khan,BYA Mendis,,0,0,0,,,,346223462
+2,Sri Lanka,7,BYA Mendis,Qanita Jalil,HASD Siriwardene,,0,1,1,,,,346223462
+2,Sri Lanka,7,HASD Siriwardene,Qanita Jalil,BYA Mendis,,0,1,1,,,,346223462
+2,Sri Lanka,7,BYA Mendis,Qanita Jalil,HASD Siriwardene,,0,0,0,,,,346223462
+2,Sri Lanka,7,BYA Mendis,Qanita Jalil,HASD Siriwardene,,0,0,0,,,,346223462
+2,Sri Lanka,7,BYA Mendis,Qanita Jalil,HASD Siriwardene,,0,0,0,bowled,BYA Mendis,,346223462
+2,Sri Lanka,7,GWHM Perera,Qanita Jalil,HASD Siriwardene,,0,1,1,,,,346223462
+2,Sri Lanka,8,GWHM Perera,Sania Khan,HASD Siriwardene,,0,1,1,,,,346223462
+2,Sri Lanka,8,HASD Siriwardene,Sania Khan,GWHM Perera,,0,0,0,,,,346223462
+2,Sri Lanka,8,HASD Siriwardene,Sania Khan,GWHM Perera,,0,0,0,lbw,HASD Siriwardene,,346223462
+2,Sri Lanka,8,LE Kaushalya,Sania Khan,GWHM Perera,,0,1,1,,,,346223462
+2,Sri Lanka,8,GWHM Perera,Sania Khan,LE Kaushalya,,0,0,0,caught,GWHM Perera,Marina Iqbal,346223462
+2,Sri Lanka,8,OU Ranasinghe,Sania Khan,LE Kaushalya,,0,0,0,,,,346223462
+2,Sri Lanka,9,LE Kaushalya,Qanita Jalil,OU Ranasinghe,,0,1,1,,,,346223462
+2,Sri Lanka,9,OU Ranasinghe,Qanita Jalil,LE Kaushalya,,0,0,0,,,,346223462
+2,Sri Lanka,9,OU Ranasinghe,Qanita Jalil,LE Kaushalya,,0,1,1,,,,346223462
+2,Sri Lanka,9,LE Kaushalya,Qanita Jalil,OU Ranasinghe,,0,0,0,,,,346223462
+2,Sri Lanka,9,LE Kaushalya,Qanita Jalil,OU Ranasinghe,,0,0,0,,,,346223462
+2,Sri Lanka,9,LE Kaushalya,Qanita Jalil,OU Ranasinghe,,0,1,1,,,,346223462
+2,Sri Lanka,10,LE Kaushalya,Sana Mir,OU Ranasinghe,,0,2,2,,,,346223462
+2,Sri Lanka,10,LE Kaushalya,Sana Mir,OU Ranasinghe,,0,0,0,,,,346223462
+2,Sri Lanka,10,LE Kaushalya,Sana Mir,OU Ranasinghe,,0,1,1,,,,346223462
+2,Sri Lanka,10,OU Ranasinghe,Sana Mir,LE Kaushalya,,0,1,1,,,,346223462
+2,Sri Lanka,10,LE Kaushalya,Sana Mir,OU Ranasinghe,,0,1,1,,,,346223462
+2,Sri Lanka,10,OU Ranasinghe,Sana Mir,LE Kaushalya,,0,1,1,,,,346223462
+2,Sri Lanka,11,OU Ranasinghe,Qanita Jalil,LE Kaushalya,,0,1,1,,,,346223462
+2,Sri Lanka,11,LE Kaushalya,Qanita Jalil,OU Ranasinghe,,0,0,0,,,,346223462
+2,Sri Lanka,11,LE Kaushalya,Qanita Jalil,OU Ranasinghe,,0,0,0,,,,346223462
+2,Sri Lanka,11,LE Kaushalya,Qanita Jalil,OU Ranasinghe,,0,1,1,,,,346223462
+2,Sri Lanka,11,OU Ranasinghe,Qanita Jalil,LE Kaushalya,,0,0,0,,,,346223462
+2,Sri Lanka,11,OU Ranasinghe,Qanita Jalil,LE Kaushalya,,0,1,1,,,,346223462
+2,Sri Lanka,12,OU Ranasinghe,Nida Dar,LE Kaushalya,,0,0,0,,,,346223462
+2,Sri Lanka,12,OU Ranasinghe,Nida Dar,LE Kaushalya,,0,0,0,stumped,OU Ranasinghe,Batool Fatima,346223462
+2,Sri Lanka,12,KDU Prabodhani,Nida Dar,LE Kaushalya,,0,0,0,,,,346223462
+2,Sri Lanka,12,KDU Prabodhani,Nida Dar,LE Kaushalya,,0,1,1,,,,346223462
+2,Sri Lanka,12,LE Kaushalya,Nida Dar,KDU Prabodhani,wides,1,1,0,,,,346223462
+2,Sri Lanka,12,LE Kaushalya,Nida Dar,KDU Prabodhani,,0,1,1,,,,346223462
+2,Sri Lanka,12,KDU Prabodhani,Nida Dar,LE Kaushalya,,0,1,1,,,,346223462
+2,Sri Lanka,13,KDU Prabodhani,Qanita Jalil,LE Kaushalya,legbyes,2,2,0,,,,346223462
+2,Sri Lanka,13,KDU Prabodhani,Qanita Jalil,LE Kaushalya,,0,0,0,,,,346223462
+2,Sri Lanka,13,KDU Prabodhani,Qanita Jalil,LE Kaushalya,,0,0,0,,,,346223462
+2,Sri Lanka,13,KDU Prabodhani,Qanita Jalil,LE Kaushalya,,0,1,1,,,,346223462
+2,Sri Lanka,13,LE Kaushalya,Qanita Jalil,KDU Prabodhani,,0,0,0,,,,346223462
+2,Sri Lanka,13,LE Kaushalya,Qanita Jalil,KDU Prabodhani,,0,1,1,,,,346223462
+2,Sri Lanka,14,LE Kaushalya,Anam Amin,KDU Prabodhani,,0,1,1,,,,346223462
+2,Sri Lanka,14,KDU Prabodhani,Anam Amin,LE Kaushalya,,0,0,0,,,,346223462
+2,Sri Lanka,14,KDU Prabodhani,Anam Amin,LE Kaushalya,,0,1,1,,,,346223462
+2,Sri Lanka,14,LE Kaushalya,Anam Amin,KDU Prabodhani,,0,4,4,,,,346223462
+2,Sri Lanka,14,LE Kaushalya,Anam Amin,KDU Prabodhani,,0,1,1,,,,346223462
+2,Sri Lanka,14,KDU Prabodhani,Anam Amin,LE Kaushalya,,0,1,1,,,,346223462
+2,Sri Lanka,15,KDU Prabodhani,Nida Dar,LE Kaushalya,,0,1,1,,,,346223462
+2,Sri Lanka,15,LE Kaushalya,Nida Dar,KDU Prabodhani,,0,1,1,,,,346223462
+2,Sri Lanka,15,KDU Prabodhani,Nida Dar,LE Kaushalya,,0,1,1,,,,346223462
+2,Sri Lanka,15,LE Kaushalya,Nida Dar,KDU Prabodhani,,0,4,4,,,,346223462
+2,Sri Lanka,15,LE Kaushalya,Nida Dar,KDU Prabodhani,,0,1,1,,,,346223462
+2,Sri Lanka,15,KDU Prabodhani,Nida Dar,LE Kaushalya,,0,0,0,,,,346223462
+2,Sri Lanka,16,LE Kaushalya,Sania Khan,KDU Prabodhani,,0,0,0,,,,346223462
+2,Sri Lanka,16,LE Kaushalya,Sania Khan,KDU Prabodhani,,0,4,4,,,,346223462
+2,Sri Lanka,16,LE Kaushalya,Sania Khan,KDU Prabodhani,,0,0,0,,,,346223462
+2,Sri Lanka,16,LE Kaushalya,Sania Khan,KDU Prabodhani,,0,6,6,,,,346223462
+2,Sri Lanka,16,LE Kaushalya,Sania Khan,KDU Prabodhani,,0,2,2,,,,346223462
+2,Sri Lanka,16,LE Kaushalya,Sania Khan,KDU Prabodhani,,0,1,1,,,,346223462
+2,Sri Lanka,17,LE Kaushalya,Sana Mir,KDU Prabodhani,,0,2,2,,,,346223462
+2,Sri Lanka,17,LE Kaushalya,Sana Mir,KDU Prabodhani,,0,0,0,caught,LE Kaushalya,Qanita Jalil,346223462
+2,Sri Lanka,17,KDU Prabodhani,Sana Mir,NND de Silva,,0,1,1,,,,346223462
+2,Sri Lanka,17,NND de Silva,Sana Mir,KDU Prabodhani,,0,0,0,,,,346223462
+2,Sri Lanka,17,NND de Silva,Sana Mir,KDU Prabodhani,,0,0,0,,,,346223462
+2,Sri Lanka,17,NND de Silva,Sana Mir,KDU Prabodhani,,0,4,4,,,,346223462
+2,Sri Lanka,18,KDU Prabodhani,Sania Khan,NND de Silva,,0,4,4,,,,346223462
+2,Sri Lanka,18,KDU Prabodhani,Sania Khan,NND de Silva,,0,2,2,,,,346223462
+2,Sri Lanka,18,KDU Prabodhani,Sania Khan,NND de Silva,legbyes,1,1,0,,,,346223462
+2,Sri Lanka,18,NND de Silva,Sania Khan,KDU Prabodhani,,0,1,1,,,,346223462
+2,Sri Lanka,18,KDU Prabodhani,Sania Khan,NND de Silva,,0,0,0,bowled,KDU Prabodhani,,346223462
+2,Sri Lanka,18,I Ranaweera,Sania Khan,NND de Silva,,0,0,0,,,,346223462
+2,Sri Lanka,19,NND de Silva,Sana Mir,I Ranaweera,,0,1,1,,,,346223462
+2,Sri Lanka,19,I Ranaweera,Sana Mir,NND de Silva,,0,1,1,,,,346223462
+2,Sri Lanka,19,NND de Silva,Sana Mir,I Ranaweera,,0,2,2,,,,346223462
+2,Sri Lanka,19,NND de Silva,Sana Mir,I Ranaweera,,0,1,1,,,,346223462
+2,Sri Lanka,19,I Ranaweera,Sana Mir,NND de Silva,,0,1,1,,,,346223462
+2,Sri Lanka,19,NND de Silva,Sana Mir,I Ranaweera,,0,1,1,,,,346223462

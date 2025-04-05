@@ -1,0 +1,60 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Pakistan,0,Iram Javed,ML Schutt,Muneeba Ali,,0,0,0,,,,32046232046
+1,Pakistan,0,Iram Javed,ML Schutt,Muneeba Ali,,0,0,0,,,,32046232046
+1,Pakistan,0,Iram Javed,ML Schutt,Muneeba Ali,,0,1,1,,,,32046232046
+1,Pakistan,0,Muneeba Ali,ML Schutt,Iram Javed,,0,0,0,,,,32046232046
+1,Pakistan,0,Muneeba Ali,ML Schutt,Iram Javed,legbyes,1,1,0,,,,32046232046
+1,Pakistan,0,Iram Javed,ML Schutt,Muneeba Ali,,0,1,1,,,,32046232046
+1,Pakistan,1,Iram Javed,D Brown,Muneeba Ali,wides,5,5,0,,,,32046232046
+1,Pakistan,1,Iram Javed,D Brown,Muneeba Ali,,0,1,1,,,,32046232046
+1,Pakistan,1,Muneeba Ali,D Brown,Iram Javed,wides,1,1,0,,,,32046232046
+1,Pakistan,1,Muneeba Ali,D Brown,Iram Javed,legbyes,4,4,0,,,,32046232046
+1,Pakistan,1,Muneeba Ali,D Brown,Iram Javed,wides,1,1,0,,,,32046232046
+1,Pakistan,1,Muneeba Ali,D Brown,Iram Javed,,0,0,0,,,,32046232046
+1,Pakistan,1,Muneeba Ali,D Brown,Iram Javed,,0,0,0,,,,32046232046
+1,Pakistan,1,Muneeba Ali,D Brown,Iram Javed,noballs,1,5,4,,,,32046232046
+1,Pakistan,1,Muneeba Ali,D Brown,Iram Javed,,0,0,0,,,,32046232046
+1,Pakistan,1,Muneeba Ali,D Brown,Iram Javed,,0,0,0,,,,32046232046
+1,Pakistan,2,Iram Javed,A Gardner,Muneeba Ali,,0,4,4,,,,32046232046
+1,Pakistan,2,Iram Javed,A Gardner,Muneeba Ali,,0,4,4,,,,32046232046
+1,Pakistan,2,Iram Javed,A Gardner,Muneeba Ali,,0,0,0,,,,32046232046
+1,Pakistan,2,Iram Javed,A Gardner,Muneeba Ali,,0,1,1,,,,32046232046
+1,Pakistan,2,Muneeba Ali,A Gardner,Iram Javed,,0,0,0,,,,32046232046
+1,Pakistan,2,Muneeba Ali,A Gardner,Iram Javed,,0,0,0,,,,32046232046
+1,Pakistan,3,Iram Javed,ML Schutt,Muneeba Ali,,0,0,0,bowled,Iram Javed,,32046232046
+1,Pakistan,3,Bismah Maroof,ML Schutt,Muneeba Ali,,0,0,0,,,,32046232046
+1,Pakistan,3,Bismah Maroof,ML Schutt,Muneeba Ali,,0,0,0,,,,32046232046
+1,Pakistan,3,Bismah Maroof,ML Schutt,Muneeba Ali,,0,0,0,,,,32046232046
+1,Pakistan,3,Bismah Maroof,ML Schutt,Muneeba Ali,,0,1,1,,,,32046232046
+1,Pakistan,3,Muneeba Ali,ML Schutt,Bismah Maroof,wides,3,3,0,,,,32046232046
+1,Pakistan,3,Muneeba Ali,ML Schutt,Bismah Maroof,,0,0,0,,,,32046232046
+1,Pakistan,4,Bismah Maroof,A Gardner,Muneeba Ali,,0,0,0,bowled,Bismah Maroof,,32046232046
+1,Pakistan,4,Nida Dar,A Gardner,Muneeba Ali,,0,0,0,,,,32046232046
+1,Pakistan,4,Nida Dar,A Gardner,Muneeba Ali,,0,1,1,,,,32046232046
+1,Pakistan,4,Muneeba Ali,A Gardner,Nida Dar,wides,1,1,0,,,,32046232046
+1,Pakistan,4,Muneeba Ali,A Gardner,Nida Dar,,0,0,0,,,,32046232046
+1,Pakistan,4,Muneeba Ali,A Gardner,Nida Dar,,0,0,0,,,,32046232046
+1,Pakistan,4,Muneeba Ali,A Gardner,Nida Dar,,0,0,0,bowled,Muneeba Ali,,32046232046
+1,Pakistan,5,Nida Dar,TM McGrath,Kainat Imtiaz,,0,0,0,,,,32046232046
+1,Pakistan,5,Nida Dar,TM McGrath,Kainat Imtiaz,,0,0,0,,,,32046232046
+1,Pakistan,5,Nida Dar,TM McGrath,Kainat Imtiaz,,0,0,0,,,,32046232046
+1,Pakistan,5,Nida Dar,TM McGrath,Kainat Imtiaz,,0,0,0,,,,32046232046
+1,Pakistan,5,Nida Dar,TM McGrath,Kainat Imtiaz,,0,0,0,,,,32046232046
+1,Pakistan,5,Nida Dar,TM McGrath,Kainat Imtiaz,,0,4,4,,,,32046232046
+1,Pakistan,6,Kainat Imtiaz,A King,Nida Dar,wides,5,5,0,,,,32046232046
+1,Pakistan,6,Kainat Imtiaz,A King,Nida Dar,,0,0,0,lbw,Kainat Imtiaz,,32046232046
+1,Pakistan,6,Ayesha Naseem,A King,Nida Dar,wides,3,3,0,,,,32046232046
+1,Pakistan,6,Ayesha Naseem,A King,Nida Dar,,0,0,0,lbw,Ayesha Naseem,,32046232046
+1,Pakistan,6,Aliya Riaz,A King,Nida Dar,,0,0,0,lbw,Aliya Riaz,,32046232046
+1,Pakistan,6,Fatima Sana,A King,Nida Dar,,0,0,0,,,,32046232046
+1,Pakistan,6,Fatima Sana,A King,Nida Dar,,0,0,0,,,,32046232046
+1,Pakistan,6,Fatima Sana,A King,Nida Dar,,0,0,0,,,,32046232046
+1,Pakistan,7,Nida Dar,D Brown,Fatima Sana,,0,0,0,,,,32046232046
+1,Pakistan,7,Nida Dar,D Brown,Fatima Sana,wides,1,1,0,,,,32046232046
+1,Pakistan,7,Nida Dar,D Brown,Fatima Sana,wides,1,1,0,,,,32046232046
+1,Pakistan,7,Nida Dar,D Brown,Fatima Sana,,0,0,0,,,,32046232046
+1,Pakistan,7,Nida Dar,D Brown,Fatima Sana,noballs,1,1,0,,,,32046232046
+1,Pakistan,7,Nida Dar,D Brown,Fatima Sana,,0,2,2,,,,32046232046
+1,Pakistan,7,Nida Dar,D Brown,Fatima Sana,,0,1,1,,,,32046232046
+1,Pakistan,7,Fatima Sana,D Brown,Nida Dar,,0,1,1,,,,32046232046
+1,Pakistan,7,Nida Dar,D Brown,Fatima Sana,,0,2,2,,,,32046232046

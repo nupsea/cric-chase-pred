@@ -1,0 +1,113 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Zimbabwe,0,W Madhevere,PR Stirling,T Marumani,,0,1,1,,,,31600231600
+2,Zimbabwe,0,T Marumani,PR Stirling,W Madhevere,,0,1,1,,,,31600231600
+2,Zimbabwe,0,W Madhevere,PR Stirling,T Marumani,,0,4,4,,,,31600231600
+2,Zimbabwe,0,W Madhevere,PR Stirling,T Marumani,,0,4,4,,,,31600231600
+2,Zimbabwe,0,W Madhevere,PR Stirling,T Marumani,,0,4,4,,,,31600231600
+2,Zimbabwe,0,W Madhevere,PR Stirling,T Marumani,,0,0,0,,,,31600231600
+2,Zimbabwe,1,T Marumani,MR Adair,W Madhevere,legbyes,1,1,0,,,,31600231600
+2,Zimbabwe,1,W Madhevere,MR Adair,T Marumani,,0,0,0,caught,W Madhevere,A Balbirnie,31600231600
+2,Zimbabwe,1,RW Chakabva,MR Adair,T Marumani,,0,1,1,,,,31600231600
+2,Zimbabwe,1,T Marumani,MR Adair,RW Chakabva,,0,2,2,,,,31600231600
+2,Zimbabwe,1,T Marumani,MR Adair,RW Chakabva,,0,1,1,,,,31600231600
+2,Zimbabwe,1,RW Chakabva,MR Adair,T Marumani,,0,0,0,,,,31600231600
+2,Zimbabwe,2,T Marumani,Simi Singh,RW Chakabva,,0,1,1,,,,31600231600
+2,Zimbabwe,2,RW Chakabva,Simi Singh,T Marumani,,0,1,1,,,,31600231600
+2,Zimbabwe,2,T Marumani,Simi Singh,RW Chakabva,,0,4,4,,,,31600231600
+2,Zimbabwe,2,T Marumani,Simi Singh,RW Chakabva,,0,1,1,,,,31600231600
+2,Zimbabwe,2,RW Chakabva,Simi Singh,T Marumani,,0,0,0,,,,31600231600
+2,Zimbabwe,2,RW Chakabva,Simi Singh,T Marumani,,0,2,2,,,,31600231600
+2,Zimbabwe,3,T Marumani,J Little,RW Chakabva,wides,1,1,0,,,,31600231600
+2,Zimbabwe,3,T Marumani,J Little,RW Chakabva,,0,2,2,,,,31600231600
+2,Zimbabwe,3,T Marumani,J Little,RW Chakabva,,0,0,0,,,,31600231600
+2,Zimbabwe,3,T Marumani,J Little,RW Chakabva,,0,0,0,,,,31600231600
+2,Zimbabwe,3,T Marumani,J Little,RW Chakabva,,0,2,2,,,,31600231600
+2,Zimbabwe,3,T Marumani,J Little,RW Chakabva,,0,0,0,caught,T Marumani,A Balbirnie,31600231600
+2,Zimbabwe,3,RW Chakabva,J Little,D Myers,,0,0,0,,,,31600231600
+2,Zimbabwe,4,D Myers,SC Getkate,RW Chakabva,,0,1,1,,,,31600231600
+2,Zimbabwe,4,RW Chakabva,SC Getkate,D Myers,,0,1,1,,,,31600231600
+2,Zimbabwe,4,D Myers,SC Getkate,RW Chakabva,,0,4,4,,,,31600231600
+2,Zimbabwe,4,D Myers,SC Getkate,RW Chakabva,,0,0,0,,,,31600231600
+2,Zimbabwe,4,D Myers,SC Getkate,RW Chakabva,,0,1,1,,,,31600231600
+2,Zimbabwe,4,RW Chakabva,SC Getkate,D Myers,,0,1,1,,,,31600231600
+2,Zimbabwe,5,RW Chakabva,J Little,D Myers,byes,1,1,0,,,,31600231600
+2,Zimbabwe,5,D Myers,J Little,RW Chakabva,,0,4,4,,,,31600231600
+2,Zimbabwe,5,D Myers,J Little,RW Chakabva,,0,1,1,,,,31600231600
+2,Zimbabwe,5,RW Chakabva,J Little,D Myers,,0,0,0,,,,31600231600
+2,Zimbabwe,5,RW Chakabva,J Little,D Myers,,0,1,1,,,,31600231600
+2,Zimbabwe,5,D Myers,J Little,RW Chakabva,,0,2,2,,,,31600231600
+2,Zimbabwe,6,RW Chakabva,B White,D Myers,legbyes,4,4,0,,,,31600231600
+2,Zimbabwe,6,RW Chakabva,B White,D Myers,,0,0,0,lbw,RW Chakabva,,31600231600
+2,Zimbabwe,6,CR Ervine,B White,D Myers,,0,0,0,,,,31600231600
+2,Zimbabwe,6,CR Ervine,B White,D Myers,,0,1,1,,,,31600231600
+2,Zimbabwe,6,D Myers,B White,CR Ervine,,0,1,1,,,,31600231600
+2,Zimbabwe,6,CR Ervine,B White,D Myers,,0,0,0,,,,31600231600
+2,Zimbabwe,7,D Myers,SC Getkate,CR Ervine,,0,0,0,,,,31600231600
+2,Zimbabwe,7,D Myers,SC Getkate,CR Ervine,,0,0,0,caught,D Myers,KJ O'Brien,31600231600
+2,Zimbabwe,7,CR Ervine,SC Getkate,M Shumba,,0,1,1,,,,31600231600
+2,Zimbabwe,7,M Shumba,SC Getkate,CR Ervine,,0,1,1,,,,31600231600
+2,Zimbabwe,7,CR Ervine,SC Getkate,M Shumba,,0,4,4,,,,31600231600
+2,Zimbabwe,7,CR Ervine,SC Getkate,M Shumba,,0,0,0,,,,31600231600
+2,Zimbabwe,8,M Shumba,B White,CR Ervine,legbyes,1,1,0,,,,31600231600
+2,Zimbabwe,8,CR Ervine,B White,M Shumba,,0,6,6,,,,31600231600
+2,Zimbabwe,8,CR Ervine,B White,M Shumba,,0,1,1,,,,31600231600
+2,Zimbabwe,8,M Shumba,B White,CR Ervine,,0,1,1,,,,31600231600
+2,Zimbabwe,8,CR Ervine,B White,M Shumba,,0,1,1,,,,31600231600
+2,Zimbabwe,8,M Shumba,B White,CR Ervine,,0,1,1,,,,31600231600
+2,Zimbabwe,9,M Shumba,Simi Singh,CR Ervine,,0,1,1,,,,31600231600
+2,Zimbabwe,9,CR Ervine,Simi Singh,M Shumba,,0,6,6,,,,31600231600
+2,Zimbabwe,9,CR Ervine,Simi Singh,M Shumba,,0,1,1,,,,31600231600
+2,Zimbabwe,9,M Shumba,Simi Singh,CR Ervine,,0,1,1,,,,31600231600
+2,Zimbabwe,9,CR Ervine,Simi Singh,M Shumba,,0,1,1,,,,31600231600
+2,Zimbabwe,9,M Shumba,Simi Singh,CR Ervine,,0,1,1,,,,31600231600
+2,Zimbabwe,10,M Shumba,B White,CR Ervine,,0,0,0,bowled,M Shumba,,31600231600
+2,Zimbabwe,10,LM Jongwe,B White,CR Ervine,,0,1,1,,,,31600231600
+2,Zimbabwe,10,CR Ervine,B White,LM Jongwe,,0,1,1,,,,31600231600
+2,Zimbabwe,10,LM Jongwe,B White,CR Ervine,,0,4,4,,,,31600231600
+2,Zimbabwe,10,LM Jongwe,B White,CR Ervine,,0,1,1,,,,31600231600
+2,Zimbabwe,10,CR Ervine,B White,LM Jongwe,,0,4,4,,,,31600231600
+2,Zimbabwe,11,LM Jongwe,MR Adair,CR Ervine,,0,1,1,,,,31600231600
+2,Zimbabwe,11,CR Ervine,MR Adair,LM Jongwe,,0,1,1,,,,31600231600
+2,Zimbabwe,11,LM Jongwe,MR Adair,CR Ervine,,0,0,0,caught,LM Jongwe,NA Rock,31600231600
+2,Zimbabwe,11,RP Burl,MR Adair,CR Ervine,,0,0,0,,,,31600231600
+2,Zimbabwe,11,RP Burl,MR Adair,CR Ervine,,0,0,0,,,,31600231600
+2,Zimbabwe,11,RP Burl,MR Adair,CR Ervine,,0,1,1,,,,31600231600
+2,Zimbabwe,12,RP Burl,Simi Singh,CR Ervine,,0,0,0,,,,31600231600
+2,Zimbabwe,12,RP Burl,Simi Singh,CR Ervine,,0,0,0,,,,31600231600
+2,Zimbabwe,12,RP Burl,Simi Singh,CR Ervine,,0,0,0,,,,31600231600
+2,Zimbabwe,12,RP Burl,Simi Singh,CR Ervine,,0,1,1,,,,31600231600
+2,Zimbabwe,12,CR Ervine,Simi Singh,RP Burl,,0,4,4,,,,31600231600
+2,Zimbabwe,12,CR Ervine,Simi Singh,RP Burl,,0,1,1,,,,31600231600
+2,Zimbabwe,13,CR Ervine,SC Getkate,RP Burl,,0,0,0,bowled,CR Ervine,,31600231600
+2,Zimbabwe,13,WP Masakadza,SC Getkate,RP Burl,,0,0,0,,,,31600231600
+2,Zimbabwe,13,WP Masakadza,SC Getkate,RP Burl,,0,1,1,,,,31600231600
+2,Zimbabwe,13,RP Burl,SC Getkate,WP Masakadza,,0,1,1,,,,31600231600
+2,Zimbabwe,13,WP Masakadza,SC Getkate,RP Burl,wides,1,1,0,,,,31600231600
+2,Zimbabwe,13,WP Masakadza,SC Getkate,RP Burl,,0,1,1,,,,31600231600
+2,Zimbabwe,13,RP Burl,SC Getkate,WP Masakadza,,0,1,1,,,,31600231600
+2,Zimbabwe,14,RP Burl,Simi Singh,WP Masakadza,,0,0,0,,,,31600231600
+2,Zimbabwe,14,RP Burl,Simi Singh,WP Masakadza,,0,2,2,,,,31600231600
+2,Zimbabwe,14,RP Burl,Simi Singh,WP Masakadza,,0,1,1,,,,31600231600
+2,Zimbabwe,14,WP Masakadza,Simi Singh,RP Burl,,0,2,2,,,,31600231600
+2,Zimbabwe,14,WP Masakadza,Simi Singh,RP Burl,legbyes,1,1,0,,,,31600231600
+2,Zimbabwe,14,RP Burl,Simi Singh,WP Masakadza,,0,1,1,,,,31600231600
+2,Zimbabwe,15,RP Burl,J Little,WP Masakadza,,0,0,0,,,,31600231600
+2,Zimbabwe,15,RP Burl,J Little,WP Masakadza,,0,4,4,,,,31600231600
+2,Zimbabwe,15,RP Burl,J Little,WP Masakadza,,0,0,0,,,,31600231600
+2,Zimbabwe,15,RP Burl,J Little,WP Masakadza,,0,1,1,,,,31600231600
+2,Zimbabwe,15,WP Masakadza,J Little,RP Burl,,0,0,0,bowled,WP Masakadza,,31600231600
+2,Zimbabwe,15,TL Chatara,J Little,RP Burl,,0,0,0,,,,31600231600
+2,Zimbabwe,16,RP Burl,SC Getkate,TL Chatara,,0,4,4,,,,31600231600
+2,Zimbabwe,16,RP Burl,SC Getkate,TL Chatara,,0,6,6,,,,31600231600
+2,Zimbabwe,16,RP Burl,SC Getkate,TL Chatara,,0,1,1,,,,31600231600
+2,Zimbabwe,16,TL Chatara,SC Getkate,RP Burl,,0,1,1,,,,31600231600
+2,Zimbabwe,16,RP Burl,SC Getkate,TL Chatara,,0,1,1,,,,31600231600
+2,Zimbabwe,16,TL Chatara,SC Getkate,RP Burl,,0,0,0,,,,31600231600
+2,Zimbabwe,17,RP Burl,MR Adair,TL Chatara,,0,1,1,,,,31600231600
+2,Zimbabwe,17,TL Chatara,MR Adair,RP Burl,,0,0,0,,,,31600231600
+2,Zimbabwe,17,TL Chatara,MR Adair,RP Burl,,0,1,1,,,,31600231600
+2,Zimbabwe,17,RP Burl,MR Adair,TL Chatara,,0,0,0,caught,RP Burl,Simi Singh,31600231600
+2,Zimbabwe,17,R Ngarava,MR Adair,TL Chatara,,0,1,1,,,,31600231600
+2,Zimbabwe,17,TL Chatara,MR Adair,R Ngarava,,0,1,1,,,,31600231600
+2,Zimbabwe,18,TL Chatara,J Little,R Ngarava,,0,0,0,,,,31600231600
+2,Zimbabwe,18,TL Chatara,J Little,R Ngarava,,0,0,0,run out,R Ngarava,SC Getkate,31600231600

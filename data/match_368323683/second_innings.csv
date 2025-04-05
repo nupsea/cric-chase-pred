@@ -1,0 +1,111 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,New Zealand,0,NT Broom,Shakib Al Hasan,KS Williamson,,0,1,1,,,,368323683
+2,New Zealand,0,KS Williamson,Shakib Al Hasan,NT Broom,,0,1,1,,,,368323683
+2,New Zealand,0,NT Broom,Shakib Al Hasan,KS Williamson,,0,0,0,,,,368323683
+2,New Zealand,0,NT Broom,Shakib Al Hasan,KS Williamson,,0,1,1,,,,368323683
+2,New Zealand,0,KS Williamson,Shakib Al Hasan,NT Broom,,0,4,4,,,,368323683
+2,New Zealand,0,KS Williamson,Shakib Al Hasan,NT Broom,,0,1,1,,,,368323683
+2,New Zealand,1,KS Williamson,Mashrafe Mortaza,NT Broom,,0,4,4,,,,368323683
+2,New Zealand,1,KS Williamson,Mashrafe Mortaza,NT Broom,,0,2,2,,,,368323683
+2,New Zealand,1,KS Williamson,Mashrafe Mortaza,NT Broom,,0,1,1,,,,368323683
+2,New Zealand,1,NT Broom,Mashrafe Mortaza,KS Williamson,legbyes,1,1,0,,,,368323683
+2,New Zealand,1,KS Williamson,Mashrafe Mortaza,NT Broom,,0,1,1,,,,368323683
+2,New Zealand,1,NT Broom,Mashrafe Mortaza,KS Williamson,,0,0,0,,,,368323683
+2,New Zealand,2,KS Williamson,Rubel Hossain,NT Broom,,0,1,1,,,,368323683
+2,New Zealand,2,NT Broom,Rubel Hossain,KS Williamson,,0,4,4,,,,368323683
+2,New Zealand,2,NT Broom,Rubel Hossain,KS Williamson,,0,0,0,caught,NT Broom,Shakib Al Hasan,368323683
+2,New Zealand,2,KS Williamson,Rubel Hossain,C Munro,,0,4,4,,,,368323683
+2,New Zealand,2,KS Williamson,Rubel Hossain,C Munro,,0,0,0,,,,368323683
+2,New Zealand,2,KS Williamson,Rubel Hossain,C Munro,,0,2,2,,,,368323683
+2,New Zealand,3,C Munro,Mustafizur Rahman,KS Williamson,,0,0,0,,,,368323683
+2,New Zealand,3,C Munro,Mustafizur Rahman,KS Williamson,,0,0,0,caught,C Munro,Nurul Hasan,368323683
+2,New Zealand,3,CJ Anderson,Mustafizur Rahman,KS Williamson,,0,0,0,,,,368323683
+2,New Zealand,3,CJ Anderson,Mustafizur Rahman,KS Williamson,,0,1,1,,,,368323683
+2,New Zealand,3,KS Williamson,Mustafizur Rahman,CJ Anderson,,0,1,1,,,,368323683
+2,New Zealand,3,CJ Anderson,Mustafizur Rahman,KS Williamson,,0,0,0,,,,368323683
+2,New Zealand,4,KS Williamson,Rubel Hossain,CJ Anderson,,0,0,0,,,,368323683
+2,New Zealand,4,KS Williamson,Rubel Hossain,CJ Anderson,,0,1,1,,,,368323683
+2,New Zealand,4,CJ Anderson,Rubel Hossain,KS Williamson,,0,1,1,,,,368323683
+2,New Zealand,4,KS Williamson,Rubel Hossain,CJ Anderson,,0,1,1,,,,368323683
+2,New Zealand,4,CJ Anderson,Rubel Hossain,KS Williamson,,0,0,0,,,,368323683
+2,New Zealand,4,CJ Anderson,Rubel Hossain,KS Williamson,,0,1,1,,,,368323683
+2,New Zealand,5,CJ Anderson,Mustafizur Rahman,KS Williamson,,0,4,4,,,,368323683
+2,New Zealand,5,CJ Anderson,Mustafizur Rahman,KS Williamson,,0,0,0,,,,368323683
+2,New Zealand,5,CJ Anderson,Mustafizur Rahman,KS Williamson,,0,2,2,,,,368323683
+2,New Zealand,5,CJ Anderson,Mustafizur Rahman,KS Williamson,wides,1,1,0,,,,368323683
+2,New Zealand,5,CJ Anderson,Mustafizur Rahman,KS Williamson,,0,2,2,,,,368323683
+2,New Zealand,5,CJ Anderson,Mustafizur Rahman,KS Williamson,,0,0,0,,,,368323683
+2,New Zealand,5,CJ Anderson,Mustafizur Rahman,KS Williamson,,0,0,0,,,,368323683
+2,New Zealand,6,KS Williamson,Shakib Al Hasan,CJ Anderson,,0,1,1,,,,368323683
+2,New Zealand,6,CJ Anderson,Shakib Al Hasan,KS Williamson,,0,2,2,,,,368323683
+2,New Zealand,6,CJ Anderson,Shakib Al Hasan,KS Williamson,,0,0,0,caught,CJ Anderson,Tamim Iqbal,368323683
+2,New Zealand,6,KS Williamson,Shakib Al Hasan,TC Bruce,,0,0,0,,,,368323683
+2,New Zealand,6,KS Williamson,Shakib Al Hasan,TC Bruce,,0,0,0,,,,368323683
+2,New Zealand,6,KS Williamson,Shakib Al Hasan,TC Bruce,,0,1,1,,,,368323683
+2,New Zealand,7,KS Williamson,Mashrafe Mortaza,TC Bruce,,0,1,1,,,,368323683
+2,New Zealand,7,TC Bruce,Mashrafe Mortaza,KS Williamson,,0,0,0,,,,368323683
+2,New Zealand,7,TC Bruce,Mashrafe Mortaza,KS Williamson,,0,1,1,,,,368323683
+2,New Zealand,7,KS Williamson,Mashrafe Mortaza,TC Bruce,,0,1,1,,,,368323683
+2,New Zealand,7,TC Bruce,Mashrafe Mortaza,KS Williamson,,0,1,1,,,,368323683
+2,New Zealand,7,KS Williamson,Mashrafe Mortaza,TC Bruce,,0,0,0,,,,368323683
+2,New Zealand,8,TC Bruce,Shakib Al Hasan,KS Williamson,,0,1,1,,,,368323683
+2,New Zealand,8,KS Williamson,Shakib Al Hasan,TC Bruce,,0,1,1,,,,368323683
+2,New Zealand,8,TC Bruce,Shakib Al Hasan,KS Williamson,,0,1,1,,,,368323683
+2,New Zealand,8,KS Williamson,Shakib Al Hasan,TC Bruce,,0,0,0,,,,368323683
+2,New Zealand,8,KS Williamson,Shakib Al Hasan,TC Bruce,,0,2,2,,,,368323683
+2,New Zealand,8,KS Williamson,Shakib Al Hasan,TC Bruce,,0,1,1,,,,368323683
+2,New Zealand,9,KS Williamson,Mosaddek Hossain,TC Bruce,,0,1,1,,,,368323683
+2,New Zealand,9,TC Bruce,Mosaddek Hossain,KS Williamson,,0,0,0,,,,368323683
+2,New Zealand,9,TC Bruce,Mosaddek Hossain,KS Williamson,,0,1,1,,,,368323683
+2,New Zealand,9,KS Williamson,Mosaddek Hossain,TC Bruce,,0,0,0,,,,368323683
+2,New Zealand,9,KS Williamson,Mosaddek Hossain,TC Bruce,,0,1,1,,,,368323683
+2,New Zealand,9,TC Bruce,Mosaddek Hossain,KS Williamson,,0,1,1,,,,368323683
+2,New Zealand,10,TC Bruce,Mashrafe Mortaza,KS Williamson,,0,1,1,run out,TC Bruce,Soumya Sarkar,368323683
+2,New Zealand,10,KS Williamson,Mashrafe Mortaza,C de Grandhomme,,0,1,1,,,,368323683
+2,New Zealand,10,C de Grandhomme,Mashrafe Mortaza,KS Williamson,,0,1,1,,,,368323683
+2,New Zealand,10,KS Williamson,Mashrafe Mortaza,C de Grandhomme,,0,1,1,,,,368323683
+2,New Zealand,10,C de Grandhomme,Mashrafe Mortaza,KS Williamson,,0,0,0,,,,368323683
+2,New Zealand,10,C de Grandhomme,Mashrafe Mortaza,KS Williamson,,0,6,6,,,,368323683
+2,New Zealand,11,KS Williamson,Mosaddek Hossain,C de Grandhomme,,0,0,0,,,,368323683
+2,New Zealand,11,KS Williamson,Mosaddek Hossain,C de Grandhomme,,0,1,1,,,,368323683
+2,New Zealand,11,C de Grandhomme,Mosaddek Hossain,KS Williamson,,0,0,0,,,,368323683
+2,New Zealand,11,C de Grandhomme,Mosaddek Hossain,KS Williamson,,0,1,1,,,,368323683
+2,New Zealand,11,KS Williamson,Mosaddek Hossain,C de Grandhomme,,0,0,0,,,,368323683
+2,New Zealand,11,KS Williamson,Mosaddek Hossain,C de Grandhomme,,0,3,3,,,,368323683
+2,New Zealand,12,KS Williamson,Mustafizur Rahman,C de Grandhomme,,0,1,1,,,,368323683
+2,New Zealand,12,C de Grandhomme,Mustafizur Rahman,KS Williamson,,0,1,1,,,,368323683
+2,New Zealand,12,KS Williamson,Mustafizur Rahman,C de Grandhomme,,0,1,1,,,,368323683
+2,New Zealand,12,C de Grandhomme,Mustafizur Rahman,KS Williamson,,0,1,1,,,,368323683
+2,New Zealand,12,KS Williamson,Mustafizur Rahman,C de Grandhomme,,0,0,0,,,,368323683
+2,New Zealand,12,KS Williamson,Mustafizur Rahman,C de Grandhomme,,0,1,1,,,,368323683
+2,New Zealand,13,KS Williamson,Shakib Al Hasan,C de Grandhomme,,0,0,0,,,,368323683
+2,New Zealand,13,KS Williamson,Shakib Al Hasan,C de Grandhomme,,0,4,4,,,,368323683
+2,New Zealand,13,KS Williamson,Shakib Al Hasan,C de Grandhomme,,0,1,1,,,,368323683
+2,New Zealand,13,C de Grandhomme,Shakib Al Hasan,KS Williamson,,0,0,0,,,,368323683
+2,New Zealand,13,C de Grandhomme,Shakib Al Hasan,KS Williamson,,0,1,1,,,,368323683
+2,New Zealand,13,KS Williamson,Shakib Al Hasan,C de Grandhomme,,0,6,6,,,,368323683
+2,New Zealand,14,C de Grandhomme,Rubel Hossain,KS Williamson,,0,6,6,,,,368323683
+2,New Zealand,14,C de Grandhomme,Rubel Hossain,KS Williamson,,0,1,1,,,,368323683
+2,New Zealand,14,KS Williamson,Rubel Hossain,C de Grandhomme,,0,1,1,,,,368323683
+2,New Zealand,14,C de Grandhomme,Rubel Hossain,KS Williamson,noballs,1,2,1,,,,368323683
+2,New Zealand,14,KS Williamson,Rubel Hossain,C de Grandhomme,,0,4,4,,,,368323683
+2,New Zealand,14,KS Williamson,Rubel Hossain,C de Grandhomme,,0,1,1,,,,368323683
+2,New Zealand,14,C de Grandhomme,Rubel Hossain,KS Williamson,,0,0,0,,,,368323683
+2,New Zealand,15,KS Williamson,Soumya Sarkar,C de Grandhomme,,0,1,1,,,,368323683
+2,New Zealand,15,C de Grandhomme,Soumya Sarkar,KS Williamson,,0,1,1,,,,368323683
+2,New Zealand,15,KS Williamson,Soumya Sarkar,C de Grandhomme,,0,6,6,,,,368323683
+2,New Zealand,15,KS Williamson,Soumya Sarkar,C de Grandhomme,,0,1,1,,,,368323683
+2,New Zealand,15,C de Grandhomme,Soumya Sarkar,KS Williamson,,0,4,4,,,,368323683
+2,New Zealand,15,C de Grandhomme,Soumya Sarkar,KS Williamson,,0,4,4,,,,368323683
+2,New Zealand,16,KS Williamson,Mustafizur Rahman,C de Grandhomme,,0,0,0,,,,368323683
+2,New Zealand,16,KS Williamson,Mustafizur Rahman,C de Grandhomme,,0,1,1,,,,368323683
+2,New Zealand,16,C de Grandhomme,Mustafizur Rahman,KS Williamson,,0,1,1,,,,368323683
+2,New Zealand,16,KS Williamson,Mustafizur Rahman,C de Grandhomme,,0,1,1,,,,368323683
+2,New Zealand,16,C de Grandhomme,Mustafizur Rahman,KS Williamson,,0,1,1,,,,368323683
+2,New Zealand,16,KS Williamson,Mustafizur Rahman,C de Grandhomme,,0,1,1,,,,368323683
+2,New Zealand,17,KS Williamson,Rubel Hossain,C de Grandhomme,,0,1,1,,,,368323683
+2,New Zealand,17,C de Grandhomme,Rubel Hossain,KS Williamson,,0,1,1,,,,368323683
+2,New Zealand,17,KS Williamson,Rubel Hossain,C de Grandhomme,,0,1,1,,,,368323683
+2,New Zealand,17,C de Grandhomme,Rubel Hossain,KS Williamson,,0,0,0,,,,368323683
+2,New Zealand,17,C de Grandhomme,Rubel Hossain,KS Williamson,,0,4,4,,,,368323683
+2,New Zealand,17,C de Grandhomme,Rubel Hossain,KS Williamson,,0,6,6,,,,368323683

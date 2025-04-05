@@ -1,0 +1,129 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Singapore,0,R Rohan,TL Chatara,S Chandramohan,,0,0,0,,,,32178232178
+2,Singapore,0,R Rohan,TL Chatara,S Chandramohan,,0,0,0,,,,32178232178
+2,Singapore,0,R Rohan,TL Chatara,S Chandramohan,,0,1,1,,,,32178232178
+2,Singapore,0,S Chandramohan,TL Chatara,R Rohan,,0,0,0,,,,32178232178
+2,Singapore,0,S Chandramohan,TL Chatara,R Rohan,wides,1,1,0,,,,32178232178
+2,Singapore,0,S Chandramohan,TL Chatara,R Rohan,,0,2,2,,,,32178232178
+2,Singapore,0,S Chandramohan,TL Chatara,R Rohan,,0,0,0,,,,32178232178
+2,Singapore,1,R Rohan,B Muzarabani,S Chandramohan,legbyes,1,1,0,,,,32178232178
+2,Singapore,1,S Chandramohan,B Muzarabani,R Rohan,,0,1,1,,,,32178232178
+2,Singapore,1,R Rohan,B Muzarabani,S Chandramohan,,0,0,0,,,,32178232178
+2,Singapore,1,R Rohan,B Muzarabani,S Chandramohan,,0,0,0,caught,R Rohan,M Shumba,32178232178
+2,Singapore,1,S Chandramohan,B Muzarabani,Aman Desai,,0,1,1,,,,32178232178
+2,Singapore,1,Aman Desai,B Muzarabani,S Chandramohan,,0,0,0,,,,32178232178
+2,Singapore,2,S Chandramohan,WP Masakadza,Aman Desai,,0,3,3,,,,32178232178
+2,Singapore,2,Aman Desai,WP Masakadza,S Chandramohan,,0,4,4,,,,32178232178
+2,Singapore,2,Aman Desai,WP Masakadza,S Chandramohan,,0,1,1,,,,32178232178
+2,Singapore,2,S Chandramohan,WP Masakadza,Aman Desai,,0,1,1,,,,32178232178
+2,Singapore,2,Aman Desai,WP Masakadza,S Chandramohan,,0,0,0,,,,32178232178
+2,Singapore,2,Aman Desai,WP Masakadza,S Chandramohan,,0,0,0,,,,32178232178
+2,Singapore,3,S Chandramohan,B Muzarabani,Aman Desai,,0,0,0,,,,32178232178
+2,Singapore,3,S Chandramohan,B Muzarabani,Aman Desai,,0,4,4,,,,32178232178
+2,Singapore,3,S Chandramohan,B Muzarabani,Aman Desai,,0,0,0,,,,32178232178
+2,Singapore,3,S Chandramohan,B Muzarabani,Aman Desai,,0,1,1,,,,32178232178
+2,Singapore,3,Aman Desai,B Muzarabani,S Chandramohan,,0,1,1,,,,32178232178
+2,Singapore,3,S Chandramohan,B Muzarabani,Aman Desai,,0,1,1,,,,32178232178
+2,Singapore,4,S Chandramohan,SC Williams,Aman Desai,,0,0,0,,,,32178232178
+2,Singapore,4,S Chandramohan,SC Williams,Aman Desai,,0,3,3,,,,32178232178
+2,Singapore,4,Aman Desai,SC Williams,S Chandramohan,,0,0,0,,,,32178232178
+2,Singapore,4,Aman Desai,SC Williams,S Chandramohan,,0,1,1,,,,32178232178
+2,Singapore,4,S Chandramohan,SC Williams,Aman Desai,,0,0,0,,,,32178232178
+2,Singapore,4,S Chandramohan,SC Williams,Aman Desai,,0,4,4,,,,32178232178
+2,Singapore,5,Aman Desai,TL Chatara,S Chandramohan,,0,0,0,caught,Aman Desai,RW Chakabva,32178232178
+2,Singapore,5,Manpreet Singh,TL Chatara,S Chandramohan,,0,0,0,,,,32178232178
+2,Singapore,5,Manpreet Singh,TL Chatara,S Chandramohan,,0,0,0,,,,32178232178
+2,Singapore,5,Manpreet Singh,TL Chatara,S Chandramohan,,0,1,1,,,,32178232178
+2,Singapore,5,S Chandramohan,TL Chatara,Manpreet Singh,,0,0,0,bowled,S Chandramohan,,32178232178
+2,Singapore,5,A Mutreja,TL Chatara,Manpreet Singh,byes,4,4,0,,,,32178232178
+2,Singapore,6,Manpreet Singh,LM Jongwe,A Mutreja,,0,1,1,,,,32178232178
+2,Singapore,6,A Mutreja,LM Jongwe,Manpreet Singh,,0,0,0,,,,32178232178
+2,Singapore,6,A Mutreja,LM Jongwe,Manpreet Singh,,0,0,0,,,,32178232178
+2,Singapore,6,A Mutreja,LM Jongwe,Manpreet Singh,,0,1,1,,,,32178232178
+2,Singapore,6,Manpreet Singh,LM Jongwe,A Mutreja,,0,1,1,,,,32178232178
+2,Singapore,6,A Mutreja,LM Jongwe,Manpreet Singh,,0,0,0,,,,32178232178
+2,Singapore,7,Manpreet Singh,RP Burl,A Mutreja,,0,1,1,,,,32178232178
+2,Singapore,7,A Mutreja,RP Burl,Manpreet Singh,,0,0,0,,,,32178232178
+2,Singapore,7,A Mutreja,RP Burl,Manpreet Singh,,0,1,1,,,,32178232178
+2,Singapore,7,Manpreet Singh,RP Burl,A Mutreja,,0,1,1,,,,32178232178
+2,Singapore,7,A Mutreja,RP Burl,Manpreet Singh,,0,4,4,,,,32178232178
+2,Singapore,7,A Mutreja,RP Burl,Manpreet Singh,,0,1,1,,,,32178232178
+2,Singapore,8,A Mutreja,LM Jongwe,Manpreet Singh,,0,0,0,,,,32178232178
+2,Singapore,8,A Mutreja,LM Jongwe,Manpreet Singh,,0,2,2,,,,32178232178
+2,Singapore,8,A Mutreja,LM Jongwe,Manpreet Singh,,0,0,0,lbw,A Mutreja,,32178232178
+2,Singapore,8,Janak Prakash,LM Jongwe,Manpreet Singh,,0,4,4,,,,32178232178
+2,Singapore,8,Janak Prakash,LM Jongwe,Manpreet Singh,,0,0,0,,,,32178232178
+2,Singapore,8,Janak Prakash,LM Jongwe,Manpreet Singh,,0,1,1,,,,32178232178
+2,Singapore,9,Janak Prakash,RP Burl,Manpreet Singh,,0,1,1,,,,32178232178
+2,Singapore,9,Manpreet Singh,RP Burl,Janak Prakash,,0,1,1,,,,32178232178
+2,Singapore,9,Janak Prakash,RP Burl,Manpreet Singh,,0,0,0,,,,32178232178
+2,Singapore,9,Janak Prakash,RP Burl,Manpreet Singh,,0,1,1,,,,32178232178
+2,Singapore,9,Manpreet Singh,RP Burl,Janak Prakash,,0,0,0,,,,32178232178
+2,Singapore,9,Manpreet Singh,RP Burl,Janak Prakash,,0,1,1,,,,32178232178
+2,Singapore,10,Manpreet Singh,WP Masakadza,Janak Prakash,,0,1,1,,,,32178232178
+2,Singapore,10,Janak Prakash,WP Masakadza,Manpreet Singh,,0,1,1,,,,32178232178
+2,Singapore,10,Manpreet Singh,WP Masakadza,Janak Prakash,,0,0,0,,,,32178232178
+2,Singapore,10,Manpreet Singh,WP Masakadza,Janak Prakash,,0,2,2,,,,32178232178
+2,Singapore,10,Manpreet Singh,WP Masakadza,Janak Prakash,,0,2,2,,,,32178232178
+2,Singapore,10,Manpreet Singh,WP Masakadza,Janak Prakash,,0,1,1,,,,32178232178
+2,Singapore,11,Manpreet Singh,RP Burl,Janak Prakash,,0,1,1,,,,32178232178
+2,Singapore,11,Janak Prakash,RP Burl,Manpreet Singh,,0,1,1,,,,32178232178
+2,Singapore,11,Manpreet Singh,RP Burl,Janak Prakash,,0,0,0,caught,Manpreet Singh,W Madhevere,32178232178
+2,Singapore,11,Janak Prakash,RP Burl,U Aryaman Sunil,,0,0,0,,,,32178232178
+2,Singapore,11,Janak Prakash,RP Burl,U Aryaman Sunil,,0,1,1,,,,32178232178
+2,Singapore,11,U Aryaman Sunil,RP Burl,Janak Prakash,,0,1,1,,,,32178232178
+2,Singapore,12,U Aryaman Sunil,WP Masakadza,Janak Prakash,,0,0,0,,,,32178232178
+2,Singapore,12,U Aryaman Sunil,WP Masakadza,Janak Prakash,,0,2,2,,,,32178232178
+2,Singapore,12,U Aryaman Sunil,WP Masakadza,Janak Prakash,,0,1,1,,,,32178232178
+2,Singapore,12,Janak Prakash,WP Masakadza,U Aryaman Sunil,,0,0,0,,,,32178232178
+2,Singapore,12,Janak Prakash,WP Masakadza,U Aryaman Sunil,,0,1,1,,,,32178232178
+2,Singapore,12,U Aryaman Sunil,WP Masakadza,Janak Prakash,,0,1,1,,,,32178232178
+2,Singapore,13,U Aryaman Sunil,Sikandar Raza,Janak Prakash,,0,0,0,,,,32178232178
+2,Singapore,13,U Aryaman Sunil,Sikandar Raza,Janak Prakash,,0,6,6,,,,32178232178
+2,Singapore,13,U Aryaman Sunil,Sikandar Raza,Janak Prakash,,0,0,0,,,,32178232178
+2,Singapore,13,U Aryaman Sunil,Sikandar Raza,Janak Prakash,,0,1,1,,,,32178232178
+2,Singapore,13,Janak Prakash,Sikandar Raza,U Aryaman Sunil,,0,1,1,,,,32178232178
+2,Singapore,13,U Aryaman Sunil,Sikandar Raza,Janak Prakash,,0,1,1,,,,32178232178
+2,Singapore,14,U Aryaman Sunil,RP Burl,Janak Prakash,,0,0,0,,,,32178232178
+2,Singapore,14,U Aryaman Sunil,RP Burl,Janak Prakash,,0,0,0,,,,32178232178
+2,Singapore,14,U Aryaman Sunil,RP Burl,Janak Prakash,,0,2,2,,,,32178232178
+2,Singapore,14,U Aryaman Sunil,RP Burl,Janak Prakash,,0,1,1,,,,32178232178
+2,Singapore,14,Janak Prakash,RP Burl,U Aryaman Sunil,wides,2,2,0,,,,32178232178
+2,Singapore,14,U Aryaman Sunil,RP Burl,Janak Prakash,,0,6,6,,,,32178232178
+2,Singapore,14,U Aryaman Sunil,RP Burl,Janak Prakash,,0,1,1,,,,32178232178
+2,Singapore,14,Janak Prakash,RP Burl,U Aryaman Sunil,,0,1,1,,,,32178232178
+2,Singapore,15,Janak Prakash,TL Chatara,U Aryaman Sunil,,0,0,0,,,,32178232178
+2,Singapore,15,Janak Prakash,TL Chatara,U Aryaman Sunil,,0,2,2,,,,32178232178
+2,Singapore,15,Janak Prakash,TL Chatara,U Aryaman Sunil,,0,0,0,,,,32178232178
+2,Singapore,15,Janak Prakash,TL Chatara,U Aryaman Sunil,,0,0,0,,,,32178232178
+2,Singapore,15,Janak Prakash,TL Chatara,U Aryaman Sunil,,0,1,1,,,,32178232178
+2,Singapore,15,U Aryaman Sunil,TL Chatara,Janak Prakash,,0,0,0,,,,32178232178
+2,Singapore,16,Janak Prakash,B Muzarabani,U Aryaman Sunil,,0,1,1,,,,32178232178
+2,Singapore,16,U Aryaman Sunil,B Muzarabani,Janak Prakash,,0,0,0,,,,32178232178
+2,Singapore,16,U Aryaman Sunil,B Muzarabani,Janak Prakash,,0,1,1,,,,32178232178
+2,Singapore,16,Janak Prakash,B Muzarabani,U Aryaman Sunil,,0,6,6,,,,32178232178
+2,Singapore,16,Janak Prakash,B Muzarabani,U Aryaman Sunil,noballs,1,1,0,,,,32178232178
+2,Singapore,16,Janak Prakash,B Muzarabani,U Aryaman Sunil,,0,1,1,,,,32178232178
+2,Singapore,16,U Aryaman Sunil,B Muzarabani,Janak Prakash,,0,0,0,,,,32178232178
+2,Singapore,17,Janak Prakash,LM Jongwe,U Aryaman Sunil,noballs,1,3,2,,,,32178232178
+2,Singapore,17,Janak Prakash,LM Jongwe,U Aryaman Sunil,,0,0,0,,,,32178232178
+2,Singapore,17,Janak Prakash,LM Jongwe,U Aryaman Sunil,,0,0,0,,,,32178232178
+2,Singapore,17,Janak Prakash,LM Jongwe,U Aryaman Sunil,,0,2,2,,,,32178232178
+2,Singapore,17,Janak Prakash,LM Jongwe,U Aryaman Sunil,,0,0,0,,,,32178232178
+2,Singapore,17,Janak Prakash,LM Jongwe,U Aryaman Sunil,,0,1,1,,,,32178232178
+2,Singapore,17,U Aryaman Sunil,LM Jongwe,Janak Prakash,wides,1,1,0,,,,32178232178
+2,Singapore,17,U Aryaman Sunil,LM Jongwe,Janak Prakash,,0,1,1,,,,32178232178
+2,Singapore,18,U Aryaman Sunil,B Muzarabani,Janak Prakash,,0,0,0,,,,32178232178
+2,Singapore,18,U Aryaman Sunil,B Muzarabani,Janak Prakash,,0,0,0,,,,32178232178
+2,Singapore,18,U Aryaman Sunil,B Muzarabani,Janak Prakash,,0,0,0,,,,32178232178
+2,Singapore,18,U Aryaman Sunil,B Muzarabani,Janak Prakash,,0,0,0,caught and bowled,U Aryaman Sunil,,32178232178
+2,Singapore,18,Janak Prakash,B Muzarabani,V Baskaran,wides,1,1,0,,,,32178232178
+2,Singapore,18,Janak Prakash,B Muzarabani,V Baskaran,,0,0,0,,,,32178232178
+2,Singapore,18,Janak Prakash,B Muzarabani,V Baskaran,,0,1,1,,,,32178232178
+2,Singapore,19,Janak Prakash,TL Chatara,V Baskaran,,0,1,1,,,,32178232178
+2,Singapore,19,V Baskaran,TL Chatara,Janak Prakash,,0,2,2,,,,32178232178
+2,Singapore,19,V Baskaran,TL Chatara,Janak Prakash,,0,0,0,,,,32178232178
+2,Singapore,19,V Baskaran,TL Chatara,Janak Prakash,wides,1,1,0,,,,32178232178
+2,Singapore,19,V Baskaran,TL Chatara,Janak Prakash,,0,0,0,bowled,V Baskaran,,32178232178
+2,Singapore,19,A Krishna,TL Chatara,Janak Prakash,,0,1,1,,,,32178232178
+2,Singapore,19,Janak Prakash,TL Chatara,A Krishna,,0,1,1,,,,32178232178

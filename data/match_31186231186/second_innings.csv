@@ -1,0 +1,53 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Nepal,0,PS Airee,Syed Aziz,G Malla,wides,1,1,0,,,,31186231186
+2,Nepal,0,PS Airee,Syed Aziz,G Malla,,0,1,1,,,,31186231186
+2,Nepal,0,G Malla,Syed Aziz,PS Airee,,0,1,1,,,,31186231186
+2,Nepal,0,PS Airee,Syed Aziz,G Malla,,0,4,4,,,,31186231186
+2,Nepal,0,PS Airee,Syed Aziz,G Malla,,0,0,0,,,,31186231186
+2,Nepal,0,PS Airee,Syed Aziz,G Malla,wides,1,1,0,,,,31186231186
+2,Nepal,0,PS Airee,Syed Aziz,G Malla,noballs,1,1,0,,,,31186231186
+2,Nepal,0,PS Airee,Syed Aziz,G Malla,,0,1,1,,,,31186231186
+2,Nepal,0,G Malla,Syed Aziz,PS Airee,,0,1,1,,,,31186231186
+2,Nepal,1,G Malla,Fitri Sham,PS Airee,,0,4,4,,,,31186231186
+2,Nepal,1,G Malla,Fitri Sham,PS Airee,,0,4,4,,,,31186231186
+2,Nepal,1,G Malla,Fitri Sham,PS Airee,,0,0,0,,,,31186231186
+2,Nepal,1,G Malla,Fitri Sham,PS Airee,,0,1,1,,,,31186231186
+2,Nepal,1,PS Airee,Fitri Sham,G Malla,,0,0,0,,,,31186231186
+2,Nepal,1,PS Airee,Fitri Sham,G Malla,,0,0,0,,,,31186231186
+2,Nepal,2,G Malla,S Muniandy,PS Airee,,0,6,6,,,,31186231186
+2,Nepal,2,G Malla,S Muniandy,PS Airee,,0,1,1,,,,31186231186
+2,Nepal,2,PS Airee,S Muniandy,G Malla,,0,1,1,,,,31186231186
+2,Nepal,2,G Malla,S Muniandy,PS Airee,wides,1,1,0,,,,31186231186
+2,Nepal,2,G Malla,S Muniandy,PS Airee,,0,4,4,,,,31186231186
+2,Nepal,2,G Malla,S Muniandy,PS Airee,,0,4,4,,,,31186231186
+2,Nepal,2,G Malla,S Muniandy,PS Airee,,0,4,4,,,,31186231186
+2,Nepal,3,PS Airee,Pavandeep Singh,G Malla,,0,1,1,,,,31186231186
+2,Nepal,3,G Malla,Pavandeep Singh,PS Airee,,0,6,6,,,,31186231186
+2,Nepal,3,G Malla,Pavandeep Singh,PS Airee,,0,2,2,,,,31186231186
+2,Nepal,3,G Malla,Pavandeep Singh,PS Airee,,0,1,1,,,,31186231186
+2,Nepal,3,PS Airee,Pavandeep Singh,G Malla,,0,1,1,,,,31186231186
+2,Nepal,3,G Malla,Pavandeep Singh,PS Airee,,0,1,1,,,,31186231186
+2,Nepal,4,G Malla,Anwar Rahman,PS Airee,,0,1,1,,,,31186231186
+2,Nepal,4,PS Airee,Anwar Rahman,G Malla,,0,1,1,,,,31186231186
+2,Nepal,4,G Malla,Anwar Rahman,PS Airee,,0,2,2,,,,31186231186
+2,Nepal,4,G Malla,Anwar Rahman,PS Airee,,0,1,1,,,,31186231186
+2,Nepal,4,PS Airee,Anwar Rahman,G Malla,,0,1,1,,,,31186231186
+2,Nepal,4,G Malla,Anwar Rahman,PS Airee,,0,1,1,,,,31186231186
+2,Nepal,5,G Malla,M Syahadat Ramli,PS Airee,,0,6,6,,,,31186231186
+2,Nepal,5,G Malla,M Syahadat Ramli,PS Airee,,0,0,0,caught,G Malla,Aminuddin Ramly,31186231186
+2,Nepal,5,PS Airee,M Syahadat Ramli,B Bhandari,,0,1,1,,,,31186231186
+2,Nepal,5,B Bhandari,M Syahadat Ramli,PS Airee,,0,1,1,,,,31186231186
+2,Nepal,5,PS Airee,M Syahadat Ramli,B Bhandari,,0,0,0,caught,PS Airee,Pavandeep Singh,31186231186
+2,Nepal,5,B Bhandari,M Syahadat Ramli,DS Airee,,0,1,1,,,,31186231186
+2,Nepal,6,B Bhandari,Anwar Rahman,DS Airee,,0,0,0,,,,31186231186
+2,Nepal,6,B Bhandari,Anwar Rahman,DS Airee,,0,1,1,,,,31186231186
+2,Nepal,6,DS Airee,Anwar Rahman,B Bhandari,,0,1,1,,,,31186231186
+2,Nepal,6,B Bhandari,Anwar Rahman,DS Airee,,0,2,2,,,,31186231186
+2,Nepal,6,B Bhandari,Anwar Rahman,DS Airee,,0,1,1,,,,31186231186
+2,Nepal,6,DS Airee,Anwar Rahman,B Bhandari,,0,1,1,,,,31186231186
+2,Nepal,7,DS Airee,M Syahadat Ramli,B Bhandari,legbyes,1,1,0,,,,31186231186
+2,Nepal,7,B Bhandari,M Syahadat Ramli,DS Airee,,0,1,1,,,,31186231186
+2,Nepal,7,DS Airee,M Syahadat Ramli,B Bhandari,,0,0,0,caught,DS Airee,Anwar Arudin,31186231186
+2,Nepal,7,S Vesawkar,M Syahadat Ramli,B Bhandari,,0,2,2,,,,31186231186
+2,Nepal,7,S Vesawkar,M Syahadat Ramli,B Bhandari,,0,1,1,,,,31186231186
+2,Nepal,7,B Bhandari,M Syahadat Ramli,S Vesawkar,,0,6,6,,,,31186231186

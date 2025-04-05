@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Scotland,0,HG Munsey,RE van der Merwe,KJ Coetzer,,0,0,0,,,,372323723
+1,Scotland,0,HG Munsey,RE van der Merwe,KJ Coetzer,,0,4,4,,,,372323723
+1,Scotland,0,HG Munsey,RE van der Merwe,KJ Coetzer,,0,0,0,,,,372323723
+1,Scotland,0,HG Munsey,RE van der Merwe,KJ Coetzer,,0,0,0,bowled,HG Munsey,,372323723
+1,Scotland,0,MH Cross,RE van der Merwe,KJ Coetzer,,0,0,0,,,,372323723
+1,Scotland,0,MH Cross,RE van der Merwe,KJ Coetzer,,0,0,0,,,,372323723
+1,Scotland,1,KJ Coetzer,T van der Gugten,MH Cross,,0,0,0,,,,372323723
+1,Scotland,1,KJ Coetzer,T van der Gugten,MH Cross,,0,0,0,,,,372323723
+1,Scotland,1,KJ Coetzer,T van der Gugten,MH Cross,,0,4,4,,,,372323723
+1,Scotland,1,KJ Coetzer,T van der Gugten,MH Cross,,0,0,0,,,,372323723
+1,Scotland,1,KJ Coetzer,T van der Gugten,MH Cross,,0,0,0,,,,372323723
+1,Scotland,1,KJ Coetzer,T van der Gugten,MH Cross,,0,0,0,,,,372323723
+1,Scotland,2,MH Cross,PA van Meekeren,KJ Coetzer,,0,0,0,,,,372323723
+1,Scotland,2,MH Cross,PA van Meekeren,KJ Coetzer,,0,1,1,,,,372323723
+1,Scotland,2,KJ Coetzer,PA van Meekeren,MH Cross,,0,0,0,caught,KJ Coetzer,RE van der Merwe,372323723
+1,Scotland,2,MH Cross,PA van Meekeren,CS MacLeod,,0,0,0,,,,372323723
+1,Scotland,2,MH Cross,PA van Meekeren,CS MacLeod,,0,0,0,,,,372323723
+1,Scotland,2,MH Cross,PA van Meekeren,CS MacLeod,,0,1,1,,,,372323723
+1,Scotland,3,MH Cross,T van der Gugten,CS MacLeod,,0,1,1,,,,372323723
+1,Scotland,3,CS MacLeod,T van der Gugten,MH Cross,,0,0,0,,,,372323723
+1,Scotland,3,CS MacLeod,T van der Gugten,MH Cross,,0,1,1,,,,372323723
+1,Scotland,3,MH Cross,T van der Gugten,CS MacLeod,,0,0,0,,,,372323723
+1,Scotland,3,MH Cross,T van der Gugten,CS MacLeod,,0,0,0,,,,372323723
+1,Scotland,3,MH Cross,T van der Gugten,CS MacLeod,,0,1,1,,,,372323723
+1,Scotland,4,MH Cross,PA van Meekeren,CS MacLeod,,0,0,0,,,,372323723
+1,Scotland,4,MH Cross,PA van Meekeren,CS MacLeod,,0,0,0,caught,MH Cross,W Barresi,372323723
+1,Scotland,4,RD Berrington,PA van Meekeren,CS MacLeod,,0,0,0,,,,372323723
+1,Scotland,4,RD Berrington,PA van Meekeren,CS MacLeod,,0,1,1,,,,372323723
+1,Scotland,4,CS MacLeod,PA van Meekeren,RD Berrington,,0,0,0,,,,372323723
+1,Scotland,4,CS MacLeod,PA van Meekeren,RD Berrington,,0,1,1,,,,372323723
+1,Scotland,5,CS MacLeod,T van der Gugten,RD Berrington,,0,0,0,,,,372323723
+1,Scotland,5,CS MacLeod,T van der Gugten,RD Berrington,,0,1,1,,,,372323723
+1,Scotland,5,RD Berrington,T van der Gugten,CS MacLeod,,0,0,0,,,,372323723
+1,Scotland,5,RD Berrington,T van der Gugten,CS MacLeod,,0,0,0,,,,372323723
+1,Scotland,5,RD Berrington,T van der Gugten,CS MacLeod,,0,0,0,,,,372323723
+1,Scotland,5,RD Berrington,T van der Gugten,CS MacLeod,,0,1,1,,,,372323723
+1,Scotland,6,RD Berrington,MJG Rippon,CS MacLeod,,0,1,1,,,,372323723
+1,Scotland,6,CS MacLeod,MJG Rippon,RD Berrington,,0,1,1,,,,372323723
+1,Scotland,6,RD Berrington,MJG Rippon,CS MacLeod,,0,1,1,,,,372323723
+1,Scotland,6,CS MacLeod,MJG Rippon,RD Berrington,,0,4,4,,,,372323723
+1,Scotland,6,CS MacLeod,MJG Rippon,RD Berrington,,0,1,1,,,,372323723
+1,Scotland,6,RD Berrington,MJG Rippon,CS MacLeod,,0,0,0,,,,372323723
+1,Scotland,7,CS MacLeod,RE van der Merwe,RD Berrington,,0,2,2,,,,372323723
+1,Scotland,7,CS MacLeod,RE van der Merwe,RD Berrington,,0,0,0,,,,372323723
+1,Scotland,7,CS MacLeod,RE van der Merwe,RD Berrington,,0,1,1,,,,372323723
+1,Scotland,7,RD Berrington,RE van der Merwe,CS MacLeod,,0,2,2,,,,372323723
+1,Scotland,7,RD Berrington,RE van der Merwe,CS MacLeod,,0,4,4,,,,372323723
+1,Scotland,7,RD Berrington,RE van der Merwe,CS MacLeod,,0,1,1,,,,372323723
+1,Scotland,8,RD Berrington,Ahsan Malik,CS MacLeod,,0,2,2,,,,372323723
+1,Scotland,8,RD Berrington,Ahsan Malik,CS MacLeod,,0,1,1,,,,372323723
+1,Scotland,8,CS MacLeod,Ahsan Malik,RD Berrington,,0,1,1,,,,372323723
+1,Scotland,8,RD Berrington,Ahsan Malik,CS MacLeod,,0,1,1,,,,372323723
+1,Scotland,8,CS MacLeod,Ahsan Malik,RD Berrington,,0,1,1,,,,372323723
+1,Scotland,8,RD Berrington,Ahsan Malik,CS MacLeod,,0,1,1,,,,372323723
+1,Scotland,9,RD Berrington,PA van Meekeren,CS MacLeod,,0,2,2,,,,372323723
+1,Scotland,9,RD Berrington,PA van Meekeren,CS MacLeod,,0,0,0,,,,372323723
+1,Scotland,9,RD Berrington,PA van Meekeren,CS MacLeod,,0,1,1,,,,372323723
+1,Scotland,9,CS MacLeod,PA van Meekeren,RD Berrington,,0,1,1,,,,372323723
+1,Scotland,9,RD Berrington,PA van Meekeren,CS MacLeod,noballs,1,5,4,,,,372323723
+1,Scotland,9,RD Berrington,PA van Meekeren,CS MacLeod,,0,4,4,,,,372323723
+1,Scotland,9,RD Berrington,PA van Meekeren,CS MacLeod,,0,1,1,,,,372323723
+1,Scotland,10,RD Berrington,RE van der Merwe,CS MacLeod,,0,0,0,,,,372323723
+1,Scotland,10,RD Berrington,RE van der Merwe,CS MacLeod,,0,1,1,,,,372323723
+1,Scotland,10,CS MacLeod,RE van der Merwe,RD Berrington,,0,1,1,,,,372323723
+1,Scotland,10,RD Berrington,RE van der Merwe,CS MacLeod,,0,4,4,,,,372323723
+1,Scotland,10,RD Berrington,RE van der Merwe,CS MacLeod,,0,2,2,,,,372323723
+1,Scotland,10,RD Berrington,RE van der Merwe,CS MacLeod,,0,1,1,,,,372323723
+1,Scotland,11,RD Berrington,MJG Rippon,CS MacLeod,,0,1,1,,,,372323723
+1,Scotland,11,CS MacLeod,MJG Rippon,RD Berrington,,0,4,4,,,,372323723
+1,Scotland,11,CS MacLeod,MJG Rippon,RD Berrington,,0,0,0,hit wicket,CS MacLeod,,372323723
+1,Scotland,11,CD Wallace,MJG Rippon,RD Berrington,,0,1,1,,,,372323723
+1,Scotland,11,RD Berrington,MJG Rippon,CD Wallace,,0,1,1,,,,372323723
+1,Scotland,11,CD Wallace,MJG Rippon,RD Berrington,,0,1,1,,,,372323723
+1,Scotland,12,CD Wallace,RE van der Merwe,RD Berrington,,0,0,0,,,,372323723
+1,Scotland,12,CD Wallace,RE van der Merwe,RD Berrington,,0,1,1,,,,372323723
+1,Scotland,12,RD Berrington,RE van der Merwe,CD Wallace,,0,0,0,lbw,RD Berrington,,372323723
+1,Scotland,12,CD de Lange,RE van der Merwe,CD Wallace,,0,1,1,,,,372323723
+1,Scotland,12,CD Wallace,RE van der Merwe,CD de Lange,,0,0,0,,,,372323723
+1,Scotland,12,CD Wallace,RE van der Merwe,CD de Lange,,0,1,1,,,,372323723
+1,Scotland,13,CD Wallace,MJG Rippon,CD de Lange,,0,4,4,,,,372323723
+1,Scotland,13,CD Wallace,MJG Rippon,CD de Lange,,0,0,0,,,,372323723
+1,Scotland,13,CD Wallace,MJG Rippon,CD de Lange,,0,1,1,,,,372323723
+1,Scotland,13,CD de Lange,MJG Rippon,CD Wallace,,0,1,1,,,,372323723
+1,Scotland,13,CD Wallace,MJG Rippon,CD de Lange,,0,0,0,,,,372323723
+1,Scotland,13,CD Wallace,MJG Rippon,CD de Lange,,0,0,0,,,,372323723
+1,Scotland,14,CD de Lange,PM Seelaar,CD Wallace,,0,6,6,,,,372323723
+1,Scotland,14,CD de Lange,PM Seelaar,CD Wallace,legbyes,1,1,0,,,,372323723
+1,Scotland,14,CD Wallace,PM Seelaar,CD de Lange,,0,1,1,,,,372323723
+1,Scotland,14,CD de Lange,PM Seelaar,CD Wallace,,0,3,3,,,,372323723
+1,Scotland,14,CD Wallace,PM Seelaar,CD de Lange,,0,1,1,,,,372323723
+1,Scotland,14,CD de Lange,PM Seelaar,CD Wallace,,0,1,1,,,,372323723
+1,Scotland,15,CD de Lange,MJG Rippon,CD Wallace,,0,2,2,,,,372323723
+1,Scotland,15,CD de Lange,MJG Rippon,CD Wallace,,0,6,6,,,,372323723
+1,Scotland,15,CD de Lange,MJG Rippon,CD Wallace,,0,2,2,,,,372323723
+1,Scotland,15,CD de Lange,MJG Rippon,CD Wallace,,0,0,0,bowled,CD de Lange,,372323723
+1,Scotland,15,SM Sharif,MJG Rippon,CD Wallace,,0,1,1,,,,372323723
+1,Scotland,15,CD Wallace,MJG Rippon,SM Sharif,byes,1,1,0,,,,372323723
+1,Scotland,16,CD Wallace,Ahsan Malik,SM Sharif,,0,1,1,,,,372323723
+1,Scotland,16,SM Sharif,Ahsan Malik,CD Wallace,wides,1,1,0,,,,372323723
+1,Scotland,16,SM Sharif,Ahsan Malik,CD Wallace,,0,0,0,,,,372323723
+1,Scotland,16,SM Sharif,Ahsan Malik,CD Wallace,,0,1,1,,,,372323723
+1,Scotland,16,CD Wallace,Ahsan Malik,SM Sharif,,0,1,1,,,,372323723
+1,Scotland,16,SM Sharif,Ahsan Malik,CD Wallace,,0,1,1,,,,372323723
+1,Scotland,16,CD Wallace,Ahsan Malik,SM Sharif,,0,1,1,,,,372323723
+1,Scotland,17,CD Wallace,T van der Gugten,SM Sharif,,0,4,4,,,,372323723
+1,Scotland,17,CD Wallace,T van der Gugten,SM Sharif,,0,2,2,,,,372323723
+1,Scotland,17,CD Wallace,T van der Gugten,SM Sharif,,0,1,1,,,,372323723
+1,Scotland,17,SM Sharif,T van der Gugten,CD Wallace,,0,0,0,,,,372323723
+1,Scotland,17,SM Sharif,T van der Gugten,CD Wallace,,0,1,1,,,,372323723
+1,Scotland,17,CD Wallace,T van der Gugten,SM Sharif,,0,0,0,caught,CD Wallace,MJG Rippon,372323723
+1,Scotland,18,JH Davey,PA van Meekeren,SM Sharif,,0,1,1,,,,372323723
+1,Scotland,18,SM Sharif,PA van Meekeren,JH Davey,,0,6,6,,,,372323723
+1,Scotland,18,SM Sharif,PA van Meekeren,JH Davey,,0,1,1,,,,372323723
+1,Scotland,18,JH Davey,PA van Meekeren,SM Sharif,wides,1,1,0,,,,372323723
+1,Scotland,18,JH Davey,PA van Meekeren,SM Sharif,,0,2,2,,,,372323723
+1,Scotland,18,JH Davey,PA van Meekeren,SM Sharif,,0,0,0,,,,372323723
+1,Scotland,18,JH Davey,PA van Meekeren,SM Sharif,,0,1,1,,,,372323723
+1,Scotland,19,JH Davey,Ahsan Malik,SM Sharif,legbyes,1,1,0,,,,372323723
+1,Scotland,19,SM Sharif,Ahsan Malik,JH Davey,,0,1,1,,,,372323723
+1,Scotland,19,JH Davey,Ahsan Malik,SM Sharif,,0,4,4,,,,372323723
+1,Scotland,19,JH Davey,Ahsan Malik,SM Sharif,,0,1,1,,,,372323723
+1,Scotland,19,SM Sharif,Ahsan Malik,JH Davey,,0,2,2,,,,372323723
+1,Scotland,19,SM Sharif,Ahsan Malik,JH Davey,,0,6,6,,,,372323723

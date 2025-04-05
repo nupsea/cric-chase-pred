@@ -1,0 +1,126 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Sri Lanka,0,MD Gunathilaka,Shakib Al Hasan,BKG Mendis,,0,0,0,,,,380823808
+1,Sri Lanka,0,MD Gunathilaka,Shakib Al Hasan,BKG Mendis,,0,0,0,,,,380823808
+1,Sri Lanka,0,MD Gunathilaka,Shakib Al Hasan,BKG Mendis,,0,0,0,,,,380823808
+1,Sri Lanka,0,MD Gunathilaka,Shakib Al Hasan,BKG Mendis,,0,1,1,,,,380823808
+1,Sri Lanka,0,BKG Mendis,Shakib Al Hasan,MD Gunathilaka,wides,1,1,0,,,,380823808
+1,Sri Lanka,0,BKG Mendis,Shakib Al Hasan,MD Gunathilaka,,0,0,0,,,,380823808
+1,Sri Lanka,0,BKG Mendis,Shakib Al Hasan,MD Gunathilaka,,0,1,1,,,,380823808
+1,Sri Lanka,1,BKG Mendis,Rubel Hossain,MD Gunathilaka,,0,1,1,,,,380823808
+1,Sri Lanka,1,MD Gunathilaka,Rubel Hossain,BKG Mendis,,0,2,2,,,,380823808
+1,Sri Lanka,1,MD Gunathilaka,Rubel Hossain,BKG Mendis,,0,1,1,,,,380823808
+1,Sri Lanka,1,BKG Mendis,Rubel Hossain,MD Gunathilaka,,0,0,0,,,,380823808
+1,Sri Lanka,1,BKG Mendis,Rubel Hossain,MD Gunathilaka,,0,4,4,,,,380823808
+1,Sri Lanka,1,BKG Mendis,Rubel Hossain,MD Gunathilaka,,0,4,4,,,,380823808
+1,Sri Lanka,2,MD Gunathilaka,Shakib Al Hasan,BKG Mendis,,0,0,0,caught,MD Gunathilaka,Sabbir Rahman,380823808
+1,Sri Lanka,2,BKG Mendis,Shakib Al Hasan,MDKJ Perera,,0,1,1,,,,380823808
+1,Sri Lanka,2,MDKJ Perera,Shakib Al Hasan,BKG Mendis,,0,4,4,,,,380823808
+1,Sri Lanka,2,MDKJ Perera,Shakib Al Hasan,BKG Mendis,,0,1,1,,,,380823808
+1,Sri Lanka,2,BKG Mendis,Shakib Al Hasan,MDKJ Perera,,0,0,0,,,,380823808
+1,Sri Lanka,2,BKG Mendis,Shakib Al Hasan,MDKJ Perera,,0,0,0,,,,380823808
+1,Sri Lanka,3,MDKJ Perera,Mustafizur Rahman,BKG Mendis,legbyes,1,1,0,,,,380823808
+1,Sri Lanka,3,BKG Mendis,Mustafizur Rahman,MDKJ Perera,,0,0,0,,,,380823808
+1,Sri Lanka,3,BKG Mendis,Mustafizur Rahman,MDKJ Perera,,0,0,0,,,,380823808
+1,Sri Lanka,3,BKG Mendis,Mustafizur Rahman,MDKJ Perera,,0,0,0,,,,380823808
+1,Sri Lanka,3,BKG Mendis,Mustafizur Rahman,MDKJ Perera,,0,0,0,,,,380823808
+1,Sri Lanka,3,BKG Mendis,Mustafizur Rahman,MDKJ Perera,,0,0,0,caught,BKG Mendis,Soumya Sarkar,380823808
+1,Sri Lanka,4,MDKJ Perera,Mehedi Hasan Miraz,WU Tharanga,,0,1,1,,,,380823808
+1,Sri Lanka,4,WU Tharanga,Mehedi Hasan Miraz,MDKJ Perera,,0,1,1,,,,380823808
+1,Sri Lanka,4,MDKJ Perera,Mehedi Hasan Miraz,WU Tharanga,,0,1,1,,,,380823808
+1,Sri Lanka,4,WU Tharanga,Mehedi Hasan Miraz,MDKJ Perera,,0,0,0,,,,380823808
+1,Sri Lanka,4,WU Tharanga,Mehedi Hasan Miraz,MDKJ Perera,,0,0,0,,,,380823808
+1,Sri Lanka,4,WU Tharanga,Mehedi Hasan Miraz,MDKJ Perera,,0,4,4,,,,380823808
+1,Sri Lanka,5,MDKJ Perera,Mustafizur Rahman,WU Tharanga,wides,1,1,0,,,,380823808
+1,Sri Lanka,5,MDKJ Perera,Mustafizur Rahman,WU Tharanga,,0,1,1,,,,380823808
+1,Sri Lanka,5,WU Tharanga,Mustafizur Rahman,MDKJ Perera,,0,0,0,run out,WU Tharanga,,380823808
+1,Sri Lanka,5,MDKJ Perera,Mustafizur Rahman,MD Shanaka,,0,1,1,,,,380823808
+1,Sri Lanka,5,MD Shanaka,Mustafizur Rahman,MDKJ Perera,,0,0,0,caught,MD Shanaka,Mushfiqur Rahim,380823808
+1,Sri Lanka,5,BMAJ Mendis,Mustafizur Rahman,MDKJ Perera,,0,0,0,,,,380823808
+1,Sri Lanka,5,BMAJ Mendis,Mustafizur Rahman,MDKJ Perera,wides,1,1,0,,,,380823808
+1,Sri Lanka,5,BMAJ Mendis,Mustafizur Rahman,MDKJ Perera,legbyes,2,2,0,,,,380823808
+1,Sri Lanka,6,MDKJ Perera,Mehedi Hasan Miraz,BMAJ Mendis,,0,0,0,,,,380823808
+1,Sri Lanka,6,MDKJ Perera,Mehedi Hasan Miraz,BMAJ Mendis,,0,0,0,,,,380823808
+1,Sri Lanka,6,MDKJ Perera,Mehedi Hasan Miraz,BMAJ Mendis,,0,1,1,,,,380823808
+1,Sri Lanka,6,BMAJ Mendis,Mehedi Hasan Miraz,MDKJ Perera,,0,0,0,,,,380823808
+1,Sri Lanka,6,BMAJ Mendis,Mehedi Hasan Miraz,MDKJ Perera,,0,0,0,,,,380823808
+1,Sri Lanka,6,BMAJ Mendis,Mehedi Hasan Miraz,MDKJ Perera,,0,1,1,,,,380823808
+1,Sri Lanka,7,BMAJ Mendis,Mahmudullah,MDKJ Perera,,0,1,1,,,,380823808
+1,Sri Lanka,7,MDKJ Perera,Mahmudullah,BMAJ Mendis,,0,1,1,,,,380823808
+1,Sri Lanka,7,BMAJ Mendis,Mahmudullah,MDKJ Perera,wides,1,1,0,,,,380823808
+1,Sri Lanka,7,BMAJ Mendis,Mahmudullah,MDKJ Perera,,0,0,0,,,,380823808
+1,Sri Lanka,7,BMAJ Mendis,Mahmudullah,MDKJ Perera,,0,0,0,,,,380823808
+1,Sri Lanka,7,BMAJ Mendis,Mahmudullah,MDKJ Perera,,0,0,0,,,,380823808
+1,Sri Lanka,7,BMAJ Mendis,Mahmudullah,MDKJ Perera,,0,1,1,,,,380823808
+1,Sri Lanka,8,BMAJ Mendis,Mehedi Hasan Miraz,MDKJ Perera,,0,0,0,caught,BMAJ Mendis,Mustafizur Rahman,380823808
+1,Sri Lanka,8,NLTC Perera,Mehedi Hasan Miraz,MDKJ Perera,,0,1,1,,,,380823808
+1,Sri Lanka,8,MDKJ Perera,Mehedi Hasan Miraz,NLTC Perera,,0,1,1,,,,380823808
+1,Sri Lanka,8,NLTC Perera,Mehedi Hasan Miraz,MDKJ Perera,,0,0,0,,,,380823808
+1,Sri Lanka,8,NLTC Perera,Mehedi Hasan Miraz,MDKJ Perera,,0,0,0,,,,380823808
+1,Sri Lanka,8,NLTC Perera,Mehedi Hasan Miraz,MDKJ Perera,,0,0,0,,,,380823808
+1,Sri Lanka,9,MDKJ Perera,Mahmudullah,NLTC Perera,,0,4,4,,,,380823808
+1,Sri Lanka,9,MDKJ Perera,Mahmudullah,NLTC Perera,,0,1,1,,,,380823808
+1,Sri Lanka,9,NLTC Perera,Mahmudullah,MDKJ Perera,,0,1,1,,,,380823808
+1,Sri Lanka,9,MDKJ Perera,Mahmudullah,NLTC Perera,,0,1,1,,,,380823808
+1,Sri Lanka,9,NLTC Perera,Mahmudullah,MDKJ Perera,,0,2,2,,,,380823808
+1,Sri Lanka,9,NLTC Perera,Mahmudullah,MDKJ Perera,,0,1,1,,,,380823808
+1,Sri Lanka,10,NLTC Perera,Rubel Hossain,MDKJ Perera,,0,0,0,,,,380823808
+1,Sri Lanka,10,NLTC Perera,Rubel Hossain,MDKJ Perera,,0,0,0,,,,380823808
+1,Sri Lanka,10,NLTC Perera,Rubel Hossain,MDKJ Perera,,0,1,1,,,,380823808
+1,Sri Lanka,10,MDKJ Perera,Rubel Hossain,NLTC Perera,,0,4,4,,,,380823808
+1,Sri Lanka,10,MDKJ Perera,Rubel Hossain,NLTC Perera,,0,4,4,,,,380823808
+1,Sri Lanka,10,MDKJ Perera,Rubel Hossain,NLTC Perera,,0,1,1,,,,380823808
+1,Sri Lanka,11,MDKJ Perera,Mehedi Hasan Miraz,NLTC Perera,,0,1,1,,,,380823808
+1,Sri Lanka,11,NLTC Perera,Mehedi Hasan Miraz,MDKJ Perera,,0,0,0,,,,380823808
+1,Sri Lanka,11,NLTC Perera,Mehedi Hasan Miraz,MDKJ Perera,,0,2,2,,,,380823808
+1,Sri Lanka,11,NLTC Perera,Mehedi Hasan Miraz,MDKJ Perera,,0,1,1,,,,380823808
+1,Sri Lanka,11,MDKJ Perera,Mehedi Hasan Miraz,NLTC Perera,,0,0,0,,,,380823808
+1,Sri Lanka,11,MDKJ Perera,Mehedi Hasan Miraz,NLTC Perera,,0,1,1,,,,380823808
+1,Sri Lanka,12,MDKJ Perera,Mustafizur Rahman,NLTC Perera,,0,2,2,,,,380823808
+1,Sri Lanka,12,MDKJ Perera,Mustafizur Rahman,NLTC Perera,,0,6,6,,,,380823808
+1,Sri Lanka,12,MDKJ Perera,Mustafizur Rahman,NLTC Perera,,0,4,4,,,,380823808
+1,Sri Lanka,12,MDKJ Perera,Mustafizur Rahman,NLTC Perera,,0,1,1,,,,380823808
+1,Sri Lanka,12,NLTC Perera,Mustafizur Rahman,MDKJ Perera,,0,4,4,,,,380823808
+1,Sri Lanka,12,NLTC Perera,Mustafizur Rahman,MDKJ Perera,,0,1,1,,,,380823808
+1,Sri Lanka,13,NLTC Perera,Mahmudullah,MDKJ Perera,,0,1,1,,,,380823808
+1,Sri Lanka,13,MDKJ Perera,Mahmudullah,NLTC Perera,,0,0,0,,,,380823808
+1,Sri Lanka,13,MDKJ Perera,Mahmudullah,NLTC Perera,,0,2,2,,,,380823808
+1,Sri Lanka,13,MDKJ Perera,Mahmudullah,NLTC Perera,,0,0,0,,,,380823808
+1,Sri Lanka,13,MDKJ Perera,Mahmudullah,NLTC Perera,,0,0,0,,,,380823808
+1,Sri Lanka,13,MDKJ Perera,Mahmudullah,NLTC Perera,,0,1,1,,,,380823808
+1,Sri Lanka,14,MDKJ Perera,Soumya Sarkar,NLTC Perera,,0,4,4,,,,380823808
+1,Sri Lanka,14,MDKJ Perera,Soumya Sarkar,NLTC Perera,,0,1,1,,,,380823808
+1,Sri Lanka,14,NLTC Perera,Soumya Sarkar,MDKJ Perera,,0,0,0,,,,380823808
+1,Sri Lanka,14,NLTC Perera,Soumya Sarkar,MDKJ Perera,,0,2,2,,,,380823808
+1,Sri Lanka,14,NLTC Perera,Soumya Sarkar,MDKJ Perera,,0,1,1,,,,380823808
+1,Sri Lanka,14,MDKJ Perera,Soumya Sarkar,NLTC Perera,,0,1,1,,,,380823808
+1,Sri Lanka,15,MDKJ Perera,Mahmudullah,NLTC Perera,,0,2,2,,,,380823808
+1,Sri Lanka,15,MDKJ Perera,Mahmudullah,NLTC Perera,,0,4,4,,,,380823808
+1,Sri Lanka,15,MDKJ Perera,Mahmudullah,NLTC Perera,,0,1,1,,,,380823808
+1,Sri Lanka,15,NLTC Perera,Mahmudullah,MDKJ Perera,,0,2,2,,,,380823808
+1,Sri Lanka,15,NLTC Perera,Mahmudullah,MDKJ Perera,,0,1,1,,,,380823808
+1,Sri Lanka,15,MDKJ Perera,Mahmudullah,NLTC Perera,,0,1,1,,,,380823808
+1,Sri Lanka,16,MDKJ Perera,Mustafizur Rahman,NLTC Perera,,0,1,1,,,,380823808
+1,Sri Lanka,16,NLTC Perera,Mustafizur Rahman,MDKJ Perera,,0,2,2,,,,380823808
+1,Sri Lanka,16,NLTC Perera,Mustafizur Rahman,MDKJ Perera,,0,6,6,,,,380823808
+1,Sri Lanka,16,NLTC Perera,Mustafizur Rahman,MDKJ Perera,,0,6,6,,,,380823808
+1,Sri Lanka,16,NLTC Perera,Mustafizur Rahman,MDKJ Perera,,0,2,2,,,,380823808
+1,Sri Lanka,16,NLTC Perera,Mustafizur Rahman,MDKJ Perera,,0,0,0,,,,380823808
+1,Sri Lanka,17,MDKJ Perera,Rubel Hossain,NLTC Perera,,0,1,1,,,,380823808
+1,Sri Lanka,17,NLTC Perera,Rubel Hossain,MDKJ Perera,,0,4,4,,,,380823808
+1,Sri Lanka,17,NLTC Perera,Rubel Hossain,MDKJ Perera,,0,2,2,,,,380823808
+1,Sri Lanka,17,NLTC Perera,Rubel Hossain,MDKJ Perera,,0,2,2,,,,380823808
+1,Sri Lanka,17,NLTC Perera,Rubel Hossain,MDKJ Perera,,0,0,0,,,,380823808
+1,Sri Lanka,17,NLTC Perera,Rubel Hossain,MDKJ Perera,,0,1,1,,,,380823808
+1,Sri Lanka,18,NLTC Perera,Soumya Sarkar,MDKJ Perera,legbyes,1,1,0,,,,380823808
+1,Sri Lanka,18,MDKJ Perera,Soumya Sarkar,NLTC Perera,,0,0,0,caught,MDKJ Perera,Mehedi Hasan Miraz,380823808
+1,Sri Lanka,18,NLTC Perera,Soumya Sarkar,I Udana,,0,6,6,,,,380823808
+1,Sri Lanka,18,NLTC Perera,Soumya Sarkar,I Udana,,0,1,1,,,,380823808
+1,Sri Lanka,18,I Udana,Soumya Sarkar,NLTC Perera,,0,3,3,,,,380823808
+1,Sri Lanka,18,NLTC Perera,Soumya Sarkar,I Udana,wides,1,1,0,,,,380823808
+1,Sri Lanka,18,NLTC Perera,Soumya Sarkar,I Udana,,0,1,1,,,,380823808
+1,Sri Lanka,19,NLTC Perera,Rubel Hossain,I Udana,,0,4,4,,,,380823808
+1,Sri Lanka,19,NLTC Perera,Rubel Hossain,I Udana,,0,0,0,caught,NLTC Perera,Tamim Iqbal,380823808
+1,Sri Lanka,19,I Udana,Rubel Hossain,A Dananjaya,,0,2,2,,,,380823808
+1,Sri Lanka,19,I Udana,Rubel Hossain,A Dananjaya,,0,1,1,,,,380823808
+1,Sri Lanka,19,A Dananjaya,Rubel Hossain,I Udana,,0,1,1,,,,380823808
+1,Sri Lanka,19,I Udana,Rubel Hossain,A Dananjaya,,0,1,1,,,,380823808

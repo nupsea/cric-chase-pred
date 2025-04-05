@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Zimbabwe,0,H Masakadza,R Vinay Kumar,BRM Taylor,,0,1,1,,,,317023170
+1,Zimbabwe,0,BRM Taylor,R Vinay Kumar,H Masakadza,,0,1,1,,,,317023170
+1,Zimbabwe,0,H Masakadza,R Vinay Kumar,BRM Taylor,,0,0,0,,,,317023170
+1,Zimbabwe,0,H Masakadza,R Vinay Kumar,BRM Taylor,,0,0,0,caught,H Masakadza,SK Raina,317023170
+1,Zimbabwe,0,CJ Chibhabha,R Vinay Kumar,BRM Taylor,,0,0,0,,,,317023170
+1,Zimbabwe,0,CJ Chibhabha,R Vinay Kumar,BRM Taylor,legbyes,1,1,0,,,,317023170
+1,Zimbabwe,1,CJ Chibhabha,AB Dinda,BRM Taylor,,0,1,1,,,,317023170
+1,Zimbabwe,1,BRM Taylor,AB Dinda,CJ Chibhabha,,0,0,0,,,,317023170
+1,Zimbabwe,1,BRM Taylor,AB Dinda,CJ Chibhabha,,0,0,0,,,,317023170
+1,Zimbabwe,1,BRM Taylor,AB Dinda,CJ Chibhabha,,0,0,0,,,,317023170
+1,Zimbabwe,1,BRM Taylor,AB Dinda,CJ Chibhabha,noballs,1,5,4,,,,317023170
+1,Zimbabwe,1,BRM Taylor,AB Dinda,CJ Chibhabha,,0,4,4,,,,317023170
+1,Zimbabwe,1,BRM Taylor,AB Dinda,CJ Chibhabha,,0,0,0,,,,317023170
+1,Zimbabwe,2,CJ Chibhabha,R Vinay Kumar,BRM Taylor,,0,0,0,,,,317023170
+1,Zimbabwe,2,CJ Chibhabha,R Vinay Kumar,BRM Taylor,,0,4,4,,,,317023170
+1,Zimbabwe,2,CJ Chibhabha,R Vinay Kumar,BRM Taylor,,0,6,6,,,,317023170
+1,Zimbabwe,2,CJ Chibhabha,R Vinay Kumar,BRM Taylor,,0,1,1,,,,317023170
+1,Zimbabwe,2,BRM Taylor,R Vinay Kumar,CJ Chibhabha,,0,6,6,,,,317023170
+1,Zimbabwe,2,BRM Taylor,R Vinay Kumar,CJ Chibhabha,,0,0,0,lbw,BRM Taylor,,317023170
+1,Zimbabwe,3,CJ Chibhabha,AB Dinda,T Taibu,,0,1,1,,,,317023170
+1,Zimbabwe,3,T Taibu,AB Dinda,CJ Chibhabha,,0,0,0,,,,317023170
+1,Zimbabwe,3,T Taibu,AB Dinda,CJ Chibhabha,,0,1,1,,,,317023170
+1,Zimbabwe,3,CJ Chibhabha,AB Dinda,T Taibu,,0,0,0,,,,317023170
+1,Zimbabwe,3,CJ Chibhabha,AB Dinda,T Taibu,noballs,1,1,0,,,,317023170
+1,Zimbabwe,3,CJ Chibhabha,AB Dinda,T Taibu,,0,4,4,,,,317023170
+1,Zimbabwe,3,CJ Chibhabha,AB Dinda,T Taibu,,0,4,4,,,,317023170
+1,Zimbabwe,4,T Taibu,PP Ojha,CJ Chibhabha,,0,1,1,,,,317023170
+1,Zimbabwe,4,CJ Chibhabha,PP Ojha,T Taibu,,0,0,0,,,,317023170
+1,Zimbabwe,4,CJ Chibhabha,PP Ojha,T Taibu,,0,0,0,,,,317023170
+1,Zimbabwe,4,CJ Chibhabha,PP Ojha,T Taibu,,0,1,1,,,,317023170
+1,Zimbabwe,4,T Taibu,PP Ojha,CJ Chibhabha,,0,1,1,,,,317023170
+1,Zimbabwe,4,CJ Chibhabha,PP Ojha,T Taibu,,0,0,0,,,,317023170
+1,Zimbabwe,5,T Taibu,R Ashwin,CJ Chibhabha,,0,1,1,,,,317023170
+1,Zimbabwe,5,CJ Chibhabha,R Ashwin,T Taibu,,0,1,1,,,,317023170
+1,Zimbabwe,5,T Taibu,R Ashwin,CJ Chibhabha,,0,0,0,caught,T Taibu,RG Sharma,317023170
+1,Zimbabwe,5,CR Ervine,R Ashwin,CJ Chibhabha,,0,0,0,,,,317023170
+1,Zimbabwe,5,CR Ervine,R Ashwin,CJ Chibhabha,,0,1,1,,,,317023170
+1,Zimbabwe,5,CJ Chibhabha,R Ashwin,CR Ervine,,0,4,4,,,,317023170
+1,Zimbabwe,6,CR Ervine,PP Ojha,CJ Chibhabha,,0,0,0,,,,317023170
+1,Zimbabwe,6,CR Ervine,PP Ojha,CJ Chibhabha,legbyes,1,1,0,,,,317023170
+1,Zimbabwe,6,CJ Chibhabha,PP Ojha,CR Ervine,wides,1,1,0,,,,317023170
+1,Zimbabwe,6,CJ Chibhabha,PP Ojha,CR Ervine,,0,1,1,,,,317023170
+1,Zimbabwe,6,CR Ervine,PP Ojha,CJ Chibhabha,,0,1,1,,,,317023170
+1,Zimbabwe,6,CJ Chibhabha,PP Ojha,CR Ervine,,0,1,1,,,,317023170
+1,Zimbabwe,6,CR Ervine,PP Ojha,CJ Chibhabha,,0,1,1,,,,317023170
+1,Zimbabwe,7,CR Ervine,R Ashwin,CJ Chibhabha,,0,1,1,,,,317023170
+1,Zimbabwe,7,CJ Chibhabha,R Ashwin,CR Ervine,,0,4,4,,,,317023170
+1,Zimbabwe,7,CJ Chibhabha,R Ashwin,CR Ervine,,0,0,0,,,,317023170
+1,Zimbabwe,7,CJ Chibhabha,R Ashwin,CR Ervine,,0,1,1,,,,317023170
+1,Zimbabwe,7,CR Ervine,R Ashwin,CJ Chibhabha,,0,0,0,,,,317023170
+1,Zimbabwe,7,CR Ervine,R Ashwin,CJ Chibhabha,,0,1,1,,,,317023170
+1,Zimbabwe,8,CR Ervine,PP Chawla,CJ Chibhabha,,0,1,1,,,,317023170
+1,Zimbabwe,8,CJ Chibhabha,PP Chawla,CR Ervine,,0,1,1,,,,317023170
+1,Zimbabwe,8,CR Ervine,PP Chawla,CJ Chibhabha,,0,1,1,,,,317023170
+1,Zimbabwe,8,CJ Chibhabha,PP Chawla,CR Ervine,,0,1,1,,,,317023170
+1,Zimbabwe,8,CR Ervine,PP Chawla,CJ Chibhabha,,0,0,0,,,,317023170
+1,Zimbabwe,8,CR Ervine,PP Chawla,CJ Chibhabha,,0,0,0,,,,317023170
+1,Zimbabwe,9,CJ Chibhabha,R Ashwin,CR Ervine,,0,1,1,,,,317023170
+1,Zimbabwe,9,CR Ervine,R Ashwin,CJ Chibhabha,,0,1,1,,,,317023170
+1,Zimbabwe,9,CJ Chibhabha,R Ashwin,CR Ervine,,0,2,2,,,,317023170
+1,Zimbabwe,9,CJ Chibhabha,R Ashwin,CR Ervine,,0,1,1,,,,317023170
+1,Zimbabwe,9,CR Ervine,R Ashwin,CJ Chibhabha,,0,0,0,,,,317023170
+1,Zimbabwe,9,CR Ervine,R Ashwin,CJ Chibhabha,,0,0,0,,,,317023170
+1,Zimbabwe,10,CJ Chibhabha,PP Chawla,CR Ervine,,0,0,0,,,,317023170
+1,Zimbabwe,10,CJ Chibhabha,PP Chawla,CR Ervine,,0,0,0,lbw,CJ Chibhabha,,317023170
+1,Zimbabwe,10,E Chigumbura,PP Chawla,CR Ervine,,0,0,0,,,,317023170
+1,Zimbabwe,10,E Chigumbura,PP Chawla,CR Ervine,,0,0,0,,,,317023170
+1,Zimbabwe,10,E Chigumbura,PP Chawla,CR Ervine,,0,1,1,,,,317023170
+1,Zimbabwe,10,CR Ervine,PP Chawla,E Chigumbura,,0,2,2,,,,317023170
+1,Zimbabwe,11,E Chigumbura,PP Ojha,CR Ervine,,0,0,0,,,,317023170
+1,Zimbabwe,11,E Chigumbura,PP Ojha,CR Ervine,,0,0,0,,,,317023170
+1,Zimbabwe,11,E Chigumbura,PP Ojha,CR Ervine,,0,1,1,,,,317023170
+1,Zimbabwe,11,CR Ervine,PP Ojha,E Chigumbura,,0,0,0,,,,317023170
+1,Zimbabwe,11,CR Ervine,PP Ojha,E Chigumbura,,0,1,1,,,,317023170
+1,Zimbabwe,11,E Chigumbura,PP Ojha,CR Ervine,,0,0,0,,,,317023170
+1,Zimbabwe,12,CR Ervine,PP Chawla,E Chigumbura,,0,0,0,,,,317023170
+1,Zimbabwe,12,CR Ervine,PP Chawla,E Chigumbura,,0,0,0,,,,317023170
+1,Zimbabwe,12,CR Ervine,PP Chawla,E Chigumbura,,0,1,1,,,,317023170
+1,Zimbabwe,12,E Chigumbura,PP Chawla,CR Ervine,,0,1,1,,,,317023170
+1,Zimbabwe,12,CR Ervine,PP Chawla,E Chigumbura,,0,0,0,,,,317023170
+1,Zimbabwe,12,CR Ervine,PP Chawla,E Chigumbura,,0,0,0,,,,317023170
+1,Zimbabwe,13,E Chigumbura,PP Ojha,CR Ervine,,0,0,0,caught,E Chigumbura,M Vijay,317023170
+1,Zimbabwe,13,CR Ervine,PP Ojha,GA Lamb,,0,1,1,,,,317023170
+1,Zimbabwe,13,GA Lamb,PP Ojha,CR Ervine,,0,0,0,lbw,GA Lamb,,317023170
+1,Zimbabwe,13,P Utseya,PP Ojha,CR Ervine,,0,0,0,,,,317023170
+1,Zimbabwe,13,P Utseya,PP Ojha,CR Ervine,,0,0,0,,,,317023170
+1,Zimbabwe,13,P Utseya,PP Ojha,CR Ervine,,0,0,0,,,,317023170
+1,Zimbabwe,14,CR Ervine,R Ashwin,P Utseya,,0,1,1,,,,317023170
+1,Zimbabwe,14,P Utseya,R Ashwin,CR Ervine,,0,1,1,,,,317023170
+1,Zimbabwe,14,CR Ervine,R Ashwin,P Utseya,,0,0,0,,,,317023170
+1,Zimbabwe,14,CR Ervine,R Ashwin,P Utseya,,0,1,1,,,,317023170
+1,Zimbabwe,14,P Utseya,R Ashwin,CR Ervine,,0,0,0,,,,317023170
+1,Zimbabwe,14,P Utseya,R Ashwin,CR Ervine,,0,0,0,,,,317023170
+1,Zimbabwe,15,CR Ervine,YK Pathan,P Utseya,,0,0,0,,,,317023170
+1,Zimbabwe,15,CR Ervine,YK Pathan,P Utseya,,0,1,1,,,,317023170
+1,Zimbabwe,15,P Utseya,YK Pathan,CR Ervine,,0,0,0,,,,317023170
+1,Zimbabwe,15,P Utseya,YK Pathan,CR Ervine,,0,0,0,,,,317023170
+1,Zimbabwe,15,P Utseya,YK Pathan,CR Ervine,,0,1,1,,,,317023170
+1,Zimbabwe,15,CR Ervine,YK Pathan,P Utseya,,0,1,1,,,,317023170
+1,Zimbabwe,16,CR Ervine,PP Chawla,P Utseya,,0,1,1,,,,317023170
+1,Zimbabwe,16,P Utseya,PP Chawla,CR Ervine,,0,1,1,,,,317023170
+1,Zimbabwe,16,CR Ervine,PP Chawla,P Utseya,,0,1,1,,,,317023170
+1,Zimbabwe,16,P Utseya,PP Chawla,CR Ervine,,0,0,0,,,,317023170
+1,Zimbabwe,16,P Utseya,PP Chawla,CR Ervine,,0,1,1,,,,317023170
+1,Zimbabwe,16,CR Ervine,PP Chawla,P Utseya,,0,1,1,,,,317023170
+1,Zimbabwe,17,CR Ervine,YK Pathan,P Utseya,,0,0,0,,,,317023170
+1,Zimbabwe,17,CR Ervine,YK Pathan,P Utseya,,0,4,4,,,,317023170
+1,Zimbabwe,17,CR Ervine,YK Pathan,P Utseya,,0,1,1,,,,317023170
+1,Zimbabwe,17,P Utseya,YK Pathan,CR Ervine,,0,1,1,,,,317023170
+1,Zimbabwe,17,CR Ervine,YK Pathan,P Utseya,,0,0,0,,,,317023170
+1,Zimbabwe,17,CR Ervine,YK Pathan,P Utseya,,0,1,1,,,,317023170
+1,Zimbabwe,18,CR Ervine,AB Dinda,P Utseya,,0,4,4,,,,317023170
+1,Zimbabwe,18,CR Ervine,AB Dinda,P Utseya,,0,0,0,,,,317023170
+1,Zimbabwe,18,CR Ervine,AB Dinda,P Utseya,,0,0,0,bowled,CR Ervine,,317023170
+1,Zimbabwe,18,RW Price,AB Dinda,P Utseya,,0,2,2,,,,317023170
+1,Zimbabwe,18,RW Price,AB Dinda,P Utseya,,0,0,0,,,,317023170
+1,Zimbabwe,18,RW Price,AB Dinda,P Utseya,,0,0,0,bowled,RW Price,,317023170
+1,Zimbabwe,19,P Utseya,R Vinay Kumar,EC Rainsford,,0,1,1,,,,317023170
+1,Zimbabwe,19,EC Rainsford,R Vinay Kumar,P Utseya,legbyes,1,1,0,,,,317023170
+1,Zimbabwe,19,P Utseya,R Vinay Kumar,EC Rainsford,,0,0,0,bowled,P Utseya,,317023170
+1,Zimbabwe,19,CB Mpofu,R Vinay Kumar,EC Rainsford,,0,1,1,,,,317023170
+1,Zimbabwe,19,EC Rainsford,R Vinay Kumar,CB Mpofu,,0,1,1,,,,317023170
+1,Zimbabwe,19,CB Mpofu,R Vinay Kumar,EC Rainsford,,0,2,2,,,,317023170

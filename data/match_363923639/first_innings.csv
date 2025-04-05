@@ -1,0 +1,62 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Scotland,0,HG Munsey,Haseeb Amjad,KJ Coetzer,noballs,1,1,0,,,,363923639
+1,Scotland,0,HG Munsey,Haseeb Amjad,KJ Coetzer,,0,1,1,,,,363923639
+1,Scotland,0,KJ Coetzer,Haseeb Amjad,HG Munsey,,0,0,0,,,,363923639
+1,Scotland,0,KJ Coetzer,Haseeb Amjad,HG Munsey,,0,0,0,,,,363923639
+1,Scotland,0,KJ Coetzer,Haseeb Amjad,HG Munsey,,0,0,0,caught,KJ Coetzer,JJ Atkinson,363923639
+1,Scotland,0,HG Munsey,Haseeb Amjad,MH Cross,,0,0,0,,,,363923639
+1,Scotland,0,HG Munsey,Haseeb Amjad,MH Cross,,0,0,0,,,,363923639
+1,Scotland,1,MH Cross,Tanwir Afzal,HG Munsey,,0,4,4,,,,363923639
+1,Scotland,1,MH Cross,Tanwir Afzal,HG Munsey,,0,0,0,,,,363923639
+1,Scotland,1,MH Cross,Tanwir Afzal,HG Munsey,,0,2,2,,,,363923639
+1,Scotland,1,MH Cross,Tanwir Afzal,HG Munsey,,0,1,1,,,,363923639
+1,Scotland,1,HG Munsey,Tanwir Afzal,MH Cross,,0,4,4,,,,363923639
+1,Scotland,1,HG Munsey,Tanwir Afzal,MH Cross,,0,6,6,,,,363923639
+1,Scotland,2,MH Cross,Aizaz Khan,HG Munsey,,0,0,0,caught,MH Cross,JJ Atkinson,363923639
+1,Scotland,2,MW Machan,Aizaz Khan,HG Munsey,,0,2,2,,,,363923639
+1,Scotland,2,MW Machan,Aizaz Khan,HG Munsey,,0,1,1,,,,363923639
+1,Scotland,2,HG Munsey,Aizaz Khan,MW Machan,,0,1,1,,,,363923639
+1,Scotland,2,MW Machan,Aizaz Khan,HG Munsey,,0,1,1,,,,363923639
+1,Scotland,2,HG Munsey,Aizaz Khan,MW Machan,,0,4,4,,,,363923639
+1,Scotland,3,MW Machan,Tanwir Afzal,HG Munsey,,0,0,0,,,,363923639
+1,Scotland,3,MW Machan,Tanwir Afzal,HG Munsey,,0,1,1,,,,363923639
+1,Scotland,3,HG Munsey,Tanwir Afzal,MW Machan,,0,1,1,,,,363923639
+1,Scotland,3,MW Machan,Tanwir Afzal,HG Munsey,,0,1,1,,,,363923639
+1,Scotland,3,HG Munsey,Tanwir Afzal,MW Machan,,0,0,0,caught,HG Munsey,Babar Hayat,363923639
+1,Scotland,3,MW Machan,Tanwir Afzal,RD Berrington,,0,4,4,,,,363923639
+1,Scotland,4,RD Berrington,Nadeem Ahmed,MW Machan,,0,0,0,,,,363923639
+1,Scotland,4,RD Berrington,Nadeem Ahmed,MW Machan,,0,0,0,,,,363923639
+1,Scotland,4,RD Berrington,Nadeem Ahmed,MW Machan,,0,2,2,run out,MW Machan,KD Shah,363923639
+1,Scotland,4,PL Mommsen,Nadeem Ahmed,RD Berrington,,0,1,1,,,,363923639
+1,Scotland,4,RD Berrington,Nadeem Ahmed,PL Mommsen,,0,1,1,,,,363923639
+1,Scotland,4,PL Mommsen,Nadeem Ahmed,RD Berrington,,0,0,0,,,,363923639
+1,Scotland,5,RD Berrington,Anshuman Rath,PL Mommsen,,0,0,0,,,,363923639
+1,Scotland,5,RD Berrington,Anshuman Rath,PL Mommsen,,0,0,0,,,,363923639
+1,Scotland,5,RD Berrington,Anshuman Rath,PL Mommsen,,0,1,1,,,,363923639
+1,Scotland,5,PL Mommsen,Anshuman Rath,RD Berrington,,0,0,0,,,,363923639
+1,Scotland,5,PL Mommsen,Anshuman Rath,RD Berrington,,0,1,1,,,,363923639
+1,Scotland,5,RD Berrington,Anshuman Rath,PL Mommsen,,0,1,1,,,,363923639
+1,Scotland,6,RD Berrington,Nadeem Ahmed,PL Mommsen,,0,0,0,caught,RD Berrington,Waqas Barkat,363923639
+1,Scotland,6,CS MacLeod,Nadeem Ahmed,PL Mommsen,,0,1,1,,,,363923639
+1,Scotland,6,PL Mommsen,Nadeem Ahmed,CS MacLeod,,0,1,1,,,,363923639
+1,Scotland,6,CS MacLeod,Nadeem Ahmed,PL Mommsen,,0,1,1,,,,363923639
+1,Scotland,6,PL Mommsen,Nadeem Ahmed,CS MacLeod,,0,1,1,,,,363923639
+1,Scotland,6,CS MacLeod,Nadeem Ahmed,PL Mommsen,,0,1,1,,,,363923639
+1,Scotland,7,CS MacLeod,Anshuman Rath,PL Mommsen,,0,1,1,,,,363923639
+1,Scotland,7,PL Mommsen,Anshuman Rath,CS MacLeod,,0,0,0,run out,PL Mommsen,JJ Atkinson,363923639
+1,Scotland,7,CS MacLeod,Anshuman Rath,RML Taylor,,0,0,0,,,,363923639
+1,Scotland,7,CS MacLeod,Anshuman Rath,RML Taylor,,0,1,1,,,,363923639
+1,Scotland,7,RML Taylor,Anshuman Rath,CS MacLeod,,0,1,1,,,,363923639
+1,Scotland,7,CS MacLeod,Anshuman Rath,RML Taylor,,0,6,6,,,,363923639
+1,Scotland,8,RML Taylor,Haseeb Amjad,CS MacLeod,,0,1,1,,,,363923639
+1,Scotland,8,CS MacLeod,Haseeb Amjad,RML Taylor,,0,1,1,,,,363923639
+1,Scotland,8,RML Taylor,Haseeb Amjad,CS MacLeod,,0,1,1,,,,363923639
+1,Scotland,8,CS MacLeod,Haseeb Amjad,RML Taylor,,0,1,1,,,,363923639
+1,Scotland,8,RML Taylor,Haseeb Amjad,CS MacLeod,,0,2,2,,,,363923639
+1,Scotland,8,RML Taylor,Haseeb Amjad,CS MacLeod,,0,0,0,,,,363923639
+1,Scotland,9,CS MacLeod,Aizaz Khan,RML Taylor,,0,0,0,,,,363923639
+1,Scotland,9,CS MacLeod,Aizaz Khan,RML Taylor,,0,2,2,,,,363923639
+1,Scotland,9,CS MacLeod,Aizaz Khan,RML Taylor,,0,0,0,,,,363923639
+1,Scotland,9,CS MacLeod,Aizaz Khan,RML Taylor,,0,1,1,,,,363923639
+1,Scotland,9,RML Taylor,Aizaz Khan,CS MacLeod,,0,1,1,,,,363923639
+1,Scotland,9,CS MacLeod,Aizaz Khan,RML Taylor,,0,0,0,run out,CS MacLeod,Aizaz Khan,363923639

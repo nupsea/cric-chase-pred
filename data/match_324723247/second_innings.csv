@@ -1,0 +1,50 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,West Indies,0,TD Smartt,SS Weerakkody,SR Taylor,,0,4,4,,,,324723247
+2,West Indies,0,TD Smartt,SS Weerakkody,SR Taylor,,0,1,1,,,,324723247
+2,West Indies,0,SR Taylor,SS Weerakkody,TD Smartt,,0,1,1,,,,324723247
+2,West Indies,0,TD Smartt,SS Weerakkody,SR Taylor,,0,1,1,,,,324723247
+2,West Indies,0,SR Taylor,SS Weerakkody,TD Smartt,,0,0,0,,,,324723247
+2,West Indies,0,SR Taylor,SS Weerakkody,TD Smartt,,0,2,2,,,,324723247
+2,West Indies,1,TD Smartt,CR Seneviratna,SR Taylor,,0,0,0,run out,SR Taylor,I Ranaweera,324723247
+2,West Indies,1,DJS Dottin,CR Seneviratna,TD Smartt,,0,0,0,,,,324723247
+2,West Indies,1,DJS Dottin,CR Seneviratna,TD Smartt,,0,0,0,,,,324723247
+2,West Indies,1,DJS Dottin,CR Seneviratna,TD Smartt,,0,0,0,,,,324723247
+2,West Indies,1,DJS Dottin,CR Seneviratna,TD Smartt,,0,4,4,,,,324723247
+2,West Indies,1,DJS Dottin,CR Seneviratna,TD Smartt,,0,0,0,,,,324723247
+2,West Indies,2,TD Smartt,I Ranaweera,DJS Dottin,,0,1,1,,,,324723247
+2,West Indies,2,DJS Dottin,I Ranaweera,TD Smartt,,0,0,0,lbw,DJS Dottin,,324723247
+2,West Indies,2,SACA King,I Ranaweera,TD Smartt,,0,1,1,,,,324723247
+2,West Indies,2,TD Smartt,I Ranaweera,SACA King,,0,1,1,,,,324723247
+2,West Indies,2,SACA King,I Ranaweera,TD Smartt,,0,1,1,,,,324723247
+2,West Indies,2,TD Smartt,I Ranaweera,SACA King,,0,0,0,caught,TD Smartt,HASD Siriwardene,324723247
+2,West Indies,3,JB Nero,HASD Siriwardene,SACA King,,0,0,0,,,,324723247
+2,West Indies,3,JB Nero,HASD Siriwardene,SACA King,,0,1,1,,,,324723247
+2,West Indies,3,SACA King,HASD Siriwardene,JB Nero,,0,6,6,,,,324723247
+2,West Indies,3,SACA King,HASD Siriwardene,JB Nero,,0,1,1,,,,324723247
+2,West Indies,3,JB Nero,HASD Siriwardene,SACA King,,0,1,1,,,,324723247
+2,West Indies,3,SACA King,HASD Siriwardene,JB Nero,,0,1,1,,,,324723247
+2,West Indies,4,SACA King,I Ranaweera,JB Nero,,0,1,1,,,,324723247
+2,West Indies,4,JB Nero,I Ranaweera,SACA King,,0,0,0,,,,324723247
+2,West Indies,4,JB Nero,I Ranaweera,SACA King,,0,1,1,,,,324723247
+2,West Indies,4,SACA King,I Ranaweera,JB Nero,wides,1,1,0,,,,324723247
+2,West Indies,4,SACA King,I Ranaweera,JB Nero,,0,1,1,run out,SACA King,MADD Surangika,324723247
+2,West Indies,4,SF Daley,I Ranaweera,JB Nero,,0,1,1,,,,324723247
+2,West Indies,4,JB Nero,I Ranaweera,SF Daley,,0,0,0,,,,324723247
+2,West Indies,5,SF Daley,HASD Siriwardene,JB Nero,,0,0,0,,,,324723247
+2,West Indies,5,SF Daley,HASD Siriwardene,JB Nero,,0,1,1,,,,324723247
+2,West Indies,5,JB Nero,HASD Siriwardene,SF Daley,,0,1,1,,,,324723247
+2,West Indies,5,SF Daley,HASD Siriwardene,JB Nero,,0,1,1,,,,324723247
+2,West Indies,5,JB Nero,HASD Siriwardene,SF Daley,,0,0,0,,,,324723247
+2,West Indies,5,JB Nero,HASD Siriwardene,SF Daley,legbyes,1,1,0,,,,324723247
+2,West Indies,6,JB Nero,CR Seneviratna,SF Daley,,0,0,0,,,,324723247
+2,West Indies,6,JB Nero,CR Seneviratna,SF Daley,,0,0,0,stumped,JB Nero,MADD Surangika,324723247
+2,West Indies,6,MR Aguilleira,CR Seneviratna,SF Daley,,0,0,0,run out,SF Daley,LE Kaushalya,324723247
+2,West Indies,6,SA Campbelle,CR Seneviratna,MR Aguilleira,,0,0,0,,,,324723247
+2,West Indies,6,SA Campbelle,CR Seneviratna,MR Aguilleira,,0,0,0,stumped,SA Campbelle,MADD Surangika,324723247
+2,West Indies,6,B Cooper,CR Seneviratna,MR Aguilleira,,0,0,0,,,,324723247
+2,West Indies,7,MR Aguilleira,LE Kaushalya,B Cooper,,0,1,1,,,,324723247
+2,West Indies,7,B Cooper,LE Kaushalya,MR Aguilleira,,0,1,1,,,,324723247
+2,West Indies,7,MR Aguilleira,LE Kaushalya,B Cooper,byes,1,1,0,,,,324723247
+2,West Indies,7,B Cooper,LE Kaushalya,MR Aguilleira,,0,0,0,run out,MR Aguilleira,MADD Surangika,324723247
+2,West Indies,7,A Mohammed,LE Kaushalya,B Cooper,byes,1,1,0,,,,324723247
+2,West Indies,7,B Cooper,LE Kaushalya,A Mohammed,,0,2,2,,,,324723247

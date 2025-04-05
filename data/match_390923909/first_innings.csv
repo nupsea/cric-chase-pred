@@ -1,0 +1,131 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Sri Lanka,0,BYA Mendis,M Kapp,AC Jayangani,,0,0,0,,,,390923909
+1,Sri Lanka,0,BYA Mendis,M Kapp,AC Jayangani,,0,1,1,,,,390923909
+1,Sri Lanka,0,AC Jayangani,M Kapp,BYA Mendis,,0,0,0,,,,390923909
+1,Sri Lanka,0,AC Jayangani,M Kapp,BYA Mendis,,0,1,1,,,,390923909
+1,Sri Lanka,0,BYA Mendis,M Kapp,AC Jayangani,,0,0,0,,,,390923909
+1,Sri Lanka,0,BYA Mendis,M Kapp,AC Jayangani,,0,0,0,,,,390923909
+1,Sri Lanka,1,AC Jayangani,S Ismail,BYA Mendis,,0,0,0,,,,390923909
+1,Sri Lanka,1,AC Jayangani,S Ismail,BYA Mendis,,0,0,0,,,,390923909
+1,Sri Lanka,1,AC Jayangani,S Ismail,BYA Mendis,,0,0,0,,,,390923909
+1,Sri Lanka,1,AC Jayangani,S Ismail,BYA Mendis,,0,0,0,,,,390923909
+1,Sri Lanka,1,AC Jayangani,S Ismail,BYA Mendis,,0,0,0,,,,390923909
+1,Sri Lanka,1,AC Jayangani,S Ismail,BYA Mendis,,0,1,1,,,,390923909
+1,Sri Lanka,2,AC Jayangani,M Kapp,BYA Mendis,,0,1,1,,,,390923909
+1,Sri Lanka,2,BYA Mendis,M Kapp,AC Jayangani,,0,0,0,,,,390923909
+1,Sri Lanka,2,BYA Mendis,M Kapp,AC Jayangani,legbyes,1,1,0,,,,390923909
+1,Sri Lanka,2,AC Jayangani,M Kapp,BYA Mendis,,0,0,0,lbw,AC Jayangani,,390923909
+1,Sri Lanka,2,GWHM Perera,M Kapp,BYA Mendis,,0,0,0,,,,390923909
+1,Sri Lanka,2,GWHM Perera,M Kapp,BYA Mendis,,0,0,0,,,,390923909
+1,Sri Lanka,3,BYA Mendis,S Ismail,GWHM Perera,,0,0,0,,,,390923909
+1,Sri Lanka,3,BYA Mendis,S Ismail,GWHM Perera,,0,0,0,bowled,BYA Mendis,,390923909
+1,Sri Lanka,3,HASD Siriwardene,S Ismail,GWHM Perera,wides,1,1,0,,,,390923909
+1,Sri Lanka,3,HASD Siriwardene,S Ismail,GWHM Perera,,0,0,0,,,,390923909
+1,Sri Lanka,3,HASD Siriwardene,S Ismail,GWHM Perera,,0,0,0,,,,390923909
+1,Sri Lanka,3,HASD Siriwardene,S Ismail,GWHM Perera,wides,5,5,0,,,,390923909
+1,Sri Lanka,3,HASD Siriwardene,S Ismail,GWHM Perera,,0,0,0,,,,390923909
+1,Sri Lanka,3,HASD Siriwardene,S Ismail,GWHM Perera,,0,0,0,,,,390923909
+1,Sri Lanka,4,GWHM Perera,M Kapp,HASD Siriwardene,,0,0,0,,,,390923909
+1,Sri Lanka,4,GWHM Perera,M Kapp,HASD Siriwardene,,0,1,1,,,,390923909
+1,Sri Lanka,4,HASD Siriwardene,M Kapp,GWHM Perera,,0,0,0,,,,390923909
+1,Sri Lanka,4,HASD Siriwardene,M Kapp,GWHM Perera,,0,0,0,,,,390923909
+1,Sri Lanka,4,HASD Siriwardene,M Kapp,GWHM Perera,,0,0,0,,,,390923909
+1,Sri Lanka,4,HASD Siriwardene,M Kapp,GWHM Perera,,0,2,2,,,,390923909
+1,Sri Lanka,5,GWHM Perera,S Ismail,HASD Siriwardene,,0,0,0,,,,390923909
+1,Sri Lanka,5,GWHM Perera,S Ismail,HASD Siriwardene,,0,1,1,,,,390923909
+1,Sri Lanka,5,HASD Siriwardene,S Ismail,GWHM Perera,,0,1,1,,,,390923909
+1,Sri Lanka,5,GWHM Perera,S Ismail,HASD Siriwardene,,0,0,0,,,,390923909
+1,Sri Lanka,5,GWHM Perera,S Ismail,HASD Siriwardene,,0,0,0,,,,390923909
+1,Sri Lanka,5,GWHM Perera,S Ismail,HASD Siriwardene,,0,0,0,,,,390923909
+1,Sri Lanka,6,HASD Siriwardene,M Klaas,GWHM Perera,,0,0,0,,,,390923909
+1,Sri Lanka,6,HASD Siriwardene,M Klaas,GWHM Perera,,0,0,0,,,,390923909
+1,Sri Lanka,6,HASD Siriwardene,M Klaas,GWHM Perera,,0,1,1,,,,390923909
+1,Sri Lanka,6,GWHM Perera,M Klaas,HASD Siriwardene,,0,0,0,,,,390923909
+1,Sri Lanka,6,GWHM Perera,M Klaas,HASD Siriwardene,,0,0,0,,,,390923909
+1,Sri Lanka,6,GWHM Perera,M Klaas,HASD Siriwardene,,0,4,4,,,,390923909
+1,Sri Lanka,7,HASD Siriwardene,M Daniels,GWHM Perera,,0,4,4,,,,390923909
+1,Sri Lanka,7,HASD Siriwardene,M Daniels,GWHM Perera,,0,0,0,,,,390923909
+1,Sri Lanka,7,HASD Siriwardene,M Daniels,GWHM Perera,,0,0,0,,,,390923909
+1,Sri Lanka,7,HASD Siriwardene,M Daniels,GWHM Perera,,0,1,1,,,,390923909
+1,Sri Lanka,7,GWHM Perera,M Daniels,HASD Siriwardene,,0,0,0,caught,GWHM Perera,M Kapp,390923909
+1,Sri Lanka,7,OU Ranasinghe,M Daniels,HASD Siriwardene,wides,1,1,0,,,,390923909
+1,Sri Lanka,7,OU Ranasinghe,M Daniels,HASD Siriwardene,,0,0,0,,,,390923909
+1,Sri Lanka,8,HASD Siriwardene,M Klaas,OU Ranasinghe,,0,0,0,,,,390923909
+1,Sri Lanka,8,HASD Siriwardene,M Klaas,OU Ranasinghe,,0,0,0,,,,390923909
+1,Sri Lanka,8,HASD Siriwardene,M Klaas,OU Ranasinghe,,0,0,0,,,,390923909
+1,Sri Lanka,8,HASD Siriwardene,M Klaas,OU Ranasinghe,,0,1,1,,,,390923909
+1,Sri Lanka,8,OU Ranasinghe,M Klaas,HASD Siriwardene,wides,1,1,0,,,,390923909
+1,Sri Lanka,8,OU Ranasinghe,M Klaas,HASD Siriwardene,,0,1,1,,,,390923909
+1,Sri Lanka,8,HASD Siriwardene,M Klaas,OU Ranasinghe,,0,6,6,,,,390923909
+1,Sri Lanka,9,OU Ranasinghe,M Daniels,HASD Siriwardene,wides,1,1,0,,,,390923909
+1,Sri Lanka,9,OU Ranasinghe,M Daniels,HASD Siriwardene,,0,0,0,,,,390923909
+1,Sri Lanka,9,OU Ranasinghe,M Daniels,HASD Siriwardene,,0,0,0,,,,390923909
+1,Sri Lanka,9,OU Ranasinghe,M Daniels,HASD Siriwardene,,0,0,0,,,,390923909
+1,Sri Lanka,9,OU Ranasinghe,M Daniels,HASD Siriwardene,,0,1,1,,,,390923909
+1,Sri Lanka,9,HASD Siriwardene,M Daniels,OU Ranasinghe,,0,4,4,,,,390923909
+1,Sri Lanka,9,HASD Siriwardene,M Daniels,OU Ranasinghe,,0,0,0,,,,390923909
+1,Sri Lanka,10,OU Ranasinghe,D van Niekerk,HASD Siriwardene,,0,0,0,,,,390923909
+1,Sri Lanka,10,OU Ranasinghe,D van Niekerk,HASD Siriwardene,,0,1,1,,,,390923909
+1,Sri Lanka,10,HASD Siriwardene,D van Niekerk,OU Ranasinghe,,0,0,0,,,,390923909
+1,Sri Lanka,10,HASD Siriwardene,D van Niekerk,OU Ranasinghe,,0,1,1,,,,390923909
+1,Sri Lanka,10,OU Ranasinghe,D van Niekerk,HASD Siriwardene,,0,0,0,,,,390923909
+1,Sri Lanka,10,OU Ranasinghe,D van Niekerk,HASD Siriwardene,,0,0,0,,,,390923909
+1,Sri Lanka,11,HASD Siriwardene,TS Sekhukhune,OU Ranasinghe,,0,0,0,,,,390923909
+1,Sri Lanka,11,HASD Siriwardene,TS Sekhukhune,OU Ranasinghe,,0,0,0,bowled,HASD Siriwardene,,390923909
+1,Sri Lanka,11,NND de Silva,TS Sekhukhune,OU Ranasinghe,,0,1,1,,,,390923909
+1,Sri Lanka,11,OU Ranasinghe,TS Sekhukhune,NND de Silva,,0,0,0,,,,390923909
+1,Sri Lanka,11,OU Ranasinghe,TS Sekhukhune,NND de Silva,,0,0,0,,,,390923909
+1,Sri Lanka,11,OU Ranasinghe,TS Sekhukhune,NND de Silva,,0,1,1,,,,390923909
+1,Sri Lanka,12,OU Ranasinghe,D van Niekerk,NND de Silva,,0,0,0,,,,390923909
+1,Sri Lanka,12,OU Ranasinghe,D van Niekerk,NND de Silva,,0,1,1,,,,390923909
+1,Sri Lanka,12,NND de Silva,D van Niekerk,OU Ranasinghe,,0,0,0,,,,390923909
+1,Sri Lanka,12,NND de Silva,D van Niekerk,OU Ranasinghe,,0,0,0,,,,390923909
+1,Sri Lanka,12,NND de Silva,D van Niekerk,OU Ranasinghe,,0,1,1,,,,390923909
+1,Sri Lanka,12,OU Ranasinghe,D van Niekerk,NND de Silva,,0,0,0,caught,OU Ranasinghe,L Lee,390923909
+1,Sri Lanka,13,NND de Silva,TS Sekhukhune,LE Kaushalya,,0,1,1,,,,390923909
+1,Sri Lanka,13,LE Kaushalya,TS Sekhukhune,NND de Silva,,0,0,0,,,,390923909
+1,Sri Lanka,13,LE Kaushalya,TS Sekhukhune,NND de Silva,,0,1,1,,,,390923909
+1,Sri Lanka,13,NND de Silva,TS Sekhukhune,LE Kaushalya,,0,1,1,,,,390923909
+1,Sri Lanka,13,LE Kaushalya,TS Sekhukhune,NND de Silva,,0,0,0,,,,390923909
+1,Sri Lanka,13,LE Kaushalya,TS Sekhukhune,NND de Silva,,0,0,0,,,,390923909
+1,Sri Lanka,14,NND de Silva,D van Niekerk,LE Kaushalya,,0,0,0,,,,390923909
+1,Sri Lanka,14,NND de Silva,D van Niekerk,LE Kaushalya,,0,0,0,,,,390923909
+1,Sri Lanka,14,NND de Silva,D van Niekerk,LE Kaushalya,,0,1,1,,,,390923909
+1,Sri Lanka,14,LE Kaushalya,D van Niekerk,NND de Silva,,0,0,0,,,,390923909
+1,Sri Lanka,14,LE Kaushalya,D van Niekerk,NND de Silva,,0,1,1,,,,390923909
+1,Sri Lanka,14,NND de Silva,D van Niekerk,LE Kaushalya,,0,1,1,,,,390923909
+1,Sri Lanka,15,NND de Silva,TS Sekhukhune,LE Kaushalya,wides,5,5,0,,,,390923909
+1,Sri Lanka,15,NND de Silva,TS Sekhukhune,LE Kaushalya,,0,0,0,,,,390923909
+1,Sri Lanka,15,NND de Silva,TS Sekhukhune,LE Kaushalya,,0,1,1,,,,390923909
+1,Sri Lanka,15,LE Kaushalya,TS Sekhukhune,NND de Silva,wides,1,1,0,,,,390923909
+1,Sri Lanka,15,LE Kaushalya,TS Sekhukhune,NND de Silva,legbyes,1,1,0,,,,390923909
+1,Sri Lanka,15,NND de Silva,TS Sekhukhune,LE Kaushalya,,0,1,1,,,,390923909
+1,Sri Lanka,15,LE Kaushalya,TS Sekhukhune,NND de Silva,,0,1,1,,,,390923909
+1,Sri Lanka,15,NND de Silva,TS Sekhukhune,LE Kaushalya,,0,1,1,,,,390923909
+1,Sri Lanka,16,NND de Silva,M Klaas,LE Kaushalya,,0,1,1,,,,390923909
+1,Sri Lanka,16,LE Kaushalya,M Klaas,NND de Silva,,0,1,1,,,,390923909
+1,Sri Lanka,16,NND de Silva,M Klaas,LE Kaushalya,,0,0,0,bowled,NND de Silva,,390923909
+1,Sri Lanka,16,MADD Surangika,M Klaas,LE Kaushalya,,0,4,4,,,,390923909
+1,Sri Lanka,16,MADD Surangika,M Klaas,LE Kaushalya,,0,1,1,,,,390923909
+1,Sri Lanka,16,LE Kaushalya,M Klaas,MADD Surangika,wides,1,1,0,,,,390923909
+1,Sri Lanka,16,LE Kaushalya,M Klaas,MADD Surangika,,0,1,1,,,,390923909
+1,Sri Lanka,17,LE Kaushalya,TS Sekhukhune,MADD Surangika,byes,1,1,0,,,,390923909
+1,Sri Lanka,17,MADD Surangika,TS Sekhukhune,LE Kaushalya,,0,4,4,,,,390923909
+1,Sri Lanka,17,MADD Surangika,TS Sekhukhune,LE Kaushalya,,0,4,4,,,,390923909
+1,Sri Lanka,17,MADD Surangika,TS Sekhukhune,LE Kaushalya,,0,0,0,,,,390923909
+1,Sri Lanka,17,MADD Surangika,TS Sekhukhune,LE Kaushalya,wides,1,1,0,,,,390923909
+1,Sri Lanka,17,MADD Surangika,TS Sekhukhune,LE Kaushalya,,0,4,4,,,,390923909
+1,Sri Lanka,17,MADD Surangika,TS Sekhukhune,LE Kaushalya,,0,1,1,,,,390923909
+1,Sri Lanka,18,MADD Surangika,M Kapp,LE Kaushalya,,0,0,0,,,,390923909
+1,Sri Lanka,18,MADD Surangika,M Kapp,LE Kaushalya,,0,1,1,,,,390923909
+1,Sri Lanka,18,LE Kaushalya,M Kapp,MADD Surangika,,0,0,0,,,,390923909
+1,Sri Lanka,18,LE Kaushalya,M Kapp,MADD Surangika,,0,4,4,,,,390923909
+1,Sri Lanka,18,LE Kaushalya,M Kapp,MADD Surangika,,0,0,0,,,,390923909
+1,Sri Lanka,18,LE Kaushalya,M Kapp,MADD Surangika,wides,2,2,0,,,,390923909
+1,Sri Lanka,18,MADD Surangika,M Kapp,LE Kaushalya,legbyes,1,1,0,,,,390923909
+1,Sri Lanka,19,MADD Surangika,S Ismail,LE Kaushalya,,0,0,0,,,,390923909
+1,Sri Lanka,19,MADD Surangika,S Ismail,LE Kaushalya,,0,1,1,,,,390923909
+1,Sri Lanka,19,LE Kaushalya,S Ismail,MADD Surangika,,0,0,0,bowled,LE Kaushalya,,390923909
+1,Sri Lanka,19,SS Weerakkody,S Ismail,MADD Surangika,,0,0,0,,,,390923909
+1,Sri Lanka,19,SS Weerakkody,S Ismail,MADD Surangika,,0,0,0,bowled,SS Weerakkody,,390923909
+1,Sri Lanka,19,KDU Prabodhani,S Ismail,MADD Surangika,byes,1,1,0,,,,390923909

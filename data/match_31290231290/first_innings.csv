@@ -1,0 +1,121 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Canada,0,RA Thomas,IO Okpe,NS Dhaliwal,,0,4,4,,,,31290231290
+1,Canada,0,RA Thomas,IO Okpe,NS Dhaliwal,,0,4,4,,,,31290231290
+1,Canada,0,RA Thomas,IO Okpe,NS Dhaliwal,,0,1,1,,,,31290231290
+1,Canada,0,NS Dhaliwal,IO Okpe,RA Thomas,,0,1,1,,,,31290231290
+1,Canada,0,RA Thomas,IO Okpe,NS Dhaliwal,,0,1,1,,,,31290231290
+1,Canada,0,NS Dhaliwal,IO Okpe,RA Thomas,,0,0,0,,,,31290231290
+1,Canada,1,RA Thomas,CM Akachukwu,NS Dhaliwal,,0,1,1,,,,31290231290
+1,Canada,1,NS Dhaliwal,CM Akachukwu,RA Thomas,,0,0,0,,,,31290231290
+1,Canada,1,NS Dhaliwal,CM Akachukwu,RA Thomas,,0,0,0,,,,31290231290
+1,Canada,1,NS Dhaliwal,CM Akachukwu,RA Thomas,,0,1,1,,,,31290231290
+1,Canada,1,RA Thomas,CM Akachukwu,NS Dhaliwal,,0,1,1,,,,31290231290
+1,Canada,1,NS Dhaliwal,CM Akachukwu,RA Thomas,,0,2,2,,,,31290231290
+1,Canada,2,RA Thomas,IO Okpe,NS Dhaliwal,,0,0,0,,,,31290231290
+1,Canada,2,RA Thomas,IO Okpe,NS Dhaliwal,,0,0,0,,,,31290231290
+1,Canada,2,RA Thomas,IO Okpe,NS Dhaliwal,,0,1,1,,,,31290231290
+1,Canada,2,NS Dhaliwal,IO Okpe,RA Thomas,,0,4,4,,,,31290231290
+1,Canada,2,NS Dhaliwal,IO Okpe,RA Thomas,,0,0,0,,,,31290231290
+1,Canada,2,NS Dhaliwal,IO Okpe,RA Thomas,,0,0,0,,,,31290231290
+1,Canada,3,RA Thomas,CM Akachukwu,NS Dhaliwal,,0,0,0,,,,31290231290
+1,Canada,3,RA Thomas,CM Akachukwu,NS Dhaliwal,,0,1,1,,,,31290231290
+1,Canada,3,NS Dhaliwal,CM Akachukwu,RA Thomas,,0,4,4,,,,31290231290
+1,Canada,3,NS Dhaliwal,CM Akachukwu,RA Thomas,,0,0,0,caught,NS Dhaliwal,CN Onwuzulike,31290231290
+1,Canada,3,NR Kumar,CM Akachukwu,RA Thomas,,0,1,1,,,,31290231290
+1,Canada,3,RA Thomas,CM Akachukwu,NR Kumar,,0,1,1,,,,31290231290
+1,Canada,4,RA Thomas,D Gim,NR Kumar,,0,2,2,,,,31290231290
+1,Canada,4,RA Thomas,D Gim,NR Kumar,,0,1,1,,,,31290231290
+1,Canada,4,NR Kumar,D Gim,RA Thomas,,0,0,0,,,,31290231290
+1,Canada,4,NR Kumar,D Gim,RA Thomas,,0,4,4,,,,31290231290
+1,Canada,4,NR Kumar,D Gim,RA Thomas,,0,2,2,,,,31290231290
+1,Canada,4,NR Kumar,D Gim,RA Thomas,,0,4,4,,,,31290231290
+1,Canada,5,RA Thomas,CM Akachukwu,NR Kumar,,0,0,0,bowled,RA Thomas,,31290231290
+1,Canada,5,NR Kirton,CM Akachukwu,NR Kumar,,0,1,1,,,,31290231290
+1,Canada,5,NR Kumar,CM Akachukwu,NR Kirton,,0,1,1,,,,31290231290
+1,Canada,5,NR Kirton,CM Akachukwu,NR Kumar,,0,0,0,,,,31290231290
+1,Canada,5,NR Kirton,CM Akachukwu,NR Kumar,,0,0,0,,,,31290231290
+1,Canada,5,NR Kirton,CM Akachukwu,NR Kumar,,0,1,1,,,,31290231290
+1,Canada,6,NR Kirton,D Gim,NR Kumar,,0,0,0,,,,31290231290
+1,Canada,6,NR Kirton,D Gim,NR Kumar,,0,1,1,,,,31290231290
+1,Canada,6,NR Kumar,D Gim,NR Kirton,,0,2,2,,,,31290231290
+1,Canada,6,NR Kumar,D Gim,NR Kirton,,0,3,3,,,,31290231290
+1,Canada,6,NR Kirton,D Gim,NR Kumar,,0,0,0,,,,31290231290
+1,Canada,6,NR Kirton,D Gim,NR Kumar,,0,2,2,,,,31290231290
+1,Canada,7,NR Kumar,AS Abioye,NR Kirton,,0,2,2,,,,31290231290
+1,Canada,7,NR Kumar,AS Abioye,NR Kirton,,0,1,1,,,,31290231290
+1,Canada,7,NR Kirton,AS Abioye,NR Kumar,,0,0,0,,,,31290231290
+1,Canada,7,NR Kirton,AS Abioye,NR Kumar,,0,4,4,,,,31290231290
+1,Canada,7,NR Kirton,AS Abioye,NR Kumar,,0,0,0,caught,NR Kirton,AA Onikoyi,31290231290
+1,Canada,7,Abraash Khan,AS Abioye,NR Kumar,,0,0,0,,,,31290231290
+1,Canada,8,NR Kumar,D Ajekun,Abraash Khan,,0,1,1,,,,31290231290
+1,Canada,8,Abraash Khan,D Ajekun,NR Kumar,,0,1,1,,,,31290231290
+1,Canada,8,NR Kumar,D Ajekun,Abraash Khan,,0,1,1,,,,31290231290
+1,Canada,8,Abraash Khan,D Ajekun,NR Kumar,,0,0,0,,,,31290231290
+1,Canada,8,Abraash Khan,D Ajekun,NR Kumar,,0,0,0,,,,31290231290
+1,Canada,8,Abraash Khan,D Ajekun,NR Kumar,,0,0,0,,,,31290231290
+1,Canada,9,NR Kumar,AS Abioye,Abraash Khan,,0,4,4,,,,31290231290
+1,Canada,9,NR Kumar,AS Abioye,Abraash Khan,,0,1,1,,,,31290231290
+1,Canada,9,Abraash Khan,AS Abioye,NR Kumar,,0,4,4,,,,31290231290
+1,Canada,9,Abraash Khan,AS Abioye,NR Kumar,,0,2,2,,,,31290231290
+1,Canada,9,Abraash Khan,AS Abioye,NR Kumar,,0,1,1,,,,31290231290
+1,Canada,9,NR Kumar,AS Abioye,Abraash Khan,,0,1,1,,,,31290231290
+1,Canada,10,NR Kumar,D Ajekun,Abraash Khan,,0,1,1,,,,31290231290
+1,Canada,10,Abraash Khan,D Ajekun,NR Kumar,,0,2,2,,,,31290231290
+1,Canada,10,Abraash Khan,D Ajekun,NR Kumar,,0,1,1,,,,31290231290
+1,Canada,10,NR Kumar,D Ajekun,Abraash Khan,,0,0,0,,,,31290231290
+1,Canada,10,NR Kumar,D Ajekun,Abraash Khan,,0,1,1,,,,31290231290
+1,Canada,10,Abraash Khan,D Ajekun,NR Kumar,,0,1,1,,,,31290231290
+1,Canada,11,Abraash Khan,SA Okpe,NR Kumar,,0,0,0,,,,31290231290
+1,Canada,11,Abraash Khan,SA Okpe,NR Kumar,,0,1,1,,,,31290231290
+1,Canada,11,NR Kumar,SA Okpe,Abraash Khan,,0,0,0,,,,31290231290
+1,Canada,11,NR Kumar,SA Okpe,Abraash Khan,,0,4,4,,,,31290231290
+1,Canada,11,NR Kumar,SA Okpe,Abraash Khan,,0,1,1,,,,31290231290
+1,Canada,11,Abraash Khan,SA Okpe,NR Kumar,,0,1,1,,,,31290231290
+1,Canada,12,Abraash Khan,D Gim,NR Kumar,,0,0,0,,,,31290231290
+1,Canada,12,Abraash Khan,D Gim,NR Kumar,,0,2,2,,,,31290231290
+1,Canada,12,Abraash Khan,D Gim,NR Kumar,,0,0,0,,,,31290231290
+1,Canada,12,Abraash Khan,D Gim,NR Kumar,,0,0,0,,,,31290231290
+1,Canada,12,Abraash Khan,D Gim,NR Kumar,,0,0,0,caught,Abraash Khan,CN Onwuzulike,31290231290
+1,Canada,12,NR Kumar,D Gim,Ravinderpal Singh,,0,1,1,,,,31290231290
+1,Canada,13,NR Kumar,SA Okpe,Ravinderpal Singh,,0,0,0,,,,31290231290
+1,Canada,13,NR Kumar,SA Okpe,Ravinderpal Singh,,0,1,1,,,,31290231290
+1,Canada,13,Ravinderpal Singh,SA Okpe,NR Kumar,,0,0,0,,,,31290231290
+1,Canada,13,Ravinderpal Singh,SA Okpe,NR Kumar,,0,0,0,,,,31290231290
+1,Canada,13,Ravinderpal Singh,SA Okpe,NR Kumar,,0,1,1,,,,31290231290
+1,Canada,13,NR Kumar,SA Okpe,Ravinderpal Singh,,0,0,0,,,,31290231290
+1,Canada,14,Ravinderpal Singh,D Ajekun,NR Kumar,,0,1,1,,,,31290231290
+1,Canada,14,NR Kumar,D Ajekun,Ravinderpal Singh,,0,0,0,,,,31290231290
+1,Canada,14,NR Kumar,D Ajekun,Ravinderpal Singh,,0,2,2,,,,31290231290
+1,Canada,14,NR Kumar,D Ajekun,Ravinderpal Singh,,0,1,1,,,,31290231290
+1,Canada,14,Ravinderpal Singh,D Ajekun,NR Kumar,,0,1,1,,,,31290231290
+1,Canada,14,NR Kumar,D Ajekun,Ravinderpal Singh,,0,2,2,,,,31290231290
+1,Canada,15,Ravinderpal Singh,SA Okpe,NR Kumar,,0,0,0,caught and bowled,Ravinderpal Singh,,31290231290
+1,Canada,15,NR Kumar,SA Okpe,Saad Bin Zafar,,0,1,1,,,,31290231290
+1,Canada,15,Saad Bin Zafar,SA Okpe,NR Kumar,,0,4,4,,,,31290231290
+1,Canada,15,Saad Bin Zafar,SA Okpe,NR Kumar,,0,4,4,,,,31290231290
+1,Canada,15,Saad Bin Zafar,SA Okpe,NR Kumar,,0,0,0,,,,31290231290
+1,Canada,15,Saad Bin Zafar,SA Okpe,NR Kumar,,0,1,1,,,,31290231290
+1,Canada,16,Saad Bin Zafar,D Ajekun,NR Kumar,,0,2,2,,,,31290231290
+1,Canada,16,Saad Bin Zafar,D Ajekun,NR Kumar,,0,0,0,lbw,Saad Bin Zafar,,31290231290
+1,Canada,16,Hamza Tariq,D Ajekun,NR Kumar,,0,2,2,,,,31290231290
+1,Canada,16,Hamza Tariq,D Ajekun,NR Kumar,,0,2,2,,,,31290231290
+1,Canada,16,Hamza Tariq,D Ajekun,NR Kumar,,0,1,1,,,,31290231290
+1,Canada,16,NR Kumar,D Ajekun,Hamza Tariq,,0,0,0,,,,31290231290
+1,Canada,17,Hamza Tariq,CM Akachukwu,NR Kumar,,0,1,1,,,,31290231290
+1,Canada,17,NR Kumar,CM Akachukwu,Hamza Tariq,,0,6,6,,,,31290231290
+1,Canada,17,NR Kumar,CM Akachukwu,Hamza Tariq,,0,4,4,,,,31290231290
+1,Canada,17,NR Kumar,CM Akachukwu,Hamza Tariq,,0,1,1,,,,31290231290
+1,Canada,17,Hamza Tariq,CM Akachukwu,NR Kumar,,0,6,6,,,,31290231290
+1,Canada,17,Hamza Tariq,CM Akachukwu,NR Kumar,,0,1,1,,,,31290231290
+1,Canada,18,Hamza Tariq,IO Okpe,NR Kumar,,0,6,6,,,,31290231290
+1,Canada,18,Hamza Tariq,IO Okpe,NR Kumar,,0,2,2,,,,31290231290
+1,Canada,18,Hamza Tariq,IO Okpe,NR Kumar,,0,2,2,,,,31290231290
+1,Canada,18,Hamza Tariq,IO Okpe,NR Kumar,,0,0,0,,,,31290231290
+1,Canada,18,Hamza Tariq,IO Okpe,NR Kumar,,0,6,6,,,,31290231290
+1,Canada,18,Hamza Tariq,IO Okpe,NR Kumar,,0,1,1,,,,31290231290
+1,Canada,19,Hamza Tariq,AS Abioye,NR Kumar,,0,1,1,,,,31290231290
+1,Canada,19,NR Kumar,AS Abioye,Hamza Tariq,,0,2,2,,,,31290231290
+1,Canada,19,NR Kumar,AS Abioye,Hamza Tariq,,0,1,1,,,,31290231290
+1,Canada,19,Hamza Tariq,AS Abioye,NR Kumar,,0,0,0,,,,31290231290
+1,Canada,19,Hamza Tariq,AS Abioye,NR Kumar,,0,2,2,,,,31290231290
+1,Canada,19,Hamza Tariq,AS Abioye,NR Kumar,,0,0,0,caught,Hamza Tariq,CN Onwuzulike,31290231290

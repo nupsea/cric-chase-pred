@@ -1,0 +1,128 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Zimbabwe,0,T Marumani,Taskin Ahmed,W Madhevere,,0,3,3,,,,31565231565
+1,Zimbabwe,0,W Madhevere,Taskin Ahmed,T Marumani,,0,0,0,,,,31565231565
+1,Zimbabwe,0,W Madhevere,Taskin Ahmed,T Marumani,,0,0,0,,,,31565231565
+1,Zimbabwe,0,W Madhevere,Taskin Ahmed,T Marumani,,0,1,1,,,,31565231565
+1,Zimbabwe,0,T Marumani,Taskin Ahmed,W Madhevere,,0,0,0,,,,31565231565
+1,Zimbabwe,0,T Marumani,Taskin Ahmed,W Madhevere,,0,0,0,,,,31565231565
+1,Zimbabwe,1,W Madhevere,Mahedi Hasan,T Marumani,,0,6,6,,,,31565231565
+1,Zimbabwe,1,W Madhevere,Mahedi Hasan,T Marumani,,0,4,4,,,,31565231565
+1,Zimbabwe,1,W Madhevere,Mahedi Hasan,T Marumani,,0,1,1,,,,31565231565
+1,Zimbabwe,1,T Marumani,Mahedi Hasan,W Madhevere,,0,0,0,,,,31565231565
+1,Zimbabwe,1,T Marumani,Mahedi Hasan,W Madhevere,,0,0,0,bowled,T Marumani,,31565231565
+1,Zimbabwe,1,RW Chakabva,Mahedi Hasan,W Madhevere,,0,0,0,,,,31565231565
+1,Zimbabwe,2,W Madhevere,Taskin Ahmed,RW Chakabva,,0,0,0,,,,31565231565
+1,Zimbabwe,2,W Madhevere,Taskin Ahmed,RW Chakabva,,0,1,1,,,,31565231565
+1,Zimbabwe,2,RW Chakabva,Taskin Ahmed,W Madhevere,,0,1,1,,,,31565231565
+1,Zimbabwe,2,W Madhevere,Taskin Ahmed,RW Chakabva,,0,4,4,,,,31565231565
+1,Zimbabwe,2,W Madhevere,Taskin Ahmed,RW Chakabva,wides,1,1,0,,,,31565231565
+1,Zimbabwe,2,W Madhevere,Taskin Ahmed,RW Chakabva,,0,0,0,,,,31565231565
+1,Zimbabwe,2,W Madhevere,Taskin Ahmed,RW Chakabva,,0,0,0,,,,31565231565
+1,Zimbabwe,3,RW Chakabva,Shoriful Islam,W Madhevere,,0,6,6,,,,31565231565
+1,Zimbabwe,3,RW Chakabva,Shoriful Islam,W Madhevere,,0,1,1,,,,31565231565
+1,Zimbabwe,3,W Madhevere,Shoriful Islam,RW Chakabva,,0,0,0,,,,31565231565
+1,Zimbabwe,3,W Madhevere,Shoriful Islam,RW Chakabva,,0,0,0,,,,31565231565
+1,Zimbabwe,3,W Madhevere,Shoriful Islam,RW Chakabva,,0,4,4,,,,31565231565
+1,Zimbabwe,3,W Madhevere,Shoriful Islam,RW Chakabva,,0,0,0,,,,31565231565
+1,Zimbabwe,4,RW Chakabva,Mohammad Saifuddin,W Madhevere,,0,0,0,,,,31565231565
+1,Zimbabwe,4,RW Chakabva,Mohammad Saifuddin,W Madhevere,,0,1,1,,,,31565231565
+1,Zimbabwe,4,W Madhevere,Mohammad Saifuddin,RW Chakabva,,0,1,1,,,,31565231565
+1,Zimbabwe,4,RW Chakabva,Mohammad Saifuddin,W Madhevere,,0,1,1,,,,31565231565
+1,Zimbabwe,4,W Madhevere,Mohammad Saifuddin,RW Chakabva,,0,1,1,,,,31565231565
+1,Zimbabwe,4,RW Chakabva,Mohammad Saifuddin,W Madhevere,,0,4,4,,,,31565231565
+1,Zimbabwe,5,W Madhevere,Shakib Al Hasan,RW Chakabva,,0,1,1,,,,31565231565
+1,Zimbabwe,5,RW Chakabva,Shakib Al Hasan,W Madhevere,,0,0,0,caught,RW Chakabva,Shoriful Islam,31565231565
+1,Zimbabwe,5,D Myers,Shakib Al Hasan,W Madhevere,,0,1,1,,,,31565231565
+1,Zimbabwe,5,W Madhevere,Shakib Al Hasan,D Myers,,0,0,0,,,,31565231565
+1,Zimbabwe,5,W Madhevere,Shakib Al Hasan,D Myers,,0,1,1,,,,31565231565
+1,Zimbabwe,5,D Myers,Shakib Al Hasan,W Madhevere,,0,4,4,,,,31565231565
+1,Zimbabwe,6,W Madhevere,Soumya Sarkar,D Myers,wides,1,1,0,,,,31565231565
+1,Zimbabwe,6,W Madhevere,Soumya Sarkar,D Myers,,0,1,1,,,,31565231565
+1,Zimbabwe,6,D Myers,Soumya Sarkar,W Madhevere,,0,1,1,,,,31565231565
+1,Zimbabwe,6,W Madhevere,Soumya Sarkar,D Myers,,0,1,1,,,,31565231565
+1,Zimbabwe,6,D Myers,Soumya Sarkar,W Madhevere,,0,1,1,,,,31565231565
+1,Zimbabwe,6,W Madhevere,Soumya Sarkar,D Myers,,0,1,1,,,,31565231565
+1,Zimbabwe,6,D Myers,Soumya Sarkar,W Madhevere,,0,0,0,,,,31565231565
+1,Zimbabwe,7,W Madhevere,Shamim Hossain,D Myers,,0,2,2,,,,31565231565
+1,Zimbabwe,7,W Madhevere,Shamim Hossain,D Myers,,0,0,0,,,,31565231565
+1,Zimbabwe,7,W Madhevere,Shamim Hossain,D Myers,,0,1,1,,,,31565231565
+1,Zimbabwe,7,D Myers,Shamim Hossain,W Madhevere,,0,1,1,,,,31565231565
+1,Zimbabwe,7,W Madhevere,Shamim Hossain,D Myers,,0,1,1,,,,31565231565
+1,Zimbabwe,7,D Myers,Shamim Hossain,W Madhevere,,0,2,2,,,,31565231565
+1,Zimbabwe,8,W Madhevere,Soumya Sarkar,D Myers,,0,1,1,,,,31565231565
+1,Zimbabwe,8,D Myers,Soumya Sarkar,W Madhevere,,0,1,1,,,,31565231565
+1,Zimbabwe,8,W Madhevere,Soumya Sarkar,D Myers,wides,1,1,0,,,,31565231565
+1,Zimbabwe,8,W Madhevere,Soumya Sarkar,D Myers,,0,4,4,,,,31565231565
+1,Zimbabwe,8,W Madhevere,Soumya Sarkar,D Myers,,0,1,1,,,,31565231565
+1,Zimbabwe,8,D Myers,Soumya Sarkar,W Madhevere,,0,1,1,,,,31565231565
+1,Zimbabwe,8,W Madhevere,Soumya Sarkar,D Myers,,0,1,1,,,,31565231565
+1,Zimbabwe,9,W Madhevere,Shakib Al Hasan,D Myers,,0,1,1,,,,31565231565
+1,Zimbabwe,9,D Myers,Shakib Al Hasan,W Madhevere,,0,1,1,,,,31565231565
+1,Zimbabwe,9,W Madhevere,Shakib Al Hasan,D Myers,,0,2,2,,,,31565231565
+1,Zimbabwe,9,W Madhevere,Shakib Al Hasan,D Myers,,0,1,1,,,,31565231565
+1,Zimbabwe,9,D Myers,Shakib Al Hasan,W Madhevere,,0,1,1,,,,31565231565
+1,Zimbabwe,9,W Madhevere,Shakib Al Hasan,D Myers,,0,0,0,,,,31565231565
+1,Zimbabwe,10,D Myers,Taskin Ahmed,W Madhevere,,0,0,0,,,,31565231565
+1,Zimbabwe,10,D Myers,Taskin Ahmed,W Madhevere,,0,4,4,,,,31565231565
+1,Zimbabwe,10,D Myers,Taskin Ahmed,W Madhevere,,0,1,1,,,,31565231565
+1,Zimbabwe,10,W Madhevere,Taskin Ahmed,D Myers,,0,1,1,,,,31565231565
+1,Zimbabwe,10,D Myers,Taskin Ahmed,W Madhevere,,0,0,0,,,,31565231565
+1,Zimbabwe,10,D Myers,Taskin Ahmed,W Madhevere,,0,0,0,,,,31565231565
+1,Zimbabwe,11,W Madhevere,Shakib Al Hasan,D Myers,,0,0,0,,,,31565231565
+1,Zimbabwe,11,W Madhevere,Shakib Al Hasan,D Myers,,0,0,0,,,,31565231565
+1,Zimbabwe,11,W Madhevere,Shakib Al Hasan,D Myers,,0,0,0,,,,31565231565
+1,Zimbabwe,11,W Madhevere,Shakib Al Hasan,D Myers,,0,1,1,,,,31565231565
+1,Zimbabwe,11,D Myers,Shakib Al Hasan,W Madhevere,,0,6,6,,,,31565231565
+1,Zimbabwe,11,D Myers,Shakib Al Hasan,W Madhevere,,0,0,0,,,,31565231565
+1,Zimbabwe,12,W Madhevere,Mohammad Saifuddin,D Myers,,0,0,0,,,,31565231565
+1,Zimbabwe,12,W Madhevere,Mohammad Saifuddin,D Myers,wides,1,1,0,,,,31565231565
+1,Zimbabwe,12,W Madhevere,Mohammad Saifuddin,D Myers,,0,1,1,,,,31565231565
+1,Zimbabwe,12,D Myers,Mohammad Saifuddin,W Madhevere,,0,0,0,,,,31565231565
+1,Zimbabwe,12,D Myers,Mohammad Saifuddin,W Madhevere,,0,1,1,,,,31565231565
+1,Zimbabwe,12,W Madhevere,Mohammad Saifuddin,D Myers,,0,0,0,,,,31565231565
+1,Zimbabwe,12,W Madhevere,Mohammad Saifuddin,D Myers,,0,1,1,,,,31565231565
+1,Zimbabwe,13,W Madhevere,Shoriful Islam,D Myers,,0,4,4,,,,31565231565
+1,Zimbabwe,13,W Madhevere,Shoriful Islam,D Myers,,0,1,1,,,,31565231565
+1,Zimbabwe,13,D Myers,Shoriful Islam,W Madhevere,,0,0,0,caught,D Myers,Mahedi Hasan,31565231565
+1,Zimbabwe,13,W Madhevere,Shoriful Islam,Sikandar Raza,,0,1,1,,,,31565231565
+1,Zimbabwe,13,Sikandar Raza,Shoriful Islam,W Madhevere,,0,1,1,,,,31565231565
+1,Zimbabwe,13,W Madhevere,Shoriful Islam,Sikandar Raza,,0,0,0,,,,31565231565
+1,Zimbabwe,14,Sikandar Raza,Taskin Ahmed,W Madhevere,,0,1,1,,,,31565231565
+1,Zimbabwe,14,W Madhevere,Taskin Ahmed,Sikandar Raza,,0,1,1,,,,31565231565
+1,Zimbabwe,14,Sikandar Raza,Taskin Ahmed,W Madhevere,,0,0,0,,,,31565231565
+1,Zimbabwe,14,Sikandar Raza,Taskin Ahmed,W Madhevere,,0,1,1,,,,31565231565
+1,Zimbabwe,14,W Madhevere,Taskin Ahmed,Sikandar Raza,,0,2,2,,,,31565231565
+1,Zimbabwe,14,W Madhevere,Taskin Ahmed,Sikandar Raza,,0,6,6,,,,31565231565
+1,Zimbabwe,15,Sikandar Raza,Shakib Al Hasan,W Madhevere,,0,1,1,,,,31565231565
+1,Zimbabwe,15,W Madhevere,Shakib Al Hasan,Sikandar Raza,,0,6,6,,,,31565231565
+1,Zimbabwe,15,W Madhevere,Shakib Al Hasan,Sikandar Raza,,0,3,3,,,,31565231565
+1,Zimbabwe,15,Sikandar Raza,Shakib Al Hasan,W Madhevere,,0,0,0,run out,Sikandar Raza,Soumya Sarkar,31565231565
+1,Zimbabwe,15,W Madhevere,Shakib Al Hasan,RP Burl,,0,1,1,,,,31565231565
+1,Zimbabwe,15,RP Burl,Shakib Al Hasan,W Madhevere,,0,1,1,,,,31565231565
+1,Zimbabwe,16,RP Burl,Mohammad Saifuddin,W Madhevere,,0,4,4,,,,31565231565
+1,Zimbabwe,16,RP Burl,Mohammad Saifuddin,W Madhevere,,0,3,3,,,,31565231565
+1,Zimbabwe,16,W Madhevere,Mohammad Saifuddin,RP Burl,legbyes,1,1,0,,,,31565231565
+1,Zimbabwe,16,RP Burl,Mohammad Saifuddin,W Madhevere,,0,1,1,,,,31565231565
+1,Zimbabwe,16,W Madhevere,Mohammad Saifuddin,RP Burl,,0,1,1,,,,31565231565
+1,Zimbabwe,16,RP Burl,Mohammad Saifuddin,W Madhevere,,0,1,1,,,,31565231565
+1,Zimbabwe,17,RP Burl,Shoriful Islam,W Madhevere,wides,1,1,0,,,,31565231565
+1,Zimbabwe,17,RP Burl,Shoriful Islam,W Madhevere,,0,2,2,,,,31565231565
+1,Zimbabwe,17,RP Burl,Shoriful Islam,W Madhevere,,0,0,0,,,,31565231565
+1,Zimbabwe,17,RP Burl,Shoriful Islam,W Madhevere,,0,1,1,,,,31565231565
+1,Zimbabwe,17,W Madhevere,Shoriful Islam,RP Burl,,0,0,0,caught,W Madhevere,Afif Hossain,31565231565
+1,Zimbabwe,17,RP Burl,Shoriful Islam,LM Jongwe,,0,0,0,,,,31565231565
+1,Zimbabwe,17,RP Burl,Shoriful Islam,LM Jongwe,,0,1,1,,,,31565231565
+1,Zimbabwe,18,RP Burl,Mohammad Saifuddin,LM Jongwe,,0,4,4,,,,31565231565
+1,Zimbabwe,18,RP Burl,Mohammad Saifuddin,LM Jongwe,,0,1,1,,,,31565231565
+1,Zimbabwe,18,LM Jongwe,Mohammad Saifuddin,RP Burl,,0,1,1,,,,31565231565
+1,Zimbabwe,18,RP Burl,Mohammad Saifuddin,LM Jongwe,legbyes,2,2,0,,,,31565231565
+1,Zimbabwe,18,RP Burl,Mohammad Saifuddin,LM Jongwe,wides,1,1,0,,,,31565231565
+1,Zimbabwe,18,RP Burl,Mohammad Saifuddin,LM Jongwe,,0,6,6,,,,31565231565
+1,Zimbabwe,18,RP Burl,Mohammad Saifuddin,LM Jongwe,,0,1,1,,,,31565231565
+1,Zimbabwe,19,RP Burl,Shoriful Islam,LM Jongwe,wides,1,1,0,,,,31565231565
+1,Zimbabwe,19,RP Burl,Shoriful Islam,LM Jongwe,,0,1,1,,,,31565231565
+1,Zimbabwe,19,LM Jongwe,Shoriful Islam,RP Burl,,0,1,1,,,,31565231565
+1,Zimbabwe,19,RP Burl,Shoriful Islam,LM Jongwe,,0,0,0,,,,31565231565
+1,Zimbabwe,19,RP Burl,Shoriful Islam,LM Jongwe,,0,6,6,,,,31565231565
+1,Zimbabwe,19,RP Burl,Shoriful Islam,LM Jongwe,,0,1,1,,,,31565231565
+1,Zimbabwe,19,LM Jongwe,Shoriful Islam,RP Burl,,0,0,0,caught,LM Jongwe,Shakib Al Hasan,31565231565

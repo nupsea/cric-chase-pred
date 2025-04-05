@@ -1,0 +1,127 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Sri Lanka,0,WU Tharanga,Umar Gul,TM Dilshan,wides,1,1,0,,,,321023210
+1,Sri Lanka,0,WU Tharanga,Umar Gul,TM Dilshan,wides,1,1,0,,,,321023210
+1,Sri Lanka,0,WU Tharanga,Umar Gul,TM Dilshan,,0,2,2,,,,321023210
+1,Sri Lanka,0,WU Tharanga,Umar Gul,TM Dilshan,,0,0,0,,,,321023210
+1,Sri Lanka,0,WU Tharanga,Umar Gul,TM Dilshan,,0,0,0,,,,321023210
+1,Sri Lanka,0,WU Tharanga,Umar Gul,TM Dilshan,,0,0,0,,,,321023210
+1,Sri Lanka,0,WU Tharanga,Umar Gul,TM Dilshan,,0,0,0,,,,321023210
+1,Sri Lanka,0,WU Tharanga,Umar Gul,TM Dilshan,,0,0,0,,,,321023210
+1,Sri Lanka,1,TM Dilshan,Sohail Tanvir,WU Tharanga,wides,1,1,0,,,,321023210
+1,Sri Lanka,1,TM Dilshan,Sohail Tanvir,WU Tharanga,wides,1,1,0,,,,321023210
+1,Sri Lanka,1,TM Dilshan,Sohail Tanvir,WU Tharanga,,0,4,4,,,,321023210
+1,Sri Lanka,1,TM Dilshan,Sohail Tanvir,WU Tharanga,,0,4,4,,,,321023210
+1,Sri Lanka,1,TM Dilshan,Sohail Tanvir,WU Tharanga,,0,2,2,,,,321023210
+1,Sri Lanka,1,TM Dilshan,Sohail Tanvir,WU Tharanga,,0,2,2,,,,321023210
+1,Sri Lanka,1,TM Dilshan,Sohail Tanvir,WU Tharanga,,0,0,0,,,,321023210
+1,Sri Lanka,1,TM Dilshan,Sohail Tanvir,WU Tharanga,,0,0,0,,,,321023210
+1,Sri Lanka,2,WU Tharanga,Umar Gul,TM Dilshan,,0,0,0,,,,321023210
+1,Sri Lanka,2,WU Tharanga,Umar Gul,TM Dilshan,,0,0,0,,,,321023210
+1,Sri Lanka,2,WU Tharanga,Umar Gul,TM Dilshan,,0,4,4,,,,321023210
+1,Sri Lanka,2,WU Tharanga,Umar Gul,TM Dilshan,wides,1,1,0,,,,321023210
+1,Sri Lanka,2,WU Tharanga,Umar Gul,TM Dilshan,,0,4,4,,,,321023210
+1,Sri Lanka,2,WU Tharanga,Umar Gul,TM Dilshan,,0,0,0,,,,321023210
+1,Sri Lanka,2,WU Tharanga,Umar Gul,TM Dilshan,,0,2,2,,,,321023210
+1,Sri Lanka,3,TM Dilshan,Aizaz Cheema,WU Tharanga,,0,1,1,,,,321023210
+1,Sri Lanka,3,WU Tharanga,Aizaz Cheema,TM Dilshan,,0,0,0,bowled,WU Tharanga,,321023210
+1,Sri Lanka,3,LD Chandimal,Aizaz Cheema,TM Dilshan,,0,1,1,,,,321023210
+1,Sri Lanka,3,TM Dilshan,Aizaz Cheema,LD Chandimal,,0,4,4,,,,321023210
+1,Sri Lanka,3,TM Dilshan,Aizaz Cheema,LD Chandimal,,0,1,1,,,,321023210
+1,Sri Lanka,3,LD Chandimal,Aizaz Cheema,TM Dilshan,,0,4,4,,,,321023210
+1,Sri Lanka,4,TM Dilshan,Sohail Tanvir,LD Chandimal,,0,2,2,,,,321023210
+1,Sri Lanka,4,TM Dilshan,Sohail Tanvir,LD Chandimal,wides,5,5,0,,,,321023210
+1,Sri Lanka,4,TM Dilshan,Sohail Tanvir,LD Chandimal,wides,1,1,0,,,,321023210
+1,Sri Lanka,4,TM Dilshan,Sohail Tanvir,LD Chandimal,,0,1,1,,,,321023210
+1,Sri Lanka,4,LD Chandimal,Sohail Tanvir,TM Dilshan,,0,0,0,,,,321023210
+1,Sri Lanka,4,LD Chandimal,Sohail Tanvir,TM Dilshan,,0,1,1,,,,321023210
+1,Sri Lanka,4,TM Dilshan,Sohail Tanvir,LD Chandimal,,0,1,1,,,,321023210
+1,Sri Lanka,4,LD Chandimal,Sohail Tanvir,TM Dilshan,,0,4,4,,,,321023210
+1,Sri Lanka,5,TM Dilshan,Saeed Ajmal,LD Chandimal,,0,2,2,,,,321023210
+1,Sri Lanka,5,TM Dilshan,Saeed Ajmal,LD Chandimal,,0,4,4,,,,321023210
+1,Sri Lanka,5,TM Dilshan,Saeed Ajmal,LD Chandimal,,0,0,0,caught,TM Dilshan,Misbah-ul-Haq,321023210
+1,Sri Lanka,5,LD Chandimal,Saeed Ajmal,KC Sangakkara,,0,0,0,,,,321023210
+1,Sri Lanka,5,LD Chandimal,Saeed Ajmal,KC Sangakkara,,0,0,0,,,,321023210
+1,Sri Lanka,5,LD Chandimal,Saeed Ajmal,KC Sangakkara,,0,2,2,,,,321023210
+1,Sri Lanka,6,KC Sangakkara,Shahid Afridi,LD Chandimal,,0,1,1,,,,321023210
+1,Sri Lanka,6,LD Chandimal,Shahid Afridi,KC Sangakkara,,0,1,1,,,,321023210
+1,Sri Lanka,6,KC Sangakkara,Shahid Afridi,LD Chandimal,,0,1,1,,,,321023210
+1,Sri Lanka,6,LD Chandimal,Shahid Afridi,KC Sangakkara,,0,1,1,,,,321023210
+1,Sri Lanka,6,KC Sangakkara,Shahid Afridi,LD Chandimal,,0,1,1,,,,321023210
+1,Sri Lanka,6,LD Chandimal,Shahid Afridi,KC Sangakkara,,0,1,1,,,,321023210
+1,Sri Lanka,7,LD Chandimal,Mohammad Hafeez,KC Sangakkara,,0,2,2,,,,321023210
+1,Sri Lanka,7,LD Chandimal,Mohammad Hafeez,KC Sangakkara,,0,0,0,,,,321023210
+1,Sri Lanka,7,LD Chandimal,Mohammad Hafeez,KC Sangakkara,,0,4,4,,,,321023210
+1,Sri Lanka,7,LD Chandimal,Mohammad Hafeez,KC Sangakkara,,0,1,1,,,,321023210
+1,Sri Lanka,7,KC Sangakkara,Mohammad Hafeez,LD Chandimal,,0,1,1,,,,321023210
+1,Sri Lanka,7,LD Chandimal,Mohammad Hafeez,KC Sangakkara,,0,1,1,,,,321023210
+1,Sri Lanka,8,LD Chandimal,Shahid Afridi,KC Sangakkara,wides,1,1,0,,,,321023210
+1,Sri Lanka,8,LD Chandimal,Shahid Afridi,KC Sangakkara,,0,1,1,,,,321023210
+1,Sri Lanka,8,KC Sangakkara,Shahid Afridi,LD Chandimal,,0,1,1,,,,321023210
+1,Sri Lanka,8,LD Chandimal,Shahid Afridi,KC Sangakkara,,0,1,1,,,,321023210
+1,Sri Lanka,8,KC Sangakkara,Shahid Afridi,LD Chandimal,,0,1,1,,,,321023210
+1,Sri Lanka,8,LD Chandimal,Shahid Afridi,KC Sangakkara,,0,1,1,,,,321023210
+1,Sri Lanka,8,KC Sangakkara,Shahid Afridi,LD Chandimal,,0,1,1,,,,321023210
+1,Sri Lanka,9,KC Sangakkara,Mohammad Hafeez,LD Chandimal,,0,2,2,,,,321023210
+1,Sri Lanka,9,KC Sangakkara,Mohammad Hafeez,LD Chandimal,,0,0,0,caught and bowled,KC Sangakkara,,321023210
+1,Sri Lanka,9,AD Mathews,Mohammad Hafeez,LD Chandimal,,0,1,1,,,,321023210
+1,Sri Lanka,9,LD Chandimal,Mohammad Hafeez,AD Mathews,,0,1,1,,,,321023210
+1,Sri Lanka,9,AD Mathews,Mohammad Hafeez,LD Chandimal,,0,1,1,,,,321023210
+1,Sri Lanka,9,LD Chandimal,Mohammad Hafeez,AD Mathews,,0,1,1,,,,321023210
+1,Sri Lanka,10,LD Chandimal,Shahid Afridi,AD Mathews,,0,1,1,,,,321023210
+1,Sri Lanka,10,AD Mathews,Shahid Afridi,LD Chandimal,,0,0,0,,,,321023210
+1,Sri Lanka,10,AD Mathews,Shahid Afridi,LD Chandimal,,0,1,1,,,,321023210
+1,Sri Lanka,10,LD Chandimal,Shahid Afridi,AD Mathews,,0,1,1,,,,321023210
+1,Sri Lanka,10,AD Mathews,Shahid Afridi,LD Chandimal,,0,0,0,,,,321023210
+1,Sri Lanka,10,AD Mathews,Shahid Afridi,LD Chandimal,,0,1,1,,,,321023210
+1,Sri Lanka,11,AD Mathews,Mohammad Hafeez,LD Chandimal,,0,1,1,,,,321023210
+1,Sri Lanka,11,LD Chandimal,Mohammad Hafeez,AD Mathews,,0,1,1,,,,321023210
+1,Sri Lanka,11,AD Mathews,Mohammad Hafeez,LD Chandimal,,0,1,1,,,,321023210
+1,Sri Lanka,11,LD Chandimal,Mohammad Hafeez,AD Mathews,,0,1,1,,,,321023210
+1,Sri Lanka,11,AD Mathews,Mohammad Hafeez,LD Chandimal,,0,1,1,,,,321023210
+1,Sri Lanka,11,LD Chandimal,Mohammad Hafeez,AD Mathews,,0,0,0,,,,321023210
+1,Sri Lanka,12,AD Mathews,Shahid Afridi,LD Chandimal,,0,1,1,,,,321023210
+1,Sri Lanka,12,LD Chandimal,Shahid Afridi,AD Mathews,,0,1,1,,,,321023210
+1,Sri Lanka,12,AD Mathews,Shahid Afridi,LD Chandimal,,0,1,1,,,,321023210
+1,Sri Lanka,12,LD Chandimal,Shahid Afridi,AD Mathews,legbyes,1,1,0,,,,321023210
+1,Sri Lanka,12,AD Mathews,Shahid Afridi,LD Chandimal,,0,0,0,,,,321023210
+1,Sri Lanka,12,AD Mathews,Shahid Afridi,LD Chandimal,,0,1,1,,,,321023210
+1,Sri Lanka,13,AD Mathews,Saeed Ajmal,LD Chandimal,,0,1,1,,,,321023210
+1,Sri Lanka,13,LD Chandimal,Saeed Ajmal,AD Mathews,,0,1,1,,,,321023210
+1,Sri Lanka,13,AD Mathews,Saeed Ajmal,LD Chandimal,,0,1,1,,,,321023210
+1,Sri Lanka,13,LD Chandimal,Saeed Ajmal,AD Mathews,,0,0,0,,,,321023210
+1,Sri Lanka,13,LD Chandimal,Saeed Ajmal,AD Mathews,,0,2,2,,,,321023210
+1,Sri Lanka,13,LD Chandimal,Saeed Ajmal,AD Mathews,,0,0,0,,,,321023210
+1,Sri Lanka,14,AD Mathews,Aizaz Cheema,LD Chandimal,,0,1,1,,,,321023210
+1,Sri Lanka,14,LD Chandimal,Aizaz Cheema,AD Mathews,,0,4,4,,,,321023210
+1,Sri Lanka,14,LD Chandimal,Aizaz Cheema,AD Mathews,,0,1,1,,,,321023210
+1,Sri Lanka,14,AD Mathews,Aizaz Cheema,LD Chandimal,,0,1,1,,,,321023210
+1,Sri Lanka,14,LD Chandimal,Aizaz Cheema,AD Mathews,,0,1,1,,,,321023210
+1,Sri Lanka,14,AD Mathews,Aizaz Cheema,LD Chandimal,legbyes,1,1,0,,,,321023210
+1,Sri Lanka,15,AD Mathews,Saeed Ajmal,LD Chandimal,,0,0,0,,,,321023210
+1,Sri Lanka,15,AD Mathews,Saeed Ajmal,LD Chandimal,,0,0,0,run out,AD Mathews,Misbah-ul-Haq,321023210
+1,Sri Lanka,15,LPC Silva,Saeed Ajmal,LD Chandimal,,0,0,0,,,,321023210
+1,Sri Lanka,15,LPC Silva,Saeed Ajmal,LD Chandimal,,0,0,0,,,,321023210
+1,Sri Lanka,15,LPC Silva,Saeed Ajmal,LD Chandimal,,0,1,1,,,,321023210
+1,Sri Lanka,15,LD Chandimal,Saeed Ajmal,LPC Silva,,0,4,4,,,,321023210
+1,Sri Lanka,16,LPC Silva,Aizaz Cheema,LD Chandimal,,0,1,1,,,,321023210
+1,Sri Lanka,16,LD Chandimal,Aizaz Cheema,LPC Silva,,0,1,1,,,,321023210
+1,Sri Lanka,16,LPC Silva,Aizaz Cheema,LD Chandimal,,0,1,1,,,,321023210
+1,Sri Lanka,16,LD Chandimal,Aizaz Cheema,LPC Silva,,0,1,1,,,,321023210
+1,Sri Lanka,16,LPC Silva,Aizaz Cheema,LD Chandimal,legbyes,1,1,0,,,,321023210
+1,Sri Lanka,16,LD Chandimal,Aizaz Cheema,LPC Silva,,0,1,1,,,,321023210
+1,Sri Lanka,17,LD Chandimal,Saeed Ajmal,LPC Silva,,0,1,1,,,,321023210
+1,Sri Lanka,17,LPC Silva,Saeed Ajmal,LD Chandimal,,0,1,1,,,,321023210
+1,Sri Lanka,17,LD Chandimal,Saeed Ajmal,LPC Silva,,0,1,1,,,,321023210
+1,Sri Lanka,17,LPC Silva,Saeed Ajmal,LD Chandimal,,0,0,0,run out,LPC Silva,Umar Akmal,321023210
+1,Sri Lanka,17,LD Chandimal,Saeed Ajmal,NLTC Perera,,0,1,1,,,,321023210
+1,Sri Lanka,17,NLTC Perera,Saeed Ajmal,LD Chandimal,,0,0,0,,,,321023210
+1,Sri Lanka,18,LD Chandimal,Aizaz Cheema,NLTC Perera,,0,4,4,,,,321023210
+1,Sri Lanka,18,LD Chandimal,Aizaz Cheema,NLTC Perera,,0,0,0,lbw,LD Chandimal,,321023210
+1,Sri Lanka,18,SL Malinga,Aizaz Cheema,NLTC Perera,,0,1,1,,,,321023210
+1,Sri Lanka,18,NLTC Perera,Aizaz Cheema,SL Malinga,,0,0,0,caught,NLTC Perera,Umar Akmal,321023210
+1,Sri Lanka,18,MDK Perera,Aizaz Cheema,SL Malinga,,0,1,1,,,,321023210
+1,Sri Lanka,18,SL Malinga,Aizaz Cheema,MDK Perera,,0,0,0,bowled,SL Malinga,,321023210
+1,Sri Lanka,19,MDK Perera,Umar Gul,BAW Mendis,wides,1,1,0,,,,321023210
+1,Sri Lanka,19,MDK Perera,Umar Gul,BAW Mendis,,0,0,0,,,,321023210
+1,Sri Lanka,19,MDK Perera,Umar Gul,BAW Mendis,,0,0,0,caught,MDK Perera,Misbah-ul-Haq,321023210
+1,Sri Lanka,19,CRD Fernando,Umar Gul,BAW Mendis,,0,0,0,bowled,CRD Fernando,,321023210

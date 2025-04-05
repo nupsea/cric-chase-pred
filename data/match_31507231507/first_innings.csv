@@ -1,0 +1,126 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,India,0,PP Shaw,PVD Chameera,S Dhawan,,0,0,0,caught,PP Shaw,M Bhanuka,31507231507
+1,India,0,SV Samson,PVD Chameera,S Dhawan,,0,1,1,,,,31507231507
+1,India,0,S Dhawan,PVD Chameera,SV Samson,,0,1,1,,,,31507231507
+1,India,0,SV Samson,PVD Chameera,S Dhawan,,0,2,2,,,,31507231507
+1,India,0,SV Samson,PVD Chameera,S Dhawan,,0,0,0,,,,31507231507
+1,India,0,SV Samson,PVD Chameera,S Dhawan,,0,0,0,,,,31507231507
+1,India,1,S Dhawan,C Karunaratne,SV Samson,,0,1,1,,,,31507231507
+1,India,1,SV Samson,C Karunaratne,S Dhawan,,0,1,1,,,,31507231507
+1,India,1,S Dhawan,C Karunaratne,SV Samson,,0,0,0,,,,31507231507
+1,India,1,S Dhawan,C Karunaratne,SV Samson,,0,1,1,,,,31507231507
+1,India,1,SV Samson,C Karunaratne,S Dhawan,,0,1,1,,,,31507231507
+1,India,1,S Dhawan,C Karunaratne,SV Samson,,0,4,4,,,,31507231507
+1,India,2,SV Samson,PVD Chameera,S Dhawan,,0,4,4,,,,31507231507
+1,India,2,SV Samson,PVD Chameera,S Dhawan,,0,0,0,,,,31507231507
+1,India,2,SV Samson,PVD Chameera,S Dhawan,,0,0,0,,,,31507231507
+1,India,2,SV Samson,PVD Chameera,S Dhawan,,0,1,1,,,,31507231507
+1,India,2,S Dhawan,PVD Chameera,SV Samson,,0,0,0,,,,31507231507
+1,India,2,S Dhawan,PVD Chameera,SV Samson,,0,1,1,,,,31507231507
+1,India,3,S Dhawan,A Dananjaya,SV Samson,,0,4,4,,,,31507231507
+1,India,3,S Dhawan,A Dananjaya,SV Samson,,0,0,0,,,,31507231507
+1,India,3,S Dhawan,A Dananjaya,SV Samson,,0,2,2,,,,31507231507
+1,India,3,S Dhawan,A Dananjaya,SV Samson,,0,4,4,,,,31507231507
+1,India,3,S Dhawan,A Dananjaya,SV Samson,,0,0,0,,,,31507231507
+1,India,3,S Dhawan,A Dananjaya,SV Samson,legbyes,1,1,0,,,,31507231507
+1,India,4,S Dhawan,I Udana,SV Samson,,0,1,1,,,,31507231507
+1,India,4,SV Samson,I Udana,S Dhawan,,0,0,0,,,,31507231507
+1,India,4,SV Samson,I Udana,S Dhawan,,0,1,1,,,,31507231507
+1,India,4,S Dhawan,I Udana,SV Samson,,0,2,2,,,,31507231507
+1,India,4,S Dhawan,I Udana,SV Samson,,0,1,1,,,,31507231507
+1,India,4,SV Samson,I Udana,S Dhawan,,0,1,1,,,,31507231507
+1,India,5,SV Samson,A Dananjaya,S Dhawan,,0,6,6,,,,31507231507
+1,India,5,SV Samson,A Dananjaya,S Dhawan,wides,1,1,0,,,,31507231507
+1,India,5,SV Samson,A Dananjaya,S Dhawan,,0,4,4,,,,31507231507
+1,India,5,SV Samson,A Dananjaya,S Dhawan,,0,2,2,,,,31507231507
+1,India,5,SV Samson,A Dananjaya,S Dhawan,,0,2,2,,,,31507231507
+1,India,5,SV Samson,A Dananjaya,S Dhawan,,0,0,0,,,,31507231507
+1,India,5,SV Samson,A Dananjaya,S Dhawan,,0,1,1,,,,31507231507
+1,India,6,SV Samson,PWH de Silva,S Dhawan,,0,0,0,lbw,SV Samson,,31507231507
+1,India,6,SA Yadav,PWH de Silva,S Dhawan,,0,1,1,,,,31507231507
+1,India,6,S Dhawan,PWH de Silva,SA Yadav,,0,0,0,,,,31507231507
+1,India,6,S Dhawan,PWH de Silva,SA Yadav,,0,0,0,,,,31507231507
+1,India,6,S Dhawan,PWH de Silva,SA Yadav,,0,1,1,,,,31507231507
+1,India,6,SA Yadav,PWH de Silva,S Dhawan,,0,2,2,,,,31507231507
+1,India,7,S Dhawan,MD Shanaka,SA Yadav,,0,1,1,,,,31507231507
+1,India,7,SA Yadav,MD Shanaka,S Dhawan,,0,0,0,,,,31507231507
+1,India,7,SA Yadav,MD Shanaka,S Dhawan,,0,1,1,,,,31507231507
+1,India,7,S Dhawan,MD Shanaka,SA Yadav,,0,1,1,,,,31507231507
+1,India,7,SA Yadav,MD Shanaka,S Dhawan,,0,0,0,,,,31507231507
+1,India,7,SA Yadav,MD Shanaka,S Dhawan,,0,1,1,,,,31507231507
+1,India,8,SA Yadav,PWH de Silva,S Dhawan,,0,4,4,,,,31507231507
+1,India,8,SA Yadav,PWH de Silva,S Dhawan,,0,0,0,,,,31507231507
+1,India,8,SA Yadav,PWH de Silva,S Dhawan,,0,1,1,,,,31507231507
+1,India,8,S Dhawan,PWH de Silva,SA Yadav,,0,1,1,,,,31507231507
+1,India,8,SA Yadav,PWH de Silva,S Dhawan,,0,4,4,,,,31507231507
+1,India,8,SA Yadav,PWH de Silva,S Dhawan,,0,1,1,,,,31507231507
+1,India,9,SA Yadav,I Udana,S Dhawan,,0,0,0,,,,31507231507
+1,India,9,SA Yadav,I Udana,S Dhawan,,0,4,4,,,,31507231507
+1,India,9,SA Yadav,I Udana,S Dhawan,,0,1,1,,,,31507231507
+1,India,9,S Dhawan,I Udana,SA Yadav,,0,1,1,,,,31507231507
+1,India,9,SA Yadav,I Udana,S Dhawan,,0,0,0,,,,31507231507
+1,India,9,SA Yadav,I Udana,S Dhawan,,0,2,2,,,,31507231507
+1,India,10,S Dhawan,C Karunaratne,SA Yadav,,0,1,1,,,,31507231507
+1,India,10,SA Yadav,C Karunaratne,S Dhawan,,0,4,4,,,,31507231507
+1,India,10,SA Yadav,C Karunaratne,S Dhawan,,0,1,1,,,,31507231507
+1,India,10,S Dhawan,C Karunaratne,SA Yadav,,0,1,1,,,,31507231507
+1,India,10,SA Yadav,C Karunaratne,S Dhawan,,0,0,0,,,,31507231507
+1,India,10,SA Yadav,C Karunaratne,S Dhawan,wides,1,1,0,,,,31507231507
+1,India,10,SA Yadav,C Karunaratne,S Dhawan,,0,1,1,,,,31507231507
+1,India,11,SA Yadav,A Dananjaya,S Dhawan,,0,1,1,,,,31507231507
+1,India,11,S Dhawan,A Dananjaya,SA Yadav,,0,6,6,,,,31507231507
+1,India,11,S Dhawan,A Dananjaya,SA Yadav,,0,1,1,,,,31507231507
+1,India,11,SA Yadav,A Dananjaya,S Dhawan,,0,1,1,,,,31507231507
+1,India,11,S Dhawan,A Dananjaya,SA Yadav,,0,4,4,,,,31507231507
+1,India,11,S Dhawan,A Dananjaya,SA Yadav,,0,1,1,,,,31507231507
+1,India,12,S Dhawan,PWH de Silva,SA Yadav,,0,1,1,,,,31507231507
+1,India,12,SA Yadav,PWH de Silva,S Dhawan,,0,1,1,,,,31507231507
+1,India,12,S Dhawan,PWH de Silva,SA Yadav,,0,0,0,,,,31507231507
+1,India,12,S Dhawan,PWH de Silva,SA Yadav,,0,1,1,,,,31507231507
+1,India,12,SA Yadav,PWH de Silva,S Dhawan,,0,0,0,,,,31507231507
+1,India,12,SA Yadav,PWH de Silva,S Dhawan,,0,1,1,,,,31507231507
+1,India,13,SA Yadav,I Udana,S Dhawan,,0,4,4,,,,31507231507
+1,India,13,SA Yadav,I Udana,S Dhawan,,0,0,0,,,,31507231507
+1,India,13,SA Yadav,I Udana,S Dhawan,,0,1,1,,,,31507231507
+1,India,13,S Dhawan,I Udana,SA Yadav,,0,0,0,,,,31507231507
+1,India,13,S Dhawan,I Udana,SA Yadav,,0,2,2,,,,31507231507
+1,India,13,S Dhawan,I Udana,SA Yadav,,0,1,1,,,,31507231507
+1,India,14,S Dhawan,C Karunaratne,SA Yadav,,0,0,0,caught,S Dhawan,KNA Bandara,31507231507
+1,India,14,SA Yadav,C Karunaratne,HH Pandya,wides,1,1,0,,,,31507231507
+1,India,14,SA Yadav,C Karunaratne,HH Pandya,,0,0,0,,,,31507231507
+1,India,14,SA Yadav,C Karunaratne,HH Pandya,,0,6,6,,,,31507231507
+1,India,14,SA Yadav,C Karunaratne,HH Pandya,,0,0,0,,,,31507231507
+1,India,14,SA Yadav,C Karunaratne,HH Pandya,,0,1,1,,,,31507231507
+1,India,14,HH Pandya,C Karunaratne,SA Yadav,,0,0,0,,,,31507231507
+1,India,15,SA Yadav,PWH de Silva,HH Pandya,,0,6,6,,,,31507231507
+1,India,15,SA Yadav,PWH de Silva,HH Pandya,,0,0,0,caught,SA Yadav,RTM Mendis,31507231507
+1,India,15,HH Pandya,PWH de Silva,Ishan Kishan,,0,0,0,,,,31507231507
+1,India,15,HH Pandya,PWH de Silva,Ishan Kishan,,0,1,1,,,,31507231507
+1,India,15,Ishan Kishan,PWH de Silva,HH Pandya,,0,1,1,,,,31507231507
+1,India,15,HH Pandya,PWH de Silva,Ishan Kishan,,0,1,1,,,,31507231507
+1,India,16,HH Pandya,PVD Chameera,Ishan Kishan,,0,1,1,,,,31507231507
+1,India,16,Ishan Kishan,PVD Chameera,HH Pandya,,0,0,0,,,,31507231507
+1,India,16,Ishan Kishan,PVD Chameera,HH Pandya,,0,0,0,,,,31507231507
+1,India,16,Ishan Kishan,PVD Chameera,HH Pandya,,0,4,4,,,,31507231507
+1,India,16,Ishan Kishan,PVD Chameera,HH Pandya,legbyes,1,1,0,,,,31507231507
+1,India,16,HH Pandya,PVD Chameera,Ishan Kishan,,0,1,1,,,,31507231507
+1,India,17,HH Pandya,I Udana,Ishan Kishan,,0,0,0,,,,31507231507
+1,India,17,HH Pandya,I Udana,Ishan Kishan,,0,2,2,,,,31507231507
+1,India,17,HH Pandya,I Udana,Ishan Kishan,,0,1,1,,,,31507231507
+1,India,17,Ishan Kishan,I Udana,HH Pandya,,0,0,0,,,,31507231507
+1,India,17,Ishan Kishan,I Udana,HH Pandya,,0,6,6,,,,31507231507
+1,India,17,Ishan Kishan,I Udana,HH Pandya,,0,1,1,,,,31507231507
+1,India,18,Ishan Kishan,PVD Chameera,HH Pandya,wides,2,2,0,,,,31507231507
+1,India,18,HH Pandya,PVD Chameera,Ishan Kishan,,0,2,2,,,,31507231507
+1,India,18,HH Pandya,PVD Chameera,Ishan Kishan,,0,1,1,,,,31507231507
+1,India,18,Ishan Kishan,PVD Chameera,HH Pandya,,0,1,1,,,,31507231507
+1,India,18,HH Pandya,PVD Chameera,Ishan Kishan,,0,0,0,caught,HH Pandya,M Bhanuka,31507231507
+1,India,18,KH Pandya,PVD Chameera,Ishan Kishan,,0,1,1,,,,31507231507
+1,India,18,Ishan Kishan,PVD Chameera,KH Pandya,,0,1,1,,,,31507231507
+1,India,19,Ishan Kishan,C Karunaratne,KH Pandya,,0,2,2,,,,31507231507
+1,India,19,Ishan Kishan,C Karunaratne,KH Pandya,,0,1,1,,,,31507231507
+1,India,19,KH Pandya,C Karunaratne,Ishan Kishan,,0,1,1,,,,31507231507
+1,India,19,Ishan Kishan,C Karunaratne,KH Pandya,,0,2,2,,,,31507231507
+1,India,19,Ishan Kishan,C Karunaratne,KH Pandya,,0,1,1,,,,31507231507
+1,India,19,KH Pandya,C Karunaratne,Ishan Kishan,wides,1,1,0,,,,31507231507
+1,India,19,KH Pandya,C Karunaratne,Ishan Kishan,,0,1,1,,,,31507231507

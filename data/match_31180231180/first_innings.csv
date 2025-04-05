@@ -1,0 +1,127 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Scotland,0,SJ Bryce,AS van Beuge,L Jack,,0,0,0,,,,31180231180
+1,Scotland,0,SJ Bryce,AS van Beuge,L Jack,,0,2,2,,,,31180231180
+1,Scotland,0,SJ Bryce,AS van Beuge,L Jack,,0,4,4,,,,31180231180
+1,Scotland,0,SJ Bryce,AS van Beuge,L Jack,,0,0,0,,,,31180231180
+1,Scotland,0,SJ Bryce,AS van Beuge,L Jack,,0,0,0,,,,31180231180
+1,Scotland,0,SJ Bryce,AS van Beuge,L Jack,,0,1,1,,,,31180231180
+1,Scotland,1,SJ Bryce,C de Lange,L Jack,wides,1,1,0,,,,31180231180
+1,Scotland,1,SJ Bryce,C de Lange,L Jack,noballs,1,5,4,,,,31180231180
+1,Scotland,1,SJ Bryce,C de Lange,L Jack,,0,2,2,,,,31180231180
+1,Scotland,1,SJ Bryce,C de Lange,L Jack,,0,1,1,,,,31180231180
+1,Scotland,1,L Jack,C de Lange,SJ Bryce,legbyes,1,1,0,,,,31180231180
+1,Scotland,1,SJ Bryce,C de Lange,L Jack,,0,1,1,,,,31180231180
+1,Scotland,1,L Jack,C de Lange,SJ Bryce,,0,0,0,,,,31180231180
+1,Scotland,1,L Jack,C de Lange,SJ Bryce,,0,1,1,,,,31180231180
+1,Scotland,2,L Jack,AS van Beuge,SJ Bryce,,0,0,0,,,,31180231180
+1,Scotland,2,L Jack,AS van Beuge,SJ Bryce,,0,0,0,,,,31180231180
+1,Scotland,2,L Jack,AS van Beuge,SJ Bryce,,0,0,0,,,,31180231180
+1,Scotland,2,L Jack,AS van Beuge,SJ Bryce,,0,1,1,,,,31180231180
+1,Scotland,2,SJ Bryce,AS van Beuge,L Jack,,0,2,2,,,,31180231180
+1,Scotland,2,SJ Bryce,AS van Beuge,L Jack,,0,3,3,,,,31180231180
+1,Scotland,3,SJ Bryce,S Siegers,L Jack,,0,4,4,,,,31180231180
+1,Scotland,3,SJ Bryce,S Siegers,L Jack,,0,4,4,,,,31180231180
+1,Scotland,3,SJ Bryce,S Siegers,L Jack,,0,4,4,,,,31180231180
+1,Scotland,3,SJ Bryce,S Siegers,L Jack,,0,4,4,,,,31180231180
+1,Scotland,3,SJ Bryce,S Siegers,L Jack,,0,1,1,,,,31180231180
+1,Scotland,3,L Jack,S Siegers,SJ Bryce,,0,4,4,,,,31180231180
+1,Scotland,4,SJ Bryce,AS van Beuge,L Jack,,0,4,4,,,,31180231180
+1,Scotland,4,SJ Bryce,AS van Beuge,L Jack,,0,0,0,caught,SJ Bryce,L Klokgieters,31180231180
+1,Scotland,4,L Jack,AS van Beuge,RS Glen,,0,1,1,,,,31180231180
+1,Scotland,4,RS Glen,AS van Beuge,L Jack,,0,1,1,,,,31180231180
+1,Scotland,4,L Jack,AS van Beuge,RS Glen,,0,2,2,,,,31180231180
+1,Scotland,4,L Jack,AS van Beuge,RS Glen,,0,4,4,,,,31180231180
+1,Scotland,5,RS Glen,EN Lynch,L Jack,,0,1,1,,,,31180231180
+1,Scotland,5,L Jack,EN Lynch,RS Glen,,0,2,2,,,,31180231180
+1,Scotland,5,L Jack,EN Lynch,RS Glen,noballs,1,2,1,,,,31180231180
+1,Scotland,5,RS Glen,EN Lynch,L Jack,,0,0,0,,,,31180231180
+1,Scotland,5,RS Glen,EN Lynch,L Jack,,0,4,4,,,,31180231180
+1,Scotland,5,RS Glen,EN Lynch,L Jack,,0,1,1,,,,31180231180
+1,Scotland,5,L Jack,EN Lynch,RS Glen,,0,0,0,,,,31180231180
+1,Scotland,6,RS Glen,LK Bennett,L Jack,,0,4,4,,,,31180231180
+1,Scotland,6,RS Glen,LK Bennett,L Jack,,0,3,3,,,,31180231180
+1,Scotland,6,L Jack,LK Bennett,RS Glen,,0,0,0,,,,31180231180
+1,Scotland,6,L Jack,LK Bennett,RS Glen,,0,1,1,,,,31180231180
+1,Scotland,6,RS Glen,LK Bennett,L Jack,wides,2,2,0,run out,RS Glen,,31180231180
+1,Scotland,6,PA Chatterji,LK Bennett,L Jack,,0,0,0,,,,31180231180
+1,Scotland,6,PA Chatterji,LK Bennett,L Jack,,0,2,2,,,,31180231180
+1,Scotland,7,L Jack,EN Lynch,PA Chatterji,,0,0,0,,,,31180231180
+1,Scotland,7,L Jack,EN Lynch,PA Chatterji,wides,1,1,0,,,,31180231180
+1,Scotland,7,L Jack,EN Lynch,PA Chatterji,,0,4,4,,,,31180231180
+1,Scotland,7,L Jack,EN Lynch,PA Chatterji,,0,0,0,,,,31180231180
+1,Scotland,7,L Jack,EN Lynch,PA Chatterji,,0,0,0,,,,31180231180
+1,Scotland,7,L Jack,EN Lynch,PA Chatterji,,0,2,2,,,,31180231180
+1,Scotland,7,L Jack,EN Lynch,PA Chatterji,,0,0,0,,,,31180231180
+1,Scotland,8,PA Chatterji,LK Bennett,L Jack,,0,2,2,,,,31180231180
+1,Scotland,8,PA Chatterji,LK Bennett,L Jack,,0,0,0,,,,31180231180
+1,Scotland,8,PA Chatterji,LK Bennett,L Jack,,0,2,2,,,,31180231180
+1,Scotland,8,PA Chatterji,LK Bennett,L Jack,,0,1,1,,,,31180231180
+1,Scotland,8,L Jack,LK Bennett,PA Chatterji,,0,0,0,,,,31180231180
+1,Scotland,8,L Jack,LK Bennett,PA Chatterji,,0,1,1,,,,31180231180
+1,Scotland,9,L Jack,IJR Zwilling,PA Chatterji,,0,2,2,,,,31180231180
+1,Scotland,9,L Jack,IJR Zwilling,PA Chatterji,,0,1,1,,,,31180231180
+1,Scotland,9,PA Chatterji,IJR Zwilling,L Jack,,0,1,1,,,,31180231180
+1,Scotland,9,L Jack,IJR Zwilling,PA Chatterji,,0,0,0,,,,31180231180
+1,Scotland,9,L Jack,IJR Zwilling,PA Chatterji,,0,1,1,,,,31180231180
+1,Scotland,9,PA Chatterji,IJR Zwilling,L Jack,,0,1,1,,,,31180231180
+1,Scotland,10,PA Chatterji,LK Bennett,L Jack,,0,0,0,bowled,PA Chatterji,,31180231180
+1,Scotland,10,EL Watson,LK Bennett,L Jack,,0,0,0,,,,31180231180
+1,Scotland,10,EL Watson,LK Bennett,L Jack,,0,0,0,,,,31180231180
+1,Scotland,10,EL Watson,LK Bennett,L Jack,,0,0,0,,,,31180231180
+1,Scotland,10,EL Watson,LK Bennett,L Jack,legbyes,1,1,0,,,,31180231180
+1,Scotland,10,L Jack,LK Bennett,EL Watson,,0,0,0,,,,31180231180
+1,Scotland,11,EL Watson,IJR Zwilling,L Jack,,0,0,0,,,,31180231180
+1,Scotland,11,EL Watson,IJR Zwilling,L Jack,,0,1,1,,,,31180231180
+1,Scotland,11,L Jack,IJR Zwilling,EL Watson,,0,1,1,,,,31180231180
+1,Scotland,11,EL Watson,IJR Zwilling,L Jack,,0,1,1,,,,31180231180
+1,Scotland,11,L Jack,IJR Zwilling,EL Watson,,0,0,0,,,,31180231180
+1,Scotland,11,L Jack,IJR Zwilling,EL Watson,,0,1,1,,,,31180231180
+1,Scotland,12,L Jack,LK Bennett,EL Watson,,0,2,2,,,,31180231180
+1,Scotland,12,L Jack,LK Bennett,EL Watson,,0,1,1,,,,31180231180
+1,Scotland,12,EL Watson,LK Bennett,L Jack,,0,0,0,,,,31180231180
+1,Scotland,12,EL Watson,LK Bennett,L Jack,,0,1,1,,,,31180231180
+1,Scotland,12,L Jack,LK Bennett,EL Watson,,0,1,1,,,,31180231180
+1,Scotland,12,EL Watson,LK Bennett,L Jack,,0,1,1,,,,31180231180
+1,Scotland,13,EL Watson,IJR Zwilling,L Jack,,0,0,0,,,,31180231180
+1,Scotland,13,EL Watson,IJR Zwilling,L Jack,,0,0,0,,,,31180231180
+1,Scotland,13,EL Watson,IJR Zwilling,L Jack,,0,1,1,,,,31180231180
+1,Scotland,13,L Jack,IJR Zwilling,EL Watson,,0,1,1,,,,31180231180
+1,Scotland,13,EL Watson,IJR Zwilling,L Jack,,0,0,0,,,,31180231180
+1,Scotland,13,EL Watson,IJR Zwilling,L Jack,,0,1,1,,,,31180231180
+1,Scotland,14,EL Watson,S Siegers,L Jack,,0,0,0,,,,31180231180
+1,Scotland,14,EL Watson,S Siegers,L Jack,,0,1,1,,,,31180231180
+1,Scotland,14,L Jack,S Siegers,EL Watson,,0,0,0,,,,31180231180
+1,Scotland,14,L Jack,S Siegers,EL Watson,,0,0,0,,,,31180231180
+1,Scotland,14,L Jack,S Siegers,EL Watson,,0,1,1,,,,31180231180
+1,Scotland,14,EL Watson,S Siegers,L Jack,,0,0,0,,,,31180231180
+1,Scotland,15,L Jack,IJR Zwilling,EL Watson,,0,0,0,,,,31180231180
+1,Scotland,15,L Jack,IJR Zwilling,EL Watson,,0,2,2,,,,31180231180
+1,Scotland,15,L Jack,IJR Zwilling,EL Watson,,0,0,0,,,,31180231180
+1,Scotland,15,L Jack,IJR Zwilling,EL Watson,,0,1,1,,,,31180231180
+1,Scotland,15,EL Watson,IJR Zwilling,L Jack,,0,1,1,,,,31180231180
+1,Scotland,15,L Jack,IJR Zwilling,EL Watson,,0,0,0,,,,31180231180
+1,Scotland,16,EL Watson,S Siegers,L Jack,,0,0,0,caught,EL Watson,AS van Beuge,31180231180
+1,Scotland,16,L Jack,S Siegers,RK Willis,,0,4,4,,,,31180231180
+1,Scotland,16,L Jack,S Siegers,RK Willis,,0,0,0,,,,31180231180
+1,Scotland,16,L Jack,S Siegers,RK Willis,,0,0,0,,,,31180231180
+1,Scotland,16,L Jack,S Siegers,RK Willis,,0,0,0,,,,31180231180
+1,Scotland,16,L Jack,S Siegers,RK Willis,,0,2,2,,,,31180231180
+1,Scotland,17,RK Willis,L Klokgieters,L Jack,wides,1,1,0,,,,31180231180
+1,Scotland,17,RK Willis,L Klokgieters,L Jack,,0,0,0,,,,31180231180
+1,Scotland,17,RK Willis,L Klokgieters,L Jack,,0,4,4,,,,31180231180
+1,Scotland,17,RK Willis,L Klokgieters,L Jack,,0,1,1,,,,31180231180
+1,Scotland,17,L Jack,L Klokgieters,RK Willis,,0,1,1,,,,31180231180
+1,Scotland,17,RK Willis,L Klokgieters,L Jack,,0,0,0,,,,31180231180
+1,Scotland,17,RK Willis,L Klokgieters,L Jack,,0,1,1,,,,31180231180
+1,Scotland,18,RK Willis,S Siegers,L Jack,,0,1,1,,,,31180231180
+1,Scotland,18,L Jack,S Siegers,RK Willis,,0,1,1,,,,31180231180
+1,Scotland,18,RK Willis,S Siegers,L Jack,,0,0,0,,,,31180231180
+1,Scotland,18,RK Willis,S Siegers,L Jack,,0,1,1,,,,31180231180
+1,Scotland,18,L Jack,S Siegers,RK Willis,,0,2,2,,,,31180231180
+1,Scotland,18,L Jack,S Siegers,RK Willis,,0,3,3,,,,31180231180
+1,Scotland,19,L Jack,L Klokgieters,RK Willis,,0,1,1,,,,31180231180
+1,Scotland,19,RK Willis,L Klokgieters,L Jack,,0,1,1,,,,31180231180
+1,Scotland,19,L Jack,L Klokgieters,RK Willis,,0,1,1,,,,31180231180
+1,Scotland,19,RK Willis,L Klokgieters,L Jack,,0,2,2,,,,31180231180
+1,Scotland,19,RK Willis,L Klokgieters,L Jack,,0,0,0,,,,31180231180
+1,Scotland,19,RK Willis,L Klokgieters,L Jack,,0,2,2,,,,31180231180

@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Australia,0,DA Warner,R Ashwin,MS Wade,,0,0,0,,,,319223192
+1,Australia,0,DA Warner,R Ashwin,MS Wade,,0,0,0,,,,319223192
+1,Australia,0,DA Warner,R Ashwin,MS Wade,,0,0,0,,,,319223192
+1,Australia,0,DA Warner,R Ashwin,MS Wade,,0,1,1,,,,319223192
+1,Australia,0,MS Wade,R Ashwin,DA Warner,,0,0,0,,,,319223192
+1,Australia,0,MS Wade,R Ashwin,DA Warner,,0,1,1,,,,319223192
+1,Australia,1,MS Wade,P Kumar,DA Warner,,0,1,1,,,,319223192
+1,Australia,1,DA Warner,P Kumar,MS Wade,,0,0,0,,,,319223192
+1,Australia,1,DA Warner,P Kumar,MS Wade,,0,1,1,,,,319223192
+1,Australia,1,MS Wade,P Kumar,DA Warner,,0,4,4,,,,319223192
+1,Australia,1,MS Wade,P Kumar,DA Warner,,0,0,0,,,,319223192
+1,Australia,1,MS Wade,P Kumar,DA Warner,,0,1,1,,,,319223192
+1,Australia,2,MS Wade,R Ashwin,DA Warner,,0,1,1,,,,319223192
+1,Australia,2,DA Warner,R Ashwin,MS Wade,,0,0,0,,,,319223192
+1,Australia,2,DA Warner,R Ashwin,MS Wade,,0,6,6,,,,319223192
+1,Australia,2,DA Warner,R Ashwin,MS Wade,,0,4,4,,,,319223192
+1,Australia,2,DA Warner,R Ashwin,MS Wade,,0,6,6,,,,319223192
+1,Australia,2,DA Warner,R Ashwin,MS Wade,,0,2,2,,,,319223192
+1,Australia,3,MS Wade,R Vinay Kumar,DA Warner,,0,3,3,,,,319223192
+1,Australia,3,DA Warner,R Vinay Kumar,MS Wade,,0,2,2,,,,319223192
+1,Australia,3,DA Warner,R Vinay Kumar,MS Wade,,0,3,3,,,,319223192
+1,Australia,3,MS Wade,R Vinay Kumar,DA Warner,wides,1,1,0,,,,319223192
+1,Australia,3,MS Wade,R Vinay Kumar,DA Warner,,0,1,1,,,,319223192
+1,Australia,3,DA Warner,R Vinay Kumar,MS Wade,,0,0,0,caught,DA Warner,SK Raina,319223192
+1,Australia,3,MS Wade,R Vinay Kumar,TR Birt,,0,1,1,,,,319223192
+1,Australia,4,MS Wade,P Kumar,TR Birt,,0,2,2,,,,319223192
+1,Australia,4,MS Wade,P Kumar,TR Birt,,0,0,0,,,,319223192
+1,Australia,4,MS Wade,P Kumar,TR Birt,,0,3,3,,,,319223192
+1,Australia,4,TR Birt,P Kumar,MS Wade,,0,0,0,,,,319223192
+1,Australia,4,TR Birt,P Kumar,MS Wade,,0,1,1,,,,319223192
+1,Australia,4,MS Wade,P Kumar,TR Birt,,0,3,3,,,,319223192
+1,Australia,5,MS Wade,R Vinay Kumar,TR Birt,,0,1,1,,,,319223192
+1,Australia,5,TR Birt,R Vinay Kumar,MS Wade,,0,0,0,,,,319223192
+1,Australia,5,TR Birt,R Vinay Kumar,MS Wade,,0,0,0,,,,319223192
+1,Australia,5,TR Birt,R Vinay Kumar,MS Wade,,0,0,0,,,,319223192
+1,Australia,5,TR Birt,R Vinay Kumar,MS Wade,,0,6,6,,,,319223192
+1,Australia,5,TR Birt,R Vinay Kumar,MS Wade,,0,0,0,,,,319223192
+1,Australia,6,MS Wade,SK Raina,TR Birt,,0,0,0,,,,319223192
+1,Australia,6,MS Wade,SK Raina,TR Birt,,0,1,1,,,,319223192
+1,Australia,6,TR Birt,SK Raina,MS Wade,,0,0,0,,,,319223192
+1,Australia,6,TR Birt,SK Raina,MS Wade,,0,0,0,,,,319223192
+1,Australia,6,TR Birt,SK Raina,MS Wade,,0,1,1,,,,319223192
+1,Australia,6,MS Wade,SK Raina,TR Birt,,0,1,1,,,,319223192
+1,Australia,7,MS Wade,R Ashwin,TR Birt,,0,6,6,,,,319223192
+1,Australia,7,MS Wade,R Ashwin,TR Birt,,0,1,1,,,,319223192
+1,Australia,7,TR Birt,R Ashwin,MS Wade,,0,0,0,,,,319223192
+1,Australia,7,TR Birt,R Ashwin,MS Wade,,0,0,0,,,,319223192
+1,Australia,7,TR Birt,R Ashwin,MS Wade,,0,0,0,,,,319223192
+1,Australia,7,TR Birt,R Ashwin,MS Wade,,0,1,1,,,,319223192
+1,Australia,8,TR Birt,R Sharma,MS Wade,,0,0,0,,,,319223192
+1,Australia,8,TR Birt,R Sharma,MS Wade,,0,4,4,,,,319223192
+1,Australia,8,TR Birt,R Sharma,MS Wade,,0,2,2,,,,319223192
+1,Australia,8,TR Birt,R Sharma,MS Wade,,0,0,0,,,,319223192
+1,Australia,8,TR Birt,RG Sharma,MS Wade,,0,1,1,,,,319223192
+1,Australia,8,MS Wade,RG Sharma,TR Birt,,0,1,1,,,,319223192
+1,Australia,9,MS Wade,R Ashwin,TR Birt,,0,1,1,,,,319223192
+1,Australia,9,TR Birt,R Ashwin,MS Wade,,0,1,1,,,,319223192
+1,Australia,9,MS Wade,R Ashwin,TR Birt,,0,2,2,,,,319223192
+1,Australia,9,MS Wade,R Ashwin,TR Birt,,0,0,0,,,,319223192
+1,Australia,9,MS Wade,R Ashwin,TR Birt,,0,1,1,,,,319223192
+1,Australia,9,TR Birt,R Ashwin,MS Wade,,0,0,0,caught,TR Birt,SK Raina,319223192
+1,Australia,10,MS Wade,RA Jadeja,DJ Hussey,,0,1,1,,,,319223192
+1,Australia,10,DJ Hussey,RA Jadeja,MS Wade,,0,1,1,,,,319223192
+1,Australia,10,MS Wade,RA Jadeja,DJ Hussey,,0,4,4,,,,319223192
+1,Australia,10,MS Wade,RA Jadeja,DJ Hussey,,0,0,0,,,,319223192
+1,Australia,10,MS Wade,RA Jadeja,DJ Hussey,,0,0,0,,,,319223192
+1,Australia,10,MS Wade,RA Jadeja,DJ Hussey,,0,0,0,,,,319223192
+1,Australia,11,DJ Hussey,R Sharma,MS Wade,,0,0,0,,,,319223192
+1,Australia,11,DJ Hussey,R Sharma,MS Wade,,0,0,0,,,,319223192
+1,Australia,11,DJ Hussey,R Sharma,MS Wade,,0,0,0,,,,319223192
+1,Australia,11,DJ Hussey,R Sharma,MS Wade,wides,1,1,0,,,,319223192
+1,Australia,11,DJ Hussey,R Sharma,MS Wade,,0,1,1,,,,319223192
+1,Australia,11,MS Wade,R Sharma,DJ Hussey,,0,1,1,,,,319223192
+1,Australia,11,DJ Hussey,R Sharma,MS Wade,,0,0,0,,,,319223192
+1,Australia,12,MS Wade,RA Jadeja,DJ Hussey,,0,1,1,,,,319223192
+1,Australia,12,DJ Hussey,RA Jadeja,MS Wade,,0,1,1,,,,319223192
+1,Australia,12,MS Wade,RA Jadeja,DJ Hussey,,0,4,4,,,,319223192
+1,Australia,12,MS Wade,RA Jadeja,DJ Hussey,,0,6,6,,,,319223192
+1,Australia,12,MS Wade,RA Jadeja,DJ Hussey,,0,4,4,,,,319223192
+1,Australia,12,MS Wade,RA Jadeja,DJ Hussey,,0,1,1,,,,319223192
+1,Australia,13,MS Wade,P Kumar,DJ Hussey,,0,4,4,,,,319223192
+1,Australia,13,MS Wade,P Kumar,DJ Hussey,,0,1,1,,,,319223192
+1,Australia,13,DJ Hussey,P Kumar,MS Wade,,0,4,4,,,,319223192
+1,Australia,13,DJ Hussey,P Kumar,MS Wade,,0,2,2,,,,319223192
+1,Australia,13,DJ Hussey,P Kumar,MS Wade,,0,1,1,,,,319223192
+1,Australia,13,MS Wade,P Kumar,DJ Hussey,,0,6,6,,,,319223192
+1,Australia,14,DJ Hussey,R Sharma,MS Wade,,0,1,1,,,,319223192
+1,Australia,14,MS Wade,R Sharma,DJ Hussey,,0,0,0,,,,319223192
+1,Australia,14,MS Wade,R Sharma,DJ Hussey,,0,1,1,,,,319223192
+1,Australia,14,DJ Hussey,R Sharma,MS Wade,,0,6,6,,,,319223192
+1,Australia,14,DJ Hussey,R Sharma,MS Wade,,0,0,0,,,,319223192
+1,Australia,14,DJ Hussey,R Sharma,MS Wade,,0,1,1,,,,319223192
+1,Australia,15,DJ Hussey,SK Raina,MS Wade,,0,0,0,,,,319223192
+1,Australia,15,DJ Hussey,SK Raina,MS Wade,,0,1,1,,,,319223192
+1,Australia,15,MS Wade,SK Raina,DJ Hussey,,0,2,2,,,,319223192
+1,Australia,15,MS Wade,SK Raina,DJ Hussey,,0,0,0,bowled,MS Wade,,319223192
+1,Australia,15,GJ Bailey,SK Raina,DJ Hussey,,0,1,1,,,,319223192
+1,Australia,15,DJ Hussey,SK Raina,GJ Bailey,,0,1,1,,,,319223192
+1,Australia,16,DJ Hussey,R Vinay Kumar,GJ Bailey,,0,1,1,,,,319223192
+1,Australia,16,GJ Bailey,R Vinay Kumar,DJ Hussey,,0,1,1,,,,319223192
+1,Australia,16,DJ Hussey,R Vinay Kumar,GJ Bailey,,0,1,1,,,,319223192
+1,Australia,16,GJ Bailey,R Vinay Kumar,DJ Hussey,,0,0,0,,,,319223192
+1,Australia,16,GJ Bailey,R Vinay Kumar,DJ Hussey,,0,1,1,,,,319223192
+1,Australia,16,DJ Hussey,R Vinay Kumar,GJ Bailey,,0,1,1,,,,319223192
+1,Australia,17,DJ Hussey,SK Raina,GJ Bailey,,0,2,2,,,,319223192
+1,Australia,17,DJ Hussey,SK Raina,GJ Bailey,,0,6,6,,,,319223192
+1,Australia,17,DJ Hussey,SK Raina,GJ Bailey,,0,1,1,,,,319223192
+1,Australia,17,GJ Bailey,SK Raina,DJ Hussey,,0,4,4,,,,319223192
+1,Australia,17,GJ Bailey,SK Raina,DJ Hussey,,0,1,1,,,,319223192
+1,Australia,17,DJ Hussey,SK Raina,GJ Bailey,,0,0,0,,,,319223192
+1,Australia,18,GJ Bailey,R Vinay Kumar,DJ Hussey,,0,1,1,,,,319223192
+1,Australia,18,DJ Hussey,R Vinay Kumar,GJ Bailey,,0,1,1,,,,319223192
+1,Australia,18,GJ Bailey,R Vinay Kumar,DJ Hussey,,0,1,1,,,,319223192
+1,Australia,18,DJ Hussey,R Vinay Kumar,GJ Bailey,,0,1,1,,,,319223192
+1,Australia,18,GJ Bailey,R Vinay Kumar,DJ Hussey,,0,1,1,,,,319223192
+1,Australia,18,DJ Hussey,R Vinay Kumar,GJ Bailey,,0,0,0,,,,319223192
+1,Australia,19,GJ Bailey,R Sharma,DJ Hussey,,0,0,0,,,,319223192
+1,Australia,19,GJ Bailey,R Sharma,DJ Hussey,,0,1,1,,,,319223192
+1,Australia,19,DJ Hussey,R Sharma,GJ Bailey,,0,6,6,,,,319223192
+1,Australia,19,DJ Hussey,R Sharma,GJ Bailey,,0,2,2,,,,319223192
+1,Australia,19,DJ Hussey,R Sharma,GJ Bailey,,0,0,0,bowled,DJ Hussey,,319223192
+1,Australia,19,MR Marsh,R Sharma,GJ Bailey,legbyes,1,1,0,,,,319223192

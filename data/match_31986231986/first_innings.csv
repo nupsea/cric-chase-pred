@@ -1,0 +1,133 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Malta,0,G Chaturvedi,SA Mohandas,B Arora,,0,1,1,,,,31986231986
+1,Malta,0,B Arora,SA Mohandas,G Chaturvedi,,0,0,0,,,,31986231986
+1,Malta,0,B Arora,SA Mohandas,G Chaturvedi,,0,4,4,,,,31986231986
+1,Malta,0,B Arora,SA Mohandas,G Chaturvedi,,0,3,3,,,,31986231986
+1,Malta,0,G Chaturvedi,SA Mohandas,B Arora,,0,3,3,,,,31986231986
+1,Malta,0,B Arora,SA Mohandas,G Chaturvedi,,0,0,0,,,,31986231986
+1,Malta,1,G Chaturvedi,HV Mandhyan,B Arora,,0,4,4,,,,31986231986
+1,Malta,1,G Chaturvedi,HV Mandhyan,B Arora,,0,0,0,,,,31986231986
+1,Malta,1,G Chaturvedi,HV Mandhyan,B Arora,,0,0,0,,,,31986231986
+1,Malta,1,G Chaturvedi,HV Mandhyan,B Arora,,0,0,0,,,,31986231986
+1,Malta,1,G Chaturvedi,HV Mandhyan,B Arora,,0,0,0,,,,31986231986
+1,Malta,1,G Chaturvedi,HV Mandhyan,B Arora,wides,1,1,0,,,,31986231986
+1,Malta,1,G Chaturvedi,HV Mandhyan,B Arora,,0,0,0,caught,G Chaturvedi,AG Weligamage,31986231986
+1,Malta,2,B George,SA Mohandas,B Arora,,0,2,2,,,,31986231986
+1,Malta,2,B George,SA Mohandas,B Arora,,0,1,1,,,,31986231986
+1,Malta,2,B Arora,SA Mohandas,B George,,0,0,0,,,,31986231986
+1,Malta,2,B Arora,SA Mohandas,B George,,0,0,0,,,,31986231986
+1,Malta,2,B Arora,SA Mohandas,B George,,0,4,4,,,,31986231986
+1,Malta,2,B Arora,SA Mohandas,B George,,0,1,1,,,,31986231986
+1,Malta,3,B Arora,HV Mandhyan,B George,wides,2,2,0,,,,31986231986
+1,Malta,3,B George,HV Mandhyan,B Arora,,0,4,4,,,,31986231986
+1,Malta,3,B George,HV Mandhyan,B Arora,,0,4,4,,,,31986231986
+1,Malta,3,B George,HV Mandhyan,B Arora,,0,2,2,,,,31986231986
+1,Malta,3,B George,HV Mandhyan,B Arora,,0,0,0,,,,31986231986
+1,Malta,3,B George,HV Mandhyan,B Arora,,0,1,1,,,,31986231986
+1,Malta,3,B Arora,HV Mandhyan,B George,,0,1,1,,,,31986231986
+1,Malta,4,B Arora,SA Mohandas,B George,,0,1,1,,,,31986231986
+1,Malta,4,B George,SA Mohandas,B Arora,,0,1,1,,,,31986231986
+1,Malta,4,B Arora,SA Mohandas,B George,legbyes,1,1,0,,,,31986231986
+1,Malta,4,B George,SA Mohandas,B Arora,,0,6,6,,,,31986231986
+1,Malta,4,B George,SA Mohandas,B Arora,wides,1,1,0,,,,31986231986
+1,Malta,4,B George,SA Mohandas,B Arora,,0,0,0,,,,31986231986
+1,Malta,4,B George,SA Mohandas,B Arora,,0,0,0,,,,31986231986
+1,Malta,5,B Arora,A Kheterpal,B George,,0,1,1,,,,31986231986
+1,Malta,5,B George,A Kheterpal,B Arora,,0,1,1,,,,31986231986
+1,Malta,5,B Arora,A Kheterpal,B George,,0,1,1,,,,31986231986
+1,Malta,5,B George,A Kheterpal,B Arora,,0,0,0,,,,31986231986
+1,Malta,5,B George,A Kheterpal,B Arora,,0,1,1,,,,31986231986
+1,Malta,5,B Arora,A Kheterpal,B George,,0,1,1,,,,31986231986
+1,Malta,6,B Arora,Khaibar Deldar,B George,noballs,3,3,0,,,,31986231986
+1,Malta,6,B Arora,Khaibar Deldar,B George,,0,1,1,,,,31986231986
+1,Malta,6,B George,Khaibar Deldar,B Arora,,0,4,4,,,,31986231986
+1,Malta,6,B George,Khaibar Deldar,B Arora,,0,4,4,,,,31986231986
+1,Malta,6,B George,Khaibar Deldar,B Arora,wides,1,1,0,,,,31986231986
+1,Malta,6,B George,Khaibar Deldar,B Arora,legbyes,1,1,0,,,,31986231986
+1,Malta,6,B Arora,Khaibar Deldar,B George,,0,0,0,,,,31986231986
+1,Malta,6,B Arora,Khaibar Deldar,B George,,0,1,1,,,,31986231986
+1,Malta,7,B Arora,A Kheterpal,B George,,0,1,1,,,,31986231986
+1,Malta,7,B George,A Kheterpal,B Arora,,0,1,1,,,,31986231986
+1,Malta,7,B Arora,A Kheterpal,B George,,0,0,0,,,,31986231986
+1,Malta,7,B Arora,A Kheterpal,B George,,0,0,0,,,,31986231986
+1,Malta,7,B Arora,A Kheterpal,B George,,0,1,1,,,,31986231986
+1,Malta,7,B George,A Kheterpal,B Arora,,0,0,0,,,,31986231986
+1,Malta,8,B Arora,Khaibar Deldar,B George,,0,1,1,,,,31986231986
+1,Malta,8,B George,Khaibar Deldar,B Arora,,0,0,0,,,,31986231986
+1,Malta,8,B George,Khaibar Deldar,B Arora,,0,2,2,,,,31986231986
+1,Malta,8,B George,Khaibar Deldar,B Arora,,0,6,6,,,,31986231986
+1,Malta,8,B George,Khaibar Deldar,B Arora,,0,1,1,,,,31986231986
+1,Malta,8,B Arora,Khaibar Deldar,B George,,0,0,0,,,,31986231986
+1,Malta,9,B George,A Kheterpal,B Arora,,0,1,1,,,,31986231986
+1,Malta,9,B Arora,A Kheterpal,B George,wides,1,1,0,,,,31986231986
+1,Malta,9,B Arora,A Kheterpal,B George,,0,1,1,,,,31986231986
+1,Malta,9,B George,A Kheterpal,B Arora,noballs,1,2,1,,,,31986231986
+1,Malta,9,B Arora,A Kheterpal,B George,noballs,1,2,1,,,,31986231986
+1,Malta,9,B George,A Kheterpal,B Arora,,0,1,1,,,,31986231986
+1,Malta,9,B Arora,A Kheterpal,B George,,0,0,0,,,,31986231986
+1,Malta,9,B Arora,A Kheterpal,B George,,0,1,1,,,,31986231986
+1,Malta,9,B George,A Kheterpal,B Arora,,0,1,1,,,,31986231986
+1,Malta,10,B George,AG Weligamage,B Arora,,0,2,2,,,,31986231986
+1,Malta,10,B George,AG Weligamage,B Arora,,0,1,1,,,,31986231986
+1,Malta,10,B Arora,AG Weligamage,B George,,0,2,2,,,,31986231986
+1,Malta,10,B Arora,AG Weligamage,B George,,0,2,2,,,,31986231986
+1,Malta,10,B Arora,AG Weligamage,B George,wides,5,5,0,,,,31986231986
+1,Malta,10,B Arora,AG Weligamage,B George,legbyes,1,1,0,,,,31986231986
+1,Malta,10,B George,AG Weligamage,B Arora,legbyes,1,1,0,,,,31986231986
+1,Malta,11,B George,Khaibar Deldar,B Arora,,0,0,0,,,,31986231986
+1,Malta,11,B George,Khaibar Deldar,B Arora,,0,2,2,,,,31986231986
+1,Malta,11,B George,Khaibar Deldar,B Arora,,0,4,4,,,,31986231986
+1,Malta,11,B George,Khaibar Deldar,B Arora,,0,4,4,,,,31986231986
+1,Malta,11,B George,Khaibar Deldar,B Arora,,0,2,2,,,,31986231986
+1,Malta,11,B George,Khaibar Deldar,B Arora,,0,0,0,caught,B George,SA Mohandas,31986231986
+1,Malta,12,HS Gericke,HV Mandhyan,B Arora,,0,1,1,,,,31986231986
+1,Malta,12,B Arora,HV Mandhyan,HS Gericke,,0,0,0,,,,31986231986
+1,Malta,12,B Arora,HV Mandhyan,HS Gericke,,0,2,2,,,,31986231986
+1,Malta,12,B Arora,HV Mandhyan,HS Gericke,,0,1,1,,,,31986231986
+1,Malta,12,HS Gericke,HV Mandhyan,B Arora,,0,1,1,,,,31986231986
+1,Malta,12,B Arora,HV Mandhyan,HS Gericke,,0,1,1,,,,31986231986
+1,Malta,13,B Arora,AG Weligamage,HS Gericke,legbyes,1,1,0,,,,31986231986
+1,Malta,13,HS Gericke,AG Weligamage,B Arora,,0,0,0,,,,31986231986
+1,Malta,13,HS Gericke,AG Weligamage,B Arora,,0,4,4,,,,31986231986
+1,Malta,13,HS Gericke,AG Weligamage,B Arora,,0,0,0,caught,HS Gericke,Zahir Mohammed,31986231986
+1,Malta,13,B Arora,AG Weligamage,Aaftab Alam Khan,,0,4,4,,,,31986231986
+1,Malta,13,B Arora,AG Weligamage,Aaftab Alam Khan,,0,6,6,,,,31986231986
+1,Malta,14,Aaftab Alam Khan,HV Mandhyan,B Arora,,0,0,0,,,,31986231986
+1,Malta,14,Aaftab Alam Khan,HV Mandhyan,B Arora,,0,4,4,,,,31986231986
+1,Malta,14,Aaftab Alam Khan,HV Mandhyan,B Arora,,0,1,1,,,,31986231986
+1,Malta,14,B Arora,HV Mandhyan,Aaftab Alam Khan,,0,1,1,,,,31986231986
+1,Malta,14,Aaftab Alam Khan,HV Mandhyan,B Arora,,0,1,1,,,,31986231986
+1,Malta,14,B Arora,HV Mandhyan,Aaftab Alam Khan,,0,2,2,,,,31986231986
+1,Malta,15,Aaftab Alam Khan,AG Weligamage,B Arora,,0,0,0,,,,31986231986
+1,Malta,15,Aaftab Alam Khan,AG Weligamage,B Arora,wides,1,1,0,,,,31986231986
+1,Malta,15,Aaftab Alam Khan,AG Weligamage,B Arora,,0,1,1,,,,31986231986
+1,Malta,15,B Arora,AG Weligamage,Aaftab Alam Khan,,0,2,2,,,,31986231986
+1,Malta,15,B Arora,AG Weligamage,Aaftab Alam Khan,wides,2,2,0,,,,31986231986
+1,Malta,15,Aaftab Alam Khan,AG Weligamage,B Arora,,0,0,0,bowled,Aaftab Alam Khan,,31986231986
+1,Malta,15,VP Thamotharam,AG Weligamage,B Arora,,0,1,1,,,,31986231986
+1,Malta,15,B Arora,AG Weligamage,VP Thamotharam,,0,4,4,,,,31986231986
+1,Malta,16,VP Thamotharam,Zahir Mohammed,B Arora,,0,1,1,,,,31986231986
+1,Malta,16,B Arora,Zahir Mohammed,VP Thamotharam,wides,5,5,0,,,,31986231986
+1,Malta,16,B Arora,Zahir Mohammed,VP Thamotharam,,0,4,4,,,,31986231986
+1,Malta,16,B Arora,Zahir Mohammed,VP Thamotharam,,0,1,1,,,,31986231986
+1,Malta,16,VP Thamotharam,Zahir Mohammed,B Arora,,0,6,6,,,,31986231986
+1,Malta,16,VP Thamotharam,Zahir Mohammed,B Arora,,0,0,0,,,,31986231986
+1,Malta,16,VP Thamotharam,Zahir Mohammed,B Arora,,0,6,6,,,,31986231986
+1,Malta,17,B Arora,AG Weligamage,VP Thamotharam,,0,1,1,,,,31986231986
+1,Malta,17,VP Thamotharam,AG Weligamage,B Arora,,0,1,1,,,,31986231986
+1,Malta,17,B Arora,AG Weligamage,VP Thamotharam,,0,0,0,,,,31986231986
+1,Malta,17,B Arora,AG Weligamage,VP Thamotharam,,0,2,2,,,,31986231986
+1,Malta,17,B Arora,AG Weligamage,VP Thamotharam,,0,0,0,bowled,B Arora,,31986231986
+1,Malta,17,Bilal Muhammad,AG Weligamage,VP Thamotharam,,0,4,4,,,,31986231986
+1,Malta,18,VP Thamotharam,A Kheterpal,Bilal Muhammad,,0,0,0,,,,31986231986
+1,Malta,18,VP Thamotharam,A Kheterpal,Bilal Muhammad,,0,1,1,,,,31986231986
+1,Malta,18,Bilal Muhammad,A Kheterpal,VP Thamotharam,,0,1,1,,,,31986231986
+1,Malta,18,VP Thamotharam,A Kheterpal,Bilal Muhammad,,0,0,0,,,,31986231986
+1,Malta,18,VP Thamotharam,A Kheterpal,Bilal Muhammad,,0,1,1,,,,31986231986
+1,Malta,18,Bilal Muhammad,A Kheterpal,VP Thamotharam,,0,1,1,,,,31986231986
+1,Malta,19,Bilal Muhammad,SA Mohandas,VP Thamotharam,,0,0,0,caught,Bilal Muhammad,Khaibar Deldar,31986231986
+1,Malta,19,VP Thamotharam,SA Mohandas,N Khanna,,0,6,6,,,,31986231986
+1,Malta,19,VP Thamotharam,SA Mohandas,N Khanna,,0,1,1,,,,31986231986
+1,Malta,19,N Khanna,SA Mohandas,VP Thamotharam,,0,1,1,,,,31986231986
+1,Malta,19,VP Thamotharam,SA Mohandas,N Khanna,,0,4,4,,,,31986231986
+1,Malta,19,VP Thamotharam,SA Mohandas,N Khanna,,0,1,1,run out,N Khanna,A Kheterpal,31986231986

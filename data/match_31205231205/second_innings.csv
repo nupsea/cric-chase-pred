@@ -1,0 +1,121 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Namibia,0,A van der Merwe,C Sutthiruang,SA Wittmann,,0,0,0,bowled,A van der Merwe,,31205231205
+2,Namibia,0,KA Green,C Sutthiruang,SA Wittmann,,0,1,1,,,,31205231205
+2,Namibia,0,SA Wittmann,C Sutthiruang,KA Green,,0,0,0,,,,31205231205
+2,Namibia,0,SA Wittmann,C Sutthiruang,KA Green,,0,0,0,,,,31205231205
+2,Namibia,0,SA Wittmann,C Sutthiruang,KA Green,,0,0,0,,,,31205231205
+2,Namibia,0,SA Wittmann,C Sutthiruang,KA Green,,0,0,0,,,,31205231205
+2,Namibia,1,KA Green,N Boochatham,SA Wittmann,,0,0,0,lbw,KA Green,,31205231205
+2,Namibia,1,MP Enright,N Boochatham,SA Wittmann,,0,0,0,,,,31205231205
+2,Namibia,1,MP Enright,N Boochatham,SA Wittmann,,0,0,0,,,,31205231205
+2,Namibia,1,MP Enright,N Boochatham,SA Wittmann,,0,0,0,,,,31205231205
+2,Namibia,1,MP Enright,N Boochatham,SA Wittmann,,0,0,0,,,,31205231205
+2,Namibia,1,MP Enright,N Boochatham,SA Wittmann,,0,1,1,,,,31205231205
+2,Namibia,2,MP Enright,C Sutthiruang,SA Wittmann,wides,1,1,0,,,,31205231205
+2,Namibia,2,MP Enright,C Sutthiruang,SA Wittmann,,0,0,0,,,,31205231205
+2,Namibia,2,MP Enright,C Sutthiruang,SA Wittmann,,0,0,0,caught,MP Enright,N Koncharoenkai,31205231205
+2,Namibia,2,Yasmeen Khan,C Sutthiruang,SA Wittmann,,0,0,0,,,,31205231205
+2,Namibia,2,Yasmeen Khan,C Sutthiruang,SA Wittmann,,0,0,0,,,,31205231205
+2,Namibia,2,Yasmeen Khan,C Sutthiruang,SA Wittmann,,0,0,0,,,,31205231205
+2,Namibia,2,Yasmeen Khan,C Sutthiruang,SA Wittmann,,0,0,0,,,,31205231205
+2,Namibia,3,SA Wittmann,N Boochatham,Yasmeen Khan,,0,0,0,,,,31205231205
+2,Namibia,3,SA Wittmann,N Boochatham,Yasmeen Khan,,0,1,1,,,,31205231205
+2,Namibia,3,Yasmeen Khan,N Boochatham,SA Wittmann,,0,0,0,,,,31205231205
+2,Namibia,3,Yasmeen Khan,N Boochatham,SA Wittmann,,0,0,0,,,,31205231205
+2,Namibia,3,Yasmeen Khan,N Boochatham,SA Wittmann,,0,0,0,,,,31205231205
+2,Namibia,3,Yasmeen Khan,N Boochatham,SA Wittmann,,0,0,0,,,,31205231205
+2,Namibia,4,SA Wittmann,S Tippoch,Yasmeen Khan,,0,1,1,,,,31205231205
+2,Namibia,4,Yasmeen Khan,S Tippoch,SA Wittmann,,0,1,1,,,,31205231205
+2,Namibia,4,SA Wittmann,S Tippoch,Yasmeen Khan,,0,0,0,,,,31205231205
+2,Namibia,4,SA Wittmann,S Tippoch,Yasmeen Khan,,0,0,0,,,,31205231205
+2,Namibia,4,SA Wittmann,S Tippoch,Yasmeen Khan,,0,0,0,,,,31205231205
+2,Namibia,4,SA Wittmann,S Tippoch,Yasmeen Khan,,0,1,1,,,,31205231205
+2,Namibia,5,SA Wittmann,C Sutthiruang,Yasmeen Khan,,0,0,0,,,,31205231205
+2,Namibia,5,SA Wittmann,C Sutthiruang,Yasmeen Khan,,0,4,4,,,,31205231205
+2,Namibia,5,SA Wittmann,C Sutthiruang,Yasmeen Khan,,0,0,0,,,,31205231205
+2,Namibia,5,SA Wittmann,C Sutthiruang,Yasmeen Khan,,0,4,4,,,,31205231205
+2,Namibia,5,SA Wittmann,C Sutthiruang,Yasmeen Khan,,0,0,0,,,,31205231205
+2,Namibia,5,SA Wittmann,C Sutthiruang,Yasmeen Khan,,0,0,0,bowled,SA Wittmann,,31205231205
+2,Namibia,6,Yasmeen Khan,S Laomi,I van Zyl,,0,0,0,,,,31205231205
+2,Namibia,6,Yasmeen Khan,S Laomi,I van Zyl,,0,0,0,,,,31205231205
+2,Namibia,6,Yasmeen Khan,S Laomi,I van Zyl,,0,0,0,,,,31205231205
+2,Namibia,6,Yasmeen Khan,S Laomi,I van Zyl,,0,0,0,,,,31205231205
+2,Namibia,6,Yasmeen Khan,S Laomi,I van Zyl,,0,0,0,,,,31205231205
+2,Namibia,6,Yasmeen Khan,S Laomi,I van Zyl,,0,0,0,,,,31205231205
+2,Namibia,7,I van Zyl,O Kamchomphu,Yasmeen Khan,,0,0,0,,,,31205231205
+2,Namibia,7,I van Zyl,O Kamchomphu,Yasmeen Khan,,0,0,0,,,,31205231205
+2,Namibia,7,I van Zyl,O Kamchomphu,Yasmeen Khan,,0,0,0,,,,31205231205
+2,Namibia,7,I van Zyl,O Kamchomphu,Yasmeen Khan,,0,0,0,,,,31205231205
+2,Namibia,7,I van Zyl,O Kamchomphu,Yasmeen Khan,,0,1,1,,,,31205231205
+2,Namibia,7,Yasmeen Khan,O Kamchomphu,I van Zyl,,0,1,1,,,,31205231205
+2,Namibia,8,Yasmeen Khan,S Laomi,I van Zyl,,0,0,0,,,,31205231205
+2,Namibia,8,Yasmeen Khan,S Laomi,I van Zyl,,0,0,0,,,,31205231205
+2,Namibia,8,Yasmeen Khan,S Laomi,I van Zyl,,0,0,0,,,,31205231205
+2,Namibia,8,Yasmeen Khan,S Laomi,I van Zyl,,0,1,1,,,,31205231205
+2,Namibia,8,I van Zyl,S Laomi,Yasmeen Khan,,0,0,0,,,,31205231205
+2,Namibia,8,I van Zyl,S Laomi,Yasmeen Khan,,0,0,0,,,,31205231205
+2,Namibia,9,Yasmeen Khan,O Kamchomphu,I van Zyl,,0,1,1,,,,31205231205
+2,Namibia,9,I van Zyl,O Kamchomphu,Yasmeen Khan,,0,0,0,,,,31205231205
+2,Namibia,9,I van Zyl,O Kamchomphu,Yasmeen Khan,,0,0,0,,,,31205231205
+2,Namibia,9,I van Zyl,O Kamchomphu,Yasmeen Khan,,0,0,0,,,,31205231205
+2,Namibia,9,I van Zyl,O Kamchomphu,Yasmeen Khan,,0,0,0,,,,31205231205
+2,Namibia,9,I van Zyl,O Kamchomphu,Yasmeen Khan,,0,0,0,,,,31205231205
+2,Namibia,10,Yasmeen Khan,S Laomi,I van Zyl,,0,1,1,,,,31205231205
+2,Namibia,10,I van Zyl,S Laomi,Yasmeen Khan,,0,0,0,,,,31205231205
+2,Namibia,10,I van Zyl,S Laomi,Yasmeen Khan,,0,0,0,,,,31205231205
+2,Namibia,10,I van Zyl,S Laomi,Yasmeen Khan,,0,1,1,,,,31205231205
+2,Namibia,10,Yasmeen Khan,S Laomi,I van Zyl,,0,2,2,,,,31205231205
+2,Namibia,10,Yasmeen Khan,S Laomi,I van Zyl,,0,1,1,,,,31205231205
+2,Namibia,11,Yasmeen Khan,R Padunglerd,I van Zyl,,0,0,0,run out,I van Zyl,,31205231205
+2,Namibia,11,JA Diergaardt,R Padunglerd,Yasmeen Khan,,0,0,0,lbw,JA Diergaardt,,31205231205
+2,Namibia,11,D Foerster,R Padunglerd,Yasmeen Khan,,0,0,0,,,,31205231205
+2,Namibia,11,D Foerster,R Padunglerd,Yasmeen Khan,,0,1,1,,,,31205231205
+2,Namibia,11,Yasmeen Khan,R Padunglerd,D Foerster,,0,0,0,,,,31205231205
+2,Namibia,11,Yasmeen Khan,R Padunglerd,D Foerster,,0,0,0,bowled,Yasmeen Khan,,31205231205
+2,Namibia,12,D Foerster,S Laomi,W Mwatile,,0,2,2,,,,31205231205
+2,Namibia,12,D Foerster,S Laomi,W Mwatile,,0,0,0,,,,31205231205
+2,Namibia,12,D Foerster,S Laomi,W Mwatile,,0,1,1,,,,31205231205
+2,Namibia,12,W Mwatile,S Laomi,D Foerster,,0,1,1,,,,31205231205
+2,Namibia,12,D Foerster,S Laomi,W Mwatile,,0,2,2,,,,31205231205
+2,Namibia,12,D Foerster,S Laomi,W Mwatile,,0,2,2,,,,31205231205
+2,Namibia,13,W Mwatile,R Padunglerd,D Foerster,,0,1,1,,,,31205231205
+2,Namibia,13,D Foerster,R Padunglerd,W Mwatile,,0,0,0,,,,31205231205
+2,Namibia,13,D Foerster,R Padunglerd,W Mwatile,,0,0,0,,,,31205231205
+2,Namibia,13,D Foerster,R Padunglerd,W Mwatile,,0,0,0,,,,31205231205
+2,Namibia,13,D Foerster,R Padunglerd,W Mwatile,,0,0,0,,,,31205231205
+2,Namibia,13,D Foerster,R Padunglerd,W Mwatile,,0,1,1,run out,D Foerster,,31205231205
+2,Namibia,14,W Mwatile,S Tippoch,SN Shihepo,,0,1,1,,,,31205231205
+2,Namibia,14,SN Shihepo,S Tippoch,W Mwatile,,0,0,0,,,,31205231205
+2,Namibia,14,SN Shihepo,S Tippoch,W Mwatile,,0,1,1,,,,31205231205
+2,Namibia,14,W Mwatile,S Tippoch,SN Shihepo,,0,1,1,,,,31205231205
+2,Namibia,14,SN Shihepo,S Tippoch,W Mwatile,,0,0,0,,,,31205231205
+2,Namibia,14,SN Shihepo,S Tippoch,W Mwatile,,0,0,0,,,,31205231205
+2,Namibia,15,W Mwatile,O Kamchomphu,SN Shihepo,wides,3,3,0,,,,31205231205
+2,Namibia,15,W Mwatile,O Kamchomphu,SN Shihepo,,0,1,1,,,,31205231205
+2,Namibia,15,SN Shihepo,O Kamchomphu,W Mwatile,,0,1,1,,,,31205231205
+2,Namibia,15,W Mwatile,O Kamchomphu,SN Shihepo,,0,4,4,,,,31205231205
+2,Namibia,15,W Mwatile,O Kamchomphu,SN Shihepo,,0,1,1,,,,31205231205
+2,Namibia,15,SN Shihepo,O Kamchomphu,W Mwatile,,0,0,0,,,,31205231205
+2,Namibia,15,SN Shihepo,O Kamchomphu,W Mwatile,,0,1,1,,,,31205231205
+2,Namibia,16,SN Shihepo,N Boochatham,W Mwatile,,0,0,0,caught,SN Shihepo,N Chantam,31205231205
+2,Namibia,16,V Hamunyela,N Boochatham,W Mwatile,,0,1,1,,,,31205231205
+2,Namibia,16,W Mwatile,N Boochatham,V Hamunyela,,0,0,0,,,,31205231205
+2,Namibia,16,W Mwatile,N Boochatham,V Hamunyela,,0,0,0,,,,31205231205
+2,Namibia,16,W Mwatile,N Boochatham,V Hamunyela,,0,2,2,,,,31205231205
+2,Namibia,16,W Mwatile,N Boochatham,V Hamunyela,,0,0,0,,,,31205231205
+2,Namibia,17,V Hamunyela,S Tippoch,W Mwatile,,0,0,0,,,,31205231205
+2,Namibia,17,V Hamunyela,S Tippoch,W Mwatile,,0,1,1,,,,31205231205
+2,Namibia,17,W Mwatile,S Tippoch,V Hamunyela,,0,1,1,,,,31205231205
+2,Namibia,17,V Hamunyela,S Tippoch,W Mwatile,,0,1,1,,,,31205231205
+2,Namibia,17,W Mwatile,S Tippoch,V Hamunyela,legbyes,1,1,0,,,,31205231205
+2,Namibia,17,V Hamunyela,S Tippoch,W Mwatile,,0,0,0,,,,31205231205
+2,Namibia,18,W Mwatile,N Boochatham,V Hamunyela,wides,1,1,0,,,,31205231205
+2,Namibia,18,W Mwatile,N Boochatham,V Hamunyela,,0,0,0,,,,31205231205
+2,Namibia,18,W Mwatile,N Boochatham,V Hamunyela,,0,0,0,,,,31205231205
+2,Namibia,18,W Mwatile,N Boochatham,V Hamunyela,,0,0,0,,,,31205231205
+2,Namibia,18,W Mwatile,N Boochatham,V Hamunyela,,0,0,0,,,,31205231205
+2,Namibia,18,W Mwatile,N Boochatham,V Hamunyela,,0,1,1,,,,31205231205
+2,Namibia,18,V Hamunyela,N Boochatham,W Mwatile,,0,0,0,,,,31205231205
+2,Namibia,19,W Mwatile,C Sutthiruang,V Hamunyela,wides,1,1,0,,,,31205231205
+2,Namibia,19,W Mwatile,C Sutthiruang,V Hamunyela,,0,2,2,,,,31205231205
+2,Namibia,19,W Mwatile,C Sutthiruang,V Hamunyela,,0,0,0,caught,W Mwatile,S Tippoch,31205231205

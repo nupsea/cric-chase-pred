@@ -1,0 +1,126 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Australia,0,DA Warner,TA Boult,DJM Short,,0,0,0,,,,371523715
+2,Australia,0,DA Warner,TA Boult,DJM Short,,0,1,1,,,,371523715
+2,Australia,0,DJM Short,TA Boult,DA Warner,,0,0,0,,,,371523715
+2,Australia,0,DJM Short,TA Boult,DA Warner,wides,5,5,0,,,,371523715
+2,Australia,0,DJM Short,TA Boult,DA Warner,,0,0,0,,,,371523715
+2,Australia,0,DJM Short,TA Boult,DA Warner,,0,1,1,,,,371523715
+2,Australia,0,DA Warner,TA Boult,DJM Short,,0,4,4,,,,371523715
+2,Australia,1,DJM Short,BM Wheeler,DA Warner,,0,0,0,,,,371523715
+2,Australia,1,DJM Short,BM Wheeler,DA Warner,,0,6,6,,,,371523715
+2,Australia,1,DJM Short,BM Wheeler,DA Warner,,0,4,4,,,,371523715
+2,Australia,1,DJM Short,BM Wheeler,DA Warner,,0,4,4,,,,371523715
+2,Australia,1,DJM Short,BM Wheeler,DA Warner,,0,0,0,,,,371523715
+2,Australia,1,DJM Short,BM Wheeler,DA Warner,,0,2,2,,,,371523715
+2,Australia,2,DA Warner,TG Southee,DJM Short,,0,4,4,,,,371523715
+2,Australia,2,DA Warner,TG Southee,DJM Short,,0,1,1,,,,371523715
+2,Australia,2,DJM Short,TG Southee,DA Warner,,0,1,1,,,,371523715
+2,Australia,2,DA Warner,TG Southee,DJM Short,,0,1,1,,,,371523715
+2,Australia,2,DJM Short,TG Southee,DA Warner,wides,1,1,0,,,,371523715
+2,Australia,2,DJM Short,TG Southee,DA Warner,,0,4,4,,,,371523715
+2,Australia,2,DJM Short,TG Southee,DA Warner,,0,4,4,,,,371523715
+2,Australia,3,DA Warner,TA Boult,DJM Short,,0,1,1,,,,371523715
+2,Australia,3,DJM Short,TA Boult,DA Warner,,0,4,4,,,,371523715
+2,Australia,3,DJM Short,TA Boult,DA Warner,,0,0,0,,,,371523715
+2,Australia,3,DJM Short,TA Boult,DA Warner,,0,0,0,,,,371523715
+2,Australia,3,DJM Short,TA Boult,DA Warner,,0,0,0,,,,371523715
+2,Australia,3,DJM Short,TA Boult,DA Warner,wides,1,1,0,,,,371523715
+2,Australia,3,DJM Short,TA Boult,DA Warner,,0,2,2,,,,371523715
+2,Australia,4,DA Warner,BM Wheeler,DJM Short,,0,0,0,,,,371523715
+2,Australia,4,DA Warner,BM Wheeler,DJM Short,,0,6,6,,,,371523715
+2,Australia,4,DA Warner,BM Wheeler,DJM Short,wides,1,1,0,,,,371523715
+2,Australia,4,DA Warner,BM Wheeler,DJM Short,wides,1,1,0,,,,371523715
+2,Australia,4,DA Warner,BM Wheeler,DJM Short,,0,6,6,,,,371523715
+2,Australia,4,DA Warner,BM Wheeler,DJM Short,,0,1,1,,,,371523715
+2,Australia,4,DJM Short,BM Wheeler,DA Warner,wides,5,5,0,,,,371523715
+2,Australia,4,DJM Short,BM Wheeler,DA Warner,,0,1,1,,,,371523715
+2,Australia,4,DA Warner,BM Wheeler,DJM Short,,0,1,1,,,,371523715
+2,Australia,5,DA Warner,TG Southee,DJM Short,,0,1,1,,,,371523715
+2,Australia,5,DJM Short,TG Southee,DA Warner,,0,4,4,,,,371523715
+2,Australia,5,DJM Short,TG Southee,DA Warner,,0,1,1,,,,371523715
+2,Australia,5,DA Warner,TG Southee,DJM Short,,0,6,6,,,,371523715
+2,Australia,5,DA Warner,TG Southee,DJM Short,,0,0,0,,,,371523715
+2,Australia,5,DA Warner,TG Southee,DJM Short,,0,6,6,,,,371523715
+2,Australia,6,DJM Short,IS Sodhi,DA Warner,,0,2,2,,,,371523715
+2,Australia,6,DJM Short,IS Sodhi,DA Warner,,0,1,1,,,,371523715
+2,Australia,6,DA Warner,IS Sodhi,DJM Short,,0,1,1,,,,371523715
+2,Australia,6,DJM Short,IS Sodhi,DA Warner,,0,2,2,,,,371523715
+2,Australia,6,DJM Short,IS Sodhi,DA Warner,,0,0,0,,,,371523715
+2,Australia,6,DJM Short,IS Sodhi,DA Warner,,0,2,2,,,,371523715
+2,Australia,7,DA Warner,C de Grandhomme,DJM Short,,0,4,4,,,,371523715
+2,Australia,7,DA Warner,C de Grandhomme,DJM Short,wides,1,1,0,,,,371523715
+2,Australia,7,DA Warner,C de Grandhomme,DJM Short,,0,2,2,,,,371523715
+2,Australia,7,DA Warner,C de Grandhomme,DJM Short,,0,4,4,,,,371523715
+2,Australia,7,DA Warner,C de Grandhomme,DJM Short,,0,1,1,,,,371523715
+2,Australia,7,DJM Short,C de Grandhomme,DA Warner,,0,1,1,,,,371523715
+2,Australia,7,DA Warner,C de Grandhomme,DJM Short,,0,2,2,,,,371523715
+2,Australia,8,DJM Short,IS Sodhi,DA Warner,,0,1,1,,,,371523715
+2,Australia,8,DA Warner,IS Sodhi,DJM Short,,0,6,6,,,,371523715
+2,Australia,8,DA Warner,IS Sodhi,DJM Short,,0,0,0,bowled,DA Warner,,371523715
+2,Australia,8,CA Lynn,IS Sodhi,DJM Short,,0,1,1,,,,371523715
+2,Australia,8,DJM Short,IS Sodhi,CA Lynn,,0,1,1,,,,371523715
+2,Australia,8,CA Lynn,IS Sodhi,DJM Short,,0,1,1,,,,371523715
+2,Australia,9,CA Lynn,C de Grandhomme,DJM Short,,0,0,0,,,,371523715
+2,Australia,9,CA Lynn,C de Grandhomme,DJM Short,,0,6,6,,,,371523715
+2,Australia,9,CA Lynn,C de Grandhomme,DJM Short,,0,1,1,,,,371523715
+2,Australia,9,DJM Short,C de Grandhomme,CA Lynn,,0,1,1,,,,371523715
+2,Australia,9,CA Lynn,C de Grandhomme,DJM Short,,0,2,2,,,,371523715
+2,Australia,9,CA Lynn,C de Grandhomme,DJM Short,,0,1,1,,,,371523715
+2,Australia,10,CA Lynn,IS Sodhi,DJM Short,,0,0,0,,,,371523715
+2,Australia,10,CA Lynn,IS Sodhi,DJM Short,,0,1,1,,,,371523715
+2,Australia,10,DJM Short,IS Sodhi,CA Lynn,,0,1,1,,,,371523715
+2,Australia,10,CA Lynn,IS Sodhi,DJM Short,wides,1,1,0,,,,371523715
+2,Australia,10,CA Lynn,IS Sodhi,DJM Short,,0,0,0,,,,371523715
+2,Australia,10,CA Lynn,IS Sodhi,DJM Short,,0,4,4,,,,371523715
+2,Australia,10,CA Lynn,IS Sodhi,DJM Short,,0,1,1,,,,371523715
+2,Australia,11,CA Lynn,C de Grandhomme,DJM Short,,0,0,0,caught,CA Lynn,MJ Guptill,371523715
+2,Australia,11,DJM Short,C de Grandhomme,GJ Maxwell,,0,6,6,,,,371523715
+2,Australia,11,DJM Short,C de Grandhomme,GJ Maxwell,wides,1,1,0,,,,371523715
+2,Australia,11,DJM Short,C de Grandhomme,GJ Maxwell,,0,1,1,,,,371523715
+2,Australia,11,GJ Maxwell,C de Grandhomme,DJM Short,,0,1,1,,,,371523715
+2,Australia,11,DJM Short,C de Grandhomme,GJ Maxwell,,0,6,6,,,,371523715
+2,Australia,11,DJM Short,C de Grandhomme,GJ Maxwell,,0,4,4,,,,371523715
+2,Australia,12,GJ Maxwell,BM Wheeler,DJM Short,,0,6,6,,,,371523715
+2,Australia,12,GJ Maxwell,BM Wheeler,DJM Short,,0,4,4,,,,371523715
+2,Australia,12,GJ Maxwell,BM Wheeler,DJM Short,,0,1,1,,,,371523715
+2,Australia,12,DJM Short,BM Wheeler,GJ Maxwell,,0,0,0,,,,371523715
+2,Australia,12,DJM Short,BM Wheeler,GJ Maxwell,,0,1,1,,,,371523715
+2,Australia,12,GJ Maxwell,BM Wheeler,DJM Short,,0,1,1,,,,371523715
+2,Australia,13,GJ Maxwell,TA Boult,DJM Short,,0,1,1,,,,371523715
+2,Australia,13,DJM Short,TA Boult,GJ Maxwell,,0,0,0,,,,371523715
+2,Australia,13,DJM Short,TA Boult,GJ Maxwell,,0,4,4,,,,371523715
+2,Australia,13,DJM Short,TA Boult,GJ Maxwell,,0,1,1,,,,371523715
+2,Australia,13,GJ Maxwell,TA Boult,DJM Short,,0,4,4,,,,371523715
+2,Australia,13,GJ Maxwell,TA Boult,DJM Short,,0,1,1,,,,371523715
+2,Australia,14,GJ Maxwell,IS Sodhi,DJM Short,,0,6,6,,,,371523715
+2,Australia,14,GJ Maxwell,IS Sodhi,DJM Short,,0,1,1,,,,371523715
+2,Australia,14,DJM Short,IS Sodhi,GJ Maxwell,,0,0,0,,,,371523715
+2,Australia,14,DJM Short,IS Sodhi,GJ Maxwell,,0,1,1,,,,371523715
+2,Australia,14,GJ Maxwell,IS Sodhi,DJM Short,,0,0,0,,,,371523715
+2,Australia,14,GJ Maxwell,IS Sodhi,DJM Short,,0,1,1,,,,371523715
+2,Australia,15,GJ Maxwell,TG Southee,DJM Short,,0,4,4,,,,371523715
+2,Australia,15,GJ Maxwell,TG Southee,DJM Short,,0,0,0,bowled,GJ Maxwell,,371523715
+2,Australia,15,AJ Finch,TG Southee,DJM Short,,0,0,0,,,,371523715
+2,Australia,15,AJ Finch,TG Southee,DJM Short,,0,1,1,,,,371523715
+2,Australia,15,DJM Short,TG Southee,AJ Finch,,0,1,1,,,,371523715
+2,Australia,15,AJ Finch,TG Southee,DJM Short,,0,1,1,,,,371523715
+2,Australia,16,AJ Finch,BM Wheeler,DJM Short,noballs,1,7,6,,,,371523715
+2,Australia,16,AJ Finch,BM Wheeler,DJM Short,,0,4,4,,,,371523715
+2,Australia,16,AJ Finch,BM Wheeler,DJM Short,noballs,1,2,1,,,,371523715
+2,Australia,16,DJM Short,TA Boult,AJ Finch,,0,1,1,,,,371523715
+2,Australia,16,AJ Finch,TA Boult,DJM Short,,0,1,1,,,,371523715
+2,Australia,16,DJM Short,TA Boult,AJ Finch,,0,0,0,caught,DJM Short,TL Seifert,371523715
+2,Australia,16,AJ Finch,TA Boult,MP Stoinis,,0,4,4,,,,371523715
+2,Australia,16,AJ Finch,TA Boult,MP Stoinis,,0,6,6,,,,371523715
+2,Australia,17,MP Stoinis,TG Southee,AJ Finch,,0,0,0,,,,371523715
+2,Australia,17,MP Stoinis,TG Southee,AJ Finch,,0,1,1,,,,371523715
+2,Australia,17,AJ Finch,TG Southee,MP Stoinis,,0,1,1,,,,371523715
+2,Australia,17,MP Stoinis,TG Southee,AJ Finch,,0,1,1,,,,371523715
+2,Australia,17,AJ Finch,TG Southee,MP Stoinis,,0,4,4,,,,371523715
+2,Australia,17,AJ Finch,TG Southee,MP Stoinis,,0,0,0,,,,371523715
+2,Australia,18,MP Stoinis,C de Grandhomme,AJ Finch,,0,1,1,,,,371523715
+2,Australia,18,AJ Finch,C de Grandhomme,MP Stoinis,wides,1,1,0,,,,371523715
+2,Australia,18,AJ Finch,C de Grandhomme,MP Stoinis,,0,1,1,,,,371523715
+2,Australia,18,MP Stoinis,C de Grandhomme,AJ Finch,,0,1,1,run out,MP Stoinis,,371523715
+2,Australia,18,AT Carey,C de Grandhomme,AJ Finch,,0,1,1,,,,371523715
+2,Australia,18,AJ Finch,C de Grandhomme,AT Carey,,0,6,6,,,,371523715

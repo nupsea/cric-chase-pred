@@ -1,0 +1,126 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,New Zealand,0,BB McCullum,DW Steyn,MJ Guptill,,0,0,0,,,,3752375
+2,New Zealand,0,BB McCullum,DW Steyn,MJ Guptill,,0,0,0,,,,3752375
+2,New Zealand,0,BB McCullum,DW Steyn,MJ Guptill,,0,4,4,,,,3752375
+2,New Zealand,0,BB McCullum,DW Steyn,MJ Guptill,,0,1,1,,,,3752375
+2,New Zealand,0,MJ Guptill,DW Steyn,BB McCullum,,0,0,0,,,,3752375
+2,New Zealand,0,MJ Guptill,DW Steyn,BB McCullum,,0,1,1,,,,3752375
+2,New Zealand,1,MJ Guptill,WD Parnell,BB McCullum,,0,4,4,,,,3752375
+2,New Zealand,1,MJ Guptill,WD Parnell,BB McCullum,,0,1,1,,,,3752375
+2,New Zealand,1,BB McCullum,WD Parnell,MJ Guptill,,0,4,4,,,,3752375
+2,New Zealand,1,BB McCullum,WD Parnell,MJ Guptill,,0,0,0,,,,3752375
+2,New Zealand,1,BB McCullum,WD Parnell,MJ Guptill,,0,4,4,,,,3752375
+2,New Zealand,1,BB McCullum,WD Parnell,MJ Guptill,,0,0,0,,,,3752375
+2,New Zealand,2,MJ Guptill,DW Steyn,BB McCullum,,0,0,0,caught,MJ Guptill,RE van der Merwe,3752375
+2,New Zealand,2,NT Broom,DW Steyn,BB McCullum,,0,1,1,,,,3752375
+2,New Zealand,2,BB McCullum,DW Steyn,NT Broom,,0,1,1,,,,3752375
+2,New Zealand,2,NT Broom,DW Steyn,BB McCullum,,0,0,0,,,,3752375
+2,New Zealand,2,NT Broom,DW Steyn,BB McCullum,,0,0,0,,,,3752375
+2,New Zealand,2,NT Broom,DW Steyn,BB McCullum,,0,0,0,,,,3752375
+2,New Zealand,3,BB McCullum,JH Kallis,NT Broom,,0,4,4,,,,3752375
+2,New Zealand,3,BB McCullum,JH Kallis,NT Broom,,0,1,1,,,,3752375
+2,New Zealand,3,NT Broom,JH Kallis,BB McCullum,,0,0,0,caught and bowled,NT Broom,,3752375
+2,New Zealand,3,LRPL Taylor,JH Kallis,BB McCullum,wides,1,1,0,,,,3752375
+2,New Zealand,3,LRPL Taylor,JH Kallis,BB McCullum,,0,0,0,,,,3752375
+2,New Zealand,3,LRPL Taylor,JH Kallis,BB McCullum,,0,0,0,,,,3752375
+2,New Zealand,3,LRPL Taylor,JH Kallis,BB McCullum,wides,1,1,0,,,,3752375
+2,New Zealand,3,LRPL Taylor,JH Kallis,BB McCullum,,0,0,0,,,,3752375
+2,New Zealand,4,BB McCullum,WD Parnell,LRPL Taylor,,0,1,1,,,,3752375
+2,New Zealand,4,LRPL Taylor,WD Parnell,BB McCullum,,0,1,1,,,,3752375
+2,New Zealand,4,BB McCullum,WD Parnell,LRPL Taylor,,0,1,1,,,,3752375
+2,New Zealand,4,LRPL Taylor,WD Parnell,BB McCullum,,0,0,0,,,,3752375
+2,New Zealand,4,LRPL Taylor,WD Parnell,BB McCullum,,0,0,0,,,,3752375
+2,New Zealand,4,LRPL Taylor,WD Parnell,BB McCullum,,0,0,0,,,,3752375
+2,New Zealand,5,BB McCullum,JH Kallis,LRPL Taylor,,0,0,0,,,,3752375
+2,New Zealand,5,BB McCullum,JH Kallis,LRPL Taylor,,0,1,1,,,,3752375
+2,New Zealand,5,LRPL Taylor,JH Kallis,BB McCullum,,0,1,1,,,,3752375
+2,New Zealand,5,BB McCullum,JH Kallis,LRPL Taylor,wides,1,1,0,,,,3752375
+2,New Zealand,5,BB McCullum,JH Kallis,LRPL Taylor,,0,0,0,,,,3752375
+2,New Zealand,5,BB McCullum,JH Kallis,LRPL Taylor,,0,0,0,,,,3752375
+2,New Zealand,5,BB McCullum,JH Kallis,LRPL Taylor,,0,1,1,,,,3752375
+2,New Zealand,6,BB McCullum,J Botha,LRPL Taylor,,0,0,0,,,,3752375
+2,New Zealand,6,BB McCullum,J Botha,LRPL Taylor,,0,1,1,,,,3752375
+2,New Zealand,6,LRPL Taylor,J Botha,BB McCullum,,0,0,0,,,,3752375
+2,New Zealand,6,LRPL Taylor,J Botha,BB McCullum,,0,0,0,,,,3752375
+2,New Zealand,6,LRPL Taylor,J Botha,BB McCullum,,0,1,1,,,,3752375
+2,New Zealand,6,BB McCullum,J Botha,LRPL Taylor,,0,1,1,,,,3752375
+2,New Zealand,7,BB McCullum,JH Kallis,LRPL Taylor,,0,0,0,,,,3752375
+2,New Zealand,7,BB McCullum,JH Kallis,LRPL Taylor,,0,1,1,,,,3752375
+2,New Zealand,7,LRPL Taylor,JH Kallis,BB McCullum,,0,0,0,,,,3752375
+2,New Zealand,7,LRPL Taylor,JH Kallis,BB McCullum,,0,4,4,,,,3752375
+2,New Zealand,7,LRPL Taylor,JH Kallis,BB McCullum,,0,0,0,,,,3752375
+2,New Zealand,7,LRPL Taylor,JH Kallis,BB McCullum,,0,1,1,,,,3752375
+2,New Zealand,8,LRPL Taylor,J Botha,BB McCullum,,0,0,0,,,,3752375
+2,New Zealand,8,LRPL Taylor,J Botha,BB McCullum,,0,1,1,,,,3752375
+2,New Zealand,8,BB McCullum,J Botha,LRPL Taylor,,0,1,1,,,,3752375
+2,New Zealand,8,LRPL Taylor,J Botha,BB McCullum,,0,1,1,,,,3752375
+2,New Zealand,8,BB McCullum,J Botha,LRPL Taylor,,0,1,1,,,,3752375
+2,New Zealand,8,LRPL Taylor,J Botha,BB McCullum,,0,4,4,,,,3752375
+2,New Zealand,9,BB McCullum,JA Morkel,LRPL Taylor,,0,0,0,,,,3752375
+2,New Zealand,9,BB McCullum,JA Morkel,LRPL Taylor,,0,0,0,,,,3752375
+2,New Zealand,9,BB McCullum,JA Morkel,LRPL Taylor,,0,3,3,,,,3752375
+2,New Zealand,9,LRPL Taylor,JA Morkel,BB McCullum,,0,0,0,,,,3752375
+2,New Zealand,9,LRPL Taylor,JA Morkel,BB McCullum,,0,1,1,,,,3752375
+2,New Zealand,9,BB McCullum,JA Morkel,LRPL Taylor,,0,1,1,,,,3752375
+2,New Zealand,10,BB McCullum,RE van der Merwe,LRPL Taylor,,0,1,1,,,,3752375
+2,New Zealand,10,LRPL Taylor,RE van der Merwe,BB McCullum,,0,1,1,,,,3752375
+2,New Zealand,10,BB McCullum,RE van der Merwe,LRPL Taylor,,0,0,0,,,,3752375
+2,New Zealand,10,BB McCullum,RE van der Merwe,LRPL Taylor,,0,1,1,,,,3752375
+2,New Zealand,10,LRPL Taylor,RE van der Merwe,BB McCullum,,0,0,0,,,,3752375
+2,New Zealand,10,LRPL Taylor,RE van der Merwe,BB McCullum,,0,2,2,,,,3752375
+2,New Zealand,11,BB McCullum,JA Morkel,LRPL Taylor,,0,1,1,,,,3752375
+2,New Zealand,11,LRPL Taylor,JA Morkel,BB McCullum,,0,1,1,,,,3752375
+2,New Zealand,11,BB McCullum,JA Morkel,LRPL Taylor,,0,0,0,,,,3752375
+2,New Zealand,11,BB McCullum,JA Morkel,LRPL Taylor,,0,4,4,,,,3752375
+2,New Zealand,11,BB McCullum,JA Morkel,LRPL Taylor,,0,2,2,,,,3752375
+2,New Zealand,11,BB McCullum,JA Morkel,LRPL Taylor,,0,1,1,,,,3752375
+2,New Zealand,12,BB McCullum,RE van der Merwe,LRPL Taylor,,0,2,2,,,,3752375
+2,New Zealand,12,BB McCullum,RE van der Merwe,LRPL Taylor,,0,0,0,,,,3752375
+2,New Zealand,12,BB McCullum,RE van der Merwe,LRPL Taylor,,0,0,0,,,,3752375
+2,New Zealand,12,BB McCullum,RE van der Merwe,LRPL Taylor,,0,1,1,,,,3752375
+2,New Zealand,12,LRPL Taylor,RE van der Merwe,BB McCullum,,0,1,1,,,,3752375
+2,New Zealand,12,BB McCullum,RE van der Merwe,LRPL Taylor,,0,0,0,,,,3752375
+2,New Zealand,13,LRPL Taylor,DW Steyn,BB McCullum,,0,0,0,,,,3752375
+2,New Zealand,13,LRPL Taylor,DW Steyn,BB McCullum,,0,1,1,,,,3752375
+2,New Zealand,13,BB McCullum,DW Steyn,LRPL Taylor,,0,1,1,,,,3752375
+2,New Zealand,13,LRPL Taylor,DW Steyn,BB McCullum,,0,1,1,,,,3752375
+2,New Zealand,13,BB McCullum,DW Steyn,LRPL Taylor,,0,2,2,,,,3752375
+2,New Zealand,13,BB McCullum,DW Steyn,LRPL Taylor,,0,1,1,,,,3752375
+2,New Zealand,14,BB McCullum,RE van der Merwe,LRPL Taylor,,0,1,1,,,,3752375
+2,New Zealand,14,LRPL Taylor,RE van der Merwe,BB McCullum,,0,0,0,,,,3752375
+2,New Zealand,14,LRPL Taylor,RE van der Merwe,BB McCullum,,0,0,0,bowled,LRPL Taylor,,3752375
+2,New Zealand,14,JDP Oram,RE van der Merwe,BB McCullum,,0,1,1,,,,3752375
+2,New Zealand,14,BB McCullum,RE van der Merwe,JDP Oram,,0,0,0,,,,3752375
+2,New Zealand,14,BB McCullum,RE van der Merwe,JDP Oram,,0,0,0,,,,3752375
+2,New Zealand,15,JDP Oram,J Botha,BB McCullum,,0,1,1,,,,3752375
+2,New Zealand,15,BB McCullum,J Botha,JDP Oram,,0,4,4,,,,3752375
+2,New Zealand,15,BB McCullum,J Botha,JDP Oram,,0,1,1,,,,3752375
+2,New Zealand,15,JDP Oram,J Botha,BB McCullum,,0,0,0,,,,3752375
+2,New Zealand,15,JDP Oram,J Botha,BB McCullum,,0,0,0,,,,3752375
+2,New Zealand,15,JDP Oram,J Botha,BB McCullum,,0,0,0,,,,3752375
+2,New Zealand,16,BB McCullum,RE van der Merwe,JDP Oram,,0,0,0,,,,3752375
+2,New Zealand,16,BB McCullum,RE van der Merwe,JDP Oram,,0,1,1,,,,3752375
+2,New Zealand,16,JDP Oram,RE van der Merwe,BB McCullum,,0,1,1,,,,3752375
+2,New Zealand,16,BB McCullum,RE van der Merwe,JDP Oram,,0,1,1,,,,3752375
+2,New Zealand,16,JDP Oram,RE van der Merwe,BB McCullum,legbyes,1,1,0,,,,3752375
+2,New Zealand,16,BB McCullum,RE van der Merwe,JDP Oram,,0,0,0,stumped,BB McCullum,MV Boucher,3752375
+2,New Zealand,17,JDP Oram,WD Parnell,SB Styris,,0,4,4,,,,3752375
+2,New Zealand,17,JDP Oram,WD Parnell,SB Styris,,0,1,1,,,,3752375
+2,New Zealand,17,SB Styris,WD Parnell,JDP Oram,,0,0,0,,,,3752375
+2,New Zealand,17,SB Styris,WD Parnell,JDP Oram,,0,2,2,,,,3752375
+2,New Zealand,17,SB Styris,WD Parnell,JDP Oram,,0,1,1,,,,3752375
+2,New Zealand,17,JDP Oram,WD Parnell,SB Styris,,0,1,1,,,,3752375
+2,New Zealand,18,JDP Oram,DW Steyn,SB Styris,,0,2,2,,,,3752375
+2,New Zealand,18,JDP Oram,DW Steyn,SB Styris,wides,1,1,0,,,,3752375
+2,New Zealand,18,JDP Oram,DW Steyn,SB Styris,byes,4,4,0,,,,3752375
+2,New Zealand,18,JDP Oram,DW Steyn,SB Styris,,0,1,1,,,,3752375
+2,New Zealand,18,SB Styris,DW Steyn,JDP Oram,wides,1,1,0,,,,3752375
+2,New Zealand,18,SB Styris,DW Steyn,JDP Oram,,0,0,0,,,,3752375
+2,New Zealand,18,SB Styris,DW Steyn,JDP Oram,,0,2,2,,,,3752375
+2,New Zealand,18,SB Styris,DW Steyn,JDP Oram,,0,1,1,,,,3752375
+2,New Zealand,19,SB Styris,WD Parnell,JDP Oram,,0,1,1,,,,3752375
+2,New Zealand,19,JDP Oram,WD Parnell,SB Styris,,0,2,2,,,,3752375
+2,New Zealand,19,JDP Oram,WD Parnell,SB Styris,,0,2,2,,,,3752375
+2,New Zealand,19,JDP Oram,WD Parnell,SB Styris,,0,2,2,,,,3752375
+2,New Zealand,19,JDP Oram,WD Parnell,SB Styris,,0,4,4,,,,3752375
+2,New Zealand,19,JDP Oram,WD Parnell,SB Styris,,0,2,2,run out,JDP Oram,GC Smith,3752375

@@ -1,0 +1,79 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,South Africa,0,D van Niekerk,KADA Kanchana,T Chetty,,0,1,1,,,,348423484
+2,South Africa,0,T Chetty,KADA Kanchana,D van Niekerk,,0,1,1,,,,348423484
+2,South Africa,0,D van Niekerk,KADA Kanchana,T Chetty,,0,1,1,,,,348423484
+2,South Africa,0,T Chetty,KADA Kanchana,D van Niekerk,,0,4,4,,,,348423484
+2,South Africa,0,T Chetty,KADA Kanchana,D van Niekerk,,0,0,0,,,,348423484
+2,South Africa,0,T Chetty,KADA Kanchana,D van Niekerk,,0,1,1,,,,348423484
+2,South Africa,1,T Chetty,LE Kaushalya,D van Niekerk,,0,2,2,,,,348423484
+2,South Africa,1,T Chetty,LE Kaushalya,D van Niekerk,,0,0,0,caught,T Chetty,AC Jayangani,348423484
+2,South Africa,1,L Lee,LE Kaushalya,D van Niekerk,,0,1,1,,,,348423484
+2,South Africa,1,D van Niekerk,LE Kaushalya,L Lee,,0,1,1,,,,348423484
+2,South Africa,1,L Lee,LE Kaushalya,D van Niekerk,,0,1,1,,,,348423484
+2,South Africa,1,D van Niekerk,LE Kaushalya,L Lee,,0,1,1,,,,348423484
+2,South Africa,2,D van Niekerk,KADA Kanchana,L Lee,,0,1,1,,,,348423484
+2,South Africa,2,L Lee,KADA Kanchana,D van Niekerk,,0,4,4,,,,348423484
+2,South Africa,2,L Lee,KADA Kanchana,D van Niekerk,,0,1,1,,,,348423484
+2,South Africa,2,D van Niekerk,KADA Kanchana,L Lee,,0,1,1,,,,348423484
+2,South Africa,2,L Lee,KADA Kanchana,D van Niekerk,,0,4,4,,,,348423484
+2,South Africa,2,L Lee,KADA Kanchana,D van Niekerk,,0,4,4,,,,348423484
+2,South Africa,3,D van Niekerk,HAM Samuddika,L Lee,,0,0,0,,,,348423484
+2,South Africa,3,D van Niekerk,HAM Samuddika,L Lee,,0,2,2,,,,348423484
+2,South Africa,3,D van Niekerk,HAM Samuddika,L Lee,,0,1,1,,,,348423484
+2,South Africa,3,L Lee,HAM Samuddika,D van Niekerk,,0,0,0,,,,348423484
+2,South Africa,3,L Lee,HAM Samuddika,D van Niekerk,,0,1,1,,,,348423484
+2,South Africa,3,D van Niekerk,HAM Samuddika,L Lee,,0,1,1,,,,348423484
+2,South Africa,4,D van Niekerk,HASD Siriwardene,L Lee,,0,1,1,,,,348423484
+2,South Africa,4,L Lee,HASD Siriwardene,D van Niekerk,,0,1,1,,,,348423484
+2,South Africa,4,D van Niekerk,HASD Siriwardene,L Lee,,0,1,1,,,,348423484
+2,South Africa,4,L Lee,HASD Siriwardene,D van Niekerk,,0,6,6,,,,348423484
+2,South Africa,4,L Lee,HASD Siriwardene,D van Niekerk,,0,2,2,,,,348423484
+2,South Africa,4,L Lee,HASD Siriwardene,D van Niekerk,,0,1,1,,,,348423484
+2,South Africa,5,L Lee,HAM Samuddika,D van Niekerk,,0,0,0,,,,348423484
+2,South Africa,5,L Lee,HAM Samuddika,D van Niekerk,,0,0,0,,,,348423484
+2,South Africa,5,L Lee,HAM Samuddika,D van Niekerk,,0,1,1,,,,348423484
+2,South Africa,5,D van Niekerk,HAM Samuddika,L Lee,,0,0,0,,,,348423484
+2,South Africa,5,D van Niekerk,HAM Samuddika,L Lee,,0,0,0,,,,348423484
+2,South Africa,5,D van Niekerk,HAM Samuddika,L Lee,,0,2,2,,,,348423484
+2,South Africa,6,L Lee,I Ranaweera,D van Niekerk,,0,1,1,,,,348423484
+2,South Africa,6,D van Niekerk,I Ranaweera,L Lee,,0,1,1,,,,348423484
+2,South Africa,6,L Lee,I Ranaweera,D van Niekerk,,0,0,0,,,,348423484
+2,South Africa,6,L Lee,I Ranaweera,D van Niekerk,,0,1,1,,,,348423484
+2,South Africa,6,D van Niekerk,I Ranaweera,L Lee,,0,0,0,lbw,D van Niekerk,,348423484
+2,South Africa,6,M du Preez,I Ranaweera,L Lee,,0,1,1,,,,348423484
+2,South Africa,7,M du Preez,HAM Samuddika,L Lee,,0,1,1,,,,348423484
+2,South Africa,7,L Lee,HAM Samuddika,M du Preez,,0,0,0,,,,348423484
+2,South Africa,7,L Lee,HAM Samuddika,M du Preez,,0,1,1,,,,348423484
+2,South Africa,7,M du Preez,HAM Samuddika,L Lee,,0,1,1,,,,348423484
+2,South Africa,7,L Lee,HAM Samuddika,M du Preez,,0,1,1,,,,348423484
+2,South Africa,7,M du Preez,HAM Samuddika,L Lee,,0,1,1,,,,348423484
+2,South Africa,8,M du Preez,I Ranaweera,L Lee,,0,1,1,,,,348423484
+2,South Africa,8,L Lee,I Ranaweera,M du Preez,,0,0,0,,,,348423484
+2,South Africa,8,L Lee,I Ranaweera,M du Preez,,0,1,1,,,,348423484
+2,South Africa,8,M du Preez,I Ranaweera,L Lee,,0,1,1,,,,348423484
+2,South Africa,8,L Lee,I Ranaweera,M du Preez,,0,1,1,,,,348423484
+2,South Africa,8,M du Preez,I Ranaweera,L Lee,,0,4,4,,,,348423484
+2,South Africa,9,L Lee,HASD Siriwardene,M du Preez,,0,2,2,,,,348423484
+2,South Africa,9,L Lee,HASD Siriwardene,M du Preez,,0,0,0,,,,348423484
+2,South Africa,9,L Lee,HASD Siriwardene,M du Preez,,0,1,1,,,,348423484
+2,South Africa,9,M du Preez,HASD Siriwardene,L Lee,,0,1,1,,,,348423484
+2,South Africa,9,L Lee,HASD Siriwardene,M du Preez,,0,4,4,,,,348423484
+2,South Africa,9,L Lee,HASD Siriwardene,M du Preez,,0,1,1,,,,348423484
+2,South Africa,10,L Lee,I Ranaweera,M du Preez,,0,0,0,caught and bowled,L Lee,,348423484
+2,South Africa,10,M Kapp,I Ranaweera,M du Preez,,0,1,1,,,,348423484
+2,South Africa,10,M du Preez,I Ranaweera,M Kapp,,0,0,0,,,,348423484
+2,South Africa,10,M du Preez,I Ranaweera,M Kapp,,0,2,2,,,,348423484
+2,South Africa,10,M du Preez,I Ranaweera,M Kapp,,0,6,6,,,,348423484
+2,South Africa,10,M du Preez,I Ranaweera,M Kapp,,0,1,1,run out,M du Preez,BYA Mendis,348423484
+2,South Africa,11,M Kapp,HASD Siriwardene,CL Tryon,,0,1,1,,,,348423484
+2,South Africa,11,CL Tryon,HASD Siriwardene,M Kapp,,0,1,1,,,,348423484
+2,South Africa,11,M Kapp,HASD Siriwardene,CL Tryon,,0,0,0,bowled,M Kapp,,348423484
+2,South Africa,11,NA Moodley,HASD Siriwardene,CL Tryon,,0,0,0,,,,348423484
+2,South Africa,11,NA Moodley,HASD Siriwardene,CL Tryon,legbyes,1,1,0,,,,348423484
+2,South Africa,11,CL Tryon,HASD Siriwardene,NA Moodley,,0,1,1,,,,348423484
+2,South Africa,12,CL Tryon,LE Kaushalya,NA Moodley,,0,0,0,caught,CL Tryon,KADA Kanchana,348423484
+2,South Africa,12,NA Moodley,LE Kaushalya,S Ismail,,0,0,0,,,,348423484
+2,South Africa,12,NA Moodley,LE Kaushalya,S Ismail,,0,1,1,,,,348423484
+2,South Africa,12,S Ismail,LE Kaushalya,NA Moodley,,0,2,2,,,,348423484
+2,South Africa,12,S Ismail,LE Kaushalya,NA Moodley,,0,0,0,,,,348423484
+2,South Africa,12,S Ismail,LE Kaushalya,NA Moodley,,0,2,2,,,,348423484

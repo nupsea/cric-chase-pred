@@ -1,0 +1,117 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Ireland,0,PR Stirling,Kashif Daud,KJ O'Brien,,0,1,1,,,,31760231760
+2,Ireland,0,KJ O'Brien,Kashif Daud,PR Stirling,,0,1,1,,,,31760231760
+2,Ireland,0,PR Stirling,Kashif Daud,KJ O'Brien,,0,0,0,,,,31760231760
+2,Ireland,0,PR Stirling,Kashif Daud,KJ O'Brien,wides,2,2,0,,,,31760231760
+2,Ireland,0,KJ O'Brien,Kashif Daud,PR Stirling,,0,0,0,,,,31760231760
+2,Ireland,0,KJ O'Brien,Kashif Daud,PR Stirling,,0,0,0,,,,31760231760
+2,Ireland,0,KJ O'Brien,Kashif Daud,PR Stirling,,0,1,1,,,,31760231760
+2,Ireland,1,KJ O'Brien,Akif Raja,PR Stirling,,0,0,0,,,,31760231760
+2,Ireland,1,KJ O'Brien,Akif Raja,PR Stirling,,0,1,1,,,,31760231760
+2,Ireland,1,PR Stirling,Akif Raja,KJ O'Brien,,0,0,0,,,,31760231760
+2,Ireland,1,PR Stirling,Akif Raja,KJ O'Brien,,0,0,0,,,,31760231760
+2,Ireland,1,PR Stirling,Akif Raja,KJ O'Brien,,0,0,0,caught,PR Stirling,Muhammad Usman,31760231760
+2,Ireland,1,A Balbirnie,Akif Raja,KJ O'Brien,,0,1,1,,,,31760231760
+2,Ireland,2,A Balbirnie,Kashif Daud,KJ O'Brien,,0,2,2,,,,31760231760
+2,Ireland,2,A Balbirnie,Kashif Daud,KJ O'Brien,,0,0,0,,,,31760231760
+2,Ireland,2,A Balbirnie,Kashif Daud,KJ O'Brien,,0,0,0,,,,31760231760
+2,Ireland,2,A Balbirnie,Kashif Daud,KJ O'Brien,,0,1,1,,,,31760231760
+2,Ireland,2,KJ O'Brien,Kashif Daud,A Balbirnie,,0,0,0,,,,31760231760
+2,Ireland,2,KJ O'Brien,Kashif Daud,A Balbirnie,,0,0,0,,,,31760231760
+2,Ireland,3,A Balbirnie,Akif Raja,KJ O'Brien,,0,1,1,,,,31760231760
+2,Ireland,3,KJ O'Brien,Akif Raja,A Balbirnie,,0,4,4,,,,31760231760
+2,Ireland,3,KJ O'Brien,Akif Raja,A Balbirnie,,0,1,1,,,,31760231760
+2,Ireland,3,A Balbirnie,Akif Raja,KJ O'Brien,,0,4,4,,,,31760231760
+2,Ireland,3,A Balbirnie,Akif Raja,KJ O'Brien,,0,0,0,,,,31760231760
+2,Ireland,3,A Balbirnie,Akif Raja,KJ O'Brien,,0,0,0,caught,A Balbirnie,Waseem Muhammad,31760231760
+2,Ireland,4,GJ Delany,Kashif Daud,KJ O'Brien,,0,0,0,,,,31760231760
+2,Ireland,4,GJ Delany,Kashif Daud,KJ O'Brien,,0,4,4,,,,31760231760
+2,Ireland,4,GJ Delany,Kashif Daud,KJ O'Brien,,0,0,0,,,,31760231760
+2,Ireland,4,GJ Delany,Kashif Daud,KJ O'Brien,,0,0,0,,,,31760231760
+2,Ireland,4,GJ Delany,Kashif Daud,KJ O'Brien,,0,4,4,,,,31760231760
+2,Ireland,4,GJ Delany,Kashif Daud,KJ O'Brien,,0,0,0,,,,31760231760
+2,Ireland,5,KJ O'Brien,Akif Raja,GJ Delany,,0,4,4,,,,31760231760
+2,Ireland,5,KJ O'Brien,Akif Raja,GJ Delany,wides,1,1,0,,,,31760231760
+2,Ireland,5,KJ O'Brien,Akif Raja,GJ Delany,,0,0,0,caught,KJ O'Brien,V Aravind,31760231760
+2,Ireland,5,C Campher,Akif Raja,GJ Delany,,0,0,0,,,,31760231760
+2,Ireland,5,C Campher,Akif Raja,GJ Delany,,0,0,0,,,,31760231760
+2,Ireland,5,C Campher,Akif Raja,GJ Delany,,0,1,1,,,,31760231760
+2,Ireland,5,GJ Delany,Akif Raja,C Campher,,0,1,1,,,,31760231760
+2,Ireland,6,GJ Delany,Zahoor Khan,C Campher,,0,0,0,,,,31760231760
+2,Ireland,6,GJ Delany,Zahoor Khan,C Campher,,0,0,0,,,,31760231760
+2,Ireland,6,GJ Delany,Zahoor Khan,C Campher,,0,1,1,,,,31760231760
+2,Ireland,6,C Campher,Zahoor Khan,GJ Delany,,0,1,1,,,,31760231760
+2,Ireland,6,GJ Delany,Zahoor Khan,C Campher,,0,0,0,,,,31760231760
+2,Ireland,6,GJ Delany,Zahoor Khan,C Campher,,0,1,1,,,,31760231760
+2,Ireland,7,GJ Delany,Kashif Daud,C Campher,,0,2,2,,,,31760231760
+2,Ireland,7,GJ Delany,Kashif Daud,C Campher,,0,1,1,,,,31760231760
+2,Ireland,7,C Campher,Kashif Daud,GJ Delany,,0,2,2,,,,31760231760
+2,Ireland,7,C Campher,Kashif Daud,GJ Delany,,0,1,1,,,,31760231760
+2,Ireland,7,GJ Delany,Kashif Daud,C Campher,,0,0,0,,,,31760231760
+2,Ireland,7,GJ Delany,Kashif Daud,C Campher,,0,1,1,,,,31760231760
+2,Ireland,8,GJ Delany,Ahmed Raza,C Campher,,0,0,0,,,,31760231760
+2,Ireland,8,GJ Delany,Ahmed Raza,C Campher,,0,1,1,,,,31760231760
+2,Ireland,8,C Campher,Ahmed Raza,GJ Delany,,0,1,1,,,,31760231760
+2,Ireland,8,GJ Delany,Ahmed Raza,C Campher,,0,2,2,,,,31760231760
+2,Ireland,8,GJ Delany,Ahmed Raza,C Campher,,0,0,0,stumped,GJ Delany,V Aravind,31760231760
+2,Ireland,8,GH Dockrell,Ahmed Raza,C Campher,,0,1,1,,,,31760231760
+2,Ireland,9,GH Dockrell,KP Meiyappan,C Campher,,0,1,1,,,,31760231760
+2,Ireland,9,C Campher,KP Meiyappan,GH Dockrell,,0,0,0,,,,31760231760
+2,Ireland,9,C Campher,KP Meiyappan,GH Dockrell,,0,2,2,,,,31760231760
+2,Ireland,9,C Campher,KP Meiyappan,GH Dockrell,,0,1,1,,,,31760231760
+2,Ireland,9,GH Dockrell,KP Meiyappan,C Campher,,0,1,1,,,,31760231760
+2,Ireland,9,C Campher,KP Meiyappan,GH Dockrell,,0,2,2,,,,31760231760
+2,Ireland,10,GH Dockrell,Ahmed Raza,C Campher,wides,1,1,0,,,,31760231760
+2,Ireland,10,GH Dockrell,Ahmed Raza,C Campher,,0,1,1,,,,31760231760
+2,Ireland,10,C Campher,Ahmed Raza,GH Dockrell,,0,1,1,,,,31760231760
+2,Ireland,10,GH Dockrell,Ahmed Raza,C Campher,,0,1,1,,,,31760231760
+2,Ireland,10,C Campher,Ahmed Raza,GH Dockrell,,0,6,6,,,,31760231760
+2,Ireland,10,C Campher,Ahmed Raza,GH Dockrell,,0,3,3,,,,31760231760
+2,Ireland,10,GH Dockrell,Ahmed Raza,C Campher,,0,1,1,,,,31760231760
+2,Ireland,11,GH Dockrell,KP Meiyappan,C Campher,,0,1,1,,,,31760231760
+2,Ireland,11,C Campher,KP Meiyappan,GH Dockrell,,0,1,1,,,,31760231760
+2,Ireland,11,GH Dockrell,KP Meiyappan,C Campher,,0,1,1,,,,31760231760
+2,Ireland,11,C Campher,KP Meiyappan,GH Dockrell,,0,0,0,bowled,C Campher,,31760231760
+2,Ireland,11,NA Rock,KP Meiyappan,GH Dockrell,,0,1,1,,,,31760231760
+2,Ireland,11,GH Dockrell,KP Meiyappan,NA Rock,,0,0,0,,,,31760231760
+2,Ireland,12,NA Rock,Basil Hameed,GH Dockrell,,0,0,0,,,,31760231760
+2,Ireland,12,NA Rock,Basil Hameed,GH Dockrell,,0,1,1,,,,31760231760
+2,Ireland,12,GH Dockrell,Basil Hameed,NA Rock,,0,0,0,,,,31760231760
+2,Ireland,12,GH Dockrell,Basil Hameed,NA Rock,,0,2,2,,,,31760231760
+2,Ireland,12,GH Dockrell,Basil Hameed,NA Rock,legbyes,2,2,0,,,,31760231760
+2,Ireland,12,GH Dockrell,Basil Hameed,NA Rock,,0,1,1,,,,31760231760
+2,Ireland,13,GH Dockrell,KP Meiyappan,NA Rock,,0,6,6,,,,31760231760
+2,Ireland,13,GH Dockrell,KP Meiyappan,NA Rock,,0,0,0,,,,31760231760
+2,Ireland,13,GH Dockrell,KP Meiyappan,NA Rock,,0,0,0,,,,31760231760
+2,Ireland,13,GH Dockrell,KP Meiyappan,NA Rock,,0,0,0,caught,GH Dockrell,Muhammad Usman,31760231760
+2,Ireland,13,Simi Singh,KP Meiyappan,NA Rock,,0,1,1,,,,31760231760
+2,Ireland,13,NA Rock,KP Meiyappan,Simi Singh,,0,2,2,,,,31760231760
+2,Ireland,14,Simi Singh,Zahoor Khan,NA Rock,,0,0,0,caught,Simi Singh,V Aravind,31760231760
+2,Ireland,14,MR Adair,Zahoor Khan,NA Rock,,0,2,2,,,,31760231760
+2,Ireland,14,MR Adair,Zahoor Khan,NA Rock,,0,0,0,,,,31760231760
+2,Ireland,14,MR Adair,Zahoor Khan,NA Rock,,0,0,0,,,,31760231760
+2,Ireland,14,MR Adair,Zahoor Khan,NA Rock,,0,1,1,,,,31760231760
+2,Ireland,14,NA Rock,Zahoor Khan,MR Adair,,0,0,0,,,,31760231760
+2,Ireland,15,MR Adair,KP Meiyappan,NA Rock,,0,1,1,,,,31760231760
+2,Ireland,15,NA Rock,KP Meiyappan,MR Adair,,0,0,0,caught,NA Rock,Akif Raja,31760231760
+2,Ireland,15,MR Adair,KP Meiyappan,CA Young,,0,0,0,,,,31760231760
+2,Ireland,15,MR Adair,KP Meiyappan,CA Young,,0,4,4,,,,31760231760
+2,Ireland,15,MR Adair,KP Meiyappan,CA Young,,0,0,0,caught,MR Adair,Basil Hameed,31760231760
+2,Ireland,15,J Little,KP Meiyappan,CA Young,byes,1,1,0,,,,31760231760
+2,Ireland,16,J Little,Akif Raja,CA Young,,0,0,0,,,,31760231760
+2,Ireland,16,J Little,Akif Raja,CA Young,wides,1,1,0,,,,31760231760
+2,Ireland,16,J Little,Akif Raja,CA Young,,0,0,0,,,,31760231760
+2,Ireland,16,J Little,Akif Raja,CA Young,,0,0,0,,,,31760231760
+2,Ireland,16,J Little,Akif Raja,CA Young,,0,1,1,,,,31760231760
+2,Ireland,16,CA Young,Akif Raja,J Little,,0,0,0,,,,31760231760
+2,Ireland,16,CA Young,Akif Raja,J Little,,0,1,1,,,,31760231760
+2,Ireland,17,CA Young,Zahoor Khan,J Little,,0,0,0,,,,31760231760
+2,Ireland,17,CA Young,Zahoor Khan,J Little,legbyes,1,1,0,,,,31760231760
+2,Ireland,17,J Little,Zahoor Khan,CA Young,,0,1,1,,,,31760231760
+2,Ireland,17,CA Young,Zahoor Khan,J Little,,0,0,0,,,,31760231760
+2,Ireland,17,CA Young,Zahoor Khan,J Little,,0,0,0,,,,31760231760
+2,Ireland,17,CA Young,Zahoor Khan,J Little,,0,1,1,,,,31760231760
+2,Ireland,18,CA Young,Waseem Muhammad,J Little,,0,2,2,,,,31760231760
+2,Ireland,18,CA Young,Waseem Muhammad,J Little,,0,0,0,,,,31760231760
+2,Ireland,18,CA Young,Waseem Muhammad,J Little,,0,2,2,,,,31760231760
+2,Ireland,18,CA Young,Waseem Muhammad,J Little,,0,0,0,caught,CA Young,A Sharafu,31760231760

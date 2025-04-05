@@ -1,0 +1,108 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Ghana,0,F Baleri,SO Ngoche,R Bakum,,0,0,0,,,,31105231105
+2,Ghana,0,F Baleri,SO Ngoche,R Bakum,,0,0,0,,,,31105231105
+2,Ghana,0,F Baleri,SO Ngoche,R Bakum,,0,1,1,,,,31105231105
+2,Ghana,0,R Bakum,SO Ngoche,F Baleri,,0,6,6,,,,31105231105
+2,Ghana,0,R Bakum,SO Ngoche,F Baleri,,0,0,0,,,,31105231105
+2,Ghana,0,R Bakum,SO Ngoche,F Baleri,,0,0,0,,,,31105231105
+2,Ghana,1,F Baleri,E Otieno,R Bakum,,0,0,0,,,,31105231105
+2,Ghana,1,F Baleri,E Otieno,R Bakum,,0,1,1,,,,31105231105
+2,Ghana,1,R Bakum,E Otieno,F Baleri,,0,4,4,,,,31105231105
+2,Ghana,1,R Bakum,E Otieno,F Baleri,,0,0,0,,,,31105231105
+2,Ghana,1,R Bakum,E Otieno,F Baleri,,0,4,4,,,,31105231105
+2,Ghana,1,R Bakum,E Otieno,F Baleri,,0,0,0,,,,31105231105
+2,Ghana,2,F Baleri,LN Oluoch,R Bakum,,0,4,4,,,,31105231105
+2,Ghana,2,F Baleri,LN Oluoch,R Bakum,,0,0,0,,,,31105231105
+2,Ghana,2,F Baleri,LN Oluoch,R Bakum,,0,0,0,,,,31105231105
+2,Ghana,2,F Baleri,LN Oluoch,R Bakum,,0,0,0,bowled,F Baleri,,31105231105
+2,Ghana,2,S Ateak,LN Oluoch,R Bakum,,0,0,0,,,,31105231105
+2,Ghana,2,S Ateak,LN Oluoch,R Bakum,,0,1,1,,,,31105231105
+2,Ghana,3,S Ateak,E Otieno,R Bakum,,0,0,0,,,,31105231105
+2,Ghana,3,S Ateak,E Otieno,R Bakum,,0,1,1,,,,31105231105
+2,Ghana,3,R Bakum,E Otieno,S Ateak,,0,0,0,,,,31105231105
+2,Ghana,3,R Bakum,E Otieno,S Ateak,wides,1,1,0,,,,31105231105
+2,Ghana,3,R Bakum,E Otieno,S Ateak,,0,2,2,,,,31105231105
+2,Ghana,3,R Bakum,E Otieno,S Ateak,,0,0,0,,,,31105231105
+2,Ghana,3,R Bakum,E Otieno,S Ateak,,0,1,1,,,,31105231105
+2,Ghana,4,R Bakum,LN Oluoch,S Ateak,,0,0,0,,,,31105231105
+2,Ghana,4,R Bakum,LN Oluoch,S Ateak,,0,0,0,,,,31105231105
+2,Ghana,4,R Bakum,LN Oluoch,S Ateak,,0,0,0,caught,R Bakum,IA Karim,31105231105
+2,Ghana,4,JK Vifah,LN Oluoch,S Ateak,,0,0,0,,,,31105231105
+2,Ghana,4,JK Vifah,LN Oluoch,S Ateak,,0,1,1,,,,31105231105
+2,Ghana,4,S Ateak,LN Oluoch,JK Vifah,,0,0,0,,,,31105231105
+2,Ghana,5,JK Vifah,E Ochieng,S Ateak,,0,1,1,,,,31105231105
+2,Ghana,5,S Ateak,E Ochieng,JK Vifah,,0,0,0,,,,31105231105
+2,Ghana,5,S Ateak,E Ochieng,JK Vifah,,0,0,0,,,,31105231105
+2,Ghana,5,S Ateak,E Ochieng,JK Vifah,,0,2,2,,,,31105231105
+2,Ghana,5,S Ateak,E Ochieng,JK Vifah,,0,1,1,,,,31105231105
+2,Ghana,5,JK Vifah,E Ochieng,S Ateak,,0,1,1,,,,31105231105
+2,Ghana,6,JK Vifah,NM Odhiambo,S Ateak,,0,0,0,,,,31105231105
+2,Ghana,6,JK Vifah,NM Odhiambo,S Ateak,,0,1,1,,,,31105231105
+2,Ghana,6,S Ateak,NM Odhiambo,JK Vifah,,0,1,1,,,,31105231105
+2,Ghana,6,JK Vifah,NM Odhiambo,S Ateak,,0,0,0,,,,31105231105
+2,Ghana,6,JK Vifah,NM Odhiambo,S Ateak,,0,1,1,,,,31105231105
+2,Ghana,6,S Ateak,NM Odhiambo,JK Vifah,,0,4,4,,,,31105231105
+2,Ghana,7,JK Vifah,E Ochieng,S Ateak,,0,1,1,,,,31105231105
+2,Ghana,7,S Ateak,E Ochieng,JK Vifah,,0,0,0,,,,31105231105
+2,Ghana,7,S Ateak,E Ochieng,JK Vifah,,0,0,0,,,,31105231105
+2,Ghana,7,S Ateak,E Ochieng,JK Vifah,,0,4,4,,,,31105231105
+2,Ghana,7,S Ateak,E Ochieng,JK Vifah,,0,1,1,,,,31105231105
+2,Ghana,7,JK Vifah,E Ochieng,S Ateak,,0,1,1,,,,31105231105
+2,Ghana,8,JK Vifah,NM Odhiambo,S Ateak,,0,2,2,,,,31105231105
+2,Ghana,8,JK Vifah,NM Odhiambo,S Ateak,,0,0,0,,,,31105231105
+2,Ghana,8,JK Vifah,NM Odhiambo,S Ateak,,0,1,1,,,,31105231105
+2,Ghana,8,S Ateak,NM Odhiambo,JK Vifah,,0,0,0,,,,31105231105
+2,Ghana,8,S Ateak,NM Odhiambo,JK Vifah,,0,0,0,,,,31105231105
+2,Ghana,8,S Ateak,NM Odhiambo,JK Vifah,,0,0,0,,,,31105231105
+2,Ghana,9,JK Vifah,SO Ngoche,S Ateak,,0,1,1,,,,31105231105
+2,Ghana,9,S Ateak,SO Ngoche,JK Vifah,,0,0,0,,,,31105231105
+2,Ghana,9,S Ateak,SO Ngoche,JK Vifah,,0,0,0,,,,31105231105
+2,Ghana,9,S Ateak,SO Ngoche,JK Vifah,,0,0,0,stumped,S Ateak,IA Karim,31105231105
+2,Ghana,9,IKO Aboagye,SO Ngoche,JK Vifah,,0,1,1,,,,31105231105
+2,Ghana,9,JK Vifah,SO Ngoche,IKO Aboagye,,0,0,0,,,,31105231105
+2,Ghana,10,IKO Aboagye,NM Odhiambo,JK Vifah,,0,1,1,,,,31105231105
+2,Ghana,10,JK Vifah,NM Odhiambo,IKO Aboagye,,0,1,1,,,,31105231105
+2,Ghana,10,IKO Aboagye,NM Odhiambo,JK Vifah,,0,0,0,,,,31105231105
+2,Ghana,10,IKO Aboagye,NM Odhiambo,JK Vifah,wides,1,1,0,,,,31105231105
+2,Ghana,10,IKO Aboagye,NM Odhiambo,JK Vifah,,0,1,1,,,,31105231105
+2,Ghana,10,JK Vifah,NM Odhiambo,IKO Aboagye,,0,0,0,,,,31105231105
+2,Ghana,10,JK Vifah,NM Odhiambo,IKO Aboagye,,0,0,0,,,,31105231105
+2,Ghana,11,IKO Aboagye,P Kerai,JK Vifah,,0,0,0,stumped,IKO Aboagye,IA Karim,31105231105
+2,Ghana,11,DNA Ankrah,P Kerai,JK Vifah,,0,0,0,,,,31105231105
+2,Ghana,11,DNA Ankrah,P Kerai,JK Vifah,,0,1,1,,,,31105231105
+2,Ghana,11,JK Vifah,P Kerai,DNA Ankrah,,0,2,2,,,,31105231105
+2,Ghana,11,JK Vifah,P Kerai,DNA Ankrah,,0,1,1,,,,31105231105
+2,Ghana,11,DNA Ankrah,P Kerai,JK Vifah,,0,1,1,,,,31105231105
+2,Ghana,12,DNA Ankrah,SO Ngoche,JK Vifah,,0,0,0,,,,31105231105
+2,Ghana,12,DNA Ankrah,SO Ngoche,JK Vifah,,0,1,1,,,,31105231105
+2,Ghana,12,JK Vifah,SO Ngoche,DNA Ankrah,,0,1,1,,,,31105231105
+2,Ghana,12,DNA Ankrah,SO Ngoche,JK Vifah,,0,1,1,,,,31105231105
+2,Ghana,12,JK Vifah,SO Ngoche,DNA Ankrah,,0,0,0,,,,31105231105
+2,Ghana,12,JK Vifah,SO Ngoche,DNA Ankrah,,0,1,1,,,,31105231105
+2,Ghana,13,JK Vifah,P Kerai,DNA Ankrah,,0,6,6,,,,31105231105
+2,Ghana,13,JK Vifah,P Kerai,DNA Ankrah,,0,0,0,,,,31105231105
+2,Ghana,13,JK Vifah,P Kerai,DNA Ankrah,,0,0,0,caught,JK Vifah,AA Obanda,31105231105
+2,Ghana,13,KS Bagabena,P Kerai,DNA Ankrah,,0,0,0,caught,KS Bagabena,IA Karim,31105231105
+2,Ghana,13,DK Anefie,P Kerai,DNA Ankrah,,0,0,0,,,,31105231105
+2,Ghana,13,DK Anefie,P Kerai,DNA Ankrah,,0,0,0,run out,DK Anefie,,31105231105
+2,Ghana,14,DNA Ankrah,SO Ngoche,M Aboagye,,0,0,0,stumped,DNA Ankrah,IA Karim,31105231105
+2,Ghana,14,G Bakiweyem,SO Ngoche,M Aboagye,,0,2,2,,,,31105231105
+2,Ghana,14,G Bakiweyem,SO Ngoche,M Aboagye,,0,2,2,,,,31105231105
+2,Ghana,14,G Bakiweyem,SO Ngoche,M Aboagye,,0,2,2,,,,31105231105
+2,Ghana,14,G Bakiweyem,SO Ngoche,M Aboagye,,0,1,1,,,,31105231105
+2,Ghana,14,M Aboagye,SO Ngoche,G Bakiweyem,,0,0,0,,,,31105231105
+2,Ghana,15,G Bakiweyem,P Kerai,M Aboagye,,0,0,0,,,,31105231105
+2,Ghana,15,G Bakiweyem,P Kerai,M Aboagye,,0,1,1,,,,31105231105
+2,Ghana,15,M Aboagye,P Kerai,G Bakiweyem,,0,1,1,,,,31105231105
+2,Ghana,15,G Bakiweyem,P Kerai,M Aboagye,,0,1,1,,,,31105231105
+2,Ghana,15,M Aboagye,P Kerai,G Bakiweyem,,0,1,1,,,,31105231105
+2,Ghana,15,G Bakiweyem,P Kerai,M Aboagye,,0,0,0,,,,31105231105
+2,Ghana,16,M Aboagye,NM Odhiambo,G Bakiweyem,,0,2,2,,,,31105231105
+2,Ghana,16,M Aboagye,NM Odhiambo,G Bakiweyem,,0,1,1,run out,M Aboagye,,31105231105
+2,Ghana,16,V Ateak,NM Odhiambo,G Bakiweyem,,0,0,0,,,,31105231105
+2,Ghana,16,V Ateak,NM Odhiambo,G Bakiweyem,,0,1,1,,,,31105231105
+2,Ghana,16,G Bakiweyem,NM Odhiambo,V Ateak,,0,2,2,,,,31105231105
+2,Ghana,16,G Bakiweyem,NM Odhiambo,V Ateak,,0,1,1,,,,31105231105
+2,Ghana,17,G Bakiweyem,E Otieno,V Ateak,,0,0,0,,,,31105231105
+2,Ghana,17,G Bakiweyem,E Otieno,V Ateak,,0,0,0,,,,31105231105
+2,Ghana,17,G Bakiweyem,E Otieno,V Ateak,,0,0,0,caught,G Bakiweyem,RR Patel,31105231105

@@ -1,0 +1,93 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Uganda,0,RG Mukasa,DNA Ankrah,A Otwani,,0,0,0,,,,31108231108
+2,Uganda,0,RG Mukasa,DNA Ankrah,A Otwani,,0,2,2,,,,31108231108
+2,Uganda,0,RG Mukasa,DNA Ankrah,A Otwani,,0,4,4,,,,31108231108
+2,Uganda,0,RG Mukasa,DNA Ankrah,A Otwani,,0,0,0,,,,31108231108
+2,Uganda,0,RG Mukasa,DNA Ankrah,A Otwani,,0,0,0,,,,31108231108
+2,Uganda,0,RG Mukasa,DNA Ankrah,A Otwani,,0,1,1,,,,31108231108
+2,Uganda,1,RG Mukasa,G Bakiweyem,A Otwani,,0,1,1,,,,31108231108
+2,Uganda,1,A Otwani,G Bakiweyem,RG Mukasa,,0,4,4,,,,31108231108
+2,Uganda,1,A Otwani,G Bakiweyem,RG Mukasa,,0,0,0,,,,31108231108
+2,Uganda,1,A Otwani,G Bakiweyem,RG Mukasa,,0,1,1,,,,31108231108
+2,Uganda,1,RG Mukasa,G Bakiweyem,A Otwani,,0,1,1,,,,31108231108
+2,Uganda,1,A Otwani,G Bakiweyem,RG Mukasa,,0,1,1,,,,31108231108
+2,Uganda,2,A Otwani,DNA Ankrah,RG Mukasa,,0,0,0,run out,RG Mukasa,,31108231108
+2,Uganda,2,A Otwani,DNA Ankrah,Riazat Ali Shah,,0,0,0,,,,31108231108
+2,Uganda,2,A Otwani,DNA Ankrah,Riazat Ali Shah,,0,0,0,,,,31108231108
+2,Uganda,2,A Otwani,DNA Ankrah,Riazat Ali Shah,,0,4,4,,,,31108231108
+2,Uganda,2,A Otwani,DNA Ankrah,Riazat Ali Shah,,0,4,4,,,,31108231108
+2,Uganda,2,A Otwani,DNA Ankrah,Riazat Ali Shah,,0,1,1,,,,31108231108
+2,Uganda,3,A Otwani,G Bakiweyem,Riazat Ali Shah,,0,1,1,,,,31108231108
+2,Uganda,3,Riazat Ali Shah,G Bakiweyem,A Otwani,,0,4,4,,,,31108231108
+2,Uganda,3,Riazat Ali Shah,G Bakiweyem,A Otwani,,0,0,0,,,,31108231108
+2,Uganda,3,Riazat Ali Shah,G Bakiweyem,A Otwani,,0,1,1,,,,31108231108
+2,Uganda,3,A Otwani,G Bakiweyem,Riazat Ali Shah,,0,0,0,,,,31108231108
+2,Uganda,3,A Otwani,G Bakiweyem,Riazat Ali Shah,,0,0,0,,,,31108231108
+2,Uganda,4,Riazat Ali Shah,IKO Aboagye,A Otwani,,0,0,0,,,,31108231108
+2,Uganda,4,Riazat Ali Shah,IKO Aboagye,A Otwani,,0,2,2,,,,31108231108
+2,Uganda,4,Riazat Ali Shah,IKO Aboagye,A Otwani,,0,1,1,,,,31108231108
+2,Uganda,4,A Otwani,IKO Aboagye,Riazat Ali Shah,,0,0,0,,,,31108231108
+2,Uganda,4,A Otwani,IKO Aboagye,Riazat Ali Shah,,0,1,1,,,,31108231108
+2,Uganda,4,Riazat Ali Shah,IKO Aboagye,A Otwani,,0,0,0,,,,31108231108
+2,Uganda,5,A Otwani,DK Anefie,Riazat Ali Shah,,0,0,0,,,,31108231108
+2,Uganda,5,A Otwani,DK Anefie,Riazat Ali Shah,,0,4,4,,,,31108231108
+2,Uganda,5,A Otwani,DK Anefie,Riazat Ali Shah,,0,2,2,,,,31108231108
+2,Uganda,5,A Otwani,DK Anefie,Riazat Ali Shah,,0,1,1,,,,31108231108
+2,Uganda,5,Riazat Ali Shah,DK Anefie,A Otwani,,0,0,0,,,,31108231108
+2,Uganda,5,Riazat Ali Shah,DK Anefie,A Otwani,,0,1,1,,,,31108231108
+2,Uganda,6,Riazat Ali Shah,IKO Aboagye,A Otwani,,0,1,1,,,,31108231108
+2,Uganda,6,A Otwani,IKO Aboagye,Riazat Ali Shah,,0,0,0,caught,A Otwani,F Baleri,31108231108
+2,Uganda,6,D Muhumuza,IKO Aboagye,Riazat Ali Shah,,0,0,0,,,,31108231108
+2,Uganda,6,D Muhumuza,IKO Aboagye,Riazat Ali Shah,,0,0,0,,,,31108231108
+2,Uganda,6,D Muhumuza,IKO Aboagye,Riazat Ali Shah,,0,1,1,,,,31108231108
+2,Uganda,6,Riazat Ali Shah,IKO Aboagye,D Muhumuza,,0,4,4,,,,31108231108
+2,Uganda,7,D Muhumuza,DK Anefie,Riazat Ali Shah,,0,4,4,,,,31108231108
+2,Uganda,7,D Muhumuza,DK Anefie,Riazat Ali Shah,,0,0,0,,,,31108231108
+2,Uganda,7,D Muhumuza,DK Anefie,Riazat Ali Shah,,0,1,1,,,,31108231108
+2,Uganda,7,Riazat Ali Shah,DK Anefie,D Muhumuza,,0,0,0,,,,31108231108
+2,Uganda,7,Riazat Ali Shah,DK Anefie,D Muhumuza,,0,0,0,,,,31108231108
+2,Uganda,7,Riazat Ali Shah,DK Anefie,D Muhumuza,,0,1,1,,,,31108231108
+2,Uganda,8,Riazat Ali Shah,IKO Aboagye,D Muhumuza,,0,0,0,,,,31108231108
+2,Uganda,8,Riazat Ali Shah,IKO Aboagye,D Muhumuza,,0,0,0,,,,31108231108
+2,Uganda,8,Riazat Ali Shah,IKO Aboagye,D Muhumuza,,0,1,1,,,,31108231108
+2,Uganda,8,D Muhumuza,IKO Aboagye,Riazat Ali Shah,,0,0,0,,,,31108231108
+2,Uganda,8,D Muhumuza,IKO Aboagye,Riazat Ali Shah,,0,0,0,,,,31108231108
+2,Uganda,8,D Muhumuza,IKO Aboagye,Riazat Ali Shah,,0,1,1,,,,31108231108
+2,Uganda,9,D Muhumuza,DK Anefie,Riazat Ali Shah,,0,0,0,,,,31108231108
+2,Uganda,9,D Muhumuza,DK Anefie,Riazat Ali Shah,,0,0,0,,,,31108231108
+2,Uganda,9,D Muhumuza,DK Anefie,Riazat Ali Shah,,0,1,1,,,,31108231108
+2,Uganda,9,Riazat Ali Shah,DK Anefie,D Muhumuza,,0,0,0,,,,31108231108
+2,Uganda,9,Riazat Ali Shah,DK Anefie,D Muhumuza,,0,1,1,,,,31108231108
+2,Uganda,9,D Muhumuza,DK Anefie,Riazat Ali Shah,,0,1,1,,,,31108231108
+2,Uganda,10,D Muhumuza,KS Bagabena,Riazat Ali Shah,,0,4,4,,,,31108231108
+2,Uganda,10,D Muhumuza,KS Bagabena,Riazat Ali Shah,,0,0,0,,,,31108231108
+2,Uganda,10,D Muhumuza,KS Bagabena,Riazat Ali Shah,,0,1,1,,,,31108231108
+2,Uganda,10,Riazat Ali Shah,KS Bagabena,D Muhumuza,,0,6,6,,,,31108231108
+2,Uganda,10,Riazat Ali Shah,KS Bagabena,D Muhumuza,,0,4,4,,,,31108231108
+2,Uganda,10,Riazat Ali Shah,KS Bagabena,D Muhumuza,,0,1,1,,,,31108231108
+2,Uganda,11,Riazat Ali Shah,DK Anefie,D Muhumuza,,0,2,2,,,,31108231108
+2,Uganda,11,Riazat Ali Shah,DK Anefie,D Muhumuza,,0,0,0,,,,31108231108
+2,Uganda,11,Riazat Ali Shah,DK Anefie,D Muhumuza,,0,0,0,,,,31108231108
+2,Uganda,11,Riazat Ali Shah,DK Anefie,D Muhumuza,,0,1,1,,,,31108231108
+2,Uganda,11,D Muhumuza,DK Anefie,Riazat Ali Shah,,0,1,1,,,,31108231108
+2,Uganda,11,Riazat Ali Shah,DK Anefie,D Muhumuza,,0,4,4,,,,31108231108
+2,Uganda,12,D Muhumuza,DNA Ankrah,Riazat Ali Shah,,0,1,1,,,,31108231108
+2,Uganda,12,Riazat Ali Shah,DNA Ankrah,D Muhumuza,,0,2,2,,,,31108231108
+2,Uganda,12,Riazat Ali Shah,DNA Ankrah,D Muhumuza,,0,1,1,,,,31108231108
+2,Uganda,12,D Muhumuza,DNA Ankrah,Riazat Ali Shah,,0,6,6,,,,31108231108
+2,Uganda,12,D Muhumuza,DNA Ankrah,Riazat Ali Shah,wides,1,1,0,,,,31108231108
+2,Uganda,12,D Muhumuza,DNA Ankrah,Riazat Ali Shah,,0,4,4,,,,31108231108
+2,Uganda,12,D Muhumuza,DNA Ankrah,Riazat Ali Shah,,0,2,2,run out,D Muhumuza,,31108231108
+2,Uganda,13,DM Nakrani,JK Vifah,Riazat Ali Shah,,0,1,1,,,,31108231108
+2,Uganda,13,Riazat Ali Shah,JK Vifah,DM Nakrani,,0,2,2,,,,31108231108
+2,Uganda,13,Riazat Ali Shah,JK Vifah,DM Nakrani,,0,1,1,,,,31108231108
+2,Uganda,13,DM Nakrani,JK Vifah,Riazat Ali Shah,,0,0,0,,,,31108231108
+2,Uganda,13,DM Nakrani,JK Vifah,Riazat Ali Shah,,0,0,0,,,,31108231108
+2,Uganda,13,DM Nakrani,JK Vifah,Riazat Ali Shah,,0,0,0,,,,31108231108
+2,Uganda,14,Riazat Ali Shah,IKO Aboagye,DM Nakrani,,0,6,6,,,,31108231108
+2,Uganda,14,Riazat Ali Shah,IKO Aboagye,DM Nakrani,,0,0,0,,,,31108231108
+2,Uganda,14,Riazat Ali Shah,IKO Aboagye,DM Nakrani,,0,1,1,,,,31108231108
+2,Uganda,14,DM Nakrani,IKO Aboagye,Riazat Ali Shah,,0,1,1,,,,31108231108
+2,Uganda,14,Riazat Ali Shah,IKO Aboagye,DM Nakrani,,0,1,1,,,,31108231108
+2,Uganda,14,DM Nakrani,IKO Aboagye,Riazat Ali Shah,,0,0,0,,,,31108231108
+2,Uganda,15,Riazat Ali Shah,JK Vifah,DM Nakrani,,0,4,4,,,,31108231108

@@ -1,0 +1,110 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Afghanistan,0,Hazratullah,Nasum Ahmed,Rahmanullah Gurbaz,,0,0,0,,,,31930231930
+2,Afghanistan,0,Hazratullah,Nasum Ahmed,Rahmanullah Gurbaz,,0,1,1,,,,31930231930
+2,Afghanistan,0,Rahmanullah Gurbaz,Nasum Ahmed,Hazratullah,,0,0,0,,,,31930231930
+2,Afghanistan,0,Rahmanullah Gurbaz,Nasum Ahmed,Hazratullah,,0,0,0,caught,Rahmanullah Gurbaz,Yasir Ali Chowdhury,31930231930
+2,Afghanistan,0,Darwish Rasooli,Nasum Ahmed,Hazratullah,,0,0,0,,,,31930231930
+2,Afghanistan,0,Darwish Rasooli,Nasum Ahmed,Hazratullah,,0,0,0,,,,31930231930
+2,Afghanistan,1,Hazratullah,Mahedi Hasan,Darwish Rasooli,,0,4,4,,,,31930231930
+2,Afghanistan,1,Hazratullah,Mahedi Hasan,Darwish Rasooli,,0,0,0,,,,31930231930
+2,Afghanistan,1,Hazratullah,Mahedi Hasan,Darwish Rasooli,,0,0,0,,,,31930231930
+2,Afghanistan,1,Hazratullah,Mahedi Hasan,Darwish Rasooli,,0,1,1,,,,31930231930
+2,Afghanistan,1,Darwish Rasooli,Mahedi Hasan,Hazratullah,,0,0,0,,,,31930231930
+2,Afghanistan,1,Darwish Rasooli,Mahedi Hasan,Hazratullah,,0,2,2,,,,31930231930
+2,Afghanistan,2,Hazratullah,Nasum Ahmed,Darwish Rasooli,,0,0,0,caught,Hazratullah,Mohammad Naim,31930231930
+2,Afghanistan,2,Darwish Rasooli,Nasum Ahmed,Najibullah Zadran,,0,0,0,,,,31930231930
+2,Afghanistan,2,Darwish Rasooli,Nasum Ahmed,Najibullah Zadran,,0,0,0,bowled,Darwish Rasooli,,31930231930
+2,Afghanistan,2,Karim Janat,Nasum Ahmed,Najibullah Zadran,,0,0,0,,,,31930231930
+2,Afghanistan,2,Karim Janat,Nasum Ahmed,Najibullah Zadran,,0,1,1,,,,31930231930
+2,Afghanistan,2,Najibullah Zadran,Nasum Ahmed,Karim Janat,,0,0,0,,,,31930231930
+2,Afghanistan,3,Karim Janat,Mustafizur Rahman,Najibullah Zadran,,0,0,0,,,,31930231930
+2,Afghanistan,3,Karim Janat,Mustafizur Rahman,Najibullah Zadran,,0,0,0,,,,31930231930
+2,Afghanistan,3,Karim Janat,Mustafizur Rahman,Najibullah Zadran,,0,1,1,,,,31930231930
+2,Afghanistan,3,Najibullah Zadran,Mustafizur Rahman,Karim Janat,,0,4,4,,,,31930231930
+2,Afghanistan,3,Najibullah Zadran,Mustafizur Rahman,Karim Janat,,0,1,1,,,,31930231930
+2,Afghanistan,3,Karim Janat,Mustafizur Rahman,Najibullah Zadran,,0,0,0,,,,31930231930
+2,Afghanistan,4,Najibullah Zadran,Nasum Ahmed,Karim Janat,,0,1,1,,,,31930231930
+2,Afghanistan,4,Karim Janat,Nasum Ahmed,Najibullah Zadran,,0,4,4,,,,31930231930
+2,Afghanistan,4,Karim Janat,Nasum Ahmed,Najibullah Zadran,,0,0,0,caught,Karim Janat,Mahedi Hasan,31930231930
+2,Afghanistan,4,Mohammad Nabi,Nasum Ahmed,Najibullah Zadran,,0,0,0,,,,31930231930
+2,Afghanistan,4,Mohammad Nabi,Nasum Ahmed,Najibullah Zadran,,0,0,0,,,,31930231930
+2,Afghanistan,4,Mohammad Nabi,Nasum Ahmed,Najibullah Zadran,,0,0,0,,,,31930231930
+2,Afghanistan,5,Najibullah Zadran,Shoriful Islam,Mohammad Nabi,,0,0,0,,,,31930231930
+2,Afghanistan,5,Najibullah Zadran,Shoriful Islam,Mohammad Nabi,,0,3,3,,,,31930231930
+2,Afghanistan,5,Mohammad Nabi,Shoriful Islam,Najibullah Zadran,,0,4,4,,,,31930231930
+2,Afghanistan,5,Mohammad Nabi,Shoriful Islam,Najibullah Zadran,legbyes,1,1,0,,,,31930231930
+2,Afghanistan,5,Najibullah Zadran,Shoriful Islam,Mohammad Nabi,,0,1,1,,,,31930231930
+2,Afghanistan,5,Mohammad Nabi,Shoriful Islam,Najibullah Zadran,,0,0,0,,,,31930231930
+2,Afghanistan,6,Najibullah Zadran,Nasum Ahmed,Mohammad Nabi,,0,1,1,,,,31930231930
+2,Afghanistan,6,Mohammad Nabi,Nasum Ahmed,Najibullah Zadran,,0,0,0,,,,31930231930
+2,Afghanistan,6,Mohammad Nabi,Nasum Ahmed,Najibullah Zadran,,0,1,1,,,,31930231930
+2,Afghanistan,6,Najibullah Zadran,Nasum Ahmed,Mohammad Nabi,,0,0,0,,,,31930231930
+2,Afghanistan,6,Najibullah Zadran,Nasum Ahmed,Mohammad Nabi,,0,1,1,,,,31930231930
+2,Afghanistan,6,Mohammad Nabi,Nasum Ahmed,Najibullah Zadran,,0,0,0,,,,31930231930
+2,Afghanistan,7,Najibullah Zadran,Mahedi Hasan,Mohammad Nabi,,0,1,1,,,,31930231930
+2,Afghanistan,7,Mohammad Nabi,Mahedi Hasan,Najibullah Zadran,,0,4,4,,,,31930231930
+2,Afghanistan,7,Mohammad Nabi,Mahedi Hasan,Najibullah Zadran,,0,1,1,,,,31930231930
+2,Afghanistan,7,Najibullah Zadran,Mahedi Hasan,Mohammad Nabi,,0,0,0,,,,31930231930
+2,Afghanistan,7,Najibullah Zadran,Mahedi Hasan,Mohammad Nabi,,0,0,0,,,,31930231930
+2,Afghanistan,7,Najibullah Zadran,Mahedi Hasan,Mohammad Nabi,,0,0,0,,,,31930231930
+2,Afghanistan,8,Mohammad Nabi,Shakib Al Hasan,Najibullah Zadran,,0,1,1,,,,31930231930
+2,Afghanistan,8,Najibullah Zadran,Shakib Al Hasan,Mohammad Nabi,,0,1,1,,,,31930231930
+2,Afghanistan,8,Mohammad Nabi,Shakib Al Hasan,Najibullah Zadran,,0,1,1,,,,31930231930
+2,Afghanistan,8,Najibullah Zadran,Shakib Al Hasan,Mohammad Nabi,,0,0,0,,,,31930231930
+2,Afghanistan,8,Najibullah Zadran,Shakib Al Hasan,Mohammad Nabi,,0,1,1,,,,31930231930
+2,Afghanistan,8,Mohammad Nabi,Shakib Al Hasan,Najibullah Zadran,,0,0,0,,,,31930231930
+2,Afghanistan,9,Najibullah Zadran,Mustafizur Rahman,Mohammad Nabi,,0,1,1,,,,31930231930
+2,Afghanistan,9,Mohammad Nabi,Mustafizur Rahman,Najibullah Zadran,,0,1,1,,,,31930231930
+2,Afghanistan,9,Najibullah Zadran,Mustafizur Rahman,Mohammad Nabi,wides,1,1,0,,,,31930231930
+2,Afghanistan,9,Najibullah Zadran,Mustafizur Rahman,Mohammad Nabi,,0,6,6,,,,31930231930
+2,Afghanistan,9,Najibullah Zadran,Mustafizur Rahman,Mohammad Nabi,,0,2,2,,,,31930231930
+2,Afghanistan,9,Najibullah Zadran,Mustafizur Rahman,Mohammad Nabi,,0,0,0,,,,31930231930
+2,Afghanistan,9,Najibullah Zadran,Mustafizur Rahman,Mohammad Nabi,,0,0,0,,,,31930231930
+2,Afghanistan,10,Mohammad Nabi,Shakib Al Hasan,Najibullah Zadran,,0,0,0,,,,31930231930
+2,Afghanistan,10,Mohammad Nabi,Shakib Al Hasan,Najibullah Zadran,,0,1,1,,,,31930231930
+2,Afghanistan,10,Najibullah Zadran,Shakib Al Hasan,Mohammad Nabi,,0,1,1,,,,31930231930
+2,Afghanistan,10,Mohammad Nabi,Shakib Al Hasan,Najibullah Zadran,,0,2,2,,,,31930231930
+2,Afghanistan,10,Mohammad Nabi,Shakib Al Hasan,Najibullah Zadran,,0,0,0,caught,Mohammad Nabi,Afif Hossain,31930231930
+2,Afghanistan,10,Azmatullah Omarzai,Shakib Al Hasan,Najibullah Zadran,,0,0,0,,,,31930231930
+2,Afghanistan,11,Najibullah Zadran,Mahedi Hasan,Azmatullah Omarzai,,0,1,1,,,,31930231930
+2,Afghanistan,11,Azmatullah Omarzai,Mahedi Hasan,Najibullah Zadran,,0,0,0,,,,31930231930
+2,Afghanistan,11,Azmatullah Omarzai,Mahedi Hasan,Najibullah Zadran,,0,1,1,,,,31930231930
+2,Afghanistan,11,Najibullah Zadran,Mahedi Hasan,Azmatullah Omarzai,,0,1,1,,,,31930231930
+2,Afghanistan,11,Azmatullah Omarzai,Mahedi Hasan,Najibullah Zadran,,0,0,0,,,,31930231930
+2,Afghanistan,11,Azmatullah Omarzai,Mahedi Hasan,Najibullah Zadran,,0,1,1,,,,31930231930
+2,Afghanistan,12,Azmatullah Omarzai,Shakib Al Hasan,Najibullah Zadran,,0,1,1,,,,31930231930
+2,Afghanistan,12,Najibullah Zadran,Shakib Al Hasan,Azmatullah Omarzai,,0,0,0,caught,Najibullah Zadran,Munim Shahriar,31930231930
+2,Afghanistan,12,Rashid Khan,Shakib Al Hasan,Azmatullah Omarzai,,0,0,0,,,,31930231930
+2,Afghanistan,12,Rashid Khan,Shakib Al Hasan,Azmatullah Omarzai,,0,1,1,,,,31930231930
+2,Afghanistan,12,Azmatullah Omarzai,Shakib Al Hasan,Rashid Khan,wides,1,1,0,,,,31930231930
+2,Afghanistan,12,Azmatullah Omarzai,Shakib Al Hasan,Rashid Khan,,0,1,1,,,,31930231930
+2,Afghanistan,12,Rashid Khan,Shakib Al Hasan,Azmatullah Omarzai,,0,0,0,,,,31930231930
+2,Afghanistan,13,Azmatullah Omarzai,Shoriful Islam,Rashid Khan,,0,0,0,,,,31930231930
+2,Afghanistan,13,Azmatullah Omarzai,Shoriful Islam,Rashid Khan,,0,1,1,,,,31930231930
+2,Afghanistan,13,Rashid Khan,Shoriful Islam,Azmatullah Omarzai,,0,0,0,,,,31930231930
+2,Afghanistan,13,Rashid Khan,Shoriful Islam,Azmatullah Omarzai,,0,0,0,,,,31930231930
+2,Afghanistan,13,Rashid Khan,Shoriful Islam,Azmatullah Omarzai,,0,0,0,,,,31930231930
+2,Afghanistan,13,Rashid Khan,Shoriful Islam,Azmatullah Omarzai,,0,0,0,caught,Rashid Khan,Yasir Ali Chowdhury,31930231930
+2,Afghanistan,14,Azmatullah Omarzai,Shakib Al Hasan,Qais Ahmad,,0,0,0,,,,31930231930
+2,Afghanistan,14,Azmatullah Omarzai,Shakib Al Hasan,Qais Ahmad,,0,1,1,,,,31930231930
+2,Afghanistan,14,Qais Ahmad,Shakib Al Hasan,Azmatullah Omarzai,,0,0,0,,,,31930231930
+2,Afghanistan,14,Qais Ahmad,Shakib Al Hasan,Azmatullah Omarzai,,0,1,1,,,,31930231930
+2,Afghanistan,14,Azmatullah Omarzai,Shakib Al Hasan,Qais Ahmad,,0,0,0,,,,31930231930
+2,Afghanistan,14,Azmatullah Omarzai,Shakib Al Hasan,Qais Ahmad,,0,4,4,,,,31930231930
+2,Afghanistan,15,Qais Ahmad,Shoriful Islam,Azmatullah Omarzai,,0,0,0,,,,31930231930
+2,Afghanistan,15,Qais Ahmad,Shoriful Islam,Azmatullah Omarzai,,0,1,1,,,,31930231930
+2,Afghanistan,15,Azmatullah Omarzai,Shoriful Islam,Qais Ahmad,,0,4,4,,,,31930231930
+2,Afghanistan,15,Azmatullah Omarzai,Shoriful Islam,Qais Ahmad,,0,0,0,,,,31930231930
+2,Afghanistan,15,Azmatullah Omarzai,Shoriful Islam,Qais Ahmad,wides,1,1,0,,,,31930231930
+2,Afghanistan,15,Azmatullah Omarzai,Shoriful Islam,Qais Ahmad,,0,6,6,,,,31930231930
+2,Afghanistan,15,Azmatullah Omarzai,Shoriful Islam,Qais Ahmad,,0,0,0,,,,31930231930
+2,Afghanistan,16,Qais Ahmad,Mustafizur Rahman,Azmatullah Omarzai,,0,0,0,,,,31930231930
+2,Afghanistan,16,Qais Ahmad,Mustafizur Rahman,Azmatullah Omarzai,,0,1,1,,,,31930231930
+2,Afghanistan,16,Azmatullah Omarzai,Mustafizur Rahman,Qais Ahmad,,0,0,0,caught,Azmatullah Omarzai,Mahmudullah,31930231930
+2,Afghanistan,16,Qais Ahmad,Mustafizur Rahman,Mujeeb Ur Rahman,,0,1,1,,,,31930231930
+2,Afghanistan,16,Mujeeb Ur Rahman,Mustafizur Rahman,Qais Ahmad,,0,0,0,,,,31930231930
+2,Afghanistan,16,Mujeeb Ur Rahman,Mustafizur Rahman,Qais Ahmad,,0,0,0,,,,31930231930
+2,Afghanistan,17,Qais Ahmad,Shoriful Islam,Mujeeb Ur Rahman,,0,4,4,,,,31930231930
+2,Afghanistan,17,Qais Ahmad,Shoriful Islam,Mujeeb Ur Rahman,,0,0,0,caught and bowled,Qais Ahmad,,31930231930
+2,Afghanistan,17,Mujeeb Ur Rahman,Shoriful Islam,Fazalhaq Farooqi,,0,4,4,,,,31930231930
+2,Afghanistan,17,Mujeeb Ur Rahman,Shoriful Islam,Fazalhaq Farooqi,,0,0,0,caught,Mujeeb Ur Rahman,Afif Hossain,31930231930

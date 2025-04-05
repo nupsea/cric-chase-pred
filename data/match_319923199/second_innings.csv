@@ -1,0 +1,116 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,England,0,AD Hales,R Ashwin,C Kieswetter,,0,0,0,,,,319923199
+2,England,0,AD Hales,R Ashwin,C Kieswetter,,0,0,0,,,,319923199
+2,England,0,AD Hales,R Ashwin,C Kieswetter,,0,1,1,,,,319923199
+2,England,0,C Kieswetter,R Ashwin,AD Hales,wides,1,1,0,,,,319923199
+2,England,0,C Kieswetter,R Ashwin,AD Hales,,0,0,0,,,,319923199
+2,England,0,C Kieswetter,R Ashwin,AD Hales,,0,4,4,,,,319923199
+2,England,0,C Kieswetter,R Ashwin,AD Hales,,0,2,2,,,,319923199
+2,England,1,AD Hales,YK Pathan,C Kieswetter,,0,1,1,,,,319923199
+2,England,1,C Kieswetter,YK Pathan,AD Hales,,0,1,1,,,,319923199
+2,England,1,AD Hales,YK Pathan,C Kieswetter,,0,2,2,,,,319923199
+2,England,1,AD Hales,YK Pathan,C Kieswetter,,0,0,0,,,,319923199
+2,England,1,AD Hales,YK Pathan,C Kieswetter,,0,1,1,,,,319923199
+2,England,1,C Kieswetter,YK Pathan,AD Hales,,0,1,1,,,,319923199
+2,England,2,C Kieswetter,R Ashwin,AD Hales,,0,4,4,,,,319923199
+2,England,2,C Kieswetter,R Ashwin,AD Hales,,0,0,0,,,,319923199
+2,England,2,C Kieswetter,R Ashwin,AD Hales,legbyes,1,1,0,,,,319923199
+2,England,2,AD Hales,R Ashwin,C Kieswetter,,0,0,0,,,,319923199
+2,England,2,AD Hales,R Ashwin,C Kieswetter,,0,1,1,,,,319923199
+2,England,2,C Kieswetter,R Ashwin,AD Hales,,0,0,0,,,,319923199
+2,England,3,AD Hales,RA Jadeja,C Kieswetter,,0,1,1,,,,319923199
+2,England,3,C Kieswetter,RA Jadeja,AD Hales,,0,0,0,caught,C Kieswetter,MK Tiwary,319923199
+2,England,3,AD Hales,RA Jadeja,KP Pietersen,,0,0,0,,,,319923199
+2,England,3,AD Hales,RA Jadeja,KP Pietersen,,0,0,0,,,,319923199
+2,England,3,AD Hales,RA Jadeja,KP Pietersen,,0,1,1,,,,319923199
+2,England,3,KP Pietersen,RA Jadeja,AD Hales,,0,0,0,,,,319923199
+2,England,4,AD Hales,R Ashwin,KP Pietersen,,0,1,1,,,,319923199
+2,England,4,KP Pietersen,R Ashwin,AD Hales,,0,1,1,,,,319923199
+2,England,4,AD Hales,R Ashwin,KP Pietersen,,0,1,1,,,,319923199
+2,England,4,KP Pietersen,R Ashwin,AD Hales,,0,0,0,,,,319923199
+2,England,4,KP Pietersen,R Ashwin,AD Hales,,0,1,1,,,,319923199
+2,England,4,AD Hales,R Ashwin,KP Pietersen,,0,0,0,,,,319923199
+2,England,5,KP Pietersen,RA Jadeja,AD Hales,,0,0,0,,,,319923199
+2,England,5,KP Pietersen,RA Jadeja,AD Hales,,0,0,0,,,,319923199
+2,England,5,KP Pietersen,RA Jadeja,AD Hales,legbyes,1,1,0,,,,319923199
+2,England,5,AD Hales,RA Jadeja,KP Pietersen,legbyes,1,1,0,,,,319923199
+2,England,5,KP Pietersen,RA Jadeja,AD Hales,,0,0,0,,,,319923199
+2,England,5,KP Pietersen,RA Jadeja,AD Hales,,0,0,0,,,,319923199
+2,England,6,AD Hales,YK Pathan,KP Pietersen,,0,1,1,,,,319923199
+2,England,6,KP Pietersen,YK Pathan,AD Hales,,0,4,4,,,,319923199
+2,England,6,KP Pietersen,YK Pathan,AD Hales,,0,0,0,,,,319923199
+2,England,6,KP Pietersen,YK Pathan,AD Hales,,0,6,6,,,,319923199
+2,England,6,KP Pietersen,YK Pathan,AD Hales,,0,1,1,,,,319923199
+2,England,6,AD Hales,YK Pathan,KP Pietersen,,0,0,0,caught,AD Hales,AM Rahane,319923199
+2,England,7,SR Patel,RA Jadeja,KP Pietersen,,0,0,0,,,,319923199
+2,England,7,SR Patel,RA Jadeja,KP Pietersen,,0,2,2,,,,319923199
+2,England,7,SR Patel,RA Jadeja,KP Pietersen,wides,2,2,0,,,,319923199
+2,England,7,KP Pietersen,RA Jadeja,SR Patel,,0,1,1,,,,319923199
+2,England,7,SR Patel,RA Jadeja,KP Pietersen,,0,0,0,,,,319923199
+2,England,7,SR Patel,RA Jadeja,KP Pietersen,,0,0,0,,,,319923199
+2,England,7,SR Patel,RA Jadeja,KP Pietersen,,0,0,0,,,,319923199
+2,England,8,KP Pietersen,YK Pathan,SR Patel,,0,1,1,,,,319923199
+2,England,8,SR Patel,YK Pathan,KP Pietersen,,0,0,0,,,,319923199
+2,England,8,SR Patel,YK Pathan,KP Pietersen,,0,4,4,,,,319923199
+2,England,8,SR Patel,YK Pathan,KP Pietersen,,0,1,1,,,,319923199
+2,England,8,KP Pietersen,YK Pathan,SR Patel,,0,6,6,,,,319923199
+2,England,8,KP Pietersen,YK Pathan,SR Patel,,0,4,4,,,,319923199
+2,England,9,SR Patel,P Kumar,KP Pietersen,,0,1,1,,,,319923199
+2,England,9,KP Pietersen,P Kumar,SR Patel,,0,1,1,,,,319923199
+2,England,9,SR Patel,P Kumar,KP Pietersen,,0,1,1,,,,319923199
+2,England,9,KP Pietersen,P Kumar,SR Patel,,0,2,2,,,,319923199
+2,England,9,KP Pietersen,P Kumar,SR Patel,,0,4,4,,,,319923199
+2,England,9,KP Pietersen,P Kumar,SR Patel,,0,4,4,,,,319923199
+2,England,10,SR Patel,R Vinay Kumar,KP Pietersen,,0,0,0,,,,319923199
+2,England,10,SR Patel,R Vinay Kumar,KP Pietersen,,0,6,6,,,,319923199
+2,England,10,SR Patel,R Vinay Kumar,KP Pietersen,,0,0,0,,,,319923199
+2,England,10,SR Patel,R Vinay Kumar,KP Pietersen,,0,0,0,,,,319923199
+2,England,10,SR Patel,R Vinay Kumar,KP Pietersen,,0,0,0,,,,319923199
+2,England,10,SR Patel,R Vinay Kumar,KP Pietersen,,0,0,0,,,,319923199
+2,England,11,KP Pietersen,RA Jadeja,SR Patel,,0,1,1,,,,319923199
+2,England,11,SR Patel,RA Jadeja,KP Pietersen,,0,0,0,,,,319923199
+2,England,11,SR Patel,RA Jadeja,KP Pietersen,,0,1,1,,,,319923199
+2,England,11,KP Pietersen,RA Jadeja,SR Patel,,0,0,0,,,,319923199
+2,England,11,KP Pietersen,RA Jadeja,SR Patel,,0,0,0,,,,319923199
+2,England,11,KP Pietersen,RA Jadeja,SR Patel,,0,0,0,,,,319923199
+2,England,12,SR Patel,R Vinay Kumar,KP Pietersen,,0,1,1,,,,319923199
+2,England,12,KP Pietersen,R Vinay Kumar,SR Patel,,0,0,0,,,,319923199
+2,England,12,KP Pietersen,R Vinay Kumar,SR Patel,,0,1,1,,,,319923199
+2,England,12,SR Patel,R Vinay Kumar,KP Pietersen,,0,1,1,,,,319923199
+2,England,12,KP Pietersen,R Vinay Kumar,SR Patel,,0,4,4,,,,319923199
+2,England,12,KP Pietersen,R Vinay Kumar,SR Patel,,0,6,6,,,,319923199
+2,England,13,SR Patel,R Ashwin,KP Pietersen,,0,0,0,,,,319923199
+2,England,13,SR Patel,R Ashwin,KP Pietersen,,0,1,1,,,,319923199
+2,England,13,KP Pietersen,R Ashwin,SR Patel,,0,0,0,,,,319923199
+2,England,13,KP Pietersen,R Ashwin,SR Patel,,0,1,1,,,,319923199
+2,England,13,SR Patel,R Ashwin,KP Pietersen,,0,1,1,,,,319923199
+2,England,13,KP Pietersen,R Ashwin,SR Patel,,0,0,0,,,,319923199
+2,England,14,SR Patel,V Kohli,KP Pietersen,,0,1,1,,,,319923199
+2,England,14,KP Pietersen,V Kohli,SR Patel,,0,0,0,,,,319923199
+2,England,14,KP Pietersen,V Kohli,SR Patel,,0,1,1,,,,319923199
+2,England,14,SR Patel,V Kohli,KP Pietersen,,0,0,0,caught,SR Patel,MK Tiwary,319923199
+2,England,14,KP Pietersen,V Kohli,RS Bopara,,0,0,0,,,,319923199
+2,England,14,KP Pietersen,V Kohli,RS Bopara,,0,2,2,,,,319923199
+2,England,15,RS Bopara,SK Raina,KP Pietersen,wides,1,1,0,,,,319923199
+2,England,15,RS Bopara,SK Raina,KP Pietersen,,0,1,1,,,,319923199
+2,England,15,KP Pietersen,SK Raina,RS Bopara,,0,1,1,,,,319923199
+2,England,15,RS Bopara,SK Raina,KP Pietersen,,0,1,1,,,,319923199
+2,England,15,KP Pietersen,SK Raina,RS Bopara,,0,0,0,,,,319923199
+2,England,15,KP Pietersen,SK Raina,RS Bopara,,0,0,0,lbw,KP Pietersen,,319923199
+2,England,15,JM Bairstow,SK Raina,RS Bopara,,0,0,0,,,,319923199
+2,England,16,RS Bopara,V Kohli,JM Bairstow,,0,0,0,,,,319923199
+2,England,16,RS Bopara,V Kohli,JM Bairstow,,0,4,4,,,,319923199
+2,England,16,RS Bopara,V Kohli,JM Bairstow,,0,0,0,,,,319923199
+2,England,16,RS Bopara,V Kohli,JM Bairstow,,0,0,0,,,,319923199
+2,England,16,RS Bopara,V Kohli,JM Bairstow,,0,2,2,,,,319923199
+2,England,16,RS Bopara,V Kohli,JM Bairstow,byes,1,1,0,,,,319923199
+2,England,17,RS Bopara,SK Raina,JM Bairstow,,0,1,1,,,,319923199
+2,England,17,JM Bairstow,SK Raina,RS Bopara,,0,1,1,,,,319923199
+2,England,17,RS Bopara,SK Raina,JM Bairstow,,0,0,0,,,,319923199
+2,England,17,RS Bopara,SK Raina,JM Bairstow,,0,0,0,,,,319923199
+2,England,17,RS Bopara,SK Raina,JM Bairstow,,0,2,2,,,,319923199
+2,England,17,RS Bopara,SK Raina,JM Bairstow,,0,1,1,,,,319923199
+2,England,18,RS Bopara,V Kohli,JM Bairstow,,0,1,1,,,,319923199
+2,England,18,JM Bairstow,V Kohli,RS Bopara,,0,1,1,,,,319923199
+2,England,18,RS Bopara,V Kohli,JM Bairstow,,0,0,0,,,,319923199
+2,England,18,RS Bopara,V Kohli,JM Bairstow,,0,1,1,,,,319923199

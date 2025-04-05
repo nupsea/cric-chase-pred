@@ -1,0 +1,130 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,RR Rossouw,SJ Benn,MN van Wyk,,0,0,0,,,,346523465
+1,South Africa,0,RR Rossouw,SJ Benn,MN van Wyk,,0,1,1,,,,346523465
+1,South Africa,0,MN van Wyk,SJ Benn,RR Rossouw,,0,0,0,,,,346523465
+1,South Africa,0,MN van Wyk,SJ Benn,RR Rossouw,,0,4,4,,,,346523465
+1,South Africa,0,MN van Wyk,SJ Benn,RR Rossouw,,0,0,0,caught,MN van Wyk,KA Pollard,346523465
+1,South Africa,0,F du Plessis,SJ Benn,RR Rossouw,,0,0,0,,,,346523465
+1,South Africa,1,RR Rossouw,SS Cottrell,F du Plessis,,0,0,0,,,,346523465
+1,South Africa,1,RR Rossouw,SS Cottrell,F du Plessis,,0,6,6,,,,346523465
+1,South Africa,1,RR Rossouw,SS Cottrell,F du Plessis,,0,0,0,,,,346523465
+1,South Africa,1,RR Rossouw,SS Cottrell,F du Plessis,,0,6,6,,,,346523465
+1,South Africa,1,RR Rossouw,SS Cottrell,F du Plessis,,0,0,0,,,,346523465
+1,South Africa,1,RR Rossouw,SS Cottrell,F du Plessis,,0,2,2,,,,346523465
+1,South Africa,2,F du Plessis,JO Holder,RR Rossouw,wides,1,1,0,,,,346523465
+1,South Africa,2,F du Plessis,JO Holder,RR Rossouw,,0,1,1,,,,346523465
+1,South Africa,2,RR Rossouw,JO Holder,F du Plessis,,0,0,0,caught,RR Rossouw,D Ramdin,346523465
+1,South Africa,2,DA Miller,JO Holder,F du Plessis,wides,1,1,0,,,,346523465
+1,South Africa,2,DA Miller,JO Holder,F du Plessis,,0,1,1,,,,346523465
+1,South Africa,2,F du Plessis,JO Holder,DA Miller,,0,0,0,,,,346523465
+1,South Africa,2,F du Plessis,JO Holder,DA Miller,,0,4,4,,,,346523465
+1,South Africa,2,F du Plessis,JO Holder,DA Miller,,0,1,1,,,,346523465
+1,South Africa,3,F du Plessis,AD Russell,DA Miller,wides,1,1,0,,,,346523465
+1,South Africa,3,F du Plessis,AD Russell,DA Miller,,0,1,1,,,,346523465
+1,South Africa,3,DA Miller,AD Russell,F du Plessis,,0,0,0,,,,346523465
+1,South Africa,3,DA Miller,AD Russell,F du Plessis,,0,4,4,,,,346523465
+1,South Africa,3,DA Miller,AD Russell,F du Plessis,,0,0,0,,,,346523465
+1,South Africa,3,DA Miller,AD Russell,F du Plessis,,0,1,1,,,,346523465
+1,South Africa,3,F du Plessis,AD Russell,DA Miller,,0,0,0,,,,346523465
+1,South Africa,4,DA Miller,JO Holder,F du Plessis,,0,1,1,,,,346523465
+1,South Africa,4,F du Plessis,JO Holder,DA Miller,,0,4,4,,,,346523465
+1,South Africa,4,F du Plessis,JO Holder,DA Miller,,0,1,1,,,,346523465
+1,South Africa,4,DA Miller,JO Holder,F du Plessis,,0,4,4,,,,346523465
+1,South Africa,4,DA Miller,JO Holder,F du Plessis,,0,4,4,,,,346523465
+1,South Africa,4,DA Miller,JO Holder,F du Plessis,,0,0,0,,,,346523465
+1,South Africa,5,F du Plessis,SJ Benn,DA Miller,,0,2,2,,,,346523465
+1,South Africa,5,F du Plessis,SJ Benn,DA Miller,,0,6,6,,,,346523465
+1,South Africa,5,F du Plessis,SJ Benn,DA Miller,,0,0,0,,,,346523465
+1,South Africa,5,F du Plessis,SJ Benn,DA Miller,,0,4,4,,,,346523465
+1,South Africa,5,F du Plessis,SJ Benn,DA Miller,,0,4,4,,,,346523465
+1,South Africa,5,F du Plessis,SJ Benn,DA Miller,,0,4,4,,,,346523465
+1,South Africa,6,DA Miller,DJ Bravo,F du Plessis,,0,1,1,,,,346523465
+1,South Africa,6,F du Plessis,DJ Bravo,DA Miller,,0,0,0,,,,346523465
+1,South Africa,6,F du Plessis,DJ Bravo,DA Miller,,0,1,1,,,,346523465
+1,South Africa,6,DA Miller,DJ Bravo,F du Plessis,,0,0,0,,,,346523465
+1,South Africa,6,DA Miller,DJ Bravo,F du Plessis,,0,6,6,,,,346523465
+1,South Africa,6,DA Miller,DJ Bravo,F du Plessis,legbyes,1,1,0,,,,346523465
+1,South Africa,7,DA Miller,SS Cottrell,F du Plessis,,0,0,0,,,,346523465
+1,South Africa,7,DA Miller,SS Cottrell,F du Plessis,,0,2,2,,,,346523465
+1,South Africa,7,DA Miller,SS Cottrell,F du Plessis,,0,1,1,,,,346523465
+1,South Africa,7,F du Plessis,SS Cottrell,DA Miller,,0,4,4,,,,346523465
+1,South Africa,7,F du Plessis,SS Cottrell,DA Miller,,0,1,1,,,,346523465
+1,South Africa,7,DA Miller,SS Cottrell,F du Plessis,legbyes,1,1,0,,,,346523465
+1,South Africa,8,DA Miller,DJG Sammy,F du Plessis,,0,6,6,,,,346523465
+1,South Africa,8,DA Miller,DJG Sammy,F du Plessis,,0,1,1,,,,346523465
+1,South Africa,8,F du Plessis,DJG Sammy,DA Miller,,0,2,2,,,,346523465
+1,South Africa,8,F du Plessis,DJG Sammy,DA Miller,,0,1,1,,,,346523465
+1,South Africa,8,DA Miller,DJG Sammy,F du Plessis,,0,1,1,,,,346523465
+1,South Africa,8,F du Plessis,DJG Sammy,DA Miller,,0,6,6,,,,346523465
+1,South Africa,9,DA Miller,SJ Benn,F du Plessis,,0,0,0,,,,346523465
+1,South Africa,9,DA Miller,SJ Benn,F du Plessis,,0,2,2,,,,346523465
+1,South Africa,9,DA Miller,SJ Benn,F du Plessis,,0,6,6,,,,346523465
+1,South Africa,9,DA Miller,SJ Benn,F du Plessis,,0,1,1,,,,346523465
+1,South Africa,9,F du Plessis,SJ Benn,DA Miller,,0,6,6,,,,346523465
+1,South Africa,9,F du Plessis,SJ Benn,DA Miller,,0,2,2,,,,346523465
+1,South Africa,10,DA Miller,AD Russell,F du Plessis,,0,4,4,,,,346523465
+1,South Africa,10,DA Miller,AD Russell,F du Plessis,,0,1,1,,,,346523465
+1,South Africa,10,F du Plessis,AD Russell,DA Miller,,0,0,0,run out,DA Miller,AD Russell,346523465
+1,South Africa,10,JL Ontong,AD Russell,F du Plessis,,0,0,0,,,,346523465
+1,South Africa,10,JL Ontong,AD Russell,F du Plessis,,0,0,0,,,,346523465
+1,South Africa,10,JL Ontong,AD Russell,F du Plessis,wides,1,1,0,,,,346523465
+1,South Africa,10,JL Ontong,AD Russell,F du Plessis,,0,2,2,,,,346523465
+1,South Africa,11,F du Plessis,DJ Bravo,JL Ontong,,0,1,1,,,,346523465
+1,South Africa,11,JL Ontong,DJ Bravo,F du Plessis,,0,0,0,,,,346523465
+1,South Africa,11,JL Ontong,DJ Bravo,F du Plessis,,0,1,1,,,,346523465
+1,South Africa,11,F du Plessis,DJ Bravo,JL Ontong,,0,1,1,,,,346523465
+1,South Africa,11,JL Ontong,DJ Bravo,F du Plessis,,0,1,1,,,,346523465
+1,South Africa,11,F du Plessis,DJ Bravo,JL Ontong,,0,1,1,,,,346523465
+1,South Africa,12,F du Plessis,AD Russell,JL Ontong,,0,2,2,,,,346523465
+1,South Africa,12,F du Plessis,AD Russell,JL Ontong,wides,1,1,0,,,,346523465
+1,South Africa,12,F du Plessis,AD Russell,JL Ontong,,0,1,1,,,,346523465
+1,South Africa,12,JL Ontong,AD Russell,F du Plessis,noballs,1,5,4,,,,346523465
+1,South Africa,12,JL Ontong,AD Russell,F du Plessis,,0,1,1,,,,346523465
+1,South Africa,12,F du Plessis,AD Russell,JL Ontong,,0,1,1,,,,346523465
+1,South Africa,12,JL Ontong,AD Russell,F du Plessis,,0,0,0,,,,346523465
+1,South Africa,12,JL Ontong,AD Russell,F du Plessis,,0,6,6,,,,346523465
+1,South Africa,13,F du Plessis,DJ Bravo,JL Ontong,,0,1,1,,,,346523465
+1,South Africa,13,JL Ontong,DJ Bravo,F du Plessis,,0,4,4,,,,346523465
+1,South Africa,13,JL Ontong,DJ Bravo,F du Plessis,,0,0,0,caught,JL Ontong,JO Holder,346523465
+1,South Africa,13,F du Plessis,DJ Bravo,F Behardien,,0,1,1,,,,346523465
+1,South Africa,13,F Behardien,DJ Bravo,F du Plessis,,0,1,1,,,,346523465
+1,South Africa,13,F du Plessis,DJ Bravo,F Behardien,wides,1,1,0,,,,346523465
+1,South Africa,13,F du Plessis,DJ Bravo,F Behardien,,0,2,2,,,,346523465
+1,South Africa,14,F Behardien,KA Pollard,F du Plessis,,0,1,1,,,,346523465
+1,South Africa,14,F du Plessis,KA Pollard,F Behardien,,0,2,2,,,,346523465
+1,South Africa,14,F du Plessis,KA Pollard,F Behardien,,0,2,2,,,,346523465
+1,South Africa,14,F du Plessis,KA Pollard,F Behardien,,0,2,2,,,,346523465
+1,South Africa,14,F du Plessis,KA Pollard,F Behardien,,0,4,4,,,,346523465
+1,South Africa,14,F du Plessis,KA Pollard,F Behardien,,0,1,1,,,,346523465
+1,South Africa,15,F du Plessis,SS Cottrell,F Behardien,,0,2,2,,,,346523465
+1,South Africa,15,F du Plessis,SS Cottrell,F Behardien,,0,4,4,,,,346523465
+1,South Africa,15,F du Plessis,SS Cottrell,F Behardien,noballs,1,5,4,,,,346523465
+1,South Africa,15,F du Plessis,SS Cottrell,F Behardien,,0,2,2,,,,346523465
+1,South Africa,15,F du Plessis,SS Cottrell,F Behardien,,0,2,2,,,,346523465
+1,South Africa,15,F du Plessis,SS Cottrell,F Behardien,,0,6,6,,,,346523465
+1,South Africa,15,F du Plessis,SS Cottrell,F Behardien,,0,4,4,,,,346523465
+1,South Africa,16,F Behardien,JO Holder,F du Plessis,,0,1,1,,,,346523465
+1,South Africa,16,F du Plessis,JO Holder,F Behardien,,0,2,2,,,,346523465
+1,South Africa,16,F du Plessis,JO Holder,F Behardien,,0,2,2,,,,346523465
+1,South Africa,16,F du Plessis,JO Holder,F Behardien,,0,1,1,,,,346523465
+1,South Africa,16,F Behardien,JO Holder,F du Plessis,,0,1,1,,,,346523465
+1,South Africa,16,F du Plessis,JO Holder,F Behardien,,0,1,1,,,,346523465
+1,South Africa,17,F du Plessis,AD Russell,F Behardien,,0,0,0,,,,346523465
+1,South Africa,17,F du Plessis,AD Russell,F Behardien,,0,4,4,,,,346523465
+1,South Africa,17,F du Plessis,AD Russell,F Behardien,,0,1,1,,,,346523465
+1,South Africa,17,F Behardien,AD Russell,F du Plessis,,0,0,0,,,,346523465
+1,South Africa,17,F Behardien,AD Russell,F du Plessis,,0,0,0,,,,346523465
+1,South Africa,17,F Behardien,AD Russell,F du Plessis,wides,1,1,0,,,,346523465
+1,South Africa,17,F Behardien,AD Russell,F du Plessis,,0,1,1,,,,346523465
+1,South Africa,18,F Behardien,JO Holder,F du Plessis,,0,0,0,,,,346523465
+1,South Africa,18,F Behardien,JO Holder,F du Plessis,,0,1,1,,,,346523465
+1,South Africa,18,F du Plessis,JO Holder,F Behardien,,0,1,1,,,,346523465
+1,South Africa,18,F Behardien,JO Holder,F du Plessis,,0,1,1,,,,346523465
+1,South Africa,18,F du Plessis,JO Holder,F Behardien,,0,6,6,,,,346523465
+1,South Africa,18,F du Plessis,JO Holder,F Behardien,,0,0,0,caught,F du Plessis,DJ Bravo,346523465
+1,South Africa,19,D Wiese,DJ Bravo,F Behardien,,0,6,6,,,,346523465
+1,South Africa,19,D Wiese,DJ Bravo,F Behardien,,0,0,0,caught,D Wiese,DR Smith,346523465
+1,South Africa,19,F Behardien,DJ Bravo,KJ Abbott,,0,0,0,,,,346523465
+1,South Africa,19,F Behardien,DJ Bravo,KJ Abbott,,0,1,1,,,,346523465
+1,South Africa,19,KJ Abbott,DJ Bravo,F Behardien,,0,2,2,,,,346523465
+1,South Africa,19,KJ Abbott,DJ Bravo,F Behardien,,0,0,0,run out,KJ Abbott,D Ramdin,346523465

@@ -1,0 +1,43 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Scotland,0,RR Watson,IE O'Brien,NS Poonia,,0,4,4,,,,3672367
+1,Scotland,0,RR Watson,IE O'Brien,NS Poonia,legbyes,1,1,0,,,,3672367
+1,Scotland,0,NS Poonia,IE O'Brien,RR Watson,legbyes,1,1,0,,,,3672367
+1,Scotland,0,RR Watson,IE O'Brien,NS Poonia,,0,4,4,,,,3672367
+1,Scotland,0,RR Watson,IE O'Brien,NS Poonia,,0,4,4,,,,3672367
+1,Scotland,0,RR Watson,IE O'Brien,NS Poonia,,0,4,4,,,,3672367
+1,Scotland,1,NS Poonia,JEC Franklin,RR Watson,,0,0,0,,,,3672367
+1,Scotland,1,NS Poonia,JEC Franklin,RR Watson,,0,1,1,,,,3672367
+1,Scotland,1,RR Watson,JEC Franklin,NS Poonia,,0,4,4,,,,3672367
+1,Scotland,1,RR Watson,JEC Franklin,NS Poonia,,0,2,2,,,,3672367
+1,Scotland,1,RR Watson,JEC Franklin,NS Poonia,,0,4,4,,,,3672367
+1,Scotland,1,RR Watson,JEC Franklin,NS Poonia,,0,1,1,,,,3672367
+1,Scotland,2,RR Watson,IG Butler,NS Poonia,,0,0,0,caught,RR Watson,LRPL Taylor,3672367
+1,Scotland,2,NS Poonia,IG Butler,KJ Coetzer,,0,2,2,,,,3672367
+1,Scotland,2,NS Poonia,IG Butler,KJ Coetzer,,0,1,1,,,,3672367
+1,Scotland,2,KJ Coetzer,IG Butler,NS Poonia,,0,4,4,,,,3672367
+1,Scotland,2,KJ Coetzer,IG Butler,NS Poonia,,0,2,2,,,,3672367
+1,Scotland,2,KJ Coetzer,IG Butler,NS Poonia,,0,2,2,,,,3672367
+1,Scotland,3,NS Poonia,JDP Oram,KJ Coetzer,,0,4,4,,,,3672367
+1,Scotland,3,NS Poonia,JDP Oram,KJ Coetzer,,0,1,1,,,,3672367
+1,Scotland,3,KJ Coetzer,JDP Oram,NS Poonia,,0,0,0,,,,3672367
+1,Scotland,3,KJ Coetzer,JDP Oram,NS Poonia,,0,0,0,,,,3672367
+1,Scotland,3,KJ Coetzer,JDP Oram,NS Poonia,,0,2,2,,,,3672367
+1,Scotland,3,KJ Coetzer,JDP Oram,NS Poonia,,0,0,0,,,,3672367
+1,Scotland,4,NS Poonia,JD Ryder,KJ Coetzer,,0,2,2,,,,3672367
+1,Scotland,4,NS Poonia,JD Ryder,KJ Coetzer,,0,2,2,,,,3672367
+1,Scotland,4,NS Poonia,JD Ryder,KJ Coetzer,,0,1,1,,,,3672367
+1,Scotland,4,KJ Coetzer,JD Ryder,NS Poonia,,0,4,4,,,,3672367
+1,Scotland,4,KJ Coetzer,JD Ryder,NS Poonia,,0,6,6,,,,3672367
+1,Scotland,4,KJ Coetzer,JD Ryder,NS Poonia,,0,4,4,,,,3672367
+1,Scotland,5,NS Poonia,JDP Oram,KJ Coetzer,,0,1,1,,,,3672367
+1,Scotland,5,KJ Coetzer,JDP Oram,NS Poonia,,0,1,1,,,,3672367
+1,Scotland,5,NS Poonia,JDP Oram,KJ Coetzer,,0,4,4,,,,3672367
+1,Scotland,5,NS Poonia,JDP Oram,KJ Coetzer,,0,6,6,,,,3672367
+1,Scotland,5,NS Poonia,JDP Oram,KJ Coetzer,,0,1,1,,,,3672367
+1,Scotland,5,KJ Coetzer,JDP Oram,NS Poonia,,0,1,1,,,,3672367
+1,Scotland,6,KJ Coetzer,IG Butler,NS Poonia,,0,1,1,,,,3672367
+1,Scotland,6,NS Poonia,IG Butler,KJ Coetzer,,0,1,1,,,,3672367
+1,Scotland,6,KJ Coetzer,IG Butler,NS Poonia,,0,6,6,,,,3672367
+1,Scotland,6,KJ Coetzer,IG Butler,NS Poonia,,0,0,0,caught,KJ Coetzer,PD McGlashan,3672367
+1,Scotland,6,JH Stander,IG Butler,NS Poonia,,0,0,0,run out,NS Poonia,PD McGlashan,3672367
+1,Scotland,6,CJO Smith,IG Butler,JH Stander,,0,0,0,bowled,CJO Smith,,3672367

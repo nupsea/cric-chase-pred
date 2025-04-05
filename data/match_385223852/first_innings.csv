@@ -1,0 +1,119 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,New Zealand,0,SFM Devine,ML Schutt,SW Bates,,0,0,0,,,,385223852
+1,New Zealand,0,SFM Devine,ML Schutt,SW Bates,legbyes,1,1,0,,,,385223852
+1,New Zealand,0,SW Bates,ML Schutt,SFM Devine,wides,2,2,0,,,,385223852
+1,New Zealand,0,SFM Devine,ML Schutt,SW Bates,,0,0,0,,,,385223852
+1,New Zealand,0,SFM Devine,ML Schutt,SW Bates,byes,4,4,0,,,,385223852
+1,New Zealand,0,SFM Devine,ML Schutt,SW Bates,,0,2,2,,,,385223852
+1,New Zealand,0,SFM Devine,ML Schutt,SW Bates,,0,1,1,,,,385223852
+1,New Zealand,1,SFM Devine,EA Perry,SW Bates,,0,1,1,,,,385223852
+1,New Zealand,1,SW Bates,EA Perry,SFM Devine,,0,2,2,,,,385223852
+1,New Zealand,1,SW Bates,EA Perry,SFM Devine,,0,0,0,,,,385223852
+1,New Zealand,1,SW Bates,EA Perry,SFM Devine,,0,0,0,,,,385223852
+1,New Zealand,1,SW Bates,EA Perry,SFM Devine,,0,2,2,,,,385223852
+1,New Zealand,1,SW Bates,EA Perry,SFM Devine,,0,4,4,,,,385223852
+1,New Zealand,2,SFM Devine,ML Schutt,SW Bates,,0,1,1,,,,385223852
+1,New Zealand,2,SW Bates,ML Schutt,SFM Devine,,0,1,1,,,,385223852
+1,New Zealand,2,SFM Devine,ML Schutt,SW Bates,,0,0,0,,,,385223852
+1,New Zealand,2,SFM Devine,ML Schutt,SW Bates,,0,0,0,,,,385223852
+1,New Zealand,2,SFM Devine,ML Schutt,SW Bates,,0,1,1,,,,385223852
+1,New Zealand,2,SW Bates,ML Schutt,SFM Devine,,0,0,0,,,,385223852
+1,New Zealand,3,SFM Devine,S Molineux,SW Bates,,0,4,4,,,,385223852
+1,New Zealand,3,SFM Devine,S Molineux,SW Bates,,0,1,1,,,,385223852
+1,New Zealand,3,SW Bates,S Molineux,SFM Devine,,0,0,0,,,,385223852
+1,New Zealand,3,SW Bates,S Molineux,SFM Devine,,0,1,1,,,,385223852
+1,New Zealand,3,SFM Devine,S Molineux,SW Bates,legbyes,1,1,0,,,,385223852
+1,New Zealand,3,SW Bates,S Molineux,SFM Devine,,0,0,0,,,,385223852
+1,New Zealand,4,SFM Devine,DM Kimmince,SW Bates,,0,0,0,bowled,SFM Devine,,385223852
+1,New Zealand,4,ML Green,DM Kimmince,SW Bates,,0,0,0,,,,385223852
+1,New Zealand,4,ML Green,DM Kimmince,SW Bates,wides,1,1,0,,,,385223852
+1,New Zealand,4,ML Green,DM Kimmince,SW Bates,,0,0,0,,,,385223852
+1,New Zealand,4,ML Green,DM Kimmince,SW Bates,,0,0,0,,,,385223852
+1,New Zealand,4,ML Green,DM Kimmince,SW Bates,,0,1,1,,,,385223852
+1,New Zealand,4,SW Bates,DM Kimmince,ML Green,,0,1,1,,,,385223852
+1,New Zealand,5,SW Bates,EA Perry,ML Green,,0,0,0,caught,SW Bates,AJ Healy,385223852
+1,New Zealand,5,AE Satterthwaite,EA Perry,ML Green,,0,1,1,,,,385223852
+1,New Zealand,5,ML Green,EA Perry,AE Satterthwaite,,0,1,1,,,,385223852
+1,New Zealand,5,AE Satterthwaite,EA Perry,ML Green,legbyes,1,1,0,,,,385223852
+1,New Zealand,5,ML Green,EA Perry,AE Satterthwaite,,0,2,2,,,,385223852
+1,New Zealand,5,ML Green,EA Perry,AE Satterthwaite,,0,1,1,,,,385223852
+1,New Zealand,6,ML Green,A Gardner,AE Satterthwaite,,0,0,0,,,,385223852
+1,New Zealand,6,ML Green,A Gardner,AE Satterthwaite,,0,1,1,,,,385223852
+1,New Zealand,6,AE Satterthwaite,A Gardner,ML Green,,0,0,0,,,,385223852
+1,New Zealand,6,AE Satterthwaite,A Gardner,ML Green,,0,1,1,,,,385223852
+1,New Zealand,6,ML Green,A Gardner,AE Satterthwaite,,0,0,0,stumped,ML Green,AJ Healy,385223852
+1,New Zealand,6,KJ Martin,A Gardner,AE Satterthwaite,,0,0,0,,,,385223852
+1,New Zealand,7,AE Satterthwaite,G Wareham,KJ Martin,,0,0,0,,,,385223852
+1,New Zealand,7,AE Satterthwaite,G Wareham,KJ Martin,,0,0,0,,,,385223852
+1,New Zealand,7,AE Satterthwaite,G Wareham,KJ Martin,,0,1,1,,,,385223852
+1,New Zealand,7,KJ Martin,G Wareham,AE Satterthwaite,,0,0,0,,,,385223852
+1,New Zealand,7,KJ Martin,G Wareham,AE Satterthwaite,,0,1,1,,,,385223852
+1,New Zealand,7,AE Satterthwaite,G Wareham,KJ Martin,,0,1,1,,,,385223852
+1,New Zealand,8,AE Satterthwaite,A Gardner,KJ Martin,,0,4,4,,,,385223852
+1,New Zealand,8,AE Satterthwaite,A Gardner,KJ Martin,,0,2,2,,,,385223852
+1,New Zealand,8,AE Satterthwaite,A Gardner,KJ Martin,,0,0,0,,,,385223852
+1,New Zealand,8,AE Satterthwaite,A Gardner,KJ Martin,,0,0,0,,,,385223852
+1,New Zealand,8,AE Satterthwaite,A Gardner,KJ Martin,,0,1,1,,,,385223852
+1,New Zealand,8,KJ Martin,A Gardner,AE Satterthwaite,,0,1,1,,,,385223852
+1,New Zealand,9,KJ Martin,DM Kimmince,AE Satterthwaite,,0,1,1,,,,385223852
+1,New Zealand,9,AE Satterthwaite,DM Kimmince,KJ Martin,,0,1,1,,,,385223852
+1,New Zealand,9,KJ Martin,DM Kimmince,AE Satterthwaite,,0,1,1,,,,385223852
+1,New Zealand,9,AE Satterthwaite,DM Kimmince,KJ Martin,,0,1,1,,,,385223852
+1,New Zealand,9,KJ Martin,DM Kimmince,AE Satterthwaite,,0,4,4,,,,385223852
+1,New Zealand,9,KJ Martin,DM Kimmince,AE Satterthwaite,,0,1,1,,,,385223852
+1,New Zealand,10,KJ Martin,G Wareham,AE Satterthwaite,,0,2,2,,,,385223852
+1,New Zealand,10,KJ Martin,G Wareham,AE Satterthwaite,,0,4,4,,,,385223852
+1,New Zealand,10,KJ Martin,G Wareham,AE Satterthwaite,,0,0,0,,,,385223852
+1,New Zealand,10,KJ Martin,G Wareham,AE Satterthwaite,,0,0,0,,,,385223852
+1,New Zealand,10,KJ Martin,G Wareham,AE Satterthwaite,,0,1,1,,,,385223852
+1,New Zealand,10,AE Satterthwaite,G Wareham,KJ Martin,,0,1,1,,,,385223852
+1,New Zealand,11,AE Satterthwaite,EA Perry,KJ Martin,,0,0,0,bowled,AE Satterthwaite,,385223852
+1,New Zealand,11,JM Watkin,EA Perry,KJ Martin,,0,0,0,caught,JM Watkin,RL Haynes,385223852
+1,New Zealand,11,KJ Martin,EA Perry,B Bezuidenhout,,0,0,0,,,,385223852
+1,New Zealand,11,KJ Martin,EA Perry,B Bezuidenhout,,0,4,4,,,,385223852
+1,New Zealand,11,KJ Martin,EA Perry,B Bezuidenhout,,0,1,1,,,,385223852
+1,New Zealand,11,B Bezuidenhout,EA Perry,KJ Martin,,0,0,0,,,,385223852
+1,New Zealand,12,KJ Martin,S Molineux,B Bezuidenhout,,0,0,0,,,,385223852
+1,New Zealand,12,KJ Martin,S Molineux,B Bezuidenhout,,0,0,0,,,,385223852
+1,New Zealand,12,KJ Martin,S Molineux,B Bezuidenhout,,0,1,1,,,,385223852
+1,New Zealand,12,B Bezuidenhout,S Molineux,KJ Martin,,0,0,0,,,,385223852
+1,New Zealand,12,B Bezuidenhout,S Molineux,KJ Martin,,0,0,0,lbw,B Bezuidenhout,,385223852
+1,New Zealand,12,KE Broadmore,S Molineux,KJ Martin,,0,0,0,lbw,KE Broadmore,,385223852
+1,New Zealand,13,KJ Martin,EA Perry,AC Kerr,,0,0,0,,,,385223852
+1,New Zealand,13,KJ Martin,EA Perry,AC Kerr,wides,1,1,0,,,,385223852
+1,New Zealand,13,KJ Martin,EA Perry,AC Kerr,,0,1,1,,,,385223852
+1,New Zealand,13,AC Kerr,EA Perry,KJ Martin,,0,0,0,,,,385223852
+1,New Zealand,13,AC Kerr,EA Perry,KJ Martin,,0,0,0,caught,AC Kerr,AJ Healy,385223852
+1,New Zealand,13,LMM Tahuhu,EA Perry,KJ Martin,,0,0,0,,,,385223852
+1,New Zealand,13,LMM Tahuhu,EA Perry,KJ Martin,,0,0,0,,,,385223852
+1,New Zealand,14,KJ Martin,ML Schutt,LMM Tahuhu,,0,1,1,,,,385223852
+1,New Zealand,14,LMM Tahuhu,ML Schutt,KJ Martin,,0,1,1,,,,385223852
+1,New Zealand,14,KJ Martin,ML Schutt,LMM Tahuhu,,0,2,2,,,,385223852
+1,New Zealand,14,KJ Martin,ML Schutt,LMM Tahuhu,,0,1,1,,,,385223852
+1,New Zealand,14,LMM Tahuhu,ML Schutt,KJ Martin,,0,0,0,,,,385223852
+1,New Zealand,14,LMM Tahuhu,ML Schutt,KJ Martin,,0,2,2,,,,385223852
+1,New Zealand,15,KJ Martin,S Molineux,LMM Tahuhu,,0,0,0,,,,385223852
+1,New Zealand,15,KJ Martin,S Molineux,LMM Tahuhu,legbyes,1,1,0,,,,385223852
+1,New Zealand,15,LMM Tahuhu,S Molineux,KJ Martin,,0,0,0,,,,385223852
+1,New Zealand,15,LMM Tahuhu,S Molineux,KJ Martin,,0,0,0,bowled,LMM Tahuhu,,385223852
+1,New Zealand,15,HR Huddleston,S Molineux,KJ Martin,,0,0,0,,,,385223852
+1,New Zealand,15,HR Huddleston,S Molineux,KJ Martin,,0,0,0,,,,385223852
+1,New Zealand,16,KJ Martin,DM Kimmince,HR Huddleston,,0,2,2,,,,385223852
+1,New Zealand,16,KJ Martin,DM Kimmince,HR Huddleston,,0,1,1,,,,385223852
+1,New Zealand,16,HR Huddleston,DM Kimmince,KJ Martin,wides,1,1,0,,,,385223852
+1,New Zealand,16,HR Huddleston,DM Kimmince,KJ Martin,,0,1,1,,,,385223852
+1,New Zealand,16,KJ Martin,DM Kimmince,HR Huddleston,,0,1,1,,,,385223852
+1,New Zealand,16,HR Huddleston,DM Kimmince,KJ Martin,,0,0,0,,,,385223852
+1,New Zealand,16,HR Huddleston,DM Kimmince,KJ Martin,,0,1,1,,,,385223852
+1,New Zealand,17,HR Huddleston,S Molineux,KJ Martin,,0,1,1,,,,385223852
+1,New Zealand,17,KJ Martin,S Molineux,HR Huddleston,,0,0,0,,,,385223852
+1,New Zealand,17,KJ Martin,S Molineux,HR Huddleston,,0,1,1,,,,385223852
+1,New Zealand,17,HR Huddleston,S Molineux,KJ Martin,,0,1,1,,,,385223852
+1,New Zealand,17,KJ Martin,S Molineux,HR Huddleston,,0,1,1,,,,385223852
+1,New Zealand,17,HR Huddleston,S Molineux,KJ Martin,,0,0,0,,,,385223852
+1,New Zealand,18,KJ Martin,DM Kimmince,HR Huddleston,,0,1,1,,,,385223852
+1,New Zealand,18,HR Huddleston,DM Kimmince,KJ Martin,,0,4,4,,,,385223852
+1,New Zealand,18,HR Huddleston,DM Kimmince,KJ Martin,,0,1,1,,,,385223852
+1,New Zealand,18,KJ Martin,DM Kimmince,HR Huddleston,,0,1,1,,,,385223852
+1,New Zealand,18,HR Huddleston,DM Kimmince,KJ Martin,,0,0,0,,,,385223852
+1,New Zealand,18,HR Huddleston,DM Kimmince,KJ Martin,,0,1,1,run out,HR Huddleston,,385223852

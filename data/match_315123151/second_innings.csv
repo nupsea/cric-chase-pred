@@ -1,0 +1,114 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,New Zealand,0,BB McCullum,Mohammad Amir,MJ Guptill,,0,0,0,,,,315123151
+2,New Zealand,0,BB McCullum,Mohammad Amir,MJ Guptill,,0,0,0,,,,315123151
+2,New Zealand,0,BB McCullum,Mohammad Amir,MJ Guptill,,0,4,4,,,,315123151
+2,New Zealand,0,BB McCullum,Mohammad Amir,MJ Guptill,,0,4,4,,,,315123151
+2,New Zealand,0,BB McCullum,Mohammad Amir,MJ Guptill,,0,5,5,,,,315123151
+2,New Zealand,0,MJ Guptill,Mohammad Amir,BB McCullum,,0,4,4,,,,315123151
+2,New Zealand,1,BB McCullum,Sohail Tanvir,MJ Guptill,,0,1,1,,,,315123151
+2,New Zealand,1,MJ Guptill,Sohail Tanvir,BB McCullum,legbyes,1,1,0,,,,315123151
+2,New Zealand,1,BB McCullum,Sohail Tanvir,MJ Guptill,,0,1,1,,,,315123151
+2,New Zealand,1,MJ Guptill,Sohail Tanvir,BB McCullum,,0,4,4,,,,315123151
+2,New Zealand,1,MJ Guptill,Sohail Tanvir,BB McCullum,wides,1,1,0,,,,315123151
+2,New Zealand,1,MJ Guptill,Sohail Tanvir,BB McCullum,,0,0,0,caught,MJ Guptill,Kamran Akmal,315123151
+2,New Zealand,1,LRPL Taylor,Sohail Tanvir,BB McCullum,,0,4,4,,,,315123151
+2,New Zealand,2,BB McCullum,Mohammad Amir,LRPL Taylor,,0,0,0,,,,315123151
+2,New Zealand,2,BB McCullum,Mohammad Amir,LRPL Taylor,,0,0,0,,,,315123151
+2,New Zealand,2,BB McCullum,Mohammad Amir,LRPL Taylor,,0,4,4,,,,315123151
+2,New Zealand,2,BB McCullum,Mohammad Amir,LRPL Taylor,,0,0,0,,,,315123151
+2,New Zealand,2,BB McCullum,Mohammad Amir,LRPL Taylor,,0,0,0,,,,315123151
+2,New Zealand,2,BB McCullum,Mohammad Amir,LRPL Taylor,,0,0,0,caught,BB McCullum,Fawad Alam,315123151
+2,New Zealand,3,LRPL Taylor,Sohail Tanvir,SB Styris,,0,0,0,,,,315123151
+2,New Zealand,3,LRPL Taylor,Sohail Tanvir,SB Styris,,0,0,0,,,,315123151
+2,New Zealand,3,LRPL Taylor,Sohail Tanvir,SB Styris,,0,0,0,,,,315123151
+2,New Zealand,3,LRPL Taylor,Sohail Tanvir,SB Styris,,0,0,0,,,,315123151
+2,New Zealand,3,LRPL Taylor,Sohail Tanvir,SB Styris,,0,1,1,,,,315123151
+2,New Zealand,3,SB Styris,Sohail Tanvir,LRPL Taylor,,0,0,0,,,,315123151
+2,New Zealand,4,LRPL Taylor,Mohammad Amir,SB Styris,,0,0,0,,,,315123151
+2,New Zealand,4,LRPL Taylor,Mohammad Amir,SB Styris,,0,0,0,caught,LRPL Taylor,Kamran Akmal,315123151
+2,New Zealand,4,BJ Watling,Mohammad Amir,SB Styris,,0,0,0,,,,315123151
+2,New Zealand,4,BJ Watling,Mohammad Amir,SB Styris,,0,0,0,,,,315123151
+2,New Zealand,4,BJ Watling,Mohammad Amir,SB Styris,,0,0,0,,,,315123151
+2,New Zealand,4,BJ Watling,Mohammad Amir,SB Styris,legbyes,1,1,0,,,,315123151
+2,New Zealand,5,BJ Watling,Sohail Tanvir,SB Styris,,0,0,0,,,,315123151
+2,New Zealand,5,BJ Watling,Sohail Tanvir,SB Styris,,0,0,0,,,,315123151
+2,New Zealand,5,BJ Watling,Sohail Tanvir,SB Styris,,0,1,1,,,,315123151
+2,New Zealand,5,SB Styris,Sohail Tanvir,BJ Watling,,0,4,4,,,,315123151
+2,New Zealand,5,SB Styris,Sohail Tanvir,BJ Watling,,0,0,0,,,,315123151
+2,New Zealand,5,SB Styris,Sohail Tanvir,BJ Watling,,0,0,0,,,,315123151
+2,New Zealand,6,BJ Watling,Abdul Razzaq,SB Styris,,0,1,1,,,,315123151
+2,New Zealand,6,SB Styris,Abdul Razzaq,BJ Watling,,0,0,0,caught,SB Styris,Umar Akmal,315123151
+2,New Zealand,6,NT Broom,Abdul Razzaq,BJ Watling,,0,1,1,,,,315123151
+2,New Zealand,6,BJ Watling,Abdul Razzaq,NT Broom,,0,1,1,,,,315123151
+2,New Zealand,6,NT Broom,Abdul Razzaq,BJ Watling,,0,0,0,,,,315123151
+2,New Zealand,6,NT Broom,Abdul Razzaq,BJ Watling,,0,1,1,,,,315123151
+2,New Zealand,7,NT Broom,Sohail Tanvir,BJ Watling,,0,1,1,,,,315123151
+2,New Zealand,7,BJ Watling,Sohail Tanvir,NT Broom,,0,0,0,,,,315123151
+2,New Zealand,7,BJ Watling,Sohail Tanvir,NT Broom,,0,1,1,,,,315123151
+2,New Zealand,7,NT Broom,Sohail Tanvir,BJ Watling,,0,1,1,,,,315123151
+2,New Zealand,7,BJ Watling,Sohail Tanvir,NT Broom,,0,1,1,,,,315123151
+2,New Zealand,7,NT Broom,Sohail Tanvir,BJ Watling,,0,1,1,,,,315123151
+2,New Zealand,8,NT Broom,Abdul Razzaq,BJ Watling,legbyes,1,1,0,,,,315123151
+2,New Zealand,8,BJ Watling,Abdul Razzaq,NT Broom,,0,1,1,,,,315123151
+2,New Zealand,8,NT Broom,Abdul Razzaq,BJ Watling,,0,0,0,,,,315123151
+2,New Zealand,8,NT Broom,Abdul Razzaq,BJ Watling,,0,0,0,,,,315123151
+2,New Zealand,8,NT Broom,Abdul Razzaq,BJ Watling,,0,1,1,,,,315123151
+2,New Zealand,8,BJ Watling,Abdul Razzaq,NT Broom,,0,1,1,,,,315123151
+2,New Zealand,9,BJ Watling,Umar Gul,NT Broom,,0,1,1,,,,315123151
+2,New Zealand,9,NT Broom,Umar Gul,BJ Watling,,0,1,1,,,,315123151
+2,New Zealand,9,BJ Watling,Umar Gul,NT Broom,,0,1,1,,,,315123151
+2,New Zealand,9,NT Broom,Umar Gul,BJ Watling,,0,6,6,,,,315123151
+2,New Zealand,9,NT Broom,Umar Gul,BJ Watling,legbyes,4,4,0,,,,315123151
+2,New Zealand,9,NT Broom,Umar Gul,BJ Watling,,0,1,1,,,,315123151
+2,New Zealand,10,NT Broom,Abdul Razzaq,BJ Watling,,0,0,0,,,,315123151
+2,New Zealand,10,NT Broom,Abdul Razzaq,BJ Watling,,0,0,0,caught,NT Broom,Umar Gul,315123151
+2,New Zealand,10,BJ Watling,Abdul Razzaq,NL McCullum,,0,0,0,,,,315123151
+2,New Zealand,10,BJ Watling,Abdul Razzaq,NL McCullum,,0,1,1,,,,315123151
+2,New Zealand,10,NL McCullum,Abdul Razzaq,BJ Watling,,0,1,1,,,,315123151
+2,New Zealand,10,BJ Watling,Abdul Razzaq,NL McCullum,,0,0,0,,,,315123151
+2,New Zealand,11,NL McCullum,Umar Gul,BJ Watling,,0,1,1,,,,315123151
+2,New Zealand,11,BJ Watling,Umar Gul,NL McCullum,,0,0,0,,,,315123151
+2,New Zealand,11,BJ Watling,Umar Gul,NL McCullum,,0,0,0,,,,315123151
+2,New Zealand,11,BJ Watling,Umar Gul,NL McCullum,,0,0,0,,,,315123151
+2,New Zealand,11,BJ Watling,Umar Gul,NL McCullum,,0,2,2,,,,315123151
+2,New Zealand,11,BJ Watling,Umar Gul,NL McCullum,,0,0,0,,,,315123151
+2,New Zealand,12,NL McCullum,Shahid Afridi,BJ Watling,,0,0,0,,,,315123151
+2,New Zealand,12,NL McCullum,Shahid Afridi,BJ Watling,,0,2,2,,,,315123151
+2,New Zealand,12,NL McCullum,Shahid Afridi,BJ Watling,,0,1,1,,,,315123151
+2,New Zealand,12,BJ Watling,Shahid Afridi,NL McCullum,,0,0,0,,,,315123151
+2,New Zealand,12,BJ Watling,Shahid Afridi,NL McCullum,legbyes,1,1,0,,,,315123151
+2,New Zealand,12,NL McCullum,Shahid Afridi,BJ Watling,,0,1,1,,,,315123151
+2,New Zealand,13,NL McCullum,Saeed Ajmal,BJ Watling,,0,1,1,,,,315123151
+2,New Zealand,13,BJ Watling,Saeed Ajmal,NL McCullum,,0,1,1,,,,315123151
+2,New Zealand,13,NL McCullum,Saeed Ajmal,BJ Watling,wides,1,1,0,,,,315123151
+2,New Zealand,13,NL McCullum,Saeed Ajmal,BJ Watling,,0,1,1,,,,315123151
+2,New Zealand,13,BJ Watling,Saeed Ajmal,NL McCullum,,0,0,0,,,,315123151
+2,New Zealand,13,BJ Watling,Saeed Ajmal,NL McCullum,,0,1,1,,,,315123151
+2,New Zealand,13,NL McCullum,Saeed Ajmal,BJ Watling,,0,1,1,,,,315123151
+2,New Zealand,14,NL McCullum,Shahid Afridi,BJ Watling,,0,1,1,,,,315123151
+2,New Zealand,14,BJ Watling,Shahid Afridi,NL McCullum,,0,1,1,,,,315123151
+2,New Zealand,14,NL McCullum,Shahid Afridi,BJ Watling,,0,1,1,,,,315123151
+2,New Zealand,14,BJ Watling,Shahid Afridi,NL McCullum,,0,4,4,,,,315123151
+2,New Zealand,14,BJ Watling,Shahid Afridi,NL McCullum,,0,0,0,,,,315123151
+2,New Zealand,14,BJ Watling,Shahid Afridi,NL McCullum,,0,1,1,,,,315123151
+2,New Zealand,15,BJ Watling,Saeed Ajmal,NL McCullum,,0,1,1,,,,315123151
+2,New Zealand,15,NL McCullum,Saeed Ajmal,BJ Watling,,0,1,1,,,,315123151
+2,New Zealand,15,BJ Watling,Saeed Ajmal,NL McCullum,,0,1,1,,,,315123151
+2,New Zealand,15,NL McCullum,Saeed Ajmal,BJ Watling,,0,1,1,,,,315123151
+2,New Zealand,15,BJ Watling,Saeed Ajmal,NL McCullum,,0,0,0,stumped,BJ Watling,Kamran Akmal,315123151
+2,New Zealand,15,IG Butler,Saeed Ajmal,NL McCullum,,0,0,0,,,,315123151
+2,New Zealand,16,NL McCullum,Shahid Afridi,IG Butler,,0,0,0,,,,315123151
+2,New Zealand,16,NL McCullum,Shahid Afridi,IG Butler,,0,1,1,,,,315123151
+2,New Zealand,16,IG Butler,Shahid Afridi,NL McCullum,,0,0,0,,,,315123151
+2,New Zealand,16,IG Butler,Shahid Afridi,NL McCullum,,0,1,1,,,,315123151
+2,New Zealand,16,NL McCullum,Shahid Afridi,IG Butler,,0,1,1,,,,315123151
+2,New Zealand,16,IG Butler,Shahid Afridi,NL McCullum,,0,0,0,bowled,IG Butler,,315123151
+2,New Zealand,17,NL McCullum,Saeed Ajmal,SE Bond,,0,2,2,,,,315123151
+2,New Zealand,17,NL McCullum,Saeed Ajmal,SE Bond,,0,2,2,,,,315123151
+2,New Zealand,17,NL McCullum,Saeed Ajmal,SE Bond,,0,3,3,,,,315123151
+2,New Zealand,17,SE Bond,Saeed Ajmal,NL McCullum,,0,1,1,,,,315123151
+2,New Zealand,17,NL McCullum,Saeed Ajmal,SE Bond,,0,0,0,,,,315123151
+2,New Zealand,17,NL McCullum,Saeed Ajmal,SE Bond,,0,0,0,caught,NL McCullum,Umar Gul,315123151
+2,New Zealand,18,TG Southee,Shahid Afridi,SE Bond,,0,6,6,,,,315123151
+2,New Zealand,18,TG Southee,Shahid Afridi,SE Bond,,0,0,0,,,,315123151
+2,New Zealand,18,TG Southee,Shahid Afridi,SE Bond,,0,0,0,caught,TG Southee,Shoaib Malik,315123151

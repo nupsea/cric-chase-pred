@@ -1,0 +1,129 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Sri Lanka,0,MD Gunathilaka,Imad Wasim,S Samarawickrama,,0,3,3,,,,31272231272
+1,Sri Lanka,0,S Samarawickrama,Imad Wasim,MD Gunathilaka,,0,0,0,,,,31272231272
+1,Sri Lanka,0,S Samarawickrama,Imad Wasim,MD Gunathilaka,,0,1,1,,,,31272231272
+1,Sri Lanka,0,MD Gunathilaka,Imad Wasim,S Samarawickrama,,0,0,0,,,,31272231272
+1,Sri Lanka,0,MD Gunathilaka,Imad Wasim,S Samarawickrama,,0,0,0,,,,31272231272
+1,Sri Lanka,0,MD Gunathilaka,Imad Wasim,S Samarawickrama,,0,4,4,,,,31272231272
+1,Sri Lanka,1,S Samarawickrama,Usman Shinwari,MD Gunathilaka,,0,2,2,,,,31272231272
+1,Sri Lanka,1,S Samarawickrama,Usman Shinwari,MD Gunathilaka,wides,1,1,0,,,,31272231272
+1,Sri Lanka,1,S Samarawickrama,Usman Shinwari,MD Gunathilaka,,0,1,1,,,,31272231272
+1,Sri Lanka,1,MD Gunathilaka,Usman Shinwari,S Samarawickrama,,0,0,0,,,,31272231272
+1,Sri Lanka,1,MD Gunathilaka,Usman Shinwari,S Samarawickrama,wides,5,5,0,,,,31272231272
+1,Sri Lanka,1,MD Gunathilaka,Usman Shinwari,S Samarawickrama,,0,0,0,,,,31272231272
+1,Sri Lanka,1,MD Gunathilaka,Usman Shinwari,S Samarawickrama,,0,1,1,,,,31272231272
+1,Sri Lanka,1,S Samarawickrama,Usman Shinwari,MD Gunathilaka,,0,1,1,,,,31272231272
+1,Sri Lanka,2,S Samarawickrama,Mohammad Amir,MD Gunathilaka,,0,4,4,,,,31272231272
+1,Sri Lanka,2,S Samarawickrama,Mohammad Amir,MD Gunathilaka,,0,0,0,,,,31272231272
+1,Sri Lanka,2,S Samarawickrama,Mohammad Amir,MD Gunathilaka,,0,0,0,,,,31272231272
+1,Sri Lanka,2,S Samarawickrama,Mohammad Amir,MD Gunathilaka,,0,1,1,,,,31272231272
+1,Sri Lanka,2,MD Gunathilaka,Mohammad Amir,S Samarawickrama,,0,0,0,,,,31272231272
+1,Sri Lanka,2,MD Gunathilaka,Mohammad Amir,S Samarawickrama,,0,0,0,bowled,MD Gunathilaka,,31272231272
+1,Sri Lanka,3,S Samarawickrama,Imad Wasim,PBB Rajapaksa,,0,1,1,,,,31272231272
+1,Sri Lanka,3,PBB Rajapaksa,Imad Wasim,S Samarawickrama,,0,0,0,,,,31272231272
+1,Sri Lanka,3,PBB Rajapaksa,Imad Wasim,S Samarawickrama,,0,1,1,,,,31272231272
+1,Sri Lanka,3,S Samarawickrama,Imad Wasim,PBB Rajapaksa,,0,1,1,,,,31272231272
+1,Sri Lanka,3,PBB Rajapaksa,Imad Wasim,S Samarawickrama,,0,1,1,,,,31272231272
+1,Sri Lanka,3,S Samarawickrama,Imad Wasim,PBB Rajapaksa,,0,0,0,lbw,S Samarawickrama,,31272231272
+1,Sri Lanka,4,PBB Rajapaksa,Mohammad Amir,AK Perera,,0,0,0,,,,31272231272
+1,Sri Lanka,4,PBB Rajapaksa,Mohammad Amir,AK Perera,,0,1,1,,,,31272231272
+1,Sri Lanka,4,AK Perera,Mohammad Amir,PBB Rajapaksa,,0,1,1,,,,31272231272
+1,Sri Lanka,4,PBB Rajapaksa,Mohammad Amir,AK Perera,,0,0,0,,,,31272231272
+1,Sri Lanka,4,PBB Rajapaksa,Mohammad Amir,AK Perera,,0,0,0,,,,31272231272
+1,Sri Lanka,4,PBB Rajapaksa,Mohammad Amir,AK Perera,,0,0,0,caught,PBB Rajapaksa,Asif Ali,31272231272
+1,Sri Lanka,5,BOP Fernando,Usman Shinwari,AK Perera,,0,4,4,,,,31272231272
+1,Sri Lanka,5,BOP Fernando,Usman Shinwari,AK Perera,,0,6,6,,,,31272231272
+1,Sri Lanka,5,BOP Fernando,Usman Shinwari,AK Perera,,0,2,2,,,,31272231272
+1,Sri Lanka,5,BOP Fernando,Usman Shinwari,AK Perera,,0,1,1,,,,31272231272
+1,Sri Lanka,5,AK Perera,Usman Shinwari,BOP Fernando,,0,1,1,,,,31272231272
+1,Sri Lanka,5,BOP Fernando,Usman Shinwari,AK Perera,,0,0,0,,,,31272231272
+1,Sri Lanka,6,AK Perera,Shadab Khan,BOP Fernando,,0,0,0,,,,31272231272
+1,Sri Lanka,6,AK Perera,Shadab Khan,BOP Fernando,,0,0,0,,,,31272231272
+1,Sri Lanka,6,AK Perera,Shadab Khan,BOP Fernando,,0,4,4,,,,31272231272
+1,Sri Lanka,6,AK Perera,Shadab Khan,BOP Fernando,,0,2,2,,,,31272231272
+1,Sri Lanka,6,AK Perera,Shadab Khan,BOP Fernando,,0,1,1,,,,31272231272
+1,Sri Lanka,6,BOP Fernando,Shadab Khan,AK Perera,,0,1,1,,,,31272231272
+1,Sri Lanka,7,BOP Fernando,Wahab Riaz,AK Perera,,0,1,1,,,,31272231272
+1,Sri Lanka,7,AK Perera,Wahab Riaz,BOP Fernando,,0,0,0,,,,31272231272
+1,Sri Lanka,7,AK Perera,Wahab Riaz,BOP Fernando,,0,1,1,,,,31272231272
+1,Sri Lanka,7,BOP Fernando,Wahab Riaz,AK Perera,,0,1,1,,,,31272231272
+1,Sri Lanka,7,AK Perera,Wahab Riaz,BOP Fernando,,0,2,2,,,,31272231272
+1,Sri Lanka,7,AK Perera,Wahab Riaz,BOP Fernando,,0,1,1,run out,AK Perera,,31272231272
+1,Sri Lanka,8,BOP Fernando,Shadab Khan,MD Shanaka,,0,0,0,,,,31272231272
+1,Sri Lanka,8,BOP Fernando,Shadab Khan,MD Shanaka,,0,1,1,,,,31272231272
+1,Sri Lanka,8,MD Shanaka,Shadab Khan,BOP Fernando,,0,0,0,,,,31272231272
+1,Sri Lanka,8,MD Shanaka,Shadab Khan,BOP Fernando,,0,0,0,,,,31272231272
+1,Sri Lanka,8,MD Shanaka,Shadab Khan,BOP Fernando,,0,1,1,,,,31272231272
+1,Sri Lanka,8,BOP Fernando,Shadab Khan,MD Shanaka,,0,1,1,,,,31272231272
+1,Sri Lanka,9,BOP Fernando,Usman Shinwari,MD Shanaka,,0,4,4,,,,31272231272
+1,Sri Lanka,9,BOP Fernando,Usman Shinwari,MD Shanaka,,0,4,4,,,,31272231272
+1,Sri Lanka,9,BOP Fernando,Usman Shinwari,MD Shanaka,,0,1,1,,,,31272231272
+1,Sri Lanka,9,MD Shanaka,Usman Shinwari,BOP Fernando,,0,0,0,,,,31272231272
+1,Sri Lanka,9,MD Shanaka,Usman Shinwari,BOP Fernando,,0,1,1,,,,31272231272
+1,Sri Lanka,9,BOP Fernando,Usman Shinwari,MD Shanaka,,0,1,1,,,,31272231272
+1,Sri Lanka,10,BOP Fernando,Imad Wasim,MD Shanaka,,0,0,0,,,,31272231272
+1,Sri Lanka,10,BOP Fernando,Imad Wasim,MD Shanaka,,0,1,1,,,,31272231272
+1,Sri Lanka,10,MD Shanaka,Imad Wasim,BOP Fernando,,0,0,0,,,,31272231272
+1,Sri Lanka,10,MD Shanaka,Imad Wasim,BOP Fernando,,0,0,0,,,,31272231272
+1,Sri Lanka,10,MD Shanaka,Imad Wasim,BOP Fernando,wides,2,2,0,,,,31272231272
+1,Sri Lanka,10,BOP Fernando,Imad Wasim,MD Shanaka,,0,1,1,,,,31272231272
+1,Sri Lanka,10,MD Shanaka,Imad Wasim,BOP Fernando,,0,0,0,,,,31272231272
+1,Sri Lanka,11,BOP Fernando,Shadab Khan,MD Shanaka,,0,4,4,,,,31272231272
+1,Sri Lanka,11,BOP Fernando,Shadab Khan,MD Shanaka,,0,2,2,,,,31272231272
+1,Sri Lanka,11,BOP Fernando,Shadab Khan,MD Shanaka,,0,0,0,,,,31272231272
+1,Sri Lanka,11,BOP Fernando,Shadab Khan,MD Shanaka,,0,4,4,,,,31272231272
+1,Sri Lanka,11,BOP Fernando,Shadab Khan,MD Shanaka,,0,1,1,,,,31272231272
+1,Sri Lanka,11,MD Shanaka,Shadab Khan,BOP Fernando,,0,0,0,,,,31272231272
+1,Sri Lanka,12,BOP Fernando,Imad Wasim,MD Shanaka,,0,1,1,,,,31272231272
+1,Sri Lanka,12,MD Shanaka,Imad Wasim,BOP Fernando,,0,0,0,,,,31272231272
+1,Sri Lanka,12,MD Shanaka,Imad Wasim,BOP Fernando,,0,0,0,,,,31272231272
+1,Sri Lanka,12,MD Shanaka,Imad Wasim,BOP Fernando,,0,1,1,,,,31272231272
+1,Sri Lanka,12,BOP Fernando,Imad Wasim,MD Shanaka,,0,0,0,,,,31272231272
+1,Sri Lanka,12,BOP Fernando,Imad Wasim,MD Shanaka,,0,0,0,,,,31272231272
+1,Sri Lanka,13,MD Shanaka,Wahab Riaz,BOP Fernando,,0,1,1,,,,31272231272
+1,Sri Lanka,13,BOP Fernando,Wahab Riaz,MD Shanaka,,0,1,1,,,,31272231272
+1,Sri Lanka,13,MD Shanaka,Wahab Riaz,BOP Fernando,,0,0,0,,,,31272231272
+1,Sri Lanka,13,MD Shanaka,Wahab Riaz,BOP Fernando,legbyes,1,1,0,,,,31272231272
+1,Sri Lanka,13,BOP Fernando,Wahab Riaz,MD Shanaka,,0,0,0,,,,31272231272
+1,Sri Lanka,13,BOP Fernando,Wahab Riaz,MD Shanaka,wides,1,1,0,,,,31272231272
+1,Sri Lanka,13,BOP Fernando,Wahab Riaz,MD Shanaka,wides,1,1,0,,,,31272231272
+1,Sri Lanka,13,BOP Fernando,Wahab Riaz,MD Shanaka,,0,0,0,,,,31272231272
+1,Sri Lanka,14,MD Shanaka,Shadab Khan,BOP Fernando,,0,1,1,,,,31272231272
+1,Sri Lanka,14,BOP Fernando,Shadab Khan,MD Shanaka,,0,4,4,,,,31272231272
+1,Sri Lanka,14,BOP Fernando,Shadab Khan,MD Shanaka,,0,1,1,,,,31272231272
+1,Sri Lanka,14,MD Shanaka,Shadab Khan,BOP Fernando,,0,2,2,,,,31272231272
+1,Sri Lanka,14,MD Shanaka,Shadab Khan,BOP Fernando,,0,1,1,,,,31272231272
+1,Sri Lanka,14,BOP Fernando,Shadab Khan,MD Shanaka,,0,1,1,,,,31272231272
+1,Sri Lanka,15,BOP Fernando,Wahab Riaz,MD Shanaka,,0,1,1,,,,31272231272
+1,Sri Lanka,15,MD Shanaka,Wahab Riaz,BOP Fernando,,0,1,1,,,,31272231272
+1,Sri Lanka,15,BOP Fernando,Wahab Riaz,MD Shanaka,,0,0,0,,,,31272231272
+1,Sri Lanka,15,BOP Fernando,Wahab Riaz,MD Shanaka,,0,1,1,,,,31272231272
+1,Sri Lanka,15,MD Shanaka,Wahab Riaz,BOP Fernando,wides,1,1,0,,,,31272231272
+1,Sri Lanka,15,MD Shanaka,Wahab Riaz,BOP Fernando,,0,1,1,,,,31272231272
+1,Sri Lanka,15,BOP Fernando,Wahab Riaz,MD Shanaka,,0,2,2,,,,31272231272
+1,Sri Lanka,16,MD Shanaka,Mohammad Amir,BOP Fernando,,0,1,1,,,,31272231272
+1,Sri Lanka,16,BOP Fernando,Mohammad Amir,MD Shanaka,,0,2,2,,,,31272231272
+1,Sri Lanka,16,BOP Fernando,Mohammad Amir,MD Shanaka,wides,1,1,0,,,,31272231272
+1,Sri Lanka,16,BOP Fernando,Mohammad Amir,MD Shanaka,,0,6,6,,,,31272231272
+1,Sri Lanka,16,BOP Fernando,Mohammad Amir,MD Shanaka,,0,0,0,,,,31272231272
+1,Sri Lanka,16,BOP Fernando,Mohammad Amir,MD Shanaka,,0,4,4,,,,31272231272
+1,Sri Lanka,16,BOP Fernando,Mohammad Amir,MD Shanaka,,0,0,0,,,,31272231272
+1,Sri Lanka,17,MD Shanaka,Wahab Riaz,BOP Fernando,,0,1,1,,,,31272231272
+1,Sri Lanka,17,BOP Fernando,Wahab Riaz,MD Shanaka,,0,6,6,,,,31272231272
+1,Sri Lanka,17,BOP Fernando,Wahab Riaz,MD Shanaka,,0,1,1,,,,31272231272
+1,Sri Lanka,17,MD Shanaka,Wahab Riaz,BOP Fernando,,0,0,0,,,,31272231272
+1,Sri Lanka,17,MD Shanaka,Wahab Riaz,BOP Fernando,wides,1,1,0,,,,31272231272
+1,Sri Lanka,17,MD Shanaka,Wahab Riaz,BOP Fernando,,0,0,0,,,,31272231272
+1,Sri Lanka,17,MD Shanaka,Wahab Riaz,BOP Fernando,,0,0,0,caught,MD Shanaka,Fakhar Zaman,31272231272
+1,Sri Lanka,18,LD Madushanka,Mohammad Amir,BOP Fernando,,0,1,1,,,,31272231272
+1,Sri Lanka,18,BOP Fernando,Mohammad Amir,LD Madushanka,,0,4,4,,,,31272231272
+1,Sri Lanka,18,BOP Fernando,Mohammad Amir,LD Madushanka,,0,0,0,,,,31272231272
+1,Sri Lanka,18,BOP Fernando,Mohammad Amir,LD Madushanka,,0,1,1,,,,31272231272
+1,Sri Lanka,18,LD Madushanka,Mohammad Amir,BOP Fernando,,0,0,0,,,,31272231272
+1,Sri Lanka,18,LD Madushanka,Mohammad Amir,BOP Fernando,,0,0,0,caught,LD Madushanka,Iftikhar Ahmed,31272231272
+1,Sri Lanka,19,PWH de Silva,Usman Shinwari,BOP Fernando,,0,4,4,,,,31272231272
+1,Sri Lanka,19,PWH de Silva,Usman Shinwari,BOP Fernando,,0,0,0,,,,31272231272
+1,Sri Lanka,19,PWH de Silva,Usman Shinwari,BOP Fernando,,0,1,1,,,,31272231272
+1,Sri Lanka,19,BOP Fernando,Usman Shinwari,PWH de Silva,,0,1,1,,,,31272231272
+1,Sri Lanka,19,PWH de Silva,Usman Shinwari,BOP Fernando,,0,1,1,,,,31272231272
+1,Sri Lanka,19,BOP Fernando,Usman Shinwari,PWH de Silva,,0,0,0,run out,PWH de Silva,,31272231272

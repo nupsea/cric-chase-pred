@@ -1,0 +1,88 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Nepal,0,K Bhurtel,Kaleem Sana,Aasif Sheikh,,0,1,1,,,,31914231914
+2,Nepal,0,Aasif Sheikh,Kaleem Sana,K Bhurtel,,0,0,0,,,,31914231914
+2,Nepal,0,Aasif Sheikh,Kaleem Sana,K Bhurtel,,0,1,1,,,,31914231914
+2,Nepal,0,K Bhurtel,Kaleem Sana,Aasif Sheikh,,0,0,0,,,,31914231914
+2,Nepal,0,K Bhurtel,Kaleem Sana,Aasif Sheikh,,0,0,0,,,,31914231914
+2,Nepal,0,K Bhurtel,Kaleem Sana,Aasif Sheikh,,0,2,2,,,,31914231914
+2,Nepal,1,Aasif Sheikh,Junaid Siddiqui,K Bhurtel,,0,0,0,,,,31914231914
+2,Nepal,1,Aasif Sheikh,Junaid Siddiqui,K Bhurtel,,0,0,0,,,,31914231914
+2,Nepal,1,Aasif Sheikh,Junaid Siddiqui,K Bhurtel,,0,0,0,,,,31914231914
+2,Nepal,1,Aasif Sheikh,Junaid Siddiqui,K Bhurtel,,0,1,1,,,,31914231914
+2,Nepal,1,K Bhurtel,Junaid Siddiqui,Aasif Sheikh,,0,0,0,,,,31914231914
+2,Nepal,1,K Bhurtel,Junaid Siddiqui,Aasif Sheikh,,0,1,1,,,,31914231914
+2,Nepal,2,K Bhurtel,Kaleem Sana,Aasif Sheikh,,0,1,1,,,,31914231914
+2,Nepal,2,Aasif Sheikh,Kaleem Sana,K Bhurtel,,0,2,2,,,,31914231914
+2,Nepal,2,Aasif Sheikh,Kaleem Sana,K Bhurtel,,0,4,4,,,,31914231914
+2,Nepal,2,Aasif Sheikh,Kaleem Sana,K Bhurtel,,0,0,0,,,,31914231914
+2,Nepal,2,Aasif Sheikh,Kaleem Sana,K Bhurtel,,0,1,1,,,,31914231914
+2,Nepal,2,K Bhurtel,Kaleem Sana,Aasif Sheikh,,0,0,0,,,,31914231914
+2,Nepal,3,Aasif Sheikh,Salman Nazar,K Bhurtel,,0,0,0,,,,31914231914
+2,Nepal,3,Aasif Sheikh,Salman Nazar,K Bhurtel,,0,6,6,,,,31914231914
+2,Nepal,3,Aasif Sheikh,Salman Nazar,K Bhurtel,,0,2,2,,,,31914231914
+2,Nepal,3,Aasif Sheikh,Salman Nazar,K Bhurtel,,0,0,0,,,,31914231914
+2,Nepal,3,Aasif Sheikh,Salman Nazar,K Bhurtel,,0,0,0,,,,31914231914
+2,Nepal,3,Aasif Sheikh,Salman Nazar,K Bhurtel,,0,0,0,lbw,Aasif Sheikh,,31914231914
+2,Nepal,4,K Bhurtel,Kaleem Sana,Kushal Malla,,0,0,0,,,,31914231914
+2,Nepal,4,K Bhurtel,Kaleem Sana,Kushal Malla,,0,1,1,,,,31914231914
+2,Nepal,4,Kushal Malla,Kaleem Sana,K Bhurtel,,0,0,0,bowled,Kushal Malla,,31914231914
+2,Nepal,4,DS Airee,Kaleem Sana,K Bhurtel,,0,0,0,,,,31914231914
+2,Nepal,4,DS Airee,Kaleem Sana,K Bhurtel,,0,0,0,,,,31914231914
+2,Nepal,4,DS Airee,Kaleem Sana,K Bhurtel,wides,1,1,0,,,,31914231914
+2,Nepal,4,DS Airee,Kaleem Sana,K Bhurtel,,0,0,0,,,,31914231914
+2,Nepal,5,K Bhurtel,Salman Nazar,DS Airee,,0,0,0,,,,31914231914
+2,Nepal,5,K Bhurtel,Salman Nazar,DS Airee,,0,2,2,,,,31914231914
+2,Nepal,5,K Bhurtel,Salman Nazar,DS Airee,,0,1,1,,,,31914231914
+2,Nepal,5,DS Airee,Salman Nazar,K Bhurtel,,0,0,0,,,,31914231914
+2,Nepal,5,DS Airee,Salman Nazar,K Bhurtel,,0,0,0,,,,31914231914
+2,Nepal,5,DS Airee,Salman Nazar,K Bhurtel,,0,4,4,,,,31914231914
+2,Nepal,6,K Bhurtel,D Heyliger,DS Airee,,0,1,1,,,,31914231914
+2,Nepal,6,DS Airee,D Heyliger,K Bhurtel,,0,0,0,,,,31914231914
+2,Nepal,6,DS Airee,D Heyliger,K Bhurtel,,0,2,2,,,,31914231914
+2,Nepal,6,DS Airee,D Heyliger,K Bhurtel,,0,1,1,,,,31914231914
+2,Nepal,6,K Bhurtel,D Heyliger,DS Airee,,0,1,1,,,,31914231914
+2,Nepal,6,DS Airee,D Heyliger,K Bhurtel,,0,0,0,,,,31914231914
+2,Nepal,7,K Bhurtel,Salman Nazar,DS Airee,,0,1,1,,,,31914231914
+2,Nepal,7,DS Airee,Salman Nazar,K Bhurtel,,0,0,0,,,,31914231914
+2,Nepal,7,DS Airee,Salman Nazar,K Bhurtel,,0,0,0,,,,31914231914
+2,Nepal,7,DS Airee,Salman Nazar,K Bhurtel,,0,4,4,,,,31914231914
+2,Nepal,7,DS Airee,Salman Nazar,K Bhurtel,,0,0,0,,,,31914231914
+2,Nepal,7,DS Airee,Salman Nazar,K Bhurtel,,0,1,1,,,,31914231914
+2,Nepal,8,DS Airee,D Heyliger,K Bhurtel,legbyes,1,1,0,,,,31914231914
+2,Nepal,8,K Bhurtel,D Heyliger,DS Airee,,0,1,1,,,,31914231914
+2,Nepal,8,DS Airee,D Heyliger,K Bhurtel,,0,0,0,,,,31914231914
+2,Nepal,8,DS Airee,D Heyliger,K Bhurtel,,0,1,1,,,,31914231914
+2,Nepal,8,K Bhurtel,D Heyliger,DS Airee,,0,1,1,,,,31914231914
+2,Nepal,8,DS Airee,D Heyliger,K Bhurtel,,0,0,0,,,,31914231914
+2,Nepal,9,K Bhurtel,Saad Bin Zafar,DS Airee,,0,0,0,,,,31914231914
+2,Nepal,9,K Bhurtel,Saad Bin Zafar,DS Airee,,0,2,2,,,,31914231914
+2,Nepal,9,K Bhurtel,Saad Bin Zafar,DS Airee,,0,1,1,,,,31914231914
+2,Nepal,9,DS Airee,Saad Bin Zafar,K Bhurtel,,0,1,1,,,,31914231914
+2,Nepal,9,K Bhurtel,Saad Bin Zafar,DS Airee,,0,0,0,,,,31914231914
+2,Nepal,9,K Bhurtel,Saad Bin Zafar,DS Airee,,0,0,0,,,,31914231914
+2,Nepal,10,DS Airee,Salman Nazar,K Bhurtel,,0,0,0,,,,31914231914
+2,Nepal,10,DS Airee,Salman Nazar,K Bhurtel,,0,0,0,,,,31914231914
+2,Nepal,10,DS Airee,Salman Nazar,K Bhurtel,,0,1,1,,,,31914231914
+2,Nepal,10,K Bhurtel,Salman Nazar,DS Airee,,0,0,0,,,,31914231914
+2,Nepal,10,K Bhurtel,Salman Nazar,DS Airee,,0,0,0,,,,31914231914
+2,Nepal,10,K Bhurtel,Salman Nazar,DS Airee,,0,0,0,,,,31914231914
+2,Nepal,11,DS Airee,Saad Bin Zafar,K Bhurtel,,0,1,1,,,,31914231914
+2,Nepal,11,K Bhurtel,Saad Bin Zafar,DS Airee,,0,1,1,,,,31914231914
+2,Nepal,11,DS Airee,Saad Bin Zafar,K Bhurtel,,0,4,4,,,,31914231914
+2,Nepal,11,DS Airee,Saad Bin Zafar,K Bhurtel,,0,2,2,,,,31914231914
+2,Nepal,11,DS Airee,Saad Bin Zafar,K Bhurtel,,0,0,0,,,,31914231914
+2,Nepal,11,DS Airee,Saad Bin Zafar,K Bhurtel,,0,1,1,,,,31914231914
+2,Nepal,12,DS Airee,Junaid Siddiqui,K Bhurtel,wides,1,1,0,,,,31914231914
+2,Nepal,12,DS Airee,Junaid Siddiqui,K Bhurtel,,0,1,1,,,,31914231914
+2,Nepal,12,K Bhurtel,Junaid Siddiqui,DS Airee,,0,0,0,,,,31914231914
+2,Nepal,12,K Bhurtel,Junaid Siddiqui,DS Airee,,0,0,0,,,,31914231914
+2,Nepal,12,K Bhurtel,Junaid Siddiqui,DS Airee,,0,0,0,,,,31914231914
+2,Nepal,12,K Bhurtel,Junaid Siddiqui,DS Airee,,0,1,1,,,,31914231914
+2,Nepal,12,DS Airee,Junaid Siddiqui,K Bhurtel,,0,2,2,,,,31914231914
+2,Nepal,13,K Bhurtel,Saad Bin Zafar,DS Airee,,0,4,4,,,,31914231914
+2,Nepal,13,K Bhurtel,Saad Bin Zafar,DS Airee,,0,4,4,,,,31914231914
+2,Nepal,13,K Bhurtel,Saad Bin Zafar,DS Airee,,0,1,1,,,,31914231914
+2,Nepal,13,DS Airee,Saad Bin Zafar,K Bhurtel,,0,1,1,,,,31914231914
+2,Nepal,13,K Bhurtel,Saad Bin Zafar,DS Airee,,0,4,4,,,,31914231914
+2,Nepal,13,K Bhurtel,Saad Bin Zafar,DS Airee,,0,1,1,,,,31914231914
+2,Nepal,14,K Bhurtel,Junaid Siddiqui,DS Airee,,0,1,1,,,,31914231914

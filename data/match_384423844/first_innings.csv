@@ -1,0 +1,128 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Pakistan,0,Babar Azam,BE Hendricks,Fakhar Zaman,,0,0,0,,,,384423844
+1,Pakistan,0,Babar Azam,BE Hendricks,Fakhar Zaman,,0,1,1,,,,384423844
+1,Pakistan,0,Fakhar Zaman,BE Hendricks,Babar Azam,,0,0,0,,,,384423844
+1,Pakistan,0,Fakhar Zaman,BE Hendricks,Babar Azam,,0,0,0,,,,384423844
+1,Pakistan,0,Fakhar Zaman,BE Hendricks,Babar Azam,,0,0,0,,,,384423844
+1,Pakistan,0,Fakhar Zaman,BE Hendricks,Babar Azam,,0,0,0,,,,384423844
+1,Pakistan,1,Babar Azam,CJ Dala,Fakhar Zaman,,0,4,4,,,,384423844
+1,Pakistan,1,Babar Azam,CJ Dala,Fakhar Zaman,,0,4,4,,,,384423844
+1,Pakistan,1,Babar Azam,CJ Dala,Fakhar Zaman,,0,0,0,,,,384423844
+1,Pakistan,1,Babar Azam,CJ Dala,Fakhar Zaman,,0,4,4,,,,384423844
+1,Pakistan,1,Babar Azam,CJ Dala,Fakhar Zaman,,0,4,4,,,,384423844
+1,Pakistan,1,Babar Azam,CJ Dala,Fakhar Zaman,,0,1,1,,,,384423844
+1,Pakistan,2,Babar Azam,CH Morris,Fakhar Zaman,,0,4,4,,,,384423844
+1,Pakistan,2,Babar Azam,CH Morris,Fakhar Zaman,,0,1,1,,,,384423844
+1,Pakistan,2,Fakhar Zaman,CH Morris,Babar Azam,,0,1,1,,,,384423844
+1,Pakistan,2,Babar Azam,CH Morris,Fakhar Zaman,,0,0,0,caught,Babar Azam,JN Malan,384423844
+1,Pakistan,2,Mohammad Rizwan,CH Morris,Fakhar Zaman,,0,0,0,,,,384423844
+1,Pakistan,2,Mohammad Rizwan,CH Morris,Fakhar Zaman,,0,0,0,,,,384423844
+1,Pakistan,3,Fakhar Zaman,L Sipamla,Mohammad Rizwan,,0,4,4,,,,384423844
+1,Pakistan,3,Fakhar Zaman,L Sipamla,Mohammad Rizwan,,0,0,0,,,,384423844
+1,Pakistan,3,Fakhar Zaman,L Sipamla,Mohammad Rizwan,,0,6,6,,,,384423844
+1,Pakistan,3,Fakhar Zaman,L Sipamla,Mohammad Rizwan,wides,1,1,0,,,,384423844
+1,Pakistan,3,Fakhar Zaman,L Sipamla,Mohammad Rizwan,,0,4,4,,,,384423844
+1,Pakistan,3,Fakhar Zaman,L Sipamla,Mohammad Rizwan,legbyes,4,4,0,,,,384423844
+1,Pakistan,3,Fakhar Zaman,L Sipamla,Mohammad Rizwan,,0,2,2,,,,384423844
+1,Pakistan,4,Mohammad Rizwan,CH Morris,Fakhar Zaman,,0,0,0,,,,384423844
+1,Pakistan,4,Mohammad Rizwan,CH Morris,Fakhar Zaman,,0,1,1,,,,384423844
+1,Pakistan,4,Fakhar Zaman,CH Morris,Mohammad Rizwan,,0,0,0,,,,384423844
+1,Pakistan,4,Fakhar Zaman,CH Morris,Mohammad Rizwan,,0,0,0,,,,384423844
+1,Pakistan,4,Fakhar Zaman,CH Morris,Mohammad Rizwan,,0,0,0,,,,384423844
+1,Pakistan,4,Fakhar Zaman,CH Morris,Mohammad Rizwan,,0,0,0,,,,384423844
+1,Pakistan,5,Mohammad Rizwan,BE Hendricks,Fakhar Zaman,,0,0,0,,,,384423844
+1,Pakistan,5,Mohammad Rizwan,BE Hendricks,Fakhar Zaman,,0,1,1,,,,384423844
+1,Pakistan,5,Fakhar Zaman,BE Hendricks,Mohammad Rizwan,,0,0,0,,,,384423844
+1,Pakistan,5,Fakhar Zaman,BE Hendricks,Mohammad Rizwan,,0,0,0,caught,Fakhar Zaman,T Shamsi,384423844
+1,Pakistan,5,Mohammad Rizwan,BE Hendricks,Shoaib Malik,,0,1,1,,,,384423844
+1,Pakistan,5,Shoaib Malik,BE Hendricks,Mohammad Rizwan,,0,2,2,,,,384423844
+1,Pakistan,6,Mohammad Rizwan,AL Phehlukwayo,Shoaib Malik,,0,1,1,,,,384423844
+1,Pakistan,6,Shoaib Malik,AL Phehlukwayo,Mohammad Rizwan,,0,1,1,,,,384423844
+1,Pakistan,6,Mohammad Rizwan,AL Phehlukwayo,Shoaib Malik,,0,1,1,,,,384423844
+1,Pakistan,6,Shoaib Malik,AL Phehlukwayo,Mohammad Rizwan,,0,1,1,,,,384423844
+1,Pakistan,6,Mohammad Rizwan,AL Phehlukwayo,Shoaib Malik,,0,1,1,,,,384423844
+1,Pakistan,6,Shoaib Malik,AL Phehlukwayo,Mohammad Rizwan,,0,1,1,,,,384423844
+1,Pakistan,7,Shoaib Malik,T Shamsi,Mohammad Rizwan,,0,1,1,,,,384423844
+1,Pakistan,7,Mohammad Rizwan,T Shamsi,Shoaib Malik,,0,4,4,,,,384423844
+1,Pakistan,7,Mohammad Rizwan,T Shamsi,Shoaib Malik,,0,4,4,,,,384423844
+1,Pakistan,7,Mohammad Rizwan,T Shamsi,Shoaib Malik,,0,1,1,,,,384423844
+1,Pakistan,7,Shoaib Malik,T Shamsi,Mohammad Rizwan,,0,1,1,,,,384423844
+1,Pakistan,7,Mohammad Rizwan,T Shamsi,Shoaib Malik,,0,1,1,,,,384423844
+1,Pakistan,8,Mohammad Rizwan,CJ Dala,Shoaib Malik,,0,1,1,,,,384423844
+1,Pakistan,8,Shoaib Malik,CJ Dala,Mohammad Rizwan,wides,1,1,0,,,,384423844
+1,Pakistan,8,Shoaib Malik,CJ Dala,Mohammad Rizwan,,0,0,0,,,,384423844
+1,Pakistan,8,Shoaib Malik,CJ Dala,Mohammad Rizwan,,0,4,4,,,,384423844
+1,Pakistan,8,Shoaib Malik,CJ Dala,Mohammad Rizwan,,0,0,0,,,,384423844
+1,Pakistan,8,Shoaib Malik,CJ Dala,Mohammad Rizwan,,0,4,4,,,,384423844
+1,Pakistan,8,Shoaib Malik,CJ Dala,Mohammad Rizwan,,0,0,0,,,,384423844
+1,Pakistan,9,Mohammad Rizwan,T Shamsi,Shoaib Malik,,0,1,1,,,,384423844
+1,Pakistan,9,Shoaib Malik,T Shamsi,Mohammad Rizwan,,0,1,1,,,,384423844
+1,Pakistan,9,Mohammad Rizwan,T Shamsi,Shoaib Malik,,0,1,1,,,,384423844
+1,Pakistan,9,Shoaib Malik,T Shamsi,Mohammad Rizwan,,0,1,1,,,,384423844
+1,Pakistan,9,Mohammad Rizwan,T Shamsi,Shoaib Malik,,0,1,1,,,,384423844
+1,Pakistan,9,Shoaib Malik,T Shamsi,Mohammad Rizwan,,0,0,0,,,,384423844
+1,Pakistan,10,Mohammad Rizwan,L Sipamla,Shoaib Malik,,0,0,0,,,,384423844
+1,Pakistan,10,Mohammad Rizwan,L Sipamla,Shoaib Malik,,0,2,2,,,,384423844
+1,Pakistan,10,Mohammad Rizwan,L Sipamla,Shoaib Malik,,0,4,4,,,,384423844
+1,Pakistan,10,Mohammad Rizwan,L Sipamla,Shoaib Malik,,0,0,0,caught,Mohammad Rizwan,CJ Dala,384423844
+1,Pakistan,10,Shoaib Malik,L Sipamla,Hussain Talat,,0,1,1,,,,384423844
+1,Pakistan,10,Hussain Talat,L Sipamla,Shoaib Malik,,0,1,1,,,,384423844
+1,Pakistan,11,Hussain Talat,T Shamsi,Shoaib Malik,,0,1,1,,,,384423844
+1,Pakistan,11,Shoaib Malik,T Shamsi,Hussain Talat,,0,0,0,run out,Shoaib Malik,,384423844
+1,Pakistan,11,Asif Ali,T Shamsi,Hussain Talat,,0,1,1,,,,384423844
+1,Pakistan,11,Hussain Talat,T Shamsi,Asif Ali,,0,1,1,,,,384423844
+1,Pakistan,11,Asif Ali,T Shamsi,Hussain Talat,,0,0,0,,,,384423844
+1,Pakistan,11,Asif Ali,T Shamsi,Hussain Talat,,0,0,0,,,,384423844
+1,Pakistan,12,Hussain Talat,AL Phehlukwayo,Asif Ali,,0,0,0,caught,Hussain Talat,H Klaasen,384423844
+1,Pakistan,12,Imad Wasim,AL Phehlukwayo,Asif Ali,,0,1,1,,,,384423844
+1,Pakistan,12,Asif Ali,AL Phehlukwayo,Imad Wasim,,0,1,1,,,,384423844
+1,Pakistan,12,Imad Wasim,AL Phehlukwayo,Asif Ali,,0,1,1,,,,384423844
+1,Pakistan,12,Asif Ali,AL Phehlukwayo,Imad Wasim,wides,1,1,0,,,,384423844
+1,Pakistan,12,Asif Ali,AL Phehlukwayo,Imad Wasim,wides,1,1,0,,,,384423844
+1,Pakistan,12,Asif Ali,AL Phehlukwayo,Imad Wasim,,0,1,1,,,,384423844
+1,Pakistan,12,Imad Wasim,AL Phehlukwayo,Asif Ali,,0,1,1,,,,384423844
+1,Pakistan,13,Imad Wasim,T Shamsi,Asif Ali,,0,1,1,,,,384423844
+1,Pakistan,13,Asif Ali,T Shamsi,Imad Wasim,,0,6,6,,,,384423844
+1,Pakistan,13,Asif Ali,T Shamsi,Imad Wasim,,0,1,1,,,,384423844
+1,Pakistan,13,Imad Wasim,T Shamsi,Asif Ali,,0,1,1,,,,384423844
+1,Pakistan,13,Asif Ali,T Shamsi,Imad Wasim,,0,0,0,,,,384423844
+1,Pakistan,13,Asif Ali,T Shamsi,Imad Wasim,,0,1,1,,,,384423844
+1,Pakistan,14,Asif Ali,CH Morris,Imad Wasim,,0,1,1,,,,384423844
+1,Pakistan,14,Imad Wasim,CH Morris,Asif Ali,,0,4,4,,,,384423844
+1,Pakistan,14,Imad Wasim,CH Morris,Asif Ali,,0,4,4,,,,384423844
+1,Pakistan,14,Imad Wasim,CH Morris,Asif Ali,,0,0,0,,,,384423844
+1,Pakistan,14,Imad Wasim,CH Morris,Asif Ali,,0,1,1,,,,384423844
+1,Pakistan,14,Asif Ali,CH Morris,Imad Wasim,,0,1,1,,,,384423844
+1,Pakistan,15,Asif Ali,BE Hendricks,Imad Wasim,,0,1,1,,,,384423844
+1,Pakistan,15,Imad Wasim,BE Hendricks,Asif Ali,,0,4,4,,,,384423844
+1,Pakistan,15,Imad Wasim,BE Hendricks,Asif Ali,,0,1,1,,,,384423844
+1,Pakistan,15,Asif Ali,BE Hendricks,Imad Wasim,,0,1,1,,,,384423844
+1,Pakistan,15,Imad Wasim,BE Hendricks,Asif Ali,,0,0,0,,,,384423844
+1,Pakistan,15,Imad Wasim,BE Hendricks,Asif Ali,,0,0,0,bowled,Imad Wasim,,384423844
+1,Pakistan,16,Asif Ali,AL Phehlukwayo,Faheem Ashraf,wides,1,1,0,,,,384423844
+1,Pakistan,16,Asif Ali,AL Phehlukwayo,Faheem Ashraf,wides,1,1,0,,,,384423844
+1,Pakistan,16,Asif Ali,AL Phehlukwayo,Faheem Ashraf,,0,1,1,,,,384423844
+1,Pakistan,16,Faheem Ashraf,AL Phehlukwayo,Asif Ali,,0,1,1,,,,384423844
+1,Pakistan,16,Asif Ali,AL Phehlukwayo,Faheem Ashraf,,0,0,0,,,,384423844
+1,Pakistan,16,Asif Ali,AL Phehlukwayo,Faheem Ashraf,,0,1,1,,,,384423844
+1,Pakistan,16,Faheem Ashraf,AL Phehlukwayo,Asif Ali,,0,1,1,,,,384423844
+1,Pakistan,16,Asif Ali,AL Phehlukwayo,Faheem Ashraf,,0,1,1,,,,384423844
+1,Pakistan,17,Asif Ali,CH Morris,Faheem Ashraf,,0,6,6,,,,384423844
+1,Pakistan,17,Asif Ali,CH Morris,Faheem Ashraf,,0,1,1,,,,384423844
+1,Pakistan,17,Faheem Ashraf,CH Morris,Asif Ali,,0,0,0,,,,384423844
+1,Pakistan,17,Faheem Ashraf,CH Morris,Asif Ali,,0,1,1,,,,384423844
+1,Pakistan,17,Asif Ali,CH Morris,Faheem Ashraf,,0,0,0,caught,Asif Ali,HE van der Dussen,384423844
+1,Pakistan,17,Faheem Ashraf,CH Morris,Shadab Khan,,0,1,1,,,,384423844
+1,Pakistan,18,Faheem Ashraf,BE Hendricks,Shadab Khan,,0,0,0,caught,Faheem Ashraf,DA Miller,384423844
+1,Pakistan,18,Shadab Khan,BE Hendricks,Mohammad Amir,,0,1,1,,,,384423844
+1,Pakistan,18,Mohammad Amir,BE Hendricks,Shadab Khan,,0,0,0,caught,Mohammad Amir,HE van der Dussen,384423844
+1,Pakistan,18,Shadab Khan,BE Hendricks,Shaheen Shah Afridi,,0,1,1,,,,384423844
+1,Pakistan,18,Shaheen Shah Afridi,BE Hendricks,Shadab Khan,,0,0,0,,,,384423844
+1,Pakistan,18,Shaheen Shah Afridi,BE Hendricks,Shadab Khan,,0,0,0,,,,384423844
+1,Pakistan,19,Shadab Khan,AL Phehlukwayo,Shaheen Shah Afridi,,0,0,0,,,,384423844
+1,Pakistan,19,Shadab Khan,AL Phehlukwayo,Shaheen Shah Afridi,,0,6,6,,,,384423844
+1,Pakistan,19,Shadab Khan,AL Phehlukwayo,Shaheen Shah Afridi,,0,2,2,,,,384423844
+1,Pakistan,19,Shadab Khan,AL Phehlukwayo,Shaheen Shah Afridi,,0,6,6,,,,384423844
+1,Pakistan,19,Shadab Khan,AL Phehlukwayo,Shaheen Shah Afridi,wides,1,1,0,,,,384423844
+1,Pakistan,19,Shadab Khan,AL Phehlukwayo,Shaheen Shah Afridi,,0,0,0,,,,384423844
+1,Pakistan,19,Shadab Khan,AL Phehlukwayo,Shaheen Shah Afridi,,0,6,6,,,,384423844

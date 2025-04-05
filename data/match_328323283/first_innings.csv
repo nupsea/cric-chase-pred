@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,RE Levi,P Kumar,JH Kallis,,0,3,3,,,,328323283
+1,South Africa,0,JH Kallis,P Kumar,RE Levi,,0,0,0,,,,328323283
+1,South Africa,0,JH Kallis,P Kumar,RE Levi,wides,1,1,0,,,,328323283
+1,South Africa,0,JH Kallis,P Kumar,RE Levi,,0,1,1,,,,328323283
+1,South Africa,0,RE Levi,P Kumar,JH Kallis,,0,4,4,,,,328323283
+1,South Africa,0,RE Levi,P Kumar,JH Kallis,,0,4,4,,,,328323283
+1,South Africa,0,RE Levi,P Kumar,JH Kallis,,0,0,0,,,,328323283
+1,South Africa,1,JH Kallis,IK Pathan,RE Levi,,0,1,1,,,,328323283
+1,South Africa,1,RE Levi,IK Pathan,JH Kallis,,0,4,4,,,,328323283
+1,South Africa,1,RE Levi,IK Pathan,JH Kallis,,0,4,4,,,,328323283
+1,South Africa,1,RE Levi,IK Pathan,JH Kallis,,0,0,0,caught,RE Levi,RG Sharma,328323283
+1,South Africa,1,CA Ingram,IK Pathan,JH Kallis,,0,4,4,,,,328323283
+1,South Africa,1,CA Ingram,IK Pathan,JH Kallis,wides,1,1,0,,,,328323283
+1,South Africa,1,CA Ingram,IK Pathan,JH Kallis,,0,0,0,,,,328323283
+1,South Africa,2,JH Kallis,R Vinay Kumar,CA Ingram,,0,1,1,,,,328323283
+1,South Africa,2,CA Ingram,R Vinay Kumar,JH Kallis,,0,0,0,,,,328323283
+1,South Africa,2,CA Ingram,R Vinay Kumar,JH Kallis,,0,0,0,,,,328323283
+1,South Africa,2,CA Ingram,R Vinay Kumar,JH Kallis,,0,0,0,,,,328323283
+1,South Africa,2,CA Ingram,R Vinay Kumar,JH Kallis,,0,0,0,,,,328323283
+1,South Africa,2,CA Ingram,R Vinay Kumar,JH Kallis,,0,1,1,,,,328323283
+1,South Africa,3,CA Ingram,IK Pathan,JH Kallis,,0,1,1,,,,328323283
+1,South Africa,3,JH Kallis,IK Pathan,CA Ingram,,0,1,1,,,,328323283
+1,South Africa,3,CA Ingram,IK Pathan,JH Kallis,,0,2,2,,,,328323283
+1,South Africa,3,CA Ingram,IK Pathan,JH Kallis,,0,0,0,,,,328323283
+1,South Africa,3,CA Ingram,IK Pathan,JH Kallis,,0,4,4,,,,328323283
+1,South Africa,3,CA Ingram,IK Pathan,JH Kallis,,0,0,0,,,,328323283
+1,South Africa,4,JH Kallis,R Vinay Kumar,CA Ingram,,0,0,0,,,,328323283
+1,South Africa,4,JH Kallis,R Vinay Kumar,CA Ingram,,0,4,4,,,,328323283
+1,South Africa,4,JH Kallis,R Vinay Kumar,CA Ingram,,0,0,0,,,,328323283
+1,South Africa,4,JH Kallis,R Vinay Kumar,CA Ingram,,0,1,1,,,,328323283
+1,South Africa,4,CA Ingram,R Vinay Kumar,JH Kallis,,0,1,1,,,,328323283
+1,South Africa,4,JH Kallis,R Vinay Kumar,CA Ingram,,0,4,4,,,,328323283
+1,South Africa,5,CA Ingram,R Ashwin,JH Kallis,,0,1,1,,,,328323283
+1,South Africa,5,JH Kallis,R Ashwin,CA Ingram,,0,2,2,,,,328323283
+1,South Africa,5,JH Kallis,R Ashwin,CA Ingram,,0,1,1,,,,328323283
+1,South Africa,5,CA Ingram,R Ashwin,JH Kallis,,0,0,0,,,,328323283
+1,South Africa,5,CA Ingram,R Ashwin,JH Kallis,,0,4,4,,,,328323283
+1,South Africa,5,CA Ingram,R Ashwin,JH Kallis,,0,0,0,,,,328323283
+1,South Africa,6,JH Kallis,P Kumar,CA Ingram,,0,1,1,,,,328323283
+1,South Africa,6,CA Ingram,P Kumar,JH Kallis,,0,1,1,,,,328323283
+1,South Africa,6,JH Kallis,P Kumar,CA Ingram,,0,2,2,,,,328323283
+1,South Africa,6,JH Kallis,P Kumar,CA Ingram,,0,1,1,,,,328323283
+1,South Africa,6,CA Ingram,P Kumar,JH Kallis,,0,4,4,,,,328323283
+1,South Africa,6,CA Ingram,P Kumar,JH Kallis,legbyes,1,1,0,,,,328323283
+1,South Africa,7,CA Ingram,YK Pathan,JH Kallis,,0,0,0,,,,328323283
+1,South Africa,7,CA Ingram,YK Pathan,JH Kallis,,0,1,1,,,,328323283
+1,South Africa,7,JH Kallis,YK Pathan,CA Ingram,,0,0,0,,,,328323283
+1,South Africa,7,JH Kallis,YK Pathan,CA Ingram,,0,6,6,,,,328323283
+1,South Africa,7,JH Kallis,YK Pathan,CA Ingram,,0,1,1,,,,328323283
+1,South Africa,7,CA Ingram,YK Pathan,JH Kallis,,0,1,1,,,,328323283
+1,South Africa,8,CA Ingram,R Ashwin,JH Kallis,,0,1,1,,,,328323283
+1,South Africa,8,JH Kallis,R Ashwin,CA Ingram,,0,0,0,,,,328323283
+1,South Africa,8,JH Kallis,R Ashwin,CA Ingram,,0,1,1,,,,328323283
+1,South Africa,8,CA Ingram,R Ashwin,JH Kallis,,0,1,1,,,,328323283
+1,South Africa,8,JH Kallis,R Ashwin,CA Ingram,,0,1,1,,,,328323283
+1,South Africa,8,CA Ingram,R Ashwin,JH Kallis,,0,0,0,,,,328323283
+1,South Africa,9,JH Kallis,SK Raina,CA Ingram,,0,1,1,,,,328323283
+1,South Africa,9,CA Ingram,SK Raina,JH Kallis,,0,1,1,,,,328323283
+1,South Africa,9,JH Kallis,SK Raina,CA Ingram,,0,0,0,,,,328323283
+1,South Africa,9,JH Kallis,SK Raina,CA Ingram,,0,0,0,,,,328323283
+1,South Africa,9,JH Kallis,SK Raina,CA Ingram,,0,2,2,,,,328323283
+1,South Africa,9,JH Kallis,SK Raina,CA Ingram,,0,1,1,,,,328323283
+1,South Africa,10,JH Kallis,R Ashwin,CA Ingram,,0,1,1,,,,328323283
+1,South Africa,10,CA Ingram,R Ashwin,JH Kallis,,0,6,6,,,,328323283
+1,South Africa,10,CA Ingram,R Ashwin,JH Kallis,,0,1,1,,,,328323283
+1,South Africa,10,JH Kallis,R Ashwin,CA Ingram,,0,1,1,,,,328323283
+1,South Africa,10,CA Ingram,R Ashwin,JH Kallis,,0,1,1,,,,328323283
+1,South Africa,10,JH Kallis,R Ashwin,CA Ingram,,0,1,1,,,,328323283
+1,South Africa,11,JH Kallis,RG Sharma,CA Ingram,,0,0,0,,,,328323283
+1,South Africa,11,JH Kallis,RG Sharma,CA Ingram,,0,6,6,,,,328323283
+1,South Africa,11,JH Kallis,RG Sharma,CA Ingram,,0,1,1,,,,328323283
+1,South Africa,11,CA Ingram,RG Sharma,JH Kallis,,0,4,4,,,,328323283
+1,South Africa,11,CA Ingram,RG Sharma,JH Kallis,,0,2,2,,,,328323283
+1,South Africa,11,CA Ingram,RG Sharma,JH Kallis,,0,1,1,,,,328323283
+1,South Africa,12,CA Ingram,IK Pathan,JH Kallis,,0,0,0,,,,328323283
+1,South Africa,12,CA Ingram,IK Pathan,JH Kallis,,0,1,1,,,,328323283
+1,South Africa,12,JH Kallis,IK Pathan,CA Ingram,,0,1,1,,,,328323283
+1,South Africa,12,CA Ingram,IK Pathan,JH Kallis,,0,4,4,,,,328323283
+1,South Africa,12,CA Ingram,IK Pathan,JH Kallis,,0,1,1,,,,328323283
+1,South Africa,12,JH Kallis,IK Pathan,CA Ingram,,0,1,1,,,,328323283
+1,South Africa,13,JH Kallis,V Kohli,CA Ingram,,0,1,1,,,,328323283
+1,South Africa,13,CA Ingram,V Kohli,JH Kallis,,0,1,1,,,,328323283
+1,South Africa,13,JH Kallis,V Kohli,CA Ingram,,0,4,4,,,,328323283
+1,South Africa,13,JH Kallis,V Kohli,CA Ingram,,0,4,4,,,,328323283
+1,South Africa,13,JH Kallis,V Kohli,CA Ingram,,0,4,4,,,,328323283
+1,South Africa,13,JH Kallis,V Kohli,CA Ingram,,0,1,1,,,,328323283
+1,South Africa,14,JH Kallis,R Ashwin,CA Ingram,,0,1,1,,,,328323283
+1,South Africa,14,CA Ingram,R Ashwin,JH Kallis,,0,6,6,,,,328323283
+1,South Africa,14,CA Ingram,R Ashwin,JH Kallis,,0,1,1,,,,328323283
+1,South Africa,14,JH Kallis,R Ashwin,CA Ingram,,0,1,1,,,,328323283
+1,South Africa,14,CA Ingram,R Ashwin,JH Kallis,,0,1,1,,,,328323283
+1,South Africa,14,JH Kallis,R Ashwin,CA Ingram,,0,0,0,caught,JH Kallis,RG Sharma,328323283
+1,South Africa,15,F Behardien,SK Raina,CA Ingram,,0,1,1,,,,328323283
+1,South Africa,15,CA Ingram,SK Raina,F Behardien,,0,2,2,,,,328323283
+1,South Africa,15,CA Ingram,SK Raina,F Behardien,,0,0,0,,,,328323283
+1,South Africa,15,CA Ingram,SK Raina,F Behardien,,0,1,1,,,,328323283
+1,South Africa,15,F Behardien,SK Raina,CA Ingram,,0,1,1,,,,328323283
+1,South Africa,15,CA Ingram,SK Raina,F Behardien,,0,2,2,,,,328323283
+1,South Africa,16,F Behardien,R Vinay Kumar,CA Ingram,,0,1,1,,,,328323283
+1,South Africa,16,CA Ingram,R Vinay Kumar,F Behardien,,0,6,6,,,,328323283
+1,South Africa,16,CA Ingram,R Vinay Kumar,F Behardien,,0,4,4,,,,328323283
+1,South Africa,16,CA Ingram,R Vinay Kumar,F Behardien,,0,4,4,,,,328323283
+1,South Africa,16,CA Ingram,R Vinay Kumar,F Behardien,,0,1,1,,,,328323283
+1,South Africa,16,F Behardien,R Vinay Kumar,CA Ingram,,0,4,4,,,,328323283
+1,South Africa,17,CA Ingram,SK Raina,F Behardien,,0,0,0,caught,CA Ingram,RG Sharma,328323283
+1,South Africa,17,F Behardien,SK Raina,JL Ontong,,0,2,2,,,,328323283
+1,South Africa,17,F Behardien,SK Raina,JL Ontong,,0,1,1,,,,328323283
+1,South Africa,17,JL Ontong,SK Raina,F Behardien,,0,1,1,,,,328323283
+1,South Africa,17,F Behardien,SK Raina,JL Ontong,,0,1,1,,,,328323283
+1,South Africa,17,JL Ontong,SK Raina,F Behardien,,0,6,6,,,,328323283
+1,South Africa,18,F Behardien,IK Pathan,JL Ontong,,0,2,2,,,,328323283
+1,South Africa,18,F Behardien,IK Pathan,JL Ontong,,0,4,4,,,,328323283
+1,South Africa,18,F Behardien,IK Pathan,JL Ontong,,0,2,2,,,,328323283
+1,South Africa,18,F Behardien,IK Pathan,JL Ontong,,0,1,1,,,,328323283
+1,South Africa,18,JL Ontong,IK Pathan,F Behardien,,0,4,4,,,,328323283
+1,South Africa,18,JL Ontong,IK Pathan,F Behardien,,0,1,1,,,,328323283
+1,South Africa,19,JL Ontong,SK Raina,F Behardien,,0,4,4,,,,328323283
+1,South Africa,19,JL Ontong,SK Raina,F Behardien,,0,6,6,,,,328323283
+1,South Africa,19,JL Ontong,SK Raina,F Behardien,,0,0,0,bowled,JL Ontong,,328323283
+1,South Africa,19,JA Morkel,SK Raina,F Behardien,,0,6,6,,,,328323283
+1,South Africa,19,JA Morkel,SK Raina,F Behardien,,0,4,4,,,,328323283
+1,South Africa,19,JA Morkel,SK Raina,F Behardien,,0,6,6,,,,328323283

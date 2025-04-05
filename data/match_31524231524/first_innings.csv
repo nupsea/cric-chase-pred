@@ -1,0 +1,57 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,West Indies,0,LMP Simmons,Shaheen Shah Afridi,E Lewis,,0,0,0,,,,31524231524
+1,West Indies,0,LMP Simmons,Shaheen Shah Afridi,E Lewis,,0,1,1,,,,31524231524
+1,West Indies,0,E Lewis,Shaheen Shah Afridi,LMP Simmons,,0,1,1,,,,31524231524
+1,West Indies,0,LMP Simmons,Shaheen Shah Afridi,E Lewis,,0,0,0,,,,31524231524
+1,West Indies,0,LMP Simmons,Shaheen Shah Afridi,E Lewis,,0,4,4,,,,31524231524
+1,West Indies,0,LMP Simmons,Shaheen Shah Afridi,E Lewis,wides,1,1,0,,,,31524231524
+1,West Indies,0,LMP Simmons,Shaheen Shah Afridi,E Lewis,,0,0,0,,,,31524231524
+1,West Indies,1,E Lewis,Mohammad Wasim,LMP Simmons,,0,4,4,,,,31524231524
+1,West Indies,1,E Lewis,Mohammad Wasim,LMP Simmons,,0,0,0,,,,31524231524
+1,West Indies,1,E Lewis,Mohammad Wasim,LMP Simmons,,0,1,1,,,,31524231524
+1,West Indies,1,LMP Simmons,Mohammad Wasim,E Lewis,,0,4,4,,,,31524231524
+1,West Indies,1,LMP Simmons,Mohammad Wasim,E Lewis,,0,0,0,retired hurt,LMP Simmons,,31524231524
+1,West Indies,1,CH Gayle,Mohammad Wasim,E Lewis,,0,0,0,,,,31524231524
+1,West Indies,2,E Lewis,Hasan Ali,CH Gayle,,0,0,0,caught,E Lewis,Shaheen Shah Afridi,31524231524
+1,West Indies,2,N Pooran,Hasan Ali,CH Gayle,,0,0,0,,,,31524231524
+1,West Indies,2,N Pooran,Hasan Ali,CH Gayle,,0,0,0,,,,31524231524
+1,West Indies,2,N Pooran,Hasan Ali,CH Gayle,legbyes,4,4,0,,,,31524231524
+1,West Indies,2,N Pooran,Hasan Ali,CH Gayle,legbyes,4,4,0,,,,31524231524
+1,West Indies,2,N Pooran,Hasan Ali,CH Gayle,,0,1,1,,,,31524231524
+1,West Indies,3,N Pooran,Mohammad Hafeez,CH Gayle,,0,6,6,,,,31524231524
+1,West Indies,3,N Pooran,Mohammad Hafeez,CH Gayle,,0,0,0,,,,31524231524
+1,West Indies,3,N Pooran,Mohammad Hafeez,CH Gayle,,0,0,0,,,,31524231524
+1,West Indies,3,N Pooran,Mohammad Hafeez,CH Gayle,,0,0,0,,,,31524231524
+1,West Indies,3,N Pooran,Mohammad Hafeez,CH Gayle,,0,6,6,,,,31524231524
+1,West Indies,3,N Pooran,Mohammad Hafeez,CH Gayle,,0,0,0,caught,N Pooran,Shadab Khan,31524231524
+1,West Indies,4,CH Gayle,Shadab Khan,AD Russell,,0,0,0,,,,31524231524
+1,West Indies,4,CH Gayle,Shadab Khan,AD Russell,,0,1,1,,,,31524231524
+1,West Indies,4,AD Russell,Shadab Khan,CH Gayle,,0,1,1,,,,31524231524
+1,West Indies,4,CH Gayle,Shadab Khan,AD Russell,,0,0,0,,,,31524231524
+1,West Indies,4,CH Gayle,Shadab Khan,AD Russell,,0,0,0,,,,31524231524
+1,West Indies,4,CH Gayle,Shadab Khan,AD Russell,,0,6,6,,,,31524231524
+1,West Indies,5,AD Russell,Usman Qadir,CH Gayle,,0,0,0,,,,31524231524
+1,West Indies,5,AD Russell,Usman Qadir,CH Gayle,,0,6,6,,,,31524231524
+1,West Indies,5,AD Russell,Usman Qadir,CH Gayle,,0,0,0,,,,31524231524
+1,West Indies,5,AD Russell,Usman Qadir,CH Gayle,,0,0,0,,,,31524231524
+1,West Indies,5,AD Russell,Usman Qadir,CH Gayle,,0,0,0,caught,AD Russell,Mohammad Rizwan,31524231524
+1,West Indies,5,KA Pollard,Usman Qadir,CH Gayle,,0,0,0,,,,31524231524
+1,West Indies,6,CH Gayle,Mohammad Wasim,KA Pollard,,0,0,0,caught,CH Gayle,Hasan Ali,31524231524
+1,West Indies,6,SO Hetmyer,Mohammad Wasim,KA Pollard,,0,1,1,,,,31524231524
+1,West Indies,6,KA Pollard,Mohammad Wasim,SO Hetmyer,wides,5,5,0,,,,31524231524
+1,West Indies,6,KA Pollard,Mohammad Wasim,SO Hetmyer,,0,1,1,,,,31524231524
+1,West Indies,6,SO Hetmyer,Mohammad Wasim,KA Pollard,,0,0,0,,,,31524231524
+1,West Indies,6,SO Hetmyer,Mohammad Wasim,KA Pollard,,0,4,4,,,,31524231524
+1,West Indies,6,SO Hetmyer,Mohammad Wasim,KA Pollard,,0,0,0,,,,31524231524
+1,West Indies,7,KA Pollard,Hasan Ali,SO Hetmyer,,0,6,6,,,,31524231524
+1,West Indies,7,KA Pollard,Hasan Ali,SO Hetmyer,,0,2,2,,,,31524231524
+1,West Indies,7,KA Pollard,Hasan Ali,SO Hetmyer,,0,1,1,,,,31524231524
+1,West Indies,7,SO Hetmyer,Hasan Ali,KA Pollard,,0,0,0,caught,SO Hetmyer,Mohammad Rizwan,31524231524
+1,West Indies,7,JO Holder,Hasan Ali,KA Pollard,,0,0,0,,,,31524231524
+1,West Indies,7,JO Holder,Hasan Ali,KA Pollard,,0,1,1,,,,31524231524
+1,West Indies,8,JO Holder,Shaheen Shah Afridi,KA Pollard,,0,0,0,,,,31524231524
+1,West Indies,8,JO Holder,Shaheen Shah Afridi,KA Pollard,,0,1,1,,,,31524231524
+1,West Indies,8,KA Pollard,Shaheen Shah Afridi,JO Holder,,0,0,0,,,,31524231524
+1,West Indies,8,KA Pollard,Shaheen Shah Afridi,JO Holder,,0,4,4,,,,31524231524
+1,West Indies,8,KA Pollard,Shaheen Shah Afridi,JO Holder,,0,2,2,,,,31524231524
+1,West Indies,8,KA Pollard,Shaheen Shah Afridi,JO Holder,,0,6,6,,,,31524231524

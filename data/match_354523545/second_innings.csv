@@ -1,0 +1,127 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Pakistan,0,Rafatullah Mohmand,CJ Jordan,Sarfraz Ahmed,,0,0,0,,,,354523545
+2,Pakistan,0,Rafatullah Mohmand,CJ Jordan,Sarfraz Ahmed,,0,0,0,,,,354523545
+2,Pakistan,0,Rafatullah Mohmand,CJ Jordan,Sarfraz Ahmed,,0,4,4,,,,354523545
+2,Pakistan,0,Rafatullah Mohmand,CJ Jordan,Sarfraz Ahmed,,0,2,2,,,,354523545
+2,Pakistan,0,Rafatullah Mohmand,CJ Jordan,Sarfraz Ahmed,,0,0,0,,,,354523545
+2,Pakistan,0,Rafatullah Mohmand,CJ Jordan,Sarfraz Ahmed,,0,0,0,,,,354523545
+2,Pakistan,1,Sarfraz Ahmed,RJW Topley,Rafatullah Mohmand,,0,1,1,,,,354523545
+2,Pakistan,1,Rafatullah Mohmand,RJW Topley,Sarfraz Ahmed,,0,1,1,,,,354523545
+2,Pakistan,1,Sarfraz Ahmed,RJW Topley,Rafatullah Mohmand,,0,0,0,caught,Sarfraz Ahmed,LE Plunkett,354523545
+2,Pakistan,1,Rafatullah Mohmand,RJW Topley,Mohammad Hafeez,,0,0,0,,,,354523545
+2,Pakistan,1,Rafatullah Mohmand,RJW Topley,Mohammad Hafeez,,0,2,2,,,,354523545
+2,Pakistan,1,Rafatullah Mohmand,RJW Topley,Mohammad Hafeez,,0,0,0,,,,354523545
+2,Pakistan,2,Mohammad Hafeez,CJ Jordan,Rafatullah Mohmand,,0,0,0,,,,354523545
+2,Pakistan,2,Mohammad Hafeez,CJ Jordan,Rafatullah Mohmand,,0,0,0,,,,354523545
+2,Pakistan,2,Mohammad Hafeez,CJ Jordan,Rafatullah Mohmand,,0,0,0,,,,354523545
+2,Pakistan,2,Mohammad Hafeez,CJ Jordan,Rafatullah Mohmand,,0,1,1,,,,354523545
+2,Pakistan,2,Rafatullah Mohmand,CJ Jordan,Mohammad Hafeez,,0,1,1,,,,354523545
+2,Pakistan,2,Mohammad Hafeez,CJ Jordan,Rafatullah Mohmand,wides,1,1,0,,,,354523545
+2,Pakistan,2,Mohammad Hafeez,CJ Jordan,Rafatullah Mohmand,,0,4,4,,,,354523545
+2,Pakistan,3,Rafatullah Mohmand,LE Plunkett,Mohammad Hafeez,,0,0,0,,,,354523545
+2,Pakistan,3,Rafatullah Mohmand,LE Plunkett,Mohammad Hafeez,,0,0,0,,,,354523545
+2,Pakistan,3,Rafatullah Mohmand,LE Plunkett,Mohammad Hafeez,,0,0,0,,,,354523545
+2,Pakistan,3,Rafatullah Mohmand,LE Plunkett,Mohammad Hafeez,,0,1,1,,,,354523545
+2,Pakistan,3,Mohammad Hafeez,LE Plunkett,Rafatullah Mohmand,,0,2,2,,,,354523545
+2,Pakistan,3,Mohammad Hafeez,LE Plunkett,Rafatullah Mohmand,,0,0,0,caught,Mohammad Hafeez,RJW Topley,354523545
+2,Pakistan,4,Rafatullah Mohmand,RJW Topley,Mohammad Rizwan,,0,0,0,,,,354523545
+2,Pakistan,4,Rafatullah Mohmand,RJW Topley,Mohammad Rizwan,,0,2,2,,,,354523545
+2,Pakistan,4,Rafatullah Mohmand,RJW Topley,Mohammad Rizwan,,0,2,2,,,,354523545
+2,Pakistan,4,Rafatullah Mohmand,RJW Topley,Mohammad Rizwan,,0,1,1,,,,354523545
+2,Pakistan,4,Mohammad Rizwan,RJW Topley,Rafatullah Mohmand,,0,0,0,,,,354523545
+2,Pakistan,4,Mohammad Rizwan,RJW Topley,Rafatullah Mohmand,,0,0,0,,,,354523545
+2,Pakistan,5,Rafatullah Mohmand,LE Plunkett,Mohammad Rizwan,,0,0,0,caught,Rafatullah Mohmand,SW Billings,354523545
+2,Pakistan,5,Sohaib Maqsood,LE Plunkett,Mohammad Rizwan,,0,0,0,,,,354523545
+2,Pakistan,5,Sohaib Maqsood,LE Plunkett,Mohammad Rizwan,,0,4,4,,,,354523545
+2,Pakistan,5,Sohaib Maqsood,LE Plunkett,Mohammad Rizwan,,0,0,0,,,,354523545
+2,Pakistan,5,Sohaib Maqsood,LE Plunkett,Mohammad Rizwan,,0,2,2,,,,354523545
+2,Pakistan,5,Sohaib Maqsood,LE Plunkett,Mohammad Rizwan,,0,1,1,,,,354523545
+2,Pakistan,6,Sohaib Maqsood,MM Ali,Mohammad Rizwan,,0,1,1,,,,354523545
+2,Pakistan,6,Mohammad Rizwan,MM Ali,Sohaib Maqsood,,0,0,0,,,,354523545
+2,Pakistan,6,Mohammad Rizwan,MM Ali,Sohaib Maqsood,,0,4,4,,,,354523545
+2,Pakistan,6,Mohammad Rizwan,MM Ali,Sohaib Maqsood,,0,0,0,,,,354523545
+2,Pakistan,6,Mohammad Rizwan,MM Ali,Sohaib Maqsood,,0,0,0,,,,354523545
+2,Pakistan,6,Mohammad Rizwan,MM Ali,Sohaib Maqsood,,0,1,1,,,,354523545
+2,Pakistan,7,Mohammad Rizwan,SD Parry,Sohaib Maqsood,,0,1,1,,,,354523545
+2,Pakistan,7,Sohaib Maqsood,SD Parry,Mohammad Rizwan,,0,2,2,,,,354523545
+2,Pakistan,7,Sohaib Maqsood,SD Parry,Mohammad Rizwan,,0,1,1,,,,354523545
+2,Pakistan,7,Mohammad Rizwan,SD Parry,Sohaib Maqsood,,0,0,0,bowled,Mohammad Rizwan,,354523545
+2,Pakistan,7,Umar Akmal,SD Parry,Sohaib Maqsood,,0,2,2,,,,354523545
+2,Pakistan,7,Umar Akmal,SD Parry,Sohaib Maqsood,,0,1,1,,,,354523545
+2,Pakistan,8,Umar Akmal,MM Ali,Sohaib Maqsood,,0,0,0,,,,354523545
+2,Pakistan,8,Umar Akmal,MM Ali,Sohaib Maqsood,,0,1,1,,,,354523545
+2,Pakistan,8,Sohaib Maqsood,MM Ali,Umar Akmal,,0,2,2,,,,354523545
+2,Pakistan,8,Sohaib Maqsood,MM Ali,Umar Akmal,,0,0,0,,,,354523545
+2,Pakistan,8,Sohaib Maqsood,MM Ali,Umar Akmal,,0,2,2,,,,354523545
+2,Pakistan,8,Sohaib Maqsood,MM Ali,Umar Akmal,,0,6,6,,,,354523545
+2,Pakistan,9,Umar Akmal,SD Parry,Sohaib Maqsood,,0,2,2,,,,354523545
+2,Pakistan,9,Umar Akmal,SD Parry,Sohaib Maqsood,,0,0,0,,,,354523545
+2,Pakistan,9,Umar Akmal,SD Parry,Sohaib Maqsood,,0,1,1,,,,354523545
+2,Pakistan,9,Sohaib Maqsood,SD Parry,Umar Akmal,,0,1,1,,,,354523545
+2,Pakistan,9,Umar Akmal,SD Parry,Sohaib Maqsood,,0,0,0,,,,354523545
+2,Pakistan,9,Umar Akmal,SD Parry,Sohaib Maqsood,,0,0,0,,,,354523545
+2,Pakistan,10,Sohaib Maqsood,MM Ali,Umar Akmal,,0,1,1,,,,354523545
+2,Pakistan,10,Umar Akmal,MM Ali,Sohaib Maqsood,,0,4,4,,,,354523545
+2,Pakistan,10,Umar Akmal,MM Ali,Sohaib Maqsood,,0,1,1,,,,354523545
+2,Pakistan,10,Sohaib Maqsood,MM Ali,Umar Akmal,,0,0,0,,,,354523545
+2,Pakistan,10,Sohaib Maqsood,MM Ali,Umar Akmal,,0,1,1,,,,354523545
+2,Pakistan,10,Umar Akmal,MM Ali,Sohaib Maqsood,,0,1,1,,,,354523545
+2,Pakistan,11,Umar Akmal,SD Parry,Sohaib Maqsood,,0,6,6,,,,354523545
+2,Pakistan,11,Umar Akmal,SD Parry,Sohaib Maqsood,,0,0,0,run out,Umar Akmal,SW Billings,354523545
+2,Pakistan,11,Shahid Afridi,SD Parry,Sohaib Maqsood,,0,0,0,,,,354523545
+2,Pakistan,11,Shahid Afridi,SD Parry,Sohaib Maqsood,,0,0,0,caught,Shahid Afridi,JJ Roy,354523545
+2,Pakistan,11,Anwar Ali,SD Parry,Sohaib Maqsood,,0,0,0,,,,354523545
+2,Pakistan,11,Anwar Ali,SD Parry,Sohaib Maqsood,,0,0,0,,,,354523545
+2,Pakistan,12,Sohaib Maqsood,MM Ali,Anwar Ali,wides,1,1,0,stumped,Sohaib Maqsood,SW Billings,354523545
+2,Pakistan,12,Sohail Tanvir,MM Ali,Anwar Ali,,0,0,0,,,,354523545
+2,Pakistan,12,Sohail Tanvir,MM Ali,Anwar Ali,,0,1,1,,,,354523545
+2,Pakistan,12,Anwar Ali,MM Ali,Sohail Tanvir,,0,0,0,,,,354523545
+2,Pakistan,12,Anwar Ali,MM Ali,Sohail Tanvir,,0,1,1,,,,354523545
+2,Pakistan,12,Sohail Tanvir,MM Ali,Anwar Ali,,0,0,0,,,,354523545
+2,Pakistan,12,Sohail Tanvir,MM Ali,Anwar Ali,,0,2,2,,,,354523545
+2,Pakistan,13,Anwar Ali,SD Parry,Sohail Tanvir,,0,0,0,,,,354523545
+2,Pakistan,13,Anwar Ali,SD Parry,Sohail Tanvir,,0,2,2,,,,354523545
+2,Pakistan,13,Anwar Ali,SD Parry,Sohail Tanvir,,0,6,6,,,,354523545
+2,Pakistan,13,Anwar Ali,SD Parry,Sohail Tanvir,,0,1,1,,,,354523545
+2,Pakistan,13,Sohail Tanvir,SD Parry,Anwar Ali,,0,1,1,,,,354523545
+2,Pakistan,13,Anwar Ali,SD Parry,Sohail Tanvir,,0,6,6,,,,354523545
+2,Pakistan,14,Sohail Tanvir,LE Plunkett,Anwar Ali,,0,1,1,,,,354523545
+2,Pakistan,14,Anwar Ali,LE Plunkett,Sohail Tanvir,,0,2,2,,,,354523545
+2,Pakistan,14,Anwar Ali,LE Plunkett,Sohail Tanvir,,0,0,0,,,,354523545
+2,Pakistan,14,Anwar Ali,LE Plunkett,Sohail Tanvir,,0,0,0,,,,354523545
+2,Pakistan,14,Anwar Ali,LE Plunkett,Sohail Tanvir,,0,2,2,,,,354523545
+2,Pakistan,14,Anwar Ali,LE Plunkett,Sohail Tanvir,,0,0,0,caught,Anwar Ali,EJG Morgan,354523545
+2,Pakistan,15,Sohail Tanvir,CJ Jordan,Wahab Riaz,,0,4,4,,,,354523545
+2,Pakistan,15,Sohail Tanvir,CJ Jordan,Wahab Riaz,,0,4,4,,,,354523545
+2,Pakistan,15,Sohail Tanvir,CJ Jordan,Wahab Riaz,,0,0,0,,,,354523545
+2,Pakistan,15,Sohail Tanvir,CJ Jordan,Wahab Riaz,wides,1,1,0,,,,354523545
+2,Pakistan,15,Sohail Tanvir,CJ Jordan,Wahab Riaz,wides,1,1,0,,,,354523545
+2,Pakistan,15,Sohail Tanvir,CJ Jordan,Wahab Riaz,,0,1,1,,,,354523545
+2,Pakistan,15,Wahab Riaz,CJ Jordan,Sohail Tanvir,,0,1,1,,,,354523545
+2,Pakistan,15,Sohail Tanvir,CJ Jordan,Wahab Riaz,,0,2,2,,,,354523545
+2,Pakistan,16,Wahab Riaz,LE Plunkett,Sohail Tanvir,,0,4,4,,,,354523545
+2,Pakistan,16,Wahab Riaz,LE Plunkett,Sohail Tanvir,,0,1,1,,,,354523545
+2,Pakistan,16,Sohail Tanvir,LE Plunkett,Wahab Riaz,,0,0,0,,,,354523545
+2,Pakistan,16,Sohail Tanvir,LE Plunkett,Wahab Riaz,,0,0,0,,,,354523545
+2,Pakistan,16,Sohail Tanvir,LE Plunkett,Wahab Riaz,legbyes,1,1,0,,,,354523545
+2,Pakistan,16,Wahab Riaz,LE Plunkett,Sohail Tanvir,,0,1,1,,,,354523545
+2,Pakistan,17,Wahab Riaz,RJW Topley,Sohail Tanvir,,0,0,0,,,,354523545
+2,Pakistan,17,Wahab Riaz,RJW Topley,Sohail Tanvir,,0,1,1,,,,354523545
+2,Pakistan,17,Sohail Tanvir,RJW Topley,Wahab Riaz,,0,6,6,,,,354523545
+2,Pakistan,17,Sohail Tanvir,RJW Topley,Wahab Riaz,wides,1,1,0,,,,354523545
+2,Pakistan,17,Sohail Tanvir,RJW Topley,Wahab Riaz,,0,0,0,,,,354523545
+2,Pakistan,17,Sohail Tanvir,RJW Topley,Wahab Riaz,,0,0,0,,,,354523545
+2,Pakistan,17,Sohail Tanvir,RJW Topley,Wahab Riaz,wides,1,1,0,,,,354523545
+2,Pakistan,17,Sohail Tanvir,RJW Topley,Wahab Riaz,,0,1,1,,,,354523545
+2,Pakistan,18,Sohail Tanvir,CJ Jordan,Wahab Riaz,,0,0,0,,,,354523545
+2,Pakistan,18,Sohail Tanvir,CJ Jordan,Wahab Riaz,,0,1,1,,,,354523545
+2,Pakistan,18,Wahab Riaz,CJ Jordan,Sohail Tanvir,,0,0,0,,,,354523545
+2,Pakistan,18,Wahab Riaz,CJ Jordan,Sohail Tanvir,,0,4,4,,,,354523545
+2,Pakistan,18,Wahab Riaz,CJ Jordan,Sohail Tanvir,,0,4,4,,,,354523545
+2,Pakistan,18,Wahab Riaz,CJ Jordan,Sohail Tanvir,,0,1,1,,,,354523545
+2,Pakistan,19,Wahab Riaz,RJW Topley,Sohail Tanvir,,0,0,0,,,,354523545
+2,Pakistan,19,Wahab Riaz,RJW Topley,Sohail Tanvir,,0,4,4,,,,354523545
+2,Pakistan,19,Wahab Riaz,RJW Topley,Sohail Tanvir,,0,0,0,caught,Wahab Riaz,MM Ali,354523545
+2,Pakistan,19,Sohail Tanvir,RJW Topley,Imran Khan (1),,0,0,0,,,,354523545
+2,Pakistan,19,Sohail Tanvir,RJW Topley,Imran Khan (1),,0,1,1,,,,354523545
+2,Pakistan,19,Imran Khan (1),RJW Topley,Sohail Tanvir,,0,0,0,caught,Imran Khan (1),SW Billings,354523545

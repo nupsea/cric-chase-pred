@@ -1,0 +1,110 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Uganda,0,S Sesazi,SO Ngoche,Saud Islam,,0,0,0,,,,31871231871
+2,Uganda,0,S Sesazi,SO Ngoche,Saud Islam,,0,0,0,,,,31871231871
+2,Uganda,0,S Sesazi,SO Ngoche,Saud Islam,,0,1,1,,,,31871231871
+2,Uganda,0,Saud Islam,SO Ngoche,S Sesazi,,0,0,0,,,,31871231871
+2,Uganda,0,Saud Islam,SO Ngoche,S Sesazi,,0,0,0,,,,31871231871
+2,Uganda,0,Saud Islam,SO Ngoche,S Sesazi,,0,4,4,,,,31871231871
+2,Uganda,1,S Sesazi,E Otieno,Saud Islam,,0,1,1,,,,31871231871
+2,Uganda,1,Saud Islam,E Otieno,S Sesazi,,0,0,0,,,,31871231871
+2,Uganda,1,Saud Islam,E Otieno,S Sesazi,,0,0,0,,,,31871231871
+2,Uganda,1,Saud Islam,E Otieno,S Sesazi,noballs,2,2,0,,,,31871231871
+2,Uganda,1,S Sesazi,E Otieno,Saud Islam,,0,0,0,,,,31871231871
+2,Uganda,1,S Sesazi,E Otieno,Saud Islam,,0,0,0,,,,31871231871
+2,Uganda,1,S Sesazi,E Otieno,Saud Islam,,0,0,0,,,,31871231871
+2,Uganda,2,Saud Islam,SO Ngoche,S Sesazi,,0,1,1,,,,31871231871
+2,Uganda,2,S Sesazi,SO Ngoche,Saud Islam,,0,0,0,,,,31871231871
+2,Uganda,2,S Sesazi,SO Ngoche,Saud Islam,,0,4,4,,,,31871231871
+2,Uganda,2,S Sesazi,SO Ngoche,Saud Islam,,0,0,0,,,,31871231871
+2,Uganda,2,S Sesazi,SO Ngoche,Saud Islam,,0,0,0,,,,31871231871
+2,Uganda,2,S Sesazi,SO Ngoche,Saud Islam,,0,0,0,,,,31871231871
+2,Uganda,3,Saud Islam,E Otieno,S Sesazi,,0,4,4,,,,31871231871
+2,Uganda,3,Saud Islam,E Otieno,S Sesazi,,0,4,4,,,,31871231871
+2,Uganda,3,Saud Islam,E Otieno,S Sesazi,,0,0,0,caught,Saud Islam,EB Ringera,31871231871
+2,Uganda,3,RB Patel,E Otieno,S Sesazi,,0,0,0,,,,31871231871
+2,Uganda,3,RB Patel,E Otieno,S Sesazi,,0,1,1,,,,31871231871
+2,Uganda,3,S Sesazi,E Otieno,RB Patel,,0,0,0,,,,31871231871
+2,Uganda,4,RB Patel,Vraj Patel,S Sesazi,,0,0,0,,,,31871231871
+2,Uganda,4,RB Patel,Vraj Patel,S Sesazi,,0,0,0,run out,RB Patel,NN Odhiambo,31871231871
+2,Uganda,4,S Sesazi,Vraj Patel,D Muhumuza,,0,0,0,,,,31871231871
+2,Uganda,4,S Sesazi,Vraj Patel,D Muhumuza,,0,1,1,,,,31871231871
+2,Uganda,4,D Muhumuza,Vraj Patel,S Sesazi,,0,0,0,,,,31871231871
+2,Uganda,4,D Muhumuza,Vraj Patel,S Sesazi,,0,0,0,,,,31871231871
+2,Uganda,5,S Sesazi,NN Odhiambo,D Muhumuza,,0,0,0,,,,31871231871
+2,Uganda,5,S Sesazi,NN Odhiambo,D Muhumuza,,0,0,0,,,,31871231871
+2,Uganda,5,S Sesazi,NN Odhiambo,D Muhumuza,,0,0,0,,,,31871231871
+2,Uganda,5,S Sesazi,NN Odhiambo,D Muhumuza,,0,4,4,,,,31871231871
+2,Uganda,5,S Sesazi,NN Odhiambo,D Muhumuza,,0,0,0,,,,31871231871
+2,Uganda,5,S Sesazi,NN Odhiambo,D Muhumuza,,0,6,6,,,,31871231871
+2,Uganda,6,D Muhumuza,Vraj Patel,S Sesazi,,0,0,0,,,,31871231871
+2,Uganda,6,D Muhumuza,Vraj Patel,S Sesazi,,0,1,1,,,,31871231871
+2,Uganda,6,S Sesazi,Vraj Patel,D Muhumuza,,0,0,0,,,,31871231871
+2,Uganda,6,S Sesazi,Vraj Patel,D Muhumuza,,0,1,1,,,,31871231871
+2,Uganda,6,D Muhumuza,Vraj Patel,S Sesazi,,0,1,1,,,,31871231871
+2,Uganda,6,S Sesazi,Vraj Patel,D Muhumuza,,0,0,0,,,,31871231871
+2,Uganda,7,D Muhumuza,RR Patel,S Sesazi,,0,1,1,,,,31871231871
+2,Uganda,7,S Sesazi,RR Patel,D Muhumuza,,0,0,0,caught,S Sesazi,AA Obanda,31871231871
+2,Uganda,7,Riazat Ali Shah,RR Patel,D Muhumuza,,0,0,0,,,,31871231871
+2,Uganda,7,Riazat Ali Shah,RR Patel,D Muhumuza,,0,1,1,,,,31871231871
+2,Uganda,7,D Muhumuza,RR Patel,Riazat Ali Shah,,0,0,0,,,,31871231871
+2,Uganda,7,D Muhumuza,RR Patel,Riazat Ali Shah,,0,1,1,,,,31871231871
+2,Uganda,8,D Muhumuza,Vraj Patel,Riazat Ali Shah,,0,1,1,,,,31871231871
+2,Uganda,8,Riazat Ali Shah,Vraj Patel,D Muhumuza,,0,0,0,,,,31871231871
+2,Uganda,8,Riazat Ali Shah,Vraj Patel,D Muhumuza,,0,1,1,,,,31871231871
+2,Uganda,8,D Muhumuza,Vraj Patel,Riazat Ali Shah,,0,1,1,,,,31871231871
+2,Uganda,8,Riazat Ali Shah,Vraj Patel,D Muhumuza,,0,0,0,,,,31871231871
+2,Uganda,8,Riazat Ali Shah,Vraj Patel,D Muhumuza,,0,0,0,,,,31871231871
+2,Uganda,9,D Muhumuza,RR Patel,Riazat Ali Shah,,0,1,1,,,,31871231871
+2,Uganda,9,Riazat Ali Shah,RR Patel,D Muhumuza,,0,6,6,,,,31871231871
+2,Uganda,9,Riazat Ali Shah,RR Patel,D Muhumuza,,0,1,1,,,,31871231871
+2,Uganda,9,D Muhumuza,RR Patel,Riazat Ali Shah,,0,0,0,bowled,D Muhumuza,,31871231871
+2,Uganda,9,DM Nakrani,RR Patel,Riazat Ali Shah,,0,0,0,,,,31871231871
+2,Uganda,9,DM Nakrani,RR Patel,Riazat Ali Shah,,0,1,1,,,,31871231871
+2,Uganda,10,DM Nakrani,Vraj Patel,Riazat Ali Shah,,0,0,0,,,,31871231871
+2,Uganda,10,DM Nakrani,Vraj Patel,Riazat Ali Shah,wides,1,1,0,,,,31871231871
+2,Uganda,10,DM Nakrani,Vraj Patel,Riazat Ali Shah,byes,4,4,0,,,,31871231871
+2,Uganda,10,DM Nakrani,Vraj Patel,Riazat Ali Shah,,0,0,0,,,,31871231871
+2,Uganda,10,DM Nakrani,Vraj Patel,Riazat Ali Shah,,0,0,0,,,,31871231871
+2,Uganda,10,DM Nakrani,Vraj Patel,Riazat Ali Shah,,0,0,0,,,,31871231871
+2,Uganda,10,DM Nakrani,Vraj Patel,Riazat Ali Shah,,0,0,0,,,,31871231871
+2,Uganda,11,Riazat Ali Shah,RR Patel,DM Nakrani,,0,0,0,,,,31871231871
+2,Uganda,11,Riazat Ali Shah,RR Patel,DM Nakrani,,0,0,0,,,,31871231871
+2,Uganda,11,Riazat Ali Shah,RR Patel,DM Nakrani,,0,0,0,,,,31871231871
+2,Uganda,11,Riazat Ali Shah,RR Patel,DM Nakrani,,0,4,4,,,,31871231871
+2,Uganda,11,Riazat Ali Shah,RR Patel,DM Nakrani,,0,1,1,,,,31871231871
+2,Uganda,11,DM Nakrani,RR Patel,Riazat Ali Shah,,0,0,0,,,,31871231871
+2,Uganda,12,Riazat Ali Shah,SO Ngoche,DM Nakrani,,0,0,0,,,,31871231871
+2,Uganda,12,Riazat Ali Shah,SO Ngoche,DM Nakrani,,0,1,1,,,,31871231871
+2,Uganda,12,DM Nakrani,SO Ngoche,Riazat Ali Shah,,0,1,1,,,,31871231871
+2,Uganda,12,Riazat Ali Shah,SO Ngoche,DM Nakrani,,0,1,1,,,,31871231871
+2,Uganda,12,DM Nakrani,SO Ngoche,Riazat Ali Shah,,0,0,0,,,,31871231871
+2,Uganda,12,DM Nakrani,SO Ngoche,Riazat Ali Shah,,0,0,0,,,,31871231871
+2,Uganda,13,Riazat Ali Shah,CO Obuya,DM Nakrani,,0,0,0,,,,31871231871
+2,Uganda,13,Riazat Ali Shah,CO Obuya,DM Nakrani,,0,1,1,,,,31871231871
+2,Uganda,13,DM Nakrani,CO Obuya,Riazat Ali Shah,,0,1,1,,,,31871231871
+2,Uganda,13,Riazat Ali Shah,CO Obuya,DM Nakrani,,0,1,1,,,,31871231871
+2,Uganda,13,DM Nakrani,CO Obuya,Riazat Ali Shah,,0,6,6,,,,31871231871
+2,Uganda,13,DM Nakrani,CO Obuya,Riazat Ali Shah,,0,0,0,,,,31871231871
+2,Uganda,14,Riazat Ali Shah,SO Ngoche,DM Nakrani,,0,1,1,,,,31871231871
+2,Uganda,14,DM Nakrani,SO Ngoche,Riazat Ali Shah,,0,1,1,,,,31871231871
+2,Uganda,14,Riazat Ali Shah,SO Ngoche,DM Nakrani,,0,6,6,,,,31871231871
+2,Uganda,14,Riazat Ali Shah,SO Ngoche,DM Nakrani,,0,4,4,,,,31871231871
+2,Uganda,14,Riazat Ali Shah,SO Ngoche,DM Nakrani,,0,2,2,,,,31871231871
+2,Uganda,14,Riazat Ali Shah,SO Ngoche,DM Nakrani,,0,1,1,,,,31871231871
+2,Uganda,15,Riazat Ali Shah,E Otieno,DM Nakrani,,0,2,2,,,,31871231871
+2,Uganda,15,Riazat Ali Shah,E Otieno,DM Nakrani,,0,1,1,,,,31871231871
+2,Uganda,15,DM Nakrani,E Otieno,Riazat Ali Shah,,0,1,1,,,,31871231871
+2,Uganda,15,Riazat Ali Shah,E Otieno,DM Nakrani,,0,1,1,,,,31871231871
+2,Uganda,15,DM Nakrani,E Otieno,Riazat Ali Shah,,0,1,1,,,,31871231871
+2,Uganda,15,Riazat Ali Shah,E Otieno,DM Nakrani,,0,4,4,,,,31871231871
+2,Uganda,16,DM Nakrani,NN Odhiambo,Riazat Ali Shah,,0,1,1,,,,31871231871
+2,Uganda,16,Riazat Ali Shah,NN Odhiambo,DM Nakrani,,0,1,1,,,,31871231871
+2,Uganda,16,DM Nakrani,NN Odhiambo,Riazat Ali Shah,,0,1,1,,,,31871231871
+2,Uganda,16,Riazat Ali Shah,NN Odhiambo,DM Nakrani,,0,1,1,,,,31871231871
+2,Uganda,16,DM Nakrani,NN Odhiambo,Riazat Ali Shah,,0,0,0,,,,31871231871
+2,Uganda,16,DM Nakrani,NN Odhiambo,Riazat Ali Shah,,0,2,2,,,,31871231871
+2,Uganda,17,Riazat Ali Shah,E Otieno,DM Nakrani,,0,1,1,,,,31871231871
+2,Uganda,17,DM Nakrani,E Otieno,Riazat Ali Shah,,0,2,2,,,,31871231871
+2,Uganda,17,DM Nakrani,E Otieno,Riazat Ali Shah,,0,6,6,,,,31871231871
+2,Uganda,17,DM Nakrani,E Otieno,Riazat Ali Shah,,0,4,4,,,,31871231871
+2,Uganda,17,DM Nakrani,E Otieno,Riazat Ali Shah,wides,1,1,0,,,,31871231871

@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Namibia,0,CG Williams,DT Tiripano,D la Cock,,0,3,3,,,,32018232018
+1,Namibia,0,D la Cock,DT Tiripano,CG Williams,,0,0,0,,,,32018232018
+1,Namibia,0,D la Cock,DT Tiripano,CG Williams,,0,0,0,,,,32018232018
+1,Namibia,0,D la Cock,DT Tiripano,CG Williams,,0,0,0,,,,32018232018
+1,Namibia,0,D la Cock,DT Tiripano,CG Williams,,0,4,4,,,,32018232018
+1,Namibia,0,D la Cock,DT Tiripano,CG Williams,,0,0,0,,,,32018232018
+1,Namibia,1,CG Williams,TL Chatara,D la Cock,,0,0,0,,,,32018232018
+1,Namibia,1,CG Williams,TL Chatara,D la Cock,,0,0,0,,,,32018232018
+1,Namibia,1,CG Williams,TL Chatara,D la Cock,,0,0,0,bowled,CG Williams,,32018232018
+1,Namibia,1,JN Loftie-Eaton,TL Chatara,D la Cock,,0,0,0,,,,32018232018
+1,Namibia,1,JN Loftie-Eaton,TL Chatara,D la Cock,,0,4,4,,,,32018232018
+1,Namibia,1,JN Loftie-Eaton,TL Chatara,D la Cock,,0,0,0,,,,32018232018
+1,Namibia,2,D la Cock,DT Tiripano,JN Loftie-Eaton,wides,1,1,0,,,,32018232018
+1,Namibia,2,D la Cock,DT Tiripano,JN Loftie-Eaton,,0,0,0,,,,32018232018
+1,Namibia,2,D la Cock,DT Tiripano,JN Loftie-Eaton,,0,4,4,,,,32018232018
+1,Namibia,2,D la Cock,DT Tiripano,JN Loftie-Eaton,,0,1,1,,,,32018232018
+1,Namibia,2,JN Loftie-Eaton,DT Tiripano,D la Cock,,0,1,1,,,,32018232018
+1,Namibia,2,D la Cock,DT Tiripano,JN Loftie-Eaton,,0,1,1,,,,32018232018
+1,Namibia,2,JN Loftie-Eaton,DT Tiripano,D la Cock,,0,0,0,,,,32018232018
+1,Namibia,3,D la Cock,TL Chatara,JN Loftie-Eaton,,0,4,4,,,,32018232018
+1,Namibia,3,D la Cock,TL Chatara,JN Loftie-Eaton,,0,0,0,,,,32018232018
+1,Namibia,3,D la Cock,TL Chatara,JN Loftie-Eaton,byes,3,3,0,,,,32018232018
+1,Namibia,3,JN Loftie-Eaton,TL Chatara,D la Cock,,0,1,1,,,,32018232018
+1,Namibia,3,D la Cock,TL Chatara,JN Loftie-Eaton,,0,0,0,lbw,D la Cock,,32018232018
+1,Namibia,3,MG Erasmus,TL Chatara,JN Loftie-Eaton,,0,0,0,,,,32018232018
+1,Namibia,4,JN Loftie-Eaton,B Evans,MG Erasmus,,0,0,0,,,,32018232018
+1,Namibia,4,JN Loftie-Eaton,B Evans,MG Erasmus,,0,0,0,,,,32018232018
+1,Namibia,4,JN Loftie-Eaton,B Evans,MG Erasmus,,0,1,1,,,,32018232018
+1,Namibia,4,MG Erasmus,B Evans,JN Loftie-Eaton,,0,0,0,,,,32018232018
+1,Namibia,4,MG Erasmus,B Evans,JN Loftie-Eaton,,0,0,0,,,,32018232018
+1,Namibia,4,MG Erasmus,B Evans,JN Loftie-Eaton,,0,0,0,,,,32018232018
+1,Namibia,5,JN Loftie-Eaton,LM Jongwe,MG Erasmus,,0,0,0,,,,32018232018
+1,Namibia,5,JN Loftie-Eaton,LM Jongwe,MG Erasmus,,0,2,2,,,,32018232018
+1,Namibia,5,JN Loftie-Eaton,LM Jongwe,MG Erasmus,,0,2,2,,,,32018232018
+1,Namibia,5,JN Loftie-Eaton,LM Jongwe,MG Erasmus,,0,2,2,,,,32018232018
+1,Namibia,5,JN Loftie-Eaton,LM Jongwe,MG Erasmus,,0,4,4,,,,32018232018
+1,Namibia,5,JN Loftie-Eaton,LM Jongwe,MG Erasmus,,0,4,4,,,,32018232018
+1,Namibia,6,MG Erasmus,B Evans,JN Loftie-Eaton,wides,1,1,0,,,,32018232018
+1,Namibia,6,MG Erasmus,B Evans,JN Loftie-Eaton,,0,1,1,,,,32018232018
+1,Namibia,6,JN Loftie-Eaton,B Evans,MG Erasmus,,0,1,1,,,,32018232018
+1,Namibia,6,MG Erasmus,B Evans,JN Loftie-Eaton,,0,0,0,,,,32018232018
+1,Namibia,6,MG Erasmus,B Evans,JN Loftie-Eaton,,0,1,1,,,,32018232018
+1,Namibia,6,JN Loftie-Eaton,B Evans,MG Erasmus,,0,1,1,,,,32018232018
+1,Namibia,6,MG Erasmus,B Evans,JN Loftie-Eaton,,0,1,1,,,,32018232018
+1,Namibia,7,MG Erasmus,B Mavuta,JN Loftie-Eaton,,0,1,1,,,,32018232018
+1,Namibia,7,JN Loftie-Eaton,B Mavuta,MG Erasmus,,0,2,2,,,,32018232018
+1,Namibia,7,JN Loftie-Eaton,B Mavuta,MG Erasmus,,0,1,1,,,,32018232018
+1,Namibia,7,MG Erasmus,B Mavuta,JN Loftie-Eaton,,0,0,0,,,,32018232018
+1,Namibia,7,MG Erasmus,B Mavuta,JN Loftie-Eaton,,0,1,1,,,,32018232018
+1,Namibia,7,JN Loftie-Eaton,B Mavuta,MG Erasmus,,0,1,1,,,,32018232018
+1,Namibia,8,JN Loftie-Eaton,W Madhevere,MG Erasmus,,0,1,1,,,,32018232018
+1,Namibia,8,MG Erasmus,W Madhevere,JN Loftie-Eaton,,0,1,1,,,,32018232018
+1,Namibia,8,JN Loftie-Eaton,W Madhevere,MG Erasmus,byes,4,4,0,,,,32018232018
+1,Namibia,8,JN Loftie-Eaton,W Madhevere,MG Erasmus,,0,0,0,lbw,JN Loftie-Eaton,,32018232018
+1,Namibia,8,ZE Green,W Madhevere,MG Erasmus,,0,1,1,,,,32018232018
+1,Namibia,8,MG Erasmus,W Madhevere,ZE Green,,0,1,1,,,,32018232018
+1,Namibia,9,MG Erasmus,B Mavuta,ZE Green,,0,1,1,,,,32018232018
+1,Namibia,9,ZE Green,B Mavuta,MG Erasmus,,0,4,4,,,,32018232018
+1,Namibia,9,ZE Green,B Mavuta,MG Erasmus,,0,1,1,,,,32018232018
+1,Namibia,9,MG Erasmus,B Mavuta,ZE Green,,0,0,0,,,,32018232018
+1,Namibia,9,MG Erasmus,B Mavuta,ZE Green,,0,0,0,,,,32018232018
+1,Namibia,9,MG Erasmus,B Mavuta,ZE Green,,0,0,0,,,,32018232018
+1,Namibia,10,ZE Green,W Madhevere,MG Erasmus,,0,1,1,,,,32018232018
+1,Namibia,10,MG Erasmus,W Madhevere,ZE Green,,0,1,1,,,,32018232018
+1,Namibia,10,ZE Green,W Madhevere,MG Erasmus,,0,1,1,,,,32018232018
+1,Namibia,10,MG Erasmus,W Madhevere,ZE Green,,0,0,0,,,,32018232018
+1,Namibia,10,MG Erasmus,W Madhevere,ZE Green,,0,1,1,,,,32018232018
+1,Namibia,10,ZE Green,W Madhevere,MG Erasmus,,0,0,0,,,,32018232018
+1,Namibia,11,MG Erasmus,LM Jongwe,ZE Green,wides,1,1,0,,,,32018232018
+1,Namibia,11,MG Erasmus,LM Jongwe,ZE Green,,0,1,1,,,,32018232018
+1,Namibia,11,ZE Green,LM Jongwe,MG Erasmus,,0,2,2,,,,32018232018
+1,Namibia,11,ZE Green,LM Jongwe,MG Erasmus,,0,3,3,,,,32018232018
+1,Namibia,11,MG Erasmus,LM Jongwe,ZE Green,,0,1,1,,,,32018232018
+1,Namibia,11,ZE Green,LM Jongwe,MG Erasmus,,0,0,0,,,,32018232018
+1,Namibia,11,ZE Green,LM Jongwe,MG Erasmus,,0,1,1,,,,32018232018
+1,Namibia,12,ZE Green,Sikandar Raza,MG Erasmus,,0,1,1,,,,32018232018
+1,Namibia,12,MG Erasmus,Sikandar Raza,ZE Green,,0,0,0,,,,32018232018
+1,Namibia,12,MG Erasmus,Sikandar Raza,ZE Green,,0,1,1,,,,32018232018
+1,Namibia,12,ZE Green,Sikandar Raza,MG Erasmus,,0,2,2,,,,32018232018
+1,Namibia,12,ZE Green,Sikandar Raza,MG Erasmus,,0,1,1,,,,32018232018
+1,Namibia,12,MG Erasmus,Sikandar Raza,ZE Green,,0,1,1,,,,32018232018
+1,Namibia,13,MG Erasmus,B Evans,ZE Green,,0,1,1,,,,32018232018
+1,Namibia,13,ZE Green,B Evans,MG Erasmus,,0,1,1,,,,32018232018
+1,Namibia,13,MG Erasmus,B Evans,ZE Green,,0,4,4,,,,32018232018
+1,Namibia,13,MG Erasmus,B Evans,ZE Green,,0,1,1,,,,32018232018
+1,Namibia,13,ZE Green,B Evans,MG Erasmus,,0,1,1,,,,32018232018
+1,Namibia,13,MG Erasmus,B Evans,ZE Green,,0,1,1,,,,32018232018
+1,Namibia,14,MG Erasmus,Sikandar Raza,ZE Green,,0,2,2,,,,32018232018
+1,Namibia,14,MG Erasmus,Sikandar Raza,ZE Green,,0,1,1,,,,32018232018
+1,Namibia,14,ZE Green,Sikandar Raza,MG Erasmus,,0,0,0,,,,32018232018
+1,Namibia,14,ZE Green,Sikandar Raza,MG Erasmus,,0,0,0,,,,32018232018
+1,Namibia,14,ZE Green,Sikandar Raza,MG Erasmus,,0,0,0,caught,ZE Green,RW Chakabva,32018232018
+1,Namibia,14,D Wiese,Sikandar Raza,MG Erasmus,,0,0,0,,,,32018232018
+1,Namibia,15,MG Erasmus,DT Tiripano,D Wiese,,0,1,1,,,,32018232018
+1,Namibia,15,D Wiese,DT Tiripano,MG Erasmus,,0,0,0,run out,MG Erasmus,Sikandar Raza,32018232018
+1,Namibia,15,D Wiese,DT Tiripano,R Trumpelmann,,0,0,0,,,,32018232018
+1,Namibia,15,D Wiese,DT Tiripano,R Trumpelmann,,0,0,0,,,,32018232018
+1,Namibia,15,D Wiese,DT Tiripano,R Trumpelmann,,0,1,1,,,,32018232018
+1,Namibia,15,R Trumpelmann,DT Tiripano,D Wiese,,0,1,1,,,,32018232018
+1,Namibia,16,R Trumpelmann,Sikandar Raza,D Wiese,,0,1,1,,,,32018232018
+1,Namibia,16,D Wiese,Sikandar Raza,R Trumpelmann,,0,1,1,,,,32018232018
+1,Namibia,16,R Trumpelmann,Sikandar Raza,D Wiese,,0,1,1,,,,32018232018
+1,Namibia,16,D Wiese,Sikandar Raza,R Trumpelmann,,0,0,0,,,,32018232018
+1,Namibia,16,D Wiese,Sikandar Raza,R Trumpelmann,,0,1,1,,,,32018232018
+1,Namibia,16,R Trumpelmann,Sikandar Raza,D Wiese,,0,0,0,caught,R Trumpelmann,RW Chakabva,32018232018
+1,Namibia,17,D Wiese,TL Chatara,JN Frylinck,,0,1,1,,,,32018232018
+1,Namibia,17,JN Frylinck,TL Chatara,D Wiese,,0,1,1,,,,32018232018
+1,Namibia,17,D Wiese,TL Chatara,JN Frylinck,,0,6,6,,,,32018232018
+1,Namibia,17,D Wiese,TL Chatara,JN Frylinck,,0,0,0,,,,32018232018
+1,Namibia,17,D Wiese,TL Chatara,JN Frylinck,,0,0,0,caught,D Wiese,W Madhevere,32018232018
+1,Namibia,17,JN Frylinck,TL Chatara,HN Ya France,wides,1,1,0,,,,32018232018
+1,Namibia,17,JN Frylinck,TL Chatara,HN Ya France,,0,2,2,,,,32018232018
+1,Namibia,18,HN Ya France,Sikandar Raza,JN Frylinck,,0,0,0,,,,32018232018
+1,Namibia,18,HN Ya France,Sikandar Raza,JN Frylinck,,0,1,1,,,,32018232018
+1,Namibia,18,JN Frylinck,Sikandar Raza,HN Ya France,,0,0,0,,,,32018232018
+1,Namibia,18,JN Frylinck,Sikandar Raza,HN Ya France,,0,1,1,,,,32018232018
+1,Namibia,18,HN Ya France,Sikandar Raza,JN Frylinck,,0,0,0,caught,HN Ya France,T Munyonga,32018232018
+1,Namibia,18,JN Frylinck,Sikandar Raza,BM Scholtz,,0,1,1,,,,32018232018
+1,Namibia,19,JN Frylinck,TL Chatara,BM Scholtz,,0,1,1,,,,32018232018
+1,Namibia,19,BM Scholtz,TL Chatara,JN Frylinck,,0,1,1,,,,32018232018
+1,Namibia,19,JN Frylinck,TL Chatara,BM Scholtz,,0,1,1,,,,32018232018
+1,Namibia,19,BM Scholtz,TL Chatara,JN Frylinck,,0,0,0,,,,32018232018
+1,Namibia,19,BM Scholtz,TL Chatara,JN Frylinck,,0,4,4,,,,32018232018
+1,Namibia,19,BM Scholtz,TL Chatara,JN Frylinck,,0,1,1,,,,32018232018

@@ -1,0 +1,107 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,England,0,LJ Wright,MA Starc,AD Hales,,0,1,1,,,,334923349
+2,England,0,AD Hales,MA Starc,LJ Wright,,0,0,0,,,,334923349
+2,England,0,AD Hales,MA Starc,LJ Wright,,0,0,0,,,,334923349
+2,England,0,AD Hales,MA Starc,LJ Wright,,0,1,1,,,,334923349
+2,England,0,LJ Wright,MA Starc,AD Hales,,0,2,2,,,,334923349
+2,England,0,LJ Wright,MA Starc,AD Hales,,0,1,1,,,,334923349
+2,England,1,LJ Wright,NM Coulter-Nile,AD Hales,,0,0,0,,,,334923349
+2,England,1,LJ Wright,NM Coulter-Nile,AD Hales,,0,0,0,,,,334923349
+2,England,1,LJ Wright,NM Coulter-Nile,AD Hales,,0,0,0,,,,334923349
+2,England,1,LJ Wright,NM Coulter-Nile,AD Hales,,0,0,0,,,,334923349
+2,England,1,LJ Wright,NM Coulter-Nile,AD Hales,,0,0,0,,,,334923349
+2,England,1,LJ Wright,NM Coulter-Nile,AD Hales,,0,4,4,,,,334923349
+2,England,2,AD Hales,MA Starc,LJ Wright,wides,1,1,0,,,,334923349
+2,England,2,AD Hales,MA Starc,LJ Wright,,0,0,0,,,,334923349
+2,England,2,AD Hales,MA Starc,LJ Wright,,0,1,1,,,,334923349
+2,England,2,LJ Wright,MA Starc,AD Hales,,0,0,0,,,,334923349
+2,England,2,LJ Wright,MA Starc,AD Hales,,0,0,0,,,,334923349
+2,England,2,LJ Wright,MA Starc,AD Hales,,0,0,0,caught,LJ Wright,BCJ Cutting,334923349
+2,England,2,BA Stokes,MA Starc,AD Hales,legbyes,4,4,0,,,,334923349
+2,England,3,AD Hales,NM Coulter-Nile,BA Stokes,,0,0,0,,,,334923349
+2,England,3,AD Hales,NM Coulter-Nile,BA Stokes,,0,4,4,,,,334923349
+2,England,3,AD Hales,NM Coulter-Nile,BA Stokes,,0,0,0,caught,AD Hales,JM Muirhead,334923349
+2,England,3,JE Root,NM Coulter-Nile,BA Stokes,,0,0,0,,,,334923349
+2,England,3,JE Root,NM Coulter-Nile,BA Stokes,,0,0,0,,,,334923349
+2,England,3,JE Root,NM Coulter-Nile,BA Stokes,,0,0,0,,,,334923349
+2,England,4,BA Stokes,GJ Maxwell,JE Root,,0,4,4,,,,334923349
+2,England,4,BA Stokes,GJ Maxwell,JE Root,,0,1,1,,,,334923349
+2,England,4,JE Root,GJ Maxwell,BA Stokes,,0,0,0,,,,334923349
+2,England,4,JE Root,GJ Maxwell,BA Stokes,,0,0,0,,,,334923349
+2,England,4,JE Root,GJ Maxwell,BA Stokes,,0,1,1,,,,334923349
+2,England,4,BA Stokes,GJ Maxwell,JE Root,,0,0,0,caught,BA Stokes,BCJ Cutting,334923349
+2,England,5,JE Root,BCJ Cutting,EJG Morgan,,0,0,0,,,,334923349
+2,England,5,JE Root,BCJ Cutting,EJG Morgan,,0,0,0,,,,334923349
+2,England,5,JE Root,BCJ Cutting,EJG Morgan,,0,4,4,,,,334923349
+2,England,5,JE Root,BCJ Cutting,EJG Morgan,,0,1,1,,,,334923349
+2,England,5,EJG Morgan,BCJ Cutting,JE Root,,0,1,1,,,,334923349
+2,England,5,JE Root,BCJ Cutting,EJG Morgan,,0,0,0,,,,334923349
+2,England,6,EJG Morgan,GJ Maxwell,JE Root,,0,2,2,,,,334923349
+2,England,6,EJG Morgan,GJ Maxwell,JE Root,,0,1,1,,,,334923349
+2,England,6,JE Root,GJ Maxwell,EJG Morgan,,0,0,0,,,,334923349
+2,England,6,JE Root,GJ Maxwell,EJG Morgan,byes,2,2,0,,,,334923349
+2,England,6,JE Root,GJ Maxwell,EJG Morgan,,0,1,1,,,,334923349
+2,England,6,EJG Morgan,GJ Maxwell,JE Root,,0,6,6,,,,334923349
+2,England,7,JE Root,DT Christian,EJG Morgan,,0,0,0,,,,334923349
+2,England,7,JE Root,DT Christian,EJG Morgan,,0,1,1,,,,334923349
+2,England,7,EJG Morgan,DT Christian,JE Root,,0,6,6,,,,334923349
+2,England,7,EJG Morgan,DT Christian,JE Root,,0,1,1,,,,334923349
+2,England,7,JE Root,DT Christian,EJG Morgan,,0,1,1,,,,334923349
+2,England,7,EJG Morgan,DT Christian,JE Root,,0,1,1,,,,334923349
+2,England,8,EJG Morgan,GJ Maxwell,JE Root,,0,4,4,,,,334923349
+2,England,8,EJG Morgan,GJ Maxwell,JE Root,,0,1,1,,,,334923349
+2,England,8,JE Root,GJ Maxwell,EJG Morgan,,0,2,2,,,,334923349
+2,England,8,JE Root,GJ Maxwell,EJG Morgan,,0,0,0,,,,334923349
+2,England,8,JE Root,GJ Maxwell,EJG Morgan,,0,0,0,,,,334923349
+2,England,8,JE Root,GJ Maxwell,EJG Morgan,,0,0,0,caught,JE Root,BCJ Cutting,334923349
+2,England,9,JC Buttler,BCJ Cutting,EJG Morgan,,0,0,0,,,,334923349
+2,England,9,JC Buttler,BCJ Cutting,EJG Morgan,,0,0,0,,,,334923349
+2,England,9,JC Buttler,BCJ Cutting,EJG Morgan,,0,1,1,,,,334923349
+2,England,9,EJG Morgan,BCJ Cutting,JC Buttler,wides,1,1,0,,,,334923349
+2,England,9,EJG Morgan,BCJ Cutting,JC Buttler,,0,1,1,,,,334923349
+2,England,9,JC Buttler,BCJ Cutting,EJG Morgan,,0,4,4,,,,334923349
+2,England,9,JC Buttler,BCJ Cutting,EJG Morgan,,0,0,0,,,,334923349
+2,England,10,EJG Morgan,GJ Maxwell,JC Buttler,,0,4,4,,,,334923349
+2,England,10,EJG Morgan,GJ Maxwell,JC Buttler,,0,0,0,,,,334923349
+2,England,10,EJG Morgan,GJ Maxwell,JC Buttler,,0,0,0,,,,334923349
+2,England,10,EJG Morgan,GJ Maxwell,JC Buttler,,0,1,1,,,,334923349
+2,England,10,JC Buttler,GJ Maxwell,EJG Morgan,,0,1,1,,,,334923349
+2,England,10,EJG Morgan,GJ Maxwell,JC Buttler,,0,2,2,,,,334923349
+2,England,11,JC Buttler,DT Christian,EJG Morgan,,0,1,1,,,,334923349
+2,England,11,EJG Morgan,DT Christian,JC Buttler,,0,1,1,,,,334923349
+2,England,11,JC Buttler,DT Christian,EJG Morgan,,0,1,1,,,,334923349
+2,England,11,EJG Morgan,DT Christian,JC Buttler,,0,0,0,,,,334923349
+2,England,11,EJG Morgan,DT Christian,JC Buttler,,0,1,1,,,,334923349
+2,England,11,JC Buttler,DT Christian,EJG Morgan,,0,0,0,caught,JC Buttler,GJ Maxwell,334923349
+2,England,12,RS Bopara,BCJ Cutting,EJG Morgan,,0,1,1,,,,334923349
+2,England,12,EJG Morgan,BCJ Cutting,RS Bopara,,0,1,1,,,,334923349
+2,England,12,RS Bopara,BCJ Cutting,EJG Morgan,,0,1,1,,,,334923349
+2,England,12,EJG Morgan,BCJ Cutting,RS Bopara,,0,0,0,caught,EJG Morgan,MA Starc,334923349
+2,England,12,TT Bresnan,BCJ Cutting,RS Bopara,,0,1,1,,,,334923349
+2,England,12,RS Bopara,BCJ Cutting,TT Bresnan,,0,1,1,,,,334923349
+2,England,13,RS Bopara,NM Coulter-Nile,TT Bresnan,,0,1,1,,,,334923349
+2,England,13,TT Bresnan,NM Coulter-Nile,RS Bopara,,0,2,2,,,,334923349
+2,England,13,TT Bresnan,NM Coulter-Nile,RS Bopara,,0,4,4,,,,334923349
+2,England,13,TT Bresnan,NM Coulter-Nile,RS Bopara,,0,1,1,,,,334923349
+2,England,13,RS Bopara,NM Coulter-Nile,TT Bresnan,,0,0,0,bowled,RS Bopara,,334923349
+2,England,13,CJ Jordan,NM Coulter-Nile,TT Bresnan,,0,0,0,,,,334923349
+2,England,14,TT Bresnan,JM Muirhead,CJ Jordan,,0,0,0,,,,334923349
+2,England,14,TT Bresnan,JM Muirhead,CJ Jordan,,0,6,6,,,,334923349
+2,England,14,TT Bresnan,JM Muirhead,CJ Jordan,,0,0,0,stumped,TT Bresnan,MS Wade,334923349
+2,England,14,SCJ Broad,JM Muirhead,CJ Jordan,,0,0,0,,,,334923349
+2,England,14,SCJ Broad,JM Muirhead,CJ Jordan,,0,1,1,,,,334923349
+2,England,14,CJ Jordan,JM Muirhead,SCJ Broad,,0,0,0,,,,334923349
+2,England,15,SCJ Broad,NM Coulter-Nile,CJ Jordan,,0,1,1,,,,334923349
+2,England,15,CJ Jordan,NM Coulter-Nile,SCJ Broad,,0,0,0,,,,334923349
+2,England,15,CJ Jordan,NM Coulter-Nile,SCJ Broad,,0,0,0,,,,334923349
+2,England,15,CJ Jordan,NM Coulter-Nile,SCJ Broad,,0,0,0,,,,334923349
+2,England,15,CJ Jordan,NM Coulter-Nile,SCJ Broad,,0,4,4,,,,334923349
+2,England,15,CJ Jordan,NM Coulter-Nile,SCJ Broad,,0,0,0,,,,334923349
+2,England,16,SCJ Broad,JM Muirhead,CJ Jordan,,0,0,0,bowled,SCJ Broad,,334923349
+2,England,16,JW Dernbach,JM Muirhead,CJ Jordan,,0,0,0,,,,334923349
+2,England,16,JW Dernbach,JM Muirhead,CJ Jordan,,0,1,1,,,,334923349
+2,England,16,CJ Jordan,JM Muirhead,JW Dernbach,,0,4,4,,,,334923349
+2,England,16,CJ Jordan,JM Muirhead,JW Dernbach,,0,0,0,,,,334923349
+2,England,16,CJ Jordan,JM Muirhead,JW Dernbach,,0,1,1,,,,334923349
+2,England,17,CJ Jordan,MA Starc,JW Dernbach,,0,0,0,,,,334923349
+2,England,17,CJ Jordan,MA Starc,JW Dernbach,,0,1,1,run out,JW Dernbach,MS Wade,334923349

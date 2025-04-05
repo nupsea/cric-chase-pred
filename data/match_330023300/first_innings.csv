@@ -1,0 +1,113 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,New Zealand,0,RJ Nicol,R McLaren,PG Fulton,,0,0,0,,,,330023300
+1,New Zealand,0,RJ Nicol,R McLaren,PG Fulton,,0,1,1,,,,330023300
+1,New Zealand,0,PG Fulton,R McLaren,RJ Nicol,,0,0,0,,,,330023300
+1,New Zealand,0,PG Fulton,R McLaren,RJ Nicol,,0,0,0,,,,330023300
+1,New Zealand,0,PG Fulton,R McLaren,RJ Nicol,,0,4,4,,,,330023300
+1,New Zealand,0,PG Fulton,R McLaren,RJ Nicol,,0,0,0,,,,330023300
+1,New Zealand,1,RJ Nicol,DW Steyn,PG Fulton,wides,1,1,0,,,,330023300
+1,New Zealand,1,RJ Nicol,DW Steyn,PG Fulton,,0,1,1,,,,330023300
+1,New Zealand,1,PG Fulton,DW Steyn,RJ Nicol,,0,1,1,,,,330023300
+1,New Zealand,1,RJ Nicol,DW Steyn,PG Fulton,,0,1,1,,,,330023300
+1,New Zealand,1,PG Fulton,DW Steyn,RJ Nicol,,0,0,0,,,,330023300
+1,New Zealand,1,PG Fulton,DW Steyn,RJ Nicol,,0,0,0,,,,330023300
+1,New Zealand,1,PG Fulton,DW Steyn,RJ Nicol,,0,0,0,,,,330023300
+1,New Zealand,2,RJ Nicol,RK Kleinveldt,PG Fulton,,0,0,0,caught,RJ Nicol,Q de Kock,330023300
+1,New Zealand,2,BB McCullum,RK Kleinveldt,PG Fulton,,0,0,0,,,,330023300
+1,New Zealand,2,BB McCullum,RK Kleinveldt,PG Fulton,,0,0,0,,,,330023300
+1,New Zealand,2,BB McCullum,RK Kleinveldt,PG Fulton,,0,4,4,,,,330023300
+1,New Zealand,2,BB McCullum,RK Kleinveldt,PG Fulton,,0,1,1,,,,330023300
+1,New Zealand,2,PG Fulton,RK Kleinveldt,BB McCullum,,0,0,0,,,,330023300
+1,New Zealand,3,BB McCullum,DW Steyn,PG Fulton,,0,0,0,,,,330023300
+1,New Zealand,3,BB McCullum,DW Steyn,PG Fulton,,0,1,1,,,,330023300
+1,New Zealand,3,PG Fulton,DW Steyn,BB McCullum,,0,4,4,,,,330023300
+1,New Zealand,3,PG Fulton,DW Steyn,BB McCullum,,0,0,0,,,,330023300
+1,New Zealand,3,PG Fulton,DW Steyn,BB McCullum,,0,0,0,,,,330023300
+1,New Zealand,3,PG Fulton,DW Steyn,BB McCullum,,0,0,0,caught,PG Fulton,CH Morris,330023300
+1,New Zealand,4,BB McCullum,RK Kleinveldt,JEC Franklin,,0,0,0,,,,330023300
+1,New Zealand,4,BB McCullum,RK Kleinveldt,JEC Franklin,,0,0,0,,,,330023300
+1,New Zealand,4,BB McCullum,RK Kleinveldt,JEC Franklin,,0,0,0,,,,330023300
+1,New Zealand,4,BB McCullum,RK Kleinveldt,JEC Franklin,,0,0,0,,,,330023300
+1,New Zealand,4,BB McCullum,RK Kleinveldt,JEC Franklin,,0,0,0,caught,BB McCullum,DW Steyn,330023300
+1,New Zealand,4,JEC Franklin,RK Kleinveldt,C Munro,,0,0,0,,,,330023300
+1,New Zealand,5,C Munro,CH Morris,JEC Franklin,,0,0,0,,,,330023300
+1,New Zealand,5,C Munro,CH Morris,JEC Franklin,,0,0,0,,,,330023300
+1,New Zealand,5,C Munro,CH Morris,JEC Franklin,,0,4,4,,,,330023300
+1,New Zealand,5,C Munro,CH Morris,JEC Franklin,,0,0,0,,,,330023300
+1,New Zealand,5,C Munro,CH Morris,JEC Franklin,,0,0,0,,,,330023300
+1,New Zealand,5,C Munro,CH Morris,JEC Franklin,,0,4,4,,,,330023300
+1,New Zealand,6,JEC Franklin,R McLaren,C Munro,,0,0,0,,,,330023300
+1,New Zealand,6,JEC Franklin,R McLaren,C Munro,,0,0,0,caught,JEC Franklin,Q de Kock,330023300
+1,New Zealand,6,CJ Anderson,R McLaren,C Munro,,0,1,1,,,,330023300
+1,New Zealand,6,C Munro,R McLaren,CJ Anderson,,0,1,1,,,,330023300
+1,New Zealand,6,CJ Anderson,R McLaren,C Munro,,0,0,0,,,,330023300
+1,New Zealand,6,CJ Anderson,R McLaren,C Munro,,0,4,4,,,,330023300
+1,New Zealand,7,C Munro,CH Morris,CJ Anderson,,0,1,1,,,,330023300
+1,New Zealand,7,CJ Anderson,CH Morris,C Munro,,0,0,0,,,,330023300
+1,New Zealand,7,CJ Anderson,CH Morris,C Munro,,0,0,0,caught,CJ Anderson,RE Levi,330023300
+1,New Zealand,7,NL McCullum,CH Morris,C Munro,wides,1,1,0,,,,330023300
+1,New Zealand,7,NL McCullum,CH Morris,C Munro,,0,0,0,,,,330023300
+1,New Zealand,7,NL McCullum,CH Morris,C Munro,,0,1,1,,,,330023300
+1,New Zealand,7,C Munro,CH Morris,NL McCullum,,0,0,0,,,,330023300
+1,New Zealand,8,NL McCullum,RJ Peterson,C Munro,,0,0,0,,,,330023300
+1,New Zealand,8,NL McCullum,RJ Peterson,C Munro,,0,0,0,,,,330023300
+1,New Zealand,8,NL McCullum,RJ Peterson,C Munro,,0,0,0,,,,330023300
+1,New Zealand,8,NL McCullum,RJ Peterson,C Munro,,0,0,0,,,,330023300
+1,New Zealand,8,NL McCullum,RJ Peterson,C Munro,,0,0,0,bowled,NL McCullum,,330023300
+1,New Zealand,8,JDS Neesham,RJ Peterson,C Munro,,0,1,1,,,,330023300
+1,New Zealand,9,JDS Neesham,R McLaren,C Munro,,0,4,4,,,,330023300
+1,New Zealand,9,JDS Neesham,R McLaren,C Munro,,0,0,0,,,,330023300
+1,New Zealand,9,JDS Neesham,R McLaren,C Munro,,0,4,4,,,,330023300
+1,New Zealand,9,JDS Neesham,R McLaren,C Munro,,0,1,1,,,,330023300
+1,New Zealand,9,C Munro,R McLaren,JDS Neesham,,0,4,4,,,,330023300
+1,New Zealand,9,C Munro,R McLaren,JDS Neesham,,0,1,1,,,,330023300
+1,New Zealand,10,C Munro,RJ Peterson,JDS Neesham,,0,2,2,,,,330023300
+1,New Zealand,10,C Munro,RJ Peterson,JDS Neesham,,0,1,1,,,,330023300
+1,New Zealand,10,JDS Neesham,RJ Peterson,C Munro,,0,0,0,,,,330023300
+1,New Zealand,10,JDS Neesham,RJ Peterson,C Munro,,0,0,0,bowled,JDS Neesham,,330023300
+1,New Zealand,10,DAJ Bracewell,RJ Peterson,C Munro,,0,0,0,,,,330023300
+1,New Zealand,10,DAJ Bracewell,RJ Peterson,C Munro,,0,0,0,,,,330023300
+1,New Zealand,11,C Munro,CH Morris,DAJ Bracewell,,0,0,0,,,,330023300
+1,New Zealand,11,C Munro,CH Morris,DAJ Bracewell,,0,0,0,,,,330023300
+1,New Zealand,11,C Munro,CH Morris,DAJ Bracewell,,0,4,4,,,,330023300
+1,New Zealand,11,C Munro,CH Morris,DAJ Bracewell,,0,1,1,,,,330023300
+1,New Zealand,11,DAJ Bracewell,CH Morris,C Munro,,0,1,1,,,,330023300
+1,New Zealand,11,C Munro,CH Morris,DAJ Bracewell,,0,0,0,caught and bowled,C Munro,,330023300
+1,New Zealand,12,RM Hira,RJ Peterson,DAJ Bracewell,,0,1,1,,,,330023300
+1,New Zealand,12,DAJ Bracewell,RJ Peterson,RM Hira,,0,0,0,,,,330023300
+1,New Zealand,12,DAJ Bracewell,RJ Peterson,RM Hira,,0,1,1,,,,330023300
+1,New Zealand,12,RM Hira,RJ Peterson,DAJ Bracewell,,0,0,0,,,,330023300
+1,New Zealand,12,RM Hira,RJ Peterson,DAJ Bracewell,,0,0,0,,,,330023300
+1,New Zealand,12,RM Hira,RJ Peterson,DAJ Bracewell,,0,0,0,,,,330023300
+1,New Zealand,13,DAJ Bracewell,CH Morris,RM Hira,,0,0,0,,,,330023300
+1,New Zealand,13,DAJ Bracewell,CH Morris,RM Hira,,0,0,0,,,,330023300
+1,New Zealand,13,DAJ Bracewell,CH Morris,RM Hira,,0,1,1,,,,330023300
+1,New Zealand,13,RM Hira,CH Morris,DAJ Bracewell,,0,1,1,,,,330023300
+1,New Zealand,13,DAJ Bracewell,F du Plessis,RM Hira,,0,0,0,,,,330023300
+1,New Zealand,13,DAJ Bracewell,F du Plessis,RM Hira,,0,0,0,,,,330023300
+1,New Zealand,14,RM Hira,R McLaren,DAJ Bracewell,,0,0,0,,,,330023300
+1,New Zealand,14,RM Hira,R McLaren,DAJ Bracewell,,0,0,0,,,,330023300
+1,New Zealand,14,RM Hira,R McLaren,DAJ Bracewell,,0,2,2,,,,330023300
+1,New Zealand,14,RM Hira,R McLaren,DAJ Bracewell,,0,0,0,,,,330023300
+1,New Zealand,14,RM Hira,R McLaren,DAJ Bracewell,,0,0,0,,,,330023300
+1,New Zealand,14,RM Hira,R McLaren,DAJ Bracewell,,0,0,0,,,,330023300
+1,New Zealand,15,DAJ Bracewell,RK Kleinveldt,RM Hira,,0,0,0,,,,330023300
+1,New Zealand,15,DAJ Bracewell,RK Kleinveldt,RM Hira,,0,4,4,,,,330023300
+1,New Zealand,15,DAJ Bracewell,RK Kleinveldt,RM Hira,,0,4,4,,,,330023300
+1,New Zealand,15,DAJ Bracewell,RK Kleinveldt,RM Hira,,0,4,4,,,,330023300
+1,New Zealand,15,DAJ Bracewell,RK Kleinveldt,RM Hira,,0,0,0,,,,330023300
+1,New Zealand,15,DAJ Bracewell,RK Kleinveldt,RM Hira,,0,1,1,,,,330023300
+1,New Zealand,16,DAJ Bracewell,RJ Peterson,RM Hira,,0,0,0,,,,330023300
+1,New Zealand,16,DAJ Bracewell,RJ Peterson,RM Hira,,0,0,0,,,,330023300
+1,New Zealand,16,DAJ Bracewell,RJ Peterson,RM Hira,,0,0,0,,,,330023300
+1,New Zealand,16,DAJ Bracewell,RJ Peterson,RM Hira,,0,0,0,,,,330023300
+1,New Zealand,16,DAJ Bracewell,RJ Peterson,RM Hira,,0,1,1,,,,330023300
+1,New Zealand,16,RM Hira,RJ Peterson,DAJ Bracewell,,0,1,1,,,,330023300
+1,New Zealand,17,RM Hira,DW Steyn,DAJ Bracewell,,0,0,0,caught,RM Hira,RK Kleinveldt,330023300
+1,New Zealand,17,MJ McClenaghan,DW Steyn,DAJ Bracewell,legbyes,1,1,0,,,,330023300
+1,New Zealand,17,DAJ Bracewell,DW Steyn,MJ McClenaghan,,0,2,2,,,,330023300
+1,New Zealand,17,DAJ Bracewell,DW Steyn,MJ McClenaghan,,0,2,2,,,,330023300
+1,New Zealand,17,DAJ Bracewell,DW Steyn,MJ McClenaghan,,0,0,0,,,,330023300
+1,New Zealand,17,DAJ Bracewell,DW Steyn,MJ McClenaghan,,0,0,0,,,,330023300
+1,New Zealand,18,MJ McClenaghan,RK Kleinveldt,DAJ Bracewell,,0,0,0,,,,330023300
+1,New Zealand,18,MJ McClenaghan,RK Kleinveldt,DAJ Bracewell,,0,0,0,caught,MJ McClenaghan,RJ Peterson,330023300

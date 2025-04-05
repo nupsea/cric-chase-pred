@@ -1,0 +1,85 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,West Indies,0,LMP Simmons,AD Mathews,E Lewis,,0,1,1,,,,31477231477
+2,West Indies,0,E Lewis,AD Mathews,LMP Simmons,,0,0,0,,,,31477231477
+2,West Indies,0,E Lewis,AD Mathews,LMP Simmons,,0,6,6,,,,31477231477
+2,West Indies,0,E Lewis,AD Mathews,LMP Simmons,,0,6,6,,,,31477231477
+2,West Indies,0,E Lewis,AD Mathews,LMP Simmons,,0,6,6,,,,31477231477
+2,West Indies,0,E Lewis,AD Mathews,LMP Simmons,,0,0,0,,,,31477231477
+2,West Indies,1,LMP Simmons,A Dananjaya,E Lewis,,0,0,0,,,,31477231477
+2,West Indies,1,LMP Simmons,A Dananjaya,E Lewis,,0,0,0,,,,31477231477
+2,West Indies,1,LMP Simmons,A Dananjaya,E Lewis,,0,0,0,,,,31477231477
+2,West Indies,1,LMP Simmons,A Dananjaya,E Lewis,,0,1,1,,,,31477231477
+2,West Indies,1,E Lewis,A Dananjaya,LMP Simmons,,0,1,1,,,,31477231477
+2,West Indies,1,LMP Simmons,A Dananjaya,E Lewis,,0,6,6,,,,31477231477
+2,West Indies,2,E Lewis,PVD Chameera,LMP Simmons,wides,1,1,0,,,,31477231477
+2,West Indies,2,E Lewis,PVD Chameera,LMP Simmons,,0,4,4,,,,31477231477
+2,West Indies,2,E Lewis,PVD Chameera,LMP Simmons,noballs,1,2,1,,,,31477231477
+2,West Indies,2,LMP Simmons,PVD Chameera,E Lewis,,0,6,6,,,,31477231477
+2,West Indies,2,LMP Simmons,PVD Chameera,E Lewis,,0,4,4,,,,31477231477
+2,West Indies,2,LMP Simmons,PVD Chameera,E Lewis,,0,0,0,,,,31477231477
+2,West Indies,2,LMP Simmons,PVD Chameera,E Lewis,legbyes,4,4,0,,,,31477231477
+2,West Indies,2,LMP Simmons,PVD Chameera,E Lewis,,0,0,0,,,,31477231477
+2,West Indies,3,E Lewis,A Dananjaya,LMP Simmons,,0,4,4,,,,31477231477
+2,West Indies,3,E Lewis,A Dananjaya,LMP Simmons,,0,0,0,caught,E Lewis,MD Gunathilaka,31477231477
+2,West Indies,3,CH Gayle,A Dananjaya,LMP Simmons,,0,0,0,lbw,CH Gayle,,31477231477
+2,West Indies,3,N Pooran,A Dananjaya,LMP Simmons,,0,0,0,caught,N Pooran,N Dickwella,31477231477
+2,West Indies,3,KA Pollard,A Dananjaya,LMP Simmons,,0,1,1,,,,31477231477
+2,West Indies,3,LMP Simmons,A Dananjaya,KA Pollard,,0,4,4,,,,31477231477
+2,West Indies,4,KA Pollard,PWH de Silva,LMP Simmons,,0,0,0,,,,31477231477
+2,West Indies,4,KA Pollard,PWH de Silva,LMP Simmons,,0,0,0,,,,31477231477
+2,West Indies,4,KA Pollard,PWH de Silva,LMP Simmons,,0,1,1,,,,31477231477
+2,West Indies,4,LMP Simmons,PWH de Silva,KA Pollard,,0,4,4,,,,31477231477
+2,West Indies,4,LMP Simmons,PWH de Silva,KA Pollard,,0,0,0,,,,31477231477
+2,West Indies,4,LMP Simmons,PWH de Silva,KA Pollard,,0,0,0,lbw,LMP Simmons,,31477231477
+2,West Indies,5,KA Pollard,A Dananjaya,JO Holder,,0,6,6,,,,31477231477
+2,West Indies,5,KA Pollard,A Dananjaya,JO Holder,,0,6,6,,,,31477231477
+2,West Indies,5,KA Pollard,A Dananjaya,JO Holder,,0,6,6,,,,31477231477
+2,West Indies,5,KA Pollard,A Dananjaya,JO Holder,,0,6,6,,,,31477231477
+2,West Indies,5,KA Pollard,A Dananjaya,JO Holder,,0,6,6,,,,31477231477
+2,West Indies,5,KA Pollard,A Dananjaya,JO Holder,,0,6,6,,,,31477231477
+2,West Indies,6,JO Holder,PWH de Silva,KA Pollard,,0,2,2,,,,31477231477
+2,West Indies,6,JO Holder,PWH de Silva,KA Pollard,,0,0,0,,,,31477231477
+2,West Indies,6,JO Holder,PWH de Silva,KA Pollard,,0,1,1,,,,31477231477
+2,West Indies,6,KA Pollard,PWH de Silva,JO Holder,,0,0,0,lbw,KA Pollard,,31477231477
+2,West Indies,6,FA Allen,PWH de Silva,JO Holder,,0,0,0,lbw,FA Allen,,31477231477
+2,West Indies,6,DJ Bravo,PWH de Silva,JO Holder,,0,0,0,,,,31477231477
+2,West Indies,7,JO Holder,A Dananjaya,DJ Bravo,,0,6,6,,,,31477231477
+2,West Indies,7,JO Holder,A Dananjaya,DJ Bravo,,0,1,1,,,,31477231477
+2,West Indies,7,DJ Bravo,A Dananjaya,JO Holder,,0,0,0,,,,31477231477
+2,West Indies,7,DJ Bravo,A Dananjaya,JO Holder,,0,1,1,,,,31477231477
+2,West Indies,7,JO Holder,A Dananjaya,DJ Bravo,,0,0,0,,,,31477231477
+2,West Indies,7,JO Holder,A Dananjaya,DJ Bravo,,0,1,1,,,,31477231477
+2,West Indies,8,JO Holder,PWH de Silva,DJ Bravo,,0,0,0,,,,31477231477
+2,West Indies,8,JO Holder,PWH de Silva,DJ Bravo,,0,0,0,,,,31477231477
+2,West Indies,8,JO Holder,PWH de Silva,DJ Bravo,,0,1,1,,,,31477231477
+2,West Indies,8,DJ Bravo,PWH de Silva,JO Holder,,0,0,0,,,,31477231477
+2,West Indies,8,DJ Bravo,PWH de Silva,JO Holder,,0,0,0,,,,31477231477
+2,West Indies,8,DJ Bravo,PWH de Silva,JO Holder,,0,0,0,,,,31477231477
+2,West Indies,9,JO Holder,PVD Chameera,DJ Bravo,,0,2,2,,,,31477231477
+2,West Indies,9,JO Holder,PVD Chameera,DJ Bravo,,0,0,0,,,,31477231477
+2,West Indies,9,JO Holder,PVD Chameera,DJ Bravo,,0,1,1,,,,31477231477
+2,West Indies,9,DJ Bravo,PVD Chameera,JO Holder,,0,0,0,,,,31477231477
+2,West Indies,9,DJ Bravo,PVD Chameera,JO Holder,,0,0,0,,,,31477231477
+2,West Indies,9,DJ Bravo,PVD Chameera,JO Holder,wides,1,1,0,,,,31477231477
+2,West Indies,9,DJ Bravo,PVD Chameera,JO Holder,wides,1,1,0,,,,31477231477
+2,West Indies,9,DJ Bravo,PVD Chameera,JO Holder,,0,0,0,,,,31477231477
+2,West Indies,10,JO Holder,PWH de Silva,DJ Bravo,,0,1,1,,,,31477231477
+2,West Indies,10,DJ Bravo,PWH de Silva,JO Holder,,0,0,0,,,,31477231477
+2,West Indies,10,DJ Bravo,PWH de Silva,JO Holder,,0,0,0,,,,31477231477
+2,West Indies,10,DJ Bravo,PWH de Silva,JO Holder,,0,0,0,,,,31477231477
+2,West Indies,10,DJ Bravo,PWH de Silva,JO Holder,,0,1,1,,,,31477231477
+2,West Indies,10,JO Holder,PWH de Silva,DJ Bravo,,0,1,1,,,,31477231477
+2,West Indies,11,JO Holder,PVD Chameera,DJ Bravo,,0,0,0,,,,31477231477
+2,West Indies,11,JO Holder,PVD Chameera,DJ Bravo,,0,1,1,,,,31477231477
+2,West Indies,11,DJ Bravo,PVD Chameera,JO Holder,,0,1,1,,,,31477231477
+2,West Indies,11,JO Holder,PVD Chameera,DJ Bravo,wides,1,1,0,,,,31477231477
+2,West Indies,11,JO Holder,PVD Chameera,DJ Bravo,,0,0,0,,,,31477231477
+2,West Indies,11,JO Holder,PVD Chameera,DJ Bravo,,0,4,4,,,,31477231477
+2,West Indies,11,JO Holder,PVD Chameera,DJ Bravo,,0,0,0,,,,31477231477
+2,West Indies,12,DJ Bravo,KNA Bandara,JO Holder,,0,1,1,,,,31477231477
+2,West Indies,12,JO Holder,KNA Bandara,DJ Bravo,,0,0,0,,,,31477231477
+2,West Indies,12,JO Holder,KNA Bandara,DJ Bravo,,0,0,0,,,,31477231477
+2,West Indies,12,JO Holder,KNA Bandara,DJ Bravo,,0,1,1,,,,31477231477
+2,West Indies,12,DJ Bravo,KNA Bandara,JO Holder,,0,0,0,,,,31477231477
+2,West Indies,12,DJ Bravo,KNA Bandara,JO Holder,,0,0,0,,,,31477231477
+2,West Indies,13,JO Holder,N Pradeep,DJ Bravo,,0,6,6,,,,31477231477

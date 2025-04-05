@@ -1,0 +1,45 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Australia,0,AJ Finch,LL Tsotsobe,DA Warner,,0,4,4,,,,335923359
+2,Australia,0,AJ Finch,LL Tsotsobe,DA Warner,,0,1,1,,,,335923359
+2,Australia,0,DA Warner,LL Tsotsobe,AJ Finch,,0,4,4,,,,335923359
+2,Australia,0,DA Warner,LL Tsotsobe,AJ Finch,,0,2,2,,,,335923359
+2,Australia,0,DA Warner,LL Tsotsobe,AJ Finch,,0,6,6,,,,335923359
+2,Australia,0,DA Warner,LL Tsotsobe,AJ Finch,,0,4,4,,,,335923359
+2,Australia,1,AJ Finch,KJ Abbott,DA Warner,,0,0,0,,,,335923359
+2,Australia,1,AJ Finch,KJ Abbott,DA Warner,,0,0,0,,,,335923359
+2,Australia,1,AJ Finch,KJ Abbott,DA Warner,,0,0,0,caught,AJ Finch,HM Amla,335923359
+2,Australia,1,DA Warner,KJ Abbott,SR Watson,,0,4,4,,,,335923359
+2,Australia,1,DA Warner,KJ Abbott,SR Watson,,0,0,0,,,,335923359
+2,Australia,1,DA Warner,KJ Abbott,SR Watson,,0,1,1,,,,335923359
+2,Australia,2,DA Warner,BE Hendricks,SR Watson,,0,1,1,,,,335923359
+2,Australia,2,SR Watson,BE Hendricks,DA Warner,,0,1,1,,,,335923359
+2,Australia,2,DA Warner,BE Hendricks,SR Watson,,0,6,6,,,,335923359
+2,Australia,2,DA Warner,BE Hendricks,SR Watson,,0,4,4,,,,335923359
+2,Australia,2,DA Warner,BE Hendricks,SR Watson,,0,4,4,,,,335923359
+2,Australia,2,DA Warner,BE Hendricks,SR Watson,,0,2,2,,,,335923359
+2,Australia,3,SR Watson,WD Parnell,DA Warner,,0,1,1,,,,335923359
+2,Australia,3,DA Warner,WD Parnell,SR Watson,,0,1,1,,,,335923359
+2,Australia,3,SR Watson,WD Parnell,DA Warner,,0,0,0,caught,SR Watson,KJ Abbott,335923359
+2,Australia,3,GJ Maxwell,WD Parnell,DA Warner,legbyes,1,1,0,,,,335923359
+2,Australia,3,DA Warner,WD Parnell,GJ Maxwell,,0,0,0,,,,335923359
+2,Australia,3,DA Warner,WD Parnell,GJ Maxwell,,0,1,1,,,,335923359
+2,Australia,4,DA Warner,JP Duminy,GJ Maxwell,,0,0,0,lbw,DA Warner,,335923359
+2,Australia,4,GJ Bailey,JP Duminy,GJ Maxwell,,0,1,1,,,,335923359
+2,Australia,4,GJ Maxwell,JP Duminy,GJ Bailey,wides,1,1,0,,,,335923359
+2,Australia,4,GJ Maxwell,JP Duminy,GJ Bailey,,0,1,1,,,,335923359
+2,Australia,4,GJ Bailey,JP Duminy,GJ Maxwell,,0,1,1,,,,335923359
+2,Australia,4,GJ Maxwell,JP Duminy,GJ Bailey,,0,0,0,caught,GJ Maxwell,F du Plessis,335923359
+2,Australia,4,BJ Hodge,JP Duminy,GJ Bailey,,0,1,1,,,,335923359
+2,Australia,5,BJ Hodge,BE Hendricks,GJ Bailey,noballs,1,5,4,,,,335923359
+2,Australia,5,BJ Hodge,BE Hendricks,GJ Bailey,wides,1,1,0,,,,335923359
+2,Australia,5,BJ Hodge,BE Hendricks,GJ Bailey,,0,1,1,run out,GJ Bailey,Q de Kock,335923359
+2,Australia,5,BJ Haddin,BE Hendricks,BJ Hodge,,0,1,1,,,,335923359
+2,Australia,5,BJ Hodge,BE Hendricks,BJ Haddin,,0,1,1,,,,335923359
+2,Australia,5,BJ Haddin,BE Hendricks,BJ Hodge,,0,2,2,,,,335923359
+2,Australia,5,BJ Haddin,BE Hendricks,BJ Hodge,,0,1,1,,,,335923359
+2,Australia,5,BJ Hodge,BE Hendricks,BJ Haddin,,0,1,1,,,,335923359
+2,Australia,6,BJ Hodge,WD Parnell,BJ Haddin,,0,1,1,,,,335923359
+2,Australia,6,BJ Haddin,WD Parnell,BJ Hodge,legbyes,1,1,0,,,,335923359
+2,Australia,6,BJ Hodge,WD Parnell,BJ Haddin,,0,6,6,,,,335923359
+2,Australia,6,BJ Hodge,WD Parnell,BJ Haddin,,0,6,6,,,,335923359
+2,Australia,6,BJ Hodge,WD Parnell,BJ Haddin,wides,1,1,0,,,,335923359

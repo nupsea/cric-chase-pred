@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,HM Amla,DJ Willey,Q de Kock,,0,0,0,,,,359823598
+1,South Africa,0,HM Amla,DJ Willey,Q de Kock,,0,1,1,,,,359823598
+1,South Africa,0,Q de Kock,DJ Willey,HM Amla,,0,0,0,,,,359823598
+1,South Africa,0,Q de Kock,DJ Willey,HM Amla,,0,0,0,,,,359823598
+1,South Africa,0,Q de Kock,DJ Willey,HM Amla,,0,0,0,,,,359823598
+1,South Africa,0,Q de Kock,DJ Willey,HM Amla,,0,1,1,,,,359823598
+1,South Africa,1,Q de Kock,RJW Topley,HM Amla,,0,6,6,,,,359823598
+1,South Africa,1,Q de Kock,RJW Topley,HM Amla,,0,0,0,,,,359823598
+1,South Africa,1,Q de Kock,RJW Topley,HM Amla,,0,4,4,,,,359823598
+1,South Africa,1,Q de Kock,RJW Topley,HM Amla,,0,4,4,,,,359823598
+1,South Africa,1,Q de Kock,RJW Topley,HM Amla,,0,1,1,,,,359823598
+1,South Africa,1,HM Amla,RJW Topley,Q de Kock,,0,0,0,,,,359823598
+1,South Africa,2,Q de Kock,DJ Willey,HM Amla,,0,0,0,,,,359823598
+1,South Africa,2,Q de Kock,DJ Willey,HM Amla,,0,0,0,,,,359823598
+1,South Africa,2,Q de Kock,DJ Willey,HM Amla,,0,6,6,,,,359823598
+1,South Africa,2,Q de Kock,DJ Willey,HM Amla,,0,4,4,,,,359823598
+1,South Africa,2,Q de Kock,DJ Willey,HM Amla,,0,4,4,,,,359823598
+1,South Africa,2,Q de Kock,DJ Willey,HM Amla,,0,6,6,,,,359823598
+1,South Africa,3,HM Amla,MM Ali,Q de Kock,,0,4,4,,,,359823598
+1,South Africa,3,HM Amla,MM Ali,Q de Kock,,0,0,0,,,,359823598
+1,South Africa,3,HM Amla,MM Ali,Q de Kock,,0,4,4,,,,359823598
+1,South Africa,3,HM Amla,MM Ali,Q de Kock,,0,1,1,,,,359823598
+1,South Africa,3,Q de Kock,MM Ali,HM Amla,,0,4,4,,,,359823598
+1,South Africa,3,Q de Kock,MM Ali,HM Amla,,0,0,0,,,,359823598
+1,South Africa,4,HM Amla,CJ Jordan,Q de Kock,,0,4,4,,,,359823598
+1,South Africa,4,HM Amla,CJ Jordan,Q de Kock,,0,4,4,,,,359823598
+1,South Africa,4,HM Amla,CJ Jordan,Q de Kock,,0,4,4,,,,359823598
+1,South Africa,4,HM Amla,CJ Jordan,Q de Kock,,0,6,6,,,,359823598
+1,South Africa,4,HM Amla,CJ Jordan,Q de Kock,,0,4,4,,,,359823598
+1,South Africa,4,HM Amla,CJ Jordan,Q de Kock,,0,0,0,,,,359823598
+1,South Africa,5,Q de Kock,BA Stokes,HM Amla,,0,1,1,,,,359823598
+1,South Africa,5,HM Amla,BA Stokes,Q de Kock,,0,0,0,,,,359823598
+1,South Africa,5,HM Amla,BA Stokes,Q de Kock,,0,4,4,,,,359823598
+1,South Africa,5,HM Amla,BA Stokes,Q de Kock,,0,1,1,,,,359823598
+1,South Africa,5,Q de Kock,BA Stokes,HM Amla,,0,4,4,,,,359823598
+1,South Africa,5,Q de Kock,BA Stokes,HM Amla,,0,1,1,,,,359823598
+1,South Africa,6,Q de Kock,AU Rashid,HM Amla,,0,4,4,,,,359823598
+1,South Africa,6,Q de Kock,AU Rashid,HM Amla,,0,1,1,,,,359823598
+1,South Africa,6,HM Amla,AU Rashid,Q de Kock,,0,0,0,,,,359823598
+1,South Africa,6,HM Amla,AU Rashid,Q de Kock,,0,1,1,,,,359823598
+1,South Africa,6,Q de Kock,AU Rashid,HM Amla,,0,1,1,,,,359823598
+1,South Africa,6,HM Amla,AU Rashid,Q de Kock,,0,6,6,,,,359823598
+1,South Africa,7,Q de Kock,MM Ali,HM Amla,,0,0,0,caught,Q de Kock,AD Hales,359823598
+1,South Africa,7,HM Amla,MM Ali,AB de Villiers,,0,1,1,,,,359823598
+1,South Africa,7,AB de Villiers,MM Ali,HM Amla,,0,1,1,,,,359823598
+1,South Africa,7,HM Amla,MM Ali,AB de Villiers,,0,0,0,,,,359823598
+1,South Africa,7,HM Amla,MM Ali,AB de Villiers,,0,1,1,,,,359823598
+1,South Africa,7,AB de Villiers,MM Ali,HM Amla,,0,1,1,,,,359823598
+1,South Africa,8,AB de Villiers,AU Rashid,HM Amla,,0,2,2,,,,359823598
+1,South Africa,8,AB de Villiers,AU Rashid,HM Amla,,0,0,0,,,,359823598
+1,South Africa,8,AB de Villiers,AU Rashid,HM Amla,,0,6,6,,,,359823598
+1,South Africa,8,AB de Villiers,AU Rashid,HM Amla,,0,6,6,,,,359823598
+1,South Africa,8,AB de Villiers,AU Rashid,HM Amla,,0,0,0,,,,359823598
+1,South Africa,8,AB de Villiers,AU Rashid,HM Amla,,0,0,0,caught,AB de Villiers,EJG Morgan,359823598
+1,South Africa,9,F du Plessis,MM Ali,HM Amla,,0,1,1,,,,359823598
+1,South Africa,9,HM Amla,MM Ali,F du Plessis,,0,1,1,,,,359823598
+1,South Africa,9,F du Plessis,MM Ali,HM Amla,,0,1,1,,,,359823598
+1,South Africa,9,HM Amla,MM Ali,F du Plessis,,0,1,1,,,,359823598
+1,South Africa,9,F du Plessis,MM Ali,HM Amla,,0,1,1,,,,359823598
+1,South Africa,9,HM Amla,MM Ali,F du Plessis,,0,6,6,,,,359823598
+1,South Africa,10,F du Plessis,AU Rashid,HM Amla,,0,1,1,,,,359823598
+1,South Africa,10,HM Amla,AU Rashid,F du Plessis,,0,1,1,,,,359823598
+1,South Africa,10,F du Plessis,AU Rashid,HM Amla,,0,0,0,,,,359823598
+1,South Africa,10,F du Plessis,AU Rashid,HM Amla,,0,1,1,,,,359823598
+1,South Africa,10,HM Amla,AU Rashid,F du Plessis,,0,0,0,,,,359823598
+1,South Africa,10,HM Amla,AU Rashid,F du Plessis,,0,0,0,,,,359823598
+1,South Africa,11,F du Plessis,MM Ali,HM Amla,,0,1,1,,,,359823598
+1,South Africa,11,HM Amla,MM Ali,F du Plessis,,0,2,2,,,,359823598
+1,South Africa,11,HM Amla,MM Ali,F du Plessis,,0,1,1,,,,359823598
+1,South Africa,11,F du Plessis,MM Ali,HM Amla,,0,1,1,,,,359823598
+1,South Africa,11,HM Amla,MM Ali,F du Plessis,,0,0,0,lbw,HM Amla,,359823598
+1,South Africa,11,JP Duminy,MM Ali,F du Plessis,,0,1,1,,,,359823598
+1,South Africa,12,JP Duminy,AU Rashid,F du Plessis,,0,1,1,,,,359823598
+1,South Africa,12,F du Plessis,AU Rashid,JP Duminy,,0,1,1,,,,359823598
+1,South Africa,12,JP Duminy,AU Rashid,F du Plessis,,0,1,1,,,,359823598
+1,South Africa,12,F du Plessis,AU Rashid,JP Duminy,,0,0,0,,,,359823598
+1,South Africa,12,F du Plessis,AU Rashid,JP Duminy,,0,1,1,,,,359823598
+1,South Africa,12,JP Duminy,AU Rashid,F du Plessis,,0,1,1,,,,359823598
+1,South Africa,13,JP Duminy,JE Root,F du Plessis,,0,2,2,,,,359823598
+1,South Africa,13,JP Duminy,JE Root,F du Plessis,,0,1,1,,,,359823598
+1,South Africa,13,F du Plessis,JE Root,JP Duminy,,0,1,1,,,,359823598
+1,South Africa,13,JP Duminy,JE Root,F du Plessis,,0,4,4,,,,359823598
+1,South Africa,13,JP Duminy,JE Root,F du Plessis,,0,4,4,,,,359823598
+1,South Africa,13,JP Duminy,JE Root,F du Plessis,,0,1,1,,,,359823598
+1,South Africa,14,JP Duminy,BA Stokes,F du Plessis,,0,1,1,,,,359823598
+1,South Africa,14,F du Plessis,BA Stokes,JP Duminy,,0,4,4,,,,359823598
+1,South Africa,14,F du Plessis,BA Stokes,JP Duminy,byes,2,2,0,,,,359823598
+1,South Africa,14,F du Plessis,BA Stokes,JP Duminy,,0,1,1,,,,359823598
+1,South Africa,14,JP Duminy,BA Stokes,F du Plessis,,0,4,4,,,,359823598
+1,South Africa,14,JP Duminy,BA Stokes,F du Plessis,wides,1,1,0,,,,359823598
+1,South Africa,14,JP Duminy,BA Stokes,F du Plessis,,0,1,1,,,,359823598
+1,South Africa,15,JP Duminy,DJ Willey,F du Plessis,,0,1,1,,,,359823598
+1,South Africa,15,F du Plessis,DJ Willey,JP Duminy,,0,2,2,,,,359823598
+1,South Africa,15,F du Plessis,DJ Willey,JP Duminy,,0,0,0,caught,F du Plessis,JJ Roy,359823598
+1,South Africa,15,JP Duminy,DJ Willey,DA Miller,wides,1,1,0,,,,359823598
+1,South Africa,15,JP Duminy,DJ Willey,DA Miller,,0,1,1,,,,359823598
+1,South Africa,15,DA Miller,DJ Willey,JP Duminy,,0,1,1,,,,359823598
+1,South Africa,15,JP Duminy,DJ Willey,DA Miller,,0,1,1,,,,359823598
+1,South Africa,16,JP Duminy,CJ Jordan,DA Miller,,0,1,1,,,,359823598
+1,South Africa,16,DA Miller,CJ Jordan,JP Duminy,,0,4,4,,,,359823598
+1,South Africa,16,DA Miller,CJ Jordan,JP Duminy,,0,1,1,,,,359823598
+1,South Africa,16,JP Duminy,CJ Jordan,DA Miller,,0,1,1,,,,359823598
+1,South Africa,16,DA Miller,CJ Jordan,JP Duminy,,0,1,1,,,,359823598
+1,South Africa,16,JP Duminy,CJ Jordan,DA Miller,,0,1,1,,,,359823598
+1,South Africa,17,JP Duminy,DJ Willey,DA Miller,,0,1,1,,,,359823598
+1,South Africa,17,DA Miller,DJ Willey,JP Duminy,,0,1,1,,,,359823598
+1,South Africa,17,JP Duminy,DJ Willey,DA Miller,,0,1,1,,,,359823598
+1,South Africa,17,DA Miller,DJ Willey,JP Duminy,,0,6,6,,,,359823598
+1,South Africa,17,DA Miller,DJ Willey,JP Duminy,,0,1,1,,,,359823598
+1,South Africa,17,JP Duminy,DJ Willey,DA Miller,,0,1,1,,,,359823598
+1,South Africa,18,JP Duminy,RJW Topley,DA Miller,,0,6,6,,,,359823598
+1,South Africa,18,JP Duminy,RJW Topley,DA Miller,,0,6,6,,,,359823598
+1,South Africa,18,JP Duminy,RJW Topley,DA Miller,,0,1,1,,,,359823598
+1,South Africa,18,DA Miller,RJW Topley,JP Duminy,,0,1,1,,,,359823598
+1,South Africa,18,JP Duminy,RJW Topley,DA Miller,,0,3,3,,,,359823598
+1,South Africa,18,DA Miller,RJW Topley,JP Duminy,,0,1,1,,,,359823598
+1,South Africa,19,DA Miller,CJ Jordan,JP Duminy,,0,1,1,,,,359823598
+1,South Africa,19,JP Duminy,CJ Jordan,DA Miller,,0,6,6,,,,359823598
+1,South Africa,19,JP Duminy,CJ Jordan,DA Miller,,0,0,0,,,,359823598
+1,South Africa,19,JP Duminy,CJ Jordan,DA Miller,,0,1,1,,,,359823598
+1,South Africa,19,DA Miller,CJ Jordan,JP Duminy,,0,6,6,,,,359823598
+1,South Africa,19,DA Miller,CJ Jordan,JP Duminy,,0,4,4,,,,359823598

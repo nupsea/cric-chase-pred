@@ -1,0 +1,106 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,India,0,KL Rahul,SL Malinga,S Dhawan,,0,1,1,,,,31343231343
+2,India,0,S Dhawan,SL Malinga,KL Rahul,,0,0,0,,,,31343231343
+2,India,0,S Dhawan,SL Malinga,KL Rahul,,0,0,0,,,,31343231343
+2,India,0,S Dhawan,SL Malinga,KL Rahul,,0,2,2,,,,31343231343
+2,India,0,S Dhawan,SL Malinga,KL Rahul,,0,0,0,,,,31343231343
+2,India,0,S Dhawan,SL Malinga,KL Rahul,,0,5,5,,,,31343231343
+2,India,1,S Dhawan,CBRLS Kumara,KL Rahul,,0,1,1,,,,31343231343
+2,India,1,KL Rahul,CBRLS Kumara,S Dhawan,,0,1,1,,,,31343231343
+2,India,1,S Dhawan,CBRLS Kumara,KL Rahul,,0,1,1,,,,31343231343
+2,India,1,KL Rahul,CBRLS Kumara,S Dhawan,,0,0,0,,,,31343231343
+2,India,1,KL Rahul,CBRLS Kumara,S Dhawan,,0,4,4,,,,31343231343
+2,India,1,KL Rahul,CBRLS Kumara,S Dhawan,,0,1,1,,,,31343231343
+2,India,2,KL Rahul,SL Malinga,S Dhawan,,0,4,4,,,,31343231343
+2,India,2,KL Rahul,SL Malinga,S Dhawan,,0,4,4,,,,31343231343
+2,India,2,KL Rahul,SL Malinga,S Dhawan,,0,0,0,,,,31343231343
+2,India,2,KL Rahul,SL Malinga,S Dhawan,,0,1,1,,,,31343231343
+2,India,2,S Dhawan,SL Malinga,KL Rahul,,0,1,1,,,,31343231343
+2,India,2,KL Rahul,SL Malinga,S Dhawan,,0,2,2,,,,31343231343
+2,India,3,S Dhawan,DM de Silva,KL Rahul,,0,1,1,,,,31343231343
+2,India,3,KL Rahul,DM de Silva,S Dhawan,,0,4,4,,,,31343231343
+2,India,3,KL Rahul,DM de Silva,S Dhawan,,0,2,2,,,,31343231343
+2,India,3,KL Rahul,DM de Silva,S Dhawan,,0,2,2,,,,31343231343
+2,India,3,KL Rahul,DM de Silva,S Dhawan,,0,1,1,,,,31343231343
+2,India,3,S Dhawan,DM de Silva,KL Rahul,,0,1,1,,,,31343231343
+2,India,4,S Dhawan,CBRLS Kumara,KL Rahul,,0,1,1,,,,31343231343
+2,India,4,KL Rahul,CBRLS Kumara,S Dhawan,,0,4,4,,,,31343231343
+2,India,4,KL Rahul,CBRLS Kumara,S Dhawan,,0,4,4,,,,31343231343
+2,India,4,KL Rahul,CBRLS Kumara,S Dhawan,,0,0,0,,,,31343231343
+2,India,4,KL Rahul,CBRLS Kumara,S Dhawan,legbyes,1,1,0,,,,31343231343
+2,India,4,S Dhawan,CBRLS Kumara,KL Rahul,,0,0,0,,,,31343231343
+2,India,5,KL Rahul,DM de Silva,S Dhawan,,0,1,1,,,,31343231343
+2,India,5,S Dhawan,DM de Silva,KL Rahul,byes,1,1,0,,,,31343231343
+2,India,5,KL Rahul,DM de Silva,S Dhawan,,0,0,0,,,,31343231343
+2,India,5,KL Rahul,DM de Silva,S Dhawan,,0,1,1,,,,31343231343
+2,India,5,S Dhawan,DM de Silva,KL Rahul,,0,1,1,,,,31343231343
+2,India,5,KL Rahul,DM de Silva,S Dhawan,,0,1,1,,,,31343231343
+2,India,6,KL Rahul,MD Shanaka,S Dhawan,,0,0,0,,,,31343231343
+2,India,6,KL Rahul,MD Shanaka,S Dhawan,,0,1,1,,,,31343231343
+2,India,6,S Dhawan,MD Shanaka,KL Rahul,,0,1,1,,,,31343231343
+2,India,6,KL Rahul,MD Shanaka,S Dhawan,,0,2,2,,,,31343231343
+2,India,6,KL Rahul,MD Shanaka,S Dhawan,,0,0,0,,,,31343231343
+2,India,6,KL Rahul,MD Shanaka,S Dhawan,,0,1,1,,,,31343231343
+2,India,7,KL Rahul,PWH de Silva,S Dhawan,,0,1,1,,,,31343231343
+2,India,7,S Dhawan,PWH de Silva,KL Rahul,,0,1,1,,,,31343231343
+2,India,7,KL Rahul,PWH de Silva,S Dhawan,,0,1,1,,,,31343231343
+2,India,7,S Dhawan,PWH de Silva,KL Rahul,,0,0,0,,,,31343231343
+2,India,7,S Dhawan,PWH de Silva,KL Rahul,,0,1,1,,,,31343231343
+2,India,7,KL Rahul,PWH de Silva,S Dhawan,,0,0,0,,,,31343231343
+2,India,8,S Dhawan,MD Shanaka,KL Rahul,,0,2,2,,,,31343231343
+2,India,8,S Dhawan,MD Shanaka,KL Rahul,,0,0,0,,,,31343231343
+2,India,8,S Dhawan,MD Shanaka,KL Rahul,,0,1,1,,,,31343231343
+2,India,8,KL Rahul,MD Shanaka,S Dhawan,,0,1,1,,,,31343231343
+2,India,8,S Dhawan,MD Shanaka,KL Rahul,,0,4,4,,,,31343231343
+2,India,8,S Dhawan,MD Shanaka,KL Rahul,,0,0,0,,,,31343231343
+2,India,9,KL Rahul,PWH de Silva,S Dhawan,,0,0,0,bowled,KL Rahul,,31343231343
+2,India,9,SS Iyer,PWH de Silva,S Dhawan,,0,2,2,,,,31343231343
+2,India,9,SS Iyer,PWH de Silva,S Dhawan,,0,1,1,,,,31343231343
+2,India,9,S Dhawan,PWH de Silva,SS Iyer,,0,1,1,,,,31343231343
+2,India,9,SS Iyer,PWH de Silva,S Dhawan,,0,1,1,,,,31343231343
+2,India,9,S Dhawan,PWH de Silva,SS Iyer,,0,1,1,,,,31343231343
+2,India,10,S Dhawan,MD Shanaka,SS Iyer,,0,1,1,,,,31343231343
+2,India,10,SS Iyer,MD Shanaka,S Dhawan,,0,1,1,,,,31343231343
+2,India,10,S Dhawan,MD Shanaka,SS Iyer,,0,1,1,,,,31343231343
+2,India,10,SS Iyer,MD Shanaka,S Dhawan,,0,0,0,,,,31343231343
+2,India,10,SS Iyer,MD Shanaka,S Dhawan,,0,1,1,,,,31343231343
+2,India,10,S Dhawan,MD Shanaka,SS Iyer,,0,4,4,,,,31343231343
+2,India,11,SS Iyer,PWH de Silva,S Dhawan,,0,1,1,,,,31343231343
+2,India,11,S Dhawan,PWH de Silva,SS Iyer,,0,0,0,lbw,S Dhawan,,31343231343
+2,India,11,V Kohli,PWH de Silva,SS Iyer,,0,0,0,,,,31343231343
+2,India,11,V Kohli,PWH de Silva,SS Iyer,,0,1,1,,,,31343231343
+2,India,11,SS Iyer,PWH de Silva,V Kohli,,0,0,0,,,,31343231343
+2,India,11,SS Iyer,PWH de Silva,V Kohli,,0,1,1,,,,31343231343
+2,India,12,SS Iyer,SL Malinga,V Kohli,,0,1,1,,,,31343231343
+2,India,12,V Kohli,SL Malinga,SS Iyer,,0,1,1,,,,31343231343
+2,India,12,SS Iyer,SL Malinga,V Kohli,,0,1,1,,,,31343231343
+2,India,12,V Kohli,SL Malinga,SS Iyer,,0,1,1,,,,31343231343
+2,India,12,SS Iyer,SL Malinga,V Kohli,,0,0,0,,,,31343231343
+2,India,12,SS Iyer,SL Malinga,V Kohli,,0,1,1,,,,31343231343
+2,India,13,SS Iyer,CBRLS Kumara,V Kohli,,0,0,0,,,,31343231343
+2,India,13,SS Iyer,CBRLS Kumara,V Kohli,,0,1,1,,,,31343231343
+2,India,13,V Kohli,CBRLS Kumara,SS Iyer,,0,1,1,,,,31343231343
+2,India,13,SS Iyer,CBRLS Kumara,V Kohli,,0,0,0,,,,31343231343
+2,India,13,SS Iyer,CBRLS Kumara,V Kohli,,0,4,4,,,,31343231343
+2,India,13,SS Iyer,CBRLS Kumara,V Kohli,,0,0,0,,,,31343231343
+2,India,14,V Kohli,MD Shanaka,SS Iyer,,0,0,0,,,,31343231343
+2,India,14,V Kohli,MD Shanaka,SS Iyer,,0,1,1,,,,31343231343
+2,India,14,SS Iyer,MD Shanaka,V Kohli,,0,1,1,,,,31343231343
+2,India,14,V Kohli,MD Shanaka,SS Iyer,,0,1,1,,,,31343231343
+2,India,14,SS Iyer,MD Shanaka,V Kohli,,0,1,1,,,,31343231343
+2,India,14,V Kohli,MD Shanaka,SS Iyer,,0,1,1,,,,31343231343
+2,India,15,V Kohli,PWH de Silva,SS Iyer,,0,1,1,,,,31343231343
+2,India,15,SS Iyer,PWH de Silva,V Kohli,,0,4,4,,,,31343231343
+2,India,15,SS Iyer,PWH de Silva,V Kohli,,0,1,1,,,,31343231343
+2,India,15,V Kohli,PWH de Silva,SS Iyer,,0,1,1,,,,31343231343
+2,India,15,SS Iyer,PWH de Silva,V Kohli,,0,4,4,,,,31343231343
+2,India,15,SS Iyer,PWH de Silva,V Kohli,,0,6,6,,,,31343231343
+2,India,16,V Kohli,SL Malinga,SS Iyer,,0,4,4,,,,31343231343
+2,India,16,V Kohli,SL Malinga,SS Iyer,,0,2,2,,,,31343231343
+2,India,16,V Kohli,SL Malinga,SS Iyer,,0,6,6,,,,31343231343
+2,India,16,V Kohli,SL Malinga,SS Iyer,,0,2,2,,,,31343231343
+2,India,16,V Kohli,SL Malinga,SS Iyer,,0,1,1,,,,31343231343
+2,India,16,SS Iyer,SL Malinga,V Kohli,,0,1,1,,,,31343231343
+2,India,17,SS Iyer,CBRLS Kumara,V Kohli,,0,0,0,caught,SS Iyer,MD Shanaka,31343231343
+2,India,17,RR Pant,CBRLS Kumara,V Kohli,,0,1,1,,,,31343231343
+2,India,17,V Kohli,CBRLS Kumara,RR Pant,,0,6,6,,,,31343231343

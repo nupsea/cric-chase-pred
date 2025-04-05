@@ -1,0 +1,126 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Uganda,0,RG Mukasa,FJ Klaassen,S Sesazi,,0,0,0,bowled,RG Mukasa,,32186232186
+2,Uganda,0,RB Patel,FJ Klaassen,S Sesazi,,0,0,0,bowled,RB Patel,,32186232186
+2,Uganda,0,K Waiswa,FJ Klaassen,S Sesazi,,0,1,1,,,,32186232186
+2,Uganda,0,S Sesazi,FJ Klaassen,K Waiswa,,0,3,3,,,,32186232186
+2,Uganda,0,K Waiswa,FJ Klaassen,S Sesazi,,0,1,1,,,,32186232186
+2,Uganda,0,S Sesazi,FJ Klaassen,K Waiswa,,0,1,1,,,,32186232186
+2,Uganda,1,S Sesazi,A Dutt,K Waiswa,,0,1,1,,,,32186232186
+2,Uganda,1,K Waiswa,A Dutt,S Sesazi,,0,0,0,,,,32186232186
+2,Uganda,1,K Waiswa,A Dutt,S Sesazi,,0,0,0,,,,32186232186
+2,Uganda,1,K Waiswa,A Dutt,S Sesazi,,0,0,0,,,,32186232186
+2,Uganda,1,K Waiswa,A Dutt,S Sesazi,,0,0,0,,,,32186232186
+2,Uganda,1,K Waiswa,A Dutt,S Sesazi,,0,0,0,,,,32186232186
+2,Uganda,2,S Sesazi,FJ Klaassen,K Waiswa,,0,0,0,caught,S Sesazi,TLW Cooper,32186232186
+2,Uganda,2,F Achelam,FJ Klaassen,K Waiswa,,0,0,0,,,,32186232186
+2,Uganda,2,F Achelam,FJ Klaassen,K Waiswa,,0,0,0,lbw,F Achelam,,32186232186
+2,Uganda,2,Riazat Ali Shah,FJ Klaassen,K Waiswa,,0,1,1,,,,32186232186
+2,Uganda,2,K Waiswa,FJ Klaassen,Riazat Ali Shah,,0,0,0,,,,32186232186
+2,Uganda,2,K Waiswa,FJ Klaassen,Riazat Ali Shah,,0,1,1,,,,32186232186
+2,Uganda,3,K Waiswa,TJG Pringle,Riazat Ali Shah,,0,0,0,,,,32186232186
+2,Uganda,3,K Waiswa,TJG Pringle,Riazat Ali Shah,,0,0,0,,,,32186232186
+2,Uganda,3,K Waiswa,TJG Pringle,Riazat Ali Shah,,0,1,1,,,,32186232186
+2,Uganda,3,Riazat Ali Shah,TJG Pringle,K Waiswa,,0,1,1,,,,32186232186
+2,Uganda,3,K Waiswa,TJG Pringle,Riazat Ali Shah,,0,4,4,,,,32186232186
+2,Uganda,3,K Waiswa,TJG Pringle,Riazat Ali Shah,,0,3,3,,,,32186232186
+2,Uganda,4,K Waiswa,FJ Klaassen,Riazat Ali Shah,,0,0,0,,,,32186232186
+2,Uganda,4,K Waiswa,FJ Klaassen,Riazat Ali Shah,,0,4,4,,,,32186232186
+2,Uganda,4,K Waiswa,FJ Klaassen,Riazat Ali Shah,,0,0,0,,,,32186232186
+2,Uganda,4,K Waiswa,FJ Klaassen,Riazat Ali Shah,,0,0,0,,,,32186232186
+2,Uganda,4,K Waiswa,FJ Klaassen,Riazat Ali Shah,,0,0,0,caught,K Waiswa,A Dutt,32186232186
+2,Uganda,4,Riazat Ali Shah,FJ Klaassen,DM Nakrani,wides,1,1,0,,,,32186232186
+2,Uganda,4,Riazat Ali Shah,FJ Klaassen,DM Nakrani,,0,0,0,,,,32186232186
+2,Uganda,5,DM Nakrani,BFW de Leede,Riazat Ali Shah,,0,0,0,,,,32186232186
+2,Uganda,5,DM Nakrani,BFW de Leede,Riazat Ali Shah,,0,0,0,,,,32186232186
+2,Uganda,5,DM Nakrani,BFW de Leede,Riazat Ali Shah,,0,0,0,,,,32186232186
+2,Uganda,5,DM Nakrani,BFW de Leede,Riazat Ali Shah,,0,0,0,,,,32186232186
+2,Uganda,5,DM Nakrani,BFW de Leede,Riazat Ali Shah,,0,0,0,,,,32186232186
+2,Uganda,5,DM Nakrani,BFW de Leede,Riazat Ali Shah,,0,1,1,,,,32186232186
+2,Uganda,6,DM Nakrani,Shariz Ahmad,Riazat Ali Shah,,0,0,0,,,,32186232186
+2,Uganda,6,DM Nakrani,Shariz Ahmad,Riazat Ali Shah,,0,1,1,,,,32186232186
+2,Uganda,6,Riazat Ali Shah,Shariz Ahmad,DM Nakrani,wides,1,1,0,,,,32186232186
+2,Uganda,6,Riazat Ali Shah,Shariz Ahmad,DM Nakrani,,0,0,0,,,,32186232186
+2,Uganda,6,Riazat Ali Shah,Shariz Ahmad,DM Nakrani,,0,0,0,,,,32186232186
+2,Uganda,6,Riazat Ali Shah,Shariz Ahmad,DM Nakrani,,0,1,1,,,,32186232186
+2,Uganda,6,DM Nakrani,Shariz Ahmad,Riazat Ali Shah,,0,1,1,,,,32186232186
+2,Uganda,7,DM Nakrani,TJG Pringle,Riazat Ali Shah,,0,1,1,,,,32186232186
+2,Uganda,7,Riazat Ali Shah,TJG Pringle,DM Nakrani,,0,1,1,,,,32186232186
+2,Uganda,7,DM Nakrani,TJG Pringle,Riazat Ali Shah,,0,0,0,,,,32186232186
+2,Uganda,7,DM Nakrani,TJG Pringle,Riazat Ali Shah,,0,0,0,,,,32186232186
+2,Uganda,7,DM Nakrani,TJG Pringle,Riazat Ali Shah,,0,0,0,,,,32186232186
+2,Uganda,7,DM Nakrani,TJG Pringle,Riazat Ali Shah,,0,6,6,,,,32186232186
+2,Uganda,8,Riazat Ali Shah,Shariz Ahmad,DM Nakrani,,0,1,1,,,,32186232186
+2,Uganda,8,DM Nakrani,Shariz Ahmad,Riazat Ali Shah,,0,1,1,,,,32186232186
+2,Uganda,8,Riazat Ali Shah,Shariz Ahmad,DM Nakrani,,0,0,0,,,,32186232186
+2,Uganda,8,Riazat Ali Shah,Shariz Ahmad,DM Nakrani,,0,1,1,,,,32186232186
+2,Uganda,8,DM Nakrani,Shariz Ahmad,Riazat Ali Shah,,0,0,0,,,,32186232186
+2,Uganda,8,DM Nakrani,Shariz Ahmad,Riazat Ali Shah,,0,0,0,,,,32186232186
+2,Uganda,9,Riazat Ali Shah,A Dutt,DM Nakrani,,0,1,1,,,,32186232186
+2,Uganda,9,DM Nakrani,A Dutt,Riazat Ali Shah,,0,0,0,,,,32186232186
+2,Uganda,9,DM Nakrani,A Dutt,Riazat Ali Shah,,0,2,2,,,,32186232186
+2,Uganda,9,DM Nakrani,A Dutt,Riazat Ali Shah,,0,0,0,,,,32186232186
+2,Uganda,9,DM Nakrani,A Dutt,Riazat Ali Shah,,0,1,1,,,,32186232186
+2,Uganda,9,Riazat Ali Shah,A Dutt,DM Nakrani,,0,1,1,,,,32186232186
+2,Uganda,10,Riazat Ali Shah,Shariz Ahmad,DM Nakrani,,0,1,1,,,,32186232186
+2,Uganda,10,DM Nakrani,Shariz Ahmad,Riazat Ali Shah,,0,0,0,,,,32186232186
+2,Uganda,10,DM Nakrani,Shariz Ahmad,Riazat Ali Shah,,0,1,1,,,,32186232186
+2,Uganda,10,Riazat Ali Shah,Shariz Ahmad,DM Nakrani,,0,0,0,,,,32186232186
+2,Uganda,10,Riazat Ali Shah,Shariz Ahmad,DM Nakrani,,0,0,0,,,,32186232186
+2,Uganda,10,Riazat Ali Shah,Shariz Ahmad,DM Nakrani,,0,1,1,,,,32186232186
+2,Uganda,11,Riazat Ali Shah,BFW de Leede,DM Nakrani,,0,4,4,,,,32186232186
+2,Uganda,11,Riazat Ali Shah,BFW de Leede,DM Nakrani,,0,0,0,,,,32186232186
+2,Uganda,11,Riazat Ali Shah,BFW de Leede,DM Nakrani,,0,0,0,,,,32186232186
+2,Uganda,11,Riazat Ali Shah,BFW de Leede,DM Nakrani,,0,1,1,,,,32186232186
+2,Uganda,11,DM Nakrani,BFW de Leede,Riazat Ali Shah,,0,1,1,,,,32186232186
+2,Uganda,11,Riazat Ali Shah,BFW de Leede,DM Nakrani,,0,1,1,,,,32186232186
+2,Uganda,12,Riazat Ali Shah,TJG Pringle,DM Nakrani,,0,0,0,,,,32186232186
+2,Uganda,12,Riazat Ali Shah,TJG Pringle,DM Nakrani,,0,1,1,,,,32186232186
+2,Uganda,12,DM Nakrani,TJG Pringle,Riazat Ali Shah,,0,0,0,,,,32186232186
+2,Uganda,12,DM Nakrani,TJG Pringle,Riazat Ali Shah,legbyes,2,2,0,,,,32186232186
+2,Uganda,12,DM Nakrani,TJG Pringle,Riazat Ali Shah,,0,0,0,,,,32186232186
+2,Uganda,12,DM Nakrani,TJG Pringle,Riazat Ali Shah,,0,1,1,,,,32186232186
+2,Uganda,13,DM Nakrani,A Dutt,Riazat Ali Shah,,0,0,0,stumped,DM Nakrani,SA Edwards,32186232186
+2,Uganda,13,F Akankwasa,A Dutt,Riazat Ali Shah,,0,1,1,,,,32186232186
+2,Uganda,13,Riazat Ali Shah,A Dutt,F Akankwasa,,0,1,1,,,,32186232186
+2,Uganda,13,F Akankwasa,A Dutt,Riazat Ali Shah,,0,1,1,,,,32186232186
+2,Uganda,13,Riazat Ali Shah,A Dutt,F Akankwasa,,0,1,1,,,,32186232186
+2,Uganda,13,F Akankwasa,A Dutt,Riazat Ali Shah,,0,1,1,,,,32186232186
+2,Uganda,14,F Akankwasa,Shariz Ahmad,Riazat Ali Shah,,0,1,1,,,,32186232186
+2,Uganda,14,Riazat Ali Shah,Shariz Ahmad,F Akankwasa,,0,0,0,stumped,Riazat Ali Shah,SA Edwards,32186232186
+2,Uganda,14,F Nsubuga,Shariz Ahmad,F Akankwasa,,0,0,0,,,,32186232186
+2,Uganda,14,F Nsubuga,Shariz Ahmad,F Akankwasa,,0,1,1,,,,32186232186
+2,Uganda,14,F Akankwasa,Shariz Ahmad,F Nsubuga,,0,1,1,,,,32186232186
+2,Uganda,14,F Nsubuga,Shariz Ahmad,F Akankwasa,,0,1,1,,,,32186232186
+2,Uganda,15,F Nsubuga,FJ Klaassen,F Akankwasa,,0,0,0,,,,32186232186
+2,Uganda,15,F Nsubuga,FJ Klaassen,F Akankwasa,,0,1,1,,,,32186232186
+2,Uganda,15,F Akankwasa,FJ Klaassen,F Nsubuga,,0,0,0,,,,32186232186
+2,Uganda,15,F Akankwasa,FJ Klaassen,F Nsubuga,wides,1,1,0,,,,32186232186
+2,Uganda,15,F Akankwasa,FJ Klaassen,F Nsubuga,,0,4,4,,,,32186232186
+2,Uganda,15,F Akankwasa,FJ Klaassen,F Nsubuga,,0,0,0,,,,32186232186
+2,Uganda,15,F Akankwasa,FJ Klaassen,F Nsubuga,,0,0,0,,,,32186232186
+2,Uganda,16,F Nsubuga,TJG Pringle,F Akankwasa,,0,0,0,,,,32186232186
+2,Uganda,16,F Nsubuga,TJG Pringle,F Akankwasa,,0,1,1,,,,32186232186
+2,Uganda,16,F Akankwasa,TJG Pringle,F Nsubuga,,0,1,1,,,,32186232186
+2,Uganda,16,F Nsubuga,TJG Pringle,F Akankwasa,wides,1,1,0,,,,32186232186
+2,Uganda,16,F Nsubuga,TJG Pringle,F Akankwasa,,0,0,0,,,,32186232186
+2,Uganda,16,F Nsubuga,TJG Pringle,F Akankwasa,,0,1,1,,,,32186232186
+2,Uganda,16,F Akankwasa,TJG Pringle,F Nsubuga,,0,1,1,,,,32186232186
+2,Uganda,17,F Akankwasa,BFW de Leede,F Nsubuga,,0,0,0,,,,32186232186
+2,Uganda,17,F Akankwasa,BFW de Leede,F Nsubuga,,0,0,0,caught,F Akankwasa,SA Edwards,32186232186
+2,Uganda,17,Bilal Hassun,BFW de Leede,F Nsubuga,wides,1,1,0,,,,32186232186
+2,Uganda,17,Bilal Hassun,BFW de Leede,F Nsubuga,,0,0,0,,,,32186232186
+2,Uganda,17,Bilal Hassun,BFW de Leede,F Nsubuga,,0,0,0,,,,32186232186
+2,Uganda,17,Bilal Hassun,BFW de Leede,F Nsubuga,,0,0,0,,,,32186232186
+2,Uganda,17,Bilal Hassun,BFW de Leede,F Nsubuga,,0,0,0,,,,32186232186
+2,Uganda,18,F Nsubuga,A Dutt,Bilal Hassun,,0,0,0,,,,32186232186
+2,Uganda,18,F Nsubuga,A Dutt,Bilal Hassun,,0,6,6,,,,32186232186
+2,Uganda,18,F Nsubuga,A Dutt,Bilal Hassun,,0,0,0,,,,32186232186
+2,Uganda,18,F Nsubuga,A Dutt,Bilal Hassun,,0,1,1,,,,32186232186
+2,Uganda,18,Bilal Hassun,A Dutt,F Nsubuga,,0,1,1,,,,32186232186
+2,Uganda,18,F Nsubuga,A Dutt,Bilal Hassun,,0,1,1,,,,32186232186
+2,Uganda,19,F Nsubuga,BFW de Leede,Bilal Hassun,,0,2,2,,,,32186232186
+2,Uganda,19,F Nsubuga,BFW de Leede,Bilal Hassun,,0,0,0,bowled,F Nsubuga,,32186232186
+2,Uganda,19,J Miyaji,BFW de Leede,Bilal Hassun,,0,0,0,,,,32186232186
+2,Uganda,19,J Miyaji,BFW de Leede,Bilal Hassun,,0,0,0,,,,32186232186
+2,Uganda,19,J Miyaji,BFW de Leede,Bilal Hassun,,0,0,0,,,,32186232186
+2,Uganda,19,J Miyaji,BFW de Leede,Bilal Hassun,,0,0,0,,,,32186232186

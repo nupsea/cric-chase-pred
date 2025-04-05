@@ -1,0 +1,100 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Netherlands,0,B de Leede,AM Healey,HDJ Siegers,,0,1,1,,,,31676231676
+2,Netherlands,0,HDJ Siegers,AM Healey,B de Leede,,0,0,0,,,,31676231676
+2,Netherlands,0,HDJ Siegers,AM Healey,B de Leede,,0,0,0,,,,31676231676
+2,Netherlands,0,HDJ Siegers,AM Healey,B de Leede,,0,1,1,,,,31676231676
+2,Netherlands,0,B de Leede,AM Healey,HDJ Siegers,,0,0,0,,,,31676231676
+2,Netherlands,0,B de Leede,AM Healey,HDJ Siegers,,0,0,0,,,,31676231676
+2,Netherlands,1,HDJ Siegers,CM Gough,B de Leede,,0,0,0,caught,HDJ Siegers,AM Healey,31676231676
+2,Netherlands,1,R Rijke,CM Gough,B de Leede,,0,1,1,,,,31676231676
+2,Netherlands,1,B de Leede,CM Gough,R Rijke,,0,1,1,,,,31676231676
+2,Netherlands,1,R Rijke,CM Gough,B de Leede,,0,0,0,,,,31676231676
+2,Netherlands,1,R Rijke,CM Gough,B de Leede,,0,2,2,,,,31676231676
+2,Netherlands,1,R Rijke,CM Gough,B de Leede,,0,1,1,,,,31676231676
+2,Netherlands,2,R Rijke,AM Healey,B de Leede,,0,0,0,,,,31676231676
+2,Netherlands,2,R Rijke,AM Healey,B de Leede,,0,0,0,,,,31676231676
+2,Netherlands,2,R Rijke,AM Healey,B de Leede,,0,0,0,caught,R Rijke,B Maes Loch,31676231676
+2,Netherlands,2,J Post,AM Healey,B de Leede,,0,0,0,,,,31676231676
+2,Netherlands,2,J Post,AM Healey,B de Leede,,0,0,0,,,,31676231676
+2,Netherlands,2,J Post,AM Healey,B de Leede,,0,0,0,,,,31676231676
+2,Netherlands,3,B de Leede,CM Gough,J Post,,0,1,1,,,,31676231676
+2,Netherlands,3,J Post,CM Gough,B de Leede,wides,2,2,0,,,,31676231676
+2,Netherlands,3,B de Leede,CM Gough,J Post,,0,0,0,,,,31676231676
+2,Netherlands,3,B de Leede,CM Gough,J Post,wides,1,1,0,,,,31676231676
+2,Netherlands,3,B de Leede,CM Gough,J Post,,0,4,4,,,,31676231676
+2,Netherlands,3,B de Leede,CM Gough,J Post,,0,1,1,,,,31676231676
+2,Netherlands,3,J Post,CM Gough,B de Leede,,0,1,1,,,,31676231676
+2,Netherlands,3,B de Leede,CM Gough,J Post,,0,1,1,,,,31676231676
+2,Netherlands,4,B de Leede,AM Healey,J Post,,0,0,0,,,,31676231676
+2,Netherlands,4,B de Leede,AM Healey,J Post,,0,1,1,,,,31676231676
+2,Netherlands,4,J Post,AM Healey,B de Leede,,0,1,1,,,,31676231676
+2,Netherlands,4,B de Leede,AM Healey,J Post,,0,0,0,,,,31676231676
+2,Netherlands,4,B de Leede,AM Healey,J Post,,0,0,0,,,,31676231676
+2,Netherlands,4,B de Leede,AM Healey,J Post,,0,0,0,,,,31676231676
+2,Netherlands,5,J Post,ST Frohnmayer,B de Leede,,0,0,0,,,,31676231676
+2,Netherlands,5,J Post,ST Frohnmayer,B de Leede,,0,0,0,,,,31676231676
+2,Netherlands,5,J Post,ST Frohnmayer,B de Leede,,0,0,0,,,,31676231676
+2,Netherlands,5,J Post,ST Frohnmayer,B de Leede,,0,1,1,,,,31676231676
+2,Netherlands,5,B de Leede,ST Frohnmayer,J Post,,0,0,0,,,,31676231676
+2,Netherlands,5,B de Leede,ST Frohnmayer,J Post,,0,1,1,,,,31676231676
+2,Netherlands,6,B de Leede,AM Healey,J Post,,0,0,0,,,,31676231676
+2,Netherlands,6,B de Leede,AM Healey,J Post,,0,4,4,,,,31676231676
+2,Netherlands,6,B de Leede,AM Healey,J Post,wides,1,1,0,,,,31676231676
+2,Netherlands,6,B de Leede,AM Healey,J Post,,0,0,0,,,,31676231676
+2,Netherlands,6,B de Leede,AM Healey,J Post,,0,1,1,,,,31676231676
+2,Netherlands,6,J Post,AM Healey,B de Leede,,0,1,1,,,,31676231676
+2,Netherlands,6,B de Leede,AM Healey,J Post,,0,0,0,,,,31676231676
+2,Netherlands,7,J Post,ST Frohnmayer,B de Leede,,0,0,0,,,,31676231676
+2,Netherlands,7,J Post,ST Frohnmayer,B de Leede,,0,1,1,,,,31676231676
+2,Netherlands,7,B de Leede,ST Frohnmayer,J Post,,0,0,0,,,,31676231676
+2,Netherlands,7,B de Leede,ST Frohnmayer,J Post,,0,1,1,,,,31676231676
+2,Netherlands,7,J Post,ST Frohnmayer,B de Leede,,0,1,1,,,,31676231676
+2,Netherlands,7,B de Leede,ST Frohnmayer,J Post,,0,1,1,,,,31676231676
+2,Netherlands,8,B de Leede,A Doddaballapur,J Post,,0,4,4,,,,31676231676
+2,Netherlands,8,B de Leede,A Doddaballapur,J Post,,0,0,0,,,,31676231676
+2,Netherlands,8,B de Leede,A Doddaballapur,J Post,,0,4,4,,,,31676231676
+2,Netherlands,8,B de Leede,A Doddaballapur,J Post,noballs,1,1,0,,,,31676231676
+2,Netherlands,8,B de Leede,A Doddaballapur,J Post,,0,1,1,,,,31676231676
+2,Netherlands,8,J Post,A Doddaballapur,B de Leede,,0,0,0,,,,31676231676
+2,Netherlands,8,J Post,A Doddaballapur,B de Leede,,0,0,0,,,,31676231676
+2,Netherlands,9,B de Leede,ST Frohnmayer,J Post,,0,2,2,,,,31676231676
+2,Netherlands,9,B de Leede,ST Frohnmayer,J Post,,0,0,0,,,,31676231676
+2,Netherlands,9,B de Leede,ST Frohnmayer,J Post,,0,0,0,,,,31676231676
+2,Netherlands,9,B de Leede,ST Frohnmayer,J Post,,0,0,0,,,,31676231676
+2,Netherlands,9,B de Leede,ST Frohnmayer,J Post,,0,2,2,,,,31676231676
+2,Netherlands,9,B de Leede,ST Frohnmayer,J Post,,0,1,1,,,,31676231676
+2,Netherlands,10,B de Leede,A Doddaballapur,J Post,,0,0,0,,,,31676231676
+2,Netherlands,10,B de Leede,A Doddaballapur,J Post,,0,0,0,caught,B de Leede,CM Gough,31676231676
+2,Netherlands,10,IJR Zwilling,A Doddaballapur,J Post,,0,1,1,,,,31676231676
+2,Netherlands,10,J Post,A Doddaballapur,IJR Zwilling,wides,3,3,0,,,,31676231676
+2,Netherlands,10,J Post,A Doddaballapur,IJR Zwilling,,0,1,1,,,,31676231676
+2,Netherlands,10,IJR Zwilling,A Doddaballapur,J Post,,0,0,0,,,,31676231676
+2,Netherlands,10,IJR Zwilling,A Doddaballapur,J Post,wides,1,1,0,,,,31676231676
+2,Netherlands,10,IJR Zwilling,A Doddaballapur,J Post,,0,1,1,,,,31676231676
+2,Netherlands,11,IJR Zwilling,ST Frohnmayer,J Post,wides,1,1,0,,,,31676231676
+2,Netherlands,11,IJR Zwilling,ST Frohnmayer,J Post,,0,0,0,,,,31676231676
+2,Netherlands,11,IJR Zwilling,ST Frohnmayer,J Post,,0,1,1,,,,31676231676
+2,Netherlands,11,J Post,ST Frohnmayer,IJR Zwilling,,0,1,1,,,,31676231676
+2,Netherlands,11,IJR Zwilling,ST Frohnmayer,J Post,,0,1,1,,,,31676231676
+2,Netherlands,11,J Post,ST Frohnmayer,IJR Zwilling,,0,0,0,,,,31676231676
+2,Netherlands,11,J Post,ST Frohnmayer,IJR Zwilling,,0,1,1,,,,31676231676
+2,Netherlands,12,J Post,S Sadarangani,IJR Zwilling,,0,0,0,,,,31676231676
+2,Netherlands,12,J Post,S Sadarangani,IJR Zwilling,,0,0,0,,,,31676231676
+2,Netherlands,12,J Post,S Sadarangani,IJR Zwilling,wides,1,1,0,,,,31676231676
+2,Netherlands,12,J Post,S Sadarangani,IJR Zwilling,wides,2,2,0,,,,31676231676
+2,Netherlands,12,IJR Zwilling,S Sadarangani,J Post,,0,0,0,,,,31676231676
+2,Netherlands,12,IJR Zwilling,S Sadarangani,J Post,,0,2,2,,,,31676231676
+2,Netherlands,12,IJR Zwilling,S Sadarangani,J Post,,0,0,0,,,,31676231676
+2,Netherlands,12,IJR Zwilling,S Sadarangani,J Post,,0,0,0,,,,31676231676
+2,Netherlands,13,J Post,CM Gough,IJR Zwilling,,0,1,1,,,,31676231676
+2,Netherlands,13,IJR Zwilling,CM Gough,J Post,,0,0,0,,,,31676231676
+2,Netherlands,13,IJR Zwilling,CM Gough,J Post,,0,1,1,,,,31676231676
+2,Netherlands,13,J Post,CM Gough,IJR Zwilling,,0,0,0,,,,31676231676
+2,Netherlands,13,J Post,CM Gough,IJR Zwilling,,0,0,0,,,,31676231676
+2,Netherlands,13,J Post,CM Gough,IJR Zwilling,,0,1,1,,,,31676231676
+2,Netherlands,14,J Post,S Sadarangani,IJR Zwilling,,0,1,1,,,,31676231676
+2,Netherlands,14,IJR Zwilling,S Sadarangani,J Post,,0,0,0,,,,31676231676
+2,Netherlands,14,IJR Zwilling,S Sadarangani,J Post,,0,0,0,,,,31676231676
+2,Netherlands,14,IJR Zwilling,S Sadarangani,J Post,,0,2,2,,,,31676231676
+2,Netherlands,14,IJR Zwilling,S Sadarangani,J Post,,0,0,0,,,,31676231676
+2,Netherlands,14,IJR Zwilling,S Sadarangani,J Post,,0,1,1,,,,31676231676

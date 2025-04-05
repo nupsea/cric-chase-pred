@@ -1,0 +1,122 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,South Africa,0,JH Kallis,Harbhajan Singh,LE Bosman,,0,0,0,,,,311823118
+2,South Africa,0,JH Kallis,Harbhajan Singh,LE Bosman,,0,1,1,,,,311823118
+2,South Africa,0,LE Bosman,Harbhajan Singh,JH Kallis,,0,0,0,,,,311823118
+2,South Africa,0,LE Bosman,Harbhajan Singh,JH Kallis,,0,0,0,,,,311823118
+2,South Africa,0,LE Bosman,Harbhajan Singh,JH Kallis,,0,1,1,,,,311823118
+2,South Africa,0,JH Kallis,Harbhajan Singh,LE Bosman,,0,4,4,,,,311823118
+2,South Africa,1,LE Bosman,P Kumar,JH Kallis,,0,0,0,,,,311823118
+2,South Africa,1,LE Bosman,P Kumar,JH Kallis,legbyes,1,1,0,,,,311823118
+2,South Africa,1,JH Kallis,P Kumar,LE Bosman,,0,1,1,,,,311823118
+2,South Africa,1,LE Bosman,P Kumar,JH Kallis,,0,1,1,,,,311823118
+2,South Africa,1,JH Kallis,P Kumar,LE Bosman,,0,0,0,,,,311823118
+2,South Africa,1,JH Kallis,P Kumar,LE Bosman,,0,1,1,,,,311823118
+2,South Africa,2,JH Kallis,Harbhajan Singh,LE Bosman,,0,0,0,,,,311823118
+2,South Africa,2,JH Kallis,Harbhajan Singh,LE Bosman,,0,0,0,,,,311823118
+2,South Africa,2,JH Kallis,Harbhajan Singh,LE Bosman,,0,1,1,,,,311823118
+2,South Africa,2,LE Bosman,Harbhajan Singh,JH Kallis,,0,0,0,,,,311823118
+2,South Africa,2,LE Bosman,Harbhajan Singh,JH Kallis,,0,1,1,,,,311823118
+2,South Africa,2,JH Kallis,Harbhajan Singh,LE Bosman,,0,1,1,,,,311823118
+2,South Africa,3,JH Kallis,A Nehra,LE Bosman,,0,0,0,,,,311823118
+2,South Africa,3,JH Kallis,A Nehra,LE Bosman,,0,1,1,,,,311823118
+2,South Africa,3,LE Bosman,A Nehra,JH Kallis,,0,1,1,,,,311823118
+2,South Africa,3,JH Kallis,A Nehra,LE Bosman,,0,1,1,,,,311823118
+2,South Africa,3,LE Bosman,A Nehra,JH Kallis,,0,0,0,,,,311823118
+2,South Africa,3,LE Bosman,A Nehra,JH Kallis,,0,1,1,,,,311823118
+2,South Africa,4,LE Bosman,YK Pathan,JH Kallis,,0,2,2,,,,311823118
+2,South Africa,4,LE Bosman,YK Pathan,JH Kallis,,0,1,1,,,,311823118
+2,South Africa,4,JH Kallis,YK Pathan,LE Bosman,,0,1,1,,,,311823118
+2,South Africa,4,LE Bosman,YK Pathan,JH Kallis,,0,0,0,caught,LE Bosman,PP Chawla,311823118
+2,South Africa,4,JH Kallis,YK Pathan,GC Smith,,0,3,3,,,,311823118
+2,South Africa,4,GC Smith,YK Pathan,JH Kallis,,0,1,1,,,,311823118
+2,South Africa,5,GC Smith,A Nehra,JH Kallis,legbyes,1,1,0,,,,311823118
+2,South Africa,5,JH Kallis,A Nehra,GC Smith,,0,1,1,,,,311823118
+2,South Africa,5,GC Smith,A Nehra,JH Kallis,,0,2,2,,,,311823118
+2,South Africa,5,GC Smith,A Nehra,JH Kallis,,0,1,1,,,,311823118
+2,South Africa,5,JH Kallis,A Nehra,GC Smith,,0,2,2,,,,311823118
+2,South Africa,5,JH Kallis,A Nehra,GC Smith,,0,0,0,,,,311823118
+2,South Africa,6,GC Smith,YK Pathan,JH Kallis,,0,1,1,,,,311823118
+2,South Africa,6,JH Kallis,YK Pathan,GC Smith,,0,1,1,,,,311823118
+2,South Africa,6,GC Smith,YK Pathan,JH Kallis,,0,0,0,,,,311823118
+2,South Africa,6,GC Smith,YK Pathan,JH Kallis,,0,4,4,,,,311823118
+2,South Africa,6,GC Smith,YK Pathan,JH Kallis,,0,1,1,,,,311823118
+2,South Africa,6,JH Kallis,YK Pathan,GC Smith,,0,0,0,,,,311823118
+2,South Africa,7,GC Smith,PP Chawla,JH Kallis,,0,1,1,,,,311823118
+2,South Africa,7,JH Kallis,PP Chawla,GC Smith,,0,0,0,,,,311823118
+2,South Africa,7,JH Kallis,PP Chawla,GC Smith,,0,1,1,,,,311823118
+2,South Africa,7,GC Smith,PP Chawla,JH Kallis,byes,1,1,0,,,,311823118
+2,South Africa,7,JH Kallis,PP Chawla,GC Smith,,0,2,2,,,,311823118
+2,South Africa,7,JH Kallis,PP Chawla,GC Smith,,0,1,1,,,,311823118
+2,South Africa,8,JH Kallis,YK Pathan,GC Smith,,0,1,1,,,,311823118
+2,South Africa,8,GC Smith,YK Pathan,JH Kallis,,0,0,0,,,,311823118
+2,South Africa,8,GC Smith,YK Pathan,JH Kallis,,0,1,1,,,,311823118
+2,South Africa,8,JH Kallis,YK Pathan,GC Smith,,0,4,4,,,,311823118
+2,South Africa,8,JH Kallis,YK Pathan,GC Smith,,0,1,1,,,,311823118
+2,South Africa,8,GC Smith,YK Pathan,JH Kallis,,0,1,1,,,,311823118
+2,South Africa,9,GC Smith,RA Jadeja,JH Kallis,,0,0,0,,,,311823118
+2,South Africa,9,GC Smith,RA Jadeja,JH Kallis,,0,1,1,,,,311823118
+2,South Africa,9,JH Kallis,RA Jadeja,GC Smith,,0,0,0,,,,311823118
+2,South Africa,9,JH Kallis,RA Jadeja,GC Smith,,0,2,2,,,,311823118
+2,South Africa,9,JH Kallis,RA Jadeja,GC Smith,,0,0,0,,,,311823118
+2,South Africa,9,JH Kallis,RA Jadeja,GC Smith,,0,1,1,,,,311823118
+2,South Africa,10,JH Kallis,PP Chawla,GC Smith,,0,2,2,,,,311823118
+2,South Africa,10,JH Kallis,PP Chawla,GC Smith,,0,1,1,,,,311823118
+2,South Africa,10,GC Smith,PP Chawla,JH Kallis,,0,6,6,,,,311823118
+2,South Africa,10,GC Smith,PP Chawla,JH Kallis,,0,1,1,,,,311823118
+2,South Africa,10,JH Kallis,PP Chawla,GC Smith,,0,1,1,,,,311823118
+2,South Africa,10,GC Smith,PP Chawla,JH Kallis,,0,1,1,,,,311823118
+2,South Africa,11,GC Smith,RA Jadeja,JH Kallis,,0,0,0,,,,311823118
+2,South Africa,11,GC Smith,RA Jadeja,JH Kallis,,0,1,1,,,,311823118
+2,South Africa,11,JH Kallis,RA Jadeja,GC Smith,,0,0,0,,,,311823118
+2,South Africa,11,JH Kallis,RA Jadeja,GC Smith,,0,0,0,,,,311823118
+2,South Africa,11,JH Kallis,RA Jadeja,GC Smith,,0,2,2,,,,311823118
+2,South Africa,11,JH Kallis,RA Jadeja,GC Smith,,0,4,4,,,,311823118
+2,South Africa,12,GC Smith,Harbhajan Singh,JH Kallis,,0,1,1,,,,311823118
+2,South Africa,12,JH Kallis,Harbhajan Singh,GC Smith,,0,1,1,,,,311823118
+2,South Africa,12,GC Smith,Harbhajan Singh,JH Kallis,,0,1,1,,,,311823118
+2,South Africa,12,JH Kallis,Harbhajan Singh,GC Smith,,0,2,2,,,,311823118
+2,South Africa,12,JH Kallis,Harbhajan Singh,GC Smith,,0,2,2,,,,311823118
+2,South Africa,12,JH Kallis,Harbhajan Singh,GC Smith,,0,1,1,,,,311823118
+2,South Africa,13,JH Kallis,RA Jadeja,GC Smith,,0,1,1,,,,311823118
+2,South Africa,13,GC Smith,RA Jadeja,JH Kallis,,0,6,6,,,,311823118
+2,South Africa,13,GC Smith,RA Jadeja,JH Kallis,,0,1,1,,,,311823118
+2,South Africa,13,JH Kallis,RA Jadeja,GC Smith,,0,0,0,,,,311823118
+2,South Africa,13,JH Kallis,RA Jadeja,GC Smith,,0,1,1,,,,311823118
+2,South Africa,13,GC Smith,RA Jadeja,JH Kallis,,0,1,1,,,,311823118
+2,South Africa,14,GC Smith,Harbhajan Singh,JH Kallis,,0,1,1,,,,311823118
+2,South Africa,14,JH Kallis,Harbhajan Singh,GC Smith,,0,6,6,,,,311823118
+2,South Africa,14,JH Kallis,Harbhajan Singh,GC Smith,,0,6,6,,,,311823118
+2,South Africa,14,JH Kallis,Harbhajan Singh,GC Smith,,0,1,1,,,,311823118
+2,South Africa,14,GC Smith,Harbhajan Singh,JH Kallis,,0,1,1,,,,311823118
+2,South Africa,14,JH Kallis,Harbhajan Singh,GC Smith,,0,1,1,,,,311823118
+2,South Africa,15,JH Kallis,RA Jadeja,GC Smith,,0,6,6,,,,311823118
+2,South Africa,15,JH Kallis,RA Jadeja,GC Smith,,0,1,1,,,,311823118
+2,South Africa,15,GC Smith,RA Jadeja,JH Kallis,,0,1,1,run out,GC Smith,MS Dhoni,311823118
+2,South Africa,15,AB de Villiers,RA Jadeja,JH Kallis,,0,1,1,,,,311823118
+2,South Africa,15,JH Kallis,RA Jadeja,AB de Villiers,,0,1,1,,,,311823118
+2,South Africa,15,AB de Villiers,RA Jadeja,JH Kallis,,0,6,6,,,,311823118
+2,South Africa,16,JH Kallis,PP Chawla,AB de Villiers,,0,1,1,,,,311823118
+2,South Africa,16,AB de Villiers,PP Chawla,JH Kallis,,0,1,1,,,,311823118
+2,South Africa,16,JH Kallis,PP Chawla,AB de Villiers,,0,0,0,caught,JH Kallis,RA Jadeja,311823118
+2,South Africa,16,AB de Villiers,PP Chawla,JA Morkel,,0,0,0,,,,311823118
+2,South Africa,16,AB de Villiers,PP Chawla,JA Morkel,,0,6,6,,,,311823118
+2,South Africa,16,AB de Villiers,PP Chawla,JA Morkel,,0,2,2,,,,311823118
+2,South Africa,17,JA Morkel,A Nehra,AB de Villiers,,0,1,1,,,,311823118
+2,South Africa,17,AB de Villiers,A Nehra,JA Morkel,,0,1,1,,,,311823118
+2,South Africa,17,JA Morkel,A Nehra,AB de Villiers,,0,1,1,,,,311823118
+2,South Africa,17,AB de Villiers,A Nehra,JA Morkel,,0,1,1,,,,311823118
+2,South Africa,17,JA Morkel,A Nehra,AB de Villiers,noballs,1,2,1,,,,311823118
+2,South Africa,17,AB de Villiers,A Nehra,JA Morkel,,0,1,1,,,,311823118
+2,South Africa,17,JA Morkel,A Nehra,AB de Villiers,,0,1,1,,,,311823118
+2,South Africa,18,JA Morkel,YK Pathan,AB de Villiers,,0,6,6,,,,311823118
+2,South Africa,18,JA Morkel,YK Pathan,AB de Villiers,,0,2,2,,,,311823118
+2,South Africa,18,JA Morkel,YK Pathan,AB de Villiers,,0,0,0,caught,JA Morkel,Harbhajan Singh,311823118
+2,South Africa,18,AB de Villiers,YK Pathan,MV Boucher,,0,4,4,,,,311823118
+2,South Africa,18,AB de Villiers,YK Pathan,MV Boucher,,0,6,6,,,,311823118
+2,South Africa,18,AB de Villiers,YK Pathan,MV Boucher,,0,1,1,,,,311823118
+2,South Africa,19,AB de Villiers,A Nehra,MV Boucher,,0,1,1,,,,311823118
+2,South Africa,19,MV Boucher,A Nehra,AB de Villiers,,0,3,3,,,,311823118
+2,South Africa,19,AB de Villiers,A Nehra,MV Boucher,,0,0,0,,,,311823118
+2,South Africa,19,AB de Villiers,A Nehra,MV Boucher,,0,0,0,caught,AB de Villiers,PP Chawla,311823118
+2,South Africa,19,MV Boucher,A Nehra,JP Duminy,,0,1,1,,,,311823118
+2,South Africa,19,JP Duminy,A Nehra,MV Boucher,,0,4,4,,,,311823118

@@ -1,0 +1,65 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Australia,0,AJ Finch,K Rabada,CA Lynn,,0,1,1,,,,385323853
+2,Australia,0,CA Lynn,K Rabada,AJ Finch,legbyes,4,4,0,,,,385323853
+2,Australia,0,CA Lynn,K Rabada,AJ Finch,,0,0,0,,,,385323853
+2,Australia,0,CA Lynn,K Rabada,AJ Finch,,0,4,4,,,,385323853
+2,Australia,0,CA Lynn,K Rabada,AJ Finch,,0,4,4,,,,385323853
+2,Australia,0,CA Lynn,K Rabada,AJ Finch,,0,0,0,,,,385323853
+2,Australia,1,AJ Finch,L Ngidi,CA Lynn,,0,4,4,,,,385323853
+2,Australia,1,AJ Finch,L Ngidi,CA Lynn,legbyes,1,1,0,,,,385323853
+2,Australia,1,CA Lynn,L Ngidi,AJ Finch,,0,1,1,,,,385323853
+2,Australia,1,AJ Finch,L Ngidi,CA Lynn,,0,2,2,,,,385323853
+2,Australia,1,AJ Finch,L Ngidi,CA Lynn,,0,0,0,,,,385323853
+2,Australia,1,AJ Finch,L Ngidi,CA Lynn,,0,0,0,bowled,AJ Finch,,385323853
+2,Australia,2,CA Lynn,CH Morris,DJM Short,,0,0,0,,,,385323853
+2,Australia,2,CA Lynn,CH Morris,DJM Short,,0,4,4,,,,385323853
+2,Australia,2,CA Lynn,CH Morris,DJM Short,,0,1,1,,,,385323853
+2,Australia,2,DJM Short,CH Morris,CA Lynn,,0,0,0,caught,DJM Short,AL Phehlukwayo,385323853
+2,Australia,2,GJ Maxwell,CH Morris,CA Lynn,,0,1,1,,,,385323853
+2,Australia,2,CA Lynn,CH Morris,GJ Maxwell,,0,0,0,bowled,CA Lynn,,385323853
+2,Australia,3,GJ Maxwell,AL Phehlukwayo,MP Stoinis,,0,3,3,,,,385323853
+2,Australia,3,MP Stoinis,AL Phehlukwayo,GJ Maxwell,wides,1,1,0,,,,385323853
+2,Australia,3,MP Stoinis,AL Phehlukwayo,GJ Maxwell,,0,1,1,,,,385323853
+2,Australia,3,GJ Maxwell,AL Phehlukwayo,MP Stoinis,,0,1,1,,,,385323853
+2,Australia,3,MP Stoinis,AL Phehlukwayo,GJ Maxwell,,0,4,4,,,,385323853
+2,Australia,3,MP Stoinis,AL Phehlukwayo,GJ Maxwell,,0,0,0,caught,MP Stoinis,AK Markram,385323853
+2,Australia,3,BR McDermott,AL Phehlukwayo,GJ Maxwell,,0,1,1,,,,385323853
+2,Australia,4,BR McDermott,T Shamsi,GJ Maxwell,,0,1,1,,,,385323853
+2,Australia,4,GJ Maxwell,T Shamsi,BR McDermott,,0,0,0,,,,385323853
+2,Australia,4,GJ Maxwell,T Shamsi,BR McDermott,,0,1,1,,,,385323853
+2,Australia,4,BR McDermott,T Shamsi,GJ Maxwell,,0,2,2,,,,385323853
+2,Australia,4,BR McDermott,T Shamsi,GJ Maxwell,,0,0,0,,,,385323853
+2,Australia,4,BR McDermott,T Shamsi,GJ Maxwell,,0,0,0,,,,385323853
+2,Australia,5,GJ Maxwell,AL Phehlukwayo,BR McDermott,,0,1,1,,,,385323853
+2,Australia,5,BR McDermott,AL Phehlukwayo,GJ Maxwell,,0,0,0,caught,BR McDermott,Q de Kock,385323853
+2,Australia,5,AT Carey,AL Phehlukwayo,GJ Maxwell,,0,0,0,,,,385323853
+2,Australia,5,AT Carey,AL Phehlukwayo,GJ Maxwell,,0,1,1,,,,385323853
+2,Australia,5,GJ Maxwell,AL Phehlukwayo,AT Carey,,0,2,2,,,,385323853
+2,Australia,5,GJ Maxwell,AL Phehlukwayo,AT Carey,,0,6,6,,,,385323853
+2,Australia,6,AT Carey,T Shamsi,GJ Maxwell,,0,2,2,,,,385323853
+2,Australia,6,AT Carey,T Shamsi,GJ Maxwell,,0,2,2,,,,385323853
+2,Australia,6,AT Carey,T Shamsi,GJ Maxwell,,0,2,2,,,,385323853
+2,Australia,6,AT Carey,T Shamsi,GJ Maxwell,,0,1,1,,,,385323853
+2,Australia,6,GJ Maxwell,T Shamsi,AT Carey,,0,1,1,,,,385323853
+2,Australia,6,AT Carey,T Shamsi,GJ Maxwell,,0,0,0,caught,AT Carey,H Klaasen,385323853
+2,Australia,7,GJ Maxwell,CH Morris,NM Coulter-Nile,,0,2,2,,,,385323853
+2,Australia,7,GJ Maxwell,CH Morris,NM Coulter-Nile,,0,2,2,,,,385323853
+2,Australia,7,GJ Maxwell,CH Morris,NM Coulter-Nile,,0,0,0,,,,385323853
+2,Australia,7,GJ Maxwell,CH Morris,NM Coulter-Nile,,0,0,0,,,,385323853
+2,Australia,7,GJ Maxwell,CH Morris,NM Coulter-Nile,,0,0,0,,,,385323853
+2,Australia,7,GJ Maxwell,CH Morris,NM Coulter-Nile,wides,1,1,0,,,,385323853
+2,Australia,7,GJ Maxwell,CH Morris,NM Coulter-Nile,,0,1,1,,,,385323853
+2,Australia,8,GJ Maxwell,K Rabada,NM Coulter-Nile,,0,1,1,,,,385323853
+2,Australia,8,NM Coulter-Nile,K Rabada,GJ Maxwell,,0,1,1,,,,385323853
+2,Australia,8,GJ Maxwell,K Rabada,NM Coulter-Nile,,0,0,0,,,,385323853
+2,Australia,8,GJ Maxwell,K Rabada,NM Coulter-Nile,wides,1,1,0,,,,385323853
+2,Australia,8,GJ Maxwell,K Rabada,NM Coulter-Nile,,0,4,4,,,,385323853
+2,Australia,8,GJ Maxwell,K Rabada,NM Coulter-Nile,,0,4,4,,,,385323853
+2,Australia,8,GJ Maxwell,K Rabada,NM Coulter-Nile,,0,1,1,,,,385323853
+2,Australia,9,GJ Maxwell,L Ngidi,NM Coulter-Nile,,0,6,6,,,,385323853
+2,Australia,9,GJ Maxwell,L Ngidi,NM Coulter-Nile,,0,1,1,,,,385323853
+2,Australia,9,NM Coulter-Nile,L Ngidi,GJ Maxwell,wides,1,1,0,,,,385323853
+2,Australia,9,NM Coulter-Nile,L Ngidi,GJ Maxwell,,0,0,0,,,,385323853
+2,Australia,9,NM Coulter-Nile,L Ngidi,GJ Maxwell,,0,0,0,,,,385323853
+2,Australia,9,NM Coulter-Nile,L Ngidi,GJ Maxwell,,0,1,1,,,,385323853
+2,Australia,9,GJ Maxwell,L Ngidi,NM Coulter-Nile,,0,0,0,caught,GJ Maxwell,F Behardien,385323853

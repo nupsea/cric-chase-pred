@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Bangladesh,0,Mohammad Naim,JA Duffy,Liton Das,,0,4,4,,,,31597231597
+2,Bangladesh,0,Mohammad Naim,JA Duffy,Liton Das,,0,0,0,,,,31597231597
+2,Bangladesh,0,Mohammad Naim,JA Duffy,Liton Das,,0,0,0,,,,31597231597
+2,Bangladesh,0,Mohammad Naim,JA Duffy,Liton Das,,0,1,1,,,,31597231597
+2,Bangladesh,0,Liton Das,JA Duffy,Mohammad Naim,,0,1,1,,,,31597231597
+2,Bangladesh,0,Mohammad Naim,JA Duffy,Liton Das,,0,2,2,,,,31597231597
+2,Bangladesh,1,Liton Das,AY Patel,Mohammad Naim,,0,0,0,,,,31597231597
+2,Bangladesh,1,Liton Das,AY Patel,Mohammad Naim,,0,0,0,,,,31597231597
+2,Bangladesh,1,Liton Das,AY Patel,Mohammad Naim,,0,0,0,,,,31597231597
+2,Bangladesh,1,Liton Das,AY Patel,Mohammad Naim,,0,0,0,,,,31597231597
+2,Bangladesh,1,Liton Das,AY Patel,Mohammad Naim,,0,0,0,,,,31597231597
+2,Bangladesh,1,Liton Das,AY Patel,Mohammad Naim,,0,1,1,,,,31597231597
+2,Bangladesh,2,Liton Das,SC Kuggeleijn,Mohammad Naim,,0,1,1,,,,31597231597
+2,Bangladesh,2,Mohammad Naim,SC Kuggeleijn,Liton Das,,0,1,1,,,,31597231597
+2,Bangladesh,2,Liton Das,SC Kuggeleijn,Mohammad Naim,,0,4,4,,,,31597231597
+2,Bangladesh,2,Liton Das,SC Kuggeleijn,Mohammad Naim,,0,1,1,,,,31597231597
+2,Bangladesh,2,Mohammad Naim,SC Kuggeleijn,Liton Das,wides,1,1,0,,,,31597231597
+2,Bangladesh,2,Mohammad Naim,SC Kuggeleijn,Liton Das,,0,0,0,,,,31597231597
+2,Bangladesh,2,Mohammad Naim,SC Kuggeleijn,Liton Das,,0,1,1,,,,31597231597
+2,Bangladesh,3,Mohammad Naim,CE McConchie,Liton Das,,0,0,0,,,,31597231597
+2,Bangladesh,3,Mohammad Naim,CE McConchie,Liton Das,,0,0,0,,,,31597231597
+2,Bangladesh,3,Mohammad Naim,CE McConchie,Liton Das,,0,2,2,,,,31597231597
+2,Bangladesh,3,Mohammad Naim,CE McConchie,Liton Das,,0,4,4,,,,31597231597
+2,Bangladesh,3,Mohammad Naim,CE McConchie,Liton Das,,0,0,0,,,,31597231597
+2,Bangladesh,3,Mohammad Naim,CE McConchie,Liton Das,,0,0,0,,,,31597231597
+2,Bangladesh,4,Liton Das,AY Patel,Mohammad Naim,,0,2,2,,,,31597231597
+2,Bangladesh,4,Liton Das,AY Patel,Mohammad Naim,,0,0,0,caught,Liton Das,SC Kuggeleijn,31597231597
+2,Bangladesh,4,Soumya Sarkar,AY Patel,Mohammad Naim,,0,0,0,,,,31597231597
+2,Bangladesh,4,Soumya Sarkar,AY Patel,Mohammad Naim,,0,0,0,,,,31597231597
+2,Bangladesh,4,Soumya Sarkar,AY Patel,Mohammad Naim,,0,0,0,,,,31597231597
+2,Bangladesh,4,Soumya Sarkar,AY Patel,Mohammad Naim,,0,1,1,,,,31597231597
+2,Bangladesh,5,Soumya Sarkar,JA Duffy,Mohammad Naim,,0,1,1,,,,31597231597
+2,Bangladesh,5,Mohammad Naim,JA Duffy,Soumya Sarkar,,0,1,1,,,,31597231597
+2,Bangladesh,5,Soumya Sarkar,JA Duffy,Mohammad Naim,,0,0,0,,,,31597231597
+2,Bangladesh,5,Soumya Sarkar,JA Duffy,Mohammad Naim,,0,1,1,,,,31597231597
+2,Bangladesh,5,Mohammad Naim,JA Duffy,Soumya Sarkar,,0,4,4,,,,31597231597
+2,Bangladesh,5,Mohammad Naim,JA Duffy,Soumya Sarkar,,0,1,1,,,,31597231597
+2,Bangladesh,6,Mohammad Naim,CE McConchie,Soumya Sarkar,,0,1,1,,,,31597231597
+2,Bangladesh,6,Soumya Sarkar,CE McConchie,Mohammad Naim,,0,1,1,,,,31597231597
+2,Bangladesh,6,Mohammad Naim,CE McConchie,Soumya Sarkar,,0,1,1,,,,31597231597
+2,Bangladesh,6,Soumya Sarkar,CE McConchie,Mohammad Naim,,0,0,0,caught,Soumya Sarkar,R Ravindra,31597231597
+2,Bangladesh,6,Mushfiqur Rahim,CE McConchie,Mohammad Naim,wides,1,1,0,,,,31597231597
+2,Bangladesh,6,Mushfiqur Rahim,CE McConchie,Mohammad Naim,,0,0,0,,,,31597231597
+2,Bangladesh,6,Mushfiqur Rahim,CE McConchie,Mohammad Naim,,0,0,0,,,,31597231597
+2,Bangladesh,7,Mohammad Naim,BV Sears,Mushfiqur Rahim,,0,0,0,,,,31597231597
+2,Bangladesh,7,Mohammad Naim,BV Sears,Mushfiqur Rahim,,0,0,0,caught,Mohammad Naim,TWM Latham,31597231597
+2,Bangladesh,7,Afif Hossain,BV Sears,Mushfiqur Rahim,,0,1,1,,,,31597231597
+2,Bangladesh,7,Mushfiqur Rahim,BV Sears,Afif Hossain,,0,1,1,,,,31597231597
+2,Bangladesh,7,Afif Hossain,BV Sears,Mushfiqur Rahim,,0,1,1,,,,31597231597
+2,Bangladesh,7,Mushfiqur Rahim,BV Sears,Afif Hossain,wides,1,1,0,,,,31597231597
+2,Bangladesh,7,Mushfiqur Rahim,BV Sears,Afif Hossain,,0,1,1,,,,31597231597
+2,Bangladesh,8,Mushfiqur Rahim,R Ravindra,Afif Hossain,,0,0,0,,,,31597231597
+2,Bangladesh,8,Mushfiqur Rahim,R Ravindra,Afif Hossain,,0,0,0,,,,31597231597
+2,Bangladesh,8,Mushfiqur Rahim,R Ravindra,Afif Hossain,,0,1,1,,,,31597231597
+2,Bangladesh,8,Afif Hossain,R Ravindra,Mushfiqur Rahim,,0,1,1,,,,31597231597
+2,Bangladesh,8,Mushfiqur Rahim,R Ravindra,Afif Hossain,,0,0,0,caught,Mushfiqur Rahim,C de Grandhomme,31597231597
+2,Bangladesh,8,Afif Hossain,R Ravindra,Mahmudullah,,0,0,0,,,,31597231597
+2,Bangladesh,9,Mahmudullah,BV Sears,Afif Hossain,,0,0,0,,,,31597231597
+2,Bangladesh,9,Mahmudullah,BV Sears,Afif Hossain,,0,0,0,,,,31597231597
+2,Bangladesh,9,Mahmudullah,BV Sears,Afif Hossain,,0,0,0,,,,31597231597
+2,Bangladesh,9,Mahmudullah,BV Sears,Afif Hossain,,0,1,1,,,,31597231597
+2,Bangladesh,9,Afif Hossain,BV Sears,Mahmudullah,,0,0,0,,,,31597231597
+2,Bangladesh,9,Afif Hossain,BV Sears,Mahmudullah,,0,1,1,,,,31597231597
+2,Bangladesh,10,Afif Hossain,R Ravindra,Mahmudullah,,0,3,3,,,,31597231597
+2,Bangladesh,10,Mahmudullah,R Ravindra,Afif Hossain,,0,1,1,,,,31597231597
+2,Bangladesh,10,Afif Hossain,R Ravindra,Mahmudullah,,0,1,1,,,,31597231597
+2,Bangladesh,10,Mahmudullah,R Ravindra,Afif Hossain,,0,2,2,,,,31597231597
+2,Bangladesh,10,Mahmudullah,R Ravindra,Afif Hossain,,0,0,0,,,,31597231597
+2,Bangladesh,10,Mahmudullah,R Ravindra,Afif Hossain,,0,1,1,,,,31597231597
+2,Bangladesh,11,Mahmudullah,BV Sears,Afif Hossain,,0,1,1,,,,31597231597
+2,Bangladesh,11,Afif Hossain,BV Sears,Mahmudullah,,0,1,1,,,,31597231597
+2,Bangladesh,11,Mahmudullah,BV Sears,Afif Hossain,,0,0,0,,,,31597231597
+2,Bangladesh,11,Mahmudullah,BV Sears,Afif Hossain,,0,1,1,,,,31597231597
+2,Bangladesh,11,Afif Hossain,BV Sears,Mahmudullah,,0,4,4,,,,31597231597
+2,Bangladesh,11,Afif Hossain,BV Sears,Mahmudullah,wides,1,1,0,,,,31597231597
+2,Bangladesh,11,Afif Hossain,BV Sears,Mahmudullah,,0,6,6,,,,31597231597
+2,Bangladesh,12,Mahmudullah,R Ravindra,Afif Hossain,,0,4,4,,,,31597231597
+2,Bangladesh,12,Mahmudullah,R Ravindra,Afif Hossain,,0,1,1,,,,31597231597
+2,Bangladesh,12,Afif Hossain,R Ravindra,Mahmudullah,,0,1,1,,,,31597231597
+2,Bangladesh,12,Mahmudullah,R Ravindra,Afif Hossain,,0,1,1,,,,31597231597
+2,Bangladesh,12,Afif Hossain,R Ravindra,Mahmudullah,,0,0,0,,,,31597231597
+2,Bangladesh,12,Afif Hossain,R Ravindra,Mahmudullah,,0,2,2,,,,31597231597
+2,Bangladesh,13,Mahmudullah,CE McConchie,Afif Hossain,,0,1,1,,,,31597231597
+2,Bangladesh,13,Afif Hossain,CE McConchie,Mahmudullah,,0,1,1,,,,31597231597
+2,Bangladesh,13,Mahmudullah,CE McConchie,Afif Hossain,,0,6,6,,,,31597231597
+2,Bangladesh,13,Mahmudullah,CE McConchie,Afif Hossain,,0,1,1,,,,31597231597
+2,Bangladesh,13,Afif Hossain,CE McConchie,Mahmudullah,,0,0,0,,,,31597231597
+2,Bangladesh,13,Afif Hossain,CE McConchie,Mahmudullah,,0,6,6,,,,31597231597
+2,Bangladesh,14,Mahmudullah,AY Patel,Afif Hossain,,0,1,1,,,,31597231597
+2,Bangladesh,14,Afif Hossain,AY Patel,Mahmudullah,,0,4,4,,,,31597231597
+2,Bangladesh,14,Afif Hossain,AY Patel,Mahmudullah,,0,6,6,,,,31597231597
+2,Bangladesh,14,Afif Hossain,AY Patel,Mahmudullah,,0,0,0,,,,31597231597
+2,Bangladesh,14,Afif Hossain,AY Patel,Mahmudullah,,0,0,0,,,,31597231597
+2,Bangladesh,14,Afif Hossain,AY Patel,Mahmudullah,,0,1,1,,,,31597231597
+2,Bangladesh,15,Afif Hossain,SC Kuggeleijn,Mahmudullah,,0,1,1,,,,31597231597
+2,Bangladesh,15,Mahmudullah,SC Kuggeleijn,Afif Hossain,,0,0,0,,,,31597231597
+2,Bangladesh,15,Mahmudullah,SC Kuggeleijn,Afif Hossain,,0,1,1,,,,31597231597
+2,Bangladesh,15,Afif Hossain,SC Kuggeleijn,Mahmudullah,,0,0,0,,,,31597231597
+2,Bangladesh,15,Afif Hossain,SC Kuggeleijn,Mahmudullah,,0,1,1,,,,31597231597
+2,Bangladesh,15,Mahmudullah,SC Kuggeleijn,Afif Hossain,,0,0,0,caught,Mahmudullah,FH Allen,31597231597
+2,Bangladesh,16,Nurul Hasan,AY Patel,Afif Hossain,,0,0,0,,,,31597231597
+2,Bangladesh,16,Nurul Hasan,AY Patel,Afif Hossain,,0,0,0,,,,31597231597
+2,Bangladesh,16,Nurul Hasan,AY Patel,Afif Hossain,,0,4,4,,,,31597231597
+2,Bangladesh,16,Nurul Hasan,AY Patel,Afif Hossain,,0,0,0,lbw,Nurul Hasan,,31597231597
+2,Bangladesh,16,Shamim Hossain,AY Patel,Afif Hossain,,0,0,0,,,,31597231597
+2,Bangladesh,16,Shamim Hossain,AY Patel,Afif Hossain,,0,1,1,,,,31597231597
+2,Bangladesh,17,Shamim Hossain,JA Duffy,Afif Hossain,,0,1,1,,,,31597231597
+2,Bangladesh,17,Afif Hossain,JA Duffy,Shamim Hossain,,0,0,0,,,,31597231597
+2,Bangladesh,17,Afif Hossain,JA Duffy,Shamim Hossain,,0,0,0,,,,31597231597
+2,Bangladesh,17,Afif Hossain,JA Duffy,Shamim Hossain,,0,1,1,,,,31597231597
+2,Bangladesh,17,Shamim Hossain,JA Duffy,Afif Hossain,,0,0,0,,,,31597231597
+2,Bangladesh,17,Shamim Hossain,JA Duffy,Afif Hossain,,0,0,0,bowled,Shamim Hossain,,31597231597
+2,Bangladesh,18,Afif Hossain,SC Kuggeleijn,Taskin Ahmed,,0,1,1,,,,31597231597
+2,Bangladesh,18,Taskin Ahmed,SC Kuggeleijn,Afif Hossain,,0,4,4,,,,31597231597
+2,Bangladesh,18,Taskin Ahmed,SC Kuggeleijn,Afif Hossain,,0,1,1,,,,31597231597
+2,Bangladesh,18,Afif Hossain,SC Kuggeleijn,Taskin Ahmed,,0,1,1,,,,31597231597
+2,Bangladesh,18,Taskin Ahmed,SC Kuggeleijn,Afif Hossain,,0,4,4,,,,31597231597
+2,Bangladesh,18,Taskin Ahmed,SC Kuggeleijn,Afif Hossain,,0,0,0,bowled,Taskin Ahmed,,31597231597
+2,Bangladesh,19,Afif Hossain,JA Duffy,Nasum Ahmed,,0,1,1,,,,31597231597
+2,Bangladesh,19,Nasum Ahmed,JA Duffy,Afif Hossain,,0,1,1,,,,31597231597
+2,Bangladesh,19,Afif Hossain,JA Duffy,Nasum Ahmed,,0,2,2,,,,31597231597
+2,Bangladesh,19,Afif Hossain,JA Duffy,Nasum Ahmed,,0,1,1,,,,31597231597
+2,Bangladesh,19,Nasum Ahmed,JA Duffy,Afif Hossain,,0,0,0,,,,31597231597
+2,Bangladesh,19,Nasum Ahmed,JA Duffy,Afif Hossain,,0,2,2,,,,31597231597

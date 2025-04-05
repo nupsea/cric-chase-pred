@@ -1,0 +1,119 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Scotland,0,HG Munsey,Bilal Khan,KJ Coetzer,,0,1,1,,,,372623726
+2,Scotland,0,KJ Coetzer,Bilal Khan,HG Munsey,wides,1,1,0,,,,372623726
+2,Scotland,0,KJ Coetzer,Bilal Khan,HG Munsey,,0,0,0,,,,372623726
+2,Scotland,0,KJ Coetzer,Bilal Khan,HG Munsey,,0,2,2,,,,372623726
+2,Scotland,0,KJ Coetzer,Bilal Khan,HG Munsey,,0,2,2,,,,372623726
+2,Scotland,0,KJ Coetzer,Bilal Khan,HG Munsey,,0,4,4,,,,372623726
+2,Scotland,0,KJ Coetzer,Bilal Khan,HG Munsey,,0,2,2,,,,372623726
+2,Scotland,1,HG Munsey,AV Lalcheta,KJ Coetzer,,0,0,0,,,,372623726
+2,Scotland,1,HG Munsey,AV Lalcheta,KJ Coetzer,,0,0,0,,,,372623726
+2,Scotland,1,HG Munsey,AV Lalcheta,KJ Coetzer,,0,2,2,,,,372623726
+2,Scotland,1,HG Munsey,AV Lalcheta,KJ Coetzer,,0,0,0,,,,372623726
+2,Scotland,1,HG Munsey,AV Lalcheta,KJ Coetzer,,0,0,0,,,,372623726
+2,Scotland,1,HG Munsey,AV Lalcheta,KJ Coetzer,,0,0,0,,,,372623726
+2,Scotland,2,KJ Coetzer,Zeeshan Maqsood,HG Munsey,,0,0,0,,,,372623726
+2,Scotland,2,KJ Coetzer,Zeeshan Maqsood,HG Munsey,,0,1,1,,,,372623726
+2,Scotland,2,HG Munsey,Zeeshan Maqsood,KJ Coetzer,,0,1,1,,,,372623726
+2,Scotland,2,KJ Coetzer,Zeeshan Maqsood,HG Munsey,,0,0,0,,,,372623726
+2,Scotland,2,KJ Coetzer,Zeeshan Maqsood,HG Munsey,,0,0,0,,,,372623726
+2,Scotland,2,KJ Coetzer,Zeeshan Maqsood,HG Munsey,,0,1,1,,,,372623726
+2,Scotland,3,KJ Coetzer,AV Lalcheta,HG Munsey,,0,0,0,,,,372623726
+2,Scotland,3,KJ Coetzer,AV Lalcheta,HG Munsey,,0,0,0,,,,372623726
+2,Scotland,3,KJ Coetzer,AV Lalcheta,HG Munsey,,0,0,0,,,,372623726
+2,Scotland,3,KJ Coetzer,AV Lalcheta,HG Munsey,,0,4,4,,,,372623726
+2,Scotland,3,KJ Coetzer,AV Lalcheta,HG Munsey,,0,0,0,,,,372623726
+2,Scotland,3,KJ Coetzer,AV Lalcheta,HG Munsey,,0,4,4,,,,372623726
+2,Scotland,4,HG Munsey,Bilal Khan,KJ Coetzer,,0,1,1,,,,372623726
+2,Scotland,4,KJ Coetzer,Bilal Khan,HG Munsey,,0,1,1,,,,372623726
+2,Scotland,4,HG Munsey,Bilal Khan,KJ Coetzer,,0,0,0,,,,372623726
+2,Scotland,4,HG Munsey,Bilal Khan,KJ Coetzer,,0,4,4,,,,372623726
+2,Scotland,4,HG Munsey,Bilal Khan,KJ Coetzer,,0,1,1,,,,372623726
+2,Scotland,4,KJ Coetzer,Bilal Khan,HG Munsey,,0,1,1,,,,372623726
+2,Scotland,5,KJ Coetzer,Kaleemullah,HG Munsey,,0,1,1,,,,372623726
+2,Scotland,5,HG Munsey,Kaleemullah,KJ Coetzer,,0,0,0,,,,372623726
+2,Scotland,5,HG Munsey,Kaleemullah,KJ Coetzer,byes,2,2,0,,,,372623726
+2,Scotland,5,HG Munsey,Kaleemullah,KJ Coetzer,wides,1,1,0,,,,372623726
+2,Scotland,5,HG Munsey,Kaleemullah,KJ Coetzer,,0,1,1,,,,372623726
+2,Scotland,5,KJ Coetzer,Kaleemullah,HG Munsey,,0,1,1,,,,372623726
+2,Scotland,5,HG Munsey,Kaleemullah,KJ Coetzer,,0,2,2,,,,372623726
+2,Scotland,6,KJ Coetzer,Zeeshan Maqsood,HG Munsey,,0,1,1,,,,372623726
+2,Scotland,6,HG Munsey,Zeeshan Maqsood,KJ Coetzer,,0,1,1,,,,372623726
+2,Scotland,6,KJ Coetzer,Zeeshan Maqsood,HG Munsey,,0,0,0,lbw,KJ Coetzer,,372623726
+2,Scotland,6,MH Cross,Zeeshan Maqsood,HG Munsey,,0,0,0,,,,372623726
+2,Scotland,6,MH Cross,Zeeshan Maqsood,HG Munsey,,0,0,0,,,,372623726
+2,Scotland,6,MH Cross,Zeeshan Maqsood,HG Munsey,,0,1,1,,,,372623726
+2,Scotland,7,MH Cross,Kaleemullah,HG Munsey,,0,0,0,,,,372623726
+2,Scotland,7,MH Cross,Kaleemullah,HG Munsey,,0,0,0,,,,372623726
+2,Scotland,7,MH Cross,Kaleemullah,HG Munsey,,0,0,0,,,,372623726
+2,Scotland,7,MH Cross,Kaleemullah,HG Munsey,,0,1,1,,,,372623726
+2,Scotland,7,HG Munsey,Kaleemullah,MH Cross,,0,1,1,,,,372623726
+2,Scotland,7,MH Cross,Kaleemullah,HG Munsey,,0,1,1,,,,372623726
+2,Scotland,8,MH Cross,Khawar Ali,HG Munsey,legbyes,1,1,0,,,,372623726
+2,Scotland,8,HG Munsey,Khawar Ali,MH Cross,,0,0,0,caught and bowled,HG Munsey,,372623726
+2,Scotland,8,CS MacLeod,Khawar Ali,MH Cross,,0,0,0,,,,372623726
+2,Scotland,8,CS MacLeod,Khawar Ali,MH Cross,,0,1,1,,,,372623726
+2,Scotland,8,MH Cross,Khawar Ali,CS MacLeod,,0,2,2,,,,372623726
+2,Scotland,8,MH Cross,Khawar Ali,CS MacLeod,wides,1,1,0,,,,372623726
+2,Scotland,8,MH Cross,Khawar Ali,CS MacLeod,,0,1,1,,,,372623726
+2,Scotland,9,MH Cross,AV Lalcheta,CS MacLeod,,0,0,0,,,,372623726
+2,Scotland,9,MH Cross,AV Lalcheta,CS MacLeod,,0,1,1,,,,372623726
+2,Scotland,9,CS MacLeod,AV Lalcheta,MH Cross,,0,0,0,,,,372623726
+2,Scotland,9,CS MacLeod,AV Lalcheta,MH Cross,,0,2,2,,,,372623726
+2,Scotland,9,CS MacLeod,AV Lalcheta,MH Cross,,0,1,1,,,,372623726
+2,Scotland,9,MH Cross,AV Lalcheta,CS MacLeod,,0,1,1,,,,372623726
+2,Scotland,10,MH Cross,Khawar Ali,CS MacLeod,,0,1,1,,,,372623726
+2,Scotland,10,CS MacLeod,Khawar Ali,MH Cross,,0,1,1,,,,372623726
+2,Scotland,10,MH Cross,Khawar Ali,CS MacLeod,,0,1,1,,,,372623726
+2,Scotland,10,CS MacLeod,Khawar Ali,MH Cross,,0,1,1,,,,372623726
+2,Scotland,10,MH Cross,Khawar Ali,CS MacLeod,,0,1,1,,,,372623726
+2,Scotland,10,CS MacLeod,Khawar Ali,MH Cross,,0,0,0,,,,372623726
+2,Scotland,11,MH Cross,AV Lalcheta,CS MacLeod,,0,0,0,,,,372623726
+2,Scotland,11,MH Cross,AV Lalcheta,CS MacLeod,,0,6,6,,,,372623726
+2,Scotland,11,MH Cross,AV Lalcheta,CS MacLeod,,0,0,0,,,,372623726
+2,Scotland,11,MH Cross,AV Lalcheta,CS MacLeod,,0,1,1,,,,372623726
+2,Scotland,11,CS MacLeod,AV Lalcheta,MH Cross,,0,0,0,,,,372623726
+2,Scotland,11,CS MacLeod,AV Lalcheta,MH Cross,,0,1,1,,,,372623726
+2,Scotland,12,CS MacLeod,Khawar Ali,MH Cross,,0,1,1,,,,372623726
+2,Scotland,12,MH Cross,Khawar Ali,CS MacLeod,,0,1,1,,,,372623726
+2,Scotland,12,CS MacLeod,Khawar Ali,MH Cross,,0,1,1,,,,372623726
+2,Scotland,12,MH Cross,Khawar Ali,CS MacLeod,,0,1,1,,,,372623726
+2,Scotland,12,CS MacLeod,Khawar Ali,MH Cross,,0,4,4,,,,372623726
+2,Scotland,12,CS MacLeod,Khawar Ali,MH Cross,,0,0,0,,,,372623726
+2,Scotland,13,MH Cross,Zeeshan Maqsood,CS MacLeod,,0,1,1,,,,372623726
+2,Scotland,13,CS MacLeod,Zeeshan Maqsood,MH Cross,,0,0,0,,,,372623726
+2,Scotland,13,CS MacLeod,Zeeshan Maqsood,MH Cross,,0,1,1,,,,372623726
+2,Scotland,13,MH Cross,Zeeshan Maqsood,CS MacLeod,,0,1,1,,,,372623726
+2,Scotland,13,CS MacLeod,Zeeshan Maqsood,MH Cross,,0,1,1,,,,372623726
+2,Scotland,13,MH Cross,Zeeshan Maqsood,CS MacLeod,,0,1,1,,,,372623726
+2,Scotland,14,MH Cross,Mohammad Nadeem,CS MacLeod,,0,0,0,,,,372623726
+2,Scotland,14,MH Cross,Mohammad Nadeem,CS MacLeod,,0,6,6,,,,372623726
+2,Scotland,14,MH Cross,Mohammad Nadeem,CS MacLeod,,0,1,1,,,,372623726
+2,Scotland,14,CS MacLeod,Mohammad Nadeem,MH Cross,,0,1,1,,,,372623726
+2,Scotland,14,MH Cross,Mohammad Nadeem,CS MacLeod,,0,4,4,,,,372623726
+2,Scotland,14,MH Cross,Mohammad Nadeem,CS MacLeod,,0,1,1,,,,372623726
+2,Scotland,15,MH Cross,Zeeshan Maqsood,CS MacLeod,,0,1,1,,,,372623726
+2,Scotland,15,CS MacLeod,Zeeshan Maqsood,MH Cross,,0,6,6,,,,372623726
+2,Scotland,15,CS MacLeod,Zeeshan Maqsood,MH Cross,,0,1,1,,,,372623726
+2,Scotland,15,MH Cross,Zeeshan Maqsood,CS MacLeod,,0,1,1,,,,372623726
+2,Scotland,15,CS MacLeod,Zeeshan Maqsood,MH Cross,,0,1,1,,,,372623726
+2,Scotland,15,MH Cross,Zeeshan Maqsood,CS MacLeod,,0,1,1,,,,372623726
+2,Scotland,16,MH Cross,Bilal Khan,CS MacLeod,,0,4,4,,,,372623726
+2,Scotland,16,MH Cross,Bilal Khan,CS MacLeod,,0,0,0,,,,372623726
+2,Scotland,16,MH Cross,Bilal Khan,CS MacLeod,noballs,1,1,0,,,,372623726
+2,Scotland,16,MH Cross,Bilal Khan,CS MacLeod,,0,4,4,,,,372623726
+2,Scotland,16,MH Cross,Bilal Khan,CS MacLeod,,0,1,1,,,,372623726
+2,Scotland,16,CS MacLeod,Bilal Khan,MH Cross,,0,1,1,,,,372623726
+2,Scotland,16,MH Cross,Bilal Khan,CS MacLeod,,0,0,0,caught,MH Cross,A Poulose,372623726
+2,Scotland,17,CD Wallace,Kaleemullah,CS MacLeod,,0,1,1,,,,372623726
+2,Scotland,17,CS MacLeod,Kaleemullah,CD Wallace,,0,0,0,,,,372623726
+2,Scotland,17,CS MacLeod,Kaleemullah,CD Wallace,,0,0,0,,,,372623726
+2,Scotland,17,CS MacLeod,Kaleemullah,CD Wallace,,0,1,1,,,,372623726
+2,Scotland,17,CD Wallace,Kaleemullah,CS MacLeod,,0,1,1,,,,372623726
+2,Scotland,17,CS MacLeod,Kaleemullah,CD Wallace,,0,2,2,,,,372623726
+2,Scotland,18,CD Wallace,Khawar Ali,CS MacLeod,,0,2,2,,,,372623726
+2,Scotland,18,CD Wallace,Khawar Ali,CS MacLeod,,0,1,1,,,,372623726
+2,Scotland,18,CS MacLeod,Khawar Ali,CD Wallace,,0,4,4,,,,372623726
+2,Scotland,18,CS MacLeod,Khawar Ali,CD Wallace,,0,0,0,,,,372623726
+2,Scotland,18,CS MacLeod,Khawar Ali,CD Wallace,,0,2,2,,,,372623726
+2,Scotland,18,CS MacLeod,Khawar Ali,CD Wallace,,0,1,1,,,,372623726

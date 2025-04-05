@@ -1,0 +1,95 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Bangladesh,0,Mohammad Naim,MA Starc,Liton Das,,0,0,0,,,,31659231659
+1,Bangladesh,0,Mohammad Naim,MA Starc,Liton Das,,0,1,1,,,,31659231659
+1,Bangladesh,0,Liton Das,MA Starc,Mohammad Naim,,0,0,0,bowled,Liton Das,,31659231659
+1,Bangladesh,0,Soumya Sarkar,MA Starc,Mohammad Naim,,0,0,0,,,,31659231659
+1,Bangladesh,0,Soumya Sarkar,MA Starc,Mohammad Naim,,0,1,1,,,,31659231659
+1,Bangladesh,0,Mohammad Naim,MA Starc,Soumya Sarkar,,0,0,0,,,,31659231659
+1,Bangladesh,1,Soumya Sarkar,JR Hazlewood,Mohammad Naim,,0,0,0,,,,31659231659
+1,Bangladesh,1,Soumya Sarkar,JR Hazlewood,Mohammad Naim,,0,0,0,,,,31659231659
+1,Bangladesh,1,Soumya Sarkar,JR Hazlewood,Mohammad Naim,,0,4,4,,,,31659231659
+1,Bangladesh,1,Soumya Sarkar,JR Hazlewood,Mohammad Naim,,0,0,0,,,,31659231659
+1,Bangladesh,1,Soumya Sarkar,JR Hazlewood,Mohammad Naim,,0,0,0,,,,31659231659
+1,Bangladesh,1,Soumya Sarkar,JR Hazlewood,Mohammad Naim,,0,0,0,bowled,Soumya Sarkar,,31659231659
+1,Bangladesh,2,Mohammad Naim,GJ Maxwell,Mushfiqur Rahim,,0,1,1,,,,31659231659
+1,Bangladesh,2,Mushfiqur Rahim,GJ Maxwell,Mohammad Naim,wides,1,1,0,,,,31659231659
+1,Bangladesh,2,Mushfiqur Rahim,GJ Maxwell,Mohammad Naim,,0,1,1,,,,31659231659
+1,Bangladesh,2,Mohammad Naim,GJ Maxwell,Mushfiqur Rahim,,0,0,0,,,,31659231659
+1,Bangladesh,2,Mohammad Naim,GJ Maxwell,Mushfiqur Rahim,,0,1,1,,,,31659231659
+1,Bangladesh,2,Mushfiqur Rahim,GJ Maxwell,Mohammad Naim,,0,0,0,lbw,Mushfiqur Rahim,,31659231659
+1,Bangladesh,2,Mahmudullah,GJ Maxwell,Mohammad Naim,,0,0,0,,,,31659231659
+1,Bangladesh,3,Mohammad Naim,PJ Cummins,Mahmudullah,,0,4,4,,,,31659231659
+1,Bangladesh,3,Mohammad Naim,PJ Cummins,Mahmudullah,,0,0,0,,,,31659231659
+1,Bangladesh,3,Mohammad Naim,PJ Cummins,Mahmudullah,,0,0,0,,,,31659231659
+1,Bangladesh,3,Mohammad Naim,PJ Cummins,Mahmudullah,,0,4,4,,,,31659231659
+1,Bangladesh,3,Mohammad Naim,PJ Cummins,Mahmudullah,,0,0,0,,,,31659231659
+1,Bangladesh,3,Mohammad Naim,PJ Cummins,Mahmudullah,,0,1,1,,,,31659231659
+1,Bangladesh,4,Mohammad Naim,MA Starc,Mahmudullah,,0,1,1,,,,31659231659
+1,Bangladesh,4,Mahmudullah,MA Starc,Mohammad Naim,,0,0,0,,,,31659231659
+1,Bangladesh,4,Mahmudullah,MA Starc,Mohammad Naim,,0,0,0,,,,31659231659
+1,Bangladesh,4,Mahmudullah,MA Starc,Mohammad Naim,,0,0,0,,,,31659231659
+1,Bangladesh,4,Mahmudullah,MA Starc,Mohammad Naim,,0,4,4,,,,31659231659
+1,Bangladesh,4,Mahmudullah,MA Starc,Mohammad Naim,,0,4,4,,,,31659231659
+1,Bangladesh,5,Mohammad Naim,JR Hazlewood,Mahmudullah,,0,4,4,,,,31659231659
+1,Bangladesh,5,Mohammad Naim,JR Hazlewood,Mahmudullah,,0,0,0,,,,31659231659
+1,Bangladesh,5,Mohammad Naim,JR Hazlewood,Mahmudullah,,0,0,0,caught,Mohammad Naim,PJ Cummins,31659231659
+1,Bangladesh,5,Afif Hossain,JR Hazlewood,Mahmudullah,,0,0,0,,,,31659231659
+1,Bangladesh,5,Afif Hossain,JR Hazlewood,Mahmudullah,,0,0,0,,,,31659231659
+1,Bangladesh,5,Afif Hossain,JR Hazlewood,Mahmudullah,legbyes,1,1,0,,,,31659231659
+1,Bangladesh,6,Afif Hossain,A Zampa,Mahmudullah,,0,0,0,caught,Afif Hossain,AJ Finch,31659231659
+1,Bangladesh,6,Shamim Hossain,A Zampa,Mahmudullah,,0,0,0,,,,31659231659
+1,Bangladesh,6,Shamim Hossain,A Zampa,Mahmudullah,,0,2,2,,,,31659231659
+1,Bangladesh,6,Shamim Hossain,A Zampa,Mahmudullah,,0,1,1,,,,31659231659
+1,Bangladesh,6,Mahmudullah,A Zampa,Shamim Hossain,,0,1,1,,,,31659231659
+1,Bangladesh,6,Shamim Hossain,A Zampa,Mahmudullah,,0,1,1,,,,31659231659
+1,Bangladesh,7,Shamim Hossain,MA Starc,Mahmudullah,wides,1,1,0,,,,31659231659
+1,Bangladesh,7,Shamim Hossain,MA Starc,Mahmudullah,wides,1,1,0,,,,31659231659
+1,Bangladesh,7,Shamim Hossain,MA Starc,Mahmudullah,,0,0,0,,,,31659231659
+1,Bangladesh,7,Shamim Hossain,MA Starc,Mahmudullah,,0,4,4,,,,31659231659
+1,Bangladesh,7,Shamim Hossain,MA Starc,Mahmudullah,,0,0,0,,,,31659231659
+1,Bangladesh,7,Shamim Hossain,MA Starc,Mahmudullah,,0,1,1,,,,31659231659
+1,Bangladesh,7,Mahmudullah,MA Starc,Shamim Hossain,,0,0,0,,,,31659231659
+1,Bangladesh,7,Mahmudullah,MA Starc,Shamim Hossain,,0,2,2,,,,31659231659
+1,Bangladesh,8,Shamim Hossain,A Zampa,Mahmudullah,,0,0,0,,,,31659231659
+1,Bangladesh,8,Shamim Hossain,A Zampa,Mahmudullah,,0,6,6,,,,31659231659
+1,Bangladesh,8,Shamim Hossain,A Zampa,Mahmudullah,,0,0,0,,,,31659231659
+1,Bangladesh,8,Shamim Hossain,A Zampa,Mahmudullah,,0,1,1,,,,31659231659
+1,Bangladesh,8,Mahmudullah,A Zampa,Shamim Hossain,,0,0,0,,,,31659231659
+1,Bangladesh,8,Mahmudullah,A Zampa,Shamim Hossain,,0,0,0,,,,31659231659
+1,Bangladesh,9,Shamim Hossain,PJ Cummins,Mahmudullah,,0,0,0,,,,31659231659
+1,Bangladesh,9,Shamim Hossain,PJ Cummins,Mahmudullah,,0,0,0,,,,31659231659
+1,Bangladesh,9,Shamim Hossain,PJ Cummins,Mahmudullah,,0,0,0,,,,31659231659
+1,Bangladesh,9,Shamim Hossain,PJ Cummins,Mahmudullah,,0,2,2,,,,31659231659
+1,Bangladesh,9,Shamim Hossain,PJ Cummins,Mahmudullah,,0,1,1,,,,31659231659
+1,Bangladesh,9,Mahmudullah,PJ Cummins,Shamim Hossain,,0,1,1,,,,31659231659
+1,Bangladesh,10,Mahmudullah,A Zampa,Shamim Hossain,,0,0,0,,,,31659231659
+1,Bangladesh,10,Mahmudullah,A Zampa,Shamim Hossain,wides,1,1,0,,,,31659231659
+1,Bangladesh,10,Mahmudullah,A Zampa,Shamim Hossain,,0,2,2,,,,31659231659
+1,Bangladesh,10,Mahmudullah,A Zampa,Shamim Hossain,,0,0,0,,,,31659231659
+1,Bangladesh,10,Mahmudullah,A Zampa,Shamim Hossain,,0,1,1,,,,31659231659
+1,Bangladesh,10,Shamim Hossain,A Zampa,Mahmudullah,,0,0,0,caught,Shamim Hossain,MS Wade,31659231659
+1,Bangladesh,10,Mahedi Hasan,A Zampa,Mahmudullah,,0,0,0,lbw,Mahedi Hasan,,31659231659
+1,Bangladesh,11,Mahmudullah,GJ Maxwell,Taskin Ahmed,,0,1,1,,,,31659231659
+1,Bangladesh,11,Taskin Ahmed,GJ Maxwell,Mahmudullah,,0,0,0,,,,31659231659
+1,Bangladesh,11,Taskin Ahmed,GJ Maxwell,Mahmudullah,,0,0,0,,,,31659231659
+1,Bangladesh,11,Taskin Ahmed,GJ Maxwell,Mahmudullah,,0,0,0,,,,31659231659
+1,Bangladesh,11,Taskin Ahmed,GJ Maxwell,Mahmudullah,,0,0,0,,,,31659231659
+1,Bangladesh,11,Taskin Ahmed,GJ Maxwell,Mahmudullah,,0,1,1,,,,31659231659
+1,Bangladesh,12,Taskin Ahmed,MA Starc,Mahmudullah,,0,1,1,,,,31659231659
+1,Bangladesh,12,Mahmudullah,MA Starc,Taskin Ahmed,,0,0,0,caught,Mahmudullah,MS Wade,31659231659
+1,Bangladesh,12,Mustafizur Rahman,MA Starc,Taskin Ahmed,,0,0,0,,,,31659231659
+1,Bangladesh,12,Mustafizur Rahman,MA Starc,Taskin Ahmed,,0,0,0,,,,31659231659
+1,Bangladesh,12,Mustafizur Rahman,MA Starc,Taskin Ahmed,,0,0,0,,,,31659231659
+1,Bangladesh,12,Mustafizur Rahman,MA Starc,Taskin Ahmed,,0,0,0,,,,31659231659
+1,Bangladesh,13,Taskin Ahmed,PJ Cummins,Mustafizur Rahman,,0,0,0,,,,31659231659
+1,Bangladesh,13,Taskin Ahmed,PJ Cummins,Mustafizur Rahman,,0,1,1,,,,31659231659
+1,Bangladesh,13,Mustafizur Rahman,PJ Cummins,Taskin Ahmed,,0,0,0,,,,31659231659
+1,Bangladesh,13,Mustafizur Rahman,PJ Cummins,Taskin Ahmed,,0,2,2,,,,31659231659
+1,Bangladesh,13,Mustafizur Rahman,PJ Cummins,Taskin Ahmed,,0,0,0,,,,31659231659
+1,Bangladesh,13,Mustafizur Rahman,PJ Cummins,Taskin Ahmed,,0,2,2,,,,31659231659
+1,Bangladesh,14,Taskin Ahmed,A Zampa,Mustafizur Rahman,,0,0,0,,,,31659231659
+1,Bangladesh,14,Taskin Ahmed,A Zampa,Mustafizur Rahman,,0,2,2,,,,31659231659
+1,Bangladesh,14,Taskin Ahmed,A Zampa,Mustafizur Rahman,,0,1,1,,,,31659231659
+1,Bangladesh,14,Mustafizur Rahman,A Zampa,Taskin Ahmed,,0,0,0,caught,Mustafizur Rahman,SPD Smith,31659231659
+1,Bangladesh,14,Shoriful Islam,A Zampa,Taskin Ahmed,,0,0,0,,,,31659231659
+1,Bangladesh,14,Shoriful Islam,A Zampa,Taskin Ahmed,,0,0,0,caught,Shoriful Islam,AJ Finch,31659231659

@@ -1,0 +1,113 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,South Africa,0,L Lee,KDU Prabodhani,T Chetty,,0,0,0,,,,339023390
+2,South Africa,0,L Lee,KDU Prabodhani,T Chetty,legbyes,1,1,0,,,,339023390
+2,South Africa,0,T Chetty,KDU Prabodhani,L Lee,,0,0,0,,,,339023390
+2,South Africa,0,T Chetty,KDU Prabodhani,L Lee,,0,1,1,,,,339023390
+2,South Africa,0,L Lee,KDU Prabodhani,T Chetty,,0,0,0,,,,339023390
+2,South Africa,0,L Lee,KDU Prabodhani,T Chetty,,0,0,0,,,,339023390
+2,South Africa,1,T Chetty,HAM Samuddika,L Lee,,0,0,0,,,,339023390
+2,South Africa,1,T Chetty,HAM Samuddika,L Lee,,0,1,1,,,,339023390
+2,South Africa,1,L Lee,HAM Samuddika,T Chetty,,0,0,0,,,,339023390
+2,South Africa,1,L Lee,HAM Samuddika,T Chetty,,0,0,0,caught,L Lee,AC Jayangani,339023390
+2,South Africa,1,M du Preez,HAM Samuddika,T Chetty,,0,1,1,,,,339023390
+2,South Africa,1,T Chetty,HAM Samuddika,M du Preez,,0,1,1,,,,339023390
+2,South Africa,2,T Chetty,KDU Prabodhani,M du Preez,,0,1,1,,,,339023390
+2,South Africa,2,M du Preez,KDU Prabodhani,T Chetty,,0,1,1,,,,339023390
+2,South Africa,2,T Chetty,KDU Prabodhani,M du Preez,,0,0,0,,,,339023390
+2,South Africa,2,T Chetty,KDU Prabodhani,M du Preez,,0,1,1,,,,339023390
+2,South Africa,2,M du Preez,KDU Prabodhani,T Chetty,,0,0,0,,,,339023390
+2,South Africa,2,M du Preez,KDU Prabodhani,T Chetty,,0,0,0,,,,339023390
+2,South Africa,3,T Chetty,HAM Samuddika,M du Preez,,0,1,1,,,,339023390
+2,South Africa,3,M du Preez,HAM Samuddika,T Chetty,,0,4,4,,,,339023390
+2,South Africa,3,M du Preez,HAM Samuddika,T Chetty,,0,0,0,,,,339023390
+2,South Africa,3,M du Preez,HAM Samuddika,T Chetty,,0,1,1,,,,339023390
+2,South Africa,3,T Chetty,HAM Samuddika,M du Preez,,0,1,1,,,,339023390
+2,South Africa,3,M du Preez,HAM Samuddika,T Chetty,,0,1,1,,,,339023390
+2,South Africa,4,M du Preez,SS Weerakkody,T Chetty,,0,1,1,,,,339023390
+2,South Africa,4,T Chetty,SS Weerakkody,M du Preez,,0,4,4,,,,339023390
+2,South Africa,4,T Chetty,SS Weerakkody,M du Preez,,0,0,0,,,,339023390
+2,South Africa,4,T Chetty,SS Weerakkody,M du Preez,,0,0,0,,,,339023390
+2,South Africa,4,T Chetty,SS Weerakkody,M du Preez,,0,0,0,,,,339023390
+2,South Africa,4,T Chetty,SS Weerakkody,M du Preez,,0,1,1,,,,339023390
+2,South Africa,5,T Chetty,HASD Siriwardene,M du Preez,,0,1,1,,,,339023390
+2,South Africa,5,M du Preez,HASD Siriwardene,T Chetty,,0,4,4,,,,339023390
+2,South Africa,5,M du Preez,HASD Siriwardene,T Chetty,,0,0,0,,,,339023390
+2,South Africa,5,M du Preez,HASD Siriwardene,T Chetty,,0,1,1,,,,339023390
+2,South Africa,5,T Chetty,HASD Siriwardene,M du Preez,,0,0,0,bowled,T Chetty,,339023390
+2,South Africa,5,M Kapp,HASD Siriwardene,M du Preez,,0,3,3,,,,339023390
+2,South Africa,6,M Kapp,SS Weerakkody,M du Preez,,0,0,0,,,,339023390
+2,South Africa,6,M Kapp,SS Weerakkody,M du Preez,,0,2,2,,,,339023390
+2,South Africa,6,M Kapp,SS Weerakkody,M du Preez,,0,1,1,,,,339023390
+2,South Africa,6,M du Preez,SS Weerakkody,M Kapp,,0,1,1,,,,339023390
+2,South Africa,6,M Kapp,SS Weerakkody,M du Preez,,0,1,1,,,,339023390
+2,South Africa,6,M du Preez,SS Weerakkody,M Kapp,,0,0,0,,,,339023390
+2,South Africa,7,M Kapp,HASD Siriwardene,M du Preez,,0,0,0,caught,M Kapp,RS Vandort,339023390
+2,South Africa,7,D van Niekerk,HASD Siriwardene,M du Preez,,0,4,4,,,,339023390
+2,South Africa,7,D van Niekerk,HASD Siriwardene,M du Preez,,0,1,1,,,,339023390
+2,South Africa,7,M du Preez,HASD Siriwardene,D van Niekerk,,0,1,1,,,,339023390
+2,South Africa,7,D van Niekerk,HASD Siriwardene,M du Preez,,0,0,0,,,,339023390
+2,South Africa,7,D van Niekerk,HASD Siriwardene,M du Preez,,0,0,0,,,,339023390
+2,South Africa,8,M du Preez,SS Weerakkody,D van Niekerk,,0,0,0,,,,339023390
+2,South Africa,8,M du Preez,SS Weerakkody,D van Niekerk,,0,0,0,,,,339023390
+2,South Africa,8,M du Preez,SS Weerakkody,D van Niekerk,,0,1,1,,,,339023390
+2,South Africa,8,D van Niekerk,SS Weerakkody,M du Preez,,0,0,0,,,,339023390
+2,South Africa,8,D van Niekerk,SS Weerakkody,M du Preez,,0,1,1,,,,339023390
+2,South Africa,8,M du Preez,SS Weerakkody,D van Niekerk,,0,0,0,,,,339023390
+2,South Africa,9,D van Niekerk,HASD Siriwardene,M du Preez,,0,0,0,caught,D van Niekerk,RS Vandort,339023390
+2,South Africa,9,CL Tryon,HASD Siriwardene,M du Preez,,0,0,0,,,,339023390
+2,South Africa,9,CL Tryon,HASD Siriwardene,M du Preez,,0,1,1,,,,339023390
+2,South Africa,9,M du Preez,HASD Siriwardene,CL Tryon,,0,1,1,,,,339023390
+2,South Africa,9,CL Tryon,HASD Siriwardene,M du Preez,,0,0,0,lbw,CL Tryon,,339023390
+2,South Africa,9,S Loubser,HASD Siriwardene,M du Preez,,0,0,0,,,,339023390
+2,South Africa,10,M du Preez,SS Weerakkody,S Loubser,,0,1,1,,,,339023390
+2,South Africa,10,S Loubser,SS Weerakkody,M du Preez,,0,0,0,,,,339023390
+2,South Africa,10,S Loubser,SS Weerakkody,M du Preez,,0,1,1,,,,339023390
+2,South Africa,10,M du Preez,SS Weerakkody,S Loubser,,0,2,2,,,,339023390
+2,South Africa,10,M du Preez,SS Weerakkody,S Loubser,,0,1,1,,,,339023390
+2,South Africa,10,S Loubser,SS Weerakkody,M du Preez,,0,1,1,,,,339023390
+2,South Africa,11,S Loubser,HASD Siriwardene,M du Preez,,0,1,1,,,,339023390
+2,South Africa,11,M du Preez,HASD Siriwardene,S Loubser,,0,1,1,,,,339023390
+2,South Africa,11,S Loubser,HASD Siriwardene,M du Preez,,0,1,1,,,,339023390
+2,South Africa,11,M du Preez,HASD Siriwardene,S Loubser,,0,1,1,,,,339023390
+2,South Africa,11,S Loubser,HASD Siriwardene,M du Preez,legbyes,1,1,0,,,,339023390
+2,South Africa,11,M du Preez,HASD Siriwardene,S Loubser,,0,0,0,,,,339023390
+2,South Africa,12,S Loubser,HHC Gunaratne,M du Preez,,0,2,2,,,,339023390
+2,South Africa,12,S Loubser,HHC Gunaratne,M du Preez,,0,1,1,,,,339023390
+2,South Africa,12,M du Preez,HHC Gunaratne,S Loubser,,0,1,1,,,,339023390
+2,South Africa,12,S Loubser,HHC Gunaratne,M du Preez,wides,1,1,0,,,,339023390
+2,South Africa,12,S Loubser,HHC Gunaratne,M du Preez,,0,1,1,,,,339023390
+2,South Africa,12,M du Preez,HHC Gunaratne,S Loubser,,0,0,0,,,,339023390
+2,South Africa,12,M du Preez,HHC Gunaratne,S Loubser,,0,0,0,,,,339023390
+2,South Africa,13,S Loubser,CR Seneviratna,M du Preez,,0,1,1,,,,339023390
+2,South Africa,13,M du Preez,CR Seneviratna,S Loubser,,0,4,4,,,,339023390
+2,South Africa,13,M du Preez,CR Seneviratna,S Loubser,,0,0,0,,,,339023390
+2,South Africa,13,M du Preez,CR Seneviratna,S Loubser,,0,4,4,,,,339023390
+2,South Africa,13,M du Preez,CR Seneviratna,S Loubser,,0,1,1,,,,339023390
+2,South Africa,13,S Loubser,CR Seneviratna,M du Preez,,0,1,1,,,,339023390
+2,South Africa,14,S Loubser,HHC Gunaratne,M du Preez,,0,1,1,,,,339023390
+2,South Africa,14,M du Preez,HHC Gunaratne,S Loubser,,0,0,0,,,,339023390
+2,South Africa,14,M du Preez,HHC Gunaratne,S Loubser,,0,1,1,,,,339023390
+2,South Africa,14,S Loubser,HHC Gunaratne,M du Preez,,0,0,0,,,,339023390
+2,South Africa,14,S Loubser,HHC Gunaratne,M du Preez,,0,1,1,,,,339023390
+2,South Africa,14,M du Preez,HHC Gunaratne,S Loubser,,0,0,0,,,,339023390
+2,South Africa,15,S Loubser,HAM Samuddika,M du Preez,,0,1,1,,,,339023390
+2,South Africa,15,M du Preez,HAM Samuddika,S Loubser,,0,4,4,,,,339023390
+2,South Africa,15,M du Preez,HAM Samuddika,S Loubser,,0,1,1,,,,339023390
+2,South Africa,15,S Loubser,HAM Samuddika,M du Preez,,0,1,1,,,,339023390
+2,South Africa,15,M du Preez,HAM Samuddika,S Loubser,,0,1,1,,,,339023390
+2,South Africa,15,S Loubser,HAM Samuddika,M du Preez,,0,1,1,,,,339023390
+2,South Africa,16,S Loubser,HHC Gunaratne,M du Preez,,0,0,0,,,,339023390
+2,South Africa,16,S Loubser,HHC Gunaratne,M du Preez,,0,2,2,,,,339023390
+2,South Africa,16,S Loubser,HHC Gunaratne,M du Preez,,0,6,6,,,,339023390
+2,South Africa,16,S Loubser,HHC Gunaratne,M du Preez,,0,1,1,,,,339023390
+2,South Africa,16,M du Preez,HHC Gunaratne,S Loubser,,0,1,1,,,,339023390
+2,South Africa,16,S Loubser,HHC Gunaratne,M du Preez,,0,1,1,,,,339023390
+2,South Africa,17,S Loubser,KDU Prabodhani,M du Preez,,0,1,1,,,,339023390
+2,South Africa,17,M du Preez,KDU Prabodhani,S Loubser,,0,1,1,,,,339023390
+2,South Africa,17,S Loubser,KDU Prabodhani,M du Preez,,0,0,0,,,,339023390
+2,South Africa,17,S Loubser,KDU Prabodhani,M du Preez,,0,6,6,,,,339023390
+2,South Africa,17,S Loubser,KDU Prabodhani,M du Preez,,0,0,0,,,,339023390
+2,South Africa,17,S Loubser,KDU Prabodhani,M du Preez,,0,1,1,,,,339023390
+2,South Africa,18,S Loubser,HHC Gunaratne,M du Preez,,0,0,0,,,,339023390
+2,South Africa,18,S Loubser,HHC Gunaratne,M du Preez,wides,1,1,0,,,,339023390
+2,South Africa,18,S Loubser,HHC Gunaratne,M du Preez,,0,4,4,,,,339023390

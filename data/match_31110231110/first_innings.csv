@@ -1,0 +1,79 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Botswana,0,Z Abbasi,Z Groenewald,K Modise,,0,0,0,,,,31110231110
+1,Botswana,0,Z Abbasi,Z Groenewald,K Modise,,0,0,0,,,,31110231110
+1,Botswana,0,Z Abbasi,Z Groenewald,K Modise,,0,0,0,,,,31110231110
+1,Botswana,0,Z Abbasi,Z Groenewald,K Modise,,0,1,1,,,,31110231110
+1,Botswana,0,K Modise,Z Groenewald,Z Abbasi,,0,0,0,lbw,K Modise,,31110231110
+1,Botswana,0,K Mothlhanka,Z Groenewald,Z Abbasi,,0,0,0,,,,31110231110
+1,Botswana,1,Z Abbasi,C Viljoen,K Mothlhanka,,0,0,0,bowled,Z Abbasi,,31110231110
+1,Botswana,1,T Phaswana,C Viljoen,K Mothlhanka,,0,0,0,,,,31110231110
+1,Botswana,1,T Phaswana,C Viljoen,K Mothlhanka,,0,0,0,,,,31110231110
+1,Botswana,1,T Phaswana,C Viljoen,K Mothlhanka,,0,0,0,bowled,T Phaswana,,31110231110
+1,Botswana,1,V Balakrishnan,C Viljoen,K Mothlhanka,,0,4,4,,,,31110231110
+1,Botswana,1,V Balakrishnan,C Viljoen,K Mothlhanka,,0,0,0,,,,31110231110
+1,Botswana,2,K Mothlhanka,Z Groenewald,V Balakrishnan,wides,1,1,0,,,,31110231110
+1,Botswana,2,K Mothlhanka,Z Groenewald,V Balakrishnan,,0,4,4,,,,31110231110
+1,Botswana,2,K Mothlhanka,Z Groenewald,V Balakrishnan,,0,0,0,,,,31110231110
+1,Botswana,2,K Mothlhanka,Z Groenewald,V Balakrishnan,wides,2,2,0,,,,31110231110
+1,Botswana,2,V Balakrishnan,Z Groenewald,K Mothlhanka,,0,0,0,,,,31110231110
+1,Botswana,2,V Balakrishnan,Z Groenewald,K Mothlhanka,,0,0,0,,,,31110231110
+1,Botswana,2,V Balakrishnan,Z Groenewald,K Mothlhanka,,0,0,0,,,,31110231110
+1,Botswana,2,V Balakrishnan,Z Groenewald,K Mothlhanka,,0,0,0,,,,31110231110
+1,Botswana,3,K Mothlhanka,C Viljoen,V Balakrishnan,wides,1,1,0,,,,31110231110
+1,Botswana,3,K Mothlhanka,C Viljoen,V Balakrishnan,,0,0,0,,,,31110231110
+1,Botswana,3,K Mothlhanka,C Viljoen,V Balakrishnan,,0,0,0,,,,31110231110
+1,Botswana,3,K Mothlhanka,C Viljoen,V Balakrishnan,,0,0,0,,,,31110231110
+1,Botswana,3,K Mothlhanka,C Viljoen,V Balakrishnan,,0,0,0,caught,K Mothlhanka,ZE Green,31110231110
+1,Botswana,3,R Nehonde,C Viljoen,V Balakrishnan,,0,0,0,,,,31110231110
+1,Botswana,3,R Nehonde,C Viljoen,V Balakrishnan,,0,0,0,bowled,R Nehonde,,31110231110
+1,Botswana,4,V Balakrishnan,BM Scholtz,JWN Moses,,0,0,0,,,,31110231110
+1,Botswana,4,V Balakrishnan,BM Scholtz,JWN Moses,,0,0,0,,,,31110231110
+1,Botswana,4,V Balakrishnan,BM Scholtz,JWN Moses,,0,1,1,,,,31110231110
+1,Botswana,4,JWN Moses,BM Scholtz,V Balakrishnan,,0,0,0,,,,31110231110
+1,Botswana,4,JWN Moses,BM Scholtz,V Balakrishnan,,0,0,0,,,,31110231110
+1,Botswana,4,JWN Moses,BM Scholtz,V Balakrishnan,,0,1,1,,,,31110231110
+1,Botswana,5,JWN Moses,C Viljoen,V Balakrishnan,,0,0,0,,,,31110231110
+1,Botswana,5,JWN Moses,C Viljoen,V Balakrishnan,,0,1,1,,,,31110231110
+1,Botswana,5,V Balakrishnan,C Viljoen,JWN Moses,,0,0,0,,,,31110231110
+1,Botswana,5,V Balakrishnan,C Viljoen,JWN Moses,,0,0,0,,,,31110231110
+1,Botswana,5,V Balakrishnan,C Viljoen,JWN Moses,,0,0,0,,,,31110231110
+1,Botswana,5,V Balakrishnan,C Viljoen,JWN Moses,,0,2,2,,,,31110231110
+1,Botswana,6,JWN Moses,BM Scholtz,V Balakrishnan,,0,1,1,,,,31110231110
+1,Botswana,6,V Balakrishnan,BM Scholtz,JWN Moses,,0,0,0,,,,31110231110
+1,Botswana,6,V Balakrishnan,BM Scholtz,JWN Moses,,0,1,1,,,,31110231110
+1,Botswana,6,JWN Moses,BM Scholtz,V Balakrishnan,,0,0,0,,,,31110231110
+1,Botswana,6,JWN Moses,BM Scholtz,V Balakrishnan,,0,0,0,,,,31110231110
+1,Botswana,6,JWN Moses,BM Scholtz,V Balakrishnan,,0,0,0,lbw,JWN Moses,,31110231110
+1,Botswana,7,A Rangaswamy,C Viljoen,V Balakrishnan,,0,0,0,caught,A Rangaswamy,MG Erasmus,31110231110
+1,Botswana,7,N Master,C Viljoen,V Balakrishnan,,0,0,0,,,,31110231110
+1,Botswana,7,N Master,C Viljoen,V Balakrishnan,,0,0,0,,,,31110231110
+1,Botswana,7,N Master,C Viljoen,V Balakrishnan,,0,1,1,,,,31110231110
+1,Botswana,7,V Balakrishnan,C Viljoen,N Master,,0,0,0,,,,31110231110
+1,Botswana,7,V Balakrishnan,C Viljoen,N Master,,0,0,0,,,,31110231110
+1,Botswana,8,N Master,BM Scholtz,V Balakrishnan,,0,0,0,,,,31110231110
+1,Botswana,8,N Master,BM Scholtz,V Balakrishnan,,0,4,4,,,,31110231110
+1,Botswana,8,N Master,BM Scholtz,V Balakrishnan,,0,1,1,,,,31110231110
+1,Botswana,8,V Balakrishnan,BM Scholtz,N Master,,0,0,0,,,,31110231110
+1,Botswana,8,V Balakrishnan,BM Scholtz,N Master,,0,0,0,,,,31110231110
+1,Botswana,8,V Balakrishnan,BM Scholtz,N Master,,0,0,0,bowled,V Balakrishnan,,31110231110
+1,Botswana,9,N Master,T Lungameni,M Mooketsi,,0,0,0,,,,31110231110
+1,Botswana,9,N Master,T Lungameni,M Mooketsi,,0,4,4,,,,31110231110
+1,Botswana,9,N Master,T Lungameni,M Mooketsi,,0,4,4,,,,31110231110
+1,Botswana,9,N Master,T Lungameni,M Mooketsi,,0,0,0,,,,31110231110
+1,Botswana,9,N Master,T Lungameni,M Mooketsi,,0,4,4,,,,31110231110
+1,Botswana,9,N Master,T Lungameni,M Mooketsi,wides,1,1,0,,,,31110231110
+1,Botswana,9,N Master,T Lungameni,M Mooketsi,,0,0,0,,,,31110231110
+1,Botswana,10,M Mooketsi,MG Erasmus,N Master,,0,0,0,,,,31110231110
+1,Botswana,10,M Mooketsi,MG Erasmus,N Master,,0,1,1,,,,31110231110
+1,Botswana,10,N Master,MG Erasmus,M Mooketsi,,0,1,1,,,,31110231110
+1,Botswana,10,M Mooketsi,MG Erasmus,N Master,,0,0,0,,,,31110231110
+1,Botswana,10,M Mooketsi,MG Erasmus,N Master,wides,1,1,0,,,,31110231110
+1,Botswana,10,M Mooketsi,MG Erasmus,N Master,,0,0,0,,,,31110231110
+1,Botswana,10,M Mooketsi,MG Erasmus,N Master,,0,2,2,,,,31110231110
+1,Botswana,11,N Master,JN Frylinck,M Mooketsi,,0,0,0,,,,31110231110
+1,Botswana,11,N Master,JN Frylinck,M Mooketsi,,0,1,1,,,,31110231110
+1,Botswana,11,M Mooketsi,JN Frylinck,N Master,,0,0,0,,,,31110231110
+1,Botswana,11,M Mooketsi,JN Frylinck,N Master,,0,0,0,,,,31110231110
+1,Botswana,11,M Mooketsi,JN Frylinck,N Master,,0,0,0,,,,31110231110
+1,Botswana,11,M Mooketsi,JN Frylinck,N Master,,0,0,0,bowled,M Mooketsi,,31110231110
+1,Botswana,12,N Master,MG Erasmus,D Maisuria,,0,1,1,run out,N Master,,31110231110

@@ -1,0 +1,102 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,New Zealand,0,TA Blundell,Mahedi Hasan,R Ravindra,,0,0,0,,,,31593231593
+1,New Zealand,0,TA Blundell,Mahedi Hasan,R Ravindra,,0,1,1,,,,31593231593
+1,New Zealand,0,R Ravindra,Mahedi Hasan,TA Blundell,,0,0,0,caught and bowled,R Ravindra,,31593231593
+1,New Zealand,0,WA Young,Mahedi Hasan,TA Blundell,,0,0,0,,,,31593231593
+1,New Zealand,0,WA Young,Mahedi Hasan,TA Blundell,,0,1,1,,,,31593231593
+1,New Zealand,0,TA Blundell,Mahedi Hasan,WA Young,,0,0,0,,,,31593231593
+1,New Zealand,1,WA Young,Nasum Ahmed,TA Blundell,,0,0,0,,,,31593231593
+1,New Zealand,1,WA Young,Nasum Ahmed,TA Blundell,,0,0,0,,,,31593231593
+1,New Zealand,1,WA Young,Nasum Ahmed,TA Blundell,,0,0,0,,,,31593231593
+1,New Zealand,1,WA Young,Nasum Ahmed,TA Blundell,,0,0,0,,,,31593231593
+1,New Zealand,1,WA Young,Nasum Ahmed,TA Blundell,,0,4,4,,,,31593231593
+1,New Zealand,1,WA Young,Nasum Ahmed,TA Blundell,,0,0,0,,,,31593231593
+1,New Zealand,2,TA Blundell,Shakib Al Hasan,WA Young,,0,0,0,,,,31593231593
+1,New Zealand,2,TA Blundell,Shakib Al Hasan,WA Young,,0,1,1,,,,31593231593
+1,New Zealand,2,WA Young,Shakib Al Hasan,TA Blundell,,0,0,0,,,,31593231593
+1,New Zealand,2,WA Young,Shakib Al Hasan,TA Blundell,,0,0,0,,,,31593231593
+1,New Zealand,2,WA Young,Shakib Al Hasan,TA Blundell,,0,0,0,bowled,WA Young,,31593231593
+1,New Zealand,2,C de Grandhomme,Shakib Al Hasan,TA Blundell,,0,1,1,,,,31593231593
+1,New Zealand,3,C de Grandhomme,Nasum Ahmed,TA Blundell,,0,0,0,,,,31593231593
+1,New Zealand,3,C de Grandhomme,Nasum Ahmed,TA Blundell,,0,0,0,,,,31593231593
+1,New Zealand,3,C de Grandhomme,Nasum Ahmed,TA Blundell,,0,0,0,caught,C de Grandhomme,Mohammad Naim,31593231593
+1,New Zealand,3,TWM Latham,Nasum Ahmed,TA Blundell,,0,0,0,,,,31593231593
+1,New Zealand,3,TWM Latham,Nasum Ahmed,TA Blundell,,0,1,1,,,,31593231593
+1,New Zealand,3,TA Blundell,Nasum Ahmed,TWM Latham,,0,0,0,bowled,TA Blundell,,31593231593
+1,New Zealand,4,TWM Latham,Mahedi Hasan,HM Nicholls,,0,0,0,,,,31593231593
+1,New Zealand,4,TWM Latham,Mahedi Hasan,HM Nicholls,,0,0,0,,,,31593231593
+1,New Zealand,4,TWM Latham,Mahedi Hasan,HM Nicholls,,0,1,1,,,,31593231593
+1,New Zealand,4,HM Nicholls,Mahedi Hasan,TWM Latham,,0,0,0,,,,31593231593
+1,New Zealand,4,HM Nicholls,Mahedi Hasan,TWM Latham,,0,0,0,,,,31593231593
+1,New Zealand,4,HM Nicholls,Mahedi Hasan,TWM Latham,,0,0,0,,,,31593231593
+1,New Zealand,5,TWM Latham,Mustafizur Rahman,HM Nicholls,,0,0,0,,,,31593231593
+1,New Zealand,5,TWM Latham,Mustafizur Rahman,HM Nicholls,,0,4,4,,,,31593231593
+1,New Zealand,5,TWM Latham,Mustafizur Rahman,HM Nicholls,,0,1,1,,,,31593231593
+1,New Zealand,5,HM Nicholls,Mustafizur Rahman,TWM Latham,,0,1,1,,,,31593231593
+1,New Zealand,5,TWM Latham,Mustafizur Rahman,HM Nicholls,,0,1,1,,,,31593231593
+1,New Zealand,5,HM Nicholls,Mustafizur Rahman,TWM Latham,,0,1,1,,,,31593231593
+1,New Zealand,6,HM Nicholls,Mahedi Hasan,TWM Latham,,0,1,1,,,,31593231593
+1,New Zealand,6,TWM Latham,Mahedi Hasan,HM Nicholls,,0,0,0,,,,31593231593
+1,New Zealand,6,TWM Latham,Mahedi Hasan,HM Nicholls,,0,2,2,,,,31593231593
+1,New Zealand,6,TWM Latham,Mahedi Hasan,HM Nicholls,,0,0,0,,,,31593231593
+1,New Zealand,6,TWM Latham,Mahedi Hasan,HM Nicholls,,0,1,1,,,,31593231593
+1,New Zealand,6,HM Nicholls,Mahedi Hasan,TWM Latham,,0,1,1,,,,31593231593
+1,New Zealand,7,HM Nicholls,Mahmudullah,TWM Latham,,0,1,1,,,,31593231593
+1,New Zealand,7,TWM Latham,Mahmudullah,HM Nicholls,,0,0,0,,,,31593231593
+1,New Zealand,7,TWM Latham,Mahmudullah,HM Nicholls,byes,2,2,0,,,,31593231593
+1,New Zealand,7,TWM Latham,Mahmudullah,HM Nicholls,,0,1,1,,,,31593231593
+1,New Zealand,7,HM Nicholls,Mahmudullah,TWM Latham,,0,1,1,,,,31593231593
+1,New Zealand,7,TWM Latham,Mahmudullah,HM Nicholls,,0,1,1,,,,31593231593
+1,New Zealand,8,TWM Latham,Mahedi Hasan,HM Nicholls,,0,1,1,,,,31593231593
+1,New Zealand,8,HM Nicholls,Mahedi Hasan,TWM Latham,,0,0,0,,,,31593231593
+1,New Zealand,8,HM Nicholls,Mahedi Hasan,TWM Latham,,0,0,0,,,,31593231593
+1,New Zealand,8,HM Nicholls,Mahedi Hasan,TWM Latham,,0,1,1,,,,31593231593
+1,New Zealand,8,TWM Latham,Mahedi Hasan,HM Nicholls,,0,1,1,,,,31593231593
+1,New Zealand,8,HM Nicholls,Mahedi Hasan,TWM Latham,,0,4,4,,,,31593231593
+1,New Zealand,9,TWM Latham,Mahmudullah,HM Nicholls,,0,1,1,,,,31593231593
+1,New Zealand,9,HM Nicholls,Mahmudullah,TWM Latham,,0,1,1,,,,31593231593
+1,New Zealand,9,TWM Latham,Mahmudullah,HM Nicholls,,0,1,1,,,,31593231593
+1,New Zealand,9,HM Nicholls,Mahmudullah,TWM Latham,,0,0,0,,,,31593231593
+1,New Zealand,9,HM Nicholls,Mahmudullah,TWM Latham,,0,1,1,,,,31593231593
+1,New Zealand,9,TWM Latham,Mahmudullah,HM Nicholls,,0,0,0,,,,31593231593
+1,New Zealand,10,HM Nicholls,Mohammad Saifuddin,TWM Latham,,0,1,1,,,,31593231593
+1,New Zealand,10,TWM Latham,Mohammad Saifuddin,HM Nicholls,,0,1,1,,,,31593231593
+1,New Zealand,10,HM Nicholls,Mohammad Saifuddin,TWM Latham,,0,1,1,,,,31593231593
+1,New Zealand,10,TWM Latham,Mohammad Saifuddin,HM Nicholls,,0,0,0,,,,31593231593
+1,New Zealand,10,TWM Latham,Mohammad Saifuddin,HM Nicholls,,0,0,0,caught,TWM Latham,Nasum Ahmed,31593231593
+1,New Zealand,10,HM Nicholls,Mohammad Saifuddin,CE McConchie,,0,1,1,,,,31593231593
+1,New Zealand,11,HM Nicholls,Shakib Al Hasan,CE McConchie,,0,1,1,,,,31593231593
+1,New Zealand,11,CE McConchie,Shakib Al Hasan,HM Nicholls,,0,0,0,,,,31593231593
+1,New Zealand,11,CE McConchie,Shakib Al Hasan,HM Nicholls,,0,0,0,,,,31593231593
+1,New Zealand,11,CE McConchie,Shakib Al Hasan,HM Nicholls,,0,0,0,caught,CE McConchie,Mushfiqur Rahim,31593231593
+1,New Zealand,11,DAJ Bracewell,Shakib Al Hasan,HM Nicholls,,0,0,0,,,,31593231593
+1,New Zealand,11,DAJ Bracewell,Shakib Al Hasan,HM Nicholls,,0,1,1,,,,31593231593
+1,New Zealand,12,DAJ Bracewell,Mohammad Saifuddin,HM Nicholls,,0,1,1,,,,31593231593
+1,New Zealand,12,HM Nicholls,Mohammad Saifuddin,DAJ Bracewell,,0,1,1,,,,31593231593
+1,New Zealand,12,DAJ Bracewell,Mohammad Saifuddin,HM Nicholls,,0,1,1,,,,31593231593
+1,New Zealand,12,HM Nicholls,Mohammad Saifuddin,DAJ Bracewell,,0,0,0,,,,31593231593
+1,New Zealand,12,HM Nicholls,Mohammad Saifuddin,DAJ Bracewell,,0,0,0,,,,31593231593
+1,New Zealand,12,HM Nicholls,Mohammad Saifuddin,DAJ Bracewell,,0,0,0,caught,HM Nicholls,Mushfiqur Rahim,31593231593
+1,New Zealand,13,AY Patel,Shakib Al Hasan,DAJ Bracewell,,0,0,0,,,,31593231593
+1,New Zealand,13,AY Patel,Shakib Al Hasan,DAJ Bracewell,,0,0,0,,,,31593231593
+1,New Zealand,13,AY Patel,Shakib Al Hasan,DAJ Bracewell,,0,0,0,,,,31593231593
+1,New Zealand,13,AY Patel,Shakib Al Hasan,DAJ Bracewell,,0,2,2,,,,31593231593
+1,New Zealand,13,AY Patel,Shakib Al Hasan,DAJ Bracewell,,0,1,1,,,,31593231593
+1,New Zealand,13,DAJ Bracewell,Shakib Al Hasan,AY Patel,,0,0,0,,,,31593231593
+1,New Zealand,14,AY Patel,Mustafizur Rahman,DAJ Bracewell,,0,0,0,bowled,AY Patel,,31593231593
+1,New Zealand,14,BM Tickner,Mustafizur Rahman,DAJ Bracewell,,0,0,0,,,,31593231593
+1,New Zealand,14,BM Tickner,Mustafizur Rahman,DAJ Bracewell,,0,1,1,,,,31593231593
+1,New Zealand,14,DAJ Bracewell,Mustafizur Rahman,BM Tickner,,0,2,2,,,,31593231593
+1,New Zealand,14,DAJ Bracewell,Mustafizur Rahman,BM Tickner,,0,0,0,caught,DAJ Bracewell,Mahedi Hasan,31593231593
+1,New Zealand,14,BM Tickner,Mustafizur Rahman,JA Duffy,,0,0,0,,,,31593231593
+1,New Zealand,15,JA Duffy,Shakib Al Hasan,BM Tickner,,0,1,1,,,,31593231593
+1,New Zealand,15,BM Tickner,Shakib Al Hasan,JA Duffy,,0,0,0,,,,31593231593
+1,New Zealand,15,BM Tickner,Shakib Al Hasan,JA Duffy,,0,0,0,,,,31593231593
+1,New Zealand,15,BM Tickner,Shakib Al Hasan,JA Duffy,,0,1,1,,,,31593231593
+1,New Zealand,15,JA Duffy,Shakib Al Hasan,BM Tickner,,0,0,0,,,,31593231593
+1,New Zealand,15,JA Duffy,Shakib Al Hasan,BM Tickner,,0,1,1,,,,31593231593
+1,New Zealand,16,JA Duffy,Mustafizur Rahman,BM Tickner,,0,1,1,,,,31593231593
+1,New Zealand,16,BM Tickner,Mustafizur Rahman,JA Duffy,,0,0,0,,,,31593231593
+1,New Zealand,16,BM Tickner,Mustafizur Rahman,JA Duffy,,0,0,0,,,,31593231593
+1,New Zealand,16,BM Tickner,Mustafizur Rahman,JA Duffy,,0,1,1,,,,31593231593
+1,New Zealand,16,JA Duffy,Mustafizur Rahman,BM Tickner,,0,0,0,caught,JA Duffy,Mohammad Saifuddin,31593231593

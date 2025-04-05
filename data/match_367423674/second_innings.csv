@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Sri Lanka,0,MDKJ Perera,MA Starc,TM Dilshan,,0,0,0,,,,367423674
+2,Sri Lanka,0,MDKJ Perera,MA Starc,TM Dilshan,legbyes,1,1,0,,,,367423674
+2,Sri Lanka,0,TM Dilshan,MA Starc,MDKJ Perera,byes,4,4,0,,,,367423674
+2,Sri Lanka,0,TM Dilshan,MA Starc,MDKJ Perera,,0,4,4,,,,367423674
+2,Sri Lanka,0,TM Dilshan,MA Starc,MDKJ Perera,,0,0,0,bowled,TM Dilshan,,367423674
+2,Sri Lanka,0,DM de Silva,MA Starc,MDKJ Perera,,0,2,2,,,,367423674
+2,Sri Lanka,1,MDKJ Perera,SM Boland,DM de Silva,,0,0,0,,,,367423674
+2,Sri Lanka,1,MDKJ Perera,SM Boland,DM de Silva,,0,0,0,,,,367423674
+2,Sri Lanka,1,MDKJ Perera,SM Boland,DM de Silva,,0,4,4,,,,367423674
+2,Sri Lanka,1,MDKJ Perera,SM Boland,DM de Silva,,0,0,0,caught,MDKJ Perera,MA Starc,367423674
+2,Sri Lanka,1,DM de Silva,SM Boland,LD Chandimal,,0,0,0,,,,367423674
+2,Sri Lanka,1,DM de Silva,SM Boland,LD Chandimal,,0,2,2,,,,367423674
+2,Sri Lanka,2,LD Chandimal,MA Starc,DM de Silva,,0,4,4,,,,367423674
+2,Sri Lanka,2,LD Chandimal,MA Starc,DM de Silva,,0,0,0,,,,367423674
+2,Sri Lanka,2,LD Chandimal,MA Starc,DM de Silva,,0,1,1,,,,367423674
+2,Sri Lanka,2,DM de Silva,MA Starc,LD Chandimal,,0,2,2,,,,367423674
+2,Sri Lanka,2,DM de Silva,MA Starc,LD Chandimal,,0,1,1,,,,367423674
+2,Sri Lanka,2,LD Chandimal,MA Starc,DM de Silva,,0,4,4,,,,367423674
+2,Sri Lanka,3,DM de Silva,SM Boland,LD Chandimal,,0,4,4,,,,367423674
+2,Sri Lanka,3,DM de Silva,SM Boland,LD Chandimal,wides,1,1,0,,,,367423674
+2,Sri Lanka,3,DM de Silva,SM Boland,LD Chandimal,,0,1,1,,,,367423674
+2,Sri Lanka,3,LD Chandimal,SM Boland,DM de Silva,,0,0,0,,,,367423674
+2,Sri Lanka,3,LD Chandimal,SM Boland,DM de Silva,,0,4,4,,,,367423674
+2,Sri Lanka,3,LD Chandimal,SM Boland,DM de Silva,,0,4,4,,,,367423674
+2,Sri Lanka,3,LD Chandimal,SM Boland,DM de Silva,,0,1,1,,,,367423674
+2,Sri Lanka,4,LD Chandimal,JP Faulkner,DM de Silva,,0,1,1,,,,367423674
+2,Sri Lanka,4,DM de Silva,JP Faulkner,LD Chandimal,,0,0,0,bowled,DM de Silva,,367423674
+2,Sri Lanka,4,BKG Mendis,JP Faulkner,LD Chandimal,,0,0,0,,,,367423674
+2,Sri Lanka,4,BKG Mendis,JP Faulkner,LD Chandimal,,0,0,0,,,,367423674
+2,Sri Lanka,4,BKG Mendis,JP Faulkner,LD Chandimal,,0,0,0,,,,367423674
+2,Sri Lanka,4,BKG Mendis,JP Faulkner,LD Chandimal,,0,0,0,,,,367423674
+2,Sri Lanka,5,LD Chandimal,MC Henriques,BKG Mendis,,0,1,1,,,,367423674
+2,Sri Lanka,5,BKG Mendis,MC Henriques,LD Chandimal,,0,4,4,,,,367423674
+2,Sri Lanka,5,BKG Mendis,MC Henriques,LD Chandimal,,0,4,4,,,,367423674
+2,Sri Lanka,5,BKG Mendis,MC Henriques,LD Chandimal,,0,0,0,,,,367423674
+2,Sri Lanka,5,BKG Mendis,MC Henriques,LD Chandimal,,0,1,1,,,,367423674
+2,Sri Lanka,5,LD Chandimal,MC Henriques,BKG Mendis,,0,1,1,,,,367423674
+2,Sri Lanka,6,LD Chandimal,JP Faulkner,BKG Mendis,,0,2,2,,,,367423674
+2,Sri Lanka,6,LD Chandimal,JP Faulkner,BKG Mendis,,0,0,0,,,,367423674
+2,Sri Lanka,6,LD Chandimal,JP Faulkner,BKG Mendis,,0,1,1,,,,367423674
+2,Sri Lanka,6,BKG Mendis,JP Faulkner,LD Chandimal,,0,6,6,,,,367423674
+2,Sri Lanka,6,BKG Mendis,JP Faulkner,LD Chandimal,,0,1,1,,,,367423674
+2,Sri Lanka,6,LD Chandimal,JP Faulkner,BKG Mendis,,0,1,1,,,,367423674
+2,Sri Lanka,7,LD Chandimal,MC Henriques,BKG Mendis,,0,2,2,,,,367423674
+2,Sri Lanka,7,LD Chandimal,MC Henriques,BKG Mendis,,0,1,1,,,,367423674
+2,Sri Lanka,7,BKG Mendis,MC Henriques,LD Chandimal,,0,6,6,,,,367423674
+2,Sri Lanka,7,BKG Mendis,MC Henriques,LD Chandimal,,0,0,0,,,,367423674
+2,Sri Lanka,7,BKG Mendis,MC Henriques,LD Chandimal,,0,0,0,caught,BKG Mendis,GJ Maxwell,367423674
+2,Sri Lanka,7,NLTC Perera,MC Henriques,LD Chandimal,,0,4,4,,,,367423674
+2,Sri Lanka,8,LD Chandimal,A Zampa,NLTC Perera,,0,1,1,,,,367423674
+2,Sri Lanka,8,NLTC Perera,A Zampa,LD Chandimal,,0,1,1,,,,367423674
+2,Sri Lanka,8,LD Chandimal,A Zampa,NLTC Perera,,0,1,1,,,,367423674
+2,Sri Lanka,8,NLTC Perera,A Zampa,LD Chandimal,wides,1,1,0,,,,367423674
+2,Sri Lanka,8,NLTC Perera,A Zampa,LD Chandimal,,0,1,1,,,,367423674
+2,Sri Lanka,8,LD Chandimal,A Zampa,NLTC Perera,,0,0,0,,,,367423674
+2,Sri Lanka,8,LD Chandimal,A Zampa,NLTC Perera,,0,1,1,,,,367423674
+2,Sri Lanka,9,LD Chandimal,GJ Maxwell,NLTC Perera,,0,4,4,,,,367423674
+2,Sri Lanka,9,LD Chandimal,GJ Maxwell,NLTC Perera,,0,1,1,,,,367423674
+2,Sri Lanka,9,NLTC Perera,GJ Maxwell,LD Chandimal,,0,0,0,,,,367423674
+2,Sri Lanka,9,NLTC Perera,GJ Maxwell,LD Chandimal,,0,1,1,,,,367423674
+2,Sri Lanka,9,LD Chandimal,GJ Maxwell,NLTC Perera,,0,1,1,,,,367423674
+2,Sri Lanka,9,NLTC Perera,GJ Maxwell,LD Chandimal,,0,0,0,,,,367423674
+2,Sri Lanka,10,LD Chandimal,A Zampa,NLTC Perera,,0,0,0,,,,367423674
+2,Sri Lanka,10,LD Chandimal,A Zampa,NLTC Perera,,0,1,1,,,,367423674
+2,Sri Lanka,10,NLTC Perera,A Zampa,LD Chandimal,,0,0,0,caught,NLTC Perera,SM Boland,367423674
+2,Sri Lanka,10,CK Kapugedera,A Zampa,LD Chandimal,,0,1,1,,,,367423674
+2,Sri Lanka,10,LD Chandimal,A Zampa,CK Kapugedera,,0,1,1,,,,367423674
+2,Sri Lanka,10,CK Kapugedera,A Zampa,LD Chandimal,,0,0,0,,,,367423674
+2,Sri Lanka,11,LD Chandimal,GJ Maxwell,CK Kapugedera,,0,1,1,,,,367423674
+2,Sri Lanka,11,CK Kapugedera,GJ Maxwell,LD Chandimal,,0,6,6,,,,367423674
+2,Sri Lanka,11,CK Kapugedera,GJ Maxwell,LD Chandimal,,0,1,1,,,,367423674
+2,Sri Lanka,11,LD Chandimal,GJ Maxwell,CK Kapugedera,,0,4,4,,,,367423674
+2,Sri Lanka,11,LD Chandimal,GJ Maxwell,CK Kapugedera,,0,1,1,,,,367423674
+2,Sri Lanka,11,CK Kapugedera,GJ Maxwell,LD Chandimal,,0,1,1,,,,367423674
+2,Sri Lanka,12,CK Kapugedera,A Zampa,LD Chandimal,,0,1,1,,,,367423674
+2,Sri Lanka,12,LD Chandimal,A Zampa,CK Kapugedera,,0,1,1,,,,367423674
+2,Sri Lanka,12,CK Kapugedera,A Zampa,LD Chandimal,,0,6,6,,,,367423674
+2,Sri Lanka,12,CK Kapugedera,A Zampa,LD Chandimal,,0,1,1,,,,367423674
+2,Sri Lanka,12,LD Chandimal,A Zampa,CK Kapugedera,,0,0,0,,,,367423674
+2,Sri Lanka,12,LD Chandimal,A Zampa,CK Kapugedera,,0,1,1,,,,367423674
+2,Sri Lanka,13,LD Chandimal,JP Faulkner,CK Kapugedera,legbyes,4,4,0,,,,367423674
+2,Sri Lanka,13,LD Chandimal,JP Faulkner,CK Kapugedera,,0,2,2,,,,367423674
+2,Sri Lanka,13,LD Chandimal,JP Faulkner,CK Kapugedera,,0,1,1,,,,367423674
+2,Sri Lanka,13,CK Kapugedera,JP Faulkner,LD Chandimal,,0,0,0,,,,367423674
+2,Sri Lanka,13,CK Kapugedera,JP Faulkner,LD Chandimal,,0,1,1,,,,367423674
+2,Sri Lanka,13,LD Chandimal,JP Faulkner,CK Kapugedera,,0,1,1,,,,367423674
+2,Sri Lanka,14,LD Chandimal,A Zampa,CK Kapugedera,,0,6,6,,,,367423674
+2,Sri Lanka,14,LD Chandimal,A Zampa,CK Kapugedera,,0,0,0,,,,367423674
+2,Sri Lanka,14,LD Chandimal,A Zampa,CK Kapugedera,,0,0,0,,,,367423674
+2,Sri Lanka,14,LD Chandimal,A Zampa,CK Kapugedera,,0,0,0,,,,367423674
+2,Sri Lanka,14,LD Chandimal,A Zampa,CK Kapugedera,,0,1,1,,,,367423674
+2,Sri Lanka,14,CK Kapugedera,A Zampa,LD Chandimal,,0,1,1,,,,367423674
+2,Sri Lanka,15,CK Kapugedera,SM Boland,LD Chandimal,,0,1,1,,,,367423674
+2,Sri Lanka,15,LD Chandimal,SM Boland,CK Kapugedera,,0,0,0,caught,LD Chandimal,MC Henriques,367423674
+2,Sri Lanka,15,CK Kapugedera,SM Boland,SS Pathirana,,0,0,0,,,,367423674
+2,Sri Lanka,15,CK Kapugedera,SM Boland,SS Pathirana,legbyes,1,1,0,,,,367423674
+2,Sri Lanka,15,SS Pathirana,SM Boland,CK Kapugedera,wides,1,1,0,,,,367423674
+2,Sri Lanka,15,SS Pathirana,SM Boland,CK Kapugedera,,0,2,2,,,,367423674
+2,Sri Lanka,15,SS Pathirana,SM Boland,CK Kapugedera,,0,0,0,caught,SS Pathirana,TM Head,367423674
+2,Sri Lanka,16,CK Kapugedera,MA Starc,SMSM Senanayake,,0,0,0,,,,367423674
+2,Sri Lanka,16,CK Kapugedera,MA Starc,SMSM Senanayake,,0,1,1,,,,367423674
+2,Sri Lanka,16,SMSM Senanayake,MA Starc,CK Kapugedera,,0,4,4,,,,367423674
+2,Sri Lanka,16,SMSM Senanayake,MA Starc,CK Kapugedera,legbyes,1,1,0,,,,367423674
+2,Sri Lanka,16,CK Kapugedera,MA Starc,SMSM Senanayake,byes,4,4,0,,,,367423674
+2,Sri Lanka,16,CK Kapugedera,MA Starc,SMSM Senanayake,,0,1,1,,,,367423674
+2,Sri Lanka,17,CK Kapugedera,JP Faulkner,SMSM Senanayake,,0,4,4,,,,367423674
+2,Sri Lanka,17,CK Kapugedera,JP Faulkner,SMSM Senanayake,,0,4,4,,,,367423674
+2,Sri Lanka,17,CK Kapugedera,JP Faulkner,SMSM Senanayake,,0,2,2,,,,367423674
+2,Sri Lanka,17,CK Kapugedera,JP Faulkner,SMSM Senanayake,,0,6,6,,,,367423674
+2,Sri Lanka,17,CK Kapugedera,JP Faulkner,SMSM Senanayake,,0,4,4,,,,367423674
+2,Sri Lanka,17,CK Kapugedera,JP Faulkner,SMSM Senanayake,,0,1,1,,,,367423674
+2,Sri Lanka,18,CK Kapugedera,MA Starc,SMSM Senanayake,,0,0,0,caught,CK Kapugedera,GJ Bailey,367423674
+2,Sri Lanka,18,SMSM Senanayake,MA Starc,RAS Lakmal,,0,1,1,,,,367423674
+2,Sri Lanka,18,RAS Lakmal,MA Starc,SMSM Senanayake,,0,1,1,,,,367423674
+2,Sri Lanka,18,SMSM Senanayake,MA Starc,RAS Lakmal,,0,0,0,,,,367423674
+2,Sri Lanka,18,SMSM Senanayake,MA Starc,RAS Lakmal,legbyes,1,1,0,,,,367423674
+2,Sri Lanka,18,RAS Lakmal,MA Starc,SMSM Senanayake,,0,0,0,caught and bowled,RAS Lakmal,,367423674
+2,Sri Lanka,19,SMSM Senanayake,SM Boland,CAK Rajitha,,0,1,1,,,,367423674
+2,Sri Lanka,19,CAK Rajitha,SM Boland,SMSM Senanayake,,0,0,0,,,,367423674
+2,Sri Lanka,19,CAK Rajitha,SM Boland,SMSM Senanayake,,0,0,0,,,,367423674
+2,Sri Lanka,19,CAK Rajitha,SM Boland,SMSM Senanayake,,0,0,0,,,,367423674
+2,Sri Lanka,19,CAK Rajitha,SM Boland,SMSM Senanayake,,0,0,0,,,,367423674
+2,Sri Lanka,19,CAK Rajitha,SM Boland,SMSM Senanayake,,0,0,0,,,,367423674

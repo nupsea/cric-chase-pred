@@ -1,0 +1,120 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,New Zealand,0,SFM Devine,KH Brunt,HNK Jensen,,0,0,0,,,,31461231461
+1,New Zealand,0,SFM Devine,KH Brunt,HNK Jensen,,0,1,1,,,,31461231461
+1,New Zealand,0,HNK Jensen,KH Brunt,SFM Devine,,0,1,1,,,,31461231461
+1,New Zealand,0,SFM Devine,KH Brunt,HNK Jensen,,0,0,0,,,,31461231461
+1,New Zealand,0,SFM Devine,KH Brunt,HNK Jensen,byes,2,2,0,,,,31461231461
+1,New Zealand,0,SFM Devine,KH Brunt,HNK Jensen,,0,1,1,,,,31461231461
+1,New Zealand,1,SFM Devine,NR Sciver,HNK Jensen,,0,0,0,caught,SFM Devine,SIR Dunkley,31461231461
+1,New Zealand,1,HNK Jensen,NR Sciver,AE Satterthwaite,,0,0,0,,,,31461231461
+1,New Zealand,1,HNK Jensen,NR Sciver,AE Satterthwaite,,0,0,0,,,,31461231461
+1,New Zealand,1,HNK Jensen,NR Sciver,AE Satterthwaite,,0,0,0,,,,31461231461
+1,New Zealand,1,HNK Jensen,NR Sciver,AE Satterthwaite,,0,2,2,,,,31461231461
+1,New Zealand,1,HNK Jensen,NR Sciver,AE Satterthwaite,,0,0,0,,,,31461231461
+1,New Zealand,2,AE Satterthwaite,KH Brunt,HNK Jensen,,0,0,0,,,,31461231461
+1,New Zealand,2,AE Satterthwaite,KH Brunt,HNK Jensen,,0,1,1,,,,31461231461
+1,New Zealand,2,HNK Jensen,KH Brunt,AE Satterthwaite,,0,1,1,,,,31461231461
+1,New Zealand,2,AE Satterthwaite,KH Brunt,HNK Jensen,,0,0,0,,,,31461231461
+1,New Zealand,2,AE Satterthwaite,KH Brunt,HNK Jensen,,0,1,1,,,,31461231461
+1,New Zealand,2,HNK Jensen,KH Brunt,AE Satterthwaite,,0,0,0,,,,31461231461
+1,New Zealand,3,AE Satterthwaite,NR Sciver,HNK Jensen,,0,0,0,,,,31461231461
+1,New Zealand,3,AE Satterthwaite,NR Sciver,HNK Jensen,,0,0,0,caught,AE Satterthwaite,FR Davies,31461231461
+1,New Zealand,3,HNK Jensen,NR Sciver,AC Kerr,,0,4,4,,,,31461231461
+1,New Zealand,3,HNK Jensen,NR Sciver,AC Kerr,,0,1,1,,,,31461231461
+1,New Zealand,3,AC Kerr,NR Sciver,HNK Jensen,,0,0,0,,,,31461231461
+1,New Zealand,3,AC Kerr,NR Sciver,HNK Jensen,,0,0,0,,,,31461231461
+1,New Zealand,4,HNK Jensen,FR Davies,AC Kerr,wides,1,1,0,,,,31461231461
+1,New Zealand,4,HNK Jensen,FR Davies,AC Kerr,,0,0,0,,,,31461231461
+1,New Zealand,4,HNK Jensen,FR Davies,AC Kerr,,0,2,2,,,,31461231461
+1,New Zealand,4,HNK Jensen,FR Davies,AC Kerr,legbyes,3,3,0,,,,31461231461
+1,New Zealand,4,AC Kerr,FR Davies,HNK Jensen,,0,0,0,,,,31461231461
+1,New Zealand,4,AC Kerr,FR Davies,HNK Jensen,,0,0,0,,,,31461231461
+1,New Zealand,4,AC Kerr,FR Davies,HNK Jensen,byes,1,1,0,,,,31461231461
+1,New Zealand,5,AC Kerr,NR Sciver,HNK Jensen,,0,1,1,,,,31461231461
+1,New Zealand,5,HNK Jensen,NR Sciver,AC Kerr,,0,0,0,,,,31461231461
+1,New Zealand,5,HNK Jensen,NR Sciver,AC Kerr,,0,1,1,,,,31461231461
+1,New Zealand,5,AC Kerr,NR Sciver,HNK Jensen,,0,4,4,,,,31461231461
+1,New Zealand,5,AC Kerr,NR Sciver,HNK Jensen,,0,4,4,,,,31461231461
+1,New Zealand,5,AC Kerr,NR Sciver,HNK Jensen,,0,1,1,,,,31461231461
+1,New Zealand,6,AC Kerr,S Ecclestone,HNK Jensen,,0,1,1,,,,31461231461
+1,New Zealand,6,HNK Jensen,S Ecclestone,AC Kerr,,0,0,0,,,,31461231461
+1,New Zealand,6,HNK Jensen,S Ecclestone,AC Kerr,,0,0,0,,,,31461231461
+1,New Zealand,6,HNK Jensen,S Ecclestone,AC Kerr,,0,0,0,,,,31461231461
+1,New Zealand,6,HNK Jensen,S Ecclestone,AC Kerr,,0,1,1,,,,31461231461
+1,New Zealand,6,AC Kerr,S Ecclestone,HNK Jensen,,0,1,1,,,,31461231461
+1,New Zealand,7,AC Kerr,S Glenn,HNK Jensen,,0,0,0,,,,31461231461
+1,New Zealand,7,AC Kerr,S Glenn,HNK Jensen,,0,1,1,,,,31461231461
+1,New Zealand,7,HNK Jensen,S Glenn,AC Kerr,,0,0,0,caught,HNK Jensen,MK Villiers,31461231461
+1,New Zealand,7,AC Kerr,S Glenn,KJ Martin,,0,0,0,,,,31461231461
+1,New Zealand,7,AC Kerr,S Glenn,KJ Martin,,0,0,0,,,,31461231461
+1,New Zealand,7,AC Kerr,S Glenn,KJ Martin,,0,1,1,,,,31461231461
+1,New Zealand,8,AC Kerr,S Ecclestone,KJ Martin,,0,0,0,caught and bowled,AC Kerr,,31461231461
+1,New Zealand,8,BM Halliday,S Ecclestone,KJ Martin,,0,0,0,,,,31461231461
+1,New Zealand,8,BM Halliday,S Ecclestone,KJ Martin,,0,0,0,,,,31461231461
+1,New Zealand,8,BM Halliday,S Ecclestone,KJ Martin,,0,0,0,,,,31461231461
+1,New Zealand,8,BM Halliday,S Ecclestone,KJ Martin,,0,0,0,,,,31461231461
+1,New Zealand,8,BM Halliday,S Ecclestone,KJ Martin,,0,0,0,,,,31461231461
+1,New Zealand,9,KJ Martin,S Glenn,BM Halliday,,0,0,0,,,,31461231461
+1,New Zealand,9,KJ Martin,S Glenn,BM Halliday,,0,0,0,,,,31461231461
+1,New Zealand,9,KJ Martin,S Glenn,BM Halliday,,0,0,0,,,,31461231461
+1,New Zealand,9,KJ Martin,S Glenn,BM Halliday,,0,0,0,,,,31461231461
+1,New Zealand,9,KJ Martin,S Glenn,BM Halliday,,0,0,0,,,,31461231461
+1,New Zealand,9,KJ Martin,S Glenn,BM Halliday,,0,0,0,,,,31461231461
+1,New Zealand,10,BM Halliday,S Ecclestone,KJ Martin,,0,1,1,,,,31461231461
+1,New Zealand,10,KJ Martin,S Ecclestone,BM Halliday,,0,4,4,,,,31461231461
+1,New Zealand,10,KJ Martin,S Ecclestone,BM Halliday,,0,0,0,,,,31461231461
+1,New Zealand,10,KJ Martin,S Ecclestone,BM Halliday,,0,4,4,,,,31461231461
+1,New Zealand,10,KJ Martin,S Ecclestone,BM Halliday,,0,1,1,,,,31461231461
+1,New Zealand,10,BM Halliday,S Ecclestone,KJ Martin,,0,0,0,stumped,BM Halliday,AE Jones,31461231461
+1,New Zealand,11,KJ Martin,S Glenn,ML Green,,0,0,0,,,,31461231461
+1,New Zealand,11,KJ Martin,S Glenn,ML Green,,0,0,0,,,,31461231461
+1,New Zealand,11,KJ Martin,S Glenn,ML Green,,0,4,4,,,,31461231461
+1,New Zealand,11,KJ Martin,S Glenn,ML Green,,0,1,1,,,,31461231461
+1,New Zealand,11,ML Green,S Glenn,KJ Martin,,0,0,0,,,,31461231461
+1,New Zealand,11,ML Green,S Glenn,KJ Martin,,0,0,0,,,,31461231461
+1,New Zealand,12,KJ Martin,MK Villiers,ML Green,,0,1,1,,,,31461231461
+1,New Zealand,12,ML Green,MK Villiers,KJ Martin,,0,1,1,,,,31461231461
+1,New Zealand,12,KJ Martin,MK Villiers,ML Green,,0,1,1,,,,31461231461
+1,New Zealand,12,ML Green,MK Villiers,KJ Martin,,0,0,0,,,,31461231461
+1,New Zealand,12,ML Green,MK Villiers,KJ Martin,,0,1,1,,,,31461231461
+1,New Zealand,12,KJ Martin,MK Villiers,ML Green,,0,1,1,,,,31461231461
+1,New Zealand,13,KJ Martin,S Glenn,ML Green,,0,1,1,,,,31461231461
+1,New Zealand,13,ML Green,S Glenn,KJ Martin,,0,1,1,,,,31461231461
+1,New Zealand,13,KJ Martin,S Glenn,ML Green,,0,1,1,,,,31461231461
+1,New Zealand,13,ML Green,S Glenn,KJ Martin,,0,0,0,bowled,ML Green,,31461231461
+1,New Zealand,13,TMM Newton,S Glenn,KJ Martin,,0,0,0,,,,31461231461
+1,New Zealand,13,TMM Newton,S Glenn,KJ Martin,,0,1,1,,,,31461231461
+1,New Zealand,14,TMM Newton,MK Villiers,KJ Martin,,0,1,1,,,,31461231461
+1,New Zealand,14,KJ Martin,MK Villiers,TMM Newton,,0,0,0,,,,31461231461
+1,New Zealand,14,KJ Martin,MK Villiers,TMM Newton,,0,0,0,,,,31461231461
+1,New Zealand,14,KJ Martin,MK Villiers,TMM Newton,,0,1,1,,,,31461231461
+1,New Zealand,14,TMM Newton,MK Villiers,KJ Martin,,0,0,0,,,,31461231461
+1,New Zealand,14,TMM Newton,MK Villiers,KJ Martin,,0,0,0,,,,31461231461
+1,New Zealand,15,KJ Martin,KH Brunt,TMM Newton,,0,2,2,,,,31461231461
+1,New Zealand,15,KJ Martin,KH Brunt,TMM Newton,,0,1,1,,,,31461231461
+1,New Zealand,15,TMM Newton,KH Brunt,KJ Martin,,0,0,0,caught and bowled,TMM Newton,,31461231461
+1,New Zealand,15,LM Kasperek,KH Brunt,KJ Martin,,0,0,0,,,,31461231461
+1,New Zealand,15,LM Kasperek,KH Brunt,KJ Martin,,0,1,1,,,,31461231461
+1,New Zealand,15,KJ Martin,KH Brunt,LM Kasperek,,0,1,1,,,,31461231461
+1,New Zealand,16,KJ Martin,MK Villiers,LM Kasperek,,0,4,4,,,,31461231461
+1,New Zealand,16,KJ Martin,MK Villiers,LM Kasperek,,0,1,1,,,,31461231461
+1,New Zealand,16,LM Kasperek,MK Villiers,KJ Martin,,0,2,2,,,,31461231461
+1,New Zealand,16,LM Kasperek,MK Villiers,KJ Martin,,0,1,1,,,,31461231461
+1,New Zealand,16,KJ Martin,MK Villiers,LM Kasperek,,0,1,1,,,,31461231461
+1,New Zealand,16,LM Kasperek,MK Villiers,KJ Martin,,0,0,0,caught,LM Kasperek,SIR Dunkley,31461231461
+1,New Zealand,17,JM Kerr,S Ecclestone,KJ Martin,,0,1,1,,,,31461231461
+1,New Zealand,17,KJ Martin,S Ecclestone,JM Kerr,,0,1,1,,,,31461231461
+1,New Zealand,17,JM Kerr,S Ecclestone,KJ Martin,,0,0,0,,,,31461231461
+1,New Zealand,17,JM Kerr,S Ecclestone,KJ Martin,,0,2,2,,,,31461231461
+1,New Zealand,17,JM Kerr,S Ecclestone,KJ Martin,,0,0,0,,,,31461231461
+1,New Zealand,17,JM Kerr,S Ecclestone,KJ Martin,,0,1,1,,,,31461231461
+1,New Zealand,18,JM Kerr,NR Sciver,KJ Martin,,0,4,4,,,,31461231461
+1,New Zealand,18,JM Kerr,NR Sciver,KJ Martin,,0,0,0,,,,31461231461
+1,New Zealand,18,JM Kerr,NR Sciver,KJ Martin,legbyes,1,1,0,,,,31461231461
+1,New Zealand,18,KJ Martin,NR Sciver,JM Kerr,,0,4,4,,,,31461231461
+1,New Zealand,18,KJ Martin,NR Sciver,JM Kerr,,0,1,1,,,,31461231461
+1,New Zealand,18,JM Kerr,NR Sciver,KJ Martin,,0,1,1,,,,31461231461
+1,New Zealand,19,JM Kerr,KH Brunt,KJ Martin,,0,1,1,,,,31461231461
+1,New Zealand,19,KJ Martin,KH Brunt,JM Kerr,,0,0,0,stumped,KJ Martin,AE Jones,31461231461
+1,New Zealand,19,RA Mair,KH Brunt,JM Kerr,,0,1,1,,,,31461231461
+1,New Zealand,19,JM Kerr,KH Brunt,RA Mair,,0,0,0,run out,JM Kerr,,31461231461

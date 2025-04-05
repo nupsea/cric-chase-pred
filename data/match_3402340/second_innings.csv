@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Pakistan,0,Mohammad Hafeez,RP Singh,Imran Nazir,,0,1,1,,,,3402340
+2,Pakistan,0,Imran Nazir,RP Singh,Mohammad Hafeez,,0,0,0,,,,3402340
+2,Pakistan,0,Imran Nazir,RP Singh,Mohammad Hafeez,,0,1,1,,,,3402340
+2,Pakistan,0,Mohammad Hafeez,RP Singh,Imran Nazir,,0,0,0,,,,3402340
+2,Pakistan,0,Mohammad Hafeez,RP Singh,Imran Nazir,,0,0,0,caught,Mohammad Hafeez,RV Uthappa,3402340
+2,Pakistan,0,Kamran Akmal,RP Singh,Imran Nazir,legbyes,2,2,0,,,,3402340
+2,Pakistan,1,Imran Nazir,S Sreesanth,Kamran Akmal,,0,4,4,,,,3402340
+2,Pakistan,1,Imran Nazir,S Sreesanth,Kamran Akmal,,0,6,6,,,,3402340
+2,Pakistan,1,Imran Nazir,S Sreesanth,Kamran Akmal,,0,6,6,,,,3402340
+2,Pakistan,1,Imran Nazir,S Sreesanth,Kamran Akmal,,0,0,0,,,,3402340
+2,Pakistan,1,Imran Nazir,S Sreesanth,Kamran Akmal,,0,4,4,,,,3402340
+2,Pakistan,1,Imran Nazir,S Sreesanth,Kamran Akmal,,0,1,1,,,,3402340
+2,Pakistan,2,Imran Nazir,RP Singh,Kamran Akmal,,0,1,1,,,,3402340
+2,Pakistan,2,Kamran Akmal,RP Singh,Imran Nazir,,0,0,0,,,,3402340
+2,Pakistan,2,Kamran Akmal,RP Singh,Imran Nazir,,0,0,0,bowled,Kamran Akmal,,3402340
+2,Pakistan,2,Younis Khan,RP Singh,Imran Nazir,,0,0,0,,,,3402340
+2,Pakistan,2,Younis Khan,RP Singh,Imran Nazir,,0,1,1,,,,3402340
+2,Pakistan,2,Imran Nazir,RP Singh,Younis Khan,,0,4,4,,,,3402340
+2,Pakistan,3,Younis Khan,S Sreesanth,Imran Nazir,,0,0,0,,,,3402340
+2,Pakistan,3,Younis Khan,S Sreesanth,Imran Nazir,,0,0,0,,,,3402340
+2,Pakistan,3,Younis Khan,S Sreesanth,Imran Nazir,,0,0,0,,,,3402340
+2,Pakistan,3,Younis Khan,S Sreesanth,Imran Nazir,,0,0,0,,,,3402340
+2,Pakistan,3,Younis Khan,S Sreesanth,Imran Nazir,,0,0,0,,,,3402340
+2,Pakistan,3,Younis Khan,S Sreesanth,Imran Nazir,,0,0,0,,,,3402340
+2,Pakistan,4,Imran Nazir,RP Singh,Younis Khan,,0,1,1,,,,3402340
+2,Pakistan,4,Younis Khan,RP Singh,Imran Nazir,,0,1,1,,,,3402340
+2,Pakistan,4,Imran Nazir,RP Singh,Younis Khan,,0,0,0,,,,3402340
+2,Pakistan,4,Imran Nazir,RP Singh,Younis Khan,,0,4,4,,,,3402340
+2,Pakistan,4,Imran Nazir,RP Singh,Younis Khan,noballs,1,2,1,,,,3402340
+2,Pakistan,4,Younis Khan,RP Singh,Imran Nazir,,0,4,4,,,,3402340
+2,Pakistan,4,Younis Khan,RP Singh,Imran Nazir,,0,1,1,,,,3402340
+2,Pakistan,5,Younis Khan,S Sreesanth,Imran Nazir,,0,0,0,,,,3402340
+2,Pakistan,5,Younis Khan,S Sreesanth,Imran Nazir,,0,4,4,,,,3402340
+2,Pakistan,5,Younis Khan,S Sreesanth,Imran Nazir,wides,1,1,0,,,,3402340
+2,Pakistan,5,Younis Khan,S Sreesanth,Imran Nazir,,0,4,4,,,,3402340
+2,Pakistan,5,Younis Khan,S Sreesanth,Imran Nazir,,0,0,0,run out,Imran Nazir,RV Uthappa,3402340
+2,Pakistan,5,Shoaib Malik,S Sreesanth,Younis Khan,,0,0,0,,,,3402340
+2,Pakistan,5,Shoaib Malik,S Sreesanth,Younis Khan,,0,0,0,,,,3402340
+2,Pakistan,6,Younis Khan,Joginder Sharma,Shoaib Malik,,0,0,0,,,,3402340
+2,Pakistan,6,Younis Khan,Joginder Sharma,Shoaib Malik,,0,0,0,,,,3402340
+2,Pakistan,6,Younis Khan,Joginder Sharma,Shoaib Malik,,0,4,4,,,,3402340
+2,Pakistan,6,Younis Khan,Joginder Sharma,Shoaib Malik,,0,1,1,,,,3402340
+2,Pakistan,6,Shoaib Malik,Joginder Sharma,Younis Khan,,0,0,0,,,,3402340
+2,Pakistan,6,Shoaib Malik,Joginder Sharma,Younis Khan,,0,0,0,,,,3402340
+2,Pakistan,7,Younis Khan,YK Pathan,Shoaib Malik,,0,1,1,,,,3402340
+2,Pakistan,7,Shoaib Malik,YK Pathan,Younis Khan,,0,1,1,,,,3402340
+2,Pakistan,7,Younis Khan,YK Pathan,Shoaib Malik,,0,1,1,,,,3402340
+2,Pakistan,7,Shoaib Malik,YK Pathan,Younis Khan,,0,1,1,,,,3402340
+2,Pakistan,7,Younis Khan,YK Pathan,Shoaib Malik,,0,1,1,,,,3402340
+2,Pakistan,7,Shoaib Malik,YK Pathan,Younis Khan,,0,0,0,,,,3402340
+2,Pakistan,8,Younis Khan,Joginder Sharma,Shoaib Malik,,0,1,1,,,,3402340
+2,Pakistan,8,Shoaib Malik,Joginder Sharma,Younis Khan,,0,1,1,,,,3402340
+2,Pakistan,8,Younis Khan,Joginder Sharma,Shoaib Malik,,0,0,0,caught,Younis Khan,YK Pathan,3402340
+2,Pakistan,8,Misbah-ul-Haq,Joginder Sharma,Shoaib Malik,,0,0,0,,,,3402340
+2,Pakistan,8,Misbah-ul-Haq,Joginder Sharma,Shoaib Malik,,0,0,0,,,,3402340
+2,Pakistan,8,Misbah-ul-Haq,Joginder Sharma,Shoaib Malik,,0,0,0,,,,3402340
+2,Pakistan,9,Shoaib Malik,IK Pathan,Misbah-ul-Haq,,0,1,1,,,,3402340
+2,Pakistan,9,Misbah-ul-Haq,IK Pathan,Shoaib Malik,,0,1,1,,,,3402340
+2,Pakistan,9,Shoaib Malik,IK Pathan,Misbah-ul-Haq,,0,1,1,,,,3402340
+2,Pakistan,9,Misbah-ul-Haq,IK Pathan,Shoaib Malik,,0,0,0,,,,3402340
+2,Pakistan,9,Misbah-ul-Haq,IK Pathan,Shoaib Malik,,0,1,1,,,,3402340
+2,Pakistan,9,Shoaib Malik,IK Pathan,Misbah-ul-Haq,,0,1,1,,,,3402340
+2,Pakistan,10,Shoaib Malik,Joginder Sharma,Misbah-ul-Haq,,0,0,0,,,,3402340
+2,Pakistan,10,Shoaib Malik,Joginder Sharma,Misbah-ul-Haq,,0,1,1,,,,3402340
+2,Pakistan,10,Misbah-ul-Haq,Joginder Sharma,Shoaib Malik,,0,2,2,,,,3402340
+2,Pakistan,10,Misbah-ul-Haq,Joginder Sharma,Shoaib Malik,wides,1,1,0,,,,3402340
+2,Pakistan,10,Misbah-ul-Haq,Joginder Sharma,Shoaib Malik,,0,0,0,,,,3402340
+2,Pakistan,10,Misbah-ul-Haq,Joginder Sharma,Shoaib Malik,,0,1,1,,,,3402340
+2,Pakistan,10,Shoaib Malik,Joginder Sharma,Misbah-ul-Haq,,0,1,1,,,,3402340
+2,Pakistan,11,Shoaib Malik,IK Pathan,Misbah-ul-Haq,,0,0,0,,,,3402340
+2,Pakistan,11,Shoaib Malik,IK Pathan,Misbah-ul-Haq,,0,0,0,,,,3402340
+2,Pakistan,11,Shoaib Malik,IK Pathan,Misbah-ul-Haq,,0,0,0,caught,Shoaib Malik,RG Sharma,3402340
+2,Pakistan,11,Shahid Afridi,IK Pathan,Misbah-ul-Haq,wides,1,1,0,,,,3402340
+2,Pakistan,11,Shahid Afridi,IK Pathan,Misbah-ul-Haq,,0,0,0,caught,Shahid Afridi,S Sreesanth,3402340
+2,Pakistan,11,Misbah-ul-Haq,IK Pathan,Yasir Arafat,,0,0,0,,,,3402340
+2,Pakistan,11,Misbah-ul-Haq,IK Pathan,Yasir Arafat,,0,1,1,,,,3402340
+2,Pakistan,12,Misbah-ul-Haq,Harbhajan Singh,Yasir Arafat,,0,2,2,,,,3402340
+2,Pakistan,12,Misbah-ul-Haq,Harbhajan Singh,Yasir Arafat,,0,1,1,,,,3402340
+2,Pakistan,12,Yasir Arafat,Harbhajan Singh,Misbah-ul-Haq,,0,1,1,,,,3402340
+2,Pakistan,12,Misbah-ul-Haq,Harbhajan Singh,Yasir Arafat,,0,1,1,,,,3402340
+2,Pakistan,12,Yasir Arafat,Harbhajan Singh,Misbah-ul-Haq,,0,4,4,,,,3402340
+2,Pakistan,12,Yasir Arafat,Harbhajan Singh,Misbah-ul-Haq,,0,1,1,,,,3402340
+2,Pakistan,13,Yasir Arafat,IK Pathan,Misbah-ul-Haq,,0,1,1,,,,3402340
+2,Pakistan,13,Misbah-ul-Haq,IK Pathan,Yasir Arafat,,0,0,0,,,,3402340
+2,Pakistan,13,Misbah-ul-Haq,IK Pathan,Yasir Arafat,,0,1,1,,,,3402340
+2,Pakistan,13,Yasir Arafat,IK Pathan,Misbah-ul-Haq,,0,0,0,,,,3402340
+2,Pakistan,13,Yasir Arafat,IK Pathan,Misbah-ul-Haq,,0,1,1,,,,3402340
+2,Pakistan,13,Misbah-ul-Haq,IK Pathan,Yasir Arafat,,0,1,1,,,,3402340
+2,Pakistan,14,Misbah-ul-Haq,Harbhajan Singh,Yasir Arafat,,0,2,2,,,,3402340
+2,Pakistan,14,Misbah-ul-Haq,Harbhajan Singh,Yasir Arafat,,0,1,1,,,,3402340
+2,Pakistan,14,Yasir Arafat,Harbhajan Singh,Misbah-ul-Haq,,0,1,1,,,,3402340
+2,Pakistan,14,Misbah-ul-Haq,Harbhajan Singh,Yasir Arafat,,0,0,0,,,,3402340
+2,Pakistan,14,Misbah-ul-Haq,Harbhajan Singh,Yasir Arafat,,0,1,1,,,,3402340
+2,Pakistan,14,Yasir Arafat,Harbhajan Singh,Misbah-ul-Haq,,0,2,2,,,,3402340
+2,Pakistan,15,Misbah-ul-Haq,IK Pathan,Yasir Arafat,,0,0,0,,,,3402340
+2,Pakistan,15,Misbah-ul-Haq,IK Pathan,Yasir Arafat,,0,0,0,,,,3402340
+2,Pakistan,15,Misbah-ul-Haq,IK Pathan,Yasir Arafat,,0,1,1,,,,3402340
+2,Pakistan,15,Yasir Arafat,IK Pathan,Misbah-ul-Haq,,0,4,4,,,,3402340
+2,Pakistan,15,Yasir Arafat,IK Pathan,Misbah-ul-Haq,,0,0,0,,,,3402340
+2,Pakistan,15,Yasir Arafat,IK Pathan,Misbah-ul-Haq,,0,0,0,bowled,Yasir Arafat,,3402340
+2,Pakistan,16,Misbah-ul-Haq,Harbhajan Singh,Sohail Tanvir,wides,1,1,0,,,,3402340
+2,Pakistan,16,Misbah-ul-Haq,Harbhajan Singh,Sohail Tanvir,,0,0,0,,,,3402340
+2,Pakistan,16,Misbah-ul-Haq,Harbhajan Singh,Sohail Tanvir,,0,6,6,,,,3402340
+2,Pakistan,16,Misbah-ul-Haq,Harbhajan Singh,Sohail Tanvir,,0,0,0,,,,3402340
+2,Pakistan,16,Misbah-ul-Haq,Harbhajan Singh,Sohail Tanvir,,0,0,0,,,,3402340
+2,Pakistan,16,Misbah-ul-Haq,Harbhajan Singh,Sohail Tanvir,,0,6,6,,,,3402340
+2,Pakistan,16,Misbah-ul-Haq,Harbhajan Singh,Sohail Tanvir,,0,6,6,,,,3402340
+2,Pakistan,17,Sohail Tanvir,S Sreesanth,Misbah-ul-Haq,,0,6,6,,,,3402340
+2,Pakistan,17,Sohail Tanvir,S Sreesanth,Misbah-ul-Haq,wides,1,1,0,,,,3402340
+2,Pakistan,17,Sohail Tanvir,S Sreesanth,Misbah-ul-Haq,legbyes,1,1,0,,,,3402340
+2,Pakistan,17,Misbah-ul-Haq,S Sreesanth,Sohail Tanvir,,0,0,0,,,,3402340
+2,Pakistan,17,Misbah-ul-Haq,S Sreesanth,Sohail Tanvir,,0,1,1,,,,3402340
+2,Pakistan,17,Sohail Tanvir,S Sreesanth,Misbah-ul-Haq,,0,6,6,,,,3402340
+2,Pakistan,17,Sohail Tanvir,S Sreesanth,Misbah-ul-Haq,,0,0,0,bowled,Sohail Tanvir,,3402340
+2,Pakistan,18,Misbah-ul-Haq,RP Singh,Umar Gul,,0,1,1,,,,3402340
+2,Pakistan,18,Umar Gul,RP Singh,Misbah-ul-Haq,byes,1,1,0,,,,3402340
+2,Pakistan,18,Misbah-ul-Haq,RP Singh,Umar Gul,,0,0,0,,,,3402340
+2,Pakistan,18,Misbah-ul-Haq,RP Singh,Umar Gul,legbyes,1,1,0,,,,3402340
+2,Pakistan,18,Umar Gul,RP Singh,Misbah-ul-Haq,,0,0,0,bowled,Umar Gul,,3402340
+2,Pakistan,18,Mohammad Asif,RP Singh,Misbah-ul-Haq,,0,4,4,,,,3402340
+2,Pakistan,19,Misbah-ul-Haq,Joginder Sharma,Mohammad Asif,wides,1,1,0,,,,3402340
+2,Pakistan,19,Misbah-ul-Haq,Joginder Sharma,Mohammad Asif,,0,0,0,,,,3402340
+2,Pakistan,19,Misbah-ul-Haq,Joginder Sharma,Mohammad Asif,,0,6,6,,,,3402340
+2,Pakistan,19,Misbah-ul-Haq,Joginder Sharma,Mohammad Asif,,0,0,0,caught,Misbah-ul-Haq,S Sreesanth,3402340

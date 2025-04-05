@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Kenya,0,NN Odhiambo,JOA Gordon,SO Tikolo,,0,1,1,,,,337523375
+1,Kenya,0,SO Tikolo,JOA Gordon,NN Odhiambo,,0,0,0,,,,337523375
+1,Kenya,0,SO Tikolo,JOA Gordon,NN Odhiambo,,0,1,1,,,,337523375
+1,Kenya,0,NN Odhiambo,JOA Gordon,SO Tikolo,,0,0,0,,,,337523375
+1,Kenya,0,NN Odhiambo,JOA Gordon,SO Tikolo,,0,4,4,,,,337523375
+1,Kenya,0,NN Odhiambo,JOA Gordon,SO Tikolo,,0,0,0,,,,337523375
+1,Kenya,1,SO Tikolo,Junaid Siddiqui,NN Odhiambo,,0,0,0,,,,337523375
+1,Kenya,1,SO Tikolo,Junaid Siddiqui,NN Odhiambo,,0,4,4,,,,337523375
+1,Kenya,1,SO Tikolo,Junaid Siddiqui,NN Odhiambo,,0,2,2,,,,337523375
+1,Kenya,1,SO Tikolo,Junaid Siddiqui,NN Odhiambo,,0,0,0,,,,337523375
+1,Kenya,1,SO Tikolo,Junaid Siddiqui,NN Odhiambo,,0,1,1,,,,337523375
+1,Kenya,1,NN Odhiambo,Junaid Siddiqui,SO Tikolo,,0,0,0,,,,337523375
+1,Kenya,2,SO Tikolo,JOA Gordon,NN Odhiambo,,0,1,1,,,,337523375
+1,Kenya,2,NN Odhiambo,JOA Gordon,SO Tikolo,,0,4,4,,,,337523375
+1,Kenya,2,NN Odhiambo,JOA Gordon,SO Tikolo,wides,1,1,0,,,,337523375
+1,Kenya,2,NN Odhiambo,JOA Gordon,SO Tikolo,,0,1,1,,,,337523375
+1,Kenya,2,SO Tikolo,JOA Gordon,NN Odhiambo,,0,4,4,,,,337523375
+1,Kenya,2,SO Tikolo,JOA Gordon,NN Odhiambo,wides,1,1,0,,,,337523375
+1,Kenya,2,SO Tikolo,JOA Gordon,NN Odhiambo,,0,4,4,,,,337523375
+1,Kenya,2,SO Tikolo,JOA Gordon,NN Odhiambo,wides,1,1,0,,,,337523375
+1,Kenya,2,SO Tikolo,JOA Gordon,NN Odhiambo,,0,4,4,,,,337523375
+1,Kenya,3,NN Odhiambo,Junaid Siddiqui,SO Tikolo,legbyes,1,1,0,,,,337523375
+1,Kenya,3,SO Tikolo,Junaid Siddiqui,NN Odhiambo,,0,4,4,,,,337523375
+1,Kenya,3,SO Tikolo,Junaid Siddiqui,NN Odhiambo,,0,4,4,,,,337523375
+1,Kenya,3,SO Tikolo,Junaid Siddiqui,NN Odhiambo,,0,4,4,,,,337523375
+1,Kenya,3,SO Tikolo,Junaid Siddiqui,NN Odhiambo,,0,0,0,,,,337523375
+1,Kenya,3,SO Tikolo,Junaid Siddiqui,NN Odhiambo,,0,1,1,,,,337523375
+1,Kenya,4,SO Tikolo,HS Baidwan,NN Odhiambo,,0,4,4,,,,337523375
+1,Kenya,4,SO Tikolo,HS Baidwan,NN Odhiambo,,0,0,0,,,,337523375
+1,Kenya,4,SO Tikolo,HS Baidwan,NN Odhiambo,,0,1,1,,,,337523375
+1,Kenya,4,NN Odhiambo,HS Baidwan,SO Tikolo,,0,0,0,,,,337523375
+1,Kenya,4,NN Odhiambo,HS Baidwan,SO Tikolo,,0,1,1,,,,337523375
+1,Kenya,4,SO Tikolo,HS Baidwan,NN Odhiambo,,0,0,0,,,,337523375
+1,Kenya,5,NN Odhiambo,Rizwan Cheema,SO Tikolo,,0,4,4,,,,337523375
+1,Kenya,5,NN Odhiambo,Rizwan Cheema,SO Tikolo,,0,0,0,,,,337523375
+1,Kenya,5,NN Odhiambo,Rizwan Cheema,SO Tikolo,,0,0,0,,,,337523375
+1,Kenya,5,NN Odhiambo,Rizwan Cheema,SO Tikolo,,0,0,0,caught,NN Odhiambo,Raza-ur-Rehman,337523375
+1,Kenya,5,SO Tikolo,Rizwan Cheema,DI Allan,,0,0,0,,,,337523375
+1,Kenya,5,SO Tikolo,Rizwan Cheema,DI Allan,,0,1,1,,,,337523375
+1,Kenya,6,SO Tikolo,Raza-ur-Rehman,DI Allan,,0,0,0,stumped,SO Tikolo,A Bagai,337523375
+1,Kenya,6,CO Obuya,Raza-ur-Rehman,DI Allan,,0,1,1,,,,337523375
+1,Kenya,6,DI Allan,Raza-ur-Rehman,CO Obuya,,0,0,0,,,,337523375
+1,Kenya,6,DI Allan,Raza-ur-Rehman,CO Obuya,,0,0,0,,,,337523375
+1,Kenya,6,DI Allan,Raza-ur-Rehman,CO Obuya,,0,1,1,,,,337523375
+1,Kenya,6,CO Obuya,Raza-ur-Rehman,DI Allan,,0,0,0,,,,337523375
+1,Kenya,7,DI Allan,AS Dean,CO Obuya,,0,1,1,,,,337523375
+1,Kenya,7,CO Obuya,AS Dean,DI Allan,,0,0,0,,,,337523375
+1,Kenya,7,CO Obuya,AS Dean,DI Allan,,0,1,1,,,,337523375
+1,Kenya,7,DI Allan,AS Dean,CO Obuya,,0,1,1,,,,337523375
+1,Kenya,7,CO Obuya,AS Dean,DI Allan,,0,0,0,,,,337523375
+1,Kenya,7,CO Obuya,AS Dean,DI Allan,,0,0,0,,,,337523375
+1,Kenya,8,DI Allan,Raza-ur-Rehman,CO Obuya,,0,4,4,,,,337523375
+1,Kenya,8,DI Allan,Raza-ur-Rehman,CO Obuya,,0,1,1,,,,337523375
+1,Kenya,8,CO Obuya,Raza-ur-Rehman,DI Allan,,0,1,1,,,,337523375
+1,Kenya,8,DI Allan,Raza-ur-Rehman,CO Obuya,,0,0,0,,,,337523375
+1,Kenya,8,DI Allan,Raza-ur-Rehman,CO Obuya,,0,0,0,,,,337523375
+1,Kenya,8,DI Allan,Raza-ur-Rehman,CO Obuya,,0,0,0,,,,337523375
+1,Kenya,9,CO Obuya,AS Dean,DI Allan,,0,6,6,,,,337523375
+1,Kenya,9,CO Obuya,AS Dean,DI Allan,,0,1,1,,,,337523375
+1,Kenya,9,DI Allan,AS Dean,CO Obuya,,0,0,0,,,,337523375
+1,Kenya,9,DI Allan,AS Dean,CO Obuya,,0,0,0,,,,337523375
+1,Kenya,9,DI Allan,AS Dean,CO Obuya,,0,4,4,,,,337523375
+1,Kenya,9,DI Allan,AS Dean,CO Obuya,,0,0,0,,,,337523375
+1,Kenya,10,CO Obuya,Raza-ur-Rehman,DI Allan,,0,1,1,,,,337523375
+1,Kenya,10,DI Allan,Raza-ur-Rehman,CO Obuya,,0,1,1,,,,337523375
+1,Kenya,10,CO Obuya,Raza-ur-Rehman,DI Allan,,0,2,2,,,,337523375
+1,Kenya,10,CO Obuya,Raza-ur-Rehman,DI Allan,,0,1,1,,,,337523375
+1,Kenya,10,DI Allan,Raza-ur-Rehman,CO Obuya,,0,1,1,,,,337523375
+1,Kenya,10,CO Obuya,Raza-ur-Rehman,DI Allan,,0,0,0,,,,337523375
+1,Kenya,11,DI Allan,Junaid Siddiqui,CO Obuya,,0,1,1,,,,337523375
+1,Kenya,11,CO Obuya,Junaid Siddiqui,DI Allan,,0,0,0,,,,337523375
+1,Kenya,11,CO Obuya,Junaid Siddiqui,DI Allan,,0,1,1,,,,337523375
+1,Kenya,11,DI Allan,Junaid Siddiqui,CO Obuya,,0,0,0,,,,337523375
+1,Kenya,11,DI Allan,Junaid Siddiqui,CO Obuya,,0,2,2,,,,337523375
+1,Kenya,11,DI Allan,Junaid Siddiqui,CO Obuya,,0,0,0,,,,337523375
+1,Kenya,12,CO Obuya,HS Baidwan,DI Allan,,0,1,1,,,,337523375
+1,Kenya,12,DI Allan,HS Baidwan,CO Obuya,,0,1,1,,,,337523375
+1,Kenya,12,CO Obuya,HS Baidwan,DI Allan,,0,1,1,,,,337523375
+1,Kenya,12,DI Allan,HS Baidwan,CO Obuya,,0,0,0,caught,DI Allan,Rizwan Cheema,337523375
+1,Kenya,12,RR Patel,HS Baidwan,CO Obuya,,0,0,0,,,,337523375
+1,Kenya,12,RR Patel,HS Baidwan,CO Obuya,,0,0,0,,,,337523375
+1,Kenya,13,CO Obuya,Junaid Siddiqui,RR Patel,,0,1,1,,,,337523375
+1,Kenya,13,RR Patel,Junaid Siddiqui,CO Obuya,,0,1,1,,,,337523375
+1,Kenya,13,CO Obuya,Junaid Siddiqui,RR Patel,,0,0,0,,,,337523375
+1,Kenya,13,CO Obuya,Junaid Siddiqui,RR Patel,,0,1,1,,,,337523375
+1,Kenya,13,RR Patel,Junaid Siddiqui,CO Obuya,,0,2,2,,,,337523375
+1,Kenya,13,RR Patel,Junaid Siddiqui,CO Obuya,,0,0,0,,,,337523375
+1,Kenya,14,CO Obuya,Rizwan Cheema,RR Patel,,0,0,0,,,,337523375
+1,Kenya,14,CO Obuya,Rizwan Cheema,RR Patel,,0,1,1,,,,337523375
+1,Kenya,14,RR Patel,Rizwan Cheema,CO Obuya,byes,4,4,0,,,,337523375
+1,Kenya,14,RR Patel,Rizwan Cheema,CO Obuya,,0,6,6,,,,337523375
+1,Kenya,14,RR Patel,Rizwan Cheema,CO Obuya,,0,0,0,,,,337523375
+1,Kenya,14,RR Patel,Rizwan Cheema,CO Obuya,,0,2,2,,,,337523375
+1,Kenya,15,CO Obuya,Raza-ur-Rehman,RR Patel,,0,1,1,,,,337523375
+1,Kenya,15,RR Patel,Raza-ur-Rehman,CO Obuya,,0,0,0,,,,337523375
+1,Kenya,15,RR Patel,Raza-ur-Rehman,CO Obuya,,0,0,0,bowled,RR Patel,,337523375
+1,Kenya,15,RG Aga,Raza-ur-Rehman,CO Obuya,,0,0,0,,,,337523375
+1,Kenya,15,RG Aga,Raza-ur-Rehman,CO Obuya,,0,1,1,,,,337523375
+1,Kenya,15,CO Obuya,Raza-ur-Rehman,RG Aga,,0,0,0,,,,337523375
+1,Kenya,16,RG Aga,AS Hansra,CO Obuya,,0,1,1,,,,337523375
+1,Kenya,16,CO Obuya,AS Hansra,RG Aga,,0,1,1,,,,337523375
+1,Kenya,16,RG Aga,AS Hansra,CO Obuya,,0,1,1,,,,337523375
+1,Kenya,16,CO Obuya,AS Hansra,RG Aga,,0,1,1,,,,337523375
+1,Kenya,16,RG Aga,AS Hansra,CO Obuya,,0,0,0,caught,RG Aga,Rizwan Cheema,337523375
+1,Kenya,16,CO Obuya,AS Hansra,MA Ouma,,0,1,1,,,,337523375
+1,Kenya,17,CO Obuya,HS Baidwan,MA Ouma,,0,0,0,,,,337523375
+1,Kenya,17,CO Obuya,HS Baidwan,MA Ouma,,0,6,6,,,,337523375
+1,Kenya,17,CO Obuya,HS Baidwan,MA Ouma,,0,1,1,,,,337523375
+1,Kenya,17,MA Ouma,HS Baidwan,CO Obuya,,0,4,4,,,,337523375
+1,Kenya,17,MA Ouma,HS Baidwan,CO Obuya,,0,0,0,,,,337523375
+1,Kenya,17,MA Ouma,HS Baidwan,CO Obuya,,0,2,2,,,,337523375
+1,Kenya,18,CO Obuya,AS Hansra,MA Ouma,,0,0,0,,,,337523375
+1,Kenya,18,CO Obuya,AS Hansra,MA Ouma,,0,2,2,,,,337523375
+1,Kenya,18,CO Obuya,AS Hansra,MA Ouma,,0,0,0,,,,337523375
+1,Kenya,18,CO Obuya,AS Hansra,MA Ouma,,0,6,6,,,,337523375
+1,Kenya,18,CO Obuya,AS Hansra,MA Ouma,,0,1,1,,,,337523375
+1,Kenya,18,MA Ouma,AS Hansra,CO Obuya,,0,1,1,,,,337523375
+1,Kenya,19,MA Ouma,JOA Gordon,CO Obuya,wides,1,1,0,,,,337523375
+1,Kenya,19,MA Ouma,JOA Gordon,CO Obuya,,0,1,1,,,,337523375
+1,Kenya,19,CO Obuya,JOA Gordon,MA Ouma,,0,0,0,caught,CO Obuya,A Bagai,337523375
+1,Kenya,19,IA Karim,JOA Gordon,MA Ouma,,0,0,0,caught,IA Karim,AS Dean,337523375
+1,Kenya,19,MA Ouma,JOA Gordon,SO Ngoche,,0,0,0,,,,337523375
+1,Kenya,19,MA Ouma,JOA Gordon,SO Ngoche,,0,1,1,,,,337523375
+1,Kenya,19,SO Ngoche,JOA Gordon,MA Ouma,byes,1,1,0,,,,337523375

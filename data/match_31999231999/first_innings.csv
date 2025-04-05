@@ -1,0 +1,135 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Bulgaria,0,H Lakov,Bilal Muhammad,IA De Silva,wides,1,1,0,,,,31999231999
+1,Bulgaria,0,H Lakov,Bilal Muhammad,IA De Silva,,0,0,0,,,,31999231999
+1,Bulgaria,0,H Lakov,Bilal Muhammad,IA De Silva,,0,0,0,,,,31999231999
+1,Bulgaria,0,H Lakov,Bilal Muhammad,IA De Silva,,0,1,1,,,,31999231999
+1,Bulgaria,0,IA De Silva,Bilal Muhammad,H Lakov,,0,0,0,,,,31999231999
+1,Bulgaria,0,IA De Silva,Bilal Muhammad,H Lakov,wides,2,2,0,,,,31999231999
+1,Bulgaria,0,H Lakov,Bilal Muhammad,IA De Silva,,0,0,0,,,,31999231999
+1,Bulgaria,0,H Lakov,Bilal Muhammad,IA De Silva,,0,0,0,,,,31999231999
+1,Bulgaria,1,IA De Silva,Jaison Jerome,H Lakov,,0,4,4,,,,31999231999
+1,Bulgaria,1,IA De Silva,Jaison Jerome,H Lakov,,0,0,0,,,,31999231999
+1,Bulgaria,1,IA De Silva,Jaison Jerome,H Lakov,,0,1,1,,,,31999231999
+1,Bulgaria,1,H Lakov,Jaison Jerome,IA De Silva,legbyes,2,2,0,,,,31999231999
+1,Bulgaria,1,H Lakov,Jaison Jerome,IA De Silva,,0,0,0,,,,31999231999
+1,Bulgaria,1,H Lakov,Jaison Jerome,IA De Silva,,0,4,4,,,,31999231999
+1,Bulgaria,2,IA De Silva,Bilal Muhammad,H Lakov,,0,0,0,,,,31999231999
+1,Bulgaria,2,IA De Silva,Bilal Muhammad,H Lakov,,0,0,0,,,,31999231999
+1,Bulgaria,2,IA De Silva,Bilal Muhammad,H Lakov,,0,0,0,,,,31999231999
+1,Bulgaria,2,IA De Silva,Bilal Muhammad,H Lakov,,0,0,0,,,,31999231999
+1,Bulgaria,2,IA De Silva,Bilal Muhammad,H Lakov,,0,0,0,,,,31999231999
+1,Bulgaria,2,IA De Silva,Bilal Muhammad,H Lakov,,0,1,1,,,,31999231999
+1,Bulgaria,3,IA De Silva,Jaison Jerome,H Lakov,,0,4,4,,,,31999231999
+1,Bulgaria,3,IA De Silva,Jaison Jerome,H Lakov,,0,0,0,caught,IA De Silva,HS Gericke,31999231999
+1,Bulgaria,3,Saim Hussain,Jaison Jerome,H Lakov,,0,1,1,,,,31999231999
+1,Bulgaria,3,H Lakov,Jaison Jerome,Saim Hussain,,0,0,0,,,,31999231999
+1,Bulgaria,3,H Lakov,Jaison Jerome,Saim Hussain,,0,1,1,,,,31999231999
+1,Bulgaria,3,Saim Hussain,Jaison Jerome,H Lakov,,0,4,4,,,,31999231999
+1,Bulgaria,4,H Lakov,Jitesh Patel,Saim Hussain,,0,4,4,,,,31999231999
+1,Bulgaria,4,H Lakov,Jitesh Patel,Saim Hussain,,0,2,2,,,,31999231999
+1,Bulgaria,4,H Lakov,Jitesh Patel,Saim Hussain,,0,0,0,,,,31999231999
+1,Bulgaria,4,H Lakov,Jitesh Patel,Saim Hussain,,0,1,1,,,,31999231999
+1,Bulgaria,4,Saim Hussain,Jitesh Patel,H Lakov,,0,0,0,,,,31999231999
+1,Bulgaria,4,Saim Hussain,Jitesh Patel,H Lakov,,0,1,1,,,,31999231999
+1,Bulgaria,5,Saim Hussain,Imran Ameer,H Lakov,wides,1,1,0,,,,31999231999
+1,Bulgaria,5,Saim Hussain,Imran Ameer,H Lakov,,0,0,0,,,,31999231999
+1,Bulgaria,5,Saim Hussain,Imran Ameer,H Lakov,,0,1,1,,,,31999231999
+1,Bulgaria,5,H Lakov,Imran Ameer,Saim Hussain,,0,2,2,,,,31999231999
+1,Bulgaria,5,H Lakov,Imran Ameer,Saim Hussain,byes,1,1,0,,,,31999231999
+1,Bulgaria,5,Saim Hussain,Imran Ameer,H Lakov,,0,2,2,,,,31999231999
+1,Bulgaria,5,Saim Hussain,Imran Ameer,H Lakov,,0,1,1,,,,31999231999
+1,Bulgaria,6,Saim Hussain,Jitesh Patel,H Lakov,,0,0,0,,,,31999231999
+1,Bulgaria,6,Saim Hussain,Jitesh Patel,H Lakov,,0,2,2,,,,31999231999
+1,Bulgaria,6,Saim Hussain,Jitesh Patel,H Lakov,,0,0,0,,,,31999231999
+1,Bulgaria,6,Saim Hussain,Jitesh Patel,H Lakov,,0,1,1,,,,31999231999
+1,Bulgaria,6,H Lakov,Jitesh Patel,Saim Hussain,,0,1,1,,,,31999231999
+1,Bulgaria,6,Saim Hussain,Jitesh Patel,H Lakov,,0,1,1,,,,31999231999
+1,Bulgaria,7,Saim Hussain,Imran Ameer,H Lakov,,0,2,2,,,,31999231999
+1,Bulgaria,7,Saim Hussain,Imran Ameer,H Lakov,,0,0,0,,,,31999231999
+1,Bulgaria,7,Saim Hussain,Imran Ameer,H Lakov,,0,6,6,,,,31999231999
+1,Bulgaria,7,Saim Hussain,Imran Ameer,H Lakov,,0,1,1,,,,31999231999
+1,Bulgaria,7,H Lakov,Imran Ameer,Saim Hussain,,0,2,2,,,,31999231999
+1,Bulgaria,7,H Lakov,Imran Ameer,Saim Hussain,,0,0,0,bowled,H Lakov,,31999231999
+1,Bulgaria,8,Saim Hussain,B Arora,Omar Rassol,,0,1,1,,,,31999231999
+1,Bulgaria,8,Omar Rassol,B Arora,Saim Hussain,,0,0,0,,,,31999231999
+1,Bulgaria,8,Omar Rassol,B Arora,Saim Hussain,,0,1,1,,,,31999231999
+1,Bulgaria,8,Saim Hussain,B Arora,Omar Rassol,,0,1,1,,,,31999231999
+1,Bulgaria,8,Omar Rassol,B Arora,Saim Hussain,,0,0,0,,,,31999231999
+1,Bulgaria,8,Omar Rassol,B Arora,Saim Hussain,,0,0,0,,,,31999231999
+1,Bulgaria,9,Saim Hussain,Imran Ameer,Omar Rassol,,0,4,4,,,,31999231999
+1,Bulgaria,9,Saim Hussain,Imran Ameer,Omar Rassol,,0,1,1,,,,31999231999
+1,Bulgaria,9,Omar Rassol,Imran Ameer,Saim Hussain,,0,0,0,stumped,Omar Rassol,HS Gericke,31999231999
+1,Bulgaria,9,P Mishra,Imran Ameer,Saim Hussain,,0,0,0,,,,31999231999
+1,Bulgaria,9,P Mishra,Imran Ameer,Saim Hussain,,0,0,0,,,,31999231999
+1,Bulgaria,9,P Mishra,Imran Ameer,Saim Hussain,wides,1,1,0,,,,31999231999
+1,Bulgaria,9,P Mishra,Imran Ameer,Saim Hussain,,0,6,6,,,,31999231999
+1,Bulgaria,10,Saim Hussain,B Arora,P Mishra,,0,4,4,,,,31999231999
+1,Bulgaria,10,Saim Hussain,B Arora,P Mishra,,0,4,4,,,,31999231999
+1,Bulgaria,10,Saim Hussain,B Arora,P Mishra,,0,0,0,,,,31999231999
+1,Bulgaria,10,Saim Hussain,B Arora,P Mishra,,0,1,1,,,,31999231999
+1,Bulgaria,10,P Mishra,B Arora,Saim Hussain,,0,0,0,,,,31999231999
+1,Bulgaria,10,P Mishra,B Arora,Saim Hussain,,0,0,0,,,,31999231999
+1,Bulgaria,11,Saim Hussain,Imran Ameer,P Mishra,,0,0,0,,,,31999231999
+1,Bulgaria,11,Saim Hussain,Imran Ameer,P Mishra,,0,1,1,,,,31999231999
+1,Bulgaria,11,P Mishra,Imran Ameer,Saim Hussain,,0,1,1,,,,31999231999
+1,Bulgaria,11,Saim Hussain,Imran Ameer,P Mishra,,0,1,1,,,,31999231999
+1,Bulgaria,11,P Mishra,Imran Ameer,Saim Hussain,wides,1,1,0,,,,31999231999
+1,Bulgaria,11,P Mishra,Imran Ameer,Saim Hussain,,0,1,1,,,,31999231999
+1,Bulgaria,11,Saim Hussain,Imran Ameer,P Mishra,,0,6,6,,,,31999231999
+1,Bulgaria,12,P Mishra,B Arora,Saim Hussain,,0,4,4,,,,31999231999
+1,Bulgaria,12,P Mishra,B Arora,Saim Hussain,,0,6,6,,,,31999231999
+1,Bulgaria,12,P Mishra,B Arora,Saim Hussain,,0,1,1,,,,31999231999
+1,Bulgaria,12,Saim Hussain,B Arora,P Mishra,,0,1,1,,,,31999231999
+1,Bulgaria,12,P Mishra,B Arora,Saim Hussain,,0,0,0,,,,31999231999
+1,Bulgaria,12,P Mishra,B Arora,Saim Hussain,,0,1,1,,,,31999231999
+1,Bulgaria,13,P Mishra,Jitesh Patel,Saim Hussain,wides,1,1,0,,,,31999231999
+1,Bulgaria,13,P Mishra,Jitesh Patel,Saim Hussain,wides,1,1,0,,,,31999231999
+1,Bulgaria,13,P Mishra,Jitesh Patel,Saim Hussain,,0,1,1,,,,31999231999
+1,Bulgaria,13,Saim Hussain,Jitesh Patel,P Mishra,,0,0,0,,,,31999231999
+1,Bulgaria,13,Saim Hussain,Jitesh Patel,P Mishra,,0,1,1,,,,31999231999
+1,Bulgaria,13,P Mishra,Jitesh Patel,Saim Hussain,,0,6,6,,,,31999231999
+1,Bulgaria,13,P Mishra,Jitesh Patel,Saim Hussain,,0,0,0,,,,31999231999
+1,Bulgaria,13,P Mishra,Jitesh Patel,Saim Hussain,wides,1,1,0,,,,31999231999
+1,Bulgaria,13,P Mishra,Jitesh Patel,Saim Hussain,wides,1,1,0,,,,31999231999
+1,Bulgaria,13,P Mishra,Jitesh Patel,Saim Hussain,,0,0,0,,,,31999231999
+1,Bulgaria,14,Saim Hussain,Bilal Muhammad,P Mishra,,0,0,0,,,,31999231999
+1,Bulgaria,14,Saim Hussain,Bilal Muhammad,P Mishra,,0,1,1,,,,31999231999
+1,Bulgaria,14,P Mishra,Bilal Muhammad,Saim Hussain,,0,4,4,,,,31999231999
+1,Bulgaria,14,P Mishra,Bilal Muhammad,Saim Hussain,,0,1,1,,,,31999231999
+1,Bulgaria,14,Saim Hussain,Bilal Muhammad,P Mishra,,0,1,1,,,,31999231999
+1,Bulgaria,14,P Mishra,Bilal Muhammad,Saim Hussain,,0,2,2,,,,31999231999
+1,Bulgaria,15,Saim Hussain,Jitesh Patel,P Mishra,,0,1,1,,,,31999231999
+1,Bulgaria,15,P Mishra,Jitesh Patel,Saim Hussain,,0,0,0,bowled,P Mishra,,31999231999
+1,Bulgaria,15,KC D'Souza,Jitesh Patel,Saim Hussain,,0,0,0,,,,31999231999
+1,Bulgaria,15,KC D'Souza,Jitesh Patel,Saim Hussain,wides,1,1,0,,,,31999231999
+1,Bulgaria,15,KC D'Souza,Jitesh Patel,Saim Hussain,,0,1,1,,,,31999231999
+1,Bulgaria,15,Saim Hussain,Jitesh Patel,KC D'Souza,,0,0,0,,,,31999231999
+1,Bulgaria,15,Saim Hussain,Jitesh Patel,KC D'Souza,,0,6,6,,,,31999231999
+1,Bulgaria,16,KC D'Souza,B Arora,Saim Hussain,,0,1,1,,,,31999231999
+1,Bulgaria,16,Saim Hussain,B Arora,KC D'Souza,,0,4,4,,,,31999231999
+1,Bulgaria,16,Saim Hussain,B Arora,KC D'Souza,,0,1,1,,,,31999231999
+1,Bulgaria,16,KC D'Souza,B Arora,Saim Hussain,,0,1,1,,,,31999231999
+1,Bulgaria,16,Saim Hussain,B Arora,KC D'Souza,,0,6,6,,,,31999231999
+1,Bulgaria,16,Saim Hussain,B Arora,KC D'Souza,,0,1,1,,,,31999231999
+1,Bulgaria,17,Saim Hussain,Jaison Jerome,KC D'Souza,,0,1,1,,,,31999231999
+1,Bulgaria,17,KC D'Souza,Jaison Jerome,Saim Hussain,,0,2,2,,,,31999231999
+1,Bulgaria,17,KC D'Souza,Jaison Jerome,Saim Hussain,,0,1,1,,,,31999231999
+1,Bulgaria,17,Saim Hussain,Jaison Jerome,KC D'Souza,,0,0,0,,,,31999231999
+1,Bulgaria,17,Saim Hussain,Jaison Jerome,KC D'Souza,,0,6,6,,,,31999231999
+1,Bulgaria,17,Saim Hussain,Jaison Jerome,KC D'Souza,wides,1,1,0,,,,31999231999
+1,Bulgaria,17,Saim Hussain,Jaison Jerome,KC D'Souza,,0,6,6,,,,31999231999
+1,Bulgaria,18,KC D'Souza,Bilal Muhammad,Saim Hussain,noballs,1,1,0,,,,31999231999
+1,Bulgaria,18,KC D'Souza,Bilal Muhammad,Saim Hussain,,0,0,0,,,,31999231999
+1,Bulgaria,18,KC D'Souza,Bilal Muhammad,Saim Hussain,,0,4,4,,,,31999231999
+1,Bulgaria,18,KC D'Souza,Bilal Muhammad,Saim Hussain,,0,0,0,,,,31999231999
+1,Bulgaria,18,KC D'Souza,Bilal Muhammad,Saim Hussain,noballs,5,5,0,,,,31999231999
+1,Bulgaria,18,KC D'Souza,Bilal Muhammad,Saim Hussain,noballs,1,2,1,,,,31999231999
+1,Bulgaria,18,Saim Hussain,Bilal Muhammad,KC D'Souza,,0,2,2,,,,31999231999
+1,Bulgaria,18,Saim Hussain,Bilal Muhammad,KC D'Souza,,0,2,2,,,,31999231999
+1,Bulgaria,18,Saim Hussain,Bilal Muhammad,KC D'Souza,,0,1,1,,,,31999231999
+1,Bulgaria,19,Saim Hussain,Jaison Jerome,KC D'Souza,,0,4,4,,,,31999231999
+1,Bulgaria,19,Saim Hussain,Jaison Jerome,KC D'Souza,,0,4,4,,,,31999231999
+1,Bulgaria,19,Saim Hussain,Jaison Jerome,KC D'Souza,,0,2,2,,,,31999231999
+1,Bulgaria,19,Saim Hussain,Jaison Jerome,KC D'Souza,,0,2,2,,,,31999231999
+1,Bulgaria,19,Saim Hussain,Jaison Jerome,KC D'Souza,,0,4,4,,,,31999231999
+1,Bulgaria,19,Saim Hussain,Jaison Jerome,KC D'Souza,,0,4,4,,,,31999231999

@@ -1,0 +1,127 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Bangladesh,0,Mohammad Naim,TG Southee,Liton Das,,0,4,4,,,,31435231435
+2,Bangladesh,0,Mohammad Naim,TG Southee,Liton Das,,0,0,0,,,,31435231435
+2,Bangladesh,0,Mohammad Naim,TG Southee,Liton Das,,0,4,4,,,,31435231435
+2,Bangladesh,0,Mohammad Naim,TG Southee,Liton Das,,0,0,0,,,,31435231435
+2,Bangladesh,0,Mohammad Naim,TG Southee,Liton Das,,0,0,0,,,,31435231435
+2,Bangladesh,0,Mohammad Naim,TG Southee,Liton Das,,0,1,1,,,,31435231435
+2,Bangladesh,1,Mohammad Naim,HK Bennett,Liton Das,,0,4,4,,,,31435231435
+2,Bangladesh,1,Mohammad Naim,HK Bennett,Liton Das,,0,0,0,,,,31435231435
+2,Bangladesh,1,Mohammad Naim,HK Bennett,Liton Das,,0,0,0,,,,31435231435
+2,Bangladesh,1,Mohammad Naim,HK Bennett,Liton Das,,0,1,1,,,,31435231435
+2,Bangladesh,1,Liton Das,HK Bennett,Mohammad Naim,,0,0,0,,,,31435231435
+2,Bangladesh,1,Liton Das,HK Bennett,Mohammad Naim,wides,1,1,0,,,,31435231435
+2,Bangladesh,1,Liton Das,HK Bennett,Mohammad Naim,legbyes,1,1,0,,,,31435231435
+2,Bangladesh,2,Liton Das,TG Southee,Mohammad Naim,,0,0,0,,,,31435231435
+2,Bangladesh,2,Liton Das,TG Southee,Mohammad Naim,,0,4,4,,,,31435231435
+2,Bangladesh,2,Liton Das,TG Southee,Mohammad Naim,,0,0,0,caught,Liton Das,IS Sodhi,31435231435
+2,Bangladesh,2,Mohammad Naim,TG Southee,Soumya Sarkar,wides,1,1,0,,,,31435231435
+2,Bangladesh,2,Mohammad Naim,TG Southee,Soumya Sarkar,,0,1,1,,,,31435231435
+2,Bangladesh,2,Soumya Sarkar,TG Southee,Mohammad Naim,,0,4,4,,,,31435231435
+2,Bangladesh,2,Soumya Sarkar,TG Southee,Mohammad Naim,,0,0,0,,,,31435231435
+2,Bangladesh,3,Mohammad Naim,HK Bennett,Soumya Sarkar,,0,4,4,,,,31435231435
+2,Bangladesh,3,Mohammad Naim,HK Bennett,Soumya Sarkar,,0,0,0,,,,31435231435
+2,Bangladesh,3,Mohammad Naim,HK Bennett,Soumya Sarkar,,0,2,2,,,,31435231435
+2,Bangladesh,3,Mohammad Naim,HK Bennett,Soumya Sarkar,,0,1,1,,,,31435231435
+2,Bangladesh,3,Soumya Sarkar,HK Bennett,Mohammad Naim,,0,1,1,,,,31435231435
+2,Bangladesh,3,Mohammad Naim,HK Bennett,Soumya Sarkar,,0,1,1,,,,31435231435
+2,Bangladesh,4,Mohammad Naim,LH Ferguson,Soumya Sarkar,,0,4,4,,,,31435231435
+2,Bangladesh,4,Mohammad Naim,LH Ferguson,Soumya Sarkar,,0,0,0,lbw,Mohammad Naim,,31435231435
+2,Bangladesh,4,Mohammad Mithun,LH Ferguson,Soumya Sarkar,,0,0,0,,,,31435231435
+2,Bangladesh,4,Mohammad Mithun,LH Ferguson,Soumya Sarkar,,0,0,0,,,,31435231435
+2,Bangladesh,4,Mohammad Mithun,LH Ferguson,Soumya Sarkar,,0,2,2,,,,31435231435
+2,Bangladesh,4,Mohammad Mithun,LH Ferguson,Soumya Sarkar,,0,1,1,,,,31435231435
+2,Bangladesh,5,Mohammad Mithun,IS Sodhi,Soumya Sarkar,,0,1,1,,,,31435231435
+2,Bangladesh,5,Soumya Sarkar,IS Sodhi,Mohammad Mithun,,0,0,0,,,,31435231435
+2,Bangladesh,5,Soumya Sarkar,IS Sodhi,Mohammad Mithun,,0,0,0,,,,31435231435
+2,Bangladesh,5,Soumya Sarkar,IS Sodhi,Mohammad Mithun,,0,0,0,caught and bowled,Soumya Sarkar,,31435231435
+2,Bangladesh,5,Mahmudullah,IS Sodhi,Mohammad Mithun,,0,1,1,,,,31435231435
+2,Bangladesh,5,Mohammad Mithun,IS Sodhi,Mahmudullah,,0,0,0,bowled,Mohammad Mithun,,31435231435
+2,Bangladesh,6,Mahmudullah,MS Chapman,Afif Hossain,,0,1,1,,,,31435231435
+2,Bangladesh,6,Afif Hossain,MS Chapman,Mahmudullah,,0,1,1,,,,31435231435
+2,Bangladesh,6,Mahmudullah,MS Chapman,Afif Hossain,,0,0,0,,,,31435231435
+2,Bangladesh,6,Mahmudullah,MS Chapman,Afif Hossain,,0,2,2,,,,31435231435
+2,Bangladesh,6,Mahmudullah,MS Chapman,Afif Hossain,,0,1,1,,,,31435231435
+2,Bangladesh,6,Afif Hossain,MS Chapman,Mahmudullah,,0,4,4,,,,31435231435
+2,Bangladesh,7,Mahmudullah,IS Sodhi,Afif Hossain,,0,4,4,,,,31435231435
+2,Bangladesh,7,Mahmudullah,IS Sodhi,Afif Hossain,,0,2,2,,,,31435231435
+2,Bangladesh,7,Mahmudullah,IS Sodhi,Afif Hossain,,0,0,0,,,,31435231435
+2,Bangladesh,7,Mahmudullah,IS Sodhi,Afif Hossain,,0,0,0,bowled,Mahmudullah,,31435231435
+2,Bangladesh,7,Mahedi Hasan,IS Sodhi,Afif Hossain,,0,0,0,bowled,Mahedi Hasan,,31435231435
+2,Bangladesh,7,Mohammad Saifuddin,IS Sodhi,Afif Hossain,,0,0,0,,,,31435231435
+2,Bangladesh,8,Afif Hossain,LH Ferguson,Mohammad Saifuddin,,0,0,0,,,,31435231435
+2,Bangladesh,8,Afif Hossain,LH Ferguson,Mohammad Saifuddin,,0,0,0,,,,31435231435
+2,Bangladesh,8,Afif Hossain,LH Ferguson,Mohammad Saifuddin,,0,0,0,,,,31435231435
+2,Bangladesh,8,Afif Hossain,LH Ferguson,Mohammad Saifuddin,,0,2,2,,,,31435231435
+2,Bangladesh,8,Afif Hossain,LH Ferguson,Mohammad Saifuddin,,0,4,4,,,,31435231435
+2,Bangladesh,8,Afif Hossain,LH Ferguson,Mohammad Saifuddin,,0,1,1,,,,31435231435
+2,Bangladesh,9,Afif Hossain,IS Sodhi,Mohammad Saifuddin,,0,1,1,,,,31435231435
+2,Bangladesh,9,Mohammad Saifuddin,IS Sodhi,Afif Hossain,,0,0,0,,,,31435231435
+2,Bangladesh,9,Mohammad Saifuddin,IS Sodhi,Afif Hossain,,0,1,1,,,,31435231435
+2,Bangladesh,9,Afif Hossain,IS Sodhi,Mohammad Saifuddin,,0,6,6,,,,31435231435
+2,Bangladesh,9,Afif Hossain,IS Sodhi,Mohammad Saifuddin,,0,1,1,,,,31435231435
+2,Bangladesh,9,Mohammad Saifuddin,IS Sodhi,Afif Hossain,,0,1,1,,,,31435231435
+2,Bangladesh,10,Mohammad Saifuddin,GD Phillips,Afif Hossain,,0,1,1,,,,31435231435
+2,Bangladesh,10,Afif Hossain,GD Phillips,Mohammad Saifuddin,,0,1,1,,,,31435231435
+2,Bangladesh,10,Mohammad Saifuddin,GD Phillips,Afif Hossain,wides,2,2,0,,,,31435231435
+2,Bangladesh,10,Afif Hossain,GD Phillips,Mohammad Saifuddin,,0,1,1,,,,31435231435
+2,Bangladesh,10,Mohammad Saifuddin,GD Phillips,Afif Hossain,,0,0,0,,,,31435231435
+2,Bangladesh,10,Mohammad Saifuddin,GD Phillips,Afif Hossain,,0,0,0,,,,31435231435
+2,Bangladesh,10,Mohammad Saifuddin,GD Phillips,Afif Hossain,,0,0,0,,,,31435231435
+2,Bangladesh,11,Afif Hossain,IS Sodhi,Mohammad Saifuddin,,0,1,1,,,,31435231435
+2,Bangladesh,11,Mohammad Saifuddin,IS Sodhi,Afif Hossain,,0,1,1,,,,31435231435
+2,Bangladesh,11,Afif Hossain,IS Sodhi,Mohammad Saifuddin,,0,1,1,,,,31435231435
+2,Bangladesh,11,Mohammad Saifuddin,IS Sodhi,Afif Hossain,,0,4,4,,,,31435231435
+2,Bangladesh,11,Mohammad Saifuddin,IS Sodhi,Afif Hossain,wides,1,1,0,,,,31435231435
+2,Bangladesh,11,Mohammad Saifuddin,IS Sodhi,Afif Hossain,,0,1,1,,,,31435231435
+2,Bangladesh,11,Afif Hossain,IS Sodhi,Mohammad Saifuddin,,0,1,1,,,,31435231435
+2,Bangladesh,12,Afif Hossain,LH Ferguson,Mohammad Saifuddin,,0,0,0,,,,31435231435
+2,Bangladesh,12,Afif Hossain,LH Ferguson,Mohammad Saifuddin,,0,2,2,,,,31435231435
+2,Bangladesh,12,Afif Hossain,LH Ferguson,Mohammad Saifuddin,,0,1,1,,,,31435231435
+2,Bangladesh,12,Mohammad Saifuddin,LH Ferguson,Afif Hossain,,0,2,2,,,,31435231435
+2,Bangladesh,12,Mohammad Saifuddin,LH Ferguson,Afif Hossain,,0,0,0,,,,31435231435
+2,Bangladesh,12,Mohammad Saifuddin,LH Ferguson,Afif Hossain,,0,1,1,,,,31435231435
+2,Bangladesh,13,Mohammad Saifuddin,DJ Mitchell,Afif Hossain,,0,1,1,,,,31435231435
+2,Bangladesh,13,Afif Hossain,DJ Mitchell,Mohammad Saifuddin,,0,4,4,,,,31435231435
+2,Bangladesh,13,Afif Hossain,DJ Mitchell,Mohammad Saifuddin,,0,1,1,,,,31435231435
+2,Bangladesh,13,Mohammad Saifuddin,DJ Mitchell,Afif Hossain,legbyes,1,1,0,,,,31435231435
+2,Bangladesh,13,Afif Hossain,DJ Mitchell,Mohammad Saifuddin,,0,4,4,,,,31435231435
+2,Bangladesh,13,Afif Hossain,DJ Mitchell,Mohammad Saifuddin,,0,1,1,,,,31435231435
+2,Bangladesh,14,Afif Hossain,HK Bennett,Mohammad Saifuddin,,0,1,1,,,,31435231435
+2,Bangladesh,14,Mohammad Saifuddin,HK Bennett,Afif Hossain,,0,1,1,,,,31435231435
+2,Bangladesh,14,Afif Hossain,HK Bennett,Mohammad Saifuddin,,0,0,0,,,,31435231435
+2,Bangladesh,14,Afif Hossain,HK Bennett,Mohammad Saifuddin,,0,0,0,,,,31435231435
+2,Bangladesh,14,Afif Hossain,HK Bennett,Mohammad Saifuddin,,0,1,1,,,,31435231435
+2,Bangladesh,14,Mohammad Saifuddin,HK Bennett,Afif Hossain,,0,1,1,,,,31435231435
+2,Bangladesh,15,Mohammad Saifuddin,TG Southee,Afif Hossain,,0,0,0,,,,31435231435
+2,Bangladesh,15,Mohammad Saifuddin,TG Southee,Afif Hossain,,0,1,1,,,,31435231435
+2,Bangladesh,15,Afif Hossain,TG Southee,Mohammad Saifuddin,,0,0,0,,,,31435231435
+2,Bangladesh,15,Afif Hossain,TG Southee,Mohammad Saifuddin,wides,1,1,0,,,,31435231435
+2,Bangladesh,15,Afif Hossain,TG Southee,Mohammad Saifuddin,,0,0,0,,,,31435231435
+2,Bangladesh,15,Afif Hossain,TG Southee,Mohammad Saifuddin,,0,1,1,,,,31435231435
+2,Bangladesh,15,Mohammad Saifuddin,TG Southee,Afif Hossain,,0,1,1,,,,31435231435
+2,Bangladesh,16,Mohammad Saifuddin,LH Ferguson,Afif Hossain,,0,1,1,,,,31435231435
+2,Bangladesh,16,Afif Hossain,LH Ferguson,Mohammad Saifuddin,,0,0,0,,,,31435231435
+2,Bangladesh,16,Afif Hossain,LH Ferguson,Mohammad Saifuddin,,0,4,4,,,,31435231435
+2,Bangladesh,16,Afif Hossain,LH Ferguson,Mohammad Saifuddin,,0,0,0,bowled,Afif Hossain,,31435231435
+2,Bangladesh,16,Shoriful Islam,LH Ferguson,Mohammad Saifuddin,,0,0,0,,,,31435231435
+2,Bangladesh,16,Shoriful Islam,LH Ferguson,Mohammad Saifuddin,,0,0,0,,,,31435231435
+2,Bangladesh,17,Mohammad Saifuddin,TG Southee,Shoriful Islam,,0,1,1,,,,31435231435
+2,Bangladesh,17,Shoriful Islam,TG Southee,Mohammad Saifuddin,,0,0,0,,,,31435231435
+2,Bangladesh,17,Shoriful Islam,TG Southee,Mohammad Saifuddin,,0,4,4,,,,31435231435
+2,Bangladesh,17,Shoriful Islam,TG Southee,Mohammad Saifuddin,wides,1,1,0,,,,31435231435
+2,Bangladesh,17,Shoriful Islam,TG Southee,Mohammad Saifuddin,,0,0,0,,,,31435231435
+2,Bangladesh,17,Shoriful Islam,TG Southee,Mohammad Saifuddin,,0,1,1,,,,31435231435
+2,Bangladesh,17,Mohammad Saifuddin,TG Southee,Shoriful Islam,,0,4,4,,,,31435231435
+2,Bangladesh,18,Shoriful Islam,HK Bennett,Mohammad Saifuddin,,0,0,0,caught,Shoriful Islam,MJ Guptill,31435231435
+2,Bangladesh,18,Mohammad Saifuddin,HK Bennett,Nasum Ahmed,,0,0,0,,,,31435231435
+2,Bangladesh,18,Mohammad Saifuddin,HK Bennett,Nasum Ahmed,,0,0,0,,,,31435231435
+2,Bangladesh,18,Mohammad Saifuddin,HK Bennett,Nasum Ahmed,,0,0,0,,,,31435231435
+2,Bangladesh,18,Mohammad Saifuddin,HK Bennett,Nasum Ahmed,,0,1,1,,,,31435231435
+2,Bangladesh,18,Nasum Ahmed,HK Bennett,Mohammad Saifuddin,,0,0,0,,,,31435231435
+2,Bangladesh,19,Mohammad Saifuddin,DJ Mitchell,Nasum Ahmed,,0,6,6,,,,31435231435
+2,Bangladesh,19,Mohammad Saifuddin,DJ Mitchell,Nasum Ahmed,,0,0,0,,,,31435231435
+2,Bangladesh,19,Mohammad Saifuddin,DJ Mitchell,Nasum Ahmed,,0,0,0,,,,31435231435
+2,Bangladesh,19,Mohammad Saifuddin,DJ Mitchell,Nasum Ahmed,,0,0,0,,,,31435231435
+2,Bangladesh,19,Mohammad Saifuddin,DJ Mitchell,Nasum Ahmed,,0,0,0,,,,31435231435
+2,Bangladesh,19,Mohammad Saifuddin,DJ Mitchell,Nasum Ahmed,,0,4,4,,,,31435231435

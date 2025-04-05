@@ -1,0 +1,75 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Ireland,0,R Stokell,IJR Zwilling,GH Lewis,,0,4,4,,,,31576231576
+2,Ireland,0,R Stokell,IJR Zwilling,GH Lewis,wides,1,1,0,,,,31576231576
+2,Ireland,0,R Stokell,IJR Zwilling,GH Lewis,,0,4,4,,,,31576231576
+2,Ireland,0,R Stokell,IJR Zwilling,GH Lewis,,0,0,0,,,,31576231576
+2,Ireland,0,R Stokell,IJR Zwilling,GH Lewis,,0,4,4,,,,31576231576
+2,Ireland,0,R Stokell,IJR Zwilling,GH Lewis,,0,0,0,,,,31576231576
+2,Ireland,0,R Stokell,IJR Zwilling,GH Lewis,,0,0,0,,,,31576231576
+2,Ireland,1,GH Lewis,I van der Woning,R Stokell,,0,1,1,,,,31576231576
+2,Ireland,1,R Stokell,I van der Woning,GH Lewis,,0,0,0,,,,31576231576
+2,Ireland,1,R Stokell,I van der Woning,GH Lewis,,0,4,4,,,,31576231576
+2,Ireland,1,R Stokell,I van der Woning,GH Lewis,legbyes,4,4,0,,,,31576231576
+2,Ireland,1,R Stokell,I van der Woning,GH Lewis,,0,1,1,,,,31576231576
+2,Ireland,1,GH Lewis,I van der Woning,R Stokell,,0,4,4,,,,31576231576
+2,Ireland,2,R Stokell,S Siegers,GH Lewis,,0,0,0,bowled,R Stokell,,31576231576
+2,Ireland,2,L Delany,S Siegers,GH Lewis,,0,1,1,,,,31576231576
+2,Ireland,2,GH Lewis,S Siegers,L Delany,,0,0,0,,,,31576231576
+2,Ireland,2,GH Lewis,S Siegers,L Delany,,0,4,4,,,,31576231576
+2,Ireland,2,GH Lewis,S Siegers,L Delany,,0,1,1,,,,31576231576
+2,Ireland,2,L Delany,S Siegers,GH Lewis,,0,4,4,,,,31576231576
+2,Ireland,3,GH Lewis,EN Lynch,L Delany,,0,0,0,,,,31576231576
+2,Ireland,3,GH Lewis,EN Lynch,L Delany,,0,2,2,,,,31576231576
+2,Ireland,3,GH Lewis,EN Lynch,L Delany,,0,1,1,,,,31576231576
+2,Ireland,3,L Delany,EN Lynch,GH Lewis,,0,1,1,,,,31576231576
+2,Ireland,3,GH Lewis,EN Lynch,L Delany,,0,4,4,,,,31576231576
+2,Ireland,3,GH Lewis,EN Lynch,L Delany,,0,4,4,,,,31576231576
+2,Ireland,4,L Delany,IJR Zwilling,GH Lewis,,0,0,0,,,,31576231576
+2,Ireland,4,L Delany,IJR Zwilling,GH Lewis,,0,0,0,,,,31576231576
+2,Ireland,4,L Delany,IJR Zwilling,GH Lewis,,0,4,4,,,,31576231576
+2,Ireland,4,L Delany,IJR Zwilling,GH Lewis,,0,4,4,,,,31576231576
+2,Ireland,4,L Delany,IJR Zwilling,GH Lewis,,0,0,0,,,,31576231576
+2,Ireland,4,L Delany,IJR Zwilling,GH Lewis,,0,0,0,,,,31576231576
+2,Ireland,5,GH Lewis,HDJ Siegers,L Delany,,0,4,4,,,,31576231576
+2,Ireland,5,GH Lewis,HDJ Siegers,L Delany,,0,1,1,,,,31576231576
+2,Ireland,5,L Delany,HDJ Siegers,GH Lewis,,0,0,0,,,,31576231576
+2,Ireland,5,L Delany,HDJ Siegers,GH Lewis,wides,1,1,0,,,,31576231576
+2,Ireland,5,L Delany,HDJ Siegers,GH Lewis,,0,0,0,,,,31576231576
+2,Ireland,5,L Delany,HDJ Siegers,GH Lewis,,0,1,1,,,,31576231576
+2,Ireland,5,GH Lewis,HDJ Siegers,L Delany,,0,0,0,,,,31576231576
+2,Ireland,6,L Delany,S Siegers,GH Lewis,legbyes,2,2,0,,,,31576231576
+2,Ireland,6,L Delany,S Siegers,GH Lewis,,0,0,0,,,,31576231576
+2,Ireland,6,L Delany,S Siegers,GH Lewis,,0,0,0,run out,L Delany,M Veringmeier,31576231576
+2,Ireland,6,GH Lewis,S Siegers,SM Kavanagh,,0,1,1,,,,31576231576
+2,Ireland,6,SM Kavanagh,S Siegers,GH Lewis,,0,0,0,,,,31576231576
+2,Ireland,6,SM Kavanagh,S Siegers,GH Lewis,,0,0,0,lbw,SM Kavanagh,,31576231576
+2,Ireland,7,GH Lewis,F Overdijk,EAJ Richardson,wides,1,1,0,,,,31576231576
+2,Ireland,7,GH Lewis,F Overdijk,EAJ Richardson,,0,0,0,,,,31576231576
+2,Ireland,7,GH Lewis,F Overdijk,EAJ Richardson,wides,1,1,0,,,,31576231576
+2,Ireland,7,GH Lewis,F Overdijk,EAJ Richardson,,0,0,0,,,,31576231576
+2,Ireland,7,GH Lewis,F Overdijk,EAJ Richardson,,0,1,1,,,,31576231576
+2,Ireland,7,EAJ Richardson,F Overdijk,GH Lewis,,0,0,0,lbw,EAJ Richardson,,31576231576
+2,Ireland,7,L Maritz,F Overdijk,GH Lewis,legbyes,1,1,0,,,,31576231576
+2,Ireland,7,GH Lewis,F Overdijk,L Maritz,,0,0,0,,,,31576231576
+2,Ireland,8,L Maritz,S Siegers,GH Lewis,,0,1,1,,,,31576231576
+2,Ireland,8,GH Lewis,S Siegers,L Maritz,,0,4,4,,,,31576231576
+2,Ireland,8,GH Lewis,S Siegers,L Maritz,,0,0,0,,,,31576231576
+2,Ireland,8,GH Lewis,S Siegers,L Maritz,,0,4,4,,,,31576231576
+2,Ireland,8,GH Lewis,S Siegers,L Maritz,,0,4,4,,,,31576231576
+2,Ireland,8,GH Lewis,S Siegers,L Maritz,,0,0,0,,,,31576231576
+2,Ireland,9,L Maritz,F Overdijk,GH Lewis,,0,0,0,,,,31576231576
+2,Ireland,9,L Maritz,F Overdijk,GH Lewis,,0,0,0,,,,31576231576
+2,Ireland,9,L Maritz,F Overdijk,GH Lewis,legbyes,1,1,0,,,,31576231576
+2,Ireland,9,GH Lewis,F Overdijk,L Maritz,wides,1,1,0,,,,31576231576
+2,Ireland,9,GH Lewis,F Overdijk,L Maritz,legbyes,1,1,0,,,,31576231576
+2,Ireland,9,L Maritz,F Overdijk,GH Lewis,,0,0,0,,,,31576231576
+2,Ireland,9,L Maritz,F Overdijk,GH Lewis,,0,0,0,,,,31576231576
+2,Ireland,10,GH Lewis,HDJ Siegers,L Maritz,,0,4,4,,,,31576231576
+2,Ireland,10,GH Lewis,HDJ Siegers,L Maritz,legbyes,1,1,0,,,,31576231576
+2,Ireland,10,L Maritz,HDJ Siegers,GH Lewis,,0,4,4,,,,31576231576
+2,Ireland,10,L Maritz,HDJ Siegers,GH Lewis,,0,4,4,,,,31576231576
+2,Ireland,10,L Maritz,HDJ Siegers,GH Lewis,,0,0,0,,,,31576231576
+2,Ireland,10,L Maritz,HDJ Siegers,GH Lewis,legbyes,2,2,0,,,,31576231576
+2,Ireland,11,GH Lewis,F Overdijk,L Maritz,,0,4,4,,,,31576231576
+2,Ireland,11,GH Lewis,F Overdijk,L Maritz,,0,0,0,,,,31576231576
+2,Ireland,11,GH Lewis,F Overdijk,L Maritz,,0,4,4,,,,31576231576

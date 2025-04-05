@@ -1,0 +1,121 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,West Indies,0,DJS Dottin,S Ismail,AM Samaroo,,0,4,4,,,,314323143
+1,West Indies,0,DJS Dottin,S Ismail,AM Samaroo,,0,4,4,,,,314323143
+1,West Indies,0,DJS Dottin,S Ismail,AM Samaroo,,0,1,1,,,,314323143
+1,West Indies,0,AM Samaroo,S Ismail,DJS Dottin,,0,4,4,,,,314323143
+1,West Indies,0,AM Samaroo,S Ismail,DJS Dottin,,0,1,1,,,,314323143
+1,West Indies,0,DJS Dottin,S Ismail,AM Samaroo,,0,6,6,,,,314323143
+1,West Indies,1,AM Samaroo,D van Niekerk,DJS Dottin,,0,0,0,,,,314323143
+1,West Indies,1,AM Samaroo,D van Niekerk,DJS Dottin,,0,0,0,,,,314323143
+1,West Indies,1,AM Samaroo,D van Niekerk,DJS Dottin,,0,1,1,,,,314323143
+1,West Indies,1,DJS Dottin,D van Niekerk,AM Samaroo,,0,4,4,,,,314323143
+1,West Indies,1,DJS Dottin,D van Niekerk,AM Samaroo,,0,4,4,,,,314323143
+1,West Indies,1,DJS Dottin,D van Niekerk,AM Samaroo,,0,0,0,,,,314323143
+1,West Indies,2,AM Samaroo,APC Kilowan,DJS Dottin,,0,0,0,caught,AM Samaroo,MM Letsoalo,314323143
+1,West Indies,2,B Cooper,APC Kilowan,DJS Dottin,,0,0,0,,,,314323143
+1,West Indies,2,B Cooper,APC Kilowan,DJS Dottin,,0,1,1,,,,314323143
+1,West Indies,2,DJS Dottin,APC Kilowan,B Cooper,,0,0,0,,,,314323143
+1,West Indies,2,DJS Dottin,APC Kilowan,B Cooper,,0,4,4,,,,314323143
+1,West Indies,2,DJS Dottin,APC Kilowan,B Cooper,,0,0,0,,,,314323143
+1,West Indies,3,B Cooper,C van der Westhuizen,DJS Dottin,,0,2,2,,,,314323143
+1,West Indies,3,B Cooper,C van der Westhuizen,DJS Dottin,,0,4,4,,,,314323143
+1,West Indies,3,B Cooper,C van der Westhuizen,DJS Dottin,,0,0,0,,,,314323143
+1,West Indies,3,B Cooper,C van der Westhuizen,DJS Dottin,,0,0,0,bowled,B Cooper,,314323143
+1,West Indies,3,SACA King,C van der Westhuizen,DJS Dottin,,0,0,0,,,,314323143
+1,West Indies,3,SACA King,C van der Westhuizen,DJS Dottin,,0,0,0,,,,314323143
+1,West Indies,4,DJS Dottin,APC Kilowan,SACA King,,0,0,0,,,,314323143
+1,West Indies,4,DJS Dottin,APC Kilowan,SACA King,,0,0,0,,,,314323143
+1,West Indies,4,DJS Dottin,APC Kilowan,SACA King,,0,2,2,,,,314323143
+1,West Indies,4,DJS Dottin,APC Kilowan,SACA King,,0,4,4,,,,314323143
+1,West Indies,4,DJS Dottin,APC Kilowan,SACA King,,0,1,1,,,,314323143
+1,West Indies,4,SACA King,APC Kilowan,DJS Dottin,,0,0,0,lbw,SACA King,,314323143
+1,West Indies,5,DJS Dottin,C van der Westhuizen,SA Campbelle,,0,0,0,,,,314323143
+1,West Indies,5,DJS Dottin,C van der Westhuizen,SA Campbelle,,0,2,2,,,,314323143
+1,West Indies,5,DJS Dottin,C van der Westhuizen,SA Campbelle,,0,1,1,,,,314323143
+1,West Indies,5,SA Campbelle,C van der Westhuizen,DJS Dottin,,0,2,2,,,,314323143
+1,West Indies,5,SA Campbelle,C van der Westhuizen,DJS Dottin,,0,0,0,,,,314323143
+1,West Indies,5,SA Campbelle,C van der Westhuizen,DJS Dottin,,0,0,0,run out,SA Campbelle,C van der Westhuizen,314323143
+1,West Indies,6,MR Aguilleira,APC Kilowan,DJS Dottin,,0,0,0,,,,314323143
+1,West Indies,6,MR Aguilleira,APC Kilowan,DJS Dottin,,0,0,0,,,,314323143
+1,West Indies,6,MR Aguilleira,APC Kilowan,DJS Dottin,,0,4,4,,,,314323143
+1,West Indies,6,MR Aguilleira,APC Kilowan,DJS Dottin,,0,0,0,,,,314323143
+1,West Indies,6,MR Aguilleira,APC Kilowan,DJS Dottin,,0,1,1,,,,314323143
+1,West Indies,6,DJS Dottin,APC Kilowan,MR Aguilleira,wides,1,1,0,,,,314323143
+1,West Indies,6,DJS Dottin,APC Kilowan,MR Aguilleira,,0,2,2,,,,314323143
+1,West Indies,7,MR Aguilleira,C van der Westhuizen,DJS Dottin,wides,1,1,0,,,,314323143
+1,West Indies,7,MR Aguilleira,C van der Westhuizen,DJS Dottin,,0,0,0,,,,314323143
+1,West Indies,7,MR Aguilleira,C van der Westhuizen,DJS Dottin,,0,0,0,,,,314323143
+1,West Indies,7,MR Aguilleira,C van der Westhuizen,DJS Dottin,,0,0,0,,,,314323143
+1,West Indies,7,MR Aguilleira,C van der Westhuizen,DJS Dottin,,0,0,0,,,,314323143
+1,West Indies,7,MR Aguilleira,C van der Westhuizen,DJS Dottin,,0,0,0,,,,314323143
+1,West Indies,7,MR Aguilleira,C van der Westhuizen,DJS Dottin,,0,0,0,,,,314323143
+1,West Indies,8,DJS Dottin,MM Letsoalo,MR Aguilleira,,0,0,0,,,,314323143
+1,West Indies,8,DJS Dottin,MM Letsoalo,MR Aguilleira,,0,0,0,,,,314323143
+1,West Indies,8,DJS Dottin,MM Letsoalo,MR Aguilleira,,0,1,1,,,,314323143
+1,West Indies,8,MR Aguilleira,MM Letsoalo,DJS Dottin,,0,0,0,caught,MR Aguilleira,T Chetty,314323143
+1,West Indies,8,CN Nation,MM Letsoalo,DJS Dottin,,0,0,0,,,,314323143
+1,West Indies,8,CN Nation,MM Letsoalo,DJS Dottin,,0,1,1,,,,314323143
+1,West Indies,9,CN Nation,C van der Westhuizen,DJS Dottin,,0,0,0,,,,314323143
+1,West Indies,9,CN Nation,C van der Westhuizen,DJS Dottin,,0,0,0,,,,314323143
+1,West Indies,9,CN Nation,C van der Westhuizen,DJS Dottin,,0,0,0,,,,314323143
+1,West Indies,9,CN Nation,C van der Westhuizen,DJS Dottin,,0,0,0,,,,314323143
+1,West Indies,9,CN Nation,C van der Westhuizen,DJS Dottin,,0,0,0,,,,314323143
+1,West Indies,9,CN Nation,C van der Westhuizen,DJS Dottin,,0,0,0,,,,314323143
+1,West Indies,10,DJS Dottin,MM Letsoalo,CN Nation,,0,0,0,,,,314323143
+1,West Indies,10,DJS Dottin,MM Letsoalo,CN Nation,,0,1,1,,,,314323143
+1,West Indies,10,CN Nation,MM Letsoalo,DJS Dottin,,0,0,0,,,,314323143
+1,West Indies,10,CN Nation,MM Letsoalo,DJS Dottin,,0,0,0,,,,314323143
+1,West Indies,10,CN Nation,MM Letsoalo,DJS Dottin,,0,0,0,,,,314323143
+1,West Indies,10,CN Nation,MM Letsoalo,DJS Dottin,,0,2,2,,,,314323143
+1,West Indies,11,DJS Dottin,AS Taai,CN Nation,,0,0,0,,,,314323143
+1,West Indies,11,DJS Dottin,AS Taai,CN Nation,,0,0,0,,,,314323143
+1,West Indies,11,DJS Dottin,AS Taai,CN Nation,,0,0,0,,,,314323143
+1,West Indies,11,DJS Dottin,AS Taai,CN Nation,,0,0,0,,,,314323143
+1,West Indies,11,DJS Dottin,AS Taai,CN Nation,,0,2,2,,,,314323143
+1,West Indies,11,DJS Dottin,AS Taai,CN Nation,,0,6,6,,,,314323143
+1,West Indies,12,CN Nation,MM Letsoalo,DJS Dottin,,0,0,0,,,,314323143
+1,West Indies,12,CN Nation,MM Letsoalo,DJS Dottin,,0,2,2,,,,314323143
+1,West Indies,12,CN Nation,MM Letsoalo,DJS Dottin,,0,0,0,,,,314323143
+1,West Indies,12,CN Nation,MM Letsoalo,DJS Dottin,,0,0,0,caught,CN Nation,APC Kilowan,314323143
+1,West Indies,12,DJS Dottin,MM Letsoalo,SF Daley,,0,2,2,,,,314323143
+1,West Indies,12,DJS Dottin,MM Letsoalo,SF Daley,,0,1,1,,,,314323143
+1,West Indies,13,DJS Dottin,AS Taai,SF Daley,,0,0,0,,,,314323143
+1,West Indies,13,DJS Dottin,AS Taai,SF Daley,,0,0,0,,,,314323143
+1,West Indies,13,DJS Dottin,AS Taai,SF Daley,,0,0,0,,,,314323143
+1,West Indies,13,DJS Dottin,AS Taai,SF Daley,,0,0,0,caught,DJS Dottin,T Chetty,314323143
+1,West Indies,13,TD Smartt,AS Taai,SF Daley,,0,0,0,,,,314323143
+1,West Indies,13,TD Smartt,AS Taai,SF Daley,,0,0,0,,,,314323143
+1,West Indies,14,SF Daley,MM Letsoalo,TD Smartt,,0,1,1,,,,314323143
+1,West Indies,14,TD Smartt,MM Letsoalo,SF Daley,,0,3,3,,,,314323143
+1,West Indies,14,SF Daley,MM Letsoalo,TD Smartt,,0,0,0,,,,314323143
+1,West Indies,14,SF Daley,MM Letsoalo,TD Smartt,,0,2,2,,,,314323143
+1,West Indies,14,SF Daley,MM Letsoalo,TD Smartt,,0,0,0,,,,314323143
+1,West Indies,14,SF Daley,MM Letsoalo,TD Smartt,legbyes,1,1,0,,,,314323143
+1,West Indies,15,SF Daley,AS Taai,TD Smartt,,0,0,0,run out,TD Smartt,T Chetty,314323143
+1,West Indies,15,A Mohammed,AS Taai,SF Daley,,0,0,0,,,,314323143
+1,West Indies,15,A Mohammed,AS Taai,SF Daley,,0,0,0,,,,314323143
+1,West Indies,15,A Mohammed,AS Taai,SF Daley,,0,0,0,,,,314323143
+1,West Indies,15,A Mohammed,AS Taai,SF Daley,,0,0,0,,,,314323143
+1,West Indies,15,A Mohammed,AS Taai,SF Daley,,0,0,0,,,,314323143
+1,West Indies,16,SF Daley,D van Niekerk,A Mohammed,,0,0,0,,,,314323143
+1,West Indies,16,SF Daley,D van Niekerk,A Mohammed,,0,0,0,,,,314323143
+1,West Indies,16,SF Daley,D van Niekerk,A Mohammed,,0,1,1,,,,314323143
+1,West Indies,16,A Mohammed,D van Niekerk,SF Daley,,0,0,0,,,,314323143
+1,West Indies,16,A Mohammed,D van Niekerk,SF Daley,,0,2,2,,,,314323143
+1,West Indies,16,A Mohammed,D van Niekerk,SF Daley,,0,0,0,caught,A Mohammed,AE Smith,314323143
+1,West Indies,17,SF Daley,AS Taai,SC Selman,,0,1,1,,,,314323143
+1,West Indies,17,SC Selman,AS Taai,SF Daley,,0,0,0,,,,314323143
+1,West Indies,17,SC Selman,AS Taai,SF Daley,,0,0,0,,,,314323143
+1,West Indies,17,SC Selman,AS Taai,SF Daley,,0,0,0,,,,314323143
+1,West Indies,17,SC Selman,AS Taai,SF Daley,,0,0,0,,,,314323143
+1,West Indies,17,SC Selman,AS Taai,SF Daley,,0,0,0,,,,314323143
+1,West Indies,18,SF Daley,D van Niekerk,SC Selman,,0,1,1,,,,314323143
+1,West Indies,18,SC Selman,D van Niekerk,SF Daley,,0,1,1,,,,314323143
+1,West Indies,18,SF Daley,D van Niekerk,SC Selman,,0,2,2,,,,314323143
+1,West Indies,18,SF Daley,D van Niekerk,SC Selman,,0,0,0,,,,314323143
+1,West Indies,18,SF Daley,D van Niekerk,SC Selman,wides,1,1,0,,,,314323143
+1,West Indies,18,SF Daley,D van Niekerk,SC Selman,noballs,1,1,0,,,,314323143
+1,West Indies,18,SF Daley,D van Niekerk,SC Selman,,0,1,1,,,,314323143
+1,West Indies,18,SC Selman,D van Niekerk,SF Daley,,0,0,0,,,,314323143
+1,West Indies,19,SF Daley,APC Kilowan,SC Selman,,0,0,0,,,,314323143
+1,West Indies,19,SF Daley,APC Kilowan,SC Selman,,0,0,0,bowled,SF Daley,,314323143

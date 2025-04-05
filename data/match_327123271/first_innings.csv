@@ -1,0 +1,126 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Netherlands,0,SJ Myburgh,Dawlat Zadran,MR Swart,,0,0,0,,,,327123271
+1,Netherlands,0,SJ Myburgh,Dawlat Zadran,MR Swart,,0,0,0,,,,327123271
+1,Netherlands,0,SJ Myburgh,Dawlat Zadran,MR Swart,wides,1,1,0,,,,327123271
+1,Netherlands,0,SJ Myburgh,Dawlat Zadran,MR Swart,,0,1,1,,,,327123271
+1,Netherlands,0,MR Swart,Dawlat Zadran,SJ Myburgh,,0,0,0,,,,327123271
+1,Netherlands,0,MR Swart,Dawlat Zadran,SJ Myburgh,,0,0,0,,,,327123271
+1,Netherlands,0,MR Swart,Dawlat Zadran,SJ Myburgh,,0,1,1,,,,327123271
+1,Netherlands,1,MR Swart,Mirwais Ashraf,SJ Myburgh,,0,4,4,,,,327123271
+1,Netherlands,1,MR Swart,Mirwais Ashraf,SJ Myburgh,,0,0,0,,,,327123271
+1,Netherlands,1,MR Swart,Mirwais Ashraf,SJ Myburgh,,0,1,1,,,,327123271
+1,Netherlands,1,SJ Myburgh,Mirwais Ashraf,MR Swart,,0,0,0,,,,327123271
+1,Netherlands,1,SJ Myburgh,Mirwais Ashraf,MR Swart,,0,0,0,,,,327123271
+1,Netherlands,1,SJ Myburgh,Mirwais Ashraf,MR Swart,,0,1,1,,,,327123271
+1,Netherlands,2,SJ Myburgh,Dawlat Zadran,MR Swart,,0,0,0,,,,327123271
+1,Netherlands,2,SJ Myburgh,Dawlat Zadran,MR Swart,,0,4,4,,,,327123271
+1,Netherlands,2,SJ Myburgh,Dawlat Zadran,MR Swart,,0,1,1,,,,327123271
+1,Netherlands,2,MR Swart,Dawlat Zadran,SJ Myburgh,,0,1,1,,,,327123271
+1,Netherlands,2,SJ Myburgh,Dawlat Zadran,MR Swart,wides,1,1,0,,,,327123271
+1,Netherlands,2,SJ Myburgh,Dawlat Zadran,MR Swart,,0,1,1,,,,327123271
+1,Netherlands,2,MR Swart,Dawlat Zadran,SJ Myburgh,,0,4,4,,,,327123271
+1,Netherlands,3,SJ Myburgh,Mirwais Ashraf,MR Swart,,0,4,4,,,,327123271
+1,Netherlands,3,SJ Myburgh,Mirwais Ashraf,MR Swart,,0,1,1,,,,327123271
+1,Netherlands,3,MR Swart,Mirwais Ashraf,SJ Myburgh,,0,1,1,,,,327123271
+1,Netherlands,3,SJ Myburgh,Mirwais Ashraf,MR Swart,,0,1,1,,,,327123271
+1,Netherlands,3,MR Swart,Mirwais Ashraf,SJ Myburgh,,0,3,3,,,,327123271
+1,Netherlands,3,SJ Myburgh,Mirwais Ashraf,MR Swart,,0,4,4,,,,327123271
+1,Netherlands,4,MR Swart,Karim Sadiq,SJ Myburgh,,0,1,1,,,,327123271
+1,Netherlands,4,SJ Myburgh,Karim Sadiq,MR Swart,legbyes,1,1,0,,,,327123271
+1,Netherlands,4,MR Swart,Karim Sadiq,SJ Myburgh,,0,0,0,,,,327123271
+1,Netherlands,4,MR Swart,Karim Sadiq,SJ Myburgh,,0,0,0,,,,327123271
+1,Netherlands,4,MR Swart,Karim Sadiq,SJ Myburgh,,0,2,2,,,,327123271
+1,Netherlands,4,MR Swart,Karim Sadiq,SJ Myburgh,,0,4,4,,,,327123271
+1,Netherlands,5,SJ Myburgh,Samiullah Shenwari,MR Swart,,0,1,1,,,,327123271
+1,Netherlands,5,MR Swart,Samiullah Shenwari,SJ Myburgh,,0,0,0,lbw,MR Swart,,327123271
+1,Netherlands,5,TLW Cooper,Samiullah Shenwari,SJ Myburgh,,0,0,0,,,,327123271
+1,Netherlands,5,TLW Cooper,Samiullah Shenwari,SJ Myburgh,,0,0,0,,,,327123271
+1,Netherlands,5,TLW Cooper,Samiullah Shenwari,SJ Myburgh,,0,0,0,,,,327123271
+1,Netherlands,5,TLW Cooper,Samiullah Shenwari,SJ Myburgh,wides,5,5,0,,,,327123271
+1,Netherlands,5,TLW Cooper,Samiullah Shenwari,SJ Myburgh,,0,2,2,,,,327123271
+1,Netherlands,6,SJ Myburgh,Karim Sadiq,TLW Cooper,,0,0,0,bowled,SJ Myburgh,,327123271
+1,Netherlands,6,AN Kervezee,Karim Sadiq,TLW Cooper,,0,1,1,,,,327123271
+1,Netherlands,6,TLW Cooper,Karim Sadiq,AN Kervezee,,0,1,1,,,,327123271
+1,Netherlands,6,AN Kervezee,Karim Sadiq,TLW Cooper,,0,0,0,,,,327123271
+1,Netherlands,6,AN Kervezee,Karim Sadiq,TLW Cooper,,0,0,0,,,,327123271
+1,Netherlands,6,AN Kervezee,Karim Sadiq,TLW Cooper,,0,1,1,,,,327123271
+1,Netherlands,7,AN Kervezee,Samiullah Shenwari,TLW Cooper,,0,2,2,,,,327123271
+1,Netherlands,7,AN Kervezee,Samiullah Shenwari,TLW Cooper,,0,1,1,,,,327123271
+1,Netherlands,7,TLW Cooper,Samiullah Shenwari,AN Kervezee,,0,1,1,,,,327123271
+1,Netherlands,7,AN Kervezee,Samiullah Shenwari,TLW Cooper,,0,1,1,,,,327123271
+1,Netherlands,7,TLW Cooper,Samiullah Shenwari,AN Kervezee,,0,0,0,,,,327123271
+1,Netherlands,7,TLW Cooper,Samiullah Shenwari,AN Kervezee,,0,1,1,,,,327123271
+1,Netherlands,8,TLW Cooper,Karim Sadiq,AN Kervezee,,0,2,2,,,,327123271
+1,Netherlands,8,TLW Cooper,Karim Sadiq,AN Kervezee,,0,0,0,,,,327123271
+1,Netherlands,8,TLW Cooper,Karim Sadiq,AN Kervezee,,0,0,0,run out,TLW Cooper,Samiullah Shenwari,327123271
+1,Netherlands,8,AN Kervezee,Karim Sadiq,W Barresi,,0,0,0,,,,327123271
+1,Netherlands,8,AN Kervezee,Karim Sadiq,W Barresi,,0,1,1,,,,327123271
+1,Netherlands,8,W Barresi,Karim Sadiq,AN Kervezee,,0,0,0,,,,327123271
+1,Netherlands,9,AN Kervezee,Samiullah Shenwari,W Barresi,,0,1,1,,,,327123271
+1,Netherlands,9,W Barresi,Samiullah Shenwari,AN Kervezee,,0,1,1,,,,327123271
+1,Netherlands,9,AN Kervezee,Samiullah Shenwari,W Barresi,,0,1,1,,,,327123271
+1,Netherlands,9,W Barresi,Samiullah Shenwari,AN Kervezee,,0,1,1,,,,327123271
+1,Netherlands,9,AN Kervezee,Samiullah Shenwari,W Barresi,,0,0,0,,,,327123271
+1,Netherlands,9,AN Kervezee,Samiullah Shenwari,W Barresi,,0,0,0,,,,327123271
+1,Netherlands,10,W Barresi,Karim Sadiq,AN Kervezee,,0,1,1,,,,327123271
+1,Netherlands,10,AN Kervezee,Karim Sadiq,W Barresi,,0,2,2,,,,327123271
+1,Netherlands,10,AN Kervezee,Karim Sadiq,W Barresi,,0,0,0,,,,327123271
+1,Netherlands,10,AN Kervezee,Karim Sadiq,W Barresi,,0,2,2,,,,327123271
+1,Netherlands,10,AN Kervezee,Karim Sadiq,W Barresi,,0,0,0,,,,327123271
+1,Netherlands,10,AN Kervezee,Karim Sadiq,W Barresi,,0,1,1,,,,327123271
+1,Netherlands,11,AN Kervezee,Samiullah Shenwari,W Barresi,,0,1,1,,,,327123271
+1,Netherlands,11,W Barresi,Samiullah Shenwari,AN Kervezee,,0,0,0,,,,327123271
+1,Netherlands,11,W Barresi,Samiullah Shenwari,AN Kervezee,,0,0,0,,,,327123271
+1,Netherlands,11,W Barresi,Samiullah Shenwari,AN Kervezee,,0,4,4,,,,327123271
+1,Netherlands,11,W Barresi,Samiullah Shenwari,AN Kervezee,,0,1,1,,,,327123271
+1,Netherlands,11,AN Kervezee,Samiullah Shenwari,W Barresi,,0,1,1,,,,327123271
+1,Netherlands,12,AN Kervezee,Mohammad Nabi,W Barresi,,0,6,6,,,,327123271
+1,Netherlands,12,AN Kervezee,Mohammad Nabi,W Barresi,,0,1,1,,,,327123271
+1,Netherlands,12,W Barresi,Mohammad Nabi,AN Kervezee,,0,2,2,,,,327123271
+1,Netherlands,12,W Barresi,Mohammad Nabi,AN Kervezee,,0,1,1,,,,327123271
+1,Netherlands,12,AN Kervezee,Mohammad Nabi,W Barresi,,0,0,0,,,,327123271
+1,Netherlands,12,AN Kervezee,Mohammad Nabi,W Barresi,,0,0,0,,,,327123271
+1,Netherlands,13,W Barresi,Izatullah Dawlatzai,AN Kervezee,,0,2,2,,,,327123271
+1,Netherlands,13,W Barresi,Izatullah Dawlatzai,AN Kervezee,,0,1,1,,,,327123271
+1,Netherlands,13,AN Kervezee,Izatullah Dawlatzai,W Barresi,,0,1,1,,,,327123271
+1,Netherlands,13,W Barresi,Izatullah Dawlatzai,AN Kervezee,,0,0,0,bowled,W Barresi,,327123271
+1,Netherlands,13,PW Borren,Izatullah Dawlatzai,AN Kervezee,,0,0,0,,,,327123271
+1,Netherlands,13,PW Borren,Izatullah Dawlatzai,AN Kervezee,,0,1,1,,,,327123271
+1,Netherlands,14,PW Borren,Mohammad Nabi,AN Kervezee,,0,0,0,,,,327123271
+1,Netherlands,14,PW Borren,Mohammad Nabi,AN Kervezee,,0,0,0,,,,327123271
+1,Netherlands,14,PW Borren,Mohammad Nabi,AN Kervezee,,0,2,2,,,,327123271
+1,Netherlands,14,PW Borren,Mohammad Nabi,AN Kervezee,,0,1,1,,,,327123271
+1,Netherlands,14,AN Kervezee,Mohammad Nabi,PW Borren,,0,1,1,,,,327123271
+1,Netherlands,14,PW Borren,Mohammad Nabi,AN Kervezee,,0,1,1,,,,327123271
+1,Netherlands,15,PW Borren,Izatullah Dawlatzai,AN Kervezee,,0,0,0,caught,PW Borren,Mohammad Shahzad,327123271
+1,Netherlands,15,Mudassar Bukhari,Izatullah Dawlatzai,AN Kervezee,,0,0,0,,,,327123271
+1,Netherlands,15,Mudassar Bukhari,Izatullah Dawlatzai,AN Kervezee,,0,1,1,,,,327123271
+1,Netherlands,15,AN Kervezee,Izatullah Dawlatzai,Mudassar Bukhari,,0,1,1,,,,327123271
+1,Netherlands,15,Mudassar Bukhari,Izatullah Dawlatzai,AN Kervezee,,0,0,0,,,,327123271
+1,Netherlands,15,Mudassar Bukhari,Izatullah Dawlatzai,AN Kervezee,,0,4,4,,,,327123271
+1,Netherlands,16,AN Kervezee,Dawlat Zadran,Mudassar Bukhari,,0,2,2,,,,327123271
+1,Netherlands,16,AN Kervezee,Dawlat Zadran,Mudassar Bukhari,,0,1,1,,,,327123271
+1,Netherlands,16,Mudassar Bukhari,Dawlat Zadran,AN Kervezee,wides,1,1,0,,,,327123271
+1,Netherlands,16,Mudassar Bukhari,Dawlat Zadran,AN Kervezee,,0,1,1,,,,327123271
+1,Netherlands,16,AN Kervezee,Dawlat Zadran,Mudassar Bukhari,,0,0,0,,,,327123271
+1,Netherlands,16,AN Kervezee,Dawlat Zadran,Mudassar Bukhari,,0,1,1,,,,327123271
+1,Netherlands,16,Mudassar Bukhari,Dawlat Zadran,AN Kervezee,,0,4,4,,,,327123271
+1,Netherlands,17,AN Kervezee,Izatullah Dawlatzai,Mudassar Bukhari,,0,1,1,,,,327123271
+1,Netherlands,17,Mudassar Bukhari,Izatullah Dawlatzai,AN Kervezee,,0,0,0,,,,327123271
+1,Netherlands,17,Mudassar Bukhari,Izatullah Dawlatzai,AN Kervezee,,0,0,0,caught,Mudassar Bukhari,Nawroz Mangal,327123271
+1,Netherlands,17,AN Kervezee,Izatullah Dawlatzai,TN de Grooth,,0,1,1,,,,327123271
+1,Netherlands,17,TN de Grooth,Izatullah Dawlatzai,AN Kervezee,,0,1,1,,,,327123271
+1,Netherlands,17,AN Kervezee,Izatullah Dawlatzai,TN de Grooth,,0,1,1,,,,327123271
+1,Netherlands,18,AN Kervezee,Dawlat Zadran,TN de Grooth,,0,1,1,,,,327123271
+1,Netherlands,18,TN de Grooth,Dawlat Zadran,AN Kervezee,,0,1,1,,,,327123271
+1,Netherlands,18,AN Kervezee,Dawlat Zadran,TN de Grooth,wides,1,1,0,,,,327123271
+1,Netherlands,18,AN Kervezee,Dawlat Zadran,TN de Grooth,,0,2,2,,,,327123271
+1,Netherlands,18,AN Kervezee,Dawlat Zadran,TN de Grooth,,0,3,3,,,,327123271
+1,Netherlands,18,TN de Grooth,Dawlat Zadran,AN Kervezee,,0,1,1,,,,327123271
+1,Netherlands,18,AN Kervezee,Dawlat Zadran,TN de Grooth,,0,1,1,,,,327123271
+1,Netherlands,19,AN Kervezee,Izatullah Dawlatzai,TN de Grooth,,0,1,1,,,,327123271
+1,Netherlands,19,TN de Grooth,Izatullah Dawlatzai,AN Kervezee,legbyes,1,1,0,,,,327123271
+1,Netherlands,19,AN Kervezee,Izatullah Dawlatzai,TN de Grooth,,0,6,6,,,,327123271
+1,Netherlands,19,AN Kervezee,Izatullah Dawlatzai,TN de Grooth,,0,6,6,,,,327123271
+1,Netherlands,19,AN Kervezee,Izatullah Dawlatzai,TN de Grooth,,0,4,4,,,,327123271
+1,Netherlands,19,AN Kervezee,Izatullah Dawlatzai,TN de Grooth,,0,1,1,,,,327123271

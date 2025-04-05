@@ -1,0 +1,103 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Australia,0,DA Warner,S Badree,SR Watson,,0,0,0,,,,324023240
+2,Australia,0,DA Warner,S Badree,SR Watson,,0,1,1,,,,324023240
+2,Australia,0,SR Watson,S Badree,DA Warner,,0,0,0,,,,324023240
+2,Australia,0,SR Watson,S Badree,DA Warner,,0,0,0,,,,324023240
+2,Australia,0,SR Watson,S Badree,DA Warner,,0,1,1,,,,324023240
+2,Australia,0,DA Warner,S Badree,SR Watson,,0,0,0,bowled,DA Warner,,324023240
+2,Australia,1,SR Watson,MN Samuels,MEK Hussey,,0,1,1,,,,324023240
+2,Australia,1,MEK Hussey,MN Samuels,SR Watson,wides,1,1,0,,,,324023240
+2,Australia,1,MEK Hussey,MN Samuels,SR Watson,,0,0,0,,,,324023240
+2,Australia,1,MEK Hussey,MN Samuels,SR Watson,,0,4,4,,,,324023240
+2,Australia,1,MEK Hussey,MN Samuels,SR Watson,,0,0,0,,,,324023240
+2,Australia,1,MEK Hussey,MN Samuels,SR Watson,,0,0,0,,,,324023240
+2,Australia,1,MEK Hussey,MN Samuels,SR Watson,,0,3,3,,,,324023240
+2,Australia,2,MEK Hussey,S Badree,SR Watson,,0,4,4,,,,324023240
+2,Australia,2,MEK Hussey,S Badree,SR Watson,,0,4,4,,,,324023240
+2,Australia,2,MEK Hussey,S Badree,SR Watson,,0,0,0,,,,324023240
+2,Australia,2,MEK Hussey,S Badree,SR Watson,,0,0,0,,,,324023240
+2,Australia,2,MEK Hussey,S Badree,SR Watson,,0,2,2,,,,324023240
+2,Australia,2,MEK Hussey,S Badree,SR Watson,,0,1,1,,,,324023240
+2,Australia,3,MEK Hussey,MN Samuels,SR Watson,,0,0,0,caught and bowled,MEK Hussey,,324023240
+2,Australia,3,SR Watson,MN Samuels,CL White,,0,1,1,,,,324023240
+2,Australia,3,CL White,MN Samuels,SR Watson,,0,0,0,,,,324023240
+2,Australia,3,CL White,MN Samuels,SR Watson,,0,1,1,,,,324023240
+2,Australia,3,SR Watson,MN Samuels,CL White,,0,0,0,,,,324023240
+2,Australia,3,SR Watson,MN Samuels,CL White,,0,4,4,,,,324023240
+2,Australia,4,CL White,S Badree,SR Watson,,0,1,1,,,,324023240
+2,Australia,4,SR Watson,S Badree,CL White,,0,0,0,,,,324023240
+2,Australia,4,SR Watson,S Badree,CL White,,0,0,0,bowled,SR Watson,,324023240
+2,Australia,4,GJ Bailey,S Badree,CL White,,0,0,0,,,,324023240
+2,Australia,4,GJ Bailey,S Badree,CL White,,0,0,0,,,,324023240
+2,Australia,4,GJ Bailey,S Badree,CL White,,0,2,2,,,,324023240
+2,Australia,5,CL White,MN Samuels,GJ Bailey,,0,2,2,,,,324023240
+2,Australia,5,CL White,MN Samuels,GJ Bailey,,0,1,1,,,,324023240
+2,Australia,5,GJ Bailey,MN Samuels,CL White,,0,0,0,,,,324023240
+2,Australia,5,GJ Bailey,MN Samuels,CL White,,0,0,0,,,,324023240
+2,Australia,5,GJ Bailey,MN Samuels,CL White,,0,4,4,,,,324023240
+2,Australia,5,GJ Bailey,MN Samuels,CL White,,0,4,4,,,,324023240
+2,Australia,6,CL White,R Rampaul,GJ Bailey,,0,0,0,caught,CL White,D Ramdin,324023240
+2,Australia,6,DJ Hussey,R Rampaul,GJ Bailey,,0,0,0,,,,324023240
+2,Australia,6,DJ Hussey,R Rampaul,GJ Bailey,,0,0,0,caught and bowled,DJ Hussey,,324023240
+2,Australia,6,MS Wade,R Rampaul,GJ Bailey,,0,0,0,,,,324023240
+2,Australia,6,MS Wade,R Rampaul,GJ Bailey,,0,0,0,,,,324023240
+2,Australia,6,MS Wade,R Rampaul,GJ Bailey,,0,1,1,,,,324023240
+2,Australia,7,MS Wade,SP Narine,GJ Bailey,,0,0,0,,,,324023240
+2,Australia,7,MS Wade,SP Narine,GJ Bailey,,0,0,0,caught,MS Wade,S Badree,324023240
+2,Australia,7,GJ Bailey,SP Narine,PJ Cummins,,0,4,4,,,,324023240
+2,Australia,7,GJ Bailey,SP Narine,PJ Cummins,,0,0,0,,,,324023240
+2,Australia,7,GJ Bailey,SP Narine,PJ Cummins,,0,0,0,,,,324023240
+2,Australia,7,GJ Bailey,SP Narine,PJ Cummins,,0,2,2,,,,324023240
+2,Australia,8,PJ Cummins,R Rampaul,GJ Bailey,,0,1,1,,,,324023240
+2,Australia,8,GJ Bailey,R Rampaul,PJ Cummins,,0,1,1,,,,324023240
+2,Australia,8,PJ Cummins,R Rampaul,GJ Bailey,,0,1,1,,,,324023240
+2,Australia,8,GJ Bailey,R Rampaul,PJ Cummins,,0,1,1,,,,324023240
+2,Australia,8,PJ Cummins,R Rampaul,GJ Bailey,,0,0,0,,,,324023240
+2,Australia,8,PJ Cummins,R Rampaul,GJ Bailey,,0,0,0,,,,324023240
+2,Australia,9,GJ Bailey,S Badree,PJ Cummins,,0,1,1,,,,324023240
+2,Australia,9,PJ Cummins,S Badree,GJ Bailey,,0,0,0,,,,324023240
+2,Australia,9,PJ Cummins,S Badree,GJ Bailey,,0,1,1,,,,324023240
+2,Australia,9,GJ Bailey,S Badree,PJ Cummins,,0,6,6,,,,324023240
+2,Australia,9,GJ Bailey,S Badree,PJ Cummins,,0,2,2,,,,324023240
+2,Australia,9,GJ Bailey,S Badree,PJ Cummins,,0,1,1,,,,324023240
+2,Australia,10,GJ Bailey,AD Russell,PJ Cummins,,0,6,6,,,,324023240
+2,Australia,10,GJ Bailey,AD Russell,PJ Cummins,,0,4,4,,,,324023240
+2,Australia,10,GJ Bailey,AD Russell,PJ Cummins,,0,4,4,,,,324023240
+2,Australia,10,GJ Bailey,AD Russell,PJ Cummins,,0,6,6,,,,324023240
+2,Australia,10,GJ Bailey,AD Russell,PJ Cummins,,0,1,1,,,,324023240
+2,Australia,10,PJ Cummins,AD Russell,GJ Bailey,,0,4,4,,,,324023240
+2,Australia,11,GJ Bailey,SP Narine,PJ Cummins,,0,1,1,,,,324023240
+2,Australia,11,PJ Cummins,SP Narine,GJ Bailey,,0,1,1,,,,324023240
+2,Australia,11,GJ Bailey,SP Narine,PJ Cummins,,0,1,1,,,,324023240
+2,Australia,11,PJ Cummins,SP Narine,GJ Bailey,legbyes,2,2,0,,,,324023240
+2,Australia,11,PJ Cummins,SP Narine,GJ Bailey,,0,2,2,,,,324023240
+2,Australia,11,PJ Cummins,SP Narine,GJ Bailey,,0,0,0,,,,324023240
+2,Australia,12,GJ Bailey,DJG Sammy,PJ Cummins,,0,1,1,,,,324023240
+2,Australia,12,PJ Cummins,DJG Sammy,GJ Bailey,,0,1,1,,,,324023240
+2,Australia,12,GJ Bailey,DJG Sammy,PJ Cummins,,0,6,6,,,,324023240
+2,Australia,12,GJ Bailey,DJG Sammy,PJ Cummins,,0,1,1,,,,324023240
+2,Australia,12,PJ Cummins,DJG Sammy,GJ Bailey,,0,0,0,,,,324023240
+2,Australia,12,PJ Cummins,DJG Sammy,GJ Bailey,,0,2,2,,,,324023240
+2,Australia,13,GJ Bailey,KA Pollard,PJ Cummins,,0,4,4,,,,324023240
+2,Australia,13,GJ Bailey,KA Pollard,PJ Cummins,,0,0,0,caught,GJ Bailey,AD Russell,324023240
+2,Australia,13,PJ Cummins,KA Pollard,MA Starc,,0,0,0,caught,PJ Cummins,J Charles,324023240
+2,Australia,13,MA Starc,KA Pollard,GB Hogg,,0,0,0,,,,324023240
+2,Australia,13,MA Starc,KA Pollard,GB Hogg,,0,1,1,,,,324023240
+2,Australia,13,GB Hogg,KA Pollard,MA Starc,,0,1,1,,,,324023240
+2,Australia,14,GB Hogg,R Rampaul,MA Starc,,0,1,1,,,,324023240
+2,Australia,14,MA Starc,R Rampaul,GB Hogg,legbyes,1,1,0,,,,324023240
+2,Australia,14,GB Hogg,R Rampaul,MA Starc,,0,0,0,,,,324023240
+2,Australia,14,GB Hogg,R Rampaul,MA Starc,,0,2,2,,,,324023240
+2,Australia,14,GB Hogg,R Rampaul,MA Starc,wides,1,1,0,,,,324023240
+2,Australia,14,GB Hogg,R Rampaul,MA Starc,,0,2,2,,,,324023240
+2,Australia,14,GB Hogg,R Rampaul,MA Starc,,0,1,1,,,,324023240
+2,Australia,15,GB Hogg,SP Narine,MA Starc,,0,0,0,stumped,GB Hogg,D Ramdin,324023240
+2,Australia,15,XJ Doherty,SP Narine,MA Starc,,0,0,0,,,,324023240
+2,Australia,15,XJ Doherty,SP Narine,MA Starc,,0,0,0,,,,324023240
+2,Australia,15,XJ Doherty,SP Narine,MA Starc,,0,2,2,,,,324023240
+2,Australia,15,XJ Doherty,SP Narine,MA Starc,,0,0,0,,,,324023240
+2,Australia,15,XJ Doherty,SP Narine,MA Starc,,0,4,4,,,,324023240
+2,Australia,16,MA Starc,R Rampaul,XJ Doherty,,0,1,1,,,,324023240
+2,Australia,16,XJ Doherty,R Rampaul,MA Starc,,0,0,0,,,,324023240
+2,Australia,16,XJ Doherty,R Rampaul,MA Starc,,0,3,3,,,,324023240
+2,Australia,16,MA Starc,R Rampaul,XJ Doherty,,0,0,0,bowled,MA Starc,,324023240

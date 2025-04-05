@@ -1,0 +1,115 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,India,0,RG Sharma,KJ Abbott,S Dhawan,,0,0,0,,,,354923549
+1,India,0,RG Sharma,KJ Abbott,S Dhawan,wides,1,1,0,,,,354923549
+1,India,0,RG Sharma,KJ Abbott,S Dhawan,,0,4,4,,,,354923549
+1,India,0,RG Sharma,KJ Abbott,S Dhawan,,0,1,1,,,,354923549
+1,India,0,S Dhawan,KJ Abbott,RG Sharma,,0,0,0,,,,354923549
+1,India,0,S Dhawan,KJ Abbott,RG Sharma,,0,0,0,,,,354923549
+1,India,0,S Dhawan,KJ Abbott,RG Sharma,,0,0,0,,,,354923549
+1,India,1,RG Sharma,Imran Tahir,S Dhawan,,0,0,0,,,,354923549
+1,India,1,RG Sharma,Imran Tahir,S Dhawan,wides,1,1,0,,,,354923549
+1,India,1,RG Sharma,Imran Tahir,S Dhawan,,0,0,0,,,,354923549
+1,India,1,RG Sharma,Imran Tahir,S Dhawan,,0,1,1,,,,354923549
+1,India,1,S Dhawan,Imran Tahir,RG Sharma,,0,4,4,,,,354923549
+1,India,1,S Dhawan,Imran Tahir,RG Sharma,,0,0,0,,,,354923549
+1,India,1,S Dhawan,Imran Tahir,RG Sharma,,0,0,0,,,,354923549
+1,India,2,RG Sharma,K Rabada,S Dhawan,,0,1,1,,,,354923549
+1,India,2,S Dhawan,K Rabada,RG Sharma,,0,1,1,,,,354923549
+1,India,2,RG Sharma,K Rabada,S Dhawan,,0,0,0,,,,354923549
+1,India,2,RG Sharma,K Rabada,S Dhawan,,0,1,1,,,,354923549
+1,India,2,S Dhawan,K Rabada,RG Sharma,,0,0,0,,,,354923549
+1,India,2,S Dhawan,K Rabada,RG Sharma,,0,1,1,,,,354923549
+1,India,3,S Dhawan,CH Morris,RG Sharma,,0,1,1,,,,354923549
+1,India,3,RG Sharma,CH Morris,S Dhawan,,0,2,2,,,,354923549
+1,India,3,RG Sharma,CH Morris,S Dhawan,,0,4,4,,,,354923549
+1,India,3,RG Sharma,CH Morris,S Dhawan,,0,1,1,,,,354923549
+1,India,3,S Dhawan,CH Morris,RG Sharma,,0,4,4,,,,354923549
+1,India,3,S Dhawan,CH Morris,RG Sharma,,0,0,0,lbw,S Dhawan,,354923549
+1,India,4,RG Sharma,K Rabada,V Kohli,,0,1,1,,,,354923549
+1,India,4,V Kohli,K Rabada,RG Sharma,,0,1,1,run out,V Kohli,AB de Villiers,354923549
+1,India,4,SK Raina,K Rabada,RG Sharma,,0,1,1,,,,354923549
+1,India,4,RG Sharma,K Rabada,SK Raina,,0,1,1,,,,354923549
+1,India,4,SK Raina,K Rabada,RG Sharma,,0,0,0,,,,354923549
+1,India,4,SK Raina,K Rabada,RG Sharma,,0,0,0,,,,354923549
+1,India,5,RG Sharma,CH Morris,SK Raina,,0,0,0,,,,354923549
+1,India,5,RG Sharma,CH Morris,SK Raina,,0,1,1,,,,354923549
+1,India,5,SK Raina,CH Morris,RG Sharma,,0,0,0,,,,354923549
+1,India,5,SK Raina,CH Morris,RG Sharma,,0,1,1,,,,354923549
+1,India,5,RG Sharma,CH Morris,SK Raina,,0,0,0,,,,354923549
+1,India,5,RG Sharma,CH Morris,SK Raina,,0,1,1,,,,354923549
+1,India,6,RG Sharma,K Rabada,SK Raina,,0,1,1,,,,354923549
+1,India,6,SK Raina,K Rabada,RG Sharma,,0,1,1,,,,354923549
+1,India,6,RG Sharma,K Rabada,SK Raina,,0,1,1,,,,354923549
+1,India,6,SK Raina,K Rabada,RG Sharma,wides,1,1,0,,,,354923549
+1,India,6,SK Raina,K Rabada,RG Sharma,,0,2,2,,,,354923549
+1,India,6,SK Raina,K Rabada,RG Sharma,,0,0,0,,,,354923549
+1,India,6,SK Raina,K Rabada,RG Sharma,,0,0,0,,,,354923549
+1,India,7,RG Sharma,JA Morkel,SK Raina,,0,1,1,,,,354923549
+1,India,7,SK Raina,JA Morkel,RG Sharma,,0,1,1,,,,354923549
+1,India,7,RG Sharma,JA Morkel,SK Raina,,0,0,0,,,,354923549
+1,India,7,RG Sharma,JA Morkel,SK Raina,,0,0,0,,,,354923549
+1,India,7,RG Sharma,JA Morkel,SK Raina,,0,0,0,run out,RG Sharma,DA Miller,354923549
+1,India,7,SK Raina,JA Morkel,AT Rayudu,,0,1,1,,,,354923549
+1,India,8,SK Raina,K Rabada,AT Rayudu,,0,1,1,,,,354923549
+1,India,8,AT Rayudu,K Rabada,SK Raina,,0,0,0,,,,354923549
+1,India,8,AT Rayudu,K Rabada,SK Raina,,0,0,0,bowled,AT Rayudu,,354923549
+1,India,8,MS Dhoni,K Rabada,SK Raina,,0,0,0,,,,354923549
+1,India,8,MS Dhoni,K Rabada,SK Raina,wides,1,1,0,,,,354923549
+1,India,8,MS Dhoni,K Rabada,SK Raina,,0,0,0,,,,354923549
+1,India,8,MS Dhoni,K Rabada,SK Raina,wides,1,1,0,,,,354923549
+1,India,8,MS Dhoni,K Rabada,SK Raina,,0,1,1,,,,354923549
+1,India,9,MS Dhoni,KJ Abbott,SK Raina,,0,1,1,,,,354923549
+1,India,9,SK Raina,KJ Abbott,MS Dhoni,,0,4,4,,,,354923549
+1,India,9,SK Raina,KJ Abbott,MS Dhoni,,0,0,0,,,,354923549
+1,India,9,SK Raina,KJ Abbott,MS Dhoni,,0,4,4,,,,354923549
+1,India,9,SK Raina,KJ Abbott,MS Dhoni,,0,0,0,,,,354923549
+1,India,9,SK Raina,KJ Abbott,MS Dhoni,wides,1,1,0,,,,354923549
+1,India,9,SK Raina,KJ Abbott,MS Dhoni,,0,0,0,,,,354923549
+1,India,10,MS Dhoni,Imran Tahir,SK Raina,,0,1,1,,,,354923549
+1,India,10,SK Raina,Imran Tahir,MS Dhoni,,0,4,4,,,,354923549
+1,India,10,SK Raina,Imran Tahir,MS Dhoni,,0,0,0,,,,354923549
+1,India,10,SK Raina,Imran Tahir,MS Dhoni,,0,0,0,,,,354923549
+1,India,10,SK Raina,Imran Tahir,MS Dhoni,,0,1,1,,,,354923549
+1,India,10,MS Dhoni,Imran Tahir,SK Raina,,0,1,1,,,,354923549
+1,India,11,MS Dhoni,JA Morkel,SK Raina,,0,1,1,,,,354923549
+1,India,11,SK Raina,JA Morkel,MS Dhoni,,0,0,0,,,,354923549
+1,India,11,SK Raina,JA Morkel,MS Dhoni,,0,1,1,,,,354923549
+1,India,11,MS Dhoni,JA Morkel,SK Raina,,0,0,0,caught,MS Dhoni,AB de Villiers,354923549
+1,India,11,AR Patel,JA Morkel,SK Raina,,0,0,0,,,,354923549
+1,India,11,AR Patel,JA Morkel,SK Raina,,0,1,1,,,,354923549
+1,India,12,AR Patel,Imran Tahir,SK Raina,,0,0,0,,,,354923549
+1,India,12,AR Patel,Imran Tahir,SK Raina,,0,1,1,,,,354923549
+1,India,12,SK Raina,Imran Tahir,AR Patel,,0,0,0,caught,SK Raina,HM Amla,354923549
+1,India,12,Harbhajan Singh,Imran Tahir,AR Patel,,0,0,0,bowled,Harbhajan Singh,,354923549
+1,India,12,R Ashwin,Imran Tahir,AR Patel,,0,0,0,,,,354923549
+1,India,12,R Ashwin,Imran Tahir,AR Patel,,0,4,4,,,,354923549
+1,India,13,AR Patel,JA Morkel,R Ashwin,,0,0,0,,,,354923549
+1,India,13,AR Patel,JA Morkel,R Ashwin,,0,1,1,,,,354923549
+1,India,13,R Ashwin,JA Morkel,AR Patel,,0,0,0,,,,354923549
+1,India,13,R Ashwin,JA Morkel,AR Patel,,0,0,0,,,,354923549
+1,India,13,R Ashwin,JA Morkel,AR Patel,,0,0,0,,,,354923549
+1,India,13,R Ashwin,JA Morkel,AR Patel,,0,1,1,,,,354923549
+1,India,14,R Ashwin,Imran Tahir,AR Patel,,0,1,1,,,,354923549
+1,India,14,AR Patel,Imran Tahir,R Ashwin,,0,1,1,,,,354923549
+1,India,14,R Ashwin,Imran Tahir,AR Patel,,0,1,1,,,,354923549
+1,India,14,AR Patel,Imran Tahir,R Ashwin,,0,1,1,,,,354923549
+1,India,14,R Ashwin,Imran Tahir,AR Patel,,0,1,1,,,,354923549
+1,India,14,AR Patel,Imran Tahir,R Ashwin,,0,1,1,,,,354923549
+1,India,15,AR Patel,JA Morkel,R Ashwin,,0,2,2,,,,354923549
+1,India,15,AR Patel,JA Morkel,R Ashwin,,0,1,1,,,,354923549
+1,India,15,R Ashwin,JA Morkel,AR Patel,,0,1,1,,,,354923549
+1,India,15,AR Patel,JA Morkel,R Ashwin,,0,0,0,caught,AR Patel,F du Plessis,354923549
+1,India,15,B Kumar,JA Morkel,R Ashwin,,0,0,0,,,,354923549
+1,India,15,B Kumar,JA Morkel,R Ashwin,,0,0,0,bowled,B Kumar,,354923549
+1,India,16,R Ashwin,KJ Abbott,MM Sharma,,0,1,1,,,,354923549
+1,India,16,MM Sharma,KJ Abbott,R Ashwin,legbyes,1,1,0,,,,354923549
+1,India,16,R Ashwin,KJ Abbott,MM Sharma,,0,0,0,,,,354923549
+1,India,16,R Ashwin,KJ Abbott,MM Sharma,wides,1,1,0,,,,354923549
+1,India,16,R Ashwin,KJ Abbott,MM Sharma,,0,1,1,,,,354923549
+1,India,16,MM Sharma,KJ Abbott,R Ashwin,,0,0,0,,,,354923549
+1,India,16,MM Sharma,KJ Abbott,R Ashwin,noballs,1,1,0,,,,354923549
+1,India,16,MM Sharma,KJ Abbott,R Ashwin,wides,1,1,0,,,,354923549
+1,India,16,MM Sharma,KJ Abbott,R Ashwin,,0,0,0,,,,354923549
+1,India,17,R Ashwin,CH Morris,MM Sharma,wides,1,1,0,,,,354923549
+1,India,17,R Ashwin,CH Morris,MM Sharma,,0,0,0,,,,354923549
+1,India,17,R Ashwin,CH Morris,MM Sharma,,0,0,0,bowled,R Ashwin,,354923549

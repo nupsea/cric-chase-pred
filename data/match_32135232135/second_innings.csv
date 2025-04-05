@@ -1,0 +1,89 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Turkey,0,M Ozturk,Muhammad Shoaib Ahmed,Ilyas Ataullah,,0,0,0,,,,32135232135
+2,Turkey,0,M Ozturk,Muhammad Shoaib Ahmed,Ilyas Ataullah,noballs,1,1,0,,,,32135232135
+2,Turkey,0,M Ozturk,Muhammad Shoaib Ahmed,Ilyas Ataullah,,0,2,2,,,,32135232135
+2,Turkey,0,M Ozturk,Muhammad Shoaib Ahmed,Ilyas Ataullah,wides,1,1,0,,,,32135232135
+2,Turkey,0,M Ozturk,Muhammad Shoaib Ahmed,Ilyas Ataullah,,0,1,1,,,,32135232135
+2,Turkey,0,Ilyas Ataullah,Muhammad Shoaib Ahmed,M Ozturk,,0,0,0,,,,32135232135
+2,Turkey,0,Ilyas Ataullah,Muhammad Shoaib Ahmed,M Ozturk,,0,0,0,,,,32135232135
+2,Turkey,0,Ilyas Ataullah,Muhammad Shoaib Ahmed,M Ozturk,,0,0,0,,,,32135232135
+2,Turkey,1,M Ozturk,Gurpratap Singh,Ilyas Ataullah,,0,0,0,,,,32135232135
+2,Turkey,1,M Ozturk,Gurpratap Singh,Ilyas Ataullah,,0,0,0,,,,32135232135
+2,Turkey,1,M Ozturk,Gurpratap Singh,Ilyas Ataullah,,0,0,0,,,,32135232135
+2,Turkey,1,M Ozturk,Gurpratap Singh,Ilyas Ataullah,,0,0,0,,,,32135232135
+2,Turkey,1,M Ozturk,Gurpratap Singh,Ilyas Ataullah,,0,0,0,,,,32135232135
+2,Turkey,1,M Ozturk,Gurpratap Singh,Ilyas Ataullah,,0,1,1,,,,32135232135
+2,Turkey,2,M Ozturk,Muhammad Shoaib Ahmed,Ilyas Ataullah,,0,0,0,caught,M Ozturk,Gurpratap Singh,32135232135
+2,Turkey,2,I Elec,Muhammad Shoaib Ahmed,Ilyas Ataullah,,0,0,0,,,,32135232135
+2,Turkey,2,I Elec,Muhammad Shoaib Ahmed,Ilyas Ataullah,,0,0,0,,,,32135232135
+2,Turkey,2,I Elec,Muhammad Shoaib Ahmed,Ilyas Ataullah,,0,0,0,,,,32135232135
+2,Turkey,2,I Elec,Muhammad Shoaib Ahmed,Ilyas Ataullah,,0,0,0,,,,32135232135
+2,Turkey,2,I Elec,Muhammad Shoaib Ahmed,Ilyas Ataullah,,0,0,0,,,,32135232135
+2,Turkey,3,Ilyas Ataullah,Gurpratap Singh,I Elec,,0,0,0,lbw,Ilyas Ataullah,,32135232135
+2,Turkey,3,Shamsullah Ehsan,Gurpratap Singh,I Elec,,0,0,0,,,,32135232135
+2,Turkey,3,Shamsullah Ehsan,Gurpratap Singh,I Elec,wides,3,3,0,,,,32135232135
+2,Turkey,3,Shamsullah Ehsan,Gurpratap Singh,I Elec,,0,0,0,,,,32135232135
+2,Turkey,3,Shamsullah Ehsan,Gurpratap Singh,I Elec,,0,0,0,,,,32135232135
+2,Turkey,3,Shamsullah Ehsan,Gurpratap Singh,I Elec,,0,0,0,,,,32135232135
+2,Turkey,3,Shamsullah Ehsan,Gurpratap Singh,I Elec,,0,1,1,,,,32135232135
+2,Turkey,4,Shamsullah Ehsan,Muhammad Shoaib Ahmed,I Elec,,0,1,1,,,,32135232135
+2,Turkey,4,I Elec,Muhammad Shoaib Ahmed,Shamsullah Ehsan,,0,1,1,,,,32135232135
+2,Turkey,4,Shamsullah Ehsan,Muhammad Shoaib Ahmed,I Elec,,0,0,0,caught,Shamsullah Ehsan,Gurpratap Singh,32135232135
+2,Turkey,4,C Bayraktar,Muhammad Shoaib Ahmed,I Elec,,0,0,0,,,,32135232135
+2,Turkey,4,C Bayraktar,Muhammad Shoaib Ahmed,I Elec,,0,0,0,,,,32135232135
+2,Turkey,4,C Bayraktar,Muhammad Shoaib Ahmed,I Elec,,0,1,1,,,,32135232135
+2,Turkey,5,C Bayraktar,Gurpratap Singh,I Elec,legbyes,1,1,0,,,,32135232135
+2,Turkey,5,I Elec,Gurpratap Singh,C Bayraktar,,0,0,0,,,,32135232135
+2,Turkey,5,I Elec,Gurpratap Singh,C Bayraktar,,0,0,0,,,,32135232135
+2,Turkey,5,I Elec,Gurpratap Singh,C Bayraktar,,0,0,0,bowled,I Elec,,32135232135
+2,Turkey,5,GG Alta,Gurpratap Singh,C Bayraktar,,0,0,0,,,,32135232135
+2,Turkey,5,GG Alta,Gurpratap Singh,C Bayraktar,,0,0,0,,,,32135232135
+2,Turkey,6,C Bayraktar,NK Tiwari,GG Alta,wides,1,1,0,,,,32135232135
+2,Turkey,6,C Bayraktar,NK Tiwari,GG Alta,,0,6,6,,,,32135232135
+2,Turkey,6,C Bayraktar,NK Tiwari,GG Alta,,0,0,0,,,,32135232135
+2,Turkey,6,C Bayraktar,NK Tiwari,GG Alta,wides,1,1,0,,,,32135232135
+2,Turkey,6,C Bayraktar,NK Tiwari,GG Alta,,0,2,2,,,,32135232135
+2,Turkey,6,C Bayraktar,NK Tiwari,GG Alta,,0,2,2,,,,32135232135
+2,Turkey,6,C Bayraktar,NK Tiwari,GG Alta,,0,0,0,bowled,C Bayraktar,,32135232135
+2,Turkey,6,R Nath,NK Tiwari,GG Alta,,0,0,0,,,,32135232135
+2,Turkey,7,GG Alta,Tejwinder Singh,R Nath,,0,0,0,,,,32135232135
+2,Turkey,7,GG Alta,Tejwinder Singh,R Nath,wides,1,1,0,,,,32135232135
+2,Turkey,7,GG Alta,Tejwinder Singh,R Nath,,0,1,1,,,,32135232135
+2,Turkey,7,R Nath,Tejwinder Singh,GG Alta,,0,1,1,,,,32135232135
+2,Turkey,7,GG Alta,Tejwinder Singh,R Nath,,0,0,0,,,,32135232135
+2,Turkey,7,GG Alta,Tejwinder Singh,R Nath,,0,0,0,,,,32135232135
+2,Turkey,7,GG Alta,Tejwinder Singh,R Nath,,0,0,0,,,,32135232135
+2,Turkey,8,R Nath,NK Tiwari,GG Alta,,0,0,0,,,,32135232135
+2,Turkey,8,R Nath,NK Tiwari,GG Alta,,0,0,0,,,,32135232135
+2,Turkey,8,R Nath,NK Tiwari,GG Alta,,0,2,2,,,,32135232135
+2,Turkey,8,R Nath,NK Tiwari,GG Alta,,0,1,1,,,,32135232135
+2,Turkey,8,GG Alta,NK Tiwari,R Nath,,0,0,0,,,,32135232135
+2,Turkey,8,GG Alta,NK Tiwari,R Nath,,0,1,1,,,,32135232135
+2,Turkey,9,GG Alta,Tejwinder Singh,R Nath,,0,0,0,,,,32135232135
+2,Turkey,9,GG Alta,Tejwinder Singh,R Nath,,0,2,2,,,,32135232135
+2,Turkey,9,GG Alta,Tejwinder Singh,R Nath,,0,0,0,,,,32135232135
+2,Turkey,9,GG Alta,Tejwinder Singh,R Nath,,0,0,0,,,,32135232135
+2,Turkey,9,GG Alta,Tejwinder Singh,R Nath,,0,2,2,,,,32135232135
+2,Turkey,9,GG Alta,Tejwinder Singh,R Nath,,0,0,0,,,,32135232135
+2,Turkey,10,R Nath,NK Tiwari,GG Alta,,0,1,1,,,,32135232135
+2,Turkey,10,GG Alta,NK Tiwari,R Nath,noballs,1,3,2,,,,32135232135
+2,Turkey,10,GG Alta,NK Tiwari,R Nath,,0,2,2,,,,32135232135
+2,Turkey,10,GG Alta,NK Tiwari,R Nath,,0,0,0,,,,32135232135
+2,Turkey,10,GG Alta,NK Tiwari,R Nath,,0,0,0,,,,32135232135
+2,Turkey,10,GG Alta,NK Tiwari,R Nath,,0,1,1,,,,32135232135
+2,Turkey,10,R Nath,NK Tiwari,GG Alta,,0,1,1,,,,32135232135
+2,Turkey,11,R Nath,CPPM Sadun,GG Alta,,0,0,0,,,,32135232135
+2,Turkey,11,R Nath,CPPM Sadun,GG Alta,,0,0,0,,,,32135232135
+2,Turkey,11,R Nath,CPPM Sadun,GG Alta,,0,0,0,,,,32135232135
+2,Turkey,11,R Nath,CPPM Sadun,GG Alta,,0,1,1,,,,32135232135
+2,Turkey,11,GG Alta,CPPM Sadun,R Nath,,0,0,0,lbw,GG Alta,,32135232135
+2,Turkey,11,A Turkmen,CPPM Sadun,R Nath,,0,0,0,bowled,A Turkmen,,32135232135
+2,Turkey,12,R Nath,Muhammad Farooq,T Ulutuna,,0,1,1,,,,32135232135
+2,Turkey,12,T Ulutuna,Muhammad Farooq,R Nath,,0,1,1,,,,32135232135
+2,Turkey,12,R Nath,Muhammad Farooq,T Ulutuna,,0,0,0,bowled,R Nath,,32135232135
+2,Turkey,12,D Mutu,Muhammad Farooq,T Ulutuna,,0,0,0,,,,32135232135
+2,Turkey,12,D Mutu,Muhammad Farooq,T Ulutuna,,0,0,0,,,,32135232135
+2,Turkey,12,D Mutu,Muhammad Farooq,T Ulutuna,,0,0,0,,,,32135232135
+2,Turkey,13,T Ulutuna,CPPM Sadun,D Mutu,,0,0,0,bowled,T Ulutuna,,32135232135
+2,Turkey,13,Hasan Cakir,CPPM Sadun,D Mutu,,0,0,0,,,,32135232135
+2,Turkey,13,Hasan Cakir,CPPM Sadun,D Mutu,,0,0,0,bowled,Hasan Cakir,,32135232135

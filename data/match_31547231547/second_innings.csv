@@ -1,0 +1,92 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Kenya,0,Q Abel,I van Zyl,M Ndhambi,,0,1,1,,,,31547231547
+2,Kenya,0,M Ndhambi,I van Zyl,Q Abel,wides,1,1,0,,,,31547231547
+2,Kenya,0,M Ndhambi,I van Zyl,Q Abel,,0,2,2,,,,31547231547
+2,Kenya,0,M Ndhambi,I van Zyl,Q Abel,,0,0,0,caught,M Ndhambi,D Foerster,31547231547
+2,Kenya,0,M Ngoche,I van Zyl,Q Abel,,0,1,1,,,,31547231547
+2,Kenya,0,Q Abel,I van Zyl,M Ngoche,,0,0,0,,,,31547231547
+2,Kenya,0,Q Abel,I van Zyl,M Ngoche,,0,0,0,,,,31547231547
+2,Kenya,1,M Ngoche,KA Green,Q Abel,,0,0,0,,,,31547231547
+2,Kenya,1,M Ngoche,KA Green,Q Abel,,0,0,0,,,,31547231547
+2,Kenya,1,M Ngoche,KA Green,Q Abel,,0,0,0,,,,31547231547
+2,Kenya,1,M Ngoche,KA Green,Q Abel,,0,0,0,,,,31547231547
+2,Kenya,1,M Ngoche,KA Green,Q Abel,,0,0,0,,,,31547231547
+2,Kenya,1,M Ngoche,KA Green,Q Abel,,0,1,1,,,,31547231547
+2,Kenya,2,M Ngoche,I van Zyl,Q Abel,,0,1,1,,,,31547231547
+2,Kenya,2,Q Abel,I van Zyl,M Ngoche,,0,0,0,,,,31547231547
+2,Kenya,2,Q Abel,I van Zyl,M Ngoche,,0,0,0,,,,31547231547
+2,Kenya,2,Q Abel,I van Zyl,M Ngoche,,0,1,1,,,,31547231547
+2,Kenya,2,M Ngoche,I van Zyl,Q Abel,,0,0,0,,,,31547231547
+2,Kenya,2,M Ngoche,I van Zyl,Q Abel,,0,0,0,,,,31547231547
+2,Kenya,3,Q Abel,KA Green,M Ngoche,,0,0,0,,,,31547231547
+2,Kenya,3,Q Abel,KA Green,M Ngoche,,0,0,0,,,,31547231547
+2,Kenya,3,Q Abel,KA Green,M Ngoche,,0,4,4,,,,31547231547
+2,Kenya,3,Q Abel,KA Green,M Ngoche,wides,1,1,0,,,,31547231547
+2,Kenya,3,Q Abel,KA Green,M Ngoche,,0,0,0,,,,31547231547
+2,Kenya,3,Q Abel,KA Green,M Ngoche,,0,2,2,,,,31547231547
+2,Kenya,3,Q Abel,KA Green,M Ngoche,,0,4,4,,,,31547231547
+2,Kenya,4,M Ngoche,W Mwatile,Q Abel,legbyes,1,1,0,,,,31547231547
+2,Kenya,4,Q Abel,W Mwatile,M Ngoche,,0,3,3,,,,31547231547
+2,Kenya,4,M Ngoche,W Mwatile,Q Abel,,0,0,0,,,,31547231547
+2,Kenya,4,M Ngoche,W Mwatile,Q Abel,,0,4,4,,,,31547231547
+2,Kenya,4,M Ngoche,W Mwatile,Q Abel,,0,0,0,bowled,M Ngoche,,31547231547
+2,Kenya,4,S Juma,W Mwatile,Q Abel,,0,0,0,,,,31547231547
+2,Kenya,5,Q Abel,V Hamunyela,S Juma,,0,0,0,,,,31547231547
+2,Kenya,5,Q Abel,V Hamunyela,S Juma,,0,0,0,,,,31547231547
+2,Kenya,5,Q Abel,V Hamunyela,S Juma,,0,4,4,,,,31547231547
+2,Kenya,5,Q Abel,V Hamunyela,S Juma,,0,0,0,,,,31547231547
+2,Kenya,5,Q Abel,V Hamunyela,S Juma,wides,1,1,0,stumped,Q Abel,Yasmeen Khan,31547231547
+2,Kenya,5,S Wetoto,V Hamunyela,S Juma,,0,0,0,,,,31547231547
+2,Kenya,5,S Wetoto,V Hamunyela,S Juma,,0,1,1,,,,31547231547
+2,Kenya,6,S Wetoto,W Mwatile,S Juma,,0,1,1,,,,31547231547
+2,Kenya,6,S Juma,W Mwatile,S Wetoto,,0,1,1,,,,31547231547
+2,Kenya,6,S Wetoto,W Mwatile,S Juma,,0,0,0,,,,31547231547
+2,Kenya,6,S Wetoto,W Mwatile,S Juma,,0,0,0,,,,31547231547
+2,Kenya,6,S Wetoto,W Mwatile,S Juma,,0,1,1,,,,31547231547
+2,Kenya,6,S Juma,W Mwatile,S Wetoto,,0,2,2,,,,31547231547
+2,Kenya,7,S Wetoto,V Hamunyela,S Juma,,0,1,1,,,,31547231547
+2,Kenya,7,S Juma,V Hamunyela,S Wetoto,,0,4,4,,,,31547231547
+2,Kenya,7,S Juma,V Hamunyela,S Wetoto,,0,0,0,,,,31547231547
+2,Kenya,7,S Juma,V Hamunyela,S Wetoto,,0,0,0,,,,31547231547
+2,Kenya,7,S Juma,V Hamunyela,S Wetoto,,0,0,0,,,,31547231547
+2,Kenya,7,S Juma,V Hamunyela,S Wetoto,,0,1,1,,,,31547231547
+2,Kenya,8,S Juma,W Mwatile,S Wetoto,wides,1,1,0,,,,31547231547
+2,Kenya,8,S Juma,W Mwatile,S Wetoto,,0,0,0,,,,31547231547
+2,Kenya,8,S Juma,W Mwatile,S Wetoto,,0,4,4,,,,31547231547
+2,Kenya,8,S Juma,W Mwatile,S Wetoto,,0,0,0,lbw,S Juma,,31547231547
+2,Kenya,8,E Wachira,W Mwatile,S Wetoto,,0,0,0,,,,31547231547
+2,Kenya,8,E Wachira,W Mwatile,S Wetoto,,0,1,1,,,,31547231547
+2,Kenya,8,S Wetoto,W Mwatile,E Wachira,wides,1,1,0,,,,31547231547
+2,Kenya,8,S Wetoto,W Mwatile,E Wachira,,0,1,1,,,,31547231547
+2,Kenya,9,S Wetoto,V Hamunyela,E Wachira,,0,0,0,caught,S Wetoto,Yasmeen Khan,31547231547
+2,Kenya,9,V Abuga,V Hamunyela,E Wachira,byes,1,1,0,,,,31547231547
+2,Kenya,9,E Wachira,V Hamunyela,V Abuga,,0,0,0,,,,31547231547
+2,Kenya,9,E Wachira,V Hamunyela,V Abuga,,0,1,1,,,,31547231547
+2,Kenya,9,E Wachira,V Hamunyela,V Abuga,,0,0,0,,,,31547231547
+2,Kenya,9,E Wachira,V Hamunyela,V Abuga,,0,0,0,caught,E Wachira,A van der Merwe,31547231547
+2,Kenya,10,L Idambo,W Mwatile,V Abuga,,0,0,0,,,,31547231547
+2,Kenya,10,V Abuga,W Mwatile,L Idambo,,0,1,1,,,,31547231547
+2,Kenya,10,L Idambo,W Mwatile,V Abuga,,0,0,0,,,,31547231547
+2,Kenya,10,L Idambo,W Mwatile,V Abuga,,0,0,0,,,,31547231547
+2,Kenya,10,L Idambo,W Mwatile,V Abuga,,0,0,0,,,,31547231547
+2,Kenya,10,L Idambo,W Mwatile,V Abuga,,0,0,0,,,,31547231547
+2,Kenya,11,V Abuga,V Hamunyela,L Idambo,,0,0,0,,,,31547231547
+2,Kenya,11,V Abuga,V Hamunyela,L Idambo,,0,1,1,,,,31547231547
+2,Kenya,11,L Idambo,V Hamunyela,V Abuga,,0,0,0,,,,31547231547
+2,Kenya,11,L Idambo,V Hamunyela,V Abuga,,0,0,0,,,,31547231547
+2,Kenya,11,L Idambo,V Hamunyela,V Abuga,,0,1,1,,,,31547231547
+2,Kenya,11,V Abuga,V Hamunyela,L Idambo,,0,0,0,bowled,V Abuga,,31547231547
+2,Kenya,12,L Idambo,I van Zyl,F Odhiambo,,0,1,1,,,,31547231547
+2,Kenya,12,F Odhiambo,I van Zyl,L Idambo,,0,0,0,,,,31547231547
+2,Kenya,12,F Odhiambo,I van Zyl,L Idambo,,0,2,2,,,,31547231547
+2,Kenya,12,F Odhiambo,I van Zyl,L Idambo,,0,1,1,,,,31547231547
+2,Kenya,12,L Idambo,I van Zyl,F Odhiambo,,0,0,0,,,,31547231547
+2,Kenya,12,L Idambo,I van Zyl,F Odhiambo,,0,0,0,,,,31547231547
+2,Kenya,13,L Idambo,KA Green,F Odhiambo,,0,4,4,,,,31547231547
+2,Kenya,13,L Idambo,KA Green,F Odhiambo,,0,2,2,,,,31547231547
+2,Kenya,13,L Idambo,KA Green,F Odhiambo,,0,2,2,,,,31547231547
+2,Kenya,13,L Idambo,KA Green,F Odhiambo,,0,4,4,,,,31547231547
+2,Kenya,13,L Idambo,KA Green,F Odhiambo,,0,1,1,,,,31547231547
+2,Kenya,13,F Odhiambo,KA Green,L Idambo,,0,0,0,run out,L Idambo,JA Diergaardt,31547231547
+2,Kenya,14,F Odhiambo,I van Zyl,M Idambo,,0,0,0,caught and bowled,F Odhiambo,,31547231547
+2,Kenya,14,J Otieno,I van Zyl,M Idambo,,0,0,0,bowled,J Otieno,,31547231547

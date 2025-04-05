@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Netherlands,0,MP O'Dowd,PR Stirling,BN Cooper,,0,0,0,,,,31628231628
+1,Netherlands,0,MP O'Dowd,PR Stirling,BN Cooper,,0,1,1,,,,31628231628
+1,Netherlands,0,BN Cooper,PR Stirling,MP O'Dowd,,0,0,0,run out,BN Cooper,Simi Singh,31628231628
+1,Netherlands,0,MP O'Dowd,PR Stirling,BFW de Leede,,0,0,0,,,,31628231628
+1,Netherlands,0,MP O'Dowd,PR Stirling,BFW de Leede,,0,0,0,,,,31628231628
+1,Netherlands,0,MP O'Dowd,PR Stirling,BFW de Leede,,0,0,0,,,,31628231628
+1,Netherlands,1,BFW de Leede,J Little,MP O'Dowd,,0,0,0,,,,31628231628
+1,Netherlands,1,BFW de Leede,J Little,MP O'Dowd,,0,1,1,,,,31628231628
+1,Netherlands,1,MP O'Dowd,J Little,BFW de Leede,,0,0,0,,,,31628231628
+1,Netherlands,1,MP O'Dowd,J Little,BFW de Leede,,0,4,4,,,,31628231628
+1,Netherlands,1,MP O'Dowd,J Little,BFW de Leede,legbyes,1,1,0,,,,31628231628
+1,Netherlands,1,BFW de Leede,J Little,MP O'Dowd,,0,0,0,,,,31628231628
+1,Netherlands,2,MP O'Dowd,MR Adair,BFW de Leede,,0,0,0,,,,31628231628
+1,Netherlands,2,MP O'Dowd,MR Adair,BFW de Leede,,0,0,0,,,,31628231628
+1,Netherlands,2,MP O'Dowd,MR Adair,BFW de Leede,,0,0,0,,,,31628231628
+1,Netherlands,2,MP O'Dowd,MR Adair,BFW de Leede,,0,1,1,,,,31628231628
+1,Netherlands,2,BFW de Leede,MR Adair,MP O'Dowd,,0,0,0,,,,31628231628
+1,Netherlands,2,BFW de Leede,MR Adair,MP O'Dowd,,0,0,0,,,,31628231628
+1,Netherlands,3,MP O'Dowd,Simi Singh,BFW de Leede,,0,1,1,,,,31628231628
+1,Netherlands,3,BFW de Leede,Simi Singh,MP O'Dowd,,0,1,1,,,,31628231628
+1,Netherlands,3,MP O'Dowd,Simi Singh,BFW de Leede,,0,1,1,,,,31628231628
+1,Netherlands,3,BFW de Leede,Simi Singh,MP O'Dowd,,0,1,1,,,,31628231628
+1,Netherlands,3,MP O'Dowd,Simi Singh,BFW de Leede,,0,4,4,,,,31628231628
+1,Netherlands,3,MP O'Dowd,Simi Singh,BFW de Leede,,0,2,2,,,,31628231628
+1,Netherlands,4,BFW de Leede,J Little,MP O'Dowd,,0,0,0,,,,31628231628
+1,Netherlands,4,BFW de Leede,J Little,MP O'Dowd,,0,0,0,,,,31628231628
+1,Netherlands,4,BFW de Leede,J Little,MP O'Dowd,,0,4,4,,,,31628231628
+1,Netherlands,4,BFW de Leede,J Little,MP O'Dowd,,0,0,0,bowled,BFW de Leede,,31628231628
+1,Netherlands,4,CN Ackermann,J Little,MP O'Dowd,,0,0,0,,,,31628231628
+1,Netherlands,4,CN Ackermann,J Little,MP O'Dowd,,0,2,2,,,,31628231628
+1,Netherlands,5,MP O'Dowd,MR Adair,CN Ackermann,,0,1,1,,,,31628231628
+1,Netherlands,5,CN Ackermann,MR Adair,MP O'Dowd,,0,0,0,,,,31628231628
+1,Netherlands,5,CN Ackermann,MR Adair,MP O'Dowd,,0,0,0,,,,31628231628
+1,Netherlands,5,CN Ackermann,MR Adair,MP O'Dowd,,0,0,0,,,,31628231628
+1,Netherlands,5,CN Ackermann,MR Adair,MP O'Dowd,,0,0,0,,,,31628231628
+1,Netherlands,5,CN Ackermann,MR Adair,MP O'Dowd,,0,0,0,,,,31628231628
+1,Netherlands,6,MP O'Dowd,C Campher,CN Ackermann,,0,4,4,,,,31628231628
+1,Netherlands,6,MP O'Dowd,C Campher,CN Ackermann,,0,1,1,,,,31628231628
+1,Netherlands,6,CN Ackermann,C Campher,MP O'Dowd,,0,1,1,,,,31628231628
+1,Netherlands,6,MP O'Dowd,C Campher,CN Ackermann,,0,1,1,,,,31628231628
+1,Netherlands,6,CN Ackermann,C Campher,MP O'Dowd,wides,1,1,0,,,,31628231628
+1,Netherlands,6,CN Ackermann,C Campher,MP O'Dowd,,0,4,4,,,,31628231628
+1,Netherlands,6,CN Ackermann,C Campher,MP O'Dowd,,0,0,0,,,,31628231628
+1,Netherlands,7,MP O'Dowd,Simi Singh,CN Ackermann,,0,1,1,,,,31628231628
+1,Netherlands,7,CN Ackermann,Simi Singh,MP O'Dowd,,0,1,1,,,,31628231628
+1,Netherlands,7,MP O'Dowd,Simi Singh,CN Ackermann,,0,0,0,,,,31628231628
+1,Netherlands,7,MP O'Dowd,Simi Singh,CN Ackermann,,0,1,1,,,,31628231628
+1,Netherlands,7,CN Ackermann,Simi Singh,MP O'Dowd,,0,1,1,,,,31628231628
+1,Netherlands,7,MP O'Dowd,Simi Singh,CN Ackermann,,0,1,1,,,,31628231628
+1,Netherlands,8,MP O'Dowd,B White,CN Ackermann,,0,1,1,,,,31628231628
+1,Netherlands,8,CN Ackermann,B White,MP O'Dowd,,0,1,1,,,,31628231628
+1,Netherlands,8,MP O'Dowd,B White,CN Ackermann,,0,4,4,,,,31628231628
+1,Netherlands,8,MP O'Dowd,B White,CN Ackermann,,0,1,1,,,,31628231628
+1,Netherlands,8,CN Ackermann,B White,MP O'Dowd,,0,1,1,,,,31628231628
+1,Netherlands,8,MP O'Dowd,B White,CN Ackermann,,0,0,0,,,,31628231628
+1,Netherlands,9,CN Ackermann,C Campher,MP O'Dowd,wides,1,1,0,,,,31628231628
+1,Netherlands,9,CN Ackermann,C Campher,MP O'Dowd,,0,0,0,,,,31628231628
+1,Netherlands,9,CN Ackermann,C Campher,MP O'Dowd,,0,0,0,caught,CN Ackermann,NA Rock,31628231628
+1,Netherlands,9,RN ten Doeschate,C Campher,MP O'Dowd,,0,0,0,lbw,RN ten Doeschate,,31628231628
+1,Netherlands,9,SA Edwards,C Campher,MP O'Dowd,,0,0,0,lbw,SA Edwards,,31628231628
+1,Netherlands,9,RE van der Merwe,C Campher,MP O'Dowd,,0,0,0,bowled,RE van der Merwe,,31628231628
+1,Netherlands,9,PM Seelaar,C Campher,MP O'Dowd,,0,1,1,,,,31628231628
+1,Netherlands,10,PM Seelaar,J Little,MP O'Dowd,,0,0,0,,,,31628231628
+1,Netherlands,10,PM Seelaar,J Little,MP O'Dowd,,0,0,0,,,,31628231628
+1,Netherlands,10,PM Seelaar,J Little,MP O'Dowd,,0,0,0,,,,31628231628
+1,Netherlands,10,PM Seelaar,J Little,MP O'Dowd,,0,0,0,,,,31628231628
+1,Netherlands,10,PM Seelaar,J Little,MP O'Dowd,,0,0,0,,,,31628231628
+1,Netherlands,10,PM Seelaar,J Little,MP O'Dowd,,0,1,1,,,,31628231628
+1,Netherlands,11,PM Seelaar,C Campher,MP O'Dowd,,0,0,0,,,,31628231628
+1,Netherlands,11,PM Seelaar,C Campher,MP O'Dowd,,0,0,0,,,,31628231628
+1,Netherlands,11,PM Seelaar,C Campher,MP O'Dowd,,0,4,4,,,,31628231628
+1,Netherlands,11,PM Seelaar,C Campher,MP O'Dowd,,0,1,1,,,,31628231628
+1,Netherlands,11,MP O'Dowd,C Campher,PM Seelaar,,0,0,0,,,,31628231628
+1,Netherlands,11,MP O'Dowd,C Campher,PM Seelaar,,0,1,1,,,,31628231628
+1,Netherlands,12,MP O'Dowd,B White,PM Seelaar,,0,0,0,,,,31628231628
+1,Netherlands,12,MP O'Dowd,B White,PM Seelaar,,0,2,2,,,,31628231628
+1,Netherlands,12,MP O'Dowd,B White,PM Seelaar,wides,1,1,0,,,,31628231628
+1,Netherlands,12,MP O'Dowd,B White,PM Seelaar,,0,0,0,,,,31628231628
+1,Netherlands,12,MP O'Dowd,B White,PM Seelaar,,0,4,4,,,,31628231628
+1,Netherlands,12,MP O'Dowd,B White,PM Seelaar,,0,4,4,,,,31628231628
+1,Netherlands,12,MP O'Dowd,B White,PM Seelaar,,0,1,1,,,,31628231628
+1,Netherlands,13,MP O'Dowd,Simi Singh,PM Seelaar,,0,0,0,,,,31628231628
+1,Netherlands,13,MP O'Dowd,Simi Singh,PM Seelaar,,0,1,1,,,,31628231628
+1,Netherlands,13,PM Seelaar,Simi Singh,MP O'Dowd,,0,0,0,,,,31628231628
+1,Netherlands,13,PM Seelaar,Simi Singh,MP O'Dowd,,0,1,1,,,,31628231628
+1,Netherlands,13,MP O'Dowd,Simi Singh,PM Seelaar,,0,1,1,,,,31628231628
+1,Netherlands,13,PM Seelaar,Simi Singh,MP O'Dowd,,0,0,0,,,,31628231628
+1,Netherlands,14,MP O'Dowd,C Campher,PM Seelaar,,0,4,4,,,,31628231628
+1,Netherlands,14,MP O'Dowd,C Campher,PM Seelaar,,0,0,0,,,,31628231628
+1,Netherlands,14,MP O'Dowd,C Campher,PM Seelaar,,0,0,0,,,,31628231628
+1,Netherlands,14,MP O'Dowd,C Campher,PM Seelaar,,0,1,1,,,,31628231628
+1,Netherlands,14,PM Seelaar,C Campher,MP O'Dowd,,0,0,0,,,,31628231628
+1,Netherlands,14,PM Seelaar,C Campher,MP O'Dowd,,0,1,1,,,,31628231628
+1,Netherlands,15,PM Seelaar,B White,MP O'Dowd,,0,1,1,,,,31628231628
+1,Netherlands,15,MP O'Dowd,B White,PM Seelaar,,0,1,1,,,,31628231628
+1,Netherlands,15,PM Seelaar,B White,MP O'Dowd,,0,2,2,,,,31628231628
+1,Netherlands,15,PM Seelaar,B White,MP O'Dowd,,0,1,1,,,,31628231628
+1,Netherlands,15,MP O'Dowd,B White,PM Seelaar,,0,1,1,,,,31628231628
+1,Netherlands,15,PM Seelaar,B White,MP O'Dowd,,0,1,1,,,,31628231628
+1,Netherlands,16,PM Seelaar,MR Adair,MP O'Dowd,,0,1,1,,,,31628231628
+1,Netherlands,16,MP O'Dowd,MR Adair,PM Seelaar,,0,0,0,,,,31628231628
+1,Netherlands,16,MP O'Dowd,MR Adair,PM Seelaar,,0,0,0,caught,MP O'Dowd,HT Tector,31628231628
+1,Netherlands,16,PM Seelaar,MR Adair,LV van Beek,,0,0,0,,,,31628231628
+1,Netherlands,16,PM Seelaar,MR Adair,LV van Beek,,0,1,1,,,,31628231628
+1,Netherlands,16,LV van Beek,MR Adair,PM Seelaar,,0,1,1,,,,31628231628
+1,Netherlands,17,LV van Beek,Simi Singh,PM Seelaar,,0,0,0,,,,31628231628
+1,Netherlands,17,LV van Beek,Simi Singh,PM Seelaar,,0,1,1,,,,31628231628
+1,Netherlands,17,PM Seelaar,Simi Singh,LV van Beek,,0,4,4,,,,31628231628
+1,Netherlands,17,PM Seelaar,Simi Singh,LV van Beek,,0,1,1,,,,31628231628
+1,Netherlands,17,LV van Beek,Simi Singh,PM Seelaar,,0,2,2,,,,31628231628
+1,Netherlands,17,LV van Beek,Simi Singh,PM Seelaar,,0,1,1,,,,31628231628
+1,Netherlands,18,LV van Beek,J Little,PM Seelaar,,0,0,0,,,,31628231628
+1,Netherlands,18,LV van Beek,J Little,PM Seelaar,,0,1,1,,,,31628231628
+1,Netherlands,18,PM Seelaar,J Little,LV van Beek,,0,0,0,,,,31628231628
+1,Netherlands,18,PM Seelaar,J Little,LV van Beek,,0,0,0,,,,31628231628
+1,Netherlands,18,PM Seelaar,J Little,LV van Beek,legbyes,1,1,0,,,,31628231628
+1,Netherlands,18,LV van Beek,J Little,PM Seelaar,,0,1,1,,,,31628231628
+1,Netherlands,19,LV van Beek,MR Adair,PM Seelaar,,0,2,2,,,,31628231628
+1,Netherlands,19,LV van Beek,MR Adair,PM Seelaar,,0,0,0,,,,31628231628
+1,Netherlands,19,LV van Beek,MR Adair,PM Seelaar,,0,1,1,,,,31628231628
+1,Netherlands,19,PM Seelaar,MR Adair,LV van Beek,,0,0,0,caught,PM Seelaar,A Balbirnie,31628231628
+1,Netherlands,19,LV van Beek,MR Adair,FJ Klaassen,,0,1,1,run out,LV van Beek,J Little,31628231628
+1,Netherlands,19,BD Glover,MR Adair,FJ Klaassen,,0,0,0,caught,BD Glover,C Campher,31628231628

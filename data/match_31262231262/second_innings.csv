@@ -1,0 +1,119 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,England,0,T Banton,Imad Wasim,JM Bairstow,,0,0,0,,,,31262231262
+2,England,0,T Banton,Imad Wasim,JM Bairstow,,0,1,1,,,,31262231262
+2,England,0,JM Bairstow,Imad Wasim,T Banton,,0,1,1,,,,31262231262
+2,England,0,T Banton,Imad Wasim,JM Bairstow,,0,1,1,,,,31262231262
+2,England,0,JM Bairstow,Imad Wasim,T Banton,,0,0,0,,,,31262231262
+2,England,0,JM Bairstow,Imad Wasim,T Banton,,0,0,0,,,,31262231262
+2,England,1,T Banton,Shaheen Shah Afridi,JM Bairstow,,0,1,1,,,,31262231262
+2,England,1,JM Bairstow,Shaheen Shah Afridi,T Banton,,0,0,0,,,,31262231262
+2,England,1,JM Bairstow,Shaheen Shah Afridi,T Banton,,0,4,4,,,,31262231262
+2,England,1,JM Bairstow,Shaheen Shah Afridi,T Banton,,0,4,4,,,,31262231262
+2,England,1,JM Bairstow,Shaheen Shah Afridi,T Banton,,0,1,1,,,,31262231262
+2,England,1,T Banton,Shaheen Shah Afridi,JM Bairstow,,0,1,1,,,,31262231262
+2,England,2,T Banton,Imad Wasim,JM Bairstow,,0,6,6,,,,31262231262
+2,England,2,T Banton,Imad Wasim,JM Bairstow,,0,2,2,,,,31262231262
+2,England,2,T Banton,Imad Wasim,JM Bairstow,,0,1,1,,,,31262231262
+2,England,2,JM Bairstow,Imad Wasim,T Banton,,0,4,4,,,,31262231262
+2,England,2,JM Bairstow,Imad Wasim,T Banton,,0,1,1,,,,31262231262
+2,England,2,T Banton,Imad Wasim,JM Bairstow,,0,2,2,,,,31262231262
+2,England,3,JM Bairstow,Mohammad Amir,T Banton,,0,4,4,,,,31262231262
+2,England,3,JM Bairstow,Mohammad Amir,T Banton,,0,6,6,,,,31262231262
+2,England,3,JM Bairstow,Mohammad Amir,T Banton,,0,0,0,,,,31262231262
+2,England,3,JM Bairstow,Mohammad Amir,T Banton,,0,1,1,,,,31262231262
+2,England,3,T Banton,Mohammad Amir,JM Bairstow,,0,1,1,,,,31262231262
+2,England,3,JM Bairstow,Mohammad Amir,T Banton,,0,1,1,,,,31262231262
+2,England,4,JM Bairstow,Shaheen Shah Afridi,T Banton,,0,1,1,,,,31262231262
+2,England,4,T Banton,Shaheen Shah Afridi,JM Bairstow,,0,1,1,,,,31262231262
+2,England,4,JM Bairstow,Shaheen Shah Afridi,T Banton,,0,1,1,,,,31262231262
+2,England,4,T Banton,Shaheen Shah Afridi,JM Bairstow,,0,1,1,,,,31262231262
+2,England,4,JM Bairstow,Shaheen Shah Afridi,T Banton,noballs,1,3,2,,,,31262231262
+2,England,4,JM Bairstow,Shaheen Shah Afridi,T Banton,,0,2,2,,,,31262231262
+2,England,4,JM Bairstow,Shaheen Shah Afridi,T Banton,legbyes,1,1,0,,,,31262231262
+2,England,5,JM Bairstow,Mohammad Amir,T Banton,,0,6,6,,,,31262231262
+2,England,5,JM Bairstow,Mohammad Amir,T Banton,,0,1,1,,,,31262231262
+2,England,5,T Banton,Mohammad Amir,JM Bairstow,,0,0,0,,,,31262231262
+2,England,5,T Banton,Mohammad Amir,JM Bairstow,,0,1,1,,,,31262231262
+2,England,5,JM Bairstow,Mohammad Amir,T Banton,,0,2,2,,,,31262231262
+2,England,5,JM Bairstow,Mohammad Amir,T Banton,,0,2,2,,,,31262231262
+2,England,6,T Banton,Shadab Khan,JM Bairstow,,0,1,1,,,,31262231262
+2,England,6,JM Bairstow,Shadab Khan,T Banton,,0,0,0,caught,JM Bairstow,Imad Wasim,31262231262
+2,England,6,T Banton,Shadab Khan,DJ Malan,,0,0,0,lbw,T Banton,,31262231262
+2,England,6,EJG Morgan,Shadab Khan,DJ Malan,,0,0,0,,,,31262231262
+2,England,6,EJG Morgan,Shadab Khan,DJ Malan,,0,0,0,,,,31262231262
+2,England,6,EJG Morgan,Shadab Khan,DJ Malan,,0,1,1,,,,31262231262
+2,England,7,EJG Morgan,Iftikhar Ahmed,DJ Malan,,0,1,1,,,,31262231262
+2,England,7,DJ Malan,Iftikhar Ahmed,EJG Morgan,,0,0,0,,,,31262231262
+2,England,7,DJ Malan,Iftikhar Ahmed,EJG Morgan,,0,4,4,,,,31262231262
+2,England,7,DJ Malan,Iftikhar Ahmed,EJG Morgan,,0,1,1,,,,31262231262
+2,England,7,EJG Morgan,Iftikhar Ahmed,DJ Malan,,0,0,0,,,,31262231262
+2,England,7,EJG Morgan,Iftikhar Ahmed,DJ Malan,,0,1,1,,,,31262231262
+2,England,8,EJG Morgan,Shadab Khan,DJ Malan,,0,6,6,,,,31262231262
+2,England,8,EJG Morgan,Shadab Khan,DJ Malan,,0,2,2,,,,31262231262
+2,England,8,EJG Morgan,Shadab Khan,DJ Malan,,0,1,1,,,,31262231262
+2,England,8,DJ Malan,Shadab Khan,EJG Morgan,,0,0,0,,,,31262231262
+2,England,8,DJ Malan,Shadab Khan,EJG Morgan,,0,1,1,,,,31262231262
+2,England,8,EJG Morgan,Shadab Khan,DJ Malan,,0,4,4,,,,31262231262
+2,England,9,DJ Malan,Iftikhar Ahmed,EJG Morgan,,0,1,1,,,,31262231262
+2,England,9,EJG Morgan,Iftikhar Ahmed,DJ Malan,,0,2,2,,,,31262231262
+2,England,9,EJG Morgan,Iftikhar Ahmed,DJ Malan,,0,0,0,,,,31262231262
+2,England,9,EJG Morgan,Iftikhar Ahmed,DJ Malan,,0,1,1,,,,31262231262
+2,England,9,DJ Malan,Iftikhar Ahmed,EJG Morgan,,0,1,1,,,,31262231262
+2,England,9,EJG Morgan,Iftikhar Ahmed,DJ Malan,,0,1,1,,,,31262231262
+2,England,10,EJG Morgan,Haris Rauf,DJ Malan,,0,1,1,,,,31262231262
+2,England,10,DJ Malan,Haris Rauf,EJG Morgan,,0,1,1,,,,31262231262
+2,England,10,EJG Morgan,Haris Rauf,DJ Malan,,0,1,1,,,,31262231262
+2,England,10,DJ Malan,Haris Rauf,EJG Morgan,,0,1,1,,,,31262231262
+2,England,10,EJG Morgan,Haris Rauf,DJ Malan,,0,1,1,,,,31262231262
+2,England,10,DJ Malan,Haris Rauf,EJG Morgan,,0,0,0,,,,31262231262
+2,England,11,EJG Morgan,Iftikhar Ahmed,DJ Malan,,0,6,6,,,,31262231262
+2,England,11,EJG Morgan,Iftikhar Ahmed,DJ Malan,,0,1,1,,,,31262231262
+2,England,11,DJ Malan,Iftikhar Ahmed,EJG Morgan,,0,4,4,,,,31262231262
+2,England,11,DJ Malan,Iftikhar Ahmed,EJG Morgan,,0,2,2,,,,31262231262
+2,England,11,DJ Malan,Iftikhar Ahmed,EJG Morgan,,0,1,1,,,,31262231262
+2,England,11,EJG Morgan,Iftikhar Ahmed,DJ Malan,,0,4,4,,,,31262231262
+2,England,12,DJ Malan,Haris Rauf,EJG Morgan,,0,1,1,,,,31262231262
+2,England,12,EJG Morgan,Haris Rauf,DJ Malan,,0,6,6,,,,31262231262
+2,England,12,EJG Morgan,Haris Rauf,DJ Malan,,0,0,0,,,,31262231262
+2,England,12,EJG Morgan,Haris Rauf,DJ Malan,,0,1,1,,,,31262231262
+2,England,12,DJ Malan,Haris Rauf,EJG Morgan,,0,1,1,,,,31262231262
+2,England,12,EJG Morgan,Haris Rauf,DJ Malan,,0,4,4,,,,31262231262
+2,England,13,DJ Malan,Shadab Khan,EJG Morgan,,0,1,1,,,,31262231262
+2,England,13,EJG Morgan,Shadab Khan,DJ Malan,,0,1,1,,,,31262231262
+2,England,13,DJ Malan,Shadab Khan,EJG Morgan,,0,1,1,,,,31262231262
+2,England,13,EJG Morgan,Shadab Khan,DJ Malan,,0,1,1,,,,31262231262
+2,England,13,DJ Malan,Shadab Khan,EJG Morgan,,0,6,6,,,,31262231262
+2,England,13,DJ Malan,Shadab Khan,EJG Morgan,wides,1,1,0,,,,31262231262
+2,England,13,DJ Malan,Shadab Khan,EJG Morgan,,0,1,1,,,,31262231262
+2,England,14,DJ Malan,Shaheen Shah Afridi,EJG Morgan,,0,1,1,,,,31262231262
+2,England,14,EJG Morgan,Shaheen Shah Afridi,DJ Malan,wides,1,1,0,,,,31262231262
+2,England,14,EJG Morgan,Shaheen Shah Afridi,DJ Malan,,0,6,6,,,,31262231262
+2,England,14,EJG Morgan,Shaheen Shah Afridi,DJ Malan,,0,0,0,,,,31262231262
+2,England,14,EJG Morgan,Shaheen Shah Afridi,DJ Malan,,0,4,4,,,,31262231262
+2,England,14,EJG Morgan,Shaheen Shah Afridi,DJ Malan,,0,4,4,,,,31262231262
+2,England,14,EJG Morgan,Shaheen Shah Afridi,DJ Malan,,0,4,4,,,,31262231262
+2,England,15,DJ Malan,Imad Wasim,EJG Morgan,,0,0,0,,,,31262231262
+2,England,15,DJ Malan,Imad Wasim,EJG Morgan,,0,1,1,,,,31262231262
+2,England,15,EJG Morgan,Imad Wasim,DJ Malan,,0,1,1,,,,31262231262
+2,England,15,DJ Malan,Imad Wasim,EJG Morgan,,0,4,4,,,,31262231262
+2,England,15,DJ Malan,Imad Wasim,EJG Morgan,,0,4,4,,,,31262231262
+2,England,15,DJ Malan,Imad Wasim,EJG Morgan,,0,1,1,,,,31262231262
+2,England,16,DJ Malan,Haris Rauf,EJG Morgan,,0,4,4,,,,31262231262
+2,England,16,DJ Malan,Haris Rauf,EJG Morgan,,0,0,0,,,,31262231262
+2,England,16,DJ Malan,Haris Rauf,EJG Morgan,,0,0,0,,,,31262231262
+2,England,16,DJ Malan,Haris Rauf,EJG Morgan,,0,1,1,,,,31262231262
+2,England,16,EJG Morgan,Haris Rauf,DJ Malan,,0,0,0,caught,EJG Morgan,Khushdil Shah,31262231262
+2,England,16,DJ Malan,Haris Rauf,MM Ali,,0,0,0,,,,31262231262
+2,England,17,MM Ali,Shadab Khan,DJ Malan,,0,1,1,,,,31262231262
+2,England,17,DJ Malan,Shadab Khan,MM Ali,,0,2,2,,,,31262231262
+2,England,17,DJ Malan,Shadab Khan,MM Ali,,0,1,1,,,,31262231262
+2,England,17,MM Ali,Shadab Khan,DJ Malan,,0,0,0,caught,MM Ali,Babar Azam,31262231262
+2,England,17,SW Billings,Shadab Khan,DJ Malan,,0,1,1,,,,31262231262
+2,England,17,DJ Malan,Shadab Khan,SW Billings,,0,1,1,,,,31262231262
+2,England,18,DJ Malan,Haris Rauf,SW Billings,,0,1,1,,,,31262231262
+2,England,18,SW Billings,Haris Rauf,DJ Malan,,0,1,1,,,,31262231262
+2,England,18,DJ Malan,Haris Rauf,SW Billings,,0,1,1,,,,31262231262
+2,England,18,SW Billings,Haris Rauf,DJ Malan,,0,4,4,,,,31262231262
+2,England,18,SW Billings,Haris Rauf,DJ Malan,,0,4,4,,,,31262231262
+2,England,18,SW Billings,Haris Rauf,DJ Malan,,0,0,0,caught,SW Billings,Fakhar Zaman,31262231262
+2,England,19,DJ Malan,Shaheen Shah Afridi,L Gregory,,0,4,4,,,,31262231262

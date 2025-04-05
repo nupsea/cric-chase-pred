@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Bangladesh,0,Mohammad Naim,AJ Turner,Soumya Sarkar,,0,1,1,,,,31580231580
+1,Bangladesh,0,Soumya Sarkar,AJ Turner,Mohammad Naim,,0,0,0,,,,31580231580
+1,Bangladesh,0,Soumya Sarkar,AJ Turner,Mohammad Naim,,0,0,0,,,,31580231580
+1,Bangladesh,0,Soumya Sarkar,AJ Turner,Mohammad Naim,,0,0,0,,,,31580231580
+1,Bangladesh,0,Soumya Sarkar,AJ Turner,Mohammad Naim,,0,0,0,,,,31580231580
+1,Bangladesh,0,Soumya Sarkar,AJ Turner,Mohammad Naim,,0,1,1,,,,31580231580
+1,Bangladesh,1,Soumya Sarkar,JR Hazlewood,Mohammad Naim,,0,0,0,,,,31580231580
+1,Bangladesh,1,Soumya Sarkar,JR Hazlewood,Mohammad Naim,,0,0,0,,,,31580231580
+1,Bangladesh,1,Soumya Sarkar,JR Hazlewood,Mohammad Naim,,0,0,0,,,,31580231580
+1,Bangladesh,1,Soumya Sarkar,JR Hazlewood,Mohammad Naim,,0,0,0,,,,31580231580
+1,Bangladesh,1,Soumya Sarkar,JR Hazlewood,Mohammad Naim,,0,1,1,,,,31580231580
+1,Bangladesh,1,Mohammad Naim,JR Hazlewood,Soumya Sarkar,,0,0,0,caught,Mohammad Naim,MS Wade,31580231580
+1,Bangladesh,2,Soumya Sarkar,A Zampa,Shakib Al Hasan,,0,0,0,lbw,Soumya Sarkar,,31580231580
+1,Bangladesh,2,Mahmudullah,A Zampa,Shakib Al Hasan,,0,0,0,,,,31580231580
+1,Bangladesh,2,Mahmudullah,A Zampa,Shakib Al Hasan,,0,2,2,,,,31580231580
+1,Bangladesh,2,Mahmudullah,A Zampa,Shakib Al Hasan,wides,1,1,0,,,,31580231580
+1,Bangladesh,2,Mahmudullah,A Zampa,Shakib Al Hasan,,0,1,1,,,,31580231580
+1,Bangladesh,2,Shakib Al Hasan,A Zampa,Mahmudullah,,0,1,1,,,,31580231580
+1,Bangladesh,2,Mahmudullah,A Zampa,Shakib Al Hasan,,0,1,1,,,,31580231580
+1,Bangladesh,3,Mahmudullah,JR Hazlewood,Shakib Al Hasan,,0,1,1,,,,31580231580
+1,Bangladesh,3,Shakib Al Hasan,JR Hazlewood,Mahmudullah,legbyes,1,1,0,,,,31580231580
+1,Bangladesh,3,Mahmudullah,JR Hazlewood,Shakib Al Hasan,,0,1,1,,,,31580231580
+1,Bangladesh,3,Shakib Al Hasan,JR Hazlewood,Mahmudullah,,0,0,0,,,,31580231580
+1,Bangladesh,3,Shakib Al Hasan,JR Hazlewood,Mahmudullah,,0,1,1,,,,31580231580
+1,Bangladesh,3,Mahmudullah,JR Hazlewood,Shakib Al Hasan,,0,2,2,,,,31580231580
+1,Bangladesh,4,Shakib Al Hasan,AC Agar,Mahmudullah,,0,4,4,,,,31580231580
+1,Bangladesh,4,Shakib Al Hasan,AC Agar,Mahmudullah,,0,1,1,,,,31580231580
+1,Bangladesh,4,Mahmudullah,AC Agar,Shakib Al Hasan,,0,0,0,,,,31580231580
+1,Bangladesh,4,Mahmudullah,AC Agar,Shakib Al Hasan,,0,0,0,,,,31580231580
+1,Bangladesh,4,Mahmudullah,AC Agar,Shakib Al Hasan,,0,0,0,,,,31580231580
+1,Bangladesh,4,Mahmudullah,AC Agar,Shakib Al Hasan,,0,0,0,,,,31580231580
+1,Bangladesh,5,Shakib Al Hasan,NT Ellis,Mahmudullah,,0,1,1,,,,31580231580
+1,Bangladesh,5,Mahmudullah,NT Ellis,Shakib Al Hasan,,0,0,0,,,,31580231580
+1,Bangladesh,5,Mahmudullah,NT Ellis,Shakib Al Hasan,,0,1,1,,,,31580231580
+1,Bangladesh,5,Shakib Al Hasan,NT Ellis,Mahmudullah,,0,2,2,,,,31580231580
+1,Bangladesh,5,Shakib Al Hasan,NT Ellis,Mahmudullah,,0,0,0,,,,31580231580
+1,Bangladesh,5,Shakib Al Hasan,NT Ellis,Mahmudullah,,0,4,4,,,,31580231580
+1,Bangladesh,6,Mahmudullah,AC Agar,Shakib Al Hasan,,0,0,0,,,,31580231580
+1,Bangladesh,6,Mahmudullah,AC Agar,Shakib Al Hasan,,0,1,1,,,,31580231580
+1,Bangladesh,6,Shakib Al Hasan,AC Agar,Mahmudullah,,0,1,1,,,,31580231580
+1,Bangladesh,6,Mahmudullah,AC Agar,Shakib Al Hasan,,0,0,0,,,,31580231580
+1,Bangladesh,6,Mahmudullah,AC Agar,Shakib Al Hasan,,0,1,1,,,,31580231580
+1,Bangladesh,6,Shakib Al Hasan,AC Agar,Mahmudullah,,0,1,1,,,,31580231580
+1,Bangladesh,7,Shakib Al Hasan,MR Marsh,Mahmudullah,,0,1,1,,,,31580231580
+1,Bangladesh,7,Mahmudullah,MR Marsh,Shakib Al Hasan,,0,4,4,,,,31580231580
+1,Bangladesh,7,Mahmudullah,MR Marsh,Shakib Al Hasan,,0,1,1,,,,31580231580
+1,Bangladesh,7,Shakib Al Hasan,MR Marsh,Mahmudullah,,0,4,4,,,,31580231580
+1,Bangladesh,7,Shakib Al Hasan,MR Marsh,Mahmudullah,,0,4,4,,,,31580231580
+1,Bangladesh,7,Shakib Al Hasan,MR Marsh,Mahmudullah,,0,1,1,,,,31580231580
+1,Bangladesh,8,Shakib Al Hasan,A Zampa,Mahmudullah,,0,0,0,caught,Shakib Al Hasan,AC Agar,31580231580
+1,Bangladesh,8,Mahmudullah,A Zampa,Afif Hossain,,0,1,1,,,,31580231580
+1,Bangladesh,8,Afif Hossain,A Zampa,Mahmudullah,,0,1,1,,,,31580231580
+1,Bangladesh,8,Mahmudullah,A Zampa,Afif Hossain,,0,0,0,,,,31580231580
+1,Bangladesh,8,Mahmudullah,A Zampa,Afif Hossain,,0,1,1,,,,31580231580
+1,Bangladesh,8,Afif Hossain,A Zampa,Mahmudullah,,0,0,0,,,,31580231580
+1,Bangladesh,9,Mahmudullah,AC Agar,Afif Hossain,legbyes,1,1,0,,,,31580231580
+1,Bangladesh,9,Afif Hossain,AC Agar,Mahmudullah,,0,0,0,,,,31580231580
+1,Bangladesh,9,Afif Hossain,AC Agar,Mahmudullah,,0,6,6,,,,31580231580
+1,Bangladesh,9,Afif Hossain,AC Agar,Mahmudullah,wides,1,1,0,,,,31580231580
+1,Bangladesh,9,Afif Hossain,AC Agar,Mahmudullah,,0,0,0,,,,31580231580
+1,Bangladesh,9,Afif Hossain,AC Agar,Mahmudullah,,0,2,2,,,,31580231580
+1,Bangladesh,9,Afif Hossain,AC Agar,Mahmudullah,,0,0,0,,,,31580231580
+1,Bangladesh,10,Mahmudullah,NT Ellis,Afif Hossain,,0,1,1,,,,31580231580
+1,Bangladesh,10,Afif Hossain,NT Ellis,Mahmudullah,,0,1,1,,,,31580231580
+1,Bangladesh,10,Mahmudullah,NT Ellis,Afif Hossain,,0,1,1,,,,31580231580
+1,Bangladesh,10,Afif Hossain,NT Ellis,Mahmudullah,,0,2,2,,,,31580231580
+1,Bangladesh,10,Afif Hossain,NT Ellis,Mahmudullah,,0,4,4,,,,31580231580
+1,Bangladesh,10,Afif Hossain,NT Ellis,Mahmudullah,,0,2,2,,,,31580231580
+1,Bangladesh,11,Mahmudullah,DT Christian,Afif Hossain,,0,0,0,,,,31580231580
+1,Bangladesh,11,Mahmudullah,DT Christian,Afif Hossain,,0,2,2,,,,31580231580
+1,Bangladesh,11,Mahmudullah,DT Christian,Afif Hossain,,0,1,1,,,,31580231580
+1,Bangladesh,11,Afif Hossain,DT Christian,Mahmudullah,,0,1,1,,,,31580231580
+1,Bangladesh,11,Mahmudullah,DT Christian,Afif Hossain,legbyes,1,1,0,,,,31580231580
+1,Bangladesh,11,Afif Hossain,DT Christian,Mahmudullah,,0,0,0,run out,Afif Hossain,AT Carey,31580231580
+1,Bangladesh,12,Shamim Hossain,A Zampa,Mahmudullah,,0,0,0,,,,31580231580
+1,Bangladesh,12,Shamim Hossain,A Zampa,Mahmudullah,,0,0,0,,,,31580231580
+1,Bangladesh,12,Shamim Hossain,A Zampa,Mahmudullah,,0,1,1,,,,31580231580
+1,Bangladesh,12,Mahmudullah,A Zampa,Shamim Hossain,,0,1,1,,,,31580231580
+1,Bangladesh,12,Shamim Hossain,A Zampa,Mahmudullah,,0,0,0,,,,31580231580
+1,Bangladesh,12,Shamim Hossain,A Zampa,Mahmudullah,,0,1,1,,,,31580231580
+1,Bangladesh,13,Shamim Hossain,JR Hazlewood,Mahmudullah,,0,1,1,,,,31580231580
+1,Bangladesh,13,Mahmudullah,JR Hazlewood,Shamim Hossain,,0,1,1,,,,31580231580
+1,Bangladesh,13,Shamim Hossain,JR Hazlewood,Mahmudullah,,0,0,0,,,,31580231580
+1,Bangladesh,13,Shamim Hossain,JR Hazlewood,Mahmudullah,,0,0,0,caught,Shamim Hossain,BR McDermott,31580231580
+1,Bangladesh,13,Mahmudullah,JR Hazlewood,Nurul Hasan,,0,0,0,,,,31580231580
+1,Bangladesh,13,Mahmudullah,JR Hazlewood,Nurul Hasan,,0,0,0,,,,31580231580
+1,Bangladesh,14,Nurul Hasan,A Zampa,Mahmudullah,,0,1,1,,,,31580231580
+1,Bangladesh,14,Mahmudullah,A Zampa,Nurul Hasan,,0,1,1,,,,31580231580
+1,Bangladesh,14,Nurul Hasan,A Zampa,Mahmudullah,,0,3,3,,,,31580231580
+1,Bangladesh,14,Mahmudullah,A Zampa,Nurul Hasan,,0,1,1,,,,31580231580
+1,Bangladesh,14,Nurul Hasan,A Zampa,Mahmudullah,,0,6,6,,,,31580231580
+1,Bangladesh,14,Nurul Hasan,A Zampa,Mahmudullah,,0,0,0,,,,31580231580
+1,Bangladesh,15,Mahmudullah,DT Christian,Nurul Hasan,,0,1,1,,,,31580231580
+1,Bangladesh,15,Nurul Hasan,DT Christian,Mahmudullah,,0,1,1,,,,31580231580
+1,Bangladesh,15,Mahmudullah,DT Christian,Nurul Hasan,,0,2,2,,,,31580231580
+1,Bangladesh,15,Mahmudullah,DT Christian,Nurul Hasan,,0,0,0,run out,Nurul Hasan,MC Henriques,31580231580
+1,Bangladesh,15,Mahedi Hasan,DT Christian,Mahmudullah,,0,0,0,,,,31580231580
+1,Bangladesh,15,Mahedi Hasan,DT Christian,Mahmudullah,,0,1,1,,,,31580231580
+1,Bangladesh,16,Mahedi Hasan,AC Agar,Mahmudullah,,0,1,1,,,,31580231580
+1,Bangladesh,16,Mahmudullah,AC Agar,Mahedi Hasan,,0,2,2,,,,31580231580
+1,Bangladesh,16,Mahmudullah,AC Agar,Mahedi Hasan,,0,1,1,,,,31580231580
+1,Bangladesh,16,Mahedi Hasan,AC Agar,Mahmudullah,legbyes,1,1,0,,,,31580231580
+1,Bangladesh,16,Mahmudullah,AC Agar,Mahedi Hasan,,0,1,1,,,,31580231580
+1,Bangladesh,16,Mahedi Hasan,AC Agar,Mahmudullah,,0,0,0,,,,31580231580
+1,Bangladesh,17,Mahmudullah,NT Ellis,Mahedi Hasan,,0,2,2,,,,31580231580
+1,Bangladesh,17,Mahmudullah,NT Ellis,Mahedi Hasan,,0,0,0,,,,31580231580
+1,Bangladesh,17,Mahmudullah,NT Ellis,Mahedi Hasan,,0,1,1,,,,31580231580
+1,Bangladesh,17,Mahedi Hasan,NT Ellis,Mahmudullah,,0,1,1,,,,31580231580
+1,Bangladesh,17,Mahmudullah,NT Ellis,Mahedi Hasan,,0,2,2,,,,31580231580
+1,Bangladesh,17,Mahmudullah,NT Ellis,Mahedi Hasan,,0,4,4,,,,31580231580
+1,Bangladesh,18,Mahedi Hasan,JR Hazlewood,Mahmudullah,,0,1,1,,,,31580231580
+1,Bangladesh,18,Mahmudullah,JR Hazlewood,Mahedi Hasan,noballs,1,1,0,,,,31580231580
+1,Bangladesh,18,Mahmudullah,JR Hazlewood,Mahedi Hasan,,0,1,1,,,,31580231580
+1,Bangladesh,18,Mahedi Hasan,JR Hazlewood,Mahmudullah,,0,1,1,,,,31580231580
+1,Bangladesh,18,Mahmudullah,JR Hazlewood,Mahedi Hasan,,0,0,0,,,,31580231580
+1,Bangladesh,18,Mahmudullah,JR Hazlewood,Mahedi Hasan,,0,4,4,,,,31580231580
+1,Bangladesh,18,Mahmudullah,JR Hazlewood,Mahedi Hasan,,0,0,0,,,,31580231580
+1,Bangladesh,19,Mahedi Hasan,NT Ellis,Mahmudullah,,0,0,0,,,,31580231580
+1,Bangladesh,19,Mahedi Hasan,NT Ellis,Mahmudullah,,0,1,1,,,,31580231580
+1,Bangladesh,19,Mahmudullah,NT Ellis,Mahedi Hasan,,0,4,4,,,,31580231580
+1,Bangladesh,19,Mahmudullah,NT Ellis,Mahedi Hasan,,0,0,0,bowled,Mahmudullah,,31580231580
+1,Bangladesh,19,Mustafizur Rahman,NT Ellis,Mahedi Hasan,,0,0,0,caught,Mustafizur Rahman,MR Marsh,31580231580
+1,Bangladesh,19,Mahedi Hasan,NT Ellis,Shoriful Islam,,0,0,0,caught,Mahedi Hasan,AC Agar,31580231580

@@ -1,0 +1,109 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Namibia,0,SA Wittmann,J Nkomo,JA Diergaardt,,0,1,1,,,,32008232008
+1,Namibia,0,JA Diergaardt,J Nkomo,SA Wittmann,,0,0,0,,,,32008232008
+1,Namibia,0,JA Diergaardt,J Nkomo,SA Wittmann,,0,2,2,,,,32008232008
+1,Namibia,0,JA Diergaardt,J Nkomo,SA Wittmann,,0,1,1,,,,32008232008
+1,Namibia,0,SA Wittmann,J Nkomo,JA Diergaardt,,0,0,0,,,,32008232008
+1,Namibia,0,SA Wittmann,J Nkomo,JA Diergaardt,,0,1,1,,,,32008232008
+1,Namibia,1,SA Wittmann,N Sibanda,JA Diergaardt,,0,0,0,,,,32008232008
+1,Namibia,1,SA Wittmann,N Sibanda,JA Diergaardt,,0,1,1,,,,32008232008
+1,Namibia,1,JA Diergaardt,N Sibanda,SA Wittmann,,0,0,0,,,,32008232008
+1,Namibia,1,JA Diergaardt,N Sibanda,SA Wittmann,,0,0,0,,,,32008232008
+1,Namibia,1,JA Diergaardt,N Sibanda,SA Wittmann,,0,4,4,,,,32008232008
+1,Namibia,1,JA Diergaardt,N Sibanda,SA Wittmann,,0,0,0,,,,32008232008
+1,Namibia,2,SA Wittmann,J Nkomo,JA Diergaardt,,0,0,0,,,,32008232008
+1,Namibia,2,SA Wittmann,J Nkomo,JA Diergaardt,,0,0,0,,,,32008232008
+1,Namibia,2,SA Wittmann,J Nkomo,JA Diergaardt,,0,0,0,caught,SA Wittmann,M Mupachikwa,32008232008
+1,Namibia,2,JA Diergaardt,J Nkomo,A van der Merwe,,0,0,0,,,,32008232008
+1,Namibia,2,JA Diergaardt,J Nkomo,A van der Merwe,,0,0,0,,,,32008232008
+1,Namibia,2,JA Diergaardt,J Nkomo,A van der Merwe,,0,0,0,,,,32008232008
+1,Namibia,3,A van der Merwe,N Sibanda,JA Diergaardt,,0,0,0,lbw,A van der Merwe,,32008232008
+1,Namibia,3,Yasmeen Khan,N Sibanda,JA Diergaardt,,0,0,0,,,,32008232008
+1,Namibia,3,Yasmeen Khan,N Sibanda,JA Diergaardt,,0,0,0,,,,32008232008
+1,Namibia,3,Yasmeen Khan,N Sibanda,JA Diergaardt,,0,0,0,,,,32008232008
+1,Namibia,3,Yasmeen Khan,N Sibanda,JA Diergaardt,,0,0,0,,,,32008232008
+1,Namibia,3,Yasmeen Khan,N Sibanda,JA Diergaardt,,0,0,0,,,,32008232008
+1,Namibia,4,JA Diergaardt,F Chipare,Yasmeen Khan,,0,0,0,,,,32008232008
+1,Namibia,4,JA Diergaardt,F Chipare,Yasmeen Khan,,0,1,1,,,,32008232008
+1,Namibia,4,Yasmeen Khan,F Chipare,JA Diergaardt,wides,1,1,0,,,,32008232008
+1,Namibia,4,Yasmeen Khan,F Chipare,JA Diergaardt,,0,0,0,,,,32008232008
+1,Namibia,4,Yasmeen Khan,F Chipare,JA Diergaardt,,0,0,0,,,,32008232008
+1,Namibia,4,Yasmeen Khan,F Chipare,JA Diergaardt,,0,0,0,,,,32008232008
+1,Namibia,4,Yasmeen Khan,F Chipare,JA Diergaardt,,0,0,0,,,,32008232008
+1,Namibia,5,JA Diergaardt,P Marange,Yasmeen Khan,wides,1,1,0,,,,32008232008
+1,Namibia,5,JA Diergaardt,P Marange,Yasmeen Khan,,0,1,1,,,,32008232008
+1,Namibia,5,Yasmeen Khan,P Marange,JA Diergaardt,,0,0,0,,,,32008232008
+1,Namibia,5,Yasmeen Khan,P Marange,JA Diergaardt,,0,0,0,,,,32008232008
+1,Namibia,5,Yasmeen Khan,P Marange,JA Diergaardt,,0,1,1,,,,32008232008
+1,Namibia,5,JA Diergaardt,P Marange,Yasmeen Khan,,0,0,0,,,,32008232008
+1,Namibia,5,JA Diergaardt,P Marange,Yasmeen Khan,,0,0,0,,,,32008232008
+1,Namibia,6,Yasmeen Khan,F Chipare,JA Diergaardt,wides,1,1,0,,,,32008232008
+1,Namibia,6,Yasmeen Khan,F Chipare,JA Diergaardt,,0,1,1,,,,32008232008
+1,Namibia,6,JA Diergaardt,F Chipare,Yasmeen Khan,,0,0,0,,,,32008232008
+1,Namibia,6,JA Diergaardt,F Chipare,Yasmeen Khan,,0,0,0,,,,32008232008
+1,Namibia,6,JA Diergaardt,F Chipare,Yasmeen Khan,,0,0,0,bowled,JA Diergaardt,,32008232008
+1,Namibia,6,KA Green,F Chipare,Yasmeen Khan,,0,0,0,,,,32008232008
+1,Namibia,6,KA Green,F Chipare,Yasmeen Khan,,0,0,0,,,,32008232008
+1,Namibia,7,Yasmeen Khan,P Marange,KA Green,,0,1,1,,,,32008232008
+1,Namibia,7,KA Green,P Marange,Yasmeen Khan,,0,0,0,,,,32008232008
+1,Namibia,7,KA Green,P Marange,Yasmeen Khan,,0,0,0,bowled,KA Green,,32008232008
+1,Namibia,7,W Mwatile,P Marange,Yasmeen Khan,,0,0,0,,,,32008232008
+1,Namibia,7,W Mwatile,P Marange,Yasmeen Khan,,0,0,0,,,,32008232008
+1,Namibia,7,W Mwatile,P Marange,Yasmeen Khan,,0,0,0,,,,32008232008
+1,Namibia,8,Yasmeen Khan,AC Mushangwe,W Mwatile,,0,0,0,,,,32008232008
+1,Namibia,8,Yasmeen Khan,AC Mushangwe,W Mwatile,,0,0,0,,,,32008232008
+1,Namibia,8,Yasmeen Khan,AC Mushangwe,W Mwatile,,0,0,0,,,,32008232008
+1,Namibia,8,Yasmeen Khan,AC Mushangwe,W Mwatile,,0,0,0,,,,32008232008
+1,Namibia,8,Yasmeen Khan,AC Mushangwe,W Mwatile,,0,1,1,,,,32008232008
+1,Namibia,8,W Mwatile,AC Mushangwe,Yasmeen Khan,,0,0,0,,,,32008232008
+1,Namibia,9,Yasmeen Khan,L Phiri,W Mwatile,,0,1,1,,,,32008232008
+1,Namibia,9,W Mwatile,L Phiri,Yasmeen Khan,,0,0,0,,,,32008232008
+1,Namibia,9,W Mwatile,L Phiri,Yasmeen Khan,,0,1,1,,,,32008232008
+1,Namibia,9,Yasmeen Khan,L Phiri,W Mwatile,,0,0,0,,,,32008232008
+1,Namibia,9,Yasmeen Khan,L Phiri,W Mwatile,,0,0,0,,,,32008232008
+1,Namibia,9,Yasmeen Khan,L Phiri,W Mwatile,,0,0,0,,,,32008232008
+1,Namibia,10,W Mwatile,AC Mushangwe,Yasmeen Khan,,0,1,1,,,,32008232008
+1,Namibia,10,Yasmeen Khan,AC Mushangwe,W Mwatile,,0,0,0,stumped,Yasmeen Khan,M Mupachikwa,32008232008
+1,Namibia,10,I van Zyl,AC Mushangwe,W Mwatile,,0,0,0,,,,32008232008
+1,Namibia,10,I van Zyl,AC Mushangwe,W Mwatile,,0,1,1,,,,32008232008
+1,Namibia,10,W Mwatile,AC Mushangwe,I van Zyl,,0,1,1,,,,32008232008
+1,Namibia,10,I van Zyl,AC Mushangwe,W Mwatile,,0,0,0,,,,32008232008
+1,Namibia,10,I van Zyl,AC Mushangwe,W Mwatile,,0,1,1,,,,32008232008
+1,Namibia,11,I van Zyl,L Phiri,W Mwatile,,0,1,1,,,,32008232008
+1,Namibia,11,W Mwatile,L Phiri,I van Zyl,,0,0,0,,,,32008232008
+1,Namibia,11,W Mwatile,L Phiri,I van Zyl,,0,0,0,bowled,W Mwatile,,32008232008
+1,Namibia,11,E Van Zyl,L Phiri,I van Zyl,,0,0,0,,,,32008232008
+1,Namibia,11,E Van Zyl,L Phiri,I van Zyl,,0,0,0,,,,32008232008
+1,Namibia,11,E Van Zyl,L Phiri,I van Zyl,,0,0,0,,,,32008232008
+1,Namibia,12,I van Zyl,N Sibanda,E Van Zyl,,0,1,1,,,,32008232008
+1,Namibia,12,E Van Zyl,N Sibanda,I van Zyl,,0,0,0,,,,32008232008
+1,Namibia,12,E Van Zyl,N Sibanda,I van Zyl,,0,0,0,,,,32008232008
+1,Namibia,12,E Van Zyl,N Sibanda,I van Zyl,,0,2,2,,,,32008232008
+1,Namibia,12,E Van Zyl,N Sibanda,I van Zyl,,0,1,1,,,,32008232008
+1,Namibia,12,I van Zyl,N Sibanda,E Van Zyl,,0,0,0,,,,32008232008
+1,Namibia,13,E Van Zyl,L Phiri,I van Zyl,,0,1,1,,,,32008232008
+1,Namibia,13,I van Zyl,L Phiri,E Van Zyl,,0,0,0,,,,32008232008
+1,Namibia,13,I van Zyl,L Phiri,E Van Zyl,,0,0,0,,,,32008232008
+1,Namibia,13,I van Zyl,L Phiri,E Van Zyl,,0,0,0,,,,32008232008
+1,Namibia,13,I van Zyl,L Phiri,E Van Zyl,,0,0,0,,,,32008232008
+1,Namibia,13,I van Zyl,L Phiri,E Van Zyl,,0,0,0,,,,32008232008
+1,Namibia,14,E Van Zyl,P Marange,I van Zyl,,0,2,2,,,,32008232008
+1,Namibia,14,E Van Zyl,P Marange,I van Zyl,,0,0,0,,,,32008232008
+1,Namibia,14,E Van Zyl,P Marange,I van Zyl,,0,1,1,,,,32008232008
+1,Namibia,14,I van Zyl,P Marange,E Van Zyl,,0,1,1,,,,32008232008
+1,Namibia,14,E Van Zyl,P Marange,I van Zyl,,0,1,1,,,,32008232008
+1,Namibia,14,I van Zyl,P Marange,E Van Zyl,,0,1,1,,,,32008232008
+1,Namibia,15,I van Zyl,AC Mushangwe,E Van Zyl,,0,0,0,,,,32008232008
+1,Namibia,15,I van Zyl,AC Mushangwe,E Van Zyl,,0,0,0,,,,32008232008
+1,Namibia,15,I van Zyl,AC Mushangwe,E Van Zyl,,0,0,0,bowled,I van Zyl,,32008232008
+1,Namibia,15,M Mwatile,AC Mushangwe,E Van Zyl,,0,0,0,,,,32008232008
+1,Namibia,15,M Mwatile,AC Mushangwe,E Van Zyl,,0,1,1,,,,32008232008
+1,Namibia,15,E Van Zyl,AC Mushangwe,M Mwatile,,0,1,1,,,,32008232008
+1,Namibia,16,E Van Zyl,J Nkomo,M Mwatile,,0,0,0,,,,32008232008
+1,Namibia,16,E Van Zyl,J Nkomo,M Mwatile,,0,0,0,,,,32008232008
+1,Namibia,16,E Van Zyl,J Nkomo,M Mwatile,,0,0,0,bowled,E Van Zyl,,32008232008
+1,Namibia,16,SN Shihepo,J Nkomo,M Mwatile,wides,1,1,0,,,,32008232008
+1,Namibia,16,SN Shihepo,J Nkomo,M Mwatile,,0,0,0,,,,32008232008
+1,Namibia,16,SN Shihepo,J Nkomo,M Mwatile,,0,0,0,bowled,SN Shihepo,,32008232008
+1,Namibia,16,V Hamunyela,J Nkomo,M Mwatile,wides,1,1,0,,,,32008232008
+1,Namibia,16,V Hamunyela,J Nkomo,M Mwatile,,0,0,0,caught,V Hamunyela,M Mupachikwa,32008232008

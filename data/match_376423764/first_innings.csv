@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,India,0,RG Sharma,MJ Santner,S Dhawan,,0,0,0,,,,376423764
+1,India,0,RG Sharma,MJ Santner,S Dhawan,,0,0,0,,,,376423764
+1,India,0,RG Sharma,MJ Santner,S Dhawan,,0,1,1,,,,376423764
+1,India,0,S Dhawan,MJ Santner,RG Sharma,,0,0,0,,,,376423764
+1,India,0,S Dhawan,MJ Santner,RG Sharma,legbyes,1,1,0,,,,376423764
+1,India,0,RG Sharma,MJ Santner,S Dhawan,,0,0,0,,,,376423764
+1,India,1,S Dhawan,TA Boult,RG Sharma,,0,0,0,,,,376423764
+1,India,1,S Dhawan,TA Boult,RG Sharma,,0,4,4,,,,376423764
+1,India,1,S Dhawan,TA Boult,RG Sharma,,0,4,4,,,,376423764
+1,India,1,S Dhawan,TA Boult,RG Sharma,,0,0,0,,,,376423764
+1,India,1,S Dhawan,TA Boult,RG Sharma,,0,2,2,,,,376423764
+1,India,1,S Dhawan,TA Boult,RG Sharma,,0,1,1,,,,376423764
+1,India,2,S Dhawan,TG Southee,RG Sharma,,0,0,0,,,,376423764
+1,India,2,S Dhawan,TG Southee,RG Sharma,,0,1,1,,,,376423764
+1,India,2,RG Sharma,TG Southee,S Dhawan,,0,6,6,,,,376423764
+1,India,2,RG Sharma,TG Southee,S Dhawan,,0,1,1,,,,376423764
+1,India,2,S Dhawan,TG Southee,RG Sharma,,0,0,0,,,,376423764
+1,India,2,S Dhawan,TG Southee,RG Sharma,,0,0,0,,,,376423764
+1,India,3,RG Sharma,TA Boult,S Dhawan,,0,0,0,,,,376423764
+1,India,3,RG Sharma,TA Boult,S Dhawan,,0,1,1,,,,376423764
+1,India,3,S Dhawan,TA Boult,RG Sharma,,0,4,4,,,,376423764
+1,India,3,S Dhawan,TA Boult,RG Sharma,,0,0,0,,,,376423764
+1,India,3,S Dhawan,TA Boult,RG Sharma,,0,4,4,,,,376423764
+1,India,3,S Dhawan,TA Boult,RG Sharma,,0,0,0,,,,376423764
+1,India,4,RG Sharma,TG Southee,S Dhawan,,0,1,1,,,,376423764
+1,India,4,S Dhawan,TG Southee,RG Sharma,wides,1,1,0,,,,376423764
+1,India,4,S Dhawan,TG Southee,RG Sharma,,0,4,4,,,,376423764
+1,India,4,S Dhawan,TG Southee,RG Sharma,,0,1,1,,,,376423764
+1,India,4,RG Sharma,TG Southee,S Dhawan,,0,0,0,,,,376423764
+1,India,4,RG Sharma,TG Southee,S Dhawan,,0,1,1,,,,376423764
+1,India,4,S Dhawan,TG Southee,RG Sharma,,0,0,0,,,,376423764
+1,India,5,RG Sharma,MJ Santner,S Dhawan,,0,0,0,,,,376423764
+1,India,5,RG Sharma,MJ Santner,S Dhawan,,0,1,1,,,,376423764
+1,India,5,S Dhawan,MJ Santner,RG Sharma,,0,2,2,,,,376423764
+1,India,5,S Dhawan,MJ Santner,RG Sharma,,0,1,1,,,,376423764
+1,India,5,RG Sharma,MJ Santner,S Dhawan,,0,0,0,,,,376423764
+1,India,5,RG Sharma,MJ Santner,S Dhawan,,0,4,4,,,,376423764
+1,India,6,S Dhawan,C de Grandhomme,RG Sharma,,0,1,1,,,,376423764
+1,India,6,RG Sharma,C de Grandhomme,S Dhawan,,0,0,0,,,,376423764
+1,India,6,RG Sharma,C de Grandhomme,S Dhawan,,0,1,1,,,,376423764
+1,India,6,S Dhawan,C de Grandhomme,RG Sharma,,0,4,4,,,,376423764
+1,India,6,S Dhawan,C de Grandhomme,RG Sharma,,0,0,0,,,,376423764
+1,India,6,S Dhawan,C de Grandhomme,RG Sharma,,0,1,1,,,,376423764
+1,India,7,S Dhawan,IS Sodhi,RG Sharma,,0,1,1,,,,376423764
+1,India,7,RG Sharma,IS Sodhi,S Dhawan,,0,0,0,,,,376423764
+1,India,7,RG Sharma,IS Sodhi,S Dhawan,,0,0,0,,,,376423764
+1,India,7,RG Sharma,IS Sodhi,S Dhawan,,0,1,1,,,,376423764
+1,India,7,S Dhawan,IS Sodhi,RG Sharma,,0,1,1,,,,376423764
+1,India,7,RG Sharma,IS Sodhi,S Dhawan,,0,0,0,,,,376423764
+1,India,8,S Dhawan,C de Grandhomme,RG Sharma,,0,2,2,,,,376423764
+1,India,8,S Dhawan,C de Grandhomme,RG Sharma,,0,1,1,,,,376423764
+1,India,8,RG Sharma,C de Grandhomme,S Dhawan,,0,1,1,,,,376423764
+1,India,8,S Dhawan,C de Grandhomme,RG Sharma,,0,1,1,,,,376423764
+1,India,8,RG Sharma,C de Grandhomme,S Dhawan,noballs,5,5,0,,,,376423764
+1,India,8,RG Sharma,C de Grandhomme,S Dhawan,,0,2,2,,,,376423764
+1,India,8,RG Sharma,C de Grandhomme,S Dhawan,noballs,1,2,1,,,,376423764
+1,India,8,S Dhawan,C de Grandhomme,RG Sharma,,0,4,4,,,,376423764
+1,India,9,RG Sharma,IS Sodhi,S Dhawan,,0,1,1,,,,376423764
+1,India,9,S Dhawan,IS Sodhi,RG Sharma,,0,1,1,,,,376423764
+1,India,9,RG Sharma,IS Sodhi,S Dhawan,,0,1,1,,,,376423764
+1,India,9,S Dhawan,IS Sodhi,RG Sharma,,0,1,1,,,,376423764
+1,India,9,RG Sharma,IS Sodhi,S Dhawan,,0,1,1,,,,376423764
+1,India,9,S Dhawan,IS Sodhi,RG Sharma,,0,1,1,,,,376423764
+1,India,10,S Dhawan,C Munro,RG Sharma,,0,1,1,,,,376423764
+1,India,10,RG Sharma,C Munro,S Dhawan,,0,6,6,,,,376423764
+1,India,10,RG Sharma,C Munro,S Dhawan,,0,1,1,,,,376423764
+1,India,10,S Dhawan,C Munro,RG Sharma,,0,1,1,,,,376423764
+1,India,10,RG Sharma,C Munro,S Dhawan,,0,4,4,,,,376423764
+1,India,10,RG Sharma,C Munro,S Dhawan,,0,1,1,,,,376423764
+1,India,11,RG Sharma,MJ Santner,S Dhawan,,0,1,1,,,,376423764
+1,India,11,S Dhawan,MJ Santner,RG Sharma,,0,1,1,,,,376423764
+1,India,11,RG Sharma,MJ Santner,S Dhawan,,0,1,1,,,,376423764
+1,India,11,S Dhawan,MJ Santner,RG Sharma,,0,1,1,,,,376423764
+1,India,11,RG Sharma,MJ Santner,S Dhawan,,0,1,1,,,,376423764
+1,India,11,S Dhawan,MJ Santner,RG Sharma,,0,1,1,,,,376423764
+1,India,12,S Dhawan,IS Sodhi,RG Sharma,,0,6,6,,,,376423764
+1,India,12,S Dhawan,IS Sodhi,RG Sharma,,0,4,4,,,,376423764
+1,India,12,S Dhawan,IS Sodhi,RG Sharma,,0,0,0,,,,376423764
+1,India,12,S Dhawan,IS Sodhi,RG Sharma,,0,1,1,,,,376423764
+1,India,12,RG Sharma,IS Sodhi,S Dhawan,,0,2,2,,,,376423764
+1,India,12,RG Sharma,IS Sodhi,S Dhawan,,0,1,1,,,,376423764
+1,India,13,RG Sharma,TG Southee,S Dhawan,,0,1,1,,,,376423764
+1,India,13,S Dhawan,TG Southee,RG Sharma,,0,1,1,,,,376423764
+1,India,13,RG Sharma,TG Southee,S Dhawan,,0,1,1,,,,376423764
+1,India,13,S Dhawan,TG Southee,RG Sharma,,0,1,1,,,,376423764
+1,India,13,RG Sharma,TG Southee,S Dhawan,,0,1,1,,,,376423764
+1,India,13,S Dhawan,TG Southee,RG Sharma,,0,6,6,,,,376423764
+1,India,14,RG Sharma,MJ Santner,S Dhawan,,0,0,0,,,,376423764
+1,India,14,RG Sharma,MJ Santner,S Dhawan,,0,6,6,,,,376423764
+1,India,14,RG Sharma,MJ Santner,S Dhawan,,0,4,4,,,,376423764
+1,India,14,RG Sharma,MJ Santner,S Dhawan,,0,4,4,,,,376423764
+1,India,14,RG Sharma,MJ Santner,S Dhawan,,0,1,1,,,,376423764
+1,India,14,S Dhawan,MJ Santner,RG Sharma,,0,0,0,,,,376423764
+1,India,15,RG Sharma,TA Boult,S Dhawan,,0,6,6,,,,376423764
+1,India,15,RG Sharma,TA Boult,S Dhawan,,0,1,1,,,,376423764
+1,India,15,S Dhawan,TA Boult,RG Sharma,,0,4,4,,,,376423764
+1,India,15,S Dhawan,TA Boult,RG Sharma,,0,4,4,,,,376423764
+1,India,15,S Dhawan,TA Boult,RG Sharma,,0,1,1,,,,376423764
+1,India,15,RG Sharma,TA Boult,S Dhawan,,0,2,2,,,,376423764
+1,India,16,S Dhawan,IS Sodhi,RG Sharma,,0,0,0,,,,376423764
+1,India,16,S Dhawan,IS Sodhi,RG Sharma,,0,0,0,caught,S Dhawan,TWM Latham,376423764
+1,India,16,HH Pandya,IS Sodhi,RG Sharma,,0,0,0,,,,376423764
+1,India,16,HH Pandya,IS Sodhi,RG Sharma,,0,0,0,caught,HH Pandya,TWM Latham,376423764
+1,India,16,V Kohli,IS Sodhi,RG Sharma,,0,1,1,,,,376423764
+1,India,16,RG Sharma,IS Sodhi,V Kohli,,0,1,1,,,,376423764
+1,India,17,RG Sharma,C de Grandhomme,V Kohli,,0,4,4,,,,376423764
+1,India,17,RG Sharma,C de Grandhomme,V Kohli,byes,1,1,0,,,,376423764
+1,India,17,V Kohli,C de Grandhomme,RG Sharma,,0,6,6,,,,376423764
+1,India,17,V Kohli,C de Grandhomme,RG Sharma,,0,1,1,,,,376423764
+1,India,17,RG Sharma,C de Grandhomme,V Kohli,,0,1,1,,,,376423764
+1,India,17,V Kohli,C de Grandhomme,RG Sharma,,0,1,1,,,,376423764
+1,India,18,V Kohli,TA Boult,RG Sharma,,0,0,0,,,,376423764
+1,India,18,V Kohli,TA Boult,RG Sharma,,0,6,6,,,,376423764
+1,India,18,V Kohli,TA Boult,RG Sharma,,0,1,1,,,,376423764
+1,India,18,RG Sharma,TA Boult,V Kohli,,0,0,0,,,,376423764
+1,India,18,RG Sharma,TA Boult,V Kohli,,0,4,4,,,,376423764
+1,India,18,RG Sharma,TA Boult,V Kohli,,0,0,0,caught,RG Sharma,TWM Latham,376423764
+1,India,19,V Kohli,TG Southee,MS Dhoni,,0,6,6,,,,376423764
+1,India,19,V Kohli,TG Southee,MS Dhoni,,0,1,1,,,,376423764
+1,India,19,MS Dhoni,TG Southee,V Kohli,,0,6,6,,,,376423764
+1,India,19,MS Dhoni,TG Southee,V Kohli,,0,1,1,,,,376423764
+1,India,19,V Kohli,TG Southee,MS Dhoni,,0,2,2,,,,376423764
+1,India,19,V Kohli,TG Southee,MS Dhoni,,0,1,1,,,,376423764

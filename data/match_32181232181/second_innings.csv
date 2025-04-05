@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Uganda,0,RG Mukasa,Aizaz Khan,S Sesazi,,0,1,1,,,,32181232181
+2,Uganda,0,S Sesazi,Aizaz Khan,RG Mukasa,,0,0,0,lbw,S Sesazi,,32181232181
+2,Uganda,0,RB Patel,Aizaz Khan,RG Mukasa,,0,4,4,,,,32181232181
+2,Uganda,0,RB Patel,Aizaz Khan,RG Mukasa,,0,2,2,,,,32181232181
+2,Uganda,0,RB Patel,Aizaz Khan,RG Mukasa,,0,0,0,,,,32181232181
+2,Uganda,0,RB Patel,Aizaz Khan,RG Mukasa,,0,4,4,,,,32181232181
+2,Uganda,1,RG Mukasa,Ehsan Khan,RB Patel,,0,0,0,,,,32181232181
+2,Uganda,1,RG Mukasa,Ehsan Khan,RB Patel,,0,1,1,,,,32181232181
+2,Uganda,1,RB Patel,Ehsan Khan,RG Mukasa,wides,1,1,0,,,,32181232181
+2,Uganda,1,RB Patel,Ehsan Khan,RG Mukasa,,0,4,4,,,,32181232181
+2,Uganda,1,RB Patel,Ehsan Khan,RG Mukasa,,0,0,0,,,,32181232181
+2,Uganda,1,RB Patel,Ehsan Khan,RG Mukasa,,0,0,0,,,,32181232181
+2,Uganda,1,RB Patel,Ehsan Khan,RG Mukasa,,0,0,0,,,,32181232181
+2,Uganda,2,RG Mukasa,Aizaz Khan,RB Patel,,0,4,4,,,,32181232181
+2,Uganda,2,RG Mukasa,Aizaz Khan,RB Patel,,0,0,0,,,,32181232181
+2,Uganda,2,RG Mukasa,Aizaz Khan,RB Patel,,0,0,0,,,,32181232181
+2,Uganda,2,RG Mukasa,Aizaz Khan,RB Patel,wides,1,1,0,,,,32181232181
+2,Uganda,2,RG Mukasa,Aizaz Khan,RB Patel,,0,0,0,bowled,RG Mukasa,,32181232181
+2,Uganda,2,K Waiswa,Aizaz Khan,RB Patel,wides,1,1,0,,,,32181232181
+2,Uganda,2,K Waiswa,Aizaz Khan,RB Patel,,0,0,0,bowled,K Waiswa,,32181232181
+2,Uganda,2,Riazat Ali Shah,Aizaz Khan,RB Patel,wides,1,1,0,,,,32181232181
+2,Uganda,2,Riazat Ali Shah,Aizaz Khan,RB Patel,,0,0,0,,,,32181232181
+2,Uganda,3,RB Patel,Yasim Murtaza,Riazat Ali Shah,,0,0,0,,,,32181232181
+2,Uganda,3,RB Patel,Yasim Murtaza,Riazat Ali Shah,,0,0,0,,,,32181232181
+2,Uganda,3,RB Patel,Yasim Murtaza,Riazat Ali Shah,,0,0,0,,,,32181232181
+2,Uganda,3,RB Patel,Yasim Murtaza,Riazat Ali Shah,,0,1,1,,,,32181232181
+2,Uganda,3,Riazat Ali Shah,Yasim Murtaza,RB Patel,,0,0,0,,,,32181232181
+2,Uganda,3,Riazat Ali Shah,Yasim Murtaza,RB Patel,,0,0,0,,,,32181232181
+2,Uganda,4,RB Patel,Aizaz Khan,Riazat Ali Shah,,0,0,0,,,,32181232181
+2,Uganda,4,RB Patel,Aizaz Khan,Riazat Ali Shah,,0,0,0,,,,32181232181
+2,Uganda,4,RB Patel,Aizaz Khan,Riazat Ali Shah,,0,0,0,,,,32181232181
+2,Uganda,4,RB Patel,Aizaz Khan,Riazat Ali Shah,,0,0,0,,,,32181232181
+2,Uganda,4,RB Patel,Aizaz Khan,Riazat Ali Shah,,0,1,1,run out,RB Patel,Shahid Wasif,32181232181
+2,Uganda,4,DM Nakrani,Aizaz Khan,Riazat Ali Shah,,0,0,0,,,,32181232181
+2,Uganda,5,Riazat Ali Shah,Yasim Murtaza,DM Nakrani,,0,0,0,,,,32181232181
+2,Uganda,5,Riazat Ali Shah,Yasim Murtaza,DM Nakrani,,0,1,1,,,,32181232181
+2,Uganda,5,DM Nakrani,Yasim Murtaza,Riazat Ali Shah,,0,0,0,,,,32181232181
+2,Uganda,5,DM Nakrani,Yasim Murtaza,Riazat Ali Shah,,0,6,6,,,,32181232181
+2,Uganda,5,DM Nakrani,Yasim Murtaza,Riazat Ali Shah,,0,0,0,,,,32181232181
+2,Uganda,5,DM Nakrani,Yasim Murtaza,Riazat Ali Shah,,0,0,0,,,,32181232181
+2,Uganda,6,Riazat Ali Shah,Ehsan Khan,DM Nakrani,,0,1,1,,,,32181232181
+2,Uganda,6,DM Nakrani,Ehsan Khan,Riazat Ali Shah,,0,0,0,,,,32181232181
+2,Uganda,6,DM Nakrani,Ehsan Khan,Riazat Ali Shah,,0,1,1,,,,32181232181
+2,Uganda,6,Riazat Ali Shah,Ehsan Khan,DM Nakrani,,0,1,1,,,,32181232181
+2,Uganda,6,DM Nakrani,Ehsan Khan,Riazat Ali Shah,,0,4,4,,,,32181232181
+2,Uganda,6,DM Nakrani,Ehsan Khan,Riazat Ali Shah,,0,0,0,bowled,DM Nakrani,,32181232181
+2,Uganda,7,Riazat Ali Shah,Yasim Murtaza,F Akankwasa,,0,0,0,,,,32181232181
+2,Uganda,7,Riazat Ali Shah,Yasim Murtaza,F Akankwasa,,0,1,1,,,,32181232181
+2,Uganda,7,F Akankwasa,Yasim Murtaza,Riazat Ali Shah,,0,0,0,,,,32181232181
+2,Uganda,7,F Akankwasa,Yasim Murtaza,Riazat Ali Shah,,0,0,0,,,,32181232181
+2,Uganda,7,F Akankwasa,Yasim Murtaza,Riazat Ali Shah,,0,4,4,,,,32181232181
+2,Uganda,7,F Akankwasa,Yasim Murtaza,Riazat Ali Shah,,0,1,1,,,,32181232181
+2,Uganda,8,F Akankwasa,Mohammad Ghazanfar,Riazat Ali Shah,,0,1,1,,,,32181232181
+2,Uganda,8,Riazat Ali Shah,Mohammad Ghazanfar,F Akankwasa,,0,0,0,,,,32181232181
+2,Uganda,8,Riazat Ali Shah,Mohammad Ghazanfar,F Akankwasa,,0,0,0,,,,32181232181
+2,Uganda,8,Riazat Ali Shah,Mohammad Ghazanfar,F Akankwasa,,0,1,1,,,,32181232181
+2,Uganda,8,F Akankwasa,Mohammad Ghazanfar,Riazat Ali Shah,,0,0,0,,,,32181232181
+2,Uganda,8,F Akankwasa,Mohammad Ghazanfar,Riazat Ali Shah,,0,0,0,,,,32181232181
+2,Uganda,9,Riazat Ali Shah,Yasim Murtaza,F Akankwasa,,0,1,1,,,,32181232181
+2,Uganda,9,F Akankwasa,Yasim Murtaza,Riazat Ali Shah,,0,0,0,,,,32181232181
+2,Uganda,9,F Akankwasa,Yasim Murtaza,Riazat Ali Shah,,0,1,1,,,,32181232181
+2,Uganda,9,Riazat Ali Shah,Yasim Murtaza,F Akankwasa,,0,0,0,,,,32181232181
+2,Uganda,9,Riazat Ali Shah,Yasim Murtaza,F Akankwasa,,0,0,0,,,,32181232181
+2,Uganda,9,Riazat Ali Shah,Yasim Murtaza,F Akankwasa,,0,0,0,,,,32181232181
+2,Uganda,10,F Akankwasa,Mohammad Ghazanfar,Riazat Ali Shah,,0,0,0,,,,32181232181
+2,Uganda,10,F Akankwasa,Mohammad Ghazanfar,Riazat Ali Shah,,0,0,0,,,,32181232181
+2,Uganda,10,F Akankwasa,Mohammad Ghazanfar,Riazat Ali Shah,,0,0,0,,,,32181232181
+2,Uganda,10,F Akankwasa,Mohammad Ghazanfar,Riazat Ali Shah,,0,0,0,,,,32181232181
+2,Uganda,10,F Akankwasa,Mohammad Ghazanfar,Riazat Ali Shah,,0,0,0,bowled,F Akankwasa,,32181232181
+2,Uganda,10,F Achelam,Mohammad Ghazanfar,Riazat Ali Shah,,0,0,0,,,,32181232181
+2,Uganda,11,Riazat Ali Shah,Ehsan Khan,F Achelam,,0,1,1,,,,32181232181
+2,Uganda,11,F Achelam,Ehsan Khan,Riazat Ali Shah,,0,0,0,,,,32181232181
+2,Uganda,11,F Achelam,Ehsan Khan,Riazat Ali Shah,,0,0,0,,,,32181232181
+2,Uganda,11,F Achelam,Ehsan Khan,Riazat Ali Shah,,0,0,0,,,,32181232181
+2,Uganda,11,F Achelam,Ehsan Khan,Riazat Ali Shah,,0,0,0,,,,32181232181
+2,Uganda,11,F Achelam,Ehsan Khan,Riazat Ali Shah,wides,1,1,0,,,,32181232181
+2,Uganda,11,F Achelam,Ehsan Khan,Riazat Ali Shah,,0,0,0,,,,32181232181
+2,Uganda,12,Riazat Ali Shah,Mohammad Ghazanfar,F Achelam,,0,0,0,,,,32181232181
+2,Uganda,12,Riazat Ali Shah,Mohammad Ghazanfar,F Achelam,,0,0,0,,,,32181232181
+2,Uganda,12,Riazat Ali Shah,Mohammad Ghazanfar,F Achelam,,0,2,2,,,,32181232181
+2,Uganda,12,Riazat Ali Shah,Mohammad Ghazanfar,F Achelam,,0,1,1,,,,32181232181
+2,Uganda,12,F Achelam,Mohammad Ghazanfar,Riazat Ali Shah,,0,0,0,,,,32181232181
+2,Uganda,12,F Achelam,Mohammad Ghazanfar,Riazat Ali Shah,,0,0,0,,,,32181232181
+2,Uganda,13,Riazat Ali Shah,Haroon Arshad,F Achelam,,0,1,1,,,,32181232181
+2,Uganda,13,F Achelam,Haroon Arshad,Riazat Ali Shah,,0,0,0,,,,32181232181
+2,Uganda,13,F Achelam,Haroon Arshad,Riazat Ali Shah,,0,1,1,,,,32181232181
+2,Uganda,13,Riazat Ali Shah,Haroon Arshad,F Achelam,,0,0,0,,,,32181232181
+2,Uganda,13,Riazat Ali Shah,Haroon Arshad,F Achelam,,0,0,0,,,,32181232181
+2,Uganda,13,Riazat Ali Shah,Haroon Arshad,F Achelam,,0,1,1,,,,32181232181
+2,Uganda,14,Riazat Ali Shah,Mohammad Ghazanfar,F Achelam,,0,4,4,,,,32181232181
+2,Uganda,14,Riazat Ali Shah,Mohammad Ghazanfar,F Achelam,,0,1,1,,,,32181232181
+2,Uganda,14,F Achelam,Mohammad Ghazanfar,Riazat Ali Shah,,0,0,0,lbw,F Achelam,,32181232181
+2,Uganda,14,F Nsubuga,Mohammad Ghazanfar,Riazat Ali Shah,,0,2,2,,,,32181232181
+2,Uganda,14,F Nsubuga,Mohammad Ghazanfar,Riazat Ali Shah,,0,0,0,,,,32181232181
+2,Uganda,14,F Nsubuga,Mohammad Ghazanfar,Riazat Ali Shah,,0,0,0,,,,32181232181
+2,Uganda,15,Riazat Ali Shah,Haroon Arshad,F Nsubuga,,0,4,4,,,,32181232181
+2,Uganda,15,Riazat Ali Shah,Haroon Arshad,F Nsubuga,,0,0,0,,,,32181232181
+2,Uganda,15,Riazat Ali Shah,Haroon Arshad,F Nsubuga,,0,0,0,,,,32181232181
+2,Uganda,15,Riazat Ali Shah,Haroon Arshad,F Nsubuga,,0,1,1,,,,32181232181
+2,Uganda,15,F Nsubuga,Haroon Arshad,Riazat Ali Shah,,0,1,1,,,,32181232181
+2,Uganda,15,Riazat Ali Shah,Haroon Arshad,F Nsubuga,,0,1,1,,,,32181232181
+2,Uganda,16,Riazat Ali Shah,Ehsan Khan,F Nsubuga,,0,0,0,,,,32181232181
+2,Uganda,16,Riazat Ali Shah,Ehsan Khan,F Nsubuga,,0,1,1,,,,32181232181
+2,Uganda,16,F Nsubuga,Ehsan Khan,Riazat Ali Shah,,0,0,0,,,,32181232181
+2,Uganda,16,F Nsubuga,Ehsan Khan,Riazat Ali Shah,,0,0,0,,,,32181232181
+2,Uganda,16,F Nsubuga,Ehsan Khan,Riazat Ali Shah,,0,1,1,,,,32181232181
+2,Uganda,16,Riazat Ali Shah,Ehsan Khan,F Nsubuga,,0,0,0,,,,32181232181
+2,Uganda,17,F Nsubuga,KD Shah,Riazat Ali Shah,,0,0,0,,,,32181232181
+2,Uganda,17,F Nsubuga,KD Shah,Riazat Ali Shah,wides,1,1,0,,,,32181232181
+2,Uganda,17,F Nsubuga,KD Shah,Riazat Ali Shah,,0,0,0,,,,32181232181
+2,Uganda,17,F Nsubuga,KD Shah,Riazat Ali Shah,,0,4,4,,,,32181232181
+2,Uganda,17,F Nsubuga,KD Shah,Riazat Ali Shah,,0,0,0,,,,32181232181
+2,Uganda,17,F Nsubuga,KD Shah,Riazat Ali Shah,,0,1,1,,,,32181232181
+2,Uganda,17,Riazat Ali Shah,KD Shah,F Nsubuga,,0,0,0,,,,32181232181
+2,Uganda,18,F Nsubuga,Aizaz Khan,Riazat Ali Shah,,0,0,0,,,,32181232181
+2,Uganda,18,F Nsubuga,Aizaz Khan,Riazat Ali Shah,,0,1,1,,,,32181232181
+2,Uganda,18,Riazat Ali Shah,Aizaz Khan,F Nsubuga,legbyes,2,2,0,,,,32181232181
+2,Uganda,18,Riazat Ali Shah,Aizaz Khan,F Nsubuga,,0,2,2,,,,32181232181
+2,Uganda,18,Riazat Ali Shah,Aizaz Khan,F Nsubuga,,0,0,0,,,,32181232181
+2,Uganda,18,Riazat Ali Shah,Aizaz Khan,F Nsubuga,,0,0,0,,,,32181232181
+2,Uganda,19,F Nsubuga,Haroon Arshad,Riazat Ali Shah,,0,0,0,caught,F Nsubuga,SS McKechnie,32181232181
+2,Uganda,19,C Kyewuta,Haroon Arshad,Riazat Ali Shah,,0,1,1,,,,32181232181
+2,Uganda,19,Riazat Ali Shah,Haroon Arshad,C Kyewuta,,0,2,2,,,,32181232181

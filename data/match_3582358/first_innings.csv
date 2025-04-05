@@ -1,0 +1,126 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,RJ Peterson,NW Bracken,HH Gibbs,,0,1,1,,,,3582358
+1,South Africa,0,HH Gibbs,NW Bracken,RJ Peterson,,0,0,0,,,,3582358
+1,South Africa,0,HH Gibbs,NW Bracken,RJ Peterson,,0,0,0,,,,3582358
+1,South Africa,0,HH Gibbs,NW Bracken,RJ Peterson,,0,0,0,,,,3582358
+1,South Africa,0,HH Gibbs,NW Bracken,RJ Peterson,wides,1,1,0,,,,3582358
+1,South Africa,0,HH Gibbs,NW Bracken,RJ Peterson,,0,0,0,,,,3582358
+1,South Africa,0,HH Gibbs,NW Bracken,RJ Peterson,,0,1,1,,,,3582358
+1,South Africa,1,HH Gibbs,SM Harwood,RJ Peterson,,0,4,4,,,,3582358
+1,South Africa,1,HH Gibbs,SM Harwood,RJ Peterson,,0,2,2,,,,3582358
+1,South Africa,1,HH Gibbs,SM Harwood,RJ Peterson,,0,5,5,,,,3582358
+1,South Africa,1,RJ Peterson,SM Harwood,HH Gibbs,,0,0,0,,,,3582358
+1,South Africa,1,RJ Peterson,SM Harwood,HH Gibbs,,0,0,0,,,,3582358
+1,South Africa,1,RJ Peterson,SM Harwood,HH Gibbs,,0,0,0,,,,3582358
+1,South Africa,2,HH Gibbs,NW Bracken,RJ Peterson,,0,0,0,,,,3582358
+1,South Africa,2,HH Gibbs,NW Bracken,RJ Peterson,,0,2,2,,,,3582358
+1,South Africa,2,HH Gibbs,NW Bracken,RJ Peterson,,0,0,0,,,,3582358
+1,South Africa,2,HH Gibbs,NW Bracken,RJ Peterson,,0,6,6,,,,3582358
+1,South Africa,2,HH Gibbs,NW Bracken,RJ Peterson,,0,0,0,bowled,HH Gibbs,,3582358
+1,South Africa,2,AB de Villiers,NW Bracken,RJ Peterson,,0,0,0,,,,3582358
+1,South Africa,3,RJ Peterson,B Laughlin,AB de Villiers,,0,0,0,,,,3582358
+1,South Africa,3,RJ Peterson,B Laughlin,AB de Villiers,,0,1,1,,,,3582358
+1,South Africa,3,AB de Villiers,B Laughlin,RJ Peterson,,0,0,0,,,,3582358
+1,South Africa,3,AB de Villiers,B Laughlin,RJ Peterson,,0,0,0,,,,3582358
+1,South Africa,3,AB de Villiers,B Laughlin,RJ Peterson,,0,0,0,,,,3582358
+1,South Africa,3,AB de Villiers,B Laughlin,RJ Peterson,wides,1,1,0,,,,3582358
+1,South Africa,3,AB de Villiers,B Laughlin,RJ Peterson,,0,0,0,caught,AB de Villiers,CL White,3582358
+1,South Africa,4,RJ Peterson,SM Harwood,JP Duminy,,0,1,1,,,,3582358
+1,South Africa,4,JP Duminy,SM Harwood,RJ Peterson,,0,0,0,,,,3582358
+1,South Africa,4,JP Duminy,SM Harwood,RJ Peterson,,0,1,1,,,,3582358
+1,South Africa,4,RJ Peterson,SM Harwood,JP Duminy,,0,0,0,,,,3582358
+1,South Africa,4,RJ Peterson,SM Harwood,JP Duminy,,0,0,0,,,,3582358
+1,South Africa,4,RJ Peterson,SM Harwood,JP Duminy,,0,1,1,,,,3582358
+1,South Africa,5,RJ Peterson,B Laughlin,JP Duminy,,0,4,4,,,,3582358
+1,South Africa,5,RJ Peterson,B Laughlin,JP Duminy,,0,1,1,,,,3582358
+1,South Africa,5,JP Duminy,B Laughlin,RJ Peterson,,0,2,2,,,,3582358
+1,South Africa,5,JP Duminy,B Laughlin,RJ Peterson,,0,1,1,,,,3582358
+1,South Africa,5,RJ Peterson,B Laughlin,JP Duminy,,0,0,0,,,,3582358
+1,South Africa,5,RJ Peterson,B Laughlin,JP Duminy,legbyes,1,1,0,,,,3582358
+1,South Africa,6,RJ Peterson,JR Hopes,JP Duminy,,0,0,0,,,,3582358
+1,South Africa,6,RJ Peterson,JR Hopes,JP Duminy,,0,1,1,,,,3582358
+1,South Africa,6,JP Duminy,JR Hopes,RJ Peterson,,0,0,0,,,,3582358
+1,South Africa,6,JP Duminy,JR Hopes,RJ Peterson,,0,1,1,,,,3582358
+1,South Africa,6,RJ Peterson,JR Hopes,JP Duminy,,0,6,6,,,,3582358
+1,South Africa,6,RJ Peterson,JR Hopes,JP Duminy,,0,0,0,,,,3582358
+1,South Africa,7,JP Duminy,DJ Hussey,RJ Peterson,,0,0,0,,,,3582358
+1,South Africa,7,JP Duminy,DJ Hussey,RJ Peterson,,0,1,1,,,,3582358
+1,South Africa,7,RJ Peterson,DJ Hussey,JP Duminy,,0,6,6,,,,3582358
+1,South Africa,7,RJ Peterson,DJ Hussey,JP Duminy,,0,1,1,,,,3582358
+1,South Africa,7,JP Duminy,DJ Hussey,RJ Peterson,,0,1,1,,,,3582358
+1,South Africa,7,RJ Peterson,DJ Hussey,JP Duminy,,0,1,1,,,,3582358
+1,South Africa,8,RJ Peterson,JR Hopes,JP Duminy,,0,4,4,,,,3582358
+1,South Africa,8,RJ Peterson,JR Hopes,JP Duminy,,0,1,1,,,,3582358
+1,South Africa,8,JP Duminy,JR Hopes,RJ Peterson,,0,0,0,,,,3582358
+1,South Africa,8,JP Duminy,JR Hopes,RJ Peterson,,0,0,0,,,,3582358
+1,South Africa,8,JP Duminy,JR Hopes,RJ Peterson,,0,1,1,,,,3582358
+1,South Africa,8,RJ Peterson,JR Hopes,JP Duminy,,0,4,4,,,,3582358
+1,South Africa,9,JP Duminy,CL White,RJ Peterson,,0,2,2,,,,3582358
+1,South Africa,9,JP Duminy,CL White,RJ Peterson,wides,1,1,0,,,,3582358
+1,South Africa,9,JP Duminy,CL White,RJ Peterson,,0,1,1,,,,3582358
+1,South Africa,9,RJ Peterson,CL White,JP Duminy,,0,1,1,,,,3582358
+1,South Africa,9,JP Duminy,CL White,RJ Peterson,,0,0,0,,,,3582358
+1,South Africa,9,JP Duminy,CL White,RJ Peterson,,0,1,1,,,,3582358
+1,South Africa,9,RJ Peterson,CL White,JP Duminy,,0,0,0,,,,3582358
+1,South Africa,10,JP Duminy,JR Hopes,RJ Peterson,,0,0,0,,,,3582358
+1,South Africa,10,JP Duminy,JR Hopes,RJ Peterson,,0,1,1,,,,3582358
+1,South Africa,10,RJ Peterson,JR Hopes,JP Duminy,,0,0,0,bowled,RJ Peterson,,3582358
+1,South Africa,10,RE van der Merwe,JR Hopes,JP Duminy,,0,0,0,,,,3582358
+1,South Africa,10,RE van der Merwe,JR Hopes,JP Duminy,,0,1,1,,,,3582358
+1,South Africa,10,JP Duminy,JR Hopes,RE van der Merwe,,0,4,4,,,,3582358
+1,South Africa,11,RE van der Merwe,DJ Hussey,JP Duminy,,0,1,1,,,,3582358
+1,South Africa,11,JP Duminy,DJ Hussey,RE van der Merwe,,0,1,1,,,,3582358
+1,South Africa,11,RE van der Merwe,DJ Hussey,JP Duminy,,0,1,1,,,,3582358
+1,South Africa,11,JP Duminy,DJ Hussey,RE van der Merwe,,0,1,1,,,,3582358
+1,South Africa,11,RE van der Merwe,DJ Hussey,JP Duminy,,0,0,0,,,,3582358
+1,South Africa,11,RE van der Merwe,DJ Hussey,JP Duminy,,0,1,1,,,,3582358
+1,South Africa,12,RE van der Merwe,JR Hopes,JP Duminy,,0,0,0,,,,3582358
+1,South Africa,12,RE van der Merwe,JR Hopes,JP Duminy,,0,0,0,,,,3582358
+1,South Africa,12,RE van der Merwe,JR Hopes,JP Duminy,,0,1,1,,,,3582358
+1,South Africa,12,JP Duminy,JR Hopes,RE van der Merwe,,0,0,0,,,,3582358
+1,South Africa,12,JP Duminy,JR Hopes,RE van der Merwe,,0,1,1,,,,3582358
+1,South Africa,12,RE van der Merwe,JR Hopes,JP Duminy,,0,0,0,,,,3582358
+1,South Africa,13,JP Duminy,DJ Hussey,RE van der Merwe,,0,0,0,,,,3582358
+1,South Africa,13,JP Duminy,DJ Hussey,RE van der Merwe,,0,1,1,,,,3582358
+1,South Africa,13,RE van der Merwe,DJ Hussey,JP Duminy,,0,0,0,,,,3582358
+1,South Africa,13,RE van der Merwe,DJ Hussey,JP Duminy,,0,6,6,,,,3582358
+1,South Africa,13,RE van der Merwe,DJ Hussey,JP Duminy,,0,1,1,,,,3582358
+1,South Africa,13,JP Duminy,DJ Hussey,RE van der Merwe,,0,1,1,,,,3582358
+1,South Africa,14,JP Duminy,SM Harwood,RE van der Merwe,,0,1,1,,,,3582358
+1,South Africa,14,RE van der Merwe,SM Harwood,JP Duminy,,0,2,2,,,,3582358
+1,South Africa,14,RE van der Merwe,SM Harwood,JP Duminy,,0,0,0,,,,3582358
+1,South Africa,14,RE van der Merwe,SM Harwood,JP Duminy,,0,0,0,,,,3582358
+1,South Africa,14,RE van der Merwe,SM Harwood,JP Duminy,,0,1,1,,,,3582358
+1,South Africa,14,JP Duminy,SM Harwood,RE van der Merwe,,0,0,0,bowled,JP Duminy,,3582358
+1,South Africa,15,RE van der Merwe,NW Bracken,JA Morkel,,0,6,6,,,,3582358
+1,South Africa,15,RE van der Merwe,NW Bracken,JA Morkel,,0,0,0,,,,3582358
+1,South Africa,15,RE van der Merwe,NW Bracken,JA Morkel,,0,6,6,,,,3582358
+1,South Africa,15,RE van der Merwe,NW Bracken,JA Morkel,noballs,1,1,0,,,,3582358
+1,South Africa,15,RE van der Merwe,NW Bracken,JA Morkel,,0,4,4,,,,3582358
+1,South Africa,15,RE van der Merwe,NW Bracken,JA Morkel,,0,4,4,,,,3582358
+1,South Africa,15,RE van der Merwe,NW Bracken,JA Morkel,,0,2,2,,,,3582358
+1,South Africa,16,JA Morkel,B Laughlin,RE van der Merwe,,0,1,1,,,,3582358
+1,South Africa,16,RE van der Merwe,B Laughlin,JA Morkel,,0,2,2,,,,3582358
+1,South Africa,16,RE van der Merwe,B Laughlin,JA Morkel,,0,2,2,,,,3582358
+1,South Africa,16,RE van der Merwe,B Laughlin,JA Morkel,,0,6,6,,,,3582358
+1,South Africa,16,RE van der Merwe,B Laughlin,JA Morkel,byes,1,1,0,,,,3582358
+1,South Africa,16,JA Morkel,B Laughlin,RE van der Merwe,,0,0,0,,,,3582358
+1,South Africa,17,RE van der Merwe,SM Harwood,JA Morkel,,0,1,1,,,,3582358
+1,South Africa,17,JA Morkel,SM Harwood,RE van der Merwe,,0,1,1,,,,3582358
+1,South Africa,17,RE van der Merwe,SM Harwood,JA Morkel,,0,0,0,caught,RE van der Merwe,BJ Haddin,3582358
+1,South Africa,17,MV Boucher,SM Harwood,JA Morkel,,0,0,0,,,,3582358
+1,South Africa,17,MV Boucher,SM Harwood,JA Morkel,,0,0,0,,,,3582358
+1,South Africa,17,MV Boucher,SM Harwood,JA Morkel,,0,1,1,,,,3582358
+1,South Africa,18,MV Boucher,NW Bracken,JA Morkel,wides,1,1,0,,,,3582358
+1,South Africa,18,MV Boucher,NW Bracken,JA Morkel,,0,1,1,,,,3582358
+1,South Africa,18,JA Morkel,NW Bracken,MV Boucher,,0,1,1,,,,3582358
+1,South Africa,18,MV Boucher,NW Bracken,JA Morkel,,0,1,1,,,,3582358
+1,South Africa,18,JA Morkel,NW Bracken,MV Boucher,,0,0,0,,,,3582358
+1,South Africa,18,JA Morkel,NW Bracken,MV Boucher,,0,0,0,,,,3582358
+1,South Africa,18,JA Morkel,NW Bracken,MV Boucher,,0,6,6,,,,3582358
+1,South Africa,19,MV Boucher,B Laughlin,JA Morkel,legbyes,1,1,0,,,,3582358
+1,South Africa,19,JA Morkel,B Laughlin,MV Boucher,,0,4,4,,,,3582358
+1,South Africa,19,JA Morkel,B Laughlin,MV Boucher,,0,0,0,,,,3582358
+1,South Africa,19,JA Morkel,B Laughlin,MV Boucher,,0,1,1,,,,3582358
+1,South Africa,19,MV Boucher,B Laughlin,JA Morkel,,0,0,0,,,,3582358
+1,South Africa,19,MV Boucher,B Laughlin,JA Morkel,,0,6,6,,,,3582358

@@ -1,0 +1,117 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Sri Lanka,0,WIA Fernando,B Kumar,M Bhanuka,,0,4,4,,,,31507231507
+2,Sri Lanka,0,WIA Fernando,B Kumar,M Bhanuka,,0,0,0,,,,31507231507
+2,Sri Lanka,0,WIA Fernando,B Kumar,M Bhanuka,,0,2,2,,,,31507231507
+2,Sri Lanka,0,WIA Fernando,B Kumar,M Bhanuka,,0,1,1,,,,31507231507
+2,Sri Lanka,0,M Bhanuka,B Kumar,WIA Fernando,wides,1,1,0,,,,31507231507
+2,Sri Lanka,0,M Bhanuka,B Kumar,WIA Fernando,,0,0,0,,,,31507231507
+2,Sri Lanka,0,M Bhanuka,B Kumar,WIA Fernando,wides,1,1,0,,,,31507231507
+2,Sri Lanka,0,M Bhanuka,B Kumar,WIA Fernando,,0,1,1,,,,31507231507
+2,Sri Lanka,1,M Bhanuka,DL Chahar,WIA Fernando,,0,4,4,,,,31507231507
+2,Sri Lanka,1,M Bhanuka,DL Chahar,WIA Fernando,,0,0,0,,,,31507231507
+2,Sri Lanka,1,M Bhanuka,DL Chahar,WIA Fernando,,0,1,1,,,,31507231507
+2,Sri Lanka,1,WIA Fernando,DL Chahar,M Bhanuka,,0,0,0,,,,31507231507
+2,Sri Lanka,1,WIA Fernando,DL Chahar,M Bhanuka,,0,1,1,,,,31507231507
+2,Sri Lanka,1,M Bhanuka,DL Chahar,WIA Fernando,,0,4,4,,,,31507231507
+2,Sri Lanka,2,WIA Fernando,KH Pandya,M Bhanuka,,0,2,2,,,,31507231507
+2,Sri Lanka,2,WIA Fernando,KH Pandya,M Bhanuka,,0,1,1,,,,31507231507
+2,Sri Lanka,2,M Bhanuka,KH Pandya,WIA Fernando,,0,0,0,caught,M Bhanuka,SA Yadav,31507231507
+2,Sri Lanka,2,DM de Silva,KH Pandya,WIA Fernando,,0,0,0,,,,31507231507
+2,Sri Lanka,2,DM de Silva,KH Pandya,WIA Fernando,,0,1,1,,,,31507231507
+2,Sri Lanka,2,WIA Fernando,KH Pandya,DM de Silva,,0,1,1,,,,31507231507
+2,Sri Lanka,3,WIA Fernando,DL Chahar,DM de Silva,,0,0,0,,,,31507231507
+2,Sri Lanka,3,WIA Fernando,DL Chahar,DM de Silva,,0,4,4,,,,31507231507
+2,Sri Lanka,3,WIA Fernando,DL Chahar,DM de Silva,,0,0,0,,,,31507231507
+2,Sri Lanka,3,WIA Fernando,DL Chahar,DM de Silva,,0,0,0,,,,31507231507
+2,Sri Lanka,3,WIA Fernando,DL Chahar,DM de Silva,,0,4,4,,,,31507231507
+2,Sri Lanka,3,WIA Fernando,DL Chahar,DM de Silva,,0,0,0,,,,31507231507
+2,Sri Lanka,4,DM de Silva,KH Pandya,WIA Fernando,,0,1,1,,,,31507231507
+2,Sri Lanka,4,WIA Fernando,KH Pandya,DM de Silva,,0,1,1,,,,31507231507
+2,Sri Lanka,4,DM de Silva,KH Pandya,WIA Fernando,,0,0,0,,,,31507231507
+2,Sri Lanka,4,DM de Silva,KH Pandya,WIA Fernando,wides,2,2,0,,,,31507231507
+2,Sri Lanka,4,WIA Fernando,KH Pandya,DM de Silva,,0,2,2,,,,31507231507
+2,Sri Lanka,4,WIA Fernando,KH Pandya,DM de Silva,,0,1,1,,,,31507231507
+2,Sri Lanka,4,DM de Silva,KH Pandya,WIA Fernando,,0,4,4,,,,31507231507
+2,Sri Lanka,5,WIA Fernando,CV Varun,DM de Silva,,0,0,0,,,,31507231507
+2,Sri Lanka,5,WIA Fernando,CV Varun,DM de Silva,,0,0,0,,,,31507231507
+2,Sri Lanka,5,WIA Fernando,CV Varun,DM de Silva,,0,1,1,,,,31507231507
+2,Sri Lanka,5,DM de Silva,CV Varun,WIA Fernando,,0,0,0,,,,31507231507
+2,Sri Lanka,5,DM de Silva,CV Varun,WIA Fernando,,0,0,0,,,,31507231507
+2,Sri Lanka,5,DM de Silva,CV Varun,WIA Fernando,,0,1,1,,,,31507231507
+2,Sri Lanka,6,DM de Silva,YS Chahal,WIA Fernando,,0,2,2,,,,31507231507
+2,Sri Lanka,6,DM de Silva,YS Chahal,WIA Fernando,,0,0,0,bowled,DM de Silva,,31507231507
+2,Sri Lanka,6,KIC Asalanka,YS Chahal,WIA Fernando,,0,1,1,,,,31507231507
+2,Sri Lanka,6,WIA Fernando,YS Chahal,KIC Asalanka,,0,1,1,,,,31507231507
+2,Sri Lanka,6,KIC Asalanka,YS Chahal,WIA Fernando,,0,0,0,,,,31507231507
+2,Sri Lanka,6,KIC Asalanka,YS Chahal,WIA Fernando,,0,0,0,,,,31507231507
+2,Sri Lanka,7,WIA Fernando,B Kumar,KIC Asalanka,,0,0,0,caught,WIA Fernando,SV Samson,31507231507
+2,Sri Lanka,7,KNA Bandara,B Kumar,KIC Asalanka,,0,0,0,,,,31507231507
+2,Sri Lanka,7,KNA Bandara,B Kumar,KIC Asalanka,,0,1,1,,,,31507231507
+2,Sri Lanka,7,KIC Asalanka,B Kumar,KNA Bandara,,0,0,0,,,,31507231507
+2,Sri Lanka,7,KIC Asalanka,B Kumar,KNA Bandara,,0,1,1,,,,31507231507
+2,Sri Lanka,7,KNA Bandara,B Kumar,KIC Asalanka,,0,0,0,,,,31507231507
+2,Sri Lanka,8,KIC Asalanka,YS Chahal,KNA Bandara,,0,0,0,,,,31507231507
+2,Sri Lanka,8,KIC Asalanka,YS Chahal,KNA Bandara,,0,1,1,,,,31507231507
+2,Sri Lanka,8,KNA Bandara,YS Chahal,KIC Asalanka,,0,1,1,,,,31507231507
+2,Sri Lanka,8,KIC Asalanka,YS Chahal,KNA Bandara,,0,1,1,,,,31507231507
+2,Sri Lanka,8,KNA Bandara,YS Chahal,KIC Asalanka,,0,0,0,,,,31507231507
+2,Sri Lanka,8,KNA Bandara,YS Chahal,KIC Asalanka,,0,0,0,,,,31507231507
+2,Sri Lanka,9,KIC Asalanka,HH Pandya,KNA Bandara,,0,6,6,,,,31507231507
+2,Sri Lanka,9,KIC Asalanka,HH Pandya,KNA Bandara,,0,1,1,,,,31507231507
+2,Sri Lanka,9,KNA Bandara,HH Pandya,KIC Asalanka,,0,0,0,,,,31507231507
+2,Sri Lanka,9,KNA Bandara,HH Pandya,KIC Asalanka,,0,0,0,,,,31507231507
+2,Sri Lanka,9,KNA Bandara,HH Pandya,KIC Asalanka,,0,0,0,,,,31507231507
+2,Sri Lanka,9,KNA Bandara,HH Pandya,KIC Asalanka,,0,2,2,,,,31507231507
+2,Sri Lanka,10,KIC Asalanka,YS Chahal,KNA Bandara,,0,4,4,,,,31507231507
+2,Sri Lanka,10,KIC Asalanka,YS Chahal,KNA Bandara,,0,1,1,,,,31507231507
+2,Sri Lanka,10,KNA Bandara,YS Chahal,KIC Asalanka,,0,0,0,,,,31507231507
+2,Sri Lanka,10,KNA Bandara,YS Chahal,KIC Asalanka,,0,1,1,,,,31507231507
+2,Sri Lanka,10,KIC Asalanka,YS Chahal,KNA Bandara,,0,1,1,,,,31507231507
+2,Sri Lanka,10,KNA Bandara,YS Chahal,KIC Asalanka,wides,1,1,0,,,,31507231507
+2,Sri Lanka,10,KNA Bandara,YS Chahal,KIC Asalanka,,0,1,1,,,,31507231507
+2,Sri Lanka,11,KNA Bandara,CV Varun,KIC Asalanka,,0,1,1,,,,31507231507
+2,Sri Lanka,11,KIC Asalanka,CV Varun,KNA Bandara,,0,6,6,,,,31507231507
+2,Sri Lanka,11,KIC Asalanka,CV Varun,KNA Bandara,,0,1,1,,,,31507231507
+2,Sri Lanka,11,KNA Bandara,CV Varun,KIC Asalanka,,0,0,0,,,,31507231507
+2,Sri Lanka,11,KNA Bandara,CV Varun,KIC Asalanka,,0,1,1,,,,31507231507
+2,Sri Lanka,11,KIC Asalanka,CV Varun,KNA Bandara,,0,0,0,,,,31507231507
+2,Sri Lanka,12,KNA Bandara,HH Pandya,KIC Asalanka,,0,0,0,,,,31507231507
+2,Sri Lanka,12,KNA Bandara,HH Pandya,KIC Asalanka,,0,1,1,,,,31507231507
+2,Sri Lanka,12,KIC Asalanka,HH Pandya,KNA Bandara,,0,4,4,,,,31507231507
+2,Sri Lanka,12,KIC Asalanka,HH Pandya,KNA Bandara,,0,2,2,,,,31507231507
+2,Sri Lanka,12,KIC Asalanka,HH Pandya,KNA Bandara,,0,1,1,,,,31507231507
+2,Sri Lanka,12,KNA Bandara,HH Pandya,KIC Asalanka,,0,0,0,bowled,KNA Bandara,,31507231507
+2,Sri Lanka,13,KIC Asalanka,CV Varun,MD Shanaka,,0,6,6,,,,31507231507
+2,Sri Lanka,13,KIC Asalanka,CV Varun,MD Shanaka,,0,1,1,,,,31507231507
+2,Sri Lanka,13,MD Shanaka,CV Varun,KIC Asalanka,,0,1,1,,,,31507231507
+2,Sri Lanka,13,KIC Asalanka,CV Varun,MD Shanaka,,0,1,1,,,,31507231507
+2,Sri Lanka,13,MD Shanaka,CV Varun,KIC Asalanka,,0,1,1,,,,31507231507
+2,Sri Lanka,13,KIC Asalanka,CV Varun,MD Shanaka,,0,4,4,,,,31507231507
+2,Sri Lanka,14,MD Shanaka,YS Chahal,KIC Asalanka,,0,1,1,,,,31507231507
+2,Sri Lanka,14,KIC Asalanka,YS Chahal,MD Shanaka,,0,0,0,,,,31507231507
+2,Sri Lanka,14,KIC Asalanka,YS Chahal,MD Shanaka,,0,1,1,,,,31507231507
+2,Sri Lanka,14,MD Shanaka,YS Chahal,KIC Asalanka,,0,0,0,,,,31507231507
+2,Sri Lanka,14,MD Shanaka,YS Chahal,KIC Asalanka,,0,0,0,,,,31507231507
+2,Sri Lanka,14,MD Shanaka,YS Chahal,KIC Asalanka,,0,1,1,,,,31507231507
+2,Sri Lanka,15,MD Shanaka,DL Chahar,KIC Asalanka,,0,2,2,,,,31507231507
+2,Sri Lanka,15,MD Shanaka,DL Chahar,KIC Asalanka,,0,1,1,,,,31507231507
+2,Sri Lanka,15,KIC Asalanka,DL Chahar,MD Shanaka,wides,1,1,0,,,,31507231507
+2,Sri Lanka,15,KIC Asalanka,DL Chahar,MD Shanaka,,0,0,0,caught,KIC Asalanka,PP Shaw,31507231507
+2,Sri Lanka,15,PWH de Silva,DL Chahar,MD Shanaka,,0,0,0,,,,31507231507
+2,Sri Lanka,15,PWH de Silva,DL Chahar,MD Shanaka,,0,0,0,bowled,PWH de Silva,,31507231507
+2,Sri Lanka,15,C Karunaratne,DL Chahar,MD Shanaka,,0,2,2,,,,31507231507
+2,Sri Lanka,16,MD Shanaka,B Kumar,C Karunaratne,,0,1,1,,,,31507231507
+2,Sri Lanka,16,C Karunaratne,B Kumar,MD Shanaka,,0,1,1,,,,31507231507
+2,Sri Lanka,16,MD Shanaka,B Kumar,C Karunaratne,,0,6,6,,,,31507231507
+2,Sri Lanka,16,MD Shanaka,B Kumar,C Karunaratne,,0,1,1,,,,31507231507
+2,Sri Lanka,16,C Karunaratne,B Kumar,MD Shanaka,,0,0,0,,,,31507231507
+2,Sri Lanka,16,C Karunaratne,B Kumar,MD Shanaka,,0,0,0,bowled,C Karunaratne,,31507231507
+2,Sri Lanka,17,MD Shanaka,CV Varun,I Udana,,0,1,1,,,,31507231507
+2,Sri Lanka,17,I Udana,CV Varun,MD Shanaka,,0,1,1,,,,31507231507
+2,Sri Lanka,17,MD Shanaka,CV Varun,I Udana,,0,0,0,,,,31507231507
+2,Sri Lanka,17,MD Shanaka,CV Varun,I Udana,,0,0,0,stumped,MD Shanaka,Ishan Kishan,31507231507
+2,Sri Lanka,17,PVD Chameera,CV Varun,I Udana,,0,1,1,,,,31507231507
+2,Sri Lanka,17,PVD Chameera,CV Varun,I Udana,,0,0,0,,,,31507231507
+2,Sri Lanka,18,I Udana,B Kumar,PVD Chameera,,0,0,0,caught,I Udana,SA Yadav,31507231507
+2,Sri Lanka,18,A Dananjaya,B Kumar,PVD Chameera,,0,1,1,,,,31507231507
+2,Sri Lanka,18,PVD Chameera,B Kumar,A Dananjaya,,0,0,0,caught,PVD Chameera,KH Pandya,31507231507

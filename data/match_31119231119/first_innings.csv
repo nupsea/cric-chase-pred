@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Jersey,0,NJ Ferraby,Junaid Sheikh,C Bisson,,0,0,0,,,,31119231119
+1,Jersey,0,NJ Ferraby,Junaid Sheikh,C Bisson,noballs,1,1,0,,,,31119231119
+1,Jersey,0,NJ Ferraby,Junaid Sheikh,C Bisson,,0,0,0,,,,31119231119
+1,Jersey,0,NJ Ferraby,Junaid Sheikh,C Bisson,,0,0,0,,,,31119231119
+1,Jersey,0,NJ Ferraby,Junaid Sheikh,C Bisson,,0,4,4,,,,31119231119
+1,Jersey,0,NJ Ferraby,Junaid Sheikh,C Bisson,,0,0,0,,,,31119231119
+1,Jersey,0,NJ Ferraby,Junaid Sheikh,C Bisson,legbyes,1,1,0,,,,31119231119
+1,Jersey,1,NJ Ferraby,Hayatullah Niazi,C Bisson,,0,1,1,,,,31119231119
+1,Jersey,1,C Bisson,Hayatullah Niazi,NJ Ferraby,wides,1,1,0,,,,31119231119
+1,Jersey,1,C Bisson,Hayatullah Niazi,NJ Ferraby,,0,4,4,,,,31119231119
+1,Jersey,1,C Bisson,Hayatullah Niazi,NJ Ferraby,,0,2,2,,,,31119231119
+1,Jersey,1,C Bisson,Hayatullah Niazi,NJ Ferraby,,0,0,0,,,,31119231119
+1,Jersey,1,C Bisson,Hayatullah Niazi,NJ Ferraby,,0,0,0,,,,31119231119
+1,Jersey,1,C Bisson,Hayatullah Niazi,NJ Ferraby,,0,6,6,,,,31119231119
+1,Jersey,2,NJ Ferraby,Junaid Sheikh,C Bisson,legbyes,1,1,0,,,,31119231119
+1,Jersey,2,C Bisson,Junaid Sheikh,NJ Ferraby,,0,0,0,,,,31119231119
+1,Jersey,2,C Bisson,Junaid Sheikh,NJ Ferraby,,0,4,4,,,,31119231119
+1,Jersey,2,C Bisson,Junaid Sheikh,NJ Ferraby,,0,1,1,,,,31119231119
+1,Jersey,2,NJ Ferraby,Junaid Sheikh,C Bisson,,0,4,4,,,,31119231119
+1,Jersey,2,NJ Ferraby,Junaid Sheikh,C Bisson,,0,1,1,,,,31119231119
+1,Jersey,3,NJ Ferraby,Hayatullah Niazi,C Bisson,,0,0,0,,,,31119231119
+1,Jersey,3,NJ Ferraby,Hayatullah Niazi,C Bisson,,0,0,0,,,,31119231119
+1,Jersey,3,NJ Ferraby,Hayatullah Niazi,C Bisson,,0,0,0,,,,31119231119
+1,Jersey,3,NJ Ferraby,Hayatullah Niazi,C Bisson,noballs,1,5,4,,,,31119231119
+1,Jersey,3,NJ Ferraby,Hayatullah Niazi,C Bisson,,0,0,0,,,,31119231119
+1,Jersey,3,NJ Ferraby,Hayatullah Niazi,C Bisson,,0,0,0,,,,31119231119
+1,Jersey,3,NJ Ferraby,Hayatullah Niazi,C Bisson,,0,0,0,,,,31119231119
+1,Jersey,4,C Bisson,P Bhart,NJ Ferraby,,0,0,0,lbw,C Bisson,,31119231119
+1,Jersey,4,BDH Stevens,P Bhart,NJ Ferraby,,0,0,0,,,,31119231119
+1,Jersey,4,BDH Stevens,P Bhart,NJ Ferraby,,0,0,0,,,,31119231119
+1,Jersey,4,BDH Stevens,P Bhart,NJ Ferraby,,0,0,0,,,,31119231119
+1,Jersey,4,BDH Stevens,P Bhart,NJ Ferraby,byes,3,3,0,,,,31119231119
+1,Jersey,4,NJ Ferraby,P Bhart,BDH Stevens,,0,0,0,,,,31119231119
+1,Jersey,5,BDH Stevens,Raza Iqbal,NJ Ferraby,,0,0,0,,,,31119231119
+1,Jersey,5,BDH Stevens,Raza Iqbal,NJ Ferraby,,0,2,2,,,,31119231119
+1,Jersey,5,BDH Stevens,Raza Iqbal,NJ Ferraby,,0,0,0,,,,31119231119
+1,Jersey,5,BDH Stevens,Raza Iqbal,NJ Ferraby,,0,4,4,,,,31119231119
+1,Jersey,5,BDH Stevens,Raza Iqbal,NJ Ferraby,,0,1,1,,,,31119231119
+1,Jersey,5,NJ Ferraby,Raza Iqbal,BDH Stevens,,0,1,1,,,,31119231119
+1,Jersey,6,NJ Ferraby,P Bhart,BDH Stevens,,0,3,3,,,,31119231119
+1,Jersey,6,BDH Stevens,P Bhart,NJ Ferraby,,0,0,0,,,,31119231119
+1,Jersey,6,BDH Stevens,P Bhart,NJ Ferraby,byes,4,4,0,,,,31119231119
+1,Jersey,6,BDH Stevens,P Bhart,NJ Ferraby,,0,1,1,,,,31119231119
+1,Jersey,6,NJ Ferraby,P Bhart,BDH Stevens,,0,0,0,,,,31119231119
+1,Jersey,6,NJ Ferraby,P Bhart,BDH Stevens,,0,1,1,,,,31119231119
+1,Jersey,7,NJ Ferraby,Raza Iqbal,BDH Stevens,,0,0,0,lbw,NJ Ferraby,,31119231119
+1,Jersey,7,JW Jenner,Raza Iqbal,BDH Stevens,,0,0,0,,,,31119231119
+1,Jersey,7,JW Jenner,Raza Iqbal,BDH Stevens,,0,0,0,,,,31119231119
+1,Jersey,7,JW Jenner,Raza Iqbal,BDH Stevens,,0,1,1,,,,31119231119
+1,Jersey,7,BDH Stevens,Raza Iqbal,JW Jenner,,0,1,1,,,,31119231119
+1,Jersey,7,JW Jenner,Raza Iqbal,BDH Stevens,,0,0,0,,,,31119231119
+1,Jersey,8,BDH Stevens,S Waqas Ahmed,JW Jenner,,0,2,2,,,,31119231119
+1,Jersey,8,BDH Stevens,S Waqas Ahmed,JW Jenner,,0,0,0,,,,31119231119
+1,Jersey,8,BDH Stevens,S Waqas Ahmed,JW Jenner,,0,1,1,,,,31119231119
+1,Jersey,8,JW Jenner,S Waqas Ahmed,BDH Stevens,,0,1,1,,,,31119231119
+1,Jersey,8,BDH Stevens,S Waqas Ahmed,JW Jenner,,0,6,6,,,,31119231119
+1,Jersey,8,BDH Stevens,S Waqas Ahmed,JW Jenner,,0,1,1,,,,31119231119
+1,Jersey,9,BDH Stevens,Raza Iqbal,JW Jenner,legbyes,1,1,0,,,,31119231119
+1,Jersey,9,JW Jenner,Raza Iqbal,BDH Stevens,,0,2,2,,,,31119231119
+1,Jersey,9,JW Jenner,Raza Iqbal,BDH Stevens,,0,1,1,,,,31119231119
+1,Jersey,9,BDH Stevens,Raza Iqbal,JW Jenner,,0,0,0,,,,31119231119
+1,Jersey,9,BDH Stevens,Raza Iqbal,JW Jenner,,0,1,1,,,,31119231119
+1,Jersey,9,JW Jenner,Raza Iqbal,BDH Stevens,,0,0,0,,,,31119231119
+1,Jersey,10,BDH Stevens,Abdullah Sheikh,JW Jenner,,0,4,4,,,,31119231119
+1,Jersey,10,BDH Stevens,Abdullah Sheikh,JW Jenner,,0,1,1,,,,31119231119
+1,Jersey,10,JW Jenner,Abdullah Sheikh,BDH Stevens,,0,4,4,,,,31119231119
+1,Jersey,10,JW Jenner,Abdullah Sheikh,BDH Stevens,,0,2,2,,,,31119231119
+1,Jersey,10,JW Jenner,Abdullah Sheikh,BDH Stevens,,0,1,1,,,,31119231119
+1,Jersey,10,BDH Stevens,Abdullah Sheikh,JW Jenner,,0,1,1,,,,31119231119
+1,Jersey,11,BDH Stevens,Raza Iqbal,JW Jenner,,0,2,2,,,,31119231119
+1,Jersey,11,BDH Stevens,Raza Iqbal,JW Jenner,,0,0,0,,,,31119231119
+1,Jersey,11,BDH Stevens,Raza Iqbal,JW Jenner,,0,2,2,,,,31119231119
+1,Jersey,11,BDH Stevens,Raza Iqbal,JW Jenner,,0,1,1,,,,31119231119
+1,Jersey,11,JW Jenner,Raza Iqbal,BDH Stevens,,0,1,1,,,,31119231119
+1,Jersey,11,BDH Stevens,Raza Iqbal,JW Jenner,byes,4,4,0,,,,31119231119
+1,Jersey,12,JW Jenner,P Bhart,BDH Stevens,,0,2,2,,,,31119231119
+1,Jersey,12,JW Jenner,P Bhart,BDH Stevens,,0,0,0,,,,31119231119
+1,Jersey,12,JW Jenner,P Bhart,BDH Stevens,,0,0,0,,,,31119231119
+1,Jersey,12,JW Jenner,P Bhart,BDH Stevens,,0,2,2,,,,31119231119
+1,Jersey,12,JW Jenner,P Bhart,BDH Stevens,,0,1,1,,,,31119231119
+1,Jersey,12,BDH Stevens,P Bhart,JW Jenner,,0,0,0,,,,31119231119
+1,Jersey,13,JW Jenner,Walid Ghauri,BDH Stevens,,0,4,4,,,,31119231119
+1,Jersey,13,JW Jenner,Walid Ghauri,BDH Stevens,,0,1,1,,,,31119231119
+1,Jersey,13,BDH Stevens,Walid Ghauri,JW Jenner,,0,0,0,,,,31119231119
+1,Jersey,13,BDH Stevens,Walid Ghauri,JW Jenner,,0,3,3,,,,31119231119
+1,Jersey,13,JW Jenner,Walid Ghauri,BDH Stevens,,0,1,1,,,,31119231119
+1,Jersey,13,BDH Stevens,Walid Ghauri,JW Jenner,,0,6,6,,,,31119231119
+1,Jersey,14,JW Jenner,P Bhart,BDH Stevens,,0,2,2,,,,31119231119
+1,Jersey,14,JW Jenner,P Bhart,BDH Stevens,,0,0,0,,,,31119231119
+1,Jersey,14,JW Jenner,P Bhart,BDH Stevens,,0,1,1,,,,31119231119
+1,Jersey,14,BDH Stevens,P Bhart,JW Jenner,,0,0,0,,,,31119231119
+1,Jersey,14,BDH Stevens,P Bhart,JW Jenner,,0,0,0,,,,31119231119
+1,Jersey,14,BDH Stevens,P Bhart,JW Jenner,,0,1,1,,,,31119231119
+1,Jersey,15,BDH Stevens,Tafseer Ali,JW Jenner,,0,1,1,,,,31119231119
+1,Jersey,15,JW Jenner,Tafseer Ali,BDH Stevens,,0,2,2,,,,31119231119
+1,Jersey,15,JW Jenner,Tafseer Ali,BDH Stevens,,0,6,6,,,,31119231119
+1,Jersey,15,JW Jenner,Tafseer Ali,BDH Stevens,,0,0,0,,,,31119231119
+1,Jersey,15,JW Jenner,Tafseer Ali,BDH Stevens,,0,0,0,caught,JW Jenner,Junaid Sheikh,31119231119
+1,Jersey,15,BDH Stevens,Tafseer Ali,DG Blampied,,0,1,1,,,,31119231119
+1,Jersey,16,BDH Stevens,S Waqas Ahmed,DG Blampied,,0,0,0,,,,31119231119
+1,Jersey,16,BDH Stevens,S Waqas Ahmed,DG Blampied,,0,1,1,,,,31119231119
+1,Jersey,16,DG Blampied,S Waqas Ahmed,BDH Stevens,,0,2,2,,,,31119231119
+1,Jersey,16,DG Blampied,S Waqas Ahmed,BDH Stevens,,0,1,1,,,,31119231119
+1,Jersey,16,BDH Stevens,S Waqas Ahmed,DG Blampied,,0,0,0,caught,BDH Stevens,Junaid Sheikh,31119231119
+1,Jersey,16,DG Blampied,S Waqas Ahmed,B Ward,,0,4,4,,,,31119231119
+1,Jersey,17,B Ward,Tafseer Ali,DG Blampied,,0,1,1,,,,31119231119
+1,Jersey,17,DG Blampied,Tafseer Ali,B Ward,,0,0,0,,,,31119231119
+1,Jersey,17,DG Blampied,Tafseer Ali,B Ward,,0,1,1,,,,31119231119
+1,Jersey,17,B Ward,Tafseer Ali,DG Blampied,,0,0,0,,,,31119231119
+1,Jersey,17,B Ward,Tafseer Ali,DG Blampied,,0,1,1,,,,31119231119
+1,Jersey,17,DG Blampied,Tafseer Ali,B Ward,,0,4,4,,,,31119231119
+1,Jersey,18,B Ward,Hayatullah Niazi,DG Blampied,,0,2,2,,,,31119231119
+1,Jersey,18,B Ward,Hayatullah Niazi,DG Blampied,wides,2,2,0,,,,31119231119
+1,Jersey,18,DG Blampied,Hayatullah Niazi,B Ward,,0,0,0,,,,31119231119
+1,Jersey,18,DG Blampied,Hayatullah Niazi,B Ward,,0,4,4,,,,31119231119
+1,Jersey,18,DG Blampied,Hayatullah Niazi,B Ward,,0,0,0,,,,31119231119
+1,Jersey,18,DG Blampied,Hayatullah Niazi,B Ward,,0,1,1,,,,31119231119
+1,Jersey,18,B Ward,Hayatullah Niazi,DG Blampied,,0,0,0,caught,B Ward,E Ul Haq,31119231119
+1,Jersey,19,DG Blampied,Junaid Sheikh,AW Hawkins-Kay,,0,0,0,,,,31119231119
+1,Jersey,19,DG Blampied,Junaid Sheikh,AW Hawkins-Kay,,0,0,0,,,,31119231119
+1,Jersey,19,DG Blampied,Junaid Sheikh,AW Hawkins-Kay,,0,1,1,,,,31119231119
+1,Jersey,19,AW Hawkins-Kay,Junaid Sheikh,DG Blampied,,0,1,1,,,,31119231119
+1,Jersey,19,DG Blampied,Junaid Sheikh,AW Hawkins-Kay,,0,2,2,,,,31119231119
+1,Jersey,19,DG Blampied,Junaid Sheikh,AW Hawkins-Kay,,0,1,1,,,,31119231119

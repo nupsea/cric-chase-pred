@@ -1,0 +1,109 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,New Zealand,0,BB McCullum,AD Mathews,AJ Redmond,,0,0,0,,,,317323173
+1,New Zealand,0,BB McCullum,AD Mathews,AJ Redmond,,0,1,1,,,,317323173
+1,New Zealand,0,AJ Redmond,AD Mathews,BB McCullum,,0,1,1,,,,317323173
+1,New Zealand,0,BB McCullum,AD Mathews,AJ Redmond,,0,0,0,,,,317323173
+1,New Zealand,0,BB McCullum,AD Mathews,AJ Redmond,,0,0,0,,,,317323173
+1,New Zealand,0,BB McCullum,AD Mathews,AJ Redmond,wides,1,1,0,,,,317323173
+1,New Zealand,0,BB McCullum,AD Mathews,AJ Redmond,,0,0,0,,,,317323173
+1,New Zealand,1,AJ Redmond,KMDN Kulasekara,BB McCullum,,0,0,0,lbw,AJ Redmond,,317323173
+1,New Zealand,1,LRPL Taylor,KMDN Kulasekara,BB McCullum,,0,0,0,,,,317323173
+1,New Zealand,1,LRPL Taylor,KMDN Kulasekara,BB McCullum,,0,1,1,,,,317323173
+1,New Zealand,1,BB McCullum,KMDN Kulasekara,LRPL Taylor,,0,0,0,,,,317323173
+1,New Zealand,1,BB McCullum,KMDN Kulasekara,LRPL Taylor,,0,0,0,bowled,BB McCullum,,317323173
+1,New Zealand,1,RJ Nicol,KMDN Kulasekara,LRPL Taylor,,0,0,0,lbw,RJ Nicol,,317323173
+1,New Zealand,2,LRPL Taylor,AD Mathews,DL Vettori,,0,4,4,,,,317323173
+1,New Zealand,2,LRPL Taylor,AD Mathews,DL Vettori,,0,0,0,,,,317323173
+1,New Zealand,2,LRPL Taylor,AD Mathews,DL Vettori,,0,0,0,lbw,LRPL Taylor,,317323173
+1,New Zealand,2,GJ Hopkins,AD Mathews,DL Vettori,,0,0,0,,,,317323173
+1,New Zealand,2,GJ Hopkins,AD Mathews,DL Vettori,,0,1,1,,,,317323173
+1,New Zealand,2,DL Vettori,AD Mathews,GJ Hopkins,,0,0,0,,,,317323173
+1,New Zealand,3,GJ Hopkins,KMDN Kulasekara,DL Vettori,,0,0,0,,,,317323173
+1,New Zealand,3,GJ Hopkins,KMDN Kulasekara,DL Vettori,,0,0,0,,,,317323173
+1,New Zealand,3,GJ Hopkins,KMDN Kulasekara,DL Vettori,,0,0,0,,,,317323173
+1,New Zealand,3,GJ Hopkins,KMDN Kulasekara,DL Vettori,,0,0,0,,,,317323173
+1,New Zealand,3,GJ Hopkins,KMDN Kulasekara,DL Vettori,,0,0,0,,,,317323173
+1,New Zealand,3,GJ Hopkins,KMDN Kulasekara,DL Vettori,,0,0,0,,,,317323173
+1,New Zealand,4,DL Vettori,AD Mathews,GJ Hopkins,,0,0,0,,,,317323173
+1,New Zealand,4,DL Vettori,AD Mathews,GJ Hopkins,,0,0,0,,,,317323173
+1,New Zealand,4,DL Vettori,AD Mathews,GJ Hopkins,,0,2,2,,,,317323173
+1,New Zealand,4,DL Vettori,AD Mathews,GJ Hopkins,,0,2,2,,,,317323173
+1,New Zealand,4,DL Vettori,AD Mathews,GJ Hopkins,,0,0,0,run out,GJ Hopkins,KC Sangakkara,317323173
+1,New Zealand,4,NL McCullum,AD Mathews,DL Vettori,,0,1,1,,,,317323173
+1,New Zealand,5,NL McCullum,KMDN Kulasekara,DL Vettori,,0,0,0,,,,317323173
+1,New Zealand,5,NL McCullum,KMDN Kulasekara,DL Vettori,,0,1,1,,,,317323173
+1,New Zealand,5,DL Vettori,KMDN Kulasekara,NL McCullum,,0,1,1,,,,317323173
+1,New Zealand,5,NL McCullum,KMDN Kulasekara,DL Vettori,,0,0,0,,,,317323173
+1,New Zealand,5,NL McCullum,KMDN Kulasekara,DL Vettori,,0,0,0,,,,317323173
+1,New Zealand,5,NL McCullum,KMDN Kulasekara,DL Vettori,,0,1,1,,,,317323173
+1,New Zealand,6,NL McCullum,AD Mathews,DL Vettori,,0,4,4,,,,317323173
+1,New Zealand,6,NL McCullum,AD Mathews,DL Vettori,,0,1,1,,,,317323173
+1,New Zealand,6,DL Vettori,AD Mathews,NL McCullum,,0,2,2,,,,317323173
+1,New Zealand,6,DL Vettori,AD Mathews,NL McCullum,,0,1,1,,,,317323173
+1,New Zealand,6,NL McCullum,AD Mathews,DL Vettori,,0,1,1,,,,317323173
+1,New Zealand,6,DL Vettori,AD Mathews,NL McCullum,,0,0,0,,,,317323173
+1,New Zealand,7,NL McCullum,SL Malinga,DL Vettori,,0,1,1,,,,317323173
+1,New Zealand,7,DL Vettori,SL Malinga,NL McCullum,,0,1,1,,,,317323173
+1,New Zealand,7,NL McCullum,SL Malinga,DL Vettori,,0,2,2,,,,317323173
+1,New Zealand,7,NL McCullum,SL Malinga,DL Vettori,,0,1,1,,,,317323173
+1,New Zealand,7,DL Vettori,SL Malinga,NL McCullum,,0,2,2,,,,317323173
+1,New Zealand,7,DL Vettori,SL Malinga,NL McCullum,,0,1,1,,,,317323173
+1,New Zealand,8,DL Vettori,BAW Mendis,NL McCullum,wides,1,1,0,,,,317323173
+1,New Zealand,8,DL Vettori,BAW Mendis,NL McCullum,,0,2,2,,,,317323173
+1,New Zealand,8,DL Vettori,BAW Mendis,NL McCullum,,0,0,0,,,,317323173
+1,New Zealand,8,DL Vettori,BAW Mendis,NL McCullum,,0,1,1,,,,317323173
+1,New Zealand,8,NL McCullum,BAW Mendis,DL Vettori,,0,0,0,,,,317323173
+1,New Zealand,8,NL McCullum,BAW Mendis,DL Vettori,,0,1,1,,,,317323173
+1,New Zealand,8,DL Vettori,BAW Mendis,NL McCullum,,0,0,0,,,,317323173
+1,New Zealand,9,NL McCullum,ST Jayasuriya,DL Vettori,,0,1,1,,,,317323173
+1,New Zealand,9,DL Vettori,ST Jayasuriya,NL McCullum,,0,4,4,,,,317323173
+1,New Zealand,9,DL Vettori,ST Jayasuriya,NL McCullum,,0,1,1,,,,317323173
+1,New Zealand,9,NL McCullum,ST Jayasuriya,DL Vettori,,0,1,1,,,,317323173
+1,New Zealand,9,DL Vettori,ST Jayasuriya,NL McCullum,,0,4,4,,,,317323173
+1,New Zealand,9,DL Vettori,ST Jayasuriya,NL McCullum,,0,1,1,,,,317323173
+1,New Zealand,10,DL Vettori,BAW Mendis,NL McCullum,wides,1,1,0,,,,317323173
+1,New Zealand,10,DL Vettori,BAW Mendis,NL McCullum,,0,1,1,,,,317323173
+1,New Zealand,10,NL McCullum,BAW Mendis,DL Vettori,,0,2,2,,,,317323173
+1,New Zealand,10,NL McCullum,BAW Mendis,DL Vettori,,0,1,1,,,,317323173
+1,New Zealand,10,DL Vettori,BAW Mendis,NL McCullum,,0,1,1,,,,317323173
+1,New Zealand,10,NL McCullum,BAW Mendis,DL Vettori,,0,1,1,,,,317323173
+1,New Zealand,10,DL Vettori,BAW Mendis,NL McCullum,,0,0,0,caught,DL Vettori,KC Sangakkara,317323173
+1,New Zealand,11,NL McCullum,NLTC Perera,JDP Oram,,0,0,0,,,,317323173
+1,New Zealand,11,NL McCullum,NLTC Perera,JDP Oram,,0,0,0,,,,317323173
+1,New Zealand,11,NL McCullum,NLTC Perera,JDP Oram,,0,0,0,,,,317323173
+1,New Zealand,11,NL McCullum,NLTC Perera,JDP Oram,,0,1,1,,,,317323173
+1,New Zealand,11,JDP Oram,NLTC Perera,NL McCullum,,0,1,1,,,,317323173
+1,New Zealand,11,NL McCullum,NLTC Perera,JDP Oram,,0,0,0,,,,317323173
+1,New Zealand,12,JDP Oram,TM Dilshan,NL McCullum,,0,1,1,,,,317323173
+1,New Zealand,12,NL McCullum,TM Dilshan,JDP Oram,,0,1,1,,,,317323173
+1,New Zealand,12,JDP Oram,TM Dilshan,NL McCullum,,0,0,0,,,,317323173
+1,New Zealand,12,JDP Oram,TM Dilshan,NL McCullum,,0,0,0,,,,317323173
+1,New Zealand,12,JDP Oram,TM Dilshan,NL McCullum,,0,1,1,,,,317323173
+1,New Zealand,12,NL McCullum,TM Dilshan,JDP Oram,,0,1,1,,,,317323173
+1,New Zealand,13,NL McCullum,SL Malinga,JDP Oram,,0,0,0,,,,317323173
+1,New Zealand,13,NL McCullum,SL Malinga,JDP Oram,,0,0,0,,,,317323173
+1,New Zealand,13,NL McCullum,SL Malinga,JDP Oram,,0,2,2,,,,317323173
+1,New Zealand,13,NL McCullum,SL Malinga,JDP Oram,,0,1,1,,,,317323173
+1,New Zealand,13,JDP Oram,SL Malinga,NL McCullum,,0,0,0,,,,317323173
+1,New Zealand,13,JDP Oram,SL Malinga,NL McCullum,,0,0,0,caught,JDP Oram,CK Kapugedera,317323173
+1,New Zealand,14,NL McCullum,BAW Mendis,KD Mills,,0,1,1,,,,317323173
+1,New Zealand,14,KD Mills,BAW Mendis,NL McCullum,,0,0,0,,,,317323173
+1,New Zealand,14,KD Mills,BAW Mendis,NL McCullum,,0,0,0,lbw,KD Mills,,317323173
+1,New Zealand,14,TG Southee,BAW Mendis,NL McCullum,,0,1,1,,,,317323173
+1,New Zealand,14,NL McCullum,BAW Mendis,TG Southee,,0,1,1,,,,317323173
+1,New Zealand,14,TG Southee,BAW Mendis,NL McCullum,,0,1,1,,,,317323173
+1,New Zealand,15,TG Southee,NLTC Perera,NL McCullum,,0,0,0,,,,317323173
+1,New Zealand,15,TG Southee,NLTC Perera,NL McCullum,,0,1,1,,,,317323173
+1,New Zealand,15,NL McCullum,NLTC Perera,TG Southee,,0,4,4,,,,317323173
+1,New Zealand,15,NL McCullum,NLTC Perera,TG Southee,,0,1,1,,,,317323173
+1,New Zealand,15,TG Southee,NLTC Perera,NL McCullum,,0,0,0,,,,317323173
+1,New Zealand,15,TG Southee,NLTC Perera,NL McCullum,,0,0,0,,,,317323173
+1,New Zealand,16,NL McCullum,BAW Mendis,TG Southee,,0,0,0,,,,317323173
+1,New Zealand,16,NL McCullum,BAW Mendis,TG Southee,,0,1,1,,,,317323173
+1,New Zealand,16,TG Southee,BAW Mendis,NL McCullum,,0,1,1,,,,317323173
+1,New Zealand,16,NL McCullum,BAW Mendis,TG Southee,,0,0,0,,,,317323173
+1,New Zealand,16,NL McCullum,BAW Mendis,TG Southee,,0,1,1,,,,317323173
+1,New Zealand,16,TG Southee,BAW Mendis,NL McCullum,,0,0,0,,,,317323173
+1,New Zealand,17,NL McCullum,SL Malinga,TG Southee,,0,1,1,,,,317323173
+1,New Zealand,17,TG Southee,SL Malinga,NL McCullum,,0,0,0,bowled,TG Southee,,317323173
+1,New Zealand,17,AJ McKay,SL Malinga,NL McCullum,,0,0,0,bowled,AJ McKay,,317323173

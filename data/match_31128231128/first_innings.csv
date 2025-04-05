@@ -1,0 +1,130 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,T Bavuma,MM Ali,Q de Kock,,0,4,4,,,,31128231128
+1,South Africa,0,T Bavuma,MM Ali,Q de Kock,,0,0,0,,,,31128231128
+1,South Africa,0,T Bavuma,MM Ali,Q de Kock,,0,1,1,,,,31128231128
+1,South Africa,0,Q de Kock,MM Ali,T Bavuma,,0,1,1,,,,31128231128
+1,South Africa,0,T Bavuma,MM Ali,Q de Kock,,0,4,4,,,,31128231128
+1,South Africa,0,T Bavuma,MM Ali,Q de Kock,,0,1,1,,,,31128231128
+1,South Africa,1,T Bavuma,TK Curran,Q de Kock,,0,1,1,,,,31128231128
+1,South Africa,1,Q de Kock,TK Curran,T Bavuma,,0,0,0,,,,31128231128
+1,South Africa,1,Q de Kock,TK Curran,T Bavuma,,0,0,0,,,,31128231128
+1,South Africa,1,Q de Kock,TK Curran,T Bavuma,legbyes,1,1,0,,,,31128231128
+1,South Africa,1,T Bavuma,TK Curran,Q de Kock,,0,0,0,,,,31128231128
+1,South Africa,1,T Bavuma,TK Curran,Q de Kock,,0,4,4,,,,31128231128
+1,South Africa,2,Q de Kock,MA Wood,T Bavuma,,0,6,6,,,,31128231128
+1,South Africa,2,Q de Kock,MA Wood,T Bavuma,,0,1,1,,,,31128231128
+1,South Africa,2,T Bavuma,MA Wood,Q de Kock,,0,1,1,,,,31128231128
+1,South Africa,2,Q de Kock,MA Wood,T Bavuma,,0,1,1,,,,31128231128
+1,South Africa,2,T Bavuma,MA Wood,Q de Kock,,0,6,6,,,,31128231128
+1,South Africa,2,T Bavuma,MA Wood,Q de Kock,,0,1,1,,,,31128231128
+1,South Africa,3,T Bavuma,CJ Jordan,Q de Kock,,0,1,1,,,,31128231128
+1,South Africa,3,Q de Kock,CJ Jordan,T Bavuma,,0,6,6,,,,31128231128
+1,South Africa,3,Q de Kock,CJ Jordan,T Bavuma,,0,6,6,,,,31128231128
+1,South Africa,3,Q de Kock,CJ Jordan,T Bavuma,,0,6,6,,,,31128231128
+1,South Africa,3,Q de Kock,CJ Jordan,T Bavuma,,0,0,0,,,,31128231128
+1,South Africa,3,Q de Kock,CJ Jordan,T Bavuma,,0,0,0,,,,31128231128
+1,South Africa,4,T Bavuma,TK Curran,Q de Kock,,0,2,2,,,,31128231128
+1,South Africa,4,T Bavuma,TK Curran,Q de Kock,,0,1,1,,,,31128231128
+1,South Africa,4,Q de Kock,TK Curran,T Bavuma,,0,4,4,,,,31128231128
+1,South Africa,4,Q de Kock,TK Curran,T Bavuma,,0,0,0,,,,31128231128
+1,South Africa,4,Q de Kock,TK Curran,T Bavuma,,0,0,0,,,,31128231128
+1,South Africa,4,Q de Kock,TK Curran,T Bavuma,,0,1,1,,,,31128231128
+1,South Africa,5,Q de Kock,CJ Jordan,T Bavuma,,0,1,1,,,,31128231128
+1,South Africa,5,T Bavuma,CJ Jordan,Q de Kock,,0,1,1,,,,31128231128
+1,South Africa,5,Q de Kock,CJ Jordan,T Bavuma,,0,0,0,,,,31128231128
+1,South Africa,5,Q de Kock,CJ Jordan,T Bavuma,,0,0,0,,,,31128231128
+1,South Africa,5,Q de Kock,CJ Jordan,T Bavuma,,0,1,1,,,,31128231128
+1,South Africa,5,T Bavuma,CJ Jordan,Q de Kock,,0,1,1,,,,31128231128
+1,South Africa,6,T Bavuma,AU Rashid,Q de Kock,,0,6,6,,,,31128231128
+1,South Africa,6,T Bavuma,AU Rashid,Q de Kock,,0,4,4,,,,31128231128
+1,South Africa,6,T Bavuma,AU Rashid,Q de Kock,,0,1,1,,,,31128231128
+1,South Africa,6,Q de Kock,AU Rashid,T Bavuma,,0,1,1,,,,31128231128
+1,South Africa,6,T Bavuma,AU Rashid,Q de Kock,,0,1,1,,,,31128231128
+1,South Africa,6,Q de Kock,AU Rashid,T Bavuma,,0,0,0,,,,31128231128
+1,South Africa,7,T Bavuma,BA Stokes,Q de Kock,,0,6,6,,,,31128231128
+1,South Africa,7,T Bavuma,BA Stokes,Q de Kock,,0,1,1,,,,31128231128
+1,South Africa,7,Q de Kock,BA Stokes,T Bavuma,,0,0,0,,,,31128231128
+1,South Africa,7,Q de Kock,BA Stokes,T Bavuma,,0,0,0,caught,Q de Kock,JM Bairstow,31128231128
+1,South Africa,7,HE van der Dussen,BA Stokes,T Bavuma,,0,1,1,,,,31128231128
+1,South Africa,7,T Bavuma,BA Stokes,HE van der Dussen,,0,1,1,,,,31128231128
+1,South Africa,8,T Bavuma,AU Rashid,HE van der Dussen,,0,0,0,bowled,T Bavuma,,31128231128
+1,South Africa,8,H Klaasen,AU Rashid,HE van der Dussen,,0,1,1,,,,31128231128
+1,South Africa,8,HE van der Dussen,AU Rashid,H Klaasen,,0,1,1,,,,31128231128
+1,South Africa,8,H Klaasen,AU Rashid,HE van der Dussen,,0,0,0,,,,31128231128
+1,South Africa,8,H Klaasen,AU Rashid,HE van der Dussen,,0,1,1,,,,31128231128
+1,South Africa,8,HE van der Dussen,AU Rashid,H Klaasen,,0,1,1,,,,31128231128
+1,South Africa,9,HE van der Dussen,BA Stokes,H Klaasen,,0,4,4,,,,31128231128
+1,South Africa,9,HE van der Dussen,BA Stokes,H Klaasen,,0,1,1,,,,31128231128
+1,South Africa,9,H Klaasen,BA Stokes,HE van der Dussen,,0,2,2,,,,31128231128
+1,South Africa,9,H Klaasen,BA Stokes,HE van der Dussen,,0,1,1,,,,31128231128
+1,South Africa,9,HE van der Dussen,BA Stokes,H Klaasen,,0,1,1,,,,31128231128
+1,South Africa,9,H Klaasen,BA Stokes,HE van der Dussen,,0,1,1,,,,31128231128
+1,South Africa,10,H Klaasen,AU Rashid,HE van der Dussen,,0,1,1,,,,31128231128
+1,South Africa,10,HE van der Dussen,AU Rashid,H Klaasen,wides,1,1,0,,,,31128231128
+1,South Africa,10,HE van der Dussen,AU Rashid,H Klaasen,,0,1,1,,,,31128231128
+1,South Africa,10,H Klaasen,AU Rashid,HE van der Dussen,,0,6,6,,,,31128231128
+1,South Africa,10,H Klaasen,AU Rashid,HE van der Dussen,,0,1,1,,,,31128231128
+1,South Africa,10,HE van der Dussen,AU Rashid,H Klaasen,,0,1,1,,,,31128231128
+1,South Africa,10,H Klaasen,AU Rashid,HE van der Dussen,,0,1,1,,,,31128231128
+1,South Africa,11,H Klaasen,BA Stokes,HE van der Dussen,,0,1,1,,,,31128231128
+1,South Africa,11,HE van der Dussen,BA Stokes,H Klaasen,,0,0,0,caught,HE van der Dussen,TK Curran,31128231128
+1,South Africa,11,H Klaasen,BA Stokes,DA Miller,,0,1,1,,,,31128231128
+1,South Africa,11,DA Miller,BA Stokes,H Klaasen,,0,0,0,,,,31128231128
+1,South Africa,11,DA Miller,BA Stokes,H Klaasen,,0,1,1,,,,31128231128
+1,South Africa,11,H Klaasen,BA Stokes,DA Miller,,0,1,1,,,,31128231128
+1,South Africa,12,H Klaasen,AU Rashid,DA Miller,,0,1,1,,,,31128231128
+1,South Africa,12,DA Miller,AU Rashid,H Klaasen,,0,1,1,,,,31128231128
+1,South Africa,12,H Klaasen,AU Rashid,DA Miller,,0,2,2,,,,31128231128
+1,South Africa,12,H Klaasen,AU Rashid,DA Miller,,0,6,6,,,,31128231128
+1,South Africa,12,H Klaasen,AU Rashid,DA Miller,,0,2,2,,,,31128231128
+1,South Africa,12,H Klaasen,AU Rashid,DA Miller,,0,1,1,,,,31128231128
+1,South Africa,13,H Klaasen,BA Stokes,DA Miller,wides,1,1,0,,,,31128231128
+1,South Africa,13,H Klaasen,BA Stokes,DA Miller,,0,6,6,,,,31128231128
+1,South Africa,13,H Klaasen,BA Stokes,DA Miller,,0,1,1,,,,31128231128
+1,South Africa,13,DA Miller,BA Stokes,H Klaasen,,0,1,1,,,,31128231128
+1,South Africa,13,H Klaasen,BA Stokes,DA Miller,,0,0,0,,,,31128231128
+1,South Africa,13,H Klaasen,BA Stokes,DA Miller,,0,2,2,,,,31128231128
+1,South Africa,13,H Klaasen,BA Stokes,DA Miller,,0,1,1,,,,31128231128
+1,South Africa,14,H Klaasen,MA Wood,DA Miller,,0,4,4,,,,31128231128
+1,South Africa,14,H Klaasen,MA Wood,DA Miller,,0,6,6,,,,31128231128
+1,South Africa,14,H Klaasen,MA Wood,DA Miller,wides,1,1,0,,,,31128231128
+1,South Africa,14,H Klaasen,MA Wood,DA Miller,,0,1,1,,,,31128231128
+1,South Africa,14,DA Miller,MA Wood,H Klaasen,,0,1,1,,,,31128231128
+1,South Africa,14,H Klaasen,MA Wood,DA Miller,wides,1,1,0,,,,31128231128
+1,South Africa,14,H Klaasen,MA Wood,DA Miller,,0,4,4,,,,31128231128
+1,South Africa,14,H Klaasen,MA Wood,DA Miller,wides,1,1,0,,,,31128231128
+1,South Africa,14,H Klaasen,MA Wood,DA Miller,,0,4,4,,,,31128231128
+1,South Africa,15,DA Miller,CJ Jordan,H Klaasen,,0,2,2,,,,31128231128
+1,South Africa,15,DA Miller,CJ Jordan,H Klaasen,,0,1,1,,,,31128231128
+1,South Africa,15,H Klaasen,CJ Jordan,DA Miller,wides,1,1,0,,,,31128231128
+1,South Africa,15,H Klaasen,CJ Jordan,DA Miller,,0,4,4,,,,31128231128
+1,South Africa,15,H Klaasen,CJ Jordan,DA Miller,,0,1,1,,,,31128231128
+1,South Africa,15,DA Miller,CJ Jordan,H Klaasen,,0,1,1,,,,31128231128
+1,South Africa,15,H Klaasen,CJ Jordan,DA Miller,,0,0,0,,,,31128231128
+1,South Africa,16,DA Miller,TK Curran,H Klaasen,,0,1,1,,,,31128231128
+1,South Africa,16,H Klaasen,TK Curran,DA Miller,,0,2,2,,,,31128231128
+1,South Africa,16,H Klaasen,TK Curran,DA Miller,,0,0,0,caught,H Klaasen,BA Stokes,31128231128
+1,South Africa,16,DA Miller,TK Curran,D Pretorius,,0,1,1,,,,31128231128
+1,South Africa,16,D Pretorius,TK Curran,DA Miller,,0,0,0,,,,31128231128
+1,South Africa,16,D Pretorius,TK Curran,DA Miller,,0,1,1,,,,31128231128
+1,South Africa,17,D Pretorius,CJ Jordan,DA Miller,,0,4,4,,,,31128231128
+1,South Africa,17,D Pretorius,CJ Jordan,DA Miller,,0,1,1,,,,31128231128
+1,South Africa,17,DA Miller,CJ Jordan,D Pretorius,,0,0,0,,,,31128231128
+1,South Africa,17,DA Miller,CJ Jordan,D Pretorius,wides,1,1,0,,,,31128231128
+1,South Africa,17,DA Miller,CJ Jordan,D Pretorius,,0,4,4,,,,31128231128
+1,South Africa,17,DA Miller,CJ Jordan,D Pretorius,,0,6,6,,,,31128231128
+1,South Africa,17,DA Miller,CJ Jordan,D Pretorius,,0,0,0,,,,31128231128
+1,South Africa,18,D Pretorius,TK Curran,DA Miller,,0,1,1,,,,31128231128
+1,South Africa,18,DA Miller,TK Curran,D Pretorius,wides,1,1,0,,,,31128231128
+1,South Africa,18,DA Miller,TK Curran,D Pretorius,,0,1,1,,,,31128231128
+1,South Africa,18,D Pretorius,TK Curran,DA Miller,,0,4,4,,,,31128231128
+1,South Africa,18,D Pretorius,TK Curran,DA Miller,,0,0,0,caught,D Pretorius,JC Buttler,31128231128
+1,South Africa,18,AL Phehlukwayo,TK Curran,DA Miller,,0,1,1,,,,31128231128
+1,South Africa,18,DA Miller,TK Curran,AL Phehlukwayo,wides,1,1,0,,,,31128231128
+1,South Africa,18,DA Miller,TK Curran,AL Phehlukwayo,,0,6,6,,,,31128231128
+1,South Africa,19,AL Phehlukwayo,MA Wood,DA Miller,legbyes,4,4,0,,,,31128231128
+1,South Africa,19,AL Phehlukwayo,MA Wood,DA Miller,,0,0,0,caught,AL Phehlukwayo,BA Stokes,31128231128
+1,South Africa,19,DA Miller,MA Wood,BC Fortuin,,0,0,0,,,,31128231128
+1,South Africa,19,DA Miller,MA Wood,BC Fortuin,,0,4,4,,,,31128231128
+1,South Africa,19,DA Miller,MA Wood,BC Fortuin,,0,0,0,,,,31128231128
+1,South Africa,19,DA Miller,MA Wood,BC Fortuin,,0,4,4,,,,31128231128

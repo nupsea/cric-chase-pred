@@ -1,0 +1,83 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Scotland,0,RD Berrington,NN Odhiambo,CS MacLeod,,0,0,0,,,,337123371
+2,Scotland,0,RD Berrington,NN Odhiambo,CS MacLeod,wides,1,1,0,,,,337123371
+2,Scotland,0,RD Berrington,NN Odhiambo,CS MacLeod,,0,0,0,,,,337123371
+2,Scotland,0,RD Berrington,NN Odhiambo,CS MacLeod,wides,1,1,0,,,,337123371
+2,Scotland,0,RD Berrington,NN Odhiambo,CS MacLeod,,0,1,1,,,,337123371
+2,Scotland,0,CS MacLeod,NN Odhiambo,RD Berrington,legbyes,1,1,0,,,,337123371
+2,Scotland,0,RD Berrington,NN Odhiambo,CS MacLeod,,0,4,4,,,,337123371
+2,Scotland,0,RD Berrington,NN Odhiambo,CS MacLeod,,0,1,1,,,,337123371
+2,Scotland,1,RD Berrington,E Otieno,CS MacLeod,,0,0,0,,,,337123371
+2,Scotland,1,RD Berrington,E Otieno,CS MacLeod,,0,0,0,,,,337123371
+2,Scotland,1,RD Berrington,E Otieno,CS MacLeod,,0,2,2,,,,337123371
+2,Scotland,1,RD Berrington,E Otieno,CS MacLeod,,0,6,6,,,,337123371
+2,Scotland,1,RD Berrington,E Otieno,CS MacLeod,,0,1,1,,,,337123371
+2,Scotland,1,CS MacLeod,E Otieno,RD Berrington,,0,0,0,,,,337123371
+2,Scotland,2,RD Berrington,NN Odhiambo,CS MacLeod,,0,4,4,,,,337123371
+2,Scotland,2,RD Berrington,NN Odhiambo,CS MacLeod,,0,0,0,caught,RD Berrington,SO Ngoche,337123371
+2,Scotland,2,CS MacLeod,NN Odhiambo,MW Machan,,0,0,0,,,,337123371
+2,Scotland,2,CS MacLeod,NN Odhiambo,MW Machan,,0,0,0,,,,337123371
+2,Scotland,2,CS MacLeod,NN Odhiambo,MW Machan,,0,0,0,,,,337123371
+2,Scotland,2,CS MacLeod,NN Odhiambo,MW Machan,,0,0,0,,,,337123371
+2,Scotland,3,MW Machan,RG Aga,CS MacLeod,,0,0,0,,,,337123371
+2,Scotland,3,MW Machan,RG Aga,CS MacLeod,,0,4,4,,,,337123371
+2,Scotland,3,MW Machan,RG Aga,CS MacLeod,,0,4,4,,,,337123371
+2,Scotland,3,MW Machan,RG Aga,CS MacLeod,,0,4,4,,,,337123371
+2,Scotland,3,MW Machan,RG Aga,CS MacLeod,,0,1,1,,,,337123371
+2,Scotland,3,CS MacLeod,RG Aga,MW Machan,,0,0,0,,,,337123371
+2,Scotland,4,MW Machan,SO Ngoche,CS MacLeod,,0,0,0,caught and bowled,MW Machan,,337123371
+2,Scotland,4,KJ Coetzer,SO Ngoche,CS MacLeod,,0,6,6,,,,337123371
+2,Scotland,4,KJ Coetzer,SO Ngoche,CS MacLeod,,0,4,4,,,,337123371
+2,Scotland,4,KJ Coetzer,SO Ngoche,CS MacLeod,,0,1,1,,,,337123371
+2,Scotland,4,CS MacLeod,SO Ngoche,KJ Coetzer,,0,1,1,,,,337123371
+2,Scotland,4,KJ Coetzer,SO Ngoche,CS MacLeod,,0,4,4,,,,337123371
+2,Scotland,5,CS MacLeod,HA Varaiya,KJ Coetzer,,0,0,0,run out,CS MacLeod,HA Varaiya,337123371
+2,Scotland,5,KJ Coetzer,HA Varaiya,RML Taylor,,0,0,0,bowled,KJ Coetzer,,337123371
+2,Scotland,5,D Murphy,HA Varaiya,RML Taylor,,0,2,2,,,,337123371
+2,Scotland,5,D Murphy,HA Varaiya,RML Taylor,,0,0,0,,,,337123371
+2,Scotland,5,D Murphy,HA Varaiya,RML Taylor,,0,1,1,,,,337123371
+2,Scotland,5,RML Taylor,HA Varaiya,D Murphy,,0,0,0,,,,337123371
+2,Scotland,6,D Murphy,TM Odoyo,RML Taylor,,0,0,0,,,,337123371
+2,Scotland,6,D Murphy,TM Odoyo,RML Taylor,,0,1,1,,,,337123371
+2,Scotland,6,RML Taylor,TM Odoyo,D Murphy,,0,0,0,,,,337123371
+2,Scotland,6,RML Taylor,TM Odoyo,D Murphy,,0,1,1,,,,337123371
+2,Scotland,6,D Murphy,TM Odoyo,RML Taylor,,0,1,1,,,,337123371
+2,Scotland,6,RML Taylor,TM Odoyo,D Murphy,,0,0,0,,,,337123371
+2,Scotland,7,D Murphy,HA Varaiya,RML Taylor,,0,1,1,,,,337123371
+2,Scotland,7,RML Taylor,HA Varaiya,D Murphy,,0,6,6,,,,337123371
+2,Scotland,7,RML Taylor,HA Varaiya,D Murphy,,0,0,0,,,,337123371
+2,Scotland,7,RML Taylor,HA Varaiya,D Murphy,,0,1,1,,,,337123371
+2,Scotland,7,D Murphy,HA Varaiya,RML Taylor,,0,1,1,,,,337123371
+2,Scotland,7,RML Taylor,HA Varaiya,D Murphy,,0,6,6,,,,337123371
+2,Scotland,8,D Murphy,TM Odoyo,RML Taylor,,0,1,1,,,,337123371
+2,Scotland,8,RML Taylor,TM Odoyo,D Murphy,,0,1,1,,,,337123371
+2,Scotland,8,D Murphy,TM Odoyo,RML Taylor,,0,1,1,,,,337123371
+2,Scotland,8,RML Taylor,TM Odoyo,D Murphy,,0,1,1,,,,337123371
+2,Scotland,8,D Murphy,TM Odoyo,RML Taylor,,0,1,1,,,,337123371
+2,Scotland,8,RML Taylor,TM Odoyo,D Murphy,,0,0,0,,,,337123371
+2,Scotland,9,D Murphy,E Otieno,RML Taylor,,0,2,2,,,,337123371
+2,Scotland,9,D Murphy,E Otieno,RML Taylor,,0,0,0,,,,337123371
+2,Scotland,9,D Murphy,E Otieno,RML Taylor,,0,1,1,,,,337123371
+2,Scotland,9,RML Taylor,E Otieno,D Murphy,,0,1,1,,,,337123371
+2,Scotland,9,D Murphy,E Otieno,RML Taylor,,0,2,2,,,,337123371
+2,Scotland,9,D Murphy,E Otieno,RML Taylor,,0,1,1,,,,337123371
+2,Scotland,10,D Murphy,TM Odoyo,RML Taylor,,0,1,1,,,,337123371
+2,Scotland,10,RML Taylor,TM Odoyo,D Murphy,,0,0,0,caught,RML Taylor,RR Patel,337123371
+2,Scotland,10,D Murphy,TM Odoyo,G Goudie,,0,1,1,,,,337123371
+2,Scotland,10,G Goudie,TM Odoyo,D Murphy,,0,1,1,,,,337123371
+2,Scotland,10,D Murphy,TM Odoyo,G Goudie,,0,1,1,,,,337123371
+2,Scotland,10,G Goudie,TM Odoyo,D Murphy,,0,0,0,,,,337123371
+2,Scotland,11,D Murphy,SO Tikolo,G Goudie,,0,1,1,,,,337123371
+2,Scotland,11,G Goudie,SO Tikolo,D Murphy,,0,0,0,caught,G Goudie,TM Odoyo,337123371
+2,Scotland,11,D Murphy,SO Tikolo,SM Sharif,,0,0,0,caught,D Murphy,RR Patel,337123371
+2,Scotland,11,SM Sharif,SO Tikolo,RM Haq,,0,0,0,,,,337123371
+2,Scotland,11,SM Sharif,SO Tikolo,RM Haq,,0,0,0,caught,SM Sharif,RG Aga,337123371
+2,Scotland,11,NM Carter,SO Tikolo,RM Haq,,0,1,1,,,,337123371
+2,Scotland,12,NM Carter,SO Ngoche,RM Haq,,0,0,0,,,,337123371
+2,Scotland,12,NM Carter,SO Ngoche,RM Haq,,0,0,0,,,,337123371
+2,Scotland,12,NM Carter,SO Ngoche,RM Haq,,0,0,0,,,,337123371
+2,Scotland,12,NM Carter,SO Ngoche,RM Haq,,0,0,0,,,,337123371
+2,Scotland,12,NM Carter,SO Ngoche,RM Haq,,0,0,0,caught,NM Carter,HA Varaiya,337123371
+2,Scotland,12,I Wardlaw,SO Ngoche,RM Haq,,0,1,1,,,,337123371
+2,Scotland,13,I Wardlaw,SO Tikolo,RM Haq,,0,0,0,,,,337123371
+2,Scotland,13,I Wardlaw,SO Tikolo,RM Haq,,0,0,0,caught,I Wardlaw,RG Aga,337123371

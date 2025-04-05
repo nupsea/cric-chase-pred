@@ -1,0 +1,95 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Singapore,0,Zay Hua Tan,Aysha,PSR Gurusinghe,,0,0,0,,,,32096232096
+1,Singapore,0,Zay Hua Tan,Aysha,PSR Gurusinghe,,0,0,0,,,,32096232096
+1,Singapore,0,Zay Hua Tan,Aysha,PSR Gurusinghe,,0,2,2,,,,32096232096
+1,Singapore,0,Zay Hua Tan,Aysha,PSR Gurusinghe,,0,0,0,,,,32096232096
+1,Singapore,0,Zay Hua Tan,Aysha,PSR Gurusinghe,,0,1,1,,,,32096232096
+1,Singapore,0,Zay Hua Tan,Aysha,PSR Gurusinghe,,0,0,0,,,,32096232096
+1,Singapore,1,PSR Gurusinghe,A Mare,Zay Hua Tan,,0,0,0,,,,32096232096
+1,Singapore,1,PSR Gurusinghe,A Mare,Zay Hua Tan,,0,1,1,,,,32096232096
+1,Singapore,1,Zay Hua Tan,A Mare,PSR Gurusinghe,wides,1,1,0,,,,32096232096
+1,Singapore,1,Zay Hua Tan,A Mare,PSR Gurusinghe,,0,0,0,bowled,Zay Hua Tan,,32096232096
+1,Singapore,1,Shafina Mahesh,A Mare,PSR Gurusinghe,,0,0,0,,,,32096232096
+1,Singapore,1,Shafina Mahesh,A Mare,PSR Gurusinghe,,0,0,0,,,,32096232096
+1,Singapore,1,Shafina Mahesh,A Mare,PSR Gurusinghe,,0,2,2,,,,32096232096
+1,Singapore,2,PSR Gurusinghe,Aysha,Shafina Mahesh,,0,0,0,lbw,PSR Gurusinghe,,32096232096
+1,Singapore,2,GK Diviya,Aysha,Shafina Mahesh,,0,0,0,,,,32096232096
+1,Singapore,2,GK Diviya,Aysha,Shafina Mahesh,,0,4,4,,,,32096232096
+1,Singapore,2,GK Diviya,Aysha,Shafina Mahesh,,0,1,1,,,,32096232096
+1,Singapore,2,Shafina Mahesh,Aysha,GK Diviya,,0,0,0,,,,32096232096
+1,Singapore,2,Shafina Mahesh,Aysha,GK Diviya,,0,0,0,,,,32096232096
+1,Singapore,3,GK Diviya,A Mare,Shafina Mahesh,,0,1,1,,,,32096232096
+1,Singapore,3,Shafina Mahesh,A Mare,GK Diviya,wides,1,1,0,,,,32096232096
+1,Singapore,3,Shafina Mahesh,A Mare,GK Diviya,,0,0,0,,,,32096232096
+1,Singapore,3,Shafina Mahesh,A Mare,GK Diviya,,0,0,0,,,,32096232096
+1,Singapore,3,Shafina Mahesh,A Mare,GK Diviya,,0,1,1,,,,32096232096
+1,Singapore,3,GK Diviya,A Mare,Shafina Mahesh,,0,0,0,,,,32096232096
+1,Singapore,3,GK Diviya,A Mare,Shafina Mahesh,,0,0,0,,,,32096232096
+1,Singapore,4,Shafina Mahesh,Aysha,GK Diviya,,0,0,0,,,,32096232096
+1,Singapore,4,Shafina Mahesh,Aysha,GK Diviya,,0,1,1,,,,32096232096
+1,Singapore,4,GK Diviya,Aysha,Shafina Mahesh,,0,0,0,,,,32096232096
+1,Singapore,4,GK Diviya,Aysha,Shafina Mahesh,,0,1,1,,,,32096232096
+1,Singapore,4,Shafina Mahesh,Aysha,GK Diviya,,0,2,2,,,,32096232096
+1,Singapore,4,Shafina Mahesh,Aysha,GK Diviya,,0,0,0,,,,32096232096
+1,Singapore,5,GK Diviya,A Mare,Shafina Mahesh,,0,0,0,,,,32096232096
+1,Singapore,5,GK Diviya,A Mare,Shafina Mahesh,,0,0,0,caught,GK Diviya,H Agarwal,32096232096
+1,Singapore,5,Vinu Kumar,A Mare,Shafina Mahesh,,0,0,0,,,,32096232096
+1,Singapore,5,Vinu Kumar,A Mare,Shafina Mahesh,,0,0,0,run out,Shafina Mahesh,A Mare,32096232096
+1,Singapore,5,Vinu Kumar,A Mare,CH Abeyratne,,0,4,4,,,,32096232096
+1,Singapore,5,Vinu Kumar,A Mare,CH Abeyratne,,0,0,0,,,,32096232096
+1,Singapore,6,CH Abeyratne,H Agarwal,Vinu Kumar,,0,0,0,,,,32096232096
+1,Singapore,6,CH Abeyratne,H Agarwal,Vinu Kumar,,0,0,0,,,,32096232096
+1,Singapore,6,CH Abeyratne,H Agarwal,Vinu Kumar,wides,1,1,0,,,,32096232096
+1,Singapore,6,CH Abeyratne,H Agarwal,Vinu Kumar,,0,1,1,,,,32096232096
+1,Singapore,6,Vinu Kumar,H Agarwal,CH Abeyratne,,0,0,0,,,,32096232096
+1,Singapore,6,Vinu Kumar,H Agarwal,CH Abeyratne,,0,2,2,,,,32096232096
+1,Singapore,6,Vinu Kumar,H Agarwal,CH Abeyratne,wides,1,1,0,,,,32096232096
+1,Singapore,6,Vinu Kumar,H Agarwal,CH Abeyratne,,0,1,1,,,,32096232096
+1,Singapore,7,Vinu Kumar,A Mare,CH Abeyratne,,0,0,0,caught,Vinu Kumar,SK Rana,32096232096
+1,Singapore,7,AP Venkata,A Mare,CH Abeyratne,,0,0,0,,,,32096232096
+1,Singapore,7,AP Venkata,A Mare,CH Abeyratne,,0,0,0,,,,32096232096
+1,Singapore,7,AP Venkata,A Mare,CH Abeyratne,,0,1,1,,,,32096232096
+1,Singapore,7,CH Abeyratne,A Mare,AP Venkata,,0,0,0,,,,32096232096
+1,Singapore,7,CH Abeyratne,A Mare,AP Venkata,,0,0,0,,,,32096232096
+1,Singapore,8,AP Venkata,H Agarwal,CH Abeyratne,wides,1,1,0,,,,32096232096
+1,Singapore,8,AP Venkata,H Agarwal,CH Abeyratne,,0,0,0,,,,32096232096
+1,Singapore,8,AP Venkata,H Agarwal,CH Abeyratne,,0,0,0,,,,32096232096
+1,Singapore,8,AP Venkata,H Agarwal,CH Abeyratne,,0,1,1,,,,32096232096
+1,Singapore,8,CH Abeyratne,H Agarwal,AP Venkata,,0,0,0,,,,32096232096
+1,Singapore,8,CH Abeyratne,H Agarwal,AP Venkata,,0,0,0,,,,32096232096
+1,Singapore,8,CH Abeyratne,H Agarwal,AP Venkata,,0,2,2,,,,32096232096
+1,Singapore,9,AP Venkata,S Dhadwal,CH Abeyratne,,0,0,0,,,,32096232096
+1,Singapore,9,AP Venkata,S Dhadwal,CH Abeyratne,,0,0,0,,,,32096232096
+1,Singapore,9,AP Venkata,S Dhadwal,CH Abeyratne,wides,1,1,0,,,,32096232096
+1,Singapore,9,AP Venkata,S Dhadwal,CH Abeyratne,wides,1,1,0,,,,32096232096
+1,Singapore,9,AP Venkata,S Dhadwal,CH Abeyratne,,0,0,0,caught,AP Venkata,Rizpha Bano,32096232096
+1,Singapore,9,I Shukla,S Dhadwal,CH Abeyratne,,0,0,0,,,,32096232096
+1,Singapore,9,I Shukla,S Dhadwal,CH Abeyratne,,0,0,0,,,,32096232096
+1,Singapore,9,I Shukla,S Dhadwal,CH Abeyratne,,0,0,0,,,,32096232096
+1,Singapore,10,CH Abeyratne,H Agarwal,I Shukla,,0,0,0,bowled,CH Abeyratne,,32096232096
+1,Singapore,10,Ada Bhasin,H Agarwal,I Shukla,,0,0,0,,,,32096232096
+1,Singapore,10,Ada Bhasin,H Agarwal,I Shukla,,0,0,0,,,,32096232096
+1,Singapore,10,Ada Bhasin,H Agarwal,I Shukla,,0,0,0,,,,32096232096
+1,Singapore,10,Ada Bhasin,H Agarwal,I Shukla,,0,0,0,,,,32096232096
+1,Singapore,10,Ada Bhasin,H Agarwal,I Shukla,,0,2,2,,,,32096232096
+1,Singapore,11,I Shukla,S Dhadwal,Ada Bhasin,,0,0,0,,,,32096232096
+1,Singapore,11,I Shukla,S Dhadwal,Ada Bhasin,,0,0,0,,,,32096232096
+1,Singapore,11,I Shukla,S Dhadwal,Ada Bhasin,,0,1,1,,,,32096232096
+1,Singapore,11,Ada Bhasin,S Dhadwal,I Shukla,,0,0,0,,,,32096232096
+1,Singapore,11,Ada Bhasin,S Dhadwal,I Shukla,,0,2,2,,,,32096232096
+1,Singapore,11,Ada Bhasin,S Dhadwal,I Shukla,,0,2,2,,,,32096232096
+1,Singapore,12,I Shukla,H Agarwal,Ada Bhasin,,0,0,0,,,,32096232096
+1,Singapore,12,I Shukla,H Agarwal,Ada Bhasin,,0,1,1,,,,32096232096
+1,Singapore,12,Ada Bhasin,H Agarwal,I Shukla,,0,0,0,lbw,Ada Bhasin,,32096232096
+1,Singapore,12,JS Pooranakaran,H Agarwal,I Shukla,,0,0,0,,,,32096232096
+1,Singapore,12,JS Pooranakaran,H Agarwal,I Shukla,,0,0,0,,,,32096232096
+1,Singapore,12,JS Pooranakaran,H Agarwal,I Shukla,,0,0,0,,,,32096232096
+1,Singapore,13,I Shukla,S Dhadwal,JS Pooranakaran,,0,0,0,,,,32096232096
+1,Singapore,13,I Shukla,S Dhadwal,JS Pooranakaran,,0,0,0,,,,32096232096
+1,Singapore,13,I Shukla,S Dhadwal,JS Pooranakaran,,0,2,2,,,,32096232096
+1,Singapore,13,I Shukla,S Dhadwal,JS Pooranakaran,,0,0,0,,,,32096232096
+1,Singapore,13,I Shukla,S Dhadwal,JS Pooranakaran,,0,0,0,,,,32096232096
+1,Singapore,13,I Shukla,S Dhadwal,JS Pooranakaran,,0,0,0,bowled,I Shukla,,32096232096
+1,Singapore,14,JS Pooranakaran,Aysha,Damini Ramesh,,0,0,0,,,,32096232096
+1,Singapore,14,JS Pooranakaran,Aysha,Damini Ramesh,,0,0,0,,,,32096232096
+1,Singapore,14,JS Pooranakaran,Aysha,Damini Ramesh,,0,0,0,stumped,JS Pooranakaran,T Kale,32096232096

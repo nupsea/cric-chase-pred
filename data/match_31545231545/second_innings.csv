@@ -1,0 +1,126 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Rwanda,0,DI Dusabemungu,W Mwatile,G Ishimwe,wides,1,1,0,,,,31545231545
+2,Rwanda,0,DI Dusabemungu,W Mwatile,G Ishimwe,,0,0,0,,,,31545231545
+2,Rwanda,0,DI Dusabemungu,W Mwatile,G Ishimwe,legbyes,1,1,0,,,,31545231545
+2,Rwanda,0,G Ishimwe,W Mwatile,DI Dusabemungu,,0,0,0,lbw,G Ishimwe,,31545231545
+2,Rwanda,0,S Uwera,W Mwatile,DI Dusabemungu,,0,0,0,,,,31545231545
+2,Rwanda,0,S Uwera,W Mwatile,DI Dusabemungu,,0,0,0,,,,31545231545
+2,Rwanda,0,S Uwera,W Mwatile,DI Dusabemungu,,0,0,0,,,,31545231545
+2,Rwanda,1,DI Dusabemungu,KA Green,S Uwera,,0,0,0,,,,31545231545
+2,Rwanda,1,DI Dusabemungu,KA Green,S Uwera,,0,0,0,,,,31545231545
+2,Rwanda,1,DI Dusabemungu,KA Green,S Uwera,,0,0,0,,,,31545231545
+2,Rwanda,1,DI Dusabemungu,KA Green,S Uwera,,0,0,0,caught,DI Dusabemungu,SN Shihepo,31545231545
+2,Rwanda,1,MD Bimenyimana,KA Green,S Uwera,,0,0,0,,,,31545231545
+2,Rwanda,1,MD Bimenyimana,KA Green,S Uwera,,0,0,0,run out,S Uwera,KA Green,31545231545
+2,Rwanda,2,C Uwamahoro,W Mwatile,MD Bimenyimana,,0,0,0,bowled,C Uwamahoro,,31545231545
+2,Rwanda,2,S Ingabire,W Mwatile,MD Bimenyimana,,0,0,0,,,,31545231545
+2,Rwanda,2,S Ingabire,W Mwatile,MD Bimenyimana,,0,0,0,,,,31545231545
+2,Rwanda,2,S Ingabire,W Mwatile,MD Bimenyimana,,0,0,0,,,,31545231545
+2,Rwanda,2,S Ingabire,W Mwatile,MD Bimenyimana,,0,0,0,,,,31545231545
+2,Rwanda,2,S Ingabire,W Mwatile,MD Bimenyimana,,0,0,0,,,,31545231545
+2,Rwanda,3,MD Bimenyimana,KA Green,S Ingabire,,0,0,0,,,,31545231545
+2,Rwanda,3,MD Bimenyimana,KA Green,S Ingabire,,0,1,1,,,,31545231545
+2,Rwanda,3,S Ingabire,KA Green,MD Bimenyimana,,0,0,0,,,,31545231545
+2,Rwanda,3,S Ingabire,KA Green,MD Bimenyimana,,0,1,1,,,,31545231545
+2,Rwanda,3,MD Bimenyimana,KA Green,S Ingabire,,0,0,0,,,,31545231545
+2,Rwanda,3,MD Bimenyimana,KA Green,S Ingabire,,0,0,0,,,,31545231545
+2,Rwanda,4,S Ingabire,SN Shihepo,MD Bimenyimana,,0,1,1,,,,31545231545
+2,Rwanda,4,MD Bimenyimana,SN Shihepo,S Ingabire,wides,1,1,0,,,,31545231545
+2,Rwanda,4,MD Bimenyimana,SN Shihepo,S Ingabire,wides,1,1,0,,,,31545231545
+2,Rwanda,4,MD Bimenyimana,SN Shihepo,S Ingabire,,0,0,0,,,,31545231545
+2,Rwanda,4,MD Bimenyimana,SN Shihepo,S Ingabire,,0,0,0,,,,31545231545
+2,Rwanda,4,MD Bimenyimana,SN Shihepo,S Ingabire,wides,1,1,0,,,,31545231545
+2,Rwanda,4,MD Bimenyimana,SN Shihepo,S Ingabire,wides,1,1,0,,,,31545231545
+2,Rwanda,4,MD Bimenyimana,SN Shihepo,S Ingabire,,0,0,0,,,,31545231545
+2,Rwanda,4,MD Bimenyimana,SN Shihepo,S Ingabire,,0,1,1,,,,31545231545
+2,Rwanda,4,S Ingabire,SN Shihepo,MD Bimenyimana,,0,0,0,,,,31545231545
+2,Rwanda,5,MD Bimenyimana,KA Green,S Ingabire,,0,0,0,,,,31545231545
+2,Rwanda,5,MD Bimenyimana,KA Green,S Ingabire,,0,0,0,,,,31545231545
+2,Rwanda,5,MD Bimenyimana,KA Green,S Ingabire,,0,4,4,,,,31545231545
+2,Rwanda,5,MD Bimenyimana,KA Green,S Ingabire,,0,1,1,,,,31545231545
+2,Rwanda,5,S Ingabire,KA Green,MD Bimenyimana,,0,0,0,,,,31545231545
+2,Rwanda,5,S Ingabire,KA Green,MD Bimenyimana,,0,0,0,,,,31545231545
+2,Rwanda,6,MD Bimenyimana,SN Shihepo,S Ingabire,,0,1,1,,,,31545231545
+2,Rwanda,6,S Ingabire,SN Shihepo,MD Bimenyimana,,0,0,0,,,,31545231545
+2,Rwanda,6,S Ingabire,SN Shihepo,MD Bimenyimana,,0,0,0,,,,31545231545
+2,Rwanda,6,S Ingabire,SN Shihepo,MD Bimenyimana,,0,1,1,,,,31545231545
+2,Rwanda,6,MD Bimenyimana,SN Shihepo,S Ingabire,,0,0,0,,,,31545231545
+2,Rwanda,6,MD Bimenyimana,SN Shihepo,S Ingabire,,0,0,0,,,,31545231545
+2,Rwanda,7,S Ingabire,KA Green,MD Bimenyimana,,0,0,0,,,,31545231545
+2,Rwanda,7,S Ingabire,KA Green,MD Bimenyimana,,0,1,1,,,,31545231545
+2,Rwanda,7,MD Bimenyimana,KA Green,S Ingabire,,0,0,0,,,,31545231545
+2,Rwanda,7,MD Bimenyimana,KA Green,S Ingabire,,0,0,0,,,,31545231545
+2,Rwanda,7,MD Bimenyimana,KA Green,S Ingabire,,0,0,0,,,,31545231545
+2,Rwanda,7,MD Bimenyimana,KA Green,S Ingabire,,0,0,0,caught,MD Bimenyimana,JA Diergaardt,31545231545
+2,Rwanda,8,S Ingabire,I van Zyl,H Ishimwe,,0,0,0,,,,31545231545
+2,Rwanda,8,S Ingabire,I van Zyl,H Ishimwe,,0,0,0,,,,31545231545
+2,Rwanda,8,S Ingabire,I van Zyl,H Ishimwe,,0,1,1,,,,31545231545
+2,Rwanda,8,H Ishimwe,I van Zyl,S Ingabire,,0,0,0,,,,31545231545
+2,Rwanda,8,H Ishimwe,I van Zyl,S Ingabire,,0,0,0,,,,31545231545
+2,Rwanda,8,H Ishimwe,I van Zyl,S Ingabire,,0,0,0,,,,31545231545
+2,Rwanda,9,S Ingabire,D Foerster,H Ishimwe,byes,1,1,0,,,,31545231545
+2,Rwanda,9,H Ishimwe,D Foerster,S Ingabire,,0,0,0,,,,31545231545
+2,Rwanda,9,H Ishimwe,D Foerster,S Ingabire,,0,0,0,,,,31545231545
+2,Rwanda,9,H Ishimwe,D Foerster,S Ingabire,,0,0,0,,,,31545231545
+2,Rwanda,9,H Ishimwe,D Foerster,S Ingabire,,0,0,0,,,,31545231545
+2,Rwanda,9,H Ishimwe,D Foerster,S Ingabire,,0,0,0,,,,31545231545
+2,Rwanda,10,S Ingabire,I van Zyl,H Ishimwe,,0,0,0,,,,31545231545
+2,Rwanda,10,S Ingabire,I van Zyl,H Ishimwe,,0,0,0,,,,31545231545
+2,Rwanda,10,S Ingabire,I van Zyl,H Ishimwe,,0,2,2,,,,31545231545
+2,Rwanda,10,S Ingabire,I van Zyl,H Ishimwe,,0,2,2,,,,31545231545
+2,Rwanda,10,S Ingabire,I van Zyl,H Ishimwe,,0,0,0,,,,31545231545
+2,Rwanda,10,S Ingabire,I van Zyl,H Ishimwe,,0,0,0,,,,31545231545
+2,Rwanda,11,H Ishimwe,D Foerster,S Ingabire,,0,1,1,,,,31545231545
+2,Rwanda,11,S Ingabire,D Foerster,H Ishimwe,,0,1,1,,,,31545231545
+2,Rwanda,11,H Ishimwe,D Foerster,S Ingabire,,0,0,0,,,,31545231545
+2,Rwanda,11,H Ishimwe,D Foerster,S Ingabire,,0,0,0,,,,31545231545
+2,Rwanda,11,H Ishimwe,D Foerster,S Ingabire,,0,1,1,,,,31545231545
+2,Rwanda,11,S Ingabire,D Foerster,H Ishimwe,,0,0,0,,,,31545231545
+2,Rwanda,12,H Ishimwe,I van Zyl,S Ingabire,,0,1,1,,,,31545231545
+2,Rwanda,12,S Ingabire,I van Zyl,H Ishimwe,,0,0,0,,,,31545231545
+2,Rwanda,12,S Ingabire,I van Zyl,H Ishimwe,,0,1,1,,,,31545231545
+2,Rwanda,12,H Ishimwe,I van Zyl,S Ingabire,,0,2,2,,,,31545231545
+2,Rwanda,12,H Ishimwe,I van Zyl,S Ingabire,,0,0,0,,,,31545231545
+2,Rwanda,12,H Ishimwe,I van Zyl,S Ingabire,,0,0,0,,,,31545231545
+2,Rwanda,13,S Ingabire,V Hamunyela,H Ishimwe,,0,1,1,,,,31545231545
+2,Rwanda,13,H Ishimwe,V Hamunyela,S Ingabire,,0,0,0,,,,31545231545
+2,Rwanda,13,H Ishimwe,V Hamunyela,S Ingabire,,0,1,1,,,,31545231545
+2,Rwanda,13,S Ingabire,V Hamunyela,H Ishimwe,,0,0,0,,,,31545231545
+2,Rwanda,13,S Ingabire,V Hamunyela,H Ishimwe,,0,0,0,,,,31545231545
+2,Rwanda,13,S Ingabire,V Hamunyela,H Ishimwe,,0,0,0,,,,31545231545
+2,Rwanda,14,H Ishimwe,W Mwatile,S Ingabire,,0,1,1,,,,31545231545
+2,Rwanda,14,S Ingabire,W Mwatile,H Ishimwe,,0,0,0,,,,31545231545
+2,Rwanda,14,S Ingabire,W Mwatile,H Ishimwe,,0,0,0,,,,31545231545
+2,Rwanda,14,S Ingabire,W Mwatile,H Ishimwe,,0,0,0,run out,S Ingabire,Yasmeen Khan,31545231545
+2,Rwanda,14,A Ikuzwe,W Mwatile,H Ishimwe,,0,1,1,,,,31545231545
+2,Rwanda,14,H Ishimwe,W Mwatile,A Ikuzwe,,0,1,1,,,,31545231545
+2,Rwanda,15,H Ishimwe,V Hamunyela,A Ikuzwe,,0,1,1,,,,31545231545
+2,Rwanda,15,A Ikuzwe,V Hamunyela,H Ishimwe,,0,0,0,,,,31545231545
+2,Rwanda,15,A Ikuzwe,V Hamunyela,H Ishimwe,,0,1,1,,,,31545231545
+2,Rwanda,15,H Ishimwe,V Hamunyela,A Ikuzwe,,0,1,1,,,,31545231545
+2,Rwanda,15,A Ikuzwe,V Hamunyela,H Ishimwe,,0,2,2,,,,31545231545
+2,Rwanda,15,A Ikuzwe,V Hamunyela,H Ishimwe,,0,1,1,,,,31545231545
+2,Rwanda,16,A Ikuzwe,W Mwatile,H Ishimwe,,0,0,0,,,,31545231545
+2,Rwanda,16,A Ikuzwe,W Mwatile,H Ishimwe,,0,0,0,,,,31545231545
+2,Rwanda,16,A Ikuzwe,W Mwatile,H Ishimwe,,0,1,1,,,,31545231545
+2,Rwanda,16,H Ishimwe,W Mwatile,A Ikuzwe,,0,0,0,,,,31545231545
+2,Rwanda,16,H Ishimwe,W Mwatile,A Ikuzwe,,0,2,2,,,,31545231545
+2,Rwanda,16,H Ishimwe,W Mwatile,A Ikuzwe,,0,0,0,,,,31545231545
+2,Rwanda,17,A Ikuzwe,V Hamunyela,H Ishimwe,,0,0,0,,,,31545231545
+2,Rwanda,17,A Ikuzwe,V Hamunyela,H Ishimwe,,0,1,1,,,,31545231545
+2,Rwanda,17,H Ishimwe,V Hamunyela,A Ikuzwe,,0,0,0,stumped,H Ishimwe,Yasmeen Khan,31545231545
+2,Rwanda,17,B Murekatete,V Hamunyela,A Ikuzwe,,0,0,0,,,,31545231545
+2,Rwanda,17,B Murekatete,V Hamunyela,A Ikuzwe,,0,0,0,,,,31545231545
+2,Rwanda,17,B Murekatete,V Hamunyela,A Ikuzwe,,0,1,1,,,,31545231545
+2,Rwanda,18,B Murekatete,I van Zyl,A Ikuzwe,,0,1,1,,,,31545231545
+2,Rwanda,18,A Ikuzwe,I van Zyl,B Murekatete,byes,2,2,0,,,,31545231545
+2,Rwanda,18,A Ikuzwe,I van Zyl,B Murekatete,,0,1,1,,,,31545231545
+2,Rwanda,18,B Murekatete,I van Zyl,A Ikuzwe,,0,1,1,,,,31545231545
+2,Rwanda,18,A Ikuzwe,I van Zyl,B Murekatete,,0,0,0,,,,31545231545
+2,Rwanda,18,A Ikuzwe,I van Zyl,B Murekatete,,0,1,1,,,,31545231545
+2,Rwanda,19,A Ikuzwe,V Hamunyela,B Murekatete,,0,2,2,,,,31545231545
+2,Rwanda,19,A Ikuzwe,V Hamunyela,B Murekatete,,0,0,0,caught,A Ikuzwe,D Foerster,31545231545
+2,Rwanda,19,M Vumiliya,V Hamunyela,B Murekatete,,0,1,1,,,,31545231545
+2,Rwanda,19,B Murekatete,V Hamunyela,M Vumiliya,,0,0,0,,,,31545231545
+2,Rwanda,19,B Murekatete,V Hamunyela,M Vumiliya,byes,1,1,0,,,,31545231545
+2,Rwanda,19,M Vumiliya,V Hamunyela,B Murekatete,,0,1,1,,,,31545231545

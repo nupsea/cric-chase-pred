@@ -1,0 +1,129 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Afghanistan,0,Rahmanullah Gurbaz,J Little,Usman Ghani,,0,1,1,,,,31964231964
+1,Afghanistan,0,Usman Ghani,J Little,Rahmanullah Gurbaz,,0,0,0,,,,31964231964
+1,Afghanistan,0,Usman Ghani,J Little,Rahmanullah Gurbaz,wides,1,1,0,,,,31964231964
+1,Afghanistan,0,Usman Ghani,J Little,Rahmanullah Gurbaz,,0,0,0,,,,31964231964
+1,Afghanistan,0,Usman Ghani,J Little,Rahmanullah Gurbaz,,0,0,0,,,,31964231964
+1,Afghanistan,0,Usman Ghani,J Little,Rahmanullah Gurbaz,,0,0,0,,,,31964231964
+1,Afghanistan,0,Usman Ghani,J Little,Rahmanullah Gurbaz,legbyes,4,4,0,,,,31964231964
+1,Afghanistan,1,Rahmanullah Gurbaz,MR Adair,Usman Ghani,,0,0,0,caught,Rahmanullah Gurbaz,BJ McCarthy,31964231964
+1,Afghanistan,1,Hashmatullah Shahidi,MR Adair,Usman Ghani,wides,1,1,0,,,,31964231964
+1,Afghanistan,1,Hashmatullah Shahidi,MR Adair,Usman Ghani,,0,1,1,,,,31964231964
+1,Afghanistan,1,Usman Ghani,MR Adair,Hashmatullah Shahidi,,0,1,1,,,,31964231964
+1,Afghanistan,1,Hashmatullah Shahidi,MR Adair,Usman Ghani,,0,1,1,,,,31964231964
+1,Afghanistan,1,Usman Ghani,MR Adair,Hashmatullah Shahidi,,0,0,0,,,,31964231964
+1,Afghanistan,1,Usman Ghani,MR Adair,Hashmatullah Shahidi,legbyes,4,4,0,,,,31964231964
+1,Afghanistan,2,Hashmatullah Shahidi,J Little,Usman Ghani,wides,1,1,0,,,,31964231964
+1,Afghanistan,2,Hashmatullah Shahidi,J Little,Usman Ghani,,0,0,0,,,,31964231964
+1,Afghanistan,2,Hashmatullah Shahidi,J Little,Usman Ghani,,0,0,0,,,,31964231964
+1,Afghanistan,2,Hashmatullah Shahidi,J Little,Usman Ghani,,0,4,4,,,,31964231964
+1,Afghanistan,2,Hashmatullah Shahidi,J Little,Usman Ghani,,0,1,1,,,,31964231964
+1,Afghanistan,2,Usman Ghani,J Little,Hashmatullah Shahidi,,0,0,0,bowled,Usman Ghani,,31964231964
+1,Afghanistan,2,Ibrahim Zadran,J Little,Hashmatullah Shahidi,,0,0,0,,,,31964231964
+1,Afghanistan,3,Hashmatullah Shahidi,MR Adair,Ibrahim Zadran,,0,2,2,,,,31964231964
+1,Afghanistan,3,Hashmatullah Shahidi,MR Adair,Ibrahim Zadran,,0,0,0,,,,31964231964
+1,Afghanistan,3,Hashmatullah Shahidi,MR Adair,Ibrahim Zadran,,0,0,0,,,,31964231964
+1,Afghanistan,3,Hashmatullah Shahidi,MR Adair,Ibrahim Zadran,,0,1,1,,,,31964231964
+1,Afghanistan,3,Ibrahim Zadran,MR Adair,Hashmatullah Shahidi,,0,1,1,,,,31964231964
+1,Afghanistan,3,Hashmatullah Shahidi,MR Adair,Ibrahim Zadran,,0,0,0,,,,31964231964
+1,Afghanistan,4,Ibrahim Zadran,BJ McCarthy,Hashmatullah Shahidi,,0,4,4,,,,31964231964
+1,Afghanistan,4,Ibrahim Zadran,BJ McCarthy,Hashmatullah Shahidi,,0,4,4,,,,31964231964
+1,Afghanistan,4,Ibrahim Zadran,BJ McCarthy,Hashmatullah Shahidi,,0,0,0,,,,31964231964
+1,Afghanistan,4,Ibrahim Zadran,BJ McCarthy,Hashmatullah Shahidi,,0,0,0,,,,31964231964
+1,Afghanistan,4,Ibrahim Zadran,BJ McCarthy,Hashmatullah Shahidi,,0,0,0,,,,31964231964
+1,Afghanistan,4,Ibrahim Zadran,BJ McCarthy,Hashmatullah Shahidi,,0,4,4,,,,31964231964
+1,Afghanistan,5,Hashmatullah Shahidi,C Campher,Ibrahim Zadran,legbyes,1,1,0,,,,31964231964
+1,Afghanistan,5,Ibrahim Zadran,C Campher,Hashmatullah Shahidi,,0,4,4,,,,31964231964
+1,Afghanistan,5,Ibrahim Zadran,C Campher,Hashmatullah Shahidi,,0,0,0,,,,31964231964
+1,Afghanistan,5,Ibrahim Zadran,C Campher,Hashmatullah Shahidi,,0,0,0,,,,31964231964
+1,Afghanistan,5,Ibrahim Zadran,C Campher,Hashmatullah Shahidi,,0,0,0,,,,31964231964
+1,Afghanistan,5,Ibrahim Zadran,C Campher,Hashmatullah Shahidi,,0,0,0,caught,Ibrahim Zadran,AR McBrine,31964231964
+1,Afghanistan,6,Najibullah Zadran,BJ McCarthy,Hashmatullah Shahidi,wides,1,1,0,,,,31964231964
+1,Afghanistan,6,Najibullah Zadran,BJ McCarthy,Hashmatullah Shahidi,wides,1,1,0,,,,31964231964
+1,Afghanistan,6,Najibullah Zadran,BJ McCarthy,Hashmatullah Shahidi,,0,0,0,,,,31964231964
+1,Afghanistan,6,Najibullah Zadran,BJ McCarthy,Hashmatullah Shahidi,,0,1,1,,,,31964231964
+1,Afghanistan,6,Hashmatullah Shahidi,BJ McCarthy,Najibullah Zadran,,0,0,0,,,,31964231964
+1,Afghanistan,6,Hashmatullah Shahidi,BJ McCarthy,Najibullah Zadran,,0,1,1,,,,31964231964
+1,Afghanistan,6,Najibullah Zadran,BJ McCarthy,Hashmatullah Shahidi,,0,1,1,,,,31964231964
+1,Afghanistan,6,Hashmatullah Shahidi,BJ McCarthy,Najibullah Zadran,,0,0,0,,,,31964231964
+1,Afghanistan,7,Najibullah Zadran,AR McBrine,Hashmatullah Shahidi,,0,1,1,,,,31964231964
+1,Afghanistan,7,Hashmatullah Shahidi,AR McBrine,Najibullah Zadran,,0,1,1,,,,31964231964
+1,Afghanistan,7,Najibullah Zadran,AR McBrine,Hashmatullah Shahidi,,0,0,0,,,,31964231964
+1,Afghanistan,7,Najibullah Zadran,AR McBrine,Hashmatullah Shahidi,,0,4,4,,,,31964231964
+1,Afghanistan,7,Najibullah Zadran,AR McBrine,Hashmatullah Shahidi,,0,1,1,,,,31964231964
+1,Afghanistan,7,Hashmatullah Shahidi,AR McBrine,Najibullah Zadran,,0,1,1,,,,31964231964
+1,Afghanistan,8,Hashmatullah Shahidi,C Campher,Najibullah Zadran,,0,1,1,,,,31964231964
+1,Afghanistan,8,Najibullah Zadran,C Campher,Hashmatullah Shahidi,,0,0,0,caught,Najibullah Zadran,BJ McCarthy,31964231964
+1,Afghanistan,8,Hashmatullah Shahidi,C Campher,Mohammad Nabi,,0,1,1,,,,31964231964
+1,Afghanistan,8,Mohammad Nabi,C Campher,Hashmatullah Shahidi,,0,1,1,,,,31964231964
+1,Afghanistan,8,Hashmatullah Shahidi,C Campher,Mohammad Nabi,,0,1,1,,,,31964231964
+1,Afghanistan,8,Mohammad Nabi,C Campher,Hashmatullah Shahidi,,0,1,1,,,,31964231964
+1,Afghanistan,9,Mohammad Nabi,GJ Delany,Hashmatullah Shahidi,,0,1,1,,,,31964231964
+1,Afghanistan,9,Hashmatullah Shahidi,GJ Delany,Mohammad Nabi,,0,0,0,,,,31964231964
+1,Afghanistan,9,Hashmatullah Shahidi,GJ Delany,Mohammad Nabi,,0,0,0,,,,31964231964
+1,Afghanistan,9,Hashmatullah Shahidi,GJ Delany,Mohammad Nabi,,0,1,1,,,,31964231964
+1,Afghanistan,9,Mohammad Nabi,GJ Delany,Hashmatullah Shahidi,,0,0,0,,,,31964231964
+1,Afghanistan,9,Mohammad Nabi,GJ Delany,Hashmatullah Shahidi,,0,1,1,,,,31964231964
+1,Afghanistan,10,Mohammad Nabi,J Little,Hashmatullah Shahidi,,0,0,0,,,,31964231964
+1,Afghanistan,10,Mohammad Nabi,J Little,Hashmatullah Shahidi,,0,4,4,,,,31964231964
+1,Afghanistan,10,Mohammad Nabi,J Little,Hashmatullah Shahidi,,0,1,1,,,,31964231964
+1,Afghanistan,10,Hashmatullah Shahidi,J Little,Mohammad Nabi,,0,0,0,,,,31964231964
+1,Afghanistan,10,Hashmatullah Shahidi,J Little,Mohammad Nabi,,0,0,0,,,,31964231964
+1,Afghanistan,10,Hashmatullah Shahidi,J Little,Mohammad Nabi,,0,1,1,,,,31964231964
+1,Afghanistan,11,Hashmatullah Shahidi,GJ Delany,Mohammad Nabi,,0,1,1,,,,31964231964
+1,Afghanistan,11,Mohammad Nabi,GJ Delany,Hashmatullah Shahidi,,0,0,0,caught,Mohammad Nabi,GH Dockrell,31964231964
+1,Afghanistan,11,Azmatullah Omarzai,GJ Delany,Hashmatullah Shahidi,,0,0,0,,,,31964231964
+1,Afghanistan,11,Azmatullah Omarzai,GJ Delany,Hashmatullah Shahidi,,0,1,1,,,,31964231964
+1,Afghanistan,11,Hashmatullah Shahidi,GJ Delany,Azmatullah Omarzai,wides,1,1,0,,,,31964231964
+1,Afghanistan,11,Hashmatullah Shahidi,GJ Delany,Azmatullah Omarzai,,0,4,4,,,,31964231964
+1,Afghanistan,11,Hashmatullah Shahidi,GJ Delany,Azmatullah Omarzai,,0,1,1,,,,31964231964
+1,Afghanistan,12,Hashmatullah Shahidi,BJ McCarthy,Azmatullah Omarzai,,0,2,2,,,,31964231964
+1,Afghanistan,12,Hashmatullah Shahidi,BJ McCarthy,Azmatullah Omarzai,,0,4,4,,,,31964231964
+1,Afghanistan,12,Hashmatullah Shahidi,BJ McCarthy,Azmatullah Omarzai,,0,1,1,,,,31964231964
+1,Afghanistan,12,Azmatullah Omarzai,BJ McCarthy,Hashmatullah Shahidi,legbyes,1,1,0,,,,31964231964
+1,Afghanistan,12,Hashmatullah Shahidi,BJ McCarthy,Azmatullah Omarzai,,0,1,1,,,,31964231964
+1,Afghanistan,12,Azmatullah Omarzai,BJ McCarthy,Hashmatullah Shahidi,,0,1,1,,,,31964231964
+1,Afghanistan,13,Azmatullah Omarzai,AR McBrine,Hashmatullah Shahidi,,0,1,1,,,,31964231964
+1,Afghanistan,13,Hashmatullah Shahidi,AR McBrine,Azmatullah Omarzai,,0,0,0,,,,31964231964
+1,Afghanistan,13,Hashmatullah Shahidi,AR McBrine,Azmatullah Omarzai,,0,1,1,,,,31964231964
+1,Afghanistan,13,Azmatullah Omarzai,AR McBrine,Hashmatullah Shahidi,,0,1,1,,,,31964231964
+1,Afghanistan,13,Hashmatullah Shahidi,AR McBrine,Azmatullah Omarzai,,0,1,1,,,,31964231964
+1,Afghanistan,13,Azmatullah Omarzai,AR McBrine,Hashmatullah Shahidi,,0,2,2,,,,31964231964
+1,Afghanistan,14,Hashmatullah Shahidi,C Campher,Azmatullah Omarzai,,0,1,1,,,,31964231964
+1,Afghanistan,14,Azmatullah Omarzai,C Campher,Hashmatullah Shahidi,,0,0,0,,,,31964231964
+1,Afghanistan,14,Azmatullah Omarzai,C Campher,Hashmatullah Shahidi,,0,3,3,,,,31964231964
+1,Afghanistan,14,Hashmatullah Shahidi,C Campher,Azmatullah Omarzai,,0,0,0,,,,31964231964
+1,Afghanistan,14,Hashmatullah Shahidi,C Campher,Azmatullah Omarzai,,0,0,0,,,,31964231964
+1,Afghanistan,14,Hashmatullah Shahidi,C Campher,Azmatullah Omarzai,,0,0,0,,,,31964231964
+1,Afghanistan,15,Azmatullah Omarzai,GJ Delany,Hashmatullah Shahidi,,0,0,0,,,,31964231964
+1,Afghanistan,15,Azmatullah Omarzai,GJ Delany,Hashmatullah Shahidi,,0,1,1,,,,31964231964
+1,Afghanistan,15,Hashmatullah Shahidi,GJ Delany,Azmatullah Omarzai,,0,1,1,,,,31964231964
+1,Afghanistan,15,Azmatullah Omarzai,GJ Delany,Hashmatullah Shahidi,,0,1,1,,,,31964231964
+1,Afghanistan,15,Hashmatullah Shahidi,GJ Delany,Azmatullah Omarzai,,0,0,0,caught,Hashmatullah Shahidi,AR McBrine,31964231964
+1,Afghanistan,15,Rashid Khan,GJ Delany,Azmatullah Omarzai,,0,1,1,,,,31964231964
+1,Afghanistan,16,Rashid Khan,J Little,Azmatullah Omarzai,,0,2,2,,,,31964231964
+1,Afghanistan,16,Rashid Khan,J Little,Azmatullah Omarzai,,0,1,1,,,,31964231964
+1,Afghanistan,16,Azmatullah Omarzai,J Little,Rashid Khan,,0,0,0,caught,Azmatullah Omarzai,HT Tector,31964231964
+1,Afghanistan,16,Naveen-ul-Haq,J Little,Rashid Khan,,0,0,0,,,,31964231964
+1,Afghanistan,16,Naveen-ul-Haq,J Little,Rashid Khan,,0,0,0,,,,31964231964
+1,Afghanistan,16,Naveen-ul-Haq,J Little,Rashid Khan,,0,1,1,,,,31964231964
+1,Afghanistan,17,Naveen-ul-Haq,GJ Delany,Rashid Khan,,0,1,1,,,,31964231964
+1,Afghanistan,17,Rashid Khan,GJ Delany,Naveen-ul-Haq,,0,1,1,,,,31964231964
+1,Afghanistan,17,Naveen-ul-Haq,GJ Delany,Rashid Khan,,0,0,0,,,,31964231964
+1,Afghanistan,17,Naveen-ul-Haq,GJ Delany,Rashid Khan,,0,1,1,,,,31964231964
+1,Afghanistan,17,Rashid Khan,GJ Delany,Naveen-ul-Haq,,0,1,1,,,,31964231964
+1,Afghanistan,17,Naveen-ul-Haq,GJ Delany,Rashid Khan,,0,0,0,,,,31964231964
+1,Afghanistan,18,Rashid Khan,BJ McCarthy,Naveen-ul-Haq,noballs,1,1,0,,,,31964231964
+1,Afghanistan,18,Rashid Khan,BJ McCarthy,Naveen-ul-Haq,wides,1,1,0,,,,31964231964
+1,Afghanistan,18,Rashid Khan,BJ McCarthy,Naveen-ul-Haq,,0,0,0,,,,31964231964
+1,Afghanistan,18,Rashid Khan,BJ McCarthy,Naveen-ul-Haq,,0,2,2,,,,31964231964
+1,Afghanistan,18,Rashid Khan,BJ McCarthy,Naveen-ul-Haq,,0,1,1,,,,31964231964
+1,Afghanistan,18,Naveen-ul-Haq,BJ McCarthy,Rashid Khan,,0,4,4,,,,31964231964
+1,Afghanistan,18,Naveen-ul-Haq,BJ McCarthy,Rashid Khan,,0,0,0,,,,31964231964
+1,Afghanistan,18,Naveen-ul-Haq,BJ McCarthy,Rashid Khan,,0,0,0,,,,31964231964
+1,Afghanistan,19,Rashid Khan,MR Adair,Naveen-ul-Haq,,0,0,0,caught,Rashid Khan,C Campher,31964231964
+1,Afghanistan,19,Mujeeb Ur Rahman,MR Adair,Naveen-ul-Haq,,0,1,1,,,,31964231964
+1,Afghanistan,19,Naveen-ul-Haq,MR Adair,Mujeeb Ur Rahman,,0,1,1,,,,31964231964
+1,Afghanistan,19,Mujeeb Ur Rahman,MR Adair,Naveen-ul-Haq,legbyes,1,1,0,,,,31964231964
+1,Afghanistan,19,Naveen-ul-Haq,MR Adair,Mujeeb Ur Rahman,,0,0,0,,,,31964231964
+1,Afghanistan,19,Naveen-ul-Haq,MR Adair,Mujeeb Ur Rahman,,0,2,2,,,,31964231964

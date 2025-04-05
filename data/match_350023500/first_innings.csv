@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,D van Niekerk,Sumaiya Siddiqi,T Chetty,wides,1,1,0,,,,350023500
+1,South Africa,0,D van Niekerk,Sumaiya Siddiqi,T Chetty,,0,0,0,,,,350023500
+1,South Africa,0,D van Niekerk,Sumaiya Siddiqi,T Chetty,,0,0,0,,,,350023500
+1,South Africa,0,D van Niekerk,Sumaiya Siddiqi,T Chetty,,0,0,0,,,,350023500
+1,South Africa,0,D van Niekerk,Sumaiya Siddiqi,T Chetty,,0,4,4,,,,350023500
+1,South Africa,0,D van Niekerk,Sumaiya Siddiqi,T Chetty,,0,0,0,,,,350023500
+1,South Africa,0,D van Niekerk,Sumaiya Siddiqi,T Chetty,,0,0,0,,,,350023500
+1,South Africa,1,T Chetty,Asmavia Iqbal,D van Niekerk,,0,0,0,,,,350023500
+1,South Africa,1,T Chetty,Asmavia Iqbal,D van Niekerk,legbyes,1,1,0,,,,350023500
+1,South Africa,1,D van Niekerk,Asmavia Iqbal,T Chetty,,0,0,0,,,,350023500
+1,South Africa,1,D van Niekerk,Asmavia Iqbal,T Chetty,,0,6,6,,,,350023500
+1,South Africa,1,D van Niekerk,Asmavia Iqbal,T Chetty,,0,0,0,,,,350023500
+1,South Africa,1,D van Niekerk,Asmavia Iqbal,T Chetty,,0,4,4,,,,350023500
+1,South Africa,2,T Chetty,Sumaiya Siddiqi,D van Niekerk,,0,1,1,,,,350023500
+1,South Africa,2,D van Niekerk,Sumaiya Siddiqi,T Chetty,,0,1,1,,,,350023500
+1,South Africa,2,T Chetty,Sumaiya Siddiqi,D van Niekerk,,0,1,1,,,,350023500
+1,South Africa,2,D van Niekerk,Sumaiya Siddiqi,T Chetty,,0,1,1,,,,350023500
+1,South Africa,2,T Chetty,Sumaiya Siddiqi,D van Niekerk,,0,0,0,,,,350023500
+1,South Africa,2,T Chetty,Sumaiya Siddiqi,D van Niekerk,,0,6,6,,,,350023500
+1,South Africa,3,D van Niekerk,Sana Mir,T Chetty,,0,1,1,,,,350023500
+1,South Africa,3,T Chetty,Sana Mir,D van Niekerk,,0,0,0,caught,T Chetty,Asmavia Iqbal,350023500
+1,South Africa,3,L Lee,Sana Mir,D van Niekerk,,0,0,0,,,,350023500
+1,South Africa,3,L Lee,Sana Mir,D van Niekerk,,0,0,0,,,,350023500
+1,South Africa,3,L Lee,Sana Mir,D van Niekerk,,0,0,0,,,,350023500
+1,South Africa,3,L Lee,Sana Mir,D van Niekerk,,0,0,0,,,,350023500
+1,South Africa,4,D van Niekerk,Anam Amin,L Lee,,0,1,1,run out,L Lee,Javeria Khan,350023500
+1,South Africa,4,D van Niekerk,Anam Amin,M du Preez,,0,0,0,,,,350023500
+1,South Africa,4,D van Niekerk,Anam Amin,M du Preez,,0,1,1,,,,350023500
+1,South Africa,4,M du Preez,Anam Amin,D van Niekerk,,0,0,0,,,,350023500
+1,South Africa,4,M du Preez,Anam Amin,D van Niekerk,,0,1,1,,,,350023500
+1,South Africa,4,D van Niekerk,Anam Amin,M du Preez,,0,1,1,,,,350023500
+1,South Africa,5,D van Niekerk,Sana Mir,M du Preez,wides,1,1,0,,,,350023500
+1,South Africa,5,D van Niekerk,Sana Mir,M du Preez,,0,0,0,,,,350023500
+1,South Africa,5,D van Niekerk,Sana Mir,M du Preez,,0,1,1,,,,350023500
+1,South Africa,5,M du Preez,Sana Mir,D van Niekerk,,0,4,4,,,,350023500
+1,South Africa,5,M du Preez,Sana Mir,D van Niekerk,,0,1,1,,,,350023500
+1,South Africa,5,D van Niekerk,Sana Mir,M du Preez,,0,1,1,,,,350023500
+1,South Africa,5,M du Preez,Sana Mir,D van Niekerk,,0,0,0,,,,350023500
+1,South Africa,6,D van Niekerk,Anam Amin,M du Preez,,0,1,1,,,,350023500
+1,South Africa,6,M du Preez,Anam Amin,D van Niekerk,,0,1,1,,,,350023500
+1,South Africa,6,D van Niekerk,Anam Amin,M du Preez,,0,1,1,,,,350023500
+1,South Africa,6,M du Preez,Anam Amin,D van Niekerk,,0,0,0,,,,350023500
+1,South Africa,6,M du Preez,Anam Amin,D van Niekerk,,0,2,2,,,,350023500
+1,South Africa,6,M du Preez,Anam Amin,D van Niekerk,,0,1,1,,,,350023500
+1,South Africa,7,M du Preez,Nida Dar,D van Niekerk,,0,0,0,,,,350023500
+1,South Africa,7,M du Preez,Nida Dar,D van Niekerk,,0,0,0,,,,350023500
+1,South Africa,7,M du Preez,Nida Dar,D van Niekerk,,0,1,1,,,,350023500
+1,South Africa,7,D van Niekerk,Nida Dar,M du Preez,,0,1,1,,,,350023500
+1,South Africa,7,M du Preez,Nida Dar,D van Niekerk,,0,0,0,,,,350023500
+1,South Africa,7,M du Preez,Nida Dar,D van Niekerk,,0,0,0,run out,D van Niekerk,Nida Dar,350023500
+1,South Africa,8,B Bezuidenhout,Anam Amin,M du Preez,,0,0,0,,,,350023500
+1,South Africa,8,B Bezuidenhout,Anam Amin,M du Preez,,0,0,0,,,,350023500
+1,South Africa,8,B Bezuidenhout,Anam Amin,M du Preez,,0,0,0,,,,350023500
+1,South Africa,8,B Bezuidenhout,Anam Amin,M du Preez,,0,0,0,,,,350023500
+1,South Africa,8,B Bezuidenhout,Anam Amin,M du Preez,,0,0,0,,,,350023500
+1,South Africa,8,B Bezuidenhout,Anam Amin,M du Preez,,0,0,0,,,,350023500
+1,South Africa,9,M du Preez,Nida Dar,B Bezuidenhout,,0,1,1,,,,350023500
+1,South Africa,9,B Bezuidenhout,Nida Dar,M du Preez,,0,0,0,,,,350023500
+1,South Africa,9,B Bezuidenhout,Nida Dar,M du Preez,,0,0,0,,,,350023500
+1,South Africa,9,B Bezuidenhout,Nida Dar,M du Preez,,0,1,1,,,,350023500
+1,South Africa,9,M du Preez,Nida Dar,B Bezuidenhout,,0,1,1,,,,350023500
+1,South Africa,9,B Bezuidenhout,Nida Dar,M du Preez,,0,1,1,,,,350023500
+1,South Africa,10,B Bezuidenhout,Asmavia Iqbal,M du Preez,,0,0,0,,,,350023500
+1,South Africa,10,B Bezuidenhout,Asmavia Iqbal,M du Preez,,0,0,0,,,,350023500
+1,South Africa,10,B Bezuidenhout,Asmavia Iqbal,M du Preez,,0,0,0,bowled,B Bezuidenhout,,350023500
+1,South Africa,10,NA Moodley,Asmavia Iqbal,M du Preez,,0,0,0,,,,350023500
+1,South Africa,10,NA Moodley,Asmavia Iqbal,M du Preez,,0,1,1,,,,350023500
+1,South Africa,10,M du Preez,Asmavia Iqbal,NA Moodley,,0,1,1,,,,350023500
+1,South Africa,11,M du Preez,Nida Dar,NA Moodley,,0,0,0,,,,350023500
+1,South Africa,11,M du Preez,Nida Dar,NA Moodley,,0,1,1,,,,350023500
+1,South Africa,11,NA Moodley,Nida Dar,M du Preez,,0,0,0,,,,350023500
+1,South Africa,11,NA Moodley,Nida Dar,M du Preez,,0,0,0,,,,350023500
+1,South Africa,11,NA Moodley,Nida Dar,M du Preez,,0,0,0,,,,350023500
+1,South Africa,11,NA Moodley,Nida Dar,M du Preez,,0,1,1,,,,350023500
+1,South Africa,12,NA Moodley,Asmavia Iqbal,M du Preez,,0,1,1,,,,350023500
+1,South Africa,12,M du Preez,Asmavia Iqbal,NA Moodley,,0,1,1,,,,350023500
+1,South Africa,12,NA Moodley,Asmavia Iqbal,M du Preez,,0,1,1,,,,350023500
+1,South Africa,12,M du Preez,Asmavia Iqbal,NA Moodley,,0,1,1,,,,350023500
+1,South Africa,12,NA Moodley,Asmavia Iqbal,M du Preez,,0,0,0,,,,350023500
+1,South Africa,12,NA Moodley,Asmavia Iqbal,M du Preez,,0,1,1,,,,350023500
+1,South Africa,13,NA Moodley,Nida Dar,M du Preez,,0,0,0,,,,350023500
+1,South Africa,13,NA Moodley,Nida Dar,M du Preez,,0,1,1,,,,350023500
+1,South Africa,13,M du Preez,Nida Dar,NA Moodley,,0,1,1,,,,350023500
+1,South Africa,13,NA Moodley,Nida Dar,M du Preez,,0,0,0,,,,350023500
+1,South Africa,13,NA Moodley,Nida Dar,M du Preez,,0,0,0,,,,350023500
+1,South Africa,13,NA Moodley,Nida Dar,M du Preez,,0,0,0,,,,350023500
+1,South Africa,14,M du Preez,Sana Mir,NA Moodley,,0,0,0,,,,350023500
+1,South Africa,14,M du Preez,Sana Mir,NA Moodley,,0,1,1,,,,350023500
+1,South Africa,14,NA Moodley,Sana Mir,M du Preez,,0,0,0,,,,350023500
+1,South Africa,14,NA Moodley,Sana Mir,M du Preez,wides,1,1,0,,,,350023500
+1,South Africa,14,NA Moodley,Sana Mir,M du Preez,,0,0,0,,,,350023500
+1,South Africa,14,NA Moodley,Sana Mir,M du Preez,,0,1,1,,,,350023500
+1,South Africa,14,M du Preez,Sana Mir,NA Moodley,,0,1,1,,,,350023500
+1,South Africa,15,M du Preez,Sumaiya Siddiqi,NA Moodley,,0,4,4,,,,350023500
+1,South Africa,15,M du Preez,Sumaiya Siddiqi,NA Moodley,,0,0,0,,,,350023500
+1,South Africa,15,M du Preez,Sumaiya Siddiqi,NA Moodley,,0,1,1,,,,350023500
+1,South Africa,15,NA Moodley,Sumaiya Siddiqi,M du Preez,,0,0,0,,,,350023500
+1,South Africa,15,NA Moodley,Sumaiya Siddiqi,M du Preez,,0,1,1,,,,350023500
+1,South Africa,15,M du Preez,Sumaiya Siddiqi,NA Moodley,,0,2,2,,,,350023500
+1,South Africa,16,NA Moodley,Sana Mir,M du Preez,,0,2,2,,,,350023500
+1,South Africa,16,NA Moodley,Sana Mir,M du Preez,,0,1,1,,,,350023500
+1,South Africa,16,M du Preez,Sana Mir,NA Moodley,,0,4,4,,,,350023500
+1,South Africa,16,M du Preez,Sana Mir,NA Moodley,,0,2,2,,,,350023500
+1,South Africa,16,M du Preez,Sana Mir,NA Moodley,,0,1,1,,,,350023500
+1,South Africa,16,NA Moodley,Sana Mir,M du Preez,,0,0,0,,,,350023500
+1,South Africa,17,M du Preez,Anam Amin,NA Moodley,,0,1,1,,,,350023500
+1,South Africa,17,NA Moodley,Anam Amin,M du Preez,,0,1,1,,,,350023500
+1,South Africa,17,M du Preez,Anam Amin,NA Moodley,,0,1,1,,,,350023500
+1,South Africa,17,NA Moodley,Anam Amin,M du Preez,,0,1,1,,,,350023500
+1,South Africa,17,M du Preez,Anam Amin,NA Moodley,,0,1,1,,,,350023500
+1,South Africa,17,NA Moodley,Anam Amin,M du Preez,,0,1,1,,,,350023500
+1,South Africa,18,NA Moodley,Sumaiya Siddiqi,M du Preez,,0,1,1,,,,350023500
+1,South Africa,18,M du Preez,Sumaiya Siddiqi,NA Moodley,,0,1,1,,,,350023500
+1,South Africa,18,NA Moodley,Sumaiya Siddiqi,M du Preez,,0,2,2,,,,350023500
+1,South Africa,18,NA Moodley,Sumaiya Siddiqi,M du Preez,,0,0,0,caught,NA Moodley,Marina Iqbal,350023500
+1,South Africa,18,M du Preez,Sumaiya Siddiqi,S Luus,,0,1,1,,,,350023500
+1,South Africa,18,S Luus,Sumaiya Siddiqi,M du Preez,,0,0,0,,,,350023500
+1,South Africa,19,M du Preez,Asmavia Iqbal,S Luus,,0,2,2,,,,350023500
+1,South Africa,19,M du Preez,Asmavia Iqbal,S Luus,,0,0,0,lbw,M du Preez,,350023500
+1,South Africa,19,S Ismail,Asmavia Iqbal,S Luus,,0,0,0,,,,350023500
+1,South Africa,19,S Ismail,Asmavia Iqbal,S Luus,,0,2,2,,,,350023500
+1,South Africa,19,S Ismail,Asmavia Iqbal,S Luus,,0,2,2,,,,350023500
+1,South Africa,19,S Ismail,Asmavia Iqbal,S Luus,,0,0,0,caught,S Ismail,Nida Dar,350023500

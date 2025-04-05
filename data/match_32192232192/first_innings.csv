@@ -1,0 +1,122 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,United States of America,0,SR Taylor,FJ Klaassen,MD Patel,,0,0,0,,,,32192232192
+1,United States of America,0,SR Taylor,FJ Klaassen,MD Patel,,0,4,4,,,,32192232192
+1,United States of America,0,SR Taylor,FJ Klaassen,MD Patel,,0,0,0,,,,32192232192
+1,United States of America,0,SR Taylor,FJ Klaassen,MD Patel,,0,4,4,,,,32192232192
+1,United States of America,0,SR Taylor,FJ Klaassen,MD Patel,,0,0,0,,,,32192232192
+1,United States of America,0,SR Taylor,FJ Klaassen,MD Patel,,0,4,4,,,,32192232192
+1,United States of America,1,MD Patel,TJG Pringle,SR Taylor,,0,1,1,,,,32192232192
+1,United States of America,1,SR Taylor,TJG Pringle,MD Patel,,0,1,1,,,,32192232192
+1,United States of America,1,MD Patel,TJG Pringle,SR Taylor,,0,1,1,,,,32192232192
+1,United States of America,1,SR Taylor,TJG Pringle,MD Patel,,0,0,0,,,,32192232192
+1,United States of America,1,SR Taylor,TJG Pringle,MD Patel,,0,1,1,,,,32192232192
+1,United States of America,1,MD Patel,TJG Pringle,SR Taylor,,0,4,4,,,,32192232192
+1,United States of America,2,SR Taylor,FJ Klaassen,MD Patel,,0,0,0,,,,32192232192
+1,United States of America,2,SR Taylor,FJ Klaassen,MD Patel,,0,4,4,,,,32192232192
+1,United States of America,2,SR Taylor,FJ Klaassen,MD Patel,,0,4,4,,,,32192232192
+1,United States of America,2,SR Taylor,FJ Klaassen,MD Patel,,0,0,0,,,,32192232192
+1,United States of America,2,SR Taylor,FJ Klaassen,MD Patel,,0,0,0,,,,32192232192
+1,United States of America,2,SR Taylor,FJ Klaassen,MD Patel,,0,1,1,,,,32192232192
+1,United States of America,3,SR Taylor,LV van Beek,MD Patel,,0,0,0,,,,32192232192
+1,United States of America,3,SR Taylor,LV van Beek,MD Patel,,0,0,0,,,,32192232192
+1,United States of America,3,SR Taylor,LV van Beek,MD Patel,wides,1,1,0,,,,32192232192
+1,United States of America,3,SR Taylor,LV van Beek,MD Patel,,0,0,0,,,,32192232192
+1,United States of America,3,SR Taylor,LV van Beek,MD Patel,,0,1,1,,,,32192232192
+1,United States of America,3,MD Patel,LV van Beek,SR Taylor,,0,4,4,,,,32192232192
+1,United States of America,3,MD Patel,LV van Beek,SR Taylor,,0,4,4,,,,32192232192
+1,United States of America,4,SR Taylor,BFW de Leede,MD Patel,,0,1,1,,,,32192232192
+1,United States of America,4,MD Patel,BFW de Leede,SR Taylor,,0,0,0,,,,32192232192
+1,United States of America,4,MD Patel,BFW de Leede,SR Taylor,,0,0,0,,,,32192232192
+1,United States of America,4,MD Patel,BFW de Leede,SR Taylor,,0,6,6,,,,32192232192
+1,United States of America,4,MD Patel,BFW de Leede,SR Taylor,noballs,1,4,3,,,,32192232192
+1,United States of America,4,SR Taylor,BFW de Leede,MD Patel,,0,0,0,,,,32192232192
+1,United States of America,4,SR Taylor,BFW de Leede,MD Patel,,0,1,1,,,,32192232192
+1,United States of America,5,SR Taylor,PA van Meekeren,MD Patel,,0,0,0,caught,SR Taylor,MP O'Dowd,32192232192
+1,United States of America,5,Aaron Jones,PA van Meekeren,MD Patel,,0,0,0,,,,32192232192
+1,United States of America,5,Aaron Jones,PA van Meekeren,MD Patel,,0,1,1,,,,32192232192
+1,United States of America,5,MD Patel,PA van Meekeren,Aaron Jones,,0,4,4,,,,32192232192
+1,United States of America,5,MD Patel,PA van Meekeren,Aaron Jones,,0,4,4,,,,32192232192
+1,United States of America,5,MD Patel,PA van Meekeren,Aaron Jones,,0,0,0,,,,32192232192
+1,United States of America,6,Aaron Jones,TJG Pringle,MD Patel,,0,0,0,,,,32192232192
+1,United States of America,6,Aaron Jones,TJG Pringle,MD Patel,,0,1,1,,,,32192232192
+1,United States of America,6,MD Patel,TJG Pringle,Aaron Jones,,0,1,1,,,,32192232192
+1,United States of America,6,Aaron Jones,TJG Pringle,MD Patel,,0,4,4,,,,32192232192
+1,United States of America,6,Aaron Jones,TJG Pringle,MD Patel,,0,0,0,,,,32192232192
+1,United States of America,6,Aaron Jones,TJG Pringle,MD Patel,,0,1,1,,,,32192232192
+1,United States of America,7,Aaron Jones,Shariz Ahmad,MD Patel,,0,0,0,,,,32192232192
+1,United States of America,7,Aaron Jones,Shariz Ahmad,MD Patel,,0,0,0,,,,32192232192
+1,United States of America,7,Aaron Jones,Shariz Ahmad,MD Patel,,0,1,1,,,,32192232192
+1,United States of America,7,MD Patel,Shariz Ahmad,Aaron Jones,,0,0,0,,,,32192232192
+1,United States of America,7,MD Patel,Shariz Ahmad,Aaron Jones,,0,0,0,caught,MD Patel,LV van Beek,32192232192
+1,United States of America,7,G Singh,Shariz Ahmad,Aaron Jones,byes,4,4,0,,,,32192232192
+1,United States of America,8,Aaron Jones,BFW de Leede,G Singh,,0,0,0,,,,32192232192
+1,United States of America,8,Aaron Jones,BFW de Leede,G Singh,,0,1,1,,,,32192232192
+1,United States of America,8,G Singh,BFW de Leede,Aaron Jones,,0,0,0,caught and bowled,G Singh,,32192232192
+1,United States of America,8,D Siva Kumar,BFW de Leede,Aaron Jones,,0,0,0,,,,32192232192
+1,United States of America,8,D Siva Kumar,BFW de Leede,Aaron Jones,wides,1,1,0,,,,32192232192
+1,United States of America,8,D Siva Kumar,BFW de Leede,Aaron Jones,,0,0,0,,,,32192232192
+1,United States of America,8,D Siva Kumar,BFW de Leede,Aaron Jones,,0,0,0,,,,32192232192
+1,United States of America,9,Aaron Jones,Shariz Ahmad,D Siva Kumar,,0,1,1,,,,32192232192
+1,United States of America,9,D Siva Kumar,Shariz Ahmad,Aaron Jones,,0,0,0,,,,32192232192
+1,United States of America,9,D Siva Kumar,Shariz Ahmad,Aaron Jones,,0,1,1,,,,32192232192
+1,United States of America,9,Aaron Jones,Shariz Ahmad,D Siva Kumar,,0,1,1,,,,32192232192
+1,United States of America,9,D Siva Kumar,Shariz Ahmad,Aaron Jones,,0,1,1,,,,32192232192
+1,United States of America,9,Aaron Jones,Shariz Ahmad,D Siva Kumar,,0,1,1,,,,32192232192
+1,United States of America,10,Aaron Jones,PA van Meekeren,D Siva Kumar,,0,0,0,,,,32192232192
+1,United States of America,10,Aaron Jones,PA van Meekeren,D Siva Kumar,,0,1,1,,,,32192232192
+1,United States of America,10,D Siva Kumar,PA van Meekeren,Aaron Jones,,0,0,0,,,,32192232192
+1,United States of America,10,D Siva Kumar,PA van Meekeren,Aaron Jones,,0,4,4,,,,32192232192
+1,United States of America,10,D Siva Kumar,PA van Meekeren,Aaron Jones,legbyes,1,1,0,,,,32192232192
+1,United States of America,10,Aaron Jones,PA van Meekeren,D Siva Kumar,,0,1,1,,,,32192232192
+1,United States of America,11,Aaron Jones,TJG Pringle,D Siva Kumar,,0,1,1,,,,32192232192
+1,United States of America,11,D Siva Kumar,TJG Pringle,Aaron Jones,,0,0,0,run out,Aaron Jones,AT Nidamanuru,32192232192
+1,United States of America,11,JS Malhotra,TJG Pringle,D Siva Kumar,,0,1,1,,,,32192232192
+1,United States of America,11,D Siva Kumar,TJG Pringle,JS Malhotra,,0,1,1,,,,32192232192
+1,United States of America,11,JS Malhotra,TJG Pringle,D Siva Kumar,,0,0,0,,,,32192232192
+1,United States of America,11,JS Malhotra,TJG Pringle,D Siva Kumar,,0,0,0,,,,32192232192
+1,United States of America,12,D Siva Kumar,LV van Beek,JS Malhotra,,0,0,0,,,,32192232192
+1,United States of America,12,D Siva Kumar,LV van Beek,JS Malhotra,legbyes,1,1,0,,,,32192232192
+1,United States of America,12,JS Malhotra,LV van Beek,D Siva Kumar,,0,6,6,,,,32192232192
+1,United States of America,12,JS Malhotra,LV van Beek,D Siva Kumar,,0,0,0,run out,D Siva Kumar,LV van Beek,32192232192
+1,United States of America,12,JS Malhotra,LV van Beek,MO Kain,,0,0,0,,,,32192232192
+1,United States of America,12,JS Malhotra,LV van Beek,MO Kain,,0,1,1,,,,32192232192
+1,United States of America,13,JS Malhotra,BFW de Leede,MO Kain,,0,1,1,,,,32192232192
+1,United States of America,13,MO Kain,BFW de Leede,JS Malhotra,,0,0,0,bowled,MO Kain,,32192232192
+1,United States of America,13,NK Patel,BFW de Leede,JS Malhotra,,0,1,1,,,,32192232192
+1,United States of America,13,JS Malhotra,BFW de Leede,NK Patel,,0,1,1,,,,32192232192
+1,United States of America,13,NK Patel,BFW de Leede,JS Malhotra,,0,4,4,,,,32192232192
+1,United States of America,13,NK Patel,BFW de Leede,JS Malhotra,,0,2,2,,,,32192232192
+1,United States of America,14,JS Malhotra,PA van Meekeren,NK Patel,,0,1,1,,,,32192232192
+1,United States of America,14,NK Patel,PA van Meekeren,JS Malhotra,,0,1,1,,,,32192232192
+1,United States of America,14,JS Malhotra,PA van Meekeren,NK Patel,,0,1,1,,,,32192232192
+1,United States of America,14,NK Patel,PA van Meekeren,JS Malhotra,,0,1,1,,,,32192232192
+1,United States of America,14,JS Malhotra,PA van Meekeren,NK Patel,,0,0,0,,,,32192232192
+1,United States of America,14,JS Malhotra,PA van Meekeren,NK Patel,,0,0,0,caught and bowled,JS Malhotra,,32192232192
+1,United States of America,15,NK Patel,LV van Beek,CAH Stevenson,,0,0,0,,,,32192232192
+1,United States of America,15,NK Patel,LV van Beek,CAH Stevenson,,0,0,0,,,,32192232192
+1,United States of America,15,NK Patel,LV van Beek,CAH Stevenson,,0,0,0,,,,32192232192
+1,United States of America,15,NK Patel,LV van Beek,CAH Stevenson,,0,0,0,,,,32192232192
+1,United States of America,15,NK Patel,LV van Beek,CAH Stevenson,,0,1,1,,,,32192232192
+1,United States of America,15,CAH Stevenson,LV van Beek,NK Patel,,0,0,0,,,,32192232192
+1,United States of America,16,NK Patel,FJ Klaassen,CAH Stevenson,legbyes,2,2,0,,,,32192232192
+1,United States of America,16,NK Patel,FJ Klaassen,CAH Stevenson,,0,2,2,,,,32192232192
+1,United States of America,16,NK Patel,FJ Klaassen,CAH Stevenson,,0,4,4,,,,32192232192
+1,United States of America,16,NK Patel,FJ Klaassen,CAH Stevenson,,0,0,0,,,,32192232192
+1,United States of America,16,NK Patel,FJ Klaassen,CAH Stevenson,,0,2,2,,,,32192232192
+1,United States of America,16,NK Patel,FJ Klaassen,CAH Stevenson,,0,0,0,run out,CAH Stevenson,FJ Klaassen,32192232192
+1,United States of America,17,SN Netravalkar,PA van Meekeren,NK Patel,,0,0,0,,,,32192232192
+1,United States of America,17,SN Netravalkar,PA van Meekeren,NK Patel,,0,0,0,,,,32192232192
+1,United States of America,17,SN Netravalkar,PA van Meekeren,NK Patel,,0,0,0,,,,32192232192
+1,United States of America,17,SN Netravalkar,PA van Meekeren,NK Patel,,0,2,2,,,,32192232192
+1,United States of America,17,SN Netravalkar,PA van Meekeren,NK Patel,legbyes,1,1,0,,,,32192232192
+1,United States of America,17,NK Patel,PA van Meekeren,SN Netravalkar,,0,1,1,,,,32192232192
+1,United States of America,18,NK Patel,FJ Klaassen,SN Netravalkar,,0,6,6,,,,32192232192
+1,United States of America,18,NK Patel,FJ Klaassen,SN Netravalkar,,0,0,0,,,,32192232192
+1,United States of America,18,NK Patel,FJ Klaassen,SN Netravalkar,,0,1,1,,,,32192232192
+1,United States of America,18,SN Netravalkar,FJ Klaassen,NK Patel,,0,1,1,,,,32192232192
+1,United States of America,18,NK Patel,FJ Klaassen,SN Netravalkar,,0,1,1,,,,32192232192
+1,United States of America,18,SN Netravalkar,FJ Klaassen,NK Patel,,0,2,2,,,,32192232192
+1,United States of America,19,NK Patel,LV van Beek,SN Netravalkar,,0,0,0,,,,32192232192
+1,United States of America,19,NK Patel,LV van Beek,SN Netravalkar,,0,1,1,run out,NK Patel,SA Edwards,32192232192
+1,United States of America,19,J Theron,LV van Beek,SN Netravalkar,,0,1,1,,,,32192232192
+1,United States of America,19,SN Netravalkar,LV van Beek,J Theron,,0,0,0,caught,SN Netravalkar,FJ Klaassen,32192232192

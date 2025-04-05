@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,RR Hendricks,MM Ali,Q de Kock,,0,0,0,,,,31664231664
+1,South Africa,0,RR Hendricks,MM Ali,Q de Kock,,0,1,1,,,,31664231664
+1,South Africa,0,Q de Kock,MM Ali,RR Hendricks,,0,0,0,,,,31664231664
+1,South Africa,0,Q de Kock,MM Ali,RR Hendricks,,0,4,4,,,,31664231664
+1,South Africa,0,Q de Kock,MM Ali,RR Hendricks,,0,1,1,,,,31664231664
+1,South Africa,0,RR Hendricks,MM Ali,Q de Kock,,0,0,0,,,,31664231664
+1,South Africa,1,Q de Kock,CR Woakes,RR Hendricks,,0,0,0,,,,31664231664
+1,South Africa,1,Q de Kock,CR Woakes,RR Hendricks,,0,1,1,,,,31664231664
+1,South Africa,1,RR Hendricks,CR Woakes,Q de Kock,,0,1,1,,,,31664231664
+1,South Africa,1,Q de Kock,CR Woakes,RR Hendricks,,0,0,0,,,,31664231664
+1,South Africa,1,Q de Kock,CR Woakes,RR Hendricks,,0,1,1,,,,31664231664
+1,South Africa,1,RR Hendricks,CR Woakes,Q de Kock,,0,0,0,,,,31664231664
+1,South Africa,2,Q de Kock,MM Ali,RR Hendricks,,0,4,4,,,,31664231664
+1,South Africa,2,Q de Kock,MM Ali,RR Hendricks,wides,2,2,0,,,,31664231664
+1,South Africa,2,RR Hendricks,MM Ali,Q de Kock,,0,0,0,,,,31664231664
+1,South Africa,2,RR Hendricks,MM Ali,Q de Kock,,0,0,0,,,,31664231664
+1,South Africa,2,RR Hendricks,MM Ali,Q de Kock,,0,0,0,bowled,RR Hendricks,,31664231664
+1,South Africa,2,HE van der Dussen,MM Ali,Q de Kock,,0,1,1,,,,31664231664
+1,South Africa,2,Q de Kock,MM Ali,HE van der Dussen,,0,0,0,,,,31664231664
+1,South Africa,3,HE van der Dussen,CR Woakes,Q de Kock,,0,4,4,,,,31664231664
+1,South Africa,3,HE van der Dussen,CR Woakes,Q de Kock,,0,0,0,,,,31664231664
+1,South Africa,3,HE van der Dussen,CR Woakes,Q de Kock,,0,0,0,,,,31664231664
+1,South Africa,3,HE van der Dussen,CR Woakes,Q de Kock,,0,0,0,,,,31664231664
+1,South Africa,3,HE van der Dussen,CR Woakes,Q de Kock,,0,0,0,,,,31664231664
+1,South Africa,3,HE van der Dussen,CR Woakes,Q de Kock,,0,1,1,,,,31664231664
+1,South Africa,4,HE van der Dussen,MM Ali,Q de Kock,,0,1,1,,,,31664231664
+1,South Africa,4,Q de Kock,MM Ali,HE van der Dussen,,0,1,1,,,,31664231664
+1,South Africa,4,HE van der Dussen,MM Ali,Q de Kock,,0,0,0,,,,31664231664
+1,South Africa,4,HE van der Dussen,MM Ali,Q de Kock,,0,1,1,,,,31664231664
+1,South Africa,4,Q de Kock,MM Ali,HE van der Dussen,,0,1,1,,,,31664231664
+1,South Africa,4,HE van der Dussen,MM Ali,Q de Kock,,0,1,1,,,,31664231664
+1,South Africa,5,HE van der Dussen,CR Woakes,Q de Kock,,0,4,4,,,,31664231664
+1,South Africa,5,HE van der Dussen,CR Woakes,Q de Kock,,0,6,6,,,,31664231664
+1,South Africa,5,HE van der Dussen,CR Woakes,Q de Kock,,0,1,1,,,,31664231664
+1,South Africa,5,Q de Kock,CR Woakes,HE van der Dussen,,0,1,1,,,,31664231664
+1,South Africa,5,HE van der Dussen,CR Woakes,Q de Kock,,0,1,1,,,,31664231664
+1,South Africa,5,Q de Kock,CR Woakes,HE van der Dussen,,0,1,1,,,,31664231664
+1,South Africa,6,Q de Kock,MM Ali,HE van der Dussen,,0,1,1,,,,31664231664
+1,South Africa,6,HE van der Dussen,MM Ali,Q de Kock,,0,1,1,,,,31664231664
+1,South Africa,6,Q de Kock,MM Ali,HE van der Dussen,,0,4,4,,,,31664231664
+1,South Africa,6,Q de Kock,MM Ali,HE van der Dussen,,0,1,1,,,,31664231664
+1,South Africa,6,HE van der Dussen,MM Ali,Q de Kock,,0,1,1,,,,31664231664
+1,South Africa,6,Q de Kock,MM Ali,HE van der Dussen,,0,1,1,,,,31664231664
+1,South Africa,7,Q de Kock,AU Rashid,HE van der Dussen,,0,1,1,,,,31664231664
+1,South Africa,7,HE van der Dussen,AU Rashid,Q de Kock,,0,4,4,,,,31664231664
+1,South Africa,7,HE van der Dussen,AU Rashid,Q de Kock,,0,0,0,,,,31664231664
+1,South Africa,7,HE van der Dussen,AU Rashid,Q de Kock,,0,1,1,,,,31664231664
+1,South Africa,7,Q de Kock,AU Rashid,HE van der Dussen,,0,1,1,,,,31664231664
+1,South Africa,7,HE van der Dussen,AU Rashid,Q de Kock,,0,0,0,,,,31664231664
+1,South Africa,8,Q de Kock,CJ Jordan,HE van der Dussen,,0,1,1,,,,31664231664
+1,South Africa,8,HE van der Dussen,CJ Jordan,Q de Kock,,0,0,0,,,,31664231664
+1,South Africa,8,HE van der Dussen,CJ Jordan,Q de Kock,,0,1,1,,,,31664231664
+1,South Africa,8,Q de Kock,CJ Jordan,HE van der Dussen,,0,1,1,,,,31664231664
+1,South Africa,8,HE van der Dussen,CJ Jordan,Q de Kock,legbyes,2,2,0,,,,31664231664
+1,South Africa,8,HE van der Dussen,CJ Jordan,Q de Kock,,0,4,4,,,,31664231664
+1,South Africa,9,Q de Kock,AU Rashid,HE van der Dussen,,0,1,1,,,,31664231664
+1,South Africa,9,HE van der Dussen,AU Rashid,Q de Kock,,0,1,1,,,,31664231664
+1,South Africa,9,Q de Kock,AU Rashid,HE van der Dussen,,0,4,4,,,,31664231664
+1,South Africa,9,Q de Kock,AU Rashid,HE van der Dussen,,0,1,1,,,,31664231664
+1,South Africa,9,HE van der Dussen,AU Rashid,Q de Kock,,0,0,0,,,,31664231664
+1,South Africa,9,HE van der Dussen,AU Rashid,Q de Kock,,0,1,1,,,,31664231664
+1,South Africa,10,HE van der Dussen,MA Wood,Q de Kock,,0,1,1,,,,31664231664
+1,South Africa,10,Q de Kock,MA Wood,HE van der Dussen,,0,1,1,,,,31664231664
+1,South Africa,10,HE van der Dussen,MA Wood,Q de Kock,,0,6,6,,,,31664231664
+1,South Africa,10,HE van der Dussen,MA Wood,Q de Kock,,0,1,1,,,,31664231664
+1,South Africa,10,Q de Kock,MA Wood,HE van der Dussen,,0,1,1,,,,31664231664
+1,South Africa,10,HE van der Dussen,MA Wood,Q de Kock,wides,1,1,0,,,,31664231664
+1,South Africa,10,HE van der Dussen,MA Wood,Q de Kock,,0,1,1,,,,31664231664
+1,South Africa,11,HE van der Dussen,AU Rashid,Q de Kock,,0,1,1,,,,31664231664
+1,South Africa,11,Q de Kock,AU Rashid,HE van der Dussen,,0,0,0,caught,Q de Kock,JJ Roy,31664231664
+1,South Africa,11,HE van der Dussen,AU Rashid,AK Markram,,0,2,2,,,,31664231664
+1,South Africa,11,HE van der Dussen,AU Rashid,AK Markram,,0,1,1,,,,31664231664
+1,South Africa,11,AK Markram,AU Rashid,HE van der Dussen,,0,1,1,,,,31664231664
+1,South Africa,11,HE van der Dussen,AU Rashid,AK Markram,,0,1,1,,,,31664231664
+1,South Africa,12,HE van der Dussen,MA Wood,AK Markram,,0,1,1,,,,31664231664
+1,South Africa,12,AK Markram,MA Wood,HE van der Dussen,legbyes,1,1,0,,,,31664231664
+1,South Africa,12,HE van der Dussen,MA Wood,AK Markram,,0,1,1,,,,31664231664
+1,South Africa,12,AK Markram,MA Wood,HE van der Dussen,,0,2,2,,,,31664231664
+1,South Africa,12,AK Markram,MA Wood,HE van der Dussen,,0,1,1,,,,31664231664
+1,South Africa,12,HE van der Dussen,MA Wood,AK Markram,,0,6,6,,,,31664231664
+1,South Africa,13,AK Markram,AU Rashid,HE van der Dussen,,0,1,1,,,,31664231664
+1,South Africa,13,HE van der Dussen,AU Rashid,AK Markram,,0,1,1,,,,31664231664
+1,South Africa,13,AK Markram,AU Rashid,HE van der Dussen,,0,1,1,,,,31664231664
+1,South Africa,13,HE van der Dussen,AU Rashid,AK Markram,,0,1,1,,,,31664231664
+1,South Africa,13,AK Markram,AU Rashid,HE van der Dussen,,0,6,6,,,,31664231664
+1,South Africa,13,AK Markram,AU Rashid,HE van der Dussen,,0,1,1,,,,31664231664
+1,South Africa,14,AK Markram,CJ Jordan,HE van der Dussen,,0,1,1,,,,31664231664
+1,South Africa,14,HE van der Dussen,CJ Jordan,AK Markram,,0,0,0,,,,31664231664
+1,South Africa,14,HE van der Dussen,CJ Jordan,AK Markram,,0,1,1,,,,31664231664
+1,South Africa,14,AK Markram,CJ Jordan,HE van der Dussen,,0,1,1,,,,31664231664
+1,South Africa,14,HE van der Dussen,CJ Jordan,AK Markram,,0,0,0,,,,31664231664
+1,South Africa,14,HE van der Dussen,CJ Jordan,AK Markram,,0,1,1,,,,31664231664
+1,South Africa,15,HE van der Dussen,CR Woakes,AK Markram,,0,6,6,,,,31664231664
+1,South Africa,15,HE van der Dussen,CR Woakes,AK Markram,,0,6,6,,,,31664231664
+1,South Africa,15,HE van der Dussen,CR Woakes,AK Markram,,0,2,2,,,,31664231664
+1,South Africa,15,HE van der Dussen,CR Woakes,AK Markram,,0,1,1,,,,31664231664
+1,South Africa,15,AK Markram,CR Woakes,HE van der Dussen,,0,6,6,,,,31664231664
+1,South Africa,15,AK Markram,CR Woakes,HE van der Dussen,,0,0,0,,,,31664231664
+1,South Africa,16,HE van der Dussen,MA Wood,AK Markram,,0,0,0,,,,31664231664
+1,South Africa,16,HE van der Dussen,MA Wood,AK Markram,,0,1,1,,,,31664231664
+1,South Africa,16,AK Markram,MA Wood,HE van der Dussen,,0,4,4,,,,31664231664
+1,South Africa,16,AK Markram,MA Wood,HE van der Dussen,,0,0,0,,,,31664231664
+1,South Africa,16,AK Markram,MA Wood,HE van der Dussen,,0,2,2,,,,31664231664
+1,South Africa,16,AK Markram,MA Wood,HE van der Dussen,,0,4,4,,,,31664231664
+1,South Africa,17,HE van der Dussen,CJ Jordan,AK Markram,,0,1,1,,,,31664231664
+1,South Africa,17,AK Markram,CJ Jordan,HE van der Dussen,,0,3,3,,,,31664231664
+1,South Africa,17,HE van der Dussen,CJ Jordan,AK Markram,,0,0,0,,,,31664231664
+1,South Africa,17,HE van der Dussen,CJ Jordan,AK Markram,byes,1,1,0,,,,31664231664
+1,South Africa,17,AK Markram,CJ Jordan,HE van der Dussen,,0,1,1,,,,31664231664
+1,South Africa,17,HE van der Dussen,CJ Jordan,AK Markram,,0,4,4,,,,31664231664
+1,South Africa,18,AK Markram,MA Wood,HE van der Dussen,,0,0,0,,,,31664231664
+1,South Africa,18,AK Markram,MA Wood,HE van der Dussen,,0,2,2,,,,31664231664
+1,South Africa,18,AK Markram,MA Wood,HE van der Dussen,,0,6,6,,,,31664231664
+1,South Africa,18,AK Markram,MA Wood,HE van der Dussen,,0,1,1,,,,31664231664
+1,South Africa,18,HE van der Dussen,MA Wood,AK Markram,,0,2,2,,,,31664231664
+1,South Africa,18,HE van der Dussen,MA Wood,AK Markram,,0,2,2,,,,31664231664
+1,South Africa,19,AK Markram,CJ Jordan,HE van der Dussen,,0,1,1,,,,31664231664
+1,South Africa,19,HE van der Dussen,CJ Jordan,AK Markram,,0,1,1,,,,31664231664
+1,South Africa,19,AK Markram,CJ Jordan,HE van der Dussen,,0,6,6,,,,31664231664
+1,South Africa,19,AK Markram,CJ Jordan,HE van der Dussen,,0,1,1,,,,31664231664
+1,South Africa,19,HE van der Dussen,CJ Jordan,AK Markram,,0,6,6,,,,31664231664
+1,South Africa,19,HE van der Dussen,CJ Jordan,AK Markram,,0,1,1,,,,31664231664

@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Sri Lanka,0,MDKJ Perera,CJ Jordan,MD Gunathilaka,,0,0,0,,,,355423554
+1,Sri Lanka,0,MDKJ Perera,CJ Jordan,MD Gunathilaka,,0,0,0,,,,355423554
+1,Sri Lanka,0,MDKJ Perera,CJ Jordan,MD Gunathilaka,,0,0,0,,,,355423554
+1,Sri Lanka,0,MDKJ Perera,CJ Jordan,MD Gunathilaka,wides,1,1,0,,,,355423554
+1,Sri Lanka,0,MDKJ Perera,CJ Jordan,MD Gunathilaka,,0,0,0,,,,355423554
+1,Sri Lanka,0,MDKJ Perera,CJ Jordan,MD Gunathilaka,,0,1,1,,,,355423554
+1,Sri Lanka,0,MD Gunathilaka,CJ Jordan,MDKJ Perera,,0,1,1,,,,355423554
+1,Sri Lanka,1,MD Gunathilaka,TS Mills,MDKJ Perera,,0,0,0,,,,355423554
+1,Sri Lanka,1,MD Gunathilaka,TS Mills,MDKJ Perera,,0,1,1,,,,355423554
+1,Sri Lanka,1,MDKJ Perera,TS Mills,MD Gunathilaka,,0,2,2,,,,355423554
+1,Sri Lanka,1,MDKJ Perera,TS Mills,MD Gunathilaka,,0,4,4,,,,355423554
+1,Sri Lanka,1,MDKJ Perera,TS Mills,MD Gunathilaka,,0,0,0,,,,355423554
+1,Sri Lanka,1,MDKJ Perera,TS Mills,MD Gunathilaka,legbyes,1,1,0,,,,355423554
+1,Sri Lanka,2,MDKJ Perera,LE Plunkett,MD Gunathilaka,,0,0,0,,,,355423554
+1,Sri Lanka,2,MDKJ Perera,LE Plunkett,MD Gunathilaka,,0,2,2,,,,355423554
+1,Sri Lanka,2,MDKJ Perera,LE Plunkett,MD Gunathilaka,,0,2,2,,,,355423554
+1,Sri Lanka,2,MDKJ Perera,LE Plunkett,MD Gunathilaka,,0,0,0,,,,355423554
+1,Sri Lanka,2,MDKJ Perera,LE Plunkett,MD Gunathilaka,,0,2,2,,,,355423554
+1,Sri Lanka,2,MDKJ Perera,LE Plunkett,MD Gunathilaka,,0,0,0,caught,MDKJ Perera,TS Mills,355423554
+1,Sri Lanka,3,MD Gunathilaka,TS Mills,BKG Mendis,,0,1,1,,,,355423554
+1,Sri Lanka,3,BKG Mendis,TS Mills,MD Gunathilaka,,0,0,0,,,,355423554
+1,Sri Lanka,3,BKG Mendis,TS Mills,MD Gunathilaka,,0,0,0,,,,355423554
+1,Sri Lanka,3,BKG Mendis,TS Mills,MD Gunathilaka,wides,1,1,0,,,,355423554
+1,Sri Lanka,3,BKG Mendis,TS Mills,MD Gunathilaka,,0,1,1,,,,355423554
+1,Sri Lanka,3,MD Gunathilaka,TS Mills,BKG Mendis,,0,2,2,,,,355423554
+1,Sri Lanka,3,MD Gunathilaka,TS Mills,BKG Mendis,legbyes,1,1,0,,,,355423554
+1,Sri Lanka,4,MD Gunathilaka,LE Plunkett,BKG Mendis,,0,2,2,,,,355423554
+1,Sri Lanka,4,MD Gunathilaka,LE Plunkett,BKG Mendis,legbyes,1,1,0,,,,355423554
+1,Sri Lanka,4,BKG Mendis,LE Plunkett,MD Gunathilaka,,0,0,0,,,,355423554
+1,Sri Lanka,4,BKG Mendis,LE Plunkett,MD Gunathilaka,,0,1,1,,,,355423554
+1,Sri Lanka,4,MD Gunathilaka,LE Plunkett,BKG Mendis,,0,4,4,,,,355423554
+1,Sri Lanka,4,MD Gunathilaka,LE Plunkett,BKG Mendis,,0,0,0,,,,355423554
+1,Sri Lanka,5,BKG Mendis,CJ Jordan,MD Gunathilaka,,0,6,6,,,,355423554
+1,Sri Lanka,5,BKG Mendis,CJ Jordan,MD Gunathilaka,,0,2,2,,,,355423554
+1,Sri Lanka,5,BKG Mendis,CJ Jordan,MD Gunathilaka,,0,1,1,,,,355423554
+1,Sri Lanka,5,MD Gunathilaka,CJ Jordan,BKG Mendis,wides,1,1,0,,,,355423554
+1,Sri Lanka,5,MD Gunathilaka,CJ Jordan,BKG Mendis,,0,4,4,,,,355423554
+1,Sri Lanka,5,MD Gunathilaka,CJ Jordan,BKG Mendis,,0,2,2,,,,355423554
+1,Sri Lanka,5,MD Gunathilaka,CJ Jordan,BKG Mendis,,0,4,4,,,,355423554
+1,Sri Lanka,6,BKG Mendis,LA Dawson,MD Gunathilaka,,0,1,1,,,,355423554
+1,Sri Lanka,6,MD Gunathilaka,LA Dawson,BKG Mendis,,0,1,1,,,,355423554
+1,Sri Lanka,6,BKG Mendis,LA Dawson,MD Gunathilaka,,0,1,1,,,,355423554
+1,Sri Lanka,6,MD Gunathilaka,LA Dawson,BKG Mendis,,0,4,4,,,,355423554
+1,Sri Lanka,6,MD Gunathilaka,LA Dawson,BKG Mendis,,0,0,0,caught,MD Gunathilaka,CJ Jordan,355423554
+1,Sri Lanka,6,BKG Mendis,LA Dawson,AD Mathews,,0,1,1,,,,355423554
+1,Sri Lanka,7,BKG Mendis,AU Rashid,AD Mathews,,0,1,1,,,,355423554
+1,Sri Lanka,7,AD Mathews,AU Rashid,BKG Mendis,,0,0,0,,,,355423554
+1,Sri Lanka,7,AD Mathews,AU Rashid,BKG Mendis,,0,1,1,,,,355423554
+1,Sri Lanka,7,BKG Mendis,AU Rashid,AD Mathews,,0,2,2,,,,355423554
+1,Sri Lanka,7,BKG Mendis,AU Rashid,AD Mathews,,0,3,3,,,,355423554
+1,Sri Lanka,7,AD Mathews,AU Rashid,BKG Mendis,,0,1,1,,,,355423554
+1,Sri Lanka,8,AD Mathews,LA Dawson,BKG Mendis,,0,1,1,,,,355423554
+1,Sri Lanka,8,BKG Mendis,LA Dawson,AD Mathews,,0,1,1,,,,355423554
+1,Sri Lanka,8,AD Mathews,LA Dawson,BKG Mendis,,0,4,4,,,,355423554
+1,Sri Lanka,8,AD Mathews,LA Dawson,BKG Mendis,,0,1,1,,,,355423554
+1,Sri Lanka,8,BKG Mendis,LA Dawson,AD Mathews,,0,0,0,caught and bowled,BKG Mendis,,355423554
+1,Sri Lanka,8,LD Chandimal,LA Dawson,AD Mathews,,0,1,1,,,,355423554
+1,Sri Lanka,9,LD Chandimal,AU Rashid,AD Mathews,legbyes,1,1,0,,,,355423554
+1,Sri Lanka,9,AD Mathews,AU Rashid,LD Chandimal,,0,1,1,,,,355423554
+1,Sri Lanka,9,LD Chandimal,AU Rashid,AD Mathews,,0,0,0,,,,355423554
+1,Sri Lanka,9,LD Chandimal,AU Rashid,AD Mathews,,0,1,1,,,,355423554
+1,Sri Lanka,9,AD Mathews,AU Rashid,LD Chandimal,,0,1,1,,,,355423554
+1,Sri Lanka,9,LD Chandimal,AU Rashid,AD Mathews,,0,0,0,,,,355423554
+1,Sri Lanka,10,AD Mathews,LA Dawson,LD Chandimal,,0,1,1,,,,355423554
+1,Sri Lanka,10,LD Chandimal,LA Dawson,AD Mathews,,0,1,1,,,,355423554
+1,Sri Lanka,10,AD Mathews,LA Dawson,LD Chandimal,,0,0,0,bowled,AD Mathews,,355423554
+1,Sri Lanka,10,MD Shanaka,LA Dawson,LD Chandimal,,0,1,1,run out,MD Shanaka,JC Buttler,355423554
+1,Sri Lanka,10,RLB Rambukwella,LA Dawson,LD Chandimal,,0,0,0,,,,355423554
+1,Sri Lanka,10,RLB Rambukwella,LA Dawson,LD Chandimal,,0,1,1,,,,355423554
+1,Sri Lanka,11,RLB Rambukwella,AU Rashid,LD Chandimal,,0,0,0,,,,355423554
+1,Sri Lanka,11,RLB Rambukwella,AU Rashid,LD Chandimal,,0,0,0,,,,355423554
+1,Sri Lanka,11,RLB Rambukwella,AU Rashid,LD Chandimal,,0,0,0,,,,355423554
+1,Sri Lanka,11,RLB Rambukwella,AU Rashid,LD Chandimal,,0,0,0,,,,355423554
+1,Sri Lanka,11,RLB Rambukwella,AU Rashid,LD Chandimal,legbyes,1,1,0,,,,355423554
+1,Sri Lanka,11,LD Chandimal,AU Rashid,RLB Rambukwella,,0,0,0,,,,355423554
+1,Sri Lanka,12,RLB Rambukwella,LA Dawson,LD Chandimal,,0,2,2,,,,355423554
+1,Sri Lanka,12,RLB Rambukwella,LA Dawson,LD Chandimal,,0,1,1,,,,355423554
+1,Sri Lanka,12,LD Chandimal,LA Dawson,RLB Rambukwella,,0,1,1,,,,355423554
+1,Sri Lanka,12,RLB Rambukwella,LA Dawson,LD Chandimal,,0,1,1,,,,355423554
+1,Sri Lanka,12,LD Chandimal,LA Dawson,RLB Rambukwella,,0,1,1,,,,355423554
+1,Sri Lanka,12,RLB Rambukwella,LA Dawson,LD Chandimal,,0,1,1,,,,355423554
+1,Sri Lanka,13,RLB Rambukwella,AU Rashid,LD Chandimal,,0,6,6,,,,355423554
+1,Sri Lanka,13,RLB Rambukwella,AU Rashid,LD Chandimal,,0,4,4,,,,355423554
+1,Sri Lanka,13,RLB Rambukwella,AU Rashid,LD Chandimal,,0,1,1,,,,355423554
+1,Sri Lanka,13,LD Chandimal,AU Rashid,RLB Rambukwella,,0,0,0,,,,355423554
+1,Sri Lanka,13,LD Chandimal,AU Rashid,RLB Rambukwella,,0,1,1,,,,355423554
+1,Sri Lanka,13,RLB Rambukwella,AU Rashid,LD Chandimal,,0,2,2,,,,355423554
+1,Sri Lanka,14,LD Chandimal,TS Mills,RLB Rambukwella,,0,1,1,,,,355423554
+1,Sri Lanka,14,RLB Rambukwella,TS Mills,LD Chandimal,,0,0,0,run out,RLB Rambukwella,JM Vince,355423554
+1,Sri Lanka,14,LD Chandimal,TS Mills,S Prasanna,,0,1,1,,,,355423554
+1,Sri Lanka,14,S Prasanna,TS Mills,LD Chandimal,,0,1,1,,,,355423554
+1,Sri Lanka,14,LD Chandimal,TS Mills,S Prasanna,,0,1,1,,,,355423554
+1,Sri Lanka,14,S Prasanna,TS Mills,LD Chandimal,,0,0,0,,,,355423554
+1,Sri Lanka,15,LD Chandimal,LE Plunkett,S Prasanna,,0,2,2,,,,355423554
+1,Sri Lanka,15,LD Chandimal,LE Plunkett,S Prasanna,,0,6,6,,,,355423554
+1,Sri Lanka,15,LD Chandimal,LE Plunkett,S Prasanna,legbyes,4,4,0,,,,355423554
+1,Sri Lanka,15,LD Chandimal,LE Plunkett,S Prasanna,,0,1,1,,,,355423554
+1,Sri Lanka,15,S Prasanna,LE Plunkett,LD Chandimal,,0,0,0,caught,S Prasanna,JC Buttler,355423554
+1,Sri Lanka,15,MF Maharoof,LE Plunkett,LD Chandimal,,0,0,0,,,,355423554
+1,Sri Lanka,16,LD Chandimal,TS Mills,MF Maharoof,,0,0,0,,,,355423554
+1,Sri Lanka,16,LD Chandimal,TS Mills,MF Maharoof,,0,4,4,,,,355423554
+1,Sri Lanka,16,LD Chandimal,TS Mills,MF Maharoof,,0,1,1,,,,355423554
+1,Sri Lanka,16,MF Maharoof,TS Mills,LD Chandimal,,0,0,0,,,,355423554
+1,Sri Lanka,16,MF Maharoof,TS Mills,LD Chandimal,,0,0,0,,,,355423554
+1,Sri Lanka,16,MF Maharoof,TS Mills,LD Chandimal,,0,1,1,,,,355423554
+1,Sri Lanka,17,MF Maharoof,CJ Jordan,LD Chandimal,,0,1,1,,,,355423554
+1,Sri Lanka,17,LD Chandimal,CJ Jordan,MF Maharoof,,0,0,0,caught,LD Chandimal,EJG Morgan,355423554
+1,Sri Lanka,17,KMC Bandara,CJ Jordan,MF Maharoof,,0,1,1,,,,355423554
+1,Sri Lanka,17,MF Maharoof,CJ Jordan,KMC Bandara,,0,2,2,,,,355423554
+1,Sri Lanka,17,MF Maharoof,CJ Jordan,KMC Bandara,,0,1,1,,,,355423554
+1,Sri Lanka,17,KMC Bandara,CJ Jordan,MF Maharoof,,0,0,0,,,,355423554
+1,Sri Lanka,18,MF Maharoof,LE Plunkett,KMC Bandara,,0,1,1,,,,355423554
+1,Sri Lanka,18,KMC Bandara,LE Plunkett,MF Maharoof,,0,1,1,,,,355423554
+1,Sri Lanka,18,MF Maharoof,LE Plunkett,KMC Bandara,,0,0,0,,,,355423554
+1,Sri Lanka,18,MF Maharoof,LE Plunkett,KMC Bandara,,0,2,2,,,,355423554
+1,Sri Lanka,18,MF Maharoof,LE Plunkett,KMC Bandara,,0,0,0,,,,355423554
+1,Sri Lanka,18,MF Maharoof,LE Plunkett,KMC Bandara,,0,1,1,,,,355423554
+1,Sri Lanka,19,MF Maharoof,CJ Jordan,KMC Bandara,,0,1,1,,,,355423554
+1,Sri Lanka,19,KMC Bandara,CJ Jordan,MF Maharoof,byes,1,1,0,,,,355423554
+1,Sri Lanka,19,MF Maharoof,CJ Jordan,KMC Bandara,,0,0,0,,,,355423554
+1,Sri Lanka,19,MF Maharoof,CJ Jordan,KMC Bandara,,0,0,0,,,,355423554
+1,Sri Lanka,19,MF Maharoof,CJ Jordan,KMC Bandara,,0,0,0,caught,MF Maharoof,DJ Willey,355423554
+1,Sri Lanka,19,N Pradeep,CJ Jordan,KMC Bandara,,0,0,0,bowled,N Pradeep,,355423554

@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Australia,0,DA Warner,P Kumar,AJ Finch,,0,0,0,,,,319323193
+1,Australia,0,DA Warner,P Kumar,AJ Finch,,0,0,0,,,,319323193
+1,Australia,0,DA Warner,P Kumar,AJ Finch,,0,2,2,,,,319323193
+1,Australia,0,DA Warner,P Kumar,AJ Finch,,0,1,1,,,,319323193
+1,Australia,0,AJ Finch,P Kumar,DA Warner,,0,0,0,,,,319323193
+1,Australia,0,AJ Finch,P Kumar,DA Warner,,0,4,4,,,,319323193
+1,Australia,1,DA Warner,R Vinay Kumar,AJ Finch,,0,1,1,,,,319323193
+1,Australia,1,AJ Finch,R Vinay Kumar,DA Warner,,0,4,4,,,,319323193
+1,Australia,1,AJ Finch,R Vinay Kumar,DA Warner,,0,0,0,,,,319323193
+1,Australia,1,AJ Finch,R Vinay Kumar,DA Warner,,0,1,1,,,,319323193
+1,Australia,1,DA Warner,R Vinay Kumar,AJ Finch,wides,1,1,0,,,,319323193
+1,Australia,1,DA Warner,R Vinay Kumar,AJ Finch,,0,0,0,,,,319323193
+1,Australia,1,DA Warner,R Vinay Kumar,AJ Finch,,0,4,4,,,,319323193
+1,Australia,2,AJ Finch,P Kumar,DA Warner,,0,1,1,,,,319323193
+1,Australia,2,DA Warner,P Kumar,AJ Finch,,0,0,0,caught,DA Warner,G Gambhir,319323193
+1,Australia,2,AJ Finch,P Kumar,SE Marsh,,0,1,1,,,,319323193
+1,Australia,2,SE Marsh,P Kumar,AJ Finch,,0,0,0,,,,319323193
+1,Australia,2,SE Marsh,P Kumar,AJ Finch,,0,0,0,caught,SE Marsh,MS Dhoni,319323193
+1,Australia,2,DJ Hussey,P Kumar,AJ Finch,,0,0,0,,,,319323193
+1,Australia,3,AJ Finch,R Vinay Kumar,DJ Hussey,,0,0,0,,,,319323193
+1,Australia,3,AJ Finch,R Vinay Kumar,DJ Hussey,,0,0,0,,,,319323193
+1,Australia,3,AJ Finch,R Vinay Kumar,DJ Hussey,,0,4,4,,,,319323193
+1,Australia,3,AJ Finch,R Vinay Kumar,DJ Hussey,,0,2,2,,,,319323193
+1,Australia,3,AJ Finch,R Vinay Kumar,DJ Hussey,,0,1,1,,,,319323193
+1,Australia,3,DJ Hussey,R Vinay Kumar,AJ Finch,,0,0,0,,,,319323193
+1,Australia,4,AJ Finch,P Kumar,DJ Hussey,wides,1,1,0,,,,319323193
+1,Australia,4,AJ Finch,P Kumar,DJ Hussey,,0,0,0,,,,319323193
+1,Australia,4,AJ Finch,P Kumar,DJ Hussey,,0,2,2,,,,319323193
+1,Australia,4,AJ Finch,P Kumar,DJ Hussey,,0,0,0,,,,319323193
+1,Australia,4,AJ Finch,P Kumar,DJ Hussey,,0,4,4,,,,319323193
+1,Australia,4,AJ Finch,P Kumar,DJ Hussey,,0,4,4,,,,319323193
+1,Australia,4,AJ Finch,P Kumar,DJ Hussey,,0,1,1,,,,319323193
+1,Australia,5,AJ Finch,R Vinay Kumar,DJ Hussey,,0,0,0,,,,319323193
+1,Australia,5,AJ Finch,R Vinay Kumar,DJ Hussey,,0,1,1,,,,319323193
+1,Australia,5,DJ Hussey,R Vinay Kumar,AJ Finch,,0,0,0,,,,319323193
+1,Australia,5,DJ Hussey,R Vinay Kumar,AJ Finch,,0,0,0,,,,319323193
+1,Australia,5,DJ Hussey,R Vinay Kumar,AJ Finch,,0,0,0,,,,319323193
+1,Australia,5,DJ Hussey,R Vinay Kumar,AJ Finch,,0,2,2,,,,319323193
+1,Australia,6,AJ Finch,V Kohli,DJ Hussey,,0,1,1,,,,319323193
+1,Australia,6,DJ Hussey,V Kohli,AJ Finch,,0,0,0,,,,319323193
+1,Australia,6,DJ Hussey,V Kohli,AJ Finch,,0,1,1,,,,319323193
+1,Australia,6,AJ Finch,V Kohli,DJ Hussey,,0,4,4,,,,319323193
+1,Australia,6,AJ Finch,V Kohli,DJ Hussey,,0,1,1,,,,319323193
+1,Australia,6,DJ Hussey,V Kohli,AJ Finch,,0,0,0,run out,AJ Finch,MS Dhoni,319323193
+1,Australia,7,DJ Hussey,RA Jadeja,GJ Bailey,,0,1,1,,,,319323193
+1,Australia,7,GJ Bailey,RA Jadeja,DJ Hussey,,0,2,2,,,,319323193
+1,Australia,7,GJ Bailey,RA Jadeja,DJ Hussey,,0,0,0,,,,319323193
+1,Australia,7,GJ Bailey,RA Jadeja,DJ Hussey,,0,0,0,,,,319323193
+1,Australia,7,GJ Bailey,RA Jadeja,DJ Hussey,,0,1,1,,,,319323193
+1,Australia,7,DJ Hussey,RA Jadeja,GJ Bailey,,0,1,1,,,,319323193
+1,Australia,8,DJ Hussey,R Sharma,GJ Bailey,,0,0,0,,,,319323193
+1,Australia,8,DJ Hussey,R Sharma,GJ Bailey,,0,0,0,,,,319323193
+1,Australia,8,DJ Hussey,R Sharma,GJ Bailey,,0,0,0,run out,GJ Bailey,RA Jadeja,319323193
+1,Australia,8,DJ Hussey,R Sharma,MS Wade,,0,4,4,,,,319323193
+1,Australia,8,DJ Hussey,R Sharma,MS Wade,,0,0,0,,,,319323193
+1,Australia,8,DJ Hussey,R Sharma,MS Wade,,0,1,1,,,,319323193
+1,Australia,9,DJ Hussey,SK Raina,MS Wade,,0,1,1,,,,319323193
+1,Australia,9,MS Wade,SK Raina,DJ Hussey,,0,0,0,,,,319323193
+1,Australia,9,MS Wade,SK Raina,DJ Hussey,,0,1,1,,,,319323193
+1,Australia,9,DJ Hussey,SK Raina,MS Wade,,0,1,1,,,,319323193
+1,Australia,9,MS Wade,SK Raina,DJ Hussey,,0,1,1,,,,319323193
+1,Australia,9,DJ Hussey,SK Raina,MS Wade,,0,6,6,,,,319323193
+1,Australia,10,MS Wade,R Ashwin,DJ Hussey,,0,1,1,,,,319323193
+1,Australia,10,DJ Hussey,R Ashwin,MS Wade,,0,1,1,,,,319323193
+1,Australia,10,MS Wade,R Ashwin,DJ Hussey,,0,0,0,,,,319323193
+1,Australia,10,MS Wade,R Ashwin,DJ Hussey,wides,1,1,0,,,,319323193
+1,Australia,10,MS Wade,R Ashwin,DJ Hussey,,0,1,1,,,,319323193
+1,Australia,10,DJ Hussey,R Ashwin,MS Wade,,0,1,1,,,,319323193
+1,Australia,10,MS Wade,R Ashwin,DJ Hussey,,0,2,2,,,,319323193
+1,Australia,11,DJ Hussey,R Sharma,MS Wade,,0,1,1,,,,319323193
+1,Australia,11,MS Wade,R Sharma,DJ Hussey,,0,0,0,,,,319323193
+1,Australia,11,MS Wade,R Sharma,DJ Hussey,,0,6,6,,,,319323193
+1,Australia,11,MS Wade,R Sharma,DJ Hussey,,0,1,1,,,,319323193
+1,Australia,11,DJ Hussey,R Sharma,MS Wade,,0,1,1,,,,319323193
+1,Australia,11,MS Wade,R Sharma,DJ Hussey,,0,2,2,,,,319323193
+1,Australia,12,DJ Hussey,R Ashwin,MS Wade,,0,0,0,,,,319323193
+1,Australia,12,DJ Hussey,R Ashwin,MS Wade,,0,1,1,,,,319323193
+1,Australia,12,MS Wade,R Ashwin,DJ Hussey,,0,0,0,,,,319323193
+1,Australia,12,MS Wade,R Ashwin,DJ Hussey,,0,1,1,,,,319323193
+1,Australia,12,DJ Hussey,R Ashwin,MS Wade,,0,1,1,,,,319323193
+1,Australia,12,MS Wade,R Ashwin,DJ Hussey,,0,1,1,,,,319323193
+1,Australia,13,MS Wade,RA Jadeja,DJ Hussey,,0,1,1,,,,319323193
+1,Australia,13,DJ Hussey,RA Jadeja,MS Wade,wides,1,1,0,,,,319323193
+1,Australia,13,DJ Hussey,RA Jadeja,MS Wade,,0,0,0,,,,319323193
+1,Australia,13,DJ Hussey,RA Jadeja,MS Wade,,0,0,0,caught and bowled,DJ Hussey,,319323193
+1,Australia,13,MR Marsh,RA Jadeja,MS Wade,,0,1,1,,,,319323193
+1,Australia,13,MS Wade,RA Jadeja,MR Marsh,,0,1,1,,,,319323193
+1,Australia,13,MR Marsh,RA Jadeja,MS Wade,,0,1,1,,,,319323193
+1,Australia,14,MR Marsh,R Ashwin,MS Wade,,0,0,0,,,,319323193
+1,Australia,14,MR Marsh,R Ashwin,MS Wade,,0,1,1,,,,319323193
+1,Australia,14,MS Wade,R Ashwin,MR Marsh,,0,2,2,,,,319323193
+1,Australia,14,MS Wade,R Ashwin,MR Marsh,,0,0,0,,,,319323193
+1,Australia,14,MS Wade,R Ashwin,MR Marsh,,0,0,0,,,,319323193
+1,Australia,14,MS Wade,R Ashwin,MR Marsh,,0,1,1,,,,319323193
+1,Australia,15,MS Wade,RA Jadeja,MR Marsh,,0,4,4,,,,319323193
+1,Australia,15,MS Wade,RA Jadeja,MR Marsh,,0,0,0,,,,319323193
+1,Australia,15,MS Wade,RA Jadeja,MR Marsh,,0,1,1,,,,319323193
+1,Australia,15,MR Marsh,RA Jadeja,MS Wade,,0,0,0,,,,319323193
+1,Australia,15,MR Marsh,RA Jadeja,MS Wade,,0,0,0,,,,319323193
+1,Australia,15,MR Marsh,RA Jadeja,MS Wade,,0,1,1,,,,319323193
+1,Australia,16,MR Marsh,R Ashwin,MS Wade,,0,4,4,,,,319323193
+1,Australia,16,MR Marsh,R Ashwin,MS Wade,,0,0,0,,,,319323193
+1,Australia,16,MR Marsh,R Ashwin,MS Wade,,0,1,1,,,,319323193
+1,Australia,16,MS Wade,R Ashwin,MR Marsh,,0,2,2,,,,319323193
+1,Australia,16,MS Wade,R Ashwin,MR Marsh,,0,1,1,,,,319323193
+1,Australia,16,MR Marsh,R Ashwin,MS Wade,,0,0,0,,,,319323193
+1,Australia,17,MS Wade,R Sharma,MR Marsh,,0,1,1,,,,319323193
+1,Australia,17,MR Marsh,R Sharma,MS Wade,,0,4,4,,,,319323193
+1,Australia,17,MR Marsh,R Sharma,MS Wade,,0,0,0,stumped,MR Marsh,MS Dhoni,319323193
+1,Australia,17,B Lee,R Sharma,MS Wade,,0,1,1,,,,319323193
+1,Australia,17,MS Wade,R Sharma,B Lee,,0,1,1,,,,319323193
+1,Australia,17,B Lee,R Sharma,MS Wade,,0,0,0,,,,319323193
+1,Australia,18,MS Wade,R Vinay Kumar,B Lee,,0,0,0,,,,319323193
+1,Australia,18,MS Wade,R Vinay Kumar,B Lee,,0,0,0,run out,MS Wade,RG Sharma,319323193
+1,Australia,18,CJ McKay,R Vinay Kumar,B Lee,,0,0,0,caught,CJ McKay,MS Dhoni,319323193
+1,Australia,18,GB Hogg,R Vinay Kumar,B Lee,,0,0,0,,,,319323193
+1,Australia,18,GB Hogg,R Vinay Kumar,B Lee,,0,0,0,,,,319323193
+1,Australia,18,GB Hogg,R Vinay Kumar,B Lee,,0,4,4,,,,319323193
+1,Australia,19,B Lee,R Sharma,GB Hogg,,0,4,4,,,,319323193
+1,Australia,19,B Lee,R Sharma,GB Hogg,,0,1,1,,,,319323193
+1,Australia,19,GB Hogg,R Sharma,B Lee,,0,0,0,lbw,GB Hogg,,319323193
+1,Australia,19,XJ Doherty,R Sharma,B Lee,,0,1,1,run out,XJ Doherty,MS Dhoni,319323193

@@ -1,0 +1,120 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,South Africa,0,Q de Kock,B Kumar,T Bavuma,,0,0,0,,,,31744231744
+2,South Africa,0,Q de Kock,B Kumar,T Bavuma,,0,1,1,,,,31744231744
+2,South Africa,0,T Bavuma,B Kumar,Q de Kock,legbyes,4,4,0,,,,31744231744
+2,South Africa,0,T Bavuma,B Kumar,Q de Kock,,0,0,0,,,,31744231744
+2,South Africa,0,T Bavuma,B Kumar,Q de Kock,,0,1,1,,,,31744231744
+2,South Africa,0,Q de Kock,B Kumar,T Bavuma,,0,1,1,,,,31744231744
+2,South Africa,1,Q de Kock,Avesh Khan,T Bavuma,,0,0,0,,,,31744231744
+2,South Africa,1,Q de Kock,Avesh Khan,T Bavuma,,0,0,0,,,,31744231744
+2,South Africa,1,Q de Kock,Avesh Khan,T Bavuma,wides,2,2,0,,,,31744231744
+2,South Africa,1,T Bavuma,Avesh Khan,Q de Kock,,0,4,4,,,,31744231744
+2,South Africa,1,T Bavuma,Avesh Khan,Q de Kock,,0,4,4,,,,31744231744
+2,South Africa,1,T Bavuma,Avesh Khan,Q de Kock,,0,1,1,,,,31744231744
+2,South Africa,1,Q de Kock,Avesh Khan,T Bavuma,,0,4,4,,,,31744231744
+2,South Africa,2,T Bavuma,B Kumar,Q de Kock,,0,0,0,,,,31744231744
+2,South Africa,2,T Bavuma,B Kumar,Q de Kock,,0,0,0,caught,T Bavuma,RR Pant,31744231744
+2,South Africa,2,D Pretorius,B Kumar,Q de Kock,,0,0,0,,,,31744231744
+2,South Africa,2,D Pretorius,B Kumar,Q de Kock,,0,4,4,,,,31744231744
+2,South Africa,2,D Pretorius,B Kumar,Q de Kock,,0,0,0,,,,31744231744
+2,South Africa,2,D Pretorius,B Kumar,Q de Kock,,0,0,0,,,,31744231744
+2,South Africa,3,Q de Kock,YS Chahal,D Pretorius,,0,1,1,,,,31744231744
+2,South Africa,3,D Pretorius,YS Chahal,Q de Kock,,0,6,6,,,,31744231744
+2,South Africa,3,D Pretorius,YS Chahal,Q de Kock,,0,1,1,,,,31744231744
+2,South Africa,3,Q de Kock,YS Chahal,D Pretorius,,0,0,0,,,,31744231744
+2,South Africa,3,Q de Kock,YS Chahal,D Pretorius,,0,4,4,,,,31744231744
+2,South Africa,3,Q de Kock,YS Chahal,D Pretorius,,0,4,4,,,,31744231744
+2,South Africa,4,D Pretorius,HH Pandya,Q de Kock,,0,0,0,,,,31744231744
+2,South Africa,4,D Pretorius,HH Pandya,Q de Kock,,0,6,6,,,,31744231744
+2,South Africa,4,D Pretorius,HH Pandya,Q de Kock,,0,6,6,,,,31744231744
+2,South Africa,4,D Pretorius,HH Pandya,Q de Kock,,0,0,0,,,,31744231744
+2,South Africa,4,D Pretorius,HH Pandya,Q de Kock,,0,6,6,,,,31744231744
+2,South Africa,4,D Pretorius,HH Pandya,Q de Kock,,0,0,0,,,,31744231744
+2,South Africa,5,Q de Kock,HV Patel,D Pretorius,,0,1,1,,,,31744231744
+2,South Africa,5,D Pretorius,HV Patel,Q de Kock,,0,0,0,bowled,D Pretorius,,31744231744
+2,South Africa,5,HE van der Dussen,HV Patel,Q de Kock,,0,0,0,,,,31744231744
+2,South Africa,5,HE van der Dussen,HV Patel,Q de Kock,,0,0,0,,,,31744231744
+2,South Africa,5,HE van der Dussen,HV Patel,Q de Kock,,0,0,0,,,,31744231744
+2,South Africa,5,HE van der Dussen,HV Patel,Q de Kock,,0,0,0,,,,31744231744
+2,South Africa,6,Q de Kock,AR Patel,HE van der Dussen,,0,1,1,,,,31744231744
+2,South Africa,6,HE van der Dussen,AR Patel,Q de Kock,,0,1,1,,,,31744231744
+2,South Africa,6,Q de Kock,AR Patel,HE van der Dussen,,0,0,0,,,,31744231744
+2,South Africa,6,Q de Kock,AR Patel,HE van der Dussen,,0,1,1,,,,31744231744
+2,South Africa,6,HE van der Dussen,AR Patel,Q de Kock,,0,1,1,,,,31744231744
+2,South Africa,6,Q de Kock,AR Patel,HE van der Dussen,,0,2,2,,,,31744231744
+2,South Africa,7,HE van der Dussen,YS Chahal,Q de Kock,,0,0,0,,,,31744231744
+2,South Africa,7,HE van der Dussen,YS Chahal,Q de Kock,,0,0,0,,,,31744231744
+2,South Africa,7,HE van der Dussen,YS Chahal,Q de Kock,,0,0,0,,,,31744231744
+2,South Africa,7,HE van der Dussen,YS Chahal,Q de Kock,,0,4,4,,,,31744231744
+2,South Africa,7,HE van der Dussen,YS Chahal,Q de Kock,,0,1,1,,,,31744231744
+2,South Africa,7,Q de Kock,YS Chahal,HE van der Dussen,,0,1,1,,,,31744231744
+2,South Africa,8,Q de Kock,AR Patel,HE van der Dussen,,0,1,1,,,,31744231744
+2,South Africa,8,HE van der Dussen,AR Patel,Q de Kock,,0,6,6,,,,31744231744
+2,South Africa,8,HE van der Dussen,AR Patel,Q de Kock,,0,1,1,,,,31744231744
+2,South Africa,8,Q de Kock,AR Patel,HE van der Dussen,,0,0,0,caught,Q de Kock,Ishan Kishan,31744231744
+2,South Africa,8,DA Miller,AR Patel,HE van der Dussen,,0,0,0,,,,31744231744
+2,South Africa,8,DA Miller,AR Patel,HE van der Dussen,,0,1,1,,,,31744231744
+2,South Africa,9,DA Miller,Avesh Khan,HE van der Dussen,,0,2,2,,,,31744231744
+2,South Africa,9,DA Miller,Avesh Khan,HE van der Dussen,,0,1,1,,,,31744231744
+2,South Africa,9,HE van der Dussen,Avesh Khan,DA Miller,,0,0,0,,,,31744231744
+2,South Africa,9,HE van der Dussen,Avesh Khan,DA Miller,,0,0,0,,,,31744231744
+2,South Africa,9,HE van der Dussen,Avesh Khan,DA Miller,,0,1,1,,,,31744231744
+2,South Africa,9,DA Miller,Avesh Khan,HE van der Dussen,,0,0,0,,,,31744231744
+2,South Africa,10,HE van der Dussen,AR Patel,DA Miller,,0,1,1,,,,31744231744
+2,South Africa,10,DA Miller,AR Patel,HE van der Dussen,,0,1,1,,,,31744231744
+2,South Africa,10,HE van der Dussen,AR Patel,DA Miller,,0,1,1,,,,31744231744
+2,South Africa,10,DA Miller,AR Patel,HE van der Dussen,,0,1,1,,,,31744231744
+2,South Africa,10,HE van der Dussen,AR Patel,DA Miller,,0,1,1,,,,31744231744
+2,South Africa,10,DA Miller,AR Patel,HE van der Dussen,,0,1,1,,,,31744231744
+2,South Africa,11,DA Miller,HV Patel,HE van der Dussen,,0,1,1,,,,31744231744
+2,South Africa,11,HE van der Dussen,HV Patel,DA Miller,,0,1,1,,,,31744231744
+2,South Africa,11,DA Miller,HV Patel,HE van der Dussen,,0,1,1,,,,31744231744
+2,South Africa,11,HE van der Dussen,HV Patel,DA Miller,,0,1,1,,,,31744231744
+2,South Africa,11,DA Miller,HV Patel,HE van der Dussen,,0,4,4,,,,31744231744
+2,South Africa,11,DA Miller,HV Patel,HE van der Dussen,,0,6,6,,,,31744231744
+2,South Africa,12,HE van der Dussen,AR Patel,DA Miller,,0,1,1,,,,31744231744
+2,South Africa,12,DA Miller,AR Patel,HE van der Dussen,,0,1,1,,,,31744231744
+2,South Africa,12,HE van der Dussen,AR Patel,DA Miller,,0,1,1,,,,31744231744
+2,South Africa,12,DA Miller,AR Patel,HE van der Dussen,,0,4,4,,,,31744231744
+2,South Africa,12,DA Miller,AR Patel,HE van der Dussen,,0,6,6,,,,31744231744
+2,South Africa,12,DA Miller,AR Patel,HE van der Dussen,,0,6,6,,,,31744231744
+2,South Africa,13,HE van der Dussen,Avesh Khan,DA Miller,wides,1,1,0,,,,31744231744
+2,South Africa,13,HE van der Dussen,Avesh Khan,DA Miller,,0,0,0,,,,31744231744
+2,South Africa,13,HE van der Dussen,Avesh Khan,DA Miller,,0,0,0,,,,31744231744
+2,South Africa,13,HE van der Dussen,Avesh Khan,DA Miller,,0,0,0,,,,31744231744
+2,South Africa,13,HE van der Dussen,Avesh Khan,DA Miller,,0,1,1,,,,31744231744
+2,South Africa,13,DA Miller,Avesh Khan,HE van der Dussen,,0,1,1,,,,31744231744
+2,South Africa,13,HE van der Dussen,Avesh Khan,DA Miller,noballs,1,5,4,,,,31744231744
+2,South Africa,13,HE van der Dussen,Avesh Khan,DA Miller,,0,1,1,,,,31744231744
+2,South Africa,14,HE van der Dussen,B Kumar,DA Miller,,0,1,1,,,,31744231744
+2,South Africa,14,DA Miller,B Kumar,HE van der Dussen,,0,0,0,,,,31744231744
+2,South Africa,14,DA Miller,B Kumar,HE van der Dussen,,0,4,4,,,,31744231744
+2,South Africa,14,DA Miller,B Kumar,HE van der Dussen,,0,6,6,,,,31744231744
+2,South Africa,14,DA Miller,B Kumar,HE van der Dussen,,0,2,2,,,,31744231744
+2,South Africa,14,DA Miller,B Kumar,HE van der Dussen,,0,1,1,,,,31744231744
+2,South Africa,15,DA Miller,Avesh Khan,HE van der Dussen,,0,1,1,,,,31744231744
+2,South Africa,15,HE van der Dussen,Avesh Khan,DA Miller,,0,1,1,,,,31744231744
+2,South Africa,15,DA Miller,Avesh Khan,HE van der Dussen,,0,1,1,,,,31744231744
+2,South Africa,15,HE van der Dussen,Avesh Khan,DA Miller,legbyes,1,1,0,,,,31744231744
+2,South Africa,15,DA Miller,Avesh Khan,HE van der Dussen,,0,4,4,,,,31744231744
+2,South Africa,15,DA Miller,Avesh Khan,HE van der Dussen,,0,0,0,,,,31744231744
+2,South Africa,16,HE van der Dussen,HV Patel,DA Miller,,0,6,6,,,,31744231744
+2,South Africa,16,HE van der Dussen,HV Patel,DA Miller,,0,6,6,,,,31744231744
+2,South Africa,16,HE van der Dussen,HV Patel,DA Miller,,0,4,4,,,,31744231744
+2,South Africa,16,HE van der Dussen,HV Patel,DA Miller,,0,0,0,,,,31744231744
+2,South Africa,16,HE van der Dussen,HV Patel,DA Miller,,0,6,6,,,,31744231744
+2,South Africa,16,HE van der Dussen,HV Patel,DA Miller,,0,0,0,,,,31744231744
+2,South Africa,17,DA Miller,B Kumar,HE van der Dussen,,0,6,6,,,,31744231744
+2,South Africa,17,DA Miller,B Kumar,HE van der Dussen,wides,1,1,0,,,,31744231744
+2,South Africa,17,DA Miller,B Kumar,HE van der Dussen,,0,0,0,,,,31744231744
+2,South Africa,17,DA Miller,B Kumar,HE van der Dussen,,0,1,1,,,,31744231744
+2,South Africa,17,HE van der Dussen,B Kumar,DA Miller,,0,6,6,,,,31744231744
+2,South Africa,17,HE van der Dussen,B Kumar,DA Miller,,0,4,4,,,,31744231744
+2,South Africa,17,HE van der Dussen,B Kumar,DA Miller,,0,4,4,,,,31744231744
+2,South Africa,18,DA Miller,HV Patel,HE van der Dussen,,0,0,0,,,,31744231744
+2,South Africa,18,DA Miller,HV Patel,HE van der Dussen,,0,1,1,,,,31744231744
+2,South Africa,18,HE van der Dussen,HV Patel,DA Miller,,0,0,0,,,,31744231744
+2,South Africa,18,HE van der Dussen,HV Patel,DA Miller,legbyes,2,2,0,,,,31744231744
+2,South Africa,18,HE van der Dussen,HV Patel,DA Miller,,0,4,4,,,,31744231744
+2,South Africa,18,HE van der Dussen,HV Patel,DA Miller,,0,1,1,,,,31744231744
+2,South Africa,19,HE van der Dussen,YS Chahal,DA Miller,,0,4,4,,,,31744231744

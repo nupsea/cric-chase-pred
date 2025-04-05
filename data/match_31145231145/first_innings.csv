@@ -1,0 +1,122 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,New Zealand,0,MJ Guptill,SM Curran,C Munro,,0,0,0,,,,31145231145
+1,New Zealand,0,MJ Guptill,SM Curran,C Munro,,0,0,0,,,,31145231145
+1,New Zealand,0,MJ Guptill,SM Curran,C Munro,legbyes,1,1,0,,,,31145231145
+1,New Zealand,0,C Munro,SM Curran,MJ Guptill,,0,1,1,,,,31145231145
+1,New Zealand,0,MJ Guptill,SM Curran,C Munro,,0,1,1,,,,31145231145
+1,New Zealand,0,C Munro,SM Curran,MJ Guptill,,0,1,1,,,,31145231145
+1,New Zealand,1,C Munro,TK Curran,MJ Guptill,,0,0,0,,,,31145231145
+1,New Zealand,1,C Munro,TK Curran,MJ Guptill,,0,0,0,,,,31145231145
+1,New Zealand,1,C Munro,TK Curran,MJ Guptill,,0,0,0,,,,31145231145
+1,New Zealand,1,C Munro,TK Curran,MJ Guptill,,0,0,0,,,,31145231145
+1,New Zealand,1,C Munro,TK Curran,MJ Guptill,,0,0,0,,,,31145231145
+1,New Zealand,1,C Munro,TK Curran,MJ Guptill,,0,0,0,,,,31145231145
+1,New Zealand,2,MJ Guptill,SM Curran,C Munro,,0,0,0,,,,31145231145
+1,New Zealand,2,MJ Guptill,SM Curran,C Munro,,0,1,1,,,,31145231145
+1,New Zealand,2,C Munro,SM Curran,MJ Guptill,,0,0,0,,,,31145231145
+1,New Zealand,2,C Munro,SM Curran,MJ Guptill,,0,1,1,,,,31145231145
+1,New Zealand,2,MJ Guptill,SM Curran,C Munro,,0,0,0,bowled,MJ Guptill,,31145231145
+1,New Zealand,2,TL Seifert,SM Curran,C Munro,,0,1,1,,,,31145231145
+1,New Zealand,3,TL Seifert,TK Curran,C Munro,,0,0,0,,,,31145231145
+1,New Zealand,3,TL Seifert,TK Curran,C Munro,,0,1,1,,,,31145231145
+1,New Zealand,3,C Munro,TK Curran,TL Seifert,wides,1,1,0,,,,31145231145
+1,New Zealand,3,C Munro,TK Curran,TL Seifert,,0,4,4,,,,31145231145
+1,New Zealand,3,C Munro,TK Curran,TL Seifert,,0,0,0,,,,31145231145
+1,New Zealand,3,C Munro,TK Curran,TL Seifert,legbyes,1,1,0,,,,31145231145
+1,New Zealand,3,TL Seifert,TK Curran,C Munro,,0,1,1,,,,31145231145
+1,New Zealand,4,TL Seifert,SM Curran,C Munro,,0,1,1,,,,31145231145
+1,New Zealand,4,C Munro,SM Curran,TL Seifert,,0,1,1,,,,31145231145
+1,New Zealand,4,TL Seifert,SM Curran,C Munro,,0,6,6,,,,31145231145
+1,New Zealand,4,TL Seifert,SM Curran,C Munro,,0,1,1,,,,31145231145
+1,New Zealand,4,C Munro,SM Curran,TL Seifert,,0,6,6,,,,31145231145
+1,New Zealand,4,C Munro,SM Curran,TL Seifert,,0,6,6,,,,31145231145
+1,New Zealand,5,TL Seifert,CJ Jordan,C Munro,,0,1,1,,,,31145231145
+1,New Zealand,5,C Munro,CJ Jordan,TL Seifert,,0,0,0,,,,31145231145
+1,New Zealand,5,C Munro,CJ Jordan,TL Seifert,,0,1,1,,,,31145231145
+1,New Zealand,5,TL Seifert,CJ Jordan,C Munro,,0,1,1,,,,31145231145
+1,New Zealand,5,C Munro,CJ Jordan,TL Seifert,,0,0,0,,,,31145231145
+1,New Zealand,5,C Munro,CJ Jordan,TL Seifert,,0,0,0,caught,C Munro,EJG Morgan,31145231145
+1,New Zealand,6,TL Seifert,AU Rashid,C de Grandhomme,,0,1,1,,,,31145231145
+1,New Zealand,6,C de Grandhomme,AU Rashid,TL Seifert,,0,4,4,,,,31145231145
+1,New Zealand,6,C de Grandhomme,AU Rashid,TL Seifert,,0,1,1,,,,31145231145
+1,New Zealand,6,TL Seifert,AU Rashid,C de Grandhomme,,0,1,1,,,,31145231145
+1,New Zealand,6,C de Grandhomme,AU Rashid,TL Seifert,,0,1,1,,,,31145231145
+1,New Zealand,6,TL Seifert,AU Rashid,C de Grandhomme,,0,1,1,,,,31145231145
+1,New Zealand,7,TL Seifert,PR Brown,C de Grandhomme,,0,3,3,,,,31145231145
+1,New Zealand,7,C de Grandhomme,PR Brown,TL Seifert,,0,0,0,,,,31145231145
+1,New Zealand,7,C de Grandhomme,PR Brown,TL Seifert,,0,0,0,,,,31145231145
+1,New Zealand,7,C de Grandhomme,PR Brown,TL Seifert,,0,1,1,,,,31145231145
+1,New Zealand,7,TL Seifert,PR Brown,C de Grandhomme,,0,0,0,,,,31145231145
+1,New Zealand,7,TL Seifert,PR Brown,C de Grandhomme,,0,1,1,,,,31145231145
+1,New Zealand,8,TL Seifert,AU Rashid,C de Grandhomme,,0,4,4,,,,31145231145
+1,New Zealand,8,TL Seifert,AU Rashid,C de Grandhomme,,0,1,1,,,,31145231145
+1,New Zealand,8,C de Grandhomme,AU Rashid,TL Seifert,,0,1,1,,,,31145231145
+1,New Zealand,8,TL Seifert,AU Rashid,C de Grandhomme,,0,1,1,,,,31145231145
+1,New Zealand,8,C de Grandhomme,AU Rashid,TL Seifert,,0,1,1,,,,31145231145
+1,New Zealand,8,TL Seifert,AU Rashid,C de Grandhomme,,0,0,0,,,,31145231145
+1,New Zealand,9,C de Grandhomme,PR Brown,TL Seifert,,0,2,2,,,,31145231145
+1,New Zealand,9,C de Grandhomme,PR Brown,TL Seifert,,0,1,1,,,,31145231145
+1,New Zealand,9,TL Seifert,PR Brown,C de Grandhomme,,0,1,1,,,,31145231145
+1,New Zealand,9,C de Grandhomme,PR Brown,TL Seifert,,0,0,0,,,,31145231145
+1,New Zealand,9,C de Grandhomme,PR Brown,TL Seifert,,0,6,6,,,,31145231145
+1,New Zealand,9,C de Grandhomme,PR Brown,TL Seifert,,0,1,1,,,,31145231145
+1,New Zealand,10,C de Grandhomme,AU Rashid,TL Seifert,,0,0,0,caught,C de Grandhomme,JM Vince,31145231145
+1,New Zealand,10,TL Seifert,AU Rashid,LRPL Taylor,,0,1,1,,,,31145231145
+1,New Zealand,10,LRPL Taylor,AU Rashid,TL Seifert,,0,0,0,,,,31145231145
+1,New Zealand,10,LRPL Taylor,AU Rashid,TL Seifert,,0,1,1,,,,31145231145
+1,New Zealand,10,TL Seifert,AU Rashid,LRPL Taylor,,0,1,1,,,,31145231145
+1,New Zealand,10,LRPL Taylor,AU Rashid,TL Seifert,,0,1,1,,,,31145231145
+1,New Zealand,11,LRPL Taylor,SM Curran,TL Seifert,,0,2,2,,,,31145231145
+1,New Zealand,11,LRPL Taylor,SM Curran,TL Seifert,,0,0,0,,,,31145231145
+1,New Zealand,11,LRPL Taylor,SM Curran,TL Seifert,,0,1,1,,,,31145231145
+1,New Zealand,11,TL Seifert,SM Curran,LRPL Taylor,,0,1,1,,,,31145231145
+1,New Zealand,11,LRPL Taylor,SM Curran,TL Seifert,,0,2,2,,,,31145231145
+1,New Zealand,11,LRPL Taylor,SM Curran,TL Seifert,legbyes,1,1,0,,,,31145231145
+1,New Zealand,12,LRPL Taylor,AU Rashid,TL Seifert,,0,2,2,,,,31145231145
+1,New Zealand,12,LRPL Taylor,AU Rashid,TL Seifert,,0,4,4,,,,31145231145
+1,New Zealand,12,LRPL Taylor,AU Rashid,TL Seifert,,0,1,1,,,,31145231145
+1,New Zealand,12,TL Seifert,AU Rashid,LRPL Taylor,,0,1,1,,,,31145231145
+1,New Zealand,12,LRPL Taylor,AU Rashid,TL Seifert,,0,1,1,,,,31145231145
+1,New Zealand,12,TL Seifert,AU Rashid,LRPL Taylor,,0,1,1,,,,31145231145
+1,New Zealand,13,TL Seifert,CJ Jordan,LRPL Taylor,,0,0,0,caught,TL Seifert,JM Bairstow,31145231145
+1,New Zealand,13,LRPL Taylor,CJ Jordan,DJ Mitchell,,0,1,1,,,,31145231145
+1,New Zealand,13,DJ Mitchell,CJ Jordan,LRPL Taylor,,0,1,1,,,,31145231145
+1,New Zealand,13,LRPL Taylor,CJ Jordan,DJ Mitchell,,0,0,0,,,,31145231145
+1,New Zealand,13,LRPL Taylor,CJ Jordan,DJ Mitchell,,0,1,1,,,,31145231145
+1,New Zealand,13,DJ Mitchell,CJ Jordan,LRPL Taylor,,0,0,0,,,,31145231145
+1,New Zealand,14,LRPL Taylor,TK Curran,DJ Mitchell,,0,1,1,,,,31145231145
+1,New Zealand,14,DJ Mitchell,TK Curran,LRPL Taylor,,0,1,1,,,,31145231145
+1,New Zealand,14,LRPL Taylor,TK Curran,DJ Mitchell,,0,4,4,,,,31145231145
+1,New Zealand,14,LRPL Taylor,TK Curran,DJ Mitchell,,0,1,1,,,,31145231145
+1,New Zealand,14,DJ Mitchell,TK Curran,LRPL Taylor,,0,2,2,,,,31145231145
+1,New Zealand,14,DJ Mitchell,TK Curran,LRPL Taylor,,0,0,0,,,,31145231145
+1,New Zealand,15,LRPL Taylor,PR Brown,DJ Mitchell,,0,1,1,,,,31145231145
+1,New Zealand,15,DJ Mitchell,PR Brown,LRPL Taylor,,0,1,1,,,,31145231145
+1,New Zealand,15,LRPL Taylor,PR Brown,DJ Mitchell,,0,1,1,,,,31145231145
+1,New Zealand,15,DJ Mitchell,PR Brown,LRPL Taylor,,0,1,1,,,,31145231145
+1,New Zealand,15,LRPL Taylor,PR Brown,DJ Mitchell,,0,1,1,,,,31145231145
+1,New Zealand,15,DJ Mitchell,PR Brown,LRPL Taylor,,0,6,6,,,,31145231145
+1,New Zealand,16,LRPL Taylor,CJ Jordan,DJ Mitchell,,0,0,0,,,,31145231145
+1,New Zealand,16,LRPL Taylor,CJ Jordan,DJ Mitchell,,0,1,1,,,,31145231145
+1,New Zealand,16,DJ Mitchell,CJ Jordan,LRPL Taylor,,0,1,1,,,,31145231145
+1,New Zealand,16,LRPL Taylor,CJ Jordan,DJ Mitchell,,0,4,4,,,,31145231145
+1,New Zealand,16,LRPL Taylor,CJ Jordan,DJ Mitchell,,0,1,1,,,,31145231145
+1,New Zealand,16,DJ Mitchell,CJ Jordan,LRPL Taylor,,0,6,6,,,,31145231145
+1,New Zealand,17,LRPL Taylor,TK Curran,DJ Mitchell,,0,1,1,,,,31145231145
+1,New Zealand,17,DJ Mitchell,TK Curran,LRPL Taylor,,0,1,1,,,,31145231145
+1,New Zealand,17,LRPL Taylor,TK Curran,DJ Mitchell,,0,1,1,,,,31145231145
+1,New Zealand,17,DJ Mitchell,TK Curran,LRPL Taylor,,0,4,4,,,,31145231145
+1,New Zealand,17,DJ Mitchell,TK Curran,LRPL Taylor,,0,1,1,,,,31145231145
+1,New Zealand,17,LRPL Taylor,TK Curran,DJ Mitchell,,0,1,1,,,,31145231145
+1,New Zealand,18,LRPL Taylor,CJ Jordan,DJ Mitchell,,0,0,0,,,,31145231145
+1,New Zealand,18,LRPL Taylor,CJ Jordan,DJ Mitchell,,0,1,1,,,,31145231145
+1,New Zealand,18,DJ Mitchell,CJ Jordan,LRPL Taylor,,0,1,1,,,,31145231145
+1,New Zealand,18,LRPL Taylor,CJ Jordan,DJ Mitchell,,0,6,6,,,,31145231145
+1,New Zealand,18,LRPL Taylor,CJ Jordan,DJ Mitchell,,0,0,0,,,,31145231145
+1,New Zealand,18,LRPL Taylor,CJ Jordan,DJ Mitchell,,0,1,1,,,,31145231145
+1,New Zealand,19,LRPL Taylor,PR Brown,DJ Mitchell,,0,1,1,,,,31145231145
+1,New Zealand,19,DJ Mitchell,PR Brown,LRPL Taylor,,0,1,1,,,,31145231145
+1,New Zealand,19,LRPL Taylor,PR Brown,DJ Mitchell,,0,0,0,caught,LRPL Taylor,JM Bairstow,31145231145
+1,New Zealand,19,DJ Mitchell,PR Brown,MJ Santner,,0,1,1,,,,31145231145
+1,New Zealand,19,MJ Santner,PR Brown,DJ Mitchell,,0,1,1,,,,31145231145
+1,New Zealand,19,DJ Mitchell,PR Brown,MJ Santner,,0,2,2,,,,31145231145

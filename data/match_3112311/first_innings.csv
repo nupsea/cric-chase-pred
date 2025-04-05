@@ -1,0 +1,117 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Sri Lanka,0,WU Tharanga,JEC Franklin,CK Kapugedera,,0,0,0,,,,3112311
+1,Sri Lanka,0,WU Tharanga,JEC Franklin,CK Kapugedera,,0,0,0,,,,3112311
+1,Sri Lanka,0,WU Tharanga,JEC Franklin,CK Kapugedera,,0,0,0,bowled,WU Tharanga,,3112311
+1,Sri Lanka,0,DPMD Jayawardene,JEC Franklin,CK Kapugedera,noballs,1,2,1,,,,3112311
+1,Sri Lanka,0,CK Kapugedera,JEC Franklin,DPMD Jayawardene,,0,1,1,,,,3112311
+1,Sri Lanka,0,DPMD Jayawardene,JEC Franklin,CK Kapugedera,,0,4,4,,,,3112311
+1,Sri Lanka,0,DPMD Jayawardene,JEC Franklin,CK Kapugedera,,0,2,2,,,,3112311
+1,Sri Lanka,1,CK Kapugedera,MJ Mason,DPMD Jayawardene,,0,0,0,,,,3112311
+1,Sri Lanka,1,CK Kapugedera,MJ Mason,DPMD Jayawardene,,0,4,4,,,,3112311
+1,Sri Lanka,1,CK Kapugedera,MJ Mason,DPMD Jayawardene,,0,0,0,,,,3112311
+1,Sri Lanka,1,CK Kapugedera,MJ Mason,DPMD Jayawardene,,0,1,1,,,,3112311
+1,Sri Lanka,1,DPMD Jayawardene,MJ Mason,CK Kapugedera,,0,2,2,,,,3112311
+1,Sri Lanka,1,DPMD Jayawardene,MJ Mason,CK Kapugedera,wides,1,1,0,,,,3112311
+1,Sri Lanka,1,DPMD Jayawardene,MJ Mason,CK Kapugedera,,0,0,0,,,,3112311
+1,Sri Lanka,2,CK Kapugedera,JEC Franklin,DPMD Jayawardene,,0,0,0,,,,3112311
+1,Sri Lanka,2,CK Kapugedera,JEC Franklin,DPMD Jayawardene,,0,6,6,,,,3112311
+1,Sri Lanka,2,CK Kapugedera,JEC Franklin,DPMD Jayawardene,legbyes,1,1,0,,,,3112311
+1,Sri Lanka,2,DPMD Jayawardene,JEC Franklin,CK Kapugedera,,0,0,0,,,,3112311
+1,Sri Lanka,2,DPMD Jayawardene,JEC Franklin,CK Kapugedera,,0,0,0,caught,DPMD Jayawardene,JS Patel,3112311
+1,Sri Lanka,2,KC Sangakkara,JEC Franklin,CK Kapugedera,,0,0,0,,,,3112311
+1,Sri Lanka,3,CK Kapugedera,MJ Mason,KC Sangakkara,wides,1,1,0,,,,3112311
+1,Sri Lanka,3,CK Kapugedera,MJ Mason,KC Sangakkara,,0,0,0,,,,3112311
+1,Sri Lanka,3,CK Kapugedera,MJ Mason,KC Sangakkara,wides,1,1,0,,,,3112311
+1,Sri Lanka,3,CK Kapugedera,MJ Mason,KC Sangakkara,,0,0,0,,,,3112311
+1,Sri Lanka,3,CK Kapugedera,MJ Mason,KC Sangakkara,,0,0,0,,,,3112311
+1,Sri Lanka,3,CK Kapugedera,MJ Mason,KC Sangakkara,,0,0,0,caught,CK Kapugedera,JEC Franklin,3112311
+1,Sri Lanka,3,KC Sangakkara,MJ Mason,MS Atapattu,,0,0,0,,,,3112311
+1,Sri Lanka,3,KC Sangakkara,MJ Mason,MS Atapattu,,0,0,0,,,,3112311
+1,Sri Lanka,4,MS Atapattu,JEC Franklin,KC Sangakkara,,0,1,1,,,,3112311
+1,Sri Lanka,4,KC Sangakkara,JEC Franklin,MS Atapattu,,0,1,1,,,,3112311
+1,Sri Lanka,4,MS Atapattu,JEC Franklin,KC Sangakkara,,0,0,0,,,,3112311
+1,Sri Lanka,4,MS Atapattu,JEC Franklin,KC Sangakkara,,0,0,0,,,,3112311
+1,Sri Lanka,4,MS Atapattu,JEC Franklin,KC Sangakkara,,0,1,1,,,,3112311
+1,Sri Lanka,4,KC Sangakkara,JEC Franklin,MS Atapattu,,0,1,1,,,,3112311
+1,Sri Lanka,5,KC Sangakkara,MJ Mason,MS Atapattu,,0,0,0,,,,3112311
+1,Sri Lanka,5,KC Sangakkara,MJ Mason,MS Atapattu,legbyes,1,1,0,,,,3112311
+1,Sri Lanka,5,MS Atapattu,MJ Mason,KC Sangakkara,,0,1,1,,,,3112311
+1,Sri Lanka,5,KC Sangakkara,MJ Mason,MS Atapattu,,0,4,4,,,,3112311
+1,Sri Lanka,5,KC Sangakkara,MJ Mason,MS Atapattu,,0,4,4,,,,3112311
+1,Sri Lanka,5,KC Sangakkara,MJ Mason,MS Atapattu,,0,0,0,,,,3112311
+1,Sri Lanka,6,MS Atapattu,JEC Franklin,KC Sangakkara,,0,1,1,,,,3112311
+1,Sri Lanka,6,KC Sangakkara,JEC Franklin,MS Atapattu,,0,1,1,,,,3112311
+1,Sri Lanka,6,MS Atapattu,JEC Franklin,KC Sangakkara,,0,1,1,,,,3112311
+1,Sri Lanka,6,KC Sangakkara,JEC Franklin,MS Atapattu,,0,0,0,,,,3112311
+1,Sri Lanka,6,KC Sangakkara,JEC Franklin,MS Atapattu,,0,1,1,,,,3112311
+1,Sri Lanka,6,MS Atapattu,JEC Franklin,KC Sangakkara,,0,0,0,caught,MS Atapattu,PG Fulton,3112311
+1,Sri Lanka,7,TM Dilshan,MR Gillespie,KC Sangakkara,,0,0,0,,,,3112311
+1,Sri Lanka,7,TM Dilshan,MR Gillespie,KC Sangakkara,,0,1,1,,,,3112311
+1,Sri Lanka,7,KC Sangakkara,MR Gillespie,TM Dilshan,,0,0,0,,,,3112311
+1,Sri Lanka,7,KC Sangakkara,MR Gillespie,TM Dilshan,,0,1,1,,,,3112311
+1,Sri Lanka,7,TM Dilshan,MR Gillespie,KC Sangakkara,wides,5,5,0,,,,3112311
+1,Sri Lanka,7,TM Dilshan,MR Gillespie,KC Sangakkara,,0,0,0,,,,3112311
+1,Sri Lanka,7,TM Dilshan,MR Gillespie,KC Sangakkara,,0,0,0,,,,3112311
+1,Sri Lanka,8,KC Sangakkara,AR Adams,TM Dilshan,,0,0,0,,,,3112311
+1,Sri Lanka,8,KC Sangakkara,AR Adams,TM Dilshan,,0,0,0,caught,KC Sangakkara,PD McGlashan,3112311
+1,Sri Lanka,8,LPC Silva,AR Adams,TM Dilshan,,0,1,1,,,,3112311
+1,Sri Lanka,8,TM Dilshan,AR Adams,LPC Silva,,0,0,0,,,,3112311
+1,Sri Lanka,8,TM Dilshan,AR Adams,LPC Silva,,0,0,0,,,,3112311
+1,Sri Lanka,8,TM Dilshan,AR Adams,LPC Silva,,0,0,0,,,,3112311
+1,Sri Lanka,9,LPC Silva,MR Gillespie,TM Dilshan,,0,0,0,,,,3112311
+1,Sri Lanka,9,LPC Silva,MR Gillespie,TM Dilshan,,0,0,0,,,,3112311
+1,Sri Lanka,9,LPC Silva,MR Gillespie,TM Dilshan,,0,1,1,,,,3112311
+1,Sri Lanka,9,TM Dilshan,MR Gillespie,LPC Silva,,0,1,1,,,,3112311
+1,Sri Lanka,9,LPC Silva,MR Gillespie,TM Dilshan,,0,1,1,,,,3112311
+1,Sri Lanka,9,TM Dilshan,MR Gillespie,LPC Silva,,0,0,0,,,,3112311
+1,Sri Lanka,10,LPC Silva,AR Adams,TM Dilshan,,0,1,1,,,,3112311
+1,Sri Lanka,10,TM Dilshan,AR Adams,LPC Silva,,0,1,1,,,,3112311
+1,Sri Lanka,10,LPC Silva,AR Adams,TM Dilshan,,0,1,1,run out,TM Dilshan,PD McGlashan,3112311
+1,Sri Lanka,10,HMCM Bandara,AR Adams,LPC Silva,,0,1,1,,,,3112311
+1,Sri Lanka,10,LPC Silva,AR Adams,HMCM Bandara,,0,0,0,,,,3112311
+1,Sri Lanka,10,LPC Silva,AR Adams,HMCM Bandara,,0,1,1,,,,3112311
+1,Sri Lanka,11,LPC Silva,MR Gillespie,HMCM Bandara,,0,0,0,,,,3112311
+1,Sri Lanka,11,LPC Silva,MR Gillespie,HMCM Bandara,,0,0,0,,,,3112311
+1,Sri Lanka,11,LPC Silva,MR Gillespie,HMCM Bandara,,0,1,1,,,,3112311
+1,Sri Lanka,11,HMCM Bandara,MR Gillespie,LPC Silva,,0,0,0,caught,HMCM Bandara,LRPL Taylor,3112311
+1,Sri Lanka,11,SL Malinga,MR Gillespie,LPC Silva,,0,0,0,,,,3112311
+1,Sri Lanka,11,SL Malinga,MR Gillespie,LPC Silva,,0,0,0,,,,3112311
+1,Sri Lanka,12,LPC Silva,AR Adams,SL Malinga,,0,0,0,,,,3112311
+1,Sri Lanka,12,LPC Silva,AR Adams,SL Malinga,,0,0,0,,,,3112311
+1,Sri Lanka,12,LPC Silva,AR Adams,SL Malinga,,0,1,1,,,,3112311
+1,Sri Lanka,12,SL Malinga,AR Adams,LPC Silva,,0,0,0,,,,3112311
+1,Sri Lanka,12,SL Malinga,AR Adams,LPC Silva,,0,4,4,,,,3112311
+1,Sri Lanka,12,SL Malinga,AR Adams,LPC Silva,,0,0,0,,,,3112311
+1,Sri Lanka,13,LPC Silva,MR Gillespie,SL Malinga,,0,2,2,,,,3112311
+1,Sri Lanka,13,LPC Silva,NJ Astle,SL Malinga,,0,1,1,,,,3112311
+1,Sri Lanka,13,SL Malinga,NJ Astle,LPC Silva,,0,0,0,,,,3112311
+1,Sri Lanka,13,SL Malinga,NJ Astle,LPC Silva,,0,0,0,,,,3112311
+1,Sri Lanka,13,SL Malinga,NJ Astle,LPC Silva,,0,1,1,,,,3112311
+1,Sri Lanka,13,LPC Silva,NJ Astle,SL Malinga,,0,1,1,,,,3112311
+1,Sri Lanka,14,LPC Silva,AR Adams,SL Malinga,,0,0,0,caught,LPC Silva,PD McGlashan,3112311
+1,Sri Lanka,14,CRD Fernando,AR Adams,SL Malinga,,0,0,0,,,,3112311
+1,Sri Lanka,14,CRD Fernando,AR Adams,SL Malinga,,0,0,0,,,,3112311
+1,Sri Lanka,14,CRD Fernando,AR Adams,SL Malinga,wides,1,1,0,,,,3112311
+1,Sri Lanka,14,CRD Fernando,AR Adams,SL Malinga,,0,0,0,,,,3112311
+1,Sri Lanka,14,CRD Fernando,AR Adams,SL Malinga,,0,4,4,,,,3112311
+1,Sri Lanka,14,CRD Fernando,AR Adams,SL Malinga,,0,4,4,,,,3112311
+1,Sri Lanka,15,SL Malinga,NJ Astle,CRD Fernando,,0,6,6,,,,3112311
+1,Sri Lanka,15,SL Malinga,NJ Astle,CRD Fernando,,0,1,1,,,,3112311
+1,Sri Lanka,15,CRD Fernando,NJ Astle,SL Malinga,,0,1,1,,,,3112311
+1,Sri Lanka,15,SL Malinga,NJ Astle,CRD Fernando,,0,4,4,,,,3112311
+1,Sri Lanka,15,SL Malinga,NJ Astle,CRD Fernando,,0,2,2,,,,3112311
+1,Sri Lanka,15,SL Malinga,NJ Astle,CRD Fernando,,0,6,6,,,,3112311
+1,Sri Lanka,16,CRD Fernando,JS Patel,SL Malinga,,0,1,1,,,,3112311
+1,Sri Lanka,16,SL Malinga,JS Patel,CRD Fernando,,0,0,0,,,,3112311
+1,Sri Lanka,16,SL Malinga,JS Patel,CRD Fernando,,0,1,1,,,,3112311
+1,Sri Lanka,16,CRD Fernando,JS Patel,SL Malinga,,0,0,0,,,,3112311
+1,Sri Lanka,16,CRD Fernando,JS Patel,SL Malinga,,0,2,2,,,,3112311
+1,Sri Lanka,16,CRD Fernando,JS Patel,SL Malinga,,0,4,4,,,,3112311
+1,Sri Lanka,17,SL Malinga,NJ Astle,CRD Fernando,,0,1,1,,,,3112311
+1,Sri Lanka,17,CRD Fernando,NJ Astle,SL Malinga,,0,1,1,,,,3112311
+1,Sri Lanka,17,SL Malinga,NJ Astle,CRD Fernando,,0,1,1,,,,3112311
+1,Sri Lanka,17,CRD Fernando,NJ Astle,SL Malinga,,0,4,4,,,,3112311
+1,Sri Lanka,17,CRD Fernando,NJ Astle,SL Malinga,,0,0,0,,,,3112311
+1,Sri Lanka,17,CRD Fernando,NJ Astle,SL Malinga,,0,0,0,caught,CRD Fernando,AR Adams,3112311
+1,Sri Lanka,18,SL Malinga,JS Patel,PDRL Perera,,0,0,0,,,,3112311
+1,Sri Lanka,18,SL Malinga,JS Patel,PDRL Perera,,0,0,0,bowled,SL Malinga,,3112311

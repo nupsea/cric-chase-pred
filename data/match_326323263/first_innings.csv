@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,West Indies,0,DR Smith,JL Pattinson,J Charles,wides,5,5,0,,,,326323263
+1,West Indies,0,DR Smith,JL Pattinson,J Charles,,0,0,0,,,,326323263
+1,West Indies,0,DR Smith,JL Pattinson,J Charles,,0,0,0,,,,326323263
+1,West Indies,0,DR Smith,JL Pattinson,J Charles,,0,0,0,,,,326323263
+1,West Indies,0,DR Smith,JL Pattinson,J Charles,,0,4,4,,,,326323263
+1,West Indies,0,DR Smith,JL Pattinson,J Charles,,0,1,1,,,,326323263
+1,West Indies,0,J Charles,JL Pattinson,DR Smith,,0,4,4,,,,326323263
+1,West Indies,1,DR Smith,B Lee,J Charles,,0,0,0,,,,326323263
+1,West Indies,1,DR Smith,B Lee,J Charles,,0,4,4,,,,326323263
+1,West Indies,1,DR Smith,B Lee,J Charles,,0,1,1,,,,326323263
+1,West Indies,1,J Charles,B Lee,DR Smith,,0,6,6,,,,326323263
+1,West Indies,1,J Charles,B Lee,DR Smith,,0,4,4,,,,326323263
+1,West Indies,1,J Charles,B Lee,DR Smith,,0,0,0,,,,326323263
+1,West Indies,2,DR Smith,CJ McKay,J Charles,,0,0,0,,,,326323263
+1,West Indies,2,DR Smith,CJ McKay,J Charles,,0,1,1,,,,326323263
+1,West Indies,2,J Charles,CJ McKay,DR Smith,,0,1,1,,,,326323263
+1,West Indies,2,DR Smith,CJ McKay,J Charles,,0,1,1,,,,326323263
+1,West Indies,2,J Charles,CJ McKay,DR Smith,,0,0,0,,,,326323263
+1,West Indies,2,J Charles,CJ McKay,DR Smith,,0,2,2,,,,326323263
+1,West Indies,3,DR Smith,XJ Doherty,J Charles,,0,1,1,,,,326323263
+1,West Indies,3,J Charles,XJ Doherty,DR Smith,,0,1,1,,,,326323263
+1,West Indies,3,DR Smith,XJ Doherty,J Charles,,0,0,0,,,,326323263
+1,West Indies,3,DR Smith,XJ Doherty,J Charles,,0,1,1,,,,326323263
+1,West Indies,3,J Charles,XJ Doherty,DR Smith,,0,1,1,,,,326323263
+1,West Indies,3,DR Smith,XJ Doherty,J Charles,,0,0,0,,,,326323263
+1,West Indies,4,J Charles,CJ McKay,DR Smith,,0,4,4,,,,326323263
+1,West Indies,4,J Charles,CJ McKay,DR Smith,wides,1,1,0,,,,326323263
+1,West Indies,4,J Charles,CJ McKay,DR Smith,,0,0,0,,,,326323263
+1,West Indies,4,J Charles,CJ McKay,DR Smith,,0,0,0,,,,326323263
+1,West Indies,4,J Charles,CJ McKay,DR Smith,,0,4,4,,,,326323263
+1,West Indies,4,J Charles,CJ McKay,DR Smith,,0,0,0,,,,326323263
+1,West Indies,4,J Charles,CJ McKay,DR Smith,,0,0,0,,,,326323263
+1,West Indies,5,DR Smith,XJ Doherty,J Charles,,0,4,4,,,,326323263
+1,West Indies,5,DR Smith,XJ Doherty,J Charles,,0,1,1,,,,326323263
+1,West Indies,5,J Charles,XJ Doherty,DR Smith,,0,4,4,,,,326323263
+1,West Indies,5,J Charles,XJ Doherty,DR Smith,,0,1,1,,,,326323263
+1,West Indies,5,DR Smith,XJ Doherty,J Charles,,0,4,4,,,,326323263
+1,West Indies,5,DR Smith,XJ Doherty,J Charles,,0,4,4,,,,326323263
+1,West Indies,6,J Charles,SR Watson,DR Smith,,0,1,1,,,,326323263
+1,West Indies,6,DR Smith,SR Watson,J Charles,legbyes,1,1,0,,,,326323263
+1,West Indies,6,J Charles,SR Watson,DR Smith,noballs,1,5,4,,,,326323263
+1,West Indies,6,J Charles,SR Watson,DR Smith,,0,0,0,,,,326323263
+1,West Indies,6,J Charles,SR Watson,DR Smith,,0,0,0,caught,J Charles,DT Christian,326323263
+1,West Indies,6,DR Smith,SR Watson,KA Pollard,,0,2,2,,,,326323263
+1,West Indies,6,DR Smith,SR Watson,KA Pollard,,0,2,2,,,,326323263
+1,West Indies,7,KA Pollard,B Lee,DR Smith,,0,0,0,,,,326323263
+1,West Indies,7,KA Pollard,B Lee,DR Smith,,0,1,1,,,,326323263
+1,West Indies,7,DR Smith,B Lee,KA Pollard,,0,0,0,,,,326323263
+1,West Indies,7,DR Smith,B Lee,KA Pollard,,0,2,2,,,,326323263
+1,West Indies,7,DR Smith,B Lee,KA Pollard,,0,1,1,,,,326323263
+1,West Indies,7,KA Pollard,B Lee,DR Smith,,0,0,0,caught,KA Pollard,MS Wade,326323263
+1,West Indies,8,DR Smith,JL Pattinson,DJ Bravo,,0,6,6,,,,326323263
+1,West Indies,8,DR Smith,JL Pattinson,DJ Bravo,wides,1,1,0,,,,326323263
+1,West Indies,8,DR Smith,JL Pattinson,DJ Bravo,,0,0,0,,,,326323263
+1,West Indies,8,DR Smith,JL Pattinson,DJ Bravo,,0,6,6,,,,326323263
+1,West Indies,8,DR Smith,JL Pattinson,DJ Bravo,,0,6,6,,,,326323263
+1,West Indies,8,DR Smith,JL Pattinson,DJ Bravo,,0,1,1,,,,326323263
+1,West Indies,8,DJ Bravo,JL Pattinson,DR Smith,,0,0,0,,,,326323263
+1,West Indies,9,DR Smith,XJ Doherty,DJ Bravo,,0,4,4,,,,326323263
+1,West Indies,9,DR Smith,XJ Doherty,DJ Bravo,,0,6,6,,,,326323263
+1,West Indies,9,DR Smith,XJ Doherty,DJ Bravo,,0,0,0,,,,326323263
+1,West Indies,9,DR Smith,XJ Doherty,DJ Bravo,,0,0,0,caught,DR Smith,DJ Hussey,326323263
+1,West Indies,9,DJ Bravo,XJ Doherty,DJG Sammy,,0,0,0,,,,326323263
+1,West Indies,9,DJ Bravo,XJ Doherty,DJG Sammy,,0,0,0,,,,326323263
+1,West Indies,10,DJG Sammy,DT Christian,DJ Bravo,,0,1,1,,,,326323263
+1,West Indies,10,DJ Bravo,DT Christian,DJG Sammy,,0,1,1,,,,326323263
+1,West Indies,10,DJG Sammy,DT Christian,DJ Bravo,,0,1,1,,,,326323263
+1,West Indies,10,DJ Bravo,DT Christian,DJG Sammy,,0,0,0,,,,326323263
+1,West Indies,10,DJ Bravo,DT Christian,DJG Sammy,,0,1,1,,,,326323263
+1,West Indies,10,DJG Sammy,DT Christian,DJ Bravo,,0,1,1,,,,326323263
+1,West Indies,11,DJG Sammy,SR Watson,DJ Bravo,,0,0,0,,,,326323263
+1,West Indies,11,DJG Sammy,SR Watson,DJ Bravo,wides,1,1,0,,,,326323263
+1,West Indies,11,DJG Sammy,SR Watson,DJ Bravo,,0,0,0,,,,326323263
+1,West Indies,11,DJG Sammy,SR Watson,DJ Bravo,,0,0,0,,,,326323263
+1,West Indies,11,DJG Sammy,SR Watson,DJ Bravo,,0,1,1,,,,326323263
+1,West Indies,11,DJ Bravo,SR Watson,DJG Sammy,,0,1,1,,,,326323263
+1,West Indies,11,DJG Sammy,SR Watson,DJ Bravo,wides,1,1,0,,,,326323263
+1,West Indies,11,DJG Sammy,SR Watson,DJ Bravo,,0,1,1,,,,326323263
+1,West Indies,12,DJG Sammy,CJ McKay,DJ Bravo,,0,0,0,bowled,DJG Sammy,,326323263
+1,West Indies,12,DP Hyatt,CJ McKay,DJ Bravo,,0,0,0,,,,326323263
+1,West Indies,12,DP Hyatt,CJ McKay,DJ Bravo,,0,1,1,,,,326323263
+1,West Indies,12,DJ Bravo,CJ McKay,DP Hyatt,,0,0,0,,,,326323263
+1,West Indies,12,DJ Bravo,CJ McKay,DP Hyatt,,0,2,2,,,,326323263
+1,West Indies,12,DJ Bravo,CJ McKay,DP Hyatt,,0,1,1,,,,326323263
+1,West Indies,13,DJ Bravo,DT Christian,DP Hyatt,,0,2,2,,,,326323263
+1,West Indies,13,DJ Bravo,DT Christian,DP Hyatt,,0,3,3,,,,326323263
+1,West Indies,13,DP Hyatt,DT Christian,DJ Bravo,,0,0,0,,,,326323263
+1,West Indies,13,DP Hyatt,DT Christian,DJ Bravo,,0,0,0,,,,326323263
+1,West Indies,13,DP Hyatt,DT Christian,DJ Bravo,,0,4,4,,,,326323263
+1,West Indies,13,DP Hyatt,DT Christian,DJ Bravo,,0,1,1,,,,326323263
+1,West Indies,14,DP Hyatt,CJ McKay,DJ Bravo,,0,0,0,caught,DP Hyatt,GJ Bailey,326323263
+1,West Indies,14,DJ Bravo,CJ McKay,MN Samuels,,0,2,2,,,,326323263
+1,West Indies,14,DJ Bravo,CJ McKay,MN Samuels,,0,1,1,,,,326323263
+1,West Indies,14,MN Samuels,CJ McKay,DJ Bravo,,0,1,1,,,,326323263
+1,West Indies,14,DJ Bravo,CJ McKay,MN Samuels,,0,1,1,,,,326323263
+1,West Indies,14,MN Samuels,CJ McKay,DJ Bravo,,0,1,1,,,,326323263
+1,West Indies,15,MN Samuels,DT Christian,DJ Bravo,,0,0,0,caught,MN Samuels,DA Warner,326323263
+1,West Indies,15,DJ Bravo,DT Christian,CS Baugh,,0,1,1,,,,326323263
+1,West Indies,15,CS Baugh,DT Christian,DJ Bravo,,0,1,1,,,,326323263
+1,West Indies,15,DJ Bravo,DT Christian,CS Baugh,,0,2,2,,,,326323263
+1,West Indies,15,DJ Bravo,DT Christian,CS Baugh,,0,1,1,,,,326323263
+1,West Indies,15,CS Baugh,DT Christian,DJ Bravo,,0,0,0,,,,326323263
+1,West Indies,16,DJ Bravo,SR Watson,CS Baugh,,0,1,1,,,,326323263
+1,West Indies,16,CS Baugh,SR Watson,DJ Bravo,,0,0,0,,,,326323263
+1,West Indies,16,CS Baugh,SR Watson,DJ Bravo,,0,4,4,,,,326323263
+1,West Indies,16,CS Baugh,SR Watson,DJ Bravo,,0,0,0,,,,326323263
+1,West Indies,16,CS Baugh,SR Watson,DJ Bravo,,0,1,1,,,,326323263
+1,West Indies,16,DJ Bravo,SR Watson,CS Baugh,,0,1,1,,,,326323263
+1,West Indies,17,DJ Bravo,B Lee,CS Baugh,,0,0,0,,,,326323263
+1,West Indies,17,DJ Bravo,B Lee,CS Baugh,,0,1,1,,,,326323263
+1,West Indies,17,CS Baugh,B Lee,DJ Bravo,,0,0,0,,,,326323263
+1,West Indies,17,CS Baugh,B Lee,DJ Bravo,,0,1,1,,,,326323263
+1,West Indies,17,DJ Bravo,B Lee,CS Baugh,,0,1,1,,,,326323263
+1,West Indies,17,CS Baugh,B Lee,DJ Bravo,,0,0,0,caught,CS Baugh,MS Wade,326323263
+1,West Indies,18,DJ Bravo,SR Watson,SP Narine,,0,0,0,caught,DJ Bravo,DT Christian,326323263
+1,West Indies,18,GE Mathurin,SR Watson,SP Narine,,0,0,0,,,,326323263
+1,West Indies,18,GE Mathurin,SR Watson,SP Narine,,0,1,1,,,,326323263
+1,West Indies,18,SP Narine,SR Watson,GE Mathurin,,0,1,1,,,,326323263
+1,West Indies,18,GE Mathurin,SR Watson,SP Narine,,0,1,1,,,,326323263
+1,West Indies,18,SP Narine,SR Watson,GE Mathurin,,0,1,1,,,,326323263
+1,West Indies,19,SP Narine,B Lee,GE Mathurin,,0,0,0,,,,326323263
+1,West Indies,19,SP Narine,B Lee,GE Mathurin,,0,0,0,run out,SP Narine,GJ Bailey,326323263
+1,West Indies,19,GE Mathurin,B Lee,FH Edwards,,0,1,1,,,,326323263
+1,West Indies,19,FH Edwards,B Lee,GE Mathurin,,0,0,0,bowled,FH Edwards,,326323263

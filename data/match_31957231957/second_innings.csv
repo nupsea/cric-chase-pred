@@ -1,0 +1,110 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Kuwait,0,Maryam Omar,S Channa,Priyada Murali,,0,0,0,,,,31957231957
+2,Kuwait,0,Maryam Omar,S Channa,Priyada Murali,noballs,1,1,0,,,,31957231957
+2,Kuwait,0,Maryam Omar,S Channa,Priyada Murali,,0,2,2,,,,31957231957
+2,Kuwait,0,Maryam Omar,S Channa,Priyada Murali,,0,1,1,,,,31957231957
+2,Kuwait,0,Priyada Murali,S Channa,Maryam Omar,,0,0,0,,,,31957231957
+2,Kuwait,0,Priyada Murali,S Channa,Maryam Omar,,0,4,4,,,,31957231957
+2,Kuwait,0,Priyada Murali,S Channa,Maryam Omar,,0,0,0,lbw,Priyada Murali,,31957231957
+2,Kuwait,1,Maryam Omar,B Shetty,Amna Tariq,,0,2,2,,,,31957231957
+2,Kuwait,1,Maryam Omar,B Shetty,Amna Tariq,wides,1,1,0,,,,31957231957
+2,Kuwait,1,Maryam Omar,B Shetty,Amna Tariq,,0,0,0,,,,31957231957
+2,Kuwait,1,Maryam Omar,B Shetty,Amna Tariq,,0,0,0,caught,Maryam Omar,SV Shetty,31957231957
+2,Kuwait,1,Khadija Khalil,B Shetty,Amna Tariq,,0,0,0,,,,31957231957
+2,Kuwait,1,Khadija Khalil,B Shetty,Amna Tariq,,0,0,0,,,,31957231957
+2,Kuwait,1,Khadija Khalil,B Shetty,Amna Tariq,,0,0,0,,,,31957231957
+2,Kuwait,2,Amna Tariq,S Channa,Khadija Khalil,,0,1,1,,,,31957231957
+2,Kuwait,2,Khadija Khalil,S Channa,Amna Tariq,,0,0,0,,,,31957231957
+2,Kuwait,2,Khadija Khalil,S Channa,Amna Tariq,,0,1,1,,,,31957231957
+2,Kuwait,2,Amna Tariq,S Channa,Khadija Khalil,,0,0,0,,,,31957231957
+2,Kuwait,2,Amna Tariq,S Channa,Khadija Khalil,,0,0,0,,,,31957231957
+2,Kuwait,2,Amna Tariq,S Channa,Khadija Khalil,legbyes,2,2,0,,,,31957231957
+2,Kuwait,3,Khadija Khalil,B Shetty,Amna Tariq,,0,2,2,,,,31957231957
+2,Kuwait,3,Khadija Khalil,B Shetty,Amna Tariq,,0,0,0,,,,31957231957
+2,Kuwait,3,Khadija Khalil,B Shetty,Amna Tariq,,0,0,0,,,,31957231957
+2,Kuwait,3,Khadija Khalil,B Shetty,Amna Tariq,,0,0,0,,,,31957231957
+2,Kuwait,3,Khadija Khalil,B Shetty,Amna Tariq,,0,0,0,,,,31957231957
+2,Kuwait,3,Khadija Khalil,B Shetty,Amna Tariq,,0,1,1,,,,31957231957
+2,Kuwait,4,Khadija Khalil,S Channa,Amna Tariq,,0,0,0,,,,31957231957
+2,Kuwait,4,Khadija Khalil,S Channa,Amna Tariq,legbyes,1,1,0,,,,31957231957
+2,Kuwait,4,Amna Tariq,S Channa,Khadija Khalil,,0,0,0,,,,31957231957
+2,Kuwait,4,Amna Tariq,S Channa,Khadija Khalil,,0,1,1,,,,31957231957
+2,Kuwait,4,Khadija Khalil,S Channa,Amna Tariq,,0,0,0,,,,31957231957
+2,Kuwait,4,Khadija Khalil,S Channa,Amna Tariq,,0,0,0,,,,31957231957
+2,Kuwait,5,Amna Tariq,B Shetty,Khadija Khalil,wides,1,1,0,,,,31957231957
+2,Kuwait,5,Amna Tariq,B Shetty,Khadija Khalil,,0,0,0,,,,31957231957
+2,Kuwait,5,Amna Tariq,B Shetty,Khadija Khalil,,0,4,4,,,,31957231957
+2,Kuwait,5,Amna Tariq,B Shetty,Khadija Khalil,,0,0,0,,,,31957231957
+2,Kuwait,5,Amna Tariq,B Shetty,Khadija Khalil,,0,4,4,,,,31957231957
+2,Kuwait,5,Amna Tariq,B Shetty,Khadija Khalil,,0,0,0,,,,31957231957
+2,Kuwait,5,Amna Tariq,B Shetty,Khadija Khalil,,0,4,4,,,,31957231957
+2,Kuwait,6,Khadija Khalil,S Nair,Amna Tariq,,0,1,1,,,,31957231957
+2,Kuwait,6,Amna Tariq,S Nair,Khadija Khalil,,0,1,1,,,,31957231957
+2,Kuwait,6,Khadija Khalil,S Nair,Amna Tariq,,0,0,0,,,,31957231957
+2,Kuwait,6,Khadija Khalil,S Nair,Amna Tariq,,0,0,0,,,,31957231957
+2,Kuwait,6,Khadija Khalil,S Nair,Amna Tariq,,0,3,3,,,,31957231957
+2,Kuwait,6,Amna Tariq,S Nair,Khadija Khalil,legbyes,1,1,0,,,,31957231957
+2,Kuwait,7,Amna Tariq,PE Mendonca,Khadija Khalil,,0,0,0,,,,31957231957
+2,Kuwait,7,Amna Tariq,PE Mendonca,Khadija Khalil,,0,0,0,,,,31957231957
+2,Kuwait,7,Amna Tariq,PE Mendonca,Khadija Khalil,,0,1,1,,,,31957231957
+2,Kuwait,7,Khadija Khalil,PE Mendonca,Amna Tariq,,0,0,0,,,,31957231957
+2,Kuwait,7,Khadija Khalil,PE Mendonca,Amna Tariq,,0,0,0,,,,31957231957
+2,Kuwait,7,Khadija Khalil,PE Mendonca,Amna Tariq,,0,0,0,,,,31957231957
+2,Kuwait,8,Amna Tariq,S Nair,Khadija Khalil,,0,0,0,bowled,Amna Tariq,,31957231957
+2,Kuwait,8,Maria Jasvi,S Nair,Khadija Khalil,,0,0,0,,,,31957231957
+2,Kuwait,8,Maria Jasvi,S Nair,Khadija Khalil,,0,0,0,,,,31957231957
+2,Kuwait,8,Maria Jasvi,S Nair,Khadija Khalil,,0,1,1,,,,31957231957
+2,Kuwait,8,Khadija Khalil,S Nair,Maria Jasvi,,0,0,0,,,,31957231957
+2,Kuwait,8,Khadija Khalil,S Nair,Maria Jasvi,,0,4,4,,,,31957231957
+2,Kuwait,9,Maria Jasvi,PE Mendonca,Khadija Khalil,,0,0,0,,,,31957231957
+2,Kuwait,9,Maria Jasvi,PE Mendonca,Khadija Khalil,,0,0,0,,,,31957231957
+2,Kuwait,9,Maria Jasvi,PE Mendonca,Khadija Khalil,,0,0,0,,,,31957231957
+2,Kuwait,9,Maria Jasvi,PE Mendonca,Khadija Khalil,,0,0,0,,,,31957231957
+2,Kuwait,9,Maria Jasvi,PE Mendonca,Khadija Khalil,,0,0,0,,,,31957231957
+2,Kuwait,9,Maria Jasvi,PE Mendonca,Khadija Khalil,,0,0,0,,,,31957231957
+2,Kuwait,10,Khadija Khalil,S Nair,Maria Jasvi,,0,1,1,,,,31957231957
+2,Kuwait,10,Maria Jasvi,S Nair,Khadija Khalil,,0,0,0,,,,31957231957
+2,Kuwait,10,Maria Jasvi,S Nair,Khadija Khalil,,0,1,1,,,,31957231957
+2,Kuwait,10,Khadija Khalil,S Nair,Maria Jasvi,,0,2,2,,,,31957231957
+2,Kuwait,10,Khadija Khalil,S Nair,Maria Jasvi,,0,2,2,,,,31957231957
+2,Kuwait,10,Khadija Khalil,S Nair,Maria Jasvi,,0,1,1,,,,31957231957
+2,Kuwait,11,Khadija Khalil,PE Mendonca,Maria Jasvi,wides,1,1,0,,,,31957231957
+2,Kuwait,11,Khadija Khalil,PE Mendonca,Maria Jasvi,,0,0,0,,,,31957231957
+2,Kuwait,11,Khadija Khalil,PE Mendonca,Maria Jasvi,,0,0,0,,,,31957231957
+2,Kuwait,11,Khadija Khalil,PE Mendonca,Maria Jasvi,,0,0,0,,,,31957231957
+2,Kuwait,11,Khadija Khalil,PE Mendonca,Maria Jasvi,,0,0,0,,,,31957231957
+2,Kuwait,11,Khadija Khalil,PE Mendonca,Maria Jasvi,,0,0,0,,,,31957231957
+2,Kuwait,11,Khadija Khalil,PE Mendonca,Maria Jasvi,,0,0,0,caught,Khadija Khalil,Sameera Khan,31957231957
+2,Kuwait,12,Maria Jasvi,A Dcosta,Mariamma Hyder,,0,0,0,,,,31957231957
+2,Kuwait,12,Maria Jasvi,A Dcosta,Mariamma Hyder,,0,0,0,caught,Maria Jasvi,Sameera Khan,31957231957
+2,Kuwait,12,SL Gomez,A Dcosta,Mariamma Hyder,wides,1,1,0,,,,31957231957
+2,Kuwait,12,SL Gomez,A Dcosta,Mariamma Hyder,,0,2,2,,,,31957231957
+2,Kuwait,12,SL Gomez,A Dcosta,Mariamma Hyder,,0,4,4,,,,31957231957
+2,Kuwait,12,SL Gomez,A Dcosta,Mariamma Hyder,,0,0,0,,,,31957231957
+2,Kuwait,12,SL Gomez,A Dcosta,Mariamma Hyder,,0,0,0,,,,31957231957
+2,Kuwait,13,Mariamma Hyder,PE Mendonca,SL Gomez,,0,1,1,,,,31957231957
+2,Kuwait,13,SL Gomez,PE Mendonca,Mariamma Hyder,,0,4,4,,,,31957231957
+2,Kuwait,13,SL Gomez,PE Mendonca,Mariamma Hyder,,0,0,0,,,,31957231957
+2,Kuwait,13,SL Gomez,PE Mendonca,Mariamma Hyder,,0,1,1,,,,31957231957
+2,Kuwait,13,Mariamma Hyder,PE Mendonca,SL Gomez,,0,0,0,,,,31957231957
+2,Kuwait,13,Mariamma Hyder,PE Mendonca,SL Gomez,,0,1,1,,,,31957231957
+2,Kuwait,14,Mariamma Hyder,A Dcosta,SL Gomez,,0,0,0,bowled,Mariamma Hyder,,31957231957
+2,Kuwait,14,Rida Zainab,A Dcosta,SL Gomez,,0,0,0,,,,31957231957
+2,Kuwait,14,Rida Zainab,A Dcosta,SL Gomez,,0,2,2,,,,31957231957
+2,Kuwait,14,Rida Zainab,A Dcosta,SL Gomez,,0,0,0,,,,31957231957
+2,Kuwait,14,Rida Zainab,A Dcosta,SL Gomez,,0,1,1,,,,31957231957
+2,Kuwait,14,SL Gomez,A Dcosta,Rida Zainab,,0,0,0,,,,31957231957
+2,Kuwait,15,Rida Zainab,Sameera Khan,SL Gomez,,0,1,1,,,,31957231957
+2,Kuwait,15,SL Gomez,Sameera Khan,Rida Zainab,wides,1,1,0,,,,31957231957
+2,Kuwait,15,SL Gomez,Sameera Khan,Rida Zainab,,0,1,1,,,,31957231957
+2,Kuwait,15,Rida Zainab,Sameera Khan,SL Gomez,,0,1,1,,,,31957231957
+2,Kuwait,15,SL Gomez,Sameera Khan,Rida Zainab,,0,1,1,,,,31957231957
+2,Kuwait,15,Rida Zainab,Sameera Khan,SL Gomez,,0,1,1,,,,31957231957
+2,Kuwait,15,SL Gomez,Sameera Khan,Rida Zainab,,0,0,0,,,,31957231957
+2,Kuwait,16,Rida Zainab,A Dcosta,SL Gomez,,0,0,0,bowled,Rida Zainab,,31957231957
+2,Kuwait,16,Maryyam Ashraf,A Dcosta,SL Gomez,byes,4,4,0,,,,31957231957
+2,Kuwait,16,Maryyam Ashraf,A Dcosta,SL Gomez,,0,1,1,,,,31957231957
+2,Kuwait,16,SL Gomez,A Dcosta,Maryyam Ashraf,,0,0,0,caught,SL Gomez,N Jagadish,31957231957
+2,Kuwait,16,B Shanti,A Dcosta,Maryyam Ashraf,,0,0,0,,,,31957231957
+2,Kuwait,16,B Shanti,A Dcosta,Maryyam Ashraf,,0,0,0,bowled,B Shanti,,31957231957
+2,Kuwait,17,Maryyam Ashraf,Sameera Khan,A Bose,,0,0,0,bowled,Maryyam Ashraf,,31957231957

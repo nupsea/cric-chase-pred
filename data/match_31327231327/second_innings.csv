@@ -1,0 +1,91 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Scotland,0,HG Munsey,BD Glover,KJ Coetzer,,0,0,0,,,,31327231327
+2,Scotland,0,HG Munsey,BD Glover,KJ Coetzer,,0,0,0,,,,31327231327
+2,Scotland,0,HG Munsey,BD Glover,KJ Coetzer,legbyes,1,1,0,,,,31327231327
+2,Scotland,0,KJ Coetzer,BD Glover,HG Munsey,,0,0,0,,,,31327231327
+2,Scotland,0,KJ Coetzer,BD Glover,HG Munsey,,0,4,4,,,,31327231327
+2,Scotland,0,KJ Coetzer,BD Glover,HG Munsey,,0,1,1,,,,31327231327
+2,Scotland,1,KJ Coetzer,PA van Meekeren,HG Munsey,,0,0,0,caught,KJ Coetzer,BD Glover,31327231327
+2,Scotland,1,CS MacLeod,PA van Meekeren,HG Munsey,,0,1,1,,,,31327231327
+2,Scotland,1,HG Munsey,PA van Meekeren,CS MacLeod,,0,1,1,,,,31327231327
+2,Scotland,1,CS MacLeod,PA van Meekeren,HG Munsey,,0,0,0,,,,31327231327
+2,Scotland,1,CS MacLeod,PA van Meekeren,HG Munsey,,0,0,0,,,,31327231327
+2,Scotland,1,CS MacLeod,PA van Meekeren,HG Munsey,,0,1,1,,,,31327231327
+2,Scotland,2,CS MacLeod,BD Glover,HG Munsey,,0,0,0,,,,31327231327
+2,Scotland,2,CS MacLeod,BD Glover,HG Munsey,,0,0,0,,,,31327231327
+2,Scotland,2,CS MacLeod,BD Glover,HG Munsey,,0,0,0,,,,31327231327
+2,Scotland,2,CS MacLeod,BD Glover,HG Munsey,,0,4,4,,,,31327231327
+2,Scotland,2,CS MacLeod,BD Glover,HG Munsey,wides,1,1,0,,,,31327231327
+2,Scotland,2,CS MacLeod,BD Glover,HG Munsey,,0,0,0,,,,31327231327
+2,Scotland,2,CS MacLeod,BD Glover,HG Munsey,,0,4,4,,,,31327231327
+2,Scotland,3,HG Munsey,PA van Meekeren,CS MacLeod,,0,0,0,,,,31327231327
+2,Scotland,3,HG Munsey,PA van Meekeren,CS MacLeod,,0,2,2,,,,31327231327
+2,Scotland,3,HG Munsey,PA van Meekeren,CS MacLeod,,0,2,2,,,,31327231327
+2,Scotland,3,HG Munsey,PA van Meekeren,CS MacLeod,,0,4,4,,,,31327231327
+2,Scotland,3,HG Munsey,PA van Meekeren,CS MacLeod,,0,0,0,,,,31327231327
+2,Scotland,3,HG Munsey,PA van Meekeren,CS MacLeod,,0,0,0,,,,31327231327
+2,Scotland,4,CS MacLeod,FJ Klaassen,HG Munsey,,0,4,4,,,,31327231327
+2,Scotland,4,CS MacLeod,FJ Klaassen,HG Munsey,,0,0,0,,,,31327231327
+2,Scotland,4,CS MacLeod,FJ Klaassen,HG Munsey,,0,1,1,,,,31327231327
+2,Scotland,4,HG Munsey,FJ Klaassen,CS MacLeod,,0,1,1,,,,31327231327
+2,Scotland,4,CS MacLeod,FJ Klaassen,HG Munsey,,0,0,0,,,,31327231327
+2,Scotland,4,CS MacLeod,FJ Klaassen,HG Munsey,,0,1,1,,,,31327231327
+2,Scotland,5,CS MacLeod,PA van Meekeren,HG Munsey,,0,1,1,,,,31327231327
+2,Scotland,5,HG Munsey,PA van Meekeren,CS MacLeod,,0,0,0,,,,31327231327
+2,Scotland,5,HG Munsey,PA van Meekeren,CS MacLeod,,0,0,0,,,,31327231327
+2,Scotland,5,HG Munsey,PA van Meekeren,CS MacLeod,,0,6,6,,,,31327231327
+2,Scotland,5,HG Munsey,PA van Meekeren,CS MacLeod,noballs,5,5,0,,,,31327231327
+2,Scotland,5,HG Munsey,PA van Meekeren,CS MacLeod,wides,1,1,0,,,,31327231327
+2,Scotland,5,HG Munsey,PA van Meekeren,CS MacLeod,,0,1,1,,,,31327231327
+2,Scotland,5,CS MacLeod,PA van Meekeren,HG Munsey,,0,1,1,,,,31327231327
+2,Scotland,6,CS MacLeod,C Floyd,HG Munsey,,0,0,0,,,,31327231327
+2,Scotland,6,CS MacLeod,C Floyd,HG Munsey,,0,0,0,,,,31327231327
+2,Scotland,6,CS MacLeod,C Floyd,HG Munsey,,0,0,0,,,,31327231327
+2,Scotland,6,CS MacLeod,C Floyd,HG Munsey,,0,0,0,caught,CS MacLeod,SA Edwards,31327231327
+2,Scotland,6,RD Berrington,C Floyd,HG Munsey,,0,1,1,,,,31327231327
+2,Scotland,6,HG Munsey,C Floyd,RD Berrington,,0,0,0,,,,31327231327
+2,Scotland,7,RD Berrington,FJ Klaassen,HG Munsey,,0,0,0,,,,31327231327
+2,Scotland,7,RD Berrington,FJ Klaassen,HG Munsey,,0,1,1,,,,31327231327
+2,Scotland,7,HG Munsey,FJ Klaassen,RD Berrington,,0,1,1,,,,31327231327
+2,Scotland,7,RD Berrington,FJ Klaassen,HG Munsey,,0,1,1,,,,31327231327
+2,Scotland,7,HG Munsey,FJ Klaassen,RD Berrington,,0,6,6,,,,31327231327
+2,Scotland,7,HG Munsey,FJ Klaassen,RD Berrington,wides,1,1,0,,,,31327231327
+2,Scotland,7,HG Munsey,FJ Klaassen,RD Berrington,wides,1,1,0,,,,31327231327
+2,Scotland,7,HG Munsey,FJ Klaassen,RD Berrington,wides,1,1,0,,,,31327231327
+2,Scotland,7,HG Munsey,FJ Klaassen,RD Berrington,wides,1,1,0,,,,31327231327
+2,Scotland,7,HG Munsey,FJ Klaassen,RD Berrington,,0,1,1,,,,31327231327
+2,Scotland,8,HG Munsey,PM Seelaar,RD Berrington,,0,1,1,,,,31327231327
+2,Scotland,8,RD Berrington,PM Seelaar,HG Munsey,,0,1,1,,,,31327231327
+2,Scotland,8,HG Munsey,PM Seelaar,RD Berrington,,0,1,1,,,,31327231327
+2,Scotland,8,RD Berrington,PM Seelaar,HG Munsey,,0,1,1,,,,31327231327
+2,Scotland,8,HG Munsey,PM Seelaar,RD Berrington,,0,0,0,bowled,HG Munsey,,31327231327
+2,Scotland,8,OJ Hairs,PM Seelaar,RD Berrington,,0,0,0,,,,31327231327
+2,Scotland,9,RD Berrington,C Floyd,OJ Hairs,,0,0,0,,,,31327231327
+2,Scotland,9,RD Berrington,C Floyd,OJ Hairs,,0,4,4,,,,31327231327
+2,Scotland,9,RD Berrington,C Floyd,OJ Hairs,,0,1,1,,,,31327231327
+2,Scotland,9,OJ Hairs,C Floyd,RD Berrington,,0,1,1,,,,31327231327
+2,Scotland,9,RD Berrington,C Floyd,OJ Hairs,,0,1,1,,,,31327231327
+2,Scotland,9,OJ Hairs,C Floyd,RD Berrington,,0,6,6,,,,31327231327
+2,Scotland,10,RD Berrington,BD Glover,OJ Hairs,,0,2,2,,,,31327231327
+2,Scotland,10,RD Berrington,BD Glover,OJ Hairs,,0,1,1,,,,31327231327
+2,Scotland,10,OJ Hairs,BD Glover,RD Berrington,wides,1,1,0,,,,31327231327
+2,Scotland,10,OJ Hairs,BD Glover,RD Berrington,,0,1,1,,,,31327231327
+2,Scotland,10,RD Berrington,BD Glover,OJ Hairs,,0,0,0,,,,31327231327
+2,Scotland,10,RD Berrington,BD Glover,OJ Hairs,,0,1,1,,,,31327231327
+2,Scotland,10,OJ Hairs,BD Glover,RD Berrington,wides,2,2,0,,,,31327231327
+2,Scotland,10,RD Berrington,BD Glover,OJ Hairs,,0,4,4,,,,31327231327
+2,Scotland,11,OJ Hairs,PM Seelaar,RD Berrington,,0,6,6,,,,31327231327
+2,Scotland,11,OJ Hairs,PM Seelaar,RD Berrington,,0,4,4,,,,31327231327
+2,Scotland,11,OJ Hairs,PM Seelaar,RD Berrington,,0,0,0,,,,31327231327
+2,Scotland,11,OJ Hairs,PM Seelaar,RD Berrington,,0,2,2,,,,31327231327
+2,Scotland,11,OJ Hairs,PM Seelaar,RD Berrington,,0,1,1,,,,31327231327
+2,Scotland,11,RD Berrington,PM Seelaar,OJ Hairs,,0,1,1,,,,31327231327
+2,Scotland,12,RD Berrington,PA van Meekeren,OJ Hairs,,0,1,1,,,,31327231327
+2,Scotland,12,OJ Hairs,PA van Meekeren,RD Berrington,,0,0,0,,,,31327231327
+2,Scotland,12,OJ Hairs,PA van Meekeren,RD Berrington,,0,4,4,,,,31327231327
+2,Scotland,12,OJ Hairs,PA van Meekeren,RD Berrington,,0,0,0,,,,31327231327
+2,Scotland,12,OJ Hairs,PA van Meekeren,RD Berrington,wides,5,5,0,,,,31327231327
+2,Scotland,12,OJ Hairs,PA van Meekeren,RD Berrington,legbyes,4,4,0,,,,31327231327
+2,Scotland,12,OJ Hairs,PA van Meekeren,RD Berrington,,0,0,0,caught,OJ Hairs,FJ Klaassen,31327231327
+2,Scotland,13,RD Berrington,FJ Klaassen,MA Leask,,0,2,2,,,,31327231327
+2,Scotland,13,RD Berrington,FJ Klaassen,MA Leask,,0,4,4,,,,31327231327

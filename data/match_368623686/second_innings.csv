@@ -1,0 +1,92 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,New Zealand,0,GD Phillips,CH Morris,KS Williamson,,0,0,0,,,,368623686
+2,New Zealand,0,GD Phillips,CH Morris,KS Williamson,,0,0,0,,,,368623686
+2,New Zealand,0,GD Phillips,CH Morris,KS Williamson,,0,0,0,,,,368623686
+2,New Zealand,0,GD Phillips,CH Morris,KS Williamson,,0,0,0,,,,368623686
+2,New Zealand,0,GD Phillips,CH Morris,KS Williamson,,0,1,1,,,,368623686
+2,New Zealand,0,KS Williamson,CH Morris,GD Phillips,,0,4,4,,,,368623686
+2,New Zealand,1,GD Phillips,D Paterson,KS Williamson,,0,0,0,,,,368623686
+2,New Zealand,1,GD Phillips,D Paterson,KS Williamson,,0,0,0,,,,368623686
+2,New Zealand,1,GD Phillips,D Paterson,KS Williamson,,0,1,1,,,,368623686
+2,New Zealand,1,KS Williamson,D Paterson,GD Phillips,,0,1,1,,,,368623686
+2,New Zealand,1,GD Phillips,D Paterson,KS Williamson,,0,2,2,,,,368623686
+2,New Zealand,1,GD Phillips,D Paterson,KS Williamson,,0,1,1,,,,368623686
+2,New Zealand,2,GD Phillips,CH Morris,KS Williamson,,0,0,0,caught,GD Phillips,Q de Kock,368623686
+2,New Zealand,2,C Munro,CH Morris,KS Williamson,,0,0,0,bowled,C Munro,,368623686
+2,New Zealand,2,TC Bruce,CH Morris,KS Williamson,,0,0,0,,,,368623686
+2,New Zealand,2,TC Bruce,CH Morris,KS Williamson,,0,0,0,,,,368623686
+2,New Zealand,2,TC Bruce,CH Morris,KS Williamson,,0,0,0,,,,368623686
+2,New Zealand,2,TC Bruce,CH Morris,KS Williamson,,0,0,0,,,,368623686
+2,New Zealand,3,KS Williamson,D Paterson,TC Bruce,,0,0,0,,,,368623686
+2,New Zealand,3,KS Williamson,D Paterson,TC Bruce,,0,1,1,,,,368623686
+2,New Zealand,3,TC Bruce,D Paterson,KS Williamson,,0,1,1,,,,368623686
+2,New Zealand,3,KS Williamson,D Paterson,TC Bruce,,0,0,0,,,,368623686
+2,New Zealand,3,KS Williamson,D Paterson,TC Bruce,legbyes,1,1,0,,,,368623686
+2,New Zealand,3,TC Bruce,D Paterson,KS Williamson,,0,6,6,,,,368623686
+2,New Zealand,4,KS Williamson,CH Morris,TC Bruce,,0,0,0,,,,368623686
+2,New Zealand,4,KS Williamson,CH Morris,TC Bruce,,0,1,1,,,,368623686
+2,New Zealand,4,TC Bruce,CH Morris,KS Williamson,,0,0,0,,,,368623686
+2,New Zealand,4,TC Bruce,CH Morris,KS Williamson,,0,0,0,,,,368623686
+2,New Zealand,4,TC Bruce,CH Morris,KS Williamson,,0,0,0,,,,368623686
+2,New Zealand,4,TC Bruce,CH Morris,KS Williamson,,0,4,4,,,,368623686
+2,New Zealand,5,KS Williamson,WD Parnell,TC Bruce,,0,1,1,,,,368623686
+2,New Zealand,5,TC Bruce,WD Parnell,KS Williamson,,0,1,1,,,,368623686
+2,New Zealand,5,KS Williamson,WD Parnell,TC Bruce,wides,1,1,0,,,,368623686
+2,New Zealand,5,KS Williamson,WD Parnell,TC Bruce,,0,1,1,,,,368623686
+2,New Zealand,5,TC Bruce,WD Parnell,KS Williamson,,0,0,0,,,,368623686
+2,New Zealand,5,TC Bruce,WD Parnell,KS Williamson,,0,4,4,,,,368623686
+2,New Zealand,5,TC Bruce,WD Parnell,KS Williamson,,0,2,2,,,,368623686
+2,New Zealand,6,KS Williamson,AL Phehlukwayo,TC Bruce,,0,4,4,,,,368623686
+2,New Zealand,6,KS Williamson,AL Phehlukwayo,TC Bruce,,0,0,0,,,,368623686
+2,New Zealand,6,KS Williamson,AL Phehlukwayo,TC Bruce,,0,0,0,caught,KS Williamson,WD Parnell,368623686
+2,New Zealand,6,CJ Anderson,AL Phehlukwayo,TC Bruce,,0,1,1,,,,368623686
+2,New Zealand,6,TC Bruce,AL Phehlukwayo,CJ Anderson,,0,1,1,,,,368623686
+2,New Zealand,6,CJ Anderson,AL Phehlukwayo,TC Bruce,,0,0,0,,,,368623686
+2,New Zealand,7,TC Bruce,WD Parnell,CJ Anderson,,0,1,1,,,,368623686
+2,New Zealand,7,CJ Anderson,WD Parnell,TC Bruce,,0,0,0,,,,368623686
+2,New Zealand,7,CJ Anderson,WD Parnell,TC Bruce,,0,2,2,,,,368623686
+2,New Zealand,7,CJ Anderson,WD Parnell,TC Bruce,,0,1,1,,,,368623686
+2,New Zealand,7,TC Bruce,WD Parnell,CJ Anderson,,0,6,6,,,,368623686
+2,New Zealand,7,TC Bruce,WD Parnell,CJ Anderson,,0,0,0,,,,368623686
+2,New Zealand,8,CJ Anderson,Imran Tahir,TC Bruce,,0,1,1,,,,368623686
+2,New Zealand,8,TC Bruce,Imran Tahir,CJ Anderson,,0,1,1,,,,368623686
+2,New Zealand,8,CJ Anderson,Imran Tahir,TC Bruce,,0,0,0,,,,368623686
+2,New Zealand,8,CJ Anderson,Imran Tahir,TC Bruce,,0,0,0,,,,368623686
+2,New Zealand,8,CJ Anderson,Imran Tahir,TC Bruce,,0,1,1,,,,368623686
+2,New Zealand,8,TC Bruce,Imran Tahir,CJ Anderson,,0,1,1,,,,368623686
+2,New Zealand,9,TC Bruce,AL Phehlukwayo,CJ Anderson,,0,0,0,,,,368623686
+2,New Zealand,9,TC Bruce,AL Phehlukwayo,CJ Anderson,,0,1,1,,,,368623686
+2,New Zealand,9,CJ Anderson,AL Phehlukwayo,TC Bruce,,0,0,0,caught,CJ Anderson,Q de Kock,368623686
+2,New Zealand,9,TC Bruce,AL Phehlukwayo,C de Grandhomme,,0,0,0,,,,368623686
+2,New Zealand,9,TC Bruce,AL Phehlukwayo,C de Grandhomme,,0,4,4,,,,368623686
+2,New Zealand,9,TC Bruce,AL Phehlukwayo,C de Grandhomme,,0,0,0,,,,368623686
+2,New Zealand,10,C de Grandhomme,Imran Tahir,TC Bruce,,0,1,1,,,,368623686
+2,New Zealand,10,TC Bruce,Imran Tahir,C de Grandhomme,,0,0,0,,,,368623686
+2,New Zealand,10,TC Bruce,Imran Tahir,C de Grandhomme,,0,0,0,bowled,TC Bruce,,368623686
+2,New Zealand,10,L Ronchi,Imran Tahir,C de Grandhomme,,0,0,0,caught,L Ronchi,Q de Kock,368623686
+2,New Zealand,10,MJ Santner,Imran Tahir,C de Grandhomme,,0,0,0,,,,368623686
+2,New Zealand,10,MJ Santner,Imran Tahir,C de Grandhomme,,0,0,0,,,,368623686
+2,New Zealand,11,C de Grandhomme,AL Phehlukwayo,MJ Santner,,0,1,1,,,,368623686
+2,New Zealand,11,MJ Santner,AL Phehlukwayo,C de Grandhomme,,0,0,0,,,,368623686
+2,New Zealand,11,MJ Santner,AL Phehlukwayo,C de Grandhomme,,0,4,4,,,,368623686
+2,New Zealand,11,MJ Santner,AL Phehlukwayo,C de Grandhomme,,0,1,1,,,,368623686
+2,New Zealand,11,C de Grandhomme,AL Phehlukwayo,MJ Santner,wides,1,1,0,,,,368623686
+2,New Zealand,11,C de Grandhomme,AL Phehlukwayo,MJ Santner,,0,1,1,,,,368623686
+2,New Zealand,11,MJ Santner,AL Phehlukwayo,C de Grandhomme,,0,0,0,caught,MJ Santner,HM Amla,368623686
+2,New Zealand,12,C de Grandhomme,Imran Tahir,BM Wheeler,,0,0,0,,,,368623686
+2,New Zealand,12,C de Grandhomme,Imran Tahir,BM Wheeler,,0,6,6,,,,368623686
+2,New Zealand,12,C de Grandhomme,Imran Tahir,BM Wheeler,,0,6,6,,,,368623686
+2,New Zealand,12,C de Grandhomme,Imran Tahir,BM Wheeler,,0,0,0,caught,C de Grandhomme,JP Duminy,368623686
+2,New Zealand,12,BM Wheeler,Imran Tahir,TG Southee,,0,1,1,,,,368623686
+2,New Zealand,12,TG Southee,Imran Tahir,BM Wheeler,,0,1,1,,,,368623686
+2,New Zealand,13,TG Southee,WD Parnell,BM Wheeler,,0,6,6,,,,368623686
+2,New Zealand,13,TG Southee,WD Parnell,BM Wheeler,,0,6,6,,,,368623686
+2,New Zealand,13,TG Southee,WD Parnell,BM Wheeler,,0,1,1,,,,368623686
+2,New Zealand,13,BM Wheeler,WD Parnell,TG Southee,,0,0,0,,,,368623686
+2,New Zealand,13,BM Wheeler,WD Parnell,TG Southee,,0,1,1,,,,368623686
+2,New Zealand,13,TG Southee,WD Parnell,BM Wheeler,,0,6,6,,,,368623686
+2,New Zealand,14,BM Wheeler,Imran Tahir,TG Southee,,0,4,4,,,,368623686
+2,New Zealand,14,BM Wheeler,Imran Tahir,TG Southee,,0,0,0,,,,368623686
+2,New Zealand,14,BM Wheeler,Imran Tahir,TG Southee,,0,0,0,bowled,BM Wheeler,,368623686
+2,New Zealand,14,TA Boult,Imran Tahir,TG Southee,,0,1,1,,,,368623686
+2,New Zealand,14,TG Southee,Imran Tahir,TA Boult,,0,0,0,bowled,TG Southee,,368623686

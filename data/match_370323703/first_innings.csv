@@ -1,0 +1,127 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,West Indies,0,J Charles,Imad Wasim,E Lewis,,0,1,1,,,,370323703
+1,West Indies,0,E Lewis,Imad Wasim,J Charles,,0,1,1,,,,370323703
+1,West Indies,0,J Charles,Imad Wasim,E Lewis,,0,1,1,,,,370323703
+1,West Indies,0,E Lewis,Imad Wasim,J Charles,,0,0,0,,,,370323703
+1,West Indies,0,E Lewis,Imad Wasim,J Charles,,0,0,0,caught,E Lewis,Mohammad Nawaz (3),370323703
+1,West Indies,0,J Charles,Imad Wasim,ADS Fletcher,,0,0,0,,,,370323703
+1,West Indies,1,ADS Fletcher,Sohail Tanvir,J Charles,,0,1,1,,,,370323703
+1,West Indies,1,J Charles,Sohail Tanvir,ADS Fletcher,,0,1,1,,,,370323703
+1,West Indies,1,ADS Fletcher,Sohail Tanvir,J Charles,,0,0,0,,,,370323703
+1,West Indies,1,ADS Fletcher,Sohail Tanvir,J Charles,,0,0,0,,,,370323703
+1,West Indies,1,ADS Fletcher,Sohail Tanvir,J Charles,wides,1,1,0,,,,370323703
+1,West Indies,1,ADS Fletcher,Sohail Tanvir,J Charles,,0,1,1,,,,370323703
+1,West Indies,1,J Charles,Sohail Tanvir,ADS Fletcher,,0,4,4,,,,370323703
+1,West Indies,2,ADS Fletcher,Imad Wasim,J Charles,,0,0,0,,,,370323703
+1,West Indies,2,ADS Fletcher,Imad Wasim,J Charles,,0,0,0,bowled,ADS Fletcher,,370323703
+1,West Indies,2,MN Samuels,Imad Wasim,J Charles,,0,4,4,,,,370323703
+1,West Indies,2,MN Samuels,Imad Wasim,J Charles,,0,0,0,lbw,MN Samuels,,370323703
+1,West Indies,2,DJ Bravo,Imad Wasim,J Charles,,0,0,0,,,,370323703
+1,West Indies,2,DJ Bravo,Imad Wasim,J Charles,,0,1,1,,,,370323703
+1,West Indies,3,DJ Bravo,Mohammad Nawaz (3),J Charles,,0,0,0,,,,370323703
+1,West Indies,3,DJ Bravo,Mohammad Nawaz (3),J Charles,,0,1,1,,,,370323703
+1,West Indies,3,J Charles,Mohammad Nawaz (3),DJ Bravo,,0,0,0,,,,370323703
+1,West Indies,3,J Charles,Mohammad Nawaz (3),DJ Bravo,,0,0,0,bowled,J Charles,,370323703
+1,West Indies,3,N Pooran,Mohammad Nawaz (3),DJ Bravo,,0,1,1,,,,370323703
+1,West Indies,3,DJ Bravo,Mohammad Nawaz (3),N Pooran,,0,0,0,,,,370323703
+1,West Indies,4,N Pooran,Hasan Ali,DJ Bravo,,0,0,0,,,,370323703
+1,West Indies,4,N Pooran,Hasan Ali,DJ Bravo,,0,4,4,,,,370323703
+1,West Indies,4,N Pooran,Hasan Ali,DJ Bravo,,0,0,0,caught,N Pooran,Sarfraz Ahmed,370323703
+1,West Indies,4,KA Pollard,Hasan Ali,DJ Bravo,,0,0,0,,,,370323703
+1,West Indies,4,KA Pollard,Hasan Ali,DJ Bravo,,0,0,0,,,,370323703
+1,West Indies,4,KA Pollard,Hasan Ali,DJ Bravo,,0,0,0,,,,370323703
+1,West Indies,5,DJ Bravo,Mohammad Nawaz (3),KA Pollard,,0,0,0,,,,370323703
+1,West Indies,5,DJ Bravo,Mohammad Nawaz (3),KA Pollard,,0,0,0,,,,370323703
+1,West Indies,5,DJ Bravo,Mohammad Nawaz (3),KA Pollard,,0,1,1,,,,370323703
+1,West Indies,5,KA Pollard,Mohammad Nawaz (3),DJ Bravo,,0,1,1,,,,370323703
+1,West Indies,5,DJ Bravo,Mohammad Nawaz (3),KA Pollard,,0,0,0,,,,370323703
+1,West Indies,5,DJ Bravo,Mohammad Nawaz (3),KA Pollard,,0,1,1,,,,370323703
+1,West Indies,6,DJ Bravo,Shoaib Malik,KA Pollard,,0,0,0,,,,370323703
+1,West Indies,6,DJ Bravo,Shoaib Malik,KA Pollard,wides,1,1,0,,,,370323703
+1,West Indies,6,DJ Bravo,Shoaib Malik,KA Pollard,,0,0,0,,,,370323703
+1,West Indies,6,DJ Bravo,Shoaib Malik,KA Pollard,,0,1,1,,,,370323703
+1,West Indies,6,KA Pollard,Shoaib Malik,DJ Bravo,,0,1,1,,,,370323703
+1,West Indies,6,DJ Bravo,Shoaib Malik,KA Pollard,,0,1,1,,,,370323703
+1,West Indies,6,KA Pollard,Shoaib Malik,DJ Bravo,,0,1,1,,,,370323703
+1,West Indies,7,KA Pollard,Hasan Ali,DJ Bravo,,0,1,1,,,,370323703
+1,West Indies,7,DJ Bravo,Hasan Ali,KA Pollard,,0,4,4,,,,370323703
+1,West Indies,7,DJ Bravo,Hasan Ali,KA Pollard,,0,1,1,,,,370323703
+1,West Indies,7,KA Pollard,Hasan Ali,DJ Bravo,,0,1,1,,,,370323703
+1,West Indies,7,DJ Bravo,Hasan Ali,KA Pollard,,0,1,1,,,,370323703
+1,West Indies,7,KA Pollard,Hasan Ali,DJ Bravo,,0,1,1,,,,370323703
+1,West Indies,8,KA Pollard,Imad Wasim,DJ Bravo,,0,0,0,,,,370323703
+1,West Indies,8,KA Pollard,Imad Wasim,DJ Bravo,,0,0,0,,,,370323703
+1,West Indies,8,KA Pollard,Imad Wasim,DJ Bravo,,0,1,1,,,,370323703
+1,West Indies,8,DJ Bravo,Imad Wasim,KA Pollard,,0,1,1,,,,370323703
+1,West Indies,8,KA Pollard,Imad Wasim,DJ Bravo,,0,1,1,,,,370323703
+1,West Indies,8,DJ Bravo,Imad Wasim,KA Pollard,,0,1,1,,,,370323703
+1,West Indies,9,DJ Bravo,Mohammad Nawaz (3),KA Pollard,,0,0,0,,,,370323703
+1,West Indies,9,DJ Bravo,Mohammad Nawaz (3),KA Pollard,,0,1,1,,,,370323703
+1,West Indies,9,KA Pollard,Mohammad Nawaz (3),DJ Bravo,,0,0,0,,,,370323703
+1,West Indies,9,KA Pollard,Mohammad Nawaz (3),DJ Bravo,,0,1,1,,,,370323703
+1,West Indies,9,DJ Bravo,Mohammad Nawaz (3),KA Pollard,,0,1,1,,,,370323703
+1,West Indies,9,KA Pollard,Mohammad Nawaz (3),DJ Bravo,,0,0,0,,,,370323703
+1,West Indies,10,DJ Bravo,Imad Wasim,KA Pollard,,0,0,0,,,,370323703
+1,West Indies,10,DJ Bravo,Imad Wasim,KA Pollard,,0,1,1,,,,370323703
+1,West Indies,10,KA Pollard,Imad Wasim,DJ Bravo,,0,0,0,bowled,KA Pollard,,370323703
+1,West Indies,10,CR Brathwaite,Imad Wasim,DJ Bravo,,0,0,0,,,,370323703
+1,West Indies,10,CR Brathwaite,Imad Wasim,DJ Bravo,,0,0,0,caught,CR Brathwaite,Khalid Latif,370323703
+1,West Indies,10,SP Narine,Imad Wasim,DJ Bravo,,0,1,1,,,,370323703
+1,West Indies,11,SP Narine,Wahab Riaz,DJ Bravo,,0,0,0,,,,370323703
+1,West Indies,11,SP Narine,Wahab Riaz,DJ Bravo,,0,0,0,,,,370323703
+1,West Indies,11,SP Narine,Wahab Riaz,DJ Bravo,,0,0,0,run out,SP Narine,Khalid Latif,370323703
+1,West Indies,11,DJ Bravo,Wahab Riaz,JE Taylor,,0,0,0,,,,370323703
+1,West Indies,11,DJ Bravo,Wahab Riaz,JE Taylor,,0,0,0,,,,370323703
+1,West Indies,11,DJ Bravo,Wahab Riaz,JE Taylor,,0,0,0,,,,370323703
+1,West Indies,12,JE Taylor,Mohammad Nawaz (3),DJ Bravo,,0,1,1,,,,370323703
+1,West Indies,12,DJ Bravo,Mohammad Nawaz (3),JE Taylor,,0,0,0,,,,370323703
+1,West Indies,12,DJ Bravo,Mohammad Nawaz (3),JE Taylor,,0,1,1,,,,370323703
+1,West Indies,12,JE Taylor,Mohammad Nawaz (3),DJ Bravo,,0,0,0,,,,370323703
+1,West Indies,12,JE Taylor,Mohammad Nawaz (3),DJ Bravo,,0,6,6,,,,370323703
+1,West Indies,12,JE Taylor,Mohammad Nawaz (3),DJ Bravo,,0,0,0,,,,370323703
+1,West Indies,13,DJ Bravo,Wahab Riaz,JE Taylor,,0,0,0,,,,370323703
+1,West Indies,13,DJ Bravo,Wahab Riaz,JE Taylor,,0,0,0,,,,370323703
+1,West Indies,13,DJ Bravo,Wahab Riaz,JE Taylor,legbyes,1,1,0,,,,370323703
+1,West Indies,13,JE Taylor,Wahab Riaz,DJ Bravo,,0,0,0,,,,370323703
+1,West Indies,13,JE Taylor,Wahab Riaz,DJ Bravo,wides,1,1,0,,,,370323703
+1,West Indies,13,JE Taylor,Wahab Riaz,DJ Bravo,,0,0,0,,,,370323703
+1,West Indies,13,JE Taylor,Wahab Riaz,DJ Bravo,,0,0,0,,,,370323703
+1,West Indies,14,DJ Bravo,Sohail Tanvir,JE Taylor,,0,6,6,,,,370323703
+1,West Indies,14,DJ Bravo,Sohail Tanvir,JE Taylor,,0,1,1,,,,370323703
+1,West Indies,14,JE Taylor,Sohail Tanvir,DJ Bravo,legbyes,1,1,0,,,,370323703
+1,West Indies,14,DJ Bravo,Sohail Tanvir,JE Taylor,,0,4,4,,,,370323703
+1,West Indies,14,DJ Bravo,Sohail Tanvir,JE Taylor,,0,0,0,,,,370323703
+1,West Indies,14,DJ Bravo,Sohail Tanvir,JE Taylor,,0,1,1,,,,370323703
+1,West Indies,15,DJ Bravo,Hasan Ali,JE Taylor,,0,2,2,,,,370323703
+1,West Indies,15,DJ Bravo,Hasan Ali,JE Taylor,wides,1,1,0,,,,370323703
+1,West Indies,15,DJ Bravo,Hasan Ali,JE Taylor,,0,4,4,,,,370323703
+1,West Indies,15,DJ Bravo,Hasan Ali,JE Taylor,,0,1,1,,,,370323703
+1,West Indies,15,JE Taylor,Hasan Ali,DJ Bravo,,0,1,1,,,,370323703
+1,West Indies,15,DJ Bravo,Hasan Ali,JE Taylor,,0,4,4,,,,370323703
+1,West Indies,15,DJ Bravo,Hasan Ali,JE Taylor,noballs,1,2,1,,,,370323703
+1,West Indies,15,JE Taylor,Hasan Ali,DJ Bravo,,0,4,4,,,,370323703
+1,West Indies,16,DJ Bravo,Wahab Riaz,JE Taylor,noballs,1,2,1,,,,370323703
+1,West Indies,16,JE Taylor,Wahab Riaz,DJ Bravo,,0,4,4,,,,370323703
+1,West Indies,16,JE Taylor,Wahab Riaz,DJ Bravo,,0,0,0,,,,370323703
+1,West Indies,16,JE Taylor,Wahab Riaz,DJ Bravo,,0,0,0,,,,370323703
+1,West Indies,16,JE Taylor,Wahab Riaz,DJ Bravo,,0,0,0,,,,370323703
+1,West Indies,16,JE Taylor,Wahab Riaz,DJ Bravo,,0,2,2,,,,370323703
+1,West Indies,16,JE Taylor,Wahab Riaz,DJ Bravo,,0,0,0,,,,370323703
+1,West Indies,17,DJ Bravo,Sohail Tanvir,JE Taylor,,0,1,1,,,,370323703
+1,West Indies,17,JE Taylor,Sohail Tanvir,DJ Bravo,,0,0,0,,,,370323703
+1,West Indies,17,JE Taylor,Sohail Tanvir,DJ Bravo,,0,0,0,,,,370323703
+1,West Indies,17,JE Taylor,Sohail Tanvir,DJ Bravo,,0,1,1,,,,370323703
+1,West Indies,17,DJ Bravo,Sohail Tanvir,JE Taylor,,0,0,0,,,,370323703
+1,West Indies,17,DJ Bravo,Sohail Tanvir,JE Taylor,,0,1,1,,,,370323703
+1,West Indies,18,DJ Bravo,Wahab Riaz,JE Taylor,,0,2,2,,,,370323703
+1,West Indies,18,DJ Bravo,Wahab Riaz,JE Taylor,,0,0,0,,,,370323703
+1,West Indies,18,DJ Bravo,Wahab Riaz,JE Taylor,,0,0,0,,,,370323703
+1,West Indies,18,DJ Bravo,Wahab Riaz,JE Taylor,,0,6,6,,,,370323703
+1,West Indies,18,DJ Bravo,Wahab Riaz,JE Taylor,,0,1,1,,,,370323703
+1,West Indies,18,JE Taylor,Wahab Riaz,DJ Bravo,,0,2,2,,,,370323703
+1,West Indies,19,DJ Bravo,Sohail Tanvir,JE Taylor,wides,1,1,0,,,,370323703
+1,West Indies,19,DJ Bravo,Sohail Tanvir,JE Taylor,,0,1,1,,,,370323703
+1,West Indies,19,JE Taylor,Sohail Tanvir,DJ Bravo,,0,0,0,bowled,JE Taylor,,370323703
+1,West Indies,19,S Badree,Sohail Tanvir,DJ Bravo,,0,1,1,,,,370323703
+1,West Indies,19,DJ Bravo,Sohail Tanvir,S Badree,,0,0,0,,,,370323703
+1,West Indies,19,DJ Bravo,Sohail Tanvir,S Badree,,0,0,0,caught,DJ Bravo,Umar Akmal,370323703

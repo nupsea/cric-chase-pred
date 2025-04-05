@@ -1,0 +1,72 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Hong Kong,0,KY Chan,WA Duraisingam,M Hill,wides,1,1,0,,,,32104232104
+2,Hong Kong,0,KY Chan,WA Duraisingam,M Hill,,0,2,2,,,,32104232104
+2,Hong Kong,0,KY Chan,WA Duraisingam,M Hill,,0,4,4,,,,32104232104
+2,Hong Kong,0,KY Chan,WA Duraisingam,M Hill,,0,0,0,,,,32104232104
+2,Hong Kong,0,KY Chan,WA Duraisingam,M Hill,wides,5,5,0,,,,32104232104
+2,Hong Kong,0,KY Chan,WA Duraisingam,M Hill,wides,1,1,0,,,,32104232104
+2,Hong Kong,0,KY Chan,WA Duraisingam,M Hill,,0,1,1,,,,32104232104
+2,Hong Kong,0,M Hill,WA Duraisingam,KY Chan,,0,0,0,,,,32104232104
+2,Hong Kong,0,M Hill,WA Duraisingam,KY Chan,,0,1,1,,,,32104232104
+2,Hong Kong,1,M Hill,Nur Dania Syuhada,KY Chan,,0,2,2,,,,32104232104
+2,Hong Kong,1,M Hill,Nur Dania Syuhada,KY Chan,wides,1,1,0,,,,32104232104
+2,Hong Kong,1,M Hill,Nur Dania Syuhada,KY Chan,,0,4,4,,,,32104232104
+2,Hong Kong,1,M Hill,Nur Dania Syuhada,KY Chan,,0,1,1,,,,32104232104
+2,Hong Kong,1,KY Chan,Nur Dania Syuhada,M Hill,,0,2,2,,,,32104232104
+2,Hong Kong,1,KY Chan,Nur Dania Syuhada,M Hill,,0,1,1,,,,32104232104
+2,Hong Kong,1,M Hill,Nur Dania Syuhada,KY Chan,,0,2,2,,,,32104232104
+2,Hong Kong,2,KY Chan,Sasha Azmi,M Hill,,0,1,1,,,,32104232104
+2,Hong Kong,2,M Hill,Sasha Azmi,KY Chan,,0,0,0,,,,32104232104
+2,Hong Kong,2,M Hill,Sasha Azmi,KY Chan,,0,1,1,,,,32104232104
+2,Hong Kong,2,KY Chan,Sasha Azmi,M Hill,,0,4,4,,,,32104232104
+2,Hong Kong,2,KY Chan,Sasha Azmi,M Hill,,0,4,4,,,,32104232104
+2,Hong Kong,2,KY Chan,Sasha Azmi,M Hill,,0,0,0,bowled,KY Chan,,32104232104
+2,Hong Kong,3,M Hill,Nur Dania Syuhada,NT Miles,,0,1,1,,,,32104232104
+2,Hong Kong,3,NT Miles,Nur Dania Syuhada,M Hill,,0,0,0,,,,32104232104
+2,Hong Kong,3,NT Miles,Nur Dania Syuhada,M Hill,,0,2,2,,,,32104232104
+2,Hong Kong,3,NT Miles,Nur Dania Syuhada,M Hill,,0,0,0,,,,32104232104
+2,Hong Kong,3,NT Miles,Nur Dania Syuhada,M Hill,,0,0,0,run out,M Hill,WA Duraisingam,32104232104
+2,Hong Kong,3,Shanzeen Shahzad,Nur Dania Syuhada,NT Miles,,0,1,1,,,,32104232104
+2,Hong Kong,4,Shanzeen Shahzad,Sasha Azmi,NT Miles,,0,1,1,,,,32104232104
+2,Hong Kong,4,NT Miles,Sasha Azmi,Shanzeen Shahzad,,0,1,1,,,,32104232104
+2,Hong Kong,4,Shanzeen Shahzad,Sasha Azmi,NT Miles,,0,0,0,,,,32104232104
+2,Hong Kong,4,Shanzeen Shahzad,Sasha Azmi,NT Miles,,0,0,0,,,,32104232104
+2,Hong Kong,4,Shanzeen Shahzad,Sasha Azmi,NT Miles,,0,2,2,,,,32104232104
+2,Hong Kong,4,Shanzeen Shahzad,Sasha Azmi,NT Miles,,0,1,1,,,,32104232104
+2,Hong Kong,5,Shanzeen Shahzad,Nik Nur Atiela,NT Miles,,0,0,0,,,,32104232104
+2,Hong Kong,5,Shanzeen Shahzad,Nik Nur Atiela,NT Miles,,0,1,1,,,,32104232104
+2,Hong Kong,5,NT Miles,Nik Nur Atiela,Shanzeen Shahzad,,0,3,3,,,,32104232104
+2,Hong Kong,5,Shanzeen Shahzad,Nik Nur Atiela,NT Miles,,0,0,0,caught,Shanzeen Shahzad,Mas Elysa,32104232104
+2,Hong Kong,5,NT Miles,Nik Nur Atiela,Bella Poon,,0,1,1,,,,32104232104
+2,Hong Kong,5,Bella Poon,Nik Nur Atiela,NT Miles,,0,0,0,,,,32104232104
+2,Hong Kong,6,NT Miles,Sasha Azmi,Bella Poon,,0,0,0,,,,32104232104
+2,Hong Kong,6,NT Miles,Sasha Azmi,Bella Poon,,0,1,1,,,,32104232104
+2,Hong Kong,6,Bella Poon,Sasha Azmi,NT Miles,,0,0,0,,,,32104232104
+2,Hong Kong,6,Bella Poon,Sasha Azmi,NT Miles,,0,0,0,,,,32104232104
+2,Hong Kong,6,Bella Poon,Sasha Azmi,NT Miles,,0,0,0,,,,32104232104
+2,Hong Kong,6,Bella Poon,Sasha Azmi,NT Miles,,0,0,0,bowled,Bella Poon,,32104232104
+2,Hong Kong,7,NT Miles,Nik Nur Atiela,Y Daswani,,0,0,0,stumped,NT Miles,Wan Julia,32104232104
+2,Hong Kong,7,M Bibi,Nik Nur Atiela,Y Daswani,,0,1,1,,,,32104232104
+2,Hong Kong,7,Y Daswani,Nik Nur Atiela,M Bibi,,0,1,1,,,,32104232104
+2,Hong Kong,7,M Bibi,Nik Nur Atiela,Y Daswani,,0,1,1,,,,32104232104
+2,Hong Kong,7,Y Daswani,Nik Nur Atiela,M Bibi,,0,0,0,,,,32104232104
+2,Hong Kong,7,Y Daswani,Nik Nur Atiela,M Bibi,,0,1,1,,,,32104232104
+2,Hong Kong,8,Y Daswani,Mas Elysa,M Bibi,,0,0,0,run out,M Bibi,WA Duraisingam,32104232104
+2,Hong Kong,8,Y Daswani,Mas Elysa,EK Hubbard,,0,1,1,,,,32104232104
+2,Hong Kong,8,EK Hubbard,Mas Elysa,Y Daswani,,0,0,0,,,,32104232104
+2,Hong Kong,8,EK Hubbard,Mas Elysa,Y Daswani,,0,2,2,,,,32104232104
+2,Hong Kong,8,EK Hubbard,Mas Elysa,Y Daswani,,0,1,1,,,,32104232104
+2,Hong Kong,8,Y Daswani,Mas Elysa,EK Hubbard,,0,1,1,,,,32104232104
+2,Hong Kong,9,Y Daswani,WA Duraisingam,EK Hubbard,,0,1,1,,,,32104232104
+2,Hong Kong,9,EK Hubbard,WA Duraisingam,Y Daswani,,0,2,2,,,,32104232104
+2,Hong Kong,9,EK Hubbard,WA Duraisingam,Y Daswani,,0,1,1,,,,32104232104
+2,Hong Kong,9,Y Daswani,WA Duraisingam,EK Hubbard,,0,1,1,,,,32104232104
+2,Hong Kong,9,EK Hubbard,WA Duraisingam,Y Daswani,,0,0,0,bowled,EK Hubbard,,32104232104
+2,Hong Kong,9,Hiu Ying Cheung,WA Duraisingam,Y Daswani,,0,0,0,,,,32104232104
+2,Hong Kong,10,Y Daswani,Mas Elysa,Hiu Ying Cheung,,0,2,2,,,,32104232104
+2,Hong Kong,10,Y Daswani,Mas Elysa,Hiu Ying Cheung,,0,1,1,,,,32104232104
+2,Hong Kong,10,Hiu Ying Cheung,Mas Elysa,Y Daswani,wides,1,1,0,,,,32104232104
+2,Hong Kong,10,Hiu Ying Cheung,Mas Elysa,Y Daswani,,0,0,0,,,,32104232104
+2,Hong Kong,10,Hiu Ying Cheung,Mas Elysa,Y Daswani,,0,1,1,,,,32104232104
+2,Hong Kong,10,Y Daswani,Mas Elysa,Hiu Ying Cheung,,0,1,1,run out,Y Daswani,J Intan,32104232104
+2,Hong Kong,10,Hiu Ying Cheung,Mas Elysa,Chan Ka Man,,0,1,1,,,,32104232104

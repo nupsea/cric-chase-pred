@@ -1,0 +1,122 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Ghana,0,F Baleri,E Isaneez,R Bakum,,0,4,4,,,,31108231108
+1,Ghana,0,F Baleri,E Isaneez,R Bakum,,0,0,0,,,,31108231108
+1,Ghana,0,F Baleri,E Isaneez,R Bakum,,0,0,0,,,,31108231108
+1,Ghana,0,F Baleri,E Isaneez,R Bakum,,0,0,0,,,,31108231108
+1,Ghana,0,F Baleri,E Isaneez,R Bakum,,0,0,0,,,,31108231108
+1,Ghana,0,F Baleri,E Isaneez,R Bakum,,0,0,0,,,,31108231108
+1,Ghana,1,R Bakum,C Waiswa,F Baleri,,0,0,0,,,,31108231108
+1,Ghana,1,R Bakum,C Waiswa,F Baleri,,0,1,1,,,,31108231108
+1,Ghana,1,F Baleri,C Waiswa,R Bakum,,0,0,0,,,,31108231108
+1,Ghana,1,F Baleri,C Waiswa,R Bakum,,0,0,0,,,,31108231108
+1,Ghana,1,F Baleri,C Waiswa,R Bakum,,0,0,0,,,,31108231108
+1,Ghana,1,F Baleri,C Waiswa,R Bakum,,0,0,0,,,,31108231108
+1,Ghana,2,R Bakum,E Isaneez,F Baleri,,0,2,2,,,,31108231108
+1,Ghana,2,R Bakum,E Isaneez,F Baleri,,0,0,0,,,,31108231108
+1,Ghana,2,R Bakum,E Isaneez,F Baleri,noballs,1,1,0,,,,31108231108
+1,Ghana,2,R Bakum,Riazat Ali Shah,F Baleri,,0,2,2,,,,31108231108
+1,Ghana,2,R Bakum,Riazat Ali Shah,F Baleri,,0,0,0,,,,31108231108
+1,Ghana,2,R Bakum,Riazat Ali Shah,F Baleri,,0,2,2,,,,31108231108
+1,Ghana,2,R Bakum,Riazat Ali Shah,F Baleri,,0,0,0,,,,31108231108
+1,Ghana,3,F Baleri,C Waiswa,R Bakum,,0,0,0,,,,31108231108
+1,Ghana,3,F Baleri,C Waiswa,R Bakum,,0,1,1,,,,31108231108
+1,Ghana,3,R Bakum,C Waiswa,F Baleri,,0,0,0,,,,31108231108
+1,Ghana,3,R Bakum,C Waiswa,F Baleri,,0,1,1,,,,31108231108
+1,Ghana,3,F Baleri,C Waiswa,R Bakum,,0,0,0,,,,31108231108
+1,Ghana,3,F Baleri,C Waiswa,R Bakum,,0,0,0,,,,31108231108
+1,Ghana,4,R Bakum,Riazat Ali Shah,F Baleri,,0,1,1,,,,31108231108
+1,Ghana,4,F Baleri,Riazat Ali Shah,R Bakum,,0,1,1,,,,31108231108
+1,Ghana,4,R Bakum,Riazat Ali Shah,F Baleri,,0,4,4,,,,31108231108
+1,Ghana,4,R Bakum,Riazat Ali Shah,F Baleri,,0,0,0,,,,31108231108
+1,Ghana,4,R Bakum,Riazat Ali Shah,F Baleri,,0,4,4,,,,31108231108
+1,Ghana,4,R Bakum,Riazat Ali Shah,F Baleri,,0,1,1,,,,31108231108
+1,Ghana,5,R Bakum,H Ssenyondo,F Baleri,,0,0,0,,,,31108231108
+1,Ghana,5,R Bakum,H Ssenyondo,F Baleri,,0,0,0,caught,R Bakum,RG Mukasa,31108231108
+1,Ghana,5,JK Vifah,H Ssenyondo,F Baleri,,0,0,0,,,,31108231108
+1,Ghana,5,JK Vifah,H Ssenyondo,F Baleri,,0,2,2,,,,31108231108
+1,Ghana,5,JK Vifah,H Ssenyondo,F Baleri,,0,0,0,,,,31108231108
+1,Ghana,5,JK Vifah,H Ssenyondo,F Baleri,,0,3,3,,,,31108231108
+1,Ghana,6,JK Vifah,DM Nakrani,F Baleri,,0,0,0,,,,31108231108
+1,Ghana,6,JK Vifah,DM Nakrani,F Baleri,,0,4,4,,,,31108231108
+1,Ghana,6,JK Vifah,DM Nakrani,F Baleri,,0,1,1,,,,31108231108
+1,Ghana,6,F Baleri,DM Nakrani,JK Vifah,,0,2,2,,,,31108231108
+1,Ghana,6,F Baleri,DM Nakrani,JK Vifah,byes,2,2,0,,,,31108231108
+1,Ghana,6,F Baleri,DM Nakrani,JK Vifah,,0,0,0,,,,31108231108
+1,Ghana,7,JK Vifah,H Ssenyondo,F Baleri,,0,1,1,run out,F Baleri,,31108231108
+1,Ghana,7,JK Vifah,H Ssenyondo,JH Mensah,,0,0,0,,,,31108231108
+1,Ghana,7,JK Vifah,H Ssenyondo,JH Mensah,,0,0,0,caught,JK Vifah,A Otwani,31108231108
+1,Ghana,7,M Aboagye,H Ssenyondo,JH Mensah,,0,0,0,,,,31108231108
+1,Ghana,7,M Aboagye,H Ssenyondo,JH Mensah,,0,0,0,,,,31108231108
+1,Ghana,7,M Aboagye,H Ssenyondo,JH Mensah,,0,1,1,,,,31108231108
+1,Ghana,8,M Aboagye,DM Nakrani,JH Mensah,,0,1,1,,,,31108231108
+1,Ghana,8,JH Mensah,DM Nakrani,M Aboagye,,0,2,2,,,,31108231108
+1,Ghana,8,JH Mensah,DM Nakrani,M Aboagye,,0,6,6,,,,31108231108
+1,Ghana,8,JH Mensah,DM Nakrani,M Aboagye,,0,4,4,,,,31108231108
+1,Ghana,8,JH Mensah,DM Nakrani,M Aboagye,,0,1,1,,,,31108231108
+1,Ghana,8,M Aboagye,DM Nakrani,JH Mensah,,0,0,0,,,,31108231108
+1,Ghana,9,JH Mensah,H Ssenyondo,M Aboagye,,0,2,2,,,,31108231108
+1,Ghana,9,JH Mensah,H Ssenyondo,M Aboagye,,0,1,1,,,,31108231108
+1,Ghana,9,M Aboagye,H Ssenyondo,JH Mensah,,0,0,0,,,,31108231108
+1,Ghana,9,M Aboagye,H Ssenyondo,JH Mensah,,0,1,1,,,,31108231108
+1,Ghana,9,JH Mensah,H Ssenyondo,M Aboagye,,0,0,0,,,,31108231108
+1,Ghana,9,JH Mensah,H Ssenyondo,M Aboagye,,0,0,0,lbw,JH Mensah,,31108231108
+1,Ghana,10,M Aboagye,B Masaba,IKO Aboagye,,0,1,1,,,,31108231108
+1,Ghana,10,IKO Aboagye,B Masaba,M Aboagye,,0,1,1,,,,31108231108
+1,Ghana,10,M Aboagye,B Masaba,IKO Aboagye,,0,0,0,,,,31108231108
+1,Ghana,10,M Aboagye,B Masaba,IKO Aboagye,,0,1,1,,,,31108231108
+1,Ghana,10,IKO Aboagye,B Masaba,M Aboagye,,0,0,0,,,,31108231108
+1,Ghana,10,IKO Aboagye,B Masaba,M Aboagye,,0,0,0,,,,31108231108
+1,Ghana,11,M Aboagye,H Ssenyondo,IKO Aboagye,,0,0,0,,,,31108231108
+1,Ghana,11,M Aboagye,H Ssenyondo,IKO Aboagye,,0,2,2,,,,31108231108
+1,Ghana,11,M Aboagye,H Ssenyondo,IKO Aboagye,,0,0,0,,,,31108231108
+1,Ghana,11,M Aboagye,H Ssenyondo,IKO Aboagye,,0,1,1,,,,31108231108
+1,Ghana,11,IKO Aboagye,H Ssenyondo,M Aboagye,,0,0,0,,,,31108231108
+1,Ghana,11,IKO Aboagye,H Ssenyondo,M Aboagye,,0,0,0,,,,31108231108
+1,Ghana,12,M Aboagye,B Masaba,IKO Aboagye,,0,0,0,,,,31108231108
+1,Ghana,12,M Aboagye,B Masaba,IKO Aboagye,,0,4,4,,,,31108231108
+1,Ghana,12,M Aboagye,B Masaba,IKO Aboagye,,0,1,1,,,,31108231108
+1,Ghana,12,IKO Aboagye,B Masaba,M Aboagye,,0,0,0,,,,31108231108
+1,Ghana,12,IKO Aboagye,B Masaba,M Aboagye,,0,0,0,,,,31108231108
+1,Ghana,12,IKO Aboagye,B Masaba,M Aboagye,,0,0,0,,,,31108231108
+1,Ghana,13,M Aboagye,RG Mukasa,IKO Aboagye,,0,1,1,,,,31108231108
+1,Ghana,13,IKO Aboagye,RG Mukasa,M Aboagye,,0,1,1,,,,31108231108
+1,Ghana,13,M Aboagye,RG Mukasa,IKO Aboagye,,0,1,1,,,,31108231108
+1,Ghana,13,IKO Aboagye,RG Mukasa,M Aboagye,,0,2,2,,,,31108231108
+1,Ghana,13,IKO Aboagye,RG Mukasa,M Aboagye,,0,0,0,,,,31108231108
+1,Ghana,13,IKO Aboagye,RG Mukasa,M Aboagye,,0,0,0,,,,31108231108
+1,Ghana,14,M Aboagye,B Masaba,IKO Aboagye,,0,1,1,,,,31108231108
+1,Ghana,14,IKO Aboagye,B Masaba,M Aboagye,,0,0,0,,,,31108231108
+1,Ghana,14,IKO Aboagye,B Masaba,M Aboagye,,0,1,1,,,,31108231108
+1,Ghana,14,M Aboagye,B Masaba,IKO Aboagye,,0,1,1,,,,31108231108
+1,Ghana,14,IKO Aboagye,B Masaba,M Aboagye,,0,0,0,,,,31108231108
+1,Ghana,14,IKO Aboagye,B Masaba,M Aboagye,,0,0,0,,,,31108231108
+1,Ghana,15,M Aboagye,RG Mukasa,IKO Aboagye,,0,1,1,,,,31108231108
+1,Ghana,15,IKO Aboagye,RG Mukasa,M Aboagye,,0,1,1,,,,31108231108
+1,Ghana,15,M Aboagye,RG Mukasa,IKO Aboagye,,0,4,4,,,,31108231108
+1,Ghana,15,M Aboagye,RG Mukasa,IKO Aboagye,,0,0,0,,,,31108231108
+1,Ghana,15,M Aboagye,RG Mukasa,IKO Aboagye,,0,2,2,,,,31108231108
+1,Ghana,15,M Aboagye,RG Mukasa,IKO Aboagye,,0,0,0,,,,31108231108
+1,Ghana,16,IKO Aboagye,B Masaba,M Aboagye,,0,0,0,caught,IKO Aboagye,F Nsubuga,31108231108
+1,Ghana,16,M Aboagye,B Masaba,KS Bagabena,,0,0,0,bowled,M Aboagye,,31108231108
+1,Ghana,16,DK Anefie,B Masaba,KS Bagabena,,0,1,1,,,,31108231108
+1,Ghana,16,KS Bagabena,B Masaba,DK Anefie,,0,0,0,,,,31108231108
+1,Ghana,16,KS Bagabena,B Masaba,DK Anefie,,0,0,0,,,,31108231108
+1,Ghana,16,KS Bagabena,B Masaba,DK Anefie,,0,2,2,,,,31108231108
+1,Ghana,17,DK Anefie,RG Mukasa,KS Bagabena,,0,0,0,,,,31108231108
+1,Ghana,17,DK Anefie,RG Mukasa,KS Bagabena,,0,0,0,,,,31108231108
+1,Ghana,17,DK Anefie,RG Mukasa,KS Bagabena,,0,2,2,,,,31108231108
+1,Ghana,17,DK Anefie,RG Mukasa,KS Bagabena,,0,4,4,,,,31108231108
+1,Ghana,17,DK Anefie,RG Mukasa,KS Bagabena,,0,1,1,,,,31108231108
+1,Ghana,17,KS Bagabena,RG Mukasa,DK Anefie,,0,2,2,,,,31108231108
+1,Ghana,18,DK Anefie,C Waiswa,KS Bagabena,,0,1,1,,,,31108231108
+1,Ghana,18,KS Bagabena,C Waiswa,DK Anefie,,0,1,1,,,,31108231108
+1,Ghana,18,DK Anefie,C Waiswa,KS Bagabena,,0,2,2,,,,31108231108
+1,Ghana,18,DK Anefie,C Waiswa,KS Bagabena,,0,0,0,,,,31108231108
+1,Ghana,18,DK Anefie,C Waiswa,KS Bagabena,,0,4,4,,,,31108231108
+1,Ghana,18,DK Anefie,C Waiswa,KS Bagabena,,0,1,1,,,,31108231108
+1,Ghana,19,DK Anefie,DM Nakrani,KS Bagabena,,0,1,1,,,,31108231108
+1,Ghana,19,KS Bagabena,DM Nakrani,DK Anefie,,0,1,1,,,,31108231108
+1,Ghana,19,DK Anefie,DM Nakrani,KS Bagabena,,0,0,0,,,,31108231108
+1,Ghana,19,DK Anefie,DM Nakrani,KS Bagabena,,0,1,1,,,,31108231108
+1,Ghana,19,KS Bagabena,DM Nakrani,DK Anefie,,0,2,2,,,,31108231108
+1,Ghana,19,KS Bagabena,DM Nakrani,DK Anefie,,0,1,1,,,,31108231108

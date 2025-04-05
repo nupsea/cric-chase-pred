@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,AB de Villiers,JR Hazlewood,Q de Kock,,0,2,2,,,,353323533
+1,South Africa,0,AB de Villiers,JR Hazlewood,Q de Kock,,0,4,4,,,,353323533
+1,South Africa,0,AB de Villiers,JR Hazlewood,Q de Kock,,0,0,0,,,,353323533
+1,South Africa,0,AB de Villiers,JR Hazlewood,Q de Kock,,0,1,1,,,,353323533
+1,South Africa,0,Q de Kock,JR Hazlewood,AB de Villiers,,0,0,0,,,,353323533
+1,South Africa,0,Q de Kock,JR Hazlewood,AB de Villiers,,0,1,1,,,,353323533
+1,South Africa,1,Q de Kock,JW Hastings,AB de Villiers,,0,1,1,,,,353323533
+1,South Africa,1,AB de Villiers,JW Hastings,Q de Kock,,0,0,0,,,,353323533
+1,South Africa,1,AB de Villiers,JW Hastings,Q de Kock,,0,6,6,,,,353323533
+1,South Africa,1,AB de Villiers,JW Hastings,Q de Kock,,0,0,0,,,,353323533
+1,South Africa,1,AB de Villiers,JW Hastings,Q de Kock,,0,0,0,,,,353323533
+1,South Africa,1,AB de Villiers,JW Hastings,Q de Kock,,0,0,0,bowled,AB de Villiers,,353323533
+1,South Africa,2,Q de Kock,JR Hazlewood,F du Plessis,,0,0,0,,,,353323533
+1,South Africa,2,Q de Kock,JR Hazlewood,F du Plessis,wides,1,1,0,,,,353323533
+1,South Africa,2,Q de Kock,JR Hazlewood,F du Plessis,,0,4,4,,,,353323533
+1,South Africa,2,Q de Kock,JR Hazlewood,F du Plessis,,0,0,0,,,,353323533
+1,South Africa,2,Q de Kock,JR Hazlewood,F du Plessis,,0,0,0,,,,353323533
+1,South Africa,2,Q de Kock,JR Hazlewood,F du Plessis,,0,4,4,,,,353323533
+1,South Africa,2,Q de Kock,JR Hazlewood,F du Plessis,,0,2,2,,,,353323533
+1,South Africa,3,F du Plessis,JW Hastings,Q de Kock,,0,1,1,,,,353323533
+1,South Africa,3,Q de Kock,JW Hastings,F du Plessis,,0,0,0,,,,353323533
+1,South Africa,3,Q de Kock,JW Hastings,F du Plessis,,0,0,0,,,,353323533
+1,South Africa,3,Q de Kock,JW Hastings,F du Plessis,,0,4,4,,,,353323533
+1,South Africa,3,Q de Kock,JW Hastings,F du Plessis,,0,0,0,,,,353323533
+1,South Africa,3,Q de Kock,JW Hastings,F du Plessis,,0,0,0,,,,353323533
+1,South Africa,4,F du Plessis,MR Marsh,Q de Kock,,0,0,0,,,,353323533
+1,South Africa,4,F du Plessis,MR Marsh,Q de Kock,,0,0,0,,,,353323533
+1,South Africa,4,F du Plessis,MR Marsh,Q de Kock,,0,2,2,,,,353323533
+1,South Africa,4,F du Plessis,MR Marsh,Q de Kock,,0,0,0,,,,353323533
+1,South Africa,4,F du Plessis,MR Marsh,Q de Kock,,0,4,4,,,,353323533
+1,South Africa,4,F du Plessis,MR Marsh,Q de Kock,,0,6,6,,,,353323533
+1,South Africa,5,Q de Kock,JR Hazlewood,F du Plessis,,0,4,4,,,,353323533
+1,South Africa,5,Q de Kock,JR Hazlewood,F du Plessis,,0,4,4,,,,353323533
+1,South Africa,5,Q de Kock,JR Hazlewood,F du Plessis,,0,6,6,,,,353323533
+1,South Africa,5,Q de Kock,JR Hazlewood,F du Plessis,,0,1,1,,,,353323533
+1,South Africa,5,F du Plessis,JR Hazlewood,Q de Kock,,0,2,2,,,,353323533
+1,South Africa,5,F du Plessis,JR Hazlewood,Q de Kock,,0,2,2,,,,353323533
+1,South Africa,6,Q de Kock,GJ Maxwell,F du Plessis,,0,0,0,,,,353323533
+1,South Africa,6,Q de Kock,GJ Maxwell,F du Plessis,,0,4,4,,,,353323533
+1,South Africa,6,Q de Kock,GJ Maxwell,F du Plessis,,0,4,4,,,,353323533
+1,South Africa,6,Q de Kock,GJ Maxwell,F du Plessis,,0,0,0,,,,353323533
+1,South Africa,6,Q de Kock,GJ Maxwell,F du Plessis,,0,0,0,,,,353323533
+1,South Africa,6,Q de Kock,GJ Maxwell,F du Plessis,,0,4,4,,,,353323533
+1,South Africa,7,F du Plessis,JP Faulkner,Q de Kock,,0,1,1,,,,353323533
+1,South Africa,7,Q de Kock,JP Faulkner,F du Plessis,,0,0,0,,,,353323533
+1,South Africa,7,Q de Kock,JP Faulkner,F du Plessis,,0,0,0,,,,353323533
+1,South Africa,7,Q de Kock,JP Faulkner,F du Plessis,,0,1,1,,,,353323533
+1,South Africa,7,F du Plessis,JP Faulkner,Q de Kock,,0,1,1,,,,353323533
+1,South Africa,7,Q de Kock,JP Faulkner,F du Plessis,,0,0,0,bowled,Q de Kock,,353323533
+1,South Africa,8,F du Plessis,GJ Maxwell,JP Duminy,,0,1,1,,,,353323533
+1,South Africa,8,JP Duminy,GJ Maxwell,F du Plessis,,0,0,0,,,,353323533
+1,South Africa,8,JP Duminy,GJ Maxwell,F du Plessis,,0,1,1,,,,353323533
+1,South Africa,8,F du Plessis,GJ Maxwell,JP Duminy,,0,0,0,,,,353323533
+1,South Africa,8,F du Plessis,GJ Maxwell,JP Duminy,,0,1,1,,,,353323533
+1,South Africa,8,JP Duminy,GJ Maxwell,F du Plessis,,0,1,1,,,,353323533
+1,South Africa,9,JP Duminy,JP Faulkner,F du Plessis,,0,0,0,,,,353323533
+1,South Africa,9,JP Duminy,JP Faulkner,F du Plessis,,0,0,0,,,,353323533
+1,South Africa,9,JP Duminy,JP Faulkner,F du Plessis,,0,4,4,,,,353323533
+1,South Africa,9,JP Duminy,JP Faulkner,F du Plessis,,0,2,2,,,,353323533
+1,South Africa,9,JP Duminy,JP Faulkner,F du Plessis,,0,0,0,,,,353323533
+1,South Africa,9,JP Duminy,JP Faulkner,F du Plessis,,0,0,0,,,,353323533
+1,South Africa,10,F du Plessis,MR Marsh,JP Duminy,noballs,1,1,0,,,,353323533
+1,South Africa,10,F du Plessis,MR Marsh,JP Duminy,,0,6,6,,,,353323533
+1,South Africa,10,F du Plessis,MR Marsh,JP Duminy,,0,2,2,,,,353323533
+1,South Africa,10,F du Plessis,MR Marsh,JP Duminy,,0,1,1,,,,353323533
+1,South Africa,10,JP Duminy,MR Marsh,F du Plessis,,0,0,0,,,,353323533
+1,South Africa,10,JP Duminy,MR Marsh,F du Plessis,,0,6,6,,,,353323533
+1,South Africa,10,JP Duminy,MR Marsh,F du Plessis,,0,0,0,caught,JP Duminy,SPD Smith,353323533
+1,South Africa,11,DA Miller,GJ Maxwell,F du Plessis,,0,1,1,,,,353323533
+1,South Africa,11,F du Plessis,GJ Maxwell,DA Miller,,0,1,1,,,,353323533
+1,South Africa,11,DA Miller,GJ Maxwell,F du Plessis,,0,1,1,,,,353323533
+1,South Africa,11,F du Plessis,GJ Maxwell,DA Miller,,0,1,1,,,,353323533
+1,South Africa,11,DA Miller,GJ Maxwell,F du Plessis,,0,0,0,,,,353323533
+1,South Africa,11,DA Miller,GJ Maxwell,F du Plessis,,0,1,1,,,,353323533
+1,South Africa,12,DA Miller,AC Agar,F du Plessis,,0,1,1,,,,353323533
+1,South Africa,12,F du Plessis,AC Agar,DA Miller,,0,1,1,,,,353323533
+1,South Africa,12,DA Miller,AC Agar,F du Plessis,,0,1,1,,,,353323533
+1,South Africa,12,F du Plessis,AC Agar,DA Miller,,0,1,1,,,,353323533
+1,South Africa,12,DA Miller,AC Agar,F du Plessis,,0,0,0,,,,353323533
+1,South Africa,12,DA Miller,AC Agar,F du Plessis,,0,1,1,,,,353323533
+1,South Africa,13,DA Miller,GJ Maxwell,F du Plessis,,0,4,4,,,,353323533
+1,South Africa,13,DA Miller,GJ Maxwell,F du Plessis,,0,1,1,,,,353323533
+1,South Africa,13,F du Plessis,GJ Maxwell,DA Miller,,0,1,1,,,,353323533
+1,South Africa,13,DA Miller,GJ Maxwell,F du Plessis,,0,1,1,,,,353323533
+1,South Africa,13,F du Plessis,GJ Maxwell,DA Miller,,0,1,1,,,,353323533
+1,South Africa,13,DA Miller,GJ Maxwell,F du Plessis,,0,1,1,,,,353323533
+1,South Africa,14,DA Miller,AC Agar,F du Plessis,,0,2,2,,,,353323533
+1,South Africa,14,DA Miller,AC Agar,F du Plessis,,0,4,4,,,,353323533
+1,South Africa,14,DA Miller,AC Agar,F du Plessis,,0,6,6,,,,353323533
+1,South Africa,14,DA Miller,AC Agar,F du Plessis,,0,2,2,,,,353323533
+1,South Africa,14,DA Miller,AC Agar,F du Plessis,,0,6,6,,,,353323533
+1,South Africa,14,DA Miller,AC Agar,F du Plessis,,0,0,0,caught,DA Miller,GJ Maxwell,353323533
+1,South Africa,15,F du Plessis,JW Hastings,F Behardien,legbyes,1,1,0,,,,353323533
+1,South Africa,15,F Behardien,JW Hastings,F du Plessis,,0,1,1,,,,353323533
+1,South Africa,15,F du Plessis,JW Hastings,F Behardien,,0,1,1,,,,353323533
+1,South Africa,15,F Behardien,JW Hastings,F du Plessis,,0,1,1,,,,353323533
+1,South Africa,15,F du Plessis,JW Hastings,F Behardien,,0,1,1,,,,353323533
+1,South Africa,15,F Behardien,JW Hastings,F du Plessis,,0,0,0,,,,353323533
+1,South Africa,16,F du Plessis,JP Faulkner,F Behardien,wides,1,1,0,,,,353323533
+1,South Africa,16,F du Plessis,JP Faulkner,F Behardien,,0,1,1,,,,353323533
+1,South Africa,16,F Behardien,JP Faulkner,F du Plessis,,0,1,1,,,,353323533
+1,South Africa,16,F du Plessis,JP Faulkner,F Behardien,,0,1,1,,,,353323533
+1,South Africa,16,F Behardien,JP Faulkner,F du Plessis,,0,0,0,caught,F Behardien,AC Agar,353323533
+1,South Africa,16,F du Plessis,JP Faulkner,CH Morris,,0,1,1,,,,353323533
+1,South Africa,16,CH Morris,JP Faulkner,F du Plessis,,0,1,1,,,,353323533
+1,South Africa,17,CH Morris,JR Hazlewood,F du Plessis,,0,1,1,,,,353323533
+1,South Africa,17,F du Plessis,JR Hazlewood,CH Morris,,0,4,4,,,,353323533
+1,South Africa,17,F du Plessis,JR Hazlewood,CH Morris,,0,4,4,,,,353323533
+1,South Africa,17,F du Plessis,JR Hazlewood,CH Morris,,0,1,1,,,,353323533
+1,South Africa,17,CH Morris,JR Hazlewood,F du Plessis,wides,1,1,0,,,,353323533
+1,South Africa,17,CH Morris,JR Hazlewood,F du Plessis,,0,0,0,,,,353323533
+1,South Africa,17,CH Morris,JR Hazlewood,F du Plessis,,0,1,1,,,,353323533
+1,South Africa,18,CH Morris,JP Faulkner,F du Plessis,,0,0,0,caught,CH Morris,DA Warner,353323533
+1,South Africa,18,F du Plessis,JP Faulkner,D Wiese,,0,2,2,,,,353323533
+1,South Africa,18,F du Plessis,JP Faulkner,D Wiese,,0,6,6,,,,353323533
+1,South Africa,18,F du Plessis,JP Faulkner,D Wiese,,0,1,1,,,,353323533
+1,South Africa,18,D Wiese,JP Faulkner,F du Plessis,,0,2,2,,,,353323533
+1,South Africa,18,D Wiese,JP Faulkner,F du Plessis,,0,2,2,,,,353323533
+1,South Africa,19,F du Plessis,JW Hastings,D Wiese,,0,4,4,,,,353323533
+1,South Africa,19,F du Plessis,JW Hastings,D Wiese,,0,6,6,,,,353323533
+1,South Africa,19,F du Plessis,JW Hastings,D Wiese,,0,6,6,,,,353323533
+1,South Africa,19,F du Plessis,JW Hastings,D Wiese,,0,4,4,,,,353323533
+1,South Africa,19,F du Plessis,JW Hastings,D Wiese,,0,0,0,caught,F du Plessis,GJ Maxwell,353323533
+1,South Africa,19,D Wiese,JW Hastings,K Rabada,,0,6,6,,,,353323533

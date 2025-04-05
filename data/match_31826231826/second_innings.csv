@@ -1,0 +1,76 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Qatar,0,AR Berenger,Nawaf Ahmed,Kamran Khan,,0,0,0,,,,31826231826
+2,Qatar,0,AR Berenger,Nawaf Ahmed,Kamran Khan,,0,1,1,,,,31826231826
+2,Qatar,0,Kamran Khan,Nawaf Ahmed,AR Berenger,,0,0,0,,,,31826231826
+2,Qatar,0,Kamran Khan,Nawaf Ahmed,AR Berenger,,0,0,0,,,,31826231826
+2,Qatar,0,Kamran Khan,Nawaf Ahmed,AR Berenger,,0,1,1,,,,31826231826
+2,Qatar,0,AR Berenger,Nawaf Ahmed,Kamran Khan,,0,1,1,,,,31826231826
+2,Qatar,1,AR Berenger,Muhammad Kashif,Kamran Khan,,0,1,1,,,,31826231826
+2,Qatar,1,Kamran Khan,Muhammad Kashif,AR Berenger,,0,2,2,,,,31826231826
+2,Qatar,1,Kamran Khan,Muhammad Kashif,AR Berenger,,0,4,4,,,,31826231826
+2,Qatar,1,Kamran Khan,Muhammad Kashif,AR Berenger,,0,4,4,,,,31826231826
+2,Qatar,1,Kamran Khan,Muhammad Kashif,AR Berenger,legbyes,1,1,0,,,,31826231826
+2,Qatar,1,AR Berenger,Muhammad Kashif,Kamran Khan,,0,0,0,,,,31826231826
+2,Qatar,2,Kamran Khan,Nawaf Ahmed,AR Berenger,,0,2,2,,,,31826231826
+2,Qatar,2,Kamran Khan,Nawaf Ahmed,AR Berenger,,0,0,0,,,,31826231826
+2,Qatar,2,Kamran Khan,Nawaf Ahmed,AR Berenger,,0,2,2,,,,31826231826
+2,Qatar,2,Kamran Khan,Nawaf Ahmed,AR Berenger,wides,1,1,0,,,,31826231826
+2,Qatar,2,Kamran Khan,Nawaf Ahmed,AR Berenger,,0,0,0,,,,31826231826
+2,Qatar,2,Kamran Khan,Nawaf Ahmed,AR Berenger,noballs,1,3,2,,,,31826231826
+2,Qatar,2,Kamran Khan,Nawaf Ahmed,AR Berenger,,0,0,0,,,,31826231826
+2,Qatar,2,Kamran Khan,Nawaf Ahmed,AR Berenger,,0,0,0,,,,31826231826
+2,Qatar,3,AR Berenger,Muhammad Kashif,Kamran Khan,,0,0,0,,,,31826231826
+2,Qatar,3,AR Berenger,Muhammad Kashif,Kamran Khan,,0,6,6,,,,31826231826
+2,Qatar,3,AR Berenger,Muhammad Kashif,Kamran Khan,,0,6,6,,,,31826231826
+2,Qatar,3,AR Berenger,Muhammad Kashif,Kamran Khan,,0,4,4,,,,31826231826
+2,Qatar,3,AR Berenger,Muhammad Kashif,Kamran Khan,,0,4,4,,,,31826231826
+2,Qatar,3,AR Berenger,Muhammad Kashif,Kamran Khan,,0,4,4,,,,31826231826
+2,Qatar,4,Kamran Khan,Shiraz Khan,AR Berenger,,0,6,6,,,,31826231826
+2,Qatar,4,Kamran Khan,Shiraz Khan,AR Berenger,,0,0,0,,,,31826231826
+2,Qatar,4,Kamran Khan,Shiraz Khan,AR Berenger,,0,4,4,,,,31826231826
+2,Qatar,4,Kamran Khan,Shiraz Khan,AR Berenger,,0,4,4,,,,31826231826
+2,Qatar,4,Kamran Khan,Shiraz Khan,AR Berenger,,0,0,0,lbw,Kamran Khan,,31826231826
+2,Qatar,4,Mohammad Rizlan,Shiraz Khan,AR Berenger,,0,1,1,,,,31826231826
+2,Qatar,5,Mohammad Rizlan,MNM Aslam,AR Berenger,,0,4,4,,,,31826231826
+2,Qatar,5,Mohammad Rizlan,MNM Aslam,AR Berenger,,0,0,0,caught,Mohammad Rizlan,Meet Bhavsar,31826231826
+2,Qatar,5,AR Berenger,MNM Aslam,I Liyanage,,0,4,4,,,,31826231826
+2,Qatar,5,AR Berenger,MNM Aslam,I Liyanage,,0,4,4,,,,31826231826
+2,Qatar,5,AR Berenger,MNM Aslam,I Liyanage,,0,1,1,,,,31826231826
+2,Qatar,5,I Liyanage,MNM Aslam,AR Berenger,,0,4,4,,,,31826231826
+2,Qatar,6,AR Berenger,Shiraz Khan,I Liyanage,,0,1,1,,,,31826231826
+2,Qatar,6,I Liyanage,Shiraz Khan,AR Berenger,,0,1,1,,,,31826231826
+2,Qatar,6,AR Berenger,Shiraz Khan,I Liyanage,,0,0,0,caught,AR Berenger,Meet Bhavsar,31826231826
+2,Qatar,6,I Liyanage,Shiraz Khan,Muhammad Tanveer,,0,1,1,,,,31826231826
+2,Qatar,6,Muhammad Tanveer,Shiraz Khan,I Liyanage,,0,1,1,,,,31826231826
+2,Qatar,6,I Liyanage,Shiraz Khan,Muhammad Tanveer,,0,0,0,,,,31826231826
+2,Qatar,7,Muhammad Tanveer,Adnan Idrees,I Liyanage,,0,1,1,,,,31826231826
+2,Qatar,7,I Liyanage,Adnan Idrees,Muhammad Tanveer,,0,0,0,,,,31826231826
+2,Qatar,7,I Liyanage,Adnan Idrees,Muhammad Tanveer,,0,0,0,,,,31826231826
+2,Qatar,7,I Liyanage,Adnan Idrees,Muhammad Tanveer,,0,1,1,,,,31826231826
+2,Qatar,7,Muhammad Tanveer,Adnan Idrees,I Liyanage,,0,4,4,,,,31826231826
+2,Qatar,7,Muhammad Tanveer,Adnan Idrees,I Liyanage,,0,0,0,,,,31826231826
+2,Qatar,8,I Liyanage,Shiraz Khan,Muhammad Tanveer,wides,1,1,0,,,,31826231826
+2,Qatar,8,I Liyanage,Shiraz Khan,Muhammad Tanveer,,0,0,0,stumped,I Liyanage,Usman Patel,31826231826
+2,Qatar,8,Muhammad Murad,Shiraz Khan,Muhammad Tanveer,byes,1,1,0,,,,31826231826
+2,Qatar,8,Muhammad Tanveer,Shiraz Khan,Muhammad Murad,,0,6,6,,,,31826231826
+2,Qatar,8,Muhammad Tanveer,Shiraz Khan,Muhammad Murad,,0,1,1,,,,31826231826
+2,Qatar,8,Muhammad Murad,Shiraz Khan,Muhammad Tanveer,,0,0,0,,,,31826231826
+2,Qatar,8,Muhammad Murad,Shiraz Khan,Muhammad Tanveer,,0,6,6,,,,31826231826
+2,Qatar,9,Muhammad Tanveer,Adnan Idrees,Muhammad Murad,,0,6,6,,,,31826231826
+2,Qatar,9,Muhammad Tanveer,Adnan Idrees,Muhammad Murad,,0,0,0,caught,Muhammad Tanveer,ED Silva,31826231826
+2,Qatar,9,Muhammad Murad,Adnan Idrees,Zaheer Ibrahim,,0,1,1,,,,31826231826
+2,Qatar,9,Zaheer Ibrahim,Adnan Idrees,Muhammad Murad,,0,0,0,,,,31826231826
+2,Qatar,9,Zaheer Ibrahim,Adnan Idrees,Muhammad Murad,,0,0,0,stumped,Zaheer Ibrahim,Usman Patel,31826231826
+2,Qatar,9,Iqbal Hussain,Adnan Idrees,Muhammad Murad,,0,0,0,,,,31826231826
+2,Qatar,10,Muhammad Murad,ED Silva,Iqbal Hussain,wides,1,1,0,,,,31826231826
+2,Qatar,10,Muhammad Murad,ED Silva,Iqbal Hussain,,0,0,0,,,,31826231826
+2,Qatar,10,Muhammad Murad,ED Silva,Iqbal Hussain,,0,0,0,,,,31826231826
+2,Qatar,10,Muhammad Murad,ED Silva,Iqbal Hussain,,0,1,1,,,,31826231826
+2,Qatar,10,Iqbal Hussain,ED Silva,Muhammad Murad,,0,1,1,,,,31826231826
+2,Qatar,10,Muhammad Murad,ED Silva,Iqbal Hussain,,0,6,6,,,,31826231826
+2,Qatar,10,Muhammad Murad,ED Silva,Iqbal Hussain,,0,0,0,caught and bowled,Muhammad Murad,,31826231826
+2,Qatar,11,Gayan Munaweera,Adnan Idrees,Iqbal Hussain,,0,0,0,,,,31826231826
+2,Qatar,11,Gayan Munaweera,Adnan Idrees,Iqbal Hussain,,0,1,1,,,,31826231826
+2,Qatar,11,Iqbal Hussain,Adnan Idrees,Gayan Munaweera,,0,1,1,run out,Iqbal Hussain,Bilal Tahir,31826231826
+2,Qatar,11,Mohammed Nadeem,Adnan Idrees,Gayan Munaweera,,0,1,1,,,,31826231826
+2,Qatar,11,Gayan Munaweera,Adnan Idrees,Mohammed Nadeem,,0,4,4,,,,31826231826

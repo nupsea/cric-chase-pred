@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,New Zealand,0,JD Ryder,RJ Sidebottom,BB McCullum,,0,0,0,,,,3472347
+2,New Zealand,0,JD Ryder,RJ Sidebottom,BB McCullum,,0,0,0,,,,3472347
+2,New Zealand,0,JD Ryder,RJ Sidebottom,BB McCullum,legbyes,1,1,0,,,,3472347
+2,New Zealand,0,BB McCullum,RJ Sidebottom,JD Ryder,wides,1,1,0,,,,3472347
+2,New Zealand,0,BB McCullum,RJ Sidebottom,JD Ryder,,0,2,2,,,,3472347
+2,New Zealand,0,BB McCullum,RJ Sidebottom,JD Ryder,,0,0,0,,,,3472347
+2,New Zealand,0,BB McCullum,RJ Sidebottom,JD Ryder,legbyes,1,1,0,,,,3472347
+2,New Zealand,1,BB McCullum,JM Anderson,JD Ryder,,0,0,0,,,,3472347
+2,New Zealand,1,BB McCullum,JM Anderson,JD Ryder,,0,6,6,,,,3472347
+2,New Zealand,1,BB McCullum,JM Anderson,JD Ryder,,0,1,1,,,,3472347
+2,New Zealand,1,JD Ryder,JM Anderson,BB McCullum,,0,4,4,,,,3472347
+2,New Zealand,1,JD Ryder,JM Anderson,BB McCullum,,0,0,0,,,,3472347
+2,New Zealand,1,JD Ryder,JM Anderson,BB McCullum,,0,1,1,,,,3472347
+2,New Zealand,2,JD Ryder,RJ Sidebottom,BB McCullum,,0,1,1,,,,3472347
+2,New Zealand,2,BB McCullum,RJ Sidebottom,JD Ryder,,0,0,0,caught,BB McCullum,OA Shah,3472347
+2,New Zealand,2,LRPL Taylor,RJ Sidebottom,JD Ryder,,0,0,0,,,,3472347
+2,New Zealand,2,LRPL Taylor,RJ Sidebottom,JD Ryder,wides,1,1,0,,,,3472347
+2,New Zealand,2,LRPL Taylor,RJ Sidebottom,JD Ryder,,0,0,0,lbw,LRPL Taylor,,3472347
+2,New Zealand,2,JM How,RJ Sidebottom,JD Ryder,,0,0,0,,,,3472347
+2,New Zealand,2,JM How,RJ Sidebottom,JD Ryder,,0,0,0,,,,3472347
+2,New Zealand,3,JD Ryder,JM Anderson,JM How,,0,0,0,,,,3472347
+2,New Zealand,3,JD Ryder,JM Anderson,JM How,wides,1,1,0,,,,3472347
+2,New Zealand,3,JD Ryder,JM Anderson,JM How,,0,1,1,,,,3472347
+2,New Zealand,3,JM How,JM Anderson,JD Ryder,,0,1,1,,,,3472347
+2,New Zealand,3,JD Ryder,JM Anderson,JM How,wides,1,1,0,,,,3472347
+2,New Zealand,3,JD Ryder,JM Anderson,JM How,,0,0,0,,,,3472347
+2,New Zealand,3,JD Ryder,JM Anderson,JM How,,0,0,0,,,,3472347
+2,New Zealand,3,JD Ryder,JM Anderson,JM How,,0,1,1,,,,3472347
+2,New Zealand,4,JD Ryder,RJ Sidebottom,JM How,,0,4,4,,,,3472347
+2,New Zealand,4,JD Ryder,RJ Sidebottom,JM How,,0,1,1,,,,3472347
+2,New Zealand,4,JM How,RJ Sidebottom,JD Ryder,,0,0,0,,,,3472347
+2,New Zealand,4,JM How,RJ Sidebottom,JD Ryder,,0,0,0,,,,3472347
+2,New Zealand,4,JM How,RJ Sidebottom,JD Ryder,,0,1,1,,,,3472347
+2,New Zealand,4,JD Ryder,RJ Sidebottom,JM How,,0,1,1,,,,3472347
+2,New Zealand,5,JD Ryder,SCJ Broad,JM How,,0,0,0,,,,3472347
+2,New Zealand,5,JD Ryder,SCJ Broad,JM How,legbyes,4,4,0,,,,3472347
+2,New Zealand,5,JD Ryder,SCJ Broad,JM How,,0,0,0,,,,3472347
+2,New Zealand,5,JD Ryder,SCJ Broad,JM How,,0,0,0,,,,3472347
+2,New Zealand,5,JD Ryder,SCJ Broad,JM How,,0,4,4,,,,3472347
+2,New Zealand,5,JD Ryder,SCJ Broad,JM How,,0,4,4,,,,3472347
+2,New Zealand,6,JM How,AD Mascarenhas,JD Ryder,,0,4,4,,,,3472347
+2,New Zealand,6,JM How,AD Mascarenhas,JD Ryder,,0,0,0,caught,JM How,KP Pietersen,3472347
+2,New Zealand,6,SB Styris,AD Mascarenhas,JD Ryder,legbyes,2,2,0,,,,3472347
+2,New Zealand,6,SB Styris,AD Mascarenhas,JD Ryder,,0,0,0,run out,JD Ryder,AD Mascarenhas,3472347
+2,New Zealand,6,SB Styris,AD Mascarenhas,PG Fulton,legbyes,4,4,0,,,,3472347
+2,New Zealand,6,SB Styris,AD Mascarenhas,PG Fulton,,0,0,0,,,,3472347
+2,New Zealand,7,PG Fulton,GP Swann,SB Styris,wides,1,1,0,,,,3472347
+2,New Zealand,7,PG Fulton,GP Swann,SB Styris,legbyes,5,5,0,,,,3472347
+2,New Zealand,7,SB Styris,GP Swann,PG Fulton,,0,0,0,,,,3472347
+2,New Zealand,7,SB Styris,GP Swann,PG Fulton,,0,1,1,,,,3472347
+2,New Zealand,7,PG Fulton,GP Swann,SB Styris,,0,2,2,,,,3472347
+2,New Zealand,7,PG Fulton,GP Swann,SB Styris,,0,0,0,,,,3472347
+2,New Zealand,7,PG Fulton,GP Swann,SB Styris,,0,1,1,,,,3472347
+2,New Zealand,8,PG Fulton,AD Mascarenhas,SB Styris,,0,0,0,,,,3472347
+2,New Zealand,8,PG Fulton,AD Mascarenhas,SB Styris,,0,1,1,,,,3472347
+2,New Zealand,8,SB Styris,AD Mascarenhas,PG Fulton,,0,0,0,,,,3472347
+2,New Zealand,8,SB Styris,AD Mascarenhas,PG Fulton,,0,0,0,bowled,SB Styris,,3472347
+2,New Zealand,8,JDP Oram,AD Mascarenhas,PG Fulton,,0,0,0,,,,3472347
+2,New Zealand,8,JDP Oram,AD Mascarenhas,PG Fulton,,0,1,1,,,,3472347
+2,New Zealand,9,JDP Oram,SCJ Broad,PG Fulton,,0,0,0,,,,3472347
+2,New Zealand,9,JDP Oram,SCJ Broad,PG Fulton,,0,0,0,,,,3472347
+2,New Zealand,9,JDP Oram,SCJ Broad,PG Fulton,,0,1,1,,,,3472347
+2,New Zealand,9,PG Fulton,SCJ Broad,JDP Oram,,0,4,4,,,,3472347
+2,New Zealand,9,PG Fulton,SCJ Broad,JDP Oram,,0,0,0,,,,3472347
+2,New Zealand,9,PG Fulton,SCJ Broad,JDP Oram,,0,0,0,bowled,PG Fulton,,3472347
+2,New Zealand,10,JDP Oram,AD Mascarenhas,KD Mills,,0,0,0,,,,3472347
+2,New Zealand,10,JDP Oram,AD Mascarenhas,KD Mills,,0,0,0,,,,3472347
+2,New Zealand,10,JDP Oram,AD Mascarenhas,KD Mills,,0,1,1,,,,3472347
+2,New Zealand,10,KD Mills,AD Mascarenhas,JDP Oram,,0,1,1,,,,3472347
+2,New Zealand,10,JDP Oram,AD Mascarenhas,KD Mills,,0,4,4,,,,3472347
+2,New Zealand,10,JDP Oram,AD Mascarenhas,KD Mills,,0,1,1,,,,3472347
+2,New Zealand,11,JDP Oram,SCJ Broad,KD Mills,,0,0,0,,,,3472347
+2,New Zealand,11,JDP Oram,SCJ Broad,KD Mills,,0,0,0,,,,3472347
+2,New Zealand,11,JDP Oram,SCJ Broad,KD Mills,,0,1,1,,,,3472347
+2,New Zealand,11,KD Mills,SCJ Broad,JDP Oram,,0,6,6,,,,3472347
+2,New Zealand,11,KD Mills,SCJ Broad,JDP Oram,,0,0,0,,,,3472347
+2,New Zealand,11,KD Mills,SCJ Broad,JDP Oram,,0,0,0,,,,3472347
+2,New Zealand,12,JDP Oram,AD Mascarenhas,KD Mills,,0,0,0,,,,3472347
+2,New Zealand,12,JDP Oram,AD Mascarenhas,KD Mills,,0,1,1,,,,3472347
+2,New Zealand,12,KD Mills,AD Mascarenhas,JDP Oram,,0,1,1,,,,3472347
+2,New Zealand,12,JDP Oram,AD Mascarenhas,KD Mills,,0,1,1,,,,3472347
+2,New Zealand,12,KD Mills,AD Mascarenhas,JDP Oram,,0,2,2,,,,3472347
+2,New Zealand,12,KD Mills,AD Mascarenhas,JDP Oram,,0,1,1,,,,3472347
+2,New Zealand,13,KD Mills,GP Swann,JDP Oram,,0,0,0,caught,KD Mills,JM Anderson,3472347
+2,New Zealand,13,JDP Oram,GP Swann,TG Southee,,0,4,4,,,,3472347
+2,New Zealand,13,JDP Oram,GP Swann,TG Southee,,0,4,4,,,,3472347
+2,New Zealand,13,JDP Oram,GP Swann,TG Southee,,0,1,1,,,,3472347
+2,New Zealand,13,TG Southee,GP Swann,JDP Oram,,0,1,1,,,,3472347
+2,New Zealand,13,JDP Oram,GP Swann,TG Southee,,0,1,1,,,,3472347
+2,New Zealand,14,JDP Oram,PD Collingwood,TG Southee,,0,1,1,,,,3472347
+2,New Zealand,14,TG Southee,PD Collingwood,JDP Oram,,0,0,0,caught,TG Southee,AD Mascarenhas,3472347
+2,New Zealand,14,JDP Oram,PD Collingwood,JS Patel,,0,2,2,,,,3472347
+2,New Zealand,14,JDP Oram,PD Collingwood,JS Patel,,0,6,6,,,,3472347
+2,New Zealand,14,JDP Oram,PD Collingwood,JS Patel,,0,4,4,,,,3472347
+2,New Zealand,14,JDP Oram,PD Collingwood,JS Patel,,0,2,2,,,,3472347
+2,New Zealand,15,JS Patel,LJ Wright,JDP Oram,,0,3,3,,,,3472347
+2,New Zealand,15,JDP Oram,LJ Wright,JS Patel,,0,6,6,,,,3472347
+2,New Zealand,15,JDP Oram,LJ Wright,JS Patel,,0,1,1,,,,3472347
+2,New Zealand,15,JS Patel,LJ Wright,JDP Oram,,0,1,1,,,,3472347
+2,New Zealand,15,JDP Oram,LJ Wright,JS Patel,,0,2,2,,,,3472347
+2,New Zealand,15,JDP Oram,LJ Wright,JS Patel,,0,0,0,,,,3472347
+2,New Zealand,16,JS Patel,JM Anderson,JDP Oram,,0,0,0,,,,3472347
+2,New Zealand,16,JS Patel,JM Anderson,JDP Oram,,0,1,1,,,,3472347
+2,New Zealand,16,JDP Oram,JM Anderson,JS Patel,,0,4,4,,,,3472347
+2,New Zealand,16,JDP Oram,JM Anderson,JS Patel,,0,1,1,,,,3472347
+2,New Zealand,16,JS Patel,JM Anderson,JDP Oram,,0,0,0,bowled,JS Patel,,3472347
+2,New Zealand,16,CS Martin,JM Anderson,JDP Oram,,0,1,1,,,,3472347
+2,New Zealand,17,CS Martin,SCJ Broad,JDP Oram,,0,1,1,,,,3472347
+2,New Zealand,17,JDP Oram,SCJ Broad,CS Martin,,0,1,1,,,,3472347
+2,New Zealand,17,CS Martin,SCJ Broad,JDP Oram,,0,1,1,,,,3472347
+2,New Zealand,17,JDP Oram,SCJ Broad,CS Martin,,0,0,0,,,,3472347
+2,New Zealand,17,JDP Oram,SCJ Broad,CS Martin,,0,1,1,,,,3472347
+2,New Zealand,17,CS Martin,SCJ Broad,JDP Oram,,0,1,1,,,,3472347
+2,New Zealand,18,CS Martin,JM Anderson,JDP Oram,,0,1,1,,,,3472347
+2,New Zealand,18,JDP Oram,JM Anderson,CS Martin,,0,0,0,,,,3472347
+2,New Zealand,18,JDP Oram,JM Anderson,CS Martin,wides,1,1,0,,,,3472347
+2,New Zealand,18,JDP Oram,JM Anderson,CS Martin,,0,0,0,,,,3472347
+2,New Zealand,18,JDP Oram,JM Anderson,CS Martin,,0,4,4,,,,3472347
+2,New Zealand,18,JDP Oram,JM Anderson,CS Martin,,0,1,1,,,,3472347
+2,New Zealand,18,CS Martin,JM Anderson,JDP Oram,,0,0,0,,,,3472347
+2,New Zealand,19,JDP Oram,RJ Sidebottom,CS Martin,,0,4,4,,,,3472347
+2,New Zealand,19,JDP Oram,RJ Sidebottom,CS Martin,,0,0,0,caught,JDP Oram,IR Bell,3472347

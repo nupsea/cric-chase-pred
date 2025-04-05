@@ -1,0 +1,81 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Zimbabwe,0,BRM Taylor,CA Young,H Masakadza,,0,0,0,,,,398323983
+1,Zimbabwe,0,BRM Taylor,CA Young,H Masakadza,,0,0,0,,,,398323983
+1,Zimbabwe,0,BRM Taylor,CA Young,H Masakadza,,0,4,4,,,,398323983
+1,Zimbabwe,0,BRM Taylor,CA Young,H Masakadza,,0,0,0,,,,398323983
+1,Zimbabwe,0,BRM Taylor,CA Young,H Masakadza,,0,1,1,,,,398323983
+1,Zimbabwe,0,H Masakadza,CA Young,BRM Taylor,,0,0,0,,,,398323983
+1,Zimbabwe,1,BRM Taylor,TE Kane,H Masakadza,,0,0,0,,,,398323983
+1,Zimbabwe,1,BRM Taylor,TE Kane,H Masakadza,,0,1,1,,,,398323983
+1,Zimbabwe,1,H Masakadza,TE Kane,BRM Taylor,wides,1,1,0,,,,398323983
+1,Zimbabwe,1,H Masakadza,TE Kane,BRM Taylor,,0,0,0,,,,398323983
+1,Zimbabwe,1,H Masakadza,TE Kane,BRM Taylor,,0,1,1,,,,398323983
+1,Zimbabwe,1,BRM Taylor,TE Kane,H Masakadza,,0,4,4,,,,398323983
+1,Zimbabwe,1,BRM Taylor,TE Kane,H Masakadza,,0,0,0,,,,398323983
+1,Zimbabwe,2,H Masakadza,CA Young,BRM Taylor,,0,0,0,caught,H Masakadza,KJ O'Brien,398323983
+1,Zimbabwe,2,CR Ervine,CA Young,BRM Taylor,,0,0,0,,,,398323983
+1,Zimbabwe,2,CR Ervine,CA Young,BRM Taylor,,0,0,0,,,,398323983
+1,Zimbabwe,2,CR Ervine,CA Young,BRM Taylor,,0,0,0,,,,398323983
+1,Zimbabwe,2,CR Ervine,CA Young,BRM Taylor,,0,4,4,,,,398323983
+1,Zimbabwe,2,CR Ervine,CA Young,BRM Taylor,,0,0,0,,,,398323983
+1,Zimbabwe,3,BRM Taylor,MR Adair,CR Ervine,,0,4,4,,,,398323983
+1,Zimbabwe,3,BRM Taylor,MR Adair,CR Ervine,,0,0,0,caught,BRM Taylor,L Tucker,398323983
+1,Zimbabwe,3,CR Ervine,MR Adair,SC Williams,,0,4,4,,,,398323983
+1,Zimbabwe,3,CR Ervine,MR Adair,SC Williams,,0,0,0,,,,398323983
+1,Zimbabwe,3,CR Ervine,MR Adair,SC Williams,,0,1,1,,,,398323983
+1,Zimbabwe,3,SC Williams,MR Adair,CR Ervine,,0,4,4,,,,398323983
+1,Zimbabwe,4,CR Ervine,TE Kane,SC Williams,,0,4,4,,,,398323983
+1,Zimbabwe,4,CR Ervine,TE Kane,SC Williams,,0,0,0,,,,398323983
+1,Zimbabwe,4,CR Ervine,TE Kane,SC Williams,,0,1,1,,,,398323983
+1,Zimbabwe,4,SC Williams,TE Kane,CR Ervine,,0,4,4,,,,398323983
+1,Zimbabwe,4,SC Williams,TE Kane,CR Ervine,,0,1,1,,,,398323983
+1,Zimbabwe,4,CR Ervine,TE Kane,SC Williams,,0,1,1,,,,398323983
+1,Zimbabwe,5,CR Ervine,SC Getkate,SC Williams,,0,0,0,,,,398323983
+1,Zimbabwe,5,CR Ervine,SC Getkate,SC Williams,,0,2,2,,,,398323983
+1,Zimbabwe,5,CR Ervine,SC Getkate,SC Williams,,0,6,6,,,,398323983
+1,Zimbabwe,5,CR Ervine,SC Getkate,SC Williams,,0,1,1,,,,398323983
+1,Zimbabwe,5,SC Williams,SC Getkate,CR Ervine,,0,0,0,,,,398323983
+1,Zimbabwe,5,SC Williams,SC Getkate,CR Ervine,,0,4,4,,,,398323983
+1,Zimbabwe,6,CR Ervine,GJ Delany,SC Williams,,0,1,1,,,,398323983
+1,Zimbabwe,6,SC Williams,GJ Delany,CR Ervine,,0,1,1,,,,398323983
+1,Zimbabwe,6,CR Ervine,GJ Delany,SC Williams,,0,6,6,,,,398323983
+1,Zimbabwe,6,CR Ervine,GJ Delany,SC Williams,,0,1,1,,,,398323983
+1,Zimbabwe,6,SC Williams,GJ Delany,CR Ervine,,0,6,6,,,,398323983
+1,Zimbabwe,6,SC Williams,GJ Delany,CR Ervine,,0,1,1,,,,398323983
+1,Zimbabwe,7,SC Williams,MR Adair,CR Ervine,,0,6,6,,,,398323983
+1,Zimbabwe,7,SC Williams,MR Adair,CR Ervine,,0,6,6,,,,398323983
+1,Zimbabwe,7,SC Williams,MR Adair,CR Ervine,,0,1,1,,,,398323983
+1,Zimbabwe,7,CR Ervine,MR Adair,SC Williams,,0,4,4,,,,398323983
+1,Zimbabwe,7,CR Ervine,MR Adair,SC Williams,,0,1,1,,,,398323983
+1,Zimbabwe,7,SC Williams,MR Adair,CR Ervine,,0,0,0,caught,SC Williams,PR Stirling,398323983
+1,Zimbabwe,8,CR Ervine,SC Getkate,Sikandar Raza,,0,1,1,,,,398323983
+1,Zimbabwe,8,Sikandar Raza,SC Getkate,CR Ervine,,0,0,0,,,,398323983
+1,Zimbabwe,8,Sikandar Raza,SC Getkate,CR Ervine,,0,1,1,,,,398323983
+1,Zimbabwe,8,CR Ervine,SC Getkate,Sikandar Raza,,0,6,6,,,,398323983
+1,Zimbabwe,8,CR Ervine,SC Getkate,Sikandar Raza,,0,0,0,,,,398323983
+1,Zimbabwe,8,CR Ervine,SC Getkate,Sikandar Raza,,0,1,1,,,,398323983
+1,Zimbabwe,9,CR Ervine,GJ Delany,Sikandar Raza,,0,4,4,,,,398323983
+1,Zimbabwe,9,CR Ervine,GJ Delany,Sikandar Raza,,0,0,0,,,,398323983
+1,Zimbabwe,9,CR Ervine,GJ Delany,Sikandar Raza,,0,1,1,,,,398323983
+1,Zimbabwe,9,Sikandar Raza,GJ Delany,CR Ervine,,0,0,0,,,,398323983
+1,Zimbabwe,9,Sikandar Raza,GJ Delany,CR Ervine,legbyes,1,1,0,,,,398323983
+1,Zimbabwe,9,CR Ervine,GJ Delany,Sikandar Raza,,0,4,4,,,,398323983
+1,Zimbabwe,10,Sikandar Raza,SC Getkate,CR Ervine,,0,2,2,,,,398323983
+1,Zimbabwe,10,Sikandar Raza,SC Getkate,CR Ervine,,0,0,0,caught,Sikandar Raza,MR Adair,398323983
+1,Zimbabwe,10,CR Ervine,SC Getkate,RP Burl,wides,1,1,0,,,,398323983
+1,Zimbabwe,10,CR Ervine,SC Getkate,RP Burl,,0,1,1,,,,398323983
+1,Zimbabwe,10,RP Burl,SC Getkate,CR Ervine,,0,0,0,,,,398323983
+1,Zimbabwe,10,RP Burl,SC Getkate,CR Ervine,,0,2,2,,,,398323983
+1,Zimbabwe,10,RP Burl,SC Getkate,CR Ervine,,0,0,0,,,,398323983
+1,Zimbabwe,11,CR Ervine,MR Adair,RP Burl,,0,0,0,,,,398323983
+1,Zimbabwe,11,CR Ervine,MR Adair,RP Burl,,0,0,0,caught,CR Ervine,TE Kane,398323983
+1,Zimbabwe,11,RP Burl,MR Adair,PJ Moor,,0,1,1,,,,398323983
+1,Zimbabwe,11,PJ Moor,MR Adair,RP Burl,,0,4,4,,,,398323983
+1,Zimbabwe,11,PJ Moor,MR Adair,RP Burl,,0,0,0,caught,PJ Moor,A Balbirnie,398323983
+1,Zimbabwe,11,RP Burl,MR Adair,R Mutumbami,,0,4,4,,,,398323983
+1,Zimbabwe,12,R Mutumbami,CA Young,RP Burl,,0,4,4,,,,398323983
+1,Zimbabwe,12,R Mutumbami,CA Young,RP Burl,,0,1,1,,,,398323983
+1,Zimbabwe,12,RP Burl,CA Young,R Mutumbami,,0,1,1,,,,398323983
+1,Zimbabwe,12,R Mutumbami,CA Young,RP Burl,,0,0,0,caught,R Mutumbami,L Tucker,398323983
+1,Zimbabwe,12,RP Burl,CA Young,KM Jarvis,,0,4,4,,,,398323983
+1,Zimbabwe,12,RP Burl,CA Young,KM Jarvis,,0,1,1,run out,RP Burl,,398323983

@@ -1,0 +1,127 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,England,0,JL Denly,CK Langeveldt,AN Cook,,0,0,0,lbw,JL Denly,,310223102
+1,England,0,IJL Trott,CK Langeveldt,AN Cook,wides,1,1,0,,,,310223102
+1,England,0,IJL Trott,CK Langeveldt,AN Cook,,0,0,0,,,,310223102
+1,England,0,IJL Trott,CK Langeveldt,AN Cook,,0,0,0,,,,310223102
+1,England,0,IJL Trott,CK Langeveldt,AN Cook,wides,1,1,0,,,,310223102
+1,England,0,IJL Trott,CK Langeveldt,AN Cook,,0,0,0,,,,310223102
+1,England,0,IJL Trott,CK Langeveldt,AN Cook,,0,0,0,,,,310223102
+1,England,0,IJL Trott,CK Langeveldt,AN Cook,,0,0,0,,,,310223102
+1,England,1,AN Cook,R McLaren,IJL Trott,,0,0,0,,,,310223102
+1,England,1,AN Cook,R McLaren,IJL Trott,,0,1,1,,,,310223102
+1,England,1,IJL Trott,R McLaren,AN Cook,,0,1,1,,,,310223102
+1,England,1,AN Cook,R McLaren,IJL Trott,wides,1,1,0,,,,310223102
+1,England,1,AN Cook,R McLaren,IJL Trott,,0,4,4,,,,310223102
+1,England,1,AN Cook,R McLaren,IJL Trott,,0,0,0,,,,310223102
+1,England,1,AN Cook,R McLaren,IJL Trott,,0,0,0,,,,310223102
+1,England,2,IJL Trott,CK Langeveldt,AN Cook,,0,0,0,,,,310223102
+1,England,2,IJL Trott,CK Langeveldt,AN Cook,,0,4,4,,,,310223102
+1,England,2,IJL Trott,CK Langeveldt,AN Cook,,0,0,0,,,,310223102
+1,England,2,IJL Trott,CK Langeveldt,AN Cook,,0,3,3,,,,310223102
+1,England,2,AN Cook,CK Langeveldt,IJL Trott,,0,3,3,,,,310223102
+1,England,2,IJL Trott,CK Langeveldt,AN Cook,,0,1,1,,,,310223102
+1,England,3,IJL Trott,R McLaren,AN Cook,,0,1,1,,,,310223102
+1,England,3,AN Cook,R McLaren,IJL Trott,,0,3,3,,,,310223102
+1,England,3,IJL Trott,R McLaren,AN Cook,,0,1,1,,,,310223102
+1,England,3,AN Cook,R McLaren,IJL Trott,,0,0,0,lbw,AN Cook,,310223102
+1,England,3,PD Collingwood,R McLaren,IJL Trott,,0,0,0,,,,310223102
+1,England,3,PD Collingwood,R McLaren,IJL Trott,,0,2,2,,,,310223102
+1,England,4,IJL Trott,DW Steyn,PD Collingwood,,0,0,0,,,,310223102
+1,England,4,IJL Trott,DW Steyn,PD Collingwood,,0,2,2,,,,310223102
+1,England,4,IJL Trott,DW Steyn,PD Collingwood,,0,4,4,,,,310223102
+1,England,4,IJL Trott,DW Steyn,PD Collingwood,,0,4,4,,,,310223102
+1,England,4,IJL Trott,DW Steyn,PD Collingwood,,0,4,4,,,,310223102
+1,England,4,IJL Trott,DW Steyn,PD Collingwood,,0,4,4,,,,310223102
+1,England,5,PD Collingwood,JA Morkel,IJL Trott,,0,1,1,,,,310223102
+1,England,5,IJL Trott,JA Morkel,PD Collingwood,,0,0,0,,,,310223102
+1,England,5,IJL Trott,JA Morkel,PD Collingwood,,0,1,1,,,,310223102
+1,England,5,PD Collingwood,JA Morkel,IJL Trott,,0,6,6,,,,310223102
+1,England,5,PD Collingwood,JA Morkel,IJL Trott,,0,1,1,,,,310223102
+1,England,5,IJL Trott,JA Morkel,PD Collingwood,,0,2,2,,,,310223102
+1,England,6,PD Collingwood,RE van der Merwe,IJL Trott,,0,2,2,,,,310223102
+1,England,6,PD Collingwood,RE van der Merwe,IJL Trott,,0,1,1,,,,310223102
+1,England,6,IJL Trott,RE van der Merwe,PD Collingwood,,0,0,0,,,,310223102
+1,England,6,IJL Trott,RE van der Merwe,PD Collingwood,,0,1,1,,,,310223102
+1,England,6,PD Collingwood,RE van der Merwe,IJL Trott,,0,1,1,,,,310223102
+1,England,6,IJL Trott,RE van der Merwe,PD Collingwood,,0,0,0,run out,IJL Trott,RE van der Merwe,310223102
+1,England,7,EJG Morgan,DW Steyn,PD Collingwood,,0,1,1,,,,310223102
+1,England,7,PD Collingwood,DW Steyn,EJG Morgan,,0,0,0,,,,310223102
+1,England,7,PD Collingwood,DW Steyn,EJG Morgan,,0,1,1,,,,310223102
+1,England,7,EJG Morgan,DW Steyn,PD Collingwood,,0,1,1,,,,310223102
+1,England,7,PD Collingwood,DW Steyn,EJG Morgan,,0,0,0,,,,310223102
+1,England,7,PD Collingwood,DW Steyn,EJG Morgan,,0,2,2,,,,310223102
+1,England,8,EJG Morgan,J Botha,PD Collingwood,,0,1,1,,,,310223102
+1,England,8,PD Collingwood,J Botha,EJG Morgan,wides,1,1,0,,,,310223102
+1,England,8,PD Collingwood,J Botha,EJG Morgan,,0,1,1,,,,310223102
+1,England,8,EJG Morgan,J Botha,PD Collingwood,,0,4,4,,,,310223102
+1,England,8,EJG Morgan,J Botha,PD Collingwood,,0,0,0,,,,310223102
+1,England,8,EJG Morgan,J Botha,PD Collingwood,,0,2,2,,,,310223102
+1,England,8,EJG Morgan,J Botha,PD Collingwood,,0,0,0,,,,310223102
+1,England,9,PD Collingwood,RE van der Merwe,EJG Morgan,,0,1,1,,,,310223102
+1,England,9,EJG Morgan,RE van der Merwe,PD Collingwood,,0,1,1,,,,310223102
+1,England,9,PD Collingwood,RE van der Merwe,EJG Morgan,,0,0,0,,,,310223102
+1,England,9,PD Collingwood,RE van der Merwe,EJG Morgan,,0,6,6,,,,310223102
+1,England,9,PD Collingwood,RE van der Merwe,EJG Morgan,,0,0,0,,,,310223102
+1,England,9,PD Collingwood,RE van der Merwe,EJG Morgan,,0,4,4,,,,310223102
+1,England,10,EJG Morgan,J Botha,PD Collingwood,,0,0,0,,,,310223102
+1,England,10,EJG Morgan,J Botha,PD Collingwood,,0,1,1,,,,310223102
+1,England,10,PD Collingwood,J Botha,EJG Morgan,wides,1,1,0,,,,310223102
+1,England,10,PD Collingwood,J Botha,EJG Morgan,,0,4,4,,,,310223102
+1,England,10,PD Collingwood,J Botha,EJG Morgan,,0,1,1,,,,310223102
+1,England,10,EJG Morgan,J Botha,PD Collingwood,,0,2,2,,,,310223102
+1,England,10,EJG Morgan,J Botha,PD Collingwood,,0,1,1,,,,310223102
+1,England,11,EJG Morgan,DW Steyn,PD Collingwood,,0,4,4,,,,310223102
+1,England,11,EJG Morgan,DW Steyn,PD Collingwood,,0,1,1,,,,310223102
+1,England,11,PD Collingwood,DW Steyn,EJG Morgan,,0,1,1,,,,310223102
+1,England,11,EJG Morgan,DW Steyn,PD Collingwood,,0,6,6,,,,310223102
+1,England,11,EJG Morgan,DW Steyn,PD Collingwood,,0,2,2,,,,310223102
+1,England,11,EJG Morgan,DW Steyn,PD Collingwood,,0,0,0,,,,310223102
+1,England,12,PD Collingwood,J Botha,EJG Morgan,,0,1,1,,,,310223102
+1,England,12,EJG Morgan,J Botha,PD Collingwood,,0,1,1,,,,310223102
+1,England,12,PD Collingwood,J Botha,EJG Morgan,,0,1,1,,,,310223102
+1,England,12,EJG Morgan,J Botha,PD Collingwood,,0,0,0,,,,310223102
+1,England,12,EJG Morgan,J Botha,PD Collingwood,,0,4,4,,,,310223102
+1,England,12,EJG Morgan,J Botha,PD Collingwood,,0,1,1,,,,310223102
+1,England,13,EJG Morgan,JA Morkel,PD Collingwood,,0,0,0,,,,310223102
+1,England,13,EJG Morgan,JA Morkel,PD Collingwood,,0,4,4,,,,310223102
+1,England,13,EJG Morgan,JA Morkel,PD Collingwood,,0,6,6,,,,310223102
+1,England,13,EJG Morgan,JA Morkel,PD Collingwood,,0,4,4,,,,310223102
+1,England,13,EJG Morgan,JA Morkel,PD Collingwood,,0,1,1,,,,310223102
+1,England,13,PD Collingwood,JA Morkel,EJG Morgan,,0,6,6,,,,310223102
+1,England,14,EJG Morgan,J Botha,PD Collingwood,,0,1,1,,,,310223102
+1,England,14,PD Collingwood,J Botha,EJG Morgan,,0,2,2,,,,310223102
+1,England,14,PD Collingwood,J Botha,EJG Morgan,,0,4,4,,,,310223102
+1,England,14,PD Collingwood,J Botha,EJG Morgan,,0,1,1,,,,310223102
+1,England,14,EJG Morgan,J Botha,PD Collingwood,,0,0,0,,,,310223102
+1,England,14,EJG Morgan,J Botha,PD Collingwood,,0,1,1,,,,310223102
+1,England,15,EJG Morgan,CK Langeveldt,PD Collingwood,,0,1,1,,,,310223102
+1,England,15,PD Collingwood,CK Langeveldt,EJG Morgan,,0,0,0,,,,310223102
+1,England,15,PD Collingwood,CK Langeveldt,EJG Morgan,,0,6,6,,,,310223102
+1,England,15,PD Collingwood,CK Langeveldt,EJG Morgan,legbyes,1,1,0,,,,310223102
+1,England,15,EJG Morgan,CK Langeveldt,PD Collingwood,,0,1,1,,,,310223102
+1,England,15,PD Collingwood,CK Langeveldt,EJG Morgan,,0,1,1,,,,310223102
+1,England,16,PD Collingwood,R McLaren,EJG Morgan,,0,0,0,caught,PD Collingwood,J Botha,310223102
+1,England,16,EJG Morgan,R McLaren,LJ Wright,,0,1,1,,,,310223102
+1,England,16,LJ Wright,R McLaren,EJG Morgan,,0,0,0,,,,310223102
+1,England,16,LJ Wright,R McLaren,EJG Morgan,,0,1,1,,,,310223102
+1,England,16,EJG Morgan,R McLaren,LJ Wright,legbyes,1,1,0,,,,310223102
+1,England,16,LJ Wright,R McLaren,EJG Morgan,legbyes,1,1,0,,,,310223102
+1,England,17,LJ Wright,DW Steyn,EJG Morgan,,0,1,1,,,,310223102
+1,England,17,EJG Morgan,DW Steyn,LJ Wright,,0,2,2,,,,310223102
+1,England,17,EJG Morgan,DW Steyn,LJ Wright,legbyes,1,1,0,,,,310223102
+1,England,17,LJ Wright,DW Steyn,EJG Morgan,,0,0,0,caught,LJ Wright,AB de Villiers,310223102
+1,England,17,EJG Morgan,DW Steyn,MJ Prior,,0,0,0,,,,310223102
+1,England,17,EJG Morgan,DW Steyn,MJ Prior,legbyes,1,1,0,,,,310223102
+1,England,18,EJG Morgan,R McLaren,MJ Prior,,0,1,1,,,,310223102
+1,England,18,MJ Prior,R McLaren,EJG Morgan,,0,0,0,caught,MJ Prior,JA Morkel,310223102
+1,England,18,TT Bresnan,R McLaren,EJG Morgan,,0,1,1,,,,310223102
+1,England,18,EJG Morgan,R McLaren,TT Bresnan,,0,4,4,,,,310223102
+1,England,18,EJG Morgan,R McLaren,TT Bresnan,wides,1,1,0,,,,310223102
+1,England,18,EJG Morgan,R McLaren,TT Bresnan,,0,6,6,,,,310223102
+1,England,18,EJG Morgan,R McLaren,TT Bresnan,,0,4,4,,,,310223102
+1,England,19,TT Bresnan,CK Langeveldt,EJG Morgan,,0,1,1,,,,310223102
+1,England,19,EJG Morgan,CK Langeveldt,TT Bresnan,,0,1,1,,,,310223102
+1,England,19,TT Bresnan,CK Langeveldt,EJG Morgan,,0,1,1,,,,310223102
+1,England,19,EJG Morgan,CK Langeveldt,TT Bresnan,,0,6,6,,,,310223102
+1,England,19,EJG Morgan,CK Langeveldt,TT Bresnan,,0,6,6,,,,310223102
+1,England,19,EJG Morgan,CK Langeveldt,TT Bresnan,,0,2,2,,,,310223102

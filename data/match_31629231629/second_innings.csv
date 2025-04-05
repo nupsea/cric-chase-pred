@@ -1,0 +1,85 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Sri Lanka,0,P Nissanka,D Wiese,MDKJ Perera,,0,1,1,,,,31629231629
+2,Sri Lanka,0,MDKJ Perera,D Wiese,P Nissanka,,0,1,1,,,,31629231629
+2,Sri Lanka,0,P Nissanka,D Wiese,MDKJ Perera,,0,1,1,,,,31629231629
+2,Sri Lanka,0,MDKJ Perera,D Wiese,P Nissanka,,0,0,0,,,,31629231629
+2,Sri Lanka,0,MDKJ Perera,D Wiese,P Nissanka,,0,0,0,,,,31629231629
+2,Sri Lanka,0,MDKJ Perera,D Wiese,P Nissanka,,0,1,1,,,,31629231629
+2,Sri Lanka,1,MDKJ Perera,R Trumpelmann,P Nissanka,,0,4,4,,,,31629231629
+2,Sri Lanka,1,MDKJ Perera,R Trumpelmann,P Nissanka,,0,4,4,,,,31629231629
+2,Sri Lanka,1,MDKJ Perera,R Trumpelmann,P Nissanka,,0,1,1,,,,31629231629
+2,Sri Lanka,1,P Nissanka,R Trumpelmann,MDKJ Perera,,0,1,1,,,,31629231629
+2,Sri Lanka,1,MDKJ Perera,R Trumpelmann,P Nissanka,,0,0,0,caught,MDKJ Perera,JJ Smit,31629231629
+2,Sri Lanka,1,P Nissanka,R Trumpelmann,LD Chandimal,,0,1,1,,,,31629231629
+2,Sri Lanka,2,P Nissanka,BM Scholtz,LD Chandimal,wides,1,1,0,,,,31629231629
+2,Sri Lanka,2,P Nissanka,BM Scholtz,LD Chandimal,,0,1,1,,,,31629231629
+2,Sri Lanka,2,LD Chandimal,BM Scholtz,P Nissanka,,0,0,0,,,,31629231629
+2,Sri Lanka,2,LD Chandimal,BM Scholtz,P Nissanka,,0,0,0,,,,31629231629
+2,Sri Lanka,2,LD Chandimal,BM Scholtz,P Nissanka,,0,0,0,,,,31629231629
+2,Sri Lanka,2,LD Chandimal,BM Scholtz,P Nissanka,,0,1,1,,,,31629231629
+2,Sri Lanka,2,P Nissanka,BM Scholtz,LD Chandimal,,0,0,0,lbw,P Nissanka,,31629231629
+2,Sri Lanka,3,LD Chandimal,R Trumpelmann,WIA Fernando,,0,1,1,,,,31629231629
+2,Sri Lanka,3,WIA Fernando,R Trumpelmann,LD Chandimal,,0,1,1,,,,31629231629
+2,Sri Lanka,3,LD Chandimal,R Trumpelmann,WIA Fernando,,0,1,1,,,,31629231629
+2,Sri Lanka,3,WIA Fernando,R Trumpelmann,LD Chandimal,,0,0,0,,,,31629231629
+2,Sri Lanka,3,WIA Fernando,R Trumpelmann,LD Chandimal,,0,0,0,,,,31629231629
+2,Sri Lanka,3,WIA Fernando,R Trumpelmann,LD Chandimal,,0,2,2,,,,31629231629
+2,Sri Lanka,4,LD Chandimal,BM Scholtz,WIA Fernando,,0,0,0,,,,31629231629
+2,Sri Lanka,4,LD Chandimal,BM Scholtz,WIA Fernando,,0,0,0,,,,31629231629
+2,Sri Lanka,4,LD Chandimal,BM Scholtz,WIA Fernando,,0,0,0,,,,31629231629
+2,Sri Lanka,4,LD Chandimal,BM Scholtz,WIA Fernando,,0,1,1,,,,31629231629
+2,Sri Lanka,4,WIA Fernando,BM Scholtz,LD Chandimal,,0,1,1,,,,31629231629
+2,Sri Lanka,4,LD Chandimal,BM Scholtz,WIA Fernando,,0,1,1,,,,31629231629
+2,Sri Lanka,5,LD Chandimal,JJ Smit,WIA Fernando,,0,0,0,caught,LD Chandimal,ZE Green,31629231629
+2,Sri Lanka,5,PBB Rajapaksa,JJ Smit,WIA Fernando,,0,1,1,,,,31629231629
+2,Sri Lanka,5,WIA Fernando,JJ Smit,PBB Rajapaksa,,0,0,0,,,,31629231629
+2,Sri Lanka,5,WIA Fernando,JJ Smit,PBB Rajapaksa,,0,6,6,,,,31629231629
+2,Sri Lanka,5,WIA Fernando,JJ Smit,PBB Rajapaksa,,0,0,0,,,,31629231629
+2,Sri Lanka,5,WIA Fernando,JJ Smit,PBB Rajapaksa,legbyes,4,4,0,,,,31629231629
+2,Sri Lanka,6,PBB Rajapaksa,HN Ya France,WIA Fernando,,0,0,0,,,,31629231629
+2,Sri Lanka,6,PBB Rajapaksa,HN Ya France,WIA Fernando,,0,0,0,,,,31629231629
+2,Sri Lanka,6,PBB Rajapaksa,HN Ya France,WIA Fernando,,0,0,0,,,,31629231629
+2,Sri Lanka,6,PBB Rajapaksa,HN Ya France,WIA Fernando,,0,4,4,,,,31629231629
+2,Sri Lanka,6,PBB Rajapaksa,HN Ya France,WIA Fernando,,0,1,1,,,,31629231629
+2,Sri Lanka,6,WIA Fernando,HN Ya France,PBB Rajapaksa,,0,1,1,,,,31629231629
+2,Sri Lanka,7,WIA Fernando,JN Loftie-Eaton,PBB Rajapaksa,,0,1,1,,,,31629231629
+2,Sri Lanka,7,PBB Rajapaksa,JN Loftie-Eaton,WIA Fernando,,0,4,4,,,,31629231629
+2,Sri Lanka,7,PBB Rajapaksa,JN Loftie-Eaton,WIA Fernando,,0,0,0,,,,31629231629
+2,Sri Lanka,7,PBB Rajapaksa,JN Loftie-Eaton,WIA Fernando,,0,1,1,,,,31629231629
+2,Sri Lanka,7,WIA Fernando,JN Loftie-Eaton,PBB Rajapaksa,,0,0,0,,,,31629231629
+2,Sri Lanka,7,WIA Fernando,JN Loftie-Eaton,PBB Rajapaksa,,0,1,1,,,,31629231629
+2,Sri Lanka,8,WIA Fernando,BM Scholtz,PBB Rajapaksa,,0,0,0,,,,31629231629
+2,Sri Lanka,8,WIA Fernando,BM Scholtz,PBB Rajapaksa,,0,2,2,,,,31629231629
+2,Sri Lanka,8,WIA Fernando,BM Scholtz,PBB Rajapaksa,,0,1,1,,,,31629231629
+2,Sri Lanka,8,PBB Rajapaksa,BM Scholtz,WIA Fernando,,0,6,6,,,,31629231629
+2,Sri Lanka,8,PBB Rajapaksa,BM Scholtz,WIA Fernando,,0,1,1,,,,31629231629
+2,Sri Lanka,8,WIA Fernando,BM Scholtz,PBB Rajapaksa,,0,0,0,,,,31629231629
+2,Sri Lanka,9,PBB Rajapaksa,JN Frylinck,WIA Fernando,,0,0,0,,,,31629231629
+2,Sri Lanka,9,PBB Rajapaksa,JN Frylinck,WIA Fernando,,0,4,4,,,,31629231629
+2,Sri Lanka,9,PBB Rajapaksa,JN Frylinck,WIA Fernando,,0,0,0,,,,31629231629
+2,Sri Lanka,9,PBB Rajapaksa,JN Frylinck,WIA Fernando,,0,4,4,,,,31629231629
+2,Sri Lanka,9,PBB Rajapaksa,JN Frylinck,WIA Fernando,,0,0,0,,,,31629231629
+2,Sri Lanka,9,PBB Rajapaksa,JN Frylinck,WIA Fernando,,0,0,0,,,,31629231629
+2,Sri Lanka,10,WIA Fernando,MG Erasmus,PBB Rajapaksa,,0,0,0,,,,31629231629
+2,Sri Lanka,10,WIA Fernando,MG Erasmus,PBB Rajapaksa,,0,1,1,,,,31629231629
+2,Sri Lanka,10,PBB Rajapaksa,MG Erasmus,WIA Fernando,,0,0,0,,,,31629231629
+2,Sri Lanka,10,PBB Rajapaksa,MG Erasmus,WIA Fernando,wides,1,1,0,,,,31629231629
+2,Sri Lanka,10,PBB Rajapaksa,MG Erasmus,WIA Fernando,,0,1,1,,,,31629231629
+2,Sri Lanka,10,WIA Fernando,MG Erasmus,PBB Rajapaksa,,0,1,1,,,,31629231629
+2,Sri Lanka,10,PBB Rajapaksa,MG Erasmus,WIA Fernando,,0,1,1,,,,31629231629
+2,Sri Lanka,11,PBB Rajapaksa,D Wiese,WIA Fernando,,0,1,1,,,,31629231629
+2,Sri Lanka,11,WIA Fernando,D Wiese,PBB Rajapaksa,,0,1,1,,,,31629231629
+2,Sri Lanka,11,PBB Rajapaksa,D Wiese,WIA Fernando,wides,1,1,0,,,,31629231629
+2,Sri Lanka,11,PBB Rajapaksa,D Wiese,WIA Fernando,,0,1,1,,,,31629231629
+2,Sri Lanka,11,WIA Fernando,D Wiese,PBB Rajapaksa,,0,0,0,,,,31629231629
+2,Sri Lanka,11,WIA Fernando,D Wiese,PBB Rajapaksa,,0,1,1,,,,31629231629
+2,Sri Lanka,11,PBB Rajapaksa,D Wiese,WIA Fernando,,0,2,2,,,,31629231629
+2,Sri Lanka,12,WIA Fernando,R Trumpelmann,PBB Rajapaksa,,0,6,6,,,,31629231629
+2,Sri Lanka,12,WIA Fernando,R Trumpelmann,PBB Rajapaksa,,0,1,1,,,,31629231629
+2,Sri Lanka,12,PBB Rajapaksa,R Trumpelmann,WIA Fernando,,0,1,1,,,,31629231629
+2,Sri Lanka,12,WIA Fernando,R Trumpelmann,PBB Rajapaksa,,0,1,1,,,,31629231629
+2,Sri Lanka,12,PBB Rajapaksa,R Trumpelmann,WIA Fernando,,0,1,1,,,,31629231629
+2,Sri Lanka,12,WIA Fernando,R Trumpelmann,PBB Rajapaksa,,0,1,1,,,,31629231629
+2,Sri Lanka,13,WIA Fernando,JN Frylinck,PBB Rajapaksa,,0,1,1,,,,31629231629
+2,Sri Lanka,13,PBB Rajapaksa,JN Frylinck,WIA Fernando,,0,2,2,,,,31629231629
+2,Sri Lanka,13,PBB Rajapaksa,JN Frylinck,WIA Fernando,,0,6,6,,,,31629231629

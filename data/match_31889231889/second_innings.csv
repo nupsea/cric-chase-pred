@@ -1,0 +1,73 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Qatar,0,Aysha,K Kunwar,KE Pounsett,,0,0,0,,,,31889231889
+2,Qatar,0,Aysha,K Kunwar,KE Pounsett,,0,0,0,lbw,Aysha,,31889231889
+2,Qatar,0,S Dhadwal,K Kunwar,KE Pounsett,,0,0,0,lbw,S Dhadwal,,31889231889
+2,Qatar,0,Rizpha Bano,K Kunwar,KE Pounsett,,0,0,0,,,,31889231889
+2,Qatar,0,Rizpha Bano,K Kunwar,KE Pounsett,,0,1,1,,,,31889231889
+2,Qatar,0,KE Pounsett,K Kunwar,Rizpha Bano,,0,0,0,,,,31889231889
+2,Qatar,1,Rizpha Bano,SC Kumari,KE Pounsett,,0,0,0,,,,31889231889
+2,Qatar,1,Rizpha Bano,SC Kumari,KE Pounsett,,0,0,0,,,,31889231889
+2,Qatar,1,Rizpha Bano,SC Kumari,KE Pounsett,,0,1,1,,,,31889231889
+2,Qatar,1,KE Pounsett,SC Kumari,Rizpha Bano,,0,0,0,,,,31889231889
+2,Qatar,1,KE Pounsett,SC Kumari,Rizpha Bano,,0,1,1,,,,31889231889
+2,Qatar,1,Rizpha Bano,SC Kumari,KE Pounsett,,0,0,0,,,,31889231889
+2,Qatar,2,KE Pounsett,K Kunwar,Rizpha Bano,,0,0,0,,,,31889231889
+2,Qatar,2,KE Pounsett,K Kunwar,Rizpha Bano,,0,0,0,,,,31889231889
+2,Qatar,2,KE Pounsett,K Kunwar,Rizpha Bano,,0,0,0,,,,31889231889
+2,Qatar,2,KE Pounsett,K Kunwar,Rizpha Bano,,0,2,2,,,,31889231889
+2,Qatar,2,KE Pounsett,K Kunwar,Rizpha Bano,,0,1,1,,,,31889231889
+2,Qatar,2,Rizpha Bano,K Kunwar,KE Pounsett,,0,0,0,,,,31889231889
+2,Qatar,3,KE Pounsett,SC Kumari,Rizpha Bano,,0,0,0,,,,31889231889
+2,Qatar,3,KE Pounsett,SC Kumari,Rizpha Bano,,0,0,0,,,,31889231889
+2,Qatar,3,KE Pounsett,SC Kumari,Rizpha Bano,,0,2,2,,,,31889231889
+2,Qatar,3,KE Pounsett,SC Kumari,Rizpha Bano,,0,0,0,,,,31889231889
+2,Qatar,3,KE Pounsett,SC Kumari,Rizpha Bano,,0,0,0,,,,31889231889
+2,Qatar,3,KE Pounsett,SC Kumari,Rizpha Bano,,0,1,1,,,,31889231889
+2,Qatar,4,KE Pounsett,SR Magar,Rizpha Bano,,0,0,0,,,,31889231889
+2,Qatar,4,KE Pounsett,SR Magar,Rizpha Bano,,0,0,0,bowled,KE Pounsett,,31889231889
+2,Qatar,4,Aleena Khan,SR Magar,Rizpha Bano,,0,0,0,bowled,Aleena Khan,,31889231889
+2,Qatar,4,H Agarwal,SR Magar,Rizpha Bano,,0,0,0,,,,31889231889
+2,Qatar,4,H Agarwal,SR Magar,Rizpha Bano,,0,0,0,,,,31889231889
+2,Qatar,4,H Agarwal,SR Magar,Rizpha Bano,,0,0,0,,,,31889231889
+2,Qatar,5,Rizpha Bano,Karuna Bhandari,H Agarwal,,0,0,0,,,,31889231889
+2,Qatar,5,Rizpha Bano,Karuna Bhandari,H Agarwal,,0,1,1,run out,H Agarwal,K Kunwar,31889231889
+2,Qatar,5,Khadija Imtiaz,Karuna Bhandari,Rizpha Bano,,0,1,1,,,,31889231889
+2,Qatar,5,Rizpha Bano,Karuna Bhandari,Khadija Imtiaz,,0,0,0,,,,31889231889
+2,Qatar,5,Rizpha Bano,Karuna Bhandari,Khadija Imtiaz,,0,0,0,,,,31889231889
+2,Qatar,5,Rizpha Bano,Karuna Bhandari,Khadija Imtiaz,,0,0,0,,,,31889231889
+2,Qatar,6,Khadija Imtiaz,SR Magar,Rizpha Bano,,0,0,0,,,,31889231889
+2,Qatar,6,Khadija Imtiaz,SR Magar,Rizpha Bano,,0,0,0,,,,31889231889
+2,Qatar,6,Khadija Imtiaz,SR Magar,Rizpha Bano,,0,2,2,,,,31889231889
+2,Qatar,6,Khadija Imtiaz,SR Magar,Rizpha Bano,,0,0,0,,,,31889231889
+2,Qatar,6,Khadija Imtiaz,SR Magar,Rizpha Bano,wides,1,1,0,,,,31889231889
+2,Qatar,6,Khadija Imtiaz,SR Magar,Rizpha Bano,,0,0,0,,,,31889231889
+2,Qatar,6,Khadija Imtiaz,SR Magar,Rizpha Bano,,0,0,0,,,,31889231889
+2,Qatar,7,Rizpha Bano,Karuna Bhandari,Khadija Imtiaz,,0,0,0,,,,31889231889
+2,Qatar,7,Rizpha Bano,Karuna Bhandari,Khadija Imtiaz,,0,0,0,,,,31889231889
+2,Qatar,7,Rizpha Bano,Karuna Bhandari,Khadija Imtiaz,,0,0,0,caught,Rizpha Bano,S Magar,31889231889
+2,Qatar,7,A Mare,Karuna Bhandari,Khadija Imtiaz,,0,0,0,,,,31889231889
+2,Qatar,7,A Mare,Karuna Bhandari,Khadija Imtiaz,,0,0,0,,,,31889231889
+2,Qatar,7,A Mare,Karuna Bhandari,Khadija Imtiaz,,0,0,0,,,,31889231889
+2,Qatar,8,Khadija Imtiaz,Sangita Rai,A Mare,,0,0,0,,,,31889231889
+2,Qatar,8,Khadija Imtiaz,Sangita Rai,A Mare,,0,4,4,,,,31889231889
+2,Qatar,8,Khadija Imtiaz,Sangita Rai,A Mare,,0,1,1,,,,31889231889
+2,Qatar,8,A Mare,Sangita Rai,Khadija Imtiaz,,0,0,0,,,,31889231889
+2,Qatar,8,A Mare,Sangita Rai,Khadija Imtiaz,,0,4,4,,,,31889231889
+2,Qatar,8,A Mare,Sangita Rai,Khadija Imtiaz,,0,1,1,,,,31889231889
+2,Qatar,9,A Mare,RC Belbashi,Khadija Imtiaz,,0,0,0,,,,31889231889
+2,Qatar,9,A Mare,RC Belbashi,Khadija Imtiaz,,0,0,0,,,,31889231889
+2,Qatar,9,A Mare,RC Belbashi,Khadija Imtiaz,,0,1,1,,,,31889231889
+2,Qatar,9,Khadija Imtiaz,RC Belbashi,A Mare,,0,0,0,,,,31889231889
+2,Qatar,9,Khadija Imtiaz,RC Belbashi,A Mare,,0,0,0,,,,31889231889
+2,Qatar,9,Khadija Imtiaz,RC Belbashi,A Mare,,0,0,0,,,,31889231889
+2,Qatar,10,A Mare,K Kunwar,Khadija Imtiaz,,0,0,0,,,,31889231889
+2,Qatar,10,A Mare,K Kunwar,Khadija Imtiaz,,0,1,1,,,,31889231889
+2,Qatar,10,Khadija Imtiaz,K Kunwar,A Mare,,0,0,0,,,,31889231889
+2,Qatar,10,Khadija Imtiaz,K Kunwar,A Mare,,0,0,0,,,,31889231889
+2,Qatar,10,Khadija Imtiaz,K Kunwar,A Mare,,0,0,0,run out,Khadija Imtiaz,K Kunwar,31889231889
+2,Qatar,10,A Mare,K Kunwar,SA Panayan,,0,1,1,,,,31889231889
+2,Qatar,11,A Mare,RC Belbashi,SA Panayan,,0,0,0,caught,A Mare,Sangita Rai,31889231889
+2,Qatar,11,Shahreeennawab,RC Belbashi,SA Panayan,,0,0,0,,,,31889231889
+2,Qatar,11,Shahreeennawab,RC Belbashi,SA Panayan,,0,0,0,stumped,Shahreeennawab,K Shrestha,31889231889
+2,Qatar,11,Aisha Rahman,RC Belbashi,SA Panayan,,0,0,0,,,,31889231889
+2,Qatar,11,Aisha Rahman,RC Belbashi,SA Panayan,,0,0,0,bowled,Aisha Rahman,,31889231889

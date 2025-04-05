@@ -1,0 +1,107 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Oman,0,Jatinder Singh,KS Airee,KH Prajapati,,0,1,1,,,,31904231904
+2,Oman,0,KH Prajapati,KS Airee,Jatinder Singh,,0,0,0,,,,31904231904
+2,Oman,0,KH Prajapati,KS Airee,Jatinder Singh,,0,0,0,caught,KH Prajapati,DS Airee,31904231904
+2,Oman,0,Ayan Khan,KS Airee,Jatinder Singh,,0,2,2,,,,31904231904
+2,Oman,0,Ayan Khan,KS Airee,Jatinder Singh,,0,0,0,,,,31904231904
+2,Oman,0,Ayan Khan,KS Airee,Jatinder Singh,,0,0,0,,,,31904231904
+2,Oman,1,Jatinder Singh,JK Mukhiya,Ayan Khan,,0,1,1,,,,31904231904
+2,Oman,1,Ayan Khan,JK Mukhiya,Jatinder Singh,,0,1,1,,,,31904231904
+2,Oman,1,Jatinder Singh,JK Mukhiya,Ayan Khan,,0,0,0,,,,31904231904
+2,Oman,1,Jatinder Singh,JK Mukhiya,Ayan Khan,,0,1,1,,,,31904231904
+2,Oman,1,Ayan Khan,JK Mukhiya,Jatinder Singh,wides,1,1,0,,,,31904231904
+2,Oman,1,Ayan Khan,JK Mukhiya,Jatinder Singh,,0,0,0,caught,Ayan Khan,Aasif Sheikh,31904231904
+2,Oman,1,Khawar Ali,JK Mukhiya,Jatinder Singh,,0,0,0,,,,31904231904
+2,Oman,2,Jatinder Singh,KS Airee,Khawar Ali,,0,0,0,,,,31904231904
+2,Oman,2,Jatinder Singh,KS Airee,Khawar Ali,noballs,1,2,1,,,,31904231904
+2,Oman,2,Khawar Ali,KS Airee,Jatinder Singh,,0,1,1,,,,31904231904
+2,Oman,2,Jatinder Singh,KS Airee,Khawar Ali,,0,1,1,,,,31904231904
+2,Oman,2,Khawar Ali,KS Airee,Jatinder Singh,legbyes,4,4,0,,,,31904231904
+2,Oman,2,Khawar Ali,KS Airee,Jatinder Singh,,0,4,4,,,,31904231904
+2,Oman,2,Khawar Ali,KS Airee,Jatinder Singh,,0,0,0,,,,31904231904
+2,Oman,3,Jatinder Singh,JK Mukhiya,Khawar Ali,,0,0,0,,,,31904231904
+2,Oman,3,Jatinder Singh,JK Mukhiya,Khawar Ali,,0,0,0,,,,31904231904
+2,Oman,3,Jatinder Singh,JK Mukhiya,Khawar Ali,,0,0,0,,,,31904231904
+2,Oman,3,Jatinder Singh,JK Mukhiya,Khawar Ali,wides,1,1,0,,,,31904231904
+2,Oman,3,Jatinder Singh,JK Mukhiya,Khawar Ali,,0,0,0,,,,31904231904
+2,Oman,3,Jatinder Singh,JK Mukhiya,Khawar Ali,,0,0,0,,,,31904231904
+2,Oman,3,Jatinder Singh,JK Mukhiya,Khawar Ali,,0,1,1,,,,31904231904
+2,Oman,4,Jatinder Singh,S Lamichhane,Khawar Ali,,0,0,0,,,,31904231904
+2,Oman,4,Jatinder Singh,S Lamichhane,Khawar Ali,,0,0,0,,,,31904231904
+2,Oman,4,Jatinder Singh,S Lamichhane,Khawar Ali,,0,1,1,,,,31904231904
+2,Oman,4,Khawar Ali,S Lamichhane,Jatinder Singh,,0,0,0,,,,31904231904
+2,Oman,4,Khawar Ali,S Lamichhane,Jatinder Singh,,0,0,0,,,,31904231904
+2,Oman,4,Khawar Ali,S Lamichhane,Jatinder Singh,,0,0,0,,,,31904231904
+2,Oman,5,Jatinder Singh,JK Mukhiya,Khawar Ali,,0,2,2,,,,31904231904
+2,Oman,5,Jatinder Singh,JK Mukhiya,Khawar Ali,,0,0,0,run out,Jatinder Singh,DS Airee,31904231904
+2,Oman,5,Khawar Ali,JK Mukhiya,Zeeshan Maqsood,,0,1,1,,,,31904231904
+2,Oman,5,Zeeshan Maqsood,JK Mukhiya,Khawar Ali,,0,0,0,,,,31904231904
+2,Oman,5,Zeeshan Maqsood,JK Mukhiya,Khawar Ali,,0,0,0,,,,31904231904
+2,Oman,5,Zeeshan Maqsood,JK Mukhiya,Khawar Ali,,0,0,0,,,,31904231904
+2,Oman,6,Khawar Ali,S Lamichhane,Zeeshan Maqsood,legbyes,4,4,0,,,,31904231904
+2,Oman,6,Khawar Ali,S Lamichhane,Zeeshan Maqsood,,0,1,1,,,,31904231904
+2,Oman,6,Zeeshan Maqsood,S Lamichhane,Khawar Ali,,0,1,1,,,,31904231904
+2,Oman,6,Khawar Ali,S Lamichhane,Zeeshan Maqsood,,0,0,0,bowled,Khawar Ali,,31904231904
+2,Oman,6,Aamir Kaleem,S Lamichhane,Zeeshan Maqsood,,0,0,0,,,,31904231904
+2,Oman,6,Aamir Kaleem,S Lamichhane,Zeeshan Maqsood,,0,0,0,,,,31904231904
+2,Oman,7,Zeeshan Maqsood,DS Airee,Aamir Kaleem,,0,0,0,,,,31904231904
+2,Oman,7,Zeeshan Maqsood,DS Airee,Aamir Kaleem,,0,1,1,,,,31904231904
+2,Oman,7,Aamir Kaleem,DS Airee,Zeeshan Maqsood,,0,1,1,,,,31904231904
+2,Oman,7,Zeeshan Maqsood,DS Airee,Aamir Kaleem,,0,0,0,,,,31904231904
+2,Oman,7,Zeeshan Maqsood,DS Airee,Aamir Kaleem,,0,0,0,caught,Zeeshan Maqsood,K Bhurtel,31904231904
+2,Oman,7,Aamir Kaleem,DS Airee,Shoaib Khan,,0,0,0,,,,31904231904
+2,Oman,8,Shoaib Khan,A Bohara,Aamir Kaleem,,0,1,1,,,,31904231904
+2,Oman,8,Aamir Kaleem,A Bohara,Shoaib Khan,,0,0,0,,,,31904231904
+2,Oman,8,Aamir Kaleem,A Bohara,Shoaib Khan,,0,1,1,,,,31904231904
+2,Oman,8,Shoaib Khan,A Bohara,Aamir Kaleem,,0,0,0,,,,31904231904
+2,Oman,8,Shoaib Khan,A Bohara,Aamir Kaleem,,0,0,0,caught,Shoaib Khan,Aasif Sheikh,31904231904
+2,Oman,8,Naseem Khushi,A Bohara,Aamir Kaleem,,0,0,0,,,,31904231904
+2,Oman,9,Aamir Kaleem,DS Airee,Naseem Khushi,,0,1,1,,,,31904231904
+2,Oman,9,Naseem Khushi,DS Airee,Aamir Kaleem,,0,0,0,,,,31904231904
+2,Oman,9,Naseem Khushi,DS Airee,Aamir Kaleem,,0,0,0,,,,31904231904
+2,Oman,9,Naseem Khushi,DS Airee,Aamir Kaleem,,0,1,1,,,,31904231904
+2,Oman,9,Aamir Kaleem,DS Airee,Naseem Khushi,,0,1,1,,,,31904231904
+2,Oman,9,Naseem Khushi,DS Airee,Aamir Kaleem,,0,1,1,,,,31904231904
+2,Oman,10,Naseem Khushi,A Bohara,Aamir Kaleem,,0,0,0,,,,31904231904
+2,Oman,10,Naseem Khushi,A Bohara,Aamir Kaleem,,0,0,0,,,,31904231904
+2,Oman,10,Naseem Khushi,A Bohara,Aamir Kaleem,,0,4,4,,,,31904231904
+2,Oman,10,Naseem Khushi,A Bohara,Aamir Kaleem,,0,1,1,,,,31904231904
+2,Oman,10,Aamir Kaleem,A Bohara,Naseem Khushi,,0,1,1,,,,31904231904
+2,Oman,10,Naseem Khushi,A Bohara,Aamir Kaleem,,0,0,0,,,,31904231904
+2,Oman,11,Aamir Kaleem,DS Airee,Naseem Khushi,,0,1,1,,,,31904231904
+2,Oman,11,Naseem Khushi,DS Airee,Aamir Kaleem,,0,0,0,,,,31904231904
+2,Oman,11,Naseem Khushi,DS Airee,Aamir Kaleem,,0,2,2,,,,31904231904
+2,Oman,11,Naseem Khushi,DS Airee,Aamir Kaleem,,0,1,1,,,,31904231904
+2,Oman,11,Aamir Kaleem,DS Airee,Naseem Khushi,,0,1,1,,,,31904231904
+2,Oman,11,Naseem Khushi,DS Airee,Aamir Kaleem,,0,1,1,,,,31904231904
+2,Oman,12,Naseem Khushi,S Lamichhane,Aamir Kaleem,,0,6,6,,,,31904231904
+2,Oman,12,Naseem Khushi,S Lamichhane,Aamir Kaleem,,0,1,1,,,,31904231904
+2,Oman,12,Aamir Kaleem,S Lamichhane,Naseem Khushi,wides,1,1,0,,,,31904231904
+2,Oman,12,Aamir Kaleem,S Lamichhane,Naseem Khushi,,0,1,1,,,,31904231904
+2,Oman,12,Naseem Khushi,S Lamichhane,Aamir Kaleem,,0,6,6,,,,31904231904
+2,Oman,12,Naseem Khushi,S Lamichhane,Aamir Kaleem,,0,0,0,bowled,Naseem Khushi,,31904231904
+2,Oman,12,Fayyaz Butt,S Lamichhane,Aamir Kaleem,,0,0,0,,,,31904231904
+2,Oman,13,Aamir Kaleem,DS Airee,Fayyaz Butt,,0,1,1,,,,31904231904
+2,Oman,13,Fayyaz Butt,DS Airee,Aamir Kaleem,,0,1,1,,,,31904231904
+2,Oman,13,Aamir Kaleem,DS Airee,Fayyaz Butt,,0,0,0,lbw,Aamir Kaleem,,31904231904
+2,Oman,13,Kaleemullah,DS Airee,Fayyaz Butt,,0,1,1,,,,31904231904
+2,Oman,13,Fayyaz Butt,DS Airee,Kaleemullah,,0,0,0,,,,31904231904
+2,Oman,13,Fayyaz Butt,DS Airee,Kaleemullah,,0,0,0,,,,31904231904
+2,Oman,14,Kaleemullah,S Lamichhane,Fayyaz Butt,,0,0,0,,,,31904231904
+2,Oman,14,Kaleemullah,S Lamichhane,Fayyaz Butt,,0,1,1,,,,31904231904
+2,Oman,14,Fayyaz Butt,S Lamichhane,Kaleemullah,,0,0,0,,,,31904231904
+2,Oman,14,Fayyaz Butt,S Lamichhane,Kaleemullah,,0,1,1,,,,31904231904
+2,Oman,14,Kaleemullah,S Lamichhane,Fayyaz Butt,,0,0,0,,,,31904231904
+2,Oman,14,Kaleemullah,S Lamichhane,Fayyaz Butt,,0,0,0,,,,31904231904
+2,Oman,15,Fayyaz Butt,A Bohara,Kaleemullah,,0,0,0,,,,31904231904
+2,Oman,15,Fayyaz Butt,A Bohara,Kaleemullah,,0,1,1,,,,31904231904
+2,Oman,15,Kaleemullah,A Bohara,Fayyaz Butt,,0,1,1,,,,31904231904
+2,Oman,15,Fayyaz Butt,A Bohara,Kaleemullah,,0,0,0,,,,31904231904
+2,Oman,15,Fayyaz Butt,A Bohara,Kaleemullah,,0,1,1,,,,31904231904
+2,Oman,15,Kaleemullah,A Bohara,Fayyaz Butt,,0,0,0,,,,31904231904
+2,Oman,16,Fayyaz Butt,KS Airee,Kaleemullah,,0,1,1,,,,31904231904
+2,Oman,16,Kaleemullah,KS Airee,Fayyaz Butt,,0,2,2,,,,31904231904
+2,Oman,16,Kaleemullah,KS Airee,Fayyaz Butt,,0,0,0,caught,Kaleemullah,K Bhurtel,31904231904
+2,Oman,16,Fayyaz Butt,KS Airee,Bilal Khan,,0,0,0,,,,31904231904
+2,Oman,16,Fayyaz Butt,KS Airee,Bilal Khan,,0,1,1,,,,31904231904
+2,Oman,16,Bilal Khan,KS Airee,Fayyaz Butt,,0,0,0,bowled,Bilal Khan,,31904231904

@@ -1,0 +1,121 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Sri Lanka,0,MDKJ Perera,KD Mills,TM Dilshan,,0,1,1,,,,342223422
+1,Sri Lanka,0,TM Dilshan,KD Mills,MDKJ Perera,,0,1,1,,,,342223422
+1,Sri Lanka,0,MDKJ Perera,KD Mills,TM Dilshan,,0,4,4,,,,342223422
+1,Sri Lanka,0,MDKJ Perera,KD Mills,TM Dilshan,,0,0,0,,,,342223422
+1,Sri Lanka,0,MDKJ Perera,KD Mills,TM Dilshan,,0,6,6,,,,342223422
+1,Sri Lanka,0,MDKJ Perera,KD Mills,TM Dilshan,,0,0,0,,,,342223422
+1,Sri Lanka,1,TM Dilshan,TA Boult,MDKJ Perera,,0,1,1,,,,342223422
+1,Sri Lanka,1,MDKJ Perera,TA Boult,TM Dilshan,,0,4,4,,,,342223422
+1,Sri Lanka,1,MDKJ Perera,TA Boult,TM Dilshan,,0,1,1,,,,342223422
+1,Sri Lanka,1,TM Dilshan,TA Boult,MDKJ Perera,noballs,1,1,0,,,,342223422
+1,Sri Lanka,1,TM Dilshan,TA Boult,MDKJ Perera,,0,1,1,,,,342223422
+1,Sri Lanka,1,MDKJ Perera,TA Boult,TM Dilshan,,0,0,0,caught,MDKJ Perera,L Ronchi,342223422
+1,Sri Lanka,1,DPMD Jayawardene,TA Boult,TM Dilshan,,0,0,0,,,,342223422
+1,Sri Lanka,2,TM Dilshan,KD Mills,DPMD Jayawardene,,0,4,4,,,,342223422
+1,Sri Lanka,2,TM Dilshan,KD Mills,DPMD Jayawardene,,0,0,0,,,,342223422
+1,Sri Lanka,2,TM Dilshan,KD Mills,DPMD Jayawardene,,0,0,0,,,,342223422
+1,Sri Lanka,2,TM Dilshan,KD Mills,DPMD Jayawardene,,0,1,1,,,,342223422
+1,Sri Lanka,2,DPMD Jayawardene,KD Mills,TM Dilshan,,0,1,1,,,,342223422
+1,Sri Lanka,2,TM Dilshan,KD Mills,DPMD Jayawardene,legbyes,1,1,0,,,,342223422
+1,Sri Lanka,3,TM Dilshan,TA Boult,DPMD Jayawardene,legbyes,1,1,0,,,,342223422
+1,Sri Lanka,3,DPMD Jayawardene,TA Boult,TM Dilshan,,0,1,1,,,,342223422
+1,Sri Lanka,3,TM Dilshan,TA Boult,DPMD Jayawardene,,0,0,0,caught,TM Dilshan,L Ronchi,342223422
+1,Sri Lanka,3,KC Sangakkara,TA Boult,DPMD Jayawardene,,0,0,0,,,,342223422
+1,Sri Lanka,3,KC Sangakkara,TA Boult,DPMD Jayawardene,,0,0,0,,,,342223422
+1,Sri Lanka,3,KC Sangakkara,TA Boult,DPMD Jayawardene,,0,0,0,,,,342223422
+1,Sri Lanka,4,DPMD Jayawardene,CJ Anderson,KC Sangakkara,,0,0,0,,,,342223422
+1,Sri Lanka,4,DPMD Jayawardene,CJ Anderson,KC Sangakkara,,0,0,0,,,,342223422
+1,Sri Lanka,4,DPMD Jayawardene,CJ Anderson,KC Sangakkara,,0,1,1,,,,342223422
+1,Sri Lanka,4,KC Sangakkara,CJ Anderson,DPMD Jayawardene,,0,0,0,,,,342223422
+1,Sri Lanka,4,KC Sangakkara,CJ Anderson,DPMD Jayawardene,,0,0,0,,,,342223422
+1,Sri Lanka,4,KC Sangakkara,CJ Anderson,DPMD Jayawardene,,0,0,0,,,,342223422
+1,Sri Lanka,5,DPMD Jayawardene,TA Boult,KC Sangakkara,,0,1,1,,,,342223422
+1,Sri Lanka,5,KC Sangakkara,TA Boult,DPMD Jayawardene,,0,4,4,,,,342223422
+1,Sri Lanka,5,KC Sangakkara,TA Boult,DPMD Jayawardene,,0,0,0,,,,342223422
+1,Sri Lanka,5,KC Sangakkara,TA Boult,DPMD Jayawardene,,0,0,0,,,,342223422
+1,Sri Lanka,5,KC Sangakkara,TA Boult,DPMD Jayawardene,,0,0,0,,,,342223422
+1,Sri Lanka,5,KC Sangakkara,TA Boult,DPMD Jayawardene,,0,0,0,caught,KC Sangakkara,CJ Anderson,342223422
+1,Sri Lanka,6,DPMD Jayawardene,MJ McClenaghan,HDRL Thirimanne,,0,1,1,,,,342223422
+1,Sri Lanka,6,HDRL Thirimanne,MJ McClenaghan,DPMD Jayawardene,,0,0,0,,,,342223422
+1,Sri Lanka,6,HDRL Thirimanne,MJ McClenaghan,DPMD Jayawardene,,0,4,4,,,,342223422
+1,Sri Lanka,6,HDRL Thirimanne,MJ McClenaghan,DPMD Jayawardene,,0,1,1,,,,342223422
+1,Sri Lanka,6,DPMD Jayawardene,MJ McClenaghan,HDRL Thirimanne,,0,1,1,,,,342223422
+1,Sri Lanka,6,HDRL Thirimanne,MJ McClenaghan,DPMD Jayawardene,,0,0,0,,,,342223422
+1,Sri Lanka,7,DPMD Jayawardene,TA Boult,HDRL Thirimanne,,0,0,0,,,,342223422
+1,Sri Lanka,7,DPMD Jayawardene,TA Boult,HDRL Thirimanne,,0,1,1,,,,342223422
+1,Sri Lanka,7,HDRL Thirimanne,TA Boult,DPMD Jayawardene,,0,0,0,,,,342223422
+1,Sri Lanka,7,HDRL Thirimanne,TA Boult,DPMD Jayawardene,,0,4,4,,,,342223422
+1,Sri Lanka,7,HDRL Thirimanne,TA Boult,DPMD Jayawardene,,0,0,0,,,,342223422
+1,Sri Lanka,7,HDRL Thirimanne,TA Boult,DPMD Jayawardene,wides,1,1,0,,,,342223422
+1,Sri Lanka,7,HDRL Thirimanne,TA Boult,DPMD Jayawardene,,0,0,0,,,,342223422
+1,Sri Lanka,8,DPMD Jayawardene,CJ Anderson,HDRL Thirimanne,,0,0,0,,,,342223422
+1,Sri Lanka,8,DPMD Jayawardene,CJ Anderson,HDRL Thirimanne,,0,1,1,,,,342223422
+1,Sri Lanka,8,HDRL Thirimanne,CJ Anderson,DPMD Jayawardene,,0,1,1,,,,342223422
+1,Sri Lanka,8,DPMD Jayawardene,CJ Anderson,HDRL Thirimanne,,0,0,0,,,,342223422
+1,Sri Lanka,8,DPMD Jayawardene,CJ Anderson,HDRL Thirimanne,,0,0,0,,,,342223422
+1,Sri Lanka,8,DPMD Jayawardene,CJ Anderson,HDRL Thirimanne,,0,0,0,,,,342223422
+1,Sri Lanka,9,HDRL Thirimanne,MJ McClenaghan,DPMD Jayawardene,,0,0,0,,,,342223422
+1,Sri Lanka,9,HDRL Thirimanne,MJ McClenaghan,DPMD Jayawardene,,0,1,1,,,,342223422
+1,Sri Lanka,9,DPMD Jayawardene,MJ McClenaghan,HDRL Thirimanne,,0,1,1,,,,342223422
+1,Sri Lanka,9,HDRL Thirimanne,MJ McClenaghan,DPMD Jayawardene,,0,0,0,,,,342223422
+1,Sri Lanka,9,HDRL Thirimanne,MJ McClenaghan,DPMD Jayawardene,,0,1,1,,,,342223422
+1,Sri Lanka,9,DPMD Jayawardene,MJ McClenaghan,HDRL Thirimanne,,0,2,2,,,,342223422
+1,Sri Lanka,10,HDRL Thirimanne,CJ Anderson,DPMD Jayawardene,,0,4,4,,,,342223422
+1,Sri Lanka,10,HDRL Thirimanne,CJ Anderson,DPMD Jayawardene,,0,1,1,,,,342223422
+1,Sri Lanka,10,DPMD Jayawardene,CJ Anderson,HDRL Thirimanne,wides,1,1,0,,,,342223422
+1,Sri Lanka,10,DPMD Jayawardene,CJ Anderson,HDRL Thirimanne,,0,0,0,,,,342223422
+1,Sri Lanka,10,DPMD Jayawardene,CJ Anderson,HDRL Thirimanne,,0,1,1,,,,342223422
+1,Sri Lanka,10,HDRL Thirimanne,CJ Anderson,DPMD Jayawardene,,0,2,2,,,,342223422
+1,Sri Lanka,10,HDRL Thirimanne,CJ Anderson,DPMD Jayawardene,,0,1,1,,,,342223422
+1,Sri Lanka,11,HDRL Thirimanne,JDS Neesham,DPMD Jayawardene,,0,0,0,caught,HDRL Thirimanne,MJ Guptill,342223422
+1,Sri Lanka,11,DPMD Jayawardene,JDS Neesham,AD Mathews,,0,4,4,,,,342223422
+1,Sri Lanka,11,DPMD Jayawardene,JDS Neesham,AD Mathews,,0,1,1,,,,342223422
+1,Sri Lanka,11,AD Mathews,JDS Neesham,DPMD Jayawardene,,0,2,2,,,,342223422
+1,Sri Lanka,11,AD Mathews,JDS Neesham,DPMD Jayawardene,,0,0,0,,,,342223422
+1,Sri Lanka,11,AD Mathews,JDS Neesham,DPMD Jayawardene,,0,1,1,,,,342223422
+1,Sri Lanka,12,AD Mathews,NL McCullum,DPMD Jayawardene,,0,0,0,,,,342223422
+1,Sri Lanka,12,AD Mathews,NL McCullum,DPMD Jayawardene,,0,1,1,,,,342223422
+1,Sri Lanka,12,DPMD Jayawardene,NL McCullum,AD Mathews,,0,1,1,,,,342223422
+1,Sri Lanka,12,AD Mathews,NL McCullum,DPMD Jayawardene,,0,0,0,,,,342223422
+1,Sri Lanka,12,AD Mathews,NL McCullum,DPMD Jayawardene,,0,1,1,,,,342223422
+1,Sri Lanka,12,DPMD Jayawardene,NL McCullum,AD Mathews,,0,1,1,,,,342223422
+1,Sri Lanka,13,DPMD Jayawardene,MJ McClenaghan,AD Mathews,,0,1,1,,,,342223422
+1,Sri Lanka,13,AD Mathews,MJ McClenaghan,DPMD Jayawardene,,0,0,0,,,,342223422
+1,Sri Lanka,13,AD Mathews,MJ McClenaghan,DPMD Jayawardene,,0,1,1,,,,342223422
+1,Sri Lanka,13,DPMD Jayawardene,MJ McClenaghan,AD Mathews,wides,1,1,0,,,,342223422
+1,Sri Lanka,13,DPMD Jayawardene,MJ McClenaghan,AD Mathews,,0,1,1,,,,342223422
+1,Sri Lanka,13,AD Mathews,MJ McClenaghan,DPMD Jayawardene,,0,0,0,caught,AD Mathews,L Ronchi,342223422
+1,Sri Lanka,13,NLTC Perera,MJ McClenaghan,DPMD Jayawardene,,0,0,0,,,,342223422
+1,Sri Lanka,14,DPMD Jayawardene,NL McCullum,NLTC Perera,,0,0,0,,,,342223422
+1,Sri Lanka,14,DPMD Jayawardene,NL McCullum,NLTC Perera,,0,0,0,,,,342223422
+1,Sri Lanka,14,DPMD Jayawardene,NL McCullum,NLTC Perera,,0,0,0,,,,342223422
+1,Sri Lanka,14,DPMD Jayawardene,NL McCullum,NLTC Perera,,0,0,0,,,,342223422
+1,Sri Lanka,14,DPMD Jayawardene,NL McCullum,NLTC Perera,,0,4,4,,,,342223422
+1,Sri Lanka,14,DPMD Jayawardene,NL McCullum,NLTC Perera,,0,0,0,bowled,DPMD Jayawardene,,342223422
+1,Sri Lanka,15,NLTC Perera,MJ McClenaghan,KMDN Kulasekara,,0,4,4,,,,342223422
+1,Sri Lanka,15,NLTC Perera,MJ McClenaghan,KMDN Kulasekara,,0,2,2,,,,342223422
+1,Sri Lanka,15,NLTC Perera,MJ McClenaghan,KMDN Kulasekara,,0,1,1,,,,342223422
+1,Sri Lanka,15,KMDN Kulasekara,MJ McClenaghan,NLTC Perera,,0,0,0,caught,KMDN Kulasekara,NL McCullum,342223422
+1,Sri Lanka,15,SMSM Senanayake,MJ McClenaghan,NLTC Perera,,0,0,0,,,,342223422
+1,Sri Lanka,15,SMSM Senanayake,MJ McClenaghan,NLTC Perera,,0,1,1,,,,342223422
+1,Sri Lanka,16,SMSM Senanayake,KD Mills,NLTC Perera,,0,1,1,,,,342223422
+1,Sri Lanka,16,NLTC Perera,KD Mills,SMSM Senanayake,,0,0,0,,,,342223422
+1,Sri Lanka,16,NLTC Perera,KD Mills,SMSM Senanayake,,0,0,0,,,,342223422
+1,Sri Lanka,16,NLTC Perera,KD Mills,SMSM Senanayake,,0,0,0,,,,342223422
+1,Sri Lanka,16,NLTC Perera,KD Mills,SMSM Senanayake,,0,4,4,,,,342223422
+1,Sri Lanka,16,NLTC Perera,KD Mills,SMSM Senanayake,,0,0,0,,,,342223422
+1,Sri Lanka,17,SMSM Senanayake,JDS Neesham,NLTC Perera,,0,1,1,,,,342223422
+1,Sri Lanka,17,NLTC Perera,JDS Neesham,SMSM Senanayake,,0,0,0,,,,342223422
+1,Sri Lanka,17,NLTC Perera,JDS Neesham,SMSM Senanayake,,0,1,1,,,,342223422
+1,Sri Lanka,17,SMSM Senanayake,JDS Neesham,NLTC Perera,,0,4,4,,,,342223422
+1,Sri Lanka,17,SMSM Senanayake,JDS Neesham,NLTC Perera,,0,2,2,,,,342223422
+1,Sri Lanka,17,SMSM Senanayake,JDS Neesham,NLTC Perera,,0,6,6,,,,342223422
+1,Sri Lanka,18,NLTC Perera,KD Mills,SMSM Senanayake,,0,4,4,,,,342223422
+1,Sri Lanka,18,NLTC Perera,KD Mills,SMSM Senanayake,,0,0,0,caught,NLTC Perera,KS Williamson,342223422
+1,Sri Lanka,18,SMSM Senanayake,KD Mills,HMRKB Herath,,0,1,1,,,,342223422
+1,Sri Lanka,18,HMRKB Herath,KD Mills,SMSM Senanayake,,0,1,1,,,,342223422
+1,Sri Lanka,18,SMSM Senanayake,KD Mills,HMRKB Herath,,0,0,0,,,,342223422
+1,Sri Lanka,18,SMSM Senanayake,KD Mills,HMRKB Herath,,0,1,1,,,,342223422
+1,Sri Lanka,19,SMSM Senanayake,JDS Neesham,HMRKB Herath,,0,0,0,caught,SMSM Senanayake,KS Williamson,342223422
+1,Sri Lanka,19,SL Malinga,JDS Neesham,HMRKB Herath,,0,0,0,bowled,SL Malinga,,342223422

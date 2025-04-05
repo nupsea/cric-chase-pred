@@ -1,0 +1,23 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,India,0,Ishan Kishan,KA Maharaj,RD Gaikwad,,0,0,0,,,,31748231748
+1,India,0,Ishan Kishan,KA Maharaj,RD Gaikwad,,0,6,6,,,,31748231748
+1,India,0,Ishan Kishan,KA Maharaj,RD Gaikwad,,0,6,6,,,,31748231748
+1,India,0,Ishan Kishan,KA Maharaj,RD Gaikwad,,0,2,2,,,,31748231748
+1,India,0,Ishan Kishan,KA Maharaj,RD Gaikwad,,0,1,1,,,,31748231748
+1,India,0,RD Gaikwad,KA Maharaj,Ishan Kishan,,0,1,1,,,,31748231748
+1,India,1,RD Gaikwad,L Ngidi,Ishan Kishan,,0,0,0,,,,31748231748
+1,India,1,RD Gaikwad,L Ngidi,Ishan Kishan,,0,1,1,,,,31748231748
+1,India,1,Ishan Kishan,L Ngidi,RD Gaikwad,legbyes,1,1,0,,,,31748231748
+1,India,1,RD Gaikwad,L Ngidi,Ishan Kishan,,0,0,0,,,,31748231748
+1,India,1,RD Gaikwad,L Ngidi,Ishan Kishan,,0,1,1,,,,31748231748
+1,India,1,Ishan Kishan,L Ngidi,RD Gaikwad,wides,1,1,0,,,,31748231748
+1,India,1,Ishan Kishan,L Ngidi,RD Gaikwad,,0,0,0,bowled,Ishan Kishan,,31748231748
+1,India,2,RD Gaikwad,K Rabada,SS Iyer,,0,0,0,,,,31748231748
+1,India,2,RD Gaikwad,K Rabada,SS Iyer,,0,0,0,,,,31748231748
+1,India,2,RD Gaikwad,K Rabada,SS Iyer,,0,0,0,,,,31748231748
+1,India,2,RD Gaikwad,K Rabada,SS Iyer,,0,4,4,,,,31748231748
+1,India,2,RD Gaikwad,K Rabada,SS Iyer,,0,1,1,,,,31748231748
+1,India,2,SS Iyer,K Rabada,RD Gaikwad,,0,0,0,,,,31748231748
+1,India,3,RD Gaikwad,L Ngidi,SS Iyer,,0,2,2,,,,31748231748
+1,India,3,RD Gaikwad,L Ngidi,SS Iyer,,0,0,0,caught,RD Gaikwad,D Pretorius,31748231748
+1,India,3,RR Pant,L Ngidi,SS Iyer,,0,1,1,,,,31748231748

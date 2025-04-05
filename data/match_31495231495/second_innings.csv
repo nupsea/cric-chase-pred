@@ -1,0 +1,132 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Malaysia,0,Syed Aziz,A Dutt,Anwar Arudin,,0,4,4,,,,31495231495
+2,Malaysia,0,Syed Aziz,A Dutt,Anwar Arudin,noballs,1,2,1,,,,31495231495
+2,Malaysia,0,Anwar Arudin,A Dutt,Syed Aziz,,0,6,6,,,,31495231495
+2,Malaysia,0,Anwar Arudin,A Dutt,Syed Aziz,,0,0,0,bowled,Anwar Arudin,,31495231495
+2,Malaysia,0,Ahmed Faiz,A Dutt,Syed Aziz,,0,0,0,,,,31495231495
+2,Malaysia,0,Ahmed Faiz,A Dutt,Syed Aziz,,0,0,0,,,,31495231495
+2,Malaysia,0,Ahmed Faiz,A Dutt,Syed Aziz,,0,0,0,caught,Ahmed Faiz,SA Edwards,31495231495
+2,Malaysia,1,Syed Aziz,VJ Kingma,Virandeep Singh,,0,0,0,,,,31495231495
+2,Malaysia,1,Syed Aziz,VJ Kingma,Virandeep Singh,,0,0,0,,,,31495231495
+2,Malaysia,1,Syed Aziz,VJ Kingma,Virandeep Singh,legbyes,1,1,0,,,,31495231495
+2,Malaysia,1,Virandeep Singh,VJ Kingma,Syed Aziz,,0,0,0,,,,31495231495
+2,Malaysia,1,Virandeep Singh,VJ Kingma,Syed Aziz,,0,0,0,,,,31495231495
+2,Malaysia,1,Virandeep Singh,VJ Kingma,Syed Aziz,,0,1,1,,,,31495231495
+2,Malaysia,2,Virandeep Singh,A Dutt,Syed Aziz,,0,0,0,,,,31495231495
+2,Malaysia,2,Virandeep Singh,A Dutt,Syed Aziz,,0,1,1,,,,31495231495
+2,Malaysia,2,Syed Aziz,A Dutt,Virandeep Singh,,0,0,0,,,,31495231495
+2,Malaysia,2,Syed Aziz,A Dutt,Virandeep Singh,,0,0,0,,,,31495231495
+2,Malaysia,2,Syed Aziz,A Dutt,Virandeep Singh,,0,0,0,,,,31495231495
+2,Malaysia,2,Syed Aziz,A Dutt,Virandeep Singh,,0,1,1,,,,31495231495
+2,Malaysia,3,Syed Aziz,BFW de Leede,Virandeep Singh,,0,1,1,,,,31495231495
+2,Malaysia,3,Virandeep Singh,BFW de Leede,Syed Aziz,,0,1,1,,,,31495231495
+2,Malaysia,3,Syed Aziz,BFW de Leede,Virandeep Singh,wides,1,1,0,,,,31495231495
+2,Malaysia,3,Syed Aziz,BFW de Leede,Virandeep Singh,wides,1,1,0,,,,31495231495
+2,Malaysia,3,Syed Aziz,BFW de Leede,Virandeep Singh,,0,0,0,caught,Syed Aziz,PM Seelaar,31495231495
+2,Malaysia,3,S Muniandy,BFW de Leede,Virandeep Singh,,0,0,0,,,,31495231495
+2,Malaysia,3,S Muniandy,BFW de Leede,Virandeep Singh,wides,1,1,0,,,,31495231495
+2,Malaysia,3,S Muniandy,BFW de Leede,Virandeep Singh,,0,0,0,,,,31495231495
+2,Malaysia,3,S Muniandy,BFW de Leede,Virandeep Singh,,0,1,1,,,,31495231495
+2,Malaysia,4,S Muniandy,TS Braat,Virandeep Singh,,0,1,1,,,,31495231495
+2,Malaysia,4,Virandeep Singh,TS Braat,S Muniandy,,0,0,0,,,,31495231495
+2,Malaysia,4,Virandeep Singh,TS Braat,S Muniandy,,0,0,0,,,,31495231495
+2,Malaysia,4,Virandeep Singh,TS Braat,S Muniandy,wides,1,1,0,,,,31495231495
+2,Malaysia,4,Virandeep Singh,TS Braat,S Muniandy,,0,4,4,,,,31495231495
+2,Malaysia,4,Virandeep Singh,TS Braat,S Muniandy,,0,6,6,,,,31495231495
+2,Malaysia,4,Virandeep Singh,TS Braat,S Muniandy,,0,6,6,,,,31495231495
+2,Malaysia,5,S Muniandy,VJ Kingma,Virandeep Singh,,0,0,0,,,,31495231495
+2,Malaysia,5,S Muniandy,VJ Kingma,Virandeep Singh,,0,0,0,,,,31495231495
+2,Malaysia,5,S Muniandy,VJ Kingma,Virandeep Singh,noballs,1,5,4,,,,31495231495
+2,Malaysia,5,S Muniandy,VJ Kingma,Virandeep Singh,,0,4,4,,,,31495231495
+2,Malaysia,5,S Muniandy,VJ Kingma,Virandeep Singh,noballs,1,5,4,,,,31495231495
+2,Malaysia,5,S Muniandy,VJ Kingma,Virandeep Singh,,0,0,0,,,,31495231495
+2,Malaysia,5,S Muniandy,VJ Kingma,Virandeep Singh,wides,1,1,0,,,,31495231495
+2,Malaysia,5,S Muniandy,VJ Kingma,Virandeep Singh,,0,1,1,,,,31495231495
+2,Malaysia,5,Virandeep Singh,VJ Kingma,S Muniandy,,0,0,0,,,,31495231495
+2,Malaysia,6,S Muniandy,PRP Boissevain,Virandeep Singh,,0,6,6,,,,31495231495
+2,Malaysia,6,S Muniandy,PRP Boissevain,Virandeep Singh,,0,1,1,,,,31495231495
+2,Malaysia,6,Virandeep Singh,PRP Boissevain,S Muniandy,,0,2,2,,,,31495231495
+2,Malaysia,6,Virandeep Singh,PRP Boissevain,S Muniandy,,0,0,0,,,,31495231495
+2,Malaysia,6,Virandeep Singh,PRP Boissevain,S Muniandy,,0,2,2,,,,31495231495
+2,Malaysia,6,Virandeep Singh,PRP Boissevain,S Muniandy,,0,1,1,,,,31495231495
+2,Malaysia,7,Virandeep Singh,PM Seelaar,S Muniandy,,0,1,1,,,,31495231495
+2,Malaysia,7,S Muniandy,PM Seelaar,Virandeep Singh,,0,1,1,,,,31495231495
+2,Malaysia,7,Virandeep Singh,PM Seelaar,S Muniandy,,0,0,0,,,,31495231495
+2,Malaysia,7,Virandeep Singh,PM Seelaar,S Muniandy,,0,1,1,,,,31495231495
+2,Malaysia,7,S Muniandy,PM Seelaar,Virandeep Singh,,0,0,0,,,,31495231495
+2,Malaysia,7,S Muniandy,PM Seelaar,Virandeep Singh,,0,0,0,,,,31495231495
+2,Malaysia,8,Virandeep Singh,PRP Boissevain,S Muniandy,,0,1,1,,,,31495231495
+2,Malaysia,8,S Muniandy,PRP Boissevain,Virandeep Singh,,0,1,1,,,,31495231495
+2,Malaysia,8,Virandeep Singh,PRP Boissevain,S Muniandy,,0,1,1,,,,31495231495
+2,Malaysia,8,S Muniandy,PRP Boissevain,Virandeep Singh,,0,0,0,,,,31495231495
+2,Malaysia,8,S Muniandy,PRP Boissevain,Virandeep Singh,,0,4,4,,,,31495231495
+2,Malaysia,8,S Muniandy,PRP Boissevain,Virandeep Singh,,0,0,0,caught,S Muniandy,BN Cooper,31495231495
+2,Malaysia,9,Virandeep Singh,PM Seelaar,Shafiq Sharif,,0,1,1,,,,31495231495
+2,Malaysia,9,Shafiq Sharif,PM Seelaar,Virandeep Singh,,0,0,0,,,,31495231495
+2,Malaysia,9,Shafiq Sharif,PM Seelaar,Virandeep Singh,,0,0,0,,,,31495231495
+2,Malaysia,9,Shafiq Sharif,PM Seelaar,Virandeep Singh,,0,0,0,caught,Shafiq Sharif,BN Cooper,31495231495
+2,Malaysia,9,Aminuddin Ramly,PM Seelaar,Virandeep Singh,,0,1,1,,,,31495231495
+2,Malaysia,9,Virandeep Singh,PM Seelaar,Aminuddin Ramly,,0,0,0,,,,31495231495
+2,Malaysia,10,Aminuddin Ramly,PRP Boissevain,Virandeep Singh,,0,6,6,,,,31495231495
+2,Malaysia,10,Aminuddin Ramly,PRP Boissevain,Virandeep Singh,,0,0,0,,,,31495231495
+2,Malaysia,10,Aminuddin Ramly,PRP Boissevain,Virandeep Singh,,0,0,0,,,,31495231495
+2,Malaysia,10,Aminuddin Ramly,PRP Boissevain,Virandeep Singh,,0,1,1,,,,31495231495
+2,Malaysia,10,Virandeep Singh,PRP Boissevain,Aminuddin Ramly,,0,1,1,,,,31495231495
+2,Malaysia,10,Aminuddin Ramly,PRP Boissevain,Virandeep Singh,,0,4,4,,,,31495231495
+2,Malaysia,11,Virandeep Singh,PM Seelaar,Aminuddin Ramly,,0,0,0,,,,31495231495
+2,Malaysia,11,Virandeep Singh,PM Seelaar,Aminuddin Ramly,,0,1,1,,,,31495231495
+2,Malaysia,11,Aminuddin Ramly,PM Seelaar,Virandeep Singh,,0,0,0,,,,31495231495
+2,Malaysia,11,Aminuddin Ramly,PM Seelaar,Virandeep Singh,,0,6,6,,,,31495231495
+2,Malaysia,11,Aminuddin Ramly,PM Seelaar,Virandeep Singh,,0,1,1,,,,31495231495
+2,Malaysia,11,Virandeep Singh,PM Seelaar,Aminuddin Ramly,,0,1,1,,,,31495231495
+2,Malaysia,12,Virandeep Singh,TS Braat,Aminuddin Ramly,,0,0,0,,,,31495231495
+2,Malaysia,12,Virandeep Singh,TS Braat,Aminuddin Ramly,,0,1,1,,,,31495231495
+2,Malaysia,12,Aminuddin Ramly,TS Braat,Virandeep Singh,,0,1,1,,,,31495231495
+2,Malaysia,12,Virandeep Singh,TS Braat,Aminuddin Ramly,,0,0,0,,,,31495231495
+2,Malaysia,12,Virandeep Singh,TS Braat,Aminuddin Ramly,,0,1,1,,,,31495231495
+2,Malaysia,12,Aminuddin Ramly,TS Braat,Virandeep Singh,,0,1,1,,,,31495231495
+2,Malaysia,13,Aminuddin Ramly,BFW de Leede,Virandeep Singh,,0,4,4,,,,31495231495
+2,Malaysia,13,Aminuddin Ramly,BFW de Leede,Virandeep Singh,,0,0,0,,,,31495231495
+2,Malaysia,13,Aminuddin Ramly,BFW de Leede,Virandeep Singh,,0,1,1,,,,31495231495
+2,Malaysia,13,Virandeep Singh,BFW de Leede,Aminuddin Ramly,wides,1,1,0,,,,31495231495
+2,Malaysia,13,Virandeep Singh,BFW de Leede,Aminuddin Ramly,,0,1,1,,,,31495231495
+2,Malaysia,13,Aminuddin Ramly,BFW de Leede,Virandeep Singh,,0,0,0,caught,Aminuddin Ramly,TS Braat,31495231495
+2,Malaysia,13,Virandeep Singh,BFW de Leede,Khizar Hayat,wides,1,1,0,,,,31495231495
+2,Malaysia,13,Virandeep Singh,BFW de Leede,Khizar Hayat,,0,1,1,,,,31495231495
+2,Malaysia,14,Virandeep Singh,PM Seelaar,Khizar Hayat,,0,1,1,,,,31495231495
+2,Malaysia,14,Khizar Hayat,PM Seelaar,Virandeep Singh,,0,0,0,,,,31495231495
+2,Malaysia,14,Khizar Hayat,PM Seelaar,Virandeep Singh,,0,0,0,,,,31495231495
+2,Malaysia,14,Khizar Hayat,PM Seelaar,Virandeep Singh,,0,1,1,,,,31495231495
+2,Malaysia,14,Virandeep Singh,PM Seelaar,Khizar Hayat,,0,4,4,,,,31495231495
+2,Malaysia,14,Virandeep Singh,PM Seelaar,Khizar Hayat,legbyes,1,1,0,,,,31495231495
+2,Malaysia,15,Virandeep Singh,TS Braat,Khizar Hayat,,0,6,6,,,,31495231495
+2,Malaysia,15,Virandeep Singh,TS Braat,Khizar Hayat,,0,1,1,,,,31495231495
+2,Malaysia,15,Khizar Hayat,TS Braat,Virandeep Singh,wides,1,1,0,,,,31495231495
+2,Malaysia,15,Khizar Hayat,TS Braat,Virandeep Singh,,0,1,1,,,,31495231495
+2,Malaysia,15,Virandeep Singh,TS Braat,Khizar Hayat,,0,4,4,,,,31495231495
+2,Malaysia,15,Virandeep Singh,TS Braat,Khizar Hayat,,0,1,1,,,,31495231495
+2,Malaysia,15,Khizar Hayat,TS Braat,Virandeep Singh,,0,0,0,caught,Khizar Hayat,BN Cooper,31495231495
+2,Malaysia,16,Virandeep Singh,PRP Boissevain,Muhammad Wafiq,,0,0,0,,,,31495231495
+2,Malaysia,16,Virandeep Singh,PRP Boissevain,Muhammad Wafiq,,0,4,4,,,,31495231495
+2,Malaysia,16,Virandeep Singh,PRP Boissevain,Muhammad Wafiq,,0,4,4,,,,31495231495
+2,Malaysia,16,Virandeep Singh,PRP Boissevain,Muhammad Wafiq,,0,0,0,,,,31495231495
+2,Malaysia,16,Virandeep Singh,PRP Boissevain,Muhammad Wafiq,,0,1,1,,,,31495231495
+2,Malaysia,16,Muhammad Wafiq,PRP Boissevain,Virandeep Singh,,0,0,0,,,,31495231495
+2,Malaysia,17,Virandeep Singh,VJ Kingma,Muhammad Wafiq,,0,4,4,,,,31495231495
+2,Malaysia,17,Virandeep Singh,VJ Kingma,Muhammad Wafiq,,0,0,0,,,,31495231495
+2,Malaysia,17,Virandeep Singh,VJ Kingma,Muhammad Wafiq,,0,6,6,,,,31495231495
+2,Malaysia,17,Virandeep Singh,VJ Kingma,Muhammad Wafiq,,0,1,1,,,,31495231495
+2,Malaysia,17,Muhammad Wafiq,VJ Kingma,Virandeep Singh,,0,0,0,,,,31495231495
+2,Malaysia,17,Muhammad Wafiq,VJ Kingma,Virandeep Singh,,0,0,0,,,,31495231495
+2,Malaysia,18,Virandeep Singh,TS Braat,Muhammad Wafiq,,0,6,6,,,,31495231495
+2,Malaysia,18,Virandeep Singh,TS Braat,Muhammad Wafiq,,0,6,6,,,,31495231495
+2,Malaysia,18,Virandeep Singh,TS Braat,Muhammad Wafiq,,0,2,2,,,,31495231495
+2,Malaysia,18,Virandeep Singh,TS Braat,Muhammad Wafiq,,0,0,0,caught,Virandeep Singh,TP Visee,31495231495
+2,Malaysia,18,Muhammad Wafiq,TS Braat,Anwar Rahman,,0,0,0,,,,31495231495
+2,Malaysia,18,Muhammad Wafiq,TS Braat,Anwar Rahman,,0,0,0,,,,31495231495
+2,Malaysia,19,Anwar Rahman,VJ Kingma,Muhammad Wafiq,,0,0,0,,,,31495231495
+2,Malaysia,19,Anwar Rahman,VJ Kingma,Muhammad Wafiq,,0,0,0,,,,31495231495
+2,Malaysia,19,Anwar Rahman,VJ Kingma,Muhammad Wafiq,,0,0,0,,,,31495231495
+2,Malaysia,19,Anwar Rahman,VJ Kingma,Muhammad Wafiq,,0,1,1,,,,31495231495
+2,Malaysia,19,Muhammad Wafiq,VJ Kingma,Anwar Rahman,,0,6,6,,,,31495231495
+2,Malaysia,19,Muhammad Wafiq,VJ Kingma,Anwar Rahman,,0,0,0,,,,31495231495

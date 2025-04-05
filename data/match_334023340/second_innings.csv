@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Zimbabwe,0,H Masakadza,Sohag Gazi,V Sibanda,,0,0,0,,,,334023340
+2,Zimbabwe,0,H Masakadza,Sohag Gazi,V Sibanda,,0,1,1,,,,334023340
+2,Zimbabwe,0,V Sibanda,Sohag Gazi,H Masakadza,,0,2,2,,,,334023340
+2,Zimbabwe,0,V Sibanda,Sohag Gazi,H Masakadza,,0,1,1,,,,334023340
+2,Zimbabwe,0,H Masakadza,Sohag Gazi,V Sibanda,,0,0,0,,,,334023340
+2,Zimbabwe,0,H Masakadza,Sohag Gazi,V Sibanda,,0,1,1,,,,334023340
+2,Zimbabwe,1,H Masakadza,Abdur Razzak,V Sibanda,,0,0,0,bowled,H Masakadza,,334023340
+2,Zimbabwe,1,BRM Taylor,Abdur Razzak,V Sibanda,,0,0,0,,,,334023340
+2,Zimbabwe,1,BRM Taylor,Abdur Razzak,V Sibanda,,0,1,1,,,,334023340
+2,Zimbabwe,1,V Sibanda,Abdur Razzak,BRM Taylor,,0,0,0,,,,334023340
+2,Zimbabwe,1,V Sibanda,Abdur Razzak,BRM Taylor,,0,4,4,,,,334023340
+2,Zimbabwe,1,V Sibanda,Abdur Razzak,BRM Taylor,,0,1,1,,,,334023340
+2,Zimbabwe,2,V Sibanda,Sohag Gazi,BRM Taylor,,0,6,6,,,,334023340
+2,Zimbabwe,2,V Sibanda,Sohag Gazi,BRM Taylor,wides,1,1,0,,,,334023340
+2,Zimbabwe,2,V Sibanda,Sohag Gazi,BRM Taylor,,0,0,0,,,,334023340
+2,Zimbabwe,2,V Sibanda,Sohag Gazi,BRM Taylor,,0,1,1,,,,334023340
+2,Zimbabwe,2,BRM Taylor,Sohag Gazi,V Sibanda,,0,4,4,,,,334023340
+2,Zimbabwe,2,BRM Taylor,Sohag Gazi,V Sibanda,,0,0,0,,,,334023340
+2,Zimbabwe,2,BRM Taylor,Sohag Gazi,V Sibanda,,0,4,4,,,,334023340
+2,Zimbabwe,3,V Sibanda,Abdur Razzak,BRM Taylor,,0,4,4,,,,334023340
+2,Zimbabwe,3,V Sibanda,Abdur Razzak,BRM Taylor,,0,0,0,,,,334023340
+2,Zimbabwe,3,V Sibanda,Abdur Razzak,BRM Taylor,,0,0,0,,,,334023340
+2,Zimbabwe,3,V Sibanda,Abdur Razzak,BRM Taylor,,0,2,2,,,,334023340
+2,Zimbabwe,3,V Sibanda,Abdur Razzak,BRM Taylor,,0,1,1,,,,334023340
+2,Zimbabwe,3,BRM Taylor,Abdur Razzak,V Sibanda,,0,1,1,,,,334023340
+2,Zimbabwe,4,BRM Taylor,Shakib Al Hasan,V Sibanda,,0,0,0,,,,334023340
+2,Zimbabwe,4,BRM Taylor,Shakib Al Hasan,V Sibanda,,0,1,1,,,,334023340
+2,Zimbabwe,4,V Sibanda,Shakib Al Hasan,BRM Taylor,,0,4,4,,,,334023340
+2,Zimbabwe,4,V Sibanda,Shakib Al Hasan,BRM Taylor,,0,1,1,,,,334023340
+2,Zimbabwe,4,BRM Taylor,Shakib Al Hasan,V Sibanda,,0,4,4,,,,334023340
+2,Zimbabwe,4,BRM Taylor,Shakib Al Hasan,V Sibanda,,0,0,0,caught,BRM Taylor,Nasir Hossain,334023340
+2,Zimbabwe,5,SC Williams,Sohag Gazi,V Sibanda,,0,0,0,,,,334023340
+2,Zimbabwe,5,SC Williams,Sohag Gazi,V Sibanda,,0,0,0,,,,334023340
+2,Zimbabwe,5,SC Williams,Sohag Gazi,V Sibanda,,0,0,0,,,,334023340
+2,Zimbabwe,5,SC Williams,Sohag Gazi,V Sibanda,,0,0,0,,,,334023340
+2,Zimbabwe,5,SC Williams,Sohag Gazi,V Sibanda,,0,0,0,,,,334023340
+2,Zimbabwe,5,SC Williams,Sohag Gazi,V Sibanda,,0,0,0,,,,334023340
+2,Zimbabwe,6,V Sibanda,Shafiul Islam,SC Williams,,0,1,1,,,,334023340
+2,Zimbabwe,6,SC Williams,Shafiul Islam,V Sibanda,,0,2,2,,,,334023340
+2,Zimbabwe,6,SC Williams,Shafiul Islam,V Sibanda,,0,1,1,,,,334023340
+2,Zimbabwe,6,V Sibanda,Shafiul Islam,SC Williams,,0,2,2,,,,334023340
+2,Zimbabwe,6,V Sibanda,Shafiul Islam,SC Williams,,0,2,2,,,,334023340
+2,Zimbabwe,6,V Sibanda,Shafiul Islam,SC Williams,,0,0,0,caught,V Sibanda,Mahmudullah,334023340
+2,Zimbabwe,7,Sikandar Raza,Sohag Gazi,SC Williams,,0,1,1,,,,334023340
+2,Zimbabwe,7,SC Williams,Sohag Gazi,Sikandar Raza,,0,1,1,,,,334023340
+2,Zimbabwe,7,Sikandar Raza,Sohag Gazi,SC Williams,,0,1,1,,,,334023340
+2,Zimbabwe,7,SC Williams,Sohag Gazi,Sikandar Raza,,0,4,4,,,,334023340
+2,Zimbabwe,7,SC Williams,Sohag Gazi,Sikandar Raza,,0,0,0,,,,334023340
+2,Zimbabwe,7,SC Williams,Sohag Gazi,Sikandar Raza,legbyes,1,1,0,,,,334023340
+2,Zimbabwe,8,SC Williams,Mahmudullah,Sikandar Raza,,0,1,1,,,,334023340
+2,Zimbabwe,8,Sikandar Raza,Mahmudullah,SC Williams,wides,1,1,0,,,,334023340
+2,Zimbabwe,8,Sikandar Raza,Mahmudullah,SC Williams,wides,1,1,0,,,,334023340
+2,Zimbabwe,8,Sikandar Raza,Mahmudullah,SC Williams,,0,1,1,,,,334023340
+2,Zimbabwe,8,SC Williams,Mahmudullah,Sikandar Raza,,0,4,4,,,,334023340
+2,Zimbabwe,8,SC Williams,Mahmudullah,Sikandar Raza,,0,0,0,,,,334023340
+2,Zimbabwe,8,SC Williams,Mahmudullah,Sikandar Raza,,0,1,1,,,,334023340
+2,Zimbabwe,8,Sikandar Raza,Mahmudullah,SC Williams,,0,0,0,,,,334023340
+2,Zimbabwe,9,SC Williams,Shakib Al Hasan,Sikandar Raza,,0,1,1,,,,334023340
+2,Zimbabwe,9,Sikandar Raza,Shakib Al Hasan,SC Williams,,0,0,0,,,,334023340
+2,Zimbabwe,9,Sikandar Raza,Shakib Al Hasan,SC Williams,,0,2,2,,,,334023340
+2,Zimbabwe,9,Sikandar Raza,Shakib Al Hasan,SC Williams,,0,0,0,,,,334023340
+2,Zimbabwe,9,Sikandar Raza,Shakib Al Hasan,SC Williams,,0,1,1,,,,334023340
+2,Zimbabwe,9,SC Williams,Shakib Al Hasan,Sikandar Raza,,0,0,0,,,,334023340
+2,Zimbabwe,10,Sikandar Raza,Shafiul Islam,SC Williams,legbyes,2,2,0,,,,334023340
+2,Zimbabwe,10,Sikandar Raza,Shafiul Islam,SC Williams,,0,0,0,,,,334023340
+2,Zimbabwe,10,Sikandar Raza,Shafiul Islam,SC Williams,,0,1,1,,,,334023340
+2,Zimbabwe,10,SC Williams,Shafiul Islam,Sikandar Raza,,0,1,1,,,,334023340
+2,Zimbabwe,10,Sikandar Raza,Shafiul Islam,SC Williams,,0,0,0,run out,SC Williams,Robiul Islam,334023340
+2,Zimbabwe,10,MN Waller,Shafiul Islam,Sikandar Raza,,0,1,1,,,,334023340
+2,Zimbabwe,11,MN Waller,Robiul Islam,Sikandar Raza,,0,1,1,,,,334023340
+2,Zimbabwe,11,Sikandar Raza,Robiul Islam,MN Waller,,0,0,0,,,,334023340
+2,Zimbabwe,11,Sikandar Raza,Robiul Islam,MN Waller,,0,6,6,,,,334023340
+2,Zimbabwe,11,Sikandar Raza,Robiul Islam,MN Waller,,0,1,1,,,,334023340
+2,Zimbabwe,11,MN Waller,Robiul Islam,Sikandar Raza,,0,4,4,,,,334023340
+2,Zimbabwe,11,MN Waller,Robiul Islam,Sikandar Raza,,0,1,1,,,,334023340
+2,Zimbabwe,12,MN Waller,Mominul Haque,Sikandar Raza,,0,1,1,,,,334023340
+2,Zimbabwe,12,Sikandar Raza,Mominul Haque,MN Waller,,0,2,2,,,,334023340
+2,Zimbabwe,12,Sikandar Raza,Mominul Haque,MN Waller,,0,1,1,,,,334023340
+2,Zimbabwe,12,MN Waller,Mominul Haque,Sikandar Raza,,0,1,1,,,,334023340
+2,Zimbabwe,12,Sikandar Raza,Mominul Haque,MN Waller,,0,1,1,,,,334023340
+2,Zimbabwe,12,MN Waller,Mominul Haque,Sikandar Raza,,0,1,1,,,,334023340
+2,Zimbabwe,13,MN Waller,Abdur Razzak,Sikandar Raza,,0,0,0,,,,334023340
+2,Zimbabwe,13,MN Waller,Abdur Razzak,Sikandar Raza,,0,0,0,,,,334023340
+2,Zimbabwe,13,MN Waller,Abdur Razzak,Sikandar Raza,,0,0,0,caught,MN Waller,Mominul Haque,334023340
+2,Zimbabwe,13,SW Masakadza,Abdur Razzak,Sikandar Raza,,0,0,0,,,,334023340
+2,Zimbabwe,13,SW Masakadza,Abdur Razzak,Sikandar Raza,,0,0,0,,,,334023340
+2,Zimbabwe,13,SW Masakadza,Abdur Razzak,Sikandar Raza,,0,0,0,,,,334023340
+2,Zimbabwe,14,Sikandar Raza,Mominul Haque,SW Masakadza,,0,6,6,,,,334023340
+2,Zimbabwe,14,Sikandar Raza,Mominul Haque,SW Masakadza,,0,1,1,,,,334023340
+2,Zimbabwe,14,SW Masakadza,Mominul Haque,Sikandar Raza,,0,1,1,,,,334023340
+2,Zimbabwe,14,Sikandar Raza,Mominul Haque,SW Masakadza,,0,1,1,,,,334023340
+2,Zimbabwe,14,SW Masakadza,Mominul Haque,Sikandar Raza,,0,1,1,,,,334023340
+2,Zimbabwe,14,Sikandar Raza,Mominul Haque,SW Masakadza,,0,1,1,,,,334023340
+2,Zimbabwe,15,Sikandar Raza,Abdur Razzak,SW Masakadza,wides,1,1,0,,,,334023340
+2,Zimbabwe,15,Sikandar Raza,Abdur Razzak,SW Masakadza,,0,0,0,,,,334023340
+2,Zimbabwe,15,Sikandar Raza,Abdur Razzak,SW Masakadza,,0,2,2,,,,334023340
+2,Zimbabwe,15,Sikandar Raza,Abdur Razzak,SW Masakadza,legbyes,1,1,0,,,,334023340
+2,Zimbabwe,15,SW Masakadza,Abdur Razzak,Sikandar Raza,,0,0,0,,,,334023340
+2,Zimbabwe,15,SW Masakadza,Abdur Razzak,Sikandar Raza,,0,1,1,,,,334023340
+2,Zimbabwe,15,Sikandar Raza,Abdur Razzak,SW Masakadza,legbyes,1,1,0,,,,334023340
+2,Zimbabwe,16,Sikandar Raza,Shakib Al Hasan,SW Masakadza,,0,2,2,,,,334023340
+2,Zimbabwe,16,Sikandar Raza,Shakib Al Hasan,SW Masakadza,,0,0,0,,,,334023340
+2,Zimbabwe,16,Sikandar Raza,Shakib Al Hasan,SW Masakadza,byes,1,1,0,,,,334023340
+2,Zimbabwe,16,SW Masakadza,Shakib Al Hasan,Sikandar Raza,,0,1,1,,,,334023340
+2,Zimbabwe,16,Sikandar Raza,Shakib Al Hasan,SW Masakadza,,0,0,0,bowled,Sikandar Raza,,334023340
+2,Zimbabwe,16,P Utseya,Shakib Al Hasan,SW Masakadza,,0,1,1,,,,334023340
+2,Zimbabwe,17,P Utseya,Shafiul Islam,SW Masakadza,,0,0,0,,,,334023340
+2,Zimbabwe,17,P Utseya,Shafiul Islam,SW Masakadza,,0,2,2,,,,334023340
+2,Zimbabwe,17,P Utseya,Shafiul Islam,SW Masakadza,,0,1,1,,,,334023340
+2,Zimbabwe,17,SW Masakadza,Shafiul Islam,P Utseya,,0,1,1,,,,334023340
+2,Zimbabwe,17,P Utseya,Shafiul Islam,SW Masakadza,,0,1,1,,,,334023340
+2,Zimbabwe,17,SW Masakadza,Shafiul Islam,P Utseya,,0,2,2,,,,334023340
+2,Zimbabwe,18,P Utseya,Shakib Al Hasan,SW Masakadza,legbyes,1,1,0,,,,334023340
+2,Zimbabwe,18,SW Masakadza,Shakib Al Hasan,P Utseya,,0,2,2,,,,334023340
+2,Zimbabwe,18,SW Masakadza,Shakib Al Hasan,P Utseya,,0,0,0,caught,SW Masakadza,Nasir Hossain,334023340
+2,Zimbabwe,18,P Utseya,Shakib Al Hasan,N M'shangwe,,0,1,1,,,,334023340
+2,Zimbabwe,18,N M'shangwe,Shakib Al Hasan,P Utseya,,0,0,0,bowled,N M'shangwe,,334023340
+2,Zimbabwe,18,T Panyangara,Shakib Al Hasan,P Utseya,,0,0,0,,,,334023340
+2,Zimbabwe,19,P Utseya,Shafiul Islam,T Panyangara,,0,0,0,bowled,P Utseya,,334023340
+2,Zimbabwe,19,BV Vitori,Shafiul Islam,T Panyangara,,0,1,1,,,,334023340
+2,Zimbabwe,19,T Panyangara,Shafiul Islam,BV Vitori,,0,0,0,,,,334023340
+2,Zimbabwe,19,T Panyangara,Shafiul Islam,BV Vitori,,0,1,1,,,,334023340
+2,Zimbabwe,19,BV Vitori,Shafiul Islam,T Panyangara,,0,0,0,,,,334023340
+2,Zimbabwe,19,BV Vitori,Shafiul Islam,T Panyangara,,0,0,0,,,,334023340

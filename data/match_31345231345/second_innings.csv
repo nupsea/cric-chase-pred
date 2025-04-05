@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,West Indies,0,HK Matthews,DB Sharma,NY McLean,,0,4,4,,,,31345231345
+2,West Indies,0,HK Matthews,DB Sharma,NY McLean,,0,4,4,,,,31345231345
+2,West Indies,0,HK Matthews,DB Sharma,NY McLean,,0,0,0,,,,31345231345
+2,West Indies,0,HK Matthews,DB Sharma,NY McLean,,0,0,0,,,,31345231345
+2,West Indies,0,HK Matthews,DB Sharma,NY McLean,,0,1,1,,,,31345231345
+2,West Indies,0,NY McLean,DB Sharma,HK Matthews,,0,0,0,,,,31345231345
+2,West Indies,1,HK Matthews,S Pandey,NY McLean,,0,4,4,,,,31345231345
+2,West Indies,1,HK Matthews,S Pandey,NY McLean,,0,0,0,,,,31345231345
+2,West Indies,1,HK Matthews,S Pandey,NY McLean,,0,0,0,bowled,HK Matthews,,31345231345
+2,West Indies,1,SA Campbelle,S Pandey,NY McLean,,0,0,0,,,,31345231345
+2,West Indies,1,SA Campbelle,S Pandey,NY McLean,,0,0,0,,,,31345231345
+2,West Indies,1,SA Campbelle,S Pandey,NY McLean,,0,0,0,,,,31345231345
+2,West Indies,2,NY McLean,RP Yadav,SA Campbelle,,0,0,0,caught,NY McLean,H Kaur,31345231345
+2,West Indies,2,SA Campbelle,RP Yadav,CN Nation,,0,0,0,,,,31345231345
+2,West Indies,2,SA Campbelle,RP Yadav,CN Nation,,0,0,0,,,,31345231345
+2,West Indies,2,SA Campbelle,RP Yadav,CN Nation,,0,0,0,,,,31345231345
+2,West Indies,2,SA Campbelle,RP Yadav,CN Nation,,0,1,1,,,,31345231345
+2,West Indies,2,CN Nation,RP Yadav,SA Campbelle,,0,0,0,,,,31345231345
+2,West Indies,3,SA Campbelle,S Pandey,CN Nation,legbyes,1,1,0,,,,31345231345
+2,West Indies,3,CN Nation,S Pandey,SA Campbelle,,0,1,1,,,,31345231345
+2,West Indies,3,SA Campbelle,S Pandey,CN Nation,,0,0,0,,,,31345231345
+2,West Indies,3,SA Campbelle,S Pandey,CN Nation,,0,4,4,,,,31345231345
+2,West Indies,3,SA Campbelle,S Pandey,CN Nation,,0,0,0,,,,31345231345
+2,West Indies,3,SA Campbelle,S Pandey,CN Nation,,0,1,1,,,,31345231345
+2,West Indies,4,SA Campbelle,RP Yadav,CN Nation,,0,1,1,,,,31345231345
+2,West Indies,4,CN Nation,RP Yadav,SA Campbelle,,0,0,0,,,,31345231345
+2,West Indies,4,CN Nation,RP Yadav,SA Campbelle,,0,1,1,,,,31345231345
+2,West Indies,4,SA Campbelle,RP Yadav,CN Nation,,0,0,0,,,,31345231345
+2,West Indies,4,SA Campbelle,RP Yadav,CN Nation,,0,1,1,,,,31345231345
+2,West Indies,4,CN Nation,RP Yadav,SA Campbelle,,0,1,1,,,,31345231345
+2,West Indies,5,CN Nation,S Pandey,SA Campbelle,,0,0,0,,,,31345231345
+2,West Indies,5,CN Nation,S Pandey,SA Campbelle,,0,1,1,,,,31345231345
+2,West Indies,5,SA Campbelle,S Pandey,CN Nation,,0,1,1,,,,31345231345
+2,West Indies,5,CN Nation,S Pandey,SA Campbelle,,0,0,0,,,,31345231345
+2,West Indies,5,CN Nation,S Pandey,SA Campbelle,,0,6,6,,,,31345231345
+2,West Indies,5,CN Nation,S Pandey,SA Campbelle,,0,0,0,caught,CN Nation,H Kaur,31345231345
+2,West Indies,6,Kyshona A Knight,H Kaur,SA Campbelle,,0,0,0,,,,31345231345
+2,West Indies,6,Kyshona A Knight,H Kaur,SA Campbelle,,0,0,0,,,,31345231345
+2,West Indies,6,Kyshona A Knight,H Kaur,SA Campbelle,,0,1,1,,,,31345231345
+2,West Indies,6,SA Campbelle,H Kaur,Kyshona A Knight,,0,0,0,,,,31345231345
+2,West Indies,6,SA Campbelle,H Kaur,Kyshona A Knight,,0,2,2,,,,31345231345
+2,West Indies,6,SA Campbelle,H Kaur,Kyshona A Knight,,0,4,4,,,,31345231345
+2,West Indies,7,Kyshona A Knight,DB Sharma,SA Campbelle,,0,1,1,,,,31345231345
+2,West Indies,7,SA Campbelle,DB Sharma,Kyshona A Knight,,0,0,0,,,,31345231345
+2,West Indies,7,SA Campbelle,DB Sharma,Kyshona A Knight,,0,1,1,,,,31345231345
+2,West Indies,7,Kyshona A Knight,DB Sharma,SA Campbelle,,0,4,4,,,,31345231345
+2,West Indies,7,Kyshona A Knight,DB Sharma,SA Campbelle,,0,0,0,,,,31345231345
+2,West Indies,7,Kyshona A Knight,DB Sharma,SA Campbelle,,0,0,0,,,,31345231345
+2,West Indies,8,SA Campbelle,Poonam Yadav,Kyshona A Knight,,0,1,1,,,,31345231345
+2,West Indies,8,Kyshona A Knight,Poonam Yadav,SA Campbelle,wides,1,1,0,,,,31345231345
+2,West Indies,8,Kyshona A Knight,Poonam Yadav,SA Campbelle,,0,4,4,,,,31345231345
+2,West Indies,8,Kyshona A Knight,Poonam Yadav,SA Campbelle,,0,2,2,,,,31345231345
+2,West Indies,8,Kyshona A Knight,Poonam Yadav,SA Campbelle,,0,0,0,caught,Kyshona A Knight,S Mandhana,31345231345
+2,West Indies,8,SA Campbelle,Poonam Yadav,SACA King,,0,1,1,,,,31345231345
+2,West Indies,8,SACA King,Poonam Yadav,SA Campbelle,,0,1,1,,,,31345231345
+2,West Indies,9,SACA King,P Vastrakar,SA Campbelle,legbyes,1,1,0,,,,31345231345
+2,West Indies,9,SA Campbelle,P Vastrakar,SACA King,,0,0,0,,,,31345231345
+2,West Indies,9,SA Campbelle,P Vastrakar,SACA King,,0,1,1,,,,31345231345
+2,West Indies,9,SACA King,P Vastrakar,SA Campbelle,,0,1,1,,,,31345231345
+2,West Indies,9,SA Campbelle,P Vastrakar,SACA King,,0,1,1,,,,31345231345
+2,West Indies,9,SACA King,P Vastrakar,SA Campbelle,,0,1,1,,,,31345231345
+2,West Indies,10,SACA King,Poonam Yadav,SA Campbelle,,0,1,1,,,,31345231345
+2,West Indies,10,SA Campbelle,Poonam Yadav,SACA King,,0,0,0,,,,31345231345
+2,West Indies,10,SA Campbelle,Poonam Yadav,SACA King,,0,1,1,,,,31345231345
+2,West Indies,10,SACA King,Poonam Yadav,SA Campbelle,,0,1,1,,,,31345231345
+2,West Indies,10,SA Campbelle,Poonam Yadav,SACA King,,0,0,0,,,,31345231345
+2,West Indies,10,SA Campbelle,Poonam Yadav,SACA King,,0,1,1,,,,31345231345
+2,West Indies,11,SA Campbelle,P Vastrakar,SACA King,,0,2,2,,,,31345231345
+2,West Indies,11,SA Campbelle,P Vastrakar,SACA King,,0,2,2,,,,31345231345
+2,West Indies,11,SA Campbelle,P Vastrakar,SACA King,,0,6,6,,,,31345231345
+2,West Indies,11,SA Campbelle,P Vastrakar,SACA King,,0,1,1,,,,31345231345
+2,West Indies,11,SACA King,P Vastrakar,SA Campbelle,,0,0,0,,,,31345231345
+2,West Indies,11,SACA King,P Vastrakar,SA Campbelle,,0,2,2,run out,SA Campbelle,,31345231345
+2,West Indies,12,SACA King,Poonam Yadav,CA Henry,,0,2,2,,,,31345231345
+2,West Indies,12,SACA King,Poonam Yadav,CA Henry,,0,1,1,,,,31345231345
+2,West Indies,12,CA Henry,Poonam Yadav,SACA King,,0,1,1,,,,31345231345
+2,West Indies,12,SACA King,Poonam Yadav,CA Henry,,0,1,1,,,,31345231345
+2,West Indies,12,CA Henry,Poonam Yadav,SACA King,,0,0,0,,,,31345231345
+2,West Indies,12,CA Henry,Poonam Yadav,SACA King,,0,0,0,,,,31345231345
+2,West Indies,13,SACA King,P Vastrakar,CA Henry,,0,0,0,,,,31345231345
+2,West Indies,13,SACA King,P Vastrakar,CA Henry,,0,0,0,,,,31345231345
+2,West Indies,13,SACA King,P Vastrakar,CA Henry,,0,1,1,,,,31345231345
+2,West Indies,13,CA Henry,P Vastrakar,SACA King,,0,1,1,,,,31345231345
+2,West Indies,13,SACA King,P Vastrakar,CA Henry,,0,0,0,,,,31345231345
+2,West Indies,13,SACA King,P Vastrakar,CA Henry,,0,1,1,,,,31345231345
+2,West Indies,14,SACA King,DB Sharma,CA Henry,,0,0,0,lbw,SACA King,,31345231345
+2,West Indies,14,AA Alleyne,DB Sharma,CA Henry,,0,0,0,,,,31345231345
+2,West Indies,14,AA Alleyne,DB Sharma,CA Henry,,0,0,0,,,,31345231345
+2,West Indies,14,AA Alleyne,DB Sharma,CA Henry,,0,0,0,,,,31345231345
+2,West Indies,14,AA Alleyne,DB Sharma,CA Henry,,0,0,0,,,,31345231345
+2,West Indies,14,AA Alleyne,DB Sharma,CA Henry,,0,0,0,,,,31345231345
+2,West Indies,15,CA Henry,P Vastrakar,AA Alleyne,,0,0,0,,,,31345231345
+2,West Indies,15,CA Henry,P Vastrakar,AA Alleyne,,0,0,0,caught,CA Henry,T Bhatia,31345231345
+2,West Indies,15,ASS Fletcher,P Vastrakar,AA Alleyne,,0,0,0,,,,31345231345
+2,West Indies,15,ASS Fletcher,P Vastrakar,AA Alleyne,,0,0,0,,,,31345231345
+2,West Indies,15,ASS Fletcher,P Vastrakar,AA Alleyne,,0,1,1,,,,31345231345
+2,West Indies,15,AA Alleyne,P Vastrakar,ASS Fletcher,,0,0,0,,,,31345231345
+2,West Indies,16,ASS Fletcher,RP Yadav,AA Alleyne,,0,0,0,,,,31345231345
+2,West Indies,16,ASS Fletcher,RP Yadav,AA Alleyne,,0,0,0,,,,31345231345
+2,West Indies,16,ASS Fletcher,RP Yadav,AA Alleyne,,0,0,0,,,,31345231345
+2,West Indies,16,ASS Fletcher,RP Yadav,AA Alleyne,,0,0,0,,,,31345231345
+2,West Indies,16,ASS Fletcher,RP Yadav,AA Alleyne,wides,3,3,0,,,,31345231345
+2,West Indies,16,ASS Fletcher,RP Yadav,AA Alleyne,,0,1,1,,,,31345231345
+2,West Indies,16,AA Alleyne,RP Yadav,ASS Fletcher,,0,1,1,,,,31345231345
+2,West Indies,17,AA Alleyne,S Pandey,ASS Fletcher,,0,0,0,,,,31345231345
+2,West Indies,17,AA Alleyne,S Pandey,ASS Fletcher,,0,2,2,,,,31345231345
+2,West Indies,17,AA Alleyne,S Pandey,ASS Fletcher,,0,1,1,,,,31345231345
+2,West Indies,17,ASS Fletcher,S Pandey,AA Alleyne,,0,1,1,,,,31345231345
+2,West Indies,17,AA Alleyne,S Pandey,ASS Fletcher,,0,0,0,,,,31345231345
+2,West Indies,17,AA Alleyne,S Pandey,ASS Fletcher,,0,0,0,,,,31345231345
+2,West Indies,18,ASS Fletcher,Poonam Yadav,AA Alleyne,,0,0,0,,,,31345231345
+2,West Indies,18,ASS Fletcher,Poonam Yadav,AA Alleyne,,0,1,1,,,,31345231345
+2,West Indies,18,AA Alleyne,Poonam Yadav,ASS Fletcher,,0,4,4,,,,31345231345
+2,West Indies,18,AA Alleyne,Poonam Yadav,ASS Fletcher,,0,0,0,lbw,AA Alleyne,,31345231345
+2,West Indies,18,A Mohammed,Poonam Yadav,ASS Fletcher,,0,0,0,,,,31345231345
+2,West Indies,18,A Mohammed,Poonam Yadav,ASS Fletcher,,0,0,0,,,,31345231345
+2,West Indies,19,ASS Fletcher,RP Yadav,A Mohammed,,0,0,0,,,,31345231345
+2,West Indies,19,ASS Fletcher,RP Yadav,A Mohammed,,0,0,0,bowled,ASS Fletcher,,31345231345
+2,West Indies,19,SC Selman,RP Yadav,A Mohammed,,0,0,0,,,,31345231345
+2,West Indies,19,SC Selman,RP Yadav,A Mohammed,,0,0,0,,,,31345231345
+2,West Indies,19,SC Selman,RP Yadav,A Mohammed,,0,0,0,,,,31345231345
+2,West Indies,19,SC Selman,RP Yadav,A Mohammed,,0,0,0,,,,31345231345

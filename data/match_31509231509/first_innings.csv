@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,India,0,RD Gaikwad,PVD Chameera,S Dhawan,,0,0,0,,,,31509231509
+1,India,0,RD Gaikwad,PVD Chameera,S Dhawan,,0,4,4,,,,31509231509
+1,India,0,RD Gaikwad,PVD Chameera,S Dhawan,,0,1,1,,,,31509231509
+1,India,0,S Dhawan,PVD Chameera,RD Gaikwad,,0,0,0,caught,S Dhawan,DM de Silva,31509231509
+1,India,0,D Padikkal,PVD Chameera,RD Gaikwad,,0,0,0,,,,31509231509
+1,India,0,D Padikkal,PVD Chameera,RD Gaikwad,,0,0,0,,,,31509231509
+1,India,1,RD Gaikwad,C Karunaratne,D Padikkal,,0,1,1,,,,31509231509
+1,India,1,D Padikkal,C Karunaratne,RD Gaikwad,,0,4,4,,,,31509231509
+1,India,1,D Padikkal,C Karunaratne,RD Gaikwad,,0,1,1,,,,31509231509
+1,India,1,RD Gaikwad,C Karunaratne,D Padikkal,,0,1,1,,,,31509231509
+1,India,1,D Padikkal,C Karunaratne,RD Gaikwad,,0,0,0,,,,31509231509
+1,India,1,D Padikkal,C Karunaratne,RD Gaikwad,,0,0,0,,,,31509231509
+1,India,2,RD Gaikwad,PVD Chameera,D Padikkal,,0,1,1,,,,31509231509
+1,India,2,D Padikkal,PVD Chameera,RD Gaikwad,,0,0,0,,,,31509231509
+1,India,2,D Padikkal,PVD Chameera,RD Gaikwad,,0,0,0,,,,31509231509
+1,India,2,D Padikkal,PVD Chameera,RD Gaikwad,,0,0,0,,,,31509231509
+1,India,2,D Padikkal,PVD Chameera,RD Gaikwad,,0,0,0,,,,31509231509
+1,India,2,D Padikkal,PVD Chameera,RD Gaikwad,,0,1,1,,,,31509231509
+1,India,3,D Padikkal,RTM Mendis,RD Gaikwad,,0,0,0,,,,31509231509
+1,India,3,D Padikkal,RTM Mendis,RD Gaikwad,,0,1,1,,,,31509231509
+1,India,3,RD Gaikwad,RTM Mendis,D Padikkal,,0,4,4,,,,31509231509
+1,India,3,RD Gaikwad,RTM Mendis,D Padikkal,wides,1,1,0,,,,31509231509
+1,India,3,RD Gaikwad,RTM Mendis,D Padikkal,,0,1,1,,,,31509231509
+1,India,3,D Padikkal,RTM Mendis,RD Gaikwad,,0,2,2,,,,31509231509
+1,India,3,D Padikkal,RTM Mendis,RD Gaikwad,,0,0,0,lbw,D Padikkal,,31509231509
+1,India,4,RD Gaikwad,PWH de Silva,SV Samson,,0,1,1,,,,31509231509
+1,India,4,SV Samson,PWH de Silva,RD Gaikwad,,0,0,0,,,,31509231509
+1,India,4,SV Samson,PWH de Silva,RD Gaikwad,,0,0,0,,,,31509231509
+1,India,4,SV Samson,PWH de Silva,RD Gaikwad,,0,0,0,lbw,SV Samson,,31509231509
+1,India,4,N Rana,PWH de Silva,RD Gaikwad,,0,1,1,,,,31509231509
+1,India,4,RD Gaikwad,PWH de Silva,N Rana,,0,0,0,lbw,RD Gaikwad,,31509231509
+1,India,5,N Rana,RTM Mendis,B Kumar,,0,0,0,,,,31509231509
+1,India,5,N Rana,RTM Mendis,B Kumar,,0,1,1,,,,31509231509
+1,India,5,B Kumar,RTM Mendis,N Rana,,0,0,0,,,,31509231509
+1,India,5,B Kumar,RTM Mendis,N Rana,,0,1,1,,,,31509231509
+1,India,5,N Rana,RTM Mendis,B Kumar,,0,1,1,,,,31509231509
+1,India,5,B Kumar,RTM Mendis,N Rana,,0,1,1,,,,31509231509
+1,India,6,B Kumar,PWH de Silva,N Rana,,0,0,0,,,,31509231509
+1,India,6,B Kumar,PWH de Silva,N Rana,,0,1,1,,,,31509231509
+1,India,6,N Rana,PWH de Silva,B Kumar,,0,0,0,,,,31509231509
+1,India,6,N Rana,PWH de Silva,B Kumar,,0,1,1,,,,31509231509
+1,India,6,B Kumar,PWH de Silva,N Rana,,0,1,1,,,,31509231509
+1,India,6,N Rana,PWH de Silva,B Kumar,,0,1,1,,,,31509231509
+1,India,7,N Rana,A Dananjaya,B Kumar,,0,0,0,,,,31509231509
+1,India,7,N Rana,A Dananjaya,B Kumar,,0,1,1,,,,31509231509
+1,India,7,B Kumar,A Dananjaya,N Rana,,0,1,1,,,,31509231509
+1,India,7,N Rana,A Dananjaya,B Kumar,,0,0,0,,,,31509231509
+1,India,7,N Rana,A Dananjaya,B Kumar,,0,0,0,,,,31509231509
+1,India,7,N Rana,A Dananjaya,B Kumar,,0,0,0,,,,31509231509
+1,India,8,B Kumar,MD Shanaka,N Rana,,0,0,0,,,,31509231509
+1,India,8,B Kumar,MD Shanaka,N Rana,,0,0,0,,,,31509231509
+1,India,8,B Kumar,MD Shanaka,N Rana,,0,1,1,,,,31509231509
+1,India,8,N Rana,MD Shanaka,B Kumar,,0,0,0,,,,31509231509
+1,India,8,N Rana,MD Shanaka,B Kumar,,0,0,0,,,,31509231509
+1,India,8,N Rana,MD Shanaka,B Kumar,,0,0,0,caught and bowled,N Rana,,31509231509
+1,India,9,B Kumar,A Dananjaya,Kuldeep Yadav,,0,0,0,,,,31509231509
+1,India,9,B Kumar,A Dananjaya,Kuldeep Yadav,,0,1,1,,,,31509231509
+1,India,9,Kuldeep Yadav,A Dananjaya,B Kumar,,0,0,0,,,,31509231509
+1,India,9,Kuldeep Yadav,A Dananjaya,B Kumar,,0,0,0,,,,31509231509
+1,India,9,Kuldeep Yadav,A Dananjaya,B Kumar,,0,1,1,,,,31509231509
+1,India,9,B Kumar,A Dananjaya,Kuldeep Yadav,,0,1,1,,,,31509231509
+1,India,10,B Kumar,MD Shanaka,Kuldeep Yadav,,0,0,0,,,,31509231509
+1,India,10,B Kumar,MD Shanaka,Kuldeep Yadav,,0,1,1,,,,31509231509
+1,India,10,Kuldeep Yadav,MD Shanaka,B Kumar,,0,0,0,,,,31509231509
+1,India,10,Kuldeep Yadav,MD Shanaka,B Kumar,,0,1,1,,,,31509231509
+1,India,10,B Kumar,MD Shanaka,Kuldeep Yadav,,0,0,0,,,,31509231509
+1,India,10,B Kumar,MD Shanaka,Kuldeep Yadav,,0,1,1,,,,31509231509
+1,India,11,B Kumar,A Dananjaya,Kuldeep Yadav,,0,0,0,,,,31509231509
+1,India,11,B Kumar,A Dananjaya,Kuldeep Yadav,,0,0,0,,,,31509231509
+1,India,11,B Kumar,A Dananjaya,Kuldeep Yadav,,0,0,0,,,,31509231509
+1,India,11,B Kumar,A Dananjaya,Kuldeep Yadav,,0,0,0,,,,31509231509
+1,India,11,B Kumar,A Dananjaya,Kuldeep Yadav,,0,0,0,,,,31509231509
+1,India,11,B Kumar,A Dananjaya,Kuldeep Yadav,,0,1,1,,,,31509231509
+1,India,12,B Kumar,C Karunaratne,Kuldeep Yadav,,0,1,1,,,,31509231509
+1,India,12,Kuldeep Yadav,C Karunaratne,B Kumar,,0,1,1,,,,31509231509
+1,India,12,B Kumar,C Karunaratne,Kuldeep Yadav,,0,0,0,,,,31509231509
+1,India,12,B Kumar,C Karunaratne,Kuldeep Yadav,,0,1,1,,,,31509231509
+1,India,12,Kuldeep Yadav,C Karunaratne,B Kumar,,0,2,2,,,,31509231509
+1,India,12,Kuldeep Yadav,C Karunaratne,B Kumar,,0,0,0,,,,31509231509
+1,India,13,B Kumar,A Dananjaya,Kuldeep Yadav,,0,1,1,,,,31509231509
+1,India,13,Kuldeep Yadav,A Dananjaya,B Kumar,,0,0,0,,,,31509231509
+1,India,13,Kuldeep Yadav,A Dananjaya,B Kumar,,0,1,1,,,,31509231509
+1,India,13,B Kumar,A Dananjaya,Kuldeep Yadav,,0,0,0,,,,31509231509
+1,India,13,B Kumar,A Dananjaya,Kuldeep Yadav,,0,1,1,,,,31509231509
+1,India,13,Kuldeep Yadav,A Dananjaya,B Kumar,,0,2,2,,,,31509231509
+1,India,14,B Kumar,PWH de Silva,Kuldeep Yadav,,0,0,0,,,,31509231509
+1,India,14,B Kumar,PWH de Silva,Kuldeep Yadav,,0,1,1,,,,31509231509
+1,India,14,Kuldeep Yadav,PWH de Silva,B Kumar,,0,0,0,,,,31509231509
+1,India,14,Kuldeep Yadav,PWH de Silva,B Kumar,,0,1,1,,,,31509231509
+1,India,14,B Kumar,PWH de Silva,Kuldeep Yadav,,0,0,0,caught,B Kumar,MD Shanaka,31509231509
+1,India,14,RD Chahar,PWH de Silva,Kuldeep Yadav,,0,0,0,,,,31509231509
+1,India,15,Kuldeep Yadav,MD Shanaka,RD Chahar,,0,1,1,,,,31509231509
+1,India,15,RD Chahar,MD Shanaka,Kuldeep Yadav,,0,4,4,,,,31509231509
+1,India,15,RD Chahar,MD Shanaka,Kuldeep Yadav,,0,0,0,,,,31509231509
+1,India,15,RD Chahar,MD Shanaka,Kuldeep Yadav,,0,1,1,,,,31509231509
+1,India,15,Kuldeep Yadav,MD Shanaka,RD Chahar,,0,1,1,,,,31509231509
+1,India,15,RD Chahar,MD Shanaka,Kuldeep Yadav,,0,0,0,caught,RD Chahar,M Bhanuka,31509231509
+1,India,16,Kuldeep Yadav,PWH de Silva,CV Varun,,0,0,0,,,,31509231509
+1,India,16,Kuldeep Yadav,PWH de Silva,CV Varun,,0,1,1,,,,31509231509
+1,India,16,CV Varun,PWH de Silva,Kuldeep Yadav,,0,0,0,,,,31509231509
+1,India,16,CV Varun,PWH de Silva,Kuldeep Yadav,,0,0,0,caught,CV Varun,C Karunaratne,31509231509
+1,India,16,C Sakariya,PWH de Silva,Kuldeep Yadav,,0,0,0,,,,31509231509
+1,India,16,C Sakariya,PWH de Silva,Kuldeep Yadav,,0,0,0,,,,31509231509
+1,India,17,Kuldeep Yadav,PVD Chameera,C Sakariya,,0,1,1,,,,31509231509
+1,India,17,C Sakariya,PVD Chameera,Kuldeep Yadav,,0,0,0,,,,31509231509
+1,India,17,C Sakariya,PVD Chameera,Kuldeep Yadav,,0,1,1,,,,31509231509
+1,India,17,Kuldeep Yadav,PVD Chameera,C Sakariya,,0,0,0,,,,31509231509
+1,India,17,Kuldeep Yadav,PVD Chameera,C Sakariya,,0,0,0,,,,31509231509
+1,India,17,Kuldeep Yadav,PVD Chameera,C Sakariya,,0,1,1,,,,31509231509
+1,India,18,Kuldeep Yadav,MD Shanaka,C Sakariya,wides,1,1,0,,,,31509231509
+1,India,18,Kuldeep Yadav,MD Shanaka,C Sakariya,,0,0,0,,,,31509231509
+1,India,18,Kuldeep Yadav,MD Shanaka,C Sakariya,,0,2,2,,,,31509231509
+1,India,18,Kuldeep Yadav,MD Shanaka,C Sakariya,,0,3,3,,,,31509231509
+1,India,18,C Sakariya,MD Shanaka,Kuldeep Yadav,,0,1,1,,,,31509231509
+1,India,18,Kuldeep Yadav,MD Shanaka,C Sakariya,,0,1,1,,,,31509231509
+1,India,18,C Sakariya,MD Shanaka,Kuldeep Yadav,,0,1,1,,,,31509231509
+1,India,19,C Sakariya,PVD Chameera,Kuldeep Yadav,wides,1,1,0,,,,31509231509
+1,India,19,C Sakariya,PVD Chameera,Kuldeep Yadav,,0,0,0,,,,31509231509
+1,India,19,C Sakariya,PVD Chameera,Kuldeep Yadav,,0,1,1,,,,31509231509
+1,India,19,Kuldeep Yadav,PVD Chameera,C Sakariya,,0,1,1,,,,31509231509
+1,India,19,C Sakariya,PVD Chameera,Kuldeep Yadav,,0,1,1,,,,31509231509
+1,India,19,Kuldeep Yadav,PVD Chameera,C Sakariya,,0,0,0,,,,31509231509
+1,India,19,Kuldeep Yadav,PVD Chameera,C Sakariya,,0,2,2,,,,31509231509

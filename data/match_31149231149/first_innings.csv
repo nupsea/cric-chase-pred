@@ -1,0 +1,67 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,New Zealand,0,MJ Guptill,SM Curran,C Munro,,0,0,0,,,,31149231149
+1,New Zealand,0,MJ Guptill,SM Curran,C Munro,,0,4,4,,,,31149231149
+1,New Zealand,0,MJ Guptill,SM Curran,C Munro,,0,1,1,,,,31149231149
+1,New Zealand,0,C Munro,SM Curran,MJ Guptill,,0,2,2,,,,31149231149
+1,New Zealand,0,C Munro,SM Curran,MJ Guptill,,0,4,4,,,,31149231149
+1,New Zealand,0,C Munro,SM Curran,MJ Guptill,,0,6,6,,,,31149231149
+1,New Zealand,1,MJ Guptill,TK Curran,C Munro,,0,4,4,,,,31149231149
+1,New Zealand,1,MJ Guptill,TK Curran,C Munro,,0,6,6,,,,31149231149
+1,New Zealand,1,MJ Guptill,TK Curran,C Munro,,0,2,2,,,,31149231149
+1,New Zealand,1,MJ Guptill,TK Curran,C Munro,,0,6,6,,,,31149231149
+1,New Zealand,1,MJ Guptill,TK Curran,C Munro,,0,2,2,,,,31149231149
+1,New Zealand,1,MJ Guptill,TK Curran,C Munro,,0,0,0,,,,31149231149
+1,New Zealand,2,C Munro,CJ Jordan,MJ Guptill,,0,6,6,,,,31149231149
+1,New Zealand,2,C Munro,CJ Jordan,MJ Guptill,,0,1,1,,,,31149231149
+1,New Zealand,2,MJ Guptill,CJ Jordan,C Munro,,0,4,4,,,,31149231149
+1,New Zealand,2,MJ Guptill,CJ Jordan,C Munro,,0,6,6,,,,31149231149
+1,New Zealand,2,MJ Guptill,CJ Jordan,C Munro,,0,0,0,,,,31149231149
+1,New Zealand,2,MJ Guptill,CJ Jordan,C Munro,,0,1,1,,,,31149231149
+1,New Zealand,3,MJ Guptill,AU Rashid,C Munro,,0,0,0,,,,31149231149
+1,New Zealand,3,MJ Guptill,AU Rashid,C Munro,,0,6,6,,,,31149231149
+1,New Zealand,3,MJ Guptill,AU Rashid,C Munro,,0,6,6,,,,31149231149
+1,New Zealand,3,MJ Guptill,AU Rashid,C Munro,legbyes,1,1,0,,,,31149231149
+1,New Zealand,3,C Munro,AU Rashid,MJ Guptill,,0,0,0,,,,31149231149
+1,New Zealand,3,C Munro,AU Rashid,MJ Guptill,,0,2,2,,,,31149231149
+1,New Zealand,4,MJ Guptill,S Mahmood,C Munro,,0,1,1,,,,31149231149
+1,New Zealand,4,C Munro,S Mahmood,MJ Guptill,,0,4,4,,,,31149231149
+1,New Zealand,4,C Munro,S Mahmood,MJ Guptill,,0,1,1,,,,31149231149
+1,New Zealand,4,MJ Guptill,S Mahmood,C Munro,,0,1,1,,,,31149231149
+1,New Zealand,4,C Munro,S Mahmood,MJ Guptill,,0,0,0,,,,31149231149
+1,New Zealand,4,C Munro,S Mahmood,MJ Guptill,,0,6,6,,,,31149231149
+1,New Zealand,5,MJ Guptill,AU Rashid,C Munro,,0,0,0,caught,MJ Guptill,T Banton,31149231149
+1,New Zealand,5,C Munro,AU Rashid,C de Grandhomme,,0,1,1,,,,31149231149
+1,New Zealand,5,C de Grandhomme,AU Rashid,C Munro,,0,1,1,,,,31149231149
+1,New Zealand,5,C Munro,AU Rashid,C de Grandhomme,,0,1,1,,,,31149231149
+1,New Zealand,5,C de Grandhomme,AU Rashid,C Munro,,0,1,1,,,,31149231149
+1,New Zealand,5,C Munro,AU Rashid,C de Grandhomme,,0,1,1,,,,31149231149
+1,New Zealand,6,C Munro,S Mahmood,C de Grandhomme,,0,1,1,,,,31149231149
+1,New Zealand,6,C de Grandhomme,S Mahmood,C Munro,,0,4,4,,,,31149231149
+1,New Zealand,6,C de Grandhomme,S Mahmood,C Munro,,0,0,0,,,,31149231149
+1,New Zealand,6,C de Grandhomme,S Mahmood,C Munro,,0,0,0,caught,C de Grandhomme,JM Vince,31149231149
+1,New Zealand,6,C Munro,S Mahmood,TL Seifert,,0,1,1,,,,31149231149
+1,New Zealand,6,TL Seifert,S Mahmood,C Munro,,0,1,1,,,,31149231149
+1,New Zealand,7,TL Seifert,AU Rashid,C Munro,,0,1,1,,,,31149231149
+1,New Zealand,7,C Munro,AU Rashid,TL Seifert,,0,1,1,,,,31149231149
+1,New Zealand,7,TL Seifert,AU Rashid,C Munro,,0,6,6,,,,31149231149
+1,New Zealand,7,TL Seifert,AU Rashid,C Munro,,0,0,0,,,,31149231149
+1,New Zealand,7,TL Seifert,AU Rashid,C Munro,,0,6,6,,,,31149231149
+1,New Zealand,7,TL Seifert,AU Rashid,C Munro,,0,1,1,,,,31149231149
+1,New Zealand,8,TL Seifert,CJ Jordan,C Munro,,0,1,1,,,,31149231149
+1,New Zealand,8,C Munro,CJ Jordan,TL Seifert,,0,6,6,,,,31149231149
+1,New Zealand,8,C Munro,CJ Jordan,TL Seifert,,0,1,1,,,,31149231149
+1,New Zealand,8,TL Seifert,CJ Jordan,C Munro,,0,0,0,,,,31149231149
+1,New Zealand,8,TL Seifert,CJ Jordan,C Munro,,0,1,1,,,,31149231149
+1,New Zealand,8,C Munro,CJ Jordan,TL Seifert,,0,1,1,,,,31149231149
+1,New Zealand,9,C Munro,SM Curran,TL Seifert,,0,0,0,caught,C Munro,JM Vince,31149231149
+1,New Zealand,9,TL Seifert,SM Curran,JDS Neesham,,0,0,0,,,,31149231149
+1,New Zealand,9,TL Seifert,SM Curran,JDS Neesham,,0,0,0,,,,31149231149
+1,New Zealand,9,TL Seifert,SM Curran,JDS Neesham,,0,6,6,,,,31149231149
+1,New Zealand,9,TL Seifert,SM Curran,JDS Neesham,,0,6,6,,,,31149231149
+1,New Zealand,9,TL Seifert,SM Curran,JDS Neesham,,0,4,4,,,,31149231149
+1,New Zealand,10,JDS Neesham,TK Curran,TL Seifert,,0,1,1,,,,31149231149
+1,New Zealand,10,TL Seifert,TK Curran,JDS Neesham,,0,6,6,,,,31149231149
+1,New Zealand,10,TL Seifert,TK Curran,JDS Neesham,,0,0,0,bowled,TL Seifert,,31149231149
+1,New Zealand,10,LRPL Taylor,TK Curran,JDS Neesham,,0,2,2,,,,31149231149
+1,New Zealand,10,LRPL Taylor,TK Curran,JDS Neesham,,0,0,0,,,,31149231149
+1,New Zealand,10,LRPL Taylor,TK Curran,JDS Neesham,,0,1,1,run out,LRPL Taylor,,31149231149

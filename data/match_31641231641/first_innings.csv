@@ -1,0 +1,126 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,India,0,KL Rahul,Shaheen Shah Afridi,RG Sharma,,0,0,0,,,,31641231641
+1,India,0,KL Rahul,Shaheen Shah Afridi,RG Sharma,,0,0,0,,,,31641231641
+1,India,0,KL Rahul,Shaheen Shah Afridi,RG Sharma,,0,1,1,,,,31641231641
+1,India,0,RG Sharma,Shaheen Shah Afridi,KL Rahul,,0,0,0,lbw,RG Sharma,,31641231641
+1,India,0,V Kohli,Shaheen Shah Afridi,KL Rahul,,0,0,0,,,,31641231641
+1,India,0,V Kohli,Shaheen Shah Afridi,KL Rahul,,0,1,1,,,,31641231641
+1,India,1,V Kohli,Imad Wasim,KL Rahul,,0,1,1,,,,31641231641
+1,India,1,KL Rahul,Imad Wasim,V Kohli,,0,0,0,,,,31641231641
+1,India,1,KL Rahul,Imad Wasim,V Kohli,,0,1,1,,,,31641231641
+1,India,1,V Kohli,Imad Wasim,KL Rahul,,0,1,1,,,,31641231641
+1,India,1,KL Rahul,Imad Wasim,V Kohli,,0,0,0,,,,31641231641
+1,India,1,KL Rahul,Imad Wasim,V Kohli,,0,1,1,,,,31641231641
+1,India,2,KL Rahul,Shaheen Shah Afridi,V Kohli,,0,0,0,bowled,KL Rahul,,31641231641
+1,India,2,SA Yadav,Shaheen Shah Afridi,V Kohli,,0,0,0,,,,31641231641
+1,India,2,SA Yadav,Shaheen Shah Afridi,V Kohli,,0,0,0,,,,31641231641
+1,India,2,SA Yadav,Shaheen Shah Afridi,V Kohli,,0,1,1,,,,31641231641
+1,India,2,V Kohli,Shaheen Shah Afridi,SA Yadav,,0,1,1,,,,31641231641
+1,India,2,SA Yadav,Shaheen Shah Afridi,V Kohli,,0,6,6,,,,31641231641
+1,India,3,V Kohli,Imad Wasim,SA Yadav,,0,0,0,,,,31641231641
+1,India,3,V Kohli,Imad Wasim,SA Yadav,,0,0,0,,,,31641231641
+1,India,3,V Kohli,Imad Wasim,SA Yadav,,0,1,1,,,,31641231641
+1,India,3,SA Yadav,Imad Wasim,V Kohli,legbyes,1,1,0,,,,31641231641
+1,India,3,V Kohli,Imad Wasim,SA Yadav,,0,1,1,,,,31641231641
+1,India,3,SA Yadav,Imad Wasim,V Kohli,,0,4,4,,,,31641231641
+1,India,4,V Kohli,Shaheen Shah Afridi,SA Yadav,,0,2,2,,,,31641231641
+1,India,4,V Kohli,Shaheen Shah Afridi,SA Yadav,,0,0,0,,,,31641231641
+1,India,4,V Kohli,Shaheen Shah Afridi,SA Yadav,,0,0,0,,,,31641231641
+1,India,4,V Kohli,Shaheen Shah Afridi,SA Yadav,,0,0,0,,,,31641231641
+1,India,4,V Kohli,Shaheen Shah Afridi,SA Yadav,,0,6,6,,,,31641231641
+1,India,4,V Kohli,Shaheen Shah Afridi,SA Yadav,,0,1,1,,,,31641231641
+1,India,5,V Kohli,Hasan Ali,SA Yadav,,0,0,0,,,,31641231641
+1,India,5,V Kohli,Hasan Ali,SA Yadav,,0,1,1,,,,31641231641
+1,India,5,SA Yadav,Hasan Ali,V Kohli,,0,0,0,,,,31641231641
+1,India,5,SA Yadav,Hasan Ali,V Kohli,,0,0,0,caught,SA Yadav,Mohammad Rizwan,31641231641
+1,India,5,RR Pant,Hasan Ali,V Kohli,,0,1,1,,,,31641231641
+1,India,5,V Kohli,Hasan Ali,RR Pant,,0,4,4,,,,31641231641
+1,India,6,RR Pant,Shadab Khan,V Kohli,,0,0,0,,,,31641231641
+1,India,6,RR Pant,Shadab Khan,V Kohli,,0,0,0,,,,31641231641
+1,India,6,RR Pant,Shadab Khan,V Kohli,,0,0,0,,,,31641231641
+1,India,6,RR Pant,Shadab Khan,V Kohli,,0,2,2,,,,31641231641
+1,India,6,RR Pant,Shadab Khan,V Kohli,,0,0,0,,,,31641231641
+1,India,6,RR Pant,Shadab Khan,V Kohli,,0,1,1,,,,31641231641
+1,India,7,RR Pant,Mohammad Hafeez,V Kohli,,0,0,0,,,,31641231641
+1,India,7,RR Pant,Mohammad Hafeez,V Kohli,,0,1,1,,,,31641231641
+1,India,7,V Kohli,Mohammad Hafeez,RR Pant,,0,1,1,,,,31641231641
+1,India,7,RR Pant,Mohammad Hafeez,V Kohli,,0,0,0,,,,31641231641
+1,India,7,RR Pant,Mohammad Hafeez,V Kohli,,0,1,1,,,,31641231641
+1,India,7,V Kohli,Mohammad Hafeez,RR Pant,,0,1,1,,,,31641231641
+1,India,8,V Kohli,Shadab Khan,RR Pant,,0,1,1,,,,31641231641
+1,India,8,RR Pant,Shadab Khan,V Kohli,,0,0,0,,,,31641231641
+1,India,8,RR Pant,Shadab Khan,V Kohli,,0,2,2,,,,31641231641
+1,India,8,RR Pant,Shadab Khan,V Kohli,,0,1,1,,,,31641231641
+1,India,8,V Kohli,Shadab Khan,RR Pant,,0,1,1,,,,31641231641
+1,India,8,RR Pant,Shadab Khan,V Kohli,,0,4,4,,,,31641231641
+1,India,9,V Kohli,Mohammad Hafeez,RR Pant,,0,1,1,,,,31641231641
+1,India,9,RR Pant,Mohammad Hafeez,V Kohli,,0,4,4,,,,31641231641
+1,India,9,RR Pant,Mohammad Hafeez,V Kohli,,0,1,1,,,,31641231641
+1,India,9,V Kohli,Mohammad Hafeez,RR Pant,,0,1,1,,,,31641231641
+1,India,9,RR Pant,Mohammad Hafeez,V Kohli,,0,0,0,,,,31641231641
+1,India,9,RR Pant,Mohammad Hafeez,V Kohli,,0,1,1,,,,31641231641
+1,India,10,RR Pant,Haris Rauf,V Kohli,,0,1,1,,,,31641231641
+1,India,10,V Kohli,Haris Rauf,RR Pant,wides,1,1,0,,,,31641231641
+1,India,10,V Kohli,Haris Rauf,RR Pant,,0,1,1,,,,31641231641
+1,India,10,RR Pant,Haris Rauf,V Kohli,,0,1,1,,,,31641231641
+1,India,10,V Kohli,Haris Rauf,RR Pant,,0,1,1,,,,31641231641
+1,India,10,RR Pant,Haris Rauf,V Kohli,,0,0,0,,,,31641231641
+1,India,10,RR Pant,Haris Rauf,V Kohli,,0,1,1,,,,31641231641
+1,India,11,RR Pant,Hasan Ali,V Kohli,,0,0,0,,,,31641231641
+1,India,11,RR Pant,Hasan Ali,V Kohli,,0,6,6,,,,31641231641
+1,India,11,RR Pant,Hasan Ali,V Kohli,,0,6,6,,,,31641231641
+1,India,11,RR Pant,Hasan Ali,V Kohli,,0,2,2,,,,31641231641
+1,India,11,RR Pant,Hasan Ali,V Kohli,,0,1,1,,,,31641231641
+1,India,11,V Kohli,Hasan Ali,RR Pant,,0,0,0,,,,31641231641
+1,India,12,RR Pant,Shadab Khan,V Kohli,,0,2,2,,,,31641231641
+1,India,12,RR Pant,Shadab Khan,V Kohli,wides,1,1,0,,,,31641231641
+1,India,12,RR Pant,Shadab Khan,V Kohli,,0,0,0,caught and bowled,RR Pant,,31641231641
+1,India,12,V Kohli,Shadab Khan,RA Jadeja,,0,0,0,,,,31641231641
+1,India,12,V Kohli,Shadab Khan,RA Jadeja,,0,1,1,,,,31641231641
+1,India,12,RA Jadeja,Shadab Khan,V Kohli,,0,1,1,,,,31641231641
+1,India,12,V Kohli,Shadab Khan,RA Jadeja,,0,1,1,,,,31641231641
+1,India,13,V Kohli,Haris Rauf,RA Jadeja,,0,1,1,,,,31641231641
+1,India,13,RA Jadeja,Haris Rauf,V Kohli,,0,0,0,,,,31641231641
+1,India,13,RA Jadeja,Haris Rauf,V Kohli,,0,2,2,,,,31641231641
+1,India,13,RA Jadeja,Haris Rauf,V Kohli,,0,1,1,,,,31641231641
+1,India,13,V Kohli,Haris Rauf,RA Jadeja,wides,1,1,0,,,,31641231641
+1,India,13,V Kohli,Haris Rauf,RA Jadeja,,0,4,4,,,,31641231641
+1,India,13,V Kohli,Haris Rauf,RA Jadeja,,0,0,0,,,,31641231641
+1,India,14,RA Jadeja,Shadab Khan,V Kohli,,0,0,0,,,,31641231641
+1,India,14,RA Jadeja,Shadab Khan,V Kohli,,0,0,0,,,,31641231641
+1,India,14,RA Jadeja,Shadab Khan,V Kohli,,0,1,1,,,,31641231641
+1,India,14,V Kohli,Shadab Khan,RA Jadeja,,0,1,1,,,,31641231641
+1,India,14,RA Jadeja,Shadab Khan,V Kohli,,0,1,1,,,,31641231641
+1,India,14,V Kohli,Shadab Khan,RA Jadeja,,0,1,1,,,,31641231641
+1,India,15,V Kohli,Hasan Ali,RA Jadeja,,0,0,0,,,,31641231641
+1,India,15,V Kohli,Hasan Ali,RA Jadeja,,0,4,4,,,,31641231641
+1,India,15,V Kohli,Hasan Ali,RA Jadeja,,0,0,0,,,,31641231641
+1,India,15,V Kohli,Hasan Ali,RA Jadeja,,0,4,4,,,,31641231641
+1,India,15,V Kohli,Hasan Ali,RA Jadeja,,0,1,1,,,,31641231641
+1,India,15,RA Jadeja,Hasan Ali,V Kohli,,0,1,1,,,,31641231641
+1,India,16,RA Jadeja,Haris Rauf,V Kohli,,0,1,1,,,,31641231641
+1,India,16,V Kohli,Haris Rauf,RA Jadeja,,0,1,1,,,,31641231641
+1,India,16,RA Jadeja,Haris Rauf,V Kohli,,0,1,1,,,,31641231641
+1,India,16,V Kohli,Haris Rauf,RA Jadeja,,0,0,0,,,,31641231641
+1,India,16,V Kohli,Haris Rauf,RA Jadeja,,0,0,0,,,,31641231641
+1,India,16,V Kohli,Haris Rauf,RA Jadeja,,0,1,1,,,,31641231641
+1,India,17,V Kohli,Hasan Ali,RA Jadeja,,0,2,2,,,,31641231641
+1,India,17,V Kohli,Hasan Ali,RA Jadeja,,0,4,4,,,,31641231641
+1,India,17,V Kohli,Hasan Ali,RA Jadeja,,0,1,1,,,,31641231641
+1,India,17,RA Jadeja,Hasan Ali,V Kohli,,0,4,4,,,,31641231641
+1,India,17,RA Jadeja,Hasan Ali,V Kohli,,0,0,0,caught,RA Jadeja,Mohammad Nawaz,31641231641
+1,India,17,V Kohli,Hasan Ali,HH Pandya,,0,2,2,,,,31641231641
+1,India,18,HH Pandya,Shaheen Shah Afridi,V Kohli,wides,1,1,0,,,,31641231641
+1,India,18,HH Pandya,Shaheen Shah Afridi,V Kohli,,0,0,0,,,,31641231641
+1,India,18,HH Pandya,Shaheen Shah Afridi,V Kohli,,0,4,4,,,,31641231641
+1,India,18,HH Pandya,Shaheen Shah Afridi,V Kohli,,0,1,1,,,,31641231641
+1,India,18,V Kohli,Shaheen Shah Afridi,HH Pandya,,0,0,0,caught,V Kohli,Mohammad Rizwan,31641231641
+1,India,18,B Kumar,Shaheen Shah Afridi,HH Pandya,,0,1,1,,,,31641231641
+1,India,18,HH Pandya,Shaheen Shah Afridi,B Kumar,noballs,1,5,4,,,,31641231641
+1,India,18,HH Pandya,Shaheen Shah Afridi,B Kumar,byes,5,5,0,,,,31641231641
+1,India,19,HH Pandya,Haris Rauf,B Kumar,,0,0,0,,,,31641231641
+1,India,19,HH Pandya,Haris Rauf,B Kumar,,0,2,2,,,,31641231641
+1,India,19,HH Pandya,Haris Rauf,B Kumar,,0,0,0,caught,HH Pandya,Babar Azam,31641231641
+1,India,19,B Kumar,Haris Rauf,Mohammed Shami,,0,2,2,,,,31641231641
+1,India,19,B Kumar,Haris Rauf,Mohammed Shami,,0,2,2,,,,31641231641
+1,India,19,B Kumar,Haris Rauf,Mohammed Shami,byes,1,1,0,,,,31641231641

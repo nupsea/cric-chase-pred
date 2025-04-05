@@ -1,0 +1,51 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Papua New Guinea,0,S Jimmy,Jahanara Alam,N Vare,,0,0,0,,,,31203231203
+2,Papua New Guinea,0,S Jimmy,Jahanara Alam,N Vare,,0,1,1,,,,31203231203
+2,Papua New Guinea,0,N Vare,Jahanara Alam,S Jimmy,,0,1,1,,,,31203231203
+2,Papua New Guinea,0,S Jimmy,Jahanara Alam,N Vare,,0,0,0,,,,31203231203
+2,Papua New Guinea,0,S Jimmy,Jahanara Alam,N Vare,,0,4,4,,,,31203231203
+2,Papua New Guinea,0,S Jimmy,Jahanara Alam,N Vare,,0,1,1,,,,31203231203
+2,Papua New Guinea,1,S Jimmy,Salma Khatun,N Vare,,0,1,1,,,,31203231203
+2,Papua New Guinea,1,N Vare,Salma Khatun,S Jimmy,,0,0,0,,,,31203231203
+2,Papua New Guinea,1,N Vare,Salma Khatun,S Jimmy,,0,2,2,,,,31203231203
+2,Papua New Guinea,1,N Vare,Salma Khatun,S Jimmy,,0,4,4,,,,31203231203
+2,Papua New Guinea,1,N Vare,Salma Khatun,S Jimmy,,0,0,0,,,,31203231203
+2,Papua New Guinea,1,N Vare,Salma Khatun,S Jimmy,,0,0,0,,,,31203231203
+2,Papua New Guinea,2,S Jimmy,Ritu Moni,N Vare,legbyes,1,1,0,,,,31203231203
+2,Papua New Guinea,2,N Vare,Ritu Moni,S Jimmy,,0,2,2,,,,31203231203
+2,Papua New Guinea,2,N Vare,Ritu Moni,S Jimmy,,0,0,0,,,,31203231203
+2,Papua New Guinea,2,N Vare,Ritu Moni,S Jimmy,,0,0,0,,,,31203231203
+2,Papua New Guinea,2,N Vare,Ritu Moni,S Jimmy,,0,1,1,,,,31203231203
+2,Papua New Guinea,2,S Jimmy,Ritu Moni,N Vare,,0,1,1,,,,31203231203
+2,Papua New Guinea,3,S Jimmy,Nahida Akter,N Vare,,0,0,0,,,,31203231203
+2,Papua New Guinea,3,S Jimmy,Nahida Akter,N Vare,,0,0,0,stumped,S Jimmy,Nigar Sultana,31203231203
+2,Papua New Guinea,3,K Oala,Nahida Akter,N Vare,,0,0,0,,,,31203231203
+2,Papua New Guinea,3,K Oala,Nahida Akter,N Vare,,0,0,0,,,,31203231203
+2,Papua New Guinea,3,K Oala,Nahida Akter,N Vare,,0,0,0,,,,31203231203
+2,Papua New Guinea,3,K Oala,Nahida Akter,N Vare,,0,6,6,,,,31203231203
+2,Papua New Guinea,4,N Vare,Ritu Moni,K Oala,,0,0,0,caught,N Vare,Shaila Sharmin,31203231203
+2,Papua New Guinea,4,K Oala,Ritu Moni,B Tau,,0,0,0,,,,31203231203
+2,Papua New Guinea,4,K Oala,Ritu Moni,B Tau,,0,4,4,,,,31203231203
+2,Papua New Guinea,4,K Oala,Ritu Moni,B Tau,,0,0,0,bowled,K Oala,,31203231203
+2,Papua New Guinea,4,T Ruma,Ritu Moni,B Tau,,0,1,1,,,,31203231203
+2,Papua New Guinea,4,B Tau,Ritu Moni,T Ruma,,0,0,0,,,,31203231203
+2,Papua New Guinea,5,T Ruma,Fahima Khatun,B Tau,,0,1,1,,,,31203231203
+2,Papua New Guinea,5,B Tau,Fahima Khatun,T Ruma,,0,1,1,,,,31203231203
+2,Papua New Guinea,5,T Ruma,Fahima Khatun,B Tau,noballs,1,1,0,,,,31203231203
+2,Papua New Guinea,5,T Ruma,Fahima Khatun,B Tau,,0,0,0,,,,31203231203
+2,Papua New Guinea,5,T Ruma,Fahima Khatun,B Tau,,0,0,0,,,,31203231203
+2,Papua New Guinea,5,T Ruma,Fahima Khatun,B Tau,,0,0,0,,,,31203231203
+2,Papua New Guinea,5,T Ruma,Fahima Khatun,B Tau,,0,1,1,,,,31203231203
+2,Papua New Guinea,6,T Ruma,Salma Khatun,B Tau,,0,2,2,,,,31203231203
+2,Papua New Guinea,6,T Ruma,Salma Khatun,B Tau,,0,4,4,,,,31203231203
+2,Papua New Guinea,6,T Ruma,Salma Khatun,B Tau,,0,1,1,,,,31203231203
+2,Papua New Guinea,6,B Tau,Salma Khatun,T Ruma,,0,1,1,,,,31203231203
+2,Papua New Guinea,6,T Ruma,Salma Khatun,B Tau,,0,1,1,,,,31203231203
+2,Papua New Guinea,6,B Tau,Salma Khatun,T Ruma,wides,1,1,0,,,,31203231203
+2,Papua New Guinea,6,B Tau,Salma Khatun,T Ruma,,0,4,4,,,,31203231203
+2,Papua New Guinea,7,T Ruma,Nahida Akter,B Tau,,0,1,1,,,,31203231203
+2,Papua New Guinea,7,B Tau,Nahida Akter,T Ruma,,0,0,0,stumped,B Tau,Nigar Sultana,31203231203
+2,Papua New Guinea,7,V Frank,Nahida Akter,T Ruma,,0,1,1,,,,31203231203
+2,Papua New Guinea,7,T Ruma,Nahida Akter,V Frank,,0,0,0,caught,T Ruma,Fahima Khatun,31203231203
+2,Papua New Guinea,7,V Frank,Nahida Akter,R Oa,,0,1,1,,,,31203231203
+2,Papua New Guinea,7,R Oa,Nahida Akter,V Frank,,0,1,1,,,,31203231203

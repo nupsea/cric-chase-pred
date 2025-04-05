@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Bangladesh,0,Liton Das,MM Ali,Mohammad Naim,,0,0,0,,,,31645231645
+1,Bangladesh,0,Liton Das,MM Ali,Mohammad Naim,,0,0,0,,,,31645231645
+1,Bangladesh,0,Liton Das,MM Ali,Mohammad Naim,,0,1,1,,,,31645231645
+1,Bangladesh,0,Mohammad Naim,MM Ali,Liton Das,,0,1,1,,,,31645231645
+1,Bangladesh,0,Liton Das,MM Ali,Mohammad Naim,,0,4,4,,,,31645231645
+1,Bangladesh,0,Liton Das,MM Ali,Mohammad Naim,,0,4,4,,,,31645231645
+1,Bangladesh,1,Mohammad Naim,CR Woakes,Liton Das,,0,0,0,,,,31645231645
+1,Bangladesh,1,Mohammad Naim,CR Woakes,Liton Das,,0,0,0,,,,31645231645
+1,Bangladesh,1,Mohammad Naim,CR Woakes,Liton Das,,0,2,2,,,,31645231645
+1,Bangladesh,1,Mohammad Naim,CR Woakes,Liton Das,,0,1,1,,,,31645231645
+1,Bangladesh,1,Liton Das,CR Woakes,Mohammad Naim,,0,0,0,,,,31645231645
+1,Bangladesh,1,Liton Das,CR Woakes,Mohammad Naim,,0,0,0,,,,31645231645
+1,Bangladesh,2,Mohammad Naim,MM Ali,Liton Das,,0,1,1,,,,31645231645
+1,Bangladesh,2,Liton Das,MM Ali,Mohammad Naim,,0,0,0,caught,Liton Das,LS Livingstone,31645231645
+1,Bangladesh,2,Mohammad Naim,MM Ali,Shakib Al Hasan,,0,0,0,caught,Mohammad Naim,CR Woakes,31645231645
+1,Bangladesh,2,Mushfiqur Rahim,MM Ali,Shakib Al Hasan,,0,0,0,,,,31645231645
+1,Bangladesh,2,Mushfiqur Rahim,MM Ali,Shakib Al Hasan,,0,0,0,,,,31645231645
+1,Bangladesh,2,Mushfiqur Rahim,MM Ali,Shakib Al Hasan,,0,1,1,,,,31645231645
+1,Bangladesh,3,Mushfiqur Rahim,CR Woakes,Shakib Al Hasan,,0,0,0,,,,31645231645
+1,Bangladesh,3,Mushfiqur Rahim,CR Woakes,Shakib Al Hasan,,0,1,1,,,,31645231645
+1,Bangladesh,3,Shakib Al Hasan,CR Woakes,Mushfiqur Rahim,,0,0,0,,,,31645231645
+1,Bangladesh,3,Shakib Al Hasan,CR Woakes,Mushfiqur Rahim,,0,1,1,,,,31645231645
+1,Bangladesh,3,Mushfiqur Rahim,CR Woakes,Shakib Al Hasan,,0,0,0,,,,31645231645
+1,Bangladesh,3,Mushfiqur Rahim,CR Woakes,Shakib Al Hasan,,0,1,1,,,,31645231645
+1,Bangladesh,4,Mushfiqur Rahim,MM Ali,Shakib Al Hasan,,0,1,1,,,,31645231645
+1,Bangladesh,4,Shakib Al Hasan,MM Ali,Mushfiqur Rahim,,0,0,0,,,,31645231645
+1,Bangladesh,4,Shakib Al Hasan,MM Ali,Mushfiqur Rahim,,0,0,0,,,,31645231645
+1,Bangladesh,4,Shakib Al Hasan,MM Ali,Mushfiqur Rahim,,0,1,1,,,,31645231645
+1,Bangladesh,4,Mushfiqur Rahim,MM Ali,Shakib Al Hasan,,0,0,0,,,,31645231645
+1,Bangladesh,4,Mushfiqur Rahim,MM Ali,Shakib Al Hasan,,0,4,4,,,,31645231645
+1,Bangladesh,5,Shakib Al Hasan,CR Woakes,Mushfiqur Rahim,,0,2,2,,,,31645231645
+1,Bangladesh,5,Shakib Al Hasan,CR Woakes,Mushfiqur Rahim,,0,0,0,caught,Shakib Al Hasan,AU Rashid,31645231645
+1,Bangladesh,5,Mushfiqur Rahim,CR Woakes,Mahmudullah,,0,0,0,,,,31645231645
+1,Bangladesh,5,Mushfiqur Rahim,CR Woakes,Mahmudullah,,0,0,0,,,,31645231645
+1,Bangladesh,5,Mushfiqur Rahim,CR Woakes,Mahmudullah,,0,0,0,,,,31645231645
+1,Bangladesh,5,Mushfiqur Rahim,CR Woakes,Mahmudullah,,0,1,1,,,,31645231645
+1,Bangladesh,6,Mushfiqur Rahim,AU Rashid,Mahmudullah,,0,0,0,,,,31645231645
+1,Bangladesh,6,Mushfiqur Rahim,AU Rashid,Mahmudullah,,0,0,0,,,,31645231645
+1,Bangladesh,6,Mushfiqur Rahim,AU Rashid,Mahmudullah,,0,1,1,,,,31645231645
+1,Bangladesh,6,Mahmudullah,AU Rashid,Mushfiqur Rahim,,0,1,1,,,,31645231645
+1,Bangladesh,6,Mushfiqur Rahim,AU Rashid,Mahmudullah,,0,1,1,,,,31645231645
+1,Bangladesh,6,Mahmudullah,AU Rashid,Mushfiqur Rahim,,0,0,0,,,,31645231645
+1,Bangladesh,7,Mushfiqur Rahim,CJ Jordan,Mahmudullah,,0,2,2,,,,31645231645
+1,Bangladesh,7,Mushfiqur Rahim,CJ Jordan,Mahmudullah,wides,1,1,0,,,,31645231645
+1,Bangladesh,7,Mushfiqur Rahim,CJ Jordan,Mahmudullah,,0,4,4,,,,31645231645
+1,Bangladesh,7,Mushfiqur Rahim,CJ Jordan,Mahmudullah,,0,1,1,,,,31645231645
+1,Bangladesh,7,Mahmudullah,CJ Jordan,Mushfiqur Rahim,legbyes,1,1,0,,,,31645231645
+1,Bangladesh,7,Mushfiqur Rahim,CJ Jordan,Mahmudullah,,0,1,1,,,,31645231645
+1,Bangladesh,7,Mahmudullah,CJ Jordan,Mushfiqur Rahim,wides,1,1,0,,,,31645231645
+1,Bangladesh,7,Mahmudullah,CJ Jordan,Mushfiqur Rahim,,0,1,1,,,,31645231645
+1,Bangladesh,8,Mahmudullah,AU Rashid,Mushfiqur Rahim,,0,1,1,,,,31645231645
+1,Bangladesh,8,Mushfiqur Rahim,AU Rashid,Mahmudullah,,0,1,1,,,,31645231645
+1,Bangladesh,8,Mahmudullah,AU Rashid,Mushfiqur Rahim,,0,4,4,,,,31645231645
+1,Bangladesh,8,Mahmudullah,AU Rashid,Mushfiqur Rahim,,0,0,0,,,,31645231645
+1,Bangladesh,8,Mahmudullah,AU Rashid,Mushfiqur Rahim,,0,1,1,,,,31645231645
+1,Bangladesh,8,Mushfiqur Rahim,AU Rashid,Mahmudullah,,0,0,0,,,,31645231645
+1,Bangladesh,9,Mahmudullah,TS Mills,Mushfiqur Rahim,,0,1,1,,,,31645231645
+1,Bangladesh,9,Mushfiqur Rahim,TS Mills,Mahmudullah,,0,1,1,,,,31645231645
+1,Bangladesh,9,Mahmudullah,TS Mills,Mushfiqur Rahim,,0,2,2,,,,31645231645
+1,Bangladesh,9,Mahmudullah,TS Mills,Mushfiqur Rahim,,0,1,1,,,,31645231645
+1,Bangladesh,9,Mushfiqur Rahim,TS Mills,Mahmudullah,,0,4,4,,,,31645231645
+1,Bangladesh,9,Mushfiqur Rahim,TS Mills,Mahmudullah,,0,2,2,,,,31645231645
+1,Bangladesh,10,Mahmudullah,LS Livingstone,Mushfiqur Rahim,,0,1,1,,,,31645231645
+1,Bangladesh,10,Mushfiqur Rahim,LS Livingstone,Mahmudullah,,0,0,0,,,,31645231645
+1,Bangladesh,10,Mushfiqur Rahim,LS Livingstone,Mahmudullah,,0,2,2,,,,31645231645
+1,Bangladesh,10,Mushfiqur Rahim,LS Livingstone,Mahmudullah,,0,0,0,lbw,Mushfiqur Rahim,,31645231645
+1,Bangladesh,10,Afif Hossain,LS Livingstone,Mahmudullah,,0,0,0,,,,31645231645
+1,Bangladesh,10,Afif Hossain,LS Livingstone,Mahmudullah,,0,0,0,,,,31645231645
+1,Bangladesh,11,Mahmudullah,CR Woakes,Afif Hossain,,0,1,1,,,,31645231645
+1,Bangladesh,11,Afif Hossain,CR Woakes,Mahmudullah,,0,0,0,,,,31645231645
+1,Bangladesh,11,Afif Hossain,CR Woakes,Mahmudullah,,0,1,1,,,,31645231645
+1,Bangladesh,11,Mahmudullah,CR Woakes,Afif Hossain,,0,0,0,,,,31645231645
+1,Bangladesh,11,Mahmudullah,CR Woakes,Afif Hossain,,0,0,0,,,,31645231645
+1,Bangladesh,11,Mahmudullah,CR Woakes,Afif Hossain,,0,1,1,,,,31645231645
+1,Bangladesh,12,Mahmudullah,LS Livingstone,Afif Hossain,,0,1,1,,,,31645231645
+1,Bangladesh,12,Afif Hossain,LS Livingstone,Mahmudullah,,0,4,4,,,,31645231645
+1,Bangladesh,12,Afif Hossain,LS Livingstone,Mahmudullah,byes,1,1,0,,,,31645231645
+1,Bangladesh,12,Mahmudullah,LS Livingstone,Afif Hossain,,0,1,1,run out,Afif Hossain,TS Mills,31645231645
+1,Bangladesh,12,Nurul Hasan,LS Livingstone,Mahmudullah,,0,2,2,,,,31645231645
+1,Bangladesh,12,Nurul Hasan,LS Livingstone,Mahmudullah,,0,1,1,,,,31645231645
+1,Bangladesh,13,Nurul Hasan,CJ Jordan,Mahmudullah,,0,0,0,,,,31645231645
+1,Bangladesh,13,Nurul Hasan,CJ Jordan,Mahmudullah,,0,1,1,,,,31645231645
+1,Bangladesh,13,Mahmudullah,CJ Jordan,Nurul Hasan,,0,1,1,,,,31645231645
+1,Bangladesh,13,Nurul Hasan,CJ Jordan,Mahmudullah,wides,1,1,0,,,,31645231645
+1,Bangladesh,13,Nurul Hasan,CJ Jordan,Mahmudullah,,0,1,1,,,,31645231645
+1,Bangladesh,13,Mahmudullah,CJ Jordan,Nurul Hasan,,0,0,0,,,,31645231645
+1,Bangladesh,13,Mahmudullah,CJ Jordan,Nurul Hasan,,0,0,0,,,,31645231645
+1,Bangladesh,14,Nurul Hasan,LS Livingstone,Mahmudullah,,0,1,1,,,,31645231645
+1,Bangladesh,14,Mahmudullah,LS Livingstone,Nurul Hasan,,0,0,0,,,,31645231645
+1,Bangladesh,14,Mahmudullah,LS Livingstone,Nurul Hasan,,0,1,1,,,,31645231645
+1,Bangladesh,14,Nurul Hasan,LS Livingstone,Mahmudullah,,0,1,1,,,,31645231645
+1,Bangladesh,14,Mahmudullah,LS Livingstone,Nurul Hasan,,0,0,0,caught,Mahmudullah,CR Woakes,31645231645
+1,Bangladesh,14,Mahedi Hasan,LS Livingstone,Nurul Hasan,,0,0,0,,,,31645231645
+1,Bangladesh,15,Nurul Hasan,TS Mills,Mahedi Hasan,,0,1,1,,,,31645231645
+1,Bangladesh,15,Mahedi Hasan,TS Mills,Nurul Hasan,,0,0,0,,,,31645231645
+1,Bangladesh,15,Mahedi Hasan,TS Mills,Nurul Hasan,,0,1,1,,,,31645231645
+1,Bangladesh,15,Nurul Hasan,TS Mills,Mahedi Hasan,,0,1,1,,,,31645231645
+1,Bangladesh,15,Mahedi Hasan,TS Mills,Nurul Hasan,,0,0,0,,,,31645231645
+1,Bangladesh,15,Mahedi Hasan,TS Mills,Nurul Hasan,,0,4,4,,,,31645231645
+1,Bangladesh,16,Nurul Hasan,AU Rashid,Mahedi Hasan,,0,1,1,,,,31645231645
+1,Bangladesh,16,Mahedi Hasan,AU Rashid,Nurul Hasan,,0,1,1,,,,31645231645
+1,Bangladesh,16,Nurul Hasan,AU Rashid,Mahedi Hasan,,0,1,1,,,,31645231645
+1,Bangladesh,16,Mahedi Hasan,AU Rashid,Nurul Hasan,,0,4,4,,,,31645231645
+1,Bangladesh,16,Mahedi Hasan,AU Rashid,Nurul Hasan,,0,0,0,,,,31645231645
+1,Bangladesh,16,Mahedi Hasan,AU Rashid,Nurul Hasan,,0,1,1,,,,31645231645
+1,Bangladesh,17,Mahedi Hasan,TS Mills,Nurul Hasan,,0,0,0,caught,Mahedi Hasan,CR Woakes,31645231645
+1,Bangladesh,17,Nasum Ahmed,TS Mills,Nurul Hasan,,0,1,1,,,,31645231645
+1,Bangladesh,17,Nurul Hasan,TS Mills,Nasum Ahmed,,0,1,1,,,,31645231645
+1,Bangladesh,17,Nasum Ahmed,TS Mills,Nurul Hasan,,0,2,2,,,,31645231645
+1,Bangladesh,17,Nasum Ahmed,TS Mills,Nurul Hasan,,0,0,0,,,,31645231645
+1,Bangladesh,17,Nasum Ahmed,TS Mills,Nurul Hasan,,0,0,0,,,,31645231645
+1,Bangladesh,18,Nurul Hasan,AU Rashid,Nasum Ahmed,,0,1,1,,,,31645231645
+1,Bangladesh,18,Nasum Ahmed,AU Rashid,Nurul Hasan,,0,6,6,,,,31645231645
+1,Bangladesh,18,Nasum Ahmed,AU Rashid,Nurul Hasan,,0,0,0,,,,31645231645
+1,Bangladesh,18,Nasum Ahmed,AU Rashid,Nurul Hasan,,0,0,0,,,,31645231645
+1,Bangladesh,18,Nasum Ahmed,AU Rashid,Nurul Hasan,,0,6,6,,,,31645231645
+1,Bangladesh,18,Nasum Ahmed,AU Rashid,Nurul Hasan,,0,4,4,,,,31645231645
+1,Bangladesh,19,Nurul Hasan,TS Mills,Nasum Ahmed,,0,1,1,,,,31645231645
+1,Bangladesh,19,Nasum Ahmed,TS Mills,Nurul Hasan,wides,2,2,0,,,,31645231645
+1,Bangladesh,19,Nurul Hasan,TS Mills,Nasum Ahmed,,0,0,0,,,,31645231645
+1,Bangladesh,19,Nurul Hasan,TS Mills,Nasum Ahmed,,0,0,0,,,,31645231645
+1,Bangladesh,19,Nurul Hasan,TS Mills,Nasum Ahmed,,0,2,2,,,,31645231645
+1,Bangladesh,19,Nurul Hasan,TS Mills,Nasum Ahmed,,0,0,0,caught,Nurul Hasan,JC Buttler,31645231645
+1,Bangladesh,19,Mustafizur Rahman,TS Mills,Nasum Ahmed,,0,0,0,bowled,Mustafizur Rahman,,31645231645

@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Scotland,0,HG Munsey,T van der Gugten,KJ Coetzer,legbyes,1,1,0,,,,351623516
+2,Scotland,0,KJ Coetzer,T van der Gugten,HG Munsey,,0,0,0,,,,351623516
+2,Scotland,0,KJ Coetzer,T van der Gugten,HG Munsey,wides,1,1,0,,,,351623516
+2,Scotland,0,KJ Coetzer,T van der Gugten,HG Munsey,,0,0,0,run out,HG Munsey,T van der Gugten,351623516
+2,Scotland,0,KJ Coetzer,T van der Gugten,CS MacLeod,,0,1,1,,,,351623516
+2,Scotland,0,CS MacLeod,T van der Gugten,KJ Coetzer,legbyes,1,1,0,,,,351623516
+2,Scotland,0,KJ Coetzer,T van der Gugten,CS MacLeod,,0,4,4,,,,351623516
+2,Scotland,1,CS MacLeod,Mudassar Bukhari,KJ Coetzer,wides,1,1,0,,,,351623516
+2,Scotland,1,CS MacLeod,Mudassar Bukhari,KJ Coetzer,,0,1,1,,,,351623516
+2,Scotland,1,KJ Coetzer,Mudassar Bukhari,CS MacLeod,,0,0,0,,,,351623516
+2,Scotland,1,KJ Coetzer,Mudassar Bukhari,CS MacLeod,,0,0,0,caught,KJ Coetzer,BN Cooper,351623516
+2,Scotland,1,CS MacLeod,Mudassar Bukhari,MH Cross,,0,0,0,,,,351623516
+2,Scotland,1,CS MacLeod,Mudassar Bukhari,MH Cross,wides,1,1,0,,,,351623516
+2,Scotland,1,CS MacLeod,Mudassar Bukhari,MH Cross,,0,1,1,,,,351623516
+2,Scotland,1,MH Cross,Mudassar Bukhari,CS MacLeod,,0,4,4,,,,351623516
+2,Scotland,2,CS MacLeod,T van der Gugten,MH Cross,,0,0,0,,,,351623516
+2,Scotland,2,CS MacLeod,T van der Gugten,MH Cross,,0,1,1,,,,351623516
+2,Scotland,2,MH Cross,T van der Gugten,CS MacLeod,,0,0,0,,,,351623516
+2,Scotland,2,MH Cross,T van der Gugten,CS MacLeod,,0,0,0,,,,351623516
+2,Scotland,2,MH Cross,T van der Gugten,CS MacLeod,,0,1,1,,,,351623516
+2,Scotland,2,CS MacLeod,T van der Gugten,MH Cross,,0,4,4,,,,351623516
+2,Scotland,3,MH Cross,Mudassar Bukhari,CS MacLeod,,0,1,1,,,,351623516
+2,Scotland,3,CS MacLeod,Mudassar Bukhari,MH Cross,,0,4,4,,,,351623516
+2,Scotland,3,CS MacLeod,Mudassar Bukhari,MH Cross,,0,0,0,,,,351623516
+2,Scotland,3,CS MacLeod,Mudassar Bukhari,MH Cross,,0,1,1,,,,351623516
+2,Scotland,3,MH Cross,Mudassar Bukhari,CS MacLeod,,0,4,4,,,,351623516
+2,Scotland,3,MH Cross,Mudassar Bukhari,CS MacLeod,,0,0,0,,,,351623516
+2,Scotland,4,CS MacLeod,Ahsan Malik,MH Cross,,0,1,1,,,,351623516
+2,Scotland,4,MH Cross,Ahsan Malik,CS MacLeod,noballs,1,5,4,,,,351623516
+2,Scotland,4,MH Cross,Ahsan Malik,CS MacLeod,,0,0,0,,,,351623516
+2,Scotland,4,MH Cross,Ahsan Malik,CS MacLeod,,0,0,0,,,,351623516
+2,Scotland,4,MH Cross,Ahsan Malik,CS MacLeod,,0,4,4,,,,351623516
+2,Scotland,4,MH Cross,Ahsan Malik,CS MacLeod,,0,4,4,,,,351623516
+2,Scotland,4,MH Cross,Ahsan Malik,CS MacLeod,legbyes,1,1,0,,,,351623516
+2,Scotland,5,MH Cross,RE van der Merwe,CS MacLeod,,0,0,0,,,,351623516
+2,Scotland,5,MH Cross,RE van der Merwe,CS MacLeod,,0,0,0,caught,MH Cross,Ahsan Malik,351623516
+2,Scotland,5,CS MacLeod,RE van der Merwe,RD Berrington,,0,0,0,,,,351623516
+2,Scotland,5,CS MacLeod,RE van der Merwe,RD Berrington,,0,0,0,,,,351623516
+2,Scotland,5,CS MacLeod,RE van der Merwe,RD Berrington,,0,0,0,,,,351623516
+2,Scotland,5,CS MacLeod,RE van der Merwe,RD Berrington,,0,1,1,,,,351623516
+2,Scotland,6,CS MacLeod,PM Seelaar,RD Berrington,,0,1,1,,,,351623516
+2,Scotland,6,RD Berrington,PM Seelaar,CS MacLeod,,0,1,1,,,,351623516
+2,Scotland,6,CS MacLeod,PM Seelaar,RD Berrington,,0,1,1,,,,351623516
+2,Scotland,6,RD Berrington,PM Seelaar,CS MacLeod,,0,1,1,,,,351623516
+2,Scotland,6,CS MacLeod,PM Seelaar,RD Berrington,,0,1,1,,,,351623516
+2,Scotland,6,RD Berrington,PM Seelaar,CS MacLeod,,0,0,0,caught,RD Berrington,Mudassar Bukhari,351623516
+2,Scotland,7,PL Mommsen,MJG Rippon,CS MacLeod,,0,0,0,,,,351623516
+2,Scotland,7,PL Mommsen,MJG Rippon,CS MacLeod,,0,1,1,,,,351623516
+2,Scotland,7,CS MacLeod,MJG Rippon,PL Mommsen,,0,0,0,,,,351623516
+2,Scotland,7,CS MacLeod,MJG Rippon,PL Mommsen,,0,1,1,,,,351623516
+2,Scotland,7,PL Mommsen,MJG Rippon,CS MacLeod,,0,2,2,,,,351623516
+2,Scotland,7,PL Mommsen,MJG Rippon,CS MacLeod,,0,1,1,,,,351623516
+2,Scotland,8,PL Mommsen,PM Seelaar,CS MacLeod,,0,4,4,,,,351623516
+2,Scotland,8,PL Mommsen,PM Seelaar,CS MacLeod,,0,0,0,,,,351623516
+2,Scotland,8,PL Mommsen,PM Seelaar,CS MacLeod,,0,1,1,,,,351623516
+2,Scotland,8,CS MacLeod,PM Seelaar,PL Mommsen,,0,0,0,,,,351623516
+2,Scotland,8,CS MacLeod,PM Seelaar,PL Mommsen,,0,0,0,caught,CS MacLeod,W Barresi,351623516
+2,Scotland,8,JH Davey,PM Seelaar,PL Mommsen,,0,1,1,,,,351623516
+2,Scotland,9,JH Davey,MJG Rippon,PL Mommsen,,0,1,1,,,,351623516
+2,Scotland,9,PL Mommsen,MJG Rippon,JH Davey,,0,0,0,,,,351623516
+2,Scotland,9,PL Mommsen,MJG Rippon,JH Davey,,0,2,2,,,,351623516
+2,Scotland,9,PL Mommsen,MJG Rippon,JH Davey,,0,1,1,,,,351623516
+2,Scotland,9,JH Davey,MJG Rippon,PL Mommsen,,0,0,0,,,,351623516
+2,Scotland,9,JH Davey,MJG Rippon,PL Mommsen,,0,1,1,,,,351623516
+2,Scotland,10,JH Davey,RE van der Merwe,PL Mommsen,,0,1,1,,,,351623516
+2,Scotland,10,PL Mommsen,RE van der Merwe,JH Davey,,0,1,1,,,,351623516
+2,Scotland,10,JH Davey,RE van der Merwe,PL Mommsen,,0,4,4,,,,351623516
+2,Scotland,10,JH Davey,RE van der Merwe,PL Mommsen,,0,0,0,caught,JH Davey,BN Cooper,351623516
+2,Scotland,10,PL Mommsen,RE van der Merwe,MA Leask,,0,1,1,,,,351623516
+2,Scotland,10,MA Leask,RE van der Merwe,PL Mommsen,,0,0,0,,,,351623516
+2,Scotland,11,PL Mommsen,MJG Rippon,MA Leask,,0,1,1,,,,351623516
+2,Scotland,11,MA Leask,MJG Rippon,PL Mommsen,,0,1,1,,,,351623516
+2,Scotland,11,PL Mommsen,MJG Rippon,MA Leask,,0,1,1,,,,351623516
+2,Scotland,11,MA Leask,MJG Rippon,PL Mommsen,,0,0,0,caught,MA Leask,RE van der Merwe,351623516
+2,Scotland,11,SM Sharif,MJG Rippon,PL Mommsen,,0,0,0,,,,351623516
+2,Scotland,11,SM Sharif,MJG Rippon,PL Mommsen,,0,1,1,,,,351623516
+2,Scotland,12,SM Sharif,PM Seelaar,PL Mommsen,,0,1,1,,,,351623516
+2,Scotland,12,PL Mommsen,PM Seelaar,SM Sharif,,0,0,0,,,,351623516
+2,Scotland,12,PL Mommsen,PM Seelaar,SM Sharif,,0,0,0,,,,351623516
+2,Scotland,12,PL Mommsen,PM Seelaar,SM Sharif,,0,1,1,,,,351623516
+2,Scotland,12,SM Sharif,PM Seelaar,PL Mommsen,,0,4,4,,,,351623516
+2,Scotland,12,SM Sharif,PM Seelaar,PL Mommsen,,0,2,2,,,,351623516
+2,Scotland,13,PL Mommsen,MJG Rippon,SM Sharif,,0,4,4,,,,351623516
+2,Scotland,13,PL Mommsen,MJG Rippon,SM Sharif,,0,0,0,,,,351623516
+2,Scotland,13,PL Mommsen,MJG Rippon,SM Sharif,,0,2,2,,,,351623516
+2,Scotland,13,PL Mommsen,MJG Rippon,SM Sharif,,0,6,6,,,,351623516
+2,Scotland,13,PL Mommsen,MJG Rippon,SM Sharif,,0,2,2,,,,351623516
+2,Scotland,13,PL Mommsen,MJG Rippon,SM Sharif,,0,0,0,,,,351623516
+2,Scotland,14,SM Sharif,Ahsan Malik,PL Mommsen,,0,4,4,,,,351623516
+2,Scotland,14,SM Sharif,Ahsan Malik,PL Mommsen,,0,1,1,,,,351623516
+2,Scotland,14,PL Mommsen,Ahsan Malik,SM Sharif,legbyes,1,1,0,,,,351623516
+2,Scotland,14,SM Sharif,Ahsan Malik,PL Mommsen,,0,1,1,,,,351623516
+2,Scotland,14,PL Mommsen,Ahsan Malik,SM Sharif,,0,0,0,,,,351623516
+2,Scotland,14,PL Mommsen,Ahsan Malik,SM Sharif,,0,1,1,,,,351623516
+2,Scotland,15,PL Mommsen,RE van der Merwe,SM Sharif,,0,2,2,,,,351623516
+2,Scotland,15,PL Mommsen,RE van der Merwe,SM Sharif,,0,0,0,,,,351623516
+2,Scotland,15,PL Mommsen,RE van der Merwe,SM Sharif,,0,1,1,,,,351623516
+2,Scotland,15,SM Sharif,RE van der Merwe,PL Mommsen,,0,1,1,,,,351623516
+2,Scotland,15,PL Mommsen,RE van der Merwe,SM Sharif,,0,0,0,,,,351623516
+2,Scotland,15,PL Mommsen,RE van der Merwe,SM Sharif,,0,0,0,,,,351623516
+2,Scotland,16,SM Sharif,Ahsan Malik,PL Mommsen,,0,2,2,,,,351623516
+2,Scotland,16,SM Sharif,Ahsan Malik,PL Mommsen,,0,1,1,,,,351623516
+2,Scotland,16,PL Mommsen,Ahsan Malik,SM Sharif,,0,6,6,,,,351623516
+2,Scotland,16,PL Mommsen,Ahsan Malik,SM Sharif,noballs,1,5,4,,,,351623516
+2,Scotland,16,PL Mommsen,Ahsan Malik,SM Sharif,,0,1,1,,,,351623516
+2,Scotland,16,SM Sharif,Ahsan Malik,PL Mommsen,,0,1,1,,,,351623516
+2,Scotland,16,PL Mommsen,Ahsan Malik,SM Sharif,,0,4,4,,,,351623516
+2,Scotland,17,SM Sharif,RE van der Merwe,PL Mommsen,,0,1,1,,,,351623516
+2,Scotland,17,PL Mommsen,RE van der Merwe,SM Sharif,,0,2,2,,,,351623516
+2,Scotland,17,PL Mommsen,RE van der Merwe,SM Sharif,,0,1,1,,,,351623516
+2,Scotland,17,SM Sharif,RE van der Merwe,PL Mommsen,,0,1,1,,,,351623516
+2,Scotland,17,PL Mommsen,RE van der Merwe,SM Sharif,,0,1,1,,,,351623516
+2,Scotland,17,SM Sharif,RE van der Merwe,PL Mommsen,,0,4,4,,,,351623516
+2,Scotland,18,PL Mommsen,T van der Gugten,SM Sharif,,0,1,1,,,,351623516
+2,Scotland,18,SM Sharif,T van der Gugten,PL Mommsen,,0,1,1,,,,351623516
+2,Scotland,18,PL Mommsen,T van der Gugten,SM Sharif,,0,2,2,,,,351623516
+2,Scotland,18,PL Mommsen,T van der Gugten,SM Sharif,,0,6,6,,,,351623516
+2,Scotland,18,PL Mommsen,T van der Gugten,SM Sharif,,0,1,1,,,,351623516
+2,Scotland,18,SM Sharif,T van der Gugten,PL Mommsen,,0,0,0,,,,351623516
+2,Scotland,19,PL Mommsen,Mudassar Bukhari,SM Sharif,,0,4,4,,,,351623516
+2,Scotland,19,PL Mommsen,Mudassar Bukhari,SM Sharif,,0,0,0,run out,SM Sharif,Mudassar Bukhari,351623516
+2,Scotland,19,AC Evans,Mudassar Bukhari,PL Mommsen,,0,0,0,bowled,AC Evans,,351623516
+2,Scotland,19,MRJ Watt,Mudassar Bukhari,PL Mommsen,,0,0,0,,,,351623516
+2,Scotland,19,MRJ Watt,Mudassar Bukhari,PL Mommsen,,0,0,0,caught,MRJ Watt,RE van der Merwe,351623516

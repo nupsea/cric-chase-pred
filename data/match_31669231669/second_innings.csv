@@ -1,0 +1,120 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Australia,0,DA Warner,Shaheen Shah Afridi,AJ Finch,,0,0,0,,,,31669231669
+2,Australia,0,DA Warner,Shaheen Shah Afridi,AJ Finch,,0,1,1,,,,31669231669
+2,Australia,0,AJ Finch,Shaheen Shah Afridi,DA Warner,,0,0,0,lbw,AJ Finch,,31669231669
+2,Australia,0,MR Marsh,Shaheen Shah Afridi,DA Warner,,0,0,0,,,,31669231669
+2,Australia,0,MR Marsh,Shaheen Shah Afridi,DA Warner,,0,0,0,,,,31669231669
+2,Australia,0,MR Marsh,Shaheen Shah Afridi,DA Warner,,0,0,0,,,,31669231669
+2,Australia,1,DA Warner,Imad Wasim,MR Marsh,,0,0,0,,,,31669231669
+2,Australia,1,DA Warner,Imad Wasim,MR Marsh,,0,1,1,,,,31669231669
+2,Australia,1,MR Marsh,Imad Wasim,DA Warner,,0,0,0,,,,31669231669
+2,Australia,1,MR Marsh,Imad Wasim,DA Warner,,0,1,1,,,,31669231669
+2,Australia,1,DA Warner,Imad Wasim,MR Marsh,,0,1,1,,,,31669231669
+2,Australia,1,MR Marsh,Imad Wasim,DA Warner,,0,2,2,,,,31669231669
+2,Australia,2,DA Warner,Shaheen Shah Afridi,MR Marsh,,0,0,0,,,,31669231669
+2,Australia,2,DA Warner,Shaheen Shah Afridi,MR Marsh,noballs,1,2,1,,,,31669231669
+2,Australia,2,MR Marsh,Shaheen Shah Afridi,DA Warner,,0,0,0,,,,31669231669
+2,Australia,2,MR Marsh,Shaheen Shah Afridi,DA Warner,,0,4,4,,,,31669231669
+2,Australia,2,MR Marsh,Shaheen Shah Afridi,DA Warner,,0,0,0,,,,31669231669
+2,Australia,2,MR Marsh,Shaheen Shah Afridi,DA Warner,,0,1,1,,,,31669231669
+2,Australia,2,DA Warner,Shaheen Shah Afridi,MR Marsh,,0,0,0,,,,31669231669
+2,Australia,3,MR Marsh,Imad Wasim,DA Warner,,0,1,1,,,,31669231669
+2,Australia,3,DA Warner,Imad Wasim,MR Marsh,,0,6,6,,,,31669231669
+2,Australia,3,DA Warner,Imad Wasim,MR Marsh,,0,4,4,,,,31669231669
+2,Australia,3,DA Warner,Imad Wasim,MR Marsh,,0,4,4,,,,31669231669
+2,Australia,3,DA Warner,Imad Wasim,MR Marsh,,0,1,1,,,,31669231669
+2,Australia,3,MR Marsh,Imad Wasim,DA Warner,,0,1,1,,,,31669231669
+2,Australia,4,MR Marsh,Haris Rauf,DA Warner,,0,6,6,,,,31669231669
+2,Australia,4,MR Marsh,Haris Rauf,DA Warner,,0,4,4,,,,31669231669
+2,Australia,4,MR Marsh,Haris Rauf,DA Warner,,0,1,1,,,,31669231669
+2,Australia,4,DA Warner,Haris Rauf,MR Marsh,,0,1,1,,,,31669231669
+2,Australia,4,MR Marsh,Haris Rauf,DA Warner,,0,1,1,,,,31669231669
+2,Australia,4,DA Warner,Haris Rauf,MR Marsh,,0,1,1,,,,31669231669
+2,Australia,5,DA Warner,Hasan Ali,MR Marsh,,0,1,1,,,,31669231669
+2,Australia,5,MR Marsh,Hasan Ali,DA Warner,,0,4,4,,,,31669231669
+2,Australia,5,MR Marsh,Hasan Ali,DA Warner,,0,1,1,,,,31669231669
+2,Australia,5,DA Warner,Hasan Ali,MR Marsh,,0,1,1,,,,31669231669
+2,Australia,5,MR Marsh,Hasan Ali,DA Warner,,0,0,0,,,,31669231669
+2,Australia,5,MR Marsh,Hasan Ali,DA Warner,,0,1,1,,,,31669231669
+2,Australia,6,MR Marsh,Shadab Khan,DA Warner,,0,0,0,,,,31669231669
+2,Australia,6,MR Marsh,Shadab Khan,DA Warner,,0,0,0,caught,MR Marsh,Asif Ali,31669231669
+2,Australia,6,DA Warner,Shadab Khan,SPD Smith,,0,1,1,,,,31669231669
+2,Australia,6,SPD Smith,Shadab Khan,DA Warner,,0,0,0,,,,31669231669
+2,Australia,6,SPD Smith,Shadab Khan,DA Warner,,0,4,4,,,,31669231669
+2,Australia,6,SPD Smith,Shadab Khan,DA Warner,,0,0,0,,,,31669231669
+2,Australia,7,DA Warner,Mohammad Hafeez,SPD Smith,noballs,1,7,6,,,,31669231669
+2,Australia,7,DA Warner,Mohammad Hafeez,SPD Smith,,0,2,2,,,,31669231669
+2,Australia,7,DA Warner,Mohammad Hafeez,SPD Smith,,0,1,1,,,,31669231669
+2,Australia,7,SPD Smith,Mohammad Hafeez,DA Warner,wides,1,1,0,,,,31669231669
+2,Australia,7,SPD Smith,Mohammad Hafeez,DA Warner,,0,1,1,,,,31669231669
+2,Australia,7,DA Warner,Mohammad Hafeez,SPD Smith,,0,0,0,,,,31669231669
+2,Australia,7,DA Warner,Mohammad Hafeez,SPD Smith,,0,1,1,,,,31669231669
+2,Australia,7,SPD Smith,Mohammad Hafeez,DA Warner,,0,0,0,,,,31669231669
+2,Australia,8,DA Warner,Shadab Khan,SPD Smith,,0,6,6,,,,31669231669
+2,Australia,8,DA Warner,Shadab Khan,SPD Smith,,0,1,1,,,,31669231669
+2,Australia,8,SPD Smith,Shadab Khan,DA Warner,,0,0,0,caught,SPD Smith,Fakhar Zaman,31669231669
+2,Australia,8,DA Warner,Shadab Khan,GJ Maxwell,,0,1,1,,,,31669231669
+2,Australia,8,GJ Maxwell,Shadab Khan,DA Warner,,0,1,1,,,,31669231669
+2,Australia,8,DA Warner,Shadab Khan,GJ Maxwell,,0,1,1,,,,31669231669
+2,Australia,9,DA Warner,Hasan Ali,GJ Maxwell,,0,4,4,,,,31669231669
+2,Australia,9,DA Warner,Hasan Ali,GJ Maxwell,,0,1,1,,,,31669231669
+2,Australia,9,GJ Maxwell,Hasan Ali,DA Warner,,0,0,0,,,,31669231669
+2,Australia,9,GJ Maxwell,Hasan Ali,DA Warner,,0,2,2,,,,31669231669
+2,Australia,9,GJ Maxwell,Hasan Ali,DA Warner,,0,1,1,,,,31669231669
+2,Australia,9,DA Warner,Hasan Ali,GJ Maxwell,,0,1,1,,,,31669231669
+2,Australia,10,DA Warner,Shadab Khan,GJ Maxwell,,0,0,0,caught,DA Warner,Mohammad Rizwan,31669231669
+2,Australia,10,MP Stoinis,Shadab Khan,GJ Maxwell,,0,1,1,,,,31669231669
+2,Australia,10,GJ Maxwell,Shadab Khan,MP Stoinis,,0,0,0,,,,31669231669
+2,Australia,10,GJ Maxwell,Shadab Khan,MP Stoinis,,0,0,0,,,,31669231669
+2,Australia,10,GJ Maxwell,Shadab Khan,MP Stoinis,,0,1,1,,,,31669231669
+2,Australia,10,MP Stoinis,Shadab Khan,GJ Maxwell,,0,1,1,,,,31669231669
+2,Australia,11,MP Stoinis,Imad Wasim,GJ Maxwell,,0,0,0,,,,31669231669
+2,Australia,11,MP Stoinis,Imad Wasim,GJ Maxwell,,0,0,0,,,,31669231669
+2,Australia,11,MP Stoinis,Imad Wasim,GJ Maxwell,,0,0,0,,,,31669231669
+2,Australia,11,MP Stoinis,Imad Wasim,GJ Maxwell,,0,1,1,,,,31669231669
+2,Australia,11,GJ Maxwell,Imad Wasim,MP Stoinis,,0,0,0,,,,31669231669
+2,Australia,11,GJ Maxwell,Imad Wasim,MP Stoinis,,0,2,2,,,,31669231669
+2,Australia,12,MP Stoinis,Shadab Khan,GJ Maxwell,,0,1,1,,,,31669231669
+2,Australia,12,GJ Maxwell,Shadab Khan,MP Stoinis,,0,0,0,caught,GJ Maxwell,Haris Rauf,31669231669
+2,Australia,12,MP Stoinis,Shadab Khan,MS Wade,,0,6,6,,,,31669231669
+2,Australia,12,MP Stoinis,Shadab Khan,MS Wade,,0,0,0,,,,31669231669
+2,Australia,12,MP Stoinis,Shadab Khan,MS Wade,,0,1,1,,,,31669231669
+2,Australia,12,MS Wade,Shadab Khan,MP Stoinis,,0,0,0,,,,31669231669
+2,Australia,13,MP Stoinis,Haris Rauf,MS Wade,,0,0,0,,,,31669231669
+2,Australia,13,MP Stoinis,Haris Rauf,MS Wade,legbyes,1,1,0,,,,31669231669
+2,Australia,13,MS Wade,Haris Rauf,MP Stoinis,,0,0,0,,,,31669231669
+2,Australia,13,MS Wade,Haris Rauf,MP Stoinis,,0,4,4,,,,31669231669
+2,Australia,13,MS Wade,Haris Rauf,MP Stoinis,,0,1,1,,,,31669231669
+2,Australia,13,MP Stoinis,Haris Rauf,MS Wade,,0,0,0,,,,31669231669
+2,Australia,14,MS Wade,Shaheen Shah Afridi,MP Stoinis,,0,1,1,,,,31669231669
+2,Australia,14,MP Stoinis,Shaheen Shah Afridi,MS Wade,,0,1,1,,,,31669231669
+2,Australia,14,MS Wade,Shaheen Shah Afridi,MP Stoinis,,0,0,0,,,,31669231669
+2,Australia,14,MS Wade,Shaheen Shah Afridi,MP Stoinis,,0,1,1,,,,31669231669
+2,Australia,14,MP Stoinis,Shaheen Shah Afridi,MS Wade,,0,2,2,,,,31669231669
+2,Australia,14,MP Stoinis,Shaheen Shah Afridi,MS Wade,,0,1,1,,,,31669231669
+2,Australia,15,MP Stoinis,Hasan Ali,MS Wade,,0,4,4,,,,31669231669
+2,Australia,15,MP Stoinis,Hasan Ali,MS Wade,noballs,1,3,2,,,,31669231669
+2,Australia,15,MP Stoinis,Hasan Ali,MS Wade,,0,2,2,,,,31669231669
+2,Australia,15,MP Stoinis,Hasan Ali,MS Wade,,0,1,1,,,,31669231669
+2,Australia,15,MS Wade,Hasan Ali,MP Stoinis,,0,1,1,,,,31669231669
+2,Australia,15,MP Stoinis,Hasan Ali,MS Wade,,0,1,1,,,,31669231669
+2,Australia,15,MS Wade,Hasan Ali,MP Stoinis,,0,0,0,,,,31669231669
+2,Australia,16,MP Stoinis,Haris Rauf,MS Wade,,0,0,0,,,,31669231669
+2,Australia,16,MP Stoinis,Haris Rauf,MS Wade,,0,2,2,,,,31669231669
+2,Australia,16,MP Stoinis,Haris Rauf,MS Wade,,0,6,6,,,,31669231669
+2,Australia,16,MP Stoinis,Haris Rauf,MS Wade,,0,4,4,,,,31669231669
+2,Australia,16,MP Stoinis,Haris Rauf,MS Wade,,0,0,0,,,,31669231669
+2,Australia,16,MP Stoinis,Haris Rauf,MS Wade,,0,1,1,,,,31669231669
+2,Australia,17,MP Stoinis,Hasan Ali,MS Wade,,0,1,1,,,,31669231669
+2,Australia,17,MS Wade,Hasan Ali,MP Stoinis,,0,2,2,,,,31669231669
+2,Australia,17,MS Wade,Hasan Ali,MP Stoinis,,0,6,6,,,,31669231669
+2,Australia,17,MS Wade,Hasan Ali,MP Stoinis,,0,1,1,,,,31669231669
+2,Australia,17,MP Stoinis,Hasan Ali,MS Wade,,0,1,1,,,,31669231669
+2,Australia,17,MS Wade,Hasan Ali,MP Stoinis,,0,4,4,,,,31669231669
+2,Australia,18,MP Stoinis,Shaheen Shah Afridi,MS Wade,,0,0,0,,,,31669231669
+2,Australia,18,MP Stoinis,Shaheen Shah Afridi,MS Wade,legbyes,1,1,0,,,,31669231669
+2,Australia,18,MS Wade,Shaheen Shah Afridi,MP Stoinis,wides,1,1,0,,,,31669231669
+2,Australia,18,MS Wade,Shaheen Shah Afridi,MP Stoinis,,0,2,2,,,,31669231669
+2,Australia,18,MS Wade,Shaheen Shah Afridi,MP Stoinis,,0,6,6,,,,31669231669
+2,Australia,18,MS Wade,Shaheen Shah Afridi,MP Stoinis,,0,6,6,,,,31669231669
+2,Australia,18,MS Wade,Shaheen Shah Afridi,MP Stoinis,,0,6,6,,,,31669231669

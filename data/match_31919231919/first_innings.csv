@@ -1,0 +1,121 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Ireland,0,PR Stirling,Bilal Khan,A Balbirnie,,0,1,1,,,,31919231919
+1,Ireland,0,A Balbirnie,Bilal Khan,PR Stirling,,0,4,4,,,,31919231919
+1,Ireland,0,A Balbirnie,Bilal Khan,PR Stirling,,0,0,0,,,,31919231919
+1,Ireland,0,A Balbirnie,Bilal Khan,PR Stirling,,0,4,4,,,,31919231919
+1,Ireland,0,A Balbirnie,Bilal Khan,PR Stirling,,0,0,0,,,,31919231919
+1,Ireland,0,A Balbirnie,Bilal Khan,PR Stirling,,0,0,0,,,,31919231919
+1,Ireland,1,PR Stirling,Kaleemullah,A Balbirnie,,0,1,1,,,,31919231919
+1,Ireland,1,A Balbirnie,Kaleemullah,PR Stirling,,0,4,4,,,,31919231919
+1,Ireland,1,A Balbirnie,Kaleemullah,PR Stirling,legbyes,1,1,0,,,,31919231919
+1,Ireland,1,PR Stirling,Kaleemullah,A Balbirnie,,0,0,0,,,,31919231919
+1,Ireland,1,PR Stirling,Kaleemullah,A Balbirnie,,0,4,4,,,,31919231919
+1,Ireland,1,PR Stirling,Kaleemullah,A Balbirnie,,0,0,0,,,,31919231919
+1,Ireland,2,A Balbirnie,Bilal Khan,PR Stirling,,0,0,0,,,,31919231919
+1,Ireland,2,A Balbirnie,Bilal Khan,PR Stirling,,0,0,0,caught,A Balbirnie,Khurram Nawaz,31919231919
+1,Ireland,2,PR Stirling,Bilal Khan,GJ Delany,,0,0,0,,,,31919231919
+1,Ireland,2,PR Stirling,Bilal Khan,GJ Delany,,0,0,0,,,,31919231919
+1,Ireland,2,PR Stirling,Bilal Khan,GJ Delany,,0,0,0,caught,PR Stirling,Khawar Ali,31919231919
+1,Ireland,2,HT Tector,Bilal Khan,GJ Delany,,0,0,0,,,,31919231919
+1,Ireland,3,GJ Delany,Kaleemullah,HT Tector,,0,4,4,,,,31919231919
+1,Ireland,3,GJ Delany,Kaleemullah,HT Tector,,0,0,0,,,,31919231919
+1,Ireland,3,GJ Delany,Kaleemullah,HT Tector,,0,1,1,,,,31919231919
+1,Ireland,3,HT Tector,Kaleemullah,GJ Delany,,0,0,0,,,,31919231919
+1,Ireland,3,HT Tector,Kaleemullah,GJ Delany,,0,4,4,,,,31919231919
+1,Ireland,3,HT Tector,Kaleemullah,GJ Delany,,0,2,2,,,,31919231919
+1,Ireland,4,GJ Delany,Fayyaz Butt,HT Tector,,0,0,0,,,,31919231919
+1,Ireland,4,GJ Delany,Fayyaz Butt,HT Tector,,0,1,1,,,,31919231919
+1,Ireland,4,HT Tector,Fayyaz Butt,GJ Delany,,0,0,0,,,,31919231919
+1,Ireland,4,HT Tector,Fayyaz Butt,GJ Delany,,0,1,1,,,,31919231919
+1,Ireland,4,GJ Delany,Fayyaz Butt,HT Tector,,0,1,1,,,,31919231919
+1,Ireland,4,HT Tector,Fayyaz Butt,GJ Delany,,0,1,1,,,,31919231919
+1,Ireland,5,HT Tector,Aamir Kaleem,GJ Delany,,0,1,1,,,,31919231919
+1,Ireland,5,GJ Delany,Aamir Kaleem,HT Tector,,0,0,0,,,,31919231919
+1,Ireland,5,GJ Delany,Aamir Kaleem,HT Tector,,0,4,4,,,,31919231919
+1,Ireland,5,GJ Delany,Aamir Kaleem,HT Tector,,0,4,4,,,,31919231919
+1,Ireland,5,GJ Delany,Aamir Kaleem,HT Tector,,0,1,1,,,,31919231919
+1,Ireland,5,HT Tector,Aamir Kaleem,GJ Delany,legbyes,1,1,0,,,,31919231919
+1,Ireland,6,HT Tector,Fayyaz Butt,GJ Delany,,0,6,6,,,,31919231919
+1,Ireland,6,HT Tector,Fayyaz Butt,GJ Delany,,0,1,1,,,,31919231919
+1,Ireland,6,GJ Delany,Fayyaz Butt,HT Tector,,0,0,0,,,,31919231919
+1,Ireland,6,GJ Delany,Fayyaz Butt,HT Tector,,0,0,0,,,,31919231919
+1,Ireland,6,GJ Delany,Fayyaz Butt,HT Tector,,0,0,0,,,,31919231919
+1,Ireland,6,GJ Delany,Fayyaz Butt,HT Tector,,0,2,2,,,,31919231919
+1,Ireland,7,HT Tector,Aamir Kaleem,GJ Delany,,0,0,0,,,,31919231919
+1,Ireland,7,HT Tector,Aamir Kaleem,GJ Delany,,0,0,0,,,,31919231919
+1,Ireland,7,HT Tector,Aamir Kaleem,GJ Delany,,0,1,1,,,,31919231919
+1,Ireland,7,GJ Delany,Aamir Kaleem,HT Tector,,0,2,2,,,,31919231919
+1,Ireland,7,GJ Delany,Aamir Kaleem,HT Tector,,0,1,1,,,,31919231919
+1,Ireland,7,HT Tector,Aamir Kaleem,GJ Delany,,0,1,1,,,,31919231919
+1,Ireland,8,HT Tector,Fayyaz Butt,GJ Delany,,0,6,6,,,,31919231919
+1,Ireland,8,HT Tector,Fayyaz Butt,GJ Delany,,0,4,4,,,,31919231919
+1,Ireland,8,HT Tector,Fayyaz Butt,GJ Delany,,0,2,2,,,,31919231919
+1,Ireland,8,HT Tector,Fayyaz Butt,GJ Delany,,0,1,1,,,,31919231919
+1,Ireland,8,GJ Delany,Fayyaz Butt,HT Tector,,0,1,1,,,,31919231919
+1,Ireland,8,HT Tector,Fayyaz Butt,GJ Delany,,0,0,0,,,,31919231919
+1,Ireland,9,GJ Delany,Khawar Ali,HT Tector,,0,0,0,,,,31919231919
+1,Ireland,9,GJ Delany,Khawar Ali,HT Tector,,0,1,1,,,,31919231919
+1,Ireland,9,HT Tector,Khawar Ali,GJ Delany,,0,1,1,,,,31919231919
+1,Ireland,9,GJ Delany,Khawar Ali,HT Tector,,0,1,1,,,,31919231919
+1,Ireland,9,HT Tector,Khawar Ali,GJ Delany,,0,1,1,,,,31919231919
+1,Ireland,9,GJ Delany,Khawar Ali,HT Tector,,0,0,0,,,,31919231919
+1,Ireland,10,HT Tector,Zeeshan Maqsood,GJ Delany,,0,0,0,,,,31919231919
+1,Ireland,10,HT Tector,Zeeshan Maqsood,GJ Delany,,0,1,1,,,,31919231919
+1,Ireland,10,GJ Delany,Zeeshan Maqsood,HT Tector,,0,6,6,,,,31919231919
+1,Ireland,10,GJ Delany,Zeeshan Maqsood,HT Tector,,0,6,6,,,,31919231919
+1,Ireland,10,GJ Delany,Zeeshan Maqsood,HT Tector,,0,6,6,,,,31919231919
+1,Ireland,10,GJ Delany,Zeeshan Maqsood,HT Tector,,0,0,0,,,,31919231919
+1,Ireland,11,HT Tector,Khawar Ali,GJ Delany,,0,1,1,,,,31919231919
+1,Ireland,11,GJ Delany,Khawar Ali,HT Tector,,0,0,0,,,,31919231919
+1,Ireland,11,GJ Delany,Khawar Ali,HT Tector,,0,2,2,,,,31919231919
+1,Ireland,11,GJ Delany,Khawar Ali,HT Tector,,0,0,0,,,,31919231919
+1,Ireland,11,GJ Delany,Khawar Ali,HT Tector,,0,1,1,,,,31919231919
+1,Ireland,11,HT Tector,Khawar Ali,GJ Delany,,0,0,0,,,,31919231919
+1,Ireland,12,GJ Delany,Kaleemullah,HT Tector,,0,1,1,,,,31919231919
+1,Ireland,12,HT Tector,Kaleemullah,GJ Delany,,0,0,0,caught,HT Tector,Khawar Ali,31919231919
+1,Ireland,12,L Tucker,Kaleemullah,GJ Delany,,0,0,0,bowled,L Tucker,,31919231919
+1,Ireland,12,GH Dockrell,Kaleemullah,GJ Delany,,0,1,1,,,,31919231919
+1,Ireland,12,GJ Delany,Kaleemullah,GH Dockrell,,0,1,1,,,,31919231919
+1,Ireland,12,GH Dockrell,Kaleemullah,GJ Delany,,0,1,1,,,,31919231919
+1,Ireland,13,GH Dockrell,Khawar Ali,GJ Delany,,0,0,0,,,,31919231919
+1,Ireland,13,GH Dockrell,Khawar Ali,GJ Delany,,0,1,1,,,,31919231919
+1,Ireland,13,GJ Delany,Khawar Ali,GH Dockrell,,0,0,0,caught,GJ Delany,Bilal Khan,31919231919
+1,Ireland,13,GH Dockrell,Khawar Ali,AR McBrine,,0,0,0,,,,31919231919
+1,Ireland,13,GH Dockrell,Khawar Ali,AR McBrine,,0,0,0,,,,31919231919
+1,Ireland,13,GH Dockrell,Khawar Ali,AR McBrine,,0,1,1,,,,31919231919
+1,Ireland,14,GH Dockrell,Kaleemullah,AR McBrine,,0,6,6,,,,31919231919
+1,Ireland,14,GH Dockrell,Kaleemullah,AR McBrine,,0,1,1,,,,31919231919
+1,Ireland,14,AR McBrine,Kaleemullah,GH Dockrell,,0,4,4,,,,31919231919
+1,Ireland,14,AR McBrine,Kaleemullah,GH Dockrell,,0,1,1,,,,31919231919
+1,Ireland,14,GH Dockrell,Kaleemullah,AR McBrine,,0,4,4,,,,31919231919
+1,Ireland,14,GH Dockrell,Kaleemullah,AR McBrine,,0,0,0,,,,31919231919
+1,Ireland,15,AR McBrine,Khawar Ali,GH Dockrell,,0,0,0,,,,31919231919
+1,Ireland,15,AR McBrine,Khawar Ali,GH Dockrell,,0,1,1,,,,31919231919
+1,Ireland,15,GH Dockrell,Khawar Ali,AR McBrine,,0,1,1,,,,31919231919
+1,Ireland,15,AR McBrine,Khawar Ali,GH Dockrell,,0,1,1,,,,31919231919
+1,Ireland,15,GH Dockrell,Khawar Ali,AR McBrine,,0,0,0,,,,31919231919
+1,Ireland,15,GH Dockrell,Khawar Ali,AR McBrine,,0,0,0,,,,31919231919
+1,Ireland,16,AR McBrine,Bilal Khan,GH Dockrell,,0,2,2,,,,31919231919
+1,Ireland,16,AR McBrine,Bilal Khan,GH Dockrell,,0,1,1,,,,31919231919
+1,Ireland,16,GH Dockrell,Bilal Khan,AR McBrine,,0,2,2,,,,31919231919
+1,Ireland,16,GH Dockrell,Bilal Khan,AR McBrine,,0,0,0,caught,GH Dockrell,KH Prajapati,31919231919
+1,Ireland,16,AR McBrine,Bilal Khan,Simi Singh,,0,1,1,,,,31919231919
+1,Ireland,16,Simi Singh,Bilal Khan,AR McBrine,,0,2,2,,,,31919231919
+1,Ireland,17,AR McBrine,Aamir Kaleem,Simi Singh,,0,6,6,,,,31919231919
+1,Ireland,17,AR McBrine,Aamir Kaleem,Simi Singh,,0,0,0,,,,31919231919
+1,Ireland,17,AR McBrine,Aamir Kaleem,Simi Singh,,0,6,6,,,,31919231919
+1,Ireland,17,AR McBrine,Aamir Kaleem,Simi Singh,,0,1,1,,,,31919231919
+1,Ireland,17,Simi Singh,Aamir Kaleem,AR McBrine,,0,1,1,,,,31919231919
+1,Ireland,17,AR McBrine,Aamir Kaleem,Simi Singh,,0,0,0,,,,31919231919
+1,Ireland,18,Simi Singh,Bilal Khan,AR McBrine,,0,1,1,,,,31919231919
+1,Ireland,18,AR McBrine,Bilal Khan,Simi Singh,,0,1,1,,,,31919231919
+1,Ireland,18,Simi Singh,Bilal Khan,AR McBrine,,0,1,1,,,,31919231919
+1,Ireland,18,AR McBrine,Bilal Khan,Simi Singh,,0,1,1,,,,31919231919
+1,Ireland,18,Simi Singh,Bilal Khan,AR McBrine,,0,1,1,,,,31919231919
+1,Ireland,18,AR McBrine,Bilal Khan,Simi Singh,,0,1,1,,,,31919231919
+1,Ireland,19,AR McBrine,Fayyaz Butt,Simi Singh,,0,1,1,,,,31919231919
+1,Ireland,19,Simi Singh,Fayyaz Butt,AR McBrine,,0,3,3,,,,31919231919
+1,Ireland,19,AR McBrine,Fayyaz Butt,Simi Singh,,0,4,4,,,,31919231919
+1,Ireland,19,AR McBrine,Fayyaz Butt,Simi Singh,,0,0,0,,,,31919231919
+1,Ireland,19,AR McBrine,Fayyaz Butt,Simi Singh,,0,4,4,,,,31919231919
+1,Ireland,19,AR McBrine,Fayyaz Butt,Simi Singh,,0,0,0,caught,AR McBrine,Naseem Khushi,31919231919

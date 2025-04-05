@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Zimbabwe,0,H Masakadza,PA van Meekeren,SF Mire,,0,0,0,,,,31159231159
+2,Zimbabwe,0,H Masakadza,PA van Meekeren,SF Mire,,0,0,0,,,,31159231159
+2,Zimbabwe,0,H Masakadza,PA van Meekeren,SF Mire,legbyes,4,4,0,,,,31159231159
+2,Zimbabwe,0,H Masakadza,PA van Meekeren,SF Mire,,0,2,2,,,,31159231159
+2,Zimbabwe,0,H Masakadza,PA van Meekeren,SF Mire,wides,1,1,0,,,,31159231159
+2,Zimbabwe,0,H Masakadza,PA van Meekeren,SF Mire,,0,0,0,,,,31159231159
+2,Zimbabwe,0,H Masakadza,PA van Meekeren,SF Mire,wides,1,1,0,,,,31159231159
+2,Zimbabwe,0,H Masakadza,PA van Meekeren,SF Mire,,0,2,2,,,,31159231159
+2,Zimbabwe,1,SF Mire,RE van der Merwe,H Masakadza,,0,0,0,,,,31159231159
+2,Zimbabwe,1,SF Mire,RE van der Merwe,H Masakadza,,0,4,4,,,,31159231159
+2,Zimbabwe,1,SF Mire,RE van der Merwe,H Masakadza,,0,0,0,,,,31159231159
+2,Zimbabwe,1,SF Mire,RE van der Merwe,H Masakadza,,0,0,0,lbw,SF Mire,,31159231159
+2,Zimbabwe,1,CR Ervine,RE van der Merwe,H Masakadza,,0,0,0,,,,31159231159
+2,Zimbabwe,1,CR Ervine,RE van der Merwe,H Masakadza,,0,1,1,,,,31159231159
+2,Zimbabwe,2,CR Ervine,BD Glover,H Masakadza,,0,1,1,,,,31159231159
+2,Zimbabwe,2,H Masakadza,BD Glover,CR Ervine,,0,0,0,caught,H Masakadza,SA Edwards,31159231159
+2,Zimbabwe,2,CR Ervine,BD Glover,BRM Taylor,,0,0,0,,,,31159231159
+2,Zimbabwe,2,CR Ervine,BD Glover,BRM Taylor,,0,0,0,,,,31159231159
+2,Zimbabwe,2,CR Ervine,BD Glover,BRM Taylor,,0,0,0,,,,31159231159
+2,Zimbabwe,2,CR Ervine,BD Glover,BRM Taylor,,0,2,2,,,,31159231159
+2,Zimbabwe,3,BRM Taylor,FJ Klaassen,CR Ervine,,0,0,0,,,,31159231159
+2,Zimbabwe,3,BRM Taylor,FJ Klaassen,CR Ervine,,0,4,4,,,,31159231159
+2,Zimbabwe,3,BRM Taylor,FJ Klaassen,CR Ervine,,0,1,1,,,,31159231159
+2,Zimbabwe,3,CR Ervine,FJ Klaassen,BRM Taylor,,0,0,0,,,,31159231159
+2,Zimbabwe,3,CR Ervine,FJ Klaassen,BRM Taylor,,0,6,6,,,,31159231159
+2,Zimbabwe,3,CR Ervine,FJ Klaassen,BRM Taylor,,0,2,2,,,,31159231159
+2,Zimbabwe,4,BRM Taylor,BD Glover,CR Ervine,,0,1,1,,,,31159231159
+2,Zimbabwe,4,CR Ervine,BD Glover,BRM Taylor,,0,0,0,,,,31159231159
+2,Zimbabwe,4,CR Ervine,BD Glover,BRM Taylor,,0,4,4,,,,31159231159
+2,Zimbabwe,4,CR Ervine,BD Glover,BRM Taylor,,0,1,1,,,,31159231159
+2,Zimbabwe,4,BRM Taylor,BD Glover,CR Ervine,,0,1,1,,,,31159231159
+2,Zimbabwe,4,CR Ervine,BD Glover,BRM Taylor,,0,1,1,,,,31159231159
+2,Zimbabwe,5,CR Ervine,PA van Meekeren,BRM Taylor,,0,1,1,,,,31159231159
+2,Zimbabwe,5,BRM Taylor,PA van Meekeren,CR Ervine,,0,1,1,,,,31159231159
+2,Zimbabwe,5,CR Ervine,PA van Meekeren,BRM Taylor,,0,4,4,,,,31159231159
+2,Zimbabwe,5,CR Ervine,PA van Meekeren,BRM Taylor,,0,4,4,,,,31159231159
+2,Zimbabwe,5,CR Ervine,PA van Meekeren,BRM Taylor,,0,4,4,,,,31159231159
+2,Zimbabwe,5,CR Ervine,PA van Meekeren,BRM Taylor,,0,0,0,,,,31159231159
+2,Zimbabwe,6,BRM Taylor,PM Seelaar,CR Ervine,,0,1,1,,,,31159231159
+2,Zimbabwe,6,CR Ervine,PM Seelaar,BRM Taylor,,0,0,0,,,,31159231159
+2,Zimbabwe,6,CR Ervine,PM Seelaar,BRM Taylor,,0,1,1,,,,31159231159
+2,Zimbabwe,6,BRM Taylor,PM Seelaar,CR Ervine,,0,1,1,,,,31159231159
+2,Zimbabwe,6,CR Ervine,PM Seelaar,BRM Taylor,,0,6,6,,,,31159231159
+2,Zimbabwe,6,CR Ervine,PM Seelaar,BRM Taylor,,0,6,6,,,,31159231159
+2,Zimbabwe,7,BRM Taylor,RE van der Merwe,CR Ervine,,0,0,0,,,,31159231159
+2,Zimbabwe,7,BRM Taylor,RE van der Merwe,CR Ervine,,0,0,0,,,,31159231159
+2,Zimbabwe,7,BRM Taylor,RE van der Merwe,CR Ervine,,0,1,1,,,,31159231159
+2,Zimbabwe,7,CR Ervine,RE van der Merwe,BRM Taylor,,0,0,0,,,,31159231159
+2,Zimbabwe,7,CR Ervine,RE van der Merwe,BRM Taylor,,0,0,0,,,,31159231159
+2,Zimbabwe,7,CR Ervine,RE van der Merwe,BRM Taylor,,0,4,4,,,,31159231159
+2,Zimbabwe,8,BRM Taylor,FJ Klaassen,CR Ervine,,0,0,0,,,,31159231159
+2,Zimbabwe,8,BRM Taylor,FJ Klaassen,CR Ervine,,0,1,1,,,,31159231159
+2,Zimbabwe,8,CR Ervine,FJ Klaassen,BRM Taylor,,0,1,1,,,,31159231159
+2,Zimbabwe,8,BRM Taylor,FJ Klaassen,CR Ervine,,0,1,1,,,,31159231159
+2,Zimbabwe,8,CR Ervine,FJ Klaassen,BRM Taylor,,0,0,0,,,,31159231159
+2,Zimbabwe,8,CR Ervine,FJ Klaassen,BRM Taylor,,0,1,1,,,,31159231159
+2,Zimbabwe,9,CR Ervine,PM Seelaar,BRM Taylor,,0,1,1,,,,31159231159
+2,Zimbabwe,9,BRM Taylor,PM Seelaar,CR Ervine,wides,1,1,0,,,,31159231159
+2,Zimbabwe,9,BRM Taylor,PM Seelaar,CR Ervine,,0,0,0,caught,BRM Taylor,PA van Meekeren,31159231159
+2,Zimbabwe,9,SC Williams,PM Seelaar,CR Ervine,,0,1,1,,,,31159231159
+2,Zimbabwe,9,CR Ervine,PM Seelaar,SC Williams,,0,1,1,,,,31159231159
+2,Zimbabwe,9,SC Williams,PM Seelaar,CR Ervine,,0,1,1,,,,31159231159
+2,Zimbabwe,9,CR Ervine,PM Seelaar,SC Williams,,0,1,1,,,,31159231159
+2,Zimbabwe,10,CR Ervine,BD Glover,SC Williams,,0,0,0,,,,31159231159
+2,Zimbabwe,10,CR Ervine,BD Glover,SC Williams,,0,0,0,,,,31159231159
+2,Zimbabwe,10,CR Ervine,BD Glover,SC Williams,,0,2,2,,,,31159231159
+2,Zimbabwe,10,CR Ervine,BD Glover,SC Williams,,0,4,4,,,,31159231159
+2,Zimbabwe,10,CR Ervine,BD Glover,SC Williams,,0,0,0,caught,CR Ervine,PM Seelaar,31159231159
+2,Zimbabwe,10,Sikandar Raza,BD Glover,SC Williams,,0,0,0,,,,31159231159
+2,Zimbabwe,11,SC Williams,RE van der Merwe,Sikandar Raza,,0,1,1,,,,31159231159
+2,Zimbabwe,11,Sikandar Raza,RE van der Merwe,SC Williams,,0,1,1,,,,31159231159
+2,Zimbabwe,11,SC Williams,RE van der Merwe,Sikandar Raza,,0,0,0,,,,31159231159
+2,Zimbabwe,11,SC Williams,RE van der Merwe,Sikandar Raza,,0,4,4,,,,31159231159
+2,Zimbabwe,11,SC Williams,RE van der Merwe,Sikandar Raza,,0,0,0,,,,31159231159
+2,Zimbabwe,11,SC Williams,RE van der Merwe,Sikandar Raza,,0,1,1,,,,31159231159
+2,Zimbabwe,12,SC Williams,PA van Meekeren,Sikandar Raza,,0,1,1,,,,31159231159
+2,Zimbabwe,12,Sikandar Raza,PA van Meekeren,SC Williams,,0,0,0,,,,31159231159
+2,Zimbabwe,12,Sikandar Raza,PA van Meekeren,SC Williams,,0,0,0,,,,31159231159
+2,Zimbabwe,12,Sikandar Raza,PA van Meekeren,SC Williams,,0,6,6,,,,31159231159
+2,Zimbabwe,12,Sikandar Raza,PA van Meekeren,SC Williams,,0,0,0,,,,31159231159
+2,Zimbabwe,12,Sikandar Raza,PA van Meekeren,SC Williams,,0,2,2,,,,31159231159
+2,Zimbabwe,13,SC Williams,PM Seelaar,Sikandar Raza,,0,0,0,stumped,SC Williams,SA Edwards,31159231159
+2,Zimbabwe,13,PJ Moor,PM Seelaar,Sikandar Raza,,0,0,0,,,,31159231159
+2,Zimbabwe,13,PJ Moor,PM Seelaar,Sikandar Raza,,0,0,0,,,,31159231159
+2,Zimbabwe,13,PJ Moor,PM Seelaar,Sikandar Raza,wides,1,1,0,,,,31159231159
+2,Zimbabwe,13,PJ Moor,PM Seelaar,Sikandar Raza,,0,1,1,,,,31159231159
+2,Zimbabwe,13,Sikandar Raza,PM Seelaar,PJ Moor,,0,1,1,,,,31159231159
+2,Zimbabwe,13,PJ Moor,PM Seelaar,Sikandar Raza,,0,0,0,,,,31159231159
+2,Zimbabwe,14,Sikandar Raza,FJ Klaassen,PJ Moor,,0,4,4,,,,31159231159
+2,Zimbabwe,14,Sikandar Raza,FJ Klaassen,PJ Moor,,0,0,0,caught,Sikandar Raza,RE van der Merwe,31159231159
+2,Zimbabwe,14,PJ Moor,FJ Klaassen,RP Burl,,0,0,0,,,,31159231159
+2,Zimbabwe,14,PJ Moor,FJ Klaassen,RP Burl,,0,1,1,,,,31159231159
+2,Zimbabwe,14,RP Burl,FJ Klaassen,PJ Moor,,0,1,1,,,,31159231159
+2,Zimbabwe,14,PJ Moor,FJ Klaassen,RP Burl,,0,0,0,caught,PJ Moor,PA van Meekeren,31159231159
+2,Zimbabwe,15,DT Tiripano,RE van der Merwe,RP Burl,,0,0,0,,,,31159231159
+2,Zimbabwe,15,DT Tiripano,RE van der Merwe,RP Burl,,0,1,1,,,,31159231159
+2,Zimbabwe,15,RP Burl,RE van der Merwe,DT Tiripano,,0,2,2,,,,31159231159
+2,Zimbabwe,15,RP Burl,RE van der Merwe,DT Tiripano,,0,1,1,,,,31159231159
+2,Zimbabwe,15,DT Tiripano,RE van der Merwe,RP Burl,,0,0,0,,,,31159231159
+2,Zimbabwe,15,DT Tiripano,RE van der Merwe,RP Burl,,0,0,0,,,,31159231159
+2,Zimbabwe,16,RP Burl,BD Glover,DT Tiripano,,0,0,0,caught,RP Burl,BN Cooper,31159231159
+2,Zimbabwe,16,KM Jarvis,BD Glover,DT Tiripano,,0,0,0,,,,31159231159
+2,Zimbabwe,16,KM Jarvis,BD Glover,DT Tiripano,,0,1,1,,,,31159231159
+2,Zimbabwe,16,DT Tiripano,BD Glover,KM Jarvis,,0,1,1,,,,31159231159
+2,Zimbabwe,16,KM Jarvis,BD Glover,DT Tiripano,,0,0,0,,,,31159231159
+2,Zimbabwe,16,KM Jarvis,BD Glover,DT Tiripano,,0,1,1,,,,31159231159
+2,Zimbabwe,17,KM Jarvis,PM Seelaar,DT Tiripano,,0,0,0,stumped,KM Jarvis,SA Edwards,31159231159
+2,Zimbabwe,17,CB Mpofu,PM Seelaar,DT Tiripano,,0,0,0,,,,31159231159
+2,Zimbabwe,17,CB Mpofu,PM Seelaar,DT Tiripano,,0,1,1,,,,31159231159
+2,Zimbabwe,17,DT Tiripano,PM Seelaar,CB Mpofu,,0,1,1,,,,31159231159
+2,Zimbabwe,17,CB Mpofu,PM Seelaar,DT Tiripano,,0,1,1,,,,31159231159
+2,Zimbabwe,17,DT Tiripano,PM Seelaar,CB Mpofu,,0,1,1,,,,31159231159
+2,Zimbabwe,18,DT Tiripano,PA van Meekeren,CB Mpofu,,0,1,1,,,,31159231159
+2,Zimbabwe,18,CB Mpofu,PA van Meekeren,DT Tiripano,,0,4,4,,,,31159231159
+2,Zimbabwe,18,CB Mpofu,PA van Meekeren,DT Tiripano,,0,1,1,,,,31159231159
+2,Zimbabwe,18,DT Tiripano,PA van Meekeren,CB Mpofu,,0,1,1,,,,31159231159
+2,Zimbabwe,18,CB Mpofu,PA van Meekeren,DT Tiripano,,0,4,4,,,,31159231159
+2,Zimbabwe,18,CB Mpofu,PA van Meekeren,DT Tiripano,,0,1,1,,,,31159231159
+2,Zimbabwe,19,CB Mpofu,FJ Klaassen,DT Tiripano,,0,4,4,,,,31159231159
+2,Zimbabwe,19,CB Mpofu,FJ Klaassen,DT Tiripano,,0,1,1,,,,31159231159
+2,Zimbabwe,19,DT Tiripano,FJ Klaassen,CB Mpofu,,0,6,6,,,,31159231159
+2,Zimbabwe,19,DT Tiripano,FJ Klaassen,CB Mpofu,,0,2,2,,,,31159231159
+2,Zimbabwe,19,DT Tiripano,FJ Klaassen,CB Mpofu,,0,0,0,caught,DT Tiripano,PM Seelaar,31159231159

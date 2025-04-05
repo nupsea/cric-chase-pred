@@ -1,0 +1,131 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Cyprus,0,Muhammad Shoaib Ahmed,A Turkmen,AUKDS Kalugala,wides,1,1,0,,,,32135232135
+1,Cyprus,0,Muhammad Shoaib Ahmed,A Turkmen,AUKDS Kalugala,,0,0,0,,,,32135232135
+1,Cyprus,0,Muhammad Shoaib Ahmed,A Turkmen,AUKDS Kalugala,,0,0,0,,,,32135232135
+1,Cyprus,0,Muhammad Shoaib Ahmed,A Turkmen,AUKDS Kalugala,,0,0,0,,,,32135232135
+1,Cyprus,0,Muhammad Shoaib Ahmed,A Turkmen,AUKDS Kalugala,,0,1,1,,,,32135232135
+1,Cyprus,0,AUKDS Kalugala,A Turkmen,Muhammad Shoaib Ahmed,,0,2,2,,,,32135232135
+1,Cyprus,0,AUKDS Kalugala,A Turkmen,Muhammad Shoaib Ahmed,,0,0,0,,,,32135232135
+1,Cyprus,1,Muhammad Shoaib Ahmed,M Ozturk,AUKDS Kalugala,,0,0,0,,,,32135232135
+1,Cyprus,1,Muhammad Shoaib Ahmed,M Ozturk,AUKDS Kalugala,,0,1,1,,,,32135232135
+1,Cyprus,1,AUKDS Kalugala,M Ozturk,Muhammad Shoaib Ahmed,,0,2,2,,,,32135232135
+1,Cyprus,1,AUKDS Kalugala,M Ozturk,Muhammad Shoaib Ahmed,,0,1,1,,,,32135232135
+1,Cyprus,1,Muhammad Shoaib Ahmed,M Ozturk,AUKDS Kalugala,,0,1,1,,,,32135232135
+1,Cyprus,1,AUKDS Kalugala,M Ozturk,Muhammad Shoaib Ahmed,,0,1,1,,,,32135232135
+1,Cyprus,2,AUKDS Kalugala,A Turkmen,Muhammad Shoaib Ahmed,,0,1,1,,,,32135232135
+1,Cyprus,2,Muhammad Shoaib Ahmed,A Turkmen,AUKDS Kalugala,,0,1,1,,,,32135232135
+1,Cyprus,2,AUKDS Kalugala,A Turkmen,Muhammad Shoaib Ahmed,,0,1,1,,,,32135232135
+1,Cyprus,2,Muhammad Shoaib Ahmed,A Turkmen,AUKDS Kalugala,,0,0,0,,,,32135232135
+1,Cyprus,2,Muhammad Shoaib Ahmed,A Turkmen,AUKDS Kalugala,,0,1,1,,,,32135232135
+1,Cyprus,2,AUKDS Kalugala,A Turkmen,Muhammad Shoaib Ahmed,,0,0,0,,,,32135232135
+1,Cyprus,3,Muhammad Shoaib Ahmed,M Ozturk,AUKDS Kalugala,,0,4,4,,,,32135232135
+1,Cyprus,3,Muhammad Shoaib Ahmed,M Ozturk,AUKDS Kalugala,,0,1,1,,,,32135232135
+1,Cyprus,3,AUKDS Kalugala,M Ozturk,Muhammad Shoaib Ahmed,,0,1,1,,,,32135232135
+1,Cyprus,3,Muhammad Shoaib Ahmed,M Ozturk,AUKDS Kalugala,,0,1,1,,,,32135232135
+1,Cyprus,3,AUKDS Kalugala,M Ozturk,Muhammad Shoaib Ahmed,,0,4,4,,,,32135232135
+1,Cyprus,3,AUKDS Kalugala,M Ozturk,Muhammad Shoaib Ahmed,,0,1,1,,,,32135232135
+1,Cyprus,4,AUKDS Kalugala,Shamsullah Ehsan,Muhammad Shoaib Ahmed,legbyes,1,1,0,,,,32135232135
+1,Cyprus,4,Muhammad Shoaib Ahmed,Shamsullah Ehsan,AUKDS Kalugala,,0,1,1,,,,32135232135
+1,Cyprus,4,AUKDS Kalugala,Shamsullah Ehsan,Muhammad Shoaib Ahmed,wides,1,1,0,,,,32135232135
+1,Cyprus,4,AUKDS Kalugala,Shamsullah Ehsan,Muhammad Shoaib Ahmed,,0,0,0,caught,AUKDS Kalugala,M Ozturk,32135232135
+1,Cyprus,4,CPPM Sadun,Shamsullah Ehsan,Muhammad Shoaib Ahmed,wides,1,1,0,,,,32135232135
+1,Cyprus,4,CPPM Sadun,Shamsullah Ehsan,Muhammad Shoaib Ahmed,,0,0,0,,,,32135232135
+1,Cyprus,4,CPPM Sadun,Shamsullah Ehsan,Muhammad Shoaib Ahmed,,0,1,1,,,,32135232135
+1,Cyprus,4,Muhammad Shoaib Ahmed,Shamsullah Ehsan,CPPM Sadun,,0,1,1,,,,32135232135
+1,Cyprus,5,Muhammad Shoaib Ahmed,GG Alta,CPPM Sadun,,0,4,4,,,,32135232135
+1,Cyprus,5,Muhammad Shoaib Ahmed,GG Alta,CPPM Sadun,,0,0,0,,,,32135232135
+1,Cyprus,5,Muhammad Shoaib Ahmed,GG Alta,CPPM Sadun,,0,1,1,,,,32135232135
+1,Cyprus,5,CPPM Sadun,GG Alta,Muhammad Shoaib Ahmed,wides,1,1,0,,,,32135232135
+1,Cyprus,5,CPPM Sadun,GG Alta,Muhammad Shoaib Ahmed,,0,4,4,,,,32135232135
+1,Cyprus,5,CPPM Sadun,GG Alta,Muhammad Shoaib Ahmed,,0,0,0,,,,32135232135
+1,Cyprus,5,CPPM Sadun,GG Alta,Muhammad Shoaib Ahmed,,0,4,4,,,,32135232135
+1,Cyprus,6,Muhammad Shoaib Ahmed,Shamsullah Ehsan,CPPM Sadun,,0,1,1,,,,32135232135
+1,Cyprus,6,CPPM Sadun,Shamsullah Ehsan,Muhammad Shoaib Ahmed,,0,1,1,,,,32135232135
+1,Cyprus,6,Muhammad Shoaib Ahmed,Shamsullah Ehsan,CPPM Sadun,,0,2,2,,,,32135232135
+1,Cyprus,6,Muhammad Shoaib Ahmed,Shamsullah Ehsan,CPPM Sadun,,0,0,0,,,,32135232135
+1,Cyprus,6,Muhammad Shoaib Ahmed,Shamsullah Ehsan,CPPM Sadun,,0,6,6,,,,32135232135
+1,Cyprus,6,Muhammad Shoaib Ahmed,Shamsullah Ehsan,CPPM Sadun,,0,0,0,caught,Muhammad Shoaib Ahmed,R Nath,32135232135
+1,Cyprus,7,CPPM Sadun,GG Alta,S Austin,,0,1,1,,,,32135232135
+1,Cyprus,7,S Austin,GG Alta,CPPM Sadun,wides,1,1,0,,,,32135232135
+1,Cyprus,7,S Austin,GG Alta,CPPM Sadun,,0,1,1,,,,32135232135
+1,Cyprus,7,CPPM Sadun,GG Alta,S Austin,,0,1,1,,,,32135232135
+1,Cyprus,7,S Austin,GG Alta,CPPM Sadun,,0,1,1,,,,32135232135
+1,Cyprus,7,CPPM Sadun,GG Alta,S Austin,wides,2,2,0,,,,32135232135
+1,Cyprus,7,S Austin,GG Alta,CPPM Sadun,wides,1,1,0,,,,32135232135
+1,Cyprus,7,S Austin,GG Alta,CPPM Sadun,,0,2,2,,,,32135232135
+1,Cyprus,7,S Austin,GG Alta,CPPM Sadun,,0,1,1,,,,32135232135
+1,Cyprus,8,S Austin,I Elec,CPPM Sadun,,0,2,2,,,,32135232135
+1,Cyprus,8,S Austin,I Elec,CPPM Sadun,,0,2,2,,,,32135232135
+1,Cyprus,8,S Austin,I Elec,CPPM Sadun,,0,1,1,,,,32135232135
+1,Cyprus,8,CPPM Sadun,I Elec,S Austin,,0,0,0,,,,32135232135
+1,Cyprus,8,CPPM Sadun,I Elec,S Austin,,0,0,0,,,,32135232135
+1,Cyprus,8,CPPM Sadun,I Elec,S Austin,,0,2,2,,,,32135232135
+1,Cyprus,9,S Austin,Ilyas Ataullah,CPPM Sadun,byes,2,2,0,,,,32135232135
+1,Cyprus,9,CPPM Sadun,Ilyas Ataullah,S Austin,,0,1,1,,,,32135232135
+1,Cyprus,9,S Austin,Ilyas Ataullah,CPPM Sadun,,0,1,1,,,,32135232135
+1,Cyprus,9,CPPM Sadun,Ilyas Ataullah,S Austin,,0,0,0,bowled,CPPM Sadun,,32135232135
+1,Cyprus,9,NK Tiwari,Ilyas Ataullah,S Austin,,0,0,0,,,,32135232135
+1,Cyprus,9,NK Tiwari,Ilyas Ataullah,S Austin,,0,1,1,,,,32135232135
+1,Cyprus,9,S Austin,Ilyas Ataullah,NK Tiwari,,0,0,0,bowled,S Austin,,32135232135
+1,Cyprus,10,NK Tiwari,I Elec,Gurpratap Singh,,0,0,0,lbw,NK Tiwari,,32135232135
+1,Cyprus,10,R Mazumder,I Elec,Gurpratap Singh,,0,1,1,,,,32135232135
+1,Cyprus,10,Gurpratap Singh,I Elec,R Mazumder,,0,0,0,,,,32135232135
+1,Cyprus,10,Gurpratap Singh,I Elec,R Mazumder,,0,0,0,,,,32135232135
+1,Cyprus,10,Gurpratap Singh,I Elec,R Mazumder,,0,2,2,,,,32135232135
+1,Cyprus,10,Gurpratap Singh,I Elec,R Mazumder,,0,1,1,,,,32135232135
+1,Cyprus,11,Gurpratap Singh,Ilyas Ataullah,R Mazumder,,0,0,0,,,,32135232135
+1,Cyprus,11,Gurpratap Singh,Ilyas Ataullah,R Mazumder,,0,2,2,,,,32135232135
+1,Cyprus,11,Gurpratap Singh,Ilyas Ataullah,R Mazumder,,0,4,4,,,,32135232135
+1,Cyprus,11,Gurpratap Singh,Ilyas Ataullah,R Mazumder,,0,2,2,,,,32135232135
+1,Cyprus,11,Gurpratap Singh,Ilyas Ataullah,R Mazumder,,0,1,1,,,,32135232135
+1,Cyprus,11,R Mazumder,Ilyas Ataullah,Gurpratap Singh,,0,0,0,,,,32135232135
+1,Cyprus,12,Gurpratap Singh,T Ulutuna,R Mazumder,byes,1,1,0,,,,32135232135
+1,Cyprus,12,R Mazumder,T Ulutuna,Gurpratap Singh,,0,1,1,,,,32135232135
+1,Cyprus,12,Gurpratap Singh,T Ulutuna,R Mazumder,,0,4,4,,,,32135232135
+1,Cyprus,12,Gurpratap Singh,T Ulutuna,R Mazumder,,0,0,0,,,,32135232135
+1,Cyprus,12,Gurpratap Singh,T Ulutuna,R Mazumder,,0,1,1,,,,32135232135
+1,Cyprus,12,R Mazumder,T Ulutuna,Gurpratap Singh,,0,0,0,,,,32135232135
+1,Cyprus,13,Gurpratap Singh,I Elec,R Mazumder,,0,1,1,,,,32135232135
+1,Cyprus,13,R Mazumder,I Elec,Gurpratap Singh,,0,1,1,,,,32135232135
+1,Cyprus,13,Gurpratap Singh,I Elec,R Mazumder,,0,0,0,,,,32135232135
+1,Cyprus,13,Gurpratap Singh,I Elec,R Mazumder,,0,2,2,,,,32135232135
+1,Cyprus,13,Gurpratap Singh,I Elec,R Mazumder,,0,1,1,,,,32135232135
+1,Cyprus,13,R Mazumder,I Elec,Gurpratap Singh,,0,4,4,,,,32135232135
+1,Cyprus,14,Gurpratap Singh,Shamsullah Ehsan,R Mazumder,,0,6,6,,,,32135232135
+1,Cyprus,14,Gurpratap Singh,Shamsullah Ehsan,R Mazumder,,0,0,0,,,,32135232135
+1,Cyprus,14,Gurpratap Singh,Shamsullah Ehsan,R Mazumder,,0,1,1,,,,32135232135
+1,Cyprus,14,R Mazumder,Shamsullah Ehsan,Gurpratap Singh,wides,1,1,0,,,,32135232135
+1,Cyprus,14,R Mazumder,Shamsullah Ehsan,Gurpratap Singh,,0,4,4,,,,32135232135
+1,Cyprus,14,R Mazumder,Shamsullah Ehsan,Gurpratap Singh,,0,1,1,,,,32135232135
+1,Cyprus,14,Gurpratap Singh,Shamsullah Ehsan,R Mazumder,,0,4,4,,,,32135232135
+1,Cyprus,15,R Mazumder,M Ozturk,Gurpratap Singh,,0,1,1,,,,32135232135
+1,Cyprus,15,Gurpratap Singh,M Ozturk,R Mazumder,,0,2,2,,,,32135232135
+1,Cyprus,15,Gurpratap Singh,M Ozturk,R Mazumder,,0,1,1,,,,32135232135
+1,Cyprus,15,R Mazumder,M Ozturk,Gurpratap Singh,,0,1,1,,,,32135232135
+1,Cyprus,15,Gurpratap Singh,M Ozturk,R Mazumder,,0,1,1,,,,32135232135
+1,Cyprus,15,R Mazumder,M Ozturk,Gurpratap Singh,,0,6,6,,,,32135232135
+1,Cyprus,16,Gurpratap Singh,A Turkmen,R Mazumder,,0,0,0,bowled,Gurpratap Singh,,32135232135
+1,Cyprus,16,Tejwinder Singh,A Turkmen,R Mazumder,legbyes,1,1,0,,,,32135232135
+1,Cyprus,16,R Mazumder,A Turkmen,Tejwinder Singh,,0,4,4,,,,32135232135
+1,Cyprus,16,R Mazumder,A Turkmen,Tejwinder Singh,,0,1,1,,,,32135232135
+1,Cyprus,16,Tejwinder Singh,A Turkmen,R Mazumder,,0,1,1,,,,32135232135
+1,Cyprus,16,R Mazumder,A Turkmen,Tejwinder Singh,,0,1,1,,,,32135232135
+1,Cyprus,17,R Mazumder,GG Alta,Tejwinder Singh,,0,4,4,,,,32135232135
+1,Cyprus,17,R Mazumder,GG Alta,Tejwinder Singh,,0,6,6,,,,32135232135
+1,Cyprus,17,R Mazumder,GG Alta,Tejwinder Singh,,0,0,0,caught,R Mazumder,A Turkmen,32135232135
+1,Cyprus,17,Muhammad Farooq,GG Alta,Tejwinder Singh,,0,4,4,,,,32135232135
+1,Cyprus,17,Muhammad Farooq,GG Alta,Tejwinder Singh,,0,0,0,,,,32135232135
+1,Cyprus,17,Muhammad Farooq,GG Alta,Tejwinder Singh,,0,1,1,,,,32135232135
+1,Cyprus,18,Muhammad Farooq,M Ozturk,Tejwinder Singh,,0,0,0,bowled,Muhammad Farooq,,32135232135
+1,Cyprus,18,SN Pathirana,M Ozturk,Tejwinder Singh,wides,1,1,0,,,,32135232135
+1,Cyprus,18,SN Pathirana,M Ozturk,Tejwinder Singh,,0,0,0,,,,32135232135
+1,Cyprus,18,SN Pathirana,M Ozturk,Tejwinder Singh,,0,0,0,,,,32135232135
+1,Cyprus,18,SN Pathirana,M Ozturk,Tejwinder Singh,,0,1,1,,,,32135232135
+1,Cyprus,18,Tejwinder Singh,M Ozturk,SN Pathirana,,0,1,1,,,,32135232135
+1,Cyprus,18,SN Pathirana,M Ozturk,Tejwinder Singh,,0,0,0,,,,32135232135
+1,Cyprus,19,Tejwinder Singh,GG Alta,SN Pathirana,,0,2,2,,,,32135232135
+1,Cyprus,19,Tejwinder Singh,GG Alta,SN Pathirana,,0,2,2,,,,32135232135
+1,Cyprus,19,Tejwinder Singh,GG Alta,SN Pathirana,,0,2,2,,,,32135232135
+1,Cyprus,19,Tejwinder Singh,GG Alta,SN Pathirana,,0,4,4,,,,32135232135
+1,Cyprus,19,Tejwinder Singh,GG Alta,SN Pathirana,,0,4,4,,,,32135232135
+1,Cyprus,19,Tejwinder Singh,GG Alta,SN Pathirana,,0,6,6,,,,32135232135

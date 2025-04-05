@@ -1,0 +1,108 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Bangladesh,0,Ayasha Rahman,TD Smartt,Sanjida Islam,,0,4,4,,,,343223432
+2,Bangladesh,0,Ayasha Rahman,TD Smartt,Sanjida Islam,,0,0,0,,,,343223432
+2,Bangladesh,0,Ayasha Rahman,TD Smartt,Sanjida Islam,,0,0,0,,,,343223432
+2,Bangladesh,0,Ayasha Rahman,TD Smartt,Sanjida Islam,,0,0,0,,,,343223432
+2,Bangladesh,0,Ayasha Rahman,TD Smartt,Sanjida Islam,,0,0,0,,,,343223432
+2,Bangladesh,0,Ayasha Rahman,TD Smartt,Sanjida Islam,,0,0,0,,,,343223432
+2,Bangladesh,1,Sanjida Islam,SC Selman,Ayasha Rahman,,0,1,1,,,,343223432
+2,Bangladesh,1,Ayasha Rahman,SC Selman,Sanjida Islam,,0,0,0,,,,343223432
+2,Bangladesh,1,Ayasha Rahman,SC Selman,Sanjida Islam,,0,0,0,,,,343223432
+2,Bangladesh,1,Ayasha Rahman,SC Selman,Sanjida Islam,,0,0,0,,,,343223432
+2,Bangladesh,1,Ayasha Rahman,SC Selman,Sanjida Islam,,0,1,1,,,,343223432
+2,Bangladesh,1,Sanjida Islam,SC Selman,Ayasha Rahman,,0,0,0,,,,343223432
+2,Bangladesh,2,Ayasha Rahman,TD Smartt,Sanjida Islam,,0,2,2,,,,343223432
+2,Bangladesh,2,Ayasha Rahman,TD Smartt,Sanjida Islam,,0,0,0,,,,343223432
+2,Bangladesh,2,Ayasha Rahman,TD Smartt,Sanjida Islam,,0,1,1,,,,343223432
+2,Bangladesh,2,Sanjida Islam,TD Smartt,Ayasha Rahman,,0,0,0,,,,343223432
+2,Bangladesh,2,Sanjida Islam,TD Smartt,Ayasha Rahman,,0,0,0,,,,343223432
+2,Bangladesh,2,Sanjida Islam,TD Smartt,Ayasha Rahman,,0,0,0,,,,343223432
+2,Bangladesh,3,Ayasha Rahman,SC Selman,Sanjida Islam,,0,0,0,,,,343223432
+2,Bangladesh,3,Ayasha Rahman,SC Selman,Sanjida Islam,,0,0,0,,,,343223432
+2,Bangladesh,3,Ayasha Rahman,SC Selman,Sanjida Islam,,0,1,1,,,,343223432
+2,Bangladesh,3,Sanjida Islam,SC Selman,Ayasha Rahman,,0,0,0,,,,343223432
+2,Bangladesh,3,Sanjida Islam,SC Selman,Ayasha Rahman,,0,1,1,,,,343223432
+2,Bangladesh,3,Ayasha Rahman,SC Selman,Sanjida Islam,,0,0,0,,,,343223432
+2,Bangladesh,4,Sanjida Islam,SF Daley,Ayasha Rahman,,0,0,0,,,,343223432
+2,Bangladesh,4,Sanjida Islam,SF Daley,Ayasha Rahman,,0,0,0,,,,343223432
+2,Bangladesh,4,Sanjida Islam,SF Daley,Ayasha Rahman,,0,1,1,,,,343223432
+2,Bangladesh,4,Ayasha Rahman,SF Daley,Sanjida Islam,,0,1,1,,,,343223432
+2,Bangladesh,4,Sanjida Islam,SF Daley,Ayasha Rahman,,0,4,4,,,,343223432
+2,Bangladesh,4,Sanjida Islam,SF Daley,Ayasha Rahman,,0,1,1,,,,343223432
+2,Bangladesh,5,Sanjida Islam,SL Quintyne,Ayasha Rahman,,0,0,0,,,,343223432
+2,Bangladesh,5,Sanjida Islam,SL Quintyne,Ayasha Rahman,,0,0,0,,,,343223432
+2,Bangladesh,5,Sanjida Islam,SL Quintyne,Ayasha Rahman,byes,1,1,0,,,,343223432
+2,Bangladesh,5,Ayasha Rahman,SL Quintyne,Sanjida Islam,,0,0,0,bowled,Ayasha Rahman,,343223432
+2,Bangladesh,5,Salma Khatun,SL Quintyne,Sanjida Islam,,0,0,0,,,,343223432
+2,Bangladesh,5,Salma Khatun,SL Quintyne,Sanjida Islam,,0,0,0,,,,343223432
+2,Bangladesh,6,Sanjida Islam,A Mohammed,Salma Khatun,,0,0,0,,,,343223432
+2,Bangladesh,6,Sanjida Islam,A Mohammed,Salma Khatun,,0,0,0,run out,Sanjida Islam,SC Selman,343223432
+2,Bangladesh,6,Fargana Hoque,A Mohammed,Salma Khatun,,0,1,1,,,,343223432
+2,Bangladesh,6,Salma Khatun,A Mohammed,Fargana Hoque,,0,2,2,,,,343223432
+2,Bangladesh,6,Salma Khatun,A Mohammed,Fargana Hoque,,0,0,0,,,,343223432
+2,Bangladesh,6,Salma Khatun,A Mohammed,Fargana Hoque,,0,4,4,,,,343223432
+2,Bangladesh,7,Fargana Hoque,SL Quintyne,Salma Khatun,,0,0,0,,,,343223432
+2,Bangladesh,7,Fargana Hoque,SL Quintyne,Salma Khatun,,0,1,1,,,,343223432
+2,Bangladesh,7,Salma Khatun,SL Quintyne,Fargana Hoque,,0,1,1,,,,343223432
+2,Bangladesh,7,Fargana Hoque,SL Quintyne,Salma Khatun,,0,0,0,lbw,Fargana Hoque,,343223432
+2,Bangladesh,7,Rumana Ahmed,SL Quintyne,Salma Khatun,,0,0,0,,,,343223432
+2,Bangladesh,7,Rumana Ahmed,SL Quintyne,Salma Khatun,,0,0,0,,,,343223432
+2,Bangladesh,8,Salma Khatun,DJS Dottin,Rumana Ahmed,,0,4,4,,,,343223432
+2,Bangladesh,8,Salma Khatun,DJS Dottin,Rumana Ahmed,,0,2,2,,,,343223432
+2,Bangladesh,8,Salma Khatun,DJS Dottin,Rumana Ahmed,wides,1,1,0,,,,343223432
+2,Bangladesh,8,Salma Khatun,DJS Dottin,Rumana Ahmed,,0,0,0,,,,343223432
+2,Bangladesh,8,Salma Khatun,DJS Dottin,Rumana Ahmed,,0,0,0,,,,343223432
+2,Bangladesh,8,Salma Khatun,DJS Dottin,Rumana Ahmed,,0,1,1,,,,343223432
+2,Bangladesh,8,Rumana Ahmed,DJS Dottin,Salma Khatun,wides,1,1,0,,,,343223432
+2,Bangladesh,8,Rumana Ahmed,DJS Dottin,Salma Khatun,,0,0,0,,,,343223432
+2,Bangladesh,9,Salma Khatun,SF Daley,Rumana Ahmed,,0,1,1,,,,343223432
+2,Bangladesh,9,Rumana Ahmed,SF Daley,Salma Khatun,,0,0,0,,,,343223432
+2,Bangladesh,9,Rumana Ahmed,SF Daley,Salma Khatun,,0,2,2,,,,343223432
+2,Bangladesh,9,Rumana Ahmed,SF Daley,Salma Khatun,,0,1,1,,,,343223432
+2,Bangladesh,9,Salma Khatun,SF Daley,Rumana Ahmed,,0,0,0,,,,343223432
+2,Bangladesh,9,Salma Khatun,SF Daley,Rumana Ahmed,,0,0,0,,,,343223432
+2,Bangladesh,10,Rumana Ahmed,A Mohammed,Salma Khatun,,0,1,1,,,,343223432
+2,Bangladesh,10,Salma Khatun,A Mohammed,Rumana Ahmed,,0,2,2,,,,343223432
+2,Bangladesh,10,Salma Khatun,A Mohammed,Rumana Ahmed,,0,0,0,,,,343223432
+2,Bangladesh,10,Salma Khatun,A Mohammed,Rumana Ahmed,,0,0,0,lbw,Salma Khatun,,343223432
+2,Bangladesh,10,Nuzhat Tasnia,A Mohammed,Rumana Ahmed,,0,0,0,,,,343223432
+2,Bangladesh,10,Nuzhat Tasnia,A Mohammed,Rumana Ahmed,,0,1,1,,,,343223432
+2,Bangladesh,11,Nuzhat Tasnia,SF Daley,Rumana Ahmed,,0,1,1,,,,343223432
+2,Bangladesh,11,Rumana Ahmed,SF Daley,Nuzhat Tasnia,,0,4,4,,,,343223432
+2,Bangladesh,11,Rumana Ahmed,SF Daley,Nuzhat Tasnia,,0,0,0,,,,343223432
+2,Bangladesh,11,Rumana Ahmed,SF Daley,Nuzhat Tasnia,,0,0,0,,,,343223432
+2,Bangladesh,11,Rumana Ahmed,SF Daley,Nuzhat Tasnia,,0,4,4,,,,343223432
+2,Bangladesh,11,Rumana Ahmed,SF Daley,Nuzhat Tasnia,,0,0,0,,,,343223432
+2,Bangladesh,12,Nuzhat Tasnia,A Mohammed,Rumana Ahmed,,0,1,1,,,,343223432
+2,Bangladesh,12,Rumana Ahmed,A Mohammed,Nuzhat Tasnia,,0,1,1,,,,343223432
+2,Bangladesh,12,Nuzhat Tasnia,A Mohammed,Rumana Ahmed,,0,0,0,,,,343223432
+2,Bangladesh,12,Nuzhat Tasnia,A Mohammed,Rumana Ahmed,,0,0,0,,,,343223432
+2,Bangladesh,12,Nuzhat Tasnia,A Mohammed,Rumana Ahmed,,0,0,0,,,,343223432
+2,Bangladesh,12,Nuzhat Tasnia,A Mohammed,Rumana Ahmed,,0,1,1,,,,343223432
+2,Bangladesh,13,Nuzhat Tasnia,SC Selman,Rumana Ahmed,,0,1,1,,,,343223432
+2,Bangladesh,13,Rumana Ahmed,SC Selman,Nuzhat Tasnia,,0,4,4,,,,343223432
+2,Bangladesh,13,Rumana Ahmed,SC Selman,Nuzhat Tasnia,,0,0,0,,,,343223432
+2,Bangladesh,13,Rumana Ahmed,SC Selman,Nuzhat Tasnia,,0,2,2,,,,343223432
+2,Bangladesh,13,Rumana Ahmed,SC Selman,Nuzhat Tasnia,,0,0,0,,,,343223432
+2,Bangladesh,13,Rumana Ahmed,SC Selman,Nuzhat Tasnia,,0,1,1,,,,343223432
+2,Bangladesh,14,Rumana Ahmed,A Mohammed,Nuzhat Tasnia,,0,4,4,,,,343223432
+2,Bangladesh,14,Rumana Ahmed,A Mohammed,Nuzhat Tasnia,,0,1,1,,,,343223432
+2,Bangladesh,14,Nuzhat Tasnia,A Mohammed,Rumana Ahmed,,0,1,1,,,,343223432
+2,Bangladesh,14,Rumana Ahmed,A Mohammed,Nuzhat Tasnia,,0,1,1,,,,343223432
+2,Bangladesh,14,Nuzhat Tasnia,A Mohammed,Rumana Ahmed,,0,0,0,lbw,Nuzhat Tasnia,,343223432
+2,Bangladesh,14,Lata Mondal,A Mohammed,Rumana Ahmed,,0,1,1,,,,343223432
+2,Bangladesh,15,Lata Mondal,SL Quintyne,Rumana Ahmed,,0,1,1,,,,343223432
+2,Bangladesh,15,Rumana Ahmed,SL Quintyne,Lata Mondal,,0,0,0,,,,343223432
+2,Bangladesh,15,Rumana Ahmed,SL Quintyne,Lata Mondal,,0,0,0,caught,Rumana Ahmed,TD Smartt,343223432
+2,Bangladesh,15,Panna Ghosh,SL Quintyne,Lata Mondal,,0,1,1,,,,343223432
+2,Bangladesh,15,Lata Mondal,SL Quintyne,Panna Ghosh,,0,0,0,,,,343223432
+2,Bangladesh,15,Lata Mondal,SL Quintyne,Panna Ghosh,,0,1,1,,,,343223432
+2,Bangladesh,16,Lata Mondal,TD Smartt,Panna Ghosh,,0,0,0,caught,Lata Mondal,A Mohammed,343223432
+2,Bangladesh,16,Panna Ghosh,TD Smartt,Fahima Khatun,,0,0,0,,,,343223432
+2,Bangladesh,16,Panna Ghosh,TD Smartt,Fahima Khatun,,0,0,0,caught,Panna Ghosh,A Mohammed,343223432
+2,Bangladesh,16,Fahima Khatun,TD Smartt,Jahanara Alam,,0,1,1,,,,343223432
+2,Bangladesh,16,Jahanara Alam,TD Smartt,Fahima Khatun,,0,0,0,,,,343223432
+2,Bangladesh,16,Jahanara Alam,TD Smartt,Fahima Khatun,,0,1,1,,,,343223432
+2,Bangladesh,17,Jahanara Alam,SC Selman,Fahima Khatun,,0,1,1,,,,343223432
+2,Bangladesh,17,Fahima Khatun,SC Selman,Jahanara Alam,,0,0,0,run out,Fahima Khatun,SC Selman,343223432
+2,Bangladesh,17,Khadija Tul Kubra,SC Selman,Jahanara Alam,,0,0,0,bowled,Khadija Tul Kubra,,343223432

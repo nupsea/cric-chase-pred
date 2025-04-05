@@ -1,0 +1,24 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Netherlands,0,B de Leede,DL Graham,HDJ Siegers,,0,2,2,,,,31673231673
+2,Netherlands,0,B de Leede,DL Graham,HDJ Siegers,,0,1,1,,,,31673231673
+2,Netherlands,0,HDJ Siegers,DL Graham,B de Leede,,0,0,0,bowled,HDJ Siegers,,31673231673
+2,Netherlands,0,R Rijke,DL Graham,B de Leede,,0,2,2,,,,31673231673
+2,Netherlands,0,R Rijke,DL Graham,B de Leede,,0,0,0,,,,31673231673
+2,Netherlands,0,R Rijke,DL Graham,B de Leede,,0,1,1,,,,31673231673
+2,Netherlands,1,R Rijke,E Chance,B de Leede,,0,4,4,,,,31673231673
+2,Netherlands,1,R Rijke,E Chance,B de Leede,wides,1,1,0,,,,31673231673
+2,Netherlands,1,R Rijke,E Chance,B de Leede,,0,1,1,,,,31673231673
+2,Netherlands,1,B de Leede,E Chance,R Rijke,,0,1,1,,,,31673231673
+2,Netherlands,1,R Rijke,E Chance,B de Leede,,0,4,4,,,,31673231673
+2,Netherlands,1,R Rijke,E Chance,B de Leede,,0,4,4,,,,31673231673
+2,Netherlands,1,R Rijke,E Chance,B de Leede,wides,2,2,0,,,,31673231673
+2,Netherlands,1,B de Leede,E Chance,R Rijke,,0,1,1,,,,31673231673
+2,Netherlands,2,B de Leede,DL Graham,R Rijke,,0,2,2,,,,31673231673
+2,Netherlands,2,B de Leede,DL Graham,R Rijke,,0,1,1,,,,31673231673
+2,Netherlands,2,R Rijke,DL Graham,B de Leede,,0,1,1,,,,31673231673
+2,Netherlands,2,B de Leede,DL Graham,R Rijke,,0,1,1,,,,31673231673
+2,Netherlands,2,R Rijke,DL Graham,B de Leede,,0,0,0,,,,31673231673
+2,Netherlands,2,R Rijke,DL Graham,B de Leede,,0,0,0,,,,31673231673
+2,Netherlands,3,B de Leede,C Breteche,R Rijke,,0,1,1,,,,31673231673
+2,Netherlands,3,R Rijke,C Breteche,B de Leede,,0,0,0,,,,31673231673
+2,Netherlands,3,R Rijke,C Breteche,B de Leede,,0,4,4,,,,31673231673

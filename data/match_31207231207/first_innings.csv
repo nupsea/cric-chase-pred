@@ -1,0 +1,127 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Ireland,0,GH Lewis,HDJ Siegers,O Prendergast,,0,0,0,,,,31207231207
+1,Ireland,0,GH Lewis,HDJ Siegers,O Prendergast,,0,0,0,,,,31207231207
+1,Ireland,0,GH Lewis,HDJ Siegers,O Prendergast,,0,1,1,,,,31207231207
+1,Ireland,0,O Prendergast,HDJ Siegers,GH Lewis,,0,0,0,,,,31207231207
+1,Ireland,0,O Prendergast,HDJ Siegers,GH Lewis,,0,1,1,,,,31207231207
+1,Ireland,0,GH Lewis,HDJ Siegers,O Prendergast,,0,0,0,,,,31207231207
+1,Ireland,1,O Prendergast,LK Bennett,GH Lewis,,0,2,2,,,,31207231207
+1,Ireland,1,O Prendergast,LK Bennett,GH Lewis,,0,0,0,,,,31207231207
+1,Ireland,1,O Prendergast,LK Bennett,GH Lewis,,0,0,0,,,,31207231207
+1,Ireland,1,O Prendergast,LK Bennett,GH Lewis,,0,0,0,,,,31207231207
+1,Ireland,1,O Prendergast,LK Bennett,GH Lewis,,0,1,1,,,,31207231207
+1,Ireland,1,GH Lewis,LK Bennett,O Prendergast,,0,0,0,caught,GH Lewis,S Siegers,31207231207
+1,Ireland,2,KJ Garth,HDJ Siegers,O Prendergast,,0,3,3,,,,31207231207
+1,Ireland,2,O Prendergast,HDJ Siegers,KJ Garth,,0,0,0,,,,31207231207
+1,Ireland,2,O Prendergast,HDJ Siegers,KJ Garth,,0,0,0,,,,31207231207
+1,Ireland,2,O Prendergast,HDJ Siegers,KJ Garth,,0,4,4,,,,31207231207
+1,Ireland,2,O Prendergast,HDJ Siegers,KJ Garth,,0,0,0,,,,31207231207
+1,Ireland,2,O Prendergast,HDJ Siegers,KJ Garth,,0,1,1,,,,31207231207
+1,Ireland,3,O Prendergast,LK Bennett,KJ Garth,,0,1,1,,,,31207231207
+1,Ireland,3,KJ Garth,LK Bennett,O Prendergast,,0,0,0,,,,31207231207
+1,Ireland,3,KJ Garth,LK Bennett,O Prendergast,,0,1,1,,,,31207231207
+1,Ireland,3,O Prendergast,LK Bennett,KJ Garth,,0,0,0,,,,31207231207
+1,Ireland,3,O Prendergast,LK Bennett,KJ Garth,,0,1,1,,,,31207231207
+1,Ireland,3,KJ Garth,LK Bennett,O Prendergast,,0,0,0,,,,31207231207
+1,Ireland,4,O Prendergast,C de Lange,KJ Garth,,0,0,0,,,,31207231207
+1,Ireland,4,O Prendergast,C de Lange,KJ Garth,,0,0,0,caught and bowled,O Prendergast,,31207231207
+1,Ireland,4,KJ Garth,C de Lange,MV Waldron,,0,4,4,,,,31207231207
+1,Ireland,4,KJ Garth,C de Lange,MV Waldron,,0,1,1,,,,31207231207
+1,Ireland,4,MV Waldron,C de Lange,KJ Garth,,0,1,1,,,,31207231207
+1,Ireland,4,KJ Garth,C de Lange,MV Waldron,wides,1,1,0,,,,31207231207
+1,Ireland,4,KJ Garth,C de Lange,MV Waldron,,0,0,0,,,,31207231207
+1,Ireland,5,MV Waldron,LK Bennett,KJ Garth,wides,1,1,0,,,,31207231207
+1,Ireland,5,MV Waldron,LK Bennett,KJ Garth,,0,0,0,,,,31207231207
+1,Ireland,5,MV Waldron,LK Bennett,KJ Garth,,0,0,0,,,,31207231207
+1,Ireland,5,MV Waldron,LK Bennett,KJ Garth,,0,0,0,,,,31207231207
+1,Ireland,5,MV Waldron,LK Bennett,KJ Garth,,0,0,0,,,,31207231207
+1,Ireland,5,MV Waldron,LK Bennett,KJ Garth,,0,0,0,,,,31207231207
+1,Ireland,5,MV Waldron,LK Bennett,KJ Garth,,0,4,4,,,,31207231207
+1,Ireland,6,KJ Garth,C de Lange,MV Waldron,,0,1,1,,,,31207231207
+1,Ireland,6,MV Waldron,C de Lange,KJ Garth,,0,0,0,,,,31207231207
+1,Ireland,6,MV Waldron,C de Lange,KJ Garth,,0,1,1,,,,31207231207
+1,Ireland,6,KJ Garth,C de Lange,MV Waldron,,0,1,1,,,,31207231207
+1,Ireland,6,MV Waldron,C de Lange,KJ Garth,,0,0,0,lbw,MV Waldron,,31207231207
+1,Ireland,6,L Delany,C de Lange,KJ Garth,,0,1,1,,,,31207231207
+1,Ireland,7,L Delany,IJR Zwilling,KJ Garth,,0,0,0,,,,31207231207
+1,Ireland,7,L Delany,IJR Zwilling,KJ Garth,,0,1,1,,,,31207231207
+1,Ireland,7,KJ Garth,IJR Zwilling,L Delany,,0,1,1,,,,31207231207
+1,Ireland,7,L Delany,IJR Zwilling,KJ Garth,,0,0,0,,,,31207231207
+1,Ireland,7,L Delany,IJR Zwilling,KJ Garth,,0,0,0,,,,31207231207
+1,Ireland,7,L Delany,IJR Zwilling,KJ Garth,,0,1,1,,,,31207231207
+1,Ireland,8,L Delany,C de Lange,KJ Garth,,0,0,0,,,,31207231207
+1,Ireland,8,L Delany,C de Lange,KJ Garth,,0,0,0,,,,31207231207
+1,Ireland,8,L Delany,C de Lange,KJ Garth,,0,2,2,,,,31207231207
+1,Ireland,8,L Delany,C de Lange,KJ Garth,,0,1,1,,,,31207231207
+1,Ireland,8,KJ Garth,C de Lange,L Delany,,0,0,0,,,,31207231207
+1,Ireland,8,KJ Garth,C de Lange,L Delany,wides,1,1,0,,,,31207231207
+1,Ireland,8,KJ Garth,C de Lange,L Delany,,0,1,1,,,,31207231207
+1,Ireland,9,KJ Garth,IJR Zwilling,L Delany,,0,1,1,,,,31207231207
+1,Ireland,9,L Delany,IJR Zwilling,KJ Garth,,0,1,1,,,,31207231207
+1,Ireland,9,KJ Garth,IJR Zwilling,L Delany,,0,1,1,,,,31207231207
+1,Ireland,9,L Delany,IJR Zwilling,KJ Garth,,0,2,2,,,,31207231207
+1,Ireland,9,L Delany,IJR Zwilling,KJ Garth,,0,1,1,,,,31207231207
+1,Ireland,9,KJ Garth,IJR Zwilling,L Delany,,0,4,4,,,,31207231207
+1,Ireland,10,L Delany,S Siegers,KJ Garth,,0,1,1,,,,31207231207
+1,Ireland,10,KJ Garth,S Siegers,L Delany,,0,1,1,,,,31207231207
+1,Ireland,10,L Delany,S Siegers,KJ Garth,,0,1,1,,,,31207231207
+1,Ireland,10,KJ Garth,S Siegers,L Delany,wides,2,2,0,,,,31207231207
+1,Ireland,10,L Delany,S Siegers,KJ Garth,,0,1,1,,,,31207231207
+1,Ireland,10,KJ Garth,S Siegers,L Delany,,0,0,0,,,,31207231207
+1,Ireland,10,KJ Garth,S Siegers,L Delany,,0,2,2,,,,31207231207
+1,Ireland,11,L Delany,LK Bennett,KJ Garth,,0,0,0,,,,31207231207
+1,Ireland,11,L Delany,LK Bennett,KJ Garth,wides,1,1,0,,,,31207231207
+1,Ireland,11,L Delany,LK Bennett,KJ Garth,,0,2,2,,,,31207231207
+1,Ireland,11,L Delany,LK Bennett,KJ Garth,,0,2,2,,,,31207231207
+1,Ireland,11,L Delany,LK Bennett,KJ Garth,,0,0,0,,,,31207231207
+1,Ireland,11,L Delany,LK Bennett,KJ Garth,,0,1,1,,,,31207231207
+1,Ireland,11,KJ Garth,LK Bennett,L Delany,,0,2,2,,,,31207231207
+1,Ireland,12,L Delany,S Siegers,KJ Garth,,0,2,2,,,,31207231207
+1,Ireland,12,L Delany,S Siegers,KJ Garth,,0,1,1,,,,31207231207
+1,Ireland,12,KJ Garth,S Siegers,L Delany,,0,0,0,,,,31207231207
+1,Ireland,12,KJ Garth,S Siegers,L Delany,,0,0,0,,,,31207231207
+1,Ireland,12,KJ Garth,S Siegers,L Delany,,0,1,1,,,,31207231207
+1,Ireland,12,L Delany,S Siegers,KJ Garth,,0,0,0,,,,31207231207
+1,Ireland,13,KJ Garth,IJR Zwilling,L Delany,,0,1,1,,,,31207231207
+1,Ireland,13,L Delany,IJR Zwilling,KJ Garth,,0,0,0,,,,31207231207
+1,Ireland,13,L Delany,IJR Zwilling,KJ Garth,,0,1,1,,,,31207231207
+1,Ireland,13,KJ Garth,IJR Zwilling,L Delany,,0,0,0,,,,31207231207
+1,Ireland,13,KJ Garth,IJR Zwilling,L Delany,,0,0,0,,,,31207231207
+1,Ireland,13,KJ Garth,IJR Zwilling,L Delany,,0,0,0,,,,31207231207
+1,Ireland,14,L Delany,C de Lange,KJ Garth,wides,1,1,0,,,,31207231207
+1,Ireland,14,L Delany,C de Lange,KJ Garth,,0,4,4,,,,31207231207
+1,Ireland,14,L Delany,C de Lange,KJ Garth,,0,0,0,,,,31207231207
+1,Ireland,14,L Delany,C de Lange,KJ Garth,,0,1,1,,,,31207231207
+1,Ireland,14,KJ Garth,C de Lange,L Delany,,0,4,4,,,,31207231207
+1,Ireland,14,KJ Garth,C de Lange,L Delany,,0,1,1,,,,31207231207
+1,Ireland,14,L Delany,C de Lange,KJ Garth,,0,1,1,,,,31207231207
+1,Ireland,15,L Delany,IJR Zwilling,KJ Garth,,0,0,0,caught,L Delany,SL Kalis,31207231207
+1,Ireland,15,KJ Garth,IJR Zwilling,EAJ Richardson,,0,2,2,,,,31207231207
+1,Ireland,15,KJ Garth,IJR Zwilling,EAJ Richardson,,0,1,1,,,,31207231207
+1,Ireland,15,EAJ Richardson,IJR Zwilling,KJ Garth,,0,1,1,,,,31207231207
+1,Ireland,15,KJ Garth,IJR Zwilling,EAJ Richardson,,0,0,0,,,,31207231207
+1,Ireland,15,KJ Garth,IJR Zwilling,EAJ Richardson,,0,0,0,,,,31207231207
+1,Ireland,16,EAJ Richardson,S Siegers,KJ Garth,,0,1,1,,,,31207231207
+1,Ireland,16,KJ Garth,S Siegers,EAJ Richardson,,0,1,1,,,,31207231207
+1,Ireland,16,EAJ Richardson,S Siegers,KJ Garth,,0,2,2,,,,31207231207
+1,Ireland,16,EAJ Richardson,S Siegers,KJ Garth,,0,1,1,,,,31207231207
+1,Ireland,16,KJ Garth,S Siegers,EAJ Richardson,,0,4,4,,,,31207231207
+1,Ireland,16,KJ Garth,S Siegers,EAJ Richardson,,0,0,0,stumped,KJ Garth,B de Leede,31207231207
+1,Ireland,17,EAJ Richardson,HDJ Siegers,SM Kavanagh,,0,0,0,,,,31207231207
+1,Ireland,17,EAJ Richardson,HDJ Siegers,SM Kavanagh,,0,0,0,,,,31207231207
+1,Ireland,17,EAJ Richardson,HDJ Siegers,SM Kavanagh,,0,0,0,,,,31207231207
+1,Ireland,17,EAJ Richardson,HDJ Siegers,SM Kavanagh,,0,1,1,,,,31207231207
+1,Ireland,17,SM Kavanagh,HDJ Siegers,EAJ Richardson,,0,1,1,,,,31207231207
+1,Ireland,17,EAJ Richardson,HDJ Siegers,SM Kavanagh,,0,2,2,,,,31207231207
+1,Ireland,18,SM Kavanagh,S Siegers,EAJ Richardson,,0,0,0,,,,31207231207
+1,Ireland,18,SM Kavanagh,S Siegers,EAJ Richardson,,0,0,0,,,,31207231207
+1,Ireland,18,SM Kavanagh,S Siegers,EAJ Richardson,,0,1,1,,,,31207231207
+1,Ireland,18,EAJ Richardson,S Siegers,SM Kavanagh,,0,1,1,,,,31207231207
+1,Ireland,18,SM Kavanagh,S Siegers,EAJ Richardson,,0,2,2,,,,31207231207
+1,Ireland,18,SM Kavanagh,S Siegers,EAJ Richardson,,0,2,2,,,,31207231207
+1,Ireland,19,EAJ Richardson,HDJ Siegers,SM Kavanagh,,0,6,6,,,,31207231207
+1,Ireland,19,EAJ Richardson,HDJ Siegers,SM Kavanagh,,0,2,2,,,,31207231207
+1,Ireland,19,EAJ Richardson,HDJ Siegers,SM Kavanagh,,0,1,1,,,,31207231207
+1,Ireland,19,SM Kavanagh,HDJ Siegers,EAJ Richardson,,0,0,0,bowled,SM Kavanagh,,31207231207
+1,Ireland,19,L Paul,HDJ Siegers,EAJ Richardson,,0,2,2,,,,31207231207
+1,Ireland,19,L Paul,HDJ Siegers,EAJ Richardson,,0,2,2,,,,31207231207

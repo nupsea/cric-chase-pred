@@ -1,0 +1,117 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Australia,0,BR McDermott,Mahedi Hasan,MS Wade,,0,1,1,,,,31581231581
+2,Australia,0,MS Wade,Mahedi Hasan,BR McDermott,,0,2,2,,,,31581231581
+2,Australia,0,MS Wade,Mahedi Hasan,BR McDermott,,0,0,0,,,,31581231581
+2,Australia,0,MS Wade,Mahedi Hasan,BR McDermott,,0,0,0,bowled,MS Wade,,31581231581
+2,Australia,0,DT Christian,Mahedi Hasan,BR McDermott,,0,2,2,,,,31581231581
+2,Australia,0,DT Christian,Mahedi Hasan,BR McDermott,,0,4,4,,,,31581231581
+2,Australia,1,BR McDermott,Shakib Al Hasan,DT Christian,,0,1,1,,,,31581231581
+2,Australia,1,DT Christian,Shakib Al Hasan,BR McDermott,,0,1,1,,,,31581231581
+2,Australia,1,BR McDermott,Shakib Al Hasan,DT Christian,,0,0,0,,,,31581231581
+2,Australia,1,BR McDermott,Shakib Al Hasan,DT Christian,,0,2,2,,,,31581231581
+2,Australia,1,BR McDermott,Shakib Al Hasan,DT Christian,wides,1,1,0,,,,31581231581
+2,Australia,1,BR McDermott,Shakib Al Hasan,DT Christian,,0,0,0,,,,31581231581
+2,Australia,1,BR McDermott,Shakib Al Hasan,DT Christian,,0,0,0,,,,31581231581
+2,Australia,2,DT Christian,Nasum Ahmed,BR McDermott,,0,0,0,,,,31581231581
+2,Australia,2,DT Christian,Nasum Ahmed,BR McDermott,,0,0,0,,,,31581231581
+2,Australia,2,DT Christian,Nasum Ahmed,BR McDermott,,0,1,1,,,,31581231581
+2,Australia,2,BR McDermott,Nasum Ahmed,DT Christian,,0,0,0,,,,31581231581
+2,Australia,2,BR McDermott,Nasum Ahmed,DT Christian,,0,0,0,,,,31581231581
+2,Australia,2,BR McDermott,Nasum Ahmed,DT Christian,,0,0,0,,,,31581231581
+2,Australia,3,DT Christian,Shakib Al Hasan,BR McDermott,,0,6,6,,,,31581231581
+2,Australia,3,DT Christian,Shakib Al Hasan,BR McDermott,,0,6,6,,,,31581231581
+2,Australia,3,DT Christian,Shakib Al Hasan,BR McDermott,,0,6,6,,,,31581231581
+2,Australia,3,DT Christian,Shakib Al Hasan,BR McDermott,,0,0,0,,,,31581231581
+2,Australia,3,DT Christian,Shakib Al Hasan,BR McDermott,,0,6,6,,,,31581231581
+2,Australia,3,DT Christian,Shakib Al Hasan,BR McDermott,,0,6,6,,,,31581231581
+2,Australia,4,BR McDermott,Nasum Ahmed,DT Christian,,0,1,1,,,,31581231581
+2,Australia,4,DT Christian,Nasum Ahmed,BR McDermott,,0,1,1,,,,31581231581
+2,Australia,4,BR McDermott,Nasum Ahmed,DT Christian,,0,0,0,,,,31581231581
+2,Australia,4,BR McDermott,Nasum Ahmed,DT Christian,,0,0,0,lbw,BR McDermott,,31581231581
+2,Australia,4,MR Marsh,Nasum Ahmed,DT Christian,,0,0,0,,,,31581231581
+2,Australia,4,MR Marsh,Nasum Ahmed,DT Christian,,0,2,2,,,,31581231581
+2,Australia,5,DT Christian,Mustafizur Rahman,MR Marsh,,0,0,0,,,,31581231581
+2,Australia,5,DT Christian,Mustafizur Rahman,MR Marsh,,0,0,0,caught,DT Christian,Shamim Hossain,31581231581
+2,Australia,5,MC Henriques,Mustafizur Rahman,MR Marsh,,0,0,0,,,,31581231581
+2,Australia,5,MC Henriques,Mustafizur Rahman,MR Marsh,,0,0,0,,,,31581231581
+2,Australia,5,MC Henriques,Mustafizur Rahman,MR Marsh,,0,0,0,,,,31581231581
+2,Australia,5,MC Henriques,Mustafizur Rahman,MR Marsh,,0,0,0,,,,31581231581
+2,Australia,6,MR Marsh,Nasum Ahmed,MC Henriques,,0,1,1,,,,31581231581
+2,Australia,6,MC Henriques,Nasum Ahmed,MR Marsh,,0,0,0,,,,31581231581
+2,Australia,6,MC Henriques,Nasum Ahmed,MR Marsh,,0,1,1,,,,31581231581
+2,Australia,6,MR Marsh,Nasum Ahmed,MC Henriques,,0,0,0,,,,31581231581
+2,Australia,6,MR Marsh,Nasum Ahmed,MC Henriques,,0,1,1,,,,31581231581
+2,Australia,6,MC Henriques,Nasum Ahmed,MR Marsh,,0,0,0,,,,31581231581
+2,Australia,7,MR Marsh,Shakib Al Hasan,MC Henriques,,0,1,1,,,,31581231581
+2,Australia,7,MC Henriques,Shakib Al Hasan,MR Marsh,,0,2,2,,,,31581231581
+2,Australia,7,MC Henriques,Shakib Al Hasan,MR Marsh,,0,1,1,,,,31581231581
+2,Australia,7,MR Marsh,Shakib Al Hasan,MC Henriques,,0,4,4,,,,31581231581
+2,Australia,7,MR Marsh,Shakib Al Hasan,MC Henriques,,0,0,0,,,,31581231581
+2,Australia,7,MR Marsh,Shakib Al Hasan,MC Henriques,,0,0,0,run out,MC Henriques,Shakib Al Hasan,31581231581
+2,Australia,8,AT Carey,Mahedi Hasan,MR Marsh,,0,0,0,,,,31581231581
+2,Australia,8,AT Carey,Mahedi Hasan,MR Marsh,,0,0,0,,,,31581231581
+2,Australia,8,AT Carey,Mahedi Hasan,MR Marsh,,0,0,0,,,,31581231581
+2,Australia,8,AT Carey,Mahedi Hasan,MR Marsh,,0,0,0,,,,31581231581
+2,Australia,8,AT Carey,Mahedi Hasan,MR Marsh,,0,1,1,,,,31581231581
+2,Australia,8,MR Marsh,Mahedi Hasan,AT Carey,,0,1,1,,,,31581231581
+2,Australia,9,MR Marsh,Mustafizur Rahman,AT Carey,,0,0,0,,,,31581231581
+2,Australia,9,MR Marsh,Mustafizur Rahman,AT Carey,,0,1,1,,,,31581231581
+2,Australia,9,AT Carey,Mustafizur Rahman,MR Marsh,,0,0,0,lbw,AT Carey,,31581231581
+2,Australia,9,AJ Turner,Mustafizur Rahman,MR Marsh,,0,1,1,,,,31581231581
+2,Australia,9,MR Marsh,Mustafizur Rahman,AJ Turner,,0,0,0,,,,31581231581
+2,Australia,9,MR Marsh,Mustafizur Rahman,AJ Turner,,0,0,0,,,,31581231581
+2,Australia,10,AJ Turner,Mahedi Hasan,MR Marsh,,0,1,1,,,,31581231581
+2,Australia,10,MR Marsh,Mahedi Hasan,AJ Turner,,0,0,0,bowled,MR Marsh,,31581231581
+2,Australia,10,AC Agar,Mahedi Hasan,AJ Turner,,0,0,0,,,,31581231581
+2,Australia,10,AC Agar,Mahedi Hasan,AJ Turner,,0,0,0,,,,31581231581
+2,Australia,10,AC Agar,Mahedi Hasan,AJ Turner,,0,0,0,,,,31581231581
+2,Australia,10,AC Agar,Mahedi Hasan,AJ Turner,,0,1,1,,,,31581231581
+2,Australia,11,AC Agar,Shoriful Islam,AJ Turner,,0,0,0,,,,31581231581
+2,Australia,11,AC Agar,Shoriful Islam,AJ Turner,legbyes,1,1,0,,,,31581231581
+2,Australia,11,AJ Turner,Shoriful Islam,AC Agar,,0,0,0,,,,31581231581
+2,Australia,11,AJ Turner,Shoriful Islam,AC Agar,,0,0,0,,,,31581231581
+2,Australia,11,AJ Turner,Shoriful Islam,AC Agar,,0,1,1,,,,31581231581
+2,Australia,11,AC Agar,Shoriful Islam,AJ Turner,,0,1,1,,,,31581231581
+2,Australia,12,AC Agar,Mahedi Hasan,AJ Turner,,0,0,0,,,,31581231581
+2,Australia,12,AC Agar,Mahedi Hasan,AJ Turner,,0,2,2,,,,31581231581
+2,Australia,12,AC Agar,Mahedi Hasan,AJ Turner,,0,1,1,,,,31581231581
+2,Australia,12,AJ Turner,Mahedi Hasan,AC Agar,,0,0,0,,,,31581231581
+2,Australia,12,AJ Turner,Mahedi Hasan,AC Agar,,0,0,0,,,,31581231581
+2,Australia,12,AJ Turner,Mahedi Hasan,AC Agar,,0,1,1,,,,31581231581
+2,Australia,13,AJ Turner,Nasum Ahmed,AC Agar,,0,1,1,,,,31581231581
+2,Australia,13,AC Agar,Nasum Ahmed,AJ Turner,,0,6,6,,,,31581231581
+2,Australia,13,AC Agar,Nasum Ahmed,AJ Turner,wides,1,1,0,,,,31581231581
+2,Australia,13,AC Agar,Nasum Ahmed,AJ Turner,,0,0,0,,,,31581231581
+2,Australia,13,AC Agar,Nasum Ahmed,AJ Turner,,0,1,1,,,,31581231581
+2,Australia,13,AJ Turner,Nasum Ahmed,AC Agar,,0,0,0,,,,31581231581
+2,Australia,13,AJ Turner,Nasum Ahmed,AC Agar,,0,0,0,,,,31581231581
+2,Australia,14,AC Agar,Mahmudullah,AJ Turner,,0,1,1,,,,31581231581
+2,Australia,14,AJ Turner,Mahmudullah,AC Agar,,0,0,0,,,,31581231581
+2,Australia,14,AJ Turner,Mahmudullah,AC Agar,,0,1,1,,,,31581231581
+2,Australia,14,AC Agar,Mahmudullah,AJ Turner,,0,0,0,,,,31581231581
+2,Australia,14,AC Agar,Mahmudullah,AJ Turner,,0,1,1,,,,31581231581
+2,Australia,14,AJ Turner,Mahmudullah,AC Agar,,0,0,0,,,,31581231581
+2,Australia,15,AC Agar,Shakib Al Hasan,AJ Turner,,0,4,4,,,,31581231581
+2,Australia,15,AC Agar,Shakib Al Hasan,AJ Turner,,0,1,1,,,,31581231581
+2,Australia,15,AJ Turner,Shakib Al Hasan,AC Agar,,0,0,0,,,,31581231581
+2,Australia,15,AJ Turner,Shakib Al Hasan,AC Agar,,0,0,0,,,,31581231581
+2,Australia,15,AJ Turner,Shakib Al Hasan,AC Agar,,0,1,1,,,,31581231581
+2,Australia,15,AC Agar,Shakib Al Hasan,AJ Turner,,0,1,1,,,,31581231581
+2,Australia,16,AC Agar,Mustafizur Rahman,AJ Turner,,0,2,2,,,,31581231581
+2,Australia,16,AC Agar,Mustafizur Rahman,AJ Turner,,0,0,0,,,,31581231581
+2,Australia,16,AC Agar,Mustafizur Rahman,AJ Turner,,0,0,0,,,,31581231581
+2,Australia,16,AC Agar,Mustafizur Rahman,AJ Turner,,0,0,0,,,,31581231581
+2,Australia,16,AC Agar,Mustafizur Rahman,AJ Turner,,0,1,1,,,,31581231581
+2,Australia,16,AJ Turner,Mustafizur Rahman,AC Agar,,0,0,0,,,,31581231581
+2,Australia,17,AC Agar,Shoriful Islam,AJ Turner,,0,4,4,,,,31581231581
+2,Australia,17,AC Agar,Shoriful Islam,AJ Turner,,0,0,0,,,,31581231581
+2,Australia,17,AC Agar,Shoriful Islam,AJ Turner,,0,0,0,caught,AC Agar,Shamim Hossain,31581231581
+2,Australia,17,AJ Tye,Shoriful Islam,AJ Turner,,0,0,0,,,,31581231581
+2,Australia,17,AJ Tye,Shoriful Islam,AJ Turner,,0,1,1,,,,31581231581
+2,Australia,17,AJ Turner,Shoriful Islam,AJ Tye,,0,1,1,,,,31581231581
+2,Australia,18,AJ Turner,Mustafizur Rahman,AJ Tye,,0,1,1,,,,31581231581
+2,Australia,18,AJ Tye,Mustafizur Rahman,AJ Turner,,0,0,0,,,,31581231581
+2,Australia,18,AJ Tye,Mustafizur Rahman,AJ Turner,,0,2,2,,,,31581231581
+2,Australia,18,AJ Tye,Mustafizur Rahman,AJ Turner,,0,0,0,,,,31581231581
+2,Australia,18,AJ Tye,Mustafizur Rahman,AJ Turner,,0,0,0,,,,31581231581
+2,Australia,18,AJ Tye,Mustafizur Rahman,AJ Turner,,0,1,1,,,,31581231581

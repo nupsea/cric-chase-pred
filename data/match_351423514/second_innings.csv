@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Netherlands,0,SJ Myburgh,Dawlat Zadran,MR Swart,,0,0,0,,,,351423514
+2,Netherlands,0,SJ Myburgh,Dawlat Zadran,MR Swart,,0,4,4,,,,351423514
+2,Netherlands,0,SJ Myburgh,Dawlat Zadran,MR Swart,,0,0,0,,,,351423514
+2,Netherlands,0,SJ Myburgh,Dawlat Zadran,MR Swart,noballs,1,2,1,,,,351423514
+2,Netherlands,0,MR Swart,Dawlat Zadran,SJ Myburgh,,0,0,0,,,,351423514
+2,Netherlands,0,MR Swart,Dawlat Zadran,SJ Myburgh,,0,0,0,,,,351423514
+2,Netherlands,0,MR Swart,Dawlat Zadran,SJ Myburgh,,0,0,0,,,,351423514
+2,Netherlands,1,SJ Myburgh,Mohammad Nabi,MR Swart,,0,1,1,,,,351423514
+2,Netherlands,1,MR Swart,Mohammad Nabi,SJ Myburgh,,0,0,0,,,,351423514
+2,Netherlands,1,MR Swart,Mohammad Nabi,SJ Myburgh,,0,0,0,,,,351423514
+2,Netherlands,1,MR Swart,Mohammad Nabi,SJ Myburgh,,0,1,1,,,,351423514
+2,Netherlands,1,SJ Myburgh,Mohammad Nabi,MR Swart,,0,6,6,,,,351423514
+2,Netherlands,1,SJ Myburgh,Mohammad Nabi,MR Swart,,0,0,0,,,,351423514
+2,Netherlands,2,MR Swart,Dawlat Zadran,SJ Myburgh,,0,1,1,,,,351423514
+2,Netherlands,2,SJ Myburgh,Dawlat Zadran,MR Swart,,0,0,0,,,,351423514
+2,Netherlands,2,SJ Myburgh,Dawlat Zadran,MR Swart,,0,1,1,,,,351423514
+2,Netherlands,2,MR Swart,Dawlat Zadran,SJ Myburgh,,0,1,1,,,,351423514
+2,Netherlands,2,SJ Myburgh,Dawlat Zadran,MR Swart,,0,0,0,caught,SJ Myburgh,Asghar Stanikzai,351423514
+2,Netherlands,2,BN Cooper,Dawlat Zadran,MR Swart,,0,0,0,,,,351423514
+2,Netherlands,3,MR Swart,Hamid Hassan,BN Cooper,,0,2,2,,,,351423514
+2,Netherlands,3,MR Swart,Hamid Hassan,BN Cooper,,0,4,4,,,,351423514
+2,Netherlands,3,MR Swart,Hamid Hassan,BN Cooper,,0,0,0,,,,351423514
+2,Netherlands,3,MR Swart,Hamid Hassan,BN Cooper,,0,1,1,,,,351423514
+2,Netherlands,3,BN Cooper,Hamid Hassan,MR Swart,,0,2,2,,,,351423514
+2,Netherlands,3,BN Cooper,Hamid Hassan,MR Swart,,0,0,0,,,,351423514
+2,Netherlands,4,MR Swart,Mirwais Ashraf,BN Cooper,,0,1,1,,,,351423514
+2,Netherlands,4,BN Cooper,Mirwais Ashraf,MR Swart,noballs,1,3,2,,,,351423514
+2,Netherlands,4,BN Cooper,Mirwais Ashraf,MR Swart,,0,0,0,,,,351423514
+2,Netherlands,4,BN Cooper,Mirwais Ashraf,MR Swart,,0,6,6,,,,351423514
+2,Netherlands,4,BN Cooper,Mirwais Ashraf,MR Swart,,0,2,2,,,,351423514
+2,Netherlands,4,BN Cooper,Mirwais Ashraf,MR Swart,,0,1,1,,,,351423514
+2,Netherlands,4,MR Swart,Mirwais Ashraf,BN Cooper,,0,0,0,,,,351423514
+2,Netherlands,5,BN Cooper,Mohammad Nabi,MR Swart,,0,6,6,,,,351423514
+2,Netherlands,5,BN Cooper,Mohammad Nabi,MR Swart,,0,0,0,,,,351423514
+2,Netherlands,5,BN Cooper,Mohammad Nabi,MR Swart,,0,6,6,,,,351423514
+2,Netherlands,5,BN Cooper,Mohammad Nabi,MR Swart,,0,0,0,,,,351423514
+2,Netherlands,5,BN Cooper,Mohammad Nabi,MR Swart,,0,0,0,,,,351423514
+2,Netherlands,5,BN Cooper,Mohammad Nabi,MR Swart,,0,0,0,,,,351423514
+2,Netherlands,6,MR Swart,Mirwais Ashraf,BN Cooper,,0,1,1,,,,351423514
+2,Netherlands,6,BN Cooper,Mirwais Ashraf,MR Swart,,0,1,1,,,,351423514
+2,Netherlands,6,MR Swart,Mirwais Ashraf,BN Cooper,,0,1,1,,,,351423514
+2,Netherlands,6,BN Cooper,Mirwais Ashraf,MR Swart,,0,1,1,,,,351423514
+2,Netherlands,6,MR Swart,Mirwais Ashraf,BN Cooper,,0,0,0,,,,351423514
+2,Netherlands,6,MR Swart,Mirwais Ashraf,BN Cooper,,0,1,1,,,,351423514
+2,Netherlands,7,MR Swart,Hamid Hassan,BN Cooper,,0,1,1,,,,351423514
+2,Netherlands,7,BN Cooper,Hamid Hassan,MR Swart,,0,2,2,,,,351423514
+2,Netherlands,7,BN Cooper,Hamid Hassan,MR Swart,,0,2,2,,,,351423514
+2,Netherlands,7,BN Cooper,Hamid Hassan,MR Swart,,0,0,0,,,,351423514
+2,Netherlands,7,BN Cooper,Hamid Hassan,MR Swart,,0,4,4,,,,351423514
+2,Netherlands,7,BN Cooper,Hamid Hassan,MR Swart,,0,1,1,,,,351423514
+2,Netherlands,8,BN Cooper,Sharafuddin Ashraf,MR Swart,,0,0,0,,,,351423514
+2,Netherlands,8,BN Cooper,Sharafuddin Ashraf,MR Swart,,0,0,0,caught,BN Cooper,Dawlat Zadran,351423514
+2,Netherlands,8,MR Swart,Sharafuddin Ashraf,W Barresi,,0,1,1,,,,351423514
+2,Netherlands,8,W Barresi,Sharafuddin Ashraf,MR Swart,,0,1,1,,,,351423514
+2,Netherlands,8,MR Swart,Sharafuddin Ashraf,W Barresi,,0,0,0,,,,351423514
+2,Netherlands,8,MR Swart,Sharafuddin Ashraf,W Barresi,,0,1,1,,,,351423514
+2,Netherlands,9,MR Swart,Mirwais Ashraf,W Barresi,,0,0,0,,,,351423514
+2,Netherlands,9,MR Swart,Mirwais Ashraf,W Barresi,,0,0,0,,,,351423514
+2,Netherlands,9,MR Swart,Mirwais Ashraf,W Barresi,,0,1,1,run out,MR Swart,Mirwais Ashraf,351423514
+2,Netherlands,9,W Barresi,Mirwais Ashraf,PW Borren,,0,0,0,,,,351423514
+2,Netherlands,9,W Barresi,Mirwais Ashraf,PW Borren,,0,0,0,,,,351423514
+2,Netherlands,9,W Barresi,Mirwais Ashraf,PW Borren,,0,1,1,,,,351423514
+2,Netherlands,10,W Barresi,Sharafuddin Ashraf,PW Borren,,0,1,1,,,,351423514
+2,Netherlands,10,PW Borren,Sharafuddin Ashraf,W Barresi,,0,0,0,,,,351423514
+2,Netherlands,10,PW Borren,Sharafuddin Ashraf,W Barresi,,0,0,0,,,,351423514
+2,Netherlands,10,PW Borren,Sharafuddin Ashraf,W Barresi,,0,3,3,,,,351423514
+2,Netherlands,10,W Barresi,Sharafuddin Ashraf,PW Borren,,0,1,1,,,,351423514
+2,Netherlands,10,PW Borren,Sharafuddin Ashraf,W Barresi,noballs,1,1,0,,,,351423514
+2,Netherlands,10,PW Borren,Sharafuddin Ashraf,W Barresi,noballs,1,1,0,,,,351423514
+2,Netherlands,10,PW Borren,Sharafuddin Ashraf,W Barresi,,0,6,6,,,,351423514
+2,Netherlands,11,W Barresi,Mirwais Ashraf,PW Borren,,0,4,4,,,,351423514
+2,Netherlands,11,W Barresi,Mirwais Ashraf,PW Borren,,0,1,1,,,,351423514
+2,Netherlands,11,PW Borren,Mirwais Ashraf,W Barresi,,0,1,1,,,,351423514
+2,Netherlands,11,W Barresi,Mirwais Ashraf,PW Borren,,0,1,1,,,,351423514
+2,Netherlands,11,PW Borren,Mirwais Ashraf,W Barresi,,0,0,0,,,,351423514
+2,Netherlands,11,PW Borren,Mirwais Ashraf,W Barresi,,0,0,0,,,,351423514
+2,Netherlands,12,W Barresi,Sharafuddin Ashraf,PW Borren,,0,0,0,,,,351423514
+2,Netherlands,12,W Barresi,Sharafuddin Ashraf,PW Borren,,0,0,0,,,,351423514
+2,Netherlands,12,W Barresi,Sharafuddin Ashraf,PW Borren,,0,1,1,,,,351423514
+2,Netherlands,12,PW Borren,Sharafuddin Ashraf,W Barresi,,0,0,0,stumped,PW Borren,Mohammad Shahzad,351423514
+2,Netherlands,12,RE van der Merwe,Sharafuddin Ashraf,W Barresi,,0,1,1,,,,351423514
+2,Netherlands,12,W Barresi,Sharafuddin Ashraf,RE van der Merwe,,0,1,1,,,,351423514
+2,Netherlands,13,W Barresi,Mohammad Nabi,RE van der Merwe,,0,0,0,,,,351423514
+2,Netherlands,13,W Barresi,Mohammad Nabi,RE van der Merwe,,0,1,1,,,,351423514
+2,Netherlands,13,RE van der Merwe,Mohammad Nabi,W Barresi,,0,0,0,caught,RE van der Merwe,Najibullah Zadran,351423514
+2,Netherlands,13,PM Seelaar,Mohammad Nabi,W Barresi,,0,2,2,,,,351423514
+2,Netherlands,13,PM Seelaar,Mohammad Nabi,W Barresi,,0,0,0,,,,351423514
+2,Netherlands,13,PM Seelaar,Mohammad Nabi,W Barresi,,0,1,1,,,,351423514
+2,Netherlands,14,PM Seelaar,Sharafuddin Ashraf,W Barresi,,0,1,1,,,,351423514
+2,Netherlands,14,W Barresi,Sharafuddin Ashraf,PM Seelaar,,0,4,4,,,,351423514
+2,Netherlands,14,W Barresi,Sharafuddin Ashraf,PM Seelaar,,0,1,1,,,,351423514
+2,Netherlands,14,PM Seelaar,Sharafuddin Ashraf,W Barresi,,0,2,2,,,,351423514
+2,Netherlands,14,PM Seelaar,Sharafuddin Ashraf,W Barresi,,0,0,0,stumped,PM Seelaar,Mohammad Shahzad,351423514
+2,Netherlands,14,MJG Rippon,Sharafuddin Ashraf,W Barresi,,0,0,0,,,,351423514
+2,Netherlands,15,W Barresi,Mohammad Nabi,MJG Rippon,legbyes,1,1,0,,,,351423514
+2,Netherlands,15,MJG Rippon,Mohammad Nabi,W Barresi,,0,1,1,,,,351423514
+2,Netherlands,15,W Barresi,Mohammad Nabi,MJG Rippon,,0,0,0,caught,W Barresi,Mohammad Shahzad,351423514
+2,Netherlands,15,Mudassar Bukhari,Mohammad Nabi,MJG Rippon,,0,0,0,,,,351423514
+2,Netherlands,15,Mudassar Bukhari,Mohammad Nabi,MJG Rippon,,0,1,1,,,,351423514
+2,Netherlands,15,MJG Rippon,Mohammad Nabi,Mudassar Bukhari,,0,0,0,,,,351423514
+2,Netherlands,16,Mudassar Bukhari,Hamid Hassan,MJG Rippon,,0,0,0,bowled,Mudassar Bukhari,,351423514
+2,Netherlands,16,T van der Gugten,Hamid Hassan,MJG Rippon,,0,0,0,,,,351423514
+2,Netherlands,16,T van der Gugten,Hamid Hassan,MJG Rippon,,0,1,1,,,,351423514
+2,Netherlands,16,MJG Rippon,Hamid Hassan,T van der Gugten,,0,4,4,,,,351423514
+2,Netherlands,16,MJG Rippon,Hamid Hassan,T van der Gugten,,0,0,0,,,,351423514
+2,Netherlands,16,MJG Rippon,Hamid Hassan,T van der Gugten,,0,2,2,,,,351423514
+2,Netherlands,17,T van der Gugten,Dawlat Zadran,MJG Rippon,,0,1,1,,,,351423514
+2,Netherlands,17,MJG Rippon,Dawlat Zadran,T van der Gugten,,0,1,1,,,,351423514
+2,Netherlands,17,T van der Gugten,Dawlat Zadran,MJG Rippon,,0,0,0,caught,T van der Gugten,Shafiqullah,351423514
+2,Netherlands,17,MJG Rippon,Dawlat Zadran,Ahsan Malik,,0,1,1,,,,351423514
+2,Netherlands,17,Ahsan Malik,Dawlat Zadran,MJG Rippon,,0,0,0,,,,351423514
+2,Netherlands,17,Ahsan Malik,Dawlat Zadran,MJG Rippon,,0,1,1,,,,351423514
+2,Netherlands,18,Ahsan Malik,Samiullah Shenwari,MJG Rippon,,0,1,1,,,,351423514
+2,Netherlands,18,MJG Rippon,Samiullah Shenwari,Ahsan Malik,,0,0,0,,,,351423514
+2,Netherlands,18,MJG Rippon,Samiullah Shenwari,Ahsan Malik,,0,2,2,,,,351423514
+2,Netherlands,18,MJG Rippon,Samiullah Shenwari,Ahsan Malik,,0,1,1,,,,351423514
+2,Netherlands,18,Ahsan Malik,Samiullah Shenwari,MJG Rippon,legbyes,1,1,0,,,,351423514
+2,Netherlands,18,MJG Rippon,Samiullah Shenwari,Ahsan Malik,,0,1,1,,,,351423514
+2,Netherlands,19,MJG Rippon,Dawlat Zadran,Ahsan Malik,,0,0,0,,,,351423514
+2,Netherlands,19,MJG Rippon,Dawlat Zadran,Ahsan Malik,,0,0,0,,,,351423514
+2,Netherlands,19,MJG Rippon,Dawlat Zadran,Ahsan Malik,,0,4,4,,,,351423514
+2,Netherlands,19,MJG Rippon,Dawlat Zadran,Ahsan Malik,,0,0,0,caught,MJG Rippon,Asghar Stanikzai,351423514

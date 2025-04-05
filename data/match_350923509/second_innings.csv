@@ -1,0 +1,122 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Sri Lanka,0,MDKJ Perera,Anwar Ali,TM Dilshan,,0,2,2,,,,350923509
+2,Sri Lanka,0,MDKJ Perera,Anwar Ali,TM Dilshan,,0,2,2,,,,350923509
+2,Sri Lanka,0,MDKJ Perera,Anwar Ali,TM Dilshan,,0,0,0,caught,MDKJ Perera,Shahid Afridi,350923509
+2,Sri Lanka,0,TM Dilshan,Anwar Ali,DM de Silva,,0,1,1,,,,350923509
+2,Sri Lanka,0,DM de Silva,Anwar Ali,TM Dilshan,,0,2,2,,,,350923509
+2,Sri Lanka,0,DM de Silva,Anwar Ali,TM Dilshan,,0,0,0,,,,350923509
+2,Sri Lanka,1,TM Dilshan,Sohail Tanvir,DM de Silva,,0,0,0,,,,350923509
+2,Sri Lanka,1,TM Dilshan,Sohail Tanvir,DM de Silva,,0,1,1,,,,350923509
+2,Sri Lanka,1,DM de Silva,Sohail Tanvir,TM Dilshan,,0,1,1,,,,350923509
+2,Sri Lanka,1,TM Dilshan,Sohail Tanvir,DM de Silva,,0,4,4,,,,350923509
+2,Sri Lanka,1,TM Dilshan,Sohail Tanvir,DM de Silva,,0,0,0,caught,TM Dilshan,Mohammad Rizwan,350923509
+2,Sri Lanka,1,KDK Vithanage,Sohail Tanvir,DM de Silva,,0,0,0,,,,350923509
+2,Sri Lanka,2,DM de Silva,Anwar Ali,KDK Vithanage,,0,0,0,,,,350923509
+2,Sri Lanka,2,DM de Silva,Anwar Ali,KDK Vithanage,,0,1,1,,,,350923509
+2,Sri Lanka,2,KDK Vithanage,Anwar Ali,DM de Silva,,0,1,1,,,,350923509
+2,Sri Lanka,2,DM de Silva,Anwar Ali,KDK Vithanage,,0,0,0,,,,350923509
+2,Sri Lanka,2,DM de Silva,Anwar Ali,KDK Vithanage,,0,3,3,,,,350923509
+2,Sri Lanka,2,KDK Vithanage,Anwar Ali,DM de Silva,legbyes,1,1,0,,,,350923509
+2,Sri Lanka,3,KDK Vithanage,Sohail Tanvir,DM de Silva,,0,0,0,bowled,KDK Vithanage,,350923509
+2,Sri Lanka,3,AD Mathews,Sohail Tanvir,DM de Silva,,0,2,2,,,,350923509
+2,Sri Lanka,3,AD Mathews,Sohail Tanvir,DM de Silva,,0,0,0,,,,350923509
+2,Sri Lanka,3,AD Mathews,Sohail Tanvir,DM de Silva,,0,1,1,,,,350923509
+2,Sri Lanka,3,DM de Silva,Sohail Tanvir,AD Mathews,,0,0,0,,,,350923509
+2,Sri Lanka,3,DM de Silva,Sohail Tanvir,AD Mathews,,0,1,1,,,,350923509
+2,Sri Lanka,4,DM de Silva,Anwar Ali,AD Mathews,,0,1,1,,,,350923509
+2,Sri Lanka,4,AD Mathews,Anwar Ali,DM de Silva,,0,0,0,,,,350923509
+2,Sri Lanka,4,AD Mathews,Anwar Ali,DM de Silva,,0,2,2,,,,350923509
+2,Sri Lanka,4,AD Mathews,Anwar Ali,DM de Silva,,0,0,0,,,,350923509
+2,Sri Lanka,4,AD Mathews,Anwar Ali,DM de Silva,,0,2,2,,,,350923509
+2,Sri Lanka,4,AD Mathews,Anwar Ali,DM de Silva,,0,1,1,,,,350923509
+2,Sri Lanka,5,AD Mathews,Mohammad Irfan,DM de Silva,,0,4,4,,,,350923509
+2,Sri Lanka,5,AD Mathews,Mohammad Irfan,DM de Silva,,0,0,0,,,,350923509
+2,Sri Lanka,5,AD Mathews,Mohammad Irfan,DM de Silva,,0,0,0,,,,350923509
+2,Sri Lanka,5,AD Mathews,Mohammad Irfan,DM de Silva,,0,1,1,,,,350923509
+2,Sri Lanka,5,DM de Silva,Mohammad Irfan,AD Mathews,,0,0,0,,,,350923509
+2,Sri Lanka,5,DM de Silva,Mohammad Irfan,AD Mathews,,0,1,1,,,,350923509
+2,Sri Lanka,6,DM de Silva,Shahid Afridi,AD Mathews,,0,4,4,,,,350923509
+2,Sri Lanka,6,DM de Silva,Shahid Afridi,AD Mathews,,0,1,1,,,,350923509
+2,Sri Lanka,6,AD Mathews,Shahid Afridi,DM de Silva,,0,1,1,,,,350923509
+2,Sri Lanka,6,DM de Silva,Shahid Afridi,AD Mathews,,0,0,0,,,,350923509
+2,Sri Lanka,6,DM de Silva,Shahid Afridi,AD Mathews,,0,1,1,,,,350923509
+2,Sri Lanka,6,AD Mathews,Shahid Afridi,DM de Silva,,0,1,1,,,,350923509
+2,Sri Lanka,7,AD Mathews,Mohammad Irfan,DM de Silva,,0,1,1,,,,350923509
+2,Sri Lanka,7,DM de Silva,Mohammad Irfan,AD Mathews,,0,0,0,,,,350923509
+2,Sri Lanka,7,DM de Silva,Mohammad Irfan,AD Mathews,legbyes,1,1,0,,,,350923509
+2,Sri Lanka,7,AD Mathews,Mohammad Irfan,DM de Silva,,0,0,0,,,,350923509
+2,Sri Lanka,7,AD Mathews,Mohammad Irfan,DM de Silva,,0,2,2,,,,350923509
+2,Sri Lanka,7,AD Mathews,Mohammad Irfan,DM de Silva,,0,0,0,,,,350923509
+2,Sri Lanka,8,DM de Silva,Shahid Afridi,AD Mathews,,0,1,1,,,,350923509
+2,Sri Lanka,8,AD Mathews,Shahid Afridi,DM de Silva,,0,1,1,,,,350923509
+2,Sri Lanka,8,DM de Silva,Shahid Afridi,AD Mathews,,0,1,1,,,,350923509
+2,Sri Lanka,8,AD Mathews,Shahid Afridi,DM de Silva,,0,0,0,,,,350923509
+2,Sri Lanka,8,AD Mathews,Shahid Afridi,DM de Silva,,0,1,1,,,,350923509
+2,Sri Lanka,8,DM de Silva,Shahid Afridi,AD Mathews,,0,0,0,,,,350923509
+2,Sri Lanka,9,AD Mathews,Imad Wasim,DM de Silva,,0,0,0,,,,350923509
+2,Sri Lanka,9,AD Mathews,Imad Wasim,DM de Silva,,0,0,0,,,,350923509
+2,Sri Lanka,9,AD Mathews,Imad Wasim,DM de Silva,,0,2,2,,,,350923509
+2,Sri Lanka,9,AD Mathews,Imad Wasim,DM de Silva,,0,1,1,,,,350923509
+2,Sri Lanka,9,DM de Silva,Imad Wasim,AD Mathews,,0,1,1,,,,350923509
+2,Sri Lanka,9,AD Mathews,Imad Wasim,DM de Silva,,0,0,0,bowled,AD Mathews,,350923509
+2,Sri Lanka,10,DM de Silva,Shahid Afridi,TAM Siriwardana,,0,2,2,,,,350923509
+2,Sri Lanka,10,DM de Silva,Shahid Afridi,TAM Siriwardana,,0,1,1,,,,350923509
+2,Sri Lanka,10,TAM Siriwardana,Shahid Afridi,DM de Silva,byes,1,1,0,,,,350923509
+2,Sri Lanka,10,DM de Silva,Shahid Afridi,TAM Siriwardana,,0,2,2,,,,350923509
+2,Sri Lanka,10,DM de Silva,Shahid Afridi,TAM Siriwardana,,0,1,1,,,,350923509
+2,Sri Lanka,10,TAM Siriwardana,Shahid Afridi,DM de Silva,,0,1,1,,,,350923509
+2,Sri Lanka,11,TAM Siriwardana,Imad Wasim,DM de Silva,,0,1,1,,,,350923509
+2,Sri Lanka,11,DM de Silva,Imad Wasim,TAM Siriwardana,,0,1,1,,,,350923509
+2,Sri Lanka,11,TAM Siriwardana,Imad Wasim,DM de Silva,,0,6,6,,,,350923509
+2,Sri Lanka,11,TAM Siriwardana,Imad Wasim,DM de Silva,,0,1,1,,,,350923509
+2,Sri Lanka,11,DM de Silva,Imad Wasim,TAM Siriwardana,,0,1,1,,,,350923509
+2,Sri Lanka,11,TAM Siriwardana,Imad Wasim,DM de Silva,,0,4,4,,,,350923509
+2,Sri Lanka,12,DM de Silva,Shahid Afridi,TAM Siriwardana,,0,1,1,,,,350923509
+2,Sri Lanka,12,TAM Siriwardana,Shahid Afridi,DM de Silva,,0,6,6,,,,350923509
+2,Sri Lanka,12,TAM Siriwardana,Shahid Afridi,DM de Silva,,0,2,2,,,,350923509
+2,Sri Lanka,12,TAM Siriwardana,Shahid Afridi,DM de Silva,,0,1,1,,,,350923509
+2,Sri Lanka,12,DM de Silva,Shahid Afridi,TAM Siriwardana,,0,1,1,,,,350923509
+2,Sri Lanka,12,TAM Siriwardana,Shahid Afridi,DM de Silva,,0,1,1,,,,350923509
+2,Sri Lanka,13,TAM Siriwardana,Shoaib Malik,DM de Silva,legbyes,1,1,0,,,,350923509
+2,Sri Lanka,13,DM de Silva,Shoaib Malik,TAM Siriwardana,,0,2,2,,,,350923509
+2,Sri Lanka,13,DM de Silva,Shoaib Malik,TAM Siriwardana,,0,0,0,caught,DM de Silva,Ahmed Shehzad,350923509
+2,Sri Lanka,13,TAM Siriwardana,Shoaib Malik,CK Kapugedera,,0,1,1,,,,350923509
+2,Sri Lanka,13,CK Kapugedera,Shoaib Malik,TAM Siriwardana,,0,0,0,,,,350923509
+2,Sri Lanka,13,CK Kapugedera,Shoaib Malik,TAM Siriwardana,,0,6,6,,,,350923509
+2,Sri Lanka,14,TAM Siriwardana,Mohammad Irfan,CK Kapugedera,,0,4,4,,,,350923509
+2,Sri Lanka,14,TAM Siriwardana,Mohammad Irfan,CK Kapugedera,,0,4,4,,,,350923509
+2,Sri Lanka,14,TAM Siriwardana,Mohammad Irfan,CK Kapugedera,,0,1,1,,,,350923509
+2,Sri Lanka,14,CK Kapugedera,Mohammad Irfan,TAM Siriwardana,,0,1,1,,,,350923509
+2,Sri Lanka,14,TAM Siriwardana,Mohammad Irfan,CK Kapugedera,,0,1,1,,,,350923509
+2,Sri Lanka,14,CK Kapugedera,Mohammad Irfan,TAM Siriwardana,,0,4,4,,,,350923509
+2,Sri Lanka,15,TAM Siriwardana,Sohail Tanvir,CK Kapugedera,,0,1,1,,,,350923509
+2,Sri Lanka,15,CK Kapugedera,Sohail Tanvir,TAM Siriwardana,,0,1,1,,,,350923509
+2,Sri Lanka,15,TAM Siriwardana,Sohail Tanvir,CK Kapugedera,,0,0,0,caught,TAM Siriwardana,Anwar Ali,350923509
+2,Sri Lanka,15,CK Kapugedera,Sohail Tanvir,NLTC Perera,,0,1,1,,,,350923509
+2,Sri Lanka,15,NLTC Perera,Sohail Tanvir,CK Kapugedera,,0,0,0,,,,350923509
+2,Sri Lanka,15,NLTC Perera,Sohail Tanvir,CK Kapugedera,,0,2,2,,,,350923509
+2,Sri Lanka,16,CK Kapugedera,Anwar Ali,NLTC Perera,,0,1,1,,,,350923509
+2,Sri Lanka,16,NLTC Perera,Anwar Ali,CK Kapugedera,,0,0,0,,,,350923509
+2,Sri Lanka,16,NLTC Perera,Anwar Ali,CK Kapugedera,wides,1,1,0,,,,350923509
+2,Sri Lanka,16,NLTC Perera,Anwar Ali,CK Kapugedera,,0,0,0,caught,NLTC Perera,Mohammad Rizwan,350923509
+2,Sri Lanka,16,CK Kapugedera,Anwar Ali,B Fernando,,0,0,0,,,,350923509
+2,Sri Lanka,16,CK Kapugedera,Anwar Ali,B Fernando,,0,6,6,,,,350923509
+2,Sri Lanka,16,CK Kapugedera,Anwar Ali,B Fernando,,0,1,1,,,,350923509
+2,Sri Lanka,17,CK Kapugedera,Mohammad Irfan,B Fernando,,0,0,0,,,,350923509
+2,Sri Lanka,17,CK Kapugedera,Mohammad Irfan,B Fernando,,0,0,0,,,,350923509
+2,Sri Lanka,17,CK Kapugedera,Mohammad Irfan,B Fernando,,0,1,1,,,,350923509
+2,Sri Lanka,17,B Fernando,Mohammad Irfan,CK Kapugedera,,0,0,0,,,,350923509
+2,Sri Lanka,17,B Fernando,Mohammad Irfan,CK Kapugedera,,0,0,0,,,,350923509
+2,Sri Lanka,17,B Fernando,Mohammad Irfan,CK Kapugedera,,0,0,0,,,,350923509
+2,Sri Lanka,18,CK Kapugedera,Sohail Tanvir,B Fernando,,0,1,1,,,,350923509
+2,Sri Lanka,18,B Fernando,Sohail Tanvir,CK Kapugedera,,0,0,0,,,,350923509
+2,Sri Lanka,18,B Fernando,Sohail Tanvir,CK Kapugedera,,0,2,2,,,,350923509
+2,Sri Lanka,18,B Fernando,Sohail Tanvir,CK Kapugedera,,0,4,4,,,,350923509
+2,Sri Lanka,18,B Fernando,Sohail Tanvir,CK Kapugedera,,0,1,1,,,,350923509
+2,Sri Lanka,18,CK Kapugedera,Sohail Tanvir,B Fernando,,0,6,6,,,,350923509
+2,Sri Lanka,19,B Fernando,Imad Wasim,CK Kapugedera,,0,0,0,,,,350923509
+2,Sri Lanka,19,B Fernando,Imad Wasim,CK Kapugedera,,0,0,0,,,,350923509
+2,Sri Lanka,19,B Fernando,Imad Wasim,CK Kapugedera,,0,0,0,,,,350923509
+2,Sri Lanka,19,B Fernando,Imad Wasim,CK Kapugedera,,0,0,0,,,,350923509
+2,Sri Lanka,19,B Fernando,Imad Wasim,CK Kapugedera,,0,1,1,,,,350923509
+2,Sri Lanka,19,CK Kapugedera,Imad Wasim,B Fernando,,0,2,2,,,,350923509

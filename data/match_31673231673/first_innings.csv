@@ -1,0 +1,116 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,France,0,TE Britton,DM Braat,AC Brodin,,0,0,0,,,,31673231673
+1,France,0,TE Britton,DM Braat,AC Brodin,,0,0,0,,,,31673231673
+1,France,0,TE Britton,DM Braat,AC Brodin,,0,0,0,,,,31673231673
+1,France,0,TE Britton,DM Braat,AC Brodin,,0,0,0,,,,31673231673
+1,France,0,TE Britton,DM Braat,AC Brodin,,0,0,0,,,,31673231673
+1,France,0,TE Britton,DM Braat,AC Brodin,,0,2,2,,,,31673231673
+1,France,1,AC Brodin,EN Lynch,TE Britton,,0,0,0,,,,31673231673
+1,France,1,AC Brodin,EN Lynch,TE Britton,,0,1,1,,,,31673231673
+1,France,1,TE Britton,EN Lynch,AC Brodin,,0,0,0,,,,31673231673
+1,France,1,TE Britton,EN Lynch,AC Brodin,,0,0,0,,,,31673231673
+1,France,1,TE Britton,EN Lynch,AC Brodin,,0,0,0,,,,31673231673
+1,France,1,TE Britton,EN Lynch,AC Brodin,,0,1,1,,,,31673231673
+1,France,2,TE Britton,DM Braat,AC Brodin,,0,0,0,,,,31673231673
+1,France,2,TE Britton,DM Braat,AC Brodin,,0,0,0,,,,31673231673
+1,France,2,TE Britton,DM Braat,AC Brodin,,0,0,0,,,,31673231673
+1,France,2,TE Britton,DM Braat,AC Brodin,,0,0,0,,,,31673231673
+1,France,2,TE Britton,DM Braat,AC Brodin,,0,0,0,,,,31673231673
+1,France,2,TE Britton,DM Braat,AC Brodin,,0,1,1,,,,31673231673
+1,France,3,TE Britton,EN Lynch,AC Brodin,,0,0,0,,,,31673231673
+1,France,3,TE Britton,EN Lynch,AC Brodin,,0,0,0,,,,31673231673
+1,France,3,TE Britton,EN Lynch,AC Brodin,,0,0,0,,,,31673231673
+1,France,3,TE Britton,EN Lynch,AC Brodin,,0,0,0,,,,31673231673
+1,France,3,TE Britton,EN Lynch,AC Brodin,,0,0,0,,,,31673231673
+1,France,3,TE Britton,EN Lynch,AC Brodin,,0,0,0,,,,31673231673
+1,France,4,AC Brodin,DM Braat,TE Britton,,0,0,0,caught,AC Brodin,S Siegers,31673231673
+1,France,4,J King,DM Braat,TE Britton,,0,0,0,,,,31673231673
+1,France,4,J King,DM Braat,TE Britton,,0,0,0,,,,31673231673
+1,France,4,J King,DM Braat,TE Britton,wides,1,1,0,,,,31673231673
+1,France,4,J King,DM Braat,TE Britton,,0,1,1,,,,31673231673
+1,France,4,TE Britton,DM Braat,J King,,0,0,0,,,,31673231673
+1,France,4,TE Britton,DM Braat,J King,,0,0,0,,,,31673231673
+1,France,5,J King,EN Lynch,TE Britton,,0,0,0,bowled,J King,,31673231673
+1,France,5,PC McGeown,EN Lynch,TE Britton,,0,0,0,,,,31673231673
+1,France,5,PC McGeown,EN Lynch,TE Britton,,0,0,0,,,,31673231673
+1,France,5,PC McGeown,EN Lynch,TE Britton,,0,0,0,,,,31673231673
+1,France,5,PC McGeown,EN Lynch,TE Britton,,0,0,0,,,,31673231673
+1,France,5,PC McGeown,EN Lynch,TE Britton,,0,1,1,,,,31673231673
+1,France,6,PC McGeown,DM Braat,TE Britton,,0,0,0,,,,31673231673
+1,France,6,PC McGeown,DM Braat,TE Britton,,0,1,1,,,,31673231673
+1,France,6,TE Britton,DM Braat,PC McGeown,,0,0,0,,,,31673231673
+1,France,6,TE Britton,DM Braat,PC McGeown,,0,1,1,,,,31673231673
+1,France,6,PC McGeown,DM Braat,TE Britton,,0,2,2,,,,31673231673
+1,France,6,PC McGeown,DM Braat,TE Britton,,0,0,0,,,,31673231673
+1,France,7,TE Britton,F Overdijk,PC McGeown,,0,0,0,,,,31673231673
+1,France,7,TE Britton,F Overdijk,PC McGeown,,0,0,0,,,,31673231673
+1,France,7,TE Britton,F Overdijk,PC McGeown,,0,0,0,bowled,TE Britton,,31673231673
+1,France,7,DL Graham,F Overdijk,PC McGeown,,0,0,0,lbw,DL Graham,,31673231673
+1,France,7,E Brelivet,F Overdijk,PC McGeown,,0,0,0,,,,31673231673
+1,France,7,E Brelivet,F Overdijk,PC McGeown,,0,0,0,,,,31673231673
+1,France,8,PC McGeown,S Siegers,E Brelivet,,0,0,0,,,,31673231673
+1,France,8,PC McGeown,S Siegers,E Brelivet,,0,0,0,,,,31673231673
+1,France,8,PC McGeown,S Siegers,E Brelivet,,0,0,0,,,,31673231673
+1,France,8,PC McGeown,S Siegers,E Brelivet,,0,1,1,,,,31673231673
+1,France,8,E Brelivet,S Siegers,PC McGeown,,0,0,0,,,,31673231673
+1,France,8,E Brelivet,S Siegers,PC McGeown,,0,1,1,,,,31673231673
+1,France,9,E Brelivet,F Overdijk,PC McGeown,,0,0,0,,,,31673231673
+1,France,9,E Brelivet,F Overdijk,PC McGeown,,0,0,0,bowled,E Brelivet,,31673231673
+1,France,9,T Rodriguez,F Overdijk,PC McGeown,,0,0,0,bowled,T Rodriguez,,31673231673
+1,France,9,ME Violleau,F Overdijk,PC McGeown,,0,0,0,,,,31673231673
+1,France,9,ME Violleau,F Overdijk,PC McGeown,,0,0,0,,,,31673231673
+1,France,9,ME Violleau,F Overdijk,PC McGeown,,0,0,0,,,,31673231673
+1,France,10,PC McGeown,S Siegers,ME Violleau,,0,0,0,,,,31673231673
+1,France,10,PC McGeown,S Siegers,ME Violleau,,0,0,0,,,,31673231673
+1,France,10,PC McGeown,S Siegers,ME Violleau,,0,0,0,,,,31673231673
+1,France,10,PC McGeown,S Siegers,ME Violleau,,0,2,2,,,,31673231673
+1,France,10,PC McGeown,S Siegers,ME Violleau,,0,0,0,,,,31673231673
+1,France,10,PC McGeown,S Siegers,ME Violleau,wides,1,1,0,,,,31673231673
+1,France,10,PC McGeown,S Siegers,ME Violleau,,0,1,1,,,,31673231673
+1,France,11,PC McGeown,F Overdijk,ME Violleau,,0,0,0,,,,31673231673
+1,France,11,PC McGeown,F Overdijk,ME Violleau,,0,0,0,bowled,PC McGeown,,31673231673
+1,France,11,E Chance,F Overdijk,ME Violleau,wides,1,1,0,,,,31673231673
+1,France,11,E Chance,F Overdijk,ME Violleau,,0,0,0,bowled,E Chance,,31673231673
+1,France,11,M Cargouet,F Overdijk,ME Violleau,wides,1,1,0,,,,31673231673
+1,France,11,M Cargouet,F Overdijk,ME Violleau,,0,0,0,,,,31673231673
+1,France,11,M Cargouet,F Overdijk,ME Violleau,,0,0,0,bowled,M Cargouet,,31673231673
+1,France,11,C Breteche,F Overdijk,ME Violleau,,0,0,0,,,,31673231673
+1,France,12,ME Violleau,I van der Woning,C Breteche,,0,0,0,,,,31673231673
+1,France,12,ME Violleau,I van der Woning,C Breteche,,0,0,0,,,,31673231673
+1,France,12,ME Violleau,I van der Woning,C Breteche,,0,0,0,,,,31673231673
+1,France,12,ME Violleau,I van der Woning,C Breteche,noballs,1,1,0,,,,31673231673
+1,France,12,ME Violleau,I van der Woning,C Breteche,,0,0,0,,,,31673231673
+1,France,12,ME Violleau,I van der Woning,C Breteche,,0,0,0,,,,31673231673
+1,France,12,ME Violleau,I van der Woning,C Breteche,,0,0,0,,,,31673231673
+1,France,13,C Breteche,F Overdijk,ME Violleau,,0,0,0,,,,31673231673
+1,France,13,C Breteche,F Overdijk,ME Violleau,,0,0,0,,,,31673231673
+1,France,13,C Breteche,F Overdijk,ME Violleau,wides,1,1,0,,,,31673231673
+1,France,13,C Breteche,F Overdijk,ME Violleau,,0,0,0,,,,31673231673
+1,France,13,C Breteche,F Overdijk,ME Violleau,,0,0,0,,,,31673231673
+1,France,13,C Breteche,F Overdijk,ME Violleau,,0,0,0,,,,31673231673
+1,France,13,C Breteche,F Overdijk,ME Violleau,,0,0,0,,,,31673231673
+1,France,14,ME Violleau,HDJ Siegers,C Breteche,,0,0,0,,,,31673231673
+1,France,14,ME Violleau,HDJ Siegers,C Breteche,,0,2,2,,,,31673231673
+1,France,14,ME Violleau,HDJ Siegers,C Breteche,,0,0,0,,,,31673231673
+1,France,14,ME Violleau,HDJ Siegers,C Breteche,,0,0,0,,,,31673231673
+1,France,14,ME Violleau,HDJ Siegers,C Breteche,wides,1,1,0,,,,31673231673
+1,France,14,ME Violleau,HDJ Siegers,C Breteche,,0,1,1,,,,31673231673
+1,France,14,C Breteche,HDJ Siegers,ME Violleau,,0,0,0,,,,31673231673
+1,France,15,ME Violleau,HWA Landheer,C Breteche,,0,0,0,,,,31673231673
+1,France,15,ME Violleau,HWA Landheer,C Breteche,,0,0,0,,,,31673231673
+1,France,15,ME Violleau,HWA Landheer,C Breteche,,0,0,0,,,,31673231673
+1,France,15,ME Violleau,HWA Landheer,C Breteche,wides,5,5,0,,,,31673231673
+1,France,15,ME Violleau,HWA Landheer,C Breteche,wides,1,1,0,,,,31673231673
+1,France,15,ME Violleau,HWA Landheer,C Breteche,,0,0,0,,,,31673231673
+1,France,15,ME Violleau,HWA Landheer,C Breteche,wides,1,1,0,,,,31673231673
+1,France,15,ME Violleau,HWA Landheer,C Breteche,,0,0,0,,,,31673231673
+1,France,15,ME Violleau,HWA Landheer,C Breteche,,0,0,0,,,,31673231673
+1,France,16,C Breteche,C de Lange,ME Violleau,,0,0,0,,,,31673231673
+1,France,16,C Breteche,C de Lange,ME Violleau,,0,0,0,,,,31673231673
+1,France,16,C Breteche,C de Lange,ME Violleau,,0,0,0,,,,31673231673
+1,France,16,C Breteche,C de Lange,ME Violleau,,0,0,0,,,,31673231673
+1,France,16,C Breteche,C de Lange,ME Violleau,,0,0,0,,,,31673231673
+1,France,16,C Breteche,C de Lange,ME Violleau,,0,0,0,,,,31673231673
+1,France,17,ME Violleau,S Siegers,C Breteche,,0,0,0,,,,31673231673
+1,France,17,ME Violleau,S Siegers,C Breteche,,0,0,0,,,,31673231673
+1,France,17,ME Violleau,S Siegers,C Breteche,,0,0,0,bowled,ME Violleau,,31673231673

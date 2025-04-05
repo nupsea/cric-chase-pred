@@ -1,0 +1,19 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Netherlands,0,SL Kalis,O Prendergast,B de Leede,,0,0,0,,,,31178231178
+2,Netherlands,0,SL Kalis,O Prendergast,B de Leede,legbyes,1,1,0,,,,31178231178
+2,Netherlands,0,B de Leede,O Prendergast,SL Kalis,,0,0,0,,,,31178231178
+2,Netherlands,0,B de Leede,O Prendergast,SL Kalis,legbyes,1,1,0,,,,31178231178
+2,Netherlands,0,SL Kalis,O Prendergast,B de Leede,,0,0,0,,,,31178231178
+2,Netherlands,0,SL Kalis,O Prendergast,B de Leede,,0,4,4,,,,31178231178
+2,Netherlands,1,B de Leede,H Little,SL Kalis,,0,0,0,,,,31178231178
+2,Netherlands,1,B de Leede,H Little,SL Kalis,,0,2,2,,,,31178231178
+2,Netherlands,1,B de Leede,H Little,SL Kalis,wides,1,1,0,,,,31178231178
+2,Netherlands,1,B de Leede,H Little,SL Kalis,,0,1,1,,,,31178231178
+2,Netherlands,1,SL Kalis,H Little,B de Leede,,0,0,0,,,,31178231178
+2,Netherlands,1,SL Kalis,H Little,B de Leede,wides,1,1,0,,,,31178231178
+2,Netherlands,1,SL Kalis,H Little,B de Leede,,0,1,1,,,,31178231178
+2,Netherlands,1,B de Leede,H Little,SL Kalis,legbyes,1,1,0,,,,31178231178
+2,Netherlands,2,B de Leede,EAJ Richardson,SL Kalis,,0,1,1,,,,31178231178
+2,Netherlands,2,SL Kalis,EAJ Richardson,B de Leede,,0,4,4,,,,31178231178
+2,Netherlands,2,SL Kalis,EAJ Richardson,B de Leede,,0,0,0,,,,31178231178
+2,Netherlands,2,SL Kalis,EAJ Richardson,B de Leede,,0,0,0,lbw,SL Kalis,,31178231178

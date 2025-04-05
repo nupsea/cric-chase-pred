@@ -1,0 +1,82 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Malta,0,Zeeshan Khan,NSK Mehta,HS Gericke,,0,1,1,,,,31568231568
+1,Malta,0,HS Gericke,NSK Mehta,Zeeshan Khan,,0,1,1,,,,31568231568
+1,Malta,0,Zeeshan Khan,NSK Mehta,HS Gericke,,0,1,1,,,,31568231568
+1,Malta,0,HS Gericke,NSK Mehta,Zeeshan Khan,,0,1,1,,,,31568231568
+1,Malta,0,Zeeshan Khan,NSK Mehta,HS Gericke,,0,0,0,caught,Zeeshan Khan,Sheraz Sheikh,31568231568
+1,Malta,0,SSM Stanislaus,NSK Mehta,HS Gericke,wides,1,1,0,,,,31568231568
+1,Malta,0,HS Gericke,NSK Mehta,SSM Stanislaus,,0,1,1,,,,31568231568
+1,Malta,1,HS Gericke,Khalid Ahmadi,SSM Stanislaus,,0,1,1,,,,31568231568
+1,Malta,1,SSM Stanislaus,Khalid Ahmadi,HS Gericke,,0,0,0,,,,31568231568
+1,Malta,1,SSM Stanislaus,Khalid Ahmadi,HS Gericke,,0,1,1,,,,31568231568
+1,Malta,1,HS Gericke,Khalid Ahmadi,SSM Stanislaus,,0,2,2,,,,31568231568
+1,Malta,1,HS Gericke,Khalid Ahmadi,SSM Stanislaus,,0,0,0,,,,31568231568
+1,Malta,1,HS Gericke,Khalid Ahmadi,SSM Stanislaus,,0,0,0,,,,31568231568
+1,Malta,2,SSM Stanislaus,Ashiqullah Said,HS Gericke,,0,0,0,,,,31568231568
+1,Malta,2,SSM Stanislaus,Ashiqullah Said,HS Gericke,,0,0,0,,,,31568231568
+1,Malta,2,SSM Stanislaus,Ashiqullah Said,HS Gericke,,0,0,0,bowled,SSM Stanislaus,,31568231568
+1,Malta,2,VP Thamotharam,Ashiqullah Said,HS Gericke,,0,0,0,,,,31568231568
+1,Malta,2,VP Thamotharam,Ashiqullah Said,HS Gericke,,0,0,0,,,,31568231568
+1,Malta,2,VP Thamotharam,Ashiqullah Said,HS Gericke,wides,1,1,0,,,,31568231568
+1,Malta,2,VP Thamotharam,Ashiqullah Said,HS Gericke,,0,1,1,,,,31568231568
+1,Malta,3,VP Thamotharam,Khalid Ahmadi,HS Gericke,,0,0,0,,,,31568231568
+1,Malta,3,VP Thamotharam,Khalid Ahmadi,HS Gericke,,0,4,4,,,,31568231568
+1,Malta,3,VP Thamotharam,Khalid Ahmadi,HS Gericke,,0,0,0,,,,31568231568
+1,Malta,3,VP Thamotharam,Khalid Ahmadi,HS Gericke,,0,0,0,,,,31568231568
+1,Malta,3,VP Thamotharam,Khalid Ahmadi,HS Gericke,,0,1,1,,,,31568231568
+1,Malta,3,HS Gericke,Khalid Ahmadi,VP Thamotharam,wides,1,1,0,,,,31568231568
+1,Malta,3,HS Gericke,Khalid Ahmadi,VP Thamotharam,,0,0,0,lbw,HS Gericke,,31568231568
+1,Malta,4,VP Thamotharam,Ashiqullah Said,Amar Sharma,,0,0,0,,,,31568231568
+1,Malta,4,VP Thamotharam,Ashiqullah Said,Amar Sharma,,0,1,1,,,,31568231568
+1,Malta,4,Amar Sharma,Ashiqullah Said,VP Thamotharam,legbyes,1,1,0,,,,31568231568
+1,Malta,4,VP Thamotharam,Ashiqullah Said,Amar Sharma,,0,4,4,,,,31568231568
+1,Malta,4,VP Thamotharam,Ashiqullah Said,Amar Sharma,,0,0,0,,,,31568231568
+1,Malta,4,VP Thamotharam,Ashiqullah Said,Amar Sharma,,0,4,4,,,,31568231568
+1,Malta,5,Amar Sharma,B Niaz,VP Thamotharam,,0,1,1,,,,31568231568
+1,Malta,5,VP Thamotharam,B Niaz,Amar Sharma,,0,0,0,caught,VP Thamotharam,NSK Mehta,31568231568
+1,Malta,5,Amar Sharma,B Niaz,B Arora,,0,0,0,,,,31568231568
+1,Malta,5,Amar Sharma,B Niaz,B Arora,,0,0,0,caught,Amar Sharma,Said Hakim,31568231568
+1,Malta,5,N Khanna,B Niaz,B Arora,,0,1,1,,,,31568231568
+1,Malta,5,B Arora,B Niaz,N Khanna,,0,0,0,,,,31568231568
+1,Malta,6,N Khanna,NSK Mehta,B Arora,,0,0,0,,,,31568231568
+1,Malta,6,N Khanna,NSK Mehta,B Arora,,0,2,2,,,,31568231568
+1,Malta,6,N Khanna,NSK Mehta,B Arora,,0,0,0,,,,31568231568
+1,Malta,6,N Khanna,NSK Mehta,B Arora,,0,1,1,,,,31568231568
+1,Malta,6,B Arora,NSK Mehta,N Khanna,,0,0,0,,,,31568231568
+1,Malta,6,B Arora,NSK Mehta,N Khanna,,0,0,0,,,,31568231568
+1,Malta,7,N Khanna,B Niaz,B Arora,,0,0,0,caught,N Khanna,Ashiqullah Said,31568231568
+1,Malta,7,Ravinder Singh,B Niaz,B Arora,,0,0,0,,,,31568231568
+1,Malta,7,Ravinder Singh,B Niaz,B Arora,,0,0,0,,,,31568231568
+1,Malta,7,Ravinder Singh,B Niaz,B Arora,,0,0,0,,,,31568231568
+1,Malta,7,Ravinder Singh,B Niaz,B Arora,,0,0,0,,,,31568231568
+1,Malta,7,Ravinder Singh,B Niaz,B Arora,,0,0,0,,,,31568231568
+1,Malta,8,B Arora,NSK Mehta,Ravinder Singh,,0,0,0,,,,31568231568
+1,Malta,8,B Arora,NSK Mehta,Ravinder Singh,,0,0,0,,,,31568231568
+1,Malta,8,B Arora,NSK Mehta,Ravinder Singh,,0,0,0,,,,31568231568
+1,Malta,8,B Arora,NSK Mehta,Ravinder Singh,,0,0,0,,,,31568231568
+1,Malta,8,B Arora,NSK Mehta,Ravinder Singh,,0,1,1,,,,31568231568
+1,Malta,8,Ravinder Singh,NSK Mehta,B Arora,,0,1,1,,,,31568231568
+1,Malta,9,Ravinder Singh,B Niaz,B Arora,,0,0,0,,,,31568231568
+1,Malta,9,Ravinder Singh,B Niaz,B Arora,,0,0,0,,,,31568231568
+1,Malta,9,Ravinder Singh,B Niaz,B Arora,,0,0,0,,,,31568231568
+1,Malta,9,Ravinder Singh,B Niaz,B Arora,,0,0,0,,,,31568231568
+1,Malta,9,Ravinder Singh,B Niaz,B Arora,,0,0,0,,,,31568231568
+1,Malta,9,Ravinder Singh,B Niaz,B Arora,,0,2,2,,,,31568231568
+1,Malta,10,B Arora,NSK Mehta,Ravinder Singh,,0,0,0,,,,31568231568
+1,Malta,10,B Arora,NSK Mehta,Ravinder Singh,,0,1,1,,,,31568231568
+1,Malta,10,Ravinder Singh,NSK Mehta,B Arora,,0,1,1,,,,31568231568
+1,Malta,10,B Arora,NSK Mehta,Ravinder Singh,,0,1,1,,,,31568231568
+1,Malta,10,Ravinder Singh,NSK Mehta,B Arora,,0,1,1,,,,31568231568
+1,Malta,10,B Arora,NSK Mehta,Ravinder Singh,,0,0,0,,,,31568231568
+1,Malta,11,Ravinder Singh,B Niaz,B Arora,,0,1,1,,,,31568231568
+1,Malta,11,B Arora,B Niaz,Ravinder Singh,,0,0,0,bowled,B Arora,,31568231568
+1,Malta,11,A Bishnoi,B Niaz,Ravinder Singh,,0,0,0,run out,A Bishnoi,Khalid Ahmadi,31568231568
+1,Malta,11,Ravinder Singh,B Niaz,Bilal Muhammad,,0,1,1,,,,31568231568
+1,Malta,11,Bilal Muhammad,B Niaz,Ravinder Singh,,0,0,0,,,,31568231568
+1,Malta,11,Bilal Muhammad,B Niaz,Ravinder Singh,,0,2,2,,,,31568231568
+1,Malta,12,Ravinder Singh,Sheraz Sheikh,Bilal Muhammad,,0,1,1,,,,31568231568
+1,Malta,12,Bilal Muhammad,Sheraz Sheikh,Ravinder Singh,,0,1,1,,,,31568231568
+1,Malta,12,Ravinder Singh,Sheraz Sheikh,Bilal Muhammad,,0,1,1,,,,31568231568
+1,Malta,12,Bilal Muhammad,Sheraz Sheikh,Ravinder Singh,,0,1,1,run out,Bilal Muhammad,S Jamil,31568231568
+1,Malta,12,Washeem Abbas,Sheraz Sheikh,Ravinder Singh,,0,1,1,,,,31568231568
+1,Malta,12,Ravinder Singh,Sheraz Sheikh,Washeem Abbas,,0,0,0,bowled,Ravinder Singh,,31568231568

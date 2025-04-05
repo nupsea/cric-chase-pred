@@ -1,0 +1,115 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Singapore,0,R Rohan,SI Kamea,S Chandramohan,,0,2,2,,,,32207232207
+1,Singapore,0,R Rohan,SI Kamea,S Chandramohan,,0,0,0,,,,32207232207
+1,Singapore,0,R Rohan,SI Kamea,S Chandramohan,legbyes,1,1,0,,,,32207232207
+1,Singapore,0,S Chandramohan,SI Kamea,R Rohan,,0,0,0,,,,32207232207
+1,Singapore,0,S Chandramohan,SI Kamea,R Rohan,,0,2,2,,,,32207232207
+1,Singapore,0,S Chandramohan,SI Kamea,R Rohan,,0,0,0,,,,32207232207
+1,Singapore,1,R Rohan,D Ravu,S Chandramohan,,0,0,0,,,,32207232207
+1,Singapore,1,R Rohan,D Ravu,S Chandramohan,,0,0,0,,,,32207232207
+1,Singapore,1,R Rohan,D Ravu,S Chandramohan,,0,0,0,,,,32207232207
+1,Singapore,1,R Rohan,D Ravu,S Chandramohan,,0,2,2,,,,32207232207
+1,Singapore,1,R Rohan,D Ravu,S Chandramohan,,0,2,2,,,,32207232207
+1,Singapore,1,R Rohan,D Ravu,S Chandramohan,,0,2,2,,,,32207232207
+1,Singapore,2,S Chandramohan,N Vanua,R Rohan,,0,0,0,caught,S Chandramohan,SK Atai,32207232207
+1,Singapore,2,R Rohan,N Vanua,R Gaznavi,,0,1,1,,,,32207232207
+1,Singapore,2,R Gaznavi,N Vanua,R Rohan,,0,0,0,,,,32207232207
+1,Singapore,2,R Gaznavi,N Vanua,R Rohan,,0,0,0,,,,32207232207
+1,Singapore,2,R Gaznavi,N Vanua,R Rohan,,0,2,2,,,,32207232207
+1,Singapore,2,R Gaznavi,N Vanua,R Rohan,,0,2,2,,,,32207232207
+1,Singapore,3,R Rohan,R Hekure,R Gaznavi,,0,0,0,,,,32207232207
+1,Singapore,3,R Rohan,R Hekure,R Gaznavi,,0,0,0,,,,32207232207
+1,Singapore,3,R Rohan,R Hekure,R Gaznavi,,0,1,1,,,,32207232207
+1,Singapore,3,R Gaznavi,R Hekure,R Rohan,,0,4,4,,,,32207232207
+1,Singapore,3,R Gaznavi,R Hekure,R Rohan,,0,0,0,lbw,R Gaznavi,,32207232207
+1,Singapore,3,A Mutreja,R Hekure,R Rohan,,0,0,0,,,,32207232207
+1,Singapore,4,R Rohan,N Vanua,A Mutreja,,0,0,0,,,,32207232207
+1,Singapore,4,R Rohan,N Vanua,A Mutreja,,0,0,0,bowled,R Rohan,,32207232207
+1,Singapore,4,Aman Desai,N Vanua,A Mutreja,,0,0,0,,,,32207232207
+1,Singapore,4,Aman Desai,N Vanua,A Mutreja,,0,0,0,,,,32207232207
+1,Singapore,4,Aman Desai,N Vanua,A Mutreja,,0,1,1,,,,32207232207
+1,Singapore,4,A Mutreja,N Vanua,Aman Desai,,0,1,1,,,,32207232207
+1,Singapore,5,A Mutreja,SK Atai,Aman Desai,,0,1,1,,,,32207232207
+1,Singapore,5,Aman Desai,SK Atai,A Mutreja,,0,2,2,,,,32207232207
+1,Singapore,5,Aman Desai,SK Atai,A Mutreja,,0,1,1,,,,32207232207
+1,Singapore,5,A Mutreja,SK Atai,Aman Desai,,0,1,1,,,,32207232207
+1,Singapore,5,Aman Desai,SK Atai,A Mutreja,,0,1,1,,,,32207232207
+1,Singapore,5,A Mutreja,SK Atai,Aman Desai,,0,0,0,,,,32207232207
+1,Singapore,6,Aman Desai,SI Kamea,A Mutreja,,0,1,1,,,,32207232207
+1,Singapore,6,A Mutreja,SI Kamea,Aman Desai,,0,0,0,,,,32207232207
+1,Singapore,6,A Mutreja,SI Kamea,Aman Desai,noballs,1,1,0,,,,32207232207
+1,Singapore,6,A Mutreja,SI Kamea,Aman Desai,,0,1,1,,,,32207232207
+1,Singapore,6,Aman Desai,SI Kamea,A Mutreja,,0,1,1,,,,32207232207
+1,Singapore,6,A Mutreja,SI Kamea,Aman Desai,,0,4,4,,,,32207232207
+1,Singapore,6,A Mutreja,SI Kamea,Aman Desai,,0,0,0,,,,32207232207
+1,Singapore,7,Aman Desai,R Hekure,A Mutreja,,0,1,1,,,,32207232207
+1,Singapore,7,A Mutreja,R Hekure,Aman Desai,,0,1,1,,,,32207232207
+1,Singapore,7,Aman Desai,R Hekure,A Mutreja,,0,2,2,,,,32207232207
+1,Singapore,7,Aman Desai,R Hekure,A Mutreja,,0,1,1,,,,32207232207
+1,Singapore,7,A Mutreja,R Hekure,Aman Desai,,0,6,6,,,,32207232207
+1,Singapore,7,A Mutreja,R Hekure,Aman Desai,,0,1,1,,,,32207232207
+1,Singapore,8,A Mutreja,D Ravu,Aman Desai,,0,2,2,,,,32207232207
+1,Singapore,8,A Mutreja,D Ravu,Aman Desai,,0,0,0,,,,32207232207
+1,Singapore,8,A Mutreja,D Ravu,Aman Desai,,0,1,1,,,,32207232207
+1,Singapore,8,Aman Desai,D Ravu,A Mutreja,,0,1,1,,,,32207232207
+1,Singapore,8,A Mutreja,D Ravu,Aman Desai,,0,0,0,,,,32207232207
+1,Singapore,8,A Mutreja,D Ravu,Aman Desai,,0,0,0,,,,32207232207
+1,Singapore,9,Aman Desai,CJA Amini,A Mutreja,,0,1,1,,,,32207232207
+1,Singapore,9,A Mutreja,CJA Amini,Aman Desai,,0,1,1,,,,32207232207
+1,Singapore,9,Aman Desai,CJA Amini,A Mutreja,,0,0,0,,,,32207232207
+1,Singapore,9,Aman Desai,CJA Amini,A Mutreja,,0,1,1,,,,32207232207
+1,Singapore,9,A Mutreja,CJA Amini,Aman Desai,,0,6,6,,,,32207232207
+1,Singapore,9,A Mutreja,CJA Amini,Aman Desai,,0,1,1,,,,32207232207
+1,Singapore,10,A Mutreja,N Vanua,Aman Desai,,0,4,4,,,,32207232207
+1,Singapore,10,A Mutreja,N Vanua,Aman Desai,,0,1,1,,,,32207232207
+1,Singapore,10,Aman Desai,N Vanua,A Mutreja,,0,1,1,,,,32207232207
+1,Singapore,10,A Mutreja,N Vanua,Aman Desai,,0,6,6,,,,32207232207
+1,Singapore,10,A Mutreja,N Vanua,Aman Desai,,0,1,1,,,,32207232207
+1,Singapore,10,Aman Desai,N Vanua,A Mutreja,,0,0,0,,,,32207232207
+1,Singapore,11,A Mutreja,R Hekure,Aman Desai,,0,1,1,,,,32207232207
+1,Singapore,11,Aman Desai,R Hekure,A Mutreja,,0,0,0,,,,32207232207
+1,Singapore,11,Aman Desai,R Hekure,A Mutreja,,0,1,1,,,,32207232207
+1,Singapore,11,A Mutreja,R Hekure,Aman Desai,,0,0,0,,,,32207232207
+1,Singapore,11,A Mutreja,R Hekure,Aman Desai,,0,1,1,,,,32207232207
+1,Singapore,11,Aman Desai,R Hekure,A Mutreja,,0,1,1,,,,32207232207
+1,Singapore,12,Aman Desai,SI Kamea,A Mutreja,,0,0,0,,,,32207232207
+1,Singapore,12,Aman Desai,SI Kamea,A Mutreja,,0,1,1,,,,32207232207
+1,Singapore,12,A Mutreja,SI Kamea,Aman Desai,noballs,1,1,0,,,,32207232207
+1,Singapore,12,A Mutreja,SI Kamea,Aman Desai,,0,0,0,,,,32207232207
+1,Singapore,12,A Mutreja,SI Kamea,Aman Desai,,0,2,2,,,,32207232207
+1,Singapore,12,A Mutreja,SI Kamea,Aman Desai,,0,0,0,,,,32207232207
+1,Singapore,12,A Mutreja,SI Kamea,Aman Desai,,0,1,1,,,,32207232207
+1,Singapore,13,A Mutreja,D Ravu,Aman Desai,,0,0,0,,,,32207232207
+1,Singapore,13,A Mutreja,D Ravu,Aman Desai,,0,6,6,,,,32207232207
+1,Singapore,13,A Mutreja,D Ravu,Aman Desai,wides,1,1,0,,,,32207232207
+1,Singapore,13,A Mutreja,D Ravu,Aman Desai,,0,6,6,,,,32207232207
+1,Singapore,13,A Mutreja,D Ravu,Aman Desai,,0,6,6,,,,32207232207
+1,Singapore,13,A Mutreja,D Ravu,Aman Desai,byes,1,1,0,,,,32207232207
+1,Singapore,13,Aman Desai,D Ravu,A Mutreja,,0,0,0,bowled,Aman Desai,,32207232207
+1,Singapore,14,A Mutreja,N Vanua,Janak Prakash,,0,1,1,,,,32207232207
+1,Singapore,14,Janak Prakash,N Vanua,A Mutreja,,0,1,1,,,,32207232207
+1,Singapore,14,A Mutreja,N Vanua,Janak Prakash,,0,2,2,,,,32207232207
+1,Singapore,14,A Mutreja,N Vanua,Janak Prakash,,0,4,4,,,,32207232207
+1,Singapore,14,A Mutreja,N Vanua,Janak Prakash,,0,1,1,,,,32207232207
+1,Singapore,14,Janak Prakash,N Vanua,A Mutreja,,0,1,1,,,,32207232207
+1,Singapore,15,Janak Prakash,R Hekure,A Mutreja,,0,6,6,,,,32207232207
+1,Singapore,15,Janak Prakash,R Hekure,A Mutreja,,0,1,1,,,,32207232207
+1,Singapore,15,A Mutreja,R Hekure,Janak Prakash,,0,6,6,,,,32207232207
+1,Singapore,15,A Mutreja,R Hekure,Janak Prakash,,0,1,1,,,,32207232207
+1,Singapore,15,Janak Prakash,R Hekure,A Mutreja,,0,1,1,,,,32207232207
+1,Singapore,15,A Mutreja,R Hekure,Janak Prakash,,0,0,0,caught,A Mutreja,S Bau,32207232207
+1,Singapore,16,U Aryaman Sunil,SI Kamea,Janak Prakash,,0,1,1,,,,32207232207
+1,Singapore,16,Janak Prakash,SI Kamea,U Aryaman Sunil,,0,4,4,,,,32207232207
+1,Singapore,16,Janak Prakash,SI Kamea,U Aryaman Sunil,noballs,1,1,0,,,,32207232207
+1,Singapore,16,Janak Prakash,SI Kamea,U Aryaman Sunil,,0,1,1,,,,32207232207
+1,Singapore,16,U Aryaman Sunil,SI Kamea,Janak Prakash,noballs,1,1,0,,,,32207232207
+1,Singapore,16,U Aryaman Sunil,SI Kamea,Janak Prakash,,0,6,6,,,,32207232207
+1,Singapore,16,U Aryaman Sunil,SI Kamea,Janak Prakash,noballs,1,2,1,,,,32207232207
+1,Singapore,16,Janak Prakash,SI Kamea,U Aryaman Sunil,,0,6,6,,,,32207232207
+1,Singapore,16,Janak Prakash,SI Kamea,U Aryaman Sunil,,0,6,6,,,,32207232207
+1,Singapore,17,U Aryaman Sunil,CJA Amini,Janak Prakash,,0,1,1,,,,32207232207
+1,Singapore,17,Janak Prakash,CJA Amini,U Aryaman Sunil,,0,1,1,,,,32207232207
+1,Singapore,17,U Aryaman Sunil,CJA Amini,Janak Prakash,,0,6,6,,,,32207232207
+1,Singapore,17,U Aryaman Sunil,CJA Amini,Janak Prakash,,0,1,1,,,,32207232207
+1,Singapore,17,Janak Prakash,CJA Amini,U Aryaman Sunil,,0,0,0,,,,32207232207
+1,Singapore,17,Janak Prakash,CJA Amini,U Aryaman Sunil,byes,1,1,0,,,,32207232207

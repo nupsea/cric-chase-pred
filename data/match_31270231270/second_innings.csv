@@ -1,0 +1,109 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Pakistan,0,Babar Azam,CAK Rajitha,Ahmed Shehzad,,0,0,0,,,,31270231270
+2,Pakistan,0,Babar Azam,CAK Rajitha,Ahmed Shehzad,,0,0,0,,,,31270231270
+2,Pakistan,0,Babar Azam,CAK Rajitha,Ahmed Shehzad,,0,4,4,,,,31270231270
+2,Pakistan,0,Babar Azam,CAK Rajitha,Ahmed Shehzad,,0,0,0,,,,31270231270
+2,Pakistan,0,Babar Azam,CAK Rajitha,Ahmed Shehzad,,0,3,3,,,,31270231270
+2,Pakistan,0,Ahmed Shehzad,CAK Rajitha,Babar Azam,,0,0,0,,,,31270231270
+2,Pakistan,1,Babar Azam,N Pradeep,Ahmed Shehzad,,0,0,0,,,,31270231270
+2,Pakistan,1,Babar Azam,N Pradeep,Ahmed Shehzad,,0,2,2,,,,31270231270
+2,Pakistan,1,Babar Azam,N Pradeep,Ahmed Shehzad,,0,0,0,,,,31270231270
+2,Pakistan,1,Babar Azam,N Pradeep,Ahmed Shehzad,,0,4,4,,,,31270231270
+2,Pakistan,1,Babar Azam,N Pradeep,Ahmed Shehzad,,0,0,0,caught,Babar Azam,M Bhanuka,31270231270
+2,Pakistan,1,Umar Akmal,N Pradeep,Ahmed Shehzad,,0,0,0,lbw,Umar Akmal,,31270231270
+2,Pakistan,2,Ahmed Shehzad,CAK Rajitha,Sarfraz Ahmed,,0,0,0,,,,31270231270
+2,Pakistan,2,Ahmed Shehzad,CAK Rajitha,Sarfraz Ahmed,legbyes,1,1,0,,,,31270231270
+2,Pakistan,2,Sarfraz Ahmed,CAK Rajitha,Ahmed Shehzad,,0,0,0,,,,31270231270
+2,Pakistan,2,Sarfraz Ahmed,CAK Rajitha,Ahmed Shehzad,,0,1,1,,,,31270231270
+2,Pakistan,2,Ahmed Shehzad,CAK Rajitha,Sarfraz Ahmed,,0,0,0,,,,31270231270
+2,Pakistan,2,Ahmed Shehzad,CAK Rajitha,Sarfraz Ahmed,,0,0,0,,,,31270231270
+2,Pakistan,3,Sarfraz Ahmed,N Pradeep,Ahmed Shehzad,,0,0,0,,,,31270231270
+2,Pakistan,3,Sarfraz Ahmed,N Pradeep,Ahmed Shehzad,,0,1,1,,,,31270231270
+2,Pakistan,3,Ahmed Shehzad,N Pradeep,Sarfraz Ahmed,,0,1,1,,,,31270231270
+2,Pakistan,3,Sarfraz Ahmed,N Pradeep,Ahmed Shehzad,,0,1,1,,,,31270231270
+2,Pakistan,3,Ahmed Shehzad,N Pradeep,Sarfraz Ahmed,wides,1,1,0,,,,31270231270
+2,Pakistan,3,Ahmed Shehzad,N Pradeep,Sarfraz Ahmed,,0,1,1,,,,31270231270
+2,Pakistan,3,Sarfraz Ahmed,N Pradeep,Ahmed Shehzad,,0,0,0,,,,31270231270
+2,Pakistan,4,Ahmed Shehzad,I Udana,Sarfraz Ahmed,,0,2,2,,,,31270231270
+2,Pakistan,4,Ahmed Shehzad,I Udana,Sarfraz Ahmed,,0,0,0,bowled,Ahmed Shehzad,,31270231270
+2,Pakistan,4,Iftikhar Ahmed,I Udana,Sarfraz Ahmed,,0,0,0,,,,31270231270
+2,Pakistan,4,Iftikhar Ahmed,I Udana,Sarfraz Ahmed,,0,0,0,,,,31270231270
+2,Pakistan,4,Iftikhar Ahmed,I Udana,Sarfraz Ahmed,,0,0,0,,,,31270231270
+2,Pakistan,4,Iftikhar Ahmed,I Udana,Sarfraz Ahmed,,0,4,4,,,,31270231270
+2,Pakistan,5,Sarfraz Ahmed,PWH de Silva,Iftikhar Ahmed,,0,1,1,,,,31270231270
+2,Pakistan,5,Iftikhar Ahmed,PWH de Silva,Sarfraz Ahmed,,0,1,1,,,,31270231270
+2,Pakistan,5,Sarfraz Ahmed,PWH de Silva,Iftikhar Ahmed,,0,0,0,,,,31270231270
+2,Pakistan,5,Sarfraz Ahmed,PWH de Silva,Iftikhar Ahmed,,0,0,0,,,,31270231270
+2,Pakistan,5,Sarfraz Ahmed,PWH de Silva,Iftikhar Ahmed,,0,1,1,,,,31270231270
+2,Pakistan,5,Iftikhar Ahmed,PWH de Silva,Sarfraz Ahmed,,0,1,1,,,,31270231270
+2,Pakistan,6,Iftikhar Ahmed,PADLR Sandakan,Sarfraz Ahmed,,0,1,1,,,,31270231270
+2,Pakistan,6,Sarfraz Ahmed,PADLR Sandakan,Iftikhar Ahmed,,0,0,0,,,,31270231270
+2,Pakistan,6,Sarfraz Ahmed,PADLR Sandakan,Iftikhar Ahmed,,0,1,1,,,,31270231270
+2,Pakistan,6,Iftikhar Ahmed,PADLR Sandakan,Sarfraz Ahmed,,0,1,1,,,,31270231270
+2,Pakistan,6,Sarfraz Ahmed,PADLR Sandakan,Iftikhar Ahmed,,0,1,1,,,,31270231270
+2,Pakistan,6,Iftikhar Ahmed,PADLR Sandakan,Sarfraz Ahmed,,0,1,1,,,,31270231270
+2,Pakistan,7,Iftikhar Ahmed,PWH de Silva,Sarfraz Ahmed,,0,1,1,,,,31270231270
+2,Pakistan,7,Sarfraz Ahmed,PWH de Silva,Iftikhar Ahmed,,0,2,2,,,,31270231270
+2,Pakistan,7,Sarfraz Ahmed,PWH de Silva,Iftikhar Ahmed,,0,1,1,,,,31270231270
+2,Pakistan,7,Iftikhar Ahmed,PWH de Silva,Sarfraz Ahmed,,0,1,1,,,,31270231270
+2,Pakistan,7,Sarfraz Ahmed,PWH de Silva,Iftikhar Ahmed,legbyes,1,1,0,,,,31270231270
+2,Pakistan,7,Iftikhar Ahmed,PWH de Silva,Sarfraz Ahmed,,0,4,4,,,,31270231270
+2,Pakistan,8,Sarfraz Ahmed,PADLR Sandakan,Iftikhar Ahmed,,0,1,1,,,,31270231270
+2,Pakistan,8,Iftikhar Ahmed,PADLR Sandakan,Sarfraz Ahmed,,0,1,1,,,,31270231270
+2,Pakistan,8,Sarfraz Ahmed,PADLR Sandakan,Iftikhar Ahmed,,0,1,1,,,,31270231270
+2,Pakistan,8,Iftikhar Ahmed,PADLR Sandakan,Sarfraz Ahmed,,0,1,1,,,,31270231270
+2,Pakistan,8,Sarfraz Ahmed,PADLR Sandakan,Iftikhar Ahmed,,0,1,1,,,,31270231270
+2,Pakistan,8,Iftikhar Ahmed,PADLR Sandakan,Sarfraz Ahmed,,0,1,1,,,,31270231270
+2,Pakistan,9,Iftikhar Ahmed,CAK Rajitha,Sarfraz Ahmed,,0,1,1,,,,31270231270
+2,Pakistan,9,Sarfraz Ahmed,CAK Rajitha,Iftikhar Ahmed,legbyes,1,1,0,,,,31270231270
+2,Pakistan,9,Iftikhar Ahmed,CAK Rajitha,Sarfraz Ahmed,,0,1,1,,,,31270231270
+2,Pakistan,9,Sarfraz Ahmed,CAK Rajitha,Iftikhar Ahmed,,0,1,1,,,,31270231270
+2,Pakistan,9,Iftikhar Ahmed,CAK Rajitha,Sarfraz Ahmed,,0,0,0,,,,31270231270
+2,Pakistan,9,Iftikhar Ahmed,CAK Rajitha,Sarfraz Ahmed,,0,2,2,,,,31270231270
+2,Pakistan,10,Sarfraz Ahmed,PADLR Sandakan,Iftikhar Ahmed,,0,1,1,,,,31270231270
+2,Pakistan,10,Iftikhar Ahmed,PADLR Sandakan,Sarfraz Ahmed,wides,1,1,0,,,,31270231270
+2,Pakistan,10,Iftikhar Ahmed,PADLR Sandakan,Sarfraz Ahmed,,0,2,2,,,,31270231270
+2,Pakistan,10,Iftikhar Ahmed,PADLR Sandakan,Sarfraz Ahmed,,0,0,0,,,,31270231270
+2,Pakistan,10,Iftikhar Ahmed,PADLR Sandakan,Sarfraz Ahmed,,0,1,1,,,,31270231270
+2,Pakistan,10,Sarfraz Ahmed,PADLR Sandakan,Iftikhar Ahmed,,0,0,0,,,,31270231270
+2,Pakistan,10,Sarfraz Ahmed,PADLR Sandakan,Iftikhar Ahmed,,0,4,4,,,,31270231270
+2,Pakistan,11,Iftikhar Ahmed,I Udana,Sarfraz Ahmed,legbyes,1,1,0,,,,31270231270
+2,Pakistan,11,Sarfraz Ahmed,I Udana,Iftikhar Ahmed,,0,1,1,,,,31270231270
+2,Pakistan,11,Iftikhar Ahmed,I Udana,Sarfraz Ahmed,,0,0,0,run out,Iftikhar Ahmed,,31270231270
+2,Pakistan,11,Sarfraz Ahmed,I Udana,Asif Ali,,0,1,1,,,,31270231270
+2,Pakistan,11,Asif Ali,I Udana,Sarfraz Ahmed,,0,1,1,,,,31270231270
+2,Pakistan,11,Sarfraz Ahmed,I Udana,Asif Ali,,0,1,1,,,,31270231270
+2,Pakistan,12,Sarfraz Ahmed,PADLR Sandakan,Asif Ali,,0,1,1,,,,31270231270
+2,Pakistan,12,Asif Ali,PADLR Sandakan,Sarfraz Ahmed,,0,0,0,,,,31270231270
+2,Pakistan,12,Asif Ali,PADLR Sandakan,Sarfraz Ahmed,,0,1,1,,,,31270231270
+2,Pakistan,12,Sarfraz Ahmed,PADLR Sandakan,Asif Ali,,0,1,1,,,,31270231270
+2,Pakistan,12,Asif Ali,PADLR Sandakan,Sarfraz Ahmed,,0,0,0,,,,31270231270
+2,Pakistan,12,Asif Ali,PADLR Sandakan,Sarfraz Ahmed,,0,1,1,,,,31270231270
+2,Pakistan,13,Asif Ali,PWH de Silva,Sarfraz Ahmed,,0,1,1,,,,31270231270
+2,Pakistan,13,Sarfraz Ahmed,PWH de Silva,Asif Ali,,0,0,0,bowled,Sarfraz Ahmed,,31270231270
+2,Pakistan,13,Imad Wasim,PWH de Silva,Asif Ali,,0,1,1,,,,31270231270
+2,Pakistan,13,Asif Ali,PWH de Silva,Imad Wasim,,0,0,0,,,,31270231270
+2,Pakistan,13,Asif Ali,PWH de Silva,Imad Wasim,,0,1,1,,,,31270231270
+2,Pakistan,13,Imad Wasim,PWH de Silva,Asif Ali,,0,1,1,,,,31270231270
+2,Pakistan,14,Imad Wasim,CAK Rajitha,Asif Ali,,0,4,4,,,,31270231270
+2,Pakistan,14,Imad Wasim,CAK Rajitha,Asif Ali,,0,1,1,,,,31270231270
+2,Pakistan,14,Asif Ali,CAK Rajitha,Imad Wasim,,0,1,1,,,,31270231270
+2,Pakistan,14,Imad Wasim,CAK Rajitha,Asif Ali,,0,0,0,caught,Imad Wasim,PWH de Silva,31270231270
+2,Pakistan,14,Faheem Ashraf,CAK Rajitha,Asif Ali,,0,0,0,,,,31270231270
+2,Pakistan,14,Faheem Ashraf,CAK Rajitha,Asif Ali,,0,1,1,,,,31270231270
+2,Pakistan,15,Faheem Ashraf,PWH de Silva,Asif Ali,legbyes,1,1,0,,,,31270231270
+2,Pakistan,15,Asif Ali,PWH de Silva,Faheem Ashraf,,0,0,0,caught,Asif Ali,MD Gunathilaka,31270231270
+2,Pakistan,15,Faheem Ashraf,PWH de Silva,Shadab Khan,,0,1,1,,,,31270231270
+2,Pakistan,15,Shadab Khan,PWH de Silva,Faheem Ashraf,,0,0,0,,,,31270231270
+2,Pakistan,15,Shadab Khan,PWH de Silva,Faheem Ashraf,,0,1,1,,,,31270231270
+2,Pakistan,15,Faheem Ashraf,PWH de Silva,Shadab Khan,,0,1,1,,,,31270231270
+2,Pakistan,16,Faheem Ashraf,N Pradeep,Shadab Khan,,0,4,4,,,,31270231270
+2,Pakistan,16,Faheem Ashraf,N Pradeep,Shadab Khan,,0,1,1,,,,31270231270
+2,Pakistan,16,Shadab Khan,N Pradeep,Faheem Ashraf,,0,1,1,,,,31270231270
+2,Pakistan,16,Faheem Ashraf,N Pradeep,Shadab Khan,,0,0,0,caught,Faheem Ashraf,MD Gunathilaka,31270231270
+2,Pakistan,16,Shadab Khan,N Pradeep,Mohammad Amir,,0,0,0,,,,31270231270
+2,Pakistan,16,Shadab Khan,N Pradeep,Mohammad Amir,,0,4,4,,,,31270231270
+2,Pakistan,17,Mohammad Amir,I Udana,Shadab Khan,,0,1,1,,,,31270231270
+2,Pakistan,17,Shadab Khan,I Udana,Mohammad Amir,,0,0,0,,,,31270231270
+2,Pakistan,17,Shadab Khan,I Udana,Mohammad Amir,,0,0,0,caught,Shadab Khan,WIA Fernando,31270231270
+2,Pakistan,17,Mohammad Amir,I Udana,Mohammad Hasnain,,0,0,0,caught,Mohammad Amir,MD Gunathilaka,31270231270

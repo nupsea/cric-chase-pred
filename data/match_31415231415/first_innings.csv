@@ -1,0 +1,126 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Isle of Man,0,A McAuley,ACF Stokes,N Knights,,0,0,0,,,,31415231415
+1,Isle of Man,0,A McAuley,ACF Stokes,N Knights,,0,1,1,,,,31415231415
+1,Isle of Man,0,N Knights,ACF Stokes,A McAuley,,0,0,0,,,,31415231415
+1,Isle of Man,0,N Knights,ACF Stokes,A McAuley,,0,0,0,,,,31415231415
+1,Isle of Man,0,N Knights,ACF Stokes,A McAuley,,0,4,4,,,,31415231415
+1,Isle of Man,0,N Knights,ACF Stokes,A McAuley,,0,0,0,,,,31415231415
+1,Isle of Man,1,A McAuley,W Peatfield,N Knights,,0,0,0,,,,31415231415
+1,Isle of Man,1,A McAuley,W Peatfield,N Knights,,0,1,1,,,,31415231415
+1,Isle of Man,1,N Knights,W Peatfield,A McAuley,,0,4,4,,,,31415231415
+1,Isle of Man,1,N Knights,W Peatfield,A McAuley,,0,0,0,,,,31415231415
+1,Isle of Man,1,N Knights,W Peatfield,A McAuley,,0,1,1,,,,31415231415
+1,Isle of Man,1,A McAuley,W Peatfield,N Knights,,0,0,0,,,,31415231415
+1,Isle of Man,2,N Knights,M Breban,A McAuley,,0,0,0,,,,31415231415
+1,Isle of Man,2,N Knights,M Breban,A McAuley,,0,0,0,caught,N Knights,LB Ferbrache,31415231415
+1,Isle of Man,2,A McAuley,M Breban,OJ Webster,,0,0,0,,,,31415231415
+1,Isle of Man,2,A McAuley,M Breban,OJ Webster,,0,4,4,,,,31415231415
+1,Isle of Man,2,A McAuley,M Breban,OJ Webster,,0,4,4,,,,31415231415
+1,Isle of Man,2,A McAuley,M Breban,OJ Webster,,0,0,0,,,,31415231415
+1,Isle of Man,3,OJ Webster,W Peatfield,A McAuley,,0,0,0,,,,31415231415
+1,Isle of Man,3,OJ Webster,W Peatfield,A McAuley,wides,1,1,0,,,,31415231415
+1,Isle of Man,3,OJ Webster,W Peatfield,A McAuley,,0,4,4,,,,31415231415
+1,Isle of Man,3,OJ Webster,W Peatfield,A McAuley,,0,0,0,,,,31415231415
+1,Isle of Man,3,OJ Webster,W Peatfield,A McAuley,,0,1,1,,,,31415231415
+1,Isle of Man,3,A McAuley,W Peatfield,OJ Webster,,0,1,1,,,,31415231415
+1,Isle of Man,3,OJ Webster,W Peatfield,A McAuley,,0,0,0,,,,31415231415
+1,Isle of Man,4,A McAuley,M Breban,OJ Webster,,0,0,0,,,,31415231415
+1,Isle of Man,4,A McAuley,M Breban,OJ Webster,,0,1,1,,,,31415231415
+1,Isle of Man,4,OJ Webster,M Breban,A McAuley,,0,0,0,,,,31415231415
+1,Isle of Man,4,OJ Webster,M Breban,A McAuley,,0,0,0,caught,OJ Webster,T Nightingale,31415231415
+1,Isle of Man,4,A McAuley,M Breban,G Burrows,,0,1,1,,,,31415231415
+1,Isle of Man,4,G Burrows,M Breban,A McAuley,,0,0,0,,,,31415231415
+1,Isle of Man,5,A McAuley,LT Bichard,G Burrows,,0,1,1,,,,31415231415
+1,Isle of Man,5,G Burrows,LT Bichard,A McAuley,,0,1,1,,,,31415231415
+1,Isle of Man,5,A McAuley,LT Bichard,G Burrows,,0,0,0,,,,31415231415
+1,Isle of Man,5,A McAuley,LT Bichard,G Burrows,,0,4,4,,,,31415231415
+1,Isle of Man,5,A McAuley,LT Bichard,G Burrows,,0,0,0,,,,31415231415
+1,Isle of Man,5,A McAuley,LT Bichard,G Burrows,,0,1,1,,,,31415231415
+1,Isle of Man,6,A McAuley,LC Le Tissier,G Burrows,wides,1,1,0,,,,31415231415
+1,Isle of Man,6,A McAuley,LC Le Tissier,G Burrows,,0,1,1,,,,31415231415
+1,Isle of Man,6,G Burrows,LC Le Tissier,A McAuley,,0,0,0,,,,31415231415
+1,Isle of Man,6,G Burrows,LC Le Tissier,A McAuley,,0,1,1,,,,31415231415
+1,Isle of Man,6,A McAuley,LC Le Tissier,G Burrows,,0,0,0,,,,31415231415
+1,Isle of Man,6,A McAuley,LC Le Tissier,G Burrows,,0,1,1,,,,31415231415
+1,Isle of Man,6,G Burrows,LC Le Tissier,A McAuley,,0,4,4,,,,31415231415
+1,Isle of Man,7,A McAuley,LT Bichard,G Burrows,,0,1,1,,,,31415231415
+1,Isle of Man,7,G Burrows,LT Bichard,A McAuley,,0,1,1,,,,31415231415
+1,Isle of Man,7,A McAuley,LT Bichard,G Burrows,,0,1,1,,,,31415231415
+1,Isle of Man,7,G Burrows,LT Bichard,A McAuley,,0,0,0,,,,31415231415
+1,Isle of Man,7,G Burrows,LT Bichard,A McAuley,,0,0,0,,,,31415231415
+1,Isle of Man,7,G Burrows,LT Bichard,A McAuley,,0,1,1,,,,31415231415
+1,Isle of Man,8,G Burrows,LC Le Tissier,A McAuley,,0,0,0,,,,31415231415
+1,Isle of Man,8,G Burrows,LC Le Tissier,A McAuley,,0,1,1,,,,31415231415
+1,Isle of Man,8,A McAuley,LC Le Tissier,G Burrows,,0,0,0,,,,31415231415
+1,Isle of Man,8,A McAuley,LC Le Tissier,G Burrows,,0,1,1,,,,31415231415
+1,Isle of Man,8,G Burrows,LC Le Tissier,A McAuley,,0,1,1,,,,31415231415
+1,Isle of Man,8,A McAuley,LC Le Tissier,G Burrows,,0,0,0,,,,31415231415
+1,Isle of Man,9,G Burrows,ACF Stokes,A McAuley,,0,1,1,,,,31415231415
+1,Isle of Man,9,A McAuley,ACF Stokes,G Burrows,,0,0,0,,,,31415231415
+1,Isle of Man,9,A McAuley,ACF Stokes,G Burrows,,0,1,1,,,,31415231415
+1,Isle of Man,9,G Burrows,ACF Stokes,A McAuley,,0,1,1,,,,31415231415
+1,Isle of Man,9,A McAuley,ACF Stokes,G Burrows,wides,1,1,0,,,,31415231415
+1,Isle of Man,9,A McAuley,ACF Stokes,G Burrows,,0,1,1,,,,31415231415
+1,Isle of Man,9,G Burrows,ACF Stokes,A McAuley,,0,1,1,,,,31415231415
+1,Isle of Man,10,G Burrows,LC Le Tissier,A McAuley,,0,0,0,caught,G Burrows,T Nightingale,31415231415
+1,Isle of Man,10,C Hartmann,LC Le Tissier,A McAuley,,0,0,0,,,,31415231415
+1,Isle of Man,10,C Hartmann,LC Le Tissier,A McAuley,,0,0,0,,,,31415231415
+1,Isle of Man,10,C Hartmann,LC Le Tissier,A McAuley,,0,1,1,,,,31415231415
+1,Isle of Man,10,A McAuley,LC Le Tissier,C Hartmann,,0,0,0,,,,31415231415
+1,Isle of Man,10,A McAuley,LC Le Tissier,C Hartmann,,0,1,1,,,,31415231415
+1,Isle of Man,11,A McAuley,ACF Stokes,C Hartmann,,0,0,0,,,,31415231415
+1,Isle of Man,11,A McAuley,ACF Stokes,C Hartmann,,0,1,1,,,,31415231415
+1,Isle of Man,11,C Hartmann,ACF Stokes,A McAuley,,0,0,0,,,,31415231415
+1,Isle of Man,11,C Hartmann,ACF Stokes,A McAuley,,0,1,1,,,,31415231415
+1,Isle of Man,11,A McAuley,ACF Stokes,C Hartmann,,0,0,0,,,,31415231415
+1,Isle of Man,11,A McAuley,ACF Stokes,C Hartmann,,0,1,1,,,,31415231415
+1,Isle of Man,12,A McAuley,LT Bichard,C Hartmann,,0,1,1,,,,31415231415
+1,Isle of Man,12,C Hartmann,LT Bichard,A McAuley,,0,0,0,,,,31415231415
+1,Isle of Man,12,C Hartmann,LT Bichard,A McAuley,,0,0,0,,,,31415231415
+1,Isle of Man,12,C Hartmann,LT Bichard,A McAuley,,0,0,0,,,,31415231415
+1,Isle of Man,12,C Hartmann,LT Bichard,A McAuley,,0,1,1,,,,31415231415
+1,Isle of Man,12,A McAuley,LT Bichard,C Hartmann,,0,1,1,,,,31415231415
+1,Isle of Man,13,A McAuley,ACF Stokes,C Hartmann,,0,1,1,,,,31415231415
+1,Isle of Man,13,C Hartmann,ACF Stokes,A McAuley,,0,0,0,,,,31415231415
+1,Isle of Man,13,C Hartmann,ACF Stokes,A McAuley,,0,1,1,,,,31415231415
+1,Isle of Man,13,A McAuley,ACF Stokes,C Hartmann,,0,0,0,,,,31415231415
+1,Isle of Man,13,A McAuley,ACF Stokes,C Hartmann,,0,1,1,,,,31415231415
+1,Isle of Man,13,C Hartmann,ACF Stokes,A McAuley,,0,2,2,,,,31415231415
+1,Isle of Man,14,A McAuley,LC Le Tissier,C Hartmann,,0,1,1,,,,31415231415
+1,Isle of Man,14,C Hartmann,LC Le Tissier,A McAuley,,0,0,0,,,,31415231415
+1,Isle of Man,14,C Hartmann,LC Le Tissier,A McAuley,,0,0,0,caught,C Hartmann,LB Ferbrache,31415231415
+1,Isle of Man,14,A McAuley,LC Le Tissier,MJ Ansell,,0,1,1,,,,31415231415
+1,Isle of Man,14,MJ Ansell,LC Le Tissier,A McAuley,,0,1,1,,,,31415231415
+1,Isle of Man,14,A McAuley,LC Le Tissier,MJ Ansell,,0,1,1,,,,31415231415
+1,Isle of Man,15,A McAuley,LT Bichard,MJ Ansell,,0,0,0,,,,31415231415
+1,Isle of Man,15,A McAuley,LT Bichard,MJ Ansell,,0,1,1,,,,31415231415
+1,Isle of Man,15,MJ Ansell,LT Bichard,A McAuley,,0,0,0,,,,31415231415
+1,Isle of Man,15,MJ Ansell,LT Bichard,A McAuley,,0,0,0,,,,31415231415
+1,Isle of Man,15,MJ Ansell,LT Bichard,A McAuley,,0,0,0,,,,31415231415
+1,Isle of Man,15,MJ Ansell,LT Bichard,A McAuley,,0,1,1,,,,31415231415
+1,Isle of Man,16,MJ Ansell,M Breban,A McAuley,,0,4,4,,,,31415231415
+1,Isle of Man,16,MJ Ansell,M Breban,A McAuley,,0,0,0,bowled,MJ Ansell,,31415231415
+1,Isle of Man,16,CJ Langford,M Breban,A McAuley,,0,1,1,,,,31415231415
+1,Isle of Man,16,A McAuley,M Breban,CJ Langford,,0,1,1,,,,31415231415
+1,Isle of Man,16,CJ Langford,M Breban,A McAuley,wides,1,1,0,,,,31415231415
+1,Isle of Man,16,CJ Langford,M Breban,A McAuley,,0,1,1,,,,31415231415
+1,Isle of Man,16,A McAuley,M Breban,CJ Langford,,0,0,0,,,,31415231415
+1,Isle of Man,17,CJ Langford,W Peatfield,A McAuley,,0,1,1,,,,31415231415
+1,Isle of Man,17,A McAuley,W Peatfield,CJ Langford,,0,1,1,,,,31415231415
+1,Isle of Man,17,CJ Langford,W Peatfield,A McAuley,,0,4,4,,,,31415231415
+1,Isle of Man,17,CJ Langford,W Peatfield,A McAuley,,0,1,1,,,,31415231415
+1,Isle of Man,17,A McAuley,W Peatfield,CJ Langford,,0,1,1,,,,31415231415
+1,Isle of Man,17,CJ Langford,W Peatfield,A McAuley,,0,0,0,bowled,CJ Langford,,31415231415
+1,Isle of Man,18,A McAuley,M Breban,JA Burrows,,0,1,1,,,,31415231415
+1,Isle of Man,18,JA Burrows,M Breban,A McAuley,,0,1,1,,,,31415231415
+1,Isle of Man,18,A McAuley,M Breban,JA Burrows,,0,1,1,,,,31415231415
+1,Isle of Man,18,JA Burrows,M Breban,A McAuley,,0,1,1,,,,31415231415
+1,Isle of Man,18,A McAuley,M Breban,JA Burrows,,0,1,1,,,,31415231415
+1,Isle of Man,18,JA Burrows,M Breban,A McAuley,,0,1,1,,,,31415231415
+1,Isle of Man,19,JA Burrows,W Peatfield,A McAuley,,0,0,0,bowled,JA Burrows,,31415231415
+1,Isle of Man,19,S Mills,W Peatfield,A McAuley,,0,0,0,,,,31415231415
+1,Isle of Man,19,S Mills,W Peatfield,A McAuley,,0,0,0,,,,31415231415
+1,Isle of Man,19,S Mills,W Peatfield,A McAuley,wides,1,1,0,,,,31415231415
+1,Isle of Man,19,S Mills,W Peatfield,A McAuley,,0,1,1,,,,31415231415
+1,Isle of Man,19,A McAuley,W Peatfield,S Mills,,0,0,0,bowled,A McAuley,,31415231415
+1,Isle of Man,19,C Liebenberg,W Peatfield,S Mills,,0,1,1,run out,C Liebenberg,,31415231415

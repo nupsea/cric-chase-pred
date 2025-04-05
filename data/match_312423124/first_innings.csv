@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Australia,0,DA Warner,Mashrafe Mortaza,SR Watson,,0,0,0,,,,312423124
+1,Australia,0,DA Warner,Mashrafe Mortaza,SR Watson,,0,0,0,,,,312423124
+1,Australia,0,DA Warner,Mashrafe Mortaza,SR Watson,,0,1,1,,,,312423124
+1,Australia,0,SR Watson,Mashrafe Mortaza,DA Warner,,0,0,0,,,,312423124
+1,Australia,0,SR Watson,Mashrafe Mortaza,DA Warner,,0,1,1,,,,312423124
+1,Australia,0,DA Warner,Mashrafe Mortaza,SR Watson,,0,0,0,,,,312423124
+1,Australia,1,SR Watson,Shafiul Islam,DA Warner,,0,0,0,,,,312423124
+1,Australia,1,SR Watson,Shafiul Islam,DA Warner,wides,1,1,0,,,,312423124
+1,Australia,1,SR Watson,Shafiul Islam,DA Warner,,0,0,0,,,,312423124
+1,Australia,1,SR Watson,Shafiul Islam,DA Warner,,0,2,2,,,,312423124
+1,Australia,1,SR Watson,Shafiul Islam,DA Warner,,0,1,1,,,,312423124
+1,Australia,1,DA Warner,Shafiul Islam,SR Watson,,0,6,6,,,,312423124
+1,Australia,1,DA Warner,Shafiul Islam,SR Watson,,0,4,4,,,,312423124
+1,Australia,2,SR Watson,Mashrafe Mortaza,DA Warner,,0,0,0,caught,SR Watson,Aftab Ahmed,312423124
+1,Australia,2,DA Warner,Mashrafe Mortaza,MJ Clarke,,0,0,0,,,,312423124
+1,Australia,2,DA Warner,Mashrafe Mortaza,MJ Clarke,,0,4,4,,,,312423124
+1,Australia,2,DA Warner,Mashrafe Mortaza,MJ Clarke,,0,1,1,,,,312423124
+1,Australia,2,MJ Clarke,Mashrafe Mortaza,DA Warner,,0,0,0,,,,312423124
+1,Australia,2,MJ Clarke,Mashrafe Mortaza,DA Warner,,0,0,0,,,,312423124
+1,Australia,3,DA Warner,Shakib Al Hasan,MJ Clarke,,0,0,0,,,,312423124
+1,Australia,3,DA Warner,Shakib Al Hasan,MJ Clarke,,0,0,0,caught,DA Warner,Aftab Ahmed,312423124
+1,Australia,3,MJ Clarke,Shakib Al Hasan,BJ Haddin,,0,0,0,,,,312423124
+1,Australia,3,MJ Clarke,Shakib Al Hasan,BJ Haddin,,0,0,0,,,,312423124
+1,Australia,3,MJ Clarke,Shakib Al Hasan,BJ Haddin,,0,0,0,,,,312423124
+1,Australia,3,MJ Clarke,Shakib Al Hasan,BJ Haddin,,0,6,6,,,,312423124
+1,Australia,4,BJ Haddin,Abdur Razzak,MJ Clarke,,0,0,0,,,,312423124
+1,Australia,4,BJ Haddin,Abdur Razzak,MJ Clarke,,0,1,1,,,,312423124
+1,Australia,4,MJ Clarke,Abdur Razzak,BJ Haddin,,0,0,0,,,,312423124
+1,Australia,4,MJ Clarke,Abdur Razzak,BJ Haddin,,0,0,0,,,,312423124
+1,Australia,4,MJ Clarke,Abdur Razzak,BJ Haddin,,0,1,1,,,,312423124
+1,Australia,4,BJ Haddin,Abdur Razzak,MJ Clarke,,0,1,1,,,,312423124
+1,Australia,5,BJ Haddin,Shafiul Islam,MJ Clarke,,0,1,1,,,,312423124
+1,Australia,5,MJ Clarke,Shafiul Islam,BJ Haddin,,0,1,1,,,,312423124
+1,Australia,5,BJ Haddin,Shafiul Islam,MJ Clarke,legbyes,1,1,0,,,,312423124
+1,Australia,5,MJ Clarke,Shafiul Islam,BJ Haddin,,0,0,0,,,,312423124
+1,Australia,5,MJ Clarke,Shafiul Islam,BJ Haddin,,0,1,1,,,,312423124
+1,Australia,5,BJ Haddin,Shafiul Islam,MJ Clarke,,0,1,1,,,,312423124
+1,Australia,6,BJ Haddin,Abdur Razzak,MJ Clarke,,0,0,0,,,,312423124
+1,Australia,6,BJ Haddin,Abdur Razzak,MJ Clarke,,0,2,2,,,,312423124
+1,Australia,6,BJ Haddin,Abdur Razzak,MJ Clarke,,0,0,0,caught,BJ Haddin,Shafiul Islam,312423124
+1,Australia,6,DJ Hussey,Abdur Razzak,MJ Clarke,,0,1,1,,,,312423124
+1,Australia,6,MJ Clarke,Abdur Razzak,DJ Hussey,,0,0,0,,,,312423124
+1,Australia,6,MJ Clarke,Abdur Razzak,DJ Hussey,,0,1,1,,,,312423124
+1,Australia,7,MJ Clarke,Mohammad Ashraful,DJ Hussey,,0,1,1,,,,312423124
+1,Australia,7,DJ Hussey,Mohammad Ashraful,MJ Clarke,wides,1,1,0,,,,312423124
+1,Australia,7,DJ Hussey,Mohammad Ashraful,MJ Clarke,,0,1,1,,,,312423124
+1,Australia,7,MJ Clarke,Mohammad Ashraful,DJ Hussey,,0,1,1,,,,312423124
+1,Australia,7,DJ Hussey,Mohammad Ashraful,MJ Clarke,,0,0,0,,,,312423124
+1,Australia,7,DJ Hussey,Mohammad Ashraful,MJ Clarke,,0,0,0,,,,312423124
+1,Australia,7,DJ Hussey,Mohammad Ashraful,MJ Clarke,,0,2,2,,,,312423124
+1,Australia,8,MJ Clarke,Shakib Al Hasan,DJ Hussey,,0,2,2,,,,312423124
+1,Australia,8,MJ Clarke,Shakib Al Hasan,DJ Hussey,,0,1,1,,,,312423124
+1,Australia,8,DJ Hussey,Shakib Al Hasan,MJ Clarke,,0,0,0,,,,312423124
+1,Australia,8,DJ Hussey,Shakib Al Hasan,MJ Clarke,,0,0,0,,,,312423124
+1,Australia,8,DJ Hussey,Shakib Al Hasan,MJ Clarke,,0,1,1,,,,312423124
+1,Australia,8,MJ Clarke,Shakib Al Hasan,DJ Hussey,,0,0,0,,,,312423124
+1,Australia,9,DJ Hussey,Mohammad Ashraful,MJ Clarke,,0,1,1,,,,312423124
+1,Australia,9,MJ Clarke,Mohammad Ashraful,DJ Hussey,,0,1,1,,,,312423124
+1,Australia,9,DJ Hussey,Mohammad Ashraful,MJ Clarke,,0,1,1,,,,312423124
+1,Australia,9,MJ Clarke,Mohammad Ashraful,DJ Hussey,,0,0,0,caught,MJ Clarke,Jahurul Islam,312423124
+1,Australia,9,DJ Hussey,Mohammad Ashraful,CL White,,0,1,1,,,,312423124
+1,Australia,9,CL White,Mohammad Ashraful,DJ Hussey,,0,1,1,,,,312423124
+1,Australia,10,CL White,Mashrafe Mortaza,DJ Hussey,,0,1,1,,,,312423124
+1,Australia,10,DJ Hussey,Mashrafe Mortaza,CL White,,0,1,1,,,,312423124
+1,Australia,10,CL White,Mashrafe Mortaza,DJ Hussey,,0,0,0,,,,312423124
+1,Australia,10,CL White,Mashrafe Mortaza,DJ Hussey,,0,1,1,,,,312423124
+1,Australia,10,DJ Hussey,Mashrafe Mortaza,CL White,,0,0,0,caught,DJ Hussey,Mushfiqur Rahim,312423124
+1,Australia,10,CL White,Mashrafe Mortaza,MEK Hussey,,0,1,1,,,,312423124
+1,Australia,11,CL White,Mohammad Ashraful,MEK Hussey,,0,0,0,,,,312423124
+1,Australia,11,CL White,Mohammad Ashraful,MEK Hussey,,0,1,1,,,,312423124
+1,Australia,11,MEK Hussey,Mohammad Ashraful,CL White,,0,1,1,,,,312423124
+1,Australia,11,CL White,Mohammad Ashraful,MEK Hussey,,0,1,1,,,,312423124
+1,Australia,11,MEK Hussey,Mohammad Ashraful,CL White,,0,1,1,,,,312423124
+1,Australia,11,CL White,Mohammad Ashraful,MEK Hussey,,0,1,1,,,,312423124
+1,Australia,12,CL White,Shakib Al Hasan,MEK Hussey,,0,1,1,,,,312423124
+1,Australia,12,MEK Hussey,Shakib Al Hasan,CL White,,0,0,0,,,,312423124
+1,Australia,12,MEK Hussey,Shakib Al Hasan,CL White,,0,0,0,,,,312423124
+1,Australia,12,MEK Hussey,Shakib Al Hasan,CL White,,0,1,1,,,,312423124
+1,Australia,12,CL White,Shakib Al Hasan,MEK Hussey,,0,0,0,bowled,CL White,,312423124
+1,Australia,12,SPD Smith,Shakib Al Hasan,MEK Hussey,,0,1,1,,,,312423124
+1,Australia,13,SPD Smith,Mohammad Ashraful,MEK Hussey,,0,1,1,,,,312423124
+1,Australia,13,MEK Hussey,Mohammad Ashraful,SPD Smith,,0,2,2,,,,312423124
+1,Australia,13,MEK Hussey,Mohammad Ashraful,SPD Smith,,0,1,1,,,,312423124
+1,Australia,13,SPD Smith,Mohammad Ashraful,MEK Hussey,,0,1,1,,,,312423124
+1,Australia,13,MEK Hussey,Mohammad Ashraful,SPD Smith,,0,2,2,,,,312423124
+1,Australia,13,MEK Hussey,Mohammad Ashraful,SPD Smith,,0,1,1,,,,312423124
+1,Australia,14,MEK Hussey,Abdur Razzak,SPD Smith,,0,0,0,,,,312423124
+1,Australia,14,MEK Hussey,Abdur Razzak,SPD Smith,,0,2,2,,,,312423124
+1,Australia,14,MEK Hussey,Abdur Razzak,SPD Smith,,0,4,4,,,,312423124
+1,Australia,14,MEK Hussey,Abdur Razzak,SPD Smith,wides,1,1,0,,,,312423124
+1,Australia,14,MEK Hussey,Abdur Razzak,SPD Smith,,0,1,1,,,,312423124
+1,Australia,14,SPD Smith,Abdur Razzak,MEK Hussey,,0,0,0,,,,312423124
+1,Australia,14,SPD Smith,Abdur Razzak,MEK Hussey,,0,0,0,,,,312423124
+1,Australia,15,MEK Hussey,Shafiul Islam,SPD Smith,,0,2,2,,,,312423124
+1,Australia,15,MEK Hussey,Shafiul Islam,SPD Smith,,0,0,0,,,,312423124
+1,Australia,15,MEK Hussey,Shafiul Islam,SPD Smith,,0,1,1,,,,312423124
+1,Australia,15,SPD Smith,Shafiul Islam,MEK Hussey,,0,1,1,,,,312423124
+1,Australia,15,MEK Hussey,Shafiul Islam,SPD Smith,,0,1,1,,,,312423124
+1,Australia,15,SPD Smith,Shafiul Islam,MEK Hussey,,0,2,2,,,,312423124
+1,Australia,16,MEK Hussey,Mashrafe Mortaza,SPD Smith,,0,6,6,,,,312423124
+1,Australia,16,MEK Hussey,Mashrafe Mortaza,SPD Smith,,0,1,1,,,,312423124
+1,Australia,16,SPD Smith,Mashrafe Mortaza,MEK Hussey,,0,1,1,,,,312423124
+1,Australia,16,MEK Hussey,Mashrafe Mortaza,SPD Smith,,0,4,4,,,,312423124
+1,Australia,16,MEK Hussey,Mashrafe Mortaza,SPD Smith,,0,4,4,,,,312423124
+1,Australia,16,MEK Hussey,Mashrafe Mortaza,SPD Smith,,0,1,1,,,,312423124
+1,Australia,17,MEK Hussey,Shakib Al Hasan,SPD Smith,,0,4,4,,,,312423124
+1,Australia,17,MEK Hussey,Shakib Al Hasan,SPD Smith,,0,1,1,,,,312423124
+1,Australia,17,SPD Smith,Shakib Al Hasan,MEK Hussey,,0,4,4,,,,312423124
+1,Australia,17,SPD Smith,Shakib Al Hasan,MEK Hussey,,0,1,1,,,,312423124
+1,Australia,17,MEK Hussey,Shakib Al Hasan,SPD Smith,,0,1,1,,,,312423124
+1,Australia,17,SPD Smith,Shakib Al Hasan,MEK Hussey,byes,1,1,0,,,,312423124
+1,Australia,18,SPD Smith,Abdur Razzak,MEK Hussey,,0,6,6,,,,312423124
+1,Australia,18,SPD Smith,Abdur Razzak,MEK Hussey,,0,1,1,,,,312423124
+1,Australia,18,MEK Hussey,Abdur Razzak,SPD Smith,,0,1,1,,,,312423124
+1,Australia,18,SPD Smith,Abdur Razzak,MEK Hussey,,0,6,6,,,,312423124
+1,Australia,18,SPD Smith,Abdur Razzak,MEK Hussey,,0,0,0,,,,312423124
+1,Australia,18,SPD Smith,Abdur Razzak,MEK Hussey,,0,0,0,,,,312423124
+1,Australia,19,MEK Hussey,Shafiul Islam,SPD Smith,,0,1,1,,,,312423124
+1,Australia,19,SPD Smith,Shafiul Islam,MEK Hussey,,0,1,1,,,,312423124
+1,Australia,19,MEK Hussey,Shafiul Islam,SPD Smith,,0,1,1,,,,312423124
+1,Australia,19,SPD Smith,Shafiul Islam,MEK Hussey,,0,1,1,,,,312423124
+1,Australia,19,MEK Hussey,Shafiul Islam,SPD Smith,,0,2,2,,,,312423124
+1,Australia,19,MEK Hussey,Shafiul Islam,SPD Smith,wides,1,1,0,run out,SPD Smith,Mushfiqur Rahim,312423124
+1,Australia,19,RJ Harris,Shafiul Islam,MEK Hussey,,0,2,2,,,,312423124

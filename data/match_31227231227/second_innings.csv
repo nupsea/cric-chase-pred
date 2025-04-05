@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,China,0,Sun Meng Yao,M Wai Siu,Zhang Mei,,0,0,0,,,,31227231227
+2,China,0,Sun Meng Yao,M Wai Siu,Zhang Mei,wides,1,1,0,,,,31227231227
+2,China,0,Sun Meng Yao,M Wai Siu,Zhang Mei,,0,2,2,,,,31227231227
+2,China,0,Sun Meng Yao,M Wai Siu,Zhang Mei,,0,0,0,,,,31227231227
+2,China,0,Sun Meng Yao,M Wai Siu,Zhang Mei,,0,2,2,,,,31227231227
+2,China,0,Sun Meng Yao,M Wai Siu,Zhang Mei,,0,0,0,,,,31227231227
+2,China,0,Sun Meng Yao,M Wai Siu,Zhang Mei,,0,0,0,,,,31227231227
+2,China,1,Zhang Mei,M Hill,Sun Meng Yao,,0,2,2,,,,31227231227
+2,China,1,Zhang Mei,M Hill,Sun Meng Yao,,0,2,2,,,,31227231227
+2,China,1,Zhang Mei,M Hill,Sun Meng Yao,,0,0,0,,,,31227231227
+2,China,1,Zhang Mei,M Hill,Sun Meng Yao,,0,0,0,,,,31227231227
+2,China,1,Zhang Mei,M Hill,Sun Meng Yao,,0,0,0,,,,31227231227
+2,China,1,Zhang Mei,M Hill,Sun Meng Yao,,0,1,1,,,,31227231227
+2,China,2,Zhang Mei,M Wai Siu,Sun Meng Yao,wides,1,1,0,,,,31227231227
+2,China,2,Zhang Mei,M Wai Siu,Sun Meng Yao,,0,1,1,,,,31227231227
+2,China,2,Sun Meng Yao,M Wai Siu,Zhang Mei,,0,0,0,,,,31227231227
+2,China,2,Sun Meng Yao,M Wai Siu,Zhang Mei,,0,0,0,lbw,Sun Meng Yao,,31227231227
+2,China,2,Zhang Chan,M Wai Siu,Zhang Mei,,0,1,1,,,,31227231227
+2,China,2,Zhang Mei,M Wai Siu,Zhang Chan,wides,2,2,0,,,,31227231227
+2,China,2,Zhang Chan,M Wai Siu,Zhang Mei,,0,2,2,,,,31227231227
+2,China,2,Zhang Chan,M Wai Siu,Zhang Mei,,0,0,0,,,,31227231227
+2,China,3,Zhang Mei,M Hill,Zhang Chan,,0,0,0,bowled,Zhang Mei,,31227231227
+2,China,3,C Zhou,M Hill,Zhang Chan,,0,0,0,,,,31227231227
+2,China,3,C Zhou,M Hill,Zhang Chan,,0,0,0,,,,31227231227
+2,China,3,C Zhou,M Hill,Zhang Chan,,0,0,0,,,,31227231227
+2,China,3,C Zhou,M Hill,Zhang Chan,,0,2,2,,,,31227231227
+2,China,3,C Zhou,M Hill,Zhang Chan,,0,1,1,,,,31227231227
+2,China,4,C Zhou,KY Chan,Zhang Chan,,0,2,2,,,,31227231227
+2,China,4,C Zhou,KY Chan,Zhang Chan,,0,1,1,,,,31227231227
+2,China,4,Zhang Chan,KY Chan,C Zhou,,0,0,0,,,,31227231227
+2,China,4,Zhang Chan,KY Chan,C Zhou,,0,0,0,caught,Zhang Chan,YS To,31227231227
+2,China,4,C Zhou,KY Chan,Huang Zhuo,,0,2,2,,,,31227231227
+2,China,4,C Zhou,KY Chan,Huang Zhuo,,0,0,0,bowled,C Zhou,,31227231227
+2,China,5,Huang Zhuo,Chan Ka Man,F Song,,0,0,0,,,,31227231227
+2,China,5,Huang Zhuo,Chan Ka Man,F Song,,0,1,1,,,,31227231227
+2,China,5,F Song,Chan Ka Man,Huang Zhuo,,0,0,0,,,,31227231227
+2,China,5,F Song,Chan Ka Man,Huang Zhuo,,0,0,0,,,,31227231227
+2,China,5,F Song,Chan Ka Man,Huang Zhuo,,0,2,2,,,,31227231227
+2,China,5,F Song,Chan Ka Man,Huang Zhuo,,0,0,0,,,,31227231227
+2,China,6,Huang Zhuo,KY Chan,F Song,,0,0,0,,,,31227231227
+2,China,6,Huang Zhuo,KY Chan,F Song,,0,0,0,,,,31227231227
+2,China,6,Huang Zhuo,KY Chan,F Song,,0,0,0,,,,31227231227
+2,China,6,Huang Zhuo,KY Chan,F Song,,0,0,0,,,,31227231227
+2,China,6,Huang Zhuo,KY Chan,F Song,,0,0,0,,,,31227231227
+2,China,6,Huang Zhuo,KY Chan,F Song,,0,1,1,,,,31227231227
+2,China,7,Huang Zhuo,Chan Ka Man,F Song,,0,1,1,,,,31227231227
+2,China,7,F Song,Chan Ka Man,Huang Zhuo,,0,1,1,,,,31227231227
+2,China,7,Huang Zhuo,Chan Ka Man,F Song,,0,0,0,,,,31227231227
+2,China,7,Huang Zhuo,Chan Ka Man,F Song,,0,4,4,,,,31227231227
+2,China,7,Huang Zhuo,Chan Ka Man,F Song,,0,0,0,,,,31227231227
+2,China,7,Huang Zhuo,Chan Ka Man,F Song,,0,0,0,,,,31227231227
+2,China,8,F Song,KY Chan,Huang Zhuo,,0,0,0,,,,31227231227
+2,China,8,F Song,KY Chan,Huang Zhuo,,0,0,0,,,,31227231227
+2,China,8,F Song,KY Chan,Huang Zhuo,,0,0,0,,,,31227231227
+2,China,8,F Song,KY Chan,Huang Zhuo,,0,0,0,,,,31227231227
+2,China,8,F Song,KY Chan,Huang Zhuo,,0,0,0,,,,31227231227
+2,China,8,F Song,KY Chan,Huang Zhuo,,0,0,0,,,,31227231227
+2,China,9,Huang Zhuo,YS To,F Song,,0,0,0,,,,31227231227
+2,China,9,Huang Zhuo,YS To,F Song,,0,0,0,,,,31227231227
+2,China,9,Huang Zhuo,YS To,F Song,,0,1,1,,,,31227231227
+2,China,9,F Song,YS To,Huang Zhuo,,0,2,2,,,,31227231227
+2,China,9,F Song,YS To,Huang Zhuo,,0,1,1,,,,31227231227
+2,China,9,Huang Zhuo,YS To,F Song,,0,1,1,,,,31227231227
+2,China,10,Huang Zhuo,Ruchitha Venkatesh,F Song,wides,2,2,0,,,,31227231227
+2,China,10,F Song,Ruchitha Venkatesh,Huang Zhuo,,0,0,0,,,,31227231227
+2,China,10,F Song,Ruchitha Venkatesh,Huang Zhuo,,0,0,0,,,,31227231227
+2,China,10,F Song,Ruchitha Venkatesh,Huang Zhuo,,0,4,4,,,,31227231227
+2,China,10,F Song,Ruchitha Venkatesh,Huang Zhuo,,0,1,1,,,,31227231227
+2,China,10,Huang Zhuo,Ruchitha Venkatesh,F Song,,0,0,0,,,,31227231227
+2,China,10,Huang Zhuo,Ruchitha Venkatesh,F Song,,0,0,0,,,,31227231227
+2,China,11,F Song,YS To,Huang Zhuo,,0,0,0,,,,31227231227
+2,China,11,F Song,YS To,Huang Zhuo,,0,1,1,,,,31227231227
+2,China,11,Huang Zhuo,YS To,F Song,,0,1,1,,,,31227231227
+2,China,11,F Song,YS To,Huang Zhuo,,0,1,1,,,,31227231227
+2,China,11,Huang Zhuo,YS To,F Song,,0,1,1,,,,31227231227
+2,China,11,F Song,YS To,Huang Zhuo,,0,0,0,,,,31227231227
+2,China,12,Huang Zhuo,Ruchitha Venkatesh,F Song,,0,0,0,,,,31227231227
+2,China,12,Huang Zhuo,Ruchitha Venkatesh,F Song,,0,0,0,,,,31227231227
+2,China,12,Huang Zhuo,Ruchitha Venkatesh,F Song,,0,1,1,,,,31227231227
+2,China,12,F Song,Ruchitha Venkatesh,Huang Zhuo,,0,2,2,,,,31227231227
+2,China,12,F Song,Ruchitha Venkatesh,Huang Zhuo,,0,0,0,,,,31227231227
+2,China,12,F Song,Ruchitha Venkatesh,Huang Zhuo,,0,1,1,,,,31227231227
+2,China,13,F Song,M Hill,Huang Zhuo,,0,2,2,,,,31227231227
+2,China,13,F Song,M Hill,Huang Zhuo,,0,1,1,,,,31227231227
+2,China,13,Huang Zhuo,M Hill,F Song,,0,1,1,,,,31227231227
+2,China,13,F Song,M Hill,Huang Zhuo,,0,0,0,,,,31227231227
+2,China,13,F Song,M Hill,Huang Zhuo,,0,0,0,,,,31227231227
+2,China,13,F Song,M Hill,Huang Zhuo,,0,1,1,,,,31227231227
+2,China,14,F Song,Chan Ka Man,Huang Zhuo,,0,0,0,caught,F Song,Shanzeen Shahzad,31227231227
+2,China,14,Huang Zhuo,Chan Ka Man,Han Lili,,0,0,0,,,,31227231227
+2,China,14,Huang Zhuo,Chan Ka Man,Han Lili,,0,0,0,,,,31227231227
+2,China,14,Huang Zhuo,Chan Ka Man,Han Lili,wides,1,1,0,,,,31227231227
+2,China,14,Huang Zhuo,Chan Ka Man,Han Lili,,0,1,1,,,,31227231227
+2,China,14,Han Lili,Chan Ka Man,Huang Zhuo,,0,1,1,,,,31227231227
+2,China,14,Huang Zhuo,Chan Ka Man,Han Lili,,0,1,1,,,,31227231227
+2,China,15,Huang Zhuo,YS To,Han Lili,,0,1,1,,,,31227231227
+2,China,15,Han Lili,YS To,Huang Zhuo,,0,1,1,,,,31227231227
+2,China,15,Huang Zhuo,YS To,Han Lili,,0,1,1,,,,31227231227
+2,China,15,Han Lili,YS To,Huang Zhuo,,0,1,1,run out,Han Lili,,31227231227
+2,China,15,L Jie,YS To,Huang Zhuo,,0,0,0,,,,31227231227
+2,China,15,L Jie,YS To,Huang Zhuo,,0,1,1,,,,31227231227
+2,China,16,L Jie,Chan Ka Man,Huang Zhuo,,0,0,0,,,,31227231227
+2,China,16,L Jie,Chan Ka Man,Huang Zhuo,,0,0,0,,,,31227231227
+2,China,16,L Jie,Chan Ka Man,Huang Zhuo,,0,0,0,,,,31227231227
+2,China,16,L Jie,Chan Ka Man,Huang Zhuo,,0,0,0,bowled,L Jie,,31227231227
+2,China,16,Wu Juan,Chan Ka Man,Huang Zhuo,,0,0,0,,,,31227231227
+2,China,16,Wu Juan,Chan Ka Man,Huang Zhuo,,0,0,0,,,,31227231227
+2,China,17,Huang Zhuo,YS To,Wu Juan,,0,1,1,,,,31227231227
+2,China,17,Wu Juan,YS To,Huang Zhuo,,0,0,0,,,,31227231227
+2,China,17,Wu Juan,YS To,Huang Zhuo,,0,1,1,,,,31227231227
+2,China,17,Huang Zhuo,YS To,Wu Juan,,0,1,1,,,,31227231227
+2,China,17,Wu Juan,YS To,Huang Zhuo,wides,1,1,0,,,,31227231227
+2,China,17,Wu Juan,YS To,Huang Zhuo,,0,0,0,,,,31227231227
+2,China,17,Wu Juan,YS To,Huang Zhuo,,0,1,1,,,,31227231227
+2,China,18,Wu Juan,M Hill,Huang Zhuo,,0,0,0,,,,31227231227
+2,China,18,Wu Juan,M Hill,Huang Zhuo,,0,0,0,,,,31227231227
+2,China,18,Wu Juan,M Hill,Huang Zhuo,,0,1,1,,,,31227231227
+2,China,18,Huang Zhuo,M Hill,Wu Juan,,0,1,1,,,,31227231227
+2,China,18,Wu Juan,M Hill,Huang Zhuo,,0,1,1,,,,31227231227
+2,China,18,Huang Zhuo,M Hill,Wu Juan,,0,1,1,,,,31227231227
+2,China,19,Huang Zhuo,KY Chan,Wu Juan,wides,1,1,0,,,,31227231227
+2,China,19,Huang Zhuo,KY Chan,Wu Juan,,0,0,0,caught,Huang Zhuo,M Hill,31227231227
+2,China,19,Wu Juan,KY Chan,Wang Meng,,0,0,0,bowled,Wu Juan,,31227231227
+2,China,19,LI Haoye,KY Chan,Wang Meng,,0,0,0,lbw,LI Haoye,,31227231227

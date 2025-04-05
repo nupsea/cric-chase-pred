@@ -1,0 +1,93 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Bulgaria,0,Bakhtiar Tahiri,P Masih,P Mishra,wides,1,1,0,,,,31440231440
+1,Bulgaria,0,Bakhtiar Tahiri,P Masih,P Mishra,,0,4,4,,,,31440231440
+1,Bulgaria,0,Bakhtiar Tahiri,P Masih,P Mishra,,0,0,0,,,,31440231440
+1,Bulgaria,0,Bakhtiar Tahiri,P Masih,P Mishra,,0,0,0,,,,31440231440
+1,Bulgaria,0,Bakhtiar Tahiri,P Masih,P Mishra,,0,0,0,,,,31440231440
+1,Bulgaria,0,Bakhtiar Tahiri,P Masih,P Mishra,,0,0,0,,,,31440231440
+1,Bulgaria,0,Bakhtiar Tahiri,P Masih,P Mishra,,0,1,1,,,,31440231440
+1,Bulgaria,1,Bakhtiar Tahiri,S Vashisht,P Mishra,,0,0,0,,,,31440231440
+1,Bulgaria,1,Bakhtiar Tahiri,S Vashisht,P Mishra,,0,0,0,,,,31440231440
+1,Bulgaria,1,Bakhtiar Tahiri,S Vashisht,P Mishra,,0,0,0,,,,31440231440
+1,Bulgaria,1,Bakhtiar Tahiri,S Vashisht,P Mishra,,0,0,0,,,,31440231440
+1,Bulgaria,1,Bakhtiar Tahiri,S Vashisht,P Mishra,,0,1,1,,,,31440231440
+1,Bulgaria,1,P Mishra,S Vashisht,Bakhtiar Tahiri,,0,4,4,,,,31440231440
+1,Bulgaria,2,Bakhtiar Tahiri,P Masih,P Mishra,,0,0,0,,,,31440231440
+1,Bulgaria,2,Bakhtiar Tahiri,P Masih,P Mishra,,0,1,1,,,,31440231440
+1,Bulgaria,2,P Mishra,P Masih,Bakhtiar Tahiri,,0,2,2,,,,31440231440
+1,Bulgaria,2,P Mishra,P Masih,Bakhtiar Tahiri,,0,1,1,,,,31440231440
+1,Bulgaria,2,Bakhtiar Tahiri,P Masih,P Mishra,,0,0,0,,,,31440231440
+1,Bulgaria,2,Bakhtiar Tahiri,P Masih,P Mishra,,0,0,0,bowled,Bakhtiar Tahiri,,31440231440
+1,Bulgaria,3,P Mishra,S Vashisht,K Dasan,,0,0,0,bowled,P Mishra,,31440231440
+1,Bulgaria,3,Sulaiman Ali,S Vashisht,K Dasan,,0,0,0,,,,31440231440
+1,Bulgaria,3,Sulaiman Ali,S Vashisht,K Dasan,,0,0,0,,,,31440231440
+1,Bulgaria,3,Sulaiman Ali,S Vashisht,K Dasan,,0,0,0,,,,31440231440
+1,Bulgaria,3,Sulaiman Ali,S Vashisht,K Dasan,,0,0,0,,,,31440231440
+1,Bulgaria,3,Sulaiman Ali,S Vashisht,K Dasan,,0,0,0,,,,31440231440
+1,Bulgaria,4,K Dasan,P Masih,Sulaiman Ali,,0,1,1,,,,31440231440
+1,Bulgaria,4,Sulaiman Ali,P Masih,K Dasan,,0,2,2,,,,31440231440
+1,Bulgaria,4,Sulaiman Ali,P Masih,K Dasan,,0,2,2,,,,31440231440
+1,Bulgaria,4,Sulaiman Ali,P Masih,K Dasan,,0,0,0,,,,31440231440
+1,Bulgaria,4,Sulaiman Ali,P Masih,K Dasan,,0,0,0,,,,31440231440
+1,Bulgaria,4,Sulaiman Ali,P Masih,K Dasan,,0,0,0,,,,31440231440
+1,Bulgaria,5,K Dasan,S Vashisht,Sulaiman Ali,,0,0,0,,,,31440231440
+1,Bulgaria,5,K Dasan,S Vashisht,Sulaiman Ali,,0,1,1,,,,31440231440
+1,Bulgaria,5,Sulaiman Ali,S Vashisht,K Dasan,,0,0,0,caught,Sulaiman Ali,S Periyalwar,31440231440
+1,Bulgaria,5,K Dasan,S Vashisht,KC D'Souza,,0,0,0,,,,31440231440
+1,Bulgaria,5,K Dasan,S Vashisht,KC D'Souza,,0,0,0,caught and bowled,K Dasan,,31440231440
+1,Bulgaria,5,Asad Ali Rehemtulla,S Vashisht,KC D'Souza,,0,0,0,,,,31440231440
+1,Bulgaria,6,KC D'Souza,P Masih,Asad Ali Rehemtulla,,0,0,0,,,,31440231440
+1,Bulgaria,6,KC D'Souza,P Masih,Asad Ali Rehemtulla,,0,0,0,,,,31440231440
+1,Bulgaria,6,KC D'Souza,P Masih,Asad Ali Rehemtulla,,0,1,1,,,,31440231440
+1,Bulgaria,6,Asad Ali Rehemtulla,P Masih,KC D'Souza,,0,1,1,,,,31440231440
+1,Bulgaria,6,KC D'Souza,P Masih,Asad Ali Rehemtulla,,0,1,1,,,,31440231440
+1,Bulgaria,6,Asad Ali Rehemtulla,P Masih,KC D'Souza,,0,0,0,caught,Asad Ali Rehemtulla,V Saini,31440231440
+1,Bulgaria,7,KC D'Souza,S Vashisht,A Ahmadhel,,0,0,0,,,,31440231440
+1,Bulgaria,7,KC D'Souza,S Vashisht,A Ahmadhel,,0,1,1,,,,31440231440
+1,Bulgaria,7,A Ahmadhel,S Vashisht,KC D'Souza,legbyes,1,1,0,,,,31440231440
+1,Bulgaria,7,KC D'Souza,S Vashisht,A Ahmadhel,,0,0,0,,,,31440231440
+1,Bulgaria,7,KC D'Souza,S Vashisht,A Ahmadhel,,0,0,0,,,,31440231440
+1,Bulgaria,7,KC D'Souza,S Vashisht,A Ahmadhel,,0,4,4,,,,31440231440
+1,Bulgaria,8,A Ahmadhel,V Saini,KC D'Souza,,0,2,2,,,,31440231440
+1,Bulgaria,8,A Ahmadhel,V Saini,KC D'Souza,,0,0,0,,,,31440231440
+1,Bulgaria,8,A Ahmadhel,V Saini,KC D'Souza,,0,0,0,,,,31440231440
+1,Bulgaria,8,A Ahmadhel,V Saini,KC D'Souza,wides,1,1,0,,,,31440231440
+1,Bulgaria,8,A Ahmadhel,V Saini,KC D'Souza,,0,0,0,,,,31440231440
+1,Bulgaria,8,A Ahmadhel,V Saini,KC D'Souza,,0,0,0,,,,31440231440
+1,Bulgaria,8,A Ahmadhel,V Saini,KC D'Souza,,0,0,0,caught and bowled,A Ahmadhel,,31440231440
+1,Bulgaria,9,KC D'Souza,Ijaz Hussain,H Ivanov,,0,2,2,,,,31440231440
+1,Bulgaria,9,KC D'Souza,Ijaz Hussain,H Ivanov,,0,2,2,,,,31440231440
+1,Bulgaria,9,KC D'Souza,Ijaz Hussain,H Ivanov,legbyes,2,2,0,,,,31440231440
+1,Bulgaria,9,KC D'Souza,Ijaz Hussain,H Ivanov,,0,0,0,,,,31440231440
+1,Bulgaria,9,KC D'Souza,Ijaz Hussain,H Ivanov,,0,0,0,,,,31440231440
+1,Bulgaria,9,KC D'Souza,Ijaz Hussain,H Ivanov,,0,0,0,lbw,KC D'Souza,,31440231440
+1,Bulgaria,10,H Ivanov,V Saini,D Nikolov,,0,0,0,,,,31440231440
+1,Bulgaria,10,H Ivanov,V Saini,D Nikolov,,0,2,2,,,,31440231440
+1,Bulgaria,10,H Ivanov,V Saini,D Nikolov,,0,1,1,,,,31440231440
+1,Bulgaria,10,D Nikolov,V Saini,H Ivanov,,0,0,0,,,,31440231440
+1,Bulgaria,10,D Nikolov,V Saini,H Ivanov,,0,0,0,,,,31440231440
+1,Bulgaria,10,D Nikolov,V Saini,H Ivanov,,0,0,0,,,,31440231440
+1,Bulgaria,11,H Ivanov,Ijaz Hussain,D Nikolov,,0,1,1,,,,31440231440
+1,Bulgaria,11,D Nikolov,Ijaz Hussain,H Ivanov,wides,1,1,0,,,,31440231440
+1,Bulgaria,11,D Nikolov,Ijaz Hussain,H Ivanov,,0,0,0,,,,31440231440
+1,Bulgaria,11,D Nikolov,Ijaz Hussain,H Ivanov,,0,1,1,,,,31440231440
+1,Bulgaria,11,H Ivanov,Ijaz Hussain,D Nikolov,,0,0,0,,,,31440231440
+1,Bulgaria,11,H Ivanov,Ijaz Hussain,D Nikolov,,0,0,0,,,,31440231440
+1,Bulgaria,11,H Ivanov,Ijaz Hussain,D Nikolov,,0,0,0,,,,31440231440
+1,Bulgaria,12,D Nikolov,V Saini,H Ivanov,,0,0,0,bowled,D Nikolov,,31440231440
+1,Bulgaria,12,N Nankov,V Saini,H Ivanov,wides,1,1,0,,,,31440231440
+1,Bulgaria,12,N Nankov,V Saini,H Ivanov,,0,0,0,,,,31440231440
+1,Bulgaria,12,N Nankov,V Saini,H Ivanov,,0,0,0,,,,31440231440
+1,Bulgaria,12,N Nankov,V Saini,H Ivanov,,0,0,0,,,,31440231440
+1,Bulgaria,12,N Nankov,V Saini,H Ivanov,,0,1,1,,,,31440231440
+1,Bulgaria,12,H Ivanov,V Saini,N Nankov,,0,0,0,,,,31440231440
+1,Bulgaria,13,N Nankov,P Florin,H Ivanov,,0,0,0,caught,N Nankov,R Satheesan,31440231440
+1,Bulgaria,13,Rohan Bhavesh Patel,P Florin,H Ivanov,,0,1,1,,,,31440231440
+1,Bulgaria,13,H Ivanov,P Florin,Rohan Bhavesh Patel,,0,0,0,,,,31440231440
+1,Bulgaria,13,H Ivanov,P Florin,Rohan Bhavesh Patel,,0,1,1,,,,31440231440
+1,Bulgaria,13,Rohan Bhavesh Patel,P Florin,H Ivanov,,0,1,1,,,,31440231440
+1,Bulgaria,13,H Ivanov,P Florin,Rohan Bhavesh Patel,wides,1,1,0,,,,31440231440
+1,Bulgaria,13,H Ivanov,P Florin,Rohan Bhavesh Patel,,0,4,4,,,,31440231440
+1,Bulgaria,14,Rohan Bhavesh Patel,C Zavoiu,H Ivanov,,0,1,1,,,,31440231440
+1,Bulgaria,14,H Ivanov,C Zavoiu,Rohan Bhavesh Patel,,0,4,4,,,,31440231440
+1,Bulgaria,14,H Ivanov,C Zavoiu,Rohan Bhavesh Patel,,0,0,0,caught,H Ivanov,R Satheesan,31440231440

@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,West Indies,0,ADS Fletcher,Mohammad Hafeez,E Lewis,,0,0,0,,,,31525231525
+2,West Indies,0,ADS Fletcher,Mohammad Hafeez,E Lewis,,0,0,0,bowled,ADS Fletcher,,31525231525
+2,West Indies,0,CH Gayle,Mohammad Hafeez,E Lewis,,0,0,0,,,,31525231525
+2,West Indies,0,CH Gayle,Mohammad Hafeez,E Lewis,,0,1,1,,,,31525231525
+2,West Indies,0,E Lewis,Mohammad Hafeez,CH Gayle,,0,0,0,,,,31525231525
+2,West Indies,0,E Lewis,Mohammad Hafeez,CH Gayle,,0,2,2,,,,31525231525
+2,West Indies,1,CH Gayle,Shaheen Shah Afridi,E Lewis,,0,2,2,,,,31525231525
+2,West Indies,1,CH Gayle,Shaheen Shah Afridi,E Lewis,,0,0,0,,,,31525231525
+2,West Indies,1,CH Gayle,Shaheen Shah Afridi,E Lewis,,0,0,0,,,,31525231525
+2,West Indies,1,CH Gayle,Shaheen Shah Afridi,E Lewis,,0,2,2,,,,31525231525
+2,West Indies,1,CH Gayle,Shaheen Shah Afridi,E Lewis,legbyes,1,1,0,,,,31525231525
+2,West Indies,1,E Lewis,Shaheen Shah Afridi,CH Gayle,,0,4,4,,,,31525231525
+2,West Indies,2,CH Gayle,Mohammad Hafeez,E Lewis,,0,0,0,,,,31525231525
+2,West Indies,2,CH Gayle,Mohammad Hafeez,E Lewis,,0,0,0,,,,31525231525
+2,West Indies,2,CH Gayle,Mohammad Hafeez,E Lewis,,0,0,0,,,,31525231525
+2,West Indies,2,CH Gayle,Mohammad Hafeez,E Lewis,,0,1,1,,,,31525231525
+2,West Indies,2,E Lewis,Mohammad Hafeez,CH Gayle,,0,1,1,,,,31525231525
+2,West Indies,2,CH Gayle,Mohammad Hafeez,E Lewis,,0,0,0,,,,31525231525
+2,West Indies,3,E Lewis,Shaheen Shah Afridi,CH Gayle,,0,4,4,,,,31525231525
+2,West Indies,3,E Lewis,Shaheen Shah Afridi,CH Gayle,,0,1,1,,,,31525231525
+2,West Indies,3,CH Gayle,Shaheen Shah Afridi,E Lewis,,0,2,2,,,,31525231525
+2,West Indies,3,CH Gayle,Shaheen Shah Afridi,E Lewis,,0,0,0,,,,31525231525
+2,West Indies,3,CH Gayle,Shaheen Shah Afridi,E Lewis,,0,6,6,,,,31525231525
+2,West Indies,3,CH Gayle,Shaheen Shah Afridi,E Lewis,,0,0,0,,,,31525231525
+2,West Indies,4,E Lewis,Mohammad Hafeez,CH Gayle,,0,0,0,,,,31525231525
+2,West Indies,4,E Lewis,Mohammad Hafeez,CH Gayle,,0,0,0,,,,31525231525
+2,West Indies,4,E Lewis,Mohammad Hafeez,CH Gayle,,0,0,0,,,,31525231525
+2,West Indies,4,E Lewis,Mohammad Hafeez,CH Gayle,,0,0,0,,,,31525231525
+2,West Indies,4,E Lewis,Mohammad Hafeez,CH Gayle,,0,0,0,,,,31525231525
+2,West Indies,4,E Lewis,Mohammad Hafeez,CH Gayle,,0,0,0,,,,31525231525
+2,West Indies,5,CH Gayle,Hasan Ali,E Lewis,,0,1,1,,,,31525231525
+2,West Indies,5,E Lewis,Hasan Ali,CH Gayle,legbyes,1,1,0,,,,31525231525
+2,West Indies,5,CH Gayle,Hasan Ali,E Lewis,,0,0,0,,,,31525231525
+2,West Indies,5,CH Gayle,Hasan Ali,E Lewis,,0,1,1,,,,31525231525
+2,West Indies,5,E Lewis,Hasan Ali,CH Gayle,,0,1,1,,,,31525231525
+2,West Indies,5,CH Gayle,Hasan Ali,E Lewis,,0,0,0,bowled,CH Gayle,,31525231525
+2,West Indies,6,E Lewis,Shadab Khan,SO Hetmyer,,0,0,0,,,,31525231525
+2,West Indies,6,E Lewis,Shadab Khan,SO Hetmyer,,0,0,0,,,,31525231525
+2,West Indies,6,E Lewis,Shadab Khan,SO Hetmyer,legbyes,1,1,0,,,,31525231525
+2,West Indies,6,SO Hetmyer,Shadab Khan,E Lewis,,0,1,1,,,,31525231525
+2,West Indies,6,E Lewis,Shadab Khan,SO Hetmyer,,0,1,1,,,,31525231525
+2,West Indies,6,SO Hetmyer,Shadab Khan,E Lewis,,0,1,1,,,,31525231525
+2,West Indies,7,SO Hetmyer,Usman Qadir,E Lewis,,0,1,1,,,,31525231525
+2,West Indies,7,E Lewis,Usman Qadir,SO Hetmyer,,0,1,1,,,,31525231525
+2,West Indies,7,SO Hetmyer,Usman Qadir,E Lewis,,0,1,1,,,,31525231525
+2,West Indies,7,E Lewis,Usman Qadir,SO Hetmyer,,0,6,6,,,,31525231525
+2,West Indies,7,E Lewis,Usman Qadir,SO Hetmyer,,0,0,0,,,,31525231525
+2,West Indies,7,E Lewis,Usman Qadir,SO Hetmyer,wides,1,1,0,,,,31525231525
+2,West Indies,7,E Lewis,Usman Qadir,SO Hetmyer,,0,1,1,,,,31525231525
+2,West Indies,8,E Lewis,Shadab Khan,SO Hetmyer,,0,1,1,,,,31525231525
+2,West Indies,8,SO Hetmyer,Shadab Khan,E Lewis,,0,0,0,,,,31525231525
+2,West Indies,8,SO Hetmyer,Shadab Khan,E Lewis,,0,1,1,,,,31525231525
+2,West Indies,8,E Lewis,Shadab Khan,SO Hetmyer,,0,0,0,,,,31525231525
+2,West Indies,8,E Lewis,Shadab Khan,SO Hetmyer,,0,1,1,,,,31525231525
+2,West Indies,8,SO Hetmyer,Shadab Khan,E Lewis,,0,1,1,,,,31525231525
+2,West Indies,9,SO Hetmyer,Mohammad Wasim,E Lewis,,0,1,1,,,,31525231525
+2,West Indies,9,E Lewis,Mohammad Wasim,SO Hetmyer,,0,0,0,,,,31525231525
+2,West Indies,9,E Lewis,Mohammad Wasim,SO Hetmyer,,0,6,6,,,,31525231525
+2,West Indies,9,E Lewis,Mohammad Wasim,SO Hetmyer,,0,0,0,,,,31525231525
+2,West Indies,9,E Lewis,Mohammad Wasim,SO Hetmyer,,0,1,1,,,,31525231525
+2,West Indies,9,SO Hetmyer,Mohammad Wasim,E Lewis,,0,1,1,,,,31525231525
+2,West Indies,10,SO Hetmyer,Shadab Khan,E Lewis,,0,1,1,,,,31525231525
+2,West Indies,10,E Lewis,Shadab Khan,SO Hetmyer,,0,1,1,,,,31525231525
+2,West Indies,10,SO Hetmyer,Shadab Khan,E Lewis,,0,0,0,,,,31525231525
+2,West Indies,10,SO Hetmyer,Shadab Khan,E Lewis,,0,4,4,,,,31525231525
+2,West Indies,10,SO Hetmyer,Shadab Khan,E Lewis,,0,0,0,,,,31525231525
+2,West Indies,10,SO Hetmyer,Shadab Khan,E Lewis,,0,1,1,,,,31525231525
+2,West Indies,11,SO Hetmyer,Mohammad Wasim,E Lewis,,0,2,2,,,,31525231525
+2,West Indies,11,SO Hetmyer,Mohammad Wasim,E Lewis,,0,0,0,,,,31525231525
+2,West Indies,11,SO Hetmyer,Mohammad Wasim,E Lewis,,0,1,1,,,,31525231525
+2,West Indies,11,E Lewis,Mohammad Wasim,SO Hetmyer,,0,1,1,,,,31525231525
+2,West Indies,11,SO Hetmyer,Mohammad Wasim,E Lewis,,0,0,0,bowled,SO Hetmyer,,31525231525
+2,West Indies,11,N Pooran,Mohammad Wasim,E Lewis,,0,1,1,,,,31525231525
+2,West Indies,12,N Pooran,Mohammad Hafeez,E Lewis,,0,0,0,,,,31525231525
+2,West Indies,12,N Pooran,Mohammad Hafeez,E Lewis,,0,0,0,,,,31525231525
+2,West Indies,12,N Pooran,Mohammad Hafeez,E Lewis,,0,0,0,,,,31525231525
+2,West Indies,12,N Pooran,Mohammad Hafeez,E Lewis,,0,0,0,,,,31525231525
+2,West Indies,12,N Pooran,Mohammad Hafeez,E Lewis,,0,0,0,,,,31525231525
+2,West Indies,12,N Pooran,Mohammad Hafeez,E Lewis,,0,1,1,,,,31525231525
+2,West Indies,13,N Pooran,Hasan Ali,E Lewis,,0,1,1,,,,31525231525
+2,West Indies,13,E Lewis,Hasan Ali,N Pooran,,0,1,1,,,,31525231525
+2,West Indies,13,N Pooran,Hasan Ali,E Lewis,,0,0,0,,,,31525231525
+2,West Indies,13,N Pooran,Hasan Ali,E Lewis,,0,0,0,,,,31525231525
+2,West Indies,13,N Pooran,Hasan Ali,E Lewis,,0,1,1,,,,31525231525
+2,West Indies,13,E Lewis,Hasan Ali,N Pooran,,0,1,1,retired hurt,E Lewis,,31525231525
+2,West Indies,14,KA Pollard,Shadab Khan,N Pooran,wides,1,1,0,,,,31525231525
+2,West Indies,14,KA Pollard,Shadab Khan,N Pooran,,0,1,1,,,,31525231525
+2,West Indies,14,N Pooran,Shadab Khan,KA Pollard,,0,1,1,,,,31525231525
+2,West Indies,14,KA Pollard,Shadab Khan,N Pooran,,0,2,2,,,,31525231525
+2,West Indies,14,KA Pollard,Shadab Khan,N Pooran,,0,1,1,,,,31525231525
+2,West Indies,14,N Pooran,Shadab Khan,KA Pollard,,0,1,1,,,,31525231525
+2,West Indies,14,KA Pollard,Shadab Khan,N Pooran,,0,1,1,,,,31525231525
+2,West Indies,15,KA Pollard,Mohammad Wasim,N Pooran,,0,1,1,,,,31525231525
+2,West Indies,15,N Pooran,Mohammad Wasim,KA Pollard,,0,6,6,,,,31525231525
+2,West Indies,15,N Pooran,Mohammad Wasim,KA Pollard,,0,6,6,,,,31525231525
+2,West Indies,15,N Pooran,Mohammad Wasim,KA Pollard,wides,1,1,0,,,,31525231525
+2,West Indies,15,N Pooran,Mohammad Wasim,KA Pollard,,0,4,4,,,,31525231525
+2,West Indies,15,N Pooran,Mohammad Wasim,KA Pollard,,0,0,0,,,,31525231525
+2,West Indies,15,N Pooran,Mohammad Wasim,KA Pollard,,0,0,0,,,,31525231525
+2,West Indies,16,KA Pollard,Hasan Ali,N Pooran,,0,0,0,,,,31525231525
+2,West Indies,16,KA Pollard,Hasan Ali,N Pooran,,0,1,1,,,,31525231525
+2,West Indies,16,N Pooran,Hasan Ali,KA Pollard,,0,6,6,,,,31525231525
+2,West Indies,16,N Pooran,Hasan Ali,KA Pollard,,0,1,1,,,,31525231525
+2,West Indies,16,KA Pollard,Hasan Ali,N Pooran,,0,1,1,,,,31525231525
+2,West Indies,16,N Pooran,Hasan Ali,KA Pollard,,0,1,1,,,,31525231525
+2,West Indies,17,N Pooran,Shaheen Shah Afridi,KA Pollard,,0,0,0,,,,31525231525
+2,West Indies,17,N Pooran,Shaheen Shah Afridi,KA Pollard,,0,1,1,,,,31525231525
+2,West Indies,17,KA Pollard,Shaheen Shah Afridi,N Pooran,wides,1,1,0,,,,31525231525
+2,West Indies,17,KA Pollard,Shaheen Shah Afridi,N Pooran,,0,1,1,,,,31525231525
+2,West Indies,17,N Pooran,Shaheen Shah Afridi,KA Pollard,,0,4,4,,,,31525231525
+2,West Indies,17,N Pooran,Shaheen Shah Afridi,KA Pollard,,0,4,4,,,,31525231525
+2,West Indies,17,N Pooran,Shaheen Shah Afridi,KA Pollard,,0,0,0,,,,31525231525
+2,West Indies,18,KA Pollard,Hasan Ali,N Pooran,,0,1,1,,,,31525231525
+2,West Indies,18,N Pooran,Hasan Ali,KA Pollard,,0,6,6,,,,31525231525
+2,West Indies,18,N Pooran,Hasan Ali,KA Pollard,,0,6,6,,,,31525231525
+2,West Indies,18,N Pooran,Hasan Ali,KA Pollard,,0,1,1,,,,31525231525
+2,West Indies,18,KA Pollard,Hasan Ali,N Pooran,,0,0,0,,,,31525231525
+2,West Indies,18,KA Pollard,Hasan Ali,N Pooran,,0,1,1,,,,31525231525
+2,West Indies,19,KA Pollard,Shaheen Shah Afridi,N Pooran,,0,2,2,,,,31525231525
+2,West Indies,19,KA Pollard,Shaheen Shah Afridi,N Pooran,,0,0,0,caught,KA Pollard,Mohammad Wasim,31525231525
+2,West Indies,19,N Pooran,Shaheen Shah Afridi,JO Holder,,0,0,0,,,,31525231525
+2,West Indies,19,N Pooran,Shaheen Shah Afridi,JO Holder,,0,0,0,,,,31525231525
+2,West Indies,19,N Pooran,Shaheen Shah Afridi,JO Holder,,0,4,4,,,,31525231525
+2,West Indies,19,N Pooran,Shaheen Shah Afridi,JO Holder,,0,6,6,,,,31525231525

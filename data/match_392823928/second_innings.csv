@@ -1,0 +1,114 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Bangladesh,0,Tamim Iqbal,SS Cottrell,Liton Das,,0,0,0,,,,392823928
+2,Bangladesh,0,Tamim Iqbal,SS Cottrell,Liton Das,,0,1,1,,,,392823928
+2,Bangladesh,0,Liton Das,SS Cottrell,Tamim Iqbal,,0,0,0,,,,392823928
+2,Bangladesh,0,Liton Das,SS Cottrell,Tamim Iqbal,wides,1,1,0,,,,392823928
+2,Bangladesh,0,Liton Das,SS Cottrell,Tamim Iqbal,,0,1,1,,,,392823928
+2,Bangladesh,0,Tamim Iqbal,SS Cottrell,Liton Das,,0,6,6,,,,392823928
+2,Bangladesh,0,Tamim Iqbal,SS Cottrell,Liton Das,byes,1,1,0,,,,392823928
+2,Bangladesh,1,Tamim Iqbal,O Thomas,Liton Das,noballs,1,1,0,,,,392823928
+2,Bangladesh,1,Tamim Iqbal,O Thomas,Liton Das,,0,1,1,,,,392823928
+2,Bangladesh,1,Liton Das,O Thomas,Tamim Iqbal,,0,0,0,,,,392823928
+2,Bangladesh,1,Liton Das,O Thomas,Tamim Iqbal,noballs,1,1,0,,,,392823928
+2,Bangladesh,1,Liton Das,O Thomas,Tamim Iqbal,,0,6,6,,,,392823928
+2,Bangladesh,1,Liton Das,O Thomas,Tamim Iqbal,wides,1,1,0,,,,392823928
+2,Bangladesh,1,Liton Das,O Thomas,Tamim Iqbal,,0,2,2,run out,Tamim Iqbal,,392823928
+2,Bangladesh,1,Soumya Sarkar,O Thomas,Liton Das,,0,1,1,,,,392823928
+2,Bangladesh,1,Liton Das,O Thomas,Soumya Sarkar,,0,4,4,,,,392823928
+2,Bangladesh,2,Soumya Sarkar,SS Cottrell,Liton Das,,0,0,0,,,,392823928
+2,Bangladesh,2,Soumya Sarkar,SS Cottrell,Liton Das,wides,1,1,0,,,,392823928
+2,Bangladesh,2,Soumya Sarkar,SS Cottrell,Liton Das,,0,0,0,,,,392823928
+2,Bangladesh,2,Soumya Sarkar,SS Cottrell,Liton Das,,0,0,0,,,,392823928
+2,Bangladesh,2,Soumya Sarkar,SS Cottrell,Liton Das,wides,1,1,0,,,,392823928
+2,Bangladesh,2,Soumya Sarkar,SS Cottrell,Liton Das,,0,0,0,,,,392823928
+2,Bangladesh,2,Soumya Sarkar,SS Cottrell,Liton Das,,0,0,0,,,,392823928
+2,Bangladesh,2,Soumya Sarkar,SS Cottrell,Liton Das,noballs,1,1,0,,,,392823928
+2,Bangladesh,2,Soumya Sarkar,SS Cottrell,Liton Das,,0,2,2,,,,392823928
+2,Bangladesh,3,Liton Das,O Thomas,Soumya Sarkar,,0,6,6,,,,392823928
+2,Bangladesh,3,Liton Das,O Thomas,Soumya Sarkar,,0,0,0,,,,392823928
+2,Bangladesh,3,Liton Das,O Thomas,Soumya Sarkar,,0,4,4,,,,392823928
+2,Bangladesh,3,Liton Das,O Thomas,Soumya Sarkar,,0,0,0,,,,392823928
+2,Bangladesh,3,Liton Das,O Thomas,Soumya Sarkar,noballs,1,5,4,,,,392823928
+2,Bangladesh,3,Liton Das,O Thomas,Soumya Sarkar,,0,6,6,,,,392823928
+2,Bangladesh,3,Liton Das,O Thomas,Soumya Sarkar,wides,1,1,0,,,,392823928
+2,Bangladesh,3,Liton Das,O Thomas,Soumya Sarkar,noballs,1,2,1,,,,392823928
+2,Bangladesh,3,Soumya Sarkar,O Thomas,Liton Das,,0,6,6,,,,392823928
+2,Bangladesh,4,Liton Das,FA Allen,Soumya Sarkar,,0,3,3,,,,392823928
+2,Bangladesh,4,Soumya Sarkar,FA Allen,Liton Das,,0,0,0,caught,Soumya Sarkar,SS Cottrell,392823928
+2,Bangladesh,4,Shakib Al Hasan,FA Allen,Liton Das,,0,0,0,caught,Shakib Al Hasan,SS Cottrell,392823928
+2,Bangladesh,4,Mushfiqur Rahim,FA Allen,Liton Das,,0,0,0,,,,392823928
+2,Bangladesh,4,Mushfiqur Rahim,FA Allen,Liton Das,,0,1,1,,,,392823928
+2,Bangladesh,4,Liton Das,FA Allen,Mushfiqur Rahim,,0,0,0,,,,392823928
+2,Bangladesh,5,Mushfiqur Rahim,KMA Paul,Liton Das,,0,0,0,,,,392823928
+2,Bangladesh,5,Mushfiqur Rahim,KMA Paul,Liton Das,,0,0,0,,,,392823928
+2,Bangladesh,5,Mushfiqur Rahim,KMA Paul,Liton Das,,0,0,0,caught,Mushfiqur Rahim,FA Allen,392823928
+2,Bangladesh,5,Mahmudullah,KMA Paul,Liton Das,,0,0,0,,,,392823928
+2,Bangladesh,5,Mahmudullah,KMA Paul,Liton Das,,0,4,4,,,,392823928
+2,Bangladesh,5,Mahmudullah,KMA Paul,Liton Das,,0,0,0,,,,392823928
+2,Bangladesh,6,Liton Das,FA Allen,Mahmudullah,,0,1,1,,,,392823928
+2,Bangladesh,6,Mahmudullah,FA Allen,Liton Das,,0,4,4,,,,392823928
+2,Bangladesh,6,Mahmudullah,FA Allen,Liton Das,,0,0,0,,,,392823928
+2,Bangladesh,6,Mahmudullah,FA Allen,Liton Das,,0,1,1,,,,392823928
+2,Bangladesh,6,Liton Das,FA Allen,Mahmudullah,,0,1,1,,,,392823928
+2,Bangladesh,6,Mahmudullah,FA Allen,Liton Das,,0,1,1,,,,392823928
+2,Bangladesh,7,Mahmudullah,KMA Paul,Liton Das,,0,1,1,,,,392823928
+2,Bangladesh,7,Liton Das,KMA Paul,Mahmudullah,,0,1,1,,,,392823928
+2,Bangladesh,7,Mahmudullah,KMA Paul,Liton Das,,0,0,0,caught,Mahmudullah,CR Brathwaite,392823928
+2,Bangladesh,7,Mehedi Hasan Miraz,KMA Paul,Liton Das,,0,0,0,,,,392823928
+2,Bangladesh,7,Mehedi Hasan Miraz,KMA Paul,Liton Das,,0,0,0,,,,392823928
+2,Bangladesh,7,Mehedi Hasan Miraz,KMA Paul,Liton Das,,0,0,0,,,,392823928
+2,Bangladesh,8,Liton Das,FA Allen,Mehedi Hasan Miraz,,0,2,2,,,,392823928
+2,Bangladesh,8,Liton Das,FA Allen,Mehedi Hasan Miraz,,0,0,0,,,,392823928
+2,Bangladesh,8,Liton Das,FA Allen,Mehedi Hasan Miraz,,0,0,0,,,,392823928
+2,Bangladesh,8,Liton Das,FA Allen,Mehedi Hasan Miraz,,0,0,0,,,,392823928
+2,Bangladesh,8,Liton Das,FA Allen,Mehedi Hasan Miraz,,0,1,1,,,,392823928
+2,Bangladesh,8,Mehedi Hasan Miraz,FA Allen,Liton Das,,0,1,1,,,,392823928
+2,Bangladesh,9,Mehedi Hasan Miraz,KMA Paul,Liton Das,,0,4,4,,,,392823928
+2,Bangladesh,9,Mehedi Hasan Miraz,KMA Paul,Liton Das,,0,1,1,,,,392823928
+2,Bangladesh,9,Liton Das,KMA Paul,Mehedi Hasan Miraz,,0,0,0,caught,Liton Das,CR Brathwaite,392823928
+2,Bangladesh,9,Ariful Haque,KMA Paul,Mehedi Hasan Miraz,,0,0,0,caught,Ariful Haque,SE Rutherford,392823928
+2,Bangladesh,9,Mohammad Saifuddin,KMA Paul,Mehedi Hasan Miraz,,0,0,0,,,,392823928
+2,Bangladesh,9,Mohammad Saifuddin,KMA Paul,Mehedi Hasan Miraz,,0,0,0,,,,392823928
+2,Bangladesh,10,Mehedi Hasan Miraz,FA Allen,Mohammad Saifuddin,wides,1,1,0,,,,392823928
+2,Bangladesh,10,Mehedi Hasan Miraz,FA Allen,Mohammad Saifuddin,,0,0,0,,,,392823928
+2,Bangladesh,10,Mehedi Hasan Miraz,FA Allen,Mohammad Saifuddin,,0,0,0,,,,392823928
+2,Bangladesh,10,Mehedi Hasan Miraz,FA Allen,Mohammad Saifuddin,,0,0,0,,,,392823928
+2,Bangladesh,10,Mehedi Hasan Miraz,FA Allen,Mohammad Saifuddin,,0,0,0,,,,392823928
+2,Bangladesh,10,Mehedi Hasan Miraz,FA Allen,Mohammad Saifuddin,,0,1,1,,,,392823928
+2,Bangladesh,10,Mohammad Saifuddin,FA Allen,Mehedi Hasan Miraz,,0,1,1,,,,392823928
+2,Bangladesh,11,Mohammad Saifuddin,KMA Paul,Mehedi Hasan Miraz,,0,0,0,,,,392823928
+2,Bangladesh,11,Mohammad Saifuddin,KMA Paul,Mehedi Hasan Miraz,,0,4,4,,,,392823928
+2,Bangladesh,11,Mohammad Saifuddin,KMA Paul,Mehedi Hasan Miraz,,0,0,0,,,,392823928
+2,Bangladesh,11,Mohammad Saifuddin,KMA Paul,Mehedi Hasan Miraz,,0,0,0,caught,Mohammad Saifuddin,SD Hope,392823928
+2,Bangladesh,11,Abu Hider,KMA Paul,Mehedi Hasan Miraz,,0,0,0,,,,392823928
+2,Bangladesh,11,Abu Hider,KMA Paul,Mehedi Hasan Miraz,,0,0,0,,,,392823928
+2,Bangladesh,12,Mehedi Hasan Miraz,O Thomas,Abu Hider,,0,0,0,,,,392823928
+2,Bangladesh,12,Mehedi Hasan Miraz,O Thomas,Abu Hider,,0,1,1,,,,392823928
+2,Bangladesh,12,Abu Hider,O Thomas,Mehedi Hasan Miraz,,0,1,1,,,,392823928
+2,Bangladesh,12,Mehedi Hasan Miraz,O Thomas,Abu Hider,,0,0,0,,,,392823928
+2,Bangladesh,12,Mehedi Hasan Miraz,O Thomas,Abu Hider,,0,3,3,,,,392823928
+2,Bangladesh,12,Abu Hider,O Thomas,Mehedi Hasan Miraz,,0,4,4,,,,392823928
+2,Bangladesh,13,Mehedi Hasan Miraz,SS Cottrell,Abu Hider,,0,6,6,,,,392823928
+2,Bangladesh,13,Mehedi Hasan Miraz,SS Cottrell,Abu Hider,,0,1,1,,,,392823928
+2,Bangladesh,13,Abu Hider,SS Cottrell,Mehedi Hasan Miraz,,0,6,6,,,,392823928
+2,Bangladesh,13,Abu Hider,SS Cottrell,Mehedi Hasan Miraz,,0,0,0,,,,392823928
+2,Bangladesh,13,Abu Hider,SS Cottrell,Mehedi Hasan Miraz,,0,0,0,,,,392823928
+2,Bangladesh,13,Abu Hider,SS Cottrell,Mehedi Hasan Miraz,,0,4,4,,,,392823928
+2,Bangladesh,14,Mehedi Hasan Miraz,CR Brathwaite,Abu Hider,,0,1,1,,,,392823928
+2,Bangladesh,14,Abu Hider,CR Brathwaite,Mehedi Hasan Miraz,,0,0,0,,,,392823928
+2,Bangladesh,14,Abu Hider,CR Brathwaite,Mehedi Hasan Miraz,,0,4,4,,,,392823928
+2,Bangladesh,14,Abu Hider,CR Brathwaite,Mehedi Hasan Miraz,,0,2,2,,,,392823928
+2,Bangladesh,14,Abu Hider,CR Brathwaite,Mehedi Hasan Miraz,,0,0,0,,,,392823928
+2,Bangladesh,14,Abu Hider,CR Brathwaite,Mehedi Hasan Miraz,,0,0,0,,,,392823928
+2,Bangladesh,15,Mehedi Hasan Miraz,SS Cottrell,Abu Hider,,0,0,0,caught,Mehedi Hasan Miraz,FA Allen,392823928
+2,Bangladesh,15,Mustafizur Rahman,SS Cottrell,Abu Hider,,0,0,0,,,,392823928
+2,Bangladesh,15,Mustafizur Rahman,SS Cottrell,Abu Hider,,0,0,0,,,,392823928
+2,Bangladesh,15,Mustafizur Rahman,SS Cottrell,Abu Hider,legbyes,1,1,0,,,,392823928
+2,Bangladesh,15,Abu Hider,SS Cottrell,Mustafizur Rahman,,0,0,0,,,,392823928
+2,Bangladesh,15,Abu Hider,SS Cottrell,Mustafizur Rahman,,0,0,0,,,,392823928
+2,Bangladesh,16,Mustafizur Rahman,CR Brathwaite,Abu Hider,,0,6,6,,,,392823928
+2,Bangladesh,16,Mustafizur Rahman,CR Brathwaite,Abu Hider,,0,0,0,,,,392823928
+2,Bangladesh,16,Mustafizur Rahman,CR Brathwaite,Abu Hider,,0,1,1,,,,392823928
+2,Bangladesh,16,Abu Hider,CR Brathwaite,Mustafizur Rahman,legbyes,2,2,0,,,,392823928
+2,Bangladesh,16,Abu Hider,CR Brathwaite,Mustafizur Rahman,,0,1,1,,,,392823928
+2,Bangladesh,16,Mustafizur Rahman,CR Brathwaite,Abu Hider,,0,0,0,bowled,Mustafizur Rahman,,392823928

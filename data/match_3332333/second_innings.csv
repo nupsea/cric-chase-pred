@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,South Africa,0,GC Smith,SE Bond,HH Gibbs,,0,1,1,,,,3332333
+2,South Africa,0,HH Gibbs,SE Bond,GC Smith,,0,0,0,,,,3332333
+2,South Africa,0,HH Gibbs,SE Bond,GC Smith,,0,2,2,,,,3332333
+2,South Africa,0,HH Gibbs,SE Bond,GC Smith,,0,4,4,,,,3332333
+2,South Africa,0,HH Gibbs,SE Bond,GC Smith,,0,0,0,,,,3332333
+2,South Africa,0,HH Gibbs,SE Bond,GC Smith,wides,1,1,0,,,,3332333
+2,South Africa,0,HH Gibbs,SE Bond,GC Smith,,0,4,4,,,,3332333
+2,South Africa,1,GC Smith,MR Gillespie,HH Gibbs,,0,0,0,,,,3332333
+2,South Africa,1,GC Smith,MR Gillespie,HH Gibbs,,0,1,1,,,,3332333
+2,South Africa,1,HH Gibbs,MR Gillespie,GC Smith,,0,0,0,,,,3332333
+2,South Africa,1,HH Gibbs,MR Gillespie,GC Smith,,0,0,0,,,,3332333
+2,South Africa,1,HH Gibbs,MR Gillespie,GC Smith,,0,0,0,,,,3332333
+2,South Africa,1,HH Gibbs,MR Gillespie,GC Smith,noballs,1,1,0,,,,3332333
+2,South Africa,1,HH Gibbs,MR Gillespie,GC Smith,,0,0,0,,,,3332333
+2,South Africa,2,GC Smith,SE Bond,HH Gibbs,,0,0,0,caught,GC Smith,BB McCullum,3332333
+2,South Africa,2,AB de Villiers,SE Bond,HH Gibbs,wides,1,1,0,,,,3332333
+2,South Africa,2,AB de Villiers,SE Bond,HH Gibbs,wides,1,1,0,,,,3332333
+2,South Africa,2,AB de Villiers,SE Bond,HH Gibbs,,0,0,0,,,,3332333
+2,South Africa,2,AB de Villiers,SE Bond,HH Gibbs,,0,0,0,,,,3332333
+2,South Africa,2,AB de Villiers,SE Bond,HH Gibbs,,0,0,0,,,,3332333
+2,South Africa,2,AB de Villiers,SE Bond,HH Gibbs,,0,1,1,,,,3332333
+2,South Africa,2,HH Gibbs,SE Bond,AB de Villiers,,0,0,0,,,,3332333
+2,South Africa,3,AB de Villiers,MR Gillespie,HH Gibbs,,0,0,0,caught,AB de Villiers,BB McCullum,3332333
+2,South Africa,3,JM Kemp,MR Gillespie,HH Gibbs,,0,0,0,,,,3332333
+2,South Africa,3,JM Kemp,MR Gillespie,HH Gibbs,,0,0,0,,,,3332333
+2,South Africa,3,JM Kemp,MR Gillespie,HH Gibbs,,0,0,0,,,,3332333
+2,South Africa,3,JM Kemp,MR Gillespie,HH Gibbs,,0,0,0,,,,3332333
+2,South Africa,3,JM Kemp,MR Gillespie,HH Gibbs,,0,0,0,,,,3332333
+2,South Africa,4,HH Gibbs,SE Bond,JM Kemp,,0,1,1,,,,3332333
+2,South Africa,4,JM Kemp,SE Bond,HH Gibbs,,0,0,0,,,,3332333
+2,South Africa,4,JM Kemp,SE Bond,HH Gibbs,,0,1,1,,,,3332333
+2,South Africa,4,HH Gibbs,SE Bond,JM Kemp,,0,0,0,,,,3332333
+2,South Africa,4,HH Gibbs,SE Bond,JM Kemp,,0,4,4,,,,3332333
+2,South Africa,4,HH Gibbs,SE Bond,JM Kemp,,0,0,0,,,,3332333
+2,South Africa,5,JM Kemp,CS Martin,HH Gibbs,,0,0,0,,,,3332333
+2,South Africa,5,JM Kemp,CS Martin,HH Gibbs,,0,0,0,,,,3332333
+2,South Africa,5,JM Kemp,CS Martin,HH Gibbs,,0,0,0,,,,3332333
+2,South Africa,5,JM Kemp,CS Martin,HH Gibbs,,0,3,3,,,,3332333
+2,South Africa,5,HH Gibbs,CS Martin,JM Kemp,,0,0,0,,,,3332333
+2,South Africa,5,HH Gibbs,CS Martin,JM Kemp,noballs,1,5,4,,,,3332333
+2,South Africa,5,HH Gibbs,CS Martin,JM Kemp,,0,0,0,,,,3332333
+2,South Africa,6,JM Kemp,JDP Oram,HH Gibbs,,0,2,2,,,,3332333
+2,South Africa,6,JM Kemp,JDP Oram,HH Gibbs,,0,0,0,,,,3332333
+2,South Africa,6,JM Kemp,JDP Oram,HH Gibbs,,0,6,6,,,,3332333
+2,South Africa,6,JM Kemp,JDP Oram,HH Gibbs,,0,4,4,,,,3332333
+2,South Africa,6,JM Kemp,JDP Oram,HH Gibbs,,0,2,2,,,,3332333
+2,South Africa,6,JM Kemp,JDP Oram,HH Gibbs,,0,0,0,,,,3332333
+2,South Africa,7,HH Gibbs,CS Martin,JM Kemp,,0,0,0,caught,HH Gibbs,JS Patel,3332333
+2,South Africa,7,MV Boucher,CS Martin,JM Kemp,,0,0,0,,,,3332333
+2,South Africa,7,MV Boucher,CS Martin,JM Kemp,,0,1,1,,,,3332333
+2,South Africa,7,JM Kemp,CS Martin,MV Boucher,,0,6,6,,,,3332333
+2,South Africa,7,JM Kemp,CS Martin,MV Boucher,,0,0,0,,,,3332333
+2,South Africa,7,JM Kemp,CS Martin,MV Boucher,,0,1,1,,,,3332333
+2,South Africa,8,JM Kemp,JDP Oram,MV Boucher,,0,1,1,,,,3332333
+2,South Africa,8,MV Boucher,JDP Oram,JM Kemp,,0,1,1,,,,3332333
+2,South Africa,8,JM Kemp,JDP Oram,MV Boucher,,0,1,1,,,,3332333
+2,South Africa,8,MV Boucher,JDP Oram,JM Kemp,,0,1,1,,,,3332333
+2,South Africa,8,JM Kemp,JDP Oram,MV Boucher,,0,1,1,,,,3332333
+2,South Africa,8,MV Boucher,JDP Oram,JM Kemp,,0,0,0,,,,3332333
+2,South Africa,9,JM Kemp,DL Vettori,MV Boucher,,0,1,1,,,,3332333
+2,South Africa,9,MV Boucher,DL Vettori,JM Kemp,,0,1,1,,,,3332333
+2,South Africa,9,JM Kemp,DL Vettori,MV Boucher,,0,1,1,,,,3332333
+2,South Africa,9,MV Boucher,DL Vettori,JM Kemp,,0,0,0,,,,3332333
+2,South Africa,9,MV Boucher,DL Vettori,JM Kemp,,0,1,1,,,,3332333
+2,South Africa,9,JM Kemp,DL Vettori,MV Boucher,,0,1,1,,,,3332333
+2,South Africa,10,JM Kemp,CS Martin,MV Boucher,,0,1,1,,,,3332333
+2,South Africa,10,MV Boucher,CS Martin,JM Kemp,,0,1,1,,,,3332333
+2,South Africa,10,JM Kemp,CS Martin,MV Boucher,,0,1,1,,,,3332333
+2,South Africa,10,MV Boucher,CS Martin,JM Kemp,,0,0,0,,,,3332333
+2,South Africa,10,MV Boucher,CS Martin,JM Kemp,,0,4,4,,,,3332333
+2,South Africa,10,MV Boucher,CS Martin,JM Kemp,,0,1,1,,,,3332333
+2,South Africa,11,MV Boucher,DL Vettori,JM Kemp,,0,1,1,,,,3332333
+2,South Africa,11,JM Kemp,DL Vettori,MV Boucher,,0,1,1,,,,3332333
+2,South Africa,11,MV Boucher,DL Vettori,JM Kemp,,0,1,1,,,,3332333
+2,South Africa,11,JM Kemp,DL Vettori,MV Boucher,,0,4,4,,,,3332333
+2,South Africa,11,JM Kemp,DL Vettori,MV Boucher,,0,0,0,,,,3332333
+2,South Africa,11,JM Kemp,DL Vettori,MV Boucher,,0,1,1,,,,3332333
+2,South Africa,12,JM Kemp,JDP Oram,MV Boucher,,0,1,1,,,,3332333
+2,South Africa,12,MV Boucher,JDP Oram,JM Kemp,noballs,1,2,1,,,,3332333
+2,South Africa,12,JM Kemp,JDP Oram,MV Boucher,,0,1,1,,,,3332333
+2,South Africa,12,MV Boucher,JDP Oram,JM Kemp,,0,2,2,,,,3332333
+2,South Africa,12,MV Boucher,JDP Oram,JM Kemp,,0,1,1,,,,3332333
+2,South Africa,12,JM Kemp,JDP Oram,MV Boucher,,0,4,4,,,,3332333
+2,South Africa,12,JM Kemp,JDP Oram,MV Boucher,,0,1,1,,,,3332333
+2,South Africa,13,JM Kemp,DL Vettori,MV Boucher,,0,1,1,,,,3332333
+2,South Africa,13,MV Boucher,DL Vettori,JM Kemp,,0,1,1,,,,3332333
+2,South Africa,13,JM Kemp,DL Vettori,MV Boucher,,0,0,0,,,,3332333
+2,South Africa,13,JM Kemp,DL Vettori,MV Boucher,,0,0,0,,,,3332333
+2,South Africa,13,JM Kemp,DL Vettori,MV Boucher,,0,1,1,,,,3332333
+2,South Africa,13,MV Boucher,DL Vettori,JM Kemp,,0,0,0,,,,3332333
+2,South Africa,14,JM Kemp,CS Martin,MV Boucher,,0,0,0,,,,3332333
+2,South Africa,14,JM Kemp,CS Martin,MV Boucher,,0,4,4,,,,3332333
+2,South Africa,14,JM Kemp,CS Martin,MV Boucher,,0,1,1,,,,3332333
+2,South Africa,14,MV Boucher,CS Martin,JM Kemp,,0,4,4,,,,3332333
+2,South Africa,14,MV Boucher,CS Martin,JM Kemp,,0,1,1,,,,3332333
+2,South Africa,14,JM Kemp,CS Martin,MV Boucher,,0,6,6,,,,3332333
+2,South Africa,15,MV Boucher,MR Gillespie,JM Kemp,,0,0,0,,,,3332333
+2,South Africa,15,MV Boucher,MR Gillespie,JM Kemp,,0,0,0,caught,MV Boucher,BB McCullum,3332333
+2,South Africa,15,SM Pollock,MR Gillespie,JM Kemp,,0,0,0,,,,3332333
+2,South Africa,15,SM Pollock,MR Gillespie,JM Kemp,,0,0,0,,,,3332333
+2,South Africa,15,SM Pollock,MR Gillespie,JM Kemp,,0,2,2,,,,3332333
+2,South Africa,15,SM Pollock,MR Gillespie,JM Kemp,,0,1,1,,,,3332333
+2,South Africa,16,SM Pollock,JDP Oram,JM Kemp,,0,1,1,,,,3332333
+2,South Africa,16,JM Kemp,JDP Oram,SM Pollock,,0,4,4,,,,3332333
+2,South Africa,16,JM Kemp,JDP Oram,SM Pollock,,0,1,1,,,,3332333
+2,South Africa,16,SM Pollock,JDP Oram,JM Kemp,,0,6,6,,,,3332333
+2,South Africa,16,SM Pollock,JDP Oram,JM Kemp,,0,1,1,,,,3332333
+2,South Africa,16,JM Kemp,JDP Oram,SM Pollock,,0,6,6,,,,3332333
+2,South Africa,17,SM Pollock,DL Vettori,JM Kemp,,0,1,1,,,,3332333
+2,South Africa,17,JM Kemp,DL Vettori,SM Pollock,,0,1,1,,,,3332333
+2,South Africa,17,SM Pollock,DL Vettori,JM Kemp,,0,1,1,,,,3332333
+2,South Africa,17,JM Kemp,DL Vettori,SM Pollock,,0,0,0,,,,3332333
+2,South Africa,17,JM Kemp,DL Vettori,SM Pollock,,0,6,6,,,,3332333
+2,South Africa,17,JM Kemp,DL Vettori,SM Pollock,legbyes,1,1,0,,,,3332333
+2,South Africa,18,JM Kemp,SE Bond,SM Pollock,,0,0,0,,,,3332333
+2,South Africa,18,JM Kemp,SE Bond,SM Pollock,,0,4,4,,,,3332333
+2,South Africa,18,JM Kemp,SE Bond,SM Pollock,wides,1,1,0,,,,3332333
+2,South Africa,18,JM Kemp,SE Bond,SM Pollock,,0,1,1,,,,3332333
+2,South Africa,18,SM Pollock,SE Bond,JM Kemp,,0,1,1,,,,3332333
+2,South Africa,18,JM Kemp,SE Bond,SM Pollock,,0,1,1,,,,3332333
+2,South Africa,18,SM Pollock,SE Bond,JM Kemp,,0,2,2,,,,3332333
+2,South Africa,19,JM Kemp,MR Gillespie,SM Pollock,,0,6,6,,,,3332333

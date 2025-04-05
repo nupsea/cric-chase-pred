@@ -1,0 +1,126 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,England,0,JJ Roy,PVD Chameera,JC Buttler,,0,2,2,,,,31654231654
+1,England,0,JJ Roy,PVD Chameera,JC Buttler,,0,0,0,,,,31654231654
+1,England,0,JJ Roy,PVD Chameera,JC Buttler,,0,4,4,,,,31654231654
+1,England,0,JJ Roy,PVD Chameera,JC Buttler,,0,1,1,,,,31654231654
+1,England,0,JC Buttler,PVD Chameera,JJ Roy,,0,3,3,,,,31654231654
+1,England,0,JJ Roy,PVD Chameera,JC Buttler,,0,2,2,,,,31654231654
+1,England,1,JC Buttler,PWH de Silva,JJ Roy,,0,1,1,,,,31654231654
+1,England,1,JJ Roy,PWH de Silva,JC Buttler,,0,0,0,bowled,JJ Roy,,31654231654
+1,England,1,DJ Malan,PWH de Silva,JC Buttler,,0,0,0,,,,31654231654
+1,England,1,DJ Malan,PWH de Silva,JC Buttler,,0,1,1,,,,31654231654
+1,England,1,JC Buttler,PWH de Silva,DJ Malan,,0,0,0,,,,31654231654
+1,England,1,JC Buttler,PWH de Silva,DJ Malan,,0,1,1,,,,31654231654
+1,England,2,JC Buttler,CBRLS Kumara,DJ Malan,,0,4,4,,,,31654231654
+1,England,2,JC Buttler,CBRLS Kumara,DJ Malan,,0,0,0,,,,31654231654
+1,England,2,JC Buttler,CBRLS Kumara,DJ Malan,,0,4,4,,,,31654231654
+1,England,2,JC Buttler,CBRLS Kumara,DJ Malan,,0,0,0,,,,31654231654
+1,England,2,JC Buttler,CBRLS Kumara,DJ Malan,,0,2,2,,,,31654231654
+1,England,2,JC Buttler,CBRLS Kumara,DJ Malan,,0,0,0,,,,31654231654
+1,England,3,DJ Malan,M Theekshana,JC Buttler,,0,1,1,,,,31654231654
+1,England,3,JC Buttler,M Theekshana,DJ Malan,,0,0,0,,,,31654231654
+1,England,3,JC Buttler,M Theekshana,DJ Malan,,0,0,0,,,,31654231654
+1,England,3,JC Buttler,M Theekshana,DJ Malan,,0,0,0,,,,31654231654
+1,England,3,JC Buttler,M Theekshana,DJ Malan,,0,1,1,,,,31654231654
+1,England,3,DJ Malan,M Theekshana,JC Buttler,wides,1,1,0,,,,31654231654
+1,England,3,DJ Malan,M Theekshana,JC Buttler,wides,1,1,0,,,,31654231654
+1,England,3,DJ Malan,M Theekshana,JC Buttler,,0,0,0,,,,31654231654
+1,England,4,JC Buttler,PVD Chameera,DJ Malan,,0,0,0,,,,31654231654
+1,England,4,JC Buttler,PVD Chameera,DJ Malan,,0,1,1,,,,31654231654
+1,England,4,DJ Malan,PVD Chameera,JC Buttler,,0,4,4,,,,31654231654
+1,England,4,DJ Malan,PVD Chameera,JC Buttler,,0,0,0,,,,31654231654
+1,England,4,DJ Malan,PVD Chameera,JC Buttler,,0,0,0,,,,31654231654
+1,England,4,DJ Malan,PVD Chameera,JC Buttler,,0,0,0,bowled,DJ Malan,,31654231654
+1,England,5,JC Buttler,PWH de Silva,JM Bairstow,,0,1,1,,,,31654231654
+1,England,5,JM Bairstow,PWH de Silva,JC Buttler,,0,0,0,lbw,JM Bairstow,,31654231654
+1,England,5,EJG Morgan,PWH de Silva,JC Buttler,,0,0,0,,,,31654231654
+1,England,5,EJG Morgan,PWH de Silva,JC Buttler,,0,1,1,,,,31654231654
+1,England,5,JC Buttler,PWH de Silva,EJG Morgan,,0,0,0,,,,31654231654
+1,England,5,JC Buttler,PWH de Silva,EJG Morgan,,0,0,0,,,,31654231654
+1,England,6,EJG Morgan,CBRLS Kumara,JC Buttler,,0,0,0,,,,31654231654
+1,England,6,EJG Morgan,CBRLS Kumara,JC Buttler,,0,0,0,,,,31654231654
+1,England,6,EJG Morgan,CBRLS Kumara,JC Buttler,,0,0,0,,,,31654231654
+1,England,6,EJG Morgan,CBRLS Kumara,JC Buttler,,0,0,0,,,,31654231654
+1,England,6,EJG Morgan,CBRLS Kumara,JC Buttler,,0,1,1,,,,31654231654
+1,England,6,JC Buttler,CBRLS Kumara,EJG Morgan,,0,0,0,,,,31654231654
+1,England,7,EJG Morgan,M Theekshana,JC Buttler,,0,1,1,,,,31654231654
+1,England,7,JC Buttler,M Theekshana,EJG Morgan,,0,1,1,,,,31654231654
+1,England,7,EJG Morgan,M Theekshana,JC Buttler,,0,0,0,,,,31654231654
+1,England,7,EJG Morgan,M Theekshana,JC Buttler,,0,1,1,,,,31654231654
+1,England,7,JC Buttler,M Theekshana,EJG Morgan,,0,0,0,,,,31654231654
+1,England,7,JC Buttler,M Theekshana,EJG Morgan,,0,1,1,,,,31654231654
+1,England,8,JC Buttler,C Karunaratne,EJG Morgan,,0,0,0,,,,31654231654
+1,England,8,JC Buttler,C Karunaratne,EJG Morgan,,0,1,1,,,,31654231654
+1,England,8,EJG Morgan,C Karunaratne,JC Buttler,,0,1,1,,,,31654231654
+1,England,8,JC Buttler,C Karunaratne,EJG Morgan,,0,0,0,,,,31654231654
+1,England,8,JC Buttler,C Karunaratne,EJG Morgan,,0,1,1,,,,31654231654
+1,England,8,EJG Morgan,C Karunaratne,JC Buttler,,0,0,0,,,,31654231654
+1,England,9,JC Buttler,M Theekshana,EJG Morgan,,0,0,0,,,,31654231654
+1,England,9,JC Buttler,M Theekshana,EJG Morgan,,0,1,1,,,,31654231654
+1,England,9,EJG Morgan,M Theekshana,JC Buttler,,0,0,0,,,,31654231654
+1,England,9,EJG Morgan,M Theekshana,JC Buttler,,0,0,0,,,,31654231654
+1,England,9,EJG Morgan,M Theekshana,JC Buttler,,0,1,1,,,,31654231654
+1,England,9,JC Buttler,M Theekshana,EJG Morgan,,0,1,1,,,,31654231654
+1,England,10,JC Buttler,CBRLS Kumara,EJG Morgan,,0,4,4,,,,31654231654
+1,England,10,JC Buttler,CBRLS Kumara,EJG Morgan,,0,2,2,,,,31654231654
+1,England,10,JC Buttler,CBRLS Kumara,EJG Morgan,wides,1,1,0,,,,31654231654
+1,England,10,JC Buttler,CBRLS Kumara,EJG Morgan,,0,2,2,,,,31654231654
+1,England,10,JC Buttler,CBRLS Kumara,EJG Morgan,,0,1,1,,,,31654231654
+1,England,10,EJG Morgan,CBRLS Kumara,JC Buttler,,0,1,1,,,,31654231654
+1,England,10,JC Buttler,CBRLS Kumara,EJG Morgan,,0,1,1,,,,31654231654
+1,England,11,JC Buttler,M Theekshana,EJG Morgan,,0,0,0,,,,31654231654
+1,England,11,JC Buttler,M Theekshana,EJG Morgan,,0,0,0,,,,31654231654
+1,England,11,JC Buttler,M Theekshana,EJG Morgan,,0,1,1,,,,31654231654
+1,England,11,EJG Morgan,M Theekshana,JC Buttler,,0,0,0,,,,31654231654
+1,England,11,EJG Morgan,M Theekshana,JC Buttler,,0,0,0,,,,31654231654
+1,England,11,EJG Morgan,M Theekshana,JC Buttler,,0,1,1,,,,31654231654
+1,England,12,EJG Morgan,C Karunaratne,JC Buttler,,0,1,1,,,,31654231654
+1,England,12,JC Buttler,C Karunaratne,EJG Morgan,,0,4,4,,,,31654231654
+1,England,12,JC Buttler,C Karunaratne,EJG Morgan,,0,6,6,,,,31654231654
+1,England,12,JC Buttler,C Karunaratne,EJG Morgan,,0,2,2,,,,31654231654
+1,England,12,JC Buttler,C Karunaratne,EJG Morgan,,0,0,0,,,,31654231654
+1,England,12,JC Buttler,C Karunaratne,EJG Morgan,,0,1,1,,,,31654231654
+1,England,13,JC Buttler,PWH de Silva,EJG Morgan,,0,1,1,,,,31654231654
+1,England,13,EJG Morgan,PWH de Silva,JC Buttler,,0,1,1,,,,31654231654
+1,England,13,JC Buttler,PWH de Silva,EJG Morgan,,0,1,1,,,,31654231654
+1,England,13,EJG Morgan,PWH de Silva,JC Buttler,,0,4,4,,,,31654231654
+1,England,13,EJG Morgan,PWH de Silva,JC Buttler,,0,1,1,,,,31654231654
+1,England,13,JC Buttler,PWH de Silva,EJG Morgan,,0,0,0,,,,31654231654
+1,England,14,EJG Morgan,CBRLS Kumara,JC Buttler,,0,6,6,,,,31654231654
+1,England,14,EJG Morgan,CBRLS Kumara,JC Buttler,legbyes,1,1,0,,,,31654231654
+1,England,14,JC Buttler,CBRLS Kumara,EJG Morgan,,0,6,6,,,,31654231654
+1,England,14,JC Buttler,CBRLS Kumara,EJG Morgan,,0,1,1,,,,31654231654
+1,England,14,EJG Morgan,CBRLS Kumara,JC Buttler,wides,1,1,0,,,,31654231654
+1,England,14,EJG Morgan,CBRLS Kumara,JC Buttler,,0,1,1,,,,31654231654
+1,England,14,JC Buttler,CBRLS Kumara,EJG Morgan,,0,6,6,,,,31654231654
+1,England,15,EJG Morgan,MD Shanaka,JC Buttler,,0,0,0,,,,31654231654
+1,England,15,EJG Morgan,MD Shanaka,JC Buttler,,0,1,1,,,,31654231654
+1,England,15,JC Buttler,MD Shanaka,EJG Morgan,,0,2,2,,,,31654231654
+1,England,15,JC Buttler,MD Shanaka,EJG Morgan,,0,0,0,,,,31654231654
+1,England,15,JC Buttler,MD Shanaka,EJG Morgan,,0,1,1,,,,31654231654
+1,England,15,EJG Morgan,MD Shanaka,JC Buttler,,0,1,1,,,,31654231654
+1,England,16,EJG Morgan,PVD Chameera,JC Buttler,,0,6,6,,,,31654231654
+1,England,16,EJG Morgan,PVD Chameera,JC Buttler,,0,1,1,,,,31654231654
+1,England,16,JC Buttler,PVD Chameera,EJG Morgan,wides,1,1,0,,,,31654231654
+1,England,16,JC Buttler,PVD Chameera,EJG Morgan,,0,2,2,,,,31654231654
+1,England,16,JC Buttler,PVD Chameera,EJG Morgan,,0,0,0,,,,31654231654
+1,England,16,JC Buttler,PVD Chameera,EJG Morgan,,0,1,1,,,,31654231654
+1,England,16,EJG Morgan,PVD Chameera,JC Buttler,,0,1,1,,,,31654231654
+1,England,17,EJG Morgan,MD Shanaka,JC Buttler,,0,1,1,,,,31654231654
+1,England,17,JC Buttler,MD Shanaka,EJG Morgan,,0,6,6,,,,31654231654
+1,England,17,JC Buttler,MD Shanaka,EJG Morgan,,0,6,6,,,,31654231654
+1,England,17,JC Buttler,MD Shanaka,EJG Morgan,,0,4,4,,,,31654231654
+1,England,17,JC Buttler,MD Shanaka,EJG Morgan,,0,1,1,,,,31654231654
+1,England,17,EJG Morgan,MD Shanaka,JC Buttler,,0,1,1,,,,31654231654
+1,England,18,EJG Morgan,PWH de Silva,JC Buttler,,0,6,6,,,,31654231654
+1,England,18,EJG Morgan,PWH de Silva,JC Buttler,,0,0,0,bowled,EJG Morgan,,31654231654
+1,England,18,MM Ali,PWH de Silva,JC Buttler,,0,0,0,,,,31654231654
+1,England,18,MM Ali,PWH de Silva,JC Buttler,,0,1,1,,,,31654231654
+1,England,18,JC Buttler,PWH de Silva,MM Ali,,0,0,0,,,,31654231654
+1,England,18,JC Buttler,PWH de Silva,MM Ali,,0,1,1,,,,31654231654
+1,England,19,JC Buttler,PVD Chameera,MM Ali,,0,4,4,,,,31654231654
+1,England,19,JC Buttler,PVD Chameera,MM Ali,,0,2,2,,,,31654231654
+1,England,19,JC Buttler,PVD Chameera,MM Ali,,0,2,2,,,,31654231654
+1,England,19,JC Buttler,PVD Chameera,MM Ali,,0,0,0,,,,31654231654
+1,England,19,JC Buttler,PVD Chameera,MM Ali,,0,0,0,,,,31654231654
+1,England,19,JC Buttler,PVD Chameera,MM Ali,,0,6,6,,,,31654231654

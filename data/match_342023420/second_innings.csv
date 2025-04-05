@@ -1,0 +1,100 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Australia,0,AJ Finch,B Kumar,DA Warner,,0,4,4,,,,342023420
+2,Australia,0,AJ Finch,B Kumar,DA Warner,legbyes,1,1,0,,,,342023420
+2,Australia,0,DA Warner,B Kumar,AJ Finch,,0,0,0,,,,342023420
+2,Australia,0,DA Warner,B Kumar,AJ Finch,,0,0,0,,,,342023420
+2,Australia,0,DA Warner,B Kumar,AJ Finch,legbyes,1,1,0,,,,342023420
+2,Australia,0,AJ Finch,B Kumar,DA Warner,,0,0,0,,,,342023420
+2,Australia,1,DA Warner,MM Sharma,AJ Finch,,0,2,2,,,,342023420
+2,Australia,1,DA Warner,MM Sharma,AJ Finch,,0,2,2,,,,342023420
+2,Australia,1,DA Warner,MM Sharma,AJ Finch,,0,0,0,,,,342023420
+2,Australia,1,DA Warner,MM Sharma,AJ Finch,,0,1,1,,,,342023420
+2,Australia,1,AJ Finch,MM Sharma,DA Warner,,0,1,1,,,,342023420
+2,Australia,1,DA Warner,MM Sharma,AJ Finch,,0,0,0,,,,342023420
+2,Australia,2,AJ Finch,B Kumar,DA Warner,,0,0,0,,,,342023420
+2,Australia,2,AJ Finch,B Kumar,DA Warner,,0,0,0,,,,342023420
+2,Australia,2,AJ Finch,B Kumar,DA Warner,,0,0,0,,,,342023420
+2,Australia,2,AJ Finch,B Kumar,DA Warner,,0,0,0,,,,342023420
+2,Australia,2,AJ Finch,B Kumar,DA Warner,,0,1,1,,,,342023420
+2,Australia,2,DA Warner,B Kumar,AJ Finch,,0,0,0,,,,342023420
+2,Australia,3,AJ Finch,R Ashwin,DA Warner,,0,0,0,,,,342023420
+2,Australia,3,AJ Finch,R Ashwin,DA Warner,,0,0,0,caught,AJ Finch,V Kohli,342023420
+2,Australia,3,DA Warner,R Ashwin,CL White,,0,0,0,,,,342023420
+2,Australia,3,DA Warner,R Ashwin,CL White,,0,0,0,,,,342023420
+2,Australia,3,DA Warner,R Ashwin,CL White,,0,6,6,,,,342023420
+2,Australia,3,DA Warner,R Ashwin,CL White,,0,0,0,,,,342023420
+2,Australia,4,CL White,B Kumar,DA Warner,,0,0,0,,,,342023420
+2,Australia,4,CL White,B Kumar,DA Warner,,0,0,0,caught,CL White,RA Jadeja,342023420
+2,Australia,4,DA Warner,B Kumar,SR Watson,,0,1,1,,,,342023420
+2,Australia,4,SR Watson,B Kumar,DA Warner,,0,0,0,,,,342023420
+2,Australia,4,SR Watson,B Kumar,DA Warner,,0,0,0,,,,342023420
+2,Australia,4,SR Watson,B Kumar,DA Warner,,0,1,1,,,,342023420
+2,Australia,5,SR Watson,MM Sharma,DA Warner,,0,0,0,bowled,SR Watson,,342023420
+2,Australia,5,GJ Maxwell,MM Sharma,DA Warner,,0,0,0,,,,342023420
+2,Australia,5,GJ Maxwell,MM Sharma,DA Warner,legbyes,1,1,0,,,,342023420
+2,Australia,5,DA Warner,MM Sharma,GJ Maxwell,,0,4,4,,,,342023420
+2,Australia,5,DA Warner,MM Sharma,GJ Maxwell,,0,1,1,,,,342023420
+2,Australia,5,GJ Maxwell,MM Sharma,DA Warner,,0,0,0,,,,342023420
+2,Australia,6,DA Warner,SK Raina,GJ Maxwell,,0,1,1,,,,342023420
+2,Australia,6,GJ Maxwell,SK Raina,DA Warner,,0,1,1,,,,342023420
+2,Australia,6,DA Warner,SK Raina,GJ Maxwell,,0,1,1,,,,342023420
+2,Australia,6,GJ Maxwell,SK Raina,DA Warner,,0,6,6,,,,342023420
+2,Australia,6,GJ Maxwell,SK Raina,DA Warner,,0,6,6,,,,342023420
+2,Australia,6,GJ Maxwell,SK Raina,DA Warner,,0,1,1,,,,342023420
+2,Australia,7,GJ Maxwell,R Ashwin,DA Warner,,0,1,1,,,,342023420
+2,Australia,7,DA Warner,R Ashwin,GJ Maxwell,,0,0,0,,,,342023420
+2,Australia,7,DA Warner,R Ashwin,GJ Maxwell,,0,0,0,,,,342023420
+2,Australia,7,DA Warner,R Ashwin,GJ Maxwell,,0,0,0,caught,DA Warner,RG Sharma,342023420
+2,Australia,7,GJ Maxwell,R Ashwin,GJ Bailey,,0,1,1,,,,342023420
+2,Australia,7,GJ Bailey,R Ashwin,GJ Maxwell,,0,1,1,,,,342023420
+2,Australia,8,GJ Bailey,RA Jadeja,GJ Maxwell,,0,1,1,,,,342023420
+2,Australia,8,GJ Maxwell,RA Jadeja,GJ Bailey,,0,6,6,,,,342023420
+2,Australia,8,GJ Maxwell,RA Jadeja,GJ Bailey,,0,1,1,,,,342023420
+2,Australia,8,GJ Bailey,RA Jadeja,GJ Maxwell,,0,0,0,,,,342023420
+2,Australia,8,GJ Bailey,RA Jadeja,GJ Maxwell,,0,0,0,,,,342023420
+2,Australia,8,GJ Bailey,RA Jadeja,GJ Maxwell,,0,0,0,,,,342023420
+2,Australia,9,GJ Maxwell,R Ashwin,GJ Bailey,wides,1,1,0,,,,342023420
+2,Australia,9,GJ Maxwell,R Ashwin,GJ Bailey,,0,0,0,bowled,GJ Maxwell,,342023420
+2,Australia,9,BJ Hodge,R Ashwin,GJ Bailey,,0,0,0,,,,342023420
+2,Australia,9,BJ Hodge,R Ashwin,GJ Bailey,,0,1,1,,,,342023420
+2,Australia,9,GJ Bailey,R Ashwin,BJ Hodge,,0,0,0,,,,342023420
+2,Australia,9,GJ Bailey,R Ashwin,BJ Hodge,,0,0,0,,,,342023420
+2,Australia,9,GJ Bailey,R Ashwin,BJ Hodge,,0,0,0,,,,342023420
+2,Australia,10,BJ Hodge,RA Jadeja,GJ Bailey,,0,1,1,,,,342023420
+2,Australia,10,GJ Bailey,RA Jadeja,BJ Hodge,,0,6,6,,,,342023420
+2,Australia,10,GJ Bailey,RA Jadeja,BJ Hodge,,0,0,0,caught,GJ Bailey,V Kohli,342023420
+2,Australia,10,BJ Hodge,RA Jadeja,BJ Haddin,,0,0,0,,,,342023420
+2,Australia,10,BJ Hodge,RA Jadeja,BJ Haddin,,0,0,0,,,,342023420
+2,Australia,10,BJ Hodge,RA Jadeja,BJ Haddin,,0,1,1,,,,342023420
+2,Australia,11,BJ Hodge,A Mishra,BJ Haddin,,0,1,1,,,,342023420
+2,Australia,11,BJ Haddin,A Mishra,BJ Hodge,,0,1,1,,,,342023420
+2,Australia,11,BJ Hodge,A Mishra,BJ Haddin,,0,0,0,,,,342023420
+2,Australia,11,BJ Hodge,A Mishra,BJ Haddin,,0,1,1,,,,342023420
+2,Australia,11,BJ Haddin,A Mishra,BJ Hodge,,0,1,1,,,,342023420
+2,Australia,11,BJ Hodge,A Mishra,BJ Haddin,,0,1,1,,,,342023420
+2,Australia,12,BJ Hodge,RA Jadeja,BJ Haddin,,0,1,1,,,,342023420
+2,Australia,12,BJ Haddin,RA Jadeja,BJ Hodge,,0,0,0,,,,342023420
+2,Australia,12,BJ Haddin,RA Jadeja,BJ Hodge,,0,4,4,,,,342023420
+2,Australia,12,BJ Haddin,RA Jadeja,BJ Hodge,,0,0,0,,,,342023420
+2,Australia,12,BJ Haddin,RA Jadeja,BJ Hodge,,0,0,0,,,,342023420
+2,Australia,12,BJ Haddin,RA Jadeja,BJ Hodge,,0,0,0,,,,342023420
+2,Australia,13,BJ Hodge,A Mishra,BJ Haddin,,0,1,1,,,,342023420
+2,Australia,13,BJ Haddin,A Mishra,BJ Hodge,,0,0,0,caught,BJ Haddin,AM Rahane,342023420
+2,Australia,13,MA Starc,A Mishra,BJ Hodge,,0,0,0,,,,342023420
+2,Australia,13,MA Starc,A Mishra,BJ Hodge,,0,0,0,,,,342023420
+2,Australia,13,MA Starc,A Mishra,BJ Hodge,,0,1,1,,,,342023420
+2,Australia,13,BJ Hodge,A Mishra,MA Starc,,0,1,1,,,,342023420
+2,Australia,14,BJ Hodge,RA Jadeja,MA Starc,,0,1,1,,,,342023420
+2,Australia,14,MA Starc,RA Jadeja,BJ Hodge,,0,1,1,,,,342023420
+2,Australia,14,BJ Hodge,RA Jadeja,MA Starc,,0,0,0,run out,MA Starc,MS Dhoni,342023420
+2,Australia,14,JM Muirhead,RA Jadeja,BJ Hodge,,0,1,1,,,,342023420
+2,Australia,14,BJ Hodge,RA Jadeja,JM Muirhead,,0,1,1,,,,342023420
+2,Australia,14,JM Muirhead,RA Jadeja,BJ Hodge,,0,0,0,,,,342023420
+2,Australia,15,BJ Hodge,A Mishra,JM Muirhead,,0,2,2,,,,342023420
+2,Australia,15,BJ Hodge,A Mishra,JM Muirhead,,0,0,0,caught,BJ Hodge,RA Jadeja,342023420
+2,Australia,15,JM Muirhead,A Mishra,DE Bollinger,,0,1,1,,,,342023420
+2,Australia,15,DE Bollinger,A Mishra,JM Muirhead,,0,1,1,,,,342023420
+2,Australia,15,JM Muirhead,A Mishra,DE Bollinger,,0,0,0,,,,342023420
+2,Australia,15,JM Muirhead,A Mishra,DE Bollinger,,0,1,1,,,,342023420
+2,Australia,16,JM Muirhead,R Ashwin,DE Bollinger,,0,0,0,,,,342023420
+2,Australia,16,JM Muirhead,R Ashwin,DE Bollinger,,0,0,0,caught,JM Muirhead,MS Dhoni,342023420

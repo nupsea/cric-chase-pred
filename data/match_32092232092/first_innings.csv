@@ -1,0 +1,88 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Oman,0,V Jesrani,Aysha,Fiza,,0,0,0,,,,32092232092
+1,Oman,0,V Jesrani,Aysha,Fiza,,0,0,0,lbw,V Jesrani,,32092232092
+1,Oman,0,SV Shetty,Aysha,Fiza,,0,4,4,,,,32092232092
+1,Oman,0,SV Shetty,Aysha,Fiza,,0,0,0,,,,32092232092
+1,Oman,0,SV Shetty,Aysha,Fiza,wides,1,1,0,,,,32092232092
+1,Oman,0,SV Shetty,Aysha,Fiza,,0,0,0,,,,32092232092
+1,Oman,0,SV Shetty,Aysha,Fiza,,0,0,0,,,,32092232092
+1,Oman,1,Fiza,A Mare,SV Shetty,wides,1,1,0,,,,32092232092
+1,Oman,1,Fiza,A Mare,SV Shetty,,0,0,0,caught,Fiza,T Kale,32092232092
+1,Oman,1,PE Mendonca,A Mare,SV Shetty,,0,0,0,,,,32092232092
+1,Oman,1,PE Mendonca,A Mare,SV Shetty,,0,0,0,caught,PE Mendonca,Aleena Khan,32092232092
+1,Oman,1,NM Anil,A Mare,SV Shetty,,0,0,0,,,,32092232092
+1,Oman,1,NM Anil,A Mare,SV Shetty,,0,1,1,,,,32092232092
+1,Oman,1,SV Shetty,A Mare,NM Anil,,0,0,0,,,,32092232092
+1,Oman,2,NM Anil,Aysha,SV Shetty,,0,0,0,,,,32092232092
+1,Oman,2,NM Anil,Aysha,SV Shetty,,0,0,0,,,,32092232092
+1,Oman,2,NM Anil,Aysha,SV Shetty,,0,2,2,,,,32092232092
+1,Oman,2,NM Anil,Aysha,SV Shetty,wides,1,1,0,,,,32092232092
+1,Oman,2,NM Anil,Aysha,SV Shetty,,0,0,0,,,,32092232092
+1,Oman,2,NM Anil,Aysha,SV Shetty,,0,0,0,bowled,NM Anil,,32092232092
+1,Oman,2,B Shetty,Aysha,SV Shetty,noballs,1,1,0,,,,32092232092
+1,Oman,2,B Shetty,Aysha,SV Shetty,,0,0,0,,,,32092232092
+1,Oman,3,SV Shetty,A Mare,B Shetty,wides,1,1,0,,,,32092232092
+1,Oman,3,SV Shetty,A Mare,B Shetty,,0,1,1,,,,32092232092
+1,Oman,3,B Shetty,A Mare,SV Shetty,,0,0,0,,,,32092232092
+1,Oman,3,B Shetty,A Mare,SV Shetty,,0,2,2,,,,32092232092
+1,Oman,3,B Shetty,A Mare,SV Shetty,,0,0,0,,,,32092232092
+1,Oman,3,B Shetty,A Mare,SV Shetty,,0,0,0,,,,32092232092
+1,Oman,3,B Shetty,A Mare,SV Shetty,,0,0,0,,,,32092232092
+1,Oman,4,SV Shetty,Aysha,B Shetty,,0,1,1,,,,32092232092
+1,Oman,4,B Shetty,Aysha,SV Shetty,wides,1,1,0,,,,32092232092
+1,Oman,4,B Shetty,Aysha,SV Shetty,,0,2,2,,,,32092232092
+1,Oman,4,B Shetty,Aysha,SV Shetty,,0,2,2,,,,32092232092
+1,Oman,4,B Shetty,Aysha,SV Shetty,noballs,1,1,0,,,,32092232092
+1,Oman,4,B Shetty,Aysha,SV Shetty,,0,4,4,,,,32092232092
+1,Oman,4,B Shetty,Aysha,SV Shetty,,0,4,4,,,,32092232092
+1,Oman,4,B Shetty,Aysha,SV Shetty,,0,2,2,,,,32092232092
+1,Oman,5,SV Shetty,S Dhadwal,B Shetty,,0,0,0,bowled,SV Shetty,,32092232092
+1,Oman,5,S Channa,S Dhadwal,B Shetty,,0,0,0,,,,32092232092
+1,Oman,5,S Channa,S Dhadwal,B Shetty,,0,0,0,,,,32092232092
+1,Oman,5,S Channa,S Dhadwal,B Shetty,,0,0,0,bowled,S Channa,,32092232092
+1,Oman,5,A Dcosta,S Dhadwal,B Shetty,,0,0,0,,,,32092232092
+1,Oman,5,A Dcosta,S Dhadwal,B Shetty,,0,0,0,,,,32092232092
+1,Oman,6,B Shetty,A Mare,A Dcosta,,0,0,0,,,,32092232092
+1,Oman,6,B Shetty,A Mare,A Dcosta,,0,0,0,,,,32092232092
+1,Oman,6,B Shetty,A Mare,A Dcosta,,0,0,0,,,,32092232092
+1,Oman,6,B Shetty,A Mare,A Dcosta,,0,0,0,,,,32092232092
+1,Oman,6,B Shetty,A Mare,A Dcosta,,0,1,1,,,,32092232092
+1,Oman,6,A Dcosta,A Mare,B Shetty,,0,0,0,,,,32092232092
+1,Oman,7,B Shetty,S Dhadwal,A Dcosta,wides,1,1,0,,,,32092232092
+1,Oman,7,B Shetty,S Dhadwal,A Dcosta,,0,0,0,,,,32092232092
+1,Oman,7,B Shetty,S Dhadwal,A Dcosta,,0,0,0,,,,32092232092
+1,Oman,7,B Shetty,S Dhadwal,A Dcosta,,0,0,0,,,,32092232092
+1,Oman,7,B Shetty,S Dhadwal,A Dcosta,,0,2,2,,,,32092232092
+1,Oman,7,B Shetty,S Dhadwal,A Dcosta,,0,0,0,,,,32092232092
+1,Oman,7,B Shetty,S Dhadwal,A Dcosta,,0,1,1,,,,32092232092
+1,Oman,8,B Shetty,A Mare,A Dcosta,,0,0,0,,,,32092232092
+1,Oman,8,B Shetty,A Mare,A Dcosta,,0,0,0,,,,32092232092
+1,Oman,8,B Shetty,A Mare,A Dcosta,,0,0,0,,,,32092232092
+1,Oman,8,B Shetty,A Mare,A Dcosta,,0,1,1,,,,32092232092
+1,Oman,8,A Dcosta,A Mare,B Shetty,,0,2,2,,,,32092232092
+1,Oman,8,A Dcosta,A Mare,B Shetty,,0,0,0,caught,A Dcosta,Aysha,32092232092
+1,Oman,9,N Jagadish,S Dhadwal,B Shetty,,0,0,0,,,,32092232092
+1,Oman,9,N Jagadish,S Dhadwal,B Shetty,,0,1,1,,,,32092232092
+1,Oman,9,B Shetty,S Dhadwal,N Jagadish,,0,0,0,,,,32092232092
+1,Oman,9,B Shetty,S Dhadwal,N Jagadish,,0,0,0,,,,32092232092
+1,Oman,9,B Shetty,S Dhadwal,N Jagadish,wides,1,1,0,,,,32092232092
+1,Oman,9,B Shetty,S Dhadwal,N Jagadish,,0,0,0,,,,32092232092
+1,Oman,9,B Shetty,S Dhadwal,N Jagadish,,0,1,1,,,,32092232092
+1,Oman,10,B Shetty,H Agarwal,N Jagadish,,0,0,0,caught,B Shetty,A Mare,32092232092
+1,Oman,10,N Jagadish,H Agarwal,Sameera Khan,,0,0,0,,,,32092232092
+1,Oman,10,N Jagadish,H Agarwal,Sameera Khan,,0,0,0,,,,32092232092
+1,Oman,10,N Jagadish,H Agarwal,Sameera Khan,,0,0,0,,,,32092232092
+1,Oman,10,N Jagadish,H Agarwal,Sameera Khan,,0,1,1,,,,32092232092
+1,Oman,10,Sameera Khan,H Agarwal,N Jagadish,,0,0,0,,,,32092232092
+1,Oman,11,N Jagadish,S Dhadwal,Sameera Khan,,0,0,0,,,,32092232092
+1,Oman,11,N Jagadish,S Dhadwal,Sameera Khan,,0,0,0,,,,32092232092
+1,Oman,11,N Jagadish,S Dhadwal,Sameera Khan,,0,0,0,,,,32092232092
+1,Oman,11,N Jagadish,S Dhadwal,Sameera Khan,,0,0,0,,,,32092232092
+1,Oman,11,N Jagadish,S Dhadwal,Sameera Khan,,0,0,0,,,,32092232092
+1,Oman,11,N Jagadish,S Dhadwal,Sameera Khan,,0,4,4,,,,32092232092
+1,Oman,12,Sameera Khan,H Agarwal,N Jagadish,,0,0,0,,,,32092232092
+1,Oman,12,Sameera Khan,H Agarwal,N Jagadish,,0,0,0,,,,32092232092
+1,Oman,12,Sameera Khan,H Agarwal,N Jagadish,,0,0,0,bowled,Sameera Khan,,32092232092
+1,Oman,12,Alifiya Sayed,H Agarwal,N Jagadish,,0,0,0,,,,32092232092
+1,Oman,12,Alifiya Sayed,H Agarwal,N Jagadish,,0,0,0,,,,32092232092
+1,Oman,12,Alifiya Sayed,H Agarwal,N Jagadish,,0,0,0,caught,Alifiya Sayed,Khadija Imtiaz,32092232092

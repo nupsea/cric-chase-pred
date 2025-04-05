@@ -1,0 +1,128 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Pakistan,0,Shahzaib Hasan,JA Morkel,Imran Farhat,,0,1,1,,,,318423184
+1,Pakistan,0,Imran Farhat,JA Morkel,Shahzaib Hasan,,0,0,0,,,,318423184
+1,Pakistan,0,Imran Farhat,JA Morkel,Shahzaib Hasan,wides,1,1,0,,,,318423184
+1,Pakistan,0,Imran Farhat,JA Morkel,Shahzaib Hasan,wides,1,1,0,,,,318423184
+1,Pakistan,0,Imran Farhat,JA Morkel,Shahzaib Hasan,,0,4,4,,,,318423184
+1,Pakistan,0,Imran Farhat,JA Morkel,Shahzaib Hasan,,0,4,4,,,,318423184
+1,Pakistan,0,Imran Farhat,JA Morkel,Shahzaib Hasan,,0,0,0,,,,318423184
+1,Pakistan,0,Imran Farhat,JA Morkel,Shahzaib Hasan,wides,1,1,0,,,,318423184
+1,Pakistan,0,Imran Farhat,JA Morkel,Shahzaib Hasan,wides,1,1,0,,,,318423184
+1,Pakistan,0,Imran Farhat,JA Morkel,Shahzaib Hasan,,0,1,1,,,,318423184
+1,Pakistan,1,Imran Farhat,LL Tsotsobe,Shahzaib Hasan,,0,0,0,,,,318423184
+1,Pakistan,1,Imran Farhat,LL Tsotsobe,Shahzaib Hasan,,0,1,1,,,,318423184
+1,Pakistan,1,Shahzaib Hasan,LL Tsotsobe,Imran Farhat,,0,0,0,,,,318423184
+1,Pakistan,1,Shahzaib Hasan,LL Tsotsobe,Imran Farhat,,0,0,0,,,,318423184
+1,Pakistan,1,Shahzaib Hasan,LL Tsotsobe,Imran Farhat,,0,1,1,,,,318423184
+1,Pakistan,1,Imran Farhat,LL Tsotsobe,Shahzaib Hasan,,0,0,0,caught,Imran Farhat,GC Smith,318423184
+1,Pakistan,2,Shahzaib Hasan,M Morkel,Mohammad Hafeez,,0,0,0,,,,318423184
+1,Pakistan,2,Shahzaib Hasan,M Morkel,Mohammad Hafeez,noballs,1,1,0,,,,318423184
+1,Pakistan,2,Shahzaib Hasan,M Morkel,Mohammad Hafeez,noballs,1,2,1,,,,318423184
+1,Pakistan,2,Mohammad Hafeez,M Morkel,Shahzaib Hasan,,0,4,4,,,,318423184
+1,Pakistan,2,Mohammad Hafeez,M Morkel,Shahzaib Hasan,,0,0,0,,,,318423184
+1,Pakistan,2,Mohammad Hafeez,M Morkel,Shahzaib Hasan,,0,0,0,,,,318423184
+1,Pakistan,2,Mohammad Hafeez,M Morkel,Shahzaib Hasan,,0,4,4,,,,318423184
+1,Pakistan,2,Mohammad Hafeez,M Morkel,Shahzaib Hasan,,0,0,0,,,,318423184
+1,Pakistan,3,Shahzaib Hasan,LL Tsotsobe,Mohammad Hafeez,,0,1,1,,,,318423184
+1,Pakistan,3,Mohammad Hafeez,LL Tsotsobe,Shahzaib Hasan,,0,1,1,,,,318423184
+1,Pakistan,3,Shahzaib Hasan,LL Tsotsobe,Mohammad Hafeez,,0,1,1,,,,318423184
+1,Pakistan,3,Mohammad Hafeez,LL Tsotsobe,Shahzaib Hasan,,0,1,1,,,,318423184
+1,Pakistan,3,Shahzaib Hasan,LL Tsotsobe,Mohammad Hafeez,,0,1,1,,,,318423184
+1,Pakistan,3,Mohammad Hafeez,LL Tsotsobe,Shahzaib Hasan,,0,2,2,,,,318423184
+1,Pakistan,4,Shahzaib Hasan,M Morkel,Mohammad Hafeez,,0,0,0,,,,318423184
+1,Pakistan,4,Shahzaib Hasan,M Morkel,Mohammad Hafeez,noballs,1,1,0,,,,318423184
+1,Pakistan,4,Shahzaib Hasan,M Morkel,Mohammad Hafeez,,0,3,3,,,,318423184
+1,Pakistan,4,Mohammad Hafeez,M Morkel,Shahzaib Hasan,,0,0,0,,,,318423184
+1,Pakistan,4,Mohammad Hafeez,M Morkel,Shahzaib Hasan,,0,0,0,,,,318423184
+1,Pakistan,4,Mohammad Hafeez,M Morkel,Shahzaib Hasan,,0,0,0,,,,318423184
+1,Pakistan,4,Mohammad Hafeez,M Morkel,Shahzaib Hasan,,0,0,0,,,,318423184
+1,Pakistan,5,Shahzaib Hasan,LL Tsotsobe,Mohammad Hafeez,,0,0,0,caught,Shahzaib Hasan,JP Duminy,318423184
+1,Pakistan,5,Mohammad Hafeez,LL Tsotsobe,Umar Akmal,,0,0,0,,,,318423184
+1,Pakistan,5,Mohammad Hafeez,LL Tsotsobe,Umar Akmal,legbyes,1,1,0,,,,318423184
+1,Pakistan,5,Umar Akmal,LL Tsotsobe,Mohammad Hafeez,,0,0,0,,,,318423184
+1,Pakistan,5,Umar Akmal,LL Tsotsobe,Mohammad Hafeez,,0,0,0,,,,318423184
+1,Pakistan,5,Umar Akmal,LL Tsotsobe,Mohammad Hafeez,,0,4,4,,,,318423184
+1,Pakistan,6,Mohammad Hafeez,J Theron,Umar Akmal,,0,1,1,,,,318423184
+1,Pakistan,6,Umar Akmal,J Theron,Mohammad Hafeez,,0,0,0,,,,318423184
+1,Pakistan,6,Umar Akmal,J Theron,Mohammad Hafeez,,0,0,0,,,,318423184
+1,Pakistan,6,Umar Akmal,J Theron,Mohammad Hafeez,,0,0,0,,,,318423184
+1,Pakistan,6,Umar Akmal,J Theron,Mohammad Hafeez,,0,2,2,,,,318423184
+1,Pakistan,6,Umar Akmal,J Theron,Mohammad Hafeez,,0,0,0,,,,318423184
+1,Pakistan,7,Mohammad Hafeez,J Botha,Umar Akmal,,0,0,0,,,,318423184
+1,Pakistan,7,Mohammad Hafeez,J Botha,Umar Akmal,,0,0,0,caught,Mohammad Hafeez,CA Ingram,318423184
+1,Pakistan,7,Umar Akmal,J Botha,Shahid Afridi,,0,0,0,,,,318423184
+1,Pakistan,7,Umar Akmal,J Botha,Shahid Afridi,,0,0,0,,,,318423184
+1,Pakistan,7,Umar Akmal,J Botha,Shahid Afridi,,0,1,1,,,,318423184
+1,Pakistan,7,Shahid Afridi,J Botha,Umar Akmal,,0,6,6,,,,318423184
+1,Pakistan,8,Umar Akmal,J Theron,Shahid Afridi,,0,1,1,,,,318423184
+1,Pakistan,8,Shahid Afridi,J Theron,Umar Akmal,,0,2,2,,,,318423184
+1,Pakistan,8,Shahid Afridi,J Theron,Umar Akmal,,0,4,4,,,,318423184
+1,Pakistan,8,Shahid Afridi,J Theron,Umar Akmal,,0,1,1,,,,318423184
+1,Pakistan,8,Umar Akmal,J Theron,Shahid Afridi,,0,0,0,,,,318423184
+1,Pakistan,8,Umar Akmal,J Theron,Shahid Afridi,,0,1,1,,,,318423184
+1,Pakistan,9,Umar Akmal,J Botha,Shahid Afridi,,0,1,1,,,,318423184
+1,Pakistan,9,Shahid Afridi,J Botha,Umar Akmal,,0,6,6,,,,318423184
+1,Pakistan,9,Shahid Afridi,J Botha,Umar Akmal,,0,6,6,,,,318423184
+1,Pakistan,9,Shahid Afridi,J Botha,Umar Akmal,,0,0,0,caught,Shahid Afridi,LE Bosman,318423184
+1,Pakistan,9,Umar Akmal,J Botha,Misbah-ul-Haq,,0,1,1,,,,318423184
+1,Pakistan,9,Misbah-ul-Haq,J Botha,Umar Akmal,,0,1,1,,,,318423184
+1,Pakistan,10,Misbah-ul-Haq,JA Morkel,Umar Akmal,,0,0,0,,,,318423184
+1,Pakistan,10,Misbah-ul-Haq,JA Morkel,Umar Akmal,,0,1,1,,,,318423184
+1,Pakistan,10,Umar Akmal,JA Morkel,Misbah-ul-Haq,,0,0,0,,,,318423184
+1,Pakistan,10,Umar Akmal,JA Morkel,Misbah-ul-Haq,,0,0,0,,,,318423184
+1,Pakistan,10,Umar Akmal,JA Morkel,Misbah-ul-Haq,,0,1,1,,,,318423184
+1,Pakistan,10,Misbah-ul-Haq,JA Morkel,Umar Akmal,,0,1,1,,,,318423184
+1,Pakistan,11,Misbah-ul-Haq,J Botha,Umar Akmal,,0,0,0,,,,318423184
+1,Pakistan,11,Misbah-ul-Haq,J Botha,Umar Akmal,,0,0,0,,,,318423184
+1,Pakistan,11,Misbah-ul-Haq,J Botha,Umar Akmal,,0,0,0,,,,318423184
+1,Pakistan,11,Misbah-ul-Haq,J Botha,Umar Akmal,,0,0,0,,,,318423184
+1,Pakistan,11,Misbah-ul-Haq,J Botha,Umar Akmal,,0,1,1,,,,318423184
+1,Pakistan,11,Umar Akmal,J Botha,Misbah-ul-Haq,,0,2,2,,,,318423184
+1,Pakistan,12,Misbah-ul-Haq,JA Morkel,Umar Akmal,,0,0,0,,,,318423184
+1,Pakistan,12,Misbah-ul-Haq,JA Morkel,Umar Akmal,,0,0,0,,,,318423184
+1,Pakistan,12,Misbah-ul-Haq,JA Morkel,Umar Akmal,,0,1,1,,,,318423184
+1,Pakistan,12,Umar Akmal,JA Morkel,Misbah-ul-Haq,,0,0,0,caught,Umar Akmal,J Botha,318423184
+1,Pakistan,12,Abdul Razzaq,JA Morkel,Misbah-ul-Haq,,0,0,0,,,,318423184
+1,Pakistan,12,Abdul Razzaq,JA Morkel,Misbah-ul-Haq,,0,1,1,,,,318423184
+1,Pakistan,13,Abdul Razzaq,J Botha,Misbah-ul-Haq,wides,1,1,0,,,,318423184
+1,Pakistan,13,Abdul Razzaq,J Botha,Misbah-ul-Haq,,0,1,1,,,,318423184
+1,Pakistan,13,Misbah-ul-Haq,J Botha,Abdul Razzaq,,0,0,0,,,,318423184
+1,Pakistan,13,Misbah-ul-Haq,J Botha,Abdul Razzaq,,0,1,1,,,,318423184
+1,Pakistan,13,Abdul Razzaq,J Botha,Misbah-ul-Haq,,0,2,2,,,,318423184
+1,Pakistan,13,Abdul Razzaq,J Botha,Misbah-ul-Haq,,0,0,0,bowled,Abdul Razzaq,,318423184
+1,Pakistan,13,Zulqarnain Haider,J Botha,Misbah-ul-Haq,,0,1,1,,,,318423184
+1,Pakistan,14,Zulqarnain Haider,M Morkel,Misbah-ul-Haq,,0,0,0,,,,318423184
+1,Pakistan,14,Zulqarnain Haider,M Morkel,Misbah-ul-Haq,,0,0,0,,,,318423184
+1,Pakistan,14,Zulqarnain Haider,M Morkel,Misbah-ul-Haq,,0,0,0,caught,Zulqarnain Haider,JP Duminy,318423184
+1,Pakistan,14,Umar Gul,M Morkel,Misbah-ul-Haq,,0,0,0,,,,318423184
+1,Pakistan,14,Umar Gul,M Morkel,Misbah-ul-Haq,,0,0,0,,,,318423184
+1,Pakistan,14,Umar Gul,M Morkel,Misbah-ul-Haq,,0,0,0,,,,318423184
+1,Pakistan,15,Misbah-ul-Haq,LL Tsotsobe,Umar Gul,,0,1,1,,,,318423184
+1,Pakistan,15,Umar Gul,LL Tsotsobe,Misbah-ul-Haq,,0,0,0,,,,318423184
+1,Pakistan,15,Umar Gul,LL Tsotsobe,Misbah-ul-Haq,,0,0,0,caught,Umar Gul,GC Smith,318423184
+1,Pakistan,15,Misbah-ul-Haq,LL Tsotsobe,Saeed Ajmal,,0,1,1,,,,318423184
+1,Pakistan,15,Saeed Ajmal,LL Tsotsobe,Misbah-ul-Haq,,0,0,0,,,,318423184
+1,Pakistan,15,Saeed Ajmal,LL Tsotsobe,Misbah-ul-Haq,,0,1,1,,,,318423184
+1,Pakistan,16,Saeed Ajmal,M Morkel,Misbah-ul-Haq,,0,1,1,,,,318423184
+1,Pakistan,16,Misbah-ul-Haq,M Morkel,Saeed Ajmal,,0,0,0,,,,318423184
+1,Pakistan,16,Misbah-ul-Haq,M Morkel,Saeed Ajmal,,0,0,0,,,,318423184
+1,Pakistan,16,Misbah-ul-Haq,M Morkel,Saeed Ajmal,,0,1,1,,,,318423184
+1,Pakistan,16,Saeed Ajmal,M Morkel,Misbah-ul-Haq,,0,0,0,,,,318423184
+1,Pakistan,16,Saeed Ajmal,M Morkel,Misbah-ul-Haq,,0,1,1,,,,318423184
+1,Pakistan,17,Saeed Ajmal,J Theron,Misbah-ul-Haq,,0,1,1,,,,318423184
+1,Pakistan,17,Misbah-ul-Haq,J Theron,Saeed Ajmal,,0,1,1,,,,318423184
+1,Pakistan,17,Saeed Ajmal,J Theron,Misbah-ul-Haq,,0,0,0,run out,Saeed Ajmal,DA Miller,318423184
+1,Pakistan,17,Shoaib Akhtar,J Theron,Misbah-ul-Haq,,0,3,3,,,,318423184
+1,Pakistan,17,Misbah-ul-Haq,J Theron,Shoaib Akhtar,,0,1,1,,,,318423184
+1,Pakistan,17,Shoaib Akhtar,J Theron,Misbah-ul-Haq,,0,0,0,,,,318423184
+1,Pakistan,18,Misbah-ul-Haq,JA Morkel,Shoaib Akhtar,,0,0,0,,,,318423184
+1,Pakistan,18,Misbah-ul-Haq,JA Morkel,Shoaib Akhtar,,0,0,0,,,,318423184
+1,Pakistan,18,Misbah-ul-Haq,JA Morkel,Shoaib Akhtar,,0,0,0,,,,318423184
+1,Pakistan,18,Misbah-ul-Haq,JA Morkel,Shoaib Akhtar,,0,4,4,,,,318423184
+1,Pakistan,18,Misbah-ul-Haq,JA Morkel,Shoaib Akhtar,,0,4,4,,,,318423184
+1,Pakistan,18,Misbah-ul-Haq,JA Morkel,Shoaib Akhtar,,0,1,1,,,,318423184
+1,Pakistan,19,Misbah-ul-Haq,J Theron,Shoaib Akhtar,,0,0,0,,,,318423184
+1,Pakistan,19,Misbah-ul-Haq,J Theron,Shoaib Akhtar,,0,0,0,,,,318423184
+1,Pakistan,19,Misbah-ul-Haq,J Theron,Shoaib Akhtar,,0,0,0,,,,318423184
+1,Pakistan,19,Misbah-ul-Haq,J Theron,Shoaib Akhtar,,0,6,6,,,,318423184
+1,Pakistan,19,Misbah-ul-Haq,J Theron,Shoaib Akhtar,,0,1,1,run out,Shoaib Akhtar,DA Miller,318423184

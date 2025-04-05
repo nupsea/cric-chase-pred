@@ -1,0 +1,72 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Argentina,0,V Vasquez,NC Monteiro,M Castineiras,,0,0,0,,,,31781231781
+1,Argentina,0,V Vasquez,NC Monteiro,M Castineiras,wides,1,1,0,,,,31781231781
+1,Argentina,0,V Vasquez,NC Monteiro,M Castineiras,,0,0,0,,,,31781231781
+1,Argentina,0,V Vasquez,NC Monteiro,M Castineiras,,0,1,1,,,,31781231781
+1,Argentina,0,M Castineiras,NC Monteiro,V Vasquez,,0,0,0,,,,31781231781
+1,Argentina,0,M Castineiras,NC Monteiro,V Vasquez,,0,0,0,,,,31781231781
+1,Argentina,0,M Castineiras,NC Monteiro,V Vasquez,,0,1,1,,,,31781231781
+1,Argentina,1,M Castineiras,M Ribeiro,V Vasquez,,0,0,0,,,,31781231781
+1,Argentina,1,M Castineiras,M Ribeiro,V Vasquez,,0,0,0,,,,31781231781
+1,Argentina,1,M Castineiras,M Ribeiro,V Vasquez,,0,0,0,,,,31781231781
+1,Argentina,1,M Castineiras,M Ribeiro,V Vasquez,,0,0,0,caught,M Castineiras,RMAM Avery,31781231781
+1,Argentina,1,A Stocks,M Ribeiro,V Vasquez,,0,0,0,,,,31781231781
+1,Argentina,1,A Stocks,M Ribeiro,V Vasquez,,0,0,0,,,,31781231781
+1,Argentina,2,V Vasquez,NC Monteiro,A Stocks,,0,0,0,,,,31781231781
+1,Argentina,2,V Vasquez,NC Monteiro,A Stocks,,0,0,0,,,,31781231781
+1,Argentina,2,V Vasquez,NC Monteiro,A Stocks,,0,0,0,run out,A Stocks,E de Souza,31781231781
+1,Argentina,2,L Taylor,NC Monteiro,V Vasquez,,0,0,0,,,,31781231781
+1,Argentina,2,L Taylor,NC Monteiro,V Vasquez,,0,0,0,,,,31781231781
+1,Argentina,2,L Taylor,NC Monteiro,V Vasquez,,0,0,0,,,,31781231781
+1,Argentina,3,V Vasquez,M Ribeiro,L Taylor,wides,1,1,0,,,,31781231781
+1,Argentina,3,V Vasquez,M Ribeiro,L Taylor,,0,0,0,,,,31781231781
+1,Argentina,3,V Vasquez,M Ribeiro,L Taylor,,0,0,0,,,,31781231781
+1,Argentina,3,V Vasquez,M Ribeiro,L Taylor,,0,0,0,,,,31781231781
+1,Argentina,3,V Vasquez,M Ribeiro,L Taylor,,0,0,0,,,,31781231781
+1,Argentina,3,V Vasquez,M Ribeiro,L Taylor,,0,1,1,,,,31781231781
+1,Argentina,3,L Taylor,M Ribeiro,V Vasquez,,0,0,0,,,,31781231781
+1,Argentina,4,V Vasquez,NC Monteiro,L Taylor,,0,0,0,,,,31781231781
+1,Argentina,4,V Vasquez,NC Monteiro,L Taylor,,0,0,0,caught and bowled,V Vasquez,,31781231781
+1,Argentina,4,M Martinez,NC Monteiro,L Taylor,,0,0,0,,,,31781231781
+1,Argentina,4,M Martinez,NC Monteiro,L Taylor,,0,1,1,,,,31781231781
+1,Argentina,4,L Taylor,NC Monteiro,M Martinez,,0,0,0,,,,31781231781
+1,Argentina,4,L Taylor,NC Monteiro,M Martinez,,0,0,0,,,,31781231781
+1,Argentina,5,M Martinez,RD de Sousa,L Taylor,,0,0,0,lbw,M Martinez,,31781231781
+1,Argentina,5,CA Greloni,RD de Sousa,L Taylor,,0,0,0,,,,31781231781
+1,Argentina,5,CA Greloni,RD de Sousa,L Taylor,,0,0,0,,,,31781231781
+1,Argentina,5,CA Greloni,RD de Sousa,L Taylor,,0,0,0,,,,31781231781
+1,Argentina,5,CA Greloni,RD de Sousa,L Taylor,,0,1,1,,,,31781231781
+1,Argentina,5,L Taylor,RD de Sousa,CA Greloni,,0,0,0,,,,31781231781
+1,Argentina,6,CA Greloni,L Moises,L Taylor,,0,0,0,run out,L Taylor,E de Souza,31781231781
+1,Argentina,6,M Esquivel,L Moises,CA Greloni,,0,0,0,caught,M Esquivel,RD de Sousa,31781231781
+1,Argentina,6,CA Greloni,L Moises,JC Cullen,,0,0,0,,,,31781231781
+1,Argentina,6,CA Greloni,L Moises,JC Cullen,,0,0,0,,,,31781231781
+1,Argentina,6,CA Greloni,L Moises,JC Cullen,,0,0,0,,,,31781231781
+1,Argentina,6,CA Greloni,L Moises,JC Cullen,,0,0,0,,,,31781231781
+1,Argentina,7,JC Cullen,RD de Sousa,CA Greloni,,0,0,0,bowled,JC Cullen,,31781231781
+1,Argentina,7,T Basile,RD de Sousa,CA Greloni,,0,0,0,,,,31781231781
+1,Argentina,7,T Basile,RD de Sousa,CA Greloni,,0,0,0,,,,31781231781
+1,Argentina,7,T Basile,RD de Sousa,CA Greloni,,0,0,0,,,,31781231781
+1,Argentina,7,T Basile,RD de Sousa,CA Greloni,,0,0,0,,,,31781231781
+1,Argentina,7,T Basile,RD de Sousa,CA Greloni,,0,0,0,,,,31781231781
+1,Argentina,8,CA Greloni,L Moises,T Basile,,0,0,0,,,,31781231781
+1,Argentina,8,CA Greloni,L Moises,T Basile,,0,0,0,,,,31781231781
+1,Argentina,8,CA Greloni,L Moises,T Basile,,0,1,1,,,,31781231781
+1,Argentina,8,T Basile,L Moises,CA Greloni,,0,0,0,,,,31781231781
+1,Argentina,8,T Basile,L Moises,CA Greloni,,0,2,2,,,,31781231781
+1,Argentina,8,T Basile,L Moises,CA Greloni,,0,0,0,bowled,T Basile,,31781231781
+1,Argentina,9,CA Greloni,L Cardoso,C Sosa,,0,0,0,,,,31781231781
+1,Argentina,9,CA Greloni,L Cardoso,C Sosa,,0,0,0,,,,31781231781
+1,Argentina,9,CA Greloni,L Cardoso,C Sosa,,0,0,0,,,,31781231781
+1,Argentina,9,CA Greloni,L Cardoso,C Sosa,,0,0,0,,,,31781231781
+1,Argentina,9,CA Greloni,L Cardoso,C Sosa,,0,0,0,,,,31781231781
+1,Argentina,9,CA Greloni,L Cardoso,C Sosa,,0,0,0,,,,31781231781
+1,Argentina,10,C Sosa,D Staddon,CA Greloni,,0,1,1,,,,31781231781
+1,Argentina,10,CA Greloni,D Staddon,C Sosa,wides,1,1,0,,,,31781231781
+1,Argentina,10,CA Greloni,D Staddon,C Sosa,,0,0,0,,,,31781231781
+1,Argentina,10,CA Greloni,D Staddon,C Sosa,,0,0,0,,,,31781231781
+1,Argentina,10,CA Greloni,D Staddon,C Sosa,,0,0,0,bowled,CA Greloni,,31781231781
+1,Argentina,10,L Iglesias,D Staddon,C Sosa,,0,0,0,,,,31781231781
+1,Argentina,10,L Iglesias,D Staddon,C Sosa,,0,0,0,,,,31781231781
+1,Argentina,11,C Sosa,L Cardoso,L Iglesias,,0,0,0,,,,31781231781
+1,Argentina,11,C Sosa,L Cardoso,L Iglesias,,0,0,0,caught,C Sosa,RD de Sousa,31781231781

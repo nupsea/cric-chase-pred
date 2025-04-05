@@ -1,0 +1,91 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Bangladesh,0,Tamim Iqbal,DW Steyn,Junaid Siddique,,0,0,0,,,,3562356
+2,Bangladesh,0,Tamim Iqbal,DW Steyn,Junaid Siddique,,0,0,0,,,,3562356
+2,Bangladesh,0,Tamim Iqbal,DW Steyn,Junaid Siddique,wides,1,1,0,,,,3562356
+2,Bangladesh,0,Tamim Iqbal,DW Steyn,Junaid Siddique,,0,0,0,,,,3562356
+2,Bangladesh,0,Tamim Iqbal,DW Steyn,Junaid Siddique,,0,0,0,,,,3562356
+2,Bangladesh,0,Tamim Iqbal,DW Steyn,Junaid Siddique,,0,1,1,,,,3562356
+2,Bangladesh,0,Junaid Siddique,DW Steyn,Tamim Iqbal,,0,4,4,,,,3562356
+2,Bangladesh,1,Tamim Iqbal,J Louw,Junaid Siddique,,0,0,0,,,,3562356
+2,Bangladesh,1,Tamim Iqbal,J Louw,Junaid Siddique,,0,0,0,,,,3562356
+2,Bangladesh,1,Tamim Iqbal,J Louw,Junaid Siddique,wides,1,1,0,,,,3562356
+2,Bangladesh,1,Tamim Iqbal,J Louw,Junaid Siddique,,0,0,0,,,,3562356
+2,Bangladesh,1,Tamim Iqbal,J Louw,Junaid Siddique,,0,4,4,,,,3562356
+2,Bangladesh,1,Tamim Iqbal,J Louw,Junaid Siddique,wides,1,1,0,,,,3562356
+2,Bangladesh,1,Tamim Iqbal,J Louw,Junaid Siddique,,0,2,2,,,,3562356
+2,Bangladesh,1,Tamim Iqbal,J Louw,Junaid Siddique,,0,1,1,,,,3562356
+2,Bangladesh,2,Tamim Iqbal,DW Steyn,Junaid Siddique,,0,0,0,,,,3562356
+2,Bangladesh,2,Tamim Iqbal,DW Steyn,Junaid Siddique,,0,4,4,,,,3562356
+2,Bangladesh,2,Tamim Iqbal,DW Steyn,Junaid Siddique,,0,0,0,,,,3562356
+2,Bangladesh,2,Tamim Iqbal,DW Steyn,Junaid Siddique,,0,2,2,,,,3562356
+2,Bangladesh,2,Tamim Iqbal,DW Steyn,Junaid Siddique,,0,4,4,,,,3562356
+2,Bangladesh,2,Tamim Iqbal,DW Steyn,Junaid Siddique,,0,0,0,,,,3562356
+2,Bangladesh,3,Junaid Siddique,RK Kleinveldt,Tamim Iqbal,,0,0,0,caught,Junaid Siddique,AB de Villiers,3562356
+2,Bangladesh,3,Mohammad Ashraful,RK Kleinveldt,Tamim Iqbal,wides,1,1,0,,,,3562356
+2,Bangladesh,3,Mohammad Ashraful,RK Kleinveldt,Tamim Iqbal,,0,4,4,,,,3562356
+2,Bangladesh,3,Mohammad Ashraful,RK Kleinveldt,Tamim Iqbal,,0,1,1,,,,3562356
+2,Bangladesh,3,Tamim Iqbal,RK Kleinveldt,Mohammad Ashraful,wides,5,5,0,,,,3562356
+2,Bangladesh,3,Tamim Iqbal,RK Kleinveldt,Mohammad Ashraful,,0,1,1,,,,3562356
+2,Bangladesh,3,Mohammad Ashraful,RK Kleinveldt,Tamim Iqbal,,0,4,4,,,,3562356
+2,Bangladesh,3,Mohammad Ashraful,RK Kleinveldt,Tamim Iqbal,,0,4,4,,,,3562356
+2,Bangladesh,4,Tamim Iqbal,M Morkel,Mohammad Ashraful,,0,1,1,,,,3562356
+2,Bangladesh,4,Mohammad Ashraful,M Morkel,Tamim Iqbal,,0,4,4,,,,3562356
+2,Bangladesh,4,Mohammad Ashraful,M Morkel,Tamim Iqbal,,0,0,0,,,,3562356
+2,Bangladesh,4,Mohammad Ashraful,M Morkel,Tamim Iqbal,,0,4,4,,,,3562356
+2,Bangladesh,4,Mohammad Ashraful,M Morkel,Tamim Iqbal,,0,0,0,,,,3562356
+2,Bangladesh,4,Mohammad Ashraful,M Morkel,Tamim Iqbal,wides,1,1,0,,,,3562356
+2,Bangladesh,4,Mohammad Ashraful,M Morkel,Tamim Iqbal,legbyes,1,1,0,,,,3562356
+2,Bangladesh,5,Mohammad Ashraful,J Botha,Tamim Iqbal,,0,0,0,bowled,Mohammad Ashraful,,3562356
+2,Bangladesh,5,Raqibul Hasan,J Botha,Tamim Iqbal,,0,0,0,,,,3562356
+2,Bangladesh,5,Raqibul Hasan,J Botha,Tamim Iqbal,,0,1,1,,,,3562356
+2,Bangladesh,5,Tamim Iqbal,J Botha,Raqibul Hasan,,0,1,1,,,,3562356
+2,Bangladesh,5,Raqibul Hasan,J Botha,Tamim Iqbal,,0,1,1,,,,3562356
+2,Bangladesh,5,Tamim Iqbal,J Botha,Raqibul Hasan,,0,4,4,,,,3562356
+2,Bangladesh,6,Raqibul Hasan,M Morkel,Tamim Iqbal,,0,1,1,,,,3562356
+2,Bangladesh,6,Tamim Iqbal,M Morkel,Raqibul Hasan,,0,0,0,,,,3562356
+2,Bangladesh,6,Tamim Iqbal,M Morkel,Raqibul Hasan,legbyes,1,1,0,,,,3562356
+2,Bangladesh,6,Raqibul Hasan,M Morkel,Tamim Iqbal,,0,0,0,caught,Raqibul Hasan,AB de Villiers,3562356
+2,Bangladesh,6,Shakib Al Hasan,M Morkel,Tamim Iqbal,,0,0,0,,,,3562356
+2,Bangladesh,6,Shakib Al Hasan,M Morkel,Tamim Iqbal,,0,4,4,,,,3562356
+2,Bangladesh,7,Tamim Iqbal,J Botha,Shakib Al Hasan,,0,0,0,stumped,Tamim Iqbal,AB de Villiers,3562356
+2,Bangladesh,7,Naeem Islam,J Botha,Shakib Al Hasan,,0,1,1,,,,3562356
+2,Bangladesh,7,Shakib Al Hasan,J Botha,Naeem Islam,,0,0,0,run out,Shakib Al Hasan,J Botha,3562356
+2,Bangladesh,7,Naeem Islam,J Botha,Mushfiqur Rahim,,0,1,1,,,,3562356
+2,Bangladesh,7,Mushfiqur Rahim,J Botha,Naeem Islam,,0,1,1,,,,3562356
+2,Bangladesh,7,Naeem Islam,J Botha,Mushfiqur Rahim,,0,2,2,,,,3562356
+2,Bangladesh,8,Mushfiqur Rahim,JA Morkel,Naeem Islam,,0,4,4,,,,3562356
+2,Bangladesh,8,Mushfiqur Rahim,JA Morkel,Naeem Islam,legbyes,1,1,0,,,,3562356
+2,Bangladesh,8,Naeem Islam,JA Morkel,Mushfiqur Rahim,,0,4,4,,,,3562356
+2,Bangladesh,8,Naeem Islam,JA Morkel,Mushfiqur Rahim,,0,0,0,,,,3562356
+2,Bangladesh,8,Naeem Islam,JA Morkel,Mushfiqur Rahim,,0,0,0,,,,3562356
+2,Bangladesh,8,Naeem Islam,JA Morkel,Mushfiqur Rahim,,0,2,2,,,,3562356
+2,Bangladesh,9,Mushfiqur Rahim,J Botha,Naeem Islam,,0,0,0,,,,3562356
+2,Bangladesh,9,Mushfiqur Rahim,J Botha,Naeem Islam,,0,1,1,,,,3562356
+2,Bangladesh,9,Naeem Islam,J Botha,Mushfiqur Rahim,,0,1,1,,,,3562356
+2,Bangladesh,9,Mushfiqur Rahim,J Botha,Naeem Islam,,0,1,1,,,,3562356
+2,Bangladesh,9,Naeem Islam,J Botha,Mushfiqur Rahim,,0,0,0,,,,3562356
+2,Bangladesh,9,Naeem Islam,J Botha,Mushfiqur Rahim,,0,0,0,,,,3562356
+2,Bangladesh,10,Mushfiqur Rahim,JA Morkel,Naeem Islam,,0,4,4,,,,3562356
+2,Bangladesh,10,Mushfiqur Rahim,JA Morkel,Naeem Islam,,0,0,0,,,,3562356
+2,Bangladesh,10,Mushfiqur Rahim,JA Morkel,Naeem Islam,,0,1,1,,,,3562356
+2,Bangladesh,10,Naeem Islam,JA Morkel,Mushfiqur Rahim,,0,1,1,run out,Mushfiqur Rahim,AB de Villiers,3562356
+2,Bangladesh,10,Mehrab Hossain jnr,JA Morkel,Naeem Islam,legbyes,1,1,0,,,,3562356
+2,Bangladesh,10,Naeem Islam,JA Morkel,Mehrab Hossain jnr,,0,2,2,,,,3562356
+2,Bangladesh,11,Mehrab Hossain jnr,J Louw,Naeem Islam,,0,1,1,,,,3562356
+2,Bangladesh,11,Naeem Islam,J Louw,Mehrab Hossain jnr,,0,0,0,,,,3562356
+2,Bangladesh,11,Naeem Islam,J Louw,Mehrab Hossain jnr,,0,1,1,,,,3562356
+2,Bangladesh,11,Mehrab Hossain jnr,J Louw,Naeem Islam,,0,1,1,,,,3562356
+2,Bangladesh,11,Naeem Islam,J Louw,Mehrab Hossain jnr,,0,0,0,,,,3562356
+2,Bangladesh,11,Naeem Islam,J Louw,Mehrab Hossain jnr,,0,0,0,,,,3562356
+2,Bangladesh,12,Mehrab Hossain jnr,DW Steyn,Naeem Islam,,0,1,1,,,,3562356
+2,Bangladesh,12,Naeem Islam,DW Steyn,Mehrab Hossain jnr,,0,0,0,bowled,Naeem Islam,,3562356
+2,Bangladesh,12,Abdur Razzak,DW Steyn,Mehrab Hossain jnr,legbyes,1,1,0,,,,3562356
+2,Bangladesh,12,Mehrab Hossain jnr,DW Steyn,Abdur Razzak,,0,1,1,,,,3562356
+2,Bangladesh,12,Abdur Razzak,DW Steyn,Mehrab Hossain jnr,,0,0,0,bowled,Abdur Razzak,,3562356
+2,Bangladesh,12,Shahadat Hossain,DW Steyn,Mehrab Hossain jnr,,0,0,0,,,,3562356
+2,Bangladesh,13,Mehrab Hossain jnr,J Louw,Shahadat Hossain,,0,1,1,,,,3562356
+2,Bangladesh,13,Shahadat Hossain,J Louw,Mehrab Hossain jnr,,0,2,2,,,,3562356
+2,Bangladesh,13,Shahadat Hossain,J Louw,Mehrab Hossain jnr,,0,1,1,,,,3562356
+2,Bangladesh,13,Mehrab Hossain jnr,J Louw,Shahadat Hossain,,0,0,0,,,,3562356
+2,Bangladesh,13,Mehrab Hossain jnr,J Louw,Shahadat Hossain,,0,1,1,,,,3562356
+2,Bangladesh,13,Shahadat Hossain,J Louw,Mehrab Hossain jnr,,0,1,1,,,,3562356

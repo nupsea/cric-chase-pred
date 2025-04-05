@@ -1,0 +1,113 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Zimbabwe,0,BRM Taylor,Shakib Al Hasan,H Masakadza,,0,4,4,,,,31220231220
+1,Zimbabwe,0,BRM Taylor,Shakib Al Hasan,H Masakadza,,0,0,0,,,,31220231220
+1,Zimbabwe,0,BRM Taylor,Shakib Al Hasan,H Masakadza,,0,1,1,,,,31220231220
+1,Zimbabwe,0,H Masakadza,Shakib Al Hasan,BRM Taylor,,0,0,0,,,,31220231220
+1,Zimbabwe,0,H Masakadza,Shakib Al Hasan,BRM Taylor,,0,1,1,,,,31220231220
+1,Zimbabwe,0,BRM Taylor,Shakib Al Hasan,H Masakadza,,0,1,1,,,,31220231220
+1,Zimbabwe,1,BRM Taylor,Taijul Islam,H Masakadza,,0,0,0,caught,BRM Taylor,Mahmudullah,31220231220
+1,Zimbabwe,1,H Masakadza,Taijul Islam,CR Ervine,,0,1,1,,,,31220231220
+1,Zimbabwe,1,CR Ervine,Taijul Islam,H Masakadza,wides,1,1,0,,,,31220231220
+1,Zimbabwe,1,CR Ervine,Taijul Islam,H Masakadza,,0,0,0,,,,31220231220
+1,Zimbabwe,1,CR Ervine,Taijul Islam,H Masakadza,,0,0,0,,,,31220231220
+1,Zimbabwe,1,CR Ervine,Taijul Islam,H Masakadza,,0,0,0,,,,31220231220
+1,Zimbabwe,1,CR Ervine,Taijul Islam,H Masakadza,,0,0,0,,,,31220231220
+1,Zimbabwe,2,H Masakadza,Shakib Al Hasan,CR Ervine,,0,0,0,,,,31220231220
+1,Zimbabwe,2,H Masakadza,Shakib Al Hasan,CR Ervine,,0,0,0,,,,31220231220
+1,Zimbabwe,2,H Masakadza,Shakib Al Hasan,CR Ervine,,0,0,0,,,,31220231220
+1,Zimbabwe,2,H Masakadza,Shakib Al Hasan,CR Ervine,,0,4,4,,,,31220231220
+1,Zimbabwe,2,H Masakadza,Shakib Al Hasan,CR Ervine,,0,4,4,,,,31220231220
+1,Zimbabwe,2,H Masakadza,Shakib Al Hasan,CR Ervine,,0,0,0,,,,31220231220
+1,Zimbabwe,3,CR Ervine,Taijul Islam,H Masakadza,wides,1,1,0,,,,31220231220
+1,Zimbabwe,3,CR Ervine,Taijul Islam,H Masakadza,,0,0,0,,,,31220231220
+1,Zimbabwe,3,CR Ervine,Taijul Islam,H Masakadza,,0,1,1,,,,31220231220
+1,Zimbabwe,3,H Masakadza,Taijul Islam,CR Ervine,,0,0,0,,,,31220231220
+1,Zimbabwe,3,H Masakadza,Taijul Islam,CR Ervine,,0,0,0,,,,31220231220
+1,Zimbabwe,3,H Masakadza,Taijul Islam,CR Ervine,,0,0,0,,,,31220231220
+1,Zimbabwe,3,H Masakadza,Taijul Islam,CR Ervine,,0,4,4,,,,31220231220
+1,Zimbabwe,4,CR Ervine,Mohammad Saifuddin,H Masakadza,legbyes,1,1,0,,,,31220231220
+1,Zimbabwe,4,H Masakadza,Mohammad Saifuddin,CR Ervine,,0,0,0,,,,31220231220
+1,Zimbabwe,4,H Masakadza,Mohammad Saifuddin,CR Ervine,,0,1,1,,,,31220231220
+1,Zimbabwe,4,CR Ervine,Mohammad Saifuddin,H Masakadza,,0,1,1,,,,31220231220
+1,Zimbabwe,4,H Masakadza,Mohammad Saifuddin,CR Ervine,,0,4,4,,,,31220231220
+1,Zimbabwe,4,H Masakadza,Mohammad Saifuddin,CR Ervine,,0,0,0,,,,31220231220
+1,Zimbabwe,5,CR Ervine,Taijul Islam,H Masakadza,,0,4,4,,,,31220231220
+1,Zimbabwe,5,CR Ervine,Taijul Islam,H Masakadza,,0,2,2,,,,31220231220
+1,Zimbabwe,5,CR Ervine,Taijul Islam,H Masakadza,,0,1,1,,,,31220231220
+1,Zimbabwe,5,H Masakadza,Taijul Islam,CR Ervine,,0,6,6,,,,31220231220
+1,Zimbabwe,5,H Masakadza,Taijul Islam,CR Ervine,,0,4,4,,,,31220231220
+1,Zimbabwe,5,H Masakadza,Taijul Islam,CR Ervine,,0,1,1,,,,31220231220
+1,Zimbabwe,6,H Masakadza,Mustafizur Rahman,CR Ervine,,0,1,1,,,,31220231220
+1,Zimbabwe,6,CR Ervine,Mustafizur Rahman,H Masakadza,,0,2,2,,,,31220231220
+1,Zimbabwe,6,CR Ervine,Mustafizur Rahman,H Masakadza,,0,0,0,,,,31220231220
+1,Zimbabwe,6,CR Ervine,Mustafizur Rahman,H Masakadza,,0,0,0,caught,CR Ervine,Mosaddek Hossain,31220231220
+1,Zimbabwe,6,H Masakadza,Mustafizur Rahman,SC Williams,,0,0,0,,,,31220231220
+1,Zimbabwe,6,H Masakadza,Mustafizur Rahman,SC Williams,,0,1,1,,,,31220231220
+1,Zimbabwe,7,H Masakadza,Mohammad Saifuddin,SC Williams,,0,1,1,,,,31220231220
+1,Zimbabwe,7,SC Williams,Mohammad Saifuddin,H Masakadza,,0,1,1,,,,31220231220
+1,Zimbabwe,7,H Masakadza,Mohammad Saifuddin,SC Williams,,0,1,1,,,,31220231220
+1,Zimbabwe,7,SC Williams,Mohammad Saifuddin,H Masakadza,,0,1,1,,,,31220231220
+1,Zimbabwe,7,H Masakadza,Mohammad Saifuddin,SC Williams,,0,0,0,caught,H Masakadza,Sabbir Rahman,31220231220
+1,Zimbabwe,7,T Maruma,Mohammad Saifuddin,SC Williams,,0,0,0,,,,31220231220
+1,Zimbabwe,8,SC Williams,Mosaddek Hossain,T Maruma,,0,0,0,caught and bowled,SC Williams,,31220231220
+1,Zimbabwe,8,RP Burl,Mosaddek Hossain,T Maruma,,0,0,0,,,,31220231220
+1,Zimbabwe,8,RP Burl,Mosaddek Hossain,T Maruma,,0,0,0,,,,31220231220
+1,Zimbabwe,8,RP Burl,Mosaddek Hossain,T Maruma,,0,1,1,,,,31220231220
+1,Zimbabwe,8,T Maruma,Mosaddek Hossain,RP Burl,,0,1,1,,,,31220231220
+1,Zimbabwe,8,RP Burl,Mosaddek Hossain,T Maruma,,0,1,1,,,,31220231220
+1,Zimbabwe,9,RP Burl,Mustafizur Rahman,T Maruma,,0,4,4,,,,31220231220
+1,Zimbabwe,9,RP Burl,Mustafizur Rahman,T Maruma,,0,0,0,,,,31220231220
+1,Zimbabwe,9,RP Burl,Mustafizur Rahman,T Maruma,,0,0,0,run out,T Maruma,,31220231220
+1,Zimbabwe,9,RP Burl,Mustafizur Rahman,CT Mutombodzi,wides,1,1,0,,,,31220231220
+1,Zimbabwe,9,RP Burl,Mustafizur Rahman,CT Mutombodzi,,0,0,0,,,,31220231220
+1,Zimbabwe,9,RP Burl,Mustafizur Rahman,CT Mutombodzi,,0,0,0,,,,31220231220
+1,Zimbabwe,9,RP Burl,Mustafizur Rahman,CT Mutombodzi,,0,0,0,,,,31220231220
+1,Zimbabwe,10,CT Mutombodzi,Mosaddek Hossain,RP Burl,,0,0,0,,,,31220231220
+1,Zimbabwe,10,CT Mutombodzi,Mosaddek Hossain,RP Burl,legbyes,1,1,0,,,,31220231220
+1,Zimbabwe,10,RP Burl,Mosaddek Hossain,CT Mutombodzi,,0,1,1,,,,31220231220
+1,Zimbabwe,10,CT Mutombodzi,Mosaddek Hossain,RP Burl,,0,0,0,,,,31220231220
+1,Zimbabwe,10,CT Mutombodzi,Mosaddek Hossain,RP Burl,,0,1,1,,,,31220231220
+1,Zimbabwe,10,RP Burl,Mosaddek Hossain,CT Mutombodzi,,0,1,1,,,,31220231220
+1,Zimbabwe,11,RP Burl,Shakib Al Hasan,CT Mutombodzi,,0,1,1,,,,31220231220
+1,Zimbabwe,11,CT Mutombodzi,Shakib Al Hasan,RP Burl,,0,1,1,,,,31220231220
+1,Zimbabwe,11,RP Burl,Shakib Al Hasan,CT Mutombodzi,,0,0,0,,,,31220231220
+1,Zimbabwe,11,RP Burl,Shakib Al Hasan,CT Mutombodzi,,0,0,0,,,,31220231220
+1,Zimbabwe,11,RP Burl,Shakib Al Hasan,CT Mutombodzi,,0,1,1,,,,31220231220
+1,Zimbabwe,11,CT Mutombodzi,Shakib Al Hasan,RP Burl,,0,1,1,,,,31220231220
+1,Zimbabwe,12,CT Mutombodzi,Mosaddek Hossain,RP Burl,,0,1,1,,,,31220231220
+1,Zimbabwe,12,RP Burl,Mosaddek Hossain,CT Mutombodzi,,0,1,1,,,,31220231220
+1,Zimbabwe,12,CT Mutombodzi,Mosaddek Hossain,RP Burl,,0,0,0,,,,31220231220
+1,Zimbabwe,12,CT Mutombodzi,Mosaddek Hossain,RP Burl,,0,0,0,,,,31220231220
+1,Zimbabwe,12,CT Mutombodzi,Mosaddek Hossain,RP Burl,,0,2,2,,,,31220231220
+1,Zimbabwe,12,CT Mutombodzi,Mosaddek Hossain,RP Burl,,0,0,0,,,,31220231220
+1,Zimbabwe,13,RP Burl,Mohammad Saifuddin,CT Mutombodzi,,0,1,1,,,,31220231220
+1,Zimbabwe,13,CT Mutombodzi,Mohammad Saifuddin,RP Burl,,0,2,2,,,,31220231220
+1,Zimbabwe,13,CT Mutombodzi,Mohammad Saifuddin,RP Burl,,0,0,0,,,,31220231220
+1,Zimbabwe,13,CT Mutombodzi,Mohammad Saifuddin,RP Burl,,0,0,0,,,,31220231220
+1,Zimbabwe,13,CT Mutombodzi,Mohammad Saifuddin,RP Burl,,0,2,2,,,,31220231220
+1,Zimbabwe,13,CT Mutombodzi,Mohammad Saifuddin,RP Burl,,0,0,0,,,,31220231220
+1,Zimbabwe,14,RP Burl,Mustafizur Rahman,CT Mutombodzi,,0,1,1,,,,31220231220
+1,Zimbabwe,14,CT Mutombodzi,Mustafizur Rahman,RP Burl,,0,1,1,,,,31220231220
+1,Zimbabwe,14,RP Burl,Mustafizur Rahman,CT Mutombodzi,,0,6,6,,,,31220231220
+1,Zimbabwe,14,RP Burl,Mustafizur Rahman,CT Mutombodzi,,0,4,4,,,,31220231220
+1,Zimbabwe,14,RP Burl,Mustafizur Rahman,CT Mutombodzi,wides,1,1,0,,,,31220231220
+1,Zimbabwe,14,RP Burl,Mustafizur Rahman,CT Mutombodzi,,0,1,1,,,,31220231220
+1,Zimbabwe,14,CT Mutombodzi,Mustafizur Rahman,RP Burl,,0,0,0,,,,31220231220
+1,Zimbabwe,15,RP Burl,Shakib Al Hasan,CT Mutombodzi,,0,6,6,,,,31220231220
+1,Zimbabwe,15,RP Burl,Shakib Al Hasan,CT Mutombodzi,,0,4,4,,,,31220231220
+1,Zimbabwe,15,RP Burl,Shakib Al Hasan,CT Mutombodzi,,0,4,4,,,,31220231220
+1,Zimbabwe,15,RP Burl,Shakib Al Hasan,CT Mutombodzi,,0,6,6,,,,31220231220
+1,Zimbabwe,15,RP Burl,Shakib Al Hasan,CT Mutombodzi,,0,4,4,,,,31220231220
+1,Zimbabwe,15,RP Burl,Shakib Al Hasan,CT Mutombodzi,,0,6,6,,,,31220231220
+1,Zimbabwe,16,CT Mutombodzi,Mohammad Saifuddin,RP Burl,,0,1,1,,,,31220231220
+1,Zimbabwe,16,RP Burl,Mohammad Saifuddin,CT Mutombodzi,,0,1,1,,,,31220231220
+1,Zimbabwe,16,CT Mutombodzi,Mohammad Saifuddin,RP Burl,,0,1,1,,,,31220231220
+1,Zimbabwe,16,RP Burl,Mohammad Saifuddin,CT Mutombodzi,,0,1,1,,,,31220231220
+1,Zimbabwe,16,CT Mutombodzi,Mohammad Saifuddin,RP Burl,,0,6,6,,,,31220231220
+1,Zimbabwe,16,CT Mutombodzi,Mohammad Saifuddin,RP Burl,,0,1,1,,,,31220231220
+1,Zimbabwe,17,CT Mutombodzi,Mustafizur Rahman,RP Burl,,0,1,1,,,,31220231220
+1,Zimbabwe,17,RP Burl,Mustafizur Rahman,CT Mutombodzi,,0,0,0,,,,31220231220
+1,Zimbabwe,17,RP Burl,Mustafizur Rahman,CT Mutombodzi,,0,1,1,,,,31220231220
+1,Zimbabwe,17,CT Mutombodzi,Mustafizur Rahman,RP Burl,,0,4,4,,,,31220231220
+1,Zimbabwe,17,CT Mutombodzi,Mustafizur Rahman,RP Burl,,0,0,0,,,,31220231220
+1,Zimbabwe,17,CT Mutombodzi,Mustafizur Rahman,RP Burl,,0,2,2,,,,31220231220

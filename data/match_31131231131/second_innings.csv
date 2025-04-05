@@ -1,0 +1,98 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,South Africa,0,Q de Kock,MA Starc,HE van der Dussen,,0,1,1,,,,31131231131
+2,South Africa,0,HE van der Dussen,MA Starc,Q de Kock,,0,1,1,,,,31131231131
+2,South Africa,0,Q de Kock,MA Starc,HE van der Dussen,,0,4,4,,,,31131231131
+2,South Africa,0,Q de Kock,MA Starc,HE van der Dussen,,0,0,0,bowled,Q de Kock,,31131231131
+2,South Africa,0,F du Plessis,MA Starc,HE van der Dussen,,0,0,0,,,,31131231131
+2,South Africa,0,F du Plessis,MA Starc,HE van der Dussen,,0,1,1,,,,31131231131
+2,South Africa,1,F du Plessis,PJ Cummins,HE van der Dussen,,0,2,2,,,,31131231131
+2,South Africa,1,F du Plessis,PJ Cummins,HE van der Dussen,,0,0,0,,,,31131231131
+2,South Africa,1,F du Plessis,PJ Cummins,HE van der Dussen,,0,1,1,,,,31131231131
+2,South Africa,1,HE van der Dussen,PJ Cummins,F du Plessis,,0,1,1,,,,31131231131
+2,South Africa,1,F du Plessis,PJ Cummins,HE van der Dussen,,0,1,1,,,,31131231131
+2,South Africa,1,HE van der Dussen,PJ Cummins,F du Plessis,,0,1,1,,,,31131231131
+2,South Africa,2,HE van der Dussen,MA Starc,F du Plessis,,0,0,0,,,,31131231131
+2,South Africa,2,HE van der Dussen,MA Starc,F du Plessis,wides,1,1,0,,,,31131231131
+2,South Africa,2,HE van der Dussen,MA Starc,F du Plessis,,0,4,4,,,,31131231131
+2,South Africa,2,HE van der Dussen,MA Starc,F du Plessis,,0,4,4,,,,31131231131
+2,South Africa,2,HE van der Dussen,MA Starc,F du Plessis,,0,1,1,,,,31131231131
+2,South Africa,2,F du Plessis,MA Starc,HE van der Dussen,,0,0,0,caught,F du Plessis,A Zampa,31131231131
+2,South Africa,2,H Klaasen,MA Starc,HE van der Dussen,wides,1,1,0,,,,31131231131
+2,South Africa,2,H Klaasen,MA Starc,HE van der Dussen,,0,0,0,,,,31131231131
+2,South Africa,3,HE van der Dussen,KW Richardson,H Klaasen,,0,1,1,,,,31131231131
+2,South Africa,3,H Klaasen,KW Richardson,HE van der Dussen,,0,0,0,,,,31131231131
+2,South Africa,3,H Klaasen,KW Richardson,HE van der Dussen,,0,0,0,,,,31131231131
+2,South Africa,3,H Klaasen,KW Richardson,HE van der Dussen,,0,6,6,,,,31131231131
+2,South Africa,3,H Klaasen,KW Richardson,HE van der Dussen,,0,1,1,,,,31131231131
+2,South Africa,3,HE van der Dussen,KW Richardson,H Klaasen,,0,0,0,,,,31131231131
+2,South Africa,4,H Klaasen,PJ Cummins,HE van der Dussen,,0,4,4,,,,31131231131
+2,South Africa,4,H Klaasen,PJ Cummins,HE van der Dussen,,0,1,1,,,,31131231131
+2,South Africa,4,HE van der Dussen,PJ Cummins,H Klaasen,,0,1,1,,,,31131231131
+2,South Africa,4,H Klaasen,PJ Cummins,HE van der Dussen,,0,1,1,,,,31131231131
+2,South Africa,4,HE van der Dussen,PJ Cummins,H Klaasen,,0,1,1,,,,31131231131
+2,South Africa,4,H Klaasen,PJ Cummins,HE van der Dussen,,0,1,1,,,,31131231131
+2,South Africa,5,H Klaasen,KW Richardson,HE van der Dussen,,0,1,1,,,,31131231131
+2,South Africa,5,HE van der Dussen,KW Richardson,H Klaasen,,0,0,0,,,,31131231131
+2,South Africa,5,HE van der Dussen,KW Richardson,H Klaasen,,0,4,4,,,,31131231131
+2,South Africa,5,HE van der Dussen,KW Richardson,H Klaasen,,0,1,1,,,,31131231131
+2,South Africa,5,H Klaasen,KW Richardson,HE van der Dussen,,0,2,2,,,,31131231131
+2,South Africa,5,H Klaasen,KW Richardson,HE van der Dussen,,0,1,1,,,,31131231131
+2,South Africa,6,H Klaasen,AC Agar,HE van der Dussen,,0,0,0,,,,31131231131
+2,South Africa,6,H Klaasen,AC Agar,HE van der Dussen,,0,1,1,,,,31131231131
+2,South Africa,6,HE van der Dussen,AC Agar,H Klaasen,,0,1,1,,,,31131231131
+2,South Africa,6,H Klaasen,AC Agar,HE van der Dussen,,0,1,1,,,,31131231131
+2,South Africa,6,HE van der Dussen,AC Agar,H Klaasen,,0,1,1,,,,31131231131
+2,South Africa,6,H Klaasen,AC Agar,HE van der Dussen,,0,1,1,,,,31131231131
+2,South Africa,7,H Klaasen,A Zampa,HE van der Dussen,,0,1,1,,,,31131231131
+2,South Africa,7,HE van der Dussen,A Zampa,H Klaasen,,0,1,1,,,,31131231131
+2,South Africa,7,H Klaasen,A Zampa,HE van der Dussen,,0,0,0,bowled,H Klaasen,,31131231131
+2,South Africa,7,DA Miller,A Zampa,HE van der Dussen,,0,0,0,,,,31131231131
+2,South Africa,7,DA Miller,A Zampa,HE van der Dussen,,0,0,0,,,,31131231131
+2,South Africa,7,DA Miller,A Zampa,HE van der Dussen,,0,0,0,,,,31131231131
+2,South Africa,8,HE van der Dussen,AC Agar,DA Miller,,0,1,1,,,,31131231131
+2,South Africa,8,DA Miller,AC Agar,HE van der Dussen,,0,1,1,,,,31131231131
+2,South Africa,8,HE van der Dussen,AC Agar,DA Miller,,0,0,0,caught,HE van der Dussen,A Zampa,31131231131
+2,South Africa,8,DA Miller,AC Agar,PJ van Biljon,,0,1,1,,,,31131231131
+2,South Africa,8,PJ van Biljon,AC Agar,DA Miller,,0,1,1,,,,31131231131
+2,South Africa,8,DA Miller,AC Agar,PJ van Biljon,,0,1,1,,,,31131231131
+2,South Africa,9,DA Miller,A Zampa,PJ van Biljon,,0,0,0,,,,31131231131
+2,South Africa,9,DA Miller,A Zampa,PJ van Biljon,,0,2,2,,,,31131231131
+2,South Africa,9,DA Miller,A Zampa,PJ van Biljon,,0,1,1,,,,31131231131
+2,South Africa,9,PJ van Biljon,A Zampa,DA Miller,,0,0,0,,,,31131231131
+2,South Africa,9,PJ van Biljon,A Zampa,DA Miller,,0,0,0,,,,31131231131
+2,South Africa,9,PJ van Biljon,A Zampa,DA Miller,,0,0,0,bowled,PJ van Biljon,,31131231131
+2,South Africa,10,DA Miller,AC Agar,D Pretorius,,0,1,1,,,,31131231131
+2,South Africa,10,D Pretorius,AC Agar,DA Miller,,0,1,1,,,,31131231131
+2,South Africa,10,DA Miller,AC Agar,D Pretorius,,0,1,1,,,,31131231131
+2,South Africa,10,D Pretorius,AC Agar,DA Miller,,0,0,0,,,,31131231131
+2,South Africa,10,D Pretorius,AC Agar,DA Miller,,0,1,1,,,,31131231131
+2,South Africa,10,DA Miller,AC Agar,D Pretorius,,0,1,1,,,,31131231131
+2,South Africa,11,DA Miller,A Zampa,D Pretorius,,0,1,1,,,,31131231131
+2,South Africa,11,D Pretorius,A Zampa,DA Miller,,0,0,0,,,,31131231131
+2,South Africa,11,D Pretorius,A Zampa,DA Miller,,0,1,1,,,,31131231131
+2,South Africa,11,DA Miller,A Zampa,D Pretorius,,0,1,1,,,,31131231131
+2,South Africa,11,D Pretorius,A Zampa,DA Miller,,0,1,1,,,,31131231131
+2,South Africa,11,DA Miller,A Zampa,D Pretorius,,0,1,1,,,,31131231131
+2,South Africa,12,DA Miller,PJ Cummins,D Pretorius,,0,2,2,,,,31131231131
+2,South Africa,12,DA Miller,PJ Cummins,D Pretorius,,0,1,1,,,,31131231131
+2,South Africa,12,D Pretorius,PJ Cummins,DA Miller,,0,6,6,,,,31131231131
+2,South Africa,12,D Pretorius,PJ Cummins,DA Miller,wides,1,1,0,,,,31131231131
+2,South Africa,12,D Pretorius,PJ Cummins,DA Miller,wides,1,1,0,,,,31131231131
+2,South Africa,12,D Pretorius,PJ Cummins,DA Miller,,0,1,1,,,,31131231131
+2,South Africa,12,DA Miller,PJ Cummins,D Pretorius,,0,0,0,caught,DA Miller,AJ Finch,31131231131
+2,South Africa,12,K Rabada,PJ Cummins,D Pretorius,,0,0,0,,,,31131231131
+2,South Africa,13,D Pretorius,MR Marsh,K Rabada,,0,0,0,lbw,D Pretorius,,31131231131
+2,South Africa,13,A Nortje,MR Marsh,K Rabada,,0,0,0,,,,31131231131
+2,South Africa,13,A Nortje,MR Marsh,K Rabada,,0,1,1,,,,31131231131
+2,South Africa,13,K Rabada,MR Marsh,A Nortje,,0,1,1,,,,31131231131
+2,South Africa,13,A Nortje,MR Marsh,K Rabada,,0,0,0,,,,31131231131
+2,South Africa,13,A Nortje,MR Marsh,K Rabada,,0,1,1,,,,31131231131
+2,South Africa,14,A Nortje,AC Agar,K Rabada,,0,0,0,,,,31131231131
+2,South Africa,14,A Nortje,AC Agar,K Rabada,,0,0,0,lbw,A Nortje,,31131231131
+2,South Africa,14,L Ngidi,AC Agar,K Rabada,,0,0,0,bowled,L Ngidi,,31131231131
+2,South Africa,14,T Shamsi,AC Agar,K Rabada,,0,0,0,,,,31131231131
+2,South Africa,14,T Shamsi,AC Agar,K Rabada,,0,0,0,,,,31131231131
+2,South Africa,14,T Shamsi,AC Agar,K Rabada,,0,1,1,,,,31131231131
+2,South Africa,15,T Shamsi,MA Starc,K Rabada,,0,1,1,,,,31131231131
+2,South Africa,15,K Rabada,MA Starc,T Shamsi,,0,4,4,,,,31131231131
+2,South Africa,15,K Rabada,MA Starc,T Shamsi,,0,0,0,lbw,K Rabada,,31131231131

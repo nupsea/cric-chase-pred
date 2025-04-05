@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,New Zealand,0,MJ Guptill,SL Malinga,C Munro,,0,0,0,,,,31196231196
+2,New Zealand,0,MJ Guptill,SL Malinga,C Munro,,0,0,0,,,,31196231196
+2,New Zealand,0,MJ Guptill,SL Malinga,C Munro,,0,1,1,,,,31196231196
+2,New Zealand,0,C Munro,SL Malinga,MJ Guptill,,0,0,0,bowled,C Munro,,31196231196
+2,New Zealand,0,TL Seifert,SL Malinga,MJ Guptill,,0,0,0,,,,31196231196
+2,New Zealand,0,TL Seifert,SL Malinga,MJ Guptill,,0,0,0,,,,31196231196
+2,New Zealand,1,MJ Guptill,A Dananjaya,TL Seifert,,0,1,1,,,,31196231196
+2,New Zealand,1,TL Seifert,A Dananjaya,MJ Guptill,,0,1,1,,,,31196231196
+2,New Zealand,1,MJ Guptill,A Dananjaya,TL Seifert,,0,2,2,,,,31196231196
+2,New Zealand,1,MJ Guptill,A Dananjaya,TL Seifert,,0,4,4,,,,31196231196
+2,New Zealand,1,MJ Guptill,A Dananjaya,TL Seifert,,0,1,1,,,,31196231196
+2,New Zealand,1,TL Seifert,A Dananjaya,MJ Guptill,,0,2,2,,,,31196231196
+2,New Zealand,2,MJ Guptill,SL Malinga,TL Seifert,,0,0,0,,,,31196231196
+2,New Zealand,2,MJ Guptill,SL Malinga,TL Seifert,,0,1,1,,,,31196231196
+2,New Zealand,2,TL Seifert,SL Malinga,MJ Guptill,,0,0,0,,,,31196231196
+2,New Zealand,2,TL Seifert,SL Malinga,MJ Guptill,,0,2,2,,,,31196231196
+2,New Zealand,2,TL Seifert,SL Malinga,MJ Guptill,,0,1,1,,,,31196231196
+2,New Zealand,2,MJ Guptill,SL Malinga,TL Seifert,,0,1,1,,,,31196231196
+2,New Zealand,3,MJ Guptill,A Dananjaya,TL Seifert,,0,0,0,,,,31196231196
+2,New Zealand,3,MJ Guptill,A Dananjaya,TL Seifert,wides,1,1,0,,,,31196231196
+2,New Zealand,3,MJ Guptill,A Dananjaya,TL Seifert,,0,0,0,caught,MJ Guptill,MD Shanaka,31196231196
+2,New Zealand,3,TL Seifert,A Dananjaya,C de Grandhomme,,0,0,0,,,,31196231196
+2,New Zealand,3,TL Seifert,A Dananjaya,C de Grandhomme,,0,0,0,,,,31196231196
+2,New Zealand,3,TL Seifert,A Dananjaya,C de Grandhomme,,0,1,1,,,,31196231196
+2,New Zealand,3,C de Grandhomme,A Dananjaya,TL Seifert,,0,0,0,,,,31196231196
+2,New Zealand,4,TL Seifert,GSNFG Jayasuriya,C de Grandhomme,,0,0,0,,,,31196231196
+2,New Zealand,4,TL Seifert,GSNFG Jayasuriya,C de Grandhomme,,0,4,4,,,,31196231196
+2,New Zealand,4,TL Seifert,GSNFG Jayasuriya,C de Grandhomme,,0,0,0,,,,31196231196
+2,New Zealand,4,TL Seifert,GSNFG Jayasuriya,C de Grandhomme,,0,1,1,,,,31196231196
+2,New Zealand,4,C de Grandhomme,GSNFG Jayasuriya,TL Seifert,,0,4,4,,,,31196231196
+2,New Zealand,4,C de Grandhomme,GSNFG Jayasuriya,TL Seifert,,0,1,1,,,,31196231196
+2,New Zealand,5,C de Grandhomme,I Udana,TL Seifert,,0,0,0,,,,31196231196
+2,New Zealand,5,C de Grandhomme,I Udana,TL Seifert,,0,4,4,,,,31196231196
+2,New Zealand,5,C de Grandhomme,I Udana,TL Seifert,wides,1,1,0,,,,31196231196
+2,New Zealand,5,C de Grandhomme,I Udana,TL Seifert,,0,0,0,,,,31196231196
+2,New Zealand,5,C de Grandhomme,I Udana,TL Seifert,,0,0,0,,,,31196231196
+2,New Zealand,5,C de Grandhomme,I Udana,TL Seifert,,0,1,1,,,,31196231196
+2,New Zealand,5,TL Seifert,I Udana,C de Grandhomme,,0,1,1,,,,31196231196
+2,New Zealand,6,TL Seifert,CAK Rajitha,C de Grandhomme,,0,0,0,,,,31196231196
+2,New Zealand,6,TL Seifert,CAK Rajitha,C de Grandhomme,,0,0,0,,,,31196231196
+2,New Zealand,6,TL Seifert,CAK Rajitha,C de Grandhomme,,0,1,1,,,,31196231196
+2,New Zealand,6,C de Grandhomme,CAK Rajitha,TL Seifert,,0,1,1,,,,31196231196
+2,New Zealand,6,TL Seifert,CAK Rajitha,C de Grandhomme,,0,1,1,,,,31196231196
+2,New Zealand,6,C de Grandhomme,CAK Rajitha,TL Seifert,,0,0,0,,,,31196231196
+2,New Zealand,7,TL Seifert,PWH de Silva,C de Grandhomme,,0,0,0,,,,31196231196
+2,New Zealand,7,TL Seifert,PWH de Silva,C de Grandhomme,,0,0,0,caught,TL Seifert,MDKJ Perera,31196231196
+2,New Zealand,7,LRPL Taylor,PWH de Silva,C de Grandhomme,,0,1,1,,,,31196231196
+2,New Zealand,7,C de Grandhomme,PWH de Silva,LRPL Taylor,,0,4,4,,,,31196231196
+2,New Zealand,7,C de Grandhomme,PWH de Silva,LRPL Taylor,,0,1,1,,,,31196231196
+2,New Zealand,7,LRPL Taylor,PWH de Silva,C de Grandhomme,,0,0,0,,,,31196231196
+2,New Zealand,8,C de Grandhomme,CAK Rajitha,LRPL Taylor,,0,2,2,,,,31196231196
+2,New Zealand,8,C de Grandhomme,CAK Rajitha,LRPL Taylor,,0,1,1,,,,31196231196
+2,New Zealand,8,LRPL Taylor,CAK Rajitha,C de Grandhomme,,0,1,1,,,,31196231196
+2,New Zealand,8,C de Grandhomme,CAK Rajitha,LRPL Taylor,,0,1,1,,,,31196231196
+2,New Zealand,8,LRPL Taylor,CAK Rajitha,C de Grandhomme,,0,1,1,,,,31196231196
+2,New Zealand,8,C de Grandhomme,CAK Rajitha,LRPL Taylor,,0,1,1,,,,31196231196
+2,New Zealand,9,C de Grandhomme,PWH de Silva,LRPL Taylor,legbyes,1,1,0,,,,31196231196
+2,New Zealand,9,LRPL Taylor,PWH de Silva,C de Grandhomme,,0,2,2,,,,31196231196
+2,New Zealand,9,LRPL Taylor,PWH de Silva,C de Grandhomme,,0,4,4,,,,31196231196
+2,New Zealand,9,LRPL Taylor,PWH de Silva,C de Grandhomme,,0,1,1,,,,31196231196
+2,New Zealand,9,C de Grandhomme,PWH de Silva,LRPL Taylor,,0,1,1,,,,31196231196
+2,New Zealand,9,LRPL Taylor,PWH de Silva,C de Grandhomme,,0,1,1,,,,31196231196
+2,New Zealand,10,LRPL Taylor,CAK Rajitha,C de Grandhomme,,0,1,1,,,,31196231196
+2,New Zealand,10,C de Grandhomme,CAK Rajitha,LRPL Taylor,,0,2,2,,,,31196231196
+2,New Zealand,10,C de Grandhomme,CAK Rajitha,LRPL Taylor,noballs,1,1,0,,,,31196231196
+2,New Zealand,10,C de Grandhomme,CAK Rajitha,LRPL Taylor,,0,6,6,,,,31196231196
+2,New Zealand,10,C de Grandhomme,CAK Rajitha,LRPL Taylor,,0,1,1,,,,31196231196
+2,New Zealand,10,LRPL Taylor,CAK Rajitha,C de Grandhomme,,0,2,2,,,,31196231196
+2,New Zealand,10,LRPL Taylor,CAK Rajitha,C de Grandhomme,,0,4,4,,,,31196231196
+2,New Zealand,11,C de Grandhomme,A Dananjaya,LRPL Taylor,,0,1,1,,,,31196231196
+2,New Zealand,11,LRPL Taylor,A Dananjaya,C de Grandhomme,,0,6,6,,,,31196231196
+2,New Zealand,11,LRPL Taylor,A Dananjaya,C de Grandhomme,,0,6,6,,,,31196231196
+2,New Zealand,11,LRPL Taylor,A Dananjaya,C de Grandhomme,,0,1,1,,,,31196231196
+2,New Zealand,11,C de Grandhomme,A Dananjaya,LRPL Taylor,,0,1,1,,,,31196231196
+2,New Zealand,11,LRPL Taylor,A Dananjaya,C de Grandhomme,,0,2,2,,,,31196231196
+2,New Zealand,12,C de Grandhomme,I Udana,LRPL Taylor,wides,1,1,0,,,,31196231196
+2,New Zealand,12,C de Grandhomme,I Udana,LRPL Taylor,,0,1,1,,,,31196231196
+2,New Zealand,12,LRPL Taylor,I Udana,C de Grandhomme,,0,2,2,,,,31196231196
+2,New Zealand,12,LRPL Taylor,I Udana,C de Grandhomme,,0,2,2,,,,31196231196
+2,New Zealand,12,LRPL Taylor,I Udana,C de Grandhomme,,0,1,1,,,,31196231196
+2,New Zealand,12,C de Grandhomme,I Udana,LRPL Taylor,,0,4,4,,,,31196231196
+2,New Zealand,12,C de Grandhomme,I Udana,LRPL Taylor,,0,6,6,,,,31196231196
+2,New Zealand,13,LRPL Taylor,SL Malinga,C de Grandhomme,legbyes,4,4,0,,,,31196231196
+2,New Zealand,13,LRPL Taylor,SL Malinga,C de Grandhomme,,0,1,1,,,,31196231196
+2,New Zealand,13,C de Grandhomme,SL Malinga,LRPL Taylor,,0,0,0,bowled,C de Grandhomme,,31196231196
+2,New Zealand,13,DJ Mitchell,SL Malinga,LRPL Taylor,,0,0,0,,,,31196231196
+2,New Zealand,13,DJ Mitchell,SL Malinga,LRPL Taylor,legbyes,2,2,0,,,,31196231196
+2,New Zealand,13,DJ Mitchell,SL Malinga,LRPL Taylor,,0,1,1,,,,31196231196
+2,New Zealand,14,DJ Mitchell,PWH de Silva,LRPL Taylor,,0,1,1,,,,31196231196
+2,New Zealand,14,LRPL Taylor,PWH de Silva,DJ Mitchell,,0,0,0,,,,31196231196
+2,New Zealand,14,LRPL Taylor,PWH de Silva,DJ Mitchell,,0,1,1,,,,31196231196
+2,New Zealand,14,DJ Mitchell,PWH de Silva,LRPL Taylor,,0,0,0,,,,31196231196
+2,New Zealand,14,DJ Mitchell,PWH de Silva,LRPL Taylor,,0,1,1,,,,31196231196
+2,New Zealand,14,LRPL Taylor,PWH de Silva,DJ Mitchell,,0,0,0,,,,31196231196
+2,New Zealand,15,DJ Mitchell,CAK Rajitha,LRPL Taylor,,0,3,3,,,,31196231196
+2,New Zealand,15,LRPL Taylor,CAK Rajitha,DJ Mitchell,,0,2,2,,,,31196231196
+2,New Zealand,15,LRPL Taylor,CAK Rajitha,DJ Mitchell,,0,1,1,,,,31196231196
+2,New Zealand,15,DJ Mitchell,CAK Rajitha,LRPL Taylor,,0,6,6,,,,31196231196
+2,New Zealand,15,DJ Mitchell,CAK Rajitha,LRPL Taylor,,0,1,1,,,,31196231196
+2,New Zealand,15,LRPL Taylor,CAK Rajitha,DJ Mitchell,,0,4,4,,,,31196231196
+2,New Zealand,16,DJ Mitchell,PWH de Silva,LRPL Taylor,,0,1,1,,,,31196231196
+2,New Zealand,16,LRPL Taylor,PWH de Silva,DJ Mitchell,,0,1,1,,,,31196231196
+2,New Zealand,16,DJ Mitchell,PWH de Silva,LRPL Taylor,,0,1,1,,,,31196231196
+2,New Zealand,16,LRPL Taylor,PWH de Silva,DJ Mitchell,,0,0,0,,,,31196231196
+2,New Zealand,16,LRPL Taylor,PWH de Silva,DJ Mitchell,,0,0,0,lbw,LRPL Taylor,,31196231196
+2,New Zealand,16,MJ Santner,PWH de Silva,DJ Mitchell,,0,0,0,,,,31196231196
+2,New Zealand,17,DJ Mitchell,I Udana,MJ Santner,,0,1,1,,,,31196231196
+2,New Zealand,17,MJ Santner,I Udana,DJ Mitchell,,0,2,2,,,,31196231196
+2,New Zealand,17,MJ Santner,I Udana,DJ Mitchell,,0,1,1,,,,31196231196
+2,New Zealand,17,DJ Mitchell,I Udana,MJ Santner,legbyes,1,1,0,,,,31196231196
+2,New Zealand,17,MJ Santner,I Udana,DJ Mitchell,,0,6,6,,,,31196231196
+2,New Zealand,17,MJ Santner,I Udana,DJ Mitchell,,0,2,2,,,,31196231196
+2,New Zealand,18,DJ Mitchell,SL Malinga,MJ Santner,wides,5,5,0,,,,31196231196
+2,New Zealand,18,DJ Mitchell,SL Malinga,MJ Santner,,0,0,0,,,,31196231196
+2,New Zealand,18,DJ Mitchell,SL Malinga,MJ Santner,,0,1,1,,,,31196231196
+2,New Zealand,18,MJ Santner,SL Malinga,DJ Mitchell,,0,2,2,,,,31196231196
+2,New Zealand,18,MJ Santner,SL Malinga,DJ Mitchell,,0,1,1,,,,31196231196
+2,New Zealand,18,DJ Mitchell,SL Malinga,MJ Santner,,0,6,6,,,,31196231196
+2,New Zealand,18,DJ Mitchell,SL Malinga,MJ Santner,,0,0,0,,,,31196231196
+2,New Zealand,19,MJ Santner,I Udana,DJ Mitchell,byes,1,1,0,,,,31196231196
+2,New Zealand,19,DJ Mitchell,I Udana,MJ Santner,,0,0,0,,,,31196231196
+2,New Zealand,19,DJ Mitchell,I Udana,MJ Santner,,0,2,2,,,,31196231196

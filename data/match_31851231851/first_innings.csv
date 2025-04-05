@@ -1,0 +1,127 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Hong Kong,0,Shanzeen Shahzad,A Gurung,M Hill,,0,0,0,,,,31851231851
+1,Hong Kong,0,Shanzeen Shahzad,A Gurung,M Hill,,0,2,2,,,,31851231851
+1,Hong Kong,0,Shanzeen Shahzad,A Gurung,M Hill,,0,0,0,,,,31851231851
+1,Hong Kong,0,Shanzeen Shahzad,A Gurung,M Hill,legbyes,1,1,0,,,,31851231851
+1,Hong Kong,0,M Hill,A Gurung,Shanzeen Shahzad,,0,1,1,,,,31851231851
+1,Hong Kong,0,Shanzeen Shahzad,A Gurung,M Hill,,0,0,0,bowled,Shanzeen Shahzad,,31851231851
+1,Hong Kong,1,M Hill,T Cheki,NT Miles,,0,0,0,,,,31851231851
+1,Hong Kong,1,M Hill,T Cheki,NT Miles,,0,0,0,,,,31851231851
+1,Hong Kong,1,M Hill,T Cheki,NT Miles,,0,1,1,,,,31851231851
+1,Hong Kong,1,NT Miles,T Cheki,M Hill,wides,1,1,0,,,,31851231851
+1,Hong Kong,1,NT Miles,T Cheki,M Hill,,0,0,0,,,,31851231851
+1,Hong Kong,1,NT Miles,T Cheki,M Hill,,0,0,0,,,,31851231851
+1,Hong Kong,1,NT Miles,T Cheki,M Hill,,0,3,3,,,,31851231851
+1,Hong Kong,2,NT Miles,A Gurung,M Hill,,0,0,0,,,,31851231851
+1,Hong Kong,2,NT Miles,A Gurung,M Hill,,0,0,0,,,,31851231851
+1,Hong Kong,2,NT Miles,A Gurung,M Hill,,0,0,0,,,,31851231851
+1,Hong Kong,2,NT Miles,A Gurung,M Hill,legbyes,1,1,0,,,,31851231851
+1,Hong Kong,2,M Hill,A Gurung,NT Miles,,0,0,0,,,,31851231851
+1,Hong Kong,2,M Hill,A Gurung,NT Miles,,0,1,1,,,,31851231851
+1,Hong Kong,3,M Hill,T Cheki,NT Miles,,0,1,1,,,,31851231851
+1,Hong Kong,3,NT Miles,T Cheki,M Hill,,0,1,1,,,,31851231851
+1,Hong Kong,3,M Hill,T Cheki,NT Miles,,0,0,0,,,,31851231851
+1,Hong Kong,3,M Hill,T Cheki,NT Miles,,0,0,0,bowled,M Hill,,31851231851
+1,Hong Kong,3,KY Chan,T Cheki,NT Miles,,0,0,0,,,,31851231851
+1,Hong Kong,3,KY Chan,T Cheki,NT Miles,,0,1,1,,,,31851231851
+1,Hong Kong,4,KY Chan,A Gurung,NT Miles,,0,0,0,,,,31851231851
+1,Hong Kong,4,KY Chan,A Gurung,NT Miles,,0,0,0,,,,31851231851
+1,Hong Kong,4,KY Chan,A Gurung,NT Miles,,0,0,0,,,,31851231851
+1,Hong Kong,4,KY Chan,A Gurung,NT Miles,,0,1,1,,,,31851231851
+1,Hong Kong,4,NT Miles,A Gurung,KY Chan,,0,1,1,,,,31851231851
+1,Hong Kong,4,KY Chan,A Gurung,NT Miles,,0,0,0,,,,31851231851
+1,Hong Kong,5,NT Miles,T Cheki,KY Chan,,0,2,2,,,,31851231851
+1,Hong Kong,5,NT Miles,T Cheki,KY Chan,legbyes,1,1,0,,,,31851231851
+1,Hong Kong,5,KY Chan,T Cheki,NT Miles,,0,1,1,,,,31851231851
+1,Hong Kong,5,NT Miles,T Cheki,KY Chan,,0,0,0,,,,31851231851
+1,Hong Kong,5,NT Miles,T Cheki,KY Chan,,0,1,1,,,,31851231851
+1,Hong Kong,5,KY Chan,T Cheki,NT Miles,,0,0,0,,,,31851231851
+1,Hong Kong,6,NT Miles,T Zangmo,KY Chan,,0,2,2,,,,31851231851
+1,Hong Kong,6,NT Miles,T Zangmo,KY Chan,,0,0,0,,,,31851231851
+1,Hong Kong,6,NT Miles,T Zangmo,KY Chan,,0,4,4,,,,31851231851
+1,Hong Kong,6,NT Miles,T Zangmo,KY Chan,,0,2,2,,,,31851231851
+1,Hong Kong,6,NT Miles,T Zangmo,KY Chan,legbyes,1,1,0,,,,31851231851
+1,Hong Kong,6,KY Chan,T Zangmo,NT Miles,,0,2,2,,,,31851231851
+1,Hong Kong,7,NT Miles,K Samten,KY Chan,,0,2,2,,,,31851231851
+1,Hong Kong,7,NT Miles,K Samten,KY Chan,,0,1,1,,,,31851231851
+1,Hong Kong,7,KY Chan,K Samten,NT Miles,,0,1,1,,,,31851231851
+1,Hong Kong,7,NT Miles,K Samten,KY Chan,,0,1,1,,,,31851231851
+1,Hong Kong,7,KY Chan,K Samten,NT Miles,,0,0,0,,,,31851231851
+1,Hong Kong,7,KY Chan,K Samten,NT Miles,,0,0,0,,,,31851231851
+1,Hong Kong,8,NT Miles,T Zangmo,KY Chan,,0,1,1,,,,31851231851
+1,Hong Kong,8,KY Chan,T Zangmo,NT Miles,,0,2,2,,,,31851231851
+1,Hong Kong,8,KY Chan,T Zangmo,NT Miles,,0,1,1,,,,31851231851
+1,Hong Kong,8,NT Miles,T Zangmo,KY Chan,,0,1,1,,,,31851231851
+1,Hong Kong,8,KY Chan,T Zangmo,NT Miles,wides,1,1,0,,,,31851231851
+1,Hong Kong,8,KY Chan,T Zangmo,NT Miles,,0,0,0,,,,31851231851
+1,Hong Kong,8,KY Chan,T Zangmo,NT Miles,,0,1,1,,,,31851231851
+1,Hong Kong,9,KY Chan,K Samten,NT Miles,,0,0,0,,,,31851231851
+1,Hong Kong,9,KY Chan,K Samten,NT Miles,,0,1,1,,,,31851231851
+1,Hong Kong,9,NT Miles,K Samten,KY Chan,,0,1,1,,,,31851231851
+1,Hong Kong,9,KY Chan,K Samten,NT Miles,,0,0,0,,,,31851231851
+1,Hong Kong,9,KY Chan,K Samten,NT Miles,,0,1,1,,,,31851231851
+1,Hong Kong,9,NT Miles,K Samten,KY Chan,,0,0,0,,,,31851231851
+1,Hong Kong,10,KY Chan,T Zangmo,NT Miles,,0,4,4,,,,31851231851
+1,Hong Kong,10,KY Chan,T Zangmo,NT Miles,,0,0,0,,,,31851231851
+1,Hong Kong,10,KY Chan,T Zangmo,NT Miles,,0,1,1,,,,31851231851
+1,Hong Kong,10,NT Miles,T Zangmo,KY Chan,,0,1,1,,,,31851231851
+1,Hong Kong,10,KY Chan,T Zangmo,NT Miles,,0,1,1,,,,31851231851
+1,Hong Kong,10,NT Miles,T Zangmo,KY Chan,,0,1,1,,,,31851231851
+1,Hong Kong,11,NT Miles,K Samten,KY Chan,,0,1,1,,,,31851231851
+1,Hong Kong,11,KY Chan,K Samten,NT Miles,,0,1,1,,,,31851231851
+1,Hong Kong,11,NT Miles,K Samten,KY Chan,,0,1,1,,,,31851231851
+1,Hong Kong,11,KY Chan,K Samten,NT Miles,,0,1,1,,,,31851231851
+1,Hong Kong,11,NT Miles,K Samten,KY Chan,,0,0,0,,,,31851231851
+1,Hong Kong,11,NT Miles,K Samten,KY Chan,,0,1,1,,,,31851231851
+1,Hong Kong,12,NT Miles,D Wangmo,KY Chan,,0,0,0,,,,31851231851
+1,Hong Kong,12,NT Miles,D Wangmo,KY Chan,,0,1,1,,,,31851231851
+1,Hong Kong,12,KY Chan,D Wangmo,NT Miles,wides,3,3,0,,,,31851231851
+1,Hong Kong,12,KY Chan,D Wangmo,NT Miles,,0,1,1,,,,31851231851
+1,Hong Kong,12,NT Miles,D Wangmo,KY Chan,,0,1,1,,,,31851231851
+1,Hong Kong,12,KY Chan,D Wangmo,NT Miles,wides,3,3,0,,,,31851231851
+1,Hong Kong,12,KY Chan,D Wangmo,NT Miles,wides,1,1,0,,,,31851231851
+1,Hong Kong,12,KY Chan,D Wangmo,NT Miles,,0,0,0,,,,31851231851
+1,Hong Kong,12,KY Chan,D Wangmo,NT Miles,wides,1,1,0,,,,31851231851
+1,Hong Kong,12,KY Chan,D Wangmo,NT Miles,,0,1,1,,,,31851231851
+1,Hong Kong,13,KY Chan,S Choden,NT Miles,,0,1,1,,,,31851231851
+1,Hong Kong,13,NT Miles,S Choden,KY Chan,,0,2,2,,,,31851231851
+1,Hong Kong,13,NT Miles,S Choden,KY Chan,,0,1,1,,,,31851231851
+1,Hong Kong,13,KY Chan,S Choden,NT Miles,,0,2,2,,,,31851231851
+1,Hong Kong,13,KY Chan,S Choden,NT Miles,,0,0,0,,,,31851231851
+1,Hong Kong,13,KY Chan,S Choden,NT Miles,,0,1,1,,,,31851231851
+1,Hong Kong,14,KY Chan,D Wangmo,NT Miles,,0,1,1,,,,31851231851
+1,Hong Kong,14,NT Miles,D Wangmo,KY Chan,,0,0,0,,,,31851231851
+1,Hong Kong,14,NT Miles,D Wangmo,KY Chan,,0,1,1,,,,31851231851
+1,Hong Kong,14,KY Chan,D Wangmo,NT Miles,,0,1,1,,,,31851231851
+1,Hong Kong,14,NT Miles,D Wangmo,KY Chan,,0,0,0,caught,NT Miles,K Samten,31851231851
+1,Hong Kong,14,KY Chan,D Wangmo,WK Lai,,0,1,1,,,,31851231851
+1,Hong Kong,15,KY Chan,K Samten,WK Lai,,0,0,0,,,,31851231851
+1,Hong Kong,15,KY Chan,K Samten,WK Lai,,0,1,1,,,,31851231851
+1,Hong Kong,15,WK Lai,K Samten,KY Chan,,0,0,0,,,,31851231851
+1,Hong Kong,15,WK Lai,K Samten,KY Chan,,0,1,1,,,,31851231851
+1,Hong Kong,15,KY Chan,K Samten,WK Lai,,0,0,0,,,,31851231851
+1,Hong Kong,15,KY Chan,K Samten,WK Lai,,0,0,0,,,,31851231851
+1,Hong Kong,16,WK Lai,D Wangmo,KY Chan,,0,1,1,,,,31851231851
+1,Hong Kong,16,KY Chan,D Wangmo,WK Lai,,0,2,2,,,,31851231851
+1,Hong Kong,16,KY Chan,D Wangmo,WK Lai,,0,2,2,,,,31851231851
+1,Hong Kong,16,KY Chan,D Wangmo,WK Lai,,0,2,2,,,,31851231851
+1,Hong Kong,16,KY Chan,D Wangmo,WK Lai,,0,2,2,,,,31851231851
+1,Hong Kong,16,KY Chan,D Wangmo,WK Lai,,0,4,4,,,,31851231851
+1,Hong Kong,17,WK Lai,T Zangmo,KY Chan,,0,0,0,stumped,WK Lai,S Paldon,31851231851
+1,Hong Kong,17,M Bibi,T Zangmo,KY Chan,,0,0,0,,,,31851231851
+1,Hong Kong,17,M Bibi,T Zangmo,KY Chan,,0,1,1,,,,31851231851
+1,Hong Kong,17,KY Chan,T Zangmo,M Bibi,,0,0,0,,,,31851231851
+1,Hong Kong,17,KY Chan,T Zangmo,M Bibi,,0,0,0,,,,31851231851
+1,Hong Kong,17,KY Chan,T Zangmo,M Bibi,,0,1,1,,,,31851231851
+1,Hong Kong,18,KY Chan,A Gurung,M Bibi,,0,0,0,lbw,KY Chan,,31851231851
+1,Hong Kong,18,Hiu Ying Cheung,A Gurung,M Bibi,,0,2,2,,,,31851231851
+1,Hong Kong,18,Hiu Ying Cheung,A Gurung,M Bibi,,0,0,0,bowled,Hiu Ying Cheung,,31851231851
+1,Hong Kong,18,Ruchitha Venkatesh,A Gurung,M Bibi,,0,0,0,,,,31851231851
+1,Hong Kong,18,Ruchitha Venkatesh,A Gurung,M Bibi,,0,1,1,,,,31851231851
+1,Hong Kong,18,M Bibi,A Gurung,Ruchitha Venkatesh,,0,1,1,,,,31851231851
+1,Hong Kong,19,M Bibi,T Cheki,Ruchitha Venkatesh,legbyes,1,1,0,,,,31851231851
+1,Hong Kong,19,Ruchitha Venkatesh,T Cheki,M Bibi,,0,2,2,,,,31851231851
+1,Hong Kong,19,Ruchitha Venkatesh,T Cheki,M Bibi,,0,0,0,bowled,Ruchitha Venkatesh,,31851231851
+1,Hong Kong,19,M Wai Siu,T Cheki,M Bibi,,0,1,1,,,,31851231851
+1,Hong Kong,19,M Bibi,T Cheki,M Wai Siu,legbyes,1,1,0,,,,31851231851
+1,Hong Kong,19,M Wai Siu,T Cheki,M Bibi,,0,0,0,run out,M Bibi,S Paldon,31851231851

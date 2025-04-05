@@ -1,0 +1,79 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Finland,0,Sapan Mehta,A Khan,NG Collins,,0,1,1,,,,31983231983
+2,Finland,0,NG Collins,A Khan,Sapan Mehta,,0,0,0,,,,31983231983
+2,Finland,0,NG Collins,A Khan,Sapan Mehta,,0,0,0,,,,31983231983
+2,Finland,0,NG Collins,A Khan,Sapan Mehta,,0,1,1,,,,31983231983
+2,Finland,0,Sapan Mehta,A Khan,NG Collins,,0,0,0,,,,31983231983
+2,Finland,0,Sapan Mehta,A Khan,NG Collins,,0,0,0,,,,31983231983
+2,Finland,1,NG Collins,Surya Anand,Sapan Mehta,,0,2,2,,,,31983231983
+2,Finland,1,NG Collins,Surya Anand,Sapan Mehta,,0,1,1,,,,31983231983
+2,Finland,1,Sapan Mehta,Surya Anand,NG Collins,,0,2,2,,,,31983231983
+2,Finland,1,Sapan Mehta,Surya Anand,NG Collins,,0,1,1,,,,31983231983
+2,Finland,1,NG Collins,Surya Anand,Sapan Mehta,,0,0,0,,,,31983231983
+2,Finland,1,NG Collins,Surya Anand,Sapan Mehta,,0,0,0,caught,NG Collins,Rizwan Mahmood,31983231983
+2,Finland,2,Sapan Mehta,A Khan,AK Mohan,,0,0,0,caught,Sapan Mehta,Rizwan Mahmood,31983231983
+2,Finland,2,AK Mohan,A Khan,A Pusthay,,0,0,0,,,,31983231983
+2,Finland,2,AK Mohan,A Khan,A Pusthay,,0,0,0,,,,31983231983
+2,Finland,2,AK Mohan,A Khan,A Pusthay,,0,0,0,,,,31983231983
+2,Finland,2,AK Mohan,A Khan,A Pusthay,,0,1,1,,,,31983231983
+2,Finland,2,A Pusthay,A Khan,AK Mohan,,0,0,0,,,,31983231983
+2,Finland,3,AK Mohan,Surya Anand,A Pusthay,,0,1,1,,,,31983231983
+2,Finland,3,A Pusthay,Surya Anand,AK Mohan,,0,1,1,,,,31983231983
+2,Finland,3,AK Mohan,Surya Anand,A Pusthay,,0,0,0,,,,31983231983
+2,Finland,3,AK Mohan,Surya Anand,A Pusthay,,0,0,0,,,,31983231983
+2,Finland,3,AK Mohan,Surya Anand,A Pusthay,,0,0,0,,,,31983231983
+2,Finland,3,AK Mohan,Surya Anand,A Pusthay,,0,1,1,,,,31983231983
+2,Finland,4,AK Mohan,J Jojo,A Pusthay,,0,0,0,,,,31983231983
+2,Finland,4,AK Mohan,J Jojo,A Pusthay,,0,0,0,caught,AK Mohan,Abdul Hashim,31983231983
+2,Finland,4,JOP Scamans,J Jojo,A Pusthay,,0,0,0,,,,31983231983
+2,Finland,4,JOP Scamans,J Jojo,A Pusthay,,0,0,0,lbw,JOP Scamans,,31983231983
+2,Finland,4,PF Gallagher,J Jojo,A Pusthay,,0,0,0,,,,31983231983
+2,Finland,4,PF Gallagher,J Jojo,A Pusthay,,0,0,0,,,,31983231983
+2,Finland,5,A Pusthay,SA Ahmad,PF Gallagher,,0,0,0,,,,31983231983
+2,Finland,5,A Pusthay,SA Ahmad,PF Gallagher,,0,0,0,,,,31983231983
+2,Finland,5,A Pusthay,SA Ahmad,PF Gallagher,,0,4,4,,,,31983231983
+2,Finland,5,A Pusthay,SA Ahmad,PF Gallagher,,0,1,1,,,,31983231983
+2,Finland,5,PF Gallagher,SA Ahmad,A Pusthay,,0,0,0,,,,31983231983
+2,Finland,5,PF Gallagher,SA Ahmad,A Pusthay,,0,0,0,caught,PF Gallagher,J Jojo,31983231983
+2,Finland,6,A Pusthay,J Jojo,Amjad Sher,,0,0,0,,,,31983231983
+2,Finland,6,A Pusthay,J Jojo,Amjad Sher,,0,1,1,,,,31983231983
+2,Finland,6,Amjad Sher,J Jojo,A Pusthay,,0,0,0,,,,31983231983
+2,Finland,6,Amjad Sher,J Jojo,A Pusthay,,0,0,0,,,,31983231983
+2,Finland,6,Amjad Sher,J Jojo,A Pusthay,,0,1,1,,,,31983231983
+2,Finland,6,A Pusthay,J Jojo,Amjad Sher,,0,1,1,,,,31983231983
+2,Finland,7,A Pusthay,SA Ahmad,Amjad Sher,,0,0,0,,,,31983231983
+2,Finland,7,A Pusthay,SA Ahmad,Amjad Sher,,0,0,0,,,,31983231983
+2,Finland,7,A Pusthay,SA Ahmad,Amjad Sher,,0,1,1,,,,31983231983
+2,Finland,7,Amjad Sher,SA Ahmad,A Pusthay,,0,0,0,bowled,Amjad Sher,,31983231983
+2,Finland,7,MB Tambe,SA Ahmad,A Pusthay,,0,0,0,,,,31983231983
+2,Finland,7,MB Tambe,SA Ahmad,A Pusthay,,0,1,1,,,,31983231983
+2,Finland,8,MB Tambe,J Jojo,A Pusthay,,0,0,0,,,,31983231983
+2,Finland,8,MB Tambe,J Jojo,A Pusthay,,0,0,0,,,,31983231983
+2,Finland,8,MB Tambe,J Jojo,A Pusthay,,0,0,0,,,,31983231983
+2,Finland,8,MB Tambe,J Jojo,A Pusthay,,0,4,4,,,,31983231983
+2,Finland,8,MB Tambe,J Jojo,A Pusthay,,0,0,0,,,,31983231983
+2,Finland,8,MB Tambe,J Jojo,A Pusthay,,0,0,0,,,,31983231983
+2,Finland,9,A Pusthay,Omar Hayat,MB Tambe,,0,1,1,,,,31983231983
+2,Finland,9,MB Tambe,Omar Hayat,A Pusthay,,0,0,0,,,,31983231983
+2,Finland,9,MB Tambe,Omar Hayat,A Pusthay,,0,2,2,,,,31983231983
+2,Finland,9,MB Tambe,Omar Hayat,A Pusthay,,0,0,0,caught,MB Tambe,J Jojo,31983231983
+2,Finland,9,A Pusthay,Omar Hayat,VS Padhaal,,0,0,0,bowled,A Pusthay,,31983231983
+2,Finland,9,Raaz Mohammad,Omar Hayat,VS Padhaal,,0,0,0,,,,31983231983
+2,Finland,10,VS Padhaal,Lucky Ali,Raaz Mohammad,,0,0,0,,,,31983231983
+2,Finland,10,VS Padhaal,Lucky Ali,Raaz Mohammad,,0,0,0,,,,31983231983
+2,Finland,10,VS Padhaal,Lucky Ali,Raaz Mohammad,,0,0,0,,,,31983231983
+2,Finland,10,VS Padhaal,Lucky Ali,Raaz Mohammad,,0,1,1,,,,31983231983
+2,Finland,10,Raaz Mohammad,Lucky Ali,VS Padhaal,,0,0,0,,,,31983231983
+2,Finland,10,Raaz Mohammad,Lucky Ali,VS Padhaal,,0,0,0,,,,31983231983
+2,Finland,11,VS Padhaal,Omar Hayat,Raaz Mohammad,,0,0,0,,,,31983231983
+2,Finland,11,VS Padhaal,Omar Hayat,Raaz Mohammad,,0,0,0,,,,31983231983
+2,Finland,11,VS Padhaal,Omar Hayat,Raaz Mohammad,,0,0,0,,,,31983231983
+2,Finland,11,VS Padhaal,Omar Hayat,Raaz Mohammad,,0,2,2,,,,31983231983
+2,Finland,11,VS Padhaal,Omar Hayat,Raaz Mohammad,,0,0,0,,,,31983231983
+2,Finland,11,VS Padhaal,Omar Hayat,Raaz Mohammad,,0,1,1,,,,31983231983
+2,Finland,12,VS Padhaal,Lucky Ali,Raaz Mohammad,,0,0,0,,,,31983231983
+2,Finland,12,VS Padhaal,Lucky Ali,Raaz Mohammad,,0,0,0,,,,31983231983
+2,Finland,12,VS Padhaal,Lucky Ali,Raaz Mohammad,,0,0,0,,,,31983231983
+2,Finland,12,VS Padhaal,Lucky Ali,Raaz Mohammad,,0,0,0,,,,31983231983
+2,Finland,12,VS Padhaal,Lucky Ali,Raaz Mohammad,,0,0,0,caught,VS Padhaal,Abdul Hashim,31983231983
+2,Finland,12,Mohammad Asaduzzaman,Lucky Ali,Raaz Mohammad,,0,0,0,stumped,Mohammad Asaduzzaman,Abdul Hashim,31983231983

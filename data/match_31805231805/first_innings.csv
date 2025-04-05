@@ -1,0 +1,130 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Tanzania,0,AR Patwa,LA Simango,II Selemani,noballs,1,1,0,,,,31805231805
+1,Tanzania,0,AR Patwa,LA Simango,II Selemani,wides,1,1,0,,,,31805231805
+1,Tanzania,0,AR Patwa,LA Simango,II Selemani,,0,6,6,,,,31805231805
+1,Tanzania,0,AR Patwa,LA Simango,II Selemani,,0,6,6,,,,31805231805
+1,Tanzania,0,AR Patwa,LA Simango,II Selemani,,0,6,6,,,,31805231805
+1,Tanzania,0,AR Patwa,LA Simango,II Selemani,wides,1,1,0,,,,31805231805
+1,Tanzania,0,AR Patwa,LA Simango,II Selemani,,0,0,0,caught,AR Patwa,GO Sopinho,31805231805
+1,Tanzania,0,II Selemani,LA Simango,JC Darji,,0,0,0,,,,31805231805
+1,Tanzania,0,II Selemani,LA Simango,JC Darji,,0,1,1,,,,31805231805
+1,Tanzania,1,II Selemani,ZE Matsinhe,JC Darji,,0,0,0,,,,31805231805
+1,Tanzania,1,II Selemani,ZE Matsinhe,JC Darji,,0,2,2,,,,31805231805
+1,Tanzania,1,II Selemani,ZE Matsinhe,JC Darji,,0,6,6,,,,31805231805
+1,Tanzania,1,II Selemani,ZE Matsinhe,JC Darji,,0,1,1,,,,31805231805
+1,Tanzania,1,JC Darji,ZE Matsinhe,II Selemani,,0,0,0,,,,31805231805
+1,Tanzania,1,JC Darji,ZE Matsinhe,II Selemani,,0,0,0,,,,31805231805
+1,Tanzania,2,II Selemani,LA Simango,JC Darji,,0,1,1,,,,31805231805
+1,Tanzania,2,JC Darji,LA Simango,II Selemani,,0,0,0,caught,JC Darji,L Emilio,31805231805
+1,Tanzania,2,Jitin Singh,LA Simango,II Selemani,legbyes,4,4,0,,,,31805231805
+1,Tanzania,2,Jitin Singh,LA Simango,II Selemani,,0,1,1,,,,31805231805
+1,Tanzania,2,II Selemani,LA Simango,Jitin Singh,,0,4,4,,,,31805231805
+1,Tanzania,2,II Selemani,LA Simango,Jitin Singh,,0,4,4,,,,31805231805
+1,Tanzania,3,Jitin Singh,ZE Matsinhe,II Selemani,,0,0,0,,,,31805231805
+1,Tanzania,3,Jitin Singh,ZE Matsinhe,II Selemani,,0,4,4,,,,31805231805
+1,Tanzania,3,Jitin Singh,ZE Matsinhe,II Selemani,,0,0,0,,,,31805231805
+1,Tanzania,3,Jitin Singh,ZE Matsinhe,II Selemani,,0,4,4,,,,31805231805
+1,Tanzania,3,Jitin Singh,ZE Matsinhe,II Selemani,,0,0,0,,,,31805231805
+1,Tanzania,3,Jitin Singh,ZE Matsinhe,II Selemani,,0,1,1,,,,31805231805
+1,Tanzania,4,Jitin Singh,FA Cossa,II Selemani,,0,4,4,,,,31805231805
+1,Tanzania,4,Jitin Singh,FA Cossa,II Selemani,,0,1,1,,,,31805231805
+1,Tanzania,4,II Selemani,FA Cossa,Jitin Singh,,0,0,0,,,,31805231805
+1,Tanzania,4,II Selemani,FA Cossa,Jitin Singh,,0,4,4,,,,31805231805
+1,Tanzania,4,II Selemani,FA Cossa,Jitin Singh,,0,1,1,,,,31805231805
+1,Tanzania,4,Jitin Singh,FA Cossa,II Selemani,,0,0,0,,,,31805231805
+1,Tanzania,5,II Selemani,F Damiao Couana,Jitin Singh,noballs,1,1,0,,,,31805231805
+1,Tanzania,5,II Selemani,F Damiao Couana,Jitin Singh,noballs,1,5,4,,,,31805231805
+1,Tanzania,5,II Selemani,F Damiao Couana,Jitin Singh,wides,5,5,0,,,,31805231805
+1,Tanzania,5,II Selemani,F Damiao Couana,Jitin Singh,,0,6,6,,,,31805231805
+1,Tanzania,5,II Selemani,F Damiao Couana,Jitin Singh,,0,4,4,,,,31805231805
+1,Tanzania,5,II Selemani,F Damiao Couana,Jitin Singh,,0,1,1,,,,31805231805
+1,Tanzania,5,Jitin Singh,F Damiao Couana,II Selemani,,0,1,1,,,,31805231805
+1,Tanzania,5,II Selemani,F Damiao Couana,Jitin Singh,wides,1,1,0,,,,31805231805
+1,Tanzania,5,II Selemani,F Damiao Couana,Jitin Singh,,0,0,0,,,,31805231805
+1,Tanzania,5,II Selemani,F Damiao Couana,Jitin Singh,,0,4,4,,,,31805231805
+1,Tanzania,6,Jitin Singh,J Bulele,II Selemani,,0,1,1,,,,31805231805
+1,Tanzania,6,II Selemani,J Bulele,Jitin Singh,,0,0,0,,,,31805231805
+1,Tanzania,6,II Selemani,J Bulele,Jitin Singh,,0,2,2,,,,31805231805
+1,Tanzania,6,II Selemani,J Bulele,Jitin Singh,,0,1,1,,,,31805231805
+1,Tanzania,6,Jitin Singh,J Bulele,II Selemani,,0,4,4,,,,31805231805
+1,Tanzania,6,Jitin Singh,J Bulele,II Selemani,,0,1,1,,,,31805231805
+1,Tanzania,7,Jitin Singh,FA Cossa,II Selemani,,0,1,1,,,,31805231805
+1,Tanzania,7,II Selemani,FA Cossa,Jitin Singh,,0,1,1,,,,31805231805
+1,Tanzania,7,Jitin Singh,FA Cossa,II Selemani,,0,4,4,,,,31805231805
+1,Tanzania,7,Jitin Singh,FA Cossa,II Selemani,,0,4,4,,,,31805231805
+1,Tanzania,7,Jitin Singh,FA Cossa,II Selemani,,0,4,4,,,,31805231805
+1,Tanzania,7,Jitin Singh,FA Cossa,II Selemani,,0,1,1,,,,31805231805
+1,Tanzania,8,Jitin Singh,J Bulele,II Selemani,,0,0,0,,,,31805231805
+1,Tanzania,8,Jitin Singh,J Bulele,II Selemani,,0,0,0,,,,31805231805
+1,Tanzania,8,Jitin Singh,J Bulele,II Selemani,legbyes,1,1,0,,,,31805231805
+1,Tanzania,8,II Selemani,J Bulele,Jitin Singh,,0,4,4,,,,31805231805
+1,Tanzania,8,II Selemani,J Bulele,Jitin Singh,,0,2,2,,,,31805231805
+1,Tanzania,8,II Selemani,J Bulele,Jitin Singh,,0,0,0,,,,31805231805
+1,Tanzania,9,Jitin Singh,FA Cossa,II Selemani,,0,0,0,,,,31805231805
+1,Tanzania,9,Jitin Singh,FA Cossa,II Selemani,,0,1,1,,,,31805231805
+1,Tanzania,9,II Selemani,FA Cossa,Jitin Singh,,0,1,1,,,,31805231805
+1,Tanzania,9,Jitin Singh,FA Cossa,II Selemani,,0,2,2,,,,31805231805
+1,Tanzania,9,Jitin Singh,FA Cossa,II Selemani,,0,1,1,,,,31805231805
+1,Tanzania,9,II Selemani,FA Cossa,Jitin Singh,,0,0,0,,,,31805231805
+1,Tanzania,10,Jitin Singh,J Bulele,II Selemani,wides,2,2,0,,,,31805231805
+1,Tanzania,10,II Selemani,J Bulele,Jitin Singh,,0,4,4,,,,31805231805
+1,Tanzania,10,II Selemani,J Bulele,Jitin Singh,,0,0,0,,,,31805231805
+1,Tanzania,10,II Selemani,J Bulele,Jitin Singh,,0,0,0,,,,31805231805
+1,Tanzania,10,II Selemani,J Bulele,Jitin Singh,,0,0,0,,,,31805231805
+1,Tanzania,10,II Selemani,J Bulele,Jitin Singh,,0,1,1,,,,31805231805
+1,Tanzania,10,Jitin Singh,J Bulele,II Selemani,,0,1,1,,,,31805231805
+1,Tanzania,11,Jitin Singh,FA Cossa,II Selemani,,0,1,1,,,,31805231805
+1,Tanzania,11,II Selemani,FA Cossa,Jitin Singh,,0,4,4,,,,31805231805
+1,Tanzania,11,II Selemani,FA Cossa,Jitin Singh,,0,4,4,,,,31805231805
+1,Tanzania,11,II Selemani,FA Cossa,Jitin Singh,,0,0,0,,,,31805231805
+1,Tanzania,11,II Selemani,FA Cossa,Jitin Singh,,0,2,2,,,,31805231805
+1,Tanzania,11,II Selemani,FA Cossa,Jitin Singh,wides,1,1,0,,,,31805231805
+1,Tanzania,11,II Selemani,FA Cossa,Jitin Singh,,0,1,1,,,,31805231805
+1,Tanzania,12,II Selemani,F Damiao Couana,Jitin Singh,,0,6,6,,,,31805231805
+1,Tanzania,12,II Selemani,F Damiao Couana,Jitin Singh,,0,4,4,,,,31805231805
+1,Tanzania,12,II Selemani,F Damiao Couana,Jitin Singh,,0,1,1,,,,31805231805
+1,Tanzania,12,Jitin Singh,F Damiao Couana,II Selemani,,0,4,4,,,,31805231805
+1,Tanzania,12,Jitin Singh,F Damiao Couana,II Selemani,,0,0,0,,,,31805231805
+1,Tanzania,12,Jitin Singh,F Damiao Couana,II Selemani,,0,1,1,,,,31805231805
+1,Tanzania,13,Jitin Singh,SDJJ Dima,II Selemani,byes,1,1,0,,,,31805231805
+1,Tanzania,13,II Selemani,SDJJ Dima,Jitin Singh,,0,0,0,caught,II Selemani,SF Nhavotso,31805231805
+1,Tanzania,13,S Thakor,SDJJ Dima,Jitin Singh,,0,1,1,,,,31805231805
+1,Tanzania,13,Jitin Singh,SDJJ Dima,S Thakor,,0,0,0,,,,31805231805
+1,Tanzania,13,Jitin Singh,SDJJ Dima,S Thakor,,0,1,1,,,,31805231805
+1,Tanzania,13,S Thakor,SDJJ Dima,Jitin Singh,,0,1,1,,,,31805231805
+1,Tanzania,14,S Thakor,SF Nhavotso,Jitin Singh,,0,2,2,,,,31805231805
+1,Tanzania,14,S Thakor,SF Nhavotso,Jitin Singh,,0,0,0,,,,31805231805
+1,Tanzania,14,S Thakor,SF Nhavotso,Jitin Singh,,0,6,6,,,,31805231805
+1,Tanzania,14,S Thakor,SF Nhavotso,Jitin Singh,,0,1,1,,,,31805231805
+1,Tanzania,14,Jitin Singh,SF Nhavotso,S Thakor,,0,1,1,,,,31805231805
+1,Tanzania,14,S Thakor,SF Nhavotso,Jitin Singh,,0,1,1,,,,31805231805
+1,Tanzania,15,S Thakor,SDJJ Dima,Jitin Singh,,0,6,6,,,,31805231805
+1,Tanzania,15,S Thakor,SDJJ Dima,Jitin Singh,,0,0,0,,,,31805231805
+1,Tanzania,15,S Thakor,SDJJ Dima,Jitin Singh,,0,1,1,,,,31805231805
+1,Tanzania,15,Jitin Singh,SDJJ Dima,S Thakor,,0,2,2,,,,31805231805
+1,Tanzania,15,Jitin Singh,SDJJ Dima,S Thakor,,0,1,1,,,,31805231805
+1,Tanzania,15,S Thakor,SDJJ Dima,Jitin Singh,,0,6,6,,,,31805231805
+1,Tanzania,16,Jitin Singh,SF Nhavotso,S Thakor,,0,2,2,,,,31805231805
+1,Tanzania,16,Jitin Singh,SF Nhavotso,S Thakor,,0,4,4,,,,31805231805
+1,Tanzania,16,Jitin Singh,SF Nhavotso,S Thakor,,0,2,2,,,,31805231805
+1,Tanzania,16,Jitin Singh,SF Nhavotso,S Thakor,,0,0,0,bowled,Jitin Singh,,31805231805
+1,Tanzania,16,HA Chohan,SF Nhavotso,S Thakor,,0,1,1,,,,31805231805
+1,Tanzania,16,S Thakor,SF Nhavotso,HA Chohan,,0,2,2,,,,31805231805
+1,Tanzania,17,HA Chohan,SDJJ Dima,S Thakor,,0,2,2,,,,31805231805
+1,Tanzania,17,HA Chohan,SDJJ Dima,S Thakor,,0,4,4,,,,31805231805
+1,Tanzania,17,HA Chohan,SDJJ Dima,S Thakor,,0,0,0,caught,HA Chohan,J Bulele,31805231805
+1,Tanzania,17,S Thakor,SDJJ Dima,SA Jumbe,,0,0,0,,,,31805231805
+1,Tanzania,17,S Thakor,SDJJ Dima,SA Jumbe,,0,6,6,,,,31805231805
+1,Tanzania,17,S Thakor,SDJJ Dima,SA Jumbe,,0,0,0,caught,S Thakor,J Bulele,31805231805
+1,Tanzania,18,SA Jumbe,SF Nhavotso,K Nassoro,,0,1,1,,,,31805231805
+1,Tanzania,18,K Nassoro,SF Nhavotso,SA Jumbe,,0,2,2,,,,31805231805
+1,Tanzania,18,K Nassoro,SF Nhavotso,SA Jumbe,,0,0,0,,,,31805231805
+1,Tanzania,18,K Nassoro,SF Nhavotso,SA Jumbe,,0,6,6,,,,31805231805
+1,Tanzania,18,K Nassoro,SF Nhavotso,SA Jumbe,,0,1,1,,,,31805231805
+1,Tanzania,18,SA Jumbe,SF Nhavotso,K Nassoro,,0,1,1,,,,31805231805
+1,Tanzania,19,SA Jumbe,SDJJ Dima,K Nassoro,,0,0,0,,,,31805231805
+1,Tanzania,19,SA Jumbe,SDJJ Dima,K Nassoro,byes,1,1,0,,,,31805231805
+1,Tanzania,19,K Nassoro,SDJJ Dima,SA Jumbe,,0,1,1,,,,31805231805
+1,Tanzania,19,SA Jumbe,SDJJ Dima,K Nassoro,,0,6,6,,,,31805231805
+1,Tanzania,19,SA Jumbe,SDJJ Dima,K Nassoro,,0,3,3,,,,31805231805
+1,Tanzania,19,K Nassoro,SDJJ Dima,SA Jumbe,,0,1,1,,,,31805231805

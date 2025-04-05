@@ -1,0 +1,121 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Thailand,0,N Chantam,Jahanara Alam,N Chaiwai,,0,0,0,,,,389423894
+1,Thailand,0,N Chantam,Jahanara Alam,N Chaiwai,,0,0,0,,,,389423894
+1,Thailand,0,N Chantam,Jahanara Alam,N Chaiwai,,0,1,1,,,,389423894
+1,Thailand,0,N Chaiwai,Jahanara Alam,N Chantam,,0,0,0,,,,389423894
+1,Thailand,0,N Chaiwai,Jahanara Alam,N Chantam,,0,1,1,,,,389423894
+1,Thailand,0,N Chantam,Jahanara Alam,N Chaiwai,,0,0,0,,,,389423894
+1,Thailand,1,N Chaiwai,Salma Khatun,N Chantam,,0,1,1,,,,389423894
+1,Thailand,1,N Chantam,Salma Khatun,N Chaiwai,,0,0,0,,,,389423894
+1,Thailand,1,N Chantam,Salma Khatun,N Chaiwai,,0,0,0,caught,N Chantam,Fargana Hoque,389423894
+1,Thailand,1,N Boochatham,Salma Khatun,N Chaiwai,,0,0,0,,,,389423894
+1,Thailand,1,N Boochatham,Salma Khatun,N Chaiwai,,0,0,0,,,,389423894
+1,Thailand,1,N Boochatham,Salma Khatun,N Chaiwai,,0,2,2,,,,389423894
+1,Thailand,2,N Chaiwai,Jahanara Alam,N Boochatham,,0,0,0,,,,389423894
+1,Thailand,2,N Chaiwai,Jahanara Alam,N Boochatham,,0,0,0,,,,389423894
+1,Thailand,2,N Chaiwai,Jahanara Alam,N Boochatham,,0,4,4,,,,389423894
+1,Thailand,2,N Chaiwai,Jahanara Alam,N Boochatham,,0,0,0,lbw,N Chaiwai,,389423894
+1,Thailand,2,N Koncharoenkai,Jahanara Alam,N Boochatham,,0,4,4,,,,389423894
+1,Thailand,2,N Koncharoenkai,Jahanara Alam,N Boochatham,,0,0,0,,,,389423894
+1,Thailand,3,N Boochatham,Salma Khatun,N Koncharoenkai,,0,0,0,,,,389423894
+1,Thailand,3,N Boochatham,Salma Khatun,N Koncharoenkai,,0,0,0,,,,389423894
+1,Thailand,3,N Boochatham,Salma Khatun,N Koncharoenkai,,0,1,1,,,,389423894
+1,Thailand,3,N Koncharoenkai,Salma Khatun,N Boochatham,,0,0,0,,,,389423894
+1,Thailand,3,N Koncharoenkai,Salma Khatun,N Boochatham,,0,0,0,,,,389423894
+1,Thailand,3,N Koncharoenkai,Salma Khatun,N Boochatham,,0,0,0,,,,389423894
+1,Thailand,4,N Boochatham,Nahida Akter,N Koncharoenkai,,0,0,0,,,,389423894
+1,Thailand,4,N Boochatham,Nahida Akter,N Koncharoenkai,,0,0,0,,,,389423894
+1,Thailand,4,N Boochatham,Nahida Akter,N Koncharoenkai,,0,2,2,,,,389423894
+1,Thailand,4,N Boochatham,Nahida Akter,N Koncharoenkai,,0,0,0,,,,389423894
+1,Thailand,4,N Boochatham,Nahida Akter,N Koncharoenkai,,0,1,1,,,,389423894
+1,Thailand,4,N Koncharoenkai,Nahida Akter,N Boochatham,,0,0,0,,,,389423894
+1,Thailand,5,N Boochatham,Fahima Khatun,N Koncharoenkai,,0,0,0,,,,389423894
+1,Thailand,5,N Boochatham,Fahima Khatun,N Koncharoenkai,,0,0,0,,,,389423894
+1,Thailand,5,N Boochatham,Fahima Khatun,N Koncharoenkai,,0,4,4,,,,389423894
+1,Thailand,5,N Boochatham,Fahima Khatun,N Koncharoenkai,,0,0,0,,,,389423894
+1,Thailand,5,N Boochatham,Fahima Khatun,N Koncharoenkai,,0,0,0,,,,389423894
+1,Thailand,5,N Boochatham,Fahima Khatun,N Koncharoenkai,,0,0,0,,,,389423894
+1,Thailand,6,N Koncharoenkai,Nahida Akter,N Boochatham,,0,0,0,,,,389423894
+1,Thailand,6,N Koncharoenkai,Nahida Akter,N Boochatham,,0,0,0,,,,389423894
+1,Thailand,6,N Koncharoenkai,Nahida Akter,N Boochatham,,0,0,0,,,,389423894
+1,Thailand,6,N Koncharoenkai,Nahida Akter,N Boochatham,,0,0,0,,,,389423894
+1,Thailand,6,N Koncharoenkai,Nahida Akter,N Boochatham,,0,0,0,bowled,N Koncharoenkai,,389423894
+1,Thailand,6,C Sutthiruang,Nahida Akter,N Boochatham,,0,0,0,,,,389423894
+1,Thailand,7,N Boochatham,Khadija Tul Kubra,C Sutthiruang,,0,0,0,,,,389423894
+1,Thailand,7,N Boochatham,Khadija Tul Kubra,C Sutthiruang,,0,4,4,,,,389423894
+1,Thailand,7,N Boochatham,Khadija Tul Kubra,C Sutthiruang,,0,1,1,,,,389423894
+1,Thailand,7,C Sutthiruang,Khadija Tul Kubra,N Boochatham,,0,0,0,,,,389423894
+1,Thailand,7,C Sutthiruang,Khadija Tul Kubra,N Boochatham,,0,0,0,,,,389423894
+1,Thailand,7,C Sutthiruang,Khadija Tul Kubra,N Boochatham,,0,0,0,,,,389423894
+1,Thailand,8,N Boochatham,Nahida Akter,C Sutthiruang,,0,0,0,caught,N Boochatham,Fahima Khatun,389423894
+1,Thailand,8,S Tippoch,Nahida Akter,C Sutthiruang,,0,0,0,,,,389423894
+1,Thailand,8,S Tippoch,Nahida Akter,C Sutthiruang,,0,0,0,,,,389423894
+1,Thailand,8,S Tippoch,Nahida Akter,C Sutthiruang,,0,0,0,,,,389423894
+1,Thailand,8,S Tippoch,Nahida Akter,C Sutthiruang,,0,0,0,,,,389423894
+1,Thailand,8,S Tippoch,Nahida Akter,C Sutthiruang,,0,0,0,,,,389423894
+1,Thailand,9,C Sutthiruang,Khadija Tul Kubra,S Tippoch,,0,0,0,,,,389423894
+1,Thailand,9,C Sutthiruang,Khadija Tul Kubra,S Tippoch,,0,0,0,,,,389423894
+1,Thailand,9,C Sutthiruang,Khadija Tul Kubra,S Tippoch,,0,0,0,,,,389423894
+1,Thailand,9,C Sutthiruang,Khadija Tul Kubra,S Tippoch,,0,2,2,,,,389423894
+1,Thailand,9,C Sutthiruang,Khadija Tul Kubra,S Tippoch,,0,0,0,,,,389423894
+1,Thailand,9,C Sutthiruang,Khadija Tul Kubra,S Tippoch,,0,1,1,,,,389423894
+1,Thailand,10,C Sutthiruang,Rumana Ahmed,S Tippoch,,0,0,0,,,,389423894
+1,Thailand,10,C Sutthiruang,Rumana Ahmed,S Tippoch,,0,0,0,,,,389423894
+1,Thailand,10,C Sutthiruang,Rumana Ahmed,S Tippoch,,0,1,1,,,,389423894
+1,Thailand,10,S Tippoch,Rumana Ahmed,C Sutthiruang,,0,0,0,,,,389423894
+1,Thailand,10,S Tippoch,Rumana Ahmed,C Sutthiruang,,0,1,1,,,,389423894
+1,Thailand,10,C Sutthiruang,Rumana Ahmed,S Tippoch,,0,0,0,caught,C Sutthiruang,Jahanara Alam,389423894
+1,Thailand,11,R Padunglerd,Fahima Khatun,S Tippoch,,0,0,0,,,,389423894
+1,Thailand,11,R Padunglerd,Fahima Khatun,S Tippoch,,0,0,0,,,,389423894
+1,Thailand,11,R Padunglerd,Fahima Khatun,S Tippoch,,0,0,0,,,,389423894
+1,Thailand,11,R Padunglerd,Fahima Khatun,S Tippoch,,0,0,0,,,,389423894
+1,Thailand,11,R Padunglerd,Fahima Khatun,S Tippoch,,0,0,0,,,,389423894
+1,Thailand,11,R Padunglerd,Fahima Khatun,S Tippoch,,0,0,0,,,,389423894
+1,Thailand,12,S Tippoch,Rumana Ahmed,R Padunglerd,,0,1,1,,,,389423894
+1,Thailand,12,R Padunglerd,Rumana Ahmed,S Tippoch,legbyes,1,1,0,,,,389423894
+1,Thailand,12,S Tippoch,Rumana Ahmed,R Padunglerd,,0,0,0,,,,389423894
+1,Thailand,12,S Tippoch,Rumana Ahmed,R Padunglerd,,0,0,0,,,,389423894
+1,Thailand,12,S Tippoch,Rumana Ahmed,R Padunglerd,,0,1,1,,,,389423894
+1,Thailand,12,R Padunglerd,Rumana Ahmed,S Tippoch,,0,0,0,,,,389423894
+1,Thailand,13,S Tippoch,Fahima Khatun,R Padunglerd,,0,0,0,,,,389423894
+1,Thailand,13,S Tippoch,Fahima Khatun,R Padunglerd,,0,0,0,,,,389423894
+1,Thailand,13,S Tippoch,Fahima Khatun,R Padunglerd,,0,0,0,,,,389423894
+1,Thailand,13,S Tippoch,Fahima Khatun,R Padunglerd,,0,1,1,,,,389423894
+1,Thailand,13,R Padunglerd,Fahima Khatun,S Tippoch,,0,0,0,,,,389423894
+1,Thailand,13,R Padunglerd,Fahima Khatun,S Tippoch,,0,0,0,,,,389423894
+1,Thailand,14,S Tippoch,Salma Khatun,R Padunglerd,,0,0,0,,,,389423894
+1,Thailand,14,S Tippoch,Salma Khatun,R Padunglerd,,0,0,0,,,,389423894
+1,Thailand,14,S Tippoch,Salma Khatun,R Padunglerd,,0,0,0,,,,389423894
+1,Thailand,14,S Tippoch,Salma Khatun,R Padunglerd,,0,1,1,,,,389423894
+1,Thailand,14,R Padunglerd,Salma Khatun,S Tippoch,,0,0,0,,,,389423894
+1,Thailand,14,R Padunglerd,Salma Khatun,S Tippoch,,0,0,0,lbw,R Padunglerd,,389423894
+1,Thailand,15,S Tippoch,Fahima Khatun,W Liengprasert,,0,1,1,,,,389423894
+1,Thailand,15,W Liengprasert,Fahima Khatun,S Tippoch,,0,1,1,,,,389423894
+1,Thailand,15,S Tippoch,Fahima Khatun,W Liengprasert,,0,1,1,,,,389423894
+1,Thailand,15,W Liengprasert,Fahima Khatun,S Tippoch,,0,0,0,,,,389423894
+1,Thailand,15,W Liengprasert,Fahima Khatun,S Tippoch,,0,0,0,caught,W Liengprasert,Ayasha Rahman,389423894
+1,Thailand,15,S Tippoch,Fahima Khatun,S Saengsakaorat,,0,1,1,,,,389423894
+1,Thailand,16,S Tippoch,Salma Khatun,S Saengsakaorat,legbyes,1,1,0,,,,389423894
+1,Thailand,16,S Saengsakaorat,Salma Khatun,S Tippoch,,0,0,0,,,,389423894
+1,Thailand,16,S Saengsakaorat,Salma Khatun,S Tippoch,,0,0,0,,,,389423894
+1,Thailand,16,S Saengsakaorat,Salma Khatun,S Tippoch,,0,1,1,,,,389423894
+1,Thailand,16,S Tippoch,Salma Khatun,S Saengsakaorat,,0,0,0,,,,389423894
+1,Thailand,16,S Tippoch,Salma Khatun,S Saengsakaorat,,0,0,0,,,,389423894
+1,Thailand,17,S Saengsakaorat,Rumana Ahmed,S Tippoch,,0,0,0,,,,389423894
+1,Thailand,17,S Saengsakaorat,Rumana Ahmed,S Tippoch,,0,1,1,,,,389423894
+1,Thailand,17,S Tippoch,Rumana Ahmed,S Saengsakaorat,,0,1,1,,,,389423894
+1,Thailand,17,S Saengsakaorat,Rumana Ahmed,S Tippoch,,0,1,1,,,,389423894
+1,Thailand,17,S Tippoch,Rumana Ahmed,S Saengsakaorat,,0,1,1,,,,389423894
+1,Thailand,17,S Saengsakaorat,Rumana Ahmed,S Tippoch,,0,1,1,,,,389423894
+1,Thailand,18,S Saengsakaorat,Nahida Akter,S Tippoch,,0,0,0,,,,389423894
+1,Thailand,18,S Saengsakaorat,Nahida Akter,S Tippoch,,0,0,0,,,,389423894
+1,Thailand,18,S Saengsakaorat,Nahida Akter,S Tippoch,,0,4,4,,,,389423894
+1,Thailand,18,S Saengsakaorat,Nahida Akter,S Tippoch,,0,0,0,,,,389423894
+1,Thailand,18,S Saengsakaorat,Nahida Akter,S Tippoch,,0,1,1,,,,389423894
+1,Thailand,18,S Tippoch,Nahida Akter,S Saengsakaorat,,0,2,2,,,,389423894
+1,Thailand,19,S Saengsakaorat,Khadija Tul Kubra,S Tippoch,,0,0,0,,,,389423894
+1,Thailand,19,S Saengsakaorat,Khadija Tul Kubra,S Tippoch,,0,2,2,,,,389423894
+1,Thailand,19,S Saengsakaorat,Khadija Tul Kubra,S Tippoch,,0,0,0,,,,389423894
+1,Thailand,19,S Saengsakaorat,Khadija Tul Kubra,S Tippoch,,0,3,3,,,,389423894
+1,Thailand,19,S Tippoch,Khadija Tul Kubra,S Saengsakaorat,,0,1,1,,,,389423894
+1,Thailand,19,S Saengsakaorat,Khadija Tul Kubra,S Tippoch,,0,0,0,lbw,S Saengsakaorat,,389423894

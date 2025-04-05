@@ -1,0 +1,109 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,West Indies,0,JB Nero,M Kapp,NY McLean,,0,0,0,,,,332223322
+2,West Indies,0,JB Nero,M Kapp,NY McLean,,0,0,0,bowled,JB Nero,,332223322
+2,West Indies,0,Kyshona A Knight,M Kapp,NY McLean,,0,0,0,,,,332223322
+2,West Indies,0,Kyshona A Knight,M Kapp,NY McLean,,0,0,0,,,,332223322
+2,West Indies,0,Kyshona A Knight,M Kapp,NY McLean,,0,0,0,,,,332223322
+2,West Indies,0,Kyshona A Knight,M Kapp,NY McLean,,0,0,0,,,,332223322
+2,West Indies,1,NY McLean,CL Tryon,Kyshona A Knight,,0,0,0,,,,332223322
+2,West Indies,1,NY McLean,CL Tryon,Kyshona A Knight,wides,1,1,0,,,,332223322
+2,West Indies,1,NY McLean,CL Tryon,Kyshona A Knight,,0,0,0,,,,332223322
+2,West Indies,1,NY McLean,CL Tryon,Kyshona A Knight,,0,2,2,,,,332223322
+2,West Indies,1,NY McLean,CL Tryon,Kyshona A Knight,,0,0,0,,,,332223322
+2,West Indies,1,NY McLean,CL Tryon,Kyshona A Knight,,0,1,1,,,,332223322
+2,West Indies,1,Kyshona A Knight,CL Tryon,NY McLean,,0,1,1,,,,332223322
+2,West Indies,2,Kyshona A Knight,M Kapp,NY McLean,,0,0,0,,,,332223322
+2,West Indies,2,Kyshona A Knight,M Kapp,NY McLean,,0,0,0,,,,332223322
+2,West Indies,2,Kyshona A Knight,M Kapp,NY McLean,,0,0,0,,,,332223322
+2,West Indies,2,Kyshona A Knight,M Kapp,NY McLean,,0,1,1,,,,332223322
+2,West Indies,2,NY McLean,M Kapp,Kyshona A Knight,,0,0,0,,,,332223322
+2,West Indies,2,NY McLean,M Kapp,Kyshona A Knight,,0,0,0,,,,332223322
+2,West Indies,3,Kyshona A Knight,CL Tryon,NY McLean,,0,4,4,,,,332223322
+2,West Indies,3,Kyshona A Knight,CL Tryon,NY McLean,,0,0,0,,,,332223322
+2,West Indies,3,Kyshona A Knight,CL Tryon,NY McLean,wides,1,1,0,,,,332223322
+2,West Indies,3,Kyshona A Knight,CL Tryon,NY McLean,,0,2,2,,,,332223322
+2,West Indies,3,Kyshona A Knight,CL Tryon,NY McLean,,0,4,4,,,,332223322
+2,West Indies,3,Kyshona A Knight,CL Tryon,NY McLean,,0,0,0,,,,332223322
+2,West Indies,3,Kyshona A Knight,CL Tryon,NY McLean,,0,0,0,,,,332223322
+2,West Indies,4,NY McLean,MM Letsoalo,Kyshona A Knight,,0,0,0,,,,332223322
+2,West Indies,4,NY McLean,MM Letsoalo,Kyshona A Knight,,0,0,0,,,,332223322
+2,West Indies,4,NY McLean,MM Letsoalo,Kyshona A Knight,byes,1,1,0,,,,332223322
+2,West Indies,4,Kyshona A Knight,MM Letsoalo,NY McLean,,0,0,0,,,,332223322
+2,West Indies,4,Kyshona A Knight,MM Letsoalo,NY McLean,,0,0,0,caught,Kyshona A Knight,Y Potgieter,332223322
+2,West Indies,4,SA Campbelle,MM Letsoalo,NY McLean,,0,1,1,,,,332223322
+2,West Indies,5,SA Campbelle,Y Potgieter,NY McLean,,0,0,0,,,,332223322
+2,West Indies,5,SA Campbelle,Y Potgieter,NY McLean,,0,1,1,,,,332223322
+2,West Indies,5,NY McLean,Y Potgieter,SA Campbelle,,0,0,0,,,,332223322
+2,West Indies,5,NY McLean,Y Potgieter,SA Campbelle,byes,1,1,0,,,,332223322
+2,West Indies,5,SA Campbelle,Y Potgieter,NY McLean,,0,0,0,,,,332223322
+2,West Indies,5,SA Campbelle,Y Potgieter,NY McLean,,0,4,4,,,,332223322
+2,West Indies,6,NY McLean,MM Letsoalo,SA Campbelle,,0,1,1,,,,332223322
+2,West Indies,6,SA Campbelle,MM Letsoalo,NY McLean,wides,1,1,0,,,,332223322
+2,West Indies,6,SA Campbelle,MM Letsoalo,NY McLean,,0,2,2,,,,332223322
+2,West Indies,6,SA Campbelle,MM Letsoalo,NY McLean,,0,1,1,,,,332223322
+2,West Indies,6,NY McLean,MM Letsoalo,SA Campbelle,,0,0,0,,,,332223322
+2,West Indies,6,NY McLean,MM Letsoalo,SA Campbelle,,0,0,0,,,,332223322
+2,West Indies,6,NY McLean,MM Letsoalo,SA Campbelle,,0,1,1,,,,332223322
+2,West Indies,7,NY McLean,Y Potgieter,SA Campbelle,,0,0,0,,,,332223322
+2,West Indies,7,NY McLean,Y Potgieter,SA Campbelle,,0,1,1,,,,332223322
+2,West Indies,7,SA Campbelle,Y Potgieter,NY McLean,,0,1,1,,,,332223322
+2,West Indies,7,NY McLean,Y Potgieter,SA Campbelle,,0,1,1,,,,332223322
+2,West Indies,7,SA Campbelle,Y Potgieter,NY McLean,,0,0,0,,,,332223322
+2,West Indies,7,SA Campbelle,Y Potgieter,NY McLean,,0,1,1,,,,332223322
+2,West Indies,8,SA Campbelle,D van Niekerk,NY McLean,,0,1,1,,,,332223322
+2,West Indies,8,NY McLean,D van Niekerk,SA Campbelle,,0,1,1,,,,332223322
+2,West Indies,8,SA Campbelle,D van Niekerk,NY McLean,,0,1,1,,,,332223322
+2,West Indies,8,NY McLean,D van Niekerk,SA Campbelle,,0,0,0,,,,332223322
+2,West Indies,8,NY McLean,D van Niekerk,SA Campbelle,,0,1,1,,,,332223322
+2,West Indies,8,SA Campbelle,D van Niekerk,NY McLean,,0,1,1,,,,332223322
+2,West Indies,9,SA Campbelle,D Devnarain,NY McLean,,0,0,0,,,,332223322
+2,West Indies,9,SA Campbelle,D Devnarain,NY McLean,,0,1,1,,,,332223322
+2,West Indies,9,NY McLean,D Devnarain,SA Campbelle,,0,1,1,,,,332223322
+2,West Indies,9,SA Campbelle,D Devnarain,NY McLean,,0,1,1,,,,332223322
+2,West Indies,9,NY McLean,D Devnarain,SA Campbelle,,0,0,0,,,,332223322
+2,West Indies,9,NY McLean,D Devnarain,SA Campbelle,,0,1,1,,,,332223322
+2,West Indies,10,NY McLean,D van Niekerk,SA Campbelle,,0,0,0,,,,332223322
+2,West Indies,10,NY McLean,D van Niekerk,SA Campbelle,,0,0,0,,,,332223322
+2,West Indies,10,NY McLean,D van Niekerk,SA Campbelle,,0,1,1,,,,332223322
+2,West Indies,10,SA Campbelle,D van Niekerk,NY McLean,,0,1,1,,,,332223322
+2,West Indies,10,NY McLean,D van Niekerk,SA Campbelle,,0,0,0,,,,332223322
+2,West Indies,10,NY McLean,D van Niekerk,SA Campbelle,,0,0,0,,,,332223322
+2,West Indies,11,SA Campbelle,D Devnarain,NY McLean,,0,2,2,,,,332223322
+2,West Indies,11,SA Campbelle,D Devnarain,NY McLean,,0,1,1,,,,332223322
+2,West Indies,11,NY McLean,D Devnarain,SA Campbelle,,0,1,1,,,,332223322
+2,West Indies,11,SA Campbelle,D Devnarain,NY McLean,,0,0,0,,,,332223322
+2,West Indies,11,SA Campbelle,D Devnarain,NY McLean,,0,2,2,,,,332223322
+2,West Indies,11,SA Campbelle,D Devnarain,NY McLean,,0,6,6,,,,332223322
+2,West Indies,12,NY McLean,MM Letsoalo,SA Campbelle,,0,0,0,,,,332223322
+2,West Indies,12,NY McLean,MM Letsoalo,SA Campbelle,,0,4,4,,,,332223322
+2,West Indies,12,NY McLean,MM Letsoalo,SA Campbelle,,0,1,1,,,,332223322
+2,West Indies,12,SA Campbelle,MM Letsoalo,NY McLean,,0,2,2,,,,332223322
+2,West Indies,12,SA Campbelle,MM Letsoalo,NY McLean,,0,1,1,,,,332223322
+2,West Indies,12,NY McLean,MM Letsoalo,SA Campbelle,,0,1,1,,,,332223322
+2,West Indies,13,NY McLean,CL Tryon,SA Campbelle,,0,1,1,,,,332223322
+2,West Indies,13,SA Campbelle,CL Tryon,NY McLean,,0,1,1,,,,332223322
+2,West Indies,13,NY McLean,CL Tryon,SA Campbelle,,0,1,1,,,,332223322
+2,West Indies,13,SA Campbelle,CL Tryon,NY McLean,,0,1,1,,,,332223322
+2,West Indies,13,NY McLean,CL Tryon,SA Campbelle,wides,1,1,0,,,,332223322
+2,West Indies,13,NY McLean,CL Tryon,SA Campbelle,,0,1,1,,,,332223322
+2,West Indies,13,SA Campbelle,CL Tryon,NY McLean,,0,0,0,,,,332223322
+2,West Indies,14,NY McLean,M Kapp,SA Campbelle,,0,1,1,,,,332223322
+2,West Indies,14,SA Campbelle,M Kapp,NY McLean,,0,0,0,caught,SA Campbelle,CL Tryon,332223322
+2,West Indies,14,DJS Dottin,M Kapp,NY McLean,legbyes,4,4,0,,,,332223322
+2,West Indies,14,DJS Dottin,M Kapp,NY McLean,,0,1,1,,,,332223322
+2,West Indies,14,NY McLean,M Kapp,DJS Dottin,,0,0,0,caught,NY McLean,T Chetty,332223322
+2,West Indies,14,SF Daley,M Kapp,DJS Dottin,,0,0,0,,,,332223322
+2,West Indies,15,DJS Dottin,Y Potgieter,SF Daley,,0,1,1,,,,332223322
+2,West Indies,15,SF Daley,Y Potgieter,DJS Dottin,,0,4,4,,,,332223322
+2,West Indies,15,SF Daley,Y Potgieter,DJS Dottin,,0,2,2,,,,332223322
+2,West Indies,15,SF Daley,Y Potgieter,DJS Dottin,,0,2,2,,,,332223322
+2,West Indies,15,SF Daley,Y Potgieter,DJS Dottin,,0,0,0,,,,332223322
+2,West Indies,15,SF Daley,Y Potgieter,DJS Dottin,,0,1,1,,,,332223322
+2,West Indies,16,SF Daley,M Kapp,DJS Dottin,,0,0,0,,,,332223322
+2,West Indies,16,SF Daley,M Kapp,DJS Dottin,,0,0,0,,,,332223322
+2,West Indies,16,SF Daley,M Kapp,DJS Dottin,,0,0,0,,,,332223322
+2,West Indies,16,SF Daley,M Kapp,DJS Dottin,,0,0,0,,,,332223322
+2,West Indies,16,SF Daley,M Kapp,DJS Dottin,,0,0,0,,,,332223322
+2,West Indies,16,SF Daley,M Kapp,DJS Dottin,,0,0,0,,,,332223322
+2,West Indies,17,DJS Dottin,MM Letsoalo,SF Daley,,0,4,4,,,,332223322
+2,West Indies,17,DJS Dottin,MM Letsoalo,SF Daley,,0,4,4,,,,332223322

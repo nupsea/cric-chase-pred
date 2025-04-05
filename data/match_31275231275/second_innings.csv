@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Kenya,0,DM Gondaria,RE van der Merwe,AA Obanda,,0,0,0,,,,31275231275
+2,Kenya,0,DM Gondaria,RE van der Merwe,AA Obanda,,0,1,1,,,,31275231275
+2,Kenya,0,AA Obanda,RE van der Merwe,DM Gondaria,,0,0,0,,,,31275231275
+2,Kenya,0,AA Obanda,RE van der Merwe,DM Gondaria,,0,1,1,,,,31275231275
+2,Kenya,0,DM Gondaria,RE van der Merwe,AA Obanda,,0,1,1,,,,31275231275
+2,Kenya,0,AA Obanda,RE van der Merwe,DM Gondaria,,0,0,0,,,,31275231275
+2,Kenya,1,DM Gondaria,PA van Meekeren,AA Obanda,,0,1,1,,,,31275231275
+2,Kenya,1,AA Obanda,PA van Meekeren,DM Gondaria,,0,0,0,,,,31275231275
+2,Kenya,1,AA Obanda,PA van Meekeren,DM Gondaria,,0,2,2,,,,31275231275
+2,Kenya,1,AA Obanda,PA van Meekeren,DM Gondaria,,0,1,1,,,,31275231275
+2,Kenya,1,DM Gondaria,PA van Meekeren,AA Obanda,,0,1,1,,,,31275231275
+2,Kenya,1,AA Obanda,PA van Meekeren,DM Gondaria,wides,1,1,0,,,,31275231275
+2,Kenya,1,AA Obanda,PA van Meekeren,DM Gondaria,,0,0,0,,,,31275231275
+2,Kenya,2,DM Gondaria,FJ Klaassen,AA Obanda,,0,0,0,,,,31275231275
+2,Kenya,2,DM Gondaria,FJ Klaassen,AA Obanda,,0,2,2,,,,31275231275
+2,Kenya,2,DM Gondaria,FJ Klaassen,AA Obanda,,0,0,0,,,,31275231275
+2,Kenya,2,DM Gondaria,FJ Klaassen,AA Obanda,,0,1,1,,,,31275231275
+2,Kenya,2,AA Obanda,FJ Klaassen,DM Gondaria,,0,0,0,,,,31275231275
+2,Kenya,2,AA Obanda,FJ Klaassen,DM Gondaria,,0,2,2,,,,31275231275
+2,Kenya,3,DM Gondaria,BD Glover,AA Obanda,,0,1,1,,,,31275231275
+2,Kenya,3,AA Obanda,BD Glover,DM Gondaria,legbyes,1,1,0,,,,31275231275
+2,Kenya,3,DM Gondaria,BD Glover,AA Obanda,,0,1,1,,,,31275231275
+2,Kenya,3,AA Obanda,BD Glover,DM Gondaria,,0,1,1,,,,31275231275
+2,Kenya,3,DM Gondaria,BD Glover,AA Obanda,,0,1,1,,,,31275231275
+2,Kenya,3,AA Obanda,BD Glover,DM Gondaria,,0,1,1,,,,31275231275
+2,Kenya,4,AA Obanda,T van der Gugten,DM Gondaria,,0,1,1,,,,31275231275
+2,Kenya,4,DM Gondaria,T van der Gugten,AA Obanda,,0,0,0,caught,DM Gondaria,PA van Meekeren,31275231275
+2,Kenya,4,AA Obanda,T van der Gugten,JS Kundi,,0,1,1,,,,31275231275
+2,Kenya,4,JS Kundi,T van der Gugten,AA Obanda,,0,0,0,,,,31275231275
+2,Kenya,4,JS Kundi,T van der Gugten,AA Obanda,,0,0,0,,,,31275231275
+2,Kenya,4,JS Kundi,T van der Gugten,AA Obanda,,0,4,4,,,,31275231275
+2,Kenya,5,AA Obanda,PA van Meekeren,JS Kundi,,0,0,0,bowled,AA Obanda,,31275231275
+2,Kenya,5,CO Obuya,PA van Meekeren,JS Kundi,,0,0,0,,,,31275231275
+2,Kenya,5,CO Obuya,PA van Meekeren,JS Kundi,,0,0,0,,,,31275231275
+2,Kenya,5,CO Obuya,PA van Meekeren,JS Kundi,,0,0,0,,,,31275231275
+2,Kenya,5,CO Obuya,PA van Meekeren,JS Kundi,,0,0,0,,,,31275231275
+2,Kenya,5,CO Obuya,PA van Meekeren,JS Kundi,,0,4,4,,,,31275231275
+2,Kenya,6,JS Kundi,PM Seelaar,CO Obuya,,0,1,1,,,,31275231275
+2,Kenya,6,CO Obuya,PM Seelaar,JS Kundi,,0,0,0,,,,31275231275
+2,Kenya,6,CO Obuya,PM Seelaar,JS Kundi,,0,1,1,,,,31275231275
+2,Kenya,6,JS Kundi,PM Seelaar,CO Obuya,,0,0,0,,,,31275231275
+2,Kenya,6,JS Kundi,PM Seelaar,CO Obuya,,0,0,0,,,,31275231275
+2,Kenya,6,JS Kundi,PM Seelaar,CO Obuya,,0,0,0,,,,31275231275
+2,Kenya,7,CO Obuya,BD Glover,JS Kundi,,0,4,4,,,,31275231275
+2,Kenya,7,CO Obuya,BD Glover,JS Kundi,legbyes,1,1,0,,,,31275231275
+2,Kenya,7,JS Kundi,BD Glover,CO Obuya,,0,0,0,,,,31275231275
+2,Kenya,7,JS Kundi,BD Glover,CO Obuya,,0,0,0,,,,31275231275
+2,Kenya,7,JS Kundi,BD Glover,CO Obuya,wides,1,1,0,,,,31275231275
+2,Kenya,7,JS Kundi,BD Glover,CO Obuya,,0,0,0,,,,31275231275
+2,Kenya,7,JS Kundi,BD Glover,CO Obuya,,0,1,1,,,,31275231275
+2,Kenya,8,JS Kundi,RE van der Merwe,CO Obuya,,0,0,0,,,,31275231275
+2,Kenya,8,JS Kundi,RE van der Merwe,CO Obuya,,0,0,0,bowled,JS Kundi,,31275231275
+2,Kenya,8,RR Patel,RE van der Merwe,CO Obuya,,0,0,0,,,,31275231275
+2,Kenya,8,RR Patel,RE van der Merwe,CO Obuya,,0,1,1,,,,31275231275
+2,Kenya,8,CO Obuya,RE van der Merwe,RR Patel,,0,1,1,,,,31275231275
+2,Kenya,8,RR Patel,RE van der Merwe,CO Obuya,,0,1,1,,,,31275231275
+2,Kenya,9,RR Patel,PM Seelaar,CO Obuya,,0,4,4,,,,31275231275
+2,Kenya,9,RR Patel,PM Seelaar,CO Obuya,,0,0,0,,,,31275231275
+2,Kenya,9,RR Patel,PM Seelaar,CO Obuya,,0,1,1,,,,31275231275
+2,Kenya,9,CO Obuya,PM Seelaar,RR Patel,,0,0,0,,,,31275231275
+2,Kenya,9,CO Obuya,PM Seelaar,RR Patel,,0,0,0,,,,31275231275
+2,Kenya,9,CO Obuya,PM Seelaar,RR Patel,,0,1,1,,,,31275231275
+2,Kenya,10,CO Obuya,RE van der Merwe,RR Patel,,0,0,0,,,,31275231275
+2,Kenya,10,CO Obuya,RE van der Merwe,RR Patel,,0,1,1,,,,31275231275
+2,Kenya,10,RR Patel,RE van der Merwe,CO Obuya,,0,1,1,,,,31275231275
+2,Kenya,10,CO Obuya,RE van der Merwe,RR Patel,,0,6,6,,,,31275231275
+2,Kenya,10,CO Obuya,RE van der Merwe,RR Patel,,0,0,0,,,,31275231275
+2,Kenya,10,CO Obuya,RE van der Merwe,RR Patel,,0,1,1,,,,31275231275
+2,Kenya,11,CO Obuya,T van der Gugten,RR Patel,,0,1,1,,,,31275231275
+2,Kenya,11,RR Patel,T van der Gugten,CO Obuya,,0,1,1,,,,31275231275
+2,Kenya,11,CO Obuya,T van der Gugten,RR Patel,,0,1,1,,,,31275231275
+2,Kenya,11,RR Patel,T van der Gugten,CO Obuya,,0,1,1,,,,31275231275
+2,Kenya,11,CO Obuya,T van der Gugten,RR Patel,,0,1,1,,,,31275231275
+2,Kenya,11,RR Patel,T van der Gugten,CO Obuya,wides,1,1,0,,,,31275231275
+2,Kenya,11,RR Patel,T van der Gugten,CO Obuya,,0,1,1,,,,31275231275
+2,Kenya,12,RR Patel,FJ Klaassen,CO Obuya,,0,1,1,,,,31275231275
+2,Kenya,12,CO Obuya,FJ Klaassen,RR Patel,,0,4,4,,,,31275231275
+2,Kenya,12,CO Obuya,FJ Klaassen,RR Patel,,0,1,1,,,,31275231275
+2,Kenya,12,RR Patel,FJ Klaassen,CO Obuya,,0,1,1,,,,31275231275
+2,Kenya,12,CO Obuya,FJ Klaassen,RR Patel,,0,4,4,,,,31275231275
+2,Kenya,12,CO Obuya,FJ Klaassen,RR Patel,,0,1,1,,,,31275231275
+2,Kenya,13,CO Obuya,PM Seelaar,RR Patel,,0,6,6,,,,31275231275
+2,Kenya,13,CO Obuya,PM Seelaar,RR Patel,,0,1,1,,,,31275231275
+2,Kenya,13,RR Patel,PM Seelaar,CO Obuya,,0,4,4,,,,31275231275
+2,Kenya,13,RR Patel,PM Seelaar,CO Obuya,,0,6,6,,,,31275231275
+2,Kenya,13,RR Patel,PM Seelaar,CO Obuya,,0,0,0,,,,31275231275
+2,Kenya,13,RR Patel,PM Seelaar,CO Obuya,legbyes,1,1,0,,,,31275231275
+2,Kenya,14,RR Patel,BD Glover,CO Obuya,,0,2,2,,,,31275231275
+2,Kenya,14,RR Patel,BD Glover,CO Obuya,,0,0,0,,,,31275231275
+2,Kenya,14,RR Patel,BD Glover,CO Obuya,,0,1,1,,,,31275231275
+2,Kenya,14,CO Obuya,BD Glover,RR Patel,,0,2,2,,,,31275231275
+2,Kenya,14,CO Obuya,BD Glover,RR Patel,,0,0,0,,,,31275231275
+2,Kenya,14,CO Obuya,BD Glover,RR Patel,,0,1,1,,,,31275231275
+2,Kenya,15,CO Obuya,PA van Meekeren,RR Patel,,0,4,4,,,,31275231275
+2,Kenya,15,CO Obuya,PA van Meekeren,RR Patel,,0,4,4,,,,31275231275
+2,Kenya,15,CO Obuya,PA van Meekeren,RR Patel,,0,1,1,,,,31275231275
+2,Kenya,15,RR Patel,PA van Meekeren,CO Obuya,,0,0,0,caught,RR Patel,FJ Klaassen,31275231275
+2,Kenya,15,SO Ngoche,PA van Meekeren,CO Obuya,,0,1,1,,,,31275231275
+2,Kenya,15,CO Obuya,PA van Meekeren,SO Ngoche,,0,2,2,,,,31275231275
+2,Kenya,16,SO Ngoche,T van der Gugten,CO Obuya,,0,1,1,,,,31275231275
+2,Kenya,16,CO Obuya,T van der Gugten,SO Ngoche,,0,2,2,,,,31275231275
+2,Kenya,16,CO Obuya,T van der Gugten,SO Ngoche,,0,1,1,,,,31275231275
+2,Kenya,16,SO Ngoche,T van der Gugten,CO Obuya,,0,1,1,,,,31275231275
+2,Kenya,16,CO Obuya,T van der Gugten,SO Ngoche,,0,1,1,,,,31275231275
+2,Kenya,16,SO Ngoche,T van der Gugten,CO Obuya,,0,4,4,,,,31275231275
+2,Kenya,17,CO Obuya,FJ Klaassen,SO Ngoche,,0,4,4,,,,31275231275
+2,Kenya,17,CO Obuya,FJ Klaassen,SO Ngoche,,0,2,2,,,,31275231275
+2,Kenya,17,CO Obuya,FJ Klaassen,SO Ngoche,,0,0,0,caught and bowled,CO Obuya,,31275231275
+2,Kenya,17,SO Ngoche,FJ Klaassen,NM Odhiambo,,0,0,0,,,,31275231275
+2,Kenya,17,SO Ngoche,FJ Klaassen,NM Odhiambo,,0,0,0,caught,SO Ngoche,T van der Gugten,31275231275
+2,Kenya,17,NM Odhiambo,FJ Klaassen,LN Oluoch,,0,0,0,,,,31275231275
+2,Kenya,18,LN Oluoch,BD Glover,NM Odhiambo,legbyes,1,1,0,,,,31275231275
+2,Kenya,18,NM Odhiambo,BD Glover,LN Oluoch,,0,0,0,bowled,NM Odhiambo,,31275231275
+2,Kenya,18,IA Karim,BD Glover,LN Oluoch,,0,0,0,,,,31275231275
+2,Kenya,18,IA Karim,BD Glover,LN Oluoch,,0,0,0,,,,31275231275
+2,Kenya,18,IA Karim,BD Glover,LN Oluoch,,0,1,1,,,,31275231275
+2,Kenya,18,LN Oluoch,BD Glover,IA Karim,,0,1,1,,,,31275231275
+2,Kenya,19,LN Oluoch,PA van Meekeren,IA Karim,,0,1,1,,,,31275231275
+2,Kenya,19,IA Karim,PA van Meekeren,LN Oluoch,,0,1,1,,,,31275231275
+2,Kenya,19,LN Oluoch,PA van Meekeren,IA Karim,,0,0,0,bowled,LN Oluoch,,31275231275
+2,Kenya,19,E Otieno,PA van Meekeren,IA Karim,,0,2,2,,,,31275231275
+2,Kenya,19,E Otieno,PA van Meekeren,IA Karim,,0,0,0,,,,31275231275
+2,Kenya,19,E Otieno,PA van Meekeren,IA Karim,,0,1,1,,,,31275231275

@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Namibia,0,JP Kotze,C Kyewuta,CG Williams,,0,0,0,,,,31492231492
+1,Namibia,0,JP Kotze,C Kyewuta,CG Williams,,0,1,1,,,,31492231492
+1,Namibia,0,CG Williams,C Kyewuta,JP Kotze,,0,0,0,,,,31492231492
+1,Namibia,0,CG Williams,C Kyewuta,JP Kotze,,0,0,0,,,,31492231492
+1,Namibia,0,CG Williams,C Kyewuta,JP Kotze,,0,0,0,,,,31492231492
+1,Namibia,0,CG Williams,C Kyewuta,JP Kotze,,0,0,0,,,,31492231492
+1,Namibia,1,JP Kotze,J Sebanja,CG Williams,,0,0,0,,,,31492231492
+1,Namibia,1,JP Kotze,J Sebanja,CG Williams,legbyes,1,1,0,,,,31492231492
+1,Namibia,1,CG Williams,J Sebanja,JP Kotze,,0,0,0,,,,31492231492
+1,Namibia,1,CG Williams,J Sebanja,JP Kotze,,0,4,4,,,,31492231492
+1,Namibia,1,CG Williams,J Sebanja,JP Kotze,,0,1,1,,,,31492231492
+1,Namibia,1,JP Kotze,J Sebanja,CG Williams,,0,0,0,,,,31492231492
+1,Namibia,2,CG Williams,C Kyewuta,JP Kotze,,0,4,4,,,,31492231492
+1,Namibia,2,CG Williams,C Kyewuta,JP Kotze,,0,1,1,,,,31492231492
+1,Namibia,2,JP Kotze,C Kyewuta,CG Williams,,0,0,0,,,,31492231492
+1,Namibia,2,JP Kotze,C Kyewuta,CG Williams,,0,1,1,,,,31492231492
+1,Namibia,2,CG Williams,C Kyewuta,JP Kotze,,0,0,0,caught,CG Williams,Saud Islam,31492231492
+1,Namibia,2,MG Erasmus,C Kyewuta,JP Kotze,,0,1,1,,,,31492231492
+1,Namibia,3,MG Erasmus,J Sebanja,JP Kotze,,0,0,0,,,,31492231492
+1,Namibia,3,MG Erasmus,J Sebanja,JP Kotze,wides,1,1,0,,,,31492231492
+1,Namibia,3,MG Erasmus,J Sebanja,JP Kotze,,0,4,4,,,,31492231492
+1,Namibia,3,MG Erasmus,J Sebanja,JP Kotze,,0,1,1,,,,31492231492
+1,Namibia,3,JP Kotze,J Sebanja,MG Erasmus,,0,0,0,caught,JP Kotze,DM Nakrani,31492231492
+1,Namibia,3,JN Loftie-Eaton,J Sebanja,MG Erasmus,,0,0,0,,,,31492231492
+1,Namibia,3,JN Loftie-Eaton,J Sebanja,MG Erasmus,,0,1,1,,,,31492231492
+1,Namibia,4,JN Loftie-Eaton,C Kyewuta,MG Erasmus,,0,1,1,,,,31492231492
+1,Namibia,4,MG Erasmus,C Kyewuta,JN Loftie-Eaton,,0,0,0,,,,31492231492
+1,Namibia,4,MG Erasmus,C Kyewuta,JN Loftie-Eaton,,0,0,0,,,,31492231492
+1,Namibia,4,MG Erasmus,C Kyewuta,JN Loftie-Eaton,,0,4,4,,,,31492231492
+1,Namibia,4,MG Erasmus,C Kyewuta,JN Loftie-Eaton,,0,0,0,,,,31492231492
+1,Namibia,4,MG Erasmus,C Kyewuta,JN Loftie-Eaton,,0,0,0,,,,31492231492
+1,Namibia,5,JN Loftie-Eaton,Riazat Ali Shah,MG Erasmus,,0,1,1,,,,31492231492
+1,Namibia,5,MG Erasmus,Riazat Ali Shah,JN Loftie-Eaton,,0,1,1,,,,31492231492
+1,Namibia,5,JN Loftie-Eaton,Riazat Ali Shah,MG Erasmus,,0,1,1,,,,31492231492
+1,Namibia,5,MG Erasmus,Riazat Ali Shah,JN Loftie-Eaton,,0,0,0,caught,MG Erasmus,A Otwani,31492231492
+1,Namibia,5,JJ Smit,Riazat Ali Shah,JN Loftie-Eaton,,0,1,1,,,,31492231492
+1,Namibia,5,JN Loftie-Eaton,Riazat Ali Shah,JJ Smit,,0,0,0,,,,31492231492
+1,Namibia,6,JJ Smit,DM Nakrani,JN Loftie-Eaton,,0,1,1,,,,31492231492
+1,Namibia,6,JN Loftie-Eaton,DM Nakrani,JJ Smit,,0,0,0,,,,31492231492
+1,Namibia,6,JN Loftie-Eaton,DM Nakrani,JJ Smit,,0,1,1,,,,31492231492
+1,Namibia,6,JJ Smit,DM Nakrani,JN Loftie-Eaton,,0,1,1,,,,31492231492
+1,Namibia,6,JN Loftie-Eaton,DM Nakrani,JJ Smit,,0,1,1,,,,31492231492
+1,Namibia,6,JJ Smit,DM Nakrani,JN Loftie-Eaton,,0,0,0,,,,31492231492
+1,Namibia,7,JN Loftie-Eaton,Riazat Ali Shah,JJ Smit,,0,0,0,caught,JN Loftie-Eaton,F Nsubuga,31492231492
+1,Namibia,7,JJ Smit,Riazat Ali Shah,MD du Preez,,0,0,0,,,,31492231492
+1,Namibia,7,JJ Smit,Riazat Ali Shah,MD du Preez,,0,0,0,,,,31492231492
+1,Namibia,7,JJ Smit,Riazat Ali Shah,MD du Preez,,0,0,0,,,,31492231492
+1,Namibia,7,JJ Smit,Riazat Ali Shah,MD du Preez,,0,1,1,,,,31492231492
+1,Namibia,7,MD du Preez,Riazat Ali Shah,JJ Smit,,0,0,0,,,,31492231492
+1,Namibia,8,JJ Smit,DM Nakrani,MD du Preez,,0,1,1,,,,31492231492
+1,Namibia,8,MD du Preez,DM Nakrani,JJ Smit,,0,0,0,,,,31492231492
+1,Namibia,8,MD du Preez,DM Nakrani,JJ Smit,,0,0,0,,,,31492231492
+1,Namibia,8,MD du Preez,DM Nakrani,JJ Smit,,0,0,0,,,,31492231492
+1,Namibia,8,MD du Preez,DM Nakrani,JJ Smit,,0,1,1,,,,31492231492
+1,Namibia,8,JJ Smit,DM Nakrani,MD du Preez,,0,1,1,,,,31492231492
+1,Namibia,9,JJ Smit,J Sebanja,MD du Preez,,0,0,0,,,,31492231492
+1,Namibia,9,JJ Smit,J Sebanja,MD du Preez,,0,4,4,,,,31492231492
+1,Namibia,9,JJ Smit,J Sebanja,MD du Preez,,0,1,1,,,,31492231492
+1,Namibia,9,MD du Preez,J Sebanja,JJ Smit,,0,1,1,,,,31492231492
+1,Namibia,9,JJ Smit,J Sebanja,MD du Preez,wides,2,2,0,,,,31492231492
+1,Namibia,9,MD du Preez,J Sebanja,JJ Smit,,0,0,0,,,,31492231492
+1,Namibia,9,MD du Preez,J Sebanja,JJ Smit,,0,1,1,,,,31492231492
+1,Namibia,10,MD du Preez,F Nsubuga,JJ Smit,,0,1,1,,,,31492231492
+1,Namibia,10,JJ Smit,F Nsubuga,MD du Preez,,0,6,6,,,,31492231492
+1,Namibia,10,JJ Smit,F Nsubuga,MD du Preez,,0,6,6,,,,31492231492
+1,Namibia,10,JJ Smit,F Nsubuga,MD du Preez,,0,2,2,,,,31492231492
+1,Namibia,10,JJ Smit,F Nsubuga,MD du Preez,,0,2,2,,,,31492231492
+1,Namibia,10,JJ Smit,F Nsubuga,MD du Preez,,0,1,1,,,,31492231492
+1,Namibia,11,JJ Smit,DM Nakrani,MD du Preez,,0,1,1,,,,31492231492
+1,Namibia,11,MD du Preez,DM Nakrani,JJ Smit,,0,0,0,,,,31492231492
+1,Namibia,11,MD du Preez,DM Nakrani,JJ Smit,,0,0,0,,,,31492231492
+1,Namibia,11,MD du Preez,DM Nakrani,JJ Smit,,0,1,1,,,,31492231492
+1,Namibia,11,JJ Smit,DM Nakrani,MD du Preez,,0,1,1,,,,31492231492
+1,Namibia,11,MD du Preez,DM Nakrani,JJ Smit,,0,0,0,,,,31492231492
+1,Namibia,12,JJ Smit,J Sebanja,MD du Preez,,0,1,1,,,,31492231492
+1,Namibia,12,MD du Preez,J Sebanja,JJ Smit,,0,0,0,,,,31492231492
+1,Namibia,12,MD du Preez,J Sebanja,JJ Smit,,0,1,1,,,,31492231492
+1,Namibia,12,JJ Smit,J Sebanja,MD du Preez,,0,1,1,,,,31492231492
+1,Namibia,12,MD du Preez,J Sebanja,JJ Smit,,0,3,3,,,,31492231492
+1,Namibia,12,JJ Smit,J Sebanja,MD du Preez,,0,1,1,,,,31492231492
+1,Namibia,13,JJ Smit,K Waiswa,MD du Preez,,0,1,1,,,,31492231492
+1,Namibia,13,MD du Preez,K Waiswa,JJ Smit,,0,0,0,,,,31492231492
+1,Namibia,13,MD du Preez,K Waiswa,JJ Smit,,0,1,1,,,,31492231492
+1,Namibia,13,JJ Smit,K Waiswa,MD du Preez,,0,1,1,,,,31492231492
+1,Namibia,13,MD du Preez,K Waiswa,JJ Smit,,0,6,6,,,,31492231492
+1,Namibia,13,MD du Preez,K Waiswa,JJ Smit,,0,1,1,,,,31492231492
+1,Namibia,14,MD du Preez,DM Nakrani,JJ Smit,,0,4,4,,,,31492231492
+1,Namibia,14,MD du Preez,DM Nakrani,JJ Smit,,0,0,0,,,,31492231492
+1,Namibia,14,MD du Preez,DM Nakrani,JJ Smit,,0,1,1,,,,31492231492
+1,Namibia,14,JJ Smit,DM Nakrani,MD du Preez,,0,1,1,,,,31492231492
+1,Namibia,14,MD du Preez,DM Nakrani,JJ Smit,,0,0,0,,,,31492231492
+1,Namibia,14,MD du Preez,DM Nakrani,JJ Smit,,0,0,0,,,,31492231492
+1,Namibia,15,JJ Smit,K Waiswa,MD du Preez,,0,1,1,,,,31492231492
+1,Namibia,15,MD du Preez,K Waiswa,JJ Smit,,0,4,4,,,,31492231492
+1,Namibia,15,MD du Preez,K Waiswa,JJ Smit,,0,1,1,,,,31492231492
+1,Namibia,15,JJ Smit,K Waiswa,MD du Preez,,0,0,0,,,,31492231492
+1,Namibia,15,JJ Smit,K Waiswa,MD du Preez,,0,2,2,,,,31492231492
+1,Namibia,15,JJ Smit,K Waiswa,MD du Preez,,0,1,1,,,,31492231492
+1,Namibia,16,JJ Smit,Riazat Ali Shah,MD du Preez,,0,0,0,,,,31492231492
+1,Namibia,16,JJ Smit,Riazat Ali Shah,MD du Preez,,0,0,0,bowled,JJ Smit,,31492231492
+1,Namibia,16,K Birkenstock,Riazat Ali Shah,MD du Preez,,0,2,2,,,,31492231492
+1,Namibia,16,K Birkenstock,Riazat Ali Shah,MD du Preez,,0,4,4,,,,31492231492
+1,Namibia,16,K Birkenstock,Riazat Ali Shah,MD du Preez,,0,0,0,,,,31492231492
+1,Namibia,16,K Birkenstock,Riazat Ali Shah,MD du Preez,,0,1,1,,,,31492231492
+1,Namibia,17,K Birkenstock,C Kyewuta,MD du Preez,,0,4,4,,,,31492231492
+1,Namibia,17,K Birkenstock,C Kyewuta,MD du Preez,,0,0,0,,,,31492231492
+1,Namibia,17,K Birkenstock,C Kyewuta,MD du Preez,,0,2,2,,,,31492231492
+1,Namibia,17,K Birkenstock,C Kyewuta,MD du Preez,,0,1,1,,,,31492231492
+1,Namibia,17,MD du Preez,C Kyewuta,K Birkenstock,,0,1,1,,,,31492231492
+1,Namibia,17,K Birkenstock,C Kyewuta,MD du Preez,,0,2,2,,,,31492231492
+1,Namibia,18,MD du Preez,K Waiswa,K Birkenstock,,0,1,1,,,,31492231492
+1,Namibia,18,K Birkenstock,K Waiswa,MD du Preez,,0,0,0,,,,31492231492
+1,Namibia,18,K Birkenstock,K Waiswa,MD du Preez,,0,0,0,caught,K Birkenstock,Saud Islam,31492231492
+1,Namibia,18,MD du Preez,K Waiswa,JN Frylinck,,0,1,1,,,,31492231492
+1,Namibia,18,JN Frylinck,K Waiswa,MD du Preez,,0,2,2,,,,31492231492
+1,Namibia,18,JN Frylinck,K Waiswa,MD du Preez,,0,0,0,,,,31492231492
+1,Namibia,19,MD du Preez,Riazat Ali Shah,JN Frylinck,byes,1,1,0,,,,31492231492
+1,Namibia,19,JN Frylinck,Riazat Ali Shah,MD du Preez,byes,1,1,0,,,,31492231492
+1,Namibia,19,MD du Preez,Riazat Ali Shah,JN Frylinck,,0,2,2,,,,31492231492
+1,Namibia,19,MD du Preez,Riazat Ali Shah,JN Frylinck,,0,1,1,,,,31492231492
+1,Namibia,19,JN Frylinck,Riazat Ali Shah,MD du Preez,,0,4,4,,,,31492231492
+1,Namibia,19,JN Frylinck,Riazat Ali Shah,MD du Preez,,0,4,4,,,,31492231492

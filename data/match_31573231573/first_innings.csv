@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,France,0,TE Britton,EC Bargna,AC Brodin,,0,0,0,,,,31573231573
+1,France,0,TE Britton,EC Bargna,AC Brodin,,0,2,2,,,,31573231573
+1,France,0,TE Britton,EC Bargna,AC Brodin,,0,0,0,,,,31573231573
+1,France,0,TE Britton,EC Bargna,AC Brodin,wides,1,1,0,,,,31573231573
+1,France,0,TE Britton,EC Bargna,AC Brodin,,0,1,1,,,,31573231573
+1,France,0,AC Brodin,EC Bargna,TE Britton,,0,0,0,,,,31573231573
+1,France,0,AC Brodin,EC Bargna,TE Britton,,0,2,2,,,,31573231573
+1,France,1,TE Britton,AM Healey,AC Brodin,,0,0,0,,,,31573231573
+1,France,1,TE Britton,AM Healey,AC Brodin,,0,1,1,,,,31573231573
+1,France,1,AC Brodin,AM Healey,TE Britton,,0,0,0,,,,31573231573
+1,France,1,AC Brodin,AM Healey,TE Britton,wides,1,1,0,,,,31573231573
+1,France,1,AC Brodin,AM Healey,TE Britton,,0,0,0,,,,31573231573
+1,France,1,AC Brodin,AM Healey,TE Britton,,0,1,1,,,,31573231573
+1,France,1,TE Britton,AM Healey,AC Brodin,,0,0,0,,,,31573231573
+1,France,2,AC Brodin,EC Bargna,TE Britton,,0,0,0,,,,31573231573
+1,France,2,AC Brodin,EC Bargna,TE Britton,,0,0,0,,,,31573231573
+1,France,2,AC Brodin,EC Bargna,TE Britton,,0,4,4,,,,31573231573
+1,France,2,AC Brodin,EC Bargna,TE Britton,,0,0,0,,,,31573231573
+1,France,2,AC Brodin,EC Bargna,TE Britton,,0,1,1,,,,31573231573
+1,France,2,TE Britton,EC Bargna,AC Brodin,,0,0,0,,,,31573231573
+1,France,3,AC Brodin,AM Healey,TE Britton,,0,0,0,,,,31573231573
+1,France,3,AC Brodin,AM Healey,TE Britton,,0,0,0,,,,31573231573
+1,France,3,AC Brodin,AM Healey,TE Britton,,0,0,0,,,,31573231573
+1,France,3,AC Brodin,AM Healey,TE Britton,,0,0,0,lbw,AC Brodin,,31573231573
+1,France,3,J King,AM Healey,TE Britton,,0,0,0,,,,31573231573
+1,France,3,J King,AM Healey,TE Britton,,0,0,0,,,,31573231573
+1,France,4,TE Britton,EC Bargna,J King,,0,0,0,,,,31573231573
+1,France,4,TE Britton,EC Bargna,J King,,0,0,0,,,,31573231573
+1,France,4,TE Britton,EC Bargna,J King,,0,0,0,,,,31573231573
+1,France,4,TE Britton,EC Bargna,J King,,0,0,0,,,,31573231573
+1,France,4,TE Britton,EC Bargna,J King,,0,0,0,,,,31573231573
+1,France,4,TE Britton,EC Bargna,J King,,0,0,0,,,,31573231573
+1,France,5,J King,AM Healey,TE Britton,,0,0,0,,,,31573231573
+1,France,5,J King,AM Healey,TE Britton,,0,0,0,,,,31573231573
+1,France,5,J King,AM Healey,TE Britton,,0,1,1,,,,31573231573
+1,France,5,TE Britton,AM Healey,J King,wides,1,1,0,,,,31573231573
+1,France,5,TE Britton,AM Healey,J King,,0,0,0,caught,TE Britton,B Maes Loch,31573231573
+1,France,5,PC McGeown,AM Healey,J King,,0,0,0,,,,31573231573
+1,France,5,PC McGeown,AM Healey,J King,,0,0,0,,,,31573231573
+1,France,6,J King,B Maes Loch,PC McGeown,,0,0,0,,,,31573231573
+1,France,6,J King,B Maes Loch,PC McGeown,,0,2,2,,,,31573231573
+1,France,6,J King,B Maes Loch,PC McGeown,,0,1,1,,,,31573231573
+1,France,6,PC McGeown,B Maes Loch,J King,,0,0,0,,,,31573231573
+1,France,6,PC McGeown,B Maes Loch,J King,,0,2,2,,,,31573231573
+1,France,6,PC McGeown,B Maes Loch,J King,,0,0,0,,,,31573231573
+1,France,7,J King,AM Healey,PC McGeown,wides,1,1,0,,,,31573231573
+1,France,7,J King,AM Healey,PC McGeown,,0,0,0,,,,31573231573
+1,France,7,J King,AM Healey,PC McGeown,,0,0,0,,,,31573231573
+1,France,7,J King,AM Healey,PC McGeown,,0,2,2,,,,31573231573
+1,France,7,J King,AM Healey,PC McGeown,,0,0,0,,,,31573231573
+1,France,7,J King,AM Healey,PC McGeown,,0,2,2,,,,31573231573
+1,France,7,J King,AM Healey,PC McGeown,,0,0,0,,,,31573231573
+1,France,8,PC McGeown,B Maes Loch,J King,,0,0,0,,,,31573231573
+1,France,8,PC McGeown,B Maes Loch,J King,,0,1,1,,,,31573231573
+1,France,8,J King,B Maes Loch,PC McGeown,,0,1,1,,,,31573231573
+1,France,8,PC McGeown,B Maes Loch,J King,,0,0,0,,,,31573231573
+1,France,8,PC McGeown,B Maes Loch,J King,,0,1,1,,,,31573231573
+1,France,8,J King,B Maes Loch,PC McGeown,,0,0,0,,,,31573231573
+1,France,9,PC McGeown,A Doddaballapur,J King,,0,0,0,,,,31573231573
+1,France,9,PC McGeown,A Doddaballapur,J King,,0,1,1,,,,31573231573
+1,France,9,J King,A Doddaballapur,PC McGeown,,0,0,0,caught,J King,B Maes Loch,31573231573
+1,France,9,DL Graham,A Doddaballapur,PC McGeown,,0,0,0,,,,31573231573
+1,France,9,DL Graham,A Doddaballapur,PC McGeown,,0,0,0,,,,31573231573
+1,France,9,DL Graham,A Doddaballapur,PC McGeown,,0,0,0,,,,31573231573
+1,France,10,PC McGeown,B Maes Loch,DL Graham,,0,0,0,,,,31573231573
+1,France,10,PC McGeown,B Maes Loch,DL Graham,,0,2,2,,,,31573231573
+1,France,10,PC McGeown,B Maes Loch,DL Graham,,0,0,0,caught,PC McGeown,PA Wadenpohl,31573231573
+1,France,10,DL Graham,B Maes Loch,E Brelivet,,0,0,0,,,,31573231573
+1,France,10,DL Graham,B Maes Loch,E Brelivet,,0,1,1,,,,31573231573
+1,France,10,E Brelivet,B Maes Loch,DL Graham,,0,1,1,,,,31573231573
+1,France,11,E Brelivet,A Doddaballapur,DL Graham,,0,0,0,,,,31573231573
+1,France,11,E Brelivet,A Doddaballapur,DL Graham,,0,0,0,,,,31573231573
+1,France,11,E Brelivet,A Doddaballapur,DL Graham,,0,0,0,,,,31573231573
+1,France,11,E Brelivet,A Doddaballapur,DL Graham,,0,0,0,,,,31573231573
+1,France,11,E Brelivet,A Doddaballapur,DL Graham,,0,0,0,bowled,E Brelivet,,31573231573
+1,France,11,E Chance,A Doddaballapur,DL Graham,,0,0,0,,,,31573231573
+1,France,12,DL Graham,CM Gough,E Chance,,0,2,2,,,,31573231573
+1,France,12,DL Graham,CM Gough,E Chance,,0,0,0,,,,31573231573
+1,France,12,DL Graham,CM Gough,E Chance,,0,0,0,,,,31573231573
+1,France,12,DL Graham,CM Gough,E Chance,,0,1,1,,,,31573231573
+1,France,12,E Chance,CM Gough,DL Graham,,0,0,0,bowled,E Chance,,31573231573
+1,France,12,ME Violleau,CM Gough,DL Graham,wides,1,1,0,,,,31573231573
+1,France,12,ME Violleau,CM Gough,DL Graham,,0,0,0,,,,31573231573
+1,France,13,DL Graham,A Doddaballapur,ME Violleau,,0,1,1,,,,31573231573
+1,France,13,ME Violleau,A Doddaballapur,DL Graham,,0,0,0,,,,31573231573
+1,France,13,ME Violleau,A Doddaballapur,DL Graham,,0,0,0,,,,31573231573
+1,France,13,ME Violleau,A Doddaballapur,DL Graham,,0,0,0,,,,31573231573
+1,France,13,ME Violleau,A Doddaballapur,DL Graham,,0,1,1,,,,31573231573
+1,France,13,DL Graham,A Doddaballapur,ME Violleau,,0,0,0,run out,ME Violleau,K Vijayaraghavan,31573231573
+1,France,14,DL Graham,CM Gough,M Cargouet,,0,1,1,,,,31573231573
+1,France,14,M Cargouet,CM Gough,DL Graham,,0,0,0,,,,31573231573
+1,France,14,M Cargouet,CM Gough,DL Graham,,0,0,0,,,,31573231573
+1,France,14,M Cargouet,CM Gough,DL Graham,,0,1,1,,,,31573231573
+1,France,14,DL Graham,CM Gough,M Cargouet,,0,0,0,,,,31573231573
+1,France,14,DL Graham,CM Gough,M Cargouet,,0,4,4,,,,31573231573
+1,France,15,M Cargouet,A Doddaballapur,DL Graham,,0,0,0,,,,31573231573
+1,France,15,M Cargouet,A Doddaballapur,DL Graham,,0,0,0,,,,31573231573
+1,France,15,M Cargouet,A Doddaballapur,DL Graham,,0,0,0,caught,M Cargouet,JE Ronalds,31573231573
+1,France,15,DL Graham,A Doddaballapur,M Marchello,,0,0,0,,,,31573231573
+1,France,15,DL Graham,A Doddaballapur,M Marchello,,0,0,0,,,,31573231573
+1,France,15,DL Graham,A Doddaballapur,M Marchello,,0,1,1,,,,31573231573
+1,France,16,DL Graham,ST Frohnmayer,M Marchello,,0,0,0,,,,31573231573
+1,France,16,DL Graham,ST Frohnmayer,M Marchello,,0,0,0,,,,31573231573
+1,France,16,DL Graham,ST Frohnmayer,M Marchello,,0,0,0,,,,31573231573
+1,France,16,DL Graham,ST Frohnmayer,M Marchello,,0,0,0,,,,31573231573
+1,France,16,DL Graham,ST Frohnmayer,M Marchello,,0,0,0,,,,31573231573
+1,France,16,DL Graham,ST Frohnmayer,M Marchello,wides,1,1,0,,,,31573231573
+1,France,16,DL Graham,ST Frohnmayer,M Marchello,,0,0,0,caught,DL Graham,CM Gough,31573231573
+1,France,17,M Marchello,A Bierwisch,C Breteche,,0,1,1,,,,31573231573
+1,France,17,C Breteche,A Bierwisch,M Marchello,,0,0,0,,,,31573231573
+1,France,17,C Breteche,A Bierwisch,M Marchello,,0,0,0,,,,31573231573
+1,France,17,C Breteche,A Bierwisch,M Marchello,,0,0,0,,,,31573231573
+1,France,17,C Breteche,A Bierwisch,M Marchello,,0,2,2,,,,31573231573
+1,France,17,C Breteche,A Bierwisch,M Marchello,,0,0,0,,,,31573231573
+1,France,18,M Marchello,ST Frohnmayer,C Breteche,,0,0,0,,,,31573231573
+1,France,18,M Marchello,ST Frohnmayer,C Breteche,,0,0,0,,,,31573231573
+1,France,18,M Marchello,ST Frohnmayer,C Breteche,,0,0,0,,,,31573231573
+1,France,18,M Marchello,ST Frohnmayer,C Breteche,,0,0,0,,,,31573231573
+1,France,18,M Marchello,ST Frohnmayer,C Breteche,,0,0,0,,,,31573231573
+1,France,18,M Marchello,ST Frohnmayer,C Breteche,wides,1,1,0,,,,31573231573
+1,France,18,M Marchello,ST Frohnmayer,C Breteche,wides,2,2,0,,,,31573231573
+1,France,18,C Breteche,ST Frohnmayer,M Marchello,,0,1,1,,,,31573231573
+1,France,19,C Breteche,A Bierwisch,M Marchello,,0,0,0,,,,31573231573
+1,France,19,C Breteche,A Bierwisch,M Marchello,,0,0,0,caught,C Breteche,AM Healey,31573231573

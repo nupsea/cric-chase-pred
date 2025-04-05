@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,HM Amla,S Badree,Q de Kock,,0,1,1,,,,360723607
+1,South Africa,0,Q de Kock,S Badree,HM Amla,,0,0,0,,,,360723607
+1,South Africa,0,Q de Kock,S Badree,HM Amla,,0,0,0,run out,HM Amla,D Ramdin,360723607
+1,South Africa,0,F du Plessis,S Badree,Q de Kock,,0,1,1,,,,360723607
+1,South Africa,0,Q de Kock,S Badree,F du Plessis,,0,2,2,,,,360723607
+1,South Africa,0,Q de Kock,S Badree,F du Plessis,,0,0,0,,,,360723607
+1,South Africa,1,F du Plessis,AD Russell,Q de Kock,,0,0,0,,,,360723607
+1,South Africa,1,F du Plessis,AD Russell,Q de Kock,,0,0,0,,,,360723607
+1,South Africa,1,F du Plessis,AD Russell,Q de Kock,,0,0,0,,,,360723607
+1,South Africa,1,F du Plessis,AD Russell,Q de Kock,,0,6,6,,,,360723607
+1,South Africa,1,F du Plessis,AD Russell,Q de Kock,,0,2,2,,,,360723607
+1,South Africa,1,F du Plessis,AD Russell,Q de Kock,wides,1,1,0,,,,360723607
+1,South Africa,1,F du Plessis,AD Russell,Q de Kock,,0,0,0,caught,F du Plessis,SJ Benn,360723607
+1,South Africa,2,Q de Kock,CH Gayle,RR Rossouw,,0,2,2,,,,360723607
+1,South Africa,2,Q de Kock,CH Gayle,RR Rossouw,,0,0,0,,,,360723607
+1,South Africa,2,Q de Kock,CH Gayle,RR Rossouw,,0,4,4,,,,360723607
+1,South Africa,2,Q de Kock,CH Gayle,RR Rossouw,,0,1,1,,,,360723607
+1,South Africa,2,RR Rossouw,CH Gayle,Q de Kock,,0,0,0,,,,360723607
+1,South Africa,2,RR Rossouw,CH Gayle,Q de Kock,,0,0,0,caught,RR Rossouw,AD Russell,360723607
+1,South Africa,3,Q de Kock,AD Russell,AB de Villiers,,0,0,0,,,,360723607
+1,South Africa,3,Q de Kock,AD Russell,AB de Villiers,,0,0,0,,,,360723607
+1,South Africa,3,Q de Kock,AD Russell,AB de Villiers,,0,2,2,,,,360723607
+1,South Africa,3,Q de Kock,AD Russell,AB de Villiers,,0,1,1,,,,360723607
+1,South Africa,3,AB de Villiers,AD Russell,Q de Kock,wides,1,1,0,,,,360723607
+1,South Africa,3,AB de Villiers,AD Russell,Q de Kock,,0,4,4,,,,360723607
+1,South Africa,3,AB de Villiers,AD Russell,Q de Kock,,0,0,0,,,,360723607
+1,South Africa,4,Q de Kock,S Badree,AB de Villiers,,0,0,0,,,,360723607
+1,South Africa,4,Q de Kock,S Badree,AB de Villiers,,0,0,0,,,,360723607
+1,South Africa,4,Q de Kock,S Badree,AB de Villiers,,0,0,0,,,,360723607
+1,South Africa,4,Q de Kock,S Badree,AB de Villiers,,0,6,6,,,,360723607
+1,South Africa,4,Q de Kock,S Badree,AB de Villiers,,0,0,0,,,,360723607
+1,South Africa,4,Q de Kock,S Badree,AB de Villiers,,0,2,2,,,,360723607
+1,South Africa,5,AB de Villiers,CR Brathwaite,Q de Kock,,0,0,0,,,,360723607
+1,South Africa,5,AB de Villiers,CR Brathwaite,Q de Kock,,0,0,0,,,,360723607
+1,South Africa,5,AB de Villiers,CR Brathwaite,Q de Kock,,0,0,0,,,,360723607
+1,South Africa,5,AB de Villiers,CR Brathwaite,Q de Kock,,0,1,1,,,,360723607
+1,South Africa,5,Q de Kock,CR Brathwaite,AB de Villiers,,0,1,1,,,,360723607
+1,South Africa,5,AB de Villiers,CR Brathwaite,Q de Kock,,0,1,1,,,,360723607
+1,South Africa,6,AB de Villiers,SJ Benn,Q de Kock,,0,0,0,,,,360723607
+1,South Africa,6,AB de Villiers,SJ Benn,Q de Kock,,0,2,2,,,,360723607
+1,South Africa,6,AB de Villiers,SJ Benn,Q de Kock,,0,1,1,,,,360723607
+1,South Africa,6,Q de Kock,SJ Benn,AB de Villiers,,0,0,0,,,,360723607
+1,South Africa,6,Q de Kock,SJ Benn,AB de Villiers,,0,0,0,,,,360723607
+1,South Africa,6,Q de Kock,SJ Benn,AB de Villiers,,0,2,2,,,,360723607
+1,South Africa,7,AB de Villiers,DJ Bravo,Q de Kock,,0,1,1,,,,360723607
+1,South Africa,7,Q de Kock,DJ Bravo,AB de Villiers,,0,0,0,,,,360723607
+1,South Africa,7,Q de Kock,DJ Bravo,AB de Villiers,,0,1,1,,,,360723607
+1,South Africa,7,AB de Villiers,DJ Bravo,Q de Kock,,0,0,0,bowled,AB de Villiers,,360723607
+1,South Africa,7,DA Miller,DJ Bravo,Q de Kock,,0,0,0,,,,360723607
+1,South Africa,7,DA Miller,DJ Bravo,Q de Kock,,0,1,1,,,,360723607
+1,South Africa,8,DA Miller,CH Gayle,Q de Kock,,0,0,0,,,,360723607
+1,South Africa,8,DA Miller,CH Gayle,Q de Kock,,0,0,0,bowled,DA Miller,,360723607
+1,South Africa,8,D Wiese,CH Gayle,Q de Kock,,0,1,1,,,,360723607
+1,South Africa,8,Q de Kock,CH Gayle,D Wiese,,0,1,1,,,,360723607
+1,South Africa,8,D Wiese,CH Gayle,Q de Kock,,0,0,0,,,,360723607
+1,South Africa,8,D Wiese,CH Gayle,Q de Kock,,0,1,1,,,,360723607
+1,South Africa,9,D Wiese,DJ Bravo,Q de Kock,,0,0,0,,,,360723607
+1,South Africa,9,D Wiese,DJ Bravo,Q de Kock,,0,1,1,,,,360723607
+1,South Africa,9,Q de Kock,DJ Bravo,D Wiese,,0,0,0,,,,360723607
+1,South Africa,9,Q de Kock,DJ Bravo,D Wiese,,0,0,0,,,,360723607
+1,South Africa,9,Q de Kock,DJ Bravo,D Wiese,,0,2,2,,,,360723607
+1,South Africa,9,Q de Kock,DJ Bravo,D Wiese,,0,4,4,,,,360723607
+1,South Africa,10,D Wiese,SJ Benn,Q de Kock,,0,0,0,,,,360723607
+1,South Africa,10,D Wiese,SJ Benn,Q de Kock,,0,1,1,,,,360723607
+1,South Africa,10,Q de Kock,SJ Benn,D Wiese,,0,1,1,,,,360723607
+1,South Africa,10,D Wiese,SJ Benn,Q de Kock,byes,4,4,0,,,,360723607
+1,South Africa,10,D Wiese,SJ Benn,Q de Kock,,0,2,2,,,,360723607
+1,South Africa,10,D Wiese,SJ Benn,Q de Kock,,0,1,1,,,,360723607
+1,South Africa,11,D Wiese,CR Brathwaite,Q de Kock,,0,2,2,,,,360723607
+1,South Africa,11,D Wiese,CR Brathwaite,Q de Kock,,0,2,2,,,,360723607
+1,South Africa,11,D Wiese,CR Brathwaite,Q de Kock,,0,1,1,,,,360723607
+1,South Africa,11,Q de Kock,CR Brathwaite,D Wiese,,0,1,1,,,,360723607
+1,South Africa,11,D Wiese,CR Brathwaite,Q de Kock,,0,1,1,,,,360723607
+1,South Africa,11,Q de Kock,CR Brathwaite,D Wiese,,0,1,1,,,,360723607
+1,South Africa,12,Q de Kock,SJ Benn,D Wiese,,0,0,0,,,,360723607
+1,South Africa,12,Q de Kock,SJ Benn,D Wiese,,0,1,1,,,,360723607
+1,South Africa,12,D Wiese,SJ Benn,Q de Kock,,0,1,1,,,,360723607
+1,South Africa,12,Q de Kock,SJ Benn,D Wiese,,0,1,1,,,,360723607
+1,South Africa,12,D Wiese,SJ Benn,Q de Kock,,0,1,1,,,,360723607
+1,South Africa,12,Q de Kock,SJ Benn,D Wiese,,0,0,0,,,,360723607
+1,South Africa,13,D Wiese,CH Gayle,Q de Kock,,0,4,4,,,,360723607
+1,South Africa,13,D Wiese,CH Gayle,Q de Kock,,0,0,0,,,,360723607
+1,South Africa,13,D Wiese,CH Gayle,Q de Kock,,0,1,1,,,,360723607
+1,South Africa,13,Q de Kock,CH Gayle,D Wiese,,0,0,0,,,,360723607
+1,South Africa,13,Q de Kock,CH Gayle,D Wiese,,0,2,2,,,,360723607
+1,South Africa,13,Q de Kock,CH Gayle,D Wiese,,0,0,0,,,,360723607
+1,South Africa,14,D Wiese,SJ Benn,Q de Kock,,0,1,1,,,,360723607
+1,South Africa,14,Q de Kock,SJ Benn,D Wiese,,0,2,2,,,,360723607
+1,South Africa,14,Q de Kock,SJ Benn,D Wiese,,0,0,0,,,,360723607
+1,South Africa,14,Q de Kock,SJ Benn,D Wiese,,0,1,1,,,,360723607
+1,South Africa,14,D Wiese,SJ Benn,Q de Kock,,0,1,1,,,,360723607
+1,South Africa,14,Q de Kock,SJ Benn,D Wiese,,0,1,1,,,,360723607
+1,South Africa,15,Q de Kock,AD Russell,D Wiese,,0,4,4,,,,360723607
+1,South Africa,15,Q de Kock,AD Russell,D Wiese,,0,1,1,,,,360723607
+1,South Africa,15,D Wiese,AD Russell,Q de Kock,,0,1,1,,,,360723607
+1,South Africa,15,Q de Kock,AD Russell,D Wiese,,0,0,0,bowled,Q de Kock,,360723607
+1,South Africa,15,CH Morris,AD Russell,D Wiese,,0,1,1,,,,360723607
+1,South Africa,15,D Wiese,AD Russell,CH Morris,,0,0,0,,,,360723607
+1,South Africa,16,CH Morris,S Badree,D Wiese,,0,0,0,,,,360723607
+1,South Africa,16,CH Morris,S Badree,D Wiese,,0,4,4,,,,360723607
+1,South Africa,16,CH Morris,S Badree,D Wiese,,0,4,4,,,,360723607
+1,South Africa,16,CH Morris,S Badree,D Wiese,,0,0,0,,,,360723607
+1,South Africa,16,CH Morris,S Badree,D Wiese,,0,1,1,,,,360723607
+1,South Africa,16,D Wiese,S Badree,CH Morris,,0,1,1,,,,360723607
+1,South Africa,17,D Wiese,DJ Bravo,CH Morris,,0,4,4,,,,360723607
+1,South Africa,17,D Wiese,DJ Bravo,CH Morris,,0,0,0,caught,D Wiese,DJG Sammy,360723607
+1,South Africa,17,CH Morris,DJ Bravo,AM Phangiso,,0,0,0,,,,360723607
+1,South Africa,17,CH Morris,DJ Bravo,AM Phangiso,,0,0,0,,,,360723607
+1,South Africa,17,CH Morris,DJ Bravo,AM Phangiso,,0,1,1,,,,360723607
+1,South Africa,17,AM Phangiso,DJ Bravo,CH Morris,,0,1,1,,,,360723607
+1,South Africa,18,AM Phangiso,AD Russell,CH Morris,,0,1,1,,,,360723607
+1,South Africa,18,CH Morris,AD Russell,AM Phangiso,,0,1,1,,,,360723607
+1,South Africa,18,AM Phangiso,AD Russell,CH Morris,,0,0,0,,,,360723607
+1,South Africa,18,AM Phangiso,AD Russell,CH Morris,,0,1,1,,,,360723607
+1,South Africa,18,CH Morris,AD Russell,AM Phangiso,,0,0,0,,,,360723607
+1,South Africa,18,CH Morris,AD Russell,AM Phangiso,,0,1,1,,,,360723607
+1,South Africa,19,CH Morris,DJ Bravo,AM Phangiso,,0,2,2,,,,360723607
+1,South Africa,19,CH Morris,DJ Bravo,AM Phangiso,,0,0,0,,,,360723607
+1,South Africa,19,CH Morris,DJ Bravo,AM Phangiso,,0,1,1,,,,360723607
+1,South Africa,19,AM Phangiso,DJ Bravo,CH Morris,,0,1,1,,,,360723607
+1,South Africa,19,CH Morris,DJ Bravo,AM Phangiso,,0,0,0,,,,360723607
+1,South Africa,19,CH Morris,DJ Bravo,AM Phangiso,,0,0,0,run out,AM Phangiso,D Ramdin,360723607

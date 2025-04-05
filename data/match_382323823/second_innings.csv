@@ -1,0 +1,79 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Ireland,0,PR Stirling,UT Yadav,JNK Shannon,,0,0,0,,,,382323823
+2,Ireland,0,PR Stirling,UT Yadav,JNK Shannon,,0,0,0,caught,PR Stirling,SK Raina,382323823
+2,Ireland,0,WTS Porterfield,UT Yadav,JNK Shannon,,0,0,0,,,,382323823
+2,Ireland,0,WTS Porterfield,UT Yadav,JNK Shannon,,0,0,0,,,,382323823
+2,Ireland,0,WTS Porterfield,UT Yadav,JNK Shannon,,0,0,0,,,,382323823
+2,Ireland,0,WTS Porterfield,UT Yadav,JNK Shannon,,0,1,1,,,,382323823
+2,Ireland,1,WTS Porterfield,S Kaul,JNK Shannon,,0,0,0,,,,382323823
+2,Ireland,1,WTS Porterfield,S Kaul,JNK Shannon,,0,0,0,,,,382323823
+2,Ireland,1,WTS Porterfield,S Kaul,JNK Shannon,,0,1,1,,,,382323823
+2,Ireland,1,JNK Shannon,S Kaul,WTS Porterfield,,0,0,0,,,,382323823
+2,Ireland,1,JNK Shannon,S Kaul,WTS Porterfield,,0,0,0,,,,382323823
+2,Ireland,1,JNK Shannon,S Kaul,WTS Porterfield,,0,2,2,,,,382323823
+2,Ireland,2,WTS Porterfield,UT Yadav,JNK Shannon,,0,4,4,,,,382323823
+2,Ireland,2,WTS Porterfield,UT Yadav,JNK Shannon,,0,2,2,,,,382323823
+2,Ireland,2,WTS Porterfield,UT Yadav,JNK Shannon,,0,6,6,,,,382323823
+2,Ireland,2,WTS Porterfield,UT Yadav,JNK Shannon,,0,0,0,bowled,WTS Porterfield,,382323823
+2,Ireland,2,A Balbirnie,UT Yadav,JNK Shannon,,0,2,2,,,,382323823
+2,Ireland,2,A Balbirnie,UT Yadav,JNK Shannon,,0,4,4,,,,382323823
+2,Ireland,3,JNK Shannon,S Kaul,A Balbirnie,,0,0,0,,,,382323823
+2,Ireland,3,JNK Shannon,S Kaul,A Balbirnie,,0,0,0,,,,382323823
+2,Ireland,3,JNK Shannon,S Kaul,A Balbirnie,,0,0,0,,,,382323823
+2,Ireland,3,JNK Shannon,S Kaul,A Balbirnie,,0,0,0,caught,JNK Shannon,KL Rahul,382323823
+2,Ireland,3,GC Wilson,S Kaul,A Balbirnie,,0,0,0,,,,382323823
+2,Ireland,3,GC Wilson,S Kaul,A Balbirnie,wides,1,1,0,,,,382323823
+2,Ireland,3,GC Wilson,S Kaul,A Balbirnie,,0,0,0,,,,382323823
+2,Ireland,4,A Balbirnie,HH Pandya,GC Wilson,,0,1,1,,,,382323823
+2,Ireland,4,GC Wilson,HH Pandya,A Balbirnie,,0,0,0,,,,382323823
+2,Ireland,4,GC Wilson,HH Pandya,A Balbirnie,,0,1,1,,,,382323823
+2,Ireland,4,A Balbirnie,HH Pandya,GC Wilson,,0,0,0,,,,382323823
+2,Ireland,4,A Balbirnie,HH Pandya,GC Wilson,,0,1,1,,,,382323823
+2,Ireland,4,GC Wilson,HH Pandya,A Balbirnie,,0,1,1,,,,382323823
+2,Ireland,5,GC Wilson,YS Chahal,A Balbirnie,,0,0,0,,,,382323823
+2,Ireland,5,GC Wilson,YS Chahal,A Balbirnie,,0,1,1,,,,382323823
+2,Ireland,5,A Balbirnie,YS Chahal,GC Wilson,,0,1,1,,,,382323823
+2,Ireland,5,GC Wilson,YS Chahal,A Balbirnie,,0,0,0,,,,382323823
+2,Ireland,5,GC Wilson,YS Chahal,A Balbirnie,,0,1,1,,,,382323823
+2,Ireland,5,A Balbirnie,YS Chahal,GC Wilson,,0,0,0,bowled,A Balbirnie,,382323823
+2,Ireland,6,GC Wilson,HH Pandya,KJ O'Brien,wides,1,1,0,,,,382323823
+2,Ireland,6,GC Wilson,HH Pandya,KJ O'Brien,,0,1,1,,,,382323823
+2,Ireland,6,KJ O'Brien,HH Pandya,GC Wilson,,0,0,0,,,,382323823
+2,Ireland,6,KJ O'Brien,HH Pandya,GC Wilson,,0,0,0,caught,KJ O'Brien,Kuldeep Yadav,382323823
+2,Ireland,6,GC Wilson,HH Pandya,Simi Singh,,0,4,4,,,,382323823
+2,Ireland,6,GC Wilson,HH Pandya,Simi Singh,,0,0,0,,,,382323823
+2,Ireland,6,GC Wilson,HH Pandya,Simi Singh,,0,0,0,,,,382323823
+2,Ireland,7,Simi Singh,YS Chahal,GC Wilson,,0,0,0,,,,382323823
+2,Ireland,7,Simi Singh,YS Chahal,GC Wilson,,0,0,0,lbw,Simi Singh,,382323823
+2,Ireland,7,SR Thompson,YS Chahal,GC Wilson,,0,1,1,,,,382323823
+2,Ireland,7,GC Wilson,YS Chahal,SR Thompson,,0,1,1,,,,382323823
+2,Ireland,7,SR Thompson,YS Chahal,GC Wilson,,0,1,1,,,,382323823
+2,Ireland,7,GC Wilson,YS Chahal,SR Thompson,,0,1,1,,,,382323823
+2,Ireland,8,GC Wilson,Kuldeep Yadav,SR Thompson,,0,4,4,,,,382323823
+2,Ireland,8,GC Wilson,Kuldeep Yadav,SR Thompson,,0,0,0,,,,382323823
+2,Ireland,8,GC Wilson,Kuldeep Yadav,SR Thompson,,0,0,0,bowled,GC Wilson,,382323823
+2,Ireland,8,GH Dockrell,Kuldeep Yadav,SR Thompson,,0,0,0,,,,382323823
+2,Ireland,8,GH Dockrell,Kuldeep Yadav,SR Thompson,,0,0,0,,,,382323823
+2,Ireland,8,GH Dockrell,Kuldeep Yadav,SR Thompson,,0,1,1,,,,382323823
+2,Ireland,9,GH Dockrell,YS Chahal,SR Thompson,,0,0,0,,,,382323823
+2,Ireland,9,GH Dockrell,YS Chahal,SR Thompson,,0,0,0,,,,382323823
+2,Ireland,9,GH Dockrell,YS Chahal,SR Thompson,,0,0,0,,,,382323823
+2,Ireland,9,GH Dockrell,YS Chahal,SR Thompson,,0,3,3,,,,382323823
+2,Ireland,9,SR Thompson,YS Chahal,GH Dockrell,,0,4,4,,,,382323823
+2,Ireland,9,SR Thompson,YS Chahal,GH Dockrell,,0,4,4,,,,382323823
+2,Ireland,10,GH Dockrell,Kuldeep Yadav,SR Thompson,,0,0,0,caught,GH Dockrell,UT Yadav,382323823
+2,Ireland,10,SR Thompson,Kuldeep Yadav,WB Rankin,,0,1,1,,,,382323823
+2,Ireland,10,WB Rankin,Kuldeep Yadav,SR Thompson,,0,0,0,,,,382323823
+2,Ireland,10,WB Rankin,Kuldeep Yadav,SR Thompson,,0,1,1,,,,382323823
+2,Ireland,10,SR Thompson,Kuldeep Yadav,WB Rankin,,0,1,1,,,,382323823
+2,Ireland,10,WB Rankin,Kuldeep Yadav,SR Thompson,,0,6,6,,,,382323823
+2,Ireland,11,SR Thompson,YS Chahal,WB Rankin,,0,0,0,,,,382323823
+2,Ireland,11,SR Thompson,YS Chahal,WB Rankin,,0,1,1,,,,382323823
+2,Ireland,11,WB Rankin,YS Chahal,SR Thompson,,0,0,0,,,,382323823
+2,Ireland,11,WB Rankin,YS Chahal,SR Thompson,wides,1,1,0,,,,382323823
+2,Ireland,11,WB Rankin,YS Chahal,SR Thompson,,0,1,1,,,,382323823
+2,Ireland,11,SR Thompson,YS Chahal,WB Rankin,,0,0,0,bowled,SR Thompson,,382323823
+2,Ireland,11,PKD Chase,YS Chahal,WB Rankin,,0,0,0,,,,382323823
+2,Ireland,12,WB Rankin,Kuldeep Yadav,PKD Chase,,0,0,0,,,,382323823
+2,Ireland,12,WB Rankin,Kuldeep Yadav,PKD Chase,,0,2,2,,,,382323823
+2,Ireland,12,WB Rankin,Kuldeep Yadav,PKD Chase,,0,0,0,stumped,WB Rankin,KD Karthik,382323823

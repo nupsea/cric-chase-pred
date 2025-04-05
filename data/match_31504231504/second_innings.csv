@@ -1,0 +1,116 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,New Zealand,0,SFM Devine,KH Brunt,SW Bates,,0,0,0,,,,31504231504
+2,New Zealand,0,SFM Devine,KH Brunt,SW Bates,,0,1,1,,,,31504231504
+2,New Zealand,0,SW Bates,KH Brunt,SFM Devine,,0,0,0,,,,31504231504
+2,New Zealand,0,SW Bates,KH Brunt,SFM Devine,,0,0,0,,,,31504231504
+2,New Zealand,0,SW Bates,KH Brunt,SFM Devine,,0,1,1,,,,31504231504
+2,New Zealand,0,SFM Devine,KH Brunt,SW Bates,wides,1,1,0,,,,31504231504
+2,New Zealand,0,SFM Devine,KH Brunt,SW Bates,,0,1,1,,,,31504231504
+2,New Zealand,1,SFM Devine,NE Farrant,SW Bates,,0,0,0,,,,31504231504
+2,New Zealand,1,SFM Devine,NE Farrant,SW Bates,,0,0,0,,,,31504231504
+2,New Zealand,1,SFM Devine,NE Farrant,SW Bates,,0,0,0,,,,31504231504
+2,New Zealand,1,SFM Devine,NE Farrant,SW Bates,,0,0,0,lbw,SFM Devine,,31504231504
+2,New Zealand,1,AE Satterthwaite,NE Farrant,SW Bates,,0,0,0,,,,31504231504
+2,New Zealand,1,AE Satterthwaite,NE Farrant,SW Bates,,0,0,0,,,,31504231504
+2,New Zealand,2,SW Bates,KH Brunt,AE Satterthwaite,,0,0,0,,,,31504231504
+2,New Zealand,2,SW Bates,KH Brunt,AE Satterthwaite,,0,0,0,bowled,SW Bates,,31504231504
+2,New Zealand,2,ML Green,KH Brunt,AE Satterthwaite,wides,1,1,0,,,,31504231504
+2,New Zealand,2,ML Green,KH Brunt,AE Satterthwaite,,0,1,1,,,,31504231504
+2,New Zealand,2,AE Satterthwaite,KH Brunt,ML Green,,0,0,0,,,,31504231504
+2,New Zealand,2,AE Satterthwaite,KH Brunt,ML Green,,0,0,0,,,,31504231504
+2,New Zealand,2,AE Satterthwaite,KH Brunt,ML Green,,0,0,0,,,,31504231504
+2,New Zealand,3,ML Green,NE Farrant,AE Satterthwaite,,0,0,0,,,,31504231504
+2,New Zealand,3,ML Green,NE Farrant,AE Satterthwaite,,0,1,1,,,,31504231504
+2,New Zealand,3,AE Satterthwaite,NE Farrant,ML Green,,0,4,4,,,,31504231504
+2,New Zealand,3,AE Satterthwaite,NE Farrant,ML Green,,0,4,4,,,,31504231504
+2,New Zealand,3,AE Satterthwaite,NE Farrant,ML Green,,0,0,0,,,,31504231504
+2,New Zealand,3,AE Satterthwaite,NE Farrant,ML Green,,0,4,4,,,,31504231504
+2,New Zealand,4,ML Green,S Ecclestone,AE Satterthwaite,,0,0,0,,,,31504231504
+2,New Zealand,4,ML Green,S Ecclestone,AE Satterthwaite,,0,1,1,,,,31504231504
+2,New Zealand,4,AE Satterthwaite,S Ecclestone,ML Green,,0,1,1,,,,31504231504
+2,New Zealand,4,ML Green,S Ecclestone,AE Satterthwaite,,0,4,4,,,,31504231504
+2,New Zealand,4,ML Green,S Ecclestone,AE Satterthwaite,,0,0,0,,,,31504231504
+2,New Zealand,4,ML Green,S Ecclestone,AE Satterthwaite,,0,0,0,,,,31504231504
+2,New Zealand,5,AE Satterthwaite,NR Sciver,ML Green,,0,0,0,,,,31504231504
+2,New Zealand,5,AE Satterthwaite,NR Sciver,ML Green,,0,4,4,,,,31504231504
+2,New Zealand,5,AE Satterthwaite,NR Sciver,ML Green,,0,0,0,,,,31504231504
+2,New Zealand,5,AE Satterthwaite,NR Sciver,ML Green,,0,4,4,,,,31504231504
+2,New Zealand,5,AE Satterthwaite,NR Sciver,ML Green,,0,0,0,,,,31504231504
+2,New Zealand,5,AE Satterthwaite,NR Sciver,ML Green,,0,2,2,,,,31504231504
+2,New Zealand,6,ML Green,S Glenn,AE Satterthwaite,,0,1,1,,,,31504231504
+2,New Zealand,6,AE Satterthwaite,S Glenn,ML Green,,0,4,4,,,,31504231504
+2,New Zealand,6,AE Satterthwaite,S Glenn,ML Green,,0,1,1,,,,31504231504
+2,New Zealand,6,ML Green,S Glenn,AE Satterthwaite,,0,0,0,,,,31504231504
+2,New Zealand,6,ML Green,S Glenn,AE Satterthwaite,,0,4,4,,,,31504231504
+2,New Zealand,6,ML Green,S Glenn,AE Satterthwaite,,0,1,1,,,,31504231504
+2,New Zealand,7,ML Green,S Ecclestone,AE Satterthwaite,,0,0,0,,,,31504231504
+2,New Zealand,7,ML Green,S Ecclestone,AE Satterthwaite,,0,0,0,,,,31504231504
+2,New Zealand,7,ML Green,S Ecclestone,AE Satterthwaite,,0,0,0,,,,31504231504
+2,New Zealand,7,ML Green,S Ecclestone,AE Satterthwaite,,0,0,0,,,,31504231504
+2,New Zealand,7,ML Green,S Ecclestone,AE Satterthwaite,,0,6,6,,,,31504231504
+2,New Zealand,7,ML Green,S Ecclestone,AE Satterthwaite,,0,0,0,caught,ML Green,NE Farrant,31504231504
+2,New Zealand,8,AE Satterthwaite,NR Sciver,KJ Martin,,0,1,1,,,,31504231504
+2,New Zealand,8,KJ Martin,NR Sciver,AE Satterthwaite,,0,2,2,,,,31504231504
+2,New Zealand,8,KJ Martin,NR Sciver,AE Satterthwaite,,0,0,0,,,,31504231504
+2,New Zealand,8,KJ Martin,NR Sciver,AE Satterthwaite,,0,0,0,,,,31504231504
+2,New Zealand,8,KJ Martin,NR Sciver,AE Satterthwaite,,0,4,4,,,,31504231504
+2,New Zealand,8,KJ Martin,NR Sciver,AE Satterthwaite,,0,0,0,,,,31504231504
+2,New Zealand,9,AE Satterthwaite,MK Villiers,KJ Martin,,0,0,0,,,,31504231504
+2,New Zealand,9,AE Satterthwaite,MK Villiers,KJ Martin,,0,0,0,,,,31504231504
+2,New Zealand,9,AE Satterthwaite,MK Villiers,KJ Martin,,0,4,4,,,,31504231504
+2,New Zealand,9,AE Satterthwaite,MK Villiers,KJ Martin,,0,1,1,,,,31504231504
+2,New Zealand,9,KJ Martin,MK Villiers,AE Satterthwaite,,0,1,1,,,,31504231504
+2,New Zealand,9,AE Satterthwaite,MK Villiers,KJ Martin,,0,1,1,,,,31504231504
+2,New Zealand,10,AE Satterthwaite,S Glenn,KJ Martin,,0,1,1,,,,31504231504
+2,New Zealand,10,KJ Martin,S Glenn,AE Satterthwaite,,0,0,0,bowled,KJ Martin,,31504231504
+2,New Zealand,10,BM Halliday,S Glenn,AE Satterthwaite,,0,1,1,,,,31504231504
+2,New Zealand,10,AE Satterthwaite,S Glenn,BM Halliday,legbyes,1,1,0,,,,31504231504
+2,New Zealand,10,BM Halliday,S Glenn,AE Satterthwaite,,0,0,0,,,,31504231504
+2,New Zealand,10,BM Halliday,S Glenn,AE Satterthwaite,,0,1,1,,,,31504231504
+2,New Zealand,11,BM Halliday,MK Villiers,AE Satterthwaite,,0,0,0,bowled,BM Halliday,,31504231504
+2,New Zealand,11,HNK Jensen,MK Villiers,AE Satterthwaite,,0,4,4,,,,31504231504
+2,New Zealand,11,HNK Jensen,MK Villiers,AE Satterthwaite,,0,1,1,,,,31504231504
+2,New Zealand,11,AE Satterthwaite,MK Villiers,HNK Jensen,,0,4,4,,,,31504231504
+2,New Zealand,11,AE Satterthwaite,MK Villiers,HNK Jensen,,0,1,1,,,,31504231504
+2,New Zealand,11,HNK Jensen,MK Villiers,AE Satterthwaite,,0,0,0,,,,31504231504
+2,New Zealand,12,AE Satterthwaite,KH Brunt,HNK Jensen,,0,2,2,,,,31504231504
+2,New Zealand,12,AE Satterthwaite,KH Brunt,HNK Jensen,,0,0,0,,,,31504231504
+2,New Zealand,12,AE Satterthwaite,KH Brunt,HNK Jensen,,0,0,0,caught,AE Satterthwaite,MK Villiers,31504231504
+2,New Zealand,12,HNK Jensen,KH Brunt,TMM Newton,,0,0,0,,,,31504231504
+2,New Zealand,12,HNK Jensen,KH Brunt,TMM Newton,,0,0,0,,,,31504231504
+2,New Zealand,12,HNK Jensen,KH Brunt,TMM Newton,,0,1,1,,,,31504231504
+2,New Zealand,13,HNK Jensen,S Ecclestone,TMM Newton,,0,1,1,,,,31504231504
+2,New Zealand,13,TMM Newton,S Ecclestone,HNK Jensen,,0,1,1,,,,31504231504
+2,New Zealand,13,HNK Jensen,S Ecclestone,TMM Newton,,0,1,1,,,,31504231504
+2,New Zealand,13,TMM Newton,S Ecclestone,HNK Jensen,,0,2,2,,,,31504231504
+2,New Zealand,13,TMM Newton,S Ecclestone,HNK Jensen,,0,0,0,,,,31504231504
+2,New Zealand,13,TMM Newton,S Ecclestone,HNK Jensen,,0,2,2,,,,31504231504
+2,New Zealand,14,HNK Jensen,S Glenn,TMM Newton,,0,4,4,,,,31504231504
+2,New Zealand,14,HNK Jensen,S Glenn,TMM Newton,,0,4,4,,,,31504231504
+2,New Zealand,14,HNK Jensen,S Glenn,TMM Newton,,0,0,0,bowled,HNK Jensen,,31504231504
+2,New Zealand,14,HM Rowe,S Glenn,TMM Newton,,0,1,1,,,,31504231504
+2,New Zealand,14,TMM Newton,S Glenn,HM Rowe,,0,1,1,,,,31504231504
+2,New Zealand,14,HM Rowe,S Glenn,TMM Newton,,0,0,0,,,,31504231504
+2,New Zealand,15,TMM Newton,NE Farrant,HM Rowe,,0,1,1,,,,31504231504
+2,New Zealand,15,HM Rowe,NE Farrant,TMM Newton,,0,1,1,,,,31504231504
+2,New Zealand,15,TMM Newton,NE Farrant,HM Rowe,byes,4,4,0,,,,31504231504
+2,New Zealand,15,TMM Newton,NE Farrant,HM Rowe,,0,1,1,,,,31504231504
+2,New Zealand,15,HM Rowe,NE Farrant,TMM Newton,,0,0,0,,,,31504231504
+2,New Zealand,15,HM Rowe,NE Farrant,TMM Newton,,0,1,1,,,,31504231504
+2,New Zealand,16,HM Rowe,NR Sciver,TMM Newton,,0,4,4,,,,31504231504
+2,New Zealand,16,HM Rowe,NR Sciver,TMM Newton,,0,4,4,,,,31504231504
+2,New Zealand,16,HM Rowe,NR Sciver,TMM Newton,,0,0,0,caught,HM Rowe,AE Jones,31504231504
+2,New Zealand,16,JM Kerr,NR Sciver,TMM Newton,,0,0,0,,,,31504231504
+2,New Zealand,16,JM Kerr,NR Sciver,TMM Newton,,0,6,6,,,,31504231504
+2,New Zealand,16,JM Kerr,NR Sciver,TMM Newton,,0,0,0,,,,31504231504
+2,New Zealand,17,TMM Newton,NE Farrant,JM Kerr,byes,4,4,0,,,,31504231504
+2,New Zealand,17,TMM Newton,NE Farrant,JM Kerr,,0,1,1,,,,31504231504
+2,New Zealand,17,JM Kerr,NE Farrant,TMM Newton,,0,1,1,,,,31504231504
+2,New Zealand,17,TMM Newton,NE Farrant,JM Kerr,,0,4,4,,,,31504231504
+2,New Zealand,17,TMM Newton,NE Farrant,JM Kerr,,0,1,1,,,,31504231504
+2,New Zealand,17,JM Kerr,NE Farrant,TMM Newton,,0,0,0,run out,TMM Newton,NR Sciver,31504231504
+2,New Zealand,18,JM Kerr,S Ecclestone,LM Kasperek,,0,0,0,,,,31504231504
+2,New Zealand,18,JM Kerr,S Ecclestone,LM Kasperek,,0,4,4,,,,31504231504
+2,New Zealand,18,JM Kerr,S Ecclestone,LM Kasperek,,0,1,1,,,,31504231504
+2,New Zealand,18,LM Kasperek,S Ecclestone,JM Kerr,,0,0,0,,,,31504231504
+2,New Zealand,18,LM Kasperek,S Ecclestone,JM Kerr,,0,0,0,stumped,LM Kasperek,AE Jones,31504231504

@@ -1,0 +1,56 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,RE Levi,ST Finn,HM Amla,,0,0,0,caught,RE Levi,C Kieswetter,325923259
+1,South Africa,0,AB de Villiers,ST Finn,HM Amla,,0,1,1,,,,325923259
+1,South Africa,0,HM Amla,ST Finn,AB de Villiers,,0,4,4,,,,325923259
+1,South Africa,0,HM Amla,ST Finn,AB de Villiers,legbyes,4,4,0,,,,325923259
+1,South Africa,0,HM Amla,ST Finn,AB de Villiers,legbyes,1,1,0,,,,325923259
+1,South Africa,0,AB de Villiers,ST Finn,HM Amla,,0,0,0,,,,325923259
+1,South Africa,1,HM Amla,SCJ Broad,AB de Villiers,,0,0,0,,,,325923259
+1,South Africa,1,HM Amla,SCJ Broad,AB de Villiers,,0,4,4,,,,325923259
+1,South Africa,1,HM Amla,SCJ Broad,AB de Villiers,,0,0,0,,,,325923259
+1,South Africa,1,HM Amla,SCJ Broad,AB de Villiers,,0,3,3,,,,325923259
+1,South Africa,1,AB de Villiers,SCJ Broad,HM Amla,legbyes,1,1,0,,,,325923259
+1,South Africa,1,HM Amla,SCJ Broad,AB de Villiers,,0,2,2,,,,325923259
+1,South Africa,2,AB de Villiers,ST Finn,HM Amla,,0,0,0,caught,AB de Villiers,JW Dernbach,325923259
+1,South Africa,2,HM Amla,ST Finn,JA Morkel,,0,4,4,,,,325923259
+1,South Africa,2,HM Amla,ST Finn,JA Morkel,,0,0,0,,,,325923259
+1,South Africa,2,HM Amla,ST Finn,JA Morkel,,0,4,4,,,,325923259
+1,South Africa,2,HM Amla,ST Finn,JA Morkel,,0,0,0,,,,325923259
+1,South Africa,2,HM Amla,ST Finn,JA Morkel,,0,4,4,,,,325923259
+1,South Africa,3,JA Morkel,GP Swann,HM Amla,,0,1,1,,,,325923259
+1,South Africa,3,HM Amla,GP Swann,JA Morkel,,0,1,1,,,,325923259
+1,South Africa,3,JA Morkel,GP Swann,HM Amla,,0,1,1,,,,325923259
+1,South Africa,3,HM Amla,GP Swann,JA Morkel,,0,1,1,,,,325923259
+1,South Africa,3,JA Morkel,GP Swann,HM Amla,,0,1,1,,,,325923259
+1,South Africa,3,HM Amla,GP Swann,JA Morkel,,0,0,0,,,,325923259
+1,South Africa,4,JA Morkel,LJ Wright,HM Amla,,0,0,0,,,,325923259
+1,South Africa,4,JA Morkel,LJ Wright,HM Amla,,0,0,0,caught,JA Morkel,JM Bairstow,325923259
+1,South Africa,4,HM Amla,LJ Wright,JP Duminy,,0,1,1,,,,325923259
+1,South Africa,4,JP Duminy,LJ Wright,HM Amla,,0,0,0,,,,325923259
+1,South Africa,4,JP Duminy,LJ Wright,HM Amla,,0,2,2,,,,325923259
+1,South Africa,4,JP Duminy,LJ Wright,HM Amla,,0,1,1,,,,325923259
+1,South Africa,5,JP Duminy,GP Swann,HM Amla,,0,1,1,,,,325923259
+1,South Africa,5,HM Amla,GP Swann,JP Duminy,,0,3,3,,,,325923259
+1,South Africa,5,JP Duminy,GP Swann,HM Amla,,0,1,1,,,,325923259
+1,South Africa,5,HM Amla,GP Swann,JP Duminy,,0,1,1,,,,325923259
+1,South Africa,5,JP Duminy,GP Swann,HM Amla,,0,0,0,caught and bowled,JP Duminy,,325923259
+1,South Africa,5,HM Amla,GP Swann,JL Ontong,,0,0,0,,,,325923259
+1,South Africa,6,JL Ontong,JW Dernbach,HM Amla,,0,1,1,,,,325923259
+1,South Africa,6,HM Amla,JW Dernbach,JL Ontong,,0,1,1,,,,325923259
+1,South Africa,6,JL Ontong,JW Dernbach,HM Amla,,0,0,0,caught,JL Ontong,C Kieswetter,325923259
+1,South Africa,6,HM Amla,JW Dernbach,JH Kallis,,0,0,0,,,,325923259
+1,South Africa,6,HM Amla,JW Dernbach,JH Kallis,,0,1,1,,,,325923259
+1,South Africa,6,JH Kallis,JW Dernbach,HM Amla,,0,0,0,,,,325923259
+1,South Africa,7,HM Amla,SCJ Broad,JH Kallis,,0,4,4,,,,325923259
+1,South Africa,7,HM Amla,SCJ Broad,JH Kallis,,0,0,0,,,,325923259
+1,South Africa,7,HM Amla,SCJ Broad,JH Kallis,,0,4,4,,,,325923259
+1,South Africa,7,HM Amla,SCJ Broad,JH Kallis,noballs,1,2,1,,,,325923259
+1,South Africa,7,JH Kallis,SCJ Broad,HM Amla,,0,2,2,,,,325923259
+1,South Africa,7,JH Kallis,SCJ Broad,HM Amla,,0,4,4,,,,325923259
+1,South Africa,7,JH Kallis,SCJ Broad,HM Amla,,0,2,2,,,,325923259
+1,South Africa,8,HM Amla,JW Dernbach,JH Kallis,,0,1,1,,,,325923259
+1,South Africa,8,JH Kallis,JW Dernbach,HM Amla,,0,0,0,,,,325923259
+1,South Africa,8,JH Kallis,JW Dernbach,HM Amla,,0,4,4,,,,325923259
+1,South Africa,8,JH Kallis,JW Dernbach,HM Amla,,0,1,1,,,,325923259
+1,South Africa,8,HM Amla,JW Dernbach,JH Kallis,,0,2,2,,,,325923259
+1,South Africa,8,HM Amla,JW Dernbach,JH Kallis,,0,1,1,,,,325923259

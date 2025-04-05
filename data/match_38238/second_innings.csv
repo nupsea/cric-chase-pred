@@ -1,0 +1,126 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Australia,0,AC Gilchrist,M Ntini,SM Katich,wides,1,1,0,,,,38238
+2,Australia,0,AC Gilchrist,M Ntini,SM Katich,,0,1,1,,,,38238
+2,Australia,0,SM Katich,M Ntini,AC Gilchrist,,0,0,0,,,,38238
+2,Australia,0,SM Katich,M Ntini,AC Gilchrist,,0,4,4,,,,38238
+2,Australia,0,SM Katich,M Ntini,AC Gilchrist,,0,2,2,,,,38238
+2,Australia,0,SM Katich,M Ntini,AC Gilchrist,,0,4,4,,,,38238
+2,Australia,0,SM Katich,M Ntini,AC Gilchrist,,0,4,4,,,,38238
+2,Australia,1,AC Gilchrist,AJ Hall,SM Katich,,0,0,0,lbw,AC Gilchrist,,38238
+2,Australia,1,RT Ponting,AJ Hall,SM Katich,,0,0,0,,,,38238
+2,Australia,1,RT Ponting,AJ Hall,SM Katich,,0,0,0,,,,38238
+2,Australia,1,RT Ponting,AJ Hall,SM Katich,,0,1,1,,,,38238
+2,Australia,1,SM Katich,AJ Hall,RT Ponting,,0,0,0,,,,38238
+2,Australia,1,SM Katich,AJ Hall,RT Ponting,,0,1,1,,,,38238
+2,Australia,2,SM Katich,M Ntini,RT Ponting,,0,0,0,,,,38238
+2,Australia,2,SM Katich,M Ntini,RT Ponting,,0,6,6,,,,38238
+2,Australia,2,SM Katich,M Ntini,RT Ponting,,0,4,4,,,,38238
+2,Australia,2,SM Katich,M Ntini,RT Ponting,,0,1,1,,,,38238
+2,Australia,2,RT Ponting,M Ntini,SM Katich,,0,0,0,,,,38238
+2,Australia,2,RT Ponting,M Ntini,SM Katich,,0,1,1,,,,38238
+2,Australia,3,RT Ponting,AJ Hall,SM Katich,,0,4,4,,,,38238
+2,Australia,3,RT Ponting,AJ Hall,SM Katich,,0,0,0,,,,38238
+2,Australia,3,RT Ponting,AJ Hall,SM Katich,,0,0,0,lbw,RT Ponting,,38238
+2,Australia,3,DR Martyn,AJ Hall,SM Katich,,0,1,1,,,,38238
+2,Australia,3,SM Katich,AJ Hall,DR Martyn,,0,0,0,,,,38238
+2,Australia,3,SM Katich,AJ Hall,DR Martyn,,0,0,0,,,,38238
+2,Australia,4,DR Martyn,R Telemachus,SM Katich,,0,0,0,,,,38238
+2,Australia,4,DR Martyn,R Telemachus,SM Katich,,0,1,1,,,,38238
+2,Australia,4,SM Katich,R Telemachus,DR Martyn,wides,1,1,0,,,,38238
+2,Australia,4,SM Katich,R Telemachus,DR Martyn,,0,1,1,,,,38238
+2,Australia,4,DR Martyn,R Telemachus,SM Katich,,0,4,4,,,,38238
+2,Australia,4,DR Martyn,R Telemachus,SM Katich,,0,4,4,,,,38238
+2,Australia,4,DR Martyn,R Telemachus,SM Katich,,0,1,1,,,,38238
+2,Australia,5,DR Martyn,JJ van der Wath,SM Katich,,0,2,2,,,,38238
+2,Australia,5,DR Martyn,JJ van der Wath,SM Katich,,0,4,4,,,,38238
+2,Australia,5,DR Martyn,JJ van der Wath,SM Katich,,0,0,0,caught,DR Martyn,AB de Villiers,38238
+2,Australia,5,MJ Clarke,JJ van der Wath,SM Katich,,0,0,0,,,,38238
+2,Australia,5,MJ Clarke,JJ van der Wath,SM Katich,,0,0,0,,,,38238
+2,Australia,5,MJ Clarke,JJ van der Wath,SM Katich,,0,0,0,,,,38238
+2,Australia,6,SM Katich,R Telemachus,MJ Clarke,,0,0,0,,,,38238
+2,Australia,6,SM Katich,R Telemachus,MJ Clarke,,0,1,1,,,,38238
+2,Australia,6,MJ Clarke,R Telemachus,SM Katich,wides,1,1,0,,,,38238
+2,Australia,6,MJ Clarke,R Telemachus,SM Katich,,0,3,3,,,,38238
+2,Australia,6,SM Katich,R Telemachus,MJ Clarke,,0,1,1,,,,38238
+2,Australia,6,MJ Clarke,R Telemachus,SM Katich,,0,0,0,,,,38238
+2,Australia,6,MJ Clarke,R Telemachus,SM Katich,,0,0,0,,,,38238
+2,Australia,7,SM Katich,JJ van der Wath,MJ Clarke,,0,4,4,,,,38238
+2,Australia,7,SM Katich,JJ van der Wath,MJ Clarke,,0,1,1,,,,38238
+2,Australia,7,MJ Clarke,JJ van der Wath,SM Katich,,0,6,6,,,,38238
+2,Australia,7,MJ Clarke,JJ van der Wath,SM Katich,,0,1,1,,,,38238
+2,Australia,7,SM Katich,JJ van der Wath,MJ Clarke,,0,1,1,,,,38238
+2,Australia,7,MJ Clarke,JJ van der Wath,SM Katich,,0,2,2,,,,38238
+2,Australia,8,SM Katich,R Telemachus,MJ Clarke,,0,4,4,,,,38238
+2,Australia,8,SM Katich,R Telemachus,MJ Clarke,,0,0,0,caught,SM Katich,GC Smith,38238
+2,Australia,8,MJ Clarke,R Telemachus,SR Watson,,0,1,1,,,,38238
+2,Australia,8,SR Watson,R Telemachus,MJ Clarke,legbyes,2,2,0,,,,38238
+2,Australia,8,SR Watson,R Telemachus,MJ Clarke,,0,1,1,,,,38238
+2,Australia,8,MJ Clarke,R Telemachus,SR Watson,,0,2,2,,,,38238
+2,Australia,9,SR Watson,GC Smith,MJ Clarke,,0,1,1,,,,38238
+2,Australia,9,MJ Clarke,GC Smith,SR Watson,,0,0,0,,,,38238
+2,Australia,9,MJ Clarke,GC Smith,SR Watson,,0,1,1,,,,38238
+2,Australia,9,SR Watson,GC Smith,MJ Clarke,,0,1,1,,,,38238
+2,Australia,9,MJ Clarke,GC Smith,SR Watson,,0,0,0,,,,38238
+2,Australia,9,MJ Clarke,GC Smith,SR Watson,,0,1,1,,,,38238
+2,Australia,10,MJ Clarke,RJ Peterson,SR Watson,,0,2,2,,,,38238
+2,Australia,10,MJ Clarke,RJ Peterson,SR Watson,,0,1,1,,,,38238
+2,Australia,10,SR Watson,RJ Peterson,MJ Clarke,,0,1,1,,,,38238
+2,Australia,10,MJ Clarke,RJ Peterson,SR Watson,,0,1,1,,,,38238
+2,Australia,10,SR Watson,RJ Peterson,MJ Clarke,,0,0,0,bowled,SR Watson,,38238
+2,Australia,10,GB Hogg,RJ Peterson,MJ Clarke,,0,0,0,,,,38238
+2,Australia,11,MJ Clarke,GC Smith,GB Hogg,,0,6,6,,,,38238
+2,Australia,11,MJ Clarke,GC Smith,GB Hogg,,0,2,2,,,,38238
+2,Australia,11,MJ Clarke,GC Smith,GB Hogg,legbyes,1,1,0,,,,38238
+2,Australia,11,GB Hogg,GC Smith,MJ Clarke,,0,1,1,,,,38238
+2,Australia,11,MJ Clarke,GC Smith,GB Hogg,,0,6,6,,,,38238
+2,Australia,11,MJ Clarke,GC Smith,GB Hogg,,0,2,2,,,,38238
+2,Australia,12,GB Hogg,RJ Peterson,MJ Clarke,,0,0,0,,,,38238
+2,Australia,12,GB Hogg,RJ Peterson,MJ Clarke,,0,0,0,,,,38238
+2,Australia,12,GB Hogg,RJ Peterson,MJ Clarke,,0,6,6,,,,38238
+2,Australia,12,GB Hogg,RJ Peterson,MJ Clarke,,0,6,6,,,,38238
+2,Australia,12,GB Hogg,RJ Peterson,MJ Clarke,,0,1,1,,,,38238
+2,Australia,12,MJ Clarke,RJ Peterson,GB Hogg,,0,0,0,stumped,MJ Clarke,AB de Villiers,38238
+2,Australia,13,GB Hogg,AJ Hall,B Lee,,0,0,0,,,,38238
+2,Australia,13,GB Hogg,AJ Hall,B Lee,,0,4,4,,,,38238
+2,Australia,13,GB Hogg,AJ Hall,B Lee,,0,0,0,,,,38238
+2,Australia,13,GB Hogg,AJ Hall,B Lee,,0,3,3,,,,38238
+2,Australia,13,B Lee,AJ Hall,GB Hogg,,0,1,1,,,,38238
+2,Australia,13,GB Hogg,AJ Hall,B Lee,,0,0,0,,,,38238
+2,Australia,14,B Lee,RJ Peterson,GB Hogg,,0,1,1,,,,38238
+2,Australia,14,GB Hogg,RJ Peterson,B Lee,,0,1,1,,,,38238
+2,Australia,14,B Lee,RJ Peterson,GB Hogg,,0,1,1,,,,38238
+2,Australia,14,GB Hogg,RJ Peterson,B Lee,,0,1,1,,,,38238
+2,Australia,14,B Lee,RJ Peterson,GB Hogg,,0,1,1,,,,38238
+2,Australia,14,GB Hogg,RJ Peterson,B Lee,,0,6,6,,,,38238
+2,Australia,15,B Lee,JJ van der Wath,GB Hogg,,0,0,0,,,,38238
+2,Australia,15,B Lee,JJ van der Wath,GB Hogg,,0,4,4,,,,38238
+2,Australia,15,B Lee,JJ van der Wath,GB Hogg,,0,4,4,,,,38238
+2,Australia,15,B Lee,JJ van der Wath,GB Hogg,,0,4,4,,,,38238
+2,Australia,15,B Lee,JJ van der Wath,GB Hogg,,0,0,0,,,,38238
+2,Australia,15,B Lee,JJ van der Wath,GB Hogg,,0,0,0,,,,38238
+2,Australia,16,GB Hogg,R Telemachus,B Lee,wides,1,1,0,,,,38238
+2,Australia,16,GB Hogg,R Telemachus,B Lee,,0,4,4,,,,38238
+2,Australia,16,GB Hogg,R Telemachus,B Lee,,0,1,1,,,,38238
+2,Australia,16,B Lee,R Telemachus,GB Hogg,,0,1,1,,,,38238
+2,Australia,16,GB Hogg,R Telemachus,B Lee,,0,0,0,,,,38238
+2,Australia,16,GB Hogg,R Telemachus,B Lee,,0,1,1,,,,38238
+2,Australia,16,B Lee,R Telemachus,GB Hogg,,0,6,6,,,,38238
+2,Australia,17,GB Hogg,JJ van der Wath,B Lee,,0,1,1,,,,38238
+2,Australia,17,B Lee,JJ van der Wath,GB Hogg,,0,1,1,,,,38238
+2,Australia,17,GB Hogg,JJ van der Wath,B Lee,,0,1,1,,,,38238
+2,Australia,17,B Lee,JJ van der Wath,GB Hogg,,0,1,1,,,,38238
+2,Australia,17,GB Hogg,JJ van der Wath,B Lee,,0,1,1,,,,38238
+2,Australia,17,B Lee,JJ van der Wath,GB Hogg,,0,2,2,,,,38238
+2,Australia,18,GB Hogg,AJ Hall,B Lee,,0,2,2,,,,38238
+2,Australia,18,GB Hogg,AJ Hall,B Lee,,0,1,1,,,,38238
+2,Australia,18,B Lee,AJ Hall,GB Hogg,,0,1,1,,,,38238
+2,Australia,18,GB Hogg,AJ Hall,B Lee,wides,1,1,0,,,,38238
+2,Australia,18,GB Hogg,AJ Hall,B Lee,,0,0,0,caught,GB Hogg,GC Smith,38238
+2,Australia,18,NW Bracken,AJ Hall,B Lee,,0,2,2,,,,38238
+2,Australia,18,NW Bracken,AJ Hall,B Lee,,0,0,0,,,,38238
+2,Australia,19,B Lee,M Ntini,NW Bracken,,0,4,4,,,,38238
+2,Australia,19,B Lee,M Ntini,NW Bracken,,0,2,2,,,,38238
+2,Australia,19,B Lee,M Ntini,NW Bracken,,0,2,2,,,,38238
+2,Australia,19,B Lee,M Ntini,NW Bracken,,0,1,1,,,,38238
+2,Australia,19,NW Bracken,M Ntini,B Lee,,0,1,1,,,,38238
+2,Australia,19,B Lee,M Ntini,NW Bracken,,0,6,6,,,,38238

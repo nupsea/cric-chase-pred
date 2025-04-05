@@ -1,0 +1,32 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,West Indies,0,DJS Dottin,FR Davies,HK Matthews,,0,0,0,,,,31420231420
+1,West Indies,0,DJS Dottin,FR Davies,HK Matthews,,0,0,0,,,,31420231420
+1,West Indies,0,DJS Dottin,FR Davies,HK Matthews,,0,4,4,,,,31420231420
+1,West Indies,0,DJS Dottin,FR Davies,HK Matthews,,0,6,6,,,,31420231420
+1,West Indies,0,DJS Dottin,FR Davies,HK Matthews,,0,1,1,,,,31420231420
+1,West Indies,0,HK Matthews,FR Davies,DJS Dottin,,0,0,0,caught,HK Matthews,MK Villiers,31420231420
+1,West Indies,1,SR Taylor,KH Brunt,DJS Dottin,,0,0,0,,,,31420231420
+1,West Indies,1,SR Taylor,KH Brunt,DJS Dottin,,0,1,1,,,,31420231420
+1,West Indies,1,DJS Dottin,KH Brunt,SR Taylor,,0,0,0,,,,31420231420
+1,West Indies,1,DJS Dottin,KH Brunt,SR Taylor,wides,1,1,0,,,,31420231420
+1,West Indies,1,DJS Dottin,KH Brunt,SR Taylor,,0,0,0,caught,DJS Dottin,FR Davies,31420231420
+1,West Indies,1,SR Taylor,KH Brunt,CN Nation,,0,1,1,,,,31420231420
+1,West Indies,1,CN Nation,KH Brunt,SR Taylor,,0,0,0,,,,31420231420
+1,West Indies,2,SR Taylor,S Ecclestone,CN Nation,,0,2,2,,,,31420231420
+1,West Indies,2,SR Taylor,S Ecclestone,CN Nation,,0,1,1,,,,31420231420
+1,West Indies,2,CN Nation,S Ecclestone,SR Taylor,,0,0,0,bowled,CN Nation,,31420231420
+1,West Indies,2,NY McLean,S Ecclestone,SR Taylor,,0,2,2,,,,31420231420
+1,West Indies,2,NY McLean,S Ecclestone,SR Taylor,,0,1,1,,,,31420231420
+1,West Indies,2,SR Taylor,S Ecclestone,NY McLean,,0,0,0,,,,31420231420
+1,West Indies,3,NY McLean,KH Brunt,SR Taylor,,0,0,0,,,,31420231420
+1,West Indies,3,NY McLean,KH Brunt,SR Taylor,,0,0,0,,,,31420231420
+1,West Indies,3,NY McLean,KH Brunt,SR Taylor,,0,2,2,,,,31420231420
+1,West Indies,3,NY McLean,KH Brunt,SR Taylor,,0,1,1,,,,31420231420
+1,West Indies,3,SR Taylor,KH Brunt,NY McLean,,0,4,4,,,,31420231420
+1,West Indies,3,SR Taylor,KH Brunt,NY McLean,,0,4,4,,,,31420231420
+1,West Indies,4,NY McLean,S Ecclestone,SR Taylor,,0,1,1,,,,31420231420
+1,West Indies,4,SR Taylor,S Ecclestone,NY McLean,,0,1,1,,,,31420231420
+1,West Indies,4,NY McLean,S Ecclestone,SR Taylor,,0,0,0,,,,31420231420
+1,West Indies,4,NY McLean,S Ecclestone,SR Taylor,,0,1,1,,,,31420231420
+1,West Indies,4,SR Taylor,S Ecclestone,NY McLean,,0,1,1,,,,31420231420
+1,West Indies,4,NY McLean,S Ecclestone,SR Taylor,,0,6,6,,,,31420231420

@@ -1,0 +1,122 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,L Lee,NR Sciver,L Wolvaardt,,0,0,0,,,,391623916
+1,South Africa,0,L Lee,NR Sciver,L Wolvaardt,,0,0,0,,,,391623916
+1,South Africa,0,L Lee,NR Sciver,L Wolvaardt,,0,0,0,,,,391623916
+1,South Africa,0,L Lee,NR Sciver,L Wolvaardt,,0,0,0,,,,391623916
+1,South Africa,0,L Lee,NR Sciver,L Wolvaardt,,0,1,1,,,,391623916
+1,South Africa,0,L Wolvaardt,NR Sciver,L Lee,,0,0,0,,,,391623916
+1,South Africa,1,L Lee,A Shrubsole,L Wolvaardt,legbyes,1,1,0,,,,391623916
+1,South Africa,1,L Wolvaardt,A Shrubsole,L Lee,,0,0,0,,,,391623916
+1,South Africa,1,L Wolvaardt,A Shrubsole,L Lee,,0,4,4,,,,391623916
+1,South Africa,1,L Wolvaardt,A Shrubsole,L Lee,,0,0,0,,,,391623916
+1,South Africa,1,L Wolvaardt,A Shrubsole,L Lee,,0,0,0,,,,391623916
+1,South Africa,1,L Wolvaardt,A Shrubsole,L Lee,,0,0,0,,,,391623916
+1,South Africa,2,L Lee,LCN Smith,L Wolvaardt,,0,0,0,,,,391623916
+1,South Africa,2,L Lee,LCN Smith,L Wolvaardt,,0,1,1,,,,391623916
+1,South Africa,2,L Wolvaardt,LCN Smith,L Lee,,0,0,0,,,,391623916
+1,South Africa,2,L Wolvaardt,LCN Smith,L Lee,,0,0,0,caught,L Wolvaardt,AE Jones,391623916
+1,South Africa,2,M Kapp,LCN Smith,L Lee,,0,0,0,,,,391623916
+1,South Africa,2,M Kapp,LCN Smith,L Lee,,0,0,0,,,,391623916
+1,South Africa,3,L Lee,A Shrubsole,M Kapp,,0,0,0,,,,391623916
+1,South Africa,3,L Lee,A Shrubsole,M Kapp,,0,0,0,,,,391623916
+1,South Africa,3,L Lee,A Shrubsole,M Kapp,,0,0,0,,,,391623916
+1,South Africa,3,L Lee,A Shrubsole,M Kapp,,0,0,0,,,,391623916
+1,South Africa,3,L Lee,A Shrubsole,M Kapp,,0,0,0,,,,391623916
+1,South Africa,3,L Lee,A Shrubsole,M Kapp,,0,0,0,,,,391623916
+1,South Africa,4,M Kapp,LCN Smith,L Lee,,0,1,1,,,,391623916
+1,South Africa,4,L Lee,LCN Smith,M Kapp,,0,1,1,,,,391623916
+1,South Africa,4,M Kapp,LCN Smith,L Lee,,0,0,0,,,,391623916
+1,South Africa,4,M Kapp,LCN Smith,L Lee,wides,1,1,0,,,,391623916
+1,South Africa,4,M Kapp,LCN Smith,L Lee,,0,4,4,,,,391623916
+1,South Africa,4,M Kapp,LCN Smith,L Lee,,0,0,0,,,,391623916
+1,South Africa,4,M Kapp,LCN Smith,L Lee,,0,1,1,,,,391623916
+1,South Africa,5,M Kapp,S Ecclestone,L Lee,,0,1,1,,,,391623916
+1,South Africa,5,L Lee,S Ecclestone,M Kapp,,0,0,0,,,,391623916
+1,South Africa,5,L Lee,S Ecclestone,M Kapp,,0,2,2,,,,391623916
+1,South Africa,5,L Lee,S Ecclestone,M Kapp,,0,0,0,,,,391623916
+1,South Africa,5,L Lee,S Ecclestone,M Kapp,,0,6,6,,,,391623916
+1,South Africa,5,L Lee,S Ecclestone,M Kapp,,0,0,0,,,,391623916
+1,South Africa,6,M Kapp,KL Gordon,L Lee,,0,1,1,,,,391623916
+1,South Africa,6,L Lee,KL Gordon,M Kapp,,0,0,0,,,,391623916
+1,South Africa,6,L Lee,KL Gordon,M Kapp,,0,0,0,,,,391623916
+1,South Africa,6,L Lee,KL Gordon,M Kapp,wides,1,1,0,,,,391623916
+1,South Africa,6,L Lee,KL Gordon,M Kapp,,0,0,0,,,,391623916
+1,South Africa,6,L Lee,KL Gordon,M Kapp,,0,0,0,,,,391623916
+1,South Africa,6,L Lee,KL Gordon,M Kapp,,0,1,1,,,,391623916
+1,South Africa,7,L Lee,NR Sciver,M Kapp,,0,0,0,lbw,L Lee,,391623916
+1,South Africa,7,D van Niekerk,NR Sciver,M Kapp,legbyes,1,1,0,,,,391623916
+1,South Africa,7,M Kapp,NR Sciver,D van Niekerk,,0,0,0,,,,391623916
+1,South Africa,7,M Kapp,NR Sciver,D van Niekerk,,0,0,0,,,,391623916
+1,South Africa,7,M Kapp,NR Sciver,D van Niekerk,,0,0,0,,,,391623916
+1,South Africa,7,M Kapp,NR Sciver,D van Niekerk,,0,1,1,,,,391623916
+1,South Africa,8,M Kapp,KL Gordon,D van Niekerk,,0,0,0,,,,391623916
+1,South Africa,8,M Kapp,KL Gordon,D van Niekerk,,0,0,0,caught,M Kapp,SIR Dunkley,391623916
+1,South Africa,8,D van Niekerk,KL Gordon,M du Preez,,0,1,1,,,,391623916
+1,South Africa,8,M du Preez,KL Gordon,D van Niekerk,,0,0,0,,,,391623916
+1,South Africa,8,M du Preez,KL Gordon,D van Niekerk,,0,0,0,run out,D van Niekerk,,391623916
+1,South Africa,8,M du Preez,KL Gordon,CL Tryon,,0,1,1,,,,391623916
+1,South Africa,9,M du Preez,NR Sciver,CL Tryon,,0,0,0,,,,391623916
+1,South Africa,9,M du Preez,NR Sciver,CL Tryon,,0,0,0,,,,391623916
+1,South Africa,9,M du Preez,NR Sciver,CL Tryon,,0,0,0,,,,391623916
+1,South Africa,9,M du Preez,NR Sciver,CL Tryon,,0,1,1,,,,391623916
+1,South Africa,9,CL Tryon,NR Sciver,M du Preez,,0,0,0,,,,391623916
+1,South Africa,9,CL Tryon,NR Sciver,M du Preez,,0,1,1,,,,391623916
+1,South Africa,10,CL Tryon,S Ecclestone,M du Preez,,0,0,0,,,,391623916
+1,South Africa,10,CL Tryon,S Ecclestone,M du Preez,,0,0,0,,,,391623916
+1,South Africa,10,CL Tryon,S Ecclestone,M du Preez,,0,1,1,,,,391623916
+1,South Africa,10,M du Preez,S Ecclestone,CL Tryon,,0,0,0,,,,391623916
+1,South Africa,10,M du Preez,S Ecclestone,CL Tryon,,0,1,1,,,,391623916
+1,South Africa,10,CL Tryon,S Ecclestone,M du Preez,legbyes,1,1,0,,,,391623916
+1,South Africa,11,CL Tryon,LCN Smith,M du Preez,,0,0,0,,,,391623916
+1,South Africa,11,CL Tryon,LCN Smith,M du Preez,,0,0,0,,,,391623916
+1,South Africa,11,CL Tryon,LCN Smith,M du Preez,,0,1,1,,,,391623916
+1,South Africa,11,M du Preez,LCN Smith,CL Tryon,wides,1,1,0,,,,391623916
+1,South Africa,11,M du Preez,LCN Smith,CL Tryon,,0,1,1,,,,391623916
+1,South Africa,11,CL Tryon,LCN Smith,M du Preez,,0,0,0,,,,391623916
+1,South Africa,11,CL Tryon,LCN Smith,M du Preez,,0,0,0,,,,391623916
+1,South Africa,12,M du Preez,KL Gordon,CL Tryon,,0,1,1,,,,391623916
+1,South Africa,12,CL Tryon,KL Gordon,M du Preez,,0,0,0,,,,391623916
+1,South Africa,12,CL Tryon,KL Gordon,M du Preez,,0,1,1,,,,391623916
+1,South Africa,12,M du Preez,KL Gordon,CL Tryon,,0,0,0,,,,391623916
+1,South Africa,12,M du Preez,KL Gordon,CL Tryon,,0,0,0,,,,391623916
+1,South Africa,12,M du Preez,KL Gordon,CL Tryon,,0,1,1,,,,391623916
+1,South Africa,13,M du Preez,S Ecclestone,CL Tryon,,0,2,2,,,,391623916
+1,South Africa,13,M du Preez,S Ecclestone,CL Tryon,,0,1,1,,,,391623916
+1,South Africa,13,CL Tryon,S Ecclestone,M du Preez,,0,0,0,,,,391623916
+1,South Africa,13,CL Tryon,S Ecclestone,M du Preez,,0,1,1,,,,391623916
+1,South Africa,13,M du Preez,S Ecclestone,CL Tryon,,0,1,1,,,,391623916
+1,South Africa,13,CL Tryon,S Ecclestone,M du Preez,,0,1,1,,,,391623916
+1,South Africa,14,CL Tryon,KL Gordon,M du Preez,,0,1,1,,,,391623916
+1,South Africa,14,M du Preez,KL Gordon,CL Tryon,,0,6,6,,,,391623916
+1,South Africa,14,M du Preez,KL Gordon,CL Tryon,,0,0,0,caught,M du Preez,NR Sciver,391623916
+1,South Africa,14,F Tunnicliffe,KL Gordon,CL Tryon,,0,0,0,,,,391623916
+1,South Africa,14,F Tunnicliffe,KL Gordon,CL Tryon,,0,1,1,,,,391623916
+1,South Africa,14,CL Tryon,KL Gordon,F Tunnicliffe,,0,2,2,,,,391623916
+1,South Africa,15,F Tunnicliffe,A Shrubsole,CL Tryon,,0,1,1,,,,391623916
+1,South Africa,15,CL Tryon,A Shrubsole,F Tunnicliffe,,0,0,0,,,,391623916
+1,South Africa,15,CL Tryon,A Shrubsole,F Tunnicliffe,,0,4,4,,,,391623916
+1,South Africa,15,CL Tryon,A Shrubsole,F Tunnicliffe,,0,1,1,,,,391623916
+1,South Africa,15,F Tunnicliffe,A Shrubsole,CL Tryon,,0,1,1,,,,391623916
+1,South Africa,15,CL Tryon,A Shrubsole,F Tunnicliffe,,0,0,0,,,,391623916
+1,South Africa,16,F Tunnicliffe,LCN Smith,CL Tryon,,0,0,0,,,,391623916
+1,South Africa,16,F Tunnicliffe,LCN Smith,CL Tryon,,0,1,1,,,,391623916
+1,South Africa,16,CL Tryon,LCN Smith,F Tunnicliffe,,0,6,6,,,,391623916
+1,South Africa,16,CL Tryon,LCN Smith,F Tunnicliffe,,0,0,0,,,,391623916
+1,South Africa,16,CL Tryon,LCN Smith,F Tunnicliffe,,0,6,6,,,,391623916
+1,South Africa,16,CL Tryon,LCN Smith,F Tunnicliffe,,0,1,1,,,,391623916
+1,South Africa,17,CL Tryon,NR Sciver,F Tunnicliffe,,0,0,0,,,,391623916
+1,South Africa,17,CL Tryon,NR Sciver,F Tunnicliffe,,0,0,0,caught,CL Tryon,S Ecclestone,391623916
+1,South Africa,17,F Tunnicliffe,NR Sciver,S Ismail,,0,0,0,,,,391623916
+1,South Africa,17,F Tunnicliffe,NR Sciver,S Ismail,,0,0,0,,,,391623916
+1,South Africa,17,F Tunnicliffe,NR Sciver,S Ismail,,0,0,0,caught,F Tunnicliffe,L Winfield,391623916
+1,South Africa,17,Y Fourie,NR Sciver,S Ismail,,0,0,0,,,,391623916
+1,South Africa,18,S Ismail,S Ecclestone,Y Fourie,wides,1,1,0,,,,391623916
+1,South Africa,18,S Ismail,S Ecclestone,Y Fourie,,0,1,1,,,,391623916
+1,South Africa,18,Y Fourie,S Ecclestone,S Ismail,,0,0,0,,,,391623916
+1,South Africa,18,Y Fourie,S Ecclestone,S Ismail,,0,4,4,,,,391623916
+1,South Africa,18,Y Fourie,S Ecclestone,S Ismail,,0,0,0,,,,391623916
+1,South Africa,18,Y Fourie,S Ecclestone,S Ismail,,0,0,0,,,,391623916
+1,South Africa,18,Y Fourie,S Ecclestone,S Ismail,,0,0,0,,,,391623916
+1,South Africa,19,S Ismail,A Shrubsole,Y Fourie,,0,0,0,bowled,S Ismail,,391623916
+1,South Africa,19,M Klaas,A Shrubsole,Y Fourie,,0,0,0,caught,M Klaas,TT Beaumont,391623916
+1,South Africa,19,Y Fourie,A Shrubsole,M Daniels,,0,0,0,bowled,Y Fourie,,391623916

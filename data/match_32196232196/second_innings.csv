@@ -1,0 +1,115 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Netherlands,0,MP O'Dowd,W Madhevere,SJ Myburgh,,0,0,0,,,,32196232196
+2,Netherlands,0,MP O'Dowd,W Madhevere,SJ Myburgh,,0,0,0,,,,32196232196
+2,Netherlands,0,MP O'Dowd,W Madhevere,SJ Myburgh,,0,0,0,,,,32196232196
+2,Netherlands,0,MP O'Dowd,W Madhevere,SJ Myburgh,,0,0,0,,,,32196232196
+2,Netherlands,0,MP O'Dowd,W Madhevere,SJ Myburgh,,0,0,0,,,,32196232196
+2,Netherlands,0,MP O'Dowd,W Madhevere,SJ Myburgh,wides,1,1,0,,,,32196232196
+2,Netherlands,0,MP O'Dowd,W Madhevere,SJ Myburgh,,0,1,1,,,,32196232196
+2,Netherlands,1,MP O'Dowd,WP Masakadza,SJ Myburgh,,0,0,0,,,,32196232196
+2,Netherlands,1,MP O'Dowd,WP Masakadza,SJ Myburgh,,0,6,6,,,,32196232196
+2,Netherlands,1,MP O'Dowd,WP Masakadza,SJ Myburgh,,0,4,4,,,,32196232196
+2,Netherlands,1,MP O'Dowd,WP Masakadza,SJ Myburgh,,0,1,1,,,,32196232196
+2,Netherlands,1,SJ Myburgh,WP Masakadza,MP O'Dowd,,0,1,1,,,,32196232196
+2,Netherlands,1,MP O'Dowd,WP Masakadza,SJ Myburgh,legbyes,1,1,0,,,,32196232196
+2,Netherlands,2,MP O'Dowd,W Madhevere,SJ Myburgh,,0,0,0,lbw,MP O'Dowd,,32196232196
+2,Netherlands,2,BFW de Leede,W Madhevere,SJ Myburgh,,0,1,1,,,,32196232196
+2,Netherlands,2,SJ Myburgh,W Madhevere,BFW de Leede,,0,0,0,,,,32196232196
+2,Netherlands,2,SJ Myburgh,W Madhevere,BFW de Leede,,0,1,1,,,,32196232196
+2,Netherlands,2,BFW de Leede,W Madhevere,SJ Myburgh,,0,0,0,lbw,BFW de Leede,,32196232196
+2,Netherlands,2,TLW Cooper,W Madhevere,SJ Myburgh,,0,1,1,,,,32196232196
+2,Netherlands,3,TLW Cooper,WP Masakadza,SJ Myburgh,wides,1,1,0,,,,32196232196
+2,Netherlands,3,TLW Cooper,WP Masakadza,SJ Myburgh,,0,0,0,,,,32196232196
+2,Netherlands,3,TLW Cooper,WP Masakadza,SJ Myburgh,,0,1,1,,,,32196232196
+2,Netherlands,3,SJ Myburgh,WP Masakadza,TLW Cooper,,0,6,6,,,,32196232196
+2,Netherlands,3,SJ Myburgh,WP Masakadza,TLW Cooper,,0,1,1,,,,32196232196
+2,Netherlands,3,TLW Cooper,WP Masakadza,SJ Myburgh,,0,0,0,,,,32196232196
+2,Netherlands,3,TLW Cooper,WP Masakadza,SJ Myburgh,,0,0,0,,,,32196232196
+2,Netherlands,4,SJ Myburgh,W Madhevere,TLW Cooper,,0,0,0,,,,32196232196
+2,Netherlands,4,SJ Myburgh,W Madhevere,TLW Cooper,,0,2,2,,,,32196232196
+2,Netherlands,4,SJ Myburgh,W Madhevere,TLW Cooper,,0,6,6,,,,32196232196
+2,Netherlands,4,SJ Myburgh,W Madhevere,TLW Cooper,,0,0,0,,,,32196232196
+2,Netherlands,4,SJ Myburgh,W Madhevere,TLW Cooper,,0,1,1,,,,32196232196
+2,Netherlands,4,TLW Cooper,W Madhevere,SJ Myburgh,,0,1,1,,,,32196232196
+2,Netherlands,5,TLW Cooper,R Ngarava,SJ Myburgh,,0,0,0,,,,32196232196
+2,Netherlands,5,TLW Cooper,R Ngarava,SJ Myburgh,,0,1,1,,,,32196232196
+2,Netherlands,5,SJ Myburgh,R Ngarava,TLW Cooper,,0,1,1,,,,32196232196
+2,Netherlands,5,TLW Cooper,R Ngarava,SJ Myburgh,,0,4,4,,,,32196232196
+2,Netherlands,5,TLW Cooper,R Ngarava,SJ Myburgh,,0,0,0,,,,32196232196
+2,Netherlands,5,TLW Cooper,R Ngarava,SJ Myburgh,,0,0,0,,,,32196232196
+2,Netherlands,6,SJ Myburgh,SC Williams,TLW Cooper,,0,1,1,,,,32196232196
+2,Netherlands,6,TLW Cooper,SC Williams,SJ Myburgh,,0,1,1,,,,32196232196
+2,Netherlands,6,SJ Myburgh,SC Williams,TLW Cooper,,0,0,0,run out,TLW Cooper,M Shumba,32196232196
+2,Netherlands,6,SJ Myburgh,SC Williams,SA Edwards,byes,1,1,0,,,,32196232196
+2,Netherlands,6,SA Edwards,SC Williams,SJ Myburgh,,0,1,1,,,,32196232196
+2,Netherlands,6,SJ Myburgh,SC Williams,SA Edwards,,0,0,0,,,,32196232196
+2,Netherlands,7,SA Edwards,Sikandar Raza,SJ Myburgh,,0,1,1,,,,32196232196
+2,Netherlands,7,SJ Myburgh,Sikandar Raza,SA Edwards,,0,1,1,,,,32196232196
+2,Netherlands,7,SA Edwards,Sikandar Raza,SJ Myburgh,,0,0,0,,,,32196232196
+2,Netherlands,7,SA Edwards,Sikandar Raza,SJ Myburgh,,0,2,2,,,,32196232196
+2,Netherlands,7,SA Edwards,Sikandar Raza,SJ Myburgh,,0,1,1,,,,32196232196
+2,Netherlands,7,SJ Myburgh,Sikandar Raza,SA Edwards,,0,0,0,,,,32196232196
+2,Netherlands,8,SA Edwards,SC Williams,SJ Myburgh,,0,1,1,,,,32196232196
+2,Netherlands,8,SJ Myburgh,SC Williams,SA Edwards,,0,0,0,,,,32196232196
+2,Netherlands,8,SJ Myburgh,SC Williams,SA Edwards,,0,0,0,,,,32196232196
+2,Netherlands,8,SJ Myburgh,SC Williams,SA Edwards,,0,0,0,,,,32196232196
+2,Netherlands,8,SJ Myburgh,SC Williams,SA Edwards,,0,0,0,,,,32196232196
+2,Netherlands,8,SJ Myburgh,SC Williams,SA Edwards,,0,1,1,,,,32196232196
+2,Netherlands,9,SJ Myburgh,Sikandar Raza,SA Edwards,,0,0,0,,,,32196232196
+2,Netherlands,9,SJ Myburgh,Sikandar Raza,SA Edwards,,0,0,0,lbw,SJ Myburgh,,32196232196
+2,Netherlands,9,AT Nidamanuru,Sikandar Raza,SA Edwards,,0,0,0,,,,32196232196
+2,Netherlands,9,AT Nidamanuru,Sikandar Raza,SA Edwards,,0,0,0,,,,32196232196
+2,Netherlands,9,AT Nidamanuru,Sikandar Raza,SA Edwards,,0,0,0,,,,32196232196
+2,Netherlands,9,AT Nidamanuru,Sikandar Raza,SA Edwards,,0,0,0,,,,32196232196
+2,Netherlands,10,SA Edwards,SC Williams,AT Nidamanuru,,0,0,0,,,,32196232196
+2,Netherlands,10,SA Edwards,SC Williams,AT Nidamanuru,,0,1,1,,,,32196232196
+2,Netherlands,10,AT Nidamanuru,SC Williams,SA Edwards,,0,1,1,,,,32196232196
+2,Netherlands,10,SA Edwards,SC Williams,AT Nidamanuru,,0,0,0,,,,32196232196
+2,Netherlands,10,SA Edwards,SC Williams,AT Nidamanuru,,0,0,0,caught,SA Edwards,R Ngarava,32196232196
+2,Netherlands,10,AT Nidamanuru,SC Williams,LV van Beek,,0,0,0,,,,32196232196
+2,Netherlands,11,LV van Beek,Sikandar Raza,AT Nidamanuru,,0,0,0,,,,32196232196
+2,Netherlands,11,LV van Beek,Sikandar Raza,AT Nidamanuru,,0,0,0,,,,32196232196
+2,Netherlands,11,LV van Beek,Sikandar Raza,AT Nidamanuru,,0,0,0,bowled,LV van Beek,,32196232196
+2,Netherlands,11,TJG Pringle,Sikandar Raza,AT Nidamanuru,,0,0,0,,,,32196232196
+2,Netherlands,11,TJG Pringle,Sikandar Raza,AT Nidamanuru,,0,0,0,,,,32196232196
+2,Netherlands,11,TJG Pringle,Sikandar Raza,AT Nidamanuru,,0,1,1,,,,32196232196
+2,Netherlands,12,TJG Pringle,SC Williams,AT Nidamanuru,,0,1,1,,,,32196232196
+2,Netherlands,12,AT Nidamanuru,SC Williams,TJG Pringle,,0,0,0,,,,32196232196
+2,Netherlands,12,AT Nidamanuru,SC Williams,TJG Pringle,,0,1,1,,,,32196232196
+2,Netherlands,12,TJG Pringle,SC Williams,AT Nidamanuru,,0,0,0,,,,32196232196
+2,Netherlands,12,TJG Pringle,SC Williams,AT Nidamanuru,,0,0,0,,,,32196232196
+2,Netherlands,12,TJG Pringle,SC Williams,AT Nidamanuru,,0,1,1,,,,32196232196
+2,Netherlands,13,TJG Pringle,Sikandar Raza,AT Nidamanuru,,0,1,1,,,,32196232196
+2,Netherlands,13,AT Nidamanuru,Sikandar Raza,TJG Pringle,,0,0,0,,,,32196232196
+2,Netherlands,13,AT Nidamanuru,Sikandar Raza,TJG Pringle,,0,0,0,,,,32196232196
+2,Netherlands,13,AT Nidamanuru,Sikandar Raza,TJG Pringle,,0,1,1,,,,32196232196
+2,Netherlands,13,TJG Pringle,Sikandar Raza,AT Nidamanuru,,0,0,0,bowled,TJG Pringle,,32196232196
+2,Netherlands,13,FJ Klaassen,Sikandar Raza,AT Nidamanuru,,0,0,0,lbw,FJ Klaassen,,32196232196
+2,Netherlands,14,AT Nidamanuru,RP Burl,PA van Meekeren,,0,1,1,,,,32196232196
+2,Netherlands,14,PA van Meekeren,RP Burl,AT Nidamanuru,wides,1,1,0,,,,32196232196
+2,Netherlands,14,PA van Meekeren,RP Burl,AT Nidamanuru,,0,1,1,,,,32196232196
+2,Netherlands,14,AT Nidamanuru,RP Burl,PA van Meekeren,,0,0,0,,,,32196232196
+2,Netherlands,14,AT Nidamanuru,RP Burl,PA van Meekeren,,0,1,1,,,,32196232196
+2,Netherlands,14,PA van Meekeren,RP Burl,AT Nidamanuru,byes,1,1,0,,,,32196232196
+2,Netherlands,14,AT Nidamanuru,RP Burl,PA van Meekeren,,0,1,1,,,,32196232196
+2,Netherlands,15,AT Nidamanuru,WP Masakadza,PA van Meekeren,,0,1,1,,,,32196232196
+2,Netherlands,15,PA van Meekeren,WP Masakadza,AT Nidamanuru,,0,1,1,,,,32196232196
+2,Netherlands,15,AT Nidamanuru,WP Masakadza,PA van Meekeren,,0,1,1,,,,32196232196
+2,Netherlands,15,PA van Meekeren,WP Masakadza,AT Nidamanuru,,0,0,0,,,,32196232196
+2,Netherlands,15,PA van Meekeren,WP Masakadza,AT Nidamanuru,,0,0,0,,,,32196232196
+2,Netherlands,15,PA van Meekeren,WP Masakadza,AT Nidamanuru,,0,1,1,,,,32196232196
+2,Netherlands,16,PA van Meekeren,RP Burl,AT Nidamanuru,,0,1,1,,,,32196232196
+2,Netherlands,16,AT Nidamanuru,RP Burl,PA van Meekeren,,0,0,0,,,,32196232196
+2,Netherlands,16,AT Nidamanuru,RP Burl,PA van Meekeren,,0,6,6,,,,32196232196
+2,Netherlands,16,AT Nidamanuru,RP Burl,PA van Meekeren,,0,0,0,,,,32196232196
+2,Netherlands,16,AT Nidamanuru,RP Burl,PA van Meekeren,,0,1,1,,,,32196232196
+2,Netherlands,16,PA van Meekeren,RP Burl,AT Nidamanuru,,0,6,6,,,,32196232196
+2,Netherlands,17,AT Nidamanuru,LM Jongwe,PA van Meekeren,,0,1,1,,,,32196232196
+2,Netherlands,17,PA van Meekeren,LM Jongwe,AT Nidamanuru,,0,0,0,caught,PA van Meekeren,M Shumba,32196232196
+2,Netherlands,17,AT Nidamanuru,LM Jongwe,Shariz Ahmad,,0,2,2,,,,32196232196
+2,Netherlands,17,AT Nidamanuru,LM Jongwe,Shariz Ahmad,legbyes,1,1,0,,,,32196232196
+2,Netherlands,17,Shariz Ahmad,LM Jongwe,AT Nidamanuru,wides,1,1,0,,,,32196232196
+2,Netherlands,17,Shariz Ahmad,LM Jongwe,AT Nidamanuru,,0,1,1,,,,32196232196
+2,Netherlands,17,AT Nidamanuru,LM Jongwe,Shariz Ahmad,,0,1,1,,,,32196232196
+2,Netherlands,18,AT Nidamanuru,R Ngarava,Shariz Ahmad,,0,2,2,,,,32196232196
+2,Netherlands,18,AT Nidamanuru,R Ngarava,Shariz Ahmad,,0,0,0,lbw,AT Nidamanuru,,32196232196

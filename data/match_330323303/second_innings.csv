@@ -1,0 +1,79 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,South Africa,0,AB de Villiers,Mohammad Irfan,H Davids,,0,0,0,,,,330323303
+2,South Africa,0,AB de Villiers,Mohammad Irfan,H Davids,,0,1,1,,,,330323303
+2,South Africa,0,H Davids,Mohammad Irfan,AB de Villiers,,0,2,2,,,,330323303
+2,South Africa,0,H Davids,Mohammad Irfan,AB de Villiers,,0,4,4,,,,330323303
+2,South Africa,0,H Davids,Mohammad Irfan,AB de Villiers,legbyes,1,1,0,,,,330323303
+2,South Africa,0,AB de Villiers,Mohammad Irfan,H Davids,wides,1,1,0,,,,330323303
+2,South Africa,0,AB de Villiers,Mohammad Irfan,H Davids,wides,1,1,0,,,,330323303
+2,South Africa,0,AB de Villiers,Mohammad Irfan,H Davids,,0,2,2,,,,330323303
+2,South Africa,1,H Davids,Junaid Khan,AB de Villiers,,0,0,0,,,,330323303
+2,South Africa,1,H Davids,Junaid Khan,AB de Villiers,,0,1,1,,,,330323303
+2,South Africa,1,AB de Villiers,Junaid Khan,H Davids,,0,6,6,,,,330323303
+2,South Africa,1,AB de Villiers,Junaid Khan,H Davids,,0,0,0,,,,330323303
+2,South Africa,1,AB de Villiers,Junaid Khan,H Davids,,0,1,1,,,,330323303
+2,South Africa,1,H Davids,Junaid Khan,AB de Villiers,,0,0,0,caught,H Davids,Saeed Ajmal,330323303
+2,South Africa,2,AB de Villiers,Mohammad Irfan,F du Plessis,,0,0,0,,,,330323303
+2,South Africa,2,AB de Villiers,Mohammad Irfan,F du Plessis,,0,4,4,,,,330323303
+2,South Africa,2,AB de Villiers,Mohammad Irfan,F du Plessis,,0,0,0,,,,330323303
+2,South Africa,2,AB de Villiers,Mohammad Irfan,F du Plessis,,0,4,4,,,,330323303
+2,South Africa,2,AB de Villiers,Mohammad Irfan,F du Plessis,,0,6,6,,,,330323303
+2,South Africa,2,AB de Villiers,Mohammad Irfan,F du Plessis,,0,0,0,,,,330323303
+2,South Africa,3,F du Plessis,Junaid Khan,AB de Villiers,wides,1,1,0,,,,330323303
+2,South Africa,3,F du Plessis,Junaid Khan,AB de Villiers,,0,1,1,,,,330323303
+2,South Africa,3,AB de Villiers,Junaid Khan,F du Plessis,,0,0,0,,,,330323303
+2,South Africa,3,AB de Villiers,Junaid Khan,F du Plessis,,0,4,4,,,,330323303
+2,South Africa,3,AB de Villiers,Junaid Khan,F du Plessis,,0,1,1,,,,330323303
+2,South Africa,3,F du Plessis,Junaid Khan,AB de Villiers,,0,3,3,,,,330323303
+2,South Africa,3,AB de Villiers,Junaid Khan,F du Plessis,,0,4,4,,,,330323303
+2,South Africa,4,F du Plessis,Umar Gul,AB de Villiers,,0,2,2,,,,330323303
+2,South Africa,4,F du Plessis,Umar Gul,AB de Villiers,,0,0,0,caught,F du Plessis,Kamran Akmal,330323303
+2,South Africa,4,CH Morris,Umar Gul,AB de Villiers,,0,0,0,caught,CH Morris,Saeed Ajmal,330323303
+2,South Africa,4,AB de Villiers,Umar Gul,JL Ontong,,0,0,0,,,,330323303
+2,South Africa,4,AB de Villiers,Umar Gul,JL Ontong,,0,1,1,,,,330323303
+2,South Africa,4,JL Ontong,Umar Gul,AB de Villiers,,0,0,0,lbw,JL Ontong,,330323303
+2,South Africa,5,AB de Villiers,Mohammad Irfan,F Behardien,,0,0,0,,,,330323303
+2,South Africa,5,AB de Villiers,Mohammad Irfan,F Behardien,,0,0,0,,,,330323303
+2,South Africa,5,AB de Villiers,Mohammad Irfan,F Behardien,,0,2,2,,,,330323303
+2,South Africa,5,AB de Villiers,Mohammad Irfan,F Behardien,,0,0,0,bowled,AB de Villiers,,330323303
+2,South Africa,5,DA Miller,Mohammad Irfan,F Behardien,,0,0,0,,,,330323303
+2,South Africa,5,DA Miller,Mohammad Irfan,F Behardien,,0,0,0,,,,330323303
+2,South Africa,6,F Behardien,Umar Gul,DA Miller,,0,0,0,caught,F Behardien,Ahmed Shehzad,330323303
+2,South Africa,6,RJ Peterson,Umar Gul,DA Miller,,0,0,0,,,,330323303
+2,South Africa,6,RJ Peterson,Umar Gul,DA Miller,,0,1,1,,,,330323303
+2,South Africa,6,DA Miller,Umar Gul,RJ Peterson,,0,0,0,,,,330323303
+2,South Africa,6,DA Miller,Umar Gul,RJ Peterson,,0,0,0,,,,330323303
+2,South Africa,6,DA Miller,Umar Gul,RJ Peterson,,0,0,0,,,,330323303
+2,South Africa,7,RJ Peterson,Mohammad Hafeez,DA Miller,,0,1,1,,,,330323303
+2,South Africa,7,DA Miller,Mohammad Hafeez,RJ Peterson,,0,1,1,,,,330323303
+2,South Africa,7,RJ Peterson,Mohammad Hafeez,DA Miller,,0,1,1,,,,330323303
+2,South Africa,7,DA Miller,Mohammad Hafeez,RJ Peterson,,0,0,0,,,,330323303
+2,South Africa,7,DA Miller,Mohammad Hafeez,RJ Peterson,,0,2,2,,,,330323303
+2,South Africa,7,DA Miller,Mohammad Hafeez,RJ Peterson,,0,2,2,,,,330323303
+2,South Africa,8,RJ Peterson,Saeed Ajmal,DA Miller,,0,0,0,,,,330323303
+2,South Africa,8,RJ Peterson,Saeed Ajmal,DA Miller,,0,0,0,,,,330323303
+2,South Africa,8,RJ Peterson,Saeed Ajmal,DA Miller,,0,1,1,,,,330323303
+2,South Africa,8,DA Miller,Saeed Ajmal,RJ Peterson,,0,0,0,,,,330323303
+2,South Africa,8,DA Miller,Saeed Ajmal,RJ Peterson,,0,0,0,,,,330323303
+2,South Africa,8,DA Miller,Saeed Ajmal,RJ Peterson,,0,1,1,,,,330323303
+2,South Africa,9,DA Miller,Mohammad Hafeez,RJ Peterson,,0,2,2,,,,330323303
+2,South Africa,9,DA Miller,Mohammad Hafeez,RJ Peterson,,0,1,1,,,,330323303
+2,South Africa,9,RJ Peterson,Mohammad Hafeez,DA Miller,,0,0,0,,,,330323303
+2,South Africa,9,RJ Peterson,Mohammad Hafeez,DA Miller,,0,0,0,,,,330323303
+2,South Africa,9,RJ Peterson,Mohammad Hafeez,DA Miller,,0,1,1,,,,330323303
+2,South Africa,9,DA Miller,Mohammad Hafeez,RJ Peterson,,0,0,0,caught,DA Miller,Ahmed Shehzad,330323303
+2,South Africa,10,RJ Peterson,Saeed Ajmal,RK Kleinveldt,,0,4,4,,,,330323303
+2,South Africa,10,RJ Peterson,Saeed Ajmal,RK Kleinveldt,,0,3,3,,,,330323303
+2,South Africa,10,RK Kleinveldt,Saeed Ajmal,RJ Peterson,,0,0,0,,,,330323303
+2,South Africa,10,RK Kleinveldt,Saeed Ajmal,RJ Peterson,,0,4,4,,,,330323303
+2,South Africa,10,RK Kleinveldt,Saeed Ajmal,RJ Peterson,,0,6,6,,,,330323303
+2,South Africa,10,RK Kleinveldt,Saeed Ajmal,RJ Peterson,,0,0,0,,,,330323303
+2,South Africa,11,RJ Peterson,Mohammad Hafeez,RK Kleinveldt,,0,1,1,,,,330323303
+2,South Africa,11,RK Kleinveldt,Mohammad Hafeez,RJ Peterson,,0,6,6,,,,330323303
+2,South Africa,11,RK Kleinveldt,Mohammad Hafeez,RJ Peterson,,0,6,6,,,,330323303
+2,South Africa,11,RK Kleinveldt,Mohammad Hafeez,RJ Peterson,wides,1,1,0,,,,330323303
+2,South Africa,11,RK Kleinveldt,Mohammad Hafeez,RJ Peterson,,0,0,0,caught,RK Kleinveldt,Umar Akmal,330323303
+2,South Africa,11,RJ Peterson,Mohammad Hafeez,KJ Abbott,,0,0,0,caught,RJ Peterson,Shahid Afridi,330323303
+2,South Africa,11,LL Tsotsobe,Mohammad Hafeez,KJ Abbott,,0,0,0,,,,330323303
+2,South Africa,12,KJ Abbott,Umar Gul,LL Tsotsobe,,0,2,2,,,,330323303
+2,South Africa,12,KJ Abbott,Umar Gul,LL Tsotsobe,,0,0,0,caught,KJ Abbott,Kamran Akmal,330323303

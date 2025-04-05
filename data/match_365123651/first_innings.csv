@@ -1,0 +1,61 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Ireland,0,CMA Shillington,Jahanara Alam,GH Lewis,,0,2,2,,,,365123651
+1,Ireland,0,CMA Shillington,Jahanara Alam,GH Lewis,,0,1,1,,,,365123651
+1,Ireland,0,GH Lewis,Jahanara Alam,CMA Shillington,,0,0,0,,,,365123651
+1,Ireland,0,GH Lewis,Jahanara Alam,CMA Shillington,,0,1,1,,,,365123651
+1,Ireland,0,CMA Shillington,Jahanara Alam,GH Lewis,,0,0,0,,,,365123651
+1,Ireland,0,CMA Shillington,Jahanara Alam,GH Lewis,,0,0,0,,,,365123651
+1,Ireland,1,GH Lewis,Panna Ghosh,CMA Shillington,,0,0,0,,,,365123651
+1,Ireland,1,GH Lewis,Panna Ghosh,CMA Shillington,,0,1,1,,,,365123651
+1,Ireland,1,CMA Shillington,Panna Ghosh,GH Lewis,,0,0,0,,,,365123651
+1,Ireland,1,CMA Shillington,Panna Ghosh,GH Lewis,,0,0,0,,,,365123651
+1,Ireland,1,CMA Shillington,Panna Ghosh,GH Lewis,,0,2,2,,,,365123651
+1,Ireland,1,CMA Shillington,Panna Ghosh,GH Lewis,,0,1,1,,,,365123651
+1,Ireland,2,CMA Shillington,Ritu Moni,GH Lewis,,0,4,4,,,,365123651
+1,Ireland,2,CMA Shillington,Ritu Moni,GH Lewis,,0,1,1,,,,365123651
+1,Ireland,2,GH Lewis,Ritu Moni,CMA Shillington,,0,2,2,,,,365123651
+1,Ireland,2,GH Lewis,Ritu Moni,CMA Shillington,,0,0,0,caught,GH Lewis,Ayasha Rahman,365123651
+1,Ireland,2,CMA Shillington,Ritu Moni,SM Kavanagh,,0,4,4,,,,365123651
+1,Ireland,2,CMA Shillington,Ritu Moni,SM Kavanagh,,0,0,0,,,,365123651
+1,Ireland,3,SM Kavanagh,Nahida Akter,CMA Shillington,,0,0,0,,,,365123651
+1,Ireland,3,SM Kavanagh,Nahida Akter,CMA Shillington,,0,1,1,,,,365123651
+1,Ireland,3,CMA Shillington,Nahida Akter,SM Kavanagh,,0,1,1,,,,365123651
+1,Ireland,3,SM Kavanagh,Nahida Akter,CMA Shillington,,0,1,1,,,,365123651
+1,Ireland,3,CMA Shillington,Nahida Akter,SM Kavanagh,,0,2,2,,,,365123651
+1,Ireland,3,CMA Shillington,Nahida Akter,SM Kavanagh,,0,4,4,,,,365123651
+1,Ireland,4,SM Kavanagh,Fahima Khatun,CMA Shillington,,0,1,1,,,,365123651
+1,Ireland,4,CMA Shillington,Fahima Khatun,SM Kavanagh,,0,0,0,,,,365123651
+1,Ireland,4,CMA Shillington,Fahima Khatun,SM Kavanagh,,0,4,4,,,,365123651
+1,Ireland,4,CMA Shillington,Fahima Khatun,SM Kavanagh,,0,0,0,bowled,CMA Shillington,,365123651
+1,Ireland,4,J Gray,Fahima Khatun,SM Kavanagh,,0,0,0,,,,365123651
+1,Ireland,4,J Gray,Fahima Khatun,SM Kavanagh,,0,0,0,,,,365123651
+1,Ireland,5,SM Kavanagh,Panna Ghosh,J Gray,,0,1,1,,,,365123651
+1,Ireland,5,J Gray,Panna Ghosh,SM Kavanagh,,0,0,0,,,,365123651
+1,Ireland,5,J Gray,Panna Ghosh,SM Kavanagh,,0,1,1,,,,365123651
+1,Ireland,5,SM Kavanagh,Panna Ghosh,J Gray,,0,1,1,,,,365123651
+1,Ireland,5,J Gray,Panna Ghosh,SM Kavanagh,,0,0,0,caught,J Gray,Lata Mondal,365123651
+1,Ireland,5,SM Kavanagh,Panna Ghosh,MV Waldron,,0,0,0,,,,365123651
+1,Ireland,6,MV Waldron,Rumana Ahmed,SM Kavanagh,,0,0,0,,,,365123651
+1,Ireland,6,MV Waldron,Rumana Ahmed,SM Kavanagh,,0,2,2,,,,365123651
+1,Ireland,6,MV Waldron,Rumana Ahmed,SM Kavanagh,,0,1,1,,,,365123651
+1,Ireland,6,SM Kavanagh,Rumana Ahmed,MV Waldron,,0,1,1,,,,365123651
+1,Ireland,6,MV Waldron,Rumana Ahmed,SM Kavanagh,,0,2,2,,,,365123651
+1,Ireland,6,MV Waldron,Rumana Ahmed,SM Kavanagh,,0,1,1,,,,365123651
+1,Ireland,7,MV Waldron,Khadija Tul Kubra,SM Kavanagh,,0,0,0,,,,365123651
+1,Ireland,7,MV Waldron,Khadija Tul Kubra,SM Kavanagh,,0,1,1,,,,365123651
+1,Ireland,7,SM Kavanagh,Khadija Tul Kubra,MV Waldron,,0,1,1,,,,365123651
+1,Ireland,7,MV Waldron,Khadija Tul Kubra,SM Kavanagh,,0,0,0,,,,365123651
+1,Ireland,7,MV Waldron,Khadija Tul Kubra,SM Kavanagh,,0,0,0,,,,365123651
+1,Ireland,7,MV Waldron,Khadija Tul Kubra,SM Kavanagh,,0,0,0,caught and bowled,MV Waldron,,365123651
+1,Ireland,8,SM Kavanagh,Rumana Ahmed,IMHC Joyce,,0,0,0,,,,365123651
+1,Ireland,8,SM Kavanagh,Rumana Ahmed,IMHC Joyce,,0,0,0,,,,365123651
+1,Ireland,8,SM Kavanagh,Rumana Ahmed,IMHC Joyce,,0,0,0,stumped,SM Kavanagh,Nigar Sultana,365123651
+1,Ireland,8,KJ Garth,Rumana Ahmed,IMHC Joyce,,0,1,1,,,,365123651
+1,Ireland,8,IMHC Joyce,Rumana Ahmed,KJ Garth,,0,1,1,,,,365123651
+1,Ireland,8,KJ Garth,Rumana Ahmed,IMHC Joyce,,0,4,4,,,,365123651
+1,Ireland,9,IMHC Joyce,Khadija Tul Kubra,KJ Garth,,0,0,0,,,,365123651
+1,Ireland,9,IMHC Joyce,Khadija Tul Kubra,KJ Garth,,0,0,0,caught,IMHC Joyce,Jahanara Alam,365123651
+1,Ireland,9,L Delany,Khadija Tul Kubra,KJ Garth,,0,1,1,,,,365123651
+1,Ireland,9,KJ Garth,Khadija Tul Kubra,L Delany,,0,1,1,,,,365123651
+1,Ireland,9,L Delany,Khadija Tul Kubra,KJ Garth,,0,1,1,run out,L Delany,Nigar Sultana,365123651
+1,Ireland,9,AJ Kenealy,Khadija Tul Kubra,KJ Garth,,0,0,0,stumped,AJ Kenealy,Nigar Sultana,365123651

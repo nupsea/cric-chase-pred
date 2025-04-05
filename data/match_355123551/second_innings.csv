@@ -1,0 +1,94 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,England,0,AE Jones,S Ismail,CM Edwards,,0,0,0,,,,355123551
+2,England,0,AE Jones,S Ismail,CM Edwards,,0,4,4,,,,355123551
+2,England,0,AE Jones,S Ismail,CM Edwards,,0,4,4,,,,355123551
+2,England,0,AE Jones,S Ismail,CM Edwards,,0,2,2,,,,355123551
+2,England,0,AE Jones,S Ismail,CM Edwards,,0,4,4,,,,355123551
+2,England,0,AE Jones,S Ismail,CM Edwards,,0,0,0,caught,AE Jones,T Chetty,355123551
+2,England,1,CM Edwards,M Daniels,SJ Taylor,legbyes,1,1,0,,,,355123551
+2,England,1,SJ Taylor,M Daniels,CM Edwards,,0,0,0,,,,355123551
+2,England,1,SJ Taylor,M Daniels,CM Edwards,,0,4,4,,,,355123551
+2,England,1,SJ Taylor,M Daniels,CM Edwards,,0,1,1,,,,355123551
+2,England,1,CM Edwards,M Daniels,SJ Taylor,,0,1,1,,,,355123551
+2,England,1,SJ Taylor,M Daniels,CM Edwards,,0,0,0,,,,355123551
+2,England,2,CM Edwards,A Khaka,SJ Taylor,,0,1,1,,,,355123551
+2,England,2,SJ Taylor,A Khaka,CM Edwards,,0,0,0,,,,355123551
+2,England,2,SJ Taylor,A Khaka,CM Edwards,,0,4,4,,,,355123551
+2,England,2,SJ Taylor,A Khaka,CM Edwards,,0,4,4,,,,355123551
+2,England,2,SJ Taylor,A Khaka,CM Edwards,,0,0,0,,,,355123551
+2,England,2,SJ Taylor,A Khaka,CM Edwards,,0,0,0,,,,355123551
+2,England,3,CM Edwards,CL Tryon,SJ Taylor,,0,0,0,,,,355123551
+2,England,3,CM Edwards,CL Tryon,SJ Taylor,,0,0,0,caught,CM Edwards,L Lee,355123551
+2,England,3,SJ Taylor,CL Tryon,HC Knight,,0,1,1,,,,355123551
+2,England,3,HC Knight,CL Tryon,SJ Taylor,,0,0,0,,,,355123551
+2,England,3,HC Knight,CL Tryon,SJ Taylor,,0,0,0,,,,355123551
+2,England,3,HC Knight,CL Tryon,SJ Taylor,,0,6,6,,,,355123551
+2,England,4,SJ Taylor,M Daniels,HC Knight,,0,0,0,,,,355123551
+2,England,4,SJ Taylor,M Daniels,HC Knight,,0,4,4,,,,355123551
+2,England,4,SJ Taylor,M Daniels,HC Knight,,0,0,0,,,,355123551
+2,England,4,SJ Taylor,M Daniels,HC Knight,,0,1,1,,,,355123551
+2,England,4,HC Knight,M Daniels,SJ Taylor,,0,0,0,,,,355123551
+2,England,4,HC Knight,M Daniels,SJ Taylor,,0,0,0,,,,355123551
+2,England,5,SJ Taylor,CL Tryon,HC Knight,,0,4,4,,,,355123551
+2,England,5,SJ Taylor,CL Tryon,HC Knight,,0,4,4,,,,355123551
+2,England,5,SJ Taylor,CL Tryon,HC Knight,,0,0,0,,,,355123551
+2,England,5,SJ Taylor,CL Tryon,HC Knight,,0,4,4,,,,355123551
+2,England,5,SJ Taylor,CL Tryon,HC Knight,,0,0,0,,,,355123551
+2,England,5,SJ Taylor,CL Tryon,HC Knight,,0,0,0,,,,355123551
+2,England,6,HC Knight,D van Niekerk,SJ Taylor,,0,1,1,,,,355123551
+2,England,6,SJ Taylor,D van Niekerk,HC Knight,,0,2,2,,,,355123551
+2,England,6,SJ Taylor,D van Niekerk,HC Knight,,0,1,1,,,,355123551
+2,England,6,HC Knight,D van Niekerk,SJ Taylor,,0,1,1,,,,355123551
+2,England,6,SJ Taylor,D van Niekerk,HC Knight,,0,4,4,,,,355123551
+2,England,6,SJ Taylor,D van Niekerk,HC Knight,,0,0,0,,,,355123551
+2,England,7,HC Knight,D Devnarain,SJ Taylor,,0,1,1,,,,355123551
+2,England,7,SJ Taylor,D Devnarain,HC Knight,,0,1,1,,,,355123551
+2,England,7,HC Knight,D Devnarain,SJ Taylor,,0,2,2,,,,355123551
+2,England,7,HC Knight,D Devnarain,SJ Taylor,,0,6,6,,,,355123551
+2,England,7,HC Knight,D Devnarain,SJ Taylor,,0,1,1,,,,355123551
+2,England,7,SJ Taylor,D Devnarain,HC Knight,,0,1,1,,,,355123551
+2,England,8,SJ Taylor,S Ismail,HC Knight,,0,1,1,,,,355123551
+2,England,8,HC Knight,S Ismail,SJ Taylor,,0,1,1,,,,355123551
+2,England,8,SJ Taylor,S Ismail,HC Knight,,0,1,1,,,,355123551
+2,England,8,HC Knight,S Ismail,SJ Taylor,,0,1,1,,,,355123551
+2,England,8,SJ Taylor,S Ismail,HC Knight,,0,4,4,,,,355123551
+2,England,8,SJ Taylor,S Ismail,HC Knight,,0,1,1,,,,355123551
+2,England,9,SJ Taylor,M Daniels,HC Knight,,0,1,1,,,,355123551
+2,England,9,HC Knight,M Daniels,SJ Taylor,,0,0,0,,,,355123551
+2,England,9,HC Knight,M Daniels,SJ Taylor,,0,1,1,,,,355123551
+2,England,9,SJ Taylor,M Daniels,HC Knight,,0,1,1,,,,355123551
+2,England,9,HC Knight,M Daniels,SJ Taylor,,0,4,4,,,,355123551
+2,England,9,HC Knight,M Daniels,SJ Taylor,,0,0,0,,,,355123551
+2,England,10,SJ Taylor,S Luus,HC Knight,,0,1,1,,,,355123551
+2,England,10,HC Knight,S Luus,SJ Taylor,,0,0,0,caught,HC Knight,T Chetty,355123551
+2,England,10,SJ Taylor,S Luus,TT Beaumont,,0,1,1,,,,355123551
+2,England,10,TT Beaumont,S Luus,SJ Taylor,,0,0,0,,,,355123551
+2,England,10,TT Beaumont,S Luus,SJ Taylor,,0,1,1,,,,355123551
+2,England,10,SJ Taylor,S Luus,TT Beaumont,,0,1,1,,,,355123551
+2,England,11,SJ Taylor,M Daniels,TT Beaumont,,0,1,1,,,,355123551
+2,England,11,TT Beaumont,M Daniels,SJ Taylor,,0,4,4,,,,355123551
+2,England,11,TT Beaumont,M Daniels,SJ Taylor,,0,0,0,,,,355123551
+2,England,11,TT Beaumont,M Daniels,SJ Taylor,,0,0,0,,,,355123551
+2,England,11,TT Beaumont,M Daniels,SJ Taylor,,0,0,0,,,,355123551
+2,England,11,TT Beaumont,M Daniels,SJ Taylor,,0,1,1,,,,355123551
+2,England,12,TT Beaumont,S Luus,SJ Taylor,,0,0,0,,,,355123551
+2,England,12,TT Beaumont,S Luus,SJ Taylor,,0,6,6,,,,355123551
+2,England,12,TT Beaumont,S Luus,SJ Taylor,,0,1,1,,,,355123551
+2,England,12,SJ Taylor,S Luus,TT Beaumont,,0,1,1,,,,355123551
+2,England,12,TT Beaumont,S Luus,SJ Taylor,,0,0,0,,,,355123551
+2,England,12,TT Beaumont,S Luus,SJ Taylor,,0,0,0,,,,355123551
+2,England,13,SJ Taylor,D van Niekerk,TT Beaumont,,0,4,4,,,,355123551
+2,England,13,SJ Taylor,D van Niekerk,TT Beaumont,,0,2,2,,,,355123551
+2,England,13,SJ Taylor,D van Niekerk,TT Beaumont,,0,0,0,caught and bowled,SJ Taylor,,355123551
+2,England,13,NR Sciver,D van Niekerk,TT Beaumont,,0,1,1,,,,355123551
+2,England,13,TT Beaumont,D van Niekerk,NR Sciver,,0,3,3,,,,355123551
+2,England,13,NR Sciver,D van Niekerk,TT Beaumont,,0,0,0,,,,355123551
+2,England,14,TT Beaumont,S Ismail,NR Sciver,legbyes,1,1,0,,,,355123551
+2,England,14,NR Sciver,S Ismail,TT Beaumont,,0,0,0,bowled,NR Sciver,,355123551
+2,England,14,DN Wyatt,S Ismail,TT Beaumont,,0,0,0,,,,355123551
+2,England,14,DN Wyatt,S Ismail,TT Beaumont,,0,0,0,bowled,DN Wyatt,,355123551
+2,England,14,JL Gunn,S Ismail,TT Beaumont,,0,4,4,,,,355123551
+2,England,14,JL Gunn,S Ismail,TT Beaumont,,0,0,0,,,,355123551
+2,England,15,TT Beaumont,D van Niekerk,JL Gunn,,0,4,4,,,,355123551
+2,England,15,TT Beaumont,D van Niekerk,JL Gunn,,0,1,1,,,,355123551
+2,England,15,JL Gunn,D van Niekerk,TT Beaumont,,0,4,4,,,,355123551

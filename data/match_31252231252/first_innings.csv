@@ -1,0 +1,96 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Netherlands,0,TP Visee,Bilal Khan,MP O'Dowd,,0,0,0,,,,31252231252
+1,Netherlands,0,TP Visee,Bilal Khan,MP O'Dowd,,0,1,1,,,,31252231252
+1,Netherlands,0,MP O'Dowd,Bilal Khan,TP Visee,,0,0,0,,,,31252231252
+1,Netherlands,0,MP O'Dowd,Bilal Khan,TP Visee,,0,0,0,,,,31252231252
+1,Netherlands,0,MP O'Dowd,Bilal Khan,TP Visee,,0,4,4,,,,31252231252
+1,Netherlands,0,MP O'Dowd,Bilal Khan,TP Visee,,0,0,0,,,,31252231252
+1,Netherlands,1,TP Visee,Aamir Kaleem,MP O'Dowd,,0,0,0,,,,31252231252
+1,Netherlands,1,TP Visee,Aamir Kaleem,MP O'Dowd,,0,1,1,,,,31252231252
+1,Netherlands,1,MP O'Dowd,Aamir Kaleem,TP Visee,,0,4,4,,,,31252231252
+1,Netherlands,1,MP O'Dowd,Aamir Kaleem,TP Visee,,0,0,0,,,,31252231252
+1,Netherlands,1,MP O'Dowd,Aamir Kaleem,TP Visee,,0,0,0,,,,31252231252
+1,Netherlands,1,MP O'Dowd,Aamir Kaleem,TP Visee,,0,2,2,,,,31252231252
+1,Netherlands,2,TP Visee,Bilal Khan,MP O'Dowd,,0,4,4,,,,31252231252
+1,Netherlands,2,TP Visee,Bilal Khan,MP O'Dowd,,0,0,0,,,,31252231252
+1,Netherlands,2,TP Visee,Bilal Khan,MP O'Dowd,,0,0,0,,,,31252231252
+1,Netherlands,2,TP Visee,Bilal Khan,MP O'Dowd,,0,4,4,,,,31252231252
+1,Netherlands,2,TP Visee,Bilal Khan,MP O'Dowd,,0,1,1,,,,31252231252
+1,Netherlands,2,MP O'Dowd,Bilal Khan,TP Visee,,0,0,0,,,,31252231252
+1,Netherlands,3,TP Visee,Aamir Kaleem,MP O'Dowd,,0,0,0,bowled,TP Visee,,31252231252
+1,Netherlands,3,AJ Staal,Aamir Kaleem,MP O'Dowd,,0,1,1,,,,31252231252
+1,Netherlands,3,MP O'Dowd,Aamir Kaleem,AJ Staal,,0,3,3,,,,31252231252
+1,Netherlands,3,AJ Staal,Aamir Kaleem,MP O'Dowd,,0,0,0,,,,31252231252
+1,Netherlands,3,AJ Staal,Aamir Kaleem,MP O'Dowd,,0,0,0,,,,31252231252
+1,Netherlands,3,AJ Staal,Aamir Kaleem,MP O'Dowd,,0,6,6,,,,31252231252
+1,Netherlands,4,MP O'Dowd,Fayyaz Butt,AJ Staal,,0,0,0,,,,31252231252
+1,Netherlands,4,MP O'Dowd,Fayyaz Butt,AJ Staal,,0,6,6,,,,31252231252
+1,Netherlands,4,MP O'Dowd,Fayyaz Butt,AJ Staal,,0,0,0,,,,31252231252
+1,Netherlands,4,MP O'Dowd,Fayyaz Butt,AJ Staal,,0,4,4,,,,31252231252
+1,Netherlands,4,MP O'Dowd,Fayyaz Butt,AJ Staal,,0,1,1,,,,31252231252
+1,Netherlands,4,AJ Staal,Fayyaz Butt,MP O'Dowd,,0,0,0,,,,31252231252
+1,Netherlands,5,MP O'Dowd,Mohammad Nadeem,AJ Staal,,0,0,0,,,,31252231252
+1,Netherlands,5,MP O'Dowd,Mohammad Nadeem,AJ Staal,,0,0,0,,,,31252231252
+1,Netherlands,5,MP O'Dowd,Mohammad Nadeem,AJ Staal,,0,0,0,bowled,MP O'Dowd,,31252231252
+1,Netherlands,5,CN Ackermann,Mohammad Nadeem,AJ Staal,,0,1,1,,,,31252231252
+1,Netherlands,5,AJ Staal,Mohammad Nadeem,CN Ackermann,,0,0,0,,,,31252231252
+1,Netherlands,5,AJ Staal,Mohammad Nadeem,CN Ackermann,,0,0,0,,,,31252231252
+1,Netherlands,6,CN Ackermann,Fayyaz Butt,AJ Staal,,0,1,1,,,,31252231252
+1,Netherlands,6,AJ Staal,Fayyaz Butt,CN Ackermann,,0,1,1,,,,31252231252
+1,Netherlands,6,CN Ackermann,Fayyaz Butt,AJ Staal,,0,0,0,,,,31252231252
+1,Netherlands,6,CN Ackermann,Fayyaz Butt,AJ Staal,,0,1,1,,,,31252231252
+1,Netherlands,6,AJ Staal,Fayyaz Butt,CN Ackermann,,0,0,0,,,,31252231252
+1,Netherlands,6,AJ Staal,Fayyaz Butt,CN Ackermann,,0,2,2,,,,31252231252
+1,Netherlands,7,CN Ackermann,Mohammad Nadeem,AJ Staal,,0,2,2,,,,31252231252
+1,Netherlands,7,CN Ackermann,Mohammad Nadeem,AJ Staal,,0,1,1,,,,31252231252
+1,Netherlands,7,AJ Staal,Mohammad Nadeem,CN Ackermann,,0,2,2,,,,31252231252
+1,Netherlands,7,AJ Staal,Mohammad Nadeem,CN Ackermann,,0,0,0,,,,31252231252
+1,Netherlands,7,AJ Staal,Mohammad Nadeem,CN Ackermann,,0,1,1,,,,31252231252
+1,Netherlands,7,CN Ackermann,Mohammad Nadeem,AJ Staal,wides,1,1,0,,,,31252231252
+1,Netherlands,7,CN Ackermann,Mohammad Nadeem,AJ Staal,,0,4,4,,,,31252231252
+1,Netherlands,8,AJ Staal,Fayyaz Butt,CN Ackermann,,0,1,1,,,,31252231252
+1,Netherlands,8,CN Ackermann,Fayyaz Butt,AJ Staal,,0,1,1,,,,31252231252
+1,Netherlands,8,AJ Staal,Fayyaz Butt,CN Ackermann,wides,1,1,0,,,,31252231252
+1,Netherlands,8,AJ Staal,Fayyaz Butt,CN Ackermann,,0,4,4,,,,31252231252
+1,Netherlands,8,AJ Staal,Fayyaz Butt,CN Ackermann,,0,0,0,,,,31252231252
+1,Netherlands,8,AJ Staal,Fayyaz Butt,CN Ackermann,,0,1,1,,,,31252231252
+1,Netherlands,8,CN Ackermann,Fayyaz Butt,AJ Staal,,0,4,4,,,,31252231252
+1,Netherlands,9,AJ Staal,Khawar Ali,CN Ackermann,,0,0,0,caught,AJ Staal,Aqib Ilyas,31252231252
+1,Netherlands,9,CN Ackermann,Khawar Ali,PM Seelaar,,0,0,0,caught,CN Ackermann,Zeeshan Maqsood,31252231252
+1,Netherlands,9,RE van der Merwe,Khawar Ali,PM Seelaar,,0,0,0,lbw,RE van der Merwe,,31252231252
+1,Netherlands,9,SA Edwards,Khawar Ali,PM Seelaar,,0,1,1,,,,31252231252
+1,Netherlands,9,PM Seelaar,Khawar Ali,SA Edwards,,0,0,0,,,,31252231252
+1,Netherlands,9,PM Seelaar,Khawar Ali,SA Edwards,,0,1,1,,,,31252231252
+1,Netherlands,10,PM Seelaar,Zeeshan Maqsood,SA Edwards,,0,1,1,,,,31252231252
+1,Netherlands,10,SA Edwards,Zeeshan Maqsood,PM Seelaar,,0,1,1,,,,31252231252
+1,Netherlands,10,PM Seelaar,Zeeshan Maqsood,SA Edwards,,0,0,0,,,,31252231252
+1,Netherlands,10,PM Seelaar,Zeeshan Maqsood,SA Edwards,,0,0,0,caught,PM Seelaar,Suraj Kumar,31252231252
+1,Netherlands,10,S Snater,Zeeshan Maqsood,SA Edwards,,0,0,0,bowled,S Snater,,31252231252
+1,Netherlands,10,FJ Klaassen,Zeeshan Maqsood,SA Edwards,,0,0,0,,,,31252231252
+1,Netherlands,11,SA Edwards,Khawar Ali,FJ Klaassen,,0,2,2,,,,31252231252
+1,Netherlands,11,SA Edwards,Khawar Ali,FJ Klaassen,,0,0,0,,,,31252231252
+1,Netherlands,11,SA Edwards,Khawar Ali,FJ Klaassen,,0,1,1,,,,31252231252
+1,Netherlands,11,FJ Klaassen,Khawar Ali,SA Edwards,,0,1,1,,,,31252231252
+1,Netherlands,11,SA Edwards,Khawar Ali,FJ Klaassen,,0,4,4,,,,31252231252
+1,Netherlands,11,SA Edwards,Khawar Ali,FJ Klaassen,,0,1,1,,,,31252231252
+1,Netherlands,12,SA Edwards,Zeeshan Maqsood,FJ Klaassen,,0,2,2,,,,31252231252
+1,Netherlands,12,SA Edwards,Zeeshan Maqsood,FJ Klaassen,,0,1,1,,,,31252231252
+1,Netherlands,12,FJ Klaassen,Zeeshan Maqsood,SA Edwards,,0,1,1,,,,31252231252
+1,Netherlands,12,SA Edwards,Zeeshan Maqsood,FJ Klaassen,,0,0,0,lbw,SA Edwards,,31252231252
+1,Netherlands,12,PA van Meekeren,Zeeshan Maqsood,FJ Klaassen,,0,0,0,,,,31252231252
+1,Netherlands,12,PA van Meekeren,Zeeshan Maqsood,FJ Klaassen,,0,0,0,,,,31252231252
+1,Netherlands,13,FJ Klaassen,Khawar Ali,PA van Meekeren,,0,1,1,,,,31252231252
+1,Netherlands,13,PA van Meekeren,Khawar Ali,FJ Klaassen,,0,0,0,,,,31252231252
+1,Netherlands,13,PA van Meekeren,Khawar Ali,FJ Klaassen,,0,0,0,,,,31252231252
+1,Netherlands,13,PA van Meekeren,Khawar Ali,FJ Klaassen,,0,1,1,,,,31252231252
+1,Netherlands,13,FJ Klaassen,Khawar Ali,PA van Meekeren,,0,2,2,,,,31252231252
+1,Netherlands,13,FJ Klaassen,Khawar Ali,PA van Meekeren,,0,0,0,,,,31252231252
+1,Netherlands,14,PA van Meekeren,Zeeshan Maqsood,FJ Klaassen,,0,1,1,,,,31252231252
+1,Netherlands,14,FJ Klaassen,Zeeshan Maqsood,PA van Meekeren,,0,0,0,caught,FJ Klaassen,Aqib Ilyas,31252231252
+1,Netherlands,14,BD Glover,Zeeshan Maqsood,PA van Meekeren,,0,0,0,,,,31252231252
+1,Netherlands,14,BD Glover,Zeeshan Maqsood,PA van Meekeren,,0,0,0,,,,31252231252
+1,Netherlands,14,BD Glover,Zeeshan Maqsood,PA van Meekeren,,0,0,0,,,,31252231252
+1,Netherlands,14,BD Glover,Zeeshan Maqsood,PA van Meekeren,,0,0,0,,,,31252231252
+1,Netherlands,15,PA van Meekeren,Khawar Ali,BD Glover,,0,1,1,,,,31252231252
+1,Netherlands,15,BD Glover,Khawar Ali,PA van Meekeren,,0,0,0,,,,31252231252
+1,Netherlands,15,BD Glover,Khawar Ali,PA van Meekeren,,0,0,0,bowled,BD Glover,,31252231252

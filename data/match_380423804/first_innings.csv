@@ -1,0 +1,134 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Bangladesh,0,Tamim Iqbal,JD Unadkat,Soumya Sarkar,,0,0,0,,,,380423804
+1,Bangladesh,0,Tamim Iqbal,JD Unadkat,Soumya Sarkar,,0,1,1,,,,380423804
+1,Bangladesh,0,Soumya Sarkar,JD Unadkat,Tamim Iqbal,,0,0,0,,,,380423804
+1,Bangladesh,0,Soumya Sarkar,JD Unadkat,Tamim Iqbal,,0,1,1,,,,380423804
+1,Bangladesh,0,Tamim Iqbal,JD Unadkat,Soumya Sarkar,,0,3,3,,,,380423804
+1,Bangladesh,0,Soumya Sarkar,JD Unadkat,Tamim Iqbal,,0,1,1,,,,380423804
+1,Bangladesh,1,Soumya Sarkar,Washington Sundar,Tamim Iqbal,,0,4,4,,,,380423804
+1,Bangladesh,1,Soumya Sarkar,Washington Sundar,Tamim Iqbal,,0,0,0,,,,380423804
+1,Bangladesh,1,Soumya Sarkar,Washington Sundar,Tamim Iqbal,,0,0,0,,,,380423804
+1,Bangladesh,1,Soumya Sarkar,Washington Sundar,Tamim Iqbal,,0,0,0,,,,380423804
+1,Bangladesh,1,Soumya Sarkar,Washington Sundar,Tamim Iqbal,,0,0,0,,,,380423804
+1,Bangladesh,1,Soumya Sarkar,Washington Sundar,Tamim Iqbal,,0,0,0,,,,380423804
+1,Bangladesh,2,Tamim Iqbal,JD Unadkat,Soumya Sarkar,,0,1,1,,,,380423804
+1,Bangladesh,2,Soumya Sarkar,JD Unadkat,Tamim Iqbal,,0,6,6,,,,380423804
+1,Bangladesh,2,Soumya Sarkar,JD Unadkat,Tamim Iqbal,,0,2,2,,,,380423804
+1,Bangladesh,2,Soumya Sarkar,JD Unadkat,Tamim Iqbal,wides,1,1,0,,,,380423804
+1,Bangladesh,2,Soumya Sarkar,JD Unadkat,Tamim Iqbal,,0,0,0,caught,Soumya Sarkar,YS Chahal,380423804
+1,Bangladesh,2,Liton Das,JD Unadkat,Tamim Iqbal,,0,1,1,,,,380423804
+1,Bangladesh,2,Tamim Iqbal,JD Unadkat,Liton Das,,0,1,1,,,,380423804
+1,Bangladesh,3,Tamim Iqbal,Washington Sundar,Liton Das,,0,0,0,,,,380423804
+1,Bangladesh,3,Tamim Iqbal,Washington Sundar,Liton Das,,0,0,0,,,,380423804
+1,Bangladesh,3,Tamim Iqbal,Washington Sundar,Liton Das,,0,0,0,,,,380423804
+1,Bangladesh,3,Tamim Iqbal,Washington Sundar,Liton Das,,0,0,0,,,,380423804
+1,Bangladesh,3,Tamim Iqbal,Washington Sundar,Liton Das,,0,1,1,,,,380423804
+1,Bangladesh,3,Liton Das,Washington Sundar,Tamim Iqbal,,0,4,4,,,,380423804
+1,Bangladesh,4,Tamim Iqbal,SN Thakur,Liton Das,,0,0,0,,,,380423804
+1,Bangladesh,4,Tamim Iqbal,SN Thakur,Liton Das,,0,0,0,,,,380423804
+1,Bangladesh,4,Tamim Iqbal,SN Thakur,Liton Das,,0,0,0,,,,380423804
+1,Bangladesh,4,Tamim Iqbal,SN Thakur,Liton Das,,0,4,4,,,,380423804
+1,Bangladesh,4,Tamim Iqbal,SN Thakur,Liton Das,,0,4,4,,,,380423804
+1,Bangladesh,4,Tamim Iqbal,SN Thakur,Liton Das,,0,0,0,caught,Tamim Iqbal,JD Unadkat,380423804
+1,Bangladesh,5,Mushfiqur Rahim,YS Chahal,Liton Das,,0,0,0,,,,380423804
+1,Bangladesh,5,Mushfiqur Rahim,YS Chahal,Liton Das,,0,0,0,,,,380423804
+1,Bangladesh,5,Mushfiqur Rahim,YS Chahal,Liton Das,,0,0,0,,,,380423804
+1,Bangladesh,5,Mushfiqur Rahim,YS Chahal,Liton Das,,0,4,4,,,,380423804
+1,Bangladesh,5,Mushfiqur Rahim,YS Chahal,Liton Das,,0,4,4,,,,380423804
+1,Bangladesh,5,Mushfiqur Rahim,YS Chahal,Liton Das,,0,1,1,,,,380423804
+1,Bangladesh,6,Mushfiqur Rahim,V Shankar,Liton Das,,0,1,1,,,,380423804
+1,Bangladesh,6,Liton Das,V Shankar,Mushfiqur Rahim,,0,2,2,,,,380423804
+1,Bangladesh,6,Liton Das,V Shankar,Mushfiqur Rahim,,0,1,1,,,,380423804
+1,Bangladesh,6,Mushfiqur Rahim,V Shankar,Liton Das,,0,1,1,,,,380423804
+1,Bangladesh,6,Liton Das,V Shankar,Mushfiqur Rahim,,0,2,2,,,,380423804
+1,Bangladesh,6,Liton Das,V Shankar,Mushfiqur Rahim,,0,0,0,,,,380423804
+1,Bangladesh,7,Mushfiqur Rahim,YS Chahal,Liton Das,,0,0,0,,,,380423804
+1,Bangladesh,7,Mushfiqur Rahim,YS Chahal,Liton Das,,0,0,0,,,,380423804
+1,Bangladesh,7,Mushfiqur Rahim,YS Chahal,Liton Das,,0,1,1,,,,380423804
+1,Bangladesh,7,Liton Das,YS Chahal,Mushfiqur Rahim,,0,1,1,,,,380423804
+1,Bangladesh,7,Mushfiqur Rahim,YS Chahal,Liton Das,legbyes,1,1,0,,,,380423804
+1,Bangladesh,7,Liton Das,YS Chahal,Mushfiqur Rahim,,0,1,1,,,,380423804
+1,Bangladesh,8,Liton Das,V Shankar,Mushfiqur Rahim,,0,4,4,,,,380423804
+1,Bangladesh,8,Liton Das,V Shankar,Mushfiqur Rahim,,0,0,0,,,,380423804
+1,Bangladesh,8,Liton Das,V Shankar,Mushfiqur Rahim,,0,1,1,,,,380423804
+1,Bangladesh,8,Mushfiqur Rahim,V Shankar,Liton Das,,0,6,6,,,,380423804
+1,Bangladesh,8,Mushfiqur Rahim,V Shankar,Liton Das,,0,0,0,caught,Mushfiqur Rahim,KD Karthik,380423804
+1,Bangladesh,8,Mahmudullah,V Shankar,Liton Das,,0,0,0,,,,380423804
+1,Bangladesh,9,Liton Das,YS Chahal,Mahmudullah,,0,1,1,,,,380423804
+1,Bangladesh,9,Mahmudullah,YS Chahal,Liton Das,,0,0,0,,,,380423804
+1,Bangladesh,9,Mahmudullah,YS Chahal,Liton Das,,0,0,0,,,,380423804
+1,Bangladesh,9,Mahmudullah,YS Chahal,Liton Das,,0,1,1,,,,380423804
+1,Bangladesh,9,Liton Das,YS Chahal,Mahmudullah,,0,1,1,,,,380423804
+1,Bangladesh,9,Mahmudullah,YS Chahal,Liton Das,,0,0,0,,,,380423804
+1,Bangladesh,10,Liton Das,V Shankar,Mahmudullah,,0,0,0,,,,380423804
+1,Bangladesh,10,Liton Das,V Shankar,Mahmudullah,noballs,1,1,0,,,,380423804
+1,Bangladesh,10,Liton Das,V Shankar,Mahmudullah,wides,1,1,0,,,,380423804
+1,Bangladesh,10,Liton Das,V Shankar,Mahmudullah,,0,1,1,,,,380423804
+1,Bangladesh,10,Mahmudullah,V Shankar,Liton Das,,0,0,0,,,,380423804
+1,Bangladesh,10,Mahmudullah,V Shankar,Liton Das,,0,0,0,,,,380423804
+1,Bangladesh,10,Mahmudullah,V Shankar,Liton Das,,0,0,0,caught,Mahmudullah,SN Thakur,380423804
+1,Bangladesh,10,Liton Das,V Shankar,Sabbir Rahman,,0,0,0,,,,380423804
+1,Bangladesh,11,Sabbir Rahman,Washington Sundar,Liton Das,,0,0,0,,,,380423804
+1,Bangladesh,11,Sabbir Rahman,Washington Sundar,Liton Das,,0,0,0,,,,380423804
+1,Bangladesh,11,Sabbir Rahman,Washington Sundar,Liton Das,,0,1,1,,,,380423804
+1,Bangladesh,11,Liton Das,Washington Sundar,Sabbir Rahman,wides,1,1,0,,,,380423804
+1,Bangladesh,11,Liton Das,Washington Sundar,Sabbir Rahman,,0,0,0,,,,380423804
+1,Bangladesh,11,Liton Das,Washington Sundar,Sabbir Rahman,,0,1,1,,,,380423804
+1,Bangladesh,11,Sabbir Rahman,Washington Sundar,Liton Das,,0,0,0,,,,380423804
+1,Bangladesh,12,Liton Das,SN Thakur,Sabbir Rahman,,0,2,2,,,,380423804
+1,Bangladesh,12,Liton Das,SN Thakur,Sabbir Rahman,,0,1,1,,,,380423804
+1,Bangladesh,12,Sabbir Rahman,SN Thakur,Liton Das,,0,1,1,,,,380423804
+1,Bangladesh,12,Liton Das,SN Thakur,Sabbir Rahman,,0,0,0,,,,380423804
+1,Bangladesh,12,Liton Das,SN Thakur,Sabbir Rahman,,0,1,1,,,,380423804
+1,Bangladesh,12,Sabbir Rahman,SN Thakur,Liton Das,wides,1,1,0,,,,380423804
+1,Bangladesh,12,Sabbir Rahman,SN Thakur,Liton Das,,0,4,4,,,,380423804
+1,Bangladesh,13,Liton Das,Washington Sundar,Sabbir Rahman,,0,4,4,,,,380423804
+1,Bangladesh,13,Liton Das,Washington Sundar,Sabbir Rahman,,0,1,1,,,,380423804
+1,Bangladesh,13,Sabbir Rahman,Washington Sundar,Liton Das,,0,1,1,,,,380423804
+1,Bangladesh,13,Liton Das,Washington Sundar,Sabbir Rahman,,0,2,2,,,,380423804
+1,Bangladesh,13,Liton Das,Washington Sundar,Sabbir Rahman,wides,1,1,0,,,,380423804
+1,Bangladesh,13,Liton Das,Washington Sundar,Sabbir Rahman,,0,1,1,,,,380423804
+1,Bangladesh,13,Sabbir Rahman,Washington Sundar,Liton Das,,0,1,1,,,,380423804
+1,Bangladesh,14,Sabbir Rahman,V Shankar,Liton Das,,0,1,1,,,,380423804
+1,Bangladesh,14,Liton Das,V Shankar,Sabbir Rahman,,0,0,0,,,,380423804
+1,Bangladesh,14,Liton Das,V Shankar,Sabbir Rahman,,0,1,1,,,,380423804
+1,Bangladesh,14,Sabbir Rahman,V Shankar,Liton Das,,0,0,0,,,,380423804
+1,Bangladesh,14,Sabbir Rahman,V Shankar,Liton Das,,0,2,2,,,,380423804
+1,Bangladesh,14,Sabbir Rahman,V Shankar,Liton Das,wides,1,1,0,,,,380423804
+1,Bangladesh,14,Sabbir Rahman,V Shankar,Liton Das,wides,1,1,0,,,,380423804
+1,Bangladesh,14,Sabbir Rahman,V Shankar,Liton Das,noballs,1,1,0,,,,380423804
+1,Bangladesh,14,Sabbir Rahman,V Shankar,Liton Das,,0,4,4,,,,380423804
+1,Bangladesh,15,Liton Das,YS Chahal,Sabbir Rahman,,0,0,0,caught,Liton Das,SK Raina,380423804
+1,Bangladesh,15,Sabbir Rahman,YS Chahal,Mehedi Hasan Miraz,,0,0,0,,,,380423804
+1,Bangladesh,15,Sabbir Rahman,YS Chahal,Mehedi Hasan Miraz,,0,1,1,,,,380423804
+1,Bangladesh,15,Mehedi Hasan Miraz,YS Chahal,Sabbir Rahman,,0,1,1,,,,380423804
+1,Bangladesh,15,Sabbir Rahman,YS Chahal,Mehedi Hasan Miraz,,0,1,1,,,,380423804
+1,Bangladesh,15,Mehedi Hasan Miraz,YS Chahal,Sabbir Rahman,,0,1,1,,,,380423804
+1,Bangladesh,16,Mehedi Hasan Miraz,JD Unadkat,Sabbir Rahman,,0,1,1,,,,380423804
+1,Bangladesh,16,Sabbir Rahman,JD Unadkat,Mehedi Hasan Miraz,,0,4,4,,,,380423804
+1,Bangladesh,16,Sabbir Rahman,JD Unadkat,Mehedi Hasan Miraz,,0,1,1,,,,380423804
+1,Bangladesh,16,Mehedi Hasan Miraz,JD Unadkat,Sabbir Rahman,wides,1,1,0,,,,380423804
+1,Bangladesh,16,Mehedi Hasan Miraz,JD Unadkat,Sabbir Rahman,,0,0,0,caught,Mehedi Hasan Miraz,MK Pandey,380423804
+1,Bangladesh,16,Sabbir Rahman,JD Unadkat,Taskin Ahmed,,0,1,1,,,,380423804
+1,Bangladesh,16,Taskin Ahmed,JD Unadkat,Sabbir Rahman,,0,0,0,,,,380423804
+1,Bangladesh,17,Sabbir Rahman,SN Thakur,Taskin Ahmed,,0,0,0,,,,380423804
+1,Bangladesh,17,Sabbir Rahman,SN Thakur,Taskin Ahmed,,0,0,0,,,,380423804
+1,Bangladesh,17,Sabbir Rahman,SN Thakur,Taskin Ahmed,,0,0,0,,,,380423804
+1,Bangladesh,17,Sabbir Rahman,SN Thakur,Taskin Ahmed,,0,1,1,,,,380423804
+1,Bangladesh,17,Taskin Ahmed,SN Thakur,Sabbir Rahman,,0,0,0,,,,380423804
+1,Bangladesh,17,Taskin Ahmed,SN Thakur,Sabbir Rahman,,0,1,1,,,,380423804
+1,Bangladesh,18,Taskin Ahmed,JD Unadkat,Sabbir Rahman,,0,4,4,,,,380423804
+1,Bangladesh,18,Taskin Ahmed,JD Unadkat,Sabbir Rahman,legbyes,1,1,0,,,,380423804
+1,Bangladesh,18,Sabbir Rahman,JD Unadkat,Taskin Ahmed,,0,6,6,,,,380423804
+1,Bangladesh,18,Sabbir Rahman,JD Unadkat,Taskin Ahmed,,0,0,0,,,,380423804
+1,Bangladesh,18,Sabbir Rahman,JD Unadkat,Taskin Ahmed,wides,1,1,0,,,,380423804
+1,Bangladesh,18,Sabbir Rahman,JD Unadkat,Taskin Ahmed,wides,1,1,0,,,,380423804
+1,Bangladesh,18,Sabbir Rahman,JD Unadkat,Taskin Ahmed,,0,0,0,caught,Sabbir Rahman,KD Karthik,380423804
+1,Bangladesh,18,Rubel Hossain,JD Unadkat,Taskin Ahmed,,0,0,0,,,,380423804
+1,Bangladesh,19,Taskin Ahmed,SN Thakur,Rubel Hossain,,0,0,0,,,,380423804
+1,Bangladesh,19,Taskin Ahmed,SN Thakur,Rubel Hossain,,0,1,1,run out,Rubel Hossain,,380423804
+1,Bangladesh,19,Taskin Ahmed,SN Thakur,Mustafizur Rahman,,0,1,1,,,,380423804
+1,Bangladesh,19,Mustafizur Rahman,SN Thakur,Taskin Ahmed,,0,0,0,,,,380423804
+1,Bangladesh,19,Mustafizur Rahman,SN Thakur,Taskin Ahmed,,0,1,1,,,,380423804
+1,Bangladesh,19,Taskin Ahmed,SN Thakur,Mustafizur Rahman,wides,1,1,0,,,,380423804
+1,Bangladesh,19,Taskin Ahmed,SN Thakur,Mustafizur Rahman,,0,1,1,,,,380423804

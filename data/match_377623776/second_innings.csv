@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Sri Lanka,0,BYA Mendis,SC Selman,MDN Hansika,,0,0,0,,,,377623776
+2,Sri Lanka,0,BYA Mendis,SC Selman,MDN Hansika,,0,0,0,,,,377623776
+2,Sri Lanka,0,BYA Mendis,SC Selman,MDN Hansika,legbyes,1,1,0,,,,377623776
+2,Sri Lanka,0,MDN Hansika,SC Selman,BYA Mendis,,0,2,2,,,,377623776
+2,Sri Lanka,0,MDN Hansika,SC Selman,BYA Mendis,,0,0,0,,,,377623776
+2,Sri Lanka,0,MDN Hansika,SC Selman,BYA Mendis,,0,2,2,,,,377623776
+2,Sri Lanka,1,BYA Mendis,HK Matthews,MDN Hansika,,0,4,4,,,,377623776
+2,Sri Lanka,1,BYA Mendis,HK Matthews,MDN Hansika,,0,0,0,,,,377623776
+2,Sri Lanka,1,BYA Mendis,HK Matthews,MDN Hansika,,0,0,0,,,,377623776
+2,Sri Lanka,1,BYA Mendis,HK Matthews,MDN Hansika,,0,2,2,,,,377623776
+2,Sri Lanka,1,BYA Mendis,HK Matthews,MDN Hansika,,0,0,0,,,,377623776
+2,Sri Lanka,1,BYA Mendis,HK Matthews,MDN Hansika,,0,4,4,,,,377623776
+2,Sri Lanka,2,MDN Hansika,SC Selman,BYA Mendis,,0,0,0,,,,377623776
+2,Sri Lanka,2,MDN Hansika,SC Selman,BYA Mendis,,0,0,0,,,,377623776
+2,Sri Lanka,2,MDN Hansika,SC Selman,BYA Mendis,,0,1,1,,,,377623776
+2,Sri Lanka,2,BYA Mendis,SC Selman,MDN Hansika,,0,0,0,,,,377623776
+2,Sri Lanka,2,BYA Mendis,SC Selman,MDN Hansika,,0,4,4,,,,377623776
+2,Sri Lanka,2,BYA Mendis,SC Selman,MDN Hansika,,0,1,1,,,,377623776
+2,Sri Lanka,3,BYA Mendis,DJS Dottin,MDN Hansika,,0,0,0,,,,377623776
+2,Sri Lanka,3,BYA Mendis,DJS Dottin,MDN Hansika,,0,4,4,,,,377623776
+2,Sri Lanka,3,BYA Mendis,DJS Dottin,MDN Hansika,wides,2,2,0,,,,377623776
+2,Sri Lanka,3,MDN Hansika,DJS Dottin,BYA Mendis,wides,1,1,0,,,,377623776
+2,Sri Lanka,3,MDN Hansika,DJS Dottin,BYA Mendis,,0,0,0,,,,377623776
+2,Sri Lanka,3,MDN Hansika,DJS Dottin,BYA Mendis,,0,0,0,,,,377623776
+2,Sri Lanka,3,MDN Hansika,DJS Dottin,BYA Mendis,wides,1,1,0,,,,377623776
+2,Sri Lanka,3,MDN Hansika,DJS Dottin,BYA Mendis,,0,1,1,,,,377623776
+2,Sri Lanka,3,BYA Mendis,DJS Dottin,MDN Hansika,,0,3,3,,,,377623776
+2,Sri Lanka,4,BYA Mendis,SC Selman,MDN Hansika,,0,0,0,,,,377623776
+2,Sri Lanka,4,BYA Mendis,SC Selman,MDN Hansika,,0,0,0,run out,MDN Hansika,,377623776
+2,Sri Lanka,4,AC Jayangani,SC Selman,BYA Mendis,,0,2,2,,,,377623776
+2,Sri Lanka,4,AC Jayangani,SC Selman,BYA Mendis,,0,0,0,,,,377623776
+2,Sri Lanka,4,AC Jayangani,SC Selman,BYA Mendis,wides,1,1,0,,,,377623776
+2,Sri Lanka,4,AC Jayangani,SC Selman,BYA Mendis,,0,2,2,,,,377623776
+2,Sri Lanka,4,AC Jayangani,SC Selman,BYA Mendis,,0,4,4,,,,377623776
+2,Sri Lanka,5,BYA Mendis,HK Matthews,AC Jayangani,,0,0,0,,,,377623776
+2,Sri Lanka,5,BYA Mendis,HK Matthews,AC Jayangani,,0,0,0,,,,377623776
+2,Sri Lanka,5,BYA Mendis,HK Matthews,AC Jayangani,,0,0,0,caught,BYA Mendis,DJS Dottin,377623776
+2,Sri Lanka,5,MADD Surangika,HK Matthews,AC Jayangani,,0,1,1,,,,377623776
+2,Sri Lanka,5,AC Jayangani,HK Matthews,MADD Surangika,,0,3,3,,,,377623776
+2,Sri Lanka,5,MADD Surangika,HK Matthews,AC Jayangani,,0,4,4,,,,377623776
+2,Sri Lanka,6,AC Jayangani,A Mohammed,MADD Surangika,,0,1,1,,,,377623776
+2,Sri Lanka,6,MADD Surangika,A Mohammed,AC Jayangani,,0,2,2,,,,377623776
+2,Sri Lanka,6,MADD Surangika,A Mohammed,AC Jayangani,,0,1,1,,,,377623776
+2,Sri Lanka,6,AC Jayangani,A Mohammed,MADD Surangika,,0,1,1,,,,377623776
+2,Sri Lanka,6,MADD Surangika,A Mohammed,AC Jayangani,,0,1,1,,,,377623776
+2,Sri Lanka,6,AC Jayangani,A Mohammed,MADD Surangika,,0,1,1,,,,377623776
+2,Sri Lanka,7,AC Jayangani,SR Taylor,MADD Surangika,,0,0,0,,,,377623776
+2,Sri Lanka,7,AC Jayangani,SR Taylor,MADD Surangika,,0,1,1,,,,377623776
+2,Sri Lanka,7,MADD Surangika,SR Taylor,AC Jayangani,,0,2,2,,,,377623776
+2,Sri Lanka,7,MADD Surangika,SR Taylor,AC Jayangani,,0,0,0,run out,MADD Surangika,,377623776
+2,Sri Lanka,7,AC Jayangani,SR Taylor,RS Vandort,,0,1,1,,,,377623776
+2,Sri Lanka,7,RS Vandort,SR Taylor,AC Jayangani,,0,0,0,,,,377623776
+2,Sri Lanka,8,AC Jayangani,A Mohammed,RS Vandort,,0,0,0,,,,377623776
+2,Sri Lanka,8,AC Jayangani,A Mohammed,RS Vandort,,0,0,0,,,,377623776
+2,Sri Lanka,8,AC Jayangani,A Mohammed,RS Vandort,,0,1,1,,,,377623776
+2,Sri Lanka,8,RS Vandort,A Mohammed,AC Jayangani,,0,1,1,,,,377623776
+2,Sri Lanka,8,AC Jayangani,A Mohammed,RS Vandort,,0,1,1,,,,377623776
+2,Sri Lanka,8,RS Vandort,A Mohammed,AC Jayangani,,0,0,0,,,,377623776
+2,Sri Lanka,9,AC Jayangani,SR Taylor,RS Vandort,,0,0,0,,,,377623776
+2,Sri Lanka,9,AC Jayangani,SR Taylor,RS Vandort,,0,2,2,,,,377623776
+2,Sri Lanka,9,AC Jayangani,SR Taylor,RS Vandort,,0,0,0,,,,377623776
+2,Sri Lanka,9,AC Jayangani,SR Taylor,RS Vandort,,0,1,1,,,,377623776
+2,Sri Lanka,9,RS Vandort,SR Taylor,AC Jayangani,,0,2,2,,,,377623776
+2,Sri Lanka,9,RS Vandort,SR Taylor,AC Jayangani,,0,1,1,,,,377623776
+2,Sri Lanka,10,RS Vandort,A Mohammed,AC Jayangani,,0,0,0,,,,377623776
+2,Sri Lanka,10,RS Vandort,A Mohammed,AC Jayangani,,0,2,2,,,,377623776
+2,Sri Lanka,10,RS Vandort,A Mohammed,AC Jayangani,,0,1,1,,,,377623776
+2,Sri Lanka,10,AC Jayangani,A Mohammed,RS Vandort,,0,0,0,,,,377623776
+2,Sri Lanka,10,AC Jayangani,A Mohammed,RS Vandort,,0,0,0,,,,377623776
+2,Sri Lanka,10,AC Jayangani,A Mohammed,RS Vandort,,0,0,0,,,,377623776
+2,Sri Lanka,11,RS Vandort,SR Taylor,AC Jayangani,,0,1,1,,,,377623776
+2,Sri Lanka,11,AC Jayangani,SR Taylor,RS Vandort,,0,0,0,,,,377623776
+2,Sri Lanka,11,AC Jayangani,SR Taylor,RS Vandort,,0,1,1,,,,377623776
+2,Sri Lanka,11,RS Vandort,SR Taylor,AC Jayangani,,0,1,1,,,,377623776
+2,Sri Lanka,11,AC Jayangani,SR Taylor,RS Vandort,,0,1,1,,,,377623776
+2,Sri Lanka,11,RS Vandort,SR Taylor,AC Jayangani,,0,1,1,,,,377623776
+2,Sri Lanka,12,RS Vandort,A Mohammed,AC Jayangani,,0,2,2,,,,377623776
+2,Sri Lanka,12,RS Vandort,A Mohammed,AC Jayangani,,0,0,0,,,,377623776
+2,Sri Lanka,12,RS Vandort,A Mohammed,AC Jayangani,,0,1,1,,,,377623776
+2,Sri Lanka,12,AC Jayangani,A Mohammed,RS Vandort,,0,1,1,,,,377623776
+2,Sri Lanka,12,RS Vandort,A Mohammed,AC Jayangani,,0,1,1,,,,377623776
+2,Sri Lanka,12,AC Jayangani,A Mohammed,RS Vandort,,0,1,1,,,,377623776
+2,Sri Lanka,13,AC Jayangani,ASS Fletcher,RS Vandort,,0,1,1,,,,377623776
+2,Sri Lanka,13,RS Vandort,ASS Fletcher,AC Jayangani,,0,0,0,caught,RS Vandort,SR Taylor,377623776
+2,Sri Lanka,13,HASD Siriwardene,ASS Fletcher,AC Jayangani,,0,0,0,,,,377623776
+2,Sri Lanka,13,HASD Siriwardene,ASS Fletcher,AC Jayangani,,0,0,0,,,,377623776
+2,Sri Lanka,13,HASD Siriwardene,ASS Fletcher,AC Jayangani,,0,1,1,,,,377623776
+2,Sri Lanka,13,AC Jayangani,ASS Fletcher,HASD Siriwardene,,0,1,1,,,,377623776
+2,Sri Lanka,14,AC Jayangani,HK Matthews,HASD Siriwardene,,0,0,0,,,,377623776
+2,Sri Lanka,14,AC Jayangani,HK Matthews,HASD Siriwardene,,0,1,1,,,,377623776
+2,Sri Lanka,14,HASD Siriwardene,HK Matthews,AC Jayangani,,0,0,0,,,,377623776
+2,Sri Lanka,14,HASD Siriwardene,HK Matthews,AC Jayangani,,0,1,1,,,,377623776
+2,Sri Lanka,14,AC Jayangani,HK Matthews,HASD Siriwardene,,0,1,1,,,,377623776
+2,Sri Lanka,14,HASD Siriwardene,HK Matthews,AC Jayangani,,0,1,1,,,,377623776
+2,Sri Lanka,15,HASD Siriwardene,ASS Fletcher,AC Jayangani,,0,0,0,caught and bowled,HASD Siriwardene,,377623776
+2,Sri Lanka,15,KADA Kanchana,ASS Fletcher,AC Jayangani,,0,0,0,,,,377623776
+2,Sri Lanka,15,KADA Kanchana,ASS Fletcher,AC Jayangani,,0,1,1,,,,377623776
+2,Sri Lanka,15,AC Jayangani,ASS Fletcher,KADA Kanchana,,0,1,1,run out,AC Jayangani,,377623776
+2,Sri Lanka,15,GWHM Perera,ASS Fletcher,KADA Kanchana,,0,0,0,,,,377623776
+2,Sri Lanka,15,GWHM Perera,ASS Fletcher,KADA Kanchana,,0,0,0,,,,377623776
+2,Sri Lanka,16,KADA Kanchana,HK Matthews,GWHM Perera,,0,1,1,,,,377623776
+2,Sri Lanka,16,GWHM Perera,HK Matthews,KADA Kanchana,legbyes,1,1,0,,,,377623776
+2,Sri Lanka,16,KADA Kanchana,HK Matthews,GWHM Perera,,0,1,1,,,,377623776
+2,Sri Lanka,16,GWHM Perera,HK Matthews,KADA Kanchana,legbyes,1,1,0,,,,377623776
+2,Sri Lanka,16,KADA Kanchana,HK Matthews,GWHM Perera,,0,1,1,,,,377623776
+2,Sri Lanka,16,GWHM Perera,HK Matthews,KADA Kanchana,,0,0,0,caught,GWHM Perera,Kyshona A Knight,377623776
+2,Sri Lanka,17,KADA Kanchana,ASS Fletcher,SS Weerakkody,,0,2,2,,,,377623776
+2,Sri Lanka,17,KADA Kanchana,ASS Fletcher,SS Weerakkody,,0,0,0,caught,KADA Kanchana,HK Matthews,377623776
+2,Sri Lanka,17,SS Weerakkody,ASS Fletcher,I Ranaweera,,0,4,4,,,,377623776
+2,Sri Lanka,17,SS Weerakkody,ASS Fletcher,I Ranaweera,,0,1,1,,,,377623776
+2,Sri Lanka,17,I Ranaweera,ASS Fletcher,SS Weerakkody,,0,0,0,,,,377623776
+2,Sri Lanka,17,I Ranaweera,ASS Fletcher,SS Weerakkody,,0,0,0,,,,377623776
+2,Sri Lanka,18,SS Weerakkody,SR Taylor,I Ranaweera,,0,1,1,,,,377623776
+2,Sri Lanka,18,I Ranaweera,SR Taylor,SS Weerakkody,,0,0,0,,,,377623776
+2,Sri Lanka,18,I Ranaweera,SR Taylor,SS Weerakkody,,0,0,0,,,,377623776
+2,Sri Lanka,18,I Ranaweera,SR Taylor,SS Weerakkody,,0,0,0,,,,377623776
+2,Sri Lanka,18,I Ranaweera,SR Taylor,SS Weerakkody,,0,0,0,,,,377623776
+2,Sri Lanka,18,I Ranaweera,SR Taylor,SS Weerakkody,,0,0,0,,,,377623776
+2,Sri Lanka,19,SS Weerakkody,ASS Fletcher,I Ranaweera,,0,0,0,caught,SS Weerakkody,B Cooper,377623776
+2,Sri Lanka,19,HHC Gunaratne,ASS Fletcher,I Ranaweera,,0,0,0,,,,377623776
+2,Sri Lanka,19,HHC Gunaratne,ASS Fletcher,I Ranaweera,,0,1,1,,,,377623776
+2,Sri Lanka,19,I Ranaweera,ASS Fletcher,HHC Gunaratne,,0,0,0,bowled,I Ranaweera,,377623776

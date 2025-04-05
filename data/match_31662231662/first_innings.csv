@@ -1,0 +1,109 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Scotland,0,HG Munsey,JJ Bumrah,KJ Coetzer,,0,0,0,,,,31662231662
+1,Scotland,0,HG Munsey,JJ Bumrah,KJ Coetzer,,0,0,0,,,,31662231662
+1,Scotland,0,HG Munsey,JJ Bumrah,KJ Coetzer,,0,1,1,,,,31662231662
+1,Scotland,0,KJ Coetzer,JJ Bumrah,HG Munsey,legbyes,1,1,0,,,,31662231662
+1,Scotland,0,HG Munsey,JJ Bumrah,KJ Coetzer,,0,0,0,,,,31662231662
+1,Scotland,0,HG Munsey,JJ Bumrah,KJ Coetzer,,0,6,6,,,,31662231662
+1,Scotland,1,KJ Coetzer,CV Varun,HG Munsey,,0,0,0,,,,31662231662
+1,Scotland,1,KJ Coetzer,CV Varun,HG Munsey,,0,0,0,,,,31662231662
+1,Scotland,1,KJ Coetzer,CV Varun,HG Munsey,,0,1,1,,,,31662231662
+1,Scotland,1,HG Munsey,CV Varun,KJ Coetzer,,0,0,0,,,,31662231662
+1,Scotland,1,HG Munsey,CV Varun,KJ Coetzer,,0,4,4,,,,31662231662
+1,Scotland,1,HG Munsey,CV Varun,KJ Coetzer,,0,0,0,,,,31662231662
+1,Scotland,2,KJ Coetzer,JJ Bumrah,HG Munsey,,0,0,0,,,,31662231662
+1,Scotland,2,KJ Coetzer,JJ Bumrah,HG Munsey,,0,0,0,,,,31662231662
+1,Scotland,2,KJ Coetzer,JJ Bumrah,HG Munsey,,0,0,0,bowled,KJ Coetzer,,31662231662
+1,Scotland,2,MH Cross,JJ Bumrah,HG Munsey,,0,0,0,,,,31662231662
+1,Scotland,2,MH Cross,JJ Bumrah,HG Munsey,,0,0,0,,,,31662231662
+1,Scotland,2,MH Cross,JJ Bumrah,HG Munsey,,0,0,0,,,,31662231662
+1,Scotland,3,HG Munsey,R Ashwin,MH Cross,,0,0,0,,,,31662231662
+1,Scotland,3,HG Munsey,R Ashwin,MH Cross,,0,0,0,,,,31662231662
+1,Scotland,3,HG Munsey,R Ashwin,MH Cross,,0,0,0,,,,31662231662
+1,Scotland,3,HG Munsey,R Ashwin,MH Cross,,0,4,4,,,,31662231662
+1,Scotland,3,HG Munsey,R Ashwin,MH Cross,,0,4,4,,,,31662231662
+1,Scotland,3,HG Munsey,R Ashwin,MH Cross,,0,4,4,,,,31662231662
+1,Scotland,4,MH Cross,CV Varun,HG Munsey,,0,0,0,,,,31662231662
+1,Scotland,4,MH Cross,CV Varun,HG Munsey,,0,1,1,,,,31662231662
+1,Scotland,4,HG Munsey,CV Varun,MH Cross,,0,0,0,,,,31662231662
+1,Scotland,4,HG Munsey,CV Varun,MH Cross,,0,0,0,,,,31662231662
+1,Scotland,4,HG Munsey,CV Varun,MH Cross,,0,1,1,,,,31662231662
+1,Scotland,4,MH Cross,CV Varun,HG Munsey,,0,0,0,,,,31662231662
+1,Scotland,5,HG Munsey,Mohammed Shami,MH Cross,,0,0,0,,,,31662231662
+1,Scotland,5,HG Munsey,Mohammed Shami,MH Cross,,0,0,0,caught,HG Munsey,HH Pandya,31662231662
+1,Scotland,5,RD Berrington,Mohammed Shami,MH Cross,,0,0,0,,,,31662231662
+1,Scotland,5,RD Berrington,Mohammed Shami,MH Cross,,0,0,0,,,,31662231662
+1,Scotland,5,RD Berrington,Mohammed Shami,MH Cross,,0,0,0,,,,31662231662
+1,Scotland,5,RD Berrington,Mohammed Shami,MH Cross,,0,0,0,,,,31662231662
+1,Scotland,6,MH Cross,RA Jadeja,RD Berrington,,0,0,0,,,,31662231662
+1,Scotland,6,MH Cross,RA Jadeja,RD Berrington,,0,1,1,,,,31662231662
+1,Scotland,6,RD Berrington,RA Jadeja,MH Cross,,0,0,0,bowled,RD Berrington,,31662231662
+1,Scotland,6,CS MacLeod,RA Jadeja,MH Cross,,0,0,0,,,,31662231662
+1,Scotland,6,CS MacLeod,RA Jadeja,MH Cross,,0,1,1,,,,31662231662
+1,Scotland,6,MH Cross,RA Jadeja,CS MacLeod,,0,0,0,lbw,MH Cross,,31662231662
+1,Scotland,7,CS MacLeod,R Ashwin,MA Leask,,0,0,0,,,,31662231662
+1,Scotland,7,CS MacLeod,R Ashwin,MA Leask,,0,1,1,,,,31662231662
+1,Scotland,7,MA Leask,R Ashwin,CS MacLeod,,0,1,1,,,,31662231662
+1,Scotland,7,CS MacLeod,R Ashwin,MA Leask,,0,0,0,,,,31662231662
+1,Scotland,7,CS MacLeod,R Ashwin,MA Leask,,0,1,1,,,,31662231662
+1,Scotland,7,MA Leask,R Ashwin,CS MacLeod,,0,0,0,,,,31662231662
+1,Scotland,8,CS MacLeod,RA Jadeja,MA Leask,,0,0,0,,,,31662231662
+1,Scotland,8,CS MacLeod,RA Jadeja,MA Leask,,0,1,1,,,,31662231662
+1,Scotland,8,MA Leask,RA Jadeja,CS MacLeod,,0,1,1,,,,31662231662
+1,Scotland,8,CS MacLeod,RA Jadeja,MA Leask,,0,0,0,,,,31662231662
+1,Scotland,8,CS MacLeod,RA Jadeja,MA Leask,,0,1,1,,,,31662231662
+1,Scotland,8,MA Leask,RA Jadeja,CS MacLeod,,0,1,1,,,,31662231662
+1,Scotland,9,MA Leask,CV Varun,CS MacLeod,,0,0,0,,,,31662231662
+1,Scotland,9,MA Leask,CV Varun,CS MacLeod,,0,2,2,,,,31662231662
+1,Scotland,9,MA Leask,CV Varun,CS MacLeod,,0,4,4,,,,31662231662
+1,Scotland,9,MA Leask,CV Varun,CS MacLeod,,0,1,1,,,,31662231662
+1,Scotland,9,CS MacLeod,CV Varun,MA Leask,,0,0,0,,,,31662231662
+1,Scotland,9,CS MacLeod,CV Varun,MA Leask,,0,1,1,,,,31662231662
+1,Scotland,10,CS MacLeod,Mohammed Shami,MA Leask,,0,1,1,,,,31662231662
+1,Scotland,10,MA Leask,Mohammed Shami,CS MacLeod,,0,6,6,,,,31662231662
+1,Scotland,10,MA Leask,Mohammed Shami,CS MacLeod,,0,4,4,,,,31662231662
+1,Scotland,10,MA Leask,Mohammed Shami,CS MacLeod,,0,1,1,,,,31662231662
+1,Scotland,10,CS MacLeod,Mohammed Shami,MA Leask,,0,0,0,,,,31662231662
+1,Scotland,10,CS MacLeod,Mohammed Shami,MA Leask,,0,1,1,,,,31662231662
+1,Scotland,11,CS MacLeod,RA Jadeja,MA Leask,,0,1,1,,,,31662231662
+1,Scotland,11,MA Leask,RA Jadeja,CS MacLeod,,0,0,0,lbw,MA Leask,,31662231662
+1,Scotland,11,CN Greaves,RA Jadeja,CS MacLeod,,0,1,1,,,,31662231662
+1,Scotland,11,CS MacLeod,RA Jadeja,CN Greaves,,0,0,0,,,,31662231662
+1,Scotland,11,CS MacLeod,RA Jadeja,CN Greaves,,0,0,0,,,,31662231662
+1,Scotland,11,CS MacLeod,RA Jadeja,CN Greaves,,0,1,1,,,,31662231662
+1,Scotland,12,CS MacLeod,JJ Bumrah,CN Greaves,,0,0,0,,,,31662231662
+1,Scotland,12,CS MacLeod,JJ Bumrah,CN Greaves,,0,0,0,,,,31662231662
+1,Scotland,12,CS MacLeod,JJ Bumrah,CN Greaves,,0,1,1,,,,31662231662
+1,Scotland,12,CN Greaves,JJ Bumrah,CS MacLeod,,0,0,0,,,,31662231662
+1,Scotland,12,CN Greaves,JJ Bumrah,CS MacLeod,,0,0,0,,,,31662231662
+1,Scotland,12,CN Greaves,JJ Bumrah,CS MacLeod,,0,0,0,,,,31662231662
+1,Scotland,13,CS MacLeod,R Ashwin,CN Greaves,,0,1,1,,,,31662231662
+1,Scotland,13,CN Greaves,R Ashwin,CS MacLeod,,0,0,0,,,,31662231662
+1,Scotland,13,CN Greaves,R Ashwin,CS MacLeod,,0,0,0,,,,31662231662
+1,Scotland,13,CN Greaves,R Ashwin,CS MacLeod,wides,1,1,0,,,,31662231662
+1,Scotland,13,CN Greaves,R Ashwin,CS MacLeod,,0,0,0,caught,CN Greaves,HH Pandya,31662231662
+1,Scotland,13,CS MacLeod,R Ashwin,MRJ Watt,,0,1,1,,,,31662231662
+1,Scotland,13,MRJ Watt,R Ashwin,CS MacLeod,,0,0,0,,,,31662231662
+1,Scotland,14,CS MacLeod,RA Jadeja,MRJ Watt,,0,1,1,,,,31662231662
+1,Scotland,14,MRJ Watt,RA Jadeja,CS MacLeod,,0,0,0,,,,31662231662
+1,Scotland,14,MRJ Watt,RA Jadeja,CS MacLeod,,0,0,0,,,,31662231662
+1,Scotland,14,MRJ Watt,RA Jadeja,CS MacLeod,,0,4,4,,,,31662231662
+1,Scotland,14,MRJ Watt,RA Jadeja,CS MacLeod,,0,0,0,,,,31662231662
+1,Scotland,14,MRJ Watt,RA Jadeja,CS MacLeod,,0,1,1,,,,31662231662
+1,Scotland,15,MRJ Watt,R Ashwin,CS MacLeod,,0,4,4,,,,31662231662
+1,Scotland,15,MRJ Watt,R Ashwin,CS MacLeod,,0,1,1,,,,31662231662
+1,Scotland,15,CS MacLeod,R Ashwin,MRJ Watt,,0,1,1,,,,31662231662
+1,Scotland,15,MRJ Watt,R Ashwin,CS MacLeod,,0,0,0,,,,31662231662
+1,Scotland,15,MRJ Watt,R Ashwin,CS MacLeod,,0,2,2,,,,31662231662
+1,Scotland,15,MRJ Watt,R Ashwin,CS MacLeod,wides,2,2,0,,,,31662231662
+1,Scotland,15,CS MacLeod,R Ashwin,MRJ Watt,,0,1,1,,,,31662231662
+1,Scotland,16,CS MacLeod,Mohammed Shami,MRJ Watt,,0,0,0,bowled,CS MacLeod,,31662231662
+1,Scotland,16,SM Sharif,Mohammed Shami,MRJ Watt,,0,0,0,run out,SM Sharif,Ishan Kishan,31662231662
+1,Scotland,16,AC Evans,Mohammed Shami,MRJ Watt,,0,0,0,bowled,AC Evans,,31662231662
+1,Scotland,16,BTJ Wheal,Mohammed Shami,MRJ Watt,,0,1,1,,,,31662231662
+1,Scotland,16,MRJ Watt,Mohammed Shami,BTJ Wheal,,0,1,1,,,,31662231662
+1,Scotland,16,BTJ Wheal,Mohammed Shami,MRJ Watt,,0,0,0,,,,31662231662
+1,Scotland,17,MRJ Watt,JJ Bumrah,BTJ Wheal,,0,1,1,,,,31662231662
+1,Scotland,17,BTJ Wheal,JJ Bumrah,MRJ Watt,,0,0,0,,,,31662231662
+1,Scotland,17,BTJ Wheal,JJ Bumrah,MRJ Watt,,0,1,1,,,,31662231662
+1,Scotland,17,MRJ Watt,JJ Bumrah,BTJ Wheal,,0,0,0,bowled,MRJ Watt,,31662231662

@@ -1,0 +1,113 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Zimbabwe,0,CJ Chibhabha,Dawlat Zadran,H Masakadza,,0,0,0,,,,364223642
+2,Zimbabwe,0,CJ Chibhabha,Dawlat Zadran,H Masakadza,,0,0,0,,,,364223642
+2,Zimbabwe,0,CJ Chibhabha,Dawlat Zadran,H Masakadza,,0,1,1,,,,364223642
+2,Zimbabwe,0,H Masakadza,Dawlat Zadran,CJ Chibhabha,,0,0,0,,,,364223642
+2,Zimbabwe,0,H Masakadza,Dawlat Zadran,CJ Chibhabha,,0,0,0,,,,364223642
+2,Zimbabwe,0,H Masakadza,Dawlat Zadran,CJ Chibhabha,,0,1,1,,,,364223642
+2,Zimbabwe,1,H Masakadza,Amir Hamza,CJ Chibhabha,,0,0,0,,,,364223642
+2,Zimbabwe,1,H Masakadza,Amir Hamza,CJ Chibhabha,,0,1,1,,,,364223642
+2,Zimbabwe,1,CJ Chibhabha,Amir Hamza,H Masakadza,,0,1,1,,,,364223642
+2,Zimbabwe,1,H Masakadza,Amir Hamza,CJ Chibhabha,,0,2,2,,,,364223642
+2,Zimbabwe,1,H Masakadza,Amir Hamza,CJ Chibhabha,legbyes,1,1,0,,,,364223642
+2,Zimbabwe,1,CJ Chibhabha,Amir Hamza,H Masakadza,,0,1,1,,,,364223642
+2,Zimbabwe,2,CJ Chibhabha,Dawlat Zadran,H Masakadza,,0,0,0,caught,CJ Chibhabha,Mohammad Nabi,364223642
+2,Zimbabwe,2,H Masakadza,Dawlat Zadran,R Mutumbami,,0,2,2,,,,364223642
+2,Zimbabwe,2,H Masakadza,Dawlat Zadran,R Mutumbami,byes,4,4,0,,,,364223642
+2,Zimbabwe,2,H Masakadza,Dawlat Zadran,R Mutumbami,legbyes,1,1,0,,,,364223642
+2,Zimbabwe,2,R Mutumbami,Dawlat Zadran,H Masakadza,,0,1,1,,,,364223642
+2,Zimbabwe,2,H Masakadza,Dawlat Zadran,R Mutumbami,,0,2,2,,,,364223642
+2,Zimbabwe,3,R Mutumbami,Amir Hamza,H Masakadza,,0,0,0,,,,364223642
+2,Zimbabwe,3,R Mutumbami,Amir Hamza,H Masakadza,,0,0,0,stumped,R Mutumbami,Mohammad Shahzad,364223642
+2,Zimbabwe,3,MN Waller,Amir Hamza,H Masakadza,,0,0,0,lbw,MN Waller,,364223642
+2,Zimbabwe,3,Sikandar Raza,Amir Hamza,H Masakadza,,0,0,0,,,,364223642
+2,Zimbabwe,3,Sikandar Raza,Amir Hamza,H Masakadza,,0,0,0,,,,364223642
+2,Zimbabwe,3,Sikandar Raza,Amir Hamza,H Masakadza,,0,0,0,,,,364223642
+2,Zimbabwe,4,H Masakadza,Sayed Shirzad,Sikandar Raza,wides,1,1,0,,,,364223642
+2,Zimbabwe,4,H Masakadza,Sayed Shirzad,Sikandar Raza,wides,1,1,0,,,,364223642
+2,Zimbabwe,4,H Masakadza,Sayed Shirzad,Sikandar Raza,,0,0,0,,,,364223642
+2,Zimbabwe,4,H Masakadza,Sayed Shirzad,Sikandar Raza,,0,6,6,,,,364223642
+2,Zimbabwe,4,H Masakadza,Sayed Shirzad,Sikandar Raza,,0,4,4,,,,364223642
+2,Zimbabwe,4,H Masakadza,Sayed Shirzad,Sikandar Raza,,0,2,2,,,,364223642
+2,Zimbabwe,4,H Masakadza,Sayed Shirzad,Sikandar Raza,,0,1,1,,,,364223642
+2,Zimbabwe,4,Sikandar Raza,Sayed Shirzad,H Masakadza,,0,1,1,,,,364223642
+2,Zimbabwe,5,Sikandar Raza,Mohammad Nabi,H Masakadza,,0,0,0,stumped,Sikandar Raza,Mohammad Shahzad,364223642
+2,Zimbabwe,5,E Chigumbura,Mohammad Nabi,H Masakadza,,0,0,0,,,,364223642
+2,Zimbabwe,5,E Chigumbura,Mohammad Nabi,H Masakadza,,0,0,0,run out,E Chigumbura,Mohammad Shahzad,364223642
+2,Zimbabwe,5,PJ Moor,Mohammad Nabi,H Masakadza,,0,0,0,,,,364223642
+2,Zimbabwe,5,PJ Moor,Mohammad Nabi,H Masakadza,,0,0,0,,,,364223642
+2,Zimbabwe,5,PJ Moor,Mohammad Nabi,H Masakadza,,0,0,0,,,,364223642
+2,Zimbabwe,6,H Masakadza,Sayed Shirzad,PJ Moor,,0,0,0,,,,364223642
+2,Zimbabwe,6,H Masakadza,Sayed Shirzad,PJ Moor,,0,0,0,,,,364223642
+2,Zimbabwe,6,H Masakadza,Sayed Shirzad,PJ Moor,,0,1,1,,,,364223642
+2,Zimbabwe,6,PJ Moor,Sayed Shirzad,H Masakadza,,0,0,0,,,,364223642
+2,Zimbabwe,6,PJ Moor,Sayed Shirzad,H Masakadza,,0,0,0,,,,364223642
+2,Zimbabwe,6,PJ Moor,Sayed Shirzad,H Masakadza,,0,1,1,,,,364223642
+2,Zimbabwe,7,PJ Moor,Mohammad Nabi,H Masakadza,,0,1,1,,,,364223642
+2,Zimbabwe,7,H Masakadza,Mohammad Nabi,PJ Moor,,0,1,1,,,,364223642
+2,Zimbabwe,7,PJ Moor,Mohammad Nabi,H Masakadza,,0,6,6,,,,364223642
+2,Zimbabwe,7,PJ Moor,Mohammad Nabi,H Masakadza,,0,1,1,,,,364223642
+2,Zimbabwe,7,H Masakadza,Mohammad Nabi,PJ Moor,,0,1,1,,,,364223642
+2,Zimbabwe,7,PJ Moor,Mohammad Nabi,H Masakadza,,0,0,0,,,,364223642
+2,Zimbabwe,8,H Masakadza,Sayed Shirzad,PJ Moor,,0,1,1,,,,364223642
+2,Zimbabwe,8,PJ Moor,Sayed Shirzad,H Masakadza,,0,1,1,,,,364223642
+2,Zimbabwe,8,H Masakadza,Sayed Shirzad,PJ Moor,,0,4,4,,,,364223642
+2,Zimbabwe,8,H Masakadza,Sayed Shirzad,PJ Moor,,0,0,0,,,,364223642
+2,Zimbabwe,8,H Masakadza,Sayed Shirzad,PJ Moor,,0,1,1,,,,364223642
+2,Zimbabwe,8,PJ Moor,Sayed Shirzad,H Masakadza,,0,1,1,,,,364223642
+2,Zimbabwe,9,PJ Moor,Rashid Khan,H Masakadza,,0,1,1,,,,364223642
+2,Zimbabwe,9,H Masakadza,Rashid Khan,PJ Moor,,0,1,1,,,,364223642
+2,Zimbabwe,9,PJ Moor,Rashid Khan,H Masakadza,,0,1,1,,,,364223642
+2,Zimbabwe,9,H Masakadza,Rashid Khan,PJ Moor,legbyes,1,1,0,,,,364223642
+2,Zimbabwe,9,PJ Moor,Rashid Khan,H Masakadza,,0,0,0,,,,364223642
+2,Zimbabwe,9,PJ Moor,Rashid Khan,H Masakadza,,0,1,1,,,,364223642
+2,Zimbabwe,10,PJ Moor,Gulbadin Naib,H Masakadza,,0,4,4,,,,364223642
+2,Zimbabwe,10,PJ Moor,Gulbadin Naib,H Masakadza,,0,1,1,,,,364223642
+2,Zimbabwe,10,H Masakadza,Gulbadin Naib,PJ Moor,,0,1,1,,,,364223642
+2,Zimbabwe,10,PJ Moor,Gulbadin Naib,H Masakadza,,0,4,4,,,,364223642
+2,Zimbabwe,10,PJ Moor,Gulbadin Naib,H Masakadza,,0,6,6,,,,364223642
+2,Zimbabwe,10,PJ Moor,Gulbadin Naib,H Masakadza,,0,1,1,,,,364223642
+2,Zimbabwe,11,PJ Moor,Rashid Khan,H Masakadza,,0,1,1,,,,364223642
+2,Zimbabwe,11,H Masakadza,Rashid Khan,PJ Moor,,0,0,0,,,,364223642
+2,Zimbabwe,11,H Masakadza,Rashid Khan,PJ Moor,legbyes,1,1,0,,,,364223642
+2,Zimbabwe,11,PJ Moor,Rashid Khan,H Masakadza,,0,0,0,,,,364223642
+2,Zimbabwe,11,PJ Moor,Rashid Khan,H Masakadza,,0,0,0,,,,364223642
+2,Zimbabwe,11,PJ Moor,Rashid Khan,H Masakadza,,0,1,1,,,,364223642
+2,Zimbabwe,12,PJ Moor,Gulbadin Naib,H Masakadza,,0,1,1,,,,364223642
+2,Zimbabwe,12,H Masakadza,Gulbadin Naib,PJ Moor,,0,1,1,,,,364223642
+2,Zimbabwe,12,PJ Moor,Gulbadin Naib,H Masakadza,,0,0,0,,,,364223642
+2,Zimbabwe,12,PJ Moor,Gulbadin Naib,H Masakadza,,0,1,1,,,,364223642
+2,Zimbabwe,12,H Masakadza,Gulbadin Naib,PJ Moor,,0,6,6,,,,364223642
+2,Zimbabwe,12,H Masakadza,Gulbadin Naib,PJ Moor,,0,1,1,,,,364223642
+2,Zimbabwe,13,H Masakadza,Amir Hamza,PJ Moor,,0,1,1,,,,364223642
+2,Zimbabwe,13,PJ Moor,Amir Hamza,H Masakadza,,0,1,1,,,,364223642
+2,Zimbabwe,13,H Masakadza,Amir Hamza,PJ Moor,,0,6,6,,,,364223642
+2,Zimbabwe,13,H Masakadza,Amir Hamza,PJ Moor,,0,1,1,,,,364223642
+2,Zimbabwe,13,PJ Moor,Amir Hamza,H Masakadza,,0,0,0,,,,364223642
+2,Zimbabwe,13,PJ Moor,Amir Hamza,H Masakadza,,0,0,0,,,,364223642
+2,Zimbabwe,14,H Masakadza,Dawlat Zadran,PJ Moor,,0,0,0,,,,364223642
+2,Zimbabwe,14,H Masakadza,Dawlat Zadran,PJ Moor,,0,6,6,,,,364223642
+2,Zimbabwe,14,H Masakadza,Dawlat Zadran,PJ Moor,,0,6,6,,,,364223642
+2,Zimbabwe,14,H Masakadza,Dawlat Zadran,PJ Moor,,0,1,1,,,,364223642
+2,Zimbabwe,14,PJ Moor,Dawlat Zadran,H Masakadza,,0,0,0,caught,PJ Moor,Usman Ghani,364223642
+2,Zimbabwe,14,H Masakadza,Dawlat Zadran,LM Jongwe,,0,1,1,,,,364223642
+2,Zimbabwe,15,H Masakadza,Rashid Khan,LM Jongwe,,0,1,1,,,,364223642
+2,Zimbabwe,15,LM Jongwe,Rashid Khan,H Masakadza,,0,1,1,,,,364223642
+2,Zimbabwe,15,H Masakadza,Rashid Khan,LM Jongwe,,0,0,0,,,,364223642
+2,Zimbabwe,15,H Masakadza,Rashid Khan,LM Jongwe,,0,0,0,bowled,H Masakadza,,364223642
+2,Zimbabwe,15,AG Cremer,Rashid Khan,LM Jongwe,,0,1,1,,,,364223642
+2,Zimbabwe,15,LM Jongwe,Rashid Khan,AG Cremer,,0,4,4,,,,364223642
+2,Zimbabwe,16,AG Cremer,Sayed Shirzad,LM Jongwe,,0,1,1,,,,364223642
+2,Zimbabwe,16,LM Jongwe,Sayed Shirzad,AG Cremer,,0,0,0,caught,LM Jongwe,Asghar Stanikzai,364223642
+2,Zimbabwe,16,TS Chisoro,Sayed Shirzad,AG Cremer,,0,1,1,,,,364223642
+2,Zimbabwe,16,AG Cremer,Sayed Shirzad,TS Chisoro,,0,1,1,,,,364223642
+2,Zimbabwe,16,TS Chisoro,Sayed Shirzad,AG Cremer,wides,1,1,0,,,,364223642
+2,Zimbabwe,16,TS Chisoro,Sayed Shirzad,AG Cremer,,0,1,1,,,,364223642
+2,Zimbabwe,16,AG Cremer,Sayed Shirzad,TS Chisoro,,0,0,0,caught,AG Cremer,Usman Ghani,364223642
+2,Zimbabwe,17,DT Tiripano,Rashid Khan,TS Chisoro,,0,1,1,,,,364223642
+2,Zimbabwe,17,TS Chisoro,Rashid Khan,DT Tiripano,,0,0,0,,,,364223642
+2,Zimbabwe,17,TS Chisoro,Rashid Khan,DT Tiripano,,0,2,2,,,,364223642
+2,Zimbabwe,17,TS Chisoro,Rashid Khan,DT Tiripano,,0,0,0,,,,364223642
+2,Zimbabwe,17,TS Chisoro,Rashid Khan,DT Tiripano,,0,4,4,,,,364223642
+2,Zimbabwe,17,TS Chisoro,Rashid Khan,DT Tiripano,,0,2,2,,,,364223642
+2,Zimbabwe,18,DT Tiripano,Amir Hamza,TS Chisoro,,0,1,1,run out,TS Chisoro,Gulbadin Naib,364223642

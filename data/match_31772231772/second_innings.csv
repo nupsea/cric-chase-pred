@@ -1,0 +1,114 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Italy,0,NL Smith,DG Blampied,BBJL Perera,,0,1,1,,,,31772231772
+2,Italy,0,BBJL Perera,DG Blampied,NL Smith,,0,4,4,,,,31772231772
+2,Italy,0,BBJL Perera,DG Blampied,NL Smith,,0,0,0,,,,31772231772
+2,Italy,0,BBJL Perera,DG Blampied,NL Smith,,0,0,0,,,,31772231772
+2,Italy,0,BBJL Perera,DG Blampied,NL Smith,,0,1,1,,,,31772231772
+2,Italy,0,NL Smith,DG Blampied,BBJL Perera,,0,1,1,,,,31772231772
+2,Italy,1,NL Smith,H Carlyon,BBJL Perera,,0,1,1,,,,31772231772
+2,Italy,1,BBJL Perera,H Carlyon,NL Smith,,0,0,0,,,,31772231772
+2,Italy,1,BBJL Perera,H Carlyon,NL Smith,,0,0,0,,,,31772231772
+2,Italy,1,BBJL Perera,H Carlyon,NL Smith,,0,0,0,,,,31772231772
+2,Italy,1,BBJL Perera,H Carlyon,NL Smith,,0,1,1,,,,31772231772
+2,Italy,1,NL Smith,H Carlyon,BBJL Perera,,0,0,0,,,,31772231772
+2,Italy,2,BBJL Perera,J Sumerauer,NL Smith,,0,0,0,,,,31772231772
+2,Italy,2,BBJL Perera,J Sumerauer,NL Smith,,0,0,0,,,,31772231772
+2,Italy,2,BBJL Perera,J Sumerauer,NL Smith,,0,0,0,,,,31772231772
+2,Italy,2,BBJL Perera,J Sumerauer,NL Smith,,0,1,1,,,,31772231772
+2,Italy,2,NL Smith,J Sumerauer,BBJL Perera,,0,2,2,,,,31772231772
+2,Italy,2,NL Smith,J Sumerauer,BBJL Perera,,0,1,1,,,,31772231772
+2,Italy,3,NL Smith,H Carlyon,BBJL Perera,,0,0,0,lbw,NL Smith,,31772231772
+2,Italy,3,GP Meade,H Carlyon,BBJL Perera,,0,0,0,,,,31772231772
+2,Italy,3,GP Meade,H Carlyon,BBJL Perera,,0,1,1,,,,31772231772
+2,Italy,3,BBJL Perera,H Carlyon,GP Meade,,0,1,1,,,,31772231772
+2,Italy,3,GP Meade,H Carlyon,BBJL Perera,,0,1,1,,,,31772231772
+2,Italy,3,BBJL Perera,H Carlyon,GP Meade,,0,0,0,,,,31772231772
+2,Italy,4,GP Meade,DG Blampied,BBJL Perera,,0,0,0,,,,31772231772
+2,Italy,4,GP Meade,DG Blampied,BBJL Perera,,0,0,0,,,,31772231772
+2,Italy,4,GP Meade,DG Blampied,BBJL Perera,,0,4,4,,,,31772231772
+2,Italy,4,GP Meade,DG Blampied,BBJL Perera,,0,0,0,,,,31772231772
+2,Italy,4,GP Meade,DG Blampied,BBJL Perera,,0,0,0,caught and bowled,GP Meade,,31772231772
+2,Italy,4,J Grassi,DG Blampied,BBJL Perera,,0,0,0,,,,31772231772
+2,Italy,5,BBJL Perera,H Carlyon,J Grassi,,0,0,0,,,,31772231772
+2,Italy,5,BBJL Perera,H Carlyon,J Grassi,,0,1,1,,,,31772231772
+2,Italy,5,J Grassi,H Carlyon,BBJL Perera,,0,0,0,,,,31772231772
+2,Italy,5,J Grassi,H Carlyon,BBJL Perera,,0,0,0,,,,31772231772
+2,Italy,5,J Grassi,H Carlyon,BBJL Perera,,0,1,1,,,,31772231772
+2,Italy,5,BBJL Perera,H Carlyon,J Grassi,,0,0,0,,,,31772231772
+2,Italy,6,J Grassi,CW Perchard,BBJL Perera,,0,2,2,,,,31772231772
+2,Italy,6,J Grassi,CW Perchard,BBJL Perera,wides,1,1,0,,,,31772231772
+2,Italy,6,J Grassi,CW Perchard,BBJL Perera,,0,0,0,,,,31772231772
+2,Italy,6,J Grassi,CW Perchard,BBJL Perera,,0,1,1,,,,31772231772
+2,Italy,6,BBJL Perera,CW Perchard,J Grassi,,0,1,1,,,,31772231772
+2,Italy,6,J Grassi,CW Perchard,BBJL Perera,,0,0,0,,,,31772231772
+2,Italy,6,J Grassi,CW Perchard,BBJL Perera,,0,0,0,,,,31772231772
+2,Italy,7,BBJL Perera,B Ward,J Grassi,,0,0,0,,,,31772231772
+2,Italy,7,BBJL Perera,B Ward,J Grassi,,0,2,2,,,,31772231772
+2,Italy,7,BBJL Perera,B Ward,J Grassi,,0,0,0,bowled,BBJL Perera,,31772231772
+2,Italy,7,GK Berg,B Ward,J Grassi,,0,1,1,,,,31772231772
+2,Italy,7,J Grassi,B Ward,GK Berg,,0,1,1,,,,31772231772
+2,Italy,7,GK Berg,B Ward,J Grassi,,0,1,1,,,,31772231772
+2,Italy,8,GK Berg,CW Perchard,J Grassi,,0,0,0,,,,31772231772
+2,Italy,8,GK Berg,CW Perchard,J Grassi,,0,1,1,,,,31772231772
+2,Italy,8,J Grassi,CW Perchard,GK Berg,,0,0,0,,,,31772231772
+2,Italy,8,J Grassi,CW Perchard,GK Berg,,0,1,1,,,,31772231772
+2,Italy,8,GK Berg,CW Perchard,J Grassi,,0,6,6,,,,31772231772
+2,Italy,8,GK Berg,CW Perchard,J Grassi,,0,0,0,caught,GK Berg,H Carlyon,31772231772
+2,Italy,9,J Grassi,B Ward,G Stewart,,0,0,0,,,,31772231772
+2,Italy,9,J Grassi,B Ward,G Stewart,,0,1,1,,,,31772231772
+2,Italy,9,G Stewart,B Ward,J Grassi,,0,0,0,bowled,G Stewart,,31772231772
+2,Italy,9,Manpreet Singh,B Ward,J Grassi,,0,0,0,,,,31772231772
+2,Italy,9,Manpreet Singh,B Ward,J Grassi,,0,0,0,,,,31772231772
+2,Italy,9,Manpreet Singh,B Ward,J Grassi,,0,0,0,,,,31772231772
+2,Italy,10,J Grassi,J Sumerauer,Manpreet Singh,,0,1,1,,,,31772231772
+2,Italy,10,Manpreet Singh,J Sumerauer,J Grassi,,0,0,0,,,,31772231772
+2,Italy,10,Manpreet Singh,J Sumerauer,J Grassi,,0,1,1,,,,31772231772
+2,Italy,10,J Grassi,J Sumerauer,Manpreet Singh,,0,1,1,,,,31772231772
+2,Italy,10,Manpreet Singh,J Sumerauer,J Grassi,,0,1,1,,,,31772231772
+2,Italy,10,J Grassi,J Sumerauer,Manpreet Singh,,0,2,2,,,,31772231772
+2,Italy,11,Manpreet Singh,RJG Palmer,J Grassi,,0,1,1,,,,31772231772
+2,Italy,11,J Grassi,RJG Palmer,Manpreet Singh,,0,1,1,,,,31772231772
+2,Italy,11,Manpreet Singh,RJG Palmer,J Grassi,,0,1,1,,,,31772231772
+2,Italy,11,J Grassi,RJG Palmer,Manpreet Singh,,0,1,1,,,,31772231772
+2,Italy,11,Manpreet Singh,RJG Palmer,J Grassi,,0,0,0,,,,31772231772
+2,Italy,11,Manpreet Singh,RJG Palmer,J Grassi,,0,0,0,,,,31772231772
+2,Italy,12,J Grassi,DG Blampied,Manpreet Singh,,0,6,6,,,,31772231772
+2,Italy,12,J Grassi,DG Blampied,Manpreet Singh,,0,1,1,,,,31772231772
+2,Italy,12,Manpreet Singh,DG Blampied,J Grassi,,0,1,1,,,,31772231772
+2,Italy,12,J Grassi,DG Blampied,Manpreet Singh,,0,0,0,caught,J Grassi,JE Dunford,31772231772
+2,Italy,12,Manpreet Singh,DG Blampied,MGSM Fernando,,0,0,0,,,,31772231772
+2,Italy,12,Manpreet Singh,DG Blampied,MGSM Fernando,,0,0,0,,,,31772231772
+2,Italy,13,MGSM Fernando,B Ward,Manpreet Singh,,0,0,0,,,,31772231772
+2,Italy,13,MGSM Fernando,B Ward,Manpreet Singh,byes,4,4,0,,,,31772231772
+2,Italy,13,MGSM Fernando,B Ward,Manpreet Singh,,0,1,1,,,,31772231772
+2,Italy,13,Manpreet Singh,B Ward,MGSM Fernando,,0,1,1,,,,31772231772
+2,Italy,13,MGSM Fernando,B Ward,Manpreet Singh,,0,6,6,,,,31772231772
+2,Italy,13,MGSM Fernando,B Ward,Manpreet Singh,,0,1,1,,,,31772231772
+2,Italy,14,MGSM Fernando,CW Perchard,Manpreet Singh,,0,1,1,,,,31772231772
+2,Italy,14,Manpreet Singh,CW Perchard,MGSM Fernando,,0,0,0,,,,31772231772
+2,Italy,14,Manpreet Singh,CW Perchard,MGSM Fernando,,0,1,1,,,,31772231772
+2,Italy,14,MGSM Fernando,CW Perchard,Manpreet Singh,,0,0,0,run out,MGSM Fernando,JE Dunford,31772231772
+2,Italy,14,JW Dernbach,CW Perchard,Manpreet Singh,,0,0,0,,,,31772231772
+2,Italy,14,JW Dernbach,CW Perchard,Manpreet Singh,,0,0,0,,,,31772231772
+2,Italy,15,Manpreet Singh,RJG Palmer,JW Dernbach,,0,1,1,,,,31772231772
+2,Italy,15,Manpreet Singh,RJG Palmer,JW Dernbach,,0,1,1,,,,31772231772
+2,Italy,15,JW Dernbach,RJG Palmer,Manpreet Singh,wides,2,2,0,,,,31772231772
+2,Italy,15,Manpreet Singh,RJG Palmer,JW Dernbach,,0,1,1,,,,31772231772
+2,Italy,15,JW Dernbach,RJG Palmer,Manpreet Singh,,0,4,4,,,,31772231772
+2,Italy,15,JW Dernbach,RJG Palmer,Manpreet Singh,,0,1,1,,,,31772231772
+2,Italy,15,Manpreet Singh,RJG Palmer,JW Dernbach,,0,1,1,,,,31772231772
+2,Italy,16,Manpreet Singh,J Sumerauer,JW Dernbach,,0,6,6,,,,31772231772
+2,Italy,16,Manpreet Singh,J Sumerauer,JW Dernbach,,0,0,0,run out,Manpreet Singh,J Sumerauer,31772231772
+2,Italy,16,Jaspreet Singh,J Sumerauer,JW Dernbach,,0,0,0,,,,31772231772
+2,Italy,16,Jaspreet Singh,J Sumerauer,JW Dernbach,,0,0,0,,,,31772231772
+2,Italy,16,Jaspreet Singh,J Sumerauer,JW Dernbach,,0,0,0,caught,Jaspreet Singh,JW Jenner,31772231772
+2,Italy,16,JW Dernbach,J Sumerauer,DKD Warnakulasuriya,,0,0,0,,,,31772231772
+2,Italy,17,DKD Warnakulasuriya,B Ward,JW Dernbach,,0,0,0,,,,31772231772
+2,Italy,17,DKD Warnakulasuriya,B Ward,JW Dernbach,,0,0,0,,,,31772231772
+2,Italy,17,DKD Warnakulasuriya,B Ward,JW Dernbach,byes,4,4,0,,,,31772231772
+2,Italy,17,DKD Warnakulasuriya,B Ward,JW Dernbach,wides,1,1,0,,,,31772231772
+2,Italy,17,DKD Warnakulasuriya,B Ward,JW Dernbach,,0,0,0,,,,31772231772
+2,Italy,17,DKD Warnakulasuriya,B Ward,JW Dernbach,,0,1,1,,,,31772231772
+2,Italy,17,JW Dernbach,B Ward,DKD Warnakulasuriya,,0,0,0,,,,31772231772
+2,Italy,18,DKD Warnakulasuriya,CW Perchard,JW Dernbach,,0,1,1,,,,31772231772
+2,Italy,18,JW Dernbach,CW Perchard,DKD Warnakulasuriya,,0,0,0,bowled,JW Dernbach,,31772231772

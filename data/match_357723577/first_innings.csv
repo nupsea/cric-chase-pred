@@ -1,0 +1,121 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,JT Smuts,AD Mathews,HG Kuhn,,0,0,0,,,,357723577
+1,South Africa,0,JT Smuts,AD Mathews,HG Kuhn,,0,0,0,,,,357723577
+1,South Africa,0,JT Smuts,AD Mathews,HG Kuhn,,0,4,4,,,,357723577
+1,South Africa,0,JT Smuts,AD Mathews,HG Kuhn,,0,0,0,,,,357723577
+1,South Africa,0,JT Smuts,AD Mathews,HG Kuhn,,0,0,0,,,,357723577
+1,South Africa,0,JT Smuts,AD Mathews,HG Kuhn,,0,0,0,,,,357723577
+1,South Africa,1,HG Kuhn,KMDN Kulasekara,JT Smuts,,0,0,0,,,,357723577
+1,South Africa,1,HG Kuhn,KMDN Kulasekara,JT Smuts,,0,0,0,,,,357723577
+1,South Africa,1,HG Kuhn,KMDN Kulasekara,JT Smuts,,0,1,1,,,,357723577
+1,South Africa,1,JT Smuts,KMDN Kulasekara,HG Kuhn,,0,0,0,,,,357723577
+1,South Africa,1,JT Smuts,KMDN Kulasekara,HG Kuhn,,0,0,0,caught,JT Smuts,PADLR Sandakan,357723577
+1,South Africa,1,TB de Bruyn,KMDN Kulasekara,HG Kuhn,,0,1,1,,,,357723577
+1,South Africa,2,TB de Bruyn,AD Mathews,HG Kuhn,,0,1,1,,,,357723577
+1,South Africa,2,HG Kuhn,AD Mathews,TB de Bruyn,,0,0,0,,,,357723577
+1,South Africa,2,HG Kuhn,AD Mathews,TB de Bruyn,,0,1,1,,,,357723577
+1,South Africa,2,TB de Bruyn,AD Mathews,HG Kuhn,,0,0,0,,,,357723577
+1,South Africa,2,TB de Bruyn,AD Mathews,HG Kuhn,,0,4,4,,,,357723577
+1,South Africa,2,TB de Bruyn,AD Mathews,HG Kuhn,,0,1,1,,,,357723577
+1,South Africa,3,TB de Bruyn,I Udana,HG Kuhn,,0,0,0,caught,TB de Bruyn,DM de Silva,357723577
+1,South Africa,3,HG Kuhn,I Udana,M Mosehle,,0,3,3,,,,357723577
+1,South Africa,3,M Mosehle,I Udana,HG Kuhn,,0,0,0,,,,357723577
+1,South Africa,3,M Mosehle,I Udana,HG Kuhn,,0,0,0,,,,357723577
+1,South Africa,3,M Mosehle,I Udana,HG Kuhn,,0,4,4,,,,357723577
+1,South Africa,3,M Mosehle,I Udana,HG Kuhn,,0,0,0,,,,357723577
+1,South Africa,4,HG Kuhn,KMDN Kulasekara,M Mosehle,,0,0,0,,,,357723577
+1,South Africa,4,HG Kuhn,KMDN Kulasekara,M Mosehle,,0,1,1,,,,357723577
+1,South Africa,4,M Mosehle,KMDN Kulasekara,HG Kuhn,,0,4,4,,,,357723577
+1,South Africa,4,M Mosehle,KMDN Kulasekara,HG Kuhn,,0,0,0,,,,357723577
+1,South Africa,4,M Mosehle,KMDN Kulasekara,HG Kuhn,,0,1,1,,,,357723577
+1,South Africa,4,HG Kuhn,KMDN Kulasekara,M Mosehle,,0,0,0,,,,357723577
+1,South Africa,5,M Mosehle,S Prasanna,HG Kuhn,,0,1,1,,,,357723577
+1,South Africa,5,HG Kuhn,S Prasanna,M Mosehle,,0,6,6,,,,357723577
+1,South Africa,5,HG Kuhn,S Prasanna,M Mosehle,,0,2,2,,,,357723577
+1,South Africa,5,HG Kuhn,S Prasanna,M Mosehle,,0,4,4,,,,357723577
+1,South Africa,5,HG Kuhn,S Prasanna,M Mosehle,,0,1,1,,,,357723577
+1,South Africa,5,M Mosehle,S Prasanna,HG Kuhn,,0,1,1,,,,357723577
+1,South Africa,6,M Mosehle,PADLR Sandakan,HG Kuhn,,0,0,0,caught,M Mosehle,LD Chandimal,357723577
+1,South Africa,6,DA Miller,PADLR Sandakan,HG Kuhn,legbyes,2,2,0,,,,357723577
+1,South Africa,6,DA Miller,PADLR Sandakan,HG Kuhn,,0,0,0,,,,357723577
+1,South Africa,6,DA Miller,PADLR Sandakan,HG Kuhn,wides,1,1,0,,,,357723577
+1,South Africa,6,DA Miller,PADLR Sandakan,HG Kuhn,,0,0,0,,,,357723577
+1,South Africa,6,DA Miller,PADLR Sandakan,HG Kuhn,,0,1,1,,,,357723577
+1,South Africa,6,HG Kuhn,PADLR Sandakan,DA Miller,,0,1,1,,,,357723577
+1,South Africa,7,HG Kuhn,DAS Gunaratne,DA Miller,,0,1,1,,,,357723577
+1,South Africa,7,DA Miller,DAS Gunaratne,HG Kuhn,,0,1,1,,,,357723577
+1,South Africa,7,HG Kuhn,DAS Gunaratne,DA Miller,,0,1,1,,,,357723577
+1,South Africa,7,DA Miller,DAS Gunaratne,HG Kuhn,,0,1,1,,,,357723577
+1,South Africa,7,HG Kuhn,DAS Gunaratne,DA Miller,,0,1,1,,,,357723577
+1,South Africa,7,DA Miller,DAS Gunaratne,HG Kuhn,,0,0,0,,,,357723577
+1,South Africa,8,HG Kuhn,PADLR Sandakan,DA Miller,,0,0,0,,,,357723577
+1,South Africa,8,HG Kuhn,PADLR Sandakan,DA Miller,,0,6,6,,,,357723577
+1,South Africa,8,HG Kuhn,PADLR Sandakan,DA Miller,,0,0,0,stumped,HG Kuhn,LD Chandimal,357723577
+1,South Africa,8,F Behardien,PADLR Sandakan,DA Miller,,0,1,1,,,,357723577
+1,South Africa,8,DA Miller,PADLR Sandakan,F Behardien,,0,4,4,,,,357723577
+1,South Africa,8,DA Miller,PADLR Sandakan,F Behardien,,0,1,1,,,,357723577
+1,South Africa,9,DA Miller,DAS Gunaratne,F Behardien,,0,1,1,,,,357723577
+1,South Africa,9,F Behardien,DAS Gunaratne,DA Miller,,0,1,1,,,,357723577
+1,South Africa,9,DA Miller,DAS Gunaratne,F Behardien,,0,0,0,,,,357723577
+1,South Africa,9,DA Miller,DAS Gunaratne,F Behardien,,0,1,1,,,,357723577
+1,South Africa,9,F Behardien,DAS Gunaratne,DA Miller,,0,1,1,,,,357723577
+1,South Africa,9,DA Miller,DAS Gunaratne,F Behardien,,0,1,1,,,,357723577
+1,South Africa,10,DA Miller,DM de Silva,F Behardien,,0,0,0,caught,DA Miller,AD Mathews,357723577
+1,South Africa,10,WD Parnell,DM de Silva,F Behardien,,0,0,0,,,,357723577
+1,South Africa,10,WD Parnell,DM de Silva,F Behardien,,0,0,0,,,,357723577
+1,South Africa,10,WD Parnell,DM de Silva,F Behardien,,0,1,1,,,,357723577
+1,South Africa,10,F Behardien,DM de Silva,WD Parnell,,0,1,1,,,,357723577
+1,South Africa,10,WD Parnell,DM de Silva,F Behardien,,0,1,1,,,,357723577
+1,South Africa,11,WD Parnell,PADLR Sandakan,F Behardien,wides,1,1,0,,,,357723577
+1,South Africa,11,WD Parnell,PADLR Sandakan,F Behardien,,0,1,1,,,,357723577
+1,South Africa,11,F Behardien,PADLR Sandakan,WD Parnell,,0,1,1,,,,357723577
+1,South Africa,11,WD Parnell,PADLR Sandakan,F Behardien,,0,0,0,,,,357723577
+1,South Africa,11,WD Parnell,PADLR Sandakan,F Behardien,,0,0,0,caught,WD Parnell,AD Mathews,357723577
+1,South Africa,11,AL Phehlukwayo,PADLR Sandakan,F Behardien,,0,0,0,,,,357723577
+1,South Africa,11,AL Phehlukwayo,PADLR Sandakan,F Behardien,,0,0,0,caught,AL Phehlukwayo,LD Chandimal,357723577
+1,South Africa,12,F Behardien,S Prasanna,AM Phangiso,,0,0,0,,,,357723577
+1,South Africa,12,F Behardien,S Prasanna,AM Phangiso,,0,1,1,,,,357723577
+1,South Africa,12,AM Phangiso,S Prasanna,F Behardien,,0,0,0,,,,357723577
+1,South Africa,12,AM Phangiso,S Prasanna,F Behardien,,0,1,1,,,,357723577
+1,South Africa,12,F Behardien,S Prasanna,AM Phangiso,,0,1,1,,,,357723577
+1,South Africa,12,AM Phangiso,S Prasanna,F Behardien,,0,0,0,,,,357723577
+1,South Africa,13,F Behardien,PADLR Sandakan,AM Phangiso,,0,1,1,,,,357723577
+1,South Africa,13,AM Phangiso,PADLR Sandakan,F Behardien,,0,1,1,,,,357723577
+1,South Africa,13,F Behardien,PADLR Sandakan,AM Phangiso,,0,1,1,,,,357723577
+1,South Africa,13,AM Phangiso,PADLR Sandakan,F Behardien,,0,0,0,,,,357723577
+1,South Africa,13,AM Phangiso,PADLR Sandakan,F Behardien,,0,1,1,,,,357723577
+1,South Africa,13,F Behardien,PADLR Sandakan,AM Phangiso,,0,1,1,,,,357723577
+1,South Africa,14,F Behardien,DAS Gunaratne,AM Phangiso,,0,4,4,,,,357723577
+1,South Africa,14,F Behardien,DAS Gunaratne,AM Phangiso,,0,4,4,,,,357723577
+1,South Africa,14,F Behardien,DAS Gunaratne,AM Phangiso,,0,1,1,,,,357723577
+1,South Africa,14,AM Phangiso,DAS Gunaratne,F Behardien,,0,0,0,,,,357723577
+1,South Africa,14,AM Phangiso,DAS Gunaratne,F Behardien,,0,0,0,,,,357723577
+1,South Africa,14,AM Phangiso,DAS Gunaratne,F Behardien,,0,0,0,,,,357723577
+1,South Africa,15,F Behardien,S Prasanna,AM Phangiso,,0,0,0,,,,357723577
+1,South Africa,15,F Behardien,S Prasanna,AM Phangiso,,0,2,2,,,,357723577
+1,South Africa,15,F Behardien,S Prasanna,AM Phangiso,,0,1,1,,,,357723577
+1,South Africa,15,AM Phangiso,S Prasanna,F Behardien,,0,1,1,,,,357723577
+1,South Africa,15,F Behardien,S Prasanna,AM Phangiso,,0,1,1,,,,357723577
+1,South Africa,15,AM Phangiso,S Prasanna,F Behardien,,0,1,1,,,,357723577
+1,South Africa,16,AM Phangiso,DAS Gunaratne,F Behardien,,0,4,4,,,,357723577
+1,South Africa,16,AM Phangiso,DAS Gunaratne,F Behardien,,0,1,1,,,,357723577
+1,South Africa,16,F Behardien,DAS Gunaratne,AM Phangiso,,0,1,1,,,,357723577
+1,South Africa,16,AM Phangiso,DAS Gunaratne,F Behardien,,0,0,0,,,,357723577
+1,South Africa,16,AM Phangiso,DAS Gunaratne,F Behardien,,0,1,1,,,,357723577
+1,South Africa,16,F Behardien,DAS Gunaratne,AM Phangiso,,0,1,1,,,,357723577
+1,South Africa,17,F Behardien,I Udana,AM Phangiso,,0,2,2,,,,357723577
+1,South Africa,17,F Behardien,I Udana,AM Phangiso,,0,0,0,caught,F Behardien,LD Chandimal,357723577
+1,South Africa,17,Imran Tahir,I Udana,AM Phangiso,,0,0,0,,,,357723577
+1,South Africa,17,Imran Tahir,I Udana,AM Phangiso,,0,0,0,,,,357723577
+1,South Africa,17,Imran Tahir,I Udana,AM Phangiso,wides,1,1,0,,,,357723577
+1,South Africa,17,Imran Tahir,I Udana,AM Phangiso,,0,1,1,,,,357723577
+1,South Africa,17,AM Phangiso,I Udana,Imran Tahir,,0,0,0,,,,357723577
+1,South Africa,18,Imran Tahir,KMDN Kulasekara,AM Phangiso,,0,0,0,,,,357723577
+1,South Africa,18,Imran Tahir,KMDN Kulasekara,AM Phangiso,,0,0,0,,,,357723577
+1,South Africa,18,Imran Tahir,KMDN Kulasekara,AM Phangiso,,0,0,0,bowled,Imran Tahir,,357723577
+1,South Africa,18,L Ngidi,KMDN Kulasekara,AM Phangiso,,0,0,0,,,,357723577
+1,South Africa,18,L Ngidi,KMDN Kulasekara,AM Phangiso,,0,1,1,,,,357723577
+1,South Africa,18,AM Phangiso,KMDN Kulasekara,L Ngidi,,0,1,1,,,,357723577
+1,South Africa,19,AM Phangiso,I Udana,L Ngidi,,0,1,1,,,,357723577
+1,South Africa,19,L Ngidi,I Udana,AM Phangiso,,0,1,1,,,,357723577
+1,South Africa,19,AM Phangiso,I Udana,L Ngidi,,0,0,0,caught,AM Phangiso,DAS Gunaratne,357723577

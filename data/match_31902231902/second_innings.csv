@@ -1,0 +1,116 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Malaysia,0,WA Duraisingam,Q Abel,Wan Julia,,0,0,0,,,,31902231902
+2,Malaysia,0,WA Duraisingam,Q Abel,Wan Julia,,0,0,0,stumped,WA Duraisingam,S Juma,31902231902
+2,Malaysia,0,Mas Elysa,Q Abel,Wan Julia,wides,1,1,0,,,,31902231902
+2,Malaysia,0,Mas Elysa,Q Abel,Wan Julia,,0,3,3,,,,31902231902
+2,Malaysia,0,Wan Julia,Q Abel,Mas Elysa,,0,0,0,,,,31902231902
+2,Malaysia,0,Wan Julia,Q Abel,Mas Elysa,wides,1,1,0,,,,31902231902
+2,Malaysia,0,Wan Julia,Q Abel,Mas Elysa,,0,2,2,,,,31902231902
+2,Malaysia,0,Wan Julia,Q Abel,Mas Elysa,,0,1,1,,,,31902231902
+2,Malaysia,1,Wan Julia,M Ochieng,Mas Elysa,,0,0,0,,,,31902231902
+2,Malaysia,1,Wan Julia,M Ochieng,Mas Elysa,,0,0,0,,,,31902231902
+2,Malaysia,1,Wan Julia,M Ochieng,Mas Elysa,,0,1,1,,,,31902231902
+2,Malaysia,1,Mas Elysa,M Ochieng,Wan Julia,,0,0,0,run out,Wan Julia,F Odhiambo,31902231902
+2,Malaysia,1,Ainna Hamizah Hashim,M Ochieng,Mas Elysa,,0,4,4,,,,31902231902
+2,Malaysia,1,Ainna Hamizah Hashim,M Ochieng,Mas Elysa,,0,0,0,,,,31902231902
+2,Malaysia,2,Mas Elysa,Q Abel,Ainna Hamizah Hashim,,0,4,4,,,,31902231902
+2,Malaysia,2,Mas Elysa,Q Abel,Ainna Hamizah Hashim,,0,0,0,,,,31902231902
+2,Malaysia,2,Mas Elysa,Q Abel,Ainna Hamizah Hashim,,0,4,4,,,,31902231902
+2,Malaysia,2,Mas Elysa,Q Abel,Ainna Hamizah Hashim,,0,2,2,,,,31902231902
+2,Malaysia,2,Mas Elysa,Q Abel,Ainna Hamizah Hashim,,0,0,0,,,,31902231902
+2,Malaysia,2,Mas Elysa,Q Abel,Ainna Hamizah Hashim,,0,2,2,,,,31902231902
+2,Malaysia,3,Ainna Hamizah Hashim,L Idambo,Mas Elysa,noballs,1,1,0,,,,31902231902
+2,Malaysia,3,Ainna Hamizah Hashim,L Idambo,Mas Elysa,,0,0,0,,,,31902231902
+2,Malaysia,3,Ainna Hamizah Hashim,L Idambo,Mas Elysa,,0,0,0,,,,31902231902
+2,Malaysia,3,Ainna Hamizah Hashim,L Idambo,Mas Elysa,,0,0,0,,,,31902231902
+2,Malaysia,3,Ainna Hamizah Hashim,L Idambo,Mas Elysa,,0,0,0,,,,31902231902
+2,Malaysia,3,Ainna Hamizah Hashim,L Idambo,Mas Elysa,,0,0,0,,,,31902231902
+2,Malaysia,3,Ainna Hamizah Hashim,L Idambo,Mas Elysa,,0,0,0,,,,31902231902
+2,Malaysia,4,Mas Elysa,M Ochieng,Ainna Hamizah Hashim,,0,4,4,,,,31902231902
+2,Malaysia,4,Mas Elysa,M Ochieng,Ainna Hamizah Hashim,,0,1,1,,,,31902231902
+2,Malaysia,4,Ainna Hamizah Hashim,M Ochieng,Mas Elysa,wides,1,1,0,,,,31902231902
+2,Malaysia,4,Ainna Hamizah Hashim,M Ochieng,Mas Elysa,,0,0,0,,,,31902231902
+2,Malaysia,4,Ainna Hamizah Hashim,M Ochieng,Mas Elysa,,0,0,0,,,,31902231902
+2,Malaysia,4,Ainna Hamizah Hashim,M Ochieng,Mas Elysa,,0,0,0,,,,31902231902
+2,Malaysia,4,Ainna Hamizah Hashim,M Ochieng,Mas Elysa,,0,0,0,,,,31902231902
+2,Malaysia,5,Mas Elysa,L Idambo,Ainna Hamizah Hashim,,0,0,0,,,,31902231902
+2,Malaysia,5,Mas Elysa,L Idambo,Ainna Hamizah Hashim,,0,0,0,,,,31902231902
+2,Malaysia,5,Mas Elysa,L Idambo,Ainna Hamizah Hashim,,0,0,0,,,,31902231902
+2,Malaysia,5,Mas Elysa,L Idambo,Ainna Hamizah Hashim,,0,1,1,,,,31902231902
+2,Malaysia,5,Ainna Hamizah Hashim,L Idambo,Mas Elysa,,0,0,0,,,,31902231902
+2,Malaysia,5,Ainna Hamizah Hashim,L Idambo,Mas Elysa,,0,0,0,,,,31902231902
+2,Malaysia,6,Mas Elysa,M Ochieng,Ainna Hamizah Hashim,,0,0,0,,,,31902231902
+2,Malaysia,6,Mas Elysa,M Ochieng,Ainna Hamizah Hashim,,0,1,1,,,,31902231902
+2,Malaysia,6,Ainna Hamizah Hashim,M Ochieng,Mas Elysa,,0,0,0,,,,31902231902
+2,Malaysia,6,Ainna Hamizah Hashim,M Ochieng,Mas Elysa,,0,0,0,,,,31902231902
+2,Malaysia,6,Ainna Hamizah Hashim,M Ochieng,Mas Elysa,,0,0,0,,,,31902231902
+2,Malaysia,6,Ainna Hamizah Hashim,M Ochieng,Mas Elysa,,0,0,0,,,,31902231902
+2,Malaysia,7,Mas Elysa,L Idambo,Ainna Hamizah Hashim,,0,1,1,,,,31902231902
+2,Malaysia,7,Ainna Hamizah Hashim,L Idambo,Mas Elysa,,0,1,1,,,,31902231902
+2,Malaysia,7,Mas Elysa,L Idambo,Ainna Hamizah Hashim,,0,0,0,,,,31902231902
+2,Malaysia,7,Mas Elysa,L Idambo,Ainna Hamizah Hashim,,0,4,4,,,,31902231902
+2,Malaysia,7,Mas Elysa,L Idambo,Ainna Hamizah Hashim,,0,2,2,,,,31902231902
+2,Malaysia,7,Mas Elysa,L Idambo,Ainna Hamizah Hashim,,0,1,1,,,,31902231902
+2,Malaysia,8,Mas Elysa,S Wetoto,Ainna Hamizah Hashim,,0,1,1,,,,31902231902
+2,Malaysia,8,Ainna Hamizah Hashim,S Wetoto,Mas Elysa,,0,1,1,,,,31902231902
+2,Malaysia,8,Mas Elysa,S Wetoto,Ainna Hamizah Hashim,,0,1,1,,,,31902231902
+2,Malaysia,8,Ainna Hamizah Hashim,S Wetoto,Mas Elysa,,0,1,1,,,,31902231902
+2,Malaysia,8,Mas Elysa,S Wetoto,Ainna Hamizah Hashim,wides,1,1,0,,,,31902231902
+2,Malaysia,8,Mas Elysa,S Wetoto,Ainna Hamizah Hashim,,0,1,1,,,,31902231902
+2,Malaysia,8,Ainna Hamizah Hashim,S Wetoto,Mas Elysa,,0,0,0,,,,31902231902
+2,Malaysia,9,Mas Elysa,M Ochieng,Ainna Hamizah Hashim,,0,4,4,,,,31902231902
+2,Malaysia,9,Mas Elysa,M Ochieng,Ainna Hamizah Hashim,,0,0,0,bowled,Mas Elysa,,31902231902
+2,Malaysia,9,Nur Arianna Natsya,M Ochieng,Ainna Hamizah Hashim,,0,0,0,,,,31902231902
+2,Malaysia,9,Nur Arianna Natsya,M Ochieng,Ainna Hamizah Hashim,,0,0,0,,,,31902231902
+2,Malaysia,9,Nur Arianna Natsya,M Ochieng,Ainna Hamizah Hashim,,0,0,0,,,,31902231902
+2,Malaysia,9,Nur Arianna Natsya,M Ochieng,Ainna Hamizah Hashim,,0,0,0,,,,31902231902
+2,Malaysia,10,Ainna Hamizah Hashim,S Wetoto,Nur Arianna Natsya,,0,1,1,,,,31902231902
+2,Malaysia,10,Nur Arianna Natsya,S Wetoto,Ainna Hamizah Hashim,,0,0,0,,,,31902231902
+2,Malaysia,10,Nur Arianna Natsya,S Wetoto,Ainna Hamizah Hashim,,0,0,0,,,,31902231902
+2,Malaysia,10,Nur Arianna Natsya,S Wetoto,Ainna Hamizah Hashim,,0,1,1,,,,31902231902
+2,Malaysia,10,Ainna Hamizah Hashim,S Wetoto,Nur Arianna Natsya,,0,1,1,,,,31902231902
+2,Malaysia,10,Nur Arianna Natsya,S Wetoto,Ainna Hamizah Hashim,,0,0,0,,,,31902231902
+2,Malaysia,11,Ainna Hamizah Hashim,Q Abel,Nur Arianna Natsya,,0,0,0,,,,31902231902
+2,Malaysia,11,Ainna Hamizah Hashim,Q Abel,Nur Arianna Natsya,,0,1,1,,,,31902231902
+2,Malaysia,11,Nur Arianna Natsya,Q Abel,Ainna Hamizah Hashim,,0,0,0,,,,31902231902
+2,Malaysia,11,Nur Arianna Natsya,Q Abel,Ainna Hamizah Hashim,,0,0,0,,,,31902231902
+2,Malaysia,11,Nur Arianna Natsya,Q Abel,Ainna Hamizah Hashim,,0,0,0,,,,31902231902
+2,Malaysia,11,Nur Arianna Natsya,Q Abel,Ainna Hamizah Hashim,,0,1,1,,,,31902231902
+2,Malaysia,12,Nur Arianna Natsya,S Wetoto,Ainna Hamizah Hashim,,0,1,1,,,,31902231902
+2,Malaysia,12,Ainna Hamizah Hashim,S Wetoto,Nur Arianna Natsya,,0,0,0,,,,31902231902
+2,Malaysia,12,Ainna Hamizah Hashim,S Wetoto,Nur Arianna Natsya,,0,0,0,bowled,Ainna Hamizah Hashim,,31902231902
+2,Malaysia,12,J Intan,S Wetoto,Nur Arianna Natsya,,0,0,0,,,,31902231902
+2,Malaysia,12,J Intan,S Wetoto,Nur Arianna Natsya,,0,0,0,,,,31902231902
+2,Malaysia,12,J Intan,S Wetoto,Nur Arianna Natsya,,0,0,0,,,,31902231902
+2,Malaysia,13,Nur Arianna Natsya,Q Abel,J Intan,,0,1,1,,,,31902231902
+2,Malaysia,13,J Intan,Q Abel,Nur Arianna Natsya,,0,0,0,,,,31902231902
+2,Malaysia,13,J Intan,Q Abel,Nur Arianna Natsya,,0,4,4,,,,31902231902
+2,Malaysia,13,J Intan,Q Abel,Nur Arianna Natsya,,0,4,4,,,,31902231902
+2,Malaysia,13,J Intan,Q Abel,Nur Arianna Natsya,,0,0,0,,,,31902231902
+2,Malaysia,13,J Intan,Q Abel,Nur Arianna Natsya,,0,1,1,,,,31902231902
+2,Malaysia,14,J Intan,S Wetoto,Nur Arianna Natsya,,0,2,2,,,,31902231902
+2,Malaysia,14,J Intan,S Wetoto,Nur Arianna Natsya,,0,1,1,,,,31902231902
+2,Malaysia,14,Nur Arianna Natsya,S Wetoto,J Intan,,0,2,2,,,,31902231902
+2,Malaysia,14,Nur Arianna Natsya,S Wetoto,J Intan,,0,0,0,,,,31902231902
+2,Malaysia,14,Nur Arianna Natsya,S Wetoto,J Intan,,0,0,0,,,,31902231902
+2,Malaysia,14,Nur Arianna Natsya,S Wetoto,J Intan,,0,1,1,,,,31902231902
+2,Malaysia,15,Nur Arianna Natsya,E Wachira,J Intan,,0,1,1,,,,31902231902
+2,Malaysia,15,J Intan,E Wachira,Nur Arianna Natsya,,0,0,0,,,,31902231902
+2,Malaysia,15,J Intan,E Wachira,Nur Arianna Natsya,,0,1,1,,,,31902231902
+2,Malaysia,15,Nur Arianna Natsya,E Wachira,J Intan,,0,0,0,,,,31902231902
+2,Malaysia,15,Nur Arianna Natsya,E Wachira,J Intan,,0,0,0,,,,31902231902
+2,Malaysia,15,Nur Arianna Natsya,E Wachira,J Intan,,0,0,0,,,,31902231902
+2,Malaysia,16,J Intan,F Odhiambo,Nur Arianna Natsya,,0,0,0,caught,J Intan,M Ngoche,31902231902
+2,Malaysia,16,Wan Nor Zulaika,F Odhiambo,Nur Arianna Natsya,,0,2,2,,,,31902231902
+2,Malaysia,16,Wan Nor Zulaika,F Odhiambo,Nur Arianna Natsya,,0,0,0,,,,31902231902
+2,Malaysia,16,Wan Nor Zulaika,F Odhiambo,Nur Arianna Natsya,,0,2,2,,,,31902231902
+2,Malaysia,16,Wan Nor Zulaika,F Odhiambo,Nur Arianna Natsya,,0,1,1,,,,31902231902
+2,Malaysia,16,Nur Arianna Natsya,F Odhiambo,Wan Nor Zulaika,,0,1,1,,,,31902231902
+2,Malaysia,17,Nur Arianna Natsya,E Wachira,Wan Nor Zulaika,,0,0,0,,,,31902231902
+2,Malaysia,17,Nur Arianna Natsya,E Wachira,Wan Nor Zulaika,,0,0,0,,,,31902231902
+2,Malaysia,17,Nur Arianna Natsya,E Wachira,Wan Nor Zulaika,,0,1,1,,,,31902231902
+2,Malaysia,17,Wan Nor Zulaika,E Wachira,Nur Arianna Natsya,,0,1,1,,,,31902231902
+2,Malaysia,17,Nur Arianna Natsya,E Wachira,Wan Nor Zulaika,,0,0,0,,,,31902231902
+2,Malaysia,17,Nur Arianna Natsya,E Wachira,Wan Nor Zulaika,,0,1,1,,,,31902231902
+2,Malaysia,18,Nur Arianna Natsya,F Odhiambo,Wan Nor Zulaika,,0,1,1,,,,31902231902
+2,Malaysia,18,Wan Nor Zulaika,F Odhiambo,Nur Arianna Natsya,,0,2,2,,,,31902231902

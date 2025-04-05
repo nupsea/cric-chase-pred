@@ -1,0 +1,39 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Ireland,0,WTS Porterfield,Ahsan Malik,PR Stirling,,0,4,4,,,,359123591
+2,Ireland,0,WTS Porterfield,Ahsan Malik,PR Stirling,,0,0,0,,,,359123591
+2,Ireland,0,WTS Porterfield,Ahsan Malik,PR Stirling,byes,4,4,0,,,,359123591
+2,Ireland,0,WTS Porterfield,Ahsan Malik,PR Stirling,,0,0,0,,,,359123591
+2,Ireland,0,WTS Porterfield,Ahsan Malik,PR Stirling,,0,1,1,,,,359123591
+2,Ireland,0,PR Stirling,Ahsan Malik,WTS Porterfield,legbyes,1,1,0,,,,359123591
+2,Ireland,1,PR Stirling,T van der Gugten,WTS Porterfield,,0,6,6,,,,359123591
+2,Ireland,1,PR Stirling,T van der Gugten,WTS Porterfield,,0,3,3,,,,359123591
+2,Ireland,1,WTS Porterfield,T van der Gugten,PR Stirling,,0,0,0,caught,WTS Porterfield,BN Cooper,359123591
+2,Ireland,1,PR Stirling,T van der Gugten,KJ O'Brien,,0,0,0,,,,359123591
+2,Ireland,1,PR Stirling,T van der Gugten,KJ O'Brien,legbyes,1,1,0,,,,359123591
+2,Ireland,1,KJ O'Brien,T van der Gugten,PR Stirling,wides,2,2,0,,,,359123591
+2,Ireland,1,PR Stirling,T van der Gugten,KJ O'Brien,,0,6,6,,,,359123591
+2,Ireland,2,KJ O'Brien,PA van Meekeren,PR Stirling,,0,0,0,,,,359123591
+2,Ireland,2,KJ O'Brien,PA van Meekeren,PR Stirling,,0,0,0,caught,KJ O'Brien,PM Seelaar,359123591
+2,Ireland,2,PR Stirling,PA van Meekeren,GC Wilson,,0,0,0,caught,PR Stirling,RE van der Merwe,359123591
+2,Ireland,2,GC Wilson,PA van Meekeren,NJ O'Brien,,0,0,0,,,,359123591
+2,Ireland,2,GC Wilson,PA van Meekeren,NJ O'Brien,,0,0,0,,,,359123591
+2,Ireland,2,GC Wilson,PA van Meekeren,NJ O'Brien,,0,4,4,,,,359123591
+2,Ireland,3,NJ O'Brien,RE van der Merwe,GC Wilson,,0,1,1,,,,359123591
+2,Ireland,3,GC Wilson,RE van der Merwe,NJ O'Brien,,0,0,0,caught,GC Wilson,T van der Gugten,359123591
+2,Ireland,3,AD Poynter,RE van der Merwe,NJ O'Brien,,0,0,0,caught,AD Poynter,BN Cooper,359123591
+2,Ireland,3,NJ O'Brien,RE van der Merwe,MC Sorensen,,0,0,0,,,,359123591
+2,Ireland,3,NJ O'Brien,RE van der Merwe,MC Sorensen,,0,1,1,,,,359123591
+2,Ireland,3,MC Sorensen,RE van der Merwe,NJ O'Brien,,0,1,1,,,,359123591
+2,Ireland,4,MC Sorensen,Mudassar Bukhari,NJ O'Brien,,0,1,1,,,,359123591
+2,Ireland,4,NJ O'Brien,Mudassar Bukhari,MC Sorensen,,0,0,0,,,,359123591
+2,Ireland,4,NJ O'Brien,Mudassar Bukhari,MC Sorensen,,0,1,1,,,,359123591
+2,Ireland,4,MC Sorensen,Mudassar Bukhari,NJ O'Brien,,0,2,2,,,,359123591
+2,Ireland,4,MC Sorensen,Mudassar Bukhari,NJ O'Brien,,0,1,1,,,,359123591
+2,Ireland,4,NJ O'Brien,Mudassar Bukhari,MC Sorensen,,0,0,0,,,,359123591
+2,Ireland,5,MC Sorensen,PA van Meekeren,NJ O'Brien,,0,2,2,,,,359123591
+2,Ireland,5,MC Sorensen,PA van Meekeren,NJ O'Brien,,0,2,2,,,,359123591
+2,Ireland,5,MC Sorensen,PA van Meekeren,NJ O'Brien,,0,0,0,bowled,MC Sorensen,,359123591
+2,Ireland,5,GH Dockrell,PA van Meekeren,NJ O'Brien,,0,0,0,bowled,GH Dockrell,,359123591
+2,Ireland,5,AR McBrine,PA van Meekeren,NJ O'Brien,,0,1,1,,,,359123591
+2,Ireland,5,NJ O'Brien,PA van Meekeren,AR McBrine,noballs,1,1,0,,,,359123591
+2,Ireland,5,NJ O'Brien,PA van Meekeren,AR McBrine,,0,1,1,,,,359123591

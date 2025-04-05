@@ -1,0 +1,126 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,India,0,KD Karthik,RK Kleinveldt,M Vijay,wides,1,1,0,,,,311823118
+1,India,0,KD Karthik,RK Kleinveldt,M Vijay,,0,3,3,,,,311823118
+1,India,0,M Vijay,RK Kleinveldt,KD Karthik,,0,0,0,caught,M Vijay,MV Boucher,311823118
+1,India,0,SK Raina,RK Kleinveldt,KD Karthik,,0,0,0,,,,311823118
+1,India,0,SK Raina,RK Kleinveldt,KD Karthik,,0,1,1,,,,311823118
+1,India,0,KD Karthik,RK Kleinveldt,SK Raina,,0,0,0,,,,311823118
+1,India,0,KD Karthik,RK Kleinveldt,SK Raina,,0,0,0,,,,311823118
+1,India,1,SK Raina,DW Steyn,KD Karthik,,0,0,0,,,,311823118
+1,India,1,SK Raina,DW Steyn,KD Karthik,,0,0,0,,,,311823118
+1,India,1,SK Raina,DW Steyn,KD Karthik,,0,2,2,,,,311823118
+1,India,1,SK Raina,DW Steyn,KD Karthik,,0,1,1,,,,311823118
+1,India,1,KD Karthik,DW Steyn,SK Raina,,0,1,1,,,,311823118
+1,India,1,SK Raina,DW Steyn,KD Karthik,,0,0,0,,,,311823118
+1,India,2,KD Karthik,M Morkel,SK Raina,wides,1,1,0,,,,311823118
+1,India,2,KD Karthik,M Morkel,SK Raina,,0,0,0,,,,311823118
+1,India,2,KD Karthik,M Morkel,SK Raina,,0,0,0,,,,311823118
+1,India,2,KD Karthik,M Morkel,SK Raina,,0,0,0,,,,311823118
+1,India,2,KD Karthik,M Morkel,SK Raina,,0,0,0,,,,311823118
+1,India,2,KD Karthik,M Morkel,SK Raina,,0,0,0,,,,311823118
+1,India,2,KD Karthik,M Morkel,SK Raina,,0,4,4,,,,311823118
+1,India,3,SK Raina,JA Morkel,KD Karthik,,0,0,0,,,,311823118
+1,India,3,SK Raina,JA Morkel,KD Karthik,,0,1,1,,,,311823118
+1,India,3,KD Karthik,JA Morkel,SK Raina,,0,4,4,,,,311823118
+1,India,3,KD Karthik,JA Morkel,SK Raina,,0,0,0,,,,311823118
+1,India,3,KD Karthik,JA Morkel,SK Raina,,0,2,2,,,,311823118
+1,India,3,KD Karthik,JA Morkel,SK Raina,,0,0,0,,,,311823118
+1,India,4,SK Raina,M Morkel,KD Karthik,noballs,1,1,0,,,,311823118
+1,India,4,SK Raina,M Morkel,KD Karthik,,0,2,2,,,,311823118
+1,India,4,SK Raina,M Morkel,KD Karthik,,0,1,1,,,,311823118
+1,India,4,KD Karthik,M Morkel,SK Raina,,0,1,1,,,,311823118
+1,India,4,SK Raina,M Morkel,KD Karthik,,0,0,0,,,,311823118
+1,India,4,SK Raina,M Morkel,KD Karthik,,0,0,0,,,,311823118
+1,India,4,SK Raina,M Morkel,KD Karthik,,0,4,4,,,,311823118
+1,India,5,KD Karthik,JH Kallis,SK Raina,,0,1,1,,,,311823118
+1,India,5,SK Raina,JH Kallis,KD Karthik,,0,1,1,,,,311823118
+1,India,5,KD Karthik,JH Kallis,SK Raina,,0,0,0,caught,KD Karthik,GC Smith,311823118
+1,India,5,SK Raina,JH Kallis,Yuvraj Singh,,0,0,0,,,,311823118
+1,India,5,SK Raina,JH Kallis,Yuvraj Singh,,0,4,4,,,,311823118
+1,India,5,SK Raina,JH Kallis,Yuvraj Singh,,0,0,0,,,,311823118
+1,India,6,Yuvraj Singh,RK Kleinveldt,SK Raina,,0,0,0,,,,311823118
+1,India,6,Yuvraj Singh,RK Kleinveldt,SK Raina,,0,0,0,,,,311823118
+1,India,6,Yuvraj Singh,RK Kleinveldt,SK Raina,,0,0,0,,,,311823118
+1,India,6,Yuvraj Singh,RK Kleinveldt,SK Raina,,0,2,2,,,,311823118
+1,India,6,Yuvraj Singh,RK Kleinveldt,SK Raina,,0,1,1,,,,311823118
+1,India,6,SK Raina,RK Kleinveldt,Yuvraj Singh,,0,0,0,,,,311823118
+1,India,7,Yuvraj Singh,JH Kallis,SK Raina,,0,0,0,,,,311823118
+1,India,7,Yuvraj Singh,JH Kallis,SK Raina,,0,0,0,,,,311823118
+1,India,7,Yuvraj Singh,JH Kallis,SK Raina,,0,1,1,,,,311823118
+1,India,7,SK Raina,JH Kallis,Yuvraj Singh,,0,1,1,,,,311823118
+1,India,7,Yuvraj Singh,JH Kallis,SK Raina,,0,1,1,,,,311823118
+1,India,7,SK Raina,JH Kallis,Yuvraj Singh,,0,1,1,,,,311823118
+1,India,8,SK Raina,RE van der Merwe,Yuvraj Singh,,0,2,2,,,,311823118
+1,India,8,SK Raina,RE van der Merwe,Yuvraj Singh,,0,4,4,,,,311823118
+1,India,8,SK Raina,RE van der Merwe,Yuvraj Singh,,0,1,1,,,,311823118
+1,India,8,Yuvraj Singh,RE van der Merwe,SK Raina,,0,0,0,,,,311823118
+1,India,8,Yuvraj Singh,RE van der Merwe,SK Raina,,0,6,6,,,,311823118
+1,India,8,Yuvraj Singh,RE van der Merwe,SK Raina,,0,0,0,,,,311823118
+1,India,9,SK Raina,JH Kallis,Yuvraj Singh,,0,6,6,,,,311823118
+1,India,9,SK Raina,JH Kallis,Yuvraj Singh,,0,0,0,,,,311823118
+1,India,9,SK Raina,JH Kallis,Yuvraj Singh,,0,0,0,,,,311823118
+1,India,9,SK Raina,JH Kallis,Yuvraj Singh,,0,2,2,,,,311823118
+1,India,9,SK Raina,JH Kallis,Yuvraj Singh,,0,2,2,,,,311823118
+1,India,9,SK Raina,JH Kallis,Yuvraj Singh,,0,1,1,,,,311823118
+1,India,10,SK Raina,JA Morkel,Yuvraj Singh,,0,0,0,,,,311823118
+1,India,10,SK Raina,JA Morkel,Yuvraj Singh,,0,4,4,,,,311823118
+1,India,10,SK Raina,JA Morkel,Yuvraj Singh,,0,0,0,,,,311823118
+1,India,10,SK Raina,JA Morkel,Yuvraj Singh,,0,2,2,,,,311823118
+1,India,10,SK Raina,JA Morkel,Yuvraj Singh,,0,1,1,,,,311823118
+1,India,10,Yuvraj Singh,JA Morkel,SK Raina,,0,6,6,,,,311823118
+1,India,11,SK Raina,JH Kallis,Yuvraj Singh,,0,1,1,,,,311823118
+1,India,11,Yuvraj Singh,JH Kallis,SK Raina,,0,1,1,,,,311823118
+1,India,11,SK Raina,JH Kallis,Yuvraj Singh,,0,1,1,,,,311823118
+1,India,11,Yuvraj Singh,JH Kallis,SK Raina,,0,0,0,,,,311823118
+1,India,11,Yuvraj Singh,JH Kallis,SK Raina,wides,1,1,0,,,,311823118
+1,India,11,Yuvraj Singh,JH Kallis,SK Raina,,0,4,4,,,,311823118
+1,India,11,Yuvraj Singh,JH Kallis,SK Raina,,0,1,1,,,,311823118
+1,India,12,Yuvraj Singh,DW Steyn,SK Raina,,0,0,0,,,,311823118
+1,India,12,Yuvraj Singh,DW Steyn,SK Raina,,0,4,4,,,,311823118
+1,India,12,Yuvraj Singh,DW Steyn,SK Raina,,0,1,1,,,,311823118
+1,India,12,SK Raina,DW Steyn,Yuvraj Singh,,0,1,1,,,,311823118
+1,India,12,Yuvraj Singh,DW Steyn,SK Raina,,0,0,0,,,,311823118
+1,India,12,Yuvraj Singh,DW Steyn,SK Raina,,0,1,1,,,,311823118
+1,India,13,Yuvraj Singh,M Morkel,SK Raina,,0,4,4,,,,311823118
+1,India,13,Yuvraj Singh,M Morkel,SK Raina,,0,0,0,,,,311823118
+1,India,13,Yuvraj Singh,M Morkel,SK Raina,,0,1,1,,,,311823118
+1,India,13,SK Raina,M Morkel,Yuvraj Singh,,0,1,1,,,,311823118
+1,India,13,Yuvraj Singh,M Morkel,SK Raina,,0,1,1,,,,311823118
+1,India,13,SK Raina,M Morkel,Yuvraj Singh,,0,1,1,,,,311823118
+1,India,14,SK Raina,DW Steyn,Yuvraj Singh,,0,1,1,,,,311823118
+1,India,14,Yuvraj Singh,DW Steyn,SK Raina,,0,0,0,,,,311823118
+1,India,14,Yuvraj Singh,DW Steyn,SK Raina,,0,1,1,,,,311823118
+1,India,14,SK Raina,DW Steyn,Yuvraj Singh,,0,4,4,,,,311823118
+1,India,14,SK Raina,DW Steyn,Yuvraj Singh,,0,0,0,,,,311823118
+1,India,14,SK Raina,DW Steyn,Yuvraj Singh,,0,1,1,,,,311823118
+1,India,15,SK Raina,RK Kleinveldt,Yuvraj Singh,,0,1,1,,,,311823118
+1,India,15,Yuvraj Singh,RK Kleinveldt,SK Raina,,0,1,1,,,,311823118
+1,India,15,SK Raina,RK Kleinveldt,Yuvraj Singh,,0,6,6,,,,311823118
+1,India,15,SK Raina,RK Kleinveldt,Yuvraj Singh,,0,1,1,,,,311823118
+1,India,15,Yuvraj Singh,RK Kleinveldt,SK Raina,,0,0,0,caught,Yuvraj Singh,GC Smith,311823118
+1,India,15,SK Raina,RK Kleinveldt,YK Pathan,,0,6,6,,,,311823118
+1,India,16,YK Pathan,M Morkel,SK Raina,,0,1,1,,,,311823118
+1,India,16,SK Raina,M Morkel,YK Pathan,wides,1,1,0,,,,311823118
+1,India,16,SK Raina,M Morkel,YK Pathan,,0,1,1,,,,311823118
+1,India,16,YK Pathan,M Morkel,SK Raina,,0,1,1,,,,311823118
+1,India,16,SK Raina,M Morkel,YK Pathan,,0,4,4,,,,311823118
+1,India,16,SK Raina,M Morkel,YK Pathan,,0,1,1,,,,311823118
+1,India,16,YK Pathan,M Morkel,SK Raina,,0,1,1,,,,311823118
+1,India,17,YK Pathan,RK Kleinveldt,SK Raina,,0,6,6,,,,311823118
+1,India,17,YK Pathan,RK Kleinveldt,SK Raina,,0,1,1,,,,311823118
+1,India,17,SK Raina,RK Kleinveldt,YK Pathan,,0,4,4,,,,311823118
+1,India,17,SK Raina,RK Kleinveldt,YK Pathan,,0,4,4,,,,311823118
+1,India,17,SK Raina,RK Kleinveldt,YK Pathan,,0,4,4,,,,311823118
+1,India,17,SK Raina,RK Kleinveldt,YK Pathan,,0,6,6,,,,311823118
+1,India,18,YK Pathan,DW Steyn,SK Raina,,0,1,1,,,,311823118
+1,India,18,SK Raina,DW Steyn,YK Pathan,,0,1,1,,,,311823118
+1,India,18,YK Pathan,DW Steyn,SK Raina,,0,0,0,caught,YK Pathan,RE van der Merwe,311823118
+1,India,18,SK Raina,DW Steyn,MS Dhoni,,0,1,1,,,,311823118
+1,India,18,MS Dhoni,DW Steyn,SK Raina,,0,2,2,,,,311823118
+1,India,18,MS Dhoni,DW Steyn,SK Raina,,0,1,1,,,,311823118
+1,India,19,MS Dhoni,JA Morkel,SK Raina,,0,4,4,,,,311823118
+1,India,19,MS Dhoni,JA Morkel,SK Raina,,0,1,1,,,,311823118
+1,India,19,SK Raina,JA Morkel,MS Dhoni,,0,6,6,,,,311823118
+1,India,19,SK Raina,JA Morkel,MS Dhoni,,0,0,0,caught,SK Raina,AB de Villiers,311823118
+1,India,19,MS Dhoni,JA Morkel,Harbhajan Singh,,0,2,2,,,,311823118
+1,India,19,MS Dhoni,JA Morkel,Harbhajan Singh,,0,6,6,,,,311823118

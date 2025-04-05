@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Ireland,0,WTS Porterfield,MR Swart,PR Stirling,,0,0,0,,,,340423404
+1,Ireland,0,WTS Porterfield,MR Swart,PR Stirling,,0,1,1,,,,340423404
+1,Ireland,0,PR Stirling,MR Swart,WTS Porterfield,,0,1,1,,,,340423404
+1,Ireland,0,WTS Porterfield,MR Swart,PR Stirling,,0,0,0,,,,340423404
+1,Ireland,0,WTS Porterfield,MR Swart,PR Stirling,,0,0,0,,,,340423404
+1,Ireland,0,WTS Porterfield,MR Swart,PR Stirling,,0,4,4,,,,340423404
+1,Ireland,1,PR Stirling,T van der Gugten,WTS Porterfield,,0,0,0,,,,340423404
+1,Ireland,1,PR Stirling,T van der Gugten,WTS Porterfield,,0,2,2,,,,340423404
+1,Ireland,1,PR Stirling,T van der Gugten,WTS Porterfield,,0,0,0,,,,340423404
+1,Ireland,1,PR Stirling,T van der Gugten,WTS Porterfield,,0,0,0,,,,340423404
+1,Ireland,1,PR Stirling,T van der Gugten,WTS Porterfield,,0,4,4,,,,340423404
+1,Ireland,1,PR Stirling,T van der Gugten,WTS Porterfield,,0,0,0,,,,340423404
+1,Ireland,2,WTS Porterfield,Ahsan Malik,PR Stirling,,0,2,2,,,,340423404
+1,Ireland,2,WTS Porterfield,Ahsan Malik,PR Stirling,,0,2,2,,,,340423404
+1,Ireland,2,WTS Porterfield,Ahsan Malik,PR Stirling,,0,4,4,,,,340423404
+1,Ireland,2,WTS Porterfield,Ahsan Malik,PR Stirling,,0,6,6,,,,340423404
+1,Ireland,2,WTS Porterfield,Ahsan Malik,PR Stirling,,0,1,1,,,,340423404
+1,Ireland,2,PR Stirling,Ahsan Malik,WTS Porterfield,,0,0,0,,,,340423404
+1,Ireland,3,WTS Porterfield,T van der Gugten,PR Stirling,,0,1,1,,,,340423404
+1,Ireland,3,PR Stirling,T van der Gugten,WTS Porterfield,,0,0,0,caught,PR Stirling,PW Borren,340423404
+1,Ireland,3,WTS Porterfield,T van der Gugten,EC Joyce,,0,4,4,,,,340423404
+1,Ireland,3,WTS Porterfield,T van der Gugten,EC Joyce,,0,0,0,,,,340423404
+1,Ireland,3,WTS Porterfield,T van der Gugten,EC Joyce,,0,4,4,,,,340423404
+1,Ireland,3,WTS Porterfield,T van der Gugten,EC Joyce,,0,0,0,,,,340423404
+1,Ireland,4,EC Joyce,MR Swart,WTS Porterfield,,0,0,0,,,,340423404
+1,Ireland,4,EC Joyce,MR Swart,WTS Porterfield,,0,0,0,,,,340423404
+1,Ireland,4,EC Joyce,MR Swart,WTS Porterfield,,0,1,1,,,,340423404
+1,Ireland,4,WTS Porterfield,MR Swart,EC Joyce,,0,6,6,,,,340423404
+1,Ireland,4,WTS Porterfield,MR Swart,EC Joyce,,0,0,0,,,,340423404
+1,Ireland,4,WTS Porterfield,MR Swart,EC Joyce,,0,0,0,,,,340423404
+1,Ireland,5,EC Joyce,Mudassar Bukhari,WTS Porterfield,,0,0,0,,,,340423404
+1,Ireland,5,EC Joyce,Mudassar Bukhari,WTS Porterfield,,0,0,0,,,,340423404
+1,Ireland,5,EC Joyce,Mudassar Bukhari,WTS Porterfield,,0,1,1,,,,340423404
+1,Ireland,5,WTS Porterfield,Mudassar Bukhari,EC Joyce,,0,4,4,,,,340423404
+1,Ireland,5,WTS Porterfield,Mudassar Bukhari,EC Joyce,,0,0,0,,,,340423404
+1,Ireland,5,WTS Porterfield,Mudassar Bukhari,EC Joyce,,0,0,0,,,,340423404
+1,Ireland,6,EC Joyce,TLW Cooper,WTS Porterfield,,0,1,1,,,,340423404
+1,Ireland,6,WTS Porterfield,TLW Cooper,EC Joyce,,0,0,0,,,,340423404
+1,Ireland,6,WTS Porterfield,TLW Cooper,EC Joyce,,0,1,1,,,,340423404
+1,Ireland,6,EC Joyce,TLW Cooper,WTS Porterfield,,0,1,1,,,,340423404
+1,Ireland,6,WTS Porterfield,TLW Cooper,EC Joyce,,0,1,1,,,,340423404
+1,Ireland,6,EC Joyce,TLW Cooper,WTS Porterfield,,0,4,4,,,,340423404
+1,Ireland,7,WTS Porterfield,PW Borren,EC Joyce,,0,1,1,,,,340423404
+1,Ireland,7,EC Joyce,PW Borren,WTS Porterfield,,0,1,1,,,,340423404
+1,Ireland,7,WTS Porterfield,PW Borren,EC Joyce,,0,2,2,,,,340423404
+1,Ireland,7,WTS Porterfield,PW Borren,EC Joyce,,0,1,1,,,,340423404
+1,Ireland,7,EC Joyce,PW Borren,WTS Porterfield,legbyes,1,1,0,,,,340423404
+1,Ireland,7,WTS Porterfield,PW Borren,EC Joyce,wides,1,1,0,,,,340423404
+1,Ireland,7,WTS Porterfield,PW Borren,EC Joyce,,0,0,0,,,,340423404
+1,Ireland,8,EC Joyce,PM Seelaar,WTS Porterfield,,0,2,2,,,,340423404
+1,Ireland,8,EC Joyce,PM Seelaar,WTS Porterfield,,0,1,1,,,,340423404
+1,Ireland,8,WTS Porterfield,PM Seelaar,EC Joyce,,0,1,1,,,,340423404
+1,Ireland,8,EC Joyce,PM Seelaar,WTS Porterfield,,0,1,1,,,,340423404
+1,Ireland,8,WTS Porterfield,PM Seelaar,EC Joyce,,0,0,0,,,,340423404
+1,Ireland,8,WTS Porterfield,PM Seelaar,EC Joyce,,0,1,1,,,,340423404
+1,Ireland,9,WTS Porterfield,Ahsan Malik,EC Joyce,,0,0,0,bowled,WTS Porterfield,,340423404
+1,Ireland,9,AD Poynter,Ahsan Malik,EC Joyce,,0,1,1,,,,340423404
+1,Ireland,9,EC Joyce,Ahsan Malik,AD Poynter,,0,0,0,,,,340423404
+1,Ireland,9,EC Joyce,Ahsan Malik,AD Poynter,,0,1,1,,,,340423404
+1,Ireland,9,AD Poynter,Ahsan Malik,EC Joyce,,0,0,0,,,,340423404
+1,Ireland,9,AD Poynter,Ahsan Malik,EC Joyce,,0,0,0,,,,340423404
+1,Ireland,10,EC Joyce,PM Seelaar,AD Poynter,,0,6,6,,,,340423404
+1,Ireland,10,EC Joyce,PM Seelaar,AD Poynter,,0,1,1,,,,340423404
+1,Ireland,10,AD Poynter,PM Seelaar,EC Joyce,,0,0,0,,,,340423404
+1,Ireland,10,AD Poynter,PM Seelaar,EC Joyce,,0,1,1,,,,340423404
+1,Ireland,10,EC Joyce,PM Seelaar,AD Poynter,,0,0,0,,,,340423404
+1,Ireland,10,EC Joyce,PM Seelaar,AD Poynter,,0,1,1,,,,340423404
+1,Ireland,11,EC Joyce,MR Swart,AD Poynter,,0,1,1,,,,340423404
+1,Ireland,11,AD Poynter,MR Swart,EC Joyce,,0,0,0,,,,340423404
+1,Ireland,11,AD Poynter,MR Swart,EC Joyce,,0,1,1,,,,340423404
+1,Ireland,11,EC Joyce,MR Swart,AD Poynter,,0,1,1,,,,340423404
+1,Ireland,11,AD Poynter,MR Swart,EC Joyce,,0,1,1,,,,340423404
+1,Ireland,11,EC Joyce,MR Swart,AD Poynter,,0,1,1,,,,340423404
+1,Ireland,12,EC Joyce,Mudassar Bukhari,AD Poynter,,0,2,2,,,,340423404
+1,Ireland,12,EC Joyce,Mudassar Bukhari,AD Poynter,,0,1,1,,,,340423404
+1,Ireland,12,AD Poynter,Mudassar Bukhari,EC Joyce,,0,0,0,run out,EC Joyce,W Barresi,340423404
+1,Ireland,12,KJ O'Brien,Mudassar Bukhari,AD Poynter,,0,1,1,,,,340423404
+1,Ireland,12,AD Poynter,Mudassar Bukhari,KJ O'Brien,wides,1,1,0,,,,340423404
+1,Ireland,12,AD Poynter,Mudassar Bukhari,KJ O'Brien,,0,2,2,,,,340423404
+1,Ireland,12,AD Poynter,Mudassar Bukhari,KJ O'Brien,,0,1,1,,,,340423404
+1,Ireland,13,AD Poynter,PW Borren,KJ O'Brien,,0,6,6,,,,340423404
+1,Ireland,13,AD Poynter,PW Borren,KJ O'Brien,,0,1,1,,,,340423404
+1,Ireland,13,KJ O'Brien,PW Borren,AD Poynter,,0,4,4,,,,340423404
+1,Ireland,13,KJ O'Brien,PW Borren,AD Poynter,,0,1,1,,,,340423404
+1,Ireland,13,AD Poynter,PW Borren,KJ O'Brien,,0,0,0,,,,340423404
+1,Ireland,13,AD Poynter,PW Borren,KJ O'Brien,,0,1,1,,,,340423404
+1,Ireland,14,AD Poynter,Mudassar Bukhari,KJ O'Brien,,0,0,0,,,,340423404
+1,Ireland,14,AD Poynter,Mudassar Bukhari,KJ O'Brien,,0,4,4,,,,340423404
+1,Ireland,14,AD Poynter,Mudassar Bukhari,KJ O'Brien,,0,1,1,,,,340423404
+1,Ireland,14,KJ O'Brien,Mudassar Bukhari,AD Poynter,,0,6,6,,,,340423404
+1,Ireland,14,KJ O'Brien,Mudassar Bukhari,AD Poynter,,0,1,1,,,,340423404
+1,Ireland,14,AD Poynter,Mudassar Bukhari,KJ O'Brien,,0,1,1,,,,340423404
+1,Ireland,15,AD Poynter,MR Swart,KJ O'Brien,,0,1,1,,,,340423404
+1,Ireland,15,KJ O'Brien,MR Swart,AD Poynter,,0,1,1,,,,340423404
+1,Ireland,15,AD Poynter,MR Swart,KJ O'Brien,,0,6,6,,,,340423404
+1,Ireland,15,AD Poynter,MR Swart,KJ O'Brien,,0,6,6,,,,340423404
+1,Ireland,15,AD Poynter,MR Swart,KJ O'Brien,,0,6,6,,,,340423404
+1,Ireland,15,AD Poynter,MR Swart,KJ O'Brien,,0,1,1,,,,340423404
+1,Ireland,16,AD Poynter,T van der Gugten,KJ O'Brien,,0,4,4,,,,340423404
+1,Ireland,16,AD Poynter,T van der Gugten,KJ O'Brien,,0,4,4,,,,340423404
+1,Ireland,16,AD Poynter,T van der Gugten,KJ O'Brien,,0,1,1,,,,340423404
+1,Ireland,16,KJ O'Brien,T van der Gugten,AD Poynter,,0,0,0,,,,340423404
+1,Ireland,16,KJ O'Brien,T van der Gugten,AD Poynter,,0,2,2,,,,340423404
+1,Ireland,16,KJ O'Brien,T van der Gugten,AD Poynter,,0,6,6,,,,340423404
+1,Ireland,17,AD Poynter,Ahsan Malik,KJ O'Brien,,0,0,0,,,,340423404
+1,Ireland,17,AD Poynter,Ahsan Malik,KJ O'Brien,,0,1,1,,,,340423404
+1,Ireland,17,KJ O'Brien,Ahsan Malik,AD Poynter,,0,1,1,,,,340423404
+1,Ireland,17,AD Poynter,Ahsan Malik,KJ O'Brien,,0,0,0,,,,340423404
+1,Ireland,17,AD Poynter,Ahsan Malik,KJ O'Brien,,0,1,1,,,,340423404
+1,Ireland,17,KJ O'Brien,Ahsan Malik,AD Poynter,,0,1,1,,,,340423404
+1,Ireland,18,KJ O'Brien,LV van Beek,AD Poynter,,0,6,6,,,,340423404
+1,Ireland,18,KJ O'Brien,LV van Beek,AD Poynter,,0,6,6,,,,340423404
+1,Ireland,18,KJ O'Brien,LV van Beek,AD Poynter,,0,1,1,,,,340423404
+1,Ireland,18,AD Poynter,LV van Beek,KJ O'Brien,,0,0,0,,,,340423404
+1,Ireland,18,AD Poynter,LV van Beek,KJ O'Brien,,0,1,1,,,,340423404
+1,Ireland,18,KJ O'Brien,LV van Beek,AD Poynter,,0,4,4,,,,340423404
+1,Ireland,19,AD Poynter,Ahsan Malik,KJ O'Brien,,0,0,0,,,,340423404
+1,Ireland,19,AD Poynter,Ahsan Malik,KJ O'Brien,legbyes,1,1,0,,,,340423404
+1,Ireland,19,KJ O'Brien,Ahsan Malik,AD Poynter,,0,1,1,,,,340423404
+1,Ireland,19,AD Poynter,Ahsan Malik,KJ O'Brien,legbyes,4,4,0,,,,340423404
+1,Ireland,19,AD Poynter,Ahsan Malik,KJ O'Brien,,0,4,4,,,,340423404
+1,Ireland,19,AD Poynter,Ahsan Malik,KJ O'Brien,,0,0,0,caught,AD Poynter,LV van Beek,340423404

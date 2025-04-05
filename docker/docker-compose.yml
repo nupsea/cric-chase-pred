@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  postgres:
+    image: postgres:14
+    environment:
+      POSTGRES_USER: flink
+      POSTGRES_PASSWORD: flink
+      POSTGRES_DB: flinkdb
+    ports:
+      - "5432:5432"

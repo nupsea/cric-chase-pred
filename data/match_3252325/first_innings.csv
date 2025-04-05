@@ -1,0 +1,122 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Bangladesh,0,Tamim Iqbal,SM Pollock,Nazimuddin,,0,4,4,,,,3252325
+1,Bangladesh,0,Tamim Iqbal,SM Pollock,Nazimuddin,,0,0,0,,,,3252325
+1,Bangladesh,0,Tamim Iqbal,SM Pollock,Nazimuddin,,0,0,0,,,,3252325
+1,Bangladesh,0,Tamim Iqbal,SM Pollock,Nazimuddin,,0,4,4,,,,3252325
+1,Bangladesh,0,Tamim Iqbal,SM Pollock,Nazimuddin,,0,0,0,,,,3252325
+1,Bangladesh,0,Tamim Iqbal,SM Pollock,Nazimuddin,,0,0,0,,,,3252325
+1,Bangladesh,1,Nazimuddin,M Ntini,Tamim Iqbal,,0,0,0,lbw,Nazimuddin,,3252325
+1,Bangladesh,1,Aftab Ahmed,M Ntini,Tamim Iqbal,,0,0,0,,,,3252325
+1,Bangladesh,1,Aftab Ahmed,M Ntini,Tamim Iqbal,,0,0,0,,,,3252325
+1,Bangladesh,1,Aftab Ahmed,M Ntini,Tamim Iqbal,,0,6,6,,,,3252325
+1,Bangladesh,1,Aftab Ahmed,M Ntini,Tamim Iqbal,,0,6,6,,,,3252325
+1,Bangladesh,1,Aftab Ahmed,M Ntini,Tamim Iqbal,,0,4,4,,,,3252325
+1,Bangladesh,2,Tamim Iqbal,SM Pollock,Aftab Ahmed,,0,0,0,caught,Tamim Iqbal,GC Smith,3252325
+1,Bangladesh,2,Mohammad Ashraful,SM Pollock,Aftab Ahmed,,0,6,6,,,,3252325
+1,Bangladesh,2,Mohammad Ashraful,SM Pollock,Aftab Ahmed,,0,4,4,,,,3252325
+1,Bangladesh,2,Mohammad Ashraful,SM Pollock,Aftab Ahmed,,0,0,0,caught,Mohammad Ashraful,GC Smith,3252325
+1,Bangladesh,2,Aftab Ahmed,SM Pollock,Shakib Al Hasan,,0,4,4,,,,3252325
+1,Bangladesh,2,Aftab Ahmed,SM Pollock,Shakib Al Hasan,,0,1,1,,,,3252325
+1,Bangladesh,3,Aftab Ahmed,M Ntini,Shakib Al Hasan,,0,4,4,,,,3252325
+1,Bangladesh,3,Aftab Ahmed,M Ntini,Shakib Al Hasan,,0,2,2,,,,3252325
+1,Bangladesh,3,Aftab Ahmed,M Ntini,Shakib Al Hasan,,0,0,0,,,,3252325
+1,Bangladesh,3,Aftab Ahmed,M Ntini,Shakib Al Hasan,,0,4,4,,,,3252325
+1,Bangladesh,3,Aftab Ahmed,M Ntini,Shakib Al Hasan,,0,1,1,,,,3252325
+1,Bangladesh,3,Shakib Al Hasan,M Ntini,Aftab Ahmed,,0,4,4,,,,3252325
+1,Bangladesh,4,Aftab Ahmed,M Morkel,Shakib Al Hasan,,0,4,4,,,,3252325
+1,Bangladesh,4,Aftab Ahmed,M Morkel,Shakib Al Hasan,,0,0,0,bowled,Aftab Ahmed,,3252325
+1,Bangladesh,4,Alok Kapali,M Morkel,Shakib Al Hasan,,0,1,1,,,,3252325
+1,Bangladesh,4,Shakib Al Hasan,M Morkel,Alok Kapali,,0,0,0,,,,3252325
+1,Bangladesh,4,Shakib Al Hasan,M Morkel,Alok Kapali,,0,1,1,,,,3252325
+1,Bangladesh,4,Alok Kapali,M Morkel,Shakib Al Hasan,,0,0,0,,,,3252325
+1,Bangladesh,5,Shakib Al Hasan,JJ van der Wath,Alok Kapali,,0,2,2,,,,3252325
+1,Bangladesh,5,Shakib Al Hasan,JJ van der Wath,Alok Kapali,,0,0,0,,,,3252325
+1,Bangladesh,5,Shakib Al Hasan,JJ van der Wath,Alok Kapali,,0,1,1,,,,3252325
+1,Bangladesh,5,Alok Kapali,JJ van der Wath,Shakib Al Hasan,,0,0,0,,,,3252325
+1,Bangladesh,5,Alok Kapali,JJ van der Wath,Shakib Al Hasan,,0,1,1,,,,3252325
+1,Bangladesh,5,Shakib Al Hasan,JJ van der Wath,Alok Kapali,,0,1,1,,,,3252325
+1,Bangladesh,6,Shakib Al Hasan,M Morkel,Alok Kapali,,0,0,0,,,,3252325
+1,Bangladesh,6,Shakib Al Hasan,M Morkel,Alok Kapali,,0,4,4,,,,3252325
+1,Bangladesh,6,Shakib Al Hasan,M Morkel,Alok Kapali,,0,4,4,,,,3252325
+1,Bangladesh,6,Shakib Al Hasan,M Morkel,Alok Kapali,,0,1,1,,,,3252325
+1,Bangladesh,6,Alok Kapali,M Morkel,Shakib Al Hasan,,0,1,1,,,,3252325
+1,Bangladesh,6,Shakib Al Hasan,M Morkel,Alok Kapali,,0,1,1,,,,3252325
+1,Bangladesh,7,Shakib Al Hasan,JJ van der Wath,Alok Kapali,wides,1,1,0,,,,3252325
+1,Bangladesh,7,Shakib Al Hasan,JJ van der Wath,Alok Kapali,,0,0,0,,,,3252325
+1,Bangladesh,7,Shakib Al Hasan,JJ van der Wath,Alok Kapali,,0,0,0,run out,Shakib Al Hasan,JP Duminy,3252325
+1,Bangladesh,7,Alok Kapali,JJ van der Wath,Mashrafe Mortaza,,0,1,1,,,,3252325
+1,Bangladesh,7,Mashrafe Mortaza,JJ van der Wath,Alok Kapali,,0,0,0,,,,3252325
+1,Bangladesh,7,Mashrafe Mortaza,JJ van der Wath,Alok Kapali,,0,0,0,,,,3252325
+1,Bangladesh,7,Mashrafe Mortaza,JJ van der Wath,Alok Kapali,,0,0,0,,,,3252325
+1,Bangladesh,8,Alok Kapali,VD Philander,Mashrafe Mortaza,,0,0,0,,,,3252325
+1,Bangladesh,8,Alok Kapali,VD Philander,Mashrafe Mortaza,,0,0,0,,,,3252325
+1,Bangladesh,8,Alok Kapali,VD Philander,Mashrafe Mortaza,,0,1,1,,,,3252325
+1,Bangladesh,8,Mashrafe Mortaza,VD Philander,Alok Kapali,,0,0,0,,,,3252325
+1,Bangladesh,8,Mashrafe Mortaza,VD Philander,Alok Kapali,,0,6,6,,,,3252325
+1,Bangladesh,8,Mashrafe Mortaza,VD Philander,Alok Kapali,,0,6,6,,,,3252325
+1,Bangladesh,9,Alok Kapali,M Morkel,Mashrafe Mortaza,,0,0,0,,,,3252325
+1,Bangladesh,9,Alok Kapali,M Morkel,Mashrafe Mortaza,,0,0,0,,,,3252325
+1,Bangladesh,9,Alok Kapali,M Morkel,Mashrafe Mortaza,,0,0,0,,,,3252325
+1,Bangladesh,9,Alok Kapali,M Morkel,Mashrafe Mortaza,noballs,1,1,0,,,,3252325
+1,Bangladesh,9,Alok Kapali,M Morkel,Mashrafe Mortaza,legbyes,2,2,0,,,,3252325
+1,Bangladesh,9,Alok Kapali,M Morkel,Mashrafe Mortaza,wides,1,1,0,,,,3252325
+1,Bangladesh,9,Alok Kapali,M Morkel,Mashrafe Mortaza,,0,1,1,,,,3252325
+1,Bangladesh,9,Mashrafe Mortaza,M Morkel,Alok Kapali,,0,0,0,,,,3252325
+1,Bangladesh,10,Alok Kapali,VD Philander,Mashrafe Mortaza,,0,0,0,,,,3252325
+1,Bangladesh,10,Alok Kapali,VD Philander,Mashrafe Mortaza,legbyes,4,4,0,,,,3252325
+1,Bangladesh,10,Alok Kapali,VD Philander,Mashrafe Mortaza,,0,1,1,,,,3252325
+1,Bangladesh,10,Mashrafe Mortaza,VD Philander,Alok Kapali,,0,0,0,caught,Mashrafe Mortaza,JP Duminy,3252325
+1,Bangladesh,10,Alok Kapali,VD Philander,Farhad Reza,,0,0,0,,,,3252325
+1,Bangladesh,10,Alok Kapali,VD Philander,Farhad Reza,,0,0,0,,,,3252325
+1,Bangladesh,11,Farhad Reza,JA Morkel,Alok Kapali,,0,1,1,,,,3252325
+1,Bangladesh,11,Alok Kapali,JA Morkel,Farhad Reza,,0,0,0,,,,3252325
+1,Bangladesh,11,Alok Kapali,JA Morkel,Farhad Reza,,0,0,0,,,,3252325
+1,Bangladesh,11,Alok Kapali,JA Morkel,Farhad Reza,,0,0,0,,,,3252325
+1,Bangladesh,11,Alok Kapali,JA Morkel,Farhad Reza,,0,0,0,,,,3252325
+1,Bangladesh,11,Alok Kapali,JA Morkel,Farhad Reza,,0,1,1,,,,3252325
+1,Bangladesh,12,Alok Kapali,VD Philander,Farhad Reza,,0,0,0,,,,3252325
+1,Bangladesh,12,Alok Kapali,VD Philander,Farhad Reza,,0,1,1,,,,3252325
+1,Bangladesh,12,Farhad Reza,VD Philander,Alok Kapali,,0,0,0,,,,3252325
+1,Bangladesh,12,Farhad Reza,VD Philander,Alok Kapali,,0,0,0,,,,3252325
+1,Bangladesh,12,Farhad Reza,VD Philander,Alok Kapali,,0,0,0,,,,3252325
+1,Bangladesh,12,Farhad Reza,VD Philander,Alok Kapali,,0,0,0,,,,3252325
+1,Bangladesh,13,Alok Kapali,JA Morkel,Farhad Reza,,0,1,1,,,,3252325
+1,Bangladesh,13,Farhad Reza,JA Morkel,Alok Kapali,,0,0,0,,,,3252325
+1,Bangladesh,13,Farhad Reza,JA Morkel,Alok Kapali,,0,0,0,,,,3252325
+1,Bangladesh,13,Farhad Reza,JA Morkel,Alok Kapali,,0,1,1,,,,3252325
+1,Bangladesh,13,Alok Kapali,JA Morkel,Farhad Reza,wides,1,1,0,,,,3252325
+1,Bangladesh,13,Alok Kapali,JA Morkel,Farhad Reza,,0,1,1,,,,3252325
+1,Bangladesh,13,Farhad Reza,JA Morkel,Alok Kapali,,0,0,0,,,,3252325
+1,Bangladesh,14,Alok Kapali,SM Pollock,Farhad Reza,,0,1,1,,,,3252325
+1,Bangladesh,14,Farhad Reza,SM Pollock,Alok Kapali,,0,1,1,,,,3252325
+1,Bangladesh,14,Alok Kapali,SM Pollock,Farhad Reza,,0,1,1,,,,3252325
+1,Bangladesh,14,Farhad Reza,SM Pollock,Alok Kapali,,0,6,6,,,,3252325
+1,Bangladesh,14,Farhad Reza,SM Pollock,Alok Kapali,,0,1,1,,,,3252325
+1,Bangladesh,14,Alok Kapali,SM Pollock,Farhad Reza,,0,1,1,,,,3252325
+1,Bangladesh,15,Alok Kapali,M Morkel,Farhad Reza,,0,0,0,,,,3252325
+1,Bangladesh,15,Alok Kapali,M Morkel,Farhad Reza,,0,0,0,,,,3252325
+1,Bangladesh,15,Alok Kapali,M Morkel,Farhad Reza,,0,0,0,caught,Alok Kapali,AB de Villiers,3252325
+1,Bangladesh,15,Farhad Reza,M Morkel,Mushfiqur Rahim,,0,0,0,,,,3252325
+1,Bangladesh,15,Farhad Reza,M Morkel,Mushfiqur Rahim,,0,0,0,,,,3252325
+1,Bangladesh,15,Farhad Reza,M Morkel,Mushfiqur Rahim,,0,1,1,,,,3252325
+1,Bangladesh,16,Farhad Reza,JJ van der Wath,Mushfiqur Rahim,,0,1,1,,,,3252325
+1,Bangladesh,16,Mushfiqur Rahim,JJ van der Wath,Farhad Reza,,0,1,1,,,,3252325
+1,Bangladesh,16,Farhad Reza,JJ van der Wath,Mushfiqur Rahim,,0,0,0,,,,3252325
+1,Bangladesh,16,Farhad Reza,JJ van der Wath,Mushfiqur Rahim,,0,0,0,,,,3252325
+1,Bangladesh,16,Farhad Reza,JJ van der Wath,Mushfiqur Rahim,,0,1,1,,,,3252325
+1,Bangladesh,16,Mushfiqur Rahim,JJ van der Wath,Farhad Reza,,0,2,2,,,,3252325
+1,Bangladesh,17,Farhad Reza,VD Philander,Mushfiqur Rahim,,0,6,6,,,,3252325
+1,Bangladesh,17,Farhad Reza,VD Philander,Mushfiqur Rahim,,0,0,0,caught,Farhad Reza,JM Kemp,3252325
+1,Bangladesh,17,Mushfiqur Rahim,VD Philander,Abdur Razzak,,0,0,0,,,,3252325
+1,Bangladesh,17,Mushfiqur Rahim,VD Philander,Abdur Razzak,,0,0,0,,,,3252325
+1,Bangladesh,17,Mushfiqur Rahim,VD Philander,Abdur Razzak,,0,1,1,,,,3252325
+1,Bangladesh,17,Abdur Razzak,VD Philander,Mushfiqur Rahim,,0,1,1,,,,3252325
+1,Bangladesh,18,Abdur Razzak,JJ van der Wath,Mushfiqur Rahim,,0,0,0,,,,3252325
+1,Bangladesh,18,Abdur Razzak,JJ van der Wath,Mushfiqur Rahim,,0,1,1,,,,3252325
+1,Bangladesh,18,Mushfiqur Rahim,JJ van der Wath,Abdur Razzak,,0,0,0,caught,Mushfiqur Rahim,SM Pollock,3252325
+1,Bangladesh,18,Abdur Razzak,JJ van der Wath,Syed Rasel,,0,0,0,,,,3252325
+1,Bangladesh,18,Abdur Razzak,JJ van der Wath,Syed Rasel,,0,0,0,,,,3252325
+1,Bangladesh,18,Abdur Razzak,JJ van der Wath,Syed Rasel,legbyes,4,4,0,,,,3252325
+1,Bangladesh,19,Syed Rasel,SM Pollock,Abdur Razzak,,0,2,2,,,,3252325
+1,Bangladesh,19,Syed Rasel,SM Pollock,Abdur Razzak,,0,4,4,,,,3252325
+1,Bangladesh,19,Syed Rasel,SM Pollock,Abdur Razzak,,0,0,0,bowled,Syed Rasel,,3252325

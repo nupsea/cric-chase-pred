@@ -1,0 +1,83 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Ireland,0,PR Stirling,Amir Hamza,SW Poynter,,0,0,0,,,,372923729
+1,Ireland,0,PR Stirling,Amir Hamza,SW Poynter,,0,0,0,,,,372923729
+1,Ireland,0,PR Stirling,Amir Hamza,SW Poynter,,0,0,0,,,,372923729
+1,Ireland,0,PR Stirling,Amir Hamza,SW Poynter,,0,2,2,,,,372923729
+1,Ireland,0,PR Stirling,Amir Hamza,SW Poynter,,0,4,4,,,,372923729
+1,Ireland,0,PR Stirling,Amir Hamza,SW Poynter,,0,0,0,,,,372923729
+1,Ireland,1,SW Poynter,Fareed Ahmad,PR Stirling,,0,4,4,,,,372923729
+1,Ireland,1,SW Poynter,Fareed Ahmad,PR Stirling,,0,4,4,,,,372923729
+1,Ireland,1,SW Poynter,Fareed Ahmad,PR Stirling,,0,0,0,caught,SW Poynter,Rashid Khan,372923729
+1,Ireland,1,WTS Porterfield,Fareed Ahmad,PR Stirling,,0,2,2,,,,372923729
+1,Ireland,1,WTS Porterfield,Fareed Ahmad,PR Stirling,,0,0,0,,,,372923729
+1,Ireland,1,WTS Porterfield,Fareed Ahmad,PR Stirling,,0,6,6,,,,372923729
+1,Ireland,2,PR Stirling,Amir Hamza,WTS Porterfield,,0,0,0,,,,372923729
+1,Ireland,2,PR Stirling,Amir Hamza,WTS Porterfield,,0,0,0,,,,372923729
+1,Ireland,2,PR Stirling,Amir Hamza,WTS Porterfield,,0,1,1,,,,372923729
+1,Ireland,2,WTS Porterfield,Amir Hamza,PR Stirling,byes,1,1,0,,,,372923729
+1,Ireland,2,PR Stirling,Amir Hamza,WTS Porterfield,,0,1,1,,,,372923729
+1,Ireland,2,WTS Porterfield,Amir Hamza,PR Stirling,,0,1,1,,,,372923729
+1,Ireland,3,WTS Porterfield,Mohammad Nabi,PR Stirling,legbyes,1,1,0,,,,372923729
+1,Ireland,3,PR Stirling,Mohammad Nabi,WTS Porterfield,,0,4,4,,,,372923729
+1,Ireland,3,PR Stirling,Mohammad Nabi,WTS Porterfield,,0,1,1,,,,372923729
+1,Ireland,3,WTS Porterfield,Mohammad Nabi,PR Stirling,,0,0,0,,,,372923729
+1,Ireland,3,WTS Porterfield,Mohammad Nabi,PR Stirling,,0,0,0,stumped,WTS Porterfield,Mohammad Shahzad,372923729
+1,Ireland,3,KJ O'Brien,Mohammad Nabi,PR Stirling,,0,0,0,,,,372923729
+1,Ireland,4,PR Stirling,Amir Hamza,KJ O'Brien,,0,2,2,,,,372923729
+1,Ireland,4,PR Stirling,Amir Hamza,KJ O'Brien,,0,0,0,,,,372923729
+1,Ireland,4,PR Stirling,Amir Hamza,KJ O'Brien,,0,1,1,,,,372923729
+1,Ireland,4,KJ O'Brien,Amir Hamza,PR Stirling,,0,1,1,,,,372923729
+1,Ireland,4,PR Stirling,Amir Hamza,KJ O'Brien,,0,0,0,,,,372923729
+1,Ireland,4,PR Stirling,Amir Hamza,KJ O'Brien,,0,1,1,,,,372923729
+1,Ireland,5,PR Stirling,Mohammad Nabi,KJ O'Brien,,0,0,0,caught,PR Stirling,Gulbadin Naib,372923729
+1,Ireland,5,KJ O'Brien,Mohammad Nabi,GC Wilson,,0,0,0,,,,372923729
+1,Ireland,5,KJ O'Brien,Mohammad Nabi,GC Wilson,,0,4,4,,,,372923729
+1,Ireland,5,KJ O'Brien,Mohammad Nabi,GC Wilson,,0,0,0,,,,372923729
+1,Ireland,5,KJ O'Brien,Mohammad Nabi,GC Wilson,,0,0,0,bowled,KJ O'Brien,,372923729
+1,Ireland,5,GJ Thompson,Mohammad Nabi,GC Wilson,,0,0,0,,,,372923729
+1,Ireland,6,GC Wilson,Karim Janat,GJ Thompson,,0,1,1,,,,372923729
+1,Ireland,6,GJ Thompson,Karim Janat,GC Wilson,,0,1,1,,,,372923729
+1,Ireland,6,GC Wilson,Karim Janat,GJ Thompson,,0,1,1,,,,372923729
+1,Ireland,6,GJ Thompson,Karim Janat,GC Wilson,,0,0,0,,,,372923729
+1,Ireland,6,GJ Thompson,Karim Janat,GC Wilson,legbyes,1,1,0,,,,372923729
+1,Ireland,6,GC Wilson,Karim Janat,GJ Thompson,,0,1,1,,,,372923729
+1,Ireland,7,GC Wilson,Amir Hamza,GJ Thompson,,0,0,0,,,,372923729
+1,Ireland,7,GC Wilson,Amir Hamza,GJ Thompson,,0,0,0,,,,372923729
+1,Ireland,7,GC Wilson,Amir Hamza,GJ Thompson,,0,0,0,lbw,GC Wilson,,372923729
+1,Ireland,7,AR McBrine,Amir Hamza,GJ Thompson,,0,0,0,,,,372923729
+1,Ireland,7,AR McBrine,Amir Hamza,GJ Thompson,,0,0,0,bowled,AR McBrine,,372923729
+1,Ireland,7,GH Dockrell,Amir Hamza,GJ Thompson,,0,1,1,,,,372923729
+1,Ireland,8,GH Dockrell,Rashid Khan,GJ Thompson,,0,0,0,,,,372923729
+1,Ireland,8,GH Dockrell,Rashid Khan,GJ Thompson,wides,1,1,0,,,,372923729
+1,Ireland,8,GH Dockrell,Rashid Khan,GJ Thompson,,0,1,1,,,,372923729
+1,Ireland,8,GJ Thompson,Rashid Khan,GH Dockrell,,0,1,1,,,,372923729
+1,Ireland,8,GH Dockrell,Rashid Khan,GJ Thompson,,0,0,0,,,,372923729
+1,Ireland,8,GH Dockrell,Rashid Khan,GJ Thompson,,0,1,1,,,,372923729
+1,Ireland,8,GJ Thompson,Rashid Khan,GH Dockrell,,0,0,0,,,,372923729
+1,Ireland,9,GH Dockrell,Karim Janat,GJ Thompson,,0,0,0,,,,372923729
+1,Ireland,9,GH Dockrell,Karim Janat,GJ Thompson,,0,0,0,,,,372923729
+1,Ireland,9,GH Dockrell,Karim Janat,GJ Thompson,,0,1,1,,,,372923729
+1,Ireland,9,GJ Thompson,Karim Janat,GH Dockrell,,0,0,0,,,,372923729
+1,Ireland,9,GJ Thompson,Karim Janat,GH Dockrell,,0,4,4,,,,372923729
+1,Ireland,9,GJ Thompson,Karim Janat,GH Dockrell,,0,0,0,,,,372923729
+1,Ireland,10,GH Dockrell,Rashid Khan,GJ Thompson,,0,0,0,,,,372923729
+1,Ireland,10,GH Dockrell,Rashid Khan,GJ Thompson,,0,2,2,,,,372923729
+1,Ireland,10,GH Dockrell,Rashid Khan,GJ Thompson,,0,0,0,,,,372923729
+1,Ireland,10,GH Dockrell,Rashid Khan,GJ Thompson,,0,1,1,,,,372923729
+1,Ireland,10,GJ Thompson,Rashid Khan,GH Dockrell,,0,0,0,,,,372923729
+1,Ireland,10,GJ Thompson,Rashid Khan,GH Dockrell,legbyes,1,1,0,,,,372923729
+1,Ireland,11,GJ Thompson,Fareed Ahmad,GH Dockrell,,0,0,0,,,,372923729
+1,Ireland,11,GJ Thompson,Fareed Ahmad,GH Dockrell,,0,1,1,,,,372923729
+1,Ireland,11,GH Dockrell,Fareed Ahmad,GJ Thompson,,0,1,1,,,,372923729
+1,Ireland,11,GJ Thompson,Fareed Ahmad,GH Dockrell,legbyes,1,1,0,,,,372923729
+1,Ireland,11,GH Dockrell,Fareed Ahmad,GJ Thompson,,0,0,0,caught,GH Dockrell,Samiullah Shenwari,372923729
+1,Ireland,11,GJ Thompson,Fareed Ahmad,J Mulder,,0,2,2,,,,372923729
+1,Ireland,12,J Mulder,Karim Janat,GJ Thompson,,0,0,0,caught,J Mulder,Mohammad Shahzad,372923729
+1,Ireland,12,WB Rankin,Karim Janat,GJ Thompson,,0,0,0,,,,372923729
+1,Ireland,12,WB Rankin,Karim Janat,GJ Thompson,wides,1,1,0,,,,372923729
+1,Ireland,12,WB Rankin,Karim Janat,GJ Thompson,,0,0,0,,,,372923729
+1,Ireland,12,WB Rankin,Karim Janat,GJ Thompson,,0,2,2,,,,372923729
+1,Ireland,12,WB Rankin,Karim Janat,GJ Thompson,,0,0,0,bowled,WB Rankin,,372923729
+1,Ireland,12,CA Young,Karim Janat,GJ Thompson,,0,2,2,,,,372923729
+1,Ireland,13,GJ Thompson,Mohammad Nabi,CA Young,,0,1,1,,,,372923729
+1,Ireland,13,CA Young,Mohammad Nabi,GJ Thompson,,0,0,0,bowled,CA Young,,372923729

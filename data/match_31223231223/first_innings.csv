@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Bangladesh,0,Nazmul Hossain Shanto,A Ndlovu,Liton Das,,0,1,1,,,,31223231223
+1,Bangladesh,0,Liton Das,A Ndlovu,Nazmul Hossain Shanto,,0,0,0,,,,31223231223
+1,Bangladesh,0,Liton Das,A Ndlovu,Nazmul Hossain Shanto,,0,0,0,,,,31223231223
+1,Bangladesh,0,Liton Das,A Ndlovu,Nazmul Hossain Shanto,,0,0,0,,,,31223231223
+1,Bangladesh,0,Liton Das,A Ndlovu,Nazmul Hossain Shanto,,0,0,0,,,,31223231223
+1,Bangladesh,0,Liton Das,A Ndlovu,Nazmul Hossain Shanto,,0,1,1,,,,31223231223
+1,Bangladesh,1,Liton Das,KM Jarvis,Nazmul Hossain Shanto,,0,4,4,,,,31223231223
+1,Bangladesh,1,Liton Das,KM Jarvis,Nazmul Hossain Shanto,,0,0,0,,,,31223231223
+1,Bangladesh,1,Liton Das,KM Jarvis,Nazmul Hossain Shanto,,0,0,0,,,,31223231223
+1,Bangladesh,1,Liton Das,KM Jarvis,Nazmul Hossain Shanto,,0,4,4,,,,31223231223
+1,Bangladesh,1,Liton Das,KM Jarvis,Nazmul Hossain Shanto,,0,1,1,,,,31223231223
+1,Bangladesh,1,Nazmul Hossain Shanto,KM Jarvis,Liton Das,,0,0,0,,,,31223231223
+1,Bangladesh,2,Liton Das,A Ndlovu,Nazmul Hossain Shanto,,0,6,6,,,,31223231223
+1,Bangladesh,2,Liton Das,A Ndlovu,Nazmul Hossain Shanto,,0,4,4,,,,31223231223
+1,Bangladesh,2,Liton Das,A Ndlovu,Nazmul Hossain Shanto,,0,6,6,,,,31223231223
+1,Bangladesh,2,Liton Das,A Ndlovu,Nazmul Hossain Shanto,,0,3,3,,,,31223231223
+1,Bangladesh,2,Nazmul Hossain Shanto,A Ndlovu,Liton Das,,0,1,1,,,,31223231223
+1,Bangladesh,2,Liton Das,A Ndlovu,Nazmul Hossain Shanto,,0,1,1,,,,31223231223
+1,Bangladesh,3,Liton Das,CB Mpofu,Nazmul Hossain Shanto,,0,1,1,,,,31223231223
+1,Bangladesh,3,Nazmul Hossain Shanto,CB Mpofu,Liton Das,wides,1,1,0,,,,31223231223
+1,Bangladesh,3,Nazmul Hossain Shanto,CB Mpofu,Liton Das,,0,4,4,,,,31223231223
+1,Bangladesh,3,Nazmul Hossain Shanto,CB Mpofu,Liton Das,,0,0,0,,,,31223231223
+1,Bangladesh,3,Nazmul Hossain Shanto,CB Mpofu,Liton Das,,0,1,1,,,,31223231223
+1,Bangladesh,3,Liton Das,CB Mpofu,Nazmul Hossain Shanto,,0,1,1,,,,31223231223
+1,Bangladesh,3,Nazmul Hossain Shanto,CB Mpofu,Liton Das,,0,1,1,,,,31223231223
+1,Bangladesh,4,Nazmul Hossain Shanto,KM Jarvis,Liton Das,,0,3,3,,,,31223231223
+1,Bangladesh,4,Liton Das,KM Jarvis,Nazmul Hossain Shanto,,0,4,4,,,,31223231223
+1,Bangladesh,4,Liton Das,KM Jarvis,Nazmul Hossain Shanto,,0,0,0,,,,31223231223
+1,Bangladesh,4,Liton Das,KM Jarvis,Nazmul Hossain Shanto,,0,1,1,,,,31223231223
+1,Bangladesh,4,Nazmul Hossain Shanto,KM Jarvis,Liton Das,,0,0,0,caught and bowled,Nazmul Hossain Shanto,,31223231223
+1,Bangladesh,4,Shakib Al Hasan,KM Jarvis,Liton Das,,0,0,0,,,,31223231223
+1,Bangladesh,5,Liton Das,CB Mpofu,Shakib Al Hasan,,0,1,1,,,,31223231223
+1,Bangladesh,5,Shakib Al Hasan,CB Mpofu,Liton Das,,0,4,4,,,,31223231223
+1,Bangladesh,5,Shakib Al Hasan,CB Mpofu,Liton Das,,0,0,0,,,,31223231223
+1,Bangladesh,5,Shakib Al Hasan,CB Mpofu,Liton Das,,0,1,1,,,,31223231223
+1,Bangladesh,5,Liton Das,CB Mpofu,Shakib Al Hasan,,0,0,0,caught,Liton Das,N Madziva,31223231223
+1,Bangladesh,5,Mushfiqur Rahim,CB Mpofu,Shakib Al Hasan,,0,0,0,,,,31223231223
+1,Bangladesh,6,Shakib Al Hasan,SC Williams,Mushfiqur Rahim,,0,1,1,,,,31223231223
+1,Bangladesh,6,Mushfiqur Rahim,SC Williams,Shakib Al Hasan,legbyes,3,3,0,,,,31223231223
+1,Bangladesh,6,Shakib Al Hasan,SC Williams,Mushfiqur Rahim,,0,1,1,,,,31223231223
+1,Bangladesh,6,Mushfiqur Rahim,SC Williams,Shakib Al Hasan,wides,1,1,0,,,,31223231223
+1,Bangladesh,6,Mushfiqur Rahim,SC Williams,Shakib Al Hasan,,0,0,0,,,,31223231223
+1,Bangladesh,6,Mushfiqur Rahim,SC Williams,Shakib Al Hasan,,0,1,1,,,,31223231223
+1,Bangladesh,6,Shakib Al Hasan,SC Williams,Mushfiqur Rahim,,0,1,1,,,,31223231223
+1,Bangladesh,7,Shakib Al Hasan,RP Burl,Mushfiqur Rahim,,0,2,2,,,,31223231223
+1,Bangladesh,7,Shakib Al Hasan,RP Burl,Mushfiqur Rahim,,0,0,0,caught,Shakib Al Hasan,SC Williams,31223231223
+1,Bangladesh,7,Mahmudullah,RP Burl,Mushfiqur Rahim,,0,6,6,,,,31223231223
+1,Bangladesh,7,Mahmudullah,RP Burl,Mushfiqur Rahim,,0,0,0,,,,31223231223
+1,Bangladesh,7,Mahmudullah,RP Burl,Mushfiqur Rahim,,0,1,1,,,,31223231223
+1,Bangladesh,7,Mushfiqur Rahim,RP Burl,Mahmudullah,,0,4,4,,,,31223231223
+1,Bangladesh,8,Mahmudullah,SC Williams,Mushfiqur Rahim,,0,0,0,,,,31223231223
+1,Bangladesh,8,Mahmudullah,SC Williams,Mushfiqur Rahim,,0,0,0,,,,31223231223
+1,Bangladesh,8,Mahmudullah,SC Williams,Mushfiqur Rahim,,0,1,1,,,,31223231223
+1,Bangladesh,8,Mushfiqur Rahim,SC Williams,Mahmudullah,,0,1,1,,,,31223231223
+1,Bangladesh,8,Mahmudullah,SC Williams,Mushfiqur Rahim,,0,1,1,,,,31223231223
+1,Bangladesh,8,Mushfiqur Rahim,SC Williams,Mahmudullah,,0,0,0,,,,31223231223
+1,Bangladesh,9,Mahmudullah,CT Mutombodzi,Mushfiqur Rahim,,0,2,2,,,,31223231223
+1,Bangladesh,9,Mahmudullah,CT Mutombodzi,Mushfiqur Rahim,,0,0,0,,,,31223231223
+1,Bangladesh,9,Mahmudullah,CT Mutombodzi,Mushfiqur Rahim,,0,0,0,,,,31223231223
+1,Bangladesh,9,Mahmudullah,CT Mutombodzi,Mushfiqur Rahim,,0,0,0,,,,31223231223
+1,Bangladesh,9,Mahmudullah,CT Mutombodzi,Mushfiqur Rahim,,0,2,2,,,,31223231223
+1,Bangladesh,9,Mahmudullah,CT Mutombodzi,Mushfiqur Rahim,,0,0,0,,,,31223231223
+1,Bangladesh,10,Mushfiqur Rahim,N Madziva,Mahmudullah,,0,1,1,,,,31223231223
+1,Bangladesh,10,Mahmudullah,N Madziva,Mushfiqur Rahim,,0,1,1,,,,31223231223
+1,Bangladesh,10,Mushfiqur Rahim,N Madziva,Mahmudullah,,0,4,4,,,,31223231223
+1,Bangladesh,10,Mushfiqur Rahim,N Madziva,Mahmudullah,,0,1,1,,,,31223231223
+1,Bangladesh,10,Mahmudullah,N Madziva,Mushfiqur Rahim,,0,1,1,,,,31223231223
+1,Bangladesh,10,Mushfiqur Rahim,N Madziva,Mahmudullah,,0,2,2,,,,31223231223
+1,Bangladesh,11,Mahmudullah,A Ndlovu,Mushfiqur Rahim,,0,1,1,,,,31223231223
+1,Bangladesh,11,Mushfiqur Rahim,A Ndlovu,Mahmudullah,,0,1,1,,,,31223231223
+1,Bangladesh,11,Mahmudullah,A Ndlovu,Mushfiqur Rahim,,0,1,1,,,,31223231223
+1,Bangladesh,11,Mushfiqur Rahim,A Ndlovu,Mahmudullah,,0,4,4,,,,31223231223
+1,Bangladesh,11,Mushfiqur Rahim,A Ndlovu,Mahmudullah,,0,1,1,,,,31223231223
+1,Bangladesh,11,Mahmudullah,A Ndlovu,Mushfiqur Rahim,,0,1,1,,,,31223231223
+1,Bangladesh,12,Mahmudullah,SC Williams,Mushfiqur Rahim,,0,6,6,,,,31223231223
+1,Bangladesh,12,Mahmudullah,SC Williams,Mushfiqur Rahim,,0,1,1,,,,31223231223
+1,Bangladesh,12,Mushfiqur Rahim,SC Williams,Mahmudullah,,0,0,0,,,,31223231223
+1,Bangladesh,12,Mushfiqur Rahim,SC Williams,Mahmudullah,wides,1,1,0,,,,31223231223
+1,Bangladesh,12,Mushfiqur Rahim,SC Williams,Mahmudullah,,0,0,0,,,,31223231223
+1,Bangladesh,12,Mushfiqur Rahim,SC Williams,Mahmudullah,,0,1,1,,,,31223231223
+1,Bangladesh,12,Mahmudullah,SC Williams,Mushfiqur Rahim,,0,1,1,,,,31223231223
+1,Bangladesh,13,Mahmudullah,CT Mutombodzi,Mushfiqur Rahim,,0,1,1,,,,31223231223
+1,Bangladesh,13,Mushfiqur Rahim,CT Mutombodzi,Mahmudullah,,0,1,1,,,,31223231223
+1,Bangladesh,13,Mahmudullah,CT Mutombodzi,Mushfiqur Rahim,,0,0,0,,,,31223231223
+1,Bangladesh,13,Mahmudullah,CT Mutombodzi,Mushfiqur Rahim,,0,0,0,,,,31223231223
+1,Bangladesh,13,Mahmudullah,CT Mutombodzi,Mushfiqur Rahim,,0,6,6,,,,31223231223
+1,Bangladesh,13,Mahmudullah,CT Mutombodzi,Mushfiqur Rahim,,0,1,1,,,,31223231223
+1,Bangladesh,14,Mahmudullah,CB Mpofu,Mushfiqur Rahim,wides,1,1,0,,,,31223231223
+1,Bangladesh,14,Mahmudullah,CB Mpofu,Mushfiqur Rahim,,0,1,1,,,,31223231223
+1,Bangladesh,14,Mushfiqur Rahim,CB Mpofu,Mahmudullah,,0,1,1,,,,31223231223
+1,Bangladesh,14,Mahmudullah,CB Mpofu,Mushfiqur Rahim,,0,1,1,,,,31223231223
+1,Bangladesh,14,Mushfiqur Rahim,CB Mpofu,Mahmudullah,,0,6,6,,,,31223231223
+1,Bangladesh,14,Mushfiqur Rahim,CB Mpofu,Mahmudullah,,0,1,1,,,,31223231223
+1,Bangladesh,14,Mahmudullah,CB Mpofu,Mushfiqur Rahim,,0,2,2,,,,31223231223
+1,Bangladesh,15,Mushfiqur Rahim,SC Williams,Mahmudullah,,0,1,1,,,,31223231223
+1,Bangladesh,15,Mahmudullah,SC Williams,Mushfiqur Rahim,,0,4,4,,,,31223231223
+1,Bangladesh,15,Mahmudullah,SC Williams,Mushfiqur Rahim,,0,1,1,,,,31223231223
+1,Bangladesh,15,Mushfiqur Rahim,SC Williams,Mahmudullah,,0,0,0,,,,31223231223
+1,Bangladesh,15,Mushfiqur Rahim,SC Williams,Mahmudullah,,0,1,1,,,,31223231223
+1,Bangladesh,15,Mahmudullah,SC Williams,Mushfiqur Rahim,,0,1,1,,,,31223231223
+1,Bangladesh,16,Mahmudullah,CT Mutombodzi,Mushfiqur Rahim,,0,1,1,,,,31223231223
+1,Bangladesh,16,Mushfiqur Rahim,CT Mutombodzi,Mahmudullah,,0,0,0,,,,31223231223
+1,Bangladesh,16,Mushfiqur Rahim,CT Mutombodzi,Mahmudullah,,0,0,0,caught,Mushfiqur Rahim,BRM Taylor,31223231223
+1,Bangladesh,16,Afif Hossain,CT Mutombodzi,Mahmudullah,,0,1,1,,,,31223231223
+1,Bangladesh,16,Mahmudullah,CT Mutombodzi,Afif Hossain,,0,1,1,,,,31223231223
+1,Bangladesh,16,Afif Hossain,CT Mutombodzi,Mahmudullah,,0,1,1,,,,31223231223
+1,Bangladesh,17,Afif Hossain,KM Jarvis,Mahmudullah,,0,0,0,,,,31223231223
+1,Bangladesh,17,Afif Hossain,KM Jarvis,Mahmudullah,,0,0,0,,,,31223231223
+1,Bangladesh,17,Afif Hossain,KM Jarvis,Mahmudullah,,0,2,2,,,,31223231223
+1,Bangladesh,17,Afif Hossain,KM Jarvis,Mahmudullah,,0,1,1,,,,31223231223
+1,Bangladesh,17,Mahmudullah,KM Jarvis,Afif Hossain,,0,1,1,,,,31223231223
+1,Bangladesh,17,Afif Hossain,KM Jarvis,Mahmudullah,,0,2,2,,,,31223231223
+1,Bangladesh,18,Mahmudullah,CB Mpofu,Afif Hossain,,0,0,0,,,,31223231223
+1,Bangladesh,18,Mahmudullah,CB Mpofu,Afif Hossain,,0,6,6,,,,31223231223
+1,Bangladesh,18,Mahmudullah,CB Mpofu,Afif Hossain,,0,1,1,,,,31223231223
+1,Bangladesh,18,Afif Hossain,CB Mpofu,Mahmudullah,,0,0,0,caught,Afif Hossain,BRM Taylor,31223231223
+1,Bangladesh,18,Mosaddek Hossain,CB Mpofu,Mahmudullah,,0,1,1,,,,31223231223
+1,Bangladesh,18,Mahmudullah,CB Mpofu,Mosaddek Hossain,,0,6,6,,,,31223231223
+1,Bangladesh,19,Mosaddek Hossain,KM Jarvis,Mahmudullah,,0,1,1,,,,31223231223
+1,Bangladesh,19,Mahmudullah,KM Jarvis,Mosaddek Hossain,,0,2,2,,,,31223231223
+1,Bangladesh,19,Mahmudullah,KM Jarvis,Mosaddek Hossain,,0,0,0,caught,Mahmudullah,SC Williams,31223231223
+1,Bangladesh,19,Mosaddek Hossain,KM Jarvis,Mohammad Saifuddin,,0,0,0,caught,Mosaddek Hossain,RW Chakabva,31223231223
+1,Bangladesh,19,Mohammad Saifuddin,KM Jarvis,Aminul Islam,,0,2,2,,,,31223231223
+1,Bangladesh,19,Mohammad Saifuddin,KM Jarvis,Aminul Islam,,0,4,4,,,,31223231223

@@ -1,0 +1,116 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,England,0,DN Wyatt,J Goswami,AE Jones,,0,0,0,,,,380123801
+1,England,0,DN Wyatt,J Goswami,AE Jones,legbyes,1,1,0,,,,380123801
+1,England,0,AE Jones,J Goswami,DN Wyatt,,0,0,0,,,,380123801
+1,England,0,AE Jones,J Goswami,DN Wyatt,,0,0,0,,,,380123801
+1,England,0,AE Jones,J Goswami,DN Wyatt,,0,0,0,,,,380123801
+1,England,0,AE Jones,J Goswami,DN Wyatt,,0,0,0,,,,380123801
+1,England,1,DN Wyatt,P Vastrakar,AE Jones,,0,0,0,,,,380123801
+1,England,1,DN Wyatt,P Vastrakar,AE Jones,wides,1,1,0,,,,380123801
+1,England,1,DN Wyatt,P Vastrakar,AE Jones,,0,0,0,,,,380123801
+1,England,1,DN Wyatt,P Vastrakar,AE Jones,wides,1,1,0,,,,380123801
+1,England,1,DN Wyatt,P Vastrakar,AE Jones,,0,0,0,,,,380123801
+1,England,1,DN Wyatt,P Vastrakar,AE Jones,,0,1,1,,,,380123801
+1,England,1,AE Jones,P Vastrakar,DN Wyatt,,0,1,1,,,,380123801
+1,England,1,DN Wyatt,P Vastrakar,AE Jones,,0,4,4,,,,380123801
+1,England,2,AE Jones,J Goswami,DN Wyatt,,0,4,4,,,,380123801
+1,England,2,AE Jones,J Goswami,DN Wyatt,,0,4,4,,,,380123801
+1,England,2,AE Jones,J Goswami,DN Wyatt,,0,0,0,,,,380123801
+1,England,2,AE Jones,J Goswami,DN Wyatt,,0,1,1,,,,380123801
+1,England,2,DN Wyatt,J Goswami,AE Jones,,0,1,1,,,,380123801
+1,England,2,AE Jones,J Goswami,DN Wyatt,,0,1,1,,,,380123801
+1,England,3,AE Jones,P Vastrakar,DN Wyatt,,0,4,4,,,,380123801
+1,England,3,AE Jones,P Vastrakar,DN Wyatt,,0,0,0,caught,AE Jones,M Raj,380123801
+1,England,3,DN Wyatt,P Vastrakar,TT Beaumont,,0,0,0,,,,380123801
+1,England,3,DN Wyatt,P Vastrakar,TT Beaumont,,0,0,0,,,,380123801
+1,England,3,DN Wyatt,P Vastrakar,TT Beaumont,,0,1,1,,,,380123801
+1,England,3,TT Beaumont,P Vastrakar,DN Wyatt,,0,4,4,,,,380123801
+1,England,4,DN Wyatt,AA Patil,TT Beaumont,,0,4,4,,,,380123801
+1,England,4,DN Wyatt,AA Patil,TT Beaumont,,0,4,4,,,,380123801
+1,England,4,DN Wyatt,AA Patil,TT Beaumont,,0,1,1,,,,380123801
+1,England,4,TT Beaumont,AA Patil,DN Wyatt,,0,1,1,,,,380123801
+1,England,4,DN Wyatt,AA Patil,TT Beaumont,,0,1,1,,,,380123801
+1,England,4,TT Beaumont,AA Patil,DN Wyatt,,0,0,0,,,,380123801
+1,England,5,DN Wyatt,RP Yadav,TT Beaumont,,0,0,0,,,,380123801
+1,England,5,DN Wyatt,RP Yadav,TT Beaumont,,0,4,4,,,,380123801
+1,England,5,DN Wyatt,RP Yadav,TT Beaumont,,0,2,2,,,,380123801
+1,England,5,DN Wyatt,RP Yadav,TT Beaumont,,0,1,1,,,,380123801
+1,England,5,TT Beaumont,RP Yadav,DN Wyatt,,0,1,1,,,,380123801
+1,England,5,DN Wyatt,RP Yadav,TT Beaumont,,0,6,6,,,,380123801
+1,England,6,TT Beaumont,DB Sharma,DN Wyatt,,0,1,1,,,,380123801
+1,England,6,DN Wyatt,DB Sharma,TT Beaumont,,0,1,1,,,,380123801
+1,England,6,TT Beaumont,DB Sharma,DN Wyatt,,0,2,2,,,,380123801
+1,England,6,TT Beaumont,DB Sharma,DN Wyatt,,0,1,1,,,,380123801
+1,England,6,DN Wyatt,DB Sharma,TT Beaumont,,0,0,0,caught and bowled,DN Wyatt,,380123801
+1,England,6,NR Sciver,DB Sharma,TT Beaumont,,0,1,1,,,,380123801
+1,England,7,NR Sciver,Poonam Yadav,TT Beaumont,,0,1,1,,,,380123801
+1,England,7,TT Beaumont,Poonam Yadav,NR Sciver,,0,0,0,,,,380123801
+1,England,7,TT Beaumont,Poonam Yadav,NR Sciver,,0,0,0,caught,TT Beaumont,J Goswami,380123801
+1,England,7,NR Sciver,Poonam Yadav,HC Knight,,0,1,1,,,,380123801
+1,England,7,HC Knight,Poonam Yadav,NR Sciver,,0,0,0,,,,380123801
+1,England,7,HC Knight,Poonam Yadav,NR Sciver,,0,1,1,,,,380123801
+1,England,8,HC Knight,DB Sharma,NR Sciver,,0,1,1,,,,380123801
+1,England,8,NR Sciver,DB Sharma,HC Knight,,0,1,1,,,,380123801
+1,England,8,HC Knight,DB Sharma,NR Sciver,,0,1,1,,,,380123801
+1,England,8,NR Sciver,DB Sharma,HC Knight,,0,2,2,,,,380123801
+1,England,8,NR Sciver,DB Sharma,HC Knight,,0,4,4,,,,380123801
+1,England,8,NR Sciver,DB Sharma,HC Knight,,0,1,1,,,,380123801
+1,England,9,NR Sciver,Poonam Yadav,HC Knight,,0,0,0,,,,380123801
+1,England,9,NR Sciver,Poonam Yadav,HC Knight,,0,1,1,,,,380123801
+1,England,9,HC Knight,Poonam Yadav,NR Sciver,,0,0,0,,,,380123801
+1,England,9,HC Knight,Poonam Yadav,NR Sciver,,0,0,0,,,,380123801
+1,England,9,HC Knight,Poonam Yadav,NR Sciver,,0,1,1,,,,380123801
+1,England,9,NR Sciver,Poonam Yadav,HC Knight,,0,2,2,,,,380123801
+1,England,10,HC Knight,AA Patil,NR Sciver,,0,4,4,,,,380123801
+1,England,10,HC Knight,AA Patil,NR Sciver,,0,1,1,,,,380123801
+1,England,10,NR Sciver,AA Patil,HC Knight,,0,1,1,,,,380123801
+1,England,10,HC Knight,AA Patil,NR Sciver,,0,1,1,,,,380123801
+1,England,10,NR Sciver,AA Patil,HC Knight,,0,0,0,caught,NR Sciver,T Bhatia,380123801
+1,England,10,FC Wilson,AA Patil,HC Knight,,0,1,1,,,,380123801
+1,England,11,FC Wilson,Poonam Yadav,HC Knight,,0,0,0,,,,380123801
+1,England,11,FC Wilson,Poonam Yadav,HC Knight,,0,4,4,,,,380123801
+1,England,11,FC Wilson,Poonam Yadav,HC Knight,,0,0,0,,,,380123801
+1,England,11,FC Wilson,Poonam Yadav,HC Knight,,0,1,1,,,,380123801
+1,England,11,HC Knight,Poonam Yadav,FC Wilson,,0,1,1,,,,380123801
+1,England,11,FC Wilson,Poonam Yadav,HC Knight,,0,0,0,,,,380123801
+1,England,12,HC Knight,RP Yadav,FC Wilson,,0,0,0,caught,HC Knight,T Bhatia,380123801
+1,England,12,AN Davidson-Richards,RP Yadav,FC Wilson,,0,0,0,,,,380123801
+1,England,12,AN Davidson-Richards,RP Yadav,FC Wilson,,0,1,1,,,,380123801
+1,England,12,FC Wilson,RP Yadav,AN Davidson-Richards,,0,0,0,,,,380123801
+1,England,12,FC Wilson,RP Yadav,AN Davidson-Richards,,0,0,0,,,,380123801
+1,England,12,FC Wilson,RP Yadav,AN Davidson-Richards,,0,0,0,,,,380123801
+1,England,13,AN Davidson-Richards,Poonam Yadav,FC Wilson,,0,1,1,,,,380123801
+1,England,13,FC Wilson,Poonam Yadav,AN Davidson-Richards,,0,1,1,,,,380123801
+1,England,13,AN Davidson-Richards,Poonam Yadav,FC Wilson,,0,0,0,,,,380123801
+1,England,13,AN Davidson-Richards,Poonam Yadav,FC Wilson,,0,1,1,,,,380123801
+1,England,13,FC Wilson,Poonam Yadav,AN Davidson-Richards,,0,1,1,,,,380123801
+1,England,13,AN Davidson-Richards,Poonam Yadav,FC Wilson,,0,0,0,caught,AN Davidson-Richards,J Goswami,380123801
+1,England,14,KL George,RP Yadav,FC Wilson,,0,0,0,,,,380123801
+1,England,14,KL George,RP Yadav,FC Wilson,,0,0,0,lbw,KL George,,380123801
+1,England,14,D Hazell,RP Yadav,FC Wilson,,0,0,0,,,,380123801
+1,England,14,D Hazell,RP Yadav,FC Wilson,,0,0,0,,,,380123801
+1,England,14,D Hazell,RP Yadav,FC Wilson,,0,1,1,,,,380123801
+1,England,14,FC Wilson,RP Yadav,D Hazell,,0,0,0,,,,380123801
+1,England,15,D Hazell,DB Sharma,FC Wilson,,0,1,1,,,,380123801
+1,England,15,FC Wilson,DB Sharma,D Hazell,,0,0,0,,,,380123801
+1,England,15,FC Wilson,DB Sharma,D Hazell,,0,1,1,,,,380123801
+1,England,15,D Hazell,DB Sharma,FC Wilson,,0,1,1,,,,380123801
+1,England,15,FC Wilson,DB Sharma,D Hazell,,0,1,1,,,,380123801
+1,England,15,D Hazell,DB Sharma,FC Wilson,,0,0,0,,,,380123801
+1,England,16,FC Wilson,AA Patil,D Hazell,,0,1,1,,,,380123801
+1,England,16,D Hazell,AA Patil,FC Wilson,,0,0,0,caught,D Hazell,H Kaur,380123801
+1,England,16,FC Wilson,AA Patil,NE Farrant,,0,0,0,,,,380123801
+1,England,16,FC Wilson,AA Patil,NE Farrant,,0,1,1,,,,380123801
+1,England,16,NE Farrant,AA Patil,FC Wilson,,0,0,0,,,,380123801
+1,England,16,NE Farrant,AA Patil,FC Wilson,,0,0,0,,,,380123801
+1,England,17,FC Wilson,DB Sharma,NE Farrant,,0,0,0,,,,380123801
+1,England,17,FC Wilson,DB Sharma,NE Farrant,,0,0,0,stumped,FC Wilson,T Bhatia,380123801
+1,England,17,A Hartley,DB Sharma,NE Farrant,,0,1,1,,,,380123801
+1,England,17,NE Farrant,DB Sharma,A Hartley,,0,1,1,,,,380123801
+1,England,17,A Hartley,DB Sharma,NE Farrant,,0,1,1,,,,380123801
+1,England,17,NE Farrant,DB Sharma,A Hartley,,0,1,1,,,,380123801
+1,England,18,NE Farrant,AA Patil,A Hartley,,0,0,0,,,,380123801
+1,England,18,NE Farrant,AA Patil,A Hartley,,0,0,0,,,,380123801
+1,England,18,NE Farrant,AA Patil,A Hartley,,0,0,0,,,,380123801
+1,England,18,NE Farrant,AA Patil,A Hartley,,0,0,0,,,,380123801
+1,England,18,NE Farrant,AA Patil,A Hartley,,0,0,0,lbw,NE Farrant,,380123801

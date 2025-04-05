@@ -1,0 +1,119 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,West Indies,0,BA King,Nasum Ahmed,KR Mayers,wides,1,1,0,,,,32045232045
+2,West Indies,0,BA King,Nasum Ahmed,KR Mayers,,0,6,6,,,,32045232045
+2,West Indies,0,BA King,Nasum Ahmed,KR Mayers,,0,0,0,,,,32045232045
+2,West Indies,0,BA King,Nasum Ahmed,KR Mayers,,0,0,0,,,,32045232045
+2,West Indies,0,BA King,Nasum Ahmed,KR Mayers,,0,1,1,,,,32045232045
+2,West Indies,0,KR Mayers,Nasum Ahmed,BA King,,0,1,1,,,,32045232045
+2,West Indies,0,BA King,Nasum Ahmed,KR Mayers,,0,0,0,caught,BA King,Mahmudullah,32045232045
+2,West Indies,1,KR Mayers,Mahedi Hasan,SSJ Brooks,,0,1,1,,,,32045232045
+2,West Indies,1,SSJ Brooks,Mahedi Hasan,KR Mayers,,0,0,0,,,,32045232045
+2,West Indies,1,SSJ Brooks,Mahedi Hasan,KR Mayers,,0,4,4,,,,32045232045
+2,West Indies,1,SSJ Brooks,Mahedi Hasan,KR Mayers,,0,2,2,,,,32045232045
+2,West Indies,1,SSJ Brooks,Mahedi Hasan,KR Mayers,,0,1,1,,,,32045232045
+2,West Indies,1,KR Mayers,Mahedi Hasan,SSJ Brooks,,0,0,0,,,,32045232045
+2,West Indies,2,SSJ Brooks,Nasum Ahmed,KR Mayers,,0,0,0,,,,32045232045
+2,West Indies,2,SSJ Brooks,Nasum Ahmed,KR Mayers,,0,0,0,,,,32045232045
+2,West Indies,2,SSJ Brooks,Nasum Ahmed,KR Mayers,,0,4,4,,,,32045232045
+2,West Indies,2,SSJ Brooks,Nasum Ahmed,KR Mayers,,0,0,0,,,,32045232045
+2,West Indies,2,SSJ Brooks,Nasum Ahmed,KR Mayers,,0,0,0,,,,32045232045
+2,West Indies,2,SSJ Brooks,Nasum Ahmed,KR Mayers,,0,1,1,,,,32045232045
+2,West Indies,3,SSJ Brooks,Mahedi Hasan,KR Mayers,,0,0,0,,,,32045232045
+2,West Indies,3,SSJ Brooks,Mahedi Hasan,KR Mayers,,0,0,0,caught,SSJ Brooks,Anamul Haque,32045232045
+2,West Indies,3,OF Smith,Mahedi Hasan,KR Mayers,,0,0,0,,,,32045232045
+2,West Indies,3,OF Smith,Mahedi Hasan,KR Mayers,,0,1,1,,,,32045232045
+2,West Indies,3,KR Mayers,Mahedi Hasan,OF Smith,,0,0,0,,,,32045232045
+2,West Indies,3,KR Mayers,Mahedi Hasan,OF Smith,,0,1,1,,,,32045232045
+2,West Indies,4,KR Mayers,Nasum Ahmed,OF Smith,,0,0,0,,,,32045232045
+2,West Indies,4,KR Mayers,Nasum Ahmed,OF Smith,,0,0,0,,,,32045232045
+2,West Indies,4,KR Mayers,Nasum Ahmed,OF Smith,,0,0,0,,,,32045232045
+2,West Indies,4,KR Mayers,Nasum Ahmed,OF Smith,,0,4,4,,,,32045232045
+2,West Indies,4,KR Mayers,Nasum Ahmed,OF Smith,,0,6,6,,,,32045232045
+2,West Indies,4,KR Mayers,Nasum Ahmed,OF Smith,,0,1,1,,,,32045232045
+2,West Indies,5,KR Mayers,Mahedi Hasan,OF Smith,,0,0,0,,,,32045232045
+2,West Indies,5,KR Mayers,Mahedi Hasan,OF Smith,,0,0,0,,,,32045232045
+2,West Indies,5,KR Mayers,Mahedi Hasan,OF Smith,,0,4,4,,,,32045232045
+2,West Indies,5,KR Mayers,Mahedi Hasan,OF Smith,,0,0,0,,,,32045232045
+2,West Indies,5,KR Mayers,Mahedi Hasan,OF Smith,legbyes,1,1,0,,,,32045232045
+2,West Indies,5,OF Smith,Mahedi Hasan,KR Mayers,wides,1,1,0,,,,32045232045
+2,West Indies,5,OF Smith,Mahedi Hasan,KR Mayers,wides,1,1,0,,,,32045232045
+2,West Indies,5,OF Smith,Mahedi Hasan,KR Mayers,,0,1,1,,,,32045232045
+2,West Indies,6,OF Smith,Shakib Al Hasan,KR Mayers,,0,0,0,lbw,OF Smith,,32045232045
+2,West Indies,6,N Pooran,Shakib Al Hasan,KR Mayers,,0,1,1,,,,32045232045
+2,West Indies,6,KR Mayers,Shakib Al Hasan,N Pooran,,0,0,0,,,,32045232045
+2,West Indies,6,KR Mayers,Shakib Al Hasan,N Pooran,wides,1,1,0,,,,32045232045
+2,West Indies,6,KR Mayers,Shakib Al Hasan,N Pooran,,0,1,1,,,,32045232045
+2,West Indies,6,N Pooran,Shakib Al Hasan,KR Mayers,,0,0,0,,,,32045232045
+2,West Indies,6,N Pooran,Shakib Al Hasan,KR Mayers,,0,1,1,,,,32045232045
+2,West Indies,7,N Pooran,Mosaddek Hossain,KR Mayers,,0,0,0,,,,32045232045
+2,West Indies,7,N Pooran,Mosaddek Hossain,KR Mayers,,0,1,1,,,,32045232045
+2,West Indies,7,KR Mayers,Mosaddek Hossain,N Pooran,,0,6,6,,,,32045232045
+2,West Indies,7,KR Mayers,Mosaddek Hossain,N Pooran,,0,1,1,,,,32045232045
+2,West Indies,7,N Pooran,Mosaddek Hossain,KR Mayers,,0,1,1,,,,32045232045
+2,West Indies,7,KR Mayers,Mosaddek Hossain,N Pooran,,0,0,0,,,,32045232045
+2,West Indies,8,N Pooran,Mustafizur Rahman,KR Mayers,,0,6,6,,,,32045232045
+2,West Indies,8,N Pooran,Mustafizur Rahman,KR Mayers,,0,2,2,,,,32045232045
+2,West Indies,8,N Pooran,Mustafizur Rahman,KR Mayers,,0,0,0,,,,32045232045
+2,West Indies,8,N Pooran,Mustafizur Rahman,KR Mayers,,0,1,1,,,,32045232045
+2,West Indies,8,KR Mayers,Mustafizur Rahman,N Pooran,,0,1,1,,,,32045232045
+2,West Indies,8,N Pooran,Mustafizur Rahman,KR Mayers,,0,2,2,,,,32045232045
+2,West Indies,9,KR Mayers,Mahedi Hasan,N Pooran,,0,1,1,,,,32045232045
+2,West Indies,9,N Pooran,Mahedi Hasan,KR Mayers,,0,0,0,,,,32045232045
+2,West Indies,9,N Pooran,Mahedi Hasan,KR Mayers,,0,1,1,,,,32045232045
+2,West Indies,9,KR Mayers,Mahedi Hasan,N Pooran,,0,0,0,,,,32045232045
+2,West Indies,9,KR Mayers,Mahedi Hasan,N Pooran,,0,1,1,,,,32045232045
+2,West Indies,9,N Pooran,Mahedi Hasan,KR Mayers,,0,1,1,,,,32045232045
+2,West Indies,10,N Pooran,Mosaddek Hossain,KR Mayers,,0,4,4,,,,32045232045
+2,West Indies,10,N Pooran,Mosaddek Hossain,KR Mayers,,0,0,0,,,,32045232045
+2,West Indies,10,N Pooran,Mosaddek Hossain,KR Mayers,,0,1,1,,,,32045232045
+2,West Indies,10,KR Mayers,Mosaddek Hossain,N Pooran,wides,1,1,0,,,,32045232045
+2,West Indies,10,KR Mayers,Mosaddek Hossain,N Pooran,,0,1,1,,,,32045232045
+2,West Indies,10,N Pooran,Mosaddek Hossain,KR Mayers,,0,0,0,,,,32045232045
+2,West Indies,10,N Pooran,Mosaddek Hossain,KR Mayers,,0,1,1,,,,32045232045
+2,West Indies,11,N Pooran,Shoriful Islam,KR Mayers,,0,4,4,,,,32045232045
+2,West Indies,11,N Pooran,Shoriful Islam,KR Mayers,,0,1,1,,,,32045232045
+2,West Indies,11,KR Mayers,Shoriful Islam,N Pooran,,0,0,0,,,,32045232045
+2,West Indies,11,KR Mayers,Shoriful Islam,N Pooran,,0,6,6,,,,32045232045
+2,West Indies,11,KR Mayers,Shoriful Islam,N Pooran,,0,1,1,,,,32045232045
+2,West Indies,11,N Pooran,Shoriful Islam,KR Mayers,,0,1,1,,,,32045232045
+2,West Indies,12,N Pooran,Mustafizur Rahman,KR Mayers,,0,1,1,,,,32045232045
+2,West Indies,12,KR Mayers,Mustafizur Rahman,N Pooran,,0,1,1,,,,32045232045
+2,West Indies,12,N Pooran,Mustafizur Rahman,KR Mayers,,0,4,4,,,,32045232045
+2,West Indies,12,N Pooran,Mustafizur Rahman,KR Mayers,,0,1,1,,,,32045232045
+2,West Indies,12,KR Mayers,Mustafizur Rahman,N Pooran,wides,1,1,0,,,,32045232045
+2,West Indies,12,KR Mayers,Mustafizur Rahman,N Pooran,,0,6,6,,,,32045232045
+2,West Indies,12,KR Mayers,Mustafizur Rahman,N Pooran,,0,1,1,,,,32045232045
+2,West Indies,13,KR Mayers,Mosaddek Hossain,N Pooran,,0,6,6,,,,32045232045
+2,West Indies,13,KR Mayers,Mosaddek Hossain,N Pooran,,0,1,1,,,,32045232045
+2,West Indies,13,N Pooran,Mosaddek Hossain,KR Mayers,,0,1,1,,,,32045232045
+2,West Indies,13,KR Mayers,Mosaddek Hossain,N Pooran,,0,1,1,,,,32045232045
+2,West Indies,13,N Pooran,Mosaddek Hossain,KR Mayers,,0,1,1,,,,32045232045
+2,West Indies,13,KR Mayers,Mosaddek Hossain,N Pooran,,0,1,1,,,,32045232045
+2,West Indies,14,KR Mayers,Nasum Ahmed,N Pooran,,0,1,1,,,,32045232045
+2,West Indies,14,N Pooran,Nasum Ahmed,KR Mayers,wides,1,1,0,,,,32045232045
+2,West Indies,14,N Pooran,Nasum Ahmed,KR Mayers,,0,6,6,,,,32045232045
+2,West Indies,14,N Pooran,Nasum Ahmed,KR Mayers,,0,1,1,,,,32045232045
+2,West Indies,14,KR Mayers,Nasum Ahmed,N Pooran,,0,0,0,caught,KR Mayers,Mahedi Hasan,32045232045
+2,West Indies,14,N Pooran,Nasum Ahmed,R Powell,,0,6,6,,,,32045232045
+2,West Indies,14,N Pooran,Nasum Ahmed,R Powell,,0,4,4,,,,32045232045
+2,West Indies,15,R Powell,Mosaddek Hossain,N Pooran,,0,2,2,,,,32045232045
+2,West Indies,15,R Powell,Mosaddek Hossain,N Pooran,,0,1,1,,,,32045232045
+2,West Indies,15,N Pooran,Mosaddek Hossain,R Powell,,0,1,1,,,,32045232045
+2,West Indies,15,R Powell,Mosaddek Hossain,N Pooran,,0,1,1,,,,32045232045
+2,West Indies,15,N Pooran,Mosaddek Hossain,R Powell,,0,1,1,,,,32045232045
+2,West Indies,15,R Powell,Mosaddek Hossain,N Pooran,,0,0,0,,,,32045232045
+2,West Indies,16,N Pooran,Shakib Al Hasan,R Powell,,0,4,4,,,,32045232045
+2,West Indies,16,N Pooran,Shakib Al Hasan,R Powell,,0,0,0,,,,32045232045
+2,West Indies,16,N Pooran,Shakib Al Hasan,R Powell,,0,1,1,,,,32045232045
+2,West Indies,16,R Powell,Shakib Al Hasan,N Pooran,byes,2,2,0,,,,32045232045
+2,West Indies,16,R Powell,Shakib Al Hasan,N Pooran,,0,0,0,,,,32045232045
+2,West Indies,16,R Powell,Shakib Al Hasan,N Pooran,,0,1,1,,,,32045232045
+2,West Indies,17,R Powell,Afif Hossain,N Pooran,wides,1,1,0,,,,32045232045
+2,West Indies,17,R Powell,Afif Hossain,N Pooran,,0,0,0,,,,32045232045
+2,West Indies,17,R Powell,Afif Hossain,N Pooran,,0,0,0,caught,R Powell,Liton Das,32045232045
+2,West Indies,17,AJ Hosein,Afif Hossain,N Pooran,,0,1,1,,,,32045232045
+2,West Indies,17,N Pooran,Afif Hossain,AJ Hosein,,0,6,6,,,,32045232045
+2,West Indies,17,N Pooran,Afif Hossain,AJ Hosein,,0,1,1,,,,32045232045
+2,West Indies,17,AJ Hosein,Afif Hossain,N Pooran,,0,1,1,,,,32045232045
+2,West Indies,18,AJ Hosein,Mahmudullah,N Pooran,,0,1,1,,,,32045232045
+2,West Indies,18,N Pooran,Mahmudullah,AJ Hosein,,0,6,6,,,,32045232045

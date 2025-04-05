@@ -1,0 +1,85 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,England,0,CM Edwards,S Ismail,L Winfield,wides,1,1,0,,,,345323453
+2,England,0,CM Edwards,S Ismail,L Winfield,,0,0,0,,,,345323453
+2,England,0,CM Edwards,S Ismail,L Winfield,,0,2,2,,,,345323453
+2,England,0,CM Edwards,S Ismail,L Winfield,,0,2,2,,,,345323453
+2,England,0,CM Edwards,S Ismail,L Winfield,,0,0,0,,,,345323453
+2,England,0,CM Edwards,S Ismail,L Winfield,,0,0,0,,,,345323453
+2,England,0,CM Edwards,S Ismail,L Winfield,,0,0,0,,,,345323453
+2,England,1,L Winfield,M Kapp,CM Edwards,,0,0,0,,,,345323453
+2,England,1,L Winfield,M Kapp,CM Edwards,,0,3,3,,,,345323453
+2,England,1,CM Edwards,M Kapp,L Winfield,,0,0,0,,,,345323453
+2,England,1,CM Edwards,M Kapp,L Winfield,,0,1,1,,,,345323453
+2,England,1,L Winfield,M Kapp,CM Edwards,,0,0,0,,,,345323453
+2,England,1,L Winfield,M Kapp,CM Edwards,,0,0,0,,,,345323453
+2,England,2,CM Edwards,M Daniels,L Winfield,,0,4,4,,,,345323453
+2,England,2,CM Edwards,M Daniels,L Winfield,,0,0,0,,,,345323453
+2,England,2,CM Edwards,M Daniels,L Winfield,,0,0,0,,,,345323453
+2,England,2,CM Edwards,M Daniels,L Winfield,,0,0,0,,,,345323453
+2,England,2,CM Edwards,M Daniels,L Winfield,,0,0,0,,,,345323453
+2,England,2,CM Edwards,M Daniels,L Winfield,,0,0,0,,,,345323453
+2,England,3,L Winfield,M Kapp,CM Edwards,,0,1,1,,,,345323453
+2,England,3,CM Edwards,M Kapp,L Winfield,,0,4,4,,,,345323453
+2,England,3,CM Edwards,M Kapp,L Winfield,,0,4,4,,,,345323453
+2,England,3,CM Edwards,M Kapp,L Winfield,wides,1,1,0,,,,345323453
+2,England,3,CM Edwards,M Kapp,L Winfield,,0,0,0,,,,345323453
+2,England,3,CM Edwards,M Kapp,L Winfield,,0,0,0,,,,345323453
+2,England,3,CM Edwards,M Kapp,L Winfield,,0,1,1,,,,345323453
+2,England,4,CM Edwards,M Daniels,L Winfield,,0,0,0,run out,L Winfield,D van Niekerk,345323453
+2,England,4,SJ Taylor,M Daniels,CM Edwards,,0,1,1,,,,345323453
+2,England,4,CM Edwards,M Daniels,SJ Taylor,,0,0,0,,,,345323453
+2,England,4,CM Edwards,M Daniels,SJ Taylor,,0,0,0,,,,345323453
+2,England,4,CM Edwards,M Daniels,SJ Taylor,,0,0,0,,,,345323453
+2,England,4,CM Edwards,M Daniels,SJ Taylor,,0,0,0,,,,345323453
+2,England,5,SJ Taylor,S Loubser,CM Edwards,,0,0,0,,,,345323453
+2,England,5,SJ Taylor,S Loubser,CM Edwards,,0,1,1,,,,345323453
+2,England,5,CM Edwards,S Loubser,SJ Taylor,,0,4,4,,,,345323453
+2,England,5,CM Edwards,S Loubser,SJ Taylor,,0,3,3,,,,345323453
+2,England,5,SJ Taylor,S Loubser,CM Edwards,,0,1,1,,,,345323453
+2,England,5,CM Edwards,S Loubser,SJ Taylor,,0,0,0,,,,345323453
+2,England,6,SJ Taylor,S Ismail,CM Edwards,,0,1,1,,,,345323453
+2,England,6,CM Edwards,S Ismail,SJ Taylor,,0,0,0,,,,345323453
+2,England,6,CM Edwards,S Ismail,SJ Taylor,,0,4,4,,,,345323453
+2,England,6,CM Edwards,S Ismail,SJ Taylor,,0,0,0,,,,345323453
+2,England,6,CM Edwards,S Ismail,SJ Taylor,,0,1,1,,,,345323453
+2,England,6,SJ Taylor,S Ismail,CM Edwards,,0,0,0,,,,345323453
+2,England,7,CM Edwards,CL Tryon,SJ Taylor,,0,4,4,,,,345323453
+2,England,7,CM Edwards,CL Tryon,SJ Taylor,,0,0,0,,,,345323453
+2,England,7,CM Edwards,CL Tryon,SJ Taylor,,0,1,1,,,,345323453
+2,England,7,SJ Taylor,CL Tryon,CM Edwards,,0,2,2,,,,345323453
+2,England,7,SJ Taylor,CL Tryon,CM Edwards,,0,0,0,,,,345323453
+2,England,7,SJ Taylor,CL Tryon,CM Edwards,,0,1,1,,,,345323453
+2,England,8,SJ Taylor,D van Niekerk,CM Edwards,wides,2,2,0,,,,345323453
+2,England,8,CM Edwards,D van Niekerk,SJ Taylor,,0,0,0,,,,345323453
+2,England,8,CM Edwards,D van Niekerk,SJ Taylor,,0,0,0,,,,345323453
+2,England,8,CM Edwards,D van Niekerk,SJ Taylor,,0,1,1,,,,345323453
+2,England,8,SJ Taylor,D van Niekerk,CM Edwards,,0,0,0,,,,345323453
+2,England,8,SJ Taylor,D van Niekerk,CM Edwards,,0,0,0,,,,345323453
+2,England,8,SJ Taylor,D van Niekerk,CM Edwards,,0,1,1,,,,345323453
+2,England,9,SJ Taylor,MM Letsoalo,CM Edwards,,0,1,1,,,,345323453
+2,England,9,CM Edwards,MM Letsoalo,SJ Taylor,,0,4,4,,,,345323453
+2,England,9,CM Edwards,MM Letsoalo,SJ Taylor,,0,0,0,,,,345323453
+2,England,9,CM Edwards,MM Letsoalo,SJ Taylor,,0,4,4,,,,345323453
+2,England,9,CM Edwards,MM Letsoalo,SJ Taylor,,0,1,1,,,,345323453
+2,England,9,SJ Taylor,MM Letsoalo,CM Edwards,,0,4,4,,,,345323453
+2,England,10,CM Edwards,D van Niekerk,SJ Taylor,,0,1,1,,,,345323453
+2,England,10,SJ Taylor,D van Niekerk,CM Edwards,,0,1,1,,,,345323453
+2,England,10,CM Edwards,D van Niekerk,SJ Taylor,,0,0,0,,,,345323453
+2,England,10,CM Edwards,D van Niekerk,SJ Taylor,,0,1,1,,,,345323453
+2,England,10,SJ Taylor,D van Niekerk,CM Edwards,,0,1,1,,,,345323453
+2,England,10,CM Edwards,D van Niekerk,SJ Taylor,,0,1,1,,,,345323453
+2,England,11,CM Edwards,S Luus,SJ Taylor,,0,1,1,,,,345323453
+2,England,11,SJ Taylor,S Luus,CM Edwards,,0,1,1,,,,345323453
+2,England,11,CM Edwards,S Luus,SJ Taylor,,0,4,4,,,,345323453
+2,England,11,CM Edwards,S Luus,SJ Taylor,,0,1,1,,,,345323453
+2,England,11,SJ Taylor,S Luus,CM Edwards,,0,1,1,,,,345323453
+2,England,11,CM Edwards,S Luus,SJ Taylor,,0,1,1,,,,345323453
+2,England,12,CM Edwards,S Ismail,SJ Taylor,,0,0,0,,,,345323453
+2,England,12,CM Edwards,S Ismail,SJ Taylor,,0,1,1,,,,345323453
+2,England,12,SJ Taylor,S Ismail,CM Edwards,,0,0,0,,,,345323453
+2,England,12,SJ Taylor,S Ismail,CM Edwards,,0,0,0,,,,345323453
+2,England,12,SJ Taylor,S Ismail,CM Edwards,,0,4,4,,,,345323453
+2,England,12,SJ Taylor,S Ismail,CM Edwards,,0,0,0,,,,345323453
+2,England,13,CM Edwards,M Kapp,SJ Taylor,,0,2,2,,,,345323453
+2,England,13,CM Edwards,M Kapp,SJ Taylor,,0,0,0,,,,345323453
+2,England,13,CM Edwards,M Kapp,SJ Taylor,,0,4,4,,,,345323453

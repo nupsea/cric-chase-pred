@@ -1,0 +1,106 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,New Zealand,0,MJ Guptill,B Kumar,DJ Mitchell,,0,0,0,,,,31737231737
+2,New Zealand,0,MJ Guptill,B Kumar,DJ Mitchell,,0,4,4,,,,31737231737
+2,New Zealand,0,MJ Guptill,B Kumar,DJ Mitchell,,0,1,1,,,,31737231737
+2,New Zealand,0,DJ Mitchell,B Kumar,MJ Guptill,,0,0,0,,,,31737231737
+2,New Zealand,0,DJ Mitchell,B Kumar,MJ Guptill,,0,0,0,,,,31737231737
+2,New Zealand,0,DJ Mitchell,B Kumar,MJ Guptill,,0,0,0,,,,31737231737
+2,New Zealand,1,MJ Guptill,DL Chahar,DJ Mitchell,,0,1,1,,,,31737231737
+2,New Zealand,1,DJ Mitchell,DL Chahar,MJ Guptill,,0,4,4,,,,31737231737
+2,New Zealand,1,DJ Mitchell,DL Chahar,MJ Guptill,,0,1,1,,,,31737231737
+2,New Zealand,1,MJ Guptill,DL Chahar,DJ Mitchell,,0,6,6,,,,31737231737
+2,New Zealand,1,MJ Guptill,DL Chahar,DJ Mitchell,,0,4,4,,,,31737231737
+2,New Zealand,1,MJ Guptill,DL Chahar,DJ Mitchell,,0,0,0,,,,31737231737
+2,New Zealand,2,DJ Mitchell,AR Patel,MJ Guptill,,0,0,0,caught,DJ Mitchell,HV Patel,31737231737
+2,New Zealand,2,MJ Guptill,AR Patel,MS Chapman,,0,0,0,,,,31737231737
+2,New Zealand,2,MJ Guptill,AR Patel,MS Chapman,,0,0,0,,,,31737231737
+2,New Zealand,2,MJ Guptill,AR Patel,MS Chapman,,0,1,1,,,,31737231737
+2,New Zealand,2,MS Chapman,AR Patel,MJ Guptill,,0,0,0,,,,31737231737
+2,New Zealand,2,MS Chapman,AR Patel,MJ Guptill,,0,0,0,stumped,MS Chapman,RR Pant,31737231737
+2,New Zealand,3,MJ Guptill,YS Chahal,GD Phillips,,0,0,0,,,,31737231737
+2,New Zealand,3,MJ Guptill,YS Chahal,GD Phillips,,0,0,0,,,,31737231737
+2,New Zealand,3,MJ Guptill,YS Chahal,GD Phillips,,0,6,6,,,,31737231737
+2,New Zealand,3,MJ Guptill,YS Chahal,GD Phillips,,0,0,0,,,,31737231737
+2,New Zealand,3,MJ Guptill,YS Chahal,GD Phillips,,0,1,1,,,,31737231737
+2,New Zealand,3,GD Phillips,YS Chahal,MJ Guptill,,0,0,0,,,,31737231737
+2,New Zealand,4,MJ Guptill,AR Patel,GD Phillips,,0,1,1,,,,31737231737
+2,New Zealand,4,GD Phillips,AR Patel,MJ Guptill,,0,0,0,,,,31737231737
+2,New Zealand,4,GD Phillips,AR Patel,MJ Guptill,,0,0,0,,,,31737231737
+2,New Zealand,4,GD Phillips,AR Patel,MJ Guptill,,0,0,0,bowled,GD Phillips,,31737231737
+2,New Zealand,4,TL Seifert,AR Patel,MJ Guptill,,0,0,0,,,,31737231737
+2,New Zealand,4,TL Seifert,AR Patel,MJ Guptill,,0,0,0,,,,31737231737
+2,New Zealand,5,MJ Guptill,B Kumar,TL Seifert,,0,0,0,,,,31737231737
+2,New Zealand,5,MJ Guptill,B Kumar,TL Seifert,,0,0,0,,,,31737231737
+2,New Zealand,5,MJ Guptill,B Kumar,TL Seifert,,0,6,6,,,,31737231737
+2,New Zealand,5,MJ Guptill,B Kumar,TL Seifert,,0,1,1,,,,31737231737
+2,New Zealand,5,TL Seifert,B Kumar,MJ Guptill,,0,0,0,,,,31737231737
+2,New Zealand,5,TL Seifert,B Kumar,MJ Guptill,,0,0,0,,,,31737231737
+2,New Zealand,6,MJ Guptill,VR Iyer,TL Seifert,,0,0,0,,,,31737231737
+2,New Zealand,6,MJ Guptill,VR Iyer,TL Seifert,,0,1,1,,,,31737231737
+2,New Zealand,6,TL Seifert,VR Iyer,MJ Guptill,,0,1,1,,,,31737231737
+2,New Zealand,6,MJ Guptill,VR Iyer,TL Seifert,,0,1,1,,,,31737231737
+2,New Zealand,6,TL Seifert,VR Iyer,MJ Guptill,,0,1,1,,,,31737231737
+2,New Zealand,6,MJ Guptill,VR Iyer,TL Seifert,,0,0,0,,,,31737231737
+2,New Zealand,7,TL Seifert,HV Patel,MJ Guptill,,0,1,1,,,,31737231737
+2,New Zealand,7,MJ Guptill,HV Patel,TL Seifert,,0,1,1,,,,31737231737
+2,New Zealand,7,TL Seifert,HV Patel,MJ Guptill,,0,0,0,,,,31737231737
+2,New Zealand,7,TL Seifert,HV Patel,MJ Guptill,,0,0,0,,,,31737231737
+2,New Zealand,7,TL Seifert,HV Patel,MJ Guptill,,0,1,1,,,,31737231737
+2,New Zealand,7,MJ Guptill,HV Patel,TL Seifert,,0,1,1,,,,31737231737
+2,New Zealand,8,MJ Guptill,YS Chahal,TL Seifert,,0,1,1,,,,31737231737
+2,New Zealand,8,TL Seifert,YS Chahal,MJ Guptill,,0,4,4,,,,31737231737
+2,New Zealand,8,TL Seifert,YS Chahal,MJ Guptill,,0,1,1,,,,31737231737
+2,New Zealand,8,MJ Guptill,YS Chahal,TL Seifert,,0,6,6,,,,31737231737
+2,New Zealand,8,MJ Guptill,YS Chahal,TL Seifert,,0,0,0,,,,31737231737
+2,New Zealand,8,MJ Guptill,YS Chahal,TL Seifert,,0,4,4,,,,31737231737
+2,New Zealand,9,TL Seifert,AR Patel,MJ Guptill,,0,2,2,,,,31737231737
+2,New Zealand,9,TL Seifert,AR Patel,MJ Guptill,,0,1,1,,,,31737231737
+2,New Zealand,9,MJ Guptill,AR Patel,TL Seifert,,0,0,0,,,,31737231737
+2,New Zealand,9,MJ Guptill,AR Patel,TL Seifert,,0,0,0,,,,31737231737
+2,New Zealand,9,MJ Guptill,AR Patel,TL Seifert,,0,4,4,,,,31737231737
+2,New Zealand,9,MJ Guptill,AR Patel,TL Seifert,,0,0,0,,,,31737231737
+2,New Zealand,10,TL Seifert,YS Chahal,MJ Guptill,,0,1,1,,,,31737231737
+2,New Zealand,10,MJ Guptill,YS Chahal,TL Seifert,,0,0,0,,,,31737231737
+2,New Zealand,10,MJ Guptill,YS Chahal,TL Seifert,,0,0,0,caught,MJ Guptill,SA Yadav,31737231737
+2,New Zealand,10,TL Seifert,YS Chahal,JDS Neesham,,0,1,1,,,,31737231737
+2,New Zealand,10,JDS Neesham,YS Chahal,TL Seifert,,0,0,0,,,,31737231737
+2,New Zealand,10,JDS Neesham,YS Chahal,TL Seifert,,0,0,0,,,,31737231737
+2,New Zealand,11,TL Seifert,VR Iyer,JDS Neesham,,0,2,2,,,,31737231737
+2,New Zealand,11,TL Seifert,VR Iyer,JDS Neesham,,0,1,1,,,,31737231737
+2,New Zealand,11,JDS Neesham,VR Iyer,TL Seifert,,0,2,2,,,,31737231737
+2,New Zealand,11,JDS Neesham,VR Iyer,TL Seifert,,0,1,1,run out,TL Seifert,RR Pant,31737231737
+2,New Zealand,11,MJ Santner,VR Iyer,JDS Neesham,,0,0,0,,,,31737231737
+2,New Zealand,11,MJ Santner,VR Iyer,JDS Neesham,,0,0,0,,,,31737231737
+2,New Zealand,12,JDS Neesham,HV Patel,MJ Santner,,0,0,0,,,,31737231737
+2,New Zealand,12,JDS Neesham,HV Patel,MJ Santner,,0,0,0,,,,31737231737
+2,New Zealand,12,JDS Neesham,HV Patel,MJ Santner,,0,0,0,caught,JDS Neesham,RR Pant,31737231737
+2,New Zealand,12,MJ Santner,HV Patel,AF Milne,,0,1,1,,,,31737231737
+2,New Zealand,12,AF Milne,HV Patel,MJ Santner,,0,0,0,,,,31737231737
+2,New Zealand,12,AF Milne,HV Patel,MJ Santner,,0,6,6,,,,31737231737
+2,New Zealand,13,MJ Santner,DL Chahar,AF Milne,,0,1,1,run out,MJ Santner,Ishan Kishan,31737231737
+2,New Zealand,13,IS Sodhi,DL Chahar,AF Milne,,0,0,0,,,,31737231737
+2,New Zealand,13,IS Sodhi,DL Chahar,AF Milne,,0,0,0,,,,31737231737
+2,New Zealand,13,IS Sodhi,DL Chahar,AF Milne,,0,4,4,,,,31737231737
+2,New Zealand,13,IS Sodhi,DL Chahar,AF Milne,,0,4,4,,,,31737231737
+2,New Zealand,13,IS Sodhi,DL Chahar,AF Milne,,0,0,0,,,,31737231737
+2,New Zealand,14,AF Milne,YS Chahal,IS Sodhi,,0,0,0,,,,31737231737
+2,New Zealand,14,AF Milne,YS Chahal,IS Sodhi,,0,0,0,,,,31737231737
+2,New Zealand,14,AF Milne,YS Chahal,IS Sodhi,,0,1,1,,,,31737231737
+2,New Zealand,14,IS Sodhi,YS Chahal,AF Milne,,0,0,0,,,,31737231737
+2,New Zealand,14,IS Sodhi,YS Chahal,AF Milne,,0,0,0,,,,31737231737
+2,New Zealand,14,IS Sodhi,YS Chahal,AF Milne,,0,0,0,,,,31737231737
+2,New Zealand,15,AF Milne,VR Iyer,IS Sodhi,,0,0,0,caught,AF Milne,RG Sharma,31737231737
+2,New Zealand,15,LH Ferguson,VR Iyer,IS Sodhi,,0,0,0,,,,31737231737
+2,New Zealand,15,LH Ferguson,VR Iyer,IS Sodhi,,0,0,0,,,,31737231737
+2,New Zealand,15,LH Ferguson,VR Iyer,IS Sodhi,,0,1,1,,,,31737231737
+2,New Zealand,15,IS Sodhi,VR Iyer,LH Ferguson,,0,0,0,,,,31737231737
+2,New Zealand,15,IS Sodhi,VR Iyer,LH Ferguson,,0,1,1,,,,31737231737
+2,New Zealand,16,IS Sodhi,HV Patel,LH Ferguson,,0,0,0,caught,IS Sodhi,SA Yadav,31737231737
+2,New Zealand,16,LH Ferguson,HV Patel,TA Boult,,0,6,6,,,,31737231737
+2,New Zealand,16,LH Ferguson,HV Patel,TA Boult,,0,0,0,,,,31737231737
+2,New Zealand,16,LH Ferguson,HV Patel,TA Boult,,0,6,6,,,,31737231737
+2,New Zealand,16,LH Ferguson,HV Patel,TA Boult,wides,1,1,0,,,,31737231737
+2,New Zealand,16,LH Ferguson,HV Patel,TA Boult,,0,1,1,,,,31737231737
+2,New Zealand,16,TA Boult,HV Patel,LH Ferguson,,0,1,1,,,,31737231737
+2,New Zealand,17,TA Boult,DL Chahar,LH Ferguson,,0,1,1,,,,31737231737
+2,New Zealand,17,LH Ferguson,DL Chahar,TA Boult,,0,0,0,caught and bowled,LH Ferguson,,31737231737

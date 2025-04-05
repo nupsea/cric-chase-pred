@@ -1,0 +1,128 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Oman,0,Zeeshan Maqsood,MA Leask,A Poulose,wides,1,1,0,,,,372623726
+1,Oman,0,Zeeshan Maqsood,MA Leask,A Poulose,,0,0,0,,,,372623726
+1,Oman,0,Zeeshan Maqsood,MA Leask,A Poulose,,0,0,0,,,,372623726
+1,Oman,0,Zeeshan Maqsood,MA Leask,A Poulose,,0,4,4,,,,372623726
+1,Oman,0,Zeeshan Maqsood,MA Leask,A Poulose,,0,1,1,,,,372623726
+1,Oman,0,A Poulose,MA Leask,Zeeshan Maqsood,,0,0,0,,,,372623726
+1,Oman,0,A Poulose,MA Leask,Zeeshan Maqsood,,0,0,0,,,,372623726
+1,Oman,1,Zeeshan Maqsood,SM Sharif,A Poulose,,0,0,0,,,,372623726
+1,Oman,1,Zeeshan Maqsood,SM Sharif,A Poulose,,0,0,0,,,,372623726
+1,Oman,1,Zeeshan Maqsood,SM Sharif,A Poulose,,0,0,0,,,,372623726
+1,Oman,1,Zeeshan Maqsood,SM Sharif,A Poulose,,0,4,4,,,,372623726
+1,Oman,1,Zeeshan Maqsood,SM Sharif,A Poulose,,0,0,0,,,,372623726
+1,Oman,1,Zeeshan Maqsood,SM Sharif,A Poulose,noballs,1,1,0,,,,372623726
+1,Oman,1,Zeeshan Maqsood,SM Sharif,A Poulose,,0,0,0,,,,372623726
+1,Oman,2,A Poulose,MRJ Watt,Zeeshan Maqsood,,0,0,0,lbw,A Poulose,,372623726
+1,Oman,2,Aqib Ilyas,MRJ Watt,Zeeshan Maqsood,,0,1,1,,,,372623726
+1,Oman,2,Zeeshan Maqsood,MRJ Watt,Aqib Ilyas,,0,4,4,,,,372623726
+1,Oman,2,Zeeshan Maqsood,MRJ Watt,Aqib Ilyas,,0,2,2,,,,372623726
+1,Oman,2,Zeeshan Maqsood,MRJ Watt,Aqib Ilyas,,0,0,0,,,,372623726
+1,Oman,2,Zeeshan Maqsood,MRJ Watt,Aqib Ilyas,,0,1,1,,,,372623726
+1,Oman,3,Zeeshan Maqsood,CB Sole,Aqib Ilyas,,0,0,0,,,,372623726
+1,Oman,3,Zeeshan Maqsood,CB Sole,Aqib Ilyas,,0,0,0,,,,372623726
+1,Oman,3,Zeeshan Maqsood,CB Sole,Aqib Ilyas,,0,1,1,,,,372623726
+1,Oman,3,Aqib Ilyas,CB Sole,Zeeshan Maqsood,,0,1,1,,,,372623726
+1,Oman,3,Zeeshan Maqsood,CB Sole,Aqib Ilyas,,0,0,0,,,,372623726
+1,Oman,3,Zeeshan Maqsood,CB Sole,Aqib Ilyas,,0,0,0,,,,372623726
+1,Oman,4,Aqib Ilyas,MRJ Watt,Zeeshan Maqsood,,0,4,4,,,,372623726
+1,Oman,4,Aqib Ilyas,MRJ Watt,Zeeshan Maqsood,,0,0,0,,,,372623726
+1,Oman,4,Aqib Ilyas,MRJ Watt,Zeeshan Maqsood,,0,1,1,,,,372623726
+1,Oman,4,Zeeshan Maqsood,MRJ Watt,Aqib Ilyas,,0,0,0,,,,372623726
+1,Oman,4,Zeeshan Maqsood,MRJ Watt,Aqib Ilyas,,0,0,0,caught,Zeeshan Maqsood,CS MacLeod,372623726
+1,Oman,4,Aqib Ilyas,MRJ Watt,Khawar Ali,,0,0,0,,,,372623726
+1,Oman,5,Khawar Ali,CB Sole,Aqib Ilyas,,0,1,1,,,,372623726
+1,Oman,5,Aqib Ilyas,CB Sole,Khawar Ali,,0,1,1,,,,372623726
+1,Oman,5,Khawar Ali,CB Sole,Aqib Ilyas,,0,4,4,,,,372623726
+1,Oman,5,Khawar Ali,CB Sole,Aqib Ilyas,,0,1,1,,,,372623726
+1,Oman,5,Aqib Ilyas,CB Sole,Khawar Ali,,0,0,0,,,,372623726
+1,Oman,5,Aqib Ilyas,CB Sole,Khawar Ali,,0,0,0,,,,372623726
+1,Oman,6,Khawar Ali,CD de Lange,Aqib Ilyas,,0,0,0,,,,372623726
+1,Oman,6,Khawar Ali,CD de Lange,Aqib Ilyas,,0,0,0,,,,372623726
+1,Oman,6,Khawar Ali,CD de Lange,Aqib Ilyas,,0,0,0,,,,372623726
+1,Oman,6,Khawar Ali,CD de Lange,Aqib Ilyas,,0,0,0,,,,372623726
+1,Oman,6,Khawar Ali,CD de Lange,Aqib Ilyas,,0,1,1,,,,372623726
+1,Oman,6,Aqib Ilyas,CD de Lange,Khawar Ali,,0,0,0,,,,372623726
+1,Oman,7,Khawar Ali,MA Leask,Aqib Ilyas,,0,1,1,,,,372623726
+1,Oman,7,Aqib Ilyas,MA Leask,Khawar Ali,,0,1,1,,,,372623726
+1,Oman,7,Khawar Ali,MA Leask,Aqib Ilyas,,0,1,1,,,,372623726
+1,Oman,7,Aqib Ilyas,MA Leask,Khawar Ali,,0,0,0,,,,372623726
+1,Oman,7,Aqib Ilyas,MA Leask,Khawar Ali,,0,1,1,,,,372623726
+1,Oman,7,Khawar Ali,MA Leask,Aqib Ilyas,,0,0,0,,,,372623726
+1,Oman,8,Aqib Ilyas,CD de Lange,Khawar Ali,,0,1,1,,,,372623726
+1,Oman,8,Khawar Ali,CD de Lange,Aqib Ilyas,,0,1,1,,,,372623726
+1,Oman,8,Aqib Ilyas,CD de Lange,Khawar Ali,,0,1,1,,,,372623726
+1,Oman,8,Khawar Ali,CD de Lange,Aqib Ilyas,,0,1,1,,,,372623726
+1,Oman,8,Aqib Ilyas,CD de Lange,Khawar Ali,,0,0,0,,,,372623726
+1,Oman,8,Aqib Ilyas,CD de Lange,Khawar Ali,,0,0,0,,,,372623726
+1,Oman,9,Khawar Ali,SM Sharif,Aqib Ilyas,,0,1,1,,,,372623726
+1,Oman,9,Aqib Ilyas,SM Sharif,Khawar Ali,,0,0,0,,,,372623726
+1,Oman,9,Aqib Ilyas,SM Sharif,Khawar Ali,,0,4,4,,,,372623726
+1,Oman,9,Aqib Ilyas,SM Sharif,Khawar Ali,,0,2,2,,,,372623726
+1,Oman,9,Aqib Ilyas,SM Sharif,Khawar Ali,,0,1,1,,,,372623726
+1,Oman,9,Khawar Ali,SM Sharif,Aqib Ilyas,,0,1,1,,,,372623726
+1,Oman,10,Khawar Ali,CD de Lange,Aqib Ilyas,,0,0,0,bowled,Khawar Ali,,372623726
+1,Oman,10,Khurram Nawaz,CD de Lange,Aqib Ilyas,,0,0,0,run out,Aqib Ilyas,MH Cross,372623726
+1,Oman,10,AV Lalcheta,CD de Lange,Khurram Nawaz,,0,2,2,,,,372623726
+1,Oman,10,AV Lalcheta,CD de Lange,Khurram Nawaz,,0,1,1,,,,372623726
+1,Oman,10,Khurram Nawaz,CD de Lange,AV Lalcheta,wides,1,1,0,,,,372623726
+1,Oman,10,Khurram Nawaz,CD de Lange,AV Lalcheta,,0,4,4,,,,372623726
+1,Oman,10,Khurram Nawaz,CD de Lange,AV Lalcheta,wides,1,1,0,,,,372623726
+1,Oman,10,Khurram Nawaz,CD de Lange,AV Lalcheta,,0,1,1,,,,372623726
+1,Oman,11,Khurram Nawaz,MA Leask,AV Lalcheta,,0,1,1,,,,372623726
+1,Oman,11,AV Lalcheta,MA Leask,Khurram Nawaz,,0,1,1,,,,372623726
+1,Oman,11,Khurram Nawaz,MA Leask,AV Lalcheta,wides,1,1,0,,,,372623726
+1,Oman,11,Khurram Nawaz,MA Leask,AV Lalcheta,,0,0,0,,,,372623726
+1,Oman,11,Khurram Nawaz,MA Leask,AV Lalcheta,,0,0,0,,,,372623726
+1,Oman,11,Khurram Nawaz,MA Leask,AV Lalcheta,,0,0,0,,,,372623726
+1,Oman,11,Khurram Nawaz,MA Leask,AV Lalcheta,,0,1,1,,,,372623726
+1,Oman,12,Khurram Nawaz,CB Sole,AV Lalcheta,,0,0,0,,,,372623726
+1,Oman,12,Khurram Nawaz,CB Sole,AV Lalcheta,legbyes,1,1,0,,,,372623726
+1,Oman,12,AV Lalcheta,CB Sole,Khurram Nawaz,,0,4,4,,,,372623726
+1,Oman,12,AV Lalcheta,CB Sole,Khurram Nawaz,wides,1,1,0,,,,372623726
+1,Oman,12,AV Lalcheta,CB Sole,Khurram Nawaz,,0,0,0,,,,372623726
+1,Oman,12,AV Lalcheta,CB Sole,Khurram Nawaz,,0,1,1,,,,372623726
+1,Oman,12,Khurram Nawaz,CB Sole,AV Lalcheta,legbyes,1,1,0,,,,372623726
+1,Oman,13,Khurram Nawaz,MRJ Watt,AV Lalcheta,,0,0,0,,,,372623726
+1,Oman,13,Khurram Nawaz,MRJ Watt,AV Lalcheta,,0,1,1,,,,372623726
+1,Oman,13,AV Lalcheta,MRJ Watt,Khurram Nawaz,,0,0,0,,,,372623726
+1,Oman,13,AV Lalcheta,MRJ Watt,Khurram Nawaz,,0,0,0,,,,372623726
+1,Oman,13,AV Lalcheta,MRJ Watt,Khurram Nawaz,,0,0,0,,,,372623726
+1,Oman,13,AV Lalcheta,MRJ Watt,Khurram Nawaz,,0,4,4,,,,372623726
+1,Oman,14,Khurram Nawaz,MA Leask,AV Lalcheta,legbyes,1,1,0,,,,372623726
+1,Oman,14,AV Lalcheta,MA Leask,Khurram Nawaz,,0,6,6,,,,372623726
+1,Oman,14,AV Lalcheta,MA Leask,Khurram Nawaz,,0,1,1,,,,372623726
+1,Oman,14,Khurram Nawaz,MA Leask,AV Lalcheta,legbyes,1,1,0,,,,372623726
+1,Oman,14,AV Lalcheta,MA Leask,Khurram Nawaz,,0,0,0,,,,372623726
+1,Oman,14,AV Lalcheta,MA Leask,Khurram Nawaz,,0,0,0,bowled,AV Lalcheta,,372623726
+1,Oman,15,Khurram Nawaz,CD de Lange,Naseem Khushi,,0,1,1,,,,372623726
+1,Oman,15,Naseem Khushi,CD de Lange,Khurram Nawaz,,0,0,0,lbw,Naseem Khushi,,372623726
+1,Oman,15,Sultan Ahmed,CD de Lange,Khurram Nawaz,,0,1,1,,,,372623726
+1,Oman,15,Khurram Nawaz,CD de Lange,Sultan Ahmed,,0,2,2,,,,372623726
+1,Oman,15,Khurram Nawaz,CD de Lange,Sultan Ahmed,,0,0,0,,,,372623726
+1,Oman,15,Khurram Nawaz,CD de Lange,Sultan Ahmed,,0,4,4,,,,372623726
+1,Oman,16,Sultan Ahmed,MRJ Watt,Khurram Nawaz,,0,2,2,,,,372623726
+1,Oman,16,Sultan Ahmed,MRJ Watt,Khurram Nawaz,,0,2,2,,,,372623726
+1,Oman,16,Sultan Ahmed,MRJ Watt,Khurram Nawaz,,0,1,1,,,,372623726
+1,Oman,16,Khurram Nawaz,MRJ Watt,Sultan Ahmed,,0,0,0,,,,372623726
+1,Oman,16,Khurram Nawaz,MRJ Watt,Sultan Ahmed,legbyes,1,1,0,,,,372623726
+1,Oman,16,Sultan Ahmed,MRJ Watt,Khurram Nawaz,,0,0,0,,,,372623726
+1,Oman,17,Khurram Nawaz,SM Sharif,Sultan Ahmed,,0,6,6,,,,372623726
+1,Oman,17,Khurram Nawaz,SM Sharif,Sultan Ahmed,,0,1,1,,,,372623726
+1,Oman,17,Sultan Ahmed,SM Sharif,Khurram Nawaz,noballs,1,2,1,,,,372623726
+1,Oman,17,Khurram Nawaz,SM Sharif,Sultan Ahmed,,0,1,1,,,,372623726
+1,Oman,17,Sultan Ahmed,SM Sharif,Khurram Nawaz,,0,4,4,,,,372623726
+1,Oman,17,Sultan Ahmed,SM Sharif,Khurram Nawaz,,0,1,1,,,,372623726
+1,Oman,17,Khurram Nawaz,SM Sharif,Sultan Ahmed,,0,0,0,caught,Khurram Nawaz,KJ Coetzer,372623726
+1,Oman,18,Sultan Ahmed,CB Sole,Mohammad Nadeem,legbyes,4,4,0,,,,372623726
+1,Oman,18,Sultan Ahmed,CB Sole,Mohammad Nadeem,,0,4,4,,,,372623726
+1,Oman,18,Sultan Ahmed,CB Sole,Mohammad Nadeem,legbyes,1,1,0,,,,372623726
+1,Oman,18,Mohammad Nadeem,CB Sole,Sultan Ahmed,,0,1,1,,,,372623726
+1,Oman,18,Sultan Ahmed,CB Sole,Mohammad Nadeem,,0,1,1,,,,372623726
+1,Oman,18,Mohammad Nadeem,CB Sole,Sultan Ahmed,,0,1,1,,,,372623726
+1,Oman,19,Mohammad Nadeem,SM Sharif,Sultan Ahmed,,0,0,0,,,,372623726
+1,Oman,19,Mohammad Nadeem,SM Sharif,Sultan Ahmed,,0,0,0,bowled,Mohammad Nadeem,,372623726
+1,Oman,19,Kaleemullah,SM Sharif,Sultan Ahmed,,0,0,0,bowled,Kaleemullah,,372623726
+1,Oman,19,Bilal Khan,SM Sharif,Sultan Ahmed,,0,4,4,,,,372623726
+1,Oman,19,Bilal Khan,SM Sharif,Sultan Ahmed,byes,1,1,0,,,,372623726
+1,Oman,19,Sultan Ahmed,SM Sharif,Bilal Khan,,0,0,0,run out,Sultan Ahmed,MH Cross,372623726

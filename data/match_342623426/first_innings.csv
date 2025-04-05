@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,Q de Kock,B Kumar,HM Amla,,0,2,2,,,,342623426
+1,South Africa,0,Q de Kock,B Kumar,HM Amla,wides,1,1,0,,,,342623426
+1,South Africa,0,Q de Kock,B Kumar,HM Amla,legbyes,2,2,0,,,,342623426
+1,South Africa,0,Q de Kock,B Kumar,HM Amla,,0,4,4,,,,342623426
+1,South Africa,0,Q de Kock,B Kumar,HM Amla,,0,0,0,caught,Q de Kock,MS Dhoni,342623426
+1,South Africa,0,F du Plessis,B Kumar,HM Amla,,0,0,0,,,,342623426
+1,South Africa,0,F du Plessis,B Kumar,HM Amla,,0,1,1,,,,342623426
+1,South Africa,1,F du Plessis,MM Sharma,HM Amla,,0,2,2,,,,342623426
+1,South Africa,1,F du Plessis,MM Sharma,HM Amla,,0,1,1,,,,342623426
+1,South Africa,1,HM Amla,MM Sharma,F du Plessis,,0,0,0,,,,342623426
+1,South Africa,1,HM Amla,MM Sharma,F du Plessis,,0,0,0,,,,342623426
+1,South Africa,1,HM Amla,MM Sharma,F du Plessis,,0,0,0,,,,342623426
+1,South Africa,1,HM Amla,MM Sharma,F du Plessis,,0,0,0,,,,342623426
+1,South Africa,2,F du Plessis,B Kumar,HM Amla,,0,1,1,,,,342623426
+1,South Africa,2,HM Amla,B Kumar,F du Plessis,,0,1,1,,,,342623426
+1,South Africa,2,F du Plessis,B Kumar,HM Amla,,0,0,0,,,,342623426
+1,South Africa,2,F du Plessis,B Kumar,HM Amla,,0,0,0,,,,342623426
+1,South Africa,2,F du Plessis,B Kumar,HM Amla,,0,1,1,,,,342623426
+1,South Africa,2,HM Amla,B Kumar,F du Plessis,,0,1,1,,,,342623426
+1,South Africa,3,HM Amla,MM Sharma,F du Plessis,,0,4,4,,,,342623426
+1,South Africa,3,HM Amla,MM Sharma,F du Plessis,,0,2,2,,,,342623426
+1,South Africa,3,HM Amla,MM Sharma,F du Plessis,,0,4,4,,,,342623426
+1,South Africa,3,HM Amla,MM Sharma,F du Plessis,,0,1,1,,,,342623426
+1,South Africa,3,F du Plessis,MM Sharma,HM Amla,,0,4,4,,,,342623426
+1,South Africa,3,F du Plessis,MM Sharma,HM Amla,,0,2,2,,,,342623426
+1,South Africa,4,HM Amla,B Kumar,F du Plessis,,0,4,4,,,,342623426
+1,South Africa,4,HM Amla,B Kumar,F du Plessis,,0,0,0,,,,342623426
+1,South Africa,4,HM Amla,B Kumar,F du Plessis,,0,0,0,,,,342623426
+1,South Africa,4,HM Amla,B Kumar,F du Plessis,,0,4,4,,,,342623426
+1,South Africa,4,HM Amla,B Kumar,F du Plessis,,0,1,1,,,,342623426
+1,South Africa,4,F du Plessis,B Kumar,HM Amla,,0,0,0,,,,342623426
+1,South Africa,5,HM Amla,R Ashwin,F du Plessis,wides,1,1,0,,,,342623426
+1,South Africa,5,HM Amla,R Ashwin,F du Plessis,,0,0,0,bowled,HM Amla,,342623426
+1,South Africa,5,JP Duminy,R Ashwin,F du Plessis,,0,0,0,,,,342623426
+1,South Africa,5,JP Duminy,R Ashwin,F du Plessis,,0,0,0,,,,342623426
+1,South Africa,5,JP Duminy,R Ashwin,F du Plessis,,0,0,0,,,,342623426
+1,South Africa,5,JP Duminy,R Ashwin,F du Plessis,,0,0,0,,,,342623426
+1,South Africa,5,JP Duminy,R Ashwin,F du Plessis,,0,0,0,,,,342623426
+1,South Africa,6,F du Plessis,RA Jadeja,JP Duminy,,0,1,1,,,,342623426
+1,South Africa,6,JP Duminy,RA Jadeja,F du Plessis,,0,1,1,,,,342623426
+1,South Africa,6,F du Plessis,RA Jadeja,JP Duminy,,0,1,1,,,,342623426
+1,South Africa,6,JP Duminy,RA Jadeja,F du Plessis,,0,0,0,,,,342623426
+1,South Africa,6,JP Duminy,RA Jadeja,F du Plessis,,0,0,0,,,,342623426
+1,South Africa,6,JP Duminy,RA Jadeja,F du Plessis,,0,0,0,,,,342623426
+1,South Africa,7,F du Plessis,SK Raina,JP Duminy,wides,1,1,0,,,,342623426
+1,South Africa,7,F du Plessis,SK Raina,JP Duminy,,0,1,1,,,,342623426
+1,South Africa,7,JP Duminy,SK Raina,F du Plessis,,0,2,2,,,,342623426
+1,South Africa,7,JP Duminy,SK Raina,F du Plessis,,0,1,1,,,,342623426
+1,South Africa,7,F du Plessis,SK Raina,JP Duminy,,0,0,0,,,,342623426
+1,South Africa,7,F du Plessis,SK Raina,JP Duminy,,0,0,0,,,,342623426
+1,South Africa,7,F du Plessis,SK Raina,JP Duminy,,0,1,1,,,,342623426
+1,South Africa,8,F du Plessis,RA Jadeja,JP Duminy,,0,1,1,,,,342623426
+1,South Africa,8,JP Duminy,RA Jadeja,F du Plessis,,0,1,1,,,,342623426
+1,South Africa,8,F du Plessis,RA Jadeja,JP Duminy,,0,1,1,,,,342623426
+1,South Africa,8,JP Duminy,RA Jadeja,F du Plessis,,0,1,1,,,,342623426
+1,South Africa,8,F du Plessis,RA Jadeja,JP Duminy,,0,1,1,,,,342623426
+1,South Africa,8,JP Duminy,RA Jadeja,F du Plessis,,0,0,0,,,,342623426
+1,South Africa,9,F du Plessis,SK Raina,JP Duminy,,0,0,0,,,,342623426
+1,South Africa,9,F du Plessis,SK Raina,JP Duminy,,0,4,4,,,,342623426
+1,South Africa,9,F du Plessis,SK Raina,JP Duminy,,0,1,1,,,,342623426
+1,South Africa,9,JP Duminy,SK Raina,F du Plessis,,0,1,1,,,,342623426
+1,South Africa,9,F du Plessis,SK Raina,JP Duminy,,0,1,1,,,,342623426
+1,South Africa,9,JP Duminy,SK Raina,F du Plessis,,0,1,1,,,,342623426
+1,South Africa,10,JP Duminy,A Mishra,F du Plessis,,0,1,1,,,,342623426
+1,South Africa,10,F du Plessis,A Mishra,JP Duminy,,0,0,0,,,,342623426
+1,South Africa,10,F du Plessis,A Mishra,JP Duminy,noballs,1,1,0,,,,342623426
+1,South Africa,10,F du Plessis,A Mishra,JP Duminy,,0,4,4,,,,342623426
+1,South Africa,10,F du Plessis,A Mishra,JP Duminy,,0,0,0,,,,342623426
+1,South Africa,10,F du Plessis,A Mishra,JP Duminy,,0,1,1,,,,342623426
+1,South Africa,10,JP Duminy,A Mishra,F du Plessis,,0,1,1,,,,342623426
+1,South Africa,11,JP Duminy,SK Raina,F du Plessis,byes,1,1,0,,,,342623426
+1,South Africa,11,F du Plessis,SK Raina,JP Duminy,,0,2,2,,,,342623426
+1,South Africa,11,F du Plessis,SK Raina,JP Duminy,,0,4,4,,,,342623426
+1,South Africa,11,F du Plessis,SK Raina,JP Duminy,,0,2,2,,,,342623426
+1,South Africa,11,F du Plessis,SK Raina,JP Duminy,,0,6,6,,,,342623426
+1,South Africa,11,F du Plessis,SK Raina,JP Duminy,,0,1,1,,,,342623426
+1,South Africa,12,F du Plessis,A Mishra,JP Duminy,,0,4,4,,,,342623426
+1,South Africa,12,F du Plessis,A Mishra,JP Duminy,,0,1,1,,,,342623426
+1,South Africa,12,JP Duminy,A Mishra,F du Plessis,,0,6,6,,,,342623426
+1,South Africa,12,JP Duminy,A Mishra,F du Plessis,,0,1,1,,,,342623426
+1,South Africa,12,F du Plessis,A Mishra,JP Duminy,,0,1,1,,,,342623426
+1,South Africa,12,JP Duminy,A Mishra,F du Plessis,,0,4,4,,,,342623426
+1,South Africa,13,F du Plessis,R Ashwin,JP Duminy,,0,0,0,,,,342623426
+1,South Africa,13,F du Plessis,R Ashwin,JP Duminy,,0,6,6,,,,342623426
+1,South Africa,13,F du Plessis,R Ashwin,JP Duminy,,0,1,1,,,,342623426
+1,South Africa,13,JP Duminy,R Ashwin,F du Plessis,,0,1,1,,,,342623426
+1,South Africa,13,F du Plessis,R Ashwin,JP Duminy,,0,0,0,bowled,F du Plessis,,342623426
+1,South Africa,13,AB de Villiers,R Ashwin,JP Duminy,,0,1,1,,,,342623426
+1,South Africa,14,AB de Villiers,A Mishra,JP Duminy,,0,2,2,,,,342623426
+1,South Africa,14,AB de Villiers,A Mishra,JP Duminy,,0,0,0,,,,342623426
+1,South Africa,14,AB de Villiers,A Mishra,JP Duminy,,0,2,2,,,,342623426
+1,South Africa,14,AB de Villiers,A Mishra,JP Duminy,,0,4,4,,,,342623426
+1,South Africa,14,AB de Villiers,A Mishra,JP Duminy,,0,1,1,,,,342623426
+1,South Africa,14,JP Duminy,A Mishra,AB de Villiers,,0,2,2,,,,342623426
+1,South Africa,15,AB de Villiers,R Ashwin,JP Duminy,legbyes,1,1,0,,,,342623426
+1,South Africa,15,JP Duminy,R Ashwin,AB de Villiers,,0,1,1,,,,342623426
+1,South Africa,15,AB de Villiers,R Ashwin,JP Duminy,,0,0,0,caught,AB de Villiers,RG Sharma,342623426
+1,South Africa,15,JP Duminy,R Ashwin,DA Miller,,0,0,0,,,,342623426
+1,South Africa,15,JP Duminy,R Ashwin,DA Miller,,0,0,0,,,,342623426
+1,South Africa,15,JP Duminy,R Ashwin,DA Miller,,0,1,1,,,,342623426
+1,South Africa,16,JP Duminy,SK Raina,DA Miller,,0,1,1,,,,342623426
+1,South Africa,16,DA Miller,SK Raina,JP Duminy,,0,1,1,,,,342623426
+1,South Africa,16,JP Duminy,SK Raina,DA Miller,,0,1,1,,,,342623426
+1,South Africa,16,DA Miller,SK Raina,JP Duminy,,0,1,1,,,,342623426
+1,South Africa,16,JP Duminy,SK Raina,DA Miller,,0,1,1,,,,342623426
+1,South Africa,16,DA Miller,SK Raina,JP Duminy,,0,1,1,,,,342623426
+1,South Africa,17,DA Miller,R Ashwin,JP Duminy,,0,1,1,,,,342623426
+1,South Africa,17,JP Duminy,R Ashwin,DA Miller,,0,0,0,,,,342623426
+1,South Africa,17,JP Duminy,R Ashwin,DA Miller,,0,6,6,,,,342623426
+1,South Africa,17,JP Duminy,R Ashwin,DA Miller,,0,1,1,,,,342623426
+1,South Africa,17,DA Miller,R Ashwin,JP Duminy,,0,1,1,,,,342623426
+1,South Africa,17,JP Duminy,R Ashwin,DA Miller,,0,1,1,,,,342623426
+1,South Africa,18,JP Duminy,B Kumar,DA Miller,,0,0,0,,,,342623426
+1,South Africa,18,JP Duminy,B Kumar,DA Miller,,0,0,0,,,,342623426
+1,South Africa,18,JP Duminy,B Kumar,DA Miller,,0,6,6,,,,342623426
+1,South Africa,18,JP Duminy,B Kumar,DA Miller,,0,1,1,,,,342623426
+1,South Africa,18,DA Miller,B Kumar,JP Duminy,,0,4,4,,,,342623426
+1,South Africa,18,DA Miller,B Kumar,JP Duminy,,0,1,1,,,,342623426
+1,South Africa,19,DA Miller,MM Sharma,JP Duminy,,0,1,1,,,,342623426
+1,South Africa,19,JP Duminy,MM Sharma,DA Miller,,0,1,1,,,,342623426
+1,South Africa,19,DA Miller,MM Sharma,JP Duminy,,0,6,6,,,,342623426
+1,South Africa,19,DA Miller,MM Sharma,JP Duminy,,0,0,0,,,,342623426
+1,South Africa,19,DA Miller,MM Sharma,JP Duminy,,0,4,4,,,,342623426
+1,South Africa,19,DA Miller,MM Sharma,JP Duminy,,0,2,2,,,,342623426

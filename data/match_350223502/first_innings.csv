@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Pakistan,0,Marina Iqbal,S Ismail,Sidra Ameen,,0,0,0,,,,350223502
+1,Pakistan,0,Marina Iqbal,S Ismail,Sidra Ameen,,0,0,0,,,,350223502
+1,Pakistan,0,Marina Iqbal,S Ismail,Sidra Ameen,,0,1,1,,,,350223502
+1,Pakistan,0,Sidra Ameen,S Ismail,Marina Iqbal,,0,0,0,lbw,Sidra Ameen,,350223502
+1,Pakistan,0,Iram Javed,S Ismail,Marina Iqbal,,0,0,0,,,,350223502
+1,Pakistan,0,Iram Javed,S Ismail,Marina Iqbal,,0,1,1,,,,350223502
+1,Pakistan,1,Iram Javed,M Daniels,Marina Iqbal,,0,0,0,,,,350223502
+1,Pakistan,1,Iram Javed,M Daniels,Marina Iqbal,,0,0,0,bowled,Iram Javed,,350223502
+1,Pakistan,1,Bismah Maroof,M Daniels,Marina Iqbal,,0,0,0,,,,350223502
+1,Pakistan,1,Bismah Maroof,M Daniels,Marina Iqbal,,0,1,1,,,,350223502
+1,Pakistan,1,Marina Iqbal,M Daniels,Bismah Maroof,,0,0,0,,,,350223502
+1,Pakistan,1,Marina Iqbal,M Daniels,Bismah Maroof,,0,1,1,,,,350223502
+1,Pakistan,2,Marina Iqbal,S Ismail,Bismah Maroof,,0,0,0,,,,350223502
+1,Pakistan,2,Marina Iqbal,S Ismail,Bismah Maroof,,0,2,2,,,,350223502
+1,Pakistan,2,Marina Iqbal,S Ismail,Bismah Maroof,,0,0,0,,,,350223502
+1,Pakistan,2,Marina Iqbal,S Ismail,Bismah Maroof,,0,1,1,,,,350223502
+1,Pakistan,2,Bismah Maroof,S Ismail,Marina Iqbal,,0,0,0,,,,350223502
+1,Pakistan,2,Bismah Maroof,S Ismail,Marina Iqbal,,0,0,0,,,,350223502
+1,Pakistan,3,Marina Iqbal,M Daniels,Bismah Maroof,,0,0,0,,,,350223502
+1,Pakistan,3,Marina Iqbal,M Daniels,Bismah Maroof,,0,0,0,,,,350223502
+1,Pakistan,3,Marina Iqbal,M Daniels,Bismah Maroof,,0,4,4,,,,350223502
+1,Pakistan,3,Marina Iqbal,M Daniels,Bismah Maroof,,0,0,0,,,,350223502
+1,Pakistan,3,Marina Iqbal,M Daniels,Bismah Maroof,,0,0,0,,,,350223502
+1,Pakistan,3,Marina Iqbal,M Daniels,Bismah Maroof,,0,0,0,,,,350223502
+1,Pakistan,4,Bismah Maroof,D van Niekerk,Marina Iqbal,,0,1,1,,,,350223502
+1,Pakistan,4,Marina Iqbal,D van Niekerk,Bismah Maroof,,0,0,0,,,,350223502
+1,Pakistan,4,Marina Iqbal,D van Niekerk,Bismah Maroof,,0,0,0,,,,350223502
+1,Pakistan,4,Marina Iqbal,D van Niekerk,Bismah Maroof,,0,2,2,,,,350223502
+1,Pakistan,4,Marina Iqbal,D van Niekerk,Bismah Maroof,,0,0,0,,,,350223502
+1,Pakistan,4,Marina Iqbal,D van Niekerk,Bismah Maroof,,0,1,1,,,,350223502
+1,Pakistan,5,Marina Iqbal,M Daniels,Bismah Maroof,,0,0,0,,,,350223502
+1,Pakistan,5,Marina Iqbal,M Daniels,Bismah Maroof,wides,1,1,0,,,,350223502
+1,Pakistan,5,Marina Iqbal,M Daniels,Bismah Maroof,,0,1,1,,,,350223502
+1,Pakistan,5,Bismah Maroof,M Daniels,Marina Iqbal,wides,1,1,0,,,,350223502
+1,Pakistan,5,Bismah Maroof,M Daniels,Marina Iqbal,,0,0,0,,,,350223502
+1,Pakistan,5,Bismah Maroof,M Daniels,Marina Iqbal,,0,0,0,,,,350223502
+1,Pakistan,5,Bismah Maroof,M Daniels,Marina Iqbal,,0,2,2,,,,350223502
+1,Pakistan,5,Bismah Maroof,M Daniels,Marina Iqbal,,0,4,4,,,,350223502
+1,Pakistan,6,Marina Iqbal,D van Niekerk,Bismah Maroof,,0,2,2,,,,350223502
+1,Pakistan,6,Marina Iqbal,D van Niekerk,Bismah Maroof,,0,0,0,,,,350223502
+1,Pakistan,6,Marina Iqbal,D van Niekerk,Bismah Maroof,,0,0,0,caught,Marina Iqbal,L Lee,350223502
+1,Pakistan,6,Bismah Maroof,D van Niekerk,Sana Mir,,0,1,1,,,,350223502
+1,Pakistan,6,Sana Mir,D van Niekerk,Bismah Maroof,,0,0,0,bowled,Sana Mir,,350223502
+1,Pakistan,6,Nahida Khan,D van Niekerk,Bismah Maroof,,0,0,0,,,,350223502
+1,Pakistan,7,Bismah Maroof,S Luus,Nahida Khan,,0,0,0,,,,350223502
+1,Pakistan,7,Bismah Maroof,S Luus,Nahida Khan,,0,0,0,,,,350223502
+1,Pakistan,7,Bismah Maroof,S Luus,Nahida Khan,,0,0,0,,,,350223502
+1,Pakistan,7,Bismah Maroof,S Luus,Nahida Khan,,0,1,1,,,,350223502
+1,Pakistan,7,Nahida Khan,S Luus,Bismah Maroof,,0,0,0,,,,350223502
+1,Pakistan,7,Nahida Khan,S Luus,Bismah Maroof,,0,1,1,,,,350223502
+1,Pakistan,8,Nahida Khan,D van Niekerk,Bismah Maroof,,0,2,2,,,,350223502
+1,Pakistan,8,Nahida Khan,D van Niekerk,Bismah Maroof,,0,0,0,,,,350223502
+1,Pakistan,8,Nahida Khan,D van Niekerk,Bismah Maroof,,0,0,0,,,,350223502
+1,Pakistan,8,Nahida Khan,D van Niekerk,Bismah Maroof,,0,0,0,caught,Nahida Khan,B Bezuidenhout,350223502
+1,Pakistan,8,Asmavia Iqbal,D van Niekerk,Bismah Maroof,,0,1,1,,,,350223502
+1,Pakistan,8,Bismah Maroof,D van Niekerk,Asmavia Iqbal,,0,0,0,,,,350223502
+1,Pakistan,9,Asmavia Iqbal,S Luus,Bismah Maroof,,0,1,1,,,,350223502
+1,Pakistan,9,Bismah Maroof,S Luus,Asmavia Iqbal,,0,1,1,,,,350223502
+1,Pakistan,9,Asmavia Iqbal,S Luus,Bismah Maroof,,0,0,0,,,,350223502
+1,Pakistan,9,Asmavia Iqbal,S Luus,Bismah Maroof,,0,0,0,,,,350223502
+1,Pakistan,9,Asmavia Iqbal,S Luus,Bismah Maroof,,0,0,0,,,,350223502
+1,Pakistan,9,Asmavia Iqbal,S Luus,Bismah Maroof,,0,0,0,,,,350223502
+1,Pakistan,10,Bismah Maroof,D van Niekerk,Asmavia Iqbal,,0,1,1,,,,350223502
+1,Pakistan,10,Asmavia Iqbal,D van Niekerk,Bismah Maroof,legbyes,2,2,0,,,,350223502
+1,Pakistan,10,Asmavia Iqbal,D van Niekerk,Bismah Maroof,,0,1,1,,,,350223502
+1,Pakistan,10,Bismah Maroof,D van Niekerk,Asmavia Iqbal,,0,0,0,,,,350223502
+1,Pakistan,10,Bismah Maroof,D van Niekerk,Asmavia Iqbal,,0,0,0,,,,350223502
+1,Pakistan,10,Bismah Maroof,D van Niekerk,Asmavia Iqbal,,0,0,0,,,,350223502
+1,Pakistan,11,Asmavia Iqbal,S Luus,Bismah Maroof,,0,1,1,,,,350223502
+1,Pakistan,11,Bismah Maroof,S Luus,Asmavia Iqbal,,0,4,4,,,,350223502
+1,Pakistan,11,Bismah Maroof,S Luus,Asmavia Iqbal,,0,1,1,,,,350223502
+1,Pakistan,11,Asmavia Iqbal,S Luus,Bismah Maroof,,0,1,1,,,,350223502
+1,Pakistan,11,Bismah Maroof,S Luus,Asmavia Iqbal,,0,2,2,,,,350223502
+1,Pakistan,11,Bismah Maroof,S Luus,Asmavia Iqbal,,0,0,0,,,,350223502
+1,Pakistan,12,Asmavia Iqbal,Y Fourie,Bismah Maroof,,0,0,0,,,,350223502
+1,Pakistan,12,Asmavia Iqbal,Y Fourie,Bismah Maroof,,0,2,2,,,,350223502
+1,Pakistan,12,Asmavia Iqbal,Y Fourie,Bismah Maroof,,0,0,0,,,,350223502
+1,Pakistan,12,Asmavia Iqbal,Y Fourie,Bismah Maroof,,0,1,1,,,,350223502
+1,Pakistan,12,Bismah Maroof,Y Fourie,Asmavia Iqbal,,0,1,1,,,,350223502
+1,Pakistan,12,Asmavia Iqbal,Y Fourie,Bismah Maroof,wides,1,1,0,,,,350223502
+1,Pakistan,12,Asmavia Iqbal,Y Fourie,Bismah Maroof,,0,6,6,,,,350223502
+1,Pakistan,13,Bismah Maroof,MM Letsoalo,Asmavia Iqbal,,0,0,0,,,,350223502
+1,Pakistan,13,Bismah Maroof,MM Letsoalo,Asmavia Iqbal,,0,0,0,,,,350223502
+1,Pakistan,13,Bismah Maroof,MM Letsoalo,Asmavia Iqbal,,0,0,0,,,,350223502
+1,Pakistan,13,Bismah Maroof,MM Letsoalo,Asmavia Iqbal,,0,1,1,,,,350223502
+1,Pakistan,13,Asmavia Iqbal,MM Letsoalo,Bismah Maroof,,0,1,1,,,,350223502
+1,Pakistan,13,Bismah Maroof,MM Letsoalo,Asmavia Iqbal,,0,3,3,,,,350223502
+1,Pakistan,14,Bismah Maroof,S Luus,Asmavia Iqbal,,0,1,1,,,,350223502
+1,Pakistan,14,Asmavia Iqbal,S Luus,Bismah Maroof,,0,1,1,,,,350223502
+1,Pakistan,14,Bismah Maroof,S Luus,Asmavia Iqbal,,0,0,0,,,,350223502
+1,Pakistan,14,Bismah Maroof,S Luus,Asmavia Iqbal,,0,1,1,,,,350223502
+1,Pakistan,14,Asmavia Iqbal,S Luus,Bismah Maroof,,0,1,1,,,,350223502
+1,Pakistan,14,Bismah Maroof,S Luus,Asmavia Iqbal,,0,1,1,,,,350223502
+1,Pakistan,15,Bismah Maroof,MM Letsoalo,Asmavia Iqbal,,0,1,1,,,,350223502
+1,Pakistan,15,Asmavia Iqbal,MM Letsoalo,Bismah Maroof,,0,4,4,,,,350223502
+1,Pakistan,15,Asmavia Iqbal,MM Letsoalo,Bismah Maroof,,0,1,1,,,,350223502
+1,Pakistan,15,Bismah Maroof,MM Letsoalo,Asmavia Iqbal,,0,1,1,,,,350223502
+1,Pakistan,15,Asmavia Iqbal,MM Letsoalo,Bismah Maroof,,0,1,1,,,,350223502
+1,Pakistan,15,Bismah Maroof,MM Letsoalo,Asmavia Iqbal,,0,1,1,,,,350223502
+1,Pakistan,16,Bismah Maroof,S Ismail,Asmavia Iqbal,,0,0,0,,,,350223502
+1,Pakistan,16,Bismah Maroof,S Ismail,Asmavia Iqbal,,0,0,0,,,,350223502
+1,Pakistan,16,Bismah Maroof,S Ismail,Asmavia Iqbal,,0,2,2,,,,350223502
+1,Pakistan,16,Bismah Maroof,S Ismail,Asmavia Iqbal,,0,2,2,,,,350223502
+1,Pakistan,16,Bismah Maroof,S Ismail,Asmavia Iqbal,,0,0,0,caught,Bismah Maroof,T Chetty,350223502
+1,Pakistan,16,Nida Dar,S Ismail,Asmavia Iqbal,,0,4,4,,,,350223502
+1,Pakistan,17,Asmavia Iqbal,MM Letsoalo,Nida Dar,,0,0,0,,,,350223502
+1,Pakistan,17,Asmavia Iqbal,MM Letsoalo,Nida Dar,,0,0,0,,,,350223502
+1,Pakistan,17,Asmavia Iqbal,MM Letsoalo,Nida Dar,,0,6,6,,,,350223502
+1,Pakistan,17,Asmavia Iqbal,MM Letsoalo,Nida Dar,,0,1,1,,,,350223502
+1,Pakistan,17,Nida Dar,MM Letsoalo,Asmavia Iqbal,,0,0,0,,,,350223502
+1,Pakistan,17,Nida Dar,MM Letsoalo,Asmavia Iqbal,,0,1,1,,,,350223502
+1,Pakistan,18,Nida Dar,M Daniels,Asmavia Iqbal,,0,0,0,,,,350223502
+1,Pakistan,18,Nida Dar,M Daniels,Asmavia Iqbal,,0,1,1,,,,350223502
+1,Pakistan,18,Asmavia Iqbal,M Daniels,Nida Dar,,0,0,0,,,,350223502
+1,Pakistan,18,Asmavia Iqbal,M Daniels,Nida Dar,,0,1,1,,,,350223502
+1,Pakistan,18,Nida Dar,M Daniels,Asmavia Iqbal,,0,1,1,,,,350223502
+1,Pakistan,18,Asmavia Iqbal,M Daniels,Nida Dar,,0,0,0,run out,Asmavia Iqbal,S Luus,350223502
+1,Pakistan,19,Sania Khan,S Ismail,Nida Dar,,0,1,1,,,,350223502
+1,Pakistan,19,Nida Dar,S Ismail,Sania Khan,,0,2,2,,,,350223502
+1,Pakistan,19,Nida Dar,S Ismail,Sania Khan,,0,4,4,,,,350223502
+1,Pakistan,19,Nida Dar,S Ismail,Sania Khan,,0,1,1,,,,350223502
+1,Pakistan,19,Sania Khan,S Ismail,Nida Dar,,0,1,1,,,,350223502
+1,Pakistan,19,Nida Dar,S Ismail,Sania Khan,,0,1,1,,,,350223502

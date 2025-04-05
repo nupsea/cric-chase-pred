@@ -1,0 +1,17 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Scotland,0,SJ Bryce,C Breteche,L Jack,,0,1,1,,,,31678231678
+2,Scotland,0,L Jack,C Breteche,SJ Bryce,wides,1,1,0,,,,31678231678
+2,Scotland,0,L Jack,C Breteche,SJ Bryce,,0,0,0,,,,31678231678
+2,Scotland,0,L Jack,C Breteche,SJ Bryce,,0,4,4,,,,31678231678
+2,Scotland,0,L Jack,C Breteche,SJ Bryce,,0,2,2,,,,31678231678
+2,Scotland,0,L Jack,C Breteche,SJ Bryce,,0,0,0,,,,31678231678
+2,Scotland,0,L Jack,C Breteche,SJ Bryce,,0,1,1,,,,31678231678
+2,Scotland,1,L Jack,ME Violleau,SJ Bryce,,0,1,1,,,,31678231678
+2,Scotland,1,SJ Bryce,ME Violleau,L Jack,,0,6,6,,,,31678231678
+2,Scotland,1,SJ Bryce,ME Violleau,L Jack,,0,2,2,,,,31678231678
+2,Scotland,1,SJ Bryce,ME Violleau,L Jack,,0,0,0,bowled,SJ Bryce,,31678231678
+2,Scotland,1,KE Bryce,ME Violleau,L Jack,,0,2,2,,,,31678231678
+2,Scotland,1,KE Bryce,ME Violleau,L Jack,,0,0,0,caught,KE Bryce,E Brelivet,31678231678
+2,Scotland,2,K McGill,C Breteche,L Jack,,0,0,0,caught,K McGill,DL Graham,31678231678
+2,Scotland,2,M McColl,C Breteche,L Jack,,0,4,4,,,,31678231678
+2,Scotland,2,M McColl,C Breteche,L Jack,wides,1,1,0,,,,31678231678

@@ -1,0 +1,126 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Panama,0,SP Guzman,RP Mitchell,M Sohel Patel,,0,2,2,,,,31839231839
+1,Panama,0,SP Guzman,RP Mitchell,M Sohel Patel,,0,0,0,,,,31839231839
+1,Panama,0,SP Guzman,RP Mitchell,M Sohel Patel,,0,0,0,,,,31839231839
+1,Panama,0,SP Guzman,RP Mitchell,M Sohel Patel,,0,1,1,,,,31839231839
+1,Panama,0,M Sohel Patel,RP Mitchell,SP Guzman,,0,2,2,,,,31839231839
+1,Panama,0,M Sohel Patel,RP Mitchell,SP Guzman,,0,1,1,,,,31839231839
+1,Panama,1,M Sohel Patel,MS Graham,SP Guzman,,0,0,0,,,,31839231839
+1,Panama,1,M Sohel Patel,MS Graham,SP Guzman,,0,0,0,,,,31839231839
+1,Panama,1,M Sohel Patel,MS Graham,SP Guzman,,0,4,4,,,,31839231839
+1,Panama,1,M Sohel Patel,MS Graham,SP Guzman,,0,0,0,,,,31839231839
+1,Panama,1,M Sohel Patel,MS Graham,SP Guzman,,0,0,0,bowled,M Sohel Patel,,31839231839
+1,Panama,1,Yusuf Ebrahim,MS Graham,SP Guzman,legbyes,4,4,0,,,,31839231839
+1,Panama,2,SP Guzman,RP Mitchell,Yusuf Ebrahim,,0,0,0,,,,31839231839
+1,Panama,2,SP Guzman,RP Mitchell,Yusuf Ebrahim,,0,0,0,,,,31839231839
+1,Panama,2,SP Guzman,RP Mitchell,Yusuf Ebrahim,,0,0,0,,,,31839231839
+1,Panama,2,SP Guzman,RP Mitchell,Yusuf Ebrahim,,0,0,0,,,,31839231839
+1,Panama,2,SP Guzman,RP Mitchell,Yusuf Ebrahim,,0,0,0,,,,31839231839
+1,Panama,2,SP Guzman,RP Mitchell,Yusuf Ebrahim,,0,0,0,bowled,SP Guzman,,31839231839
+1,Panama,3,Yusuf Ebrahim,MS Graham,Irfan Hafejee,,0,0,0,,,,31839231839
+1,Panama,3,Yusuf Ebrahim,MS Graham,Irfan Hafejee,,0,0,0,,,,31839231839
+1,Panama,3,Yusuf Ebrahim,MS Graham,Irfan Hafejee,,0,1,1,,,,31839231839
+1,Panama,3,Irfan Hafejee,MS Graham,Yusuf Ebrahim,,0,0,0,,,,31839231839
+1,Panama,3,Irfan Hafejee,MS Graham,Yusuf Ebrahim,,0,0,0,,,,31839231839
+1,Panama,3,Irfan Hafejee,MS Graham,Yusuf Ebrahim,,0,0,0,,,,31839231839
+1,Panama,4,Yusuf Ebrahim,RP Mitchell,Irfan Hafejee,wides,5,5,0,,,,31839231839
+1,Panama,4,Yusuf Ebrahim,RP Mitchell,Irfan Hafejee,,0,1,1,,,,31839231839
+1,Panama,4,Irfan Hafejee,RP Mitchell,Yusuf Ebrahim,,0,0,0,,,,31839231839
+1,Panama,4,Irfan Hafejee,RP Mitchell,Yusuf Ebrahim,,0,1,1,,,,31839231839
+1,Panama,4,Yusuf Ebrahim,RP Mitchell,Irfan Hafejee,,0,2,2,,,,31839231839
+1,Panama,4,Yusuf Ebrahim,RP Mitchell,Irfan Hafejee,,0,4,4,,,,31839231839
+1,Panama,4,Yusuf Ebrahim,RP Mitchell,Irfan Hafejee,,0,0,0,,,,31839231839
+1,Panama,5,Irfan Hafejee,MS Graham,Yusuf Ebrahim,,0,0,0,,,,31839231839
+1,Panama,5,Irfan Hafejee,MS Graham,Yusuf Ebrahim,,0,0,0,,,,31839231839
+1,Panama,5,Irfan Hafejee,MS Graham,Yusuf Ebrahim,legbyes,1,1,0,,,,31839231839
+1,Panama,5,Yusuf Ebrahim,MS Graham,Irfan Hafejee,,0,1,1,,,,31839231839
+1,Panama,5,Irfan Hafejee,MS Graham,Yusuf Ebrahim,,0,0,0,,,,31839231839
+1,Panama,5,Irfan Hafejee,MS Graham,Yusuf Ebrahim,,0,0,0,,,,31839231839
+1,Panama,6,Yusuf Ebrahim,JR Barry,Irfan Hafejee,,0,1,1,,,,31839231839
+1,Panama,6,Irfan Hafejee,JR Barry,Yusuf Ebrahim,,0,1,1,,,,31839231839
+1,Panama,6,Yusuf Ebrahim,JR Barry,Irfan Hafejee,,0,2,2,,,,31839231839
+1,Panama,6,Yusuf Ebrahim,JR Barry,Irfan Hafejee,,0,1,1,,,,31839231839
+1,Panama,6,Irfan Hafejee,JR Barry,Yusuf Ebrahim,,0,1,1,,,,31839231839
+1,Panama,6,Yusuf Ebrahim,JR Barry,Irfan Hafejee,,0,1,1,,,,31839231839
+1,Panama,7,Yusuf Ebrahim,K Hinds,Irfan Hafejee,,0,0,0,,,,31839231839
+1,Panama,7,Yusuf Ebrahim,K Hinds,Irfan Hafejee,,0,0,0,,,,31839231839
+1,Panama,7,Yusuf Ebrahim,K Hinds,Irfan Hafejee,,0,0,0,,,,31839231839
+1,Panama,7,Yusuf Ebrahim,K Hinds,Irfan Hafejee,,0,1,1,,,,31839231839
+1,Panama,7,Irfan Hafejee,K Hinds,Yusuf Ebrahim,,0,4,4,,,,31839231839
+1,Panama,7,Irfan Hafejee,K Hinds,Yusuf Ebrahim,,0,0,0,,,,31839231839
+1,Panama,8,Yusuf Ebrahim,M Taylor,Irfan Hafejee,,0,1,1,,,,31839231839
+1,Panama,8,Irfan Hafejee,M Taylor,Yusuf Ebrahim,,0,1,1,,,,31839231839
+1,Panama,8,Yusuf Ebrahim,M Taylor,Irfan Hafejee,,0,0,0,,,,31839231839
+1,Panama,8,Yusuf Ebrahim,M Taylor,Irfan Hafejee,,0,0,0,caught,Yusuf Ebrahim,RP Mitchell,31839231839
+1,Panama,8,Mahmud Jasat,M Taylor,Irfan Hafejee,,0,0,0,,,,31839231839
+1,Panama,8,Mahmud Jasat,M Taylor,Irfan Hafejee,,0,1,1,,,,31839231839
+1,Panama,9,Mahmud Jasat,K Hinds,Irfan Hafejee,,0,2,2,,,,31839231839
+1,Panama,9,Mahmud Jasat,K Hinds,Irfan Hafejee,,0,1,1,,,,31839231839
+1,Panama,9,Irfan Hafejee,K Hinds,Mahmud Jasat,,0,0,0,,,,31839231839
+1,Panama,9,Irfan Hafejee,K Hinds,Mahmud Jasat,,0,0,0,,,,31839231839
+1,Panama,9,Irfan Hafejee,K Hinds,Mahmud Jasat,,0,0,0,,,,31839231839
+1,Panama,9,Irfan Hafejee,K Hinds,Mahmud Jasat,,0,1,1,,,,31839231839
+1,Panama,10,Irfan Hafejee,M Taylor,Mahmud Jasat,,0,1,1,,,,31839231839
+1,Panama,10,Mahmud Jasat,M Taylor,Irfan Hafejee,,0,0,0,,,,31839231839
+1,Panama,10,Mahmud Jasat,M Taylor,Irfan Hafejee,byes,1,1,0,,,,31839231839
+1,Panama,10,Irfan Hafejee,M Taylor,Mahmud Jasat,,0,4,4,,,,31839231839
+1,Panama,10,Irfan Hafejee,M Taylor,Mahmud Jasat,,0,0,0,,,,31839231839
+1,Panama,10,Irfan Hafejee,M Taylor,Mahmud Jasat,,0,4,4,,,,31839231839
+1,Panama,11,Mahmud Jasat,J Jagroo,Irfan Hafejee,,0,0,0,,,,31839231839
+1,Panama,11,Mahmud Jasat,J Jagroo,Irfan Hafejee,,0,1,1,,,,31839231839
+1,Panama,11,Irfan Hafejee,J Jagroo,Mahmud Jasat,,0,0,0,,,,31839231839
+1,Panama,11,Irfan Hafejee,J Jagroo,Mahmud Jasat,,0,4,4,,,,31839231839
+1,Panama,11,Irfan Hafejee,J Jagroo,Mahmud Jasat,,0,4,4,,,,31839231839
+1,Panama,11,Irfan Hafejee,J Jagroo,Mahmud Jasat,,0,1,1,,,,31839231839
+1,Panama,12,Irfan Hafejee,K Hinds,Mahmud Jasat,,0,1,1,,,,31839231839
+1,Panama,12,Mahmud Jasat,K Hinds,Irfan Hafejee,,0,1,1,,,,31839231839
+1,Panama,12,Irfan Hafejee,K Hinds,Mahmud Jasat,,0,4,4,,,,31839231839
+1,Panama,12,Irfan Hafejee,K Hinds,Mahmud Jasat,,0,0,0,,,,31839231839
+1,Panama,12,Irfan Hafejee,K Hinds,Mahmud Jasat,,0,1,1,,,,31839231839
+1,Panama,12,Mahmud Jasat,K Hinds,Irfan Hafejee,,0,1,1,,,,31839231839
+1,Panama,13,Mahmud Jasat,J Jagroo,Irfan Hafejee,,0,1,1,,,,31839231839
+1,Panama,13,Irfan Hafejee,J Jagroo,Mahmud Jasat,wides,1,1,0,,,,31839231839
+1,Panama,13,Irfan Hafejee,J Jagroo,Mahmud Jasat,,0,2,2,,,,31839231839
+1,Panama,13,Irfan Hafejee,J Jagroo,Mahmud Jasat,,0,0,0,,,,31839231839
+1,Panama,13,Irfan Hafejee,J Jagroo,Mahmud Jasat,,0,2,2,,,,31839231839
+1,Panama,13,Irfan Hafejee,J Jagroo,Mahmud Jasat,wides,1,1,0,,,,31839231839
+1,Panama,13,Irfan Hafejee,J Jagroo,Mahmud Jasat,,0,1,1,,,,31839231839
+1,Panama,13,Mahmud Jasat,J Jagroo,Irfan Hafejee,,0,0,0,caught,Mahmud Jasat,K Hinds,31839231839
+1,Panama,14,A Natubhai Ahir,K Hinds,Irfan Hafejee,,0,0,0,,,,31839231839
+1,Panama,14,A Natubhai Ahir,K Hinds,Irfan Hafejee,,0,1,1,,,,31839231839
+1,Panama,14,Irfan Hafejee,K Hinds,A Natubhai Ahir,,0,1,1,,,,31839231839
+1,Panama,14,A Natubhai Ahir,K Hinds,Irfan Hafejee,,0,0,0,,,,31839231839
+1,Panama,14,A Natubhai Ahir,K Hinds,Irfan Hafejee,,0,2,2,,,,31839231839
+1,Panama,14,A Natubhai Ahir,K Hinds,Irfan Hafejee,,0,0,0,,,,31839231839
+1,Panama,15,Irfan Hafejee,GT Taylor,A Natubhai Ahir,,0,2,2,,,,31839231839
+1,Panama,15,Irfan Hafejee,GT Taylor,A Natubhai Ahir,,0,0,0,,,,31839231839
+1,Panama,15,Irfan Hafejee,GT Taylor,A Natubhai Ahir,,0,0,0,bowled,Irfan Hafejee,,31839231839
+1,Panama,15,D Ahir,GT Taylor,A Natubhai Ahir,,0,1,1,,,,31839231839
+1,Panama,15,A Natubhai Ahir,GT Taylor,D Ahir,wides,1,1,0,,,,31839231839
+1,Panama,15,A Natubhai Ahir,GT Taylor,D Ahir,legbyes,1,1,0,,,,31839231839
+1,Panama,15,D Ahir,GT Taylor,A Natubhai Ahir,,0,4,4,,,,31839231839
+1,Panama,16,A Natubhai Ahir,MS Graham,D Ahir,,0,1,1,,,,31839231839
+1,Panama,16,D Ahir,MS Graham,A Natubhai Ahir,,0,2,2,,,,31839231839
+1,Panama,16,D Ahir,MS Graham,A Natubhai Ahir,,0,0,0,,,,31839231839
+1,Panama,16,D Ahir,MS Graham,A Natubhai Ahir,,0,0,0,,,,31839231839
+1,Panama,16,D Ahir,MS Graham,A Natubhai Ahir,,0,1,1,,,,31839231839
+1,Panama,16,A Natubhai Ahir,MS Graham,D Ahir,,0,6,6,,,,31839231839
+1,Panama,17,D Ahir,GT Taylor,A Natubhai Ahir,legbyes,1,1,0,,,,31839231839
+1,Panama,17,A Natubhai Ahir,GT Taylor,D Ahir,,0,1,1,run out,A Natubhai Ahir,J Jagroo,31839231839
+1,Panama,17,Abdullah Jasat,GT Taylor,D Ahir,,0,1,1,,,,31839231839
+1,Panama,17,D Ahir,GT Taylor,Abdullah Jasat,,0,6,6,,,,31839231839
+1,Panama,17,D Ahir,GT Taylor,Abdullah Jasat,,0,0,0,,,,31839231839
+1,Panama,17,D Ahir,GT Taylor,Abdullah Jasat,,0,0,0,,,,31839231839
+1,Panama,18,Abdullah Jasat,RP Mitchell,D Ahir,,0,2,2,,,,31839231839
+1,Panama,18,Abdullah Jasat,RP Mitchell,D Ahir,,0,2,2,,,,31839231839
+1,Panama,18,Abdullah Jasat,RP Mitchell,D Ahir,wides,1,1,0,,,,31839231839
+1,Panama,18,Abdullah Jasat,RP Mitchell,D Ahir,byes,4,4,0,,,,31839231839
+1,Panama,18,Abdullah Jasat,RP Mitchell,D Ahir,,0,4,4,,,,31839231839
+1,Panama,18,Abdullah Jasat,RP Mitchell,D Ahir,,0,0,0,,,,31839231839
+1,Panama,18,Abdullah Jasat,RP Mitchell,D Ahir,,0,1,1,,,,31839231839
+1,Panama,19,Abdullah Jasat,GT Taylor,D Ahir,,0,1,1,,,,31839231839
+1,Panama,19,D Ahir,GT Taylor,Abdullah Jasat,,0,0,0,bowled,D Ahir,,31839231839
+1,Panama,19,Yusuf Bhoola,GT Taylor,Abdullah Jasat,,0,1,1,,,,31839231839
+1,Panama,19,Abdullah Jasat,GT Taylor,Yusuf Bhoola,,0,6,6,,,,31839231839
+1,Panama,19,Abdullah Jasat,GT Taylor,Yusuf Bhoola,,0,0,0,,,,31839231839
+1,Panama,19,Abdullah Jasat,GT Taylor,Yusuf Bhoola,,0,0,0,run out,Yusuf Bhoola,E Haven,31839231839

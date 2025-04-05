@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,L Lee,Anam Amin,T Brits,,0,0,0,,,,31456231456
+1,South Africa,0,L Lee,Anam Amin,T Brits,,0,1,1,,,,31456231456
+1,South Africa,0,T Brits,Anam Amin,L Lee,,0,0,0,,,,31456231456
+1,South Africa,0,T Brits,Anam Amin,L Lee,,0,1,1,,,,31456231456
+1,South Africa,0,L Lee,Anam Amin,T Brits,,0,3,3,,,,31456231456
+1,South Africa,0,T Brits,Anam Amin,L Lee,,0,0,0,,,,31456231456
+1,South Africa,1,L Lee,Diana Baig,T Brits,,0,0,0,,,,31456231456
+1,South Africa,1,L Lee,Diana Baig,T Brits,wides,1,1,0,,,,31456231456
+1,South Africa,1,L Lee,Diana Baig,T Brits,,0,0,0,,,,31456231456
+1,South Africa,1,L Lee,Diana Baig,T Brits,,0,0,0,,,,31456231456
+1,South Africa,1,L Lee,Diana Baig,T Brits,,0,1,1,,,,31456231456
+1,South Africa,1,T Brits,Diana Baig,L Lee,,0,0,0,,,,31456231456
+1,South Africa,1,T Brits,Diana Baig,L Lee,,0,0,0,,,,31456231456
+1,South Africa,2,L Lee,Anam Amin,T Brits,,0,0,0,,,,31456231456
+1,South Africa,2,L Lee,Anam Amin,T Brits,,0,1,1,,,,31456231456
+1,South Africa,2,T Brits,Anam Amin,L Lee,,0,0,0,,,,31456231456
+1,South Africa,2,T Brits,Anam Amin,L Lee,,0,0,0,,,,31456231456
+1,South Africa,2,T Brits,Anam Amin,L Lee,,0,0,0,,,,31456231456
+1,South Africa,2,T Brits,Anam Amin,L Lee,,0,0,0,,,,31456231456
+1,South Africa,3,L Lee,Diana Baig,T Brits,,0,0,0,,,,31456231456
+1,South Africa,3,L Lee,Diana Baig,T Brits,legbyes,1,1,0,,,,31456231456
+1,South Africa,3,T Brits,Diana Baig,L Lee,,0,4,4,,,,31456231456
+1,South Africa,3,T Brits,Diana Baig,L Lee,,0,0,0,,,,31456231456
+1,South Africa,3,T Brits,Diana Baig,L Lee,,0,2,2,,,,31456231456
+1,South Africa,3,T Brits,Diana Baig,L Lee,,0,0,0,,,,31456231456
+1,South Africa,4,L Lee,Anam Amin,T Brits,,0,0,0,caught and bowled,L Lee,,31456231456
+1,South Africa,4,M Kapp,Anam Amin,T Brits,,0,0,0,,,,31456231456
+1,South Africa,4,M Kapp,Anam Amin,T Brits,,0,0,0,,,,31456231456
+1,South Africa,4,M Kapp,Anam Amin,T Brits,,0,2,2,,,,31456231456
+1,South Africa,4,M Kapp,Anam Amin,T Brits,,0,0,0,,,,31456231456
+1,South Africa,4,M Kapp,Anam Amin,T Brits,,0,1,1,,,,31456231456
+1,South Africa,5,M Kapp,Aiman Anwer,T Brits,,0,0,0,,,,31456231456
+1,South Africa,5,M Kapp,Aiman Anwer,T Brits,,0,0,0,,,,31456231456
+1,South Africa,5,M Kapp,Aiman Anwer,T Brits,,0,1,1,,,,31456231456
+1,South Africa,5,T Brits,Aiman Anwer,M Kapp,,0,1,1,,,,31456231456
+1,South Africa,5,M Kapp,Aiman Anwer,T Brits,,0,1,1,,,,31456231456
+1,South Africa,5,T Brits,Aiman Anwer,M Kapp,,0,1,1,,,,31456231456
+1,South Africa,6,T Brits,Nida Dar,M Kapp,,0,0,0,,,,31456231456
+1,South Africa,6,T Brits,Nida Dar,M Kapp,,0,1,1,,,,31456231456
+1,South Africa,6,M Kapp,Nida Dar,T Brits,,0,1,1,,,,31456231456
+1,South Africa,6,T Brits,Nida Dar,M Kapp,,0,0,0,,,,31456231456
+1,South Africa,6,T Brits,Nida Dar,M Kapp,,0,0,0,,,,31456231456
+1,South Africa,6,T Brits,Nida Dar,M Kapp,,0,1,1,,,,31456231456
+1,South Africa,7,T Brits,Aiman Anwer,M Kapp,,0,1,1,,,,31456231456
+1,South Africa,7,M Kapp,Aiman Anwer,T Brits,,0,0,0,,,,31456231456
+1,South Africa,7,M Kapp,Aiman Anwer,T Brits,,0,1,1,,,,31456231456
+1,South Africa,7,T Brits,Aiman Anwer,M Kapp,,0,0,0,,,,31456231456
+1,South Africa,7,T Brits,Aiman Anwer,M Kapp,,0,1,1,,,,31456231456
+1,South Africa,7,M Kapp,Aiman Anwer,T Brits,,0,2,2,,,,31456231456
+1,South Africa,8,T Brits,Nida Dar,M Kapp,,0,0,0,,,,31456231456
+1,South Africa,8,T Brits,Nida Dar,M Kapp,,0,0,0,,,,31456231456
+1,South Africa,8,T Brits,Nida Dar,M Kapp,,0,2,2,,,,31456231456
+1,South Africa,8,T Brits,Nida Dar,M Kapp,,0,0,0,,,,31456231456
+1,South Africa,8,T Brits,Nida Dar,M Kapp,,0,0,0,,,,31456231456
+1,South Africa,8,T Brits,Nida Dar,M Kapp,,0,4,4,,,,31456231456
+1,South Africa,9,M Kapp,Aliya Riaz,T Brits,,0,2,2,,,,31456231456
+1,South Africa,9,M Kapp,Aliya Riaz,T Brits,,0,0,0,caught,M Kapp,Nida Dar,31456231456
+1,South Africa,9,T Brits,Aliya Riaz,L Wolvaardt,wides,1,1,0,,,,31456231456
+1,South Africa,9,T Brits,Aliya Riaz,L Wolvaardt,,0,1,1,,,,31456231456
+1,South Africa,9,L Wolvaardt,Aliya Riaz,T Brits,wides,1,1,0,,,,31456231456
+1,South Africa,9,L Wolvaardt,Aliya Riaz,T Brits,,0,1,1,,,,31456231456
+1,South Africa,9,T Brits,Aliya Riaz,L Wolvaardt,,0,1,1,,,,31456231456
+1,South Africa,9,L Wolvaardt,Aliya Riaz,T Brits,,0,0,0,,,,31456231456
+1,South Africa,10,T Brits,Nashra Sandhu,L Wolvaardt,,0,2,2,,,,31456231456
+1,South Africa,10,T Brits,Nashra Sandhu,L Wolvaardt,,0,1,1,,,,31456231456
+1,South Africa,10,L Wolvaardt,Nashra Sandhu,T Brits,,0,1,1,,,,31456231456
+1,South Africa,10,T Brits,Nashra Sandhu,L Wolvaardt,,0,0,0,,,,31456231456
+1,South Africa,10,T Brits,Nashra Sandhu,L Wolvaardt,,0,4,4,,,,31456231456
+1,South Africa,10,T Brits,Nashra Sandhu,L Wolvaardt,,0,0,0,,,,31456231456
+1,South Africa,11,L Wolvaardt,Aliya Riaz,T Brits,,0,4,4,,,,31456231456
+1,South Africa,11,L Wolvaardt,Aliya Riaz,T Brits,,0,2,2,,,,31456231456
+1,South Africa,11,L Wolvaardt,Aliya Riaz,T Brits,,0,1,1,,,,31456231456
+1,South Africa,11,T Brits,Aliya Riaz,L Wolvaardt,,0,0,0,,,,31456231456
+1,South Africa,11,T Brits,Aliya Riaz,L Wolvaardt,wides,1,1,0,,,,31456231456
+1,South Africa,11,T Brits,Aliya Riaz,L Wolvaardt,,0,4,4,,,,31456231456
+1,South Africa,11,T Brits,Aliya Riaz,L Wolvaardt,,0,4,4,,,,31456231456
+1,South Africa,12,L Wolvaardt,Nashra Sandhu,T Brits,,0,1,1,,,,31456231456
+1,South Africa,12,T Brits,Nashra Sandhu,L Wolvaardt,,0,1,1,,,,31456231456
+1,South Africa,12,L Wolvaardt,Nashra Sandhu,T Brits,,0,2,2,,,,31456231456
+1,South Africa,12,L Wolvaardt,Nashra Sandhu,T Brits,,0,1,1,,,,31456231456
+1,South Africa,12,T Brits,Nashra Sandhu,L Wolvaardt,,0,1,1,,,,31456231456
+1,South Africa,12,L Wolvaardt,Nashra Sandhu,T Brits,,0,0,0,caught,L Wolvaardt,Aliya Riaz,31456231456
+1,South Africa,13,T Brits,Aiman Anwer,M du Preez,,0,0,0,,,,31456231456
+1,South Africa,13,T Brits,Aiman Anwer,M du Preez,,0,0,0,,,,31456231456
+1,South Africa,13,T Brits,Aiman Anwer,M du Preez,,0,4,4,,,,31456231456
+1,South Africa,13,T Brits,Aiman Anwer,M du Preez,,0,1,1,,,,31456231456
+1,South Africa,13,M du Preez,Aiman Anwer,T Brits,,0,1,1,,,,31456231456
+1,South Africa,13,T Brits,Aiman Anwer,M du Preez,,0,1,1,,,,31456231456
+1,South Africa,14,T Brits,Nida Dar,M du Preez,,0,3,3,,,,31456231456
+1,South Africa,14,M du Preez,Nida Dar,T Brits,,0,0,0,,,,31456231456
+1,South Africa,14,M du Preez,Nida Dar,T Brits,,0,0,0,,,,31456231456
+1,South Africa,14,M du Preez,Nida Dar,T Brits,,0,0,0,,,,31456231456
+1,South Africa,14,M du Preez,Nida Dar,T Brits,,0,1,1,,,,31456231456
+1,South Africa,14,T Brits,Nida Dar,M du Preez,,0,0,0,,,,31456231456
+1,South Africa,15,M du Preez,Nashra Sandhu,T Brits,,0,2,2,,,,31456231456
+1,South Africa,15,M du Preez,Nashra Sandhu,T Brits,,0,4,4,,,,31456231456
+1,South Africa,15,M du Preez,Nashra Sandhu,T Brits,,0,0,0,,,,31456231456
+1,South Africa,15,M du Preez,Nashra Sandhu,T Brits,,0,1,1,,,,31456231456
+1,South Africa,15,T Brits,Nashra Sandhu,M du Preez,,0,1,1,,,,31456231456
+1,South Africa,15,M du Preez,Nashra Sandhu,T Brits,,0,1,1,,,,31456231456
+1,South Africa,16,M du Preez,Anam Amin,T Brits,,0,1,1,,,,31456231456
+1,South Africa,16,T Brits,Anam Amin,M du Preez,,0,6,6,,,,31456231456
+1,South Africa,16,T Brits,Anam Amin,M du Preez,,0,1,1,,,,31456231456
+1,South Africa,16,M du Preez,Anam Amin,T Brits,,0,4,4,,,,31456231456
+1,South Africa,16,M du Preez,Anam Amin,T Brits,,0,0,0,,,,31456231456
+1,South Africa,16,M du Preez,Anam Amin,T Brits,,0,0,0,caught,M du Preez,Muneeba Ali,31456231456
+1,South Africa,17,S Luus,Diana Baig,T Brits,,0,1,1,,,,31456231456
+1,South Africa,17,T Brits,Diana Baig,S Luus,,0,4,4,,,,31456231456
+1,South Africa,17,T Brits,Diana Baig,S Luus,,0,1,1,,,,31456231456
+1,South Africa,17,S Luus,Diana Baig,T Brits,,0,0,0,,,,31456231456
+1,South Africa,17,S Luus,Diana Baig,T Brits,,0,2,2,,,,31456231456
+1,South Africa,17,S Luus,Diana Baig,T Brits,,0,0,0,,,,31456231456
+1,South Africa,18,T Brits,Nida Dar,S Luus,,0,0,0,,,,31456231456
+1,South Africa,18,T Brits,Nida Dar,S Luus,,0,1,1,,,,31456231456
+1,South Africa,18,S Luus,Nida Dar,T Brits,,0,1,1,,,,31456231456
+1,South Africa,18,T Brits,Nida Dar,S Luus,,0,4,4,,,,31456231456
+1,South Africa,18,T Brits,Nida Dar,S Luus,,0,1,1,,,,31456231456
+1,South Africa,18,S Luus,Nida Dar,T Brits,,0,6,6,,,,31456231456
+1,South Africa,19,T Brits,Aiman Anwer,S Luus,,0,0,0,lbw,T Brits,,31456231456
+1,South Africa,19,S Jafta,Aiman Anwer,S Luus,,0,4,4,,,,31456231456
+1,South Africa,19,S Jafta,Aiman Anwer,S Luus,,0,1,1,,,,31456231456
+1,South Africa,19,S Luus,Aiman Anwer,S Jafta,,0,1,1,,,,31456231456
+1,South Africa,19,S Jafta,Aiman Anwer,S Luus,,0,0,0,,,,31456231456
+1,South Africa,19,S Jafta,Aiman Anwer,S Luus,,0,1,1,,,,31456231456

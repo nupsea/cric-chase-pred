@@ -1,0 +1,126 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,West Indies,0,SD Hope,Shaheen Shah Afridi,BA King,,0,0,0,,,,31857231857
+2,West Indies,0,SD Hope,Shaheen Shah Afridi,BA King,,0,0,0,,,,31857231857
+2,West Indies,0,SD Hope,Shaheen Shah Afridi,BA King,,0,1,1,,,,31857231857
+2,West Indies,0,BA King,Shaheen Shah Afridi,SD Hope,,0,4,4,,,,31857231857
+2,West Indies,0,BA King,Shaheen Shah Afridi,SD Hope,wides,1,1,0,,,,31857231857
+2,West Indies,0,BA King,Shaheen Shah Afridi,SD Hope,,0,1,1,,,,31857231857
+2,West Indies,0,SD Hope,Shaheen Shah Afridi,BA King,,0,0,0,,,,31857231857
+2,West Indies,1,BA King,Mohammad Nawaz,SD Hope,,0,0,0,,,,31857231857
+2,West Indies,1,BA King,Mohammad Nawaz,SD Hope,,0,0,0,,,,31857231857
+2,West Indies,1,BA King,Mohammad Nawaz,SD Hope,,0,6,6,,,,31857231857
+2,West Indies,1,BA King,Mohammad Nawaz,SD Hope,,0,2,2,,,,31857231857
+2,West Indies,1,BA King,Mohammad Nawaz,SD Hope,,0,1,1,,,,31857231857
+2,West Indies,1,SD Hope,Mohammad Nawaz,BA King,,0,0,0,,,,31857231857
+2,West Indies,2,BA King,Mohammad Wasim,SD Hope,,0,1,1,,,,31857231857
+2,West Indies,2,SD Hope,Mohammad Wasim,BA King,,0,0,0,caught,SD Hope,Iftikhar Ahmed,31857231857
+2,West Indies,2,BA King,Mohammad Wasim,SSJ Brooks,,0,1,1,,,,31857231857
+2,West Indies,2,SSJ Brooks,Mohammad Wasim,BA King,,0,4,4,,,,31857231857
+2,West Indies,2,SSJ Brooks,Mohammad Wasim,BA King,,0,0,0,,,,31857231857
+2,West Indies,2,SSJ Brooks,Mohammad Wasim,BA King,,0,6,6,,,,31857231857
+2,West Indies,3,BA King,Mohammad Nawaz,SSJ Brooks,,0,3,3,,,,31857231857
+2,West Indies,3,SSJ Brooks,Mohammad Nawaz,BA King,,0,0,0,lbw,SSJ Brooks,,31857231857
+2,West Indies,3,N Pooran,Mohammad Nawaz,BA King,,0,0,0,,,,31857231857
+2,West Indies,3,N Pooran,Mohammad Nawaz,BA King,,0,1,1,,,,31857231857
+2,West Indies,3,BA King,Mohammad Nawaz,N Pooran,wides,2,2,0,,,,31857231857
+2,West Indies,3,N Pooran,Mohammad Nawaz,BA King,,0,1,1,,,,31857231857
+2,West Indies,3,BA King,Mohammad Nawaz,N Pooran,,0,0,0,,,,31857231857
+2,West Indies,4,N Pooran,Shaheen Shah Afridi,BA King,,0,0,0,,,,31857231857
+2,West Indies,4,N Pooran,Shaheen Shah Afridi,BA King,wides,1,1,0,,,,31857231857
+2,West Indies,4,N Pooran,Shaheen Shah Afridi,BA King,,0,0,0,,,,31857231857
+2,West Indies,4,N Pooran,Shaheen Shah Afridi,BA King,,0,1,1,,,,31857231857
+2,West Indies,4,BA King,Shaheen Shah Afridi,N Pooran,,0,4,4,,,,31857231857
+2,West Indies,4,BA King,Shaheen Shah Afridi,N Pooran,,0,1,1,,,,31857231857
+2,West Indies,4,N Pooran,Shaheen Shah Afridi,BA King,,0,0,0,,,,31857231857
+2,West Indies,5,BA King,Haris Rauf,N Pooran,wides,1,1,0,,,,31857231857
+2,West Indies,5,BA King,Haris Rauf,N Pooran,,0,1,1,,,,31857231857
+2,West Indies,5,N Pooran,Haris Rauf,BA King,,0,0,0,,,,31857231857
+2,West Indies,5,N Pooran,Haris Rauf,BA King,,0,0,0,,,,31857231857
+2,West Indies,5,N Pooran,Haris Rauf,BA King,,0,1,1,,,,31857231857
+2,West Indies,5,BA King,Haris Rauf,N Pooran,,0,4,4,,,,31857231857
+2,West Indies,5,BA King,Haris Rauf,N Pooran,,0,1,1,,,,31857231857
+2,West Indies,6,BA King,Shadab Khan,N Pooran,,0,0,0,,,,31857231857
+2,West Indies,6,BA King,Shadab Khan,N Pooran,,0,1,1,,,,31857231857
+2,West Indies,6,N Pooran,Shadab Khan,BA King,,0,1,1,,,,31857231857
+2,West Indies,6,BA King,Shadab Khan,N Pooran,,0,4,4,,,,31857231857
+2,West Indies,6,BA King,Shadab Khan,N Pooran,,0,1,1,,,,31857231857
+2,West Indies,6,N Pooran,Shadab Khan,BA King,,0,1,1,,,,31857231857
+2,West Indies,7,N Pooran,Mohammad Wasim,BA King,,0,1,1,,,,31857231857
+2,West Indies,7,BA King,Mohammad Wasim,N Pooran,,0,0,0,,,,31857231857
+2,West Indies,7,BA King,Mohammad Wasim,N Pooran,,0,1,1,,,,31857231857
+2,West Indies,7,N Pooran,Mohammad Wasim,BA King,,0,2,2,,,,31857231857
+2,West Indies,7,N Pooran,Mohammad Wasim,BA King,,0,1,1,,,,31857231857
+2,West Indies,7,BA King,Mohammad Wasim,N Pooran,,0,1,1,,,,31857231857
+2,West Indies,8,BA King,Shadab Khan,N Pooran,,0,0,0,,,,31857231857
+2,West Indies,8,BA King,Shadab Khan,N Pooran,,0,1,1,,,,31857231857
+2,West Indies,8,N Pooran,Shadab Khan,BA King,,0,0,0,,,,31857231857
+2,West Indies,8,N Pooran,Shadab Khan,BA King,,0,1,1,,,,31857231857
+2,West Indies,8,BA King,Shadab Khan,N Pooran,,0,0,0,,,,31857231857
+2,West Indies,8,BA King,Shadab Khan,N Pooran,,0,1,1,,,,31857231857
+2,West Indies,9,BA King,Haris Rauf,N Pooran,,0,1,1,,,,31857231857
+2,West Indies,9,N Pooran,Haris Rauf,BA King,,0,1,1,,,,31857231857
+2,West Indies,9,BA King,Haris Rauf,N Pooran,,0,1,1,,,,31857231857
+2,West Indies,9,N Pooran,Haris Rauf,BA King,,0,0,0,,,,31857231857
+2,West Indies,9,N Pooran,Haris Rauf,BA King,,0,0,0,,,,31857231857
+2,West Indies,9,N Pooran,Haris Rauf,BA King,,0,1,1,,,,31857231857
+2,West Indies,10,N Pooran,Mohammad Nawaz,BA King,,0,4,4,,,,31857231857
+2,West Indies,10,N Pooran,Mohammad Nawaz,BA King,,0,2,2,,,,31857231857
+2,West Indies,10,N Pooran,Mohammad Nawaz,BA King,,0,1,1,,,,31857231857
+2,West Indies,10,BA King,Mohammad Nawaz,N Pooran,,0,1,1,,,,31857231857
+2,West Indies,10,N Pooran,Mohammad Nawaz,BA King,,0,6,6,,,,31857231857
+2,West Indies,10,N Pooran,Mohammad Nawaz,BA King,,0,0,0,caught,N Pooran,Haris Rauf,31857231857
+2,West Indies,11,R Powell,Shadab Khan,BA King,,0,0,0,,,,31857231857
+2,West Indies,11,R Powell,Shadab Khan,BA King,,0,1,1,,,,31857231857
+2,West Indies,11,BA King,Shadab Khan,R Powell,,0,1,1,,,,31857231857
+2,West Indies,11,R Powell,Shadab Khan,BA King,,0,1,1,,,,31857231857
+2,West Indies,11,BA King,Shadab Khan,R Powell,,0,1,1,,,,31857231857
+2,West Indies,11,R Powell,Shadab Khan,BA King,,0,0,0,,,,31857231857
+2,West Indies,12,BA King,Mohammad Nawaz,R Powell,,0,1,1,,,,31857231857
+2,West Indies,12,R Powell,Mohammad Nawaz,BA King,,0,0,0,,,,31857231857
+2,West Indies,12,R Powell,Mohammad Nawaz,BA King,,0,0,0,,,,31857231857
+2,West Indies,12,R Powell,Mohammad Nawaz,BA King,,0,1,1,,,,31857231857
+2,West Indies,12,BA King,Mohammad Nawaz,R Powell,,0,4,4,,,,31857231857
+2,West Indies,12,BA King,Mohammad Nawaz,R Powell,,0,0,0,,,,31857231857
+2,West Indies,13,R Powell,Shadab Khan,BA King,,0,0,0,,,,31857231857
+2,West Indies,13,R Powell,Shadab Khan,BA King,,0,0,0,,,,31857231857
+2,West Indies,13,R Powell,Shadab Khan,BA King,,0,1,1,,,,31857231857
+2,West Indies,13,BA King,Shadab Khan,R Powell,,0,0,0,,,,31857231857
+2,West Indies,13,BA King,Shadab Khan,R Powell,,0,6,6,,,,31857231857
+2,West Indies,13,BA King,Shadab Khan,R Powell,,0,0,0,,,,31857231857
+2,West Indies,14,R Powell,Mohammad Wasim,BA King,,0,0,0,caught,R Powell,Fakhar Zaman,31857231857
+2,West Indies,14,OF Smith,Mohammad Wasim,BA King,,0,1,1,,,,31857231857
+2,West Indies,14,BA King,Mohammad Wasim,OF Smith,,0,4,4,,,,31857231857
+2,West Indies,14,BA King,Mohammad Wasim,OF Smith,,0,0,0,,,,31857231857
+2,West Indies,14,BA King,Mohammad Wasim,OF Smith,,0,1,1,,,,31857231857
+2,West Indies,14,OF Smith,Mohammad Wasim,BA King,,0,4,4,,,,31857231857
+2,West Indies,15,BA King,Haris Rauf,OF Smith,,0,6,6,,,,31857231857
+2,West Indies,15,BA King,Haris Rauf,OF Smith,,0,0,0,caught,BA King,Mohammad Nawaz,31857231857
+2,West Indies,15,OF Smith,Haris Rauf,R Shepherd,,0,0,0,,,,31857231857
+2,West Indies,15,OF Smith,Haris Rauf,R Shepherd,,0,6,6,,,,31857231857
+2,West Indies,15,OF Smith,Haris Rauf,R Shepherd,,0,1,1,,,,31857231857
+2,West Indies,15,R Shepherd,Haris Rauf,OF Smith,,0,2,2,,,,31857231857
+2,West Indies,16,OF Smith,Shaheen Shah Afridi,R Shepherd,,0,0,0,caught,OF Smith,Asif Ali,31857231857
+2,West Indies,16,R Shepherd,Shaheen Shah Afridi,DC Drakes,,0,2,2,,,,31857231857
+2,West Indies,16,R Shepherd,Shaheen Shah Afridi,DC Drakes,wides,1,1,0,,,,31857231857
+2,West Indies,16,R Shepherd,Shaheen Shah Afridi,DC Drakes,,0,0,0,,,,31857231857
+2,West Indies,16,R Shepherd,Shaheen Shah Afridi,DC Drakes,,0,1,1,,,,31857231857
+2,West Indies,16,DC Drakes,Shaheen Shah Afridi,R Shepherd,,0,0,0,caught,DC Drakes,Mohammad Rizwan,31857231857
+2,West Indies,16,HR Walsh,Shaheen Shah Afridi,R Shepherd,,0,0,0,bowled,HR Walsh,,31857231857
+2,West Indies,17,R Shepherd,Mohammad Wasim,AJ Hosein,,0,1,1,,,,31857231857
+2,West Indies,17,AJ Hosein,Mohammad Wasim,R Shepherd,,0,1,1,,,,31857231857
+2,West Indies,17,R Shepherd,Mohammad Wasim,AJ Hosein,,0,6,6,,,,31857231857
+2,West Indies,17,R Shepherd,Mohammad Wasim,AJ Hosein,,0,1,1,,,,31857231857
+2,West Indies,17,AJ Hosein,Mohammad Wasim,R Shepherd,,0,1,1,,,,31857231857
+2,West Indies,17,R Shepherd,Mohammad Wasim,AJ Hosein,,0,1,1,,,,31857231857
+2,West Indies,18,R Shepherd,Shaheen Shah Afridi,AJ Hosein,,0,4,4,,,,31857231857
+2,West Indies,18,R Shepherd,Shaheen Shah Afridi,AJ Hosein,,0,0,0,,,,31857231857
+2,West Indies,18,R Shepherd,Shaheen Shah Afridi,AJ Hosein,,0,2,2,,,,31857231857
+2,West Indies,18,R Shepherd,Shaheen Shah Afridi,AJ Hosein,,0,1,1,run out,AJ Hosein,Shaheen Shah Afridi,31857231857
+2,West Indies,18,R Shepherd,Shaheen Shah Afridi,O Thomas,,0,0,0,,,,31857231857
+2,West Indies,18,R Shepherd,Shaheen Shah Afridi,O Thomas,,0,1,1,,,,31857231857
+2,West Indies,19,R Shepherd,Haris Rauf,O Thomas,,0,2,2,,,,31857231857
+2,West Indies,19,R Shepherd,Haris Rauf,O Thomas,,0,6,6,,,,31857231857
+2,West Indies,19,R Shepherd,Haris Rauf,O Thomas,,0,0,0,,,,31857231857
+2,West Indies,19,R Shepherd,Haris Rauf,O Thomas,,0,4,4,,,,31857231857
+2,West Indies,19,R Shepherd,Haris Rauf,O Thomas,,0,1,1,,,,31857231857
+2,West Indies,19,O Thomas,Haris Rauf,R Shepherd,,0,0,0,bowled,O Thomas,,31857231857

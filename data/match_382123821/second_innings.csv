@@ -1,0 +1,122 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Sri Lanka,0,N Dickwella,JL Denly,BKG Mendis,,0,1,1,,,,382123821
+2,Sri Lanka,0,BKG Mendis,JL Denly,N Dickwella,,0,1,1,,,,382123821
+2,Sri Lanka,0,N Dickwella,JL Denly,BKG Mendis,byes,4,4,0,,,,382123821
+2,Sri Lanka,0,N Dickwella,JL Denly,BKG Mendis,,0,1,1,,,,382123821
+2,Sri Lanka,0,BKG Mendis,JL Denly,N Dickwella,,0,0,0,,,,382123821
+2,Sri Lanka,0,BKG Mendis,JL Denly,N Dickwella,,0,0,0,bowled,BKG Mendis,,382123821
+2,Sri Lanka,1,N Dickwella,TK Curran,LD Chandimal,,0,0,0,,,,382123821
+2,Sri Lanka,1,N Dickwella,TK Curran,LD Chandimal,,0,1,1,,,,382123821
+2,Sri Lanka,1,LD Chandimal,TK Curran,N Dickwella,,0,4,4,,,,382123821
+2,Sri Lanka,1,LD Chandimal,TK Curran,N Dickwella,,0,0,0,,,,382123821
+2,Sri Lanka,1,LD Chandimal,TK Curran,N Dickwella,,0,0,0,,,,382123821
+2,Sri Lanka,1,LD Chandimal,TK Curran,N Dickwella,,0,1,1,,,,382123821
+2,Sri Lanka,2,LD Chandimal,JL Denly,N Dickwella,,0,1,1,,,,382123821
+2,Sri Lanka,2,N Dickwella,JL Denly,LD Chandimal,byes,1,1,0,,,,382123821
+2,Sri Lanka,2,LD Chandimal,JL Denly,N Dickwella,,0,0,0,,,,382123821
+2,Sri Lanka,2,LD Chandimal,JL Denly,N Dickwella,,0,1,1,,,,382123821
+2,Sri Lanka,2,N Dickwella,JL Denly,LD Chandimal,,0,0,0,bowled,N Dickwella,,382123821
+2,Sri Lanka,2,DM de Silva,JL Denly,LD Chandimal,,0,0,0,,,,382123821
+2,Sri Lanka,3,LD Chandimal,TK Curran,DM de Silva,legbyes,1,1,0,,,,382123821
+2,Sri Lanka,3,DM de Silva,TK Curran,LD Chandimal,,0,1,1,,,,382123821
+2,Sri Lanka,3,LD Chandimal,TK Curran,DM de Silva,,0,4,4,,,,382123821
+2,Sri Lanka,3,LD Chandimal,TK Curran,DM de Silva,,0,0,0,,,,382123821
+2,Sri Lanka,3,LD Chandimal,TK Curran,DM de Silva,,0,4,4,,,,382123821
+2,Sri Lanka,3,LD Chandimal,TK Curran,DM de Silva,,0,4,4,,,,382123821
+2,Sri Lanka,4,DM de Silva,JL Denly,LD Chandimal,,0,1,1,,,,382123821
+2,Sri Lanka,4,LD Chandimal,JL Denly,DM de Silva,,0,4,4,,,,382123821
+2,Sri Lanka,4,LD Chandimal,JL Denly,DM de Silva,,0,1,1,,,,382123821
+2,Sri Lanka,4,DM de Silva,JL Denly,LD Chandimal,,0,1,1,,,,382123821
+2,Sri Lanka,4,LD Chandimal,JL Denly,DM de Silva,,0,0,0,,,,382123821
+2,Sri Lanka,4,LD Chandimal,JL Denly,DM de Silva,,0,0,0,,,,382123821
+2,Sri Lanka,5,DM de Silva,CJ Jordan,LD Chandimal,,0,0,0,,,,382123821
+2,Sri Lanka,5,DM de Silva,CJ Jordan,LD Chandimal,,0,0,0,,,,382123821
+2,Sri Lanka,5,DM de Silva,CJ Jordan,LD Chandimal,,0,4,4,,,,382123821
+2,Sri Lanka,5,DM de Silva,CJ Jordan,LD Chandimal,,0,4,4,,,,382123821
+2,Sri Lanka,5,DM de Silva,CJ Jordan,LD Chandimal,,0,1,1,,,,382123821
+2,Sri Lanka,5,LD Chandimal,CJ Jordan,DM de Silva,,0,1,1,,,,382123821
+2,Sri Lanka,6,LD Chandimal,AU Rashid,DM de Silva,,0,1,1,,,,382123821
+2,Sri Lanka,6,DM de Silva,AU Rashid,LD Chandimal,,0,0,0,,,,382123821
+2,Sri Lanka,6,DM de Silva,AU Rashid,LD Chandimal,,0,1,1,,,,382123821
+2,Sri Lanka,6,LD Chandimal,AU Rashid,DM de Silva,,0,0,0,,,,382123821
+2,Sri Lanka,6,LD Chandimal,AU Rashid,DM de Silva,,0,0,0,caught,LD Chandimal,AD Hales,382123821
+2,Sri Lanka,6,PHKD Mendis,AU Rashid,DM de Silva,,0,1,1,,,,382123821
+2,Sri Lanka,7,PHKD Mendis,LE Plunkett,DM de Silva,,0,0,0,,,,382123821
+2,Sri Lanka,7,PHKD Mendis,LE Plunkett,DM de Silva,,0,0,0,,,,382123821
+2,Sri Lanka,7,PHKD Mendis,LE Plunkett,DM de Silva,,0,4,4,,,,382123821
+2,Sri Lanka,7,PHKD Mendis,LE Plunkett,DM de Silva,,0,0,0,,,,382123821
+2,Sri Lanka,7,PHKD Mendis,LE Plunkett,DM de Silva,,0,4,4,,,,382123821
+2,Sri Lanka,7,PHKD Mendis,LE Plunkett,DM de Silva,,0,1,1,,,,382123821
+2,Sri Lanka,8,PHKD Mendis,AU Rashid,DM de Silva,,0,1,1,,,,382123821
+2,Sri Lanka,8,DM de Silva,AU Rashid,PHKD Mendis,,0,0,0,,,,382123821
+2,Sri Lanka,8,DM de Silva,AU Rashid,PHKD Mendis,,0,2,2,,,,382123821
+2,Sri Lanka,8,DM de Silva,AU Rashid,PHKD Mendis,,0,0,0,,,,382123821
+2,Sri Lanka,8,DM de Silva,AU Rashid,PHKD Mendis,,0,1,1,,,,382123821
+2,Sri Lanka,8,PHKD Mendis,AU Rashid,DM de Silva,,0,1,1,,,,382123821
+2,Sri Lanka,9,PHKD Mendis,MM Ali,DM de Silva,,0,6,6,,,,382123821
+2,Sri Lanka,9,PHKD Mendis,MM Ali,DM de Silva,,0,1,1,,,,382123821
+2,Sri Lanka,9,DM de Silva,MM Ali,PHKD Mendis,,0,0,0,,,,382123821
+2,Sri Lanka,9,DM de Silva,MM Ali,PHKD Mendis,,0,1,1,,,,382123821
+2,Sri Lanka,9,PHKD Mendis,MM Ali,DM de Silva,,0,4,4,,,,382123821
+2,Sri Lanka,9,PHKD Mendis,MM Ali,DM de Silva,,0,1,1,,,,382123821
+2,Sri Lanka,10,PHKD Mendis,AU Rashid,DM de Silva,,0,0,0,caught,PHKD Mendis,AD Hales,382123821
+2,Sri Lanka,10,DM de Silva,AU Rashid,NLTC Perera,,0,0,0,,,,382123821
+2,Sri Lanka,10,DM de Silva,AU Rashid,NLTC Perera,,0,0,0,lbw,DM de Silva,,382123821
+2,Sri Lanka,10,MD Shanaka,AU Rashid,NLTC Perera,,0,0,0,,,,382123821
+2,Sri Lanka,10,MD Shanaka,AU Rashid,NLTC Perera,,0,1,1,,,,382123821
+2,Sri Lanka,10,NLTC Perera,AU Rashid,MD Shanaka,,0,1,1,,,,382123821
+2,Sri Lanka,11,NLTC Perera,MM Ali,MD Shanaka,,0,1,1,,,,382123821
+2,Sri Lanka,11,MD Shanaka,MM Ali,NLTC Perera,,0,1,1,,,,382123821
+2,Sri Lanka,11,NLTC Perera,MM Ali,MD Shanaka,,0,1,1,,,,382123821
+2,Sri Lanka,11,MD Shanaka,MM Ali,NLTC Perera,,0,1,1,,,,382123821
+2,Sri Lanka,11,NLTC Perera,MM Ali,MD Shanaka,,0,1,1,,,,382123821
+2,Sri Lanka,11,MD Shanaka,MM Ali,NLTC Perera,,0,6,6,,,,382123821
+2,Sri Lanka,12,NLTC Perera,AU Rashid,MD Shanaka,,0,1,1,,,,382123821
+2,Sri Lanka,12,MD Shanaka,AU Rashid,NLTC Perera,,0,0,0,,,,382123821
+2,Sri Lanka,12,MD Shanaka,AU Rashid,NLTC Perera,,0,0,0,,,,382123821
+2,Sri Lanka,12,MD Shanaka,AU Rashid,NLTC Perera,,0,0,0,,,,382123821
+2,Sri Lanka,12,MD Shanaka,AU Rashid,NLTC Perera,legbyes,1,1,0,,,,382123821
+2,Sri Lanka,12,NLTC Perera,AU Rashid,MD Shanaka,,0,0,0,,,,382123821
+2,Sri Lanka,13,MD Shanaka,CJ Jordan,NLTC Perera,,0,0,0,,,,382123821
+2,Sri Lanka,13,MD Shanaka,CJ Jordan,NLTC Perera,,0,0,0,,,,382123821
+2,Sri Lanka,13,MD Shanaka,CJ Jordan,NLTC Perera,,0,1,1,,,,382123821
+2,Sri Lanka,13,NLTC Perera,CJ Jordan,MD Shanaka,,0,0,0,,,,382123821
+2,Sri Lanka,13,NLTC Perera,CJ Jordan,MD Shanaka,legbyes,2,2,0,,,,382123821
+2,Sri Lanka,13,NLTC Perera,CJ Jordan,MD Shanaka,,0,1,1,,,,382123821
+2,Sri Lanka,14,NLTC Perera,LE Plunkett,MD Shanaka,,0,0,0,,,,382123821
+2,Sri Lanka,14,NLTC Perera,LE Plunkett,MD Shanaka,wides,1,1,0,,,,382123821
+2,Sri Lanka,14,NLTC Perera,LE Plunkett,MD Shanaka,,0,6,6,,,,382123821
+2,Sri Lanka,14,NLTC Perera,LE Plunkett,MD Shanaka,,0,6,6,,,,382123821
+2,Sri Lanka,14,NLTC Perera,LE Plunkett,MD Shanaka,,0,1,1,,,,382123821
+2,Sri Lanka,14,MD Shanaka,LE Plunkett,NLTC Perera,,0,0,0,bowled,MD Shanaka,,382123821
+2,Sri Lanka,14,I Udana,LE Plunkett,NLTC Perera,,0,1,1,,,,382123821
+2,Sri Lanka,15,I Udana,CJ Jordan,NLTC Perera,,0,1,1,,,,382123821
+2,Sri Lanka,15,NLTC Perera,CJ Jordan,I Udana,,0,6,6,,,,382123821
+2,Sri Lanka,15,NLTC Perera,CJ Jordan,I Udana,,0,1,1,,,,382123821
+2,Sri Lanka,15,I Udana,CJ Jordan,NLTC Perera,,0,0,0,caught,I Udana,BA Stokes,382123821
+2,Sri Lanka,15,MA Aponso,CJ Jordan,NLTC Perera,,0,0,0,,,,382123821
+2,Sri Lanka,15,MA Aponso,CJ Jordan,NLTC Perera,,0,0,0,bowled,MA Aponso,,382123821
+2,Sri Lanka,16,NLTC Perera,TK Curran,SL Malinga,,0,1,1,,,,382123821
+2,Sri Lanka,16,SL Malinga,TK Curran,NLTC Perera,,0,1,1,,,,382123821
+2,Sri Lanka,16,NLTC Perera,TK Curran,SL Malinga,,0,1,1,,,,382123821
+2,Sri Lanka,16,SL Malinga,TK Curran,NLTC Perera,,0,1,1,,,,382123821
+2,Sri Lanka,16,NLTC Perera,TK Curran,SL Malinga,,0,1,1,,,,382123821
+2,Sri Lanka,16,SL Malinga,TK Curran,NLTC Perera,,0,1,1,,,,382123821
+2,Sri Lanka,17,SL Malinga,CJ Jordan,NLTC Perera,,0,1,1,,,,382123821
+2,Sri Lanka,17,NLTC Perera,CJ Jordan,SL Malinga,,0,2,2,,,,382123821
+2,Sri Lanka,17,NLTC Perera,CJ Jordan,SL Malinga,,0,0,0,,,,382123821
+2,Sri Lanka,17,NLTC Perera,CJ Jordan,SL Malinga,,0,2,2,,,,382123821
+2,Sri Lanka,17,NLTC Perera,CJ Jordan,SL Malinga,,0,0,0,,,,382123821
+2,Sri Lanka,17,NLTC Perera,CJ Jordan,SL Malinga,,0,4,4,,,,382123821
+2,Sri Lanka,18,SL Malinga,TK Curran,NLTC Perera,,0,1,1,,,,382123821
+2,Sri Lanka,18,NLTC Perera,TK Curran,SL Malinga,,0,0,0,,,,382123821
+2,Sri Lanka,18,NLTC Perera,TK Curran,SL Malinga,,0,2,2,,,,382123821
+2,Sri Lanka,18,NLTC Perera,TK Curran,SL Malinga,,0,6,6,,,,382123821
+2,Sri Lanka,18,NLTC Perera,TK Curran,SL Malinga,,0,0,0,,,,382123821
+2,Sri Lanka,18,NLTC Perera,TK Curran,SL Malinga,,0,6,6,,,,382123821
+2,Sri Lanka,19,SL Malinga,JL Denly,NLTC Perera,legbyes,1,1,0,,,,382123821
+2,Sri Lanka,19,NLTC Perera,JL Denly,SL Malinga,,0,0,0,,,,382123821
+2,Sri Lanka,19,NLTC Perera,JL Denly,SL Malinga,,0,6,6,,,,382123821
+2,Sri Lanka,19,NLTC Perera,JL Denly,SL Malinga,,0,0,0,caught,NLTC Perera,JJ Roy,382123821
+2,Sri Lanka,19,PADLR Sandakan,JL Denly,SL Malinga,,0,1,1,,,,382123821
+2,Sri Lanka,19,SL Malinga,JL Denly,PADLR Sandakan,,0,0,0,bowled,SL Malinga,,382123821

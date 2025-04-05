@@ -1,0 +1,116 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Netherlands,0,SJ Myburgh,JA Morkel,MR Swart,,0,1,1,,,,341323413
+2,Netherlands,0,MR Swart,JA Morkel,SJ Myburgh,,0,0,0,,,,341323413
+2,Netherlands,0,MR Swart,JA Morkel,SJ Myburgh,,0,0,0,,,,341323413
+2,Netherlands,0,MR Swart,JA Morkel,SJ Myburgh,,0,1,1,,,,341323413
+2,Netherlands,0,SJ Myburgh,JA Morkel,MR Swart,,0,0,0,,,,341323413
+2,Netherlands,0,SJ Myburgh,JA Morkel,MR Swart,,0,4,4,,,,341323413
+2,Netherlands,1,MR Swart,BE Hendricks,SJ Myburgh,,0,4,4,,,,341323413
+2,Netherlands,1,MR Swart,BE Hendricks,SJ Myburgh,,0,0,0,,,,341323413
+2,Netherlands,1,MR Swart,BE Hendricks,SJ Myburgh,,0,1,1,,,,341323413
+2,Netherlands,1,SJ Myburgh,BE Hendricks,MR Swart,,0,0,0,,,,341323413
+2,Netherlands,1,SJ Myburgh,BE Hendricks,MR Swart,,0,0,0,,,,341323413
+2,Netherlands,1,SJ Myburgh,BE Hendricks,MR Swart,,0,1,1,,,,341323413
+2,Netherlands,2,SJ Myburgh,LL Tsotsobe,MR Swart,,0,4,4,,,,341323413
+2,Netherlands,2,SJ Myburgh,LL Tsotsobe,MR Swart,,0,4,4,,,,341323413
+2,Netherlands,2,SJ Myburgh,LL Tsotsobe,MR Swart,,0,0,0,,,,341323413
+2,Netherlands,2,SJ Myburgh,LL Tsotsobe,MR Swart,,0,6,6,,,,341323413
+2,Netherlands,2,SJ Myburgh,LL Tsotsobe,MR Swart,,0,0,0,,,,341323413
+2,Netherlands,2,SJ Myburgh,LL Tsotsobe,MR Swart,,0,4,4,,,,341323413
+2,Netherlands,3,MR Swart,DW Steyn,SJ Myburgh,,0,1,1,,,,341323413
+2,Netherlands,3,SJ Myburgh,DW Steyn,MR Swart,,0,0,0,,,,341323413
+2,Netherlands,3,SJ Myburgh,DW Steyn,MR Swart,,0,1,1,,,,341323413
+2,Netherlands,3,MR Swart,DW Steyn,SJ Myburgh,byes,4,4,0,,,,341323413
+2,Netherlands,3,MR Swart,DW Steyn,SJ Myburgh,,0,0,0,,,,341323413
+2,Netherlands,3,MR Swart,DW Steyn,SJ Myburgh,,0,0,0,,,,341323413
+2,Netherlands,4,SJ Myburgh,LL Tsotsobe,MR Swart,,0,0,0,,,,341323413
+2,Netherlands,4,SJ Myburgh,LL Tsotsobe,MR Swart,,0,4,4,,,,341323413
+2,Netherlands,4,SJ Myburgh,LL Tsotsobe,MR Swart,,0,4,4,,,,341323413
+2,Netherlands,4,SJ Myburgh,LL Tsotsobe,MR Swart,,0,0,0,,,,341323413
+2,Netherlands,4,SJ Myburgh,LL Tsotsobe,MR Swart,,0,6,6,,,,341323413
+2,Netherlands,4,SJ Myburgh,LL Tsotsobe,MR Swart,,0,1,1,,,,341323413
+2,Netherlands,5,SJ Myburgh,DW Steyn,MR Swart,legbyes,1,1,0,,,,341323413
+2,Netherlands,5,MR Swart,DW Steyn,SJ Myburgh,,0,1,1,,,,341323413
+2,Netherlands,5,SJ Myburgh,DW Steyn,MR Swart,,0,4,4,,,,341323413
+2,Netherlands,5,SJ Myburgh,DW Steyn,MR Swart,,0,1,1,,,,341323413
+2,Netherlands,5,MR Swart,DW Steyn,SJ Myburgh,,0,0,0,caught,MR Swart,F du Plessis,341323413
+2,Netherlands,5,SJ Myburgh,DW Steyn,W Barresi,wides,1,1,0,,,,341323413
+2,Netherlands,5,SJ Myburgh,DW Steyn,W Barresi,,0,4,4,,,,341323413
+2,Netherlands,6,W Barresi,Imran Tahir,SJ Myburgh,,0,1,1,,,,341323413
+2,Netherlands,6,SJ Myburgh,Imran Tahir,W Barresi,,0,1,1,,,,341323413
+2,Netherlands,6,W Barresi,Imran Tahir,SJ Myburgh,,0,1,1,,,,341323413
+2,Netherlands,6,SJ Myburgh,Imran Tahir,W Barresi,,0,1,1,,,,341323413
+2,Netherlands,6,W Barresi,Imran Tahir,SJ Myburgh,,0,0,0,,,,341323413
+2,Netherlands,6,W Barresi,Imran Tahir,SJ Myburgh,,0,1,1,,,,341323413
+2,Netherlands,7,W Barresi,JP Duminy,SJ Myburgh,,0,4,4,,,,341323413
+2,Netherlands,7,W Barresi,JP Duminy,SJ Myburgh,wides,1,1,0,,,,341323413
+2,Netherlands,7,W Barresi,JP Duminy,SJ Myburgh,,0,6,6,,,,341323413
+2,Netherlands,7,W Barresi,JP Duminy,SJ Myburgh,,0,1,1,,,,341323413
+2,Netherlands,7,SJ Myburgh,JP Duminy,W Barresi,,0,0,0,,,,341323413
+2,Netherlands,7,SJ Myburgh,JP Duminy,W Barresi,,0,0,0,bowled,SJ Myburgh,,341323413
+2,Netherlands,7,PW Borren,JP Duminy,W Barresi,,0,0,0,,,,341323413
+2,Netherlands,8,W Barresi,Imran Tahir,PW Borren,legbyes,1,1,0,,,,341323413
+2,Netherlands,8,PW Borren,Imran Tahir,W Barresi,,0,1,1,,,,341323413
+2,Netherlands,8,W Barresi,Imran Tahir,PW Borren,,0,0,0,lbw,W Barresi,,341323413
+2,Netherlands,8,TLW Cooper,Imran Tahir,PW Borren,,0,1,1,,,,341323413
+2,Netherlands,8,PW Borren,Imran Tahir,TLW Cooper,,0,1,1,,,,341323413
+2,Netherlands,8,TLW Cooper,Imran Tahir,PW Borren,,0,0,0,,,,341323413
+2,Netherlands,9,PW Borren,BE Hendricks,TLW Cooper,,0,0,0,,,,341323413
+2,Netherlands,9,PW Borren,BE Hendricks,TLW Cooper,,0,0,0,,,,341323413
+2,Netherlands,9,PW Borren,BE Hendricks,TLW Cooper,,0,1,1,,,,341323413
+2,Netherlands,9,TLW Cooper,BE Hendricks,PW Borren,,0,1,1,,,,341323413
+2,Netherlands,9,PW Borren,BE Hendricks,TLW Cooper,,0,0,0,,,,341323413
+2,Netherlands,9,PW Borren,BE Hendricks,TLW Cooper,,0,4,4,,,,341323413
+2,Netherlands,10,TLW Cooper,Imran Tahir,PW Borren,,0,1,1,,,,341323413
+2,Netherlands,10,PW Borren,Imran Tahir,TLW Cooper,,0,6,6,,,,341323413
+2,Netherlands,10,PW Borren,Imran Tahir,TLW Cooper,,0,0,0,lbw,PW Borren,,341323413
+2,Netherlands,10,BN Cooper,Imran Tahir,TLW Cooper,,0,2,2,,,,341323413
+2,Netherlands,10,BN Cooper,Imran Tahir,TLW Cooper,,0,1,1,,,,341323413
+2,Netherlands,10,TLW Cooper,Imran Tahir,BN Cooper,,0,1,1,,,,341323413
+2,Netherlands,11,TLW Cooper,JA Morkel,BN Cooper,,0,1,1,,,,341323413
+2,Netherlands,11,BN Cooper,JA Morkel,TLW Cooper,,0,1,1,,,,341323413
+2,Netherlands,11,TLW Cooper,JA Morkel,BN Cooper,,0,4,4,,,,341323413
+2,Netherlands,11,TLW Cooper,JA Morkel,BN Cooper,wides,1,1,0,,,,341323413
+2,Netherlands,11,TLW Cooper,JA Morkel,BN Cooper,,0,2,2,,,,341323413
+2,Netherlands,11,TLW Cooper,JA Morkel,BN Cooper,,0,4,4,,,,341323413
+2,Netherlands,11,TLW Cooper,JA Morkel,BN Cooper,,0,0,0,,,,341323413
+2,Netherlands,12,BN Cooper,DW Steyn,TLW Cooper,,0,1,1,,,,341323413
+2,Netherlands,12,TLW Cooper,DW Steyn,BN Cooper,,0,0,0,,,,341323413
+2,Netherlands,12,TLW Cooper,DW Steyn,BN Cooper,,0,1,1,,,,341323413
+2,Netherlands,12,BN Cooper,DW Steyn,TLW Cooper,,0,0,0,,,,341323413
+2,Netherlands,12,BN Cooper,DW Steyn,TLW Cooper,,0,0,0,caught,BN Cooper,Q de Kock,341323413
+2,Netherlands,12,Mudassar Bukhari,DW Steyn,TLW Cooper,,0,0,0,,,,341323413
+2,Netherlands,13,TLW Cooper,Imran Tahir,Mudassar Bukhari,,0,0,0,bowled,TLW Cooper,,341323413
+2,Netherlands,13,PM Seelaar,Imran Tahir,Mudassar Bukhari,,0,2,2,,,,341323413
+2,Netherlands,13,PM Seelaar,Imran Tahir,Mudassar Bukhari,,0,0,0,,,,341323413
+2,Netherlands,13,PM Seelaar,Imran Tahir,Mudassar Bukhari,,0,0,0,,,,341323413
+2,Netherlands,13,PM Seelaar,Imran Tahir,Mudassar Bukhari,,0,0,0,caught,PM Seelaar,JP Duminy,341323413
+2,Netherlands,13,Mudassar Bukhari,Imran Tahir,LV van Beek,,0,0,0,,,,341323413
+2,Netherlands,14,LV van Beek,BE Hendricks,Mudassar Bukhari,,0,0,0,,,,341323413
+2,Netherlands,14,LV van Beek,BE Hendricks,Mudassar Bukhari,,0,0,0,,,,341323413
+2,Netherlands,14,LV van Beek,BE Hendricks,Mudassar Bukhari,,0,1,1,,,,341323413
+2,Netherlands,14,Mudassar Bukhari,BE Hendricks,LV van Beek,,0,1,1,,,,341323413
+2,Netherlands,14,LV van Beek,BE Hendricks,Mudassar Bukhari,,0,0,0,,,,341323413
+2,Netherlands,14,LV van Beek,BE Hendricks,Mudassar Bukhari,,0,0,0,,,,341323413
+2,Netherlands,15,Mudassar Bukhari,LL Tsotsobe,LV van Beek,,0,4,4,,,,341323413
+2,Netherlands,15,Mudassar Bukhari,LL Tsotsobe,LV van Beek,,0,1,1,run out,LV van Beek,Q de Kock,341323413
+2,Netherlands,15,T van der Gugten,LL Tsotsobe,Mudassar Bukhari,,0,0,0,,,,341323413
+2,Netherlands,15,T van der Gugten,LL Tsotsobe,Mudassar Bukhari,,0,1,1,,,,341323413
+2,Netherlands,15,Mudassar Bukhari,LL Tsotsobe,T van der Gugten,,0,1,1,,,,341323413
+2,Netherlands,15,T van der Gugten,LL Tsotsobe,Mudassar Bukhari,,0,1,1,,,,341323413
+2,Netherlands,16,T van der Gugten,DW Steyn,Mudassar Bukhari,,0,1,1,,,,341323413
+2,Netherlands,16,Mudassar Bukhari,DW Steyn,T van der Gugten,,0,0,0,,,,341323413
+2,Netherlands,16,Mudassar Bukhari,DW Steyn,T van der Gugten,,0,0,0,,,,341323413
+2,Netherlands,16,Mudassar Bukhari,DW Steyn,T van der Gugten,,0,3,3,,,,341323413
+2,Netherlands,16,T van der Gugten,DW Steyn,Mudassar Bukhari,,0,0,0,,,,341323413
+2,Netherlands,16,T van der Gugten,DW Steyn,Mudassar Bukhari,,0,0,0,,,,341323413
+2,Netherlands,17,Mudassar Bukhari,LL Tsotsobe,T van der Gugten,,0,0,0,,,,341323413
+2,Netherlands,17,Mudassar Bukhari,LL Tsotsobe,T van der Gugten,,0,1,1,,,,341323413
+2,Netherlands,17,T van der Gugten,LL Tsotsobe,Mudassar Bukhari,,0,1,1,,,,341323413
+2,Netherlands,17,Mudassar Bukhari,LL Tsotsobe,T van der Gugten,,0,0,0,caught,Mudassar Bukhari,DA Miller,341323413
+2,Netherlands,17,T van der Gugten,LL Tsotsobe,Ahsan Malik,,0,2,2,,,,341323413
+2,Netherlands,17,T van der Gugten,LL Tsotsobe,Ahsan Malik,,0,1,1,,,,341323413
+2,Netherlands,18,T van der Gugten,BE Hendricks,Ahsan Malik,,0,1,1,,,,341323413
+2,Netherlands,18,Ahsan Malik,BE Hendricks,T van der Gugten,,0,1,1,,,,341323413
+2,Netherlands,18,T van der Gugten,BE Hendricks,Ahsan Malik,,0,0,0,,,,341323413
+2,Netherlands,18,T van der Gugten,BE Hendricks,Ahsan Malik,,0,0,0,caught,T van der Gugten,Q de Kock,341323413

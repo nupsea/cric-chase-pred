@@ -1,0 +1,96 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Slovenia,0,Ramanjot Singh,W Peatfield,S Koppolu,wides,1,1,0,,,,32159232159
+1,Slovenia,0,Ramanjot Singh,W Peatfield,S Koppolu,,0,0,0,,,,32159232159
+1,Slovenia,0,Ramanjot Singh,W Peatfield,S Koppolu,,0,4,4,,,,32159232159
+1,Slovenia,0,Ramanjot Singh,W Peatfield,S Koppolu,,0,1,1,,,,32159232159
+1,Slovenia,0,S Koppolu,W Peatfield,Ramanjot Singh,,0,0,0,,,,32159232159
+1,Slovenia,0,S Koppolu,W Peatfield,Ramanjot Singh,,0,0,0,,,,32159232159
+1,Slovenia,0,S Koppolu,W Peatfield,Ramanjot Singh,,0,0,0,bowled,S Koppolu,,32159232159
+1,Slovenia,1,Ramanjot Singh,DR Hooper,Ayyaz Qureshi,,0,1,1,,,,32159232159
+1,Slovenia,1,Ayyaz Qureshi,DR Hooper,Ramanjot Singh,noballs,1,1,0,,,,32159232159
+1,Slovenia,1,Ayyaz Qureshi,DR Hooper,Ramanjot Singh,,0,0,0,,,,32159232159
+1,Slovenia,1,Ayyaz Qureshi,DR Hooper,Ramanjot Singh,,0,4,4,,,,32159232159
+1,Slovenia,1,Ayyaz Qureshi,DR Hooper,Ramanjot Singh,wides,1,1,0,,,,32159232159
+1,Slovenia,1,Ayyaz Qureshi,DR Hooper,Ramanjot Singh,,0,0,0,,,,32159232159
+1,Slovenia,1,Ayyaz Qureshi,DR Hooper,Ramanjot Singh,,0,1,1,,,,32159232159
+1,Slovenia,1,Ramanjot Singh,DR Hooper,Ayyaz Qureshi,,0,0,0,,,,32159232159
+1,Slovenia,2,Ayyaz Qureshi,MWR Stokes,Ramanjot Singh,,0,0,0,,,,32159232159
+1,Slovenia,2,Ayyaz Qureshi,MWR Stokes,Ramanjot Singh,,0,1,1,,,,32159232159
+1,Slovenia,2,Ramanjot Singh,MWR Stokes,Ayyaz Qureshi,,0,1,1,,,,32159232159
+1,Slovenia,2,Ayyaz Qureshi,MWR Stokes,Ramanjot Singh,,0,0,0,,,,32159232159
+1,Slovenia,2,Ayyaz Qureshi,MWR Stokes,Ramanjot Singh,,0,0,0,,,,32159232159
+1,Slovenia,2,Ayyaz Qureshi,MWR Stokes,Ramanjot Singh,,0,4,4,,,,32159232159
+1,Slovenia,3,Ramanjot Singh,LT Bichard,Ayyaz Qureshi,,0,0,0,,,,32159232159
+1,Slovenia,3,Ramanjot Singh,LT Bichard,Ayyaz Qureshi,,0,0,0,run out,Ayyaz Qureshi,ACF Stokes,32159232159
+1,Slovenia,3,Shahid Arshad,LT Bichard,Ramanjot Singh,,0,0,0,,,,32159232159
+1,Slovenia,3,Shahid Arshad,LT Bichard,Ramanjot Singh,,0,0,0,,,,32159232159
+1,Slovenia,3,Shahid Arshad,LT Bichard,Ramanjot Singh,,0,0,0,,,,32159232159
+1,Slovenia,3,Shahid Arshad,LT Bichard,Ramanjot Singh,,0,0,0,,,,32159232159
+1,Slovenia,4,Ramanjot Singh,MWR Stokes,Shahid Arshad,,0,0,0,,,,32159232159
+1,Slovenia,4,Ramanjot Singh,MWR Stokes,Shahid Arshad,,0,0,0,,,,32159232159
+1,Slovenia,4,Ramanjot Singh,MWR Stokes,Shahid Arshad,,0,4,4,,,,32159232159
+1,Slovenia,4,Ramanjot Singh,MWR Stokes,Shahid Arshad,,0,0,0,,,,32159232159
+1,Slovenia,4,Ramanjot Singh,MWR Stokes,Shahid Arshad,,0,0,0,,,,32159232159
+1,Slovenia,4,Ramanjot Singh,MWR Stokes,Shahid Arshad,,0,1,1,,,,32159232159
+1,Slovenia,5,Ramanjot Singh,LT Bichard,Shahid Arshad,,0,2,2,,,,32159232159
+1,Slovenia,5,Ramanjot Singh,LT Bichard,Shahid Arshad,,0,4,4,,,,32159232159
+1,Slovenia,5,Ramanjot Singh,LT Bichard,Shahid Arshad,,0,0,0,caught,Ramanjot Singh,T Nightingale,32159232159
+1,Slovenia,5,Shahid Arshad,LT Bichard,MH Oman,,0,0,0,,,,32159232159
+1,Slovenia,5,Shahid Arshad,LT Bichard,MH Oman,wides,1,1,0,,,,32159232159
+1,Slovenia,5,Shahid Arshad,LT Bichard,MH Oman,,0,0,0,,,,32159232159
+1,Slovenia,5,Shahid Arshad,LT Bichard,MH Oman,,0,0,0,,,,32159232159
+1,Slovenia,6,MH Oman,DR Hooper,Shahid Arshad,,0,1,1,,,,32159232159
+1,Slovenia,6,Shahid Arshad,DR Hooper,MH Oman,,0,1,1,,,,32159232159
+1,Slovenia,6,MH Oman,DR Hooper,Shahid Arshad,,0,0,0,,,,32159232159
+1,Slovenia,6,MH Oman,DR Hooper,Shahid Arshad,,0,1,1,,,,32159232159
+1,Slovenia,6,Shahid Arshad,DR Hooper,MH Oman,,0,0,0,,,,32159232159
+1,Slovenia,6,Shahid Arshad,DR Hooper,MH Oman,,0,1,1,,,,32159232159
+1,Slovenia,7,Shahid Arshad,ACF Stokes,MH Oman,,0,1,1,,,,32159232159
+1,Slovenia,7,MH Oman,ACF Stokes,Shahid Arshad,,0,0,0,,,,32159232159
+1,Slovenia,7,MH Oman,ACF Stokes,Shahid Arshad,,0,0,0,,,,32159232159
+1,Slovenia,7,MH Oman,ACF Stokes,Shahid Arshad,,0,0,0,,,,32159232159
+1,Slovenia,7,MH Oman,ACF Stokes,Shahid Arshad,,0,0,0,,,,32159232159
+1,Slovenia,7,MH Oman,ACF Stokes,Shahid Arshad,,0,0,0,,,,32159232159
+1,Slovenia,8,Shahid Arshad,LT Bichard,MH Oman,,0,0,0,,,,32159232159
+1,Slovenia,8,Shahid Arshad,LT Bichard,MH Oman,,0,1,1,,,,32159232159
+1,Slovenia,8,MH Oman,LT Bichard,Shahid Arshad,,0,0,0,,,,32159232159
+1,Slovenia,8,MH Oman,LT Bichard,Shahid Arshad,,0,0,0,,,,32159232159
+1,Slovenia,8,MH Oman,LT Bichard,Shahid Arshad,,0,0,0,,,,32159232159
+1,Slovenia,8,MH Oman,LT Bichard,Shahid Arshad,,0,0,0,caught,MH Oman,MWR Stokes,32159232159
+1,Slovenia,9,Waqar Khan,ACF Stokes,Shahid Arshad,,0,0,0,,,,32159232159
+1,Slovenia,9,Waqar Khan,ACF Stokes,Shahid Arshad,,0,1,1,run out,Waqar Khan,T Nightingale,32159232159
+1,Slovenia,9,Taher Muhammad,ACF Stokes,Shahid Arshad,,0,0,0,,,,32159232159
+1,Slovenia,9,Taher Muhammad,ACF Stokes,Shahid Arshad,,0,0,0,,,,32159232159
+1,Slovenia,9,Taher Muhammad,ACF Stokes,Shahid Arshad,wides,1,1,0,,,,32159232159
+1,Slovenia,9,Taher Muhammad,ACF Stokes,Shahid Arshad,,0,0,0,,,,32159232159
+1,Slovenia,9,Taher Muhammad,ACF Stokes,Shahid Arshad,,0,1,1,,,,32159232159
+1,Slovenia,10,Taher Muhammad,MWR Stokes,Shahid Arshad,,0,0,0,,,,32159232159
+1,Slovenia,10,Taher Muhammad,MWR Stokes,Shahid Arshad,,0,0,0,,,,32159232159
+1,Slovenia,10,Taher Muhammad,MWR Stokes,Shahid Arshad,,0,0,0,,,,32159232159
+1,Slovenia,10,Taher Muhammad,MWR Stokes,Shahid Arshad,,0,0,0,caught,Taher Muhammad,LB Ferbrache,32159232159
+1,Slovenia,10,Shahid Arshad,MWR Stokes,Mazhar Khan,,0,0,0,bowled,Shahid Arshad,,32159232159
+1,Slovenia,10,BS Sandhu,MWR Stokes,Mazhar Khan,,0,0,0,,,,32159232159
+1,Slovenia,11,Mazhar Khan,W Peatfield,BS Sandhu,,0,4,4,,,,32159232159
+1,Slovenia,11,Mazhar Khan,W Peatfield,BS Sandhu,,0,0,0,,,,32159232159
+1,Slovenia,11,Mazhar Khan,W Peatfield,BS Sandhu,,0,0,0,,,,32159232159
+1,Slovenia,11,Mazhar Khan,W Peatfield,BS Sandhu,,0,1,1,,,,32159232159
+1,Slovenia,11,BS Sandhu,W Peatfield,Mazhar Khan,,0,0,0,,,,32159232159
+1,Slovenia,11,BS Sandhu,W Peatfield,Mazhar Khan,,0,0,0,,,,32159232159
+1,Slovenia,12,Mazhar Khan,LT Bichard,BS Sandhu,legbyes,1,1,0,,,,32159232159
+1,Slovenia,12,BS Sandhu,LT Bichard,Mazhar Khan,,0,1,1,,,,32159232159
+1,Slovenia,12,Mazhar Khan,LT Bichard,BS Sandhu,,0,0,0,,,,32159232159
+1,Slovenia,12,Mazhar Khan,LT Bichard,BS Sandhu,,0,1,1,,,,32159232159
+1,Slovenia,12,BS Sandhu,LT Bichard,Mazhar Khan,,0,1,1,run out,BS Sandhu,DR Hooper,32159232159
+1,Slovenia,12,P Pustoslemsek,LT Bichard,Mazhar Khan,,0,1,1,,,,32159232159
+1,Slovenia,13,P Pustoslemsek,W Peatfield,Mazhar Khan,,0,1,1,,,,32159232159
+1,Slovenia,13,Mazhar Khan,W Peatfield,P Pustoslemsek,,0,0,0,,,,32159232159
+1,Slovenia,13,Mazhar Khan,W Peatfield,P Pustoslemsek,wides,1,1,0,,,,32159232159
+1,Slovenia,13,Mazhar Khan,W Peatfield,P Pustoslemsek,,0,1,1,,,,32159232159
+1,Slovenia,13,P Pustoslemsek,W Peatfield,Mazhar Khan,,0,0,0,caught,P Pustoslemsek,LB Ferbrache,32159232159
+1,Slovenia,13,Mazhar Khan,W Peatfield,NL Ujawe,,0,0,0,,,,32159232159
+1,Slovenia,13,Mazhar Khan,W Peatfield,NL Ujawe,,0,0,0,,,,32159232159
+1,Slovenia,14,NL Ujawe,DR Hooper,Mazhar Khan,,0,1,1,,,,32159232159
+1,Slovenia,14,Mazhar Khan,DR Hooper,NL Ujawe,,0,0,0,,,,32159232159
+1,Slovenia,14,Mazhar Khan,DR Hooper,NL Ujawe,,0,0,0,,,,32159232159
+1,Slovenia,14,Mazhar Khan,DR Hooper,NL Ujawe,,0,0,0,,,,32159232159
+1,Slovenia,14,Mazhar Khan,DR Hooper,NL Ujawe,,0,0,0,bowled,Mazhar Khan,,32159232159

@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Australia,0,AJ Finch,B Kumar,NJ Maddinson,,0,0,0,,,,335823358
+1,Australia,0,AJ Finch,B Kumar,NJ Maddinson,,0,0,0,,,,335823358
+1,Australia,0,AJ Finch,B Kumar,NJ Maddinson,,0,4,4,,,,335823358
+1,Australia,0,AJ Finch,B Kumar,NJ Maddinson,,0,1,1,,,,335823358
+1,Australia,0,NJ Maddinson,B Kumar,AJ Finch,,0,0,0,,,,335823358
+1,Australia,0,NJ Maddinson,B Kumar,AJ Finch,,0,4,4,,,,335823358
+1,Australia,1,AJ Finch,R Vinay Kumar,NJ Maddinson,,0,1,1,,,,335823358
+1,Australia,1,NJ Maddinson,R Vinay Kumar,AJ Finch,,0,0,0,,,,335823358
+1,Australia,1,NJ Maddinson,R Vinay Kumar,AJ Finch,,0,4,4,,,,335823358
+1,Australia,1,NJ Maddinson,R Vinay Kumar,AJ Finch,,0,4,4,,,,335823358
+1,Australia,1,NJ Maddinson,R Vinay Kumar,AJ Finch,,0,1,1,,,,335823358
+1,Australia,1,AJ Finch,R Vinay Kumar,NJ Maddinson,,0,0,0,,,,335823358
+1,Australia,2,NJ Maddinson,R Ashwin,AJ Finch,,0,4,4,,,,335823358
+1,Australia,2,NJ Maddinson,R Ashwin,AJ Finch,,0,1,1,,,,335823358
+1,Australia,2,AJ Finch,R Ashwin,NJ Maddinson,,0,4,4,,,,335823358
+1,Australia,2,AJ Finch,R Ashwin,NJ Maddinson,,0,4,4,,,,335823358
+1,Australia,2,AJ Finch,R Ashwin,NJ Maddinson,,0,0,0,,,,335823358
+1,Australia,2,AJ Finch,R Ashwin,NJ Maddinson,,0,4,4,,,,335823358
+1,Australia,3,NJ Maddinson,I Sharma,AJ Finch,,0,6,6,,,,335823358
+1,Australia,3,NJ Maddinson,I Sharma,AJ Finch,,0,4,4,,,,335823358
+1,Australia,3,NJ Maddinson,I Sharma,AJ Finch,,0,0,0,,,,335823358
+1,Australia,3,NJ Maddinson,I Sharma,AJ Finch,,0,0,0,,,,335823358
+1,Australia,3,NJ Maddinson,I Sharma,AJ Finch,,0,1,1,,,,335823358
+1,Australia,3,AJ Finch,I Sharma,NJ Maddinson,,0,1,1,,,,335823358
+1,Australia,4,AJ Finch,B Kumar,NJ Maddinson,wides,1,1,0,,,,335823358
+1,Australia,4,AJ Finch,B Kumar,NJ Maddinson,,0,1,1,,,,335823358
+1,Australia,4,NJ Maddinson,B Kumar,AJ Finch,,0,1,1,,,,335823358
+1,Australia,4,AJ Finch,B Kumar,NJ Maddinson,,0,1,1,,,,335823358
+1,Australia,4,NJ Maddinson,B Kumar,AJ Finch,,0,4,4,,,,335823358
+1,Australia,4,NJ Maddinson,B Kumar,AJ Finch,,0,0,0,bowled,NJ Maddinson,,335823358
+1,Australia,4,SR Watson,B Kumar,AJ Finch,,0,4,4,,,,335823358
+1,Australia,5,AJ Finch,I Sharma,SR Watson,,0,4,4,,,,335823358
+1,Australia,5,AJ Finch,I Sharma,SR Watson,,0,4,4,,,,335823358
+1,Australia,5,AJ Finch,I Sharma,SR Watson,,0,0,0,,,,335823358
+1,Australia,5,AJ Finch,I Sharma,SR Watson,,0,1,1,,,,335823358
+1,Australia,5,SR Watson,I Sharma,AJ Finch,,0,1,1,,,,335823358
+1,Australia,5,AJ Finch,I Sharma,SR Watson,,0,4,4,,,,335823358
+1,Australia,6,SR Watson,RA Jadeja,AJ Finch,,0,0,0,,,,335823358
+1,Australia,6,SR Watson,RA Jadeja,AJ Finch,,0,1,1,,,,335823358
+1,Australia,6,AJ Finch,RA Jadeja,SR Watson,,0,0,0,,,,335823358
+1,Australia,6,AJ Finch,RA Jadeja,SR Watson,,0,6,6,,,,335823358
+1,Australia,6,AJ Finch,RA Jadeja,SR Watson,,0,0,0,,,,335823358
+1,Australia,6,AJ Finch,RA Jadeja,SR Watson,,0,1,1,,,,335823358
+1,Australia,7,AJ Finch,R Vinay Kumar,SR Watson,,0,1,1,,,,335823358
+1,Australia,7,SR Watson,R Vinay Kumar,AJ Finch,wides,1,1,0,,,,335823358
+1,Australia,7,SR Watson,R Vinay Kumar,AJ Finch,,0,0,0,lbw,SR Watson,,335823358
+1,Australia,7,GJ Bailey,R Vinay Kumar,AJ Finch,,0,0,0,,,,335823358
+1,Australia,7,GJ Bailey,R Vinay Kumar,AJ Finch,,0,0,0,,,,335823358
+1,Australia,7,GJ Bailey,R Vinay Kumar,AJ Finch,,0,0,0,caught,GJ Bailey,RA Jadeja,335823358
+1,Australia,7,AJ Finch,R Vinay Kumar,GJ Maxwell,,0,2,2,,,,335823358
+1,Australia,8,GJ Maxwell,RA Jadeja,AJ Finch,,0,1,1,,,,335823358
+1,Australia,8,AJ Finch,RA Jadeja,GJ Maxwell,,0,0,0,,,,335823358
+1,Australia,8,AJ Finch,RA Jadeja,GJ Maxwell,,0,0,0,,,,335823358
+1,Australia,8,AJ Finch,RA Jadeja,GJ Maxwell,,0,1,1,,,,335823358
+1,Australia,8,GJ Maxwell,RA Jadeja,AJ Finch,,0,1,1,,,,335823358
+1,Australia,8,AJ Finch,RA Jadeja,GJ Maxwell,,0,1,1,,,,335823358
+1,Australia,9,AJ Finch,R Ashwin,GJ Maxwell,,0,4,4,,,,335823358
+1,Australia,9,AJ Finch,R Ashwin,GJ Maxwell,wides,2,2,0,,,,335823358
+1,Australia,9,GJ Maxwell,R Ashwin,AJ Finch,,0,6,6,,,,335823358
+1,Australia,9,GJ Maxwell,R Ashwin,AJ Finch,,0,6,6,,,,335823358
+1,Australia,9,GJ Maxwell,R Ashwin,AJ Finch,,0,0,0,,,,335823358
+1,Australia,9,GJ Maxwell,R Ashwin,AJ Finch,,0,6,6,,,,335823358
+1,Australia,9,GJ Maxwell,R Ashwin,AJ Finch,,0,0,0,,,,335823358
+1,Australia,10,AJ Finch,V Kohli,GJ Maxwell,,0,2,2,,,,335823358
+1,Australia,10,AJ Finch,V Kohli,GJ Maxwell,,0,1,1,,,,335823358
+1,Australia,10,GJ Maxwell,V Kohli,AJ Finch,,0,0,0,,,,335823358
+1,Australia,10,GJ Maxwell,V Kohli,AJ Finch,,0,6,6,,,,335823358
+1,Australia,10,GJ Maxwell,V Kohli,AJ Finch,,0,1,1,,,,335823358
+1,Australia,10,AJ Finch,V Kohli,GJ Maxwell,,0,0,0,,,,335823358
+1,Australia,11,GJ Maxwell,RA Jadeja,AJ Finch,,0,0,0,,,,335823358
+1,Australia,11,GJ Maxwell,RA Jadeja,AJ Finch,,0,0,0,,,,335823358
+1,Australia,11,GJ Maxwell,RA Jadeja,AJ Finch,,0,0,0,caught,GJ Maxwell,I Sharma,335823358
+1,Australia,11,AJ Finch,RA Jadeja,BJ Haddin,,0,0,0,,,,335823358
+1,Australia,11,AJ Finch,RA Jadeja,BJ Haddin,,0,1,1,,,,335823358
+1,Australia,11,BJ Haddin,RA Jadeja,AJ Finch,,0,4,4,,,,335823358
+1,Australia,12,AJ Finch,V Kohli,BJ Haddin,,0,4,4,,,,335823358
+1,Australia,12,AJ Finch,V Kohli,BJ Haddin,,0,1,1,,,,335823358
+1,Australia,12,BJ Haddin,V Kohli,AJ Finch,,0,1,1,,,,335823358
+1,Australia,12,AJ Finch,V Kohli,BJ Haddin,,0,4,4,,,,335823358
+1,Australia,12,AJ Finch,V Kohli,BJ Haddin,,0,1,1,,,,335823358
+1,Australia,12,BJ Haddin,V Kohli,AJ Finch,wides,2,2,0,,,,335823358
+1,Australia,12,AJ Finch,V Kohli,BJ Haddin,,0,1,1,,,,335823358
+1,Australia,13,AJ Finch,B Kumar,BJ Haddin,,0,2,2,,,,335823358
+1,Australia,13,AJ Finch,B Kumar,BJ Haddin,,0,1,1,,,,335823358
+1,Australia,13,BJ Haddin,B Kumar,AJ Finch,,0,0,0,caught,BJ Haddin,MS Dhoni,335823358
+1,Australia,13,MC Henriques,B Kumar,AJ Finch,,0,1,1,,,,335823358
+1,Australia,13,AJ Finch,B Kumar,MC Henriques,,0,4,4,,,,335823358
+1,Australia,13,AJ Finch,B Kumar,MC Henriques,,0,0,0,,,,335823358
+1,Australia,14,MC Henriques,RA Jadeja,AJ Finch,,0,0,0,,,,335823358
+1,Australia,14,MC Henriques,RA Jadeja,AJ Finch,,0,2,2,,,,335823358
+1,Australia,14,MC Henriques,RA Jadeja,AJ Finch,,0,1,1,,,,335823358
+1,Australia,14,AJ Finch,RA Jadeja,MC Henriques,,0,1,1,,,,335823358
+1,Australia,14,MC Henriques,RA Jadeja,AJ Finch,,0,1,1,,,,335823358
+1,Australia,14,AJ Finch,RA Jadeja,MC Henriques,,0,1,1,,,,335823358
+1,Australia,15,AJ Finch,I Sharma,MC Henriques,,0,4,4,,,,335823358
+1,Australia,15,AJ Finch,I Sharma,MC Henriques,,0,4,4,,,,335823358
+1,Australia,15,AJ Finch,I Sharma,MC Henriques,,0,1,1,,,,335823358
+1,Australia,15,MC Henriques,I Sharma,AJ Finch,,0,1,1,,,,335823358
+1,Australia,15,AJ Finch,I Sharma,MC Henriques,,0,4,4,,,,335823358
+1,Australia,15,AJ Finch,I Sharma,MC Henriques,,0,1,1,,,,335823358
+1,Australia,16,AJ Finch,R Vinay Kumar,MC Henriques,,0,1,1,,,,335823358
+1,Australia,16,MC Henriques,R Vinay Kumar,AJ Finch,,0,1,1,,,,335823358
+1,Australia,16,AJ Finch,R Vinay Kumar,MC Henriques,,0,0,0,caught and bowled,AJ Finch,,335823358
+1,Australia,16,NM Coulter-Nile,R Vinay Kumar,MC Henriques,,0,1,1,,,,335823358
+1,Australia,16,MC Henriques,R Vinay Kumar,NM Coulter-Nile,,0,1,1,,,,335823358
+1,Australia,16,NM Coulter-Nile,R Vinay Kumar,MC Henriques,,0,0,0,,,,335823358
+1,Australia,17,MC Henriques,B Kumar,NM Coulter-Nile,,0,0,0,,,,335823358
+1,Australia,17,MC Henriques,B Kumar,NM Coulter-Nile,,0,4,4,,,,335823358
+1,Australia,17,MC Henriques,B Kumar,NM Coulter-Nile,,0,0,0,,,,335823358
+1,Australia,17,MC Henriques,B Kumar,NM Coulter-Nile,,0,0,0,caught,MC Henriques,Yuvraj Singh,335823358
+1,Australia,17,NM Coulter-Nile,B Kumar,JP Faulkner,,0,1,1,,,,335823358
+1,Australia,17,JP Faulkner,B Kumar,NM Coulter-Nile,,0,1,1,,,,335823358
+1,Australia,18,JP Faulkner,R Vinay Kumar,NM Coulter-Nile,,0,1,1,,,,335823358
+1,Australia,18,NM Coulter-Nile,R Vinay Kumar,JP Faulkner,,0,1,1,,,,335823358
+1,Australia,18,JP Faulkner,R Vinay Kumar,NM Coulter-Nile,,0,1,1,,,,335823358
+1,Australia,18,NM Coulter-Nile,R Vinay Kumar,JP Faulkner,,0,4,4,,,,335823358
+1,Australia,18,NM Coulter-Nile,R Vinay Kumar,JP Faulkner,,0,0,0,,,,335823358
+1,Australia,18,NM Coulter-Nile,R Vinay Kumar,JP Faulkner,,0,1,1,,,,335823358
+1,Australia,19,NM Coulter-Nile,I Sharma,JP Faulkner,,0,0,0,,,,335823358
+1,Australia,19,NM Coulter-Nile,I Sharma,JP Faulkner,,0,2,2,,,,335823358
+1,Australia,19,NM Coulter-Nile,I Sharma,JP Faulkner,,0,1,1,,,,335823358
+1,Australia,19,JP Faulkner,I Sharma,NM Coulter-Nile,,0,1,1,,,,335823358
+1,Australia,19,NM Coulter-Nile,I Sharma,JP Faulkner,,0,1,1,,,,335823358
+1,Australia,19,JP Faulkner,I Sharma,NM Coulter-Nile,,0,6,6,,,,335823358

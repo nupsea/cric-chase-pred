@@ -1,0 +1,129 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Uganda,0,RG Mukasa,JN Frylinck,A Otwani,,0,0,0,,,,31491231491
+1,Uganda,0,RG Mukasa,JN Frylinck,A Otwani,legbyes,1,1,0,,,,31491231491
+1,Uganda,0,A Otwani,JN Frylinck,RG Mukasa,wides,1,1,0,,,,31491231491
+1,Uganda,0,A Otwani,JN Frylinck,RG Mukasa,,0,1,1,,,,31491231491
+1,Uganda,0,RG Mukasa,JN Frylinck,A Otwani,,0,0,0,,,,31491231491
+1,Uganda,0,RG Mukasa,JN Frylinck,A Otwani,legbyes,1,1,0,,,,31491231491
+1,Uganda,0,A Otwani,JN Frylinck,RG Mukasa,,0,1,1,,,,31491231491
+1,Uganda,1,A Otwani,B Shikongo,RG Mukasa,,0,0,0,,,,31491231491
+1,Uganda,1,A Otwani,B Shikongo,RG Mukasa,,0,1,1,,,,31491231491
+1,Uganda,1,RG Mukasa,B Shikongo,A Otwani,,0,4,4,,,,31491231491
+1,Uganda,1,RG Mukasa,B Shikongo,A Otwani,,0,0,0,,,,31491231491
+1,Uganda,1,RG Mukasa,B Shikongo,A Otwani,,0,0,0,,,,31491231491
+1,Uganda,1,RG Mukasa,B Shikongo,A Otwani,,0,1,1,,,,31491231491
+1,Uganda,2,RG Mukasa,JN Frylinck,A Otwani,,0,4,4,,,,31491231491
+1,Uganda,2,RG Mukasa,JN Frylinck,A Otwani,,0,2,2,,,,31491231491
+1,Uganda,2,RG Mukasa,JN Frylinck,A Otwani,,0,0,0,,,,31491231491
+1,Uganda,2,RG Mukasa,JN Frylinck,A Otwani,,0,6,6,,,,31491231491
+1,Uganda,2,RG Mukasa,JN Frylinck,A Otwani,,0,0,0,,,,31491231491
+1,Uganda,2,RG Mukasa,JN Frylinck,A Otwani,,0,1,1,,,,31491231491
+1,Uganda,3,RG Mukasa,T Lungameni,A Otwani,,0,1,1,,,,31491231491
+1,Uganda,3,A Otwani,T Lungameni,RG Mukasa,,0,0,0,,,,31491231491
+1,Uganda,3,A Otwani,T Lungameni,RG Mukasa,,0,1,1,,,,31491231491
+1,Uganda,3,RG Mukasa,T Lungameni,A Otwani,wides,1,1,0,,,,31491231491
+1,Uganda,3,RG Mukasa,T Lungameni,A Otwani,,0,4,4,,,,31491231491
+1,Uganda,3,RG Mukasa,T Lungameni,A Otwani,,0,1,1,,,,31491231491
+1,Uganda,3,A Otwani,T Lungameni,RG Mukasa,,0,0,0,,,,31491231491
+1,Uganda,4,RG Mukasa,BM Scholtz,A Otwani,,0,0,0,,,,31491231491
+1,Uganda,4,RG Mukasa,BM Scholtz,A Otwani,,0,0,0,,,,31491231491
+1,Uganda,4,RG Mukasa,BM Scholtz,A Otwani,,0,1,1,,,,31491231491
+1,Uganda,4,A Otwani,BM Scholtz,RG Mukasa,,0,2,2,,,,31491231491
+1,Uganda,4,A Otwani,BM Scholtz,RG Mukasa,,0,1,1,,,,31491231491
+1,Uganda,4,RG Mukasa,BM Scholtz,A Otwani,,0,1,1,,,,31491231491
+1,Uganda,5,RG Mukasa,B Shikongo,A Otwani,,0,0,0,,,,31491231491
+1,Uganda,5,RG Mukasa,B Shikongo,A Otwani,,0,0,0,bowled,RG Mukasa,,31491231491
+1,Uganda,5,HB Kayondo,B Shikongo,A Otwani,,0,0,0,,,,31491231491
+1,Uganda,5,HB Kayondo,B Shikongo,A Otwani,,0,0,0,,,,31491231491
+1,Uganda,5,HB Kayondo,B Shikongo,A Otwani,,0,1,1,,,,31491231491
+1,Uganda,5,A Otwani,B Shikongo,HB Kayondo,wides,1,1,0,,,,31491231491
+1,Uganda,5,A Otwani,B Shikongo,HB Kayondo,,0,0,0,,,,31491231491
+1,Uganda,6,HB Kayondo,BM Scholtz,A Otwani,,0,0,0,,,,31491231491
+1,Uganda,6,HB Kayondo,BM Scholtz,A Otwani,,0,0,0,,,,31491231491
+1,Uganda,6,HB Kayondo,BM Scholtz,A Otwani,,0,1,1,,,,31491231491
+1,Uganda,6,A Otwani,BM Scholtz,HB Kayondo,,0,0,0,caught,A Otwani,JN Frylinck,31491231491
+1,Uganda,6,RB Patel,BM Scholtz,HB Kayondo,,0,0,0,,,,31491231491
+1,Uganda,6,RB Patel,BM Scholtz,HB Kayondo,,0,1,1,,,,31491231491
+1,Uganda,7,RB Patel,JN Loftie-Eaton,HB Kayondo,,0,1,1,,,,31491231491
+1,Uganda,7,HB Kayondo,JN Loftie-Eaton,RB Patel,,0,1,1,,,,31491231491
+1,Uganda,7,RB Patel,JN Loftie-Eaton,HB Kayondo,,0,0,0,,,,31491231491
+1,Uganda,7,RB Patel,JN Loftie-Eaton,HB Kayondo,,0,0,0,,,,31491231491
+1,Uganda,7,RB Patel,JN Loftie-Eaton,HB Kayondo,,0,0,0,,,,31491231491
+1,Uganda,7,RB Patel,JN Loftie-Eaton,HB Kayondo,,0,0,0,,,,31491231491
+1,Uganda,8,HB Kayondo,BM Scholtz,RB Patel,,0,0,0,,,,31491231491
+1,Uganda,8,HB Kayondo,BM Scholtz,RB Patel,,0,1,1,,,,31491231491
+1,Uganda,8,RB Patel,BM Scholtz,HB Kayondo,,0,4,4,,,,31491231491
+1,Uganda,8,RB Patel,BM Scholtz,HB Kayondo,,0,1,1,,,,31491231491
+1,Uganda,8,HB Kayondo,BM Scholtz,RB Patel,,0,4,4,,,,31491231491
+1,Uganda,8,HB Kayondo,BM Scholtz,RB Patel,,0,0,0,,,,31491231491
+1,Uganda,9,RB Patel,JN Loftie-Eaton,HB Kayondo,wides,1,1,0,,,,31491231491
+1,Uganda,9,RB Patel,JN Loftie-Eaton,HB Kayondo,,0,1,1,,,,31491231491
+1,Uganda,9,HB Kayondo,JN Loftie-Eaton,RB Patel,,0,0,0,,,,31491231491
+1,Uganda,9,HB Kayondo,JN Loftie-Eaton,RB Patel,,0,1,1,,,,31491231491
+1,Uganda,9,RB Patel,JN Loftie-Eaton,HB Kayondo,,0,1,1,,,,31491231491
+1,Uganda,9,HB Kayondo,JN Loftie-Eaton,RB Patel,,0,1,1,,,,31491231491
+1,Uganda,9,RB Patel,JN Loftie-Eaton,HB Kayondo,,0,1,1,,,,31491231491
+1,Uganda,10,RB Patel,BM Scholtz,HB Kayondo,,0,1,1,,,,31491231491
+1,Uganda,10,HB Kayondo,BM Scholtz,RB Patel,,0,1,1,,,,31491231491
+1,Uganda,10,RB Patel,BM Scholtz,HB Kayondo,,0,0,0,,,,31491231491
+1,Uganda,10,RB Patel,BM Scholtz,HB Kayondo,,0,1,1,,,,31491231491
+1,Uganda,10,HB Kayondo,BM Scholtz,RB Patel,,0,0,0,,,,31491231491
+1,Uganda,10,HB Kayondo,BM Scholtz,RB Patel,,0,0,0,,,,31491231491
+1,Uganda,11,RB Patel,T Lungameni,HB Kayondo,,0,1,1,,,,31491231491
+1,Uganda,11,HB Kayondo,T Lungameni,RB Patel,,0,1,1,,,,31491231491
+1,Uganda,11,RB Patel,T Lungameni,HB Kayondo,,0,1,1,,,,31491231491
+1,Uganda,11,HB Kayondo,T Lungameni,RB Patel,,0,1,1,,,,31491231491
+1,Uganda,11,RB Patel,T Lungameni,HB Kayondo,,0,0,0,,,,31491231491
+1,Uganda,11,RB Patel,T Lungameni,HB Kayondo,,0,0,0,,,,31491231491
+1,Uganda,12,HB Kayondo,CG Williams,RB Patel,,0,1,1,,,,31491231491
+1,Uganda,12,RB Patel,CG Williams,HB Kayondo,,0,1,1,,,,31491231491
+1,Uganda,12,HB Kayondo,CG Williams,RB Patel,,0,4,4,,,,31491231491
+1,Uganda,12,HB Kayondo,CG Williams,RB Patel,,0,0,0,,,,31491231491
+1,Uganda,12,HB Kayondo,CG Williams,RB Patel,,0,1,1,,,,31491231491
+1,Uganda,12,RB Patel,CG Williams,HB Kayondo,,0,1,1,,,,31491231491
+1,Uganda,13,RB Patel,T Lungameni,HB Kayondo,,0,1,1,,,,31491231491
+1,Uganda,13,HB Kayondo,T Lungameni,RB Patel,,0,0,0,,,,31491231491
+1,Uganda,13,HB Kayondo,T Lungameni,RB Patel,,0,1,1,,,,31491231491
+1,Uganda,13,RB Patel,T Lungameni,HB Kayondo,wides,2,2,0,,,,31491231491
+1,Uganda,13,HB Kayondo,T Lungameni,RB Patel,,0,4,4,,,,31491231491
+1,Uganda,13,HB Kayondo,T Lungameni,RB Patel,,0,0,0,,,,31491231491
+1,Uganda,13,HB Kayondo,T Lungameni,RB Patel,wides,1,1,0,,,,31491231491
+1,Uganda,13,HB Kayondo,T Lungameni,RB Patel,,0,4,4,,,,31491231491
+1,Uganda,14,RB Patel,JN Loftie-Eaton,HB Kayondo,,0,1,1,,,,31491231491
+1,Uganda,14,HB Kayondo,JN Loftie-Eaton,RB Patel,,0,0,0,caught,HB Kayondo,JN Frylinck,31491231491
+1,Uganda,14,RB Patel,JN Loftie-Eaton,DM Nakrani,,0,1,1,,,,31491231491
+1,Uganda,14,DM Nakrani,JN Loftie-Eaton,RB Patel,,0,0,0,,,,31491231491
+1,Uganda,14,DM Nakrani,JN Loftie-Eaton,RB Patel,,0,0,0,,,,31491231491
+1,Uganda,14,DM Nakrani,JN Loftie-Eaton,RB Patel,,0,0,0,,,,31491231491
+1,Uganda,15,RB Patel,B Shikongo,DM Nakrani,,0,1,1,,,,31491231491
+1,Uganda,15,DM Nakrani,B Shikongo,RB Patel,,0,1,1,,,,31491231491
+1,Uganda,15,RB Patel,B Shikongo,DM Nakrani,,0,0,0,,,,31491231491
+1,Uganda,15,RB Patel,B Shikongo,DM Nakrani,,0,1,1,,,,31491231491
+1,Uganda,15,DM Nakrani,B Shikongo,RB Patel,,0,0,0,bowled,DM Nakrani,,31491231491
+1,Uganda,15,Riazat Ali Shah,B Shikongo,RB Patel,,0,0,0,,,,31491231491
+1,Uganda,16,RB Patel,JN Loftie-Eaton,Riazat Ali Shah,,0,1,1,,,,31491231491
+1,Uganda,16,Riazat Ali Shah,JN Loftie-Eaton,RB Patel,,0,0,0,,,,31491231491
+1,Uganda,16,Riazat Ali Shah,JN Loftie-Eaton,RB Patel,wides,1,1,0,,,,31491231491
+1,Uganda,16,Riazat Ali Shah,JN Loftie-Eaton,RB Patel,,0,1,1,,,,31491231491
+1,Uganda,16,RB Patel,JN Loftie-Eaton,Riazat Ali Shah,,0,0,0,,,,31491231491
+1,Uganda,16,RB Patel,JN Loftie-Eaton,Riazat Ali Shah,,0,1,1,,,,31491231491
+1,Uganda,16,Riazat Ali Shah,JN Loftie-Eaton,RB Patel,,0,6,6,,,,31491231491
+1,Uganda,17,RB Patel,JN Frylinck,Riazat Ali Shah,,0,4,4,,,,31491231491
+1,Uganda,17,RB Patel,JN Frylinck,Riazat Ali Shah,,0,1,1,,,,31491231491
+1,Uganda,17,Riazat Ali Shah,JN Frylinck,RB Patel,,0,1,1,,,,31491231491
+1,Uganda,17,RB Patel,JN Frylinck,Riazat Ali Shah,,0,1,1,,,,31491231491
+1,Uganda,17,Riazat Ali Shah,JN Frylinck,RB Patel,,0,0,0,,,,31491231491
+1,Uganda,17,Riazat Ali Shah,JN Frylinck,RB Patel,,0,1,1,,,,31491231491
+1,Uganda,18,Riazat Ali Shah,B Shikongo,RB Patel,,0,4,4,,,,31491231491
+1,Uganda,18,Riazat Ali Shah,B Shikongo,RB Patel,,0,1,1,,,,31491231491
+1,Uganda,18,RB Patel,B Shikongo,Riazat Ali Shah,,0,1,1,,,,31491231491
+1,Uganda,18,Riazat Ali Shah,B Shikongo,RB Patel,,0,2,2,,,,31491231491
+1,Uganda,18,Riazat Ali Shah,B Shikongo,RB Patel,,0,1,1,,,,31491231491
+1,Uganda,18,RB Patel,B Shikongo,Riazat Ali Shah,,0,4,4,,,,31491231491
+1,Uganda,19,Riazat Ali Shah,JN Frylinck,RB Patel,,0,6,6,,,,31491231491
+1,Uganda,19,Riazat Ali Shah,JN Frylinck,RB Patel,legbyes,1,1,0,,,,31491231491
+1,Uganda,19,RB Patel,JN Frylinck,Riazat Ali Shah,wides,1,1,0,,,,31491231491
+1,Uganda,19,RB Patel,JN Frylinck,Riazat Ali Shah,,0,1,1,,,,31491231491
+1,Uganda,19,Riazat Ali Shah,JN Frylinck,RB Patel,,0,0,0,caught,Riazat Ali Shah,MG Erasmus,31491231491
+1,Uganda,19,RB Patel,JN Frylinck,F Akankwasa,byes,1,1,0,,,,31491231491
+1,Uganda,19,F Akankwasa,JN Frylinck,RB Patel,byes,1,1,0,,,,31491231491

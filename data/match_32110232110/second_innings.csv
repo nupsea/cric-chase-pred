@@ -1,0 +1,130 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Belgium,0,Aziz Mohammad,SA Mohandas,Muhammad Muneeb,,0,0,0,,,,32110232110
+2,Belgium,0,Aziz Mohammad,SA Mohandas,Muhammad Muneeb,,0,1,1,,,,32110232110
+2,Belgium,0,Muhammad Muneeb,SA Mohandas,Aziz Mohammad,wides,1,1,0,,,,32110232110
+2,Belgium,0,Muhammad Muneeb,SA Mohandas,Aziz Mohammad,,0,1,1,,,,32110232110
+2,Belgium,0,Aziz Mohammad,SA Mohandas,Muhammad Muneeb,,0,0,0,,,,32110232110
+2,Belgium,0,Aziz Mohammad,SA Mohandas,Muhammad Muneeb,,0,0,0,caught,Aziz Mohammad,AG Weligamage,32110232110
+2,Belgium,0,A Raza,SA Mohandas,Muhammad Muneeb,wides,1,1,0,,,,32110232110
+2,Belgium,0,A Raza,SA Mohandas,Muhammad Muneeb,,0,0,0,,,,32110232110
+2,Belgium,1,Muhammad Muneeb,M Fontaine,A Raza,,0,2,2,,,,32110232110
+2,Belgium,1,Muhammad Muneeb,M Fontaine,A Raza,wides,1,1,0,,,,32110232110
+2,Belgium,1,Muhammad Muneeb,M Fontaine,A Raza,,0,0,0,,,,32110232110
+2,Belgium,1,Muhammad Muneeb,M Fontaine,A Raza,,0,0,0,caught,Muhammad Muneeb,SA Mohandas,32110232110
+2,Belgium,1,Sheraz Sheikh,M Fontaine,A Raza,,0,0,0,,,,32110232110
+2,Belgium,1,Sheraz Sheikh,M Fontaine,A Raza,,0,4,4,,,,32110232110
+2,Belgium,1,Sheraz Sheikh,M Fontaine,A Raza,,0,0,0,,,,32110232110
+2,Belgium,2,A Raza,SA Mohandas,Sheraz Sheikh,,0,1,1,,,,32110232110
+2,Belgium,2,Sheraz Sheikh,SA Mohandas,A Raza,,0,0,0,,,,32110232110
+2,Belgium,2,Sheraz Sheikh,SA Mohandas,A Raza,byes,4,4,0,,,,32110232110
+2,Belgium,2,Sheraz Sheikh,SA Mohandas,A Raza,,0,0,0,,,,32110232110
+2,Belgium,2,Sheraz Sheikh,SA Mohandas,A Raza,,0,0,0,,,,32110232110
+2,Belgium,2,Sheraz Sheikh,SA Mohandas,A Raza,,0,0,0,,,,32110232110
+2,Belgium,3,A Raza,M Fontaine,Sheraz Sheikh,wides,1,1,0,,,,32110232110
+2,Belgium,3,A Raza,M Fontaine,Sheraz Sheikh,,0,0,0,caught,A Raza,AG Weligamage,32110232110
+2,Belgium,3,Shaheryar Butt,M Fontaine,Sheraz Sheikh,,0,4,4,,,,32110232110
+2,Belgium,3,Shaheryar Butt,M Fontaine,Sheraz Sheikh,,0,0,0,,,,32110232110
+2,Belgium,3,Shaheryar Butt,M Fontaine,Sheraz Sheikh,wides,1,1,0,,,,32110232110
+2,Belgium,3,Shaheryar Butt,M Fontaine,Sheraz Sheikh,,0,0,0,,,,32110232110
+2,Belgium,3,Shaheryar Butt,M Fontaine,Sheraz Sheikh,,0,1,1,,,,32110232110
+2,Belgium,3,Sheraz Sheikh,M Fontaine,Shaheryar Butt,,0,1,1,,,,32110232110
+2,Belgium,4,Sheraz Sheikh,SA Mohandas,Shaheryar Butt,,0,1,1,,,,32110232110
+2,Belgium,4,Shaheryar Butt,SA Mohandas,Sheraz Sheikh,,0,0,0,caught,Shaheryar Butt,HV Mandhyan,32110232110
+2,Belgium,4,Saber Zakhil,SA Mohandas,Sheraz Sheikh,,0,4,4,,,,32110232110
+2,Belgium,4,Saber Zakhil,SA Mohandas,Sheraz Sheikh,,0,1,1,,,,32110232110
+2,Belgium,4,Sheraz Sheikh,SA Mohandas,Saber Zakhil,,0,0,0,,,,32110232110
+2,Belgium,4,Sheraz Sheikh,SA Mohandas,Saber Zakhil,,0,0,0,,,,32110232110
+2,Belgium,5,Saber Zakhil,A Kheterpal,Sheraz Sheikh,,0,0,0,,,,32110232110
+2,Belgium,5,Saber Zakhil,A Kheterpal,Sheraz Sheikh,,0,1,1,,,,32110232110
+2,Belgium,5,Sheraz Sheikh,A Kheterpal,Saber Zakhil,,0,0,0,,,,32110232110
+2,Belgium,5,Sheraz Sheikh,A Kheterpal,Saber Zakhil,,0,0,0,,,,32110232110
+2,Belgium,5,Sheraz Sheikh,A Kheterpal,Saber Zakhil,,0,1,1,,,,32110232110
+2,Belgium,5,Saber Zakhil,A Kheterpal,Sheraz Sheikh,,0,4,4,,,,32110232110
+2,Belgium,6,Sheraz Sheikh,SA Mohandas,Saber Zakhil,,0,0,0,,,,32110232110
+2,Belgium,6,Sheraz Sheikh,SA Mohandas,Saber Zakhil,,0,1,1,,,,32110232110
+2,Belgium,6,Saber Zakhil,SA Mohandas,Sheraz Sheikh,,0,0,0,,,,32110232110
+2,Belgium,6,Saber Zakhil,SA Mohandas,Sheraz Sheikh,,0,0,0,,,,32110232110
+2,Belgium,6,Saber Zakhil,SA Mohandas,Sheraz Sheikh,,0,0,0,,,,32110232110
+2,Belgium,6,Saber Zakhil,SA Mohandas,Sheraz Sheikh,,0,6,6,,,,32110232110
+2,Belgium,7,Sheraz Sheikh,A Kheterpal,Saber Zakhil,,0,0,0,,,,32110232110
+2,Belgium,7,Sheraz Sheikh,A Kheterpal,Saber Zakhil,,0,1,1,,,,32110232110
+2,Belgium,7,Saber Zakhil,A Kheterpal,Sheraz Sheikh,,0,0,0,,,,32110232110
+2,Belgium,7,Saber Zakhil,A Kheterpal,Sheraz Sheikh,,0,0,0,,,,32110232110
+2,Belgium,7,Saber Zakhil,A Kheterpal,Sheraz Sheikh,,0,6,6,,,,32110232110
+2,Belgium,7,Saber Zakhil,A Kheterpal,Sheraz Sheikh,,0,0,0,,,,32110232110
+2,Belgium,8,Sheraz Sheikh,Zeeshan Kukikhel,Saber Zakhil,,0,0,0,,,,32110232110
+2,Belgium,8,Sheraz Sheikh,Zeeshan Kukikhel,Saber Zakhil,,0,0,0,,,,32110232110
+2,Belgium,8,Sheraz Sheikh,Zeeshan Kukikhel,Saber Zakhil,,0,0,0,,,,32110232110
+2,Belgium,8,Sheraz Sheikh,Zeeshan Kukikhel,Saber Zakhil,,0,0,0,,,,32110232110
+2,Belgium,8,Sheraz Sheikh,Zeeshan Kukikhel,Saber Zakhil,,0,0,0,,,,32110232110
+2,Belgium,8,Sheraz Sheikh,Zeeshan Kukikhel,Saber Zakhil,,0,0,0,,,,32110232110
+2,Belgium,9,Saber Zakhil,A Kheterpal,Sheraz Sheikh,,0,4,4,,,,32110232110
+2,Belgium,9,Saber Zakhil,A Kheterpal,Sheraz Sheikh,,0,0,0,,,,32110232110
+2,Belgium,9,Saber Zakhil,A Kheterpal,Sheraz Sheikh,,0,1,1,,,,32110232110
+2,Belgium,9,Sheraz Sheikh,A Kheterpal,Saber Zakhil,,0,0,0,,,,32110232110
+2,Belgium,9,Sheraz Sheikh,A Kheterpal,Saber Zakhil,,0,0,0,,,,32110232110
+2,Belgium,9,Sheraz Sheikh,A Kheterpal,Saber Zakhil,,0,1,1,,,,32110232110
+2,Belgium,10,Sheraz Sheikh,Zeeshan Kukikhel,Saber Zakhil,,0,0,0,,,,32110232110
+2,Belgium,10,Sheraz Sheikh,Zeeshan Kukikhel,Saber Zakhil,,0,1,1,,,,32110232110
+2,Belgium,10,Saber Zakhil,Zeeshan Kukikhel,Sheraz Sheikh,wides,1,1,0,,,,32110232110
+2,Belgium,10,Saber Zakhil,Zeeshan Kukikhel,Sheraz Sheikh,,0,0,0,,,,32110232110
+2,Belgium,10,Saber Zakhil,Zeeshan Kukikhel,Sheraz Sheikh,,0,1,1,,,,32110232110
+2,Belgium,10,Sheraz Sheikh,Zeeshan Kukikhel,Saber Zakhil,,0,0,0,,,,32110232110
+2,Belgium,10,Sheraz Sheikh,Zeeshan Kukikhel,Saber Zakhil,,0,0,0,,,,32110232110
+2,Belgium,11,Saber Zakhil,BP Adapaka,Sheraz Sheikh,,0,1,1,,,,32110232110
+2,Belgium,11,Sheraz Sheikh,BP Adapaka,Saber Zakhil,,0,0,0,,,,32110232110
+2,Belgium,11,Sheraz Sheikh,BP Adapaka,Saber Zakhil,,0,1,1,,,,32110232110
+2,Belgium,11,Saber Zakhil,BP Adapaka,Sheraz Sheikh,,0,2,2,,,,32110232110
+2,Belgium,11,Saber Zakhil,BP Adapaka,Sheraz Sheikh,,0,0,0,,,,32110232110
+2,Belgium,11,Saber Zakhil,BP Adapaka,Sheraz Sheikh,,0,6,6,,,,32110232110
+2,Belgium,12,Sheraz Sheikh,Zeeshan Kukikhel,Saber Zakhil,,0,0,0,,,,32110232110
+2,Belgium,12,Sheraz Sheikh,Zeeshan Kukikhel,Saber Zakhil,,0,1,1,,,,32110232110
+2,Belgium,12,Saber Zakhil,Zeeshan Kukikhel,Sheraz Sheikh,,0,0,0,,,,32110232110
+2,Belgium,12,Saber Zakhil,Zeeshan Kukikhel,Sheraz Sheikh,wides,1,1,0,,,,32110232110
+2,Belgium,12,Saber Zakhil,Zeeshan Kukikhel,Sheraz Sheikh,,0,0,0,,,,32110232110
+2,Belgium,12,Saber Zakhil,Zeeshan Kukikhel,Sheraz Sheikh,,0,0,0,caught,Saber Zakhil,S Ashwathnarayana,32110232110
+2,Belgium,12,Shagharai Sefat,Zeeshan Kukikhel,Sheraz Sheikh,,0,0,0,,,,32110232110
+2,Belgium,13,Sheraz Sheikh,HV Mandhyan,Shagharai Sefat,,0,0,0,,,,32110232110
+2,Belgium,13,Sheraz Sheikh,HV Mandhyan,Shagharai Sefat,,0,0,0,,,,32110232110
+2,Belgium,13,Sheraz Sheikh,HV Mandhyan,Shagharai Sefat,,0,1,1,,,,32110232110
+2,Belgium,13,Shagharai Sefat,HV Mandhyan,Sheraz Sheikh,,0,0,0,,,,32110232110
+2,Belgium,13,Shagharai Sefat,HV Mandhyan,Sheraz Sheikh,,0,0,0,,,,32110232110
+2,Belgium,13,Shagharai Sefat,HV Mandhyan,Sheraz Sheikh,,0,1,1,,,,32110232110
+2,Belgium,14,Shagharai Sefat,Zeeshan Kukikhel,Sheraz Sheikh,,0,0,0,,,,32110232110
+2,Belgium,14,Shagharai Sefat,Zeeshan Kukikhel,Sheraz Sheikh,,0,1,1,,,,32110232110
+2,Belgium,14,Sheraz Sheikh,Zeeshan Kukikhel,Shagharai Sefat,,0,4,4,,,,32110232110
+2,Belgium,14,Sheraz Sheikh,Zeeshan Kukikhel,Shagharai Sefat,,0,0,0,,,,32110232110
+2,Belgium,14,Sheraz Sheikh,Zeeshan Kukikhel,Shagharai Sefat,,0,2,2,,,,32110232110
+2,Belgium,14,Sheraz Sheikh,Zeeshan Kukikhel,Shagharai Sefat,,0,6,6,,,,32110232110
+2,Belgium,15,Shagharai Sefat,HV Mandhyan,Sheraz Sheikh,,0,1,1,,,,32110232110
+2,Belgium,15,Sheraz Sheikh,HV Mandhyan,Shagharai Sefat,,0,0,0,,,,32110232110
+2,Belgium,15,Sheraz Sheikh,HV Mandhyan,Shagharai Sefat,,0,0,0,,,,32110232110
+2,Belgium,15,Sheraz Sheikh,HV Mandhyan,Shagharai Sefat,,0,0,0,caught,Sheraz Sheikh,Zeeshan Kukikhel,32110232110
+2,Belgium,15,Shagharai Sefat,HV Mandhyan,Ahmad Khalid Ahmadzai,wides,1,1,0,,,,32110232110
+2,Belgium,15,Shagharai Sefat,HV Mandhyan,Ahmad Khalid Ahmadzai,,0,1,1,,,,32110232110
+2,Belgium,15,Ahmad Khalid Ahmadzai,HV Mandhyan,Shagharai Sefat,,0,0,0,,,,32110232110
+2,Belgium,16,Shagharai Sefat,BP Adapaka,Ahmad Khalid Ahmadzai,,0,0,0,caught,Shagharai Sefat,Khaibar Deldar,32110232110
+2,Belgium,16,Ahmad Khalid Ahmadzai,BP Adapaka,Murid Ekrami,,0,0,0,,,,32110232110
+2,Belgium,16,Ahmad Khalid Ahmadzai,BP Adapaka,Murid Ekrami,,0,1,1,,,,32110232110
+2,Belgium,16,Murid Ekrami,BP Adapaka,Ahmad Khalid Ahmadzai,,0,0,0,,,,32110232110
+2,Belgium,16,Murid Ekrami,BP Adapaka,Ahmad Khalid Ahmadzai,wides,1,1,0,,,,32110232110
+2,Belgium,16,Murid Ekrami,BP Adapaka,Ahmad Khalid Ahmadzai,,0,0,0,,,,32110232110
+2,Belgium,16,Murid Ekrami,BP Adapaka,Ahmad Khalid Ahmadzai,,0,0,0,,,,32110232110
+2,Belgium,17,Ahmad Khalid Ahmadzai,HV Mandhyan,Murid Ekrami,,0,0,0,,,,32110232110
+2,Belgium,17,Ahmad Khalid Ahmadzai,HV Mandhyan,Murid Ekrami,,0,0,0,caught,Ahmad Khalid Ahmadzai,Zeeshan Kukikhel,32110232110
+2,Belgium,17,Murid Ekrami,HV Mandhyan,Sajad Ahmadzai,,0,1,1,,,,32110232110
+2,Belgium,17,Sajad Ahmadzai,HV Mandhyan,Murid Ekrami,,0,2,2,,,,32110232110
+2,Belgium,17,Sajad Ahmadzai,HV Mandhyan,Murid Ekrami,,0,4,4,,,,32110232110
+2,Belgium,17,Sajad Ahmadzai,HV Mandhyan,Murid Ekrami,,0,3,3,,,,32110232110
+2,Belgium,18,Sajad Ahmadzai,A Kheterpal,Murid Ekrami,wides,1,1,0,,,,32110232110
+2,Belgium,18,Sajad Ahmadzai,A Kheterpal,Murid Ekrami,,0,1,1,,,,32110232110
+2,Belgium,18,Murid Ekrami,A Kheterpal,Sajad Ahmadzai,,0,4,4,,,,32110232110
+2,Belgium,18,Murid Ekrami,A Kheterpal,Sajad Ahmadzai,wides,1,1,0,,,,32110232110
+2,Belgium,18,Murid Ekrami,A Kheterpal,Sajad Ahmadzai,,0,1,1,,,,32110232110
+2,Belgium,18,Sajad Ahmadzai,A Kheterpal,Murid Ekrami,,0,1,1,,,,32110232110
+2,Belgium,18,Murid Ekrami,A Kheterpal,Sajad Ahmadzai,,0,2,2,,,,32110232110
+2,Belgium,18,Murid Ekrami,A Kheterpal,Sajad Ahmadzai,,0,0,0,,,,32110232110
+2,Belgium,19,Sajad Ahmadzai,HV Mandhyan,Murid Ekrami,,0,1,1,,,,32110232110
+2,Belgium,19,Murid Ekrami,HV Mandhyan,Sajad Ahmadzai,,0,2,2,,,,32110232110
+2,Belgium,19,Murid Ekrami,HV Mandhyan,Sajad Ahmadzai,,0,4,4,,,,32110232110
+2,Belgium,19,Murid Ekrami,HV Mandhyan,Sajad Ahmadzai,,0,4,4,,,,32110232110

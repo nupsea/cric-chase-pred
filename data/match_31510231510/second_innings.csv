@@ -1,0 +1,105 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Scotland,0,SJ Bryce,O Prendergast,RS Glen,,0,1,1,,,,31510231510
+2,Scotland,0,RS Glen,O Prendergast,SJ Bryce,,0,0,0,bowled,RS Glen,,31510231510
+2,Scotland,0,KE Bryce,O Prendergast,SJ Bryce,,0,1,1,,,,31510231510
+2,Scotland,0,SJ Bryce,O Prendergast,KE Bryce,,0,0,0,,,,31510231510
+2,Scotland,0,SJ Bryce,O Prendergast,KE Bryce,,0,0,0,,,,31510231510
+2,Scotland,0,SJ Bryce,O Prendergast,KE Bryce,,0,0,0,,,,31510231510
+2,Scotland,1,KE Bryce,A Canning,SJ Bryce,,0,0,0,,,,31510231510
+2,Scotland,1,KE Bryce,A Canning,SJ Bryce,,0,0,0,,,,31510231510
+2,Scotland,1,KE Bryce,A Canning,SJ Bryce,,0,4,4,,,,31510231510
+2,Scotland,1,KE Bryce,A Canning,SJ Bryce,,0,0,0,,,,31510231510
+2,Scotland,1,KE Bryce,A Canning,SJ Bryce,,0,0,0,,,,31510231510
+2,Scotland,1,KE Bryce,A Canning,SJ Bryce,,0,0,0,,,,31510231510
+2,Scotland,2,SJ Bryce,O Prendergast,KE Bryce,,0,0,0,,,,31510231510
+2,Scotland,2,SJ Bryce,O Prendergast,KE Bryce,,0,1,1,,,,31510231510
+2,Scotland,2,KE Bryce,O Prendergast,SJ Bryce,,0,0,0,,,,31510231510
+2,Scotland,2,KE Bryce,O Prendergast,SJ Bryce,,0,0,0,,,,31510231510
+2,Scotland,2,KE Bryce,O Prendergast,SJ Bryce,,0,4,4,,,,31510231510
+2,Scotland,2,KE Bryce,O Prendergast,SJ Bryce,,0,0,0,,,,31510231510
+2,Scotland,3,SJ Bryce,A Canning,KE Bryce,,0,0,0,caught,SJ Bryce,C Murray,31510231510
+2,Scotland,3,K McGill,A Canning,KE Bryce,,0,0,0,,,,31510231510
+2,Scotland,3,K McGill,A Canning,KE Bryce,,0,0,0,,,,31510231510
+2,Scotland,3,K McGill,A Canning,KE Bryce,,0,0,0,,,,31510231510
+2,Scotland,3,K McGill,A Canning,KE Bryce,,0,2,2,,,,31510231510
+2,Scotland,3,K McGill,A Canning,KE Bryce,wides,1,1,0,,,,31510231510
+2,Scotland,3,K McGill,A Canning,KE Bryce,,0,1,1,,,,31510231510
+2,Scotland,4,K McGill,O Prendergast,KE Bryce,wides,1,1,0,,,,31510231510
+2,Scotland,4,K McGill,O Prendergast,KE Bryce,,0,1,1,,,,31510231510
+2,Scotland,4,KE Bryce,O Prendergast,K McGill,,0,4,4,,,,31510231510
+2,Scotland,4,KE Bryce,O Prendergast,K McGill,,0,0,0,,,,31510231510
+2,Scotland,4,KE Bryce,O Prendergast,K McGill,,0,1,1,,,,31510231510
+2,Scotland,4,K McGill,O Prendergast,KE Bryce,,0,0,0,,,,31510231510
+2,Scotland,4,K McGill,O Prendergast,KE Bryce,,0,0,0,,,,31510231510
+2,Scotland,5,KE Bryce,A Canning,K McGill,,0,0,0,,,,31510231510
+2,Scotland,5,KE Bryce,A Canning,K McGill,,0,0,0,,,,31510231510
+2,Scotland,5,KE Bryce,A Canning,K McGill,wides,1,1,0,,,,31510231510
+2,Scotland,5,KE Bryce,A Canning,K McGill,,0,0,0,,,,31510231510
+2,Scotland,5,KE Bryce,A Canning,K McGill,,0,0,0,,,,31510231510
+2,Scotland,5,KE Bryce,A Canning,K McGill,,0,1,1,,,,31510231510
+2,Scotland,5,K McGill,A Canning,KE Bryce,,0,1,1,,,,31510231510
+2,Scotland,6,K McGill,L Paul,KE Bryce,,0,1,1,,,,31510231510
+2,Scotland,6,KE Bryce,L Paul,K McGill,,0,0,0,,,,31510231510
+2,Scotland,6,KE Bryce,L Paul,K McGill,,0,0,0,,,,31510231510
+2,Scotland,6,KE Bryce,L Paul,K McGill,,0,2,2,,,,31510231510
+2,Scotland,6,KE Bryce,L Paul,K McGill,,0,0,0,caught,KE Bryce,L Maritz,31510231510
+2,Scotland,6,PA Chatterji,L Paul,K McGill,,0,0,0,,,,31510231510
+2,Scotland,7,K McGill,L Maritz,PA Chatterji,,0,1,1,,,,31510231510
+2,Scotland,7,PA Chatterji,L Maritz,K McGill,,0,0,0,,,,31510231510
+2,Scotland,7,PA Chatterji,L Maritz,K McGill,,0,1,1,,,,31510231510
+2,Scotland,7,K McGill,L Maritz,PA Chatterji,,0,0,0,,,,31510231510
+2,Scotland,7,K McGill,L Maritz,PA Chatterji,,0,1,1,,,,31510231510
+2,Scotland,7,PA Chatterji,L Maritz,K McGill,wides,1,1,0,,,,31510231510
+2,Scotland,7,PA Chatterji,L Maritz,K McGill,wides,1,1,0,,,,31510231510
+2,Scotland,7,PA Chatterji,L Maritz,K McGill,,0,1,1,,,,31510231510
+2,Scotland,8,PA Chatterji,L Paul,K McGill,,0,1,1,,,,31510231510
+2,Scotland,8,K McGill,L Paul,PA Chatterji,,0,1,1,,,,31510231510
+2,Scotland,8,PA Chatterji,L Paul,K McGill,,0,0,0,,,,31510231510
+2,Scotland,8,PA Chatterji,L Paul,K McGill,,0,0,0,,,,31510231510
+2,Scotland,8,PA Chatterji,L Paul,K McGill,,0,0,0,,,,31510231510
+2,Scotland,8,PA Chatterji,L Paul,K McGill,,0,4,4,,,,31510231510
+2,Scotland,9,K McGill,C Murray,PA Chatterji,,0,1,1,,,,31510231510
+2,Scotland,9,PA Chatterji,C Murray,K McGill,,0,1,1,,,,31510231510
+2,Scotland,9,K McGill,C Murray,PA Chatterji,,0,0,0,,,,31510231510
+2,Scotland,9,K McGill,C Murray,PA Chatterji,,0,4,4,,,,31510231510
+2,Scotland,9,K McGill,C Murray,PA Chatterji,,0,1,1,,,,31510231510
+2,Scotland,9,PA Chatterji,C Murray,K McGill,,0,1,1,,,,31510231510
+2,Scotland,10,PA Chatterji,C Raack,K McGill,,0,0,0,caught,PA Chatterji,L Paul,31510231510
+2,Scotland,10,A Lister,C Raack,K McGill,,0,1,1,,,,31510231510
+2,Scotland,10,K McGill,C Raack,A Lister,,0,0,0,,,,31510231510
+2,Scotland,10,K McGill,C Raack,A Lister,,0,2,2,,,,31510231510
+2,Scotland,10,K McGill,C Raack,A Lister,,0,0,0,,,,31510231510
+2,Scotland,10,K McGill,C Raack,A Lister,,0,2,2,,,,31510231510
+2,Scotland,11,A Lister,L Delany,K McGill,,0,0,0,,,,31510231510
+2,Scotland,11,A Lister,L Delany,K McGill,,0,0,0,,,,31510231510
+2,Scotland,11,A Lister,L Delany,K McGill,,0,0,0,,,,31510231510
+2,Scotland,11,A Lister,L Delany,K McGill,,0,1,1,,,,31510231510
+2,Scotland,11,K McGill,L Delany,A Lister,,0,0,0,bowled,K McGill,,31510231510
+2,Scotland,11,A Aitken,L Delany,A Lister,,0,0,0,,,,31510231510
+2,Scotland,12,A Lister,L Paul,A Aitken,,0,0,0,,,,31510231510
+2,Scotland,12,A Lister,L Paul,A Aitken,,0,1,1,,,,31510231510
+2,Scotland,12,A Aitken,L Paul,A Lister,,0,1,1,,,,31510231510
+2,Scotland,12,A Lister,L Paul,A Aitken,,0,0,0,caught,A Lister,O Prendergast,31510231510
+2,Scotland,12,A Aitken,L Paul,M McColl,,0,1,1,,,,31510231510
+2,Scotland,12,M McColl,L Paul,A Aitken,,0,0,0,lbw,M McColl,,31510231510
+2,Scotland,13,A Aitken,L Delany,K Fraser,,0,0,0,,,,31510231510
+2,Scotland,13,A Aitken,L Delany,K Fraser,,0,1,1,,,,31510231510
+2,Scotland,13,K Fraser,L Delany,A Aitken,,0,1,1,,,,31510231510
+2,Scotland,13,A Aitken,L Delany,K Fraser,,0,0,0,,,,31510231510
+2,Scotland,13,A Aitken,L Delany,K Fraser,,0,6,6,,,,31510231510
+2,Scotland,13,A Aitken,L Delany,K Fraser,,0,0,0,lbw,A Aitken,,31510231510
+2,Scotland,14,K Fraser,L Paul,AH Maqsood,,0,1,1,,,,31510231510
+2,Scotland,14,AH Maqsood,L Paul,K Fraser,,0,1,1,,,,31510231510
+2,Scotland,14,K Fraser,L Paul,AH Maqsood,,0,0,0,caught,K Fraser,O Prendergast,31510231510
+2,Scotland,14,AH Maqsood,L Paul,S Haggo,,0,1,1,,,,31510231510
+2,Scotland,14,S Haggo,L Paul,AH Maqsood,,0,0,0,,,,31510231510
+2,Scotland,14,S Haggo,L Paul,AH Maqsood,,0,1,1,,,,31510231510
+2,Scotland,15,S Haggo,L Delany,AH Maqsood,,0,1,1,,,,31510231510
+2,Scotland,15,AH Maqsood,L Delany,S Haggo,,0,1,1,,,,31510231510
+2,Scotland,15,S Haggo,L Delany,AH Maqsood,,0,0,0,,,,31510231510
+2,Scotland,15,S Haggo,L Delany,AH Maqsood,,0,0,0,,,,31510231510
+2,Scotland,15,S Haggo,L Delany,AH Maqsood,,0,0,0,,,,31510231510
+2,Scotland,15,S Haggo,L Delany,AH Maqsood,,0,0,0,,,,31510231510
+2,Scotland,16,AH Maqsood,O Prendergast,S Haggo,,0,1,1,,,,31510231510
+2,Scotland,16,S Haggo,O Prendergast,AH Maqsood,,0,4,4,,,,31510231510
+2,Scotland,16,S Haggo,O Prendergast,AH Maqsood,,0,0,0,bowled,S Haggo,,31510231510

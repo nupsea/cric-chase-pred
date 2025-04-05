@@ -1,0 +1,100 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Sri Lanka,0,PM Weerakkody,Sana Mir,AC Jayangani,,0,1,1,,,,349623496
+2,Sri Lanka,0,AC Jayangani,Sana Mir,PM Weerakkody,,0,1,1,,,,349623496
+2,Sri Lanka,0,PM Weerakkody,Sana Mir,AC Jayangani,,0,1,1,,,,349623496
+2,Sri Lanka,0,AC Jayangani,Sana Mir,PM Weerakkody,wides,1,1,0,,,,349623496
+2,Sri Lanka,0,AC Jayangani,Sana Mir,PM Weerakkody,,0,0,0,,,,349623496
+2,Sri Lanka,0,AC Jayangani,Sana Mir,PM Weerakkody,,0,0,0,,,,349623496
+2,Sri Lanka,0,AC Jayangani,Sana Mir,PM Weerakkody,,0,0,0,,,,349623496
+2,Sri Lanka,1,PM Weerakkody,Nida Dar,AC Jayangani,,0,0,0,,,,349623496
+2,Sri Lanka,1,PM Weerakkody,Nida Dar,AC Jayangani,,0,1,1,,,,349623496
+2,Sri Lanka,1,AC Jayangani,Nida Dar,PM Weerakkody,,0,1,1,,,,349623496
+2,Sri Lanka,1,PM Weerakkody,Nida Dar,AC Jayangani,,0,1,1,,,,349623496
+2,Sri Lanka,1,AC Jayangani,Nida Dar,PM Weerakkody,,0,0,0,,,,349623496
+2,Sri Lanka,1,AC Jayangani,Nida Dar,PM Weerakkody,,0,1,1,,,,349623496
+2,Sri Lanka,2,AC Jayangani,Sana Mir,PM Weerakkody,,0,0,0,,,,349623496
+2,Sri Lanka,2,AC Jayangani,Sana Mir,PM Weerakkody,,0,2,2,,,,349623496
+2,Sri Lanka,2,AC Jayangani,Sana Mir,PM Weerakkody,,0,0,0,,,,349623496
+2,Sri Lanka,2,AC Jayangani,Sana Mir,PM Weerakkody,,0,0,0,lbw,AC Jayangani,,349623496
+2,Sri Lanka,2,MADD Surangika,Sana Mir,PM Weerakkody,,0,2,2,,,,349623496
+2,Sri Lanka,2,MADD Surangika,Sana Mir,PM Weerakkody,,0,1,1,,,,349623496
+2,Sri Lanka,3,MADD Surangika,Sadia Yousuf,PM Weerakkody,,0,0,0,,,,349623496
+2,Sri Lanka,3,MADD Surangika,Sadia Yousuf,PM Weerakkody,,0,1,1,,,,349623496
+2,Sri Lanka,3,PM Weerakkody,Sadia Yousuf,MADD Surangika,,0,2,2,,,,349623496
+2,Sri Lanka,3,PM Weerakkody,Sadia Yousuf,MADD Surangika,,0,0,0,,,,349623496
+2,Sri Lanka,3,PM Weerakkody,Sadia Yousuf,MADD Surangika,,0,0,0,caught,PM Weerakkody,Sana Mir,349623496
+2,Sri Lanka,3,MADD Surangika,Sadia Yousuf,GWHM Perera,,0,1,1,,,,349623496
+2,Sri Lanka,4,MADD Surangika,Nida Dar,GWHM Perera,,0,0,0,run out,MADD Surangika,Nida Dar,349623496
+2,Sri Lanka,4,GWHM Perera,Nida Dar,LE Kaushalya,,0,0,0,,,,349623496
+2,Sri Lanka,4,GWHM Perera,Nida Dar,LE Kaushalya,,0,1,1,,,,349623496
+2,Sri Lanka,4,LE Kaushalya,Nida Dar,GWHM Perera,,0,1,1,,,,349623496
+2,Sri Lanka,4,GWHM Perera,Nida Dar,LE Kaushalya,,0,0,0,,,,349623496
+2,Sri Lanka,4,GWHM Perera,Nida Dar,LE Kaushalya,,0,0,0,,,,349623496
+2,Sri Lanka,5,LE Kaushalya,Sania Khan,GWHM Perera,,0,0,0,,,,349623496
+2,Sri Lanka,5,LE Kaushalya,Sania Khan,GWHM Perera,,0,1,1,,,,349623496
+2,Sri Lanka,5,GWHM Perera,Sania Khan,LE Kaushalya,,0,0,0,,,,349623496
+2,Sri Lanka,5,GWHM Perera,Sania Khan,LE Kaushalya,,0,0,0,bowled,GWHM Perera,,349623496
+2,Sri Lanka,5,MGMCP Gunawardene,Sania Khan,LE Kaushalya,,0,3,3,,,,349623496
+2,Sri Lanka,5,LE Kaushalya,Sania Khan,MGMCP Gunawardene,,0,1,1,,,,349623496
+2,Sri Lanka,6,LE Kaushalya,Sadia Yousuf,MGMCP Gunawardene,,0,1,1,,,,349623496
+2,Sri Lanka,6,MGMCP Gunawardene,Sadia Yousuf,LE Kaushalya,,0,2,2,,,,349623496
+2,Sri Lanka,6,MGMCP Gunawardene,Sadia Yousuf,LE Kaushalya,,0,1,1,,,,349623496
+2,Sri Lanka,6,LE Kaushalya,Sadia Yousuf,MGMCP Gunawardene,,0,1,1,,,,349623496
+2,Sri Lanka,6,MGMCP Gunawardene,Sadia Yousuf,LE Kaushalya,,0,1,1,,,,349623496
+2,Sri Lanka,6,LE Kaushalya,Sadia Yousuf,MGMCP Gunawardene,,0,0,0,,,,349623496
+2,Sri Lanka,7,MGMCP Gunawardene,Sania Khan,LE Kaushalya,,0,0,0,,,,349623496
+2,Sri Lanka,7,MGMCP Gunawardene,Sania Khan,LE Kaushalya,,0,1,1,,,,349623496
+2,Sri Lanka,7,LE Kaushalya,Sania Khan,MGMCP Gunawardene,,0,0,0,,,,349623496
+2,Sri Lanka,7,LE Kaushalya,Sania Khan,MGMCP Gunawardene,,0,1,1,,,,349623496
+2,Sri Lanka,7,MGMCP Gunawardene,Sania Khan,LE Kaushalya,,0,0,0,,,,349623496
+2,Sri Lanka,7,MGMCP Gunawardene,Sania Khan,LE Kaushalya,,0,1,1,,,,349623496
+2,Sri Lanka,8,MGMCP Gunawardene,Nida Dar,LE Kaushalya,,0,1,1,,,,349623496
+2,Sri Lanka,8,LE Kaushalya,Nida Dar,MGMCP Gunawardene,,0,1,1,run out,LE Kaushalya,Naila Nazir,349623496
+2,Sri Lanka,8,KADA Kanchana,Nida Dar,MGMCP Gunawardene,,0,1,1,,,,349623496
+2,Sri Lanka,8,MGMCP Gunawardene,Nida Dar,KADA Kanchana,,0,1,1,,,,349623496
+2,Sri Lanka,8,KADA Kanchana,Nida Dar,MGMCP Gunawardene,wides,2,2,0,,,,349623496
+2,Sri Lanka,8,MGMCP Gunawardene,Nida Dar,KADA Kanchana,,0,0,0,,,,349623496
+2,Sri Lanka,8,MGMCP Gunawardene,Nida Dar,KADA Kanchana,,0,1,1,,,,349623496
+2,Sri Lanka,9,MGMCP Gunawardene,Naila Nazir,KADA Kanchana,,0,0,0,,,,349623496
+2,Sri Lanka,9,MGMCP Gunawardene,Naila Nazir,KADA Kanchana,,0,1,1,,,,349623496
+2,Sri Lanka,9,KADA Kanchana,Naila Nazir,MGMCP Gunawardene,,0,1,1,,,,349623496
+2,Sri Lanka,9,MGMCP Gunawardene,Naila Nazir,KADA Kanchana,,0,1,1,,,,349623496
+2,Sri Lanka,9,KADA Kanchana,Naila Nazir,MGMCP Gunawardene,,0,0,0,,,,349623496
+2,Sri Lanka,9,KADA Kanchana,Naila Nazir,MGMCP Gunawardene,,0,3,3,,,,349623496
+2,Sri Lanka,10,KADA Kanchana,Bismah Maroof,MGMCP Gunawardene,,0,0,0,,,,349623496
+2,Sri Lanka,10,KADA Kanchana,Bismah Maroof,MGMCP Gunawardene,,0,1,1,,,,349623496
+2,Sri Lanka,10,MGMCP Gunawardene,Bismah Maroof,KADA Kanchana,,0,0,0,stumped,MGMCP Gunawardene,Nahida Khan,349623496
+2,Sri Lanka,10,SS Weerakkody,Bismah Maroof,KADA Kanchana,,0,0,0,,,,349623496
+2,Sri Lanka,10,SS Weerakkody,Bismah Maroof,KADA Kanchana,,0,1,1,,,,349623496
+2,Sri Lanka,10,KADA Kanchana,Bismah Maroof,SS Weerakkody,,0,1,1,,,,349623496
+2,Sri Lanka,11,KADA Kanchana,Naila Nazir,SS Weerakkody,noballs,1,2,1,,,,349623496
+2,Sri Lanka,11,SS Weerakkody,Naila Nazir,KADA Kanchana,wides,1,1,0,,,,349623496
+2,Sri Lanka,11,SS Weerakkody,Naila Nazir,KADA Kanchana,,0,0,0,,,,349623496
+2,Sri Lanka,11,SS Weerakkody,Naila Nazir,KADA Kanchana,wides,2,2,0,,,,349623496
+2,Sri Lanka,11,KADA Kanchana,Naila Nazir,SS Weerakkody,,0,1,1,,,,349623496
+2,Sri Lanka,11,SS Weerakkody,Naila Nazir,KADA Kanchana,byes,1,1,0,,,,349623496
+2,Sri Lanka,11,KADA Kanchana,Naila Nazir,SS Weerakkody,,0,0,0,,,,349623496
+2,Sri Lanka,11,KADA Kanchana,Naila Nazir,SS Weerakkody,,0,0,0,,,,349623496
+2,Sri Lanka,11,KADA Kanchana,Naila Nazir,SS Weerakkody,,0,1,1,,,,349623496
+2,Sri Lanka,12,KADA Kanchana,Sana Mir,SS Weerakkody,,0,0,0,bowled,KADA Kanchana,,349623496
+2,Sri Lanka,12,HAM Samuddika,Sana Mir,SS Weerakkody,,0,0,0,lbw,HAM Samuddika,,349623496
+2,Sri Lanka,12,I Ranaweera,Sana Mir,SS Weerakkody,,0,0,0,lbw,I Ranaweera,,349623496
+2,Sri Lanka,12,BMSM Kumari,Sana Mir,SS Weerakkody,,0,0,0,,,,349623496
+2,Sri Lanka,12,BMSM Kumari,Sana Mir,SS Weerakkody,,0,0,0,,,,349623496
+2,Sri Lanka,12,BMSM Kumari,Sana Mir,SS Weerakkody,,0,0,0,,,,349623496
+2,Sri Lanka,13,SS Weerakkody,Naila Nazir,BMSM Kumari,,0,1,1,,,,349623496
+2,Sri Lanka,13,BMSM Kumari,Naila Nazir,SS Weerakkody,,0,1,1,,,,349623496
+2,Sri Lanka,13,SS Weerakkody,Naila Nazir,BMSM Kumari,,0,1,1,,,,349623496
+2,Sri Lanka,13,BMSM Kumari,Naila Nazir,SS Weerakkody,wides,1,1,0,,,,349623496
+2,Sri Lanka,13,BMSM Kumari,Naila Nazir,SS Weerakkody,,0,0,0,,,,349623496
+2,Sri Lanka,13,BMSM Kumari,Naila Nazir,SS Weerakkody,,0,0,0,,,,349623496
+2,Sri Lanka,13,BMSM Kumari,Naila Nazir,SS Weerakkody,,0,2,2,,,,349623496
+2,Sri Lanka,14,SS Weerakkody,Sana Mir,BMSM Kumari,,0,4,4,,,,349623496
+2,Sri Lanka,14,SS Weerakkody,Sana Mir,BMSM Kumari,,0,1,1,,,,349623496
+2,Sri Lanka,14,BMSM Kumari,Sana Mir,SS Weerakkody,,0,0,0,,,,349623496
+2,Sri Lanka,14,BMSM Kumari,Sana Mir,SS Weerakkody,,0,0,0,,,,349623496
+2,Sri Lanka,14,BMSM Kumari,Sana Mir,SS Weerakkody,,0,0,0,,,,349623496
+2,Sri Lanka,14,BMSM Kumari,Sana Mir,SS Weerakkody,,0,0,0,,,,349623496
+2,Sri Lanka,15,SS Weerakkody,Bismah Maroof,BMSM Kumari,,0,1,1,,,,349623496
+2,Sri Lanka,15,BMSM Kumari,Bismah Maroof,SS Weerakkody,,0,0,0,,,,349623496
+2,Sri Lanka,15,BMSM Kumari,Bismah Maroof,SS Weerakkody,,0,0,0,caught,BMSM Kumari,Marina Iqbal,349623496

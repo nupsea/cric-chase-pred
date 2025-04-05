@@ -1,0 +1,127 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,D van Niekerk,TD Smartt,T Chetty,,0,0,0,,,,355323553
+1,South Africa,0,D van Niekerk,TD Smartt,T Chetty,,0,0,0,,,,355323553
+1,South Africa,0,D van Niekerk,TD Smartt,T Chetty,wides,1,1,0,,,,355323553
+1,South Africa,0,D van Niekerk,TD Smartt,T Chetty,,0,0,0,,,,355323553
+1,South Africa,0,D van Niekerk,TD Smartt,T Chetty,,0,0,0,,,,355323553
+1,South Africa,0,D van Niekerk,TD Smartt,T Chetty,,0,0,0,,,,355323553
+1,South Africa,0,D van Niekerk,TD Smartt,T Chetty,,0,0,0,,,,355323553
+1,South Africa,1,T Chetty,SS Connell,D van Niekerk,,0,0,0,,,,355323553
+1,South Africa,1,T Chetty,SS Connell,D van Niekerk,,0,0,0,caught,T Chetty,HK Matthews,355323553
+1,South Africa,1,M du Preez,SS Connell,D van Niekerk,,0,0,0,,,,355323553
+1,South Africa,1,M du Preez,SS Connell,D van Niekerk,,0,0,0,,,,355323553
+1,South Africa,1,M du Preez,SS Connell,D van Niekerk,,0,1,1,,,,355323553
+1,South Africa,1,D van Niekerk,SS Connell,M du Preez,,0,0,0,,,,355323553
+1,South Africa,2,M du Preez,TD Smartt,D van Niekerk,,0,0,0,,,,355323553
+1,South Africa,2,M du Preez,TD Smartt,D van Niekerk,,0,0,0,,,,355323553
+1,South Africa,2,M du Preez,TD Smartt,D van Niekerk,,0,1,1,,,,355323553
+1,South Africa,2,D van Niekerk,TD Smartt,M du Preez,,0,0,0,,,,355323553
+1,South Africa,2,D van Niekerk,TD Smartt,M du Preez,,0,4,4,,,,355323553
+1,South Africa,2,D van Niekerk,TD Smartt,M du Preez,,0,0,0,,,,355323553
+1,South Africa,3,M du Preez,SS Connell,D van Niekerk,,0,0,0,,,,355323553
+1,South Africa,3,M du Preez,SS Connell,D van Niekerk,,0,1,1,,,,355323553
+1,South Africa,3,D van Niekerk,SS Connell,M du Preez,,0,0,0,,,,355323553
+1,South Africa,3,D van Niekerk,SS Connell,M du Preez,,0,1,1,,,,355323553
+1,South Africa,3,M du Preez,SS Connell,D van Niekerk,,0,0,0,,,,355323553
+1,South Africa,3,M du Preez,SS Connell,D van Niekerk,,0,1,1,,,,355323553
+1,South Africa,4,M du Preez,A Mohammed,D van Niekerk,,0,0,0,,,,355323553
+1,South Africa,4,M du Preez,A Mohammed,D van Niekerk,,0,4,4,,,,355323553
+1,South Africa,4,M du Preez,A Mohammed,D van Niekerk,,0,2,2,,,,355323553
+1,South Africa,4,M du Preez,A Mohammed,D van Niekerk,,0,0,0,,,,355323553
+1,South Africa,4,M du Preez,A Mohammed,D van Niekerk,,0,4,4,,,,355323553
+1,South Africa,4,M du Preez,A Mohammed,D van Niekerk,,0,0,0,,,,355323553
+1,South Africa,5,D van Niekerk,SS Connell,M du Preez,,0,1,1,,,,355323553
+1,South Africa,5,M du Preez,SS Connell,D van Niekerk,,0,1,1,,,,355323553
+1,South Africa,5,D van Niekerk,SS Connell,M du Preez,,0,2,2,,,,355323553
+1,South Africa,5,D van Niekerk,SS Connell,M du Preez,,0,2,2,,,,355323553
+1,South Africa,5,D van Niekerk,SS Connell,M du Preez,,0,0,0,,,,355323553
+1,South Africa,5,D van Niekerk,SS Connell,M du Preez,,0,4,4,,,,355323553
+1,South Africa,6,M du Preez,A Mohammed,D van Niekerk,,0,1,1,,,,355323553
+1,South Africa,6,D van Niekerk,A Mohammed,M du Preez,byes,1,1,0,,,,355323553
+1,South Africa,6,M du Preez,A Mohammed,D van Niekerk,,0,1,1,,,,355323553
+1,South Africa,6,D van Niekerk,A Mohammed,M du Preez,,0,1,1,,,,355323553
+1,South Africa,6,M du Preez,A Mohammed,D van Niekerk,,0,2,2,,,,355323553
+1,South Africa,6,M du Preez,A Mohammed,D van Niekerk,,0,1,1,,,,355323553
+1,South Africa,7,M du Preez,SR Taylor,D van Niekerk,,0,0,0,,,,355323553
+1,South Africa,7,M du Preez,SR Taylor,D van Niekerk,,0,0,0,,,,355323553
+1,South Africa,7,M du Preez,SR Taylor,D van Niekerk,,0,1,1,,,,355323553
+1,South Africa,7,D van Niekerk,SR Taylor,M du Preez,,0,0,0,,,,355323553
+1,South Africa,7,D van Niekerk,SR Taylor,M du Preez,,0,1,1,,,,355323553
+1,South Africa,7,M du Preez,SR Taylor,D van Niekerk,wides,1,1,0,,,,355323553
+1,South Africa,7,M du Preez,SR Taylor,D van Niekerk,,0,1,1,,,,355323553
+1,South Africa,8,M du Preez,HK Matthews,D van Niekerk,,0,0,0,,,,355323553
+1,South Africa,8,M du Preez,HK Matthews,D van Niekerk,,0,1,1,,,,355323553
+1,South Africa,8,D van Niekerk,HK Matthews,M du Preez,,0,0,0,,,,355323553
+1,South Africa,8,D van Niekerk,HK Matthews,M du Preez,,0,2,2,,,,355323553
+1,South Africa,8,D van Niekerk,HK Matthews,M du Preez,,0,4,4,,,,355323553
+1,South Africa,8,D van Niekerk,HK Matthews,M du Preez,,0,1,1,,,,355323553
+1,South Africa,9,D van Niekerk,SR Taylor,M du Preez,,0,0,0,bowled,D van Niekerk,,355323553
+1,South Africa,9,M Kapp,SR Taylor,M du Preez,,0,0,0,,,,355323553
+1,South Africa,9,M Kapp,SR Taylor,M du Preez,,0,1,1,,,,355323553
+1,South Africa,9,M du Preez,SR Taylor,M Kapp,wides,1,1,0,,,,355323553
+1,South Africa,9,M du Preez,SR Taylor,M Kapp,,0,0,0,,,,355323553
+1,South Africa,9,M du Preez,SR Taylor,M Kapp,,0,1,1,,,,355323553
+1,South Africa,9,M Kapp,SR Taylor,M du Preez,,0,0,0,,,,355323553
+1,South Africa,10,M du Preez,HK Matthews,M Kapp,,0,4,4,,,,355323553
+1,South Africa,10,M du Preez,HK Matthews,M Kapp,,0,1,1,,,,355323553
+1,South Africa,10,M Kapp,HK Matthews,M du Preez,,0,1,1,,,,355323553
+1,South Africa,10,M du Preez,HK Matthews,M Kapp,,0,1,1,,,,355323553
+1,South Africa,10,M Kapp,HK Matthews,M du Preez,,0,1,1,,,,355323553
+1,South Africa,10,M du Preez,HK Matthews,M Kapp,,0,0,0,,,,355323553
+1,South Africa,11,M Kapp,SL Quintyne,M du Preez,,0,1,1,,,,355323553
+1,South Africa,11,M du Preez,SL Quintyne,M Kapp,,0,0,0,,,,355323553
+1,South Africa,11,M du Preez,SL Quintyne,M Kapp,,0,1,1,,,,355323553
+1,South Africa,11,M Kapp,SL Quintyne,M du Preez,,0,1,1,,,,355323553
+1,South Africa,11,M du Preez,SL Quintyne,M Kapp,noballs,1,2,1,,,,355323553
+1,South Africa,11,M Kapp,SL Quintyne,M du Preez,,0,0,0,,,,355323553
+1,South Africa,11,M Kapp,SL Quintyne,M du Preez,,0,0,0,,,,355323553
+1,South Africa,12,M du Preez,A Mohammed,M Kapp,,0,0,0,caught,M du Preez,SACA King,355323553
+1,South Africa,12,L Lee,A Mohammed,M Kapp,,0,0,0,,,,355323553
+1,South Africa,12,L Lee,A Mohammed,M Kapp,,0,0,0,,,,355323553
+1,South Africa,12,L Lee,A Mohammed,M Kapp,,0,1,1,,,,355323553
+1,South Africa,12,M Kapp,A Mohammed,L Lee,,0,1,1,,,,355323553
+1,South Africa,12,L Lee,A Mohammed,M Kapp,,0,0,0,,,,355323553
+1,South Africa,13,M Kapp,SL Quintyne,L Lee,,0,0,0,,,,355323553
+1,South Africa,13,M Kapp,SL Quintyne,L Lee,,0,1,1,,,,355323553
+1,South Africa,13,L Lee,SL Quintyne,M Kapp,,0,0,0,,,,355323553
+1,South Africa,13,L Lee,SL Quintyne,M Kapp,,0,4,4,,,,355323553
+1,South Africa,13,L Lee,SL Quintyne,M Kapp,,0,1,1,,,,355323553
+1,South Africa,13,M Kapp,SL Quintyne,L Lee,,0,1,1,,,,355323553
+1,South Africa,14,M Kapp,TD Smartt,L Lee,noballs,1,1,0,,,,355323553
+1,South Africa,14,M Kapp,TD Smartt,L Lee,,0,0,0,,,,355323553
+1,South Africa,14,M Kapp,TD Smartt,L Lee,,0,4,4,,,,355323553
+1,South Africa,14,M Kapp,TD Smartt,L Lee,,0,0,0,,,,355323553
+1,South Africa,14,M Kapp,TD Smartt,L Lee,,0,1,1,,,,355323553
+1,South Africa,14,L Lee,TD Smartt,M Kapp,,0,1,1,,,,355323553
+1,South Africa,14,M Kapp,TD Smartt,L Lee,,0,1,1,,,,355323553
+1,South Africa,15,M Kapp,HK Matthews,L Lee,,0,1,1,,,,355323553
+1,South Africa,15,L Lee,HK Matthews,M Kapp,,0,1,1,,,,355323553
+1,South Africa,15,M Kapp,HK Matthews,L Lee,,0,1,1,,,,355323553
+1,South Africa,15,L Lee,HK Matthews,M Kapp,,0,1,1,,,,355323553
+1,South Africa,15,M Kapp,HK Matthews,L Lee,,0,1,1,,,,355323553
+1,South Africa,15,L Lee,HK Matthews,M Kapp,,0,1,1,,,,355323553
+1,South Africa,16,L Lee,SR Taylor,M Kapp,,0,1,1,,,,355323553
+1,South Africa,16,M Kapp,SR Taylor,L Lee,,0,1,1,,,,355323553
+1,South Africa,16,L Lee,SR Taylor,M Kapp,,0,1,1,,,,355323553
+1,South Africa,16,M Kapp,SR Taylor,L Lee,,0,0,0,,,,355323553
+1,South Africa,16,M Kapp,SR Taylor,L Lee,,0,0,0,,,,355323553
+1,South Africa,16,M Kapp,SR Taylor,L Lee,,0,1,1,,,,355323553
+1,South Africa,17,M Kapp,A Mohammed,L Lee,,0,1,1,,,,355323553
+1,South Africa,17,L Lee,A Mohammed,M Kapp,,0,1,1,,,,355323553
+1,South Africa,17,M Kapp,A Mohammed,L Lee,,0,0,0,,,,355323553
+1,South Africa,17,M Kapp,A Mohammed,L Lee,,0,1,1,,,,355323553
+1,South Africa,17,L Lee,A Mohammed,M Kapp,,0,0,0,,,,355323553
+1,South Africa,17,L Lee,A Mohammed,M Kapp,,0,1,1,,,,355323553
+1,South Africa,18,L Lee,TD Smartt,M Kapp,,0,1,1,,,,355323553
+1,South Africa,18,M Kapp,TD Smartt,L Lee,,0,0,0,,,,355323553
+1,South Africa,18,M Kapp,TD Smartt,L Lee,noballs,1,1,0,,,,355323553
+1,South Africa,18,M Kapp,TD Smartt,L Lee,,0,1,1,,,,355323553
+1,South Africa,18,L Lee,TD Smartt,M Kapp,,0,1,1,,,,355323553
+1,South Africa,18,M Kapp,TD Smartt,L Lee,,0,1,1,,,,355323553
+1,South Africa,18,L Lee,TD Smartt,M Kapp,,0,6,6,,,,355323553
+1,South Africa,19,M Kapp,SR Taylor,L Lee,,0,0,0,,,,355323553
+1,South Africa,19,M Kapp,SR Taylor,L Lee,,0,1,1,,,,355323553
+1,South Africa,19,L Lee,SR Taylor,M Kapp,,0,6,6,,,,355323553
+1,South Africa,19,L Lee,SR Taylor,M Kapp,,0,2,2,,,,355323553
+1,South Africa,19,L Lee,SR Taylor,M Kapp,,0,2,2,,,,355323553
+1,South Africa,19,L Lee,SR Taylor,M Kapp,,0,1,1,,,,355323553

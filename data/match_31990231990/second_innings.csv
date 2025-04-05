@@ -1,0 +1,132 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Bulgaria,0,H Lakov,AG Weligamage,P Mishra,,0,0,0,,,,31990231990
+2,Bulgaria,0,H Lakov,AG Weligamage,P Mishra,wides,1,1,0,,,,31990231990
+2,Bulgaria,0,H Lakov,AG Weligamage,P Mishra,,0,4,4,,,,31990231990
+2,Bulgaria,0,H Lakov,AG Weligamage,P Mishra,,0,0,0,,,,31990231990
+2,Bulgaria,0,H Lakov,AG Weligamage,P Mishra,,0,4,4,,,,31990231990
+2,Bulgaria,0,H Lakov,AG Weligamage,P Mishra,,0,0,0,,,,31990231990
+2,Bulgaria,0,H Lakov,AG Weligamage,P Mishra,,0,0,0,,,,31990231990
+2,Bulgaria,1,P Mishra,SA Mohandas,H Lakov,legbyes,1,1,0,,,,31990231990
+2,Bulgaria,1,H Lakov,SA Mohandas,P Mishra,,0,1,1,,,,31990231990
+2,Bulgaria,1,P Mishra,SA Mohandas,H Lakov,wides,1,1,0,,,,31990231990
+2,Bulgaria,1,P Mishra,SA Mohandas,H Lakov,,0,0,0,,,,31990231990
+2,Bulgaria,1,P Mishra,SA Mohandas,H Lakov,,0,4,4,,,,31990231990
+2,Bulgaria,1,P Mishra,SA Mohandas,H Lakov,,0,1,1,,,,31990231990
+2,Bulgaria,1,H Lakov,SA Mohandas,P Mishra,,0,2,2,,,,31990231990
+2,Bulgaria,2,P Mishra,AG Weligamage,H Lakov,,0,0,0,,,,31990231990
+2,Bulgaria,2,P Mishra,AG Weligamage,H Lakov,,0,0,0,,,,31990231990
+2,Bulgaria,2,P Mishra,AG Weligamage,H Lakov,,0,4,4,,,,31990231990
+2,Bulgaria,2,P Mishra,AG Weligamage,H Lakov,,0,4,4,,,,31990231990
+2,Bulgaria,2,P Mishra,AG Weligamage,H Lakov,wides,1,1,0,,,,31990231990
+2,Bulgaria,2,P Mishra,AG Weligamage,H Lakov,,0,0,0,,,,31990231990
+2,Bulgaria,2,P Mishra,AG Weligamage,H Lakov,,0,0,0,,,,31990231990
+2,Bulgaria,3,H Lakov,SA Mohandas,P Mishra,,0,0,0,,,,31990231990
+2,Bulgaria,3,H Lakov,SA Mohandas,P Mishra,,0,4,4,,,,31990231990
+2,Bulgaria,3,H Lakov,SA Mohandas,P Mishra,,0,0,0,,,,31990231990
+2,Bulgaria,3,H Lakov,SA Mohandas,P Mishra,,0,1,1,,,,31990231990
+2,Bulgaria,3,P Mishra,SA Mohandas,H Lakov,,0,0,0,caught,P Mishra,Zahir Mohammed,31990231990
+2,Bulgaria,3,H Lakov,SA Mohandas,Saim Hussain,,0,0,0,,,,31990231990
+2,Bulgaria,4,Saim Hussain,A Kheterpal,H Lakov,,0,4,4,,,,31990231990
+2,Bulgaria,4,Saim Hussain,A Kheterpal,H Lakov,,0,1,1,,,,31990231990
+2,Bulgaria,4,H Lakov,A Kheterpal,Saim Hussain,,0,2,2,,,,31990231990
+2,Bulgaria,4,H Lakov,A Kheterpal,Saim Hussain,,0,0,0,caught,H Lakov,Abhishek Ahuja,31990231990
+2,Bulgaria,4,IA De Silva,A Kheterpal,Saim Hussain,,0,1,1,,,,31990231990
+2,Bulgaria,4,Saim Hussain,A Kheterpal,IA De Silva,,0,0,0,,,,31990231990
+2,Bulgaria,5,IA De Silva,HV Mandhyan,Saim Hussain,,0,0,0,,,,31990231990
+2,Bulgaria,5,IA De Silva,HV Mandhyan,Saim Hussain,wides,4,4,0,,,,31990231990
+2,Bulgaria,5,Saim Hussain,HV Mandhyan,IA De Silva,,0,1,1,,,,31990231990
+2,Bulgaria,5,IA De Silva,HV Mandhyan,Saim Hussain,wides,1,1,0,,,,31990231990
+2,Bulgaria,5,IA De Silva,HV Mandhyan,Saim Hussain,,0,4,4,,,,31990231990
+2,Bulgaria,5,IA De Silva,HV Mandhyan,Saim Hussain,,0,4,4,,,,31990231990
+2,Bulgaria,5,IA De Silva,HV Mandhyan,Saim Hussain,,0,0,0,,,,31990231990
+2,Bulgaria,5,IA De Silva,HV Mandhyan,Saim Hussain,,0,4,4,,,,31990231990
+2,Bulgaria,6,Saim Hussain,A Kheterpal,IA De Silva,,0,1,1,,,,31990231990
+2,Bulgaria,6,IA De Silva,A Kheterpal,Saim Hussain,,0,1,1,,,,31990231990
+2,Bulgaria,6,Saim Hussain,A Kheterpal,IA De Silva,,0,1,1,,,,31990231990
+2,Bulgaria,6,IA De Silva,A Kheterpal,Saim Hussain,,0,0,0,,,,31990231990
+2,Bulgaria,6,IA De Silva,A Kheterpal,Saim Hussain,wides,1,1,0,,,,31990231990
+2,Bulgaria,6,IA De Silva,A Kheterpal,Saim Hussain,,0,2,2,,,,31990231990
+2,Bulgaria,6,IA De Silva,A Kheterpal,Saim Hussain,,0,0,0,,,,31990231990
+2,Bulgaria,7,Saim Hussain,HV Mandhyan,IA De Silva,,0,1,1,,,,31990231990
+2,Bulgaria,7,IA De Silva,HV Mandhyan,Saim Hussain,,0,1,1,,,,31990231990
+2,Bulgaria,7,Saim Hussain,HV Mandhyan,IA De Silva,,0,0,0,,,,31990231990
+2,Bulgaria,7,Saim Hussain,HV Mandhyan,IA De Silva,wides,1,1,0,,,,31990231990
+2,Bulgaria,7,Saim Hussain,HV Mandhyan,IA De Silva,,0,0,0,,,,31990231990
+2,Bulgaria,7,Saim Hussain,HV Mandhyan,IA De Silva,,0,2,2,,,,31990231990
+2,Bulgaria,7,Saim Hussain,HV Mandhyan,IA De Silva,,0,1,1,,,,31990231990
+2,Bulgaria,8,Saim Hussain,A Kheterpal,IA De Silva,,0,2,2,,,,31990231990
+2,Bulgaria,8,Saim Hussain,A Kheterpal,IA De Silva,,0,0,0,,,,31990231990
+2,Bulgaria,8,Saim Hussain,A Kheterpal,IA De Silva,,0,2,2,,,,31990231990
+2,Bulgaria,8,Saim Hussain,A Kheterpal,IA De Silva,,0,1,1,,,,31990231990
+2,Bulgaria,8,IA De Silva,A Kheterpal,Saim Hussain,wides,1,1,0,,,,31990231990
+2,Bulgaria,8,IA De Silva,A Kheterpal,Saim Hussain,,0,4,4,,,,31990231990
+2,Bulgaria,8,IA De Silva,A Kheterpal,Saim Hussain,,0,1,1,,,,31990231990
+2,Bulgaria,9,IA De Silva,HV Mandhyan,Saim Hussain,,0,1,1,,,,31990231990
+2,Bulgaria,9,Saim Hussain,HV Mandhyan,IA De Silva,wides,1,1,0,,,,31990231990
+2,Bulgaria,9,Saim Hussain,HV Mandhyan,IA De Silva,,0,1,1,,,,31990231990
+2,Bulgaria,9,IA De Silva,HV Mandhyan,Saim Hussain,,0,2,2,,,,31990231990
+2,Bulgaria,9,IA De Silva,HV Mandhyan,Saim Hussain,,0,2,2,,,,31990231990
+2,Bulgaria,9,IA De Silva,HV Mandhyan,Saim Hussain,byes,4,4,0,,,,31990231990
+2,Bulgaria,9,IA De Silva,HV Mandhyan,Saim Hussain,,0,0,0,,,,31990231990
+2,Bulgaria,10,Saim Hussain,BP Adapaka,IA De Silva,,0,2,2,,,,31990231990
+2,Bulgaria,10,Saim Hussain,BP Adapaka,IA De Silva,,0,0,0,,,,31990231990
+2,Bulgaria,10,Saim Hussain,BP Adapaka,IA De Silva,,0,1,1,,,,31990231990
+2,Bulgaria,10,IA De Silva,BP Adapaka,Saim Hussain,,0,4,4,,,,31990231990
+2,Bulgaria,10,IA De Silva,BP Adapaka,Saim Hussain,,0,0,0,,,,31990231990
+2,Bulgaria,10,IA De Silva,BP Adapaka,Saim Hussain,,0,0,0,,,,31990231990
+2,Bulgaria,11,Saim Hussain,AG Weligamage,IA De Silva,,0,0,0,,,,31990231990
+2,Bulgaria,11,Saim Hussain,AG Weligamage,IA De Silva,,0,0,0,run out,IA De Silva,Gabor Torok,31990231990
+2,Bulgaria,11,Omar Rassol,AG Weligamage,Saim Hussain,,0,0,0,,,,31990231990
+2,Bulgaria,11,Omar Rassol,AG Weligamage,Saim Hussain,,0,0,0,,,,31990231990
+2,Bulgaria,11,Omar Rassol,AG Weligamage,Saim Hussain,,0,0,0,,,,31990231990
+2,Bulgaria,11,Omar Rassol,AG Weligamage,Saim Hussain,,0,4,4,,,,31990231990
+2,Bulgaria,12,Saim Hussain,BP Adapaka,Omar Rassol,,0,0,0,,,,31990231990
+2,Bulgaria,12,Saim Hussain,BP Adapaka,Omar Rassol,,0,0,0,,,,31990231990
+2,Bulgaria,12,Saim Hussain,BP Adapaka,Omar Rassol,,0,0,0,,,,31990231990
+2,Bulgaria,12,Saim Hussain,BP Adapaka,Omar Rassol,,0,2,2,,,,31990231990
+2,Bulgaria,12,Saim Hussain,BP Adapaka,Omar Rassol,,0,1,1,,,,31990231990
+2,Bulgaria,12,Omar Rassol,BP Adapaka,Saim Hussain,,0,2,2,,,,31990231990
+2,Bulgaria,13,Saim Hussain,AG Weligamage,Omar Rassol,,0,1,1,,,,31990231990
+2,Bulgaria,13,Omar Rassol,AG Weligamage,Saim Hussain,,0,1,1,,,,31990231990
+2,Bulgaria,13,Saim Hussain,AG Weligamage,Omar Rassol,,0,2,2,,,,31990231990
+2,Bulgaria,13,Saim Hussain,AG Weligamage,Omar Rassol,,0,4,4,,,,31990231990
+2,Bulgaria,13,Saim Hussain,AG Weligamage,Omar Rassol,,0,2,2,,,,31990231990
+2,Bulgaria,13,Saim Hussain,AG Weligamage,Omar Rassol,,0,4,4,,,,31990231990
+2,Bulgaria,14,Omar Rassol,BP Adapaka,Saim Hussain,,0,0,0,,,,31990231990
+2,Bulgaria,14,Omar Rassol,BP Adapaka,Saim Hussain,,0,1,1,,,,31990231990
+2,Bulgaria,14,Saim Hussain,BP Adapaka,Omar Rassol,,0,1,1,,,,31990231990
+2,Bulgaria,14,Omar Rassol,BP Adapaka,Saim Hussain,,0,2,2,,,,31990231990
+2,Bulgaria,14,Omar Rassol,BP Adapaka,Saim Hussain,,0,0,0,stumped,Omar Rassol,Abhishek Ahuja,31990231990
+2,Bulgaria,14,Asad Ali Rehemtulla,BP Adapaka,Saim Hussain,,0,0,0,,,,31990231990
+2,Bulgaria,15,Saim Hussain,SA Mohandas,Asad Ali Rehemtulla,,0,2,2,,,,31990231990
+2,Bulgaria,15,Saim Hussain,SA Mohandas,Asad Ali Rehemtulla,,0,2,2,,,,31990231990
+2,Bulgaria,15,Saim Hussain,SA Mohandas,Asad Ali Rehemtulla,,0,0,0,,,,31990231990
+2,Bulgaria,15,Saim Hussain,SA Mohandas,Asad Ali Rehemtulla,,0,2,2,,,,31990231990
+2,Bulgaria,15,Saim Hussain,SA Mohandas,Asad Ali Rehemtulla,,0,1,1,,,,31990231990
+2,Bulgaria,15,Asad Ali Rehemtulla,SA Mohandas,Saim Hussain,,0,0,0,,,,31990231990
+2,Bulgaria,16,Saim Hussain,BP Adapaka,Asad Ali Rehemtulla,noballs,1,7,6,,,,31990231990
+2,Bulgaria,16,Saim Hussain,BP Adapaka,Asad Ali Rehemtulla,,0,2,2,,,,31990231990
+2,Bulgaria,16,Saim Hussain,BP Adapaka,Asad Ali Rehemtulla,,0,1,1,,,,31990231990
+2,Bulgaria,16,Asad Ali Rehemtulla,BP Adapaka,Saim Hussain,,0,0,0,bowled,Asad Ali Rehemtulla,,31990231990
+2,Bulgaria,16,DV Varghese,BP Adapaka,Saim Hussain,,0,0,0,,,,31990231990
+2,Bulgaria,16,DV Varghese,BP Adapaka,Saim Hussain,,0,2,2,,,,31990231990
+2,Bulgaria,16,DV Varghese,BP Adapaka,Saim Hussain,wides,1,1,0,,,,31990231990
+2,Bulgaria,16,DV Varghese,BP Adapaka,Saim Hussain,,0,0,0,bowled,DV Varghese,,31990231990
+2,Bulgaria,17,Saim Hussain,SA Mohandas,Ahsan Khan,,0,0,0,,,,31990231990
+2,Bulgaria,17,Saim Hussain,SA Mohandas,Ahsan Khan,,0,0,0,,,,31990231990
+2,Bulgaria,17,Saim Hussain,SA Mohandas,Ahsan Khan,,0,0,0,bowled,Saim Hussain,,31990231990
+2,Bulgaria,17,J Albin,SA Mohandas,Ahsan Khan,,0,2,2,,,,31990231990
+2,Bulgaria,17,J Albin,SA Mohandas,Ahsan Khan,,0,0,0,,,,31990231990
+2,Bulgaria,17,J Albin,SA Mohandas,Ahsan Khan,,0,1,1,,,,31990231990
+2,Bulgaria,18,J Albin,HV Mandhyan,Ahsan Khan,,0,1,1,,,,31990231990
+2,Bulgaria,18,Ahsan Khan,HV Mandhyan,J Albin,,0,1,1,,,,31990231990
+2,Bulgaria,18,J Albin,HV Mandhyan,Ahsan Khan,,0,0,0,,,,31990231990
+2,Bulgaria,18,J Albin,HV Mandhyan,Ahsan Khan,,0,0,0,,,,31990231990
+2,Bulgaria,18,J Albin,HV Mandhyan,Ahsan Khan,,0,0,0,,,,31990231990
+2,Bulgaria,18,J Albin,HV Mandhyan,Ahsan Khan,,0,0,0,bowled,J Albin,,31990231990
+2,Bulgaria,19,Ahsan Khan,A Kheterpal,I Katzarski,,0,0,0,,,,31990231990
+2,Bulgaria,19,Ahsan Khan,A Kheterpal,I Katzarski,,0,1,1,,,,31990231990
+2,Bulgaria,19,I Katzarski,A Kheterpal,Ahsan Khan,,0,0,0,,,,31990231990
+2,Bulgaria,19,I Katzarski,A Kheterpal,Ahsan Khan,,0,0,0,,,,31990231990
+2,Bulgaria,19,I Katzarski,A Kheterpal,Ahsan Khan,,0,0,0,,,,31990231990
+2,Bulgaria,19,I Katzarski,A Kheterpal,Ahsan Khan,,0,0,0,run out,I Katzarski,Abhishek Ahuja,31990231990

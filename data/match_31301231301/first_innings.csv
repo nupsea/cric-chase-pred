@@ -1,0 +1,128 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Hong Kong,0,Nizakat Khan,JOA Gordon,Ahsan Abbasi,,0,0,0,,,,31301231301
+1,Hong Kong,0,Nizakat Khan,JOA Gordon,Ahsan Abbasi,wides,1,1,0,,,,31301231301
+1,Hong Kong,0,Nizakat Khan,JOA Gordon,Ahsan Abbasi,,0,1,1,,,,31301231301
+1,Hong Kong,0,Ahsan Abbasi,JOA Gordon,Nizakat Khan,,0,4,4,,,,31301231301
+1,Hong Kong,0,Ahsan Abbasi,JOA Gordon,Nizakat Khan,,0,1,1,,,,31301231301
+1,Hong Kong,0,Nizakat Khan,JOA Gordon,Ahsan Abbasi,,0,1,1,,,,31301231301
+1,Hong Kong,0,Ahsan Abbasi,JOA Gordon,Nizakat Khan,,0,0,0,,,,31301231301
+1,Hong Kong,1,Nizakat Khan,D Heyliger,Ahsan Abbasi,,0,1,1,,,,31301231301
+1,Hong Kong,1,Ahsan Abbasi,D Heyliger,Nizakat Khan,wides,1,1,0,,,,31301231301
+1,Hong Kong,1,Ahsan Abbasi,D Heyliger,Nizakat Khan,,0,0,0,,,,31301231301
+1,Hong Kong,1,Ahsan Abbasi,D Heyliger,Nizakat Khan,,0,1,1,,,,31301231301
+1,Hong Kong,1,Nizakat Khan,D Heyliger,Ahsan Abbasi,legbyes,1,1,0,,,,31301231301
+1,Hong Kong,1,Ahsan Abbasi,D Heyliger,Nizakat Khan,,0,2,2,,,,31301231301
+1,Hong Kong,1,Ahsan Abbasi,D Heyliger,Nizakat Khan,,0,2,2,,,,31301231301
+1,Hong Kong,2,Nizakat Khan,JOA Gordon,Ahsan Abbasi,,0,0,0,,,,31301231301
+1,Hong Kong,2,Nizakat Khan,JOA Gordon,Ahsan Abbasi,,0,0,0,,,,31301231301
+1,Hong Kong,2,Nizakat Khan,JOA Gordon,Ahsan Abbasi,,0,4,4,,,,31301231301
+1,Hong Kong,2,Nizakat Khan,JOA Gordon,Ahsan Abbasi,,0,0,0,caught,Nizakat Khan,Ravinderpal Singh,31301231301
+1,Hong Kong,2,Ahsan Abbasi,JOA Gordon,Aizaz Khan,,0,4,4,,,,31301231301
+1,Hong Kong,2,Ahsan Abbasi,JOA Gordon,Aizaz Khan,,0,0,0,,,,31301231301
+1,Hong Kong,3,Aizaz Khan,Saad Bin Zafar,Ahsan Abbasi,,0,0,0,,,,31301231301
+1,Hong Kong,3,Aizaz Khan,Saad Bin Zafar,Ahsan Abbasi,,0,0,0,caught,Aizaz Khan,D Heyliger,31301231301
+1,Hong Kong,3,KD Shah,Saad Bin Zafar,Ahsan Abbasi,,0,0,0,,,,31301231301
+1,Hong Kong,3,KD Shah,Saad Bin Zafar,Ahsan Abbasi,,0,0,0,run out,Ahsan Abbasi,,31301231301
+1,Hong Kong,3,Waqas Barkat,Saad Bin Zafar,KD Shah,,0,0,0,,,,31301231301
+1,Hong Kong,3,Waqas Barkat,Saad Bin Zafar,KD Shah,,0,0,0,,,,31301231301
+1,Hong Kong,4,KD Shah,NR Kumar,Waqas Barkat,,0,0,0,,,,31301231301
+1,Hong Kong,4,KD Shah,NR Kumar,Waqas Barkat,,0,0,0,,,,31301231301
+1,Hong Kong,4,KD Shah,NR Kumar,Waqas Barkat,,0,0,0,,,,31301231301
+1,Hong Kong,4,KD Shah,NR Kumar,Waqas Barkat,,0,2,2,,,,31301231301
+1,Hong Kong,4,KD Shah,NR Kumar,Waqas Barkat,,0,0,0,,,,31301231301
+1,Hong Kong,4,KD Shah,NR Kumar,Waqas Barkat,,0,1,1,,,,31301231301
+1,Hong Kong,5,KD Shah,Saad Bin Zafar,Waqas Barkat,,0,0,0,,,,31301231301
+1,Hong Kong,5,KD Shah,Saad Bin Zafar,Waqas Barkat,,0,1,1,,,,31301231301
+1,Hong Kong,5,Waqas Barkat,Saad Bin Zafar,KD Shah,,0,0,0,,,,31301231301
+1,Hong Kong,5,Waqas Barkat,Saad Bin Zafar,KD Shah,,0,4,4,,,,31301231301
+1,Hong Kong,5,Waqas Barkat,Saad Bin Zafar,KD Shah,,0,0,0,,,,31301231301
+1,Hong Kong,5,Waqas Barkat,Saad Bin Zafar,KD Shah,,0,1,1,,,,31301231301
+1,Hong Kong,6,Waqas Barkat,NR Kumar,KD Shah,,0,0,0,,,,31301231301
+1,Hong Kong,6,Waqas Barkat,NR Kumar,KD Shah,,0,1,1,,,,31301231301
+1,Hong Kong,6,KD Shah,NR Kumar,Waqas Barkat,byes,1,1,0,,,,31301231301
+1,Hong Kong,6,Waqas Barkat,NR Kumar,KD Shah,,0,1,1,,,,31301231301
+1,Hong Kong,6,KD Shah,NR Kumar,Waqas Barkat,,0,1,1,,,,31301231301
+1,Hong Kong,6,Waqas Barkat,NR Kumar,KD Shah,,0,2,2,,,,31301231301
+1,Hong Kong,7,KD Shah,N Dutta,Waqas Barkat,,0,1,1,,,,31301231301
+1,Hong Kong,7,Waqas Barkat,N Dutta,KD Shah,,0,1,1,,,,31301231301
+1,Hong Kong,7,KD Shah,N Dutta,Waqas Barkat,,0,0,0,,,,31301231301
+1,Hong Kong,7,KD Shah,N Dutta,Waqas Barkat,,0,2,2,,,,31301231301
+1,Hong Kong,7,KD Shah,N Dutta,Waqas Barkat,,0,0,0,,,,31301231301
+1,Hong Kong,7,KD Shah,N Dutta,Waqas Barkat,,0,0,0,,,,31301231301
+1,Hong Kong,8,Waqas Barkat,NR Kumar,KD Shah,,0,1,1,,,,31301231301
+1,Hong Kong,8,KD Shah,NR Kumar,Waqas Barkat,,0,1,1,,,,31301231301
+1,Hong Kong,8,Waqas Barkat,NR Kumar,KD Shah,,0,2,2,,,,31301231301
+1,Hong Kong,8,Waqas Barkat,NR Kumar,KD Shah,,0,2,2,,,,31301231301
+1,Hong Kong,8,Waqas Barkat,NR Kumar,KD Shah,,0,0,0,,,,31301231301
+1,Hong Kong,8,Waqas Barkat,NR Kumar,KD Shah,,0,0,0,,,,31301231301
+1,Hong Kong,9,KD Shah,N Dutta,Waqas Barkat,,0,1,1,,,,31301231301
+1,Hong Kong,9,Waqas Barkat,N Dutta,KD Shah,,0,1,1,,,,31301231301
+1,Hong Kong,9,KD Shah,N Dutta,Waqas Barkat,,0,1,1,,,,31301231301
+1,Hong Kong,9,Waqas Barkat,N Dutta,KD Shah,,0,2,2,,,,31301231301
+1,Hong Kong,9,Waqas Barkat,N Dutta,KD Shah,,0,4,4,,,,31301231301
+1,Hong Kong,9,Waqas Barkat,N Dutta,KD Shah,,0,1,1,,,,31301231301
+1,Hong Kong,10,Waqas Barkat,NR Kumar,KD Shah,,0,2,2,,,,31301231301
+1,Hong Kong,10,Waqas Barkat,NR Kumar,KD Shah,,0,2,2,,,,31301231301
+1,Hong Kong,10,Waqas Barkat,NR Kumar,KD Shah,,0,0,0,caught,Waqas Barkat,Abraash Khan,31301231301
+1,Hong Kong,10,KD Shah,NR Kumar,Haroon Arshad,,0,0,0,,,,31301231301
+1,Hong Kong,10,KD Shah,NR Kumar,Haroon Arshad,,0,0,0,,,,31301231301
+1,Hong Kong,10,KD Shah,NR Kumar,Haroon Arshad,,0,0,0,,,,31301231301
+1,Hong Kong,11,Haroon Arshad,D Heyliger,KD Shah,wides,1,1,0,,,,31301231301
+1,Hong Kong,11,Haroon Arshad,D Heyliger,KD Shah,,0,0,0,,,,31301231301
+1,Hong Kong,11,Haroon Arshad,D Heyliger,KD Shah,,0,2,2,,,,31301231301
+1,Hong Kong,11,Haroon Arshad,D Heyliger,KD Shah,,0,1,1,,,,31301231301
+1,Hong Kong,11,KD Shah,D Heyliger,Haroon Arshad,,0,1,1,,,,31301231301
+1,Hong Kong,11,Haroon Arshad,D Heyliger,KD Shah,,0,1,1,,,,31301231301
+1,Hong Kong,11,KD Shah,D Heyliger,Haroon Arshad,,0,4,4,,,,31301231301
+1,Hong Kong,12,Haroon Arshad,N Dutta,KD Shah,wides,1,1,0,,,,31301231301
+1,Hong Kong,12,Haroon Arshad,N Dutta,KD Shah,,0,0,0,,,,31301231301
+1,Hong Kong,12,Haroon Arshad,N Dutta,KD Shah,,0,2,2,,,,31301231301
+1,Hong Kong,12,Haroon Arshad,N Dutta,KD Shah,,0,1,1,,,,31301231301
+1,Hong Kong,12,KD Shah,N Dutta,Haroon Arshad,,0,0,0,,,,31301231301
+1,Hong Kong,12,KD Shah,N Dutta,Haroon Arshad,,0,1,1,,,,31301231301
+1,Hong Kong,12,Haroon Arshad,N Dutta,KD Shah,,0,2,2,,,,31301231301
+1,Hong Kong,13,KD Shah,Saad Bin Zafar,Haroon Arshad,,0,1,1,,,,31301231301
+1,Hong Kong,13,Haroon Arshad,Saad Bin Zafar,KD Shah,,0,0,0,,,,31301231301
+1,Hong Kong,13,Haroon Arshad,Saad Bin Zafar,KD Shah,,0,1,1,,,,31301231301
+1,Hong Kong,13,KD Shah,Saad Bin Zafar,Haroon Arshad,,0,6,6,,,,31301231301
+1,Hong Kong,13,KD Shah,Saad Bin Zafar,Haroon Arshad,,0,1,1,,,,31301231301
+1,Hong Kong,13,Haroon Arshad,Saad Bin Zafar,KD Shah,,0,6,6,,,,31301231301
+1,Hong Kong,14,KD Shah,N Dutta,Haroon Arshad,,0,1,1,,,,31301231301
+1,Hong Kong,14,Haroon Arshad,N Dutta,KD Shah,,0,1,1,,,,31301231301
+1,Hong Kong,14,KD Shah,N Dutta,Haroon Arshad,,0,1,1,,,,31301231301
+1,Hong Kong,14,Haroon Arshad,N Dutta,KD Shah,,0,0,0,bowled,Haroon Arshad,,31301231301
+1,Hong Kong,14,SS McKechnie,N Dutta,KD Shah,wides,1,1,0,,,,31301231301
+1,Hong Kong,14,SS McKechnie,N Dutta,KD Shah,,0,0,0,,,,31301231301
+1,Hong Kong,14,SS McKechnie,N Dutta,KD Shah,,0,0,0,,,,31301231301
+1,Hong Kong,15,KD Shah,JOA Gordon,SS McKechnie,,0,0,0,,,,31301231301
+1,Hong Kong,15,KD Shah,JOA Gordon,SS McKechnie,,0,2,2,,,,31301231301
+1,Hong Kong,15,KD Shah,JOA Gordon,SS McKechnie,,0,1,1,,,,31301231301
+1,Hong Kong,15,SS McKechnie,JOA Gordon,KD Shah,wides,1,1,0,,,,31301231301
+1,Hong Kong,15,SS McKechnie,JOA Gordon,KD Shah,,0,0,0,,,,31301231301
+1,Hong Kong,15,SS McKechnie,JOA Gordon,KD Shah,legbyes,1,1,0,,,,31301231301
+1,Hong Kong,15,KD Shah,JOA Gordon,SS McKechnie,,0,2,2,,,,31301231301
+1,Hong Kong,16,SS McKechnie,Saad Bin Zafar,KD Shah,,0,2,2,,,,31301231301
+1,Hong Kong,16,SS McKechnie,Saad Bin Zafar,KD Shah,,0,4,4,,,,31301231301
+1,Hong Kong,16,SS McKechnie,Saad Bin Zafar,KD Shah,,0,2,2,,,,31301231301
+1,Hong Kong,16,SS McKechnie,Saad Bin Zafar,KD Shah,,0,0,0,,,,31301231301
+1,Hong Kong,16,SS McKechnie,Saad Bin Zafar,KD Shah,,0,0,0,,,,31301231301
+1,Hong Kong,16,SS McKechnie,Saad Bin Zafar,KD Shah,,0,4,4,,,,31301231301
+1,Hong Kong,17,KD Shah,D Heyliger,SS McKechnie,,0,2,2,,,,31301231301
+1,Hong Kong,17,KD Shah,D Heyliger,SS McKechnie,,0,1,1,,,,31301231301
+1,Hong Kong,17,SS McKechnie,D Heyliger,KD Shah,,0,1,1,,,,31301231301
+1,Hong Kong,17,KD Shah,D Heyliger,SS McKechnie,,0,6,6,,,,31301231301
+1,Hong Kong,17,KD Shah,D Heyliger,SS McKechnie,,0,1,1,,,,31301231301
+1,Hong Kong,17,SS McKechnie,D Heyliger,KD Shah,,0,0,0,,,,31301231301
+1,Hong Kong,18,KD Shah,JOA Gordon,SS McKechnie,,0,2,2,,,,31301231301
+1,Hong Kong,18,KD Shah,JOA Gordon,SS McKechnie,wides,1,1,0,,,,31301231301
+1,Hong Kong,18,KD Shah,JOA Gordon,SS McKechnie,,0,0,0,,,,31301231301
+1,Hong Kong,18,KD Shah,JOA Gordon,SS McKechnie,,0,1,1,,,,31301231301
+1,Hong Kong,18,SS McKechnie,JOA Gordon,KD Shah,,0,1,1,,,,31301231301
+1,Hong Kong,18,KD Shah,JOA Gordon,SS McKechnie,,0,2,2,,,,31301231301
+1,Hong Kong,18,KD Shah,JOA Gordon,SS McKechnie,,0,1,1,,,,31301231301
+1,Hong Kong,19,KD Shah,D Heyliger,SS McKechnie,,0,6,6,,,,31301231301
+1,Hong Kong,19,KD Shah,D Heyliger,SS McKechnie,,0,4,4,,,,31301231301
+1,Hong Kong,19,KD Shah,D Heyliger,SS McKechnie,,0,1,1,,,,31301231301
+1,Hong Kong,19,SS McKechnie,D Heyliger,KD Shah,,0,0,0,bowled,SS McKechnie,,31301231301
+1,Hong Kong,19,Simandeep Singh,D Heyliger,KD Shah,,0,1,1,run out,Simandeep Singh,,31301231301
+1,Hong Kong,19,Ehsan Khan,D Heyliger,KD Shah,legbyes,1,1,0,,,,31301231301

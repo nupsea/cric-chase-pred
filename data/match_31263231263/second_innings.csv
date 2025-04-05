@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,England,0,T Banton,Shaheen Shah Afridi,JM Bairstow,,0,1,1,,,,31263231263
+2,England,0,JM Bairstow,Shaheen Shah Afridi,T Banton,,0,0,0,,,,31263231263
+2,England,0,JM Bairstow,Shaheen Shah Afridi,T Banton,,0,0,0,,,,31263231263
+2,England,0,JM Bairstow,Shaheen Shah Afridi,T Banton,,0,0,0,bowled,JM Bairstow,,31263231263
+2,England,0,DJ Malan,Shaheen Shah Afridi,T Banton,,0,0,0,,,,31263231263
+2,England,0,DJ Malan,Shaheen Shah Afridi,T Banton,,0,2,2,,,,31263231263
+2,England,1,T Banton,Imad Wasim,DJ Malan,,0,0,0,,,,31263231263
+2,England,1,T Banton,Imad Wasim,DJ Malan,,0,0,0,,,,31263231263
+2,England,1,T Banton,Imad Wasim,DJ Malan,,0,4,4,,,,31263231263
+2,England,1,T Banton,Imad Wasim,DJ Malan,,0,4,4,,,,31263231263
+2,England,1,T Banton,Imad Wasim,DJ Malan,,0,0,0,,,,31263231263
+2,England,1,T Banton,Imad Wasim,DJ Malan,,0,4,4,,,,31263231263
+2,England,2,DJ Malan,Shaheen Shah Afridi,T Banton,,0,0,0,,,,31263231263
+2,England,2,DJ Malan,Shaheen Shah Afridi,T Banton,,0,1,1,,,,31263231263
+2,England,2,T Banton,Shaheen Shah Afridi,DJ Malan,,0,0,0,,,,31263231263
+2,England,2,T Banton,Shaheen Shah Afridi,DJ Malan,,0,0,0,,,,31263231263
+2,England,2,T Banton,Shaheen Shah Afridi,DJ Malan,,0,1,1,,,,31263231263
+2,England,2,DJ Malan,Shaheen Shah Afridi,T Banton,,0,0,0,,,,31263231263
+2,England,3,T Banton,Imad Wasim,DJ Malan,,0,4,4,,,,31263231263
+2,England,3,T Banton,Imad Wasim,DJ Malan,,0,1,1,,,,31263231263
+2,England,3,DJ Malan,Imad Wasim,T Banton,,0,0,0,,,,31263231263
+2,England,3,DJ Malan,Imad Wasim,T Banton,,0,4,4,,,,31263231263
+2,England,3,DJ Malan,Imad Wasim,T Banton,,0,0,0,caught,DJ Malan,Fakhar Zaman,31263231263
+2,England,3,T Banton,Imad Wasim,EJG Morgan,,0,1,1,,,,31263231263
+2,England,4,T Banton,Haris Rauf,EJG Morgan,,0,4,4,,,,31263231263
+2,England,4,T Banton,Haris Rauf,EJG Morgan,,0,2,2,,,,31263231263
+2,England,4,T Banton,Haris Rauf,EJG Morgan,,0,0,0,,,,31263231263
+2,England,4,T Banton,Haris Rauf,EJG Morgan,,0,4,4,,,,31263231263
+2,England,4,T Banton,Haris Rauf,EJG Morgan,,0,0,0,,,,31263231263
+2,England,4,T Banton,Haris Rauf,EJG Morgan,noballs,1,5,4,,,,31263231263
+2,England,4,T Banton,Haris Rauf,EJG Morgan,,0,1,1,,,,31263231263
+2,England,5,T Banton,Wahab Riaz,EJG Morgan,,0,0,0,,,,31263231263
+2,England,5,T Banton,Wahab Riaz,EJG Morgan,,0,0,0,,,,31263231263
+2,England,5,T Banton,Wahab Riaz,EJG Morgan,,0,2,2,,,,31263231263
+2,England,5,T Banton,Wahab Riaz,EJG Morgan,noballs,1,2,1,,,,31263231263
+2,England,5,EJG Morgan,Wahab Riaz,T Banton,,0,2,2,,,,31263231263
+2,England,5,EJG Morgan,Wahab Riaz,T Banton,,0,1,1,,,,31263231263
+2,England,5,T Banton,Wahab Riaz,EJG Morgan,,0,4,4,,,,31263231263
+2,England,6,EJG Morgan,Shadab Khan,T Banton,,0,1,1,,,,31263231263
+2,England,6,T Banton,Shadab Khan,EJG Morgan,,0,2,2,,,,31263231263
+2,England,6,T Banton,Shadab Khan,EJG Morgan,,0,0,0,,,,31263231263
+2,England,6,T Banton,Shadab Khan,EJG Morgan,,0,1,1,,,,31263231263
+2,England,6,EJG Morgan,Shadab Khan,T Banton,wides,1,1,0,,,,31263231263
+2,England,6,EJG Morgan,Shadab Khan,T Banton,,0,6,6,,,,31263231263
+2,England,6,EJG Morgan,Shadab Khan,T Banton,,0,0,0,run out,EJG Morgan,,31263231263
+2,England,7,T Banton,Haris Rauf,MM Ali,,0,1,1,,,,31263231263
+2,England,7,MM Ali,Haris Rauf,T Banton,,0,1,1,,,,31263231263
+2,England,7,T Banton,Haris Rauf,MM Ali,legbyes,1,1,0,,,,31263231263
+2,England,7,MM Ali,Haris Rauf,T Banton,,0,1,1,,,,31263231263
+2,England,7,T Banton,Haris Rauf,MM Ali,,0,0,0,lbw,T Banton,,31263231263
+2,England,7,SW Billings,Haris Rauf,MM Ali,,0,0,0,,,,31263231263
+2,England,8,MM Ali,Shadab Khan,SW Billings,,0,1,1,,,,31263231263
+2,England,8,SW Billings,Shadab Khan,MM Ali,,0,1,1,,,,31263231263
+2,England,8,MM Ali,Shadab Khan,SW Billings,,0,1,1,,,,31263231263
+2,England,8,SW Billings,Shadab Khan,MM Ali,,0,1,1,,,,31263231263
+2,England,8,MM Ali,Shadab Khan,SW Billings,,0,1,1,,,,31263231263
+2,England,8,SW Billings,Shadab Khan,MM Ali,,0,4,4,,,,31263231263
+2,England,9,MM Ali,Wahab Riaz,SW Billings,,0,1,1,,,,31263231263
+2,England,9,SW Billings,Wahab Riaz,MM Ali,,0,1,1,,,,31263231263
+2,England,9,MM Ali,Wahab Riaz,SW Billings,,0,1,1,,,,31263231263
+2,England,9,SW Billings,Wahab Riaz,MM Ali,,0,0,0,,,,31263231263
+2,England,9,SW Billings,Wahab Riaz,MM Ali,,0,4,4,,,,31263231263
+2,England,9,SW Billings,Wahab Riaz,MM Ali,,0,1,1,,,,31263231263
+2,England,10,SW Billings,Imad Wasim,MM Ali,,0,0,0,,,,31263231263
+2,England,10,SW Billings,Imad Wasim,MM Ali,,0,6,6,,,,31263231263
+2,England,10,SW Billings,Imad Wasim,MM Ali,,0,1,1,,,,31263231263
+2,England,10,MM Ali,Imad Wasim,SW Billings,,0,0,0,,,,31263231263
+2,England,10,MM Ali,Imad Wasim,SW Billings,,0,1,1,,,,31263231263
+2,England,10,SW Billings,Imad Wasim,MM Ali,,0,1,1,,,,31263231263
+2,England,11,SW Billings,Shadab Khan,MM Ali,,0,0,0,,,,31263231263
+2,England,11,SW Billings,Shadab Khan,MM Ali,legbyes,1,1,0,,,,31263231263
+2,England,11,MM Ali,Shadab Khan,SW Billings,,0,2,2,,,,31263231263
+2,England,11,MM Ali,Shadab Khan,SW Billings,,0,2,2,,,,31263231263
+2,England,11,MM Ali,Shadab Khan,SW Billings,,0,0,0,,,,31263231263
+2,England,11,MM Ali,Shadab Khan,SW Billings,,0,4,4,,,,31263231263
+2,England,12,SW Billings,Imad Wasim,MM Ali,,0,0,0,,,,31263231263
+2,England,12,SW Billings,Imad Wasim,MM Ali,byes,4,4,0,,,,31263231263
+2,England,12,SW Billings,Imad Wasim,MM Ali,,0,2,2,,,,31263231263
+2,England,12,SW Billings,Imad Wasim,MM Ali,,0,0,0,,,,31263231263
+2,England,12,SW Billings,Imad Wasim,MM Ali,,0,0,0,,,,31263231263
+2,England,12,SW Billings,Imad Wasim,MM Ali,,0,2,2,,,,31263231263
+2,England,13,MM Ali,Shaheen Shah Afridi,SW Billings,,0,4,4,,,,31263231263
+2,England,13,MM Ali,Shaheen Shah Afridi,SW Billings,,0,6,6,,,,31263231263
+2,England,13,MM Ali,Shaheen Shah Afridi,SW Billings,,0,1,1,,,,31263231263
+2,England,13,SW Billings,Shaheen Shah Afridi,MM Ali,,0,0,0,,,,31263231263
+2,England,13,SW Billings,Shaheen Shah Afridi,MM Ali,,0,2,2,,,,31263231263
+2,England,13,SW Billings,Shaheen Shah Afridi,MM Ali,,0,0,0,,,,31263231263
+2,England,14,MM Ali,Wahab Riaz,SW Billings,,0,1,1,,,,31263231263
+2,England,14,SW Billings,Wahab Riaz,MM Ali,,0,0,0,caught,SW Billings,Imad Wasim,31263231263
+2,England,14,MM Ali,Wahab Riaz,L Gregory,,0,1,1,,,,31263231263
+2,England,14,L Gregory,Wahab Riaz,MM Ali,,0,0,0,,,,31263231263
+2,England,14,L Gregory,Wahab Riaz,MM Ali,,0,1,1,,,,31263231263
+2,England,14,MM Ali,Wahab Riaz,L Gregory,,0,1,1,,,,31263231263
+2,England,15,MM Ali,Shadab Khan,L Gregory,,0,6,6,,,,31263231263
+2,England,15,MM Ali,Shadab Khan,L Gregory,,0,6,6,,,,31263231263
+2,England,15,MM Ali,Shadab Khan,L Gregory,,0,0,0,,,,31263231263
+2,England,15,MM Ali,Shadab Khan,L Gregory,,0,6,6,,,,31263231263
+2,England,15,MM Ali,Shadab Khan,L Gregory,,0,1,1,,,,31263231263
+2,England,15,L Gregory,Shadab Khan,MM Ali,,0,1,1,,,,31263231263
+2,England,16,L Gregory,Haris Rauf,MM Ali,,0,1,1,,,,31263231263
+2,England,16,MM Ali,Haris Rauf,L Gregory,,0,1,1,,,,31263231263
+2,England,16,L Gregory,Haris Rauf,MM Ali,,0,1,1,,,,31263231263
+2,England,16,MM Ali,Haris Rauf,L Gregory,,0,1,1,,,,31263231263
+2,England,16,L Gregory,Haris Rauf,MM Ali,,0,4,4,,,,31263231263
+2,England,16,L Gregory,Haris Rauf,MM Ali,,0,4,4,,,,31263231263
+2,England,17,MM Ali,Shaheen Shah Afridi,L Gregory,,0,4,4,,,,31263231263
+2,England,17,MM Ali,Shaheen Shah Afridi,L Gregory,,0,0,0,,,,31263231263
+2,England,17,MM Ali,Shaheen Shah Afridi,L Gregory,,0,4,4,,,,31263231263
+2,England,17,MM Ali,Shaheen Shah Afridi,L Gregory,,0,1,1,,,,31263231263
+2,England,17,L Gregory,Shaheen Shah Afridi,MM Ali,,0,0,0,bowled,L Gregory,,31263231263
+2,England,17,CJ Jordan,Shaheen Shah Afridi,MM Ali,,0,1,1,,,,31263231263
+2,England,18,CJ Jordan,Wahab Riaz,MM Ali,wides,1,1,0,,,,31263231263
+2,England,18,CJ Jordan,Wahab Riaz,MM Ali,,0,0,0,run out,CJ Jordan,,31263231263
+2,England,18,MM Ali,Wahab Riaz,TK Curran,,0,1,1,,,,31263231263
+2,England,18,TK Curran,Wahab Riaz,MM Ali,,0,1,1,,,,31263231263
+2,England,18,MM Ali,Wahab Riaz,TK Curran,,0,0,0,,,,31263231263
+2,England,18,MM Ali,Wahab Riaz,TK Curran,,0,0,0,caught and bowled,MM Ali,,31263231263
+2,England,18,TK Curran,Wahab Riaz,AU Rashid,,0,0,0,,,,31263231263
+2,England,19,AU Rashid,Haris Rauf,TK Curran,byes,1,1,0,,,,31263231263
+2,England,19,TK Curran,Haris Rauf,AU Rashid,,0,1,1,,,,31263231263
+2,England,19,AU Rashid,Haris Rauf,TK Curran,,0,2,2,,,,31263231263
+2,England,19,AU Rashid,Haris Rauf,TK Curran,,0,1,1,,,,31263231263
+2,England,19,TK Curran,Haris Rauf,AU Rashid,,0,6,6,,,,31263231263
+2,England,19,TK Curran,Haris Rauf,AU Rashid,,0,0,0,,,,31263231263

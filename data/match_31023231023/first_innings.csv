@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,England,0,AE Jones,N Mlaba,DN Wyatt,,0,0,0,,,,31023231023
+1,England,0,AE Jones,N Mlaba,DN Wyatt,,0,0,0,,,,31023231023
+1,England,0,AE Jones,N Mlaba,DN Wyatt,,0,4,4,,,,31023231023
+1,England,0,AE Jones,N Mlaba,DN Wyatt,,0,4,4,,,,31023231023
+1,England,0,AE Jones,N Mlaba,DN Wyatt,,0,0,0,,,,31023231023
+1,England,0,AE Jones,N Mlaba,DN Wyatt,,0,1,1,,,,31023231023
+1,England,1,AE Jones,M Kapp,DN Wyatt,,0,0,0,,,,31023231023
+1,England,1,AE Jones,M Kapp,DN Wyatt,,0,0,0,,,,31023231023
+1,England,1,AE Jones,M Kapp,DN Wyatt,,0,0,0,,,,31023231023
+1,England,1,AE Jones,M Kapp,DN Wyatt,,0,4,4,,,,31023231023
+1,England,1,AE Jones,M Kapp,DN Wyatt,,0,0,0,,,,31023231023
+1,England,1,AE Jones,M Kapp,DN Wyatt,,0,0,0,,,,31023231023
+1,England,2,DN Wyatt,S Ismail,AE Jones,,0,1,1,,,,31023231023
+1,England,2,AE Jones,S Ismail,DN Wyatt,,0,4,4,,,,31023231023
+1,England,2,AE Jones,S Ismail,DN Wyatt,,0,0,0,,,,31023231023
+1,England,2,AE Jones,S Ismail,DN Wyatt,,0,2,2,,,,31023231023
+1,England,2,AE Jones,S Ismail,DN Wyatt,,0,0,0,,,,31023231023
+1,England,2,AE Jones,S Ismail,DN Wyatt,,0,1,1,,,,31023231023
+1,England,3,AE Jones,M Kapp,DN Wyatt,,0,1,1,,,,31023231023
+1,England,3,DN Wyatt,M Kapp,AE Jones,,0,1,1,,,,31023231023
+1,England,3,AE Jones,M Kapp,DN Wyatt,,0,2,2,,,,31023231023
+1,England,3,AE Jones,M Kapp,DN Wyatt,,0,0,0,caught,AE Jones,CL Tryon,31023231023
+1,England,3,DN Wyatt,M Kapp,NR Sciver,,0,0,0,,,,31023231023
+1,England,3,DN Wyatt,M Kapp,NR Sciver,legbyes,1,1,0,,,,31023231023
+1,England,4,DN Wyatt,A Khaka,NR Sciver,,0,0,0,caught,DN Wyatt,L Lee,31023231023
+1,England,4,HC Knight,A Khaka,NR Sciver,wides,1,1,0,,,,31023231023
+1,England,4,HC Knight,A Khaka,NR Sciver,wides,1,1,0,,,,31023231023
+1,England,4,HC Knight,A Khaka,NR Sciver,,0,0,0,,,,31023231023
+1,England,4,HC Knight,A Khaka,NR Sciver,,0,0,0,,,,31023231023
+1,England,4,HC Knight,A Khaka,NR Sciver,,0,0,0,,,,31023231023
+1,England,4,HC Knight,A Khaka,NR Sciver,,0,0,0,,,,31023231023
+1,England,4,HC Knight,A Khaka,NR Sciver,,0,0,0,,,,31023231023
+1,England,5,NR Sciver,M Kapp,HC Knight,,0,1,1,,,,31023231023
+1,England,5,HC Knight,M Kapp,NR Sciver,,0,1,1,,,,31023231023
+1,England,5,NR Sciver,M Kapp,HC Knight,,0,0,0,,,,31023231023
+1,England,5,NR Sciver,M Kapp,HC Knight,,0,0,0,,,,31023231023
+1,England,5,NR Sciver,M Kapp,HC Knight,wides,1,1,0,,,,31023231023
+1,England,5,NR Sciver,M Kapp,HC Knight,,0,0,0,,,,31023231023
+1,England,5,NR Sciver,M Kapp,HC Knight,,0,0,0,,,,31023231023
+1,England,6,HC Knight,A Khaka,NR Sciver,,0,0,0,,,,31023231023
+1,England,6,HC Knight,A Khaka,NR Sciver,,0,1,1,,,,31023231023
+1,England,6,NR Sciver,A Khaka,HC Knight,,0,0,0,,,,31023231023
+1,England,6,NR Sciver,A Khaka,HC Knight,,0,4,4,,,,31023231023
+1,England,6,NR Sciver,A Khaka,HC Knight,,0,1,1,,,,31023231023
+1,England,6,HC Knight,A Khaka,NR Sciver,,0,1,1,,,,31023231023
+1,England,7,HC Knight,N Mlaba,NR Sciver,,0,1,1,,,,31023231023
+1,England,7,NR Sciver,N Mlaba,HC Knight,,0,0,0,,,,31023231023
+1,England,7,NR Sciver,N Mlaba,HC Knight,,0,1,1,,,,31023231023
+1,England,7,HC Knight,N Mlaba,NR Sciver,,0,1,1,,,,31023231023
+1,England,7,NR Sciver,N Mlaba,HC Knight,,0,1,1,,,,31023231023
+1,England,7,HC Knight,N Mlaba,NR Sciver,,0,1,1,,,,31023231023
+1,England,8,HC Knight,D van Niekerk,NR Sciver,,0,0,0,,,,31023231023
+1,England,8,HC Knight,D van Niekerk,NR Sciver,,0,0,0,caught,HC Knight,S Ismail,31023231023
+1,England,8,NR Sciver,D van Niekerk,FC Wilson,,0,1,1,,,,31023231023
+1,England,8,FC Wilson,D van Niekerk,NR Sciver,,0,0,0,,,,31023231023
+1,England,8,FC Wilson,D van Niekerk,NR Sciver,,0,0,0,,,,31023231023
+1,England,8,FC Wilson,D van Niekerk,NR Sciver,,0,1,1,,,,31023231023
+1,England,9,FC Wilson,N Mlaba,NR Sciver,,0,0,0,,,,31023231023
+1,England,9,FC Wilson,N Mlaba,NR Sciver,,0,0,0,,,,31023231023
+1,England,9,FC Wilson,N Mlaba,NR Sciver,,0,0,0,,,,31023231023
+1,England,9,FC Wilson,N Mlaba,NR Sciver,,0,1,1,,,,31023231023
+1,England,9,NR Sciver,N Mlaba,FC Wilson,,0,4,4,,,,31023231023
+1,England,9,NR Sciver,N Mlaba,FC Wilson,,0,0,0,,,,31023231023
+1,England,10,FC Wilson,D van Niekerk,NR Sciver,,0,1,1,,,,31023231023
+1,England,10,NR Sciver,D van Niekerk,FC Wilson,,0,1,1,,,,31023231023
+1,England,10,FC Wilson,D van Niekerk,NR Sciver,,0,1,1,,,,31023231023
+1,England,10,NR Sciver,D van Niekerk,FC Wilson,,0,1,1,,,,31023231023
+1,England,10,FC Wilson,D van Niekerk,NR Sciver,,0,0,0,,,,31023231023
+1,England,10,FC Wilson,D van Niekerk,NR Sciver,,0,2,2,,,,31023231023
+1,England,11,NR Sciver,S Ismail,FC Wilson,,0,1,1,,,,31023231023
+1,England,11,FC Wilson,S Ismail,NR Sciver,,0,0,0,,,,31023231023
+1,England,11,FC Wilson,S Ismail,NR Sciver,,0,1,1,,,,31023231023
+1,England,11,NR Sciver,S Ismail,FC Wilson,,0,1,1,,,,31023231023
+1,England,11,FC Wilson,S Ismail,NR Sciver,,0,1,1,,,,31023231023
+1,England,11,NR Sciver,S Ismail,FC Wilson,,0,0,0,,,,31023231023
+1,England,12,FC Wilson,D van Niekerk,NR Sciver,,0,1,1,,,,31023231023
+1,England,12,NR Sciver,D van Niekerk,FC Wilson,,0,1,1,,,,31023231023
+1,England,12,FC Wilson,D van Niekerk,NR Sciver,,0,1,1,,,,31023231023
+1,England,12,NR Sciver,D van Niekerk,FC Wilson,,0,1,1,,,,31023231023
+1,England,12,FC Wilson,D van Niekerk,NR Sciver,,0,2,2,,,,31023231023
+1,England,12,FC Wilson,D van Niekerk,NR Sciver,,0,0,0,,,,31023231023
+1,England,13,NR Sciver,S Ismail,FC Wilson,,0,1,1,,,,31023231023
+1,England,13,FC Wilson,S Ismail,NR Sciver,,0,1,1,,,,31023231023
+1,England,13,NR Sciver,S Ismail,FC Wilson,,0,0,0,,,,31023231023
+1,England,13,NR Sciver,S Ismail,FC Wilson,,0,0,0,,,,31023231023
+1,England,13,NR Sciver,S Ismail,FC Wilson,,0,0,0,,,,31023231023
+1,England,13,NR Sciver,S Ismail,FC Wilson,,0,1,1,,,,31023231023
+1,England,14,NR Sciver,D van Niekerk,FC Wilson,,0,1,1,,,,31023231023
+1,England,14,FC Wilson,D van Niekerk,NR Sciver,,0,1,1,,,,31023231023
+1,England,14,NR Sciver,D van Niekerk,FC Wilson,,0,1,1,,,,31023231023
+1,England,14,FC Wilson,D van Niekerk,NR Sciver,,0,0,0,caught,FC Wilson,S Ismail,31023231023
+1,England,14,NR Sciver,D van Niekerk,KH Brunt,,0,1,1,,,,31023231023
+1,England,14,KH Brunt,D van Niekerk,NR Sciver,,0,2,2,,,,31023231023
+1,England,15,NR Sciver,N Mlaba,KH Brunt,,0,6,6,,,,31023231023
+1,England,15,NR Sciver,N Mlaba,KH Brunt,,0,1,1,,,,31023231023
+1,England,15,KH Brunt,N Mlaba,NR Sciver,legbyes,1,1,0,,,,31023231023
+1,England,15,NR Sciver,N Mlaba,KH Brunt,,0,4,4,,,,31023231023
+1,England,15,NR Sciver,N Mlaba,KH Brunt,,0,1,1,,,,31023231023
+1,England,15,KH Brunt,N Mlaba,NR Sciver,,0,0,0,,,,31023231023
+1,England,16,NR Sciver,A Khaka,KH Brunt,,0,0,0,,,,31023231023
+1,England,16,NR Sciver,A Khaka,KH Brunt,,0,4,4,,,,31023231023
+1,England,16,NR Sciver,A Khaka,KH Brunt,,0,2,2,,,,31023231023
+1,England,16,NR Sciver,A Khaka,KH Brunt,,0,2,2,,,,31023231023
+1,England,16,NR Sciver,A Khaka,KH Brunt,,0,1,1,,,,31023231023
+1,England,16,KH Brunt,A Khaka,NR Sciver,,0,1,1,,,,31023231023
+1,England,17,KH Brunt,S Ismail,NR Sciver,,0,2,2,,,,31023231023
+1,England,17,KH Brunt,S Ismail,NR Sciver,,0,0,0,,,,31023231023
+1,England,17,KH Brunt,S Ismail,NR Sciver,,0,4,4,,,,31023231023
+1,England,17,KH Brunt,S Ismail,NR Sciver,,0,0,0,caught,KH Brunt,A Khaka,31023231023
+1,England,17,NR Sciver,S Ismail,TT Beaumont,,0,4,4,,,,31023231023
+1,England,17,NR Sciver,S Ismail,TT Beaumont,,0,1,1,,,,31023231023
+1,England,18,NR Sciver,A Khaka,TT Beaumont,,0,0,0,bowled,NR Sciver,,31023231023
+1,England,18,L Winfield,A Khaka,TT Beaumont,,0,1,1,,,,31023231023
+1,England,18,TT Beaumont,A Khaka,L Winfield,,0,0,0,,,,31023231023
+1,England,18,TT Beaumont,A Khaka,L Winfield,,0,4,4,,,,31023231023
+1,England,18,TT Beaumont,A Khaka,L Winfield,,0,1,1,,,,31023231023
+1,England,18,L Winfield,A Khaka,TT Beaumont,,0,0,0,caught,L Winfield,CL Tryon,31023231023
+1,England,19,TT Beaumont,M Kapp,S Ecclestone,,0,4,4,,,,31023231023
+1,England,19,TT Beaumont,M Kapp,S Ecclestone,,0,0,0,,,,31023231023
+1,England,19,TT Beaumont,M Kapp,S Ecclestone,,0,0,0,lbw,TT Beaumont,,31023231023
+1,England,19,A Shrubsole,M Kapp,S Ecclestone,,0,1,1,,,,31023231023
+1,England,19,S Ecclestone,M Kapp,A Shrubsole,,0,1,1,,,,31023231023
+1,England,19,A Shrubsole,M Kapp,S Ecclestone,,0,2,2,,,,31023231023

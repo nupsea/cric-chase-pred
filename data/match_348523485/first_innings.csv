@@ -1,0 +1,88 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Sri Lanka,0,BYA Mendis,S Ismail,AC Jayangani,,0,0,0,,,,348523485
+1,Sri Lanka,0,BYA Mendis,S Ismail,AC Jayangani,,0,0,0,,,,348523485
+1,Sri Lanka,0,BYA Mendis,S Ismail,AC Jayangani,,0,0,0,,,,348523485
+1,Sri Lanka,0,BYA Mendis,S Ismail,AC Jayangani,,0,4,4,,,,348523485
+1,Sri Lanka,0,BYA Mendis,S Ismail,AC Jayangani,,0,4,4,,,,348523485
+1,Sri Lanka,0,BYA Mendis,S Ismail,AC Jayangani,,0,4,4,,,,348523485
+1,Sri Lanka,1,AC Jayangani,M Kapp,BYA Mendis,,0,1,1,,,,348523485
+1,Sri Lanka,1,BYA Mendis,M Kapp,AC Jayangani,,0,0,0,,,,348523485
+1,Sri Lanka,1,BYA Mendis,M Kapp,AC Jayangani,,0,0,0,,,,348523485
+1,Sri Lanka,1,BYA Mendis,M Kapp,AC Jayangani,,0,1,1,,,,348523485
+1,Sri Lanka,1,AC Jayangani,M Kapp,BYA Mendis,,0,0,0,,,,348523485
+1,Sri Lanka,1,AC Jayangani,M Kapp,BYA Mendis,,0,1,1,,,,348523485
+1,Sri Lanka,2,AC Jayangani,CL Tryon,BYA Mendis,,0,1,1,,,,348523485
+1,Sri Lanka,2,BYA Mendis,CL Tryon,AC Jayangani,,0,4,4,,,,348523485
+1,Sri Lanka,2,BYA Mendis,CL Tryon,AC Jayangani,,0,0,0,,,,348523485
+1,Sri Lanka,2,BYA Mendis,CL Tryon,AC Jayangani,,0,4,4,,,,348523485
+1,Sri Lanka,2,BYA Mendis,CL Tryon,AC Jayangani,,0,0,0,caught,BYA Mendis,T Chetty,348523485
+1,Sri Lanka,2,HASD Siriwardene,CL Tryon,AC Jayangani,,0,0,0,,,,348523485
+1,Sri Lanka,3,AC Jayangani,M Kapp,HASD Siriwardene,,0,4,4,,,,348523485
+1,Sri Lanka,3,AC Jayangani,M Kapp,HASD Siriwardene,,0,1,1,,,,348523485
+1,Sri Lanka,3,HASD Siriwardene,M Kapp,AC Jayangani,wides,1,1,0,,,,348523485
+1,Sri Lanka,3,HASD Siriwardene,M Kapp,AC Jayangani,,0,0,0,,,,348523485
+1,Sri Lanka,3,HASD Siriwardene,M Kapp,AC Jayangani,,0,2,2,,,,348523485
+1,Sri Lanka,3,HASD Siriwardene,M Kapp,AC Jayangani,,0,0,0,,,,348523485
+1,Sri Lanka,3,HASD Siriwardene,M Kapp,AC Jayangani,,0,1,1,,,,348523485
+1,Sri Lanka,4,HASD Siriwardene,CL Tryon,AC Jayangani,,0,0,0,,,,348523485
+1,Sri Lanka,4,HASD Siriwardene,CL Tryon,AC Jayangani,,0,0,0,caught,HASD Siriwardene,M Kapp,348523485
+1,Sri Lanka,4,PM Weerakkody,CL Tryon,AC Jayangani,,0,0,0,,,,348523485
+1,Sri Lanka,4,PM Weerakkody,CL Tryon,AC Jayangani,,0,0,0,,,,348523485
+1,Sri Lanka,4,PM Weerakkody,CL Tryon,AC Jayangani,,0,1,1,,,,348523485
+1,Sri Lanka,4,AC Jayangani,CL Tryon,PM Weerakkody,,0,1,1,,,,348523485
+1,Sri Lanka,5,AC Jayangani,S Ismail,PM Weerakkody,,0,2,2,,,,348523485
+1,Sri Lanka,5,AC Jayangani,S Ismail,PM Weerakkody,,0,1,1,,,,348523485
+1,Sri Lanka,5,PM Weerakkody,S Ismail,AC Jayangani,,0,0,0,,,,348523485
+1,Sri Lanka,5,PM Weerakkody,S Ismail,AC Jayangani,,0,0,0,,,,348523485
+1,Sri Lanka,5,PM Weerakkody,S Ismail,AC Jayangani,,0,0,0,caught and bowled,PM Weerakkody,,348523485
+1,Sri Lanka,5,AC Jayangani,S Ismail,GWHM Perera,,0,0,0,,,,348523485
+1,Sri Lanka,6,GWHM Perera,CL Tryon,AC Jayangani,,0,0,0,,,,348523485
+1,Sri Lanka,6,GWHM Perera,CL Tryon,AC Jayangani,,0,1,1,,,,348523485
+1,Sri Lanka,6,AC Jayangani,CL Tryon,GWHM Perera,,0,1,1,,,,348523485
+1,Sri Lanka,6,GWHM Perera,CL Tryon,AC Jayangani,,0,0,0,,,,348523485
+1,Sri Lanka,6,GWHM Perera,CL Tryon,AC Jayangani,,0,1,1,,,,348523485
+1,Sri Lanka,6,AC Jayangani,CL Tryon,GWHM Perera,,0,1,1,,,,348523485
+1,Sri Lanka,7,AC Jayangani,D van Niekerk,GWHM Perera,,0,2,2,,,,348523485
+1,Sri Lanka,7,AC Jayangani,D van Niekerk,GWHM Perera,,0,0,0,caught,AC Jayangani,M Kapp,348523485
+1,Sri Lanka,7,GWHM Perera,D van Niekerk,LE Kaushalya,,0,0,0,,,,348523485
+1,Sri Lanka,7,GWHM Perera,D van Niekerk,LE Kaushalya,,0,0,0,,,,348523485
+1,Sri Lanka,7,GWHM Perera,D van Niekerk,LE Kaushalya,,0,0,0,,,,348523485
+1,Sri Lanka,7,GWHM Perera,D van Niekerk,LE Kaushalya,,0,0,0,,,,348523485
+1,Sri Lanka,8,LE Kaushalya,MM Letsoalo,GWHM Perera,,0,0,0,,,,348523485
+1,Sri Lanka,8,LE Kaushalya,MM Letsoalo,GWHM Perera,,0,1,1,,,,348523485
+1,Sri Lanka,8,GWHM Perera,MM Letsoalo,LE Kaushalya,,0,4,4,,,,348523485
+1,Sri Lanka,8,GWHM Perera,MM Letsoalo,LE Kaushalya,,0,0,0,,,,348523485
+1,Sri Lanka,8,GWHM Perera,MM Letsoalo,LE Kaushalya,,0,0,0,,,,348523485
+1,Sri Lanka,8,GWHM Perera,MM Letsoalo,LE Kaushalya,,0,0,0,,,,348523485
+1,Sri Lanka,9,LE Kaushalya,D van Niekerk,GWHM Perera,,0,1,1,,,,348523485
+1,Sri Lanka,9,GWHM Perera,D van Niekerk,LE Kaushalya,,0,1,1,,,,348523485
+1,Sri Lanka,9,LE Kaushalya,D van Niekerk,GWHM Perera,,0,0,0,,,,348523485
+1,Sri Lanka,9,LE Kaushalya,D van Niekerk,GWHM Perera,,0,4,4,,,,348523485
+1,Sri Lanka,9,LE Kaushalya,D van Niekerk,GWHM Perera,wides,1,1,0,,,,348523485
+1,Sri Lanka,9,LE Kaushalya,D van Niekerk,GWHM Perera,,0,1,1,,,,348523485
+1,Sri Lanka,9,GWHM Perera,D van Niekerk,LE Kaushalya,,0,0,0,caught,GWHM Perera,M Kapp,348523485
+1,Sri Lanka,10,LE Kaushalya,Y Fourie,KADA Kanchana,wides,1,1,0,,,,348523485
+1,Sri Lanka,10,LE Kaushalya,Y Fourie,KADA Kanchana,,0,1,1,,,,348523485
+1,Sri Lanka,10,KADA Kanchana,Y Fourie,LE Kaushalya,,0,2,2,,,,348523485
+1,Sri Lanka,10,KADA Kanchana,Y Fourie,LE Kaushalya,,0,1,1,,,,348523485
+1,Sri Lanka,10,LE Kaushalya,Y Fourie,KADA Kanchana,,0,1,1,,,,348523485
+1,Sri Lanka,10,KADA Kanchana,Y Fourie,LE Kaushalya,,0,0,0,run out,KADA Kanchana,Y Fourie,348523485
+1,Sri Lanka,10,LE Kaushalya,Y Fourie,HAM Samuddika,,0,0,0,,,,348523485
+1,Sri Lanka,11,HAM Samuddika,D van Niekerk,LE Kaushalya,,0,1,1,,,,348523485
+1,Sri Lanka,11,LE Kaushalya,D van Niekerk,HAM Samuddika,,0,0,0,,,,348523485
+1,Sri Lanka,11,LE Kaushalya,D van Niekerk,HAM Samuddika,,0,1,1,,,,348523485
+1,Sri Lanka,11,HAM Samuddika,D van Niekerk,LE Kaushalya,,0,0,0,run out,LE Kaushalya,NA Moodley,348523485
+1,Sri Lanka,11,HAM Samuddika,D van Niekerk,NND de Silva,,0,1,1,,,,348523485
+1,Sri Lanka,11,NND de Silva,D van Niekerk,HAM Samuddika,,0,1,1,,,,348523485
+1,Sri Lanka,12,NND de Silva,Y Fourie,HAM Samuddika,,0,0,0,,,,348523485
+1,Sri Lanka,12,NND de Silva,Y Fourie,HAM Samuddika,,0,1,1,,,,348523485
+1,Sri Lanka,12,HAM Samuddika,Y Fourie,NND de Silva,,0,0,0,run out,HAM Samuddika,A Steyn,348523485
+1,Sri Lanka,12,NND de Silva,Y Fourie,I Ranaweera,,0,0,0,,,,348523485
+1,Sri Lanka,12,NND de Silva,Y Fourie,I Ranaweera,,0,4,4,,,,348523485
+1,Sri Lanka,12,NND de Silva,Y Fourie,I Ranaweera,,0,1,1,,,,348523485
+1,Sri Lanka,13,NND de Silva,D van Niekerk,I Ranaweera,,0,1,1,,,,348523485
+1,Sri Lanka,13,I Ranaweera,D van Niekerk,NND de Silva,,0,1,1,,,,348523485
+1,Sri Lanka,13,NND de Silva,D van Niekerk,I Ranaweera,,0,0,0,,,,348523485
+1,Sri Lanka,13,NND de Silva,D van Niekerk,I Ranaweera,,0,0,0,caught,NND de Silva,T Chetty,348523485
+1,Sri Lanka,13,SIP Fernando,D van Niekerk,I Ranaweera,,0,1,1,,,,348523485
+1,Sri Lanka,13,I Ranaweera,D van Niekerk,SIP Fernando,,0,0,0,bowled,I Ranaweera,,348523485

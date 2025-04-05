@@ -1,0 +1,129 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,New Zealand,0,TL Seifert,B Kumar,C Munro,,0,0,0,,,,393023930
+1,New Zealand,0,TL Seifert,B Kumar,C Munro,,0,1,1,,,,393023930
+1,New Zealand,0,C Munro,B Kumar,TL Seifert,,0,0,0,,,,393023930
+1,New Zealand,0,C Munro,B Kumar,TL Seifert,legbyes,1,1,0,,,,393023930
+1,New Zealand,0,TL Seifert,B Kumar,C Munro,,0,0,0,,,,393023930
+1,New Zealand,0,TL Seifert,B Kumar,C Munro,wides,1,1,0,,,,393023930
+1,New Zealand,0,TL Seifert,B Kumar,C Munro,,0,0,0,,,,393023930
+1,New Zealand,1,C Munro,KK Ahmed,TL Seifert,,0,1,1,,,,393023930
+1,New Zealand,1,TL Seifert,KK Ahmed,C Munro,,0,0,0,,,,393023930
+1,New Zealand,1,TL Seifert,KK Ahmed,C Munro,,0,0,0,,,,393023930
+1,New Zealand,1,TL Seifert,KK Ahmed,C Munro,,0,0,0,,,,393023930
+1,New Zealand,1,TL Seifert,KK Ahmed,C Munro,,0,0,0,,,,393023930
+1,New Zealand,1,TL Seifert,KK Ahmed,C Munro,,0,1,1,,,,393023930
+1,New Zealand,2,TL Seifert,B Kumar,C Munro,,0,4,4,,,,393023930
+1,New Zealand,2,TL Seifert,B Kumar,C Munro,,0,6,6,,,,393023930
+1,New Zealand,2,TL Seifert,B Kumar,C Munro,,0,0,0,caught,TL Seifert,MS Dhoni,393023930
+1,New Zealand,2,KS Williamson,B Kumar,C Munro,,0,1,1,,,,393023930
+1,New Zealand,2,C Munro,B Kumar,KS Williamson,,0,1,1,,,,393023930
+1,New Zealand,2,KS Williamson,B Kumar,C Munro,,0,0,0,,,,393023930
+1,New Zealand,3,C Munro,KK Ahmed,KS Williamson,,0,2,2,,,,393023930
+1,New Zealand,3,C Munro,KK Ahmed,KS Williamson,,0,0,0,,,,393023930
+1,New Zealand,3,C Munro,KK Ahmed,KS Williamson,,0,0,0,,,,393023930
+1,New Zealand,3,C Munro,KK Ahmed,KS Williamson,,0,6,6,,,,393023930
+1,New Zealand,3,C Munro,KK Ahmed,KS Williamson,,0,1,1,,,,393023930
+1,New Zealand,3,KS Williamson,KK Ahmed,C Munro,,0,4,4,,,,393023930
+1,New Zealand,4,C Munro,HH Pandya,KS Williamson,,0,1,1,,,,393023930
+1,New Zealand,4,KS Williamson,HH Pandya,C Munro,,0,4,4,,,,393023930
+1,New Zealand,4,KS Williamson,HH Pandya,C Munro,,0,0,0,,,,393023930
+1,New Zealand,4,KS Williamson,HH Pandya,C Munro,,0,4,4,,,,393023930
+1,New Zealand,4,KS Williamson,HH Pandya,C Munro,,0,1,1,,,,393023930
+1,New Zealand,4,C Munro,HH Pandya,KS Williamson,,0,0,0,,,,393023930
+1,New Zealand,5,KS Williamson,KH Pandya,C Munro,,0,1,1,,,,393023930
+1,New Zealand,5,C Munro,KH Pandya,KS Williamson,,0,0,0,caught,C Munro,RG Sharma,393023930
+1,New Zealand,5,DJ Mitchell,KH Pandya,KS Williamson,,0,1,1,,,,393023930
+1,New Zealand,5,KS Williamson,KH Pandya,DJ Mitchell,,0,0,0,,,,393023930
+1,New Zealand,5,KS Williamson,KH Pandya,DJ Mitchell,,0,1,1,,,,393023930
+1,New Zealand,5,DJ Mitchell,KH Pandya,KS Williamson,,0,0,0,lbw,DJ Mitchell,,393023930
+1,New Zealand,6,KS Williamson,YS Chahal,LRPL Taylor,,0,1,1,,,,393023930
+1,New Zealand,6,LRPL Taylor,YS Chahal,KS Williamson,,0,0,0,,,,393023930
+1,New Zealand,6,LRPL Taylor,YS Chahal,KS Williamson,,0,1,1,,,,393023930
+1,New Zealand,6,KS Williamson,YS Chahal,LRPL Taylor,,0,1,1,,,,393023930
+1,New Zealand,6,LRPL Taylor,YS Chahal,KS Williamson,,0,1,1,,,,393023930
+1,New Zealand,6,KS Williamson,YS Chahal,LRPL Taylor,,0,1,1,,,,393023930
+1,New Zealand,7,KS Williamson,KH Pandya,LRPL Taylor,,0,0,0,,,,393023930
+1,New Zealand,7,KS Williamson,KH Pandya,LRPL Taylor,,0,0,0,,,,393023930
+1,New Zealand,7,KS Williamson,KH Pandya,LRPL Taylor,,0,1,1,,,,393023930
+1,New Zealand,7,LRPL Taylor,KH Pandya,KS Williamson,,0,1,1,,,,393023930
+1,New Zealand,7,KS Williamson,KH Pandya,LRPL Taylor,,0,0,0,lbw,KS Williamson,,393023930
+1,New Zealand,7,C de Grandhomme,KH Pandya,LRPL Taylor,,0,1,1,,,,393023930
+1,New Zealand,8,C de Grandhomme,YS Chahal,LRPL Taylor,,0,0,0,,,,393023930
+1,New Zealand,8,C de Grandhomme,YS Chahal,LRPL Taylor,,0,1,1,,,,393023930
+1,New Zealand,8,LRPL Taylor,YS Chahal,C de Grandhomme,,0,1,1,,,,393023930
+1,New Zealand,8,C de Grandhomme,YS Chahal,LRPL Taylor,,0,1,1,,,,393023930
+1,New Zealand,8,LRPL Taylor,YS Chahal,C de Grandhomme,wides,1,1,0,,,,393023930
+1,New Zealand,8,LRPL Taylor,YS Chahal,C de Grandhomme,,0,0,0,,,,393023930
+1,New Zealand,8,LRPL Taylor,YS Chahal,C de Grandhomme,,0,1,1,,,,393023930
+1,New Zealand,9,LRPL Taylor,KH Pandya,C de Grandhomme,,0,0,0,,,,393023930
+1,New Zealand,9,LRPL Taylor,KH Pandya,C de Grandhomme,,0,0,0,,,,393023930
+1,New Zealand,9,LRPL Taylor,KH Pandya,C de Grandhomme,,0,1,1,,,,393023930
+1,New Zealand,9,C de Grandhomme,KH Pandya,LRPL Taylor,,0,1,1,,,,393023930
+1,New Zealand,9,LRPL Taylor,KH Pandya,C de Grandhomme,,0,1,1,,,,393023930
+1,New Zealand,9,C de Grandhomme,KH Pandya,LRPL Taylor,,0,1,1,,,,393023930
+1,New Zealand,10,C de Grandhomme,YS Chahal,LRPL Taylor,,0,6,6,,,,393023930
+1,New Zealand,10,C de Grandhomme,YS Chahal,LRPL Taylor,,0,4,4,,,,393023930
+1,New Zealand,10,C de Grandhomme,YS Chahal,LRPL Taylor,,0,6,6,,,,393023930
+1,New Zealand,10,C de Grandhomme,YS Chahal,LRPL Taylor,,0,1,1,,,,393023930
+1,New Zealand,10,LRPL Taylor,YS Chahal,C de Grandhomme,,0,2,2,,,,393023930
+1,New Zealand,10,LRPL Taylor,YS Chahal,C de Grandhomme,,0,0,0,,,,393023930
+1,New Zealand,11,C de Grandhomme,KH Pandya,LRPL Taylor,,0,2,2,,,,393023930
+1,New Zealand,11,C de Grandhomme,KH Pandya,LRPL Taylor,,0,6,6,,,,393023930
+1,New Zealand,11,C de Grandhomme,KH Pandya,LRPL Taylor,,0,6,6,,,,393023930
+1,New Zealand,11,C de Grandhomme,KH Pandya,LRPL Taylor,,0,1,1,,,,393023930
+1,New Zealand,11,LRPL Taylor,KH Pandya,C de Grandhomme,,0,2,2,,,,393023930
+1,New Zealand,11,LRPL Taylor,KH Pandya,C de Grandhomme,,0,1,1,,,,393023930
+1,New Zealand,12,LRPL Taylor,YS Chahal,C de Grandhomme,,0,0,0,,,,393023930
+1,New Zealand,12,LRPL Taylor,YS Chahal,C de Grandhomme,,0,1,1,,,,393023930
+1,New Zealand,12,C de Grandhomme,YS Chahal,LRPL Taylor,,0,1,1,,,,393023930
+1,New Zealand,12,LRPL Taylor,YS Chahal,C de Grandhomme,,0,4,4,,,,393023930
+1,New Zealand,12,LRPL Taylor,YS Chahal,C de Grandhomme,,0,1,1,,,,393023930
+1,New Zealand,12,C de Grandhomme,YS Chahal,LRPL Taylor,,0,1,1,,,,393023930
+1,New Zealand,13,C de Grandhomme,HH Pandya,LRPL Taylor,,0,2,2,,,,393023930
+1,New Zealand,13,C de Grandhomme,HH Pandya,LRPL Taylor,,0,0,0,,,,393023930
+1,New Zealand,13,C de Grandhomme,HH Pandya,LRPL Taylor,wides,1,1,0,,,,393023930
+1,New Zealand,13,C de Grandhomme,HH Pandya,LRPL Taylor,wides,1,1,0,,,,393023930
+1,New Zealand,13,C de Grandhomme,HH Pandya,LRPL Taylor,,0,1,1,,,,393023930
+1,New Zealand,13,LRPL Taylor,HH Pandya,C de Grandhomme,,0,1,1,,,,393023930
+1,New Zealand,13,C de Grandhomme,HH Pandya,LRPL Taylor,,0,2,2,,,,393023930
+1,New Zealand,13,C de Grandhomme,HH Pandya,LRPL Taylor,,0,1,1,,,,393023930
+1,New Zealand,14,C de Grandhomme,KK Ahmed,LRPL Taylor,,0,0,0,,,,393023930
+1,New Zealand,14,C de Grandhomme,KK Ahmed,LRPL Taylor,,0,0,0,,,,393023930
+1,New Zealand,14,C de Grandhomme,KK Ahmed,LRPL Taylor,,0,1,1,,,,393023930
+1,New Zealand,14,LRPL Taylor,KK Ahmed,C de Grandhomme,,0,4,4,,,,393023930
+1,New Zealand,14,LRPL Taylor,KK Ahmed,C de Grandhomme,,0,1,1,,,,393023930
+1,New Zealand,14,C de Grandhomme,KK Ahmed,LRPL Taylor,,0,1,1,,,,393023930
+1,New Zealand,15,C de Grandhomme,HH Pandya,LRPL Taylor,,0,1,1,,,,393023930
+1,New Zealand,15,LRPL Taylor,HH Pandya,C de Grandhomme,wides,1,1,0,,,,393023930
+1,New Zealand,15,LRPL Taylor,HH Pandya,C de Grandhomme,,0,1,1,,,,393023930
+1,New Zealand,15,C de Grandhomme,HH Pandya,LRPL Taylor,wides,1,1,0,,,,393023930
+1,New Zealand,15,C de Grandhomme,HH Pandya,LRPL Taylor,,0,2,2,,,,393023930
+1,New Zealand,15,C de Grandhomme,HH Pandya,LRPL Taylor,,0,0,0,caught,C de Grandhomme,RG Sharma,393023930
+1,New Zealand,15,MJ Santner,HH Pandya,LRPL Taylor,,0,1,1,,,,393023930
+1,New Zealand,15,LRPL Taylor,HH Pandya,MJ Santner,,0,1,1,,,,393023930
+1,New Zealand,16,LRPL Taylor,B Kumar,MJ Santner,,0,2,2,,,,393023930
+1,New Zealand,16,LRPL Taylor,B Kumar,MJ Santner,,0,1,1,,,,393023930
+1,New Zealand,16,MJ Santner,B Kumar,LRPL Taylor,,0,1,1,,,,393023930
+1,New Zealand,16,LRPL Taylor,B Kumar,MJ Santner,,0,1,1,,,,393023930
+1,New Zealand,16,MJ Santner,B Kumar,LRPL Taylor,,0,1,1,,,,393023930
+1,New Zealand,16,LRPL Taylor,B Kumar,MJ Santner,,0,1,1,,,,393023930
+1,New Zealand,17,LRPL Taylor,HH Pandya,MJ Santner,,0,4,4,,,,393023930
+1,New Zealand,17,LRPL Taylor,HH Pandya,MJ Santner,,0,1,1,,,,393023930
+1,New Zealand,17,MJ Santner,HH Pandya,LRPL Taylor,,0,1,1,,,,393023930
+1,New Zealand,17,LRPL Taylor,HH Pandya,MJ Santner,,0,1,1,,,,393023930
+1,New Zealand,17,MJ Santner,HH Pandya,LRPL Taylor,,0,1,1,,,,393023930
+1,New Zealand,17,LRPL Taylor,HH Pandya,MJ Santner,,0,1,1,,,,393023930
+1,New Zealand,18,LRPL Taylor,B Kumar,MJ Santner,,0,1,1,,,,393023930
+1,New Zealand,18,MJ Santner,B Kumar,LRPL Taylor,,0,1,1,,,,393023930
+1,New Zealand,18,LRPL Taylor,B Kumar,MJ Santner,,0,2,2,,,,393023930
+1,New Zealand,18,LRPL Taylor,B Kumar,MJ Santner,,0,0,0,,,,393023930
+1,New Zealand,18,LRPL Taylor,B Kumar,MJ Santner,wides,1,1,0,,,,393023930
+1,New Zealand,18,LRPL Taylor,B Kumar,MJ Santner,wides,1,1,0,,,,393023930
+1,New Zealand,18,LRPL Taylor,B Kumar,MJ Santner,,0,1,1,,,,393023930
+1,New Zealand,18,MJ Santner,B Kumar,LRPL Taylor,,0,1,1,run out,LRPL Taylor,,393023930
+1,New Zealand,19,SC Kuggeleijn,KK Ahmed,MJ Santner,,0,1,1,,,,393023930
+1,New Zealand,19,MJ Santner,KK Ahmed,SC Kuggeleijn,,0,0,0,bowled,MJ Santner,,393023930
+1,New Zealand,19,TG Southee,KK Ahmed,SC Kuggeleijn,,0,1,1,,,,393023930
+1,New Zealand,19,SC Kuggeleijn,KK Ahmed,TG Southee,,0,1,1,,,,393023930
+1,New Zealand,19,TG Southee,KK Ahmed,SC Kuggeleijn,,0,2,2,,,,393023930
+1,New Zealand,19,TG Southee,KK Ahmed,SC Kuggeleijn,,0,0,0,bowled,TG Southee,,393023930

@@ -1,0 +1,117 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,New Zealand,0,MJ Guptill,Mohammad Amir,C Munro,legbyes,4,4,0,,,,375323753
+2,New Zealand,0,MJ Guptill,Mohammad Amir,C Munro,,0,0,0,,,,375323753
+2,New Zealand,0,MJ Guptill,Mohammad Amir,C Munro,,0,0,0,,,,375323753
+2,New Zealand,0,MJ Guptill,Mohammad Amir,C Munro,,0,0,0,,,,375323753
+2,New Zealand,0,MJ Guptill,Mohammad Amir,C Munro,,0,0,0,,,,375323753
+2,New Zealand,0,MJ Guptill,Mohammad Amir,C Munro,,0,1,1,,,,375323753
+2,New Zealand,1,MJ Guptill,Rumman Raees,C Munro,,0,0,0,,,,375323753
+2,New Zealand,1,MJ Guptill,Rumman Raees,C Munro,,0,2,2,,,,375323753
+2,New Zealand,1,MJ Guptill,Rumman Raees,C Munro,,0,0,0,,,,375323753
+2,New Zealand,1,MJ Guptill,Rumman Raees,C Munro,wides,1,1,0,,,,375323753
+2,New Zealand,1,MJ Guptill,Rumman Raees,C Munro,,0,1,1,,,,375323753
+2,New Zealand,1,C Munro,Rumman Raees,MJ Guptill,noballs,1,2,1,,,,375323753
+2,New Zealand,1,MJ Guptill,Rumman Raees,C Munro,,0,4,4,,,,375323753
+2,New Zealand,1,MJ Guptill,Rumman Raees,C Munro,,0,1,1,,,,375323753
+2,New Zealand,2,MJ Guptill,Mohammad Amir,C Munro,,0,2,2,,,,375323753
+2,New Zealand,2,MJ Guptill,Mohammad Amir,C Munro,,0,0,0,,,,375323753
+2,New Zealand,2,MJ Guptill,Mohammad Amir,C Munro,,0,6,6,,,,375323753
+2,New Zealand,2,MJ Guptill,Mohammad Amir,C Munro,,0,0,0,,,,375323753
+2,New Zealand,2,MJ Guptill,Mohammad Amir,C Munro,,0,1,1,,,,375323753
+2,New Zealand,2,C Munro,Mohammad Amir,MJ Guptill,,0,0,0,lbw,C Munro,,375323753
+2,New Zealand,3,MJ Guptill,Rumman Raees,KS Williamson,,0,2,2,,,,375323753
+2,New Zealand,3,MJ Guptill,Rumman Raees,KS Williamson,,0,1,1,,,,375323753
+2,New Zealand,3,KS Williamson,Rumman Raees,MJ Guptill,,0,0,0,caught,KS Williamson,Haris Sohail,375323753
+2,New Zealand,3,TC Bruce,Rumman Raees,MJ Guptill,,0,1,1,,,,375323753
+2,New Zealand,3,MJ Guptill,Rumman Raees,TC Bruce,,0,1,1,,,,375323753
+2,New Zealand,3,TC Bruce,Rumman Raees,MJ Guptill,,0,0,0,,,,375323753
+2,New Zealand,4,MJ Guptill,Faheem Ashraf,TC Bruce,wides,1,1,0,,,,375323753
+2,New Zealand,4,MJ Guptill,Faheem Ashraf,TC Bruce,,0,1,1,,,,375323753
+2,New Zealand,4,TC Bruce,Faheem Ashraf,MJ Guptill,,0,4,4,,,,375323753
+2,New Zealand,4,TC Bruce,Faheem Ashraf,MJ Guptill,,0,6,6,,,,375323753
+2,New Zealand,4,TC Bruce,Faheem Ashraf,MJ Guptill,,0,0,0,,,,375323753
+2,New Zealand,4,TC Bruce,Faheem Ashraf,MJ Guptill,,0,0,0,,,,375323753
+2,New Zealand,4,TC Bruce,Faheem Ashraf,MJ Guptill,byes,4,4,0,,,,375323753
+2,New Zealand,5,MJ Guptill,Hasan Ali,TC Bruce,,0,0,0,,,,375323753
+2,New Zealand,5,MJ Guptill,Hasan Ali,TC Bruce,,0,0,0,,,,375323753
+2,New Zealand,5,MJ Guptill,Hasan Ali,TC Bruce,,0,1,1,,,,375323753
+2,New Zealand,5,TC Bruce,Hasan Ali,MJ Guptill,,0,0,0,run out,TC Bruce,,375323753
+2,New Zealand,5,MJ Guptill,Hasan Ali,GD Phillips,,0,1,1,,,,375323753
+2,New Zealand,5,GD Phillips,Hasan Ali,MJ Guptill,,0,1,1,,,,375323753
+2,New Zealand,6,GD Phillips,Shadab Khan,MJ Guptill,,0,0,0,,,,375323753
+2,New Zealand,6,GD Phillips,Shadab Khan,MJ Guptill,,0,1,1,,,,375323753
+2,New Zealand,6,MJ Guptill,Shadab Khan,GD Phillips,,0,1,1,,,,375323753
+2,New Zealand,6,GD Phillips,Shadab Khan,MJ Guptill,,0,1,1,,,,375323753
+2,New Zealand,6,MJ Guptill,Shadab Khan,GD Phillips,,0,0,0,caught,MJ Guptill,Umar Amin,375323753
+2,New Zealand,6,C de Grandhomme,Shadab Khan,GD Phillips,,0,4,4,,,,375323753
+2,New Zealand,7,GD Phillips,Faheem Ashraf,C de Grandhomme,,0,0,0,,,,375323753
+2,New Zealand,7,GD Phillips,Faheem Ashraf,C de Grandhomme,,0,0,0,,,,375323753
+2,New Zealand,7,GD Phillips,Faheem Ashraf,C de Grandhomme,,0,2,2,,,,375323753
+2,New Zealand,7,GD Phillips,Faheem Ashraf,C de Grandhomme,,0,0,0,,,,375323753
+2,New Zealand,7,GD Phillips,Faheem Ashraf,C de Grandhomme,,0,0,0,caught,GD Phillips,Haris Sohail,375323753
+2,New Zealand,7,MJ Santner,Faheem Ashraf,C de Grandhomme,,0,0,0,,,,375323753
+2,New Zealand,8,C de Grandhomme,Shadab Khan,MJ Santner,,0,6,6,,,,375323753
+2,New Zealand,8,C de Grandhomme,Shadab Khan,MJ Santner,,0,0,0,stumped,C de Grandhomme,Sarfraz Ahmed,375323753
+2,New Zealand,8,BM Wheeler,Shadab Khan,MJ Santner,,0,1,1,,,,375323753
+2,New Zealand,8,MJ Santner,Shadab Khan,BM Wheeler,,0,0,0,,,,375323753
+2,New Zealand,8,MJ Santner,Shadab Khan,BM Wheeler,,0,0,0,,,,375323753
+2,New Zealand,8,MJ Santner,Shadab Khan,BM Wheeler,,0,1,1,,,,375323753
+2,New Zealand,9,MJ Santner,Faheem Ashraf,BM Wheeler,,0,0,0,,,,375323753
+2,New Zealand,9,MJ Santner,Faheem Ashraf,BM Wheeler,,0,2,2,,,,375323753
+2,New Zealand,9,MJ Santner,Faheem Ashraf,BM Wheeler,,0,1,1,,,,375323753
+2,New Zealand,9,BM Wheeler,Faheem Ashraf,MJ Santner,,0,4,4,,,,375323753
+2,New Zealand,9,BM Wheeler,Faheem Ashraf,MJ Santner,,0,0,0,,,,375323753
+2,New Zealand,9,BM Wheeler,Faheem Ashraf,MJ Santner,,0,1,1,,,,375323753
+2,New Zealand,10,BM Wheeler,Shadab Khan,MJ Santner,,0,1,1,,,,375323753
+2,New Zealand,10,MJ Santner,Shadab Khan,BM Wheeler,,0,3,3,,,,375323753
+2,New Zealand,10,BM Wheeler,Shadab Khan,MJ Santner,,0,0,0,,,,375323753
+2,New Zealand,10,BM Wheeler,Shadab Khan,MJ Santner,,0,0,0,,,,375323753
+2,New Zealand,10,BM Wheeler,Shadab Khan,MJ Santner,,0,1,1,,,,375323753
+2,New Zealand,10,MJ Santner,Shadab Khan,BM Wheeler,,0,1,1,,,,375323753
+2,New Zealand,11,MJ Santner,Hasan Ali,BM Wheeler,,0,0,0,,,,375323753
+2,New Zealand,11,MJ Santner,Hasan Ali,BM Wheeler,,0,4,4,,,,375323753
+2,New Zealand,11,MJ Santner,Hasan Ali,BM Wheeler,,0,1,1,,,,375323753
+2,New Zealand,11,BM Wheeler,Hasan Ali,MJ Santner,,0,1,1,,,,375323753
+2,New Zealand,11,MJ Santner,Hasan Ali,BM Wheeler,,0,2,2,,,,375323753
+2,New Zealand,11,MJ Santner,Hasan Ali,BM Wheeler,,0,0,0,,,,375323753
+2,New Zealand,12,BM Wheeler,Shadab Khan,MJ Santner,wides,1,1,0,,,,375323753
+2,New Zealand,12,BM Wheeler,Shadab Khan,MJ Santner,wides,1,1,0,,,,375323753
+2,New Zealand,12,BM Wheeler,Shadab Khan,MJ Santner,,0,1,1,,,,375323753
+2,New Zealand,12,MJ Santner,Shadab Khan,BM Wheeler,,0,4,4,,,,375323753
+2,New Zealand,12,MJ Santner,Shadab Khan,BM Wheeler,,0,1,1,,,,375323753
+2,New Zealand,12,BM Wheeler,Shadab Khan,MJ Santner,,0,6,6,,,,375323753
+2,New Zealand,12,BM Wheeler,Shadab Khan,MJ Santner,,0,1,1,,,,375323753
+2,New Zealand,12,MJ Santner,Shadab Khan,BM Wheeler,,0,1,1,,,,375323753
+2,New Zealand,13,MJ Santner,Mohammad Amir,BM Wheeler,,0,1,1,,,,375323753
+2,New Zealand,13,BM Wheeler,Mohammad Amir,MJ Santner,,0,6,6,,,,375323753
+2,New Zealand,13,BM Wheeler,Mohammad Amir,MJ Santner,,0,2,2,,,,375323753
+2,New Zealand,13,BM Wheeler,Mohammad Amir,MJ Santner,,0,0,0,,,,375323753
+2,New Zealand,13,BM Wheeler,Mohammad Amir,MJ Santner,,0,0,0,,,,375323753
+2,New Zealand,13,BM Wheeler,Mohammad Amir,MJ Santner,,0,1,1,,,,375323753
+2,New Zealand,14,BM Wheeler,Hasan Ali,MJ Santner,,0,0,0,,,,375323753
+2,New Zealand,14,BM Wheeler,Hasan Ali,MJ Santner,,0,4,4,,,,375323753
+2,New Zealand,14,BM Wheeler,Hasan Ali,MJ Santner,,0,0,0,bowled,BM Wheeler,,375323753
+2,New Zealand,14,IS Sodhi,Hasan Ali,MJ Santner,legbyes,4,4,0,,,,375323753
+2,New Zealand,14,IS Sodhi,Hasan Ali,MJ Santner,,0,1,1,,,,375323753
+2,New Zealand,14,MJ Santner,Hasan Ali,IS Sodhi,,0,1,1,,,,375323753
+2,New Zealand,15,MJ Santner,Rumman Raees,IS Sodhi,,0,4,4,,,,375323753
+2,New Zealand,15,MJ Santner,Rumman Raees,IS Sodhi,,0,1,1,,,,375323753
+2,New Zealand,15,IS Sodhi,Rumman Raees,MJ Santner,,0,0,0,,,,375323753
+2,New Zealand,15,IS Sodhi,Rumman Raees,MJ Santner,,0,1,1,,,,375323753
+2,New Zealand,15,MJ Santner,Rumman Raees,IS Sodhi,,0,4,4,,,,375323753
+2,New Zealand,15,MJ Santner,Rumman Raees,IS Sodhi,,0,1,1,,,,375323753
+2,New Zealand,16,MJ Santner,Hasan Ali,IS Sodhi,,0,1,1,,,,375323753
+2,New Zealand,16,IS Sodhi,Hasan Ali,MJ Santner,,0,1,1,,,,375323753
+2,New Zealand,16,MJ Santner,Hasan Ali,IS Sodhi,,0,1,1,,,,375323753
+2,New Zealand,16,IS Sodhi,Hasan Ali,MJ Santner,,0,6,6,,,,375323753
+2,New Zealand,16,IS Sodhi,Hasan Ali,MJ Santner,,0,0,0,,,,375323753
+2,New Zealand,16,IS Sodhi,Hasan Ali,MJ Santner,,0,1,1,,,,375323753
+2,New Zealand,17,IS Sodhi,Mohammad Amir,MJ Santner,,0,4,4,,,,375323753
+2,New Zealand,17,IS Sodhi,Mohammad Amir,MJ Santner,,0,1,1,,,,375323753
+2,New Zealand,17,MJ Santner,Mohammad Amir,IS Sodhi,,0,2,2,,,,375323753
+2,New Zealand,17,MJ Santner,Mohammad Amir,IS Sodhi,,0,0,0,,,,375323753
+2,New Zealand,17,MJ Santner,Mohammad Amir,IS Sodhi,,0,0,0,caught,MJ Santner,Sarfraz Ahmed,375323753
+2,New Zealand,17,SHA Rance,Mohammad Amir,IS Sodhi,,0,1,1,,,,375323753
+2,New Zealand,18,SHA Rance,Faheem Ashraf,IS Sodhi,,0,0,0,caught,SHA Rance,Fakhar Zaman,375323753
+2,New Zealand,18,IS Sodhi,Faheem Ashraf,TA Boult,,0,0,0,,,,375323753
+2,New Zealand,18,IS Sodhi,Faheem Ashraf,TA Boult,,0,0,0,caught,IS Sodhi,Babar Azam,375323753

@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,West Indies,0,J Charles,KD Mills,CH Gayle,noballs,1,1,0,,,,323523235
+1,West Indies,0,J Charles,KD Mills,CH Gayle,,0,0,0,,,,323523235
+1,West Indies,0,J Charles,KD Mills,CH Gayle,,0,0,0,,,,323523235
+1,West Indies,0,J Charles,KD Mills,CH Gayle,,0,4,4,,,,323523235
+1,West Indies,0,J Charles,KD Mills,CH Gayle,,0,0,0,,,,323523235
+1,West Indies,0,J Charles,KD Mills,CH Gayle,,0,4,4,,,,323523235
+1,West Indies,0,J Charles,KD Mills,CH Gayle,,0,0,0,,,,323523235
+1,West Indies,1,CH Gayle,DAJ Bracewell,J Charles,,0,0,0,,,,323523235
+1,West Indies,1,CH Gayle,DAJ Bracewell,J Charles,,0,4,4,,,,323523235
+1,West Indies,1,CH Gayle,DAJ Bracewell,J Charles,,0,1,1,,,,323523235
+1,West Indies,1,J Charles,DAJ Bracewell,CH Gayle,,0,0,0,,,,323523235
+1,West Indies,1,J Charles,DAJ Bracewell,CH Gayle,,0,0,0,caught and bowled,J Charles,,323523235
+1,West Indies,1,AD Russell,DAJ Bracewell,CH Gayle,,0,0,0,,,,323523235
+1,West Indies,2,CH Gayle,KD Mills,AD Russell,,0,0,0,,,,323523235
+1,West Indies,2,CH Gayle,KD Mills,AD Russell,,0,6,6,,,,323523235
+1,West Indies,2,CH Gayle,KD Mills,AD Russell,,0,2,2,,,,323523235
+1,West Indies,2,CH Gayle,KD Mills,AD Russell,,0,0,0,,,,323523235
+1,West Indies,2,CH Gayle,KD Mills,AD Russell,,0,4,4,,,,323523235
+1,West Indies,2,CH Gayle,KD Mills,AD Russell,,0,4,4,,,,323523235
+1,West Indies,3,AD Russell,DAJ Bracewell,CH Gayle,,0,0,0,,,,323523235
+1,West Indies,3,AD Russell,DAJ Bracewell,CH Gayle,,0,0,0,,,,323523235
+1,West Indies,3,AD Russell,DAJ Bracewell,CH Gayle,,0,0,0,,,,323523235
+1,West Indies,3,AD Russell,DAJ Bracewell,CH Gayle,,0,6,6,,,,323523235
+1,West Indies,3,AD Russell,DAJ Bracewell,CH Gayle,,0,0,0,caught,AD Russell,JEC Franklin,323523235
+1,West Indies,3,MN Samuels,DAJ Bracewell,CH Gayle,,0,1,1,,,,323523235
+1,West Indies,4,MN Samuels,TG Southee,CH Gayle,,0,1,1,,,,323523235
+1,West Indies,4,CH Gayle,TG Southee,MN Samuels,,0,1,1,,,,323523235
+1,West Indies,4,MN Samuels,TG Southee,CH Gayle,,0,1,1,,,,323523235
+1,West Indies,4,CH Gayle,TG Southee,MN Samuels,wides,1,1,0,,,,323523235
+1,West Indies,4,CH Gayle,TG Southee,MN Samuels,,0,1,1,,,,323523235
+1,West Indies,4,MN Samuels,TG Southee,CH Gayle,,0,0,0,,,,323523235
+1,West Indies,4,MN Samuels,TG Southee,CH Gayle,,0,1,1,,,,323523235
+1,West Indies,5,MN Samuels,JDP Oram,CH Gayle,noballs,1,2,1,,,,323523235
+1,West Indies,5,CH Gayle,JDP Oram,MN Samuels,,0,6,6,,,,323523235
+1,West Indies,5,CH Gayle,JDP Oram,MN Samuels,wides,1,1,0,,,,323523235
+1,West Indies,5,CH Gayle,JDP Oram,MN Samuels,,0,1,1,,,,323523235
+1,West Indies,5,MN Samuels,JDP Oram,CH Gayle,,0,0,0,,,,323523235
+1,West Indies,5,MN Samuels,JDP Oram,CH Gayle,,0,0,0,,,,323523235
+1,West Indies,5,MN Samuels,JDP Oram,CH Gayle,,0,6,6,,,,323523235
+1,West Indies,5,MN Samuels,JDP Oram,CH Gayle,,0,1,1,,,,323523235
+1,West Indies,6,MN Samuels,TG Southee,CH Gayle,,0,1,1,,,,323523235
+1,West Indies,6,CH Gayle,TG Southee,MN Samuels,,0,0,0,caught,CH Gayle,BB McCullum,323523235
+1,West Indies,6,DM Bravo,TG Southee,MN Samuels,,0,0,0,,,,323523235
+1,West Indies,6,DM Bravo,TG Southee,MN Samuels,,0,1,1,,,,323523235
+1,West Indies,6,MN Samuels,TG Southee,DM Bravo,,0,1,1,,,,323523235
+1,West Indies,6,DM Bravo,TG Southee,MN Samuels,,0,1,1,,,,323523235
+1,West Indies,7,DM Bravo,RM Hira,MN Samuels,,0,0,0,,,,323523235
+1,West Indies,7,DM Bravo,RM Hira,MN Samuels,,0,0,0,,,,323523235
+1,West Indies,7,DM Bravo,RM Hira,MN Samuels,,0,1,1,,,,323523235
+1,West Indies,7,MN Samuels,RM Hira,DM Bravo,,0,0,0,,,,323523235
+1,West Indies,7,MN Samuels,RM Hira,DM Bravo,,0,0,0,,,,323523235
+1,West Indies,7,MN Samuels,RM Hira,DM Bravo,,0,0,0,,,,323523235
+1,West Indies,8,DM Bravo,NL McCullum,MN Samuels,,0,1,1,,,,323523235
+1,West Indies,8,MN Samuels,NL McCullum,DM Bravo,,0,0,0,,,,323523235
+1,West Indies,8,MN Samuels,NL McCullum,DM Bravo,,0,1,1,,,,323523235
+1,West Indies,8,DM Bravo,NL McCullum,MN Samuels,,0,1,1,,,,323523235
+1,West Indies,8,MN Samuels,NL McCullum,DM Bravo,,0,4,4,,,,323523235
+1,West Indies,8,MN Samuels,NL McCullum,DM Bravo,,0,4,4,,,,323523235
+1,West Indies,9,DM Bravo,RM Hira,MN Samuels,,0,6,6,,,,323523235
+1,West Indies,9,DM Bravo,RM Hira,MN Samuels,,0,0,0,,,,323523235
+1,West Indies,9,DM Bravo,RM Hira,MN Samuels,,0,0,0,,,,323523235
+1,West Indies,9,DM Bravo,RM Hira,MN Samuels,,0,1,1,,,,323523235
+1,West Indies,9,MN Samuels,RM Hira,DM Bravo,,0,1,1,,,,323523235
+1,West Indies,9,DM Bravo,RM Hira,MN Samuels,wides,1,1,0,,,,323523235
+1,West Indies,9,DM Bravo,RM Hira,MN Samuels,,0,1,1,,,,323523235
+1,West Indies,10,DM Bravo,NL McCullum,MN Samuels,,0,0,0,,,,323523235
+1,West Indies,10,DM Bravo,NL McCullum,MN Samuels,,0,1,1,,,,323523235
+1,West Indies,10,MN Samuels,NL McCullum,DM Bravo,,0,0,0,,,,323523235
+1,West Indies,10,MN Samuels,NL McCullum,DM Bravo,,0,0,0,caught,MN Samuels,TG Southee,323523235
+1,West Indies,10,KA Pollard,NL McCullum,DM Bravo,,0,1,1,,,,323523235
+1,West Indies,10,DM Bravo,NL McCullum,KA Pollard,,0,0,0,,,,323523235
+1,West Indies,11,KA Pollard,RM Hira,DM Bravo,,0,1,1,,,,323523235
+1,West Indies,11,DM Bravo,RM Hira,KA Pollard,,0,1,1,,,,323523235
+1,West Indies,11,KA Pollard,RM Hira,DM Bravo,,0,1,1,,,,323523235
+1,West Indies,11,DM Bravo,RM Hira,KA Pollard,,0,1,1,,,,323523235
+1,West Indies,11,KA Pollard,RM Hira,DM Bravo,,0,4,4,,,,323523235
+1,West Indies,11,KA Pollard,RM Hira,DM Bravo,,0,0,0,,,,323523235
+1,West Indies,12,DM Bravo,NL McCullum,KA Pollard,,0,0,0,,,,323523235
+1,West Indies,12,DM Bravo,NL McCullum,KA Pollard,legbyes,1,1,0,,,,323523235
+1,West Indies,12,KA Pollard,NL McCullum,DM Bravo,,0,0,0,,,,323523235
+1,West Indies,12,KA Pollard,NL McCullum,DM Bravo,,0,1,1,,,,323523235
+1,West Indies,12,DM Bravo,NL McCullum,KA Pollard,,0,0,0,bowled,DM Bravo,,323523235
+1,West Indies,12,D Ramdin,NL McCullum,KA Pollard,,0,1,1,,,,323523235
+1,West Indies,13,D Ramdin,RM Hira,KA Pollard,wides,2,2,0,,,,323523235
+1,West Indies,13,KA Pollard,RM Hira,D Ramdin,,0,1,1,,,,323523235
+1,West Indies,13,D Ramdin,RM Hira,KA Pollard,,0,0,0,caught,D Ramdin,LRPL Taylor,323523235
+1,West Indies,13,DJG Sammy,RM Hira,KA Pollard,,0,0,0,,,,323523235
+1,West Indies,13,DJG Sammy,RM Hira,KA Pollard,,0,0,0,,,,323523235
+1,West Indies,13,DJG Sammy,RM Hira,KA Pollard,,0,1,1,,,,323523235
+1,West Indies,13,KA Pollard,RM Hira,DJG Sammy,,0,1,1,,,,323523235
+1,West Indies,14,KA Pollard,NL McCullum,DJG Sammy,,0,1,1,,,,323523235
+1,West Indies,14,DJG Sammy,NL McCullum,KA Pollard,,0,0,0,,,,323523235
+1,West Indies,14,DJG Sammy,NL McCullum,KA Pollard,,0,1,1,,,,323523235
+1,West Indies,14,KA Pollard,NL McCullum,DJG Sammy,,0,1,1,,,,323523235
+1,West Indies,14,DJG Sammy,NL McCullum,KA Pollard,,0,1,1,,,,323523235
+1,West Indies,14,KA Pollard,NL McCullum,DJG Sammy,,0,0,0,,,,323523235
+1,West Indies,15,DJG Sammy,DAJ Bracewell,KA Pollard,,0,0,0,,,,323523235
+1,West Indies,15,DJG Sammy,DAJ Bracewell,KA Pollard,,0,4,4,,,,323523235
+1,West Indies,15,DJG Sammy,DAJ Bracewell,KA Pollard,,0,1,1,,,,323523235
+1,West Indies,15,KA Pollard,DAJ Bracewell,DJG Sammy,,0,0,0,,,,323523235
+1,West Indies,15,KA Pollard,DAJ Bracewell,DJG Sammy,,0,1,1,,,,323523235
+1,West Indies,15,DJG Sammy,DAJ Bracewell,KA Pollard,,0,2,2,,,,323523235
+1,West Indies,16,KA Pollard,TG Southee,DJG Sammy,,0,2,2,,,,323523235
+1,West Indies,16,KA Pollard,TG Southee,DJG Sammy,,0,1,1,,,,323523235
+1,West Indies,16,DJG Sammy,TG Southee,KA Pollard,,0,1,1,,,,323523235
+1,West Indies,16,KA Pollard,TG Southee,DJG Sammy,,0,2,2,,,,323523235
+1,West Indies,16,KA Pollard,TG Southee,DJG Sammy,,0,1,1,,,,323523235
+1,West Indies,16,DJG Sammy,TG Southee,KA Pollard,,0,0,0,caught,DJG Sammy,JEC Franklin,323523235
+1,West Indies,17,KA Pollard,DAJ Bracewell,SP Narine,,0,4,4,,,,323523235
+1,West Indies,17,KA Pollard,DAJ Bracewell,SP Narine,,0,1,1,,,,323523235
+1,West Indies,17,SP Narine,DAJ Bracewell,KA Pollard,,0,1,1,,,,323523235
+1,West Indies,17,KA Pollard,DAJ Bracewell,SP Narine,,0,4,4,,,,323523235
+1,West Indies,17,KA Pollard,DAJ Bracewell,SP Narine,,0,0,0,caught,KA Pollard,LRPL Taylor,323523235
+1,West Indies,17,SP Narine,DAJ Bracewell,S Badree,,0,1,1,,,,323523235
+1,West Indies,18,SP Narine,TG Southee,S Badree,,0,1,1,,,,323523235
+1,West Indies,18,S Badree,TG Southee,SP Narine,,0,1,1,,,,323523235
+1,West Indies,18,SP Narine,TG Southee,S Badree,,0,0,0,bowled,SP Narine,,323523235
+1,West Indies,18,R Rampaul,TG Southee,S Badree,,0,0,0,,,,323523235
+1,West Indies,18,R Rampaul,TG Southee,S Badree,,0,1,1,,,,323523235
+1,West Indies,18,S Badree,TG Southee,R Rampaul,wides,1,1,0,,,,323523235
+1,West Indies,18,S Badree,TG Southee,R Rampaul,,0,0,0,,,,323523235
+1,West Indies,19,R Rampaul,JDP Oram,S Badree,legbyes,1,1,0,,,,323523235
+1,West Indies,19,S Badree,JDP Oram,R Rampaul,,0,0,0,,,,323523235
+1,West Indies,19,S Badree,JDP Oram,R Rampaul,,0,0,0,bowled,S Badree,,323523235

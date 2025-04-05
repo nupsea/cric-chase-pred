@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,England,0,AD Hales,P Kumar,C Kieswetter,,0,0,0,,,,318223182
+2,England,0,AD Hales,P Kumar,C Kieswetter,,0,0,0,lbw,AD Hales,,318223182
+2,England,0,KP Pietersen,P Kumar,C Kieswetter,,0,0,0,,,,318223182
+2,England,0,KP Pietersen,P Kumar,C Kieswetter,,0,0,0,,,,318223182
+2,England,0,KP Pietersen,P Kumar,C Kieswetter,legbyes,2,2,0,,,,318223182
+2,England,0,KP Pietersen,P Kumar,C Kieswetter,,0,1,1,,,,318223182
+2,England,1,KP Pietersen,R Vinay Kumar,C Kieswetter,,0,2,2,,,,318223182
+2,England,1,KP Pietersen,R Vinay Kumar,C Kieswetter,,0,2,2,,,,318223182
+2,England,1,KP Pietersen,R Vinay Kumar,C Kieswetter,,0,1,1,,,,318223182
+2,England,1,C Kieswetter,R Vinay Kumar,KP Pietersen,,0,0,0,,,,318223182
+2,England,1,C Kieswetter,R Vinay Kumar,KP Pietersen,,0,1,1,,,,318223182
+2,England,1,KP Pietersen,R Vinay Kumar,C Kieswetter,legbyes,1,1,0,,,,318223182
+2,England,2,KP Pietersen,P Kumar,C Kieswetter,,0,4,4,,,,318223182
+2,England,2,KP Pietersen,P Kumar,C Kieswetter,legbyes,1,1,0,,,,318223182
+2,England,2,C Kieswetter,P Kumar,KP Pietersen,,0,1,1,,,,318223182
+2,England,2,KP Pietersen,P Kumar,C Kieswetter,,0,0,0,,,,318223182
+2,England,2,KP Pietersen,P Kumar,C Kieswetter,,0,1,1,,,,318223182
+2,England,2,C Kieswetter,P Kumar,KP Pietersen,,0,0,0,,,,318223182
+2,England,3,KP Pietersen,MM Patel,C Kieswetter,,0,4,4,,,,318223182
+2,England,3,KP Pietersen,MM Patel,C Kieswetter,,0,1,1,,,,318223182
+2,England,3,C Kieswetter,MM Patel,KP Pietersen,,0,6,6,,,,318223182
+2,England,3,C Kieswetter,MM Patel,KP Pietersen,,0,1,1,,,,318223182
+2,England,3,KP Pietersen,MM Patel,C Kieswetter,,0,4,4,,,,318223182
+2,England,3,KP Pietersen,MM Patel,C Kieswetter,,0,1,1,,,,318223182
+2,England,4,KP Pietersen,R Vinay Kumar,C Kieswetter,,0,1,1,,,,318223182
+2,England,4,C Kieswetter,R Vinay Kumar,KP Pietersen,,0,0,0,,,,318223182
+2,England,4,C Kieswetter,R Vinay Kumar,KP Pietersen,,0,4,4,,,,318223182
+2,England,4,C Kieswetter,R Vinay Kumar,KP Pietersen,,0,0,0,,,,318223182
+2,England,4,C Kieswetter,R Vinay Kumar,KP Pietersen,,0,4,4,,,,318223182
+2,England,4,C Kieswetter,R Vinay Kumar,KP Pietersen,,0,0,0,,,,318223182
+2,England,5,KP Pietersen,R Ashwin,C Kieswetter,,0,4,4,,,,318223182
+2,England,5,KP Pietersen,R Ashwin,C Kieswetter,,0,0,0,,,,318223182
+2,England,5,KP Pietersen,R Ashwin,C Kieswetter,wides,1,1,0,,,,318223182
+2,England,5,KP Pietersen,R Ashwin,C Kieswetter,,0,1,1,,,,318223182
+2,England,5,C Kieswetter,R Ashwin,KP Pietersen,wides,1,1,0,,,,318223182
+2,England,5,C Kieswetter,R Ashwin,KP Pietersen,,0,1,1,,,,318223182
+2,England,5,KP Pietersen,R Ashwin,C Kieswetter,,0,1,1,,,,318223182
+2,England,5,C Kieswetter,R Ashwin,KP Pietersen,wides,2,2,0,,,,318223182
+2,England,5,KP Pietersen,R Ashwin,C Kieswetter,,0,4,4,,,,318223182
+2,England,6,C Kieswetter,MM Patel,KP Pietersen,,0,0,0,caught,C Kieswetter,SK Raina,318223182
+2,England,6,EJG Morgan,MM Patel,KP Pietersen,,0,0,0,,,,318223182
+2,England,6,EJG Morgan,MM Patel,KP Pietersen,,0,1,1,,,,318223182
+2,England,6,KP Pietersen,MM Patel,EJG Morgan,,0,1,1,,,,318223182
+2,England,6,EJG Morgan,MM Patel,KP Pietersen,,0,0,0,,,,318223182
+2,England,6,EJG Morgan,MM Patel,KP Pietersen,,0,0,0,,,,318223182
+2,England,7,KP Pietersen,V Kohli,EJG Morgan,wides,1,1,0,stumped,KP Pietersen,MS Dhoni,318223182
+2,England,7,RS Bopara,V Kohli,EJG Morgan,,0,1,1,,,,318223182
+2,England,7,EJG Morgan,V Kohli,RS Bopara,,0,0,0,,,,318223182
+2,England,7,EJG Morgan,V Kohli,RS Bopara,legbyes,1,1,0,,,,318223182
+2,England,7,RS Bopara,V Kohli,EJG Morgan,,0,0,0,,,,318223182
+2,England,7,RS Bopara,V Kohli,EJG Morgan,,0,0,0,,,,318223182
+2,England,7,RS Bopara,V Kohli,EJG Morgan,,0,1,1,,,,318223182
+2,England,8,RS Bopara,RG Sharma,EJG Morgan,legbyes,1,1,0,,,,318223182
+2,England,8,EJG Morgan,RG Sharma,RS Bopara,,0,4,4,,,,318223182
+2,England,8,EJG Morgan,RG Sharma,RS Bopara,,0,4,4,,,,318223182
+2,England,8,EJG Morgan,RG Sharma,RS Bopara,,0,6,6,,,,318223182
+2,England,8,EJG Morgan,RG Sharma,RS Bopara,,0,1,1,,,,318223182
+2,England,8,RS Bopara,RG Sharma,EJG Morgan,,0,1,1,,,,318223182
+2,England,9,RS Bopara,V Kohli,EJG Morgan,,0,1,1,,,,318223182
+2,England,9,EJG Morgan,V Kohli,RS Bopara,,0,1,1,,,,318223182
+2,England,9,RS Bopara,V Kohli,EJG Morgan,,0,2,2,,,,318223182
+2,England,9,RS Bopara,V Kohli,EJG Morgan,,0,0,0,,,,318223182
+2,England,9,RS Bopara,V Kohli,EJG Morgan,,0,1,1,,,,318223182
+2,England,9,EJG Morgan,V Kohli,RS Bopara,,0,4,4,,,,318223182
+2,England,10,RS Bopara,R Ashwin,EJG Morgan,,0,1,1,,,,318223182
+2,England,10,EJG Morgan,R Ashwin,RS Bopara,,0,1,1,,,,318223182
+2,England,10,RS Bopara,R Ashwin,EJG Morgan,,0,1,1,,,,318223182
+2,England,10,EJG Morgan,R Ashwin,RS Bopara,,0,1,1,,,,318223182
+2,England,10,RS Bopara,R Ashwin,EJG Morgan,,0,0,0,,,,318223182
+2,England,10,RS Bopara,R Ashwin,EJG Morgan,,0,0,0,,,,318223182
+2,England,11,EJG Morgan,V Kohli,RS Bopara,,0,2,2,,,,318223182
+2,England,11,EJG Morgan,V Kohli,RS Bopara,,0,4,4,,,,318223182
+2,England,11,EJG Morgan,V Kohli,RS Bopara,,0,1,1,,,,318223182
+2,England,11,RS Bopara,V Kohli,EJG Morgan,,0,1,1,,,,318223182
+2,England,11,EJG Morgan,V Kohli,RS Bopara,,0,0,0,,,,318223182
+2,England,11,EJG Morgan,V Kohli,RS Bopara,,0,2,2,,,,318223182
+2,England,12,RS Bopara,R Ashwin,EJG Morgan,,0,2,2,,,,318223182
+2,England,12,RS Bopara,R Ashwin,EJG Morgan,,0,0,0,,,,318223182
+2,England,12,RS Bopara,R Ashwin,EJG Morgan,,0,0,0,,,,318223182
+2,England,12,RS Bopara,R Ashwin,EJG Morgan,,0,2,2,,,,318223182
+2,England,12,RS Bopara,R Ashwin,EJG Morgan,,0,2,2,,,,318223182
+2,England,12,RS Bopara,R Ashwin,EJG Morgan,,0,0,0,,,,318223182
+2,England,13,EJG Morgan,P Kumar,RS Bopara,,0,4,4,,,,318223182
+2,England,13,EJG Morgan,P Kumar,RS Bopara,,0,1,1,,,,318223182
+2,England,13,RS Bopara,P Kumar,EJG Morgan,,0,1,1,,,,318223182
+2,England,13,EJG Morgan,P Kumar,RS Bopara,,0,1,1,,,,318223182
+2,England,13,RS Bopara,P Kumar,EJG Morgan,legbyes,1,1,0,,,,318223182
+2,England,13,EJG Morgan,P Kumar,RS Bopara,,0,4,4,,,,318223182
+2,England,14,RS Bopara,R Ashwin,EJG Morgan,,0,4,4,,,,318223182
+2,England,14,RS Bopara,R Ashwin,EJG Morgan,,0,1,1,,,,318223182
+2,England,14,EJG Morgan,R Ashwin,RS Bopara,,0,4,4,,,,318223182
+2,England,14,EJG Morgan,R Ashwin,RS Bopara,,0,2,2,,,,318223182
+2,England,14,EJG Morgan,R Ashwin,RS Bopara,,0,1,1,,,,318223182
+2,England,14,RS Bopara,R Ashwin,EJG Morgan,,0,0,0,,,,318223182
+2,England,15,EJG Morgan,MM Patel,RS Bopara,,0,0,0,caught,EJG Morgan,RG Sharma,318223182
+2,England,15,SR Patel,MM Patel,RS Bopara,,0,0,0,,,,318223182
+2,England,15,SR Patel,MM Patel,RS Bopara,,0,1,1,,,,318223182
+2,England,15,RS Bopara,MM Patel,SR Patel,,0,1,1,,,,318223182
+2,England,15,SR Patel,MM Patel,RS Bopara,,0,1,1,,,,318223182
+2,England,15,RS Bopara,MM Patel,SR Patel,,0,0,0,,,,318223182
+2,England,16,SR Patel,P Kumar,RS Bopara,,0,1,1,,,,318223182
+2,England,16,RS Bopara,P Kumar,SR Patel,,0,1,1,,,,318223182
+2,England,16,SR Patel,P Kumar,RS Bopara,,0,1,1,,,,318223182
+2,England,16,RS Bopara,P Kumar,SR Patel,,0,4,4,,,,318223182
+2,England,16,RS Bopara,P Kumar,SR Patel,,0,1,1,,,,318223182
+2,England,16,SR Patel,P Kumar,RS Bopara,,0,1,1,,,,318223182
+2,England,17,SR Patel,R Vinay Kumar,RS Bopara,,0,1,1,,,,318223182
+2,England,17,RS Bopara,R Vinay Kumar,SR Patel,,0,0,0,,,,318223182
+2,England,17,RS Bopara,R Vinay Kumar,SR Patel,,0,1,1,,,,318223182
+2,England,17,SR Patel,R Vinay Kumar,RS Bopara,,0,2,2,,,,318223182
+2,England,17,SR Patel,R Vinay Kumar,RS Bopara,,0,2,2,,,,318223182
+2,England,17,SR Patel,R Vinay Kumar,RS Bopara,,0,1,1,,,,318223182
+2,England,18,SR Patel,MM Patel,RS Bopara,,0,0,0,,,,318223182
+2,England,18,SR Patel,MM Patel,RS Bopara,,0,1,1,,,,318223182
+2,England,18,RS Bopara,MM Patel,SR Patel,,0,1,1,,,,318223182
+2,England,18,SR Patel,MM Patel,RS Bopara,,0,1,1,,,,318223182
+2,England,18,RS Bopara,MM Patel,SR Patel,,0,0,0,,,,318223182
+2,England,18,RS Bopara,MM Patel,SR Patel,,0,0,0,,,,318223182
+2,England,19,SR Patel,R Vinay Kumar,RS Bopara,wides,1,1,0,,,,318223182
+2,England,19,SR Patel,R Vinay Kumar,RS Bopara,,0,4,4,,,,318223182
+2,England,19,SR Patel,R Vinay Kumar,RS Bopara,,0,4,4,,,,318223182
+2,England,19,SR Patel,R Vinay Kumar,RS Bopara,,0,4,4,,,,318223182

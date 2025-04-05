@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Bangladesh,0,Tamim Iqbal,TM Dilshan,Shamsur Rahman,,0,1,1,,,,345223452
+1,Bangladesh,0,Shamsur Rahman,TM Dilshan,Tamim Iqbal,,0,0,0,,,,345223452
+1,Bangladesh,0,Shamsur Rahman,TM Dilshan,Tamim Iqbal,,0,1,1,,,,345223452
+1,Bangladesh,0,Tamim Iqbal,TM Dilshan,Shamsur Rahman,,0,1,1,,,,345223452
+1,Bangladesh,0,Shamsur Rahman,TM Dilshan,Tamim Iqbal,,0,0,0,caught,Shamsur Rahman,LD Chandimal,345223452
+1,Bangladesh,0,Anamul Haque,TM Dilshan,Tamim Iqbal,,0,0,0,,,,345223452
+1,Bangladesh,1,Tamim Iqbal,KMDN Kulasekara,Anamul Haque,,0,0,0,,,,345223452
+1,Bangladesh,1,Tamim Iqbal,KMDN Kulasekara,Anamul Haque,,0,0,0,caught,Tamim Iqbal,BAW Mendis,345223452
+1,Bangladesh,1,Shakib Al Hasan,KMDN Kulasekara,Anamul Haque,,0,4,4,,,,345223452
+1,Bangladesh,1,Shakib Al Hasan,KMDN Kulasekara,Anamul Haque,,0,0,0,,,,345223452
+1,Bangladesh,1,Shakib Al Hasan,KMDN Kulasekara,Anamul Haque,,0,4,4,,,,345223452
+1,Bangladesh,1,Shakib Al Hasan,KMDN Kulasekara,Anamul Haque,,0,4,4,,,,345223452
+1,Bangladesh,2,Anamul Haque,TM Dilshan,Shakib Al Hasan,,0,0,0,,,,345223452
+1,Bangladesh,2,Anamul Haque,TM Dilshan,Shakib Al Hasan,,0,4,4,,,,345223452
+1,Bangladesh,2,Anamul Haque,TM Dilshan,Shakib Al Hasan,,0,0,0,,,,345223452
+1,Bangladesh,2,Anamul Haque,TM Dilshan,Shakib Al Hasan,,0,6,6,,,,345223452
+1,Bangladesh,2,Anamul Haque,TM Dilshan,Shakib Al Hasan,,0,4,4,,,,345223452
+1,Bangladesh,2,Anamul Haque,TM Dilshan,Shakib Al Hasan,,0,6,6,,,,345223452
+1,Bangladesh,3,Shakib Al Hasan,SMSM Senanayake,Anamul Haque,,0,0,0,,,,345223452
+1,Bangladesh,3,Shakib Al Hasan,SMSM Senanayake,Anamul Haque,,0,0,0,caught,Shakib Al Hasan,KMDN Kulasekara,345223452
+1,Bangladesh,3,Anamul Haque,SMSM Senanayake,Nasir Hossain,,0,1,1,,,,345223452
+1,Bangladesh,3,Nasir Hossain,SMSM Senanayake,Anamul Haque,,0,1,1,,,,345223452
+1,Bangladesh,3,Anamul Haque,SMSM Senanayake,Nasir Hossain,,0,1,1,,,,345223452
+1,Bangladesh,3,Nasir Hossain,SMSM Senanayake,Anamul Haque,,0,0,0,,,,345223452
+1,Bangladesh,4,Anamul Haque,SL Malinga,Nasir Hossain,,0,0,0,,,,345223452
+1,Bangladesh,4,Anamul Haque,SL Malinga,Nasir Hossain,,0,0,0,,,,345223452
+1,Bangladesh,4,Anamul Haque,SL Malinga,Nasir Hossain,,0,0,0,,,,345223452
+1,Bangladesh,4,Anamul Haque,SL Malinga,Nasir Hossain,,0,0,0,,,,345223452
+1,Bangladesh,4,Anamul Haque,SL Malinga,Nasir Hossain,,0,0,0,,,,345223452
+1,Bangladesh,4,Anamul Haque,SL Malinga,Nasir Hossain,,0,1,1,,,,345223452
+1,Bangladesh,5,Anamul Haque,SMSM Senanayake,Nasir Hossain,,0,1,1,,,,345223452
+1,Bangladesh,5,Nasir Hossain,SMSM Senanayake,Anamul Haque,,0,1,1,,,,345223452
+1,Bangladesh,5,Anamul Haque,SMSM Senanayake,Nasir Hossain,,0,0,0,caught,Anamul Haque,MDKJ Perera,345223452
+1,Bangladesh,5,Nasir Hossain,SMSM Senanayake,Sabbir Rahman,,0,1,1,,,,345223452
+1,Bangladesh,5,Sabbir Rahman,SMSM Senanayake,Nasir Hossain,,0,0,0,,,,345223452
+1,Bangladesh,5,Sabbir Rahman,SMSM Senanayake,Nasir Hossain,,0,0,0,,,,345223452
+1,Bangladesh,6,Nasir Hossain,AD Mathews,Sabbir Rahman,,0,0,0,,,,345223452
+1,Bangladesh,6,Nasir Hossain,AD Mathews,Sabbir Rahman,,0,2,2,,,,345223452
+1,Bangladesh,6,Nasir Hossain,AD Mathews,Sabbir Rahman,,0,0,0,,,,345223452
+1,Bangladesh,6,Nasir Hossain,AD Mathews,Sabbir Rahman,,0,0,0,,,,345223452
+1,Bangladesh,6,Nasir Hossain,AD Mathews,Sabbir Rahman,,0,0,0,,,,345223452
+1,Bangladesh,6,Nasir Hossain,AD Mathews,Sabbir Rahman,,0,1,1,,,,345223452
+1,Bangladesh,7,Nasir Hossain,BAW Mendis,Sabbir Rahman,,0,2,2,,,,345223452
+1,Bangladesh,7,Nasir Hossain,BAW Mendis,Sabbir Rahman,,0,0,0,,,,345223452
+1,Bangladesh,7,Nasir Hossain,BAW Mendis,Sabbir Rahman,,0,0,0,caught,Nasir Hossain,LD Chandimal,345223452
+1,Bangladesh,7,Mahmudullah,BAW Mendis,Sabbir Rahman,,0,0,0,,,,345223452
+1,Bangladesh,7,Mahmudullah,BAW Mendis,Sabbir Rahman,,0,0,0,,,,345223452
+1,Bangladesh,7,Mahmudullah,BAW Mendis,Sabbir Rahman,,0,2,2,,,,345223452
+1,Bangladesh,8,Sabbir Rahman,AD Mathews,Mahmudullah,,0,1,1,,,,345223452
+1,Bangladesh,8,Mahmudullah,AD Mathews,Sabbir Rahman,,0,4,4,,,,345223452
+1,Bangladesh,8,Mahmudullah,AD Mathews,Sabbir Rahman,,0,0,0,,,,345223452
+1,Bangladesh,8,Mahmudullah,AD Mathews,Sabbir Rahman,,0,0,0,,,,345223452
+1,Bangladesh,8,Mahmudullah,AD Mathews,Sabbir Rahman,,0,1,1,,,,345223452
+1,Bangladesh,8,Sabbir Rahman,AD Mathews,Mahmudullah,,0,0,0,,,,345223452
+1,Bangladesh,9,Mahmudullah,BAW Mendis,Sabbir Rahman,,0,0,0,,,,345223452
+1,Bangladesh,9,Mahmudullah,BAW Mendis,Sabbir Rahman,,0,1,1,,,,345223452
+1,Bangladesh,9,Sabbir Rahman,BAW Mendis,Mahmudullah,,0,0,0,,,,345223452
+1,Bangladesh,9,Sabbir Rahman,BAW Mendis,Mahmudullah,,0,1,1,,,,345223452
+1,Bangladesh,9,Mahmudullah,BAW Mendis,Sabbir Rahman,,0,1,1,,,,345223452
+1,Bangladesh,9,Sabbir Rahman,BAW Mendis,Mahmudullah,,0,1,1,,,,345223452
+1,Bangladesh,10,Sabbir Rahman,KMDN Kulasekara,Mahmudullah,,0,0,0,,,,345223452
+1,Bangladesh,10,Sabbir Rahman,KMDN Kulasekara,Mahmudullah,,0,0,0,,,,345223452
+1,Bangladesh,10,Sabbir Rahman,KMDN Kulasekara,Mahmudullah,,0,0,0,run out,Mahmudullah,TM Dilshan,345223452
+1,Bangladesh,10,Sabbir Rahman,KMDN Kulasekara,Farhad Reza,,0,2,2,,,,345223452
+1,Bangladesh,10,Sabbir Rahman,KMDN Kulasekara,Farhad Reza,,0,1,1,,,,345223452
+1,Bangladesh,10,Farhad Reza,KMDN Kulasekara,Sabbir Rahman,,0,1,1,,,,345223452
+1,Bangladesh,11,Farhad Reza,SMSM Senanayake,Sabbir Rahman,,0,0,0,,,,345223452
+1,Bangladesh,11,Farhad Reza,SMSM Senanayake,Sabbir Rahman,,0,0,0,,,,345223452
+1,Bangladesh,11,Farhad Reza,SMSM Senanayake,Sabbir Rahman,,0,0,0,,,,345223452
+1,Bangladesh,11,Farhad Reza,SMSM Senanayake,Sabbir Rahman,,0,0,0,,,,345223452
+1,Bangladesh,11,Farhad Reza,SMSM Senanayake,Sabbir Rahman,,0,3,3,,,,345223452
+1,Bangladesh,11,Sabbir Rahman,SMSM Senanayake,Farhad Reza,,0,0,0,,,,345223452
+1,Bangladesh,12,Farhad Reza,BAW Mendis,Sabbir Rahman,wides,1,1,0,,,,345223452
+1,Bangladesh,12,Farhad Reza,BAW Mendis,Sabbir Rahman,,0,3,3,,,,345223452
+1,Bangladesh,12,Sabbir Rahman,BAW Mendis,Farhad Reza,,0,0,0,,,,345223452
+1,Bangladesh,12,Sabbir Rahman,BAW Mendis,Farhad Reza,,0,0,0,,,,345223452
+1,Bangladesh,12,Sabbir Rahman,BAW Mendis,Farhad Reza,,0,0,0,,,,345223452
+1,Bangladesh,12,Sabbir Rahman,BAW Mendis,Farhad Reza,,0,0,0,,,,345223452
+1,Bangladesh,12,Sabbir Rahman,BAW Mendis,Farhad Reza,,0,0,0,,,,345223452
+1,Bangladesh,13,Farhad Reza,SMSM Senanayake,Sabbir Rahman,legbyes,2,2,0,,,,345223452
+1,Bangladesh,13,Farhad Reza,SMSM Senanayake,Sabbir Rahman,,0,0,0,,,,345223452
+1,Bangladesh,13,Farhad Reza,SMSM Senanayake,Sabbir Rahman,,0,0,0,,,,345223452
+1,Bangladesh,13,Farhad Reza,SMSM Senanayake,Sabbir Rahman,,0,0,0,,,,345223452
+1,Bangladesh,13,Farhad Reza,SMSM Senanayake,Sabbir Rahman,,0,1,1,,,,345223452
+1,Bangladesh,13,Sabbir Rahman,SMSM Senanayake,Farhad Reza,,0,1,1,,,,345223452
+1,Bangladesh,14,Sabbir Rahman,KMDN Kulasekara,Farhad Reza,legbyes,1,1,0,,,,345223452
+1,Bangladesh,14,Farhad Reza,KMDN Kulasekara,Sabbir Rahman,,0,1,1,,,,345223452
+1,Bangladesh,14,Sabbir Rahman,KMDN Kulasekara,Farhad Reza,,0,2,2,,,,345223452
+1,Bangladesh,14,Sabbir Rahman,KMDN Kulasekara,Farhad Reza,,0,1,1,,,,345223452
+1,Bangladesh,14,Farhad Reza,KMDN Kulasekara,Sabbir Rahman,wides,1,1,0,,,,345223452
+1,Bangladesh,14,Farhad Reza,KMDN Kulasekara,Sabbir Rahman,,0,0,0,caught,Farhad Reza,LD Chandimal,345223452
+1,Bangladesh,14,Mashrafe Mortaza,KMDN Kulasekara,Sabbir Rahman,,0,4,4,,,,345223452
+1,Bangladesh,15,Sabbir Rahman,SL Malinga,Mashrafe Mortaza,,0,0,0,,,,345223452
+1,Bangladesh,15,Sabbir Rahman,SL Malinga,Mashrafe Mortaza,,0,1,1,,,,345223452
+1,Bangladesh,15,Mashrafe Mortaza,SL Malinga,Sabbir Rahman,,0,0,0,,,,345223452
+1,Bangladesh,15,Mashrafe Mortaza,SL Malinga,Sabbir Rahman,,0,1,1,,,,345223452
+1,Bangladesh,15,Sabbir Rahman,SL Malinga,Mashrafe Mortaza,,0,1,1,,,,345223452
+1,Bangladesh,15,Mashrafe Mortaza,SL Malinga,Sabbir Rahman,,0,4,4,,,,345223452
+1,Bangladesh,16,Sabbir Rahman,BAW Mendis,Mashrafe Mortaza,,0,0,0,,,,345223452
+1,Bangladesh,16,Sabbir Rahman,BAW Mendis,Mashrafe Mortaza,,0,1,1,,,,345223452
+1,Bangladesh,16,Mashrafe Mortaza,BAW Mendis,Sabbir Rahman,,0,0,0,,,,345223452
+1,Bangladesh,16,Mashrafe Mortaza,BAW Mendis,Sabbir Rahman,,0,0,0,,,,345223452
+1,Bangladesh,16,Mashrafe Mortaza,BAW Mendis,Sabbir Rahman,,0,4,4,,,,345223452
+1,Bangladesh,16,Mashrafe Mortaza,BAW Mendis,Sabbir Rahman,,0,4,4,,,,345223452
+1,Bangladesh,17,Sabbir Rahman,SL Malinga,Mashrafe Mortaza,,0,1,1,,,,345223452
+1,Bangladesh,17,Mashrafe Mortaza,SL Malinga,Sabbir Rahman,,0,0,0,,,,345223452
+1,Bangladesh,17,Mashrafe Mortaza,SL Malinga,Sabbir Rahman,,0,0,0,bowled,Mashrafe Mortaza,,345223452
+1,Bangladesh,17,Arafat Sunny,SL Malinga,Sabbir Rahman,,0,1,1,,,,345223452
+1,Bangladesh,17,Sabbir Rahman,SL Malinga,Arafat Sunny,,0,0,0,,,,345223452
+1,Bangladesh,17,Sabbir Rahman,SL Malinga,Arafat Sunny,,0,4,4,,,,345223452
+1,Bangladesh,18,Arafat Sunny,KMDN Kulasekara,Sabbir Rahman,byes,1,1,0,,,,345223452
+1,Bangladesh,18,Sabbir Rahman,KMDN Kulasekara,Arafat Sunny,,0,4,4,,,,345223452
+1,Bangladesh,18,Sabbir Rahman,KMDN Kulasekara,Arafat Sunny,,0,2,2,,,,345223452
+1,Bangladesh,18,Sabbir Rahman,KMDN Kulasekara,Arafat Sunny,,0,1,1,,,,345223452
+1,Bangladesh,18,Arafat Sunny,KMDN Kulasekara,Sabbir Rahman,,0,0,0,,,,345223452
+1,Bangladesh,18,Arafat Sunny,KMDN Kulasekara,Sabbir Rahman,,0,0,0,,,,345223452
+1,Bangladesh,19,Sabbir Rahman,SL Malinga,Arafat Sunny,wides,1,1,0,,,,345223452
+1,Bangladesh,19,Sabbir Rahman,SL Malinga,Arafat Sunny,,0,1,1,,,,345223452
+1,Bangladesh,19,Arafat Sunny,SL Malinga,Sabbir Rahman,,0,4,4,,,,345223452
+1,Bangladesh,19,Arafat Sunny,SL Malinga,Sabbir Rahman,,0,0,0,caught,Arafat Sunny,LD Chandimal,345223452
+1,Bangladesh,19,Sabbir Rahman,SL Malinga,Rubel Hossain,,0,0,0,,,,345223452
+1,Bangladesh,19,Sabbir Rahman,SL Malinga,Rubel Hossain,,0,0,0,caught,Sabbir Rahman,KMDN Kulasekara,345223452

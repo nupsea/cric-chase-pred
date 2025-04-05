@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Namibia,0,SJ Baard,E Isaneez,N Davin,,0,4,4,,,,31106231106
+1,Namibia,0,SJ Baard,E Isaneez,N Davin,,0,0,0,,,,31106231106
+1,Namibia,0,SJ Baard,E Isaneez,N Davin,,0,1,1,,,,31106231106
+1,Namibia,0,N Davin,E Isaneez,SJ Baard,,0,0,0,,,,31106231106
+1,Namibia,0,N Davin,E Isaneez,SJ Baard,,0,2,2,,,,31106231106
+1,Namibia,0,N Davin,E Isaneez,SJ Baard,,0,0,0,,,,31106231106
+1,Namibia,1,SJ Baard,C Waiswa,N Davin,,0,0,0,,,,31106231106
+1,Namibia,1,SJ Baard,C Waiswa,N Davin,,0,0,0,,,,31106231106
+1,Namibia,1,SJ Baard,C Waiswa,N Davin,,0,2,2,,,,31106231106
+1,Namibia,1,SJ Baard,C Waiswa,N Davin,,0,1,1,,,,31106231106
+1,Namibia,1,N Davin,C Waiswa,SJ Baard,,0,0,0,,,,31106231106
+1,Namibia,1,N Davin,C Waiswa,SJ Baard,,0,4,4,,,,31106231106
+1,Namibia,2,SJ Baard,E Isaneez,N Davin,,0,0,0,,,,31106231106
+1,Namibia,2,SJ Baard,E Isaneez,N Davin,,0,1,1,,,,31106231106
+1,Namibia,2,N Davin,E Isaneez,SJ Baard,,0,1,1,,,,31106231106
+1,Namibia,2,SJ Baard,E Isaneez,N Davin,,0,1,1,run out,SJ Baard,,31106231106
+1,Namibia,2,C Viljoen,E Isaneez,N Davin,,0,4,4,,,,31106231106
+1,Namibia,2,C Viljoen,E Isaneez,N Davin,,0,0,0,,,,31106231106
+1,Namibia,3,N Davin,C Waiswa,C Viljoen,,0,4,4,,,,31106231106
+1,Namibia,3,N Davin,C Waiswa,C Viljoen,,0,0,0,caught,N Davin,DM Nakrani,31106231106
+1,Namibia,3,MG Erasmus,C Waiswa,C Viljoen,,0,1,1,,,,31106231106
+1,Namibia,3,C Viljoen,C Waiswa,MG Erasmus,,0,1,1,,,,31106231106
+1,Namibia,3,MG Erasmus,C Waiswa,C Viljoen,,0,0,0,,,,31106231106
+1,Namibia,3,MG Erasmus,C Waiswa,C Viljoen,,0,1,1,,,,31106231106
+1,Namibia,4,MG Erasmus,E Isaneez,C Viljoen,,0,0,0,,,,31106231106
+1,Namibia,4,MG Erasmus,E Isaneez,C Viljoen,noballs,1,1,0,,,,31106231106
+1,Namibia,4,MG Erasmus,E Isaneez,C Viljoen,,0,4,4,,,,31106231106
+1,Namibia,4,MG Erasmus,E Isaneez,C Viljoen,,0,0,0,,,,31106231106
+1,Namibia,4,MG Erasmus,E Isaneez,C Viljoen,,0,4,4,,,,31106231106
+1,Namibia,4,MG Erasmus,E Isaneez,C Viljoen,,0,0,0,,,,31106231106
+1,Namibia,4,MG Erasmus,E Isaneez,C Viljoen,,0,0,0,,,,31106231106
+1,Namibia,5,C Viljoen,H Ssenyondo,MG Erasmus,,0,1,1,,,,31106231106
+1,Namibia,5,MG Erasmus,H Ssenyondo,C Viljoen,legbyes,1,1,0,,,,31106231106
+1,Namibia,5,C Viljoen,H Ssenyondo,MG Erasmus,,0,0,0,,,,31106231106
+1,Namibia,5,C Viljoen,H Ssenyondo,MG Erasmus,,0,0,0,,,,31106231106
+1,Namibia,5,C Viljoen,H Ssenyondo,MG Erasmus,,0,4,4,,,,31106231106
+1,Namibia,5,C Viljoen,H Ssenyondo,MG Erasmus,,0,0,0,,,,31106231106
+1,Namibia,6,MG Erasmus,DM Nakrani,C Viljoen,,0,1,1,,,,31106231106
+1,Namibia,6,C Viljoen,DM Nakrani,MG Erasmus,,0,1,1,,,,31106231106
+1,Namibia,6,MG Erasmus,DM Nakrani,C Viljoen,,0,0,0,bowled,MG Erasmus,,31106231106
+1,Namibia,6,ZE Green,DM Nakrani,C Viljoen,,0,1,1,,,,31106231106
+1,Namibia,6,C Viljoen,DM Nakrani,ZE Green,,0,0,0,,,,31106231106
+1,Namibia,6,C Viljoen,DM Nakrani,ZE Green,,0,0,0,,,,31106231106
+1,Namibia,7,ZE Green,F Nsubuga,C Viljoen,,0,0,0,,,,31106231106
+1,Namibia,7,ZE Green,F Nsubuga,C Viljoen,,0,0,0,,,,31106231106
+1,Namibia,7,ZE Green,F Nsubuga,C Viljoen,,0,1,1,,,,31106231106
+1,Namibia,7,C Viljoen,F Nsubuga,ZE Green,,0,0,0,,,,31106231106
+1,Namibia,7,C Viljoen,F Nsubuga,ZE Green,,0,0,0,,,,31106231106
+1,Namibia,7,C Viljoen,F Nsubuga,ZE Green,,0,0,0,,,,31106231106
+1,Namibia,8,ZE Green,DM Nakrani,C Viljoen,,0,1,1,,,,31106231106
+1,Namibia,8,C Viljoen,DM Nakrani,ZE Green,,0,4,4,,,,31106231106
+1,Namibia,8,C Viljoen,DM Nakrani,ZE Green,,0,1,1,,,,31106231106
+1,Namibia,8,ZE Green,DM Nakrani,C Viljoen,,0,0,0,bowled,ZE Green,,31106231106
+1,Namibia,8,K Birkenstock,DM Nakrani,C Viljoen,,0,0,0,,,,31106231106
+1,Namibia,8,K Birkenstock,DM Nakrani,C Viljoen,,0,1,1,,,,31106231106
+1,Namibia,9,K Birkenstock,F Nsubuga,C Viljoen,,0,4,4,,,,31106231106
+1,Namibia,9,K Birkenstock,F Nsubuga,C Viljoen,,0,4,4,,,,31106231106
+1,Namibia,9,K Birkenstock,F Nsubuga,C Viljoen,,0,4,4,,,,31106231106
+1,Namibia,9,K Birkenstock,F Nsubuga,C Viljoen,,0,1,1,,,,31106231106
+1,Namibia,9,C Viljoen,F Nsubuga,K Birkenstock,,0,1,1,,,,31106231106
+1,Namibia,9,K Birkenstock,F Nsubuga,C Viljoen,,0,0,0,,,,31106231106
+1,Namibia,10,C Viljoen,DM Nakrani,K Birkenstock,,0,1,1,,,,31106231106
+1,Namibia,10,K Birkenstock,DM Nakrani,C Viljoen,,0,4,4,,,,31106231106
+1,Namibia,10,K Birkenstock,DM Nakrani,C Viljoen,,0,0,0,,,,31106231106
+1,Namibia,10,K Birkenstock,DM Nakrani,C Viljoen,,0,4,4,,,,31106231106
+1,Namibia,10,K Birkenstock,DM Nakrani,C Viljoen,,0,4,4,,,,31106231106
+1,Namibia,10,K Birkenstock,DM Nakrani,C Viljoen,,0,1,1,,,,31106231106
+1,Namibia,11,K Birkenstock,D Muhumuza,C Viljoen,,0,6,6,,,,31106231106
+1,Namibia,11,K Birkenstock,D Muhumuza,C Viljoen,,0,1,1,,,,31106231106
+1,Namibia,11,C Viljoen,D Muhumuza,K Birkenstock,wides,1,1,0,,,,31106231106
+1,Namibia,11,C Viljoen,D Muhumuza,K Birkenstock,,0,1,1,,,,31106231106
+1,Namibia,11,K Birkenstock,D Muhumuza,C Viljoen,,0,1,1,,,,31106231106
+1,Namibia,11,C Viljoen,D Muhumuza,K Birkenstock,,0,1,1,,,,31106231106
+1,Namibia,11,K Birkenstock,D Muhumuza,C Viljoen,,0,0,0,,,,31106231106
+1,Namibia,12,C Viljoen,H Ssenyondo,K Birkenstock,,0,4,4,,,,31106231106
+1,Namibia,12,C Viljoen,H Ssenyondo,K Birkenstock,,0,0,0,,,,31106231106
+1,Namibia,12,C Viljoen,H Ssenyondo,K Birkenstock,,0,1,1,,,,31106231106
+1,Namibia,12,K Birkenstock,H Ssenyondo,C Viljoen,,0,0,0,,,,31106231106
+1,Namibia,12,K Birkenstock,H Ssenyondo,C Viljoen,,0,6,6,,,,31106231106
+1,Namibia,12,K Birkenstock,H Ssenyondo,C Viljoen,,0,0,0,,,,31106231106
+1,Namibia,13,C Viljoen,E Isaneez,K Birkenstock,,0,1,1,,,,31106231106
+1,Namibia,13,K Birkenstock,E Isaneez,C Viljoen,,0,1,1,,,,31106231106
+1,Namibia,13,C Viljoen,E Isaneez,K Birkenstock,,0,4,4,,,,31106231106
+1,Namibia,13,C Viljoen,E Isaneez,K Birkenstock,,0,0,0,,,,31106231106
+1,Namibia,13,C Viljoen,E Isaneez,K Birkenstock,,0,1,1,,,,31106231106
+1,Namibia,13,K Birkenstock,E Isaneez,C Viljoen,,0,0,0,,,,31106231106
+1,Namibia,14,C Viljoen,Riazat Ali Shah,K Birkenstock,,0,0,0,,,,31106231106
+1,Namibia,14,C Viljoen,Riazat Ali Shah,K Birkenstock,,0,1,1,,,,31106231106
+1,Namibia,14,K Birkenstock,Riazat Ali Shah,C Viljoen,,0,1,1,,,,31106231106
+1,Namibia,14,C Viljoen,Riazat Ali Shah,K Birkenstock,,0,1,1,run out,C Viljoen,,31106231106
+1,Namibia,14,K Birkenstock,Riazat Ali Shah,JJ Smit,,0,1,1,,,,31106231106
+1,Namibia,14,JJ Smit,Riazat Ali Shah,K Birkenstock,,0,0,0,,,,31106231106
+1,Namibia,15,K Birkenstock,C Waiswa,JJ Smit,,0,6,6,,,,31106231106
+1,Namibia,15,K Birkenstock,C Waiswa,JJ Smit,,0,2,2,,,,31106231106
+1,Namibia,15,K Birkenstock,C Waiswa,JJ Smit,,0,1,1,,,,31106231106
+1,Namibia,15,JJ Smit,C Waiswa,K Birkenstock,,0,0,0,,,,31106231106
+1,Namibia,15,JJ Smit,C Waiswa,K Birkenstock,,0,1,1,,,,31106231106
+1,Namibia,15,K Birkenstock,C Waiswa,JJ Smit,wides,1,1,0,,,,31106231106
+1,Namibia,15,K Birkenstock,C Waiswa,JJ Smit,,0,6,6,,,,31106231106
+1,Namibia,16,JJ Smit,Riazat Ali Shah,K Birkenstock,,0,4,4,,,,31106231106
+1,Namibia,16,JJ Smit,Riazat Ali Shah,K Birkenstock,,0,1,1,,,,31106231106
+1,Namibia,16,K Birkenstock,Riazat Ali Shah,JJ Smit,,0,0,0,caught,K Birkenstock,C Waiswa,31106231106
+1,Namibia,16,JJ Smit,Riazat Ali Shah,JN Frylinck,,0,2,2,,,,31106231106
+1,Namibia,16,JJ Smit,Riazat Ali Shah,JN Frylinck,,0,0,0,,,,31106231106
+1,Namibia,16,JJ Smit,Riazat Ali Shah,JN Frylinck,,0,1,1,,,,31106231106
+1,Namibia,17,JJ Smit,DM Nakrani,JN Frylinck,,0,0,0,,,,31106231106
+1,Namibia,17,JJ Smit,DM Nakrani,JN Frylinck,,0,1,1,,,,31106231106
+1,Namibia,17,JN Frylinck,DM Nakrani,JJ Smit,,0,1,1,,,,31106231106
+1,Namibia,17,JJ Smit,DM Nakrani,JN Frylinck,,0,1,1,,,,31106231106
+1,Namibia,17,JN Frylinck,DM Nakrani,JJ Smit,,0,2,2,,,,31106231106
+1,Namibia,17,JN Frylinck,DM Nakrani,JJ Smit,,0,0,0,,,,31106231106
+1,Namibia,18,JJ Smit,Riazat Ali Shah,JN Frylinck,,0,1,1,,,,31106231106
+1,Namibia,18,JN Frylinck,Riazat Ali Shah,JJ Smit,,0,2,2,,,,31106231106
+1,Namibia,18,JN Frylinck,Riazat Ali Shah,JJ Smit,,0,0,0,,,,31106231106
+1,Namibia,18,JN Frylinck,Riazat Ali Shah,JJ Smit,,0,1,1,,,,31106231106
+1,Namibia,18,JJ Smit,Riazat Ali Shah,JN Frylinck,,0,0,0,,,,31106231106
+1,Namibia,18,JJ Smit,Riazat Ali Shah,JN Frylinck,,0,4,4,,,,31106231106
+1,Namibia,19,JN Frylinck,C Waiswa,JJ Smit,,0,4,4,,,,31106231106
+1,Namibia,19,JN Frylinck,C Waiswa,JJ Smit,,0,1,1,,,,31106231106
+1,Namibia,19,JJ Smit,C Waiswa,JN Frylinck,,0,0,0,bowled,JJ Smit,,31106231106
+1,Namibia,19,Z Groenewald,C Waiswa,JN Frylinck,,0,1,1,,,,31106231106
+1,Namibia,19,JN Frylinck,C Waiswa,Z Groenewald,,0,6,6,,,,31106231106
+1,Namibia,19,JN Frylinck,C Waiswa,Z Groenewald,,0,2,2,,,,31106231106

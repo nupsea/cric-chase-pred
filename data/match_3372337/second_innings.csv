@@ -1,0 +1,132 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,South Africa,0,HH Gibbs,S Sreesanth,GC Smith,wides,5,5,0,,,,3372337
+2,South Africa,0,HH Gibbs,S Sreesanth,GC Smith,,0,0,0,,,,3372337
+2,South Africa,0,HH Gibbs,S Sreesanth,GC Smith,wides,1,1,0,,,,3372337
+2,South Africa,0,HH Gibbs,S Sreesanth,GC Smith,,0,1,1,,,,3372337
+2,South Africa,0,GC Smith,S Sreesanth,HH Gibbs,,0,4,4,,,,3372337
+2,South Africa,0,GC Smith,S Sreesanth,HH Gibbs,,0,0,0,,,,3372337
+2,South Africa,0,GC Smith,S Sreesanth,HH Gibbs,,0,0,0,,,,3372337
+2,South Africa,0,GC Smith,S Sreesanth,HH Gibbs,,0,0,0,,,,3372337
+2,South Africa,1,HH Gibbs,RP Singh,GC Smith,,0,0,0,lbw,HH Gibbs,,3372337
+2,South Africa,1,AB de Villiers,RP Singh,GC Smith,,0,1,1,,,,3372337
+2,South Africa,1,GC Smith,RP Singh,AB de Villiers,,0,0,0,,,,3372337
+2,South Africa,1,GC Smith,RP Singh,AB de Villiers,,0,0,0,caught,GC Smith,KD Karthik,3372337
+2,South Africa,1,JM Kemp,RP Singh,AB de Villiers,,0,0,0,,,,3372337
+2,South Africa,1,JM Kemp,RP Singh,AB de Villiers,,0,0,0,,,,3372337
+2,South Africa,2,AB de Villiers,S Sreesanth,JM Kemp,,0,0,0,,,,3372337
+2,South Africa,2,AB de Villiers,S Sreesanth,JM Kemp,,0,0,0,,,,3372337
+2,South Africa,2,AB de Villiers,S Sreesanth,JM Kemp,,0,0,0,lbw,AB de Villiers,,3372337
+2,South Africa,2,MV Boucher,S Sreesanth,JM Kemp,,0,0,0,,,,3372337
+2,South Africa,2,MV Boucher,S Sreesanth,JM Kemp,wides,1,1,0,,,,3372337
+2,South Africa,2,MV Boucher,S Sreesanth,JM Kemp,wides,1,1,0,,,,3372337
+2,South Africa,2,MV Boucher,S Sreesanth,JM Kemp,wides,1,1,0,,,,3372337
+2,South Africa,2,MV Boucher,S Sreesanth,JM Kemp,,0,1,1,,,,3372337
+2,South Africa,2,JM Kemp,S Sreesanth,MV Boucher,,0,0,0,,,,3372337
+2,South Africa,3,MV Boucher,RP Singh,JM Kemp,,0,0,0,,,,3372337
+2,South Africa,3,MV Boucher,RP Singh,JM Kemp,wides,1,1,0,,,,3372337
+2,South Africa,3,MV Boucher,RP Singh,JM Kemp,legbyes,1,1,0,,,,3372337
+2,South Africa,3,JM Kemp,RP Singh,MV Boucher,,0,0,0,,,,3372337
+2,South Africa,3,JM Kemp,RP Singh,MV Boucher,,0,0,0,,,,3372337
+2,South Africa,3,JM Kemp,RP Singh,MV Boucher,,0,1,1,,,,3372337
+2,South Africa,3,MV Boucher,RP Singh,JM Kemp,,0,0,0,,,,3372337
+2,South Africa,4,JM Kemp,S Sreesanth,MV Boucher,,0,0,0,,,,3372337
+2,South Africa,4,JM Kemp,S Sreesanth,MV Boucher,,0,0,0,,,,3372337
+2,South Africa,4,JM Kemp,S Sreesanth,MV Boucher,,0,4,4,,,,3372337
+2,South Africa,4,JM Kemp,S Sreesanth,MV Boucher,,0,0,0,,,,3372337
+2,South Africa,4,JM Kemp,S Sreesanth,MV Boucher,,0,0,0,,,,3372337
+2,South Africa,4,JM Kemp,S Sreesanth,MV Boucher,,0,0,0,,,,3372337
+2,South Africa,5,MV Boucher,RP Singh,JM Kemp,,0,4,4,,,,3372337
+2,South Africa,5,MV Boucher,RP Singh,JM Kemp,wides,1,1,0,,,,3372337
+2,South Africa,5,MV Boucher,RP Singh,JM Kemp,,0,0,0,,,,3372337
+2,South Africa,5,MV Boucher,RP Singh,JM Kemp,,0,2,2,,,,3372337
+2,South Africa,5,MV Boucher,RP Singh,JM Kemp,,0,0,0,run out,JM Kemp,RG Sharma,3372337
+2,South Africa,5,SM Pollock,RP Singh,MV Boucher,wides,1,1,0,,,,3372337
+2,South Africa,5,SM Pollock,RP Singh,MV Boucher,,0,0,0,bowled,SM Pollock,,3372337
+2,South Africa,5,JA Morkel,RP Singh,MV Boucher,,0,0,0,,,,3372337
+2,South Africa,6,MV Boucher,Joginder Sharma,JA Morkel,,0,0,0,,,,3372337
+2,South Africa,6,MV Boucher,Joginder Sharma,JA Morkel,,0,1,1,,,,3372337
+2,South Africa,6,JA Morkel,Joginder Sharma,MV Boucher,,0,0,0,,,,3372337
+2,South Africa,6,JA Morkel,Joginder Sharma,MV Boucher,,0,0,0,,,,3372337
+2,South Africa,6,JA Morkel,Joginder Sharma,MV Boucher,,0,1,1,,,,3372337
+2,South Africa,6,MV Boucher,Joginder Sharma,JA Morkel,,0,1,1,,,,3372337
+2,South Africa,7,MV Boucher,IK Pathan,JA Morkel,,0,0,0,,,,3372337
+2,South Africa,7,MV Boucher,IK Pathan,JA Morkel,,0,0,0,,,,3372337
+2,South Africa,7,MV Boucher,IK Pathan,JA Morkel,,0,0,0,,,,3372337
+2,South Africa,7,MV Boucher,IK Pathan,JA Morkel,,0,1,1,,,,3372337
+2,South Africa,7,JA Morkel,IK Pathan,MV Boucher,,0,0,0,,,,3372337
+2,South Africa,7,JA Morkel,IK Pathan,MV Boucher,,0,0,0,,,,3372337
+2,South Africa,8,MV Boucher,Joginder Sharma,JA Morkel,legbyes,4,4,0,,,,3372337
+2,South Africa,8,MV Boucher,Joginder Sharma,JA Morkel,wides,1,1,0,,,,3372337
+2,South Africa,8,MV Boucher,Joginder Sharma,JA Morkel,,0,1,1,,,,3372337
+2,South Africa,8,JA Morkel,Joginder Sharma,MV Boucher,,0,0,0,,,,3372337
+2,South Africa,8,JA Morkel,Joginder Sharma,MV Boucher,,0,2,2,,,,3372337
+2,South Africa,8,JA Morkel,Joginder Sharma,MV Boucher,,0,0,0,,,,3372337
+2,South Africa,8,JA Morkel,Joginder Sharma,MV Boucher,,0,1,1,,,,3372337
+2,South Africa,9,JA Morkel,IK Pathan,MV Boucher,,0,2,2,,,,3372337
+2,South Africa,9,JA Morkel,IK Pathan,MV Boucher,,0,0,0,,,,3372337
+2,South Africa,9,JA Morkel,IK Pathan,MV Boucher,,0,0,0,,,,3372337
+2,South Africa,9,JA Morkel,IK Pathan,MV Boucher,,0,0,0,,,,3372337
+2,South Africa,9,JA Morkel,IK Pathan,MV Boucher,,0,1,1,,,,3372337
+2,South Africa,9,MV Boucher,IK Pathan,JA Morkel,legbyes,1,1,0,,,,3372337
+2,South Africa,10,MV Boucher,Joginder Sharma,JA Morkel,,0,1,1,,,,3372337
+2,South Africa,10,JA Morkel,Joginder Sharma,MV Boucher,,0,4,4,,,,3372337
+2,South Africa,10,JA Morkel,Joginder Sharma,MV Boucher,,0,0,0,,,,3372337
+2,South Africa,10,JA Morkel,Joginder Sharma,MV Boucher,,0,1,1,,,,3372337
+2,South Africa,10,MV Boucher,Joginder Sharma,JA Morkel,,0,1,1,,,,3372337
+2,South Africa,10,JA Morkel,Joginder Sharma,MV Boucher,,0,0,0,,,,3372337
+2,South Africa,11,MV Boucher,IK Pathan,JA Morkel,,0,0,0,,,,3372337
+2,South Africa,11,MV Boucher,IK Pathan,JA Morkel,,0,1,1,,,,3372337
+2,South Africa,11,JA Morkel,IK Pathan,MV Boucher,,0,1,1,,,,3372337
+2,South Africa,11,MV Boucher,IK Pathan,JA Morkel,legbyes,1,1,0,,,,3372337
+2,South Africa,11,JA Morkel,IK Pathan,MV Boucher,,0,4,4,,,,3372337
+2,South Africa,11,JA Morkel,IK Pathan,MV Boucher,,0,0,0,,,,3372337
+2,South Africa,12,MV Boucher,Harbhajan Singh,JA Morkel,,0,0,0,,,,3372337
+2,South Africa,12,MV Boucher,Harbhajan Singh,JA Morkel,,0,4,4,,,,3372337
+2,South Africa,12,MV Boucher,Harbhajan Singh,JA Morkel,,0,4,4,,,,3372337
+2,South Africa,12,MV Boucher,Harbhajan Singh,JA Morkel,,0,4,4,,,,3372337
+2,South Africa,12,MV Boucher,Harbhajan Singh,JA Morkel,,0,1,1,,,,3372337
+2,South Africa,12,JA Morkel,Harbhajan Singh,MV Boucher,,0,2,2,,,,3372337
+2,South Africa,13,MV Boucher,IK Pathan,JA Morkel,,0,1,1,,,,3372337
+2,South Africa,13,JA Morkel,IK Pathan,MV Boucher,,0,1,1,,,,3372337
+2,South Africa,13,MV Boucher,IK Pathan,JA Morkel,,0,1,1,,,,3372337
+2,South Africa,13,JA Morkel,IK Pathan,MV Boucher,,0,1,1,,,,3372337
+2,South Africa,13,MV Boucher,IK Pathan,JA Morkel,,0,1,1,,,,3372337
+2,South Africa,13,JA Morkel,IK Pathan,MV Boucher,wides,1,1,0,,,,3372337
+2,South Africa,13,JA Morkel,IK Pathan,MV Boucher,,0,0,0,,,,3372337
+2,South Africa,14,MV Boucher,Joginder Sharma,JA Morkel,,0,1,1,,,,3372337
+2,South Africa,14,JA Morkel,Joginder Sharma,MV Boucher,,0,6,6,,,,3372337
+2,South Africa,14,JA Morkel,Joginder Sharma,MV Boucher,,0,0,0,,,,3372337
+2,South Africa,14,JA Morkel,Joginder Sharma,MV Boucher,,0,0,0,,,,3372337
+2,South Africa,14,JA Morkel,Joginder Sharma,MV Boucher,,0,1,1,,,,3372337
+2,South Africa,14,MV Boucher,Joginder Sharma,JA Morkel,,0,1,1,,,,3372337
+2,South Africa,15,MV Boucher,Harbhajan Singh,JA Morkel,,0,1,1,,,,3372337
+2,South Africa,15,JA Morkel,Harbhajan Singh,MV Boucher,,0,1,1,,,,3372337
+2,South Africa,15,MV Boucher,Harbhajan Singh,JA Morkel,,0,1,1,,,,3372337
+2,South Africa,15,JA Morkel,Harbhajan Singh,MV Boucher,,0,1,1,,,,3372337
+2,South Africa,15,MV Boucher,Harbhajan Singh,JA Morkel,,0,0,0,,,,3372337
+2,South Africa,15,MV Boucher,Harbhajan Singh,JA Morkel,,0,1,1,,,,3372337
+2,South Africa,16,MV Boucher,S Sreesanth,JA Morkel,wides,1,1,0,,,,3372337
+2,South Africa,16,MV Boucher,S Sreesanth,JA Morkel,,0,0,0,,,,3372337
+2,South Africa,16,MV Boucher,S Sreesanth,JA Morkel,,0,1,1,,,,3372337
+2,South Africa,16,JA Morkel,S Sreesanth,MV Boucher,,0,1,1,,,,3372337
+2,South Africa,16,MV Boucher,S Sreesanth,JA Morkel,,0,0,0,bowled,MV Boucher,,3372337
+2,South Africa,16,VD Philander,S Sreesanth,JA Morkel,,0,0,0,,,,3372337
+2,South Africa,16,VD Philander,S Sreesanth,JA Morkel,,0,1,1,,,,3372337
+2,South Africa,17,VD Philander,Harbhajan Singh,JA Morkel,,0,0,0,,,,3372337
+2,South Africa,17,VD Philander,Harbhajan Singh,JA Morkel,,0,1,1,,,,3372337
+2,South Africa,17,JA Morkel,Harbhajan Singh,VD Philander,,0,1,1,,,,3372337
+2,South Africa,17,VD Philander,Harbhajan Singh,JA Morkel,,0,0,0,stumped,VD Philander,KD Karthik,3372337
+2,South Africa,17,JJ van der Wath,Harbhajan Singh,JA Morkel,,0,1,1,,,,3372337
+2,South Africa,17,JA Morkel,Harbhajan Singh,JJ van der Wath,,0,2,2,,,,3372337
+2,South Africa,18,JJ van der Wath,RP Singh,JA Morkel,,0,0,0,,,,3372337
+2,South Africa,18,JJ van der Wath,RP Singh,JA Morkel,legbyes,1,1,0,,,,3372337
+2,South Africa,18,JA Morkel,RP Singh,JJ van der Wath,,0,2,2,,,,3372337
+2,South Africa,18,JA Morkel,RP Singh,JJ van der Wath,,0,0,0,bowled,JA Morkel,,3372337
+2,South Africa,18,M Morkel,RP Singh,JJ van der Wath,,0,0,0,,,,3372337
+2,South Africa,18,M Morkel,RP Singh,JJ van der Wath,,0,0,0,,,,3372337
+2,South Africa,19,JJ van der Wath,Harbhajan Singh,M Morkel,,0,1,1,,,,3372337
+2,South Africa,19,M Morkel,Harbhajan Singh,JJ van der Wath,,0,1,1,,,,3372337
+2,South Africa,19,JJ van der Wath,Harbhajan Singh,M Morkel,,0,0,0,,,,3372337
+2,South Africa,19,JJ van der Wath,Harbhajan Singh,M Morkel,,0,0,0,stumped,JJ van der Wath,KD Karthik,3372337
+2,South Africa,19,M Ntini,Harbhajan Singh,M Morkel,,0,4,4,,,,3372337
+2,South Africa,19,M Ntini,Harbhajan Singh,M Morkel,legbyes,1,1,0,,,,3372337

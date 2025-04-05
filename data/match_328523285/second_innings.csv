@@ -1,0 +1,115 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,New Zealand,0,RJ Nicol,FH Edwards,MJ Guptill,,0,1,1,,,,328523285
+2,New Zealand,0,MJ Guptill,FH Edwards,RJ Nicol,,0,0,0,,,,328523285
+2,New Zealand,0,MJ Guptill,FH Edwards,RJ Nicol,,0,0,0,,,,328523285
+2,New Zealand,0,MJ Guptill,FH Edwards,RJ Nicol,,0,4,4,,,,328523285
+2,New Zealand,0,MJ Guptill,FH Edwards,RJ Nicol,,0,0,0,,,,328523285
+2,New Zealand,0,MJ Guptill,FH Edwards,RJ Nicol,,0,1,1,,,,328523285
+2,New Zealand,1,MJ Guptill,S Badree,RJ Nicol,,0,1,1,,,,328523285
+2,New Zealand,1,RJ Nicol,S Badree,MJ Guptill,,0,0,0,,,,328523285
+2,New Zealand,1,RJ Nicol,S Badree,MJ Guptill,,0,0,0,,,,328523285
+2,New Zealand,1,RJ Nicol,S Badree,MJ Guptill,,0,1,1,,,,328523285
+2,New Zealand,1,MJ Guptill,S Badree,RJ Nicol,,0,4,4,,,,328523285
+2,New Zealand,1,MJ Guptill,S Badree,RJ Nicol,,0,0,0,,,,328523285
+2,New Zealand,2,RJ Nicol,FH Edwards,MJ Guptill,,0,1,1,,,,328523285
+2,New Zealand,2,MJ Guptill,FH Edwards,RJ Nicol,,0,0,0,,,,328523285
+2,New Zealand,2,MJ Guptill,FH Edwards,RJ Nicol,,0,0,0,,,,328523285
+2,New Zealand,2,MJ Guptill,FH Edwards,RJ Nicol,,0,6,6,,,,328523285
+2,New Zealand,2,MJ Guptill,FH Edwards,RJ Nicol,,0,1,1,,,,328523285
+2,New Zealand,2,RJ Nicol,FH Edwards,MJ Guptill,,0,1,1,,,,328523285
+2,New Zealand,3,RJ Nicol,S Badree,MJ Guptill,,0,0,0,,,,328523285
+2,New Zealand,3,RJ Nicol,S Badree,MJ Guptill,,0,1,1,,,,328523285
+2,New Zealand,3,MJ Guptill,S Badree,RJ Nicol,,0,1,1,,,,328523285
+2,New Zealand,3,RJ Nicol,S Badree,MJ Guptill,,0,0,0,,,,328523285
+2,New Zealand,3,RJ Nicol,S Badree,MJ Guptill,,0,2,2,,,,328523285
+2,New Zealand,3,RJ Nicol,S Badree,MJ Guptill,,0,0,0,,,,328523285
+2,New Zealand,4,MJ Guptill,SP Narine,RJ Nicol,,0,0,0,,,,328523285
+2,New Zealand,4,MJ Guptill,SP Narine,RJ Nicol,wides,1,1,0,,,,328523285
+2,New Zealand,4,MJ Guptill,SP Narine,RJ Nicol,,0,0,0,,,,328523285
+2,New Zealand,4,MJ Guptill,SP Narine,RJ Nicol,,0,0,0,,,,328523285
+2,New Zealand,4,MJ Guptill,SP Narine,RJ Nicol,,0,0,0,,,,328523285
+2,New Zealand,4,MJ Guptill,SP Narine,RJ Nicol,,0,0,0,caught,MJ Guptill,FH Edwards,328523285
+2,New Zealand,4,RJ Nicol,SP Narine,TG Southee,,0,0,0,stumped,RJ Nicol,D Ramdin,328523285
+2,New Zealand,5,TG Southee,S Badree,KS Williamson,legbyes,1,1,0,,,,328523285
+2,New Zealand,5,KS Williamson,S Badree,TG Southee,,0,2,2,,,,328523285
+2,New Zealand,5,KS Williamson,S Badree,TG Southee,,0,0,0,,,,328523285
+2,New Zealand,5,KS Williamson,S Badree,TG Southee,,0,0,0,,,,328523285
+2,New Zealand,5,KS Williamson,S Badree,TG Southee,,0,4,4,,,,328523285
+2,New Zealand,5,KS Williamson,S Badree,TG Southee,,0,0,0,run out,KS Williamson,S Badree,328523285
+2,New Zealand,6,DR Flynn,SP Narine,TG Southee,,0,0,0,,,,328523285
+2,New Zealand,6,DR Flynn,SP Narine,TG Southee,,0,0,0,,,,328523285
+2,New Zealand,6,DR Flynn,SP Narine,TG Southee,,0,1,1,,,,328523285
+2,New Zealand,6,TG Southee,SP Narine,DR Flynn,,0,1,1,,,,328523285
+2,New Zealand,6,DR Flynn,SP Narine,TG Southee,,0,0,0,,,,328523285
+2,New Zealand,6,DR Flynn,SP Narine,TG Southee,,0,1,1,,,,328523285
+2,New Zealand,7,DR Flynn,S Badree,TG Southee,,0,1,1,,,,328523285
+2,New Zealand,7,TG Southee,S Badree,DR Flynn,,0,2,2,,,,328523285
+2,New Zealand,7,TG Southee,S Badree,DR Flynn,,0,0,0,,,,328523285
+2,New Zealand,7,TG Southee,S Badree,DR Flynn,,0,0,0,caught,TG Southee,J Charles,328523285
+2,New Zealand,7,DR Flynn,S Badree,DG Brownlie,,0,1,1,,,,328523285
+2,New Zealand,7,DG Brownlie,S Badree,DR Flynn,,0,0,0,,,,328523285
+2,New Zealand,8,DR Flynn,SP Narine,DG Brownlie,,0,1,1,,,,328523285
+2,New Zealand,8,DG Brownlie,SP Narine,DR Flynn,,0,1,1,,,,328523285
+2,New Zealand,8,DR Flynn,SP Narine,DG Brownlie,,0,1,1,,,,328523285
+2,New Zealand,8,DG Brownlie,SP Narine,DR Flynn,,0,0,0,,,,328523285
+2,New Zealand,8,DG Brownlie,SP Narine,DR Flynn,,0,0,0,bowled,DG Brownlie,,328523285
+2,New Zealand,8,TWM Latham,SP Narine,DR Flynn,,0,0,0,,,,328523285
+2,New Zealand,9,DR Flynn,DJG Sammy,TWM Latham,,0,6,6,,,,328523285
+2,New Zealand,9,DR Flynn,DJG Sammy,TWM Latham,,0,0,0,,,,328523285
+2,New Zealand,9,DR Flynn,DJG Sammy,TWM Latham,,0,0,0,,,,328523285
+2,New Zealand,9,DR Flynn,DJG Sammy,TWM Latham,,0,1,1,,,,328523285
+2,New Zealand,9,TWM Latham,DJG Sammy,DR Flynn,,0,0,0,,,,328523285
+2,New Zealand,9,TWM Latham,DJG Sammy,DR Flynn,wides,1,1,0,,,,328523285
+2,New Zealand,9,TWM Latham,DJG Sammy,DR Flynn,,0,1,1,,,,328523285
+2,New Zealand,10,TWM Latham,DJ Bravo,DR Flynn,,0,2,2,,,,328523285
+2,New Zealand,10,TWM Latham,DJ Bravo,DR Flynn,,0,0,0,,,,328523285
+2,New Zealand,10,TWM Latham,DJ Bravo,DR Flynn,,0,1,1,,,,328523285
+2,New Zealand,10,DR Flynn,DJ Bravo,TWM Latham,,0,1,1,,,,328523285
+2,New Zealand,10,TWM Latham,DJ Bravo,DR Flynn,,0,1,1,,,,328523285
+2,New Zealand,10,DR Flynn,DJ Bravo,TWM Latham,,0,6,6,,,,328523285
+2,New Zealand,11,TWM Latham,DJG Sammy,DR Flynn,,0,2,2,,,,328523285
+2,New Zealand,11,TWM Latham,DJG Sammy,DR Flynn,,0,0,0,,,,328523285
+2,New Zealand,11,TWM Latham,DJG Sammy,DR Flynn,,0,1,1,,,,328523285
+2,New Zealand,11,DR Flynn,DJG Sammy,TWM Latham,,0,0,0,,,,328523285
+2,New Zealand,11,DR Flynn,DJG Sammy,TWM Latham,,0,2,2,,,,328523285
+2,New Zealand,11,DR Flynn,DJG Sammy,TWM Latham,legbyes,1,1,0,,,,328523285
+2,New Zealand,12,DR Flynn,MN Samuels,TWM Latham,,0,0,0,caught,DR Flynn,CH Gayle,328523285
+2,New Zealand,12,TWM Latham,MN Samuels,NL McCullum,,0,0,0,,,,328523285
+2,New Zealand,12,TWM Latham,MN Samuels,NL McCullum,,0,2,2,,,,328523285
+2,New Zealand,12,TWM Latham,MN Samuels,NL McCullum,,0,0,0,,,,328523285
+2,New Zealand,12,TWM Latham,MN Samuels,NL McCullum,,0,2,2,,,,328523285
+2,New Zealand,12,TWM Latham,MN Samuels,NL McCullum,,0,2,2,,,,328523285
+2,New Zealand,13,NL McCullum,DJ Bravo,TWM Latham,,0,2,2,,,,328523285
+2,New Zealand,13,NL McCullum,DJ Bravo,TWM Latham,,0,1,1,,,,328523285
+2,New Zealand,13,TWM Latham,DJ Bravo,NL McCullum,,0,4,4,,,,328523285
+2,New Zealand,13,TWM Latham,DJ Bravo,NL McCullum,,0,0,0,,,,328523285
+2,New Zealand,13,TWM Latham,DJ Bravo,NL McCullum,,0,1,1,,,,328523285
+2,New Zealand,13,NL McCullum,DJ Bravo,TWM Latham,,0,2,2,,,,328523285
+2,New Zealand,14,TWM Latham,MN Samuels,NL McCullum,,0,0,0,bowled,TWM Latham,,328523285
+2,New Zealand,14,AM Ellis,MN Samuels,NL McCullum,,0,1,1,,,,328523285
+2,New Zealand,14,NL McCullum,MN Samuels,AM Ellis,,0,0,0,,,,328523285
+2,New Zealand,14,NL McCullum,MN Samuels,AM Ellis,,0,2,2,,,,328523285
+2,New Zealand,14,NL McCullum,MN Samuels,AM Ellis,,0,1,1,,,,328523285
+2,New Zealand,14,AM Ellis,MN Samuels,NL McCullum,,0,0,0,,,,328523285
+2,New Zealand,15,NL McCullum,SP Narine,AM Ellis,,0,0,0,,,,328523285
+2,New Zealand,15,NL McCullum,SP Narine,AM Ellis,,0,1,1,,,,328523285
+2,New Zealand,15,AM Ellis,SP Narine,NL McCullum,,0,0,0,caught,AM Ellis,DJ Bravo,328523285
+2,New Zealand,15,NL McCullum,SP Narine,DAJ Bracewell,,0,1,1,,,,328523285
+2,New Zealand,15,DAJ Bracewell,SP Narine,NL McCullum,,0,2,2,,,,328523285
+2,New Zealand,15,DAJ Bracewell,SP Narine,NL McCullum,,0,1,1,,,,328523285
+2,New Zealand,16,DAJ Bracewell,MN Samuels,NL McCullum,,0,6,6,,,,328523285
+2,New Zealand,16,DAJ Bracewell,MN Samuels,NL McCullum,,0,6,6,,,,328523285
+2,New Zealand,16,DAJ Bracewell,MN Samuels,NL McCullum,,0,0,0,,,,328523285
+2,New Zealand,16,DAJ Bracewell,MN Samuels,NL McCullum,,0,1,1,,,,328523285
+2,New Zealand,16,NL McCullum,MN Samuels,DAJ Bracewell,,0,1,1,,,,328523285
+2,New Zealand,16,DAJ Bracewell,MN Samuels,NL McCullum,,0,1,1,,,,328523285
+2,New Zealand,17,DAJ Bracewell,FH Edwards,NL McCullum,,0,1,1,,,,328523285
+2,New Zealand,17,NL McCullum,FH Edwards,DAJ Bracewell,,0,1,1,,,,328523285
+2,New Zealand,17,DAJ Bracewell,FH Edwards,NL McCullum,,0,1,1,,,,328523285
+2,New Zealand,17,NL McCullum,FH Edwards,DAJ Bracewell,,0,1,1,,,,328523285
+2,New Zealand,17,DAJ Bracewell,FH Edwards,NL McCullum,,0,1,1,,,,328523285
+2,New Zealand,17,NL McCullum,FH Edwards,DAJ Bracewell,,0,0,0,,,,328523285
+2,New Zealand,18,DAJ Bracewell,DJ Bravo,NL McCullum,,0,0,0,caught,DAJ Bracewell,DR Smith,328523285
+2,New Zealand,18,NL McCullum,DJ Bravo,KD Mills,,0,1,1,,,,328523285
+2,New Zealand,18,KD Mills,DJ Bravo,NL McCullum,,0,1,1,,,,328523285
+2,New Zealand,18,NL McCullum,DJ Bravo,KD Mills,,0,0,0,caught and bowled,NL McCullum,,328523285

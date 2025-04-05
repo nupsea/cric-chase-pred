@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Papua New Guinea,0,L Siaka,Karan KC,A Vala,,0,0,0,,,,31945231945
+2,Papua New Guinea,0,L Siaka,Karan KC,A Vala,,0,1,1,,,,31945231945
+2,Papua New Guinea,0,A Vala,Karan KC,L Siaka,legbyes,1,1,0,,,,31945231945
+2,Papua New Guinea,0,L Siaka,Karan KC,A Vala,,0,0,0,caught,L Siaka,Aasif Sheikh,31945231945
+2,Papua New Guinea,0,CJA Amini,Karan KC,A Vala,,0,0,0,,,,31945231945
+2,Papua New Guinea,0,CJA Amini,Karan KC,A Vala,legbyes,4,4,0,,,,31945231945
+2,Papua New Guinea,1,A Vala,Sompal Kami,CJA Amini,,0,0,0,,,,31945231945
+2,Papua New Guinea,1,A Vala,Sompal Kami,CJA Amini,,0,0,0,,,,31945231945
+2,Papua New Guinea,1,A Vala,Sompal Kami,CJA Amini,,0,1,1,,,,31945231945
+2,Papua New Guinea,1,CJA Amini,Sompal Kami,A Vala,,0,4,4,,,,31945231945
+2,Papua New Guinea,1,CJA Amini,Sompal Kami,A Vala,,0,2,2,,,,31945231945
+2,Papua New Guinea,1,CJA Amini,Sompal Kami,A Vala,,0,0,0,,,,31945231945
+2,Papua New Guinea,2,A Vala,Karan KC,CJA Amini,,0,0,0,,,,31945231945
+2,Papua New Guinea,2,A Vala,Karan KC,CJA Amini,,0,0,0,caught,A Vala,Sompal Kami,31945231945
+2,Papua New Guinea,2,TP Ura,Karan KC,CJA Amini,,0,0,0,,,,31945231945
+2,Papua New Guinea,2,TP Ura,Karan KC,CJA Amini,,0,6,6,,,,31945231945
+2,Papua New Guinea,2,TP Ura,Karan KC,CJA Amini,,0,0,0,,,,31945231945
+2,Papua New Guinea,2,TP Ura,Karan KC,CJA Amini,,0,0,0,,,,31945231945
+2,Papua New Guinea,3,CJA Amini,Sompal Kami,TP Ura,,0,2,2,,,,31945231945
+2,Papua New Guinea,3,CJA Amini,Sompal Kami,TP Ura,,0,4,4,,,,31945231945
+2,Papua New Guinea,3,CJA Amini,Sompal Kami,TP Ura,,0,0,0,,,,31945231945
+2,Papua New Guinea,3,CJA Amini,Sompal Kami,TP Ura,,0,1,1,,,,31945231945
+2,Papua New Guinea,3,TP Ura,Sompal Kami,CJA Amini,,0,0,0,,,,31945231945
+2,Papua New Guinea,3,TP Ura,Sompal Kami,CJA Amini,,0,0,0,,,,31945231945
+2,Papua New Guinea,4,CJA Amini,DS Airee,TP Ura,,0,1,1,,,,31945231945
+2,Papua New Guinea,4,TP Ura,DS Airee,CJA Amini,,0,4,4,,,,31945231945
+2,Papua New Guinea,4,TP Ura,DS Airee,CJA Amini,,0,0,0,,,,31945231945
+2,Papua New Guinea,4,TP Ura,DS Airee,CJA Amini,,0,6,6,,,,31945231945
+2,Papua New Guinea,4,TP Ura,DS Airee,CJA Amini,,0,0,0,,,,31945231945
+2,Papua New Guinea,4,TP Ura,DS Airee,CJA Amini,,0,0,0,,,,31945231945
+2,Papua New Guinea,5,CJA Amini,A Bohara,TP Ura,,0,0,0,,,,31945231945
+2,Papua New Guinea,5,CJA Amini,A Bohara,TP Ura,,0,1,1,,,,31945231945
+2,Papua New Guinea,5,TP Ura,A Bohara,CJA Amini,,0,0,0,,,,31945231945
+2,Papua New Guinea,5,TP Ura,A Bohara,CJA Amini,,0,5,5,,,,31945231945
+2,Papua New Guinea,5,CJA Amini,A Bohara,TP Ura,,0,0,0,,,,31945231945
+2,Papua New Guinea,5,CJA Amini,A Bohara,TP Ura,,0,1,1,,,,31945231945
+2,Papua New Guinea,6,CJA Amini,S Lamichhane,TP Ura,,0,2,2,,,,31945231945
+2,Papua New Guinea,6,CJA Amini,S Lamichhane,TP Ura,,0,1,1,,,,31945231945
+2,Papua New Guinea,6,TP Ura,S Lamichhane,CJA Amini,,0,6,6,,,,31945231945
+2,Papua New Guinea,6,TP Ura,S Lamichhane,CJA Amini,,0,1,1,,,,31945231945
+2,Papua New Guinea,6,CJA Amini,S Lamichhane,TP Ura,,0,1,1,,,,31945231945
+2,Papua New Guinea,6,TP Ura,S Lamichhane,CJA Amini,,0,2,2,,,,31945231945
+2,Papua New Guinea,7,CJA Amini,DS Airee,TP Ura,,0,4,4,,,,31945231945
+2,Papua New Guinea,7,CJA Amini,DS Airee,TP Ura,,0,0,0,,,,31945231945
+2,Papua New Guinea,7,CJA Amini,DS Airee,TP Ura,,0,0,0,,,,31945231945
+2,Papua New Guinea,7,CJA Amini,DS Airee,TP Ura,,0,4,4,,,,31945231945
+2,Papua New Guinea,7,CJA Amini,DS Airee,TP Ura,,0,2,2,,,,31945231945
+2,Papua New Guinea,7,CJA Amini,DS Airee,TP Ura,,0,1,1,,,,31945231945
+2,Papua New Guinea,8,CJA Amini,S Lamichhane,TP Ura,,0,4,4,,,,31945231945
+2,Papua New Guinea,8,CJA Amini,S Lamichhane,TP Ura,,0,0,0,,,,31945231945
+2,Papua New Guinea,8,CJA Amini,S Lamichhane,TP Ura,,0,0,0,,,,31945231945
+2,Papua New Guinea,8,CJA Amini,S Lamichhane,TP Ura,,0,0,0,,,,31945231945
+2,Papua New Guinea,8,CJA Amini,S Lamichhane,TP Ura,,0,1,1,,,,31945231945
+2,Papua New Guinea,8,TP Ura,S Lamichhane,CJA Amini,,0,6,6,,,,31945231945
+2,Papua New Guinea,9,CJA Amini,DS Airee,TP Ura,,0,0,0,,,,31945231945
+2,Papua New Guinea,9,CJA Amini,DS Airee,TP Ura,,0,0,0,,,,31945231945
+2,Papua New Guinea,9,CJA Amini,DS Airee,TP Ura,,0,0,0,,,,31945231945
+2,Papua New Guinea,9,CJA Amini,DS Airee,TP Ura,,0,2,2,,,,31945231945
+2,Papua New Guinea,9,CJA Amini,DS Airee,TP Ura,,0,0,0,,,,31945231945
+2,Papua New Guinea,9,CJA Amini,DS Airee,TP Ura,,0,0,0,,,,31945231945
+2,Papua New Guinea,10,TP Ura,A Bohara,CJA Amini,,0,4,4,,,,31945231945
+2,Papua New Guinea,10,TP Ura,A Bohara,CJA Amini,,0,0,0,,,,31945231945
+2,Papua New Guinea,10,TP Ura,A Bohara,CJA Amini,,0,2,2,,,,31945231945
+2,Papua New Guinea,10,TP Ura,A Bohara,CJA Amini,wides,1,1,0,,,,31945231945
+2,Papua New Guinea,10,TP Ura,A Bohara,CJA Amini,,0,1,1,,,,31945231945
+2,Papua New Guinea,10,CJA Amini,A Bohara,TP Ura,,0,4,4,,,,31945231945
+2,Papua New Guinea,10,CJA Amini,A Bohara,TP Ura,,0,4,4,,,,31945231945
+2,Papua New Guinea,11,TP Ura,Sompal Kami,CJA Amini,,0,0,0,caught,TP Ura,K Bhurtel,31945231945
+2,Papua New Guinea,11,CJA Amini,Sompal Kami,S Bau,,0,1,1,,,,31945231945
+2,Papua New Guinea,11,S Bau,Sompal Kami,CJA Amini,,0,1,1,,,,31945231945
+2,Papua New Guinea,11,CJA Amini,Sompal Kami,S Bau,,0,2,2,,,,31945231945
+2,Papua New Guinea,11,CJA Amini,Sompal Kami,S Bau,,0,0,0,,,,31945231945
+2,Papua New Guinea,11,CJA Amini,Sompal Kami,S Bau,,0,1,1,,,,31945231945
+2,Papua New Guinea,12,CJA Amini,S Lamichhane,S Bau,,0,1,1,,,,31945231945
+2,Papua New Guinea,12,S Bau,S Lamichhane,CJA Amini,,0,1,1,,,,31945231945
+2,Papua New Guinea,12,CJA Amini,S Lamichhane,S Bau,,0,2,2,,,,31945231945
+2,Papua New Guinea,12,CJA Amini,S Lamichhane,S Bau,,0,0,0,,,,31945231945
+2,Papua New Guinea,12,CJA Amini,S Lamichhane,S Bau,,0,1,1,,,,31945231945
+2,Papua New Guinea,12,S Bau,S Lamichhane,CJA Amini,,0,2,2,,,,31945231945
+2,Papua New Guinea,13,CJA Amini,Sompal Kami,S Bau,,0,4,4,,,,31945231945
+2,Papua New Guinea,13,CJA Amini,Sompal Kami,S Bau,,0,4,4,,,,31945231945
+2,Papua New Guinea,13,CJA Amini,Sompal Kami,S Bau,,0,0,0,caught,CJA Amini,K Bhurtel,31945231945
+2,Papua New Guinea,13,N Vanua,Sompal Kami,S Bau,,0,1,1,,,,31945231945
+2,Papua New Guinea,13,S Bau,Sompal Kami,N Vanua,noballs,1,1,0,,,,31945231945
+2,Papua New Guinea,13,S Bau,Sompal Kami,N Vanua,,0,4,4,,,,31945231945
+2,Papua New Guinea,13,S Bau,Sompal Kami,N Vanua,,0,1,1,,,,31945231945
+2,Papua New Guinea,14,S Bau,A Bohara,N Vanua,,0,0,0,,,,31945231945
+2,Papua New Guinea,14,S Bau,A Bohara,N Vanua,,0,1,1,,,,31945231945
+2,Papua New Guinea,14,N Vanua,A Bohara,S Bau,wides,1,1,0,,,,31945231945
+2,Papua New Guinea,14,N Vanua,A Bohara,S Bau,,0,1,1,,,,31945231945
+2,Papua New Guinea,14,S Bau,A Bohara,N Vanua,,0,4,4,,,,31945231945
+2,Papua New Guinea,14,S Bau,A Bohara,N Vanua,,0,0,0,,,,31945231945
+2,Papua New Guinea,14,S Bau,A Bohara,N Vanua,,0,1,1,,,,31945231945
+2,Papua New Guinea,15,S Bau,DS Airee,N Vanua,,0,1,1,,,,31945231945
+2,Papua New Guinea,15,N Vanua,DS Airee,S Bau,,0,0,0,,,,31945231945
+2,Papua New Guinea,15,N Vanua,DS Airee,S Bau,,0,1,1,,,,31945231945
+2,Papua New Guinea,15,S Bau,DS Airee,N Vanua,noballs,1,7,6,,,,31945231945
+2,Papua New Guinea,15,S Bau,DS Airee,N Vanua,,0,1,1,,,,31945231945
+2,Papua New Guinea,15,N Vanua,DS Airee,S Bau,,0,0,0,,,,31945231945
+2,Papua New Guinea,15,N Vanua,DS Airee,S Bau,,0,1,1,,,,31945231945
+2,Papua New Guinea,16,N Vanua,Karan KC,S Bau,,0,6,6,,,,31945231945
+2,Papua New Guinea,16,N Vanua,Karan KC,S Bau,,0,1,1,,,,31945231945
+2,Papua New Guinea,16,S Bau,Karan KC,N Vanua,,0,1,1,,,,31945231945
+2,Papua New Guinea,16,N Vanua,Karan KC,S Bau,,0,2,2,,,,31945231945
+2,Papua New Guinea,16,N Vanua,Karan KC,S Bau,,0,0,0,,,,31945231945
+2,Papua New Guinea,16,N Vanua,Karan KC,S Bau,,0,4,4,,,,31945231945
+2,Papua New Guinea,17,S Bau,A Bohara,N Vanua,,0,1,1,,,,31945231945
+2,Papua New Guinea,17,N Vanua,A Bohara,S Bau,,0,0,0,caught,N Vanua,DS Airee,31945231945
+2,Papua New Guinea,17,S Bau,A Bohara,R Hekure,,0,0,0,bowled,S Bau,,31945231945
+2,Papua New Guinea,17,CA Soper,A Bohara,R Hekure,,0,1,1,,,,31945231945
+2,Papua New Guinea,17,R Hekure,A Bohara,CA Soper,,0,0,0,,,,31945231945
+2,Papua New Guinea,17,R Hekure,A Bohara,CA Soper,,0,1,1,,,,31945231945
+2,Papua New Guinea,18,R Hekure,S Lamichhane,CA Soper,,0,1,1,,,,31945231945
+2,Papua New Guinea,18,CA Soper,S Lamichhane,R Hekure,,0,1,1,,,,31945231945
+2,Papua New Guinea,18,R Hekure,S Lamichhane,CA Soper,,0,0,0,,,,31945231945
+2,Papua New Guinea,18,R Hekure,S Lamichhane,CA Soper,,0,2,2,,,,31945231945
+2,Papua New Guinea,18,R Hekure,S Lamichhane,CA Soper,,0,2,2,,,,31945231945
+2,Papua New Guinea,18,R Hekure,S Lamichhane,CA Soper,,0,0,0,caught,R Hekure,Karan KC,31945231945
+2,Papua New Guinea,19,CA Soper,Karan KC,SK Atai,,0,0,0,,,,31945231945
+2,Papua New Guinea,19,CA Soper,Karan KC,SK Atai,,0,0,0,caught,CA Soper,RK Paudel,31945231945
+2,Papua New Guinea,19,SK Atai,Karan KC,KV Morea,,0,0,0,bowled,SK Atai,,31945231945
+2,Papua New Guinea,19,N Pokana,Karan KC,KV Morea,,0,0,0,caught,N Pokana,DS Airee,31945231945

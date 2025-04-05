@@ -1,0 +1,72 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Australia,0,DA Warner,TA Boult,DJM Short,,0,0,0,,,,371123711
+2,Australia,0,DA Warner,TA Boult,DJM Short,,0,0,0,,,,371123711
+2,Australia,0,DA Warner,TA Boult,DJM Short,,0,0,0,,,,371123711
+2,Australia,0,DA Warner,TA Boult,DJM Short,,0,0,0,,,,371123711
+2,Australia,0,DA Warner,TA Boult,DJM Short,,0,1,1,,,,371123711
+2,Australia,0,DJM Short,TA Boult,DA Warner,,0,0,0,,,,371123711
+2,Australia,1,DA Warner,TG Southee,DJM Short,,0,4,4,,,,371123711
+2,Australia,1,DA Warner,TG Southee,DJM Short,,0,1,1,,,,371123711
+2,Australia,1,DJM Short,TG Southee,DA Warner,,0,4,4,,,,371123711
+2,Australia,1,DJM Short,TG Southee,DA Warner,,0,0,0,,,,371123711
+2,Australia,1,DJM Short,TG Southee,DA Warner,,0,0,0,caught,DJM Short,LRPL Taylor,371123711
+2,Australia,1,CA Lynn,TG Southee,DA Warner,,0,0,0,,,,371123711
+2,Australia,2,DA Warner,TA Boult,CA Lynn,,0,0,0,caught,DA Warner,TC Bruce,371123711
+2,Australia,2,CA Lynn,TA Boult,GJ Maxwell,,0,0,0,,,,371123711
+2,Australia,2,CA Lynn,TA Boult,GJ Maxwell,,0,4,4,,,,371123711
+2,Australia,2,CA Lynn,TA Boult,GJ Maxwell,,0,4,4,,,,371123711
+2,Australia,2,CA Lynn,TA Boult,GJ Maxwell,,0,0,0,,,,371123711
+2,Australia,2,CA Lynn,TA Boult,GJ Maxwell,,0,1,1,,,,371123711
+2,Australia,3,CA Lynn,MJ Santner,GJ Maxwell,,0,0,0,,,,371123711
+2,Australia,3,CA Lynn,MJ Santner,GJ Maxwell,,0,0,0,,,,371123711
+2,Australia,3,CA Lynn,MJ Santner,GJ Maxwell,,0,4,4,,,,371123711
+2,Australia,3,CA Lynn,MJ Santner,GJ Maxwell,,0,0,0,,,,371123711
+2,Australia,3,CA Lynn,MJ Santner,GJ Maxwell,,0,0,0,,,,371123711
+2,Australia,3,CA Lynn,MJ Santner,GJ Maxwell,,0,4,4,,,,371123711
+2,Australia,4,GJ Maxwell,TG Southee,CA Lynn,,0,0,0,,,,371123711
+2,Australia,4,GJ Maxwell,TG Southee,CA Lynn,,0,0,0,,,,371123711
+2,Australia,4,GJ Maxwell,TG Southee,CA Lynn,wides,1,1,0,,,,371123711
+2,Australia,4,GJ Maxwell,TG Southee,CA Lynn,,0,2,2,,,,371123711
+2,Australia,4,GJ Maxwell,TG Southee,CA Lynn,,0,2,2,,,,371123711
+2,Australia,4,GJ Maxwell,TG Southee,CA Lynn,,0,0,0,,,,371123711
+2,Australia,4,GJ Maxwell,TG Southee,CA Lynn,,0,4,4,,,,371123711
+2,Australia,5,CA Lynn,IS Sodhi,GJ Maxwell,,0,0,0,,,,371123711
+2,Australia,5,CA Lynn,IS Sodhi,GJ Maxwell,,0,4,4,,,,371123711
+2,Australia,5,CA Lynn,IS Sodhi,GJ Maxwell,,0,0,0,,,,371123711
+2,Australia,5,CA Lynn,IS Sodhi,GJ Maxwell,,0,1,1,,,,371123711
+2,Australia,5,GJ Maxwell,IS Sodhi,CA Lynn,,0,1,1,,,,371123711
+2,Australia,5,CA Lynn,IS Sodhi,GJ Maxwell,,0,1,1,,,,371123711
+2,Australia,6,CA Lynn,C de Grandhomme,GJ Maxwell,,0,1,1,,,,371123711
+2,Australia,6,GJ Maxwell,C de Grandhomme,CA Lynn,,0,6,6,,,,371123711
+2,Australia,6,GJ Maxwell,C de Grandhomme,CA Lynn,,0,1,1,,,,371123711
+2,Australia,6,CA Lynn,C de Grandhomme,GJ Maxwell,,0,1,1,,,,371123711
+2,Australia,6,GJ Maxwell,C de Grandhomme,CA Lynn,,0,1,1,,,,371123711
+2,Australia,6,CA Lynn,C de Grandhomme,GJ Maxwell,,0,1,1,,,,371123711
+2,Australia,7,CA Lynn,IS Sodhi,GJ Maxwell,,0,1,1,,,,371123711
+2,Australia,7,GJ Maxwell,IS Sodhi,CA Lynn,,0,0,0,,,,371123711
+2,Australia,7,GJ Maxwell,IS Sodhi,CA Lynn,,0,0,0,,,,371123711
+2,Australia,7,GJ Maxwell,IS Sodhi,CA Lynn,,0,2,2,,,,371123711
+2,Australia,7,GJ Maxwell,IS Sodhi,CA Lynn,,0,1,1,,,,371123711
+2,Australia,7,CA Lynn,IS Sodhi,GJ Maxwell,,0,1,1,,,,371123711
+2,Australia,8,CA Lynn,MJ Santner,GJ Maxwell,,0,6,6,,,,371123711
+2,Australia,8,CA Lynn,MJ Santner,GJ Maxwell,,0,0,0,,,,371123711
+2,Australia,8,CA Lynn,MJ Santner,GJ Maxwell,,0,0,0,,,,371123711
+2,Australia,8,CA Lynn,MJ Santner,GJ Maxwell,,0,1,1,,,,371123711
+2,Australia,8,GJ Maxwell,MJ Santner,CA Lynn,,0,4,4,,,,371123711
+2,Australia,8,GJ Maxwell,MJ Santner,CA Lynn,,0,1,1,,,,371123711
+2,Australia,9,GJ Maxwell,IS Sodhi,CA Lynn,,0,1,1,,,,371123711
+2,Australia,9,CA Lynn,IS Sodhi,GJ Maxwell,,0,4,4,,,,371123711
+2,Australia,9,CA Lynn,IS Sodhi,GJ Maxwell,,0,1,1,,,,371123711
+2,Australia,9,GJ Maxwell,IS Sodhi,CA Lynn,,0,1,1,,,,371123711
+2,Australia,9,CA Lynn,IS Sodhi,GJ Maxwell,,0,1,1,,,,371123711
+2,Australia,9,GJ Maxwell,IS Sodhi,CA Lynn,,0,4,4,,,,371123711
+2,Australia,10,CA Lynn,TA Boult,GJ Maxwell,,0,0,0,,,,371123711
+2,Australia,10,CA Lynn,TA Boult,GJ Maxwell,,0,1,1,,,,371123711
+2,Australia,10,GJ Maxwell,TA Boult,CA Lynn,,0,0,0,,,,371123711
+2,Australia,10,GJ Maxwell,TA Boult,CA Lynn,,0,1,1,,,,371123711
+2,Australia,10,CA Lynn,TA Boult,GJ Maxwell,,0,2,2,,,,371123711
+2,Australia,10,CA Lynn,TA Boult,GJ Maxwell,,0,0,0,caught,CA Lynn,IS Sodhi,371123711
+2,Australia,11,GJ Maxwell,TG Southee,AT Carey,wides,1,1,0,,,,371123711
+2,Australia,11,GJ Maxwell,TG Southee,AT Carey,,0,4,4,,,,371123711
+2,Australia,11,GJ Maxwell,TG Southee,AT Carey,,0,0,0,,,,371123711
+2,Australia,11,GJ Maxwell,TG Southee,AT Carey,,0,4,4,,,,371123711

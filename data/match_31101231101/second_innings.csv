@@ -1,0 +1,117 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Canada,0,M Patel,L Ramjit,A Perera,,0,0,0,,,,31101231101
+2,Canada,0,M Patel,L Ramjit,A Perera,,0,1,1,,,,31101231101
+2,Canada,0,A Perera,L Ramjit,M Patel,wides,2,2,0,,,,31101231101
+2,Canada,0,M Patel,L Ramjit,A Perera,,0,1,1,,,,31101231101
+2,Canada,0,A Perera,L Ramjit,M Patel,,0,0,0,,,,31101231101
+2,Canada,0,A Perera,L Ramjit,M Patel,,0,0,0,,,,31101231101
+2,Canada,0,A Perera,L Ramjit,M Patel,,0,4,4,,,,31101231101
+2,Canada,1,M Patel,C Beckford,A Perera,,0,0,0,,,,31101231101
+2,Canada,1,M Patel,C Beckford,A Perera,,0,0,0,,,,31101231101
+2,Canada,1,M Patel,C Beckford,A Perera,,0,0,0,,,,31101231101
+2,Canada,1,M Patel,C Beckford,A Perera,,0,0,0,,,,31101231101
+2,Canada,1,M Patel,C Beckford,A Perera,,0,0,0,,,,31101231101
+2,Canada,1,M Patel,C Beckford,A Perera,,0,0,0,,,,31101231101
+2,Canada,2,A Perera,S Farooq,M Patel,,0,0,0,,,,31101231101
+2,Canada,2,A Perera,S Farooq,M Patel,,0,1,1,,,,31101231101
+2,Canada,2,M Patel,S Farooq,A Perera,,0,1,1,,,,31101231101
+2,Canada,2,A Perera,S Farooq,M Patel,,0,1,1,,,,31101231101
+2,Canada,2,M Patel,S Farooq,A Perera,noballs,1,1,0,,,,31101231101
+2,Canada,2,M Patel,S Farooq,A Perera,,0,1,1,,,,31101231101
+2,Canada,2,A Perera,S Farooq,M Patel,,0,1,1,,,,31101231101
+2,Canada,3,A Perera,C Beckford,M Patel,,0,1,1,,,,31101231101
+2,Canada,3,M Patel,C Beckford,A Perera,,0,0,0,lbw,M Patel,,31101231101
+2,Canada,3,M Khokhar,C Beckford,A Perera,,0,0,0,,,,31101231101
+2,Canada,3,M Khokhar,C Beckford,A Perera,,0,0,0,,,,31101231101
+2,Canada,3,M Khokhar,C Beckford,A Perera,,0,0,0,,,,31101231101
+2,Canada,3,M Khokhar,C Beckford,A Perera,,0,0,0,,,,31101231101
+2,Canada,4,A Perera,OT Wallerson,M Khokhar,,0,0,0,run out,M Khokhar,,31101231101
+2,Canada,4,KN Mirchandani,OT Wallerson,A Perera,wides,1,1,0,,,,31101231101
+2,Canada,4,KN Mirchandani,OT Wallerson,A Perera,,0,2,2,,,,31101231101
+2,Canada,4,KN Mirchandani,OT Wallerson,A Perera,,0,0,0,,,,31101231101
+2,Canada,4,KN Mirchandani,OT Wallerson,A Perera,,0,1,1,,,,31101231101
+2,Canada,4,A Perera,OT Wallerson,KN Mirchandani,,0,1,1,,,,31101231101
+2,Canada,4,KN Mirchandani,OT Wallerson,A Perera,,0,1,1,,,,31101231101
+2,Canada,5,KN Mirchandani,L Ramjit,A Perera,,0,1,1,,,,31101231101
+2,Canada,5,A Perera,L Ramjit,KN Mirchandani,,0,1,1,,,,31101231101
+2,Canada,5,KN Mirchandani,L Ramjit,A Perera,,0,0,0,,,,31101231101
+2,Canada,5,KN Mirchandani,L Ramjit,A Perera,,0,0,0,,,,31101231101
+2,Canada,5,KN Mirchandani,L Ramjit,A Perera,,0,2,2,,,,31101231101
+2,Canada,5,KN Mirchandani,L Ramjit,A Perera,,0,0,0,,,,31101231101
+2,Canada,6,A Perera,S Ramautar,KN Mirchandani,,0,0,0,,,,31101231101
+2,Canada,6,A Perera,S Ramautar,KN Mirchandani,,0,1,1,,,,31101231101
+2,Canada,6,KN Mirchandani,S Ramautar,A Perera,,0,4,4,,,,31101231101
+2,Canada,6,KN Mirchandani,S Ramautar,A Perera,,0,0,0,,,,31101231101
+2,Canada,6,KN Mirchandani,S Ramautar,A Perera,,0,1,1,,,,31101231101
+2,Canada,6,A Perera,S Ramautar,KN Mirchandani,,0,1,1,,,,31101231101
+2,Canada,7,A Perera,U Iftikhar,KN Mirchandani,,0,0,0,,,,31101231101
+2,Canada,7,A Perera,U Iftikhar,KN Mirchandani,,0,0,0,caught,A Perera,OT Wallerson,31101231101
+2,Canada,7,Saniyah Zia,U Iftikhar,KN Mirchandani,wides,1,1,0,,,,31101231101
+2,Canada,7,Saniyah Zia,U Iftikhar,KN Mirchandani,,0,0,0,,,,31101231101
+2,Canada,7,Saniyah Zia,U Iftikhar,KN Mirchandani,,0,0,0,,,,31101231101
+2,Canada,7,Saniyah Zia,U Iftikhar,KN Mirchandani,,0,1,1,,,,31101231101
+2,Canada,7,KN Mirchandani,U Iftikhar,Saniyah Zia,,0,0,0,bowled,KN Mirchandani,,31101231101
+2,Canada,8,Saniyah Zia,S Ramautar,Mahewish Khan,,0,0,0,,,,31101231101
+2,Canada,8,Saniyah Zia,S Ramautar,Mahewish Khan,,0,1,1,,,,31101231101
+2,Canada,8,Mahewish Khan,S Ramautar,Saniyah Zia,,0,0,0,,,,31101231101
+2,Canada,8,Mahewish Khan,S Ramautar,Saniyah Zia,,0,1,1,,,,31101231101
+2,Canada,8,Saniyah Zia,S Ramautar,Mahewish Khan,,0,0,0,,,,31101231101
+2,Canada,8,Saniyah Zia,S Ramautar,Mahewish Khan,,0,0,0,,,,31101231101
+2,Canada,9,Mahewish Khan,U Iftikhar,Saniyah Zia,,0,2,2,,,,31101231101
+2,Canada,9,Mahewish Khan,U Iftikhar,Saniyah Zia,,0,0,0,,,,31101231101
+2,Canada,9,Mahewish Khan,U Iftikhar,Saniyah Zia,noballs,1,5,4,,,,31101231101
+2,Canada,9,Mahewish Khan,U Iftikhar,Saniyah Zia,,0,1,1,,,,31101231101
+2,Canada,9,Saniyah Zia,U Iftikhar,Mahewish Khan,,0,4,4,,,,31101231101
+2,Canada,9,Saniyah Zia,U Iftikhar,Mahewish Khan,,0,1,1,,,,31101231101
+2,Canada,9,Mahewish Khan,U Iftikhar,Saniyah Zia,,0,0,0,,,,31101231101
+2,Canada,10,Saniyah Zia,OT Wallerson,Mahewish Khan,,0,0,0,,,,31101231101
+2,Canada,10,Saniyah Zia,OT Wallerson,Mahewish Khan,,0,0,0,,,,31101231101
+2,Canada,10,Saniyah Zia,OT Wallerson,Mahewish Khan,,0,0,0,run out,Mahewish Khan,,31101231101
+2,Canada,10,C Martin,OT Wallerson,Saniyah Zia,,0,0,0,,,,31101231101
+2,Canada,10,C Martin,OT Wallerson,Saniyah Zia,,0,4,4,,,,31101231101
+2,Canada,10,C Martin,OT Wallerson,Saniyah Zia,,0,0,0,,,,31101231101
+2,Canada,11,Saniyah Zia,C Beckford,C Martin,,0,0,0,,,,31101231101
+2,Canada,11,Saniyah Zia,C Beckford,C Martin,,0,0,0,,,,31101231101
+2,Canada,11,Saniyah Zia,C Beckford,C Martin,,0,0,0,lbw,Saniyah Zia,,31101231101
+2,Canada,11,Hala Azmat,C Beckford,C Martin,,0,0,0,,,,31101231101
+2,Canada,11,Hala Azmat,C Beckford,C Martin,,0,0,0,,,,31101231101
+2,Canada,11,Hala Azmat,C Beckford,C Martin,,0,0,0,,,,31101231101
+2,Canada,12,C Martin,S Ramautar,Hala Azmat,,0,2,2,,,,31101231101
+2,Canada,12,C Martin,S Ramautar,Hala Azmat,,0,2,2,,,,31101231101
+2,Canada,12,C Martin,S Ramautar,Hala Azmat,,0,1,1,,,,31101231101
+2,Canada,12,Hala Azmat,S Ramautar,C Martin,,0,0,0,,,,31101231101
+2,Canada,12,Hala Azmat,S Ramautar,C Martin,legbyes,1,1,0,,,,31101231101
+2,Canada,12,C Martin,S Ramautar,Hala Azmat,,0,1,1,,,,31101231101
+2,Canada,13,C Martin,U Iftikhar,Hala Azmat,,0,2,2,,,,31101231101
+2,Canada,13,C Martin,U Iftikhar,Hala Azmat,,0,0,0,,,,31101231101
+2,Canada,13,C Martin,U Iftikhar,Hala Azmat,,0,1,1,,,,31101231101
+2,Canada,13,Hala Azmat,U Iftikhar,C Martin,,0,0,0,,,,31101231101
+2,Canada,13,Hala Azmat,U Iftikhar,C Martin,,0,0,0,,,,31101231101
+2,Canada,13,Hala Azmat,U Iftikhar,C Martin,,0,0,0,,,,31101231101
+2,Canada,14,C Martin,S Ramautar,Hala Azmat,,0,0,0,,,,31101231101
+2,Canada,14,C Martin,S Ramautar,Hala Azmat,,0,2,2,,,,31101231101
+2,Canada,14,C Martin,S Ramautar,Hala Azmat,,0,4,4,,,,31101231101
+2,Canada,14,C Martin,S Ramautar,Hala Azmat,,0,0,0,,,,31101231101
+2,Canada,14,C Martin,S Ramautar,Hala Azmat,,0,0,0,,,,31101231101
+2,Canada,14,C Martin,S Ramautar,Hala Azmat,,0,1,1,,,,31101231101
+2,Canada,15,C Martin,U Iftikhar,Hala Azmat,,0,0,0,caught,C Martin,S Bhaskar,31101231101
+2,Canada,15,Hala Azmat,U Iftikhar,Hiba Shamshad,,0,0,0,,,,31101231101
+2,Canada,15,Hala Azmat,U Iftikhar,Hiba Shamshad,,0,1,1,,,,31101231101
+2,Canada,15,Hiba Shamshad,U Iftikhar,Hala Azmat,,0,0,0,,,,31101231101
+2,Canada,15,Hiba Shamshad,U Iftikhar,Hala Azmat,,0,0,0,,,,31101231101
+2,Canada,15,Hiba Shamshad,U Iftikhar,Hala Azmat,,0,0,0,bowled,Hiba Shamshad,,31101231101
+2,Canada,16,Hala Azmat,OT Wallerson,Kainat Qazi,,0,0,0,,,,31101231101
+2,Canada,16,Hala Azmat,OT Wallerson,Kainat Qazi,wides,2,2,0,,,,31101231101
+2,Canada,16,Kainat Qazi,OT Wallerson,Hala Azmat,,0,0,0,,,,31101231101
+2,Canada,16,Kainat Qazi,OT Wallerson,Hala Azmat,,0,1,1,,,,31101231101
+2,Canada,16,Hala Azmat,OT Wallerson,Kainat Qazi,,0,0,0,,,,31101231101
+2,Canada,16,Hala Azmat,OT Wallerson,Kainat Qazi,,0,0,0,,,,31101231101
+2,Canada,16,Hala Azmat,OT Wallerson,Kainat Qazi,,0,0,0,,,,31101231101
+2,Canada,17,Kainat Qazi,L Ramjit,Hala Azmat,,0,0,0,,,,31101231101
+2,Canada,17,Kainat Qazi,L Ramjit,Hala Azmat,,0,0,0,,,,31101231101
+2,Canada,17,Kainat Qazi,L Ramjit,Hala Azmat,,0,1,1,,,,31101231101
+2,Canada,17,Hala Azmat,L Ramjit,Kainat Qazi,,0,0,0,,,,31101231101
+2,Canada,17,Hala Azmat,L Ramjit,Kainat Qazi,,0,1,1,,,,31101231101
+2,Canada,17,Kainat Qazi,L Ramjit,Hala Azmat,,0,0,0,run out,Hala Azmat,,31101231101
+2,Canada,18,Maliha Baig,OT Wallerson,Kainat Qazi,,0,0,0,,,,31101231101
+2,Canada,18,Maliha Baig,OT Wallerson,Kainat Qazi,,0,0,0,run out,Kainat Qazi,,31101231101

@@ -1,0 +1,129 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Nigeria,0,K Abdulquadri,I van Zyl,A Igbobie,,0,0,0,,,,31543231543
+1,Nigeria,0,K Abdulquadri,I van Zyl,A Igbobie,wides,2,2,0,,,,31543231543
+1,Nigeria,0,A Igbobie,I van Zyl,K Abdulquadri,,0,0,0,,,,31543231543
+1,Nigeria,0,A Igbobie,I van Zyl,K Abdulquadri,wides,2,2,0,,,,31543231543
+1,Nigeria,0,K Abdulquadri,I van Zyl,A Igbobie,,0,0,0,,,,31543231543
+1,Nigeria,0,K Abdulquadri,I van Zyl,A Igbobie,,0,0,0,,,,31543231543
+1,Nigeria,0,K Abdulquadri,I van Zyl,A Igbobie,,0,0,0,,,,31543231543
+1,Nigeria,0,K Abdulquadri,I van Zyl,A Igbobie,,0,0,0,,,,31543231543
+1,Nigeria,1,A Igbobie,KA Green,K Abdulquadri,,0,0,0,,,,31543231543
+1,Nigeria,1,A Igbobie,KA Green,K Abdulquadri,,0,0,0,,,,31543231543
+1,Nigeria,1,A Igbobie,KA Green,K Abdulquadri,,0,0,0,,,,31543231543
+1,Nigeria,1,A Igbobie,KA Green,K Abdulquadri,,0,0,0,,,,31543231543
+1,Nigeria,1,A Igbobie,KA Green,K Abdulquadri,,0,0,0,,,,31543231543
+1,Nigeria,1,A Igbobie,KA Green,K Abdulquadri,,0,0,0,,,,31543231543
+1,Nigeria,2,K Abdulquadri,I van Zyl,A Igbobie,,0,0,0,,,,31543231543
+1,Nigeria,2,K Abdulquadri,I van Zyl,A Igbobie,legbyes,1,1,0,,,,31543231543
+1,Nigeria,2,A Igbobie,I van Zyl,K Abdulquadri,,0,1,1,,,,31543231543
+1,Nigeria,2,K Abdulquadri,I van Zyl,A Igbobie,wides,1,1,0,,,,31543231543
+1,Nigeria,2,K Abdulquadri,I van Zyl,A Igbobie,,0,0,0,,,,31543231543
+1,Nigeria,2,K Abdulquadri,I van Zyl,A Igbobie,,0,0,0,,,,31543231543
+1,Nigeria,2,K Abdulquadri,I van Zyl,A Igbobie,,0,0,0,,,,31543231543
+1,Nigeria,3,A Igbobie,KA Green,K Abdulquadri,,0,0,0,,,,31543231543
+1,Nigeria,3,A Igbobie,KA Green,K Abdulquadri,,0,0,0,,,,31543231543
+1,Nigeria,3,A Igbobie,KA Green,K Abdulquadri,,0,0,0,,,,31543231543
+1,Nigeria,3,A Igbobie,KA Green,K Abdulquadri,,0,1,1,,,,31543231543
+1,Nigeria,3,K Abdulquadri,KA Green,A Igbobie,,0,0,0,,,,31543231543
+1,Nigeria,3,K Abdulquadri,KA Green,A Igbobie,,0,0,0,,,,31543231543
+1,Nigeria,4,A Igbobie,SN Shihepo,K Abdulquadri,byes,2,2,0,,,,31543231543
+1,Nigeria,4,A Igbobie,SN Shihepo,K Abdulquadri,,0,0,0,,,,31543231543
+1,Nigeria,4,A Igbobie,SN Shihepo,K Abdulquadri,,0,0,0,,,,31543231543
+1,Nigeria,4,A Igbobie,SN Shihepo,K Abdulquadri,,0,1,1,,,,31543231543
+1,Nigeria,4,K Abdulquadri,SN Shihepo,A Igbobie,,0,0,0,,,,31543231543
+1,Nigeria,4,K Abdulquadri,SN Shihepo,A Igbobie,,0,0,0,run out,K Abdulquadri,D Foerster,31543231543
+1,Nigeria,5,F Eseigbe,KA Green,A Igbobie,,0,0,0,,,,31543231543
+1,Nigeria,5,F Eseigbe,KA Green,A Igbobie,,0,0,0,,,,31543231543
+1,Nigeria,5,F Eseigbe,KA Green,A Igbobie,,0,0,0,,,,31543231543
+1,Nigeria,5,F Eseigbe,KA Green,A Igbobie,,0,0,0,,,,31543231543
+1,Nigeria,5,F Eseigbe,KA Green,A Igbobie,,0,0,0,,,,31543231543
+1,Nigeria,5,F Eseigbe,KA Green,A Igbobie,,0,0,0,,,,31543231543
+1,Nigeria,6,A Igbobie,SN Shihepo,F Eseigbe,,0,0,0,lbw,A Igbobie,,31543231543
+1,Nigeria,6,B Etim,SN Shihepo,F Eseigbe,,0,0,0,,,,31543231543
+1,Nigeria,6,B Etim,SN Shihepo,F Eseigbe,noballs,1,1,0,,,,31543231543
+1,Nigeria,6,B Etim,SN Shihepo,F Eseigbe,,0,1,1,,,,31543231543
+1,Nigeria,6,F Eseigbe,SN Shihepo,B Etim,,0,0,0,lbw,F Eseigbe,,31543231543
+1,Nigeria,6,S Sunday,SN Shihepo,B Etim,,0,0,0,,,,31543231543
+1,Nigeria,6,S Sunday,SN Shihepo,B Etim,legbyes,4,4,0,,,,31543231543
+1,Nigeria,7,B Etim,KA Green,S Sunday,,0,0,0,,,,31543231543
+1,Nigeria,7,B Etim,KA Green,S Sunday,,0,0,0,,,,31543231543
+1,Nigeria,7,B Etim,KA Green,S Sunday,,0,1,1,,,,31543231543
+1,Nigeria,7,S Sunday,KA Green,B Etim,,0,0,0,,,,31543231543
+1,Nigeria,7,S Sunday,KA Green,B Etim,,0,4,4,,,,31543231543
+1,Nigeria,7,S Sunday,KA Green,B Etim,wides,1,1,0,,,,31543231543
+1,Nigeria,7,S Sunday,KA Green,B Etim,legbyes,1,1,0,,,,31543231543
+1,Nigeria,8,S Sunday,W Mwatile,B Etim,,0,0,0,,,,31543231543
+1,Nigeria,8,S Sunday,W Mwatile,B Etim,,0,1,1,,,,31543231543
+1,Nigeria,8,B Etim,W Mwatile,S Sunday,,0,1,1,,,,31543231543
+1,Nigeria,8,S Sunday,W Mwatile,B Etim,,0,0,0,,,,31543231543
+1,Nigeria,8,S Sunday,W Mwatile,B Etim,,0,0,0,,,,31543231543
+1,Nigeria,8,S Sunday,W Mwatile,B Etim,,0,0,0,,,,31543231543
+1,Nigeria,9,B Etim,V Hamunyela,S Sunday,,0,0,0,caught,B Etim,W Mwatile,31543231543
+1,Nigeria,9,O Asika,V Hamunyela,S Sunday,,0,0,0,,,,31543231543
+1,Nigeria,9,O Asika,V Hamunyela,S Sunday,,0,1,1,,,,31543231543
+1,Nigeria,9,S Sunday,V Hamunyela,O Asika,,0,0,0,,,,31543231543
+1,Nigeria,9,S Sunday,V Hamunyela,O Asika,,0,0,0,,,,31543231543
+1,Nigeria,9,S Sunday,V Hamunyela,O Asika,,0,0,0,,,,31543231543
+1,Nigeria,10,O Asika,W Mwatile,S Sunday,,0,0,0,,,,31543231543
+1,Nigeria,10,O Asika,W Mwatile,S Sunday,,0,0,0,,,,31543231543
+1,Nigeria,10,O Asika,W Mwatile,S Sunday,,0,1,1,,,,31543231543
+1,Nigeria,10,S Sunday,W Mwatile,O Asika,,0,1,1,,,,31543231543
+1,Nigeria,10,O Asika,W Mwatile,S Sunday,,0,0,0,,,,31543231543
+1,Nigeria,10,O Asika,W Mwatile,S Sunday,,0,1,1,,,,31543231543
+1,Nigeria,11,O Asika,V Hamunyela,S Sunday,,0,0,0,,,,31543231543
+1,Nigeria,11,O Asika,V Hamunyela,S Sunday,,0,0,0,bowled,O Asika,,31543231543
+1,Nigeria,11,S Agazuma,V Hamunyela,S Sunday,,0,0,0,,,,31543231543
+1,Nigeria,11,S Agazuma,V Hamunyela,S Sunday,,0,0,0,,,,31543231543
+1,Nigeria,11,S Agazuma,V Hamunyela,S Sunday,,0,1,1,,,,31543231543
+1,Nigeria,11,S Sunday,V Hamunyela,S Agazuma,,0,0,0,,,,31543231543
+1,Nigeria,12,S Agazuma,SN Shihepo,S Sunday,,0,0,0,,,,31543231543
+1,Nigeria,12,S Agazuma,SN Shihepo,S Sunday,,0,0,0,,,,31543231543
+1,Nigeria,12,S Agazuma,SN Shihepo,S Sunday,,0,2,2,,,,31543231543
+1,Nigeria,12,S Agazuma,SN Shihepo,S Sunday,,0,0,0,,,,31543231543
+1,Nigeria,12,S Agazuma,SN Shihepo,S Sunday,,0,1,1,,,,31543231543
+1,Nigeria,12,S Sunday,SN Shihepo,S Agazuma,,0,0,0,bowled,S Sunday,,31543231543
+1,Nigeria,13,S Agazuma,V Hamunyela,A Obulor,,0,1,1,,,,31543231543
+1,Nigeria,13,A Obulor,V Hamunyela,S Agazuma,,0,0,0,,,,31543231543
+1,Nigeria,13,A Obulor,V Hamunyela,S Agazuma,,0,1,1,,,,31543231543
+1,Nigeria,13,S Agazuma,V Hamunyela,A Obulor,,0,2,2,,,,31543231543
+1,Nigeria,13,S Agazuma,V Hamunyela,A Obulor,,0,0,0,caught,S Agazuma,KA Green,31543231543
+1,Nigeria,13,J Efosa,V Hamunyela,A Obulor,,0,1,1,,,,31543231543
+1,Nigeria,14,J Efosa,SN Shihepo,A Obulor,,0,0,0,,,,31543231543
+1,Nigeria,14,J Efosa,SN Shihepo,A Obulor,,0,0,0,,,,31543231543
+1,Nigeria,14,J Efosa,SN Shihepo,A Obulor,byes,1,1,0,,,,31543231543
+1,Nigeria,14,A Obulor,SN Shihepo,J Efosa,,0,0,0,,,,31543231543
+1,Nigeria,14,A Obulor,SN Shihepo,J Efosa,,0,1,1,,,,31543231543
+1,Nigeria,14,J Efosa,SN Shihepo,A Obulor,,0,0,0,,,,31543231543
+1,Nigeria,15,A Obulor,V Hamunyela,J Efosa,,0,0,0,,,,31543231543
+1,Nigeria,15,A Obulor,V Hamunyela,J Efosa,,0,0,0,caught,A Obulor,KA Green,31543231543
+1,Nigeria,15,J Efosa,V Hamunyela,M Desmond,,0,0,0,,,,31543231543
+1,Nigeria,15,J Efosa,V Hamunyela,M Desmond,,0,0,0,,,,31543231543
+1,Nigeria,15,J Efosa,V Hamunyela,M Desmond,,0,0,0,,,,31543231543
+1,Nigeria,15,J Efosa,V Hamunyela,M Desmond,,0,1,1,,,,31543231543
+1,Nigeria,16,J Efosa,I van Zyl,M Desmond,,0,0,0,,,,31543231543
+1,Nigeria,16,J Efosa,I van Zyl,M Desmond,,0,1,1,,,,31543231543
+1,Nigeria,16,M Desmond,I van Zyl,J Efosa,,0,0,0,,,,31543231543
+1,Nigeria,16,M Desmond,I van Zyl,J Efosa,,0,0,0,,,,31543231543
+1,Nigeria,16,M Desmond,I van Zyl,J Efosa,,0,0,0,,,,31543231543
+1,Nigeria,16,M Desmond,I van Zyl,J Efosa,,0,1,1,,,,31543231543
+1,Nigeria,17,M Desmond,D Foerster,J Efosa,,0,0,0,,,,31543231543
+1,Nigeria,17,M Desmond,D Foerster,J Efosa,,0,1,1,,,,31543231543
+1,Nigeria,17,J Efosa,D Foerster,M Desmond,,0,0,0,,,,31543231543
+1,Nigeria,17,J Efosa,D Foerster,M Desmond,,0,1,1,,,,31543231543
+1,Nigeria,17,M Desmond,D Foerster,J Efosa,,0,0,0,,,,31543231543
+1,Nigeria,17,M Desmond,D Foerster,J Efosa,,0,0,0,,,,31543231543
+1,Nigeria,18,J Efosa,I van Zyl,M Desmond,,0,0,0,,,,31543231543
+1,Nigeria,18,J Efosa,I van Zyl,M Desmond,,0,0,0,,,,31543231543
+1,Nigeria,18,J Efosa,I van Zyl,M Desmond,,0,1,1,,,,31543231543
+1,Nigeria,18,M Desmond,I van Zyl,J Efosa,,0,0,0,,,,31543231543
+1,Nigeria,18,M Desmond,I van Zyl,J Efosa,,0,0,0,,,,31543231543
+1,Nigeria,18,M Desmond,I van Zyl,J Efosa,wides,1,1,0,,,,31543231543
+1,Nigeria,18,M Desmond,I van Zyl,J Efosa,,0,0,0,,,,31543231543
+1,Nigeria,19,J Efosa,D Foerster,M Desmond,,0,0,0,,,,31543231543
+1,Nigeria,19,J Efosa,D Foerster,M Desmond,,0,0,0,,,,31543231543
+1,Nigeria,19,J Efosa,D Foerster,M Desmond,wides,1,1,0,,,,31543231543
+1,Nigeria,19,J Efosa,D Foerster,M Desmond,,0,0,0,,,,31543231543
+1,Nigeria,19,J Efosa,D Foerster,M Desmond,,0,0,0,,,,31543231543
+1,Nigeria,19,J Efosa,D Foerster,M Desmond,,0,2,2,,,,31543231543
+1,Nigeria,19,J Efosa,D Foerster,M Desmond,wides,1,1,0,,,,31543231543
+1,Nigeria,19,J Efosa,D Foerster,M Desmond,,0,0,0,,,,31543231543

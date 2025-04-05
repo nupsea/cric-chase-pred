@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,GC Smith,B Lee,LE Bosman,,0,0,0,,,,38238
+1,South Africa,0,GC Smith,B Lee,LE Bosman,,0,0,0,,,,38238
+1,South Africa,0,GC Smith,B Lee,LE Bosman,,0,1,1,,,,38238
+1,South Africa,0,LE Bosman,B Lee,GC Smith,byes,4,4,0,,,,38238
+1,South Africa,0,LE Bosman,B Lee,GC Smith,,0,0,0,,,,38238
+1,South Africa,0,LE Bosman,B Lee,GC Smith,,0,1,1,,,,38238
+1,South Africa,1,LE Bosman,NW Bracken,GC Smith,,0,4,4,,,,38238
+1,South Africa,1,LE Bosman,NW Bracken,GC Smith,legbyes,1,1,0,,,,38238
+1,South Africa,1,GC Smith,NW Bracken,LE Bosman,wides,1,1,0,,,,38238
+1,South Africa,1,GC Smith,NW Bracken,LE Bosman,,0,2,2,,,,38238
+1,South Africa,1,GC Smith,NW Bracken,LE Bosman,,0,0,0,,,,38238
+1,South Africa,1,GC Smith,NW Bracken,LE Bosman,,0,1,1,,,,38238
+1,South Africa,1,LE Bosman,NW Bracken,GC Smith,,0,0,0,,,,38238
+1,South Africa,2,GC Smith,B Lee,LE Bosman,,0,1,1,,,,38238
+1,South Africa,2,LE Bosman,B Lee,GC Smith,legbyes,1,1,0,,,,38238
+1,South Africa,2,GC Smith,B Lee,LE Bosman,,0,1,1,,,,38238
+1,South Africa,2,LE Bosman,B Lee,GC Smith,,0,1,1,,,,38238
+1,South Africa,2,GC Smith,B Lee,LE Bosman,,0,0,0,,,,38238
+1,South Africa,2,GC Smith,B Lee,LE Bosman,,0,1,1,,,,38238
+1,South Africa,3,GC Smith,NW Bracken,LE Bosman,,0,2,2,,,,38238
+1,South Africa,3,GC Smith,NW Bracken,LE Bosman,wides,1,1,0,,,,38238
+1,South Africa,3,GC Smith,NW Bracken,LE Bosman,,0,4,4,,,,38238
+1,South Africa,3,GC Smith,NW Bracken,LE Bosman,,0,0,0,,,,38238
+1,South Africa,3,GC Smith,NW Bracken,LE Bosman,,0,0,0,,,,38238
+1,South Africa,3,GC Smith,NW Bracken,LE Bosman,,0,4,4,,,,38238
+1,South Africa,3,GC Smith,NW Bracken,LE Bosman,,0,0,0,,,,38238
+1,South Africa,4,LE Bosman,B Lee,GC Smith,,0,4,4,,,,38238
+1,South Africa,4,LE Bosman,B Lee,GC Smith,,0,0,0,,,,38238
+1,South Africa,4,LE Bosman,B Lee,GC Smith,,0,4,4,,,,38238
+1,South Africa,4,LE Bosman,B Lee,GC Smith,,0,0,0,,,,38238
+1,South Africa,4,LE Bosman,B Lee,GC Smith,,0,0,0,,,,38238
+1,South Africa,4,LE Bosman,B Lee,GC Smith,,0,1,1,,,,38238
+1,South Africa,5,LE Bosman,ML Lewis,GC Smith,,0,2,2,,,,38238
+1,South Africa,5,LE Bosman,ML Lewis,GC Smith,,0,6,6,,,,38238
+1,South Africa,5,LE Bosman,ML Lewis,GC Smith,,0,0,0,,,,38238
+1,South Africa,5,LE Bosman,ML Lewis,GC Smith,,0,0,0,bowled,LE Bosman,,38238
+1,South Africa,5,HH Gibbs,ML Lewis,GC Smith,,0,0,0,,,,38238
+1,South Africa,5,HH Gibbs,ML Lewis,GC Smith,,0,0,0,,,,38238
+1,South Africa,6,GC Smith,SR Clark,HH Gibbs,,0,2,2,,,,38238
+1,South Africa,6,GC Smith,SR Clark,HH Gibbs,legbyes,1,1,0,,,,38238
+1,South Africa,6,HH Gibbs,SR Clark,GC Smith,,0,4,4,,,,38238
+1,South Africa,6,HH Gibbs,SR Clark,GC Smith,,0,4,4,,,,38238
+1,South Africa,6,HH Gibbs,SR Clark,GC Smith,,0,0,0,,,,38238
+1,South Africa,6,HH Gibbs,SR Clark,GC Smith,,0,0,0,,,,38238
+1,South Africa,7,GC Smith,ML Lewis,HH Gibbs,,0,0,0,,,,38238
+1,South Africa,7,GC Smith,ML Lewis,HH Gibbs,,0,2,2,,,,38238
+1,South Africa,7,GC Smith,ML Lewis,HH Gibbs,,0,1,1,,,,38238
+1,South Africa,7,HH Gibbs,ML Lewis,GC Smith,,0,1,1,,,,38238
+1,South Africa,7,GC Smith,ML Lewis,HH Gibbs,legbyes,1,1,0,,,,38238
+1,South Africa,7,HH Gibbs,ML Lewis,GC Smith,,0,1,1,,,,38238
+1,South Africa,8,HH Gibbs,SR Clark,GC Smith,,0,2,2,,,,38238
+1,South Africa,8,HH Gibbs,SR Clark,GC Smith,,0,0,0,,,,38238
+1,South Africa,8,HH Gibbs,SR Clark,GC Smith,,0,0,0,,,,38238
+1,South Africa,8,HH Gibbs,SR Clark,GC Smith,,0,0,0,,,,38238
+1,South Africa,8,HH Gibbs,SR Clark,GC Smith,,0,0,0,,,,38238
+1,South Africa,8,HH Gibbs,SR Clark,GC Smith,,0,2,2,,,,38238
+1,South Africa,9,GC Smith,SR Watson,HH Gibbs,,0,4,4,,,,38238
+1,South Africa,9,GC Smith,SR Watson,HH Gibbs,,0,1,1,,,,38238
+1,South Africa,9,HH Gibbs,SR Watson,GC Smith,legbyes,1,1,0,,,,38238
+1,South Africa,9,GC Smith,SR Watson,HH Gibbs,,0,6,6,,,,38238
+1,South Africa,9,GC Smith,SR Watson,HH Gibbs,wides,1,1,0,,,,38238
+1,South Africa,9,GC Smith,SR Watson,HH Gibbs,,0,1,1,,,,38238
+1,South Africa,9,HH Gibbs,SR Watson,GC Smith,,0,0,0,,,,38238
+1,South Africa,10,GC Smith,SR Clark,HH Gibbs,,0,4,4,,,,38238
+1,South Africa,10,GC Smith,SR Clark,HH Gibbs,,0,1,1,,,,38238
+1,South Africa,10,HH Gibbs,SR Clark,GC Smith,,0,1,1,,,,38238
+1,South Africa,10,GC Smith,SR Clark,HH Gibbs,,0,0,0,,,,38238
+1,South Africa,10,GC Smith,SR Clark,HH Gibbs,,0,0,0,,,,38238
+1,South Africa,10,GC Smith,SR Clark,HH Gibbs,,0,1,1,,,,38238
+1,South Africa,11,GC Smith,SR Watson,HH Gibbs,,0,2,2,,,,38238
+1,South Africa,11,GC Smith,SR Watson,HH Gibbs,,0,1,1,,,,38238
+1,South Africa,11,HH Gibbs,SR Watson,GC Smith,,0,6,6,,,,38238
+1,South Africa,11,HH Gibbs,SR Watson,GC Smith,,0,1,1,,,,38238
+1,South Africa,11,GC Smith,SR Watson,HH Gibbs,,0,4,4,,,,38238
+1,South Africa,11,GC Smith,SR Watson,HH Gibbs,,0,1,1,,,,38238
+1,South Africa,12,GC Smith,SR Clark,HH Gibbs,,0,1,1,,,,38238
+1,South Africa,12,HH Gibbs,SR Clark,GC Smith,,0,1,1,,,,38238
+1,South Africa,12,GC Smith,SR Clark,HH Gibbs,,0,1,1,,,,38238
+1,South Africa,12,HH Gibbs,SR Clark,GC Smith,byes,3,3,0,,,,38238
+1,South Africa,12,GC Smith,SR Clark,HH Gibbs,,0,0,0,,,,38238
+1,South Africa,12,GC Smith,SR Clark,HH Gibbs,,0,1,1,,,,38238
+1,South Africa,13,GC Smith,GB Hogg,HH Gibbs,,0,1,1,,,,38238
+1,South Africa,13,HH Gibbs,GB Hogg,GC Smith,wides,1,1,0,,,,38238
+1,South Africa,13,HH Gibbs,GB Hogg,GC Smith,,0,6,6,,,,38238
+1,South Africa,13,HH Gibbs,GB Hogg,GC Smith,,0,1,1,,,,38238
+1,South Africa,13,GC Smith,GB Hogg,HH Gibbs,,0,1,1,,,,38238
+1,South Africa,13,HH Gibbs,GB Hogg,GC Smith,,0,4,4,,,,38238
+1,South Africa,13,HH Gibbs,GB Hogg,GC Smith,,0,1,1,,,,38238
+1,South Africa,14,HH Gibbs,NW Bracken,GC Smith,,0,1,1,,,,38238
+1,South Africa,14,GC Smith,NW Bracken,HH Gibbs,,0,1,1,,,,38238
+1,South Africa,14,HH Gibbs,NW Bracken,GC Smith,legbyes,1,1,0,,,,38238
+1,South Africa,14,GC Smith,NW Bracken,HH Gibbs,,0,4,4,,,,38238
+1,South Africa,14,GC Smith,NW Bracken,HH Gibbs,,0,1,1,,,,38238
+1,South Africa,14,HH Gibbs,NW Bracken,GC Smith,,0,1,1,,,,38238
+1,South Africa,15,HH Gibbs,GB Hogg,GC Smith,,0,4,4,,,,38238
+1,South Africa,15,HH Gibbs,GB Hogg,GC Smith,,0,2,2,,,,38238
+1,South Africa,15,HH Gibbs,GB Hogg,GC Smith,,0,6,6,,,,38238
+1,South Africa,15,HH Gibbs,GB Hogg,GC Smith,,0,6,6,,,,38238
+1,South Africa,15,HH Gibbs,GB Hogg,GC Smith,,0,1,1,,,,38238
+1,South Africa,15,GC Smith,GB Hogg,HH Gibbs,,0,4,4,,,,38238
+1,South Africa,16,HH Gibbs,ML Lewis,GC Smith,,0,0,0,lbw,HH Gibbs,,38238
+1,South Africa,16,SM Pollock,ML Lewis,GC Smith,,0,1,1,,,,38238
+1,South Africa,16,GC Smith,ML Lewis,SM Pollock,,0,1,1,,,,38238
+1,South Africa,16,SM Pollock,ML Lewis,GC Smith,,0,1,1,,,,38238
+1,South Africa,16,GC Smith,ML Lewis,SM Pollock,,0,4,4,,,,38238
+1,South Africa,16,GC Smith,ML Lewis,SM Pollock,,0,4,4,,,,38238
+1,South Africa,17,SM Pollock,SR Watson,GC Smith,,0,0,0,caught,SM Pollock,SR Clark,38238
+1,South Africa,17,GC Smith,SR Watson,JJ van der Wath,,0,0,0,,,,38238
+1,South Africa,17,GC Smith,SR Watson,JJ van der Wath,,0,1,1,,,,38238
+1,South Africa,17,JJ van der Wath,SR Watson,GC Smith,,0,1,1,,,,38238
+1,South Africa,17,GC Smith,SR Watson,JJ van der Wath,,0,1,1,,,,38238
+1,South Africa,17,JJ van der Wath,SR Watson,GC Smith,,0,4,4,,,,38238
+1,South Africa,18,GC Smith,ML Lewis,JJ van der Wath,,0,1,1,,,,38238
+1,South Africa,18,JJ van der Wath,ML Lewis,GC Smith,,0,0,0,,,,38238
+1,South Africa,18,JJ van der Wath,ML Lewis,GC Smith,,0,2,2,,,,38238
+1,South Africa,18,JJ van der Wath,ML Lewis,GC Smith,,0,1,1,,,,38238
+1,South Africa,18,GC Smith,ML Lewis,JJ van der Wath,,0,2,2,,,,38238
+1,South Africa,18,GC Smith,ML Lewis,JJ van der Wath,,0,1,1,,,,38238
+1,South Africa,19,GC Smith,NW Bracken,JJ van der Wath,,0,1,1,,,,38238
+1,South Africa,19,JJ van der Wath,NW Bracken,GC Smith,,0,6,6,,,,38238
+1,South Africa,19,JJ van der Wath,NW Bracken,GC Smith,,0,0,0,caught,JJ van der Wath,MJ Clarke,38238
+1,South Africa,19,GC Smith,NW Bracken,AB de Villiers,,0,4,4,,,,38238
+1,South Africa,19,GC Smith,NW Bracken,AB de Villiers,,0,2,2,,,,38238
+1,South Africa,19,GC Smith,NW Bracken,AB de Villiers,,0,4,4,,,,38238

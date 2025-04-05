@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,HM Amla,MR Swart,Q de Kock,,0,0,0,,,,341323413
+1,South Africa,0,HM Amla,MR Swart,Q de Kock,,0,2,2,,,,341323413
+1,South Africa,0,HM Amla,MR Swart,Q de Kock,,0,1,1,,,,341323413
+1,South Africa,0,Q de Kock,MR Swart,HM Amla,,0,0,0,,,,341323413
+1,South Africa,0,Q de Kock,MR Swart,HM Amla,,0,0,0,caught,Q de Kock,SJ Myburgh,341323413
+1,South Africa,0,F du Plessis,MR Swart,HM Amla,,0,0,0,,,,341323413
+1,South Africa,1,HM Amla,T van der Gugten,F du Plessis,,0,2,2,,,,341323413
+1,South Africa,1,HM Amla,T van der Gugten,F du Plessis,,0,4,4,,,,341323413
+1,South Africa,1,HM Amla,T van der Gugten,F du Plessis,,0,0,0,,,,341323413
+1,South Africa,1,HM Amla,T van der Gugten,F du Plessis,,0,0,0,,,,341323413
+1,South Africa,1,HM Amla,T van der Gugten,F du Plessis,,0,0,0,,,,341323413
+1,South Africa,1,HM Amla,T van der Gugten,F du Plessis,,0,1,1,,,,341323413
+1,South Africa,2,HM Amla,MR Swart,F du Plessis,wides,1,1,0,,,,341323413
+1,South Africa,2,HM Amla,MR Swart,F du Plessis,,0,0,0,,,,341323413
+1,South Africa,2,HM Amla,MR Swart,F du Plessis,,0,6,6,,,,341323413
+1,South Africa,2,HM Amla,MR Swart,F du Plessis,,0,4,4,,,,341323413
+1,South Africa,2,HM Amla,MR Swart,F du Plessis,,0,4,4,,,,341323413
+1,South Africa,2,HM Amla,MR Swart,F du Plessis,,0,4,4,,,,341323413
+1,South Africa,2,HM Amla,MR Swart,F du Plessis,,0,4,4,,,,341323413
+1,South Africa,3,F du Plessis,T van der Gugten,HM Amla,,0,1,1,,,,341323413
+1,South Africa,3,HM Amla,T van der Gugten,F du Plessis,,0,4,4,,,,341323413
+1,South Africa,3,HM Amla,T van der Gugten,F du Plessis,,0,0,0,,,,341323413
+1,South Africa,3,HM Amla,T van der Gugten,F du Plessis,,0,0,0,,,,341323413
+1,South Africa,3,HM Amla,T van der Gugten,F du Plessis,,0,1,1,,,,341323413
+1,South Africa,3,F du Plessis,T van der Gugten,HM Amla,,0,0,0,,,,341323413
+1,South Africa,4,HM Amla,Ahsan Malik,F du Plessis,,0,2,2,,,,341323413
+1,South Africa,4,HM Amla,Ahsan Malik,F du Plessis,,0,4,4,,,,341323413
+1,South Africa,4,HM Amla,Ahsan Malik,F du Plessis,,0,0,0,caught,HM Amla,W Barresi,341323413
+1,South Africa,4,AB de Villiers,Ahsan Malik,F du Plessis,,0,0,0,,,,341323413
+1,South Africa,4,AB de Villiers,Ahsan Malik,F du Plessis,,0,0,0,,,,341323413
+1,South Africa,4,AB de Villiers,Ahsan Malik,F du Plessis,,0,1,1,,,,341323413
+1,South Africa,5,AB de Villiers,LV van Beek,F du Plessis,,0,0,0,,,,341323413
+1,South Africa,5,AB de Villiers,LV van Beek,F du Plessis,,0,0,0,,,,341323413
+1,South Africa,5,AB de Villiers,LV van Beek,F du Plessis,,0,1,1,,,,341323413
+1,South Africa,5,F du Plessis,LV van Beek,AB de Villiers,,0,4,4,,,,341323413
+1,South Africa,5,F du Plessis,LV van Beek,AB de Villiers,wides,1,1,0,,,,341323413
+1,South Africa,5,F du Plessis,LV van Beek,AB de Villiers,wides,1,1,0,,,,341323413
+1,South Africa,5,F du Plessis,LV van Beek,AB de Villiers,,0,1,1,,,,341323413
+1,South Africa,5,AB de Villiers,LV van Beek,F du Plessis,,0,4,4,,,,341323413
+1,South Africa,6,F du Plessis,Mudassar Bukhari,AB de Villiers,,0,1,1,,,,341323413
+1,South Africa,6,AB de Villiers,Mudassar Bukhari,F du Plessis,,0,1,1,,,,341323413
+1,South Africa,6,F du Plessis,Mudassar Bukhari,AB de Villiers,,0,0,0,,,,341323413
+1,South Africa,6,F du Plessis,Mudassar Bukhari,AB de Villiers,,0,1,1,,,,341323413
+1,South Africa,6,AB de Villiers,Mudassar Bukhari,F du Plessis,,0,1,1,,,,341323413
+1,South Africa,6,F du Plessis,Mudassar Bukhari,AB de Villiers,,0,4,4,,,,341323413
+1,South Africa,7,AB de Villiers,PM Seelaar,F du Plessis,,0,0,0,,,,341323413
+1,South Africa,7,AB de Villiers,PM Seelaar,F du Plessis,,0,1,1,,,,341323413
+1,South Africa,7,F du Plessis,PM Seelaar,AB de Villiers,,0,4,4,,,,341323413
+1,South Africa,7,F du Plessis,PM Seelaar,AB de Villiers,,0,1,1,,,,341323413
+1,South Africa,7,AB de Villiers,PM Seelaar,F du Plessis,,0,2,2,,,,341323413
+1,South Africa,7,AB de Villiers,PM Seelaar,F du Plessis,,0,1,1,,,,341323413
+1,South Africa,8,AB de Villiers,TLW Cooper,F du Plessis,,0,1,1,,,,341323413
+1,South Africa,8,F du Plessis,TLW Cooper,AB de Villiers,,0,1,1,,,,341323413
+1,South Africa,8,AB de Villiers,TLW Cooper,F du Plessis,,0,1,1,,,,341323413
+1,South Africa,8,F du Plessis,TLW Cooper,AB de Villiers,,0,6,6,,,,341323413
+1,South Africa,8,F du Plessis,TLW Cooper,AB de Villiers,,0,0,0,caught,F du Plessis,LV van Beek,341323413
+1,South Africa,8,AB de Villiers,TLW Cooper,JA Morkel,,0,1,1,,,,341323413
+1,South Africa,9,AB de Villiers,Mudassar Bukhari,JA Morkel,,0,2,2,,,,341323413
+1,South Africa,9,AB de Villiers,Mudassar Bukhari,JA Morkel,,0,2,2,,,,341323413
+1,South Africa,9,AB de Villiers,Mudassar Bukhari,JA Morkel,,0,1,1,,,,341323413
+1,South Africa,9,JA Morkel,Mudassar Bukhari,AB de Villiers,,0,0,0,,,,341323413
+1,South Africa,9,JA Morkel,Mudassar Bukhari,AB de Villiers,,0,1,1,,,,341323413
+1,South Africa,9,AB de Villiers,Mudassar Bukhari,JA Morkel,,0,1,1,,,,341323413
+1,South Africa,10,AB de Villiers,LV van Beek,JA Morkel,,0,0,0,caught,AB de Villiers,BN Cooper,341323413
+1,South Africa,10,JA Morkel,LV van Beek,JP Duminy,,0,1,1,,,,341323413
+1,South Africa,10,JP Duminy,LV van Beek,JA Morkel,,0,0,0,,,,341323413
+1,South Africa,10,JP Duminy,LV van Beek,JA Morkel,,0,0,0,,,,341323413
+1,South Africa,10,JP Duminy,LV van Beek,JA Morkel,,0,1,1,,,,341323413
+1,South Africa,10,JA Morkel,LV van Beek,JP Duminy,,0,0,0,,,,341323413
+1,South Africa,11,JP Duminy,TLW Cooper,JA Morkel,,0,2,2,,,,341323413
+1,South Africa,11,JP Duminy,TLW Cooper,JA Morkel,,0,1,1,,,,341323413
+1,South Africa,11,JA Morkel,TLW Cooper,JP Duminy,,0,0,0,,,,341323413
+1,South Africa,11,JA Morkel,TLW Cooper,JP Duminy,,0,1,1,,,,341323413
+1,South Africa,11,JP Duminy,TLW Cooper,JA Morkel,,0,1,1,,,,341323413
+1,South Africa,11,JA Morkel,TLW Cooper,JP Duminy,,0,1,1,,,,341323413
+1,South Africa,12,JA Morkel,Ahsan Malik,JP Duminy,,0,0,0,,,,341323413
+1,South Africa,12,JA Morkel,Ahsan Malik,JP Duminy,,0,1,1,,,,341323413
+1,South Africa,12,JP Duminy,Ahsan Malik,JA Morkel,,0,0,0,,,,341323413
+1,South Africa,12,JP Duminy,Ahsan Malik,JA Morkel,,0,1,1,,,,341323413
+1,South Africa,12,JA Morkel,Ahsan Malik,JP Duminy,,0,0,0,,,,341323413
+1,South Africa,12,JA Morkel,Ahsan Malik,JP Duminy,,0,0,0,caught,JA Morkel,BN Cooper,341323413
+1,South Africa,13,DA Miller,TLW Cooper,JP Duminy,,0,1,1,,,,341323413
+1,South Africa,13,JP Duminy,TLW Cooper,DA Miller,,0,1,1,,,,341323413
+1,South Africa,13,DA Miller,TLW Cooper,JP Duminy,,0,0,0,,,,341323413
+1,South Africa,13,DA Miller,TLW Cooper,JP Duminy,,0,1,1,,,,341323413
+1,South Africa,13,JP Duminy,TLW Cooper,DA Miller,,0,2,2,,,,341323413
+1,South Africa,13,JP Duminy,TLW Cooper,DA Miller,,0,1,1,,,,341323413
+1,South Africa,14,JP Duminy,Mudassar Bukhari,DA Miller,,0,1,1,,,,341323413
+1,South Africa,14,DA Miller,Mudassar Bukhari,JP Duminy,,0,1,1,,,,341323413
+1,South Africa,14,JP Duminy,Mudassar Bukhari,DA Miller,,0,0,0,,,,341323413
+1,South Africa,14,JP Duminy,Mudassar Bukhari,DA Miller,,0,1,1,,,,341323413
+1,South Africa,14,DA Miller,Mudassar Bukhari,JP Duminy,,0,2,2,,,,341323413
+1,South Africa,14,DA Miller,Mudassar Bukhari,JP Duminy,,0,1,1,,,,341323413
+1,South Africa,15,DA Miller,T van der Gugten,JP Duminy,,0,2,2,,,,341323413
+1,South Africa,15,DA Miller,T van der Gugten,JP Duminy,,0,0,0,,,,341323413
+1,South Africa,15,DA Miller,T van der Gugten,JP Duminy,wides,1,1,0,,,,341323413
+1,South Africa,15,DA Miller,T van der Gugten,JP Duminy,,0,2,2,,,,341323413
+1,South Africa,15,DA Miller,T van der Gugten,JP Duminy,,0,1,1,,,,341323413
+1,South Africa,15,JP Duminy,T van der Gugten,DA Miller,,0,0,0,caught,JP Duminy,W Barresi,341323413
+1,South Africa,15,DW Steyn,T van der Gugten,DA Miller,,0,0,0,,,,341323413
+1,South Africa,16,DA Miller,Ahsan Malik,DW Steyn,,0,1,1,,,,341323413
+1,South Africa,16,DW Steyn,Ahsan Malik,DA Miller,,0,1,1,,,,341323413
+1,South Africa,16,DA Miller,Ahsan Malik,DW Steyn,,0,1,1,,,,341323413
+1,South Africa,16,DW Steyn,Ahsan Malik,DA Miller,,0,4,4,,,,341323413
+1,South Africa,16,DW Steyn,Ahsan Malik,DA Miller,,0,0,0,caught,DW Steyn,W Barresi,341323413
+1,South Africa,16,BE Hendricks,Ahsan Malik,DA Miller,,0,1,1,,,,341323413
+1,South Africa,17,BE Hendricks,Mudassar Bukhari,DA Miller,,0,1,1,,,,341323413
+1,South Africa,17,DA Miller,Mudassar Bukhari,BE Hendricks,,0,0,0,,,,341323413
+1,South Africa,17,DA Miller,Mudassar Bukhari,BE Hendricks,,0,1,1,,,,341323413
+1,South Africa,17,BE Hendricks,Mudassar Bukhari,DA Miller,,0,1,1,,,,341323413
+1,South Africa,17,DA Miller,Mudassar Bukhari,BE Hendricks,,0,0,0,,,,341323413
+1,South Africa,17,DA Miller,Mudassar Bukhari,BE Hendricks,,0,2,2,,,,341323413
+1,South Africa,18,BE Hendricks,Ahsan Malik,DA Miller,,0,0,0,caught,BE Hendricks,PW Borren,341323413
+1,South Africa,18,DA Miller,Ahsan Malik,Imran Tahir,,0,1,1,,,,341323413
+1,South Africa,18,Imran Tahir,Ahsan Malik,DA Miller,,0,0,0,,,,341323413
+1,South Africa,18,Imran Tahir,Ahsan Malik,DA Miller,,0,1,1,,,,341323413
+1,South Africa,18,DA Miller,Ahsan Malik,Imran Tahir,,0,0,0,bowled,DA Miller,,341323413
+1,South Africa,18,LL Tsotsobe,Ahsan Malik,Imran Tahir,,0,0,0,,,,341323413
+1,South Africa,19,Imran Tahir,T van der Gugten,LL Tsotsobe,,0,4,4,,,,341323413
+1,South Africa,19,Imran Tahir,T van der Gugten,LL Tsotsobe,,0,2,2,,,,341323413
+1,South Africa,19,Imran Tahir,T van der Gugten,LL Tsotsobe,,0,2,2,,,,341323413
+1,South Africa,19,Imran Tahir,T van der Gugten,LL Tsotsobe,,0,0,0,,,,341323413
+1,South Africa,19,Imran Tahir,T van der Gugten,LL Tsotsobe,byes,1,1,0,,,,341323413
+1,South Africa,19,LL Tsotsobe,T van der Gugten,Imran Tahir,,0,1,1,,,,341323413

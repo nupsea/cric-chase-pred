@@ -1,0 +1,121 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Netherlands,0,TP Visee,GH Dockrell,MP O'Dowd,,0,2,2,,,,382723827
+2,Netherlands,0,TP Visee,GH Dockrell,MP O'Dowd,,0,0,0,,,,382723827
+2,Netherlands,0,TP Visee,GH Dockrell,MP O'Dowd,,0,1,1,,,,382723827
+2,Netherlands,0,MP O'Dowd,GH Dockrell,TP Visee,,0,1,1,,,,382723827
+2,Netherlands,0,TP Visee,GH Dockrell,MP O'Dowd,,0,4,4,,,,382723827
+2,Netherlands,0,TP Visee,GH Dockrell,MP O'Dowd,,0,0,0,,,,382723827
+2,Netherlands,1,MP O'Dowd,BJ McCarthy,TP Visee,,0,1,1,,,,382723827
+2,Netherlands,1,TP Visee,BJ McCarthy,MP O'Dowd,,0,4,4,,,,382723827
+2,Netherlands,1,TP Visee,BJ McCarthy,MP O'Dowd,,0,0,0,,,,382723827
+2,Netherlands,1,TP Visee,BJ McCarthy,MP O'Dowd,,0,1,1,,,,382723827
+2,Netherlands,1,MP O'Dowd,BJ McCarthy,TP Visee,,0,4,4,,,,382723827
+2,Netherlands,1,MP O'Dowd,BJ McCarthy,TP Visee,,0,0,0,,,,382723827
+2,Netherlands,2,TP Visee,WB Rankin,MP O'Dowd,,0,1,1,,,,382723827
+2,Netherlands,2,MP O'Dowd,WB Rankin,TP Visee,,0,4,4,,,,382723827
+2,Netherlands,2,MP O'Dowd,WB Rankin,TP Visee,,0,1,1,,,,382723827
+2,Netherlands,2,TP Visee,WB Rankin,MP O'Dowd,,0,0,0,,,,382723827
+2,Netherlands,2,TP Visee,WB Rankin,MP O'Dowd,,0,4,4,,,,382723827
+2,Netherlands,2,TP Visee,WB Rankin,MP O'Dowd,,0,4,4,,,,382723827
+2,Netherlands,3,MP O'Dowd,GH Dockrell,TP Visee,,0,0,0,,,,382723827
+2,Netherlands,3,MP O'Dowd,GH Dockrell,TP Visee,,0,1,1,,,,382723827
+2,Netherlands,3,TP Visee,GH Dockrell,MP O'Dowd,,0,4,4,,,,382723827
+2,Netherlands,3,TP Visee,GH Dockrell,MP O'Dowd,,0,0,0,,,,382723827
+2,Netherlands,3,TP Visee,GH Dockrell,MP O'Dowd,,0,0,0,bowled,TP Visee,,382723827
+2,Netherlands,3,BN Cooper,GH Dockrell,MP O'Dowd,,0,1,1,,,,382723827
+2,Netherlands,4,BN Cooper,Simi Singh,MP O'Dowd,,0,1,1,,,,382723827
+2,Netherlands,4,MP O'Dowd,Simi Singh,BN Cooper,,0,0,0,,,,382723827
+2,Netherlands,4,MP O'Dowd,Simi Singh,BN Cooper,,0,1,1,,,,382723827
+2,Netherlands,4,BN Cooper,Simi Singh,MP O'Dowd,,0,0,0,,,,382723827
+2,Netherlands,4,BN Cooper,Simi Singh,MP O'Dowd,wides,1,1,0,,,,382723827
+2,Netherlands,4,BN Cooper,Simi Singh,MP O'Dowd,,0,4,4,,,,382723827
+2,Netherlands,4,BN Cooper,Simi Singh,MP O'Dowd,,0,1,1,,,,382723827
+2,Netherlands,5,BN Cooper,BJ McCarthy,MP O'Dowd,,0,1,1,,,,382723827
+2,Netherlands,5,MP O'Dowd,BJ McCarthy,BN Cooper,,0,2,2,,,,382723827
+2,Netherlands,5,MP O'Dowd,BJ McCarthy,BN Cooper,,0,4,4,,,,382723827
+2,Netherlands,5,MP O'Dowd,BJ McCarthy,BN Cooper,,0,0,0,,,,382723827
+2,Netherlands,5,MP O'Dowd,BJ McCarthy,BN Cooper,,0,6,6,,,,382723827
+2,Netherlands,5,MP O'Dowd,BJ McCarthy,BN Cooper,,0,4,4,,,,382723827
+2,Netherlands,6,BN Cooper,SR Thompson,MP O'Dowd,,0,1,1,,,,382723827
+2,Netherlands,6,MP O'Dowd,SR Thompson,BN Cooper,,0,0,0,,,,382723827
+2,Netherlands,6,MP O'Dowd,SR Thompson,BN Cooper,,0,2,2,,,,382723827
+2,Netherlands,6,MP O'Dowd,SR Thompson,BN Cooper,,0,1,1,,,,382723827
+2,Netherlands,6,BN Cooper,SR Thompson,MP O'Dowd,,0,0,0,,,,382723827
+2,Netherlands,6,BN Cooper,SR Thompson,MP O'Dowd,,0,1,1,,,,382723827
+2,Netherlands,7,BN Cooper,Simi Singh,MP O'Dowd,,0,0,0,bowled,BN Cooper,,382723827
+2,Netherlands,7,BFW de Leede,Simi Singh,MP O'Dowd,,0,1,1,,,,382723827
+2,Netherlands,7,MP O'Dowd,Simi Singh,BFW de Leede,,0,1,1,,,,382723827
+2,Netherlands,7,BFW de Leede,Simi Singh,MP O'Dowd,,0,0,0,,,,382723827
+2,Netherlands,7,BFW de Leede,Simi Singh,MP O'Dowd,,0,1,1,,,,382723827
+2,Netherlands,7,MP O'Dowd,Simi Singh,BFW de Leede,,0,1,1,,,,382723827
+2,Netherlands,8,MP O'Dowd,SR Thompson,BFW de Leede,,0,1,1,,,,382723827
+2,Netherlands,8,BFW de Leede,SR Thompson,MP O'Dowd,wides,1,1,0,,,,382723827
+2,Netherlands,8,BFW de Leede,SR Thompson,MP O'Dowd,,0,1,1,,,,382723827
+2,Netherlands,8,MP O'Dowd,SR Thompson,BFW de Leede,,0,0,0,,,,382723827
+2,Netherlands,8,MP O'Dowd,SR Thompson,BFW de Leede,,0,4,4,,,,382723827
+2,Netherlands,8,MP O'Dowd,SR Thompson,BFW de Leede,wides,1,1,0,,,,382723827
+2,Netherlands,8,MP O'Dowd,SR Thompson,BFW de Leede,wides,1,1,0,,,,382723827
+2,Netherlands,8,MP O'Dowd,SR Thompson,BFW de Leede,,0,0,0,caught,MP O'Dowd,SW Poynter,382723827
+2,Netherlands,8,RE van der Merwe,SR Thompson,BFW de Leede,,0,2,2,,,,382723827
+2,Netherlands,9,BFW de Leede,WB Rankin,RE van der Merwe,,0,1,1,,,,382723827
+2,Netherlands,9,RE van der Merwe,WB Rankin,BFW de Leede,,0,1,1,,,,382723827
+2,Netherlands,9,BFW de Leede,WB Rankin,RE van der Merwe,,0,0,0,,,,382723827
+2,Netherlands,9,BFW de Leede,WB Rankin,RE van der Merwe,,0,1,1,,,,382723827
+2,Netherlands,9,RE van der Merwe,WB Rankin,BFW de Leede,,0,1,1,,,,382723827
+2,Netherlands,9,BFW de Leede,WB Rankin,RE van der Merwe,,0,0,0,,,,382723827
+2,Netherlands,10,RE van der Merwe,SR Thompson,BFW de Leede,,0,1,1,,,,382723827
+2,Netherlands,10,BFW de Leede,SR Thompson,RE van der Merwe,,0,0,0,,,,382723827
+2,Netherlands,10,BFW de Leede,SR Thompson,RE van der Merwe,,0,1,1,,,,382723827
+2,Netherlands,10,RE van der Merwe,SR Thompson,BFW de Leede,,0,6,6,,,,382723827
+2,Netherlands,10,RE van der Merwe,SR Thompson,BFW de Leede,,0,1,1,,,,382723827
+2,Netherlands,10,BFW de Leede,SR Thompson,RE van der Merwe,,0,0,0,,,,382723827
+2,Netherlands,11,RE van der Merwe,GH Dockrell,BFW de Leede,,0,1,1,,,,382723827
+2,Netherlands,11,BFW de Leede,GH Dockrell,RE van der Merwe,,0,0,0,stumped,BFW de Leede,SW Poynter,382723827
+2,Netherlands,11,PM Seelaar,GH Dockrell,RE van der Merwe,,0,1,1,,,,382723827
+2,Netherlands,11,RE van der Merwe,GH Dockrell,PM Seelaar,,0,4,4,,,,382723827
+2,Netherlands,11,RE van der Merwe,GH Dockrell,PM Seelaar,,0,1,1,,,,382723827
+2,Netherlands,11,PM Seelaar,GH Dockrell,RE van der Merwe,,0,0,0,,,,382723827
+2,Netherlands,12,RE van der Merwe,WB Rankin,PM Seelaar,,0,4,4,,,,382723827
+2,Netherlands,12,RE van der Merwe,WB Rankin,PM Seelaar,wides,1,1,0,,,,382723827
+2,Netherlands,12,RE van der Merwe,WB Rankin,PM Seelaar,,0,0,0,,,,382723827
+2,Netherlands,12,RE van der Merwe,WB Rankin,PM Seelaar,,0,0,0,,,,382723827
+2,Netherlands,12,RE van der Merwe,WB Rankin,PM Seelaar,,0,1,1,,,,382723827
+2,Netherlands,12,PM Seelaar,WB Rankin,RE van der Merwe,,0,2,2,,,,382723827
+2,Netherlands,12,PM Seelaar,WB Rankin,RE van der Merwe,,0,2,2,,,,382723827
+2,Netherlands,13,RE van der Merwe,Simi Singh,PM Seelaar,,0,1,1,,,,382723827
+2,Netherlands,13,PM Seelaar,Simi Singh,RE van der Merwe,,0,1,1,,,,382723827
+2,Netherlands,13,RE van der Merwe,Simi Singh,PM Seelaar,,0,1,1,,,,382723827
+2,Netherlands,13,PM Seelaar,Simi Singh,RE van der Merwe,,0,1,1,,,,382723827
+2,Netherlands,13,RE van der Merwe,Simi Singh,PM Seelaar,,0,0,0,,,,382723827
+2,Netherlands,13,RE van der Merwe,Simi Singh,PM Seelaar,,0,1,1,,,,382723827
+2,Netherlands,14,RE van der Merwe,GH Dockrell,PM Seelaar,,0,4,4,,,,382723827
+2,Netherlands,14,RE van der Merwe,GH Dockrell,PM Seelaar,,0,1,1,,,,382723827
+2,Netherlands,14,PM Seelaar,GH Dockrell,RE van der Merwe,,0,0,0,,,,382723827
+2,Netherlands,14,PM Seelaar,GH Dockrell,RE van der Merwe,,0,2,2,,,,382723827
+2,Netherlands,14,PM Seelaar,GH Dockrell,RE van der Merwe,,0,1,1,,,,382723827
+2,Netherlands,14,RE van der Merwe,GH Dockrell,PM Seelaar,,0,1,1,,,,382723827
+2,Netherlands,15,RE van der Merwe,Simi Singh,PM Seelaar,,0,1,1,,,,382723827
+2,Netherlands,15,PM Seelaar,Simi Singh,RE van der Merwe,,0,1,1,,,,382723827
+2,Netherlands,15,RE van der Merwe,Simi Singh,PM Seelaar,,0,1,1,,,,382723827
+2,Netherlands,15,PM Seelaar,Simi Singh,RE van der Merwe,,0,1,1,,,,382723827
+2,Netherlands,15,RE van der Merwe,Simi Singh,PM Seelaar,,0,1,1,,,,382723827
+2,Netherlands,15,PM Seelaar,Simi Singh,RE van der Merwe,,0,1,1,,,,382723827
+2,Netherlands,16,PM Seelaar,BJ McCarthy,RE van der Merwe,,0,1,1,,,,382723827
+2,Netherlands,16,RE van der Merwe,BJ McCarthy,PM Seelaar,,0,0,0,,,,382723827
+2,Netherlands,16,RE van der Merwe,BJ McCarthy,PM Seelaar,,0,2,2,,,,382723827
+2,Netherlands,16,RE van der Merwe,BJ McCarthy,PM Seelaar,,0,0,0,bowled,RE van der Merwe,,382723827
+2,Netherlands,16,Sikander Zulfiqar,BJ McCarthy,PM Seelaar,,0,0,0,,,,382723827
+2,Netherlands,16,Sikander Zulfiqar,BJ McCarthy,PM Seelaar,,0,0,0,,,,382723827
+2,Netherlands,17,PM Seelaar,PR Stirling,Sikander Zulfiqar,wides,1,1,0,,,,382723827
+2,Netherlands,17,PM Seelaar,PR Stirling,Sikander Zulfiqar,,0,1,1,,,,382723827
+2,Netherlands,17,Sikander Zulfiqar,PR Stirling,PM Seelaar,,0,1,1,,,,382723827
+2,Netherlands,17,PM Seelaar,PR Stirling,Sikander Zulfiqar,,0,2,2,,,,382723827
+2,Netherlands,17,PM Seelaar,PR Stirling,Sikander Zulfiqar,,0,1,1,,,,382723827
+2,Netherlands,17,Sikander Zulfiqar,PR Stirling,PM Seelaar,,0,4,4,,,,382723827
+2,Netherlands,17,Sikander Zulfiqar,PR Stirling,PM Seelaar,,0,0,0,caught,Sikander Zulfiqar,Simi Singh,382723827
+2,Netherlands,18,PM Seelaar,BJ McCarthy,SA Edwards,,0,2,2,,,,382723827
+2,Netherlands,18,PM Seelaar,BJ McCarthy,SA Edwards,,0,1,1,,,,382723827
+2,Netherlands,18,SA Edwards,BJ McCarthy,PM Seelaar,,0,1,1,,,,382723827
+2,Netherlands,18,PM Seelaar,BJ McCarthy,SA Edwards,,0,1,1,,,,382723827
+2,Netherlands,18,SA Edwards,BJ McCarthy,PM Seelaar,,0,4,4,,,,382723827
+2,Netherlands,18,SA Edwards,BJ McCarthy,PM Seelaar,,0,4,4,,,,382723827

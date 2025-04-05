@@ -1,0 +1,129 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Bangladesh,0,Tamim Iqbal,Mohammad Asif,Junaid Siddique,,0,1,1,,,,3362336
+1,Bangladesh,0,Junaid Siddique,Mohammad Asif,Tamim Iqbal,,0,2,2,,,,3362336
+1,Bangladesh,0,Junaid Siddique,Mohammad Asif,Tamim Iqbal,,0,0,0,,,,3362336
+1,Bangladesh,0,Junaid Siddique,Mohammad Asif,Tamim Iqbal,,0,2,2,,,,3362336
+1,Bangladesh,0,Junaid Siddique,Mohammad Asif,Tamim Iqbal,wides,1,1,0,,,,3362336
+1,Bangladesh,0,Junaid Siddique,Mohammad Asif,Tamim Iqbal,,0,0,0,,,,3362336
+1,Bangladesh,0,Junaid Siddique,Mohammad Asif,Tamim Iqbal,,0,4,4,,,,3362336
+1,Bangladesh,1,Tamim Iqbal,Sohail Tanvir,Junaid Siddique,wides,1,1,0,,,,3362336
+1,Bangladesh,1,Tamim Iqbal,Sohail Tanvir,Junaid Siddique,,0,0,0,,,,3362336
+1,Bangladesh,1,Tamim Iqbal,Sohail Tanvir,Junaid Siddique,,0,0,0,,,,3362336
+1,Bangladesh,1,Tamim Iqbal,Sohail Tanvir,Junaid Siddique,noballs,1,2,1,,,,3362336
+1,Bangladesh,1,Junaid Siddique,Sohail Tanvir,Tamim Iqbal,noballs,1,1,0,,,,3362336
+1,Bangladesh,1,Junaid Siddique,Sohail Tanvir,Tamim Iqbal,,0,0,0,,,,3362336
+1,Bangladesh,1,Junaid Siddique,Sohail Tanvir,Tamim Iqbal,,0,0,0,,,,3362336
+1,Bangladesh,1,Junaid Siddique,Sohail Tanvir,Tamim Iqbal,,0,0,0,,,,3362336
+1,Bangladesh,1,Junaid Siddique,Sohail Tanvir,Tamim Iqbal,,0,0,0,,,,3362336
+1,Bangladesh,2,Tamim Iqbal,Mohammad Asif,Junaid Siddique,wides,1,1,0,,,,3362336
+1,Bangladesh,2,Tamim Iqbal,Mohammad Asif,Junaid Siddique,,0,0,0,,,,3362336
+1,Bangladesh,2,Tamim Iqbal,Mohammad Asif,Junaid Siddique,,0,0,0,,,,3362336
+1,Bangladesh,2,Tamim Iqbal,Mohammad Asif,Junaid Siddique,,0,0,0,,,,3362336
+1,Bangladesh,2,Tamim Iqbal,Mohammad Asif,Junaid Siddique,,0,1,1,,,,3362336
+1,Bangladesh,2,Junaid Siddique,Mohammad Asif,Tamim Iqbal,,0,0,0,run out,Tamim Iqbal,Mohammad Hafeez,3362336
+1,Bangladesh,2,Aftab Ahmed,Mohammad Asif,Junaid Siddique,,0,1,1,,,,3362336
+1,Bangladesh,3,Aftab Ahmed,Sohail Tanvir,Junaid Siddique,,0,1,1,,,,3362336
+1,Bangladesh,3,Junaid Siddique,Sohail Tanvir,Aftab Ahmed,wides,1,1,0,,,,3362336
+1,Bangladesh,3,Junaid Siddique,Sohail Tanvir,Aftab Ahmed,,0,0,0,,,,3362336
+1,Bangladesh,3,Junaid Siddique,Sohail Tanvir,Aftab Ahmed,,0,2,2,,,,3362336
+1,Bangladesh,3,Junaid Siddique,Sohail Tanvir,Aftab Ahmed,,0,0,0,,,,3362336
+1,Bangladesh,3,Junaid Siddique,Sohail Tanvir,Aftab Ahmed,,0,2,2,,,,3362336
+1,Bangladesh,3,Junaid Siddique,Sohail Tanvir,Aftab Ahmed,,0,4,4,,,,3362336
+1,Bangladesh,4,Aftab Ahmed,Mohammad Asif,Junaid Siddique,,0,0,0,,,,3362336
+1,Bangladesh,4,Aftab Ahmed,Mohammad Asif,Junaid Siddique,,0,1,1,,,,3362336
+1,Bangladesh,4,Junaid Siddique,Mohammad Asif,Aftab Ahmed,,0,4,4,,,,3362336
+1,Bangladesh,4,Junaid Siddique,Mohammad Asif,Aftab Ahmed,,0,4,4,,,,3362336
+1,Bangladesh,4,Junaid Siddique,Mohammad Asif,Aftab Ahmed,,0,0,0,,,,3362336
+1,Bangladesh,4,Junaid Siddique,Mohammad Asif,Aftab Ahmed,,0,2,2,,,,3362336
+1,Bangladesh,5,Aftab Ahmed,Sohail Tanvir,Junaid Siddique,,0,2,2,,,,3362336
+1,Bangladesh,5,Aftab Ahmed,Sohail Tanvir,Junaid Siddique,,0,1,1,,,,3362336
+1,Bangladesh,5,Junaid Siddique,Sohail Tanvir,Aftab Ahmed,,0,2,2,,,,3362336
+1,Bangladesh,5,Junaid Siddique,Sohail Tanvir,Aftab Ahmed,,0,6,6,,,,3362336
+1,Bangladesh,5,Junaid Siddique,Sohail Tanvir,Aftab Ahmed,,0,0,0,,,,3362336
+1,Bangladesh,5,Junaid Siddique,Sohail Tanvir,Aftab Ahmed,wides,2,2,0,,,,3362336
+1,Bangladesh,5,Aftab Ahmed,Sohail Tanvir,Junaid Siddique,,0,0,0,,,,3362336
+1,Bangladesh,6,Junaid Siddique,Shahid Afridi,Aftab Ahmed,,0,0,0,,,,3362336
+1,Bangladesh,6,Junaid Siddique,Shahid Afridi,Aftab Ahmed,,0,1,1,,,,3362336
+1,Bangladesh,6,Aftab Ahmed,Shahid Afridi,Junaid Siddique,,0,2,2,,,,3362336
+1,Bangladesh,6,Aftab Ahmed,Shahid Afridi,Junaid Siddique,,0,0,0,,,,3362336
+1,Bangladesh,6,Aftab Ahmed,Shahid Afridi,Junaid Siddique,,0,1,1,,,,3362336
+1,Bangladesh,6,Junaid Siddique,Shahid Afridi,Aftab Ahmed,,0,1,1,,,,3362336
+1,Bangladesh,7,Junaid Siddique,Mohammad Hafeez,Aftab Ahmed,legbyes,1,1,0,,,,3362336
+1,Bangladesh,7,Aftab Ahmed,Mohammad Hafeez,Junaid Siddique,,0,1,1,,,,3362336
+1,Bangladesh,7,Junaid Siddique,Mohammad Hafeez,Aftab Ahmed,,0,2,2,,,,3362336
+1,Bangladesh,7,Junaid Siddique,Mohammad Hafeez,Aftab Ahmed,,0,0,0,,,,3362336
+1,Bangladesh,7,Junaid Siddique,Mohammad Hafeez,Aftab Ahmed,,0,1,1,,,,3362336
+1,Bangladesh,7,Aftab Ahmed,Mohammad Hafeez,Junaid Siddique,,0,1,1,,,,3362336
+1,Bangladesh,8,Aftab Ahmed,Shahid Afridi,Junaid Siddique,,0,1,1,,,,3362336
+1,Bangladesh,8,Junaid Siddique,Shahid Afridi,Aftab Ahmed,,0,4,4,,,,3362336
+1,Bangladesh,8,Junaid Siddique,Shahid Afridi,Aftab Ahmed,,0,1,1,,,,3362336
+1,Bangladesh,8,Aftab Ahmed,Shahid Afridi,Junaid Siddique,,0,1,1,,,,3362336
+1,Bangladesh,8,Junaid Siddique,Shahid Afridi,Aftab Ahmed,,0,4,4,,,,3362336
+1,Bangladesh,8,Junaid Siddique,Shahid Afridi,Aftab Ahmed,,0,1,1,,,,3362336
+1,Bangladesh,9,Junaid Siddique,Mohammad Hafeez,Aftab Ahmed,,0,1,1,,,,3362336
+1,Bangladesh,9,Aftab Ahmed,Mohammad Hafeez,Junaid Siddique,,0,2,2,,,,3362336
+1,Bangladesh,9,Aftab Ahmed,Mohammad Hafeez,Junaid Siddique,legbyes,1,1,0,,,,3362336
+1,Bangladesh,9,Junaid Siddique,Mohammad Hafeez,Aftab Ahmed,,0,1,1,,,,3362336
+1,Bangladesh,9,Aftab Ahmed,Mohammad Hafeez,Junaid Siddique,,0,0,0,stumped,Aftab Ahmed,Kamran Akmal,3362336
+1,Bangladesh,9,Mohammad Ashraful,Mohammad Hafeez,Junaid Siddique,,0,1,1,,,,3362336
+1,Bangladesh,10,Mohammad Ashraful,Shahid Afridi,Junaid Siddique,,0,2,2,,,,3362336
+1,Bangladesh,10,Mohammad Ashraful,Shahid Afridi,Junaid Siddique,,0,2,2,,,,3362336
+1,Bangladesh,10,Mohammad Ashraful,Shahid Afridi,Junaid Siddique,,0,0,0,lbw,Mohammad Ashraful,,3362336
+1,Bangladesh,10,Shakib Al Hasan,Shahid Afridi,Junaid Siddique,,0,1,1,,,,3362336
+1,Bangladesh,10,Junaid Siddique,Shahid Afridi,Shakib Al Hasan,,0,0,0,,,,3362336
+1,Bangladesh,10,Junaid Siddique,Shahid Afridi,Shakib Al Hasan,,0,0,0,,,,3362336
+1,Bangladesh,11,Shakib Al Hasan,Mohammad Hafeez,Junaid Siddique,,0,0,0,,,,3362336
+1,Bangladesh,11,Shakib Al Hasan,Mohammad Hafeez,Junaid Siddique,wides,1,1,0,,,,3362336
+1,Bangladesh,11,Shakib Al Hasan,Mohammad Hafeez,Junaid Siddique,,0,0,0,caught and bowled,Shakib Al Hasan,,3362336
+1,Bangladesh,11,Nadif Chowdhury,Mohammad Hafeez,Junaid Siddique,,0,1,1,,,,3362336
+1,Bangladesh,11,Junaid Siddique,Mohammad Hafeez,Nadif Chowdhury,,0,6,6,,,,3362336
+1,Bangladesh,11,Junaid Siddique,Mohammad Hafeez,Nadif Chowdhury,,0,6,6,,,,3362336
+1,Bangladesh,11,Junaid Siddique,Mohammad Hafeez,Nadif Chowdhury,,0,3,3,,,,3362336
+1,Bangladesh,12,Junaid Siddique,Shahid Afridi,Nadif Chowdhury,,0,0,0,,,,3362336
+1,Bangladesh,12,Junaid Siddique,Shahid Afridi,Nadif Chowdhury,,0,0,0,,,,3362336
+1,Bangladesh,12,Junaid Siddique,Shahid Afridi,Nadif Chowdhury,,0,1,1,,,,3362336
+1,Bangladesh,12,Nadif Chowdhury,Shahid Afridi,Junaid Siddique,,0,1,1,,,,3362336
+1,Bangladesh,12,Junaid Siddique,Shahid Afridi,Nadif Chowdhury,,0,1,1,,,,3362336
+1,Bangladesh,12,Nadif Chowdhury,Shahid Afridi,Junaid Siddique,,0,0,0,,,,3362336
+1,Bangladesh,13,Junaid Siddique,Umar Gul,Nadif Chowdhury,,0,1,1,,,,3362336
+1,Bangladesh,13,Nadif Chowdhury,Umar Gul,Junaid Siddique,,0,1,1,,,,3362336
+1,Bangladesh,13,Junaid Siddique,Umar Gul,Nadif Chowdhury,,0,1,1,,,,3362336
+1,Bangladesh,13,Nadif Chowdhury,Umar Gul,Junaid Siddique,,0,1,1,,,,3362336
+1,Bangladesh,13,Junaid Siddique,Umar Gul,Nadif Chowdhury,,0,1,1,,,,3362336
+1,Bangladesh,13,Nadif Chowdhury,Umar Gul,Junaid Siddique,,0,2,2,,,,3362336
+1,Bangladesh,14,Junaid Siddique,Shoaib Malik,Nadif Chowdhury,,0,0,0,caught,Junaid Siddique,Misbah-ul-Haq,3362336
+1,Bangladesh,14,Nadif Chowdhury,Shoaib Malik,Mahmudullah,,0,2,2,,,,3362336
+1,Bangladesh,14,Nadif Chowdhury,Shoaib Malik,Mahmudullah,noballs,1,1,0,,,,3362336
+1,Bangladesh,14,Nadif Chowdhury,Shoaib Malik,Mahmudullah,,0,4,4,,,,3362336
+1,Bangladesh,14,Nadif Chowdhury,Shoaib Malik,Mahmudullah,,0,0,0,caught,Nadif Chowdhury,Kamran Akmal,3362336
+1,Bangladesh,14,Mashrafe Mortaza,Shoaib Malik,Mahmudullah,,0,0,0,,,,3362336
+1,Bangladesh,14,Mashrafe Mortaza,Shoaib Malik,Mahmudullah,,0,2,2,,,,3362336
+1,Bangladesh,15,Mahmudullah,Umar Gul,Mashrafe Mortaza,,0,1,1,,,,3362336
+1,Bangladesh,15,Mashrafe Mortaza,Umar Gul,Mahmudullah,,0,0,0,run out,Mahmudullah,Umar Gul,3362336
+1,Bangladesh,15,Mushfiqur Rahim,Umar Gul,Mashrafe Mortaza,,0,1,1,,,,3362336
+1,Bangladesh,15,Mashrafe Mortaza,Umar Gul,Mushfiqur Rahim,,0,0,0,,,,3362336
+1,Bangladesh,15,Mashrafe Mortaza,Umar Gul,Mushfiqur Rahim,,0,0,0,,,,3362336
+1,Bangladesh,15,Mashrafe Mortaza,Umar Gul,Mushfiqur Rahim,,0,1,1,,,,3362336
+1,Bangladesh,16,Mashrafe Mortaza,Shoaib Malik,Mushfiqur Rahim,,0,2,2,,,,3362336
+1,Bangladesh,16,Mashrafe Mortaza,Shoaib Malik,Mushfiqur Rahim,,0,2,2,,,,3362336
+1,Bangladesh,16,Mashrafe Mortaza,Shoaib Malik,Mushfiqur Rahim,,0,0,0,,,,3362336
+1,Bangladesh,16,Mashrafe Mortaza,Shoaib Malik,Mushfiqur Rahim,,0,1,1,,,,3362336
+1,Bangladesh,16,Mushfiqur Rahim,Shoaib Malik,Mashrafe Mortaza,,0,0,0,,,,3362336
+1,Bangladesh,16,Mushfiqur Rahim,Shoaib Malik,Mashrafe Mortaza,,0,1,1,,,,3362336
+1,Bangladesh,17,Mushfiqur Rahim,Umar Gul,Mashrafe Mortaza,,0,0,0,,,,3362336
+1,Bangladesh,17,Mushfiqur Rahim,Umar Gul,Mashrafe Mortaza,,0,1,1,,,,3362336
+1,Bangladesh,17,Mashrafe Mortaza,Umar Gul,Mushfiqur Rahim,legbyes,1,1,0,,,,3362336
+1,Bangladesh,17,Mushfiqur Rahim,Umar Gul,Mashrafe Mortaza,,0,1,1,,,,3362336
+1,Bangladesh,17,Mashrafe Mortaza,Umar Gul,Mushfiqur Rahim,noballs,1,3,2,,,,3362336
+1,Bangladesh,17,Mashrafe Mortaza,Umar Gul,Mushfiqur Rahim,,0,1,1,,,,3362336
+1,Bangladesh,17,Mushfiqur Rahim,Umar Gul,Mashrafe Mortaza,,0,0,0,,,,3362336
+1,Bangladesh,18,Mashrafe Mortaza,Mohammad Asif,Mushfiqur Rahim,,0,0,0,bowled,Mashrafe Mortaza,,3362336
+1,Bangladesh,18,Abdur Razzak,Mohammad Asif,Mushfiqur Rahim,,0,0,0,run out,Abdur Razzak,Mohammad Asif,3362336
+1,Bangladesh,18,Syed Rasel,Mohammad Asif,Mushfiqur Rahim,,0,0,0,,,,3362336
+1,Bangladesh,18,Syed Rasel,Mohammad Asif,Mushfiqur Rahim,,0,0,0,,,,3362336
+1,Bangladesh,18,Syed Rasel,Mohammad Asif,Mushfiqur Rahim,,0,1,1,,,,3362336
+1,Bangladesh,18,Mushfiqur Rahim,Mohammad Asif,Syed Rasel,,0,1,1,,,,3362336
+1,Bangladesh,19,Mushfiqur Rahim,Umar Gul,Syed Rasel,,0,1,1,,,,3362336
+1,Bangladesh,19,Syed Rasel,Umar Gul,Mushfiqur Rahim,,0,0,0,,,,3362336
+1,Bangladesh,19,Syed Rasel,Umar Gul,Mushfiqur Rahim,,0,0,0,,,,3362336
+1,Bangladesh,19,Syed Rasel,Umar Gul,Mushfiqur Rahim,,0,0,0,bowled,Syed Rasel,,3362336

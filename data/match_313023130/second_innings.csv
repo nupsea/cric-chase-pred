@@ -1,0 +1,121 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,South Africa,0,GC Smith,RJ Sidebottom,JH Kallis,,0,2,2,,,,313023130
+2,South Africa,0,GC Smith,RJ Sidebottom,JH Kallis,,0,2,2,,,,313023130
+2,South Africa,0,GC Smith,RJ Sidebottom,JH Kallis,,0,1,1,,,,313023130
+2,South Africa,0,JH Kallis,RJ Sidebottom,GC Smith,,0,0,0,,,,313023130
+2,South Africa,0,JH Kallis,RJ Sidebottom,GC Smith,,0,0,0,,,,313023130
+2,South Africa,0,JH Kallis,RJ Sidebottom,GC Smith,,0,0,0,,,,313023130
+2,South Africa,1,GC Smith,TT Bresnan,JH Kallis,,0,0,0,,,,313023130
+2,South Africa,1,GC Smith,TT Bresnan,JH Kallis,,0,0,0,,,,313023130
+2,South Africa,1,GC Smith,TT Bresnan,JH Kallis,,0,0,0,,,,313023130
+2,South Africa,1,GC Smith,TT Bresnan,JH Kallis,,0,0,0,,,,313023130
+2,South Africa,1,GC Smith,TT Bresnan,JH Kallis,,0,1,1,,,,313023130
+2,South Africa,1,JH Kallis,TT Bresnan,GC Smith,,0,1,1,,,,313023130
+2,South Africa,2,JH Kallis,SCJ Broad,GC Smith,,0,6,6,,,,313023130
+2,South Africa,2,JH Kallis,SCJ Broad,GC Smith,,0,1,1,,,,313023130
+2,South Africa,2,GC Smith,SCJ Broad,JH Kallis,byes,1,1,0,,,,313023130
+2,South Africa,2,JH Kallis,SCJ Broad,GC Smith,,0,1,1,,,,313023130
+2,South Africa,2,GC Smith,SCJ Broad,JH Kallis,,0,0,0,,,,313023130
+2,South Africa,2,GC Smith,SCJ Broad,JH Kallis,,0,0,0,,,,313023130
+2,South Africa,3,JH Kallis,TT Bresnan,GC Smith,,0,0,0,,,,313023130
+2,South Africa,3,JH Kallis,TT Bresnan,GC Smith,,0,1,1,,,,313023130
+2,South Africa,3,GC Smith,TT Bresnan,JH Kallis,,0,1,1,,,,313023130
+2,South Africa,3,JH Kallis,TT Bresnan,GC Smith,,0,0,0,,,,313023130
+2,South Africa,3,JH Kallis,TT Bresnan,GC Smith,,0,0,0,,,,313023130
+2,South Africa,3,JH Kallis,TT Bresnan,GC Smith,,0,1,1,,,,313023130
+2,South Africa,4,JH Kallis,SCJ Broad,GC Smith,,0,0,0,caught,JH Kallis,KP Pietersen,313023130
+2,South Africa,4,HH Gibbs,SCJ Broad,GC Smith,,0,0,0,,,,313023130
+2,South Africa,4,HH Gibbs,SCJ Broad,GC Smith,,0,0,0,,,,313023130
+2,South Africa,4,HH Gibbs,SCJ Broad,GC Smith,,0,1,1,,,,313023130
+2,South Africa,4,GC Smith,SCJ Broad,HH Gibbs,noballs,1,1,0,,,,313023130
+2,South Africa,4,GC Smith,SCJ Broad,HH Gibbs,,0,4,4,,,,313023130
+2,South Africa,4,GC Smith,SCJ Broad,HH Gibbs,,0,0,0,,,,313023130
+2,South Africa,5,HH Gibbs,TT Bresnan,GC Smith,,0,4,4,,,,313023130
+2,South Africa,5,HH Gibbs,TT Bresnan,GC Smith,,0,1,1,,,,313023130
+2,South Africa,5,GC Smith,TT Bresnan,HH Gibbs,,0,1,1,,,,313023130
+2,South Africa,5,HH Gibbs,TT Bresnan,GC Smith,,0,1,1,,,,313023130
+2,South Africa,5,GC Smith,TT Bresnan,HH Gibbs,,0,1,1,,,,313023130
+2,South Africa,5,HH Gibbs,TT Bresnan,GC Smith,,0,1,1,,,,313023130
+2,South Africa,6,HH Gibbs,MH Yardy,GC Smith,,0,0,0,caught,HH Gibbs,RJ Sidebottom,313023130
+2,South Africa,6,GC Smith,MH Yardy,AB de Villiers,,0,1,1,,,,313023130
+2,South Africa,6,AB de Villiers,MH Yardy,GC Smith,,0,0,0,,,,313023130
+2,South Africa,6,AB de Villiers,MH Yardy,GC Smith,,0,1,1,,,,313023130
+2,South Africa,6,GC Smith,MH Yardy,AB de Villiers,wides,1,1,0,,,,313023130
+2,South Africa,6,GC Smith,MH Yardy,AB de Villiers,,0,0,0,,,,313023130
+2,South Africa,6,GC Smith,MH Yardy,AB de Villiers,,0,1,1,,,,313023130
+2,South Africa,7,GC Smith,GP Swann,AB de Villiers,,0,4,4,,,,313023130
+2,South Africa,7,GC Smith,GP Swann,AB de Villiers,,0,0,0,,,,313023130
+2,South Africa,7,GC Smith,GP Swann,AB de Villiers,legbyes,2,2,0,,,,313023130
+2,South Africa,7,GC Smith,GP Swann,AB de Villiers,,0,0,0,caught,GC Smith,MJ Lumb,313023130
+2,South Africa,7,AB de Villiers,GP Swann,JA Morkel,legbyes,1,1,0,,,,313023130
+2,South Africa,7,JA Morkel,GP Swann,AB de Villiers,,0,0,0,,,,313023130
+2,South Africa,8,AB de Villiers,MH Yardy,JA Morkel,,0,1,1,,,,313023130
+2,South Africa,8,JA Morkel,MH Yardy,AB de Villiers,,0,0,0,bowled,JA Morkel,,313023130
+2,South Africa,8,JP Duminy,MH Yardy,AB de Villiers,wides,1,1,0,,,,313023130
+2,South Africa,8,JP Duminy,MH Yardy,AB de Villiers,,0,1,1,,,,313023130
+2,South Africa,8,AB de Villiers,MH Yardy,JP Duminy,,0,1,1,,,,313023130
+2,South Africa,8,JP Duminy,MH Yardy,AB de Villiers,,0,0,0,,,,313023130
+2,South Africa,8,JP Duminy,MH Yardy,AB de Villiers,,0,1,1,,,,313023130
+2,South Africa,9,JP Duminy,GP Swann,AB de Villiers,,0,1,1,,,,313023130
+2,South Africa,9,AB de Villiers,GP Swann,JP Duminy,,0,0,0,,,,313023130
+2,South Africa,9,AB de Villiers,GP Swann,JP Duminy,,0,0,0,,,,313023130
+2,South Africa,9,AB de Villiers,GP Swann,JP Duminy,,0,2,2,,,,313023130
+2,South Africa,9,AB de Villiers,GP Swann,JP Duminy,,0,0,0,caught,AB de Villiers,PD Collingwood,313023130
+2,South Africa,9,JP Duminy,GP Swann,MV Boucher,,0,2,2,,,,313023130
+2,South Africa,10,MV Boucher,MH Yardy,JP Duminy,,0,1,1,,,,313023130
+2,South Africa,10,JP Duminy,MH Yardy,MV Boucher,,0,6,6,,,,313023130
+2,South Africa,10,JP Duminy,MH Yardy,MV Boucher,,0,1,1,,,,313023130
+2,South Africa,10,MV Boucher,MH Yardy,JP Duminy,,0,2,2,,,,313023130
+2,South Africa,10,MV Boucher,MH Yardy,JP Duminy,,0,1,1,,,,313023130
+2,South Africa,10,JP Duminy,MH Yardy,MV Boucher,,0,1,1,,,,313023130
+2,South Africa,11,JP Duminy,GP Swann,MV Boucher,,0,1,1,,,,313023130
+2,South Africa,11,MV Boucher,GP Swann,JP Duminy,wides,1,1,0,,,,313023130
+2,South Africa,11,MV Boucher,GP Swann,JP Duminy,,0,1,1,,,,313023130
+2,South Africa,11,JP Duminy,GP Swann,MV Boucher,,0,1,1,,,,313023130
+2,South Africa,11,MV Boucher,GP Swann,JP Duminy,,0,0,0,,,,313023130
+2,South Africa,11,MV Boucher,GP Swann,JP Duminy,,0,1,1,,,,313023130
+2,South Africa,11,JP Duminy,GP Swann,MV Boucher,,0,1,1,,,,313023130
+2,South Africa,12,JP Duminy,MH Yardy,MV Boucher,wides,2,2,0,,,,313023130
+2,South Africa,12,MV Boucher,MH Yardy,JP Duminy,,0,1,1,,,,313023130
+2,South Africa,12,JP Duminy,MH Yardy,MV Boucher,,0,4,4,,,,313023130
+2,South Africa,12,JP Duminy,MH Yardy,MV Boucher,,0,1,1,,,,313023130
+2,South Africa,12,MV Boucher,MH Yardy,JP Duminy,,0,0,0,,,,313023130
+2,South Africa,12,MV Boucher,MH Yardy,JP Duminy,,0,0,0,,,,313023130
+2,South Africa,12,MV Boucher,MH Yardy,JP Duminy,,0,2,2,,,,313023130
+2,South Africa,13,JP Duminy,GP Swann,MV Boucher,,0,6,6,,,,313023130
+2,South Africa,13,JP Duminy,GP Swann,MV Boucher,,0,1,1,,,,313023130
+2,South Africa,13,MV Boucher,GP Swann,JP Duminy,,0,0,0,caught,MV Boucher,EJG Morgan,313023130
+2,South Africa,13,JP Duminy,GP Swann,J Botha,,0,1,1,,,,313023130
+2,South Africa,13,J Botha,GP Swann,JP Duminy,,0,0,0,,,,313023130
+2,South Africa,13,J Botha,GP Swann,JP Duminy,,0,1,1,,,,313023130
+2,South Africa,14,J Botha,RJ Sidebottom,JP Duminy,,0,0,0,,,,313023130
+2,South Africa,14,J Botha,RJ Sidebottom,JP Duminy,,0,1,1,,,,313023130
+2,South Africa,14,JP Duminy,RJ Sidebottom,J Botha,legbyes,1,1,0,,,,313023130
+2,South Africa,14,J Botha,RJ Sidebottom,JP Duminy,,0,1,1,,,,313023130
+2,South Africa,14,JP Duminy,RJ Sidebottom,J Botha,,0,2,2,,,,313023130
+2,South Africa,14,JP Duminy,RJ Sidebottom,J Botha,byes,1,1,0,,,,313023130
+2,South Africa,15,JP Duminy,SCJ Broad,J Botha,,0,4,4,,,,313023130
+2,South Africa,15,JP Duminy,SCJ Broad,J Botha,legbyes,4,4,0,,,,313023130
+2,South Africa,15,JP Duminy,SCJ Broad,J Botha,,0,2,2,,,,313023130
+2,South Africa,15,JP Duminy,SCJ Broad,J Botha,,0,1,1,,,,313023130
+2,South Africa,15,J Botha,SCJ Broad,JP Duminy,legbyes,1,1,0,,,,313023130
+2,South Africa,15,JP Duminy,SCJ Broad,J Botha,,0,1,1,,,,313023130
+2,South Africa,16,JP Duminy,RJ Sidebottom,J Botha,,0,0,0,caught,JP Duminy,MH Yardy,313023130
+2,South Africa,16,DW Steyn,RJ Sidebottom,J Botha,,0,1,1,,,,313023130
+2,South Africa,16,J Botha,RJ Sidebottom,DW Steyn,,0,6,6,,,,313023130
+2,South Africa,16,J Botha,RJ Sidebottom,DW Steyn,,0,0,0,,,,313023130
+2,South Africa,16,J Botha,RJ Sidebottom,DW Steyn,,0,1,1,,,,313023130
+2,South Africa,16,DW Steyn,RJ Sidebottom,J Botha,,0,3,3,,,,313023130
+2,South Africa,17,DW Steyn,SCJ Broad,J Botha,,0,1,1,,,,313023130
+2,South Africa,17,J Botha,SCJ Broad,DW Steyn,,0,1,1,,,,313023130
+2,South Africa,17,DW Steyn,SCJ Broad,J Botha,wides,1,1,0,,,,313023130
+2,South Africa,17,DW Steyn,SCJ Broad,J Botha,,0,0,0,,,,313023130
+2,South Africa,17,DW Steyn,SCJ Broad,J Botha,,0,0,0,,,,313023130
+2,South Africa,17,DW Steyn,SCJ Broad,J Botha,,0,0,0,caught,DW Steyn,EJG Morgan,313023130
+2,South Africa,17,J Botha,SCJ Broad,M Morkel,,0,1,1,,,,313023130
+2,South Africa,18,J Botha,RJ Sidebottom,M Morkel,,0,0,0,caught and bowled,J Botha,,313023130
+2,South Africa,18,CK Langeveldt,RJ Sidebottom,M Morkel,,0,1,1,,,,313023130
+2,South Africa,18,M Morkel,RJ Sidebottom,CK Langeveldt,,0,1,1,,,,313023130
+2,South Africa,18,CK Langeveldt,RJ Sidebottom,M Morkel,,0,0,0,,,,313023130
+2,South Africa,18,CK Langeveldt,RJ Sidebottom,M Morkel,,0,1,1,,,,313023130
+2,South Africa,18,M Morkel,RJ Sidebottom,CK Langeveldt,,0,0,0,bowled,M Morkel,,313023130

@@ -1,0 +1,107 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Australia,0,DA Warner,C Karunaratne,AJ Finch,,0,1,1,,,,31647231647
+2,Australia,0,AJ Finch,C Karunaratne,DA Warner,,0,0,0,,,,31647231647
+2,Australia,0,AJ Finch,C Karunaratne,DA Warner,,0,4,4,,,,31647231647
+2,Australia,0,AJ Finch,C Karunaratne,DA Warner,,0,0,0,,,,31647231647
+2,Australia,0,AJ Finch,C Karunaratne,DA Warner,,0,4,4,,,,31647231647
+2,Australia,0,AJ Finch,C Karunaratne,DA Warner,,0,0,0,,,,31647231647
+2,Australia,1,DA Warner,M Theekshana,AJ Finch,,0,0,0,,,,31647231647
+2,Australia,1,DA Warner,M Theekshana,AJ Finch,,0,4,4,,,,31647231647
+2,Australia,1,DA Warner,M Theekshana,AJ Finch,,0,1,1,,,,31647231647
+2,Australia,1,AJ Finch,M Theekshana,DA Warner,,0,0,0,,,,31647231647
+2,Australia,1,AJ Finch,M Theekshana,DA Warner,,0,1,1,,,,31647231647
+2,Australia,1,DA Warner,M Theekshana,AJ Finch,,0,0,0,,,,31647231647
+2,Australia,2,AJ Finch,PVD Chameera,DA Warner,,0,4,4,,,,31647231647
+2,Australia,2,AJ Finch,PVD Chameera,DA Warner,,0,0,0,,,,31647231647
+2,Australia,2,AJ Finch,PVD Chameera,DA Warner,,0,1,1,,,,31647231647
+2,Australia,2,DA Warner,PVD Chameera,AJ Finch,,0,2,2,,,,31647231647
+2,Australia,2,DA Warner,PVD Chameera,AJ Finch,,0,1,1,,,,31647231647
+2,Australia,2,AJ Finch,PVD Chameera,DA Warner,,0,0,0,,,,31647231647
+2,Australia,3,DA Warner,CBRLS Kumara,AJ Finch,,0,1,1,,,,31647231647
+2,Australia,3,AJ Finch,CBRLS Kumara,DA Warner,,0,4,4,,,,31647231647
+2,Australia,3,AJ Finch,CBRLS Kumara,DA Warner,,0,6,6,,,,31647231647
+2,Australia,3,AJ Finch,CBRLS Kumara,DA Warner,,0,1,1,,,,31647231647
+2,Australia,3,DA Warner,CBRLS Kumara,AJ Finch,,0,4,4,,,,31647231647
+2,Australia,3,DA Warner,CBRLS Kumara,AJ Finch,,0,4,4,,,,31647231647
+2,Australia,4,AJ Finch,PVD Chameera,DA Warner,,0,6,6,,,,31647231647
+2,Australia,4,AJ Finch,PVD Chameera,DA Warner,,0,4,4,,,,31647231647
+2,Australia,4,AJ Finch,PVD Chameera,DA Warner,,0,1,1,,,,31647231647
+2,Australia,4,DA Warner,PVD Chameera,AJ Finch,,0,0,0,,,,31647231647
+2,Australia,4,DA Warner,PVD Chameera,AJ Finch,,0,1,1,,,,31647231647
+2,Australia,4,AJ Finch,PVD Chameera,DA Warner,noballs,1,1,0,,,,31647231647
+2,Australia,4,AJ Finch,PVD Chameera,DA Warner,,0,0,0,,,,31647231647
+2,Australia,5,DA Warner,M Theekshana,AJ Finch,,0,1,1,,,,31647231647
+2,Australia,5,AJ Finch,M Theekshana,DA Warner,,0,1,1,,,,31647231647
+2,Australia,5,DA Warner,M Theekshana,AJ Finch,,0,0,0,,,,31647231647
+2,Australia,5,DA Warner,M Theekshana,AJ Finch,,0,4,4,,,,31647231647
+2,Australia,5,DA Warner,M Theekshana,AJ Finch,,0,1,1,,,,31647231647
+2,Australia,5,AJ Finch,M Theekshana,DA Warner,,0,0,0,,,,31647231647
+2,Australia,6,DA Warner,PWH de Silva,AJ Finch,,0,4,4,,,,31647231647
+2,Australia,6,DA Warner,PWH de Silva,AJ Finch,,0,2,2,,,,31647231647
+2,Australia,6,DA Warner,PWH de Silva,AJ Finch,,0,1,1,,,,31647231647
+2,Australia,6,AJ Finch,PWH de Silva,DA Warner,,0,0,0,,,,31647231647
+2,Australia,6,AJ Finch,PWH de Silva,DA Warner,,0,0,0,bowled,AJ Finch,,31647231647
+2,Australia,6,GJ Maxwell,PWH de Silva,DA Warner,,0,0,0,,,,31647231647
+2,Australia,7,DA Warner,M Theekshana,GJ Maxwell,,0,0,0,,,,31647231647
+2,Australia,7,DA Warner,M Theekshana,GJ Maxwell,,0,0,0,,,,31647231647
+2,Australia,7,DA Warner,M Theekshana,GJ Maxwell,,0,4,4,,,,31647231647
+2,Australia,7,DA Warner,M Theekshana,GJ Maxwell,,0,1,1,,,,31647231647
+2,Australia,7,GJ Maxwell,M Theekshana,DA Warner,,0,0,0,,,,31647231647
+2,Australia,7,GJ Maxwell,M Theekshana,DA Warner,,0,1,1,,,,31647231647
+2,Australia,8,GJ Maxwell,PWH de Silva,DA Warner,,0,4,4,,,,31647231647
+2,Australia,8,GJ Maxwell,PWH de Silva,DA Warner,,0,0,0,,,,31647231647
+2,Australia,8,GJ Maxwell,PWH de Silva,DA Warner,,0,0,0,caught,GJ Maxwell,WIA Fernando,31647231647
+2,Australia,8,DA Warner,PWH de Silva,SPD Smith,,0,1,1,,,,31647231647
+2,Australia,8,SPD Smith,PWH de Silva,DA Warner,,0,0,0,,,,31647231647
+2,Australia,8,SPD Smith,PWH de Silva,DA Warner,,0,1,1,,,,31647231647
+2,Australia,9,SPD Smith,CBRLS Kumara,DA Warner,,0,1,1,,,,31647231647
+2,Australia,9,DA Warner,CBRLS Kumara,SPD Smith,,0,1,1,,,,31647231647
+2,Australia,9,SPD Smith,CBRLS Kumara,DA Warner,,0,4,4,,,,31647231647
+2,Australia,9,SPD Smith,CBRLS Kumara,DA Warner,,0,2,2,,,,31647231647
+2,Australia,9,SPD Smith,CBRLS Kumara,DA Warner,,0,1,1,,,,31647231647
+2,Australia,9,DA Warner,CBRLS Kumara,SPD Smith,,0,4,4,,,,31647231647
+2,Australia,10,SPD Smith,PWH de Silva,DA Warner,,0,1,1,,,,31647231647
+2,Australia,10,DA Warner,PWH de Silva,SPD Smith,,0,1,1,,,,31647231647
+2,Australia,10,SPD Smith,PWH de Silva,DA Warner,,0,0,0,,,,31647231647
+2,Australia,10,SPD Smith,PWH de Silva,DA Warner,,0,0,0,,,,31647231647
+2,Australia,10,SPD Smith,PWH de Silva,DA Warner,noballs,1,1,0,,,,31647231647
+2,Australia,10,SPD Smith,PWH de Silva,DA Warner,,0,1,1,,,,31647231647
+2,Australia,10,DA Warner,PWH de Silva,SPD Smith,,0,1,1,,,,31647231647
+2,Australia,11,DA Warner,M Theekshana,SPD Smith,,0,4,4,,,,31647231647
+2,Australia,11,DA Warner,M Theekshana,SPD Smith,,0,0,0,,,,31647231647
+2,Australia,11,DA Warner,M Theekshana,SPD Smith,,0,1,1,,,,31647231647
+2,Australia,11,SPD Smith,M Theekshana,DA Warner,,0,1,1,,,,31647231647
+2,Australia,11,DA Warner,M Theekshana,SPD Smith,,0,2,2,,,,31647231647
+2,Australia,11,DA Warner,M Theekshana,SPD Smith,,0,0,0,,,,31647231647
+2,Australia,12,SPD Smith,PWH de Silva,DA Warner,,0,1,1,,,,31647231647
+2,Australia,12,DA Warner,PWH de Silva,SPD Smith,,0,1,1,,,,31647231647
+2,Australia,12,SPD Smith,PWH de Silva,DA Warner,,0,0,0,,,,31647231647
+2,Australia,12,SPD Smith,PWH de Silva,DA Warner,,0,1,1,,,,31647231647
+2,Australia,12,DA Warner,PWH de Silva,SPD Smith,,0,1,1,,,,31647231647
+2,Australia,12,SPD Smith,PWH de Silva,DA Warner,,0,0,0,,,,31647231647
+2,Australia,13,DA Warner,PVD Chameera,SPD Smith,,0,1,1,,,,31647231647
+2,Australia,13,SPD Smith,PVD Chameera,DA Warner,,0,1,1,,,,31647231647
+2,Australia,13,DA Warner,PVD Chameera,SPD Smith,,0,4,4,,,,31647231647
+2,Australia,13,DA Warner,PVD Chameera,SPD Smith,,0,4,4,,,,31647231647
+2,Australia,13,DA Warner,PVD Chameera,SPD Smith,,0,1,1,,,,31647231647
+2,Australia,13,SPD Smith,PVD Chameera,DA Warner,,0,1,1,,,,31647231647
+2,Australia,14,SPD Smith,MD Shanaka,DA Warner,,0,1,1,,,,31647231647
+2,Australia,14,DA Warner,MD Shanaka,SPD Smith,,0,1,1,,,,31647231647
+2,Australia,14,SPD Smith,MD Shanaka,DA Warner,,0,2,2,,,,31647231647
+2,Australia,14,SPD Smith,MD Shanaka,DA Warner,,0,1,1,,,,31647231647
+2,Australia,14,DA Warner,MD Shanaka,SPD Smith,,0,0,0,,,,31647231647
+2,Australia,14,DA Warner,MD Shanaka,SPD Smith,wides,1,1,0,,,,31647231647
+2,Australia,14,DA Warner,MD Shanaka,SPD Smith,,0,0,0,caught,DA Warner,PBB Rajapaksa,31647231647
+2,Australia,15,SPD Smith,C Karunaratne,MP Stoinis,,0,1,1,,,,31647231647
+2,Australia,15,MP Stoinis,C Karunaratne,SPD Smith,,0,0,0,,,,31647231647
+2,Australia,15,MP Stoinis,C Karunaratne,SPD Smith,,0,4,4,,,,31647231647
+2,Australia,15,MP Stoinis,C Karunaratne,SPD Smith,,0,1,1,,,,31647231647
+2,Australia,15,SPD Smith,C Karunaratne,MP Stoinis,wides,1,1,0,,,,31647231647
+2,Australia,15,SPD Smith,C Karunaratne,MP Stoinis,,0,2,2,,,,31647231647
+2,Australia,15,SPD Smith,C Karunaratne,MP Stoinis,,0,1,1,,,,31647231647
+2,Australia,16,SPD Smith,CBRLS Kumara,MP Stoinis,,0,3,3,,,,31647231647
+2,Australia,16,MP Stoinis,CBRLS Kumara,SPD Smith,,0,0,0,,,,31647231647
+2,Australia,16,MP Stoinis,CBRLS Kumara,SPD Smith,,0,6,6,,,,31647231647
+2,Australia,16,MP Stoinis,CBRLS Kumara,SPD Smith,,0,1,1,,,,31647231647
+2,Australia,16,SPD Smith,CBRLS Kumara,MP Stoinis,,0,1,1,,,,31647231647
+2,Australia,16,MP Stoinis,CBRLS Kumara,SPD Smith,,0,4,4,,,,31647231647

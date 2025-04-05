@@ -1,0 +1,114 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Namibia,0,A van der Merwe,KE Bryce,KA Green,wides,1,1,0,,,,31215231215
+1,Namibia,0,A van der Merwe,KE Bryce,KA Green,,0,0,0,,,,31215231215
+1,Namibia,0,A van der Merwe,KE Bryce,KA Green,,0,0,0,,,,31215231215
+1,Namibia,0,A van der Merwe,KE Bryce,KA Green,,0,2,2,,,,31215231215
+1,Namibia,0,A van der Merwe,KE Bryce,KA Green,,0,0,0,,,,31215231215
+1,Namibia,0,A van der Merwe,KE Bryce,KA Green,,0,0,0,,,,31215231215
+1,Namibia,0,A van der Merwe,KE Bryce,KA Green,,0,0,0,,,,31215231215
+1,Namibia,1,KA Green,RV Scholes,A van der Merwe,,0,1,1,,,,31215231215
+1,Namibia,1,A van der Merwe,RV Scholes,KA Green,,0,2,2,,,,31215231215
+1,Namibia,1,A van der Merwe,RV Scholes,KA Green,,0,0,0,,,,31215231215
+1,Namibia,1,A van der Merwe,RV Scholes,KA Green,,0,1,1,,,,31215231215
+1,Namibia,1,KA Green,RV Scholes,A van der Merwe,,0,0,0,,,,31215231215
+1,Namibia,1,KA Green,RV Scholes,A van der Merwe,,0,1,1,,,,31215231215
+1,Namibia,2,KA Green,KE Bryce,A van der Merwe,,0,0,0,caught and bowled,KA Green,,31215231215
+1,Namibia,2,MP Enright,KE Bryce,A van der Merwe,,0,0,0,,,,31215231215
+1,Namibia,2,MP Enright,KE Bryce,A van der Merwe,,0,0,0,,,,31215231215
+1,Namibia,2,MP Enright,KE Bryce,A van der Merwe,,0,0,0,,,,31215231215
+1,Namibia,2,MP Enright,KE Bryce,A van der Merwe,,0,0,0,,,,31215231215
+1,Namibia,2,MP Enright,KE Bryce,A van der Merwe,,0,0,0,,,,31215231215
+1,Namibia,3,A van der Merwe,RV Scholes,MP Enright,,0,0,0,,,,31215231215
+1,Namibia,3,A van der Merwe,RV Scholes,MP Enright,,0,0,0,,,,31215231215
+1,Namibia,3,A van der Merwe,RV Scholes,MP Enright,,0,0,0,,,,31215231215
+1,Namibia,3,A van der Merwe,RV Scholes,MP Enright,,0,0,0,bowled,A van der Merwe,,31215231215
+1,Namibia,3,Yasmeen Khan,RV Scholes,MP Enright,,0,0,0,,,,31215231215
+1,Namibia,3,Yasmeen Khan,RV Scholes,MP Enright,,0,0,0,,,,31215231215
+1,Namibia,4,MP Enright,AH Maqsood,Yasmeen Khan,,0,0,0,,,,31215231215
+1,Namibia,4,MP Enright,AH Maqsood,Yasmeen Khan,,0,2,2,,,,31215231215
+1,Namibia,4,MP Enright,AH Maqsood,Yasmeen Khan,,0,1,1,,,,31215231215
+1,Namibia,4,Yasmeen Khan,AH Maqsood,MP Enright,,0,0,0,,,,31215231215
+1,Namibia,4,Yasmeen Khan,AH Maqsood,MP Enright,,0,0,0,,,,31215231215
+1,Namibia,4,Yasmeen Khan,AH Maqsood,MP Enright,,0,1,1,,,,31215231215
+1,Namibia,5,Yasmeen Khan,RV Scholes,MP Enright,,0,0,0,,,,31215231215
+1,Namibia,5,Yasmeen Khan,RV Scholes,MP Enright,,0,0,0,,,,31215231215
+1,Namibia,5,Yasmeen Khan,RV Scholes,MP Enright,,0,1,1,,,,31215231215
+1,Namibia,5,MP Enright,RV Scholes,Yasmeen Khan,,0,1,1,,,,31215231215
+1,Namibia,5,Yasmeen Khan,RV Scholes,MP Enright,,0,0,0,,,,31215231215
+1,Namibia,5,Yasmeen Khan,RV Scholes,MP Enright,,0,1,1,,,,31215231215
+1,Namibia,6,Yasmeen Khan,AH Maqsood,MP Enright,wides,3,3,0,,,,31215231215
+1,Namibia,6,Yasmeen Khan,AH Maqsood,MP Enright,,0,0,0,,,,31215231215
+1,Namibia,6,Yasmeen Khan,AH Maqsood,MP Enright,,0,4,4,,,,31215231215
+1,Namibia,6,Yasmeen Khan,AH Maqsood,MP Enright,,0,1,1,,,,31215231215
+1,Namibia,6,MP Enright,AH Maqsood,Yasmeen Khan,,0,0,0,,,,31215231215
+1,Namibia,6,MP Enright,AH Maqsood,Yasmeen Khan,,0,0,0,,,,31215231215
+1,Namibia,6,MP Enright,AH Maqsood,Yasmeen Khan,,0,1,1,,,,31215231215
+1,Namibia,7,MP Enright,K Fraser,Yasmeen Khan,,0,0,0,,,,31215231215
+1,Namibia,7,MP Enright,K Fraser,Yasmeen Khan,,0,0,0,,,,31215231215
+1,Namibia,7,MP Enright,K Fraser,Yasmeen Khan,,0,0,0,,,,31215231215
+1,Namibia,7,MP Enright,K Fraser,Yasmeen Khan,,0,1,1,,,,31215231215
+1,Namibia,7,Yasmeen Khan,K Fraser,MP Enright,,0,0,0,,,,31215231215
+1,Namibia,7,Yasmeen Khan,K Fraser,MP Enright,,0,1,1,,,,31215231215
+1,Namibia,8,Yasmeen Khan,AH Maqsood,MP Enright,,0,0,0,,,,31215231215
+1,Namibia,8,Yasmeen Khan,AH Maqsood,MP Enright,,0,1,1,,,,31215231215
+1,Namibia,8,MP Enright,AH Maqsood,Yasmeen Khan,,0,0,0,,,,31215231215
+1,Namibia,8,MP Enright,AH Maqsood,Yasmeen Khan,,0,1,1,,,,31215231215
+1,Namibia,8,Yasmeen Khan,AH Maqsood,MP Enright,,0,0,0,caught,Yasmeen Khan,SJ Bryce,31215231215
+1,Namibia,8,MP Enright,AH Maqsood,SA Wittmann,,0,1,1,,,,31215231215
+1,Namibia,9,MP Enright,K Fraser,SA Wittmann,,0,1,1,,,,31215231215
+1,Namibia,9,SA Wittmann,K Fraser,MP Enright,,0,1,1,,,,31215231215
+1,Namibia,9,MP Enright,K Fraser,SA Wittmann,,0,0,0,lbw,MP Enright,,31215231215
+1,Namibia,9,I van Zyl,K Fraser,SA Wittmann,,0,0,0,,,,31215231215
+1,Namibia,9,I van Zyl,K Fraser,SA Wittmann,,0,1,1,,,,31215231215
+1,Namibia,9,SA Wittmann,K Fraser,I van Zyl,,0,1,1,,,,31215231215
+1,Namibia,10,SA Wittmann,AH Maqsood,I van Zyl,,0,0,0,,,,31215231215
+1,Namibia,10,SA Wittmann,AH Maqsood,I van Zyl,,0,1,1,,,,31215231215
+1,Namibia,10,I van Zyl,AH Maqsood,SA Wittmann,,0,0,0,,,,31215231215
+1,Namibia,10,I van Zyl,AH Maqsood,SA Wittmann,,0,1,1,,,,31215231215
+1,Namibia,10,SA Wittmann,AH Maqsood,I van Zyl,,0,0,0,,,,31215231215
+1,Namibia,10,SA Wittmann,AH Maqsood,I van Zyl,,0,0,0,,,,31215231215
+1,Namibia,11,I van Zyl,K Fraser,SA Wittmann,wides,2,2,0,,,,31215231215
+1,Namibia,11,SA Wittmann,K Fraser,I van Zyl,,0,1,1,,,,31215231215
+1,Namibia,11,I van Zyl,K Fraser,SA Wittmann,,0,0,0,,,,31215231215
+1,Namibia,11,I van Zyl,K Fraser,SA Wittmann,,0,0,0,,,,31215231215
+1,Namibia,11,I van Zyl,K Fraser,SA Wittmann,,0,1,1,,,,31215231215
+1,Namibia,11,SA Wittmann,K Fraser,I van Zyl,,0,4,4,,,,31215231215
+1,Namibia,11,SA Wittmann,K Fraser,I van Zyl,,0,1,1,,,,31215231215
+1,Namibia,12,SA Wittmann,HRA Rainey,I van Zyl,,0,0,0,,,,31215231215
+1,Namibia,12,SA Wittmann,HRA Rainey,I van Zyl,,0,0,0,caught,SA Wittmann,RV Scholes,31215231215
+1,Namibia,12,I van Zyl,HRA Rainey,D Foerster,,0,1,1,,,,31215231215
+1,Namibia,12,D Foerster,HRA Rainey,I van Zyl,,0,1,1,,,,31215231215
+1,Namibia,12,I van Zyl,HRA Rainey,D Foerster,wides,1,1,0,,,,31215231215
+1,Namibia,12,I van Zyl,HRA Rainey,D Foerster,,0,1,1,,,,31215231215
+1,Namibia,12,D Foerster,HRA Rainey,I van Zyl,,0,0,0,,,,31215231215
+1,Namibia,13,I van Zyl,K Fraser,D Foerster,,0,0,0,,,,31215231215
+1,Namibia,13,I van Zyl,K Fraser,D Foerster,,0,1,1,,,,31215231215
+1,Namibia,13,D Foerster,K Fraser,I van Zyl,,0,0,0,bowled,D Foerster,,31215231215
+1,Namibia,13,W Mwatile,K Fraser,I van Zyl,,0,0,0,,,,31215231215
+1,Namibia,13,W Mwatile,K Fraser,I van Zyl,,0,0,0,,,,31215231215
+1,Namibia,13,W Mwatile,K Fraser,I van Zyl,,0,0,0,,,,31215231215
+1,Namibia,14,I van Zyl,HRA Rainey,W Mwatile,,0,1,1,run out,W Mwatile,,31215231215
+1,Namibia,14,I van Zyl,HRA Rainey,Reehana Khan,,0,1,1,,,,31215231215
+1,Namibia,14,Reehana Khan,HRA Rainey,I van Zyl,,0,0,0,,,,31215231215
+1,Namibia,14,Reehana Khan,HRA Rainey,I van Zyl,,0,1,1,,,,31215231215
+1,Namibia,14,I van Zyl,HRA Rainey,Reehana Khan,,0,1,1,,,,31215231215
+1,Namibia,14,Reehana Khan,HRA Rainey,I van Zyl,,0,0,0,,,,31215231215
+1,Namibia,15,I van Zyl,RV Scholes,Reehana Khan,,0,0,0,,,,31215231215
+1,Namibia,15,I van Zyl,RV Scholes,Reehana Khan,,0,0,0,,,,31215231215
+1,Namibia,15,I van Zyl,RV Scholes,Reehana Khan,,0,1,1,,,,31215231215
+1,Namibia,15,Reehana Khan,RV Scholes,I van Zyl,,0,0,0,bowled,Reehana Khan,,31215231215
+1,Namibia,15,SN Shihepo,RV Scholes,I van Zyl,,0,0,0,,,,31215231215
+1,Namibia,15,SN Shihepo,RV Scholes,I van Zyl,,0,0,0,,,,31215231215
+1,Namibia,16,I van Zyl,KE Bryce,SN Shihepo,,0,2,2,,,,31215231215
+1,Namibia,16,I van Zyl,KE Bryce,SN Shihepo,,0,1,1,,,,31215231215
+1,Namibia,16,SN Shihepo,KE Bryce,I van Zyl,,0,0,0,caught,SN Shihepo,K McGill,31215231215
+1,Namibia,16,V Hamunyela,KE Bryce,I van Zyl,,0,0,0,,,,31215231215
+1,Namibia,16,V Hamunyela,KE Bryce,I van Zyl,,0,0,0,,,,31215231215
+1,Namibia,16,V Hamunyela,KE Bryce,I van Zyl,,0,0,0,,,,31215231215
+1,Namibia,17,I van Zyl,K McGill,V Hamunyela,,0,1,1,,,,31215231215
+1,Namibia,17,V Hamunyela,K McGill,I van Zyl,wides,1,1,0,,,,31215231215
+1,Namibia,17,V Hamunyela,K McGill,I van Zyl,noballs,1,2,1,,,,31215231215
+1,Namibia,17,I van Zyl,K McGill,V Hamunyela,,0,1,1,,,,31215231215
+1,Namibia,17,V Hamunyela,K McGill,I van Zyl,,0,4,4,,,,31215231215
+1,Namibia,17,V Hamunyela,K McGill,I van Zyl,wides,1,1,0,,,,31215231215
+1,Namibia,17,V Hamunyela,K McGill,I van Zyl,,0,0,0,bowled,V Hamunyela,,31215231215

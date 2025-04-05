@@ -1,0 +1,131 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,West Indies,0,HK Matthews,C Raack,B Cooper,,0,0,0,,,,31113231113
+1,West Indies,0,HK Matthews,C Raack,B Cooper,,0,0,0,,,,31113231113
+1,West Indies,0,HK Matthews,C Raack,B Cooper,,0,1,1,,,,31113231113
+1,West Indies,0,B Cooper,C Raack,HK Matthews,,0,3,3,,,,31113231113
+1,West Indies,0,HK Matthews,C Raack,B Cooper,,0,4,4,,,,31113231113
+1,West Indies,0,HK Matthews,C Raack,B Cooper,,0,0,0,,,,31113231113
+1,West Indies,1,B Cooper,KJ Garth,HK Matthews,,0,1,1,,,,31113231113
+1,West Indies,1,HK Matthews,KJ Garth,B Cooper,,0,0,0,,,,31113231113
+1,West Indies,1,HK Matthews,KJ Garth,B Cooper,wides,1,1,0,,,,31113231113
+1,West Indies,1,HK Matthews,KJ Garth,B Cooper,wides,1,1,0,,,,31113231113
+1,West Indies,1,HK Matthews,KJ Garth,B Cooper,,0,0,0,,,,31113231113
+1,West Indies,1,HK Matthews,KJ Garth,B Cooper,,0,1,1,,,,31113231113
+1,West Indies,1,B Cooper,KJ Garth,HK Matthews,,0,0,0,,,,31113231113
+1,West Indies,1,B Cooper,KJ Garth,HK Matthews,,0,1,1,,,,31113231113
+1,West Indies,2,B Cooper,L Little,HK Matthews,wides,1,1,0,,,,31113231113
+1,West Indies,2,B Cooper,L Little,HK Matthews,,0,1,1,,,,31113231113
+1,West Indies,2,HK Matthews,L Little,B Cooper,,0,1,1,,,,31113231113
+1,West Indies,2,B Cooper,L Little,HK Matthews,,0,0,0,,,,31113231113
+1,West Indies,2,B Cooper,L Little,HK Matthews,,0,4,4,,,,31113231113
+1,West Indies,2,B Cooper,L Little,HK Matthews,,0,4,4,,,,31113231113
+1,West Indies,2,B Cooper,L Little,HK Matthews,,0,4,4,,,,31113231113
+1,West Indies,3,HK Matthews,KJ Garth,B Cooper,wides,1,1,0,,,,31113231113
+1,West Indies,3,HK Matthews,KJ Garth,B Cooper,,0,0,0,,,,31113231113
+1,West Indies,3,HK Matthews,KJ Garth,B Cooper,,0,1,1,,,,31113231113
+1,West Indies,3,B Cooper,KJ Garth,HK Matthews,,0,2,2,,,,31113231113
+1,West Indies,3,B Cooper,KJ Garth,HK Matthews,,0,0,0,caught and bowled,B Cooper,,31113231113
+1,West Indies,3,SACA King,KJ Garth,HK Matthews,,0,4,4,,,,31113231113
+1,West Indies,3,SACA King,KJ Garth,HK Matthews,,0,1,1,,,,31113231113
+1,West Indies,4,SACA King,S MacMahon,HK Matthews,,0,0,0,,,,31113231113
+1,West Indies,4,SACA King,S MacMahon,HK Matthews,legbyes,1,1,0,,,,31113231113
+1,West Indies,4,HK Matthews,S MacMahon,SACA King,,0,0,0,,,,31113231113
+1,West Indies,4,HK Matthews,S MacMahon,SACA King,,0,1,1,,,,31113231113
+1,West Indies,4,SACA King,S MacMahon,HK Matthews,,0,0,0,,,,31113231113
+1,West Indies,4,SACA King,S MacMahon,HK Matthews,wides,1,1,0,,,,31113231113
+1,West Indies,4,SACA King,S MacMahon,HK Matthews,,0,0,0,,,,31113231113
+1,West Indies,5,HK Matthews,C Raack,SACA King,,0,0,0,,,,31113231113
+1,West Indies,5,HK Matthews,C Raack,SACA King,,0,2,2,,,,31113231113
+1,West Indies,5,HK Matthews,C Raack,SACA King,,0,1,1,,,,31113231113
+1,West Indies,5,SACA King,C Raack,HK Matthews,,0,0,0,,,,31113231113
+1,West Indies,5,SACA King,C Raack,HK Matthews,,0,0,0,,,,31113231113
+1,West Indies,5,SACA King,C Raack,HK Matthews,,0,0,0,,,,31113231113
+1,West Indies,6,HK Matthews,S MacMahon,SACA King,wides,1,1,0,,,,31113231113
+1,West Indies,6,HK Matthews,S MacMahon,SACA King,,0,0,0,,,,31113231113
+1,West Indies,6,HK Matthews,S MacMahon,SACA King,,0,0,0,,,,31113231113
+1,West Indies,6,HK Matthews,S MacMahon,SACA King,,0,0,0,,,,31113231113
+1,West Indies,6,HK Matthews,S MacMahon,SACA King,,0,1,1,,,,31113231113
+1,West Indies,6,SACA King,S MacMahon,HK Matthews,,0,0,0,,,,31113231113
+1,West Indies,6,SACA King,S MacMahon,HK Matthews,,0,0,0,,,,31113231113
+1,West Indies,7,HK Matthews,L Maritz,SACA King,,0,6,6,,,,31113231113
+1,West Indies,7,HK Matthews,L Maritz,SACA King,,0,0,0,,,,31113231113
+1,West Indies,7,HK Matthews,L Maritz,SACA King,,0,1,1,,,,31113231113
+1,West Indies,7,SACA King,L Maritz,HK Matthews,legbyes,1,1,0,,,,31113231113
+1,West Indies,7,HK Matthews,L Maritz,SACA King,,0,2,2,,,,31113231113
+1,West Indies,7,HK Matthews,L Maritz,SACA King,,0,0,0,,,,31113231113
+1,West Indies,8,SACA King,AL Kerrison,HK Matthews,,0,1,1,,,,31113231113
+1,West Indies,8,HK Matthews,AL Kerrison,SACA King,,0,0,0,,,,31113231113
+1,West Indies,8,HK Matthews,AL Kerrison,SACA King,,0,6,6,,,,31113231113
+1,West Indies,8,HK Matthews,AL Kerrison,SACA King,,0,0,0,,,,31113231113
+1,West Indies,8,HK Matthews,AL Kerrison,SACA King,,0,4,4,,,,31113231113
+1,West Indies,8,HK Matthews,AL Kerrison,SACA King,,0,0,0,,,,31113231113
+1,West Indies,9,SACA King,L Maritz,HK Matthews,,0,1,1,,,,31113231113
+1,West Indies,9,HK Matthews,L Maritz,SACA King,,0,1,1,,,,31113231113
+1,West Indies,9,SACA King,L Maritz,HK Matthews,wides,1,1,0,,,,31113231113
+1,West Indies,9,SACA King,L Maritz,HK Matthews,,0,1,1,,,,31113231113
+1,West Indies,9,HK Matthews,L Maritz,SACA King,,0,0,0,bowled,HK Matthews,,31113231113
+1,West Indies,9,SA Campbelle,L Maritz,SACA King,,0,1,1,,,,31113231113
+1,West Indies,9,SACA King,L Maritz,SA Campbelle,,0,1,1,,,,31113231113
+1,West Indies,10,SACA King,AL Kerrison,SA Campbelle,,0,1,1,,,,31113231113
+1,West Indies,10,SA Campbelle,AL Kerrison,SACA King,,0,0,0,,,,31113231113
+1,West Indies,10,SA Campbelle,AL Kerrison,SACA King,,0,1,1,,,,31113231113
+1,West Indies,10,SACA King,AL Kerrison,SA Campbelle,,0,3,3,,,,31113231113
+1,West Indies,10,SA Campbelle,AL Kerrison,SACA King,,0,1,1,,,,31113231113
+1,West Indies,10,SACA King,AL Kerrison,SA Campbelle,,0,1,1,,,,31113231113
+1,West Indies,11,SACA King,L Maritz,SA Campbelle,,0,0,0,,,,31113231113
+1,West Indies,11,SACA King,L Maritz,SA Campbelle,,0,1,1,,,,31113231113
+1,West Indies,11,SA Campbelle,L Maritz,SACA King,,0,1,1,,,,31113231113
+1,West Indies,11,SACA King,L Maritz,SA Campbelle,,0,0,0,,,,31113231113
+1,West Indies,11,SACA King,L Maritz,SA Campbelle,,0,2,2,,,,31113231113
+1,West Indies,11,SACA King,L Maritz,SA Campbelle,,0,0,0,,,,31113231113
+1,West Indies,12,SA Campbelle,L Little,SACA King,,0,0,0,,,,31113231113
+1,West Indies,12,SA Campbelle,L Little,SACA King,,0,1,1,,,,31113231113
+1,West Indies,12,SACA King,L Little,SA Campbelle,,0,4,4,,,,31113231113
+1,West Indies,12,SACA King,L Little,SA Campbelle,,0,2,2,,,,31113231113
+1,West Indies,12,SACA King,L Little,SA Campbelle,,0,4,4,,,,31113231113
+1,West Indies,12,SACA King,L Little,SA Campbelle,wides,3,3,0,,,,31113231113
+1,West Indies,12,SACA King,L Little,SA Campbelle,,0,4,4,,,,31113231113
+1,West Indies,13,SA Campbelle,C Raack,SACA King,,0,4,4,,,,31113231113
+1,West Indies,13,SA Campbelle,C Raack,SACA King,,0,2,2,,,,31113231113
+1,West Indies,13,SA Campbelle,C Raack,SACA King,,0,0,0,,,,31113231113
+1,West Indies,13,SA Campbelle,C Raack,SACA King,,0,1,1,,,,31113231113
+1,West Indies,13,SACA King,C Raack,SA Campbelle,,0,2,2,,,,31113231113
+1,West Indies,13,SACA King,C Raack,SA Campbelle,,0,0,0,,,,31113231113
+1,West Indies,14,SA Campbelle,S MacMahon,SACA King,,0,1,1,,,,31113231113
+1,West Indies,14,SACA King,S MacMahon,SA Campbelle,,0,0,0,,,,31113231113
+1,West Indies,14,SACA King,S MacMahon,SA Campbelle,,0,1,1,,,,31113231113
+1,West Indies,14,SA Campbelle,S MacMahon,SACA King,,0,2,2,,,,31113231113
+1,West Indies,14,SA Campbelle,S MacMahon,SACA King,,0,0,0,,,,31113231113
+1,West Indies,14,SA Campbelle,S MacMahon,SACA King,,0,4,4,,,,31113231113
+1,West Indies,15,SACA King,KJ Garth,SA Campbelle,,0,0,0,caught,SACA King,GH Lewis,31113231113
+1,West Indies,15,SA Campbelle,KJ Garth,CN Nation,,0,0,0,,,,31113231113
+1,West Indies,15,SA Campbelle,KJ Garth,CN Nation,,0,0,0,,,,31113231113
+1,West Indies,15,SA Campbelle,KJ Garth,CN Nation,,0,0,0,bowled,SA Campbelle,,31113231113
+1,West Indies,15,NY McLean,KJ Garth,CN Nation,,0,0,0,,,,31113231113
+1,West Indies,15,NY McLean,KJ Garth,CN Nation,,0,1,1,,,,31113231113
+1,West Indies,16,NY McLean,C Raack,CN Nation,,0,0,0,,,,31113231113
+1,West Indies,16,NY McLean,C Raack,CN Nation,,0,1,1,,,,31113231113
+1,West Indies,16,CN Nation,C Raack,NY McLean,,0,0,0,,,,31113231113
+1,West Indies,16,CN Nation,C Raack,NY McLean,,0,4,4,,,,31113231113
+1,West Indies,16,CN Nation,C Raack,NY McLean,,0,0,0,bowled,CN Nation,,31113231113
+1,West Indies,16,Kycia A Knight,C Raack,NY McLean,,0,1,1,,,,31113231113
+1,West Indies,17,Kycia A Knight,KJ Garth,NY McLean,,0,1,1,,,,31113231113
+1,West Indies,17,NY McLean,KJ Garth,Kycia A Knight,,0,0,0,,,,31113231113
+1,West Indies,17,NY McLean,KJ Garth,Kycia A Knight,,0,1,1,,,,31113231113
+1,West Indies,17,Kycia A Knight,KJ Garth,NY McLean,,0,0,0,,,,31113231113
+1,West Indies,17,Kycia A Knight,KJ Garth,NY McLean,,0,4,4,,,,31113231113
+1,West Indies,17,Kycia A Knight,KJ Garth,NY McLean,,0,1,1,,,,31113231113
+1,West Indies,18,Kycia A Knight,S MacMahon,NY McLean,,0,4,4,,,,31113231113
+1,West Indies,18,Kycia A Knight,S MacMahon,NY McLean,,0,0,0,caught,Kycia A Knight,L Maritz,31113231113
+1,West Indies,18,NY McLean,S MacMahon,SR Taylor,,0,1,1,,,,31113231113
+1,West Indies,18,SR Taylor,S MacMahon,NY McLean,,0,1,1,,,,31113231113
+1,West Indies,18,NY McLean,S MacMahon,SR Taylor,,0,2,2,,,,31113231113
+1,West Indies,18,NY McLean,S MacMahon,SR Taylor,,0,1,1,,,,31113231113
+1,West Indies,19,NY McLean,L Maritz,SR Taylor,,0,0,0,,,,31113231113
+1,West Indies,19,NY McLean,L Maritz,SR Taylor,,0,2,2,,,,31113231113
+1,West Indies,19,NY McLean,L Maritz,SR Taylor,noballs,1,2,1,,,,31113231113
+1,West Indies,19,SR Taylor,L Maritz,NY McLean,,0,1,1,,,,31113231113
+1,West Indies,19,NY McLean,L Maritz,SR Taylor,wides,5,5,0,,,,31113231113
+1,West Indies,19,NY McLean,L Maritz,SR Taylor,,0,2,2,,,,31113231113
+1,West Indies,19,NY McLean,L Maritz,SR Taylor,,0,4,4,,,,31113231113
+1,West Indies,19,NY McLean,L Maritz,SR Taylor,,0,0,0,,,,31113231113

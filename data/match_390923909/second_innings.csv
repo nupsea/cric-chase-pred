@@ -1,0 +1,121 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,South Africa,0,L Lee,KDU Prabodhani,L Wolvaardt,,0,0,0,,,,390923909
+2,South Africa,0,L Lee,KDU Prabodhani,L Wolvaardt,,0,1,1,,,,390923909
+2,South Africa,0,L Wolvaardt,KDU Prabodhani,L Lee,,0,0,0,,,,390923909
+2,South Africa,0,L Wolvaardt,KDU Prabodhani,L Lee,,0,0,0,,,,390923909
+2,South Africa,0,L Wolvaardt,KDU Prabodhani,L Lee,,0,4,4,,,,390923909
+2,South Africa,0,L Wolvaardt,KDU Prabodhani,L Lee,wides,1,1,0,,,,390923909
+2,South Africa,0,L Wolvaardt,KDU Prabodhani,L Lee,,0,0,0,bowled,L Wolvaardt,,390923909
+2,South Africa,1,L Lee,SS Weerakkody,M Kapp,,0,0,0,caught,L Lee,MADD Surangika,390923909
+2,South Africa,1,D van Niekerk,SS Weerakkody,M Kapp,,0,0,0,,,,390923909
+2,South Africa,1,D van Niekerk,SS Weerakkody,M Kapp,,0,4,4,,,,390923909
+2,South Africa,1,D van Niekerk,SS Weerakkody,M Kapp,,0,0,0,,,,390923909
+2,South Africa,1,D van Niekerk,SS Weerakkody,M Kapp,,0,0,0,,,,390923909
+2,South Africa,1,D van Niekerk,SS Weerakkody,M Kapp,,0,0,0,,,,390923909
+2,South Africa,2,M Kapp,KDU Prabodhani,D van Niekerk,,0,0,0,,,,390923909
+2,South Africa,2,M Kapp,KDU Prabodhani,D van Niekerk,,0,0,0,,,,390923909
+2,South Africa,2,M Kapp,KDU Prabodhani,D van Niekerk,,0,0,0,,,,390923909
+2,South Africa,2,M Kapp,KDU Prabodhani,D van Niekerk,,0,0,0,,,,390923909
+2,South Africa,2,M Kapp,KDU Prabodhani,D van Niekerk,,0,0,0,,,,390923909
+2,South Africa,2,M Kapp,KDU Prabodhani,D van Niekerk,,0,4,4,,,,390923909
+2,South Africa,3,D van Niekerk,SS Weerakkody,M Kapp,,0,0,0,,,,390923909
+2,South Africa,3,D van Niekerk,SS Weerakkody,M Kapp,,0,0,0,,,,390923909
+2,South Africa,3,D van Niekerk,SS Weerakkody,M Kapp,,0,1,1,,,,390923909
+2,South Africa,3,M Kapp,SS Weerakkody,D van Niekerk,wides,1,1,0,,,,390923909
+2,South Africa,3,M Kapp,SS Weerakkody,D van Niekerk,,0,0,0,,,,390923909
+2,South Africa,3,M Kapp,SS Weerakkody,D van Niekerk,,0,4,4,,,,390923909
+2,South Africa,3,M Kapp,SS Weerakkody,D van Niekerk,,0,0,0,,,,390923909
+2,South Africa,4,D van Niekerk,KDU Prabodhani,M Kapp,,0,4,4,,,,390923909
+2,South Africa,4,D van Niekerk,KDU Prabodhani,M Kapp,wides,2,2,0,,,,390923909
+2,South Africa,4,M Kapp,KDU Prabodhani,D van Niekerk,,0,0,0,,,,390923909
+2,South Africa,4,M Kapp,KDU Prabodhani,D van Niekerk,,0,0,0,,,,390923909
+2,South Africa,4,M Kapp,KDU Prabodhani,D van Niekerk,,0,0,0,,,,390923909
+2,South Africa,4,M Kapp,KDU Prabodhani,D van Niekerk,,0,0,0,,,,390923909
+2,South Africa,4,M Kapp,KDU Prabodhani,D van Niekerk,,0,1,1,,,,390923909
+2,South Africa,5,M Kapp,BMSM Kumari,D van Niekerk,,0,1,1,,,,390923909
+2,South Africa,5,D van Niekerk,BMSM Kumari,M Kapp,,0,0,0,,,,390923909
+2,South Africa,5,D van Niekerk,BMSM Kumari,M Kapp,,0,0,0,,,,390923909
+2,South Africa,5,D van Niekerk,BMSM Kumari,M Kapp,,0,1,1,,,,390923909
+2,South Africa,5,M Kapp,BMSM Kumari,D van Niekerk,wides,1,1,0,,,,390923909
+2,South Africa,5,M Kapp,BMSM Kumari,D van Niekerk,,0,4,4,,,,390923909
+2,South Africa,5,M Kapp,BMSM Kumari,D van Niekerk,,0,0,0,,,,390923909
+2,South Africa,6,D van Niekerk,SS Weerakkody,M Kapp,,0,0,0,,,,390923909
+2,South Africa,6,D van Niekerk,SS Weerakkody,M Kapp,,0,1,1,,,,390923909
+2,South Africa,6,M Kapp,SS Weerakkody,D van Niekerk,,0,0,0,,,,390923909
+2,South Africa,6,M Kapp,SS Weerakkody,D van Niekerk,,0,1,1,,,,390923909
+2,South Africa,6,D van Niekerk,SS Weerakkody,M Kapp,,0,1,1,,,,390923909
+2,South Africa,6,M Kapp,SS Weerakkody,D van Niekerk,,0,1,1,,,,390923909
+2,South Africa,7,M Kapp,HASD Siriwardene,D van Niekerk,,0,0,0,,,,390923909
+2,South Africa,7,M Kapp,HASD Siriwardene,D van Niekerk,,0,1,1,,,,390923909
+2,South Africa,7,D van Niekerk,HASD Siriwardene,M Kapp,,0,0,0,,,,390923909
+2,South Africa,7,D van Niekerk,HASD Siriwardene,M Kapp,,0,0,0,,,,390923909
+2,South Africa,7,D van Niekerk,HASD Siriwardene,M Kapp,,0,0,0,,,,390923909
+2,South Africa,7,D van Niekerk,HASD Siriwardene,M Kapp,,0,1,1,,,,390923909
+2,South Africa,8,D van Niekerk,OU Ranasinghe,M Kapp,,0,1,1,,,,390923909
+2,South Africa,8,M Kapp,OU Ranasinghe,D van Niekerk,,0,2,2,,,,390923909
+2,South Africa,8,M Kapp,OU Ranasinghe,D van Niekerk,,0,0,0,,,,390923909
+2,South Africa,8,M Kapp,OU Ranasinghe,D van Niekerk,,0,6,6,,,,390923909
+2,South Africa,8,M Kapp,OU Ranasinghe,D van Niekerk,,0,0,0,,,,390923909
+2,South Africa,8,M Kapp,OU Ranasinghe,D van Niekerk,,0,0,0,,,,390923909
+2,South Africa,9,D van Niekerk,HASD Siriwardene,M Kapp,,0,0,0,,,,390923909
+2,South Africa,9,D van Niekerk,HASD Siriwardene,M Kapp,,0,1,1,,,,390923909
+2,South Africa,9,M Kapp,HASD Siriwardene,D van Niekerk,,0,0,0,,,,390923909
+2,South Africa,9,M Kapp,HASD Siriwardene,D van Niekerk,,0,0,0,,,,390923909
+2,South Africa,9,M Kapp,HASD Siriwardene,D van Niekerk,,0,1,1,,,,390923909
+2,South Africa,9,D van Niekerk,HASD Siriwardene,M Kapp,,0,0,0,,,,390923909
+2,South Africa,10,M Kapp,OU Ranasinghe,D van Niekerk,,0,1,1,,,,390923909
+2,South Africa,10,D van Niekerk,OU Ranasinghe,M Kapp,,0,1,1,,,,390923909
+2,South Africa,10,M Kapp,OU Ranasinghe,D van Niekerk,,0,1,1,,,,390923909
+2,South Africa,10,D van Niekerk,OU Ranasinghe,M Kapp,,0,1,1,,,,390923909
+2,South Africa,10,M Kapp,OU Ranasinghe,D van Niekerk,,0,1,1,,,,390923909
+2,South Africa,10,D van Niekerk,OU Ranasinghe,M Kapp,,0,1,1,,,,390923909
+2,South Africa,11,D van Niekerk,NND de Silva,M Kapp,,0,0,0,,,,390923909
+2,South Africa,11,D van Niekerk,NND de Silva,M Kapp,,0,2,2,,,,390923909
+2,South Africa,11,D van Niekerk,NND de Silva,M Kapp,,0,1,1,,,,390923909
+2,South Africa,11,M Kapp,NND de Silva,D van Niekerk,,0,4,4,,,,390923909
+2,South Africa,11,M Kapp,NND de Silva,D van Niekerk,wides,1,1,0,,,,390923909
+2,South Africa,11,M Kapp,NND de Silva,D van Niekerk,,0,0,0,,,,390923909
+2,South Africa,11,M Kapp,NND de Silva,D van Niekerk,,0,1,1,,,,390923909
+2,South Africa,12,M Kapp,AC Jayangani,D van Niekerk,,0,1,1,,,,390923909
+2,South Africa,12,D van Niekerk,AC Jayangani,M Kapp,,0,0,0,,,,390923909
+2,South Africa,12,D van Niekerk,AC Jayangani,M Kapp,,0,1,1,,,,390923909
+2,South Africa,12,M Kapp,AC Jayangani,D van Niekerk,,0,1,1,,,,390923909
+2,South Africa,12,D van Niekerk,AC Jayangani,M Kapp,,0,1,1,,,,390923909
+2,South Africa,12,M Kapp,AC Jayangani,D van Niekerk,,0,1,1,,,,390923909
+2,South Africa,13,M Kapp,HASD Siriwardene,D van Niekerk,,0,0,0,,,,390923909
+2,South Africa,13,M Kapp,HASD Siriwardene,D van Niekerk,,0,0,0,,,,390923909
+2,South Africa,13,M Kapp,HASD Siriwardene,D van Niekerk,,0,0,0,,,,390923909
+2,South Africa,13,M Kapp,HASD Siriwardene,D van Niekerk,,0,1,1,,,,390923909
+2,South Africa,13,D van Niekerk,HASD Siriwardene,M Kapp,,0,1,1,,,,390923909
+2,South Africa,13,M Kapp,HASD Siriwardene,D van Niekerk,,0,0,0,lbw,M Kapp,,390923909
+2,South Africa,14,D van Niekerk,AC Jayangani,M du Preez,wides,1,1,0,,,,390923909
+2,South Africa,14,D van Niekerk,AC Jayangani,M du Preez,,0,0,0,,,,390923909
+2,South Africa,14,D van Niekerk,AC Jayangani,M du Preez,,0,1,1,,,,390923909
+2,South Africa,14,M du Preez,AC Jayangani,D van Niekerk,noballs,1,1,0,,,,390923909
+2,South Africa,14,M du Preez,AC Jayangani,D van Niekerk,,0,1,1,,,,390923909
+2,South Africa,14,D van Niekerk,AC Jayangani,M du Preez,,0,1,1,,,,390923909
+2,South Africa,14,M du Preez,AC Jayangani,D van Niekerk,,0,0,0,,,,390923909
+2,South Africa,14,M du Preez,AC Jayangani,D van Niekerk,,0,1,1,,,,390923909
+2,South Africa,15,M du Preez,HASD Siriwardene,D van Niekerk,,0,0,0,,,,390923909
+2,South Africa,15,M du Preez,HASD Siriwardene,D van Niekerk,,0,0,0,,,,390923909
+2,South Africa,15,M du Preez,HASD Siriwardene,D van Niekerk,,0,0,0,,,,390923909
+2,South Africa,15,M du Preez,HASD Siriwardene,D van Niekerk,,0,4,4,,,,390923909
+2,South Africa,15,M du Preez,HASD Siriwardene,D van Niekerk,,0,1,1,,,,390923909
+2,South Africa,15,D van Niekerk,HASD Siriwardene,M du Preez,,0,1,1,,,,390923909
+2,South Africa,16,D van Niekerk,KDU Prabodhani,M du Preez,,0,0,0,,,,390923909
+2,South Africa,16,D van Niekerk,KDU Prabodhani,M du Preez,,0,0,0,,,,390923909
+2,South Africa,16,D van Niekerk,KDU Prabodhani,M du Preez,,0,1,1,,,,390923909
+2,South Africa,16,M du Preez,KDU Prabodhani,D van Niekerk,,0,4,4,,,,390923909
+2,South Africa,16,M du Preez,KDU Prabodhani,D van Niekerk,,0,0,0,,,,390923909
+2,South Africa,16,M du Preez,KDU Prabodhani,D van Niekerk,,0,0,0,,,,390923909
+2,South Africa,17,D van Niekerk,SS Weerakkody,M du Preez,,0,2,2,,,,390923909
+2,South Africa,17,D van Niekerk,SS Weerakkody,M du Preez,,0,0,0,,,,390923909
+2,South Africa,17,D van Niekerk,SS Weerakkody,M du Preez,,0,2,2,,,,390923909
+2,South Africa,17,D van Niekerk,SS Weerakkody,M du Preez,,0,1,1,,,,390923909
+2,South Africa,17,M du Preez,SS Weerakkody,D van Niekerk,,0,1,1,,,,390923909
+2,South Africa,17,D van Niekerk,SS Weerakkody,M du Preez,wides,1,1,0,,,,390923909
+2,South Africa,17,D van Niekerk,SS Weerakkody,M du Preez,,0,0,0,,,,390923909
+2,South Africa,18,M du Preez,BMSM Kumari,D van Niekerk,wides,1,1,0,,,,390923909
+2,South Africa,18,M du Preez,BMSM Kumari,D van Niekerk,,0,0,0,,,,390923909
+2,South Africa,18,M du Preez,BMSM Kumari,D van Niekerk,,0,0,0,,,,390923909
+2,South Africa,18,M du Preez,BMSM Kumari,D van Niekerk,,0,4,4,,,,390923909

@@ -1,0 +1,128 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,West Indies,0,CH Gayle,M Theekshana,E Lewis,,0,0,0,,,,31660231660
+2,West Indies,0,CH Gayle,M Theekshana,E Lewis,,0,0,0,,,,31660231660
+2,West Indies,0,CH Gayle,M Theekshana,E Lewis,,0,1,1,,,,31660231660
+2,West Indies,0,E Lewis,M Theekshana,CH Gayle,,0,0,0,,,,31660231660
+2,West Indies,0,E Lewis,M Theekshana,CH Gayle,,0,0,0,,,,31660231660
+2,West Indies,0,E Lewis,M Theekshana,CH Gayle,,0,0,0,,,,31660231660
+2,West Indies,1,CH Gayle,B Fernando,E Lewis,,0,0,0,,,,31660231660
+2,West Indies,1,CH Gayle,B Fernando,E Lewis,,0,0,0,caught,CH Gayle,PWH de Silva,31660231660
+2,West Indies,1,N Pooran,B Fernando,E Lewis,,0,1,1,,,,31660231660
+2,West Indies,1,E Lewis,B Fernando,N Pooran,,0,4,4,,,,31660231660
+2,West Indies,1,E Lewis,B Fernando,N Pooran,,0,4,4,,,,31660231660
+2,West Indies,1,E Lewis,B Fernando,N Pooran,,0,0,0,bowled,E Lewis,,31660231660
+2,West Indies,2,N Pooran,M Theekshana,RL Chase,,0,0,0,,,,31660231660
+2,West Indies,2,N Pooran,M Theekshana,RL Chase,,0,4,4,,,,31660231660
+2,West Indies,2,N Pooran,M Theekshana,RL Chase,,0,0,0,,,,31660231660
+2,West Indies,2,N Pooran,M Theekshana,RL Chase,,0,2,2,,,,31660231660
+2,West Indies,2,N Pooran,M Theekshana,RL Chase,,0,3,3,,,,31660231660
+2,West Indies,2,RL Chase,M Theekshana,N Pooran,,0,0,0,,,,31660231660
+2,West Indies,3,N Pooran,B Fernando,RL Chase,,0,4,4,,,,31660231660
+2,West Indies,3,N Pooran,B Fernando,RL Chase,,0,6,6,,,,31660231660
+2,West Indies,3,N Pooran,B Fernando,RL Chase,noballs,1,1,0,,,,31660231660
+2,West Indies,3,N Pooran,B Fernando,RL Chase,,0,4,4,,,,31660231660
+2,West Indies,3,N Pooran,B Fernando,RL Chase,,0,0,0,,,,31660231660
+2,West Indies,3,N Pooran,B Fernando,RL Chase,,0,0,0,,,,31660231660
+2,West Indies,3,N Pooran,B Fernando,RL Chase,,0,0,0,,,,31660231660
+2,West Indies,4,RL Chase,PVD Chameera,N Pooran,,0,0,0,,,,31660231660
+2,West Indies,4,RL Chase,PVD Chameera,N Pooran,,0,4,4,,,,31660231660
+2,West Indies,4,RL Chase,PVD Chameera,N Pooran,,0,0,0,,,,31660231660
+2,West Indies,4,RL Chase,PVD Chameera,N Pooran,,0,1,1,,,,31660231660
+2,West Indies,4,N Pooran,PVD Chameera,RL Chase,,0,0,0,,,,31660231660
+2,West Indies,4,N Pooran,PVD Chameera,RL Chase,,0,4,4,,,,31660231660
+2,West Indies,5,RL Chase,C Karunaratne,N Pooran,,0,0,0,,,,31660231660
+2,West Indies,5,RL Chase,C Karunaratne,N Pooran,,0,4,4,,,,31660231660
+2,West Indies,5,RL Chase,C Karunaratne,N Pooran,,0,0,0,caught,RL Chase,PBB Rajapaksa,31660231660
+2,West Indies,5,SO Hetmyer,C Karunaratne,N Pooran,,0,0,0,,,,31660231660
+2,West Indies,5,SO Hetmyer,C Karunaratne,N Pooran,,0,1,1,,,,31660231660
+2,West Indies,5,N Pooran,C Karunaratne,SO Hetmyer,,0,4,4,,,,31660231660
+2,West Indies,6,SO Hetmyer,MD Shanaka,N Pooran,,0,1,1,,,,31660231660
+2,West Indies,6,N Pooran,MD Shanaka,SO Hetmyer,,0,0,0,,,,31660231660
+2,West Indies,6,N Pooran,MD Shanaka,SO Hetmyer,,0,1,1,,,,31660231660
+2,West Indies,6,SO Hetmyer,MD Shanaka,N Pooran,,0,0,0,,,,31660231660
+2,West Indies,6,SO Hetmyer,MD Shanaka,N Pooran,,0,1,1,,,,31660231660
+2,West Indies,6,N Pooran,MD Shanaka,SO Hetmyer,,0,1,1,,,,31660231660
+2,West Indies,7,N Pooran,M Theekshana,SO Hetmyer,,0,0,0,,,,31660231660
+2,West Indies,7,N Pooran,M Theekshana,SO Hetmyer,,0,1,1,,,,31660231660
+2,West Indies,7,SO Hetmyer,M Theekshana,N Pooran,,0,0,0,,,,31660231660
+2,West Indies,7,SO Hetmyer,M Theekshana,N Pooran,,0,1,1,,,,31660231660
+2,West Indies,7,N Pooran,M Theekshana,SO Hetmyer,,0,1,1,,,,31660231660
+2,West Indies,7,SO Hetmyer,M Theekshana,N Pooran,,0,0,0,,,,31660231660
+2,West Indies,8,N Pooran,C Karunaratne,SO Hetmyer,,0,0,0,,,,31660231660
+2,West Indies,8,N Pooran,C Karunaratne,SO Hetmyer,,0,0,0,,,,31660231660
+2,West Indies,8,N Pooran,C Karunaratne,SO Hetmyer,,0,1,1,,,,31660231660
+2,West Indies,8,SO Hetmyer,C Karunaratne,N Pooran,,0,1,1,,,,31660231660
+2,West Indies,8,N Pooran,C Karunaratne,SO Hetmyer,,0,1,1,,,,31660231660
+2,West Indies,8,SO Hetmyer,C Karunaratne,N Pooran,,0,1,1,,,,31660231660
+2,West Indies,9,SO Hetmyer,M Theekshana,N Pooran,legbyes,1,1,0,,,,31660231660
+2,West Indies,9,N Pooran,M Theekshana,SO Hetmyer,,0,0,0,,,,31660231660
+2,West Indies,9,N Pooran,M Theekshana,SO Hetmyer,wides,1,1,0,,,,31660231660
+2,West Indies,9,N Pooran,M Theekshana,SO Hetmyer,,0,4,4,,,,31660231660
+2,West Indies,9,N Pooran,M Theekshana,SO Hetmyer,,0,1,1,,,,31660231660
+2,West Indies,9,SO Hetmyer,M Theekshana,N Pooran,,0,1,1,,,,31660231660
+2,West Indies,9,N Pooran,M Theekshana,SO Hetmyer,,0,1,1,,,,31660231660
+2,West Indies,10,N Pooran,PWH de Silva,SO Hetmyer,,0,1,1,,,,31660231660
+2,West Indies,10,SO Hetmyer,PWH de Silva,N Pooran,,0,1,1,,,,31660231660
+2,West Indies,10,N Pooran,PWH de Silva,SO Hetmyer,legbyes,1,1,0,,,,31660231660
+2,West Indies,10,SO Hetmyer,PWH de Silva,N Pooran,,0,0,0,,,,31660231660
+2,West Indies,10,SO Hetmyer,PWH de Silva,N Pooran,,0,1,1,,,,31660231660
+2,West Indies,10,N Pooran,PWH de Silva,SO Hetmyer,,0,1,1,,,,31660231660
+2,West Indies,11,N Pooran,PVD Chameera,SO Hetmyer,,0,0,0,caught,N Pooran,DM de Silva,31660231660
+2,West Indies,11,SO Hetmyer,PVD Chameera,AD Russell,,0,6,6,,,,31660231660
+2,West Indies,11,SO Hetmyer,PVD Chameera,AD Russell,,0,0,0,,,,31660231660
+2,West Indies,11,SO Hetmyer,PVD Chameera,AD Russell,,0,4,4,,,,31660231660
+2,West Indies,11,SO Hetmyer,PVD Chameera,AD Russell,,0,1,1,,,,31660231660
+2,West Indies,11,AD Russell,PVD Chameera,SO Hetmyer,,0,1,1,,,,31660231660
+2,West Indies,12,AD Russell,PWH de Silva,SO Hetmyer,,0,0,0,,,,31660231660
+2,West Indies,12,AD Russell,PWH de Silva,SO Hetmyer,,0,1,1,,,,31660231660
+2,West Indies,12,SO Hetmyer,PWH de Silva,AD Russell,,0,2,2,,,,31660231660
+2,West Indies,12,SO Hetmyer,PWH de Silva,AD Russell,,0,2,2,,,,31660231660
+2,West Indies,12,SO Hetmyer,PWH de Silva,AD Russell,,0,0,0,,,,31660231660
+2,West Indies,12,SO Hetmyer,PWH de Silva,AD Russell,,0,0,0,,,,31660231660
+2,West Indies,13,AD Russell,C Karunaratne,SO Hetmyer,,0,0,0,caught and bowled,AD Russell,,31660231660
+2,West Indies,13,SO Hetmyer,C Karunaratne,KA Pollard,,0,4,4,,,,31660231660
+2,West Indies,13,SO Hetmyer,C Karunaratne,KA Pollard,wides,1,1,0,,,,31660231660
+2,West Indies,13,SO Hetmyer,C Karunaratne,KA Pollard,,0,4,4,,,,31660231660
+2,West Indies,13,SO Hetmyer,C Karunaratne,KA Pollard,,0,4,4,,,,31660231660
+2,West Indies,13,SO Hetmyer,C Karunaratne,KA Pollard,,0,0,0,,,,31660231660
+2,West Indies,13,SO Hetmyer,C Karunaratne,KA Pollard,,0,0,0,,,,31660231660
+2,West Indies,14,KA Pollard,PWH de Silva,SO Hetmyer,,0,0,0,bowled,KA Pollard,,31660231660
+2,West Indies,14,JO Holder,PWH de Silva,SO Hetmyer,,0,1,1,,,,31660231660
+2,West Indies,14,SO Hetmyer,PWH de Silva,JO Holder,,0,0,0,,,,31660231660
+2,West Indies,14,SO Hetmyer,PWH de Silva,JO Holder,,0,1,1,,,,31660231660
+2,West Indies,14,JO Holder,PWH de Silva,SO Hetmyer,,0,0,0,,,,31660231660
+2,West Indies,14,JO Holder,PWH de Silva,SO Hetmyer,,0,1,1,,,,31660231660
+2,West Indies,15,JO Holder,MD Shanaka,SO Hetmyer,,0,6,6,,,,31660231660
+2,West Indies,15,JO Holder,MD Shanaka,SO Hetmyer,wides,1,1,0,,,,31660231660
+2,West Indies,15,JO Holder,MD Shanaka,SO Hetmyer,,0,0,0,caught,JO Holder,C Karunaratne,31660231660
+2,West Indies,15,SO Hetmyer,MD Shanaka,DJ Bravo,wides,1,1,0,,,,31660231660
+2,West Indies,15,SO Hetmyer,MD Shanaka,DJ Bravo,,0,1,1,,,,31660231660
+2,West Indies,15,DJ Bravo,MD Shanaka,SO Hetmyer,wides,2,2,0,,,,31660231660
+2,West Indies,15,SO Hetmyer,MD Shanaka,DJ Bravo,,0,1,1,,,,31660231660
+2,West Indies,15,DJ Bravo,MD Shanaka,SO Hetmyer,,0,1,1,,,,31660231660
+2,West Indies,15,SO Hetmyer,MD Shanaka,DJ Bravo,,0,1,1,,,,31660231660
+2,West Indies,16,SO Hetmyer,PWH de Silva,DJ Bravo,,0,0,0,,,,31660231660
+2,West Indies,16,SO Hetmyer,PWH de Silva,DJ Bravo,,0,1,1,,,,31660231660
+2,West Indies,16,DJ Bravo,PWH de Silva,SO Hetmyer,,0,1,1,,,,31660231660
+2,West Indies,16,SO Hetmyer,PWH de Silva,DJ Bravo,,0,4,4,,,,31660231660
+2,West Indies,16,SO Hetmyer,PWH de Silva,DJ Bravo,,0,1,1,,,,31660231660
+2,West Indies,16,DJ Bravo,PWH de Silva,SO Hetmyer,,0,0,0,bowled,DJ Bravo,,31660231660
+2,West Indies,17,SO Hetmyer,PVD Chameera,AJ Hosein,,0,0,0,,,,31660231660
+2,West Indies,17,SO Hetmyer,PVD Chameera,AJ Hosein,,0,4,4,,,,31660231660
+2,West Indies,17,SO Hetmyer,PVD Chameera,AJ Hosein,,0,1,1,,,,31660231660
+2,West Indies,17,AJ Hosein,PVD Chameera,SO Hetmyer,,0,1,1,,,,31660231660
+2,West Indies,17,SO Hetmyer,PVD Chameera,AJ Hosein,,0,0,0,,,,31660231660
+2,West Indies,17,SO Hetmyer,PVD Chameera,AJ Hosein,,0,1,1,,,,31660231660
+2,West Indies,18,SO Hetmyer,C Karunaratne,AJ Hosein,,0,0,0,,,,31660231660
+2,West Indies,18,SO Hetmyer,C Karunaratne,AJ Hosein,wides,1,1,0,,,,31660231660
+2,West Indies,18,SO Hetmyer,C Karunaratne,AJ Hosein,,0,6,6,,,,31660231660
+2,West Indies,18,SO Hetmyer,C Karunaratne,AJ Hosein,,0,6,6,,,,31660231660
+2,West Indies,18,SO Hetmyer,C Karunaratne,AJ Hosein,,0,4,4,,,,31660231660
+2,West Indies,18,SO Hetmyer,C Karunaratne,AJ Hosein,,0,0,0,,,,31660231660
+2,West Indies,18,SO Hetmyer,C Karunaratne,AJ Hosein,byes,1,1,0,,,,31660231660
+2,West Indies,19,SO Hetmyer,PVD Chameera,AJ Hosein,,0,2,2,,,,31660231660
+2,West Indies,19,SO Hetmyer,PVD Chameera,AJ Hosein,,0,0,0,,,,31660231660
+2,West Indies,19,SO Hetmyer,PVD Chameera,AJ Hosein,,0,6,6,,,,31660231660
+2,West Indies,19,SO Hetmyer,PVD Chameera,AJ Hosein,,0,0,0,,,,31660231660
+2,West Indies,19,SO Hetmyer,PVD Chameera,AJ Hosein,,0,4,4,,,,31660231660
+2,West Indies,19,SO Hetmyer,PVD Chameera,AJ Hosein,,0,1,1,,,,31660231660

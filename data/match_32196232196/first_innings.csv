@@ -1,0 +1,122 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Zimbabwe,0,RW Chakabva,FJ Klaassen,CR Ervine,,0,2,2,,,,32196232196
+1,Zimbabwe,0,RW Chakabva,FJ Klaassen,CR Ervine,,0,4,4,,,,32196232196
+1,Zimbabwe,0,RW Chakabva,FJ Klaassen,CR Ervine,,0,1,1,,,,32196232196
+1,Zimbabwe,0,CR Ervine,FJ Klaassen,RW Chakabva,,0,0,0,,,,32196232196
+1,Zimbabwe,0,CR Ervine,FJ Klaassen,RW Chakabva,,0,4,4,,,,32196232196
+1,Zimbabwe,0,CR Ervine,FJ Klaassen,RW Chakabva,,0,1,1,,,,32196232196
+1,Zimbabwe,1,CR Ervine,TJG Pringle,RW Chakabva,,0,0,0,,,,32196232196
+1,Zimbabwe,1,CR Ervine,TJG Pringle,RW Chakabva,,0,1,1,,,,32196232196
+1,Zimbabwe,1,RW Chakabva,TJG Pringle,CR Ervine,,0,0,0,,,,32196232196
+1,Zimbabwe,1,RW Chakabva,TJG Pringle,CR Ervine,,0,6,6,,,,32196232196
+1,Zimbabwe,1,RW Chakabva,TJG Pringle,CR Ervine,,0,1,1,,,,32196232196
+1,Zimbabwe,1,CR Ervine,TJG Pringle,RW Chakabva,,0,4,4,,,,32196232196
+1,Zimbabwe,2,RW Chakabva,LV van Beek,CR Ervine,wides,1,1,0,,,,32196232196
+1,Zimbabwe,2,RW Chakabva,LV van Beek,CR Ervine,,0,0,0,,,,32196232196
+1,Zimbabwe,2,RW Chakabva,LV van Beek,CR Ervine,,0,4,4,,,,32196232196
+1,Zimbabwe,2,RW Chakabva,LV van Beek,CR Ervine,byes,1,1,0,,,,32196232196
+1,Zimbabwe,2,CR Ervine,LV van Beek,RW Chakabva,,0,0,0,,,,32196232196
+1,Zimbabwe,2,CR Ervine,LV van Beek,RW Chakabva,,0,0,0,bowled,CR Ervine,,32196232196
+1,Zimbabwe,2,SC Williams,LV van Beek,RW Chakabva,,0,0,0,,,,32196232196
+1,Zimbabwe,3,RW Chakabva,PA van Meekeren,SC Williams,,0,6,6,,,,32196232196
+1,Zimbabwe,3,RW Chakabva,PA van Meekeren,SC Williams,,0,1,1,,,,32196232196
+1,Zimbabwe,3,SC Williams,PA van Meekeren,RW Chakabva,,0,0,0,,,,32196232196
+1,Zimbabwe,3,SC Williams,PA van Meekeren,RW Chakabva,,0,1,1,,,,32196232196
+1,Zimbabwe,3,RW Chakabva,PA van Meekeren,SC Williams,,0,0,0,,,,32196232196
+1,Zimbabwe,3,RW Chakabva,PA van Meekeren,SC Williams,,0,1,1,,,,32196232196
+1,Zimbabwe,4,RW Chakabva,BFW de Leede,SC Williams,,0,0,0,,,,32196232196
+1,Zimbabwe,4,RW Chakabva,BFW de Leede,SC Williams,wides,1,1,0,,,,32196232196
+1,Zimbabwe,4,RW Chakabva,BFW de Leede,SC Williams,,0,1,1,,,,32196232196
+1,Zimbabwe,4,SC Williams,BFW de Leede,RW Chakabva,,0,1,1,,,,32196232196
+1,Zimbabwe,4,RW Chakabva,BFW de Leede,SC Williams,,0,0,0,lbw,RW Chakabva,,32196232196
+1,Zimbabwe,4,W Madhevere,BFW de Leede,SC Williams,,0,4,4,,,,32196232196
+1,Zimbabwe,4,W Madhevere,BFW de Leede,SC Williams,,0,0,0,,,,32196232196
+1,Zimbabwe,4,W Madhevere,BFW de Leede,SC Williams,,0,1,1,,,,32196232196
+1,Zimbabwe,5,W Madhevere,FJ Klaassen,SC Williams,,0,1,1,,,,32196232196
+1,Zimbabwe,5,SC Williams,FJ Klaassen,W Madhevere,,0,1,1,,,,32196232196
+1,Zimbabwe,5,W Madhevere,FJ Klaassen,SC Williams,,0,1,1,,,,32196232196
+1,Zimbabwe,5,SC Williams,FJ Klaassen,W Madhevere,,0,1,1,,,,32196232196
+1,Zimbabwe,5,W Madhevere,FJ Klaassen,SC Williams,,0,1,1,,,,32196232196
+1,Zimbabwe,5,SC Williams,FJ Klaassen,W Madhevere,,0,0,0,,,,32196232196
+1,Zimbabwe,6,W Madhevere,TJG Pringle,SC Williams,,0,0,0,,,,32196232196
+1,Zimbabwe,6,W Madhevere,TJG Pringle,SC Williams,,0,0,0,,,,32196232196
+1,Zimbabwe,6,W Madhevere,TJG Pringle,SC Williams,,0,1,1,,,,32196232196
+1,Zimbabwe,6,SC Williams,TJG Pringle,W Madhevere,,0,0,0,,,,32196232196
+1,Zimbabwe,6,SC Williams,TJG Pringle,W Madhevere,,0,1,1,,,,32196232196
+1,Zimbabwe,6,W Madhevere,TJG Pringle,SC Williams,,0,0,0,caught,W Madhevere,LV van Beek,32196232196
+1,Zimbabwe,7,SC Williams,Shariz Ahmad,Sikandar Raza,,0,1,1,,,,32196232196
+1,Zimbabwe,7,Sikandar Raza,Shariz Ahmad,SC Williams,,0,1,1,,,,32196232196
+1,Zimbabwe,7,SC Williams,Shariz Ahmad,Sikandar Raza,,0,4,4,,,,32196232196
+1,Zimbabwe,7,SC Williams,Shariz Ahmad,Sikandar Raza,,0,2,2,,,,32196232196
+1,Zimbabwe,7,SC Williams,Shariz Ahmad,Sikandar Raza,,0,4,4,,,,32196232196
+1,Zimbabwe,7,SC Williams,Shariz Ahmad,Sikandar Raza,,0,1,1,,,,32196232196
+1,Zimbabwe,8,SC Williams,BFW de Leede,Sikandar Raza,,0,1,1,,,,32196232196
+1,Zimbabwe,8,Sikandar Raza,BFW de Leede,SC Williams,,0,1,1,,,,32196232196
+1,Zimbabwe,8,SC Williams,BFW de Leede,Sikandar Raza,,0,1,1,,,,32196232196
+1,Zimbabwe,8,Sikandar Raza,BFW de Leede,SC Williams,wides,1,1,0,,,,32196232196
+1,Zimbabwe,8,Sikandar Raza,BFW de Leede,SC Williams,,0,1,1,,,,32196232196
+1,Zimbabwe,8,SC Williams,BFW de Leede,Sikandar Raza,,0,4,4,,,,32196232196
+1,Zimbabwe,8,SC Williams,BFW de Leede,Sikandar Raza,,0,0,0,,,,32196232196
+1,Zimbabwe,9,Sikandar Raza,TJG Pringle,SC Williams,,0,0,0,,,,32196232196
+1,Zimbabwe,9,Sikandar Raza,TJG Pringle,SC Williams,,0,0,0,,,,32196232196
+1,Zimbabwe,9,Sikandar Raza,TJG Pringle,SC Williams,,0,0,0,,,,32196232196
+1,Zimbabwe,9,Sikandar Raza,TJG Pringle,SC Williams,,0,0,0,,,,32196232196
+1,Zimbabwe,9,Sikandar Raza,TJG Pringle,SC Williams,,0,1,1,,,,32196232196
+1,Zimbabwe,9,SC Williams,TJG Pringle,Sikandar Raza,,0,1,1,,,,32196232196
+1,Zimbabwe,10,SC Williams,PA van Meekeren,Sikandar Raza,,0,2,2,,,,32196232196
+1,Zimbabwe,10,SC Williams,PA van Meekeren,Sikandar Raza,,0,0,0,,,,32196232196
+1,Zimbabwe,10,SC Williams,PA van Meekeren,Sikandar Raza,,0,0,0,,,,32196232196
+1,Zimbabwe,10,SC Williams,PA van Meekeren,Sikandar Raza,,0,1,1,,,,32196232196
+1,Zimbabwe,10,Sikandar Raza,PA van Meekeren,SC Williams,,0,2,2,,,,32196232196
+1,Zimbabwe,10,Sikandar Raza,PA van Meekeren,SC Williams,,0,2,2,,,,32196232196
+1,Zimbabwe,11,SC Williams,Shariz Ahmad,Sikandar Raza,,0,1,1,,,,32196232196
+1,Zimbabwe,11,Sikandar Raza,Shariz Ahmad,SC Williams,,0,6,6,,,,32196232196
+1,Zimbabwe,11,Sikandar Raza,Shariz Ahmad,SC Williams,,0,1,1,,,,32196232196
+1,Zimbabwe,11,SC Williams,Shariz Ahmad,Sikandar Raza,,0,0,0,caught,SC Williams,BFW de Leede,32196232196
+1,Zimbabwe,11,M Shumba,Shariz Ahmad,Sikandar Raza,,0,1,1,,,,32196232196
+1,Zimbabwe,11,Sikandar Raza,Shariz Ahmad,M Shumba,,0,4,4,,,,32196232196
+1,Zimbabwe,12,M Shumba,LV van Beek,Sikandar Raza,,0,0,0,,,,32196232196
+1,Zimbabwe,12,M Shumba,LV van Beek,Sikandar Raza,,0,0,0,caught,M Shumba,SA Edwards,32196232196
+1,Zimbabwe,12,Sikandar Raza,LV van Beek,RP Burl,,0,0,0,lbw,Sikandar Raza,,32196232196
+1,Zimbabwe,12,T Munyonga,LV van Beek,RP Burl,,0,0,0,,,,32196232196
+1,Zimbabwe,12,T Munyonga,LV van Beek,RP Burl,,0,0,0,,,,32196232196
+1,Zimbabwe,12,T Munyonga,LV van Beek,RP Burl,,0,0,0,,,,32196232196
+1,Zimbabwe,13,RP Burl,TJG Pringle,T Munyonga,,0,1,1,,,,32196232196
+1,Zimbabwe,13,T Munyonga,TJG Pringle,RP Burl,,0,1,1,,,,32196232196
+1,Zimbabwe,13,RP Burl,TJG Pringle,T Munyonga,,0,0,0,,,,32196232196
+1,Zimbabwe,13,RP Burl,TJG Pringle,T Munyonga,,0,1,1,,,,32196232196
+1,Zimbabwe,13,T Munyonga,TJG Pringle,RP Burl,,0,1,1,,,,32196232196
+1,Zimbabwe,13,RP Burl,TJG Pringle,T Munyonga,,0,1,1,,,,32196232196
+1,Zimbabwe,14,RP Burl,LV van Beek,T Munyonga,,0,1,1,,,,32196232196
+1,Zimbabwe,14,T Munyonga,LV van Beek,RP Burl,,0,1,1,,,,32196232196
+1,Zimbabwe,14,RP Burl,LV van Beek,T Munyonga,,0,1,1,,,,32196232196
+1,Zimbabwe,14,T Munyonga,LV van Beek,RP Burl,,0,0,0,,,,32196232196
+1,Zimbabwe,14,T Munyonga,LV van Beek,RP Burl,,0,2,2,,,,32196232196
+1,Zimbabwe,14,T Munyonga,LV van Beek,RP Burl,,0,1,1,,,,32196232196
+1,Zimbabwe,15,T Munyonga,BFW de Leede,RP Burl,,0,0,0,,,,32196232196
+1,Zimbabwe,15,T Munyonga,BFW de Leede,RP Burl,,0,0,0,,,,32196232196
+1,Zimbabwe,15,T Munyonga,BFW de Leede,RP Burl,,0,1,1,,,,32196232196
+1,Zimbabwe,15,RP Burl,BFW de Leede,T Munyonga,,0,1,1,,,,32196232196
+1,Zimbabwe,15,T Munyonga,BFW de Leede,RP Burl,,0,0,0,bowled,T Munyonga,,32196232196
+1,Zimbabwe,15,LM Jongwe,BFW de Leede,RP Burl,,0,0,0,,,,32196232196
+1,Zimbabwe,16,RP Burl,FJ Klaassen,LM Jongwe,,0,4,4,,,,32196232196
+1,Zimbabwe,16,RP Burl,FJ Klaassen,LM Jongwe,,0,0,0,,,,32196232196
+1,Zimbabwe,16,RP Burl,FJ Klaassen,LM Jongwe,,0,1,1,,,,32196232196
+1,Zimbabwe,16,LM Jongwe,FJ Klaassen,RP Burl,,0,0,0,,,,32196232196
+1,Zimbabwe,16,LM Jongwe,FJ Klaassen,RP Burl,,0,1,1,,,,32196232196
+1,Zimbabwe,16,RP Burl,FJ Klaassen,LM Jongwe,,0,4,4,,,,32196232196
+1,Zimbabwe,17,LM Jongwe,LV van Beek,RP Burl,,0,1,1,run out,RP Burl,LV van Beek,32196232196
+1,Zimbabwe,17,WP Masakadza,LV van Beek,LM Jongwe,,0,1,1,,,,32196232196
+1,Zimbabwe,17,LM Jongwe,LV van Beek,WP Masakadza,,0,2,2,,,,32196232196
+1,Zimbabwe,17,LM Jongwe,LV van Beek,WP Masakadza,,0,1,1,,,,32196232196
+1,Zimbabwe,17,WP Masakadza,LV van Beek,LM Jongwe,,0,1,1,,,,32196232196
+1,Zimbabwe,17,LM Jongwe,LV van Beek,WP Masakadza,,0,1,1,,,,32196232196
+1,Zimbabwe,18,LM Jongwe,PA van Meekeren,WP Masakadza,legbyes,1,1,0,,,,32196232196
+1,Zimbabwe,18,WP Masakadza,PA van Meekeren,LM Jongwe,,0,0,0,,,,32196232196
+1,Zimbabwe,18,WP Masakadza,PA van Meekeren,LM Jongwe,,0,0,0,,,,32196232196
+1,Zimbabwe,18,WP Masakadza,PA van Meekeren,LM Jongwe,,0,0,0,,,,32196232196
+1,Zimbabwe,18,WP Masakadza,PA van Meekeren,LM Jongwe,,0,1,1,,,,32196232196
+1,Zimbabwe,18,LM Jongwe,PA van Meekeren,WP Masakadza,,0,0,0,lbw,LM Jongwe,,32196232196
+1,Zimbabwe,19,WP Masakadza,FJ Klaassen,R Ngarava,,0,1,1,,,,32196232196
+1,Zimbabwe,19,R Ngarava,FJ Klaassen,WP Masakadza,,0,1,1,,,,32196232196
+1,Zimbabwe,19,WP Masakadza,FJ Klaassen,R Ngarava,,0,0,0,caught,WP Masakadza,SA Edwards,32196232196

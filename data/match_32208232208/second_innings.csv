@@ -1,0 +1,132 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Papua New Guinea,0,L Siaka,Amjad Mahboob,A Vala,,0,0,0,,,,32208232208
+2,Papua New Guinea,0,L Siaka,Amjad Mahboob,A Vala,,0,0,0,,,,32208232208
+2,Papua New Guinea,0,L Siaka,Amjad Mahboob,A Vala,,0,0,0,,,,32208232208
+2,Papua New Guinea,0,L Siaka,Amjad Mahboob,A Vala,,0,1,1,,,,32208232208
+2,Papua New Guinea,0,A Vala,Amjad Mahboob,L Siaka,,0,1,1,,,,32208232208
+2,Papua New Guinea,0,L Siaka,Amjad Mahboob,A Vala,,0,0,0,,,,32208232208
+2,Papua New Guinea,1,A Vala,U Aryaman Sunil,L Siaka,,0,1,1,,,,32208232208
+2,Papua New Guinea,1,L Siaka,U Aryaman Sunil,A Vala,,0,0,0,,,,32208232208
+2,Papua New Guinea,1,L Siaka,U Aryaman Sunil,A Vala,,0,0,0,,,,32208232208
+2,Papua New Guinea,1,L Siaka,U Aryaman Sunil,A Vala,,0,0,0,caught,L Siaka,Janak Prakash,32208232208
+2,Papua New Guinea,1,A Vala,U Aryaman Sunil,CJA Amini,,0,0,0,,,,32208232208
+2,Papua New Guinea,1,A Vala,U Aryaman Sunil,CJA Amini,,0,0,0,,,,32208232208
+2,Papua New Guinea,2,CJA Amini,Amjad Mahboob,A Vala,,0,0,0,,,,32208232208
+2,Papua New Guinea,2,CJA Amini,Amjad Mahboob,A Vala,,0,1,1,,,,32208232208
+2,Papua New Guinea,2,A Vala,Amjad Mahboob,CJA Amini,wides,1,1,0,,,,32208232208
+2,Papua New Guinea,2,A Vala,Amjad Mahboob,CJA Amini,,0,0,0,caught,A Vala,S Chandramohan,32208232208
+2,Papua New Guinea,2,S Bau,Amjad Mahboob,CJA Amini,,0,0,0,,,,32208232208
+2,Papua New Guinea,2,S Bau,Amjad Mahboob,CJA Amini,,0,0,0,,,,32208232208
+2,Papua New Guinea,2,S Bau,Amjad Mahboob,CJA Amini,,0,0,0,,,,32208232208
+2,Papua New Guinea,3,CJA Amini,U Aryaman Sunil,S Bau,,0,0,0,,,,32208232208
+2,Papua New Guinea,3,CJA Amini,U Aryaman Sunil,S Bau,,0,0,0,caught,CJA Amini,A Mutreja,32208232208
+2,Papua New Guinea,3,S Bau,U Aryaman Sunil,TP Ura,,0,1,1,,,,32208232208
+2,Papua New Guinea,3,TP Ura,U Aryaman Sunil,S Bau,,0,0,0,,,,32208232208
+2,Papua New Guinea,3,TP Ura,U Aryaman Sunil,S Bau,wides,1,1,0,,,,32208232208
+2,Papua New Guinea,3,TP Ura,U Aryaman Sunil,S Bau,,0,1,1,,,,32208232208
+2,Papua New Guinea,3,S Bau,U Aryaman Sunil,TP Ura,,0,1,1,,,,32208232208
+2,Papua New Guinea,4,S Bau,Janak Prakash,TP Ura,,0,1,1,,,,32208232208
+2,Papua New Guinea,4,TP Ura,Janak Prakash,S Bau,,0,4,4,,,,32208232208
+2,Papua New Guinea,4,TP Ura,Janak Prakash,S Bau,,0,4,4,,,,32208232208
+2,Papua New Guinea,4,TP Ura,Janak Prakash,S Bau,wides,1,1,0,,,,32208232208
+2,Papua New Guinea,4,TP Ura,Janak Prakash,S Bau,wides,1,1,0,,,,32208232208
+2,Papua New Guinea,4,TP Ura,Janak Prakash,S Bau,wides,1,1,0,,,,32208232208
+2,Papua New Guinea,4,TP Ura,Janak Prakash,S Bau,,0,4,4,,,,32208232208
+2,Papua New Guinea,4,TP Ura,Janak Prakash,S Bau,wides,1,1,0,,,,32208232208
+2,Papua New Guinea,4,TP Ura,Janak Prakash,S Bau,,0,2,2,,,,32208232208
+2,Papua New Guinea,4,TP Ura,Janak Prakash,S Bau,wides,1,1,0,,,,32208232208
+2,Papua New Guinea,4,TP Ura,Janak Prakash,S Bau,,0,4,4,,,,32208232208
+2,Papua New Guinea,5,S Bau,V Baskaran,TP Ura,,0,0,0,caught,S Bau,Aman Desai,32208232208
+2,Papua New Guinea,5,R Hekure,V Baskaran,TP Ura,,0,0,0,,,,32208232208
+2,Papua New Guinea,5,R Hekure,V Baskaran,TP Ura,,0,1,1,,,,32208232208
+2,Papua New Guinea,5,TP Ura,V Baskaran,R Hekure,,0,0,0,,,,32208232208
+2,Papua New Guinea,5,TP Ura,V Baskaran,R Hekure,,0,0,0,,,,32208232208
+2,Papua New Guinea,5,TP Ura,V Baskaran,R Hekure,,0,6,6,,,,32208232208
+2,Papua New Guinea,6,R Hekure,NA Karnik,TP Ura,,0,1,1,,,,32208232208
+2,Papua New Guinea,6,TP Ura,NA Karnik,R Hekure,,0,6,6,,,,32208232208
+2,Papua New Guinea,6,TP Ura,NA Karnik,R Hekure,,0,1,1,,,,32208232208
+2,Papua New Guinea,6,R Hekure,NA Karnik,TP Ura,,0,4,4,,,,32208232208
+2,Papua New Guinea,6,R Hekure,NA Karnik,TP Ura,,0,0,0,,,,32208232208
+2,Papua New Guinea,6,R Hekure,NA Karnik,TP Ura,,0,1,1,,,,32208232208
+2,Papua New Guinea,7,R Hekure,V Baskaran,TP Ura,,0,0,0,bowled,R Hekure,,32208232208
+2,Papua New Guinea,7,N Vanua,V Baskaran,TP Ura,,0,0,0,,,,32208232208
+2,Papua New Guinea,7,N Vanua,V Baskaran,TP Ura,,0,1,1,,,,32208232208
+2,Papua New Guinea,7,TP Ura,V Baskaran,N Vanua,wides,1,1,0,,,,32208232208
+2,Papua New Guinea,7,TP Ura,V Baskaran,N Vanua,,0,1,1,,,,32208232208
+2,Papua New Guinea,7,N Vanua,V Baskaran,TP Ura,,0,1,1,,,,32208232208
+2,Papua New Guinea,7,TP Ura,V Baskaran,N Vanua,,0,6,6,,,,32208232208
+2,Papua New Guinea,8,N Vanua,AR Puri,TP Ura,,0,4,4,,,,32208232208
+2,Papua New Guinea,8,N Vanua,AR Puri,TP Ura,,0,0,0,,,,32208232208
+2,Papua New Guinea,8,N Vanua,AR Puri,TP Ura,,0,1,1,,,,32208232208
+2,Papua New Guinea,8,TP Ura,AR Puri,N Vanua,,0,6,6,,,,32208232208
+2,Papua New Guinea,8,TP Ura,AR Puri,N Vanua,,0,6,6,,,,32208232208
+2,Papua New Guinea,8,TP Ura,AR Puri,N Vanua,,0,6,6,,,,32208232208
+2,Papua New Guinea,9,N Vanua,V Baskaran,TP Ura,,0,0,0,,,,32208232208
+2,Papua New Guinea,9,N Vanua,V Baskaran,TP Ura,,0,1,1,,,,32208232208
+2,Papua New Guinea,9,TP Ura,V Baskaran,N Vanua,wides,1,1,0,,,,32208232208
+2,Papua New Guinea,9,TP Ura,V Baskaran,N Vanua,,0,1,1,,,,32208232208
+2,Papua New Guinea,9,N Vanua,V Baskaran,TP Ura,,0,0,0,,,,32208232208
+2,Papua New Guinea,9,N Vanua,V Baskaran,TP Ura,,0,6,6,,,,32208232208
+2,Papua New Guinea,9,N Vanua,V Baskaran,TP Ura,wides,1,1,0,,,,32208232208
+2,Papua New Guinea,9,N Vanua,V Baskaran,TP Ura,,0,1,1,,,,32208232208
+2,Papua New Guinea,10,N Vanua,Janak Prakash,TP Ura,,0,2,2,,,,32208232208
+2,Papua New Guinea,10,N Vanua,Janak Prakash,TP Ura,,0,1,1,,,,32208232208
+2,Papua New Guinea,10,TP Ura,Janak Prakash,N Vanua,,0,1,1,,,,32208232208
+2,Papua New Guinea,10,N Vanua,Janak Prakash,TP Ura,,0,2,2,,,,32208232208
+2,Papua New Guinea,10,N Vanua,Janak Prakash,TP Ura,,0,1,1,,,,32208232208
+2,Papua New Guinea,10,TP Ura,Janak Prakash,N Vanua,,0,1,1,,,,32208232208
+2,Papua New Guinea,11,TP Ura,V Baskaran,N Vanua,,0,0,0,,,,32208232208
+2,Papua New Guinea,11,TP Ura,V Baskaran,N Vanua,,0,1,1,,,,32208232208
+2,Papua New Guinea,11,N Vanua,V Baskaran,TP Ura,,0,6,6,,,,32208232208
+2,Papua New Guinea,11,N Vanua,V Baskaran,TP Ura,,0,0,0,,,,32208232208
+2,Papua New Guinea,11,N Vanua,V Baskaran,TP Ura,,0,4,4,,,,32208232208
+2,Papua New Guinea,11,N Vanua,V Baskaran,TP Ura,,0,1,1,,,,32208232208
+2,Papua New Guinea,12,N Vanua,U Aryaman Sunil,TP Ura,,0,6,6,,,,32208232208
+2,Papua New Guinea,12,N Vanua,U Aryaman Sunil,TP Ura,,0,6,6,,,,32208232208
+2,Papua New Guinea,12,N Vanua,U Aryaman Sunil,TP Ura,legbyes,1,1,0,,,,32208232208
+2,Papua New Guinea,12,TP Ura,U Aryaman Sunil,N Vanua,wides,1,1,0,,,,32208232208
+2,Papua New Guinea,12,TP Ura,U Aryaman Sunil,N Vanua,,0,1,1,,,,32208232208
+2,Papua New Guinea,12,N Vanua,U Aryaman Sunil,TP Ura,,0,0,0,,,,32208232208
+2,Papua New Guinea,12,N Vanua,U Aryaman Sunil,TP Ura,,0,1,1,,,,32208232208
+2,Papua New Guinea,13,N Vanua,Amjad Mahboob,TP Ura,,0,1,1,,,,32208232208
+2,Papua New Guinea,13,TP Ura,Amjad Mahboob,N Vanua,,0,0,0,,,,32208232208
+2,Papua New Guinea,13,TP Ura,Amjad Mahboob,N Vanua,,0,1,1,,,,32208232208
+2,Papua New Guinea,13,N Vanua,Amjad Mahboob,TP Ura,,0,1,1,,,,32208232208
+2,Papua New Guinea,13,TP Ura,Amjad Mahboob,N Vanua,,0,1,1,,,,32208232208
+2,Papua New Guinea,13,N Vanua,Amjad Mahboob,TP Ura,,0,0,0,,,,32208232208
+2,Papua New Guinea,14,TP Ura,Janak Prakash,N Vanua,,0,1,1,,,,32208232208
+2,Papua New Guinea,14,N Vanua,Janak Prakash,TP Ura,,0,1,1,,,,32208232208
+2,Papua New Guinea,14,TP Ura,Janak Prakash,N Vanua,byes,1,1,0,,,,32208232208
+2,Papua New Guinea,14,N Vanua,Janak Prakash,TP Ura,,0,2,2,,,,32208232208
+2,Papua New Guinea,14,N Vanua,Janak Prakash,TP Ura,,0,1,1,,,,32208232208
+2,Papua New Guinea,14,TP Ura,Janak Prakash,N Vanua,,0,2,2,,,,32208232208
+2,Papua New Guinea,15,N Vanua,U Aryaman Sunil,TP Ura,,0,1,1,,,,32208232208
+2,Papua New Guinea,15,TP Ura,U Aryaman Sunil,N Vanua,,0,1,1,,,,32208232208
+2,Papua New Guinea,15,N Vanua,U Aryaman Sunil,TP Ura,,0,6,6,,,,32208232208
+2,Papua New Guinea,15,N Vanua,U Aryaman Sunil,TP Ura,,0,6,6,,,,32208232208
+2,Papua New Guinea,15,N Vanua,U Aryaman Sunil,TP Ura,,0,6,6,,,,32208232208
+2,Papua New Guinea,15,N Vanua,U Aryaman Sunil,TP Ura,,0,1,1,,,,32208232208
+2,Papua New Guinea,16,N Vanua,Amjad Mahboob,TP Ura,legbyes,1,1,0,,,,32208232208
+2,Papua New Guinea,16,TP Ura,Amjad Mahboob,N Vanua,,0,1,1,,,,32208232208
+2,Papua New Guinea,16,N Vanua,Amjad Mahboob,TP Ura,,0,0,0,bowled,N Vanua,,32208232208
+2,Papua New Guinea,16,HGV Vare,Amjad Mahboob,TP Ura,,0,1,1,,,,32208232208
+2,Papua New Guinea,16,TP Ura,Amjad Mahboob,HGV Vare,,0,1,1,,,,32208232208
+2,Papua New Guinea,16,HGV Vare,Amjad Mahboob,TP Ura,,0,1,1,,,,32208232208
+2,Papua New Guinea,17,HGV Vare,NA Karnik,TP Ura,,0,1,1,,,,32208232208
+2,Papua New Guinea,17,TP Ura,NA Karnik,HGV Vare,,0,6,6,,,,32208232208
+2,Papua New Guinea,17,TP Ura,NA Karnik,HGV Vare,,0,1,1,,,,32208232208
+2,Papua New Guinea,17,HGV Vare,NA Karnik,TP Ura,,0,3,3,,,,32208232208
+2,Papua New Guinea,17,TP Ura,NA Karnik,HGV Vare,,0,2,2,,,,32208232208
+2,Papua New Guinea,17,TP Ura,NA Karnik,HGV Vare,,0,6,6,,,,32208232208
+2,Papua New Guinea,18,HGV Vare,Janak Prakash,TP Ura,,0,0,0,,,,32208232208
+2,Papua New Guinea,18,HGV Vare,Janak Prakash,TP Ura,,0,1,1,,,,32208232208
+2,Papua New Guinea,18,TP Ura,Janak Prakash,HGV Vare,,0,0,0,,,,32208232208
+2,Papua New Guinea,18,TP Ura,Janak Prakash,HGV Vare,,0,1,1,,,,32208232208
+2,Papua New Guinea,18,HGV Vare,Janak Prakash,TP Ura,,0,0,0,,,,32208232208
+2,Papua New Guinea,18,HGV Vare,Janak Prakash,TP Ura,,0,0,0,bowled,HGV Vare,,32208232208
+2,Papua New Guinea,19,TP Ura,NA Karnik,D Ravu,wides,1,1,0,,,,32208232208
+2,Papua New Guinea,19,TP Ura,NA Karnik,D Ravu,,0,1,1,,,,32208232208
+2,Papua New Guinea,19,D Ravu,NA Karnik,TP Ura,wides,1,1,0,,,,32208232208
+2,Papua New Guinea,19,D Ravu,NA Karnik,TP Ura,,0,4,4,,,,32208232208
+2,Papua New Guinea,19,D Ravu,NA Karnik,TP Ura,,0,1,1,,,,32208232208
+2,Papua New Guinea,19,TP Ura,NA Karnik,D Ravu,,0,6,6,,,,32208232208

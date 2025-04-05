@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Hong Kong,0,Nizakat Khan,C Kyewuta,Aizaz Khan,,0,2,2,,,,32181232181
+1,Hong Kong,0,Nizakat Khan,C Kyewuta,Aizaz Khan,,0,1,1,,,,32181232181
+1,Hong Kong,0,Aizaz Khan,C Kyewuta,Nizakat Khan,wides,1,1,0,,,,32181232181
+1,Hong Kong,0,Aizaz Khan,C Kyewuta,Nizakat Khan,,0,4,4,,,,32181232181
+1,Hong Kong,0,Aizaz Khan,C Kyewuta,Nizakat Khan,,0,2,2,,,,32181232181
+1,Hong Kong,0,Aizaz Khan,C Kyewuta,Nizakat Khan,,0,1,1,,,,32181232181
+1,Hong Kong,0,Nizakat Khan,C Kyewuta,Aizaz Khan,,0,1,1,,,,32181232181
+1,Hong Kong,1,Nizakat Khan,F Nsubuga,Aizaz Khan,,0,0,0,lbw,Nizakat Khan,,32181232181
+1,Hong Kong,1,Babar Hayat,F Nsubuga,Aizaz Khan,,0,0,0,,,,32181232181
+1,Hong Kong,1,Babar Hayat,F Nsubuga,Aizaz Khan,,0,0,0,,,,32181232181
+1,Hong Kong,1,Babar Hayat,F Nsubuga,Aizaz Khan,,0,1,1,,,,32181232181
+1,Hong Kong,1,Aizaz Khan,F Nsubuga,Babar Hayat,,0,0,0,,,,32181232181
+1,Hong Kong,1,Aizaz Khan,F Nsubuga,Babar Hayat,,0,0,0,,,,32181232181
+1,Hong Kong,2,Babar Hayat,C Kyewuta,Aizaz Khan,,0,0,0,,,,32181232181
+1,Hong Kong,2,Babar Hayat,C Kyewuta,Aizaz Khan,,0,1,1,,,,32181232181
+1,Hong Kong,2,Aizaz Khan,C Kyewuta,Babar Hayat,,0,0,0,caught,Aizaz Khan,Riazat Ali Shah,32181232181
+1,Hong Kong,2,Babar Hayat,C Kyewuta,KD Shah,,0,0,0,,,,32181232181
+1,Hong Kong,2,Babar Hayat,C Kyewuta,KD Shah,,0,0,0,,,,32181232181
+1,Hong Kong,2,Babar Hayat,C Kyewuta,KD Shah,,0,0,0,,,,32181232181
+1,Hong Kong,3,KD Shah,F Nsubuga,Babar Hayat,,0,0,0,,,,32181232181
+1,Hong Kong,3,KD Shah,F Nsubuga,Babar Hayat,,0,0,0,,,,32181232181
+1,Hong Kong,3,KD Shah,F Nsubuga,Babar Hayat,,0,1,1,,,,32181232181
+1,Hong Kong,3,Babar Hayat,F Nsubuga,KD Shah,,0,0,0,,,,32181232181
+1,Hong Kong,3,Babar Hayat,F Nsubuga,KD Shah,,0,0,0,,,,32181232181
+1,Hong Kong,3,Babar Hayat,F Nsubuga,KD Shah,,0,1,1,,,,32181232181
+1,Hong Kong,4,Babar Hayat,H Ssenyondo,KD Shah,,0,0,0,,,,32181232181
+1,Hong Kong,4,Babar Hayat,H Ssenyondo,KD Shah,,0,1,1,,,,32181232181
+1,Hong Kong,4,KD Shah,H Ssenyondo,Babar Hayat,,0,0,0,,,,32181232181
+1,Hong Kong,4,KD Shah,H Ssenyondo,Babar Hayat,,0,0,0,,,,32181232181
+1,Hong Kong,4,KD Shah,H Ssenyondo,Babar Hayat,,0,1,1,,,,32181232181
+1,Hong Kong,4,Babar Hayat,H Ssenyondo,KD Shah,,0,0,0,,,,32181232181
+1,Hong Kong,5,KD Shah,F Nsubuga,Babar Hayat,,0,0,0,,,,32181232181
+1,Hong Kong,5,KD Shah,F Nsubuga,Babar Hayat,,0,1,1,,,,32181232181
+1,Hong Kong,5,Babar Hayat,F Nsubuga,KD Shah,,0,0,0,,,,32181232181
+1,Hong Kong,5,Babar Hayat,F Nsubuga,KD Shah,,0,0,0,,,,32181232181
+1,Hong Kong,5,Babar Hayat,F Nsubuga,KD Shah,,0,1,1,,,,32181232181
+1,Hong Kong,5,KD Shah,F Nsubuga,Babar Hayat,,0,1,1,,,,32181232181
+1,Hong Kong,6,KD Shah,H Ssenyondo,Babar Hayat,,0,1,1,,,,32181232181
+1,Hong Kong,6,Babar Hayat,H Ssenyondo,KD Shah,,0,1,1,,,,32181232181
+1,Hong Kong,6,KD Shah,H Ssenyondo,Babar Hayat,,0,1,1,,,,32181232181
+1,Hong Kong,6,Babar Hayat,H Ssenyondo,KD Shah,,0,1,1,,,,32181232181
+1,Hong Kong,6,KD Shah,H Ssenyondo,Babar Hayat,,0,1,1,,,,32181232181
+1,Hong Kong,6,Babar Hayat,H Ssenyondo,KD Shah,,0,0,0,,,,32181232181
+1,Hong Kong,7,KD Shah,F Nsubuga,Babar Hayat,,0,0,0,,,,32181232181
+1,Hong Kong,7,KD Shah,F Nsubuga,Babar Hayat,,0,1,1,,,,32181232181
+1,Hong Kong,7,Babar Hayat,F Nsubuga,KD Shah,,0,0,0,,,,32181232181
+1,Hong Kong,7,Babar Hayat,F Nsubuga,KD Shah,,0,1,1,,,,32181232181
+1,Hong Kong,7,KD Shah,F Nsubuga,Babar Hayat,,0,1,1,,,,32181232181
+1,Hong Kong,7,Babar Hayat,F Nsubuga,KD Shah,,0,1,1,,,,32181232181
+1,Hong Kong,8,Babar Hayat,H Ssenyondo,KD Shah,,0,0,0,caught,Babar Hayat,RG Mukasa,32181232181
+1,Hong Kong,8,Zeeshan Ali,H Ssenyondo,KD Shah,,0,0,0,,,,32181232181
+1,Hong Kong,8,Zeeshan Ali,H Ssenyondo,KD Shah,,0,1,1,,,,32181232181
+1,Hong Kong,8,KD Shah,H Ssenyondo,Zeeshan Ali,,0,1,1,,,,32181232181
+1,Hong Kong,8,Zeeshan Ali,H Ssenyondo,KD Shah,,0,1,1,,,,32181232181
+1,Hong Kong,8,KD Shah,H Ssenyondo,Zeeshan Ali,,0,0,0,,,,32181232181
+1,Hong Kong,9,Zeeshan Ali,Riazat Ali Shah,KD Shah,,0,1,1,,,,32181232181
+1,Hong Kong,9,KD Shah,Riazat Ali Shah,Zeeshan Ali,wides,1,1,0,,,,32181232181
+1,Hong Kong,9,KD Shah,Riazat Ali Shah,Zeeshan Ali,,0,1,1,,,,32181232181
+1,Hong Kong,9,Zeeshan Ali,Riazat Ali Shah,KD Shah,,0,1,1,,,,32181232181
+1,Hong Kong,9,KD Shah,Riazat Ali Shah,Zeeshan Ali,,0,0,0,,,,32181232181
+1,Hong Kong,9,KD Shah,Riazat Ali Shah,Zeeshan Ali,wides,1,1,0,,,,32181232181
+1,Hong Kong,9,KD Shah,Riazat Ali Shah,Zeeshan Ali,,0,4,4,,,,32181232181
+1,Hong Kong,9,KD Shah,Riazat Ali Shah,Zeeshan Ali,,0,1,1,,,,32181232181
+1,Hong Kong,10,KD Shah,H Ssenyondo,Zeeshan Ali,,0,0,0,,,,32181232181
+1,Hong Kong,10,KD Shah,H Ssenyondo,Zeeshan Ali,,0,1,1,,,,32181232181
+1,Hong Kong,10,Zeeshan Ali,H Ssenyondo,KD Shah,,0,1,1,,,,32181232181
+1,Hong Kong,10,KD Shah,H Ssenyondo,Zeeshan Ali,,0,0,0,,,,32181232181
+1,Hong Kong,10,KD Shah,H Ssenyondo,Zeeshan Ali,,0,0,0,,,,32181232181
+1,Hong Kong,10,KD Shah,H Ssenyondo,Zeeshan Ali,,0,1,1,,,,32181232181
+1,Hong Kong,11,KD Shah,F Akankwasa,Zeeshan Ali,,0,4,4,,,,32181232181
+1,Hong Kong,11,KD Shah,F Akankwasa,Zeeshan Ali,,0,1,1,,,,32181232181
+1,Hong Kong,11,Zeeshan Ali,F Akankwasa,KD Shah,,0,1,1,,,,32181232181
+1,Hong Kong,11,KD Shah,F Akankwasa,Zeeshan Ali,,0,1,1,,,,32181232181
+1,Hong Kong,11,Zeeshan Ali,F Akankwasa,KD Shah,,0,0,0,,,,32181232181
+1,Hong Kong,11,Zeeshan Ali,F Akankwasa,KD Shah,,0,2,2,,,,32181232181
+1,Hong Kong,12,KD Shah,DM Nakrani,Zeeshan Ali,,0,0,0,,,,32181232181
+1,Hong Kong,12,KD Shah,DM Nakrani,Zeeshan Ali,,0,1,1,,,,32181232181
+1,Hong Kong,12,Zeeshan Ali,DM Nakrani,KD Shah,,0,1,1,,,,32181232181
+1,Hong Kong,12,KD Shah,DM Nakrani,Zeeshan Ali,,0,1,1,,,,32181232181
+1,Hong Kong,12,Zeeshan Ali,DM Nakrani,KD Shah,,0,0,0,,,,32181232181
+1,Hong Kong,12,Zeeshan Ali,DM Nakrani,KD Shah,,0,0,0,,,,32181232181
+1,Hong Kong,13,KD Shah,C Kyewuta,Zeeshan Ali,,0,0,0,,,,32181232181
+1,Hong Kong,13,KD Shah,C Kyewuta,Zeeshan Ali,,0,1,1,,,,32181232181
+1,Hong Kong,13,Zeeshan Ali,C Kyewuta,KD Shah,,0,1,1,,,,32181232181
+1,Hong Kong,13,KD Shah,C Kyewuta,Zeeshan Ali,,0,1,1,,,,32181232181
+1,Hong Kong,13,Zeeshan Ali,C Kyewuta,KD Shah,,0,1,1,,,,32181232181
+1,Hong Kong,13,KD Shah,C Kyewuta,Zeeshan Ali,,0,1,1,,,,32181232181
+1,Hong Kong,14,KD Shah,DM Nakrani,Zeeshan Ali,,0,0,0,,,,32181232181
+1,Hong Kong,14,KD Shah,DM Nakrani,Zeeshan Ali,,0,1,1,,,,32181232181
+1,Hong Kong,14,Zeeshan Ali,DM Nakrani,KD Shah,,0,0,0,caught,Zeeshan Ali,F Nsubuga,32181232181
+1,Hong Kong,14,KD Shah,DM Nakrani,Haroon Arshad,,0,1,1,,,,32181232181
+1,Hong Kong,14,Haroon Arshad,DM Nakrani,KD Shah,,0,1,1,,,,32181232181
+1,Hong Kong,14,KD Shah,DM Nakrani,Haroon Arshad,,0,1,1,,,,32181232181
+1,Hong Kong,15,KD Shah,Riazat Ali Shah,Haroon Arshad,,0,1,1,,,,32181232181
+1,Hong Kong,15,Haroon Arshad,Riazat Ali Shah,KD Shah,,0,0,0,bowled,Haroon Arshad,,32181232181
+1,Hong Kong,15,Yasim Murtaza,Riazat Ali Shah,KD Shah,,0,1,1,,,,32181232181
+1,Hong Kong,15,KD Shah,Riazat Ali Shah,Yasim Murtaza,,0,1,1,,,,32181232181
+1,Hong Kong,15,Yasim Murtaza,Riazat Ali Shah,KD Shah,,0,1,1,,,,32181232181
+1,Hong Kong,15,KD Shah,Riazat Ali Shah,Yasim Murtaza,,0,1,1,,,,32181232181
+1,Hong Kong,16,KD Shah,DM Nakrani,Yasim Murtaza,,0,1,1,,,,32181232181
+1,Hong Kong,16,Yasim Murtaza,DM Nakrani,KD Shah,,0,1,1,,,,32181232181
+1,Hong Kong,16,KD Shah,DM Nakrani,Yasim Murtaza,,0,1,1,,,,32181232181
+1,Hong Kong,16,Yasim Murtaza,DM Nakrani,KD Shah,,0,0,0,,,,32181232181
+1,Hong Kong,16,Yasim Murtaza,DM Nakrani,KD Shah,,0,0,0,lbw,Yasim Murtaza,,32181232181
+1,Hong Kong,16,Ehsan Khan,DM Nakrani,KD Shah,,0,0,0,,,,32181232181
+1,Hong Kong,17,KD Shah,C Kyewuta,Ehsan Khan,,0,0,0,caught,KD Shah,F Achelam,32181232181
+1,Hong Kong,17,SS McKechnie,C Kyewuta,Ehsan Khan,legbyes,1,1,0,,,,32181232181
+1,Hong Kong,17,Ehsan Khan,C Kyewuta,SS McKechnie,,0,1,1,,,,32181232181
+1,Hong Kong,17,SS McKechnie,C Kyewuta,Ehsan Khan,,0,1,1,,,,32181232181
+1,Hong Kong,17,Ehsan Khan,C Kyewuta,SS McKechnie,,0,1,1,,,,32181232181
+1,Hong Kong,17,SS McKechnie,C Kyewuta,Ehsan Khan,legbyes,1,1,0,,,,32181232181
+1,Hong Kong,18,SS McKechnie,DM Nakrani,Ehsan Khan,,0,0,0,,,,32181232181
+1,Hong Kong,18,SS McKechnie,DM Nakrani,Ehsan Khan,,0,0,0,,,,32181232181
+1,Hong Kong,18,SS McKechnie,DM Nakrani,Ehsan Khan,,0,1,1,,,,32181232181
+1,Hong Kong,18,Ehsan Khan,DM Nakrani,SS McKechnie,,0,1,1,,,,32181232181
+1,Hong Kong,18,SS McKechnie,DM Nakrani,Ehsan Khan,,0,0,0,bowled,SS McKechnie,,32181232181
+1,Hong Kong,18,A Shukla,DM Nakrani,Ehsan Khan,,0,0,0,bowled,A Shukla,,32181232181
+1,Hong Kong,19,Ehsan Khan,Riazat Ali Shah,Mohammad Ghazanfar,,0,1,1,,,,32181232181
+1,Hong Kong,19,Mohammad Ghazanfar,Riazat Ali Shah,Ehsan Khan,,0,1,1,,,,32181232181
+1,Hong Kong,19,Ehsan Khan,Riazat Ali Shah,Mohammad Ghazanfar,,0,1,1,,,,32181232181
+1,Hong Kong,19,Mohammad Ghazanfar,Riazat Ali Shah,Ehsan Khan,,0,0,0,,,,32181232181
+1,Hong Kong,19,Mohammad Ghazanfar,Riazat Ali Shah,Ehsan Khan,,0,1,1,,,,32181232181
+1,Hong Kong,19,Ehsan Khan,Riazat Ali Shah,Mohammad Ghazanfar,,0,1,1,,,,32181232181

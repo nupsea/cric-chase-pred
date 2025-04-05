@@ -1,0 +1,97 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Scotland,0,GM Hamilton,DW Steyn,RR Watson,,0,1,1,,,,3702370
+2,Scotland,0,RR Watson,DW Steyn,GM Hamilton,,0,0,0,,,,3702370
+2,Scotland,0,RR Watson,DW Steyn,GM Hamilton,wides,1,1,0,,,,3702370
+2,Scotland,0,RR Watson,DW Steyn,GM Hamilton,,0,0,0,,,,3702370
+2,Scotland,0,RR Watson,DW Steyn,GM Hamilton,,0,4,4,,,,3702370
+2,Scotland,0,RR Watson,DW Steyn,GM Hamilton,,0,0,0,bowled,RR Watson,,3702370
+2,Scotland,0,NS Poonia,DW Steyn,GM Hamilton,,0,0,0,,,,3702370
+2,Scotland,1,GM Hamilton,WD Parnell,NS Poonia,,0,0,0,,,,3702370
+2,Scotland,1,GM Hamilton,WD Parnell,NS Poonia,,0,0,0,,,,3702370
+2,Scotland,1,GM Hamilton,WD Parnell,NS Poonia,,0,4,4,,,,3702370
+2,Scotland,1,GM Hamilton,WD Parnell,NS Poonia,,0,0,0,,,,3702370
+2,Scotland,1,GM Hamilton,WD Parnell,NS Poonia,,0,0,0,caught,GM Hamilton,JP Duminy,3702370
+2,Scotland,1,KJ Coetzer,WD Parnell,NS Poonia,,0,1,1,,,,3702370
+2,Scotland,2,KJ Coetzer,DW Steyn,NS Poonia,,0,0,0,,,,3702370
+2,Scotland,2,KJ Coetzer,DW Steyn,NS Poonia,,0,2,2,run out,NS Poonia,MV Boucher,3702370
+2,Scotland,2,CJO Smith,DW Steyn,KJ Coetzer,,0,0,0,bowled,CJO Smith,,3702370
+2,Scotland,2,NFI McCallum,DW Steyn,KJ Coetzer,,0,0,0,,,,3702370
+2,Scotland,2,NFI McCallum,DW Steyn,KJ Coetzer,,0,1,1,,,,3702370
+2,Scotland,2,KJ Coetzer,DW Steyn,NFI McCallum,,0,0,0,,,,3702370
+2,Scotland,3,NFI McCallum,WD Parnell,KJ Coetzer,,0,0,0,,,,3702370
+2,Scotland,3,NFI McCallum,WD Parnell,KJ Coetzer,,0,0,0,,,,3702370
+2,Scotland,3,NFI McCallum,WD Parnell,KJ Coetzer,,0,0,0,,,,3702370
+2,Scotland,3,NFI McCallum,WD Parnell,KJ Coetzer,,0,0,0,,,,3702370
+2,Scotland,3,NFI McCallum,WD Parnell,KJ Coetzer,,0,0,0,,,,3702370
+2,Scotland,3,NFI McCallum,WD Parnell,KJ Coetzer,,0,1,1,,,,3702370
+2,Scotland,4,NFI McCallum,DW Steyn,KJ Coetzer,,0,1,1,,,,3702370
+2,Scotland,4,KJ Coetzer,DW Steyn,NFI McCallum,,0,0,0,,,,3702370
+2,Scotland,4,KJ Coetzer,DW Steyn,NFI McCallum,,0,6,6,,,,3702370
+2,Scotland,4,KJ Coetzer,DW Steyn,NFI McCallum,,0,1,1,,,,3702370
+2,Scotland,4,NFI McCallum,DW Steyn,KJ Coetzer,,0,0,0,,,,3702370
+2,Scotland,4,NFI McCallum,DW Steyn,KJ Coetzer,,0,4,4,,,,3702370
+2,Scotland,5,KJ Coetzer,JH Kallis,NFI McCallum,,0,0,0,,,,3702370
+2,Scotland,5,KJ Coetzer,JH Kallis,NFI McCallum,,0,0,0,,,,3702370
+2,Scotland,5,KJ Coetzer,JH Kallis,NFI McCallum,,0,4,4,,,,3702370
+2,Scotland,5,KJ Coetzer,JH Kallis,NFI McCallum,legbyes,1,1,0,,,,3702370
+2,Scotland,5,NFI McCallum,JH Kallis,KJ Coetzer,,0,0,0,,,,3702370
+2,Scotland,5,NFI McCallum,JH Kallis,KJ Coetzer,,0,0,0,,,,3702370
+2,Scotland,6,KJ Coetzer,J Botha,NFI McCallum,,0,1,1,,,,3702370
+2,Scotland,6,NFI McCallum,J Botha,KJ Coetzer,,0,1,1,,,,3702370
+2,Scotland,6,KJ Coetzer,J Botha,NFI McCallum,,0,1,1,,,,3702370
+2,Scotland,6,NFI McCallum,J Botha,KJ Coetzer,,0,0,0,,,,3702370
+2,Scotland,6,NFI McCallum,J Botha,KJ Coetzer,,0,0,0,bowled,NFI McCallum,,3702370
+2,Scotland,6,JH Stander,J Botha,KJ Coetzer,,0,0,0,,,,3702370
+2,Scotland,7,KJ Coetzer,RE van der Merwe,JH Stander,,0,1,1,,,,3702370
+2,Scotland,7,JH Stander,RE van der Merwe,KJ Coetzer,,0,0,0,,,,3702370
+2,Scotland,7,JH Stander,RE van der Merwe,KJ Coetzer,,0,1,1,,,,3702370
+2,Scotland,7,KJ Coetzer,RE van der Merwe,JH Stander,,0,1,1,,,,3702370
+2,Scotland,7,JH Stander,RE van der Merwe,KJ Coetzer,,0,1,1,,,,3702370
+2,Scotland,7,KJ Coetzer,RE van der Merwe,JH Stander,,0,2,2,,,,3702370
+2,Scotland,8,JH Stander,J Botha,KJ Coetzer,,0,0,0,,,,3702370
+2,Scotland,8,JH Stander,J Botha,KJ Coetzer,,0,0,0,lbw,JH Stander,,3702370
+2,Scotland,8,RM Haq,J Botha,KJ Coetzer,,0,1,1,,,,3702370
+2,Scotland,8,KJ Coetzer,J Botha,RM Haq,,0,0,0,,,,3702370
+2,Scotland,8,KJ Coetzer,J Botha,RM Haq,,0,1,1,,,,3702370
+2,Scotland,8,RM Haq,J Botha,KJ Coetzer,,0,1,1,,,,3702370
+2,Scotland,9,RM Haq,RE van der Merwe,KJ Coetzer,,0,1,1,,,,3702370
+2,Scotland,9,KJ Coetzer,RE van der Merwe,RM Haq,,0,1,1,,,,3702370
+2,Scotland,9,RM Haq,RE van der Merwe,KJ Coetzer,,0,0,0,,,,3702370
+2,Scotland,9,RM Haq,RE van der Merwe,KJ Coetzer,,0,2,2,,,,3702370
+2,Scotland,9,RM Haq,RE van der Merwe,KJ Coetzer,,0,1,1,,,,3702370
+2,Scotland,9,KJ Coetzer,RE van der Merwe,RM Haq,,0,1,1,,,,3702370
+2,Scotland,10,KJ Coetzer,J Botha,RM Haq,,0,1,1,,,,3702370
+2,Scotland,10,RM Haq,J Botha,KJ Coetzer,,0,0,0,,,,3702370
+2,Scotland,10,RM Haq,J Botha,KJ Coetzer,,0,0,0,,,,3702370
+2,Scotland,10,RM Haq,J Botha,KJ Coetzer,,0,1,1,,,,3702370
+2,Scotland,10,KJ Coetzer,J Botha,RM Haq,,0,2,2,,,,3702370
+2,Scotland,10,KJ Coetzer,J Botha,RM Haq,,0,0,0,,,,3702370
+2,Scotland,11,RM Haq,RE van der Merwe,KJ Coetzer,,0,0,0,,,,3702370
+2,Scotland,11,RM Haq,RE van der Merwe,KJ Coetzer,,0,0,0,,,,3702370
+2,Scotland,11,RM Haq,RE van der Merwe,KJ Coetzer,,0,1,1,,,,3702370
+2,Scotland,11,KJ Coetzer,RE van der Merwe,RM Haq,,0,0,0,,,,3702370
+2,Scotland,11,KJ Coetzer,RE van der Merwe,RM Haq,,0,1,1,,,,3702370
+2,Scotland,11,RM Haq,RE van der Merwe,KJ Coetzer,,0,1,1,,,,3702370
+2,Scotland,12,RM Haq,J Botha,KJ Coetzer,,0,2,2,,,,3702370
+2,Scotland,12,RM Haq,J Botha,KJ Coetzer,,0,0,0,,,,3702370
+2,Scotland,12,RM Haq,J Botha,KJ Coetzer,,0,0,0,,,,3702370
+2,Scotland,12,RM Haq,J Botha,KJ Coetzer,,0,2,2,,,,3702370
+2,Scotland,12,RM Haq,J Botha,KJ Coetzer,,0,1,1,,,,3702370
+2,Scotland,12,KJ Coetzer,J Botha,RM Haq,wides,1,1,0,,,,3702370
+2,Scotland,12,KJ Coetzer,J Botha,RM Haq,,0,1,1,,,,3702370
+2,Scotland,13,KJ Coetzer,JA Morkel,RM Haq,,0,6,6,,,,3702370
+2,Scotland,13,KJ Coetzer,JA Morkel,RM Haq,,0,1,1,,,,3702370
+2,Scotland,13,RM Haq,JA Morkel,KJ Coetzer,,0,1,1,,,,3702370
+2,Scotland,13,KJ Coetzer,JA Morkel,RM Haq,,0,6,6,,,,3702370
+2,Scotland,13,KJ Coetzer,JA Morkel,RM Haq,,0,0,0,,,,3702370
+2,Scotland,13,KJ Coetzer,JA Morkel,RM Haq,,0,1,1,,,,3702370
+2,Scotland,14,KJ Coetzer,RE van der Merwe,RM Haq,,0,0,0,caught and bowled,KJ Coetzer,,3702370
+2,Scotland,14,RM Haq,RE van der Merwe,GD Drummond,,0,0,0,bowled,RM Haq,,3702370
+2,Scotland,14,GA Rogers,RE van der Merwe,GD Drummond,,0,1,1,,,,3702370
+2,Scotland,14,GD Drummond,RE van der Merwe,GA Rogers,,0,1,1,,,,3702370
+2,Scotland,14,GA Rogers,RE van der Merwe,GD Drummond,,0,0,0,,,,3702370
+2,Scotland,14,GA Rogers,RE van der Merwe,GD Drummond,,0,0,0,,,,3702370
+2,Scotland,15,GD Drummond,JA Morkel,GA Rogers,,0,0,0,bowled,GD Drummond,,3702370
+2,Scotland,15,CS MacLeod,JA Morkel,GA Rogers,,0,0,0,,,,3702370
+2,Scotland,15,CS MacLeod,JA Morkel,GA Rogers,,0,0,0,,,,3702370
+2,Scotland,15,CS MacLeod,JA Morkel,GA Rogers,,0,0,0,bowled,CS MacLeod,,3702370

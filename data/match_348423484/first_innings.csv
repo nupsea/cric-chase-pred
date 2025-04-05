@@ -1,0 +1,85 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Sri Lanka,0,BYA Mendis,S Ismail,AC Jayangani,,0,4,4,,,,348423484
+1,Sri Lanka,0,BYA Mendis,S Ismail,AC Jayangani,,0,0,0,bowled,BYA Mendis,,348423484
+1,Sri Lanka,0,HASD Siriwardene,S Ismail,AC Jayangani,,0,0,0,,,,348423484
+1,Sri Lanka,0,HASD Siriwardene,S Ismail,AC Jayangani,,0,0,0,,,,348423484
+1,Sri Lanka,0,HASD Siriwardene,S Ismail,AC Jayangani,,0,0,0,,,,348423484
+1,Sri Lanka,0,HASD Siriwardene,S Ismail,AC Jayangani,,0,0,0,,,,348423484
+1,Sri Lanka,1,AC Jayangani,M Kapp,HASD Siriwardene,,0,0,0,,,,348423484
+1,Sri Lanka,1,AC Jayangani,M Kapp,HASD Siriwardene,wides,2,2,0,,,,348423484
+1,Sri Lanka,1,HASD Siriwardene,M Kapp,AC Jayangani,,0,2,2,,,,348423484
+1,Sri Lanka,1,HASD Siriwardene,M Kapp,AC Jayangani,,0,0,0,,,,348423484
+1,Sri Lanka,1,HASD Siriwardene,M Kapp,AC Jayangani,,0,0,0,,,,348423484
+1,Sri Lanka,1,HASD Siriwardene,M Kapp,AC Jayangani,,0,0,0,,,,348423484
+1,Sri Lanka,1,HASD Siriwardene,M Kapp,AC Jayangani,,0,1,1,,,,348423484
+1,Sri Lanka,2,HASD Siriwardene,CL Tryon,AC Jayangani,,0,1,1,,,,348423484
+1,Sri Lanka,2,AC Jayangani,CL Tryon,HASD Siriwardene,legbyes,1,1,0,,,,348423484
+1,Sri Lanka,2,HASD Siriwardene,CL Tryon,AC Jayangani,,0,1,1,,,,348423484
+1,Sri Lanka,2,AC Jayangani,CL Tryon,HASD Siriwardene,,0,0,0,,,,348423484
+1,Sri Lanka,2,AC Jayangani,CL Tryon,HASD Siriwardene,,0,4,4,,,,348423484
+1,Sri Lanka,2,AC Jayangani,CL Tryon,HASD Siriwardene,,0,4,4,,,,348423484
+1,Sri Lanka,3,HASD Siriwardene,S Ismail,AC Jayangani,,0,1,1,,,,348423484
+1,Sri Lanka,3,AC Jayangani,S Ismail,HASD Siriwardene,,0,1,1,,,,348423484
+1,Sri Lanka,3,HASD Siriwardene,S Ismail,AC Jayangani,,0,4,4,,,,348423484
+1,Sri Lanka,3,HASD Siriwardene,S Ismail,AC Jayangani,,0,0,0,,,,348423484
+1,Sri Lanka,3,HASD Siriwardene,S Ismail,AC Jayangani,,0,0,0,,,,348423484
+1,Sri Lanka,3,HASD Siriwardene,S Ismail,AC Jayangani,,0,4,4,,,,348423484
+1,Sri Lanka,4,AC Jayangani,A Khaka,HASD Siriwardene,,0,4,4,,,,348423484
+1,Sri Lanka,4,AC Jayangani,A Khaka,HASD Siriwardene,,0,1,1,,,,348423484
+1,Sri Lanka,4,HASD Siriwardene,A Khaka,AC Jayangani,,0,4,4,,,,348423484
+1,Sri Lanka,4,HASD Siriwardene,A Khaka,AC Jayangani,,0,1,1,,,,348423484
+1,Sri Lanka,4,AC Jayangani,A Khaka,HASD Siriwardene,,0,1,1,,,,348423484
+1,Sri Lanka,4,HASD Siriwardene,A Khaka,AC Jayangani,,0,1,1,,,,348423484
+1,Sri Lanka,5,HASD Siriwardene,D van Niekerk,AC Jayangani,,0,0,0,,,,348423484
+1,Sri Lanka,5,HASD Siriwardene,D van Niekerk,AC Jayangani,,0,1,1,,,,348423484
+1,Sri Lanka,5,AC Jayangani,D van Niekerk,HASD Siriwardene,,0,0,0,,,,348423484
+1,Sri Lanka,5,AC Jayangani,D van Niekerk,HASD Siriwardene,,0,4,4,,,,348423484
+1,Sri Lanka,5,AC Jayangani,D van Niekerk,HASD Siriwardene,,0,0,0,,,,348423484
+1,Sri Lanka,5,AC Jayangani,D van Niekerk,HASD Siriwardene,legbyes,1,1,0,,,,348423484
+1,Sri Lanka,6,AC Jayangani,Y Fourie,HASD Siriwardene,,0,1,1,,,,348423484
+1,Sri Lanka,6,HASD Siriwardene,Y Fourie,AC Jayangani,wides,1,1,0,,,,348423484
+1,Sri Lanka,6,HASD Siriwardene,Y Fourie,AC Jayangani,,0,6,6,,,,348423484
+1,Sri Lanka,6,HASD Siriwardene,Y Fourie,AC Jayangani,,0,0,0,,,,348423484
+1,Sri Lanka,6,HASD Siriwardene,Y Fourie,AC Jayangani,,0,1,1,,,,348423484
+1,Sri Lanka,6,AC Jayangani,Y Fourie,HASD Siriwardene,,0,0,0,bowled,AC Jayangani,,348423484
+1,Sri Lanka,6,LE Kaushalya,Y Fourie,HASD Siriwardene,,0,6,6,,,,348423484
+1,Sri Lanka,7,HASD Siriwardene,M Kapp,LE Kaushalya,,0,0,0,lbw,HASD Siriwardene,,348423484
+1,Sri Lanka,7,GWHM Perera,M Kapp,LE Kaushalya,,0,0,0,,,,348423484
+1,Sri Lanka,7,GWHM Perera,M Kapp,LE Kaushalya,,0,2,2,,,,348423484
+1,Sri Lanka,7,GWHM Perera,M Kapp,LE Kaushalya,,0,1,1,,,,348423484
+1,Sri Lanka,7,LE Kaushalya,M Kapp,GWHM Perera,,0,0,0,,,,348423484
+1,Sri Lanka,7,LE Kaushalya,M Kapp,GWHM Perera,wides,1,1,0,,,,348423484
+1,Sri Lanka,7,LE Kaushalya,M Kapp,GWHM Perera,,0,1,1,,,,348423484
+1,Sri Lanka,8,LE Kaushalya,MM Letsoalo,GWHM Perera,,0,1,1,,,,348423484
+1,Sri Lanka,8,GWHM Perera,MM Letsoalo,LE Kaushalya,,0,4,4,,,,348423484
+1,Sri Lanka,8,GWHM Perera,MM Letsoalo,LE Kaushalya,,0,1,1,,,,348423484
+1,Sri Lanka,8,LE Kaushalya,MM Letsoalo,GWHM Perera,,0,0,0,,,,348423484
+1,Sri Lanka,8,LE Kaushalya,MM Letsoalo,GWHM Perera,,0,2,2,,,,348423484
+1,Sri Lanka,8,LE Kaushalya,MM Letsoalo,GWHM Perera,,0,1,1,,,,348423484
+1,Sri Lanka,9,LE Kaushalya,CL Tryon,GWHM Perera,,0,0,0,,,,348423484
+1,Sri Lanka,9,LE Kaushalya,CL Tryon,GWHM Perera,,0,1,1,,,,348423484
+1,Sri Lanka,9,GWHM Perera,CL Tryon,LE Kaushalya,,0,0,0,,,,348423484
+1,Sri Lanka,9,GWHM Perera,CL Tryon,LE Kaushalya,noballs,1,2,1,,,,348423484
+1,Sri Lanka,9,LE Kaushalya,CL Tryon,GWHM Perera,,0,1,1,,,,348423484
+1,Sri Lanka,9,GWHM Perera,CL Tryon,LE Kaushalya,,0,1,1,,,,348423484
+1,Sri Lanka,9,LE Kaushalya,CL Tryon,GWHM Perera,,0,0,0,,,,348423484
+1,Sri Lanka,10,GWHM Perera,A Khaka,LE Kaushalya,,0,1,1,,,,348423484
+1,Sri Lanka,10,LE Kaushalya,A Khaka,GWHM Perera,,0,0,0,,,,348423484
+1,Sri Lanka,10,LE Kaushalya,A Khaka,GWHM Perera,wides,1,1,0,,,,348423484
+1,Sri Lanka,10,LE Kaushalya,A Khaka,GWHM Perera,wides,1,1,0,,,,348423484
+1,Sri Lanka,10,LE Kaushalya,A Khaka,GWHM Perera,,0,0,0,caught,LE Kaushalya,S Ismail,348423484
+1,Sri Lanka,10,GWHM Perera,A Khaka,KADA Kanchana,,0,0,0,,,,348423484
+1,Sri Lanka,10,GWHM Perera,A Khaka,KADA Kanchana,,0,4,4,,,,348423484
+1,Sri Lanka,10,GWHM Perera,A Khaka,KADA Kanchana,,0,1,1,run out,GWHM Perera,D van Niekerk,348423484
+1,Sri Lanka,11,KADA Kanchana,M Kapp,PM Weerakkody,legbyes,1,1,0,,,,348423484
+1,Sri Lanka,11,PM Weerakkody,M Kapp,KADA Kanchana,,0,4,4,,,,348423484
+1,Sri Lanka,11,PM Weerakkody,M Kapp,KADA Kanchana,legbyes,1,1,0,,,,348423484
+1,Sri Lanka,11,KADA Kanchana,M Kapp,PM Weerakkody,,0,1,1,,,,348423484
+1,Sri Lanka,11,PM Weerakkody,M Kapp,KADA Kanchana,,0,0,0,caught and bowled,PM Weerakkody,,348423484
+1,Sri Lanka,11,NND de Silva,M Kapp,KADA Kanchana,,0,1,1,,,,348423484
+1,Sri Lanka,12,NND de Silva,S Ismail,KADA Kanchana,,0,0,0,,,,348423484
+1,Sri Lanka,12,NND de Silva,S Ismail,KADA Kanchana,,0,1,1,,,,348423484
+1,Sri Lanka,12,KADA Kanchana,S Ismail,NND de Silva,,0,1,1,,,,348423484
+1,Sri Lanka,12,NND de Silva,S Ismail,KADA Kanchana,,0,0,0,,,,348423484
+1,Sri Lanka,12,NND de Silva,S Ismail,KADA Kanchana,,0,1,1,,,,348423484
+1,Sri Lanka,12,KADA Kanchana,S Ismail,NND de Silva,,0,0,0,run out,NND de Silva,T Chetty,348423484

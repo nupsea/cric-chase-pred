@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+confluent-kafka = "*"
+pydantic = "*"
+redis = "*"
+apache-flink = "==1.19.2"
+
+[dev-packages]
+ruff = "*"
+
+[requires]
+python_version = "3.11"

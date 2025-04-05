@@ -1,0 +1,91 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Nepal,0,Sagar Pun,AR Cusack,AK Mandal,,0,4,4,,,,351923519
+1,Nepal,0,Sagar Pun,AR Cusack,AK Mandal,,0,1,1,,,,351923519
+1,Nepal,0,AK Mandal,AR Cusack,Sagar Pun,,0,1,1,,,,351923519
+1,Nepal,0,Sagar Pun,AR Cusack,AK Mandal,,0,0,0,,,,351923519
+1,Nepal,0,Sagar Pun,AR Cusack,AK Mandal,,0,1,1,,,,351923519
+1,Nepal,0,AK Mandal,AR Cusack,Sagar Pun,,0,0,0,,,,351923519
+1,Nepal,1,Sagar Pun,CA Young,AK Mandal,,0,0,0,,,,351923519
+1,Nepal,1,Sagar Pun,CA Young,AK Mandal,,0,4,4,,,,351923519
+1,Nepal,1,Sagar Pun,CA Young,AK Mandal,,0,0,0,,,,351923519
+1,Nepal,1,Sagar Pun,CA Young,AK Mandal,,0,1,1,,,,351923519
+1,Nepal,1,AK Mandal,CA Young,Sagar Pun,,0,1,1,,,,351923519
+1,Nepal,1,Sagar Pun,CA Young,AK Mandal,noballs,1,1,0,,,,351923519
+1,Nepal,1,Sagar Pun,CA Young,AK Mandal,,0,4,4,,,,351923519
+1,Nepal,2,AK Mandal,AR Cusack,Sagar Pun,,0,0,0,,,,351923519
+1,Nepal,2,AK Mandal,AR Cusack,Sagar Pun,,0,0,0,,,,351923519
+1,Nepal,2,AK Mandal,AR Cusack,Sagar Pun,,0,0,0,,,,351923519
+1,Nepal,2,AK Mandal,AR Cusack,Sagar Pun,,0,0,0,,,,351923519
+1,Nepal,2,AK Mandal,AR Cusack,Sagar Pun,,0,0,0,,,,351923519
+1,Nepal,2,AK Mandal,AR Cusack,Sagar Pun,,0,0,0,caught,AK Mandal,KJ O'Brien,351923519
+1,Nepal,3,Sagar Pun,JF Mooney,PS Airee,,0,0,0,,,,351923519
+1,Nepal,3,Sagar Pun,JF Mooney,PS Airee,,0,0,0,,,,351923519
+1,Nepal,3,Sagar Pun,JF Mooney,PS Airee,,0,1,1,,,,351923519
+1,Nepal,3,PS Airee,JF Mooney,Sagar Pun,,0,0,0,lbw,PS Airee,,351923519
+1,Nepal,3,P Khadka,JF Mooney,Sagar Pun,,0,0,0,,,,351923519
+1,Nepal,3,P Khadka,JF Mooney,Sagar Pun,,0,1,1,,,,351923519
+1,Nepal,4,P Khadka,SR Thompson,Sagar Pun,wides,1,1,0,,,,351923519
+1,Nepal,4,P Khadka,SR Thompson,Sagar Pun,,0,1,1,,,,351923519
+1,Nepal,4,Sagar Pun,SR Thompson,P Khadka,,0,0,0,,,,351923519
+1,Nepal,4,Sagar Pun,SR Thompson,P Khadka,,0,1,1,,,,351923519
+1,Nepal,4,P Khadka,SR Thompson,Sagar Pun,,0,0,0,,,,351923519
+1,Nepal,4,P Khadka,SR Thompson,Sagar Pun,,0,0,0,,,,351923519
+1,Nepal,4,P Khadka,SR Thompson,Sagar Pun,,0,0,0,,,,351923519
+1,Nepal,5,Sagar Pun,JF Mooney,P Khadka,,0,2,2,,,,351923519
+1,Nepal,5,Sagar Pun,JF Mooney,P Khadka,wides,1,1,0,,,,351923519
+1,Nepal,5,Sagar Pun,JF Mooney,P Khadka,,0,1,1,,,,351923519
+1,Nepal,5,P Khadka,JF Mooney,Sagar Pun,,0,1,1,,,,351923519
+1,Nepal,5,Sagar Pun,JF Mooney,P Khadka,,0,0,0,caught,Sagar Pun,SR Thompson,351923519
+1,Nepal,5,G Malla,JF Mooney,P Khadka,,0,0,0,,,,351923519
+1,Nepal,5,G Malla,JF Mooney,P Khadka,,0,0,0,,,,351923519
+1,Nepal,6,P Khadka,SR Thompson,G Malla,,0,0,0,,,,351923519
+1,Nepal,6,P Khadka,SR Thompson,G Malla,,0,0,0,,,,351923519
+1,Nepal,6,P Khadka,SR Thompson,G Malla,,0,0,0,,,,351923519
+1,Nepal,6,P Khadka,SR Thompson,G Malla,,0,4,4,,,,351923519
+1,Nepal,6,P Khadka,SR Thompson,G Malla,,0,1,1,,,,351923519
+1,Nepal,6,G Malla,SR Thompson,P Khadka,,0,1,1,,,,351923519
+1,Nepal,7,G Malla,KJ O'Brien,P Khadka,,0,1,1,,,,351923519
+1,Nepal,7,P Khadka,KJ O'Brien,G Malla,,0,1,1,,,,351923519
+1,Nepal,7,G Malla,KJ O'Brien,P Khadka,byes,1,1,0,,,,351923519
+1,Nepal,7,P Khadka,KJ O'Brien,G Malla,,0,1,1,,,,351923519
+1,Nepal,7,G Malla,KJ O'Brien,P Khadka,,0,0,0,,,,351923519
+1,Nepal,7,G Malla,KJ O'Brien,P Khadka,,0,0,0,caught,G Malla,SR Thompson,351923519
+1,Nepal,8,P Khadka,CA Young,S Vesawkar,,0,0,0,,,,351923519
+1,Nepal,8,P Khadka,CA Young,S Vesawkar,,0,0,0,bowled,P Khadka,,351923519
+1,Nepal,8,RP Magar,CA Young,S Vesawkar,,0,0,0,,,,351923519
+1,Nepal,8,RP Magar,CA Young,S Vesawkar,,0,1,1,,,,351923519
+1,Nepal,8,S Vesawkar,CA Young,RP Magar,,0,1,1,,,,351923519
+1,Nepal,8,RP Magar,CA Young,S Vesawkar,,0,1,1,,,,351923519
+1,Nepal,9,RP Magar,KJ O'Brien,S Vesawkar,,0,0,0,,,,351923519
+1,Nepal,9,RP Magar,KJ O'Brien,S Vesawkar,,0,0,0,,,,351923519
+1,Nepal,9,RP Magar,KJ O'Brien,S Vesawkar,,0,1,1,,,,351923519
+1,Nepal,9,S Vesawkar,KJ O'Brien,RP Magar,,0,0,0,,,,351923519
+1,Nepal,9,S Vesawkar,KJ O'Brien,RP Magar,,0,2,2,,,,351923519
+1,Nepal,9,S Vesawkar,KJ O'Brien,RP Magar,,0,0,0,,,,351923519
+1,Nepal,10,RP Magar,CA Young,S Vesawkar,,0,1,1,,,,351923519
+1,Nepal,10,S Vesawkar,CA Young,RP Magar,,0,0,0,,,,351923519
+1,Nepal,10,S Vesawkar,CA Young,RP Magar,,0,2,2,,,,351923519
+1,Nepal,10,S Vesawkar,CA Young,RP Magar,,0,0,0,,,,351923519
+1,Nepal,10,S Vesawkar,CA Young,RP Magar,,0,1,1,,,,351923519
+1,Nepal,10,RP Magar,CA Young,S Vesawkar,,0,1,1,,,,351923519
+1,Nepal,11,RP Magar,KJ O'Brien,S Vesawkar,,0,0,0,,,,351923519
+1,Nepal,11,RP Magar,KJ O'Brien,S Vesawkar,,0,1,1,,,,351923519
+1,Nepal,11,S Vesawkar,KJ O'Brien,RP Magar,,0,0,0,,,,351923519
+1,Nepal,11,S Vesawkar,KJ O'Brien,RP Magar,,0,0,0,caught,S Vesawkar,GC Wilson,351923519
+1,Nepal,11,B Bhandari,KJ O'Brien,RP Magar,,0,0,0,bowled,B Bhandari,,351923519
+1,Nepal,11,B Regmi,KJ O'Brien,RP Magar,,0,0,0,,,,351923519
+1,Nepal,12,RP Magar,SR Thompson,B Regmi,,0,0,0,,,,351923519
+1,Nepal,12,RP Magar,SR Thompson,B Regmi,,0,0,0,,,,351923519
+1,Nepal,12,RP Magar,SR Thompson,B Regmi,legbyes,1,1,0,,,,351923519
+1,Nepal,12,B Regmi,SR Thompson,RP Magar,,0,1,1,,,,351923519
+1,Nepal,12,RP Magar,SR Thompson,B Regmi,,0,0,0,,,,351923519
+1,Nepal,12,RP Magar,SR Thompson,B Regmi,,0,0,0,lbw,RP Magar,,351923519
+1,Nepal,13,B Regmi,KJ O'Brien,Sompal Kami,,0,1,1,,,,351923519
+1,Nepal,13,Sompal Kami,KJ O'Brien,B Regmi,,0,0,0,,,,351923519
+1,Nepal,13,Sompal Kami,KJ O'Brien,B Regmi,,0,0,0,,,,351923519
+1,Nepal,13,Sompal Kami,KJ O'Brien,B Regmi,,0,0,0,,,,351923519
+1,Nepal,13,Sompal Kami,KJ O'Brien,B Regmi,,0,0,0,,,,351923519
+1,Nepal,13,Sompal Kami,KJ O'Brien,B Regmi,,0,0,0,,,,351923519
+1,Nepal,14,B Regmi,SR Thompson,Sompal Kami,,0,0,0,caught,B Regmi,GC Wilson,351923519
+1,Nepal,14,SP Gauchan,SR Thompson,Sompal Kami,,0,0,0,,,,351923519
+1,Nepal,14,SP Gauchan,SR Thompson,Sompal Kami,,0,0,0,caught,SP Gauchan,GC Wilson,351923519

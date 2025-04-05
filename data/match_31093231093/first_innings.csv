@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Pakistan,0,Imam-ul-Haq,MA Starc,Babar Azam,,0,1,1,,,,31093231093
+1,Pakistan,0,Babar Azam,MA Starc,Imam-ul-Haq,,0,0,0,,,,31093231093
+1,Pakistan,0,Babar Azam,MA Starc,Imam-ul-Haq,,0,0,0,,,,31093231093
+1,Pakistan,0,Babar Azam,MA Starc,Imam-ul-Haq,,0,1,1,,,,31093231093
+1,Pakistan,0,Imam-ul-Haq,MA Starc,Babar Azam,,0,0,0,,,,31093231093
+1,Pakistan,0,Imam-ul-Haq,MA Starc,Babar Azam,,0,1,1,,,,31093231093
+1,Pakistan,1,Imam-ul-Haq,SA Abbott,Babar Azam,,0,1,1,,,,31093231093
+1,Pakistan,1,Babar Azam,SA Abbott,Imam-ul-Haq,,0,0,0,,,,31093231093
+1,Pakistan,1,Babar Azam,SA Abbott,Imam-ul-Haq,,0,1,1,,,,31093231093
+1,Pakistan,1,Imam-ul-Haq,SA Abbott,Babar Azam,,0,0,0,,,,31093231093
+1,Pakistan,1,Imam-ul-Haq,SA Abbott,Babar Azam,,0,0,0,,,,31093231093
+1,Pakistan,1,Imam-ul-Haq,SA Abbott,Babar Azam,,0,4,4,,,,31093231093
+1,Pakistan,2,Babar Azam,MA Starc,Imam-ul-Haq,wides,1,1,0,,,,31093231093
+1,Pakistan,2,Babar Azam,MA Starc,Imam-ul-Haq,wides,1,1,0,,,,31093231093
+1,Pakistan,2,Babar Azam,MA Starc,Imam-ul-Haq,,0,4,4,,,,31093231093
+1,Pakistan,2,Babar Azam,MA Starc,Imam-ul-Haq,,0,0,0,lbw,Babar Azam,,31093231093
+1,Pakistan,2,Mohammad Rizwan,MA Starc,Imam-ul-Haq,,0,0,0,bowled,Mohammad Rizwan,,31093231093
+1,Pakistan,2,Haris Sohail,MA Starc,Imam-ul-Haq,,0,0,0,,,,31093231093
+1,Pakistan,2,Haris Sohail,MA Starc,Imam-ul-Haq,,0,0,0,,,,31093231093
+1,Pakistan,2,Haris Sohail,MA Starc,Imam-ul-Haq,,0,0,0,,,,31093231093
+1,Pakistan,3,Imam-ul-Haq,KW Richardson,Haris Sohail,,0,0,0,,,,31093231093
+1,Pakistan,3,Imam-ul-Haq,KW Richardson,Haris Sohail,,0,0,0,,,,31093231093
+1,Pakistan,3,Imam-ul-Haq,KW Richardson,Haris Sohail,,0,2,2,,,,31093231093
+1,Pakistan,3,Imam-ul-Haq,KW Richardson,Haris Sohail,,0,0,0,,,,31093231093
+1,Pakistan,3,Imam-ul-Haq,KW Richardson,Haris Sohail,,0,1,1,,,,31093231093
+1,Pakistan,3,Haris Sohail,KW Richardson,Imam-ul-Haq,,0,0,0,,,,31093231093
+1,Pakistan,4,Imam-ul-Haq,SA Abbott,Haris Sohail,,0,0,0,,,,31093231093
+1,Pakistan,4,Imam-ul-Haq,SA Abbott,Haris Sohail,,0,4,4,,,,31093231093
+1,Pakistan,4,Imam-ul-Haq,SA Abbott,Haris Sohail,,0,0,0,caught,Imam-ul-Haq,BR McDermott,31093231093
+1,Pakistan,4,Haris Sohail,SA Abbott,Iftikhar Ahmed,,0,0,0,,,,31093231093
+1,Pakistan,4,Haris Sohail,SA Abbott,Iftikhar Ahmed,,0,0,0,,,,31093231093
+1,Pakistan,4,Haris Sohail,SA Abbott,Iftikhar Ahmed,,0,0,0,,,,31093231093
+1,Pakistan,5,Iftikhar Ahmed,MA Starc,Haris Sohail,,0,0,0,,,,31093231093
+1,Pakistan,5,Iftikhar Ahmed,MA Starc,Haris Sohail,,0,4,4,,,,31093231093
+1,Pakistan,5,Iftikhar Ahmed,MA Starc,Haris Sohail,,0,4,4,,,,31093231093
+1,Pakistan,5,Iftikhar Ahmed,MA Starc,Haris Sohail,,0,0,0,,,,31093231093
+1,Pakistan,5,Iftikhar Ahmed,MA Starc,Haris Sohail,,0,0,0,,,,31093231093
+1,Pakistan,5,Iftikhar Ahmed,MA Starc,Haris Sohail,,0,4,4,,,,31093231093
+1,Pakistan,6,Haris Sohail,B Stanlake,Iftikhar Ahmed,,0,1,1,,,,31093231093
+1,Pakistan,6,Iftikhar Ahmed,B Stanlake,Haris Sohail,,0,0,0,,,,31093231093
+1,Pakistan,6,Iftikhar Ahmed,B Stanlake,Haris Sohail,,0,2,2,,,,31093231093
+1,Pakistan,6,Iftikhar Ahmed,B Stanlake,Haris Sohail,,0,4,4,,,,31093231093
+1,Pakistan,6,Iftikhar Ahmed,B Stanlake,Haris Sohail,,0,0,0,,,,31093231093
+1,Pakistan,6,Iftikhar Ahmed,B Stanlake,Haris Sohail,,0,0,0,,,,31093231093
+1,Pakistan,7,Haris Sohail,AC Agar,Iftikhar Ahmed,,0,2,2,,,,31093231093
+1,Pakistan,7,Haris Sohail,AC Agar,Iftikhar Ahmed,,0,1,1,,,,31093231093
+1,Pakistan,7,Iftikhar Ahmed,AC Agar,Haris Sohail,,0,2,2,,,,31093231093
+1,Pakistan,7,Iftikhar Ahmed,AC Agar,Haris Sohail,,0,1,1,,,,31093231093
+1,Pakistan,7,Haris Sohail,AC Agar,Iftikhar Ahmed,,0,1,1,,,,31093231093
+1,Pakistan,7,Iftikhar Ahmed,AC Agar,Haris Sohail,,0,0,0,,,,31093231093
+1,Pakistan,8,Haris Sohail,B Stanlake,Iftikhar Ahmed,,0,1,1,,,,31093231093
+1,Pakistan,8,Iftikhar Ahmed,B Stanlake,Haris Sohail,,0,1,1,,,,31093231093
+1,Pakistan,8,Haris Sohail,B Stanlake,Iftikhar Ahmed,,0,0,0,,,,31093231093
+1,Pakistan,8,Haris Sohail,B Stanlake,Iftikhar Ahmed,wides,1,1,0,,,,31093231093
+1,Pakistan,8,Haris Sohail,B Stanlake,Iftikhar Ahmed,,0,1,1,,,,31093231093
+1,Pakistan,8,Iftikhar Ahmed,B Stanlake,Haris Sohail,,0,1,1,,,,31093231093
+1,Pakistan,8,Haris Sohail,B Stanlake,Iftikhar Ahmed,,0,1,1,,,,31093231093
+1,Pakistan,9,Haris Sohail,AC Agar,Iftikhar Ahmed,,0,0,0,caught,Haris Sohail,KW Richardson,31093231093
+1,Pakistan,9,Khushdil Shah,AC Agar,Iftikhar Ahmed,,0,1,1,,,,31093231093
+1,Pakistan,9,Iftikhar Ahmed,AC Agar,Khushdil Shah,,0,1,1,,,,31093231093
+1,Pakistan,9,Khushdil Shah,AC Agar,Iftikhar Ahmed,,0,1,1,,,,31093231093
+1,Pakistan,9,Iftikhar Ahmed,AC Agar,Khushdil Shah,,0,1,1,,,,31093231093
+1,Pakistan,9,Khushdil Shah,AC Agar,Iftikhar Ahmed,,0,1,1,,,,31093231093
+1,Pakistan,10,Khushdil Shah,B Stanlake,Iftikhar Ahmed,legbyes,1,1,0,,,,31093231093
+1,Pakistan,10,Iftikhar Ahmed,B Stanlake,Khushdil Shah,,0,0,0,,,,31093231093
+1,Pakistan,10,Iftikhar Ahmed,B Stanlake,Khushdil Shah,,0,1,1,,,,31093231093
+1,Pakistan,10,Khushdil Shah,B Stanlake,Iftikhar Ahmed,,0,1,1,,,,31093231093
+1,Pakistan,10,Iftikhar Ahmed,B Stanlake,Khushdil Shah,,0,1,1,,,,31093231093
+1,Pakistan,10,Khushdil Shah,B Stanlake,Iftikhar Ahmed,,0,0,0,,,,31093231093
+1,Pakistan,11,Iftikhar Ahmed,AC Agar,Khushdil Shah,,0,1,1,,,,31093231093
+1,Pakistan,11,Khushdil Shah,AC Agar,Iftikhar Ahmed,,0,0,0,,,,31093231093
+1,Pakistan,11,Khushdil Shah,AC Agar,Iftikhar Ahmed,,0,2,2,,,,31093231093
+1,Pakistan,11,Khushdil Shah,AC Agar,Iftikhar Ahmed,,0,1,1,,,,31093231093
+1,Pakistan,11,Iftikhar Ahmed,AC Agar,Khushdil Shah,,0,1,1,,,,31093231093
+1,Pakistan,11,Khushdil Shah,AC Agar,Iftikhar Ahmed,,0,1,1,,,,31093231093
+1,Pakistan,12,Khushdil Shah,KW Richardson,Iftikhar Ahmed,,0,0,0,caught,Khushdil Shah,MA Starc,31093231093
+1,Pakistan,12,Iftikhar Ahmed,KW Richardson,Imad Wasim,,0,4,4,,,,31093231093
+1,Pakistan,12,Iftikhar Ahmed,KW Richardson,Imad Wasim,,0,0,0,,,,31093231093
+1,Pakistan,12,Iftikhar Ahmed,KW Richardson,Imad Wasim,,0,2,2,,,,31093231093
+1,Pakistan,12,Iftikhar Ahmed,KW Richardson,Imad Wasim,,0,0,0,,,,31093231093
+1,Pakistan,12,Iftikhar Ahmed,KW Richardson,Imad Wasim,,0,4,4,,,,31093231093
+1,Pakistan,13,Imad Wasim,AC Agar,Iftikhar Ahmed,,0,1,1,,,,31093231093
+1,Pakistan,13,Iftikhar Ahmed,AC Agar,Imad Wasim,,0,1,1,,,,31093231093
+1,Pakistan,13,Imad Wasim,AC Agar,Iftikhar Ahmed,,0,2,2,,,,31093231093
+1,Pakistan,13,Imad Wasim,AC Agar,Iftikhar Ahmed,,0,1,1,,,,31093231093
+1,Pakistan,13,Iftikhar Ahmed,AC Agar,Imad Wasim,,0,1,1,,,,31093231093
+1,Pakistan,13,Imad Wasim,AC Agar,Iftikhar Ahmed,,0,1,1,,,,31093231093
+1,Pakistan,14,Imad Wasim,SA Abbott,Iftikhar Ahmed,,0,1,1,,,,31093231093
+1,Pakistan,14,Iftikhar Ahmed,SA Abbott,Imad Wasim,,0,1,1,,,,31093231093
+1,Pakistan,14,Imad Wasim,SA Abbott,Iftikhar Ahmed,,0,0,0,caught,Imad Wasim,AC Agar,31093231093
+1,Pakistan,14,Iftikhar Ahmed,SA Abbott,Shadab Khan,,0,0,0,,,,31093231093
+1,Pakistan,14,Iftikhar Ahmed,SA Abbott,Shadab Khan,,0,1,1,,,,31093231093
+1,Pakistan,14,Shadab Khan,SA Abbott,Iftikhar Ahmed,,0,0,0,,,,31093231093
+1,Pakistan,15,Iftikhar Ahmed,B Stanlake,Shadab Khan,,0,1,1,,,,31093231093
+1,Pakistan,15,Shadab Khan,B Stanlake,Iftikhar Ahmed,,0,0,0,,,,31093231093
+1,Pakistan,15,Shadab Khan,B Stanlake,Iftikhar Ahmed,,0,1,1,,,,31093231093
+1,Pakistan,15,Iftikhar Ahmed,B Stanlake,Shadab Khan,,0,0,0,,,,31093231093
+1,Pakistan,15,Iftikhar Ahmed,B Stanlake,Shadab Khan,,0,1,1,,,,31093231093
+1,Pakistan,15,Shadab Khan,B Stanlake,Iftikhar Ahmed,,0,0,0,,,,31093231093
+1,Pakistan,16,Iftikhar Ahmed,KW Richardson,Shadab Khan,,0,0,0,caught,Iftikhar Ahmed,MA Starc,31093231093
+1,Pakistan,16,Shadab Khan,KW Richardson,Mohammad Amir,,0,0,0,,,,31093231093
+1,Pakistan,16,Shadab Khan,KW Richardson,Mohammad Amir,,0,0,0,,,,31093231093
+1,Pakistan,16,Shadab Khan,KW Richardson,Mohammad Amir,,0,0,0,,,,31093231093
+1,Pakistan,16,Shadab Khan,KW Richardson,Mohammad Amir,,0,0,0,caught,Shadab Khan,AJ Finch,31093231093
+1,Pakistan,16,Mohammad Hasnain,KW Richardson,Mohammad Amir,,0,4,4,,,,31093231093
+1,Pakistan,17,Mohammad Amir,MA Starc,Mohammad Hasnain,wides,1,1,0,,,,31093231093
+1,Pakistan,17,Mohammad Amir,MA Starc,Mohammad Hasnain,,0,0,0,,,,31093231093
+1,Pakistan,17,Mohammad Amir,MA Starc,Mohammad Hasnain,,0,6,6,,,,31093231093
+1,Pakistan,17,Mohammad Amir,MA Starc,Mohammad Hasnain,,0,0,0,,,,31093231093
+1,Pakistan,17,Mohammad Amir,MA Starc,Mohammad Hasnain,,0,1,1,,,,31093231093
+1,Pakistan,17,Mohammad Hasnain,MA Starc,Mohammad Amir,,0,0,0,,,,31093231093
+1,Pakistan,17,Mohammad Hasnain,MA Starc,Mohammad Amir,,0,0,0,,,,31093231093
+1,Pakistan,18,Mohammad Amir,KW Richardson,Mohammad Hasnain,,0,1,1,,,,31093231093
+1,Pakistan,18,Mohammad Hasnain,KW Richardson,Mohammad Amir,,0,0,0,,,,31093231093
+1,Pakistan,18,Mohammad Hasnain,KW Richardson,Mohammad Amir,,0,0,0,,,,31093231093
+1,Pakistan,18,Mohammad Hasnain,KW Richardson,Mohammad Amir,,0,0,0,,,,31093231093
+1,Pakistan,18,Mohammad Hasnain,KW Richardson,Mohammad Amir,,0,0,0,,,,31093231093
+1,Pakistan,18,Mohammad Hasnain,KW Richardson,Mohammad Amir,,0,0,0,,,,31093231093
+1,Pakistan,19,Mohammad Amir,SA Abbott,Mohammad Hasnain,,0,0,0,,,,31093231093
+1,Pakistan,19,Mohammad Amir,SA Abbott,Mohammad Hasnain,,0,0,0,,,,31093231093
+1,Pakistan,19,Mohammad Amir,SA Abbott,Mohammad Hasnain,,0,0,0,,,,31093231093
+1,Pakistan,19,Mohammad Amir,SA Abbott,Mohammad Hasnain,,0,1,1,,,,31093231093
+1,Pakistan,19,Mohammad Hasnain,SA Abbott,Mohammad Amir,,0,0,0,,,,31093231093
+1,Pakistan,19,Mohammad Hasnain,SA Abbott,Mohammad Amir,,0,0,0,,,,31093231093

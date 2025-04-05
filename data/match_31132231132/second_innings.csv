@@ -1,0 +1,108 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Malaysia,0,Virandeep Singh,M Faheem,Anwar Arudin,,0,0,0,,,,31132231132
+2,Malaysia,0,Virandeep Singh,M Faheem,Anwar Arudin,,0,0,0,,,,31132231132
+2,Malaysia,0,Virandeep Singh,M Faheem,Anwar Arudin,wides,1,1,0,,,,31132231132
+2,Malaysia,0,Virandeep Singh,M Faheem,Anwar Arudin,,0,0,0,,,,31132231132
+2,Malaysia,0,Virandeep Singh,M Faheem,Anwar Arudin,,0,0,0,caught,Virandeep Singh,K Suttisan,31132231132
+2,Malaysia,0,Shafiq Sharif,M Faheem,Anwar Arudin,wides,1,1,0,,,,31132231132
+2,Malaysia,0,Shafiq Sharif,M Faheem,Anwar Arudin,,0,0,0,caught,Shafiq Sharif,Md Shafiqul Haque,31132231132
+2,Malaysia,0,Ahmed Faiz,M Faheem,Anwar Arudin,,0,0,0,,,,31132231132
+2,Malaysia,1,Anwar Arudin,K Senamontree,Ahmed Faiz,,0,1,1,,,,31132231132
+2,Malaysia,1,Ahmed Faiz,K Senamontree,Anwar Arudin,,0,4,4,,,,31132231132
+2,Malaysia,1,Ahmed Faiz,K Senamontree,Anwar Arudin,,0,2,2,,,,31132231132
+2,Malaysia,1,Ahmed Faiz,K Senamontree,Anwar Arudin,,0,1,1,,,,31132231132
+2,Malaysia,1,Anwar Arudin,K Senamontree,Ahmed Faiz,,0,4,4,,,,31132231132
+2,Malaysia,1,Anwar Arudin,K Senamontree,Ahmed Faiz,wides,1,1,0,,,,31132231132
+2,Malaysia,1,Anwar Arudin,K Senamontree,Ahmed Faiz,,0,0,0,,,,31132231132
+2,Malaysia,2,Ahmed Faiz,M Faheem,Anwar Arudin,,0,1,1,,,,31132231132
+2,Malaysia,2,Anwar Arudin,M Faheem,Ahmed Faiz,,0,0,0,,,,31132231132
+2,Malaysia,2,Anwar Arudin,M Faheem,Ahmed Faiz,,0,1,1,,,,31132231132
+2,Malaysia,2,Ahmed Faiz,M Faheem,Anwar Arudin,,0,1,1,,,,31132231132
+2,Malaysia,2,Anwar Arudin,M Faheem,Ahmed Faiz,,0,0,0,,,,31132231132
+2,Malaysia,2,Anwar Arudin,M Faheem,Ahmed Faiz,,0,0,0,,,,31132231132
+2,Malaysia,3,Ahmed Faiz,Z Hoque,Anwar Arudin,,0,0,0,,,,31132231132
+2,Malaysia,3,Ahmed Faiz,Z Hoque,Anwar Arudin,,0,0,0,,,,31132231132
+2,Malaysia,3,Ahmed Faiz,Z Hoque,Anwar Arudin,,0,0,0,,,,31132231132
+2,Malaysia,3,Ahmed Faiz,Z Hoque,Anwar Arudin,,0,0,0,,,,31132231132
+2,Malaysia,3,Ahmed Faiz,Z Hoque,Anwar Arudin,,0,1,1,,,,31132231132
+2,Malaysia,3,Anwar Arudin,Z Hoque,Ahmed Faiz,,0,0,0,,,,31132231132
+2,Malaysia,4,Ahmed Faiz,M Faheem,Anwar Arudin,,0,0,0,,,,31132231132
+2,Malaysia,4,Ahmed Faiz,M Faheem,Anwar Arudin,,0,0,0,,,,31132231132
+2,Malaysia,4,Ahmed Faiz,M Faheem,Anwar Arudin,,0,0,0,,,,31132231132
+2,Malaysia,4,Ahmed Faiz,M Faheem,Anwar Arudin,,0,1,1,,,,31132231132
+2,Malaysia,4,Anwar Arudin,M Faheem,Ahmed Faiz,,0,4,4,,,,31132231132
+2,Malaysia,4,Anwar Arudin,M Faheem,Ahmed Faiz,,0,1,1,,,,31132231132
+2,Malaysia,5,Anwar Arudin,Z Hoque,Ahmed Faiz,,0,1,1,,,,31132231132
+2,Malaysia,5,Ahmed Faiz,Z Hoque,Anwar Arudin,,0,0,0,caught,Ahmed Faiz,Vichanath Singh,31132231132
+2,Malaysia,5,M Syahadat Ramli,Z Hoque,Anwar Arudin,,0,1,1,,,,31132231132
+2,Malaysia,5,Anwar Arudin,Z Hoque,M Syahadat Ramli,,0,0,0,,,,31132231132
+2,Malaysia,5,Anwar Arudin,Z Hoque,M Syahadat Ramli,,0,0,0,,,,31132231132
+2,Malaysia,5,Anwar Arudin,Z Hoque,M Syahadat Ramli,,0,1,1,,,,31132231132
+2,Malaysia,6,Anwar Arudin,Vichanath Singh,M Syahadat Ramli,,0,0,0,,,,31132231132
+2,Malaysia,6,Anwar Arudin,Vichanath Singh,M Syahadat Ramli,,0,2,2,,,,31132231132
+2,Malaysia,6,Anwar Arudin,Vichanath Singh,M Syahadat Ramli,,0,2,2,,,,31132231132
+2,Malaysia,6,Anwar Arudin,Vichanath Singh,M Syahadat Ramli,,0,1,1,,,,31132231132
+2,Malaysia,6,M Syahadat Ramli,Vichanath Singh,Anwar Arudin,,0,1,1,,,,31132231132
+2,Malaysia,6,Anwar Arudin,Vichanath Singh,M Syahadat Ramli,wides,1,1,0,,,,31132231132
+2,Malaysia,6,Anwar Arudin,Vichanath Singh,M Syahadat Ramli,,0,0,0,caught,Anwar Arudin,K Suttisan,31132231132
+2,Malaysia,7,M Syahadat Ramli,Z Hoque,Syed Aziz,,0,0,0,,,,31132231132
+2,Malaysia,7,M Syahadat Ramli,Z Hoque,Syed Aziz,,0,1,1,,,,31132231132
+2,Malaysia,7,Syed Aziz,Z Hoque,M Syahadat Ramli,,0,0,0,,,,31132231132
+2,Malaysia,7,Syed Aziz,Z Hoque,M Syahadat Ramli,,0,0,0,,,,31132231132
+2,Malaysia,7,Syed Aziz,Z Hoque,M Syahadat Ramli,,0,0,0,,,,31132231132
+2,Malaysia,7,Syed Aziz,Z Hoque,M Syahadat Ramli,,0,1,1,,,,31132231132
+2,Malaysia,8,Syed Aziz,Vichanath Singh,M Syahadat Ramli,,0,0,0,,,,31132231132
+2,Malaysia,8,Syed Aziz,Vichanath Singh,M Syahadat Ramli,,0,1,1,,,,31132231132
+2,Malaysia,8,M Syahadat Ramli,Vichanath Singh,Syed Aziz,,0,0,0,,,,31132231132
+2,Malaysia,8,M Syahadat Ramli,Vichanath Singh,Syed Aziz,,0,0,0,,,,31132231132
+2,Malaysia,8,M Syahadat Ramli,Vichanath Singh,Syed Aziz,,0,4,4,,,,31132231132
+2,Malaysia,8,M Syahadat Ramli,Vichanath Singh,Syed Aziz,,0,0,0,,,,31132231132
+2,Malaysia,9,Syed Aziz,Anowarul Islam,M Syahadat Ramli,wides,1,1,0,,,,31132231132
+2,Malaysia,9,Syed Aziz,Anowarul Islam,M Syahadat Ramli,,0,1,1,,,,31132231132
+2,Malaysia,9,M Syahadat Ramli,Anowarul Islam,Syed Aziz,,0,4,4,,,,31132231132
+2,Malaysia,9,M Syahadat Ramli,Anowarul Islam,Syed Aziz,,0,1,1,,,,31132231132
+2,Malaysia,9,Syed Aziz,Anowarul Islam,M Syahadat Ramli,,0,1,1,,,,31132231132
+2,Malaysia,9,M Syahadat Ramli,Anowarul Islam,Syed Aziz,,0,1,1,,,,31132231132
+2,Malaysia,9,Syed Aziz,Anowarul Islam,M Syahadat Ramli,,0,1,1,,,,31132231132
+2,Malaysia,10,Syed Aziz,Vichanath Singh,M Syahadat Ramli,,0,1,1,,,,31132231132
+2,Malaysia,10,M Syahadat Ramli,Vichanath Singh,Syed Aziz,,0,1,1,,,,31132231132
+2,Malaysia,10,Syed Aziz,Vichanath Singh,M Syahadat Ramli,,0,0,0,,,,31132231132
+2,Malaysia,10,Syed Aziz,Vichanath Singh,M Syahadat Ramli,,0,1,1,,,,31132231132
+2,Malaysia,10,M Syahadat Ramli,Vichanath Singh,Syed Aziz,,0,0,0,,,,31132231132
+2,Malaysia,10,M Syahadat Ramli,Vichanath Singh,Syed Aziz,,0,0,0,,,,31132231132
+2,Malaysia,11,Syed Aziz,DF Jacobs,M Syahadat Ramli,,0,0,0,,,,31132231132
+2,Malaysia,11,Syed Aziz,DF Jacobs,M Syahadat Ramli,,0,1,1,,,,31132231132
+2,Malaysia,11,M Syahadat Ramli,DF Jacobs,Syed Aziz,,0,6,6,,,,31132231132
+2,Malaysia,11,M Syahadat Ramli,DF Jacobs,Syed Aziz,,0,1,1,,,,31132231132
+2,Malaysia,11,Syed Aziz,DF Jacobs,M Syahadat Ramli,,0,4,4,,,,31132231132
+2,Malaysia,11,Syed Aziz,DF Jacobs,M Syahadat Ramli,,0,1,1,,,,31132231132
+2,Malaysia,12,Syed Aziz,C Pengkumta,M Syahadat Ramli,,0,0,0,,,,31132231132
+2,Malaysia,12,Syed Aziz,C Pengkumta,M Syahadat Ramli,,0,4,4,,,,31132231132
+2,Malaysia,12,Syed Aziz,C Pengkumta,M Syahadat Ramli,,0,1,1,,,,31132231132
+2,Malaysia,12,M Syahadat Ramli,C Pengkumta,Syed Aziz,,0,1,1,,,,31132231132
+2,Malaysia,12,Syed Aziz,C Pengkumta,M Syahadat Ramli,,0,1,1,,,,31132231132
+2,Malaysia,12,M Syahadat Ramli,C Pengkumta,Syed Aziz,,0,1,1,,,,31132231132
+2,Malaysia,13,M Syahadat Ramli,Z Hoque,Syed Aziz,,0,0,0,,,,31132231132
+2,Malaysia,13,M Syahadat Ramli,Z Hoque,Syed Aziz,,0,1,1,,,,31132231132
+2,Malaysia,13,Syed Aziz,Z Hoque,M Syahadat Ramli,,0,4,4,,,,31132231132
+2,Malaysia,13,Syed Aziz,Z Hoque,M Syahadat Ramli,,0,1,1,,,,31132231132
+2,Malaysia,13,M Syahadat Ramli,Z Hoque,Syed Aziz,,0,1,1,,,,31132231132
+2,Malaysia,13,Syed Aziz,Z Hoque,M Syahadat Ramli,,0,0,0,,,,31132231132
+2,Malaysia,14,M Syahadat Ramli,Vichanath Singh,Syed Aziz,,0,0,0,,,,31132231132
+2,Malaysia,14,M Syahadat Ramli,Vichanath Singh,Syed Aziz,,0,1,1,,,,31132231132
+2,Malaysia,14,Syed Aziz,Vichanath Singh,M Syahadat Ramli,,0,1,1,,,,31132231132
+2,Malaysia,14,M Syahadat Ramli,Vichanath Singh,Syed Aziz,,0,0,0,,,,31132231132
+2,Malaysia,14,M Syahadat Ramli,Vichanath Singh,Syed Aziz,,0,1,1,,,,31132231132
+2,Malaysia,14,Syed Aziz,Vichanath Singh,M Syahadat Ramli,,0,1,1,,,,31132231132
+2,Malaysia,15,Syed Aziz,N Pathan,M Syahadat Ramli,,0,1,1,,,,31132231132
+2,Malaysia,15,M Syahadat Ramli,N Pathan,Syed Aziz,,0,4,4,,,,31132231132
+2,Malaysia,15,M Syahadat Ramli,N Pathan,Syed Aziz,,0,4,4,,,,31132231132
+2,Malaysia,15,M Syahadat Ramli,N Pathan,Syed Aziz,,0,1,1,,,,31132231132
+2,Malaysia,15,Syed Aziz,N Pathan,M Syahadat Ramli,,0,0,0,caught,Syed Aziz,C Pengkumta,31132231132
+2,Malaysia,15,M Syahadat Ramli,N Pathan,Aminuddin Ramly,,0,1,1,,,,31132231132
+2,Malaysia,16,M Syahadat Ramli,M Faheem,Aminuddin Ramly,legbyes,1,1,0,,,,31132231132
+2,Malaysia,16,Aminuddin Ramly,M Faheem,M Syahadat Ramli,,0,6,6,,,,31132231132
+2,Malaysia,16,Aminuddin Ramly,M Faheem,M Syahadat Ramli,,0,4,4,,,,31132231132
+2,Malaysia,16,Aminuddin Ramly,M Faheem,M Syahadat Ramli,,0,1,1,,,,31132231132
+2,Malaysia,16,M Syahadat Ramli,M Faheem,Aminuddin Ramly,,0,0,0,,,,31132231132
+2,Malaysia,16,M Syahadat Ramli,M Faheem,Aminuddin Ramly,,0,4,4,,,,31132231132

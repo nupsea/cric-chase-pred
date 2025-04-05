@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Sri Lanka,0,MD Gunathilaka,MA Starc,BKG Mendis,,0,0,0,,,,31088231088
+2,Sri Lanka,0,MD Gunathilaka,MA Starc,BKG Mendis,,0,1,1,,,,31088231088
+2,Sri Lanka,0,BKG Mendis,MA Starc,MD Gunathilaka,,0,0,0,,,,31088231088
+2,Sri Lanka,0,BKG Mendis,MA Starc,MD Gunathilaka,,0,0,0,,,,31088231088
+2,Sri Lanka,0,BKG Mendis,MA Starc,MD Gunathilaka,,0,0,0,caught,BKG Mendis,AJ Turner,31088231088
+2,Sri Lanka,0,PBB Rajapaksa,MA Starc,MD Gunathilaka,,0,0,0,,,,31088231088
+2,Sri Lanka,1,MD Gunathilaka,KW Richardson,PBB Rajapaksa,,0,1,1,,,,31088231088
+2,Sri Lanka,1,PBB Rajapaksa,KW Richardson,MD Gunathilaka,,0,0,0,,,,31088231088
+2,Sri Lanka,1,PBB Rajapaksa,KW Richardson,MD Gunathilaka,,0,1,1,,,,31088231088
+2,Sri Lanka,1,MD Gunathilaka,KW Richardson,PBB Rajapaksa,,0,0,0,,,,31088231088
+2,Sri Lanka,1,MD Gunathilaka,KW Richardson,PBB Rajapaksa,,0,0,0,,,,31088231088
+2,Sri Lanka,1,MD Gunathilaka,KW Richardson,PBB Rajapaksa,,0,1,1,,,,31088231088
+2,Sri Lanka,2,MD Gunathilaka,MA Starc,PBB Rajapaksa,,0,0,0,,,,31088231088
+2,Sri Lanka,2,MD Gunathilaka,MA Starc,PBB Rajapaksa,,0,4,4,,,,31088231088
+2,Sri Lanka,2,MD Gunathilaka,MA Starc,PBB Rajapaksa,,0,4,4,,,,31088231088
+2,Sri Lanka,2,MD Gunathilaka,MA Starc,PBB Rajapaksa,,0,0,0,,,,31088231088
+2,Sri Lanka,2,MD Gunathilaka,MA Starc,PBB Rajapaksa,,0,0,0,,,,31088231088
+2,Sri Lanka,2,MD Gunathilaka,MA Starc,PBB Rajapaksa,,0,0,0,,,,31088231088
+2,Sri Lanka,3,PBB Rajapaksa,PJ Cummins,MD Gunathilaka,,0,0,0,,,,31088231088
+2,Sri Lanka,3,PBB Rajapaksa,PJ Cummins,MD Gunathilaka,,0,1,1,,,,31088231088
+2,Sri Lanka,3,MD Gunathilaka,PJ Cummins,PBB Rajapaksa,,0,0,0,caught,MD Gunathilaka,DA Warner,31088231088
+2,Sri Lanka,3,PBB Rajapaksa,PJ Cummins,MDKJ Perera,,0,0,0,bowled,PBB Rajapaksa,,31088231088
+2,Sri Lanka,3,BOP Fernando,PJ Cummins,MDKJ Perera,,0,1,1,,,,31088231088
+2,Sri Lanka,3,MDKJ Perera,PJ Cummins,BOP Fernando,,0,0,0,,,,31088231088
+2,Sri Lanka,4,BOP Fernando,KW Richardson,MDKJ Perera,,0,0,0,,,,31088231088
+2,Sri Lanka,4,BOP Fernando,KW Richardson,MDKJ Perera,,0,0,0,,,,31088231088
+2,Sri Lanka,4,BOP Fernando,KW Richardson,MDKJ Perera,,0,0,0,,,,31088231088
+2,Sri Lanka,4,BOP Fernando,KW Richardson,MDKJ Perera,wides,1,1,0,,,,31088231088
+2,Sri Lanka,4,BOP Fernando,KW Richardson,MDKJ Perera,,0,0,0,,,,31088231088
+2,Sri Lanka,4,BOP Fernando,KW Richardson,MDKJ Perera,,0,2,2,,,,31088231088
+2,Sri Lanka,4,BOP Fernando,KW Richardson,MDKJ Perera,,0,0,0,,,,31088231088
+2,Sri Lanka,5,MDKJ Perera,PJ Cummins,BOP Fernando,,0,1,1,,,,31088231088
+2,Sri Lanka,5,BOP Fernando,PJ Cummins,MDKJ Perera,,0,4,4,,,,31088231088
+2,Sri Lanka,5,BOP Fernando,PJ Cummins,MDKJ Perera,,0,2,2,,,,31088231088
+2,Sri Lanka,5,BOP Fernando,PJ Cummins,MDKJ Perera,,0,0,0,,,,31088231088
+2,Sri Lanka,5,BOP Fernando,PJ Cummins,MDKJ Perera,,0,1,1,,,,31088231088
+2,Sri Lanka,5,MDKJ Perera,PJ Cummins,BOP Fernando,,0,4,4,,,,31088231088
+2,Sri Lanka,6,BOP Fernando,A Zampa,MDKJ Perera,legbyes,1,1,0,,,,31088231088
+2,Sri Lanka,6,MDKJ Perera,A Zampa,BOP Fernando,,0,2,2,,,,31088231088
+2,Sri Lanka,6,MDKJ Perera,A Zampa,BOP Fernando,,0,1,1,,,,31088231088
+2,Sri Lanka,6,BOP Fernando,A Zampa,MDKJ Perera,,0,1,1,,,,31088231088
+2,Sri Lanka,6,MDKJ Perera,A Zampa,BOP Fernando,,0,1,1,,,,31088231088
+2,Sri Lanka,6,BOP Fernando,A Zampa,MDKJ Perera,legbyes,3,3,0,,,,31088231088
+2,Sri Lanka,7,BOP Fernando,AC Agar,MDKJ Perera,,0,0,0,,,,31088231088
+2,Sri Lanka,7,BOP Fernando,AC Agar,MDKJ Perera,,0,1,1,,,,31088231088
+2,Sri Lanka,7,MDKJ Perera,AC Agar,BOP Fernando,,0,1,1,,,,31088231088
+2,Sri Lanka,7,BOP Fernando,AC Agar,MDKJ Perera,,0,0,0,,,,31088231088
+2,Sri Lanka,7,BOP Fernando,AC Agar,MDKJ Perera,,0,0,0,,,,31088231088
+2,Sri Lanka,7,BOP Fernando,AC Agar,MDKJ Perera,,0,0,0,,,,31088231088
+2,Sri Lanka,8,MDKJ Perera,A Zampa,BOP Fernando,,0,0,0,,,,31088231088
+2,Sri Lanka,8,MDKJ Perera,A Zampa,BOP Fernando,,0,2,2,,,,31088231088
+2,Sri Lanka,8,MDKJ Perera,A Zampa,BOP Fernando,,0,0,0,,,,31088231088
+2,Sri Lanka,8,MDKJ Perera,A Zampa,BOP Fernando,,0,1,1,,,,31088231088
+2,Sri Lanka,8,BOP Fernando,A Zampa,MDKJ Perera,,0,1,1,,,,31088231088
+2,Sri Lanka,8,MDKJ Perera,A Zampa,BOP Fernando,,0,1,1,,,,31088231088
+2,Sri Lanka,9,MDKJ Perera,AC Agar,BOP Fernando,,0,1,1,,,,31088231088
+2,Sri Lanka,9,BOP Fernando,AC Agar,MDKJ Perera,,0,0,0,bowled,BOP Fernando,,31088231088
+2,Sri Lanka,9,MD Shanaka,AC Agar,MDKJ Perera,,0,1,1,,,,31088231088
+2,Sri Lanka,9,MDKJ Perera,AC Agar,MD Shanaka,,0,0,0,,,,31088231088
+2,Sri Lanka,9,MDKJ Perera,AC Agar,MD Shanaka,,0,1,1,,,,31088231088
+2,Sri Lanka,9,MD Shanaka,AC Agar,MDKJ Perera,,0,1,1,,,,31088231088
+2,Sri Lanka,10,MD Shanaka,MA Starc,MDKJ Perera,,0,0,0,,,,31088231088
+2,Sri Lanka,10,MD Shanaka,MA Starc,MDKJ Perera,legbyes,1,1,0,,,,31088231088
+2,Sri Lanka,10,MDKJ Perera,MA Starc,MD Shanaka,,0,0,0,bowled,MDKJ Perera,,31088231088
+2,Sri Lanka,10,PWH de Silva,MA Starc,MD Shanaka,,0,1,1,,,,31088231088
+2,Sri Lanka,10,MD Shanaka,MA Starc,PWH de Silva,,0,4,4,,,,31088231088
+2,Sri Lanka,10,MD Shanaka,MA Starc,PWH de Silva,,0,0,0,,,,31088231088
+2,Sri Lanka,11,PWH de Silva,AC Agar,MD Shanaka,,0,1,1,,,,31088231088
+2,Sri Lanka,11,MD Shanaka,AC Agar,PWH de Silva,,0,1,1,,,,31088231088
+2,Sri Lanka,11,PWH de Silva,AC Agar,MD Shanaka,,0,0,0,,,,31088231088
+2,Sri Lanka,11,PWH de Silva,AC Agar,MD Shanaka,,0,0,0,,,,31088231088
+2,Sri Lanka,11,PWH de Silva,AC Agar,MD Shanaka,,0,0,0,,,,31088231088
+2,Sri Lanka,11,PWH de Silva,AC Agar,MD Shanaka,,0,0,0,,,,31088231088
+2,Sri Lanka,12,MD Shanaka,KW Richardson,PWH de Silva,,0,2,2,,,,31088231088
+2,Sri Lanka,12,MD Shanaka,KW Richardson,PWH de Silva,,0,0,0,,,,31088231088
+2,Sri Lanka,12,MD Shanaka,KW Richardson,PWH de Silva,,0,0,0,,,,31088231088
+2,Sri Lanka,12,MD Shanaka,KW Richardson,PWH de Silva,noballs,1,7,6,,,,31088231088
+2,Sri Lanka,12,MD Shanaka,KW Richardson,PWH de Silva,,0,0,0,,,,31088231088
+2,Sri Lanka,12,MD Shanaka,KW Richardson,PWH de Silva,,0,0,0,,,,31088231088
+2,Sri Lanka,12,MD Shanaka,KW Richardson,PWH de Silva,,0,0,0,,,,31088231088
+2,Sri Lanka,13,PWH de Silva,AC Agar,MD Shanaka,,0,1,1,,,,31088231088
+2,Sri Lanka,13,MD Shanaka,AC Agar,PWH de Silva,,0,1,1,,,,31088231088
+2,Sri Lanka,13,PWH de Silva,AC Agar,MD Shanaka,,0,1,1,,,,31088231088
+2,Sri Lanka,13,MD Shanaka,AC Agar,PWH de Silva,,0,1,1,,,,31088231088
+2,Sri Lanka,13,PWH de Silva,AC Agar,MD Shanaka,,0,0,0,,,,31088231088
+2,Sri Lanka,13,PWH de Silva,AC Agar,MD Shanaka,,0,1,1,run out,PWH de Silva,,31088231088
+2,Sri Lanka,14,MD Shanaka,A Zampa,PADLR Sandakan,,0,0,0,,,,31088231088
+2,Sri Lanka,14,MD Shanaka,A Zampa,PADLR Sandakan,,0,0,0,caught,MD Shanaka,KW Richardson,31088231088
+2,Sri Lanka,14,SL Malinga,A Zampa,PADLR Sandakan,legbyes,1,1,0,,,,31088231088
+2,Sri Lanka,14,PADLR Sandakan,A Zampa,SL Malinga,,0,0,0,,,,31088231088
+2,Sri Lanka,14,PADLR Sandakan,A Zampa,SL Malinga,,0,1,1,,,,31088231088
+2,Sri Lanka,14,SL Malinga,A Zampa,PADLR Sandakan,,0,1,1,,,,31088231088
+2,Sri Lanka,15,SL Malinga,PJ Cummins,PADLR Sandakan,,0,1,1,,,,31088231088
+2,Sri Lanka,15,PADLR Sandakan,PJ Cummins,SL Malinga,,0,4,4,,,,31088231088
+2,Sri Lanka,15,PADLR Sandakan,PJ Cummins,SL Malinga,,0,1,1,,,,31088231088
+2,Sri Lanka,15,SL Malinga,PJ Cummins,PADLR Sandakan,,0,1,1,,,,31088231088
+2,Sri Lanka,15,PADLR Sandakan,PJ Cummins,SL Malinga,,0,0,0,,,,31088231088
+2,Sri Lanka,15,PADLR Sandakan,PJ Cummins,SL Malinga,,0,0,0,,,,31088231088
+2,Sri Lanka,16,SL Malinga,A Zampa,PADLR Sandakan,,0,0,0,,,,31088231088
+2,Sri Lanka,16,SL Malinga,A Zampa,PADLR Sandakan,,0,1,1,,,,31088231088
+2,Sri Lanka,16,PADLR Sandakan,A Zampa,SL Malinga,,0,0,0,caught,PADLR Sandakan,AC Agar,31088231088
+2,Sri Lanka,16,SL Malinga,A Zampa,CAK Rajitha,,0,1,1,,,,31088231088
+2,Sri Lanka,16,CAK Rajitha,A Zampa,SL Malinga,,0,0,0,,,,31088231088
+2,Sri Lanka,16,CAK Rajitha,A Zampa,SL Malinga,,0,0,0,stumped,CAK Rajitha,AT Carey,31088231088
+2,Sri Lanka,17,SL Malinga,MA Starc,N Pradeep,,0,1,1,,,,31088231088
+2,Sri Lanka,17,N Pradeep,MA Starc,SL Malinga,,0,2,2,,,,31088231088
+2,Sri Lanka,17,N Pradeep,MA Starc,SL Malinga,,0,0,0,,,,31088231088
+2,Sri Lanka,17,N Pradeep,MA Starc,SL Malinga,,0,1,1,,,,31088231088
+2,Sri Lanka,17,SL Malinga,MA Starc,N Pradeep,,0,0,0,,,,31088231088
+2,Sri Lanka,17,SL Malinga,MA Starc,N Pradeep,,0,0,0,,,,31088231088
+2,Sri Lanka,18,N Pradeep,KW Richardson,SL Malinga,,0,0,0,,,,31088231088
+2,Sri Lanka,18,N Pradeep,KW Richardson,SL Malinga,,0,4,4,,,,31088231088
+2,Sri Lanka,18,N Pradeep,KW Richardson,SL Malinga,,0,1,1,,,,31088231088
+2,Sri Lanka,18,SL Malinga,KW Richardson,N Pradeep,,0,0,0,,,,31088231088
+2,Sri Lanka,18,SL Malinga,KW Richardson,N Pradeep,,0,0,0,,,,31088231088
+2,Sri Lanka,18,SL Malinga,KW Richardson,N Pradeep,,0,1,1,,,,31088231088
+2,Sri Lanka,19,SL Malinga,PJ Cummins,N Pradeep,,0,0,0,,,,31088231088
+2,Sri Lanka,19,SL Malinga,PJ Cummins,N Pradeep,,0,0,0,,,,31088231088
+2,Sri Lanka,19,SL Malinga,PJ Cummins,N Pradeep,,0,0,0,,,,31088231088
+2,Sri Lanka,19,SL Malinga,PJ Cummins,N Pradeep,,0,4,4,,,,31088231088
+2,Sri Lanka,19,SL Malinga,PJ Cummins,N Pradeep,,0,0,0,,,,31088231088
+2,Sri Lanka,19,SL Malinga,PJ Cummins,N Pradeep,,0,2,2,,,,31088231088

@@ -1,0 +1,91 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Sweden,0,W Boshoff,Amjad Sher,Rahel Khan,,0,1,1,,,,31618231618
+2,Sweden,0,Rahel Khan,Amjad Sher,W Boshoff,,0,0,0,,,,31618231618
+2,Sweden,0,Rahel Khan,Amjad Sher,W Boshoff,,0,1,1,,,,31618231618
+2,Sweden,0,W Boshoff,Amjad Sher,Rahel Khan,,0,1,1,,,,31618231618
+2,Sweden,0,Rahel Khan,Amjad Sher,W Boshoff,,0,0,0,,,,31618231618
+2,Sweden,0,Rahel Khan,Amjad Sher,W Boshoff,,0,0,0,,,,31618231618
+2,Sweden,1,W Boshoff,Naveed Shahid,Rahel Khan,,0,0,0,,,,31618231618
+2,Sweden,1,W Boshoff,Naveed Shahid,Rahel Khan,,0,0,0,,,,31618231618
+2,Sweden,1,W Boshoff,Naveed Shahid,Rahel Khan,,0,1,1,,,,31618231618
+2,Sweden,1,Rahel Khan,Naveed Shahid,W Boshoff,,0,1,1,,,,31618231618
+2,Sweden,1,W Boshoff,Naveed Shahid,Rahel Khan,,0,1,1,,,,31618231618
+2,Sweden,1,Rahel Khan,Naveed Shahid,W Boshoff,,0,0,0,,,,31618231618
+2,Sweden,2,W Boshoff,Amjad Sher,Rahel Khan,,0,1,1,,,,31618231618
+2,Sweden,2,Rahel Khan,Amjad Sher,W Boshoff,,0,4,4,,,,31618231618
+2,Sweden,2,Rahel Khan,Amjad Sher,W Boshoff,,0,0,0,,,,31618231618
+2,Sweden,2,Rahel Khan,Amjad Sher,W Boshoff,,0,2,2,,,,31618231618
+2,Sweden,2,Rahel Khan,Amjad Sher,W Boshoff,,0,1,1,,,,31618231618
+2,Sweden,2,W Boshoff,Amjad Sher,Rahel Khan,,0,0,0,,,,31618231618
+2,Sweden,3,Rahel Khan,Naveed Shahid,W Boshoff,,0,4,4,,,,31618231618
+2,Sweden,3,Rahel Khan,Naveed Shahid,W Boshoff,,0,1,1,,,,31618231618
+2,Sweden,3,W Boshoff,Naveed Shahid,Rahel Khan,,0,1,1,,,,31618231618
+2,Sweden,3,Rahel Khan,Naveed Shahid,W Boshoff,,0,1,1,,,,31618231618
+2,Sweden,3,W Boshoff,Naveed Shahid,Rahel Khan,,0,1,1,,,,31618231618
+2,Sweden,3,Rahel Khan,Naveed Shahid,W Boshoff,,0,6,6,,,,31618231618
+2,Sweden,4,W Boshoff,Amjad Sher,Rahel Khan,,0,0,0,caught,W Boshoff,Naveed Shahid,31618231618
+2,Sweden,4,A Venkatesh,Amjad Sher,Rahel Khan,wides,1,1,0,,,,31618231618
+2,Sweden,4,A Venkatesh,Amjad Sher,Rahel Khan,,0,0,0,,,,31618231618
+2,Sweden,4,A Venkatesh,Amjad Sher,Rahel Khan,,0,2,2,,,,31618231618
+2,Sweden,4,A Venkatesh,Amjad Sher,Rahel Khan,,0,0,0,,,,31618231618
+2,Sweden,4,A Venkatesh,Amjad Sher,Rahel Khan,,0,4,4,,,,31618231618
+2,Sweden,4,A Venkatesh,Amjad Sher,Rahel Khan,,0,0,0,,,,31618231618
+2,Sweden,5,Rahel Khan,Adnan Syed,A Venkatesh,,0,0,0,,,,31618231618
+2,Sweden,5,Rahel Khan,Adnan Syed,A Venkatesh,,0,0,0,,,,31618231618
+2,Sweden,5,Rahel Khan,Adnan Syed,A Venkatesh,,0,1,1,,,,31618231618
+2,Sweden,5,A Venkatesh,Adnan Syed,Rahel Khan,,0,2,2,,,,31618231618
+2,Sweden,5,A Venkatesh,Adnan Syed,Rahel Khan,,0,1,1,,,,31618231618
+2,Sweden,5,Rahel Khan,Adnan Syed,A Venkatesh,,0,2,2,,,,31618231618
+2,Sweden,6,A Venkatesh,Amjad Sher,Rahel Khan,,0,0,0,,,,31618231618
+2,Sweden,6,A Venkatesh,Amjad Sher,Rahel Khan,,0,1,1,,,,31618231618
+2,Sweden,6,Rahel Khan,Amjad Sher,A Venkatesh,,0,6,6,,,,31618231618
+2,Sweden,6,Rahel Khan,Amjad Sher,A Venkatesh,,0,0,0,caught,Rahel Khan,Raaz Mohammad,31618231618
+2,Sweden,6,R Gowthaman,Amjad Sher,A Venkatesh,,0,0,0,,,,31618231618
+2,Sweden,6,R Gowthaman,Amjad Sher,A Venkatesh,,0,0,0,,,,31618231618
+2,Sweden,7,A Venkatesh,Adnan Syed,R Gowthaman,,0,1,1,,,,31618231618
+2,Sweden,7,R Gowthaman,Adnan Syed,A Venkatesh,,0,0,0,,,,31618231618
+2,Sweden,7,R Gowthaman,Adnan Syed,A Venkatesh,,0,0,0,,,,31618231618
+2,Sweden,7,R Gowthaman,Adnan Syed,A Venkatesh,,0,1,1,,,,31618231618
+2,Sweden,7,A Venkatesh,Adnan Syed,R Gowthaman,,0,0,0,,,,31618231618
+2,Sweden,7,A Venkatesh,Adnan Syed,R Gowthaman,,0,0,0,,,,31618231618
+2,Sweden,8,R Gowthaman,PF Gallagher,A Venkatesh,,0,0,0,,,,31618231618
+2,Sweden,8,R Gowthaman,PF Gallagher,A Venkatesh,,0,0,0,caught,R Gowthaman,Areeb Quadir,31618231618
+2,Sweden,8,Dipanjan Dey,PF Gallagher,A Venkatesh,,0,1,1,,,,31618231618
+2,Sweden,8,A Venkatesh,PF Gallagher,Dipanjan Dey,,0,0,0,,,,31618231618
+2,Sweden,8,A Venkatesh,PF Gallagher,Dipanjan Dey,,0,0,0,caught,A Venkatesh,A Pusthay,31618231618
+2,Sweden,8,Khalid Zahid,PF Gallagher,Dipanjan Dey,,0,0,0,run out,Dipanjan Dey,PF Gallagher,31618231618
+2,Sweden,9,Humayun Kabir,Adnan Syed,Khalid Zahid,,0,1,1,,,,31618231618
+2,Sweden,9,Khalid Zahid,Adnan Syed,Humayun Kabir,,0,1,1,,,,31618231618
+2,Sweden,9,Humayun Kabir,Adnan Syed,Khalid Zahid,,0,2,2,,,,31618231618
+2,Sweden,9,Humayun Kabir,Adnan Syed,Khalid Zahid,wides,1,1,0,,,,31618231618
+2,Sweden,9,Humayun Kabir,Adnan Syed,Khalid Zahid,,0,0,0,,,,31618231618
+2,Sweden,9,Humayun Kabir,Adnan Syed,Khalid Zahid,,0,1,1,,,,31618231618
+2,Sweden,9,Khalid Zahid,Adnan Syed,Humayun Kabir,,0,2,2,,,,31618231618
+2,Sweden,10,Humayun Kabir,PF Gallagher,Khalid Zahid,,0,0,0,,,,31618231618
+2,Sweden,10,Humayun Kabir,PF Gallagher,Khalid Zahid,,0,1,1,,,,31618231618
+2,Sweden,10,Khalid Zahid,PF Gallagher,Humayun Kabir,,0,2,2,,,,31618231618
+2,Sweden,10,Khalid Zahid,PF Gallagher,Humayun Kabir,,0,4,4,,,,31618231618
+2,Sweden,10,Khalid Zahid,PF Gallagher,Humayun Kabir,,0,4,4,,,,31618231618
+2,Sweden,10,Khalid Zahid,PF Gallagher,Humayun Kabir,,0,1,1,,,,31618231618
+2,Sweden,11,Khalid Zahid,MB Tambe,Humayun Kabir,,0,1,1,,,,31618231618
+2,Sweden,11,Humayun Kabir,MB Tambe,Khalid Zahid,,0,0,0,,,,31618231618
+2,Sweden,11,Humayun Kabir,MB Tambe,Khalid Zahid,,0,0,0,,,,31618231618
+2,Sweden,11,Humayun Kabir,MB Tambe,Khalid Zahid,wides,1,1,0,,,,31618231618
+2,Sweden,11,Humayun Kabir,MB Tambe,Khalid Zahid,,0,2,2,,,,31618231618
+2,Sweden,11,Humayun Kabir,MB Tambe,Khalid Zahid,wides,2,2,0,,,,31618231618
+2,Sweden,11,Khalid Zahid,MB Tambe,Humayun Kabir,,0,2,2,,,,31618231618
+2,Sweden,11,Khalid Zahid,MB Tambe,Humayun Kabir,,0,2,2,,,,31618231618
+2,Sweden,12,Humayun Kabir,PF Gallagher,Khalid Zahid,,0,0,0,caught,Humayun Kabir,AK Mohan,31618231618
+2,Sweden,12,Khalid Zahid,PF Gallagher,Qudratullah Mir Afzail,,0,2,2,,,,31618231618
+2,Sweden,12,Khalid Zahid,PF Gallagher,Qudratullah Mir Afzail,wides,1,1,0,,,,31618231618
+2,Sweden,12,Khalid Zahid,PF Gallagher,Qudratullah Mir Afzail,,0,4,4,,,,31618231618
+2,Sweden,12,Khalid Zahid,PF Gallagher,Qudratullah Mir Afzail,,0,2,2,,,,31618231618
+2,Sweden,12,Khalid Zahid,PF Gallagher,Qudratullah Mir Afzail,,0,6,6,,,,31618231618
+2,Sweden,12,Khalid Zahid,PF Gallagher,Qudratullah Mir Afzail,,0,1,1,,,,31618231618
+2,Sweden,13,Khalid Zahid,MB Tambe,Qudratullah Mir Afzail,,0,0,0,,,,31618231618
+2,Sweden,13,Khalid Zahid,MB Tambe,Qudratullah Mir Afzail,,0,2,2,,,,31618231618
+2,Sweden,13,Khalid Zahid,MB Tambe,Qudratullah Mir Afzail,wides,2,2,0,,,,31618231618
+2,Sweden,13,Qudratullah Mir Afzail,MB Tambe,Khalid Zahid,,0,1,1,,,,31618231618
+2,Sweden,13,Khalid Zahid,MB Tambe,Qudratullah Mir Afzail,,0,1,1,run out,Qudratullah Mir Afzail,MB Tambe,31618231618
+2,Sweden,13,Khalid Zahid,MB Tambe,L Karlsson,,0,6,6,,,,31618231618
+2,Sweden,13,Khalid Zahid,MB Tambe,L Karlsson,,0,4,4,,,,31618231618

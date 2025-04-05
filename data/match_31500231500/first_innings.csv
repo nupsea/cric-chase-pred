@@ -1,0 +1,131 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Nepal,0,K Bhurtel,PA van Meekeren,Aasif Sheikh,,0,0,0,,,,31500231500
+1,Nepal,0,K Bhurtel,PA van Meekeren,Aasif Sheikh,,0,1,1,,,,31500231500
+1,Nepal,0,Aasif Sheikh,PA van Meekeren,K Bhurtel,,0,0,0,,,,31500231500
+1,Nepal,0,Aasif Sheikh,PA van Meekeren,K Bhurtel,,0,6,6,,,,31500231500
+1,Nepal,0,Aasif Sheikh,PA van Meekeren,K Bhurtel,,0,0,0,,,,31500231500
+1,Nepal,0,Aasif Sheikh,PA van Meekeren,K Bhurtel,,0,0,0,,,,31500231500
+1,Nepal,1,K Bhurtel,VJ Kingma,Aasif Sheikh,noballs,1,5,4,,,,31500231500
+1,Nepal,1,K Bhurtel,VJ Kingma,Aasif Sheikh,,0,0,0,,,,31500231500
+1,Nepal,1,K Bhurtel,VJ Kingma,Aasif Sheikh,,0,4,4,,,,31500231500
+1,Nepal,1,K Bhurtel,VJ Kingma,Aasif Sheikh,,0,1,1,,,,31500231500
+1,Nepal,1,Aasif Sheikh,VJ Kingma,K Bhurtel,wides,1,1,0,,,,31500231500
+1,Nepal,1,Aasif Sheikh,VJ Kingma,K Bhurtel,,0,4,4,,,,31500231500
+1,Nepal,1,Aasif Sheikh,VJ Kingma,K Bhurtel,,0,6,6,,,,31500231500
+1,Nepal,1,Aasif Sheikh,VJ Kingma,K Bhurtel,,0,0,0,,,,31500231500
+1,Nepal,2,K Bhurtel,PRP Boissevain,Aasif Sheikh,wides,1,1,0,,,,31500231500
+1,Nepal,2,K Bhurtel,PRP Boissevain,Aasif Sheikh,,0,1,1,,,,31500231500
+1,Nepal,2,Aasif Sheikh,PRP Boissevain,K Bhurtel,,0,0,0,caught,Aasif Sheikh,PA van Meekeren,31500231500
+1,Nepal,2,K Bhurtel,PRP Boissevain,G Malla,,0,0,0,,,,31500231500
+1,Nepal,2,K Bhurtel,PRP Boissevain,G Malla,,0,1,1,,,,31500231500
+1,Nepal,2,G Malla,PRP Boissevain,K Bhurtel,,0,0,0,,,,31500231500
+1,Nepal,2,G Malla,PRP Boissevain,K Bhurtel,,0,4,4,,,,31500231500
+1,Nepal,3,K Bhurtel,BFW de Leede,G Malla,wides,1,1,0,,,,31500231500
+1,Nepal,3,K Bhurtel,BFW de Leede,G Malla,,0,0,0,,,,31500231500
+1,Nepal,3,K Bhurtel,BFW de Leede,G Malla,,0,1,1,,,,31500231500
+1,Nepal,3,G Malla,BFW de Leede,K Bhurtel,,0,1,1,,,,31500231500
+1,Nepal,3,K Bhurtel,BFW de Leede,G Malla,,0,1,1,,,,31500231500
+1,Nepal,3,G Malla,BFW de Leede,K Bhurtel,,0,1,1,,,,31500231500
+1,Nepal,3,K Bhurtel,BFW de Leede,G Malla,,0,1,1,,,,31500231500
+1,Nepal,4,K Bhurtel,VJ Kingma,G Malla,,0,0,0,,,,31500231500
+1,Nepal,4,K Bhurtel,VJ Kingma,G Malla,,0,1,1,,,,31500231500
+1,Nepal,4,G Malla,VJ Kingma,K Bhurtel,,0,4,4,,,,31500231500
+1,Nepal,4,G Malla,VJ Kingma,K Bhurtel,,0,1,1,,,,31500231500
+1,Nepal,4,K Bhurtel,VJ Kingma,G Malla,,0,0,0,,,,31500231500
+1,Nepal,4,K Bhurtel,VJ Kingma,G Malla,,0,1,1,,,,31500231500
+1,Nepal,5,K Bhurtel,PA van Meekeren,G Malla,,0,1,1,,,,31500231500
+1,Nepal,5,G Malla,PA van Meekeren,K Bhurtel,,0,6,6,,,,31500231500
+1,Nepal,5,G Malla,PA van Meekeren,K Bhurtel,legbyes,1,1,0,,,,31500231500
+1,Nepal,5,K Bhurtel,PA van Meekeren,G Malla,,0,0,0,,,,31500231500
+1,Nepal,5,K Bhurtel,PA van Meekeren,G Malla,,0,0,0,,,,31500231500
+1,Nepal,5,K Bhurtel,PA van Meekeren,G Malla,,0,0,0,,,,31500231500
+1,Nepal,6,G Malla,PM Seelaar,K Bhurtel,,0,0,0,,,,31500231500
+1,Nepal,6,G Malla,PM Seelaar,K Bhurtel,legbyes,1,1,0,,,,31500231500
+1,Nepal,6,K Bhurtel,PM Seelaar,G Malla,,0,0,0,,,,31500231500
+1,Nepal,6,K Bhurtel,PM Seelaar,G Malla,,0,1,1,,,,31500231500
+1,Nepal,6,G Malla,PM Seelaar,K Bhurtel,,0,4,4,,,,31500231500
+1,Nepal,6,G Malla,PM Seelaar,K Bhurtel,,0,0,0,,,,31500231500
+1,Nepal,7,K Bhurtel,BFW de Leede,G Malla,,0,4,4,,,,31500231500
+1,Nepal,7,K Bhurtel,BFW de Leede,G Malla,,0,1,1,,,,31500231500
+1,Nepal,7,G Malla,BFW de Leede,K Bhurtel,,0,0,0,,,,31500231500
+1,Nepal,7,G Malla,BFW de Leede,K Bhurtel,,0,6,6,,,,31500231500
+1,Nepal,7,G Malla,BFW de Leede,K Bhurtel,,0,1,1,,,,31500231500
+1,Nepal,7,K Bhurtel,BFW de Leede,G Malla,,0,0,0,,,,31500231500
+1,Nepal,8,G Malla,PM Seelaar,K Bhurtel,,0,1,1,,,,31500231500
+1,Nepal,8,K Bhurtel,PM Seelaar,G Malla,,0,0,0,,,,31500231500
+1,Nepal,8,K Bhurtel,PM Seelaar,G Malla,,0,4,4,,,,31500231500
+1,Nepal,8,K Bhurtel,PM Seelaar,G Malla,,0,4,4,,,,31500231500
+1,Nepal,8,K Bhurtel,PM Seelaar,G Malla,,0,0,0,,,,31500231500
+1,Nepal,8,K Bhurtel,PM Seelaar,G Malla,,0,0,0,,,,31500231500
+1,Nepal,9,G Malla,PRP Boissevain,K Bhurtel,,0,2,2,,,,31500231500
+1,Nepal,9,G Malla,PRP Boissevain,K Bhurtel,,0,2,2,,,,31500231500
+1,Nepal,9,G Malla,PRP Boissevain,K Bhurtel,,0,0,0,caught,G Malla,PM Seelaar,31500231500
+1,Nepal,9,K Bhurtel,PRP Boissevain,Kushal Malla,,0,2,2,,,,31500231500
+1,Nepal,9,K Bhurtel,PRP Boissevain,Kushal Malla,,0,1,1,,,,31500231500
+1,Nepal,9,Kushal Malla,PRP Boissevain,K Bhurtel,,0,1,1,,,,31500231500
+1,Nepal,10,Kushal Malla,TS Braat,K Bhurtel,,0,1,1,,,,31500231500
+1,Nepal,10,K Bhurtel,TS Braat,Kushal Malla,,0,0,0,,,,31500231500
+1,Nepal,10,K Bhurtel,TS Braat,Kushal Malla,,0,6,6,,,,31500231500
+1,Nepal,10,K Bhurtel,TS Braat,Kushal Malla,,0,1,1,,,,31500231500
+1,Nepal,10,Kushal Malla,TS Braat,K Bhurtel,,0,2,2,,,,31500231500
+1,Nepal,10,Kushal Malla,TS Braat,K Bhurtel,,0,6,6,,,,31500231500
+1,Nepal,11,K Bhurtel,VJ Kingma,Kushal Malla,,0,1,1,,,,31500231500
+1,Nepal,11,Kushal Malla,VJ Kingma,K Bhurtel,,0,1,1,,,,31500231500
+1,Nepal,11,K Bhurtel,VJ Kingma,Kushal Malla,wides,1,1,0,,,,31500231500
+1,Nepal,11,K Bhurtel,VJ Kingma,Kushal Malla,,0,0,0,,,,31500231500
+1,Nepal,11,K Bhurtel,VJ Kingma,Kushal Malla,,0,1,1,,,,31500231500
+1,Nepal,11,Kushal Malla,VJ Kingma,K Bhurtel,legbyes,1,1,0,,,,31500231500
+1,Nepal,11,K Bhurtel,VJ Kingma,Kushal Malla,,0,1,1,,,,31500231500
+1,Nepal,12,K Bhurtel,PRP Boissevain,Kushal Malla,,0,0,0,,,,31500231500
+1,Nepal,12,K Bhurtel,PRP Boissevain,Kushal Malla,,0,1,1,,,,31500231500
+1,Nepal,12,Kushal Malla,PRP Boissevain,K Bhurtel,,0,1,1,,,,31500231500
+1,Nepal,12,K Bhurtel,PRP Boissevain,Kushal Malla,,0,6,6,,,,31500231500
+1,Nepal,12,K Bhurtel,PRP Boissevain,Kushal Malla,,0,4,4,,,,31500231500
+1,Nepal,12,K Bhurtel,PRP Boissevain,Kushal Malla,,0,1,1,,,,31500231500
+1,Nepal,13,K Bhurtel,PA van Meekeren,Kushal Malla,,0,4,4,,,,31500231500
+1,Nepal,13,K Bhurtel,PA van Meekeren,Kushal Malla,,0,6,6,,,,31500231500
+1,Nepal,13,K Bhurtel,PA van Meekeren,Kushal Malla,,0,1,1,,,,31500231500
+1,Nepal,13,Kushal Malla,PA van Meekeren,K Bhurtel,,0,0,0,,,,31500231500
+1,Nepal,13,Kushal Malla,PA van Meekeren,K Bhurtel,,0,0,0,,,,31500231500
+1,Nepal,13,Kushal Malla,PA van Meekeren,K Bhurtel,,0,0,0,,,,31500231500
+1,Nepal,14,K Bhurtel,BFW de Leede,Kushal Malla,,0,1,1,,,,31500231500
+1,Nepal,14,Kushal Malla,BFW de Leede,K Bhurtel,noballs,1,5,4,,,,31500231500
+1,Nepal,14,Kushal Malla,BFW de Leede,K Bhurtel,,0,4,4,,,,31500231500
+1,Nepal,14,Kushal Malla,BFW de Leede,K Bhurtel,,0,6,6,,,,31500231500
+1,Nepal,14,Kushal Malla,BFW de Leede,K Bhurtel,,0,1,1,,,,31500231500
+1,Nepal,14,K Bhurtel,BFW de Leede,Kushal Malla,,0,3,3,,,,31500231500
+1,Nepal,14,Kushal Malla,BFW de Leede,K Bhurtel,,0,0,0,,,,31500231500
+1,Nepal,15,K Bhurtel,TS Braat,Kushal Malla,,0,4,4,,,,31500231500
+1,Nepal,15,K Bhurtel,TS Braat,Kushal Malla,,0,1,1,,,,31500231500
+1,Nepal,15,Kushal Malla,TS Braat,K Bhurtel,,0,1,1,,,,31500231500
+1,Nepal,15,K Bhurtel,TS Braat,Kushal Malla,,0,0,0,caught,K Bhurtel,PM Seelaar,31500231500
+1,Nepal,15,Kushal Malla,TS Braat,DS Airee,,0,6,6,,,,31500231500
+1,Nepal,15,Kushal Malla,TS Braat,DS Airee,,0,0,0,,,,31500231500
+1,Nepal,16,DS Airee,PRP Boissevain,Kushal Malla,,0,2,2,,,,31500231500
+1,Nepal,16,DS Airee,PRP Boissevain,Kushal Malla,,0,4,4,,,,31500231500
+1,Nepal,16,DS Airee,PRP Boissevain,Kushal Malla,,0,1,1,,,,31500231500
+1,Nepal,16,Kushal Malla,PRP Boissevain,DS Airee,,0,1,1,,,,31500231500
+1,Nepal,16,DS Airee,PRP Boissevain,Kushal Malla,,0,1,1,,,,31500231500
+1,Nepal,16,Kushal Malla,PRP Boissevain,DS Airee,,0,6,6,,,,31500231500
+1,Nepal,17,DS Airee,PA van Meekeren,Kushal Malla,,0,4,4,,,,31500231500
+1,Nepal,17,DS Airee,PA van Meekeren,Kushal Malla,,0,6,6,,,,31500231500
+1,Nepal,17,DS Airee,PA van Meekeren,Kushal Malla,,0,1,1,,,,31500231500
+1,Nepal,17,Kushal Malla,PA van Meekeren,DS Airee,,0,6,6,,,,31500231500
+1,Nepal,17,Kushal Malla,PA van Meekeren,DS Airee,wides,1,1,0,,,,31500231500
+1,Nepal,17,Kushal Malla,PA van Meekeren,DS Airee,,0,1,1,,,,31500231500
+1,Nepal,17,DS Airee,PA van Meekeren,Kushal Malla,wides,1,1,0,,,,31500231500
+1,Nepal,17,DS Airee,PA van Meekeren,Kushal Malla,wides,1,1,0,,,,31500231500
+1,Nepal,17,DS Airee,PA van Meekeren,Kushal Malla,legbyes,1,1,0,,,,31500231500
+1,Nepal,18,DS Airee,BFW de Leede,Kushal Malla,,0,0,0,,,,31500231500
+1,Nepal,18,DS Airee,BFW de Leede,Kushal Malla,,0,1,1,,,,31500231500
+1,Nepal,18,Kushal Malla,BFW de Leede,DS Airee,,0,1,1,,,,31500231500
+1,Nepal,18,DS Airee,BFW de Leede,Kushal Malla,,0,6,6,,,,31500231500
+1,Nepal,18,DS Airee,BFW de Leede,Kushal Malla,,0,4,4,,,,31500231500
+1,Nepal,18,DS Airee,BFW de Leede,Kushal Malla,,0,4,4,,,,31500231500
+1,Nepal,19,Kushal Malla,VJ Kingma,DS Airee,,0,1,1,,,,31500231500
+1,Nepal,19,DS Airee,VJ Kingma,Kushal Malla,,0,2,2,,,,31500231500
+1,Nepal,19,DS Airee,VJ Kingma,Kushal Malla,wides,1,1,0,,,,31500231500
+1,Nepal,19,DS Airee,VJ Kingma,Kushal Malla,,0,6,6,,,,31500231500
+1,Nepal,19,DS Airee,VJ Kingma,Kushal Malla,,0,0,0,,,,31500231500
+1,Nepal,19,DS Airee,VJ Kingma,Kushal Malla,,0,2,2,,,,31500231500
+1,Nepal,19,DS Airee,VJ Kingma,Kushal Malla,,0,4,4,,,,31500231500

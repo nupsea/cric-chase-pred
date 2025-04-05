@@ -1,0 +1,111 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Portugal,0,Kuldeep,Mohammad Kamran,SP Gomes,wides,1,1,0,,,,32111232111
+1,Portugal,0,Kuldeep,Mohammad Kamran,SP Gomes,,0,0,0,,,,32111232111
+1,Portugal,0,Kuldeep,Mohammad Kamran,SP Gomes,,0,2,2,,,,32111232111
+1,Portugal,0,Kuldeep,Mohammad Kamran,SP Gomes,,0,0,0,,,,32111232111
+1,Portugal,0,Kuldeep,Mohammad Kamran,SP Gomes,,0,2,2,,,,32111232111
+1,Portugal,0,Kuldeep,Mohammad Kamran,SP Gomes,,0,0,0,,,,32111232111
+1,Portugal,0,Kuldeep,Mohammad Kamran,SP Gomes,,0,1,1,,,,32111232111
+1,Portugal,1,Kuldeep,Raja Adeel,SP Gomes,,0,0,0,,,,32111232111
+1,Portugal,1,Kuldeep,Raja Adeel,SP Gomes,,0,0,0,,,,32111232111
+1,Portugal,1,Kuldeep,Raja Adeel,SP Gomes,,0,6,6,,,,32111232111
+1,Portugal,1,Kuldeep,Raja Adeel,SP Gomes,,0,0,0,,,,32111232111
+1,Portugal,1,Kuldeep,Raja Adeel,SP Gomes,byes,1,1,0,,,,32111232111
+1,Portugal,1,SP Gomes,Raja Adeel,Kuldeep,,0,0,0,,,,32111232111
+1,Portugal,2,Kuldeep,Mohammad Kamran,SP Gomes,,0,1,1,,,,32111232111
+1,Portugal,2,SP Gomes,Mohammad Kamran,Kuldeep,,0,0,0,,,,32111232111
+1,Portugal,2,SP Gomes,Mohammad Kamran,Kuldeep,,0,0,0,lbw,SP Gomes,,32111232111
+1,Portugal,2,Imran Khan,Mohammad Kamran,Kuldeep,,0,0,0,,,,32111232111
+1,Portugal,2,Imran Khan,Mohammad Kamran,Kuldeep,,0,0,0,,,,32111232111
+1,Portugal,2,Imran Khan,Mohammad Kamran,Kuldeep,,0,0,0,,,,32111232111
+1,Portugal,3,Kuldeep,Raja Adeel,Imran Khan,,0,2,2,,,,32111232111
+1,Portugal,3,Kuldeep,Raja Adeel,Imran Khan,,0,1,1,,,,32111232111
+1,Portugal,3,Imran Khan,Raja Adeel,Kuldeep,,0,4,4,,,,32111232111
+1,Portugal,3,Imran Khan,Raja Adeel,Kuldeep,,0,0,0,,,,32111232111
+1,Portugal,3,Imran Khan,Raja Adeel,Kuldeep,,0,0,0,,,,32111232111
+1,Portugal,3,Imran Khan,Raja Adeel,Kuldeep,,0,4,4,,,,32111232111
+1,Portugal,4,Kuldeep,Mohammad Kamran,Imran Khan,,0,0,0,,,,32111232111
+1,Portugal,4,Kuldeep,Mohammad Kamran,Imran Khan,,0,0,0,,,,32111232111
+1,Portugal,4,Kuldeep,Mohammad Kamran,Imran Khan,,0,4,4,,,,32111232111
+1,Portugal,4,Kuldeep,Mohammad Kamran,Imran Khan,,0,0,0,,,,32111232111
+1,Portugal,4,Kuldeep,Mohammad Kamran,Imran Khan,noballs,2,2,0,,,,32111232111
+1,Portugal,4,Imran Khan,Mohammad Kamran,Kuldeep,,0,0,0,,,,32111232111
+1,Portugal,4,Imran Khan,Mohammad Kamran,Kuldeep,,0,1,1,,,,32111232111
+1,Portugal,5,Imran Khan,Yasir Ali,Kuldeep,,0,1,1,,,,32111232111
+1,Portugal,5,Kuldeep,Yasir Ali,Imran Khan,wides,1,1,0,,,,32111232111
+1,Portugal,5,Kuldeep,Yasir Ali,Imran Khan,,0,0,0,caught,Kuldeep,Mohammad Kamran,32111232111
+1,Portugal,5,Najjam Shahzad,Yasir Ali,Imran Khan,,0,0,0,,,,32111232111
+1,Portugal,5,Najjam Shahzad,Yasir Ali,Imran Khan,,0,0,0,caught,Najjam Shahzad,D Doyle-Calle,32111232111
+1,Portugal,5,Amir Zaib,Yasir Ali,Imran Khan,,0,1,1,,,,32111232111
+1,Portugal,5,Imran Khan,Yasir Ali,Amir Zaib,,0,0,0,,,,32111232111
+1,Portugal,6,Amir Zaib,LA Burns,Imran Khan,,0,1,1,,,,32111232111
+1,Portugal,6,Imran Khan,LA Burns,Amir Zaib,,0,0,0,,,,32111232111
+1,Portugal,6,Imran Khan,LA Burns,Amir Zaib,,0,0,0,lbw,Imran Khan,,32111232111
+1,Portugal,6,F Stoman,LA Burns,Amir Zaib,,0,0,0,,,,32111232111
+1,Portugal,6,F Stoman,LA Burns,Amir Zaib,,0,0,0,,,,32111232111
+1,Portugal,6,F Stoman,LA Burns,Amir Zaib,,0,0,0,,,,32111232111
+1,Portugal,7,Amir Zaib,Yasir Ali,F Stoman,,0,0,0,run out,F Stoman,C Munoz-Mills,32111232111
+1,Portugal,7,Sirajullah Khadim,Yasir Ali,Amir Zaib,,0,1,1,,,,32111232111
+1,Portugal,7,Amir Zaib,Yasir Ali,Sirajullah Khadim,,0,0,0,,,,32111232111
+1,Portugal,7,Amir Zaib,Yasir Ali,Sirajullah Khadim,,0,0,0,,,,32111232111
+1,Portugal,7,Amir Zaib,Yasir Ali,Sirajullah Khadim,,0,0,0,,,,32111232111
+1,Portugal,7,Amir Zaib,Yasir Ali,Sirajullah Khadim,,0,1,1,,,,32111232111
+1,Portugal,8,Amir Zaib,LA Burns,Sirajullah Khadim,,0,0,0,,,,32111232111
+1,Portugal,8,Amir Zaib,LA Burns,Sirajullah Khadim,,0,0,0,,,,32111232111
+1,Portugal,8,Amir Zaib,LA Burns,Sirajullah Khadim,,0,1,1,,,,32111232111
+1,Portugal,8,Sirajullah Khadim,LA Burns,Amir Zaib,,0,1,1,,,,32111232111
+1,Portugal,8,Amir Zaib,LA Burns,Sirajullah Khadim,,0,0,0,,,,32111232111
+1,Portugal,8,Amir Zaib,LA Burns,Sirajullah Khadim,,0,1,1,,,,32111232111
+1,Portugal,9,Amir Zaib,Yasir Ali,Sirajullah Khadim,,0,0,0,,,,32111232111
+1,Portugal,9,Amir Zaib,Yasir Ali,Sirajullah Khadim,,0,1,1,,,,32111232111
+1,Portugal,9,Sirajullah Khadim,Yasir Ali,Amir Zaib,,0,0,0,,,,32111232111
+1,Portugal,9,Sirajullah Khadim,Yasir Ali,Amir Zaib,,0,1,1,,,,32111232111
+1,Portugal,9,Amir Zaib,Yasir Ali,Sirajullah Khadim,,0,0,0,,,,32111232111
+1,Portugal,9,Amir Zaib,Yasir Ali,Sirajullah Khadim,,0,0,0,,,,32111232111
+1,Portugal,10,Sirajullah Khadim,LA Burns,Amir Zaib,,0,0,0,,,,32111232111
+1,Portugal,10,Sirajullah Khadim,LA Burns,Amir Zaib,,0,2,2,,,,32111232111
+1,Portugal,10,Sirajullah Khadim,LA Burns,Amir Zaib,,0,0,0,,,,32111232111
+1,Portugal,10,Sirajullah Khadim,LA Burns,Amir Zaib,,0,1,1,,,,32111232111
+1,Portugal,10,Amir Zaib,LA Burns,Sirajullah Khadim,,0,6,6,,,,32111232111
+1,Portugal,10,Amir Zaib,LA Burns,Sirajullah Khadim,,0,0,0,,,,32111232111
+1,Portugal,11,Sirajullah Khadim,Yasir Ali,Amir Zaib,,0,0,0,,,,32111232111
+1,Portugal,11,Sirajullah Khadim,Yasir Ali,Amir Zaib,,0,1,1,,,,32111232111
+1,Portugal,11,Amir Zaib,Yasir Ali,Sirajullah Khadim,,0,0,0,,,,32111232111
+1,Portugal,11,Amir Zaib,Yasir Ali,Sirajullah Khadim,,0,0,0,,,,32111232111
+1,Portugal,11,Amir Zaib,Yasir Ali,Sirajullah Khadim,,0,0,0,stumped,Amir Zaib,Awais Ahmed,32111232111
+1,Portugal,11,Syed Maisam Ali,Yasir Ali,Sirajullah Khadim,,0,0,0,,,,32111232111
+1,Portugal,12,Sirajullah Khadim,LA Burns,Syed Maisam Ali,,0,1,1,,,,32111232111
+1,Portugal,12,Syed Maisam Ali,LA Burns,Sirajullah Khadim,,0,2,2,,,,32111232111
+1,Portugal,12,Syed Maisam Ali,LA Burns,Sirajullah Khadim,,0,1,1,,,,32111232111
+1,Portugal,12,Sirajullah Khadim,LA Burns,Syed Maisam Ali,wides,1,1,0,,,,32111232111
+1,Portugal,12,Sirajullah Khadim,LA Burns,Syed Maisam Ali,,0,0,0,bowled,Sirajullah Khadim,,32111232111
+1,Portugal,12,Zohaib Sarwar,LA Burns,Syed Maisam Ali,,0,0,0,,,,32111232111
+1,Portugal,12,Zohaib Sarwar,LA Burns,Syed Maisam Ali,,0,0,0,,,,32111232111
+1,Portugal,13,Syed Maisam Ali,C Rumistrzewicz,Zohaib Sarwar,,0,0,0,,,,32111232111
+1,Portugal,13,Syed Maisam Ali,C Rumistrzewicz,Zohaib Sarwar,,0,0,0,,,,32111232111
+1,Portugal,13,Syed Maisam Ali,C Rumistrzewicz,Zohaib Sarwar,,0,1,1,,,,32111232111
+1,Portugal,13,Zohaib Sarwar,C Rumistrzewicz,Syed Maisam Ali,,0,1,1,,,,32111232111
+1,Portugal,13,Syed Maisam Ali,C Rumistrzewicz,Zohaib Sarwar,,0,0,0,,,,32111232111
+1,Portugal,13,Syed Maisam Ali,C Rumistrzewicz,Zohaib Sarwar,,0,1,1,,,,32111232111
+1,Portugal,14,Syed Maisam Ali,Atif Mehmood,Zohaib Sarwar,,0,1,1,,,,32111232111
+1,Portugal,14,Zohaib Sarwar,Atif Mehmood,Syed Maisam Ali,,0,0,0,,,,32111232111
+1,Portugal,14,Zohaib Sarwar,Atif Mehmood,Syed Maisam Ali,wides,1,1,0,,,,32111232111
+1,Portugal,14,Zohaib Sarwar,Atif Mehmood,Syed Maisam Ali,,0,0,0,,,,32111232111
+1,Portugal,14,Zohaib Sarwar,Atif Mehmood,Syed Maisam Ali,wides,1,1,0,,,,32111232111
+1,Portugal,14,Zohaib Sarwar,Atif Mehmood,Syed Maisam Ali,,0,1,1,,,,32111232111
+1,Portugal,14,Syed Maisam Ali,Atif Mehmood,Zohaib Sarwar,,0,1,1,,,,32111232111
+1,Portugal,14,Zohaib Sarwar,Atif Mehmood,Syed Maisam Ali,,0,0,0,,,,32111232111
+1,Portugal,15,Syed Maisam Ali,C Rumistrzewicz,Zohaib Sarwar,,0,0,0,caught,Syed Maisam Ali,D Doyle-Calle,32111232111
+1,Portugal,15,Zohaib Sarwar,C Rumistrzewicz,Amandeep Singh,,0,1,1,,,,32111232111
+1,Portugal,15,Amandeep Singh,C Rumistrzewicz,Zohaib Sarwar,,0,0,0,,,,32111232111
+1,Portugal,15,Amandeep Singh,C Rumistrzewicz,Zohaib Sarwar,,0,0,0,,,,32111232111
+1,Portugal,15,Amandeep Singh,C Rumistrzewicz,Zohaib Sarwar,,0,0,0,,,,32111232111
+1,Portugal,15,Amandeep Singh,C Rumistrzewicz,Zohaib Sarwar,,0,4,4,,,,32111232111
+1,Portugal,16,Zohaib Sarwar,Atif Mehmood,Amandeep Singh,,0,1,1,,,,32111232111
+1,Portugal,16,Amandeep Singh,Atif Mehmood,Zohaib Sarwar,,0,0,0,,,,32111232111
+1,Portugal,16,Amandeep Singh,Atif Mehmood,Zohaib Sarwar,,0,0,0,,,,32111232111
+1,Portugal,16,Amandeep Singh,Atif Mehmood,Zohaib Sarwar,,0,1,1,,,,32111232111
+1,Portugal,16,Zohaib Sarwar,Atif Mehmood,Amandeep Singh,,0,1,1,,,,32111232111
+1,Portugal,16,Amandeep Singh,Atif Mehmood,Zohaib Sarwar,,0,2,2,,,,32111232111
+1,Portugal,17,Zohaib Sarwar,C Rumistrzewicz,Amandeep Singh,,0,1,1,run out,Amandeep Singh,Yasir Ali,32111232111
+1,Portugal,17,Junaid Khan,C Rumistrzewicz,Zohaib Sarwar,,0,0,0,bowled,Junaid Khan,,32111232111

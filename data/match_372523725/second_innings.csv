@@ -1,0 +1,94 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Netherlands,0,PW Borren,Nadeem Ahmed,MJG Rippon,,0,0,0,,,,372523725
+2,Netherlands,0,PW Borren,Nadeem Ahmed,MJG Rippon,legbyes,1,1,0,,,,372523725
+2,Netherlands,0,MJG Rippon,Nadeem Ahmed,PW Borren,,0,0,0,lbw,MJG Rippon,,372523725
+2,Netherlands,0,BN Cooper,Nadeem Ahmed,PW Borren,,0,0,0,,,,372523725
+2,Netherlands,0,BN Cooper,Nadeem Ahmed,PW Borren,,0,4,4,,,,372523725
+2,Netherlands,0,BN Cooper,Nadeem Ahmed,PW Borren,,0,2,2,,,,372523725
+2,Netherlands,1,PW Borren,Ehsan Nawaz,BN Cooper,legbyes,1,1,0,,,,372523725
+2,Netherlands,1,BN Cooper,Ehsan Nawaz,PW Borren,,0,0,0,,,,372523725
+2,Netherlands,1,BN Cooper,Ehsan Nawaz,PW Borren,,0,4,4,,,,372523725
+2,Netherlands,1,BN Cooper,Ehsan Nawaz,PW Borren,,0,4,4,,,,372523725
+2,Netherlands,1,BN Cooper,Ehsan Nawaz,PW Borren,,0,0,0,run out,PW Borren,Ehsan Nawaz,372523725
+2,Netherlands,1,BN Cooper,Ehsan Nawaz,W Barresi,,0,6,6,,,,372523725
+2,Netherlands,2,W Barresi,Nadeem Ahmed,BN Cooper,,0,0,0,,,,372523725
+2,Netherlands,2,W Barresi,Nadeem Ahmed,BN Cooper,,0,0,0,,,,372523725
+2,Netherlands,2,W Barresi,Nadeem Ahmed,BN Cooper,,0,2,2,,,,372523725
+2,Netherlands,2,W Barresi,Nadeem Ahmed,BN Cooper,,0,1,1,,,,372523725
+2,Netherlands,2,BN Cooper,Nadeem Ahmed,W Barresi,,0,0,0,,,,372523725
+2,Netherlands,2,BN Cooper,Nadeem Ahmed,W Barresi,,0,0,0,,,,372523725
+2,Netherlands,3,W Barresi,Ehsan Khan,BN Cooper,,0,0,0,,,,372523725
+2,Netherlands,3,W Barresi,Ehsan Khan,BN Cooper,,0,1,1,,,,372523725
+2,Netherlands,3,BN Cooper,Ehsan Khan,W Barresi,,0,1,1,,,,372523725
+2,Netherlands,3,W Barresi,Ehsan Khan,BN Cooper,,0,0,0,,,,372523725
+2,Netherlands,3,W Barresi,Ehsan Khan,BN Cooper,,0,0,0,,,,372523725
+2,Netherlands,3,W Barresi,Ehsan Khan,BN Cooper,,0,0,0,,,,372523725
+2,Netherlands,4,BN Cooper,Tanveer Ahmed,W Barresi,,0,0,0,,,,372523725
+2,Netherlands,4,BN Cooper,Tanveer Ahmed,W Barresi,,0,0,0,,,,372523725
+2,Netherlands,4,BN Cooper,Tanveer Ahmed,W Barresi,,0,1,1,,,,372523725
+2,Netherlands,4,W Barresi,Tanveer Ahmed,BN Cooper,,0,1,1,,,,372523725
+2,Netherlands,4,BN Cooper,Tanveer Ahmed,W Barresi,,0,0,0,,,,372523725
+2,Netherlands,4,BN Cooper,Tanveer Ahmed,W Barresi,,0,0,0,,,,372523725
+2,Netherlands,5,W Barresi,Ehsan Khan,BN Cooper,,0,3,3,,,,372523725
+2,Netherlands,5,BN Cooper,Ehsan Khan,W Barresi,,0,0,0,,,,372523725
+2,Netherlands,5,BN Cooper,Ehsan Khan,W Barresi,,0,0,0,,,,372523725
+2,Netherlands,5,BN Cooper,Ehsan Khan,W Barresi,,0,0,0,bowled,BN Cooper,,372523725
+2,Netherlands,5,RE van der Merwe,Ehsan Khan,W Barresi,,0,0,0,,,,372523725
+2,Netherlands,5,RE van der Merwe,Ehsan Khan,W Barresi,,0,0,0,,,,372523725
+2,Netherlands,6,W Barresi,Aizaz Khan,RE van der Merwe,,0,1,1,,,,372523725
+2,Netherlands,6,RE van der Merwe,Aizaz Khan,W Barresi,,0,2,2,,,,372523725
+2,Netherlands,6,RE van der Merwe,Aizaz Khan,W Barresi,,0,1,1,,,,372523725
+2,Netherlands,6,W Barresi,Aizaz Khan,RE van der Merwe,,0,0,0,,,,372523725
+2,Netherlands,6,W Barresi,Aizaz Khan,RE van der Merwe,,0,1,1,,,,372523725
+2,Netherlands,6,RE van der Merwe,Aizaz Khan,W Barresi,,0,0,0,,,,372523725
+2,Netherlands,7,W Barresi,Ehsan Nawaz,RE van der Merwe,byes,1,1,0,,,,372523725
+2,Netherlands,7,RE van der Merwe,Ehsan Nawaz,W Barresi,,0,1,1,,,,372523725
+2,Netherlands,7,W Barresi,Ehsan Nawaz,RE van der Merwe,,0,2,2,,,,372523725
+2,Netherlands,7,W Barresi,Ehsan Nawaz,RE van der Merwe,,0,0,0,caught,W Barresi,Anshuman Rath,372523725
+2,Netherlands,7,MP O'Dowd,Ehsan Nawaz,RE van der Merwe,,0,1,1,,,,372523725
+2,Netherlands,7,RE van der Merwe,Ehsan Nawaz,MP O'Dowd,,0,4,4,,,,372523725
+2,Netherlands,8,MP O'Dowd,Aizaz Khan,RE van der Merwe,,0,2,2,,,,372523725
+2,Netherlands,8,MP O'Dowd,Aizaz Khan,RE van der Merwe,,0,0,0,,,,372523725
+2,Netherlands,8,MP O'Dowd,Aizaz Khan,RE van der Merwe,,0,2,2,,,,372523725
+2,Netherlands,8,MP O'Dowd,Aizaz Khan,RE van der Merwe,,0,1,1,,,,372523725
+2,Netherlands,8,RE van der Merwe,Aizaz Khan,MP O'Dowd,,0,0,0,caught,RE van der Merwe,Babar Hayat,372523725
+2,Netherlands,8,PM Seelaar,Aizaz Khan,MP O'Dowd,,0,1,1,,,,372523725
+2,Netherlands,9,PM Seelaar,Anshuman Rath,MP O'Dowd,,0,0,0,bowled,PM Seelaar,,372523725
+2,Netherlands,9,TP Visee,Anshuman Rath,MP O'Dowd,,0,0,0,lbw,TP Visee,,372523725
+2,Netherlands,9,T van der Gugten,Anshuman Rath,MP O'Dowd,,0,1,1,,,,372523725
+2,Netherlands,9,MP O'Dowd,Anshuman Rath,T van der Gugten,,0,1,1,,,,372523725
+2,Netherlands,9,T van der Gugten,Anshuman Rath,MP O'Dowd,,0,0,0,,,,372523725
+2,Netherlands,9,T van der Gugten,Anshuman Rath,MP O'Dowd,,0,0,0,,,,372523725
+2,Netherlands,10,MP O'Dowd,Aizaz Khan,T van der Gugten,,0,0,0,,,,372523725
+2,Netherlands,10,MP O'Dowd,Aizaz Khan,T van der Gugten,,0,0,0,,,,372523725
+2,Netherlands,10,MP O'Dowd,Aizaz Khan,T van der Gugten,,0,2,2,,,,372523725
+2,Netherlands,10,MP O'Dowd,Aizaz Khan,T van der Gugten,,0,0,0,,,,372523725
+2,Netherlands,10,MP O'Dowd,Aizaz Khan,T van der Gugten,,0,1,1,,,,372523725
+2,Netherlands,10,T van der Gugten,Aizaz Khan,MP O'Dowd,,0,2,2,,,,372523725
+2,Netherlands,11,MP O'Dowd,Anshuman Rath,T van der Gugten,,0,1,1,,,,372523725
+2,Netherlands,11,T van der Gugten,Anshuman Rath,MP O'Dowd,,0,1,1,,,,372523725
+2,Netherlands,11,MP O'Dowd,Anshuman Rath,T van der Gugten,,0,1,1,,,,372523725
+2,Netherlands,11,T van der Gugten,Anshuman Rath,MP O'Dowd,,0,0,0,,,,372523725
+2,Netherlands,11,T van der Gugten,Anshuman Rath,MP O'Dowd,,0,0,0,caught,T van der Gugten,Shahid Wasif,372523725
+2,Netherlands,11,MP O'Dowd,Anshuman Rath,Ahsan Malik,,0,1,1,,,,372523725
+2,Netherlands,12,MP O'Dowd,Nadeem Ahmed,Ahsan Malik,,0,0,0,bowled,MP O'Dowd,,372523725
+2,Netherlands,12,PA van Meekeren,Nadeem Ahmed,Ahsan Malik,,0,0,0,,,,372523725
+2,Netherlands,12,PA van Meekeren,Nadeem Ahmed,Ahsan Malik,,0,1,1,,,,372523725
+2,Netherlands,12,Ahsan Malik,Nadeem Ahmed,PA van Meekeren,,0,0,0,,,,372523725
+2,Netherlands,12,Ahsan Malik,Nadeem Ahmed,PA van Meekeren,,0,0,0,,,,372523725
+2,Netherlands,12,Ahsan Malik,Nadeem Ahmed,PA van Meekeren,,0,0,0,,,,372523725
+2,Netherlands,13,PA van Meekeren,Ehsan Khan,Ahsan Malik,,0,0,0,,,,372523725
+2,Netherlands,13,PA van Meekeren,Ehsan Khan,Ahsan Malik,,0,1,1,,,,372523725
+2,Netherlands,13,Ahsan Malik,Ehsan Khan,PA van Meekeren,,0,0,0,,,,372523725
+2,Netherlands,13,Ahsan Malik,Ehsan Khan,PA van Meekeren,,0,3,3,,,,372523725
+2,Netherlands,13,PA van Meekeren,Ehsan Khan,Ahsan Malik,,0,0,0,,,,372523725
+2,Netherlands,13,PA van Meekeren,Ehsan Khan,Ahsan Malik,,0,1,1,,,,372523725
+2,Netherlands,14,PA van Meekeren,Nadeem Ahmed,Ahsan Malik,,0,6,6,,,,372523725
+2,Netherlands,14,PA van Meekeren,Nadeem Ahmed,Ahsan Malik,,0,1,1,,,,372523725
+2,Netherlands,14,Ahsan Malik,Nadeem Ahmed,PA van Meekeren,,0,0,0,,,,372523725
+2,Netherlands,14,Ahsan Malik,Nadeem Ahmed,PA van Meekeren,,0,6,6,,,,372523725
+2,Netherlands,14,Ahsan Malik,Nadeem Ahmed,PA van Meekeren,,0,1,1,,,,372523725
+2,Netherlands,14,PA van Meekeren,Nadeem Ahmed,Ahsan Malik,,0,2,2,,,,372523725
+2,Netherlands,15,Ahsan Malik,Ehsan Khan,PA van Meekeren,,0,1,1,,,,372523725
+2,Netherlands,15,PA van Meekeren,Ehsan Khan,Ahsan Malik,,0,6,6,,,,372523725
+2,Netherlands,15,PA van Meekeren,Ehsan Khan,Ahsan Malik,,0,0,0,caught,PA van Meekeren,Nizakat Khan,372523725

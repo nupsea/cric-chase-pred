@@ -1,0 +1,122 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,India,0,PA Patel,TT Bresnan,AM Rahane,wides,1,1,0,,,,318223182
+1,India,0,PA Patel,TT Bresnan,AM Rahane,,0,4,4,,,,318223182
+1,India,0,PA Patel,TT Bresnan,AM Rahane,,0,0,0,,,,318223182
+1,India,0,PA Patel,TT Bresnan,AM Rahane,,0,0,0,,,,318223182
+1,India,0,PA Patel,TT Bresnan,AM Rahane,,0,0,0,,,,318223182
+1,India,0,PA Patel,TT Bresnan,AM Rahane,,0,1,1,,,,318223182
+1,India,0,AM Rahane,TT Bresnan,PA Patel,legbyes,1,1,0,,,,318223182
+1,India,1,AM Rahane,JW Dernbach,PA Patel,,0,0,0,,,,318223182
+1,India,1,AM Rahane,JW Dernbach,PA Patel,,0,4,4,,,,318223182
+1,India,1,AM Rahane,JW Dernbach,PA Patel,,0,1,1,,,,318223182
+1,India,1,PA Patel,JW Dernbach,AM Rahane,,0,1,1,,,,318223182
+1,India,1,AM Rahane,JW Dernbach,PA Patel,,0,1,1,,,,318223182
+1,India,1,PA Patel,JW Dernbach,AM Rahane,,0,0,0,,,,318223182
+1,India,2,AM Rahane,TT Bresnan,PA Patel,,0,0,0,,,,318223182
+1,India,2,AM Rahane,TT Bresnan,PA Patel,,0,4,4,,,,318223182
+1,India,2,AM Rahane,TT Bresnan,PA Patel,,0,1,1,,,,318223182
+1,India,2,PA Patel,TT Bresnan,AM Rahane,,0,4,4,,,,318223182
+1,India,2,PA Patel,TT Bresnan,AM Rahane,,0,0,0,,,,318223182
+1,India,2,PA Patel,TT Bresnan,AM Rahane,,0,0,0,,,,318223182
+1,India,3,AM Rahane,SCJ Broad,PA Patel,,0,2,2,,,,318223182
+1,India,3,AM Rahane,SCJ Broad,PA Patel,,0,4,4,,,,318223182
+1,India,3,AM Rahane,SCJ Broad,PA Patel,,0,0,0,,,,318223182
+1,India,3,AM Rahane,SCJ Broad,PA Patel,,0,4,4,,,,318223182
+1,India,3,AM Rahane,SCJ Broad,PA Patel,,0,1,1,,,,318223182
+1,India,3,PA Patel,SCJ Broad,AM Rahane,,0,0,0,,,,318223182
+1,India,4,AM Rahane,JW Dernbach,PA Patel,,0,4,4,,,,318223182
+1,India,4,AM Rahane,JW Dernbach,PA Patel,,0,0,0,,,,318223182
+1,India,4,AM Rahane,JW Dernbach,PA Patel,,0,1,1,,,,318223182
+1,India,4,PA Patel,JW Dernbach,AM Rahane,,0,0,0,caught,PA Patel,SCJ Broad,318223182
+1,India,4,R Dravid,JW Dernbach,AM Rahane,,0,0,0,,,,318223182
+1,India,4,R Dravid,JW Dernbach,AM Rahane,,0,1,1,,,,318223182
+1,India,5,R Dravid,SCJ Broad,AM Rahane,,0,0,0,,,,318223182
+1,India,5,R Dravid,SCJ Broad,AM Rahane,,0,0,0,,,,318223182
+1,India,5,R Dravid,SCJ Broad,AM Rahane,,0,1,1,,,,318223182
+1,India,5,AM Rahane,SCJ Broad,R Dravid,,0,0,0,,,,318223182
+1,India,5,AM Rahane,SCJ Broad,R Dravid,,0,4,4,,,,318223182
+1,India,5,AM Rahane,SCJ Broad,R Dravid,,0,4,4,,,,318223182
+1,India,6,R Dravid,SR Patel,AM Rahane,,0,0,0,,,,318223182
+1,India,6,R Dravid,SR Patel,AM Rahane,,0,1,1,,,,318223182
+1,India,6,AM Rahane,SR Patel,R Dravid,,0,1,1,,,,318223182
+1,India,6,R Dravid,SR Patel,AM Rahane,,0,1,1,,,,318223182
+1,India,6,AM Rahane,SR Patel,R Dravid,,0,2,2,,,,318223182
+1,India,6,AM Rahane,SR Patel,R Dravid,,0,1,1,,,,318223182
+1,India,7,AM Rahane,GP Swann,R Dravid,,0,1,1,,,,318223182
+1,India,7,R Dravid,GP Swann,AM Rahane,,0,1,1,,,,318223182
+1,India,7,AM Rahane,GP Swann,R Dravid,,0,4,4,,,,318223182
+1,India,7,AM Rahane,GP Swann,R Dravid,,0,2,2,,,,318223182
+1,India,7,AM Rahane,GP Swann,R Dravid,,0,1,1,,,,318223182
+1,India,7,R Dravid,GP Swann,AM Rahane,,0,1,1,,,,318223182
+1,India,8,R Dravid,SR Patel,AM Rahane,,0,1,1,,,,318223182
+1,India,8,AM Rahane,SR Patel,R Dravid,,0,0,0,,,,318223182
+1,India,8,AM Rahane,SR Patel,R Dravid,,0,1,1,,,,318223182
+1,India,8,R Dravid,SR Patel,AM Rahane,,0,1,1,,,,318223182
+1,India,8,AM Rahane,SR Patel,R Dravid,,0,2,2,,,,318223182
+1,India,8,AM Rahane,SR Patel,R Dravid,,0,1,1,,,,318223182
+1,India,9,AM Rahane,GP Swann,R Dravid,,0,2,2,,,,318223182
+1,India,9,AM Rahane,GP Swann,R Dravid,,0,1,1,,,,318223182
+1,India,9,R Dravid,GP Swann,AM Rahane,,0,1,1,,,,318223182
+1,India,9,AM Rahane,GP Swann,R Dravid,,0,2,2,,,,318223182
+1,India,9,AM Rahane,GP Swann,R Dravid,,0,1,1,,,,318223182
+1,India,9,R Dravid,GP Swann,AM Rahane,,0,1,1,,,,318223182
+1,India,10,R Dravid,SR Patel,AM Rahane,,0,1,1,,,,318223182
+1,India,10,AM Rahane,SR Patel,R Dravid,,0,1,1,,,,318223182
+1,India,10,R Dravid,SR Patel,AM Rahane,,0,2,2,,,,318223182
+1,India,10,R Dravid,SR Patel,AM Rahane,,0,6,6,,,,318223182
+1,India,10,R Dravid,SR Patel,AM Rahane,,0,6,6,,,,318223182
+1,India,10,R Dravid,SR Patel,AM Rahane,,0,6,6,,,,318223182
+1,India,11,AM Rahane,RS Bopara,R Dravid,,0,2,2,,,,318223182
+1,India,11,AM Rahane,RS Bopara,R Dravid,,0,1,1,,,,318223182
+1,India,11,R Dravid,RS Bopara,AM Rahane,,0,0,0,,,,318223182
+1,India,11,R Dravid,RS Bopara,AM Rahane,,0,0,0,caught,R Dravid,EJG Morgan,318223182
+1,India,11,V Kohli,RS Bopara,AM Rahane,,0,0,0,,,,318223182
+1,India,11,V Kohli,RS Bopara,AM Rahane,,0,1,1,,,,318223182
+1,India,12,V Kohli,SCJ Broad,AM Rahane,,0,1,1,,,,318223182
+1,India,12,AM Rahane,SCJ Broad,V Kohli,,0,0,0,,,,318223182
+1,India,12,AM Rahane,SCJ Broad,V Kohli,,0,0,0,caught,AM Rahane,JW Dernbach,318223182
+1,India,12,V Kohli,SCJ Broad,RG Sharma,,0,2,2,,,,318223182
+1,India,12,V Kohli,SCJ Broad,RG Sharma,,0,0,0,caught,V Kohli,C Kieswetter,318223182
+1,India,12,SK Raina,SCJ Broad,RG Sharma,wides,1,1,0,,,,318223182
+1,India,12,SK Raina,SCJ Broad,RG Sharma,,0,1,1,,,,318223182
+1,India,13,SK Raina,GP Swann,RG Sharma,,0,4,4,,,,318223182
+1,India,13,SK Raina,GP Swann,RG Sharma,,0,1,1,,,,318223182
+1,India,13,RG Sharma,GP Swann,SK Raina,,0,1,1,,,,318223182
+1,India,13,SK Raina,GP Swann,RG Sharma,,0,1,1,,,,318223182
+1,India,13,RG Sharma,GP Swann,SK Raina,,0,0,0,,,,318223182
+1,India,13,RG Sharma,GP Swann,SK Raina,,0,0,0,stumped,RG Sharma,C Kieswetter,318223182
+1,India,14,SK Raina,SCJ Broad,MS Dhoni,,0,6,6,,,,318223182
+1,India,14,SK Raina,SCJ Broad,MS Dhoni,,0,0,0,,,,318223182
+1,India,14,SK Raina,SCJ Broad,MS Dhoni,,0,0,0,,,,318223182
+1,India,14,SK Raina,SCJ Broad,MS Dhoni,,0,4,4,,,,318223182
+1,India,14,SK Raina,SCJ Broad,MS Dhoni,,0,2,2,,,,318223182
+1,India,14,SK Raina,SCJ Broad,MS Dhoni,,0,0,0,,,,318223182
+1,India,15,MS Dhoni,GP Swann,SK Raina,,0,0,0,,,,318223182
+1,India,15,MS Dhoni,GP Swann,SK Raina,,0,1,1,,,,318223182
+1,India,15,SK Raina,GP Swann,MS Dhoni,,0,0,0,,,,318223182
+1,India,15,SK Raina,GP Swann,MS Dhoni,,0,0,0,,,,318223182
+1,India,15,SK Raina,GP Swann,MS Dhoni,,0,1,1,,,,318223182
+1,India,15,MS Dhoni,GP Swann,SK Raina,,0,1,1,,,,318223182
+1,India,16,MS Dhoni,TT Bresnan,SK Raina,wides,1,1,0,,,,318223182
+1,India,16,MS Dhoni,TT Bresnan,SK Raina,,0,0,0,,,,318223182
+1,India,16,MS Dhoni,TT Bresnan,SK Raina,legbyes,1,1,0,,,,318223182
+1,India,16,SK Raina,TT Bresnan,MS Dhoni,,0,6,6,,,,318223182
+1,India,16,SK Raina,TT Bresnan,MS Dhoni,,0,6,6,,,,318223182
+1,India,16,SK Raina,TT Bresnan,MS Dhoni,,0,1,1,,,,318223182
+1,India,16,MS Dhoni,TT Bresnan,SK Raina,,0,2,2,,,,318223182
+1,India,17,SK Raina,JW Dernbach,MS Dhoni,legbyes,4,4,0,,,,318223182
+1,India,17,SK Raina,JW Dernbach,MS Dhoni,legbyes,1,1,0,,,,318223182
+1,India,17,MS Dhoni,JW Dernbach,SK Raina,,0,4,4,,,,318223182
+1,India,17,MS Dhoni,JW Dernbach,SK Raina,,0,0,0,caught,MS Dhoni,AD Hales,318223182
+1,India,17,R Ashwin,JW Dernbach,SK Raina,,0,4,4,,,,318223182
+1,India,17,R Ashwin,JW Dernbach,SK Raina,,0,0,0,run out,R Ashwin,JW Dernbach,318223182
+1,India,18,SK Raina,TT Bresnan,P Kumar,,0,0,0,caught,SK Raina,SCJ Broad,318223182
+1,India,18,P Kumar,TT Bresnan,R Vinay Kumar,,0,0,0,,,,318223182
+1,India,18,P Kumar,TT Bresnan,R Vinay Kumar,,0,1,1,,,,318223182
+1,India,18,R Vinay Kumar,TT Bresnan,P Kumar,,0,0,0,,,,318223182
+1,India,18,R Vinay Kumar,TT Bresnan,P Kumar,,0,0,0,,,,318223182
+1,India,18,R Vinay Kumar,TT Bresnan,P Kumar,,0,1,1,,,,318223182
+1,India,19,R Vinay Kumar,JW Dernbach,P Kumar,,0,1,1,,,,318223182
+1,India,19,P Kumar,JW Dernbach,R Vinay Kumar,,0,0,0,,,,318223182
+1,India,19,P Kumar,JW Dernbach,R Vinay Kumar,,0,0,0,bowled,P Kumar,,318223182
+1,India,19,MM Patel,JW Dernbach,R Vinay Kumar,,0,0,0,caught,MM Patel,C Kieswetter,318223182

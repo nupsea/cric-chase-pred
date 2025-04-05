@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,South Africa,0,GC Smith,KD Mills,JH Kallis,,0,0,0,,,,3452345
+2,South Africa,0,GC Smith,KD Mills,JH Kallis,,0,0,0,,,,3452345
+2,South Africa,0,GC Smith,KD Mills,JH Kallis,,0,1,1,,,,3452345
+2,South Africa,0,JH Kallis,KD Mills,GC Smith,,0,0,0,,,,3452345
+2,South Africa,0,JH Kallis,KD Mills,GC Smith,,0,4,4,,,,3452345
+2,South Africa,0,JH Kallis,KD Mills,GC Smith,,0,0,0,,,,3452345
+2,South Africa,1,GC Smith,MR Gillespie,JH Kallis,,0,0,0,,,,3452345
+2,South Africa,1,GC Smith,MR Gillespie,JH Kallis,,0,1,1,,,,3452345
+2,South Africa,1,JH Kallis,MR Gillespie,GC Smith,,0,0,0,,,,3452345
+2,South Africa,1,JH Kallis,MR Gillespie,GC Smith,,0,0,0,caught,JH Kallis,KD Mills,3452345
+2,South Africa,1,GC Smith,MR Gillespie,JP Duminy,,0,0,0,,,,3452345
+2,South Africa,1,GC Smith,MR Gillespie,JP Duminy,,0,0,0,,,,3452345
+2,South Africa,2,JP Duminy,KD Mills,GC Smith,,0,0,0,,,,3452345
+2,South Africa,2,JP Duminy,KD Mills,GC Smith,,0,0,0,,,,3452345
+2,South Africa,2,JP Duminy,KD Mills,GC Smith,,0,4,4,,,,3452345
+2,South Africa,2,JP Duminy,KD Mills,GC Smith,,0,1,1,,,,3452345
+2,South Africa,2,GC Smith,KD Mills,JP Duminy,,0,0,0,,,,3452345
+2,South Africa,2,GC Smith,KD Mills,JP Duminy,,0,1,1,,,,3452345
+2,South Africa,3,GC Smith,MR Gillespie,JP Duminy,,0,0,0,,,,3452345
+2,South Africa,3,GC Smith,MR Gillespie,JP Duminy,,0,0,0,,,,3452345
+2,South Africa,3,GC Smith,MR Gillespie,JP Duminy,,0,0,0,,,,3452345
+2,South Africa,3,GC Smith,MR Gillespie,JP Duminy,,0,0,0,,,,3452345
+2,South Africa,3,GC Smith,MR Gillespie,JP Duminy,,0,4,4,,,,3452345
+2,South Africa,3,GC Smith,MR Gillespie,JP Duminy,,0,0,0,,,,3452345
+2,South Africa,4,JP Duminy,KD Mills,GC Smith,,0,4,4,,,,3452345
+2,South Africa,4,JP Duminy,KD Mills,GC Smith,,0,4,4,,,,3452345
+2,South Africa,4,JP Duminy,KD Mills,GC Smith,legbyes,2,2,0,,,,3452345
+2,South Africa,4,JP Duminy,KD Mills,GC Smith,,0,6,6,,,,3452345
+2,South Africa,4,JP Duminy,KD Mills,GC Smith,,0,1,1,,,,3452345
+2,South Africa,4,GC Smith,KD Mills,JP Duminy,,0,0,0,caught,GC Smith,BB McCullum,3452345
+2,South Africa,5,JP Duminy,MR Gillespie,AB de Villiers,wides,1,1,0,,,,3452345
+2,South Africa,5,JP Duminy,MR Gillespie,AB de Villiers,,0,1,1,,,,3452345
+2,South Africa,5,AB de Villiers,MR Gillespie,JP Duminy,,0,0,0,,,,3452345
+2,South Africa,5,AB de Villiers,MR Gillespie,JP Duminy,,0,0,0,,,,3452345
+2,South Africa,5,AB de Villiers,MR Gillespie,JP Duminy,wides,1,1,0,,,,3452345
+2,South Africa,5,AB de Villiers,MR Gillespie,JP Duminy,,0,0,0,,,,3452345
+2,South Africa,5,AB de Villiers,MR Gillespie,JP Duminy,,0,4,4,,,,3452345
+2,South Africa,5,AB de Villiers,MR Gillespie,JP Duminy,,0,0,0,,,,3452345
+2,South Africa,6,JP Duminy,DL Vettori,AB de Villiers,,0,1,1,,,,3452345
+2,South Africa,6,AB de Villiers,DL Vettori,JP Duminy,,0,0,0,,,,3452345
+2,South Africa,6,AB de Villiers,DL Vettori,JP Duminy,,0,2,2,,,,3452345
+2,South Africa,6,AB de Villiers,DL Vettori,JP Duminy,,0,0,0,,,,3452345
+2,South Africa,6,AB de Villiers,DL Vettori,JP Duminy,,0,0,0,,,,3452345
+2,South Africa,6,AB de Villiers,DL Vettori,JP Duminy,,0,4,4,,,,3452345
+2,South Africa,7,JP Duminy,MJ Mason,AB de Villiers,,0,0,0,,,,3452345
+2,South Africa,7,JP Duminy,MJ Mason,AB de Villiers,,0,2,2,,,,3452345
+2,South Africa,7,JP Duminy,MJ Mason,AB de Villiers,,0,1,1,,,,3452345
+2,South Africa,7,AB de Villiers,MJ Mason,JP Duminy,,0,4,4,,,,3452345
+2,South Africa,7,AB de Villiers,MJ Mason,JP Duminy,,0,1,1,,,,3452345
+2,South Africa,7,JP Duminy,MJ Mason,AB de Villiers,,0,1,1,,,,3452345
+2,South Africa,8,JP Duminy,DL Vettori,AB de Villiers,,0,6,6,,,,3452345
+2,South Africa,8,JP Duminy,DL Vettori,AB de Villiers,,0,0,0,,,,3452345
+2,South Africa,8,JP Duminy,DL Vettori,AB de Villiers,,0,1,1,,,,3452345
+2,South Africa,8,AB de Villiers,DL Vettori,JP Duminy,,0,0,0,,,,3452345
+2,South Africa,8,AB de Villiers,DL Vettori,JP Duminy,,0,1,1,,,,3452345
+2,South Africa,8,JP Duminy,DL Vettori,AB de Villiers,,0,0,0,stumped,JP Duminy,BB McCullum,3452345
+2,South Africa,9,AB de Villiers,MJ Mason,MV Boucher,,0,1,1,,,,3452345
+2,South Africa,9,MV Boucher,MJ Mason,AB de Villiers,,0,1,1,,,,3452345
+2,South Africa,9,AB de Villiers,MJ Mason,MV Boucher,,0,1,1,,,,3452345
+2,South Africa,9,MV Boucher,MJ Mason,AB de Villiers,,0,1,1,,,,3452345
+2,South Africa,9,AB de Villiers,MJ Mason,MV Boucher,noballs,1,1,0,,,,3452345
+2,South Africa,9,AB de Villiers,MJ Mason,MV Boucher,,0,1,1,,,,3452345
+2,South Africa,9,MV Boucher,MJ Mason,AB de Villiers,,0,0,0,,,,3452345
+2,South Africa,10,AB de Villiers,DL Vettori,MV Boucher,,0,0,0,,,,3452345
+2,South Africa,10,AB de Villiers,DL Vettori,MV Boucher,,0,1,1,,,,3452345
+2,South Africa,10,MV Boucher,DL Vettori,AB de Villiers,,0,1,1,,,,3452345
+2,South Africa,10,AB de Villiers,DL Vettori,MV Boucher,,0,1,1,,,,3452345
+2,South Africa,10,MV Boucher,DL Vettori,AB de Villiers,,0,1,1,,,,3452345
+2,South Africa,10,AB de Villiers,DL Vettori,MV Boucher,,0,1,1,,,,3452345
+2,South Africa,11,AB de Villiers,MJ Mason,MV Boucher,,0,1,1,,,,3452345
+2,South Africa,11,MV Boucher,MJ Mason,AB de Villiers,,0,0,0,,,,3452345
+2,South Africa,11,MV Boucher,MJ Mason,AB de Villiers,,0,1,1,,,,3452345
+2,South Africa,11,AB de Villiers,MJ Mason,MV Boucher,,0,6,6,,,,3452345
+2,South Africa,11,AB de Villiers,MJ Mason,MV Boucher,,0,3,3,,,,3452345
+2,South Africa,11,MV Boucher,MJ Mason,AB de Villiers,,0,2,2,,,,3452345
+2,South Africa,12,AB de Villiers,JS Patel,MV Boucher,,0,1,1,,,,3452345
+2,South Africa,12,MV Boucher,JS Patel,AB de Villiers,,0,0,0,,,,3452345
+2,South Africa,12,MV Boucher,JS Patel,AB de Villiers,,0,0,0,lbw,MV Boucher,,3452345
+2,South Africa,12,SM Pollock,JS Patel,AB de Villiers,,0,1,1,,,,3452345
+2,South Africa,12,AB de Villiers,JS Patel,SM Pollock,,0,0,0,,,,3452345
+2,South Africa,12,AB de Villiers,JS Patel,SM Pollock,,0,1,1,,,,3452345
+2,South Africa,13,AB de Villiers,MR Gillespie,SM Pollock,,0,0,0,,,,3452345
+2,South Africa,13,AB de Villiers,MR Gillespie,SM Pollock,,0,4,4,,,,3452345
+2,South Africa,13,AB de Villiers,MR Gillespie,SM Pollock,,0,1,1,,,,3452345
+2,South Africa,13,SM Pollock,MR Gillespie,AB de Villiers,,0,1,1,,,,3452345
+2,South Africa,13,AB de Villiers,MR Gillespie,SM Pollock,,0,1,1,,,,3452345
+2,South Africa,13,SM Pollock,MR Gillespie,AB de Villiers,,0,3,3,,,,3452345
+2,South Africa,14,SM Pollock,JS Patel,AB de Villiers,,0,1,1,,,,3452345
+2,South Africa,14,AB de Villiers,JS Patel,SM Pollock,,0,1,1,,,,3452345
+2,South Africa,14,SM Pollock,JS Patel,AB de Villiers,,0,0,0,caught,SM Pollock,LRPL Taylor,3452345
+2,South Africa,14,JA Morkel,JS Patel,AB de Villiers,,0,0,0,,,,3452345
+2,South Africa,14,JA Morkel,JS Patel,AB de Villiers,,0,1,1,,,,3452345
+2,South Africa,14,AB de Villiers,JS Patel,JA Morkel,,0,1,1,,,,3452345
+2,South Africa,15,AB de Villiers,DL Vettori,JA Morkel,,0,1,1,,,,3452345
+2,South Africa,15,JA Morkel,DL Vettori,AB de Villiers,,0,1,1,,,,3452345
+2,South Africa,15,AB de Villiers,DL Vettori,JA Morkel,,0,0,0,,,,3452345
+2,South Africa,15,AB de Villiers,DL Vettori,JA Morkel,,0,0,0,,,,3452345
+2,South Africa,15,AB de Villiers,DL Vettori,JA Morkel,,0,2,2,,,,3452345
+2,South Africa,15,AB de Villiers,DL Vettori,JA Morkel,,0,0,0,,,,3452345
+2,South Africa,16,JA Morkel,JS Patel,AB de Villiers,,0,0,0,,,,3452345
+2,South Africa,16,JA Morkel,JS Patel,AB de Villiers,,0,0,0,,,,3452345
+2,South Africa,16,JA Morkel,JS Patel,AB de Villiers,,0,0,0,,,,3452345
+2,South Africa,16,JA Morkel,JS Patel,AB de Villiers,,0,6,6,,,,3452345
+2,South Africa,16,JA Morkel,JS Patel,AB de Villiers,,0,0,0,,,,3452345
+2,South Africa,16,JA Morkel,JS Patel,AB de Villiers,,0,1,1,,,,3452345
+2,South Africa,17,JA Morkel,SB Styris,AB de Villiers,,0,0,0,,,,3452345
+2,South Africa,17,JA Morkel,SB Styris,AB de Villiers,,0,0,0,caught,JA Morkel,DL Vettori,3452345
+2,South Africa,17,VD Philander,SB Styris,AB de Villiers,,0,0,0,,,,3452345
+2,South Africa,17,VD Philander,SB Styris,AB de Villiers,,0,1,1,,,,3452345
+2,South Africa,17,AB de Villiers,SB Styris,VD Philander,,0,2,2,,,,3452345
+2,South Africa,17,AB de Villiers,SB Styris,VD Philander,,0,1,1,,,,3452345
+2,South Africa,18,AB de Villiers,JS Patel,VD Philander,,0,1,1,,,,3452345
+2,South Africa,18,VD Philander,JS Patel,AB de Villiers,,0,0,0,,,,3452345
+2,South Africa,18,VD Philander,JS Patel,AB de Villiers,,0,1,1,,,,3452345
+2,South Africa,18,AB de Villiers,JS Patel,VD Philander,,0,1,1,,,,3452345
+2,South Africa,18,VD Philander,JS Patel,AB de Villiers,,0,0,0,,,,3452345
+2,South Africa,18,VD Philander,JS Patel,AB de Villiers,,0,0,0,,,,3452345
+2,South Africa,19,AB de Villiers,KD Mills,VD Philander,,0,1,1,,,,3452345
+2,South Africa,19,VD Philander,KD Mills,AB de Villiers,,0,0,0,run out,VD Philander,L Vincent,3452345
+2,South Africa,19,AB de Villiers,KD Mills,J Botha,,0,1,1,,,,3452345
+2,South Africa,19,J Botha,KD Mills,AB de Villiers,,0,2,2,,,,3452345
+2,South Africa,19,J Botha,KD Mills,AB de Villiers,,0,4,4,,,,3452345

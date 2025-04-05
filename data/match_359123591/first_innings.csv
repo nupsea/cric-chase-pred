@@ -1,0 +1,38 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Netherlands,0,SJ Myburgh,TJ Murtagh,TLW Cooper,,0,0,0,,,,359123591
+1,Netherlands,0,SJ Myburgh,TJ Murtagh,TLW Cooper,,0,0,0,,,,359123591
+1,Netherlands,0,SJ Myburgh,TJ Murtagh,TLW Cooper,,0,0,0,,,,359123591
+1,Netherlands,0,SJ Myburgh,TJ Murtagh,TLW Cooper,,0,4,4,,,,359123591
+1,Netherlands,0,SJ Myburgh,TJ Murtagh,TLW Cooper,,0,4,4,,,,359123591
+1,Netherlands,0,SJ Myburgh,TJ Murtagh,TLW Cooper,,0,1,1,,,,359123591
+1,Netherlands,1,SJ Myburgh,GH Dockrell,TLW Cooper,legbyes,1,1,0,,,,359123591
+1,Netherlands,1,TLW Cooper,GH Dockrell,SJ Myburgh,,0,0,0,,,,359123591
+1,Netherlands,1,TLW Cooper,GH Dockrell,SJ Myburgh,,0,0,0,caught,TLW Cooper,WB Rankin,359123591
+1,Netherlands,1,RE van der Merwe,GH Dockrell,SJ Myburgh,,0,2,2,,,,359123591
+1,Netherlands,1,RE van der Merwe,GH Dockrell,SJ Myburgh,,0,0,0,caught,RE van der Merwe,TJ Murtagh,359123591
+1,Netherlands,1,W Barresi,GH Dockrell,SJ Myburgh,,0,1,1,,,,359123591
+1,Netherlands,2,W Barresi,AR McBrine,SJ Myburgh,,0,1,1,,,,359123591
+1,Netherlands,2,SJ Myburgh,AR McBrine,W Barresi,,0,2,2,,,,359123591
+1,Netherlands,2,SJ Myburgh,AR McBrine,W Barresi,,0,1,1,,,,359123591
+1,Netherlands,2,W Barresi,AR McBrine,SJ Myburgh,,0,6,6,,,,359123591
+1,Netherlands,2,W Barresi,AR McBrine,SJ Myburgh,wides,2,2,0,,,,359123591
+1,Netherlands,2,SJ Myburgh,AR McBrine,W Barresi,,0,4,4,,,,359123591
+1,Netherlands,2,SJ Myburgh,AR McBrine,W Barresi,byes,4,4,0,,,,359123591
+1,Netherlands,3,W Barresi,GH Dockrell,SJ Myburgh,,0,0,0,,,,359123591
+1,Netherlands,3,W Barresi,GH Dockrell,SJ Myburgh,,0,0,0,stumped,W Barresi,NJ O'Brien,359123591
+1,Netherlands,3,PW Borren,GH Dockrell,SJ Myburgh,,0,4,4,,,,359123591
+1,Netherlands,3,PW Borren,GH Dockrell,SJ Myburgh,,0,0,0,,,,359123591
+1,Netherlands,3,PW Borren,GH Dockrell,SJ Myburgh,,0,0,0,,,,359123591
+1,Netherlands,3,PW Borren,GH Dockrell,SJ Myburgh,legbyes,1,1,0,,,,359123591
+1,Netherlands,4,PW Borren,KJ O'Brien,SJ Myburgh,,0,4,4,,,,359123591
+1,Netherlands,4,PW Borren,KJ O'Brien,SJ Myburgh,,0,1,1,,,,359123591
+1,Netherlands,4,SJ Myburgh,KJ O'Brien,PW Borren,,0,2,2,,,,359123591
+1,Netherlands,4,SJ Myburgh,KJ O'Brien,PW Borren,,0,1,1,,,,359123591
+1,Netherlands,4,PW Borren,KJ O'Brien,SJ Myburgh,,0,0,0,,,,359123591
+1,Netherlands,4,PW Borren,KJ O'Brien,SJ Myburgh,,0,4,4,,,,359123591
+1,Netherlands,5,SJ Myburgh,WB Rankin,PW Borren,,0,4,4,,,,359123591
+1,Netherlands,5,SJ Myburgh,WB Rankin,PW Borren,,0,0,0,,,,359123591
+1,Netherlands,5,SJ Myburgh,WB Rankin,PW Borren,,0,4,4,,,,359123591
+1,Netherlands,5,SJ Myburgh,WB Rankin,PW Borren,,0,0,0,,,,359123591
+1,Netherlands,5,SJ Myburgh,WB Rankin,PW Borren,,0,0,0,run out,SJ Myburgh,WB Rankin,359123591
+1,Netherlands,5,PW Borren,WB Rankin,Mudassar Bukhari,,0,1,1,run out,PW Borren,NJ O'Brien,359123591

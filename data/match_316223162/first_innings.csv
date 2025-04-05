@@ -1,0 +1,122 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Ireland,0,WTS Porterfield,Mudassar Bukhari,NJ O'Brien,,0,0,0,,,,316223162
+1,Ireland,0,WTS Porterfield,Mudassar Bukhari,NJ O'Brien,,0,4,4,,,,316223162
+1,Ireland,0,WTS Porterfield,Mudassar Bukhari,NJ O'Brien,,0,0,0,,,,316223162
+1,Ireland,0,WTS Porterfield,Mudassar Bukhari,NJ O'Brien,legbyes,4,4,0,,,,316223162
+1,Ireland,0,WTS Porterfield,Mudassar Bukhari,NJ O'Brien,,0,0,0,,,,316223162
+1,Ireland,0,WTS Porterfield,Mudassar Bukhari,NJ O'Brien,,0,1,1,,,,316223162
+1,Ireland,1,WTS Porterfield,RN ten Doeschate,NJ O'Brien,,0,0,0,,,,316223162
+1,Ireland,1,WTS Porterfield,RN ten Doeschate,NJ O'Brien,,0,0,0,,,,316223162
+1,Ireland,1,WTS Porterfield,RN ten Doeschate,NJ O'Brien,,0,0,0,,,,316223162
+1,Ireland,1,WTS Porterfield,RN ten Doeschate,NJ O'Brien,,0,1,1,,,,316223162
+1,Ireland,1,NJ O'Brien,RN ten Doeschate,WTS Porterfield,,0,1,1,,,,316223162
+1,Ireland,1,WTS Porterfield,RN ten Doeschate,NJ O'Brien,,0,0,0,caught,WTS Porterfield,AN Kervezee,316223162
+1,Ireland,2,AR Cusack,Mudassar Bukhari,NJ O'Brien,,0,0,0,,,,316223162
+1,Ireland,2,AR Cusack,Mudassar Bukhari,NJ O'Brien,,0,0,0,,,,316223162
+1,Ireland,2,AR Cusack,Mudassar Bukhari,NJ O'Brien,,0,0,0,,,,316223162
+1,Ireland,2,AR Cusack,Mudassar Bukhari,NJ O'Brien,,0,1,1,,,,316223162
+1,Ireland,2,NJ O'Brien,Mudassar Bukhari,AR Cusack,,0,1,1,,,,316223162
+1,Ireland,2,AR Cusack,Mudassar Bukhari,NJ O'Brien,,0,2,2,,,,316223162
+1,Ireland,3,NJ O'Brien,RN ten Doeschate,AR Cusack,,0,0,0,,,,316223162
+1,Ireland,3,NJ O'Brien,RN ten Doeschate,AR Cusack,,0,2,2,,,,316223162
+1,Ireland,3,NJ O'Brien,RN ten Doeschate,AR Cusack,,0,0,0,,,,316223162
+1,Ireland,3,NJ O'Brien,RN ten Doeschate,AR Cusack,,0,1,1,,,,316223162
+1,Ireland,3,AR Cusack,RN ten Doeschate,NJ O'Brien,,0,4,4,,,,316223162
+1,Ireland,3,AR Cusack,RN ten Doeschate,NJ O'Brien,,0,1,1,,,,316223162
+1,Ireland,4,AR Cusack,MBS Jonkman,NJ O'Brien,,0,0,0,,,,316223162
+1,Ireland,4,AR Cusack,MBS Jonkman,NJ O'Brien,,0,2,2,,,,316223162
+1,Ireland,4,AR Cusack,MBS Jonkman,NJ O'Brien,,0,4,4,,,,316223162
+1,Ireland,4,AR Cusack,MBS Jonkman,NJ O'Brien,,0,1,1,,,,316223162
+1,Ireland,4,NJ O'Brien,MBS Jonkman,AR Cusack,,0,1,1,,,,316223162
+1,Ireland,4,AR Cusack,MBS Jonkman,NJ O'Brien,,0,0,0,,,,316223162
+1,Ireland,5,NJ O'Brien,RN ten Doeschate,AR Cusack,,0,1,1,,,,316223162
+1,Ireland,5,AR Cusack,RN ten Doeschate,NJ O'Brien,,0,0,0,,,,316223162
+1,Ireland,5,AR Cusack,RN ten Doeschate,NJ O'Brien,,0,0,0,,,,316223162
+1,Ireland,5,AR Cusack,RN ten Doeschate,NJ O'Brien,,0,2,2,,,,316223162
+1,Ireland,5,AR Cusack,RN ten Doeschate,NJ O'Brien,,0,3,3,,,,316223162
+1,Ireland,5,NJ O'Brien,RN ten Doeschate,AR Cusack,,0,0,0,,,,316223162
+1,Ireland,6,AR Cusack,PW Borren,NJ O'Brien,,0,1,1,,,,316223162
+1,Ireland,6,NJ O'Brien,PW Borren,AR Cusack,,0,1,1,,,,316223162
+1,Ireland,6,AR Cusack,PW Borren,NJ O'Brien,,0,1,1,,,,316223162
+1,Ireland,6,NJ O'Brien,PW Borren,AR Cusack,,0,1,1,,,,316223162
+1,Ireland,6,AR Cusack,PW Borren,NJ O'Brien,,0,4,4,,,,316223162
+1,Ireland,6,AR Cusack,PW Borren,NJ O'Brien,,0,1,1,,,,316223162
+1,Ireland,7,AR Cusack,PM Seelaar,NJ O'Brien,,0,1,1,,,,316223162
+1,Ireland,7,NJ O'Brien,PM Seelaar,AR Cusack,,0,1,1,,,,316223162
+1,Ireland,7,AR Cusack,PM Seelaar,NJ O'Brien,,0,1,1,,,,316223162
+1,Ireland,7,NJ O'Brien,PM Seelaar,AR Cusack,,0,1,1,,,,316223162
+1,Ireland,7,AR Cusack,PM Seelaar,NJ O'Brien,,0,6,6,,,,316223162
+1,Ireland,7,AR Cusack,PM Seelaar,NJ O'Brien,,0,1,1,,,,316223162
+1,Ireland,8,AR Cusack,Mohammad Kashif,NJ O'Brien,,0,3,3,,,,316223162
+1,Ireland,8,NJ O'Brien,Mohammad Kashif,AR Cusack,,0,0,0,,,,316223162
+1,Ireland,8,NJ O'Brien,Mohammad Kashif,AR Cusack,,0,0,0,caught,NJ O'Brien,PW Borren,316223162
+1,Ireland,8,DT Johnston,Mohammad Kashif,AR Cusack,,0,1,1,,,,316223162
+1,Ireland,8,AR Cusack,Mohammad Kashif,DT Johnston,,0,0,0,,,,316223162
+1,Ireland,8,AR Cusack,Mohammad Kashif,DT Johnston,,0,1,1,,,,316223162
+1,Ireland,9,AR Cusack,PM Seelaar,DT Johnston,,0,1,1,,,,316223162
+1,Ireland,9,DT Johnston,PM Seelaar,AR Cusack,,0,0,0,,,,316223162
+1,Ireland,9,DT Johnston,PM Seelaar,AR Cusack,,0,1,1,,,,316223162
+1,Ireland,9,AR Cusack,PM Seelaar,DT Johnston,,0,1,1,,,,316223162
+1,Ireland,9,DT Johnston,PM Seelaar,AR Cusack,,0,0,0,caught,DT Johnston,MBS Jonkman,316223162
+1,Ireland,9,AR Cusack,PM Seelaar,GC Wilson,,0,0,0,,,,316223162
+1,Ireland,10,GC Wilson,Mohammad Kashif,AR Cusack,,0,1,1,,,,316223162
+1,Ireland,10,AR Cusack,Mohammad Kashif,GC Wilson,,0,6,6,,,,316223162
+1,Ireland,10,AR Cusack,Mohammad Kashif,GC Wilson,,0,2,2,,,,316223162
+1,Ireland,10,AR Cusack,Mohammad Kashif,GC Wilson,,0,0,0,,,,316223162
+1,Ireland,10,AR Cusack,Mohammad Kashif,GC Wilson,,0,1,1,,,,316223162
+1,Ireland,10,GC Wilson,Mohammad Kashif,AR Cusack,,0,4,4,,,,316223162
+1,Ireland,11,AR Cusack,PM Seelaar,GC Wilson,,0,1,1,,,,316223162
+1,Ireland,11,GC Wilson,PM Seelaar,AR Cusack,,0,0,0,,,,316223162
+1,Ireland,11,GC Wilson,PM Seelaar,AR Cusack,,0,1,1,,,,316223162
+1,Ireland,11,AR Cusack,PM Seelaar,GC Wilson,,0,2,2,,,,316223162
+1,Ireland,11,AR Cusack,PM Seelaar,GC Wilson,,0,6,6,,,,316223162
+1,Ireland,11,AR Cusack,PM Seelaar,GC Wilson,,0,1,1,,,,316223162
+1,Ireland,12,AR Cusack,PW Borren,GC Wilson,legbyes,1,1,0,,,,316223162
+1,Ireland,12,GC Wilson,PW Borren,AR Cusack,,0,0,0,,,,316223162
+1,Ireland,12,GC Wilson,PW Borren,AR Cusack,,0,1,1,,,,316223162
+1,Ireland,12,AR Cusack,PW Borren,GC Wilson,,0,2,2,,,,316223162
+1,Ireland,12,AR Cusack,PW Borren,GC Wilson,,0,0,0,,,,316223162
+1,Ireland,12,AR Cusack,PW Borren,GC Wilson,,0,1,1,,,,316223162
+1,Ireland,13,AR Cusack,MBS Jonkman,GC Wilson,,0,1,1,,,,316223162
+1,Ireland,13,GC Wilson,MBS Jonkman,AR Cusack,,0,1,1,,,,316223162
+1,Ireland,13,AR Cusack,MBS Jonkman,GC Wilson,,0,0,0,caught,AR Cusack,DLS van Bunge,316223162
+1,Ireland,13,GC Wilson,MBS Jonkman,KJ O'Brien,,0,1,1,,,,316223162
+1,Ireland,13,KJ O'Brien,MBS Jonkman,GC Wilson,,0,0,0,,,,316223162
+1,Ireland,13,KJ O'Brien,MBS Jonkman,GC Wilson,,0,0,0,caught and bowled,KJ O'Brien,,316223162
+1,Ireland,14,GC Wilson,PW Borren,JF Mooney,,0,0,0,,,,316223162
+1,Ireland,14,GC Wilson,PW Borren,JF Mooney,,0,4,4,,,,316223162
+1,Ireland,14,GC Wilson,PW Borren,JF Mooney,,0,0,0,,,,316223162
+1,Ireland,14,GC Wilson,PW Borren,JF Mooney,,0,4,4,,,,316223162
+1,Ireland,14,GC Wilson,PW Borren,JF Mooney,,0,2,2,,,,316223162
+1,Ireland,14,GC Wilson,PW Borren,JF Mooney,,0,0,0,,,,316223162
+1,Ireland,15,JF Mooney,MBS Jonkman,GC Wilson,,0,1,1,,,,316223162
+1,Ireland,15,GC Wilson,MBS Jonkman,JF Mooney,,0,4,4,,,,316223162
+1,Ireland,15,GC Wilson,MBS Jonkman,JF Mooney,,0,1,1,,,,316223162
+1,Ireland,15,JF Mooney,MBS Jonkman,GC Wilson,,0,1,1,,,,316223162
+1,Ireland,15,GC Wilson,MBS Jonkman,JF Mooney,wides,1,1,0,,,,316223162
+1,Ireland,15,GC Wilson,MBS Jonkman,JF Mooney,,0,1,1,,,,316223162
+1,Ireland,15,JF Mooney,MBS Jonkman,GC Wilson,,0,1,1,,,,316223162
+1,Ireland,16,JF Mooney,PW Borren,GC Wilson,,0,1,1,,,,316223162
+1,Ireland,16,GC Wilson,PW Borren,JF Mooney,,0,1,1,,,,316223162
+1,Ireland,16,JF Mooney,PW Borren,GC Wilson,,0,4,4,,,,316223162
+1,Ireland,16,JF Mooney,PW Borren,GC Wilson,,0,0,0,,,,316223162
+1,Ireland,16,JF Mooney,PW Borren,GC Wilson,,0,1,1,,,,316223162
+1,Ireland,16,GC Wilson,PW Borren,JF Mooney,,0,1,1,,,,316223162
+1,Ireland,17,GC Wilson,Mudassar Bukhari,JF Mooney,,0,1,1,,,,316223162
+1,Ireland,17,JF Mooney,Mudassar Bukhari,GC Wilson,,0,1,1,,,,316223162
+1,Ireland,17,GC Wilson,Mudassar Bukhari,JF Mooney,,0,0,0,,,,316223162
+1,Ireland,17,GC Wilson,Mudassar Bukhari,JF Mooney,,0,1,1,,,,316223162
+1,Ireland,17,JF Mooney,Mudassar Bukhari,GC Wilson,,0,1,1,,,,316223162
+1,Ireland,17,GC Wilson,Mudassar Bukhari,JF Mooney,,0,0,0,bowled,GC Wilson,,316223162
+1,Ireland,18,JF Mooney,RN ten Doeschate,AR White,,0,1,1,,,,316223162
+1,Ireland,18,AR White,RN ten Doeschate,JF Mooney,,0,2,2,,,,316223162
+1,Ireland,18,AR White,RN ten Doeschate,JF Mooney,,0,4,4,,,,316223162
+1,Ireland,18,AR White,RN ten Doeschate,JF Mooney,,0,1,1,,,,316223162
+1,Ireland,18,JF Mooney,RN ten Doeschate,AR White,legbyes,1,1,0,,,,316223162
+1,Ireland,18,AR White,RN ten Doeschate,JF Mooney,,0,1,1,,,,316223162
+1,Ireland,19,AR White,Mudassar Bukhari,JF Mooney,,0,2,2,,,,316223162
+1,Ireland,19,AR White,Mudassar Bukhari,JF Mooney,,0,2,2,,,,316223162
+1,Ireland,19,AR White,Mudassar Bukhari,JF Mooney,,0,1,1,,,,316223162
+1,Ireland,19,JF Mooney,Mudassar Bukhari,AR White,,0,1,1,,,,316223162
+1,Ireland,19,AR White,Mudassar Bukhari,JF Mooney,,0,1,1,,,,316223162
+1,Ireland,19,JF Mooney,Mudassar Bukhari,AR White,,0,4,4,,,,316223162

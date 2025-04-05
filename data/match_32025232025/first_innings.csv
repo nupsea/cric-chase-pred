@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Sri Lanka,0,GWHM Perera,Anam Amin,AC Jayangani,,0,0,0,,,,32025232025
+1,Sri Lanka,0,GWHM Perera,Anam Amin,AC Jayangani,,0,0,0,,,,32025232025
+1,Sri Lanka,0,GWHM Perera,Anam Amin,AC Jayangani,,0,0,0,,,,32025232025
+1,Sri Lanka,0,GWHM Perera,Anam Amin,AC Jayangani,,0,1,1,,,,32025232025
+1,Sri Lanka,0,AC Jayangani,Anam Amin,GWHM Perera,,0,0,0,,,,32025232025
+1,Sri Lanka,0,AC Jayangani,Anam Amin,GWHM Perera,,0,0,0,,,,32025232025
+1,Sri Lanka,1,GWHM Perera,Fatima Sana,AC Jayangani,legbyes,1,1,0,,,,32025232025
+1,Sri Lanka,1,AC Jayangani,Fatima Sana,GWHM Perera,,0,0,0,,,,32025232025
+1,Sri Lanka,1,AC Jayangani,Fatima Sana,GWHM Perera,,0,1,1,,,,32025232025
+1,Sri Lanka,1,GWHM Perera,Fatima Sana,AC Jayangani,,0,0,0,,,,32025232025
+1,Sri Lanka,1,GWHM Perera,Fatima Sana,AC Jayangani,,0,0,0,,,,32025232025
+1,Sri Lanka,1,GWHM Perera,Fatima Sana,AC Jayangani,,0,1,1,,,,32025232025
+1,Sri Lanka,2,GWHM Perera,Anam Amin,AC Jayangani,,0,1,1,,,,32025232025
+1,Sri Lanka,2,AC Jayangani,Anam Amin,GWHM Perera,,0,4,4,,,,32025232025
+1,Sri Lanka,2,AC Jayangani,Anam Amin,GWHM Perera,,0,0,0,caught,AC Jayangani,Aliya Riaz,32025232025
+1,Sri Lanka,2,GWHM Perera,Anam Amin,OU Ranasinghe,,0,0,0,,,,32025232025
+1,Sri Lanka,2,GWHM Perera,Anam Amin,OU Ranasinghe,,0,0,0,,,,32025232025
+1,Sri Lanka,2,GWHM Perera,Anam Amin,OU Ranasinghe,,0,0,0,,,,32025232025
+1,Sri Lanka,3,OU Ranasinghe,Fatima Sana,GWHM Perera,,0,0,0,,,,32025232025
+1,Sri Lanka,3,OU Ranasinghe,Fatima Sana,GWHM Perera,legbyes,1,1,0,,,,32025232025
+1,Sri Lanka,3,GWHM Perera,Fatima Sana,OU Ranasinghe,,0,0,0,,,,32025232025
+1,Sri Lanka,3,GWHM Perera,Fatima Sana,OU Ranasinghe,,0,0,0,,,,32025232025
+1,Sri Lanka,3,GWHM Perera,Fatima Sana,OU Ranasinghe,,0,0,0,,,,32025232025
+1,Sri Lanka,3,GWHM Perera,Fatima Sana,OU Ranasinghe,,0,0,0,,,,32025232025
+1,Sri Lanka,4,OU Ranasinghe,Anam Amin,GWHM Perera,,0,2,2,,,,32025232025
+1,Sri Lanka,4,OU Ranasinghe,Anam Amin,GWHM Perera,byes,1,1,0,,,,32025232025
+1,Sri Lanka,4,GWHM Perera,Anam Amin,OU Ranasinghe,,0,0,0,,,,32025232025
+1,Sri Lanka,4,GWHM Perera,Anam Amin,OU Ranasinghe,,0,1,1,,,,32025232025
+1,Sri Lanka,4,OU Ranasinghe,Anam Amin,GWHM Perera,,0,0,0,,,,32025232025
+1,Sri Lanka,4,OU Ranasinghe,Anam Amin,GWHM Perera,,0,0,0,,,,32025232025
+1,Sri Lanka,5,GWHM Perera,Nida Dar,OU Ranasinghe,,0,1,1,,,,32025232025
+1,Sri Lanka,5,OU Ranasinghe,Nida Dar,GWHM Perera,,0,2,2,,,,32025232025
+1,Sri Lanka,5,OU Ranasinghe,Nida Dar,GWHM Perera,,0,0,0,,,,32025232025
+1,Sri Lanka,5,OU Ranasinghe,Nida Dar,GWHM Perera,,0,0,0,,,,32025232025
+1,Sri Lanka,5,OU Ranasinghe,Nida Dar,GWHM Perera,,0,3,3,,,,32025232025
+1,Sri Lanka,5,GWHM Perera,Nida Dar,OU Ranasinghe,,0,1,1,,,,32025232025
+1,Sri Lanka,6,GWHM Perera,Aiman Anwer,OU Ranasinghe,,0,0,0,,,,32025232025
+1,Sri Lanka,6,GWHM Perera,Aiman Anwer,OU Ranasinghe,,0,1,1,,,,32025232025
+1,Sri Lanka,6,OU Ranasinghe,Aiman Anwer,GWHM Perera,wides,1,1,0,,,,32025232025
+1,Sri Lanka,6,OU Ranasinghe,Aiman Anwer,GWHM Perera,,0,1,1,,,,32025232025
+1,Sri Lanka,6,GWHM Perera,Aiman Anwer,OU Ranasinghe,,0,4,4,,,,32025232025
+1,Sri Lanka,6,GWHM Perera,Aiman Anwer,OU Ranasinghe,,0,0,0,,,,32025232025
+1,Sri Lanka,6,GWHM Perera,Aiman Anwer,OU Ranasinghe,,0,0,0,,,,32025232025
+1,Sri Lanka,7,OU Ranasinghe,Nida Dar,GWHM Perera,,0,0,0,caught,OU Ranasinghe,Anam Amin,32025232025
+1,Sri Lanka,7,NND de Silva,Nida Dar,GWHM Perera,,0,1,1,,,,32025232025
+1,Sri Lanka,7,GWHM Perera,Nida Dar,NND de Silva,,0,0,0,,,,32025232025
+1,Sri Lanka,7,GWHM Perera,Nida Dar,NND de Silva,,0,1,1,,,,32025232025
+1,Sri Lanka,7,NND de Silva,Nida Dar,GWHM Perera,,0,1,1,,,,32025232025
+1,Sri Lanka,7,GWHM Perera,Nida Dar,NND de Silva,,0,1,1,,,,32025232025
+1,Sri Lanka,8,GWHM Perera,Aiman Anwer,NND de Silva,,0,1,1,,,,32025232025
+1,Sri Lanka,8,NND de Silva,Aiman Anwer,GWHM Perera,,0,1,1,,,,32025232025
+1,Sri Lanka,8,GWHM Perera,Aiman Anwer,NND de Silva,,0,4,4,,,,32025232025
+1,Sri Lanka,8,GWHM Perera,Aiman Anwer,NND de Silva,,0,4,4,,,,32025232025
+1,Sri Lanka,8,GWHM Perera,Aiman Anwer,NND de Silva,,0,1,1,,,,32025232025
+1,Sri Lanka,8,NND de Silva,Aiman Anwer,GWHM Perera,,0,0,0,,,,32025232025
+1,Sri Lanka,9,GWHM Perera,Tuba Hassan,NND de Silva,,0,2,2,,,,32025232025
+1,Sri Lanka,9,GWHM Perera,Tuba Hassan,NND de Silva,,0,0,0,,,,32025232025
+1,Sri Lanka,9,GWHM Perera,Tuba Hassan,NND de Silva,,0,0,0,,,,32025232025
+1,Sri Lanka,9,GWHM Perera,Tuba Hassan,NND de Silva,,0,0,0,,,,32025232025
+1,Sri Lanka,9,GWHM Perera,Tuba Hassan,NND de Silva,,0,0,0,,,,32025232025
+1,Sri Lanka,9,GWHM Perera,Tuba Hassan,NND de Silva,,0,1,1,,,,32025232025
+1,Sri Lanka,10,GWHM Perera,Nida Dar,NND de Silva,,0,1,1,,,,32025232025
+1,Sri Lanka,10,NND de Silva,Nida Dar,GWHM Perera,,0,2,2,,,,32025232025
+1,Sri Lanka,10,NND de Silva,Nida Dar,GWHM Perera,,0,0,0,,,,32025232025
+1,Sri Lanka,10,NND de Silva,Nida Dar,GWHM Perera,,0,1,1,,,,32025232025
+1,Sri Lanka,10,GWHM Perera,Nida Dar,NND de Silva,,0,1,1,,,,32025232025
+1,Sri Lanka,10,GWHM Perera,Nida Dar,NND de Silva,,0,1,1,,,,32025232025
+1,Sri Lanka,11,GWHM Perera,Tuba Hassan,NND de Silva,,0,1,1,,,,32025232025
+1,Sri Lanka,11,NND de Silva,Tuba Hassan,GWHM Perera,,0,0,0,,,,32025232025
+1,Sri Lanka,11,NND de Silva,Tuba Hassan,GWHM Perera,,0,0,0,,,,32025232025
+1,Sri Lanka,11,NND de Silva,Tuba Hassan,GWHM Perera,,0,0,0,,,,32025232025
+1,Sri Lanka,11,NND de Silva,Tuba Hassan,GWHM Perera,,0,0,0,,,,32025232025
+1,Sri Lanka,11,NND de Silva,Tuba Hassan,GWHM Perera,,0,2,2,,,,32025232025
+1,Sri Lanka,12,GWHM Perera,Nida Dar,NND de Silva,,0,0,0,,,,32025232025
+1,Sri Lanka,12,GWHM Perera,Nida Dar,NND de Silva,,0,0,0,,,,32025232025
+1,Sri Lanka,12,GWHM Perera,Nida Dar,NND de Silva,,0,1,1,,,,32025232025
+1,Sri Lanka,12,NND de Silva,Nida Dar,GWHM Perera,,0,1,1,,,,32025232025
+1,Sri Lanka,12,GWHM Perera,Nida Dar,NND de Silva,,0,1,1,,,,32025232025
+1,Sri Lanka,12,NND de Silva,Nida Dar,GWHM Perera,,0,0,0,,,,32025232025
+1,Sri Lanka,13,GWHM Perera,Tuba Hassan,NND de Silva,,0,1,1,,,,32025232025
+1,Sri Lanka,13,NND de Silva,Tuba Hassan,GWHM Perera,,0,1,1,,,,32025232025
+1,Sri Lanka,13,GWHM Perera,Tuba Hassan,NND de Silva,,0,0,0,,,,32025232025
+1,Sri Lanka,13,GWHM Perera,Tuba Hassan,NND de Silva,,0,2,2,,,,32025232025
+1,Sri Lanka,13,GWHM Perera,Tuba Hassan,NND de Silva,,0,0,0,,,,32025232025
+1,Sri Lanka,13,GWHM Perera,Tuba Hassan,NND de Silva,,0,0,0,caught,GWHM Perera,Fatima Sana,32025232025
+1,Sri Lanka,14,H Madavi,Anam Amin,NND de Silva,,0,1,1,,,,32025232025
+1,Sri Lanka,14,NND de Silva,Anam Amin,H Madavi,,0,1,1,,,,32025232025
+1,Sri Lanka,14,H Madavi,Anam Amin,NND de Silva,,0,1,1,,,,32025232025
+1,Sri Lanka,14,NND de Silva,Anam Amin,H Madavi,,0,1,1,,,,32025232025
+1,Sri Lanka,14,H Madavi,Anam Amin,NND de Silva,,0,1,1,,,,32025232025
+1,Sri Lanka,14,NND de Silva,Anam Amin,H Madavi,wides,1,1,0,,,,32025232025
+1,Sri Lanka,14,NND de Silva,Anam Amin,H Madavi,,0,1,1,,,,32025232025
+1,Sri Lanka,15,NND de Silva,Tuba Hassan,H Madavi,wides,1,1,0,,,,32025232025
+1,Sri Lanka,15,NND de Silva,Tuba Hassan,H Madavi,,0,0,0,,,,32025232025
+1,Sri Lanka,15,NND de Silva,Tuba Hassan,H Madavi,,0,1,1,,,,32025232025
+1,Sri Lanka,15,H Madavi,Tuba Hassan,NND de Silva,,0,0,0,,,,32025232025
+1,Sri Lanka,15,H Madavi,Tuba Hassan,NND de Silva,,0,0,0,,,,32025232025
+1,Sri Lanka,15,H Madavi,Tuba Hassan,NND de Silva,,0,1,1,,,,32025232025
+1,Sri Lanka,15,NND de Silva,Tuba Hassan,H Madavi,,0,0,0,,,,32025232025
+1,Sri Lanka,16,H Madavi,Fatima Sana,NND de Silva,,0,4,4,,,,32025232025
+1,Sri Lanka,16,H Madavi,Fatima Sana,NND de Silva,byes,1,1,0,,,,32025232025
+1,Sri Lanka,16,NND de Silva,Fatima Sana,H Madavi,,0,1,1,,,,32025232025
+1,Sri Lanka,16,H Madavi,Fatima Sana,NND de Silva,,0,1,1,,,,32025232025
+1,Sri Lanka,16,NND de Silva,Fatima Sana,H Madavi,,0,1,1,,,,32025232025
+1,Sri Lanka,16,H Madavi,Fatima Sana,NND de Silva,,0,4,4,,,,32025232025
+1,Sri Lanka,17,NND de Silva,Aiman Anwer,H Madavi,,0,1,1,,,,32025232025
+1,Sri Lanka,17,H Madavi,Aiman Anwer,NND de Silva,,0,1,1,,,,32025232025
+1,Sri Lanka,17,NND de Silva,Aiman Anwer,H Madavi,,0,1,1,,,,32025232025
+1,Sri Lanka,17,H Madavi,Aiman Anwer,NND de Silva,,0,0,0,,,,32025232025
+1,Sri Lanka,17,H Madavi,Aiman Anwer,NND de Silva,,0,0,0,,,,32025232025
+1,Sri Lanka,17,H Madavi,Aiman Anwer,NND de Silva,,0,2,2,,,,32025232025
+1,Sri Lanka,18,NND de Silva,Fatima Sana,H Madavi,,0,1,1,,,,32025232025
+1,Sri Lanka,18,H Madavi,Fatima Sana,NND de Silva,,0,0,0,caught,H Madavi,Iram Javed,32025232025
+1,Sri Lanka,18,KADA Kanchana,Fatima Sana,NND de Silva,,0,4,4,,,,32025232025
+1,Sri Lanka,18,KADA Kanchana,Fatima Sana,NND de Silva,,0,1,1,run out,KADA Kanchana,Nida Dar,32025232025
+1,Sri Lanka,18,WK Dilhari,Fatima Sana,NND de Silva,,0,1,1,,,,32025232025
+1,Sri Lanka,18,NND de Silva,Fatima Sana,WK Dilhari,,0,1,1,,,,32025232025
+1,Sri Lanka,19,NND de Silva,Aiman Anwer,WK Dilhari,,0,1,1,,,,32025232025
+1,Sri Lanka,19,WK Dilhari,Aiman Anwer,NND de Silva,,0,1,1,,,,32025232025
+1,Sri Lanka,19,NND de Silva,Aiman Anwer,WK Dilhari,,0,0,0,caught,NND de Silva,Bismah Maroof,32025232025
+1,Sri Lanka,19,WK Dilhari,Aiman Anwer,MAA Sanjeewani,,0,1,1,,,,32025232025
+1,Sri Lanka,19,MAA Sanjeewani,Aiman Anwer,WK Dilhari,,0,1,1,,,,32025232025
+1,Sri Lanka,19,WK Dilhari,Aiman Anwer,MAA Sanjeewani,,0,1,1,,,,32025232025

@@ -1,0 +1,122 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Bangladesh,0,Liton Das,B Evans,Parvez Hossain Emon,,0,2,2,,,,32215232215
+2,Bangladesh,0,Liton Das,B Evans,Parvez Hossain Emon,,0,0,0,,,,32215232215
+2,Bangladesh,0,Liton Das,B Evans,Parvez Hossain Emon,,0,4,4,,,,32215232215
+2,Bangladesh,0,Liton Das,B Evans,Parvez Hossain Emon,,0,3,3,,,,32215232215
+2,Bangladesh,0,Parvez Hossain Emon,B Evans,Liton Das,,0,0,0,,,,32215232215
+2,Bangladesh,0,Parvez Hossain Emon,B Evans,Liton Das,,0,0,0,,,,32215232215
+2,Bangladesh,1,Liton Das,VM Nyauchi,Parvez Hossain Emon,,0,4,4,,,,32215232215
+2,Bangladesh,1,Liton Das,VM Nyauchi,Parvez Hossain Emon,,0,0,0,caught and bowled,Liton Das,,32215232215
+2,Bangladesh,1,Anamul Haque,VM Nyauchi,Parvez Hossain Emon,,0,0,0,,,,32215232215
+2,Bangladesh,1,Anamul Haque,VM Nyauchi,Parvez Hossain Emon,,0,0,0,,,,32215232215
+2,Bangladesh,1,Anamul Haque,VM Nyauchi,Parvez Hossain Emon,,0,4,4,,,,32215232215
+2,Bangladesh,1,Anamul Haque,VM Nyauchi,Parvez Hossain Emon,,0,0,0,,,,32215232215
+2,Bangladesh,2,Parvez Hossain Emon,W Madhevere,Anamul Haque,,0,1,1,,,,32215232215
+2,Bangladesh,2,Anamul Haque,W Madhevere,Parvez Hossain Emon,,0,0,0,,,,32215232215
+2,Bangladesh,2,Anamul Haque,W Madhevere,Parvez Hossain Emon,,0,1,1,,,,32215232215
+2,Bangladesh,2,Parvez Hossain Emon,W Madhevere,Anamul Haque,,0,0,0,,,,32215232215
+2,Bangladesh,2,Parvez Hossain Emon,W Madhevere,Anamul Haque,,0,1,1,,,,32215232215
+2,Bangladesh,2,Anamul Haque,W Madhevere,Parvez Hossain Emon,,0,4,4,,,,32215232215
+2,Bangladesh,3,Parvez Hossain Emon,VM Nyauchi,Anamul Haque,,0,0,0,caught,Parvez Hossain Emon,M Shumba,32215232215
+2,Bangladesh,3,Nazmul Hossain Shanto,VM Nyauchi,Anamul Haque,,0,1,1,,,,32215232215
+2,Bangladesh,3,Anamul Haque,VM Nyauchi,Nazmul Hossain Shanto,,0,0,0,,,,32215232215
+2,Bangladesh,3,Anamul Haque,VM Nyauchi,Nazmul Hossain Shanto,,0,1,1,,,,32215232215
+2,Bangladesh,3,Nazmul Hossain Shanto,VM Nyauchi,Anamul Haque,,0,3,3,,,,32215232215
+2,Bangladesh,3,Anamul Haque,VM Nyauchi,Nazmul Hossain Shanto,,0,0,0,,,,32215232215
+2,Bangladesh,4,Nazmul Hossain Shanto,W Madhevere,Anamul Haque,,0,1,1,,,,32215232215
+2,Bangladesh,4,Anamul Haque,W Madhevere,Nazmul Hossain Shanto,,0,2,2,,,,32215232215
+2,Bangladesh,4,Anamul Haque,W Madhevere,Nazmul Hossain Shanto,,0,2,2,,,,32215232215
+2,Bangladesh,4,Anamul Haque,W Madhevere,Nazmul Hossain Shanto,,0,0,0,bowled,Anamul Haque,,32215232215
+2,Bangladesh,4,Mahmudullah,W Madhevere,Nazmul Hossain Shanto,,0,1,1,,,,32215232215
+2,Bangladesh,4,Nazmul Hossain Shanto,W Madhevere,Mahmudullah,,0,1,1,,,,32215232215
+2,Bangladesh,5,Nazmul Hossain Shanto,B Evans,Mahmudullah,,0,1,1,,,,32215232215
+2,Bangladesh,5,Mahmudullah,B Evans,Nazmul Hossain Shanto,,0,0,0,,,,32215232215
+2,Bangladesh,5,Mahmudullah,B Evans,Nazmul Hossain Shanto,legbyes,4,4,0,,,,32215232215
+2,Bangladesh,5,Mahmudullah,B Evans,Nazmul Hossain Shanto,,0,1,1,,,,32215232215
+2,Bangladesh,5,Nazmul Hossain Shanto,B Evans,Mahmudullah,,0,2,2,,,,32215232215
+2,Bangladesh,5,Nazmul Hossain Shanto,B Evans,Mahmudullah,legbyes,1,1,0,,,,32215232215
+2,Bangladesh,6,Nazmul Hossain Shanto,Sikandar Raza,Mahmudullah,,0,1,1,,,,32215232215
+2,Bangladesh,6,Mahmudullah,Sikandar Raza,Nazmul Hossain Shanto,,0,1,1,,,,32215232215
+2,Bangladesh,6,Nazmul Hossain Shanto,Sikandar Raza,Mahmudullah,,0,0,0,,,,32215232215
+2,Bangladesh,6,Nazmul Hossain Shanto,Sikandar Raza,Mahmudullah,,0,1,1,,,,32215232215
+2,Bangladesh,6,Mahmudullah,Sikandar Raza,Nazmul Hossain Shanto,,0,1,1,,,,32215232215
+2,Bangladesh,6,Nazmul Hossain Shanto,Sikandar Raza,Mahmudullah,legbyes,1,1,0,,,,32215232215
+2,Bangladesh,7,Nazmul Hossain Shanto,JK Masara,Mahmudullah,,0,1,1,,,,32215232215
+2,Bangladesh,7,Mahmudullah,JK Masara,Nazmul Hossain Shanto,,0,1,1,,,,32215232215
+2,Bangladesh,7,Nazmul Hossain Shanto,JK Masara,Mahmudullah,,0,1,1,,,,32215232215
+2,Bangladesh,7,Mahmudullah,JK Masara,Nazmul Hossain Shanto,,0,1,1,,,,32215232215
+2,Bangladesh,7,Nazmul Hossain Shanto,JK Masara,Mahmudullah,,0,0,0,,,,32215232215
+2,Bangladesh,7,Nazmul Hossain Shanto,JK Masara,Mahmudullah,,0,1,1,,,,32215232215
+2,Bangladesh,8,Nazmul Hossain Shanto,Sikandar Raza,Mahmudullah,,0,0,0,,,,32215232215
+2,Bangladesh,8,Nazmul Hossain Shanto,Sikandar Raza,Mahmudullah,,0,1,1,,,,32215232215
+2,Bangladesh,8,Mahmudullah,Sikandar Raza,Nazmul Hossain Shanto,,0,1,1,,,,32215232215
+2,Bangladesh,8,Nazmul Hossain Shanto,Sikandar Raza,Mahmudullah,,0,1,1,,,,32215232215
+2,Bangladesh,8,Mahmudullah,Sikandar Raza,Nazmul Hossain Shanto,,0,1,1,,,,32215232215
+2,Bangladesh,8,Nazmul Hossain Shanto,Sikandar Raza,Mahmudullah,,0,0,0,,,,32215232215
+2,Bangladesh,9,Mahmudullah,SC Williams,Nazmul Hossain Shanto,,0,1,1,,,,32215232215
+2,Bangladesh,9,Nazmul Hossain Shanto,SC Williams,Mahmudullah,,0,0,0,caught,Nazmul Hossain Shanto,LM Jongwe,32215232215
+2,Bangladesh,9,Afif Hossain,SC Williams,Mahmudullah,,0,1,1,,,,32215232215
+2,Bangladesh,9,Mahmudullah,SC Williams,Afif Hossain,,0,1,1,,,,32215232215
+2,Bangladesh,9,Afif Hossain,SC Williams,Mahmudullah,,0,3,3,,,,32215232215
+2,Bangladesh,9,Mahmudullah,SC Williams,Afif Hossain,,0,1,1,,,,32215232215
+2,Bangladesh,10,Mahmudullah,Sikandar Raza,Afif Hossain,,0,0,0,,,,32215232215
+2,Bangladesh,10,Mahmudullah,Sikandar Raza,Afif Hossain,,0,1,1,,,,32215232215
+2,Bangladesh,10,Afif Hossain,Sikandar Raza,Mahmudullah,,0,2,2,,,,32215232215
+2,Bangladesh,10,Afif Hossain,Sikandar Raza,Mahmudullah,,0,2,2,,,,32215232215
+2,Bangladesh,10,Afif Hossain,Sikandar Raza,Mahmudullah,,0,1,1,,,,32215232215
+2,Bangladesh,10,Mahmudullah,Sikandar Raza,Afif Hossain,,0,0,0,,,,32215232215
+2,Bangladesh,11,Afif Hossain,SC Williams,Mahmudullah,,0,1,1,,,,32215232215
+2,Bangladesh,11,Mahmudullah,SC Williams,Afif Hossain,,0,4,4,,,,32215232215
+2,Bangladesh,11,Mahmudullah,SC Williams,Afif Hossain,,0,1,1,,,,32215232215
+2,Bangladesh,11,Afif Hossain,SC Williams,Mahmudullah,,0,1,1,,,,32215232215
+2,Bangladesh,11,Mahmudullah,SC Williams,Afif Hossain,,0,1,1,,,,32215232215
+2,Bangladesh,11,Afif Hossain,SC Williams,Mahmudullah,,0,1,1,,,,32215232215
+2,Bangladesh,12,Afif Hossain,Sikandar Raza,Mahmudullah,,0,1,1,,,,32215232215
+2,Bangladesh,12,Mahmudullah,Sikandar Raza,Afif Hossain,,0,2,2,,,,32215232215
+2,Bangladesh,12,Mahmudullah,Sikandar Raza,Afif Hossain,legbyes,1,1,0,,,,32215232215
+2,Bangladesh,12,Afif Hossain,Sikandar Raza,Mahmudullah,,0,4,4,,,,32215232215
+2,Bangladesh,12,Afif Hossain,Sikandar Raza,Mahmudullah,,0,0,0,,,,32215232215
+2,Bangladesh,12,Afif Hossain,Sikandar Raza,Mahmudullah,,0,0,0,,,,32215232215
+2,Bangladesh,13,Mahmudullah,LM Jongwe,Afif Hossain,,0,1,1,,,,32215232215
+2,Bangladesh,13,Afif Hossain,LM Jongwe,Mahmudullah,,0,1,1,,,,32215232215
+2,Bangladesh,13,Mahmudullah,LM Jongwe,Afif Hossain,,0,1,1,,,,32215232215
+2,Bangladesh,13,Afif Hossain,LM Jongwe,Mahmudullah,,0,1,1,,,,32215232215
+2,Bangladesh,13,Mahmudullah,LM Jongwe,Afif Hossain,wides,1,1,0,,,,32215232215
+2,Bangladesh,13,Mahmudullah,LM Jongwe,Afif Hossain,,0,2,2,,,,32215232215
+2,Bangladesh,13,Mahmudullah,LM Jongwe,Afif Hossain,,0,1,1,,,,32215232215
+2,Bangladesh,14,Mahmudullah,B Evans,Afif Hossain,,0,2,2,,,,32215232215
+2,Bangladesh,14,Mahmudullah,B Evans,Afif Hossain,,0,0,0,caught,Mahmudullah,RW Chakabva,32215232215
+2,Bangladesh,14,Mosaddek Hossain,B Evans,Afif Hossain,,0,0,0,caught,Mosaddek Hossain,RW Chakabva,32215232215
+2,Bangladesh,14,Mahedi Hasan,B Evans,Afif Hossain,,0,0,0,,,,32215232215
+2,Bangladesh,14,Mahedi Hasan,B Evans,Afif Hossain,,0,0,0,,,,32215232215
+2,Bangladesh,14,Mahedi Hasan,B Evans,Afif Hossain,,0,0,0,,,,32215232215
+2,Bangladesh,15,Afif Hossain,LM Jongwe,Mahedi Hasan,,0,1,1,,,,32215232215
+2,Bangladesh,15,Mahedi Hasan,LM Jongwe,Afif Hossain,,0,1,1,,,,32215232215
+2,Bangladesh,15,Afif Hossain,LM Jongwe,Mahedi Hasan,,0,4,4,,,,32215232215
+2,Bangladesh,15,Afif Hossain,LM Jongwe,Mahedi Hasan,,0,4,4,,,,32215232215
+2,Bangladesh,15,Afif Hossain,LM Jongwe,Mahedi Hasan,,0,1,1,,,,32215232215
+2,Bangladesh,15,Mahedi Hasan,LM Jongwe,Afif Hossain,,0,1,1,,,,32215232215
+2,Bangladesh,16,Mahedi Hasan,VM Nyauchi,Afif Hossain,,0,0,0,,,,32215232215
+2,Bangladesh,16,Mahedi Hasan,VM Nyauchi,Afif Hossain,,0,4,4,,,,32215232215
+2,Bangladesh,16,Mahedi Hasan,VM Nyauchi,Afif Hossain,,0,1,1,,,,32215232215
+2,Bangladesh,16,Afif Hossain,VM Nyauchi,Mahedi Hasan,,0,1,1,,,,32215232215
+2,Bangladesh,16,Mahedi Hasan,VM Nyauchi,Afif Hossain,,0,2,2,,,,32215232215
+2,Bangladesh,16,Mahedi Hasan,VM Nyauchi,Afif Hossain,,0,1,1,,,,32215232215
+2,Bangladesh,17,Mahedi Hasan,B Evans,Afif Hossain,,0,0,0,,,,32215232215
+2,Bangladesh,17,Mahedi Hasan,B Evans,Afif Hossain,,0,0,0,,,,32215232215
+2,Bangladesh,17,Mahedi Hasan,B Evans,Afif Hossain,,0,6,6,,,,32215232215
+2,Bangladesh,17,Mahedi Hasan,B Evans,Afif Hossain,,0,4,4,,,,32215232215
+2,Bangladesh,17,Mahedi Hasan,B Evans,Afif Hossain,,0,1,1,,,,32215232215
+2,Bangladesh,17,Afif Hossain,B Evans,Mahedi Hasan,,0,0,0,,,,32215232215
+2,Bangladesh,18,Mahedi Hasan,VM Nyauchi,Afif Hossain,,0,1,1,,,,32215232215
+2,Bangladesh,18,Afif Hossain,VM Nyauchi,Mahedi Hasan,,0,1,1,,,,32215232215
+2,Bangladesh,18,Mahedi Hasan,VM Nyauchi,Afif Hossain,,0,0,0,caught,Mahedi Hasan,Sikandar Raza,32215232215
+2,Bangladesh,18,Afif Hossain,VM Nyauchi,Hasan Mahmud,,0,1,1,,,,32215232215
+2,Bangladesh,18,Hasan Mahmud,VM Nyauchi,Afif Hossain,,0,3,3,,,,32215232215
+2,Bangladesh,18,Afif Hossain,VM Nyauchi,Hasan Mahmud,,0,1,1,,,,32215232215
+2,Bangladesh,19,Afif Hossain,LM Jongwe,Hasan Mahmud,,0,1,1,,,,32215232215
+2,Bangladesh,19,Hasan Mahmud,LM Jongwe,Afif Hossain,,0,0,0,caught,Hasan Mahmud,Sikandar Raza,32215232215
+2,Bangladesh,19,Afif Hossain,LM Jongwe,Nasum Ahmed,,0,2,2,,,,32215232215
+2,Bangladesh,19,Afif Hossain,LM Jongwe,Nasum Ahmed,,0,2,2,,,,32215232215
+2,Bangladesh,19,Afif Hossain,LM Jongwe,Nasum Ahmed,,0,1,1,,,,32215232215
+2,Bangladesh,19,Nasum Ahmed,LM Jongwe,Afif Hossain,,0,2,2,,,,32215232215

@@ -1,0 +1,74 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,England,0,T Banton,TA Boult,JM Bairstow,,0,0,0,,,,31149231149
+2,England,0,T Banton,TA Boult,JM Bairstow,,0,1,1,,,,31149231149
+2,England,0,JM Bairstow,TA Boult,T Banton,,0,1,1,,,,31149231149
+2,England,0,T Banton,TA Boult,JM Bairstow,,0,6,6,,,,31149231149
+2,England,0,T Banton,TA Boult,JM Bairstow,,0,0,0,lbw,T Banton,,31149231149
+2,England,0,JM Vince,TA Boult,JM Bairstow,,0,1,1,,,,31149231149
+2,England,1,JM Vince,TG Southee,JM Bairstow,,0,0,0,caught,JM Vince,SC Kuggeleijn,31149231149
+2,England,1,EJG Morgan,TG Southee,JM Bairstow,,0,1,1,,,,31149231149
+2,England,1,JM Bairstow,TG Southee,EJG Morgan,wides,1,1,0,,,,31149231149
+2,England,1,JM Bairstow,TG Southee,EJG Morgan,,0,4,4,,,,31149231149
+2,England,1,JM Bairstow,TG Southee,EJG Morgan,,0,2,2,,,,31149231149
+2,England,1,JM Bairstow,TG Southee,EJG Morgan,wides,1,1,0,,,,31149231149
+2,England,1,JM Bairstow,TG Southee,EJG Morgan,,0,0,0,,,,31149231149
+2,England,1,JM Bairstow,TG Southee,EJG Morgan,,0,4,4,,,,31149231149
+2,England,2,EJG Morgan,TA Boult,JM Bairstow,,0,0,0,,,,31149231149
+2,England,2,EJG Morgan,TA Boult,JM Bairstow,,0,6,6,,,,31149231149
+2,England,2,EJG Morgan,TA Boult,JM Bairstow,,0,4,4,,,,31149231149
+2,England,2,EJG Morgan,TA Boult,JM Bairstow,,0,6,6,,,,31149231149
+2,England,2,EJG Morgan,TA Boult,JM Bairstow,wides,1,1,0,,,,31149231149
+2,England,2,EJG Morgan,TA Boult,JM Bairstow,,0,0,0,,,,31149231149
+2,England,2,EJG Morgan,TA Boult,JM Bairstow,,0,0,0,caught,EJG Morgan,SC Kuggeleijn,31149231149
+2,England,3,SM Curran,MJ Santner,JM Bairstow,,0,0,0,,,,31149231149
+2,England,3,SM Curran,MJ Santner,JM Bairstow,,0,1,1,,,,31149231149
+2,England,3,JM Bairstow,MJ Santner,SM Curran,,0,6,6,,,,31149231149
+2,England,3,JM Bairstow,MJ Santner,SM Curran,,0,1,1,,,,31149231149
+2,England,3,SM Curran,MJ Santner,JM Bairstow,,0,1,1,,,,31149231149
+2,England,3,JM Bairstow,MJ Santner,SM Curran,,0,0,0,,,,31149231149
+2,England,4,SM Curran,SC Kuggeleijn,JM Bairstow,,0,4,4,,,,31149231149
+2,England,4,SM Curran,SC Kuggeleijn,JM Bairstow,,0,4,4,,,,31149231149
+2,England,4,SM Curran,SC Kuggeleijn,JM Bairstow,,0,6,6,,,,31149231149
+2,England,4,SM Curran,SC Kuggeleijn,JM Bairstow,,0,6,6,,,,31149231149
+2,England,4,SM Curran,SC Kuggeleijn,JM Bairstow,,0,0,0,,,,31149231149
+2,England,4,SM Curran,SC Kuggeleijn,JM Bairstow,,0,0,0,,,,31149231149
+2,England,5,JM Bairstow,IS Sodhi,SM Curran,,0,6,6,,,,31149231149
+2,England,5,JM Bairstow,IS Sodhi,SM Curran,,0,6,6,,,,31149231149
+2,England,5,JM Bairstow,IS Sodhi,SM Curran,,0,6,6,,,,31149231149
+2,England,5,JM Bairstow,IS Sodhi,SM Curran,wides,1,1,0,,,,31149231149
+2,England,5,JM Bairstow,IS Sodhi,SM Curran,,0,1,1,,,,31149231149
+2,England,5,SM Curran,IS Sodhi,JM Bairstow,,0,1,1,,,,31149231149
+2,England,5,JM Bairstow,IS Sodhi,SM Curran,,0,1,1,,,,31149231149
+2,England,6,JM Bairstow,JDS Neesham,SM Curran,,0,6,6,,,,31149231149
+2,England,6,JM Bairstow,JDS Neesham,SM Curran,,0,1,1,,,,31149231149
+2,England,6,SM Curran,JDS Neesham,JM Bairstow,,0,1,1,,,,31149231149
+2,England,6,JM Bairstow,JDS Neesham,SM Curran,,0,2,2,,,,31149231149
+2,England,6,JM Bairstow,JDS Neesham,SM Curran,,0,0,0,,,,31149231149
+2,England,6,JM Bairstow,JDS Neesham,SM Curran,,0,0,0,caught,JM Bairstow,TL Seifert,31149231149
+2,England,7,SM Curran,MJ Santner,SW Billings,wides,1,1,0,stumped,SM Curran,TL Seifert,31149231149
+2,England,7,L Gregory,MJ Santner,SW Billings,,0,6,6,,,,31149231149
+2,England,7,L Gregory,MJ Santner,SW Billings,,0,0,0,caught,L Gregory,TG Southee,31149231149
+2,England,7,TK Curran,MJ Santner,SW Billings,,0,1,1,,,,31149231149
+2,England,7,SW Billings,MJ Santner,TK Curran,,0,1,1,,,,31149231149
+2,England,7,TK Curran,MJ Santner,SW Billings,,0,1,1,,,,31149231149
+2,England,7,SW Billings,MJ Santner,TK Curran,,0,1,1,,,,31149231149
+2,England,8,SW Billings,TA Boult,TK Curran,,0,0,0,,,,31149231149
+2,England,8,SW Billings,TA Boult,TK Curran,legbyes,1,1,0,,,,31149231149
+2,England,8,TK Curran,TA Boult,SW Billings,,0,0,0,,,,31149231149
+2,England,8,TK Curran,TA Boult,SW Billings,,0,6,6,,,,31149231149
+2,England,8,TK Curran,TA Boult,SW Billings,wides,1,1,0,,,,31149231149
+2,England,8,TK Curran,TA Boult,SW Billings,,0,0,0,,,,31149231149
+2,England,8,TK Curran,TA Boult,SW Billings,,0,2,2,,,,31149231149
+2,England,9,SW Billings,TG Southee,TK Curran,,0,4,4,,,,31149231149
+2,England,9,SW Billings,TG Southee,TK Curran,wides,1,1,0,,,,31149231149
+2,England,9,SW Billings,TG Southee,TK Curran,,0,1,1,,,,31149231149
+2,England,9,TK Curran,TG Southee,SW Billings,,0,1,1,,,,31149231149
+2,England,9,SW Billings,TG Southee,TK Curran,,0,1,1,,,,31149231149
+2,England,9,TK Curran,TG Southee,SW Billings,,0,1,1,,,,31149231149
+2,England,9,SW Billings,TG Southee,TK Curran,legbyes,1,1,0,,,,31149231149
+2,England,10,SW Billings,JDS Neesham,TK Curran,,0,2,2,,,,31149231149
+2,England,10,SW Billings,JDS Neesham,TK Curran,,0,1,1,,,,31149231149
+2,England,10,TK Curran,JDS Neesham,SW Billings,,0,0,0,caught,TK Curran,C de Grandhomme,31149231149
+2,England,10,CJ Jordan,JDS Neesham,SW Billings,,0,6,6,,,,31149231149
+2,England,10,CJ Jordan,JDS Neesham,SW Billings,,0,2,2,,,,31149231149
+2,England,10,CJ Jordan,JDS Neesham,SW Billings,,0,4,4,,,,31149231149

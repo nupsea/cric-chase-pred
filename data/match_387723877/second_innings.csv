@@ -1,0 +1,103 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Netherlands,0,SL Kalis,M Tom,HDJ Siegers,wides,1,1,0,,,,387723877
+2,Netherlands,0,SL Kalis,M Tom,HDJ Siegers,,0,0,0,,,,387723877
+2,Netherlands,0,SL Kalis,M Tom,HDJ Siegers,,0,4,4,,,,387723877
+2,Netherlands,0,SL Kalis,M Tom,HDJ Siegers,,0,1,1,,,,387723877
+2,Netherlands,0,HDJ Siegers,M Tom,SL Kalis,,0,0,0,,,,387723877
+2,Netherlands,0,HDJ Siegers,M Tom,SL Kalis,,0,4,4,,,,387723877
+2,Netherlands,0,HDJ Siegers,M Tom,SL Kalis,,0,0,0,,,,387723877
+2,Netherlands,1,SL Kalis,R Oa,HDJ Siegers,,0,1,1,,,,387723877
+2,Netherlands,1,HDJ Siegers,R Oa,SL Kalis,,0,0,0,,,,387723877
+2,Netherlands,1,HDJ Siegers,R Oa,SL Kalis,,0,0,0,,,,387723877
+2,Netherlands,1,HDJ Siegers,R Oa,SL Kalis,,0,1,1,,,,387723877
+2,Netherlands,1,SL Kalis,R Oa,HDJ Siegers,,0,0,0,,,,387723877
+2,Netherlands,1,SL Kalis,R Oa,HDJ Siegers,,0,0,0,caught,SL Kalis,K Arua,387723877
+2,Netherlands,2,HDJ Siegers,S Jimmy,D Hannema,,0,0,0,,,,387723877
+2,Netherlands,2,HDJ Siegers,S Jimmy,D Hannema,,0,1,1,,,,387723877
+2,Netherlands,2,D Hannema,S Jimmy,HDJ Siegers,,0,0,0,,,,387723877
+2,Netherlands,2,D Hannema,S Jimmy,HDJ Siegers,,0,1,1,,,,387723877
+2,Netherlands,2,HDJ Siegers,S Jimmy,D Hannema,,0,0,0,,,,387723877
+2,Netherlands,2,HDJ Siegers,S Jimmy,D Hannema,,0,0,0,,,,387723877
+2,Netherlands,3,D Hannema,R Oa,HDJ Siegers,,0,1,1,,,,387723877
+2,Netherlands,3,HDJ Siegers,R Oa,D Hannema,,0,0,0,caught,HDJ Siegers,B Tau,387723877
+2,Netherlands,3,D Hannema,R Oa,R Rijke,,0,1,1,,,,387723877
+2,Netherlands,3,R Rijke,R Oa,D Hannema,,0,0,0,,,,387723877
+2,Netherlands,3,R Rijke,R Oa,D Hannema,,0,0,0,,,,387723877
+2,Netherlands,3,R Rijke,R Oa,D Hannema,,0,0,0,,,,387723877
+2,Netherlands,4,D Hannema,S Jimmy,R Rijke,,0,4,4,,,,387723877
+2,Netherlands,4,D Hannema,S Jimmy,R Rijke,,0,1,1,,,,387723877
+2,Netherlands,4,R Rijke,S Jimmy,D Hannema,,0,0,0,,,,387723877
+2,Netherlands,4,R Rijke,S Jimmy,D Hannema,,0,1,1,,,,387723877
+2,Netherlands,4,D Hannema,S Jimmy,R Rijke,,0,0,0,,,,387723877
+2,Netherlands,4,D Hannema,S Jimmy,R Rijke,,0,1,1,,,,387723877
+2,Netherlands,5,D Hannema,K Arua,R Rijke,,0,0,0,,,,387723877
+2,Netherlands,5,D Hannema,K Arua,R Rijke,,0,3,3,,,,387723877
+2,Netherlands,5,R Rijke,K Arua,D Hannema,,0,0,0,,,,387723877
+2,Netherlands,5,R Rijke,K Arua,D Hannema,,0,4,4,,,,387723877
+2,Netherlands,5,R Rijke,K Arua,D Hannema,,0,2,2,,,,387723877
+2,Netherlands,5,R Rijke,K Arua,D Hannema,,0,2,2,,,,387723877
+2,Netherlands,6,D Hannema,P Siaka,R Rijke,,0,0,0,,,,387723877
+2,Netherlands,6,D Hannema,P Siaka,R Rijke,,0,0,0,,,,387723877
+2,Netherlands,6,D Hannema,P Siaka,R Rijke,,0,2,2,,,,387723877
+2,Netherlands,6,D Hannema,P Siaka,R Rijke,,0,2,2,,,,387723877
+2,Netherlands,6,D Hannema,P Siaka,R Rijke,,0,1,1,,,,387723877
+2,Netherlands,6,R Rijke,P Siaka,D Hannema,,0,1,1,,,,387723877
+2,Netherlands,7,R Rijke,K Arua,D Hannema,,0,0,0,,,,387723877
+2,Netherlands,7,R Rijke,K Arua,D Hannema,,0,1,1,,,,387723877
+2,Netherlands,7,D Hannema,K Arua,R Rijke,,0,0,0,,,,387723877
+2,Netherlands,7,D Hannema,K Arua,R Rijke,,0,1,1,,,,387723877
+2,Netherlands,7,R Rijke,K Arua,D Hannema,,0,2,2,,,,387723877
+2,Netherlands,7,R Rijke,K Arua,D Hannema,,0,1,1,,,,387723877
+2,Netherlands,8,R Rijke,M Tom,D Hannema,,0,3,3,,,,387723877
+2,Netherlands,8,D Hannema,M Tom,R Rijke,,0,0,0,,,,387723877
+2,Netherlands,8,D Hannema,M Tom,R Rijke,,0,3,3,,,,387723877
+2,Netherlands,8,R Rijke,M Tom,D Hannema,,0,0,0,caught and bowled,R Rijke,,387723877
+2,Netherlands,8,D Hannema,M Tom,CC van Slobbe,,0,0,0,,,,387723877
+2,Netherlands,8,D Hannema,M Tom,CC van Slobbe,,0,1,1,,,,387723877
+2,Netherlands,9,D Hannema,K Arua,CC van Slobbe,,0,0,0,,,,387723877
+2,Netherlands,9,D Hannema,K Arua,CC van Slobbe,,0,0,0,,,,387723877
+2,Netherlands,9,D Hannema,K Arua,CC van Slobbe,,0,1,1,,,,387723877
+2,Netherlands,9,CC van Slobbe,K Arua,D Hannema,,0,1,1,,,,387723877
+2,Netherlands,9,D Hannema,K Arua,CC van Slobbe,,0,2,2,,,,387723877
+2,Netherlands,9,D Hannema,K Arua,CC van Slobbe,,0,1,1,,,,387723877
+2,Netherlands,10,D Hannema,M Tom,CC van Slobbe,,0,2,2,,,,387723877
+2,Netherlands,10,D Hannema,M Tom,CC van Slobbe,,0,1,1,,,,387723877
+2,Netherlands,10,CC van Slobbe,M Tom,D Hannema,wides,1,1,0,,,,387723877
+2,Netherlands,10,CC van Slobbe,M Tom,D Hannema,legbyes,1,1,0,,,,387723877
+2,Netherlands,10,D Hannema,M Tom,CC van Slobbe,,0,0,0,,,,387723877
+2,Netherlands,10,D Hannema,M Tom,CC van Slobbe,legbyes,1,1,0,,,,387723877
+2,Netherlands,10,CC van Slobbe,M Tom,D Hannema,,0,0,0,bowled,CC van Slobbe,,387723877
+2,Netherlands,11,D Hannema,K Arua,B de Leede,,0,2,2,,,,387723877
+2,Netherlands,11,D Hannema,K Arua,B de Leede,,0,0,0,,,,387723877
+2,Netherlands,11,D Hannema,K Arua,B de Leede,,0,1,1,,,,387723877
+2,Netherlands,11,B de Leede,K Arua,D Hannema,,0,1,1,,,,387723877
+2,Netherlands,11,D Hannema,K Arua,B de Leede,,0,1,1,,,,387723877
+2,Netherlands,11,B de Leede,K Arua,D Hannema,,0,0,0,,,,387723877
+2,Netherlands,12,D Hannema,M Tom,B de Leede,,0,2,2,,,,387723877
+2,Netherlands,12,D Hannema,M Tom,B de Leede,,0,0,0,bowled,D Hannema,,387723877
+2,Netherlands,12,J van Vliet,M Tom,B de Leede,,0,1,1,run out,J van Vliet,,387723877
+2,Netherlands,12,EE Corder,M Tom,B de Leede,,0,0,0,bowled,EE Corder,,387723877
+2,Netherlands,12,Mariska Kornet,M Tom,B de Leede,,0,0,0,,,,387723877
+2,Netherlands,12,Mariska Kornet,M Tom,B de Leede,,0,0,0,,,,387723877
+2,Netherlands,13,B de Leede,R Oa,Mariska Kornet,,0,0,0,,,,387723877
+2,Netherlands,13,B de Leede,R Oa,Mariska Kornet,,0,0,0,,,,387723877
+2,Netherlands,13,B de Leede,R Oa,Mariska Kornet,,0,1,1,,,,387723877
+2,Netherlands,13,Mariska Kornet,R Oa,B de Leede,,0,1,1,,,,387723877
+2,Netherlands,13,B de Leede,R Oa,Mariska Kornet,,0,1,1,,,,387723877
+2,Netherlands,13,Mariska Kornet,R Oa,B de Leede,,0,0,0,,,,387723877
+2,Netherlands,14,B de Leede,P Siaka,Mariska Kornet,,0,0,0,,,,387723877
+2,Netherlands,14,B de Leede,P Siaka,Mariska Kornet,,0,1,1,,,,387723877
+2,Netherlands,14,Mariska Kornet,P Siaka,B de Leede,,0,0,0,bowled,Mariska Kornet,,387723877
+2,Netherlands,14,MEC de Fouw,P Siaka,B de Leede,,0,0,0,,,,387723877
+2,Netherlands,14,MEC de Fouw,P Siaka,B de Leede,,0,1,1,,,,387723877
+2,Netherlands,14,B de Leede,P Siaka,MEC de Fouw,,0,1,1,,,,387723877
+2,Netherlands,15,B de Leede,R Oa,MEC de Fouw,,0,1,1,,,,387723877
+2,Netherlands,15,MEC de Fouw,R Oa,B de Leede,,0,0,0,,,,387723877
+2,Netherlands,15,MEC de Fouw,R Oa,B de Leede,,0,1,1,,,,387723877
+2,Netherlands,15,B de Leede,R Oa,MEC de Fouw,,0,1,1,,,,387723877
+2,Netherlands,15,MEC de Fouw,R Oa,B de Leede,,0,0,0,,,,387723877
+2,Netherlands,15,MEC de Fouw,R Oa,B de Leede,,0,1,1,,,,387723877
+2,Netherlands,16,MEC de Fouw,S Jimmy,B de Leede,,0,2,2,,,,387723877
+2,Netherlands,16,MEC de Fouw,S Jimmy,B de Leede,,0,1,1,,,,387723877
+2,Netherlands,16,B de Leede,S Jimmy,MEC de Fouw,,0,1,1,run out,B de Leede,,387723877
+2,Netherlands,16,S Siegers,S Jimmy,MEC de Fouw,,0,0,0,lbw,S Siegers,,387723877

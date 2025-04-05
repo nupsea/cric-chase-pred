@@ -1,0 +1,63 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,United Arab Emirates,0,Ghulam Shabber,S Lamichhane,Ashfaq Ahmed,,0,6,6,,,,398723987
+2,United Arab Emirates,0,Ghulam Shabber,S Lamichhane,Ashfaq Ahmed,,0,4,4,,,,398723987
+2,United Arab Emirates,0,Ghulam Shabber,S Lamichhane,Ashfaq Ahmed,,0,4,4,,,,398723987
+2,United Arab Emirates,0,Ghulam Shabber,S Lamichhane,Ashfaq Ahmed,,0,0,0,,,,398723987
+2,United Arab Emirates,0,Ghulam Shabber,S Lamichhane,Ashfaq Ahmed,,0,1,1,,,,398723987
+2,United Arab Emirates,0,Ashfaq Ahmed,S Lamichhane,Ghulam Shabber,wides,5,5,0,,,,398723987
+2,United Arab Emirates,0,Ashfaq Ahmed,S Lamichhane,Ghulam Shabber,,0,0,0,,,,398723987
+2,United Arab Emirates,1,Ghulam Shabber,Sompal Kami,Ashfaq Ahmed,,0,0,0,,,,398723987
+2,United Arab Emirates,1,Ghulam Shabber,Sompal Kami,Ashfaq Ahmed,,0,0,0,,,,398723987
+2,United Arab Emirates,1,Ghulam Shabber,Sompal Kami,Ashfaq Ahmed,,0,1,1,,,,398723987
+2,United Arab Emirates,1,Ashfaq Ahmed,Sompal Kami,Ghulam Shabber,,0,4,4,,,,398723987
+2,United Arab Emirates,1,Ashfaq Ahmed,Sompal Kami,Ghulam Shabber,,0,4,4,,,,398723987
+2,United Arab Emirates,1,Ashfaq Ahmed,Sompal Kami,Ghulam Shabber,,0,0,0,caught,Ashfaq Ahmed,Karan KC,398723987
+2,United Arab Emirates,2,Shaiman Anwar,Karan KC,Ghulam Shabber,,0,0,0,,,,398723987
+2,United Arab Emirates,2,Shaiman Anwar,Karan KC,Ghulam Shabber,,0,0,0,,,,398723987
+2,United Arab Emirates,2,Shaiman Anwar,Karan KC,Ghulam Shabber,,0,6,6,,,,398723987
+2,United Arab Emirates,2,Shaiman Anwar,Karan KC,Ghulam Shabber,,0,2,2,,,,398723987
+2,United Arab Emirates,2,Shaiman Anwar,Karan KC,Ghulam Shabber,,0,1,1,,,,398723987
+2,United Arab Emirates,2,Ghulam Shabber,Karan KC,Shaiman Anwar,,0,1,1,,,,398723987
+2,United Arab Emirates,3,Ghulam Shabber,Sompal Kami,Shaiman Anwar,,0,1,1,,,,398723987
+2,United Arab Emirates,3,Shaiman Anwar,Sompal Kami,Ghulam Shabber,,0,1,1,,,,398723987
+2,United Arab Emirates,3,Ghulam Shabber,Sompal Kami,Shaiman Anwar,,0,1,1,,,,398723987
+2,United Arab Emirates,3,Shaiman Anwar,Sompal Kami,Ghulam Shabber,,0,0,0,,,,398723987
+2,United Arab Emirates,3,Shaiman Anwar,Sompal Kami,Ghulam Shabber,wides,1,1,0,,,,398723987
+2,United Arab Emirates,3,Shaiman Anwar,Sompal Kami,Ghulam Shabber,,0,6,6,,,,398723987
+2,United Arab Emirates,3,Shaiman Anwar,Sompal Kami,Ghulam Shabber,,0,2,2,,,,398723987
+2,United Arab Emirates,4,Ghulam Shabber,A Bohara,Shaiman Anwar,,0,2,2,,,,398723987
+2,United Arab Emirates,4,Ghulam Shabber,A Bohara,Shaiman Anwar,,0,4,4,,,,398723987
+2,United Arab Emirates,4,Ghulam Shabber,A Bohara,Shaiman Anwar,,0,0,0,,,,398723987
+2,United Arab Emirates,4,Ghulam Shabber,A Bohara,Shaiman Anwar,,0,0,0,bowled,Ghulam Shabber,,398723987
+2,United Arab Emirates,4,Muhammad Usman,A Bohara,Shaiman Anwar,,0,1,1,,,,398723987
+2,United Arab Emirates,4,Shaiman Anwar,A Bohara,Muhammad Usman,,0,0,0,,,,398723987
+2,United Arab Emirates,5,Muhammad Usman,S Lamichhane,Shaiman Anwar,,0,1,1,,,,398723987
+2,United Arab Emirates,5,Shaiman Anwar,S Lamichhane,Muhammad Usman,,0,1,1,,,,398723987
+2,United Arab Emirates,5,Muhammad Usman,S Lamichhane,Shaiman Anwar,,0,0,0,caught,Muhammad Usman,S Jora,398723987
+2,United Arab Emirates,5,Shaiman Anwar,S Lamichhane,Mohammad Boota,,0,0,0,,,,398723987
+2,United Arab Emirates,5,Shaiman Anwar,S Lamichhane,Mohammad Boota,,0,0,0,,,,398723987
+2,United Arab Emirates,5,Shaiman Anwar,S Lamichhane,Mohammad Boota,,0,1,1,,,,398723987
+2,United Arab Emirates,6,Shaiman Anwar,LN Rajbanshi,Mohammad Boota,,0,4,4,,,,398723987
+2,United Arab Emirates,6,Shaiman Anwar,LN Rajbanshi,Mohammad Boota,,0,1,1,,,,398723987
+2,United Arab Emirates,6,Mohammad Boota,LN Rajbanshi,Shaiman Anwar,,0,1,1,,,,398723987
+2,United Arab Emirates,6,Shaiman Anwar,LN Rajbanshi,Mohammad Boota,,0,4,4,,,,398723987
+2,United Arab Emirates,6,Shaiman Anwar,LN Rajbanshi,Mohammad Boota,,0,0,0,,,,398723987
+2,United Arab Emirates,6,Shaiman Anwar,LN Rajbanshi,Mohammad Boota,,0,1,1,,,,398723987
+2,United Arab Emirates,7,Shaiman Anwar,Karan KC,Mohammad Boota,,0,0,0,caught,Shaiman Anwar,G Malla,398723987
+2,United Arab Emirates,7,Mohammad Boota,Karan KC,Mohammad Naveed,,0,1,1,,,,398723987
+2,United Arab Emirates,7,Mohammad Naveed,Karan KC,Mohammad Boota,,0,0,0,caught,Mohammad Naveed,P Sarraf,398723987
+2,United Arab Emirates,7,Mohammad Boota,Karan KC,CP Rizwan,,0,1,1,,,,398723987
+2,United Arab Emirates,7,CP Rizwan,Karan KC,Mohammad Boota,,0,1,1,,,,398723987
+2,United Arab Emirates,7,Mohammad Boota,Karan KC,CP Rizwan,legbyes,1,1,0,,,,398723987
+2,United Arab Emirates,8,Mohammad Boota,A Bohara,CP Rizwan,,0,2,2,,,,398723987
+2,United Arab Emirates,8,Mohammad Boota,A Bohara,CP Rizwan,,0,4,4,,,,398723987
+2,United Arab Emirates,8,Mohammad Boota,A Bohara,CP Rizwan,,0,0,0,,,,398723987
+2,United Arab Emirates,8,Mohammad Boota,A Bohara,CP Rizwan,,0,2,2,,,,398723987
+2,United Arab Emirates,8,Mohammad Boota,A Bohara,CP Rizwan,,0,0,0,caught,Mohammad Boota,G Malla,398723987
+2,United Arab Emirates,8,CP Rizwan,A Bohara,Amir Hayat,,0,1,1,,,,398723987
+2,United Arab Emirates,9,CP Rizwan,LN Rajbanshi,Amir Hayat,,0,0,0,caught,CP Rizwan,G Malla,398723987
+2,United Arab Emirates,9,Amir Hayat,LN Rajbanshi,Sultan Ahmed,,0,0,0,caught,Amir Hayat,P Khadka,398723987
+2,United Arab Emirates,9,Sultan Ahmed,LN Rajbanshi,Imran Haider,,0,2,2,,,,398723987
+2,United Arab Emirates,9,Sultan Ahmed,LN Rajbanshi,Imran Haider,,0,2,2,,,,398723987
+2,United Arab Emirates,9,Sultan Ahmed,LN Rajbanshi,Imran Haider,,0,1,1,,,,398723987
+2,United Arab Emirates,9,Imran Haider,LN Rajbanshi,Sultan Ahmed,,0,0,0,,,,398723987

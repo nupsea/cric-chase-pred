@@ -1,0 +1,127 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,England,0,JJ Roy,Imad Wasim,JC Buttler,,0,0,0,,,,31445231445
+1,England,0,JJ Roy,Imad Wasim,JC Buttler,,0,6,6,,,,31445231445
+1,England,0,JJ Roy,Imad Wasim,JC Buttler,,0,4,4,,,,31445231445
+1,England,0,JJ Roy,Imad Wasim,JC Buttler,wides,1,1,0,,,,31445231445
+1,England,0,JJ Roy,Imad Wasim,JC Buttler,,0,0,0,caught,JJ Roy,Mohammad Hafeez,31445231445
+1,England,0,JC Buttler,Imad Wasim,DJ Malan,,0,0,0,,,,31445231445
+1,England,0,JC Buttler,Imad Wasim,DJ Malan,,0,0,0,,,,31445231445
+1,England,1,DJ Malan,Shaheen Shah Afridi,JC Buttler,,0,0,0,,,,31445231445
+1,England,1,DJ Malan,Shaheen Shah Afridi,JC Buttler,,0,0,0,,,,31445231445
+1,England,1,DJ Malan,Shaheen Shah Afridi,JC Buttler,,0,1,1,,,,31445231445
+1,England,1,JC Buttler,Shaheen Shah Afridi,DJ Malan,,0,4,4,,,,31445231445
+1,England,1,JC Buttler,Shaheen Shah Afridi,DJ Malan,,0,0,0,,,,31445231445
+1,England,1,JC Buttler,Shaheen Shah Afridi,DJ Malan,,0,1,1,,,,31445231445
+1,England,2,JC Buttler,Imad Wasim,DJ Malan,,0,1,1,,,,31445231445
+1,England,2,DJ Malan,Imad Wasim,JC Buttler,,0,0,0,,,,31445231445
+1,England,2,DJ Malan,Imad Wasim,JC Buttler,,0,0,0,caught,DJ Malan,Azam Khan,31445231445
+1,England,2,MM Ali,Imad Wasim,JC Buttler,,0,1,1,,,,31445231445
+1,England,2,JC Buttler,Imad Wasim,MM Ali,,0,0,0,,,,31445231445
+1,England,2,JC Buttler,Imad Wasim,MM Ali,,0,4,4,,,,31445231445
+1,England,3,MM Ali,Shaheen Shah Afridi,JC Buttler,,0,0,0,,,,31445231445
+1,England,3,MM Ali,Shaheen Shah Afridi,JC Buttler,,0,1,1,,,,31445231445
+1,England,3,JC Buttler,Shaheen Shah Afridi,MM Ali,,0,4,4,,,,31445231445
+1,England,3,JC Buttler,Shaheen Shah Afridi,MM Ali,,0,0,0,,,,31445231445
+1,England,3,JC Buttler,Shaheen Shah Afridi,MM Ali,,0,0,0,,,,31445231445
+1,England,3,JC Buttler,Shaheen Shah Afridi,MM Ali,,0,0,0,,,,31445231445
+1,England,4,MM Ali,Mohammad Hasnain,JC Buttler,,0,0,0,,,,31445231445
+1,England,4,MM Ali,Mohammad Hasnain,JC Buttler,,0,4,4,,,,31445231445
+1,England,4,MM Ali,Mohammad Hasnain,JC Buttler,,0,1,1,,,,31445231445
+1,England,4,JC Buttler,Mohammad Hasnain,MM Ali,,0,6,6,,,,31445231445
+1,England,4,JC Buttler,Mohammad Hasnain,MM Ali,,0,4,4,,,,31445231445
+1,England,4,JC Buttler,Mohammad Hasnain,MM Ali,,0,4,4,,,,31445231445
+1,England,5,MM Ali,Haris Rauf,JC Buttler,,0,4,4,,,,31445231445
+1,England,5,MM Ali,Haris Rauf,JC Buttler,,0,4,4,,,,31445231445
+1,England,5,MM Ali,Haris Rauf,JC Buttler,,0,1,1,,,,31445231445
+1,England,5,JC Buttler,Haris Rauf,MM Ali,,0,1,1,,,,31445231445
+1,England,5,MM Ali,Haris Rauf,JC Buttler,wides,1,1,0,,,,31445231445
+1,England,5,MM Ali,Haris Rauf,JC Buttler,,0,4,4,,,,31445231445
+1,England,5,MM Ali,Haris Rauf,JC Buttler,,0,4,4,,,,31445231445
+1,England,6,JC Buttler,Shadab Khan,MM Ali,,0,1,1,,,,31445231445
+1,England,6,MM Ali,Shadab Khan,JC Buttler,,0,1,1,,,,31445231445
+1,England,6,JC Buttler,Shadab Khan,MM Ali,,0,2,2,,,,31445231445
+1,England,6,JC Buttler,Shadab Khan,MM Ali,,0,1,1,,,,31445231445
+1,England,6,MM Ali,Shadab Khan,JC Buttler,,0,4,4,,,,31445231445
+1,England,6,MM Ali,Shadab Khan,JC Buttler,,0,6,6,,,,31445231445
+1,England,7,JC Buttler,Mohammad Hasnain,MM Ali,,0,1,1,,,,31445231445
+1,England,7,MM Ali,Mohammad Hasnain,JC Buttler,wides,1,1,0,,,,31445231445
+1,England,7,MM Ali,Mohammad Hasnain,JC Buttler,,0,1,1,,,,31445231445
+1,England,7,JC Buttler,Mohammad Hasnain,MM Ali,,0,1,1,,,,31445231445
+1,England,7,MM Ali,Mohammad Hasnain,JC Buttler,,0,0,0,caught,MM Ali,Babar Azam,31445231445
+1,England,7,LS Livingstone,Mohammad Hasnain,JC Buttler,,0,1,1,,,,31445231445
+1,England,7,JC Buttler,Mohammad Hasnain,LS Livingstone,,0,1,1,,,,31445231445
+1,England,8,JC Buttler,Shadab Khan,LS Livingstone,,0,0,0,,,,31445231445
+1,England,8,JC Buttler,Shadab Khan,LS Livingstone,,0,1,1,,,,31445231445
+1,England,8,LS Livingstone,Shadab Khan,JC Buttler,,0,0,0,,,,31445231445
+1,England,8,LS Livingstone,Shadab Khan,JC Buttler,,0,1,1,,,,31445231445
+1,England,8,JC Buttler,Shadab Khan,LS Livingstone,,0,0,0,,,,31445231445
+1,England,8,JC Buttler,Shadab Khan,LS Livingstone,,0,1,1,,,,31445231445
+1,England,9,JC Buttler,Haris Rauf,LS Livingstone,,0,4,4,,,,31445231445
+1,England,9,JC Buttler,Haris Rauf,LS Livingstone,,0,0,0,,,,31445231445
+1,England,9,JC Buttler,Haris Rauf,LS Livingstone,,0,4,4,,,,31445231445
+1,England,9,JC Buttler,Haris Rauf,LS Livingstone,,0,1,1,,,,31445231445
+1,England,9,LS Livingstone,Haris Rauf,JC Buttler,,0,6,6,,,,31445231445
+1,England,9,LS Livingstone,Haris Rauf,JC Buttler,,0,0,0,,,,31445231445
+1,England,10,JC Buttler,Imad Wasim,LS Livingstone,,0,1,1,,,,31445231445
+1,England,10,LS Livingstone,Imad Wasim,JC Buttler,,0,0,0,,,,31445231445
+1,England,10,LS Livingstone,Imad Wasim,JC Buttler,,0,0,0,,,,31445231445
+1,England,10,LS Livingstone,Imad Wasim,JC Buttler,,0,2,2,,,,31445231445
+1,England,10,LS Livingstone,Imad Wasim,JC Buttler,,0,1,1,,,,31445231445
+1,England,10,JC Buttler,Imad Wasim,LS Livingstone,,0,1,1,,,,31445231445
+1,England,11,JC Buttler,Shadab Khan,LS Livingstone,,0,1,1,,,,31445231445
+1,England,11,LS Livingstone,Shadab Khan,JC Buttler,,0,4,4,,,,31445231445
+1,England,11,LS Livingstone,Shadab Khan,JC Buttler,wides,1,1,0,,,,31445231445
+1,England,11,LS Livingstone,Shadab Khan,JC Buttler,wides,1,1,0,,,,31445231445
+1,England,11,LS Livingstone,Shadab Khan,JC Buttler,,0,0,0,,,,31445231445
+1,England,11,LS Livingstone,Shadab Khan,JC Buttler,wides,1,1,0,,,,31445231445
+1,England,11,LS Livingstone,Shadab Khan,JC Buttler,,0,1,1,,,,31445231445
+1,England,11,JC Buttler,Shadab Khan,LS Livingstone,,0,1,1,,,,31445231445
+1,England,11,LS Livingstone,Shadab Khan,JC Buttler,,0,1,1,,,,31445231445
+1,England,12,LS Livingstone,Imad Wasim,JC Buttler,,0,6,6,,,,31445231445
+1,England,12,LS Livingstone,Imad Wasim,JC Buttler,,0,1,1,,,,31445231445
+1,England,12,JC Buttler,Imad Wasim,LS Livingstone,,0,2,2,,,,31445231445
+1,England,12,JC Buttler,Imad Wasim,LS Livingstone,,0,0,0,,,,31445231445
+1,England,12,JC Buttler,Imad Wasim,LS Livingstone,,0,0,0,,,,31445231445
+1,England,12,JC Buttler,Imad Wasim,LS Livingstone,,0,6,6,,,,31445231445
+1,England,13,LS Livingstone,Mohammad Hasnain,JC Buttler,,0,1,1,,,,31445231445
+1,England,13,JC Buttler,Mohammad Hasnain,LS Livingstone,,0,0,0,caught,JC Buttler,Babar Azam,31445231445
+1,England,13,JM Bairstow,Mohammad Hasnain,LS Livingstone,,0,1,1,,,,31445231445
+1,England,13,LS Livingstone,Mohammad Hasnain,JM Bairstow,,0,1,1,,,,31445231445
+1,England,13,JM Bairstow,Mohammad Hasnain,LS Livingstone,,0,4,4,,,,31445231445
+1,England,13,JM Bairstow,Mohammad Hasnain,LS Livingstone,noballs,1,5,4,,,,31445231445
+1,England,13,JM Bairstow,Mohammad Hasnain,LS Livingstone,,0,2,2,,,,31445231445
+1,England,14,LS Livingstone,Shadab Khan,JM Bairstow,,0,0,0,,,,31445231445
+1,England,14,LS Livingstone,Shadab Khan,JM Bairstow,,0,1,1,,,,31445231445
+1,England,14,JM Bairstow,Shadab Khan,LS Livingstone,,0,2,2,,,,31445231445
+1,England,14,JM Bairstow,Shadab Khan,LS Livingstone,,0,0,0,,,,31445231445
+1,England,14,JM Bairstow,Shadab Khan,LS Livingstone,,0,0,0,caught,JM Bairstow,Fakhar Zaman,31445231445
+1,England,14,LS Livingstone,Shadab Khan,TK Curran,,0,1,1,,,,31445231445
+1,England,15,LS Livingstone,Haris Rauf,TK Curran,,0,6,6,,,,31445231445
+1,England,15,LS Livingstone,Haris Rauf,TK Curran,,0,4,4,,,,31445231445
+1,England,15,LS Livingstone,Haris Rauf,TK Curran,,0,0,0,run out,LS Livingstone,Haris Rauf,31445231445
+1,England,15,TK Curran,Haris Rauf,CJ Jordan,,0,1,1,,,,31445231445
+1,England,15,CJ Jordan,Haris Rauf,TK Curran,,0,0,0,,,,31445231445
+1,England,15,CJ Jordan,Haris Rauf,TK Curran,,0,0,0,,,,31445231445
+1,England,16,TK Curran,Shaheen Shah Afridi,CJ Jordan,,0,1,1,,,,31445231445
+1,England,16,CJ Jordan,Shaheen Shah Afridi,TK Curran,,0,1,1,,,,31445231445
+1,England,16,TK Curran,Shaheen Shah Afridi,CJ Jordan,,0,2,2,,,,31445231445
+1,England,16,TK Curran,Shaheen Shah Afridi,CJ Jordan,legbyes,2,2,0,,,,31445231445
+1,England,16,TK Curran,Shaheen Shah Afridi,CJ Jordan,,0,1,1,,,,31445231445
+1,England,16,CJ Jordan,Shaheen Shah Afridi,TK Curran,,0,6,6,,,,31445231445
+1,England,17,TK Curran,Mohammad Hasnain,CJ Jordan,,0,4,4,,,,31445231445
+1,England,17,TK Curran,Mohammad Hasnain,CJ Jordan,,0,0,0,caught,TK Curran,Sohaib Maqsood,31445231445
+1,England,17,CJ Jordan,Mohammad Hasnain,AU Rashid,,0,2,2,,,,31445231445
+1,England,17,CJ Jordan,Mohammad Hasnain,AU Rashid,,0,4,4,,,,31445231445
+1,England,17,CJ Jordan,Mohammad Hasnain,AU Rashid,,0,1,1,,,,31445231445
+1,England,17,AU Rashid,Mohammad Hasnain,CJ Jordan,,0,1,1,,,,31445231445
+1,England,18,AU Rashid,Haris Rauf,CJ Jordan,,0,0,0,,,,31445231445
+1,England,18,AU Rashid,Haris Rauf,CJ Jordan,,0,1,1,,,,31445231445
+1,England,18,CJ Jordan,Haris Rauf,AU Rashid,,0,0,0,caught,CJ Jordan,Shadab Khan,31445231445
+1,England,18,AU Rashid,Haris Rauf,S Mahmood,,0,0,0,bowled,AU Rashid,,31445231445
+1,England,18,MW Parkinson,Haris Rauf,S Mahmood,,0,1,1,,,,31445231445
+1,England,18,S Mahmood,Haris Rauf,MW Parkinson,,0,1,1,,,,31445231445
+1,England,19,S Mahmood,Shaheen Shah Afridi,MW Parkinson,,0,1,1,,,,31445231445
+1,England,19,MW Parkinson,Shaheen Shah Afridi,S Mahmood,legbyes,1,1,0,,,,31445231445
+1,England,19,S Mahmood,Shaheen Shah Afridi,MW Parkinson,,0,1,1,,,,31445231445
+1,England,19,MW Parkinson,Shaheen Shah Afridi,S Mahmood,,0,4,4,,,,31445231445
+1,England,19,MW Parkinson,Shaheen Shah Afridi,S Mahmood,,0,0,0,bowled,MW Parkinson,,31445231445

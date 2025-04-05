@@ -1,0 +1,56 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Namibia,0,A van der Merwe,G Matome,KA Green,wides,1,1,0,,,,31062231062
+2,Namibia,0,A van der Merwe,G Matome,KA Green,,0,1,1,,,,31062231062
+2,Namibia,0,KA Green,G Matome,A van der Merwe,,0,0,0,,,,31062231062
+2,Namibia,0,KA Green,G Matome,A van der Merwe,wides,1,1,0,,,,31062231062
+2,Namibia,0,KA Green,G Matome,A van der Merwe,,0,0,0,,,,31062231062
+2,Namibia,0,KA Green,G Matome,A van der Merwe,,0,1,1,,,,31062231062
+2,Namibia,0,A van der Merwe,G Matome,KA Green,,0,0,0,,,,31062231062
+2,Namibia,0,A van der Merwe,G Matome,KA Green,,0,0,0,,,,31062231062
+2,Namibia,1,KA Green,T Shadrack,A van der Merwe,,0,2,2,,,,31062231062
+2,Namibia,1,KA Green,T Shadrack,A van der Merwe,wides,1,1,0,,,,31062231062
+2,Namibia,1,KA Green,T Shadrack,A van der Merwe,,0,2,2,,,,31062231062
+2,Namibia,1,KA Green,T Shadrack,A van der Merwe,,0,0,0,,,,31062231062
+2,Namibia,1,KA Green,T Shadrack,A van der Merwe,,0,1,1,,,,31062231062
+2,Namibia,1,A van der Merwe,T Shadrack,KA Green,,0,1,1,,,,31062231062
+2,Namibia,1,KA Green,T Shadrack,A van der Merwe,,0,2,2,,,,31062231062
+2,Namibia,2,A van der Merwe,G Matome,KA Green,,0,0,0,,,,31062231062
+2,Namibia,2,A van der Merwe,G Matome,KA Green,wides,1,1,0,,,,31062231062
+2,Namibia,2,A van der Merwe,G Matome,KA Green,wides,1,1,0,,,,31062231062
+2,Namibia,2,A van der Merwe,G Matome,KA Green,,0,2,2,,,,31062231062
+2,Namibia,2,A van der Merwe,G Matome,KA Green,wides,1,1,0,,,,31062231062
+2,Namibia,2,A van der Merwe,G Matome,KA Green,wides,1,1,0,,,,31062231062
+2,Namibia,2,A van der Merwe,G Matome,KA Green,,0,0,0,,,,31062231062
+2,Namibia,2,A van der Merwe,G Matome,KA Green,,0,1,1,,,,31062231062
+2,Namibia,2,KA Green,G Matome,A van der Merwe,,0,2,2,,,,31062231062
+2,Namibia,2,KA Green,G Matome,A van der Merwe,wides,3,3,0,,,,31062231062
+2,Namibia,2,KA Green,G Matome,A van der Merwe,,0,0,0,,,,31062231062
+2,Namibia,3,A van der Merwe,T Legaabile,KA Green,,0,2,2,,,,31062231062
+2,Namibia,3,A van der Merwe,T Legaabile,KA Green,,0,2,2,,,,31062231062
+2,Namibia,3,A van der Merwe,T Legaabile,KA Green,,0,0,0,,,,31062231062
+2,Namibia,3,A van der Merwe,T Legaabile,KA Green,noballs,1,1,0,,,,31062231062
+2,Namibia,3,A van der Merwe,T Legaabile,KA Green,,0,0,0,,,,31062231062
+2,Namibia,3,A van der Merwe,T Legaabile,KA Green,,0,0,0,,,,31062231062
+2,Namibia,3,A van der Merwe,T Legaabile,KA Green,,0,1,1,,,,31062231062
+2,Namibia,4,A van der Merwe,M Ramafifi,KA Green,,0,0,0,caught,A van der Merwe,O Keitsemang,31062231062
+2,Namibia,4,KA Green,M Ramafifi,SA Wittmann,legbyes,1,1,0,,,,31062231062
+2,Namibia,4,SA Wittmann,M Ramafifi,KA Green,,0,1,1,,,,31062231062
+2,Namibia,4,KA Green,M Ramafifi,SA Wittmann,,0,0,0,,,,31062231062
+2,Namibia,4,KA Green,M Ramafifi,SA Wittmann,,0,1,1,,,,31062231062
+2,Namibia,4,SA Wittmann,M Ramafifi,KA Green,,0,0,0,,,,31062231062
+2,Namibia,5,KA Green,T Legaabile,SA Wittmann,,0,1,1,,,,31062231062
+2,Namibia,5,SA Wittmann,T Legaabile,KA Green,wides,1,1,0,,,,31062231062
+2,Namibia,5,SA Wittmann,T Legaabile,KA Green,,0,0,0,,,,31062231062
+2,Namibia,5,SA Wittmann,T Legaabile,KA Green,,0,2,2,,,,31062231062
+2,Namibia,5,SA Wittmann,T Legaabile,KA Green,,0,1,1,,,,31062231062
+2,Namibia,5,KA Green,T Legaabile,SA Wittmann,,0,2,2,,,,31062231062
+2,Namibia,5,KA Green,T Legaabile,SA Wittmann,,0,2,2,,,,31062231062
+2,Namibia,6,SA Wittmann,M Ramafifi,KA Green,,0,1,1,,,,31062231062
+2,Namibia,6,KA Green,M Ramafifi,SA Wittmann,,0,0,0,,,,31062231062
+2,Namibia,6,KA Green,M Ramafifi,SA Wittmann,,0,6,6,,,,31062231062
+2,Namibia,6,KA Green,M Ramafifi,SA Wittmann,,0,2,2,,,,31062231062
+2,Namibia,6,KA Green,M Ramafifi,SA Wittmann,noballs,1,1,0,,,,31062231062
+2,Namibia,6,KA Green,M Ramafifi,SA Wittmann,,0,0,0,,,,31062231062
+2,Namibia,6,KA Green,M Ramafifi,SA Wittmann,wides,3,3,0,,,,31062231062
+2,Namibia,6,KA Green,M Ramafifi,SA Wittmann,,0,1,1,,,,31062231062
+2,Namibia,7,KA Green,T Legaabile,SA Wittmann,,0,2,2,,,,31062231062

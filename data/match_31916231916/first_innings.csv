@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Germany,0,J Broad,Kaleem Sana,VB Chikkannaiah,,0,0,0,,,,31916231916
+1,Germany,0,J Broad,Kaleem Sana,VB Chikkannaiah,,0,1,1,,,,31916231916
+1,Germany,0,VB Chikkannaiah,Kaleem Sana,J Broad,,0,0,0,,,,31916231916
+1,Germany,0,VB Chikkannaiah,Kaleem Sana,J Broad,,0,1,1,,,,31916231916
+1,Germany,0,J Broad,Kaleem Sana,VB Chikkannaiah,,0,1,1,,,,31916231916
+1,Germany,0,VB Chikkannaiah,Kaleem Sana,J Broad,legbyes,1,1,0,,,,31916231916
+1,Germany,1,VB Chikkannaiah,RR Joshi,J Broad,legbyes,1,1,0,,,,31916231916
+1,Germany,1,J Broad,RR Joshi,VB Chikkannaiah,,0,2,2,,,,31916231916
+1,Germany,1,J Broad,RR Joshi,VB Chikkannaiah,,0,0,0,,,,31916231916
+1,Germany,1,J Broad,RR Joshi,VB Chikkannaiah,,0,1,1,,,,31916231916
+1,Germany,1,VB Chikkannaiah,RR Joshi,J Broad,,0,1,1,,,,31916231916
+1,Germany,1,J Broad,RR Joshi,VB Chikkannaiah,,0,1,1,,,,31916231916
+1,Germany,2,J Broad,Kaleem Sana,VB Chikkannaiah,,0,0,0,,,,31916231916
+1,Germany,2,J Broad,Kaleem Sana,VB Chikkannaiah,,0,1,1,,,,31916231916
+1,Germany,2,VB Chikkannaiah,Kaleem Sana,J Broad,legbyes,4,4,0,,,,31916231916
+1,Germany,2,VB Chikkannaiah,Kaleem Sana,J Broad,,0,0,0,,,,31916231916
+1,Germany,2,VB Chikkannaiah,Kaleem Sana,J Broad,,0,0,0,,,,31916231916
+1,Germany,2,VB Chikkannaiah,Kaleem Sana,J Broad,,0,0,0,,,,31916231916
+1,Germany,3,J Broad,RR Joshi,VB Chikkannaiah,,0,1,1,,,,31916231916
+1,Germany,3,VB Chikkannaiah,RR Joshi,J Broad,,0,0,0,caught,VB Chikkannaiah,NS Dhaliwal,31916231916
+1,Germany,3,J Broad,RR Joshi,MJ Richardson,,0,0,0,,,,31916231916
+1,Germany,3,J Broad,RR Joshi,MJ Richardson,,0,1,1,,,,31916231916
+1,Germany,3,MJ Richardson,RR Joshi,J Broad,,0,0,0,,,,31916231916
+1,Germany,3,MJ Richardson,RR Joshi,J Broad,,0,4,4,,,,31916231916
+1,Germany,4,J Broad,D Heyliger,MJ Richardson,,0,2,2,,,,31916231916
+1,Germany,4,J Broad,D Heyliger,MJ Richardson,,0,1,1,,,,31916231916
+1,Germany,4,MJ Richardson,D Heyliger,J Broad,,0,0,0,,,,31916231916
+1,Germany,4,MJ Richardson,D Heyliger,J Broad,,0,1,1,,,,31916231916
+1,Germany,4,J Broad,D Heyliger,MJ Richardson,,0,1,1,,,,31916231916
+1,Germany,4,MJ Richardson,D Heyliger,J Broad,,0,1,1,,,,31916231916
+1,Germany,5,MJ Richardson,Saad Bin Zafar,J Broad,,0,1,1,,,,31916231916
+1,Germany,5,J Broad,Saad Bin Zafar,MJ Richardson,,0,1,1,,,,31916231916
+1,Germany,5,MJ Richardson,Saad Bin Zafar,J Broad,,0,0,0,,,,31916231916
+1,Germany,5,MJ Richardson,Saad Bin Zafar,J Broad,,0,0,0,,,,31916231916
+1,Germany,5,MJ Richardson,Saad Bin Zafar,J Broad,,0,1,1,,,,31916231916
+1,Germany,5,J Broad,Saad Bin Zafar,MJ Richardson,,0,1,1,,,,31916231916
+1,Germany,6,J Broad,D Heyliger,MJ Richardson,,0,1,1,,,,31916231916
+1,Germany,6,MJ Richardson,D Heyliger,J Broad,,0,1,1,,,,31916231916
+1,Germany,6,J Broad,D Heyliger,MJ Richardson,,0,1,1,,,,31916231916
+1,Germany,6,MJ Richardson,D Heyliger,J Broad,,0,4,4,,,,31916231916
+1,Germany,6,MJ Richardson,D Heyliger,J Broad,wides,1,1,0,,,,31916231916
+1,Germany,6,MJ Richardson,D Heyliger,J Broad,byes,1,1,0,,,,31916231916
+1,Germany,6,J Broad,D Heyliger,MJ Richardson,,0,1,1,,,,31916231916
+1,Germany,7,J Broad,Saad Bin Zafar,MJ Richardson,,0,0,0,,,,31916231916
+1,Germany,7,J Broad,Saad Bin Zafar,MJ Richardson,,0,1,1,,,,31916231916
+1,Germany,7,MJ Richardson,Saad Bin Zafar,J Broad,,0,4,4,,,,31916231916
+1,Germany,7,MJ Richardson,Saad Bin Zafar,J Broad,,0,1,1,,,,31916231916
+1,Germany,7,J Broad,Saad Bin Zafar,MJ Richardson,,0,1,1,,,,31916231916
+1,Germany,7,MJ Richardson,Saad Bin Zafar,J Broad,wides,2,2,0,,,,31916231916
+1,Germany,7,J Broad,Saad Bin Zafar,MJ Richardson,,0,0,0,,,,31916231916
+1,Germany,8,MJ Richardson,Salman Nazar,J Broad,,0,1,1,,,,31916231916
+1,Germany,8,J Broad,Salman Nazar,MJ Richardson,,0,0,0,,,,31916231916
+1,Germany,8,J Broad,Salman Nazar,MJ Richardson,,0,0,0,,,,31916231916
+1,Germany,8,J Broad,Salman Nazar,MJ Richardson,,0,1,1,,,,31916231916
+1,Germany,8,MJ Richardson,Salman Nazar,J Broad,,0,3,3,,,,31916231916
+1,Germany,8,J Broad,Salman Nazar,MJ Richardson,,0,1,1,,,,31916231916
+1,Germany,9,J Broad,Saad Bin Zafar,MJ Richardson,,0,1,1,,,,31916231916
+1,Germany,9,MJ Richardson,Saad Bin Zafar,J Broad,,0,0,0,,,,31916231916
+1,Germany,9,MJ Richardson,Saad Bin Zafar,J Broad,,0,1,1,,,,31916231916
+1,Germany,9,J Broad,Saad Bin Zafar,MJ Richardson,,0,1,1,,,,31916231916
+1,Germany,9,MJ Richardson,Saad Bin Zafar,J Broad,,0,1,1,,,,31916231916
+1,Germany,9,J Broad,Saad Bin Zafar,MJ Richardson,,0,4,4,,,,31916231916
+1,Germany,10,MJ Richardson,Salman Nazar,J Broad,,0,1,1,,,,31916231916
+1,Germany,10,J Broad,Salman Nazar,MJ Richardson,,0,0,0,,,,31916231916
+1,Germany,10,J Broad,Salman Nazar,MJ Richardson,,0,0,0,lbw,J Broad,,31916231916
+1,Germany,10,Faisal Mubashir,Salman Nazar,MJ Richardson,legbyes,1,1,0,,,,31916231916
+1,Germany,10,MJ Richardson,Salman Nazar,Faisal Mubashir,,0,4,4,,,,31916231916
+1,Germany,10,MJ Richardson,Salman Nazar,Faisal Mubashir,,0,4,4,,,,31916231916
+1,Germany,11,Faisal Mubashir,Saad Bin Zafar,MJ Richardson,,0,1,1,,,,31916231916
+1,Germany,11,MJ Richardson,Saad Bin Zafar,Faisal Mubashir,,0,1,1,,,,31916231916
+1,Germany,11,Faisal Mubashir,Saad Bin Zafar,MJ Richardson,,0,1,1,,,,31916231916
+1,Germany,11,MJ Richardson,Saad Bin Zafar,Faisal Mubashir,,0,1,1,,,,31916231916
+1,Germany,11,Faisal Mubashir,Saad Bin Zafar,MJ Richardson,,0,1,1,,,,31916231916
+1,Germany,11,MJ Richardson,Saad Bin Zafar,Faisal Mubashir,,0,0,0,,,,31916231916
+1,Germany,12,Faisal Mubashir,M Spoors,MJ Richardson,,0,1,1,,,,31916231916
+1,Germany,12,MJ Richardson,M Spoors,Faisal Mubashir,,0,0,0,bowled,MJ Richardson,,31916231916
+1,Germany,12,DA Blignaut,M Spoors,Faisal Mubashir,,0,0,0,,,,31916231916
+1,Germany,12,DA Blignaut,M Spoors,Faisal Mubashir,,0,0,0,run out,DA Blignaut,S Movva,31916231916
+1,Germany,12,V Ganesan,M Spoors,Faisal Mubashir,,0,0,0,,,,31916231916
+1,Germany,12,V Ganesan,M Spoors,Faisal Mubashir,,0,0,0,,,,31916231916
+1,Germany,13,Faisal Mubashir,RR Joshi,V Ganesan,,0,0,0,,,,31916231916
+1,Germany,13,Faisal Mubashir,RR Joshi,V Ganesan,,0,6,6,,,,31916231916
+1,Germany,13,Faisal Mubashir,RR Joshi,V Ganesan,,0,2,2,,,,31916231916
+1,Germany,13,Faisal Mubashir,RR Joshi,V Ganesan,,0,1,1,,,,31916231916
+1,Germany,13,V Ganesan,RR Joshi,Faisal Mubashir,,0,1,1,,,,31916231916
+1,Germany,13,Faisal Mubashir,RR Joshi,V Ganesan,,0,0,0,,,,31916231916
+1,Germany,14,V Ganesan,M Spoors,Faisal Mubashir,,0,2,2,,,,31916231916
+1,Germany,14,V Ganesan,M Spoors,Faisal Mubashir,,0,0,0,,,,31916231916
+1,Germany,14,V Ganesan,M Spoors,Faisal Mubashir,,0,1,1,,,,31916231916
+1,Germany,14,Faisal Mubashir,M Spoors,V Ganesan,,0,1,1,,,,31916231916
+1,Germany,14,V Ganesan,M Spoors,Faisal Mubashir,,0,0,0,,,,31916231916
+1,Germany,14,V Ganesan,M Spoors,Faisal Mubashir,,0,0,0,,,,31916231916
+1,Germany,15,Faisal Mubashir,Salman Nazar,V Ganesan,,0,1,1,,,,31916231916
+1,Germany,15,V Ganesan,Salman Nazar,Faisal Mubashir,,0,2,2,,,,31916231916
+1,Germany,15,V Ganesan,Salman Nazar,Faisal Mubashir,,0,1,1,,,,31916231916
+1,Germany,15,Faisal Mubashir,Salman Nazar,V Ganesan,wides,1,1,0,stumped,Faisal Mubashir,S Movva,31916231916
+1,Germany,15,D Klein,Salman Nazar,V Ganesan,,0,2,2,,,,31916231916
+1,Germany,15,D Klein,Salman Nazar,V Ganesan,,0,1,1,,,,31916231916
+1,Germany,15,V Ganesan,Salman Nazar,D Klein,,0,1,1,,,,31916231916
+1,Germany,16,V Ganesan,Kaleem Sana,D Klein,,0,0,0,,,,31916231916
+1,Germany,16,V Ganesan,Kaleem Sana,D Klein,,0,0,0,,,,31916231916
+1,Germany,16,V Ganesan,Kaleem Sana,D Klein,,0,1,1,,,,31916231916
+1,Germany,16,D Klein,Kaleem Sana,V Ganesan,,0,1,1,,,,31916231916
+1,Germany,16,V Ganesan,Kaleem Sana,D Klein,,0,2,2,,,,31916231916
+1,Germany,16,V Ganesan,Kaleem Sana,D Klein,,0,0,0,,,,31916231916
+1,Germany,17,D Klein,Salman Nazar,V Ganesan,,0,1,1,,,,31916231916
+1,Germany,17,V Ganesan,Salman Nazar,D Klein,,0,0,0,,,,31916231916
+1,Germany,17,V Ganesan,Salman Nazar,D Klein,byes,1,1,0,,,,31916231916
+1,Germany,17,D Klein,Salman Nazar,V Ganesan,,0,0,0,lbw,D Klein,,31916231916
+1,Germany,17,Fayaz Khan,Salman Nazar,V Ganesan,,0,1,1,,,,31916231916
+1,Germany,17,V Ganesan,Salman Nazar,Fayaz Khan,,0,1,1,retired hurt,V Ganesan,,31916231916
+1,Germany,18,Shoaib Khan,D Heyliger,Fayaz Khan,,0,1,1,,,,31916231916
+1,Germany,18,Fayaz Khan,D Heyliger,Shoaib Khan,,0,4,4,,,,31916231916
+1,Germany,18,Fayaz Khan,D Heyliger,Shoaib Khan,,0,2,2,,,,31916231916
+1,Germany,18,Fayaz Khan,D Heyliger,Shoaib Khan,,0,0,0,,,,31916231916
+1,Germany,18,Fayaz Khan,D Heyliger,Shoaib Khan,,0,6,6,,,,31916231916
+1,Germany,18,Fayaz Khan,D Heyliger,Shoaib Khan,,0,0,0,,,,31916231916
+1,Germany,19,Shoaib Khan,Kaleem Sana,Fayaz Khan,,0,1,1,,,,31916231916
+1,Germany,19,Fayaz Khan,Kaleem Sana,Shoaib Khan,,0,1,1,,,,31916231916
+1,Germany,19,Shoaib Khan,Kaleem Sana,Fayaz Khan,,0,2,2,,,,31916231916
+1,Germany,19,Shoaib Khan,Kaleem Sana,Fayaz Khan,,0,1,1,,,,31916231916
+1,Germany,19,Fayaz Khan,Kaleem Sana,Shoaib Khan,,0,1,1,,,,31916231916
+1,Germany,19,Shoaib Khan,Kaleem Sana,Fayaz Khan,,0,1,1,,,,31916231916

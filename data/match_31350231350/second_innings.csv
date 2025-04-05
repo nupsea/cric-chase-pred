@@ -1,0 +1,112 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,India,0,Shafali Verma,S Ismail,S Mandhana,,0,0,0,,,,31350231350
+2,India,0,Shafali Verma,S Ismail,S Mandhana,,0,4,4,,,,31350231350
+2,India,0,Shafali Verma,S Ismail,S Mandhana,,0,0,0,,,,31350231350
+2,India,0,Shafali Verma,S Ismail,S Mandhana,,0,0,0,,,,31350231350
+2,India,0,Shafali Verma,S Ismail,S Mandhana,,0,1,1,,,,31350231350
+2,India,0,S Mandhana,S Ismail,Shafali Verma,,0,0,0,,,,31350231350
+2,India,1,Shafali Verma,A Khaka,S Mandhana,,0,0,0,,,,31350231350
+2,India,1,Shafali Verma,A Khaka,S Mandhana,,0,0,0,,,,31350231350
+2,India,1,Shafali Verma,A Khaka,S Mandhana,,0,4,4,,,,31350231350
+2,India,1,Shafali Verma,A Khaka,S Mandhana,,0,1,1,,,,31350231350
+2,India,1,S Mandhana,A Khaka,Shafali Verma,,0,0,0,,,,31350231350
+2,India,1,S Mandhana,A Khaka,Shafali Verma,,0,0,0,,,,31350231350
+2,India,2,Shafali Verma,S Ismail,S Mandhana,,0,0,0,,,,31350231350
+2,India,2,Shafali Verma,S Ismail,S Mandhana,,0,4,4,,,,31350231350
+2,India,2,Shafali Verma,S Ismail,S Mandhana,,0,0,0,caught,Shafali Verma,L Lee,31350231350
+2,India,2,JI Rodrigues,S Ismail,S Mandhana,,0,4,4,,,,31350231350
+2,India,2,JI Rodrigues,S Ismail,S Mandhana,,0,0,0,,,,31350231350
+2,India,2,JI Rodrigues,S Ismail,S Mandhana,,0,0,0,,,,31350231350
+2,India,3,S Mandhana,A Khaka,JI Rodrigues,,0,0,0,,,,31350231350
+2,India,3,S Mandhana,A Khaka,JI Rodrigues,,0,0,0,,,,31350231350
+2,India,3,S Mandhana,A Khaka,JI Rodrigues,,0,1,1,,,,31350231350
+2,India,3,JI Rodrigues,A Khaka,S Mandhana,,0,0,0,,,,31350231350
+2,India,3,JI Rodrigues,A Khaka,S Mandhana,,0,0,0,,,,31350231350
+2,India,3,JI Rodrigues,A Khaka,S Mandhana,,0,1,1,,,,31350231350
+2,India,4,JI Rodrigues,TS Sekhukhune,S Mandhana,legbyes,1,1,0,,,,31350231350
+2,India,4,S Mandhana,TS Sekhukhune,JI Rodrigues,,0,0,0,,,,31350231350
+2,India,4,S Mandhana,TS Sekhukhune,JI Rodrigues,,0,0,0,,,,31350231350
+2,India,4,S Mandhana,TS Sekhukhune,JI Rodrigues,,0,2,2,,,,31350231350
+2,India,4,S Mandhana,TS Sekhukhune,JI Rodrigues,,0,0,0,,,,31350231350
+2,India,4,S Mandhana,TS Sekhukhune,JI Rodrigues,,0,4,4,,,,31350231350
+2,India,5,JI Rodrigues,A Khaka,S Mandhana,,0,1,1,,,,31350231350
+2,India,5,S Mandhana,A Khaka,JI Rodrigues,,0,0,0,,,,31350231350
+2,India,5,S Mandhana,A Khaka,JI Rodrigues,,0,0,0,,,,31350231350
+2,India,5,S Mandhana,A Khaka,JI Rodrigues,,0,0,0,,,,31350231350
+2,India,5,S Mandhana,A Khaka,JI Rodrigues,,0,0,0,caught,S Mandhana,S Ismail,31350231350
+2,India,5,JI Rodrigues,A Khaka,H Kaur,,0,1,1,,,,31350231350
+2,India,6,JI Rodrigues,S Luus,H Kaur,,0,0,0,,,,31350231350
+2,India,6,JI Rodrigues,S Luus,H Kaur,,0,0,0,caught and bowled,JI Rodrigues,,31350231350
+2,India,6,DB Sharma,S Luus,H Kaur,wides,1,1,0,,,,31350231350
+2,India,6,DB Sharma,S Luus,H Kaur,,0,0,0,,,,31350231350
+2,India,6,DB Sharma,S Luus,H Kaur,,0,1,1,,,,31350231350
+2,India,6,H Kaur,S Luus,DB Sharma,,0,1,1,,,,31350231350
+2,India,6,DB Sharma,S Luus,H Kaur,,0,1,1,,,,31350231350
+2,India,7,DB Sharma,N de Klerk,H Kaur,,0,0,0,,,,31350231350
+2,India,7,DB Sharma,N de Klerk,H Kaur,,0,1,1,,,,31350231350
+2,India,7,H Kaur,N de Klerk,DB Sharma,,0,1,1,,,,31350231350
+2,India,7,DB Sharma,N de Klerk,H Kaur,,0,0,0,,,,31350231350
+2,India,7,DB Sharma,N de Klerk,H Kaur,,0,0,0,,,,31350231350
+2,India,7,DB Sharma,N de Klerk,H Kaur,,0,0,0,,,,31350231350
+2,India,8,H Kaur,N Mlaba,DB Sharma,wides,1,1,0,,,,31350231350
+2,India,8,H Kaur,N Mlaba,DB Sharma,,0,0,0,,,,31350231350
+2,India,8,H Kaur,N Mlaba,DB Sharma,,0,1,1,,,,31350231350
+2,India,8,DB Sharma,N Mlaba,H Kaur,,0,1,1,,,,31350231350
+2,India,8,H Kaur,N Mlaba,DB Sharma,,0,0,0,,,,31350231350
+2,India,8,H Kaur,N Mlaba,DB Sharma,,0,1,1,,,,31350231350
+2,India,8,DB Sharma,N Mlaba,H Kaur,,0,1,1,,,,31350231350
+2,India,9,DB Sharma,N de Klerk,H Kaur,,0,1,1,,,,31350231350
+2,India,9,H Kaur,N de Klerk,DB Sharma,,0,0,0,,,,31350231350
+2,India,9,H Kaur,N de Klerk,DB Sharma,,0,0,0,,,,31350231350
+2,India,9,H Kaur,N de Klerk,DB Sharma,,0,4,4,,,,31350231350
+2,India,9,H Kaur,N de Klerk,DB Sharma,,0,1,1,,,,31350231350
+2,India,9,DB Sharma,N de Klerk,H Kaur,,0,1,1,,,,31350231350
+2,India,10,DB Sharma,N Mlaba,H Kaur,wides,1,1,0,,,,31350231350
+2,India,10,DB Sharma,N Mlaba,H Kaur,,0,1,1,,,,31350231350
+2,India,10,H Kaur,N Mlaba,DB Sharma,,0,4,4,,,,31350231350
+2,India,10,H Kaur,N Mlaba,DB Sharma,,0,0,0,,,,31350231350
+2,India,10,H Kaur,N Mlaba,DB Sharma,,0,1,1,,,,31350231350
+2,India,10,DB Sharma,N Mlaba,H Kaur,wides,1,1,0,,,,31350231350
+2,India,10,DB Sharma,N Mlaba,H Kaur,,0,0,0,,,,31350231350
+2,India,10,DB Sharma,N Mlaba,H Kaur,,0,0,0,,,,31350231350
+2,India,11,H Kaur,TS Sekhukhune,DB Sharma,,0,4,4,,,,31350231350
+2,India,11,H Kaur,TS Sekhukhune,DB Sharma,wides,2,2,0,,,,31350231350
+2,India,11,DB Sharma,TS Sekhukhune,H Kaur,,0,4,4,,,,31350231350
+2,India,11,DB Sharma,TS Sekhukhune,H Kaur,,0,1,1,,,,31350231350
+2,India,11,H Kaur,TS Sekhukhune,DB Sharma,,0,1,1,,,,31350231350
+2,India,11,DB Sharma,TS Sekhukhune,H Kaur,,0,1,1,,,,31350231350
+2,India,11,H Kaur,TS Sekhukhune,DB Sharma,,0,1,1,,,,31350231350
+2,India,12,H Kaur,A Bosch,DB Sharma,,0,1,1,,,,31350231350
+2,India,12,DB Sharma,A Bosch,H Kaur,,0,1,1,,,,31350231350
+2,India,12,H Kaur,A Bosch,DB Sharma,,0,0,0,,,,31350231350
+2,India,12,H Kaur,A Bosch,DB Sharma,,0,2,2,,,,31350231350
+2,India,12,H Kaur,A Bosch,DB Sharma,,0,1,1,,,,31350231350
+2,India,12,DB Sharma,A Bosch,H Kaur,,0,0,0,,,,31350231350
+2,India,13,H Kaur,N de Klerk,DB Sharma,wides,1,1,0,,,,31350231350
+2,India,13,H Kaur,N de Klerk,DB Sharma,,0,0,0,,,,31350231350
+2,India,13,H Kaur,N de Klerk,DB Sharma,,0,1,1,,,,31350231350
+2,India,13,DB Sharma,N de Klerk,H Kaur,,0,1,1,,,,31350231350
+2,India,13,H Kaur,N de Klerk,DB Sharma,,0,2,2,,,,31350231350
+2,India,13,H Kaur,N de Klerk,DB Sharma,,0,0,0,,,,31350231350
+2,India,13,H Kaur,N de Klerk,DB Sharma,,0,0,0,,,,31350231350
+2,India,14,DB Sharma,S Ismail,H Kaur,,0,0,0,,,,31350231350
+2,India,14,DB Sharma,S Ismail,H Kaur,,0,0,0,,,,31350231350
+2,India,14,DB Sharma,S Ismail,H Kaur,,0,0,0,caught and bowled,DB Sharma,,31350231350
+2,India,14,V Krishnamurthy,S Ismail,H Kaur,wides,1,1,0,,,,31350231350
+2,India,14,V Krishnamurthy,S Ismail,H Kaur,legbyes,1,1,0,,,,31350231350
+2,India,14,H Kaur,S Ismail,V Krishnamurthy,,0,0,0,,,,31350231350
+2,India,14,H Kaur,S Ismail,V Krishnamurthy,,0,0,0,,,,31350231350
+2,India,15,V Krishnamurthy,N de Klerk,H Kaur,wides,2,2,0,,,,31350231350
+2,India,15,H Kaur,N de Klerk,V Krishnamurthy,,0,1,1,,,,31350231350
+2,India,15,V Krishnamurthy,N de Klerk,H Kaur,,0,0,0,,,,31350231350
+2,India,15,V Krishnamurthy,N de Klerk,H Kaur,,0,4,4,,,,31350231350
+2,India,15,V Krishnamurthy,N de Klerk,H Kaur,,0,1,1,,,,31350231350
+2,India,15,H Kaur,N de Klerk,V Krishnamurthy,,0,1,1,,,,31350231350
+2,India,15,V Krishnamurthy,N de Klerk,H Kaur,,0,0,0,caught,V Krishnamurthy,L Lee,31350231350
+2,India,16,H Kaur,S Ismail,P Vastrakar,,0,0,0,,,,31350231350
+2,India,16,H Kaur,S Ismail,P Vastrakar,,0,1,1,,,,31350231350
+2,India,16,P Vastrakar,S Ismail,H Kaur,,0,4,4,,,,31350231350
+2,India,16,P Vastrakar,S Ismail,H Kaur,,0,0,0,,,,31350231350
+2,India,16,P Vastrakar,S Ismail,H Kaur,,0,0,0,,,,31350231350
+2,India,16,P Vastrakar,S Ismail,H Kaur,,0,0,0,,,,31350231350
+2,India,17,H Kaur,A Khaka,P Vastrakar,,0,4,4,,,,31350231350

@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,New Zealand,0,BB McCullum,B Lee,SP Fleming,,0,0,0,,,,32232
+2,New Zealand,0,BB McCullum,B Lee,SP Fleming,,0,0,0,,,,32232
+2,New Zealand,0,BB McCullum,B Lee,SP Fleming,,0,1,1,,,,32232
+2,New Zealand,0,SP Fleming,B Lee,BB McCullum,,0,0,0,,,,32232
+2,New Zealand,0,SP Fleming,B Lee,BB McCullum,,0,1,1,,,,32232
+2,New Zealand,0,BB McCullum,B Lee,SP Fleming,,0,0,0,,,,32232
+2,New Zealand,1,SP Fleming,GD McGrath,BB McCullum,,0,4,4,,,,32232
+2,New Zealand,1,SP Fleming,GD McGrath,BB McCullum,,0,1,1,,,,32232
+2,New Zealand,1,BB McCullum,GD McGrath,SP Fleming,,0,1,1,,,,32232
+2,New Zealand,1,SP Fleming,GD McGrath,BB McCullum,,0,2,2,,,,32232
+2,New Zealand,1,SP Fleming,GD McGrath,BB McCullum,,0,1,1,,,,32232
+2,New Zealand,1,BB McCullum,GD McGrath,SP Fleming,,0,1,1,,,,32232
+2,New Zealand,2,BB McCullum,B Lee,SP Fleming,,0,0,0,,,,32232
+2,New Zealand,2,BB McCullum,B Lee,SP Fleming,,0,0,0,,,,32232
+2,New Zealand,2,BB McCullum,B Lee,SP Fleming,,0,1,1,,,,32232
+2,New Zealand,2,SP Fleming,B Lee,BB McCullum,,0,0,0,,,,32232
+2,New Zealand,2,SP Fleming,B Lee,BB McCullum,,0,4,4,,,,32232
+2,New Zealand,2,SP Fleming,B Lee,BB McCullum,,0,4,4,,,,32232
+2,New Zealand,3,BB McCullum,GD McGrath,SP Fleming,,0,4,4,,,,32232
+2,New Zealand,3,BB McCullum,GD McGrath,SP Fleming,,0,0,0,,,,32232
+2,New Zealand,3,BB McCullum,GD McGrath,SP Fleming,,0,4,4,,,,32232
+2,New Zealand,3,BB McCullum,GD McGrath,SP Fleming,,0,6,6,,,,32232
+2,New Zealand,3,BB McCullum,GD McGrath,SP Fleming,,0,1,1,,,,32232
+2,New Zealand,3,SP Fleming,GD McGrath,BB McCullum,,0,0,0,,,,32232
+2,New Zealand,4,BB McCullum,B Lee,SP Fleming,,0,0,0,,,,32232
+2,New Zealand,4,BB McCullum,B Lee,SP Fleming,,0,3,3,,,,32232
+2,New Zealand,4,SP Fleming,B Lee,BB McCullum,,0,0,0,,,,32232
+2,New Zealand,4,SP Fleming,B Lee,BB McCullum,,0,1,1,,,,32232
+2,New Zealand,4,BB McCullum,B Lee,SP Fleming,wides,1,1,0,,,,32232
+2,New Zealand,4,BB McCullum,B Lee,SP Fleming,,0,4,4,,,,32232
+2,New Zealand,4,BB McCullum,B Lee,SP Fleming,,0,4,4,,,,32232
+2,New Zealand,5,SP Fleming,MS Kasprowicz,BB McCullum,,0,0,0,bowled,SP Fleming,,32232
+2,New Zealand,5,MS Sinclair,MS Kasprowicz,BB McCullum,,0,0,0,caught,MS Sinclair,SM Katich,32232
+2,New Zealand,5,BB McCullum,MS Kasprowicz,SB Styris,,0,0,0,,,,32232
+2,New Zealand,5,BB McCullum,MS Kasprowicz,SB Styris,,0,1,1,,,,32232
+2,New Zealand,5,SB Styris,MS Kasprowicz,BB McCullum,,0,2,2,,,,32232
+2,New Zealand,5,SB Styris,MS Kasprowicz,BB McCullum,,0,0,0,,,,32232
+2,New Zealand,6,BB McCullum,JR Hopes,SB Styris,,0,0,0,,,,32232
+2,New Zealand,6,BB McCullum,JR Hopes,SB Styris,,0,1,1,,,,32232
+2,New Zealand,6,SB Styris,JR Hopes,BB McCullum,,0,2,2,,,,32232
+2,New Zealand,6,SB Styris,JR Hopes,BB McCullum,,0,6,6,,,,32232
+2,New Zealand,6,SB Styris,JR Hopes,BB McCullum,,0,2,2,,,,32232
+2,New Zealand,6,SB Styris,JR Hopes,BB McCullum,,0,0,0,,,,32232
+2,New Zealand,7,BB McCullum,MS Kasprowicz,SB Styris,,0,4,4,,,,32232
+2,New Zealand,7,BB McCullum,MS Kasprowicz,SB Styris,,0,0,0,caught,BB McCullum,RT Ponting,32232
+2,New Zealand,7,CD McMillan,MS Kasprowicz,SB Styris,wides,1,1,0,,,,32232
+2,New Zealand,7,CD McMillan,MS Kasprowicz,SB Styris,,0,0,0,,,,32232
+2,New Zealand,7,CD McMillan,MS Kasprowicz,SB Styris,,0,1,1,,,,32232
+2,New Zealand,7,SB Styris,MS Kasprowicz,CD McMillan,,0,1,1,,,,32232
+2,New Zealand,7,CD McMillan,MS Kasprowicz,SB Styris,,0,6,6,,,,32232
+2,New Zealand,8,SB Styris,JR Hopes,CD McMillan,,0,2,2,,,,32232
+2,New Zealand,8,SB Styris,JR Hopes,CD McMillan,,0,0,0,,,,32232
+2,New Zealand,8,SB Styris,JR Hopes,CD McMillan,,0,4,4,,,,32232
+2,New Zealand,8,SB Styris,JR Hopes,CD McMillan,,0,1,1,,,,32232
+2,New Zealand,8,CD McMillan,JR Hopes,SB Styris,,0,1,1,,,,32232
+2,New Zealand,8,SB Styris,JR Hopes,CD McMillan,,0,1,1,,,,32232
+2,New Zealand,9,SB Styris,MS Kasprowicz,CD McMillan,,0,1,1,,,,32232
+2,New Zealand,9,CD McMillan,MS Kasprowicz,SB Styris,,0,0,0,,,,32232
+2,New Zealand,9,CD McMillan,MS Kasprowicz,SB Styris,,0,1,1,,,,32232
+2,New Zealand,9,SB Styris,MS Kasprowicz,CD McMillan,,0,4,4,,,,32232
+2,New Zealand,9,SB Styris,MS Kasprowicz,CD McMillan,,0,1,1,,,,32232
+2,New Zealand,9,CD McMillan,MS Kasprowicz,SB Styris,,0,0,0,,,,32232
+2,New Zealand,10,SB Styris,JR Hopes,CD McMillan,,0,1,1,,,,32232
+2,New Zealand,10,CD McMillan,JR Hopes,SB Styris,,0,0,0,caught,CD McMillan,MEK Hussey,32232
+2,New Zealand,10,SB Styris,JR Hopes,CL Cairns,,0,1,1,,,,32232
+2,New Zealand,10,CL Cairns,JR Hopes,SB Styris,,0,0,0,,,,32232
+2,New Zealand,10,CL Cairns,JR Hopes,SB Styris,,0,0,0,,,,32232
+2,New Zealand,10,CL Cairns,JR Hopes,SB Styris,,0,1,1,,,,32232
+2,New Zealand,11,CL Cairns,MS Kasprowicz,SB Styris,,0,0,0,caught,CL Cairns,GD McGrath,32232
+2,New Zealand,11,SB Styris,MS Kasprowicz,HJH Marshall,,0,1,1,,,,32232
+2,New Zealand,11,HJH Marshall,MS Kasprowicz,SB Styris,,0,2,2,,,,32232
+2,New Zealand,11,HJH Marshall,MS Kasprowicz,SB Styris,,0,2,2,,,,32232
+2,New Zealand,11,HJH Marshall,MS Kasprowicz,SB Styris,,0,0,0,,,,32232
+2,New Zealand,11,HJH Marshall,MS Kasprowicz,SB Styris,,0,1,1,,,,32232
+2,New Zealand,12,HJH Marshall,A Symonds,SB Styris,,0,1,1,,,,32232
+2,New Zealand,12,SB Styris,A Symonds,HJH Marshall,,0,1,1,,,,32232
+2,New Zealand,12,HJH Marshall,A Symonds,SB Styris,,0,2,2,,,,32232
+2,New Zealand,12,HJH Marshall,A Symonds,SB Styris,,0,0,0,bowled,HJH Marshall,,32232
+2,New Zealand,12,AR Adams,A Symonds,SB Styris,,0,0,0,,,,32232
+2,New Zealand,12,AR Adams,A Symonds,SB Styris,,0,1,1,,,,32232
+2,New Zealand,13,AR Adams,MJ Clarke,SB Styris,,0,0,0,,,,32232
+2,New Zealand,13,AR Adams,MJ Clarke,SB Styris,,0,1,1,,,,32232
+2,New Zealand,13,SB Styris,MJ Clarke,AR Adams,,0,1,1,,,,32232
+2,New Zealand,13,AR Adams,MJ Clarke,SB Styris,,0,1,1,,,,32232
+2,New Zealand,13,SB Styris,MJ Clarke,AR Adams,,0,1,1,,,,32232
+2,New Zealand,13,AR Adams,MJ Clarke,SB Styris,,0,4,4,,,,32232
+2,New Zealand,14,SB Styris,A Symonds,AR Adams,,0,0,0,,,,32232
+2,New Zealand,14,SB Styris,A Symonds,AR Adams,,0,6,6,,,,32232
+2,New Zealand,14,SB Styris,A Symonds,AR Adams,,0,1,1,,,,32232
+2,New Zealand,14,AR Adams,A Symonds,SB Styris,,0,0,0,run out,AR Adams,GD McGrath,32232
+2,New Zealand,14,SB Styris,A Symonds,JW Wilson,,0,1,1,,,,32232
+2,New Zealand,14,JW Wilson,A Symonds,SB Styris,,0,1,1,,,,32232
+2,New Zealand,15,JW Wilson,MJ Clarke,SB Styris,,0,0,0,,,,32232
+2,New Zealand,15,JW Wilson,MJ Clarke,SB Styris,,0,1,1,,,,32232
+2,New Zealand,15,SB Styris,MJ Clarke,JW Wilson,,0,0,0,,,,32232
+2,New Zealand,15,SB Styris,MJ Clarke,JW Wilson,,0,0,0,,,,32232
+2,New Zealand,15,SB Styris,MJ Clarke,JW Wilson,,0,1,1,,,,32232
+2,New Zealand,15,JW Wilson,MJ Clarke,SB Styris,,0,1,1,,,,32232
+2,New Zealand,16,JW Wilson,A Symonds,SB Styris,,0,4,4,,,,32232
+2,New Zealand,16,JW Wilson,A Symonds,SB Styris,,0,1,1,,,,32232
+2,New Zealand,16,SB Styris,A Symonds,JW Wilson,,0,4,4,,,,32232
+2,New Zealand,16,SB Styris,A Symonds,JW Wilson,,0,2,2,,,,32232
+2,New Zealand,16,SB Styris,A Symonds,JW Wilson,,0,4,4,,,,32232
+2,New Zealand,16,SB Styris,A Symonds,JW Wilson,,0,4,4,,,,32232
+2,New Zealand,17,JW Wilson,GD McGrath,SB Styris,,0,4,4,,,,32232
+2,New Zealand,17,JW Wilson,GD McGrath,SB Styris,,0,1,1,,,,32232
+2,New Zealand,17,SB Styris,GD McGrath,JW Wilson,,0,2,2,,,,32232
+2,New Zealand,17,SB Styris,GD McGrath,JW Wilson,,0,6,6,,,,32232
+2,New Zealand,17,SB Styris,GD McGrath,JW Wilson,,0,0,0,,,,32232
+2,New Zealand,17,SB Styris,GD McGrath,JW Wilson,,0,1,1,,,,32232
+2,New Zealand,18,SB Styris,B Lee,JW Wilson,,0,1,1,,,,32232
+2,New Zealand,18,JW Wilson,B Lee,SB Styris,,0,0,0,,,,32232
+2,New Zealand,18,JW Wilson,B Lee,SB Styris,,0,0,0,,,,32232
+2,New Zealand,18,JW Wilson,B Lee,SB Styris,,0,1,1,,,,32232
+2,New Zealand,18,SB Styris,B Lee,JW Wilson,,0,0,0,,,,32232
+2,New Zealand,18,SB Styris,B Lee,JW Wilson,,0,0,0,bowled,SB Styris,,32232
+2,New Zealand,19,JW Wilson,GD McGrath,KD Mills,,0,2,2,,,,32232
+2,New Zealand,19,JW Wilson,GD McGrath,KD Mills,,0,2,2,,,,32232
+2,New Zealand,19,JW Wilson,GD McGrath,KD Mills,,0,0,0,bowled,JW Wilson,,32232
+2,New Zealand,19,DR Tuffey,GD McGrath,KD Mills,,0,4,4,,,,32232
+2,New Zealand,19,DR Tuffey,GD McGrath,KD Mills,,0,1,1,,,,32232
+2,New Zealand,19,KD Mills,GD McGrath,DR Tuffey,,0,0,0,caught,KD Mills,MS Kasprowicz,32232

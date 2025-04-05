@@ -1,0 +1,122 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Pakistan,0,Mohammad Hafeez,SL Malinga,Imran Farhat,,0,1,1,,,,321023210
+2,Pakistan,0,Imran Farhat,SL Malinga,Mohammad Hafeez,,0,4,4,,,,321023210
+2,Pakistan,0,Imran Farhat,SL Malinga,Mohammad Hafeez,,0,4,4,,,,321023210
+2,Pakistan,0,Imran Farhat,SL Malinga,Mohammad Hafeez,,0,4,4,,,,321023210
+2,Pakistan,0,Imran Farhat,SL Malinga,Mohammad Hafeez,,0,0,0,,,,321023210
+2,Pakistan,0,Imran Farhat,SL Malinga,Mohammad Hafeez,,0,0,0,,,,321023210
+2,Pakistan,1,Mohammad Hafeez,NLTC Perera,Imran Farhat,,0,0,0,,,,321023210
+2,Pakistan,1,Mohammad Hafeez,NLTC Perera,Imran Farhat,,0,0,0,,,,321023210
+2,Pakistan,1,Mohammad Hafeez,NLTC Perera,Imran Farhat,,0,1,1,,,,321023210
+2,Pakistan,1,Imran Farhat,NLTC Perera,Mohammad Hafeez,,0,2,2,,,,321023210
+2,Pakistan,1,Imran Farhat,NLTC Perera,Mohammad Hafeez,,0,4,4,,,,321023210
+2,Pakistan,1,Imran Farhat,NLTC Perera,Mohammad Hafeez,,0,0,0,,,,321023210
+2,Pakistan,2,Mohammad Hafeez,CRD Fernando,Imran Farhat,,0,0,0,,,,321023210
+2,Pakistan,2,Mohammad Hafeez,CRD Fernando,Imran Farhat,,0,2,2,,,,321023210
+2,Pakistan,2,Mohammad Hafeez,CRD Fernando,Imran Farhat,,0,0,0,,,,321023210
+2,Pakistan,2,Mohammad Hafeez,CRD Fernando,Imran Farhat,,0,1,1,,,,321023210
+2,Pakistan,2,Imran Farhat,CRD Fernando,Mohammad Hafeez,,0,0,0,,,,321023210
+2,Pakistan,2,Imran Farhat,CRD Fernando,Mohammad Hafeez,,0,0,0,,,,321023210
+2,Pakistan,3,Mohammad Hafeez,NLTC Perera,Imran Farhat,,0,4,4,,,,321023210
+2,Pakistan,3,Mohammad Hafeez,NLTC Perera,Imran Farhat,,0,2,2,,,,321023210
+2,Pakistan,3,Mohammad Hafeez,NLTC Perera,Imran Farhat,,0,0,0,,,,321023210
+2,Pakistan,3,Mohammad Hafeez,NLTC Perera,Imran Farhat,,0,0,0,,,,321023210
+2,Pakistan,3,Mohammad Hafeez,NLTC Perera,Imran Farhat,,0,2,2,,,,321023210
+2,Pakistan,3,Mohammad Hafeez,NLTC Perera,Imran Farhat,,0,0,0,lbw,Mohammad Hafeez,,321023210
+2,Pakistan,4,Imran Farhat,CRD Fernando,Asad Shafiq,,0,0,0,,,,321023210
+2,Pakistan,4,Imran Farhat,CRD Fernando,Asad Shafiq,,0,1,1,,,,321023210
+2,Pakistan,4,Asad Shafiq,CRD Fernando,Imran Farhat,,0,4,4,,,,321023210
+2,Pakistan,4,Asad Shafiq,CRD Fernando,Imran Farhat,,0,0,0,,,,321023210
+2,Pakistan,4,Asad Shafiq,CRD Fernando,Imran Farhat,,0,0,0,,,,321023210
+2,Pakistan,4,Asad Shafiq,CRD Fernando,Imran Farhat,,0,0,0,,,,321023210
+2,Pakistan,5,Imran Farhat,BAW Mendis,Asad Shafiq,,0,0,0,,,,321023210
+2,Pakistan,5,Imran Farhat,BAW Mendis,Asad Shafiq,,0,0,0,,,,321023210
+2,Pakistan,5,Imran Farhat,BAW Mendis,Asad Shafiq,,0,0,0,caught,Imran Farhat,NLTC Perera,321023210
+2,Pakistan,5,Asad Shafiq,BAW Mendis,Umar Akmal,,0,4,4,,,,321023210
+2,Pakistan,5,Asad Shafiq,BAW Mendis,Umar Akmal,,0,0,0,,,,321023210
+2,Pakistan,5,Asad Shafiq,BAW Mendis,Umar Akmal,,0,1,1,,,,321023210
+2,Pakistan,6,Asad Shafiq,TM Dilshan,Umar Akmal,,0,2,2,,,,321023210
+2,Pakistan,6,Asad Shafiq,TM Dilshan,Umar Akmal,,0,1,1,,,,321023210
+2,Pakistan,6,Umar Akmal,TM Dilshan,Asad Shafiq,,0,0,0,bowled,Umar Akmal,,321023210
+2,Pakistan,6,Misbah-ul-Haq,TM Dilshan,Asad Shafiq,,0,1,1,,,,321023210
+2,Pakistan,6,Asad Shafiq,TM Dilshan,Misbah-ul-Haq,,0,0,0,,,,321023210
+2,Pakistan,6,Asad Shafiq,TM Dilshan,Misbah-ul-Haq,,0,0,0,,,,321023210
+2,Pakistan,7,Misbah-ul-Haq,MDK Perera,Asad Shafiq,,0,0,0,,,,321023210
+2,Pakistan,7,Misbah-ul-Haq,MDK Perera,Asad Shafiq,,0,1,1,,,,321023210
+2,Pakistan,7,Asad Shafiq,MDK Perera,Misbah-ul-Haq,,0,2,2,,,,321023210
+2,Pakistan,7,Asad Shafiq,MDK Perera,Misbah-ul-Haq,,0,1,1,,,,321023210
+2,Pakistan,7,Misbah-ul-Haq,MDK Perera,Asad Shafiq,,0,1,1,,,,321023210
+2,Pakistan,7,Asad Shafiq,MDK Perera,Misbah-ul-Haq,,0,0,0,,,,321023210
+2,Pakistan,8,Misbah-ul-Haq,TM Dilshan,Asad Shafiq,,0,0,0,,,,321023210
+2,Pakistan,8,Misbah-ul-Haq,TM Dilshan,Asad Shafiq,,0,1,1,,,,321023210
+2,Pakistan,8,Asad Shafiq,TM Dilshan,Misbah-ul-Haq,,0,0,0,,,,321023210
+2,Pakistan,8,Asad Shafiq,TM Dilshan,Misbah-ul-Haq,,0,1,1,,,,321023210
+2,Pakistan,8,Misbah-ul-Haq,TM Dilshan,Asad Shafiq,,0,1,1,,,,321023210
+2,Pakistan,8,Asad Shafiq,TM Dilshan,Misbah-ul-Haq,,0,1,1,,,,321023210
+2,Pakistan,9,Asad Shafiq,MDK Perera,Misbah-ul-Haq,,0,1,1,,,,321023210
+2,Pakistan,9,Misbah-ul-Haq,MDK Perera,Asad Shafiq,,0,1,1,,,,321023210
+2,Pakistan,9,Asad Shafiq,MDK Perera,Misbah-ul-Haq,,0,0,0,,,,321023210
+2,Pakistan,9,Asad Shafiq,MDK Perera,Misbah-ul-Haq,,0,1,1,,,,321023210
+2,Pakistan,9,Misbah-ul-Haq,MDK Perera,Asad Shafiq,,0,0,0,,,,321023210
+2,Pakistan,9,Misbah-ul-Haq,MDK Perera,Asad Shafiq,,0,1,1,,,,321023210
+2,Pakistan,10,Misbah-ul-Haq,BAW Mendis,Asad Shafiq,wides,2,2,0,,,,321023210
+2,Pakistan,10,Asad Shafiq,BAW Mendis,Misbah-ul-Haq,,0,1,1,,,,321023210
+2,Pakistan,10,Misbah-ul-Haq,BAW Mendis,Asad Shafiq,,0,0,0,,,,321023210
+2,Pakistan,10,Misbah-ul-Haq,BAW Mendis,Asad Shafiq,,0,0,0,,,,321023210
+2,Pakistan,10,Misbah-ul-Haq,BAW Mendis,Asad Shafiq,,0,1,1,,,,321023210
+2,Pakistan,10,Asad Shafiq,BAW Mendis,Misbah-ul-Haq,,0,2,2,,,,321023210
+2,Pakistan,10,Asad Shafiq,BAW Mendis,Misbah-ul-Haq,,0,0,0,,,,321023210
+2,Pakistan,11,Misbah-ul-Haq,MDK Perera,Asad Shafiq,,0,6,6,,,,321023210
+2,Pakistan,11,Misbah-ul-Haq,MDK Perera,Asad Shafiq,,0,2,2,,,,321023210
+2,Pakistan,11,Misbah-ul-Haq,MDK Perera,Asad Shafiq,,0,1,1,,,,321023210
+2,Pakistan,11,Asad Shafiq,MDK Perera,Misbah-ul-Haq,,0,0,0,,,,321023210
+2,Pakistan,11,Asad Shafiq,MDK Perera,Misbah-ul-Haq,,0,0,0,,,,321023210
+2,Pakistan,11,Asad Shafiq,MDK Perera,Misbah-ul-Haq,,0,2,2,,,,321023210
+2,Pakistan,12,Misbah-ul-Haq,BAW Mendis,Asad Shafiq,,0,1,1,,,,321023210
+2,Pakistan,12,Asad Shafiq,BAW Mendis,Misbah-ul-Haq,,0,4,4,,,,321023210
+2,Pakistan,12,Asad Shafiq,BAW Mendis,Misbah-ul-Haq,,0,1,1,,,,321023210
+2,Pakistan,12,Misbah-ul-Haq,BAW Mendis,Asad Shafiq,,0,1,1,,,,321023210
+2,Pakistan,12,Asad Shafiq,BAW Mendis,Misbah-ul-Haq,,0,1,1,,,,321023210
+2,Pakistan,12,Misbah-ul-Haq,BAW Mendis,Asad Shafiq,,0,1,1,,,,321023210
+2,Pakistan,13,Misbah-ul-Haq,NLTC Perera,Asad Shafiq,,0,0,0,,,,321023210
+2,Pakistan,13,Misbah-ul-Haq,NLTC Perera,Asad Shafiq,,0,0,0,,,,321023210
+2,Pakistan,13,Misbah-ul-Haq,NLTC Perera,Asad Shafiq,,0,1,1,,,,321023210
+2,Pakistan,13,Asad Shafiq,NLTC Perera,Misbah-ul-Haq,,0,1,1,,,,321023210
+2,Pakistan,13,Misbah-ul-Haq,NLTC Perera,Asad Shafiq,,0,0,0,,,,321023210
+2,Pakistan,13,Misbah-ul-Haq,NLTC Perera,Asad Shafiq,,0,1,1,,,,321023210
+2,Pakistan,14,Misbah-ul-Haq,SL Malinga,Asad Shafiq,,0,0,0,,,,321023210
+2,Pakistan,14,Misbah-ul-Haq,SL Malinga,Asad Shafiq,,0,1,1,,,,321023210
+2,Pakistan,14,Asad Shafiq,SL Malinga,Misbah-ul-Haq,,0,2,2,,,,321023210
+2,Pakistan,14,Asad Shafiq,SL Malinga,Misbah-ul-Haq,,0,0,0,,,,321023210
+2,Pakistan,14,Asad Shafiq,SL Malinga,Misbah-ul-Haq,,0,0,0,bowled,Asad Shafiq,,321023210
+2,Pakistan,14,Shahid Afridi,SL Malinga,Misbah-ul-Haq,,0,1,1,,,,321023210
+2,Pakistan,15,Shahid Afridi,NLTC Perera,Misbah-ul-Haq,wides,1,1,0,,,,321023210
+2,Pakistan,15,Shahid Afridi,NLTC Perera,Misbah-ul-Haq,,0,1,1,,,,321023210
+2,Pakistan,15,Misbah-ul-Haq,NLTC Perera,Shahid Afridi,,0,1,1,,,,321023210
+2,Pakistan,15,Shahid Afridi,NLTC Perera,Misbah-ul-Haq,,0,0,0,,,,321023210
+2,Pakistan,15,Shahid Afridi,NLTC Perera,Misbah-ul-Haq,wides,1,1,0,,,,321023210
+2,Pakistan,15,Shahid Afridi,NLTC Perera,Misbah-ul-Haq,,0,1,1,,,,321023210
+2,Pakistan,15,Misbah-ul-Haq,NLTC Perera,Shahid Afridi,,0,1,1,,,,321023210
+2,Pakistan,15,Shahid Afridi,NLTC Perera,Misbah-ul-Haq,,0,2,2,,,,321023210
+2,Pakistan,16,Misbah-ul-Haq,CRD Fernando,Shahid Afridi,,0,4,4,,,,321023210
+2,Pakistan,16,Misbah-ul-Haq,CRD Fernando,Shahid Afridi,,0,4,4,,,,321023210
+2,Pakistan,16,Misbah-ul-Haq,CRD Fernando,Shahid Afridi,,0,1,1,,,,321023210
+2,Pakistan,16,Shahid Afridi,CRD Fernando,Misbah-ul-Haq,,0,0,0,,,,321023210
+2,Pakistan,16,Shahid Afridi,CRD Fernando,Misbah-ul-Haq,,0,1,1,,,,321023210
+2,Pakistan,16,Misbah-ul-Haq,CRD Fernando,Shahid Afridi,,0,4,4,,,,321023210
+2,Pakistan,17,Shahid Afridi,SL Malinga,Misbah-ul-Haq,wides,1,1,0,,,,321023210
+2,Pakistan,17,Shahid Afridi,SL Malinga,Misbah-ul-Haq,,0,1,1,,,,321023210
+2,Pakistan,17,Misbah-ul-Haq,SL Malinga,Shahid Afridi,,0,2,2,,,,321023210
+2,Pakistan,17,Misbah-ul-Haq,SL Malinga,Shahid Afridi,,0,0,0,,,,321023210
+2,Pakistan,17,Misbah-ul-Haq,SL Malinga,Shahid Afridi,,0,1,1,,,,321023210
+2,Pakistan,17,Shahid Afridi,SL Malinga,Misbah-ul-Haq,,0,1,1,,,,321023210
+2,Pakistan,17,Misbah-ul-Haq,SL Malinga,Shahid Afridi,,0,0,0,,,,321023210
+2,Pakistan,18,Shahid Afridi,CRD Fernando,Misbah-ul-Haq,,0,6,6,,,,321023210
+2,Pakistan,18,Shahid Afridi,CRD Fernando,Misbah-ul-Haq,,0,0,0,,,,321023210
+2,Pakistan,18,Shahid Afridi,CRD Fernando,Misbah-ul-Haq,,0,6,6,,,,321023210
+2,Pakistan,18,Shahid Afridi,CRD Fernando,Misbah-ul-Haq,,0,0,0,,,,321023210
+2,Pakistan,18,Shahid Afridi,CRD Fernando,Misbah-ul-Haq,,0,2,2,,,,321023210
+2,Pakistan,18,Shahid Afridi,CRD Fernando,Misbah-ul-Haq,,0,0,0,caught,Shahid Afridi,KC Sangakkara,321023210
+2,Pakistan,19,Misbah-ul-Haq,SL Malinga,Shoaib Malik,,0,6,6,,,,321023210
+2,Pakistan,19,Misbah-ul-Haq,SL Malinga,Shoaib Malik,,0,1,1,,,,321023210
+2,Pakistan,19,Shoaib Malik,SL Malinga,Misbah-ul-Haq,,0,2,2,,,,321023210

@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,South Africa,0,Q de Kock,KMDN Kulasekara,HM Amla,,0,0,0,,,,340623406
+2,South Africa,0,Q de Kock,KMDN Kulasekara,HM Amla,,0,1,1,,,,340623406
+2,South Africa,0,HM Amla,KMDN Kulasekara,Q de Kock,,0,1,1,,,,340623406
+2,South Africa,0,Q de Kock,KMDN Kulasekara,HM Amla,,0,0,0,,,,340623406
+2,South Africa,0,Q de Kock,KMDN Kulasekara,HM Amla,,0,1,1,,,,340623406
+2,South Africa,0,HM Amla,KMDN Kulasekara,Q de Kock,,0,1,1,,,,340623406
+2,South Africa,1,HM Amla,AD Mathews,Q de Kock,legbyes,1,1,0,,,,340623406
+2,South Africa,1,Q de Kock,AD Mathews,HM Amla,,0,4,4,,,,340623406
+2,South Africa,1,Q de Kock,AD Mathews,HM Amla,,0,1,1,,,,340623406
+2,South Africa,1,HM Amla,AD Mathews,Q de Kock,,0,0,0,,,,340623406
+2,South Africa,1,HM Amla,AD Mathews,Q de Kock,,0,1,1,,,,340623406
+2,South Africa,1,Q de Kock,AD Mathews,HM Amla,,0,0,0,,,,340623406
+2,South Africa,2,HM Amla,KMDN Kulasekara,Q de Kock,,0,1,1,,,,340623406
+2,South Africa,2,Q de Kock,KMDN Kulasekara,HM Amla,,0,0,0,,,,340623406
+2,South Africa,2,Q de Kock,KMDN Kulasekara,HM Amla,,0,4,4,,,,340623406
+2,South Africa,2,Q de Kock,KMDN Kulasekara,HM Amla,,0,6,6,,,,340623406
+2,South Africa,2,Q de Kock,KMDN Kulasekara,HM Amla,,0,4,4,,,,340623406
+2,South Africa,2,Q de Kock,KMDN Kulasekara,HM Amla,,0,0,0,,,,340623406
+2,South Africa,3,HM Amla,SMSM Senanayake,Q de Kock,,0,0,0,,,,340623406
+2,South Africa,3,HM Amla,SMSM Senanayake,Q de Kock,,0,1,1,,,,340623406
+2,South Africa,3,Q de Kock,SMSM Senanayake,HM Amla,,0,4,4,,,,340623406
+2,South Africa,3,Q de Kock,SMSM Senanayake,HM Amla,,0,0,0,,,,340623406
+2,South Africa,3,Q de Kock,SMSM Senanayake,HM Amla,,0,0,0,,,,340623406
+2,South Africa,3,Q de Kock,SMSM Senanayake,HM Amla,,0,0,0,,,,340623406
+2,South Africa,4,HM Amla,SL Malinga,Q de Kock,,0,1,1,,,,340623406
+2,South Africa,4,Q de Kock,SL Malinga,HM Amla,,0,0,0,,,,340623406
+2,South Africa,4,Q de Kock,SL Malinga,HM Amla,,0,0,0,bowled,Q de Kock,,340623406
+2,South Africa,4,JP Duminy,SL Malinga,HM Amla,,0,0,0,,,,340623406
+2,South Africa,4,JP Duminy,SL Malinga,HM Amla,,0,0,0,,,,340623406
+2,South Africa,4,JP Duminy,SL Malinga,HM Amla,,0,0,0,,,,340623406
+2,South Africa,5,HM Amla,AD Mathews,JP Duminy,,0,1,1,,,,340623406
+2,South Africa,5,JP Duminy,AD Mathews,HM Amla,,0,0,0,,,,340623406
+2,South Africa,5,JP Duminy,AD Mathews,HM Amla,wides,1,1,0,,,,340623406
+2,South Africa,5,JP Duminy,AD Mathews,HM Amla,,0,1,1,,,,340623406
+2,South Africa,5,HM Amla,AD Mathews,JP Duminy,,0,4,4,,,,340623406
+2,South Africa,5,HM Amla,AD Mathews,JP Duminy,,0,1,1,,,,340623406
+2,South Africa,5,JP Duminy,AD Mathews,HM Amla,,0,0,0,,,,340623406
+2,South Africa,6,HM Amla,NLTC Perera,JP Duminy,,0,0,0,,,,340623406
+2,South Africa,6,HM Amla,NLTC Perera,JP Duminy,,0,0,0,,,,340623406
+2,South Africa,6,HM Amla,NLTC Perera,JP Duminy,,0,1,1,,,,340623406
+2,South Africa,6,JP Duminy,NLTC Perera,HM Amla,,0,1,1,,,,340623406
+2,South Africa,6,HM Amla,NLTC Perera,JP Duminy,,0,0,0,,,,340623406
+2,South Africa,6,HM Amla,NLTC Perera,JP Duminy,,0,0,0,,,,340623406
+2,South Africa,7,JP Duminy,SMSM Senanayake,HM Amla,,0,1,1,,,,340623406
+2,South Africa,7,HM Amla,SMSM Senanayake,JP Duminy,,0,0,0,,,,340623406
+2,South Africa,7,HM Amla,SMSM Senanayake,JP Duminy,,0,1,1,,,,340623406
+2,South Africa,7,JP Duminy,SMSM Senanayake,HM Amla,,0,1,1,,,,340623406
+2,South Africa,7,HM Amla,SMSM Senanayake,JP Duminy,,0,1,1,,,,340623406
+2,South Africa,7,JP Duminy,SMSM Senanayake,HM Amla,,0,1,1,,,,340623406
+2,South Africa,8,JP Duminy,NLTC Perera,HM Amla,,0,4,4,,,,340623406
+2,South Africa,8,JP Duminy,NLTC Perera,HM Amla,,0,1,1,,,,340623406
+2,South Africa,8,HM Amla,NLTC Perera,JP Duminy,,0,1,1,,,,340623406
+2,South Africa,8,JP Duminy,NLTC Perera,HM Amla,,0,0,0,,,,340623406
+2,South Africa,8,JP Duminy,NLTC Perera,HM Amla,,0,4,4,,,,340623406
+2,South Africa,8,JP Duminy,NLTC Perera,HM Amla,,0,6,6,,,,340623406
+2,South Africa,9,HM Amla,BAW Mendis,JP Duminy,,0,0,0,,,,340623406
+2,South Africa,9,HM Amla,BAW Mendis,JP Duminy,,0,1,1,,,,340623406
+2,South Africa,9,JP Duminy,BAW Mendis,HM Amla,,0,4,4,,,,340623406
+2,South Africa,9,JP Duminy,BAW Mendis,HM Amla,,0,6,6,,,,340623406
+2,South Africa,9,JP Duminy,BAW Mendis,HM Amla,,0,0,0,,,,340623406
+2,South Africa,9,JP Duminy,BAW Mendis,HM Amla,legbyes,1,1,0,,,,340623406
+2,South Africa,10,JP Duminy,SMSM Senanayake,HM Amla,,0,0,0,,,,340623406
+2,South Africa,10,JP Duminy,SMSM Senanayake,HM Amla,legbyes,1,1,0,,,,340623406
+2,South Africa,10,HM Amla,SMSM Senanayake,JP Duminy,,0,4,4,,,,340623406
+2,South Africa,10,HM Amla,SMSM Senanayake,JP Duminy,,0,2,2,,,,340623406
+2,South Africa,10,HM Amla,SMSM Senanayake,JP Duminy,,0,0,0,caught,HM Amla,TM Dilshan,340623406
+2,South Africa,10,AB de Villiers,SMSM Senanayake,JP Duminy,,0,1,1,,,,340623406
+2,South Africa,11,AB de Villiers,BAW Mendis,JP Duminy,,0,2,2,,,,340623406
+2,South Africa,11,AB de Villiers,BAW Mendis,JP Duminy,,0,0,0,,,,340623406
+2,South Africa,11,AB de Villiers,BAW Mendis,JP Duminy,,0,2,2,,,,340623406
+2,South Africa,11,AB de Villiers,BAW Mendis,JP Duminy,,0,2,2,,,,340623406
+2,South Africa,11,AB de Villiers,BAW Mendis,JP Duminy,,0,4,4,,,,340623406
+2,South Africa,11,AB de Villiers,BAW Mendis,JP Duminy,,0,1,1,,,,340623406
+2,South Africa,12,AB de Villiers,SL Malinga,JP Duminy,,0,4,4,,,,340623406
+2,South Africa,12,AB de Villiers,SL Malinga,JP Duminy,,0,1,1,,,,340623406
+2,South Africa,12,JP Duminy,SL Malinga,AB de Villiers,,0,1,1,,,,340623406
+2,South Africa,12,AB de Villiers,SL Malinga,JP Duminy,wides,1,1,0,,,,340623406
+2,South Africa,12,AB de Villiers,SL Malinga,JP Duminy,,0,0,0,,,,340623406
+2,South Africa,12,AB de Villiers,SL Malinga,JP Duminy,,0,1,1,,,,340623406
+2,South Africa,12,JP Duminy,SL Malinga,AB de Villiers,,0,1,1,,,,340623406
+2,South Africa,13,JP Duminy,AD Mathews,AB de Villiers,,0,1,1,,,,340623406
+2,South Africa,13,AB de Villiers,AD Mathews,JP Duminy,,0,2,2,,,,340623406
+2,South Africa,13,AB de Villiers,AD Mathews,JP Duminy,,0,0,0,,,,340623406
+2,South Africa,13,AB de Villiers,AD Mathews,JP Duminy,,0,0,0,,,,340623406
+2,South Africa,13,AB de Villiers,AD Mathews,JP Duminy,,0,4,4,,,,340623406
+2,South Africa,13,AB de Villiers,AD Mathews,JP Duminy,,0,0,0,caught,AB de Villiers,KC Sangakkara,340623406
+2,South Africa,14,JP Duminy,BAW Mendis,DA Miller,,0,1,1,,,,340623406
+2,South Africa,14,DA Miller,BAW Mendis,JP Duminy,,0,1,1,,,,340623406
+2,South Africa,14,JP Duminy,BAW Mendis,DA Miller,,0,1,1,,,,340623406
+2,South Africa,14,DA Miller,BAW Mendis,JP Duminy,,0,0,0,,,,340623406
+2,South Africa,14,DA Miller,BAW Mendis,JP Duminy,,0,1,1,,,,340623406
+2,South Africa,14,JP Duminy,BAW Mendis,DA Miller,,0,1,1,,,,340623406
+2,South Africa,15,JP Duminy,SMSM Senanayake,DA Miller,,0,1,1,,,,340623406
+2,South Africa,15,DA Miller,SMSM Senanayake,JP Duminy,,0,1,1,,,,340623406
+2,South Africa,15,JP Duminy,SMSM Senanayake,DA Miller,,0,2,2,,,,340623406
+2,South Africa,15,JP Duminy,SMSM Senanayake,DA Miller,,0,0,0,caught,JP Duminy,TM Dilshan,340623406
+2,South Africa,15,DA Miller,SMSM Senanayake,JA Morkel,,0,1,1,,,,340623406
+2,South Africa,15,JA Morkel,SMSM Senanayake,DA Miller,,0,0,0,,,,340623406
+2,South Africa,16,DA Miller,BAW Mendis,JA Morkel,,0,1,1,,,,340623406
+2,South Africa,16,JA Morkel,BAW Mendis,DA Miller,,0,6,6,,,,340623406
+2,South Africa,16,JA Morkel,BAW Mendis,DA Miller,,0,6,6,,,,340623406
+2,South Africa,16,JA Morkel,BAW Mendis,DA Miller,,0,0,0,caught,JA Morkel,LD Chandimal,340623406
+2,South Africa,16,DA Miller,BAW Mendis,F Behardien,,0,1,1,,,,340623406
+2,South Africa,16,F Behardien,BAW Mendis,DA Miller,,0,3,3,,,,340623406
+2,South Africa,17,F Behardien,SL Malinga,DA Miller,,0,1,1,,,,340623406
+2,South Africa,17,DA Miller,SL Malinga,F Behardien,,0,4,4,,,,340623406
+2,South Africa,17,DA Miller,SL Malinga,F Behardien,,0,1,1,,,,340623406
+2,South Africa,17,F Behardien,SL Malinga,DA Miller,,0,1,1,,,,340623406
+2,South Africa,17,DA Miller,SL Malinga,F Behardien,,0,2,2,,,,340623406
+2,South Africa,17,DA Miller,SL Malinga,F Behardien,,0,1,1,,,,340623406
+2,South Africa,18,DA Miller,KMDN Kulasekara,F Behardien,,0,1,1,,,,340623406
+2,South Africa,18,F Behardien,KMDN Kulasekara,DA Miller,,0,0,0,caught,F Behardien,DPMD Jayawardene,340623406
+2,South Africa,18,DA Miller,KMDN Kulasekara,DW Steyn,,0,2,2,,,,340623406
+2,South Africa,18,DA Miller,KMDN Kulasekara,DW Steyn,,0,1,1,,,,340623406
+2,South Africa,18,DW Steyn,KMDN Kulasekara,DA Miller,,0,0,0,,,,340623406
+2,South Africa,18,DW Steyn,KMDN Kulasekara,DA Miller,,0,0,0,,,,340623406
+2,South Africa,19,DA Miller,SL Malinga,DW Steyn,,0,0,0,run out,DW Steyn,SL Malinga,340623406
+2,South Africa,19,DA Miller,SL Malinga,M Morkel,,0,1,1,run out,DA Miller,KC Sangakkara,340623406
+2,South Africa,19,Imran Tahir,SL Malinga,M Morkel,,0,0,0,,,,340623406
+2,South Africa,19,Imran Tahir,SL Malinga,M Morkel,,0,2,2,,,,340623406
+2,South Africa,19,Imran Tahir,SL Malinga,M Morkel,,0,0,0,,,,340623406
+2,South Africa,19,Imran Tahir,SL Malinga,M Morkel,,0,6,6,,,,340623406

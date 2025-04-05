@@ -1,0 +1,139 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Germany,0,JE Ronalds,M Ribeiro,CM Gough,,0,0,0,,,,32071232071
+2,Germany,0,JE Ronalds,M Ribeiro,CM Gough,,0,0,0,caught,JE Ronalds,RD de Sousa,32071232071
+2,Germany,0,S Sadarangani,M Ribeiro,CM Gough,wides,1,1,0,,,,32071232071
+2,Germany,0,S Sadarangani,M Ribeiro,CM Gough,,0,0,0,,,,32071232071
+2,Germany,0,S Sadarangani,M Ribeiro,CM Gough,,0,0,0,,,,32071232071
+2,Germany,0,S Sadarangani,M Ribeiro,CM Gough,,0,1,1,,,,32071232071
+2,Germany,0,CM Gough,M Ribeiro,S Sadarangani,,0,0,0,,,,32071232071
+2,Germany,1,S Sadarangani,NC Monteiro,CM Gough,,0,0,0,,,,32071232071
+2,Germany,1,S Sadarangani,NC Monteiro,CM Gough,wides,1,1,0,,,,32071232071
+2,Germany,1,S Sadarangani,NC Monteiro,CM Gough,wides,1,1,0,,,,32071232071
+2,Germany,1,S Sadarangani,NC Monteiro,CM Gough,,0,0,0,,,,32071232071
+2,Germany,1,S Sadarangani,NC Monteiro,CM Gough,,0,3,3,,,,32071232071
+2,Germany,1,CM Gough,NC Monteiro,S Sadarangani,wides,1,1,0,,,,32071232071
+2,Germany,1,CM Gough,NC Monteiro,S Sadarangani,,0,2,2,,,,32071232071
+2,Germany,1,CM Gough,NC Monteiro,S Sadarangani,wides,3,3,0,,,,32071232071
+2,Germany,1,CM Gough,NC Monteiro,S Sadarangani,,0,0,0,,,,32071232071
+2,Germany,1,CM Gough,NC Monteiro,S Sadarangani,,0,0,0,,,,32071232071
+2,Germany,2,S Sadarangani,M Ribeiro,CM Gough,,0,0,0,,,,32071232071
+2,Germany,2,S Sadarangani,M Ribeiro,CM Gough,,0,4,4,,,,32071232071
+2,Germany,2,S Sadarangani,M Ribeiro,CM Gough,legbyes,2,2,0,,,,32071232071
+2,Germany,2,S Sadarangani,M Ribeiro,CM Gough,wides,1,1,0,,,,32071232071
+2,Germany,2,S Sadarangani,M Ribeiro,CM Gough,,0,1,1,,,,32071232071
+2,Germany,2,CM Gough,M Ribeiro,S Sadarangani,,0,2,2,,,,32071232071
+2,Germany,2,CM Gough,M Ribeiro,S Sadarangani,,0,0,0,,,,32071232071
+2,Germany,3,S Sadarangani,NC Monteiro,CM Gough,,0,0,0,,,,32071232071
+2,Germany,3,S Sadarangani,NC Monteiro,CM Gough,,0,0,0,,,,32071232071
+2,Germany,3,S Sadarangani,NC Monteiro,CM Gough,,0,2,2,,,,32071232071
+2,Germany,3,S Sadarangani,NC Monteiro,CM Gough,,0,0,0,,,,32071232071
+2,Germany,3,S Sadarangani,NC Monteiro,CM Gough,,0,4,4,,,,32071232071
+2,Germany,3,S Sadarangani,NC Monteiro,CM Gough,,0,0,0,,,,32071232071
+2,Germany,4,CM Gough,RD de Sousa,S Sadarangani,legbyes,1,1,0,,,,32071232071
+2,Germany,4,S Sadarangani,RD de Sousa,CM Gough,,0,0,0,,,,32071232071
+2,Germany,4,S Sadarangani,RD de Sousa,CM Gough,,0,0,0,,,,32071232071
+2,Germany,4,S Sadarangani,RD de Sousa,CM Gough,,0,0,0,,,,32071232071
+2,Germany,4,S Sadarangani,RD de Sousa,CM Gough,,0,0,0,,,,32071232071
+2,Germany,4,S Sadarangani,RD de Sousa,CM Gough,,0,0,0,,,,32071232071
+2,Germany,5,CM Gough,LV Boas,S Sadarangani,,0,1,1,,,,32071232071
+2,Germany,5,S Sadarangani,LV Boas,CM Gough,,0,0,0,lbw,S Sadarangani,,32071232071
+2,Germany,5,W Hornero-Garcia,LV Boas,CM Gough,wides,1,1,0,,,,32071232071
+2,Germany,5,W Hornero-Garcia,LV Boas,CM Gough,,0,0,0,,,,32071232071
+2,Germany,5,W Hornero-Garcia,LV Boas,CM Gough,wides,1,1,0,,,,32071232071
+2,Germany,5,W Hornero-Garcia,LV Boas,CM Gough,wides,3,3,0,,,,32071232071
+2,Germany,5,W Hornero-Garcia,LV Boas,CM Gough,wides,1,1,0,,,,32071232071
+2,Germany,5,W Hornero-Garcia,LV Boas,CM Gough,,0,0,0,,,,32071232071
+2,Germany,5,W Hornero-Garcia,LV Boas,CM Gough,,0,0,0,,,,32071232071
+2,Germany,5,W Hornero-Garcia,LV Boas,CM Gough,,0,1,1,,,,32071232071
+2,Germany,6,W Hornero-Garcia,RD de Sousa,CM Gough,wides,1,1,0,,,,32071232071
+2,Germany,6,W Hornero-Garcia,RD de Sousa,CM Gough,,0,4,4,,,,32071232071
+2,Germany,6,W Hornero-Garcia,RD de Sousa,CM Gough,,0,0,0,,,,32071232071
+2,Germany,6,W Hornero-Garcia,RD de Sousa,CM Gough,,0,3,3,,,,32071232071
+2,Germany,6,CM Gough,RD de Sousa,W Hornero-Garcia,,0,0,0,bowled,CM Gough,,32071232071
+2,Germany,6,K Vijayaraghavan,RD de Sousa,W Hornero-Garcia,,0,0,0,,,,32071232071
+2,Germany,6,K Vijayaraghavan,RD de Sousa,W Hornero-Garcia,,0,1,1,,,,32071232071
+2,Germany,7,K Vijayaraghavan,L Moises,W Hornero-Garcia,,0,2,2,,,,32071232071
+2,Germany,7,K Vijayaraghavan,L Moises,W Hornero-Garcia,,0,0,0,bowled,K Vijayaraghavan,,32071232071
+2,Germany,7,A Doddaballapur,L Moises,W Hornero-Garcia,,0,0,0,,,,32071232071
+2,Germany,7,A Doddaballapur,L Moises,W Hornero-Garcia,,0,0,0,,,,32071232071
+2,Germany,7,A Doddaballapur,L Moises,W Hornero-Garcia,,0,0,0,,,,32071232071
+2,Germany,7,A Doddaballapur,L Moises,W Hornero-Garcia,,0,1,1,,,,32071232071
+2,Germany,8,A Doddaballapur,RD de Sousa,W Hornero-Garcia,wides,1,1,0,,,,32071232071
+2,Germany,8,A Doddaballapur,RD de Sousa,W Hornero-Garcia,,0,0,0,,,,32071232071
+2,Germany,8,A Doddaballapur,RD de Sousa,W Hornero-Garcia,,0,0,0,run out,A Doddaballapur,CS Nascimento,32071232071
+2,Germany,8,W Hornero-Garcia,RD de Sousa,A Kohli,,0,0,0,,,,32071232071
+2,Germany,8,W Hornero-Garcia,RD de Sousa,A Kohli,,0,0,0,,,,32071232071
+2,Germany,8,W Hornero-Garcia,RD de Sousa,A Kohli,,0,1,1,,,,32071232071
+2,Germany,8,A Kohli,RD de Sousa,W Hornero-Garcia,,0,0,0,,,,32071232071
+2,Germany,9,W Hornero-Garcia,L Moises,A Kohli,,0,0,0,,,,32071232071
+2,Germany,9,W Hornero-Garcia,L Moises,A Kohli,,0,0,0,,,,32071232071
+2,Germany,9,W Hornero-Garcia,L Moises,A Kohli,,0,1,1,,,,32071232071
+2,Germany,9,A Kohli,L Moises,W Hornero-Garcia,,0,0,0,,,,32071232071
+2,Germany,9,A Kohli,L Moises,W Hornero-Garcia,,0,0,0,,,,32071232071
+2,Germany,9,A Kohli,L Moises,W Hornero-Garcia,,0,0,0,run out,W Hornero-Garcia,CS Nascimento,32071232071
+2,Germany,10,A Kohli,RD de Sousa,MS Beresford,,0,1,1,,,,32071232071
+2,Germany,10,MS Beresford,RD de Sousa,A Kohli,,0,0,0,,,,32071232071
+2,Germany,10,MS Beresford,RD de Sousa,A Kohli,,0,0,0,,,,32071232071
+2,Germany,10,MS Beresford,RD de Sousa,A Kohli,legbyes,1,1,0,,,,32071232071
+2,Germany,10,A Kohli,RD de Sousa,MS Beresford,wides,1,1,0,,,,32071232071
+2,Germany,10,A Kohli,RD de Sousa,MS Beresford,,0,0,0,,,,32071232071
+2,Germany,10,A Kohli,RD de Sousa,MS Beresford,,0,0,0,,,,32071232071
+2,Germany,11,MS Beresford,L Moises,A Kohli,,0,0,0,,,,32071232071
+2,Germany,11,MS Beresford,L Moises,A Kohli,byes,1,1,0,,,,32071232071
+2,Germany,11,A Kohli,L Moises,MS Beresford,,0,2,2,,,,32071232071
+2,Germany,11,A Kohli,L Moises,MS Beresford,,0,2,2,,,,32071232071
+2,Germany,11,A Kohli,L Moises,MS Beresford,wides,1,1,0,,,,32071232071
+2,Germany,11,A Kohli,L Moises,MS Beresford,,0,0,0,,,,32071232071
+2,Germany,11,A Kohli,L Moises,MS Beresford,,0,1,1,,,,32071232071
+2,Germany,12,A Kohli,M Ribeiro,MS Beresford,,0,0,0,,,,32071232071
+2,Germany,12,A Kohli,M Ribeiro,MS Beresford,,0,2,2,,,,32071232071
+2,Germany,12,A Kohli,M Ribeiro,MS Beresford,,0,0,0,,,,32071232071
+2,Germany,12,A Kohli,M Ribeiro,MS Beresford,,0,0,0,,,,32071232071
+2,Germany,12,A Kohli,M Ribeiro,MS Beresford,,0,1,1,,,,32071232071
+2,Germany,12,MS Beresford,M Ribeiro,A Kohli,,0,0,0,,,,32071232071
+2,Germany,13,A Kohli,L Moises,MS Beresford,,0,2,2,,,,32071232071
+2,Germany,13,A Kohli,L Moises,MS Beresford,noballs,1,1,0,,,,32071232071
+2,Germany,13,A Kohli,L Moises,MS Beresford,,0,2,2,,,,32071232071
+2,Germany,13,A Kohli,L Moises,MS Beresford,,0,0,0,,,,32071232071
+2,Germany,13,A Kohli,L Moises,MS Beresford,,0,0,0,,,,32071232071
+2,Germany,13,A Kohli,L Moises,MS Beresford,,0,1,1,,,,32071232071
+2,Germany,13,MS Beresford,L Moises,A Kohli,,0,0,0,,,,32071232071
+2,Germany,14,A Kohli,M Ribeiro,MS Beresford,,0,1,1,,,,32071232071
+2,Germany,14,MS Beresford,M Ribeiro,A Kohli,,0,0,0,,,,32071232071
+2,Germany,14,MS Beresford,M Ribeiro,A Kohli,,0,1,1,,,,32071232071
+2,Germany,14,A Kohli,M Ribeiro,MS Beresford,,0,0,0,,,,32071232071
+2,Germany,14,A Kohli,M Ribeiro,MS Beresford,,0,0,0,,,,32071232071
+2,Germany,14,A Kohli,M Ribeiro,MS Beresford,,0,4,4,,,,32071232071
+2,Germany,15,MS Beresford,NC Monteiro,A Kohli,,0,0,0,,,,32071232071
+2,Germany,15,MS Beresford,NC Monteiro,A Kohli,,0,0,0,,,,32071232071
+2,Germany,15,MS Beresford,NC Monteiro,A Kohli,,0,4,4,,,,32071232071
+2,Germany,15,MS Beresford,NC Monteiro,A Kohli,,0,0,0,,,,32071232071
+2,Germany,15,MS Beresford,NC Monteiro,A Kohli,,0,0,0,,,,32071232071
+2,Germany,15,MS Beresford,NC Monteiro,A Kohli,,0,0,0,run out,MS Beresford,RD de Sousa,32071232071
+2,Germany,16,A Kohli,LV Boas,S Mannan,,0,0,0,,,,32071232071
+2,Germany,16,A Kohli,LV Boas,S Mannan,,0,0,0,,,,32071232071
+2,Germany,16,A Kohli,LV Boas,S Mannan,wides,2,2,0,,,,32071232071
+2,Germany,16,S Mannan,LV Boas,A Kohli,,0,0,0,,,,32071232071
+2,Germany,16,S Mannan,LV Boas,A Kohli,,0,0,0,,,,32071232071
+2,Germany,16,S Mannan,LV Boas,A Kohli,,0,1,1,,,,32071232071
+2,Germany,16,A Kohli,LV Boas,S Mannan,,0,0,0,,,,32071232071
+2,Germany,17,S Mannan,CS Nascimento,A Kohli,,0,2,2,,,,32071232071
+2,Germany,17,S Mannan,CS Nascimento,A Kohli,wides,1,1,0,,,,32071232071
+2,Germany,17,S Mannan,CS Nascimento,A Kohli,,0,0,0,,,,32071232071
+2,Germany,17,S Mannan,CS Nascimento,A Kohli,legbyes,2,2,0,,,,32071232071
+2,Germany,17,S Mannan,CS Nascimento,A Kohli,,0,1,1,run out,S Mannan,M Ribeiro,32071232071
+2,Germany,17,SR McAnanama-Brereton,CS Nascimento,A Kohli,,0,1,1,,,,32071232071
+2,Germany,17,A Kohli,CS Nascimento,SR McAnanama-Brereton,wides,1,1,0,,,,32071232071
+2,Germany,17,A Kohli,CS Nascimento,SR McAnanama-Brereton,,0,2,2,,,,32071232071
+2,Germany,18,SR McAnanama-Brereton,LV Boas,A Kohli,,0,0,0,,,,32071232071
+2,Germany,18,SR McAnanama-Brereton,LV Boas,A Kohli,,0,1,1,,,,32071232071
+2,Germany,18,A Kohli,LV Boas,SR McAnanama-Brereton,,0,0,0,,,,32071232071
+2,Germany,18,A Kohli,LV Boas,SR McAnanama-Brereton,,0,4,4,,,,32071232071
+2,Germany,18,A Kohli,LV Boas,SR McAnanama-Brereton,,0,2,2,,,,32071232071
+2,Germany,18,A Kohli,LV Boas,SR McAnanama-Brereton,,0,0,0,,,,32071232071
+2,Germany,19,SR McAnanama-Brereton,NC Monteiro,A Kohli,,0,0,0,,,,32071232071
+2,Germany,19,SR McAnanama-Brereton,NC Monteiro,A Kohli,legbyes,1,1,0,,,,32071232071
+2,Germany,19,A Kohli,NC Monteiro,SR McAnanama-Brereton,,0,4,4,,,,32071232071
+2,Germany,19,A Kohli,NC Monteiro,SR McAnanama-Brereton,,0,0,0,bowled,A Kohli,,32071232071
+2,Germany,19,A Meyenborg,NC Monteiro,SR McAnanama-Brereton,,0,0,0,,,,32071232071
+2,Germany,19,A Meyenborg,NC Monteiro,SR McAnanama-Brereton,,0,2,2,,,,32071232071

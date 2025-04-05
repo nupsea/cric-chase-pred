@@ -1,0 +1,76 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Nigeria,0,K Abdulquadri,M Ribeiro,E Sandy,,0,1,1,,,,32066232066
+2,Nigeria,0,E Sandy,M Ribeiro,K Abdulquadri,,0,0,0,,,,32066232066
+2,Nigeria,0,E Sandy,M Ribeiro,K Abdulquadri,wides,1,1,0,,,,32066232066
+2,Nigeria,0,E Sandy,M Ribeiro,K Abdulquadri,wides,1,1,0,,,,32066232066
+2,Nigeria,0,E Sandy,M Ribeiro,K Abdulquadri,,0,0,0,,,,32066232066
+2,Nigeria,0,E Sandy,M Ribeiro,K Abdulquadri,,0,1,1,,,,32066232066
+2,Nigeria,0,K Abdulquadri,M Ribeiro,E Sandy,,0,0,0,,,,32066232066
+2,Nigeria,0,K Abdulquadri,M Ribeiro,E Sandy,,0,0,0,,,,32066232066
+2,Nigeria,1,E Sandy,NC Monteiro,K Abdulquadri,,0,0,0,,,,32066232066
+2,Nigeria,1,E Sandy,NC Monteiro,K Abdulquadri,,0,0,0,,,,32066232066
+2,Nigeria,1,E Sandy,NC Monteiro,K Abdulquadri,,0,1,1,,,,32066232066
+2,Nigeria,1,K Abdulquadri,NC Monteiro,E Sandy,,0,0,0,,,,32066232066
+2,Nigeria,1,K Abdulquadri,NC Monteiro,E Sandy,,0,2,2,,,,32066232066
+2,Nigeria,1,K Abdulquadri,NC Monteiro,E Sandy,,0,0,0,,,,32066232066
+2,Nigeria,2,E Sandy,M Ribeiro,K Abdulquadri,wides,1,1,0,,,,32066232066
+2,Nigeria,2,E Sandy,M Ribeiro,K Abdulquadri,,0,2,2,,,,32066232066
+2,Nigeria,2,E Sandy,M Ribeiro,K Abdulquadri,noballs,1,1,0,,,,32066232066
+2,Nigeria,2,E Sandy,M Ribeiro,K Abdulquadri,,0,0,0,,,,32066232066
+2,Nigeria,2,E Sandy,M Ribeiro,K Abdulquadri,,0,2,2,,,,32066232066
+2,Nigeria,2,E Sandy,M Ribeiro,K Abdulquadri,,0,0,0,,,,32066232066
+2,Nigeria,2,E Sandy,M Ribeiro,K Abdulquadri,,0,1,1,,,,32066232066
+2,Nigeria,2,K Abdulquadri,M Ribeiro,E Sandy,,0,1,1,,,,32066232066
+2,Nigeria,3,K Abdulquadri,NC Monteiro,E Sandy,,0,0,0,,,,32066232066
+2,Nigeria,3,K Abdulquadri,NC Monteiro,E Sandy,wides,1,1,0,,,,32066232066
+2,Nigeria,3,K Abdulquadri,NC Monteiro,E Sandy,,0,0,0,,,,32066232066
+2,Nigeria,3,K Abdulquadri,NC Monteiro,E Sandy,,0,0,0,,,,32066232066
+2,Nigeria,3,K Abdulquadri,NC Monteiro,E Sandy,,0,0,0,,,,32066232066
+2,Nigeria,3,K Abdulquadri,NC Monteiro,E Sandy,byes,1,1,0,,,,32066232066
+2,Nigeria,3,E Sandy,NC Monteiro,K Abdulquadri,,0,0,0,,,,32066232066
+2,Nigeria,4,K Abdulquadri,RD de Sousa,E Sandy,,0,0,0,,,,32066232066
+2,Nigeria,4,K Abdulquadri,RD de Sousa,E Sandy,,0,0,0,caught,K Abdulquadri,E de Souza,32066232066
+2,Nigeria,4,A Obulor,RD de Sousa,E Sandy,,0,0,0,,,,32066232066
+2,Nigeria,4,A Obulor,RD de Sousa,E Sandy,wides,1,1,0,,,,32066232066
+2,Nigeria,4,A Obulor,RD de Sousa,E Sandy,,0,0,0,,,,32066232066
+2,Nigeria,4,A Obulor,RD de Sousa,E Sandy,,0,0,0,,,,32066232066
+2,Nigeria,4,A Obulor,RD de Sousa,E Sandy,,0,4,4,,,,32066232066
+2,Nigeria,5,E Sandy,NC Monteiro,A Obulor,,0,0,0,,,,32066232066
+2,Nigeria,5,E Sandy,NC Monteiro,A Obulor,,0,0,0,,,,32066232066
+2,Nigeria,5,E Sandy,NC Monteiro,A Obulor,,0,0,0,,,,32066232066
+2,Nigeria,5,E Sandy,NC Monteiro,A Obulor,,0,0,0,,,,32066232066
+2,Nigeria,5,E Sandy,NC Monteiro,A Obulor,,0,0,0,,,,32066232066
+2,Nigeria,5,E Sandy,NC Monteiro,A Obulor,,0,0,0,bowled,E Sandy,,32066232066
+2,Nigeria,6,A Obulor,RD de Sousa,S Sunday,,0,0,0,,,,32066232066
+2,Nigeria,6,A Obulor,RD de Sousa,S Sunday,,0,0,0,,,,32066232066
+2,Nigeria,6,A Obulor,RD de Sousa,S Sunday,,0,1,1,,,,32066232066
+2,Nigeria,6,S Sunday,RD de Sousa,A Obulor,,0,0,0,,,,32066232066
+2,Nigeria,6,S Sunday,RD de Sousa,A Obulor,,0,0,0,,,,32066232066
+2,Nigeria,6,S Sunday,RD de Sousa,A Obulor,,0,1,1,,,,32066232066
+2,Nigeria,7,A Obulor,D Staddon,S Sunday,,0,1,1,,,,32066232066
+2,Nigeria,7,S Sunday,D Staddon,A Obulor,,0,0,0,,,,32066232066
+2,Nigeria,7,S Sunday,D Staddon,A Obulor,,0,1,1,,,,32066232066
+2,Nigeria,7,A Obulor,D Staddon,S Sunday,,0,0,0,,,,32066232066
+2,Nigeria,7,A Obulor,D Staddon,S Sunday,,0,0,0,,,,32066232066
+2,Nigeria,7,A Obulor,D Staddon,S Sunday,,0,0,0,,,,32066232066
+2,Nigeria,8,S Sunday,RD de Sousa,A Obulor,,0,1,1,,,,32066232066
+2,Nigeria,8,A Obulor,RD de Sousa,S Sunday,,0,1,1,,,,32066232066
+2,Nigeria,8,S Sunday,RD de Sousa,A Obulor,,0,1,1,,,,32066232066
+2,Nigeria,8,A Obulor,RD de Sousa,S Sunday,,0,0,0,,,,32066232066
+2,Nigeria,8,A Obulor,RD de Sousa,S Sunday,,0,0,0,,,,32066232066
+2,Nigeria,8,A Obulor,RD de Sousa,S Sunday,,0,0,0,,,,32066232066
+2,Nigeria,9,S Sunday,D Staddon,A Obulor,wides,1,1,0,,,,32066232066
+2,Nigeria,9,S Sunday,D Staddon,A Obulor,,0,0,0,,,,32066232066
+2,Nigeria,9,S Sunday,D Staddon,A Obulor,,0,2,2,,,,32066232066
+2,Nigeria,9,S Sunday,D Staddon,A Obulor,wides,1,1,0,,,,32066232066
+2,Nigeria,9,S Sunday,D Staddon,A Obulor,,0,2,2,,,,32066232066
+2,Nigeria,9,S Sunday,D Staddon,A Obulor,,0,0,0,,,,32066232066
+2,Nigeria,9,S Sunday,D Staddon,A Obulor,wides,1,1,0,,,,32066232066
+2,Nigeria,9,S Sunday,D Staddon,A Obulor,,0,0,0,,,,32066232066
+2,Nigeria,9,S Sunday,D Staddon,A Obulor,noballs,1,3,2,,,,32066232066
+2,Nigeria,9,S Sunday,D Staddon,A Obulor,,0,4,4,,,,32066232066
+2,Nigeria,10,A Obulor,RD de Sousa,S Sunday,,0,4,4,,,,32066232066
+2,Nigeria,10,A Obulor,RD de Sousa,S Sunday,,0,1,1,,,,32066232066
+2,Nigeria,10,S Sunday,RD de Sousa,A Obulor,,0,0,0,,,,32066232066
+2,Nigeria,10,S Sunday,RD de Sousa,A Obulor,,0,4,4,,,,32066232066
+2,Nigeria,10,S Sunday,RD de Sousa,A Obulor,,0,4,4,,,,32066232066

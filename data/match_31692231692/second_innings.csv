@@ -1,0 +1,86 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Sweden,0,S Linden,Farial Zia Safdar,C Elmsjoo,wides,1,1,0,,,,31692231692
+2,Sweden,0,S Linden,Farial Zia Safdar,C Elmsjoo,,0,0,0,,,,31692231692
+2,Sweden,0,S Linden,Farial Zia Safdar,C Elmsjoo,,0,1,1,,,,31692231692
+2,Sweden,0,C Elmsjoo,Farial Zia Safdar,S Linden,,0,0,0,,,,31692231692
+2,Sweden,0,C Elmsjoo,Farial Zia Safdar,S Linden,,0,0,0,caught,C Elmsjoo,R Immadi,31692231692
+2,Sweden,0,G Shukla,Farial Zia Safdar,S Linden,,0,0,0,,,,31692231692
+2,Sweden,0,G Shukla,Farial Zia Safdar,S Linden,,0,0,0,,,,31692231692
+2,Sweden,1,S Linden,S Raveendrakumar,G Shukla,,0,1,1,,,,31692231692
+2,Sweden,1,G Shukla,S Raveendrakumar,S Linden,noballs,1,1,0,,,,31692231692
+2,Sweden,1,G Shukla,S Raveendrakumar,S Linden,,0,2,2,,,,31692231692
+2,Sweden,1,G Shukla,S Raveendrakumar,S Linden,,0,0,0,,,,31692231692
+2,Sweden,1,G Shukla,S Raveendrakumar,S Linden,,0,2,2,,,,31692231692
+2,Sweden,1,G Shukla,S Raveendrakumar,S Linden,,0,0,0,,,,31692231692
+2,Sweden,1,G Shukla,S Raveendrakumar,S Linden,,0,0,0,,,,31692231692
+2,Sweden,2,S Linden,Farial Zia Safdar,G Shukla,wides,1,1,0,,,,31692231692
+2,Sweden,2,S Linden,Farial Zia Safdar,G Shukla,wides,1,1,0,,,,31692231692
+2,Sweden,2,S Linden,Farial Zia Safdar,G Shukla,,0,2,2,,,,31692231692
+2,Sweden,2,S Linden,Farial Zia Safdar,G Shukla,,0,0,0,,,,31692231692
+2,Sweden,2,S Linden,Farial Zia Safdar,G Shukla,wides,1,1,0,,,,31692231692
+2,Sweden,2,S Linden,Farial Zia Safdar,G Shukla,,0,0,0,caught,S Linden,AS Gorad,31692231692
+2,Sweden,2,M Alugunoolla,Farial Zia Safdar,G Shukla,,0,0,0,,,,31692231692
+2,Sweden,2,M Alugunoolla,Farial Zia Safdar,G Shukla,,0,0,0,,,,31692231692
+2,Sweden,2,M Alugunoolla,Farial Zia Safdar,G Shukla,,0,0,0,,,,31692231692
+2,Sweden,3,G Shukla,S Raveendrakumar,M Alugunoolla,,0,2,2,,,,31692231692
+2,Sweden,3,G Shukla,S Raveendrakumar,M Alugunoolla,,0,1,1,,,,31692231692
+2,Sweden,3,M Alugunoolla,S Raveendrakumar,G Shukla,,0,0,0,,,,31692231692
+2,Sweden,3,M Alugunoolla,S Raveendrakumar,G Shukla,,0,1,1,,,,31692231692
+2,Sweden,3,G Shukla,S Raveendrakumar,M Alugunoolla,noballs,1,1,0,,,,31692231692
+2,Sweden,3,G Shukla,S Raveendrakumar,M Alugunoolla,,0,4,4,,,,31692231692
+2,Sweden,3,G Shukla,S Raveendrakumar,M Alugunoolla,wides,1,1,0,,,,31692231692
+2,Sweden,3,G Shukla,S Raveendrakumar,M Alugunoolla,,0,2,2,,,,31692231692
+2,Sweden,4,M Alugunoolla,Pooja Kumari,G Shukla,,0,0,0,,,,31692231692
+2,Sweden,4,M Alugunoolla,Pooja Kumari,G Shukla,,0,0,0,,,,31692231692
+2,Sweden,4,M Alugunoolla,Pooja Kumari,G Shukla,,0,0,0,,,,31692231692
+2,Sweden,4,M Alugunoolla,Pooja Kumari,G Shukla,,0,0,0,,,,31692231692
+2,Sweden,4,M Alugunoolla,Pooja Kumari,G Shukla,,0,1,1,,,,31692231692
+2,Sweden,4,G Shukla,Pooja Kumari,M Alugunoolla,,0,0,0,,,,31692231692
+2,Sweden,5,M Alugunoolla,DS Gamage,G Shukla,,0,0,0,,,,31692231692
+2,Sweden,5,M Alugunoolla,DS Gamage,G Shukla,legbyes,1,1,0,,,,31692231692
+2,Sweden,5,G Shukla,DS Gamage,M Alugunoolla,,0,2,2,,,,31692231692
+2,Sweden,5,G Shukla,DS Gamage,M Alugunoolla,,0,0,0,caught,G Shukla,S Raveendrakumar,31692231692
+2,Sweden,5,M Alugunoolla,DS Gamage,RG Somashekhar,,0,0,0,,,,31692231692
+2,Sweden,5,M Alugunoolla,DS Gamage,RG Somashekhar,,0,0,0,,,,31692231692
+2,Sweden,6,RG Somashekhar,Pooja Kumari,M Alugunoolla,,0,0,0,,,,31692231692
+2,Sweden,6,RG Somashekhar,Pooja Kumari,M Alugunoolla,,0,2,2,,,,31692231692
+2,Sweden,6,RG Somashekhar,Pooja Kumari,M Alugunoolla,,0,0,0,caught,RG Somashekhar,Ayesha Hasan,31692231692
+2,Sweden,6,S Lundell,Pooja Kumari,M Alugunoolla,,0,1,1,,,,31692231692
+2,Sweden,6,M Alugunoolla,Pooja Kumari,S Lundell,,0,0,0,,,,31692231692
+2,Sweden,6,M Alugunoolla,Pooja Kumari,S Lundell,,0,0,0,,,,31692231692
+2,Sweden,7,S Lundell,DS Gamage,M Alugunoolla,wides,1,1,0,,,,31692231692
+2,Sweden,7,S Lundell,DS Gamage,M Alugunoolla,wides,1,1,0,,,,31692231692
+2,Sweden,7,S Lundell,DS Gamage,M Alugunoolla,,0,0,0,,,,31692231692
+2,Sweden,7,S Lundell,DS Gamage,M Alugunoolla,,0,2,2,,,,31692231692
+2,Sweden,7,S Lundell,DS Gamage,M Alugunoolla,,0,0,0,,,,31692231692
+2,Sweden,7,S Lundell,DS Gamage,M Alugunoolla,,0,0,0,run out,S Lundell,S Raveendrakumar,31692231692
+2,Sweden,7,M Alugunoolla,DS Gamage,T Zilfidou,,0,0,0,,,,31692231692
+2,Sweden,7,M Alugunoolla,DS Gamage,T Zilfidou,,0,0,0,,,,31692231692
+2,Sweden,8,T Zilfidou,Pooja Kumari,M Alugunoolla,,0,0,0,caught,T Zilfidou,Mutaiba Ansar,31692231692
+2,Sweden,8,Abhilasha Singh,Pooja Kumari,M Alugunoolla,,0,0,0,,,,31692231692
+2,Sweden,8,Abhilasha Singh,Pooja Kumari,M Alugunoolla,wides,1,1,0,,,,31692231692
+2,Sweden,8,Abhilasha Singh,Pooja Kumari,M Alugunoolla,,0,0,0,,,,31692231692
+2,Sweden,8,Abhilasha Singh,Pooja Kumari,M Alugunoolla,,0,0,0,,,,31692231692
+2,Sweden,8,Abhilasha Singh,Pooja Kumari,M Alugunoolla,wides,1,1,0,,,,31692231692
+2,Sweden,8,Abhilasha Singh,Pooja Kumari,M Alugunoolla,,0,0,0,,,,31692231692
+2,Sweden,8,Abhilasha Singh,Pooja Kumari,M Alugunoolla,,0,0,0,,,,31692231692
+2,Sweden,9,M Alugunoolla,DS Gamage,Abhilasha Singh,,0,1,1,,,,31692231692
+2,Sweden,9,Abhilasha Singh,DS Gamage,M Alugunoolla,wides,1,1,0,,,,31692231692
+2,Sweden,9,Abhilasha Singh,DS Gamage,M Alugunoolla,,0,0,0,,,,31692231692
+2,Sweden,9,Abhilasha Singh,DS Gamage,M Alugunoolla,,0,1,1,,,,31692231692
+2,Sweden,9,M Alugunoolla,DS Gamage,Abhilasha Singh,,0,4,4,,,,31692231692
+2,Sweden,9,M Alugunoolla,DS Gamage,Abhilasha Singh,,0,2,2,,,,31692231692
+2,Sweden,9,M Alugunoolla,DS Gamage,Abhilasha Singh,,0,0,0,,,,31692231692
+2,Sweden,10,Abhilasha Singh,Farial Zia Safdar,M Alugunoolla,,0,0,0,,,,31692231692
+2,Sweden,10,Abhilasha Singh,Farial Zia Safdar,M Alugunoolla,,0,0,0,,,,31692231692
+2,Sweden,10,Abhilasha Singh,Farial Zia Safdar,M Alugunoolla,,0,0,0,bowled,Abhilasha Singh,,31692231692
+2,Sweden,10,S Elmsjoo,Farial Zia Safdar,M Alugunoolla,,0,0,0,,,,31692231692
+2,Sweden,10,S Elmsjoo,Farial Zia Safdar,M Alugunoolla,,0,1,1,,,,31692231692
+2,Sweden,10,M Alugunoolla,Farial Zia Safdar,S Elmsjoo,,0,0,0,,,,31692231692
+2,Sweden,11,S Elmsjoo,Pooja Kumari,M Alugunoolla,,0,1,1,,,,31692231692
+2,Sweden,11,M Alugunoolla,Pooja Kumari,S Elmsjoo,,0,0,0,,,,31692231692
+2,Sweden,11,M Alugunoolla,Pooja Kumari,S Elmsjoo,,0,0,0,lbw,M Alugunoolla,,31692231692
+2,Sweden,11,S Devata,Pooja Kumari,S Elmsjoo,,0,2,2,,,,31692231692
+2,Sweden,11,S Devata,Pooja Kumari,S Elmsjoo,,0,1,1,,,,31692231692
+2,Sweden,11,S Elmsjoo,Pooja Kumari,S Devata,,0,0,0,,,,31692231692
+2,Sweden,12,S Devata,Farial Zia Safdar,S Elmsjoo,,0,1,1,,,,31692231692

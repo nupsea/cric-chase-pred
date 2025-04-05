@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Papua New Guinea,0,L Siaka,FJ Klaassen,A Vala,,0,0,0,,,,32180232180
+2,Papua New Guinea,0,L Siaka,FJ Klaassen,A Vala,,0,0,0,,,,32180232180
+2,Papua New Guinea,0,L Siaka,FJ Klaassen,A Vala,,0,1,1,,,,32180232180
+2,Papua New Guinea,0,A Vala,FJ Klaassen,L Siaka,,0,0,0,,,,32180232180
+2,Papua New Guinea,0,A Vala,FJ Klaassen,L Siaka,,0,2,2,,,,32180232180
+2,Papua New Guinea,0,A Vala,FJ Klaassen,L Siaka,,0,4,4,,,,32180232180
+2,Papua New Guinea,1,L Siaka,TJG Pringle,A Vala,,0,0,0,,,,32180232180
+2,Papua New Guinea,1,L Siaka,TJG Pringle,A Vala,,0,4,4,,,,32180232180
+2,Papua New Guinea,1,L Siaka,TJG Pringle,A Vala,,0,0,0,,,,32180232180
+2,Papua New Guinea,1,L Siaka,TJG Pringle,A Vala,,0,0,0,,,,32180232180
+2,Papua New Guinea,1,L Siaka,TJG Pringle,A Vala,,0,0,0,,,,32180232180
+2,Papua New Guinea,1,L Siaka,TJG Pringle,A Vala,,0,0,0,,,,32180232180
+2,Papua New Guinea,2,A Vala,LV van Beek,L Siaka,,0,0,0,bowled,A Vala,,32180232180
+2,Papua New Guinea,2,CJA Amini,LV van Beek,L Siaka,,0,0,0,,,,32180232180
+2,Papua New Guinea,2,CJA Amini,LV van Beek,L Siaka,legbyes,1,1,0,,,,32180232180
+2,Papua New Guinea,2,L Siaka,LV van Beek,CJA Amini,,0,0,0,,,,32180232180
+2,Papua New Guinea,2,L Siaka,LV van Beek,CJA Amini,,0,2,2,,,,32180232180
+2,Papua New Guinea,2,L Siaka,LV van Beek,CJA Amini,,0,1,1,,,,32180232180
+2,Papua New Guinea,3,L Siaka,BFW de Leede,CJA Amini,,0,1,1,,,,32180232180
+2,Papua New Guinea,3,CJA Amini,BFW de Leede,L Siaka,legbyes,1,1,0,,,,32180232180
+2,Papua New Guinea,3,L Siaka,BFW de Leede,CJA Amini,,0,2,2,,,,32180232180
+2,Papua New Guinea,3,L Siaka,BFW de Leede,CJA Amini,,0,0,0,,,,32180232180
+2,Papua New Guinea,3,L Siaka,BFW de Leede,CJA Amini,,0,0,0,,,,32180232180
+2,Papua New Guinea,3,L Siaka,BFW de Leede,CJA Amini,,0,0,0,caught,L Siaka,TLW Cooper,32180232180
+2,Papua New Guinea,4,S Bau,FJ Klaassen,CJA Amini,wides,1,1,0,,,,32180232180
+2,Papua New Guinea,4,S Bau,FJ Klaassen,CJA Amini,,0,0,0,,,,32180232180
+2,Papua New Guinea,4,S Bau,FJ Klaassen,CJA Amini,,0,0,0,,,,32180232180
+2,Papua New Guinea,4,S Bau,FJ Klaassen,CJA Amini,,0,1,1,,,,32180232180
+2,Papua New Guinea,4,CJA Amini,FJ Klaassen,S Bau,,0,0,0,,,,32180232180
+2,Papua New Guinea,4,CJA Amini,FJ Klaassen,S Bau,wides,1,1,0,,,,32180232180
+2,Papua New Guinea,4,CJA Amini,FJ Klaassen,S Bau,,0,1,1,,,,32180232180
+2,Papua New Guinea,4,S Bau,FJ Klaassen,CJA Amini,,0,0,0,,,,32180232180
+2,Papua New Guinea,5,CJA Amini,LV van Beek,S Bau,,0,0,0,,,,32180232180
+2,Papua New Guinea,5,CJA Amini,LV van Beek,S Bau,,0,6,6,,,,32180232180
+2,Papua New Guinea,5,CJA Amini,LV van Beek,S Bau,,0,0,0,,,,32180232180
+2,Papua New Guinea,5,CJA Amini,LV van Beek,S Bau,,0,0,0,,,,32180232180
+2,Papua New Guinea,5,CJA Amini,LV van Beek,S Bau,,0,0,0,,,,32180232180
+2,Papua New Guinea,5,CJA Amini,LV van Beek,S Bau,,0,0,0,,,,32180232180
+2,Papua New Guinea,6,S Bau,Shariz Ahmad,CJA Amini,,0,0,0,,,,32180232180
+2,Papua New Guinea,6,S Bau,Shariz Ahmad,CJA Amini,,0,1,1,,,,32180232180
+2,Papua New Guinea,6,CJA Amini,Shariz Ahmad,S Bau,,0,1,1,,,,32180232180
+2,Papua New Guinea,6,S Bau,Shariz Ahmad,CJA Amini,,0,0,0,,,,32180232180
+2,Papua New Guinea,6,S Bau,Shariz Ahmad,CJA Amini,,0,2,2,,,,32180232180
+2,Papua New Guinea,6,S Bau,Shariz Ahmad,CJA Amini,,0,0,0,,,,32180232180
+2,Papua New Guinea,7,CJA Amini,PA van Meekeren,S Bau,legbyes,3,3,0,,,,32180232180
+2,Papua New Guinea,7,S Bau,PA van Meekeren,CJA Amini,wides,1,1,0,,,,32180232180
+2,Papua New Guinea,7,S Bau,PA van Meekeren,CJA Amini,,0,4,4,,,,32180232180
+2,Papua New Guinea,7,S Bau,PA van Meekeren,CJA Amini,,0,0,0,,,,32180232180
+2,Papua New Guinea,7,S Bau,PA van Meekeren,CJA Amini,,0,1,1,,,,32180232180
+2,Papua New Guinea,7,CJA Amini,PA van Meekeren,S Bau,,0,1,1,,,,32180232180
+2,Papua New Guinea,7,S Bau,PA van Meekeren,CJA Amini,,0,0,0,,,,32180232180
+2,Papua New Guinea,8,CJA Amini,TJG Pringle,S Bau,,0,1,1,,,,32180232180
+2,Papua New Guinea,8,S Bau,TJG Pringle,CJA Amini,,0,1,1,,,,32180232180
+2,Papua New Guinea,8,CJA Amini,TJG Pringle,S Bau,,0,0,0,,,,32180232180
+2,Papua New Guinea,8,CJA Amini,TJG Pringle,S Bau,,0,4,4,,,,32180232180
+2,Papua New Guinea,8,CJA Amini,TJG Pringle,S Bau,,0,0,0,,,,32180232180
+2,Papua New Guinea,8,CJA Amini,TJG Pringle,S Bau,,0,1,1,,,,32180232180
+2,Papua New Guinea,9,CJA Amini,BFW de Leede,S Bau,,0,0,0,,,,32180232180
+2,Papua New Guinea,9,CJA Amini,BFW de Leede,S Bau,,0,1,1,,,,32180232180
+2,Papua New Guinea,9,S Bau,BFW de Leede,CJA Amini,wides,1,1,0,,,,32180232180
+2,Papua New Guinea,9,S Bau,BFW de Leede,CJA Amini,,0,1,1,,,,32180232180
+2,Papua New Guinea,9,CJA Amini,BFW de Leede,S Bau,,0,1,1,,,,32180232180
+2,Papua New Guinea,9,S Bau,BFW de Leede,CJA Amini,,0,1,1,,,,32180232180
+2,Papua New Guinea,9,CJA Amini,BFW de Leede,S Bau,,0,0,0,,,,32180232180
+2,Papua New Guinea,10,S Bau,Shariz Ahmad,CJA Amini,,0,2,2,,,,32180232180
+2,Papua New Guinea,10,S Bau,Shariz Ahmad,CJA Amini,,0,0,0,,,,32180232180
+2,Papua New Guinea,10,S Bau,Shariz Ahmad,CJA Amini,,0,4,4,,,,32180232180
+2,Papua New Guinea,10,S Bau,Shariz Ahmad,CJA Amini,,0,4,4,,,,32180232180
+2,Papua New Guinea,10,S Bau,Shariz Ahmad,CJA Amini,,0,1,1,,,,32180232180
+2,Papua New Guinea,10,CJA Amini,Shariz Ahmad,S Bau,,0,0,0,,,,32180232180
+2,Papua New Guinea,11,S Bau,PA van Meekeren,CJA Amini,legbyes,1,1,0,,,,32180232180
+2,Papua New Guinea,11,CJA Amini,PA van Meekeren,S Bau,,0,4,4,,,,32180232180
+2,Papua New Guinea,11,CJA Amini,PA van Meekeren,S Bau,,0,0,0,caught,CJA Amini,LV van Beek,32180232180
+2,Papua New Guinea,11,TP Ura,PA van Meekeren,S Bau,,0,0,0,,,,32180232180
+2,Papua New Guinea,11,TP Ura,PA van Meekeren,S Bau,,0,1,1,,,,32180232180
+2,Papua New Guinea,11,S Bau,PA van Meekeren,TP Ura,,0,1,1,,,,32180232180
+2,Papua New Guinea,12,S Bau,Shariz Ahmad,TP Ura,,0,0,0,,,,32180232180
+2,Papua New Guinea,12,S Bau,Shariz Ahmad,TP Ura,,0,0,0,,,,32180232180
+2,Papua New Guinea,12,S Bau,Shariz Ahmad,TP Ura,,0,1,1,,,,32180232180
+2,Papua New Guinea,12,TP Ura,Shariz Ahmad,S Bau,,0,0,0,,,,32180232180
+2,Papua New Guinea,12,TP Ura,Shariz Ahmad,S Bau,,0,0,0,,,,32180232180
+2,Papua New Guinea,12,TP Ura,Shariz Ahmad,S Bau,,0,0,0,,,,32180232180
+2,Papua New Guinea,13,S Bau,BFW de Leede,TP Ura,,0,2,2,,,,32180232180
+2,Papua New Guinea,13,S Bau,BFW de Leede,TP Ura,,0,1,1,,,,32180232180
+2,Papua New Guinea,13,TP Ura,BFW de Leede,S Bau,,0,1,1,,,,32180232180
+2,Papua New Guinea,13,TP Ura,BFW de Leede,S Bau,,0,0,0,caught,TP Ura,PA van Meekeren,32180232180
+2,Papua New Guinea,13,N Vanua,BFW de Leede,S Bau,,0,0,0,,,,32180232180
+2,Papua New Guinea,13,N Vanua,BFW de Leede,S Bau,,0,1,1,,,,32180232180
+2,Papua New Guinea,14,N Vanua,TJG Pringle,S Bau,,0,0,0,,,,32180232180
+2,Papua New Guinea,14,N Vanua,TJG Pringle,S Bau,,0,2,2,,,,32180232180
+2,Papua New Guinea,14,N Vanua,TJG Pringle,S Bau,,0,0,0,,,,32180232180
+2,Papua New Guinea,14,N Vanua,TJG Pringle,S Bau,,0,2,2,,,,32180232180
+2,Papua New Guinea,14,N Vanua,TJG Pringle,S Bau,,0,1,1,,,,32180232180
+2,Papua New Guinea,14,S Bau,TJG Pringle,N Vanua,,0,1,1,,,,32180232180
+2,Papua New Guinea,15,S Bau,PA van Meekeren,N Vanua,,0,2,2,,,,32180232180
+2,Papua New Guinea,15,S Bau,PA van Meekeren,N Vanua,,0,1,1,,,,32180232180
+2,Papua New Guinea,15,N Vanua,PA van Meekeren,S Bau,,0,1,1,,,,32180232180
+2,Papua New Guinea,15,S Bau,PA van Meekeren,N Vanua,wides,1,1,0,,,,32180232180
+2,Papua New Guinea,15,S Bau,PA van Meekeren,N Vanua,,0,2,2,,,,32180232180
+2,Papua New Guinea,15,S Bau,PA van Meekeren,N Vanua,wides,1,1,0,,,,32180232180
+2,Papua New Guinea,15,S Bau,PA van Meekeren,N Vanua,,0,1,1,,,,32180232180
+2,Papua New Guinea,15,N Vanua,PA van Meekeren,S Bau,,0,0,0,caught,N Vanua,SA Edwards,32180232180
+2,Papua New Guinea,16,S Bau,FJ Klaassen,R Hekure,,0,0,0,caught,S Bau,TJG Pringle,32180232180
+2,Papua New Guinea,16,R Hekure,FJ Klaassen,HGV Vare,,0,0,0,bowled,R Hekure,,32180232180
+2,Papua New Guinea,16,SK Atai,FJ Klaassen,HGV Vare,,0,0,0,,,,32180232180
+2,Papua New Guinea,16,SK Atai,FJ Klaassen,HGV Vare,,0,2,2,,,,32180232180
+2,Papua New Guinea,16,SK Atai,FJ Klaassen,HGV Vare,,0,0,0,,,,32180232180
+2,Papua New Guinea,16,SK Atai,FJ Klaassen,HGV Vare,,0,0,0,,,,32180232180
+2,Papua New Guinea,17,HGV Vare,LV van Beek,SK Atai,,0,0,0,,,,32180232180
+2,Papua New Guinea,17,HGV Vare,LV van Beek,SK Atai,,0,1,1,,,,32180232180
+2,Papua New Guinea,17,SK Atai,LV van Beek,HGV Vare,,0,0,0,caught,SK Atai,TLW Cooper,32180232180
+2,Papua New Guinea,17,HGV Vare,LV van Beek,D Ravu,,0,0,0,,,,32180232180
+2,Papua New Guinea,17,HGV Vare,LV van Beek,D Ravu,,0,3,3,,,,32180232180
+2,Papua New Guinea,17,D Ravu,LV van Beek,HGV Vare,,0,0,0,,,,32180232180
+2,Papua New Guinea,18,HGV Vare,FJ Klaassen,D Ravu,,0,1,1,,,,32180232180
+2,Papua New Guinea,18,D Ravu,FJ Klaassen,HGV Vare,,0,0,0,,,,32180232180
+2,Papua New Guinea,18,D Ravu,FJ Klaassen,HGV Vare,,0,0,0,,,,32180232180
+2,Papua New Guinea,18,D Ravu,FJ Klaassen,HGV Vare,legbyes,2,2,0,,,,32180232180
+2,Papua New Guinea,18,D Ravu,FJ Klaassen,HGV Vare,,0,4,4,,,,32180232180
+2,Papua New Guinea,18,D Ravu,FJ Klaassen,HGV Vare,,0,0,0,,,,32180232180
+2,Papua New Guinea,19,HGV Vare,LV van Beek,D Ravu,,0,0,0,,,,32180232180
+2,Papua New Guinea,19,HGV Vare,LV van Beek,D Ravu,,0,4,4,,,,32180232180
+2,Papua New Guinea,19,HGV Vare,LV van Beek,D Ravu,,0,0,0,bowled,HGV Vare,,32180232180
+2,Papua New Guinea,19,SI Kamea,LV van Beek,D Ravu,,0,0,0,run out,SI Kamea,LV van Beek,32180232180

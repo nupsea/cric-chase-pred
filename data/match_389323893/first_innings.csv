@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,India,0,M Raj,Jahanara Alam,S Mandhana,,0,1,1,,,,389323893
+1,India,0,S Mandhana,Jahanara Alam,M Raj,,0,1,1,,,,389323893
+1,India,0,M Raj,Jahanara Alam,S Mandhana,,0,0,0,,,,389323893
+1,India,0,M Raj,Jahanara Alam,S Mandhana,,0,1,1,,,,389323893
+1,India,0,S Mandhana,Jahanara Alam,M Raj,,0,1,1,,,,389323893
+1,India,0,M Raj,Jahanara Alam,S Mandhana,wides,2,2,0,,,,389323893
+1,India,0,S Mandhana,Jahanara Alam,M Raj,,0,0,0,,,,389323893
+1,India,1,M Raj,Salma Khatun,S Mandhana,,0,0,0,,,,389323893
+1,India,1,M Raj,Salma Khatun,S Mandhana,,0,4,4,,,,389323893
+1,India,1,M Raj,Salma Khatun,S Mandhana,,0,1,1,,,,389323893
+1,India,1,S Mandhana,Salma Khatun,M Raj,,0,0,0,lbw,S Mandhana,,389323893
+1,India,1,P Vastrakar,Salma Khatun,M Raj,,0,0,0,,,,389323893
+1,India,1,P Vastrakar,Salma Khatun,M Raj,,0,4,4,,,,389323893
+1,India,2,M Raj,Jahanara Alam,P Vastrakar,,0,0,0,,,,389323893
+1,India,2,M Raj,Jahanara Alam,P Vastrakar,wides,3,3,0,,,,389323893
+1,India,2,M Raj,Jahanara Alam,P Vastrakar,,0,4,4,,,,389323893
+1,India,2,M Raj,Jahanara Alam,P Vastrakar,,0,0,0,,,,389323893
+1,India,2,M Raj,Jahanara Alam,P Vastrakar,,0,4,4,,,,389323893
+1,India,2,M Raj,Jahanara Alam,P Vastrakar,,0,0,0,,,,389323893
+1,India,2,M Raj,Jahanara Alam,P Vastrakar,,0,0,0,,,,389323893
+1,India,3,P Vastrakar,Nahida Akter,M Raj,,0,0,0,,,,389323893
+1,India,3,P Vastrakar,Nahida Akter,M Raj,,0,0,0,run out,M Raj,,389323893
+1,India,3,P Vastrakar,Nahida Akter,H Kaur,,0,4,4,,,,389323893
+1,India,3,P Vastrakar,Nahida Akter,H Kaur,,0,4,4,,,,389323893
+1,India,3,P Vastrakar,Nahida Akter,H Kaur,,0,0,0,,,,389323893
+1,India,3,P Vastrakar,Nahida Akter,H Kaur,,0,0,0,,,,389323893
+1,India,4,H Kaur,Salma Khatun,P Vastrakar,,0,0,0,,,,389323893
+1,India,4,H Kaur,Salma Khatun,P Vastrakar,,0,4,4,,,,389323893
+1,India,4,H Kaur,Salma Khatun,P Vastrakar,,0,0,0,,,,389323893
+1,India,4,H Kaur,Salma Khatun,P Vastrakar,,0,1,1,,,,389323893
+1,India,4,P Vastrakar,Salma Khatun,H Kaur,,0,1,1,,,,389323893
+1,India,4,H Kaur,Salma Khatun,P Vastrakar,,0,0,0,,,,389323893
+1,India,5,P Vastrakar,Nahida Akter,H Kaur,,0,0,0,,,,389323893
+1,India,5,P Vastrakar,Nahida Akter,H Kaur,byes,4,4,0,,,,389323893
+1,India,5,P Vastrakar,Nahida Akter,H Kaur,,0,4,4,,,,389323893
+1,India,5,P Vastrakar,Nahida Akter,H Kaur,,0,0,0,,,,389323893
+1,India,5,P Vastrakar,Nahida Akter,H Kaur,,0,0,0,,,,389323893
+1,India,5,P Vastrakar,Nahida Akter,H Kaur,,0,0,0,,,,389323893
+1,India,6,H Kaur,Khadija Tul Kubra,P Vastrakar,,0,0,0,,,,389323893
+1,India,6,H Kaur,Khadija Tul Kubra,P Vastrakar,,0,4,4,,,,389323893
+1,India,6,H Kaur,Khadija Tul Kubra,P Vastrakar,,0,0,0,,,,389323893
+1,India,6,H Kaur,Khadija Tul Kubra,P Vastrakar,,0,4,4,,,,389323893
+1,India,6,H Kaur,Khadija Tul Kubra,P Vastrakar,,0,2,2,,,,389323893
+1,India,6,H Kaur,Khadija Tul Kubra,P Vastrakar,,0,0,0,,,,389323893
+1,India,7,P Vastrakar,Fahima Khatun,H Kaur,,0,1,1,,,,389323893
+1,India,7,H Kaur,Fahima Khatun,P Vastrakar,,0,1,1,,,,389323893
+1,India,7,P Vastrakar,Fahima Khatun,H Kaur,,0,0,0,,,,389323893
+1,India,7,P Vastrakar,Fahima Khatun,H Kaur,,0,1,1,,,,389323893
+1,India,7,H Kaur,Fahima Khatun,P Vastrakar,,0,2,2,,,,389323893
+1,India,7,H Kaur,Fahima Khatun,P Vastrakar,,0,1,1,,,,389323893
+1,India,8,H Kaur,Khadija Tul Kubra,P Vastrakar,,0,0,0,,,,389323893
+1,India,8,H Kaur,Khadija Tul Kubra,P Vastrakar,,0,4,4,,,,389323893
+1,India,8,H Kaur,Khadija Tul Kubra,P Vastrakar,,0,0,0,,,,389323893
+1,India,8,H Kaur,Khadija Tul Kubra,P Vastrakar,,0,1,1,,,,389323893
+1,India,8,P Vastrakar,Khadija Tul Kubra,H Kaur,,0,0,0,,,,389323893
+1,India,8,P Vastrakar,Khadija Tul Kubra,H Kaur,,0,1,1,run out,P Vastrakar,,389323893
+1,India,9,DB Sharma,Salma Khatun,H Kaur,,0,1,1,,,,389323893
+1,India,9,H Kaur,Salma Khatun,DB Sharma,,0,1,1,,,,389323893
+1,India,9,DB Sharma,Salma Khatun,H Kaur,,0,1,1,,,,389323893
+1,India,9,H Kaur,Salma Khatun,DB Sharma,,0,1,1,,,,389323893
+1,India,9,DB Sharma,Salma Khatun,H Kaur,,0,1,1,,,,389323893
+1,India,9,H Kaur,Salma Khatun,DB Sharma,,0,1,1,,,,389323893
+1,India,10,H Kaur,Fahima Khatun,DB Sharma,,0,1,1,,,,389323893
+1,India,10,DB Sharma,Fahima Khatun,H Kaur,,0,0,0,,,,389323893
+1,India,10,DB Sharma,Fahima Khatun,H Kaur,,0,4,4,,,,389323893
+1,India,10,DB Sharma,Fahima Khatun,H Kaur,,0,1,1,,,,389323893
+1,India,10,H Kaur,Fahima Khatun,DB Sharma,,0,0,0,,,,389323893
+1,India,10,H Kaur,Fahima Khatun,DB Sharma,,0,4,4,,,,389323893
+1,India,11,DB Sharma,Rumana Ahmed,H Kaur,,0,1,1,,,,389323893
+1,India,11,H Kaur,Rumana Ahmed,DB Sharma,,0,0,0,,,,389323893
+1,India,11,H Kaur,Rumana Ahmed,DB Sharma,,0,1,1,,,,389323893
+1,India,11,DB Sharma,Rumana Ahmed,H Kaur,,0,0,0,,,,389323893
+1,India,11,DB Sharma,Rumana Ahmed,H Kaur,,0,0,0,,,,389323893
+1,India,11,DB Sharma,Rumana Ahmed,H Kaur,,0,0,0,,,,389323893
+1,India,12,H Kaur,Jahanara Alam,DB Sharma,,0,0,0,,,,389323893
+1,India,12,H Kaur,Jahanara Alam,DB Sharma,,0,4,4,,,,389323893
+1,India,12,H Kaur,Jahanara Alam,DB Sharma,,0,0,0,,,,389323893
+1,India,12,H Kaur,Jahanara Alam,DB Sharma,,0,1,1,,,,389323893
+1,India,12,DB Sharma,Jahanara Alam,H Kaur,,0,1,1,,,,389323893
+1,India,12,H Kaur,Jahanara Alam,DB Sharma,,0,0,0,,,,389323893
+1,India,13,DB Sharma,Rumana Ahmed,H Kaur,,0,1,1,,,,389323893
+1,India,13,H Kaur,Rumana Ahmed,DB Sharma,,0,2,2,,,,389323893
+1,India,13,H Kaur,Rumana Ahmed,DB Sharma,,0,1,1,,,,389323893
+1,India,13,DB Sharma,Rumana Ahmed,H Kaur,,0,1,1,,,,389323893
+1,India,13,H Kaur,Rumana Ahmed,DB Sharma,,0,0,0,,,,389323893
+1,India,13,H Kaur,Rumana Ahmed,DB Sharma,wides,1,1,0,,,,389323893
+1,India,13,H Kaur,Rumana Ahmed,DB Sharma,,0,0,0,,,,389323893
+1,India,14,DB Sharma,Jahanara Alam,H Kaur,,0,4,4,,,,389323893
+1,India,14,DB Sharma,Jahanara Alam,H Kaur,,0,0,0,,,,389323893
+1,India,14,DB Sharma,Jahanara Alam,H Kaur,,0,1,1,,,,389323893
+1,India,14,H Kaur,Jahanara Alam,DB Sharma,,0,1,1,,,,389323893
+1,India,14,DB Sharma,Jahanara Alam,H Kaur,,0,4,4,,,,389323893
+1,India,14,DB Sharma,Jahanara Alam,H Kaur,,0,1,1,,,,389323893
+1,India,15,DB Sharma,Rumana Ahmed,H Kaur,,0,4,4,,,,389323893
+1,India,15,DB Sharma,Rumana Ahmed,H Kaur,,0,0,0,,,,389323893
+1,India,15,DB Sharma,Rumana Ahmed,H Kaur,,0,0,0,,,,389323893
+1,India,15,DB Sharma,Rumana Ahmed,H Kaur,,0,4,4,,,,389323893
+1,India,15,DB Sharma,Rumana Ahmed,H Kaur,,0,1,1,,,,389323893
+1,India,15,H Kaur,Rumana Ahmed,DB Sharma,,0,0,0,caught,H Kaur,Jahanara Alam,389323893
+1,India,16,DB Sharma,Nahida Akter,MR Meshram,,0,0,0,,,,389323893
+1,India,16,DB Sharma,Nahida Akter,MR Meshram,,0,0,0,,,,389323893
+1,India,16,DB Sharma,Nahida Akter,MR Meshram,,0,0,0,,,,389323893
+1,India,16,DB Sharma,Nahida Akter,MR Meshram,,0,1,1,,,,389323893
+1,India,16,MR Meshram,Nahida Akter,DB Sharma,,0,0,0,,,,389323893
+1,India,16,MR Meshram,Nahida Akter,DB Sharma,,0,0,0,,,,389323893
+1,India,17,DB Sharma,Rumana Ahmed,MR Meshram,,0,0,0,bowled,DB Sharma,,389323893
+1,India,17,AA Patil,Rumana Ahmed,MR Meshram,,0,1,1,,,,389323893
+1,India,17,MR Meshram,Rumana Ahmed,AA Patil,,0,1,1,,,,389323893
+1,India,17,AA Patil,Rumana Ahmed,MR Meshram,,0,0,0,caught and bowled,AA Patil,,389323893
+1,India,17,J Goswami,Rumana Ahmed,MR Meshram,,0,1,1,,,,389323893
+1,India,17,MR Meshram,Rumana Ahmed,J Goswami,,0,1,1,,,,389323893
+1,India,18,MR Meshram,Nahida Akter,J Goswami,,0,4,4,,,,389323893
+1,India,18,MR Meshram,Nahida Akter,J Goswami,,0,1,1,,,,389323893
+1,India,18,J Goswami,Nahida Akter,MR Meshram,,0,1,1,,,,389323893
+1,India,18,MR Meshram,Nahida Akter,J Goswami,,0,1,1,,,,389323893
+1,India,18,J Goswami,Nahida Akter,MR Meshram,,0,1,1,,,,389323893
+1,India,18,MR Meshram,Nahida Akter,J Goswami,,0,0,0,,,,389323893
+1,India,19,J Goswami,Khadija Tul Kubra,MR Meshram,,0,1,1,,,,389323893
+1,India,19,MR Meshram,Khadija Tul Kubra,J Goswami,,0,0,0,run out,J Goswami,,389323893
+1,India,19,MR Meshram,Khadija Tul Kubra,T Bhatia,,0,1,1,,,,389323893
+1,India,19,T Bhatia,Khadija Tul Kubra,MR Meshram,,0,1,1,,,,389323893
+1,India,19,MR Meshram,Khadija Tul Kubra,T Bhatia,,0,4,4,,,,389323893
+1,India,19,MR Meshram,Khadija Tul Kubra,T Bhatia,,0,1,1,,,,389323893

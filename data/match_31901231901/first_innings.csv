@@ -1,0 +1,108 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Scotland,0,SJ Bryce,Salma Khatun,A Aitken,,0,0,0,,,,31901231901
+1,Scotland,0,SJ Bryce,Salma Khatun,A Aitken,,0,1,1,,,,31901231901
+1,Scotland,0,A Aitken,Salma Khatun,SJ Bryce,,0,0,0,,,,31901231901
+1,Scotland,0,A Aitken,Salma Khatun,SJ Bryce,,0,0,0,,,,31901231901
+1,Scotland,0,A Aitken,Salma Khatun,SJ Bryce,,0,1,1,,,,31901231901
+1,Scotland,0,SJ Bryce,Salma Khatun,A Aitken,,0,0,0,,,,31901231901
+1,Scotland,1,A Aitken,Suraiya Azmin,SJ Bryce,,0,0,0,,,,31901231901
+1,Scotland,1,A Aitken,Suraiya Azmin,SJ Bryce,,0,4,4,,,,31901231901
+1,Scotland,1,A Aitken,Suraiya Azmin,SJ Bryce,,0,0,0,caught and bowled,A Aitken,,31901231901
+1,Scotland,1,KE Bryce,Suraiya Azmin,SJ Bryce,,0,0,0,,,,31901231901
+1,Scotland,1,KE Bryce,Suraiya Azmin,SJ Bryce,,0,0,0,,,,31901231901
+1,Scotland,1,KE Bryce,Suraiya Azmin,SJ Bryce,,0,0,0,,,,31901231901
+1,Scotland,2,SJ Bryce,Salma Khatun,KE Bryce,,0,1,1,,,,31901231901
+1,Scotland,2,KE Bryce,Salma Khatun,SJ Bryce,,0,1,1,,,,31901231901
+1,Scotland,2,SJ Bryce,Salma Khatun,KE Bryce,,0,1,1,,,,31901231901
+1,Scotland,2,KE Bryce,Salma Khatun,SJ Bryce,,0,1,1,,,,31901231901
+1,Scotland,2,SJ Bryce,Salma Khatun,KE Bryce,,0,0,0,,,,31901231901
+1,Scotland,2,SJ Bryce,Salma Khatun,KE Bryce,,0,2,2,,,,31901231901
+1,Scotland,3,KE Bryce,Suraiya Azmin,SJ Bryce,,0,0,0,,,,31901231901
+1,Scotland,3,KE Bryce,Suraiya Azmin,SJ Bryce,,0,0,0,,,,31901231901
+1,Scotland,3,KE Bryce,Suraiya Azmin,SJ Bryce,,0,0,0,,,,31901231901
+1,Scotland,3,KE Bryce,Suraiya Azmin,SJ Bryce,,0,0,0,caught,KE Bryce,Sanjida Akter Meghla,31901231901
+1,Scotland,3,SJ Bryce,Suraiya Azmin,K McGill,,0,0,0,,,,31901231901
+1,Scotland,3,SJ Bryce,Suraiya Azmin,K McGill,,0,0,0,,,,31901231901
+1,Scotland,4,K McGill,Nahida Akter,SJ Bryce,,0,0,0,,,,31901231901
+1,Scotland,4,K McGill,Nahida Akter,SJ Bryce,,0,2,2,,,,31901231901
+1,Scotland,4,K McGill,Nahida Akter,SJ Bryce,,0,4,4,,,,31901231901
+1,Scotland,4,K McGill,Nahida Akter,SJ Bryce,,0,1,1,,,,31901231901
+1,Scotland,4,SJ Bryce,Nahida Akter,K McGill,,0,4,4,,,,31901231901
+1,Scotland,4,SJ Bryce,Nahida Akter,K McGill,,0,1,1,,,,31901231901
+1,Scotland,5,SJ Bryce,Suraiya Azmin,K McGill,,0,4,4,,,,31901231901
+1,Scotland,5,SJ Bryce,Suraiya Azmin,K McGill,,0,2,2,,,,31901231901
+1,Scotland,5,SJ Bryce,Suraiya Azmin,K McGill,,0,1,1,,,,31901231901
+1,Scotland,5,K McGill,Suraiya Azmin,SJ Bryce,,0,0,0,,,,31901231901
+1,Scotland,5,K McGill,Suraiya Azmin,SJ Bryce,,0,1,1,,,,31901231901
+1,Scotland,5,SJ Bryce,Suraiya Azmin,K McGill,,0,0,0,,,,31901231901
+1,Scotland,6,K McGill,Rumana Ahmed,SJ Bryce,wides,1,1,0,,,,31901231901
+1,Scotland,6,K McGill,Rumana Ahmed,SJ Bryce,,0,1,1,,,,31901231901
+1,Scotland,6,SJ Bryce,Rumana Ahmed,K McGill,,0,1,1,,,,31901231901
+1,Scotland,6,K McGill,Rumana Ahmed,SJ Bryce,,0,4,4,,,,31901231901
+1,Scotland,6,K McGill,Rumana Ahmed,SJ Bryce,,0,4,4,,,,31901231901
+1,Scotland,6,K McGill,Rumana Ahmed,SJ Bryce,,0,0,0,,,,31901231901
+1,Scotland,6,K McGill,Rumana Ahmed,SJ Bryce,,0,4,4,,,,31901231901
+1,Scotland,7,SJ Bryce,Nahida Akter,K McGill,,0,0,0,,,,31901231901
+1,Scotland,7,SJ Bryce,Nahida Akter,K McGill,,0,1,1,,,,31901231901
+1,Scotland,7,K McGill,Nahida Akter,SJ Bryce,,0,1,1,,,,31901231901
+1,Scotland,7,SJ Bryce,Nahida Akter,K McGill,,0,1,1,,,,31901231901
+1,Scotland,7,K McGill,Nahida Akter,SJ Bryce,,0,0,0,bowled,K McGill,,31901231901
+1,Scotland,7,L Jack,Nahida Akter,SJ Bryce,,0,0,0,,,,31901231901
+1,Scotland,8,SJ Bryce,Ritu Moni,L Jack,,0,1,1,,,,31901231901
+1,Scotland,8,L Jack,Ritu Moni,SJ Bryce,,0,1,1,,,,31901231901
+1,Scotland,8,SJ Bryce,Ritu Moni,L Jack,,0,1,1,,,,31901231901
+1,Scotland,8,L Jack,Ritu Moni,SJ Bryce,,0,0,0,,,,31901231901
+1,Scotland,8,L Jack,Ritu Moni,SJ Bryce,,0,0,0,,,,31901231901
+1,Scotland,8,L Jack,Ritu Moni,SJ Bryce,,0,0,0,,,,31901231901
+1,Scotland,9,SJ Bryce,Nahida Akter,L Jack,,0,1,1,,,,31901231901
+1,Scotland,9,L Jack,Nahida Akter,SJ Bryce,,0,0,0,,,,31901231901
+1,Scotland,9,L Jack,Nahida Akter,SJ Bryce,,0,1,1,,,,31901231901
+1,Scotland,9,SJ Bryce,Nahida Akter,L Jack,,0,2,2,,,,31901231901
+1,Scotland,9,SJ Bryce,Nahida Akter,L Jack,,0,1,1,,,,31901231901
+1,Scotland,9,L Jack,Nahida Akter,SJ Bryce,,0,0,0,bowled,L Jack,,31901231901
+1,Scotland,10,SJ Bryce,Ritu Moni,A Lister,,0,0,0,,,,31901231901
+1,Scotland,10,SJ Bryce,Ritu Moni,A Lister,,0,1,1,,,,31901231901
+1,Scotland,10,A Lister,Ritu Moni,SJ Bryce,,0,0,0,,,,31901231901
+1,Scotland,10,A Lister,Ritu Moni,SJ Bryce,,0,1,1,,,,31901231901
+1,Scotland,10,SJ Bryce,Ritu Moni,A Lister,,0,0,0,,,,31901231901
+1,Scotland,10,SJ Bryce,Ritu Moni,A Lister,,0,1,1,,,,31901231901
+1,Scotland,11,SJ Bryce,Sanjida Akter Meghla,A Lister,,0,0,0,,,,31901231901
+1,Scotland,11,SJ Bryce,Sanjida Akter Meghla,A Lister,,0,1,1,,,,31901231901
+1,Scotland,11,A Lister,Sanjida Akter Meghla,SJ Bryce,,0,1,1,,,,31901231901
+1,Scotland,11,SJ Bryce,Sanjida Akter Meghla,A Lister,,0,0,0,,,,31901231901
+1,Scotland,11,SJ Bryce,Sanjida Akter Meghla,A Lister,,0,0,0,caught,SJ Bryce,Nahida Akter,31901231901
+1,Scotland,11,A Lister,Sanjida Akter Meghla,R Slater,,0,0,0,,,,31901231901
+1,Scotland,12,R Slater,Ritu Moni,A Lister,,0,0,0,,,,31901231901
+1,Scotland,12,R Slater,Ritu Moni,A Lister,,0,0,0,,,,31901231901
+1,Scotland,12,R Slater,Ritu Moni,A Lister,,0,2,2,,,,31901231901
+1,Scotland,12,R Slater,Ritu Moni,A Lister,,0,0,0,,,,31901231901
+1,Scotland,12,R Slater,Ritu Moni,A Lister,,0,1,1,,,,31901231901
+1,Scotland,12,A Lister,Ritu Moni,R Slater,,0,1,1,,,,31901231901
+1,Scotland,13,A Lister,Sanjida Akter Meghla,R Slater,,0,1,1,,,,31901231901
+1,Scotland,13,R Slater,Sanjida Akter Meghla,A Lister,,0,1,1,,,,31901231901
+1,Scotland,13,A Lister,Sanjida Akter Meghla,R Slater,,0,1,1,,,,31901231901
+1,Scotland,13,R Slater,Sanjida Akter Meghla,A Lister,,0,0,0,,,,31901231901
+1,Scotland,13,R Slater,Sanjida Akter Meghla,A Lister,,0,0,0,run out,A Lister,Ritu Moni,31901231901
+1,Scotland,13,CM Scott,Sanjida Akter Meghla,R Slater,,0,0,0,,,,31901231901
+1,Scotland,14,R Slater,Ritu Moni,CM Scott,,0,0,0,,,,31901231901
+1,Scotland,14,R Slater,Ritu Moni,CM Scott,,0,0,0,,,,31901231901
+1,Scotland,14,R Slater,Ritu Moni,CM Scott,,0,0,0,caught and bowled,R Slater,,31901231901
+1,Scotland,14,K Fraser,Ritu Moni,CM Scott,,0,0,0,,,,31901231901
+1,Scotland,14,K Fraser,Ritu Moni,CM Scott,,0,0,0,,,,31901231901
+1,Scotland,14,K Fraser,Ritu Moni,CM Scott,,0,0,0,,,,31901231901
+1,Scotland,15,CM Scott,Sanjida Akter Meghla,K Fraser,,0,1,1,,,,31901231901
+1,Scotland,15,K Fraser,Sanjida Akter Meghla,CM Scott,,0,1,1,,,,31901231901
+1,Scotland,15,CM Scott,Sanjida Akter Meghla,K Fraser,,0,1,1,,,,31901231901
+1,Scotland,15,K Fraser,Sanjida Akter Meghla,CM Scott,,0,0,0,,,,31901231901
+1,Scotland,15,K Fraser,Sanjida Akter Meghla,CM Scott,,0,2,2,,,,31901231901
+1,Scotland,15,K Fraser,Sanjida Akter Meghla,CM Scott,,0,1,1,,,,31901231901
+1,Scotland,16,K Fraser,Salma Khatun,CM Scott,,0,0,0,,,,31901231901
+1,Scotland,16,K Fraser,Salma Khatun,CM Scott,,0,0,0,caught,K Fraser,Nahida Akter,31901231901
+1,Scotland,16,CM Scott,Salma Khatun,HRA Rainey,,0,0,0,,,,31901231901
+1,Scotland,16,CM Scott,Salma Khatun,HRA Rainey,,0,0,0,,,,31901231901
+1,Scotland,16,CM Scott,Salma Khatun,HRA Rainey,,0,0,0,lbw,CM Scott,,31901231901
+1,Scotland,16,AH Maqsood,Salma Khatun,HRA Rainey,wides,1,1,0,,,,31901231901
+1,Scotland,16,AH Maqsood,Salma Khatun,HRA Rainey,,0,0,0,,,,31901231901
+1,Scotland,17,HRA Rainey,Sanjida Akter Meghla,AH Maqsood,,0,0,0,,,,31901231901
+1,Scotland,17,HRA Rainey,Sanjida Akter Meghla,AH Maqsood,,0,0,0,,,,31901231901
+1,Scotland,17,HRA Rainey,Sanjida Akter Meghla,AH Maqsood,,0,0,0,bowled,HRA Rainey,,31901231901

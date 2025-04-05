@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,RR Hendricks,Shoaib Malik,GL Cloete,,0,0,0,,,,384223842
+1,South Africa,0,RR Hendricks,Shoaib Malik,GL Cloete,,0,0,0,,,,384223842
+1,South Africa,0,RR Hendricks,Shoaib Malik,GL Cloete,,0,1,1,,,,384223842
+1,South Africa,0,GL Cloete,Shoaib Malik,RR Hendricks,,0,4,4,,,,384223842
+1,South Africa,0,GL Cloete,Shoaib Malik,RR Hendricks,,0,1,1,,,,384223842
+1,South Africa,0,RR Hendricks,Shoaib Malik,GL Cloete,,0,6,6,,,,384223842
+1,South Africa,1,GL Cloete,Imad Wasim,RR Hendricks,,0,0,0,,,,384223842
+1,South Africa,1,GL Cloete,Imad Wasim,RR Hendricks,,0,1,1,,,,384223842
+1,South Africa,1,RR Hendricks,Imad Wasim,GL Cloete,,0,1,1,,,,384223842
+1,South Africa,1,GL Cloete,Imad Wasim,RR Hendricks,,0,4,4,,,,384223842
+1,South Africa,1,GL Cloete,Imad Wasim,RR Hendricks,,0,0,0,,,,384223842
+1,South Africa,1,GL Cloete,Imad Wasim,RR Hendricks,,0,1,1,,,,384223842
+1,South Africa,2,GL Cloete,Hasan Ali,RR Hendricks,,0,0,0,,,,384223842
+1,South Africa,2,GL Cloete,Hasan Ali,RR Hendricks,,0,1,1,,,,384223842
+1,South Africa,2,RR Hendricks,Hasan Ali,GL Cloete,,0,4,4,,,,384223842
+1,South Africa,2,RR Hendricks,Hasan Ali,GL Cloete,,0,1,1,,,,384223842
+1,South Africa,2,GL Cloete,Hasan Ali,RR Hendricks,,0,0,0,,,,384223842
+1,South Africa,2,GL Cloete,Hasan Ali,RR Hendricks,,0,1,1,,,,384223842
+1,South Africa,3,GL Cloete,Imad Wasim,RR Hendricks,,0,0,0,caught,GL Cloete,Fakhar Zaman,384223842
+1,South Africa,3,F du Plessis,Imad Wasim,RR Hendricks,,0,0,0,,,,384223842
+1,South Africa,3,F du Plessis,Imad Wasim,RR Hendricks,,0,0,0,,,,384223842
+1,South Africa,3,F du Plessis,Imad Wasim,RR Hendricks,,0,0,0,,,,384223842
+1,South Africa,3,F du Plessis,Imad Wasim,RR Hendricks,,0,1,1,,,,384223842
+1,South Africa,3,RR Hendricks,Imad Wasim,F du Plessis,,0,0,0,,,,384223842
+1,South Africa,4,F du Plessis,Hasan Ali,RR Hendricks,,0,2,2,,,,384223842
+1,South Africa,4,F du Plessis,Hasan Ali,RR Hendricks,,0,4,4,,,,384223842
+1,South Africa,4,F du Plessis,Hasan Ali,RR Hendricks,,0,4,4,,,,384223842
+1,South Africa,4,F du Plessis,Hasan Ali,RR Hendricks,,0,0,0,,,,384223842
+1,South Africa,4,F du Plessis,Hasan Ali,RR Hendricks,,0,1,1,,,,384223842
+1,South Africa,4,RR Hendricks,Hasan Ali,F du Plessis,,0,1,1,,,,384223842
+1,South Africa,5,RR Hendricks,Imad Wasim,F du Plessis,,0,1,1,,,,384223842
+1,South Africa,5,F du Plessis,Imad Wasim,RR Hendricks,,0,0,0,,,,384223842
+1,South Africa,5,F du Plessis,Imad Wasim,RR Hendricks,,0,1,1,,,,384223842
+1,South Africa,5,RR Hendricks,Imad Wasim,F du Plessis,,0,4,4,,,,384223842
+1,South Africa,5,RR Hendricks,Imad Wasim,F du Plessis,,0,1,1,,,,384223842
+1,South Africa,5,F du Plessis,Imad Wasim,RR Hendricks,,0,2,2,,,,384223842
+1,South Africa,6,RR Hendricks,Faheem Ashraf,F du Plessis,,0,2,2,,,,384223842
+1,South Africa,6,RR Hendricks,Faheem Ashraf,F du Plessis,,0,1,1,,,,384223842
+1,South Africa,6,F du Plessis,Faheem Ashraf,RR Hendricks,,0,6,6,,,,384223842
+1,South Africa,6,F du Plessis,Faheem Ashraf,RR Hendricks,,0,0,0,,,,384223842
+1,South Africa,6,F du Plessis,Faheem Ashraf,RR Hendricks,,0,4,4,,,,384223842
+1,South Africa,6,F du Plessis,Faheem Ashraf,RR Hendricks,,0,1,1,,,,384223842
+1,South Africa,7,F du Plessis,Imad Wasim,RR Hendricks,,0,1,1,,,,384223842
+1,South Africa,7,RR Hendricks,Imad Wasim,F du Plessis,,0,1,1,,,,384223842
+1,South Africa,7,F du Plessis,Imad Wasim,RR Hendricks,,0,2,2,,,,384223842
+1,South Africa,7,F du Plessis,Imad Wasim,RR Hendricks,,0,0,0,,,,384223842
+1,South Africa,7,F du Plessis,Imad Wasim,RR Hendricks,,0,1,1,,,,384223842
+1,South Africa,7,RR Hendricks,Imad Wasim,F du Plessis,,0,1,1,,,,384223842
+1,South Africa,8,RR Hendricks,Shadab Khan,F du Plessis,,0,1,1,,,,384223842
+1,South Africa,8,F du Plessis,Shadab Khan,RR Hendricks,,0,1,1,,,,384223842
+1,South Africa,8,RR Hendricks,Shadab Khan,F du Plessis,,0,1,1,,,,384223842
+1,South Africa,8,F du Plessis,Shadab Khan,RR Hendricks,,0,4,4,,,,384223842
+1,South Africa,8,F du Plessis,Shadab Khan,RR Hendricks,,0,2,2,,,,384223842
+1,South Africa,8,F du Plessis,Shadab Khan,RR Hendricks,,0,2,2,,,,384223842
+1,South Africa,9,RR Hendricks,Usman Shinwari,F du Plessis,,0,1,1,,,,384223842
+1,South Africa,9,F du Plessis,Usman Shinwari,RR Hendricks,,0,0,0,,,,384223842
+1,South Africa,9,F du Plessis,Usman Shinwari,RR Hendricks,,0,1,1,,,,384223842
+1,South Africa,9,RR Hendricks,Usman Shinwari,F du Plessis,legbyes,4,4,0,,,,384223842
+1,South Africa,9,RR Hendricks,Usman Shinwari,F du Plessis,,0,2,2,,,,384223842
+1,South Africa,9,RR Hendricks,Usman Shinwari,F du Plessis,,0,1,1,,,,384223842
+1,South Africa,10,RR Hendricks,Faheem Ashraf,F du Plessis,,0,0,0,,,,384223842
+1,South Africa,10,RR Hendricks,Faheem Ashraf,F du Plessis,,0,4,4,,,,384223842
+1,South Africa,10,RR Hendricks,Faheem Ashraf,F du Plessis,,0,1,1,,,,384223842
+1,South Africa,10,F du Plessis,Faheem Ashraf,RR Hendricks,,0,0,0,,,,384223842
+1,South Africa,10,F du Plessis,Faheem Ashraf,RR Hendricks,,0,6,6,,,,384223842
+1,South Africa,10,F du Plessis,Faheem Ashraf,RR Hendricks,,0,4,4,,,,384223842
+1,South Africa,11,RR Hendricks,Usman Shinwari,F du Plessis,,0,6,6,,,,384223842
+1,South Africa,11,RR Hendricks,Usman Shinwari,F du Plessis,,0,1,1,,,,384223842
+1,South Africa,11,F du Plessis,Usman Shinwari,RR Hendricks,,0,0,0,,,,384223842
+1,South Africa,11,F du Plessis,Usman Shinwari,RR Hendricks,,0,1,1,,,,384223842
+1,South Africa,11,RR Hendricks,Usman Shinwari,F du Plessis,,0,4,4,,,,384223842
+1,South Africa,11,RR Hendricks,Usman Shinwari,F du Plessis,,0,1,1,,,,384223842
+1,South Africa,12,RR Hendricks,Shadab Khan,F du Plessis,,0,1,1,,,,384223842
+1,South Africa,12,F du Plessis,Shadab Khan,RR Hendricks,,0,2,2,,,,384223842
+1,South Africa,12,F du Plessis,Shadab Khan,RR Hendricks,,0,0,0,,,,384223842
+1,South Africa,12,F du Plessis,Shadab Khan,RR Hendricks,,0,6,6,,,,384223842
+1,South Africa,12,F du Plessis,Shadab Khan,RR Hendricks,,0,2,2,,,,384223842
+1,South Africa,12,F du Plessis,Shadab Khan,RR Hendricks,,0,1,1,,,,384223842
+1,South Africa,13,F du Plessis,Hussain Talat,RR Hendricks,wides,1,1,0,,,,384223842
+1,South Africa,13,F du Plessis,Hussain Talat,RR Hendricks,,0,4,4,,,,384223842
+1,South Africa,13,F du Plessis,Hussain Talat,RR Hendricks,,0,1,1,,,,384223842
+1,South Africa,13,RR Hendricks,Hussain Talat,F du Plessis,,0,1,1,,,,384223842
+1,South Africa,13,F du Plessis,Hussain Talat,RR Hendricks,,0,2,2,,,,384223842
+1,South Africa,13,F du Plessis,Hussain Talat,RR Hendricks,,0,1,1,,,,384223842
+1,South Africa,13,RR Hendricks,Hussain Talat,F du Plessis,,0,4,4,,,,384223842
+1,South Africa,14,F du Plessis,Shadab Khan,RR Hendricks,,0,6,6,,,,384223842
+1,South Africa,14,F du Plessis,Shadab Khan,RR Hendricks,,0,1,1,,,,384223842
+1,South Africa,14,RR Hendricks,Shadab Khan,F du Plessis,,0,1,1,,,,384223842
+1,South Africa,14,F du Plessis,Shadab Khan,RR Hendricks,,0,1,1,,,,384223842
+1,South Africa,14,RR Hendricks,Shadab Khan,F du Plessis,,0,4,4,,,,384223842
+1,South Africa,14,RR Hendricks,Shadab Khan,F du Plessis,,0,2,2,,,,384223842
+1,South Africa,15,F du Plessis,Usman Shinwari,RR Hendricks,,0,0,0,,,,384223842
+1,South Africa,15,F du Plessis,Usman Shinwari,RR Hendricks,,0,0,0,caught,F du Plessis,Shoaib Malik,384223842
+1,South Africa,15,HE van der Dussen,Usman Shinwari,RR Hendricks,,0,0,0,,,,384223842
+1,South Africa,15,HE van der Dussen,Usman Shinwari,RR Hendricks,,0,0,0,caught,HE van der Dussen,Mohammad Rizwan,384223842
+1,South Africa,15,DA Miller,Usman Shinwari,RR Hendricks,,0,0,0,,,,384223842
+1,South Africa,15,DA Miller,Usman Shinwari,RR Hendricks,,0,1,1,,,,384223842
+1,South Africa,16,DA Miller,Hasan Ali,RR Hendricks,,0,0,0,,,,384223842
+1,South Africa,16,DA Miller,Hasan Ali,RR Hendricks,,0,1,1,,,,384223842
+1,South Africa,16,RR Hendricks,Hasan Ali,DA Miller,,0,2,2,,,,384223842
+1,South Africa,16,RR Hendricks,Hasan Ali,DA Miller,,0,1,1,,,,384223842
+1,South Africa,16,DA Miller,Hasan Ali,RR Hendricks,,0,2,2,,,,384223842
+1,South Africa,16,DA Miller,Hasan Ali,RR Hendricks,,0,2,2,,,,384223842
+1,South Africa,17,RR Hendricks,Usman Shinwari,DA Miller,,0,2,2,,,,384223842
+1,South Africa,17,RR Hendricks,Usman Shinwari,DA Miller,,0,4,4,,,,384223842
+1,South Africa,17,RR Hendricks,Usman Shinwari,DA Miller,,0,4,4,,,,384223842
+1,South Africa,17,RR Hendricks,Usman Shinwari,DA Miller,,0,0,0,caught,RR Hendricks,Shadab Khan,384223842
+1,South Africa,17,DA Miller,Usman Shinwari,CH Morris,,0,1,1,,,,384223842
+1,South Africa,17,CH Morris,Usman Shinwari,DA Miller,,0,1,1,,,,384223842
+1,South Africa,18,CH Morris,Hasan Ali,DA Miller,,0,0,0,caught,CH Morris,Babar Azam,384223842
+1,South Africa,18,DA Miller,Hasan Ali,H Klaasen,,0,1,1,,,,384223842
+1,South Africa,18,H Klaasen,Hasan Ali,DA Miller,,0,1,1,,,,384223842
+1,South Africa,18,DA Miller,Hasan Ali,H Klaasen,noballs,1,2,1,,,,384223842
+1,South Africa,18,H Klaasen,Hasan Ali,DA Miller,,0,1,1,,,,384223842
+1,South Africa,18,DA Miller,Hasan Ali,H Klaasen,,0,1,1,,,,384223842
+1,South Africa,18,H Klaasen,Hasan Ali,DA Miller,,0,1,1,,,,384223842
+1,South Africa,19,H Klaasen,Faheem Ashraf,DA Miller,,0,1,1,,,,384223842
+1,South Africa,19,DA Miller,Faheem Ashraf,H Klaasen,,0,0,0,,,,384223842
+1,South Africa,19,DA Miller,Faheem Ashraf,H Klaasen,,0,0,0,caught,DA Miller,Babar Azam,384223842
+1,South Africa,19,AL Phehlukwayo,Faheem Ashraf,H Klaasen,,0,1,1,,,,384223842
+1,South Africa,19,H Klaasen,Faheem Ashraf,AL Phehlukwayo,,0,1,1,,,,384223842
+1,South Africa,19,AL Phehlukwayo,Faheem Ashraf,H Klaasen,,0,4,4,,,,384223842

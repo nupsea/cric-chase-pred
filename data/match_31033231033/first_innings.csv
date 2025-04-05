@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Sri Lanka,0,U Thimashini,DB Sharma,AC Jayangani,,0,0,0,,,,31033231033
+1,Sri Lanka,0,U Thimashini,DB Sharma,AC Jayangani,,0,1,1,,,,31033231033
+1,Sri Lanka,0,AC Jayangani,DB Sharma,U Thimashini,,0,0,0,,,,31033231033
+1,Sri Lanka,0,AC Jayangani,DB Sharma,U Thimashini,,0,4,4,,,,31033231033
+1,Sri Lanka,0,AC Jayangani,DB Sharma,U Thimashini,,0,0,0,,,,31033231033
+1,Sri Lanka,0,AC Jayangani,DB Sharma,U Thimashini,,0,1,1,,,,31033231033
+1,Sri Lanka,1,AC Jayangani,S Pandey,U Thimashini,,0,0,0,,,,31033231033
+1,Sri Lanka,1,AC Jayangani,S Pandey,U Thimashini,,0,0,0,,,,31033231033
+1,Sri Lanka,1,AC Jayangani,S Pandey,U Thimashini,,0,1,1,,,,31033231033
+1,Sri Lanka,1,U Thimashini,S Pandey,AC Jayangani,,0,0,0,,,,31033231033
+1,Sri Lanka,1,U Thimashini,S Pandey,AC Jayangani,,0,1,1,,,,31033231033
+1,Sri Lanka,1,AC Jayangani,S Pandey,U Thimashini,,0,4,4,,,,31033231033
+1,Sri Lanka,2,U Thimashini,DB Sharma,AC Jayangani,,0,0,0,caught,U Thimashini,RS Gayakwad,31033231033
+1,Sri Lanka,2,AC Jayangani,DB Sharma,H Madavi,,0,1,1,,,,31033231033
+1,Sri Lanka,2,H Madavi,DB Sharma,AC Jayangani,,0,0,0,,,,31033231033
+1,Sri Lanka,2,H Madavi,DB Sharma,AC Jayangani,,0,0,0,,,,31033231033
+1,Sri Lanka,2,H Madavi,DB Sharma,AC Jayangani,,0,1,1,,,,31033231033
+1,Sri Lanka,2,AC Jayangani,DB Sharma,H Madavi,,0,0,0,,,,31033231033
+1,Sri Lanka,3,H Madavi,S Pandey,AC Jayangani,,0,4,4,,,,31033231033
+1,Sri Lanka,3,H Madavi,S Pandey,AC Jayangani,,0,0,0,,,,31033231033
+1,Sri Lanka,3,H Madavi,S Pandey,AC Jayangani,,0,1,1,,,,31033231033
+1,Sri Lanka,3,AC Jayangani,S Pandey,H Madavi,,0,1,1,,,,31033231033
+1,Sri Lanka,3,H Madavi,S Pandey,AC Jayangani,,0,1,1,,,,31033231033
+1,Sri Lanka,3,AC Jayangani,S Pandey,H Madavi,,0,4,4,,,,31033231033
+1,Sri Lanka,4,H Madavi,RS Gayakwad,AC Jayangani,,0,1,1,,,,31033231033
+1,Sri Lanka,4,AC Jayangani,RS Gayakwad,H Madavi,,0,0,0,,,,31033231033
+1,Sri Lanka,4,AC Jayangani,RS Gayakwad,H Madavi,,0,4,4,,,,31033231033
+1,Sri Lanka,4,AC Jayangani,RS Gayakwad,H Madavi,,0,0,0,,,,31033231033
+1,Sri Lanka,4,AC Jayangani,RS Gayakwad,H Madavi,,0,2,2,,,,31033231033
+1,Sri Lanka,4,AC Jayangani,RS Gayakwad,H Madavi,,0,0,0,,,,31033231033
+1,Sri Lanka,5,H Madavi,DB Sharma,AC Jayangani,,0,0,0,,,,31033231033
+1,Sri Lanka,5,H Madavi,DB Sharma,AC Jayangani,,0,2,2,,,,31033231033
+1,Sri Lanka,5,H Madavi,DB Sharma,AC Jayangani,,0,0,0,,,,31033231033
+1,Sri Lanka,5,H Madavi,DB Sharma,AC Jayangani,,0,0,0,,,,31033231033
+1,Sri Lanka,5,H Madavi,DB Sharma,AC Jayangani,legbyes,1,1,0,,,,31033231033
+1,Sri Lanka,5,AC Jayangani,DB Sharma,H Madavi,,0,0,0,,,,31033231033
+1,Sri Lanka,6,H Madavi,Poonam Yadav,AC Jayangani,,0,1,1,,,,31033231033
+1,Sri Lanka,6,AC Jayangani,Poonam Yadav,H Madavi,,0,1,1,,,,31033231033
+1,Sri Lanka,6,H Madavi,Poonam Yadav,AC Jayangani,,0,0,0,,,,31033231033
+1,Sri Lanka,6,H Madavi,Poonam Yadav,AC Jayangani,,0,1,1,,,,31033231033
+1,Sri Lanka,6,AC Jayangani,Poonam Yadav,H Madavi,,0,0,0,,,,31033231033
+1,Sri Lanka,6,AC Jayangani,Poonam Yadav,H Madavi,,0,4,4,,,,31033231033
+1,Sri Lanka,7,H Madavi,RS Gayakwad,AC Jayangani,,0,0,0,bowled,H Madavi,,31033231033
+1,Sri Lanka,7,H Karunaratne,RS Gayakwad,AC Jayangani,,0,0,0,,,,31033231033
+1,Sri Lanka,7,H Karunaratne,RS Gayakwad,AC Jayangani,,0,0,0,,,,31033231033
+1,Sri Lanka,7,H Karunaratne,RS Gayakwad,AC Jayangani,,0,0,0,,,,31033231033
+1,Sri Lanka,7,H Karunaratne,RS Gayakwad,AC Jayangani,,0,0,0,,,,31033231033
+1,Sri Lanka,7,H Karunaratne,RS Gayakwad,AC Jayangani,,0,0,0,,,,31033231033
+1,Sri Lanka,8,AC Jayangani,RP Yadav,H Karunaratne,,0,0,0,,,,31033231033
+1,Sri Lanka,8,AC Jayangani,RP Yadav,H Karunaratne,,0,6,6,,,,31033231033
+1,Sri Lanka,8,AC Jayangani,RP Yadav,H Karunaratne,,0,0,0,caught,AC Jayangani,S Pandey,31033231033
+1,Sri Lanka,8,H Karunaratne,RP Yadav,GWHM Perera,,0,0,0,,,,31033231033
+1,Sri Lanka,8,H Karunaratne,RP Yadav,GWHM Perera,wides,1,1,0,,,,31033231033
+1,Sri Lanka,8,H Karunaratne,RP Yadav,GWHM Perera,,0,1,1,,,,31033231033
+1,Sri Lanka,8,GWHM Perera,RP Yadav,H Karunaratne,,0,0,0,,,,31033231033
+1,Sri Lanka,9,H Karunaratne,Poonam Yadav,GWHM Perera,,0,1,1,,,,31033231033
+1,Sri Lanka,9,GWHM Perera,Poonam Yadav,H Karunaratne,,0,0,0,,,,31033231033
+1,Sri Lanka,9,GWHM Perera,Poonam Yadav,H Karunaratne,,0,0,0,,,,31033231033
+1,Sri Lanka,9,GWHM Perera,Poonam Yadav,H Karunaratne,,0,0,0,,,,31033231033
+1,Sri Lanka,9,GWHM Perera,Poonam Yadav,H Karunaratne,,0,0,0,,,,31033231033
+1,Sri Lanka,9,GWHM Perera,Poonam Yadav,H Karunaratne,,0,1,1,,,,31033231033
+1,Sri Lanka,10,GWHM Perera,RP Yadav,H Karunaratne,,0,2,2,,,,31033231033
+1,Sri Lanka,10,GWHM Perera,RP Yadav,H Karunaratne,,0,4,4,,,,31033231033
+1,Sri Lanka,10,GWHM Perera,RP Yadav,H Karunaratne,,0,0,0,caught,GWHM Perera,T Bhatia,31033231033
+1,Sri Lanka,10,HASD Siriwardene,RP Yadav,H Karunaratne,,0,1,1,,,,31033231033
+1,Sri Lanka,10,H Karunaratne,RP Yadav,HASD Siriwardene,wides,1,1,0,,,,31033231033
+1,Sri Lanka,10,H Karunaratne,RP Yadav,HASD Siriwardene,,0,0,0,,,,31033231033
+1,Sri Lanka,10,H Karunaratne,RP Yadav,HASD Siriwardene,,0,0,0,,,,31033231033
+1,Sri Lanka,11,HASD Siriwardene,Poonam Yadav,H Karunaratne,,0,0,0,,,,31033231033
+1,Sri Lanka,11,HASD Siriwardene,Poonam Yadav,H Karunaratne,,0,0,0,,,,31033231033
+1,Sri Lanka,11,HASD Siriwardene,Poonam Yadav,H Karunaratne,,0,4,4,,,,31033231033
+1,Sri Lanka,11,HASD Siriwardene,Poonam Yadav,H Karunaratne,,0,1,1,,,,31033231033
+1,Sri Lanka,11,H Karunaratne,Poonam Yadav,HASD Siriwardene,,0,0,0,,,,31033231033
+1,Sri Lanka,11,H Karunaratne,Poonam Yadav,HASD Siriwardene,,0,1,1,,,,31033231033
+1,Sri Lanka,12,H Karunaratne,RS Gayakwad,HASD Siriwardene,,0,0,0,,,,31033231033
+1,Sri Lanka,12,H Karunaratne,RS Gayakwad,HASD Siriwardene,,0,2,2,,,,31033231033
+1,Sri Lanka,12,H Karunaratne,RS Gayakwad,HASD Siriwardene,,0,0,0,,,,31033231033
+1,Sri Lanka,12,H Karunaratne,RS Gayakwad,HASD Siriwardene,,0,1,1,,,,31033231033
+1,Sri Lanka,12,HASD Siriwardene,RS Gayakwad,H Karunaratne,,0,0,0,,,,31033231033
+1,Sri Lanka,12,HASD Siriwardene,RS Gayakwad,H Karunaratne,,0,4,4,,,,31033231033
+1,Sri Lanka,13,H Karunaratne,RP Yadav,HASD Siriwardene,,0,1,1,,,,31033231033
+1,Sri Lanka,13,HASD Siriwardene,RP Yadav,H Karunaratne,,0,1,1,,,,31033231033
+1,Sri Lanka,13,H Karunaratne,RP Yadav,HASD Siriwardene,,0,0,0,,,,31033231033
+1,Sri Lanka,13,H Karunaratne,RP Yadav,HASD Siriwardene,,0,0,0,caught,H Karunaratne,V Krishnamurthy,31033231033
+1,Sri Lanka,13,HASD Siriwardene,RP Yadav,NND de Silva,,0,1,1,,,,31033231033
+1,Sri Lanka,13,NND de Silva,RP Yadav,HASD Siriwardene,,0,0,0,,,,31033231033
+1,Sri Lanka,14,HASD Siriwardene,RS Gayakwad,NND de Silva,,0,0,0,,,,31033231033
+1,Sri Lanka,14,HASD Siriwardene,RS Gayakwad,NND de Silva,,0,1,1,,,,31033231033
+1,Sri Lanka,14,NND de Silva,RS Gayakwad,HASD Siriwardene,,0,1,1,,,,31033231033
+1,Sri Lanka,14,HASD Siriwardene,RS Gayakwad,NND de Silva,,0,0,0,caught,HASD Siriwardene,V Krishnamurthy,31033231033
+1,Sri Lanka,14,NND de Silva,RS Gayakwad,MAA Sanjeewani,,0,1,1,,,,31033231033
+1,Sri Lanka,14,MAA Sanjeewani,RS Gayakwad,NND de Silva,,0,1,1,,,,31033231033
+1,Sri Lanka,15,MAA Sanjeewani,RP Yadav,NND de Silva,,0,0,0,,,,31033231033
+1,Sri Lanka,15,MAA Sanjeewani,RP Yadav,NND de Silva,,0,0,0,lbw,MAA Sanjeewani,,31033231033
+1,Sri Lanka,15,WK Dilhari,RP Yadav,NND de Silva,,0,2,2,,,,31033231033
+1,Sri Lanka,15,WK Dilhari,RP Yadav,NND de Silva,,0,1,1,,,,31033231033
+1,Sri Lanka,15,NND de Silva,RP Yadav,WK Dilhari,,0,1,1,,,,31033231033
+1,Sri Lanka,15,WK Dilhari,RP Yadav,NND de Silva,,0,0,0,,,,31033231033
+1,Sri Lanka,16,NND de Silva,S Pandey,WK Dilhari,,0,1,1,,,,31033231033
+1,Sri Lanka,16,WK Dilhari,S Pandey,NND de Silva,,0,4,4,,,,31033231033
+1,Sri Lanka,16,WK Dilhari,S Pandey,NND de Silva,,0,0,0,,,,31033231033
+1,Sri Lanka,16,WK Dilhari,S Pandey,NND de Silva,,0,1,1,,,,31033231033
+1,Sri Lanka,16,NND de Silva,S Pandey,WK Dilhari,,0,1,1,,,,31033231033
+1,Sri Lanka,16,WK Dilhari,S Pandey,NND de Silva,,0,2,2,,,,31033231033
+1,Sri Lanka,17,NND de Silva,DB Sharma,WK Dilhari,,0,0,0,,,,31033231033
+1,Sri Lanka,17,NND de Silva,DB Sharma,WK Dilhari,,0,1,1,,,,31033231033
+1,Sri Lanka,17,WK Dilhari,DB Sharma,NND de Silva,,0,2,2,,,,31033231033
+1,Sri Lanka,17,WK Dilhari,DB Sharma,NND de Silva,,0,1,1,,,,31033231033
+1,Sri Lanka,17,NND de Silva,DB Sharma,WK Dilhari,,0,1,1,,,,31033231033
+1,Sri Lanka,17,WK Dilhari,DB Sharma,NND de Silva,,0,1,1,,,,31033231033
+1,Sri Lanka,18,WK Dilhari,Poonam Yadav,NND de Silva,,0,1,1,,,,31033231033
+1,Sri Lanka,18,NND de Silva,Poonam Yadav,WK Dilhari,,0,1,1,,,,31033231033
+1,Sri Lanka,18,WK Dilhari,Poonam Yadav,NND de Silva,,0,2,2,,,,31033231033
+1,Sri Lanka,18,WK Dilhari,Poonam Yadav,NND de Silva,,0,1,1,,,,31033231033
+1,Sri Lanka,18,NND de Silva,Poonam Yadav,WK Dilhari,,0,0,0,,,,31033231033
+1,Sri Lanka,18,NND de Silva,Poonam Yadav,WK Dilhari,,0,0,0,caught,NND de Silva,H Kaur,31033231033
+1,Sri Lanka,19,S Sandeepani,S Pandey,WK Dilhari,,0,0,0,bowled,S Sandeepani,,31033231033
+1,Sri Lanka,19,KDU Prabodhani,S Pandey,WK Dilhari,,0,1,1,,,,31033231033
+1,Sri Lanka,19,WK Dilhari,S Pandey,KDU Prabodhani,,0,1,1,,,,31033231033
+1,Sri Lanka,19,KDU Prabodhani,S Pandey,WK Dilhari,,0,1,1,,,,31033231033
+1,Sri Lanka,19,WK Dilhari,S Pandey,KDU Prabodhani,,0,2,2,,,,31033231033
+1,Sri Lanka,19,WK Dilhari,S Pandey,KDU Prabodhani,,0,4,4,,,,31033231033

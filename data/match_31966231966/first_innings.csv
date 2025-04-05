@@ -1,0 +1,72 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Afghanistan,0,Hazratullah,J Little,Rahmanullah Gurbaz,wides,1,1,0,,,,31966231966
+1,Afghanistan,0,Hazratullah,J Little,Rahmanullah Gurbaz,wides,2,2,0,,,,31966231966
+1,Afghanistan,0,Rahmanullah Gurbaz,J Little,Hazratullah,,0,4,4,,,,31966231966
+1,Afghanistan,0,Rahmanullah Gurbaz,J Little,Hazratullah,,0,0,0,,,,31966231966
+1,Afghanistan,0,Rahmanullah Gurbaz,J Little,Hazratullah,,0,4,4,,,,31966231966
+1,Afghanistan,0,Rahmanullah Gurbaz,J Little,Hazratullah,,0,0,0,,,,31966231966
+1,Afghanistan,0,Rahmanullah Gurbaz,J Little,Hazratullah,,0,0,0,,,,31966231966
+1,Afghanistan,0,Rahmanullah Gurbaz,J Little,Hazratullah,,0,6,6,,,,31966231966
+1,Afghanistan,1,Hazratullah,MR Adair,Rahmanullah Gurbaz,,0,1,1,,,,31966231966
+1,Afghanistan,1,Rahmanullah Gurbaz,MR Adair,Hazratullah,,0,0,0,,,,31966231966
+1,Afghanistan,1,Rahmanullah Gurbaz,MR Adair,Hazratullah,,0,6,6,,,,31966231966
+1,Afghanistan,1,Rahmanullah Gurbaz,MR Adair,Hazratullah,,0,4,4,,,,31966231966
+1,Afghanistan,1,Rahmanullah Gurbaz,MR Adair,Hazratullah,,0,0,0,,,,31966231966
+1,Afghanistan,1,Rahmanullah Gurbaz,MR Adair,Hazratullah,,0,0,0,,,,31966231966
+1,Afghanistan,2,Hazratullah,BJ McCarthy,Rahmanullah Gurbaz,,0,4,4,,,,31966231966
+1,Afghanistan,2,Hazratullah,BJ McCarthy,Rahmanullah Gurbaz,,0,1,1,,,,31966231966
+1,Afghanistan,2,Rahmanullah Gurbaz,BJ McCarthy,Hazratullah,legbyes,4,4,0,,,,31966231966
+1,Afghanistan,2,Rahmanullah Gurbaz,BJ McCarthy,Hazratullah,,0,0,0,caught,Rahmanullah Gurbaz,MR Adair,31966231966
+1,Afghanistan,2,Ibrahim Zadran,BJ McCarthy,Hazratullah,,0,0,0,,,,31966231966
+1,Afghanistan,2,Ibrahim Zadran,BJ McCarthy,Hazratullah,,0,1,1,,,,31966231966
+1,Afghanistan,3,Ibrahim Zadran,GJ Delany,Hazratullah,,0,0,0,caught,Ibrahim Zadran,GH Dockrell,31966231966
+1,Afghanistan,3,Hazratullah,GJ Delany,Najibullah Zadran,,0,0,0,caught,Hazratullah,BJ McCarthy,31966231966
+1,Afghanistan,3,Mohammad Nabi,GJ Delany,Najibullah Zadran,,0,0,0,,,,31966231966
+1,Afghanistan,3,Mohammad Nabi,GJ Delany,Najibullah Zadran,,0,1,1,,,,31966231966
+1,Afghanistan,3,Najibullah Zadran,GJ Delany,Mohammad Nabi,,0,4,4,,,,31966231966
+1,Afghanistan,3,Najibullah Zadran,GJ Delany,Mohammad Nabi,,0,1,1,,,,31966231966
+1,Afghanistan,4,Najibullah Zadran,F Hand,Mohammad Nabi,,0,4,4,,,,31966231966
+1,Afghanistan,4,Najibullah Zadran,F Hand,Mohammad Nabi,,0,2,2,,,,31966231966
+1,Afghanistan,4,Najibullah Zadran,F Hand,Mohammad Nabi,,0,1,1,,,,31966231966
+1,Afghanistan,4,Mohammad Nabi,F Hand,Najibullah Zadran,,0,0,0,,,,31966231966
+1,Afghanistan,4,Mohammad Nabi,F Hand,Najibullah Zadran,,0,4,4,,,,31966231966
+1,Afghanistan,4,Mohammad Nabi,F Hand,Najibullah Zadran,,0,0,0,caught,Mohammad Nabi,A Balbirnie,31966231966
+1,Afghanistan,5,Najibullah Zadran,Simi Singh,Azmatullah Omarzai,,0,1,1,,,,31966231966
+1,Afghanistan,5,Azmatullah Omarzai,Simi Singh,Najibullah Zadran,,0,0,0,,,,31966231966
+1,Afghanistan,5,Azmatullah Omarzai,Simi Singh,Najibullah Zadran,,0,1,1,,,,31966231966
+1,Afghanistan,5,Najibullah Zadran,Simi Singh,Azmatullah Omarzai,,0,1,1,,,,31966231966
+1,Afghanistan,5,Azmatullah Omarzai,Simi Singh,Najibullah Zadran,,0,1,1,,,,31966231966
+1,Afghanistan,5,Najibullah Zadran,Simi Singh,Azmatullah Omarzai,,0,6,6,,,,31966231966
+1,Afghanistan,6,Azmatullah Omarzai,J Little,Najibullah Zadran,,0,1,1,,,,31966231966
+1,Afghanistan,6,Najibullah Zadran,J Little,Azmatullah Omarzai,,0,4,4,,,,31966231966
+1,Afghanistan,6,Najibullah Zadran,J Little,Azmatullah Omarzai,,0,1,1,,,,31966231966
+1,Afghanistan,6,Azmatullah Omarzai,J Little,Najibullah Zadran,,0,0,0,,,,31966231966
+1,Afghanistan,6,Azmatullah Omarzai,J Little,Najibullah Zadran,,0,1,1,,,,31966231966
+1,Afghanistan,6,Najibullah Zadran,J Little,Azmatullah Omarzai,,0,1,1,,,,31966231966
+1,Afghanistan,7,Najibullah Zadran,GJ Delany,Azmatullah Omarzai,,0,0,0,,,,31966231966
+1,Afghanistan,7,Najibullah Zadran,GJ Delany,Azmatullah Omarzai,,0,2,2,,,,31966231966
+1,Afghanistan,7,Najibullah Zadran,GJ Delany,Azmatullah Omarzai,,0,1,1,,,,31966231966
+1,Afghanistan,7,Azmatullah Omarzai,GJ Delany,Najibullah Zadran,,0,0,0,caught,Azmatullah Omarzai,GH Dockrell,31966231966
+1,Afghanistan,7,Najibullah Zadran,GJ Delany,Rashid Khan,wides,1,1,0,,,,31966231966
+1,Afghanistan,7,Najibullah Zadran,GJ Delany,Rashid Khan,,0,2,2,,,,31966231966
+1,Afghanistan,7,Najibullah Zadran,GJ Delany,Rashid Khan,,0,0,0,,,,31966231966
+1,Afghanistan,8,Rashid Khan,BJ McCarthy,Najibullah Zadran,,0,1,1,,,,31966231966
+1,Afghanistan,8,Najibullah Zadran,BJ McCarthy,Rashid Khan,wides,1,1,0,,,,31966231966
+1,Afghanistan,8,Najibullah Zadran,BJ McCarthy,Rashid Khan,legbyes,1,1,0,,,,31966231966
+1,Afghanistan,8,Rashid Khan,BJ McCarthy,Najibullah Zadran,,0,2,2,,,,31966231966
+1,Afghanistan,8,Rashid Khan,BJ McCarthy,Najibullah Zadran,,0,6,6,,,,31966231966
+1,Afghanistan,8,Rashid Khan,BJ McCarthy,Najibullah Zadran,,0,3,3,,,,31966231966
+1,Afghanistan,8,Najibullah Zadran,BJ McCarthy,Rashid Khan,,0,6,6,,,,31966231966
+1,Afghanistan,9,Rashid Khan,GJ Delany,Najibullah Zadran,,0,6,6,,,,31966231966
+1,Afghanistan,9,Rashid Khan,GJ Delany,Najibullah Zadran,,0,1,1,,,,31966231966
+1,Afghanistan,9,Najibullah Zadran,GJ Delany,Rashid Khan,,0,6,6,,,,31966231966
+1,Afghanistan,9,Najibullah Zadran,GJ Delany,Rashid Khan,,0,1,1,,,,31966231966
+1,Afghanistan,9,Rashid Khan,GJ Delany,Najibullah Zadran,wides,1,1,0,,,,31966231966
+1,Afghanistan,9,Rashid Khan,GJ Delany,Najibullah Zadran,,0,0,0,,,,31966231966
+1,Afghanistan,9,Rashid Khan,GJ Delany,Najibullah Zadran,,0,6,6,,,,31966231966
+1,Afghanistan,10,Najibullah Zadran,MR Adair,Rashid Khan,,0,4,4,,,,31966231966
+1,Afghanistan,10,Najibullah Zadran,MR Adair,Rashid Khan,,0,2,2,,,,31966231966
+1,Afghanistan,10,Najibullah Zadran,MR Adair,Rashid Khan,,0,0,0,,,,31966231966
+1,Afghanistan,10,Najibullah Zadran,MR Adair,Rashid Khan,,0,0,0,caught,Najibullah Zadran,J Little,31966231966
+1,Afghanistan,10,Rashid Khan,MR Adair,Sharafuddin Ashraf,,0,2,2,,,,31966231966
+1,Afghanistan,10,Rashid Khan,MR Adair,Sharafuddin Ashraf,,0,4,4,,,,31966231966

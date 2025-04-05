@@ -1,0 +1,100 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Namibia,0,CG Williams,C Kyewuta,JP Kotze,,0,0,0,,,,31491231491
+2,Namibia,0,CG Williams,C Kyewuta,JP Kotze,wides,1,1,0,,,,31491231491
+2,Namibia,0,CG Williams,C Kyewuta,JP Kotze,,0,0,0,,,,31491231491
+2,Namibia,0,CG Williams,C Kyewuta,JP Kotze,,0,1,1,,,,31491231491
+2,Namibia,0,JP Kotze,C Kyewuta,CG Williams,wides,1,1,0,,,,31491231491
+2,Namibia,0,JP Kotze,C Kyewuta,CG Williams,,0,2,2,,,,31491231491
+2,Namibia,0,JP Kotze,C Kyewuta,CG Williams,,0,1,1,,,,31491231491
+2,Namibia,0,CG Williams,C Kyewuta,JP Kotze,,0,1,1,,,,31491231491
+2,Namibia,1,CG Williams,Riazat Ali Shah,JP Kotze,,0,0,0,run out,JP Kotze,,31491231491
+2,Namibia,1,CG Williams,Riazat Ali Shah,MG Erasmus,,0,0,0,,,,31491231491
+2,Namibia,1,CG Williams,Riazat Ali Shah,MG Erasmus,,0,0,0,,,,31491231491
+2,Namibia,1,CG Williams,Riazat Ali Shah,MG Erasmus,,0,1,1,,,,31491231491
+2,Namibia,1,MG Erasmus,Riazat Ali Shah,CG Williams,,0,4,4,,,,31491231491
+2,Namibia,1,MG Erasmus,Riazat Ali Shah,CG Williams,,0,0,0,,,,31491231491
+2,Namibia,2,CG Williams,C Kyewuta,MG Erasmus,,0,0,0,,,,31491231491
+2,Namibia,2,CG Williams,C Kyewuta,MG Erasmus,,0,0,0,caught,CG Williams,Riazat Ali Shah,31491231491
+2,Namibia,2,JN Loftie-Eaton,C Kyewuta,MG Erasmus,,0,0,0,,,,31491231491
+2,Namibia,2,JN Loftie-Eaton,C Kyewuta,MG Erasmus,wides,5,5,0,,,,31491231491
+2,Namibia,2,JN Loftie-Eaton,C Kyewuta,MG Erasmus,wides,1,1,0,,,,31491231491
+2,Namibia,2,JN Loftie-Eaton,C Kyewuta,MG Erasmus,wides,1,1,0,,,,31491231491
+2,Namibia,2,JN Loftie-Eaton,C Kyewuta,MG Erasmus,,0,1,1,,,,31491231491
+2,Namibia,2,MG Erasmus,C Kyewuta,JN Loftie-Eaton,wides,1,1,0,,,,31491231491
+2,Namibia,2,MG Erasmus,C Kyewuta,JN Loftie-Eaton,wides,1,1,0,,,,31491231491
+2,Namibia,2,MG Erasmus,C Kyewuta,JN Loftie-Eaton,,0,0,0,,,,31491231491
+2,Namibia,2,MG Erasmus,C Kyewuta,JN Loftie-Eaton,wides,2,2,0,,,,31491231491
+2,Namibia,2,JN Loftie-Eaton,C Kyewuta,MG Erasmus,,0,1,1,,,,31491231491
+2,Namibia,3,JN Loftie-Eaton,Riazat Ali Shah,MG Erasmus,,0,0,0,,,,31491231491
+2,Namibia,3,JN Loftie-Eaton,Riazat Ali Shah,MG Erasmus,,0,4,4,,,,31491231491
+2,Namibia,3,JN Loftie-Eaton,Riazat Ali Shah,MG Erasmus,,0,0,0,,,,31491231491
+2,Namibia,3,JN Loftie-Eaton,Riazat Ali Shah,MG Erasmus,,0,4,4,,,,31491231491
+2,Namibia,3,JN Loftie-Eaton,Riazat Ali Shah,MG Erasmus,,0,4,4,,,,31491231491
+2,Namibia,3,JN Loftie-Eaton,Riazat Ali Shah,MG Erasmus,,0,0,0,,,,31491231491
+2,Namibia,4,MG Erasmus,F Nsubuga,JN Loftie-Eaton,,0,0,0,,,,31491231491
+2,Namibia,4,MG Erasmus,F Nsubuga,JN Loftie-Eaton,,0,1,1,,,,31491231491
+2,Namibia,4,JN Loftie-Eaton,F Nsubuga,MG Erasmus,,0,0,0,,,,31491231491
+2,Namibia,4,JN Loftie-Eaton,F Nsubuga,MG Erasmus,,0,0,0,,,,31491231491
+2,Namibia,4,JN Loftie-Eaton,F Nsubuga,MG Erasmus,,0,1,1,,,,31491231491
+2,Namibia,4,MG Erasmus,F Nsubuga,JN Loftie-Eaton,,0,4,4,,,,31491231491
+2,Namibia,5,JN Loftie-Eaton,DM Nakrani,MG Erasmus,,0,0,0,,,,31491231491
+2,Namibia,5,JN Loftie-Eaton,DM Nakrani,MG Erasmus,,0,2,2,,,,31491231491
+2,Namibia,5,JN Loftie-Eaton,DM Nakrani,MG Erasmus,,0,1,1,,,,31491231491
+2,Namibia,5,MG Erasmus,DM Nakrani,JN Loftie-Eaton,,0,6,6,,,,31491231491
+2,Namibia,5,MG Erasmus,DM Nakrani,JN Loftie-Eaton,,0,1,1,,,,31491231491
+2,Namibia,5,JN Loftie-Eaton,DM Nakrani,MG Erasmus,,0,0,0,bowled,JN Loftie-Eaton,,31491231491
+2,Namibia,6,MG Erasmus,F Nsubuga,MD du Preez,,0,1,1,,,,31491231491
+2,Namibia,6,MD du Preez,F Nsubuga,MG Erasmus,,0,2,2,,,,31491231491
+2,Namibia,6,MD du Preez,F Nsubuga,MG Erasmus,,0,1,1,,,,31491231491
+2,Namibia,6,MG Erasmus,F Nsubuga,MD du Preez,,0,0,0,,,,31491231491
+2,Namibia,6,MG Erasmus,F Nsubuga,MD du Preez,,0,1,1,,,,31491231491
+2,Namibia,6,MD du Preez,F Nsubuga,MG Erasmus,,0,1,1,,,,31491231491
+2,Namibia,7,MD du Preez,DM Nakrani,MG Erasmus,,0,4,4,,,,31491231491
+2,Namibia,7,MD du Preez,DM Nakrani,MG Erasmus,,0,1,1,,,,31491231491
+2,Namibia,7,MG Erasmus,DM Nakrani,MD du Preez,,0,1,1,,,,31491231491
+2,Namibia,7,MD du Preez,DM Nakrani,MG Erasmus,,0,0,0,,,,31491231491
+2,Namibia,7,MD du Preez,DM Nakrani,MG Erasmus,,0,1,1,,,,31491231491
+2,Namibia,7,MG Erasmus,DM Nakrani,MD du Preez,,0,1,1,,,,31491231491
+2,Namibia,8,MG Erasmus,H Ssenyondo,MD du Preez,,0,2,2,,,,31491231491
+2,Namibia,8,MG Erasmus,H Ssenyondo,MD du Preez,,0,3,3,,,,31491231491
+2,Namibia,8,MD du Preez,H Ssenyondo,MG Erasmus,,0,0,0,,,,31491231491
+2,Namibia,8,MD du Preez,H Ssenyondo,MG Erasmus,,0,0,0,,,,31491231491
+2,Namibia,8,MD du Preez,H Ssenyondo,MG Erasmus,,0,0,0,,,,31491231491
+2,Namibia,8,MD du Preez,H Ssenyondo,MG Erasmus,wides,1,1,0,,,,31491231491
+2,Namibia,8,MD du Preez,H Ssenyondo,MG Erasmus,,0,1,1,,,,31491231491
+2,Namibia,9,MD du Preez,F Nsubuga,MG Erasmus,,0,0,0,,,,31491231491
+2,Namibia,9,MD du Preez,F Nsubuga,MG Erasmus,,0,4,4,,,,31491231491
+2,Namibia,9,MD du Preez,F Nsubuga,MG Erasmus,,0,1,1,,,,31491231491
+2,Namibia,9,MG Erasmus,F Nsubuga,MD du Preez,,0,1,1,,,,31491231491
+2,Namibia,9,MD du Preez,F Nsubuga,MG Erasmus,,0,1,1,,,,31491231491
+2,Namibia,9,MG Erasmus,F Nsubuga,MD du Preez,,0,6,6,,,,31491231491
+2,Namibia,10,MD du Preez,H Ssenyondo,MG Erasmus,,0,3,3,,,,31491231491
+2,Namibia,10,MG Erasmus,H Ssenyondo,MD du Preez,,0,0,0,,,,31491231491
+2,Namibia,10,MG Erasmus,H Ssenyondo,MD du Preez,,0,2,2,,,,31491231491
+2,Namibia,10,MG Erasmus,H Ssenyondo,MD du Preez,,0,0,0,,,,31491231491
+2,Namibia,10,MG Erasmus,H Ssenyondo,MD du Preez,,0,0,0,,,,31491231491
+2,Namibia,10,MG Erasmus,H Ssenyondo,MD du Preez,,0,1,1,,,,31491231491
+2,Namibia,11,MG Erasmus,C Kyewuta,MD du Preez,legbyes,2,2,0,,,,31491231491
+2,Namibia,11,MG Erasmus,C Kyewuta,MD du Preez,,0,0,0,,,,31491231491
+2,Namibia,11,MG Erasmus,C Kyewuta,MD du Preez,,0,4,4,,,,31491231491
+2,Namibia,11,MG Erasmus,C Kyewuta,MD du Preez,,0,0,0,,,,31491231491
+2,Namibia,11,MG Erasmus,C Kyewuta,MD du Preez,,0,6,6,,,,31491231491
+2,Namibia,11,MG Erasmus,C Kyewuta,MD du Preez,,0,4,4,,,,31491231491
+2,Namibia,12,MD du Preez,DM Nakrani,MG Erasmus,,0,1,1,,,,31491231491
+2,Namibia,12,MG Erasmus,DM Nakrani,MD du Preez,,0,1,1,,,,31491231491
+2,Namibia,12,MD du Preez,DM Nakrani,MG Erasmus,,0,1,1,,,,31491231491
+2,Namibia,12,MG Erasmus,DM Nakrani,MD du Preez,,0,0,0,,,,31491231491
+2,Namibia,12,MG Erasmus,DM Nakrani,MD du Preez,,0,0,0,,,,31491231491
+2,Namibia,12,MG Erasmus,DM Nakrani,MD du Preez,,0,1,1,,,,31491231491
+2,Namibia,13,MG Erasmus,Riazat Ali Shah,MD du Preez,,0,1,1,,,,31491231491
+2,Namibia,13,MD du Preez,Riazat Ali Shah,MG Erasmus,,0,2,2,,,,31491231491
+2,Namibia,13,MD du Preez,Riazat Ali Shah,MG Erasmus,legbyes,3,3,0,,,,31491231491
+2,Namibia,13,MG Erasmus,Riazat Ali Shah,MD du Preez,,0,6,6,,,,31491231491
+2,Namibia,13,MG Erasmus,Riazat Ali Shah,MD du Preez,wides,1,1,0,,,,31491231491
+2,Namibia,13,MG Erasmus,Riazat Ali Shah,MD du Preez,,0,0,0,,,,31491231491
+2,Namibia,13,MG Erasmus,Riazat Ali Shah,MD du Preez,,0,4,4,,,,31491231491
+2,Namibia,14,MD du Preez,H Ssenyondo,MG Erasmus,,0,0,0,,,,31491231491
+2,Namibia,14,MD du Preez,H Ssenyondo,MG Erasmus,,0,0,0,,,,31491231491
+2,Namibia,14,MD du Preez,H Ssenyondo,MG Erasmus,,0,4,4,,,,31491231491
+2,Namibia,14,MD du Preez,H Ssenyondo,MG Erasmus,,0,0,0,,,,31491231491
+2,Namibia,14,MD du Preez,H Ssenyondo,MG Erasmus,,0,1,1,,,,31491231491

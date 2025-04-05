@@ -1,0 +1,85 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,MN van Wyk,DBL Powell,HH Gibbs,,0,0,0,,,,3522352
+1,South Africa,0,MN van Wyk,DBL Powell,HH Gibbs,,0,0,0,,,,3522352
+1,South Africa,0,MN van Wyk,DBL Powell,HH Gibbs,,0,1,1,,,,3522352
+1,South Africa,0,HH Gibbs,DBL Powell,MN van Wyk,,0,0,0,,,,3522352
+1,South Africa,0,HH Gibbs,DBL Powell,MN van Wyk,,0,0,0,,,,3522352
+1,South Africa,0,HH Gibbs,DBL Powell,MN van Wyk,legbyes,4,4,0,,,,3522352
+1,South Africa,1,MN van Wyk,JE Taylor,HH Gibbs,,0,0,0,lbw,MN van Wyk,,3522352
+1,South Africa,1,JP Duminy,JE Taylor,HH Gibbs,,0,0,0,bowled,JP Duminy,,3522352
+1,South Africa,1,AB de Villiers,JE Taylor,HH Gibbs,,0,0,0,,,,3522352
+1,South Africa,1,AB de Villiers,JE Taylor,HH Gibbs,,0,0,0,,,,3522352
+1,South Africa,1,AB de Villiers,JE Taylor,HH Gibbs,,0,0,0,,,,3522352
+1,South Africa,1,AB de Villiers,JE Taylor,HH Gibbs,,0,0,0,bowled,AB de Villiers,,3522352
+1,South Africa,2,HH Gibbs,DBL Powell,GH Bodi,,0,0,0,caught,HH Gibbs,S Chanderpaul,3522352
+1,South Africa,2,SM Pollock,DBL Powell,GH Bodi,,0,1,1,,,,3522352
+1,South Africa,2,GH Bodi,DBL Powell,SM Pollock,wides,1,1,0,,,,3522352
+1,South Africa,2,GH Bodi,DBL Powell,SM Pollock,,0,0,0,,,,3522352
+1,South Africa,2,GH Bodi,DBL Powell,SM Pollock,,0,1,1,,,,3522352
+1,South Africa,2,SM Pollock,DBL Powell,GH Bodi,,0,0,0,,,,3522352
+1,South Africa,2,SM Pollock,DBL Powell,GH Bodi,,0,0,0,,,,3522352
+1,South Africa,3,GH Bodi,JE Taylor,SM Pollock,,0,1,1,,,,3522352
+1,South Africa,3,SM Pollock,JE Taylor,GH Bodi,,0,0,0,,,,3522352
+1,South Africa,3,SM Pollock,JE Taylor,GH Bodi,,0,1,1,,,,3522352
+1,South Africa,3,GH Bodi,JE Taylor,SM Pollock,,0,0,0,run out,SM Pollock,RS Morton,3522352
+1,South Africa,3,JA Morkel,JE Taylor,GH Bodi,,0,0,0,,,,3522352
+1,South Africa,3,JA Morkel,JE Taylor,GH Bodi,,0,0,0,,,,3522352
+1,South Africa,4,GH Bodi,DBL Powell,JA Morkel,,0,0,0,,,,3522352
+1,South Africa,4,GH Bodi,DBL Powell,JA Morkel,,0,0,0,,,,3522352
+1,South Africa,4,GH Bodi,DBL Powell,JA Morkel,,0,0,0,,,,3522352
+1,South Africa,4,GH Bodi,DBL Powell,JA Morkel,,0,1,1,,,,3522352
+1,South Africa,4,JA Morkel,DBL Powell,GH Bodi,,0,1,1,,,,3522352
+1,South Africa,4,GH Bodi,DBL Powell,JA Morkel,,0,0,0,,,,3522352
+1,South Africa,5,JA Morkel,JE Taylor,GH Bodi,,0,0,0,run out,JA Morkel,DJ Bravo,3522352
+1,South Africa,5,GH Bodi,JE Taylor,VD Philander,,0,0,0,,,,3522352
+1,South Africa,5,GH Bodi,JE Taylor,VD Philander,,0,1,1,,,,3522352
+1,South Africa,5,VD Philander,JE Taylor,GH Bodi,,0,1,1,,,,3522352
+1,South Africa,5,GH Bodi,JE Taylor,VD Philander,wides,1,1,0,,,,3522352
+1,South Africa,5,GH Bodi,JE Taylor,VD Philander,,0,1,1,,,,3522352
+1,South Africa,5,VD Philander,JE Taylor,GH Bodi,,0,0,0,,,,3522352
+1,South Africa,6,GH Bodi,DJ Bravo,VD Philander,,0,0,0,,,,3522352
+1,South Africa,6,GH Bodi,DJ Bravo,VD Philander,,0,1,1,,,,3522352
+1,South Africa,6,VD Philander,DJ Bravo,GH Bodi,,0,0,0,,,,3522352
+1,South Africa,6,VD Philander,DJ Bravo,GH Bodi,,0,0,0,,,,3522352
+1,South Africa,6,VD Philander,DJ Bravo,GH Bodi,,0,0,0,,,,3522352
+1,South Africa,6,VD Philander,DJ Bravo,GH Bodi,,0,1,1,,,,3522352
+1,South Africa,7,VD Philander,FH Edwards,GH Bodi,wides,1,1,0,,,,3522352
+1,South Africa,7,VD Philander,FH Edwards,GH Bodi,noballs,1,1,0,,,,3522352
+1,South Africa,7,VD Philander,FH Edwards,GH Bodi,,0,2,2,,,,3522352
+1,South Africa,7,VD Philander,FH Edwards,GH Bodi,,0,0,0,lbw,VD Philander,,3522352
+1,South Africa,7,J Botha,FH Edwards,GH Bodi,,0,0,0,,,,3522352
+1,South Africa,7,J Botha,FH Edwards,GH Bodi,,0,1,1,,,,3522352
+1,South Africa,7,GH Bodi,FH Edwards,J Botha,,0,0,0,,,,3522352
+1,South Africa,7,GH Bodi,FH Edwards,J Botha,,0,0,0,,,,3522352
+1,South Africa,8,J Botha,DJG Sammy,GH Bodi,,0,0,0,,,,3522352
+1,South Africa,8,J Botha,DJG Sammy,GH Bodi,,0,0,0,,,,3522352
+1,South Africa,8,J Botha,DJG Sammy,GH Bodi,,0,1,1,,,,3522352
+1,South Africa,8,GH Bodi,DJG Sammy,J Botha,,0,1,1,,,,3522352
+1,South Africa,8,J Botha,DJG Sammy,GH Bodi,,0,0,0,,,,3522352
+1,South Africa,8,J Botha,DJG Sammy,GH Bodi,,0,0,0,,,,3522352
+1,South Africa,9,GH Bodi,FH Edwards,J Botha,,0,0,0,,,,3522352
+1,South Africa,9,GH Bodi,FH Edwards,J Botha,,0,0,0,,,,3522352
+1,South Africa,9,GH Bodi,FH Edwards,J Botha,,0,1,1,,,,3522352
+1,South Africa,9,J Botha,FH Edwards,GH Bodi,,0,1,1,,,,3522352
+1,South Africa,9,GH Bodi,FH Edwards,J Botha,,0,0,0,,,,3522352
+1,South Africa,9,GH Bodi,FH Edwards,J Botha,wides,1,1,0,,,,3522352
+1,South Africa,9,GH Bodi,FH Edwards,J Botha,,0,0,0,,,,3522352
+1,South Africa,10,J Botha,DJG Sammy,GH Bodi,,0,6,6,,,,3522352
+1,South Africa,10,J Botha,DJG Sammy,GH Bodi,legbyes,1,1,0,,,,3522352
+1,South Africa,10,GH Bodi,DJG Sammy,J Botha,legbyes,1,1,0,,,,3522352
+1,South Africa,10,J Botha,DJG Sammy,GH Bodi,,0,1,1,,,,3522352
+1,South Africa,10,GH Bodi,DJG Sammy,J Botha,,0,0,0,,,,3522352
+1,South Africa,10,GH Bodi,DJG Sammy,J Botha,,0,0,0,bowled,GH Bodi,,3522352
+1,South Africa,11,J Botha,FH Edwards,DW Steyn,,0,0,0,,,,3522352
+1,South Africa,11,J Botha,FH Edwards,DW Steyn,,0,0,0,,,,3522352
+1,South Africa,11,J Botha,FH Edwards,DW Steyn,,0,4,4,,,,3522352
+1,South Africa,11,J Botha,FH Edwards,DW Steyn,,0,0,0,,,,3522352
+1,South Africa,11,J Botha,FH Edwards,DW Steyn,,0,0,0,,,,3522352
+1,South Africa,11,J Botha,FH Edwards,DW Steyn,wides,1,1,0,,,,3522352
+1,South Africa,11,J Botha,FH Edwards,DW Steyn,,0,1,1,,,,3522352
+1,South Africa,12,J Botha,DJ Bravo,DW Steyn,,0,1,1,,,,3522352
+1,South Africa,12,DW Steyn,DJ Bravo,J Botha,,0,1,1,,,,3522352
+1,South Africa,12,J Botha,DJ Bravo,DW Steyn,,0,4,4,,,,3522352
+1,South Africa,12,J Botha,DJ Bravo,DW Steyn,,0,2,2,,,,3522352
+1,South Africa,12,J Botha,DJ Bravo,DW Steyn,,0,6,6,,,,3522352
+1,South Africa,12,J Botha,DJ Bravo,DW Steyn,legbyes,1,1,0,,,,3522352

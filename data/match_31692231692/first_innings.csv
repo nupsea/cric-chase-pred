@@ -1,0 +1,100 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Norway,0,Ayesha Hasan,N Kayani,Farial Zia Safdar,wides,1,1,0,,,,31692231692
+1,Norway,0,Ayesha Hasan,N Kayani,Farial Zia Safdar,wides,1,1,0,,,,31692231692
+1,Norway,0,Ayesha Hasan,N Kayani,Farial Zia Safdar,,0,1,1,,,,31692231692
+1,Norway,0,Farial Zia Safdar,N Kayani,Ayesha Hasan,,0,0,0,,,,31692231692
+1,Norway,0,Farial Zia Safdar,N Kayani,Ayesha Hasan,,0,0,0,caught,Farial Zia Safdar,Abhilasha Singh,31692231692
+1,Norway,0,Pooja Kumari,N Kayani,Ayesha Hasan,,0,0,0,,,,31692231692
+1,Norway,0,Pooja Kumari,N Kayani,Ayesha Hasan,wides,1,1,0,,,,31692231692
+1,Norway,0,Pooja Kumari,N Kayani,Ayesha Hasan,,0,0,0,caught,Pooja Kumari,S Lundell,31692231692
+1,Norway,0,A Dastgir,N Kayani,Ayesha Hasan,,0,0,0,,,,31692231692
+1,Norway,1,Ayesha Hasan,S Devata,A Dastgir,,0,0,0,,,,31692231692
+1,Norway,1,Ayesha Hasan,S Devata,A Dastgir,wides,1,1,0,,,,31692231692
+1,Norway,1,Ayesha Hasan,S Devata,A Dastgir,wides,1,1,0,,,,31692231692
+1,Norway,1,Ayesha Hasan,S Devata,A Dastgir,,0,1,1,,,,31692231692
+1,Norway,1,A Dastgir,S Devata,Ayesha Hasan,,0,0,0,bowled,A Dastgir,,31692231692
+1,Norway,1,R Immadi,S Devata,Ayesha Hasan,wides,1,1,0,,,,31692231692
+1,Norway,1,R Immadi,S Devata,Ayesha Hasan,,0,1,1,,,,31692231692
+1,Norway,1,Ayesha Hasan,S Devata,R Immadi,wides,1,1,0,,,,31692231692
+1,Norway,1,Ayesha Hasan,S Devata,R Immadi,,0,0,0,,,,31692231692
+1,Norway,1,Ayesha Hasan,S Devata,R Immadi,noballs,1,1,0,run out,R Immadi,T Zilfidou,31692231692
+1,Norway,1,Mutaiba Ansar,S Devata,Ayesha Hasan,noballs,1,1,0,,,,31692231692
+1,Norway,1,Mutaiba Ansar,S Devata,Ayesha Hasan,,0,1,1,,,,31692231692
+1,Norway,2,Mutaiba Ansar,N Kayani,Ayesha Hasan,,0,0,0,,,,31692231692
+1,Norway,2,Mutaiba Ansar,N Kayani,Ayesha Hasan,,0,0,0,,,,31692231692
+1,Norway,2,Mutaiba Ansar,N Kayani,Ayesha Hasan,,0,0,0,,,,31692231692
+1,Norway,2,Mutaiba Ansar,N Kayani,Ayesha Hasan,wides,1,1,0,,,,31692231692
+1,Norway,2,Mutaiba Ansar,N Kayani,Ayesha Hasan,,0,0,0,caught,Mutaiba Ansar,RG Somashekhar,31692231692
+1,Norway,2,Ayesha Hasan,N Kayani,DS Gamage,,0,0,0,,,,31692231692
+1,Norway,2,Ayesha Hasan,N Kayani,DS Gamage,,0,1,1,,,,31692231692
+1,Norway,3,Ayesha Hasan,S Elmsjoo,DS Gamage,,0,1,1,,,,31692231692
+1,Norway,3,DS Gamage,S Elmsjoo,Ayesha Hasan,wides,1,1,0,,,,31692231692
+1,Norway,3,DS Gamage,S Elmsjoo,Ayesha Hasan,,0,0,0,,,,31692231692
+1,Norway,3,DS Gamage,S Elmsjoo,Ayesha Hasan,,0,0,0,,,,31692231692
+1,Norway,3,DS Gamage,S Elmsjoo,Ayesha Hasan,,0,0,0,run out,DS Gamage,S Elmsjoo,31692231692
+1,Norway,3,Ayesha Hasan,S Elmsjoo,S Jadhav,,0,0,0,,,,31692231692
+1,Norway,3,Ayesha Hasan,S Elmsjoo,S Jadhav,,0,0,0,,,,31692231692
+1,Norway,4,S Jadhav,G Shukla,Ayesha Hasan,,0,1,1,,,,31692231692
+1,Norway,4,Ayesha Hasan,G Shukla,S Jadhav,,0,0,0,,,,31692231692
+1,Norway,4,Ayesha Hasan,G Shukla,S Jadhav,,0,1,1,,,,31692231692
+1,Norway,4,S Jadhav,G Shukla,Ayesha Hasan,,0,1,1,,,,31692231692
+1,Norway,4,Ayesha Hasan,G Shukla,S Jadhav,,0,0,0,,,,31692231692
+1,Norway,4,Ayesha Hasan,G Shukla,S Jadhav,,0,0,0,,,,31692231692
+1,Norway,5,S Jadhav,S Elmsjoo,Ayesha Hasan,,0,1,1,,,,31692231692
+1,Norway,5,Ayesha Hasan,S Elmsjoo,S Jadhav,,0,0,0,run out,S Jadhav,M Alugunoolla,31692231692
+1,Norway,5,Hina Hussain,S Elmsjoo,Ayesha Hasan,,0,0,0,,,,31692231692
+1,Norway,5,Hina Hussain,S Elmsjoo,Ayesha Hasan,,0,0,0,,,,31692231692
+1,Norway,5,Hina Hussain,S Elmsjoo,Ayesha Hasan,,0,0,0,caught,Hina Hussain,M Alugunoolla,31692231692
+1,Norway,5,S Raveendrakumar,S Elmsjoo,Ayesha Hasan,wides,1,1,0,,,,31692231692
+1,Norway,5,S Raveendrakumar,S Elmsjoo,Ayesha Hasan,wides,1,1,0,,,,31692231692
+1,Norway,5,S Raveendrakumar,S Elmsjoo,Ayesha Hasan,wides,1,1,0,,,,31692231692
+1,Norway,5,S Raveendrakumar,S Elmsjoo,Ayesha Hasan,,0,0,0,,,,31692231692
+1,Norway,6,Ayesha Hasan,G Shukla,S Raveendrakumar,,0,0,0,,,,31692231692
+1,Norway,6,Ayesha Hasan,G Shukla,S Raveendrakumar,wides,1,1,0,,,,31692231692
+1,Norway,6,Ayesha Hasan,G Shukla,S Raveendrakumar,,0,0,0,,,,31692231692
+1,Norway,6,Ayesha Hasan,G Shukla,S Raveendrakumar,,0,1,1,,,,31692231692
+1,Norway,6,S Raveendrakumar,G Shukla,Ayesha Hasan,,0,0,0,,,,31692231692
+1,Norway,6,S Raveendrakumar,G Shukla,Ayesha Hasan,,0,0,0,,,,31692231692
+1,Norway,6,S Raveendrakumar,G Shukla,Ayesha Hasan,,0,0,0,,,,31692231692
+1,Norway,7,Ayesha Hasan,RG Somashekhar,S Raveendrakumar,,0,0,0,,,,31692231692
+1,Norway,7,Ayesha Hasan,RG Somashekhar,S Raveendrakumar,,0,1,1,,,,31692231692
+1,Norway,7,S Raveendrakumar,RG Somashekhar,Ayesha Hasan,,0,0,0,,,,31692231692
+1,Norway,7,S Raveendrakumar,RG Somashekhar,Ayesha Hasan,wides,1,1,0,,,,31692231692
+1,Norway,7,S Raveendrakumar,RG Somashekhar,Ayesha Hasan,,0,1,1,,,,31692231692
+1,Norway,7,Ayesha Hasan,RG Somashekhar,S Raveendrakumar,wides,2,2,0,,,,31692231692
+1,Norway,7,S Raveendrakumar,RG Somashekhar,Ayesha Hasan,,0,1,1,,,,31692231692
+1,Norway,7,Ayesha Hasan,RG Somashekhar,S Raveendrakumar,,0,0,0,,,,31692231692
+1,Norway,8,S Raveendrakumar,G Shukla,Ayesha Hasan,,0,0,0,,,,31692231692
+1,Norway,8,S Raveendrakumar,G Shukla,Ayesha Hasan,,0,0,0,,,,31692231692
+1,Norway,8,S Raveendrakumar,G Shukla,Ayesha Hasan,,0,0,0,,,,31692231692
+1,Norway,8,S Raveendrakumar,G Shukla,Ayesha Hasan,wides,1,1,0,,,,31692231692
+1,Norway,8,S Raveendrakumar,G Shukla,Ayesha Hasan,,0,2,2,,,,31692231692
+1,Norway,8,S Raveendrakumar,G Shukla,Ayesha Hasan,,0,0,0,,,,31692231692
+1,Norway,8,S Raveendrakumar,G Shukla,Ayesha Hasan,,0,0,0,,,,31692231692
+1,Norway,9,Ayesha Hasan,RG Somashekhar,S Raveendrakumar,,0,0,0,,,,31692231692
+1,Norway,9,Ayesha Hasan,RG Somashekhar,S Raveendrakumar,,0,0,0,,,,31692231692
+1,Norway,9,Ayesha Hasan,RG Somashekhar,S Raveendrakumar,,0,1,1,,,,31692231692
+1,Norway,9,S Raveendrakumar,RG Somashekhar,Ayesha Hasan,,0,0,0,caught,S Raveendrakumar,S Lundell,31692231692
+1,Norway,9,AS Gorad,RG Somashekhar,Ayesha Hasan,wides,1,1,0,,,,31692231692
+1,Norway,9,AS Gorad,RG Somashekhar,Ayesha Hasan,wides,1,1,0,,,,31692231692
+1,Norway,9,AS Gorad,RG Somashekhar,Ayesha Hasan,wides,1,1,0,,,,31692231692
+1,Norway,9,AS Gorad,RG Somashekhar,Ayesha Hasan,,0,0,0,,,,31692231692
+1,Norway,9,AS Gorad,RG Somashekhar,Ayesha Hasan,,0,1,1,,,,31692231692
+1,Norway,10,AS Gorad,N Kayani,Ayesha Hasan,wides,1,1,0,,,,31692231692
+1,Norway,10,AS Gorad,N Kayani,Ayesha Hasan,,0,0,0,,,,31692231692
+1,Norway,10,AS Gorad,N Kayani,Ayesha Hasan,,0,1,1,,,,31692231692
+1,Norway,10,Ayesha Hasan,N Kayani,AS Gorad,wides,1,1,0,,,,31692231692
+1,Norway,10,Ayesha Hasan,N Kayani,AS Gorad,,0,1,1,,,,31692231692
+1,Norway,10,AS Gorad,N Kayani,Ayesha Hasan,wides,1,1,0,,,,31692231692
+1,Norway,10,AS Gorad,N Kayani,Ayesha Hasan,,0,0,0,,,,31692231692
+1,Norway,10,AS Gorad,N Kayani,Ayesha Hasan,,0,0,0,,,,31692231692
+1,Norway,10,AS Gorad,N Kayani,Ayesha Hasan,,0,1,1,,,,31692231692
+1,Norway,11,AS Gorad,G Shukla,Ayesha Hasan,,0,1,1,,,,31692231692
+1,Norway,11,Ayesha Hasan,G Shukla,AS Gorad,,0,0,0,,,,31692231692
+1,Norway,11,Ayesha Hasan,G Shukla,AS Gorad,,0,1,1,,,,31692231692
+1,Norway,11,AS Gorad,G Shukla,Ayesha Hasan,,0,0,0,,,,31692231692
+1,Norway,11,AS Gorad,G Shukla,Ayesha Hasan,,0,0,0,,,,31692231692
+1,Norway,11,AS Gorad,G Shukla,Ayesha Hasan,wides,1,1,0,,,,31692231692
+1,Norway,11,AS Gorad,G Shukla,Ayesha Hasan,,0,0,0,,,,31692231692
+1,Norway,12,Ayesha Hasan,N Kayani,AS Gorad,wides,1,1,0,,,,31692231692
+1,Norway,12,Ayesha Hasan,N Kayani,AS Gorad,noballs,1,2,1,run out,AS Gorad,N Kayani,31692231692

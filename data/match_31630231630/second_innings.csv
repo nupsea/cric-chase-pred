@@ -1,0 +1,120 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Papua New Guinea,0,TP Ura,BTJ Wheal,L Siaka,,0,1,1,,,,31630231630
+2,Papua New Guinea,0,L Siaka,BTJ Wheal,TP Ura,,0,0,0,,,,31630231630
+2,Papua New Guinea,0,L Siaka,BTJ Wheal,TP Ura,,0,0,0,,,,31630231630
+2,Papua New Guinea,0,L Siaka,BTJ Wheal,TP Ura,,0,0,0,,,,31630231630
+2,Papua New Guinea,0,L Siaka,BTJ Wheal,TP Ura,,0,0,0,,,,31630231630
+2,Papua New Guinea,0,L Siaka,BTJ Wheal,TP Ura,,0,2,2,,,,31630231630
+2,Papua New Guinea,1,TP Ura,JH Davey,L Siaka,,0,1,1,,,,31630231630
+2,Papua New Guinea,1,L Siaka,JH Davey,TP Ura,,0,1,1,,,,31630231630
+2,Papua New Guinea,1,TP Ura,JH Davey,L Siaka,,0,0,0,bowled,TP Ura,,31630231630
+2,Papua New Guinea,1,A Vala,JH Davey,L Siaka,,0,0,0,,,,31630231630
+2,Papua New Guinea,1,A Vala,JH Davey,L Siaka,,0,1,1,,,,31630231630
+2,Papua New Guinea,1,L Siaka,JH Davey,A Vala,,0,1,1,,,,31630231630
+2,Papua New Guinea,2,L Siaka,AC Evans,A Vala,,0,0,0,,,,31630231630
+2,Papua New Guinea,2,L Siaka,AC Evans,A Vala,,0,0,0,,,,31630231630
+2,Papua New Guinea,2,L Siaka,AC Evans,A Vala,,0,1,1,,,,31630231630
+2,Papua New Guinea,2,A Vala,AC Evans,L Siaka,,0,4,4,,,,31630231630
+2,Papua New Guinea,2,A Vala,AC Evans,L Siaka,,0,4,4,,,,31630231630
+2,Papua New Guinea,2,A Vala,AC Evans,L Siaka,,0,0,0,,,,31630231630
+2,Papua New Guinea,3,L Siaka,BTJ Wheal,A Vala,,0,4,4,,,,31630231630
+2,Papua New Guinea,3,L Siaka,BTJ Wheal,A Vala,,0,0,0,,,,31630231630
+2,Papua New Guinea,3,L Siaka,BTJ Wheal,A Vala,,0,0,0,caught,L Siaka,MH Cross,31630231630
+2,Papua New Guinea,3,CJA Amini,BTJ Wheal,A Vala,,0,0,0,,,,31630231630
+2,Papua New Guinea,3,CJA Amini,BTJ Wheal,A Vala,,0,1,1,,,,31630231630
+2,Papua New Guinea,3,A Vala,BTJ Wheal,CJA Amini,,0,1,1,,,,31630231630
+2,Papua New Guinea,4,A Vala,AC Evans,CJA Amini,,0,0,0,,,,31630231630
+2,Papua New Guinea,4,A Vala,AC Evans,CJA Amini,,0,4,4,,,,31630231630
+2,Papua New Guinea,4,A Vala,AC Evans,CJA Amini,,0,0,0,,,,31630231630
+2,Papua New Guinea,4,A Vala,AC Evans,CJA Amini,,0,4,4,,,,31630231630
+2,Papua New Guinea,4,A Vala,AC Evans,CJA Amini,,0,0,0,caught,A Vala,BTJ Wheal,31630231630
+2,Papua New Guinea,4,CJA Amini,AC Evans,S Bau,,0,0,0,,,,31630231630
+2,Papua New Guinea,5,S Bau,JH Davey,CJA Amini,,0,2,2,,,,31630231630
+2,Papua New Guinea,5,S Bau,JH Davey,CJA Amini,,0,0,0,,,,31630231630
+2,Papua New Guinea,5,S Bau,JH Davey,CJA Amini,,0,1,1,run out,CJA Amini,MA Leask,31630231630
+2,Papua New Guinea,5,SK Atai,JH Davey,S Bau,,0,2,2,,,,31630231630
+2,Papua New Guinea,5,SK Atai,JH Davey,S Bau,,0,0,0,,,,31630231630
+2,Papua New Guinea,5,SK Atai,JH Davey,S Bau,,0,0,0,caught,SK Atai,RD Berrington,31630231630
+2,Papua New Guinea,6,S Bau,MRJ Watt,N Vanua,,0,1,1,,,,31630231630
+2,Papua New Guinea,6,N Vanua,MRJ Watt,S Bau,,0,1,1,,,,31630231630
+2,Papua New Guinea,6,S Bau,MRJ Watt,N Vanua,,0,2,2,,,,31630231630
+2,Papua New Guinea,6,S Bau,MRJ Watt,N Vanua,,0,0,0,,,,31630231630
+2,Papua New Guinea,6,S Bau,MRJ Watt,N Vanua,,0,0,0,,,,31630231630
+2,Papua New Guinea,6,S Bau,MRJ Watt,N Vanua,wides,1,1,0,,,,31630231630
+2,Papua New Guinea,6,S Bau,MRJ Watt,N Vanua,,0,1,1,,,,31630231630
+2,Papua New Guinea,7,S Bau,MA Leask,N Vanua,,0,0,0,,,,31630231630
+2,Papua New Guinea,7,S Bau,MA Leask,N Vanua,,0,0,0,,,,31630231630
+2,Papua New Guinea,7,S Bau,MA Leask,N Vanua,,0,2,2,,,,31630231630
+2,Papua New Guinea,7,S Bau,MA Leask,N Vanua,,0,1,1,,,,31630231630
+2,Papua New Guinea,7,N Vanua,MA Leask,S Bau,legbyes,1,1,0,,,,31630231630
+2,Papua New Guinea,7,S Bau,MA Leask,N Vanua,,0,1,1,,,,31630231630
+2,Papua New Guinea,8,S Bau,MRJ Watt,N Vanua,,0,0,0,,,,31630231630
+2,Papua New Guinea,8,S Bau,MRJ Watt,N Vanua,,0,6,6,,,,31630231630
+2,Papua New Guinea,8,S Bau,MRJ Watt,N Vanua,,0,1,1,,,,31630231630
+2,Papua New Guinea,8,N Vanua,MRJ Watt,S Bau,,0,0,0,,,,31630231630
+2,Papua New Guinea,8,N Vanua,MRJ Watt,S Bau,,0,1,1,,,,31630231630
+2,Papua New Guinea,8,S Bau,MRJ Watt,N Vanua,,0,0,0,,,,31630231630
+2,Papua New Guinea,9,N Vanua,MA Leask,S Bau,,0,1,1,,,,31630231630
+2,Papua New Guinea,9,S Bau,MA Leask,N Vanua,,0,4,4,,,,31630231630
+2,Papua New Guinea,9,S Bau,MA Leask,N Vanua,,0,0,0,,,,31630231630
+2,Papua New Guinea,9,S Bau,MA Leask,N Vanua,,0,1,1,,,,31630231630
+2,Papua New Guinea,9,N Vanua,MA Leask,S Bau,,0,0,0,,,,31630231630
+2,Papua New Guinea,9,N Vanua,MA Leask,S Bau,,0,1,1,,,,31630231630
+2,Papua New Guinea,10,N Vanua,AC Evans,S Bau,,0,1,1,,,,31630231630
+2,Papua New Guinea,10,S Bau,AC Evans,N Vanua,,0,1,1,,,,31630231630
+2,Papua New Guinea,10,N Vanua,AC Evans,S Bau,,0,0,0,,,,31630231630
+2,Papua New Guinea,10,N Vanua,AC Evans,S Bau,,0,2,2,,,,31630231630
+2,Papua New Guinea,10,N Vanua,AC Evans,S Bau,,0,1,1,,,,31630231630
+2,Papua New Guinea,10,S Bau,AC Evans,N Vanua,,0,0,0,,,,31630231630
+2,Papua New Guinea,11,N Vanua,CN Greaves,S Bau,,0,0,0,,,,31630231630
+2,Papua New Guinea,11,N Vanua,CN Greaves,S Bau,,0,1,1,,,,31630231630
+2,Papua New Guinea,11,S Bau,CN Greaves,N Vanua,,0,0,0,caught,S Bau,BTJ Wheal,31630231630
+2,Papua New Guinea,11,N Vanua,CN Greaves,K Doriga,,0,0,0,,,,31630231630
+2,Papua New Guinea,11,N Vanua,CN Greaves,K Doriga,,0,2,2,,,,31630231630
+2,Papua New Guinea,11,N Vanua,CN Greaves,K Doriga,,0,1,1,,,,31630231630
+2,Papua New Guinea,12,N Vanua,MRJ Watt,K Doriga,,0,2,2,,,,31630231630
+2,Papua New Guinea,12,N Vanua,MRJ Watt,K Doriga,,0,1,1,,,,31630231630
+2,Papua New Guinea,12,K Doriga,MRJ Watt,N Vanua,,0,1,1,,,,31630231630
+2,Papua New Guinea,12,N Vanua,MRJ Watt,K Doriga,,0,0,0,,,,31630231630
+2,Papua New Guinea,12,N Vanua,MRJ Watt,K Doriga,,0,0,0,,,,31630231630
+2,Papua New Guinea,12,N Vanua,MRJ Watt,K Doriga,,0,1,1,,,,31630231630
+2,Papua New Guinea,13,N Vanua,CN Greaves,K Doriga,,0,1,1,,,,31630231630
+2,Papua New Guinea,13,K Doriga,CN Greaves,N Vanua,,0,1,1,,,,31630231630
+2,Papua New Guinea,13,N Vanua,CN Greaves,K Doriga,,0,4,4,,,,31630231630
+2,Papua New Guinea,13,N Vanua,CN Greaves,K Doriga,,0,4,4,,,,31630231630
+2,Papua New Guinea,13,N Vanua,CN Greaves,K Doriga,,0,1,1,,,,31630231630
+2,Papua New Guinea,13,K Doriga,CN Greaves,N Vanua,,0,0,0,,,,31630231630
+2,Papua New Guinea,14,N Vanua,BTJ Wheal,K Doriga,,0,2,2,,,,31630231630
+2,Papua New Guinea,14,N Vanua,BTJ Wheal,K Doriga,,0,6,6,,,,31630231630
+2,Papua New Guinea,14,N Vanua,BTJ Wheal,K Doriga,,0,2,2,,,,31630231630
+2,Papua New Guinea,14,N Vanua,BTJ Wheal,K Doriga,,0,6,6,,,,31630231630
+2,Papua New Guinea,14,N Vanua,BTJ Wheal,K Doriga,,0,1,1,,,,31630231630
+2,Papua New Guinea,14,K Doriga,BTJ Wheal,N Vanua,,0,1,1,,,,31630231630
+2,Papua New Guinea,15,K Doriga,CN Greaves,N Vanua,,0,2,2,,,,31630231630
+2,Papua New Guinea,15,K Doriga,CN Greaves,N Vanua,,0,6,6,,,,31630231630
+2,Papua New Guinea,15,K Doriga,CN Greaves,N Vanua,,0,2,2,,,,31630231630
+2,Papua New Guinea,15,K Doriga,CN Greaves,N Vanua,,0,4,4,,,,31630231630
+2,Papua New Guinea,15,K Doriga,CN Greaves,N Vanua,wides,1,1,0,,,,31630231630
+2,Papua New Guinea,15,K Doriga,CN Greaves,N Vanua,,0,1,1,,,,31630231630
+2,Papua New Guinea,15,N Vanua,CN Greaves,K Doriga,,0,0,0,,,,31630231630
+2,Papua New Guinea,16,K Doriga,MRJ Watt,N Vanua,,0,0,0,,,,31630231630
+2,Papua New Guinea,16,K Doriga,MRJ Watt,N Vanua,,0,0,0,stumped,K Doriga,MH Cross,31630231630
+2,Papua New Guinea,16,CA Soper,MRJ Watt,N Vanua,,0,1,1,,,,31630231630
+2,Papua New Guinea,16,N Vanua,MRJ Watt,CA Soper,,0,1,1,,,,31630231630
+2,Papua New Guinea,16,CA Soper,MRJ Watt,N Vanua,,0,1,1,,,,31630231630
+2,Papua New Guinea,16,N Vanua,MRJ Watt,CA Soper,,0,1,1,,,,31630231630
+2,Papua New Guinea,17,N Vanua,JH Davey,CA Soper,,0,1,1,,,,31630231630
+2,Papua New Guinea,17,CA Soper,JH Davey,N Vanua,legbyes,1,1,0,,,,31630231630
+2,Papua New Guinea,17,N Vanua,JH Davey,CA Soper,,0,1,1,,,,31630231630
+2,Papua New Guinea,17,CA Soper,JH Davey,N Vanua,,0,1,1,,,,31630231630
+2,Papua New Guinea,17,N Vanua,JH Davey,CA Soper,,0,0,0,,,,31630231630
+2,Papua New Guinea,17,N Vanua,JH Davey,CA Soper,,0,0,0,caught,N Vanua,MH Cross,31630231630
+2,Papua New Guinea,18,CA Soper,BTJ Wheal,N Pokana,,0,4,4,,,,31630231630
+2,Papua New Guinea,18,CA Soper,BTJ Wheal,N Pokana,,0,1,1,,,,31630231630
+2,Papua New Guinea,18,N Pokana,BTJ Wheal,CA Soper,,0,1,1,,,,31630231630
+2,Papua New Guinea,18,CA Soper,BTJ Wheal,N Pokana,,0,1,1,run out,N Pokana,BTJ Wheal,31630231630
+2,Papua New Guinea,18,CA Soper,BTJ Wheal,KV Morea,,0,1,1,,,,31630231630
+2,Papua New Guinea,18,KV Morea,BTJ Wheal,CA Soper,,0,6,6,,,,31630231630
+2,Papua New Guinea,19,CA Soper,JH Davey,KV Morea,,0,0,0,,,,31630231630
+2,Papua New Guinea,19,CA Soper,JH Davey,KV Morea,,0,6,6,,,,31630231630
+2,Papua New Guinea,19,CA Soper,JH Davey,KV Morea,,0,0,0,caught,CA Soper,MH Cross,31630231630

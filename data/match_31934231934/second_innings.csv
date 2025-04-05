@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,South Africa,0,A Bosch,IECM Wong,L Goodall,,0,1,1,,,,31934231934
+2,South Africa,0,L Goodall,IECM Wong,A Bosch,,0,0,0,,,,31934231934
+2,South Africa,0,L Goodall,IECM Wong,A Bosch,,0,2,2,,,,31934231934
+2,South Africa,0,L Goodall,IECM Wong,A Bosch,,0,0,0,bowled,L Goodall,,31934231934
+2,South Africa,0,T Brits,IECM Wong,A Bosch,,0,1,1,,,,31934231934
+2,South Africa,0,A Bosch,IECM Wong,T Brits,,0,1,1,,,,31934231934
+2,South Africa,1,A Bosch,KH Brunt,T Brits,,0,0,0,,,,31934231934
+2,South Africa,1,A Bosch,KH Brunt,T Brits,,0,0,0,,,,31934231934
+2,South Africa,1,A Bosch,KH Brunt,T Brits,,0,1,1,,,,31934231934
+2,South Africa,1,T Brits,KH Brunt,A Bosch,,0,1,1,,,,31934231934
+2,South Africa,1,A Bosch,KH Brunt,T Brits,,0,4,4,,,,31934231934
+2,South Africa,1,A Bosch,KH Brunt,T Brits,,0,0,0,,,,31934231934
+2,South Africa,2,T Brits,FG Kemp,A Bosch,,0,0,0,,,,31934231934
+2,South Africa,2,T Brits,FG Kemp,A Bosch,,0,1,1,,,,31934231934
+2,South Africa,2,A Bosch,FG Kemp,T Brits,,0,0,0,,,,31934231934
+2,South Africa,2,A Bosch,FG Kemp,T Brits,,0,4,4,,,,31934231934
+2,South Africa,2,A Bosch,FG Kemp,T Brits,,0,1,1,,,,31934231934
+2,South Africa,2,T Brits,FG Kemp,A Bosch,,0,2,2,,,,31934231934
+2,South Africa,3,A Bosch,S Ecclestone,T Brits,,0,1,1,,,,31934231934
+2,South Africa,3,T Brits,S Ecclestone,A Bosch,,0,0,0,,,,31934231934
+2,South Africa,3,T Brits,S Ecclestone,A Bosch,,0,4,4,,,,31934231934
+2,South Africa,3,T Brits,S Ecclestone,A Bosch,,0,0,0,,,,31934231934
+2,South Africa,3,T Brits,S Ecclestone,A Bosch,,0,0,0,,,,31934231934
+2,South Africa,3,T Brits,S Ecclestone,A Bosch,,0,1,1,,,,31934231934
+2,South Africa,4,T Brits,IECM Wong,A Bosch,,0,4,4,,,,31934231934
+2,South Africa,4,T Brits,IECM Wong,A Bosch,,0,0,0,,,,31934231934
+2,South Africa,4,T Brits,IECM Wong,A Bosch,wides,1,1,0,,,,31934231934
+2,South Africa,4,T Brits,IECM Wong,A Bosch,,0,0,0,,,,31934231934
+2,South Africa,4,T Brits,IECM Wong,A Bosch,,0,4,4,,,,31934231934
+2,South Africa,4,T Brits,IECM Wong,A Bosch,,0,4,4,,,,31934231934
+2,South Africa,4,T Brits,IECM Wong,A Bosch,,0,1,1,,,,31934231934
+2,South Africa,5,T Brits,KH Brunt,A Bosch,,0,0,0,,,,31934231934
+2,South Africa,5,T Brits,KH Brunt,A Bosch,,0,4,4,,,,31934231934
+2,South Africa,5,T Brits,KH Brunt,A Bosch,,0,0,0,,,,31934231934
+2,South Africa,5,T Brits,KH Brunt,A Bosch,,0,0,0,,,,31934231934
+2,South Africa,5,T Brits,KH Brunt,A Bosch,,0,0,0,,,,31934231934
+2,South Africa,5,T Brits,KH Brunt,A Bosch,,0,1,1,,,,31934231934
+2,South Africa,6,T Brits,S Glenn,A Bosch,byes,1,1,0,,,,31934231934
+2,South Africa,6,A Bosch,S Glenn,T Brits,,0,0,0,,,,31934231934
+2,South Africa,6,A Bosch,S Glenn,T Brits,,0,1,1,,,,31934231934
+2,South Africa,6,T Brits,S Glenn,A Bosch,,0,1,1,,,,31934231934
+2,South Africa,6,A Bosch,S Glenn,T Brits,,0,0,0,,,,31934231934
+2,South Africa,6,A Bosch,S Glenn,T Brits,,0,1,1,,,,31934231934
+2,South Africa,7,A Bosch,S Ecclestone,T Brits,,0,0,0,,,,31934231934
+2,South Africa,7,A Bosch,S Ecclestone,T Brits,legbyes,1,1,0,,,,31934231934
+2,South Africa,7,T Brits,S Ecclestone,A Bosch,,0,2,2,,,,31934231934
+2,South Africa,7,T Brits,S Ecclestone,A Bosch,,0,1,1,,,,31934231934
+2,South Africa,7,A Bosch,S Ecclestone,T Brits,,0,1,1,,,,31934231934
+2,South Africa,7,T Brits,S Ecclestone,A Bosch,,0,1,1,,,,31934231934
+2,South Africa,8,T Brits,FG Kemp,A Bosch,,0,0,0,,,,31934231934
+2,South Africa,8,T Brits,FG Kemp,A Bosch,,0,0,0,,,,31934231934
+2,South Africa,8,T Brits,FG Kemp,A Bosch,,0,1,1,,,,31934231934
+2,South Africa,8,A Bosch,FG Kemp,T Brits,,0,1,1,,,,31934231934
+2,South Africa,8,T Brits,FG Kemp,A Bosch,,0,1,1,,,,31934231934
+2,South Africa,8,A Bosch,FG Kemp,T Brits,,0,0,0,stumped,A Bosch,AE Jones,31934231934
+2,South Africa,9,T Brits,NR Sciver,L Wolvaardt,,0,0,0,,,,31934231934
+2,South Africa,9,T Brits,NR Sciver,L Wolvaardt,wides,1,1,0,,,,31934231934
+2,South Africa,9,T Brits,NR Sciver,L Wolvaardt,wides,1,1,0,,,,31934231934
+2,South Africa,9,T Brits,NR Sciver,L Wolvaardt,,0,2,2,,,,31934231934
+2,South Africa,9,T Brits,NR Sciver,L Wolvaardt,,0,1,1,,,,31934231934
+2,South Africa,9,L Wolvaardt,NR Sciver,T Brits,,0,1,1,,,,31934231934
+2,South Africa,9,T Brits,NR Sciver,L Wolvaardt,,0,4,4,,,,31934231934
+2,South Africa,9,T Brits,NR Sciver,L Wolvaardt,,0,0,0,,,,31934231934
+2,South Africa,10,L Wolvaardt,S Glenn,T Brits,,0,1,1,,,,31934231934
+2,South Africa,10,T Brits,S Glenn,L Wolvaardt,,0,0,0,,,,31934231934
+2,South Africa,10,T Brits,S Glenn,L Wolvaardt,,0,1,1,,,,31934231934
+2,South Africa,10,L Wolvaardt,S Glenn,T Brits,,0,1,1,,,,31934231934
+2,South Africa,10,T Brits,S Glenn,L Wolvaardt,,0,0,0,,,,31934231934
+2,South Africa,10,T Brits,S Glenn,L Wolvaardt,,0,1,1,,,,31934231934
+2,South Africa,11,T Brits,A Capsey,L Wolvaardt,,0,0,0,,,,31934231934
+2,South Africa,11,T Brits,A Capsey,L Wolvaardt,,0,1,1,,,,31934231934
+2,South Africa,11,L Wolvaardt,A Capsey,T Brits,,0,1,1,,,,31934231934
+2,South Africa,11,T Brits,A Capsey,L Wolvaardt,,0,0,0,,,,31934231934
+2,South Africa,11,T Brits,A Capsey,L Wolvaardt,,0,1,1,,,,31934231934
+2,South Africa,11,L Wolvaardt,A Capsey,T Brits,,0,1,1,,,,31934231934
+2,South Africa,12,L Wolvaardt,S Glenn,T Brits,,0,2,2,,,,31934231934
+2,South Africa,12,L Wolvaardt,S Glenn,T Brits,,0,1,1,,,,31934231934
+2,South Africa,12,T Brits,S Glenn,L Wolvaardt,,0,1,1,,,,31934231934
+2,South Africa,12,L Wolvaardt,S Glenn,T Brits,,0,4,4,,,,31934231934
+2,South Africa,12,L Wolvaardt,S Glenn,T Brits,,0,0,0,,,,31934231934
+2,South Africa,12,L Wolvaardt,S Glenn,T Brits,,0,1,1,,,,31934231934
+2,South Africa,13,L Wolvaardt,S Ecclestone,T Brits,,0,0,0,lbw,L Wolvaardt,,31934231934
+2,South Africa,13,M du Preez,S Ecclestone,T Brits,,0,0,0,,,,31934231934
+2,South Africa,13,M du Preez,S Ecclestone,T Brits,,0,1,1,,,,31934231934
+2,South Africa,13,T Brits,S Ecclestone,M du Preez,,0,1,1,,,,31934231934
+2,South Africa,13,M du Preez,S Ecclestone,T Brits,,0,1,1,,,,31934231934
+2,South Africa,13,T Brits,S Ecclestone,M du Preez,,0,1,1,,,,31934231934
+2,South Africa,14,T Brits,IECM Wong,M du Preez,,0,1,1,,,,31934231934
+2,South Africa,14,M du Preez,IECM Wong,T Brits,,0,1,1,,,,31934231934
+2,South Africa,14,T Brits,IECM Wong,M du Preez,,0,1,1,,,,31934231934
+2,South Africa,14,M du Preez,IECM Wong,T Brits,,0,4,4,,,,31934231934
+2,South Africa,14,M du Preez,IECM Wong,T Brits,,0,1,1,,,,31934231934
+2,South Africa,14,T Brits,IECM Wong,M du Preez,,0,1,1,,,,31934231934
+2,South Africa,15,T Brits,NR Sciver,M du Preez,,0,1,1,,,,31934231934
+2,South Africa,15,M du Preez,NR Sciver,T Brits,,0,0,0,,,,31934231934
+2,South Africa,15,M du Preez,NR Sciver,T Brits,,0,1,1,,,,31934231934
+2,South Africa,15,T Brits,NR Sciver,M du Preez,,0,2,2,,,,31934231934
+2,South Africa,15,T Brits,NR Sciver,M du Preez,,0,0,0,,,,31934231934
+2,South Africa,15,T Brits,NR Sciver,M du Preez,,0,1,1,,,,31934231934
+2,South Africa,16,T Brits,S Glenn,M du Preez,,0,1,1,,,,31934231934
+2,South Africa,16,M du Preez,S Glenn,T Brits,,0,2,2,,,,31934231934
+2,South Africa,16,M du Preez,S Glenn,T Brits,,0,4,4,,,,31934231934
+2,South Africa,16,M du Preez,S Glenn,T Brits,,0,0,0,caught,M du Preez,A Capsey,31934231934
+2,South Africa,16,CL Tryon,S Glenn,T Brits,,0,0,0,,,,31934231934
+2,South Africa,16,CL Tryon,S Glenn,T Brits,,0,0,0,,,,31934231934
+2,South Africa,17,T Brits,FG Kemp,CL Tryon,,0,2,2,,,,31934231934
+2,South Africa,17,T Brits,FG Kemp,CL Tryon,,0,0,0,caught,T Brits,S Ecclestone,31934231934
+2,South Africa,17,CL Tryon,FG Kemp,D Tucker,,0,0,0,,,,31934231934
+2,South Africa,17,CL Tryon,FG Kemp,D Tucker,,0,1,1,,,,31934231934
+2,South Africa,17,D Tucker,FG Kemp,CL Tryon,,0,0,0,,,,31934231934
+2,South Africa,17,D Tucker,FG Kemp,CL Tryon,,0,4,4,,,,31934231934
+2,South Africa,18,CL Tryon,IECM Wong,D Tucker,legbyes,1,1,0,,,,31934231934
+2,South Africa,18,D Tucker,IECM Wong,CL Tryon,,0,1,1,,,,31934231934
+2,South Africa,18,CL Tryon,IECM Wong,D Tucker,,0,2,2,,,,31934231934
+2,South Africa,18,CL Tryon,IECM Wong,D Tucker,,0,0,0,,,,31934231934
+2,South Africa,18,CL Tryon,IECM Wong,D Tucker,wides,5,5,0,,,,31934231934
+2,South Africa,18,CL Tryon,IECM Wong,D Tucker,,0,4,4,,,,31934231934
+2,South Africa,18,CL Tryon,IECM Wong,D Tucker,,0,0,0,,,,31934231934
+2,South Africa,19,D Tucker,S Ecclestone,CL Tryon,,0,1,1,,,,31934231934
+2,South Africa,19,CL Tryon,S Ecclestone,D Tucker,,0,2,2,,,,31934231934
+2,South Africa,19,CL Tryon,S Ecclestone,D Tucker,,0,1,1,,,,31934231934
+2,South Africa,19,D Tucker,S Ecclestone,CL Tryon,,0,1,1,,,,31934231934
+2,South Africa,19,CL Tryon,S Ecclestone,D Tucker,,0,4,4,,,,31934231934
+2,South Africa,19,CL Tryon,S Ecclestone,D Tucker,,0,0,0,bowled,CL Tryon,,31934231934

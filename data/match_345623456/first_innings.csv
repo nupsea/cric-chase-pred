@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,L Lee,Asmavia Iqbal,T Chetty,,0,1,1,,,,345623456
+1,South Africa,0,T Chetty,Asmavia Iqbal,L Lee,,0,0,0,,,,345623456
+1,South Africa,0,T Chetty,Asmavia Iqbal,L Lee,wides,1,1,0,,,,345623456
+1,South Africa,0,T Chetty,Asmavia Iqbal,L Lee,,0,0,0,,,,345623456
+1,South Africa,0,T Chetty,Asmavia Iqbal,L Lee,,0,0,0,,,,345623456
+1,South Africa,0,T Chetty,Asmavia Iqbal,L Lee,,0,0,0,caught,T Chetty,Batool Fatima,345623456
+1,South Africa,0,M du Preez,Asmavia Iqbal,L Lee,,0,0,0,,,,345623456
+1,South Africa,1,L Lee,Sania Khan,M du Preez,,0,0,0,,,,345623456
+1,South Africa,1,L Lee,Sania Khan,M du Preez,,0,0,0,,,,345623456
+1,South Africa,1,L Lee,Sania Khan,M du Preez,wides,1,1,0,,,,345623456
+1,South Africa,1,L Lee,Sania Khan,M du Preez,,0,0,0,,,,345623456
+1,South Africa,1,L Lee,Sania Khan,M du Preez,,0,3,3,,,,345623456
+1,South Africa,1,M du Preez,Sania Khan,L Lee,,0,0,0,,,,345623456
+1,South Africa,1,M du Preez,Sania Khan,L Lee,,0,1,1,,,,345623456
+1,South Africa,2,M du Preez,Asmavia Iqbal,L Lee,,0,0,0,,,,345623456
+1,South Africa,2,M du Preez,Asmavia Iqbal,L Lee,,0,1,1,,,,345623456
+1,South Africa,2,L Lee,Asmavia Iqbal,M du Preez,,0,1,1,,,,345623456
+1,South Africa,2,M du Preez,Asmavia Iqbal,L Lee,,0,1,1,,,,345623456
+1,South Africa,2,L Lee,Asmavia Iqbal,M du Preez,,0,1,1,,,,345623456
+1,South Africa,2,M du Preez,Asmavia Iqbal,L Lee,,0,0,0,,,,345623456
+1,South Africa,3,L Lee,Sania Khan,M du Preez,,0,1,1,,,,345623456
+1,South Africa,3,M du Preez,Sania Khan,L Lee,,0,1,1,,,,345623456
+1,South Africa,3,L Lee,Sania Khan,M du Preez,,0,0,0,,,,345623456
+1,South Africa,3,L Lee,Sania Khan,M du Preez,,0,0,0,caught,L Lee,Nain Abidi,345623456
+1,South Africa,3,M Kapp,Sania Khan,M du Preez,,0,0,0,,,,345623456
+1,South Africa,3,M Kapp,Sania Khan,M du Preez,,0,0,0,,,,345623456
+1,South Africa,4,M du Preez,Asmavia Iqbal,M Kapp,,0,2,2,,,,345623456
+1,South Africa,4,M du Preez,Asmavia Iqbal,M Kapp,,0,0,0,,,,345623456
+1,South Africa,4,M du Preez,Asmavia Iqbal,M Kapp,,0,0,0,,,,345623456
+1,South Africa,4,M du Preez,Asmavia Iqbal,M Kapp,,0,1,1,,,,345623456
+1,South Africa,4,M Kapp,Asmavia Iqbal,M du Preez,,0,0,0,,,,345623456
+1,South Africa,4,M Kapp,Asmavia Iqbal,M du Preez,,0,2,2,,,,345623456
+1,South Africa,5,M du Preez,Sania Khan,M Kapp,,0,0,0,,,,345623456
+1,South Africa,5,M du Preez,Sania Khan,M Kapp,,0,4,4,,,,345623456
+1,South Africa,5,M du Preez,Sania Khan,M Kapp,,0,0,0,,,,345623456
+1,South Africa,5,M du Preez,Sania Khan,M Kapp,,0,0,0,,,,345623456
+1,South Africa,5,M du Preez,Sania Khan,M Kapp,,0,1,1,,,,345623456
+1,South Africa,5,M Kapp,Sania Khan,M du Preez,,0,1,1,,,,345623456
+1,South Africa,6,M Kapp,Sana Mir,M du Preez,,0,2,2,,,,345623456
+1,South Africa,6,M Kapp,Sana Mir,M du Preez,,0,1,1,,,,345623456
+1,South Africa,6,M du Preez,Sana Mir,M Kapp,,0,0,0,,,,345623456
+1,South Africa,6,M du Preez,Sana Mir,M Kapp,,0,0,0,,,,345623456
+1,South Africa,6,M du Preez,Sana Mir,M Kapp,,0,0,0,,,,345623456
+1,South Africa,6,M du Preez,Sana Mir,M Kapp,,0,0,0,,,,345623456
+1,South Africa,7,M Kapp,Sadia Yousuf,M du Preez,,0,0,0,,,,345623456
+1,South Africa,7,M Kapp,Sadia Yousuf,M du Preez,,0,0,0,,,,345623456
+1,South Africa,7,M Kapp,Sadia Yousuf,M du Preez,,0,0,0,,,,345623456
+1,South Africa,7,M Kapp,Sadia Yousuf,M du Preez,,0,1,1,,,,345623456
+1,South Africa,7,M du Preez,Sadia Yousuf,M Kapp,,0,1,1,,,,345623456
+1,South Africa,7,M Kapp,Sadia Yousuf,M du Preez,,0,0,0,,,,345623456
+1,South Africa,8,M du Preez,Sana Mir,M Kapp,,0,0,0,,,,345623456
+1,South Africa,8,M du Preez,Sana Mir,M Kapp,,0,1,1,,,,345623456
+1,South Africa,8,M Kapp,Sana Mir,M du Preez,,0,4,4,,,,345623456
+1,South Africa,8,M Kapp,Sana Mir,M du Preez,,0,0,0,,,,345623456
+1,South Africa,8,M Kapp,Sana Mir,M du Preez,,0,0,0,caught,M Kapp,Asmavia Iqbal,345623456
+1,South Africa,8,M du Preez,Sana Mir,SA Fritz,,0,0,0,,,,345623456
+1,South Africa,9,SA Fritz,Sadia Yousuf,M du Preez,,0,0,0,,,,345623456
+1,South Africa,9,SA Fritz,Sadia Yousuf,M du Preez,,0,2,2,,,,345623456
+1,South Africa,9,SA Fritz,Sadia Yousuf,M du Preez,,0,0,0,caught,SA Fritz,Qanita Jalil,345623456
+1,South Africa,9,S Loubser,Sadia Yousuf,M du Preez,,0,0,0,,,,345623456
+1,South Africa,9,S Loubser,Sadia Yousuf,M du Preez,,0,0,0,,,,345623456
+1,South Africa,9,S Loubser,Sadia Yousuf,M du Preez,,0,1,1,,,,345623456
+1,South Africa,10,S Loubser,Nida Dar,M du Preez,,0,0,0,,,,345623456
+1,South Africa,10,S Loubser,Nida Dar,M du Preez,,0,0,0,,,,345623456
+1,South Africa,10,S Loubser,Nida Dar,M du Preez,,0,1,1,,,,345623456
+1,South Africa,10,M du Preez,Nida Dar,S Loubser,,0,0,0,,,,345623456
+1,South Africa,10,M du Preez,Nida Dar,S Loubser,,0,0,0,,,,345623456
+1,South Africa,10,M du Preez,Nida Dar,S Loubser,,0,0,0,,,,345623456
+1,South Africa,11,S Loubser,Sadia Yousuf,M du Preez,,0,0,0,,,,345623456
+1,South Africa,11,S Loubser,Sadia Yousuf,M du Preez,,0,0,0,bowled,S Loubser,,345623456
+1,South Africa,11,CL Tryon,Sadia Yousuf,M du Preez,,0,0,0,,,,345623456
+1,South Africa,11,CL Tryon,Sadia Yousuf,M du Preez,,0,1,1,,,,345623456
+1,South Africa,11,M du Preez,Sadia Yousuf,CL Tryon,,0,0,0,,,,345623456
+1,South Africa,11,M du Preez,Sadia Yousuf,CL Tryon,,0,0,0,,,,345623456
+1,South Africa,12,CL Tryon,Nida Dar,M du Preez,,0,0,0,,,,345623456
+1,South Africa,12,CL Tryon,Nida Dar,M du Preez,,0,0,0,,,,345623456
+1,South Africa,12,CL Tryon,Nida Dar,M du Preez,,0,0,0,,,,345623456
+1,South Africa,12,CL Tryon,Nida Dar,M du Preez,,0,0,0,,,,345623456
+1,South Africa,12,CL Tryon,Nida Dar,M du Preez,,0,0,0,,,,345623456
+1,South Africa,12,CL Tryon,Nida Dar,M du Preez,,0,0,0,,,,345623456
+1,South Africa,13,M du Preez,Qanita Jalil,CL Tryon,,0,0,0,,,,345623456
+1,South Africa,13,M du Preez,Qanita Jalil,CL Tryon,,0,0,0,,,,345623456
+1,South Africa,13,M du Preez,Qanita Jalil,CL Tryon,,0,0,0,,,,345623456
+1,South Africa,13,M du Preez,Qanita Jalil,CL Tryon,,0,0,0,bowled,M du Preez,,345623456
+1,South Africa,13,S Luus,Qanita Jalil,CL Tryon,,0,0,0,,,,345623456
+1,South Africa,13,S Luus,Qanita Jalil,CL Tryon,,0,1,1,,,,345623456
+1,South Africa,14,S Luus,Nida Dar,CL Tryon,,0,0,0,,,,345623456
+1,South Africa,14,S Luus,Nida Dar,CL Tryon,,0,0,0,,,,345623456
+1,South Africa,14,S Luus,Nida Dar,CL Tryon,,0,0,0,,,,345623456
+1,South Africa,14,S Luus,Nida Dar,CL Tryon,,0,1,1,,,,345623456
+1,South Africa,14,CL Tryon,Nida Dar,S Luus,,0,0,0,,,,345623456
+1,South Africa,14,CL Tryon,Nida Dar,S Luus,,0,1,1,,,,345623456
+1,South Africa,15,CL Tryon,Qanita Jalil,S Luus,,0,0,0,,,,345623456
+1,South Africa,15,CL Tryon,Qanita Jalil,S Luus,,0,1,1,,,,345623456
+1,South Africa,15,S Luus,Qanita Jalil,CL Tryon,,0,4,4,,,,345623456
+1,South Africa,15,S Luus,Qanita Jalil,CL Tryon,,0,0,0,,,,345623456
+1,South Africa,15,S Luus,Qanita Jalil,CL Tryon,,0,2,2,,,,345623456
+1,South Africa,15,S Luus,Qanita Jalil,CL Tryon,,0,1,1,,,,345623456
+1,South Africa,16,S Luus,Nida Dar,CL Tryon,,0,0,0,stumped,S Luus,Batool Fatima,345623456
+1,South Africa,16,S Ismail,Nida Dar,CL Tryon,,0,0,0,,,,345623456
+1,South Africa,16,S Ismail,Nida Dar,CL Tryon,,0,0,0,,,,345623456
+1,South Africa,16,S Ismail,Nida Dar,CL Tryon,,0,0,0,lbw,S Ismail,,345623456
+1,South Africa,16,M Daniels,Nida Dar,CL Tryon,,0,0,0,,,,345623456
+1,South Africa,16,M Daniels,Nida Dar,CL Tryon,,0,0,0,,,,345623456
+1,South Africa,17,CL Tryon,Bismah Maroof,M Daniels,,0,1,1,,,,345623456
+1,South Africa,17,M Daniels,Bismah Maroof,CL Tryon,,0,0,0,,,,345623456
+1,South Africa,17,M Daniels,Bismah Maroof,CL Tryon,,0,0,0,,,,345623456
+1,South Africa,17,M Daniels,Bismah Maroof,CL Tryon,,0,0,0,,,,345623456
+1,South Africa,17,M Daniels,Bismah Maroof,CL Tryon,,0,0,0,,,,345623456
+1,South Africa,17,M Daniels,Bismah Maroof,CL Tryon,,0,1,1,,,,345623456
+1,South Africa,18,M Daniels,Sana Mir,CL Tryon,,0,0,0,,,,345623456
+1,South Africa,18,M Daniels,Sana Mir,CL Tryon,,0,0,0,,,,345623456
+1,South Africa,18,M Daniels,Sana Mir,CL Tryon,,0,0,0,,,,345623456
+1,South Africa,18,M Daniels,Sana Mir,CL Tryon,,0,0,0,,,,345623456
+1,South Africa,18,M Daniels,Sana Mir,CL Tryon,,0,0,0,,,,345623456
+1,South Africa,18,M Daniels,Sana Mir,CL Tryon,,0,1,1,,,,345623456
+1,South Africa,19,M Daniels,Sadia Yousuf,CL Tryon,,0,2,2,,,,345623456
+1,South Africa,19,M Daniels,Sadia Yousuf,CL Tryon,,0,1,1,,,,345623456
+1,South Africa,19,CL Tryon,Sadia Yousuf,M Daniels,,0,4,4,,,,345623456
+1,South Africa,19,CL Tryon,Sadia Yousuf,M Daniels,,0,1,1,,,,345623456
+1,South Africa,19,M Daniels,Sadia Yousuf,CL Tryon,,0,2,2,,,,345623456
+1,South Africa,19,M Daniels,Sadia Yousuf,CL Tryon,,0,1,1,,,,345623456

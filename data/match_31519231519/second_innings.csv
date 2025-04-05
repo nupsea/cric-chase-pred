@@ -1,0 +1,102 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Australia,0,MS Wade,FH Edwards,AJ Finch,,0,3,3,,,,31519231519
+2,Australia,0,AJ Finch,FH Edwards,MS Wade,,0,1,1,,,,31519231519
+2,Australia,0,MS Wade,FH Edwards,AJ Finch,,0,1,1,,,,31519231519
+2,Australia,0,AJ Finch,FH Edwards,MS Wade,,0,2,2,,,,31519231519
+2,Australia,0,AJ Finch,FH Edwards,MS Wade,,0,0,0,,,,31519231519
+2,Australia,0,AJ Finch,FH Edwards,MS Wade,,0,1,1,,,,31519231519
+2,Australia,1,AJ Finch,FA Allen,MS Wade,,0,0,0,caught,AJ Finch,E Lewis,31519231519
+2,Australia,1,MR Marsh,FA Allen,MS Wade,,0,0,0,,,,31519231519
+2,Australia,1,MR Marsh,FA Allen,MS Wade,,0,2,2,,,,31519231519
+2,Australia,1,MR Marsh,FA Allen,MS Wade,,0,1,1,,,,31519231519
+2,Australia,1,MS Wade,FA Allen,MR Marsh,,0,1,1,,,,31519231519
+2,Australia,1,MR Marsh,FA Allen,MS Wade,,0,4,4,,,,31519231519
+2,Australia,2,MS Wade,FH Edwards,MR Marsh,,0,4,4,,,,31519231519
+2,Australia,2,MS Wade,FH Edwards,MR Marsh,,0,2,2,,,,31519231519
+2,Australia,2,MS Wade,FH Edwards,MR Marsh,wides,1,1,0,,,,31519231519
+2,Australia,2,MS Wade,FH Edwards,MR Marsh,,0,0,0,,,,31519231519
+2,Australia,2,MS Wade,FH Edwards,MR Marsh,,0,6,6,,,,31519231519
+2,Australia,2,MS Wade,FH Edwards,MR Marsh,,0,2,2,,,,31519231519
+2,Australia,2,MS Wade,FH Edwards,MR Marsh,,0,1,1,,,,31519231519
+2,Australia,3,MS Wade,AD Russell,MR Marsh,,0,6,6,,,,31519231519
+2,Australia,3,MS Wade,AD Russell,MR Marsh,,0,0,0,,,,31519231519
+2,Australia,3,MS Wade,AD Russell,MR Marsh,,0,6,6,,,,31519231519
+2,Australia,3,MS Wade,AD Russell,MR Marsh,,0,1,1,,,,31519231519
+2,Australia,3,MR Marsh,AD Russell,MS Wade,,0,1,1,,,,31519231519
+2,Australia,3,MS Wade,AD Russell,MR Marsh,,0,0,0,caught,MS Wade,SO Hetmyer,31519231519
+2,Australia,4,MR Marsh,DJ Bravo,JR Philippe,,0,0,0,,,,31519231519
+2,Australia,4,MR Marsh,DJ Bravo,JR Philippe,,0,4,4,,,,31519231519
+2,Australia,4,MR Marsh,DJ Bravo,JR Philippe,wides,1,1,0,,,,31519231519
+2,Australia,4,MR Marsh,DJ Bravo,JR Philippe,,0,1,1,,,,31519231519
+2,Australia,4,JR Philippe,DJ Bravo,MR Marsh,,0,0,0,,,,31519231519
+2,Australia,4,JR Philippe,DJ Bravo,MR Marsh,,0,0,0,,,,31519231519
+2,Australia,4,JR Philippe,DJ Bravo,MR Marsh,,0,1,1,,,,31519231519
+2,Australia,5,JR Philippe,OC McCoy,MR Marsh,,0,0,0,caught,JR Philippe,DJ Bravo,31519231519
+2,Australia,5,MC Henriques,OC McCoy,MR Marsh,,0,6,6,,,,31519231519
+2,Australia,5,MC Henriques,OC McCoy,MR Marsh,,0,6,6,,,,31519231519
+2,Australia,5,MC Henriques,OC McCoy,MR Marsh,,0,1,1,,,,31519231519
+2,Australia,5,MR Marsh,OC McCoy,MC Henriques,,0,0,0,,,,31519231519
+2,Australia,5,MR Marsh,OC McCoy,MC Henriques,,0,4,4,,,,31519231519
+2,Australia,6,MC Henriques,HR Walsh,MR Marsh,,0,1,1,,,,31519231519
+2,Australia,6,MR Marsh,HR Walsh,MC Henriques,,0,1,1,,,,31519231519
+2,Australia,6,MC Henriques,HR Walsh,MR Marsh,,0,0,0,,,,31519231519
+2,Australia,6,MC Henriques,HR Walsh,MR Marsh,,0,1,1,,,,31519231519
+2,Australia,6,MR Marsh,HR Walsh,MC Henriques,,0,6,6,,,,31519231519
+2,Australia,6,MR Marsh,HR Walsh,MC Henriques,,0,1,1,,,,31519231519
+2,Australia,7,MR Marsh,FA Allen,MC Henriques,,0,6,6,,,,31519231519
+2,Australia,7,MR Marsh,FA Allen,MC Henriques,,0,1,1,,,,31519231519
+2,Australia,7,MC Henriques,FA Allen,MR Marsh,,0,1,1,,,,31519231519
+2,Australia,7,MR Marsh,FA Allen,MC Henriques,,0,1,1,,,,31519231519
+2,Australia,7,MC Henriques,FA Allen,MR Marsh,,0,0,0,caught,MC Henriques,DJ Bravo,31519231519
+2,Australia,7,BR McDermott,FA Allen,MR Marsh,,0,0,0,,,,31519231519
+2,Australia,8,MR Marsh,DJ Bravo,BR McDermott,,0,0,0,,,,31519231519
+2,Australia,8,MR Marsh,DJ Bravo,BR McDermott,wides,1,1,0,,,,31519231519
+2,Australia,8,MR Marsh,DJ Bravo,BR McDermott,,0,1,1,,,,31519231519
+2,Australia,8,BR McDermott,DJ Bravo,MR Marsh,,0,0,0,,,,31519231519
+2,Australia,8,BR McDermott,DJ Bravo,MR Marsh,,0,1,1,,,,31519231519
+2,Australia,8,MR Marsh,DJ Bravo,BR McDermott,,0,4,4,,,,31519231519
+2,Australia,8,MR Marsh,DJ Bravo,BR McDermott,wides,1,1,0,,,,31519231519
+2,Australia,8,MR Marsh,DJ Bravo,BR McDermott,,0,1,1,,,,31519231519
+2,Australia,9,MR Marsh,FA Allen,BR McDermott,,0,1,1,,,,31519231519
+2,Australia,9,BR McDermott,FA Allen,MR Marsh,,0,1,1,,,,31519231519
+2,Australia,9,MR Marsh,FA Allen,BR McDermott,,0,0,0,,,,31519231519
+2,Australia,9,MR Marsh,FA Allen,BR McDermott,,0,4,4,,,,31519231519
+2,Australia,9,MR Marsh,FA Allen,BR McDermott,,0,1,1,,,,31519231519
+2,Australia,9,BR McDermott,FA Allen,MR Marsh,,0,0,0,,,,31519231519
+2,Australia,10,MR Marsh,HR Walsh,BR McDermott,,0,2,2,,,,31519231519
+2,Australia,10,MR Marsh,HR Walsh,BR McDermott,,0,1,1,,,,31519231519
+2,Australia,10,BR McDermott,HR Walsh,MR Marsh,,0,0,0,bowled,BR McDermott,,31519231519
+2,Australia,10,DT Christian,HR Walsh,MR Marsh,,0,1,1,,,,31519231519
+2,Australia,10,MR Marsh,HR Walsh,DT Christian,,0,1,1,,,,31519231519
+2,Australia,10,DT Christian,HR Walsh,MR Marsh,,0,1,1,,,,31519231519
+2,Australia,11,DT Christian,OC McCoy,MR Marsh,,0,1,1,,,,31519231519
+2,Australia,11,MR Marsh,OC McCoy,DT Christian,,0,0,0,,,,31519231519
+2,Australia,11,MR Marsh,OC McCoy,DT Christian,,0,1,1,,,,31519231519
+2,Australia,11,DT Christian,OC McCoy,MR Marsh,,0,0,0,,,,31519231519
+2,Australia,11,DT Christian,OC McCoy,MR Marsh,,0,0,0,,,,31519231519
+2,Australia,11,DT Christian,OC McCoy,MR Marsh,,0,2,2,,,,31519231519
+2,Australia,12,MR Marsh,HR Walsh,DT Christian,,0,1,1,,,,31519231519
+2,Australia,12,DT Christian,HR Walsh,MR Marsh,,0,1,1,,,,31519231519
+2,Australia,12,MR Marsh,HR Walsh,DT Christian,,0,0,0,caught and bowled,MR Marsh,,31519231519
+2,Australia,12,AC Agar,HR Walsh,DT Christian,,0,0,0,,,,31519231519
+2,Australia,12,AC Agar,HR Walsh,DT Christian,,0,1,1,,,,31519231519
+2,Australia,12,DT Christian,HR Walsh,AC Agar,,0,1,1,,,,31519231519
+2,Australia,13,DT Christian,OC McCoy,AC Agar,,0,2,2,,,,31519231519
+2,Australia,13,DT Christian,OC McCoy,AC Agar,,0,1,1,,,,31519231519
+2,Australia,13,AC Agar,OC McCoy,DT Christian,,0,0,0,,,,31519231519
+2,Australia,13,AC Agar,OC McCoy,DT Christian,,0,0,0,,,,31519231519
+2,Australia,13,AC Agar,OC McCoy,DT Christian,,0,0,0,caught and bowled,AC Agar,,31519231519
+2,Australia,13,MA Starc,OC McCoy,DT Christian,,0,1,1,,,,31519231519
+2,Australia,14,MA Starc,HR Walsh,DT Christian,,0,1,1,,,,31519231519
+2,Australia,14,DT Christian,HR Walsh,MA Starc,wides,1,1,0,,,,31519231519
+2,Australia,14,DT Christian,HR Walsh,MA Starc,,0,0,0,,,,31519231519
+2,Australia,14,DT Christian,HR Walsh,MA Starc,,0,0,0,caught,DT Christian,DJ Bravo,31519231519
+2,Australia,14,MA Starc,HR Walsh,A Zampa,,0,0,0,,,,31519231519
+2,Australia,14,MA Starc,HR Walsh,A Zampa,,0,1,1,,,,31519231519
+2,Australia,14,A Zampa,HR Walsh,MA Starc,,0,0,0,,,,31519231519
+2,Australia,15,MA Starc,OC McCoy,A Zampa,,0,0,0,,,,31519231519
+2,Australia,15,MA Starc,OC McCoy,A Zampa,,0,0,0,,,,31519231519
+2,Australia,15,MA Starc,OC McCoy,A Zampa,,0,0,0,,,,31519231519
+2,Australia,15,MA Starc,OC McCoy,A Zampa,,0,0,0,caught,MA Starc,FA Allen,31519231519
+2,Australia,15,A Zampa,OC McCoy,JR Hazlewood,,0,1,1,,,,31519231519
+2,Australia,15,JR Hazlewood,OC McCoy,A Zampa,,0,0,0,caught,JR Hazlewood,N Pooran,31519231519

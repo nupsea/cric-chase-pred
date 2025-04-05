@@ -1,0 +1,87 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,LE Bosman,Syed Rasel,HH Gibbs,,0,0,0,,,,3562356
+1,South Africa,0,LE Bosman,Syed Rasel,HH Gibbs,,0,1,1,,,,3562356
+1,South Africa,0,HH Gibbs,Syed Rasel,LE Bosman,,0,1,1,,,,3562356
+1,South Africa,0,LE Bosman,Syed Rasel,HH Gibbs,,0,0,0,,,,3562356
+1,South Africa,0,LE Bosman,Syed Rasel,HH Gibbs,,0,1,1,,,,3562356
+1,South Africa,0,HH Gibbs,Syed Rasel,LE Bosman,,0,0,0,,,,3562356
+1,South Africa,1,LE Bosman,Shahadat Hossain,HH Gibbs,,0,0,0,,,,3562356
+1,South Africa,1,LE Bosman,Shahadat Hossain,HH Gibbs,,0,0,0,,,,3562356
+1,South Africa,1,LE Bosman,Shahadat Hossain,HH Gibbs,,0,0,0,,,,3562356
+1,South Africa,1,LE Bosman,Shahadat Hossain,HH Gibbs,,0,0,0,,,,3562356
+1,South Africa,1,LE Bosman,Shahadat Hossain,HH Gibbs,,0,0,0,,,,3562356
+1,South Africa,1,LE Bosman,Shahadat Hossain,HH Gibbs,,0,4,4,,,,3562356
+1,South Africa,2,HH Gibbs,Syed Rasel,LE Bosman,,0,4,4,,,,3562356
+1,South Africa,2,HH Gibbs,Syed Rasel,LE Bosman,,0,4,4,,,,3562356
+1,South Africa,2,HH Gibbs,Syed Rasel,LE Bosman,,0,0,0,,,,3562356
+1,South Africa,2,HH Gibbs,Syed Rasel,LE Bosman,,0,4,4,,,,3562356
+1,South Africa,2,HH Gibbs,Syed Rasel,LE Bosman,,0,4,4,,,,3562356
+1,South Africa,2,HH Gibbs,Syed Rasel,LE Bosman,,0,0,0,,,,3562356
+1,South Africa,3,LE Bosman,Shahadat Hossain,HH Gibbs,,0,2,2,,,,3562356
+1,South Africa,3,LE Bosman,Shahadat Hossain,HH Gibbs,,0,4,4,,,,3562356
+1,South Africa,3,LE Bosman,Shahadat Hossain,HH Gibbs,legbyes,5,5,0,,,,3562356
+1,South Africa,3,HH Gibbs,Shahadat Hossain,LE Bosman,,0,1,1,,,,3562356
+1,South Africa,3,LE Bosman,Shahadat Hossain,HH Gibbs,,0,4,4,,,,3562356
+1,South Africa,3,LE Bosman,Shahadat Hossain,HH Gibbs,,0,4,4,,,,3562356
+1,South Africa,4,HH Gibbs,Syed Rasel,LE Bosman,,0,0,0,bowled,HH Gibbs,,3562356
+1,South Africa,4,JL Ontong,Syed Rasel,LE Bosman,wides,5,5,0,,,,3562356
+1,South Africa,4,JL Ontong,Syed Rasel,LE Bosman,,0,0,0,,,,3562356
+1,South Africa,4,JL Ontong,Syed Rasel,LE Bosman,,0,0,0,,,,3562356
+1,South Africa,4,JL Ontong,Syed Rasel,LE Bosman,legbyes,1,1,0,,,,3562356
+1,South Africa,4,LE Bosman,Syed Rasel,JL Ontong,,0,2,2,,,,3562356
+1,South Africa,4,LE Bosman,Syed Rasel,JL Ontong,,0,6,6,,,,3562356
+1,South Africa,5,JL Ontong,Abdur Razzak,LE Bosman,,0,1,1,,,,3562356
+1,South Africa,5,LE Bosman,Abdur Razzak,JL Ontong,,0,0,0,caught,LE Bosman,Mohammad Ashraful,3562356
+1,South Africa,5,JL Ontong,Abdur Razzak,AB de Villiers,,0,2,2,,,,3562356
+1,South Africa,5,JL Ontong,Abdur Razzak,AB de Villiers,,0,1,1,,,,3562356
+1,South Africa,5,AB de Villiers,Abdur Razzak,JL Ontong,,0,1,1,,,,3562356
+1,South Africa,5,JL Ontong,Abdur Razzak,AB de Villiers,,0,0,0,,,,3562356
+1,South Africa,6,AB de Villiers,Syed Rasel,JL Ontong,,0,0,0,,,,3562356
+1,South Africa,6,AB de Villiers,Syed Rasel,JL Ontong,,0,2,2,,,,3562356
+1,South Africa,6,AB de Villiers,Syed Rasel,JL Ontong,,0,1,1,,,,3562356
+1,South Africa,6,JL Ontong,Syed Rasel,AB de Villiers,,0,0,0,,,,3562356
+1,South Africa,6,JL Ontong,Syed Rasel,AB de Villiers,,0,0,0,,,,3562356
+1,South Africa,6,JL Ontong,Syed Rasel,AB de Villiers,,0,1,1,,,,3562356
+1,South Africa,7,JL Ontong,Abdur Razzak,AB de Villiers,,0,1,1,,,,3562356
+1,South Africa,7,AB de Villiers,Abdur Razzak,JL Ontong,,0,4,4,,,,3562356
+1,South Africa,7,AB de Villiers,Abdur Razzak,JL Ontong,,0,0,0,,,,3562356
+1,South Africa,7,AB de Villiers,Abdur Razzak,JL Ontong,,0,0,0,,,,3562356
+1,South Africa,7,AB de Villiers,Abdur Razzak,JL Ontong,,0,1,1,,,,3562356
+1,South Africa,7,JL Ontong,Abdur Razzak,AB de Villiers,,0,0,0,caught,JL Ontong,Shakib Al Hasan,3562356
+1,South Africa,8,AB de Villiers,Shakib Al Hasan,JP Duminy,,0,3,3,,,,3562356
+1,South Africa,8,JP Duminy,Shakib Al Hasan,AB de Villiers,,0,3,3,,,,3562356
+1,South Africa,8,AB de Villiers,Shakib Al Hasan,JP Duminy,,0,0,0,,,,3562356
+1,South Africa,8,AB de Villiers,Shakib Al Hasan,JP Duminy,,0,1,1,,,,3562356
+1,South Africa,8,JP Duminy,Shakib Al Hasan,AB de Villiers,,0,1,1,,,,3562356
+1,South Africa,8,AB de Villiers,Shakib Al Hasan,JP Duminy,,0,2,2,,,,3562356
+1,South Africa,9,JP Duminy,Naeem Islam,AB de Villiers,,0,1,1,,,,3562356
+1,South Africa,9,AB de Villiers,Naeem Islam,JP Duminy,,0,2,2,,,,3562356
+1,South Africa,9,AB de Villiers,Naeem Islam,JP Duminy,,0,1,1,,,,3562356
+1,South Africa,9,JP Duminy,Naeem Islam,AB de Villiers,legbyes,1,1,0,,,,3562356
+1,South Africa,9,AB de Villiers,Naeem Islam,JP Duminy,,0,1,1,,,,3562356
+1,South Africa,9,JP Duminy,Naeem Islam,AB de Villiers,,0,1,1,,,,3562356
+1,South Africa,10,JP Duminy,Shakib Al Hasan,AB de Villiers,,0,0,0,caught,JP Duminy,Mushfiqur Rahim,3562356
+1,South Africa,10,JA Morkel,Shakib Al Hasan,AB de Villiers,,0,0,0,,,,3562356
+1,South Africa,10,JA Morkel,Shakib Al Hasan,AB de Villiers,,0,1,1,,,,3562356
+1,South Africa,10,AB de Villiers,Shakib Al Hasan,JA Morkel,,0,1,1,,,,3562356
+1,South Africa,10,JA Morkel,Shakib Al Hasan,AB de Villiers,,0,3,3,,,,3562356
+1,South Africa,10,AB de Villiers,Shakib Al Hasan,JA Morkel,,0,1,1,,,,3562356
+1,South Africa,11,AB de Villiers,Naeem Islam,JA Morkel,,0,0,0,,,,3562356
+1,South Africa,11,AB de Villiers,Naeem Islam,JA Morkel,,0,1,1,,,,3562356
+1,South Africa,11,JA Morkel,Naeem Islam,AB de Villiers,,0,1,1,,,,3562356
+1,South Africa,11,AB de Villiers,Naeem Islam,JA Morkel,,0,6,6,,,,3562356
+1,South Africa,11,AB de Villiers,Naeem Islam,JA Morkel,,0,4,4,,,,3562356
+1,South Africa,11,AB de Villiers,Naeem Islam,JA Morkel,,0,1,1,,,,3562356
+1,South Africa,12,AB de Villiers,Shakib Al Hasan,JA Morkel,,0,1,1,,,,3562356
+1,South Africa,12,JA Morkel,Shakib Al Hasan,AB de Villiers,,0,1,1,,,,3562356
+1,South Africa,12,AB de Villiers,Shakib Al Hasan,JA Morkel,,0,1,1,,,,3562356
+1,South Africa,12,JA Morkel,Shakib Al Hasan,AB de Villiers,,0,0,0,bowled,JA Morkel,,3562356
+1,South Africa,12,RK Kleinveldt,Shakib Al Hasan,AB de Villiers,,0,1,1,,,,3562356
+1,South Africa,12,AB de Villiers,Shakib Al Hasan,RK Kleinveldt,,0,1,1,,,,3562356
+1,South Africa,13,AB de Villiers,Abdur Razzak,RK Kleinveldt,,0,0,0,bowled,AB de Villiers,,3562356
+1,South Africa,13,J Botha,Abdur Razzak,RK Kleinveldt,,0,1,1,,,,3562356
+1,South Africa,13,RK Kleinveldt,Abdur Razzak,J Botha,,0,1,1,,,,3562356
+1,South Africa,13,J Botha,Abdur Razzak,RK Kleinveldt,,0,0,0,bowled,J Botha,,3562356
+1,South Africa,13,J Louw,Abdur Razzak,RK Kleinveldt,wides,1,1,0,,,,3562356
+1,South Africa,13,J Louw,Abdur Razzak,RK Kleinveldt,,0,1,1,,,,3562356
+1,South Africa,13,RK Kleinveldt,Abdur Razzak,J Louw,,0,1,1,,,,3562356

@@ -1,0 +1,92 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Ireland,0,PR Stirling,Mujeeb Ur Rahman,SR Thompson,,0,1,1,,,,390223902
+2,Ireland,0,SR Thompson,Mujeeb Ur Rahman,PR Stirling,,0,0,0,,,,390223902
+2,Ireland,0,SR Thompson,Mujeeb Ur Rahman,PR Stirling,,0,0,0,,,,390223902
+2,Ireland,0,SR Thompson,Mujeeb Ur Rahman,PR Stirling,,0,1,1,,,,390223902
+2,Ireland,0,PR Stirling,Mujeeb Ur Rahman,SR Thompson,,0,1,1,,,,390223902
+2,Ireland,0,SR Thompson,Mujeeb Ur Rahman,PR Stirling,,0,1,1,,,,390223902
+2,Ireland,1,SR Thompson,Aftab Alam,PR Stirling,,0,0,0,,,,390223902
+2,Ireland,1,SR Thompson,Aftab Alam,PR Stirling,,0,1,1,,,,390223902
+2,Ireland,1,PR Stirling,Aftab Alam,SR Thompson,,0,0,0,,,,390223902
+2,Ireland,1,PR Stirling,Aftab Alam,SR Thompson,,0,0,0,,,,390223902
+2,Ireland,1,PR Stirling,Aftab Alam,SR Thompson,wides,1,1,0,,,,390223902
+2,Ireland,1,PR Stirling,Aftab Alam,SR Thompson,,0,0,0,caught,PR Stirling,Rashid Khan,390223902
+2,Ireland,1,WTS Porterfield,Aftab Alam,SR Thompson,,0,1,1,,,,390223902
+2,Ireland,2,WTS Porterfield,Mujeeb Ur Rahman,SR Thompson,,0,1,1,,,,390223902
+2,Ireland,2,SR Thompson,Mujeeb Ur Rahman,WTS Porterfield,,0,0,0,caught,SR Thompson,Mohammad Nabi,390223902
+2,Ireland,2,WTS Porterfield,Mujeeb Ur Rahman,A Balbirnie,,0,0,0,,,,390223902
+2,Ireland,2,WTS Porterfield,Mujeeb Ur Rahman,A Balbirnie,,0,0,0,,,,390223902
+2,Ireland,2,WTS Porterfield,Mujeeb Ur Rahman,A Balbirnie,,0,1,1,,,,390223902
+2,Ireland,2,A Balbirnie,Mujeeb Ur Rahman,WTS Porterfield,,0,0,0,caught and bowled,A Balbirnie,,390223902
+2,Ireland,3,WTS Porterfield,Aftab Alam,GC Wilson,,0,2,2,,,,390223902
+2,Ireland,3,WTS Porterfield,Aftab Alam,GC Wilson,,0,1,1,,,,390223902
+2,Ireland,3,GC Wilson,Aftab Alam,WTS Porterfield,,0,0,0,,,,390223902
+2,Ireland,3,GC Wilson,Aftab Alam,WTS Porterfield,,0,0,0,,,,390223902
+2,Ireland,3,GC Wilson,Aftab Alam,WTS Porterfield,,0,0,0,,,,390223902
+2,Ireland,3,GC Wilson,Aftab Alam,WTS Porterfield,,0,1,1,,,,390223902
+2,Ireland,4,GC Wilson,Fareed Ahmad,WTS Porterfield,,0,1,1,,,,390223902
+2,Ireland,4,WTS Porterfield,Fareed Ahmad,GC Wilson,,0,0,0,,,,390223902
+2,Ireland,4,WTS Porterfield,Fareed Ahmad,GC Wilson,,0,1,1,,,,390223902
+2,Ireland,4,GC Wilson,Fareed Ahmad,WTS Porterfield,,0,0,0,,,,390223902
+2,Ireland,4,GC Wilson,Fareed Ahmad,WTS Porterfield,,0,0,0,,,,390223902
+2,Ireland,4,GC Wilson,Fareed Ahmad,WTS Porterfield,,0,0,0,,,,390223902
+2,Ireland,5,WTS Porterfield,Mujeeb Ur Rahman,GC Wilson,,0,6,6,,,,390223902
+2,Ireland,5,WTS Porterfield,Mujeeb Ur Rahman,GC Wilson,,0,0,0,,,,390223902
+2,Ireland,5,WTS Porterfield,Mujeeb Ur Rahman,GC Wilson,,0,1,1,,,,390223902
+2,Ireland,5,GC Wilson,Mujeeb Ur Rahman,WTS Porterfield,,0,1,1,,,,390223902
+2,Ireland,5,WTS Porterfield,Mujeeb Ur Rahman,GC Wilson,,0,1,1,,,,390223902
+2,Ireland,5,GC Wilson,Mujeeb Ur Rahman,WTS Porterfield,,0,1,1,,,,390223902
+2,Ireland,6,GC Wilson,Fareed Ahmad,WTS Porterfield,,0,0,0,,,,390223902
+2,Ireland,6,GC Wilson,Fareed Ahmad,WTS Porterfield,,0,1,1,,,,390223902
+2,Ireland,6,WTS Porterfield,Fareed Ahmad,GC Wilson,,0,2,2,,,,390223902
+2,Ireland,6,WTS Porterfield,Fareed Ahmad,GC Wilson,,0,4,4,,,,390223902
+2,Ireland,6,WTS Porterfield,Fareed Ahmad,GC Wilson,,0,4,4,,,,390223902
+2,Ireland,6,WTS Porterfield,Fareed Ahmad,GC Wilson,,0,1,1,,,,390223902
+2,Ireland,7,WTS Porterfield,Mohammad Nabi,GC Wilson,,0,0,0,,,,390223902
+2,Ireland,7,WTS Porterfield,Mohammad Nabi,GC Wilson,,0,1,1,,,,390223902
+2,Ireland,7,GC Wilson,Mohammad Nabi,WTS Porterfield,,0,1,1,,,,390223902
+2,Ireland,7,WTS Porterfield,Mohammad Nabi,GC Wilson,,0,0,0,,,,390223902
+2,Ireland,7,WTS Porterfield,Mohammad Nabi,GC Wilson,,0,0,0,,,,390223902
+2,Ireland,7,WTS Porterfield,Mohammad Nabi,GC Wilson,,0,6,6,,,,390223902
+2,Ireland,8,GC Wilson,Rashid Khan,WTS Porterfield,,0,1,1,,,,390223902
+2,Ireland,8,WTS Porterfield,Rashid Khan,GC Wilson,,0,0,0,caught,WTS Porterfield,Aftab Alam,390223902
+2,Ireland,8,KJ O'Brien,Rashid Khan,GC Wilson,,0,0,0,,,,390223902
+2,Ireland,8,KJ O'Brien,Rashid Khan,GC Wilson,,0,1,1,,,,390223902
+2,Ireland,8,GC Wilson,Rashid Khan,KJ O'Brien,,0,1,1,,,,390223902
+2,Ireland,8,KJ O'Brien,Rashid Khan,GC Wilson,,0,1,1,,,,390223902
+2,Ireland,9,KJ O'Brien,Mohammad Nabi,GC Wilson,,0,1,1,,,,390223902
+2,Ireland,9,GC Wilson,Mohammad Nabi,KJ O'Brien,,0,0,0,,,,390223902
+2,Ireland,9,GC Wilson,Mohammad Nabi,KJ O'Brien,,0,6,6,,,,390223902
+2,Ireland,9,GC Wilson,Mohammad Nabi,KJ O'Brien,,0,0,0,,,,390223902
+2,Ireland,9,GC Wilson,Mohammad Nabi,KJ O'Brien,,0,2,2,,,,390223902
+2,Ireland,9,GC Wilson,Mohammad Nabi,KJ O'Brien,,0,1,1,,,,390223902
+2,Ireland,10,GC Wilson,Fareed Ahmad,KJ O'Brien,,0,1,1,,,,390223902
+2,Ireland,10,KJ O'Brien,Fareed Ahmad,GC Wilson,,0,0,0,caught,KJ O'Brien,Usman Ghani,390223902
+2,Ireland,10,GC Wilson,Fareed Ahmad,Simi Singh,,0,0,0,,,,390223902
+2,Ireland,10,GC Wilson,Fareed Ahmad,Simi Singh,,0,2,2,,,,390223902
+2,Ireland,10,GC Wilson,Fareed Ahmad,Simi Singh,,0,0,0,,,,390223902
+2,Ireland,10,GC Wilson,Fareed Ahmad,Simi Singh,,0,2,2,,,,390223902
+2,Ireland,11,Simi Singh,Mohammad Nabi,GC Wilson,,0,0,0,,,,390223902
+2,Ireland,11,Simi Singh,Mohammad Nabi,GC Wilson,,0,0,0,,,,390223902
+2,Ireland,11,Simi Singh,Mohammad Nabi,GC Wilson,,0,0,0,bowled,Simi Singh,,390223902
+2,Ireland,11,GH Dockrell,Mohammad Nabi,GC Wilson,,0,1,1,,,,390223902
+2,Ireland,11,GC Wilson,Mohammad Nabi,GH Dockrell,,0,0,0,,,,390223902
+2,Ireland,11,GC Wilson,Mohammad Nabi,GH Dockrell,,0,0,0,,,,390223902
+2,Ireland,12,GH Dockrell,Rashid Khan,GC Wilson,,0,0,0,,,,390223902
+2,Ireland,12,GH Dockrell,Rashid Khan,GC Wilson,,0,0,0,,,,390223902
+2,Ireland,12,GH Dockrell,Rashid Khan,GC Wilson,,0,1,1,,,,390223902
+2,Ireland,12,GC Wilson,Rashid Khan,GH Dockrell,,0,0,0,bowled,GC Wilson,,390223902
+2,Ireland,12,J Little,Rashid Khan,GH Dockrell,,0,1,1,,,,390223902
+2,Ireland,12,GH Dockrell,Rashid Khan,J Little,,0,1,1,,,,390223902
+2,Ireland,13,GH Dockrell,Mujeeb Ur Rahman,J Little,,0,0,0,,,,390223902
+2,Ireland,13,GH Dockrell,Mujeeb Ur Rahman,J Little,,0,0,0,caught,GH Dockrell,Samiullah Shenwari,390223902
+2,Ireland,13,WB Rankin,Mujeeb Ur Rahman,J Little,,0,0,0,,,,390223902
+2,Ireland,13,WB Rankin,Mujeeb Ur Rahman,J Little,,0,1,1,,,,390223902
+2,Ireland,13,J Little,Mujeeb Ur Rahman,WB Rankin,,0,0,0,,,,390223902
+2,Ireland,13,J Little,Mujeeb Ur Rahman,WB Rankin,,0,0,0,,,,390223902
+2,Ireland,14,WB Rankin,Rashid Khan,J Little,,0,0,0,,,,390223902
+2,Ireland,14,WB Rankin,Rashid Khan,J Little,,0,6,6,,,,390223902
+2,Ireland,14,WB Rankin,Rashid Khan,J Little,,0,0,0,bowled,WB Rankin,,390223902
+2,Ireland,14,PKD Chase,Rashid Khan,J Little,,0,0,0,,,,390223902
+2,Ireland,14,PKD Chase,Rashid Khan,J Little,,0,4,4,,,,390223902
+2,Ireland,14,PKD Chase,Rashid Khan,J Little,,0,0,0,caught,PKD Chase,Mohammad Nabi,390223902

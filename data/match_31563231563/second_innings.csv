@@ -1,0 +1,120 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,West Indies,0,HK Matthews,Diana Baig,DJS Dottin,,0,0,0,,,,31563231563
+2,West Indies,0,HK Matthews,Diana Baig,DJS Dottin,,0,1,1,,,,31563231563
+2,West Indies,0,DJS Dottin,Diana Baig,HK Matthews,,0,0,0,,,,31563231563
+2,West Indies,0,DJS Dottin,Diana Baig,HK Matthews,,0,2,2,,,,31563231563
+2,West Indies,0,DJS Dottin,Diana Baig,HK Matthews,wides,1,1,0,,,,31563231563
+2,West Indies,0,DJS Dottin,Diana Baig,HK Matthews,,0,1,1,,,,31563231563
+2,West Indies,0,HK Matthews,Diana Baig,DJS Dottin,,0,0,0,,,,31563231563
+2,West Indies,1,DJS Dottin,Anam Amin,HK Matthews,,0,0,0,,,,31563231563
+2,West Indies,1,DJS Dottin,Anam Amin,HK Matthews,wides,1,1,0,,,,31563231563
+2,West Indies,1,DJS Dottin,Anam Amin,HK Matthews,,0,1,1,,,,31563231563
+2,West Indies,1,HK Matthews,Anam Amin,DJS Dottin,,0,0,0,,,,31563231563
+2,West Indies,1,HK Matthews,Anam Amin,DJS Dottin,,0,0,0,,,,31563231563
+2,West Indies,1,HK Matthews,Anam Amin,DJS Dottin,,0,0,0,,,,31563231563
+2,West Indies,1,HK Matthews,Anam Amin,DJS Dottin,,0,0,0,caught,HK Matthews,Diana Baig,31563231563
+2,West Indies,2,DJS Dottin,Diana Baig,SR Taylor,,0,6,6,,,,31563231563
+2,West Indies,2,DJS Dottin,Diana Baig,SR Taylor,,0,0,0,,,,31563231563
+2,West Indies,2,DJS Dottin,Diana Baig,SR Taylor,,0,4,4,,,,31563231563
+2,West Indies,2,DJS Dottin,Diana Baig,SR Taylor,,0,0,0,,,,31563231563
+2,West Indies,2,DJS Dottin,Diana Baig,SR Taylor,,0,0,0,caught and bowled,DJS Dottin,,31563231563
+2,West Indies,2,Kyshona A Knight,Diana Baig,SR Taylor,,0,0,0,caught,Kyshona A Knight,Sidra Nawaz,31563231563
+2,West Indies,3,SR Taylor,Anam Amin,CN Nation,,0,0,0,,,,31563231563
+2,West Indies,3,SR Taylor,Anam Amin,CN Nation,,0,0,0,,,,31563231563
+2,West Indies,3,SR Taylor,Anam Amin,CN Nation,,0,2,2,,,,31563231563
+2,West Indies,3,SR Taylor,Anam Amin,CN Nation,,0,0,0,,,,31563231563
+2,West Indies,3,SR Taylor,Anam Amin,CN Nation,,0,0,0,,,,31563231563
+2,West Indies,3,SR Taylor,Anam Amin,CN Nation,,0,4,4,,,,31563231563
+2,West Indies,4,CN Nation,Diana Baig,SR Taylor,,0,0,0,,,,31563231563
+2,West Indies,4,CN Nation,Diana Baig,SR Taylor,,0,0,0,,,,31563231563
+2,West Indies,4,CN Nation,Diana Baig,SR Taylor,,0,0,0,,,,31563231563
+2,West Indies,4,CN Nation,Diana Baig,SR Taylor,,0,0,0,,,,31563231563
+2,West Indies,4,CN Nation,Diana Baig,SR Taylor,,0,1,1,,,,31563231563
+2,West Indies,4,SR Taylor,Diana Baig,CN Nation,,0,0,0,,,,31563231563
+2,West Indies,5,CN Nation,Anam Amin,SR Taylor,wides,1,1,0,,,,31563231563
+2,West Indies,5,CN Nation,Anam Amin,SR Taylor,,0,0,0,,,,31563231563
+2,West Indies,5,CN Nation,Anam Amin,SR Taylor,,0,1,1,,,,31563231563
+2,West Indies,5,SR Taylor,Anam Amin,CN Nation,wides,1,1,0,,,,31563231563
+2,West Indies,5,SR Taylor,Anam Amin,CN Nation,,0,1,1,,,,31563231563
+2,West Indies,5,CN Nation,Anam Amin,SR Taylor,,0,2,2,,,,31563231563
+2,West Indies,5,CN Nation,Anam Amin,SR Taylor,,0,0,0,,,,31563231563
+2,West Indies,5,CN Nation,Anam Amin,SR Taylor,,0,0,0,,,,31563231563
+2,West Indies,6,SR Taylor,Diana Baig,CN Nation,,0,0,0,,,,31563231563
+2,West Indies,6,SR Taylor,Diana Baig,CN Nation,,0,0,0,,,,31563231563
+2,West Indies,6,SR Taylor,Diana Baig,CN Nation,,0,0,0,,,,31563231563
+2,West Indies,6,SR Taylor,Diana Baig,CN Nation,,0,1,1,,,,31563231563
+2,West Indies,6,CN Nation,Diana Baig,SR Taylor,,0,0,0,,,,31563231563
+2,West Indies,6,CN Nation,Diana Baig,SR Taylor,,0,0,0,,,,31563231563
+2,West Indies,7,SR Taylor,Anam Amin,CN Nation,,0,0,0,,,,31563231563
+2,West Indies,7,SR Taylor,Anam Amin,CN Nation,,0,2,2,,,,31563231563
+2,West Indies,7,SR Taylor,Anam Amin,CN Nation,,0,1,1,,,,31563231563
+2,West Indies,7,CN Nation,Anam Amin,SR Taylor,,0,0,0,,,,31563231563
+2,West Indies,7,CN Nation,Anam Amin,SR Taylor,,0,1,1,,,,31563231563
+2,West Indies,7,SR Taylor,Anam Amin,CN Nation,,0,0,0,,,,31563231563
+2,West Indies,8,CN Nation,Fatima Sana,SR Taylor,,0,2,2,,,,31563231563
+2,West Indies,8,CN Nation,Fatima Sana,SR Taylor,,0,0,0,,,,31563231563
+2,West Indies,8,CN Nation,Fatima Sana,SR Taylor,,0,0,0,,,,31563231563
+2,West Indies,8,CN Nation,Fatima Sana,SR Taylor,,0,4,4,,,,31563231563
+2,West Indies,8,CN Nation,Fatima Sana,SR Taylor,,0,2,2,,,,31563231563
+2,West Indies,8,CN Nation,Fatima Sana,SR Taylor,,0,4,4,,,,31563231563
+2,West Indies,9,SR Taylor,Nida Dar,CN Nation,,0,0,0,,,,31563231563
+2,West Indies,9,SR Taylor,Nida Dar,CN Nation,,0,1,1,,,,31563231563
+2,West Indies,9,CN Nation,Nida Dar,SR Taylor,,0,0,0,,,,31563231563
+2,West Indies,9,CN Nation,Nida Dar,SR Taylor,,0,0,0,,,,31563231563
+2,West Indies,9,CN Nation,Nida Dar,SR Taylor,,0,2,2,,,,31563231563
+2,West Indies,9,CN Nation,Nida Dar,SR Taylor,,0,0,0,,,,31563231563
+2,West Indies,10,SR Taylor,Nashra Sandhu,CN Nation,,0,1,1,,,,31563231563
+2,West Indies,10,CN Nation,Nashra Sandhu,SR Taylor,,0,0,0,,,,31563231563
+2,West Indies,10,CN Nation,Nashra Sandhu,SR Taylor,,0,0,0,,,,31563231563
+2,West Indies,10,CN Nation,Nashra Sandhu,SR Taylor,,0,1,1,,,,31563231563
+2,West Indies,10,SR Taylor,Nashra Sandhu,CN Nation,,0,1,1,,,,31563231563
+2,West Indies,10,CN Nation,Nashra Sandhu,SR Taylor,,0,0,0,,,,31563231563
+2,West Indies,11,SR Taylor,Nida Dar,CN Nation,,0,2,2,,,,31563231563
+2,West Indies,11,SR Taylor,Nida Dar,CN Nation,,0,2,2,,,,31563231563
+2,West Indies,11,SR Taylor,Nida Dar,CN Nation,,0,1,1,,,,31563231563
+2,West Indies,11,CN Nation,Nida Dar,SR Taylor,,0,0,0,caught and bowled,CN Nation,,31563231563
+2,West Indies,11,Kycia A Knight,Nida Dar,SR Taylor,,0,0,0,,,,31563231563
+2,West Indies,11,Kycia A Knight,Nida Dar,SR Taylor,,0,1,1,,,,31563231563
+2,West Indies,12,Kycia A Knight,Nashra Sandhu,SR Taylor,,0,0,0,,,,31563231563
+2,West Indies,12,Kycia A Knight,Nashra Sandhu,SR Taylor,,0,4,4,,,,31563231563
+2,West Indies,12,Kycia A Knight,Nashra Sandhu,SR Taylor,,0,0,0,,,,31563231563
+2,West Indies,12,Kycia A Knight,Nashra Sandhu,SR Taylor,,0,1,1,,,,31563231563
+2,West Indies,12,SR Taylor,Nashra Sandhu,Kycia A Knight,,0,1,1,,,,31563231563
+2,West Indies,12,Kycia A Knight,Nashra Sandhu,SR Taylor,,0,2,2,,,,31563231563
+2,West Indies,13,SR Taylor,Nida Dar,Kycia A Knight,,0,1,1,,,,31563231563
+2,West Indies,13,Kycia A Knight,Nida Dar,SR Taylor,,0,0,0,,,,31563231563
+2,West Indies,13,Kycia A Knight,Nida Dar,SR Taylor,,0,1,1,,,,31563231563
+2,West Indies,13,SR Taylor,Nida Dar,Kycia A Knight,,0,4,4,,,,31563231563
+2,West Indies,13,SR Taylor,Nida Dar,Kycia A Knight,,0,4,4,,,,31563231563
+2,West Indies,13,SR Taylor,Nida Dar,Kycia A Knight,,0,0,0,,,,31563231563
+2,West Indies,14,Kycia A Knight,Fatima Sana,SR Taylor,,0,0,0,,,,31563231563
+2,West Indies,14,Kycia A Knight,Fatima Sana,SR Taylor,,0,1,1,,,,31563231563
+2,West Indies,14,SR Taylor,Fatima Sana,Kycia A Knight,,0,0,0,,,,31563231563
+2,West Indies,14,SR Taylor,Fatima Sana,Kycia A Knight,,0,0,0,,,,31563231563
+2,West Indies,14,SR Taylor,Fatima Sana,Kycia A Knight,,0,1,1,,,,31563231563
+2,West Indies,14,Kycia A Knight,Fatima Sana,SR Taylor,,0,0,0,,,,31563231563
+2,West Indies,15,SR Taylor,Nashra Sandhu,Kycia A Knight,,0,2,2,,,,31563231563
+2,West Indies,15,SR Taylor,Nashra Sandhu,Kycia A Knight,,0,0,0,,,,31563231563
+2,West Indies,15,SR Taylor,Nashra Sandhu,Kycia A Knight,,0,1,1,,,,31563231563
+2,West Indies,15,Kycia A Knight,Nashra Sandhu,SR Taylor,,0,0,0,,,,31563231563
+2,West Indies,15,Kycia A Knight,Nashra Sandhu,SR Taylor,,0,2,2,,,,31563231563
+2,West Indies,15,Kycia A Knight,Nashra Sandhu,SR Taylor,,0,1,1,,,,31563231563
+2,West Indies,16,Kycia A Knight,Fatima Sana,SR Taylor,,0,2,2,,,,31563231563
+2,West Indies,16,Kycia A Knight,Fatima Sana,SR Taylor,,0,0,0,,,,31563231563
+2,West Indies,16,Kycia A Knight,Fatima Sana,SR Taylor,,0,1,1,,,,31563231563
+2,West Indies,16,SR Taylor,Fatima Sana,Kycia A Knight,,0,2,2,,,,31563231563
+2,West Indies,16,SR Taylor,Fatima Sana,Kycia A Knight,,0,0,0,,,,31563231563
+2,West Indies,16,SR Taylor,Fatima Sana,Kycia A Knight,,0,1,1,,,,31563231563
+2,West Indies,17,SR Taylor,Nashra Sandhu,Kycia A Knight,,0,1,1,,,,31563231563
+2,West Indies,17,Kycia A Knight,Nashra Sandhu,SR Taylor,,0,0,0,,,,31563231563
+2,West Indies,17,Kycia A Knight,Nashra Sandhu,SR Taylor,,0,1,1,,,,31563231563
+2,West Indies,17,SR Taylor,Nashra Sandhu,Kycia A Knight,,0,1,1,,,,31563231563
+2,West Indies,17,Kycia A Knight,Nashra Sandhu,SR Taylor,,0,0,0,,,,31563231563
+2,West Indies,17,Kycia A Knight,Nashra Sandhu,SR Taylor,,0,1,1,,,,31563231563
+2,West Indies,18,Kycia A Knight,Fatima Sana,SR Taylor,,0,0,0,,,,31563231563
+2,West Indies,18,Kycia A Knight,Fatima Sana,SR Taylor,,0,1,1,,,,31563231563
+2,West Indies,18,SR Taylor,Fatima Sana,Kycia A Knight,,0,4,4,,,,31563231563
+2,West Indies,18,SR Taylor,Fatima Sana,Kycia A Knight,,0,1,1,,,,31563231563
+2,West Indies,18,Kycia A Knight,Fatima Sana,SR Taylor,,0,0,0,,,,31563231563
+2,West Indies,18,Kycia A Knight,Fatima Sana,SR Taylor,,0,1,1,,,,31563231563
+2,West Indies,19,Kycia A Knight,Nida Dar,SR Taylor,,0,4,4,,,,31563231563

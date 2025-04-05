@@ -1,0 +1,128 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Netherlands,0,MP O'Dowd,BM Scholtz,SJ Myburgh,,0,0,0,,,,31632231632
+1,Netherlands,0,MP O'Dowd,BM Scholtz,SJ Myburgh,,0,1,1,,,,31632231632
+1,Netherlands,0,SJ Myburgh,BM Scholtz,MP O'Dowd,,0,0,0,,,,31632231632
+1,Netherlands,0,SJ Myburgh,BM Scholtz,MP O'Dowd,,0,0,0,,,,31632231632
+1,Netherlands,0,SJ Myburgh,BM Scholtz,MP O'Dowd,,0,2,2,,,,31632231632
+1,Netherlands,0,SJ Myburgh,BM Scholtz,MP O'Dowd,,0,1,1,,,,31632231632
+1,Netherlands,1,SJ Myburgh,D Wiese,MP O'Dowd,,0,4,4,,,,31632231632
+1,Netherlands,1,SJ Myburgh,D Wiese,MP O'Dowd,,0,1,1,,,,31632231632
+1,Netherlands,1,MP O'Dowd,D Wiese,SJ Myburgh,,0,0,0,,,,31632231632
+1,Netherlands,1,MP O'Dowd,D Wiese,SJ Myburgh,,0,4,4,,,,31632231632
+1,Netherlands,1,MP O'Dowd,D Wiese,SJ Myburgh,,0,1,1,,,,31632231632
+1,Netherlands,1,SJ Myburgh,D Wiese,MP O'Dowd,,0,0,0,,,,31632231632
+1,Netherlands,2,MP O'Dowd,R Trumpelmann,SJ Myburgh,,0,0,0,,,,31632231632
+1,Netherlands,2,MP O'Dowd,R Trumpelmann,SJ Myburgh,,0,0,0,,,,31632231632
+1,Netherlands,2,MP O'Dowd,R Trumpelmann,SJ Myburgh,,0,6,6,,,,31632231632
+1,Netherlands,2,MP O'Dowd,R Trumpelmann,SJ Myburgh,,0,4,4,,,,31632231632
+1,Netherlands,2,MP O'Dowd,R Trumpelmann,SJ Myburgh,,0,0,0,,,,31632231632
+1,Netherlands,2,MP O'Dowd,R Trumpelmann,SJ Myburgh,,0,0,0,,,,31632231632
+1,Netherlands,3,SJ Myburgh,JN Frylinck,MP O'Dowd,,0,0,0,,,,31632231632
+1,Netherlands,3,SJ Myburgh,JN Frylinck,MP O'Dowd,,0,0,0,,,,31632231632
+1,Netherlands,3,SJ Myburgh,JN Frylinck,MP O'Dowd,,0,0,0,,,,31632231632
+1,Netherlands,3,SJ Myburgh,JN Frylinck,MP O'Dowd,,0,2,2,,,,31632231632
+1,Netherlands,3,SJ Myburgh,JN Frylinck,MP O'Dowd,,0,1,1,,,,31632231632
+1,Netherlands,3,MP O'Dowd,JN Frylinck,SJ Myburgh,,0,3,3,,,,31632231632
+1,Netherlands,4,MP O'Dowd,JJ Smit,SJ Myburgh,,0,2,2,,,,31632231632
+1,Netherlands,4,MP O'Dowd,JJ Smit,SJ Myburgh,,0,0,0,,,,31632231632
+1,Netherlands,4,MP O'Dowd,JJ Smit,SJ Myburgh,,0,0,0,,,,31632231632
+1,Netherlands,4,MP O'Dowd,JJ Smit,SJ Myburgh,,0,1,1,,,,31632231632
+1,Netherlands,4,SJ Myburgh,JJ Smit,MP O'Dowd,,0,4,4,,,,31632231632
+1,Netherlands,4,SJ Myburgh,JJ Smit,MP O'Dowd,wides,1,1,0,,,,31632231632
+1,Netherlands,4,SJ Myburgh,JJ Smit,MP O'Dowd,,0,1,1,,,,31632231632
+1,Netherlands,5,SJ Myburgh,JN Frylinck,MP O'Dowd,wides,1,1,0,,,,31632231632
+1,Netherlands,5,SJ Myburgh,JN Frylinck,MP O'Dowd,,0,1,1,,,,31632231632
+1,Netherlands,5,MP O'Dowd,JN Frylinck,SJ Myburgh,,0,0,0,,,,31632231632
+1,Netherlands,5,MP O'Dowd,JN Frylinck,SJ Myburgh,,0,1,1,,,,31632231632
+1,Netherlands,5,SJ Myburgh,JN Frylinck,MP O'Dowd,,0,0,0,caught,SJ Myburgh,SJ Baard,31632231632
+1,Netherlands,5,MP O'Dowd,JN Frylinck,RE van der Merwe,,0,2,2,,,,31632231632
+1,Netherlands,5,MP O'Dowd,JN Frylinck,RE van der Merwe,,0,1,1,,,,31632231632
+1,Netherlands,6,MP O'Dowd,BM Scholtz,RE van der Merwe,,0,1,1,,,,31632231632
+1,Netherlands,6,RE van der Merwe,BM Scholtz,MP O'Dowd,,0,1,1,,,,31632231632
+1,Netherlands,6,MP O'Dowd,BM Scholtz,RE van der Merwe,,0,1,1,,,,31632231632
+1,Netherlands,6,RE van der Merwe,BM Scholtz,MP O'Dowd,,0,1,1,,,,31632231632
+1,Netherlands,6,MP O'Dowd,BM Scholtz,RE van der Merwe,,0,1,1,,,,31632231632
+1,Netherlands,6,RE van der Merwe,BM Scholtz,MP O'Dowd,,0,4,4,,,,31632231632
+1,Netherlands,7,MP O'Dowd,D Wiese,RE van der Merwe,,0,1,1,,,,31632231632
+1,Netherlands,7,RE van der Merwe,D Wiese,MP O'Dowd,,0,0,0,caught,RE van der Merwe,BM Scholtz,31632231632
+1,Netherlands,7,CN Ackermann,D Wiese,MP O'Dowd,,0,2,2,,,,31632231632
+1,Netherlands,7,CN Ackermann,D Wiese,MP O'Dowd,,0,0,0,,,,31632231632
+1,Netherlands,7,CN Ackermann,D Wiese,MP O'Dowd,,0,0,0,,,,31632231632
+1,Netherlands,7,CN Ackermann,D Wiese,MP O'Dowd,,0,1,1,,,,31632231632
+1,Netherlands,8,CN Ackermann,BM Scholtz,MP O'Dowd,,0,1,1,,,,31632231632
+1,Netherlands,8,MP O'Dowd,BM Scholtz,CN Ackermann,,0,1,1,,,,31632231632
+1,Netherlands,8,CN Ackermann,BM Scholtz,MP O'Dowd,,0,0,0,,,,31632231632
+1,Netherlands,8,CN Ackermann,BM Scholtz,MP O'Dowd,,0,0,0,,,,31632231632
+1,Netherlands,8,CN Ackermann,BM Scholtz,MP O'Dowd,,0,1,1,,,,31632231632
+1,Netherlands,8,MP O'Dowd,BM Scholtz,CN Ackermann,,0,1,1,,,,31632231632
+1,Netherlands,9,MP O'Dowd,JJ Smit,CN Ackermann,,0,1,1,,,,31632231632
+1,Netherlands,9,CN Ackermann,JJ Smit,MP O'Dowd,,0,1,1,,,,31632231632
+1,Netherlands,9,MP O'Dowd,JJ Smit,CN Ackermann,,0,2,2,,,,31632231632
+1,Netherlands,9,MP O'Dowd,JJ Smit,CN Ackermann,,0,1,1,,,,31632231632
+1,Netherlands,9,CN Ackermann,JJ Smit,MP O'Dowd,,0,1,1,,,,31632231632
+1,Netherlands,9,MP O'Dowd,JJ Smit,CN Ackermann,legbyes,1,1,0,,,,31632231632
+1,Netherlands,10,MP O'Dowd,R Trumpelmann,CN Ackermann,,0,2,2,,,,31632231632
+1,Netherlands,10,MP O'Dowd,R Trumpelmann,CN Ackermann,,0,1,1,,,,31632231632
+1,Netherlands,10,CN Ackermann,R Trumpelmann,MP O'Dowd,,0,0,0,,,,31632231632
+1,Netherlands,10,CN Ackermann,R Trumpelmann,MP O'Dowd,,0,1,1,,,,31632231632
+1,Netherlands,10,MP O'Dowd,R Trumpelmann,CN Ackermann,,0,0,0,,,,31632231632
+1,Netherlands,10,MP O'Dowd,R Trumpelmann,CN Ackermann,,0,1,1,,,,31632231632
+1,Netherlands,11,MP O'Dowd,JN Frylinck,CN Ackermann,legbyes,1,1,0,,,,31632231632
+1,Netherlands,11,CN Ackermann,JN Frylinck,MP O'Dowd,,0,1,1,,,,31632231632
+1,Netherlands,11,MP O'Dowd,JN Frylinck,CN Ackermann,,0,4,4,,,,31632231632
+1,Netherlands,11,MP O'Dowd,JN Frylinck,CN Ackermann,,0,1,1,,,,31632231632
+1,Netherlands,11,CN Ackermann,JN Frylinck,MP O'Dowd,,0,4,4,,,,31632231632
+1,Netherlands,11,CN Ackermann,JN Frylinck,MP O'Dowd,,0,1,1,,,,31632231632
+1,Netherlands,12,CN Ackermann,JJ Smit,MP O'Dowd,,0,1,1,,,,31632231632
+1,Netherlands,12,MP O'Dowd,JJ Smit,CN Ackermann,,0,1,1,,,,31632231632
+1,Netherlands,12,CN Ackermann,JJ Smit,MP O'Dowd,,0,1,1,,,,31632231632
+1,Netherlands,12,MP O'Dowd,JJ Smit,CN Ackermann,,0,1,1,,,,31632231632
+1,Netherlands,12,CN Ackermann,JJ Smit,MP O'Dowd,wides,1,1,0,,,,31632231632
+1,Netherlands,12,CN Ackermann,JJ Smit,MP O'Dowd,,0,1,1,,,,31632231632
+1,Netherlands,12,MP O'Dowd,JJ Smit,CN Ackermann,,0,1,1,,,,31632231632
+1,Netherlands,13,MP O'Dowd,BM Scholtz,CN Ackermann,,0,1,1,,,,31632231632
+1,Netherlands,13,CN Ackermann,BM Scholtz,MP O'Dowd,wides,2,2,0,,,,31632231632
+1,Netherlands,13,MP O'Dowd,BM Scholtz,CN Ackermann,,0,4,4,,,,31632231632
+1,Netherlands,13,MP O'Dowd,BM Scholtz,CN Ackermann,,0,1,1,,,,31632231632
+1,Netherlands,13,CN Ackermann,BM Scholtz,MP O'Dowd,,0,1,1,,,,31632231632
+1,Netherlands,13,MP O'Dowd,BM Scholtz,CN Ackermann,,0,4,4,,,,31632231632
+1,Netherlands,13,MP O'Dowd,BM Scholtz,CN Ackermann,,0,1,1,,,,31632231632
+1,Netherlands,14,MP O'Dowd,R Trumpelmann,CN Ackermann,,0,1,1,,,,31632231632
+1,Netherlands,14,CN Ackermann,R Trumpelmann,MP O'Dowd,,0,1,1,,,,31632231632
+1,Netherlands,14,MP O'Dowd,R Trumpelmann,CN Ackermann,wides,1,1,0,,,,31632231632
+1,Netherlands,14,MP O'Dowd,R Trumpelmann,CN Ackermann,,0,1,1,,,,31632231632
+1,Netherlands,14,CN Ackermann,R Trumpelmann,MP O'Dowd,,0,1,1,,,,31632231632
+1,Netherlands,14,MP O'Dowd,R Trumpelmann,CN Ackermann,,0,0,0,,,,31632231632
+1,Netherlands,14,MP O'Dowd,R Trumpelmann,CN Ackermann,,0,4,4,,,,31632231632
+1,Netherlands,15,CN Ackermann,D Wiese,MP O'Dowd,,0,1,1,,,,31632231632
+1,Netherlands,15,MP O'Dowd,D Wiese,CN Ackermann,,0,1,1,,,,31632231632
+1,Netherlands,15,CN Ackermann,D Wiese,MP O'Dowd,,0,0,0,,,,31632231632
+1,Netherlands,15,CN Ackermann,D Wiese,MP O'Dowd,,0,1,1,,,,31632231632
+1,Netherlands,15,MP O'Dowd,D Wiese,CN Ackermann,,0,1,1,,,,31632231632
+1,Netherlands,15,CN Ackermann,D Wiese,MP O'Dowd,,0,1,1,,,,31632231632
+1,Netherlands,16,CN Ackermann,JJ Smit,MP O'Dowd,,0,2,2,,,,31632231632
+1,Netherlands,16,CN Ackermann,JJ Smit,MP O'Dowd,,0,1,1,,,,31632231632
+1,Netherlands,16,MP O'Dowd,JJ Smit,CN Ackermann,,0,1,1,,,,31632231632
+1,Netherlands,16,CN Ackermann,JJ Smit,MP O'Dowd,,0,1,1,,,,31632231632
+1,Netherlands,16,MP O'Dowd,JJ Smit,CN Ackermann,,0,1,1,,,,31632231632
+1,Netherlands,16,CN Ackermann,JJ Smit,MP O'Dowd,,0,0,0,,,,31632231632
+1,Netherlands,17,MP O'Dowd,JN Frylinck,CN Ackermann,,0,1,1,,,,31632231632
+1,Netherlands,17,CN Ackermann,JN Frylinck,MP O'Dowd,,0,6,6,,,,31632231632
+1,Netherlands,17,CN Ackermann,JN Frylinck,MP O'Dowd,wides,1,1,0,,,,31632231632
+1,Netherlands,17,CN Ackermann,JN Frylinck,MP O'Dowd,,0,2,2,,,,31632231632
+1,Netherlands,17,CN Ackermann,JN Frylinck,MP O'Dowd,,0,0,0,caught,CN Ackermann,MG Erasmus,31632231632
+1,Netherlands,17,SA Edwards,JN Frylinck,MP O'Dowd,,0,2,2,,,,31632231632
+1,Netherlands,17,SA Edwards,JN Frylinck,MP O'Dowd,,0,1,1,,,,31632231632
+1,Netherlands,18,SA Edwards,R Trumpelmann,MP O'Dowd,wides,1,1,0,,,,31632231632
+1,Netherlands,18,SA Edwards,R Trumpelmann,MP O'Dowd,,0,0,0,,,,31632231632
+1,Netherlands,18,SA Edwards,R Trumpelmann,MP O'Dowd,,0,6,6,,,,31632231632
+1,Netherlands,18,SA Edwards,R Trumpelmann,MP O'Dowd,,0,0,0,,,,31632231632
+1,Netherlands,18,SA Edwards,R Trumpelmann,MP O'Dowd,,0,1,1,,,,31632231632
+1,Netherlands,18,MP O'Dowd,R Trumpelmann,SA Edwards,,0,0,0,,,,31632231632
+1,Netherlands,18,MP O'Dowd,R Trumpelmann,SA Edwards,legbyes,2,2,0,,,,31632231632
+1,Netherlands,19,SA Edwards,D Wiese,MP O'Dowd,,0,4,4,,,,31632231632
+1,Netherlands,19,SA Edwards,D Wiese,MP O'Dowd,,0,2,2,,,,31632231632
+1,Netherlands,19,SA Edwards,D Wiese,MP O'Dowd,,0,1,1,run out,MP O'Dowd,D Wiese,31632231632
+1,Netherlands,19,SA Edwards,D Wiese,LV van Beek,,0,4,4,,,,31632231632
+1,Netherlands,19,SA Edwards,D Wiese,LV van Beek,byes,1,1,0,,,,31632231632
+1,Netherlands,19,LV van Beek,D Wiese,SA Edwards,,0,2,2,,,,31632231632

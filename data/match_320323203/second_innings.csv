@@ -1,0 +1,102 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,England,0,AD Hales,K Santokie,C Kieswetter,,0,0,0,,,,320323203
+2,England,0,AD Hales,K Santokie,C Kieswetter,,0,0,0,,,,320323203
+2,England,0,AD Hales,K Santokie,C Kieswetter,,0,1,1,,,,320323203
+2,England,0,C Kieswetter,K Santokie,AD Hales,,0,4,4,,,,320323203
+2,England,0,C Kieswetter,K Santokie,AD Hales,,0,0,0,,,,320323203
+2,England,0,C Kieswetter,K Santokie,AD Hales,,0,0,0,,,,320323203
+2,England,1,AD Hales,GE Mathurin,C Kieswetter,,0,0,0,,,,320323203
+2,England,1,AD Hales,GE Mathurin,C Kieswetter,,0,0,0,,,,320323203
+2,England,1,AD Hales,GE Mathurin,C Kieswetter,,0,0,0,,,,320323203
+2,England,1,AD Hales,GE Mathurin,C Kieswetter,,0,0,0,,,,320323203
+2,England,1,AD Hales,GE Mathurin,C Kieswetter,,0,1,1,,,,320323203
+2,England,1,C Kieswetter,GE Mathurin,AD Hales,,0,1,1,,,,320323203
+2,England,2,C Kieswetter,K Santokie,AD Hales,,0,0,0,,,,320323203
+2,England,2,C Kieswetter,K Santokie,AD Hales,,0,4,4,,,,320323203
+2,England,2,C Kieswetter,K Santokie,AD Hales,,0,1,1,,,,320323203
+2,England,2,AD Hales,K Santokie,C Kieswetter,,0,0,0,bowled,AD Hales,,320323203
+2,England,2,BA Stokes,K Santokie,C Kieswetter,,0,1,1,,,,320323203
+2,England,2,C Kieswetter,K Santokie,BA Stokes,,0,0,0,,,,320323203
+2,England,3,BA Stokes,GE Mathurin,C Kieswetter,legbyes,1,1,0,,,,320323203
+2,England,3,C Kieswetter,GE Mathurin,BA Stokes,,0,0,0,bowled,C Kieswetter,,320323203
+2,England,3,RS Bopara,GE Mathurin,BA Stokes,,0,0,0,,,,320323203
+2,England,3,RS Bopara,GE Mathurin,BA Stokes,legbyes,1,1,0,,,,320323203
+2,England,3,BA Stokes,GE Mathurin,RS Bopara,,0,1,1,,,,320323203
+2,England,3,RS Bopara,GE Mathurin,BA Stokes,,0,0,0,,,,320323203
+2,England,4,BA Stokes,K Santokie,RS Bopara,,0,1,1,,,,320323203
+2,England,4,RS Bopara,K Santokie,BA Stokes,,0,0,0,,,,320323203
+2,England,4,RS Bopara,K Santokie,BA Stokes,,0,2,2,,,,320323203
+2,England,4,RS Bopara,K Santokie,BA Stokes,,0,1,1,,,,320323203
+2,England,4,BA Stokes,K Santokie,RS Bopara,,0,0,0,,,,320323203
+2,England,4,BA Stokes,K Santokie,RS Bopara,,0,2,2,,,,320323203
+2,England,5,RS Bopara,GE Mathurin,BA Stokes,,0,0,0,,,,320323203
+2,England,5,RS Bopara,GE Mathurin,BA Stokes,legbyes,1,1,0,,,,320323203
+2,England,5,BA Stokes,GE Mathurin,RS Bopara,,0,1,1,,,,320323203
+2,England,5,RS Bopara,GE Mathurin,BA Stokes,,0,0,0,bowled,RS Bopara,,320323203
+2,England,5,JM Bairstow,GE Mathurin,BA Stokes,,0,0,0,,,,320323203
+2,England,5,JM Bairstow,GE Mathurin,BA Stokes,,0,2,2,,,,320323203
+2,England,6,BA Stokes,D Bishoo,JM Bairstow,,0,2,2,,,,320323203
+2,England,6,BA Stokes,D Bishoo,JM Bairstow,,0,0,0,,,,320323203
+2,England,6,BA Stokes,D Bishoo,JM Bairstow,,0,6,6,,,,320323203
+2,England,6,BA Stokes,D Bishoo,JM Bairstow,,0,4,4,,,,320323203
+2,England,6,BA Stokes,D Bishoo,JM Bairstow,,0,0,0,,,,320323203
+2,England,6,BA Stokes,D Bishoo,JM Bairstow,,0,4,4,,,,320323203
+2,England,7,JM Bairstow,GE Mathurin,BA Stokes,,0,0,0,,,,320323203
+2,England,7,JM Bairstow,GE Mathurin,BA Stokes,,0,2,2,,,,320323203
+2,England,7,JM Bairstow,GE Mathurin,BA Stokes,,0,0,0,bowled,JM Bairstow,,320323203
+2,England,7,SR Patel,GE Mathurin,BA Stokes,,0,0,0,,,,320323203
+2,England,7,SR Patel,GE Mathurin,BA Stokes,,0,1,1,,,,320323203
+2,England,7,BA Stokes,GE Mathurin,SR Patel,,0,0,0,,,,320323203
+2,England,8,SR Patel,D Bishoo,BA Stokes,,0,0,0,,,,320323203
+2,England,8,SR Patel,D Bishoo,BA Stokes,,0,0,0,,,,320323203
+2,England,8,SR Patel,D Bishoo,BA Stokes,,0,0,0,,,,320323203
+2,England,8,SR Patel,D Bishoo,BA Stokes,,0,0,0,,,,320323203
+2,England,8,SR Patel,D Bishoo,BA Stokes,,0,1,1,,,,320323203
+2,England,8,BA Stokes,D Bishoo,SR Patel,,0,1,1,,,,320323203
+2,England,9,BA Stokes,DJG Sammy,SR Patel,,0,0,0,,,,320323203
+2,England,9,BA Stokes,DJG Sammy,SR Patel,,0,4,4,,,,320323203
+2,England,9,BA Stokes,DJG Sammy,SR Patel,,0,1,1,,,,320323203
+2,England,9,SR Patel,DJG Sammy,BA Stokes,,0,0,0,run out,SR Patel,D Bishoo,320323203
+2,England,9,BA Stokes,DJG Sammy,JC Buttler,,0,3,3,,,,320323203
+2,England,9,JC Buttler,DJG Sammy,BA Stokes,,0,0,0,,,,320323203
+2,England,10,BA Stokes,D Bishoo,JC Buttler,,0,0,0,,,,320323203
+2,England,10,BA Stokes,D Bishoo,JC Buttler,,0,0,0,,,,320323203
+2,England,10,BA Stokes,D Bishoo,JC Buttler,,0,0,0,,,,320323203
+2,England,10,BA Stokes,D Bishoo,JC Buttler,,0,0,0,lbw,BA Stokes,,320323203
+2,England,10,TT Bresnan,D Bishoo,JC Buttler,,0,1,1,,,,320323203
+2,England,10,JC Buttler,D Bishoo,TT Bresnan,,0,0,0,,,,320323203
+2,England,11,TT Bresnan,AD Russell,JC Buttler,,0,1,1,,,,320323203
+2,England,11,JC Buttler,AD Russell,TT Bresnan,,0,2,2,,,,320323203
+2,England,11,JC Buttler,AD Russell,TT Bresnan,,0,0,0,,,,320323203
+2,England,11,JC Buttler,AD Russell,TT Bresnan,,0,1,1,,,,320323203
+2,England,11,TT Bresnan,AD Russell,JC Buttler,,0,0,0,,,,320323203
+2,England,11,TT Bresnan,AD Russell,JC Buttler,,0,0,0,caught,TT Bresnan,GE Mathurin,320323203
+2,England,12,SG Borthwick,DR Smith,JC Buttler,,0,1,1,,,,320323203
+2,England,12,JC Buttler,DR Smith,SG Borthwick,,0,1,1,,,,320323203
+2,England,12,SG Borthwick,DR Smith,JC Buttler,,0,0,0,,,,320323203
+2,England,12,SG Borthwick,DR Smith,JC Buttler,,0,4,4,,,,320323203
+2,England,12,SG Borthwick,DR Smith,JC Buttler,,0,0,0,,,,320323203
+2,England,12,SG Borthwick,DR Smith,JC Buttler,,0,1,1,,,,320323203
+2,England,13,SG Borthwick,AD Russell,JC Buttler,,0,0,0,,,,320323203
+2,England,13,SG Borthwick,AD Russell,JC Buttler,,0,1,1,,,,320323203
+2,England,13,JC Buttler,AD Russell,SG Borthwick,wides,1,1,0,,,,320323203
+2,England,13,JC Buttler,AD Russell,SG Borthwick,,0,0,0,,,,320323203
+2,England,13,JC Buttler,AD Russell,SG Borthwick,,0,4,4,,,,320323203
+2,England,13,JC Buttler,AD Russell,SG Borthwick,,0,2,2,,,,320323203
+2,England,13,JC Buttler,AD Russell,SG Borthwick,,0,2,2,,,,320323203
+2,England,14,SG Borthwick,DR Smith,JC Buttler,,0,4,4,,,,320323203
+2,England,14,SG Borthwick,DR Smith,JC Buttler,,0,0,0,,,,320323203
+2,England,14,SG Borthwick,DR Smith,JC Buttler,,0,1,1,,,,320323203
+2,England,14,JC Buttler,DR Smith,SG Borthwick,,0,1,1,,,,320323203
+2,England,14,SG Borthwick,DR Smith,JC Buttler,,0,0,0,run out,JC Buttler,DJG Sammy,320323203
+2,England,14,SG Borthwick,DR Smith,GP Swann,,0,1,1,,,,320323203
+2,England,15,SG Borthwick,DJG Sammy,GP Swann,,0,0,0,,,,320323203
+2,England,15,SG Borthwick,DJG Sammy,GP Swann,,0,0,0,,,,320323203
+2,England,15,SG Borthwick,DJG Sammy,GP Swann,,0,0,0,,,,320323203
+2,England,15,SG Borthwick,DJG Sammy,GP Swann,,0,1,1,,,,320323203
+2,England,15,GP Swann,DJG Sammy,SG Borthwick,,0,0,0,,,,320323203
+2,England,15,GP Swann,DJG Sammy,SG Borthwick,,0,0,0,run out,SG Borthwick,DJG Sammy,320323203
+2,England,16,JW Dernbach,D Bishoo,GP Swann,,0,0,0,,,,320323203
+2,England,16,JW Dernbach,D Bishoo,GP Swann,,0,2,2,,,,320323203
+2,England,16,JW Dernbach,D Bishoo,GP Swann,,0,0,0,,,,320323203
+2,England,16,JW Dernbach,D Bishoo,GP Swann,,0,1,1,run out,JW Dernbach,CD Barnwell,320323203

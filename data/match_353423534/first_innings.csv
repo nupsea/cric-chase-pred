@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,Q de Kock,NM Coulter-Nile,HM Amla,wides,1,1,0,,,,353423534
+1,South Africa,0,Q de Kock,NM Coulter-Nile,HM Amla,,0,0,0,,,,353423534
+1,South Africa,0,Q de Kock,NM Coulter-Nile,HM Amla,,0,4,4,,,,353423534
+1,South Africa,0,Q de Kock,NM Coulter-Nile,HM Amla,,0,0,0,,,,353423534
+1,South Africa,0,Q de Kock,NM Coulter-Nile,HM Amla,,0,1,1,,,,353423534
+1,South Africa,0,HM Amla,NM Coulter-Nile,Q de Kock,,0,1,1,,,,353423534
+1,South Africa,0,Q de Kock,NM Coulter-Nile,HM Amla,,0,4,4,,,,353423534
+1,South Africa,1,HM Amla,JW Hastings,Q de Kock,,0,0,0,,,,353423534
+1,South Africa,1,HM Amla,JW Hastings,Q de Kock,,0,0,0,,,,353423534
+1,South Africa,1,HM Amla,JW Hastings,Q de Kock,,0,0,0,,,,353423534
+1,South Africa,1,HM Amla,JW Hastings,Q de Kock,,0,2,2,,,,353423534
+1,South Africa,1,HM Amla,JW Hastings,Q de Kock,,0,1,1,,,,353423534
+1,South Africa,1,Q de Kock,JW Hastings,HM Amla,,0,0,0,,,,353423534
+1,South Africa,2,HM Amla,SR Watson,Q de Kock,,0,4,4,,,,353423534
+1,South Africa,2,HM Amla,SR Watson,Q de Kock,,0,6,6,,,,353423534
+1,South Africa,2,HM Amla,SR Watson,Q de Kock,,0,1,1,,,,353423534
+1,South Africa,2,Q de Kock,SR Watson,HM Amla,,0,4,4,,,,353423534
+1,South Africa,2,Q de Kock,SR Watson,HM Amla,,0,1,1,,,,353423534
+1,South Africa,2,HM Amla,SR Watson,Q de Kock,,0,2,2,,,,353423534
+1,South Africa,3,Q de Kock,JW Hastings,HM Amla,,0,0,0,,,,353423534
+1,South Africa,3,Q de Kock,JW Hastings,HM Amla,,0,4,4,,,,353423534
+1,South Africa,3,Q de Kock,JW Hastings,HM Amla,,0,6,6,,,,353423534
+1,South Africa,3,Q de Kock,JW Hastings,HM Amla,,0,1,1,,,,353423534
+1,South Africa,3,HM Amla,JW Hastings,Q de Kock,,0,4,4,,,,353423534
+1,South Africa,3,HM Amla,JW Hastings,Q de Kock,,0,0,0,,,,353423534
+1,South Africa,4,Q de Kock,NM Coulter-Nile,HM Amla,,0,0,0,caught,Q de Kock,JW Hastings,353423534
+1,South Africa,4,HM Amla,NM Coulter-Nile,F du Plessis,,0,4,4,,,,353423534
+1,South Africa,4,HM Amla,NM Coulter-Nile,F du Plessis,,0,0,0,,,,353423534
+1,South Africa,4,HM Amla,NM Coulter-Nile,F du Plessis,,0,6,6,,,,353423534
+1,South Africa,4,HM Amla,NM Coulter-Nile,F du Plessis,,0,0,0,,,,353423534
+1,South Africa,4,HM Amla,NM Coulter-Nile,F du Plessis,,0,1,1,,,,353423534
+1,South Africa,5,HM Amla,JP Faulkner,F du Plessis,,0,1,1,,,,353423534
+1,South Africa,5,F du Plessis,JP Faulkner,HM Amla,,0,0,0,,,,353423534
+1,South Africa,5,F du Plessis,JP Faulkner,HM Amla,,0,1,1,,,,353423534
+1,South Africa,5,HM Amla,JP Faulkner,F du Plessis,,0,0,0,,,,353423534
+1,South Africa,5,HM Amla,JP Faulkner,F du Plessis,,0,4,4,,,,353423534
+1,South Africa,5,HM Amla,JP Faulkner,F du Plessis,,0,4,4,,,,353423534
+1,South Africa,6,F du Plessis,A Zampa,HM Amla,,0,0,0,,,,353423534
+1,South Africa,6,F du Plessis,A Zampa,HM Amla,,0,1,1,,,,353423534
+1,South Africa,6,HM Amla,A Zampa,F du Plessis,,0,0,0,,,,353423534
+1,South Africa,6,HM Amla,A Zampa,F du Plessis,,0,0,0,,,,353423534
+1,South Africa,6,HM Amla,A Zampa,F du Plessis,,0,1,1,,,,353423534
+1,South Africa,6,F du Plessis,A Zampa,HM Amla,,0,1,1,,,,353423534
+1,South Africa,7,F du Plessis,SR Watson,HM Amla,,0,1,1,,,,353423534
+1,South Africa,7,HM Amla,SR Watson,F du Plessis,,0,1,1,,,,353423534
+1,South Africa,7,F du Plessis,SR Watson,HM Amla,wides,1,1,0,,,,353423534
+1,South Africa,7,F du Plessis,SR Watson,HM Amla,,0,0,0,caught,F du Plessis,JP Faulkner,353423534
+1,South Africa,7,RR Rossouw,SR Watson,HM Amla,,0,0,0,,,,353423534
+1,South Africa,7,RR Rossouw,SR Watson,HM Amla,,0,0,0,,,,353423534
+1,South Africa,7,RR Rossouw,SR Watson,HM Amla,,0,1,1,,,,353423534
+1,South Africa,8,RR Rossouw,A Zampa,HM Amla,,0,1,1,,,,353423534
+1,South Africa,8,HM Amla,A Zampa,RR Rossouw,,0,2,2,,,,353423534
+1,South Africa,8,HM Amla,A Zampa,RR Rossouw,,0,0,0,,,,353423534
+1,South Africa,8,HM Amla,A Zampa,RR Rossouw,,0,0,0,,,,353423534
+1,South Africa,8,HM Amla,A Zampa,RR Rossouw,,0,2,2,,,,353423534
+1,South Africa,8,HM Amla,A Zampa,RR Rossouw,,0,1,1,,,,353423534
+1,South Africa,9,HM Amla,GJ Maxwell,RR Rossouw,,0,2,2,,,,353423534
+1,South Africa,9,HM Amla,GJ Maxwell,RR Rossouw,,0,0,0,,,,353423534
+1,South Africa,9,HM Amla,GJ Maxwell,RR Rossouw,,0,1,1,,,,353423534
+1,South Africa,9,RR Rossouw,GJ Maxwell,HM Amla,,0,1,1,,,,353423534
+1,South Africa,9,HM Amla,GJ Maxwell,RR Rossouw,,0,2,2,,,,353423534
+1,South Africa,9,HM Amla,GJ Maxwell,RR Rossouw,,0,0,0,,,,353423534
+1,South Africa,10,RR Rossouw,A Zampa,HM Amla,,0,1,1,,,,353423534
+1,South Africa,10,HM Amla,A Zampa,RR Rossouw,,0,1,1,,,,353423534
+1,South Africa,10,RR Rossouw,A Zampa,HM Amla,,0,0,0,,,,353423534
+1,South Africa,10,RR Rossouw,A Zampa,HM Amla,,0,0,0,,,,353423534
+1,South Africa,10,RR Rossouw,A Zampa,HM Amla,,0,0,0,,,,353423534
+1,South Africa,10,RR Rossouw,A Zampa,HM Amla,,0,4,4,,,,353423534
+1,South Africa,11,HM Amla,JP Faulkner,RR Rossouw,legbyes,1,1,0,,,,353423534
+1,South Africa,11,RR Rossouw,JP Faulkner,HM Amla,,0,1,1,,,,353423534
+1,South Africa,11,HM Amla,JP Faulkner,RR Rossouw,,0,4,4,,,,353423534
+1,South Africa,11,HM Amla,JP Faulkner,RR Rossouw,,0,0,0,,,,353423534
+1,South Africa,11,HM Amla,JP Faulkner,RR Rossouw,,0,1,1,,,,353423534
+1,South Africa,11,RR Rossouw,JP Faulkner,HM Amla,,0,1,1,,,,353423534
+1,South Africa,12,RR Rossouw,A Zampa,HM Amla,,0,2,2,,,,353423534
+1,South Africa,12,RR Rossouw,A Zampa,HM Amla,,0,1,1,,,,353423534
+1,South Africa,12,HM Amla,A Zampa,RR Rossouw,,0,4,4,,,,353423534
+1,South Africa,12,HM Amla,A Zampa,RR Rossouw,,0,1,1,,,,353423534
+1,South Africa,12,RR Rossouw,A Zampa,HM Amla,,0,0,0,,,,353423534
+1,South Africa,12,RR Rossouw,A Zampa,HM Amla,,0,0,0,,,,353423534
+1,South Africa,13,HM Amla,GJ Maxwell,RR Rossouw,,0,1,1,,,,353423534
+1,South Africa,13,RR Rossouw,GJ Maxwell,HM Amla,,0,1,1,,,,353423534
+1,South Africa,13,HM Amla,GJ Maxwell,RR Rossouw,,0,2,2,,,,353423534
+1,South Africa,13,HM Amla,GJ Maxwell,RR Rossouw,,0,4,4,,,,353423534
+1,South Africa,13,HM Amla,GJ Maxwell,RR Rossouw,,0,1,1,,,,353423534
+1,South Africa,13,RR Rossouw,GJ Maxwell,HM Amla,,0,1,1,,,,353423534
+1,South Africa,14,RR Rossouw,NM Coulter-Nile,HM Amla,,0,1,1,,,,353423534
+1,South Africa,14,HM Amla,NM Coulter-Nile,RR Rossouw,,0,1,1,,,,353423534
+1,South Africa,14,RR Rossouw,NM Coulter-Nile,HM Amla,,0,0,0,,,,353423534
+1,South Africa,14,RR Rossouw,NM Coulter-Nile,HM Amla,,0,0,0,caught,RR Rossouw,SPD Smith,353423534
+1,South Africa,14,HM Amla,NM Coulter-Nile,DA Miller,,0,2,2,,,,353423534
+1,South Africa,14,HM Amla,NM Coulter-Nile,DA Miller,,0,0,0,,,,353423534
+1,South Africa,15,DA Miller,GJ Maxwell,HM Amla,,0,1,1,,,,353423534
+1,South Africa,15,HM Amla,GJ Maxwell,DA Miller,,0,1,1,,,,353423534
+1,South Africa,15,DA Miller,GJ Maxwell,HM Amla,,0,1,1,,,,353423534
+1,South Africa,15,HM Amla,GJ Maxwell,DA Miller,,0,1,1,,,,353423534
+1,South Africa,15,DA Miller,GJ Maxwell,HM Amla,,0,0,0,,,,353423534
+1,South Africa,15,DA Miller,GJ Maxwell,HM Amla,,0,4,4,,,,353423534
+1,South Africa,16,HM Amla,JP Faulkner,DA Miller,,0,1,1,,,,353423534
+1,South Africa,16,DA Miller,JP Faulkner,HM Amla,,0,2,2,,,,353423534
+1,South Africa,16,DA Miller,JP Faulkner,HM Amla,,0,1,1,,,,353423534
+1,South Africa,16,HM Amla,JP Faulkner,DA Miller,,0,1,1,,,,353423534
+1,South Africa,16,DA Miller,JP Faulkner,HM Amla,,0,4,4,,,,353423534
+1,South Africa,16,DA Miller,JP Faulkner,HM Amla,legbyes,1,1,0,,,,353423534
+1,South Africa,17,DA Miller,JW Hastings,HM Amla,,0,1,1,,,,353423534
+1,South Africa,17,HM Amla,JW Hastings,DA Miller,,0,1,1,,,,353423534
+1,South Africa,17,DA Miller,JW Hastings,HM Amla,,0,6,6,,,,353423534
+1,South Africa,17,DA Miller,JW Hastings,HM Amla,,0,1,1,,,,353423534
+1,South Africa,17,HM Amla,JW Hastings,DA Miller,,0,0,0,,,,353423534
+1,South Africa,17,HM Amla,JW Hastings,DA Miller,,0,1,1,,,,353423534
+1,South Africa,18,HM Amla,NM Coulter-Nile,DA Miller,,0,1,1,,,,353423534
+1,South Africa,18,DA Miller,NM Coulter-Nile,HM Amla,legbyes,1,1,0,,,,353423534
+1,South Africa,18,HM Amla,NM Coulter-Nile,DA Miller,,0,1,1,,,,353423534
+1,South Africa,18,DA Miller,NM Coulter-Nile,HM Amla,,0,1,1,,,,353423534
+1,South Africa,18,HM Amla,NM Coulter-Nile,DA Miller,,0,1,1,,,,353423534
+1,South Africa,18,DA Miller,NM Coulter-Nile,HM Amla,,0,6,6,,,,353423534
+1,South Africa,19,HM Amla,JP Faulkner,DA Miller,,0,6,6,,,,353423534
+1,South Africa,19,HM Amla,JP Faulkner,DA Miller,,0,1,1,,,,353423534
+1,South Africa,19,DA Miller,JP Faulkner,HM Amla,,0,2,2,,,,353423534
+1,South Africa,19,DA Miller,JP Faulkner,HM Amla,,0,0,0,caught,DA Miller,UT Khawaja,353423534
+1,South Africa,19,JP Duminy,JP Faulkner,HM Amla,,0,1,1,,,,353423534
+1,South Africa,19,HM Amla,JP Faulkner,JP Duminy,,0,6,6,,,,353423534

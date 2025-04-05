@@ -1,0 +1,115 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Kuwait,0,Maryam Omar,KY Chan,Priyada Murali,,0,0,0,,,,32100232100
+2,Kuwait,0,Maryam Omar,KY Chan,Priyada Murali,,0,1,1,,,,32100232100
+2,Kuwait,0,Priyada Murali,KY Chan,Maryam Omar,,0,0,0,,,,32100232100
+2,Kuwait,0,Priyada Murali,KY Chan,Maryam Omar,,0,1,1,,,,32100232100
+2,Kuwait,0,Maryam Omar,KY Chan,Priyada Murali,,0,1,1,,,,32100232100
+2,Kuwait,0,Priyada Murali,KY Chan,Maryam Omar,,0,2,2,,,,32100232100
+2,Kuwait,1,Maryam Omar,Chan Ka Man,Priyada Murali,,0,1,1,,,,32100232100
+2,Kuwait,1,Priyada Murali,Chan Ka Man,Maryam Omar,,0,0,0,,,,32100232100
+2,Kuwait,1,Priyada Murali,Chan Ka Man,Maryam Omar,,0,0,0,,,,32100232100
+2,Kuwait,1,Priyada Murali,Chan Ka Man,Maryam Omar,,0,0,0,,,,32100232100
+2,Kuwait,1,Priyada Murali,Chan Ka Man,Maryam Omar,,0,0,0,,,,32100232100
+2,Kuwait,1,Priyada Murali,Chan Ka Man,Maryam Omar,byes,1,1,0,,,,32100232100
+2,Kuwait,2,Priyada Murali,KY Chan,Maryam Omar,,0,2,2,,,,32100232100
+2,Kuwait,2,Priyada Murali,KY Chan,Maryam Omar,,0,0,0,caught,Priyada Murali,NT Miles,32100232100
+2,Kuwait,2,Zeefa Jilani,KY Chan,Maryam Omar,,0,0,0,,,,32100232100
+2,Kuwait,2,Zeefa Jilani,KY Chan,Maryam Omar,,0,0,0,,,,32100232100
+2,Kuwait,2,Zeefa Jilani,KY Chan,Maryam Omar,,0,1,1,,,,32100232100
+2,Kuwait,2,Maryam Omar,KY Chan,Zeefa Jilani,,0,0,0,,,,32100232100
+2,Kuwait,3,Zeefa Jilani,Chan Ka Man,Maryam Omar,,0,0,0,,,,32100232100
+2,Kuwait,3,Zeefa Jilani,Chan Ka Man,Maryam Omar,,0,0,0,,,,32100232100
+2,Kuwait,3,Zeefa Jilani,Chan Ka Man,Maryam Omar,,0,0,0,,,,32100232100
+2,Kuwait,3,Zeefa Jilani,Chan Ka Man,Maryam Omar,,0,0,0,,,,32100232100
+2,Kuwait,3,Zeefa Jilani,Chan Ka Man,Maryam Omar,,0,1,1,,,,32100232100
+2,Kuwait,3,Maryam Omar,Chan Ka Man,Zeefa Jilani,,0,0,0,,,,32100232100
+2,Kuwait,4,Zeefa Jilani,KY Chan,Maryam Omar,,0,1,1,,,,32100232100
+2,Kuwait,4,Maryam Omar,KY Chan,Zeefa Jilani,,0,1,1,run out,Zeefa Jilani,M Bibi,32100232100
+2,Kuwait,4,Maryam Omar,KY Chan,Amna Tariq,,0,1,1,,,,32100232100
+2,Kuwait,4,Amna Tariq,KY Chan,Maryam Omar,,0,0,0,,,,32100232100
+2,Kuwait,4,Amna Tariq,KY Chan,Maryam Omar,,0,2,2,,,,32100232100
+2,Kuwait,4,Amna Tariq,KY Chan,Maryam Omar,,0,0,0,,,,32100232100
+2,Kuwait,5,Maryam Omar,Chan Ka Man,Amna Tariq,,0,0,0,,,,32100232100
+2,Kuwait,5,Maryam Omar,Chan Ka Man,Amna Tariq,,0,0,0,,,,32100232100
+2,Kuwait,5,Maryam Omar,Chan Ka Man,Amna Tariq,,0,1,1,,,,32100232100
+2,Kuwait,5,Amna Tariq,Chan Ka Man,Maryam Omar,,0,0,0,,,,32100232100
+2,Kuwait,5,Amna Tariq,Chan Ka Man,Maryam Omar,,0,0,0,,,,32100232100
+2,Kuwait,5,Amna Tariq,Chan Ka Man,Maryam Omar,,0,1,1,,,,32100232100
+2,Kuwait,6,Amna Tariq,M Hill,Maryam Omar,,0,0,0,,,,32100232100
+2,Kuwait,6,Amna Tariq,M Hill,Maryam Omar,wides,1,1,0,,,,32100232100
+2,Kuwait,6,Amna Tariq,M Hill,Maryam Omar,wides,2,2,0,,,,32100232100
+2,Kuwait,6,Maryam Omar,M Hill,Amna Tariq,,0,0,0,,,,32100232100
+2,Kuwait,6,Maryam Omar,M Hill,Amna Tariq,,0,0,0,,,,32100232100
+2,Kuwait,6,Maryam Omar,M Hill,Amna Tariq,,0,1,1,,,,32100232100
+2,Kuwait,6,Amna Tariq,M Hill,Maryam Omar,,0,1,1,,,,32100232100
+2,Kuwait,6,Maryam Omar,M Hill,Amna Tariq,,0,1,1,,,,32100232100
+2,Kuwait,7,Maryam Omar,Iqra Sahar,Amna Tariq,,0,0,0,,,,32100232100
+2,Kuwait,7,Maryam Omar,Iqra Sahar,Amna Tariq,wides,1,1,0,,,,32100232100
+2,Kuwait,7,Maryam Omar,Iqra Sahar,Amna Tariq,,0,1,1,,,,32100232100
+2,Kuwait,7,Amna Tariq,Iqra Sahar,Maryam Omar,,0,0,0,,,,32100232100
+2,Kuwait,7,Amna Tariq,Iqra Sahar,Maryam Omar,,0,1,1,,,,32100232100
+2,Kuwait,7,Maryam Omar,Iqra Sahar,Amna Tariq,,0,1,1,,,,32100232100
+2,Kuwait,7,Amna Tariq,Iqra Sahar,Maryam Omar,,0,1,1,,,,32100232100
+2,Kuwait,8,Amna Tariq,EK Hubbard,Maryam Omar,wides,1,1,0,,,,32100232100
+2,Kuwait,8,Amna Tariq,EK Hubbard,Maryam Omar,,0,0,0,,,,32100232100
+2,Kuwait,8,Amna Tariq,EK Hubbard,Maryam Omar,,0,0,0,,,,32100232100
+2,Kuwait,8,Amna Tariq,EK Hubbard,Maryam Omar,,0,0,0,,,,32100232100
+2,Kuwait,8,Amna Tariq,EK Hubbard,Maryam Omar,,0,1,1,,,,32100232100
+2,Kuwait,8,Maryam Omar,EK Hubbard,Amna Tariq,,0,1,1,,,,32100232100
+2,Kuwait,8,Amna Tariq,EK Hubbard,Maryam Omar,,0,4,4,,,,32100232100
+2,Kuwait,9,Maryam Omar,Iqra Sahar,Amna Tariq,,0,0,0,,,,32100232100
+2,Kuwait,9,Maryam Omar,Iqra Sahar,Amna Tariq,,0,2,2,,,,32100232100
+2,Kuwait,9,Maryam Omar,Iqra Sahar,Amna Tariq,,0,0,0,,,,32100232100
+2,Kuwait,9,Maryam Omar,Iqra Sahar,Amna Tariq,,0,3,3,,,,32100232100
+2,Kuwait,9,Amna Tariq,Iqra Sahar,Maryam Omar,,0,0,0,,,,32100232100
+2,Kuwait,9,Amna Tariq,Iqra Sahar,Maryam Omar,wides,1,1,0,,,,32100232100
+2,Kuwait,9,Amna Tariq,Iqra Sahar,Maryam Omar,,0,0,0,,,,32100232100
+2,Kuwait,10,Maryam Omar,M Bibi,Amna Tariq,,0,2,2,,,,32100232100
+2,Kuwait,10,Maryam Omar,M Bibi,Amna Tariq,wides,1,1,0,,,,32100232100
+2,Kuwait,10,Maryam Omar,M Bibi,Amna Tariq,,0,2,2,,,,32100232100
+2,Kuwait,10,Maryam Omar,M Bibi,Amna Tariq,wides,1,1,0,,,,32100232100
+2,Kuwait,10,Maryam Omar,M Bibi,Amna Tariq,,0,0,0,,,,32100232100
+2,Kuwait,10,Maryam Omar,M Bibi,Amna Tariq,,0,1,1,,,,32100232100
+2,Kuwait,10,Amna Tariq,M Bibi,Maryam Omar,,0,0,0,,,,32100232100
+2,Kuwait,10,Amna Tariq,M Bibi,Maryam Omar,,0,0,0,,,,32100232100
+2,Kuwait,11,Maryam Omar,EK Hubbard,Amna Tariq,,0,1,1,run out,Maryam Omar,Hiu Ying Cheung,32100232100
+2,Kuwait,11,SL Gomez,EK Hubbard,Amna Tariq,,0,0,0,,,,32100232100
+2,Kuwait,11,SL Gomez,EK Hubbard,Amna Tariq,,0,0,0,,,,32100232100
+2,Kuwait,11,SL Gomez,EK Hubbard,Amna Tariq,noballs,1,1,0,,,,32100232100
+2,Kuwait,11,SL Gomez,EK Hubbard,Amna Tariq,,0,1,1,,,,32100232100
+2,Kuwait,11,Amna Tariq,EK Hubbard,SL Gomez,,0,0,0,,,,32100232100
+2,Kuwait,11,Amna Tariq,EK Hubbard,SL Gomez,,0,0,0,run out,Amna Tariq,Iqra Sahar,32100232100
+2,Kuwait,12,Khadija Khalil,M Bibi,SL Gomez,,0,0,0,caught,Khadija Khalil,KY Chan,32100232100
+2,Kuwait,12,Mariamma Hyder,M Bibi,SL Gomez,,0,0,0,,,,32100232100
+2,Kuwait,12,Mariamma Hyder,M Bibi,SL Gomez,,0,0,0,caught,Mariamma Hyder,EK Hubbard,32100232100
+2,Kuwait,12,B Shanti,M Bibi,SL Gomez,,0,1,1,,,,32100232100
+2,Kuwait,12,SL Gomez,M Bibi,B Shanti,,0,0,0,,,,32100232100
+2,Kuwait,12,SL Gomez,M Bibi,B Shanti,,0,0,0,,,,32100232100
+2,Kuwait,13,B Shanti,EK Hubbard,SL Gomez,,0,0,0,,,,32100232100
+2,Kuwait,13,B Shanti,EK Hubbard,SL Gomez,,0,1,1,,,,32100232100
+2,Kuwait,13,SL Gomez,EK Hubbard,B Shanti,,0,0,0,,,,32100232100
+2,Kuwait,13,SL Gomez,EK Hubbard,B Shanti,,0,0,0,,,,32100232100
+2,Kuwait,13,SL Gomez,EK Hubbard,B Shanti,,0,2,2,,,,32100232100
+2,Kuwait,13,SL Gomez,EK Hubbard,B Shanti,,0,1,1,,,,32100232100
+2,Kuwait,14,SL Gomez,M Bibi,B Shanti,,0,0,0,,,,32100232100
+2,Kuwait,14,SL Gomez,M Bibi,B Shanti,,0,0,0,,,,32100232100
+2,Kuwait,14,SL Gomez,M Bibi,B Shanti,,0,0,0,,,,32100232100
+2,Kuwait,14,SL Gomez,M Bibi,B Shanti,,0,0,0,,,,32100232100
+2,Kuwait,14,SL Gomez,M Bibi,B Shanti,,0,0,0,,,,32100232100
+2,Kuwait,14,SL Gomez,M Bibi,B Shanti,,0,0,0,bowled,SL Gomez,,32100232100
+2,Kuwait,15,B Shanti,EK Hubbard,Maria Jasvi,,0,0,0,,,,32100232100
+2,Kuwait,15,B Shanti,EK Hubbard,Maria Jasvi,,0,1,1,,,,32100232100
+2,Kuwait,15,Maria Jasvi,EK Hubbard,B Shanti,,0,0,0,,,,32100232100
+2,Kuwait,15,Maria Jasvi,EK Hubbard,B Shanti,,0,0,0,,,,32100232100
+2,Kuwait,15,Maria Jasvi,EK Hubbard,B Shanti,,0,0,0,,,,32100232100
+2,Kuwait,15,Maria Jasvi,EK Hubbard,B Shanti,,0,0,0,,,,32100232100
+2,Kuwait,16,B Shanti,M Bibi,Maria Jasvi,,0,0,0,run out,B Shanti,Bella Poon,32100232100
+2,Kuwait,16,Maria Jasvi,M Bibi,Maryyam Ashraf,,0,0,0,caught,Maria Jasvi,Shanzeen Shahzad,32100232100
+2,Kuwait,16,Maryyam Ashraf,M Bibi,A Bose,,0,0,0,,,,32100232100
+2,Kuwait,16,Maryyam Ashraf,M Bibi,A Bose,,0,0,0,,,,32100232100
+2,Kuwait,16,Maryyam Ashraf,M Bibi,A Bose,,0,0,0,,,,32100232100
+2,Kuwait,16,Maryyam Ashraf,M Bibi,A Bose,,0,0,0,,,,32100232100
+2,Kuwait,17,A Bose,Iqra Sahar,Maryyam Ashraf,,0,1,1,,,,32100232100
+2,Kuwait,17,Maryyam Ashraf,Iqra Sahar,A Bose,,0,1,1,,,,32100232100
+2,Kuwait,17,A Bose,Iqra Sahar,Maryyam Ashraf,,0,0,0,,,,32100232100
+2,Kuwait,17,A Bose,Iqra Sahar,Maryyam Ashraf,,0,0,0,caught,A Bose,M Hill,32100232100

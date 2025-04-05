@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,United States of America,0,SR Taylor,C Pervez,MD Patel,,0,2,2,,,,31832231832
+2,United States of America,0,SR Taylor,C Pervez,MD Patel,,0,0,0,,,,31832231832
+2,United States of America,0,SR Taylor,C Pervez,MD Patel,,0,4,4,,,,31832231832
+2,United States of America,0,SR Taylor,C Pervez,MD Patel,,0,0,0,,,,31832231832
+2,United States of America,0,SR Taylor,C Pervez,MD Patel,,0,0,0,,,,31832231832
+2,United States of America,0,SR Taylor,C Pervez,MD Patel,,0,0,0,,,,31832231832
+2,United States of America,1,MD Patel,H Thaker,SR Taylor,,0,0,0,,,,31832231832
+2,United States of America,1,MD Patel,H Thaker,SR Taylor,,0,0,0,caught,MD Patel,Ravinderpal Singh,31832231832
+2,United States of America,1,XM Marshall,H Thaker,SR Taylor,,0,1,1,,,,31832231832
+2,United States of America,1,SR Taylor,H Thaker,XM Marshall,,0,0,0,caught,SR Taylor,Ravinderpal Singh,31832231832
+2,United States of America,1,XM Marshall,H Thaker,Aaron Jones,,0,4,4,,,,31832231832
+2,United States of America,1,XM Marshall,H Thaker,Aaron Jones,,0,1,1,,,,31832231832
+2,United States of America,2,XM Marshall,C Pervez,Aaron Jones,,0,0,0,,,,31832231832
+2,United States of America,2,XM Marshall,C Pervez,Aaron Jones,,0,4,4,,,,31832231832
+2,United States of America,2,XM Marshall,C Pervez,Aaron Jones,,0,0,0,,,,31832231832
+2,United States of America,2,XM Marshall,C Pervez,Aaron Jones,,0,6,6,,,,31832231832
+2,United States of America,2,XM Marshall,C Pervez,Aaron Jones,,0,0,0,,,,31832231832
+2,United States of America,2,XM Marshall,C Pervez,Aaron Jones,,0,1,1,,,,31832231832
+2,United States of America,3,XM Marshall,H Thaker,Aaron Jones,,0,0,0,,,,31832231832
+2,United States of America,3,XM Marshall,H Thaker,Aaron Jones,,0,0,0,,,,31832231832
+2,United States of America,3,XM Marshall,H Thaker,Aaron Jones,,0,0,0,,,,31832231832
+2,United States of America,3,XM Marshall,H Thaker,Aaron Jones,,0,0,0,,,,31832231832
+2,United States of America,3,XM Marshall,H Thaker,Aaron Jones,,0,1,1,,,,31832231832
+2,United States of America,3,Aaron Jones,H Thaker,XM Marshall,,0,0,0,,,,31832231832
+2,United States of America,4,XM Marshall,Saad Bin Zafar,Aaron Jones,,0,0,0,,,,31832231832
+2,United States of America,4,XM Marshall,Saad Bin Zafar,Aaron Jones,,0,1,1,,,,31832231832
+2,United States of America,4,Aaron Jones,Saad Bin Zafar,XM Marshall,,0,0,0,,,,31832231832
+2,United States of America,4,Aaron Jones,Saad Bin Zafar,XM Marshall,,0,2,2,,,,31832231832
+2,United States of America,4,Aaron Jones,Saad Bin Zafar,XM Marshall,,0,1,1,,,,31832231832
+2,United States of America,4,XM Marshall,Saad Bin Zafar,Aaron Jones,,0,4,4,,,,31832231832
+2,United States of America,5,Aaron Jones,H Thaker,XM Marshall,,0,0,0,,,,31832231832
+2,United States of America,5,Aaron Jones,H Thaker,XM Marshall,,0,1,1,,,,31832231832
+2,United States of America,5,XM Marshall,H Thaker,Aaron Jones,,0,1,1,,,,31832231832
+2,United States of America,5,Aaron Jones,H Thaker,XM Marshall,,0,1,1,,,,31832231832
+2,United States of America,5,XM Marshall,H Thaker,Aaron Jones,,0,0,0,,,,31832231832
+2,United States of America,5,XM Marshall,H Thaker,Aaron Jones,,0,4,4,,,,31832231832
+2,United States of America,6,Aaron Jones,Saad Bin Zafar,XM Marshall,,0,0,0,,,,31832231832
+2,United States of America,6,Aaron Jones,Saad Bin Zafar,XM Marshall,,0,1,1,,,,31832231832
+2,United States of America,6,XM Marshall,Saad Bin Zafar,Aaron Jones,,0,0,0,,,,31832231832
+2,United States of America,6,XM Marshall,Saad Bin Zafar,Aaron Jones,,0,0,0,,,,31832231832
+2,United States of America,6,XM Marshall,Saad Bin Zafar,Aaron Jones,,0,0,0,,,,31832231832
+2,United States of America,6,XM Marshall,Saad Bin Zafar,Aaron Jones,,0,0,0,,,,31832231832
+2,United States of America,7,Aaron Jones,Salman Nazar,XM Marshall,,0,0,0,caught,Aaron Jones,NS Dhaliwal,31832231832
+2,United States of America,7,IG Holland,Salman Nazar,XM Marshall,,0,2,2,,,,31832231832
+2,United States of America,7,IG Holland,Salman Nazar,XM Marshall,,0,1,1,,,,31832231832
+2,United States of America,7,XM Marshall,Salman Nazar,IG Holland,,0,0,0,lbw,XM Marshall,,31832231832
+2,United States of America,7,NK Patel,Salman Nazar,IG Holland,,0,0,0,,,,31832231832
+2,United States of America,7,NK Patel,Salman Nazar,IG Holland,,0,0,0,,,,31832231832
+2,United States of America,8,IG Holland,D Heyliger,NK Patel,,0,0,0,,,,31832231832
+2,United States of America,8,IG Holland,D Heyliger,NK Patel,,0,0,0,,,,31832231832
+2,United States of America,8,IG Holland,D Heyliger,NK Patel,,0,0,0,,,,31832231832
+2,United States of America,8,IG Holland,D Heyliger,NK Patel,,0,0,0,,,,31832231832
+2,United States of America,8,IG Holland,D Heyliger,NK Patel,,0,1,1,,,,31832231832
+2,United States of America,8,NK Patel,D Heyliger,IG Holland,,0,0,0,,,,31832231832
+2,United States of America,9,IG Holland,Salman Nazar,NK Patel,,0,0,0,,,,31832231832
+2,United States of America,9,IG Holland,Salman Nazar,NK Patel,,0,0,0,caught and bowled,IG Holland,,31832231832
+2,United States of America,9,JS Malhotra,Salman Nazar,NK Patel,,0,1,1,,,,31832231832
+2,United States of America,9,NK Patel,Salman Nazar,JS Malhotra,,0,1,1,,,,31832231832
+2,United States of America,9,JS Malhotra,Salman Nazar,NK Patel,,0,0,0,,,,31832231832
+2,United States of America,9,JS Malhotra,Salman Nazar,NK Patel,,0,0,0,,,,31832231832
+2,United States of America,10,NK Patel,D Heyliger,JS Malhotra,,0,4,4,,,,31832231832
+2,United States of America,10,NK Patel,D Heyliger,JS Malhotra,,0,0,0,,,,31832231832
+2,United States of America,10,NK Patel,D Heyliger,JS Malhotra,,0,1,1,,,,31832231832
+2,United States of America,10,JS Malhotra,D Heyliger,NK Patel,wides,1,1,0,,,,31832231832
+2,United States of America,10,JS Malhotra,D Heyliger,NK Patel,,0,1,1,,,,31832231832
+2,United States of America,10,NK Patel,D Heyliger,JS Malhotra,,0,2,2,,,,31832231832
+2,United States of America,10,NK Patel,D Heyliger,JS Malhotra,,0,0,0,,,,31832231832
+2,United States of America,11,JS Malhotra,Salman Nazar,NK Patel,,0,0,0,,,,31832231832
+2,United States of America,11,JS Malhotra,Salman Nazar,NK Patel,,0,1,1,,,,31832231832
+2,United States of America,11,NK Patel,Salman Nazar,JS Malhotra,,0,1,1,,,,31832231832
+2,United States of America,11,JS Malhotra,Salman Nazar,NK Patel,,0,4,4,,,,31832231832
+2,United States of America,11,JS Malhotra,Salman Nazar,NK Patel,,0,1,1,,,,31832231832
+2,United States of America,11,NK Patel,Salman Nazar,JS Malhotra,,0,0,0,,,,31832231832
+2,United States of America,12,JS Malhotra,Saad Bin Zafar,NK Patel,,0,1,1,,,,31832231832
+2,United States of America,12,NK Patel,Saad Bin Zafar,JS Malhotra,,0,4,4,,,,31832231832
+2,United States of America,12,NK Patel,Saad Bin Zafar,JS Malhotra,,0,1,1,,,,31832231832
+2,United States of America,12,JS Malhotra,Saad Bin Zafar,NK Patel,,0,1,1,,,,31832231832
+2,United States of America,12,NK Patel,Saad Bin Zafar,JS Malhotra,,0,0,0,,,,31832231832
+2,United States of America,12,NK Patel,Saad Bin Zafar,JS Malhotra,,0,3,3,,,,31832231832
+2,United States of America,13,NK Patel,J Matharu,JS Malhotra,,0,1,1,,,,31832231832
+2,United States of America,13,JS Malhotra,J Matharu,NK Patel,,0,1,1,,,,31832231832
+2,United States of America,13,NK Patel,J Matharu,JS Malhotra,,0,1,1,,,,31832231832
+2,United States of America,13,JS Malhotra,J Matharu,NK Patel,,0,1,1,,,,31832231832
+2,United States of America,13,NK Patel,J Matharu,JS Malhotra,,0,1,1,,,,31832231832
+2,United States of America,13,JS Malhotra,J Matharu,NK Patel,,0,1,1,,,,31832231832
+2,United States of America,14,JS Malhotra,Salman Nazar,NK Patel,,0,1,1,,,,31832231832
+2,United States of America,14,NK Patel,Salman Nazar,JS Malhotra,,0,2,2,,,,31832231832
+2,United States of America,14,NK Patel,Salman Nazar,JS Malhotra,,0,2,2,,,,31832231832
+2,United States of America,14,NK Patel,Salman Nazar,JS Malhotra,,0,0,0,,,,31832231832
+2,United States of America,14,NK Patel,Salman Nazar,JS Malhotra,,0,1,1,,,,31832231832
+2,United States of America,14,JS Malhotra,Salman Nazar,NK Patel,,0,1,1,,,,31832231832
+2,United States of America,15,JS Malhotra,J Matharu,NK Patel,,0,1,1,,,,31832231832
+2,United States of America,15,NK Patel,J Matharu,JS Malhotra,,0,0,0,,,,31832231832
+2,United States of America,15,NK Patel,J Matharu,JS Malhotra,,0,0,0,caught,NK Patel,Ravinderpal Singh,31832231832
+2,United States of America,15,JS Malhotra,J Matharu,K Gore,,0,6,6,,,,31832231832
+2,United States of America,15,JS Malhotra,J Matharu,K Gore,,0,4,4,,,,31832231832
+2,United States of America,15,JS Malhotra,J Matharu,K Gore,,0,0,0,,,,31832231832
+2,United States of America,16,K Gore,Saad Bin Zafar,JS Malhotra,,0,6,6,,,,31832231832
+2,United States of America,16,K Gore,Saad Bin Zafar,JS Malhotra,,0,1,1,,,,31832231832
+2,United States of America,16,JS Malhotra,Saad Bin Zafar,K Gore,,0,1,1,,,,31832231832
+2,United States of America,16,K Gore,Saad Bin Zafar,JS Malhotra,,0,1,1,,,,31832231832
+2,United States of America,16,JS Malhotra,Saad Bin Zafar,K Gore,,0,1,1,,,,31832231832
+2,United States of America,16,K Gore,Saad Bin Zafar,JS Malhotra,,0,0,0,,,,31832231832
+2,United States of America,17,JS Malhotra,J Matharu,K Gore,,0,1,1,,,,31832231832
+2,United States of America,17,K Gore,J Matharu,JS Malhotra,,0,2,2,,,,31832231832
+2,United States of America,17,K Gore,J Matharu,JS Malhotra,,0,4,4,,,,31832231832
+2,United States of America,17,K Gore,J Matharu,JS Malhotra,,0,1,1,,,,31832231832
+2,United States of America,17,JS Malhotra,J Matharu,K Gore,,0,1,1,,,,31832231832
+2,United States of America,17,K Gore,J Matharu,JS Malhotra,,0,0,0,,,,31832231832
+2,United States of America,18,JS Malhotra,C Pervez,K Gore,,0,4,4,,,,31832231832
+2,United States of America,18,JS Malhotra,C Pervez,K Gore,,0,1,1,,,,31832231832
+2,United States of America,18,K Gore,C Pervez,JS Malhotra,,0,4,4,,,,31832231832
+2,United States of America,18,K Gore,C Pervez,JS Malhotra,,0,0,0,,,,31832231832
+2,United States of America,18,K Gore,C Pervez,JS Malhotra,,0,4,4,,,,31832231832
+2,United States of America,18,K Gore,C Pervez,JS Malhotra,legbyes,1,1,0,,,,31832231832
+2,United States of America,19,K Gore,J Matharu,JS Malhotra,wides,1,1,0,,,,31832231832
+2,United States of America,19,K Gore,J Matharu,JS Malhotra,wides,1,1,0,run out,JS Malhotra,Hamza Tariq,31832231832
+2,United States of America,19,J Theron,J Matharu,K Gore,,0,0,0,,,,31832231832
+2,United States of America,19,J Theron,J Matharu,K Gore,,0,1,1,,,,31832231832
+2,United States of America,19,K Gore,J Matharu,J Theron,,0,2,2,,,,31832231832
+2,United States of America,19,K Gore,J Matharu,J Theron,,0,6,6,,,,31832231832
+2,United States of America,19,K Gore,J Matharu,J Theron,,0,0,0,lbw,K Gore,,31832231832
+2,United States of America,19,Ali Khan,J Matharu,J Theron,byes,2,2,0,,,,31832231832

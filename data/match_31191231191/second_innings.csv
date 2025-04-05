@@ -1,0 +1,93 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Nepal,0,P Khadka,V Baskaran,G Malla,,0,4,4,,,,31191231191
+2,Nepal,0,P Khadka,V Baskaran,G Malla,,0,0,0,,,,31191231191
+2,Nepal,0,P Khadka,V Baskaran,G Malla,,0,6,6,,,,31191231191
+2,Nepal,0,P Khadka,V Baskaran,G Malla,,0,0,0,,,,31191231191
+2,Nepal,0,P Khadka,V Baskaran,G Malla,,0,0,0,,,,31191231191
+2,Nepal,0,P Khadka,V Baskaran,G Malla,,0,0,0,,,,31191231191
+2,Nepal,1,G Malla,Janak Prakash,P Khadka,,0,0,0,,,,31191231191
+2,Nepal,1,G Malla,Janak Prakash,P Khadka,,0,0,0,,,,31191231191
+2,Nepal,1,G Malla,Janak Prakash,P Khadka,,0,4,4,,,,31191231191
+2,Nepal,1,G Malla,Janak Prakash,P Khadka,,0,6,6,,,,31191231191
+2,Nepal,1,G Malla,Janak Prakash,P Khadka,,0,0,0,,,,31191231191
+2,Nepal,1,G Malla,Janak Prakash,P Khadka,,0,4,4,,,,31191231191
+2,Nepal,2,P Khadka,V Baskaran,G Malla,,0,0,0,,,,31191231191
+2,Nepal,2,P Khadka,V Baskaran,G Malla,,0,1,1,,,,31191231191
+2,Nepal,2,G Malla,V Baskaran,P Khadka,,0,0,0,,,,31191231191
+2,Nepal,2,G Malla,V Baskaran,P Khadka,,0,0,0,,,,31191231191
+2,Nepal,2,G Malla,V Baskaran,P Khadka,,0,1,1,,,,31191231191
+2,Nepal,2,P Khadka,V Baskaran,G Malla,,0,1,1,,,,31191231191
+2,Nepal,3,P Khadka,Amjad Mahboob,G Malla,,0,0,0,caught,P Khadka,S Chandramohan,31191231191
+2,Nepal,3,G Malla,Amjad Mahboob,S Vesawkar,,0,0,0,,,,31191231191
+2,Nepal,3,G Malla,Amjad Mahboob,S Vesawkar,,0,1,1,,,,31191231191
+2,Nepal,3,S Vesawkar,Amjad Mahboob,G Malla,,0,0,0,,,,31191231191
+2,Nepal,3,S Vesawkar,Amjad Mahboob,G Malla,,0,1,1,,,,31191231191
+2,Nepal,3,G Malla,Amjad Mahboob,S Vesawkar,,0,0,0,,,,31191231191
+2,Nepal,4,S Vesawkar,V Baskaran,G Malla,,0,0,0,,,,31191231191
+2,Nepal,4,S Vesawkar,V Baskaran,G Malla,,0,0,0,,,,31191231191
+2,Nepal,4,S Vesawkar,V Baskaran,G Malla,,0,0,0,,,,31191231191
+2,Nepal,4,S Vesawkar,V Baskaran,G Malla,,0,0,0,,,,31191231191
+2,Nepal,4,S Vesawkar,V Baskaran,G Malla,,0,1,1,,,,31191231191
+2,Nepal,4,G Malla,V Baskaran,S Vesawkar,,0,1,1,,,,31191231191
+2,Nepal,5,G Malla,Amjad Mahboob,S Vesawkar,,0,4,4,,,,31191231191
+2,Nepal,5,G Malla,Amjad Mahboob,S Vesawkar,,0,6,6,,,,31191231191
+2,Nepal,5,G Malla,Amjad Mahboob,S Vesawkar,,0,6,6,,,,31191231191
+2,Nepal,5,G Malla,Amjad Mahboob,S Vesawkar,,0,4,4,,,,31191231191
+2,Nepal,5,G Malla,Amjad Mahboob,S Vesawkar,,0,0,0,,,,31191231191
+2,Nepal,5,G Malla,Amjad Mahboob,S Vesawkar,,0,0,0,,,,31191231191
+2,Nepal,6,S Vesawkar,S Vijayakumar,G Malla,,0,1,1,,,,31191231191
+2,Nepal,6,G Malla,S Vijayakumar,S Vesawkar,,0,2,2,,,,31191231191
+2,Nepal,6,G Malla,S Vijayakumar,S Vesawkar,,0,0,0,bowled,G Malla,,31191231191
+2,Nepal,6,DS Airee,S Vijayakumar,S Vesawkar,,0,1,1,,,,31191231191
+2,Nepal,6,S Vesawkar,S Vijayakumar,DS Airee,,0,4,4,,,,31191231191
+2,Nepal,6,S Vesawkar,S Vijayakumar,DS Airee,,0,0,0,,,,31191231191
+2,Nepal,7,DS Airee,A Krishna,S Vesawkar,,0,2,2,,,,31191231191
+2,Nepal,7,DS Airee,A Krishna,S Vesawkar,,0,0,0,,,,31191231191
+2,Nepal,7,DS Airee,A Krishna,S Vesawkar,,0,1,1,,,,31191231191
+2,Nepal,7,S Vesawkar,A Krishna,DS Airee,,0,0,0,caught,S Vesawkar,Janak Prakash,31191231191
+2,Nepal,7,RK Paudel,A Krishna,DS Airee,,0,1,1,,,,31191231191
+2,Nepal,7,DS Airee,A Krishna,RK Paudel,,0,0,0,,,,31191231191
+2,Nepal,8,RK Paudel,S Vijayakumar,DS Airee,,0,0,0,,,,31191231191
+2,Nepal,8,RK Paudel,S Vijayakumar,DS Airee,,0,4,4,,,,31191231191
+2,Nepal,8,RK Paudel,S Vijayakumar,DS Airee,,0,0,0,caught and bowled,RK Paudel,,31191231191
+2,Nepal,8,B Bhandari,S Vijayakumar,DS Airee,,0,1,1,,,,31191231191
+2,Nepal,8,DS Airee,S Vijayakumar,B Bhandari,,0,1,1,,,,31191231191
+2,Nepal,8,B Bhandari,S Vijayakumar,DS Airee,,0,4,4,,,,31191231191
+2,Nepal,9,DS Airee,A Krishna,B Bhandari,,0,1,1,,,,31191231191
+2,Nepal,9,B Bhandari,A Krishna,DS Airee,,0,0,0,,,,31191231191
+2,Nepal,9,B Bhandari,A Krishna,DS Airee,,0,1,1,,,,31191231191
+2,Nepal,9,DS Airee,A Krishna,B Bhandari,,0,0,0,,,,31191231191
+2,Nepal,9,DS Airee,A Krishna,B Bhandari,,0,1,1,,,,31191231191
+2,Nepal,9,B Bhandari,A Krishna,DS Airee,,0,1,1,,,,31191231191
+2,Nepal,10,B Bhandari,S Vijayakumar,DS Airee,,0,2,2,,,,31191231191
+2,Nepal,10,B Bhandari,S Vijayakumar,DS Airee,,0,0,0,caught,B Bhandari,AE Paraam,31191231191
+2,Nepal,10,Karan KC,S Vijayakumar,DS Airee,,0,0,0,,,,31191231191
+2,Nepal,10,Karan KC,S Vijayakumar,DS Airee,,0,0,0,caught,Karan KC,CR Suryawanshi,31191231191
+2,Nepal,10,DS Airee,S Vijayakumar,Sompal Kami,,0,0,0,,,,31191231191
+2,Nepal,10,DS Airee,S Vijayakumar,Sompal Kami,,0,1,1,,,,31191231191
+2,Nepal,11,DS Airee,A Krishna,Sompal Kami,,0,0,0,,,,31191231191
+2,Nepal,11,DS Airee,A Krishna,Sompal Kami,,0,1,1,,,,31191231191
+2,Nepal,11,Sompal Kami,A Krishna,DS Airee,,0,2,2,,,,31191231191
+2,Nepal,11,Sompal Kami,A Krishna,DS Airee,,0,1,1,,,,31191231191
+2,Nepal,11,DS Airee,A Krishna,Sompal Kami,,0,6,6,,,,31191231191
+2,Nepal,11,DS Airee,A Krishna,Sompal Kami,,0,1,1,,,,31191231191
+2,Nepal,12,DS Airee,S Vijayakumar,Sompal Kami,,0,0,0,,,,31191231191
+2,Nepal,12,DS Airee,S Vijayakumar,Sompal Kami,,0,1,1,,,,31191231191
+2,Nepal,12,Sompal Kami,S Vijayakumar,DS Airee,,0,0,0,,,,31191231191
+2,Nepal,12,Sompal Kami,S Vijayakumar,DS Airee,,0,2,2,,,,31191231191
+2,Nepal,12,Sompal Kami,S Vijayakumar,DS Airee,,0,0,0,,,,31191231191
+2,Nepal,12,Sompal Kami,S Vijayakumar,DS Airee,,0,1,1,,,,31191231191
+2,Nepal,13,Sompal Kami,Janak Prakash,DS Airee,,0,4,4,,,,31191231191
+2,Nepal,13,Sompal Kami,Janak Prakash,DS Airee,,0,1,1,run out,Sompal Kami,,31191231191
+2,Nepal,13,DS Airee,Janak Prakash,S Lamichhane,,0,0,0,,,,31191231191
+2,Nepal,13,DS Airee,Janak Prakash,S Lamichhane,,0,1,1,,,,31191231191
+2,Nepal,13,S Lamichhane,Janak Prakash,DS Airee,,0,0,0,caught,S Lamichhane,Manpreet Singh,31191231191
+2,Nepal,13,B Regmi,Janak Prakash,DS Airee,wides,1,1,0,,,,31191231191
+2,Nepal,13,B Regmi,Janak Prakash,DS Airee,,0,0,0,,,,31191231191
+2,Nepal,14,DS Airee,V Baskaran,B Regmi,,0,4,4,,,,31191231191
+2,Nepal,14,DS Airee,V Baskaran,B Regmi,,0,0,0,,,,31191231191
+2,Nepal,14,DS Airee,V Baskaran,B Regmi,,0,1,1,,,,31191231191
+2,Nepal,14,B Regmi,V Baskaran,DS Airee,,0,1,1,,,,31191231191
+2,Nepal,14,DS Airee,V Baskaran,B Regmi,wides,1,1,0,stumped,DS Airee,Manpreet Singh,31191231191
+2,Nepal,14,A Bohara,V Baskaran,B Regmi,,0,0,0,,,,31191231191
+2,Nepal,14,A Bohara,V Baskaran,B Regmi,,0,0,0,bowled,A Bohara,,31191231191

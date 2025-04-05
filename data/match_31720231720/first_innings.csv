@@ -1,0 +1,137 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Bulgaria,0,H Lakov,Bilal Muhammad,KC D'Souza,,0,1,1,,,,31720231720
+1,Bulgaria,0,KC D'Souza,Bilal Muhammad,H Lakov,,0,0,0,bowled,KC D'Souza,,31720231720
+1,Bulgaria,0,IA De Silva,Bilal Muhammad,H Lakov,legbyes,1,1,0,,,,31720231720
+1,Bulgaria,0,H Lakov,Bilal Muhammad,IA De Silva,,0,0,0,,,,31720231720
+1,Bulgaria,0,H Lakov,Bilal Muhammad,IA De Silva,,0,1,1,,,,31720231720
+1,Bulgaria,0,IA De Silva,Bilal Muhammad,H Lakov,,0,0,0,,,,31720231720
+1,Bulgaria,1,H Lakov,A Bishnoi,IA De Silva,,0,0,0,,,,31720231720
+1,Bulgaria,1,H Lakov,A Bishnoi,IA De Silva,,0,0,0,,,,31720231720
+1,Bulgaria,1,H Lakov,A Bishnoi,IA De Silva,noballs,1,3,2,,,,31720231720
+1,Bulgaria,1,H Lakov,A Bishnoi,IA De Silva,,0,2,2,,,,31720231720
+1,Bulgaria,1,H Lakov,A Bishnoi,IA De Silva,noballs,1,5,4,,,,31720231720
+1,Bulgaria,1,H Lakov,B George,IA De Silva,wides,1,1,0,,,,31720231720
+1,Bulgaria,1,H Lakov,B George,IA De Silva,,0,6,6,,,,31720231720
+1,Bulgaria,1,H Lakov,B George,IA De Silva,wides,1,1,0,,,,31720231720
+1,Bulgaria,1,H Lakov,B George,IA De Silva,,0,0,0,,,,31720231720
+1,Bulgaria,1,H Lakov,B George,IA De Silva,wides,1,1,0,,,,31720231720
+1,Bulgaria,1,H Lakov,B George,IA De Silva,,0,0,0,,,,31720231720
+1,Bulgaria,2,IA De Silva,Bilal Muhammad,H Lakov,,0,0,0,,,,31720231720
+1,Bulgaria,2,IA De Silva,Bilal Muhammad,H Lakov,,0,0,0,,,,31720231720
+1,Bulgaria,2,IA De Silva,Bilal Muhammad,H Lakov,,0,0,0,,,,31720231720
+1,Bulgaria,2,IA De Silva,Bilal Muhammad,H Lakov,,0,0,0,,,,31720231720
+1,Bulgaria,2,IA De Silva,Bilal Muhammad,H Lakov,,0,0,0,,,,31720231720
+1,Bulgaria,2,IA De Silva,Bilal Muhammad,H Lakov,,0,0,0,,,,31720231720
+1,Bulgaria,3,H Lakov,Washeem Abbas,IA De Silva,wides,1,1,0,,,,31720231720
+1,Bulgaria,3,H Lakov,Washeem Abbas,IA De Silva,,0,1,1,,,,31720231720
+1,Bulgaria,3,IA De Silva,Washeem Abbas,H Lakov,,0,0,0,,,,31720231720
+1,Bulgaria,3,IA De Silva,Washeem Abbas,H Lakov,,0,0,0,,,,31720231720
+1,Bulgaria,3,IA De Silva,Washeem Abbas,H Lakov,,0,0,0,bowled,IA De Silva,,31720231720
+1,Bulgaria,3,P Mishra,Washeem Abbas,H Lakov,,0,0,0,,,,31720231720
+1,Bulgaria,3,P Mishra,Washeem Abbas,H Lakov,,0,1,1,,,,31720231720
+1,Bulgaria,4,P Mishra,Bilal Muhammad,H Lakov,,0,0,0,bowled,P Mishra,,31720231720
+1,Bulgaria,4,Omar Rassol,Bilal Muhammad,H Lakov,,0,0,0,,,,31720231720
+1,Bulgaria,4,Omar Rassol,Bilal Muhammad,H Lakov,,0,0,0,,,,31720231720
+1,Bulgaria,4,Omar Rassol,Bilal Muhammad,H Lakov,wides,1,1,0,,,,31720231720
+1,Bulgaria,4,Omar Rassol,Bilal Muhammad,H Lakov,,0,0,0,lbw,Omar Rassol,,31720231720
+1,Bulgaria,4,M Kadyan,Bilal Muhammad,H Lakov,,0,4,4,,,,31720231720
+1,Bulgaria,4,M Kadyan,Bilal Muhammad,H Lakov,,0,1,1,,,,31720231720
+1,Bulgaria,5,M Kadyan,Washeem Abbas,H Lakov,,0,0,0,,,,31720231720
+1,Bulgaria,5,M Kadyan,Washeem Abbas,H Lakov,wides,1,1,0,,,,31720231720
+1,Bulgaria,5,M Kadyan,Washeem Abbas,H Lakov,,0,0,0,,,,31720231720
+1,Bulgaria,5,M Kadyan,Washeem Abbas,H Lakov,,0,0,0,,,,31720231720
+1,Bulgaria,5,M Kadyan,Washeem Abbas,H Lakov,,0,0,0,,,,31720231720
+1,Bulgaria,5,M Kadyan,Washeem Abbas,H Lakov,,0,0,0,caught,M Kadyan,Amar Sharma,31720231720
+1,Bulgaria,5,A Ahmadhel,Washeem Abbas,H Lakov,,0,0,0,,,,31720231720
+1,Bulgaria,6,H Lakov,Bilal Muhammad,A Ahmadhel,,0,1,1,,,,31720231720
+1,Bulgaria,6,A Ahmadhel,Bilal Muhammad,H Lakov,wides,1,1,0,,,,31720231720
+1,Bulgaria,6,A Ahmadhel,Bilal Muhammad,H Lakov,,0,0,0,,,,31720231720
+1,Bulgaria,6,A Ahmadhel,Bilal Muhammad,H Lakov,,0,0,0,,,,31720231720
+1,Bulgaria,6,A Ahmadhel,Bilal Muhammad,H Lakov,,0,0,0,,,,31720231720
+1,Bulgaria,6,A Ahmadhel,Bilal Muhammad,H Lakov,,0,0,0,,,,31720231720
+1,Bulgaria,6,A Ahmadhel,Bilal Muhammad,H Lakov,,0,0,0,lbw,A Ahmadhel,,31720231720
+1,Bulgaria,7,H Lakov,Washeem Abbas,D Nikolov,,0,0,0,,,,31720231720
+1,Bulgaria,7,H Lakov,Washeem Abbas,D Nikolov,,0,0,0,,,,31720231720
+1,Bulgaria,7,H Lakov,Washeem Abbas,D Nikolov,wides,1,1,0,,,,31720231720
+1,Bulgaria,7,H Lakov,Washeem Abbas,D Nikolov,,0,2,2,,,,31720231720
+1,Bulgaria,7,H Lakov,Washeem Abbas,D Nikolov,,0,0,0,,,,31720231720
+1,Bulgaria,7,H Lakov,Washeem Abbas,D Nikolov,,0,1,1,,,,31720231720
+1,Bulgaria,7,D Nikolov,Washeem Abbas,H Lakov,,0,1,1,,,,31720231720
+1,Bulgaria,8,D Nikolov,Amar Sharma,H Lakov,,0,1,1,,,,31720231720
+1,Bulgaria,8,H Lakov,Amar Sharma,D Nikolov,,0,0,0,,,,31720231720
+1,Bulgaria,8,H Lakov,Amar Sharma,D Nikolov,,0,0,0,,,,31720231720
+1,Bulgaria,8,H Lakov,Amar Sharma,D Nikolov,,0,4,4,,,,31720231720
+1,Bulgaria,8,H Lakov,Amar Sharma,D Nikolov,noballs,1,3,2,,,,31720231720
+1,Bulgaria,8,H Lakov,Amar Sharma,D Nikolov,wides,1,1,0,,,,31720231720
+1,Bulgaria,8,H Lakov,Amar Sharma,D Nikolov,,0,6,6,,,,31720231720
+1,Bulgaria,8,H Lakov,Amar Sharma,D Nikolov,,0,0,0,,,,31720231720
+1,Bulgaria,9,D Nikolov,VP Thamotharam,H Lakov,,0,0,0,,,,31720231720
+1,Bulgaria,9,D Nikolov,VP Thamotharam,H Lakov,,0,0,0,,,,31720231720
+1,Bulgaria,9,D Nikolov,VP Thamotharam,H Lakov,,0,0,0,,,,31720231720
+1,Bulgaria,9,D Nikolov,VP Thamotharam,H Lakov,,0,1,1,,,,31720231720
+1,Bulgaria,9,H Lakov,VP Thamotharam,D Nikolov,,0,1,1,,,,31720231720
+1,Bulgaria,9,D Nikolov,VP Thamotharam,H Lakov,,0,2,2,,,,31720231720
+1,Bulgaria,10,H Lakov,Amar Sharma,D Nikolov,,0,2,2,,,,31720231720
+1,Bulgaria,10,H Lakov,Amar Sharma,D Nikolov,,0,0,0,,,,31720231720
+1,Bulgaria,10,H Lakov,Amar Sharma,D Nikolov,,0,1,1,,,,31720231720
+1,Bulgaria,10,D Nikolov,Amar Sharma,H Lakov,,0,4,4,,,,31720231720
+1,Bulgaria,10,D Nikolov,Amar Sharma,H Lakov,,0,0,0,,,,31720231720
+1,Bulgaria,10,D Nikolov,Amar Sharma,H Lakov,,0,2,2,,,,31720231720
+1,Bulgaria,11,H Lakov,VP Thamotharam,D Nikolov,,0,1,1,,,,31720231720
+1,Bulgaria,11,D Nikolov,VP Thamotharam,H Lakov,,0,0,0,,,,31720231720
+1,Bulgaria,11,D Nikolov,VP Thamotharam,H Lakov,,0,1,1,,,,31720231720
+1,Bulgaria,11,H Lakov,VP Thamotharam,D Nikolov,,0,1,1,,,,31720231720
+1,Bulgaria,11,D Nikolov,VP Thamotharam,H Lakov,,0,0,0,,,,31720231720
+1,Bulgaria,11,D Nikolov,VP Thamotharam,H Lakov,,0,1,1,,,,31720231720
+1,Bulgaria,12,D Nikolov,B George,H Lakov,,0,1,1,,,,31720231720
+1,Bulgaria,12,H Lakov,B George,D Nikolov,,0,2,2,,,,31720231720
+1,Bulgaria,12,H Lakov,B George,D Nikolov,,0,0,0,,,,31720231720
+1,Bulgaria,12,H Lakov,B George,D Nikolov,,0,0,0,,,,31720231720
+1,Bulgaria,12,H Lakov,B George,D Nikolov,,0,1,1,,,,31720231720
+1,Bulgaria,12,D Nikolov,B George,H Lakov,legbyes,2,2,0,,,,31720231720
+1,Bulgaria,13,H Lakov,VP Thamotharam,D Nikolov,,0,0,0,,,,31720231720
+1,Bulgaria,13,H Lakov,VP Thamotharam,D Nikolov,,0,1,1,,,,31720231720
+1,Bulgaria,13,D Nikolov,VP Thamotharam,H Lakov,,0,0,0,bowled,D Nikolov,,31720231720
+1,Bulgaria,13,V Hristov,VP Thamotharam,H Lakov,wides,1,1,0,,,,31720231720
+1,Bulgaria,13,V Hristov,VP Thamotharam,H Lakov,,0,2,2,,,,31720231720
+1,Bulgaria,13,V Hristov,VP Thamotharam,H Lakov,,0,0,0,,,,31720231720
+1,Bulgaria,13,V Hristov,VP Thamotharam,H Lakov,,0,0,0,,,,31720231720
+1,Bulgaria,14,H Lakov,B George,V Hristov,,0,0,0,,,,31720231720
+1,Bulgaria,14,H Lakov,B George,V Hristov,,0,0,0,,,,31720231720
+1,Bulgaria,14,H Lakov,B George,V Hristov,wides,1,1,0,,,,31720231720
+1,Bulgaria,14,H Lakov,B George,V Hristov,,0,1,1,,,,31720231720
+1,Bulgaria,14,V Hristov,B George,H Lakov,legbyes,1,1,0,,,,31720231720
+1,Bulgaria,14,H Lakov,B George,V Hristov,,0,0,0,,,,31720231720
+1,Bulgaria,14,H Lakov,B George,V Hristov,,0,0,0,,,,31720231720
+1,Bulgaria,15,V Hristov,Amar Sharma,H Lakov,wides,1,1,0,,,,31720231720
+1,Bulgaria,15,V Hristov,Amar Sharma,H Lakov,,0,1,1,,,,31720231720
+1,Bulgaria,15,H Lakov,Amar Sharma,V Hristov,,0,4,4,,,,31720231720
+1,Bulgaria,15,H Lakov,Amar Sharma,V Hristov,,0,2,2,,,,31720231720
+1,Bulgaria,15,H Lakov,Amar Sharma,V Hristov,,0,2,2,,,,31720231720
+1,Bulgaria,15,H Lakov,Amar Sharma,V Hristov,wides,1,1,0,,,,31720231720
+1,Bulgaria,15,H Lakov,Amar Sharma,V Hristov,,0,0,0,,,,31720231720
+1,Bulgaria,15,H Lakov,Amar Sharma,V Hristov,,0,0,0,,,,31720231720
+1,Bulgaria,16,V Hristov,B George,H Lakov,,0,2,2,,,,31720231720
+1,Bulgaria,16,V Hristov,B George,H Lakov,,0,0,0,bowled,V Hristov,,31720231720
+1,Bulgaria,16,J Albin,B George,H Lakov,,0,0,0,,,,31720231720
+1,Bulgaria,16,J Albin,B George,H Lakov,,0,1,1,,,,31720231720
+1,Bulgaria,16,H Lakov,B George,J Albin,,0,0,0,,,,31720231720
+1,Bulgaria,16,H Lakov,B George,J Albin,,0,0,0,,,,31720231720
+1,Bulgaria,17,J Albin,Washeem Abbas,H Lakov,,0,1,1,,,,31720231720
+1,Bulgaria,17,H Lakov,Washeem Abbas,J Albin,,0,0,0,,,,31720231720
+1,Bulgaria,17,H Lakov,Washeem Abbas,J Albin,,0,0,0,,,,31720231720
+1,Bulgaria,17,H Lakov,Washeem Abbas,J Albin,,0,1,1,,,,31720231720
+1,Bulgaria,17,J Albin,Washeem Abbas,H Lakov,,0,1,1,,,,31720231720
+1,Bulgaria,17,H Lakov,Washeem Abbas,J Albin,,0,1,1,,,,31720231720
+1,Bulgaria,18,H Lakov,Amar Sharma,J Albin,,0,0,0,run out,J Albin,Amar Sharma,31720231720
+1,Bulgaria,18,H Lakov,Amar Sharma,DV Varghese,,0,2,2,,,,31720231720
+1,Bulgaria,18,H Lakov,Amar Sharma,DV Varghese,,0,1,1,,,,31720231720
+1,Bulgaria,18,DV Varghese,Amar Sharma,H Lakov,,0,0,0,,,,31720231720
+1,Bulgaria,18,DV Varghese,Amar Sharma,H Lakov,,0,1,1,,,,31720231720
+1,Bulgaria,18,H Lakov,Amar Sharma,DV Varghese,,0,0,0,,,,31720231720
+1,Bulgaria,19,H Lakov,VP Thamotharam,DV Varghese,,0,1,1,,,,31720231720
+1,Bulgaria,19,DV Varghese,VP Thamotharam,H Lakov,,0,0,0,,,,31720231720
+1,Bulgaria,19,DV Varghese,VP Thamotharam,H Lakov,,0,1,1,,,,31720231720
+1,Bulgaria,19,H Lakov,VP Thamotharam,DV Varghese,,0,0,0,,,,31720231720
+1,Bulgaria,19,H Lakov,VP Thamotharam,DV Varghese,,0,0,0,,,,31720231720
+1,Bulgaria,19,H Lakov,VP Thamotharam,DV Varghese,,0,4,4,,,,31720231720

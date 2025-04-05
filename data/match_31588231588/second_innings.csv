@@ -1,0 +1,122 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Germany,0,Husnain Kabeer,Vinay Ravi,Abdul-Shakoor Rahimzei,,0,1,1,,,,31588231588
+2,Germany,0,Abdul-Shakoor Rahimzei,Vinay Ravi,Husnain Kabeer,,0,1,1,,,,31588231588
+2,Germany,0,Husnain Kabeer,Vinay Ravi,Abdul-Shakoor Rahimzei,,0,0,0,,,,31588231588
+2,Germany,0,Husnain Kabeer,Vinay Ravi,Abdul-Shakoor Rahimzei,,0,2,2,,,,31588231588
+2,Germany,0,Husnain Kabeer,Vinay Ravi,Abdul-Shakoor Rahimzei,,0,2,2,,,,31588231588
+2,Germany,0,Husnain Kabeer,Vinay Ravi,Abdul-Shakoor Rahimzei,,0,0,0,,,,31588231588
+2,Germany,1,Abdul-Shakoor Rahimzei,Wahidullah Sahak,Husnain Kabeer,,0,1,1,,,,31588231588
+2,Germany,1,Husnain Kabeer,Wahidullah Sahak,Abdul-Shakoor Rahimzei,,0,0,0,caught,Husnain Kabeer,P Bhart,31588231588
+2,Germany,1,Talha Khan,Wahidullah Sahak,Abdul-Shakoor Rahimzei,legbyes,1,1,0,,,,31588231588
+2,Germany,1,Abdul-Shakoor Rahimzei,Wahidullah Sahak,Talha Khan,,0,0,0,,,,31588231588
+2,Germany,1,Abdul-Shakoor Rahimzei,Wahidullah Sahak,Talha Khan,,0,0,0,,,,31588231588
+2,Germany,1,Abdul-Shakoor Rahimzei,Wahidullah Sahak,Talha Khan,,0,1,1,,,,31588231588
+2,Germany,2,Abdul-Shakoor Rahimzei,Vinay Ravi,Talha Khan,,0,0,0,,,,31588231588
+2,Germany,2,Abdul-Shakoor Rahimzei,Vinay Ravi,Talha Khan,,0,2,2,,,,31588231588
+2,Germany,2,Abdul-Shakoor Rahimzei,Vinay Ravi,Talha Khan,,0,1,1,,,,31588231588
+2,Germany,2,Talha Khan,Vinay Ravi,Abdul-Shakoor Rahimzei,,0,0,0,,,,31588231588
+2,Germany,2,Talha Khan,Vinay Ravi,Abdul-Shakoor Rahimzei,,0,4,4,,,,31588231588
+2,Germany,2,Talha Khan,Vinay Ravi,Abdul-Shakoor Rahimzei,,0,0,0,,,,31588231588
+2,Germany,3,Abdul-Shakoor Rahimzei,Wahidullah Sahak,Talha Khan,,0,0,0,,,,31588231588
+2,Germany,3,Abdul-Shakoor Rahimzei,Wahidullah Sahak,Talha Khan,,0,1,1,,,,31588231588
+2,Germany,3,Talha Khan,Wahidullah Sahak,Abdul-Shakoor Rahimzei,,0,1,1,,,,31588231588
+2,Germany,3,Abdul-Shakoor Rahimzei,Wahidullah Sahak,Talha Khan,,0,4,4,,,,31588231588
+2,Germany,3,Abdul-Shakoor Rahimzei,Wahidullah Sahak,Talha Khan,,0,0,0,,,,31588231588
+2,Germany,3,Abdul-Shakoor Rahimzei,Wahidullah Sahak,Talha Khan,,0,1,1,,,,31588231588
+2,Germany,4,Abdul-Shakoor Rahimzei,Usman Arif,Talha Khan,,0,1,1,,,,31588231588
+2,Germany,4,Talha Khan,Usman Arif,Abdul-Shakoor Rahimzei,,0,0,0,,,,31588231588
+2,Germany,4,Talha Khan,Usman Arif,Abdul-Shakoor Rahimzei,,0,1,1,,,,31588231588
+2,Germany,4,Abdul-Shakoor Rahimzei,Usman Arif,Talha Khan,,0,0,0,,,,31588231588
+2,Germany,4,Abdul-Shakoor Rahimzei,Usman Arif,Talha Khan,,0,0,0,,,,31588231588
+2,Germany,4,Abdul-Shakoor Rahimzei,Usman Arif,Talha Khan,,0,1,1,,,,31588231588
+2,Germany,5,Abdul-Shakoor Rahimzei,Wahidullah Sahak,Talha Khan,,0,0,0,bowled,Abdul-Shakoor Rahimzei,,31588231588
+2,Germany,5,H Singh,Wahidullah Sahak,Talha Khan,,0,0,0,,,,31588231588
+2,Germany,5,H Singh,Wahidullah Sahak,Talha Khan,,0,1,1,,,,31588231588
+2,Germany,5,Talha Khan,Wahidullah Sahak,H Singh,legbyes,1,1,0,,,,31588231588
+2,Germany,5,H Singh,Wahidullah Sahak,Talha Khan,,0,1,1,,,,31588231588
+2,Germany,5,Talha Khan,Wahidullah Sahak,H Singh,,0,0,0,,,,31588231588
+2,Germany,6,H Singh,Raza Iqbal,Talha Khan,,0,4,4,,,,31588231588
+2,Germany,6,H Singh,Raza Iqbal,Talha Khan,,0,1,1,,,,31588231588
+2,Germany,6,Talha Khan,Raza Iqbal,H Singh,,0,2,2,,,,31588231588
+2,Germany,6,Talha Khan,Raza Iqbal,H Singh,,0,0,0,caught,Talha Khan,Bilal Safdar,31588231588
+2,Germany,6,H Singh,Raza Iqbal,V Ganesan,,0,4,4,,,,31588231588
+2,Germany,6,H Singh,Raza Iqbal,V Ganesan,,0,0,0,,,,31588231588
+2,Germany,7,V Ganesan,P Bhart,H Singh,,0,0,0,,,,31588231588
+2,Germany,7,V Ganesan,P Bhart,H Singh,,0,1,1,,,,31588231588
+2,Germany,7,H Singh,P Bhart,V Ganesan,,0,1,1,,,,31588231588
+2,Germany,7,V Ganesan,P Bhart,H Singh,,0,1,1,,,,31588231588
+2,Germany,7,H Singh,P Bhart,V Ganesan,,0,1,1,,,,31588231588
+2,Germany,7,V Ganesan,P Bhart,H Singh,wides,1,1,0,,,,31588231588
+2,Germany,7,V Ganesan,P Bhart,H Singh,,0,0,0,,,,31588231588
+2,Germany,8,H Singh,Raza Iqbal,V Ganesan,,0,1,1,,,,31588231588
+2,Germany,8,V Ganesan,Raza Iqbal,H Singh,,0,1,1,,,,31588231588
+2,Germany,8,H Singh,Raza Iqbal,V Ganesan,,0,0,0,,,,31588231588
+2,Germany,8,H Singh,Raza Iqbal,V Ganesan,,0,0,0,,,,31588231588
+2,Germany,8,H Singh,Raza Iqbal,V Ganesan,,0,1,1,,,,31588231588
+2,Germany,8,V Ganesan,Raza Iqbal,H Singh,,0,1,1,,,,31588231588
+2,Germany,9,V Ganesan,P Bhart,H Singh,,0,1,1,,,,31588231588
+2,Germany,9,H Singh,P Bhart,V Ganesan,,0,2,2,,,,31588231588
+2,Germany,9,H Singh,P Bhart,V Ganesan,,0,0,0,,,,31588231588
+2,Germany,9,H Singh,P Bhart,V Ganesan,,0,1,1,,,,31588231588
+2,Germany,9,V Ganesan,P Bhart,H Singh,,0,0,0,caught,V Ganesan,D Abeyrathna,31588231588
+2,Germany,9,H Singh,P Bhart,Azmat Ali,,0,1,1,,,,31588231588
+2,Germany,10,H Singh,Raza Iqbal,Azmat Ali,,0,1,1,,,,31588231588
+2,Germany,10,Azmat Ali,Raza Iqbal,H Singh,,0,0,0,,,,31588231588
+2,Germany,10,Azmat Ali,Raza Iqbal,H Singh,,0,0,0,,,,31588231588
+2,Germany,10,Azmat Ali,Raza Iqbal,H Singh,,0,1,1,,,,31588231588
+2,Germany,10,H Singh,Raza Iqbal,Azmat Ali,byes,1,1,0,,,,31588231588
+2,Germany,10,Azmat Ali,Raza Iqbal,H Singh,,0,0,0,,,,31588231588
+2,Germany,11,H Singh,P Bhart,Azmat Ali,,0,1,1,,,,31588231588
+2,Germany,11,Azmat Ali,P Bhart,H Singh,,0,0,0,,,,31588231588
+2,Germany,11,Azmat Ali,P Bhart,H Singh,,0,1,1,,,,31588231588
+2,Germany,11,H Singh,P Bhart,Azmat Ali,,0,0,0,,,,31588231588
+2,Germany,11,H Singh,P Bhart,Azmat Ali,,0,2,2,,,,31588231588
+2,Germany,11,H Singh,P Bhart,Azmat Ali,,0,2,2,,,,31588231588
+2,Germany,12,Azmat Ali,Raza Iqbal,H Singh,,0,0,0,,,,31588231588
+2,Germany,12,Azmat Ali,Raza Iqbal,H Singh,,0,1,1,,,,31588231588
+2,Germany,12,H Singh,Raza Iqbal,Azmat Ali,,0,2,2,,,,31588231588
+2,Germany,12,H Singh,Raza Iqbal,Azmat Ali,,0,4,4,,,,31588231588
+2,Germany,12,H Singh,Raza Iqbal,Azmat Ali,,0,0,0,,,,31588231588
+2,Germany,12,H Singh,Raza Iqbal,Azmat Ali,,0,0,0,,,,31588231588
+2,Germany,13,Azmat Ali,S Waqas Ahmed,H Singh,,0,1,1,,,,31588231588
+2,Germany,13,H Singh,S Waqas Ahmed,Azmat Ali,,0,1,1,,,,31588231588
+2,Germany,13,Azmat Ali,S Waqas Ahmed,H Singh,,0,1,1,,,,31588231588
+2,Germany,13,H Singh,S Waqas Ahmed,Azmat Ali,,0,1,1,,,,31588231588
+2,Germany,13,Azmat Ali,S Waqas Ahmed,H Singh,,0,1,1,,,,31588231588
+2,Germany,13,H Singh,S Waqas Ahmed,Azmat Ali,,0,2,2,,,,31588231588
+2,Germany,14,Azmat Ali,P Bhart,H Singh,,0,0,0,,,,31588231588
+2,Germany,14,Azmat Ali,P Bhart,H Singh,,0,1,1,,,,31588231588
+2,Germany,14,H Singh,P Bhart,Azmat Ali,,0,2,2,,,,31588231588
+2,Germany,14,H Singh,P Bhart,Azmat Ali,,0,0,0,,,,31588231588
+2,Germany,14,H Singh,P Bhart,Azmat Ali,,0,4,4,,,,31588231588
+2,Germany,14,H Singh,P Bhart,Azmat Ali,,0,0,0,,,,31588231588
+2,Germany,15,Azmat Ali,S Waqas Ahmed,H Singh,,0,6,6,,,,31588231588
+2,Germany,15,Azmat Ali,S Waqas Ahmed,H Singh,,0,0,0,,,,31588231588
+2,Germany,15,Azmat Ali,S Waqas Ahmed,H Singh,,0,1,1,,,,31588231588
+2,Germany,15,H Singh,S Waqas Ahmed,Azmat Ali,,0,1,1,,,,31588231588
+2,Germany,15,Azmat Ali,S Waqas Ahmed,H Singh,,0,1,1,,,,31588231588
+2,Germany,15,H Singh,S Waqas Ahmed,Azmat Ali,,0,1,1,,,,31588231588
+2,Germany,16,H Singh,Usman Arif,Azmat Ali,,0,1,1,,,,31588231588
+2,Germany,16,Azmat Ali,Usman Arif,H Singh,,0,1,1,,,,31588231588
+2,Germany,16,H Singh,Usman Arif,Azmat Ali,,0,4,4,,,,31588231588
+2,Germany,16,H Singh,Usman Arif,Azmat Ali,,0,1,1,,,,31588231588
+2,Germany,16,Azmat Ali,Usman Arif,H Singh,,0,1,1,,,,31588231588
+2,Germany,16,H Singh,Usman Arif,Azmat Ali,,0,0,0,caught,H Singh,Wahidullah Sahak,31588231588
+2,Germany,17,Sahir Naqash,S Waqas Ahmed,Azmat Ali,,0,1,1,,,,31588231588
+2,Germany,17,Azmat Ali,S Waqas Ahmed,Sahir Naqash,,0,0,0,caught,Azmat Ali,D Abeyrathna,31588231588
+2,Germany,17,Sahir Naqash,S Waqas Ahmed,Nooruddin Mujadady,,0,1,1,,,,31588231588
+2,Germany,17,Nooruddin Mujadady,S Waqas Ahmed,Sahir Naqash,,0,0,0,,,,31588231588
+2,Germany,17,Nooruddin Mujadady,S Waqas Ahmed,Sahir Naqash,,0,6,6,,,,31588231588
+2,Germany,17,Nooruddin Mujadady,S Waqas Ahmed,Sahir Naqash,,0,0,0,,,,31588231588
+2,Germany,18,Sahir Naqash,Usman Arif,Nooruddin Mujadady,,0,1,1,,,,31588231588
+2,Germany,18,Nooruddin Mujadady,Usman Arif,Sahir Naqash,,0,1,1,,,,31588231588
+2,Germany,18,Sahir Naqash,Usman Arif,Nooruddin Mujadady,,0,2,2,,,,31588231588
+2,Germany,18,Sahir Naqash,Usman Arif,Nooruddin Mujadady,,0,0,0,,,,31588231588
+2,Germany,18,Sahir Naqash,Usman Arif,Nooruddin Mujadady,,0,3,3,,,,31588231588
+2,Germany,18,Nooruddin Mujadady,Usman Arif,Sahir Naqash,,0,4,4,,,,31588231588
+2,Germany,19,Sahir Naqash,Wahidullah Sahak,Nooruddin Mujadady,,0,1,1,,,,31588231588
+2,Germany,19,Nooruddin Mujadady,Wahidullah Sahak,Sahir Naqash,,0,1,1,,,,31588231588
+2,Germany,19,Sahir Naqash,Wahidullah Sahak,Nooruddin Mujadady,,0,6,6,,,,31588231588
+2,Germany,19,Sahir Naqash,Wahidullah Sahak,Nooruddin Mujadady,,0,1,1,,,,31588231588
+2,Germany,19,Nooruddin Mujadady,Wahidullah Sahak,Sahir Naqash,,0,2,2,,,,31588231588
+2,Germany,19,Nooruddin Mujadady,Wahidullah Sahak,Sahir Naqash,,0,2,2,,,,31588231588

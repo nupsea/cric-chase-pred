@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,New Zealand,0,MJ Guptill,B Stanlake,C Munro,wides,2,2,0,,,,371723717
+1,New Zealand,0,C Munro,B Stanlake,MJ Guptill,,0,0,0,,,,371723717
+1,New Zealand,0,C Munro,B Stanlake,MJ Guptill,legbyes,1,1,0,,,,371723717
+1,New Zealand,0,MJ Guptill,B Stanlake,C Munro,,0,0,0,,,,371723717
+1,New Zealand,0,MJ Guptill,B Stanlake,C Munro,,0,1,1,,,,371723717
+1,New Zealand,0,C Munro,B Stanlake,MJ Guptill,,0,6,6,,,,371723717
+1,New Zealand,0,C Munro,B Stanlake,MJ Guptill,wides,1,1,0,,,,371723717
+1,New Zealand,0,C Munro,B Stanlake,MJ Guptill,,0,1,1,,,,371723717
+1,New Zealand,1,C Munro,KW Richardson,MJ Guptill,,0,1,1,,,,371723717
+1,New Zealand,1,MJ Guptill,KW Richardson,C Munro,,0,0,0,,,,371723717
+1,New Zealand,1,MJ Guptill,KW Richardson,C Munro,,0,4,4,,,,371723717
+1,New Zealand,1,MJ Guptill,KW Richardson,C Munro,,0,0,0,,,,371723717
+1,New Zealand,1,MJ Guptill,KW Richardson,C Munro,,0,4,4,,,,371723717
+1,New Zealand,1,MJ Guptill,KW Richardson,C Munro,,0,1,1,,,,371723717
+1,New Zealand,2,MJ Guptill,AJ Tye,C Munro,,0,1,1,,,,371723717
+1,New Zealand,2,C Munro,AJ Tye,MJ Guptill,,0,4,4,,,,371723717
+1,New Zealand,2,C Munro,AJ Tye,MJ Guptill,,0,4,4,,,,371723717
+1,New Zealand,2,C Munro,AJ Tye,MJ Guptill,,0,4,4,,,,371723717
+1,New Zealand,2,C Munro,AJ Tye,MJ Guptill,,0,1,1,,,,371723717
+1,New Zealand,2,MJ Guptill,AJ Tye,C Munro,,0,1,1,,,,371723717
+1,New Zealand,3,MJ Guptill,AC Agar,C Munro,,0,6,6,,,,371723717
+1,New Zealand,3,MJ Guptill,AC Agar,C Munro,,0,0,0,,,,371723717
+1,New Zealand,3,MJ Guptill,AC Agar,C Munro,,0,1,1,,,,371723717
+1,New Zealand,3,C Munro,AC Agar,MJ Guptill,,0,1,1,,,,371723717
+1,New Zealand,3,MJ Guptill,AC Agar,C Munro,,0,1,1,,,,371723717
+1,New Zealand,3,C Munro,AC Agar,MJ Guptill,,0,0,0,,,,371723717
+1,New Zealand,4,MJ Guptill,B Stanlake,C Munro,,0,1,1,,,,371723717
+1,New Zealand,4,C Munro,B Stanlake,MJ Guptill,,0,1,1,,,,371723717
+1,New Zealand,4,MJ Guptill,B Stanlake,C Munro,,0,0,0,caught,MJ Guptill,DA Warner,371723717
+1,New Zealand,4,KS Williamson,B Stanlake,C Munro,wides,1,1,0,,,,371723717
+1,New Zealand,4,KS Williamson,B Stanlake,C Munro,,0,0,0,,,,371723717
+1,New Zealand,4,KS Williamson,B Stanlake,C Munro,,0,4,4,,,,371723717
+1,New Zealand,4,KS Williamson,B Stanlake,C Munro,,0,0,0,,,,371723717
+1,New Zealand,5,C Munro,KW Richardson,KS Williamson,,0,6,6,,,,371723717
+1,New Zealand,5,C Munro,KW Richardson,KS Williamson,,0,0,0,caught,C Munro,AC Agar,371723717
+1,New Zealand,5,MS Chapman,KW Richardson,KS Williamson,,0,0,0,,,,371723717
+1,New Zealand,5,MS Chapman,KW Richardson,KS Williamson,,0,0,0,,,,371723717
+1,New Zealand,5,MS Chapman,KW Richardson,KS Williamson,,0,0,0,,,,371723717
+1,New Zealand,5,MS Chapman,KW Richardson,KS Williamson,,0,4,4,,,,371723717
+1,New Zealand,6,KS Williamson,MP Stoinis,MS Chapman,,0,0,0,,,,371723717
+1,New Zealand,6,KS Williamson,MP Stoinis,MS Chapman,,0,1,1,,,,371723717
+1,New Zealand,6,MS Chapman,MP Stoinis,KS Williamson,,0,1,1,,,,371723717
+1,New Zealand,6,KS Williamson,MP Stoinis,MS Chapman,,0,1,1,,,,371723717
+1,New Zealand,6,MS Chapman,MP Stoinis,KS Williamson,,0,0,0,,,,371723717
+1,New Zealand,6,MS Chapman,MP Stoinis,KS Williamson,,0,2,2,,,,371723717
+1,New Zealand,7,KS Williamson,AC Agar,MS Chapman,,0,1,1,,,,371723717
+1,New Zealand,7,MS Chapman,AC Agar,KS Williamson,,0,1,1,,,,371723717
+1,New Zealand,7,KS Williamson,AC Agar,MS Chapman,,0,2,2,,,,371723717
+1,New Zealand,7,KS Williamson,AC Agar,MS Chapman,,0,0,0,bowled,KS Williamson,,371723717
+1,New Zealand,7,LRPL Taylor,AC Agar,MS Chapman,,0,1,1,,,,371723717
+1,New Zealand,7,MS Chapman,AC Agar,LRPL Taylor,,0,0,0,lbw,MS Chapman,,371723717
+1,New Zealand,8,LRPL Taylor,B Stanlake,C de Grandhomme,,0,2,2,,,,371723717
+1,New Zealand,8,LRPL Taylor,B Stanlake,C de Grandhomme,,0,1,1,,,,371723717
+1,New Zealand,8,C de Grandhomme,B Stanlake,LRPL Taylor,,0,2,2,,,,371723717
+1,New Zealand,8,C de Grandhomme,B Stanlake,LRPL Taylor,,0,2,2,,,,371723717
+1,New Zealand,8,C de Grandhomme,B Stanlake,LRPL Taylor,,0,4,4,,,,371723717
+1,New Zealand,8,C de Grandhomme,B Stanlake,LRPL Taylor,,0,1,1,,,,371723717
+1,New Zealand,9,C de Grandhomme,AC Agar,LRPL Taylor,,0,1,1,,,,371723717
+1,New Zealand,9,LRPL Taylor,AC Agar,C de Grandhomme,,0,4,4,,,,371723717
+1,New Zealand,9,LRPL Taylor,AC Agar,C de Grandhomme,,0,0,0,,,,371723717
+1,New Zealand,9,LRPL Taylor,AC Agar,C de Grandhomme,,0,1,1,,,,371723717
+1,New Zealand,9,C de Grandhomme,AC Agar,LRPL Taylor,,0,0,0,caught,C de Grandhomme,GJ Maxwell,371723717
+1,New Zealand,9,LRPL Taylor,AC Agar,MJ Santner,,0,1,1,,,,371723717
+1,New Zealand,10,LRPL Taylor,AJ Tye,MJ Santner,,0,1,1,,,,371723717
+1,New Zealand,10,MJ Santner,AJ Tye,LRPL Taylor,,0,0,0,caught,MJ Santner,AT Carey,371723717
+1,New Zealand,10,TL Seifert,AJ Tye,LRPL Taylor,,0,0,0,,,,371723717
+1,New Zealand,10,TL Seifert,AJ Tye,LRPL Taylor,,0,0,0,,,,371723717
+1,New Zealand,10,TL Seifert,AJ Tye,LRPL Taylor,,0,0,0,,,,371723717
+1,New Zealand,10,TL Seifert,AJ Tye,LRPL Taylor,,0,1,1,,,,371723717
+1,New Zealand,11,TL Seifert,AC Agar,LRPL Taylor,,0,1,1,,,,371723717
+1,New Zealand,11,LRPL Taylor,AC Agar,TL Seifert,,0,0,0,,,,371723717
+1,New Zealand,11,LRPL Taylor,AC Agar,TL Seifert,,0,2,2,,,,371723717
+1,New Zealand,11,LRPL Taylor,AC Agar,TL Seifert,,0,1,1,,,,371723717
+1,New Zealand,11,TL Seifert,AC Agar,LRPL Taylor,,0,1,1,,,,371723717
+1,New Zealand,11,LRPL Taylor,AC Agar,TL Seifert,,0,1,1,,,,371723717
+1,New Zealand,12,LRPL Taylor,MP Stoinis,TL Seifert,,0,0,0,,,,371723717
+1,New Zealand,12,LRPL Taylor,MP Stoinis,TL Seifert,,0,1,1,,,,371723717
+1,New Zealand,12,TL Seifert,MP Stoinis,LRPL Taylor,,0,0,0,,,,371723717
+1,New Zealand,12,TL Seifert,MP Stoinis,LRPL Taylor,,0,0,0,bowled,TL Seifert,,371723717
+1,New Zealand,12,TG Southee,MP Stoinis,LRPL Taylor,,0,1,1,,,,371723717
+1,New Zealand,12,LRPL Taylor,MP Stoinis,TG Southee,,0,1,1,,,,371723717
+1,New Zealand,13,LRPL Taylor,KW Richardson,TG Southee,,0,2,2,,,,371723717
+1,New Zealand,13,LRPL Taylor,KW Richardson,TG Southee,,0,1,1,,,,371723717
+1,New Zealand,13,TG Southee,KW Richardson,LRPL Taylor,,0,4,4,,,,371723717
+1,New Zealand,13,TG Southee,KW Richardson,LRPL Taylor,,0,0,0,caught,TG Southee,GJ Maxwell,371723717
+1,New Zealand,13,LRPL Taylor,KW Richardson,IS Sodhi,,0,1,1,,,,371723717
+1,New Zealand,13,IS Sodhi,KW Richardson,LRPL Taylor,,0,0,0,,,,371723717
+1,New Zealand,14,LRPL Taylor,AJ Tye,IS Sodhi,,0,2,2,,,,371723717
+1,New Zealand,14,LRPL Taylor,AJ Tye,IS Sodhi,legbyes,1,1,0,,,,371723717
+1,New Zealand,14,IS Sodhi,AJ Tye,LRPL Taylor,,0,0,0,,,,371723717
+1,New Zealand,14,IS Sodhi,AJ Tye,LRPL Taylor,,0,0,0,,,,371723717
+1,New Zealand,14,IS Sodhi,AJ Tye,LRPL Taylor,,0,1,1,,,,371723717
+1,New Zealand,14,LRPL Taylor,AJ Tye,IS Sodhi,,0,1,1,,,,371723717
+1,New Zealand,15,LRPL Taylor,MP Stoinis,IS Sodhi,,0,1,1,,,,371723717
+1,New Zealand,15,IS Sodhi,MP Stoinis,LRPL Taylor,,0,1,1,,,,371723717
+1,New Zealand,15,LRPL Taylor,MP Stoinis,IS Sodhi,,0,0,0,,,,371723717
+1,New Zealand,15,LRPL Taylor,MP Stoinis,IS Sodhi,,0,1,1,,,,371723717
+1,New Zealand,15,IS Sodhi,MP Stoinis,LRPL Taylor,,0,0,0,,,,371723717
+1,New Zealand,15,IS Sodhi,MP Stoinis,LRPL Taylor,,0,1,1,,,,371723717
+1,New Zealand,16,IS Sodhi,B Stanlake,LRPL Taylor,,0,0,0,,,,371723717
+1,New Zealand,16,IS Sodhi,B Stanlake,LRPL Taylor,,0,1,1,,,,371723717
+1,New Zealand,16,LRPL Taylor,B Stanlake,IS Sodhi,,0,4,4,,,,371723717
+1,New Zealand,16,LRPL Taylor,B Stanlake,IS Sodhi,,0,1,1,,,,371723717
+1,New Zealand,16,IS Sodhi,B Stanlake,LRPL Taylor,,0,0,0,,,,371723717
+1,New Zealand,16,IS Sodhi,B Stanlake,LRPL Taylor,,0,1,1,,,,371723717
+1,New Zealand,17,IS Sodhi,KW Richardson,LRPL Taylor,,0,0,0,,,,371723717
+1,New Zealand,17,IS Sodhi,KW Richardson,LRPL Taylor,,0,1,1,,,,371723717
+1,New Zealand,17,LRPL Taylor,KW Richardson,IS Sodhi,,0,0,0,,,,371723717
+1,New Zealand,17,LRPL Taylor,KW Richardson,IS Sodhi,,0,0,0,,,,371723717
+1,New Zealand,17,LRPL Taylor,KW Richardson,IS Sodhi,,0,0,0,,,,371723717
+1,New Zealand,17,LRPL Taylor,KW Richardson,IS Sodhi,,0,1,1,,,,371723717
+1,New Zealand,18,LRPL Taylor,MP Stoinis,IS Sodhi,,0,6,6,,,,371723717
+1,New Zealand,18,LRPL Taylor,MP Stoinis,IS Sodhi,,0,0,0,,,,371723717
+1,New Zealand,18,LRPL Taylor,MP Stoinis,IS Sodhi,,0,0,0,,,,371723717
+1,New Zealand,18,LRPL Taylor,MP Stoinis,IS Sodhi,,0,2,2,,,,371723717
+1,New Zealand,18,LRPL Taylor,MP Stoinis,IS Sodhi,wides,1,1,0,,,,371723717
+1,New Zealand,18,LRPL Taylor,MP Stoinis,IS Sodhi,,0,2,2,,,,371723717
+1,New Zealand,18,LRPL Taylor,MP Stoinis,IS Sodhi,,0,0,0,,,,371723717
+1,New Zealand,19,IS Sodhi,AJ Tye,LRPL Taylor,,0,6,6,,,,371723717
+1,New Zealand,19,IS Sodhi,AJ Tye,LRPL Taylor,,0,1,1,,,,371723717
+1,New Zealand,19,LRPL Taylor,AJ Tye,IS Sodhi,,0,1,1,,,,371723717
+1,New Zealand,19,IS Sodhi,AJ Tye,LRPL Taylor,,0,0,0,bowled,IS Sodhi,,371723717
+1,New Zealand,19,TA Boult,AJ Tye,LRPL Taylor,,0,1,1,,,,371723717
+1,New Zealand,19,LRPL Taylor,AJ Tye,TA Boult,legbyes,1,1,0,,,,371723717

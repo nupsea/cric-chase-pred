@@ -1,0 +1,83 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Australia,0,DT Christian,Mahedi Hasan,MS Wade,,0,0,0,,,,31582231582
+2,Australia,0,DT Christian,Mahedi Hasan,MS Wade,,0,3,3,,,,31582231582
+2,Australia,0,MS Wade,Mahedi Hasan,DT Christian,,0,0,0,,,,31582231582
+2,Australia,0,MS Wade,Mahedi Hasan,DT Christian,,0,0,0,,,,31582231582
+2,Australia,0,MS Wade,Mahedi Hasan,DT Christian,,0,0,0,,,,31582231582
+2,Australia,0,MS Wade,Mahedi Hasan,DT Christian,,0,0,0,,,,31582231582
+2,Australia,1,DT Christian,Nasum Ahmed,MS Wade,,0,0,0,bowled,DT Christian,,31582231582
+2,Australia,1,MR Marsh,Nasum Ahmed,MS Wade,,0,0,0,,,,31582231582
+2,Australia,1,MR Marsh,Nasum Ahmed,MS Wade,,0,1,1,,,,31582231582
+2,Australia,1,MS Wade,Nasum Ahmed,MR Marsh,,0,0,0,,,,31582231582
+2,Australia,1,MS Wade,Nasum Ahmed,MR Marsh,,0,1,1,,,,31582231582
+2,Australia,1,MR Marsh,Nasum Ahmed,MS Wade,,0,1,1,,,,31582231582
+2,Australia,2,MR Marsh,Mahedi Hasan,MS Wade,,0,1,1,,,,31582231582
+2,Australia,2,MS Wade,Mahedi Hasan,MR Marsh,,0,6,6,,,,31582231582
+2,Australia,2,MS Wade,Mahedi Hasan,MR Marsh,,0,0,0,,,,31582231582
+2,Australia,2,MS Wade,Mahedi Hasan,MR Marsh,,0,1,1,,,,31582231582
+2,Australia,2,MR Marsh,Mahedi Hasan,MS Wade,,0,0,0,,,,31582231582
+2,Australia,2,MR Marsh,Mahedi Hasan,MS Wade,,0,0,0,,,,31582231582
+2,Australia,3,MS Wade,Nasum Ahmed,MR Marsh,,0,1,1,,,,31582231582
+2,Australia,3,MR Marsh,Nasum Ahmed,MS Wade,,0,0,0,,,,31582231582
+2,Australia,3,MR Marsh,Nasum Ahmed,MS Wade,,0,1,1,,,,31582231582
+2,Australia,3,MS Wade,Nasum Ahmed,MR Marsh,,0,1,1,,,,31582231582
+2,Australia,3,MR Marsh,Nasum Ahmed,MS Wade,,0,0,0,lbw,MR Marsh,,31582231582
+2,Australia,3,BR McDermott,Nasum Ahmed,MS Wade,,0,2,2,,,,31582231582
+2,Australia,4,MS Wade,Mahedi Hasan,BR McDermott,,0,0,0,,,,31582231582
+2,Australia,4,MS Wade,Mahedi Hasan,BR McDermott,,0,0,0,,,,31582231582
+2,Australia,4,MS Wade,Mahedi Hasan,BR McDermott,,0,1,1,,,,31582231582
+2,Australia,4,BR McDermott,Mahedi Hasan,MS Wade,,0,1,1,,,,31582231582
+2,Australia,4,MS Wade,Mahedi Hasan,BR McDermott,,0,6,6,,,,31582231582
+2,Australia,4,MS Wade,Mahedi Hasan,BR McDermott,,0,1,1,,,,31582231582
+2,Australia,5,MS Wade,Mustafizur Rahman,BR McDermott,,0,1,1,,,,31582231582
+2,Australia,5,BR McDermott,Mustafizur Rahman,MS Wade,,0,0,0,,,,31582231582
+2,Australia,5,BR McDermott,Mustafizur Rahman,MS Wade,,0,1,1,,,,31582231582
+2,Australia,5,MS Wade,Mustafizur Rahman,BR McDermott,,0,1,1,,,,31582231582
+2,Australia,5,BR McDermott,Mustafizur Rahman,MS Wade,,0,0,0,,,,31582231582
+2,Australia,5,BR McDermott,Mustafizur Rahman,MS Wade,,0,0,0,,,,31582231582
+2,Australia,6,MS Wade,Mohammad Saifuddin,BR McDermott,,0,1,1,,,,31582231582
+2,Australia,6,BR McDermott,Mohammad Saifuddin,MS Wade,,0,1,1,,,,31582231582
+2,Australia,6,MS Wade,Mohammad Saifuddin,BR McDermott,,0,1,1,,,,31582231582
+2,Australia,6,BR McDermott,Mohammad Saifuddin,MS Wade,,0,1,1,,,,31582231582
+2,Australia,6,MS Wade,Mohammad Saifuddin,BR McDermott,legbyes,1,1,0,,,,31582231582
+2,Australia,6,BR McDermott,Mohammad Saifuddin,MS Wade,,0,1,1,,,,31582231582
+2,Australia,7,BR McDermott,Shakib Al Hasan,MS Wade,,0,1,1,,,,31582231582
+2,Australia,7,MS Wade,Shakib Al Hasan,BR McDermott,,0,0,0,bowled,MS Wade,,31582231582
+2,Australia,7,AT Carey,Shakib Al Hasan,BR McDermott,,0,0,0,,,,31582231582
+2,Australia,7,AT Carey,Shakib Al Hasan,BR McDermott,,0,1,1,,,,31582231582
+2,Australia,7,BR McDermott,Shakib Al Hasan,AT Carey,,0,1,1,,,,31582231582
+2,Australia,7,AT Carey,Shakib Al Hasan,BR McDermott,,0,0,0,,,,31582231582
+2,Australia,8,BR McDermott,Mahmudullah,AT Carey,,0,0,0,,,,31582231582
+2,Australia,8,BR McDermott,Mahmudullah,AT Carey,,0,2,2,,,,31582231582
+2,Australia,8,BR McDermott,Mahmudullah,AT Carey,,0,6,6,,,,31582231582
+2,Australia,8,BR McDermott,Mahmudullah,AT Carey,,0,0,0,,,,31582231582
+2,Australia,8,BR McDermott,Mahmudullah,AT Carey,,0,0,0,caught and bowled,BR McDermott,,31582231582
+2,Australia,8,MC Henriques,Mahmudullah,AT Carey,,0,1,1,,,,31582231582
+2,Australia,9,MC Henriques,Shakib Al Hasan,AT Carey,,0,0,0,,,,31582231582
+2,Australia,9,MC Henriques,Shakib Al Hasan,AT Carey,,0,0,0,,,,31582231582
+2,Australia,9,MC Henriques,Shakib Al Hasan,AT Carey,,0,0,0,,,,31582231582
+2,Australia,9,MC Henriques,Shakib Al Hasan,AT Carey,,0,1,1,,,,31582231582
+2,Australia,9,AT Carey,Shakib Al Hasan,MC Henriques,,0,0,0,,,,31582231582
+2,Australia,9,AT Carey,Shakib Al Hasan,MC Henriques,,0,1,1,,,,31582231582
+2,Australia,10,AT Carey,Mohammad Saifuddin,MC Henriques,,0,1,1,,,,31582231582
+2,Australia,10,MC Henriques,Mohammad Saifuddin,AT Carey,,0,1,1,,,,31582231582
+2,Australia,10,AT Carey,Mohammad Saifuddin,MC Henriques,,0,0,0,bowled,AT Carey,,31582231582
+2,Australia,10,AJ Turner,Mohammad Saifuddin,MC Henriques,,0,1,1,,,,31582231582
+2,Australia,10,MC Henriques,Mohammad Saifuddin,AJ Turner,,0,0,0,caught,MC Henriques,Nurul Hasan,31582231582
+2,Australia,10,AC Agar,Mohammad Saifuddin,AJ Turner,,0,0,0,,,,31582231582
+2,Australia,11,AJ Turner,Shakib Al Hasan,AC Agar,,0,0,0,,,,31582231582
+2,Australia,11,AJ Turner,Shakib Al Hasan,AC Agar,,0,0,0,caught,AJ Turner,Mahmudullah,31582231582
+2,Australia,11,NT Ellis,Shakib Al Hasan,AC Agar,,0,0,0,,,,31582231582
+2,Australia,11,NT Ellis,Shakib Al Hasan,AC Agar,,0,0,0,,,,31582231582
+2,Australia,11,NT Ellis,Shakib Al Hasan,AC Agar,,0,0,0,,,,31582231582
+2,Australia,11,NT Ellis,Shakib Al Hasan,AC Agar,,0,0,0,,,,31582231582
+2,Australia,12,AC Agar,Mohammad Saifuddin,NT Ellis,,0,2,2,,,,31582231582
+2,Australia,12,AC Agar,Mohammad Saifuddin,NT Ellis,,0,0,0,,,,31582231582
+2,Australia,12,AC Agar,Mohammad Saifuddin,NT Ellis,,0,0,0,bowled,AC Agar,,31582231582
+2,Australia,12,MJ Swepson,Mohammad Saifuddin,NT Ellis,,0,1,1,,,,31582231582
+2,Australia,12,NT Ellis,Mohammad Saifuddin,MJ Swepson,,0,0,0,,,,31582231582
+2,Australia,12,NT Ellis,Mohammad Saifuddin,MJ Swepson,,0,1,1,,,,31582231582
+2,Australia,13,NT Ellis,Shakib Al Hasan,MJ Swepson,,0,0,0,bowled,NT Ellis,,31582231582
+2,Australia,13,A Zampa,Shakib Al Hasan,MJ Swepson,,0,2,2,,,,31582231582
+2,Australia,13,A Zampa,Shakib Al Hasan,MJ Swepson,,0,2,2,,,,31582231582
+2,Australia,13,A Zampa,Shakib Al Hasan,MJ Swepson,,0,0,0,caught,A Zampa,Mahmudullah,31582231582

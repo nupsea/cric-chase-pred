@@ -1,0 +1,64 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Netherlands,0,SJ Myburgh,KMDN Kulasekara,MR Swart,,0,0,0,,,,341123411
+1,Netherlands,0,SJ Myburgh,KMDN Kulasekara,MR Swart,,0,0,0,,,,341123411
+1,Netherlands,0,SJ Myburgh,KMDN Kulasekara,MR Swart,,0,0,0,caught,SJ Myburgh,SL Malinga,341123411
+1,Netherlands,0,MR Swart,KMDN Kulasekara,W Barresi,,0,0,0,,,,341123411
+1,Netherlands,0,MR Swart,KMDN Kulasekara,W Barresi,,0,0,0,,,,341123411
+1,Netherlands,0,MR Swart,KMDN Kulasekara,W Barresi,,0,0,0,,,,341123411
+1,Netherlands,1,W Barresi,AD Mathews,MR Swart,,0,0,0,,,,341123411
+1,Netherlands,1,W Barresi,AD Mathews,MR Swart,,0,0,0,,,,341123411
+1,Netherlands,1,W Barresi,AD Mathews,MR Swart,,0,1,1,,,,341123411
+1,Netherlands,1,MR Swart,AD Mathews,W Barresi,,0,0,0,caught,MR Swart,KC Sangakkara,341123411
+1,Netherlands,1,W Barresi,AD Mathews,TLW Cooper,,0,0,0,caught,W Barresi,LD Chandimal,341123411
+1,Netherlands,1,PW Borren,AD Mathews,TLW Cooper,,0,0,0,,,,341123411
+1,Netherlands,2,TLW Cooper,KMDN Kulasekara,PW Borren,,0,0,0,,,,341123411
+1,Netherlands,2,TLW Cooper,KMDN Kulasekara,PW Borren,legbyes,1,1,0,,,,341123411
+1,Netherlands,2,PW Borren,KMDN Kulasekara,TLW Cooper,,0,0,0,,,,341123411
+1,Netherlands,2,PW Borren,KMDN Kulasekara,TLW Cooper,,0,0,0,,,,341123411
+1,Netherlands,2,PW Borren,KMDN Kulasekara,TLW Cooper,,0,0,0,,,,341123411
+1,Netherlands,2,PW Borren,KMDN Kulasekara,TLW Cooper,,0,0,0,,,,341123411
+1,Netherlands,3,TLW Cooper,AD Mathews,PW Borren,,0,0,0,,,,341123411
+1,Netherlands,3,TLW Cooper,AD Mathews,PW Borren,,0,4,4,,,,341123411
+1,Netherlands,3,TLW Cooper,AD Mathews,PW Borren,,0,2,2,,,,341123411
+1,Netherlands,3,TLW Cooper,AD Mathews,PW Borren,,0,1,1,,,,341123411
+1,Netherlands,3,PW Borren,AD Mathews,TLW Cooper,,0,0,0,,,,341123411
+1,Netherlands,3,PW Borren,AD Mathews,TLW Cooper,,0,0,0,lbw,PW Borren,,341123411
+1,Netherlands,4,TLW Cooper,SL Malinga,BN Cooper,,0,0,0,,,,341123411
+1,Netherlands,4,TLW Cooper,SL Malinga,BN Cooper,,0,0,0,,,,341123411
+1,Netherlands,4,TLW Cooper,SL Malinga,BN Cooper,,0,0,0,,,,341123411
+1,Netherlands,4,TLW Cooper,SL Malinga,BN Cooper,,0,1,1,,,,341123411
+1,Netherlands,4,BN Cooper,SL Malinga,TLW Cooper,,0,0,0,,,,341123411
+1,Netherlands,4,BN Cooper,SL Malinga,TLW Cooper,legbyes,1,1,0,,,,341123411
+1,Netherlands,5,BN Cooper,AD Mathews,TLW Cooper,,0,0,0,,,,341123411
+1,Netherlands,5,BN Cooper,AD Mathews,TLW Cooper,,0,0,0,,,,341123411
+1,Netherlands,5,BN Cooper,AD Mathews,TLW Cooper,,0,0,0,,,,341123411
+1,Netherlands,5,BN Cooper,AD Mathews,TLW Cooper,,0,4,4,,,,341123411
+1,Netherlands,5,BN Cooper,AD Mathews,TLW Cooper,,0,0,0,,,,341123411
+1,Netherlands,5,BN Cooper,AD Mathews,TLW Cooper,,0,0,0,,,,341123411
+1,Netherlands,6,TLW Cooper,BAW Mendis,BN Cooper,,0,1,1,,,,341123411
+1,Netherlands,6,BN Cooper,BAW Mendis,TLW Cooper,,0,3,3,,,,341123411
+1,Netherlands,6,TLW Cooper,BAW Mendis,BN Cooper,,0,4,4,,,,341123411
+1,Netherlands,6,TLW Cooper,BAW Mendis,BN Cooper,,0,1,1,,,,341123411
+1,Netherlands,6,BN Cooper,BAW Mendis,TLW Cooper,,0,1,1,run out,BN Cooper,NLTC Perera,341123411
+1,Netherlands,6,TLW Cooper,BAW Mendis,Mudassar Bukhari,,0,0,0,,,,341123411
+1,Netherlands,7,Mudassar Bukhari,AD Mathews,TLW Cooper,,0,1,1,,,,341123411
+1,Netherlands,7,TLW Cooper,AD Mathews,Mudassar Bukhari,,0,1,1,,,,341123411
+1,Netherlands,7,Mudassar Bukhari,AD Mathews,TLW Cooper,,0,0,0,,,,341123411
+1,Netherlands,7,Mudassar Bukhari,AD Mathews,TLW Cooper,,0,0,0,,,,341123411
+1,Netherlands,7,Mudassar Bukhari,AD Mathews,TLW Cooper,,0,1,1,,,,341123411
+1,Netherlands,7,TLW Cooper,AD Mathews,Mudassar Bukhari,,0,1,1,,,,341123411
+1,Netherlands,8,TLW Cooper,BAW Mendis,Mudassar Bukhari,legbyes,4,4,0,,,,341123411
+1,Netherlands,8,TLW Cooper,BAW Mendis,Mudassar Bukhari,,0,0,0,lbw,TLW Cooper,,341123411
+1,Netherlands,8,LV van Beek,BAW Mendis,Mudassar Bukhari,,0,1,1,,,,341123411
+1,Netherlands,8,Mudassar Bukhari,BAW Mendis,LV van Beek,,0,1,1,,,,341123411
+1,Netherlands,8,LV van Beek,BAW Mendis,Mudassar Bukhari,,0,0,0,,,,341123411
+1,Netherlands,8,LV van Beek,BAW Mendis,Mudassar Bukhari,,0,0,0,,,,341123411
+1,Netherlands,9,Mudassar Bukhari,SL Malinga,LV van Beek,,0,0,0,,,,341123411
+1,Netherlands,9,Mudassar Bukhari,SL Malinga,LV van Beek,,0,1,1,,,,341123411
+1,Netherlands,9,LV van Beek,SL Malinga,Mudassar Bukhari,,0,0,0,bowled,LV van Beek,,341123411
+1,Netherlands,9,PM Seelaar,SL Malinga,Mudassar Bukhari,,0,2,2,,,,341123411
+1,Netherlands,9,PM Seelaar,SL Malinga,Mudassar Bukhari,,0,1,1,,,,341123411
+1,Netherlands,9,Mudassar Bukhari,SL Malinga,PM Seelaar,,0,0,0,bowled,Mudassar Bukhari,,341123411
+1,Netherlands,10,PM Seelaar,BAW Mendis,T van der Gugten,,0,0,0,caught,PM Seelaar,AD Mathews,341123411
+1,Netherlands,10,Ahsan Malik,BAW Mendis,T van der Gugten,,0,0,0,,,,341123411
+1,Netherlands,10,Ahsan Malik,BAW Mendis,T van der Gugten,,0,0,0,lbw,Ahsan Malik,,341123411

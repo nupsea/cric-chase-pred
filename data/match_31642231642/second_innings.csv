@@ -1,0 +1,66 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Scotland,0,HG Munsey,Mohammad Nabi,KJ Coetzer,,0,0,0,,,,31642231642
+2,Scotland,0,HG Munsey,Mohammad Nabi,KJ Coetzer,,0,4,4,,,,31642231642
+2,Scotland,0,HG Munsey,Mohammad Nabi,KJ Coetzer,,0,6,6,,,,31642231642
+2,Scotland,0,HG Munsey,Mohammad Nabi,KJ Coetzer,,0,0,0,,,,31642231642
+2,Scotland,0,HG Munsey,Mohammad Nabi,KJ Coetzer,,0,0,0,,,,31642231642
+2,Scotland,0,HG Munsey,Mohammad Nabi,KJ Coetzer,,0,1,1,,,,31642231642
+2,Scotland,1,HG Munsey,Mujeeb Ur Rahman,KJ Coetzer,,0,0,0,,,,31642231642
+2,Scotland,1,HG Munsey,Mujeeb Ur Rahman,KJ Coetzer,,0,0,0,,,,31642231642
+2,Scotland,1,HG Munsey,Mujeeb Ur Rahman,KJ Coetzer,,0,4,4,,,,31642231642
+2,Scotland,1,HG Munsey,Mujeeb Ur Rahman,KJ Coetzer,,0,2,2,,,,31642231642
+2,Scotland,1,HG Munsey,Mujeeb Ur Rahman,KJ Coetzer,,0,0,0,,,,31642231642
+2,Scotland,1,HG Munsey,Mujeeb Ur Rahman,KJ Coetzer,,0,0,0,,,,31642231642
+2,Scotland,2,KJ Coetzer,Naveen-ul-Haq,HG Munsey,,0,2,2,,,,31642231642
+2,Scotland,2,KJ Coetzer,Naveen-ul-Haq,HG Munsey,,0,0,0,,,,31642231642
+2,Scotland,2,KJ Coetzer,Naveen-ul-Haq,HG Munsey,,0,4,4,,,,31642231642
+2,Scotland,2,KJ Coetzer,Naveen-ul-Haq,HG Munsey,,0,0,0,,,,31642231642
+2,Scotland,2,KJ Coetzer,Naveen-ul-Haq,HG Munsey,,0,0,0,,,,31642231642
+2,Scotland,2,KJ Coetzer,Naveen-ul-Haq,HG Munsey,,0,4,4,,,,31642231642
+2,Scotland,3,HG Munsey,Mujeeb Ur Rahman,KJ Coetzer,,0,1,1,,,,31642231642
+2,Scotland,3,KJ Coetzer,Mujeeb Ur Rahman,HG Munsey,,0,0,0,bowled,KJ Coetzer,,31642231642
+2,Scotland,3,CS MacLeod,Mujeeb Ur Rahman,HG Munsey,,0,0,0,lbw,CS MacLeod,,31642231642
+2,Scotland,3,RD Berrington,Mujeeb Ur Rahman,HG Munsey,,0,0,0,,,,31642231642
+2,Scotland,3,RD Berrington,Mujeeb Ur Rahman,HG Munsey,,0,0,0,,,,31642231642
+2,Scotland,3,RD Berrington,Mujeeb Ur Rahman,HG Munsey,,0,0,0,lbw,RD Berrington,,31642231642
+2,Scotland,4,HG Munsey,Naveen-ul-Haq,MH Cross,,0,0,0,,,,31642231642
+2,Scotland,4,HG Munsey,Naveen-ul-Haq,MH Cross,wides,1,1,0,,,,31642231642
+2,Scotland,4,HG Munsey,Naveen-ul-Haq,MH Cross,,0,1,1,,,,31642231642
+2,Scotland,4,MH Cross,Naveen-ul-Haq,HG Munsey,,0,0,0,caught,MH Cross,Mohammad Shahzad,31642231642
+2,Scotland,4,MA Leask,Naveen-ul-Haq,HG Munsey,,0,0,0,,,,31642231642
+2,Scotland,4,MA Leask,Naveen-ul-Haq,HG Munsey,,0,0,0,,,,31642231642
+2,Scotland,4,MA Leask,Naveen-ul-Haq,HG Munsey,,0,0,0,,,,31642231642
+2,Scotland,5,HG Munsey,Mujeeb Ur Rahman,MA Leask,,0,0,0,,,,31642231642
+2,Scotland,5,HG Munsey,Mujeeb Ur Rahman,MA Leask,,0,6,6,,,,31642231642
+2,Scotland,5,HG Munsey,Mujeeb Ur Rahman,MA Leask,,0,0,0,bowled,HG Munsey,,31642231642
+2,Scotland,5,CN Greaves,Mujeeb Ur Rahman,MA Leask,,0,0,0,,,,31642231642
+2,Scotland,5,CN Greaves,Mujeeb Ur Rahman,MA Leask,,0,1,1,,,,31642231642
+2,Scotland,5,MA Leask,Mujeeb Ur Rahman,CN Greaves,,0,0,0,,,,31642231642
+2,Scotland,6,CN Greaves,Rashid Khan,MA Leask,,0,0,0,,,,31642231642
+2,Scotland,6,CN Greaves,Rashid Khan,MA Leask,,0,1,1,,,,31642231642
+2,Scotland,6,MA Leask,Rashid Khan,CN Greaves,,0,0,0,lbw,MA Leask,,31642231642
+2,Scotland,6,MRJ Watt,Rashid Khan,CN Greaves,,0,0,0,,,,31642231642
+2,Scotland,6,MRJ Watt,Rashid Khan,CN Greaves,,0,1,1,,,,31642231642
+2,Scotland,6,CN Greaves,Rashid Khan,MRJ Watt,,0,1,1,,,,31642231642
+2,Scotland,7,CN Greaves,Mujeeb Ur Rahman,MRJ Watt,,0,0,0,,,,31642231642
+2,Scotland,7,CN Greaves,Mujeeb Ur Rahman,MRJ Watt,,0,0,0,,,,31642231642
+2,Scotland,7,CN Greaves,Mujeeb Ur Rahman,MRJ Watt,,0,0,0,,,,31642231642
+2,Scotland,7,CN Greaves,Mujeeb Ur Rahman,MRJ Watt,,0,5,5,,,,31642231642
+2,Scotland,7,MRJ Watt,Mujeeb Ur Rahman,CN Greaves,,0,0,0,bowled,MRJ Watt,,31642231642
+2,Scotland,7,JH Davey,Mujeeb Ur Rahman,CN Greaves,,0,1,1,,,,31642231642
+2,Scotland,8,JH Davey,Rashid Khan,CN Greaves,legbyes,1,1,0,,,,31642231642
+2,Scotland,8,CN Greaves,Rashid Khan,JH Davey,,0,4,4,,,,31642231642
+2,Scotland,8,CN Greaves,Rashid Khan,JH Davey,legbyes,1,1,0,,,,31642231642
+2,Scotland,8,JH Davey,Rashid Khan,CN Greaves,,0,1,1,,,,31642231642
+2,Scotland,8,CN Greaves,Rashid Khan,JH Davey,,0,0,0,lbw,CN Greaves,,31642231642
+2,Scotland,8,SM Sharif,Rashid Khan,JH Davey,,0,1,1,,,,31642231642
+2,Scotland,9,SM Sharif,Karim Janat,JH Davey,,0,0,0,,,,31642231642
+2,Scotland,9,SM Sharif,Karim Janat,JH Davey,,0,1,1,,,,31642231642
+2,Scotland,9,JH Davey,Karim Janat,SM Sharif,wides,1,1,0,,,,31642231642
+2,Scotland,9,JH Davey,Karim Janat,SM Sharif,,0,1,1,,,,31642231642
+2,Scotland,9,SM Sharif,Karim Janat,JH Davey,wides,1,1,0,,,,31642231642
+2,Scotland,9,SM Sharif,Karim Janat,JH Davey,,0,1,1,,,,31642231642
+2,Scotland,9,JH Davey,Karim Janat,SM Sharif,,0,0,0,,,,31642231642
+2,Scotland,9,JH Davey,Karim Janat,SM Sharif,,0,1,1,,,,31642231642
+2,Scotland,10,JH Davey,Rashid Khan,SM Sharif,,0,0,0,lbw,JH Davey,,31642231642
+2,Scotland,10,BTJ Wheal,Rashid Khan,SM Sharif,,0,0,0,bowled,BTJ Wheal,,31642231642

@@ -1,0 +1,109 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,India,0,G Gambhir,B Lee,V Sehwag,wides,1,1,0,,,,3422342
+1,India,0,G Gambhir,B Lee,V Sehwag,,0,0,0,,,,3422342
+1,India,0,G Gambhir,B Lee,V Sehwag,wides,1,1,0,,,,3422342
+1,India,0,G Gambhir,B Lee,V Sehwag,,0,3,3,,,,3422342
+1,India,0,V Sehwag,B Lee,G Gambhir,,0,0,0,,,,3422342
+1,India,0,V Sehwag,B Lee,G Gambhir,,0,0,0,,,,3422342
+1,India,0,V Sehwag,B Lee,G Gambhir,,0,0,0,run out,V Sehwag,MJ Clarke,3422342
+1,India,0,G Gambhir,B Lee,KD Karthik,,0,0,0,,,,3422342
+1,India,1,KD Karthik,NW Bracken,G Gambhir,,0,1,1,,,,3422342
+1,India,1,G Gambhir,NW Bracken,KD Karthik,,0,2,2,,,,3422342
+1,India,1,G Gambhir,NW Bracken,KD Karthik,,0,4,4,,,,3422342
+1,India,1,G Gambhir,NW Bracken,KD Karthik,,0,0,0,caught,G Gambhir,JR Hopes,3422342
+1,India,1,RV Uthappa,NW Bracken,KD Karthik,,0,1,1,,,,3422342
+1,India,1,KD Karthik,NW Bracken,RV Uthappa,,0,1,1,,,,3422342
+1,India,2,KD Karthik,B Lee,RV Uthappa,,0,0,0,,,,3422342
+1,India,2,KD Karthik,B Lee,RV Uthappa,,0,0,0,,,,3422342
+1,India,2,KD Karthik,B Lee,RV Uthappa,,0,0,0,,,,3422342
+1,India,2,KD Karthik,B Lee,RV Uthappa,,0,4,4,,,,3422342
+1,India,2,KD Karthik,B Lee,RV Uthappa,,0,2,2,,,,3422342
+1,India,2,KD Karthik,B Lee,RV Uthappa,,0,0,0,bowled,KD Karthik,,3422342
+1,India,3,RV Uthappa,NW Bracken,RG Sharma,,0,0,0,,,,3422342
+1,India,3,RV Uthappa,NW Bracken,RG Sharma,,0,0,0,caught,RV Uthappa,DJ Hussey,3422342
+1,India,3,MS Dhoni,NW Bracken,RG Sharma,,0,0,0,,,,3422342
+1,India,3,MS Dhoni,NW Bracken,RG Sharma,,0,0,0,,,,3422342
+1,India,3,MS Dhoni,NW Bracken,RG Sharma,,0,0,0,,,,3422342
+1,India,3,MS Dhoni,NW Bracken,RG Sharma,,0,0,0,,,,3422342
+1,India,4,RG Sharma,B Lee,MS Dhoni,,0,0,0,,,,3422342
+1,India,4,RG Sharma,B Lee,MS Dhoni,,0,1,1,,,,3422342
+1,India,4,MS Dhoni,B Lee,RG Sharma,,0,0,0,,,,3422342
+1,India,4,MS Dhoni,B Lee,RG Sharma,,0,0,0,,,,3422342
+1,India,4,MS Dhoni,B Lee,RG Sharma,,0,0,0,,,,3422342
+1,India,4,MS Dhoni,B Lee,RG Sharma,,0,1,1,,,,3422342
+1,India,5,MS Dhoni,AA Noffke,RG Sharma,,0,0,0,,,,3422342
+1,India,5,MS Dhoni,AA Noffke,RG Sharma,,0,1,1,,,,3422342
+1,India,5,RG Sharma,AA Noffke,MS Dhoni,,0,4,4,,,,3422342
+1,India,5,RG Sharma,AA Noffke,MS Dhoni,,0,1,1,,,,3422342
+1,India,5,MS Dhoni,AA Noffke,RG Sharma,,0,1,1,,,,3422342
+1,India,5,RG Sharma,AA Noffke,MS Dhoni,,0,1,1,,,,3422342
+1,India,6,RG Sharma,JR Hopes,MS Dhoni,,0,0,0,,,,3422342
+1,India,6,RG Sharma,JR Hopes,MS Dhoni,,0,1,1,,,,3422342
+1,India,6,MS Dhoni,JR Hopes,RG Sharma,,0,1,1,,,,3422342
+1,India,6,RG Sharma,JR Hopes,MS Dhoni,,0,0,0,bowled,RG Sharma,,3422342
+1,India,6,IK Pathan,JR Hopes,MS Dhoni,,0,2,2,,,,3422342
+1,India,6,IK Pathan,JR Hopes,MS Dhoni,,0,0,0,,,,3422342
+1,India,7,MS Dhoni,AA Noffke,IK Pathan,,0,0,0,,,,3422342
+1,India,7,MS Dhoni,AA Noffke,IK Pathan,,0,1,1,,,,3422342
+1,India,7,IK Pathan,AA Noffke,MS Dhoni,,0,0,0,,,,3422342
+1,India,7,IK Pathan,AA Noffke,MS Dhoni,,0,1,1,,,,3422342
+1,India,7,MS Dhoni,AA Noffke,IK Pathan,,0,1,1,,,,3422342
+1,India,7,IK Pathan,AA Noffke,MS Dhoni,,0,1,1,,,,3422342
+1,India,8,IK Pathan,JR Hopes,MS Dhoni,,0,0,0,,,,3422342
+1,India,8,IK Pathan,JR Hopes,MS Dhoni,,0,1,1,,,,3422342
+1,India,8,MS Dhoni,JR Hopes,IK Pathan,,0,0,0,,,,3422342
+1,India,8,MS Dhoni,JR Hopes,IK Pathan,,0,0,0,,,,3422342
+1,India,8,MS Dhoni,JR Hopes,IK Pathan,,0,0,0,,,,3422342
+1,India,8,MS Dhoni,JR Hopes,IK Pathan,,0,0,0,,,,3422342
+1,India,9,IK Pathan,DJ Hussey,MS Dhoni,,0,1,1,,,,3422342
+1,India,9,MS Dhoni,DJ Hussey,IK Pathan,,0,1,1,,,,3422342
+1,India,9,IK Pathan,DJ Hussey,MS Dhoni,,0,2,2,,,,3422342
+1,India,9,IK Pathan,DJ Hussey,MS Dhoni,,0,0,0,,,,3422342
+1,India,9,IK Pathan,DJ Hussey,MS Dhoni,,0,0,0,,,,3422342
+1,India,9,IK Pathan,DJ Hussey,MS Dhoni,,0,0,0,,,,3422342
+1,India,10,MS Dhoni,JR Hopes,IK Pathan,,0,1,1,,,,3422342
+1,India,10,IK Pathan,JR Hopes,MS Dhoni,,0,1,1,,,,3422342
+1,India,10,MS Dhoni,JR Hopes,IK Pathan,,0,0,0,,,,3422342
+1,India,10,MS Dhoni,JR Hopes,IK Pathan,,0,1,1,,,,3422342
+1,India,10,IK Pathan,JR Hopes,MS Dhoni,,0,2,2,,,,3422342
+1,India,10,IK Pathan,JR Hopes,MS Dhoni,,0,0,0,,,,3422342
+1,India,11,MS Dhoni,DJ Hussey,IK Pathan,,0,0,0,,,,3422342
+1,India,11,MS Dhoni,DJ Hussey,IK Pathan,wides,1,1,0,,,,3422342
+1,India,11,MS Dhoni,DJ Hussey,IK Pathan,,0,0,0,,,,3422342
+1,India,11,MS Dhoni,DJ Hussey,IK Pathan,,0,0,0,,,,3422342
+1,India,11,MS Dhoni,DJ Hussey,IK Pathan,,0,0,0,caught,MS Dhoni,B Lee,3422342
+1,India,11,P Kumar,DJ Hussey,IK Pathan,,0,0,0,,,,3422342
+1,India,11,P Kumar,DJ Hussey,IK Pathan,,0,0,0,,,,3422342
+1,India,12,IK Pathan,AC Voges,P Kumar,,0,1,1,,,,3422342
+1,India,12,P Kumar,AC Voges,IK Pathan,,0,0,0,,,,3422342
+1,India,12,P Kumar,AC Voges,IK Pathan,,0,1,1,,,,3422342
+1,India,12,IK Pathan,AC Voges,P Kumar,,0,1,1,,,,3422342
+1,India,12,P Kumar,AC Voges,IK Pathan,,0,0,0,,,,3422342
+1,India,12,P Kumar,AC Voges,IK Pathan,,0,1,1,,,,3422342
+1,India,13,P Kumar,DJ Hussey,IK Pathan,,0,1,1,,,,3422342
+1,India,13,IK Pathan,DJ Hussey,P Kumar,,0,2,2,,,,3422342
+1,India,13,IK Pathan,DJ Hussey,P Kumar,,0,1,1,,,,3422342
+1,India,13,P Kumar,DJ Hussey,IK Pathan,,0,2,2,,,,3422342
+1,India,13,P Kumar,DJ Hussey,IK Pathan,,0,1,1,,,,3422342
+1,India,13,IK Pathan,DJ Hussey,P Kumar,,0,0,0,,,,3422342
+1,India,14,P Kumar,AA Noffke,IK Pathan,,0,0,0,caught,P Kumar,AC Voges,3422342
+1,India,14,Harbhajan Singh,AA Noffke,IK Pathan,,0,1,1,,,,3422342
+1,India,14,IK Pathan,AA Noffke,Harbhajan Singh,,0,0,0,,,,3422342
+1,India,14,IK Pathan,AA Noffke,Harbhajan Singh,,0,0,0,,,,3422342
+1,India,14,IK Pathan,AA Noffke,Harbhajan Singh,,0,1,1,,,,3422342
+1,India,14,Harbhajan Singh,AA Noffke,IK Pathan,,0,0,0,,,,3422342
+1,India,15,IK Pathan,AC Voges,Harbhajan Singh,,0,1,1,,,,3422342
+1,India,15,Harbhajan Singh,AC Voges,IK Pathan,,0,0,0,caught,Harbhajan Singh,MJ Clarke,3422342
+1,India,15,S Sreesanth,AC Voges,IK Pathan,,0,0,0,caught,S Sreesanth,BJ Hodge,3422342
+1,India,15,I Sharma,AC Voges,IK Pathan,,0,0,0,,,,3422342
+1,India,15,I Sharma,AC Voges,IK Pathan,,0,0,0,,,,3422342
+1,India,15,I Sharma,AC Voges,IK Pathan,,0,0,0,,,,3422342
+1,India,16,IK Pathan,AA Noffke,I Sharma,,0,3,3,,,,3422342
+1,India,16,I Sharma,AA Noffke,IK Pathan,,0,1,1,,,,3422342
+1,India,16,IK Pathan,AA Noffke,I Sharma,,0,2,2,,,,3422342
+1,India,16,IK Pathan,AA Noffke,I Sharma,,0,1,1,,,,3422342
+1,India,16,I Sharma,AA Noffke,IK Pathan,,0,1,1,,,,3422342
+1,India,16,IK Pathan,AA Noffke,I Sharma,,0,1,1,,,,3422342
+1,India,17,IK Pathan,NW Bracken,I Sharma,,0,1,1,,,,3422342
+1,India,17,I Sharma,NW Bracken,IK Pathan,,0,1,1,,,,3422342
+1,India,17,IK Pathan,NW Bracken,I Sharma,,0,0,0,caught,IK Pathan,AC Gilchrist,3422342

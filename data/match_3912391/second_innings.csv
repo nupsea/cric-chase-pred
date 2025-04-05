@@ -1,0 +1,115 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,West Indies,0,CH Gayle,AD Mathews,XM Marshall,,0,1,1,,,,3912391
+2,West Indies,0,XM Marshall,AD Mathews,CH Gayle,,0,0,0,bowled,XM Marshall,,3912391
+2,West Indies,0,LMP Simmons,AD Mathews,CH Gayle,,0,0,0,,,,3912391
+2,West Indies,0,LMP Simmons,AD Mathews,CH Gayle,,0,0,0,bowled,LMP Simmons,,3912391
+2,West Indies,0,DJ Bravo,AD Mathews,CH Gayle,,0,0,0,,,,3912391
+2,West Indies,0,DJ Bravo,AD Mathews,CH Gayle,,0,0,0,bowled,DJ Bravo,,3912391
+2,West Indies,1,CH Gayle,I Udana,S Chanderpaul,,0,0,0,,,,3912391
+2,West Indies,1,CH Gayle,I Udana,S Chanderpaul,,0,0,0,,,,3912391
+2,West Indies,1,CH Gayle,I Udana,S Chanderpaul,,0,0,0,,,,3912391
+2,West Indies,1,CH Gayle,I Udana,S Chanderpaul,,0,0,0,,,,3912391
+2,West Indies,1,CH Gayle,I Udana,S Chanderpaul,,0,0,0,,,,3912391
+2,West Indies,1,CH Gayle,I Udana,S Chanderpaul,,0,1,1,,,,3912391
+2,West Indies,2,CH Gayle,AD Mathews,S Chanderpaul,,0,4,4,,,,3912391
+2,West Indies,2,CH Gayle,AD Mathews,S Chanderpaul,,0,0,0,,,,3912391
+2,West Indies,2,CH Gayle,AD Mathews,S Chanderpaul,,0,0,0,,,,3912391
+2,West Indies,2,CH Gayle,AD Mathews,S Chanderpaul,,0,0,0,,,,3912391
+2,West Indies,2,CH Gayle,AD Mathews,S Chanderpaul,,0,1,1,,,,3912391
+2,West Indies,2,S Chanderpaul,AD Mathews,CH Gayle,,0,0,0,,,,3912391
+2,West Indies,3,CH Gayle,SL Malinga,S Chanderpaul,,0,0,0,,,,3912391
+2,West Indies,3,CH Gayle,SL Malinga,S Chanderpaul,wides,1,1,0,,,,3912391
+2,West Indies,3,CH Gayle,SL Malinga,S Chanderpaul,,0,0,0,,,,3912391
+2,West Indies,3,CH Gayle,SL Malinga,S Chanderpaul,,0,4,4,,,,3912391
+2,West Indies,3,CH Gayle,SL Malinga,S Chanderpaul,,0,4,4,,,,3912391
+2,West Indies,3,CH Gayle,SL Malinga,S Chanderpaul,,0,0,0,,,,3912391
+2,West Indies,3,CH Gayle,SL Malinga,S Chanderpaul,,0,4,4,,,,3912391
+2,West Indies,4,S Chanderpaul,AD Mathews,CH Gayle,,0,0,0,,,,3912391
+2,West Indies,4,S Chanderpaul,AD Mathews,CH Gayle,,0,0,0,,,,3912391
+2,West Indies,4,S Chanderpaul,AD Mathews,CH Gayle,,0,0,0,,,,3912391
+2,West Indies,4,S Chanderpaul,AD Mathews,CH Gayle,,0,1,1,,,,3912391
+2,West Indies,4,CH Gayle,AD Mathews,S Chanderpaul,,0,0,0,,,,3912391
+2,West Indies,4,CH Gayle,AD Mathews,S Chanderpaul,,0,0,0,,,,3912391
+2,West Indies,5,S Chanderpaul,I Udana,CH Gayle,,0,0,0,,,,3912391
+2,West Indies,5,S Chanderpaul,I Udana,CH Gayle,,0,1,1,,,,3912391
+2,West Indies,5,CH Gayle,I Udana,S Chanderpaul,,0,0,0,,,,3912391
+2,West Indies,5,CH Gayle,I Udana,S Chanderpaul,,0,6,6,,,,3912391
+2,West Indies,5,CH Gayle,I Udana,S Chanderpaul,wides,1,1,0,,,,3912391
+2,West Indies,5,CH Gayle,I Udana,S Chanderpaul,,0,0,0,,,,3912391
+2,West Indies,5,CH Gayle,I Udana,S Chanderpaul,,0,0,0,,,,3912391
+2,West Indies,6,S Chanderpaul,BAW Mendis,CH Gayle,,0,1,1,,,,3912391
+2,West Indies,6,CH Gayle,BAW Mendis,S Chanderpaul,,0,0,0,,,,3912391
+2,West Indies,6,CH Gayle,BAW Mendis,S Chanderpaul,,0,1,1,,,,3912391
+2,West Indies,6,S Chanderpaul,BAW Mendis,CH Gayle,,0,2,2,,,,3912391
+2,West Indies,6,S Chanderpaul,BAW Mendis,CH Gayle,,0,0,0,,,,3912391
+2,West Indies,6,S Chanderpaul,BAW Mendis,CH Gayle,,0,1,1,,,,3912391
+2,West Indies,7,S Chanderpaul,AD Mathews,CH Gayle,,0,0,0,,,,3912391
+2,West Indies,7,S Chanderpaul,AD Mathews,CH Gayle,,0,1,1,,,,3912391
+2,West Indies,7,CH Gayle,AD Mathews,S Chanderpaul,,0,0,0,,,,3912391
+2,West Indies,7,CH Gayle,AD Mathews,S Chanderpaul,,0,2,2,,,,3912391
+2,West Indies,7,CH Gayle,AD Mathews,S Chanderpaul,,0,4,4,,,,3912391
+2,West Indies,7,CH Gayle,AD Mathews,S Chanderpaul,,0,2,2,,,,3912391
+2,West Indies,8,S Chanderpaul,BAW Mendis,CH Gayle,,0,0,0,,,,3912391
+2,West Indies,8,S Chanderpaul,BAW Mendis,CH Gayle,,0,0,0,lbw,S Chanderpaul,,3912391
+2,West Indies,8,RR Sarwan,BAW Mendis,CH Gayle,legbyes,2,2,0,,,,3912391
+2,West Indies,8,RR Sarwan,BAW Mendis,CH Gayle,noballs,1,1,0,,,,3912391
+2,West Indies,8,RR Sarwan,BAW Mendis,CH Gayle,,0,0,0,,,,3912391
+2,West Indies,8,RR Sarwan,BAW Mendis,CH Gayle,,0,0,0,,,,3912391
+2,West Indies,8,RR Sarwan,BAW Mendis,CH Gayle,,0,0,0,,,,3912391
+2,West Indies,9,CH Gayle,M Muralitharan,RR Sarwan,,0,4,4,,,,3912391
+2,West Indies,9,CH Gayle,M Muralitharan,RR Sarwan,,0,1,1,,,,3912391
+2,West Indies,9,RR Sarwan,M Muralitharan,CH Gayle,,0,1,1,,,,3912391
+2,West Indies,9,CH Gayle,M Muralitharan,RR Sarwan,,0,0,0,,,,3912391
+2,West Indies,9,CH Gayle,M Muralitharan,RR Sarwan,,0,1,1,,,,3912391
+2,West Indies,9,RR Sarwan,M Muralitharan,CH Gayle,,0,1,1,,,,3912391
+2,West Indies,10,RR Sarwan,SL Malinga,CH Gayle,wides,1,1,0,,,,3912391
+2,West Indies,10,RR Sarwan,SL Malinga,CH Gayle,byes,1,1,0,,,,3912391
+2,West Indies,10,CH Gayle,SL Malinga,RR Sarwan,,0,1,1,,,,3912391
+2,West Indies,10,RR Sarwan,SL Malinga,CH Gayle,,0,0,0,,,,3912391
+2,West Indies,10,RR Sarwan,SL Malinga,CH Gayle,,0,2,2,,,,3912391
+2,West Indies,10,RR Sarwan,SL Malinga,CH Gayle,,0,1,1,,,,3912391
+2,West Indies,10,CH Gayle,SL Malinga,RR Sarwan,,0,4,4,,,,3912391
+2,West Indies,11,RR Sarwan,M Muralitharan,CH Gayle,,0,0,0,caught,RR Sarwan,AD Mathews,3912391
+2,West Indies,11,CH Gayle,M Muralitharan,KA Pollard,,0,4,4,,,,3912391
+2,West Indies,11,CH Gayle,M Muralitharan,KA Pollard,,0,0,0,,,,3912391
+2,West Indies,11,CH Gayle,M Muralitharan,KA Pollard,,0,1,1,,,,3912391
+2,West Indies,11,KA Pollard,M Muralitharan,CH Gayle,,0,0,0,,,,3912391
+2,West Indies,11,KA Pollard,M Muralitharan,CH Gayle,wides,1,1,0,,,,3912391
+2,West Indies,11,KA Pollard,M Muralitharan,CH Gayle,,0,1,1,,,,3912391
+2,West Indies,12,KA Pollard,BAW Mendis,CH Gayle,,0,0,0,,,,3912391
+2,West Indies,12,KA Pollard,BAW Mendis,CH Gayle,,0,0,0,,,,3912391
+2,West Indies,12,KA Pollard,BAW Mendis,CH Gayle,,0,0,0,,,,3912391
+2,West Indies,12,KA Pollard,BAW Mendis,CH Gayle,,0,0,0,,,,3912391
+2,West Indies,12,KA Pollard,BAW Mendis,CH Gayle,,0,0,0,,,,3912391
+2,West Indies,12,KA Pollard,BAW Mendis,CH Gayle,,0,1,1,,,,3912391
+2,West Indies,13,KA Pollard,M Muralitharan,CH Gayle,,0,1,1,,,,3912391
+2,West Indies,13,CH Gayle,M Muralitharan,KA Pollard,,0,1,1,,,,3912391
+2,West Indies,13,KA Pollard,M Muralitharan,CH Gayle,,0,0,0,,,,3912391
+2,West Indies,13,KA Pollard,M Muralitharan,CH Gayle,wides,1,1,0,stumped,KA Pollard,KC Sangakkara,3912391
+2,West Indies,13,D Ramdin,M Muralitharan,CH Gayle,,0,1,1,,,,3912391
+2,West Indies,13,CH Gayle,M Muralitharan,D Ramdin,,0,1,1,,,,3912391
+2,West Indies,13,D Ramdin,M Muralitharan,CH Gayle,,0,0,0,,,,3912391
+2,West Indies,14,CH Gayle,I Udana,D Ramdin,,0,0,0,,,,3912391
+2,West Indies,14,CH Gayle,I Udana,D Ramdin,,0,1,1,,,,3912391
+2,West Indies,14,D Ramdin,I Udana,CH Gayle,,0,4,4,,,,3912391
+2,West Indies,14,D Ramdin,I Udana,CH Gayle,,0,4,4,,,,3912391
+2,West Indies,14,D Ramdin,I Udana,CH Gayle,,0,0,0,caught,D Ramdin,DPMD Jayawardene,3912391
+2,West Indies,14,JE Taylor,I Udana,CH Gayle,,0,2,2,,,,3912391
+2,West Indies,15,CH Gayle,M Muralitharan,JE Taylor,,0,6,6,,,,3912391
+2,West Indies,15,CH Gayle,M Muralitharan,JE Taylor,,0,1,1,,,,3912391
+2,West Indies,15,JE Taylor,M Muralitharan,CH Gayle,,0,0,0,caught,JE Taylor,KMDN Kulasekara,3912391
+2,West Indies,15,CH Gayle,M Muralitharan,DJG Sammy,,0,1,1,,,,3912391
+2,West Indies,15,DJG Sammy,M Muralitharan,CH Gayle,,0,0,0,,,,3912391
+2,West Indies,15,DJG Sammy,M Muralitharan,CH Gayle,,0,1,1,,,,3912391
+2,West Indies,16,DJG Sammy,BAW Mendis,CH Gayle,,0,0,0,,,,3912391
+2,West Indies,16,DJG Sammy,BAW Mendis,CH Gayle,,0,0,0,caught,DJG Sammy,J Mubarak,3912391
+2,West Indies,16,CH Gayle,BAW Mendis,SJ Benn,wides,1,1,0,,,,3912391
+2,West Indies,16,CH Gayle,BAW Mendis,SJ Benn,,0,1,1,,,,3912391
+2,West Indies,16,SJ Benn,BAW Mendis,CH Gayle,,0,0,0,,,,3912391
+2,West Indies,16,SJ Benn,BAW Mendis,CH Gayle,,0,0,0,,,,3912391
+2,West Indies,16,SJ Benn,BAW Mendis,CH Gayle,,0,0,0,,,,3912391
+2,West Indies,17,CH Gayle,SL Malinga,SJ Benn,,0,0,0,,,,3912391
+2,West Indies,17,CH Gayle,SL Malinga,SJ Benn,wides,1,1,0,,,,3912391
+2,West Indies,17,CH Gayle,SL Malinga,SJ Benn,,0,0,0,,,,3912391
+2,West Indies,17,CH Gayle,SL Malinga,SJ Benn,,0,1,1,,,,3912391
+2,West Indies,17,SJ Benn,SL Malinga,CH Gayle,,0,0,0,bowled,SJ Benn,,3912391

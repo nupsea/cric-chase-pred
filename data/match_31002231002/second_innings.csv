@@ -1,0 +1,128 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Hong Kong,0,Bella Poon,Chaya Mughal,Y Daswani,,0,0,0,,,,31002231002
+2,Hong Kong,0,Bella Poon,Chaya Mughal,Y Daswani,,0,1,1,,,,31002231002
+2,Hong Kong,0,Y Daswani,Chaya Mughal,Bella Poon,,0,0,0,,,,31002231002
+2,Hong Kong,0,Y Daswani,Chaya Mughal,Bella Poon,,0,0,0,,,,31002231002
+2,Hong Kong,0,Y Daswani,Chaya Mughal,Bella Poon,,0,0,0,,,,31002231002
+2,Hong Kong,0,Y Daswani,Chaya Mughal,Bella Poon,,0,0,0,,,,31002231002
+2,Hong Kong,1,Bella Poon,S Venkataraman,Y Daswani,,0,0,0,,,,31002231002
+2,Hong Kong,1,Bella Poon,S Venkataraman,Y Daswani,,0,0,0,,,,31002231002
+2,Hong Kong,1,Bella Poon,S Venkataraman,Y Daswani,,0,0,0,,,,31002231002
+2,Hong Kong,1,Bella Poon,S Venkataraman,Y Daswani,,0,1,1,,,,31002231002
+2,Hong Kong,1,Y Daswani,S Venkataraman,Bella Poon,,0,0,0,,,,31002231002
+2,Hong Kong,1,Y Daswani,S Venkataraman,Bella Poon,,0,1,1,,,,31002231002
+2,Hong Kong,2,Y Daswani,Chaya Mughal,Bella Poon,,0,1,1,,,,31002231002
+2,Hong Kong,2,Bella Poon,Chaya Mughal,Y Daswani,,0,0,0,,,,31002231002
+2,Hong Kong,2,Bella Poon,Chaya Mughal,Y Daswani,,0,0,0,,,,31002231002
+2,Hong Kong,2,Bella Poon,Chaya Mughal,Y Daswani,,0,0,0,,,,31002231002
+2,Hong Kong,2,Bella Poon,Chaya Mughal,Y Daswani,,0,2,2,,,,31002231002
+2,Hong Kong,2,Bella Poon,Chaya Mughal,Y Daswani,,0,0,0,,,,31002231002
+2,Hong Kong,3,Y Daswani,S Venkataraman,Bella Poon,,0,1,1,,,,31002231002
+2,Hong Kong,3,Bella Poon,S Venkataraman,Y Daswani,,0,4,4,,,,31002231002
+2,Hong Kong,3,Bella Poon,S Venkataraman,Y Daswani,,0,0,0,caught,Bella Poon,KKN Egodage,31002231002
+2,Hong Kong,3,JM Davies,S Venkataraman,Y Daswani,,0,0,0,,,,31002231002
+2,Hong Kong,3,JM Davies,S Venkataraman,Y Daswani,,0,0,0,,,,31002231002
+2,Hong Kong,3,JM Davies,S Venkataraman,Y Daswani,,0,0,0,,,,31002231002
+2,Hong Kong,4,Y Daswani,Chaya Mughal,JM Davies,,0,0,0,,,,31002231002
+2,Hong Kong,4,Y Daswani,Chaya Mughal,JM Davies,,0,1,1,,,,31002231002
+2,Hong Kong,4,JM Davies,Chaya Mughal,Y Daswani,,0,0,0,,,,31002231002
+2,Hong Kong,4,JM Davies,Chaya Mughal,Y Daswani,,0,0,0,,,,31002231002
+2,Hong Kong,4,JM Davies,Chaya Mughal,Y Daswani,,0,1,1,,,,31002231002
+2,Hong Kong,4,Y Daswani,Chaya Mughal,JM Davies,,0,2,2,,,,31002231002
+2,Hong Kong,5,JM Davies,S Venkataraman,Y Daswani,,0,0,0,,,,31002231002
+2,Hong Kong,5,JM Davies,S Venkataraman,Y Daswani,,0,0,0,,,,31002231002
+2,Hong Kong,5,JM Davies,S Venkataraman,Y Daswani,,0,0,0,,,,31002231002
+2,Hong Kong,5,JM Davies,S Venkataraman,Y Daswani,byes,1,1,0,,,,31002231002
+2,Hong Kong,5,Y Daswani,S Venkataraman,JM Davies,,0,0,0,,,,31002231002
+2,Hong Kong,5,Y Daswani,S Venkataraman,JM Davies,,0,1,1,run out,Y Daswani,,31002231002
+2,Hong Kong,6,KY Chan,Chaya Mughal,JM Davies,,0,0,0,,,,31002231002
+2,Hong Kong,6,KY Chan,Chaya Mughal,JM Davies,,0,0,0,,,,31002231002
+2,Hong Kong,6,KY Chan,Chaya Mughal,JM Davies,,0,0,0,,,,31002231002
+2,Hong Kong,6,KY Chan,Chaya Mughal,JM Davies,,0,1,1,,,,31002231002
+2,Hong Kong,6,JM Davies,Chaya Mughal,KY Chan,,0,0,0,,,,31002231002
+2,Hong Kong,6,JM Davies,Chaya Mughal,KY Chan,,0,0,0,,,,31002231002
+2,Hong Kong,7,KY Chan,CR Seneviratna,JM Davies,,0,0,0,,,,31002231002
+2,Hong Kong,7,KY Chan,CR Seneviratna,JM Davies,,0,0,0,,,,31002231002
+2,Hong Kong,7,KY Chan,CR Seneviratna,JM Davies,,0,2,2,,,,31002231002
+2,Hong Kong,7,KY Chan,CR Seneviratna,JM Davies,,0,4,4,,,,31002231002
+2,Hong Kong,7,KY Chan,CR Seneviratna,JM Davies,,0,1,1,,,,31002231002
+2,Hong Kong,7,JM Davies,CR Seneviratna,KY Chan,,0,1,1,,,,31002231002
+2,Hong Kong,8,JM Davies,ER Oza,KY Chan,,0,0,0,,,,31002231002
+2,Hong Kong,8,JM Davies,ER Oza,KY Chan,,0,0,0,,,,31002231002
+2,Hong Kong,8,JM Davies,ER Oza,KY Chan,wides,2,2,0,,,,31002231002
+2,Hong Kong,8,KY Chan,ER Oza,JM Davies,,0,1,1,,,,31002231002
+2,Hong Kong,8,JM Davies,ER Oza,KY Chan,,0,0,0,,,,31002231002
+2,Hong Kong,8,JM Davies,ER Oza,KY Chan,,0,0,0,,,,31002231002
+2,Hong Kong,8,JM Davies,ER Oza,KY Chan,,0,0,0,,,,31002231002
+2,Hong Kong,9,KY Chan,CR Seneviratna,JM Davies,,0,0,0,,,,31002231002
+2,Hong Kong,9,KY Chan,CR Seneviratna,JM Davies,,0,1,1,,,,31002231002
+2,Hong Kong,9,JM Davies,CR Seneviratna,KY Chan,,0,0,0,,,,31002231002
+2,Hong Kong,9,JM Davies,CR Seneviratna,KY Chan,,0,2,2,,,,31002231002
+2,Hong Kong,9,JM Davies,CR Seneviratna,KY Chan,wides,1,1,0,,,,31002231002
+2,Hong Kong,9,JM Davies,CR Seneviratna,KY Chan,,0,0,0,,,,31002231002
+2,Hong Kong,9,JM Davies,CR Seneviratna,KY Chan,,0,0,0,,,,31002231002
+2,Hong Kong,10,KY Chan,ER Oza,JM Davies,,0,0,0,,,,31002231002
+2,Hong Kong,10,KY Chan,ER Oza,JM Davies,,0,0,0,,,,31002231002
+2,Hong Kong,10,KY Chan,ER Oza,JM Davies,,0,1,1,,,,31002231002
+2,Hong Kong,10,JM Davies,ER Oza,KY Chan,,0,0,0,,,,31002231002
+2,Hong Kong,10,JM Davies,ER Oza,KY Chan,,0,1,1,,,,31002231002
+2,Hong Kong,10,KY Chan,ER Oza,JM Davies,,0,2,2,,,,31002231002
+2,Hong Kong,11,JM Davies,CR Seneviratna,KY Chan,,0,0,0,lbw,JM Davies,,31002231002
+2,Hong Kong,11,M Hill,CR Seneviratna,KY Chan,,0,0,0,,,,31002231002
+2,Hong Kong,11,M Hill,CR Seneviratna,KY Chan,,0,1,1,,,,31002231002
+2,Hong Kong,11,KY Chan,CR Seneviratna,M Hill,,0,1,1,,,,31002231002
+2,Hong Kong,11,M Hill,CR Seneviratna,KY Chan,,0,1,1,,,,31002231002
+2,Hong Kong,11,KY Chan,CR Seneviratna,M Hill,,0,1,1,,,,31002231002
+2,Hong Kong,12,KY Chan,ER Oza,M Hill,,0,0,0,,,,31002231002
+2,Hong Kong,12,KY Chan,ER Oza,M Hill,wides,1,1,0,,,,31002231002
+2,Hong Kong,12,KY Chan,ER Oza,M Hill,,0,0,0,,,,31002231002
+2,Hong Kong,12,KY Chan,ER Oza,M Hill,,0,1,1,,,,31002231002
+2,Hong Kong,12,M Hill,ER Oza,KY Chan,,0,0,0,,,,31002231002
+2,Hong Kong,12,M Hill,ER Oza,KY Chan,,0,1,1,,,,31002231002
+2,Hong Kong,12,KY Chan,ER Oza,M Hill,,0,1,1,,,,31002231002
+2,Hong Kong,13,KY Chan,Humaira Tasneem,M Hill,,0,0,0,,,,31002231002
+2,Hong Kong,13,KY Chan,Humaira Tasneem,M Hill,,0,2,2,,,,31002231002
+2,Hong Kong,13,KY Chan,Humaira Tasneem,M Hill,,0,0,0,caught,KY Chan,ER Oza,31002231002
+2,Hong Kong,13,MBA Lamplough,Humaira Tasneem,M Hill,,0,1,1,,,,31002231002
+2,Hong Kong,13,M Hill,Humaira Tasneem,MBA Lamplough,,0,1,1,,,,31002231002
+2,Hong Kong,13,MBA Lamplough,Humaira Tasneem,M Hill,,0,0,0,,,,31002231002
+2,Hong Kong,14,M Hill,KKN Egodage,MBA Lamplough,,0,1,1,,,,31002231002
+2,Hong Kong,14,MBA Lamplough,KKN Egodage,M Hill,,0,0,0,,,,31002231002
+2,Hong Kong,14,MBA Lamplough,KKN Egodage,M Hill,,0,0,0,,,,31002231002
+2,Hong Kong,14,MBA Lamplough,KKN Egodage,M Hill,wides,1,1,0,,,,31002231002
+2,Hong Kong,14,MBA Lamplough,KKN Egodage,M Hill,,0,0,0,,,,31002231002
+2,Hong Kong,14,MBA Lamplough,KKN Egodage,M Hill,,0,2,2,,,,31002231002
+2,Hong Kong,14,MBA Lamplough,KKN Egodage,M Hill,,0,0,0,run out,MBA Lamplough,,31002231002
+2,Hong Kong,15,M Hill,Humaira Tasneem,JE Titmuss,,0,1,1,,,,31002231002
+2,Hong Kong,15,JE Titmuss,Humaira Tasneem,M Hill,,0,0,0,,,,31002231002
+2,Hong Kong,15,JE Titmuss,Humaira Tasneem,M Hill,,0,0,0,,,,31002231002
+2,Hong Kong,15,JE Titmuss,Humaira Tasneem,M Hill,,0,0,0,,,,31002231002
+2,Hong Kong,15,JE Titmuss,Humaira Tasneem,M Hill,,0,0,0,,,,31002231002
+2,Hong Kong,15,JE Titmuss,Humaira Tasneem,M Hill,,0,0,0,,,,31002231002
+2,Hong Kong,16,M Hill,KKN Egodage,JE Titmuss,,0,2,2,,,,31002231002
+2,Hong Kong,16,M Hill,KKN Egodage,JE Titmuss,,0,1,1,,,,31002231002
+2,Hong Kong,16,JE Titmuss,KKN Egodage,M Hill,,0,0,0,,,,31002231002
+2,Hong Kong,16,JE Titmuss,KKN Egodage,M Hill,,0,4,4,,,,31002231002
+2,Hong Kong,16,JE Titmuss,KKN Egodage,M Hill,,0,2,2,,,,31002231002
+2,Hong Kong,16,JE Titmuss,KKN Egodage,M Hill,,0,0,0,,,,31002231002
+2,Hong Kong,17,M Hill,CR Seneviratna,JE Titmuss,,0,2,2,,,,31002231002
+2,Hong Kong,17,M Hill,CR Seneviratna,JE Titmuss,,0,1,1,,,,31002231002
+2,Hong Kong,17,JE Titmuss,CR Seneviratna,M Hill,,0,0,0,,,,31002231002
+2,Hong Kong,17,JE Titmuss,CR Seneviratna,M Hill,,0,4,4,,,,31002231002
+2,Hong Kong,17,JE Titmuss,CR Seneviratna,M Hill,,0,2,2,,,,31002231002
+2,Hong Kong,17,JE Titmuss,CR Seneviratna,M Hill,,0,0,0,,,,31002231002
+2,Hong Kong,18,M Hill,ER Oza,JE Titmuss,,0,0,0,lbw,M Hill,,31002231002
+2,Hong Kong,18,YS To,ER Oza,JE Titmuss,wides,1,1,0,,,,31002231002
+2,Hong Kong,18,YS To,ER Oza,JE Titmuss,,0,1,1,,,,31002231002
+2,Hong Kong,18,JE Titmuss,ER Oza,YS To,,0,0,0,,,,31002231002
+2,Hong Kong,18,JE Titmuss,ER Oza,YS To,,0,1,1,,,,31002231002
+2,Hong Kong,18,YS To,ER Oza,JE Titmuss,,0,0,0,run out,YS To,,31002231002
+2,Hong Kong,18,JE Titmuss,ER Oza,Ruchitha Venkatesh,,0,0,0,,,,31002231002
+2,Hong Kong,19,Ruchitha Venkatesh,S Venkataraman,JE Titmuss,,0,2,2,,,,31002231002
+2,Hong Kong,19,Ruchitha Venkatesh,S Venkataraman,JE Titmuss,,0,2,2,,,,31002231002
+2,Hong Kong,19,Ruchitha Venkatesh,S Venkataraman,JE Titmuss,,0,1,1,,,,31002231002
+2,Hong Kong,19,JE Titmuss,S Venkataraman,Ruchitha Venkatesh,,0,0,0,stumped,JE Titmuss,Chaya Mughal,31002231002
+2,Hong Kong,19,Chan Ka Man,S Venkataraman,Ruchitha Venkatesh,legbyes,1,1,0,,,,31002231002
+2,Hong Kong,19,Ruchitha Venkatesh,S Venkataraman,Chan Ka Man,wides,2,2,0,,,,31002231002
+2,Hong Kong,19,Chan Ka Man,S Venkataraman,Ruchitha Venkatesh,wides,1,1,0,,,,31002231002
+2,Hong Kong,19,Chan Ka Man,S Venkataraman,Ruchitha Venkatesh,legbyes,1,1,0,,,,31002231002

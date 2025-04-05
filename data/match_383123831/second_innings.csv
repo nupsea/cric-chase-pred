@@ -1,0 +1,90 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Netherlands,0,TP Visee,MRJ Watt,BN Cooper,,0,1,1,,,,383123831
+2,Netherlands,0,BN Cooper,MRJ Watt,TP Visee,,0,0,0,bowled,BN Cooper,,383123831
+2,Netherlands,0,W Barresi,MRJ Watt,TP Visee,,0,2,2,,,,383123831
+2,Netherlands,0,W Barresi,MRJ Watt,TP Visee,legbyes,2,2,0,,,,383123831
+2,Netherlands,0,W Barresi,MRJ Watt,TP Visee,,0,2,2,,,,383123831
+2,Netherlands,0,W Barresi,MRJ Watt,TP Visee,,0,1,1,,,,383123831
+2,Netherlands,1,W Barresi,SM Sharif,TP Visee,,0,0,0,bowled,W Barresi,,383123831
+2,Netherlands,1,BFW de Leede,SM Sharif,TP Visee,,0,1,1,,,,383123831
+2,Netherlands,1,TP Visee,SM Sharif,BFW de Leede,,0,0,0,,,,383123831
+2,Netherlands,1,TP Visee,SM Sharif,BFW de Leede,,0,2,2,,,,383123831
+2,Netherlands,1,TP Visee,SM Sharif,BFW de Leede,,0,4,4,,,,383123831
+2,Netherlands,1,TP Visee,SM Sharif,BFW de Leede,,0,4,4,,,,383123831
+2,Netherlands,2,BFW de Leede,AC Evans,TP Visee,,0,2,2,,,,383123831
+2,Netherlands,2,BFW de Leede,AC Evans,TP Visee,,0,0,0,,,,383123831
+2,Netherlands,2,BFW de Leede,AC Evans,TP Visee,,0,1,1,,,,383123831
+2,Netherlands,2,TP Visee,AC Evans,BFW de Leede,,0,0,0,,,,383123831
+2,Netherlands,2,TP Visee,AC Evans,BFW de Leede,,0,4,4,,,,383123831
+2,Netherlands,2,TP Visee,AC Evans,BFW de Leede,,0,0,0,,,,383123831
+2,Netherlands,3,BFW de Leede,Hamza Tahir,TP Visee,,0,0,0,,,,383123831
+2,Netherlands,3,BFW de Leede,Hamza Tahir,TP Visee,,0,1,1,,,,383123831
+2,Netherlands,3,TP Visee,Hamza Tahir,BFW de Leede,,0,0,0,,,,383123831
+2,Netherlands,3,TP Visee,Hamza Tahir,BFW de Leede,,0,1,1,,,,383123831
+2,Netherlands,3,BFW de Leede,Hamza Tahir,TP Visee,,0,0,0,,,,383123831
+2,Netherlands,3,BFW de Leede,Hamza Tahir,TP Visee,,0,2,2,,,,383123831
+2,Netherlands,4,TP Visee,MA Leask,BFW de Leede,,0,1,1,,,,383123831
+2,Netherlands,4,BFW de Leede,MA Leask,TP Visee,,0,1,1,,,,383123831
+2,Netherlands,4,TP Visee,MA Leask,BFW de Leede,,0,0,0,lbw,TP Visee,,383123831
+2,Netherlands,4,SA Edwards,MA Leask,BFW de Leede,,0,4,4,,,,383123831
+2,Netherlands,4,SA Edwards,MA Leask,BFW de Leede,wides,1,1,0,,,,383123831
+2,Netherlands,4,SA Edwards,MA Leask,BFW de Leede,,0,1,1,,,,383123831
+2,Netherlands,4,BFW de Leede,MA Leask,SA Edwards,,0,0,0,,,,383123831
+2,Netherlands,5,SA Edwards,AC Evans,BFW de Leede,legbyes,1,1,0,,,,383123831
+2,Netherlands,5,BFW de Leede,AC Evans,SA Edwards,,0,1,1,,,,383123831
+2,Netherlands,5,SA Edwards,AC Evans,BFW de Leede,wides,1,1,0,,,,383123831
+2,Netherlands,5,SA Edwards,AC Evans,BFW de Leede,,0,1,1,,,,383123831
+2,Netherlands,5,BFW de Leede,AC Evans,SA Edwards,,0,0,0,caught,BFW de Leede,RD Berrington,383123831
+2,Netherlands,5,SA Edwards,AC Evans,PM Seelaar,,0,4,4,,,,383123831
+2,Netherlands,5,SA Edwards,AC Evans,PM Seelaar,,0,1,1,,,,383123831
+2,Netherlands,6,SA Edwards,SM Sharif,PM Seelaar,wides,1,1,0,,,,383123831
+2,Netherlands,6,SA Edwards,SM Sharif,PM Seelaar,,0,1,1,,,,383123831
+2,Netherlands,6,PM Seelaar,SM Sharif,SA Edwards,,0,0,0,,,,383123831
+2,Netherlands,6,PM Seelaar,SM Sharif,SA Edwards,,0,2,2,,,,383123831
+2,Netherlands,6,PM Seelaar,SM Sharif,SA Edwards,,0,0,0,,,,383123831
+2,Netherlands,6,PM Seelaar,SM Sharif,SA Edwards,,0,0,0,,,,383123831
+2,Netherlands,6,PM Seelaar,SM Sharif,SA Edwards,,0,0,0,,,,383123831
+2,Netherlands,7,SA Edwards,Hamza Tahir,PM Seelaar,,0,0,0,,,,383123831
+2,Netherlands,7,SA Edwards,Hamza Tahir,PM Seelaar,,0,1,1,,,,383123831
+2,Netherlands,7,PM Seelaar,Hamza Tahir,SA Edwards,,0,0,0,,,,383123831
+2,Netherlands,7,PM Seelaar,Hamza Tahir,SA Edwards,,0,2,2,,,,383123831
+2,Netherlands,7,PM Seelaar,Hamza Tahir,SA Edwards,,0,0,0,bowled,PM Seelaar,,383123831
+2,Netherlands,7,T van der Gugten,Hamza Tahir,SA Edwards,,0,1,1,,,,383123831
+2,Netherlands,8,T van der Gugten,MRJ Watt,SA Edwards,,0,2,2,,,,383123831
+2,Netherlands,8,T van der Gugten,MRJ Watt,SA Edwards,,0,2,2,,,,383123831
+2,Netherlands,8,T van der Gugten,MRJ Watt,SA Edwards,,0,1,1,,,,383123831
+2,Netherlands,8,SA Edwards,MRJ Watt,T van der Gugten,,0,0,0,,,,383123831
+2,Netherlands,8,SA Edwards,MRJ Watt,T van der Gugten,,0,0,0,,,,383123831
+2,Netherlands,8,SA Edwards,MRJ Watt,T van der Gugten,,0,1,1,,,,383123831
+2,Netherlands,9,SA Edwards,Hamza Tahir,T van der Gugten,,0,1,1,,,,383123831
+2,Netherlands,9,T van der Gugten,Hamza Tahir,SA Edwards,,0,6,6,,,,383123831
+2,Netherlands,9,T van der Gugten,Hamza Tahir,SA Edwards,,0,1,1,,,,383123831
+2,Netherlands,9,SA Edwards,Hamza Tahir,T van der Gugten,,0,1,1,,,,383123831
+2,Netherlands,9,T van der Gugten,Hamza Tahir,SA Edwards,,0,0,0,caught,T van der Gugten,AC Evans,383123831
+2,Netherlands,9,SA Edwards,Hamza Tahir,S Snater,,0,0,0,,,,383123831
+2,Netherlands,10,S Snater,MRJ Watt,SA Edwards,,0,1,1,,,,383123831
+2,Netherlands,10,SA Edwards,MRJ Watt,S Snater,,0,0,0,,,,383123831
+2,Netherlands,10,SA Edwards,MRJ Watt,S Snater,,0,4,4,,,,383123831
+2,Netherlands,10,SA Edwards,MRJ Watt,S Snater,,0,1,1,,,,383123831
+2,Netherlands,10,S Snater,MRJ Watt,SA Edwards,,0,1,1,,,,383123831
+2,Netherlands,10,SA Edwards,MRJ Watt,S Snater,,0,1,1,,,,383123831
+2,Netherlands,11,SA Edwards,MA Leask,S Snater,,0,2,2,,,,383123831
+2,Netherlands,11,SA Edwards,MA Leask,S Snater,wides,1,1,0,,,,383123831
+2,Netherlands,11,SA Edwards,MA Leask,S Snater,,0,0,0,,,,383123831
+2,Netherlands,11,SA Edwards,MA Leask,S Snater,legbyes,4,4,0,,,,383123831
+2,Netherlands,11,SA Edwards,MA Leask,S Snater,,0,2,2,,,,383123831
+2,Netherlands,11,SA Edwards,MA Leask,S Snater,,0,2,2,,,,383123831
+2,Netherlands,11,SA Edwards,MA Leask,S Snater,,0,1,1,,,,383123831
+2,Netherlands,12,SA Edwards,RD Berrington,S Snater,,0,1,1,,,,383123831
+2,Netherlands,12,S Snater,RD Berrington,SA Edwards,wides,1,1,0,,,,383123831
+2,Netherlands,12,S Snater,RD Berrington,SA Edwards,,0,2,2,,,,383123831
+2,Netherlands,12,S Snater,RD Berrington,SA Edwards,,0,2,2,,,,383123831
+2,Netherlands,12,S Snater,RD Berrington,SA Edwards,,0,0,0,bowled,S Snater,,383123831
+2,Netherlands,12,PA van Meekeren,RD Berrington,SA Edwards,,0,0,0,,,,383123831
+2,Netherlands,12,PA van Meekeren,RD Berrington,SA Edwards,,0,1,1,,,,383123831
+2,Netherlands,13,PA van Meekeren,Hamza Tahir,SA Edwards,,0,0,0,,,,383123831
+2,Netherlands,13,PA van Meekeren,Hamza Tahir,SA Edwards,,0,6,6,,,,383123831
+2,Netherlands,13,PA van Meekeren,Hamza Tahir,SA Edwards,,0,1,1,,,,383123831
+2,Netherlands,13,SA Edwards,Hamza Tahir,PA van Meekeren,,0,1,1,,,,383123831
+2,Netherlands,13,PA van Meekeren,Hamza Tahir,SA Edwards,,0,0,0,bowled,PA van Meekeren,,383123831
+2,Netherlands,13,FJ Klaassen,Hamza Tahir,SA Edwards,,0,1,1,run out,FJ Klaassen,,383123831

@@ -1,0 +1,121 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Bermuda,0,OO Bascome,FJ Klaassen,DC Stovell,,0,0,0,,,,31308231308
+2,Bermuda,0,OO Bascome,FJ Klaassen,DC Stovell,,0,4,4,,,,31308231308
+2,Bermuda,0,OO Bascome,FJ Klaassen,DC Stovell,,0,0,0,,,,31308231308
+2,Bermuda,0,OO Bascome,FJ Klaassen,DC Stovell,,0,1,1,,,,31308231308
+2,Bermuda,0,DC Stovell,FJ Klaassen,OO Bascome,,0,0,0,,,,31308231308
+2,Bermuda,0,DC Stovell,FJ Klaassen,OO Bascome,,0,1,1,,,,31308231308
+2,Bermuda,1,DC Stovell,PA van Meekeren,OO Bascome,,0,0,0,,,,31308231308
+2,Bermuda,1,DC Stovell,PA van Meekeren,OO Bascome,,0,0,0,,,,31308231308
+2,Bermuda,1,DC Stovell,PA van Meekeren,OO Bascome,,0,1,1,,,,31308231308
+2,Bermuda,1,OO Bascome,PA van Meekeren,DC Stovell,,0,0,0,,,,31308231308
+2,Bermuda,1,OO Bascome,PA van Meekeren,DC Stovell,,0,1,1,,,,31308231308
+2,Bermuda,1,DC Stovell,PA van Meekeren,OO Bascome,,0,4,4,,,,31308231308
+2,Bermuda,2,OO Bascome,RE van der Merwe,DC Stovell,byes,1,1,0,,,,31308231308
+2,Bermuda,2,DC Stovell,RE van der Merwe,OO Bascome,,0,0,0,,,,31308231308
+2,Bermuda,2,DC Stovell,RE van der Merwe,OO Bascome,,0,0,0,,,,31308231308
+2,Bermuda,2,DC Stovell,RE van der Merwe,OO Bascome,,0,1,1,,,,31308231308
+2,Bermuda,2,OO Bascome,RE van der Merwe,DC Stovell,,0,0,0,lbw,OO Bascome,,31308231308
+2,Bermuda,2,AC Douglas,RE van der Merwe,DC Stovell,,0,4,4,,,,31308231308
+2,Bermuda,3,DC Stovell,CN Ackermann,AC Douglas,,0,0,0,,,,31308231308
+2,Bermuda,3,DC Stovell,CN Ackermann,AC Douglas,,0,0,0,,,,31308231308
+2,Bermuda,3,DC Stovell,CN Ackermann,AC Douglas,,0,0,0,,,,31308231308
+2,Bermuda,3,DC Stovell,CN Ackermann,AC Douglas,,0,0,0,lbw,DC Stovell,,31308231308
+2,Bermuda,3,DMW Rawlins,CN Ackermann,AC Douglas,,0,1,1,,,,31308231308
+2,Bermuda,3,AC Douglas,CN Ackermann,DMW Rawlins,,0,0,0,,,,31308231308
+2,Bermuda,4,DMW Rawlins,T van der Gugten,AC Douglas,,0,3,3,,,,31308231308
+2,Bermuda,4,AC Douglas,T van der Gugten,DMW Rawlins,,0,0,0,,,,31308231308
+2,Bermuda,4,AC Douglas,T van der Gugten,DMW Rawlins,,0,0,0,,,,31308231308
+2,Bermuda,4,AC Douglas,T van der Gugten,DMW Rawlins,,0,1,1,,,,31308231308
+2,Bermuda,4,DMW Rawlins,T van der Gugten,AC Douglas,,0,0,0,,,,31308231308
+2,Bermuda,4,DMW Rawlins,T van der Gugten,AC Douglas,,0,6,6,,,,31308231308
+2,Bermuda,5,AC Douglas,PA van Meekeren,DMW Rawlins,,0,1,1,,,,31308231308
+2,Bermuda,5,DMW Rawlins,PA van Meekeren,AC Douglas,,0,2,2,,,,31308231308
+2,Bermuda,5,DMW Rawlins,PA van Meekeren,AC Douglas,,0,0,0,,,,31308231308
+2,Bermuda,5,DMW Rawlins,PA van Meekeren,AC Douglas,,0,4,4,,,,31308231308
+2,Bermuda,5,DMW Rawlins,PA van Meekeren,AC Douglas,,0,0,0,,,,31308231308
+2,Bermuda,5,DMW Rawlins,PA van Meekeren,AC Douglas,,0,0,0,bowled,DMW Rawlins,,31308231308
+2,Bermuda,6,AC Douglas,PM Seelaar,JJ Tucker,,0,0,0,,,,31308231308
+2,Bermuda,6,AC Douglas,PM Seelaar,JJ Tucker,,0,1,1,,,,31308231308
+2,Bermuda,6,JJ Tucker,PM Seelaar,AC Douglas,,0,0,0,,,,31308231308
+2,Bermuda,6,JJ Tucker,PM Seelaar,AC Douglas,,0,0,0,,,,31308231308
+2,Bermuda,6,JJ Tucker,PM Seelaar,AC Douglas,,0,0,0,,,,31308231308
+2,Bermuda,6,JJ Tucker,PM Seelaar,AC Douglas,,0,1,1,,,,31308231308
+2,Bermuda,7,JJ Tucker,RE van der Merwe,AC Douglas,,0,0,0,,,,31308231308
+2,Bermuda,7,JJ Tucker,RE van der Merwe,AC Douglas,,0,4,4,,,,31308231308
+2,Bermuda,7,JJ Tucker,RE van der Merwe,AC Douglas,,0,0,0,,,,31308231308
+2,Bermuda,7,JJ Tucker,RE van der Merwe,AC Douglas,,0,1,1,,,,31308231308
+2,Bermuda,7,AC Douglas,RE van der Merwe,JJ Tucker,,0,1,1,,,,31308231308
+2,Bermuda,7,JJ Tucker,RE van der Merwe,AC Douglas,,0,0,0,,,,31308231308
+2,Bermuda,8,AC Douglas,FJ Klaassen,JJ Tucker,,0,1,1,,,,31308231308
+2,Bermuda,8,JJ Tucker,FJ Klaassen,AC Douglas,,0,1,1,,,,31308231308
+2,Bermuda,8,AC Douglas,FJ Klaassen,JJ Tucker,,0,1,1,,,,31308231308
+2,Bermuda,8,JJ Tucker,FJ Klaassen,AC Douglas,,0,0,0,,,,31308231308
+2,Bermuda,8,JJ Tucker,FJ Klaassen,AC Douglas,,0,1,1,,,,31308231308
+2,Bermuda,8,AC Douglas,FJ Klaassen,JJ Tucker,,0,1,1,,,,31308231308
+2,Bermuda,9,AC Douglas,CN Ackermann,JJ Tucker,,0,0,0,,,,31308231308
+2,Bermuda,9,AC Douglas,CN Ackermann,JJ Tucker,,0,0,0,,,,31308231308
+2,Bermuda,9,AC Douglas,CN Ackermann,JJ Tucker,,0,0,0,,,,31308231308
+2,Bermuda,9,AC Douglas,CN Ackermann,JJ Tucker,,0,0,0,,,,31308231308
+2,Bermuda,9,AC Douglas,CN Ackermann,JJ Tucker,,0,4,4,,,,31308231308
+2,Bermuda,9,AC Douglas,CN Ackermann,JJ Tucker,,0,1,1,,,,31308231308
+2,Bermuda,10,AC Douglas,RE van der Merwe,JJ Tucker,,0,0,0,,,,31308231308
+2,Bermuda,10,AC Douglas,RE van der Merwe,JJ Tucker,,0,1,1,,,,31308231308
+2,Bermuda,10,JJ Tucker,RE van der Merwe,AC Douglas,,0,0,0,,,,31308231308
+2,Bermuda,10,JJ Tucker,RE van der Merwe,AC Douglas,,0,4,4,,,,31308231308
+2,Bermuda,10,JJ Tucker,RE van der Merwe,AC Douglas,,0,0,0,bowled,JJ Tucker,,31308231308
+2,Bermuda,10,DAP Darrell,RE van der Merwe,AC Douglas,,0,0,0,,,,31308231308
+2,Bermuda,11,AC Douglas,PM Seelaar,DAP Darrell,,0,4,4,,,,31308231308
+2,Bermuda,11,AC Douglas,PM Seelaar,DAP Darrell,,0,0,0,,,,31308231308
+2,Bermuda,11,AC Douglas,PM Seelaar,DAP Darrell,,0,2,2,,,,31308231308
+2,Bermuda,11,AC Douglas,PM Seelaar,DAP Darrell,,0,0,0,caught,AC Douglas,MP O'Dowd,31308231308
+2,Bermuda,11,KS Leverock,PM Seelaar,DAP Darrell,,0,0,0,,,,31308231308
+2,Bermuda,11,KS Leverock,PM Seelaar,DAP Darrell,,0,0,0,,,,31308231308
+2,Bermuda,12,DAP Darrell,RE van der Merwe,KS Leverock,,0,0,0,,,,31308231308
+2,Bermuda,12,DAP Darrell,RE van der Merwe,KS Leverock,,0,0,0,,,,31308231308
+2,Bermuda,12,DAP Darrell,RE van der Merwe,KS Leverock,,0,2,2,,,,31308231308
+2,Bermuda,12,DAP Darrell,RE van der Merwe,KS Leverock,,0,0,0,,,,31308231308
+2,Bermuda,12,DAP Darrell,RE van der Merwe,KS Leverock,,0,1,1,,,,31308231308
+2,Bermuda,12,KS Leverock,RE van der Merwe,DAP Darrell,,0,4,4,,,,31308231308
+2,Bermuda,13,DAP Darrell,PA van Meekeren,KS Leverock,,0,0,0,,,,31308231308
+2,Bermuda,13,DAP Darrell,PA van Meekeren,KS Leverock,,0,1,1,,,,31308231308
+2,Bermuda,13,KS Leverock,PA van Meekeren,DAP Darrell,,0,0,0,,,,31308231308
+2,Bermuda,13,KS Leverock,PA van Meekeren,DAP Darrell,,0,2,2,,,,31308231308
+2,Bermuda,13,KS Leverock,PA van Meekeren,DAP Darrell,,0,0,0,,,,31308231308
+2,Bermuda,13,KS Leverock,PA van Meekeren,DAP Darrell,,0,6,6,,,,31308231308
+2,Bermuda,14,DAP Darrell,S Snater,KS Leverock,,0,1,1,,,,31308231308
+2,Bermuda,14,KS Leverock,S Snater,DAP Darrell,,0,1,1,,,,31308231308
+2,Bermuda,14,DAP Darrell,S Snater,KS Leverock,,0,1,1,,,,31308231308
+2,Bermuda,14,KS Leverock,S Snater,DAP Darrell,,0,4,4,,,,31308231308
+2,Bermuda,14,KS Leverock,S Snater,DAP Darrell,,0,1,1,,,,31308231308
+2,Bermuda,14,DAP Darrell,S Snater,KS Leverock,,0,0,0,,,,31308231308
+2,Bermuda,15,KS Leverock,T van der Gugten,DAP Darrell,,0,1,1,,,,31308231308
+2,Bermuda,15,DAP Darrell,T van der Gugten,KS Leverock,,0,1,1,,,,31308231308
+2,Bermuda,15,KS Leverock,T van der Gugten,DAP Darrell,,0,6,6,,,,31308231308
+2,Bermuda,15,KS Leverock,T van der Gugten,DAP Darrell,,0,6,6,,,,31308231308
+2,Bermuda,15,KS Leverock,T van der Gugten,DAP Darrell,,0,0,0,,,,31308231308
+2,Bermuda,15,KS Leverock,T van der Gugten,DAP Darrell,,0,0,0,caught,KS Leverock,CN Ackermann,31308231308
+2,Bermuda,16,O Bascome,PM Seelaar,DAP Darrell,,0,1,1,,,,31308231308
+2,Bermuda,16,DAP Darrell,PM Seelaar,O Bascome,,0,0,0,,,,31308231308
+2,Bermuda,16,DAP Darrell,PM Seelaar,O Bascome,,0,0,0,caught,DAP Darrell,RE van der Merwe,31308231308
+2,Bermuda,16,O Bascome,PM Seelaar,DL Brangman,,0,1,1,,,,31308231308
+2,Bermuda,16,DL Brangman,PM Seelaar,O Bascome,,0,0,0,,,,31308231308
+2,Bermuda,16,DL Brangman,PM Seelaar,O Bascome,,0,0,0,,,,31308231308
+2,Bermuda,17,O Bascome,PA van Meekeren,DL Brangman,,0,4,4,,,,31308231308
+2,Bermuda,17,O Bascome,PA van Meekeren,DL Brangman,,0,0,0,,,,31308231308
+2,Bermuda,17,O Bascome,PA van Meekeren,DL Brangman,,0,0,0,,,,31308231308
+2,Bermuda,17,O Bascome,PA van Meekeren,DL Brangman,,0,0,0,caught,O Bascome,FJ Klaassen,31308231308
+2,Bermuda,17,DL Brangman,PA van Meekeren,RJ Trott,,0,0,0,bowled,DL Brangman,,31308231308
+2,Bermuda,17,GH O'Brien,PA van Meekeren,RJ Trott,,0,0,0,,,,31308231308
+2,Bermuda,18,RJ Trott,PM Seelaar,GH O'Brien,,0,0,0,,,,31308231308
+2,Bermuda,18,RJ Trott,PM Seelaar,GH O'Brien,,0,0,0,,,,31308231308
+2,Bermuda,18,RJ Trott,PM Seelaar,GH O'Brien,,0,0,0,,,,31308231308
+2,Bermuda,18,RJ Trott,PM Seelaar,GH O'Brien,,0,0,0,,,,31308231308
+2,Bermuda,18,RJ Trott,PM Seelaar,GH O'Brien,,0,0,0,,,,31308231308
+2,Bermuda,18,RJ Trott,PM Seelaar,GH O'Brien,,0,0,0,,,,31308231308
+2,Bermuda,19,GH O'Brien,T van der Gugten,RJ Trott,,0,0,0,,,,31308231308
+2,Bermuda,19,GH O'Brien,T van der Gugten,RJ Trott,,0,4,4,,,,31308231308
+2,Bermuda,19,GH O'Brien,T van der Gugten,RJ Trott,,0,0,0,,,,31308231308
+2,Bermuda,19,GH O'Brien,T van der Gugten,RJ Trott,,0,0,0,,,,31308231308
+2,Bermuda,19,GH O'Brien,T van der Gugten,RJ Trott,,0,1,1,,,,31308231308
+2,Bermuda,19,RJ Trott,T van der Gugten,GH O'Brien,,0,0,0,,,,31308231308

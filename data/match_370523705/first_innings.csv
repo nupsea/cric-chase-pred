@@ -1,0 +1,122 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,West Indies,0,J Charles,Imad Wasim,ADS Fletcher,,0,3,3,,,,370523705
+1,West Indies,0,ADS Fletcher,Imad Wasim,J Charles,,0,0,0,,,,370523705
+1,West Indies,0,ADS Fletcher,Imad Wasim,J Charles,,0,1,1,,,,370523705
+1,West Indies,0,J Charles,Imad Wasim,ADS Fletcher,,0,1,1,,,,370523705
+1,West Indies,0,ADS Fletcher,Imad Wasim,J Charles,,0,0,0,,,,370523705
+1,West Indies,0,ADS Fletcher,Imad Wasim,J Charles,,0,1,1,,,,370523705
+1,West Indies,1,ADS Fletcher,Sohail Tanvir,J Charles,,0,0,0,,,,370523705
+1,West Indies,1,ADS Fletcher,Sohail Tanvir,J Charles,,0,4,4,,,,370523705
+1,West Indies,1,ADS Fletcher,Sohail Tanvir,J Charles,,0,0,0,,,,370523705
+1,West Indies,1,ADS Fletcher,Sohail Tanvir,J Charles,,0,0,0,,,,370523705
+1,West Indies,1,ADS Fletcher,Sohail Tanvir,J Charles,,0,1,1,,,,370523705
+1,West Indies,1,J Charles,Sohail Tanvir,ADS Fletcher,,0,1,1,,,,370523705
+1,West Indies,2,J Charles,Imad Wasim,ADS Fletcher,,0,0,0,,,,370523705
+1,West Indies,2,J Charles,Imad Wasim,ADS Fletcher,,0,0,0,bowled,J Charles,,370523705
+1,West Indies,2,CAK Walton,Imad Wasim,ADS Fletcher,,0,0,0,bowled,CAK Walton,,370523705
+1,West Indies,2,MN Samuels,Imad Wasim,ADS Fletcher,,0,0,0,,,,370523705
+1,West Indies,2,MN Samuels,Imad Wasim,ADS Fletcher,legbyes,1,1,0,,,,370523705
+1,West Indies,2,ADS Fletcher,Imad Wasim,MN Samuels,,0,0,0,,,,370523705
+1,West Indies,3,MN Samuels,Sohail Tanvir,ADS Fletcher,,0,1,1,,,,370523705
+1,West Indies,3,ADS Fletcher,Sohail Tanvir,MN Samuels,,0,0,0,,,,370523705
+1,West Indies,3,ADS Fletcher,Sohail Tanvir,MN Samuels,,0,0,0,,,,370523705
+1,West Indies,3,ADS Fletcher,Sohail Tanvir,MN Samuels,,0,0,0,,,,370523705
+1,West Indies,3,ADS Fletcher,Sohail Tanvir,MN Samuels,,0,0,0,,,,370523705
+1,West Indies,3,ADS Fletcher,Sohail Tanvir,MN Samuels,,0,2,2,,,,370523705
+1,West Indies,4,MN Samuels,Mohammad Nawaz (3),ADS Fletcher,,0,0,0,,,,370523705
+1,West Indies,4,MN Samuels,Mohammad Nawaz (3),ADS Fletcher,,0,1,1,,,,370523705
+1,West Indies,4,ADS Fletcher,Mohammad Nawaz (3),MN Samuels,,0,0,0,,,,370523705
+1,West Indies,4,ADS Fletcher,Mohammad Nawaz (3),MN Samuels,,0,0,0,run out,ADS Fletcher,Sarfraz Ahmed,370523705
+1,West Indies,4,DJ Bravo,Mohammad Nawaz (3),MN Samuels,,0,4,4,,,,370523705
+1,West Indies,4,DJ Bravo,Mohammad Nawaz (3),MN Samuels,,0,0,0,,,,370523705
+1,West Indies,5,MN Samuels,Mohammad Amir,DJ Bravo,,0,0,0,,,,370523705
+1,West Indies,5,MN Samuels,Mohammad Amir,DJ Bravo,,0,0,0,,,,370523705
+1,West Indies,5,MN Samuels,Mohammad Amir,DJ Bravo,,0,1,1,,,,370523705
+1,West Indies,5,DJ Bravo,Mohammad Amir,MN Samuels,,0,0,0,,,,370523705
+1,West Indies,5,DJ Bravo,Mohammad Amir,MN Samuels,,0,0,0,,,,370523705
+1,West Indies,5,DJ Bravo,Mohammad Amir,MN Samuels,,0,4,4,,,,370523705
+1,West Indies,6,MN Samuels,Mohammad Nawaz (3),DJ Bravo,,0,0,0,,,,370523705
+1,West Indies,6,MN Samuels,Mohammad Nawaz (3),DJ Bravo,,0,0,0,,,,370523705
+1,West Indies,6,MN Samuels,Mohammad Nawaz (3),DJ Bravo,,0,0,0,,,,370523705
+1,West Indies,6,MN Samuels,Mohammad Nawaz (3),DJ Bravo,,0,1,1,,,,370523705
+1,West Indies,6,DJ Bravo,Mohammad Nawaz (3),MN Samuels,,0,1,1,,,,370523705
+1,West Indies,6,MN Samuels,Mohammad Nawaz (3),DJ Bravo,,0,0,0,,,,370523705
+1,West Indies,7,DJ Bravo,Shoaib Malik,MN Samuels,,0,1,1,,,,370523705
+1,West Indies,7,MN Samuels,Shoaib Malik,DJ Bravo,,0,0,0,,,,370523705
+1,West Indies,7,MN Samuels,Shoaib Malik,DJ Bravo,,0,0,0,,,,370523705
+1,West Indies,7,MN Samuels,Shoaib Malik,DJ Bravo,,0,0,0,,,,370523705
+1,West Indies,7,MN Samuels,Shoaib Malik,DJ Bravo,,0,1,1,,,,370523705
+1,West Indies,7,DJ Bravo,Shoaib Malik,MN Samuels,,0,1,1,,,,370523705
+1,West Indies,8,DJ Bravo,Imad Wasim,MN Samuels,,0,0,0,bowled,DJ Bravo,,370523705
+1,West Indies,8,N Pooran,Imad Wasim,MN Samuels,,0,1,1,,,,370523705
+1,West Indies,8,MN Samuels,Imad Wasim,N Pooran,,0,1,1,,,,370523705
+1,West Indies,8,N Pooran,Imad Wasim,MN Samuels,,0,1,1,,,,370523705
+1,West Indies,8,MN Samuels,Imad Wasim,N Pooran,,0,2,2,,,,370523705
+1,West Indies,8,MN Samuels,Imad Wasim,N Pooran,,0,0,0,,,,370523705
+1,West Indies,9,N Pooran,Shoaib Malik,MN Samuels,,0,1,1,,,,370523705
+1,West Indies,9,MN Samuels,Shoaib Malik,N Pooran,,0,1,1,,,,370523705
+1,West Indies,9,N Pooran,Shoaib Malik,MN Samuels,,0,1,1,,,,370523705
+1,West Indies,9,MN Samuels,Shoaib Malik,N Pooran,,0,4,4,,,,370523705
+1,West Indies,9,MN Samuels,Shoaib Malik,N Pooran,,0,0,0,,,,370523705
+1,West Indies,9,MN Samuels,Shoaib Malik,N Pooran,,0,1,1,,,,370523705
+1,West Indies,10,MN Samuels,Imad Wasim,N Pooran,,0,0,0,,,,370523705
+1,West Indies,10,MN Samuels,Imad Wasim,N Pooran,,0,4,4,,,,370523705
+1,West Indies,10,MN Samuels,Imad Wasim,N Pooran,,0,1,1,,,,370523705
+1,West Indies,10,N Pooran,Imad Wasim,MN Samuels,,0,2,2,,,,370523705
+1,West Indies,10,N Pooran,Imad Wasim,MN Samuels,,0,1,1,,,,370523705
+1,West Indies,10,MN Samuels,Imad Wasim,N Pooran,,0,2,2,,,,370523705
+1,West Indies,11,N Pooran,Rumman Raees,MN Samuels,,0,2,2,,,,370523705
+1,West Indies,11,N Pooran,Rumman Raees,MN Samuels,,0,1,1,,,,370523705
+1,West Indies,11,MN Samuels,Rumman Raees,N Pooran,,0,0,0,,,,370523705
+1,West Indies,11,MN Samuels,Rumman Raees,N Pooran,,0,0,0,,,,370523705
+1,West Indies,11,MN Samuels,Rumman Raees,N Pooran,,0,1,1,,,,370523705
+1,West Indies,11,N Pooran,Rumman Raees,MN Samuels,,0,0,0,,,,370523705
+1,West Indies,12,MN Samuels,Mohammad Nawaz (3),N Pooran,,0,1,1,,,,370523705
+1,West Indies,12,N Pooran,Mohammad Nawaz (3),MN Samuels,,0,0,0,,,,370523705
+1,West Indies,12,N Pooran,Mohammad Nawaz (3),MN Samuels,,0,6,6,,,,370523705
+1,West Indies,12,N Pooran,Mohammad Nawaz (3),MN Samuels,wides,1,1,0,,,,370523705
+1,West Indies,12,N Pooran,Mohammad Nawaz (3),MN Samuels,,0,0,0,caught,N Pooran,Shoaib Malik,370523705
+1,West Indies,12,MN Samuels,Mohammad Nawaz (3),KA Pollard,,0,0,0,,,,370523705
+1,West Indies,12,MN Samuels,Mohammad Nawaz (3),KA Pollard,,0,1,1,,,,370523705
+1,West Indies,13,MN Samuels,Rumman Raees,KA Pollard,,0,1,1,,,,370523705
+1,West Indies,13,KA Pollard,Rumman Raees,MN Samuels,,0,1,1,,,,370523705
+1,West Indies,13,MN Samuels,Rumman Raees,KA Pollard,,0,0,0,,,,370523705
+1,West Indies,13,MN Samuels,Rumman Raees,KA Pollard,,0,0,0,,,,370523705
+1,West Indies,13,MN Samuels,Rumman Raees,KA Pollard,,0,1,1,,,,370523705
+1,West Indies,13,KA Pollard,Rumman Raees,MN Samuels,,0,1,1,,,,370523705
+1,West Indies,14,KA Pollard,Mohammad Amir,MN Samuels,,0,1,1,,,,370523705
+1,West Indies,14,MN Samuels,Mohammad Amir,KA Pollard,,0,0,0,,,,370523705
+1,West Indies,14,MN Samuels,Mohammad Amir,KA Pollard,,0,1,1,,,,370523705
+1,West Indies,14,KA Pollard,Mohammad Amir,MN Samuels,,0,1,1,,,,370523705
+1,West Indies,14,MN Samuels,Mohammad Amir,KA Pollard,,0,1,1,,,,370523705
+1,West Indies,14,KA Pollard,Mohammad Amir,MN Samuels,,0,0,0,,,,370523705
+1,West Indies,15,MN Samuels,Rumman Raees,KA Pollard,,0,0,0,,,,370523705
+1,West Indies,15,MN Samuels,Rumman Raees,KA Pollard,,0,0,0,,,,370523705
+1,West Indies,15,MN Samuels,Rumman Raees,KA Pollard,,0,1,1,,,,370523705
+1,West Indies,15,KA Pollard,Rumman Raees,MN Samuels,,0,1,1,,,,370523705
+1,West Indies,15,MN Samuels,Rumman Raees,KA Pollard,,0,0,0,,,,370523705
+1,West Indies,15,MN Samuels,Rumman Raees,KA Pollard,,0,0,0,,,,370523705
+1,West Indies,16,KA Pollard,Sohail Tanvir,MN Samuels,,0,2,2,,,,370523705
+1,West Indies,16,KA Pollard,Sohail Tanvir,MN Samuels,,0,1,1,,,,370523705
+1,West Indies,16,MN Samuels,Sohail Tanvir,KA Pollard,,0,0,0,,,,370523705
+1,West Indies,16,MN Samuels,Sohail Tanvir,KA Pollard,,0,4,4,,,,370523705
+1,West Indies,16,MN Samuels,Sohail Tanvir,KA Pollard,,0,1,1,,,,370523705
+1,West Indies,16,KA Pollard,Sohail Tanvir,MN Samuels,,0,2,2,,,,370523705
+1,West Indies,17,MN Samuels,Mohammad Amir,KA Pollard,,0,1,1,,,,370523705
+1,West Indies,17,KA Pollard,Mohammad Amir,MN Samuels,,0,1,1,,,,370523705
+1,West Indies,17,MN Samuels,Mohammad Amir,KA Pollard,,0,2,2,,,,370523705
+1,West Indies,17,MN Samuels,Mohammad Amir,KA Pollard,,0,1,1,,,,370523705
+1,West Indies,17,KA Pollard,Mohammad Amir,MN Samuels,,0,1,1,,,,370523705
+1,West Indies,17,MN Samuels,Mohammad Amir,KA Pollard,,0,1,1,,,,370523705
+1,West Indies,18,MN Samuels,Sohail Tanvir,KA Pollard,,0,0,0,,,,370523705
+1,West Indies,18,MN Samuels,Sohail Tanvir,KA Pollard,,0,1,1,,,,370523705
+1,West Indies,18,KA Pollard,Sohail Tanvir,MN Samuels,,0,0,0,,,,370523705
+1,West Indies,18,KA Pollard,Sohail Tanvir,MN Samuels,,0,1,1,,,,370523705
+1,West Indies,18,MN Samuels,Sohail Tanvir,KA Pollard,,0,1,1,,,,370523705
+1,West Indies,18,KA Pollard,Sohail Tanvir,MN Samuels,legbyes,1,1,0,,,,370523705
+1,West Indies,19,KA Pollard,Mohammad Amir,MN Samuels,,0,1,1,,,,370523705
+1,West Indies,19,MN Samuels,Mohammad Amir,KA Pollard,,0,0,0,,,,370523705
+1,West Indies,19,MN Samuels,Mohammad Amir,KA Pollard,,0,1,1,,,,370523705
+1,West Indies,19,KA Pollard,Mohammad Amir,MN Samuels,,0,2,2,,,,370523705
+1,West Indies,19,KA Pollard,Mohammad Amir,MN Samuels,legbyes,1,1,0,,,,370523705
+1,West Indies,19,MN Samuels,Mohammad Amir,KA Pollard,,0,0,0,,,,370523705

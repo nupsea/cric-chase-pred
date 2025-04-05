@@ -1,0 +1,110 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Pakistan,0,Ahmed Shehzad,K Santokie,Kamran Akmal,,0,0,0,lbw,Ahmed Shehzad,,342423424
+2,Pakistan,0,Mohammad Hafeez,K Santokie,Kamran Akmal,wides,1,1,0,,,,342423424
+2,Pakistan,0,Mohammad Hafeez,K Santokie,Kamran Akmal,,0,0,0,,,,342423424
+2,Pakistan,0,Mohammad Hafeez,K Santokie,Kamran Akmal,,0,0,0,,,,342423424
+2,Pakistan,0,Mohammad Hafeez,K Santokie,Kamran Akmal,,0,0,0,,,,342423424
+2,Pakistan,0,Mohammad Hafeez,K Santokie,Kamran Akmal,,0,0,0,,,,342423424
+2,Pakistan,0,Mohammad Hafeez,K Santokie,Kamran Akmal,,0,0,0,,,,342423424
+2,Pakistan,1,Kamran Akmal,S Badree,Mohammad Hafeez,,0,0,0,,,,342423424
+2,Pakistan,1,Kamran Akmal,S Badree,Mohammad Hafeez,,0,0,0,,,,342423424
+2,Pakistan,1,Kamran Akmal,S Badree,Mohammad Hafeez,,0,0,0,caught,Kamran Akmal,DJ Bravo,342423424
+2,Pakistan,1,Umar Akmal,S Badree,Mohammad Hafeez,,0,1,1,,,,342423424
+2,Pakistan,1,Mohammad Hafeez,S Badree,Umar Akmal,,0,0,0,,,,342423424
+2,Pakistan,1,Mohammad Hafeez,S Badree,Umar Akmal,,0,1,1,,,,342423424
+2,Pakistan,2,Mohammad Hafeez,K Santokie,Umar Akmal,,0,1,1,,,,342423424
+2,Pakistan,2,Mohammad Hafeez,K Santokie,Umar Akmal,wides,1,1,0,,,,342423424
+2,Pakistan,2,Mohammad Hafeez,K Santokie,Umar Akmal,,0,0,0,,,,342423424
+2,Pakistan,2,Mohammad Hafeez,K Santokie,Umar Akmal,,0,2,2,,,,342423424
+2,Pakistan,2,Mohammad Hafeez,K Santokie,Umar Akmal,,0,0,0,,,,342423424
+2,Pakistan,2,Mohammad Hafeez,K Santokie,Umar Akmal,,0,1,1,,,,342423424
+2,Pakistan,2,Umar Akmal,K Santokie,Mohammad Hafeez,,0,0,0,,,,342423424
+2,Pakistan,3,Mohammad Hafeez,S Badree,Umar Akmal,,0,0,0,,,,342423424
+2,Pakistan,3,Mohammad Hafeez,S Badree,Umar Akmal,,0,0,0,,,,342423424
+2,Pakistan,3,Mohammad Hafeez,S Badree,Umar Akmal,,0,1,1,,,,342423424
+2,Pakistan,3,Umar Akmal,S Badree,Mohammad Hafeez,,0,0,0,,,,342423424
+2,Pakistan,3,Umar Akmal,S Badree,Mohammad Hafeez,,0,0,0,,,,342423424
+2,Pakistan,3,Umar Akmal,S Badree,Mohammad Hafeez,,0,0,0,stumped,Umar Akmal,D Ramdin,342423424
+2,Pakistan,4,Mohammad Hafeez,MN Samuels,Shoaib Malik,,0,0,0,,,,342423424
+2,Pakistan,4,Mohammad Hafeez,MN Samuels,Shoaib Malik,,0,1,1,,,,342423424
+2,Pakistan,4,Shoaib Malik,MN Samuels,Mohammad Hafeez,,0,0,0,,,,342423424
+2,Pakistan,4,Shoaib Malik,MN Samuels,Mohammad Hafeez,,0,0,0,,,,342423424
+2,Pakistan,4,Shoaib Malik,MN Samuels,Mohammad Hafeez,,0,0,0,,,,342423424
+2,Pakistan,4,Shoaib Malik,MN Samuels,Mohammad Hafeez,,0,1,1,,,,342423424
+2,Pakistan,5,Shoaib Malik,S Badree,Mohammad Hafeez,,0,1,1,,,,342423424
+2,Pakistan,5,Mohammad Hafeez,S Badree,Shoaib Malik,,0,1,1,,,,342423424
+2,Pakistan,5,Shoaib Malik,S Badree,Mohammad Hafeez,,0,0,0,stumped,Shoaib Malik,D Ramdin,342423424
+2,Pakistan,5,Sohaib Maqsood,S Badree,Mohammad Hafeez,,0,0,0,,,,342423424
+2,Pakistan,5,Sohaib Maqsood,S Badree,Mohammad Hafeez,,0,0,0,,,,342423424
+2,Pakistan,5,Sohaib Maqsood,S Badree,Mohammad Hafeez,,0,0,0,,,,342423424
+2,Pakistan,6,Mohammad Hafeez,MN Samuels,Sohaib Maqsood,,0,0,0,,,,342423424
+2,Pakistan,6,Mohammad Hafeez,MN Samuels,Sohaib Maqsood,,0,1,1,,,,342423424
+2,Pakistan,6,Sohaib Maqsood,MN Samuels,Mohammad Hafeez,,0,0,0,,,,342423424
+2,Pakistan,6,Sohaib Maqsood,MN Samuels,Mohammad Hafeez,,0,6,6,,,,342423424
+2,Pakistan,6,Sohaib Maqsood,MN Samuels,Mohammad Hafeez,,0,1,1,,,,342423424
+2,Pakistan,6,Mohammad Hafeez,MN Samuels,Sohaib Maqsood,,0,2,2,,,,342423424
+2,Pakistan,7,Sohaib Maqsood,S Badree,Mohammad Hafeez,,0,1,1,,,,342423424
+2,Pakistan,7,Mohammad Hafeez,S Badree,Sohaib Maqsood,,0,1,1,,,,342423424
+2,Pakistan,7,Sohaib Maqsood,S Badree,Mohammad Hafeez,,0,1,1,,,,342423424
+2,Pakistan,7,Mohammad Hafeez,S Badree,Sohaib Maqsood,,0,0,0,,,,342423424
+2,Pakistan,7,Mohammad Hafeez,S Badree,Sohaib Maqsood,,0,1,1,,,,342423424
+2,Pakistan,7,Sohaib Maqsood,S Badree,Mohammad Hafeez,,0,1,1,,,,342423424
+2,Pakistan,8,Sohaib Maqsood,AD Russell,Mohammad Hafeez,,0,1,1,,,,342423424
+2,Pakistan,8,Mohammad Hafeez,AD Russell,Sohaib Maqsood,,0,0,0,,,,342423424
+2,Pakistan,8,Mohammad Hafeez,AD Russell,Sohaib Maqsood,,0,1,1,,,,342423424
+2,Pakistan,8,Sohaib Maqsood,AD Russell,Mohammad Hafeez,,0,0,0,,,,342423424
+2,Pakistan,8,Sohaib Maqsood,AD Russell,Mohammad Hafeez,,0,1,1,,,,342423424
+2,Pakistan,8,Mohammad Hafeez,AD Russell,Sohaib Maqsood,,0,1,1,,,,342423424
+2,Pakistan,9,Mohammad Hafeez,SP Narine,Sohaib Maqsood,,0,1,1,,,,342423424
+2,Pakistan,9,Sohaib Maqsood,SP Narine,Mohammad Hafeez,,0,0,0,,,,342423424
+2,Pakistan,9,Sohaib Maqsood,SP Narine,Mohammad Hafeez,,0,0,0,,,,342423424
+2,Pakistan,9,Sohaib Maqsood,SP Narine,Mohammad Hafeez,,0,0,0,,,,342423424
+2,Pakistan,9,Sohaib Maqsood,SP Narine,Mohammad Hafeez,,0,1,1,,,,342423424
+2,Pakistan,9,Mohammad Hafeez,SP Narine,Sohaib Maqsood,,0,1,1,,,,342423424
+2,Pakistan,10,Mohammad Hafeez,AD Russell,Sohaib Maqsood,,0,0,0,,,,342423424
+2,Pakistan,10,Mohammad Hafeez,AD Russell,Sohaib Maqsood,,0,2,2,,,,342423424
+2,Pakistan,10,Mohammad Hafeez,AD Russell,Sohaib Maqsood,,0,0,0,caught,Mohammad Hafeez,CH Gayle,342423424
+2,Pakistan,10,Sohaib Maqsood,AD Russell,Shahid Afridi,,0,0,0,,,,342423424
+2,Pakistan,10,Sohaib Maqsood,AD Russell,Shahid Afridi,,0,4,4,,,,342423424
+2,Pakistan,10,Sohaib Maqsood,AD Russell,Shahid Afridi,,0,1,1,,,,342423424
+2,Pakistan,11,Sohaib Maqsood,SP Narine,Shahid Afridi,,0,0,0,,,,342423424
+2,Pakistan,11,Sohaib Maqsood,SP Narine,Shahid Afridi,,0,0,0,,,,342423424
+2,Pakistan,11,Sohaib Maqsood,SP Narine,Shahid Afridi,,0,0,0,stumped,Sohaib Maqsood,D Ramdin,342423424
+2,Pakistan,11,Sohail Tanvir,SP Narine,Shahid Afridi,,0,0,0,,,,342423424
+2,Pakistan,11,Sohail Tanvir,SP Narine,Shahid Afridi,,0,6,6,,,,342423424
+2,Pakistan,11,Sohail Tanvir,SP Narine,Shahid Afridi,,0,0,0,,,,342423424
+2,Pakistan,12,Shahid Afridi,MN Samuels,Sohail Tanvir,,0,1,1,,,,342423424
+2,Pakistan,12,Sohail Tanvir,MN Samuels,Shahid Afridi,,0,0,0,,,,342423424
+2,Pakistan,12,Sohail Tanvir,MN Samuels,Shahid Afridi,,0,1,1,,,,342423424
+2,Pakistan,12,Shahid Afridi,MN Samuels,Sohail Tanvir,,0,6,6,,,,342423424
+2,Pakistan,12,Shahid Afridi,MN Samuels,Sohail Tanvir,,0,0,0,,,,342423424
+2,Pakistan,12,Shahid Afridi,MN Samuels,Sohail Tanvir,,0,1,1,,,,342423424
+2,Pakistan,13,Shahid Afridi,SP Narine,Sohail Tanvir,,0,1,1,,,,342423424
+2,Pakistan,13,Sohail Tanvir,SP Narine,Shahid Afridi,,0,1,1,,,,342423424
+2,Pakistan,13,Shahid Afridi,SP Narine,Sohail Tanvir,,0,1,1,,,,342423424
+2,Pakistan,13,Sohail Tanvir,SP Narine,Shahid Afridi,,0,0,0,,,,342423424
+2,Pakistan,13,Sohail Tanvir,SP Narine,Shahid Afridi,,0,1,1,,,,342423424
+2,Pakistan,13,Shahid Afridi,SP Narine,Sohail Tanvir,,0,2,2,,,,342423424
+2,Pakistan,14,Sohail Tanvir,DR Smith,Shahid Afridi,,0,4,4,,,,342423424
+2,Pakistan,14,Sohail Tanvir,DR Smith,Shahid Afridi,,0,1,1,,,,342423424
+2,Pakistan,14,Shahid Afridi,DR Smith,Sohail Tanvir,,0,0,0,,,,342423424
+2,Pakistan,14,Shahid Afridi,DR Smith,Sohail Tanvir,,0,0,0,,,,342423424
+2,Pakistan,14,Shahid Afridi,DR Smith,Sohail Tanvir,,0,6,6,,,,342423424
+2,Pakistan,14,Shahid Afridi,DR Smith,Sohail Tanvir,,0,0,0,,,,342423424
+2,Pakistan,15,Sohail Tanvir,SP Narine,Shahid Afridi,,0,0,0,,,,342423424
+2,Pakistan,15,Sohail Tanvir,SP Narine,Shahid Afridi,,0,0,0,caught,Sohail Tanvir,DJG Sammy,342423424
+2,Pakistan,15,Umar Gul,SP Narine,Shahid Afridi,,0,0,0,,,,342423424
+2,Pakistan,15,Umar Gul,SP Narine,Shahid Afridi,,0,1,1,,,,342423424
+2,Pakistan,15,Shahid Afridi,SP Narine,Umar Gul,,0,0,0,stumped,Shahid Afridi,D Ramdin,342423424
+2,Pakistan,15,Saeed Ajmal,SP Narine,Umar Gul,,0,0,0,,,,342423424
+2,Pakistan,16,Umar Gul,AD Russell,Saeed Ajmal,,0,0,0,,,,342423424
+2,Pakistan,16,Umar Gul,AD Russell,Saeed Ajmal,,0,1,1,,,,342423424
+2,Pakistan,16,Saeed Ajmal,AD Russell,Umar Gul,,0,1,1,,,,342423424
+2,Pakistan,16,Umar Gul,AD Russell,Saeed Ajmal,,0,1,1,,,,342423424
+2,Pakistan,16,Saeed Ajmal,AD Russell,Umar Gul,,0,0,0,bowled,Saeed Ajmal,,342423424
+2,Pakistan,16,Zulfiqar Babar,AD Russell,Umar Gul,,0,1,1,,,,342423424
+2,Pakistan,17,Zulfiqar Babar,K Santokie,Umar Gul,,0,0,0,,,,342423424
+2,Pakistan,17,Zulfiqar Babar,K Santokie,Umar Gul,,0,1,1,,,,342423424
+2,Pakistan,17,Umar Gul,K Santokie,Zulfiqar Babar,,0,1,1,,,,342423424
+2,Pakistan,17,Zulfiqar Babar,K Santokie,Umar Gul,,0,1,1,,,,342423424
+2,Pakistan,17,Umar Gul,K Santokie,Zulfiqar Babar,,0,0,0,caught,Umar Gul,LMP Simmons,342423424

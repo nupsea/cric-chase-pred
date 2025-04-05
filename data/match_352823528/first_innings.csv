@@ -1,0 +1,120 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Ireland,0,WTS Porterfield,MR Swart,PR Stirling,,0,0,0,,,,352823528
+1,Ireland,0,WTS Porterfield,MR Swart,PR Stirling,,0,0,0,,,,352823528
+1,Ireland,0,WTS Porterfield,MR Swart,PR Stirling,,0,0,0,,,,352823528
+1,Ireland,0,WTS Porterfield,MR Swart,PR Stirling,,0,2,2,,,,352823528
+1,Ireland,0,WTS Porterfield,MR Swart,PR Stirling,,0,1,1,,,,352823528
+1,Ireland,0,PR Stirling,MR Swart,WTS Porterfield,,0,6,6,,,,352823528
+1,Ireland,1,WTS Porterfield,T van der Gugten,PR Stirling,,0,1,1,,,,352823528
+1,Ireland,1,PR Stirling,T van der Gugten,WTS Porterfield,,0,0,0,,,,352823528
+1,Ireland,1,PR Stirling,T van der Gugten,WTS Porterfield,,0,0,0,,,,352823528
+1,Ireland,1,PR Stirling,T van der Gugten,WTS Porterfield,,0,0,0,,,,352823528
+1,Ireland,1,PR Stirling,T van der Gugten,WTS Porterfield,,0,0,0,,,,352823528
+1,Ireland,1,PR Stirling,T van der Gugten,WTS Porterfield,,0,0,0,,,,352823528
+1,Ireland,2,WTS Porterfield,Mudassar Bukhari,PR Stirling,,0,0,0,caught,WTS Porterfield,PW Borren,352823528
+1,Ireland,2,PR Stirling,Mudassar Bukhari,A Balbirnie,,0,1,1,,,,352823528
+1,Ireland,2,A Balbirnie,Mudassar Bukhari,PR Stirling,,0,1,1,,,,352823528
+1,Ireland,2,PR Stirling,Mudassar Bukhari,A Balbirnie,,0,4,4,,,,352823528
+1,Ireland,2,PR Stirling,Mudassar Bukhari,A Balbirnie,,0,0,0,,,,352823528
+1,Ireland,2,PR Stirling,Mudassar Bukhari,A Balbirnie,,0,4,4,,,,352823528
+1,Ireland,3,A Balbirnie,T van der Gugten,PR Stirling,,0,1,1,,,,352823528
+1,Ireland,3,PR Stirling,T van der Gugten,A Balbirnie,,0,0,0,,,,352823528
+1,Ireland,3,PR Stirling,T van der Gugten,A Balbirnie,,0,0,0,,,,352823528
+1,Ireland,3,PR Stirling,T van der Gugten,A Balbirnie,,0,1,1,,,,352823528
+1,Ireland,3,A Balbirnie,T van der Gugten,PR Stirling,,0,1,1,,,,352823528
+1,Ireland,3,PR Stirling,T van der Gugten,A Balbirnie,,0,2,2,,,,352823528
+1,Ireland,4,A Balbirnie,Mudassar Bukhari,PR Stirling,,0,0,0,,,,352823528
+1,Ireland,4,A Balbirnie,Mudassar Bukhari,PR Stirling,,0,0,0,,,,352823528
+1,Ireland,4,A Balbirnie,Mudassar Bukhari,PR Stirling,,0,1,1,,,,352823528
+1,Ireland,4,PR Stirling,Mudassar Bukhari,A Balbirnie,,0,0,0,caught,PR Stirling,BN Cooper,352823528
+1,Ireland,4,GC Wilson,Mudassar Bukhari,A Balbirnie,,0,4,4,,,,352823528
+1,Ireland,4,GC Wilson,Mudassar Bukhari,A Balbirnie,,0,4,4,,,,352823528
+1,Ireland,5,A Balbirnie,PA van Meekeren,GC Wilson,,0,0,0,,,,352823528
+1,Ireland,5,A Balbirnie,PA van Meekeren,GC Wilson,,0,0,0,,,,352823528
+1,Ireland,5,A Balbirnie,PA van Meekeren,GC Wilson,,0,4,4,,,,352823528
+1,Ireland,5,A Balbirnie,PA van Meekeren,GC Wilson,,0,0,0,,,,352823528
+1,Ireland,5,A Balbirnie,PA van Meekeren,GC Wilson,,0,0,0,,,,352823528
+1,Ireland,5,A Balbirnie,PA van Meekeren,GC Wilson,,0,0,0,,,,352823528
+1,Ireland,6,GC Wilson,Mudassar Bukhari,A Balbirnie,,0,0,0,,,,352823528
+1,Ireland,6,GC Wilson,Mudassar Bukhari,A Balbirnie,,0,0,0,,,,352823528
+1,Ireland,6,GC Wilson,Mudassar Bukhari,A Balbirnie,,0,0,0,,,,352823528
+1,Ireland,6,GC Wilson,Mudassar Bukhari,A Balbirnie,,0,1,1,,,,352823528
+1,Ireland,6,A Balbirnie,Mudassar Bukhari,GC Wilson,,0,2,2,,,,352823528
+1,Ireland,6,A Balbirnie,Mudassar Bukhari,GC Wilson,,0,1,1,,,,352823528
+1,Ireland,7,A Balbirnie,RE van der Merwe,GC Wilson,,0,2,2,,,,352823528
+1,Ireland,7,A Balbirnie,RE van der Merwe,GC Wilson,,0,1,1,,,,352823528
+1,Ireland,7,GC Wilson,RE van der Merwe,A Balbirnie,,0,1,1,,,,352823528
+1,Ireland,7,A Balbirnie,RE van der Merwe,GC Wilson,,0,1,1,,,,352823528
+1,Ireland,7,GC Wilson,RE van der Merwe,A Balbirnie,,0,0,0,,,,352823528
+1,Ireland,7,GC Wilson,RE van der Merwe,A Balbirnie,,0,0,0,,,,352823528
+1,Ireland,8,A Balbirnie,PW Borren,GC Wilson,,0,4,4,,,,352823528
+1,Ireland,8,A Balbirnie,PW Borren,GC Wilson,,0,0,0,,,,352823528
+1,Ireland,8,A Balbirnie,PW Borren,GC Wilson,,0,4,4,,,,352823528
+1,Ireland,8,A Balbirnie,PW Borren,GC Wilson,,0,1,1,,,,352823528
+1,Ireland,8,GC Wilson,PW Borren,A Balbirnie,,0,1,1,,,,352823528
+1,Ireland,8,A Balbirnie,PW Borren,GC Wilson,,0,3,3,,,,352823528
+1,Ireland,9,A Balbirnie,RE van der Merwe,GC Wilson,,0,1,1,,,,352823528
+1,Ireland,9,GC Wilson,RE van der Merwe,A Balbirnie,,0,1,1,,,,352823528
+1,Ireland,9,A Balbirnie,RE van der Merwe,GC Wilson,,0,0,0,,,,352823528
+1,Ireland,9,A Balbirnie,RE van der Merwe,GC Wilson,,0,1,1,,,,352823528
+1,Ireland,9,GC Wilson,RE van der Merwe,A Balbirnie,,0,1,1,,,,352823528
+1,Ireland,9,A Balbirnie,RE van der Merwe,GC Wilson,,0,0,0,,,,352823528
+1,Ireland,10,GC Wilson,PM Seelaar,A Balbirnie,,0,1,1,,,,352823528
+1,Ireland,10,A Balbirnie,PM Seelaar,GC Wilson,,0,1,1,,,,352823528
+1,Ireland,10,GC Wilson,PM Seelaar,A Balbirnie,,0,1,1,,,,352823528
+1,Ireland,10,A Balbirnie,PM Seelaar,GC Wilson,,0,1,1,,,,352823528
+1,Ireland,10,GC Wilson,PM Seelaar,A Balbirnie,,0,1,1,,,,352823528
+1,Ireland,10,A Balbirnie,PM Seelaar,GC Wilson,,0,0,0,,,,352823528
+1,Ireland,11,GC Wilson,PA van Meekeren,A Balbirnie,,0,1,1,,,,352823528
+1,Ireland,11,A Balbirnie,PA van Meekeren,GC Wilson,,0,0,0,,,,352823528
+1,Ireland,11,A Balbirnie,PA van Meekeren,GC Wilson,,0,0,0,caught,A Balbirnie,W Barresi,352823528
+1,Ireland,11,GC Wilson,PA van Meekeren,KJ O'Brien,,0,0,0,,,,352823528
+1,Ireland,11,GC Wilson,PA van Meekeren,KJ O'Brien,,0,0,0,,,,352823528
+1,Ireland,11,GC Wilson,PA van Meekeren,KJ O'Brien,,0,0,0,,,,352823528
+1,Ireland,12,KJ O'Brien,RE van der Merwe,GC Wilson,,0,2,2,,,,352823528
+1,Ireland,12,KJ O'Brien,RE van der Merwe,GC Wilson,,0,0,0,,,,352823528
+1,Ireland,12,KJ O'Brien,RE van der Merwe,GC Wilson,,0,2,2,,,,352823528
+1,Ireland,12,KJ O'Brien,RE van der Merwe,GC Wilson,,0,2,2,,,,352823528
+1,Ireland,12,KJ O'Brien,RE van der Merwe,GC Wilson,,0,0,0,,,,352823528
+1,Ireland,12,KJ O'Brien,RE van der Merwe,GC Wilson,,0,6,6,,,,352823528
+1,Ireland,13,GC Wilson,PA van Meekeren,KJ O'Brien,,0,1,1,,,,352823528
+1,Ireland,13,KJ O'Brien,PA van Meekeren,GC Wilson,,0,1,1,,,,352823528
+1,Ireland,13,GC Wilson,PA van Meekeren,KJ O'Brien,,0,0,0,,,,352823528
+1,Ireland,13,GC Wilson,PA van Meekeren,KJ O'Brien,,0,1,1,,,,352823528
+1,Ireland,13,KJ O'Brien,PA van Meekeren,GC Wilson,,0,2,2,,,,352823528
+1,Ireland,13,KJ O'Brien,PA van Meekeren,GC Wilson,,0,0,0,,,,352823528
+1,Ireland,14,GC Wilson,RE van der Merwe,KJ O'Brien,,0,1,1,,,,352823528
+1,Ireland,14,KJ O'Brien,RE van der Merwe,GC Wilson,,0,1,1,,,,352823528
+1,Ireland,14,GC Wilson,RE van der Merwe,KJ O'Brien,legbyes,1,1,0,,,,352823528
+1,Ireland,14,KJ O'Brien,RE van der Merwe,GC Wilson,,0,1,1,,,,352823528
+1,Ireland,14,GC Wilson,RE van der Merwe,KJ O'Brien,,0,0,0,bowled,GC Wilson,,352823528
+1,Ireland,14,JF Mooney,RE van der Merwe,KJ O'Brien,,0,0,0,,,,352823528
+1,Ireland,15,KJ O'Brien,PM Seelaar,JF Mooney,,0,1,1,,,,352823528
+1,Ireland,15,JF Mooney,PM Seelaar,KJ O'Brien,,0,1,1,,,,352823528
+1,Ireland,15,KJ O'Brien,PM Seelaar,JF Mooney,,0,1,1,,,,352823528
+1,Ireland,15,JF Mooney,PM Seelaar,KJ O'Brien,,0,1,1,,,,352823528
+1,Ireland,15,KJ O'Brien,PM Seelaar,JF Mooney,,0,6,6,,,,352823528
+1,Ireland,15,KJ O'Brien,PM Seelaar,JF Mooney,,0,6,6,,,,352823528
+1,Ireland,16,JF Mooney,PA van Meekeren,KJ O'Brien,,0,1,1,,,,352823528
+1,Ireland,16,KJ O'Brien,PA van Meekeren,JF Mooney,,0,1,1,,,,352823528
+1,Ireland,16,JF Mooney,PA van Meekeren,KJ O'Brien,,0,1,1,,,,352823528
+1,Ireland,16,KJ O'Brien,PA van Meekeren,JF Mooney,,0,1,1,,,,352823528
+1,Ireland,16,JF Mooney,PA van Meekeren,KJ O'Brien,byes,1,1,0,,,,352823528
+1,Ireland,16,KJ O'Brien,PA van Meekeren,JF Mooney,,0,0,0,caught,KJ O'Brien,PM Seelaar,352823528
+1,Ireland,17,JF Mooney,T van der Gugten,SR Thompson,,0,0,0,caught,JF Mooney,MR Swart,352823528
+1,Ireland,17,SW Poynter,T van der Gugten,SR Thompson,,0,2,2,,,,352823528
+1,Ireland,17,SW Poynter,T van der Gugten,SR Thompson,,0,0,0,,,,352823528
+1,Ireland,17,SW Poynter,T van der Gugten,SR Thompson,,0,1,1,,,,352823528
+1,Ireland,17,SR Thompson,T van der Gugten,SW Poynter,,0,0,0,,,,352823528
+1,Ireland,17,SR Thompson,T van der Gugten,SW Poynter,,0,0,0,,,,352823528
+1,Ireland,18,SW Poynter,Mudassar Bukhari,SR Thompson,,0,0,0,caught,SW Poynter,PA van Meekeren,352823528
+1,Ireland,18,SR Thompson,Mudassar Bukhari,GH Dockrell,,0,4,4,,,,352823528
+1,Ireland,18,SR Thompson,Mudassar Bukhari,GH Dockrell,,0,0,0,,,,352823528
+1,Ireland,18,SR Thompson,Mudassar Bukhari,GH Dockrell,,0,0,0,caught,SR Thompson,MP O'Dowd,352823528
+1,Ireland,18,GH Dockrell,Mudassar Bukhari,AR Cusack,,0,0,0,,,,352823528
+1,Ireland,18,GH Dockrell,Mudassar Bukhari,AR Cusack,,0,1,1,,,,352823528
+1,Ireland,19,GH Dockrell,T van der Gugten,AR Cusack,,0,6,6,,,,352823528
+1,Ireland,19,GH Dockrell,T van der Gugten,AR Cusack,,0,1,1,,,,352823528
+1,Ireland,19,AR Cusack,T van der Gugten,GH Dockrell,legbyes,1,1,0,,,,352823528
+1,Ireland,19,GH Dockrell,T van der Gugten,AR Cusack,,0,0,0,caught,GH Dockrell,PW Borren,352823528
+1,Ireland,19,CA Young,T van der Gugten,AR Cusack,,0,0,0,run out,AR Cusack,T van der Gugten,352823528

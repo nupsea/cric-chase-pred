@@ -1,0 +1,122 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,England,0,DJ Malan,Imad Wasim,JJ Roy,,0,0,0,,,,31444231444
+2,England,0,DJ Malan,Imad Wasim,JJ Roy,,0,0,0,,,,31444231444
+2,England,0,DJ Malan,Imad Wasim,JJ Roy,,0,1,1,,,,31444231444
+2,England,0,JJ Roy,Imad Wasim,DJ Malan,,0,0,0,,,,31444231444
+2,England,0,JJ Roy,Imad Wasim,DJ Malan,,0,2,2,,,,31444231444
+2,England,0,JJ Roy,Imad Wasim,DJ Malan,,0,4,4,,,,31444231444
+2,England,1,DJ Malan,Shaheen Shah Afridi,JJ Roy,wides,5,5,0,,,,31444231444
+2,England,1,DJ Malan,Shaheen Shah Afridi,JJ Roy,,0,0,0,,,,31444231444
+2,England,1,DJ Malan,Shaheen Shah Afridi,JJ Roy,,0,0,0,,,,31444231444
+2,England,1,DJ Malan,Shaheen Shah Afridi,JJ Roy,,0,0,0,caught and bowled,DJ Malan,,31444231444
+2,England,1,JM Bairstow,Shaheen Shah Afridi,JJ Roy,,0,0,0,,,,31444231444
+2,England,1,JM Bairstow,Shaheen Shah Afridi,JJ Roy,,0,0,0,,,,31444231444
+2,England,1,JM Bairstow,Shaheen Shah Afridi,JJ Roy,,0,4,4,,,,31444231444
+2,England,2,JJ Roy,Imad Wasim,JM Bairstow,,0,6,6,,,,31444231444
+2,England,2,JJ Roy,Imad Wasim,JM Bairstow,,0,0,0,,,,31444231444
+2,England,2,JJ Roy,Imad Wasim,JM Bairstow,,0,1,1,,,,31444231444
+2,England,2,JM Bairstow,Imad Wasim,JJ Roy,,0,1,1,,,,31444231444
+2,England,2,JJ Roy,Imad Wasim,JM Bairstow,,0,6,6,,,,31444231444
+2,England,2,JJ Roy,Imad Wasim,JM Bairstow,,0,6,6,,,,31444231444
+2,England,3,JM Bairstow,Shaheen Shah Afridi,JJ Roy,,0,6,6,,,,31444231444
+2,England,3,JM Bairstow,Shaheen Shah Afridi,JJ Roy,,0,0,0,,,,31444231444
+2,England,3,JM Bairstow,Shaheen Shah Afridi,JJ Roy,,0,0,0,caught,JM Bairstow,Imad Wasim,31444231444
+2,England,3,JJ Roy,Shaheen Shah Afridi,MM Ali,,0,1,1,,,,31444231444
+2,England,3,MM Ali,Shaheen Shah Afridi,JJ Roy,,0,1,1,,,,31444231444
+2,England,3,JJ Roy,Shaheen Shah Afridi,MM Ali,,0,4,4,,,,31444231444
+2,England,4,MM Ali,Mohammad Hasnain,JJ Roy,,0,0,0,,,,31444231444
+2,England,4,MM Ali,Mohammad Hasnain,JJ Roy,,0,0,0,,,,31444231444
+2,England,4,MM Ali,Mohammad Hasnain,JJ Roy,,0,0,0,caught,MM Ali,Haris Rauf,31444231444
+2,England,4,JJ Roy,Mohammad Hasnain,LS Livingstone,,0,1,1,,,,31444231444
+2,England,4,LS Livingstone,Mohammad Hasnain,JJ Roy,,0,0,0,,,,31444231444
+2,England,4,LS Livingstone,Mohammad Hasnain,JJ Roy,,0,1,1,,,,31444231444
+2,England,5,LS Livingstone,Haris Rauf,JJ Roy,,0,1,1,,,,31444231444
+2,England,5,JJ Roy,Haris Rauf,LS Livingstone,,0,1,1,,,,31444231444
+2,England,5,LS Livingstone,Haris Rauf,JJ Roy,,0,6,6,,,,31444231444
+2,England,5,LS Livingstone,Haris Rauf,JJ Roy,,0,4,4,,,,31444231444
+2,England,5,LS Livingstone,Haris Rauf,JJ Roy,,0,6,6,,,,31444231444
+2,England,5,LS Livingstone,Haris Rauf,JJ Roy,,0,1,1,,,,31444231444
+2,England,6,LS Livingstone,Shadab Khan,JJ Roy,,0,6,6,,,,31444231444
+2,England,6,LS Livingstone,Shadab Khan,JJ Roy,,0,6,6,,,,31444231444
+2,England,6,LS Livingstone,Shadab Khan,JJ Roy,,0,1,1,,,,31444231444
+2,England,6,JJ Roy,Shadab Khan,LS Livingstone,,0,0,0,caught,JJ Roy,Babar Azam,31444231444
+2,England,6,LS Livingstone,Shadab Khan,EJG Morgan,,0,1,1,,,,31444231444
+2,England,6,EJG Morgan,Shadab Khan,LS Livingstone,,0,0,0,,,,31444231444
+2,England,7,LS Livingstone,Mohammad Hasnain,EJG Morgan,wides,1,1,0,,,,31444231444
+2,England,7,LS Livingstone,Mohammad Hasnain,EJG Morgan,,0,4,4,,,,31444231444
+2,England,7,LS Livingstone,Mohammad Hasnain,EJG Morgan,,0,2,2,,,,31444231444
+2,England,7,LS Livingstone,Mohammad Hasnain,EJG Morgan,,0,1,1,,,,31444231444
+2,England,7,EJG Morgan,Mohammad Hasnain,LS Livingstone,,0,0,0,,,,31444231444
+2,England,7,EJG Morgan,Mohammad Hasnain,LS Livingstone,,0,0,0,,,,31444231444
+2,England,7,EJG Morgan,Mohammad Hasnain,LS Livingstone,,0,1,1,,,,31444231444
+2,England,8,EJG Morgan,Shadab Khan,LS Livingstone,,0,1,1,,,,31444231444
+2,England,8,LS Livingstone,Shadab Khan,EJG Morgan,,0,6,6,,,,31444231444
+2,England,8,LS Livingstone,Shadab Khan,EJG Morgan,,0,0,0,,,,31444231444
+2,England,8,LS Livingstone,Shadab Khan,EJG Morgan,,0,4,4,,,,31444231444
+2,England,8,LS Livingstone,Shadab Khan,EJG Morgan,,0,6,6,,,,31444231444
+2,England,8,LS Livingstone,Shadab Khan,EJG Morgan,,0,1,1,,,,31444231444
+2,England,9,LS Livingstone,Imad Wasim,EJG Morgan,,0,4,4,,,,31444231444
+2,England,9,LS Livingstone,Imad Wasim,EJG Morgan,,0,1,1,,,,31444231444
+2,England,9,EJG Morgan,Imad Wasim,LS Livingstone,,0,2,2,,,,31444231444
+2,England,9,EJG Morgan,Imad Wasim,LS Livingstone,,0,1,1,,,,31444231444
+2,England,9,LS Livingstone,Imad Wasim,EJG Morgan,,0,1,1,,,,31444231444
+2,England,9,EJG Morgan,Imad Wasim,LS Livingstone,,0,1,1,,,,31444231444
+2,England,10,EJG Morgan,Haris Rauf,LS Livingstone,,0,1,1,,,,31444231444
+2,England,10,LS Livingstone,Haris Rauf,EJG Morgan,,0,1,1,,,,31444231444
+2,England,10,EJG Morgan,Haris Rauf,LS Livingstone,,0,1,1,,,,31444231444
+2,England,10,LS Livingstone,Haris Rauf,EJG Morgan,legbyes,1,1,0,,,,31444231444
+2,England,10,EJG Morgan,Haris Rauf,LS Livingstone,,0,0,0,,,,31444231444
+2,England,10,EJG Morgan,Haris Rauf,LS Livingstone,,0,1,1,,,,31444231444
+2,England,11,EJG Morgan,Imad Wasim,LS Livingstone,,0,6,6,,,,31444231444
+2,England,11,EJG Morgan,Imad Wasim,LS Livingstone,,0,1,1,,,,31444231444
+2,England,11,LS Livingstone,Imad Wasim,EJG Morgan,,0,1,1,,,,31444231444
+2,England,11,EJG Morgan,Imad Wasim,LS Livingstone,,0,0,0,caught,EJG Morgan,Haris Rauf,31444231444
+2,England,11,LS Livingstone,Imad Wasim,L Gregory,,0,1,1,,,,31444231444
+2,England,11,L Gregory,Imad Wasim,LS Livingstone,,0,0,0,,,,31444231444
+2,England,12,LS Livingstone,Shadab Khan,L Gregory,,0,1,1,,,,31444231444
+2,England,12,L Gregory,Shadab Khan,LS Livingstone,,0,2,2,,,,31444231444
+2,England,12,L Gregory,Shadab Khan,LS Livingstone,,0,1,1,,,,31444231444
+2,England,12,LS Livingstone,Shadab Khan,L Gregory,wides,1,1,0,,,,31444231444
+2,England,12,LS Livingstone,Shadab Khan,L Gregory,,0,0,0,,,,31444231444
+2,England,12,LS Livingstone,Shadab Khan,L Gregory,wides,1,1,0,,,,31444231444
+2,England,12,LS Livingstone,Shadab Khan,L Gregory,,0,1,1,,,,31444231444
+2,England,12,L Gregory,Shadab Khan,LS Livingstone,,0,1,1,,,,31444231444
+2,England,13,L Gregory,Mohammad Hasnain,LS Livingstone,,0,1,1,,,,31444231444
+2,England,13,LS Livingstone,Mohammad Hasnain,L Gregory,,0,1,1,,,,31444231444
+2,England,13,L Gregory,Mohammad Hasnain,LS Livingstone,,0,2,2,,,,31444231444
+2,England,13,L Gregory,Mohammad Hasnain,LS Livingstone,,0,1,1,,,,31444231444
+2,England,13,LS Livingstone,Mohammad Hasnain,L Gregory,,0,4,4,,,,31444231444
+2,England,13,LS Livingstone,Mohammad Hasnain,L Gregory,,0,1,1,,,,31444231444
+2,England,14,LS Livingstone,Shaheen Shah Afridi,L Gregory,,0,0,0,,,,31444231444
+2,England,14,LS Livingstone,Shaheen Shah Afridi,L Gregory,,0,6,6,,,,31444231444
+2,England,14,LS Livingstone,Shaheen Shah Afridi,L Gregory,,0,1,1,,,,31444231444
+2,England,14,L Gregory,Shaheen Shah Afridi,LS Livingstone,,0,0,0,,,,31444231444
+2,England,14,L Gregory,Shaheen Shah Afridi,LS Livingstone,,0,1,1,,,,31444231444
+2,England,14,LS Livingstone,Shaheen Shah Afridi,L Gregory,,0,1,1,,,,31444231444
+2,England,15,LS Livingstone,Haris Rauf,L Gregory,,0,4,4,,,,31444231444
+2,England,15,LS Livingstone,Haris Rauf,L Gregory,,0,2,2,,,,31444231444
+2,England,15,LS Livingstone,Haris Rauf,L Gregory,,0,2,2,,,,31444231444
+2,England,15,LS Livingstone,Haris Rauf,L Gregory,,0,1,1,,,,31444231444
+2,England,15,L Gregory,Haris Rauf,LS Livingstone,,0,1,1,,,,31444231444
+2,England,15,LS Livingstone,Haris Rauf,L Gregory,,0,6,6,,,,31444231444
+2,England,16,L Gregory,Shadab Khan,LS Livingstone,,0,0,0,caught,L Gregory,Shaheen Shah Afridi,31444231444
+2,England,16,LS Livingstone,Shadab Khan,DJ Willey,,0,6,6,,,,31444231444
+2,England,16,LS Livingstone,Shadab Khan,DJ Willey,,0,0,0,caught,LS Livingstone,Shaheen Shah Afridi,31444231444
+2,England,16,DJ Willey,Shadab Khan,TK Curran,,0,0,0,,,,31444231444
+2,England,16,DJ Willey,Shadab Khan,TK Curran,,0,6,6,,,,31444231444
+2,England,16,DJ Willey,Shadab Khan,TK Curran,,0,0,0,,,,31444231444
+2,England,17,TK Curran,Mohammad Hasnain,DJ Willey,,0,1,1,,,,31444231444
+2,England,17,DJ Willey,Mohammad Hasnain,TK Curran,,0,1,1,,,,31444231444
+2,England,17,TK Curran,Mohammad Hasnain,DJ Willey,,0,0,0,run out,TK Curran,Shadab Khan,31444231444
+2,England,17,DJ Willey,Mohammad Hasnain,S Mahmood,,0,4,4,,,,31444231444
+2,England,17,DJ Willey,Mohammad Hasnain,S Mahmood,,0,0,0,,,,31444231444
+2,England,17,DJ Willey,Mohammad Hasnain,S Mahmood,,0,1,1,,,,31444231444
+2,England,18,DJ Willey,Haris Rauf,S Mahmood,wides,1,1,0,,,,31444231444
+2,England,18,DJ Willey,Haris Rauf,S Mahmood,,0,4,4,,,,31444231444
+2,England,18,DJ Willey,Haris Rauf,S Mahmood,,0,0,0,,,,31444231444
+2,England,18,DJ Willey,Haris Rauf,S Mahmood,,0,0,0,,,,31444231444
+2,England,18,DJ Willey,Haris Rauf,S Mahmood,,0,0,0,caught,DJ Willey,Shadab Khan,31444231444
+2,England,18,S Mahmood,Haris Rauf,MW Parkinson,,0,0,0,,,,31444231444
+2,England,18,S Mahmood,Haris Rauf,MW Parkinson,,0,0,0,,,,31444231444
+2,England,19,MW Parkinson,Shaheen Shah Afridi,S Mahmood,,0,0,0,,,,31444231444
+2,England,19,MW Parkinson,Shaheen Shah Afridi,S Mahmood,,0,0,0,bowled,MW Parkinson,,31444231444

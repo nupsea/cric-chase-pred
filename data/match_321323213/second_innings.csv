@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Pakistan,0,Awais Zia,ST Finn,Mohammad Hafeez,,0,2,2,,,,321323213
+2,Pakistan,0,Awais Zia,ST Finn,Mohammad Hafeez,,0,0,0,,,,321323213
+2,Pakistan,0,Awais Zia,ST Finn,Mohammad Hafeez,,0,0,0,,,,321323213
+2,Pakistan,0,Awais Zia,ST Finn,Mohammad Hafeez,legbyes,4,4,0,,,,321323213
+2,Pakistan,0,Awais Zia,ST Finn,Mohammad Hafeez,,0,0,0,,,,321323213
+2,Pakistan,0,Awais Zia,ST Finn,Mohammad Hafeez,,0,2,2,,,,321323213
+2,Pakistan,1,Mohammad Hafeez,JW Dernbach,Awais Zia,,0,0,0,caught and bowled,Mohammad Hafeez,,321323213
+2,Pakistan,1,Asad Shafiq,JW Dernbach,Awais Zia,,0,0,0,,,,321323213
+2,Pakistan,1,Asad Shafiq,JW Dernbach,Awais Zia,,0,1,1,,,,321323213
+2,Pakistan,1,Awais Zia,JW Dernbach,Asad Shafiq,,0,1,1,,,,321323213
+2,Pakistan,1,Asad Shafiq,JW Dernbach,Awais Zia,,0,1,1,,,,321323213
+2,Pakistan,1,Awais Zia,JW Dernbach,Asad Shafiq,legbyes,1,1,0,,,,321323213
+2,Pakistan,2,Awais Zia,ST Finn,Asad Shafiq,,0,6,6,,,,321323213
+2,Pakistan,2,Awais Zia,ST Finn,Asad Shafiq,,0,1,1,,,,321323213
+2,Pakistan,2,Asad Shafiq,ST Finn,Awais Zia,,0,1,1,,,,321323213
+2,Pakistan,2,Awais Zia,ST Finn,Asad Shafiq,legbyes,1,1,0,,,,321323213
+2,Pakistan,2,Asad Shafiq,ST Finn,Awais Zia,,0,0,0,,,,321323213
+2,Pakistan,2,Asad Shafiq,ST Finn,Awais Zia,legbyes,1,1,0,,,,321323213
+2,Pakistan,3,Asad Shafiq,JW Dernbach,Awais Zia,,0,1,1,,,,321323213
+2,Pakistan,3,Awais Zia,JW Dernbach,Asad Shafiq,,0,1,1,,,,321323213
+2,Pakistan,3,Asad Shafiq,JW Dernbach,Awais Zia,,0,1,1,,,,321323213
+2,Pakistan,3,Awais Zia,JW Dernbach,Asad Shafiq,,0,4,4,,,,321323213
+2,Pakistan,3,Awais Zia,JW Dernbach,Asad Shafiq,,0,0,0,,,,321323213
+2,Pakistan,3,Awais Zia,JW Dernbach,Asad Shafiq,,0,1,1,,,,321323213
+2,Pakistan,4,Awais Zia,ST Finn,Asad Shafiq,,0,1,1,,,,321323213
+2,Pakistan,4,Asad Shafiq,ST Finn,Awais Zia,,0,4,4,,,,321323213
+2,Pakistan,4,Asad Shafiq,ST Finn,Awais Zia,,0,1,1,,,,321323213
+2,Pakistan,4,Awais Zia,ST Finn,Asad Shafiq,,0,0,0,,,,321323213
+2,Pakistan,4,Awais Zia,ST Finn,Asad Shafiq,wides,1,1,0,,,,321323213
+2,Pakistan,4,Awais Zia,ST Finn,Asad Shafiq,,0,1,1,,,,321323213
+2,Pakistan,4,Asad Shafiq,ST Finn,Awais Zia,,0,2,2,,,,321323213
+2,Pakistan,5,Awais Zia,SCJ Broad,Asad Shafiq,,0,0,0,,,,321323213
+2,Pakistan,5,Awais Zia,SCJ Broad,Asad Shafiq,,0,1,1,,,,321323213
+2,Pakistan,5,Asad Shafiq,SCJ Broad,Awais Zia,,0,2,2,,,,321323213
+2,Pakistan,5,Asad Shafiq,SCJ Broad,Awais Zia,,0,1,1,,,,321323213
+2,Pakistan,5,Awais Zia,SCJ Broad,Asad Shafiq,,0,0,0,,,,321323213
+2,Pakistan,5,Awais Zia,SCJ Broad,Asad Shafiq,,0,1,1,,,,321323213
+2,Pakistan,6,Awais Zia,SR Patel,Asad Shafiq,,0,0,0,,,,321323213
+2,Pakistan,6,Awais Zia,SR Patel,Asad Shafiq,,0,0,0,,,,321323213
+2,Pakistan,6,Awais Zia,SR Patel,Asad Shafiq,,0,1,1,,,,321323213
+2,Pakistan,6,Asad Shafiq,SR Patel,Awais Zia,,0,1,1,,,,321323213
+2,Pakistan,6,Awais Zia,SR Patel,Asad Shafiq,,0,0,0,,,,321323213
+2,Pakistan,6,Awais Zia,SR Patel,Asad Shafiq,,0,0,0,,,,321323213
+2,Pakistan,7,Asad Shafiq,GP Swann,Awais Zia,,0,1,1,,,,321323213
+2,Pakistan,7,Awais Zia,GP Swann,Asad Shafiq,,0,0,0,lbw,Awais Zia,,321323213
+2,Pakistan,7,Misbah-ul-Haq,GP Swann,Asad Shafiq,,0,0,0,,,,321323213
+2,Pakistan,7,Misbah-ul-Haq,GP Swann,Asad Shafiq,,0,1,1,,,,321323213
+2,Pakistan,7,Asad Shafiq,GP Swann,Misbah-ul-Haq,,0,0,0,,,,321323213
+2,Pakistan,7,Asad Shafiq,GP Swann,Misbah-ul-Haq,,0,0,0,,,,321323213
+2,Pakistan,8,Misbah-ul-Haq,SR Patel,Asad Shafiq,,0,1,1,,,,321323213
+2,Pakistan,8,Asad Shafiq,SR Patel,Misbah-ul-Haq,,0,0,0,,,,321323213
+2,Pakistan,8,Asad Shafiq,SR Patel,Misbah-ul-Haq,,0,0,0,,,,321323213
+2,Pakistan,8,Asad Shafiq,SR Patel,Misbah-ul-Haq,,0,0,0,,,,321323213
+2,Pakistan,8,Asad Shafiq,SR Patel,Misbah-ul-Haq,,0,1,1,,,,321323213
+2,Pakistan,8,Misbah-ul-Haq,SR Patel,Asad Shafiq,,0,1,1,,,,321323213
+2,Pakistan,9,Misbah-ul-Haq,GP Swann,Asad Shafiq,,0,0,0,,,,321323213
+2,Pakistan,9,Misbah-ul-Haq,GP Swann,Asad Shafiq,,0,1,1,,,,321323213
+2,Pakistan,9,Asad Shafiq,GP Swann,Misbah-ul-Haq,,0,2,2,,,,321323213
+2,Pakistan,9,Asad Shafiq,GP Swann,Misbah-ul-Haq,,0,0,0,,,,321323213
+2,Pakistan,9,Asad Shafiq,GP Swann,Misbah-ul-Haq,,0,1,1,,,,321323213
+2,Pakistan,9,Misbah-ul-Haq,GP Swann,Asad Shafiq,,0,1,1,,,,321323213
+2,Pakistan,10,Misbah-ul-Haq,SCJ Broad,Asad Shafiq,,0,0,0,,,,321323213
+2,Pakistan,10,Misbah-ul-Haq,SCJ Broad,Asad Shafiq,,0,1,1,,,,321323213
+2,Pakistan,10,Asad Shafiq,SCJ Broad,Misbah-ul-Haq,,0,4,4,,,,321323213
+2,Pakistan,10,Asad Shafiq,SCJ Broad,Misbah-ul-Haq,,0,4,4,,,,321323213
+2,Pakistan,10,Asad Shafiq,SCJ Broad,Misbah-ul-Haq,,0,1,1,,,,321323213
+2,Pakistan,10,Misbah-ul-Haq,SCJ Broad,Asad Shafiq,,0,1,1,,,,321323213
+2,Pakistan,11,Misbah-ul-Haq,GP Swann,Asad Shafiq,wides,2,2,0,,,,321323213
+2,Pakistan,11,Asad Shafiq,GP Swann,Misbah-ul-Haq,,0,0,0,,,,321323213
+2,Pakistan,11,Asad Shafiq,GP Swann,Misbah-ul-Haq,,0,1,1,,,,321323213
+2,Pakistan,11,Misbah-ul-Haq,GP Swann,Asad Shafiq,,0,1,1,,,,321323213
+2,Pakistan,11,Asad Shafiq,GP Swann,Misbah-ul-Haq,,0,1,1,,,,321323213
+2,Pakistan,11,Misbah-ul-Haq,GP Swann,Asad Shafiq,,0,1,1,,,,321323213
+2,Pakistan,11,Asad Shafiq,GP Swann,Misbah-ul-Haq,,0,1,1,,,,321323213
+2,Pakistan,12,Asad Shafiq,SR Patel,Misbah-ul-Haq,,0,1,1,run out,Asad Shafiq,C Kieswetter,321323213
+2,Pakistan,12,Umar Akmal,SR Patel,Misbah-ul-Haq,,0,0,0,,,,321323213
+2,Pakistan,12,Umar Akmal,SR Patel,Misbah-ul-Haq,,0,1,1,,,,321323213
+2,Pakistan,12,Misbah-ul-Haq,SR Patel,Umar Akmal,,0,1,1,,,,321323213
+2,Pakistan,12,Umar Akmal,SR Patel,Misbah-ul-Haq,,0,0,0,,,,321323213
+2,Pakistan,12,Umar Akmal,SR Patel,Misbah-ul-Haq,,0,1,1,,,,321323213
+2,Pakistan,13,Umar Akmal,GP Swann,Misbah-ul-Haq,,0,1,1,,,,321323213
+2,Pakistan,13,Misbah-ul-Haq,GP Swann,Umar Akmal,,0,1,1,,,,321323213
+2,Pakistan,13,Umar Akmal,GP Swann,Misbah-ul-Haq,,0,0,0,,,,321323213
+2,Pakistan,13,Umar Akmal,GP Swann,Misbah-ul-Haq,,0,2,2,,,,321323213
+2,Pakistan,13,Umar Akmal,GP Swann,Misbah-ul-Haq,,0,1,1,,,,321323213
+2,Pakistan,13,Misbah-ul-Haq,GP Swann,Umar Akmal,,0,1,1,,,,321323213
+2,Pakistan,14,Misbah-ul-Haq,SR Patel,Umar Akmal,,0,4,4,,,,321323213
+2,Pakistan,14,Misbah-ul-Haq,SR Patel,Umar Akmal,,0,1,1,,,,321323213
+2,Pakistan,14,Umar Akmal,SR Patel,Misbah-ul-Haq,,0,1,1,,,,321323213
+2,Pakistan,14,Misbah-ul-Haq,SR Patel,Umar Akmal,,0,1,1,,,,321323213
+2,Pakistan,14,Umar Akmal,SR Patel,Misbah-ul-Haq,,0,0,0,,,,321323213
+2,Pakistan,14,Umar Akmal,SR Patel,Misbah-ul-Haq,,0,2,2,,,,321323213
+2,Pakistan,15,Misbah-ul-Haq,SCJ Broad,Umar Akmal,,0,0,0,,,,321323213
+2,Pakistan,15,Misbah-ul-Haq,SCJ Broad,Umar Akmal,,0,1,1,,,,321323213
+2,Pakistan,15,Umar Akmal,SCJ Broad,Misbah-ul-Haq,,0,1,1,,,,321323213
+2,Pakistan,15,Misbah-ul-Haq,SCJ Broad,Umar Akmal,,0,0,0,,,,321323213
+2,Pakistan,15,Misbah-ul-Haq,SCJ Broad,Umar Akmal,,0,2,2,,,,321323213
+2,Pakistan,15,Misbah-ul-Haq,SCJ Broad,Umar Akmal,,0,0,0,,,,321323213
+2,Pakistan,16,Umar Akmal,ST Finn,Misbah-ul-Haq,,0,0,0,,,,321323213
+2,Pakistan,16,Umar Akmal,ST Finn,Misbah-ul-Haq,,0,2,2,,,,321323213
+2,Pakistan,16,Umar Akmal,ST Finn,Misbah-ul-Haq,,0,4,4,,,,321323213
+2,Pakistan,16,Umar Akmal,ST Finn,Misbah-ul-Haq,,0,2,2,,,,321323213
+2,Pakistan,16,Umar Akmal,ST Finn,Misbah-ul-Haq,,0,1,1,,,,321323213
+2,Pakistan,16,Misbah-ul-Haq,ST Finn,Umar Akmal,,0,0,0,,,,321323213
+2,Pakistan,17,Umar Akmal,JW Dernbach,Misbah-ul-Haq,,0,1,1,,,,321323213
+2,Pakistan,17,Misbah-ul-Haq,JW Dernbach,Umar Akmal,wides,1,1,0,,,,321323213
+2,Pakistan,17,Misbah-ul-Haq,JW Dernbach,Umar Akmal,,0,1,1,,,,321323213
+2,Pakistan,17,Umar Akmal,JW Dernbach,Misbah-ul-Haq,,0,1,1,,,,321323213
+2,Pakistan,17,Misbah-ul-Haq,JW Dernbach,Umar Akmal,,0,0,0,,,,321323213
+2,Pakistan,17,Misbah-ul-Haq,JW Dernbach,Umar Akmal,,0,1,1,,,,321323213
+2,Pakistan,17,Umar Akmal,JW Dernbach,Misbah-ul-Haq,,0,1,1,,,,321323213
+2,Pakistan,18,Umar Akmal,SCJ Broad,Misbah-ul-Haq,,0,0,0,,,,321323213
+2,Pakistan,18,Umar Akmal,SCJ Broad,Misbah-ul-Haq,,0,0,0,,,,321323213
+2,Pakistan,18,Umar Akmal,SCJ Broad,Misbah-ul-Haq,,0,0,0,caught,Umar Akmal,GP Swann,321323213
+2,Pakistan,18,Misbah-ul-Haq,SCJ Broad,Shahid Afridi,,0,4,4,,,,321323213
+2,Pakistan,18,Misbah-ul-Haq,SCJ Broad,Shahid Afridi,,0,0,0,,,,321323213
+2,Pakistan,18,Misbah-ul-Haq,SCJ Broad,Shahid Afridi,,0,0,0,,,,321323213
+2,Pakistan,19,Shahid Afridi,JW Dernbach,Misbah-ul-Haq,,0,2,2,,,,321323213
+2,Pakistan,19,Shahid Afridi,JW Dernbach,Misbah-ul-Haq,,0,1,1,run out,Shahid Afridi,C Kieswetter,321323213
+2,Pakistan,19,Hammad Azam,JW Dernbach,Misbah-ul-Haq,,0,1,1,,,,321323213
+2,Pakistan,19,Misbah-ul-Haq,JW Dernbach,Hammad Azam,wides,1,1,0,,,,321323213
+2,Pakistan,19,Misbah-ul-Haq,JW Dernbach,Hammad Azam,,0,1,1,,,,321323213
+2,Pakistan,19,Hammad Azam,JW Dernbach,Misbah-ul-Haq,,0,1,1,,,,321323213
+2,Pakistan,19,Misbah-ul-Haq,JW Dernbach,Hammad Azam,,0,0,0,bowled,Misbah-ul-Haq,,321323213

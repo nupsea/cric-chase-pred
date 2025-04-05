@@ -1,0 +1,129 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Sri Lanka,0,RMVD Gunaratne,KH Brunt,AC Jayangani,,0,0,0,lbw,RMVD Gunaratne,,31876231876
+1,Sri Lanka,0,GWHM Perera,KH Brunt,AC Jayangani,,0,0,0,,,,31876231876
+1,Sri Lanka,0,GWHM Perera,KH Brunt,AC Jayangani,,0,0,0,,,,31876231876
+1,Sri Lanka,0,GWHM Perera,KH Brunt,AC Jayangani,,0,1,1,,,,31876231876
+1,Sri Lanka,0,AC Jayangani,KH Brunt,GWHM Perera,,0,0,0,,,,31876231876
+1,Sri Lanka,0,AC Jayangani,KH Brunt,GWHM Perera,,0,0,0,,,,31876231876
+1,Sri Lanka,1,GWHM Perera,IECM Wong,AC Jayangani,,0,0,0,,,,31876231876
+1,Sri Lanka,1,GWHM Perera,IECM Wong,AC Jayangani,,0,0,0,,,,31876231876
+1,Sri Lanka,1,GWHM Perera,IECM Wong,AC Jayangani,wides,1,1,0,,,,31876231876
+1,Sri Lanka,1,GWHM Perera,IECM Wong,AC Jayangani,,0,0,0,,,,31876231876
+1,Sri Lanka,1,GWHM Perera,IECM Wong,AC Jayangani,,0,0,0,,,,31876231876
+1,Sri Lanka,1,GWHM Perera,IECM Wong,AC Jayangani,,0,0,0,,,,31876231876
+1,Sri Lanka,1,GWHM Perera,IECM Wong,AC Jayangani,,0,4,4,,,,31876231876
+1,Sri Lanka,2,AC Jayangani,KH Brunt,GWHM Perera,,0,0,0,,,,31876231876
+1,Sri Lanka,2,AC Jayangani,KH Brunt,GWHM Perera,,0,0,0,,,,31876231876
+1,Sri Lanka,2,AC Jayangani,KH Brunt,GWHM Perera,,0,0,0,,,,31876231876
+1,Sri Lanka,2,AC Jayangani,KH Brunt,GWHM Perera,,0,0,0,,,,31876231876
+1,Sri Lanka,2,AC Jayangani,KH Brunt,GWHM Perera,,0,0,0,,,,31876231876
+1,Sri Lanka,2,AC Jayangani,KH Brunt,GWHM Perera,,0,4,4,,,,31876231876
+1,Sri Lanka,3,GWHM Perera,A Capsey,AC Jayangani,,0,1,1,,,,31876231876
+1,Sri Lanka,3,AC Jayangani,A Capsey,GWHM Perera,,0,4,4,,,,31876231876
+1,Sri Lanka,3,AC Jayangani,A Capsey,GWHM Perera,,0,0,0,,,,31876231876
+1,Sri Lanka,3,AC Jayangani,A Capsey,GWHM Perera,wides,5,5,0,,,,31876231876
+1,Sri Lanka,3,AC Jayangani,A Capsey,GWHM Perera,,0,0,0,,,,31876231876
+1,Sri Lanka,3,AC Jayangani,A Capsey,GWHM Perera,wides,1,1,0,,,,31876231876
+1,Sri Lanka,3,AC Jayangani,A Capsey,GWHM Perera,,0,0,0,,,,31876231876
+1,Sri Lanka,3,AC Jayangani,A Capsey,GWHM Perera,,0,0,0,,,,31876231876
+1,Sri Lanka,4,GWHM Perera,NR Sciver,AC Jayangani,wides,1,1,0,,,,31876231876
+1,Sri Lanka,4,GWHM Perera,NR Sciver,AC Jayangani,,0,0,0,,,,31876231876
+1,Sri Lanka,4,GWHM Perera,NR Sciver,AC Jayangani,,0,0,0,,,,31876231876
+1,Sri Lanka,4,GWHM Perera,NR Sciver,AC Jayangani,,0,2,2,,,,31876231876
+1,Sri Lanka,4,GWHM Perera,NR Sciver,AC Jayangani,,0,4,4,,,,31876231876
+1,Sri Lanka,4,GWHM Perera,NR Sciver,AC Jayangani,,0,1,1,,,,31876231876
+1,Sri Lanka,4,AC Jayangani,NR Sciver,GWHM Perera,,0,0,0,,,,31876231876
+1,Sri Lanka,5,GWHM Perera,S Ecclestone,AC Jayangani,,0,4,4,,,,31876231876
+1,Sri Lanka,5,GWHM Perera,S Ecclestone,AC Jayangani,,0,0,0,,,,31876231876
+1,Sri Lanka,5,GWHM Perera,S Ecclestone,AC Jayangani,,0,0,0,caught and bowled,GWHM Perera,,31876231876
+1,Sri Lanka,5,NND de Silva,S Ecclestone,AC Jayangani,,0,1,1,,,,31876231876
+1,Sri Lanka,5,AC Jayangani,S Ecclestone,NND de Silva,,0,0,0,,,,31876231876
+1,Sri Lanka,5,AC Jayangani,S Ecclestone,NND de Silva,,0,1,1,,,,31876231876
+1,Sri Lanka,6,AC Jayangani,S Glenn,NND de Silva,,0,1,1,,,,31876231876
+1,Sri Lanka,6,NND de Silva,S Glenn,AC Jayangani,,0,0,0,,,,31876231876
+1,Sri Lanka,6,NND de Silva,S Glenn,AC Jayangani,,0,2,2,,,,31876231876
+1,Sri Lanka,6,NND de Silva,S Glenn,AC Jayangani,,0,0,0,,,,31876231876
+1,Sri Lanka,6,NND de Silva,S Glenn,AC Jayangani,,0,0,0,,,,31876231876
+1,Sri Lanka,6,NND de Silva,S Glenn,AC Jayangani,,0,0,0,,,,31876231876
+1,Sri Lanka,7,AC Jayangani,FG Kemp,NND de Silva,,0,0,0,bowled,AC Jayangani,,31876231876
+1,Sri Lanka,7,WK Dilhari,FG Kemp,NND de Silva,,0,4,4,,,,31876231876
+1,Sri Lanka,7,WK Dilhari,FG Kemp,NND de Silva,,0,1,1,,,,31876231876
+1,Sri Lanka,7,NND de Silva,FG Kemp,WK Dilhari,,0,0,0,,,,31876231876
+1,Sri Lanka,7,NND de Silva,FG Kemp,WK Dilhari,,0,4,4,,,,31876231876
+1,Sri Lanka,7,NND de Silva,FG Kemp,WK Dilhari,,0,0,0,,,,31876231876
+1,Sri Lanka,8,WK Dilhari,S Glenn,NND de Silva,,0,0,0,,,,31876231876
+1,Sri Lanka,8,WK Dilhari,S Glenn,NND de Silva,,0,0,0,,,,31876231876
+1,Sri Lanka,8,WK Dilhari,S Glenn,NND de Silva,wides,1,1,0,,,,31876231876
+1,Sri Lanka,8,WK Dilhari,S Glenn,NND de Silva,,0,2,2,,,,31876231876
+1,Sri Lanka,8,WK Dilhari,S Glenn,NND de Silva,,0,1,1,,,,31876231876
+1,Sri Lanka,8,NND de Silva,S Glenn,WK Dilhari,,0,0,0,,,,31876231876
+1,Sri Lanka,8,NND de Silva,S Glenn,WK Dilhari,,0,1,1,,,,31876231876
+1,Sri Lanka,9,NND de Silva,S Ecclestone,WK Dilhari,,0,2,2,,,,31876231876
+1,Sri Lanka,9,NND de Silva,S Ecclestone,WK Dilhari,,0,0,0,,,,31876231876
+1,Sri Lanka,9,NND de Silva,S Ecclestone,WK Dilhari,,0,2,2,,,,31876231876
+1,Sri Lanka,9,NND de Silva,S Ecclestone,WK Dilhari,,0,0,0,,,,31876231876
+1,Sri Lanka,9,NND de Silva,S Ecclestone,WK Dilhari,,0,1,1,,,,31876231876
+1,Sri Lanka,9,WK Dilhari,S Ecclestone,NND de Silva,,0,2,2,,,,31876231876
+1,Sri Lanka,10,NND de Silva,KH Brunt,WK Dilhari,,0,0,0,,,,31876231876
+1,Sri Lanka,10,NND de Silva,KH Brunt,WK Dilhari,,0,0,0,,,,31876231876
+1,Sri Lanka,10,NND de Silva,KH Brunt,WK Dilhari,,0,2,2,,,,31876231876
+1,Sri Lanka,10,NND de Silva,KH Brunt,WK Dilhari,,0,1,1,,,,31876231876
+1,Sri Lanka,10,WK Dilhari,KH Brunt,NND de Silva,legbyes,1,1,0,,,,31876231876
+1,Sri Lanka,10,NND de Silva,KH Brunt,WK Dilhari,,0,0,0,,,,31876231876
+1,Sri Lanka,11,WK Dilhari,FG Kemp,NND de Silva,,0,0,0,,,,31876231876
+1,Sri Lanka,11,WK Dilhari,FG Kemp,NND de Silva,,0,0,0,caught,WK Dilhari,A Capsey,31876231876
+1,Sri Lanka,11,MAA Sanjeewani,FG Kemp,NND de Silva,,0,0,0,,,,31876231876
+1,Sri Lanka,11,MAA Sanjeewani,FG Kemp,NND de Silva,,0,0,0,,,,31876231876
+1,Sri Lanka,11,MAA Sanjeewani,FG Kemp,NND de Silva,,0,1,1,,,,31876231876
+1,Sri Lanka,11,NND de Silva,FG Kemp,MAA Sanjeewani,,0,4,4,,,,31876231876
+1,Sri Lanka,12,MAA Sanjeewani,S Glenn,NND de Silva,,0,1,1,,,,31876231876
+1,Sri Lanka,12,NND de Silva,S Glenn,MAA Sanjeewani,,0,2,2,,,,31876231876
+1,Sri Lanka,12,NND de Silva,S Glenn,MAA Sanjeewani,,0,0,0,,,,31876231876
+1,Sri Lanka,12,NND de Silva,S Glenn,MAA Sanjeewani,,0,2,2,,,,31876231876
+1,Sri Lanka,12,NND de Silva,S Glenn,MAA Sanjeewani,,0,1,1,,,,31876231876
+1,Sri Lanka,12,MAA Sanjeewani,S Glenn,NND de Silva,,0,0,0,,,,31876231876
+1,Sri Lanka,13,NND de Silva,IECM Wong,MAA Sanjeewani,,0,0,0,,,,31876231876
+1,Sri Lanka,13,NND de Silva,IECM Wong,MAA Sanjeewani,,0,0,0,caught,NND de Silva,DN Wyatt,31876231876
+1,Sri Lanka,13,MAA Sanjeewani,IECM Wong,KADA Kanchana,,0,0,0,,,,31876231876
+1,Sri Lanka,13,MAA Sanjeewani,IECM Wong,KADA Kanchana,,0,0,0,,,,31876231876
+1,Sri Lanka,13,MAA Sanjeewani,IECM Wong,KADA Kanchana,,0,0,0,,,,31876231876
+1,Sri Lanka,13,MAA Sanjeewani,IECM Wong,KADA Kanchana,,0,0,0,caught,MAA Sanjeewani,AE Jones,31876231876
+1,Sri Lanka,14,KADA Kanchana,NR Sciver,OU Ranasinghe,,0,0,0,,,,31876231876
+1,Sri Lanka,14,KADA Kanchana,NR Sciver,OU Ranasinghe,,0,1,1,,,,31876231876
+1,Sri Lanka,14,OU Ranasinghe,NR Sciver,KADA Kanchana,,0,0,0,,,,31876231876
+1,Sri Lanka,14,OU Ranasinghe,NR Sciver,KADA Kanchana,,0,0,0,,,,31876231876
+1,Sri Lanka,14,OU Ranasinghe,NR Sciver,KADA Kanchana,,0,0,0,,,,31876231876
+1,Sri Lanka,14,OU Ranasinghe,NR Sciver,KADA Kanchana,,0,0,0,,,,31876231876
+1,Sri Lanka,15,KADA Kanchana,S Ecclestone,OU Ranasinghe,byes,2,2,0,,,,31876231876
+1,Sri Lanka,15,KADA Kanchana,S Ecclestone,OU Ranasinghe,,0,1,1,,,,31876231876
+1,Sri Lanka,15,OU Ranasinghe,S Ecclestone,KADA Kanchana,,0,0,0,,,,31876231876
+1,Sri Lanka,15,OU Ranasinghe,S Ecclestone,KADA Kanchana,,0,1,1,,,,31876231876
+1,Sri Lanka,15,KADA Kanchana,S Ecclestone,OU Ranasinghe,,0,4,4,,,,31876231876
+1,Sri Lanka,15,KADA Kanchana,S Ecclestone,OU Ranasinghe,,0,0,0,,,,31876231876
+1,Sri Lanka,16,OU Ranasinghe,S Glenn,KADA Kanchana,legbyes,1,1,0,,,,31876231876
+1,Sri Lanka,16,KADA Kanchana,S Glenn,OU Ranasinghe,,0,0,0,caught,KADA Kanchana,KH Brunt,31876231876
+1,Sri Lanka,16,OU Ranasinghe,S Glenn,BMSM Kumari,wides,1,1,0,,,,31876231876
+1,Sri Lanka,16,OU Ranasinghe,S Glenn,BMSM Kumari,,0,0,0,,,,31876231876
+1,Sri Lanka,16,OU Ranasinghe,S Glenn,BMSM Kumari,,0,1,1,,,,31876231876
+1,Sri Lanka,16,BMSM Kumari,S Glenn,OU Ranasinghe,,0,1,1,,,,31876231876
+1,Sri Lanka,16,OU Ranasinghe,S Glenn,BMSM Kumari,wides,1,1,0,,,,31876231876
+1,Sri Lanka,16,OU Ranasinghe,S Glenn,BMSM Kumari,,0,1,1,,,,31876231876
+1,Sri Lanka,17,OU Ranasinghe,IECM Wong,BMSM Kumari,,0,1,1,,,,31876231876
+1,Sri Lanka,17,BMSM Kumari,IECM Wong,OU Ranasinghe,,0,0,0,,,,31876231876
+1,Sri Lanka,17,BMSM Kumari,IECM Wong,OU Ranasinghe,legbyes,1,1,0,,,,31876231876
+1,Sri Lanka,17,OU Ranasinghe,IECM Wong,BMSM Kumari,,0,1,1,,,,31876231876
+1,Sri Lanka,17,BMSM Kumari,IECM Wong,OU Ranasinghe,,0,0,0,,,,31876231876
+1,Sri Lanka,17,BMSM Kumari,IECM Wong,OU Ranasinghe,wides,1,1,0,,,,31876231876
+1,Sri Lanka,17,BMSM Kumari,IECM Wong,OU Ranasinghe,,0,2,2,,,,31876231876
+1,Sri Lanka,18,OU Ranasinghe,NR Sciver,BMSM Kumari,,0,1,1,,,,31876231876
+1,Sri Lanka,18,BMSM Kumari,NR Sciver,OU Ranasinghe,,0,1,1,,,,31876231876
+1,Sri Lanka,18,OU Ranasinghe,NR Sciver,BMSM Kumari,,0,0,0,,,,31876231876
+1,Sri Lanka,18,OU Ranasinghe,NR Sciver,BMSM Kumari,,0,2,2,,,,31876231876
+1,Sri Lanka,18,OU Ranasinghe,NR Sciver,BMSM Kumari,,0,0,0,,,,31876231876
+1,Sri Lanka,18,OU Ranasinghe,NR Sciver,BMSM Kumari,,0,1,1,,,,31876231876
+1,Sri Lanka,19,OU Ranasinghe,S Ecclestone,BMSM Kumari,,0,0,0,,,,31876231876
+1,Sri Lanka,19,OU Ranasinghe,S Ecclestone,BMSM Kumari,,0,4,4,,,,31876231876
+1,Sri Lanka,19,OU Ranasinghe,S Ecclestone,BMSM Kumari,,0,0,0,caught,OU Ranasinghe,AE Jones,31876231876
+1,Sri Lanka,19,I Ranaweera,S Ecclestone,BMSM Kumari,,0,1,1,,,,31876231876
+1,Sri Lanka,19,BMSM Kumari,S Ecclestone,I Ranaweera,,0,0,0,bowled,BMSM Kumari,,31876231876
+1,Sri Lanka,19,WGAKK Kulasuriya,S Ecclestone,I Ranaweera,,0,1,1,,,,31876231876

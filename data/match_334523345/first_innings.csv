@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,H Davids,KMDN Kulasekara,Q de Kock,,0,0,0,,,,334523345
+1,South Africa,0,H Davids,KMDN Kulasekara,Q de Kock,,0,0,0,,,,334523345
+1,South Africa,0,H Davids,KMDN Kulasekara,Q de Kock,,0,2,2,,,,334523345
+1,South Africa,0,H Davids,KMDN Kulasekara,Q de Kock,,0,2,2,,,,334523345
+1,South Africa,0,H Davids,KMDN Kulasekara,Q de Kock,wides,1,1,0,,,,334523345
+1,South Africa,0,H Davids,KMDN Kulasekara,Q de Kock,,0,0,0,,,,334523345
+1,South Africa,0,H Davids,KMDN Kulasekara,Q de Kock,,0,1,1,,,,334523345
+1,South Africa,1,H Davids,SL Malinga,Q de Kock,,0,1,1,,,,334523345
+1,South Africa,1,Q de Kock,SL Malinga,H Davids,,0,0,0,,,,334523345
+1,South Africa,1,Q de Kock,SL Malinga,H Davids,,0,0,0,,,,334523345
+1,South Africa,1,Q de Kock,SL Malinga,H Davids,,0,3,3,,,,334523345
+1,South Africa,1,H Davids,SL Malinga,Q de Kock,,0,0,0,,,,334523345
+1,South Africa,1,H Davids,SL Malinga,Q de Kock,,0,1,1,,,,334523345
+1,South Africa,2,H Davids,KMDN Kulasekara,Q de Kock,,0,0,0,bowled,H Davids,,334523345
+1,South Africa,2,F du Plessis,KMDN Kulasekara,Q de Kock,,0,0,0,,,,334523345
+1,South Africa,2,F du Plessis,KMDN Kulasekara,Q de Kock,,0,1,1,,,,334523345
+1,South Africa,2,Q de Kock,KMDN Kulasekara,F du Plessis,,0,0,0,,,,334523345
+1,South Africa,2,Q de Kock,KMDN Kulasekara,F du Plessis,legbyes,2,2,0,,,,334523345
+1,South Africa,2,Q de Kock,KMDN Kulasekara,F du Plessis,,0,0,0,,,,334523345
+1,South Africa,3,F du Plessis,SMSM Senanayake,Q de Kock,,0,0,0,,,,334523345
+1,South Africa,3,F du Plessis,SMSM Senanayake,Q de Kock,,0,1,1,,,,334523345
+1,South Africa,3,Q de Kock,SMSM Senanayake,F du Plessis,,0,0,0,,,,334523345
+1,South Africa,3,Q de Kock,SMSM Senanayake,F du Plessis,,0,0,0,,,,334523345
+1,South Africa,3,Q de Kock,SMSM Senanayake,F du Plessis,,0,4,4,,,,334523345
+1,South Africa,3,Q de Kock,SMSM Senanayake,F du Plessis,,0,0,0,,,,334523345
+1,South Africa,4,F du Plessis,KMDN Kulasekara,Q de Kock,,0,1,1,,,,334523345
+1,South Africa,4,Q de Kock,KMDN Kulasekara,F du Plessis,,0,4,4,,,,334523345
+1,South Africa,4,Q de Kock,KMDN Kulasekara,F du Plessis,,0,4,4,,,,334523345
+1,South Africa,4,Q de Kock,KMDN Kulasekara,F du Plessis,,0,0,0,,,,334523345
+1,South Africa,4,Q de Kock,KMDN Kulasekara,F du Plessis,,0,0,0,,,,334523345
+1,South Africa,4,Q de Kock,KMDN Kulasekara,F du Plessis,,0,0,0,,,,334523345
+1,South Africa,5,F du Plessis,SMSM Senanayake,Q de Kock,,0,0,0,,,,334523345
+1,South Africa,5,F du Plessis,SMSM Senanayake,Q de Kock,,0,0,0,,,,334523345
+1,South Africa,5,F du Plessis,SMSM Senanayake,Q de Kock,,0,0,0,,,,334523345
+1,South Africa,5,F du Plessis,SMSM Senanayake,Q de Kock,,0,0,0,,,,334523345
+1,South Africa,5,F du Plessis,SMSM Senanayake,Q de Kock,,0,1,1,,,,334523345
+1,South Africa,5,Q de Kock,SMSM Senanayake,F du Plessis,,0,1,1,,,,334523345
+1,South Africa,6,Q de Kock,AD Mathews,F du Plessis,,0,0,0,,,,334523345
+1,South Africa,6,Q de Kock,AD Mathews,F du Plessis,,0,2,2,,,,334523345
+1,South Africa,6,Q de Kock,AD Mathews,F du Plessis,,0,1,1,,,,334523345
+1,South Africa,6,F du Plessis,AD Mathews,Q de Kock,,0,0,0,,,,334523345
+1,South Africa,6,F du Plessis,AD Mathews,Q de Kock,,0,0,0,,,,334523345
+1,South Africa,6,F du Plessis,AD Mathews,Q de Kock,,0,6,6,,,,334523345
+1,South Africa,7,Q de Kock,SMSM Senanayake,F du Plessis,,0,0,0,,,,334523345
+1,South Africa,7,Q de Kock,SMSM Senanayake,F du Plessis,,0,0,0,,,,334523345
+1,South Africa,7,Q de Kock,SMSM Senanayake,F du Plessis,wides,5,5,0,,,,334523345
+1,South Africa,7,Q de Kock,SMSM Senanayake,F du Plessis,,0,0,0,,,,334523345
+1,South Africa,7,Q de Kock,SMSM Senanayake,F du Plessis,,0,0,0,stumped,Q de Kock,KC Sangakkara,334523345
+1,South Africa,7,JP Duminy,SMSM Senanayake,F du Plessis,,0,0,0,,,,334523345
+1,South Africa,7,JP Duminy,SMSM Senanayake,F du Plessis,,0,2,2,,,,334523345
+1,South Africa,8,F du Plessis,SL Malinga,JP Duminy,,0,2,2,,,,334523345
+1,South Africa,8,F du Plessis,SL Malinga,JP Duminy,,0,0,0,bowled,F du Plessis,,334523345
+1,South Africa,8,AB de Villiers,SL Malinga,JP Duminy,,0,1,1,,,,334523345
+1,South Africa,8,JP Duminy,SL Malinga,AB de Villiers,,0,2,2,,,,334523345
+1,South Africa,8,JP Duminy,SL Malinga,AB de Villiers,,0,1,1,,,,334523345
+1,South Africa,8,AB de Villiers,SL Malinga,JP Duminy,,0,1,1,,,,334523345
+1,South Africa,9,AB de Villiers,BAW Mendis,JP Duminy,,0,2,2,,,,334523345
+1,South Africa,9,AB de Villiers,BAW Mendis,JP Duminy,,0,1,1,,,,334523345
+1,South Africa,9,JP Duminy,BAW Mendis,AB de Villiers,,0,1,1,,,,334523345
+1,South Africa,9,AB de Villiers,BAW Mendis,JP Duminy,,0,0,0,,,,334523345
+1,South Africa,9,AB de Villiers,BAW Mendis,JP Duminy,,0,1,1,,,,334523345
+1,South Africa,9,JP Duminy,BAW Mendis,AB de Villiers,,0,1,1,,,,334523345
+1,South Africa,10,JP Duminy,AD Mathews,AB de Villiers,,0,0,0,,,,334523345
+1,South Africa,10,JP Duminy,AD Mathews,AB de Villiers,,0,1,1,,,,334523345
+1,South Africa,10,AB de Villiers,AD Mathews,JP Duminy,,0,0,0,,,,334523345
+1,South Africa,10,AB de Villiers,AD Mathews,JP Duminy,,0,0,0,,,,334523345
+1,South Africa,10,AB de Villiers,AD Mathews,JP Duminy,,0,1,1,,,,334523345
+1,South Africa,10,JP Duminy,AD Mathews,AB de Villiers,,0,1,1,,,,334523345
+1,South Africa,11,JP Duminy,BAW Mendis,AB de Villiers,,0,4,4,,,,334523345
+1,South Africa,11,JP Duminy,BAW Mendis,AB de Villiers,,0,2,2,,,,334523345
+1,South Africa,11,JP Duminy,BAW Mendis,AB de Villiers,,0,4,4,,,,334523345
+1,South Africa,11,JP Duminy,BAW Mendis,AB de Villiers,,0,3,3,,,,334523345
+1,South Africa,11,AB de Villiers,BAW Mendis,JP Duminy,,0,1,1,,,,334523345
+1,South Africa,11,JP Duminy,BAW Mendis,AB de Villiers,,0,1,1,,,,334523345
+1,South Africa,12,JP Duminy,AD Mathews,AB de Villiers,,0,1,1,,,,334523345
+1,South Africa,12,AB de Villiers,AD Mathews,JP Duminy,,0,1,1,,,,334523345
+1,South Africa,12,JP Duminy,AD Mathews,AB de Villiers,,0,1,1,,,,334523345
+1,South Africa,12,AB de Villiers,AD Mathews,JP Duminy,,0,2,2,,,,334523345
+1,South Africa,12,AB de Villiers,AD Mathews,JP Duminy,,0,4,4,,,,334523345
+1,South Africa,12,AB de Villiers,AD Mathews,JP Duminy,,0,0,0,run out,AB de Villiers,MDKJ Perera,334523345
+1,South Africa,13,DA Miller,BAW Mendis,JP Duminy,,0,1,1,,,,334523345
+1,South Africa,13,JP Duminy,BAW Mendis,DA Miller,,0,0,0,,,,334523345
+1,South Africa,13,JP Duminy,BAW Mendis,DA Miller,,0,0,0,,,,334523345
+1,South Africa,13,JP Duminy,BAW Mendis,DA Miller,,0,0,0,,,,334523345
+1,South Africa,13,JP Duminy,BAW Mendis,DA Miller,,0,0,0,,,,334523345
+1,South Africa,13,JP Duminy,BAW Mendis,DA Miller,,0,4,4,,,,334523345
+1,South Africa,14,DA Miller,AD Mathews,JP Duminy,,0,2,2,,,,334523345
+1,South Africa,14,DA Miller,AD Mathews,JP Duminy,,0,0,0,,,,334523345
+1,South Africa,14,DA Miller,AD Mathews,JP Duminy,,0,6,6,,,,334523345
+1,South Africa,14,DA Miller,AD Mathews,JP Duminy,,0,1,1,,,,334523345
+1,South Africa,14,JP Duminy,AD Mathews,DA Miller,,0,1,1,,,,334523345
+1,South Africa,14,DA Miller,AD Mathews,JP Duminy,,0,1,1,,,,334523345
+1,South Africa,15,DA Miller,SMSM Senanayake,JP Duminy,,0,2,2,,,,334523345
+1,South Africa,15,DA Miller,SMSM Senanayake,JP Duminy,,0,1,1,,,,334523345
+1,South Africa,15,JP Duminy,SMSM Senanayake,DA Miller,,0,0,0,caught,JP Duminy,AD Mathews,334523345
+1,South Africa,15,DA Miller,SMSM Senanayake,D Wiese,,0,1,1,,,,334523345
+1,South Africa,15,D Wiese,SMSM Senanayake,DA Miller,,0,0,0,,,,334523345
+1,South Africa,15,D Wiese,SMSM Senanayake,DA Miller,,0,0,0,,,,334523345
+1,South Africa,16,DA Miller,BAW Mendis,D Wiese,,0,2,2,,,,334523345
+1,South Africa,16,DA Miller,BAW Mendis,D Wiese,,0,2,2,,,,334523345
+1,South Africa,16,DA Miller,BAW Mendis,D Wiese,,0,0,0,,,,334523345
+1,South Africa,16,DA Miller,BAW Mendis,D Wiese,,0,6,6,,,,334523345
+1,South Africa,16,DA Miller,BAW Mendis,D Wiese,,0,2,2,,,,334523345
+1,South Africa,16,DA Miller,BAW Mendis,D Wiese,,0,1,1,,,,334523345
+1,South Africa,17,DA Miller,SL Malinga,D Wiese,,0,4,4,,,,334523345
+1,South Africa,17,DA Miller,SL Malinga,D Wiese,,0,1,1,,,,334523345
+1,South Africa,17,D Wiese,SL Malinga,DA Miller,,0,1,1,,,,334523345
+1,South Africa,17,DA Miller,SL Malinga,D Wiese,,0,1,1,,,,334523345
+1,South Africa,17,D Wiese,SL Malinga,DA Miller,,0,1,1,,,,334523345
+1,South Africa,17,DA Miller,SL Malinga,D Wiese,,0,1,1,,,,334523345
+1,South Africa,18,DA Miller,KMDN Kulasekara,D Wiese,,0,1,1,,,,334523345
+1,South Africa,18,D Wiese,KMDN Kulasekara,DA Miller,,0,2,2,,,,334523345
+1,South Africa,18,D Wiese,KMDN Kulasekara,DA Miller,,0,1,1,,,,334523345
+1,South Africa,18,DA Miller,KMDN Kulasekara,D Wiese,,0,0,0,caught,DA Miller,LD Chandimal,334523345
+1,South Africa,18,D Wiese,KMDN Kulasekara,WD Parnell,,0,1,1,,,,334523345
+1,South Africa,18,WD Parnell,KMDN Kulasekara,D Wiese,,0,1,1,,,,334523345
+1,South Africa,19,WD Parnell,SL Malinga,D Wiese,wides,1,1,0,,,,334523345
+1,South Africa,19,WD Parnell,SL Malinga,D Wiese,,0,1,1,,,,334523345
+1,South Africa,19,D Wiese,SL Malinga,WD Parnell,,0,1,1,,,,334523345
+1,South Africa,19,WD Parnell,SL Malinga,D Wiese,,0,0,0,,,,334523345
+1,South Africa,19,WD Parnell,SL Malinga,D Wiese,,0,2,2,,,,334523345
+1,South Africa,19,WD Parnell,SL Malinga,D Wiese,,0,4,4,,,,334523345
+1,South Africa,19,WD Parnell,SL Malinga,D Wiese,,0,2,2,,,,334523345

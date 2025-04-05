@@ -1,0 +1,103 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,India,0,M Raj,KDU Prabodhani,S Mandhana,,0,4,4,,,,394723947
+2,India,0,M Raj,KDU Prabodhani,S Mandhana,,0,2,2,,,,394723947
+2,India,0,M Raj,KDU Prabodhani,S Mandhana,wides,1,1,0,,,,394723947
+2,India,0,M Raj,KDU Prabodhani,S Mandhana,,0,4,4,,,,394723947
+2,India,0,M Raj,KDU Prabodhani,S Mandhana,,0,1,1,,,,394723947
+2,India,0,S Mandhana,KDU Prabodhani,M Raj,,0,1,1,,,,394723947
+2,India,0,M Raj,KDU Prabodhani,S Mandhana,,0,0,0,,,,394723947
+2,India,1,S Mandhana,OU Ranasinghe,M Raj,,0,4,4,,,,394723947
+2,India,1,S Mandhana,OU Ranasinghe,M Raj,,0,0,0,bowled,S Mandhana,,394723947
+2,India,1,JI Rodrigues,OU Ranasinghe,M Raj,,0,1,1,,,,394723947
+2,India,1,M Raj,OU Ranasinghe,JI Rodrigues,,0,0,0,,,,394723947
+2,India,1,M Raj,OU Ranasinghe,JI Rodrigues,,0,0,0,caught,M Raj,KDU Prabodhani,394723947
+2,India,1,T Bhatia,OU Ranasinghe,JI Rodrigues,,0,0,0,,,,394723947
+2,India,2,JI Rodrigues,KADA Kanchana,T Bhatia,,0,0,0,,,,394723947
+2,India,2,JI Rodrigues,KADA Kanchana,T Bhatia,,0,0,0,,,,394723947
+2,India,2,JI Rodrigues,KADA Kanchana,T Bhatia,wides,1,1,0,,,,394723947
+2,India,2,JI Rodrigues,KADA Kanchana,T Bhatia,,0,4,4,,,,394723947
+2,India,2,JI Rodrigues,KADA Kanchana,T Bhatia,wides,1,1,0,,,,394723947
+2,India,2,JI Rodrigues,KADA Kanchana,T Bhatia,wides,1,1,0,,,,394723947
+2,India,2,JI Rodrigues,KADA Kanchana,T Bhatia,,0,1,1,,,,394723947
+2,India,2,T Bhatia,KADA Kanchana,JI Rodrigues,,0,0,0,,,,394723947
+2,India,2,T Bhatia,KADA Kanchana,JI Rodrigues,wides,1,1,0,,,,394723947
+2,India,2,T Bhatia,KADA Kanchana,JI Rodrigues,,0,4,4,,,,394723947
+2,India,3,JI Rodrigues,OU Ranasinghe,T Bhatia,,0,1,1,,,,394723947
+2,India,3,T Bhatia,OU Ranasinghe,JI Rodrigues,,0,1,1,,,,394723947
+2,India,3,JI Rodrigues,OU Ranasinghe,T Bhatia,wides,1,1,0,,,,394723947
+2,India,3,JI Rodrigues,OU Ranasinghe,T Bhatia,,0,6,6,,,,394723947
+2,India,3,JI Rodrigues,OU Ranasinghe,T Bhatia,,0,0,0,,,,394723947
+2,India,3,JI Rodrigues,OU Ranasinghe,T Bhatia,,0,1,1,,,,394723947
+2,India,3,T Bhatia,OU Ranasinghe,JI Rodrigues,,0,0,0,caught,T Bhatia,AC Jayangani,394723947
+2,India,4,AA Patil,S Ravikumar,JI Rodrigues,,0,0,0,,,,394723947
+2,India,4,AA Patil,S Ravikumar,JI Rodrigues,,0,1,1,,,,394723947
+2,India,4,JI Rodrigues,S Ravikumar,AA Patil,legbyes,1,1,0,,,,394723947
+2,India,4,AA Patil,S Ravikumar,JI Rodrigues,,0,1,1,,,,394723947
+2,India,4,JI Rodrigues,S Ravikumar,AA Patil,,0,4,4,,,,394723947
+2,India,4,JI Rodrigues,S Ravikumar,AA Patil,,0,0,0,,,,394723947
+2,India,5,AA Patil,HASD Siriwardene,JI Rodrigues,,0,1,1,,,,394723947
+2,India,5,JI Rodrigues,HASD Siriwardene,AA Patil,,0,0,0,,,,394723947
+2,India,5,JI Rodrigues,HASD Siriwardene,AA Patil,,0,0,0,,,,394723947
+2,India,5,JI Rodrigues,HASD Siriwardene,AA Patil,,0,1,1,,,,394723947
+2,India,5,AA Patil,HASD Siriwardene,JI Rodrigues,,0,0,0,,,,394723947
+2,India,5,AA Patil,HASD Siriwardene,JI Rodrigues,,0,2,2,,,,394723947
+2,India,6,JI Rodrigues,AC Jayangani,AA Patil,,0,1,1,,,,394723947
+2,India,6,AA Patil,AC Jayangani,JI Rodrigues,,0,2,2,,,,394723947
+2,India,6,AA Patil,AC Jayangani,JI Rodrigues,,0,0,0,,,,394723947
+2,India,6,AA Patil,AC Jayangani,JI Rodrigues,,0,0,0,,,,394723947
+2,India,6,AA Patil,AC Jayangani,JI Rodrigues,,0,1,1,,,,394723947
+2,India,6,JI Rodrigues,AC Jayangani,AA Patil,,0,0,0,,,,394723947
+2,India,7,AA Patil,HASD Siriwardene,JI Rodrigues,,0,1,1,,,,394723947
+2,India,7,JI Rodrigues,HASD Siriwardene,AA Patil,,0,1,1,,,,394723947
+2,India,7,AA Patil,HASD Siriwardene,JI Rodrigues,,0,1,1,,,,394723947
+2,India,7,JI Rodrigues,HASD Siriwardene,AA Patil,,0,1,1,,,,394723947
+2,India,7,AA Patil,HASD Siriwardene,JI Rodrigues,,0,4,4,,,,394723947
+2,India,7,AA Patil,HASD Siriwardene,JI Rodrigues,,0,1,1,,,,394723947
+2,India,8,AA Patil,S Ravikumar,JI Rodrigues,,0,1,1,,,,394723947
+2,India,8,JI Rodrigues,S Ravikumar,AA Patil,,0,4,4,,,,394723947
+2,India,8,JI Rodrigues,S Ravikumar,AA Patil,,0,1,1,,,,394723947
+2,India,8,AA Patil,S Ravikumar,JI Rodrigues,,0,1,1,,,,394723947
+2,India,8,JI Rodrigues,S Ravikumar,AA Patil,,0,0,0,,,,394723947
+2,India,8,JI Rodrigues,S Ravikumar,AA Patil,,0,4,4,,,,394723947
+2,India,9,AA Patil,AC Jayangani,JI Rodrigues,,0,1,1,,,,394723947
+2,India,9,JI Rodrigues,AC Jayangani,AA Patil,,0,1,1,,,,394723947
+2,India,9,AA Patil,AC Jayangani,JI Rodrigues,,0,1,1,,,,394723947
+2,India,9,JI Rodrigues,AC Jayangani,AA Patil,,0,4,4,,,,394723947
+2,India,9,JI Rodrigues,AC Jayangani,AA Patil,,0,0,0,,,,394723947
+2,India,9,JI Rodrigues,AC Jayangani,AA Patil,,0,2,2,,,,394723947
+2,India,10,AA Patil,KDU Prabodhani,JI Rodrigues,,0,0,0,,,,394723947
+2,India,10,AA Patil,KDU Prabodhani,JI Rodrigues,,0,4,4,,,,394723947
+2,India,10,AA Patil,KDU Prabodhani,JI Rodrigues,,0,1,1,,,,394723947
+2,India,10,JI Rodrigues,KDU Prabodhani,AA Patil,,0,1,1,,,,394723947
+2,India,10,AA Patil,KDU Prabodhani,JI Rodrigues,,0,0,0,,,,394723947
+2,India,10,AA Patil,KDU Prabodhani,JI Rodrigues,,0,1,1,,,,394723947
+2,India,11,AA Patil,OU Ranasinghe,JI Rodrigues,,0,1,1,,,,394723947
+2,India,11,JI Rodrigues,OU Ranasinghe,AA Patil,,0,1,1,,,,394723947
+2,India,11,AA Patil,OU Ranasinghe,JI Rodrigues,,0,4,4,,,,394723947
+2,India,11,AA Patil,OU Ranasinghe,JI Rodrigues,,0,1,1,,,,394723947
+2,India,11,JI Rodrigues,OU Ranasinghe,AA Patil,,0,1,1,,,,394723947
+2,India,11,AA Patil,OU Ranasinghe,JI Rodrigues,,0,1,1,,,,394723947
+2,India,12,AA Patil,NND de Silva,JI Rodrigues,,0,1,1,,,,394723947
+2,India,12,JI Rodrigues,NND de Silva,AA Patil,,0,1,1,,,,394723947
+2,India,12,AA Patil,NND de Silva,JI Rodrigues,,0,1,1,,,,394723947
+2,India,12,JI Rodrigues,NND de Silva,AA Patil,legbyes,1,1,0,,,,394723947
+2,India,12,AA Patil,NND de Silva,JI Rodrigues,wides,1,1,0,,,,394723947
+2,India,12,AA Patil,NND de Silva,JI Rodrigues,,0,0,0,,,,394723947
+2,India,12,AA Patil,NND de Silva,JI Rodrigues,,0,4,4,,,,394723947
+2,India,13,JI Rodrigues,HASD Siriwardene,AA Patil,,0,1,1,,,,394723947
+2,India,13,AA Patil,HASD Siriwardene,JI Rodrigues,,0,4,4,,,,394723947
+2,India,13,AA Patil,HASD Siriwardene,JI Rodrigues,,0,0,0,,,,394723947
+2,India,13,AA Patil,HASD Siriwardene,JI Rodrigues,,0,4,4,,,,394723947
+2,India,13,AA Patil,HASD Siriwardene,JI Rodrigues,,0,0,0,,,,394723947
+2,India,13,AA Patil,HASD Siriwardene,JI Rodrigues,,0,4,4,,,,394723947
+2,India,14,JI Rodrigues,AC Jayangani,AA Patil,,0,1,1,,,,394723947
+2,India,14,AA Patil,AC Jayangani,JI Rodrigues,,0,0,0,,,,394723947
+2,India,14,AA Patil,AC Jayangani,JI Rodrigues,,0,0,0,,,,394723947
+2,India,14,AA Patil,AC Jayangani,JI Rodrigues,,0,1,1,,,,394723947
+2,India,14,JI Rodrigues,AC Jayangani,AA Patil,wides,1,1,0,,,,394723947
+2,India,14,JI Rodrigues,AC Jayangani,AA Patil,,0,1,1,,,,394723947
+2,India,14,AA Patil,AC Jayangani,JI Rodrigues,,0,1,1,,,,394723947
+2,India,15,AA Patil,OU Ranasinghe,JI Rodrigues,,0,1,1,,,,394723947
+2,India,15,JI Rodrigues,OU Ranasinghe,AA Patil,,0,1,1,,,,394723947
+2,India,15,AA Patil,OU Ranasinghe,JI Rodrigues,,0,1,1,,,,394723947
+2,India,15,JI Rodrigues,OU Ranasinghe,AA Patil,,0,6,6,,,,394723947

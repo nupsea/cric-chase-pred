@@ -1,0 +1,119 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,New Zealand,0,L Vincent,B Lee,BB McCullum,,0,0,0,caught,L Vincent,AC Gilchrist,3412341
+2,New Zealand,0,BB McCullum,B Lee,JM How,,0,1,1,,,,3412341
+2,New Zealand,0,JM How,B Lee,BB McCullum,,0,0,0,,,,3412341
+2,New Zealand,0,JM How,B Lee,BB McCullum,,0,0,0,,,,3412341
+2,New Zealand,0,JM How,B Lee,BB McCullum,,0,0,0,,,,3412341
+2,New Zealand,0,JM How,B Lee,BB McCullum,,0,0,0,,,,3412341
+2,New Zealand,1,BB McCullum,NW Bracken,JM How,,0,0,0,,,,3412341
+2,New Zealand,1,BB McCullum,NW Bracken,JM How,wides,1,1,0,,,,3412341
+2,New Zealand,1,BB McCullum,NW Bracken,JM How,,0,0,0,,,,3412341
+2,New Zealand,1,BB McCullum,NW Bracken,JM How,wides,1,1,0,,,,3412341
+2,New Zealand,1,BB McCullum,NW Bracken,JM How,,0,0,0,,,,3412341
+2,New Zealand,1,BB McCullum,NW Bracken,JM How,,0,2,2,,,,3412341
+2,New Zealand,1,BB McCullum,NW Bracken,JM How,,0,1,1,,,,3412341
+2,New Zealand,1,JM How,NW Bracken,BB McCullum,,0,0,0,,,,3412341
+2,New Zealand,2,BB McCullum,B Lee,JM How,,0,1,1,,,,3412341
+2,New Zealand,2,JM How,B Lee,BB McCullum,,0,0,0,,,,3412341
+2,New Zealand,2,JM How,B Lee,BB McCullum,,0,1,1,,,,3412341
+2,New Zealand,2,BB McCullum,B Lee,JM How,,0,0,0,,,,3412341
+2,New Zealand,2,BB McCullum,B Lee,JM How,byes,4,4,0,,,,3412341
+2,New Zealand,2,BB McCullum,B Lee,JM How,,0,6,6,,,,3412341
+2,New Zealand,3,JM How,NW Bracken,BB McCullum,,0,0,0,,,,3412341
+2,New Zealand,3,JM How,NW Bracken,BB McCullum,,0,0,0,,,,3412341
+2,New Zealand,3,JM How,NW Bracken,BB McCullum,,0,1,1,,,,3412341
+2,New Zealand,3,BB McCullum,NW Bracken,JM How,,0,0,0,,,,3412341
+2,New Zealand,3,BB McCullum,NW Bracken,JM How,,0,2,2,,,,3412341
+2,New Zealand,3,JM How,NW Bracken,BB McCullum,,0,0,0,,,,3412341
+2,New Zealand,4,BB McCullum,B Lee,JM How,,0,0,0,,,,3412341
+2,New Zealand,4,BB McCullum,B Lee,JM How,,0,0,0,,,,3412341
+2,New Zealand,4,BB McCullum,B Lee,JM How,,0,0,0,caught,BB McCullum,AC Gilchrist,3412341
+2,New Zealand,4,JM How,B Lee,SB Styris,noballs,1,1,0,,,,3412341
+2,New Zealand,4,JM How,B Lee,SB Styris,wides,1,1,0,,,,3412341
+2,New Zealand,4,JM How,B Lee,SB Styris,,0,0,0,,,,3412341
+2,New Zealand,4,JM How,B Lee,SB Styris,,0,1,1,,,,3412341
+2,New Zealand,4,SB Styris,B Lee,JM How,,0,0,0,,,,3412341
+2,New Zealand,5,JM How,MG Johnson,SB Styris,,0,0,0,,,,3412341
+2,New Zealand,5,JM How,MG Johnson,SB Styris,,0,0,0,,,,3412341
+2,New Zealand,5,JM How,MG Johnson,SB Styris,,0,1,1,,,,3412341
+2,New Zealand,5,SB Styris,MG Johnson,JM How,,0,4,4,,,,3412341
+2,New Zealand,5,SB Styris,MG Johnson,JM How,,0,0,0,,,,3412341
+2,New Zealand,5,SB Styris,MG Johnson,JM How,,0,0,0,,,,3412341
+2,New Zealand,6,JM How,SW Tait,SB Styris,,0,0,0,caught,JM How,AC Gilchrist,3412341
+2,New Zealand,6,LRPL Taylor,SW Tait,SB Styris,,0,0,0,,,,3412341
+2,New Zealand,6,LRPL Taylor,SW Tait,SB Styris,wides,1,1,0,,,,3412341
+2,New Zealand,6,LRPL Taylor,SW Tait,SB Styris,,0,0,0,bowled,LRPL Taylor,,3412341
+2,New Zealand,6,MS Sinclair,SW Tait,SB Styris,,0,0,0,,,,3412341
+2,New Zealand,6,MS Sinclair,SW Tait,SB Styris,,0,0,0,,,,3412341
+2,New Zealand,6,MS Sinclair,SW Tait,SB Styris,,0,0,0,,,,3412341
+2,New Zealand,7,SB Styris,MG Johnson,MS Sinclair,,0,0,0,,,,3412341
+2,New Zealand,7,SB Styris,MG Johnson,MS Sinclair,,0,0,0,,,,3412341
+2,New Zealand,7,SB Styris,MG Johnson,MS Sinclair,,0,0,0,,,,3412341
+2,New Zealand,7,SB Styris,MG Johnson,MS Sinclair,,0,1,1,,,,3412341
+2,New Zealand,7,MS Sinclair,MG Johnson,SB Styris,,0,0,0,caught,MS Sinclair,AC Gilchrist,3412341
+2,New Zealand,7,JDP Oram,MG Johnson,SB Styris,,0,0,0,,,,3412341
+2,New Zealand,8,SB Styris,SW Tait,JDP Oram,,0,1,1,,,,3412341
+2,New Zealand,8,JDP Oram,SW Tait,SB Styris,,0,0,0,,,,3412341
+2,New Zealand,8,JDP Oram,SW Tait,SB Styris,,0,4,4,,,,3412341
+2,New Zealand,8,JDP Oram,SW Tait,SB Styris,,0,0,0,,,,3412341
+2,New Zealand,8,JDP Oram,SW Tait,SB Styris,,0,0,0,,,,3412341
+2,New Zealand,8,JDP Oram,SW Tait,SB Styris,,0,0,0,,,,3412341
+2,New Zealand,9,SB Styris,MG Johnson,JDP Oram,,0,0,0,,,,3412341
+2,New Zealand,9,SB Styris,MG Johnson,JDP Oram,,0,4,4,,,,3412341
+2,New Zealand,9,SB Styris,MG Johnson,JDP Oram,,0,4,4,,,,3412341
+2,New Zealand,9,SB Styris,MG Johnson,JDP Oram,wides,1,1,0,,,,3412341
+2,New Zealand,9,SB Styris,MG Johnson,JDP Oram,,0,0,0,,,,3412341
+2,New Zealand,9,SB Styris,MG Johnson,JDP Oram,,0,4,4,,,,3412341
+2,New Zealand,9,SB Styris,MG Johnson,JDP Oram,,0,0,0,caught,SB Styris,NW Bracken,3412341
+2,New Zealand,10,JDP Oram,SW Tait,DL Vettori,,0,4,4,,,,3412341
+2,New Zealand,10,JDP Oram,SW Tait,DL Vettori,,0,1,1,,,,3412341
+2,New Zealand,10,DL Vettori,SW Tait,JDP Oram,,0,1,1,,,,3412341
+2,New Zealand,10,JDP Oram,SW Tait,DL Vettori,,0,0,0,,,,3412341
+2,New Zealand,10,JDP Oram,SW Tait,DL Vettori,,0,1,1,,,,3412341
+2,New Zealand,10,DL Vettori,SW Tait,JDP Oram,,0,0,0,,,,3412341
+2,New Zealand,11,JDP Oram,AA Noffke,DL Vettori,,0,0,0,,,,3412341
+2,New Zealand,11,JDP Oram,AA Noffke,DL Vettori,,0,1,1,,,,3412341
+2,New Zealand,11,DL Vettori,AA Noffke,JDP Oram,,0,2,2,,,,3412341
+2,New Zealand,11,DL Vettori,AA Noffke,JDP Oram,,0,0,0,bowled,DL Vettori,,3412341
+2,New Zealand,11,KD Mills,AA Noffke,JDP Oram,,0,0,0,,,,3412341
+2,New Zealand,11,KD Mills,AA Noffke,JDP Oram,,0,0,0,,,,3412341
+2,New Zealand,12,JDP Oram,B Lee,KD Mills,,0,4,4,,,,3412341
+2,New Zealand,12,JDP Oram,B Lee,KD Mills,,0,1,1,,,,3412341
+2,New Zealand,12,KD Mills,B Lee,JDP Oram,,0,0,0,,,,3412341
+2,New Zealand,12,KD Mills,B Lee,JDP Oram,,0,0,0,,,,3412341
+2,New Zealand,12,KD Mills,B Lee,JDP Oram,,0,0,0,,,,3412341
+2,New Zealand,12,KD Mills,B Lee,JDP Oram,legbyes,1,1,0,,,,3412341
+2,New Zealand,13,KD Mills,AA Noffke,JDP Oram,,0,4,4,,,,3412341
+2,New Zealand,13,KD Mills,AA Noffke,JDP Oram,,0,0,0,caught,KD Mills,MG Johnson,3412341
+2,New Zealand,13,JDP Oram,AA Noffke,MR Gillespie,,0,0,0,,,,3412341
+2,New Zealand,13,JDP Oram,AA Noffke,MR Gillespie,,0,1,1,,,,3412341
+2,New Zealand,13,MR Gillespie,AA Noffke,JDP Oram,wides,1,1,0,,,,3412341
+2,New Zealand,13,MR Gillespie,AA Noffke,JDP Oram,,0,1,1,,,,3412341
+2,New Zealand,13,JDP Oram,AA Noffke,MR Gillespie,,0,4,4,,,,3412341
+2,New Zealand,14,MR Gillespie,SW Tait,JDP Oram,,0,0,0,,,,3412341
+2,New Zealand,14,MR Gillespie,SW Tait,JDP Oram,,0,1,1,,,,3412341
+2,New Zealand,14,JDP Oram,SW Tait,MR Gillespie,,0,2,2,,,,3412341
+2,New Zealand,14,JDP Oram,SW Tait,MR Gillespie,,0,0,0,,,,3412341
+2,New Zealand,14,JDP Oram,SW Tait,MR Gillespie,,0,0,0,,,,3412341
+2,New Zealand,14,JDP Oram,SW Tait,MR Gillespie,,0,6,6,,,,3412341
+2,New Zealand,15,MR Gillespie,A Symonds,JDP Oram,,0,1,1,,,,3412341
+2,New Zealand,15,JDP Oram,A Symonds,MR Gillespie,,0,1,1,,,,3412341
+2,New Zealand,15,MR Gillespie,A Symonds,JDP Oram,,0,1,1,,,,3412341
+2,New Zealand,15,JDP Oram,A Symonds,MR Gillespie,,0,4,4,,,,3412341
+2,New Zealand,15,JDP Oram,A Symonds,MR Gillespie,,0,6,6,,,,3412341
+2,New Zealand,15,JDP Oram,A Symonds,MR Gillespie,,0,6,6,,,,3412341
+2,New Zealand,16,MR Gillespie,AA Noffke,JDP Oram,,0,0,0,run out,MR Gillespie,A Symonds,3412341
+2,New Zealand,16,JS Patel,AA Noffke,JDP Oram,,0,0,0,,,,3412341
+2,New Zealand,16,JS Patel,AA Noffke,JDP Oram,,0,0,0,,,,3412341
+2,New Zealand,16,JS Patel,AA Noffke,JDP Oram,,0,0,0,,,,3412341
+2,New Zealand,16,JS Patel,AA Noffke,JDP Oram,,0,0,0,,,,3412341
+2,New Zealand,16,JS Patel,AA Noffke,JDP Oram,,0,0,0,,,,3412341
+2,New Zealand,17,JDP Oram,A Symonds,JS Patel,,0,6,6,,,,3412341
+2,New Zealand,17,JDP Oram,A Symonds,JS Patel,,0,2,2,,,,3412341
+2,New Zealand,17,JDP Oram,A Symonds,JS Patel,,0,6,6,,,,3412341
+2,New Zealand,17,JDP Oram,A Symonds,JS Patel,legbyes,4,4,0,,,,3412341
+2,New Zealand,17,JDP Oram,A Symonds,JS Patel,,0,0,0,,,,3412341
+2,New Zealand,17,JDP Oram,A Symonds,JS Patel,,0,6,6,,,,3412341
+2,New Zealand,18,JS Patel,AA Noffke,JDP Oram,,0,4,4,,,,3412341
+2,New Zealand,18,JS Patel,AA Noffke,JDP Oram,,0,0,0,,,,3412341
+2,New Zealand,18,JS Patel,AA Noffke,JDP Oram,,0,0,0,bowled,JS Patel,,3412341

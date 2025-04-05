@@ -1,0 +1,116 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Sri Lanka,0,P Nissanka,MM Ali,MDKJ Perera,,0,1,1,,,,31654231654
+2,Sri Lanka,0,MDKJ Perera,MM Ali,P Nissanka,,0,0,0,,,,31654231654
+2,Sri Lanka,0,MDKJ Perera,MM Ali,P Nissanka,,0,0,0,run out,P Nissanka,EJG Morgan,31654231654
+2,Sri Lanka,0,KIC Asalanka,MM Ali,MDKJ Perera,,0,0,0,,,,31654231654
+2,Sri Lanka,0,KIC Asalanka,MM Ali,MDKJ Perera,,0,0,0,,,,31654231654
+2,Sri Lanka,0,KIC Asalanka,MM Ali,MDKJ Perera,,0,1,1,,,,31654231654
+2,Sri Lanka,1,KIC Asalanka,CR Woakes,MDKJ Perera,,0,0,0,,,,31654231654
+2,Sri Lanka,1,KIC Asalanka,CR Woakes,MDKJ Perera,,0,0,0,,,,31654231654
+2,Sri Lanka,1,KIC Asalanka,CR Woakes,MDKJ Perera,,0,6,6,,,,31654231654
+2,Sri Lanka,1,KIC Asalanka,CR Woakes,MDKJ Perera,,0,4,4,,,,31654231654
+2,Sri Lanka,1,KIC Asalanka,CR Woakes,MDKJ Perera,,0,1,1,,,,31654231654
+2,Sri Lanka,1,MDKJ Perera,CR Woakes,KIC Asalanka,,0,1,1,,,,31654231654
+2,Sri Lanka,2,MDKJ Perera,MM Ali,KIC Asalanka,,0,1,1,,,,31654231654
+2,Sri Lanka,2,KIC Asalanka,MM Ali,MDKJ Perera,,0,4,4,,,,31654231654
+2,Sri Lanka,2,KIC Asalanka,MM Ali,MDKJ Perera,,0,0,0,,,,31654231654
+2,Sri Lanka,2,KIC Asalanka,MM Ali,MDKJ Perera,,0,4,4,,,,31654231654
+2,Sri Lanka,2,KIC Asalanka,MM Ali,MDKJ Perera,,0,0,0,,,,31654231654
+2,Sri Lanka,2,KIC Asalanka,MM Ali,MDKJ Perera,,0,1,1,,,,31654231654
+2,Sri Lanka,3,KIC Asalanka,AU Rashid,MDKJ Perera,,0,0,0,,,,31654231654
+2,Sri Lanka,3,KIC Asalanka,AU Rashid,MDKJ Perera,,0,0,0,,,,31654231654
+2,Sri Lanka,3,KIC Asalanka,AU Rashid,MDKJ Perera,,0,0,0,caught,KIC Asalanka,MM Ali,31654231654
+2,Sri Lanka,3,MDKJ Perera,AU Rashid,WIA Fernando,,0,2,2,,,,31654231654
+2,Sri Lanka,3,MDKJ Perera,AU Rashid,WIA Fernando,,0,0,0,,,,31654231654
+2,Sri Lanka,3,MDKJ Perera,AU Rashid,WIA Fernando,,0,2,2,,,,31654231654
+2,Sri Lanka,4,WIA Fernando,CJ Jordan,MDKJ Perera,,0,0,0,,,,31654231654
+2,Sri Lanka,4,WIA Fernando,CJ Jordan,MDKJ Perera,,0,0,0,,,,31654231654
+2,Sri Lanka,4,WIA Fernando,CJ Jordan,MDKJ Perera,,0,4,4,,,,31654231654
+2,Sri Lanka,4,WIA Fernando,CJ Jordan,MDKJ Perera,,0,0,0,,,,31654231654
+2,Sri Lanka,4,WIA Fernando,CJ Jordan,MDKJ Perera,,0,1,1,,,,31654231654
+2,Sri Lanka,4,MDKJ Perera,CJ Jordan,WIA Fernando,,0,1,1,,,,31654231654
+2,Sri Lanka,5,MDKJ Perera,AU Rashid,WIA Fernando,,0,0,0,caught,MDKJ Perera,EJG Morgan,31654231654
+2,Sri Lanka,5,WIA Fernando,AU Rashid,PBB Rajapaksa,,0,1,1,,,,31654231654
+2,Sri Lanka,5,PBB Rajapaksa,AU Rashid,WIA Fernando,,0,0,0,,,,31654231654
+2,Sri Lanka,5,PBB Rajapaksa,AU Rashid,WIA Fernando,,0,4,4,,,,31654231654
+2,Sri Lanka,5,PBB Rajapaksa,AU Rashid,WIA Fernando,,0,0,0,,,,31654231654
+2,Sri Lanka,5,PBB Rajapaksa,AU Rashid,WIA Fernando,,0,1,1,,,,31654231654
+2,Sri Lanka,6,PBB Rajapaksa,LS Livingstone,WIA Fernando,,0,1,1,,,,31654231654
+2,Sri Lanka,6,WIA Fernando,LS Livingstone,PBB Rajapaksa,,0,1,1,,,,31654231654
+2,Sri Lanka,6,PBB Rajapaksa,LS Livingstone,WIA Fernando,,0,6,6,,,,31654231654
+2,Sri Lanka,6,PBB Rajapaksa,LS Livingstone,WIA Fernando,,0,0,0,,,,31654231654
+2,Sri Lanka,6,PBB Rajapaksa,LS Livingstone,WIA Fernando,,0,1,1,,,,31654231654
+2,Sri Lanka,6,WIA Fernando,LS Livingstone,PBB Rajapaksa,,0,1,1,,,,31654231654
+2,Sri Lanka,7,WIA Fernando,AU Rashid,PBB Rajapaksa,,0,0,0,,,,31654231654
+2,Sri Lanka,7,WIA Fernando,AU Rashid,PBB Rajapaksa,,0,1,1,,,,31654231654
+2,Sri Lanka,7,PBB Rajapaksa,AU Rashid,WIA Fernando,,0,0,0,,,,31654231654
+2,Sri Lanka,7,PBB Rajapaksa,AU Rashid,WIA Fernando,,0,1,1,,,,31654231654
+2,Sri Lanka,7,WIA Fernando,AU Rashid,PBB Rajapaksa,,0,0,0,,,,31654231654
+2,Sri Lanka,7,WIA Fernando,AU Rashid,PBB Rajapaksa,,0,2,2,,,,31654231654
+2,Sri Lanka,8,PBB Rajapaksa,CJ Jordan,WIA Fernando,,0,1,1,,,,31654231654
+2,Sri Lanka,8,WIA Fernando,CJ Jordan,PBB Rajapaksa,,0,2,2,,,,31654231654
+2,Sri Lanka,8,WIA Fernando,CJ Jordan,PBB Rajapaksa,,0,0,0,lbw,WIA Fernando,,31654231654
+2,Sri Lanka,8,MD Shanaka,CJ Jordan,PBB Rajapaksa,,0,0,0,,,,31654231654
+2,Sri Lanka,8,MD Shanaka,CJ Jordan,PBB Rajapaksa,,0,0,0,,,,31654231654
+2,Sri Lanka,8,MD Shanaka,CJ Jordan,PBB Rajapaksa,,0,1,1,,,,31654231654
+2,Sri Lanka,9,MD Shanaka,TS Mills,PBB Rajapaksa,,0,1,1,,,,31654231654
+2,Sri Lanka,9,PBB Rajapaksa,TS Mills,MD Shanaka,legbyes,1,1,0,,,,31654231654
+2,Sri Lanka,9,MD Shanaka,TS Mills,PBB Rajapaksa,,0,0,0,,,,31654231654
+2,Sri Lanka,9,MD Shanaka,TS Mills,PBB Rajapaksa,,0,4,4,,,,31654231654
+2,Sri Lanka,9,MD Shanaka,TS Mills,PBB Rajapaksa,,0,1,1,,,,31654231654
+2,Sri Lanka,9,PBB Rajapaksa,TS Mills,MD Shanaka,,0,1,1,,,,31654231654
+2,Sri Lanka,10,PBB Rajapaksa,CR Woakes,MD Shanaka,,0,0,0,,,,31654231654
+2,Sri Lanka,10,PBB Rajapaksa,CR Woakes,MD Shanaka,,0,0,0,,,,31654231654
+2,Sri Lanka,10,PBB Rajapaksa,CR Woakes,MD Shanaka,,0,6,6,,,,31654231654
+2,Sri Lanka,10,PBB Rajapaksa,CR Woakes,MD Shanaka,,0,4,4,,,,31654231654
+2,Sri Lanka,10,PBB Rajapaksa,CR Woakes,MD Shanaka,,0,0,0,caught,PBB Rajapaksa,JJ Roy,31654231654
+2,Sri Lanka,10,PWH de Silva,CR Woakes,MD Shanaka,,0,1,1,,,,31654231654
+2,Sri Lanka,11,PWH de Silva,AU Rashid,MD Shanaka,,0,1,1,,,,31654231654
+2,Sri Lanka,11,MD Shanaka,AU Rashid,PWH de Silva,,0,0,0,,,,31654231654
+2,Sri Lanka,11,MD Shanaka,AU Rashid,PWH de Silva,,0,1,1,,,,31654231654
+2,Sri Lanka,11,PWH de Silva,AU Rashid,MD Shanaka,,0,2,2,,,,31654231654
+2,Sri Lanka,11,PWH de Silva,AU Rashid,MD Shanaka,,0,0,0,,,,31654231654
+2,Sri Lanka,11,PWH de Silva,AU Rashid,MD Shanaka,,0,1,1,,,,31654231654
+2,Sri Lanka,12,PWH de Silva,LS Livingstone,MD Shanaka,,0,4,4,,,,31654231654
+2,Sri Lanka,12,PWH de Silva,LS Livingstone,MD Shanaka,,0,1,1,,,,31654231654
+2,Sri Lanka,12,MD Shanaka,LS Livingstone,PWH de Silva,,0,1,1,,,,31654231654
+2,Sri Lanka,12,PWH de Silva,LS Livingstone,MD Shanaka,,0,1,1,,,,31654231654
+2,Sri Lanka,12,MD Shanaka,LS Livingstone,PWH de Silva,,0,0,0,,,,31654231654
+2,Sri Lanka,12,MD Shanaka,LS Livingstone,PWH de Silva,,0,0,0,,,,31654231654
+2,Sri Lanka,13,PWH de Silva,TS Mills,MD Shanaka,,0,6,6,,,,31654231654
+2,Sri Lanka,13,PWH de Silva,TS Mills,MD Shanaka,,0,1,1,,,,31654231654
+2,Sri Lanka,13,MD Shanaka,TS Mills,PWH de Silva,wides,1,1,0,,,,31654231654
+2,Sri Lanka,13,MD Shanaka,TS Mills,PWH de Silva,,0,4,4,,,,31654231654
+2,Sri Lanka,13,MD Shanaka,CR Woakes,PWH de Silva,,0,1,1,,,,31654231654
+2,Sri Lanka,13,PWH de Silva,CR Woakes,MD Shanaka,,0,1,1,,,,31654231654
+2,Sri Lanka,13,MD Shanaka,CR Woakes,PWH de Silva,,0,0,0,,,,31654231654
+2,Sri Lanka,14,PWH de Silva,LS Livingstone,MD Shanaka,,0,1,1,,,,31654231654
+2,Sri Lanka,14,MD Shanaka,LS Livingstone,PWH de Silva,,0,0,0,,,,31654231654
+2,Sri Lanka,14,MD Shanaka,LS Livingstone,PWH de Silva,,0,1,1,,,,31654231654
+2,Sri Lanka,14,PWH de Silva,LS Livingstone,MD Shanaka,,0,1,1,,,,31654231654
+2,Sri Lanka,14,MD Shanaka,LS Livingstone,PWH de Silva,,0,6,6,,,,31654231654
+2,Sri Lanka,14,MD Shanaka,LS Livingstone,PWH de Silva,,0,1,1,,,,31654231654
+2,Sri Lanka,15,MD Shanaka,CJ Jordan,PWH de Silva,,0,1,1,,,,31654231654
+2,Sri Lanka,15,PWH de Silva,CJ Jordan,MD Shanaka,,0,1,1,,,,31654231654
+2,Sri Lanka,15,MD Shanaka,CJ Jordan,PWH de Silva,,0,1,1,,,,31654231654
+2,Sri Lanka,15,PWH de Silva,CJ Jordan,MD Shanaka,,0,2,2,,,,31654231654
+2,Sri Lanka,15,PWH de Silva,CJ Jordan,MD Shanaka,,0,4,4,,,,31654231654
+2,Sri Lanka,15,PWH de Silva,CJ Jordan,MD Shanaka,,0,1,1,,,,31654231654
+2,Sri Lanka,16,PWH de Silva,LS Livingstone,MD Shanaka,,0,0,0,,,,31654231654
+2,Sri Lanka,16,PWH de Silva,LS Livingstone,MD Shanaka,,0,1,1,,,,31654231654
+2,Sri Lanka,16,MD Shanaka,LS Livingstone,PWH de Silva,,0,1,1,,,,31654231654
+2,Sri Lanka,16,PWH de Silva,LS Livingstone,MD Shanaka,,0,4,4,,,,31654231654
+2,Sri Lanka,16,PWH de Silva,LS Livingstone,MD Shanaka,,0,0,0,caught,PWH de Silva,SW Billings,31654231654
+2,Sri Lanka,16,MD Shanaka,LS Livingstone,C Karunaratne,,0,1,1,,,,31654231654
+2,Sri Lanka,17,MD Shanaka,CJ Jordan,C Karunaratne,,0,0,0,,,,31654231654
+2,Sri Lanka,17,MD Shanaka,CJ Jordan,C Karunaratne,,0,0,0,run out,MD Shanaka,JC Buttler,31654231654
+2,Sri Lanka,17,PVD Chameera,CJ Jordan,C Karunaratne,,0,0,0,,,,31654231654
+2,Sri Lanka,17,PVD Chameera,CJ Jordan,C Karunaratne,,0,0,0,,,,31654231654
+2,Sri Lanka,17,PVD Chameera,CJ Jordan,C Karunaratne,,0,4,4,,,,31654231654
+2,Sri Lanka,17,PVD Chameera,CJ Jordan,C Karunaratne,,0,0,0,caught,PVD Chameera,DJ Malan,31654231654
+2,Sri Lanka,18,C Karunaratne,MM Ali,M Theekshana,,0,0,0,,,,31654231654
+2,Sri Lanka,18,C Karunaratne,MM Ali,M Theekshana,,0,0,0,caught,C Karunaratne,JJ Roy,31654231654
+2,Sri Lanka,18,CBRLS Kumara,MM Ali,M Theekshana,,0,0,0,,,,31654231654
+2,Sri Lanka,18,CBRLS Kumara,MM Ali,M Theekshana,,0,1,1,,,,31654231654
+2,Sri Lanka,18,M Theekshana,MM Ali,CBRLS Kumara,,0,2,2,,,,31654231654
+2,Sri Lanka,18,M Theekshana,MM Ali,CBRLS Kumara,,0,0,0,caught,M Theekshana,CJ Jordan,31654231654

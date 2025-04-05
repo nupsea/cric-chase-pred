@@ -1,0 +1,96 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,New Zealand,0,MJ Guptill,KMDN Kulasekara,KS Williamson,,0,0,0,,,,342223422
+2,New Zealand,0,MJ Guptill,KMDN Kulasekara,KS Williamson,,0,1,1,,,,342223422
+2,New Zealand,0,KS Williamson,KMDN Kulasekara,MJ Guptill,,0,0,0,,,,342223422
+2,New Zealand,0,KS Williamson,KMDN Kulasekara,MJ Guptill,,0,1,1,,,,342223422
+2,New Zealand,0,MJ Guptill,KMDN Kulasekara,KS Williamson,,0,2,2,,,,342223422
+2,New Zealand,0,MJ Guptill,KMDN Kulasekara,KS Williamson,,0,0,0,,,,342223422
+2,New Zealand,1,KS Williamson,AD Mathews,MJ Guptill,,0,0,0,,,,342223422
+2,New Zealand,1,KS Williamson,AD Mathews,MJ Guptill,,0,1,1,,,,342223422
+2,New Zealand,1,MJ Guptill,AD Mathews,KS Williamson,,0,0,0,,,,342223422
+2,New Zealand,1,MJ Guptill,AD Mathews,KS Williamson,,0,1,1,,,,342223422
+2,New Zealand,1,KS Williamson,AD Mathews,MJ Guptill,,0,2,2,,,,342223422
+2,New Zealand,1,KS Williamson,AD Mathews,MJ Guptill,,0,4,4,,,,342223422
+2,New Zealand,2,MJ Guptill,KMDN Kulasekara,KS Williamson,,0,0,0,,,,342223422
+2,New Zealand,2,MJ Guptill,KMDN Kulasekara,KS Williamson,,0,1,1,,,,342223422
+2,New Zealand,2,KS Williamson,KMDN Kulasekara,MJ Guptill,wides,1,1,0,,,,342223422
+2,New Zealand,2,KS Williamson,KMDN Kulasekara,MJ Guptill,,0,0,0,,,,342223422
+2,New Zealand,2,KS Williamson,KMDN Kulasekara,MJ Guptill,,0,4,4,,,,342223422
+2,New Zealand,2,KS Williamson,KMDN Kulasekara,MJ Guptill,,0,0,0,,,,342223422
+2,New Zealand,2,KS Williamson,KMDN Kulasekara,MJ Guptill,,0,0,0,,,,342223422
+2,New Zealand,3,MJ Guptill,HMRKB Herath,KS Williamson,,0,0,0,run out,MJ Guptill,KC Sangakkara,342223422
+2,New Zealand,3,BB McCullum,HMRKB Herath,KS Williamson,,0,0,0,,,,342223422
+2,New Zealand,3,BB McCullum,HMRKB Herath,KS Williamson,,0,0,0,,,,342223422
+2,New Zealand,3,BB McCullum,HMRKB Herath,KS Williamson,,0,0,0,,,,342223422
+2,New Zealand,3,BB McCullum,HMRKB Herath,KS Williamson,,0,0,0,,,,342223422
+2,New Zealand,3,BB McCullum,HMRKB Herath,KS Williamson,,0,0,0,stumped,BB McCullum,KC Sangakkara,342223422
+2,New Zealand,4,KS Williamson,KMDN Kulasekara,LRPL Taylor,,0,0,0,,,,342223422
+2,New Zealand,4,KS Williamson,KMDN Kulasekara,LRPL Taylor,wides,1,1,0,,,,342223422
+2,New Zealand,4,KS Williamson,KMDN Kulasekara,LRPL Taylor,,0,0,0,,,,342223422
+2,New Zealand,4,KS Williamson,KMDN Kulasekara,LRPL Taylor,,0,0,0,,,,342223422
+2,New Zealand,4,KS Williamson,KMDN Kulasekara,LRPL Taylor,,0,0,0,,,,342223422
+2,New Zealand,4,KS Williamson,KMDN Kulasekara,LRPL Taylor,,0,0,0,,,,342223422
+2,New Zealand,4,KS Williamson,KMDN Kulasekara,LRPL Taylor,,0,4,4,,,,342223422
+2,New Zealand,5,LRPL Taylor,HMRKB Herath,KS Williamson,,0,0,0,,,,342223422
+2,New Zealand,5,LRPL Taylor,HMRKB Herath,KS Williamson,,0,0,0,,,,342223422
+2,New Zealand,5,LRPL Taylor,HMRKB Herath,KS Williamson,,0,0,0,,,,342223422
+2,New Zealand,5,LRPL Taylor,HMRKB Herath,KS Williamson,,0,0,0,,,,342223422
+2,New Zealand,5,LRPL Taylor,HMRKB Herath,KS Williamson,,0,0,0,lbw,LRPL Taylor,,342223422
+2,New Zealand,5,JDS Neesham,HMRKB Herath,KS Williamson,,0,0,0,bowled,JDS Neesham,,342223422
+2,New Zealand,6,KS Williamson,SL Malinga,L Ronchi,,0,1,1,,,,342223422
+2,New Zealand,6,L Ronchi,SL Malinga,KS Williamson,,0,0,0,,,,342223422
+2,New Zealand,6,L Ronchi,SL Malinga,KS Williamson,,0,1,1,,,,342223422
+2,New Zealand,6,KS Williamson,SL Malinga,L Ronchi,,0,1,1,,,,342223422
+2,New Zealand,6,L Ronchi,SL Malinga,KS Williamson,,0,1,1,,,,342223422
+2,New Zealand,6,KS Williamson,SL Malinga,L Ronchi,,0,1,1,,,,342223422
+2,New Zealand,7,KS Williamson,HMRKB Herath,L Ronchi,,0,0,0,,,,342223422
+2,New Zealand,7,KS Williamson,HMRKB Herath,L Ronchi,,0,1,1,,,,342223422
+2,New Zealand,7,L Ronchi,HMRKB Herath,KS Williamson,,0,0,0,lbw,L Ronchi,,342223422
+2,New Zealand,7,NL McCullum,HMRKB Herath,KS Williamson,,0,0,0,,,,342223422
+2,New Zealand,7,NL McCullum,HMRKB Herath,KS Williamson,,0,0,0,,,,342223422
+2,New Zealand,7,NL McCullum,HMRKB Herath,KS Williamson,,0,1,1,,,,342223422
+2,New Zealand,8,NL McCullum,AD Mathews,KS Williamson,,0,0,0,,,,342223422
+2,New Zealand,8,NL McCullum,AD Mathews,KS Williamson,,0,0,0,,,,342223422
+2,New Zealand,8,NL McCullum,AD Mathews,KS Williamson,,0,0,0,,,,342223422
+2,New Zealand,8,NL McCullum,AD Mathews,KS Williamson,,0,1,1,,,,342223422
+2,New Zealand,8,KS Williamson,AD Mathews,NL McCullum,,0,1,1,,,,342223422
+2,New Zealand,8,NL McCullum,AD Mathews,KS Williamson,,0,0,0,,,,342223422
+2,New Zealand,9,KS Williamson,SMSM Senanayake,NL McCullum,,0,0,0,,,,342223422
+2,New Zealand,9,KS Williamson,SMSM Senanayake,NL McCullum,,0,1,1,,,,342223422
+2,New Zealand,9,NL McCullum,SMSM Senanayake,KS Williamson,,0,0,0,caught,NL McCullum,AD Mathews,342223422
+2,New Zealand,9,KD Mills,SMSM Senanayake,KS Williamson,,0,0,0,,,,342223422
+2,New Zealand,9,KD Mills,SMSM Senanayake,KS Williamson,,0,0,0,,,,342223422
+2,New Zealand,9,KD Mills,SMSM Senanayake,KS Williamson,,0,0,0,,,,342223422
+2,New Zealand,10,KS Williamson,AD Mathews,KD Mills,,0,0,0,,,,342223422
+2,New Zealand,10,KS Williamson,AD Mathews,KD Mills,,0,0,0,,,,342223422
+2,New Zealand,10,KS Williamson,AD Mathews,KD Mills,,0,4,4,,,,342223422
+2,New Zealand,10,KS Williamson,AD Mathews,KD Mills,,0,1,1,,,,342223422
+2,New Zealand,10,KD Mills,AD Mathews,KS Williamson,,0,0,0,,,,342223422
+2,New Zealand,10,KD Mills,AD Mathews,KS Williamson,,0,0,0,,,,342223422
+2,New Zealand,11,KS Williamson,SMSM Senanayake,KD Mills,,0,0,0,,,,342223422
+2,New Zealand,11,KS Williamson,SMSM Senanayake,KD Mills,,0,0,0,,,,342223422
+2,New Zealand,11,KS Williamson,SMSM Senanayake,KD Mills,,0,0,0,,,,342223422
+2,New Zealand,11,KS Williamson,SMSM Senanayake,KD Mills,,0,0,0,,,,342223422
+2,New Zealand,11,KS Williamson,SMSM Senanayake,KD Mills,,0,1,1,,,,342223422
+2,New Zealand,11,KD Mills,SMSM Senanayake,KS Williamson,,0,0,0,,,,342223422
+2,New Zealand,12,KS Williamson,AD Mathews,KD Mills,,0,2,2,,,,342223422
+2,New Zealand,12,KS Williamson,AD Mathews,KD Mills,,0,4,4,,,,342223422
+2,New Zealand,12,KS Williamson,AD Mathews,KD Mills,,0,0,0,,,,342223422
+2,New Zealand,12,KS Williamson,AD Mathews,KD Mills,,0,1,1,,,,342223422
+2,New Zealand,12,KD Mills,AD Mathews,KS Williamson,,0,4,4,,,,342223422
+2,New Zealand,12,KD Mills,AD Mathews,KS Williamson,,0,0,0,,,,342223422
+2,New Zealand,13,KS Williamson,SMSM Senanayake,KD Mills,,0,0,0,,,,342223422
+2,New Zealand,13,KS Williamson,SMSM Senanayake,KD Mills,,0,1,1,,,,342223422
+2,New Zealand,13,KD Mills,SMSM Senanayake,KS Williamson,,0,0,0,lbw,KD Mills,,342223422
+2,New Zealand,13,TA Boult,SMSM Senanayake,KS Williamson,,0,0,0,,,,342223422
+2,New Zealand,13,TA Boult,SMSM Senanayake,KS Williamson,,0,0,0,,,,342223422
+2,New Zealand,13,TA Boult,SMSM Senanayake,KS Williamson,,0,0,0,,,,342223422
+2,New Zealand,14,KS Williamson,SL Malinga,TA Boult,,0,0,0,,,,342223422
+2,New Zealand,14,KS Williamson,SL Malinga,TA Boult,,0,1,1,,,,342223422
+2,New Zealand,14,TA Boult,SL Malinga,KS Williamson,,0,1,1,,,,342223422
+2,New Zealand,14,KS Williamson,SL Malinga,TA Boult,,0,4,4,,,,342223422
+2,New Zealand,14,KS Williamson,SL Malinga,TA Boult,,0,1,1,,,,342223422
+2,New Zealand,14,TA Boult,SL Malinga,KS Williamson,,0,1,1,,,,342223422
+2,New Zealand,15,TA Boult,HMRKB Herath,KS Williamson,,0,1,1,run out,KS Williamson,HMRKB Herath,342223422
+2,New Zealand,15,TA Boult,HMRKB Herath,MJ McClenaghan,,0,0,0,,,,342223422
+2,New Zealand,15,TA Boult,HMRKB Herath,MJ McClenaghan,,0,0,0,caught,TA Boult,DPMD Jayawardene,342223422

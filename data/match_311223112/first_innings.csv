@@ -1,0 +1,115 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Australia,0,SR Watson,Mohammad Asif,DA Warner,,0,0,0,,,,311223112
+1,Australia,0,SR Watson,Mohammad Asif,DA Warner,,0,4,4,,,,311223112
+1,Australia,0,SR Watson,Mohammad Asif,DA Warner,,0,0,0,,,,311223112
+1,Australia,0,SR Watson,Mohammad Asif,DA Warner,,0,0,0,,,,311223112
+1,Australia,0,SR Watson,Mohammad Asif,DA Warner,,0,2,2,,,,311223112
+1,Australia,0,SR Watson,Mohammad Asif,DA Warner,,0,1,1,,,,311223112
+1,Australia,1,SR Watson,Naved-ul-Hasan,DA Warner,,0,0,0,,,,311223112
+1,Australia,1,SR Watson,Naved-ul-Hasan,DA Warner,,0,1,1,,,,311223112
+1,Australia,1,DA Warner,Naved-ul-Hasan,SR Watson,,0,4,4,,,,311223112
+1,Australia,1,DA Warner,Naved-ul-Hasan,SR Watson,,0,0,0,,,,311223112
+1,Australia,1,DA Warner,Naved-ul-Hasan,SR Watson,,0,2,2,run out,SR Watson,Kamran Akmal,311223112
+1,Australia,1,MJ Clarke,Naved-ul-Hasan,DA Warner,,0,2,2,,,,311223112
+1,Australia,2,DA Warner,Mohammad Asif,MJ Clarke,,0,1,1,,,,311223112
+1,Australia,2,MJ Clarke,Mohammad Asif,DA Warner,,0,4,4,,,,311223112
+1,Australia,2,MJ Clarke,Mohammad Asif,DA Warner,,0,0,0,,,,311223112
+1,Australia,2,MJ Clarke,Mohammad Asif,DA Warner,,0,0,0,,,,311223112
+1,Australia,2,MJ Clarke,Mohammad Asif,DA Warner,,0,2,2,,,,311223112
+1,Australia,2,MJ Clarke,Mohammad Asif,DA Warner,,0,2,2,,,,311223112
+1,Australia,3,DA Warner,Naved-ul-Hasan,MJ Clarke,,0,1,1,,,,311223112
+1,Australia,3,MJ Clarke,Naved-ul-Hasan,DA Warner,,0,0,0,,,,311223112
+1,Australia,3,MJ Clarke,Naved-ul-Hasan,DA Warner,,0,1,1,,,,311223112
+1,Australia,3,DA Warner,Naved-ul-Hasan,MJ Clarke,,0,1,1,,,,311223112
+1,Australia,3,MJ Clarke,Naved-ul-Hasan,DA Warner,,0,2,2,,,,311223112
+1,Australia,3,MJ Clarke,Naved-ul-Hasan,DA Warner,,0,1,1,,,,311223112
+1,Australia,4,MJ Clarke,Mohammad Asif,DA Warner,,0,0,0,,,,311223112
+1,Australia,4,MJ Clarke,Mohammad Asif,DA Warner,,0,2,2,,,,311223112
+1,Australia,4,MJ Clarke,Mohammad Asif,DA Warner,,0,1,1,,,,311223112
+1,Australia,4,DA Warner,Mohammad Asif,MJ Clarke,,0,6,6,,,,311223112
+1,Australia,4,DA Warner,Mohammad Asif,MJ Clarke,,0,1,1,,,,311223112
+1,Australia,4,MJ Clarke,Mohammad Asif,DA Warner,,0,0,0,,,,311223112
+1,Australia,5,DA Warner,Naved-ul-Hasan,MJ Clarke,,0,1,1,,,,311223112
+1,Australia,5,MJ Clarke,Naved-ul-Hasan,DA Warner,,0,2,2,,,,311223112
+1,Australia,5,MJ Clarke,Naved-ul-Hasan,DA Warner,,0,1,1,,,,311223112
+1,Australia,5,DA Warner,Naved-ul-Hasan,MJ Clarke,,0,3,3,,,,311223112
+1,Australia,5,MJ Clarke,Naved-ul-Hasan,DA Warner,,0,1,1,,,,311223112
+1,Australia,5,DA Warner,Naved-ul-Hasan,MJ Clarke,,0,1,1,,,,311223112
+1,Australia,6,DA Warner,Mohammad Asif,MJ Clarke,,0,1,1,,,,311223112
+1,Australia,6,MJ Clarke,Mohammad Asif,DA Warner,,0,0,0,,,,311223112
+1,Australia,6,MJ Clarke,Mohammad Asif,DA Warner,,0,1,1,,,,311223112
+1,Australia,6,DA Warner,Mohammad Asif,MJ Clarke,,0,2,2,,,,311223112
+1,Australia,6,DA Warner,Mohammad Asif,MJ Clarke,,0,0,0,caught,DA Warner,Imran Nazir,311223112
+1,Australia,6,MJ Clarke,Mohammad Asif,DJ Hussey,,0,1,1,,,,311223112
+1,Australia,7,MJ Clarke,Shoaib Malik,DJ Hussey,,0,4,4,,,,311223112
+1,Australia,7,MJ Clarke,Shoaib Malik,DJ Hussey,,0,1,1,,,,311223112
+1,Australia,7,DJ Hussey,Shoaib Malik,MJ Clarke,,0,1,1,,,,311223112
+1,Australia,7,MJ Clarke,Shoaib Malik,DJ Hussey,,0,2,2,,,,311223112
+1,Australia,7,MJ Clarke,Shoaib Malik,DJ Hussey,,0,1,1,,,,311223112
+1,Australia,7,DJ Hussey,Shoaib Malik,MJ Clarke,,0,1,1,,,,311223112
+1,Australia,8,DJ Hussey,Umar Gul,MJ Clarke,,0,1,1,,,,311223112
+1,Australia,8,MJ Clarke,Umar Gul,DJ Hussey,,0,1,1,,,,311223112
+1,Australia,8,DJ Hussey,Umar Gul,MJ Clarke,,0,1,1,,,,311223112
+1,Australia,8,MJ Clarke,Umar Gul,DJ Hussey,,0,0,0,caught,MJ Clarke,Fawad Alam,311223112
+1,Australia,8,CL White,Umar Gul,DJ Hussey,,0,0,0,,,,311223112
+1,Australia,8,CL White,Umar Gul,DJ Hussey,wides,1,1,0,,,,311223112
+1,Australia,8,CL White,Umar Gul,DJ Hussey,,0,1,1,,,,311223112
+1,Australia,9,CL White,Shoaib Malik,DJ Hussey,,0,1,1,,,,311223112
+1,Australia,9,DJ Hussey,Shoaib Malik,CL White,,0,0,0,,,,311223112
+1,Australia,9,DJ Hussey,Shoaib Malik,CL White,,0,1,1,,,,311223112
+1,Australia,9,CL White,Shoaib Malik,DJ Hussey,,0,1,1,,,,311223112
+1,Australia,9,DJ Hussey,Shoaib Malik,CL White,,0,1,1,,,,311223112
+1,Australia,9,CL White,Shoaib Malik,DJ Hussey,,0,0,0,,,,311223112
+1,Australia,10,DJ Hussey,Umar Gul,CL White,,0,1,1,,,,311223112
+1,Australia,10,CL White,Umar Gul,DJ Hussey,,0,0,0,,,,311223112
+1,Australia,10,CL White,Umar Gul,DJ Hussey,,0,1,1,,,,311223112
+1,Australia,10,DJ Hussey,Umar Gul,CL White,,0,1,1,,,,311223112
+1,Australia,10,CL White,Umar Gul,DJ Hussey,,0,0,0,run out,CL White,Fawad Alam,311223112
+1,Australia,10,TR Birt,Umar Gul,DJ Hussey,,0,1,1,,,,311223112
+1,Australia,11,TR Birt,Shoaib Malik,DJ Hussey,,0,0,0,bowled,TR Birt,,311223112
+1,Australia,11,BJ Haddin,Shoaib Malik,DJ Hussey,,0,0,0,,,,311223112
+1,Australia,11,BJ Haddin,Shoaib Malik,DJ Hussey,,0,0,0,,,,311223112
+1,Australia,11,BJ Haddin,Shoaib Malik,DJ Hussey,,0,1,1,,,,311223112
+1,Australia,11,DJ Hussey,Shoaib Malik,BJ Haddin,,0,1,1,,,,311223112
+1,Australia,11,BJ Haddin,Shoaib Malik,DJ Hussey,wides,1,1,0,stumped,BJ Haddin,Kamran Akmal,311223112
+1,Australia,11,SPD Smith,Shoaib Malik,DJ Hussey,,0,1,1,,,,311223112
+1,Australia,12,SPD Smith,Saeed Ajmal,DJ Hussey,,0,1,1,,,,311223112
+1,Australia,12,DJ Hussey,Saeed Ajmal,SPD Smith,,0,1,1,,,,311223112
+1,Australia,12,SPD Smith,Saeed Ajmal,DJ Hussey,,0,1,1,,,,311223112
+1,Australia,12,DJ Hussey,Saeed Ajmal,SPD Smith,,0,0,0,,,,311223112
+1,Australia,12,DJ Hussey,Saeed Ajmal,SPD Smith,,0,1,1,,,,311223112
+1,Australia,12,SPD Smith,Saeed Ajmal,DJ Hussey,,0,0,0,,,,311223112
+1,Australia,13,DJ Hussey,Shoaib Malik,SPD Smith,,0,1,1,,,,311223112
+1,Australia,13,SPD Smith,Shoaib Malik,DJ Hussey,,0,0,0,,,,311223112
+1,Australia,13,SPD Smith,Shoaib Malik,DJ Hussey,,0,4,4,,,,311223112
+1,Australia,13,SPD Smith,Shoaib Malik,DJ Hussey,,0,1,1,,,,311223112
+1,Australia,13,DJ Hussey,Shoaib Malik,SPD Smith,,0,6,6,,,,311223112
+1,Australia,13,DJ Hussey,Shoaib Malik,SPD Smith,,0,1,1,,,,311223112
+1,Australia,14,DJ Hussey,Naved-ul-Hasan,SPD Smith,,0,0,0,,,,311223112
+1,Australia,14,DJ Hussey,Naved-ul-Hasan,SPD Smith,,0,0,0,,,,311223112
+1,Australia,14,DJ Hussey,Naved-ul-Hasan,SPD Smith,,0,2,2,,,,311223112
+1,Australia,14,DJ Hussey,Naved-ul-Hasan,SPD Smith,,0,1,1,,,,311223112
+1,Australia,14,SPD Smith,Naved-ul-Hasan,DJ Hussey,,0,0,0,bowled,SPD Smith,,311223112
+1,Australia,14,MG Johnson,Naved-ul-Hasan,DJ Hussey,,0,0,0,,,,311223112
+1,Australia,15,DJ Hussey,Saeed Ajmal,MG Johnson,,0,1,1,,,,311223112
+1,Australia,15,MG Johnson,Saeed Ajmal,DJ Hussey,,0,0,0,,,,311223112
+1,Australia,15,MG Johnson,Saeed Ajmal,DJ Hussey,,0,0,0,,,,311223112
+1,Australia,15,MG Johnson,Saeed Ajmal,DJ Hussey,,0,0,0,,,,311223112
+1,Australia,15,MG Johnson,Saeed Ajmal,DJ Hussey,,0,2,2,,,,311223112
+1,Australia,15,MG Johnson,Saeed Ajmal,DJ Hussey,,0,0,0,,,,311223112
+1,Australia,16,DJ Hussey,Umar Gul,MG Johnson,,0,1,1,,,,311223112
+1,Australia,16,MG Johnson,Umar Gul,DJ Hussey,,0,0,0,caught,MG Johnson,Kamran Akmal,311223112
+1,Australia,16,DP Nannes,Umar Gul,DJ Hussey,,0,1,1,,,,311223112
+1,Australia,16,DJ Hussey,Umar Gul,DP Nannes,,0,4,4,,,,311223112
+1,Australia,16,DJ Hussey,Umar Gul,DP Nannes,,0,2,2,,,,311223112
+1,Australia,16,DJ Hussey,Umar Gul,DP Nannes,,0,1,1,,,,311223112
+1,Australia,17,DJ Hussey,Saeed Ajmal,DP Nannes,,0,1,1,,,,311223112
+1,Australia,17,DP Nannes,Saeed Ajmal,DJ Hussey,,0,0,0,,,,311223112
+1,Australia,17,DP Nannes,Saeed Ajmal,DJ Hussey,,0,3,3,,,,311223112
+1,Australia,17,DJ Hussey,Saeed Ajmal,DP Nannes,,0,1,1,run out,DP Nannes,Saeed Ajmal,311223112
+1,Australia,17,DJ Hussey,Saeed Ajmal,SW Tait,,0,0,0,,,,311223112
+1,Australia,17,DJ Hussey,Saeed Ajmal,SW Tait,,0,6,6,,,,311223112
+1,Australia,18,SW Tait,Umar Gul,DJ Hussey,,0,1,1,,,,311223112
+1,Australia,18,DJ Hussey,Umar Gul,SW Tait,,0,0,0,,,,311223112
+1,Australia,18,DJ Hussey,Umar Gul,SW Tait,,0,1,1,,,,311223112
+1,Australia,18,SW Tait,Umar Gul,DJ Hussey,,0,0,0,caught,SW Tait,Fawad Alam,311223112

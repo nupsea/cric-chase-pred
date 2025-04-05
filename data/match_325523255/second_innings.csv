@@ -1,0 +1,121 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,West Indies,0,SR Taylor,EA Perry,JB Nero,,0,1,1,,,,325523255
+2,West Indies,0,JB Nero,EA Perry,SR Taylor,wides,1,1,0,,,,325523255
+2,West Indies,0,JB Nero,EA Perry,SR Taylor,,0,0,0,,,,325523255
+2,West Indies,0,JB Nero,EA Perry,SR Taylor,,0,0,0,,,,325523255
+2,West Indies,0,JB Nero,EA Perry,SR Taylor,,0,0,0,,,,325523255
+2,West Indies,0,JB Nero,EA Perry,SR Taylor,,0,0,0,,,,325523255
+2,West Indies,0,JB Nero,EA Perry,SR Taylor,,0,4,4,,,,325523255
+2,West Indies,1,SR Taylor,LC Sthalekar,JB Nero,,0,0,0,,,,325523255
+2,West Indies,1,SR Taylor,LC Sthalekar,JB Nero,,0,0,0,,,,325523255
+2,West Indies,1,SR Taylor,LC Sthalekar,JB Nero,,0,0,0,,,,325523255
+2,West Indies,1,SR Taylor,LC Sthalekar,JB Nero,,0,0,0,,,,325523255
+2,West Indies,1,SR Taylor,LC Sthalekar,JB Nero,,0,0,0,,,,325523255
+2,West Indies,1,SR Taylor,LC Sthalekar,JB Nero,,0,1,1,,,,325523255
+2,West Indies,2,SR Taylor,EA Perry,JB Nero,,0,0,0,,,,325523255
+2,West Indies,2,SR Taylor,EA Perry,JB Nero,,0,0,0,,,,325523255
+2,West Indies,2,SR Taylor,EA Perry,JB Nero,,0,1,1,,,,325523255
+2,West Indies,2,JB Nero,EA Perry,SR Taylor,,0,4,4,,,,325523255
+2,West Indies,2,JB Nero,EA Perry,SR Taylor,,0,1,1,,,,325523255
+2,West Indies,2,SR Taylor,EA Perry,JB Nero,,0,0,0,bowled,SR Taylor,,325523255
+2,West Indies,3,JB Nero,LC Sthalekar,MR Aguilleira,,0,0,0,,,,325523255
+2,West Indies,3,JB Nero,LC Sthalekar,MR Aguilleira,,0,0,0,,,,325523255
+2,West Indies,3,JB Nero,LC Sthalekar,MR Aguilleira,,0,0,0,,,,325523255
+2,West Indies,3,JB Nero,LC Sthalekar,MR Aguilleira,,0,2,2,,,,325523255
+2,West Indies,3,JB Nero,LC Sthalekar,MR Aguilleira,,0,0,0,,,,325523255
+2,West Indies,3,JB Nero,LC Sthalekar,MR Aguilleira,,0,0,0,,,,325523255
+2,West Indies,4,MR Aguilleira,JL Hunter,JB Nero,,0,2,2,,,,325523255
+2,West Indies,4,MR Aguilleira,JL Hunter,JB Nero,,0,0,0,lbw,MR Aguilleira,,325523255
+2,West Indies,4,DJS Dottin,JL Hunter,JB Nero,,0,0,0,,,,325523255
+2,West Indies,4,DJS Dottin,JL Hunter,JB Nero,,0,0,0,,,,325523255
+2,West Indies,4,DJS Dottin,JL Hunter,JB Nero,,0,4,4,,,,325523255
+2,West Indies,4,DJS Dottin,JL Hunter,JB Nero,,0,1,1,,,,325523255
+2,West Indies,5,DJS Dottin,LC Sthalekar,JB Nero,,0,1,1,,,,325523255
+2,West Indies,5,JB Nero,LC Sthalekar,DJS Dottin,,0,0,0,,,,325523255
+2,West Indies,5,JB Nero,LC Sthalekar,DJS Dottin,,0,0,0,,,,325523255
+2,West Indies,5,JB Nero,LC Sthalekar,DJS Dottin,,0,0,0,,,,325523255
+2,West Indies,5,JB Nero,LC Sthalekar,DJS Dottin,,0,0,0,,,,325523255
+2,West Indies,5,JB Nero,LC Sthalekar,DJS Dottin,,0,0,0,,,,325523255
+2,West Indies,6,DJS Dottin,EA Perry,JB Nero,,0,0,0,bowled,DJS Dottin,,325523255
+2,West Indies,6,SA Campbelle,EA Perry,JB Nero,,0,4,4,,,,325523255
+2,West Indies,6,SA Campbelle,EA Perry,JB Nero,,0,0,0,,,,325523255
+2,West Indies,6,SA Campbelle,EA Perry,JB Nero,,0,0,0,,,,325523255
+2,West Indies,6,SA Campbelle,EA Perry,JB Nero,,0,1,1,,,,325523255
+2,West Indies,6,JB Nero,EA Perry,SA Campbelle,,0,0,0,run out,SA Campbelle,EA Perry,325523255
+2,West Indies,7,SF Daley,EA Osborne,JB Nero,,0,4,4,,,,325523255
+2,West Indies,7,SF Daley,EA Osborne,JB Nero,,0,0,0,,,,325523255
+2,West Indies,7,SF Daley,EA Osborne,JB Nero,,0,2,2,,,,325523255
+2,West Indies,7,SF Daley,EA Osborne,JB Nero,,0,1,1,,,,325523255
+2,West Indies,7,JB Nero,EA Osborne,SF Daley,,0,0,0,,,,325523255
+2,West Indies,7,JB Nero,EA Osborne,SF Daley,,0,4,4,,,,325523255
+2,West Indies,8,SF Daley,JL Jonassen,JB Nero,wides,1,1,0,,,,325523255
+2,West Indies,8,SF Daley,JL Jonassen,JB Nero,,0,0,0,,,,325523255
+2,West Indies,8,SF Daley,JL Jonassen,JB Nero,,0,0,0,,,,325523255
+2,West Indies,8,SF Daley,JL Jonassen,JB Nero,,0,0,0,,,,325523255
+2,West Indies,8,SF Daley,JL Jonassen,JB Nero,,0,0,0,,,,325523255
+2,West Indies,8,SF Daley,JL Jonassen,JB Nero,,0,1,1,,,,325523255
+2,West Indies,8,JB Nero,JL Jonassen,SF Daley,,0,2,2,,,,325523255
+2,West Indies,9,SF Daley,EA Osborne,JB Nero,,0,0,0,,,,325523255
+2,West Indies,9,SF Daley,EA Osborne,JB Nero,,0,1,1,,,,325523255
+2,West Indies,9,JB Nero,EA Osborne,SF Daley,,0,1,1,,,,325523255
+2,West Indies,9,SF Daley,EA Osborne,JB Nero,,0,0,0,,,,325523255
+2,West Indies,9,SF Daley,EA Osborne,JB Nero,,0,1,1,,,,325523255
+2,West Indies,9,JB Nero,EA Osborne,SF Daley,,0,0,0,,,,325523255
+2,West Indies,10,SF Daley,JL Jonassen,JB Nero,,0,0,0,,,,325523255
+2,West Indies,10,SF Daley,JL Jonassen,JB Nero,,0,1,1,,,,325523255
+2,West Indies,10,JB Nero,JL Jonassen,SF Daley,,0,2,2,,,,325523255
+2,West Indies,10,JB Nero,JL Jonassen,SF Daley,,0,1,1,,,,325523255
+2,West Indies,10,SF Daley,JL Jonassen,JB Nero,,0,0,0,,,,325523255
+2,West Indies,10,SF Daley,JL Jonassen,JB Nero,,0,1,1,,,,325523255
+2,West Indies,11,SF Daley,LC Sthalekar,JB Nero,,0,0,0,,,,325523255
+2,West Indies,11,SF Daley,LC Sthalekar,JB Nero,,0,0,0,,,,325523255
+2,West Indies,11,SF Daley,LC Sthalekar,JB Nero,,0,1,1,,,,325523255
+2,West Indies,11,JB Nero,LC Sthalekar,SF Daley,,0,0,0,,,,325523255
+2,West Indies,11,JB Nero,LC Sthalekar,SF Daley,,0,1,1,,,,325523255
+2,West Indies,11,SF Daley,LC Sthalekar,JB Nero,,0,0,0,,,,325523255
+2,West Indies,12,JB Nero,JL Jonassen,SF Daley,,0,0,0,,,,325523255
+2,West Indies,12,JB Nero,JL Jonassen,SF Daley,,0,0,0,,,,325523255
+2,West Indies,12,JB Nero,JL Jonassen,SF Daley,,0,0,0,,,,325523255
+2,West Indies,12,JB Nero,JL Jonassen,SF Daley,,0,0,0,,,,325523255
+2,West Indies,12,JB Nero,JL Jonassen,SF Daley,,0,0,0,,,,325523255
+2,West Indies,12,JB Nero,JL Jonassen,SF Daley,,0,1,1,,,,325523255
+2,West Indies,13,JB Nero,JL Hunter,SF Daley,legbyes,1,1,0,,,,325523255
+2,West Indies,13,SF Daley,JL Hunter,JB Nero,,0,4,4,,,,325523255
+2,West Indies,13,SF Daley,JL Hunter,JB Nero,wides,1,1,0,,,,325523255
+2,West Indies,13,SF Daley,JL Hunter,JB Nero,wides,1,1,0,,,,325523255
+2,West Indies,13,SF Daley,JL Hunter,JB Nero,,0,0,0,,,,325523255
+2,West Indies,13,SF Daley,JL Hunter,JB Nero,,0,4,4,,,,325523255
+2,West Indies,13,SF Daley,JL Hunter,JB Nero,,0,1,1,,,,325523255
+2,West Indies,13,JB Nero,JL Hunter,SF Daley,,0,0,0,,,,325523255
+2,West Indies,14,SF Daley,JL Jonassen,JB Nero,,0,1,1,,,,325523255
+2,West Indies,14,JB Nero,JL Jonassen,SF Daley,,0,1,1,,,,325523255
+2,West Indies,14,SF Daley,JL Jonassen,JB Nero,,0,1,1,,,,325523255
+2,West Indies,14,JB Nero,JL Jonassen,SF Daley,,0,4,4,,,,325523255
+2,West Indies,14,JB Nero,JL Jonassen,SF Daley,,0,0,0,,,,325523255
+2,West Indies,14,JB Nero,JL Jonassen,SF Daley,,0,1,1,,,,325523255
+2,West Indies,15,JB Nero,EA Perry,SF Daley,,0,1,1,,,,325523255
+2,West Indies,15,SF Daley,EA Perry,JB Nero,,0,0,0,,,,325523255
+2,West Indies,15,SF Daley,EA Perry,JB Nero,,0,0,0,,,,325523255
+2,West Indies,15,SF Daley,EA Perry,JB Nero,,0,0,0,,,,325523255
+2,West Indies,15,SF Daley,EA Perry,JB Nero,,0,0,0,,,,325523255
+2,West Indies,15,SF Daley,EA Perry,JB Nero,,0,1,1,,,,325523255
+2,West Indies,16,SF Daley,EA Osborne,JB Nero,,0,0,0,,,,325523255
+2,West Indies,16,SF Daley,EA Osborne,JB Nero,,0,0,0,caught,SF Daley,AJ Blackwell,325523255
+2,West Indies,16,SACA King,EA Osborne,JB Nero,,0,1,1,,,,325523255
+2,West Indies,16,JB Nero,EA Osborne,SACA King,,0,0,0,,,,325523255
+2,West Indies,16,JB Nero,EA Osborne,SACA King,,0,0,0,,,,325523255
+2,West Indies,16,JB Nero,EA Osborne,SACA King,,0,1,1,,,,325523255
+2,West Indies,17,JB Nero,JL Hunter,SACA King,,0,0,0,bowled,JB Nero,,325523255
+2,West Indies,17,TD Smartt,JL Hunter,SACA King,,0,1,1,,,,325523255
+2,West Indies,17,SACA King,JL Hunter,TD Smartt,,0,0,0,caught,SACA King,EA Perry,325523255
+2,West Indies,17,SL Quintyne,JL Hunter,TD Smartt,,0,1,1,,,,325523255
+2,West Indies,17,TD Smartt,JL Hunter,SL Quintyne,,0,0,0,,,,325523255
+2,West Indies,17,TD Smartt,JL Hunter,SL Quintyne,,0,2,2,,,,325523255
+2,West Indies,18,SL Quintyne,EA Osborne,TD Smartt,,0,1,1,,,,325523255
+2,West Indies,18,TD Smartt,EA Osborne,SL Quintyne,,0,1,1,,,,325523255
+2,West Indies,18,SL Quintyne,EA Osborne,TD Smartt,byes,1,1,0,,,,325523255
+2,West Indies,18,TD Smartt,EA Osborne,SL Quintyne,,0,1,1,,,,325523255
+2,West Indies,18,SL Quintyne,EA Osborne,TD Smartt,,0,0,0,lbw,SL Quintyne,,325523255
+2,West Indies,18,A Mohammed,EA Osborne,TD Smartt,,0,1,1,,,,325523255
+2,West Indies,19,A Mohammed,JL Hunter,TD Smartt,,0,0,0,caught,A Mohammed,MM Lanning,325523255
+2,West Indies,19,TD Smartt,JL Hunter,SC Selman,,0,0,0,caught,TD Smartt,JE Cameron,325523255

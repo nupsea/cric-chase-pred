@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Nigeria,0,D Ajekun,Bilal Khan,AM Oyede,,0,0,0,,,,31295231295
+1,Nigeria,0,D Ajekun,Bilal Khan,AM Oyede,,0,1,1,,,,31295231295
+1,Nigeria,0,AM Oyede,Bilal Khan,D Ajekun,,0,0,0,,,,31295231295
+1,Nigeria,0,AM Oyede,Bilal Khan,D Ajekun,wides,1,1,0,,,,31295231295
+1,Nigeria,0,AM Oyede,Bilal Khan,D Ajekun,,0,0,0,,,,31295231295
+1,Nigeria,0,AM Oyede,Bilal Khan,D Ajekun,,0,0,0,,,,31295231295
+1,Nigeria,0,AM Oyede,Bilal Khan,D Ajekun,,0,0,0,,,,31295231295
+1,Nigeria,1,D Ajekun,Kaleemullah,AM Oyede,,0,4,4,,,,31295231295
+1,Nigeria,1,D Ajekun,Kaleemullah,AM Oyede,,0,0,0,,,,31295231295
+1,Nigeria,1,D Ajekun,Kaleemullah,AM Oyede,,0,0,0,,,,31295231295
+1,Nigeria,1,D Ajekun,Kaleemullah,AM Oyede,,0,0,0,,,,31295231295
+1,Nigeria,1,D Ajekun,Kaleemullah,AM Oyede,,0,3,3,,,,31295231295
+1,Nigeria,1,AM Oyede,Kaleemullah,D Ajekun,,0,1,1,,,,31295231295
+1,Nigeria,2,AM Oyede,Bilal Khan,D Ajekun,,0,0,0,,,,31295231295
+1,Nigeria,2,AM Oyede,Bilal Khan,D Ajekun,,0,0,0,,,,31295231295
+1,Nigeria,2,AM Oyede,Bilal Khan,D Ajekun,,0,0,0,,,,31295231295
+1,Nigeria,2,AM Oyede,Bilal Khan,D Ajekun,,0,0,0,lbw,AM Oyede,,31295231295
+1,Nigeria,2,Sulaimon Runsewe,Bilal Khan,D Ajekun,,0,0,0,,,,31295231295
+1,Nigeria,2,Sulaimon Runsewe,Bilal Khan,D Ajekun,,0,0,0,,,,31295231295
+1,Nigeria,3,D Ajekun,Kaleemullah,Sulaimon Runsewe,,0,4,4,,,,31295231295
+1,Nigeria,3,D Ajekun,Kaleemullah,Sulaimon Runsewe,,0,1,1,,,,31295231295
+1,Nigeria,3,Sulaimon Runsewe,Kaleemullah,D Ajekun,,0,0,0,,,,31295231295
+1,Nigeria,3,Sulaimon Runsewe,Kaleemullah,D Ajekun,,0,0,0,,,,31295231295
+1,Nigeria,3,Sulaimon Runsewe,Kaleemullah,D Ajekun,,0,0,0,,,,31295231295
+1,Nigeria,3,Sulaimon Runsewe,Kaleemullah,D Ajekun,,0,0,0,,,,31295231295
+1,Nigeria,4,D Ajekun,Bilal Khan,Sulaimon Runsewe,,0,1,1,,,,31295231295
+1,Nigeria,4,Sulaimon Runsewe,Bilal Khan,D Ajekun,,0,0,0,,,,31295231295
+1,Nigeria,4,Sulaimon Runsewe,Bilal Khan,D Ajekun,,0,0,0,,,,31295231295
+1,Nigeria,4,Sulaimon Runsewe,Bilal Khan,D Ajekun,,0,1,1,,,,31295231295
+1,Nigeria,4,D Ajekun,Bilal Khan,Sulaimon Runsewe,,0,0,0,,,,31295231295
+1,Nigeria,4,D Ajekun,Bilal Khan,Sulaimon Runsewe,,0,0,0,,,,31295231295
+1,Nigeria,5,Sulaimon Runsewe,Mohammad Nadeem,D Ajekun,,0,0,0,,,,31295231295
+1,Nigeria,5,Sulaimon Runsewe,Mohammad Nadeem,D Ajekun,,0,4,4,,,,31295231295
+1,Nigeria,5,Sulaimon Runsewe,Mohammad Nadeem,D Ajekun,,0,0,0,,,,31295231295
+1,Nigeria,5,Sulaimon Runsewe,Mohammad Nadeem,D Ajekun,,0,1,1,,,,31295231295
+1,Nigeria,5,D Ajekun,Mohammad Nadeem,Sulaimon Runsewe,,0,0,0,,,,31295231295
+1,Nigeria,5,D Ajekun,Mohammad Nadeem,Sulaimon Runsewe,,0,0,0,,,,31295231295
+1,Nigeria,6,Sulaimon Runsewe,Aamir Kaleem,D Ajekun,,0,1,1,,,,31295231295
+1,Nigeria,6,D Ajekun,Aamir Kaleem,Sulaimon Runsewe,,0,0,0,,,,31295231295
+1,Nigeria,6,D Ajekun,Aamir Kaleem,Sulaimon Runsewe,,0,1,1,,,,31295231295
+1,Nigeria,6,Sulaimon Runsewe,Aamir Kaleem,D Ajekun,,0,2,2,,,,31295231295
+1,Nigeria,6,Sulaimon Runsewe,Aamir Kaleem,D Ajekun,,0,2,2,,,,31295231295
+1,Nigeria,6,Sulaimon Runsewe,Aamir Kaleem,D Ajekun,,0,1,1,,,,31295231295
+1,Nigeria,7,Sulaimon Runsewe,Mohammad Nadeem,D Ajekun,,0,1,1,,,,31295231295
+1,Nigeria,7,D Ajekun,Mohammad Nadeem,Sulaimon Runsewe,wides,1,1,0,,,,31295231295
+1,Nigeria,7,D Ajekun,Mohammad Nadeem,Sulaimon Runsewe,,0,0,0,,,,31295231295
+1,Nigeria,7,D Ajekun,Mohammad Nadeem,Sulaimon Runsewe,,0,1,1,,,,31295231295
+1,Nigeria,7,Sulaimon Runsewe,Mohammad Nadeem,D Ajekun,,0,1,1,,,,31295231295
+1,Nigeria,7,D Ajekun,Mohammad Nadeem,Sulaimon Runsewe,,0,0,0,,,,31295231295
+1,Nigeria,7,D Ajekun,Mohammad Nadeem,Sulaimon Runsewe,wides,1,1,0,,,,31295231295
+1,Nigeria,7,D Ajekun,Mohammad Nadeem,Sulaimon Runsewe,,0,0,0,run out,Sulaimon Runsewe,,31295231295
+1,Nigeria,8,D Ajekun,Aamir Kaleem,CN Onwuzulike,,0,0,0,caught,D Ajekun,Bilal Khan,31295231295
+1,Nigeria,8,AA Onikoyi,Aamir Kaleem,CN Onwuzulike,,0,0,0,,,,31295231295
+1,Nigeria,8,AA Onikoyi,Aamir Kaleem,CN Onwuzulike,,0,1,1,,,,31295231295
+1,Nigeria,8,CN Onwuzulike,Aamir Kaleem,AA Onikoyi,,0,0,0,caught,CN Onwuzulike,Khawar Ali,31295231295
+1,Nigeria,8,IO Okpe,Aamir Kaleem,AA Onikoyi,,0,1,1,,,,31295231295
+1,Nigeria,8,AA Onikoyi,Aamir Kaleem,IO Okpe,,0,0,0,,,,31295231295
+1,Nigeria,9,IO Okpe,Khawar Ali,AA Onikoyi,,0,0,0,,,,31295231295
+1,Nigeria,9,IO Okpe,Khawar Ali,AA Onikoyi,,0,0,0,,,,31295231295
+1,Nigeria,9,IO Okpe,Khawar Ali,AA Onikoyi,,0,0,0,,,,31295231295
+1,Nigeria,9,IO Okpe,Khawar Ali,AA Onikoyi,,0,0,0,,,,31295231295
+1,Nigeria,9,IO Okpe,Khawar Ali,AA Onikoyi,,0,1,1,,,,31295231295
+1,Nigeria,9,AA Onikoyi,Khawar Ali,IO Okpe,,0,1,1,,,,31295231295
+1,Nigeria,10,AA Onikoyi,Zeeshan Maqsood,IO Okpe,,0,0,0,,,,31295231295
+1,Nigeria,10,AA Onikoyi,Zeeshan Maqsood,IO Okpe,,0,0,0,,,,31295231295
+1,Nigeria,10,AA Onikoyi,Zeeshan Maqsood,IO Okpe,,0,0,0,,,,31295231295
+1,Nigeria,10,AA Onikoyi,Zeeshan Maqsood,IO Okpe,,0,1,1,,,,31295231295
+1,Nigeria,10,IO Okpe,Zeeshan Maqsood,AA Onikoyi,,0,1,1,,,,31295231295
+1,Nigeria,10,AA Onikoyi,Zeeshan Maqsood,IO Okpe,,0,0,0,,,,31295231295
+1,Nigeria,11,IO Okpe,Khawar Ali,AA Onikoyi,,0,0,0,,,,31295231295
+1,Nigeria,11,IO Okpe,Khawar Ali,AA Onikoyi,,0,2,2,,,,31295231295
+1,Nigeria,11,IO Okpe,Khawar Ali,AA Onikoyi,,0,2,2,,,,31295231295
+1,Nigeria,11,IO Okpe,Khawar Ali,AA Onikoyi,,0,0,0,,,,31295231295
+1,Nigeria,11,IO Okpe,Khawar Ali,AA Onikoyi,,0,1,1,,,,31295231295
+1,Nigeria,11,AA Onikoyi,Khawar Ali,IO Okpe,,0,0,0,,,,31295231295
+1,Nigeria,12,IO Okpe,Zeeshan Maqsood,AA Onikoyi,,0,1,1,,,,31295231295
+1,Nigeria,12,AA Onikoyi,Zeeshan Maqsood,IO Okpe,,0,1,1,,,,31295231295
+1,Nigeria,12,IO Okpe,Zeeshan Maqsood,AA Onikoyi,,0,0,0,,,,31295231295
+1,Nigeria,12,IO Okpe,Zeeshan Maqsood,AA Onikoyi,,0,0,0,,,,31295231295
+1,Nigeria,12,IO Okpe,Zeeshan Maqsood,AA Onikoyi,,0,1,1,,,,31295231295
+1,Nigeria,12,AA Onikoyi,Zeeshan Maqsood,IO Okpe,,0,0,0,,,,31295231295
+1,Nigeria,13,IO Okpe,Khawar Ali,AA Onikoyi,,0,0,0,,,,31295231295
+1,Nigeria,13,IO Okpe,Khawar Ali,AA Onikoyi,,0,1,1,,,,31295231295
+1,Nigeria,13,AA Onikoyi,Khawar Ali,IO Okpe,legbyes,1,1,0,,,,31295231295
+1,Nigeria,13,IO Okpe,Khawar Ali,AA Onikoyi,,0,0,0,,,,31295231295
+1,Nigeria,13,IO Okpe,Khawar Ali,AA Onikoyi,,0,0,0,,,,31295231295
+1,Nigeria,13,IO Okpe,Khawar Ali,AA Onikoyi,,0,1,1,,,,31295231295
+1,Nigeria,14,IO Okpe,Aamir Kaleem,AA Onikoyi,,0,0,0,bowled,IO Okpe,,31295231295
+1,Nigeria,14,D Gim,Aamir Kaleem,AA Onikoyi,,0,0,0,caught,D Gim,Khawar Ali,31295231295
+1,Nigeria,14,JO Adedeji,Aamir Kaleem,AA Onikoyi,,0,1,1,,,,31295231295
+1,Nigeria,14,AA Onikoyi,Aamir Kaleem,JO Adedeji,,0,0,0,,,,31295231295
+1,Nigeria,14,AA Onikoyi,Aamir Kaleem,JO Adedeji,,0,0,0,,,,31295231295
+1,Nigeria,14,AA Onikoyi,Aamir Kaleem,JO Adedeji,,0,0,0,,,,31295231295
+1,Nigeria,15,JO Adedeji,Zeeshan Maqsood,AA Onikoyi,,0,2,2,,,,31295231295
+1,Nigeria,15,JO Adedeji,Zeeshan Maqsood,AA Onikoyi,,0,1,1,,,,31295231295
+1,Nigeria,15,AA Onikoyi,Zeeshan Maqsood,JO Adedeji,,0,0,0,,,,31295231295
+1,Nigeria,15,AA Onikoyi,Zeeshan Maqsood,JO Adedeji,,0,0,0,,,,31295231295
+1,Nigeria,15,AA Onikoyi,Zeeshan Maqsood,JO Adedeji,,0,1,1,,,,31295231295
+1,Nigeria,15,JO Adedeji,Zeeshan Maqsood,AA Onikoyi,,0,0,0,,,,31295231295
+1,Nigeria,16,AA Onikoyi,Aamir Kaleem,JO Adedeji,,0,1,1,,,,31295231295
+1,Nigeria,16,JO Adedeji,Aamir Kaleem,AA Onikoyi,,0,0,0,,,,31295231295
+1,Nigeria,16,JO Adedeji,Aamir Kaleem,AA Onikoyi,,0,0,0,,,,31295231295
+1,Nigeria,16,JO Adedeji,Aamir Kaleem,AA Onikoyi,,0,0,0,,,,31295231295
+1,Nigeria,16,JO Adedeji,Aamir Kaleem,AA Onikoyi,,0,1,1,,,,31295231295
+1,Nigeria,16,AA Onikoyi,Aamir Kaleem,JO Adedeji,,0,2,2,,,,31295231295
+1,Nigeria,17,JO Adedeji,Zeeshan Maqsood,AA Onikoyi,,0,2,2,,,,31295231295
+1,Nigeria,17,JO Adedeji,Zeeshan Maqsood,AA Onikoyi,,0,1,1,,,,31295231295
+1,Nigeria,17,AA Onikoyi,Zeeshan Maqsood,JO Adedeji,,0,2,2,,,,31295231295
+1,Nigeria,17,AA Onikoyi,Zeeshan Maqsood,JO Adedeji,,0,0,0,run out,JO Adedeji,,31295231295
+1,Nigeria,17,SA Okpe,Zeeshan Maqsood,AA Onikoyi,,0,0,0,,,,31295231295
+1,Nigeria,17,SA Okpe,Zeeshan Maqsood,AA Onikoyi,,0,0,0,,,,31295231295
+1,Nigeria,18,AA Onikoyi,Khawar Ali,SA Okpe,,0,0,0,caught,AA Onikoyi,Khurram Nawaz,31295231295
+1,Nigeria,18,SA Okpe,Khawar Ali,CM Akachukwu,,0,1,1,,,,31295231295
+1,Nigeria,18,CM Akachukwu,Khawar Ali,SA Okpe,,0,1,1,,,,31295231295
+1,Nigeria,18,SA Okpe,Khawar Ali,CM Akachukwu,,0,0,0,,,,31295231295
+1,Nigeria,18,SA Okpe,Khawar Ali,CM Akachukwu,,0,1,1,,,,31295231295
+1,Nigeria,18,CM Akachukwu,Khawar Ali,SA Okpe,,0,0,0,,,,31295231295
+1,Nigeria,19,SA Okpe,Bilal Khan,CM Akachukwu,,0,1,1,,,,31295231295
+1,Nigeria,19,CM Akachukwu,Bilal Khan,SA Okpe,,0,1,1,,,,31295231295
+1,Nigeria,19,SA Okpe,Bilal Khan,CM Akachukwu,,0,1,1,,,,31295231295
+1,Nigeria,19,CM Akachukwu,Bilal Khan,SA Okpe,,0,0,0,caught,CM Akachukwu,Sandeep Goud,31295231295
+1,Nigeria,19,SA Okpe,Bilal Khan,AS Abioye,,0,0,0,bowled,SA Okpe,,31295231295

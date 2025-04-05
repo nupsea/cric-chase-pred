@@ -1,0 +1,111 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Hong Kong,0,Nizakat Khan,FJ Klaassen,Aizaz Khan,legbyes,1,1,0,,,,32184232184
+1,Hong Kong,0,Aizaz Khan,FJ Klaassen,Nizakat Khan,legbyes,1,1,0,,,,32184232184
+1,Hong Kong,0,Nizakat Khan,FJ Klaassen,Aizaz Khan,,0,0,0,,,,32184232184
+1,Hong Kong,0,Nizakat Khan,FJ Klaassen,Aizaz Khan,,0,1,1,,,,32184232184
+1,Hong Kong,0,Aizaz Khan,FJ Klaassen,Nizakat Khan,,0,0,0,,,,32184232184
+1,Hong Kong,0,Aizaz Khan,FJ Klaassen,Nizakat Khan,,0,1,1,,,,32184232184
+1,Hong Kong,1,Aizaz Khan,TJG Pringle,Nizakat Khan,,0,1,1,,,,32184232184
+1,Hong Kong,1,Nizakat Khan,TJG Pringle,Aizaz Khan,,0,1,1,,,,32184232184
+1,Hong Kong,1,Aizaz Khan,TJG Pringle,Nizakat Khan,,0,1,1,,,,32184232184
+1,Hong Kong,1,Nizakat Khan,TJG Pringle,Aizaz Khan,,0,0,0,,,,32184232184
+1,Hong Kong,1,Nizakat Khan,TJG Pringle,Aizaz Khan,,0,0,0,,,,32184232184
+1,Hong Kong,1,Nizakat Khan,TJG Pringle,Aizaz Khan,,0,0,0,,,,32184232184
+1,Hong Kong,2,Aizaz Khan,LV van Beek,Nizakat Khan,,0,1,1,,,,32184232184
+1,Hong Kong,2,Nizakat Khan,LV van Beek,Aizaz Khan,,0,0,0,,,,32184232184
+1,Hong Kong,2,Nizakat Khan,LV van Beek,Aizaz Khan,,0,4,4,,,,32184232184
+1,Hong Kong,2,Nizakat Khan,LV van Beek,Aizaz Khan,legbyes,1,1,0,,,,32184232184
+1,Hong Kong,2,Aizaz Khan,LV van Beek,Nizakat Khan,,0,4,4,,,,32184232184
+1,Hong Kong,2,Aizaz Khan,LV van Beek,Nizakat Khan,,0,0,0,caught,Aizaz Khan,SA Edwards,32184232184
+1,Hong Kong,3,Babar Hayat,BFW de Leede,Nizakat Khan,,0,4,4,,,,32184232184
+1,Hong Kong,3,Babar Hayat,BFW de Leede,Nizakat Khan,,0,1,1,,,,32184232184
+1,Hong Kong,3,Nizakat Khan,BFW de Leede,Babar Hayat,wides,1,1,0,,,,32184232184
+1,Hong Kong,3,Nizakat Khan,BFW de Leede,Babar Hayat,,0,4,4,,,,32184232184
+1,Hong Kong,3,Nizakat Khan,BFW de Leede,Babar Hayat,,0,1,1,,,,32184232184
+1,Hong Kong,3,Babar Hayat,BFW de Leede,Nizakat Khan,legbyes,2,2,0,,,,32184232184
+1,Hong Kong,3,Babar Hayat,BFW de Leede,Nizakat Khan,,0,1,1,,,,32184232184
+1,Hong Kong,4,Babar Hayat,FJ Klaassen,Nizakat Khan,,0,0,0,,,,32184232184
+1,Hong Kong,4,Babar Hayat,FJ Klaassen,Nizakat Khan,,0,0,0,,,,32184232184
+1,Hong Kong,4,Babar Hayat,FJ Klaassen,Nizakat Khan,,0,6,6,,,,32184232184
+1,Hong Kong,4,Babar Hayat,FJ Klaassen,Nizakat Khan,,0,0,0,caught,Babar Hayat,TJG Pringle,32184232184
+1,Hong Kong,4,Nizakat Khan,FJ Klaassen,KD Shah,,0,0,0,,,,32184232184
+1,Hong Kong,4,Nizakat Khan,FJ Klaassen,KD Shah,,0,0,0,,,,32184232184
+1,Hong Kong,5,KD Shah,LV van Beek,Nizakat Khan,,0,1,1,,,,32184232184
+1,Hong Kong,5,Nizakat Khan,LV van Beek,KD Shah,,0,4,4,,,,32184232184
+1,Hong Kong,5,Nizakat Khan,LV van Beek,KD Shah,,0,0,0,,,,32184232184
+1,Hong Kong,5,Nizakat Khan,LV van Beek,KD Shah,,0,1,1,,,,32184232184
+1,Hong Kong,5,KD Shah,LV van Beek,Nizakat Khan,,0,0,0,,,,32184232184
+1,Hong Kong,5,KD Shah,LV van Beek,Nizakat Khan,,0,0,0,,,,32184232184
+1,Hong Kong,6,Nizakat Khan,Shariz Ahmad,KD Shah,,0,0,0,,,,32184232184
+1,Hong Kong,6,Nizakat Khan,Shariz Ahmad,KD Shah,,0,1,1,,,,32184232184
+1,Hong Kong,6,KD Shah,Shariz Ahmad,Nizakat Khan,,0,1,1,,,,32184232184
+1,Hong Kong,6,Nizakat Khan,Shariz Ahmad,KD Shah,,0,1,1,,,,32184232184
+1,Hong Kong,6,KD Shah,Shariz Ahmad,Nizakat Khan,,0,6,6,,,,32184232184
+1,Hong Kong,6,KD Shah,Shariz Ahmad,Nizakat Khan,,0,1,1,,,,32184232184
+1,Hong Kong,7,KD Shah,PA van Meekeren,Nizakat Khan,,0,1,1,,,,32184232184
+1,Hong Kong,7,Nizakat Khan,PA van Meekeren,KD Shah,,0,0,0,,,,32184232184
+1,Hong Kong,7,Nizakat Khan,PA van Meekeren,KD Shah,,0,1,1,,,,32184232184
+1,Hong Kong,7,KD Shah,PA van Meekeren,Nizakat Khan,,0,0,0,,,,32184232184
+1,Hong Kong,7,KD Shah,PA van Meekeren,Nizakat Khan,,0,1,1,,,,32184232184
+1,Hong Kong,7,Nizakat Khan,PA van Meekeren,KD Shah,,0,1,1,,,,32184232184
+1,Hong Kong,8,Nizakat Khan,TJG Pringle,KD Shah,,0,0,0,,,,32184232184
+1,Hong Kong,8,Nizakat Khan,TJG Pringle,KD Shah,,0,4,4,,,,32184232184
+1,Hong Kong,8,Nizakat Khan,TJG Pringle,KD Shah,,0,2,2,,,,32184232184
+1,Hong Kong,8,Nizakat Khan,TJG Pringle,KD Shah,,0,1,1,,,,32184232184
+1,Hong Kong,8,KD Shah,TJG Pringle,Nizakat Khan,,0,0,0,,,,32184232184
+1,Hong Kong,8,KD Shah,TJG Pringle,Nizakat Khan,,0,1,1,,,,32184232184
+1,Hong Kong,9,KD Shah,PA van Meekeren,Nizakat Khan,,0,1,1,,,,32184232184
+1,Hong Kong,9,Nizakat Khan,PA van Meekeren,KD Shah,,0,4,4,,,,32184232184
+1,Hong Kong,9,Nizakat Khan,PA van Meekeren,KD Shah,,0,0,0,,,,32184232184
+1,Hong Kong,9,Nizakat Khan,PA van Meekeren,KD Shah,,0,4,4,,,,32184232184
+1,Hong Kong,9,Nizakat Khan,PA van Meekeren,KD Shah,,0,1,1,,,,32184232184
+1,Hong Kong,9,KD Shah,PA van Meekeren,Nizakat Khan,,0,0,0,,,,32184232184
+1,Hong Kong,10,Nizakat Khan,Shariz Ahmad,KD Shah,,0,1,1,,,,32184232184
+1,Hong Kong,10,KD Shah,Shariz Ahmad,Nizakat Khan,,0,0,0,caught,KD Shah,FJ Klaassen,32184232184
+1,Hong Kong,10,Yasim Murtaza,Shariz Ahmad,Nizakat Khan,,0,4,4,,,,32184232184
+1,Hong Kong,10,Yasim Murtaza,Shariz Ahmad,Nizakat Khan,,0,0,0,,,,32184232184
+1,Hong Kong,10,Yasim Murtaza,Shariz Ahmad,Nizakat Khan,,0,1,1,,,,32184232184
+1,Hong Kong,10,Nizakat Khan,Shariz Ahmad,Yasim Murtaza,,0,1,1,,,,32184232184
+1,Hong Kong,11,Nizakat Khan,BFW de Leede,Yasim Murtaza,,0,1,1,,,,32184232184
+1,Hong Kong,11,Yasim Murtaza,BFW de Leede,Nizakat Khan,,0,0,0,,,,32184232184
+1,Hong Kong,11,Yasim Murtaza,BFW de Leede,Nizakat Khan,,0,0,0,,,,32184232184
+1,Hong Kong,11,Yasim Murtaza,BFW de Leede,Nizakat Khan,,0,1,1,,,,32184232184
+1,Hong Kong,11,Nizakat Khan,BFW de Leede,Yasim Murtaza,,0,1,1,,,,32184232184
+1,Hong Kong,11,Yasim Murtaza,BFW de Leede,Nizakat Khan,,0,0,0,caught,Yasim Murtaza,SA Edwards,32184232184
+1,Hong Kong,12,Nizakat Khan,TJG Pringle,Zeeshan Ali,,0,0,0,,,,32184232184
+1,Hong Kong,12,Nizakat Khan,TJG Pringle,Zeeshan Ali,,0,0,0,,,,32184232184
+1,Hong Kong,12,Nizakat Khan,TJG Pringle,Zeeshan Ali,,0,1,1,,,,32184232184
+1,Hong Kong,12,Zeeshan Ali,TJG Pringle,Nizakat Khan,,0,0,0,,,,32184232184
+1,Hong Kong,12,Zeeshan Ali,TJG Pringle,Nizakat Khan,,0,1,1,,,,32184232184
+1,Hong Kong,12,Nizakat Khan,TJG Pringle,Zeeshan Ali,,0,1,1,,,,32184232184
+1,Hong Kong,13,Nizakat Khan,LV van Beek,Zeeshan Ali,,0,0,0,,,,32184232184
+1,Hong Kong,13,Nizakat Khan,LV van Beek,Zeeshan Ali,,0,1,1,,,,32184232184
+1,Hong Kong,13,Zeeshan Ali,LV van Beek,Nizakat Khan,,0,1,1,,,,32184232184
+1,Hong Kong,13,Nizakat Khan,LV van Beek,Zeeshan Ali,,0,1,1,,,,32184232184
+1,Hong Kong,13,Zeeshan Ali,LV van Beek,Nizakat Khan,,0,1,1,,,,32184232184
+1,Hong Kong,13,Nizakat Khan,LV van Beek,Zeeshan Ali,,0,1,1,,,,32184232184
+1,Hong Kong,14,Nizakat Khan,TJG Pringle,Zeeshan Ali,,0,1,1,,,,32184232184
+1,Hong Kong,14,Zeeshan Ali,TJG Pringle,Nizakat Khan,,0,2,2,,,,32184232184
+1,Hong Kong,14,Zeeshan Ali,TJG Pringle,Nizakat Khan,,0,0,0,caught,Zeeshan Ali,SJ Myburgh,32184232184
+1,Hong Kong,14,Shahid Wasif,TJG Pringle,Nizakat Khan,,0,1,1,,,,32184232184
+1,Hong Kong,14,Nizakat Khan,TJG Pringle,Shahid Wasif,,0,0,0,,,,32184232184
+1,Hong Kong,14,Nizakat Khan,TJG Pringle,Shahid Wasif,,0,0,0,,,,32184232184
+1,Hong Kong,15,Shahid Wasif,PA van Meekeren,Nizakat Khan,,0,0,0,,,,32184232184
+1,Hong Kong,15,Shahid Wasif,PA van Meekeren,Nizakat Khan,,0,1,1,,,,32184232184
+1,Hong Kong,15,Nizakat Khan,PA van Meekeren,Shahid Wasif,,0,1,1,,,,32184232184
+1,Hong Kong,15,Shahid Wasif,PA van Meekeren,Nizakat Khan,,0,1,1,,,,32184232184
+1,Hong Kong,15,Nizakat Khan,PA van Meekeren,Shahid Wasif,,0,0,0,,,,32184232184
+1,Hong Kong,15,Nizakat Khan,PA van Meekeren,Shahid Wasif,,0,1,1,,,,32184232184
+1,Hong Kong,16,Nizakat Khan,FJ Klaassen,Shahid Wasif,,0,1,1,,,,32184232184
+1,Hong Kong,16,Shahid Wasif,FJ Klaassen,Nizakat Khan,,0,1,1,,,,32184232184
+1,Hong Kong,16,Nizakat Khan,FJ Klaassen,Shahid Wasif,,0,1,1,,,,32184232184
+1,Hong Kong,16,Shahid Wasif,FJ Klaassen,Nizakat Khan,,0,1,1,,,,32184232184
+1,Hong Kong,16,Nizakat Khan,FJ Klaassen,Shahid Wasif,,0,4,4,,,,32184232184
+1,Hong Kong,16,Nizakat Khan,FJ Klaassen,Shahid Wasif,,0,0,0,run out,Shahid Wasif,FJ Klaassen,32184232184
+1,Hong Kong,17,SS McKechnie,LV van Beek,Nizakat Khan,,0,1,1,,,,32184232184
+1,Hong Kong,17,Nizakat Khan,LV van Beek,SS McKechnie,,0,6,6,,,,32184232184
+1,Hong Kong,17,Nizakat Khan,LV van Beek,SS McKechnie,,0,0,0,caught,Nizakat Khan,SJ Myburgh,32184232184
+1,Hong Kong,17,SS McKechnie,LV van Beek,Haroon Arshad,,0,0,0,lbw,SS McKechnie,,32184232184
+1,Hong Kong,17,Ehsan Khan,LV van Beek,Haroon Arshad,,0,0,0,lbw,Ehsan Khan,,32184232184
+1,Hong Kong,17,Mohammad Ghazanfar,LV van Beek,Haroon Arshad,,0,0,0,,,,32184232184
+1,Hong Kong,18,Haroon Arshad,FJ Klaassen,Mohammad Ghazanfar,,0,0,0,bowled,Haroon Arshad,,32184232184

@@ -1,0 +1,132 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Malaysia,0,WA Duraisingam,GK Diviya,Wan Julia,,0,3,3,,,,32210232210
+1,Malaysia,0,Wan Julia,GK Diviya,WA Duraisingam,,0,3,3,,,,32210232210
+1,Malaysia,0,WA Duraisingam,GK Diviya,Wan Julia,,0,0,0,,,,32210232210
+1,Malaysia,0,WA Duraisingam,GK Diviya,Wan Julia,byes,1,1,0,,,,32210232210
+1,Malaysia,0,Wan Julia,GK Diviya,WA Duraisingam,,0,0,0,,,,32210232210
+1,Malaysia,0,Wan Julia,GK Diviya,WA Duraisingam,,0,1,1,,,,32210232210
+1,Malaysia,1,Wan Julia,Ada Bhasin,WA Duraisingam,,0,2,2,,,,32210232210
+1,Malaysia,1,Wan Julia,Ada Bhasin,WA Duraisingam,,0,4,4,,,,32210232210
+1,Malaysia,1,Wan Julia,Ada Bhasin,WA Duraisingam,,0,0,0,,,,32210232210
+1,Malaysia,1,Wan Julia,Ada Bhasin,WA Duraisingam,,0,0,0,,,,32210232210
+1,Malaysia,1,Wan Julia,Ada Bhasin,WA Duraisingam,,0,2,2,,,,32210232210
+1,Malaysia,1,Wan Julia,Ada Bhasin,WA Duraisingam,byes,1,1,0,,,,32210232210
+1,Malaysia,2,Wan Julia,GK Diviya,WA Duraisingam,,0,0,0,,,,32210232210
+1,Malaysia,2,Wan Julia,GK Diviya,WA Duraisingam,,0,0,0,,,,32210232210
+1,Malaysia,2,Wan Julia,GK Diviya,WA Duraisingam,,0,1,1,,,,32210232210
+1,Malaysia,2,WA Duraisingam,GK Diviya,Wan Julia,,0,0,0,,,,32210232210
+1,Malaysia,2,WA Duraisingam,GK Diviya,Wan Julia,,0,1,1,,,,32210232210
+1,Malaysia,2,Wan Julia,GK Diviya,WA Duraisingam,,0,0,0,,,,32210232210
+1,Malaysia,3,WA Duraisingam,Ada Bhasin,Wan Julia,legbyes,1,1,0,,,,32210232210
+1,Malaysia,3,Wan Julia,Ada Bhasin,WA Duraisingam,,0,0,0,,,,32210232210
+1,Malaysia,3,Wan Julia,Ada Bhasin,WA Duraisingam,,0,0,0,,,,32210232210
+1,Malaysia,3,Wan Julia,Ada Bhasin,WA Duraisingam,,0,0,0,caught,Wan Julia,CH Abeyratne,32210232210
+1,Malaysia,3,WA Duraisingam,Ada Bhasin,Mas Elysa,,0,0,0,,,,32210232210
+1,Malaysia,3,WA Duraisingam,Ada Bhasin,Mas Elysa,wides,1,1,0,,,,32210232210
+1,Malaysia,3,WA Duraisingam,Ada Bhasin,Mas Elysa,legbyes,1,1,0,,,,32210232210
+1,Malaysia,4,WA Duraisingam,Shafina Mahesh,Mas Elysa,noballs,1,3,2,,,,32210232210
+1,Malaysia,4,WA Duraisingam,Shafina Mahesh,Mas Elysa,,0,3,3,,,,32210232210
+1,Malaysia,4,Mas Elysa,Shafina Mahesh,WA Duraisingam,,0,1,1,,,,32210232210
+1,Malaysia,4,WA Duraisingam,Shafina Mahesh,Mas Elysa,,0,0,0,,,,32210232210
+1,Malaysia,4,WA Duraisingam,Shafina Mahesh,Mas Elysa,,0,2,2,,,,32210232210
+1,Malaysia,4,WA Duraisingam,Shafina Mahesh,Mas Elysa,,0,0,0,caught,WA Duraisingam,RR Seth,32210232210
+1,Malaysia,4,Siow Tzin Yee,Shafina Mahesh,Mas Elysa,wides,1,1,0,,,,32210232210
+1,Malaysia,4,Siow Tzin Yee,Shafina Mahesh,Mas Elysa,,0,0,0,,,,32210232210
+1,Malaysia,5,Mas Elysa,Vinu Kumar,Siow Tzin Yee,wides,1,1,0,,,,32210232210
+1,Malaysia,5,Mas Elysa,Vinu Kumar,Siow Tzin Yee,,0,2,2,,,,32210232210
+1,Malaysia,5,Mas Elysa,Vinu Kumar,Siow Tzin Yee,,0,1,1,,,,32210232210
+1,Malaysia,5,Siow Tzin Yee,Vinu Kumar,Mas Elysa,,0,0,0,,,,32210232210
+1,Malaysia,5,Siow Tzin Yee,Vinu Kumar,Mas Elysa,,0,0,0,,,,32210232210
+1,Malaysia,5,Siow Tzin Yee,Vinu Kumar,Mas Elysa,,0,2,2,,,,32210232210
+1,Malaysia,5,Siow Tzin Yee,Vinu Kumar,Mas Elysa,,0,4,4,,,,32210232210
+1,Malaysia,6,Mas Elysa,Shafina Mahesh,Siow Tzin Yee,,0,1,1,,,,32210232210
+1,Malaysia,6,Siow Tzin Yee,Shafina Mahesh,Mas Elysa,,0,2,2,,,,32210232210
+1,Malaysia,6,Siow Tzin Yee,Shafina Mahesh,Mas Elysa,,0,3,3,,,,32210232210
+1,Malaysia,6,Mas Elysa,Shafina Mahesh,Siow Tzin Yee,,0,2,2,,,,32210232210
+1,Malaysia,6,Mas Elysa,Shafina Mahesh,Siow Tzin Yee,,0,0,0,,,,32210232210
+1,Malaysia,6,Mas Elysa,Shafina Mahesh,Siow Tzin Yee,,0,1,1,,,,32210232210
+1,Malaysia,7,Mas Elysa,Vinu Kumar,Siow Tzin Yee,,0,0,0,,,,32210232210
+1,Malaysia,7,Mas Elysa,Vinu Kumar,Siow Tzin Yee,,0,3,3,,,,32210232210
+1,Malaysia,7,Siow Tzin Yee,Vinu Kumar,Mas Elysa,,0,2,2,,,,32210232210
+1,Malaysia,7,Siow Tzin Yee,Vinu Kumar,Mas Elysa,,0,2,2,,,,32210232210
+1,Malaysia,7,Siow Tzin Yee,Vinu Kumar,Mas Elysa,,0,0,0,,,,32210232210
+1,Malaysia,7,Siow Tzin Yee,Vinu Kumar,Mas Elysa,,0,0,0,,,,32210232210
+1,Malaysia,8,Mas Elysa,JS Pooranakaran,Siow Tzin Yee,,0,0,0,,,,32210232210
+1,Malaysia,8,Mas Elysa,JS Pooranakaran,Siow Tzin Yee,,0,3,3,,,,32210232210
+1,Malaysia,8,Siow Tzin Yee,JS Pooranakaran,Mas Elysa,wides,2,2,0,,,,32210232210
+1,Malaysia,8,Mas Elysa,JS Pooranakaran,Siow Tzin Yee,wides,1,1,0,,,,32210232210
+1,Malaysia,8,Mas Elysa,JS Pooranakaran,Siow Tzin Yee,,0,2,2,,,,32210232210
+1,Malaysia,8,Mas Elysa,JS Pooranakaran,Siow Tzin Yee,,0,0,0,,,,32210232210
+1,Malaysia,8,Mas Elysa,JS Pooranakaran,Siow Tzin Yee,noballs,1,2,1,,,,32210232210
+1,Malaysia,8,Siow Tzin Yee,JS Pooranakaran,Mas Elysa,,0,4,4,,,,32210232210
+1,Malaysia,8,Siow Tzin Yee,JS Pooranakaran,Mas Elysa,,0,1,1,,,,32210232210
+1,Malaysia,9,Siow Tzin Yee,H Dhavina,Mas Elysa,,0,0,0,,,,32210232210
+1,Malaysia,9,Siow Tzin Yee,H Dhavina,Mas Elysa,,0,1,1,,,,32210232210
+1,Malaysia,9,Mas Elysa,H Dhavina,Siow Tzin Yee,,0,4,4,,,,32210232210
+1,Malaysia,9,Mas Elysa,H Dhavina,Siow Tzin Yee,,0,0,0,,,,32210232210
+1,Malaysia,9,Mas Elysa,H Dhavina,Siow Tzin Yee,,0,1,1,,,,32210232210
+1,Malaysia,9,Siow Tzin Yee,H Dhavina,Mas Elysa,,0,1,1,,,,32210232210
+1,Malaysia,10,Siow Tzin Yee,CH Abeyratne,Mas Elysa,wides,2,2,0,,,,32210232210
+1,Malaysia,10,Mas Elysa,CH Abeyratne,Siow Tzin Yee,,0,2,2,,,,32210232210
+1,Malaysia,10,Mas Elysa,CH Abeyratne,Siow Tzin Yee,,0,1,1,,,,32210232210
+1,Malaysia,10,Siow Tzin Yee,CH Abeyratne,Mas Elysa,,0,4,4,,,,32210232210
+1,Malaysia,10,Siow Tzin Yee,CH Abeyratne,Mas Elysa,,0,2,2,,,,32210232210
+1,Malaysia,10,Siow Tzin Yee,CH Abeyratne,Mas Elysa,,0,0,0,,,,32210232210
+1,Malaysia,10,Siow Tzin Yee,CH Abeyratne,Mas Elysa,,0,2,2,,,,32210232210
+1,Malaysia,11,Mas Elysa,H Dhavina,Siow Tzin Yee,,0,0,0,,,,32210232210
+1,Malaysia,11,Mas Elysa,H Dhavina,Siow Tzin Yee,,0,0,0,,,,32210232210
+1,Malaysia,11,Mas Elysa,H Dhavina,Siow Tzin Yee,,0,0,0,,,,32210232210
+1,Malaysia,11,Mas Elysa,H Dhavina,Siow Tzin Yee,,0,0,0,,,,32210232210
+1,Malaysia,11,Mas Elysa,H Dhavina,Siow Tzin Yee,,0,0,0,,,,32210232210
+1,Malaysia,11,Mas Elysa,H Dhavina,Siow Tzin Yee,,0,2,2,,,,32210232210
+1,Malaysia,12,Siow Tzin Yee,Ada Bhasin,Mas Elysa,,0,0,0,,,,32210232210
+1,Malaysia,12,Siow Tzin Yee,Ada Bhasin,Mas Elysa,,0,1,1,,,,32210232210
+1,Malaysia,12,Mas Elysa,Ada Bhasin,Siow Tzin Yee,,0,1,1,,,,32210232210
+1,Malaysia,12,Siow Tzin Yee,Ada Bhasin,Mas Elysa,,0,0,0,,,,32210232210
+1,Malaysia,12,Siow Tzin Yee,Ada Bhasin,Mas Elysa,,0,0,0,,,,32210232210
+1,Malaysia,12,Siow Tzin Yee,Ada Bhasin,Mas Elysa,,0,2,2,,,,32210232210
+1,Malaysia,13,Mas Elysa,Vinu Kumar,Siow Tzin Yee,,0,1,1,,,,32210232210
+1,Malaysia,13,Siow Tzin Yee,Vinu Kumar,Mas Elysa,,0,1,1,,,,32210232210
+1,Malaysia,13,Mas Elysa,Vinu Kumar,Siow Tzin Yee,,0,0,0,,,,32210232210
+1,Malaysia,13,Mas Elysa,Vinu Kumar,Siow Tzin Yee,wides,1,1,0,,,,32210232210
+1,Malaysia,13,Mas Elysa,Vinu Kumar,Siow Tzin Yee,,0,2,2,,,,32210232210
+1,Malaysia,13,Mas Elysa,Vinu Kumar,Siow Tzin Yee,,0,4,4,,,,32210232210
+1,Malaysia,13,Mas Elysa,Vinu Kumar,Siow Tzin Yee,,0,1,1,,,,32210232210
+1,Malaysia,14,Mas Elysa,GK Diviya,Siow Tzin Yee,,0,1,1,,,,32210232210
+1,Malaysia,14,Siow Tzin Yee,GK Diviya,Mas Elysa,,0,0,0,,,,32210232210
+1,Malaysia,14,Siow Tzin Yee,GK Diviya,Mas Elysa,,0,1,1,,,,32210232210
+1,Malaysia,14,Mas Elysa,GK Diviya,Siow Tzin Yee,,0,0,0,,,,32210232210
+1,Malaysia,14,Mas Elysa,GK Diviya,Siow Tzin Yee,,0,0,0,,,,32210232210
+1,Malaysia,14,Mas Elysa,GK Diviya,Siow Tzin Yee,,0,0,0,,,,32210232210
+1,Malaysia,15,Siow Tzin Yee,H Dhavina,Mas Elysa,,0,2,2,,,,32210232210
+1,Malaysia,15,Siow Tzin Yee,H Dhavina,Mas Elysa,,0,1,1,,,,32210232210
+1,Malaysia,15,Mas Elysa,H Dhavina,Siow Tzin Yee,,0,0,0,,,,32210232210
+1,Malaysia,15,Mas Elysa,H Dhavina,Siow Tzin Yee,,0,4,4,,,,32210232210
+1,Malaysia,15,Mas Elysa,H Dhavina,Siow Tzin Yee,,0,0,0,,,,32210232210
+1,Malaysia,15,Mas Elysa,H Dhavina,Siow Tzin Yee,,0,2,2,,,,32210232210
+1,Malaysia,16,Siow Tzin Yee,Shafina Mahesh,Mas Elysa,,0,0,0,,,,32210232210
+1,Malaysia,16,Siow Tzin Yee,Shafina Mahesh,Mas Elysa,wides,1,1,0,,,,32210232210
+1,Malaysia,16,Siow Tzin Yee,Shafina Mahesh,Mas Elysa,,0,2,2,,,,32210232210
+1,Malaysia,16,Siow Tzin Yee,Shafina Mahesh,Mas Elysa,,0,0,0,,,,32210232210
+1,Malaysia,16,Siow Tzin Yee,Shafina Mahesh,Mas Elysa,,0,0,0,,,,32210232210
+1,Malaysia,16,Siow Tzin Yee,Shafina Mahesh,Mas Elysa,,0,0,0,,,,32210232210
+1,Malaysia,16,Siow Tzin Yee,Shafina Mahesh,Mas Elysa,,0,1,1,,,,32210232210
+1,Malaysia,17,Siow Tzin Yee,H Dhavina,Mas Elysa,,0,2,2,,,,32210232210
+1,Malaysia,17,Siow Tzin Yee,H Dhavina,Mas Elysa,,0,1,1,,,,32210232210
+1,Malaysia,17,Mas Elysa,H Dhavina,Siow Tzin Yee,,0,1,1,,,,32210232210
+1,Malaysia,17,Siow Tzin Yee,H Dhavina,Mas Elysa,,0,1,1,,,,32210232210
+1,Malaysia,17,Mas Elysa,H Dhavina,Siow Tzin Yee,,0,0,0,,,,32210232210
+1,Malaysia,17,Mas Elysa,H Dhavina,Siow Tzin Yee,,0,1,1,,,,32210232210
+1,Malaysia,18,Mas Elysa,GK Diviya,Siow Tzin Yee,,0,1,1,,,,32210232210
+1,Malaysia,18,Siow Tzin Yee,GK Diviya,Mas Elysa,,0,3,3,,,,32210232210
+1,Malaysia,18,Mas Elysa,GK Diviya,Siow Tzin Yee,,0,0,0,,,,32210232210
+1,Malaysia,18,Mas Elysa,GK Diviya,Siow Tzin Yee,,0,3,3,,,,32210232210
+1,Malaysia,18,Siow Tzin Yee,GK Diviya,Mas Elysa,,0,2,2,,,,32210232210
+1,Malaysia,18,Siow Tzin Yee,GK Diviya,Mas Elysa,,0,0,0,,,,32210232210
+1,Malaysia,19,Mas Elysa,Ada Bhasin,Siow Tzin Yee,wides,1,1,0,,,,32210232210
+1,Malaysia,19,Mas Elysa,Ada Bhasin,Siow Tzin Yee,,0,1,1,,,,32210232210
+1,Malaysia,19,Siow Tzin Yee,Ada Bhasin,Mas Elysa,,0,1,1,,,,32210232210
+1,Malaysia,19,Mas Elysa,Ada Bhasin,Siow Tzin Yee,,0,1,1,,,,32210232210
+1,Malaysia,19,Siow Tzin Yee,Ada Bhasin,Mas Elysa,,0,1,1,,,,32210232210
+1,Malaysia,19,Mas Elysa,Ada Bhasin,Siow Tzin Yee,,0,0,0,caught,Mas Elysa,Shafina Mahesh,32210232210
+1,Malaysia,19,Siow Tzin Yee,Ada Bhasin,Ainna Hamizah Hashim,,0,1,1,,,,32210232210

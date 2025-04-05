@@ -1,0 +1,126 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,GC Smith,Z Khan,LE Bosman,,0,0,0,,,,3122312
+1,South Africa,0,GC Smith,Z Khan,LE Bosman,,0,1,1,,,,3122312
+1,South Africa,0,LE Bosman,Z Khan,GC Smith,wides,1,1,0,,,,3122312
+1,South Africa,0,LE Bosman,Z Khan,GC Smith,,0,0,0,,,,3122312
+1,South Africa,0,LE Bosman,Z Khan,GC Smith,,0,0,0,,,,3122312
+1,South Africa,0,LE Bosman,Z Khan,GC Smith,,0,0,0,,,,3122312
+1,South Africa,0,LE Bosman,Z Khan,GC Smith,,0,0,0,,,,3122312
+1,South Africa,1,GC Smith,S Sreesanth,LE Bosman,,0,0,0,,,,3122312
+1,South Africa,1,GC Smith,S Sreesanth,LE Bosman,,0,0,0,,,,3122312
+1,South Africa,1,GC Smith,S Sreesanth,LE Bosman,wides,5,5,0,,,,3122312
+1,South Africa,1,GC Smith,S Sreesanth,LE Bosman,,0,4,4,,,,3122312
+1,South Africa,1,GC Smith,S Sreesanth,LE Bosman,,0,0,0,,,,3122312
+1,South Africa,1,GC Smith,S Sreesanth,LE Bosman,,0,4,4,,,,3122312
+1,South Africa,1,GC Smith,S Sreesanth,LE Bosman,,0,0,0,,,,3122312
+1,South Africa,2,LE Bosman,Z Khan,GC Smith,legbyes,1,1,0,,,,3122312
+1,South Africa,2,GC Smith,Z Khan,LE Bosman,,0,1,1,,,,3122312
+1,South Africa,2,LE Bosman,Z Khan,GC Smith,,0,1,1,,,,3122312
+1,South Africa,2,GC Smith,Z Khan,LE Bosman,,0,0,0,,,,3122312
+1,South Africa,2,GC Smith,Z Khan,LE Bosman,,0,1,1,,,,3122312
+1,South Africa,2,LE Bosman,Z Khan,GC Smith,,0,0,0,caught,LE Bosman,SR Tendulkar,3122312
+1,South Africa,3,GC Smith,S Sreesanth,HH Gibbs,,0,0,0,,,,3122312
+1,South Africa,3,GC Smith,S Sreesanth,HH Gibbs,,0,0,0,,,,3122312
+1,South Africa,3,GC Smith,S Sreesanth,HH Gibbs,,0,0,0,,,,3122312
+1,South Africa,3,GC Smith,S Sreesanth,HH Gibbs,wides,1,1,0,,,,3122312
+1,South Africa,3,GC Smith,S Sreesanth,HH Gibbs,,0,0,0,,,,3122312
+1,South Africa,3,GC Smith,S Sreesanth,HH Gibbs,,0,4,4,,,,3122312
+1,South Africa,3,GC Smith,S Sreesanth,HH Gibbs,,0,0,0,,,,3122312
+1,South Africa,4,HH Gibbs,Z Khan,GC Smith,,0,0,0,,,,3122312
+1,South Africa,4,HH Gibbs,Z Khan,GC Smith,,0,0,0,,,,3122312
+1,South Africa,4,HH Gibbs,Z Khan,GC Smith,,0,0,0,,,,3122312
+1,South Africa,4,HH Gibbs,Z Khan,GC Smith,,0,2,2,,,,3122312
+1,South Africa,4,HH Gibbs,Z Khan,GC Smith,,0,4,4,,,,3122312
+1,South Africa,4,HH Gibbs,Z Khan,GC Smith,,0,1,1,,,,3122312
+1,South Africa,5,HH Gibbs,AB Agarkar,GC Smith,,0,0,0,caught,HH Gibbs,SK Raina,3122312
+1,South Africa,5,JM Kemp,AB Agarkar,GC Smith,,0,0,0,,,,3122312
+1,South Africa,5,JM Kemp,AB Agarkar,GC Smith,,0,0,0,,,,3122312
+1,South Africa,5,JM Kemp,AB Agarkar,GC Smith,,0,0,0,,,,3122312
+1,South Africa,5,JM Kemp,AB Agarkar,GC Smith,,0,0,0,,,,3122312
+1,South Africa,5,JM Kemp,AB Agarkar,GC Smith,,0,0,0,,,,3122312
+1,South Africa,6,GC Smith,Z Khan,JM Kemp,,0,0,0,,,,3122312
+1,South Africa,6,GC Smith,Z Khan,JM Kemp,wides,1,1,0,,,,3122312
+1,South Africa,6,GC Smith,Z Khan,JM Kemp,,0,1,1,,,,3122312
+1,South Africa,6,JM Kemp,Z Khan,GC Smith,,0,0,0,,,,3122312
+1,South Africa,6,JM Kemp,Z Khan,GC Smith,,0,1,1,,,,3122312
+1,South Africa,6,GC Smith,Z Khan,JM Kemp,,0,0,0,,,,3122312
+1,South Africa,6,GC Smith,Z Khan,JM Kemp,,0,0,0,lbw,GC Smith,,3122312
+1,South Africa,7,JM Kemp,AB Agarkar,AB de Villiers,,0,0,0,,,,3122312
+1,South Africa,7,JM Kemp,AB Agarkar,AB de Villiers,,0,1,1,,,,3122312
+1,South Africa,7,AB de Villiers,AB Agarkar,JM Kemp,,0,0,0,,,,3122312
+1,South Africa,7,AB de Villiers,AB Agarkar,JM Kemp,,0,6,6,,,,3122312
+1,South Africa,7,AB de Villiers,AB Agarkar,JM Kemp,,0,0,0,,,,3122312
+1,South Africa,7,AB de Villiers,AB Agarkar,JM Kemp,,0,0,0,caught,AB de Villiers,MS Dhoni,3122312
+1,South Africa,8,JM Kemp,IK Pathan,JA Morkel,,0,4,4,,,,3122312
+1,South Africa,8,JM Kemp,IK Pathan,JA Morkel,,0,0,0,,,,3122312
+1,South Africa,8,JM Kemp,IK Pathan,JA Morkel,,0,4,4,,,,3122312
+1,South Africa,8,JM Kemp,IK Pathan,JA Morkel,,0,0,0,,,,3122312
+1,South Africa,8,JM Kemp,IK Pathan,JA Morkel,,0,0,0,,,,3122312
+1,South Africa,8,JM Kemp,IK Pathan,JA Morkel,,0,0,0,,,,3122312
+1,South Africa,9,JA Morkel,AB Agarkar,JM Kemp,,0,0,0,,,,3122312
+1,South Africa,9,JA Morkel,AB Agarkar,JM Kemp,,0,1,1,,,,3122312
+1,South Africa,9,JM Kemp,AB Agarkar,JA Morkel,,0,2,2,,,,3122312
+1,South Africa,9,JM Kemp,SR Tendulkar,JA Morkel,,0,4,4,,,,3122312
+1,South Africa,9,JM Kemp,SR Tendulkar,JA Morkel,,0,1,1,,,,3122312
+1,South Africa,9,JA Morkel,SR Tendulkar,JM Kemp,,0,0,0,,,,3122312
+1,South Africa,10,JM Kemp,IK Pathan,JA Morkel,,0,0,0,,,,3122312
+1,South Africa,10,JM Kemp,IK Pathan,JA Morkel,,0,2,2,,,,3122312
+1,South Africa,10,JM Kemp,IK Pathan,JA Morkel,,0,0,0,,,,3122312
+1,South Africa,10,JM Kemp,IK Pathan,JA Morkel,,0,1,1,,,,3122312
+1,South Africa,10,JA Morkel,IK Pathan,JM Kemp,,0,1,1,,,,3122312
+1,South Africa,10,JM Kemp,IK Pathan,JA Morkel,,0,1,1,,,,3122312
+1,South Africa,11,JM Kemp,SR Tendulkar,JA Morkel,,0,1,1,,,,3122312
+1,South Africa,11,JA Morkel,SR Tendulkar,JM Kemp,,0,0,0,,,,3122312
+1,South Africa,11,JA Morkel,SR Tendulkar,JM Kemp,,0,0,0,,,,3122312
+1,South Africa,11,JA Morkel,SR Tendulkar,JM Kemp,,0,1,1,,,,3122312
+1,South Africa,11,JM Kemp,SR Tendulkar,JA Morkel,,0,0,0,lbw,JM Kemp,,3122312
+1,South Africa,11,JJ van der Wath,SR Tendulkar,JA Morkel,,0,0,0,,,,3122312
+1,South Africa,12,JA Morkel,IK Pathan,JJ van der Wath,,0,0,0,,,,3122312
+1,South Africa,12,JA Morkel,IK Pathan,JJ van der Wath,,0,0,0,,,,3122312
+1,South Africa,12,JA Morkel,IK Pathan,JJ van der Wath,,0,4,4,,,,3122312
+1,South Africa,12,JA Morkel,IK Pathan,JJ van der Wath,,0,6,6,,,,3122312
+1,South Africa,12,JA Morkel,IK Pathan,JJ van der Wath,,0,1,1,,,,3122312
+1,South Africa,12,JJ van der Wath,IK Pathan,JA Morkel,,0,1,1,,,,3122312
+1,South Africa,13,JJ van der Wath,S Sreesanth,JA Morkel,,0,0,0,,,,3122312
+1,South Africa,13,JJ van der Wath,S Sreesanth,JA Morkel,,0,0,0,,,,3122312
+1,South Africa,13,JJ van der Wath,S Sreesanth,JA Morkel,,0,0,0,,,,3122312
+1,South Africa,13,JJ van der Wath,S Sreesanth,JA Morkel,legbyes,1,1,0,,,,3122312
+1,South Africa,13,JA Morkel,S Sreesanth,JJ van der Wath,,0,0,0,,,,3122312
+1,South Africa,13,JA Morkel,S Sreesanth,JJ van der Wath,,0,6,6,,,,3122312
+1,South Africa,14,JJ van der Wath,Harbhajan Singh,JA Morkel,,0,1,1,,,,3122312
+1,South Africa,14,JA Morkel,Harbhajan Singh,JJ van der Wath,legbyes,1,1,0,,,,3122312
+1,South Africa,14,JJ van der Wath,Harbhajan Singh,JA Morkel,,0,1,1,,,,3122312
+1,South Africa,14,JA Morkel,Harbhajan Singh,JJ van der Wath,,0,6,6,,,,3122312
+1,South Africa,14,JA Morkel,Harbhajan Singh,JJ van der Wath,,0,1,1,,,,3122312
+1,South Africa,14,JJ van der Wath,Harbhajan Singh,JA Morkel,,0,1,1,,,,3122312
+1,South Africa,15,JJ van der Wath,S Sreesanth,JA Morkel,,0,4,4,,,,3122312
+1,South Africa,15,JJ van der Wath,S Sreesanth,JA Morkel,,0,2,2,,,,3122312
+1,South Africa,15,JJ van der Wath,S Sreesanth,JA Morkel,,0,1,1,,,,3122312
+1,South Africa,15,JA Morkel,S Sreesanth,JJ van der Wath,,0,0,0,caught,JA Morkel,D Mongia,3122312
+1,South Africa,15,JJ van der Wath,S Sreesanth,RJ Peterson,,0,0,0,,,,3122312
+1,South Africa,15,JJ van der Wath,S Sreesanth,RJ Peterson,,0,2,2,,,,3122312
+1,South Africa,16,RJ Peterson,Harbhajan Singh,JJ van der Wath,,0,0,0,,,,3122312
+1,South Africa,16,RJ Peterson,Harbhajan Singh,JJ van der Wath,,0,1,1,,,,3122312
+1,South Africa,16,JJ van der Wath,Harbhajan Singh,RJ Peterson,,0,1,1,,,,3122312
+1,South Africa,16,RJ Peterson,Harbhajan Singh,JJ van der Wath,,0,0,0,,,,3122312
+1,South Africa,16,RJ Peterson,Harbhajan Singh,JJ van der Wath,,0,2,2,,,,3122312
+1,South Africa,16,RJ Peterson,Harbhajan Singh,JJ van der Wath,,0,1,1,,,,3122312
+1,South Africa,17,RJ Peterson,IK Pathan,JJ van der Wath,,0,0,0,,,,3122312
+1,South Africa,17,RJ Peterson,IK Pathan,JJ van der Wath,,0,0,0,,,,3122312
+1,South Africa,17,RJ Peterson,IK Pathan,JJ van der Wath,,0,1,1,,,,3122312
+1,South Africa,17,JJ van der Wath,IK Pathan,RJ Peterson,,0,1,1,,,,3122312
+1,South Africa,17,RJ Peterson,IK Pathan,JJ van der Wath,,0,1,1,,,,3122312
+1,South Africa,17,JJ van der Wath,IK Pathan,RJ Peterson,,0,2,2,,,,3122312
+1,South Africa,18,RJ Peterson,Harbhajan Singh,JJ van der Wath,,0,1,1,,,,3122312
+1,South Africa,18,JJ van der Wath,Harbhajan Singh,RJ Peterson,,0,1,1,,,,3122312
+1,South Africa,18,RJ Peterson,Harbhajan Singh,JJ van der Wath,,0,1,1,,,,3122312
+1,South Africa,18,JJ van der Wath,Harbhajan Singh,RJ Peterson,,0,2,2,,,,3122312
+1,South Africa,18,JJ van der Wath,Harbhajan Singh,RJ Peterson,noballs,1,2,1,,,,3122312
+1,South Africa,18,RJ Peterson,Harbhajan Singh,JJ van der Wath,,0,0,0,run out,RJ Peterson,Harbhajan Singh,3122312
+1,South Africa,18,JJ van der Wath,Harbhajan Singh,T Henderson,,0,0,0,caught,JJ van der Wath,SK Raina,3122312
+1,South Africa,19,R Telemachus,SR Tendulkar,T Henderson,,0,2,2,,,,3122312
+1,South Africa,19,R Telemachus,SR Tendulkar,T Henderson,,0,1,1,,,,3122312
+1,South Africa,19,T Henderson,SR Tendulkar,R Telemachus,,0,0,0,,,,3122312
+1,South Africa,19,T Henderson,SR Tendulkar,R Telemachus,,0,0,0,run out,T Henderson,SK Raina,3122312
+1,South Africa,19,CK Langeveldt,SR Tendulkar,R Telemachus,legbyes,1,1,0,,,,3122312
+1,South Africa,19,R Telemachus,SR Tendulkar,CK Langeveldt,,0,2,2,,,,3122312

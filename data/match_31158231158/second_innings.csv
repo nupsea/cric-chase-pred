@@ -1,0 +1,104 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,South Africa,0,L Lee,JM Kerr,L Wolvaardt,,0,1,1,,,,31158231158
+2,South Africa,0,L Wolvaardt,JM Kerr,L Lee,,0,0,0,,,,31158231158
+2,South Africa,0,L Wolvaardt,JM Kerr,L Lee,,0,1,1,,,,31158231158
+2,South Africa,0,L Lee,JM Kerr,L Wolvaardt,,0,0,0,,,,31158231158
+2,South Africa,0,L Lee,JM Kerr,L Wolvaardt,,0,1,1,,,,31158231158
+2,South Africa,0,L Wolvaardt,JM Kerr,L Lee,,0,1,1,,,,31158231158
+2,South Africa,1,L Wolvaardt,AM Peterson,L Lee,,0,1,1,,,,31158231158
+2,South Africa,1,L Lee,AM Peterson,L Wolvaardt,,0,0,0,,,,31158231158
+2,South Africa,1,L Lee,AM Peterson,L Wolvaardt,,0,0,0,,,,31158231158
+2,South Africa,1,L Lee,AM Peterson,L Wolvaardt,,0,1,1,,,,31158231158
+2,South Africa,1,L Wolvaardt,AM Peterson,L Lee,,0,0,0,,,,31158231158
+2,South Africa,1,L Wolvaardt,AM Peterson,L Lee,,0,0,0,,,,31158231158
+2,South Africa,2,L Lee,RA Mair,L Wolvaardt,,0,2,2,,,,31158231158
+2,South Africa,2,L Lee,RA Mair,L Wolvaardt,,0,4,4,,,,31158231158
+2,South Africa,2,L Lee,RA Mair,L Wolvaardt,,0,1,1,,,,31158231158
+2,South Africa,2,L Wolvaardt,RA Mair,L Lee,,0,4,4,,,,31158231158
+2,South Africa,2,L Wolvaardt,RA Mair,L Lee,,0,1,1,,,,31158231158
+2,South Africa,2,L Lee,RA Mair,L Wolvaardt,,0,0,0,,,,31158231158
+2,South Africa,3,L Wolvaardt,AM Peterson,L Lee,,0,0,0,,,,31158231158
+2,South Africa,3,L Wolvaardt,AM Peterson,L Lee,,0,0,0,bowled,L Wolvaardt,,31158231158
+2,South Africa,3,S Luus,AM Peterson,L Lee,,0,1,1,,,,31158231158
+2,South Africa,3,L Lee,AM Peterson,S Luus,,0,1,1,,,,31158231158
+2,South Africa,3,S Luus,AM Peterson,L Lee,,0,0,0,,,,31158231158
+2,South Africa,3,S Luus,AM Peterson,L Lee,,0,0,0,,,,31158231158
+2,South Africa,4,L Lee,HR Huddleston,S Luus,,0,4,4,,,,31158231158
+2,South Africa,4,L Lee,HR Huddleston,S Luus,,0,0,0,,,,31158231158
+2,South Africa,4,L Lee,HR Huddleston,S Luus,,0,4,4,,,,31158231158
+2,South Africa,4,L Lee,HR Huddleston,S Luus,,0,0,0,,,,31158231158
+2,South Africa,4,L Lee,HR Huddleston,S Luus,,0,0,0,,,,31158231158
+2,South Africa,4,L Lee,HR Huddleston,S Luus,,0,1,1,,,,31158231158
+2,South Africa,5,L Lee,SFM Devine,S Luus,,0,0,0,,,,31158231158
+2,South Africa,5,L Lee,SFM Devine,S Luus,,0,1,1,,,,31158231158
+2,South Africa,5,S Luus,SFM Devine,L Lee,,0,1,1,,,,31158231158
+2,South Africa,5,L Lee,SFM Devine,S Luus,,0,0,0,,,,31158231158
+2,South Africa,5,L Lee,SFM Devine,S Luus,,0,4,4,,,,31158231158
+2,South Africa,5,L Lee,SFM Devine,S Luus,,0,0,0,caught,L Lee,HNK Jensen,31158231158
+2,South Africa,6,S Luus,AC Kerr,D van Niekerk,,0,1,1,,,,31158231158
+2,South Africa,6,D van Niekerk,AC Kerr,S Luus,,0,1,1,,,,31158231158
+2,South Africa,6,S Luus,AC Kerr,D van Niekerk,,0,4,4,,,,31158231158
+2,South Africa,6,S Luus,AC Kerr,D van Niekerk,,0,4,4,,,,31158231158
+2,South Africa,6,S Luus,AC Kerr,D van Niekerk,,0,0,0,,,,31158231158
+2,South Africa,6,S Luus,AC Kerr,D van Niekerk,,0,1,1,,,,31158231158
+2,South Africa,7,S Luus,JM Kerr,D van Niekerk,wides,2,2,0,,,,31158231158
+2,South Africa,7,D van Niekerk,JM Kerr,S Luus,,0,1,1,,,,31158231158
+2,South Africa,7,S Luus,JM Kerr,D van Niekerk,,0,2,2,,,,31158231158
+2,South Africa,7,S Luus,JM Kerr,D van Niekerk,,0,1,1,,,,31158231158
+2,South Africa,7,D van Niekerk,JM Kerr,S Luus,,0,0,0,,,,31158231158
+2,South Africa,7,D van Niekerk,JM Kerr,S Luus,,0,0,0,,,,31158231158
+2,South Africa,7,D van Niekerk,JM Kerr,S Luus,,0,4,4,,,,31158231158
+2,South Africa,8,S Luus,AM Peterson,D van Niekerk,,0,0,0,,,,31158231158
+2,South Africa,8,S Luus,AM Peterson,D van Niekerk,,0,1,1,,,,31158231158
+2,South Africa,8,D van Niekerk,AM Peterson,S Luus,,0,1,1,,,,31158231158
+2,South Africa,8,S Luus,AM Peterson,D van Niekerk,,0,0,0,caught,S Luus,SFM Devine,31158231158
+2,South Africa,8,D van Niekerk,AM Peterson,M du Preez,,0,1,1,,,,31158231158
+2,South Africa,8,M du Preez,AM Peterson,D van Niekerk,,0,0,0,,,,31158231158
+2,South Africa,9,D van Niekerk,AC Kerr,M du Preez,,0,0,0,,,,31158231158
+2,South Africa,9,D van Niekerk,AC Kerr,M du Preez,,0,1,1,,,,31158231158
+2,South Africa,9,M du Preez,AC Kerr,D van Niekerk,,0,1,1,,,,31158231158
+2,South Africa,9,D van Niekerk,AC Kerr,M du Preez,,0,0,0,,,,31158231158
+2,South Africa,9,D van Niekerk,AC Kerr,M du Preez,,0,1,1,,,,31158231158
+2,South Africa,9,M du Preez,AC Kerr,D van Niekerk,,0,1,1,,,,31158231158
+2,South Africa,10,M du Preez,HNK Jensen,D van Niekerk,,0,4,4,,,,31158231158
+2,South Africa,10,M du Preez,HNK Jensen,D van Niekerk,,0,2,2,,,,31158231158
+2,South Africa,10,M du Preez,HNK Jensen,D van Niekerk,,0,1,1,,,,31158231158
+2,South Africa,10,D van Niekerk,HNK Jensen,M du Preez,,0,0,0,caught,D van Niekerk,SW Bates,31158231158
+2,South Africa,10,CL Tryon,HNK Jensen,M du Preez,,0,0,0,,,,31158231158
+2,South Africa,10,CL Tryon,HNK Jensen,M du Preez,,0,2,2,,,,31158231158
+2,South Africa,11,M du Preez,AC Kerr,CL Tryon,,0,1,1,,,,31158231158
+2,South Africa,11,CL Tryon,AC Kerr,M du Preez,,0,2,2,,,,31158231158
+2,South Africa,11,CL Tryon,AC Kerr,M du Preez,,0,0,0,,,,31158231158
+2,South Africa,11,CL Tryon,AC Kerr,M du Preez,,0,0,0,stumped,CL Tryon,KJ Martin,31158231158
+2,South Africa,11,N de Klerk,AC Kerr,M du Preez,,0,1,1,,,,31158231158
+2,South Africa,11,M du Preez,AC Kerr,N de Klerk,,0,1,1,,,,31158231158
+2,South Africa,12,M du Preez,HNK Jensen,N de Klerk,,0,1,1,,,,31158231158
+2,South Africa,12,N de Klerk,HNK Jensen,M du Preez,,0,0,0,,,,31158231158
+2,South Africa,12,N de Klerk,HNK Jensen,M du Preez,,0,1,1,,,,31158231158
+2,South Africa,12,M du Preez,HNK Jensen,N de Klerk,,0,1,1,,,,31158231158
+2,South Africa,12,N de Klerk,HNK Jensen,M du Preez,,0,2,2,,,,31158231158
+2,South Africa,12,N de Klerk,HNK Jensen,M du Preez,,0,0,0,,,,31158231158
+2,South Africa,13,M du Preez,RA Mair,N de Klerk,,0,1,1,,,,31158231158
+2,South Africa,13,N de Klerk,RA Mair,M du Preez,,0,1,1,,,,31158231158
+2,South Africa,13,M du Preez,RA Mair,N de Klerk,,0,0,0,caught,M du Preez,LR Down,31158231158
+2,South Africa,13,T Chetty,RA Mair,N de Klerk,,0,0,0,,,,31158231158
+2,South Africa,13,T Chetty,RA Mair,N de Klerk,,0,1,1,,,,31158231158
+2,South Africa,13,N de Klerk,RA Mair,T Chetty,,0,0,0,,,,31158231158
+2,South Africa,14,T Chetty,AM Peterson,N de Klerk,,0,1,1,,,,31158231158
+2,South Africa,14,N de Klerk,AM Peterson,T Chetty,,0,0,0,bowled,N de Klerk,,31158231158
+2,South Africa,14,A Khaka,AM Peterson,T Chetty,,0,0,0,,,,31158231158
+2,South Africa,14,A Khaka,AM Peterson,T Chetty,,0,1,1,,,,31158231158
+2,South Africa,14,T Chetty,AM Peterson,A Khaka,,0,4,4,,,,31158231158
+2,South Africa,14,T Chetty,AM Peterson,A Khaka,,0,1,1,,,,31158231158
+2,South Africa,15,T Chetty,RA Mair,A Khaka,,0,0,0,,,,31158231158
+2,South Africa,15,T Chetty,RA Mair,A Khaka,,0,1,1,,,,31158231158
+2,South Africa,15,A Khaka,RA Mair,T Chetty,,0,0,0,,,,31158231158
+2,South Africa,15,A Khaka,RA Mair,T Chetty,,0,4,4,,,,31158231158
+2,South Africa,15,A Khaka,RA Mair,T Chetty,,0,1,1,,,,31158231158
+2,South Africa,15,T Chetty,RA Mair,A Khaka,,0,1,1,,,,31158231158
+2,South Africa,16,T Chetty,JM Kerr,A Khaka,,0,0,0,caught,T Chetty,AC Kerr,31158231158
+2,South Africa,16,A Khaka,JM Kerr,N Mlaba,,0,0,0,,,,31158231158
+2,South Africa,16,A Khaka,JM Kerr,N Mlaba,,0,1,1,,,,31158231158
+2,South Africa,16,N Mlaba,JM Kerr,A Khaka,,0,1,1,,,,31158231158
+2,South Africa,16,A Khaka,JM Kerr,N Mlaba,,0,1,1,,,,31158231158
+2,South Africa,16,N Mlaba,JM Kerr,A Khaka,,0,0,0,bowled,N Mlaba,,31158231158

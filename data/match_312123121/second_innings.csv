@@ -1,0 +1,42 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,West Indies,0,CH Gayle,RJ Sidebottom,S Chanderpaul,,0,0,0,,,,312123121
+2,West Indies,0,CH Gayle,RJ Sidebottom,S Chanderpaul,,0,0,0,,,,312123121
+2,West Indies,0,CH Gayle,RJ Sidebottom,S Chanderpaul,,0,4,4,,,,312123121
+2,West Indies,0,CH Gayle,RJ Sidebottom,S Chanderpaul,,0,4,4,,,,312123121
+2,West Indies,0,CH Gayle,RJ Sidebottom,S Chanderpaul,wides,1,1,0,,,,312123121
+2,West Indies,0,CH Gayle,RJ Sidebottom,S Chanderpaul,,0,0,0,,,,312123121
+2,West Indies,0,CH Gayle,RJ Sidebottom,S Chanderpaul,,0,6,6,,,,312123121
+2,West Indies,1,S Chanderpaul,GP Swann,CH Gayle,,0,1,1,,,,312123121
+2,West Indies,1,CH Gayle,GP Swann,S Chanderpaul,,0,1,1,,,,312123121
+2,West Indies,1,S Chanderpaul,GP Swann,CH Gayle,,0,1,1,,,,312123121
+2,West Indies,1,CH Gayle,GP Swann,S Chanderpaul,wides,2,2,0,,,,312123121
+2,West Indies,1,S Chanderpaul,GP Swann,CH Gayle,,0,0,0,,,,312123121
+2,West Indies,1,S Chanderpaul,GP Swann,CH Gayle,,0,0,0,,,,312123121
+2,West Indies,1,S Chanderpaul,GP Swann,CH Gayle,,0,6,6,,,,312123121
+2,West Indies,2,CH Gayle,TT Bresnan,S Chanderpaul,wides,1,1,0,,,,312123121
+2,West Indies,2,CH Gayle,TT Bresnan,S Chanderpaul,,0,1,1,,,,312123121
+2,West Indies,2,S Chanderpaul,TT Bresnan,CH Gayle,,0,2,2,,,,312123121
+2,West Indies,2,S Chanderpaul,TT Bresnan,CH Gayle,,0,0,0,,,,312123121
+2,West Indies,2,S Chanderpaul,TT Bresnan,CH Gayle,,0,0,0,,,,312123121
+2,West Indies,2,S Chanderpaul,TT Bresnan,CH Gayle,wides,1,1,0,,,,312123121
+2,West Indies,2,S Chanderpaul,TT Bresnan,CH Gayle,,0,1,1,,,,312123121
+2,West Indies,2,CH Gayle,TT Bresnan,S Chanderpaul,,0,1,1,,,,312123121
+2,West Indies,3,CH Gayle,GP Swann,S Chanderpaul,,0,2,2,,,,312123121
+2,West Indies,3,CH Gayle,GP Swann,S Chanderpaul,,0,6,6,,,,312123121
+2,West Indies,3,CH Gayle,GP Swann,S Chanderpaul,,0,0,0,caught,CH Gayle,MH Yardy,312123121
+2,West Indies,3,KA Pollard,GP Swann,S Chanderpaul,wides,1,1,0,stumped,KA Pollard,C Kieswetter,312123121
+2,West Indies,3,ADS Fletcher,GP Swann,S Chanderpaul,,0,0,0,,,,312123121
+2,West Indies,3,ADS Fletcher,GP Swann,S Chanderpaul,,0,1,1,,,,312123121
+2,West Indies,3,S Chanderpaul,GP Swann,ADS Fletcher,wides,2,2,0,,,,312123121
+2,West Indies,3,ADS Fletcher,GP Swann,S Chanderpaul,,0,1,1,,,,312123121
+2,West Indies,4,ADS Fletcher,MH Yardy,S Chanderpaul,,0,1,1,,,,312123121
+2,West Indies,4,S Chanderpaul,MH Yardy,ADS Fletcher,,0,1,1,,,,312123121
+2,West Indies,4,ADS Fletcher,MH Yardy,S Chanderpaul,,0,1,1,,,,312123121
+2,West Indies,4,S Chanderpaul,MH Yardy,ADS Fletcher,,0,1,1,,,,312123121
+2,West Indies,4,ADS Fletcher,MH Yardy,S Chanderpaul,,0,1,1,,,,312123121
+2,West Indies,4,S Chanderpaul,MH Yardy,ADS Fletcher,,0,1,1,,,,312123121
+2,West Indies,5,S Chanderpaul,SCJ Broad,ADS Fletcher,,0,1,1,,,,312123121
+2,West Indies,5,ADS Fletcher,SCJ Broad,S Chanderpaul,,0,2,2,,,,312123121
+2,West Indies,5,ADS Fletcher,SCJ Broad,S Chanderpaul,,0,0,0,,,,312123121
+2,West Indies,5,ADS Fletcher,SCJ Broad,S Chanderpaul,,0,4,4,,,,312123121
+2,West Indies,5,ADS Fletcher,SCJ Broad,S Chanderpaul,,0,1,1,,,,312123121

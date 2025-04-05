@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,England,0,LJ Wright,SM Pollock,MJ Prior,,0,0,0,,,,3282328
+2,England,0,LJ Wright,SM Pollock,MJ Prior,,0,0,0,,,,3282328
+2,England,0,LJ Wright,SM Pollock,MJ Prior,,0,0,0,,,,3282328
+2,England,0,LJ Wright,SM Pollock,MJ Prior,,0,0,0,caught,LJ Wright,AB de Villiers,3282328
+2,England,0,KP Pietersen,SM Pollock,MJ Prior,,0,0,0,,,,3282328
+2,England,0,KP Pietersen,SM Pollock,MJ Prior,,0,0,0,,,,3282328
+2,England,1,MJ Prior,M Ntini,KP Pietersen,,0,1,1,,,,3282328
+2,England,1,KP Pietersen,M Ntini,MJ Prior,,0,4,4,,,,3282328
+2,England,1,KP Pietersen,M Ntini,MJ Prior,,0,0,0,,,,3282328
+2,England,1,KP Pietersen,M Ntini,MJ Prior,,0,0,0,,,,3282328
+2,England,1,KP Pietersen,M Ntini,MJ Prior,,0,1,1,,,,3282328
+2,England,1,MJ Prior,M Ntini,KP Pietersen,,0,1,1,,,,3282328
+2,England,2,MJ Prior,SM Pollock,KP Pietersen,,0,1,1,,,,3282328
+2,England,2,KP Pietersen,SM Pollock,MJ Prior,,0,4,4,,,,3282328
+2,England,2,KP Pietersen,SM Pollock,MJ Prior,,0,0,0,,,,3282328
+2,England,2,KP Pietersen,SM Pollock,MJ Prior,,0,1,1,,,,3282328
+2,England,2,MJ Prior,SM Pollock,KP Pietersen,,0,0,0,,,,3282328
+2,England,2,MJ Prior,SM Pollock,KP Pietersen,,0,1,1,,,,3282328
+2,England,3,MJ Prior,M Ntini,KP Pietersen,,0,0,0,,,,3282328
+2,England,3,MJ Prior,M Ntini,KP Pietersen,,0,1,1,,,,3282328
+2,England,3,KP Pietersen,M Ntini,MJ Prior,,0,1,1,,,,3282328
+2,England,3,MJ Prior,M Ntini,KP Pietersen,,0,3,3,,,,3282328
+2,England,3,KP Pietersen,M Ntini,MJ Prior,,0,0,0,,,,3282328
+2,England,3,KP Pietersen,M Ntini,MJ Prior,,0,4,4,,,,3282328
+2,England,4,MJ Prior,SM Pollock,KP Pietersen,,0,1,1,,,,3282328
+2,England,4,KP Pietersen,SM Pollock,MJ Prior,,0,0,0,,,,3282328
+2,England,4,KP Pietersen,SM Pollock,MJ Prior,,0,0,0,run out,KP Pietersen,M Ntini,3282328
+2,England,4,MJ Prior,SM Pollock,PD Collingwood,,0,3,3,,,,3282328
+2,England,4,PD Collingwood,SM Pollock,MJ Prior,,0,0,0,caught,PD Collingwood,JM Kemp,3282328
+2,England,4,OA Shah,SM Pollock,MJ Prior,legbyes,1,1,0,,,,3282328
+2,England,5,OA Shah,M Ntini,MJ Prior,wides,1,1,0,,,,3282328
+2,England,5,OA Shah,M Ntini,MJ Prior,,0,0,0,,,,3282328
+2,England,5,OA Shah,M Ntini,MJ Prior,,0,0,0,,,,3282328
+2,England,5,OA Shah,M Ntini,MJ Prior,,0,1,1,,,,3282328
+2,England,5,MJ Prior,M Ntini,OA Shah,,0,1,1,,,,3282328
+2,England,5,OA Shah,M Ntini,MJ Prior,,0,0,0,,,,3282328
+2,England,5,OA Shah,M Ntini,MJ Prior,,0,0,0,,,,3282328
+2,England,6,MJ Prior,SM Pollock,OA Shah,,0,0,0,,,,3282328
+2,England,6,MJ Prior,SM Pollock,OA Shah,,0,0,0,,,,3282328
+2,England,6,MJ Prior,SM Pollock,OA Shah,,0,1,1,,,,3282328
+2,England,6,OA Shah,SM Pollock,MJ Prior,,0,1,1,,,,3282328
+2,England,6,MJ Prior,SM Pollock,OA Shah,,0,1,1,,,,3282328
+2,England,6,OA Shah,SM Pollock,MJ Prior,,0,3,3,,,,3282328
+2,England,7,OA Shah,M Morkel,MJ Prior,,0,0,0,,,,3282328
+2,England,7,OA Shah,M Morkel,MJ Prior,,0,0,0,,,,3282328
+2,England,7,OA Shah,M Morkel,MJ Prior,,0,1,1,,,,3282328
+2,England,7,MJ Prior,M Morkel,OA Shah,,0,0,0,,,,3282328
+2,England,7,MJ Prior,M Morkel,OA Shah,,0,4,4,,,,3282328
+2,England,7,MJ Prior,M Morkel,OA Shah,,0,0,0,,,,3282328
+2,England,8,OA Shah,JJ van der Wath,MJ Prior,,0,1,1,,,,3282328
+2,England,8,MJ Prior,JJ van der Wath,OA Shah,,0,0,0,,,,3282328
+2,England,8,MJ Prior,JJ van der Wath,OA Shah,,0,3,3,,,,3282328
+2,England,8,OA Shah,JJ van der Wath,MJ Prior,,0,1,1,,,,3282328
+2,England,8,MJ Prior,JJ van der Wath,OA Shah,,0,6,6,,,,3282328
+2,England,8,MJ Prior,JJ van der Wath,OA Shah,,0,0,0,,,,3282328
+2,England,9,OA Shah,M Morkel,MJ Prior,,0,2,2,,,,3282328
+2,England,9,OA Shah,M Morkel,MJ Prior,,0,0,0,,,,3282328
+2,England,9,OA Shah,M Morkel,MJ Prior,legbyes,2,2,0,,,,3282328
+2,England,9,OA Shah,M Morkel,MJ Prior,,0,1,1,,,,3282328
+2,England,9,MJ Prior,M Morkel,OA Shah,,0,0,0,,,,3282328
+2,England,9,MJ Prior,M Morkel,OA Shah,,0,1,1,,,,3282328
+2,England,10,MJ Prior,JJ van der Wath,OA Shah,,0,0,0,,,,3282328
+2,England,10,MJ Prior,JJ van der Wath,OA Shah,,0,1,1,,,,3282328
+2,England,10,OA Shah,JJ van der Wath,MJ Prior,,0,1,1,,,,3282328
+2,England,10,MJ Prior,JJ van der Wath,OA Shah,,0,0,0,,,,3282328
+2,England,10,MJ Prior,JJ van der Wath,OA Shah,,0,1,1,,,,3282328
+2,England,10,OA Shah,JJ van der Wath,MJ Prior,,0,1,1,,,,3282328
+2,England,11,OA Shah,VD Philander,MJ Prior,,0,2,2,,,,3282328
+2,England,11,OA Shah,VD Philander,MJ Prior,,0,2,2,,,,3282328
+2,England,11,OA Shah,VD Philander,MJ Prior,,0,6,6,,,,3282328
+2,England,11,OA Shah,VD Philander,MJ Prior,,0,0,0,,,,3282328
+2,England,11,OA Shah,VD Philander,MJ Prior,,0,0,0,,,,3282328
+2,England,11,OA Shah,VD Philander,MJ Prior,,0,6,6,,,,3282328
+2,England,12,MJ Prior,JA Morkel,OA Shah,,0,0,0,,,,3282328
+2,England,12,MJ Prior,JA Morkel,OA Shah,,0,1,1,,,,3282328
+2,England,12,OA Shah,JA Morkel,MJ Prior,,0,1,1,,,,3282328
+2,England,12,MJ Prior,JA Morkel,OA Shah,wides,1,1,0,,,,3282328
+2,England,12,MJ Prior,JA Morkel,OA Shah,,0,0,0,caught,MJ Prior,VD Philander,3282328
+2,England,12,OA Shah,JA Morkel,A Flintoff,,0,1,1,,,,3282328
+2,England,12,A Flintoff,JA Morkel,OA Shah,,0,0,0,,,,3282328
+2,England,13,OA Shah,M Ntini,A Flintoff,,0,1,1,,,,3282328
+2,England,13,A Flintoff,M Ntini,OA Shah,,0,4,4,,,,3282328
+2,England,13,A Flintoff,M Ntini,OA Shah,,0,4,4,,,,3282328
+2,England,13,A Flintoff,M Ntini,OA Shah,,0,0,0,,,,3282328
+2,England,13,A Flintoff,M Ntini,OA Shah,,0,1,1,,,,3282328
+2,England,13,OA Shah,M Ntini,A Flintoff,,0,0,0,,,,3282328
+2,England,14,A Flintoff,JA Morkel,OA Shah,,0,1,1,,,,3282328
+2,England,14,OA Shah,JA Morkel,A Flintoff,,0,4,4,,,,3282328
+2,England,14,OA Shah,JA Morkel,A Flintoff,,0,0,0,bowled,OA Shah,,3282328
+2,England,14,JN Snape,JA Morkel,A Flintoff,,0,1,1,,,,3282328
+2,England,14,A Flintoff,JA Morkel,JN Snape,,0,1,1,,,,3282328
+2,England,14,JN Snape,JA Morkel,A Flintoff,,0,1,1,,,,3282328
+2,England,15,JN Snape,VD Philander,A Flintoff,,0,1,1,,,,3282328
+2,England,15,A Flintoff,VD Philander,JN Snape,,0,1,1,,,,3282328
+2,England,15,JN Snape,VD Philander,A Flintoff,,0,0,0,,,,3282328
+2,England,15,JN Snape,VD Philander,A Flintoff,,0,2,2,,,,3282328
+2,England,15,JN Snape,VD Philander,A Flintoff,,0,1,1,,,,3282328
+2,England,15,A Flintoff,VD Philander,JN Snape,,0,1,1,,,,3282328
+2,England,16,A Flintoff,JJ van der Wath,JN Snape,,0,1,1,,,,3282328
+2,England,16,JN Snape,JJ van der Wath,A Flintoff,,0,0,0,,,,3282328
+2,England,16,JN Snape,JJ van der Wath,A Flintoff,,0,1,1,,,,3282328
+2,England,16,A Flintoff,JJ van der Wath,JN Snape,,0,2,2,,,,3282328
+2,England,16,A Flintoff,JJ van der Wath,JN Snape,,0,0,0,,,,3282328
+2,England,16,A Flintoff,JJ van der Wath,JN Snape,legbyes,1,1,0,,,,3282328
+2,England,17,A Flintoff,M Morkel,JN Snape,legbyes,1,1,0,,,,3282328
+2,England,17,JN Snape,M Morkel,A Flintoff,,0,0,0,,,,3282328
+2,England,17,JN Snape,M Morkel,A Flintoff,,0,0,0,,,,3282328
+2,England,17,JN Snape,M Morkel,A Flintoff,,0,0,0,caught,JN Snape,AB de Villiers,3282328
+2,England,17,A Flintoff,M Morkel,AD Mascarenhas,,0,1,1,,,,3282328
+2,England,17,AD Mascarenhas,M Morkel,A Flintoff,,0,1,1,,,,3282328
+2,England,18,AD Mascarenhas,JJ van der Wath,A Flintoff,,0,4,4,,,,3282328
+2,England,18,AD Mascarenhas,JJ van der Wath,A Flintoff,,0,1,1,,,,3282328
+2,England,18,A Flintoff,JJ van der Wath,AD Mascarenhas,,0,0,0,bowled,A Flintoff,,3282328
+2,England,18,CP Schofield,JJ van der Wath,AD Mascarenhas,,0,4,4,,,,3282328
+2,England,18,CP Schofield,JJ van der Wath,AD Mascarenhas,,0,1,1,,,,3282328
+2,England,18,AD Mascarenhas,JJ van der Wath,CP Schofield,,0,1,1,,,,3282328
+2,England,19,AD Mascarenhas,M Morkel,CP Schofield,,0,2,2,,,,3282328
+2,England,19,AD Mascarenhas,M Morkel,CP Schofield,,0,4,4,,,,3282328
+2,England,19,AD Mascarenhas,M Morkel,CP Schofield,,0,0,0,,,,3282328
+2,England,19,AD Mascarenhas,M Morkel,CP Schofield,,0,1,1,,,,3282328
+2,England,19,CP Schofield,M Morkel,AD Mascarenhas,,0,1,1,,,,3282328
+2,England,19,AD Mascarenhas,M Morkel,CP Schofield,,0,1,1,,,,3282328

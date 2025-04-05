@@ -1,0 +1,104 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Cameroon,0,MLN Sissako,SA Wittmann,BMA Mbida,,0,0,0,,,,31708231708
+1,Cameroon,0,MLN Sissako,SA Wittmann,BMA Mbida,,0,0,0,,,,31708231708
+1,Cameroon,0,MLN Sissako,SA Wittmann,BMA Mbida,,0,1,1,,,,31708231708
+1,Cameroon,0,BMA Mbida,SA Wittmann,MLN Sissako,,0,0,0,,,,31708231708
+1,Cameroon,0,BMA Mbida,SA Wittmann,MLN Sissako,,0,0,0,,,,31708231708
+1,Cameroon,0,BMA Mbida,SA Wittmann,MLN Sissako,,0,0,0,,,,31708231708
+1,Cameroon,1,MLN Sissako,W Mwatile,BMA Mbida,,0,0,0,lbw,MLN Sissako,,31708231708
+1,Cameroon,1,CI Manidom,W Mwatile,BMA Mbida,,0,0,0,bowled,CI Manidom,,31708231708
+1,Cameroon,1,MSF Tedjui,W Mwatile,BMA Mbida,,0,0,0,,,,31708231708
+1,Cameroon,1,MSF Tedjui,W Mwatile,BMA Mbida,,0,0,0,,,,31708231708
+1,Cameroon,1,MSF Tedjui,W Mwatile,BMA Mbida,,0,0,0,,,,31708231708
+1,Cameroon,1,MSF Tedjui,W Mwatile,BMA Mbida,,0,0,0,,,,31708231708
+1,Cameroon,2,BMA Mbida,SA Wittmann,MSF Tedjui,,0,0,0,,,,31708231708
+1,Cameroon,2,BMA Mbida,SA Wittmann,MSF Tedjui,,0,1,1,,,,31708231708
+1,Cameroon,2,MSF Tedjui,SA Wittmann,BMA Mbida,,0,1,1,,,,31708231708
+1,Cameroon,2,BMA Mbida,SA Wittmann,MSF Tedjui,,0,0,0,,,,31708231708
+1,Cameroon,2,BMA Mbida,SA Wittmann,MSF Tedjui,,0,1,1,,,,31708231708
+1,Cameroon,2,MSF Tedjui,SA Wittmann,BMA Mbida,,0,0,0,,,,31708231708
+1,Cameroon,3,BMA Mbida,W Mwatile,MSF Tedjui,legbyes,1,1,0,,,,31708231708
+1,Cameroon,3,MSF Tedjui,W Mwatile,BMA Mbida,,0,0,0,lbw,MSF Tedjui,,31708231708
+1,Cameroon,3,AAM Eliane,W Mwatile,BMA Mbida,,0,1,1,,,,31708231708
+1,Cameroon,3,BMA Mbida,W Mwatile,AAM Eliane,,0,1,1,,,,31708231708
+1,Cameroon,3,BMA Mbida,W Mwatile,AAM Eliane,,0,0,0,,,,31708231708
+1,Cameroon,3,BMA Mbida,W Mwatile,AAM Eliane,,0,0,0,,,,31708231708
+1,Cameroon,4,AAM Eliane,SA Wittmann,BMA Mbida,,0,0,0,lbw,AAM Eliane,,31708231708
+1,Cameroon,4,MFD Douma,SA Wittmann,BMA Mbida,,0,0,0,,,,31708231708
+1,Cameroon,4,MFD Douma,SA Wittmann,BMA Mbida,,0,0,0,,,,31708231708
+1,Cameroon,4,MFD Douma,SA Wittmann,BMA Mbida,,0,0,0,bowled,MFD Douma,,31708231708
+1,Cameroon,4,ME Bessala,SA Wittmann,BMA Mbida,,0,0,0,,,,31708231708
+1,Cameroon,4,ME Bessala,SA Wittmann,BMA Mbida,,0,0,0,,,,31708231708
+1,Cameroon,5,BMA Mbida,W Mwatile,ME Bessala,,0,0,0,,,,31708231708
+1,Cameroon,5,BMA Mbida,W Mwatile,ME Bessala,,0,0,0,,,,31708231708
+1,Cameroon,5,BMA Mbida,W Mwatile,ME Bessala,,0,1,1,,,,31708231708
+1,Cameroon,5,ME Bessala,W Mwatile,BMA Mbida,,0,0,0,,,,31708231708
+1,Cameroon,5,ME Bessala,W Mwatile,BMA Mbida,,0,0,0,,,,31708231708
+1,Cameroon,5,ME Bessala,W Mwatile,BMA Mbida,,0,0,0,,,,31708231708
+1,Cameroon,6,BMA Mbida,SA Wittmann,ME Bessala,,0,0,0,,,,31708231708
+1,Cameroon,6,BMA Mbida,SA Wittmann,ME Bessala,,0,4,4,,,,31708231708
+1,Cameroon,6,BMA Mbida,SA Wittmann,ME Bessala,wides,1,1,0,,,,31708231708
+1,Cameroon,6,BMA Mbida,SA Wittmann,ME Bessala,,0,0,0,,,,31708231708
+1,Cameroon,6,BMA Mbida,SA Wittmann,ME Bessala,,0,1,1,,,,31708231708
+1,Cameroon,6,ME Bessala,SA Wittmann,BMA Mbida,,0,0,0,,,,31708231708
+1,Cameroon,6,ME Bessala,SA Wittmann,BMA Mbida,,0,1,1,,,,31708231708
+1,Cameroon,7,ME Bessala,W Mwatile,BMA Mbida,wides,1,1,0,,,,31708231708
+1,Cameroon,7,ME Bessala,W Mwatile,BMA Mbida,,0,0,0,caught,ME Bessala,KA Green,31708231708
+1,Cameroon,7,DLN Kenfack,W Mwatile,BMA Mbida,,0,0,0,,,,31708231708
+1,Cameroon,7,DLN Kenfack,W Mwatile,BMA Mbida,,0,1,1,,,,31708231708
+1,Cameroon,7,BMA Mbida,W Mwatile,DLN Kenfack,,0,1,1,,,,31708231708
+1,Cameroon,7,DLN Kenfack,W Mwatile,BMA Mbida,byes,1,1,0,,,,31708231708
+1,Cameroon,7,BMA Mbida,W Mwatile,DLN Kenfack,,0,0,0,lbw,BMA Mbida,,31708231708
+1,Cameroon,8,DLN Kenfack,SN Shihepo,MSN Ekani,,0,0,0,,,,31708231708
+1,Cameroon,8,DLN Kenfack,SN Shihepo,MSN Ekani,,0,0,0,,,,31708231708
+1,Cameroon,8,DLN Kenfack,SN Shihepo,MSN Ekani,,0,0,0,,,,31708231708
+1,Cameroon,8,DLN Kenfack,SN Shihepo,MSN Ekani,,0,0,0,,,,31708231708
+1,Cameroon,8,DLN Kenfack,SN Shihepo,MSN Ekani,,0,0,0,,,,31708231708
+1,Cameroon,8,DLN Kenfack,SN Shihepo,MSN Ekani,,0,2,2,,,,31708231708
+1,Cameroon,9,MSN Ekani,I van Zyl,DLN Kenfack,,0,0,0,,,,31708231708
+1,Cameroon,9,MSN Ekani,I van Zyl,DLN Kenfack,,0,0,0,,,,31708231708
+1,Cameroon,9,MSN Ekani,I van Zyl,DLN Kenfack,,0,0,0,,,,31708231708
+1,Cameroon,9,MSN Ekani,I van Zyl,DLN Kenfack,wides,1,1,0,,,,31708231708
+1,Cameroon,9,MSN Ekani,I van Zyl,DLN Kenfack,,0,0,0,,,,31708231708
+1,Cameroon,9,MSN Ekani,I van Zyl,DLN Kenfack,,0,0,0,,,,31708231708
+1,Cameroon,9,MSN Ekani,I van Zyl,DLN Kenfack,,0,0,0,,,,31708231708
+1,Cameroon,10,DLN Kenfack,SN Shihepo,MSN Ekani,,0,0,0,,,,31708231708
+1,Cameroon,10,DLN Kenfack,SN Shihepo,MSN Ekani,,0,1,1,,,,31708231708
+1,Cameroon,10,MSN Ekani,SN Shihepo,DLN Kenfack,,0,0,0,,,,31708231708
+1,Cameroon,10,MSN Ekani,SN Shihepo,DLN Kenfack,,0,0,0,lbw,MSN Ekani,,31708231708
+1,Cameroon,10,TMA Leslie,SN Shihepo,DLN Kenfack,,0,0,0,,,,31708231708
+1,Cameroon,10,TMA Leslie,SN Shihepo,DLN Kenfack,,0,0,0,,,,31708231708
+1,Cameroon,11,DLN Kenfack,I van Zyl,TMA Leslie,,0,0,0,,,,31708231708
+1,Cameroon,11,DLN Kenfack,I van Zyl,TMA Leslie,,0,0,0,,,,31708231708
+1,Cameroon,11,DLN Kenfack,I van Zyl,TMA Leslie,,0,0,0,,,,31708231708
+1,Cameroon,11,DLN Kenfack,I van Zyl,TMA Leslie,,0,0,0,,,,31708231708
+1,Cameroon,11,DLN Kenfack,I van Zyl,TMA Leslie,,0,0,0,,,,31708231708
+1,Cameroon,11,DLN Kenfack,I van Zyl,TMA Leslie,,0,0,0,,,,31708231708
+1,Cameroon,12,TMA Leslie,SN Shihepo,DLN Kenfack,,0,0,0,,,,31708231708
+1,Cameroon,12,TMA Leslie,SN Shihepo,DLN Kenfack,,0,1,1,,,,31708231708
+1,Cameroon,12,DLN Kenfack,SN Shihepo,TMA Leslie,,0,1,1,,,,31708231708
+1,Cameroon,12,TMA Leslie,SN Shihepo,DLN Kenfack,,0,0,0,,,,31708231708
+1,Cameroon,12,TMA Leslie,SN Shihepo,DLN Kenfack,wides,1,1,0,,,,31708231708
+1,Cameroon,12,TMA Leslie,SN Shihepo,DLN Kenfack,wides,1,1,0,,,,31708231708
+1,Cameroon,12,TMA Leslie,SN Shihepo,DLN Kenfack,noballs,1,1,0,,,,31708231708
+1,Cameroon,12,TMA Leslie,SN Shihepo,DLN Kenfack,,0,0,0,,,,31708231708
+1,Cameroon,12,TMA Leslie,SN Shihepo,DLN Kenfack,,0,0,0,,,,31708231708
+1,Cameroon,13,DLN Kenfack,KA Green,TMA Leslie,wides,1,1,0,,,,31708231708
+1,Cameroon,13,DLN Kenfack,KA Green,TMA Leslie,,0,0,0,,,,31708231708
+1,Cameroon,13,DLN Kenfack,KA Green,TMA Leslie,,0,0,0,,,,31708231708
+1,Cameroon,13,DLN Kenfack,KA Green,TMA Leslie,,0,0,0,,,,31708231708
+1,Cameroon,13,DLN Kenfack,KA Green,TMA Leslie,,0,0,0,,,,31708231708
+1,Cameroon,13,DLN Kenfack,KA Green,TMA Leslie,,0,0,0,caught,DLN Kenfack,M Mwatile,31708231708
+1,Cameroon,13,JAN Ngono,KA Green,TMA Leslie,wides,1,1,0,,,,31708231708
+1,Cameroon,13,JAN Ngono,KA Green,TMA Leslie,,0,0,0,,,,31708231708
+1,Cameroon,14,TMA Leslie,I van Zyl,JAN Ngono,,0,0,0,,,,31708231708
+1,Cameroon,14,TMA Leslie,I van Zyl,JAN Ngono,,0,0,0,,,,31708231708
+1,Cameroon,14,TMA Leslie,I van Zyl,JAN Ngono,,0,0,0,,,,31708231708
+1,Cameroon,14,TMA Leslie,I van Zyl,JAN Ngono,,0,0,0,,,,31708231708
+1,Cameroon,14,TMA Leslie,I van Zyl,JAN Ngono,,0,0,0,,,,31708231708
+1,Cameroon,14,TMA Leslie,I van Zyl,JAN Ngono,,0,0,0,,,,31708231708
+1,Cameroon,15,JAN Ngono,KA Green,TMA Leslie,,0,0,0,,,,31708231708
+1,Cameroon,15,JAN Ngono,KA Green,TMA Leslie,,0,0,0,,,,31708231708
+1,Cameroon,15,JAN Ngono,KA Green,TMA Leslie,,0,0,0,,,,31708231708
+1,Cameroon,15,JAN Ngono,KA Green,TMA Leslie,,0,0,0,,,,31708231708
+1,Cameroon,15,JAN Ngono,KA Green,TMA Leslie,,0,0,0,bowled,JAN Ngono,,31708231708

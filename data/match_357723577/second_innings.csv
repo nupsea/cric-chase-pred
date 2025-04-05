@@ -1,0 +1,121 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Sri Lanka,0,N Dickwella,L Ngidi,DM de Silva,,0,0,0,,,,357723577
+2,Sri Lanka,0,N Dickwella,L Ngidi,DM de Silva,,0,1,1,,,,357723577
+2,Sri Lanka,0,DM de Silva,L Ngidi,N Dickwella,,0,0,0,,,,357723577
+2,Sri Lanka,0,DM de Silva,L Ngidi,N Dickwella,,0,0,0,,,,357723577
+2,Sri Lanka,0,DM de Silva,L Ngidi,N Dickwella,,0,0,0,,,,357723577
+2,Sri Lanka,0,DM de Silva,L Ngidi,N Dickwella,,0,1,1,,,,357723577
+2,Sri Lanka,1,DM de Silva,WD Parnell,N Dickwella,,0,1,1,,,,357723577
+2,Sri Lanka,1,N Dickwella,WD Parnell,DM de Silva,,0,0,0,,,,357723577
+2,Sri Lanka,1,N Dickwella,WD Parnell,DM de Silva,,0,4,4,,,,357723577
+2,Sri Lanka,1,N Dickwella,WD Parnell,DM de Silva,,0,4,4,,,,357723577
+2,Sri Lanka,1,N Dickwella,WD Parnell,DM de Silva,,0,0,0,,,,357723577
+2,Sri Lanka,1,N Dickwella,WD Parnell,DM de Silva,,0,0,0,,,,357723577
+2,Sri Lanka,2,DM de Silva,L Ngidi,N Dickwella,,0,0,0,caught,DM de Silva,DA Miller,357723577
+2,Sri Lanka,2,BKG Mendis,L Ngidi,N Dickwella,,0,4,4,,,,357723577
+2,Sri Lanka,2,BKG Mendis,L Ngidi,N Dickwella,,0,0,0,bowled,BKG Mendis,,357723577
+2,Sri Lanka,2,LD Chandimal,L Ngidi,N Dickwella,,0,2,2,,,,357723577
+2,Sri Lanka,2,LD Chandimal,L Ngidi,N Dickwella,wides,1,1,0,,,,357723577
+2,Sri Lanka,2,LD Chandimal,L Ngidi,N Dickwella,,0,0,0,,,,357723577
+2,Sri Lanka,2,LD Chandimal,L Ngidi,N Dickwella,,0,1,1,,,,357723577
+2,Sri Lanka,3,LD Chandimal,AL Phehlukwayo,N Dickwella,,0,0,0,,,,357723577
+2,Sri Lanka,3,LD Chandimal,AL Phehlukwayo,N Dickwella,,0,1,1,,,,357723577
+2,Sri Lanka,3,N Dickwella,AL Phehlukwayo,LD Chandimal,,0,0,0,,,,357723577
+2,Sri Lanka,3,N Dickwella,AL Phehlukwayo,LD Chandimal,,0,4,4,,,,357723577
+2,Sri Lanka,3,N Dickwella,AL Phehlukwayo,LD Chandimal,,0,4,4,,,,357723577
+2,Sri Lanka,3,N Dickwella,AL Phehlukwayo,LD Chandimal,,0,4,4,,,,357723577
+2,Sri Lanka,4,LD Chandimal,L Ngidi,N Dickwella,,0,1,1,,,,357723577
+2,Sri Lanka,4,N Dickwella,L Ngidi,LD Chandimal,,0,1,1,,,,357723577
+2,Sri Lanka,4,LD Chandimal,L Ngidi,N Dickwella,,0,1,1,,,,357723577
+2,Sri Lanka,4,N Dickwella,L Ngidi,LD Chandimal,,0,0,0,,,,357723577
+2,Sri Lanka,4,N Dickwella,L Ngidi,LD Chandimal,,0,0,0,,,,357723577
+2,Sri Lanka,4,N Dickwella,L Ngidi,LD Chandimal,,0,0,0,caught,N Dickwella,M Mosehle,357723577
+2,Sri Lanka,5,LD Chandimal,Imran Tahir,AD Mathews,,0,1,1,,,,357723577
+2,Sri Lanka,5,AD Mathews,Imran Tahir,LD Chandimal,,0,1,1,,,,357723577
+2,Sri Lanka,5,LD Chandimal,Imran Tahir,AD Mathews,,0,0,0,,,,357723577
+2,Sri Lanka,5,LD Chandimal,Imran Tahir,AD Mathews,,0,1,1,,,,357723577
+2,Sri Lanka,5,AD Mathews,Imran Tahir,LD Chandimal,,0,0,0,,,,357723577
+2,Sri Lanka,5,AD Mathews,Imran Tahir,LD Chandimal,,0,0,0,,,,357723577
+2,Sri Lanka,6,LD Chandimal,AM Phangiso,AD Mathews,,0,1,1,,,,357723577
+2,Sri Lanka,6,AD Mathews,AM Phangiso,LD Chandimal,,0,1,1,,,,357723577
+2,Sri Lanka,6,LD Chandimal,AM Phangiso,AD Mathews,,0,0,0,,,,357723577
+2,Sri Lanka,6,LD Chandimal,AM Phangiso,AD Mathews,,0,1,1,,,,357723577
+2,Sri Lanka,6,AD Mathews,AM Phangiso,LD Chandimal,,0,1,1,,,,357723577
+2,Sri Lanka,6,LD Chandimal,AM Phangiso,AD Mathews,,0,2,2,,,,357723577
+2,Sri Lanka,7,AD Mathews,Imran Tahir,LD Chandimal,,0,1,1,,,,357723577
+2,Sri Lanka,7,LD Chandimal,Imran Tahir,AD Mathews,,0,1,1,,,,357723577
+2,Sri Lanka,7,AD Mathews,Imran Tahir,LD Chandimal,,0,0,0,,,,357723577
+2,Sri Lanka,7,AD Mathews,Imran Tahir,LD Chandimal,,0,0,0,,,,357723577
+2,Sri Lanka,7,AD Mathews,Imran Tahir,LD Chandimal,,0,0,0,,,,357723577
+2,Sri Lanka,7,AD Mathews,Imran Tahir,LD Chandimal,,0,1,1,,,,357723577
+2,Sri Lanka,8,AD Mathews,AM Phangiso,LD Chandimal,,0,0,0,,,,357723577
+2,Sri Lanka,8,AD Mathews,AM Phangiso,LD Chandimal,,0,0,0,,,,357723577
+2,Sri Lanka,8,AD Mathews,AM Phangiso,LD Chandimal,,0,0,0,,,,357723577
+2,Sri Lanka,8,AD Mathews,AM Phangiso,LD Chandimal,,0,0,0,,,,357723577
+2,Sri Lanka,8,AD Mathews,AM Phangiso,LD Chandimal,,0,1,1,,,,357723577
+2,Sri Lanka,8,LD Chandimal,AM Phangiso,AD Mathews,,0,1,1,,,,357723577
+2,Sri Lanka,9,LD Chandimal,Imran Tahir,AD Mathews,,0,1,1,,,,357723577
+2,Sri Lanka,9,AD Mathews,Imran Tahir,LD Chandimal,,0,1,1,,,,357723577
+2,Sri Lanka,9,LD Chandimal,Imran Tahir,AD Mathews,,0,0,0,,,,357723577
+2,Sri Lanka,9,LD Chandimal,Imran Tahir,AD Mathews,,0,1,1,,,,357723577
+2,Sri Lanka,9,AD Mathews,Imran Tahir,LD Chandimal,,0,0,0,,,,357723577
+2,Sri Lanka,9,AD Mathews,Imran Tahir,LD Chandimal,,0,1,1,,,,357723577
+2,Sri Lanka,10,AD Mathews,AM Phangiso,LD Chandimal,,0,0,0,,,,357723577
+2,Sri Lanka,10,AD Mathews,AM Phangiso,LD Chandimal,,0,2,2,,,,357723577
+2,Sri Lanka,10,AD Mathews,AM Phangiso,LD Chandimal,,0,0,0,,,,357723577
+2,Sri Lanka,10,AD Mathews,AM Phangiso,LD Chandimal,,0,2,2,,,,357723577
+2,Sri Lanka,10,AD Mathews,AM Phangiso,LD Chandimal,,0,1,1,,,,357723577
+2,Sri Lanka,10,LD Chandimal,AM Phangiso,AD Mathews,,0,0,0,,,,357723577
+2,Sri Lanka,11,AD Mathews,AL Phehlukwayo,LD Chandimal,,0,0,0,,,,357723577
+2,Sri Lanka,11,AD Mathews,AL Phehlukwayo,LD Chandimal,,0,2,2,,,,357723577
+2,Sri Lanka,11,AD Mathews,AL Phehlukwayo,LD Chandimal,,0,4,4,,,,357723577
+2,Sri Lanka,11,AD Mathews,AL Phehlukwayo,LD Chandimal,,0,1,1,,,,357723577
+2,Sri Lanka,11,LD Chandimal,AL Phehlukwayo,AD Mathews,,0,1,1,,,,357723577
+2,Sri Lanka,11,AD Mathews,AL Phehlukwayo,LD Chandimal,,0,1,1,,,,357723577
+2,Sri Lanka,12,AD Mathews,AM Phangiso,LD Chandimal,,0,1,1,,,,357723577
+2,Sri Lanka,12,LD Chandimal,AM Phangiso,AD Mathews,,0,1,1,,,,357723577
+2,Sri Lanka,12,AD Mathews,AM Phangiso,LD Chandimal,,0,6,6,,,,357723577
+2,Sri Lanka,12,AD Mathews,AM Phangiso,LD Chandimal,,0,1,1,,,,357723577
+2,Sri Lanka,12,LD Chandimal,AM Phangiso,AD Mathews,,0,1,1,,,,357723577
+2,Sri Lanka,12,AD Mathews,AM Phangiso,LD Chandimal,,0,1,1,,,,357723577
+2,Sri Lanka,13,AD Mathews,JT Smuts,LD Chandimal,byes,2,2,0,,,,357723577
+2,Sri Lanka,13,AD Mathews,JT Smuts,LD Chandimal,,0,1,1,,,,357723577
+2,Sri Lanka,13,LD Chandimal,JT Smuts,AD Mathews,,0,1,1,,,,357723577
+2,Sri Lanka,13,AD Mathews,JT Smuts,LD Chandimal,,0,1,1,,,,357723577
+2,Sri Lanka,13,LD Chandimal,JT Smuts,AD Mathews,,0,0,0,,,,357723577
+2,Sri Lanka,13,LD Chandimal,JT Smuts,AD Mathews,,0,0,0,,,,357723577
+2,Sri Lanka,14,AD Mathews,L Ngidi,LD Chandimal,,0,1,1,,,,357723577
+2,Sri Lanka,14,LD Chandimal,L Ngidi,AD Mathews,,0,2,2,,,,357723577
+2,Sri Lanka,14,LD Chandimal,L Ngidi,AD Mathews,,0,0,0,caught,LD Chandimal,M Mosehle,357723577
+2,Sri Lanka,14,DAS Gunaratne,L Ngidi,AD Mathews,,0,1,1,,,,357723577
+2,Sri Lanka,14,AD Mathews,L Ngidi,DAS Gunaratne,,0,1,1,,,,357723577
+2,Sri Lanka,14,DAS Gunaratne,L Ngidi,AD Mathews,,0,1,1,,,,357723577
+2,Sri Lanka,15,DAS Gunaratne,Imran Tahir,AD Mathews,,0,0,0,,,,357723577
+2,Sri Lanka,15,DAS Gunaratne,Imran Tahir,AD Mathews,,0,1,1,,,,357723577
+2,Sri Lanka,15,AD Mathews,Imran Tahir,DAS Gunaratne,,0,2,2,,,,357723577
+2,Sri Lanka,15,AD Mathews,Imran Tahir,DAS Gunaratne,,0,1,1,,,,357723577
+2,Sri Lanka,15,DAS Gunaratne,Imran Tahir,AD Mathews,,0,0,0,lbw,DAS Gunaratne,,357723577
+2,Sri Lanka,15,S Prasanna,Imran Tahir,AD Mathews,,0,0,0,,,,357723577
+2,Sri Lanka,16,AD Mathews,WD Parnell,S Prasanna,,0,0,0,,,,357723577
+2,Sri Lanka,16,AD Mathews,WD Parnell,S Prasanna,,0,1,1,,,,357723577
+2,Sri Lanka,16,S Prasanna,WD Parnell,AD Mathews,,0,0,0,,,,357723577
+2,Sri Lanka,16,S Prasanna,WD Parnell,AD Mathews,,0,1,1,,,,357723577
+2,Sri Lanka,16,AD Mathews,WD Parnell,S Prasanna,,0,1,1,,,,357723577
+2,Sri Lanka,16,S Prasanna,WD Parnell,AD Mathews,,0,1,1,,,,357723577
+2,Sri Lanka,17,S Prasanna,JT Smuts,AD Mathews,,0,0,0,caught,S Prasanna,Imran Tahir,357723577
+2,Sri Lanka,17,ST de Silva,JT Smuts,AD Mathews,byes,1,1,0,,,,357723577
+2,Sri Lanka,17,AD Mathews,JT Smuts,ST de Silva,wides,1,1,0,,,,357723577
+2,Sri Lanka,17,AD Mathews,JT Smuts,ST de Silva,,0,1,1,,,,357723577
+2,Sri Lanka,17,ST de Silva,JT Smuts,AD Mathews,,0,0,0,,,,357723577
+2,Sri Lanka,17,ST de Silva,JT Smuts,AD Mathews,,0,1,1,,,,357723577
+2,Sri Lanka,17,AD Mathews,JT Smuts,ST de Silva,,0,1,1,,,,357723577
+2,Sri Lanka,18,AD Mathews,WD Parnell,ST de Silva,,0,1,1,,,,357723577
+2,Sri Lanka,18,ST de Silva,WD Parnell,AD Mathews,,0,2,2,,,,357723577
+2,Sri Lanka,18,ST de Silva,WD Parnell,AD Mathews,,0,0,0,,,,357723577
+2,Sri Lanka,18,ST de Silva,WD Parnell,AD Mathews,,0,0,0,caught,ST de Silva,F Behardien,357723577
+2,Sri Lanka,18,KMDN Kulasekara,WD Parnell,AD Mathews,legbyes,1,1,0,,,,357723577
+2,Sri Lanka,18,AD Mathews,WD Parnell,KMDN Kulasekara,legbyes,1,1,0,,,,357723577
+2,Sri Lanka,19,AD Mathews,JT Smuts,KMDN Kulasekara,,0,0,0,,,,357723577
+2,Sri Lanka,19,AD Mathews,JT Smuts,KMDN Kulasekara,,0,6,6,,,,357723577
+2,Sri Lanka,19,AD Mathews,JT Smuts,KMDN Kulasekara,,0,0,0,,,,357723577
+2,Sri Lanka,19,AD Mathews,JT Smuts,KMDN Kulasekara,,0,6,6,,,,357723577

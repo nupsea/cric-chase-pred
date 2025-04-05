@@ -1,0 +1,111 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Sri Lanka,0,MDKJ Perera,Shakib Al Hasan,EMDY Munaweera,,0,4,4,,,,373523735
+2,Sri Lanka,0,MDKJ Perera,Shakib Al Hasan,EMDY Munaweera,,0,0,0,bowled,MDKJ Perera,,373523735
+2,Sri Lanka,0,WU Tharanga,Shakib Al Hasan,EMDY Munaweera,,0,0,0,,,,373523735
+2,Sri Lanka,0,WU Tharanga,Shakib Al Hasan,EMDY Munaweera,,0,0,0,,,,373523735
+2,Sri Lanka,0,WU Tharanga,Shakib Al Hasan,EMDY Munaweera,,0,2,2,,,,373523735
+2,Sri Lanka,0,WU Tharanga,Shakib Al Hasan,EMDY Munaweera,,0,1,1,,,,373523735
+2,Sri Lanka,1,WU Tharanga,Mashrafe Mortaza,EMDY Munaweera,,0,2,2,,,,373523735
+2,Sri Lanka,1,WU Tharanga,Mashrafe Mortaza,EMDY Munaweera,,0,4,4,,,,373523735
+2,Sri Lanka,1,WU Tharanga,Mashrafe Mortaza,EMDY Munaweera,,0,2,2,,,,373523735
+2,Sri Lanka,1,WU Tharanga,Mashrafe Mortaza,EMDY Munaweera,,0,0,0,,,,373523735
+2,Sri Lanka,1,WU Tharanga,Mashrafe Mortaza,EMDY Munaweera,,0,0,0,,,,373523735
+2,Sri Lanka,1,WU Tharanga,Mashrafe Mortaza,EMDY Munaweera,,0,0,0,,,,373523735
+2,Sri Lanka,2,EMDY Munaweera,Shakib Al Hasan,WU Tharanga,,0,4,4,,,,373523735
+2,Sri Lanka,2,EMDY Munaweera,Shakib Al Hasan,WU Tharanga,,0,0,0,,,,373523735
+2,Sri Lanka,2,EMDY Munaweera,Shakib Al Hasan,WU Tharanga,,0,0,0,caught,EMDY Munaweera,Mahmudullah,373523735
+2,Sri Lanka,2,WU Tharanga,Shakib Al Hasan,CK Kapugedera,wides,1,1,0,,,,373523735
+2,Sri Lanka,2,WU Tharanga,Shakib Al Hasan,CK Kapugedera,,0,0,0,,,,373523735
+2,Sri Lanka,2,WU Tharanga,Shakib Al Hasan,CK Kapugedera,,0,1,1,,,,373523735
+2,Sri Lanka,2,CK Kapugedera,Shakib Al Hasan,WU Tharanga,,0,2,2,,,,373523735
+2,Sri Lanka,3,WU Tharanga,Mehedi Hasan Miraz,CK Kapugedera,,0,4,4,,,,373523735
+2,Sri Lanka,3,WU Tharanga,Mehedi Hasan Miraz,CK Kapugedera,,0,1,1,,,,373523735
+2,Sri Lanka,3,CK Kapugedera,Mehedi Hasan Miraz,WU Tharanga,,0,4,4,,,,373523735
+2,Sri Lanka,3,CK Kapugedera,Mehedi Hasan Miraz,WU Tharanga,,0,1,1,,,,373523735
+2,Sri Lanka,3,WU Tharanga,Mehedi Hasan Miraz,CK Kapugedera,,0,0,0,,,,373523735
+2,Sri Lanka,3,WU Tharanga,Mehedi Hasan Miraz,CK Kapugedera,legbyes,1,1,0,,,,373523735
+2,Sri Lanka,4,WU Tharanga,Mahmudullah,CK Kapugedera,,0,0,0,,,,373523735
+2,Sri Lanka,4,WU Tharanga,Mahmudullah,CK Kapugedera,,0,0,0,,,,373523735
+2,Sri Lanka,4,WU Tharanga,Mahmudullah,CK Kapugedera,,0,2,2,,,,373523735
+2,Sri Lanka,4,WU Tharanga,Mahmudullah,CK Kapugedera,,0,4,4,,,,373523735
+2,Sri Lanka,4,WU Tharanga,Mahmudullah,CK Kapugedera,,0,0,0,caught,WU Tharanga,Mehedi Hasan Miraz,373523735
+2,Sri Lanka,4,CK Kapugedera,Mahmudullah,DAS Gunaratne,,0,0,0,,,,373523735
+2,Sri Lanka,5,DAS Gunaratne,Mustafizur Rahman,CK Kapugedera,,0,0,0,caught,DAS Gunaratne,Mosaddek Hossain,373523735
+2,Sri Lanka,5,TAM Siriwardana,Mustafizur Rahman,CK Kapugedera,,0,0,0,caught,TAM Siriwardana,Soumya Sarkar,373523735
+2,Sri Lanka,5,NLTC Perera,Mustafizur Rahman,CK Kapugedera,,0,0,0,,,,373523735
+2,Sri Lanka,5,NLTC Perera,Mustafizur Rahman,CK Kapugedera,wides,1,1,0,,,,373523735
+2,Sri Lanka,5,NLTC Perera,Mustafizur Rahman,CK Kapugedera,,0,2,2,,,,373523735
+2,Sri Lanka,5,NLTC Perera,Mustafizur Rahman,CK Kapugedera,,0,0,0,,,,373523735
+2,Sri Lanka,5,NLTC Perera,Mustafizur Rahman,CK Kapugedera,,0,4,4,,,,373523735
+2,Sri Lanka,6,CK Kapugedera,Mashrafe Mortaza,NLTC Perera,,0,0,0,,,,373523735
+2,Sri Lanka,6,CK Kapugedera,Mashrafe Mortaza,NLTC Perera,,0,1,1,,,,373523735
+2,Sri Lanka,6,NLTC Perera,Mashrafe Mortaza,CK Kapugedera,,0,0,0,,,,373523735
+2,Sri Lanka,6,NLTC Perera,Mashrafe Mortaza,CK Kapugedera,,0,1,1,,,,373523735
+2,Sri Lanka,6,CK Kapugedera,Mashrafe Mortaza,NLTC Perera,,0,1,1,,,,373523735
+2,Sri Lanka,6,NLTC Perera,Mashrafe Mortaza,CK Kapugedera,,0,4,4,,,,373523735
+2,Sri Lanka,7,CK Kapugedera,Mehedi Hasan Miraz,NLTC Perera,,0,1,1,,,,373523735
+2,Sri Lanka,7,NLTC Perera,Mehedi Hasan Miraz,CK Kapugedera,,0,0,0,,,,373523735
+2,Sri Lanka,7,NLTC Perera,Mehedi Hasan Miraz,CK Kapugedera,,0,1,1,,,,373523735
+2,Sri Lanka,7,CK Kapugedera,Mehedi Hasan Miraz,NLTC Perera,,0,1,1,,,,373523735
+2,Sri Lanka,7,NLTC Perera,Mehedi Hasan Miraz,CK Kapugedera,,0,2,2,,,,373523735
+2,Sri Lanka,7,NLTC Perera,Mehedi Hasan Miraz,CK Kapugedera,,0,0,0,,,,373523735
+2,Sri Lanka,8,CK Kapugedera,Mahmudullah,NLTC Perera,,0,0,0,,,,373523735
+2,Sri Lanka,8,CK Kapugedera,Mahmudullah,NLTC Perera,,0,1,1,,,,373523735
+2,Sri Lanka,8,NLTC Perera,Mahmudullah,CK Kapugedera,,0,1,1,,,,373523735
+2,Sri Lanka,8,CK Kapugedera,Mahmudullah,NLTC Perera,,0,6,6,,,,373523735
+2,Sri Lanka,8,CK Kapugedera,Mahmudullah,NLTC Perera,,0,1,1,,,,373523735
+2,Sri Lanka,8,NLTC Perera,Mahmudullah,CK Kapugedera,,0,0,0,,,,373523735
+2,Sri Lanka,9,CK Kapugedera,Mohammad Saifuddin,NLTC Perera,,0,0,0,,,,373523735
+2,Sri Lanka,9,CK Kapugedera,Mohammad Saifuddin,NLTC Perera,,0,0,0,,,,373523735
+2,Sri Lanka,9,CK Kapugedera,Mohammad Saifuddin,NLTC Perera,,0,1,1,,,,373523735
+2,Sri Lanka,9,NLTC Perera,Mohammad Saifuddin,CK Kapugedera,,0,1,1,,,,373523735
+2,Sri Lanka,9,CK Kapugedera,Mohammad Saifuddin,NLTC Perera,,0,1,1,,,,373523735
+2,Sri Lanka,9,NLTC Perera,Mohammad Saifuddin,CK Kapugedera,,0,1,1,,,,373523735
+2,Sri Lanka,10,NLTC Perera,Mustafizur Rahman,CK Kapugedera,,0,1,1,,,,373523735
+2,Sri Lanka,10,CK Kapugedera,Mustafizur Rahman,NLTC Perera,,0,0,0,,,,373523735
+2,Sri Lanka,10,CK Kapugedera,Mustafizur Rahman,NLTC Perera,,0,4,4,,,,373523735
+2,Sri Lanka,10,CK Kapugedera,Mustafizur Rahman,NLTC Perera,,0,2,2,,,,373523735
+2,Sri Lanka,10,CK Kapugedera,Mustafizur Rahman,NLTC Perera,,0,1,1,,,,373523735
+2,Sri Lanka,10,NLTC Perera,Mustafizur Rahman,CK Kapugedera,,0,1,1,,,,373523735
+2,Sri Lanka,11,NLTC Perera,Mohammad Saifuddin,CK Kapugedera,,0,1,1,,,,373523735
+2,Sri Lanka,11,CK Kapugedera,Mohammad Saifuddin,NLTC Perera,,0,4,4,,,,373523735
+2,Sri Lanka,11,CK Kapugedera,Mohammad Saifuddin,NLTC Perera,,0,2,2,,,,373523735
+2,Sri Lanka,11,CK Kapugedera,Mohammad Saifuddin,NLTC Perera,,0,1,1,,,,373523735
+2,Sri Lanka,11,NLTC Perera,Mohammad Saifuddin,CK Kapugedera,,0,4,4,,,,373523735
+2,Sri Lanka,11,NLTC Perera,Mohammad Saifuddin,CK Kapugedera,,0,1,1,,,,373523735
+2,Sri Lanka,12,NLTC Perera,Shakib Al Hasan,CK Kapugedera,,0,1,1,,,,373523735
+2,Sri Lanka,12,CK Kapugedera,Shakib Al Hasan,NLTC Perera,,0,1,1,,,,373523735
+2,Sri Lanka,12,NLTC Perera,Shakib Al Hasan,CK Kapugedera,,0,1,1,,,,373523735
+2,Sri Lanka,12,CK Kapugedera,Shakib Al Hasan,NLTC Perera,,0,1,1,,,,373523735
+2,Sri Lanka,12,NLTC Perera,Shakib Al Hasan,CK Kapugedera,,0,0,0,stumped,NLTC Perera,Mushfiqur Rahim,373523735
+2,Sri Lanka,12,S Prasanna,Shakib Al Hasan,CK Kapugedera,,0,1,1,,,,373523735
+2,Sri Lanka,13,S Prasanna,Mashrafe Mortaza,CK Kapugedera,,0,0,0,,,,373523735
+2,Sri Lanka,13,S Prasanna,Mashrafe Mortaza,CK Kapugedera,,0,2,2,,,,373523735
+2,Sri Lanka,13,S Prasanna,Mashrafe Mortaza,CK Kapugedera,,0,1,1,,,,373523735
+2,Sri Lanka,13,CK Kapugedera,Mashrafe Mortaza,S Prasanna,,0,1,1,,,,373523735
+2,Sri Lanka,13,S Prasanna,Mashrafe Mortaza,CK Kapugedera,,0,1,1,,,,373523735
+2,Sri Lanka,13,CK Kapugedera,Mashrafe Mortaza,S Prasanna,,0,2,2,,,,373523735
+2,Sri Lanka,14,S Prasanna,Shakib Al Hasan,CK Kapugedera,,0,1,1,,,,373523735
+2,Sri Lanka,14,CK Kapugedera,Shakib Al Hasan,S Prasanna,,0,0,0,,,,373523735
+2,Sri Lanka,14,CK Kapugedera,Shakib Al Hasan,S Prasanna,,0,1,1,,,,373523735
+2,Sri Lanka,14,S Prasanna,Shakib Al Hasan,CK Kapugedera,,0,1,1,,,,373523735
+2,Sri Lanka,14,CK Kapugedera,Shakib Al Hasan,S Prasanna,legbyes,1,1,0,,,,373523735
+2,Sri Lanka,14,S Prasanna,Shakib Al Hasan,CK Kapugedera,,0,1,1,,,,373523735
+2,Sri Lanka,15,S Prasanna,Mashrafe Mortaza,CK Kapugedera,,0,1,1,,,,373523735
+2,Sri Lanka,15,CK Kapugedera,Mashrafe Mortaza,S Prasanna,,0,4,4,,,,373523735
+2,Sri Lanka,15,CK Kapugedera,Mashrafe Mortaza,S Prasanna,,0,1,1,,,,373523735
+2,Sri Lanka,15,S Prasanna,Mashrafe Mortaza,CK Kapugedera,,0,2,2,,,,373523735
+2,Sri Lanka,15,S Prasanna,Mashrafe Mortaza,CK Kapugedera,,0,0,0,bowled,S Prasanna,,373523735
+2,Sri Lanka,15,KMDN Kulasekara,Mashrafe Mortaza,CK Kapugedera,,0,0,0,,,,373523735
+2,Sri Lanka,16,CK Kapugedera,Mustafizur Rahman,KMDN Kulasekara,,0,4,4,,,,373523735
+2,Sri Lanka,16,CK Kapugedera,Mustafizur Rahman,KMDN Kulasekara,,0,0,0,caught,CK Kapugedera,Mehedi Hasan Miraz,373523735
+2,Sri Lanka,16,KMDN Kulasekara,Mustafizur Rahman,SL Malinga,,0,1,1,,,,373523735
+2,Sri Lanka,16,SL Malinga,Mustafizur Rahman,KMDN Kulasekara,,0,0,0,,,,373523735
+2,Sri Lanka,16,SL Malinga,Mustafizur Rahman,KMDN Kulasekara,,0,0,0,,,,373523735
+2,Sri Lanka,16,SL Malinga,Mustafizur Rahman,KMDN Kulasekara,,0,0,0,bowled,SL Malinga,,373523735
+2,Sri Lanka,17,KMDN Kulasekara,Mohammad Saifuddin,JRMVB Sanjaya,,0,0,0,,,,373523735
+2,Sri Lanka,17,KMDN Kulasekara,Mohammad Saifuddin,JRMVB Sanjaya,,0,0,0,,,,373523735
+2,Sri Lanka,17,KMDN Kulasekara,Mohammad Saifuddin,JRMVB Sanjaya,,0,1,1,,,,373523735
+2,Sri Lanka,17,JRMVB Sanjaya,Mohammad Saifuddin,KMDN Kulasekara,,0,4,4,,,,373523735
+2,Sri Lanka,17,JRMVB Sanjaya,Mohammad Saifuddin,KMDN Kulasekara,,0,2,2,,,,373523735
+2,Sri Lanka,17,JRMVB Sanjaya,Mohammad Saifuddin,KMDN Kulasekara,,0,0,0,caught,JRMVB Sanjaya,Mahmudullah,373523735

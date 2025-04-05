@@ -1,0 +1,102 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,New Zealand,0,C Munro,SL Malinga,TL Seifert,,0,0,0,,,,31198231198
+2,New Zealand,0,C Munro,SL Malinga,TL Seifert,,0,1,1,,,,31198231198
+2,New Zealand,0,TL Seifert,SL Malinga,C Munro,,0,0,0,,,,31198231198
+2,New Zealand,0,TL Seifert,SL Malinga,C Munro,,0,1,1,,,,31198231198
+2,New Zealand,0,C Munro,SL Malinga,TL Seifert,,0,0,0,,,,31198231198
+2,New Zealand,0,C Munro,SL Malinga,TL Seifert,legbyes,1,1,0,,,,31198231198
+2,New Zealand,1,C Munro,A Dananjaya,TL Seifert,,0,0,0,,,,31198231198
+2,New Zealand,1,C Munro,A Dananjaya,TL Seifert,,0,6,6,,,,31198231198
+2,New Zealand,1,C Munro,A Dananjaya,TL Seifert,wides,1,1,0,,,,31198231198
+2,New Zealand,1,C Munro,A Dananjaya,TL Seifert,,0,0,0,,,,31198231198
+2,New Zealand,1,C Munro,A Dananjaya,TL Seifert,,0,4,4,,,,31198231198
+2,New Zealand,1,C Munro,A Dananjaya,TL Seifert,,0,1,1,,,,31198231198
+2,New Zealand,1,TL Seifert,A Dananjaya,C Munro,,0,0,0,,,,31198231198
+2,New Zealand,2,C Munro,SL Malinga,TL Seifert,,0,0,0,,,,31198231198
+2,New Zealand,2,C Munro,SL Malinga,TL Seifert,,0,0,0,,,,31198231198
+2,New Zealand,2,C Munro,SL Malinga,TL Seifert,,0,0,0,bowled,C Munro,,31198231198
+2,New Zealand,2,HD Rutherford,SL Malinga,TL Seifert,,0,0,0,lbw,HD Rutherford,,31198231198
+2,New Zealand,2,C de Grandhomme,SL Malinga,TL Seifert,,0,0,0,bowled,C de Grandhomme,,31198231198
+2,New Zealand,2,LRPL Taylor,SL Malinga,TL Seifert,,0,0,0,lbw,LRPL Taylor,,31198231198
+2,New Zealand,3,TL Seifert,A Dananjaya,DJ Mitchell,,0,0,0,,,,31198231198
+2,New Zealand,3,TL Seifert,A Dananjaya,DJ Mitchell,,0,0,0,,,,31198231198
+2,New Zealand,3,TL Seifert,A Dananjaya,DJ Mitchell,,0,2,2,,,,31198231198
+2,New Zealand,3,TL Seifert,A Dananjaya,DJ Mitchell,,0,0,0,,,,31198231198
+2,New Zealand,3,TL Seifert,A Dananjaya,DJ Mitchell,,0,4,4,,,,31198231198
+2,New Zealand,3,TL Seifert,A Dananjaya,DJ Mitchell,,0,1,1,,,,31198231198
+2,New Zealand,4,TL Seifert,SL Malinga,DJ Mitchell,,0,0,0,,,,31198231198
+2,New Zealand,4,TL Seifert,SL Malinga,DJ Mitchell,,0,0,0,,,,31198231198
+2,New Zealand,4,TL Seifert,SL Malinga,DJ Mitchell,wides,1,1,0,,,,31198231198
+2,New Zealand,4,TL Seifert,SL Malinga,DJ Mitchell,,0,0,0,,,,31198231198
+2,New Zealand,4,TL Seifert,SL Malinga,DJ Mitchell,,0,0,0,caught,TL Seifert,MD Gunathilaka,31198231198
+2,New Zealand,4,MJ Santner,SL Malinga,DJ Mitchell,,0,2,2,,,,31198231198
+2,New Zealand,4,MJ Santner,SL Malinga,DJ Mitchell,,0,0,0,,,,31198231198
+2,New Zealand,5,DJ Mitchell,A Dananjaya,MJ Santner,,0,1,1,,,,31198231198
+2,New Zealand,5,MJ Santner,A Dananjaya,DJ Mitchell,,0,4,4,,,,31198231198
+2,New Zealand,5,MJ Santner,A Dananjaya,DJ Mitchell,,0,0,0,,,,31198231198
+2,New Zealand,5,MJ Santner,A Dananjaya,DJ Mitchell,,0,0,0,,,,31198231198
+2,New Zealand,5,MJ Santner,A Dananjaya,DJ Mitchell,,0,1,1,,,,31198231198
+2,New Zealand,5,DJ Mitchell,A Dananjaya,MJ Santner,,0,0,0,,,,31198231198
+2,New Zealand,6,MJ Santner,PADLR Sandakan,DJ Mitchell,,0,1,1,,,,31198231198
+2,New Zealand,6,DJ Mitchell,PADLR Sandakan,MJ Santner,,0,1,1,,,,31198231198
+2,New Zealand,6,MJ Santner,PADLR Sandakan,DJ Mitchell,,0,1,1,,,,31198231198
+2,New Zealand,6,DJ Mitchell,PADLR Sandakan,MJ Santner,,0,1,1,,,,31198231198
+2,New Zealand,6,MJ Santner,PADLR Sandakan,DJ Mitchell,wides,1,1,0,,,,31198231198
+2,New Zealand,6,MJ Santner,PADLR Sandakan,DJ Mitchell,,0,0,0,,,,31198231198
+2,New Zealand,6,MJ Santner,PADLR Sandakan,DJ Mitchell,,0,2,2,,,,31198231198
+2,New Zealand,7,DJ Mitchell,MD Gunathilaka,MJ Santner,,0,1,1,,,,31198231198
+2,New Zealand,7,MJ Santner,MD Gunathilaka,DJ Mitchell,,0,0,0,,,,31198231198
+2,New Zealand,7,MJ Santner,MD Gunathilaka,DJ Mitchell,,0,2,2,,,,31198231198
+2,New Zealand,7,MJ Santner,MD Gunathilaka,DJ Mitchell,,0,2,2,,,,31198231198
+2,New Zealand,7,MJ Santner,MD Gunathilaka,DJ Mitchell,,0,1,1,,,,31198231198
+2,New Zealand,7,DJ Mitchell,MD Gunathilaka,MJ Santner,,0,1,1,,,,31198231198
+2,New Zealand,8,DJ Mitchell,A Dananjaya,MJ Santner,,0,1,1,run out,DJ Mitchell,,31198231198
+2,New Zealand,8,SC Kuggeleijn,A Dananjaya,MJ Santner,,0,0,0,bowled,SC Kuggeleijn,,31198231198
+2,New Zealand,8,TG Southee,A Dananjaya,MJ Santner,,0,1,1,,,,31198231198
+2,New Zealand,8,MJ Santner,A Dananjaya,TG Southee,,0,0,0,stumped,MJ Santner,MDKJ Perera,31198231198
+2,New Zealand,8,TD Astle,A Dananjaya,TG Southee,,0,1,1,,,,31198231198
+2,New Zealand,8,TG Southee,A Dananjaya,TD Astle,legbyes,1,1,0,,,,31198231198
+2,New Zealand,9,TG Southee,PWH de Silva,TD Astle,,0,0,0,,,,31198231198
+2,New Zealand,9,TG Southee,PWH de Silva,TD Astle,,0,1,1,,,,31198231198
+2,New Zealand,9,TD Astle,PWH de Silva,TG Southee,,0,0,0,,,,31198231198
+2,New Zealand,9,TD Astle,PWH de Silva,TG Southee,,0,2,2,,,,31198231198
+2,New Zealand,9,TD Astle,PWH de Silva,TG Southee,,0,0,0,,,,31198231198
+2,New Zealand,9,TD Astle,PWH de Silva,TG Southee,,0,0,0,lbw,TD Astle,,31198231198
+2,New Zealand,10,TG Southee,PADLR Sandakan,SHA Rance,,0,2,2,,,,31198231198
+2,New Zealand,10,TG Southee,PADLR Sandakan,SHA Rance,,0,1,1,,,,31198231198
+2,New Zealand,10,SHA Rance,PADLR Sandakan,TG Southee,,0,0,0,,,,31198231198
+2,New Zealand,10,SHA Rance,PADLR Sandakan,TG Southee,,0,1,1,,,,31198231198
+2,New Zealand,10,TG Southee,PADLR Sandakan,SHA Rance,,0,0,0,,,,31198231198
+2,New Zealand,10,TG Southee,PADLR Sandakan,SHA Rance,,0,1,1,,,,31198231198
+2,New Zealand,11,TG Southee,PWH de Silva,SHA Rance,,0,0,0,,,,31198231198
+2,New Zealand,11,TG Southee,PWH de Silva,SHA Rance,,0,0,0,,,,31198231198
+2,New Zealand,11,TG Southee,PWH de Silva,SHA Rance,,0,1,1,,,,31198231198
+2,New Zealand,11,SHA Rance,PWH de Silva,TG Southee,,0,0,0,,,,31198231198
+2,New Zealand,11,SHA Rance,PWH de Silva,TG Southee,,0,3,3,,,,31198231198
+2,New Zealand,11,TG Southee,PWH de Silva,SHA Rance,,0,1,1,,,,31198231198
+2,New Zealand,12,TG Southee,PADLR Sandakan,SHA Rance,,0,6,6,,,,31198231198
+2,New Zealand,12,TG Southee,PADLR Sandakan,SHA Rance,wides,1,1,0,,,,31198231198
+2,New Zealand,12,TG Southee,PADLR Sandakan,SHA Rance,wides,1,1,0,,,,31198231198
+2,New Zealand,12,TG Southee,PADLR Sandakan,SHA Rance,,0,6,6,,,,31198231198
+2,New Zealand,12,TG Southee,PADLR Sandakan,SHA Rance,,0,0,0,,,,31198231198
+2,New Zealand,12,TG Southee,PADLR Sandakan,SHA Rance,,0,6,6,,,,31198231198
+2,New Zealand,12,TG Southee,PADLR Sandakan,SHA Rance,,0,0,0,,,,31198231198
+2,New Zealand,12,TG Southee,PADLR Sandakan,SHA Rance,,0,0,0,,,,31198231198
+2,New Zealand,13,SHA Rance,SL Malinga,TG Southee,,0,0,0,,,,31198231198
+2,New Zealand,13,SHA Rance,SL Malinga,TG Southee,,0,0,0,,,,31198231198
+2,New Zealand,13,SHA Rance,SL Malinga,TG Southee,,0,0,0,,,,31198231198
+2,New Zealand,13,SHA Rance,SL Malinga,TG Southee,,0,0,0,,,,31198231198
+2,New Zealand,13,SHA Rance,SL Malinga,TG Southee,,0,1,1,,,,31198231198
+2,New Zealand,13,TG Southee,SL Malinga,SHA Rance,,0,0,0,,,,31198231198
+2,New Zealand,14,SHA Rance,PWH de Silva,TG Southee,,0,0,0,,,,31198231198
+2,New Zealand,14,SHA Rance,PWH de Silva,TG Southee,,0,0,0,,,,31198231198
+2,New Zealand,14,SHA Rance,PWH de Silva,TG Southee,,0,2,2,,,,31198231198
+2,New Zealand,14,SHA Rance,PWH de Silva,TG Southee,,0,1,1,,,,31198231198
+2,New Zealand,14,TG Southee,PWH de Silva,SHA Rance,,0,1,1,,,,31198231198
+2,New Zealand,14,SHA Rance,PWH de Silva,TG Southee,,0,0,0,,,,31198231198
+2,New Zealand,15,TG Southee,PADLR Sandakan,SHA Rance,,0,0,0,,,,31198231198
+2,New Zealand,15,TG Southee,PADLR Sandakan,SHA Rance,,0,0,0,,,,31198231198
+2,New Zealand,15,TG Southee,PADLR Sandakan,SHA Rance,,0,1,1,,,,31198231198
+2,New Zealand,15,SHA Rance,PADLR Sandakan,TG Southee,,0,0,0,,,,31198231198
+2,New Zealand,15,SHA Rance,PADLR Sandakan,TG Southee,,0,0,0,,,,31198231198
+2,New Zealand,15,SHA Rance,PADLR Sandakan,TG Southee,,0,0,0,lbw,SHA Rance,,31198231198

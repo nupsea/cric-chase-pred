@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,England,0,JJ Roy,SL Malinga,JC Buttler,,0,0,0,,,,382123821
+1,England,0,JJ Roy,SL Malinga,JC Buttler,,0,6,6,,,,382123821
+1,England,0,JJ Roy,SL Malinga,JC Buttler,,0,0,0,,,,382123821
+1,England,0,JJ Roy,SL Malinga,JC Buttler,wides,1,1,0,,,,382123821
+1,England,0,JJ Roy,SL Malinga,JC Buttler,,0,4,4,,,,382123821
+1,England,0,JJ Roy,SL Malinga,JC Buttler,,0,1,1,,,,382123821
+1,England,0,JC Buttler,SL Malinga,JJ Roy,,0,4,4,,,,382123821
+1,England,1,JJ Roy,MA Aponso,JC Buttler,,0,4,4,,,,382123821
+1,England,1,JJ Roy,MA Aponso,JC Buttler,,0,4,4,,,,382123821
+1,England,1,JJ Roy,MA Aponso,JC Buttler,,0,1,1,,,,382123821
+1,England,1,JC Buttler,MA Aponso,JJ Roy,,0,0,0,,,,382123821
+1,England,1,JC Buttler,MA Aponso,JJ Roy,,0,4,4,,,,382123821
+1,England,1,JC Buttler,MA Aponso,JJ Roy,,0,0,0,,,,382123821
+1,England,2,JJ Roy,I Udana,JC Buttler,,0,1,1,,,,382123821
+1,England,2,JC Buttler,I Udana,JJ Roy,,0,1,1,,,,382123821
+1,England,2,JJ Roy,I Udana,JC Buttler,,0,0,0,,,,382123821
+1,England,2,JJ Roy,I Udana,JC Buttler,,0,6,6,,,,382123821
+1,England,2,JJ Roy,I Udana,JC Buttler,,0,0,0,,,,382123821
+1,England,2,JJ Roy,I Udana,JC Buttler,,0,0,0,,,,382123821
+1,England,3,JC Buttler,MA Aponso,JJ Roy,,0,4,4,,,,382123821
+1,England,3,JC Buttler,MA Aponso,JJ Roy,,0,0,0,caught,JC Buttler,LD Chandimal,382123821
+1,England,3,AD Hales,MA Aponso,JJ Roy,,0,4,4,,,,382123821
+1,England,3,AD Hales,MA Aponso,JJ Roy,,0,0,0,,,,382123821
+1,England,3,AD Hales,MA Aponso,JJ Roy,,0,0,0,lbw,AD Hales,,382123821
+1,England,3,EJG Morgan,MA Aponso,JJ Roy,,0,1,1,,,,382123821
+1,England,4,EJG Morgan,SL Malinga,JJ Roy,,0,1,1,,,,382123821
+1,England,4,JJ Roy,SL Malinga,EJG Morgan,,0,1,1,,,,382123821
+1,England,4,EJG Morgan,SL Malinga,JJ Roy,,0,0,0,,,,382123821
+1,England,4,EJG Morgan,SL Malinga,JJ Roy,,0,0,0,,,,382123821
+1,England,4,EJG Morgan,SL Malinga,JJ Roy,,0,4,4,,,,382123821
+1,England,4,EJG Morgan,SL Malinga,JJ Roy,,0,0,0,,,,382123821
+1,England,5,JJ Roy,MA Aponso,EJG Morgan,,0,0,0,,,,382123821
+1,England,5,JJ Roy,MA Aponso,EJG Morgan,,0,1,1,,,,382123821
+1,England,5,EJG Morgan,MA Aponso,JJ Roy,,0,4,4,,,,382123821
+1,England,5,EJG Morgan,MA Aponso,JJ Roy,,0,1,1,,,,382123821
+1,England,5,JJ Roy,MA Aponso,EJG Morgan,,0,1,1,,,,382123821
+1,England,5,EJG Morgan,MA Aponso,JJ Roy,,0,0,0,,,,382123821
+1,England,6,JJ Roy,PADLR Sandakan,EJG Morgan,,0,1,1,,,,382123821
+1,England,6,EJG Morgan,PADLR Sandakan,JJ Roy,,0,0,0,run out,EJG Morgan,,382123821
+1,England,6,JJ Roy,PADLR Sandakan,BA Stokes,,0,0,0,,,,382123821
+1,England,6,JJ Roy,PADLR Sandakan,BA Stokes,wides,1,1,0,,,,382123821
+1,England,6,JJ Roy,PADLR Sandakan,BA Stokes,,0,0,0,,,,382123821
+1,England,6,JJ Roy,PADLR Sandakan,BA Stokes,,0,1,1,,,,382123821
+1,England,6,BA Stokes,PADLR Sandakan,JJ Roy,,0,0,0,,,,382123821
+1,England,7,JJ Roy,PHKD Mendis,BA Stokes,,0,1,1,,,,382123821
+1,England,7,BA Stokes,PHKD Mendis,JJ Roy,,0,0,0,,,,382123821
+1,England,7,BA Stokes,PHKD Mendis,JJ Roy,,0,1,1,,,,382123821
+1,England,7,JJ Roy,PHKD Mendis,BA Stokes,,0,1,1,,,,382123821
+1,England,7,BA Stokes,PHKD Mendis,JJ Roy,,0,0,0,,,,382123821
+1,England,7,BA Stokes,PHKD Mendis,JJ Roy,,0,0,0,,,,382123821
+1,England,8,JJ Roy,PADLR Sandakan,BA Stokes,,0,0,0,,,,382123821
+1,England,8,JJ Roy,PADLR Sandakan,BA Stokes,,0,1,1,,,,382123821
+1,England,8,BA Stokes,PADLR Sandakan,JJ Roy,,0,1,1,,,,382123821
+1,England,8,JJ Roy,PADLR Sandakan,BA Stokes,,0,6,6,,,,382123821
+1,England,8,JJ Roy,PADLR Sandakan,BA Stokes,,0,1,1,,,,382123821
+1,England,8,BA Stokes,PADLR Sandakan,JJ Roy,,0,0,0,,,,382123821
+1,England,9,JJ Roy,PHKD Mendis,BA Stokes,,0,4,4,,,,382123821
+1,England,9,JJ Roy,PHKD Mendis,BA Stokes,,0,1,1,,,,382123821
+1,England,9,BA Stokes,PHKD Mendis,JJ Roy,,0,1,1,,,,382123821
+1,England,9,JJ Roy,PHKD Mendis,BA Stokes,,0,6,6,,,,382123821
+1,England,9,JJ Roy,PHKD Mendis,BA Stokes,,0,2,2,,,,382123821
+1,England,9,JJ Roy,PHKD Mendis,BA Stokes,,0,1,1,,,,382123821
+1,England,10,JJ Roy,PADLR Sandakan,BA Stokes,,0,1,1,,,,382123821
+1,England,10,BA Stokes,PADLR Sandakan,JJ Roy,,0,4,4,,,,382123821
+1,England,10,BA Stokes,PADLR Sandakan,JJ Roy,legbyes,1,1,0,,,,382123821
+1,England,10,JJ Roy,PADLR Sandakan,BA Stokes,,0,6,6,,,,382123821
+1,England,10,JJ Roy,PADLR Sandakan,BA Stokes,,0,6,6,,,,382123821
+1,England,10,JJ Roy,PADLR Sandakan,BA Stokes,,0,0,0,caught,JJ Roy,N Dickwella,382123821
+1,England,11,BA Stokes,PHKD Mendis,MM Ali,,0,0,0,,,,382123821
+1,England,11,BA Stokes,PHKD Mendis,MM Ali,,0,6,6,,,,382123821
+1,England,11,BA Stokes,PHKD Mendis,MM Ali,,0,0,0,,,,382123821
+1,England,11,BA Stokes,PHKD Mendis,MM Ali,,0,1,1,,,,382123821
+1,England,11,MM Ali,PHKD Mendis,BA Stokes,,0,1,1,,,,382123821
+1,England,11,BA Stokes,PHKD Mendis,MM Ali,,0,1,1,,,,382123821
+1,England,12,BA Stokes,PADLR Sandakan,MM Ali,,0,1,1,,,,382123821
+1,England,12,MM Ali,PADLR Sandakan,BA Stokes,,0,0,0,,,,382123821
+1,England,12,MM Ali,PADLR Sandakan,BA Stokes,,0,6,6,,,,382123821
+1,England,12,MM Ali,PADLR Sandakan,BA Stokes,,0,1,1,,,,382123821
+1,England,12,BA Stokes,PADLR Sandakan,MM Ali,,0,1,1,,,,382123821
+1,England,12,MM Ali,PADLR Sandakan,BA Stokes,,0,1,1,,,,382123821
+1,England,13,MM Ali,NLTC Perera,BA Stokes,,0,1,1,,,,382123821
+1,England,13,BA Stokes,NLTC Perera,MM Ali,,0,0,0,,,,382123821
+1,England,13,BA Stokes,NLTC Perera,MM Ali,,0,1,1,,,,382123821
+1,England,13,MM Ali,NLTC Perera,BA Stokes,,0,6,6,,,,382123821
+1,England,13,MM Ali,NLTC Perera,BA Stokes,,0,6,6,,,,382123821
+1,England,13,MM Ali,NLTC Perera,BA Stokes,,0,1,1,,,,382123821
+1,England,14,MM Ali,DM de Silva,BA Stokes,,0,4,4,,,,382123821
+1,England,14,MM Ali,DM de Silva,BA Stokes,,0,0,0,bowled,MM Ali,,382123821
+1,England,14,JL Denly,DM de Silva,BA Stokes,,0,1,1,,,,382123821
+1,England,14,BA Stokes,DM de Silva,JL Denly,,0,1,1,,,,382123821
+1,England,14,JL Denly,DM de Silva,BA Stokes,,0,1,1,,,,382123821
+1,England,14,BA Stokes,DM de Silva,JL Denly,,0,2,2,,,,382123821
+1,England,15,JL Denly,SL Malinga,BA Stokes,,0,0,0,,,,382123821
+1,England,15,JL Denly,SL Malinga,BA Stokes,,0,0,0,,,,382123821
+1,England,15,JL Denly,SL Malinga,BA Stokes,,0,0,0,,,,382123821
+1,England,15,JL Denly,SL Malinga,BA Stokes,,0,0,0,,,,382123821
+1,England,15,JL Denly,SL Malinga,BA Stokes,,0,1,1,,,,382123821
+1,England,15,BA Stokes,SL Malinga,JL Denly,,0,1,1,,,,382123821
+1,England,16,BA Stokes,DM de Silva,JL Denly,,0,1,1,,,,382123821
+1,England,16,JL Denly,DM de Silva,BA Stokes,,0,0,0,,,,382123821
+1,England,16,JL Denly,DM de Silva,BA Stokes,,0,4,4,,,,382123821
+1,England,16,JL Denly,DM de Silva,BA Stokes,,0,4,4,,,,382123821
+1,England,16,JL Denly,DM de Silva,BA Stokes,,0,0,0,,,,382123821
+1,England,16,JL Denly,DM de Silva,BA Stokes,,0,4,4,,,,382123821
+1,England,17,BA Stokes,I Udana,JL Denly,,0,1,1,,,,382123821
+1,England,17,JL Denly,I Udana,BA Stokes,,0,1,1,,,,382123821
+1,England,17,BA Stokes,I Udana,JL Denly,,0,1,1,,,,382123821
+1,England,17,JL Denly,I Udana,BA Stokes,,0,1,1,,,,382123821
+1,England,17,BA Stokes,I Udana,JL Denly,,0,1,1,,,,382123821
+1,England,17,JL Denly,I Udana,BA Stokes,,0,1,1,,,,382123821
+1,England,18,JL Denly,SL Malinga,BA Stokes,,0,2,2,,,,382123821
+1,England,18,JL Denly,SL Malinga,BA Stokes,,0,0,0,caught,JL Denly,BKG Mendis,382123821
+1,England,18,BA Stokes,SL Malinga,AU Rashid,,0,0,0,bowled,BA Stokes,,382123821
+1,England,18,LE Plunkett,SL Malinga,AU Rashid,,0,0,0,,,,382123821
+1,England,18,LE Plunkett,SL Malinga,AU Rashid,,0,4,4,,,,382123821
+1,England,18,LE Plunkett,SL Malinga,AU Rashid,,0,0,0,,,,382123821
+1,England,19,AU Rashid,I Udana,LE Plunkett,,0,4,4,,,,382123821
+1,England,19,AU Rashid,I Udana,LE Plunkett,,0,1,1,,,,382123821
+1,England,19,LE Plunkett,I Udana,AU Rashid,,0,2,2,,,,382123821
+1,England,19,LE Plunkett,I Udana,AU Rashid,,0,1,1,,,,382123821
+1,England,19,AU Rashid,I Udana,LE Plunkett,,0,0,0,bowled,AU Rashid,,382123821
+1,England,19,CJ Jordan,I Udana,LE Plunkett,,0,2,2,,,,382123821

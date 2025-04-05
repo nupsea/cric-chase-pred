@@ -1,0 +1,132 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,West Indies,0,CH Gayle,RE van der Merwe,ADS Fletcher,,0,0,0,,,,315623156
+2,West Indies,0,CH Gayle,RE van der Merwe,ADS Fletcher,,0,2,2,,,,315623156
+2,West Indies,0,CH Gayle,RE van der Merwe,ADS Fletcher,wides,1,1,0,,,,315623156
+2,West Indies,0,CH Gayle,RE van der Merwe,ADS Fletcher,,0,0,0,,,,315623156
+2,West Indies,0,CH Gayle,RE van der Merwe,ADS Fletcher,,0,4,4,,,,315623156
+2,West Indies,0,CH Gayle,RE van der Merwe,ADS Fletcher,,0,4,4,,,,315623156
+2,West Indies,0,CH Gayle,RE van der Merwe,ADS Fletcher,,0,1,1,,,,315623156
+2,West Indies,1,CH Gayle,DW Steyn,ADS Fletcher,,0,0,0,,,,315623156
+2,West Indies,1,CH Gayle,DW Steyn,ADS Fletcher,,0,0,0,,,,315623156
+2,West Indies,1,CH Gayle,DW Steyn,ADS Fletcher,,0,0,0,,,,315623156
+2,West Indies,1,CH Gayle,DW Steyn,ADS Fletcher,,0,2,2,,,,315623156
+2,West Indies,1,CH Gayle,DW Steyn,ADS Fletcher,,0,0,0,,,,315623156
+2,West Indies,1,CH Gayle,DW Steyn,ADS Fletcher,,0,0,0,,,,315623156
+2,West Indies,2,ADS Fletcher,R McLaren,CH Gayle,,0,0,0,,,,315623156
+2,West Indies,2,ADS Fletcher,R McLaren,CH Gayle,,0,0,0,,,,315623156
+2,West Indies,2,ADS Fletcher,R McLaren,CH Gayle,,0,0,0,caught,ADS Fletcher,AB de Villiers,315623156
+2,West Indies,2,DJ Bravo,R McLaren,CH Gayle,,0,0,0,,,,315623156
+2,West Indies,2,DJ Bravo,R McLaren,CH Gayle,,0,1,1,,,,315623156
+2,West Indies,2,CH Gayle,R McLaren,DJ Bravo,,0,0,0,,,,315623156
+2,West Indies,3,DJ Bravo,CK Langeveldt,CH Gayle,,0,0,0,,,,315623156
+2,West Indies,3,DJ Bravo,CK Langeveldt,CH Gayle,,0,0,0,,,,315623156
+2,West Indies,3,DJ Bravo,CK Langeveldt,CH Gayle,,0,4,4,,,,315623156
+2,West Indies,3,DJ Bravo,CK Langeveldt,CH Gayle,,0,4,4,,,,315623156
+2,West Indies,3,DJ Bravo,CK Langeveldt,CH Gayle,,0,1,1,,,,315623156
+2,West Indies,3,CH Gayle,CK Langeveldt,DJ Bravo,,0,0,0,,,,315623156
+2,West Indies,4,DJ Bravo,DW Steyn,CH Gayle,,0,2,2,,,,315623156
+2,West Indies,4,DJ Bravo,DW Steyn,CH Gayle,,0,0,0,,,,315623156
+2,West Indies,4,DJ Bravo,DW Steyn,CH Gayle,,0,1,1,,,,315623156
+2,West Indies,4,CH Gayle,DW Steyn,DJ Bravo,,0,1,1,,,,315623156
+2,West Indies,4,DJ Bravo,DW Steyn,CH Gayle,,0,0,0,,,,315623156
+2,West Indies,4,DJ Bravo,DW Steyn,CH Gayle,,0,0,0,,,,315623156
+2,West Indies,5,CH Gayle,R McLaren,DJ Bravo,,0,0,0,caught,CH Gayle,GC Smith,315623156
+2,West Indies,5,RR Sarwan,R McLaren,DJ Bravo,,0,0,0,,,,315623156
+2,West Indies,5,RR Sarwan,R McLaren,DJ Bravo,,0,0,0,,,,315623156
+2,West Indies,5,RR Sarwan,R McLaren,DJ Bravo,wides,1,1,0,,,,315623156
+2,West Indies,5,RR Sarwan,R McLaren,DJ Bravo,,0,0,0,,,,315623156
+2,West Indies,5,RR Sarwan,R McLaren,DJ Bravo,,0,1,1,,,,315623156
+2,West Indies,5,DJ Bravo,R McLaren,RR Sarwan,,0,1,1,,,,315623156
+2,West Indies,6,DJ Bravo,JH Kallis,RR Sarwan,,0,1,1,,,,315623156
+2,West Indies,6,RR Sarwan,JH Kallis,DJ Bravo,,0,0,0,,,,315623156
+2,West Indies,6,RR Sarwan,JH Kallis,DJ Bravo,,0,1,1,,,,315623156
+2,West Indies,6,DJ Bravo,JH Kallis,RR Sarwan,,0,1,1,,,,315623156
+2,West Indies,6,RR Sarwan,JH Kallis,DJ Bravo,,0,0,0,,,,315623156
+2,West Indies,6,RR Sarwan,JH Kallis,DJ Bravo,,0,1,1,,,,315623156
+2,West Indies,7,RR Sarwan,J Botha,DJ Bravo,,0,1,1,,,,315623156
+2,West Indies,7,DJ Bravo,J Botha,RR Sarwan,,0,0,0,,,,315623156
+2,West Indies,7,DJ Bravo,J Botha,RR Sarwan,,0,0,0,,,,315623156
+2,West Indies,7,DJ Bravo,J Botha,RR Sarwan,,0,1,1,,,,315623156
+2,West Indies,7,RR Sarwan,J Botha,DJ Bravo,,0,1,1,,,,315623156
+2,West Indies,7,DJ Bravo,J Botha,RR Sarwan,,0,0,0,,,,315623156
+2,West Indies,8,RR Sarwan,JH Kallis,DJ Bravo,,0,4,4,,,,315623156
+2,West Indies,8,RR Sarwan,JH Kallis,DJ Bravo,,0,0,0,,,,315623156
+2,West Indies,8,RR Sarwan,JH Kallis,DJ Bravo,,0,1,1,,,,315623156
+2,West Indies,8,DJ Bravo,JH Kallis,RR Sarwan,,0,1,1,,,,315623156
+2,West Indies,8,RR Sarwan,JH Kallis,DJ Bravo,,0,1,1,,,,315623156
+2,West Indies,8,DJ Bravo,JH Kallis,RR Sarwan,,0,2,2,,,,315623156
+2,West Indies,9,RR Sarwan,J Botha,DJ Bravo,,0,0,0,,,,315623156
+2,West Indies,9,RR Sarwan,J Botha,DJ Bravo,,0,1,1,,,,315623156
+2,West Indies,9,DJ Bravo,J Botha,RR Sarwan,,0,0,0,caught,DJ Bravo,HM Amla,315623156
+2,West Indies,9,RR Sarwan,J Botha,N Deonarine,,0,0,0,,,,315623156
+2,West Indies,9,RR Sarwan,J Botha,N Deonarine,,0,1,1,,,,315623156
+2,West Indies,9,N Deonarine,J Botha,RR Sarwan,wides,1,1,0,stumped,N Deonarine,AB de Villiers,315623156
+2,West Indies,9,KA Pollard,J Botha,RR Sarwan,,0,1,1,,,,315623156
+2,West Indies,10,KA Pollard,RE van der Merwe,RR Sarwan,,0,0,0,,,,315623156
+2,West Indies,10,KA Pollard,RE van der Merwe,RR Sarwan,,0,1,1,,,,315623156
+2,West Indies,10,RR Sarwan,RE van der Merwe,KA Pollard,,0,0,0,,,,315623156
+2,West Indies,10,RR Sarwan,RE van der Merwe,KA Pollard,,0,0,0,caught,RR Sarwan,AN Petersen,315623156
+2,West Indies,10,DJG Sammy,RE van der Merwe,KA Pollard,,0,1,1,,,,315623156
+2,West Indies,10,KA Pollard,RE van der Merwe,DJG Sammy,,0,2,2,,,,315623156
+2,West Indies,11,DJG Sammy,J Botha,KA Pollard,,0,0,0,,,,315623156
+2,West Indies,11,DJG Sammy,J Botha,KA Pollard,,0,1,1,,,,315623156
+2,West Indies,11,KA Pollard,J Botha,DJG Sammy,,0,1,1,,,,315623156
+2,West Indies,11,DJG Sammy,J Botha,KA Pollard,,0,0,0,,,,315623156
+2,West Indies,11,DJG Sammy,J Botha,KA Pollard,,0,0,0,,,,315623156
+2,West Indies,11,DJG Sammy,J Botha,KA Pollard,,0,0,0,,,,315623156
+2,West Indies,12,KA Pollard,RE van der Merwe,DJG Sammy,legbyes,1,1,0,,,,315623156
+2,West Indies,12,DJG Sammy,RE van der Merwe,KA Pollard,,0,0,0,,,,315623156
+2,West Indies,12,DJG Sammy,RE van der Merwe,KA Pollard,,0,0,0,,,,315623156
+2,West Indies,12,DJG Sammy,RE van der Merwe,KA Pollard,,0,0,0,,,,315623156
+2,West Indies,12,DJG Sammy,RE van der Merwe,KA Pollard,,0,0,0,,,,315623156
+2,West Indies,12,DJG Sammy,RE van der Merwe,KA Pollard,,0,1,1,,,,315623156
+2,West Indies,13,DJG Sammy,J Botha,KA Pollard,,0,1,1,,,,315623156
+2,West Indies,13,KA Pollard,J Botha,DJG Sammy,,0,1,1,,,,315623156
+2,West Indies,13,DJG Sammy,J Botha,KA Pollard,,0,1,1,,,,315623156
+2,West Indies,13,KA Pollard,J Botha,DJG Sammy,,0,2,2,,,,315623156
+2,West Indies,13,KA Pollard,J Botha,DJG Sammy,,0,1,1,,,,315623156
+2,West Indies,13,DJG Sammy,J Botha,KA Pollard,,0,4,4,,,,315623156
+2,West Indies,14,KA Pollard,CK Langeveldt,DJG Sammy,,0,0,0,,,,315623156
+2,West Indies,14,KA Pollard,CK Langeveldt,DJG Sammy,,0,0,0,,,,315623156
+2,West Indies,14,KA Pollard,CK Langeveldt,DJG Sammy,,0,4,4,,,,315623156
+2,West Indies,14,KA Pollard,CK Langeveldt,DJG Sammy,,0,2,2,,,,315623156
+2,West Indies,14,KA Pollard,CK Langeveldt,DJG Sammy,,0,4,4,,,,315623156
+2,West Indies,14,KA Pollard,CK Langeveldt,DJG Sammy,,0,2,2,,,,315623156
+2,West Indies,15,DJG Sammy,R McLaren,KA Pollard,,0,0,0,,,,315623156
+2,West Indies,15,DJG Sammy,R McLaren,KA Pollard,,0,1,1,,,,315623156
+2,West Indies,15,KA Pollard,R McLaren,DJG Sammy,,0,6,6,,,,315623156
+2,West Indies,15,KA Pollard,R McLaren,DJG Sammy,,0,0,0,bowled,KA Pollard,,315623156
+2,West Indies,15,NO Miller,R McLaren,DJG Sammy,,0,0,0,,,,315623156
+2,West Indies,15,NO Miller,R McLaren,DJG Sammy,,0,2,2,,,,315623156
+2,West Indies,16,DJG Sammy,DW Steyn,NO Miller,,0,2,2,,,,315623156
+2,West Indies,16,DJG Sammy,DW Steyn,NO Miller,wides,1,1,0,,,,315623156
+2,West Indies,16,DJG Sammy,DW Steyn,NO Miller,wides,1,1,0,,,,315623156
+2,West Indies,16,DJG Sammy,DW Steyn,NO Miller,,0,0,0,,,,315623156
+2,West Indies,16,DJG Sammy,DW Steyn,NO Miller,,0,0,0,,,,315623156
+2,West Indies,16,DJG Sammy,DW Steyn,NO Miller,wides,1,1,0,,,,315623156
+2,West Indies,16,DJG Sammy,DW Steyn,NO Miller,,0,1,1,,,,315623156
+2,West Indies,16,NO Miller,DW Steyn,DJG Sammy,,0,1,1,,,,315623156
+2,West Indies,16,DJG Sammy,DW Steyn,NO Miller,,0,0,0,,,,315623156
+2,West Indies,17,NO Miller,CK Langeveldt,DJG Sammy,,0,0,0,,,,315623156
+2,West Indies,17,NO Miller,CK Langeveldt,DJG Sammy,,0,2,2,,,,315623156
+2,West Indies,17,NO Miller,CK Langeveldt,DJG Sammy,,0,0,0,caught,NO Miller,AB de Villiers,315623156
+2,West Indies,17,JE Taylor,CK Langeveldt,DJG Sammy,,0,1,1,,,,315623156
+2,West Indies,17,DJG Sammy,CK Langeveldt,JE Taylor,,0,1,1,,,,315623156
+2,West Indies,17,JE Taylor,CK Langeveldt,DJG Sammy,,0,6,6,,,,315623156
+2,West Indies,18,DJG Sammy,DW Steyn,JE Taylor,,0,0,0,,,,315623156
+2,West Indies,18,DJG Sammy,DW Steyn,JE Taylor,wides,1,1,0,,,,315623156
+2,West Indies,18,DJG Sammy,DW Steyn,JE Taylor,,0,0,0,,,,315623156
+2,West Indies,18,DJG Sammy,DW Steyn,JE Taylor,wides,1,1,0,,,,315623156
+2,West Indies,18,DJG Sammy,DW Steyn,JE Taylor,,0,0,0,,,,315623156
+2,West Indies,18,DJG Sammy,DW Steyn,JE Taylor,noballs,1,1,0,,,,315623156
+2,West Indies,18,DJG Sammy,DW Steyn,JE Taylor,wides,1,1,0,run out,JE Taylor,DW Steyn,315623156
+2,West Indies,18,DJG Sammy,DW Steyn,SJ Benn,wides,1,1,0,,,,315623156
+2,West Indies,18,DJG Sammy,DW Steyn,SJ Benn,,0,1,1,,,,315623156
+2,West Indies,18,SJ Benn,DW Steyn,DJG Sammy,,0,4,4,,,,315623156
+2,West Indies,18,SJ Benn,DW Steyn,DJG Sammy,,0,0,0,,,,315623156
+2,West Indies,19,DJG Sammy,R McLaren,SJ Benn,,0,2,2,,,,315623156
+2,West Indies,19,DJG Sammy,R McLaren,SJ Benn,wides,1,1,0,stumped,DJG Sammy,AB de Villiers,315623156
+2,West Indies,19,KAJ Roach,R McLaren,SJ Benn,,0,2,2,,,,315623156
+2,West Indies,19,KAJ Roach,R McLaren,SJ Benn,,0,1,1,,,,315623156
+2,West Indies,19,SJ Benn,R McLaren,KAJ Roach,,0,0,0,,,,315623156
+2,West Indies,19,SJ Benn,R McLaren,KAJ Roach,,0,0,0,caught,SJ Benn,HM Amla,315623156

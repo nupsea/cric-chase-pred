@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,West Indies,0,DJS Dottin,LE Kaushalya,JW Ogle-Thomas,,0,1,1,,,,333823338
+1,West Indies,0,JW Ogle-Thomas,LE Kaushalya,DJS Dottin,,0,1,1,,,,333823338
+1,West Indies,0,DJS Dottin,LE Kaushalya,JW Ogle-Thomas,wides,1,1,0,,,,333823338
+1,West Indies,0,DJS Dottin,LE Kaushalya,JW Ogle-Thomas,,0,0,0,,,,333823338
+1,West Indies,0,DJS Dottin,LE Kaushalya,JW Ogle-Thomas,,0,1,1,,,,333823338
+1,West Indies,0,JW Ogle-Thomas,LE Kaushalya,DJS Dottin,,0,2,2,,,,333823338
+1,West Indies,0,JW Ogle-Thomas,LE Kaushalya,DJS Dottin,,0,1,1,,,,333823338
+1,West Indies,1,JW Ogle-Thomas,KDU Prabodhani,DJS Dottin,,0,0,0,,,,333823338
+1,West Indies,1,JW Ogle-Thomas,KDU Prabodhani,DJS Dottin,,0,0,0,,,,333823338
+1,West Indies,1,JW Ogle-Thomas,KDU Prabodhani,DJS Dottin,,0,0,0,,,,333823338
+1,West Indies,1,JW Ogle-Thomas,KDU Prabodhani,DJS Dottin,,0,2,2,,,,333823338
+1,West Indies,1,JW Ogle-Thomas,KDU Prabodhani,DJS Dottin,,0,0,0,,,,333823338
+1,West Indies,1,JW Ogle-Thomas,KDU Prabodhani,DJS Dottin,,0,0,0,,,,333823338
+1,West Indies,2,DJS Dottin,LE Kaushalya,JW Ogle-Thomas,,0,6,6,,,,333823338
+1,West Indies,2,DJS Dottin,LE Kaushalya,JW Ogle-Thomas,,0,0,0,,,,333823338
+1,West Indies,2,DJS Dottin,LE Kaushalya,JW Ogle-Thomas,,0,0,0,,,,333823338
+1,West Indies,2,DJS Dottin,LE Kaushalya,JW Ogle-Thomas,,0,0,0,,,,333823338
+1,West Indies,2,DJS Dottin,LE Kaushalya,JW Ogle-Thomas,,0,0,0,,,,333823338
+1,West Indies,2,DJS Dottin,LE Kaushalya,JW Ogle-Thomas,,0,1,1,,,,333823338
+1,West Indies,3,DJS Dottin,KDU Prabodhani,JW Ogle-Thomas,,0,0,0,,,,333823338
+1,West Indies,3,DJS Dottin,KDU Prabodhani,JW Ogle-Thomas,,0,0,0,,,,333823338
+1,West Indies,3,DJS Dottin,KDU Prabodhani,JW Ogle-Thomas,,0,0,0,,,,333823338
+1,West Indies,3,DJS Dottin,KDU Prabodhani,JW Ogle-Thomas,,0,0,0,,,,333823338
+1,West Indies,3,DJS Dottin,KDU Prabodhani,JW Ogle-Thomas,,0,1,1,,,,333823338
+1,West Indies,3,JW Ogle-Thomas,KDU Prabodhani,DJS Dottin,,0,0,0,,,,333823338
+1,West Indies,4,DJS Dottin,LE Kaushalya,JW Ogle-Thomas,,0,0,0,,,,333823338
+1,West Indies,4,DJS Dottin,LE Kaushalya,JW Ogle-Thomas,,0,4,4,,,,333823338
+1,West Indies,4,DJS Dottin,LE Kaushalya,JW Ogle-Thomas,,0,0,0,,,,333823338
+1,West Indies,4,DJS Dottin,LE Kaushalya,JW Ogle-Thomas,,0,6,6,,,,333823338
+1,West Indies,4,DJS Dottin,LE Kaushalya,JW Ogle-Thomas,,0,0,0,,,,333823338
+1,West Indies,4,DJS Dottin,LE Kaushalya,JW Ogle-Thomas,,0,2,2,,,,333823338
+1,West Indies,5,JW Ogle-Thomas,KDU Prabodhani,DJS Dottin,,0,0,0,bowled,JW Ogle-Thomas,,333823338
+1,West Indies,5,JB Nero,KDU Prabodhani,DJS Dottin,,0,0,0,,,,333823338
+1,West Indies,5,JB Nero,KDU Prabodhani,DJS Dottin,,0,0,0,,,,333823338
+1,West Indies,5,JB Nero,KDU Prabodhani,DJS Dottin,,0,0,0,,,,333823338
+1,West Indies,5,JB Nero,KDU Prabodhani,DJS Dottin,,0,0,0,,,,333823338
+1,West Indies,5,JB Nero,KDU Prabodhani,DJS Dottin,,0,1,1,,,,333823338
+1,West Indies,6,JB Nero,NND de Silva,DJS Dottin,wides,1,1,0,,,,333823338
+1,West Indies,6,JB Nero,NND de Silva,DJS Dottin,,0,0,0,,,,333823338
+1,West Indies,6,JB Nero,NND de Silva,DJS Dottin,,0,0,0,,,,333823338
+1,West Indies,6,JB Nero,NND de Silva,DJS Dottin,,0,1,1,,,,333823338
+1,West Indies,6,DJS Dottin,NND de Silva,JB Nero,,0,0,0,,,,333823338
+1,West Indies,6,DJS Dottin,NND de Silva,JB Nero,,0,2,2,,,,333823338
+1,West Indies,6,DJS Dottin,NND de Silva,JB Nero,,0,4,4,,,,333823338
+1,West Indies,7,JB Nero,HHC Gunaratne,DJS Dottin,,0,0,0,,,,333823338
+1,West Indies,7,JB Nero,HHC Gunaratne,DJS Dottin,,0,2,2,,,,333823338
+1,West Indies,7,JB Nero,HHC Gunaratne,DJS Dottin,,0,4,4,,,,333823338
+1,West Indies,7,JB Nero,HHC Gunaratne,DJS Dottin,,0,1,1,,,,333823338
+1,West Indies,7,DJS Dottin,HHC Gunaratne,JB Nero,wides,1,1,0,,,,333823338
+1,West Indies,7,DJS Dottin,HHC Gunaratne,JB Nero,,0,1,1,,,,333823338
+1,West Indies,7,JB Nero,HHC Gunaratne,DJS Dottin,,0,1,1,,,,333823338
+1,West Indies,8,JB Nero,NND de Silva,DJS Dottin,,0,1,1,,,,333823338
+1,West Indies,8,DJS Dottin,NND de Silva,JB Nero,,0,1,1,,,,333823338
+1,West Indies,8,JB Nero,NND de Silva,DJS Dottin,,0,2,2,,,,333823338
+1,West Indies,8,JB Nero,NND de Silva,DJS Dottin,,0,0,0,,,,333823338
+1,West Indies,8,JB Nero,NND de Silva,DJS Dottin,,0,0,0,,,,333823338
+1,West Indies,8,JB Nero,NND de Silva,DJS Dottin,,0,0,0,,,,333823338
+1,West Indies,9,DJS Dottin,HHC Gunaratne,JB Nero,,0,1,1,,,,333823338
+1,West Indies,9,JB Nero,HHC Gunaratne,DJS Dottin,,0,0,0,,,,333823338
+1,West Indies,9,JB Nero,HHC Gunaratne,DJS Dottin,,0,1,1,,,,333823338
+1,West Indies,9,DJS Dottin,HHC Gunaratne,JB Nero,,0,1,1,,,,333823338
+1,West Indies,9,JB Nero,HHC Gunaratne,DJS Dottin,,0,4,4,,,,333823338
+1,West Indies,9,JB Nero,HHC Gunaratne,DJS Dottin,,0,1,1,,,,333823338
+1,West Indies,10,JB Nero,NND de Silva,DJS Dottin,,0,1,1,,,,333823338
+1,West Indies,10,DJS Dottin,NND de Silva,JB Nero,,0,2,2,,,,333823338
+1,West Indies,10,DJS Dottin,NND de Silva,JB Nero,,0,1,1,,,,333823338
+1,West Indies,10,JB Nero,NND de Silva,DJS Dottin,,0,1,1,,,,333823338
+1,West Indies,10,DJS Dottin,NND de Silva,JB Nero,wides,1,1,0,,,,333823338
+1,West Indies,10,DJS Dottin,NND de Silva,JB Nero,,0,2,2,,,,333823338
+1,West Indies,10,DJS Dottin,NND de Silva,JB Nero,,0,0,0,,,,333823338
+1,West Indies,11,JB Nero,OU Ranasinghe,DJS Dottin,,0,1,1,,,,333823338
+1,West Indies,11,DJS Dottin,OU Ranasinghe,JB Nero,,0,6,6,,,,333823338
+1,West Indies,11,DJS Dottin,OU Ranasinghe,JB Nero,,0,0,0,caught and bowled,DJS Dottin,,333823338
+1,West Indies,11,JB Nero,OU Ranasinghe,Kycia A Knight,,0,1,1,,,,333823338
+1,West Indies,11,Kycia A Knight,OU Ranasinghe,JB Nero,,0,0,0,,,,333823338
+1,West Indies,11,Kycia A Knight,OU Ranasinghe,JB Nero,,0,0,0,,,,333823338
+1,West Indies,12,JB Nero,HASD Siriwardene,Kycia A Knight,,0,0,0,,,,333823338
+1,West Indies,12,JB Nero,HASD Siriwardene,Kycia A Knight,,0,1,1,,,,333823338
+1,West Indies,12,Kycia A Knight,HASD Siriwardene,JB Nero,,0,0,0,,,,333823338
+1,West Indies,12,Kycia A Knight,HASD Siriwardene,JB Nero,,0,1,1,,,,333823338
+1,West Indies,12,JB Nero,HASD Siriwardene,Kycia A Knight,,0,0,0,,,,333823338
+1,West Indies,12,JB Nero,HASD Siriwardene,Kycia A Knight,,0,1,1,,,,333823338
+1,West Indies,13,JB Nero,OU Ranasinghe,Kycia A Knight,,0,0,0,,,,333823338
+1,West Indies,13,JB Nero,OU Ranasinghe,Kycia A Knight,,0,0,0,bowled,JB Nero,,333823338
+1,West Indies,13,SL Quintyne,OU Ranasinghe,Kycia A Knight,,0,1,1,,,,333823338
+1,West Indies,13,Kycia A Knight,OU Ranasinghe,SL Quintyne,,0,0,0,,,,333823338
+1,West Indies,13,Kycia A Knight,OU Ranasinghe,SL Quintyne,byes,3,3,0,,,,333823338
+1,West Indies,13,SL Quintyne,OU Ranasinghe,Kycia A Knight,,0,0,0,,,,333823338
+1,West Indies,14,Kycia A Knight,HASD Siriwardene,SL Quintyne,,0,1,1,,,,333823338
+1,West Indies,14,SL Quintyne,HASD Siriwardene,Kycia A Knight,,0,2,2,,,,333823338
+1,West Indies,14,SL Quintyne,HASD Siriwardene,Kycia A Knight,,0,0,0,,,,333823338
+1,West Indies,14,SL Quintyne,HASD Siriwardene,Kycia A Knight,,0,1,1,,,,333823338
+1,West Indies,14,Kycia A Knight,HASD Siriwardene,SL Quintyne,,0,0,0,,,,333823338
+1,West Indies,14,Kycia A Knight,HASD Siriwardene,SL Quintyne,,0,0,0,,,,333823338
+1,West Indies,15,SL Quintyne,OU Ranasinghe,Kycia A Knight,,0,2,2,,,,333823338
+1,West Indies,15,SL Quintyne,OU Ranasinghe,Kycia A Knight,,0,2,2,,,,333823338
+1,West Indies,15,SL Quintyne,OU Ranasinghe,Kycia A Knight,,0,0,0,,,,333823338
+1,West Indies,15,SL Quintyne,OU Ranasinghe,Kycia A Knight,,0,0,0,,,,333823338
+1,West Indies,15,SL Quintyne,OU Ranasinghe,Kycia A Knight,,0,2,2,,,,333823338
+1,West Indies,15,SL Quintyne,OU Ranasinghe,Kycia A Knight,,0,2,2,,,,333823338
+1,West Indies,16,Kycia A Knight,HASD Siriwardene,SL Quintyne,,0,0,0,,,,333823338
+1,West Indies,16,Kycia A Knight,HASD Siriwardene,SL Quintyne,,0,1,1,,,,333823338
+1,West Indies,16,SL Quintyne,HASD Siriwardene,Kycia A Knight,,0,1,1,,,,333823338
+1,West Indies,16,Kycia A Knight,HASD Siriwardene,SL Quintyne,,0,1,1,,,,333823338
+1,West Indies,16,SL Quintyne,HASD Siriwardene,Kycia A Knight,,0,4,4,,,,333823338
+1,West Indies,16,SL Quintyne,HASD Siriwardene,Kycia A Knight,,0,1,1,,,,333823338
+1,West Indies,17,SL Quintyne,KDU Prabodhani,Kycia A Knight,,0,0,0,caught,SL Quintyne,HHC Gunaratne,333823338
+1,West Indies,17,MR Aguilleira,KDU Prabodhani,Kycia A Knight,,0,0,0,,,,333823338
+1,West Indies,17,MR Aguilleira,KDU Prabodhani,Kycia A Knight,,0,1,1,,,,333823338
+1,West Indies,17,Kycia A Knight,KDU Prabodhani,MR Aguilleira,,0,1,1,,,,333823338
+1,West Indies,17,MR Aguilleira,KDU Prabodhani,Kycia A Knight,,0,1,1,,,,333823338
+1,West Indies,17,Kycia A Knight,KDU Prabodhani,MR Aguilleira,,0,1,1,,,,333823338
+1,West Indies,18,Kycia A Knight,HASD Siriwardene,MR Aguilleira,,0,1,1,,,,333823338
+1,West Indies,18,MR Aguilleira,HASD Siriwardene,Kycia A Knight,,0,0,0,caught,MR Aguilleira,HMD Rasangika,333823338
+1,West Indies,18,Kycia A Knight,HASD Siriwardene,SF Daley,,0,2,2,,,,333823338
+1,West Indies,18,Kycia A Knight,HASD Siriwardene,SF Daley,,0,0,0,,,,333823338
+1,West Indies,18,Kycia A Knight,HASD Siriwardene,SF Daley,,0,1,1,,,,333823338
+1,West Indies,18,SF Daley,HASD Siriwardene,Kycia A Knight,,0,1,1,,,,333823338
+1,West Indies,19,SF Daley,LE Kaushalya,Kycia A Knight,,0,1,1,,,,333823338
+1,West Indies,19,Kycia A Knight,LE Kaushalya,SF Daley,,0,1,1,,,,333823338
+1,West Indies,19,SF Daley,LE Kaushalya,Kycia A Knight,,0,4,4,,,,333823338
+1,West Indies,19,SF Daley,LE Kaushalya,Kycia A Knight,,0,1,1,,,,333823338
+1,West Indies,19,Kycia A Knight,LE Kaushalya,SF Daley,,0,2,2,,,,333823338
+1,West Indies,19,Kycia A Knight,LE Kaushalya,SF Daley,,0,1,1,,,,333823338

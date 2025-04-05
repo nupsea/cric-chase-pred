@@ -1,0 +1,128 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Scotland,0,SJ Bryce,HDJ Siegers,L Jack,wides,1,1,0,,,,31219231219
+1,Scotland,0,SJ Bryce,HDJ Siegers,L Jack,,0,1,1,,,,31219231219
+1,Scotland,0,L Jack,HDJ Siegers,SJ Bryce,,0,1,1,,,,31219231219
+1,Scotland,0,SJ Bryce,HDJ Siegers,L Jack,,0,0,0,,,,31219231219
+1,Scotland,0,SJ Bryce,HDJ Siegers,L Jack,,0,0,0,,,,31219231219
+1,Scotland,0,SJ Bryce,HDJ Siegers,L Jack,,0,0,0,,,,31219231219
+1,Scotland,0,SJ Bryce,HDJ Siegers,L Jack,wides,2,2,0,,,,31219231219
+1,Scotland,0,L Jack,HDJ Siegers,SJ Bryce,,0,0,0,,,,31219231219
+1,Scotland,1,SJ Bryce,C de Lange,L Jack,wides,1,1,0,,,,31219231219
+1,Scotland,1,SJ Bryce,C de Lange,L Jack,wides,1,1,0,,,,31219231219
+1,Scotland,1,SJ Bryce,C de Lange,L Jack,,0,1,1,,,,31219231219
+1,Scotland,1,L Jack,C de Lange,SJ Bryce,,0,0,0,,,,31219231219
+1,Scotland,1,L Jack,C de Lange,SJ Bryce,,0,0,0,,,,31219231219
+1,Scotland,1,L Jack,C de Lange,SJ Bryce,,0,1,1,,,,31219231219
+1,Scotland,1,SJ Bryce,C de Lange,L Jack,,0,1,1,,,,31219231219
+1,Scotland,1,L Jack,C de Lange,SJ Bryce,,0,1,1,,,,31219231219
+1,Scotland,2,L Jack,IJR Zwilling,SJ Bryce,,0,0,0,,,,31219231219
+1,Scotland,2,L Jack,IJR Zwilling,SJ Bryce,,0,0,0,,,,31219231219
+1,Scotland,2,L Jack,IJR Zwilling,SJ Bryce,,0,2,2,,,,31219231219
+1,Scotland,2,L Jack,IJR Zwilling,SJ Bryce,,0,0,0,,,,31219231219
+1,Scotland,2,L Jack,IJR Zwilling,SJ Bryce,,0,0,0,caught,L Jack,C de Lange,31219231219
+1,Scotland,2,SJ Bryce,IJR Zwilling,KE Bryce,,0,4,4,,,,31219231219
+1,Scotland,3,KE Bryce,C de Lange,SJ Bryce,,0,4,4,,,,31219231219
+1,Scotland,3,KE Bryce,C de Lange,SJ Bryce,,0,0,0,,,,31219231219
+1,Scotland,3,KE Bryce,C de Lange,SJ Bryce,,0,1,1,,,,31219231219
+1,Scotland,3,SJ Bryce,C de Lange,KE Bryce,,0,1,1,,,,31219231219
+1,Scotland,3,KE Bryce,C de Lange,SJ Bryce,,0,0,0,,,,31219231219
+1,Scotland,3,KE Bryce,C de Lange,SJ Bryce,,0,2,2,,,,31219231219
+1,Scotland,4,SJ Bryce,IJR Zwilling,KE Bryce,,0,0,0,,,,31219231219
+1,Scotland,4,SJ Bryce,IJR Zwilling,KE Bryce,,0,1,1,,,,31219231219
+1,Scotland,4,KE Bryce,IJR Zwilling,SJ Bryce,,0,1,1,,,,31219231219
+1,Scotland,4,SJ Bryce,IJR Zwilling,KE Bryce,,0,4,4,,,,31219231219
+1,Scotland,4,SJ Bryce,IJR Zwilling,KE Bryce,,0,0,0,,,,31219231219
+1,Scotland,4,SJ Bryce,IJR Zwilling,KE Bryce,,0,1,1,,,,31219231219
+1,Scotland,5,SJ Bryce,EN Lynch,KE Bryce,,0,1,1,,,,31219231219
+1,Scotland,5,KE Bryce,EN Lynch,SJ Bryce,,0,1,1,,,,31219231219
+1,Scotland,5,SJ Bryce,EN Lynch,KE Bryce,,0,0,0,,,,31219231219
+1,Scotland,5,SJ Bryce,EN Lynch,KE Bryce,,0,1,1,,,,31219231219
+1,Scotland,5,KE Bryce,EN Lynch,SJ Bryce,,0,4,4,,,,31219231219
+1,Scotland,5,KE Bryce,EN Lynch,SJ Bryce,,0,0,0,,,,31219231219
+1,Scotland,6,SJ Bryce,HDJ Siegers,KE Bryce,,0,0,0,,,,31219231219
+1,Scotland,6,SJ Bryce,HDJ Siegers,KE Bryce,,0,1,1,,,,31219231219
+1,Scotland,6,KE Bryce,HDJ Siegers,SJ Bryce,,0,0,0,,,,31219231219
+1,Scotland,6,KE Bryce,HDJ Siegers,SJ Bryce,,0,0,0,,,,31219231219
+1,Scotland,6,KE Bryce,HDJ Siegers,SJ Bryce,,0,1,1,,,,31219231219
+1,Scotland,6,SJ Bryce,HDJ Siegers,KE Bryce,,0,1,1,,,,31219231219
+1,Scotland,7,SJ Bryce,EN Lynch,KE Bryce,,0,1,1,,,,31219231219
+1,Scotland,7,KE Bryce,EN Lynch,SJ Bryce,,0,4,4,,,,31219231219
+1,Scotland,7,KE Bryce,EN Lynch,SJ Bryce,,0,4,4,,,,31219231219
+1,Scotland,7,KE Bryce,EN Lynch,SJ Bryce,,0,1,1,,,,31219231219
+1,Scotland,7,SJ Bryce,EN Lynch,KE Bryce,,0,1,1,,,,31219231219
+1,Scotland,7,KE Bryce,EN Lynch,SJ Bryce,,0,2,2,,,,31219231219
+1,Scotland,8,SJ Bryce,S Siegers,KE Bryce,,0,1,1,,,,31219231219
+1,Scotland,8,KE Bryce,S Siegers,SJ Bryce,,0,0,0,,,,31219231219
+1,Scotland,8,KE Bryce,S Siegers,SJ Bryce,,0,4,4,,,,31219231219
+1,Scotland,8,KE Bryce,S Siegers,SJ Bryce,,0,2,2,,,,31219231219
+1,Scotland,8,KE Bryce,S Siegers,SJ Bryce,,0,4,4,,,,31219231219
+1,Scotland,8,KE Bryce,S Siegers,SJ Bryce,,0,0,0,,,,31219231219
+1,Scotland,9,SJ Bryce,C de Lange,KE Bryce,,0,2,2,,,,31219231219
+1,Scotland,9,SJ Bryce,C de Lange,KE Bryce,,0,2,2,,,,31219231219
+1,Scotland,9,SJ Bryce,C de Lange,KE Bryce,,0,1,1,,,,31219231219
+1,Scotland,9,KE Bryce,C de Lange,SJ Bryce,,0,1,1,,,,31219231219
+1,Scotland,9,SJ Bryce,C de Lange,KE Bryce,,0,1,1,,,,31219231219
+1,Scotland,9,KE Bryce,C de Lange,SJ Bryce,,0,0,0,,,,31219231219
+1,Scotland,10,SJ Bryce,IJR Zwilling,KE Bryce,,0,1,1,,,,31219231219
+1,Scotland,10,KE Bryce,IJR Zwilling,SJ Bryce,wides,1,1,0,,,,31219231219
+1,Scotland,10,KE Bryce,IJR Zwilling,SJ Bryce,,0,0,0,,,,31219231219
+1,Scotland,10,KE Bryce,IJR Zwilling,SJ Bryce,,0,4,4,,,,31219231219
+1,Scotland,10,KE Bryce,IJR Zwilling,SJ Bryce,,0,1,1,,,,31219231219
+1,Scotland,10,SJ Bryce,IJR Zwilling,KE Bryce,,0,1,1,,,,31219231219
+1,Scotland,10,KE Bryce,IJR Zwilling,SJ Bryce,,0,0,0,,,,31219231219
+1,Scotland,11,SJ Bryce,C de Lange,KE Bryce,,0,1,1,,,,31219231219
+1,Scotland,11,KE Bryce,C de Lange,SJ Bryce,,0,1,1,,,,31219231219
+1,Scotland,11,SJ Bryce,C de Lange,KE Bryce,,0,4,4,,,,31219231219
+1,Scotland,11,SJ Bryce,C de Lange,KE Bryce,noballs,1,5,4,,,,31219231219
+1,Scotland,11,SJ Bryce,C de Lange,KE Bryce,,0,4,4,,,,31219231219
+1,Scotland,11,SJ Bryce,C de Lange,KE Bryce,,0,2,2,,,,31219231219
+1,Scotland,11,SJ Bryce,C de Lange,KE Bryce,,0,1,1,,,,31219231219
+1,Scotland,12,SJ Bryce,IJR Zwilling,KE Bryce,,0,1,1,,,,31219231219
+1,Scotland,12,KE Bryce,IJR Zwilling,SJ Bryce,,0,1,1,,,,31219231219
+1,Scotland,12,SJ Bryce,IJR Zwilling,KE Bryce,,0,2,2,,,,31219231219
+1,Scotland,12,SJ Bryce,IJR Zwilling,KE Bryce,,0,2,2,,,,31219231219
+1,Scotland,12,SJ Bryce,IJR Zwilling,KE Bryce,,0,0,0,,,,31219231219
+1,Scotland,12,SJ Bryce,IJR Zwilling,KE Bryce,,0,4,4,,,,31219231219
+1,Scotland,13,KE Bryce,S Siegers,SJ Bryce,,0,1,1,,,,31219231219
+1,Scotland,13,SJ Bryce,S Siegers,KE Bryce,,0,1,1,,,,31219231219
+1,Scotland,13,KE Bryce,S Siegers,SJ Bryce,,0,2,2,,,,31219231219
+1,Scotland,13,KE Bryce,S Siegers,SJ Bryce,,0,0,0,,,,31219231219
+1,Scotland,13,KE Bryce,S Siegers,SJ Bryce,,0,1,1,,,,31219231219
+1,Scotland,13,SJ Bryce,S Siegers,KE Bryce,,0,1,1,,,,31219231219
+1,Scotland,14,SJ Bryce,J Post,KE Bryce,,0,4,4,,,,31219231219
+1,Scotland,14,SJ Bryce,J Post,KE Bryce,wides,1,1,0,,,,31219231219
+1,Scotland,14,SJ Bryce,J Post,KE Bryce,,0,1,1,,,,31219231219
+1,Scotland,14,KE Bryce,J Post,SJ Bryce,,0,1,1,,,,31219231219
+1,Scotland,14,SJ Bryce,J Post,KE Bryce,,0,1,1,,,,31219231219
+1,Scotland,14,KE Bryce,J Post,SJ Bryce,,0,2,2,,,,31219231219
+1,Scotland,14,KE Bryce,J Post,SJ Bryce,,0,2,2,,,,31219231219
+1,Scotland,15,SJ Bryce,S Siegers,KE Bryce,,0,1,1,,,,31219231219
+1,Scotland,15,KE Bryce,S Siegers,SJ Bryce,,0,1,1,,,,31219231219
+1,Scotland,15,SJ Bryce,S Siegers,KE Bryce,,0,1,1,,,,31219231219
+1,Scotland,15,KE Bryce,S Siegers,SJ Bryce,,0,0,0,,,,31219231219
+1,Scotland,15,KE Bryce,S Siegers,SJ Bryce,,0,1,1,,,,31219231219
+1,Scotland,15,SJ Bryce,S Siegers,KE Bryce,,0,1,1,,,,31219231219
+1,Scotland,16,SJ Bryce,HDJ Siegers,KE Bryce,,0,0,0,caught,SJ Bryce,D Hannema,31219231219
+1,Scotland,16,KE Bryce,HDJ Siegers,RV Scholes,,0,1,1,,,,31219231219
+1,Scotland,16,RV Scholes,HDJ Siegers,KE Bryce,,0,1,1,,,,31219231219
+1,Scotland,16,KE Bryce,HDJ Siegers,RV Scholes,,0,1,1,,,,31219231219
+1,Scotland,16,RV Scholes,HDJ Siegers,KE Bryce,,0,0,0,,,,31219231219
+1,Scotland,16,RV Scholes,HDJ Siegers,KE Bryce,,0,4,4,,,,31219231219
+1,Scotland,17,KE Bryce,S Siegers,RV Scholes,,0,4,4,,,,31219231219
+1,Scotland,17,KE Bryce,S Siegers,RV Scholes,,0,1,1,,,,31219231219
+1,Scotland,17,RV Scholes,S Siegers,KE Bryce,,0,1,1,,,,31219231219
+1,Scotland,17,KE Bryce,S Siegers,RV Scholes,,0,1,1,,,,31219231219
+1,Scotland,17,RV Scholes,S Siegers,KE Bryce,,0,0,0,stumped,RV Scholes,B de Leede,31219231219
+1,Scotland,17,RS Glen,S Siegers,KE Bryce,,0,0,0,,,,31219231219
+1,Scotland,18,KE Bryce,EN Lynch,RS Glen,,0,1,1,,,,31219231219
+1,Scotland,18,RS Glen,EN Lynch,KE Bryce,,0,1,1,,,,31219231219
+1,Scotland,18,KE Bryce,EN Lynch,RS Glen,,0,4,4,,,,31219231219
+1,Scotland,18,KE Bryce,EN Lynch,RS Glen,,0,1,1,,,,31219231219
+1,Scotland,18,RS Glen,EN Lynch,KE Bryce,,0,4,4,,,,31219231219
+1,Scotland,18,RS Glen,EN Lynch,KE Bryce,,0,1,1,,,,31219231219
+1,Scotland,19,RS Glen,HDJ Siegers,KE Bryce,,0,0,0,lbw,RS Glen,,31219231219
+1,Scotland,19,PA Chatterji,HDJ Siegers,KE Bryce,,0,1,1,,,,31219231219
+1,Scotland,19,KE Bryce,HDJ Siegers,PA Chatterji,legbyes,2,2,0,,,,31219231219
+1,Scotland,19,KE Bryce,HDJ Siegers,PA Chatterji,,0,4,4,,,,31219231219
+1,Scotland,19,KE Bryce,HDJ Siegers,PA Chatterji,,0,1,1,,,,31219231219
+1,Scotland,19,PA Chatterji,HDJ Siegers,KE Bryce,,0,1,1,,,,31219231219

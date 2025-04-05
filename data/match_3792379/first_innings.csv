@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,England,0,RS Bopara,DW Steyn,LJ Wright,,0,2,2,,,,3792379
+1,England,0,RS Bopara,DW Steyn,LJ Wright,,0,0,0,,,,3792379
+1,England,0,RS Bopara,DW Steyn,LJ Wright,legbyes,1,1,0,,,,3792379
+1,England,0,LJ Wright,DW Steyn,RS Bopara,,0,1,1,,,,3792379
+1,England,0,RS Bopara,DW Steyn,LJ Wright,,0,0,0,,,,3792379
+1,England,0,RS Bopara,DW Steyn,LJ Wright,,0,0,0,bowled,RS Bopara,,3792379
+1,England,1,LJ Wright,WD Parnell,KP Pietersen,,0,0,0,,,,3792379
+1,England,1,LJ Wright,WD Parnell,KP Pietersen,,0,0,0,,,,3792379
+1,England,1,LJ Wright,WD Parnell,KP Pietersen,,0,0,0,,,,3792379
+1,England,1,LJ Wright,WD Parnell,KP Pietersen,,0,0,0,,,,3792379
+1,England,1,LJ Wright,WD Parnell,KP Pietersen,,0,0,0,caught,LJ Wright,MV Boucher,3792379
+1,England,1,OA Shah,WD Parnell,KP Pietersen,,0,1,1,,,,3792379
+1,England,2,OA Shah,DW Steyn,KP Pietersen,,0,1,1,,,,3792379
+1,England,2,KP Pietersen,DW Steyn,OA Shah,,0,4,4,,,,3792379
+1,England,2,KP Pietersen,DW Steyn,OA Shah,,0,4,4,,,,3792379
+1,England,2,KP Pietersen,DW Steyn,OA Shah,,0,0,0,,,,3792379
+1,England,2,KP Pietersen,DW Steyn,OA Shah,,0,0,0,,,,3792379
+1,England,2,KP Pietersen,DW Steyn,OA Shah,,0,1,1,,,,3792379
+1,England,3,KP Pietersen,WD Parnell,OA Shah,,0,0,0,,,,3792379
+1,England,3,KP Pietersen,WD Parnell,OA Shah,,0,0,0,,,,3792379
+1,England,3,KP Pietersen,WD Parnell,OA Shah,,0,0,0,,,,3792379
+1,England,3,KP Pietersen,WD Parnell,OA Shah,,0,0,0,,,,3792379
+1,England,3,KP Pietersen,WD Parnell,OA Shah,,0,1,1,,,,3792379
+1,England,3,OA Shah,WD Parnell,KP Pietersen,,0,0,0,,,,3792379
+1,England,4,KP Pietersen,JH Kallis,OA Shah,,0,0,0,,,,3792379
+1,England,4,KP Pietersen,JH Kallis,OA Shah,,0,4,4,,,,3792379
+1,England,4,KP Pietersen,JH Kallis,OA Shah,,0,4,4,,,,3792379
+1,England,4,KP Pietersen,JH Kallis,OA Shah,,0,0,0,,,,3792379
+1,England,4,KP Pietersen,JH Kallis,OA Shah,,0,1,1,,,,3792379
+1,England,4,OA Shah,JH Kallis,KP Pietersen,,0,0,0,,,,3792379
+1,England,5,KP Pietersen,JA Morkel,OA Shah,,0,0,0,,,,3792379
+1,England,5,KP Pietersen,JA Morkel,OA Shah,,0,0,0,caught,KP Pietersen,RE van der Merwe,3792379
+1,England,5,PD Collingwood,JA Morkel,OA Shah,,0,0,0,,,,3792379
+1,England,5,PD Collingwood,JA Morkel,OA Shah,,0,0,0,,,,3792379
+1,England,5,PD Collingwood,JA Morkel,OA Shah,,0,0,0,,,,3792379
+1,England,5,PD Collingwood,JA Morkel,OA Shah,,0,0,0,,,,3792379
+1,England,6,OA Shah,J Botha,PD Collingwood,,0,1,1,,,,3792379
+1,England,6,PD Collingwood,J Botha,OA Shah,,0,0,0,,,,3792379
+1,England,6,PD Collingwood,J Botha,OA Shah,,0,1,1,,,,3792379
+1,England,6,OA Shah,J Botha,PD Collingwood,,0,0,0,,,,3792379
+1,England,6,OA Shah,J Botha,PD Collingwood,,0,1,1,,,,3792379
+1,England,6,PD Collingwood,J Botha,OA Shah,,0,0,0,,,,3792379
+1,England,7,OA Shah,RE van der Merwe,PD Collingwood,,0,0,0,,,,3792379
+1,England,7,OA Shah,RE van der Merwe,PD Collingwood,,0,0,0,,,,3792379
+1,England,7,OA Shah,RE van der Merwe,PD Collingwood,wides,1,1,0,,,,3792379
+1,England,7,OA Shah,RE van der Merwe,PD Collingwood,,0,1,1,,,,3792379
+1,England,7,PD Collingwood,RE van der Merwe,OA Shah,,0,2,2,,,,3792379
+1,England,7,PD Collingwood,RE van der Merwe,OA Shah,,0,2,2,,,,3792379
+1,England,7,PD Collingwood,RE van der Merwe,OA Shah,,0,0,0,,,,3792379
+1,England,8,OA Shah,J Botha,PD Collingwood,,0,0,0,,,,3792379
+1,England,8,OA Shah,J Botha,PD Collingwood,,0,0,0,,,,3792379
+1,England,8,OA Shah,J Botha,PD Collingwood,wides,2,2,0,,,,3792379
+1,England,8,PD Collingwood,J Botha,OA Shah,,0,4,4,,,,3792379
+1,England,8,PD Collingwood,J Botha,OA Shah,,0,1,1,,,,3792379
+1,England,8,OA Shah,J Botha,PD Collingwood,,0,0,0,,,,3792379
+1,England,8,OA Shah,J Botha,PD Collingwood,,0,1,1,,,,3792379
+1,England,9,OA Shah,RE van der Merwe,PD Collingwood,,0,0,0,,,,3792379
+1,England,9,OA Shah,RE van der Merwe,PD Collingwood,,0,1,1,,,,3792379
+1,England,9,PD Collingwood,RE van der Merwe,OA Shah,,0,2,2,,,,3792379
+1,England,9,PD Collingwood,RE van der Merwe,OA Shah,,0,1,1,,,,3792379
+1,England,9,OA Shah,RE van der Merwe,PD Collingwood,,0,1,1,,,,3792379
+1,England,9,PD Collingwood,RE van der Merwe,OA Shah,,0,0,0,,,,3792379
+1,England,10,OA Shah,J Botha,PD Collingwood,,0,1,1,,,,3792379
+1,England,10,PD Collingwood,J Botha,OA Shah,,0,1,1,,,,3792379
+1,England,10,OA Shah,J Botha,PD Collingwood,,0,0,0,,,,3792379
+1,England,10,OA Shah,J Botha,PD Collingwood,,0,6,6,,,,3792379
+1,England,10,OA Shah,J Botha,PD Collingwood,,0,0,0,,,,3792379
+1,England,10,OA Shah,J Botha,PD Collingwood,,0,1,1,,,,3792379
+1,England,11,OA Shah,RE van der Merwe,PD Collingwood,,0,6,6,,,,3792379
+1,England,11,OA Shah,RE van der Merwe,PD Collingwood,,0,4,4,,,,3792379
+1,England,11,OA Shah,RE van der Merwe,PD Collingwood,,0,4,4,,,,3792379
+1,England,11,OA Shah,RE van der Merwe,PD Collingwood,,0,1,1,,,,3792379
+1,England,11,PD Collingwood,RE van der Merwe,OA Shah,,0,1,1,,,,3792379
+1,England,11,OA Shah,RE van der Merwe,PD Collingwood,,0,1,1,,,,3792379
+1,England,12,OA Shah,JH Kallis,PD Collingwood,,0,1,1,,,,3792379
+1,England,12,PD Collingwood,JH Kallis,OA Shah,,0,4,4,,,,3792379
+1,England,12,PD Collingwood,JH Kallis,OA Shah,,0,0,0,bowled,PD Collingwood,,3792379
+1,England,12,JS Foster,JH Kallis,OA Shah,,0,0,0,,,,3792379
+1,England,12,JS Foster,JH Kallis,OA Shah,,0,0,0,,,,3792379
+1,England,12,JS Foster,JH Kallis,OA Shah,,0,1,1,,,,3792379
+1,England,13,JS Foster,RE van der Merwe,OA Shah,,0,0,0,caught,JS Foster,JA Morkel,3792379
+1,England,13,AD Mascarenhas,RE van der Merwe,OA Shah,,0,0,0,,,,3792379
+1,England,13,AD Mascarenhas,RE van der Merwe,OA Shah,,0,1,1,,,,3792379
+1,England,13,OA Shah,RE van der Merwe,AD Mascarenhas,wides,1,1,0,,,,3792379
+1,England,13,OA Shah,RE van der Merwe,AD Mascarenhas,,0,1,1,,,,3792379
+1,England,13,AD Mascarenhas,RE van der Merwe,OA Shah,,0,0,0,bowled,AD Mascarenhas,,3792379
+1,England,13,GP Swann,RE van der Merwe,OA Shah,,0,1,1,,,,3792379
+1,England,14,GP Swann,JH Kallis,OA Shah,,0,1,1,,,,3792379
+1,England,14,OA Shah,JH Kallis,GP Swann,,0,4,4,,,,3792379
+1,England,14,OA Shah,JH Kallis,GP Swann,,0,0,0,,,,3792379
+1,England,14,OA Shah,JH Kallis,GP Swann,,0,0,0,,,,3792379
+1,England,14,OA Shah,JH Kallis,GP Swann,,0,0,0,caught,OA Shah,MV Boucher,3792379
+1,England,14,SCJ Broad,JH Kallis,GP Swann,,0,0,0,,,,3792379
+1,England,15,GP Swann,J Botha,SCJ Broad,,0,2,2,,,,3792379
+1,England,15,GP Swann,J Botha,SCJ Broad,,0,1,1,,,,3792379
+1,England,15,SCJ Broad,J Botha,GP Swann,,0,1,1,,,,3792379
+1,England,15,GP Swann,J Botha,SCJ Broad,,0,0,0,,,,3792379
+1,England,15,GP Swann,J Botha,SCJ Broad,,0,0,0,caught,GP Swann,JA Morkel,3792379
+1,England,15,AU Rashid,J Botha,SCJ Broad,,0,1,1,,,,3792379
+1,England,16,AU Rashid,DW Steyn,SCJ Broad,,0,0,0,,,,3792379
+1,England,16,AU Rashid,DW Steyn,SCJ Broad,,0,2,2,,,,3792379
+1,England,16,AU Rashid,DW Steyn,SCJ Broad,,0,0,0,,,,3792379
+1,England,16,AU Rashid,DW Steyn,SCJ Broad,,0,0,0,,,,3792379
+1,England,16,AU Rashid,DW Steyn,SCJ Broad,wides,1,1,0,,,,3792379
+1,England,16,AU Rashid,DW Steyn,SCJ Broad,,0,0,0,,,,3792379
+1,England,16,AU Rashid,DW Steyn,SCJ Broad,,0,0,0,,,,3792379
+1,England,17,SCJ Broad,WD Parnell,AU Rashid,,0,0,0,,,,3792379
+1,England,17,SCJ Broad,WD Parnell,AU Rashid,,0,1,1,,,,3792379
+1,England,17,AU Rashid,WD Parnell,SCJ Broad,wides,1,1,0,,,,3792379
+1,England,17,AU Rashid,WD Parnell,SCJ Broad,,0,0,0,,,,3792379
+1,England,17,AU Rashid,WD Parnell,SCJ Broad,,0,1,1,,,,3792379
+1,England,17,SCJ Broad,WD Parnell,AU Rashid,,0,1,1,,,,3792379
+1,England,17,AU Rashid,WD Parnell,SCJ Broad,,0,1,1,,,,3792379
+1,England,18,AU Rashid,DW Steyn,SCJ Broad,,0,0,0,,,,3792379
+1,England,18,AU Rashid,DW Steyn,SCJ Broad,,0,0,0,,,,3792379
+1,England,18,AU Rashid,DW Steyn,SCJ Broad,,0,0,0,,,,3792379
+1,England,18,AU Rashid,DW Steyn,SCJ Broad,,0,0,0,,,,3792379
+1,England,18,AU Rashid,DW Steyn,SCJ Broad,,0,2,2,,,,3792379
+1,England,18,AU Rashid,DW Steyn,SCJ Broad,,0,1,1,,,,3792379
+1,England,19,AU Rashid,WD Parnell,SCJ Broad,,0,1,1,,,,3792379
+1,England,19,SCJ Broad,WD Parnell,AU Rashid,,0,2,2,,,,3792379
+1,England,19,SCJ Broad,WD Parnell,AU Rashid,,0,4,4,,,,3792379
+1,England,19,SCJ Broad,WD Parnell,AU Rashid,,0,0,0,bowled,SCJ Broad,,3792379
+1,England,19,JM Anderson,WD Parnell,AU Rashid,,0,0,0,bowled,JM Anderson,,3792379

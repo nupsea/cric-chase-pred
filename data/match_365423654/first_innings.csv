@@ -1,0 +1,113 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Sri Lanka,0,N Dickwella,R Ashwin,TM Dilshan,,0,1,1,,,,365423654
+1,Sri Lanka,0,TM Dilshan,R Ashwin,N Dickwella,,0,1,1,,,,365423654
+1,Sri Lanka,0,N Dickwella,R Ashwin,TM Dilshan,,0,0,0,stumped,N Dickwella,MS Dhoni,365423654
+1,Sri Lanka,0,LD Chandimal,R Ashwin,TM Dilshan,,0,0,0,,,,365423654
+1,Sri Lanka,0,LD Chandimal,R Ashwin,TM Dilshan,legbyes,1,1,0,,,,365423654
+1,Sri Lanka,0,TM Dilshan,R Ashwin,LD Chandimal,,0,0,0,lbw,TM Dilshan,,365423654
+1,Sri Lanka,1,LD Chandimal,A Nehra,DAS Gunaratne,,0,0,0,,,,365423654
+1,Sri Lanka,1,LD Chandimal,A Nehra,DAS Gunaratne,,0,0,0,,,,365423654
+1,Sri Lanka,1,LD Chandimal,A Nehra,DAS Gunaratne,,0,4,4,,,,365423654
+1,Sri Lanka,1,LD Chandimal,A Nehra,DAS Gunaratne,,0,0,0,,,,365423654
+1,Sri Lanka,1,LD Chandimal,A Nehra,DAS Gunaratne,,0,4,4,,,,365423654
+1,Sri Lanka,1,LD Chandimal,A Nehra,DAS Gunaratne,legbyes,1,1,0,,,,365423654
+1,Sri Lanka,2,LD Chandimal,R Ashwin,DAS Gunaratne,,0,0,0,caught,LD Chandimal,HH Pandya,365423654
+1,Sri Lanka,2,DAS Gunaratne,R Ashwin,TAM Siriwardana,,0,0,0,,,,365423654
+1,Sri Lanka,2,DAS Gunaratne,R Ashwin,TAM Siriwardana,,0,0,0,,,,365423654
+1,Sri Lanka,2,DAS Gunaratne,R Ashwin,TAM Siriwardana,,0,0,0,,,,365423654
+1,Sri Lanka,2,DAS Gunaratne,R Ashwin,TAM Siriwardana,,0,2,2,,,,365423654
+1,Sri Lanka,2,DAS Gunaratne,R Ashwin,TAM Siriwardana,,0,1,1,,,,365423654
+1,Sri Lanka,3,DAS Gunaratne,JJ Bumrah,TAM Siriwardana,,0,0,0,,,,365423654
+1,Sri Lanka,3,DAS Gunaratne,JJ Bumrah,TAM Siriwardana,,0,0,0,,,,365423654
+1,Sri Lanka,3,DAS Gunaratne,JJ Bumrah,TAM Siriwardana,,0,0,0,,,,365423654
+1,Sri Lanka,3,DAS Gunaratne,JJ Bumrah,TAM Siriwardana,,0,0,0,,,,365423654
+1,Sri Lanka,3,DAS Gunaratne,JJ Bumrah,TAM Siriwardana,,0,1,1,,,,365423654
+1,Sri Lanka,3,TAM Siriwardana,JJ Bumrah,DAS Gunaratne,,0,4,4,,,,365423654
+1,Sri Lanka,4,DAS Gunaratne,R Ashwin,TAM Siriwardana,,0,0,0,,,,365423654
+1,Sri Lanka,4,DAS Gunaratne,R Ashwin,TAM Siriwardana,,0,0,0,caught,DAS Gunaratne,SK Raina,365423654
+1,Sri Lanka,4,MD Shanaka,R Ashwin,TAM Siriwardana,,0,0,0,,,,365423654
+1,Sri Lanka,4,MD Shanaka,R Ashwin,TAM Siriwardana,,0,0,0,,,,365423654
+1,Sri Lanka,4,MD Shanaka,R Ashwin,TAM Siriwardana,,0,0,0,,,,365423654
+1,Sri Lanka,4,MD Shanaka,R Ashwin,TAM Siriwardana,,0,0,0,,,,365423654
+1,Sri Lanka,5,TAM Siriwardana,A Nehra,MD Shanaka,wides,1,1,0,,,,365423654
+1,Sri Lanka,5,TAM Siriwardana,A Nehra,MD Shanaka,,0,0,0,bowled,TAM Siriwardana,,365423654
+1,Sri Lanka,5,S Prasanna,A Nehra,MD Shanaka,,0,0,0,,,,365423654
+1,Sri Lanka,5,S Prasanna,A Nehra,MD Shanaka,,0,0,0,,,,365423654
+1,Sri Lanka,5,S Prasanna,A Nehra,MD Shanaka,,0,4,4,,,,365423654
+1,Sri Lanka,5,S Prasanna,A Nehra,MD Shanaka,,0,0,0,,,,365423654
+1,Sri Lanka,5,S Prasanna,A Nehra,MD Shanaka,,0,4,4,,,,365423654
+1,Sri Lanka,6,MD Shanaka,RA Jadeja,S Prasanna,,0,0,0,,,,365423654
+1,Sri Lanka,6,MD Shanaka,RA Jadeja,S Prasanna,,0,4,4,,,,365423654
+1,Sri Lanka,6,MD Shanaka,RA Jadeja,S Prasanna,,0,0,0,,,,365423654
+1,Sri Lanka,6,MD Shanaka,RA Jadeja,S Prasanna,,0,0,0,,,,365423654
+1,Sri Lanka,6,MD Shanaka,RA Jadeja,S Prasanna,,0,0,0,,,,365423654
+1,Sri Lanka,6,MD Shanaka,RA Jadeja,S Prasanna,,0,0,0,,,,365423654
+1,Sri Lanka,7,S Prasanna,Yuvraj Singh,MD Shanaka,,0,1,1,,,,365423654
+1,Sri Lanka,7,MD Shanaka,Yuvraj Singh,S Prasanna,,0,0,0,,,,365423654
+1,Sri Lanka,7,MD Shanaka,Yuvraj Singh,S Prasanna,noballs,1,7,6,,,,365423654
+1,Sri Lanka,7,MD Shanaka,Yuvraj Singh,S Prasanna,,0,6,6,,,,365423654
+1,Sri Lanka,7,MD Shanaka,Yuvraj Singh,S Prasanna,,0,1,1,,,,365423654
+1,Sri Lanka,7,S Prasanna,Yuvraj Singh,MD Shanaka,,0,0,0,run out,S Prasanna,RA Jadeja,365423654
+1,Sri Lanka,7,MD Shanaka,Yuvraj Singh,NLTC Perera,,0,0,0,,,,365423654
+1,Sri Lanka,8,NLTC Perera,RA Jadeja,MD Shanaka,,0,0,0,,,,365423654
+1,Sri Lanka,8,NLTC Perera,RA Jadeja,MD Shanaka,wides,1,1,0,,,,365423654
+1,Sri Lanka,8,NLTC Perera,RA Jadeja,MD Shanaka,,0,1,1,,,,365423654
+1,Sri Lanka,8,MD Shanaka,RA Jadeja,NLTC Perera,,0,0,0,,,,365423654
+1,Sri Lanka,8,MD Shanaka,RA Jadeja,NLTC Perera,,0,0,0,,,,365423654
+1,Sri Lanka,8,MD Shanaka,RA Jadeja,NLTC Perera,,0,0,0,,,,365423654
+1,Sri Lanka,8,MD Shanaka,RA Jadeja,NLTC Perera,,0,0,0,,,,365423654
+1,Sri Lanka,9,NLTC Perera,HH Pandya,MD Shanaka,,0,1,1,,,,365423654
+1,Sri Lanka,9,MD Shanaka,HH Pandya,NLTC Perera,,0,1,1,,,,365423654
+1,Sri Lanka,9,NLTC Perera,HH Pandya,MD Shanaka,,0,1,1,,,,365423654
+1,Sri Lanka,9,MD Shanaka,HH Pandya,NLTC Perera,,0,1,1,,,,365423654
+1,Sri Lanka,9,NLTC Perera,HH Pandya,MD Shanaka,,0,0,0,,,,365423654
+1,Sri Lanka,9,NLTC Perera,HH Pandya,MD Shanaka,,0,0,0,,,,365423654
+1,Sri Lanka,10,MD Shanaka,RA Jadeja,NLTC Perera,,0,0,0,,,,365423654
+1,Sri Lanka,10,MD Shanaka,RA Jadeja,NLTC Perera,,0,0,0,,,,365423654
+1,Sri Lanka,10,MD Shanaka,RA Jadeja,NLTC Perera,,0,0,0,bowled,MD Shanaka,,365423654
+1,Sri Lanka,10,SMSM Senanayake,RA Jadeja,NLTC Perera,,0,0,0,,,,365423654
+1,Sri Lanka,10,SMSM Senanayake,RA Jadeja,NLTC Perera,,0,0,0,,,,365423654
+1,Sri Lanka,10,SMSM Senanayake,RA Jadeja,NLTC Perera,,0,0,0,,,,365423654
+1,Sri Lanka,11,NLTC Perera,HH Pandya,SMSM Senanayake,,0,1,1,,,,365423654
+1,Sri Lanka,11,SMSM Senanayake,HH Pandya,NLTC Perera,,0,1,1,,,,365423654
+1,Sri Lanka,11,NLTC Perera,HH Pandya,SMSM Senanayake,,0,4,4,,,,365423654
+1,Sri Lanka,11,NLTC Perera,HH Pandya,SMSM Senanayake,,0,1,1,,,,365423654
+1,Sri Lanka,11,SMSM Senanayake,HH Pandya,NLTC Perera,wides,1,1,0,,,,365423654
+1,Sri Lanka,11,SMSM Senanayake,HH Pandya,NLTC Perera,,0,0,0,,,,365423654
+1,Sri Lanka,11,SMSM Senanayake,HH Pandya,NLTC Perera,,0,1,1,,,,365423654
+1,Sri Lanka,12,SMSM Senanayake,SK Raina,NLTC Perera,,0,0,0,,,,365423654
+1,Sri Lanka,12,SMSM Senanayake,SK Raina,NLTC Perera,,0,0,0,,,,365423654
+1,Sri Lanka,12,SMSM Senanayake,SK Raina,NLTC Perera,,0,2,2,,,,365423654
+1,Sri Lanka,12,SMSM Senanayake,SK Raina,NLTC Perera,,0,0,0,,,,365423654
+1,Sri Lanka,12,SMSM Senanayake,SK Raina,NLTC Perera,,0,1,1,,,,365423654
+1,Sri Lanka,12,NLTC Perera,SK Raina,SMSM Senanayake,,0,0,0,,,,365423654
+1,Sri Lanka,13,SMSM Senanayake,R Ashwin,NLTC Perera,,0,1,1,,,,365423654
+1,Sri Lanka,13,NLTC Perera,R Ashwin,SMSM Senanayake,,0,0,0,,,,365423654
+1,Sri Lanka,13,NLTC Perera,R Ashwin,SMSM Senanayake,,0,1,1,,,,365423654
+1,Sri Lanka,13,SMSM Senanayake,R Ashwin,NLTC Perera,,0,1,1,,,,365423654
+1,Sri Lanka,13,NLTC Perera,R Ashwin,SMSM Senanayake,,0,0,0,,,,365423654
+1,Sri Lanka,13,NLTC Perera,R Ashwin,SMSM Senanayake,,0,0,0,,,,365423654
+1,Sri Lanka,14,SMSM Senanayake,JJ Bumrah,NLTC Perera,,0,1,1,,,,365423654
+1,Sri Lanka,14,NLTC Perera,JJ Bumrah,SMSM Senanayake,,0,0,0,,,,365423654
+1,Sri Lanka,14,NLTC Perera,JJ Bumrah,SMSM Senanayake,,0,0,0,,,,365423654
+1,Sri Lanka,14,NLTC Perera,JJ Bumrah,SMSM Senanayake,,0,0,0,,,,365423654
+1,Sri Lanka,14,NLTC Perera,JJ Bumrah,SMSM Senanayake,,0,1,1,,,,365423654
+1,Sri Lanka,14,SMSM Senanayake,JJ Bumrah,NLTC Perera,,0,0,0,,,,365423654
+1,Sri Lanka,15,NLTC Perera,SK Raina,SMSM Senanayake,,0,1,1,,,,365423654
+1,Sri Lanka,15,SMSM Senanayake,SK Raina,NLTC Perera,,0,0,0,caught,SMSM Senanayake,MS Dhoni,365423654
+1,Sri Lanka,15,PVD Chameera,SK Raina,NLTC Perera,,0,1,1,,,,365423654
+1,Sri Lanka,15,NLTC Perera,SK Raina,PVD Chameera,,0,0,0,caught,NLTC Perera,RA Jadeja,365423654
+1,Sri Lanka,15,PVD Chameera,SK Raina,CRD Fernando,,0,1,1,,,,365423654
+1,Sri Lanka,15,CRD Fernando,SK Raina,PVD Chameera,,0,0,0,,,,365423654
+1,Sri Lanka,16,PVD Chameera,RA Jadeja,CRD Fernando,,0,0,0,,,,365423654
+1,Sri Lanka,16,PVD Chameera,RA Jadeja,CRD Fernando,,0,0,0,,,,365423654
+1,Sri Lanka,16,PVD Chameera,RA Jadeja,CRD Fernando,,0,0,0,,,,365423654
+1,Sri Lanka,16,PVD Chameera,RA Jadeja,CRD Fernando,,0,4,4,,,,365423654
+1,Sri Lanka,16,PVD Chameera,RA Jadeja,CRD Fernando,,0,1,1,,,,365423654
+1,Sri Lanka,16,CRD Fernando,RA Jadeja,PVD Chameera,,0,0,0,,,,365423654
+1,Sri Lanka,17,PVD Chameera,JJ Bumrah,CRD Fernando,,0,1,1,,,,365423654
+1,Sri Lanka,17,CRD Fernando,JJ Bumrah,PVD Chameera,,0,0,0,,,,365423654
+1,Sri Lanka,17,CRD Fernando,JJ Bumrah,PVD Chameera,,0,0,0,,,,365423654
+1,Sri Lanka,17,CRD Fernando,JJ Bumrah,PVD Chameera,,0,1,1,,,,365423654
+1,Sri Lanka,17,PVD Chameera,JJ Bumrah,CRD Fernando,,0,1,1,,,,365423654
+1,Sri Lanka,17,CRD Fernando,JJ Bumrah,PVD Chameera,,0,0,0,bowled,CRD Fernando,,365423654

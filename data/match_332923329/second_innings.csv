@@ -1,0 +1,79 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Kenya,0,AA Obanda,Mudassar Bukhari,T Mishra,wides,1,1,0,,,,332923329
+2,Kenya,0,AA Obanda,Mudassar Bukhari,T Mishra,,0,0,0,,,,332923329
+2,Kenya,0,AA Obanda,Mudassar Bukhari,T Mishra,,0,0,0,,,,332923329
+2,Kenya,0,AA Obanda,Mudassar Bukhari,T Mishra,,0,4,4,,,,332923329
+2,Kenya,0,AA Obanda,Mudassar Bukhari,T Mishra,,0,0,0,,,,332923329
+2,Kenya,0,AA Obanda,Mudassar Bukhari,T Mishra,,0,0,0,,,,332923329
+2,Kenya,0,AA Obanda,Mudassar Bukhari,T Mishra,,0,2,2,,,,332923329
+2,Kenya,1,T Mishra,PA van Meekeren,AA Obanda,,0,4,4,,,,332923329
+2,Kenya,1,T Mishra,PA van Meekeren,AA Obanda,,0,0,0,,,,332923329
+2,Kenya,1,T Mishra,PA van Meekeren,AA Obanda,,0,1,1,,,,332923329
+2,Kenya,1,AA Obanda,PA van Meekeren,T Mishra,,0,6,6,,,,332923329
+2,Kenya,1,AA Obanda,PA van Meekeren,T Mishra,,0,0,0,,,,332923329
+2,Kenya,1,AA Obanda,PA van Meekeren,T Mishra,,0,4,4,,,,332923329
+2,Kenya,2,T Mishra,Mudassar Bukhari,AA Obanda,,0,0,0,,,,332923329
+2,Kenya,2,T Mishra,Mudassar Bukhari,AA Obanda,,0,0,0,lbw,T Mishra,,332923329
+2,Kenya,2,MA Ouma,Mudassar Bukhari,AA Obanda,,0,0,0,,,,332923329
+2,Kenya,2,MA Ouma,Mudassar Bukhari,AA Obanda,,0,0,0,,,,332923329
+2,Kenya,2,MA Ouma,Mudassar Bukhari,AA Obanda,byes,1,1,0,,,,332923329
+2,Kenya,2,AA Obanda,Mudassar Bukhari,MA Ouma,,0,0,0,,,,332923329
+2,Kenya,3,MA Ouma,PA van Meekeren,AA Obanda,,0,1,1,,,,332923329
+2,Kenya,3,AA Obanda,PA van Meekeren,MA Ouma,,0,2,2,,,,332923329
+2,Kenya,3,AA Obanda,PA van Meekeren,MA Ouma,,0,0,0,,,,332923329
+2,Kenya,3,AA Obanda,PA van Meekeren,MA Ouma,,0,0,0,,,,332923329
+2,Kenya,3,AA Obanda,PA van Meekeren,MA Ouma,noballs,1,1,0,,,,332923329
+2,Kenya,3,AA Obanda,PA van Meekeren,MA Ouma,,0,4,4,,,,332923329
+2,Kenya,3,AA Obanda,PA van Meekeren,MA Ouma,,0,1,1,,,,332923329
+2,Kenya,4,AA Obanda,Mudassar Bukhari,MA Ouma,,0,1,1,,,,332923329
+2,Kenya,4,MA Ouma,Mudassar Bukhari,AA Obanda,,0,0,0,,,,332923329
+2,Kenya,4,MA Ouma,Mudassar Bukhari,AA Obanda,,0,1,1,,,,332923329
+2,Kenya,4,AA Obanda,Mudassar Bukhari,MA Ouma,,0,4,4,,,,332923329
+2,Kenya,4,AA Obanda,Mudassar Bukhari,MA Ouma,,0,0,0,bowled,AA Obanda,,332923329
+2,Kenya,4,CO Obuya,Mudassar Bukhari,MA Ouma,,0,0,0,,,,332923329
+2,Kenya,5,MA Ouma,PA van Meekeren,CO Obuya,,0,1,1,,,,332923329
+2,Kenya,5,CO Obuya,PA van Meekeren,MA Ouma,,0,0,0,,,,332923329
+2,Kenya,5,CO Obuya,PA van Meekeren,MA Ouma,,0,1,1,,,,332923329
+2,Kenya,5,MA Ouma,PA van Meekeren,CO Obuya,,0,4,4,,,,332923329
+2,Kenya,5,MA Ouma,PA van Meekeren,CO Obuya,,0,4,4,,,,332923329
+2,Kenya,5,MA Ouma,PA van Meekeren,CO Obuya,,0,0,0,,,,332923329
+2,Kenya,6,CO Obuya,PM Seelaar,MA Ouma,,0,1,1,,,,332923329
+2,Kenya,6,MA Ouma,PM Seelaar,CO Obuya,,0,0,0,,,,332923329
+2,Kenya,6,MA Ouma,PM Seelaar,CO Obuya,,0,0,0,run out,MA Ouma,Ahsan Malik,332923329
+2,Kenya,6,CO Obuya,PM Seelaar,RR Patel,wides,1,1,0,,,,332923329
+2,Kenya,6,CO Obuya,PM Seelaar,RR Patel,,0,0,0,,,,332923329
+2,Kenya,6,CO Obuya,PM Seelaar,RR Patel,,0,0,0,,,,332923329
+2,Kenya,6,CO Obuya,PM Seelaar,RR Patel,,0,1,1,,,,332923329
+2,Kenya,7,CO Obuya,MJG Rippon,RR Patel,,0,2,2,,,,332923329
+2,Kenya,7,CO Obuya,MJG Rippon,RR Patel,,0,1,1,,,,332923329
+2,Kenya,7,RR Patel,MJG Rippon,CO Obuya,,0,0,0,,,,332923329
+2,Kenya,7,RR Patel,MJG Rippon,CO Obuya,,0,1,1,,,,332923329
+2,Kenya,7,CO Obuya,MJG Rippon,RR Patel,,0,0,0,,,,332923329
+2,Kenya,7,CO Obuya,MJG Rippon,RR Patel,,0,4,4,,,,332923329
+2,Kenya,8,RR Patel,PM Seelaar,CO Obuya,,0,1,1,,,,332923329
+2,Kenya,8,CO Obuya,PM Seelaar,RR Patel,,0,1,1,,,,332923329
+2,Kenya,8,RR Patel,PM Seelaar,CO Obuya,,0,4,4,,,,332923329
+2,Kenya,8,RR Patel,PM Seelaar,CO Obuya,,0,0,0,,,,332923329
+2,Kenya,8,RR Patel,PM Seelaar,CO Obuya,,0,1,1,,,,332923329
+2,Kenya,8,CO Obuya,PM Seelaar,RR Patel,,0,0,0,,,,332923329
+2,Kenya,9,RR Patel,MJG Rippon,CO Obuya,,0,0,0,,,,332923329
+2,Kenya,9,RR Patel,MJG Rippon,CO Obuya,,0,6,6,,,,332923329
+2,Kenya,9,RR Patel,MJG Rippon,CO Obuya,,0,0,0,,,,332923329
+2,Kenya,9,RR Patel,MJG Rippon,CO Obuya,,0,0,0,,,,332923329
+2,Kenya,9,RR Patel,MJG Rippon,CO Obuya,,0,2,2,,,,332923329
+2,Kenya,9,RR Patel,MJG Rippon,CO Obuya,,0,0,0,,,,332923329
+2,Kenya,10,CO Obuya,Mudassar Bukhari,RR Patel,,0,1,1,,,,332923329
+2,Kenya,10,RR Patel,Mudassar Bukhari,CO Obuya,,0,0,0,,,,332923329
+2,Kenya,10,RR Patel,Mudassar Bukhari,CO Obuya,,0,4,4,,,,332923329
+2,Kenya,10,RR Patel,Mudassar Bukhari,CO Obuya,,0,1,1,,,,332923329
+2,Kenya,10,CO Obuya,Mudassar Bukhari,RR Patel,,0,4,4,,,,332923329
+2,Kenya,10,CO Obuya,Mudassar Bukhari,RR Patel,,0,1,1,,,,332923329
+2,Kenya,11,CO Obuya,MJG Rippon,RR Patel,wides,1,1,0,,,,332923329
+2,Kenya,11,CO Obuya,MJG Rippon,RR Patel,,0,1,1,,,,332923329
+2,Kenya,11,RR Patel,MJG Rippon,CO Obuya,,0,6,6,,,,332923329
+2,Kenya,11,RR Patel,MJG Rippon,CO Obuya,,0,6,6,,,,332923329
+2,Kenya,11,RR Patel,MJG Rippon,CO Obuya,,0,6,6,,,,332923329
+2,Kenya,11,RR Patel,MJG Rippon,CO Obuya,,0,6,6,,,,332923329
+2,Kenya,11,RR Patel,MJG Rippon,CO Obuya,,0,2,2,,,,332923329
+2,Kenya,12,CO Obuya,DLS van Bunge,RR Patel,,0,0,0,,,,332923329
+2,Kenya,12,CO Obuya,DLS van Bunge,RR Patel,,0,1,1,,,,332923329

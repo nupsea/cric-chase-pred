@@ -1,0 +1,126 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,India,0,M Raj,Nahida Akter,S Mandhana,,0,0,0,,,,390023900
+1,India,0,M Raj,Nahida Akter,S Mandhana,,0,0,0,,,,390023900
+1,India,0,M Raj,Nahida Akter,S Mandhana,,0,1,1,,,,390023900
+1,India,0,S Mandhana,Nahida Akter,M Raj,,0,1,1,,,,390023900
+1,India,0,M Raj,Nahida Akter,S Mandhana,,0,0,0,,,,390023900
+1,India,0,M Raj,Nahida Akter,S Mandhana,,0,0,0,,,,390023900
+1,India,1,S Mandhana,Salma Khatun,M Raj,,0,0,0,,,,390023900
+1,India,1,S Mandhana,Salma Khatun,M Raj,,0,0,0,,,,390023900
+1,India,1,S Mandhana,Salma Khatun,M Raj,,0,2,2,,,,390023900
+1,India,1,S Mandhana,Salma Khatun,M Raj,,0,0,0,,,,390023900
+1,India,1,S Mandhana,Salma Khatun,M Raj,,0,0,0,,,,390023900
+1,India,1,S Mandhana,Salma Khatun,M Raj,,0,4,4,,,,390023900
+1,India,2,M Raj,Nahida Akter,S Mandhana,,0,1,1,,,,390023900
+1,India,2,S Mandhana,Nahida Akter,M Raj,,0,0,0,,,,390023900
+1,India,2,S Mandhana,Nahida Akter,M Raj,,0,0,0,,,,390023900
+1,India,2,S Mandhana,Nahida Akter,M Raj,,0,0,0,,,,390023900
+1,India,2,S Mandhana,Nahida Akter,M Raj,,0,0,0,,,,390023900
+1,India,2,S Mandhana,Nahida Akter,M Raj,,0,0,0,,,,390023900
+1,India,3,M Raj,Salma Khatun,S Mandhana,wides,1,1,0,,,,390023900
+1,India,3,M Raj,Salma Khatun,S Mandhana,,0,2,2,run out,S Mandhana,,390023900
+1,India,3,DB Sharma,Salma Khatun,M Raj,,0,0,0,,,,390023900
+1,India,3,DB Sharma,Salma Khatun,M Raj,,0,0,0,,,,390023900
+1,India,3,DB Sharma,Salma Khatun,M Raj,,0,0,0,,,,390023900
+1,India,3,DB Sharma,Salma Khatun,M Raj,,0,0,0,,,,390023900
+1,India,3,DB Sharma,Salma Khatun,M Raj,,0,1,1,,,,390023900
+1,India,4,DB Sharma,Nahida Akter,M Raj,,0,0,0,,,,390023900
+1,India,4,DB Sharma,Nahida Akter,M Raj,wides,1,1,0,,,,390023900
+1,India,4,DB Sharma,Nahida Akter,M Raj,,0,1,1,,,,390023900
+1,India,4,M Raj,Nahida Akter,DB Sharma,,0,0,0,,,,390023900
+1,India,4,M Raj,Nahida Akter,DB Sharma,,0,0,0,,,,390023900
+1,India,4,M Raj,Nahida Akter,DB Sharma,,0,0,0,,,,390023900
+1,India,4,M Raj,Nahida Akter,DB Sharma,,0,1,1,,,,390023900
+1,India,5,M Raj,Khadija Tul Kubra,DB Sharma,,0,1,1,,,,390023900
+1,India,5,DB Sharma,Khadija Tul Kubra,M Raj,,0,0,0,,,,390023900
+1,India,5,DB Sharma,Khadija Tul Kubra,M Raj,,0,1,1,,,,390023900
+1,India,5,M Raj,Khadija Tul Kubra,DB Sharma,,0,2,2,,,,390023900
+1,India,5,M Raj,Khadija Tul Kubra,DB Sharma,,0,0,0,,,,390023900
+1,India,5,M Raj,Khadija Tul Kubra,DB Sharma,,0,1,1,,,,390023900
+1,India,6,M Raj,Jahanara Alam,DB Sharma,,0,1,1,,,,390023900
+1,India,6,DB Sharma,Jahanara Alam,M Raj,wides,1,1,0,,,,390023900
+1,India,6,DB Sharma,Jahanara Alam,M Raj,,0,1,1,,,,390023900
+1,India,6,M Raj,Jahanara Alam,DB Sharma,wides,1,1,0,,,,390023900
+1,India,6,M Raj,Jahanara Alam,DB Sharma,,0,1,1,,,,390023900
+1,India,6,DB Sharma,Jahanara Alam,M Raj,,0,0,0,bowled,DB Sharma,,390023900
+1,India,6,H Kaur,Jahanara Alam,M Raj,,0,0,0,,,,390023900
+1,India,6,H Kaur,Jahanara Alam,M Raj,,0,2,2,,,,390023900
+1,India,7,M Raj,Khadija Tul Kubra,H Kaur,,0,0,0,caught,M Raj,Fargana Hoque,390023900
+1,India,7,AA Patil,Khadija Tul Kubra,H Kaur,,0,2,2,,,,390023900
+1,India,7,AA Patil,Khadija Tul Kubra,H Kaur,,0,0,0,,,,390023900
+1,India,7,AA Patil,Khadija Tul Kubra,H Kaur,,0,1,1,,,,390023900
+1,India,7,H Kaur,Khadija Tul Kubra,AA Patil,,0,1,1,,,,390023900
+1,India,7,AA Patil,Khadija Tul Kubra,H Kaur,,0,0,0,,,,390023900
+1,India,8,H Kaur,Jahanara Alam,AA Patil,,0,0,0,,,,390023900
+1,India,8,H Kaur,Jahanara Alam,AA Patil,,0,0,0,obstructing the field,AA Patil,,390023900
+1,India,8,H Kaur,Jahanara Alam,V Krishnamurthy,,0,0,0,,,,390023900
+1,India,8,H Kaur,Jahanara Alam,V Krishnamurthy,,0,4,4,,,,390023900
+1,India,8,H Kaur,Jahanara Alam,V Krishnamurthy,,0,1,1,,,,390023900
+1,India,8,V Krishnamurthy,Jahanara Alam,H Kaur,,0,0,0,,,,390023900
+1,India,9,H Kaur,Rumana Ahmed,V Krishnamurthy,,0,0,0,,,,390023900
+1,India,9,H Kaur,Rumana Ahmed,V Krishnamurthy,,0,0,0,,,,390023900
+1,India,9,H Kaur,Rumana Ahmed,V Krishnamurthy,,0,1,1,,,,390023900
+1,India,9,V Krishnamurthy,Rumana Ahmed,H Kaur,,0,1,1,,,,390023900
+1,India,9,H Kaur,Rumana Ahmed,V Krishnamurthy,,0,1,1,,,,390023900
+1,India,9,V Krishnamurthy,Rumana Ahmed,H Kaur,,0,2,2,,,,390023900
+1,India,10,H Kaur,Jahanara Alam,V Krishnamurthy,,0,4,4,,,,390023900
+1,India,10,H Kaur,Jahanara Alam,V Krishnamurthy,,0,1,1,,,,390023900
+1,India,10,V Krishnamurthy,Jahanara Alam,H Kaur,,0,4,4,,,,390023900
+1,India,10,V Krishnamurthy,Jahanara Alam,H Kaur,,0,1,1,,,,390023900
+1,India,10,H Kaur,Jahanara Alam,V Krishnamurthy,,0,1,1,,,,390023900
+1,India,10,V Krishnamurthy,Jahanara Alam,H Kaur,,0,0,0,,,,390023900
+1,India,11,H Kaur,Rumana Ahmed,V Krishnamurthy,,0,0,0,,,,390023900
+1,India,11,H Kaur,Rumana Ahmed,V Krishnamurthy,,0,1,1,,,,390023900
+1,India,11,V Krishnamurthy,Rumana Ahmed,H Kaur,,0,2,2,,,,390023900
+1,India,11,V Krishnamurthy,Rumana Ahmed,H Kaur,wides,1,1,0,,,,390023900
+1,India,11,V Krishnamurthy,Rumana Ahmed,H Kaur,,0,0,0,,,,390023900
+1,India,11,V Krishnamurthy,Rumana Ahmed,H Kaur,,0,1,1,,,,390023900
+1,India,11,H Kaur,Rumana Ahmed,V Krishnamurthy,,0,1,1,,,,390023900
+1,India,12,H Kaur,Salma Khatun,V Krishnamurthy,,0,2,2,,,,390023900
+1,India,12,H Kaur,Salma Khatun,V Krishnamurthy,,0,1,1,,,,390023900
+1,India,12,V Krishnamurthy,Salma Khatun,H Kaur,,0,0,0,bowled,V Krishnamurthy,,390023900
+1,India,12,T Bhatia,Salma Khatun,H Kaur,,0,0,0,,,,390023900
+1,India,12,T Bhatia,Salma Khatun,H Kaur,,0,0,0,,,,390023900
+1,India,12,T Bhatia,Salma Khatun,H Kaur,,0,1,1,,,,390023900
+1,India,13,T Bhatia,Fahima Khatun,H Kaur,,0,1,1,,,,390023900
+1,India,13,H Kaur,Fahima Khatun,T Bhatia,,0,4,4,,,,390023900
+1,India,13,H Kaur,Fahima Khatun,T Bhatia,,0,1,1,,,,390023900
+1,India,13,T Bhatia,Fahima Khatun,H Kaur,,0,1,1,,,,390023900
+1,India,13,H Kaur,Fahima Khatun,T Bhatia,,0,0,0,,,,390023900
+1,India,13,H Kaur,Fahima Khatun,T Bhatia,,0,1,1,,,,390023900
+1,India,14,H Kaur,Rumana Ahmed,T Bhatia,,0,1,1,,,,390023900
+1,India,14,T Bhatia,Rumana Ahmed,H Kaur,,0,0,0,stumped,T Bhatia,Shamima Sultana,390023900
+1,India,14,S Pandey,Rumana Ahmed,H Kaur,,0,0,0,,,,390023900
+1,India,14,S Pandey,Rumana Ahmed,H Kaur,,0,1,1,,,,390023900
+1,India,14,H Kaur,Rumana Ahmed,S Pandey,,0,1,1,,,,390023900
+1,India,14,S Pandey,Rumana Ahmed,H Kaur,,0,0,0,caught,S Pandey,Shamima Sultana,390023900
+1,India,15,H Kaur,Nahida Akter,J Goswami,,0,4,4,,,,390023900
+1,India,15,H Kaur,Nahida Akter,J Goswami,,0,1,1,,,,390023900
+1,India,15,J Goswami,Nahida Akter,H Kaur,,0,0,0,,,,390023900
+1,India,15,J Goswami,Nahida Akter,H Kaur,,0,0,0,,,,390023900
+1,India,15,J Goswami,Nahida Akter,H Kaur,,0,0,0,,,,390023900
+1,India,15,J Goswami,Nahida Akter,H Kaur,,0,1,1,,,,390023900
+1,India,16,J Goswami,Rumana Ahmed,H Kaur,,0,0,0,,,,390023900
+1,India,16,J Goswami,Rumana Ahmed,H Kaur,,0,1,1,,,,390023900
+1,India,16,H Kaur,Rumana Ahmed,J Goswami,,0,1,1,,,,390023900
+1,India,16,J Goswami,Rumana Ahmed,H Kaur,,0,4,4,,,,390023900
+1,India,16,J Goswami,Rumana Ahmed,H Kaur,,0,1,1,,,,390023900
+1,India,16,H Kaur,Rumana Ahmed,J Goswami,,0,1,1,,,,390023900
+1,India,17,H Kaur,Khadija Tul Kubra,J Goswami,,0,1,1,,,,390023900
+1,India,17,J Goswami,Khadija Tul Kubra,H Kaur,,0,1,1,,,,390023900
+1,India,17,H Kaur,Khadija Tul Kubra,J Goswami,,0,1,1,,,,390023900
+1,India,17,J Goswami,Khadija Tul Kubra,H Kaur,,0,1,1,,,,390023900
+1,India,17,H Kaur,Khadija Tul Kubra,J Goswami,,0,4,4,,,,390023900
+1,India,17,H Kaur,Khadija Tul Kubra,J Goswami,,0,1,1,,,,390023900
+1,India,18,H Kaur,Salma Khatun,J Goswami,,0,0,0,,,,390023900
+1,India,18,H Kaur,Salma Khatun,J Goswami,,0,0,0,,,,390023900
+1,India,18,H Kaur,Salma Khatun,J Goswami,,0,1,1,,,,390023900
+1,India,18,J Goswami,Salma Khatun,H Kaur,,0,1,1,,,,390023900
+1,India,18,H Kaur,Salma Khatun,J Goswami,,0,4,4,,,,390023900
+1,India,18,H Kaur,Salma Khatun,J Goswami,,0,4,4,,,,390023900
+1,India,19,J Goswami,Khadija Tul Kubra,H Kaur,,0,0,0,run out,J Goswami,,390023900
+1,India,19,E Bisht,Khadija Tul Kubra,H Kaur,,0,0,0,,,,390023900
+1,India,19,E Bisht,Khadija Tul Kubra,H Kaur,,0,1,1,,,,390023900
+1,India,19,H Kaur,Khadija Tul Kubra,E Bisht,,0,2,2,,,,390023900
+1,India,19,H Kaur,Khadija Tul Kubra,E Bisht,,0,2,2,,,,390023900
+1,India,19,H Kaur,Khadija Tul Kubra,E Bisht,,0,0,0,caught,H Kaur,Jahanara Alam,390023900

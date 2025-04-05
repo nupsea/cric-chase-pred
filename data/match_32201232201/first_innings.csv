@@ -1,0 +1,63 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Maldives,0,Abdullah Shahid,Pavandeep Singh,Azyan Farhath,,0,0,0,,,,32201232201
+1,Maldives,0,Abdullah Shahid,Pavandeep Singh,Azyan Farhath,,0,1,1,,,,32201232201
+1,Maldives,0,Azyan Farhath,Pavandeep Singh,Abdullah Shahid,wides,1,1,0,,,,32201232201
+1,Maldives,0,Azyan Farhath,Pavandeep Singh,Abdullah Shahid,,0,4,4,,,,32201232201
+1,Maldives,0,Azyan Farhath,Pavandeep Singh,Abdullah Shahid,,0,0,0,,,,32201232201
+1,Maldives,0,Azyan Farhath,Pavandeep Singh,Abdullah Shahid,,0,0,0,,,,32201232201
+1,Maldives,0,Azyan Farhath,Pavandeep Singh,Abdullah Shahid,,0,1,1,,,,32201232201
+1,Maldives,1,Azyan Farhath,Syazrul Idrus,Abdullah Shahid,,0,0,0,,,,32201232201
+1,Maldives,1,Azyan Farhath,Syazrul Idrus,Abdullah Shahid,,0,0,0,caught,Azyan Farhath,Ahmed Faiz,32201232201
+1,Maldives,1,Mohamed Rishwan,Syazrul Idrus,Abdullah Shahid,,0,6,6,,,,32201232201
+1,Maldives,1,Mohamed Rishwan,Syazrul Idrus,Abdullah Shahid,,0,1,1,,,,32201232201
+1,Maldives,1,Abdullah Shahid,Syazrul Idrus,Mohamed Rishwan,,0,0,0,,,,32201232201
+1,Maldives,1,Abdullah Shahid,Syazrul Idrus,Mohamed Rishwan,,0,0,0,,,,32201232201
+1,Maldives,2,Mohamed Rishwan,Pavandeep Singh,Abdullah Shahid,,0,0,0,,,,32201232201
+1,Maldives,2,Mohamed Rishwan,Pavandeep Singh,Abdullah Shahid,,0,0,0,caught,Mohamed Rishwan,Zubaidi Zulkifle,32201232201
+1,Maldives,2,Abdullah Shahid,Pavandeep Singh,Umar Adam,,0,1,1,,,,32201232201
+1,Maldives,2,Umar Adam,Pavandeep Singh,Abdullah Shahid,,0,0,0,,,,32201232201
+1,Maldives,2,Umar Adam,Pavandeep Singh,Abdullah Shahid,,0,4,4,,,,32201232201
+1,Maldives,2,Umar Adam,Pavandeep Singh,Abdullah Shahid,,0,0,0,,,,32201232201
+1,Maldives,3,Abdullah Shahid,Syazrul Idrus,Umar Adam,,0,1,1,,,,32201232201
+1,Maldives,3,Umar Adam,Syazrul Idrus,Abdullah Shahid,,0,1,1,,,,32201232201
+1,Maldives,3,Abdullah Shahid,Syazrul Idrus,Umar Adam,,0,4,4,,,,32201232201
+1,Maldives,3,Abdullah Shahid,Syazrul Idrus,Umar Adam,,0,1,1,,,,32201232201
+1,Maldives,3,Umar Adam,Syazrul Idrus,Abdullah Shahid,wides,1,1,0,,,,32201232201
+1,Maldives,3,Umar Adam,Syazrul Idrus,Abdullah Shahid,,0,0,0,,,,32201232201
+1,Maldives,3,Umar Adam,Syazrul Idrus,Abdullah Shahid,,0,0,0,caught,Umar Adam,S Muniandy,32201232201
+1,Maldives,4,Ibrahim Nashath,Fitri Sham,Abdullah Shahid,,0,1,1,,,,32201232201
+1,Maldives,4,Abdullah Shahid,Fitri Sham,Ibrahim Nashath,,0,1,1,,,,32201232201
+1,Maldives,4,Ibrahim Nashath,Fitri Sham,Abdullah Shahid,,0,0,0,,,,32201232201
+1,Maldives,4,Ibrahim Nashath,Fitri Sham,Abdullah Shahid,,0,0,0,,,,32201232201
+1,Maldives,4,Ibrahim Nashath,Fitri Sham,Abdullah Shahid,,0,0,0,,,,32201232201
+1,Maldives,4,Ibrahim Nashath,Fitri Sham,Abdullah Shahid,,0,1,1,,,,32201232201
+1,Maldives,5,Ibrahim Nashath,Virandeep Singh,Abdullah Shahid,,0,0,0,,,,32201232201
+1,Maldives,5,Ibrahim Nashath,Virandeep Singh,Abdullah Shahid,,0,0,0,,,,32201232201
+1,Maldives,5,Ibrahim Nashath,Virandeep Singh,Abdullah Shahid,,0,0,0,caught,Ibrahim Nashath,M Syahadat Ramli,32201232201
+1,Maldives,5,Abdullah Shahid,Virandeep Singh,Hassan Rasheed,,0,0,0,,,,32201232201
+1,Maldives,5,Abdullah Shahid,Virandeep Singh,Hassan Rasheed,,0,1,1,,,,32201232201
+1,Maldives,5,Hassan Rasheed,Virandeep Singh,Abdullah Shahid,,0,1,1,,,,32201232201
+1,Maldives,6,Hassan Rasheed,Khizar Hayat,Abdullah Shahid,,0,1,1,,,,32201232201
+1,Maldives,6,Abdullah Shahid,Khizar Hayat,Hassan Rasheed,,0,0,0,,,,32201232201
+1,Maldives,6,Abdullah Shahid,Khizar Hayat,Hassan Rasheed,,0,0,0,caught and bowled,Abdullah Shahid,,32201232201
+1,Maldives,6,Ibrahim Hassan,Khizar Hayat,Hassan Rasheed,,0,0,0,,,,32201232201
+1,Maldives,6,Ibrahim Hassan,Khizar Hayat,Hassan Rasheed,,0,0,0,,,,32201232201
+1,Maldives,6,Ibrahim Hassan,Khizar Hayat,Hassan Rasheed,,0,1,1,,,,32201232201
+1,Maldives,7,Ibrahim Hassan,Fitri Sham,Hassan Rasheed,,0,0,0,,,,32201232201
+1,Maldives,7,Ibrahim Hassan,Fitri Sham,Hassan Rasheed,,0,1,1,,,,32201232201
+1,Maldives,7,Hassan Rasheed,Fitri Sham,Ibrahim Hassan,,0,2,2,,,,32201232201
+1,Maldives,7,Hassan Rasheed,Fitri Sham,Ibrahim Hassan,,0,0,0,,,,32201232201
+1,Maldives,7,Hassan Rasheed,Fitri Sham,Ibrahim Hassan,,0,2,2,,,,32201232201
+1,Maldives,7,Hassan Rasheed,Fitri Sham,Ibrahim Hassan,,0,6,6,,,,32201232201
+1,Maldives,8,Ibrahim Hassan,Khizar Hayat,Hassan Rasheed,,0,0,0,,,,32201232201
+1,Maldives,8,Ibrahim Hassan,Khizar Hayat,Hassan Rasheed,,0,1,1,,,,32201232201
+1,Maldives,8,Hassan Rasheed,Khizar Hayat,Ibrahim Hassan,,0,1,1,,,,32201232201
+1,Maldives,8,Ibrahim Hassan,Khizar Hayat,Hassan Rasheed,,0,1,1,,,,32201232201
+1,Maldives,8,Hassan Rasheed,Khizar Hayat,Ibrahim Hassan,,0,4,4,,,,32201232201
+1,Maldives,8,Hassan Rasheed,Khizar Hayat,Ibrahim Hassan,,0,1,1,run out,Ibrahim Hassan,S Muniandy,32201232201
+1,Maldives,9,Hassan Rasheed,Virandeep Singh,Ahmed Hassan,,0,1,1,,,,32201232201
+1,Maldives,9,Ahmed Hassan,Virandeep Singh,Hassan Rasheed,,0,0,0,lbw,Ahmed Hassan,,32201232201
+1,Maldives,9,Ibrahim Rizan,Virandeep Singh,Hassan Rasheed,,0,1,1,,,,32201232201
+1,Maldives,9,Hassan Rasheed,Virandeep Singh,Ibrahim Rizan,,0,1,1,,,,32201232201
+1,Maldives,9,Ibrahim Rizan,Virandeep Singh,Hassan Rasheed,legbyes,1,1,0,,,,32201232201
+1,Maldives,9,Hassan Rasheed,Virandeep Singh,Ibrahim Rizan,,0,0,0,stumped,Hassan Rasheed,Ainool Hafizs,32201232201

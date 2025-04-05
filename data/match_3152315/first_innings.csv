@@ -1,0 +1,130 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,West Indies,0,CH Gayle,SM Pollock,DS Smith,,0,4,4,,,,3152315
+1,West Indies,0,CH Gayle,SM Pollock,DS Smith,,0,0,0,,,,3152315
+1,West Indies,0,CH Gayle,SM Pollock,DS Smith,,0,1,1,,,,3152315
+1,West Indies,0,DS Smith,SM Pollock,CH Gayle,,0,1,1,,,,3152315
+1,West Indies,0,CH Gayle,SM Pollock,DS Smith,,0,2,2,,,,3152315
+1,West Indies,0,CH Gayle,SM Pollock,DS Smith,,0,0,0,,,,3152315
+1,West Indies,1,DS Smith,M Ntini,CH Gayle,,0,1,1,,,,3152315
+1,West Indies,1,CH Gayle,M Ntini,DS Smith,,0,1,1,,,,3152315
+1,West Indies,1,DS Smith,M Ntini,CH Gayle,,0,0,0,,,,3152315
+1,West Indies,1,DS Smith,M Ntini,CH Gayle,,0,0,0,,,,3152315
+1,West Indies,1,DS Smith,M Ntini,CH Gayle,,0,0,0,,,,3152315
+1,West Indies,1,DS Smith,M Ntini,CH Gayle,,0,4,4,,,,3152315
+1,West Indies,2,CH Gayle,SM Pollock,DS Smith,,0,6,6,,,,3152315
+1,West Indies,2,CH Gayle,SM Pollock,DS Smith,,0,1,1,,,,3152315
+1,West Indies,2,DS Smith,SM Pollock,CH Gayle,legbyes,1,1,0,,,,3152315
+1,West Indies,2,CH Gayle,SM Pollock,DS Smith,wides,1,1,0,,,,3152315
+1,West Indies,2,CH Gayle,SM Pollock,DS Smith,,0,4,4,,,,3152315
+1,West Indies,2,CH Gayle,SM Pollock,DS Smith,,0,1,1,,,,3152315
+1,West Indies,2,DS Smith,SM Pollock,CH Gayle,,0,1,1,,,,3152315
+1,West Indies,3,DS Smith,M Ntini,CH Gayle,,0,0,0,,,,3152315
+1,West Indies,3,DS Smith,M Ntini,CH Gayle,,0,0,0,,,,3152315
+1,West Indies,3,DS Smith,M Ntini,CH Gayle,,0,1,1,,,,3152315
+1,West Indies,3,CH Gayle,M Ntini,DS Smith,,0,0,0,,,,3152315
+1,West Indies,3,CH Gayle,M Ntini,DS Smith,,0,6,6,,,,3152315
+1,West Indies,3,CH Gayle,M Ntini,DS Smith,,0,6,6,,,,3152315
+1,West Indies,4,DS Smith,JJ van der Wath,CH Gayle,,0,0,0,,,,3152315
+1,West Indies,4,DS Smith,JJ van der Wath,CH Gayle,,0,1,1,,,,3152315
+1,West Indies,4,CH Gayle,JJ van der Wath,DS Smith,legbyes,1,1,0,,,,3152315
+1,West Indies,4,DS Smith,JJ van der Wath,CH Gayle,,0,0,0,,,,3152315
+1,West Indies,4,DS Smith,JJ van der Wath,CH Gayle,,0,1,1,,,,3152315
+1,West Indies,4,CH Gayle,JJ van der Wath,DS Smith,,0,1,1,,,,3152315
+1,West Indies,5,CH Gayle,M Morkel,DS Smith,,0,2,2,,,,3152315
+1,West Indies,5,CH Gayle,M Morkel,DS Smith,,0,4,4,,,,3152315
+1,West Indies,5,CH Gayle,M Morkel,DS Smith,,0,0,0,,,,3152315
+1,West Indies,5,CH Gayle,M Morkel,DS Smith,,0,1,1,,,,3152315
+1,West Indies,5,DS Smith,M Morkel,CH Gayle,,0,1,1,,,,3152315
+1,West Indies,5,CH Gayle,M Morkel,DS Smith,,0,0,0,,,,3152315
+1,West Indies,6,DS Smith,JJ van der Wath,CH Gayle,,0,4,4,,,,3152315
+1,West Indies,6,DS Smith,JJ van der Wath,CH Gayle,,0,2,2,,,,3152315
+1,West Indies,6,DS Smith,JJ van der Wath,CH Gayle,,0,1,1,,,,3152315
+1,West Indies,6,CH Gayle,JJ van der Wath,DS Smith,,0,1,1,,,,3152315
+1,West Indies,6,DS Smith,JJ van der Wath,CH Gayle,,0,2,2,,,,3152315
+1,West Indies,6,DS Smith,JJ van der Wath,CH Gayle,,0,4,4,,,,3152315
+1,West Indies,7,CH Gayle,M Morkel,DS Smith,,0,2,2,,,,3152315
+1,West Indies,7,CH Gayle,M Morkel,DS Smith,,0,6,6,,,,3152315
+1,West Indies,7,CH Gayle,M Morkel,DS Smith,,0,0,0,,,,3152315
+1,West Indies,7,CH Gayle,M Morkel,DS Smith,,0,0,0,,,,3152315
+1,West Indies,7,CH Gayle,M Morkel,DS Smith,,0,1,1,,,,3152315
+1,West Indies,7,DS Smith,M Morkel,CH Gayle,noballs,1,1,0,,,,3152315
+1,West Indies,7,DS Smith,M Morkel,CH Gayle,,0,0,0,,,,3152315
+1,West Indies,8,CH Gayle,VD Philander,DS Smith,,0,0,0,,,,3152315
+1,West Indies,8,CH Gayle,VD Philander,DS Smith,,0,6,6,,,,3152315
+1,West Indies,8,CH Gayle,VD Philander,DS Smith,,0,1,1,,,,3152315
+1,West Indies,8,DS Smith,VD Philander,CH Gayle,,0,2,2,,,,3152315
+1,West Indies,8,DS Smith,VD Philander,CH Gayle,,0,1,1,,,,3152315
+1,West Indies,8,CH Gayle,VD Philander,DS Smith,wides,5,5,0,,,,3152315
+1,West Indies,8,CH Gayle,VD Philander,DS Smith,,0,0,0,,,,3152315
+1,West Indies,9,DS Smith,JA Morkel,CH Gayle,wides,1,1,0,,,,3152315
+1,West Indies,9,DS Smith,JA Morkel,CH Gayle,,0,1,1,,,,3152315
+1,West Indies,9,CH Gayle,JA Morkel,DS Smith,wides,1,1,0,,,,3152315
+1,West Indies,9,CH Gayle,JA Morkel,DS Smith,,0,1,1,,,,3152315
+1,West Indies,9,DS Smith,JA Morkel,CH Gayle,,0,1,1,,,,3152315
+1,West Indies,9,CH Gayle,JA Morkel,DS Smith,,0,6,6,,,,3152315
+1,West Indies,9,CH Gayle,JA Morkel,DS Smith,,0,4,4,,,,3152315
+1,West Indies,9,CH Gayle,JA Morkel,DS Smith,,0,1,1,,,,3152315
+1,West Indies,10,CH Gayle,VD Philander,DS Smith,,0,0,0,,,,3152315
+1,West Indies,10,CH Gayle,VD Philander,DS Smith,,0,1,1,,,,3152315
+1,West Indies,10,DS Smith,VD Philander,CH Gayle,,0,2,2,,,,3152315
+1,West Indies,10,DS Smith,VD Philander,CH Gayle,,0,1,1,,,,3152315
+1,West Indies,10,CH Gayle,VD Philander,DS Smith,,0,0,0,,,,3152315
+1,West Indies,10,CH Gayle,VD Philander,DS Smith,,0,1,1,,,,3152315
+1,West Indies,11,CH Gayle,GC Smith,DS Smith,,0,2,2,,,,3152315
+1,West Indies,11,CH Gayle,GC Smith,DS Smith,,0,4,4,,,,3152315
+1,West Indies,11,CH Gayle,GC Smith,DS Smith,,0,6,6,,,,3152315
+1,West Indies,11,CH Gayle,GC Smith,DS Smith,,0,2,2,,,,3152315
+1,West Indies,11,CH Gayle,GC Smith,DS Smith,legbyes,1,1,0,,,,3152315
+1,West Indies,11,DS Smith,GC Smith,CH Gayle,,0,2,2,,,,3152315
+1,West Indies,12,CH Gayle,SM Pollock,DS Smith,,0,0,0,,,,3152315
+1,West Indies,12,CH Gayle,SM Pollock,DS Smith,,0,0,0,,,,3152315
+1,West Indies,12,CH Gayle,SM Pollock,DS Smith,,0,1,1,,,,3152315
+1,West Indies,12,DS Smith,SM Pollock,CH Gayle,,0,1,1,,,,3152315
+1,West Indies,12,CH Gayle,SM Pollock,DS Smith,,0,6,6,,,,3152315
+1,West Indies,12,CH Gayle,SM Pollock,DS Smith,,0,6,6,,,,3152315
+1,West Indies,13,DS Smith,VD Philander,CH Gayle,,0,0,0,,,,3152315
+1,West Indies,13,DS Smith,VD Philander,CH Gayle,,0,0,0,,,,3152315
+1,West Indies,13,DS Smith,VD Philander,CH Gayle,,0,0,0,caught,DS Smith,MV Boucher,3152315
+1,West Indies,13,MN Samuels,VD Philander,CH Gayle,,0,0,0,,,,3152315
+1,West Indies,13,MN Samuels,VD Philander,CH Gayle,,0,6,6,,,,3152315
+1,West Indies,13,MN Samuels,VD Philander,CH Gayle,,0,0,0,,,,3152315
+1,West Indies,14,CH Gayle,SM Pollock,MN Samuels,,0,1,1,,,,3152315
+1,West Indies,14,MN Samuels,SM Pollock,CH Gayle,,0,0,0,caught,MN Samuels,AB de Villiers,3152315
+1,West Indies,14,CH Gayle,SM Pollock,S Chanderpaul,wides,1,1,0,,,,3152315
+1,West Indies,14,CH Gayle,SM Pollock,S Chanderpaul,,0,2,2,,,,3152315
+1,West Indies,14,CH Gayle,SM Pollock,S Chanderpaul,wides,1,1,0,,,,3152315
+1,West Indies,14,CH Gayle,SM Pollock,S Chanderpaul,wides,1,1,0,,,,3152315
+1,West Indies,14,CH Gayle,SM Pollock,S Chanderpaul,,0,0,0,,,,3152315
+1,West Indies,14,CH Gayle,SM Pollock,S Chanderpaul,,0,4,4,,,,3152315
+1,West Indies,14,CH Gayle,SM Pollock,S Chanderpaul,,0,6,6,,,,3152315
+1,West Indies,15,S Chanderpaul,M Morkel,CH Gayle,,0,1,1,,,,3152315
+1,West Indies,15,CH Gayle,M Morkel,S Chanderpaul,wides,1,1,0,,,,3152315
+1,West Indies,15,CH Gayle,M Morkel,S Chanderpaul,,0,4,4,,,,3152315
+1,West Indies,15,CH Gayle,M Morkel,S Chanderpaul,,0,1,1,,,,3152315
+1,West Indies,15,S Chanderpaul,M Morkel,CH Gayle,,0,1,1,,,,3152315
+1,West Indies,15,CH Gayle,M Morkel,S Chanderpaul,,0,1,1,,,,3152315
+1,West Indies,15,S Chanderpaul,M Morkel,CH Gayle,legbyes,1,1,0,,,,3152315
+1,West Indies,16,S Chanderpaul,JJ van der Wath,CH Gayle,,0,1,1,,,,3152315
+1,West Indies,16,CH Gayle,JJ van der Wath,S Chanderpaul,,0,0,0,caught,CH Gayle,MV Boucher,3152315
+1,West Indies,16,S Chanderpaul,JJ van der Wath,DR Smith,,0,1,1,,,,3152315
+1,West Indies,16,DR Smith,JJ van der Wath,S Chanderpaul,,0,1,1,,,,3152315
+1,West Indies,16,S Chanderpaul,JJ van der Wath,DR Smith,,0,1,1,,,,3152315
+1,West Indies,16,DR Smith,JJ van der Wath,S Chanderpaul,,0,0,0,,,,3152315
+1,West Indies,17,S Chanderpaul,M Morkel,DR Smith,,0,1,1,,,,3152315
+1,West Indies,17,DR Smith,M Morkel,S Chanderpaul,,0,0,0,,,,3152315
+1,West Indies,17,DR Smith,M Morkel,S Chanderpaul,,0,0,0,caught,DR Smith,HH Gibbs,3152315
+1,West Indies,17,RR Sarwan,M Morkel,S Chanderpaul,,0,0,0,,,,3152315
+1,West Indies,17,RR Sarwan,M Morkel,S Chanderpaul,,0,1,1,,,,3152315
+1,West Indies,17,S Chanderpaul,M Morkel,RR Sarwan,,0,1,1,,,,3152315
+1,West Indies,18,S Chanderpaul,JJ van der Wath,RR Sarwan,,0,4,4,,,,3152315
+1,West Indies,18,S Chanderpaul,JJ van der Wath,RR Sarwan,,0,0,0,caught,S Chanderpaul,MV Boucher,3152315
+1,West Indies,18,D Ramdin,JJ van der Wath,RR Sarwan,,0,0,0,,,,3152315
+1,West Indies,18,D Ramdin,JJ van der Wath,RR Sarwan,,0,4,4,,,,3152315
+1,West Indies,18,D Ramdin,JJ van der Wath,RR Sarwan,,0,1,1,,,,3152315
+1,West Indies,18,RR Sarwan,JJ van der Wath,D Ramdin,,0,3,3,,,,3152315
+1,West Indies,19,RR Sarwan,VD Philander,D Ramdin,,0,0,0,,,,3152315
+1,West Indies,19,RR Sarwan,VD Philander,D Ramdin,,0,0,0,,,,3152315
+1,West Indies,19,RR Sarwan,VD Philander,D Ramdin,,0,2,2,,,,3152315
+1,West Indies,19,RR Sarwan,VD Philander,D Ramdin,,0,6,6,,,,3152315
+1,West Indies,19,RR Sarwan,VD Philander,D Ramdin,,0,0,0,caught,RR Sarwan,AB de Villiers,3152315
+1,West Indies,19,D Ramdin,VD Philander,DJ Bravo,,0,1,1,,,,3152315

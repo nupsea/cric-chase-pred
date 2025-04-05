@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,India,0,RG Sharma,Taskin Ahmed,S Dhawan,,0,0,0,,,,366223662
+1,India,0,RG Sharma,Taskin Ahmed,S Dhawan,,0,1,1,,,,366223662
+1,India,0,S Dhawan,Taskin Ahmed,RG Sharma,legbyes,1,1,0,,,,366223662
+1,India,0,RG Sharma,Taskin Ahmed,S Dhawan,,0,0,0,,,,366223662
+1,India,0,RG Sharma,Taskin Ahmed,S Dhawan,,0,0,0,,,,366223662
+1,India,0,RG Sharma,Taskin Ahmed,S Dhawan,,0,0,0,,,,366223662
+1,India,1,S Dhawan,Al-Amin Hossain,RG Sharma,,0,2,2,,,,366223662
+1,India,1,S Dhawan,Al-Amin Hossain,RG Sharma,,0,0,0,,,,366223662
+1,India,1,S Dhawan,Al-Amin Hossain,RG Sharma,,0,0,0,bowled,S Dhawan,,366223662
+1,India,1,V Kohli,Al-Amin Hossain,RG Sharma,,0,1,1,,,,366223662
+1,India,1,RG Sharma,Al-Amin Hossain,V Kohli,,0,0,0,,,,366223662
+1,India,1,RG Sharma,Al-Amin Hossain,V Kohli,,0,4,4,,,,366223662
+1,India,2,V Kohli,Taskin Ahmed,RG Sharma,,0,0,0,,,,366223662
+1,India,2,V Kohli,Taskin Ahmed,RG Sharma,,0,0,0,,,,366223662
+1,India,2,V Kohli,Taskin Ahmed,RG Sharma,,0,4,4,,,,366223662
+1,India,2,V Kohli,Taskin Ahmed,RG Sharma,legbyes,1,1,0,,,,366223662
+1,India,2,RG Sharma,Taskin Ahmed,V Kohli,,0,0,0,,,,366223662
+1,India,2,RG Sharma,Taskin Ahmed,V Kohli,,0,2,2,,,,366223662
+1,India,3,V Kohli,Mustafizur Rahman,RG Sharma,wides,1,1,0,,,,366223662
+1,India,3,V Kohli,Mustafizur Rahman,RG Sharma,,0,0,0,,,,366223662
+1,India,3,V Kohli,Mustafizur Rahman,RG Sharma,,0,0,0,,,,366223662
+1,India,3,V Kohli,Mustafizur Rahman,RG Sharma,,0,0,0,,,,366223662
+1,India,3,V Kohli,Mustafizur Rahman,RG Sharma,,0,2,2,,,,366223662
+1,India,3,V Kohli,Mustafizur Rahman,RG Sharma,,0,0,0,,,,366223662
+1,India,3,V Kohli,Mustafizur Rahman,RG Sharma,,0,0,0,,,,366223662
+1,India,4,RG Sharma,Mashrafe Mortaza,V Kohli,,0,2,2,,,,366223662
+1,India,4,RG Sharma,Mashrafe Mortaza,V Kohli,,0,1,1,,,,366223662
+1,India,4,V Kohli,Mashrafe Mortaza,RG Sharma,,0,0,0,caught,V Kohli,Mahmudullah,366223662
+1,India,4,SK Raina,Mashrafe Mortaza,RG Sharma,,0,0,0,,,,366223662
+1,India,4,SK Raina,Mashrafe Mortaza,RG Sharma,,0,0,0,,,,366223662
+1,India,4,SK Raina,Mashrafe Mortaza,RG Sharma,,0,1,1,,,,366223662
+1,India,5,SK Raina,Al-Amin Hossain,RG Sharma,,0,0,0,,,,366223662
+1,India,5,SK Raina,Al-Amin Hossain,RG Sharma,,0,4,4,,,,366223662
+1,India,5,SK Raina,Al-Amin Hossain,RG Sharma,,0,0,0,,,,366223662
+1,India,5,SK Raina,Al-Amin Hossain,RG Sharma,,0,0,0,,,,366223662
+1,India,5,SK Raina,Al-Amin Hossain,RG Sharma,,0,4,4,,,,366223662
+1,India,5,SK Raina,Al-Amin Hossain,RG Sharma,,0,0,0,,,,366223662
+1,India,6,RG Sharma,Mashrafe Mortaza,SK Raina,,0,0,0,,,,366223662
+1,India,6,RG Sharma,Mashrafe Mortaza,SK Raina,,0,2,2,,,,366223662
+1,India,6,RG Sharma,Mashrafe Mortaza,SK Raina,,0,1,1,,,,366223662
+1,India,6,SK Raina,Mashrafe Mortaza,RG Sharma,wides,1,1,0,,,,366223662
+1,India,6,SK Raina,Mashrafe Mortaza,RG Sharma,,0,2,2,,,,366223662
+1,India,6,SK Raina,Mashrafe Mortaza,RG Sharma,,0,1,1,,,,366223662
+1,India,6,RG Sharma,Mashrafe Mortaza,SK Raina,,0,1,1,,,,366223662
+1,India,7,RG Sharma,Mahmudullah,SK Raina,,0,0,0,,,,366223662
+1,India,7,RG Sharma,Mahmudullah,SK Raina,,0,1,1,,,,366223662
+1,India,7,SK Raina,Mahmudullah,RG Sharma,,0,1,1,,,,366223662
+1,India,7,RG Sharma,Mahmudullah,SK Raina,,0,1,1,,,,366223662
+1,India,7,SK Raina,Mahmudullah,RG Sharma,,0,0,0,bowled,SK Raina,,366223662
+1,India,7,Yuvraj Singh,Mahmudullah,RG Sharma,,0,1,1,,,,366223662
+1,India,8,Yuvraj Singh,Shakib Al Hasan,RG Sharma,,0,1,1,,,,366223662
+1,India,8,RG Sharma,Shakib Al Hasan,Yuvraj Singh,,0,0,0,,,,366223662
+1,India,8,RG Sharma,Shakib Al Hasan,Yuvraj Singh,,0,0,0,,,,366223662
+1,India,8,RG Sharma,Shakib Al Hasan,Yuvraj Singh,,0,1,1,,,,366223662
+1,India,8,Yuvraj Singh,Shakib Al Hasan,RG Sharma,,0,1,1,,,,366223662
+1,India,8,RG Sharma,Shakib Al Hasan,Yuvraj Singh,,0,1,1,,,,366223662
+1,India,9,RG Sharma,Mahmudullah,Yuvraj Singh,,0,1,1,,,,366223662
+1,India,9,Yuvraj Singh,Mahmudullah,RG Sharma,,0,0,0,,,,366223662
+1,India,9,Yuvraj Singh,Mahmudullah,RG Sharma,,0,1,1,,,,366223662
+1,India,9,RG Sharma,Mahmudullah,Yuvraj Singh,,0,1,1,,,,366223662
+1,India,9,Yuvraj Singh,Mahmudullah,RG Sharma,,0,1,1,,,,366223662
+1,India,9,RG Sharma,Mahmudullah,Yuvraj Singh,,0,1,1,,,,366223662
+1,India,10,RG Sharma,Taskin Ahmed,Yuvraj Singh,,0,0,0,,,,366223662
+1,India,10,RG Sharma,Taskin Ahmed,Yuvraj Singh,,0,0,0,,,,366223662
+1,India,10,RG Sharma,Taskin Ahmed,Yuvraj Singh,,0,0,0,,,,366223662
+1,India,10,RG Sharma,Taskin Ahmed,Yuvraj Singh,,0,4,4,,,,366223662
+1,India,10,RG Sharma,Taskin Ahmed,Yuvraj Singh,,0,6,6,,,,366223662
+1,India,10,RG Sharma,Taskin Ahmed,Yuvraj Singh,,0,4,4,,,,366223662
+1,India,11,Yuvraj Singh,Mashrafe Mortaza,RG Sharma,,0,1,1,,,,366223662
+1,India,11,RG Sharma,Mashrafe Mortaza,Yuvraj Singh,,0,2,2,,,,366223662
+1,India,11,RG Sharma,Mashrafe Mortaza,Yuvraj Singh,,0,4,4,,,,366223662
+1,India,11,RG Sharma,Mashrafe Mortaza,Yuvraj Singh,,0,1,1,,,,366223662
+1,India,11,Yuvraj Singh,Mashrafe Mortaza,RG Sharma,,0,1,1,,,,366223662
+1,India,11,RG Sharma,Mashrafe Mortaza,Yuvraj Singh,,0,1,1,,,,366223662
+1,India,12,RG Sharma,Shakib Al Hasan,Yuvraj Singh,,0,1,1,,,,366223662
+1,India,12,Yuvraj Singh,Shakib Al Hasan,RG Sharma,legbyes,1,1,0,,,,366223662
+1,India,12,RG Sharma,Shakib Al Hasan,Yuvraj Singh,,0,1,1,,,,366223662
+1,India,12,Yuvraj Singh,Shakib Al Hasan,RG Sharma,,0,0,0,,,,366223662
+1,India,12,Yuvraj Singh,Shakib Al Hasan,RG Sharma,,0,1,1,,,,366223662
+1,India,12,RG Sharma,Shakib Al Hasan,Yuvraj Singh,,0,1,1,,,,366223662
+1,India,13,RG Sharma,Mustafizur Rahman,Yuvraj Singh,,0,1,1,,,,366223662
+1,India,13,Yuvraj Singh,Mustafizur Rahman,RG Sharma,,0,4,4,,,,366223662
+1,India,13,Yuvraj Singh,Mustafizur Rahman,RG Sharma,,0,1,1,,,,366223662
+1,India,13,RG Sharma,Mustafizur Rahman,Yuvraj Singh,,0,1,1,,,,366223662
+1,India,13,Yuvraj Singh,Mustafizur Rahman,RG Sharma,,0,1,1,,,,366223662
+1,India,13,RG Sharma,Mustafizur Rahman,Yuvraj Singh,,0,1,1,,,,366223662
+1,India,14,RG Sharma,Shakib Al Hasan,Yuvraj Singh,,0,1,1,,,,366223662
+1,India,14,Yuvraj Singh,Shakib Al Hasan,RG Sharma,,0,1,1,,,,366223662
+1,India,14,RG Sharma,Shakib Al Hasan,Yuvraj Singh,,0,4,4,,,,366223662
+1,India,14,RG Sharma,Shakib Al Hasan,Yuvraj Singh,,0,1,1,,,,366223662
+1,India,14,Yuvraj Singh,Shakib Al Hasan,RG Sharma,,0,0,0,caught,Yuvraj Singh,Soumya Sarkar,366223662
+1,India,14,HH Pandya,Shakib Al Hasan,RG Sharma,,0,0,0,,,,366223662
+1,India,15,RG Sharma,Mashrafe Mortaza,HH Pandya,,0,1,1,,,,366223662
+1,India,15,HH Pandya,Mashrafe Mortaza,RG Sharma,,0,1,1,,,,366223662
+1,India,15,RG Sharma,Mashrafe Mortaza,HH Pandya,,0,2,2,,,,366223662
+1,India,15,RG Sharma,Mashrafe Mortaza,HH Pandya,,0,6,6,,,,366223662
+1,India,15,RG Sharma,Mashrafe Mortaza,HH Pandya,,0,4,4,,,,366223662
+1,India,15,RG Sharma,Mashrafe Mortaza,HH Pandya,,0,4,4,,,,366223662
+1,India,16,HH Pandya,Mustafizur Rahman,RG Sharma,,0,4,4,,,,366223662
+1,India,16,HH Pandya,Mustafizur Rahman,RG Sharma,,0,1,1,,,,366223662
+1,India,16,RG Sharma,Mustafizur Rahman,HH Pandya,,0,6,6,,,,366223662
+1,India,16,RG Sharma,Mustafizur Rahman,HH Pandya,,0,1,1,,,,366223662
+1,India,16,HH Pandya,Mustafizur Rahman,RG Sharma,,0,2,2,,,,366223662
+1,India,16,HH Pandya,Mustafizur Rahman,RG Sharma,wides,1,1,0,,,,366223662
+1,India,16,HH Pandya,Mustafizur Rahman,RG Sharma,,0,6,6,,,,366223662
+1,India,17,RG Sharma,Al-Amin Hossain,HH Pandya,,0,2,2,,,,366223662
+1,India,17,RG Sharma,Al-Amin Hossain,HH Pandya,,0,1,1,,,,366223662
+1,India,17,HH Pandya,Al-Amin Hossain,RG Sharma,,0,4,4,,,,366223662
+1,India,17,HH Pandya,Al-Amin Hossain,RG Sharma,,0,4,4,,,,366223662
+1,India,17,HH Pandya,Al-Amin Hossain,RG Sharma,,0,0,0,,,,366223662
+1,India,17,HH Pandya,Al-Amin Hossain,RG Sharma,,0,2,2,,,,366223662
+1,India,18,RG Sharma,Mustafizur Rahman,HH Pandya,,0,1,1,,,,366223662
+1,India,18,HH Pandya,Mustafizur Rahman,RG Sharma,,0,4,4,,,,366223662
+1,India,18,HH Pandya,Mustafizur Rahman,RG Sharma,,0,0,0,,,,366223662
+1,India,18,HH Pandya,Mustafizur Rahman,RG Sharma,,0,0,0,,,,366223662
+1,India,18,HH Pandya,Mustafizur Rahman,RG Sharma,,0,2,2,,,,366223662
+1,India,18,HH Pandya,Mustafizur Rahman,RG Sharma,byes,1,1,0,,,,366223662
+1,India,19,HH Pandya,Al-Amin Hossain,RG Sharma,,0,1,1,,,,366223662
+1,India,19,RG Sharma,Al-Amin Hossain,HH Pandya,,0,0,0,caught,RG Sharma,Soumya Sarkar,366223662
+1,India,19,HH Pandya,Al-Amin Hossain,MS Dhoni,,0,0,0,,,,366223662
+1,India,19,HH Pandya,Al-Amin Hossain,MS Dhoni,,0,0,0,caught,HH Pandya,Mahmudullah,366223662
+1,India,19,MS Dhoni,Al-Amin Hossain,RA Jadeja,,0,2,2,,,,366223662
+1,India,19,MS Dhoni,Al-Amin Hossain,RA Jadeja,,0,6,6,,,,366223662

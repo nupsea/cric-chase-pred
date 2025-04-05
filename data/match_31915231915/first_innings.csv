@@ -1,0 +1,93 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Philippines,0,DC Smith,Bilal Khan,Vimal Kumar,,0,0,0,,,,31915231915
+1,Philippines,0,DC Smith,Bilal Khan,Vimal Kumar,,0,2,2,,,,31915231915
+1,Philippines,0,DC Smith,Bilal Khan,Vimal Kumar,,0,1,1,,,,31915231915
+1,Philippines,0,Vimal Kumar,Bilal Khan,DC Smith,,0,0,0,,,,31915231915
+1,Philippines,0,Vimal Kumar,Bilal Khan,DC Smith,,0,0,0,,,,31915231915
+1,Philippines,0,Vimal Kumar,Bilal Khan,DC Smith,,0,0,0,,,,31915231915
+1,Philippines,1,DC Smith,Kaleemullah,Vimal Kumar,,0,0,0,,,,31915231915
+1,Philippines,1,DC Smith,Kaleemullah,Vimal Kumar,,0,0,0,,,,31915231915
+1,Philippines,1,DC Smith,Kaleemullah,Vimal Kumar,,0,2,2,,,,31915231915
+1,Philippines,1,DC Smith,Kaleemullah,Vimal Kumar,,0,0,0,,,,31915231915
+1,Philippines,1,DC Smith,Kaleemullah,Vimal Kumar,,0,0,0,,,,31915231915
+1,Philippines,1,DC Smith,Kaleemullah,Vimal Kumar,,0,1,1,,,,31915231915
+1,Philippines,2,DC Smith,Bilal Khan,Vimal Kumar,,0,0,0,,,,31915231915
+1,Philippines,2,DC Smith,Bilal Khan,Vimal Kumar,,0,0,0,,,,31915231915
+1,Philippines,2,DC Smith,Bilal Khan,Vimal Kumar,,0,0,0,,,,31915231915
+1,Philippines,2,DC Smith,Bilal Khan,Vimal Kumar,,0,1,1,,,,31915231915
+1,Philippines,2,Vimal Kumar,Bilal Khan,DC Smith,,0,0,0,,,,31915231915
+1,Philippines,2,Vimal Kumar,Bilal Khan,DC Smith,,0,0,0,,,,31915231915
+1,Philippines,3,DC Smith,Kaleemullah,Vimal Kumar,,0,0,0,caught,DC Smith,Aamir Kaleem,31915231915
+1,Philippines,3,Vimal Kumar,Kaleemullah,MP Biddappa,,0,0,0,,,,31915231915
+1,Philippines,3,Vimal Kumar,Kaleemullah,MP Biddappa,,0,0,0,,,,31915231915
+1,Philippines,3,Vimal Kumar,Kaleemullah,MP Biddappa,,0,0,0,,,,31915231915
+1,Philippines,3,Vimal Kumar,Kaleemullah,MP Biddappa,,0,1,1,,,,31915231915
+1,Philippines,3,MP Biddappa,Kaleemullah,Vimal Kumar,,0,0,0,,,,31915231915
+1,Philippines,4,Vimal Kumar,Bilal Khan,MP Biddappa,,0,1,1,,,,31915231915
+1,Philippines,4,MP Biddappa,Bilal Khan,Vimal Kumar,,0,1,1,,,,31915231915
+1,Philippines,4,Vimal Kumar,Bilal Khan,MP Biddappa,,0,0,0,,,,31915231915
+1,Philippines,4,Vimal Kumar,Bilal Khan,MP Biddappa,,0,1,1,,,,31915231915
+1,Philippines,4,MP Biddappa,Bilal Khan,Vimal Kumar,,0,0,0,,,,31915231915
+1,Philippines,4,MP Biddappa,Bilal Khan,Vimal Kumar,,0,0,0,,,,31915231915
+1,Philippines,5,Vimal Kumar,Kaleemullah,MP Biddappa,,0,0,0,,,,31915231915
+1,Philippines,5,Vimal Kumar,Kaleemullah,MP Biddappa,legbyes,1,1,0,,,,31915231915
+1,Philippines,5,MP Biddappa,Kaleemullah,Vimal Kumar,,0,0,0,,,,31915231915
+1,Philippines,5,MP Biddappa,Kaleemullah,Vimal Kumar,,0,0,0,,,,31915231915
+1,Philippines,5,MP Biddappa,Kaleemullah,Vimal Kumar,,0,1,1,,,,31915231915
+1,Philippines,5,Vimal Kumar,Kaleemullah,MP Biddappa,,0,0,0,,,,31915231915
+1,Philippines,6,MP Biddappa,Fayyaz Butt,Vimal Kumar,,0,0,0,,,,31915231915
+1,Philippines,6,MP Biddappa,Fayyaz Butt,Vimal Kumar,,0,0,0,,,,31915231915
+1,Philippines,6,MP Biddappa,Fayyaz Butt,Vimal Kumar,,0,0,0,,,,31915231915
+1,Philippines,6,MP Biddappa,Fayyaz Butt,Vimal Kumar,,0,0,0,,,,31915231915
+1,Philippines,6,MP Biddappa,Fayyaz Butt,Vimal Kumar,legbyes,1,1,0,,,,31915231915
+1,Philippines,6,Vimal Kumar,Fayyaz Butt,MP Biddappa,,0,0,0,bowled,Vimal Kumar,,31915231915
+1,Philippines,7,MP Biddappa,Kaleemullah,J Alegra,,0,0,0,caught,MP Biddappa,Naseem Khushi,31915231915
+1,Philippines,7,H Isorena,Kaleemullah,J Alegra,,0,0,0,,,,31915231915
+1,Philippines,7,H Isorena,Kaleemullah,J Alegra,,0,0,0,,,,31915231915
+1,Philippines,7,H Isorena,Kaleemullah,J Alegra,,0,0,0,,,,31915231915
+1,Philippines,7,H Isorena,Kaleemullah,J Alegra,,0,0,0,,,,31915231915
+1,Philippines,7,H Isorena,Kaleemullah,J Alegra,legbyes,1,1,0,,,,31915231915
+1,Philippines,8,H Isorena,Fayyaz Butt,J Alegra,,0,0,0,,,,31915231915
+1,Philippines,8,H Isorena,Fayyaz Butt,J Alegra,,0,0,0,,,,31915231915
+1,Philippines,8,H Isorena,Fayyaz Butt,J Alegra,,0,0,0,,,,31915231915
+1,Philippines,8,H Isorena,Fayyaz Butt,J Alegra,,0,1,1,,,,31915231915
+1,Philippines,8,J Alegra,Fayyaz Butt,H Isorena,,0,1,1,,,,31915231915
+1,Philippines,8,H Isorena,Fayyaz Butt,J Alegra,,0,0,0,,,,31915231915
+1,Philippines,9,J Alegra,Khawar Ali,H Isorena,,0,1,1,,,,31915231915
+1,Philippines,9,H Isorena,Khawar Ali,J Alegra,,0,0,0,,,,31915231915
+1,Philippines,9,H Isorena,Khawar Ali,J Alegra,,0,1,1,,,,31915231915
+1,Philippines,9,J Alegra,Khawar Ali,H Isorena,,0,0,0,lbw,J Alegra,,31915231915
+1,Philippines,9,Muzammil Shahzad,Khawar Ali,H Isorena,,0,0,0,,,,31915231915
+1,Philippines,9,Muzammil Shahzad,Khawar Ali,H Isorena,,0,0,0,,,,31915231915
+1,Philippines,10,H Isorena,Fayyaz Butt,Muzammil Shahzad,,0,4,4,,,,31915231915
+1,Philippines,10,H Isorena,Fayyaz Butt,Muzammil Shahzad,,0,0,0,bowled,H Isorena,,31915231915
+1,Philippines,10,G Chohan,Fayyaz Butt,Muzammil Shahzad,,0,0,0,,,,31915231915
+1,Philippines,10,G Chohan,Fayyaz Butt,Muzammil Shahzad,,0,1,1,,,,31915231915
+1,Philippines,10,Muzammil Shahzad,Fayyaz Butt,G Chohan,,0,0,0,,,,31915231915
+1,Philippines,10,Muzammil Shahzad,Fayyaz Butt,G Chohan,,0,0,0,,,,31915231915
+1,Philippines,11,G Chohan,Khawar Ali,Muzammil Shahzad,,0,1,1,,,,31915231915
+1,Philippines,11,Muzammil Shahzad,Khawar Ali,G Chohan,,0,1,1,,,,31915231915
+1,Philippines,11,G Chohan,Khawar Ali,Muzammil Shahzad,,0,0,0,,,,31915231915
+1,Philippines,11,G Chohan,Khawar Ali,Muzammil Shahzad,,0,0,0,bowled,G Chohan,,31915231915
+1,Philippines,11,HER Tyler,Khawar Ali,Muzammil Shahzad,,0,4,4,,,,31915231915
+1,Philippines,11,HER Tyler,Khawar Ali,Muzammil Shahzad,,0,0,0,,,,31915231915
+1,Philippines,12,Muzammil Shahzad,Aamir Kaleem,HER Tyler,,0,0,0,lbw,Muzammil Shahzad,,31915231915
+1,Philippines,12,M Podosky,Aamir Kaleem,HER Tyler,legbyes,1,1,0,,,,31915231915
+1,Philippines,12,HER Tyler,Aamir Kaleem,M Podosky,,0,0,0,,,,31915231915
+1,Philippines,12,HER Tyler,Aamir Kaleem,M Podosky,,0,0,0,,,,31915231915
+1,Philippines,12,HER Tyler,Aamir Kaleem,M Podosky,,0,0,0,,,,31915231915
+1,Philippines,12,HER Tyler,Aamir Kaleem,M Podosky,,0,0,0,,,,31915231915
+1,Philippines,13,M Podosky,Khawar Ali,HER Tyler,,0,1,1,,,,31915231915
+1,Philippines,13,HER Tyler,Khawar Ali,M Podosky,,0,1,1,,,,31915231915
+1,Philippines,13,M Podosky,Khawar Ali,HER Tyler,,0,0,0,lbw,M Podosky,,31915231915
+1,Philippines,13,R Goodwin,Khawar Ali,HER Tyler,,0,0,0,,,,31915231915
+1,Philippines,13,R Goodwin,Khawar Ali,HER Tyler,,0,0,0,,,,31915231915
+1,Philippines,13,R Goodwin,Khawar Ali,HER Tyler,,0,1,1,,,,31915231915
+1,Philippines,14,R Goodwin,Aamir Kaleem,HER Tyler,,0,0,0,,,,31915231915
+1,Philippines,14,R Goodwin,Aamir Kaleem,HER Tyler,,0,0,0,bowled,R Goodwin,,31915231915
+1,Philippines,14,Huzaifa Mohammed,Aamir Kaleem,HER Tyler,,0,1,1,,,,31915231915
+1,Philippines,14,HER Tyler,Aamir Kaleem,Huzaifa Mohammed,,0,0,0,,,,31915231915
+1,Philippines,14,HER Tyler,Aamir Kaleem,Huzaifa Mohammed,,0,1,1,,,,31915231915
+1,Philippines,14,Huzaifa Mohammed,Aamir Kaleem,HER Tyler,,0,0,0,,,,31915231915
+1,Philippines,15,HER Tyler,Khawar Ali,Huzaifa Mohammed,,0,0,0,,,,31915231915
+1,Philippines,15,HER Tyler,Khawar Ali,Huzaifa Mohammed,,0,0,0,bowled,HER Tyler,,31915231915

@@ -1,0 +1,70 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Papua New Guinea,0,A Vala,CA Young,VV Morea,,0,0,0,,,,364323643
+2,Papua New Guinea,0,A Vala,CA Young,VV Morea,,0,1,1,,,,364323643
+2,Papua New Guinea,0,VV Morea,CA Young,A Vala,,0,4,4,,,,364323643
+2,Papua New Guinea,0,VV Morea,CA Young,A Vala,,0,1,1,,,,364323643
+2,Papua New Guinea,0,A Vala,CA Young,VV Morea,,0,0,0,,,,364323643
+2,Papua New Guinea,0,A Vala,CA Young,VV Morea,,0,2,2,,,,364323643
+2,Papua New Guinea,1,VV Morea,TJ Murtagh,A Vala,,0,1,1,,,,364323643
+2,Papua New Guinea,1,A Vala,TJ Murtagh,VV Morea,,0,1,1,,,,364323643
+2,Papua New Guinea,1,VV Morea,TJ Murtagh,A Vala,,0,0,0,caught,VV Morea,GH Dockrell,364323643
+2,Papua New Guinea,1,A Vala,TJ Murtagh,L Siaka,,0,1,1,,,,364323643
+2,Papua New Guinea,1,L Siaka,TJ Murtagh,A Vala,,0,2,2,,,,364323643
+2,Papua New Guinea,1,L Siaka,TJ Murtagh,A Vala,,0,0,0,,,,364323643
+2,Papua New Guinea,2,A Vala,CA Young,L Siaka,,0,6,6,,,,364323643
+2,Papua New Guinea,2,A Vala,CA Young,L Siaka,,0,1,1,,,,364323643
+2,Papua New Guinea,2,L Siaka,CA Young,A Vala,,0,0,0,,,,364323643
+2,Papua New Guinea,2,L Siaka,CA Young,A Vala,,0,1,1,,,,364323643
+2,Papua New Guinea,2,A Vala,CA Young,L Siaka,,0,1,1,,,,364323643
+2,Papua New Guinea,2,L Siaka,CA Young,A Vala,,0,4,4,,,,364323643
+2,Papua New Guinea,3,A Vala,MC Sorensen,L Siaka,,0,1,1,,,,364323643
+2,Papua New Guinea,3,L Siaka,MC Sorensen,A Vala,wides,1,1,0,,,,364323643
+2,Papua New Guinea,3,L Siaka,MC Sorensen,A Vala,,0,1,1,,,,364323643
+2,Papua New Guinea,3,A Vala,MC Sorensen,L Siaka,,0,0,0,,,,364323643
+2,Papua New Guinea,3,A Vala,MC Sorensen,L Siaka,,0,1,1,,,,364323643
+2,Papua New Guinea,3,L Siaka,MC Sorensen,A Vala,,0,0,0,caught,L Siaka,SW Poynter,364323643
+2,Papua New Guinea,3,A Vala,MC Sorensen,MD Dai,,0,4,4,,,,364323643
+2,Papua New Guinea,4,MD Dai,AR McBrine,A Vala,,0,1,1,,,,364323643
+2,Papua New Guinea,4,A Vala,AR McBrine,MD Dai,,0,6,6,,,,364323643
+2,Papua New Guinea,4,A Vala,AR McBrine,MD Dai,,0,0,0,bowled,A Vala,,364323643
+2,Papua New Guinea,4,S Bau,AR McBrine,MD Dai,,0,0,0,,,,364323643
+2,Papua New Guinea,4,S Bau,AR McBrine,MD Dai,,0,0,0,,,,364323643
+2,Papua New Guinea,4,S Bau,AR McBrine,MD Dai,,0,0,0,bowled,S Bau,,364323643
+2,Papua New Guinea,5,MD Dai,SR Thompson,JNT Vare,,0,0,0,,,,364323643
+2,Papua New Guinea,5,MD Dai,SR Thompson,JNT Vare,,0,0,0,,,,364323643
+2,Papua New Guinea,5,MD Dai,SR Thompson,JNT Vare,,0,2,2,,,,364323643
+2,Papua New Guinea,5,MD Dai,SR Thompson,JNT Vare,,0,2,2,,,,364323643
+2,Papua New Guinea,5,MD Dai,SR Thompson,JNT Vare,,0,1,1,,,,364323643
+2,Papua New Guinea,5,JNT Vare,SR Thompson,MD Dai,,0,2,2,,,,364323643
+2,Papua New Guinea,6,MD Dai,GH Dockrell,JNT Vare,,0,0,0,lbw,MD Dai,,364323643
+2,Papua New Guinea,6,CJA Amini,GH Dockrell,JNT Vare,,0,1,1,,,,364323643
+2,Papua New Guinea,6,JNT Vare,GH Dockrell,CJA Amini,,0,0,0,lbw,JNT Vare,,364323643
+2,Papua New Guinea,6,JB Reva,GH Dockrell,CJA Amini,,0,0,0,,,,364323643
+2,Papua New Guinea,6,JB Reva,GH Dockrell,CJA Amini,,0,1,1,,,,364323643
+2,Papua New Guinea,6,CJA Amini,GH Dockrell,JB Reva,,0,1,1,,,,364323643
+2,Papua New Guinea,7,CJA Amini,MC Sorensen,JB Reva,,0,0,0,caught,CJA Amini,SR Thompson,364323643
+2,Papua New Guinea,7,JB Reva,MC Sorensen,N Vanua,,0,6,6,,,,364323643
+2,Papua New Guinea,7,JB Reva,MC Sorensen,N Vanua,,0,0,0,,,,364323643
+2,Papua New Guinea,7,JB Reva,MC Sorensen,N Vanua,,0,0,0,caught,JB Reva,GC Wilson,364323643
+2,Papua New Guinea,7,N Pokana,MC Sorensen,N Vanua,,0,1,1,,,,364323643
+2,Papua New Guinea,7,N Vanua,MC Sorensen,N Pokana,wides,1,1,0,,,,364323643
+2,Papua New Guinea,7,N Vanua,MC Sorensen,N Pokana,,0,1,1,,,,364323643
+2,Papua New Guinea,8,N Vanua,GH Dockrell,N Pokana,,0,1,1,,,,364323643
+2,Papua New Guinea,8,N Pokana,GH Dockrell,N Vanua,,0,1,1,,,,364323643
+2,Papua New Guinea,8,N Vanua,GH Dockrell,N Pokana,,0,0,0,,,,364323643
+2,Papua New Guinea,8,N Vanua,GH Dockrell,N Pokana,,0,1,1,,,,364323643
+2,Papua New Guinea,8,N Pokana,GH Dockrell,N Vanua,,0,0,0,caught,N Pokana,A Balbirnie,364323643
+2,Papua New Guinea,8,N Vanua,GH Dockrell,P Raho,,0,1,1,,,,364323643
+2,Papua New Guinea,9,N Vanua,TJ Murtagh,P Raho,,0,6,6,,,,364323643
+2,Papua New Guinea,9,N Vanua,TJ Murtagh,P Raho,,0,1,1,,,,364323643
+2,Papua New Guinea,9,P Raho,TJ Murtagh,N Vanua,,0,1,1,,,,364323643
+2,Papua New Guinea,9,N Vanua,TJ Murtagh,P Raho,,0,2,2,,,,364323643
+2,Papua New Guinea,9,N Vanua,TJ Murtagh,P Raho,wides,1,1,0,,,,364323643
+2,Papua New Guinea,9,N Vanua,TJ Murtagh,P Raho,,0,2,2,,,,364323643
+2,Papua New Guinea,9,N Vanua,TJ Murtagh,P Raho,,0,1,1,,,,364323643
+2,Papua New Guinea,10,N Vanua,GH Dockrell,P Raho,,0,2,2,,,,364323643
+2,Papua New Guinea,10,N Vanua,GH Dockrell,P Raho,,0,0,0,,,,364323643
+2,Papua New Guinea,10,N Vanua,GH Dockrell,P Raho,,0,1,1,,,,364323643
+2,Papua New Guinea,10,P Raho,GH Dockrell,N Vanua,,0,1,1,,,,364323643
+2,Papua New Guinea,10,N Vanua,GH Dockrell,P Raho,,0,6,6,,,,364323643
+2,Papua New Guinea,10,N Vanua,GH Dockrell,P Raho,,0,1,1,,,,364323643

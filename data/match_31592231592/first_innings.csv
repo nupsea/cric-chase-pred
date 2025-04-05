@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Sri Lanka,0,MDKJ Perera,BC Fortuin,WIA Fernando,,0,1,1,,,,31592231592
+1,Sri Lanka,0,WIA Fernando,BC Fortuin,MDKJ Perera,wides,1,1,0,,,,31592231592
+1,Sri Lanka,0,WIA Fernando,BC Fortuin,MDKJ Perera,wides,2,2,0,,,,31592231592
+1,Sri Lanka,0,MDKJ Perera,BC Fortuin,WIA Fernando,,0,1,1,,,,31592231592
+1,Sri Lanka,0,WIA Fernando,BC Fortuin,MDKJ Perera,,0,2,2,,,,31592231592
+1,Sri Lanka,0,WIA Fernando,BC Fortuin,MDKJ Perera,,0,0,0,,,,31592231592
+1,Sri Lanka,0,WIA Fernando,BC Fortuin,MDKJ Perera,,0,4,4,,,,31592231592
+1,Sri Lanka,0,WIA Fernando,BC Fortuin,MDKJ Perera,,0,0,0,,,,31592231592
+1,Sri Lanka,1,MDKJ Perera,K Rabada,WIA Fernando,,0,1,1,,,,31592231592
+1,Sri Lanka,1,WIA Fernando,K Rabada,MDKJ Perera,,0,0,0,,,,31592231592
+1,Sri Lanka,1,WIA Fernando,K Rabada,MDKJ Perera,,0,4,4,,,,31592231592
+1,Sri Lanka,1,WIA Fernando,K Rabada,MDKJ Perera,,0,2,2,,,,31592231592
+1,Sri Lanka,1,WIA Fernando,K Rabada,MDKJ Perera,,0,0,0,caught and bowled,WIA Fernando,,31592231592
+1,Sri Lanka,1,DM de Silva,K Rabada,MDKJ Perera,,0,1,1,,,,31592231592
+1,Sri Lanka,2,DM de Silva,BC Fortuin,MDKJ Perera,,0,0,0,,,,31592231592
+1,Sri Lanka,2,DM de Silva,BC Fortuin,MDKJ Perera,,0,0,0,stumped,DM de Silva,Q de Kock,31592231592
+1,Sri Lanka,2,PBB Rajapaksa,BC Fortuin,MDKJ Perera,,0,0,0,,,,31592231592
+1,Sri Lanka,2,PBB Rajapaksa,BC Fortuin,MDKJ Perera,,0,1,1,,,,31592231592
+1,Sri Lanka,2,MDKJ Perera,BC Fortuin,PBB Rajapaksa,,0,1,1,,,,31592231592
+1,Sri Lanka,2,PBB Rajapaksa,BC Fortuin,MDKJ Perera,,0,0,0,,,,31592231592
+1,Sri Lanka,3,MDKJ Perera,K Rabada,PBB Rajapaksa,,0,2,2,,,,31592231592
+1,Sri Lanka,3,MDKJ Perera,K Rabada,PBB Rajapaksa,,0,0,0,,,,31592231592
+1,Sri Lanka,3,MDKJ Perera,K Rabada,PBB Rajapaksa,,0,1,1,,,,31592231592
+1,Sri Lanka,3,PBB Rajapaksa,K Rabada,MDKJ Perera,,0,0,0,,,,31592231592
+1,Sri Lanka,3,PBB Rajapaksa,K Rabada,MDKJ Perera,,0,4,4,,,,31592231592
+1,Sri Lanka,3,PBB Rajapaksa,K Rabada,MDKJ Perera,,0,0,0,bowled,PBB Rajapaksa,,31592231592
+1,Sri Lanka,4,MDKJ Perera,D Pretorius,PHKD Mendis,,0,4,4,,,,31592231592
+1,Sri Lanka,4,MDKJ Perera,D Pretorius,PHKD Mendis,,0,4,4,,,,31592231592
+1,Sri Lanka,4,MDKJ Perera,D Pretorius,PHKD Mendis,,0,0,0,,,,31592231592
+1,Sri Lanka,4,MDKJ Perera,D Pretorius,PHKD Mendis,,0,2,2,,,,31592231592
+1,Sri Lanka,4,MDKJ Perera,D Pretorius,PHKD Mendis,,0,1,1,,,,31592231592
+1,Sri Lanka,4,PHKD Mendis,D Pretorius,MDKJ Perera,,0,0,0,,,,31592231592
+1,Sri Lanka,5,MDKJ Perera,K Rabada,PHKD Mendis,,0,1,1,,,,31592231592
+1,Sri Lanka,5,PHKD Mendis,K Rabada,MDKJ Perera,,0,0,0,,,,31592231592
+1,Sri Lanka,5,PHKD Mendis,K Rabada,MDKJ Perera,,0,2,2,,,,31592231592
+1,Sri Lanka,5,PHKD Mendis,K Rabada,MDKJ Perera,,0,1,1,,,,31592231592
+1,Sri Lanka,5,MDKJ Perera,K Rabada,PHKD Mendis,,0,4,4,,,,31592231592
+1,Sri Lanka,5,MDKJ Perera,K Rabada,PHKD Mendis,,0,0,0,,,,31592231592
+1,Sri Lanka,6,PHKD Mendis,T Shamsi,MDKJ Perera,,0,1,1,,,,31592231592
+1,Sri Lanka,6,MDKJ Perera,T Shamsi,PHKD Mendis,,0,1,1,,,,31592231592
+1,Sri Lanka,6,PHKD Mendis,T Shamsi,MDKJ Perera,,0,0,0,,,,31592231592
+1,Sri Lanka,6,PHKD Mendis,T Shamsi,MDKJ Perera,,0,1,1,,,,31592231592
+1,Sri Lanka,6,MDKJ Perera,T Shamsi,PHKD Mendis,,0,1,1,,,,31592231592
+1,Sri Lanka,6,PHKD Mendis,T Shamsi,MDKJ Perera,,0,1,1,,,,31592231592
+1,Sri Lanka,7,PHKD Mendis,AK Markram,MDKJ Perera,,0,0,0,,,,31592231592
+1,Sri Lanka,7,PHKD Mendis,AK Markram,MDKJ Perera,,0,1,1,,,,31592231592
+1,Sri Lanka,7,MDKJ Perera,AK Markram,PHKD Mendis,,0,0,0,,,,31592231592
+1,Sri Lanka,7,MDKJ Perera,AK Markram,PHKD Mendis,,0,1,1,,,,31592231592
+1,Sri Lanka,7,PHKD Mendis,AK Markram,MDKJ Perera,,0,1,1,,,,31592231592
+1,Sri Lanka,7,MDKJ Perera,AK Markram,PHKD Mendis,,0,0,0,,,,31592231592
+1,Sri Lanka,8,PHKD Mendis,T Shamsi,MDKJ Perera,,0,1,1,,,,31592231592
+1,Sri Lanka,8,MDKJ Perera,T Shamsi,PHKD Mendis,,0,1,1,,,,31592231592
+1,Sri Lanka,8,PHKD Mendis,T Shamsi,MDKJ Perera,,0,1,1,,,,31592231592
+1,Sri Lanka,8,MDKJ Perera,T Shamsi,PHKD Mendis,,0,2,2,,,,31592231592
+1,Sri Lanka,8,MDKJ Perera,T Shamsi,PHKD Mendis,,0,1,1,,,,31592231592
+1,Sri Lanka,8,PHKD Mendis,T Shamsi,MDKJ Perera,,0,0,0,,,,31592231592
+1,Sri Lanka,9,MDKJ Perera,AK Markram,PHKD Mendis,,0,1,1,,,,31592231592
+1,Sri Lanka,9,PHKD Mendis,AK Markram,MDKJ Perera,,0,0,0,,,,31592231592
+1,Sri Lanka,9,PHKD Mendis,AK Markram,MDKJ Perera,,0,0,0,caught,PHKD Mendis,KA Maharaj,31592231592
+1,Sri Lanka,9,MD Shanaka,AK Markram,MDKJ Perera,,0,0,0,,,,31592231592
+1,Sri Lanka,9,MD Shanaka,AK Markram,MDKJ Perera,,0,0,0,,,,31592231592
+1,Sri Lanka,9,MD Shanaka,AK Markram,MDKJ Perera,,0,0,0,,,,31592231592
+1,Sri Lanka,10,MDKJ Perera,KA Maharaj,MD Shanaka,,0,1,1,,,,31592231592
+1,Sri Lanka,10,MD Shanaka,KA Maharaj,MDKJ Perera,,0,0,0,,,,31592231592
+1,Sri Lanka,10,MD Shanaka,KA Maharaj,MDKJ Perera,,0,1,1,,,,31592231592
+1,Sri Lanka,10,MDKJ Perera,KA Maharaj,MD Shanaka,,0,1,1,,,,31592231592
+1,Sri Lanka,10,MD Shanaka,KA Maharaj,MDKJ Perera,,0,0,0,,,,31592231592
+1,Sri Lanka,10,MD Shanaka,KA Maharaj,MDKJ Perera,,0,1,1,,,,31592231592
+1,Sri Lanka,11,MD Shanaka,D Pretorius,MDKJ Perera,,0,1,1,,,,31592231592
+1,Sri Lanka,11,MDKJ Perera,D Pretorius,MD Shanaka,,0,0,0,,,,31592231592
+1,Sri Lanka,11,MDKJ Perera,D Pretorius,MD Shanaka,,0,1,1,,,,31592231592
+1,Sri Lanka,11,MD Shanaka,D Pretorius,MDKJ Perera,,0,1,1,,,,31592231592
+1,Sri Lanka,11,MDKJ Perera,D Pretorius,MD Shanaka,,0,1,1,,,,31592231592
+1,Sri Lanka,11,MD Shanaka,D Pretorius,MDKJ Perera,,0,4,4,,,,31592231592
+1,Sri Lanka,12,MDKJ Perera,KA Maharaj,MD Shanaka,,0,1,1,,,,31592231592
+1,Sri Lanka,12,MD Shanaka,KA Maharaj,MDKJ Perera,,0,1,1,,,,31592231592
+1,Sri Lanka,12,MDKJ Perera,KA Maharaj,MD Shanaka,,0,1,1,,,,31592231592
+1,Sri Lanka,12,MD Shanaka,KA Maharaj,MDKJ Perera,,0,1,1,,,,31592231592
+1,Sri Lanka,12,MDKJ Perera,KA Maharaj,MD Shanaka,,0,2,2,,,,31592231592
+1,Sri Lanka,12,MDKJ Perera,KA Maharaj,MD Shanaka,,0,0,0,lbw,MDKJ Perera,,31592231592
+1,Sri Lanka,13,MD Shanaka,BC Fortuin,PWH de Silva,,0,1,1,,,,31592231592
+1,Sri Lanka,13,PWH de Silva,BC Fortuin,MD Shanaka,,0,0,0,,,,31592231592
+1,Sri Lanka,13,PWH de Silva,BC Fortuin,MD Shanaka,,0,2,2,,,,31592231592
+1,Sri Lanka,13,PWH de Silva,BC Fortuin,MD Shanaka,,0,2,2,,,,31592231592
+1,Sri Lanka,13,PWH de Silva,BC Fortuin,MD Shanaka,,0,0,0,caught,PWH de Silva,KA Maharaj,31592231592
+1,Sri Lanka,13,LD Madushanka,BC Fortuin,MD Shanaka,,0,1,1,,,,31592231592
+1,Sri Lanka,14,LD Madushanka,KA Maharaj,MD Shanaka,,0,0,0,,,,31592231592
+1,Sri Lanka,14,LD Madushanka,KA Maharaj,MD Shanaka,,0,0,0,run out,LD Madushanka,HE van der Dussen,31592231592
+1,Sri Lanka,14,C Karunaratne,KA Maharaj,MD Shanaka,,0,0,0,,,,31592231592
+1,Sri Lanka,14,C Karunaratne,KA Maharaj,MD Shanaka,,0,0,0,,,,31592231592
+1,Sri Lanka,14,C Karunaratne,KA Maharaj,MD Shanaka,,0,0,0,,,,31592231592
+1,Sri Lanka,14,C Karunaratne,KA Maharaj,MD Shanaka,,0,0,0,,,,31592231592
+1,Sri Lanka,15,MD Shanaka,BC Fortuin,C Karunaratne,,0,0,0,,,,31592231592
+1,Sri Lanka,15,MD Shanaka,BC Fortuin,C Karunaratne,,0,1,1,,,,31592231592
+1,Sri Lanka,15,C Karunaratne,BC Fortuin,MD Shanaka,,0,0,0,,,,31592231592
+1,Sri Lanka,15,C Karunaratne,BC Fortuin,MD Shanaka,,0,1,1,,,,31592231592
+1,Sri Lanka,15,MD Shanaka,BC Fortuin,C Karunaratne,,0,0,0,,,,31592231592
+1,Sri Lanka,15,MD Shanaka,BC Fortuin,C Karunaratne,legbyes,1,1,0,,,,31592231592
+1,Sri Lanka,16,MD Shanaka,KA Maharaj,C Karunaratne,,0,1,1,,,,31592231592
+1,Sri Lanka,16,C Karunaratne,KA Maharaj,MD Shanaka,,0,2,2,,,,31592231592
+1,Sri Lanka,16,C Karunaratne,KA Maharaj,MD Shanaka,,0,1,1,,,,31592231592
+1,Sri Lanka,16,MD Shanaka,KA Maharaj,C Karunaratne,,0,0,0,,,,31592231592
+1,Sri Lanka,16,MD Shanaka,KA Maharaj,C Karunaratne,,0,0,0,,,,31592231592
+1,Sri Lanka,16,MD Shanaka,KA Maharaj,C Karunaratne,,0,0,0,,,,31592231592
+1,Sri Lanka,17,C Karunaratne,T Shamsi,MD Shanaka,,0,1,1,,,,31592231592
+1,Sri Lanka,17,MD Shanaka,T Shamsi,C Karunaratne,,0,0,0,,,,31592231592
+1,Sri Lanka,17,MD Shanaka,T Shamsi,C Karunaratne,,0,1,1,,,,31592231592
+1,Sri Lanka,17,C Karunaratne,T Shamsi,MD Shanaka,,0,1,1,,,,31592231592
+1,Sri Lanka,17,MD Shanaka,T Shamsi,C Karunaratne,,0,4,4,,,,31592231592
+1,Sri Lanka,17,MD Shanaka,T Shamsi,C Karunaratne,,0,0,0,,,,31592231592
+1,Sri Lanka,18,C Karunaratne,PWA Mulder,MD Shanaka,,0,1,1,,,,31592231592
+1,Sri Lanka,18,MD Shanaka,PWA Mulder,C Karunaratne,,0,0,0,caught,MD Shanaka,HE van der Dussen,31592231592
+1,Sri Lanka,18,C Karunaratne,PWA Mulder,PVD Chameera,,0,2,2,,,,31592231592
+1,Sri Lanka,18,C Karunaratne,PWA Mulder,PVD Chameera,,0,6,6,,,,31592231592
+1,Sri Lanka,18,C Karunaratne,PWA Mulder,PVD Chameera,,0,1,1,,,,31592231592
+1,Sri Lanka,18,PVD Chameera,PWA Mulder,C Karunaratne,,0,1,1,,,,31592231592
+1,Sri Lanka,19,PVD Chameera,T Shamsi,C Karunaratne,,0,1,1,,,,31592231592
+1,Sri Lanka,19,C Karunaratne,T Shamsi,PVD Chameera,,0,0,0,,,,31592231592
+1,Sri Lanka,19,C Karunaratne,T Shamsi,PVD Chameera,,0,0,0,,,,31592231592
+1,Sri Lanka,19,C Karunaratne,T Shamsi,PVD Chameera,,0,0,0,,,,31592231592
+1,Sri Lanka,19,C Karunaratne,T Shamsi,PVD Chameera,,0,2,2,,,,31592231592
+1,Sri Lanka,19,C Karunaratne,T Shamsi,PVD Chameera,,0,6,6,,,,31592231592

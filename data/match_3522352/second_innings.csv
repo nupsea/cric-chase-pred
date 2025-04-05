@@ -1,0 +1,61 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,West Indies,0,BA Parchment,SM Pollock,DS Smith,,0,4,4,,,,3522352
+2,West Indies,0,BA Parchment,SM Pollock,DS Smith,,0,0,0,,,,3522352
+2,West Indies,0,BA Parchment,SM Pollock,DS Smith,,0,0,0,,,,3522352
+2,West Indies,0,BA Parchment,SM Pollock,DS Smith,,0,6,6,,,,3522352
+2,West Indies,0,BA Parchment,SM Pollock,DS Smith,,0,0,0,,,,3522352
+2,West Indies,0,BA Parchment,SM Pollock,DS Smith,,0,0,0,caught,BA Parchment,JP Duminy,3522352
+2,West Indies,1,DS Smith,M Ntini,RS Morton,,0,1,1,,,,3522352
+2,West Indies,1,RS Morton,M Ntini,DS Smith,,0,0,0,,,,3522352
+2,West Indies,1,RS Morton,M Ntini,DS Smith,,0,4,4,,,,3522352
+2,West Indies,1,RS Morton,M Ntini,DS Smith,,0,0,0,,,,3522352
+2,West Indies,1,RS Morton,M Ntini,DS Smith,,0,4,4,,,,3522352
+2,West Indies,1,RS Morton,M Ntini,DS Smith,,0,0,0,,,,3522352
+2,West Indies,2,DS Smith,SM Pollock,RS Morton,,0,0,0,,,,3522352
+2,West Indies,2,DS Smith,SM Pollock,RS Morton,,0,1,1,,,,3522352
+2,West Indies,2,RS Morton,SM Pollock,DS Smith,,0,1,1,,,,3522352
+2,West Indies,2,DS Smith,SM Pollock,RS Morton,,0,1,1,,,,3522352
+2,West Indies,2,RS Morton,SM Pollock,DS Smith,,0,6,6,,,,3522352
+2,West Indies,2,RS Morton,SM Pollock,DS Smith,,0,0,0,,,,3522352
+2,West Indies,3,DS Smith,DW Steyn,RS Morton,,0,0,0,,,,3522352
+2,West Indies,3,DS Smith,DW Steyn,RS Morton,,0,4,4,,,,3522352
+2,West Indies,3,DS Smith,DW Steyn,RS Morton,,0,0,0,bowled,DS Smith,,3522352
+2,West Indies,3,S Chanderpaul,DW Steyn,RS Morton,,0,0,0,,,,3522352
+2,West Indies,3,S Chanderpaul,DW Steyn,RS Morton,,0,0,0,,,,3522352
+2,West Indies,3,S Chanderpaul,DW Steyn,RS Morton,,0,0,0,,,,3522352
+2,West Indies,4,RS Morton,M Ntini,S Chanderpaul,,0,0,0,,,,3522352
+2,West Indies,4,RS Morton,M Ntini,S Chanderpaul,,0,4,4,,,,3522352
+2,West Indies,4,RS Morton,M Ntini,S Chanderpaul,,0,0,0,,,,3522352
+2,West Indies,4,RS Morton,M Ntini,S Chanderpaul,legbyes,1,1,0,,,,3522352
+2,West Indies,4,S Chanderpaul,M Ntini,RS Morton,,0,1,1,,,,3522352
+2,West Indies,4,RS Morton,M Ntini,S Chanderpaul,,0,1,1,,,,3522352
+2,West Indies,5,RS Morton,DW Steyn,S Chanderpaul,,0,0,0,bowled,RS Morton,,3522352
+2,West Indies,5,MN Samuels,DW Steyn,S Chanderpaul,,0,0,0,,,,3522352
+2,West Indies,5,MN Samuels,DW Steyn,S Chanderpaul,,0,1,1,,,,3522352
+2,West Indies,5,S Chanderpaul,DW Steyn,MN Samuels,,0,1,1,,,,3522352
+2,West Indies,5,MN Samuels,DW Steyn,S Chanderpaul,,0,0,0,bowled,MN Samuels,,3522352
+2,West Indies,5,DJ Bravo,DW Steyn,S Chanderpaul,,0,0,0,bowled,DJ Bravo,,3522352
+2,West Indies,6,S Chanderpaul,M Ntini,D Ramdin,,0,0,0,,,,3522352
+2,West Indies,6,S Chanderpaul,M Ntini,D Ramdin,,0,0,0,,,,3522352
+2,West Indies,6,S Chanderpaul,M Ntini,D Ramdin,,0,0,0,,,,3522352
+2,West Indies,6,S Chanderpaul,M Ntini,D Ramdin,,0,1,1,,,,3522352
+2,West Indies,6,D Ramdin,M Ntini,S Chanderpaul,,0,0,0,,,,3522352
+2,West Indies,6,D Ramdin,M Ntini,S Chanderpaul,,0,0,0,,,,3522352
+2,West Indies,7,S Chanderpaul,DW Steyn,D Ramdin,,0,1,1,,,,3522352
+2,West Indies,7,D Ramdin,DW Steyn,S Chanderpaul,,0,0,0,,,,3522352
+2,West Indies,7,D Ramdin,DW Steyn,S Chanderpaul,,0,0,0,,,,3522352
+2,West Indies,7,D Ramdin,DW Steyn,S Chanderpaul,,0,0,0,,,,3522352
+2,West Indies,7,D Ramdin,DW Steyn,S Chanderpaul,,0,1,1,,,,3522352
+2,West Indies,7,S Chanderpaul,DW Steyn,D Ramdin,,0,1,1,,,,3522352
+2,West Indies,8,S Chanderpaul,JA Morkel,D Ramdin,,0,1,1,,,,3522352
+2,West Indies,8,D Ramdin,JA Morkel,S Chanderpaul,,0,2,2,,,,3522352
+2,West Indies,8,D Ramdin,JA Morkel,S Chanderpaul,,0,0,0,,,,3522352
+2,West Indies,8,D Ramdin,JA Morkel,S Chanderpaul,,0,1,1,,,,3522352
+2,West Indies,8,S Chanderpaul,JA Morkel,D Ramdin,,0,0,0,,,,3522352
+2,West Indies,8,S Chanderpaul,JA Morkel,D Ramdin,,0,1,1,,,,3522352
+2,West Indies,9,S Chanderpaul,VD Philander,D Ramdin,,0,0,0,,,,3522352
+2,West Indies,9,S Chanderpaul,VD Philander,D Ramdin,,0,1,1,,,,3522352
+2,West Indies,9,D Ramdin,VD Philander,S Chanderpaul,wides,1,1,0,,,,3522352
+2,West Indies,9,D Ramdin,VD Philander,S Chanderpaul,,0,0,0,,,,3522352
+2,West Indies,9,D Ramdin,VD Philander,S Chanderpaul,,0,4,4,,,,3522352
+2,West Indies,9,D Ramdin,VD Philander,S Chanderpaul,,0,4,4,,,,3522352

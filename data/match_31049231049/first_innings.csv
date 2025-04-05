@@ -1,0 +1,83 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Vanuatu,0,A Mansale,J Kila,C Tommy,,0,4,4,,,,31049231049
+1,Vanuatu,0,A Mansale,J Kila,C Tommy,noballs,1,1,0,,,,31049231049
+1,Vanuatu,0,A Mansale,J Kila,C Tommy,,0,1,1,,,,31049231049
+1,Vanuatu,0,C Tommy,J Kila,A Mansale,,0,0,0,,,,31049231049
+1,Vanuatu,0,C Tommy,J Kila,A Mansale,,0,0,0,,,,31049231049
+1,Vanuatu,0,C Tommy,J Kila,A Mansale,,0,0,0,,,,31049231049
+1,Vanuatu,0,C Tommy,J Kila,A Mansale,noballs,1,1,0,,,,31049231049
+1,Vanuatu,0,C Tommy,J Kila,A Mansale,,0,0,0,,,,31049231049
+1,Vanuatu,1,A Mansale,N Pokana,C Tommy,,0,0,0,,,,31049231049
+1,Vanuatu,1,A Mansale,N Pokana,C Tommy,,0,0,0,,,,31049231049
+1,Vanuatu,1,A Mansale,N Pokana,C Tommy,,0,0,0,,,,31049231049
+1,Vanuatu,1,A Mansale,N Pokana,C Tommy,,0,1,1,,,,31049231049
+1,Vanuatu,1,C Tommy,N Pokana,A Mansale,,0,1,1,,,,31049231049
+1,Vanuatu,1,A Mansale,N Pokana,C Tommy,legbyes,1,1,0,,,,31049231049
+1,Vanuatu,2,A Mansale,CA Soper,C Tommy,,0,0,0,,,,31049231049
+1,Vanuatu,2,A Mansale,CA Soper,C Tommy,,0,4,4,,,,31049231049
+1,Vanuatu,2,A Mansale,CA Soper,C Tommy,,0,0,0,caught,A Mansale,TP Ura,31049231049
+1,Vanuatu,2,C Tommy,CA Soper,N Nipiko,,0,1,1,,,,31049231049
+1,Vanuatu,2,N Nipiko,CA Soper,C Tommy,,0,0,0,,,,31049231049
+1,Vanuatu,2,N Nipiko,CA Soper,C Tommy,,0,0,0,,,,31049231049
+1,Vanuatu,3,C Tommy,N Vanua,N Nipiko,,0,0,0,,,,31049231049
+1,Vanuatu,3,C Tommy,N Vanua,N Nipiko,,0,0,0,,,,31049231049
+1,Vanuatu,3,C Tommy,N Vanua,N Nipiko,,0,4,4,,,,31049231049
+1,Vanuatu,3,C Tommy,N Vanua,N Nipiko,,0,0,0,,,,31049231049
+1,Vanuatu,3,C Tommy,N Vanua,N Nipiko,,0,0,0,,,,31049231049
+1,Vanuatu,3,C Tommy,N Vanua,N Nipiko,,0,0,0,,,,31049231049
+1,Vanuatu,4,N Nipiko,D Ravu,C Tommy,,0,1,1,,,,31049231049
+1,Vanuatu,4,C Tommy,D Ravu,N Nipiko,,0,0,0,caught,C Tommy,L Siaka,31049231049
+1,Vanuatu,4,N Nipiko,D Ravu,J Dunn,,0,0,0,,,,31049231049
+1,Vanuatu,4,N Nipiko,D Ravu,J Dunn,wides,1,1,0,,,,31049231049
+1,Vanuatu,4,N Nipiko,D Ravu,J Dunn,,0,1,1,,,,31049231049
+1,Vanuatu,4,J Dunn,D Ravu,N Nipiko,,0,1,1,,,,31049231049
+1,Vanuatu,4,N Nipiko,D Ravu,J Dunn,,0,0,0,,,,31049231049
+1,Vanuatu,5,J Dunn,CJA Amini,N Nipiko,,0,1,1,,,,31049231049
+1,Vanuatu,5,N Nipiko,CJA Amini,J Dunn,,0,0,0,,,,31049231049
+1,Vanuatu,5,N Nipiko,CJA Amini,J Dunn,,0,1,1,,,,31049231049
+1,Vanuatu,5,J Dunn,CJA Amini,N Nipiko,,0,0,0,,,,31049231049
+1,Vanuatu,5,J Dunn,CJA Amini,N Nipiko,,0,0,0,,,,31049231049
+1,Vanuatu,5,J Dunn,CJA Amini,N Nipiko,,0,1,1,,,,31049231049
+1,Vanuatu,6,J Dunn,L Siaka,N Nipiko,,0,1,1,,,,31049231049
+1,Vanuatu,6,N Nipiko,L Siaka,J Dunn,,0,0,0,,,,31049231049
+1,Vanuatu,6,N Nipiko,L Siaka,J Dunn,,0,0,0,caught and bowled,N Nipiko,,31049231049
+1,Vanuatu,6,R Tari,L Siaka,J Dunn,noballs,1,2,1,,,,31049231049
+1,Vanuatu,6,J Dunn,L Siaka,R Tari,,0,2,2,,,,31049231049
+1,Vanuatu,6,J Dunn,L Siaka,R Tari,,0,0,0,,,,31049231049
+1,Vanuatu,6,J Dunn,L Siaka,R Tari,,0,1,1,,,,31049231049
+1,Vanuatu,7,J Dunn,CJA Amini,R Tari,,0,1,1,,,,31049231049
+1,Vanuatu,7,R Tari,CJA Amini,J Dunn,,0,0,0,,,,31049231049
+1,Vanuatu,7,R Tari,CJA Amini,J Dunn,,0,1,1,,,,31049231049
+1,Vanuatu,7,J Dunn,CJA Amini,R Tari,,0,0,0,bowled,J Dunn,,31049231049
+1,Vanuatu,7,J Vira,CJA Amini,R Tari,,0,0,0,,,,31049231049
+1,Vanuatu,7,J Vira,CJA Amini,R Tari,,0,1,1,,,,31049231049
+1,Vanuatu,8,J Vira,L Siaka,R Tari,,0,0,0,,,,31049231049
+1,Vanuatu,8,J Vira,L Siaka,R Tari,,0,0,0,caught,J Vira,K Doriga,31049231049
+1,Vanuatu,8,SH Obed,L Siaka,R Tari,,0,1,1,,,,31049231049
+1,Vanuatu,8,R Tari,L Siaka,SH Obed,,0,1,1,,,,31049231049
+1,Vanuatu,8,SH Obed,L Siaka,R Tari,,0,1,1,,,,31049231049
+1,Vanuatu,8,R Tari,L Siaka,SH Obed,,0,1,1,,,,31049231049
+1,Vanuatu,9,R Tari,CJA Amini,SH Obed,,0,1,1,,,,31049231049
+1,Vanuatu,9,SH Obed,CJA Amini,R Tari,,0,1,1,,,,31049231049
+1,Vanuatu,9,R Tari,CJA Amini,SH Obed,,0,1,1,,,,31049231049
+1,Vanuatu,9,SH Obed,CJA Amini,R Tari,,0,0,0,,,,31049231049
+1,Vanuatu,9,SH Obed,CJA Amini,R Tari,,0,1,1,,,,31049231049
+1,Vanuatu,9,R Tari,CJA Amini,SH Obed,,0,1,1,,,,31049231049
+1,Vanuatu,10,R Tari,L Siaka,SH Obed,,0,0,0,,,,31049231049
+1,Vanuatu,10,R Tari,L Siaka,SH Obed,,0,1,1,,,,31049231049
+1,Vanuatu,10,SH Obed,L Siaka,R Tari,,0,2,2,,,,31049231049
+1,Vanuatu,10,SH Obed,L Siaka,R Tari,,0,2,2,,,,31049231049
+1,Vanuatu,10,SH Obed,L Siaka,R Tari,,0,0,0,caught,SH Obed,N Pokana,31049231049
+1,Vanuatu,10,R Tari,L Siaka,JW Chilia,,0,1,1,,,,31049231049
+1,Vanuatu,11,R Tari,N Vanua,JW Chilia,,0,0,0,,,,31049231049
+1,Vanuatu,11,R Tari,N Vanua,JW Chilia,,0,0,0,bowled,R Tari,,31049231049
+1,Vanuatu,11,W Viraliliu,N Vanua,JW Chilia,,0,0,0,,,,31049231049
+1,Vanuatu,11,W Viraliliu,N Vanua,JW Chilia,,0,1,1,,,,31049231049
+1,Vanuatu,11,JW Chilia,N Vanua,W Viraliliu,,0,1,1,,,,31049231049
+1,Vanuatu,11,W Viraliliu,N Vanua,JW Chilia,,0,2,2,,,,31049231049
+1,Vanuatu,12,JW Chilia,N Pokana,W Viraliliu,,0,0,0,,,,31049231049
+1,Vanuatu,12,JW Chilia,N Pokana,W Viraliliu,,0,1,1,,,,31049231049
+1,Vanuatu,12,W Viraliliu,N Pokana,JW Chilia,,0,0,0,caught,W Viraliliu,JB Reva,31049231049
+1,Vanuatu,12,ZK Shem,N Pokana,JW Chilia,,0,0,0,,,,31049231049
+1,Vanuatu,12,ZK Shem,N Pokana,JW Chilia,,0,0,0,,,,31049231049
+1,Vanuatu,12,ZK Shem,N Pokana,JW Chilia,,0,1,1,,,,31049231049

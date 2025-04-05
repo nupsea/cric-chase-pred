@@ -1,0 +1,110 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Australia,0,AJ Finch,M Theekshana,DA Warner,,0,2,2,,,,31969231969
+2,Australia,0,AJ Finch,M Theekshana,DA Warner,,0,0,0,,,,31969231969
+2,Australia,0,AJ Finch,M Theekshana,DA Warner,,0,4,4,,,,31969231969
+2,Australia,0,AJ Finch,M Theekshana,DA Warner,,0,0,0,,,,31969231969
+2,Australia,0,AJ Finch,M Theekshana,DA Warner,,0,0,0,,,,31969231969
+2,Australia,0,AJ Finch,M Theekshana,DA Warner,,0,1,1,,,,31969231969
+2,Australia,1,AJ Finch,PVD Chameera,DA Warner,,0,4,4,,,,31969231969
+2,Australia,1,AJ Finch,PVD Chameera,DA Warner,,0,4,4,,,,31969231969
+2,Australia,1,AJ Finch,PVD Chameera,DA Warner,,0,1,1,,,,31969231969
+2,Australia,1,DA Warner,PVD Chameera,AJ Finch,,0,6,6,,,,31969231969
+2,Australia,1,DA Warner,PVD Chameera,AJ Finch,wides,1,1,0,,,,31969231969
+2,Australia,1,DA Warner,PVD Chameera,AJ Finch,,0,0,0,,,,31969231969
+2,Australia,1,DA Warner,PVD Chameera,AJ Finch,,0,2,2,,,,31969231969
+2,Australia,2,AJ Finch,PWH de Silva,DA Warner,,0,2,2,,,,31969231969
+2,Australia,2,AJ Finch,PWH de Silva,DA Warner,,0,4,4,,,,31969231969
+2,Australia,2,AJ Finch,PWH de Silva,DA Warner,,0,2,2,,,,31969231969
+2,Australia,2,AJ Finch,PWH de Silva,DA Warner,,0,0,0,caught,AJ Finch,MD Gunathilaka,31969231969
+2,Australia,2,MR Marsh,PWH de Silva,DA Warner,,0,0,0,,,,31969231969
+2,Australia,2,MR Marsh,PWH de Silva,DA Warner,,0,0,0,,,,31969231969
+2,Australia,3,DA Warner,M Theekshana,MR Marsh,,0,4,4,,,,31969231969
+2,Australia,3,DA Warner,M Theekshana,MR Marsh,,0,1,1,,,,31969231969
+2,Australia,3,MR Marsh,M Theekshana,DA Warner,,0,1,1,,,,31969231969
+2,Australia,3,DA Warner,M Theekshana,MR Marsh,,0,4,4,,,,31969231969
+2,Australia,3,DA Warner,M Theekshana,MR Marsh,,0,0,0,,,,31969231969
+2,Australia,3,DA Warner,M Theekshana,MR Marsh,,0,0,0,,,,31969231969
+2,Australia,4,MR Marsh,PWH de Silva,DA Warner,,0,4,4,,,,31969231969
+2,Australia,4,MR Marsh,PWH de Silva,DA Warner,,0,4,4,,,,31969231969
+2,Australia,4,MR Marsh,PWH de Silva,DA Warner,,0,2,2,,,,31969231969
+2,Australia,4,MR Marsh,PWH de Silva,DA Warner,,0,0,0,lbw,MR Marsh,,31969231969
+2,Australia,4,SPD Smith,PWH de Silva,DA Warner,,0,0,0,,,,31969231969
+2,Australia,4,SPD Smith,PWH de Silva,DA Warner,,0,1,1,,,,31969231969
+2,Australia,5,SPD Smith,N Thushara,DA Warner,,0,4,4,,,,31969231969
+2,Australia,5,SPD Smith,N Thushara,DA Warner,,0,0,0,lbw,SPD Smith,,31969231969
+2,Australia,5,GJ Maxwell,N Thushara,DA Warner,,0,0,0,,,,31969231969
+2,Australia,5,GJ Maxwell,N Thushara,DA Warner,,0,1,1,,,,31969231969
+2,Australia,5,DA Warner,N Thushara,GJ Maxwell,,0,0,0,,,,31969231969
+2,Australia,5,DA Warner,N Thushara,GJ Maxwell,,0,4,4,,,,31969231969
+2,Australia,6,GJ Maxwell,PVD Chameera,DA Warner,,0,0,0,,,,31969231969
+2,Australia,6,GJ Maxwell,PVD Chameera,DA Warner,,0,1,1,run out,DA Warner,BKG Mendis,31969231969
+2,Australia,6,MP Stoinis,PVD Chameera,GJ Maxwell,,0,0,0,,,,31969231969
+2,Australia,6,MP Stoinis,PVD Chameera,GJ Maxwell,,0,1,1,,,,31969231969
+2,Australia,6,GJ Maxwell,PVD Chameera,MP Stoinis,,0,0,0,,,,31969231969
+2,Australia,6,GJ Maxwell,PVD Chameera,MP Stoinis,,0,2,2,,,,31969231969
+2,Australia,7,MP Stoinis,PWH de Silva,GJ Maxwell,,0,1,1,,,,31969231969
+2,Australia,7,GJ Maxwell,PWH de Silva,MP Stoinis,,0,1,1,,,,31969231969
+2,Australia,7,MP Stoinis,PWH de Silva,GJ Maxwell,,0,6,6,,,,31969231969
+2,Australia,7,MP Stoinis,PWH de Silva,GJ Maxwell,,0,0,0,,,,31969231969
+2,Australia,7,MP Stoinis,PWH de Silva,GJ Maxwell,,0,1,1,,,,31969231969
+2,Australia,7,GJ Maxwell,PWH de Silva,MP Stoinis,,0,1,1,,,,31969231969
+2,Australia,8,GJ Maxwell,PVD Chameera,MP Stoinis,,0,0,0,,,,31969231969
+2,Australia,8,GJ Maxwell,PVD Chameera,MP Stoinis,,0,2,2,,,,31969231969
+2,Australia,8,GJ Maxwell,PVD Chameera,MP Stoinis,,0,1,1,,,,31969231969
+2,Australia,8,MP Stoinis,PVD Chameera,GJ Maxwell,,0,0,0,caught,MP Stoinis,KIC Asalanka,31969231969
+2,Australia,8,MS Wade,PVD Chameera,GJ Maxwell,,0,0,0,,,,31969231969
+2,Australia,8,MS Wade,PVD Chameera,GJ Maxwell,,0,1,1,,,,31969231969
+2,Australia,9,MS Wade,M Theekshana,GJ Maxwell,,0,2,2,,,,31969231969
+2,Australia,9,MS Wade,M Theekshana,GJ Maxwell,,0,1,1,,,,31969231969
+2,Australia,9,GJ Maxwell,M Theekshana,MS Wade,,0,2,2,,,,31969231969
+2,Australia,9,GJ Maxwell,M Theekshana,MS Wade,,0,2,2,,,,31969231969
+2,Australia,9,GJ Maxwell,M Theekshana,MS Wade,wides,1,1,0,,,,31969231969
+2,Australia,9,GJ Maxwell,M Theekshana,MS Wade,,0,1,1,,,,31969231969
+2,Australia,9,MS Wade,M Theekshana,GJ Maxwell,,0,0,0,,,,31969231969
+2,Australia,10,GJ Maxwell,PVD Chameera,MS Wade,,0,1,1,,,,31969231969
+2,Australia,10,MS Wade,PVD Chameera,GJ Maxwell,,0,2,2,,,,31969231969
+2,Australia,10,MS Wade,PVD Chameera,GJ Maxwell,,0,1,1,,,,31969231969
+2,Australia,10,GJ Maxwell,PVD Chameera,MS Wade,,0,1,1,,,,31969231969
+2,Australia,10,MS Wade,PVD Chameera,GJ Maxwell,,0,0,0,,,,31969231969
+2,Australia,10,MS Wade,PVD Chameera,GJ Maxwell,,0,0,0,,,,31969231969
+2,Australia,11,GJ Maxwell,PWH de Silva,MS Wade,,0,2,2,,,,31969231969
+2,Australia,11,GJ Maxwell,PWH de Silva,MS Wade,,0,1,1,,,,31969231969
+2,Australia,11,MS Wade,PWH de Silva,GJ Maxwell,,0,1,1,,,,31969231969
+2,Australia,11,GJ Maxwell,PWH de Silva,MS Wade,,0,0,0,caught,GJ Maxwell,MD Gunathilaka,31969231969
+2,Australia,11,AC Agar,PWH de Silva,MS Wade,,0,0,0,bowled,AC Agar,,31969231969
+2,Australia,11,JA Richardson,PWH de Silva,MS Wade,,0,0,0,,,,31969231969
+2,Australia,12,MS Wade,KIC Asalanka,JA Richardson,,0,0,0,,,,31969231969
+2,Australia,12,MS Wade,KIC Asalanka,JA Richardson,,0,0,0,,,,31969231969
+2,Australia,12,MS Wade,KIC Asalanka,JA Richardson,,0,1,1,,,,31969231969
+2,Australia,12,JA Richardson,KIC Asalanka,MS Wade,,0,0,0,,,,31969231969
+2,Australia,12,JA Richardson,KIC Asalanka,MS Wade,,0,0,0,,,,31969231969
+2,Australia,12,JA Richardson,KIC Asalanka,MS Wade,,0,1,1,,,,31969231969
+2,Australia,13,JA Richardson,M Theekshana,MS Wade,,0,0,0,,,,31969231969
+2,Australia,13,JA Richardson,M Theekshana,MS Wade,,0,0,0,,,,31969231969
+2,Australia,13,JA Richardson,M Theekshana,MS Wade,,0,1,1,,,,31969231969
+2,Australia,13,MS Wade,M Theekshana,JA Richardson,,0,0,0,,,,31969231969
+2,Australia,13,MS Wade,M Theekshana,JA Richardson,,0,1,1,,,,31969231969
+2,Australia,13,JA Richardson,M Theekshana,MS Wade,,0,1,1,,,,31969231969
+2,Australia,14,JA Richardson,KIC Asalanka,MS Wade,,0,1,1,,,,31969231969
+2,Australia,14,MS Wade,KIC Asalanka,JA Richardson,,0,0,0,,,,31969231969
+2,Australia,14,MS Wade,KIC Asalanka,JA Richardson,,0,1,1,,,,31969231969
+2,Australia,14,JA Richardson,KIC Asalanka,MS Wade,,0,1,1,,,,31969231969
+2,Australia,14,MS Wade,KIC Asalanka,JA Richardson,,0,0,0,,,,31969231969
+2,Australia,14,MS Wade,KIC Asalanka,JA Richardson,,0,0,0,,,,31969231969
+2,Australia,15,JA Richardson,N Thushara,MS Wade,,0,0,0,,,,31969231969
+2,Australia,15,JA Richardson,N Thushara,MS Wade,,0,1,1,,,,31969231969
+2,Australia,15,MS Wade,N Thushara,JA Richardson,,0,4,4,,,,31969231969
+2,Australia,15,MS Wade,N Thushara,JA Richardson,,0,2,2,,,,31969231969
+2,Australia,15,MS Wade,N Thushara,JA Richardson,,0,1,1,,,,31969231969
+2,Australia,15,JA Richardson,N Thushara,MS Wade,,0,1,1,,,,31969231969
+2,Australia,16,JA Richardson,KIC Asalanka,MS Wade,,0,1,1,,,,31969231969
+2,Australia,16,MS Wade,KIC Asalanka,JA Richardson,,0,1,1,,,,31969231969
+2,Australia,16,JA Richardson,KIC Asalanka,MS Wade,,0,0,0,,,,31969231969
+2,Australia,16,JA Richardson,KIC Asalanka,MS Wade,,0,0,0,,,,31969231969
+2,Australia,16,JA Richardson,KIC Asalanka,MS Wade,,0,0,0,,,,31969231969
+2,Australia,16,JA Richardson,KIC Asalanka,MS Wade,,0,0,0,,,,31969231969
+2,Australia,17,MS Wade,MD Gunathilaka,JA Richardson,,0,2,2,,,,31969231969
+2,Australia,17,MS Wade,MD Gunathilaka,JA Richardson,,0,1,1,,,,31969231969
+2,Australia,17,JA Richardson,MD Gunathilaka,MS Wade,,0,0,0,,,,31969231969
+2,Australia,17,JA Richardson,MD Gunathilaka,MS Wade,,0,1,1,,,,31969231969
+2,Australia,17,MS Wade,MD Gunathilaka,JA Richardson,,0,4,4,,,,31969231969

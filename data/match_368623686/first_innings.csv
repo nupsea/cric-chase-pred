@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,HM Amla,TA Boult,Q de Kock,,0,0,0,,,,368623686
+1,South Africa,0,HM Amla,TA Boult,Q de Kock,legbyes,4,4,0,,,,368623686
+1,South Africa,0,HM Amla,TA Boult,Q de Kock,,0,0,0,,,,368623686
+1,South Africa,0,HM Amla,TA Boult,Q de Kock,,0,0,0,,,,368623686
+1,South Africa,0,HM Amla,TA Boult,Q de Kock,,0,1,1,,,,368623686
+1,South Africa,0,Q de Kock,TA Boult,HM Amla,,0,0,0,,,,368623686
+1,South Africa,1,HM Amla,BM Wheeler,Q de Kock,,0,0,0,,,,368623686
+1,South Africa,1,HM Amla,BM Wheeler,Q de Kock,,0,4,4,,,,368623686
+1,South Africa,1,HM Amla,BM Wheeler,Q de Kock,,0,4,4,,,,368623686
+1,South Africa,1,HM Amla,BM Wheeler,Q de Kock,,0,1,1,,,,368623686
+1,South Africa,1,Q de Kock,BM Wheeler,HM Amla,,0,0,0,,,,368623686
+1,South Africa,1,Q de Kock,BM Wheeler,HM Amla,,0,0,0,,,,368623686
+1,South Africa,2,HM Amla,TA Boult,Q de Kock,,0,0,0,,,,368623686
+1,South Africa,2,HM Amla,TA Boult,Q de Kock,,0,0,0,,,,368623686
+1,South Africa,2,HM Amla,TA Boult,Q de Kock,,0,1,1,,,,368623686
+1,South Africa,2,Q de Kock,TA Boult,HM Amla,,0,0,0,caught,Q de Kock,MJ Santner,368623686
+1,South Africa,2,F du Plessis,TA Boult,HM Amla,,0,0,0,,,,368623686
+1,South Africa,2,F du Plessis,TA Boult,HM Amla,,0,0,0,,,,368623686
+1,South Africa,3,HM Amla,TG Southee,F du Plessis,wides,1,1,0,,,,368623686
+1,South Africa,3,HM Amla,TG Southee,F du Plessis,,0,1,1,,,,368623686
+1,South Africa,3,F du Plessis,TG Southee,HM Amla,,0,0,0,,,,368623686
+1,South Africa,3,F du Plessis,TG Southee,HM Amla,,0,2,2,,,,368623686
+1,South Africa,3,F du Plessis,TG Southee,HM Amla,,0,0,0,,,,368623686
+1,South Africa,3,F du Plessis,TG Southee,HM Amla,,0,0,0,,,,368623686
+1,South Africa,3,F du Plessis,TG Southee,HM Amla,,0,6,6,,,,368623686
+1,South Africa,4,HM Amla,BM Wheeler,F du Plessis,,0,4,4,,,,368623686
+1,South Africa,4,HM Amla,BM Wheeler,F du Plessis,,0,4,4,,,,368623686
+1,South Africa,4,HM Amla,BM Wheeler,F du Plessis,,0,4,4,,,,368623686
+1,South Africa,4,HM Amla,BM Wheeler,F du Plessis,,0,4,4,,,,368623686
+1,South Africa,4,HM Amla,BM Wheeler,F du Plessis,,0,0,0,,,,368623686
+1,South Africa,4,HM Amla,BM Wheeler,F du Plessis,,0,1,1,,,,368623686
+1,South Africa,5,HM Amla,TG Southee,F du Plessis,,0,1,1,,,,368623686
+1,South Africa,5,F du Plessis,TG Southee,HM Amla,,0,4,4,,,,368623686
+1,South Africa,5,F du Plessis,TG Southee,HM Amla,,0,1,1,,,,368623686
+1,South Africa,5,HM Amla,TG Southee,F du Plessis,,0,4,4,,,,368623686
+1,South Africa,5,HM Amla,TG Southee,F du Plessis,,0,4,4,,,,368623686
+1,South Africa,5,HM Amla,TG Southee,F du Plessis,,0,0,0,,,,368623686
+1,South Africa,6,F du Plessis,MJ Santner,HM Amla,,0,1,1,,,,368623686
+1,South Africa,6,HM Amla,MJ Santner,F du Plessis,,0,0,0,,,,368623686
+1,South Africa,6,HM Amla,MJ Santner,F du Plessis,,0,1,1,,,,368623686
+1,South Africa,6,F du Plessis,MJ Santner,HM Amla,,0,1,1,,,,368623686
+1,South Africa,6,HM Amla,MJ Santner,F du Plessis,,0,1,1,,,,368623686
+1,South Africa,6,F du Plessis,MJ Santner,HM Amla,,0,1,1,,,,368623686
+1,South Africa,7,F du Plessis,C de Grandhomme,HM Amla,,0,2,2,,,,368623686
+1,South Africa,7,F du Plessis,C de Grandhomme,HM Amla,,0,1,1,,,,368623686
+1,South Africa,7,HM Amla,C de Grandhomme,F du Plessis,,0,1,1,,,,368623686
+1,South Africa,7,F du Plessis,C de Grandhomme,HM Amla,wides,2,2,0,,,,368623686
+1,South Africa,7,HM Amla,C de Grandhomme,F du Plessis,,0,2,2,,,,368623686
+1,South Africa,7,HM Amla,C de Grandhomme,F du Plessis,,0,1,1,,,,368623686
+1,South Africa,7,F du Plessis,C de Grandhomme,HM Amla,,0,1,1,,,,368623686
+1,South Africa,8,F du Plessis,MJ Santner,HM Amla,,0,1,1,,,,368623686
+1,South Africa,8,HM Amla,MJ Santner,F du Plessis,,0,1,1,,,,368623686
+1,South Africa,8,F du Plessis,MJ Santner,HM Amla,,0,6,6,,,,368623686
+1,South Africa,8,F du Plessis,MJ Santner,HM Amla,,0,1,1,,,,368623686
+1,South Africa,8,HM Amla,MJ Santner,F du Plessis,,0,1,1,,,,368623686
+1,South Africa,8,F du Plessis,MJ Santner,HM Amla,,0,6,6,,,,368623686
+1,South Africa,9,HM Amla,C Munro,F du Plessis,,0,4,4,,,,368623686
+1,South Africa,9,HM Amla,C Munro,F du Plessis,,0,0,0,,,,368623686
+1,South Africa,9,HM Amla,C Munro,F du Plessis,,0,6,6,,,,368623686
+1,South Africa,9,HM Amla,C Munro,F du Plessis,,0,1,1,,,,368623686
+1,South Africa,9,F du Plessis,C Munro,HM Amla,,0,0,0,,,,368623686
+1,South Africa,9,F du Plessis,C Munro,HM Amla,,0,0,0,,,,368623686
+1,South Africa,10,HM Amla,TA Boult,F du Plessis,,0,1,1,,,,368623686
+1,South Africa,10,F du Plessis,TA Boult,HM Amla,,0,0,0,,,,368623686
+1,South Africa,10,F du Plessis,TA Boult,HM Amla,,0,1,1,,,,368623686
+1,South Africa,10,HM Amla,TA Boult,F du Plessis,,0,1,1,,,,368623686
+1,South Africa,10,F du Plessis,TA Boult,HM Amla,,0,1,1,,,,368623686
+1,South Africa,10,HM Amla,TA Boult,F du Plessis,,0,0,0,,,,368623686
+1,South Africa,11,F du Plessis,C de Grandhomme,HM Amla,,0,0,0,lbw,F du Plessis,,368623686
+1,South Africa,11,AB de Villiers,C de Grandhomme,HM Amla,,0,1,1,,,,368623686
+1,South Africa,11,HM Amla,C de Grandhomme,AB de Villiers,,0,1,1,,,,368623686
+1,South Africa,11,AB de Villiers,C de Grandhomme,HM Amla,,0,1,1,,,,368623686
+1,South Africa,11,HM Amla,C de Grandhomme,AB de Villiers,,0,1,1,,,,368623686
+1,South Africa,11,AB de Villiers,C de Grandhomme,HM Amla,,0,1,1,,,,368623686
+1,South Africa,12,AB de Villiers,MJ Santner,HM Amla,,0,0,0,,,,368623686
+1,South Africa,12,AB de Villiers,MJ Santner,HM Amla,,0,1,1,,,,368623686
+1,South Africa,12,HM Amla,MJ Santner,AB de Villiers,byes,4,4,0,,,,368623686
+1,South Africa,12,HM Amla,MJ Santner,AB de Villiers,,0,1,1,,,,368623686
+1,South Africa,12,AB de Villiers,MJ Santner,HM Amla,,0,4,4,,,,368623686
+1,South Africa,12,AB de Villiers,MJ Santner,HM Amla,,0,1,1,,,,368623686
+1,South Africa,13,AB de Villiers,BM Wheeler,HM Amla,,0,0,0,,,,368623686
+1,South Africa,13,AB de Villiers,BM Wheeler,HM Amla,,0,4,4,,,,368623686
+1,South Africa,13,AB de Villiers,BM Wheeler,HM Amla,,0,1,1,,,,368623686
+1,South Africa,13,HM Amla,BM Wheeler,AB de Villiers,,0,0,0,caught,HM Amla,TC Bruce,368623686
+1,South Africa,13,AB de Villiers,BM Wheeler,JP Duminy,,0,4,4,,,,368623686
+1,South Africa,13,AB de Villiers,BM Wheeler,JP Duminy,,0,0,0,,,,368623686
+1,South Africa,14,JP Duminy,MJ Santner,AB de Villiers,,0,2,2,,,,368623686
+1,South Africa,14,JP Duminy,MJ Santner,AB de Villiers,,0,6,6,,,,368623686
+1,South Africa,14,JP Duminy,MJ Santner,AB de Villiers,,0,1,1,,,,368623686
+1,South Africa,14,AB de Villiers,MJ Santner,JP Duminy,,0,1,1,,,,368623686
+1,South Africa,14,JP Duminy,MJ Santner,AB de Villiers,,0,1,1,,,,368623686
+1,South Africa,14,AB de Villiers,MJ Santner,JP Duminy,,0,1,1,,,,368623686
+1,South Africa,15,AB de Villiers,C de Grandhomme,JP Duminy,,0,0,0,,,,368623686
+1,South Africa,15,AB de Villiers,C de Grandhomme,JP Duminy,,0,6,6,,,,368623686
+1,South Africa,15,AB de Villiers,C de Grandhomme,JP Duminy,,0,0,0,caught,AB de Villiers,BM Wheeler,368623686
+1,South Africa,15,JP Duminy,C de Grandhomme,F Behardien,,0,1,1,,,,368623686
+1,South Africa,15,F Behardien,C de Grandhomme,JP Duminy,,0,0,0,,,,368623686
+1,South Africa,15,F Behardien,C de Grandhomme,JP Duminy,,0,0,0,,,,368623686
+1,South Africa,16,JP Duminy,TG Southee,F Behardien,,0,0,0,,,,368623686
+1,South Africa,16,JP Duminy,TG Southee,F Behardien,,0,1,1,,,,368623686
+1,South Africa,16,F Behardien,TG Southee,JP Duminy,,0,1,1,,,,368623686
+1,South Africa,16,JP Duminy,TG Southee,F Behardien,,0,4,4,,,,368623686
+1,South Africa,16,JP Duminy,TG Southee,F Behardien,,0,4,4,,,,368623686
+1,South Africa,16,JP Duminy,TG Southee,F Behardien,,0,1,1,,,,368623686
+1,South Africa,17,JP Duminy,BM Wheeler,F Behardien,,0,0,0,,,,368623686
+1,South Africa,17,JP Duminy,BM Wheeler,F Behardien,,0,6,6,,,,368623686
+1,South Africa,17,JP Duminy,BM Wheeler,F Behardien,,0,1,1,,,,368623686
+1,South Africa,17,F Behardien,BM Wheeler,JP Duminy,,0,0,0,,,,368623686
+1,South Africa,17,F Behardien,BM Wheeler,JP Duminy,,0,6,6,,,,368623686
+1,South Africa,17,F Behardien,BM Wheeler,JP Duminy,,0,1,1,,,,368623686
+1,South Africa,18,F Behardien,TA Boult,JP Duminy,,0,0,0,caught,F Behardien,CJ Anderson,368623686
+1,South Africa,18,JP Duminy,TA Boult,CH Morris,,0,1,1,,,,368623686
+1,South Africa,18,CH Morris,TA Boult,JP Duminy,,0,0,0,,,,368623686
+1,South Africa,18,CH Morris,TA Boult,JP Duminy,,0,1,1,,,,368623686
+1,South Africa,18,JP Duminy,TA Boult,CH Morris,,0,0,0,,,,368623686
+1,South Africa,18,JP Duminy,TA Boult,CH Morris,,0,0,0,,,,368623686
+1,South Africa,19,CH Morris,TG Southee,JP Duminy,,0,6,6,,,,368623686
+1,South Africa,19,CH Morris,TG Southee,JP Duminy,,0,0,0,,,,368623686
+1,South Africa,19,CH Morris,TG Southee,JP Duminy,,0,0,0,,,,368623686
+1,South Africa,19,CH Morris,TG Southee,JP Duminy,,0,2,2,,,,368623686
+1,South Africa,19,CH Morris,TG Southee,JP Duminy,,0,0,0,run out,JP Duminy,L Ronchi,368623686
+1,South Africa,19,WD Parnell,TG Southee,CH Morris,,0,4,4,,,,368623686

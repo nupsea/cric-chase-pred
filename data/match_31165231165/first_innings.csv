@@ -1,0 +1,56 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Mali,0,M Samake,MD Bimenyimana,R Cisse,,0,0,0,,,,31165231165
+1,Mali,0,M Samake,MD Bimenyimana,R Cisse,wides,1,1,0,,,,31165231165
+1,Mali,0,M Samake,MD Bimenyimana,R Cisse,,0,0,0,,,,31165231165
+1,Mali,0,M Samake,MD Bimenyimana,R Cisse,,0,0,0,,,,31165231165
+1,Mali,0,M Samake,MD Bimenyimana,R Cisse,,0,0,0,,,,31165231165
+1,Mali,0,M Samake,MD Bimenyimana,R Cisse,,0,1,1,,,,31165231165
+1,Mali,0,R Cisse,MD Bimenyimana,M Samake,,0,0,0,caught,R Cisse,A Uwimbabazi,31165231165
+1,Mali,1,M Samake,M Vumiliya,N Traore,,0,0,0,caught,M Samake,MD Bimenyimana,31165231165
+1,Mali,1,O Sow,M Vumiliya,N Traore,,0,0,0,,,,31165231165
+1,Mali,1,O Sow,M Vumiliya,N Traore,,0,0,0,,,,31165231165
+1,Mali,1,O Sow,M Vumiliya,N Traore,,0,0,0,,,,31165231165
+1,Mali,1,O Sow,M Vumiliya,N Traore,,0,0,0,,,,31165231165
+1,Mali,1,O Sow,M Vumiliya,N Traore,legbyes,1,1,0,,,,31165231165
+1,Mali,2,O Sow,MD Bimenyimana,N Traore,,0,0,0,run out,O Sow,,31165231165
+1,Mali,2,A Kone,MD Bimenyimana,N Traore,,0,0,0,,,,31165231165
+1,Mali,2,A Kone,MD Bimenyimana,N Traore,,0,0,0,,,,31165231165
+1,Mali,2,A Kone,MD Bimenyimana,N Traore,,0,0,0,bowled,A Kone,,31165231165
+1,Mali,2,M Coulibaly,MD Bimenyimana,N Traore,,0,0,0,,,,31165231165
+1,Mali,2,M Coulibaly,MD Bimenyimana,N Traore,legbyes,1,1,0,,,,31165231165
+1,Mali,3,M Coulibaly,M Vumiliya,N Traore,,0,0,0,,,,31165231165
+1,Mali,3,M Coulibaly,M Vumiliya,N Traore,,0,0,0,,,,31165231165
+1,Mali,3,M Coulibaly,M Vumiliya,N Traore,,0,0,0,,,,31165231165
+1,Mali,3,M Coulibaly,M Vumiliya,N Traore,,0,0,0,,,,31165231165
+1,Mali,3,M Coulibaly,M Vumiliya,N Traore,,0,0,0,,,,31165231165
+1,Mali,3,M Coulibaly,M Vumiliya,N Traore,,0,0,0,,,,31165231165
+1,Mali,4,N Traore,MD Bimenyimana,M Coulibaly,,0,0,0,,,,31165231165
+1,Mali,4,N Traore,MD Bimenyimana,M Coulibaly,,0,0,0,,,,31165231165
+1,Mali,4,N Traore,MD Bimenyimana,M Coulibaly,,0,0,0,,,,31165231165
+1,Mali,4,N Traore,MD Bimenyimana,M Coulibaly,,0,0,0,,,,31165231165
+1,Mali,4,N Traore,MD Bimenyimana,M Coulibaly,,0,0,0,,,,31165231165
+1,Mali,4,N Traore,MD Bimenyimana,M Coulibaly,,0,0,0,,,,31165231165
+1,Mali,5,M Coulibaly,M Vumiliya,N Traore,,0,0,0,,,,31165231165
+1,Mali,5,M Coulibaly,M Vumiliya,N Traore,,0,0,0,,,,31165231165
+1,Mali,5,M Coulibaly,M Vumiliya,N Traore,,0,0,0,,,,31165231165
+1,Mali,5,M Coulibaly,M Vumiliya,N Traore,,0,0,0,caught,M Coulibaly,A Ikuzwe,31165231165
+1,Mali,5,T Konate,M Vumiliya,N Traore,,0,0,0,run out,N Traore,,31165231165
+1,Mali,5,T Konate,M Vumiliya,A Sangare,,0,0,0,,,,31165231165
+1,Mali,6,A Sangare,J Nyirankundineza,T Konate,,0,0,0,,,,31165231165
+1,Mali,6,A Sangare,J Nyirankundineza,T Konate,,0,0,0,,,,31165231165
+1,Mali,6,A Sangare,J Nyirankundineza,T Konate,,0,0,0,,,,31165231165
+1,Mali,6,A Sangare,J Nyirankundineza,T Konate,,0,0,0,,,,31165231165
+1,Mali,6,A Sangare,J Nyirankundineza,T Konate,,0,0,0,,,,31165231165
+1,Mali,6,A Sangare,J Nyirankundineza,T Konate,,0,0,0,bowled,A Sangare,,31165231165
+1,Mali,7,T Konate,V Iriho,Y Sangare,,0,0,0,,,,31165231165
+1,Mali,7,T Konate,V Iriho,Y Sangare,,0,0,0,,,,31165231165
+1,Mali,7,T Konate,V Iriho,Y Sangare,,0,0,0,,,,31165231165
+1,Mali,7,T Konate,V Iriho,Y Sangare,,0,0,0,,,,31165231165
+1,Mali,7,T Konate,V Iriho,Y Sangare,,0,0,0,bowled,T Konate,,31165231165
+1,Mali,7,B Coulibaly,V Iriho,Y Sangare,,0,0,0,,,,31165231165
+1,Mali,8,Y Sangare,J Nyirankundineza,B Coulibaly,,0,0,0,,,,31165231165
+1,Mali,8,Y Sangare,J Nyirankundineza,B Coulibaly,,0,0,0,lbw,Y Sangare,,31165231165
+1,Mali,8,S Kagnassy,J Nyirankundineza,B Coulibaly,byes,2,2,0,,,,31165231165
+1,Mali,8,S Kagnassy,J Nyirankundineza,B Coulibaly,,0,0,0,,,,31165231165
+1,Mali,8,S Kagnassy,J Nyirankundineza,B Coulibaly,,0,0,0,,,,31165231165
+1,Mali,8,S Kagnassy,J Nyirankundineza,B Coulibaly,,0,0,0,lbw,S Kagnassy,,31165231165

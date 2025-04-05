@@ -1,0 +1,102 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Australia,0,AJ Finch,Imad Wasim,DJM Short,,0,0,0,,,,393923939
+2,Australia,0,AJ Finch,Imad Wasim,DJM Short,,0,0,0,,,,393923939
+2,Australia,0,AJ Finch,Imad Wasim,DJM Short,,0,0,0,bowled,AJ Finch,,393923939
+2,Australia,0,CA Lynn,Imad Wasim,DJM Short,,0,1,1,,,,393923939
+2,Australia,0,DJM Short,Imad Wasim,CA Lynn,,0,4,4,,,,393923939
+2,Australia,0,DJM Short,Imad Wasim,CA Lynn,,0,0,0,bowled,DJM Short,,393923939
+2,Australia,1,CA Lynn,Faheem Ashraf,GJ Maxwell,,0,0,0,,,,393923939
+2,Australia,1,CA Lynn,Faheem Ashraf,GJ Maxwell,,0,0,0,,,,393923939
+2,Australia,1,CA Lynn,Faheem Ashraf,GJ Maxwell,,0,1,1,,,,393923939
+2,Australia,1,GJ Maxwell,Faheem Ashraf,CA Lynn,,0,0,0,,,,393923939
+2,Australia,1,GJ Maxwell,Faheem Ashraf,CA Lynn,,0,1,1,,,,393923939
+2,Australia,1,CA Lynn,Faheem Ashraf,GJ Maxwell,,0,4,4,,,,393923939
+2,Australia,2,GJ Maxwell,Imad Wasim,CA Lynn,,0,0,0,,,,393923939
+2,Australia,2,GJ Maxwell,Imad Wasim,CA Lynn,,0,0,0,,,,393923939
+2,Australia,2,GJ Maxwell,Imad Wasim,CA Lynn,,0,1,1,,,,393923939
+2,Australia,2,CA Lynn,Imad Wasim,GJ Maxwell,,0,0,0,,,,393923939
+2,Australia,2,CA Lynn,Imad Wasim,GJ Maxwell,,0,2,2,,,,393923939
+2,Australia,2,CA Lynn,Imad Wasim,GJ Maxwell,,0,1,1,,,,393923939
+2,Australia,3,CA Lynn,Faheem Ashraf,GJ Maxwell,byes,1,1,0,,,,393923939
+2,Australia,3,GJ Maxwell,Faheem Ashraf,CA Lynn,,0,0,0,,,,393923939
+2,Australia,3,GJ Maxwell,Faheem Ashraf,CA Lynn,,0,0,0,bowled,GJ Maxwell,,393923939
+2,Australia,3,BR McDermott,Faheem Ashraf,CA Lynn,,0,0,0,,,,393923939
+2,Australia,3,BR McDermott,Faheem Ashraf,CA Lynn,,0,0,0,run out,BR McDermott,,393923939
+2,Australia,3,CA Lynn,Faheem Ashraf,AT Carey,,0,0,0,,,,393923939
+2,Australia,4,AT Carey,Imad Wasim,CA Lynn,,0,0,0,,,,393923939
+2,Australia,4,AT Carey,Imad Wasim,CA Lynn,,0,1,1,,,,393923939
+2,Australia,4,CA Lynn,Imad Wasim,AT Carey,,0,0,0,,,,393923939
+2,Australia,4,CA Lynn,Imad Wasim,AT Carey,,0,4,4,,,,393923939
+2,Australia,4,CA Lynn,Imad Wasim,AT Carey,,0,1,1,,,,393923939
+2,Australia,4,AT Carey,Imad Wasim,CA Lynn,,0,0,0,caught,AT Carey,Sarfraz Ahmed,393923939
+2,Australia,5,CA Lynn,Faheem Ashraf,AC Agar,,0,0,0,,,,393923939
+2,Australia,5,CA Lynn,Faheem Ashraf,AC Agar,,0,0,0,bowled,CA Lynn,,393923939
+2,Australia,5,NM Coulter-Nile,Faheem Ashraf,AC Agar,,0,0,0,,,,393923939
+2,Australia,5,NM Coulter-Nile,Faheem Ashraf,AC Agar,,0,0,0,,,,393923939
+2,Australia,5,NM Coulter-Nile,Faheem Ashraf,AC Agar,,0,1,1,,,,393923939
+2,Australia,5,AC Agar,Faheem Ashraf,NM Coulter-Nile,,0,3,3,,,,393923939
+2,Australia,6,AC Agar,Hasan Ali,NM Coulter-Nile,,0,0,0,,,,393923939
+2,Australia,6,AC Agar,Hasan Ali,NM Coulter-Nile,,0,1,1,,,,393923939
+2,Australia,6,NM Coulter-Nile,Hasan Ali,AC Agar,,0,0,0,,,,393923939
+2,Australia,6,NM Coulter-Nile,Hasan Ali,AC Agar,,0,0,0,,,,393923939
+2,Australia,6,NM Coulter-Nile,Hasan Ali,AC Agar,,0,0,0,,,,393923939
+2,Australia,6,NM Coulter-Nile,Hasan Ali,AC Agar,,0,0,0,,,,393923939
+2,Australia,7,AC Agar,Shaheen Shah Afridi,NM Coulter-Nile,,0,1,1,,,,393923939
+2,Australia,7,NM Coulter-Nile,Shaheen Shah Afridi,AC Agar,,0,2,2,,,,393923939
+2,Australia,7,NM Coulter-Nile,Shaheen Shah Afridi,AC Agar,,0,0,0,,,,393923939
+2,Australia,7,NM Coulter-Nile,Shaheen Shah Afridi,AC Agar,,0,0,0,,,,393923939
+2,Australia,7,NM Coulter-Nile,Shaheen Shah Afridi,AC Agar,legbyes,1,1,0,,,,393923939
+2,Australia,7,AC Agar,Shaheen Shah Afridi,NM Coulter-Nile,legbyes,1,1,0,,,,393923939
+2,Australia,8,AC Agar,Imad Wasim,NM Coulter-Nile,,0,0,0,,,,393923939
+2,Australia,8,AC Agar,Imad Wasim,NM Coulter-Nile,,0,1,1,,,,393923939
+2,Australia,8,NM Coulter-Nile,Imad Wasim,AC Agar,,0,1,1,,,,393923939
+2,Australia,8,AC Agar,Imad Wasim,NM Coulter-Nile,,0,1,1,,,,393923939
+2,Australia,8,NM Coulter-Nile,Imad Wasim,AC Agar,,0,2,2,,,,393923939
+2,Australia,8,NM Coulter-Nile,Imad Wasim,AC Agar,,0,0,0,,,,393923939
+2,Australia,9,AC Agar,Shadab Khan,NM Coulter-Nile,,0,1,1,,,,393923939
+2,Australia,9,NM Coulter-Nile,Shadab Khan,AC Agar,,0,0,0,,,,393923939
+2,Australia,9,NM Coulter-Nile,Shadab Khan,AC Agar,,0,0,0,,,,393923939
+2,Australia,9,NM Coulter-Nile,Shadab Khan,AC Agar,,0,1,1,,,,393923939
+2,Australia,9,AC Agar,Shadab Khan,NM Coulter-Nile,,0,0,0,,,,393923939
+2,Australia,9,AC Agar,Shadab Khan,NM Coulter-Nile,,0,0,0,,,,393923939
+2,Australia,10,NM Coulter-Nile,Shaheen Shah Afridi,AC Agar,,0,4,4,,,,393923939
+2,Australia,10,NM Coulter-Nile,Shaheen Shah Afridi,AC Agar,,0,4,4,,,,393923939
+2,Australia,10,NM Coulter-Nile,Shaheen Shah Afridi,AC Agar,,0,1,1,,,,393923939
+2,Australia,10,AC Agar,Shaheen Shah Afridi,NM Coulter-Nile,,0,4,4,,,,393923939
+2,Australia,10,AC Agar,Shaheen Shah Afridi,NM Coulter-Nile,,0,0,0,,,,393923939
+2,Australia,10,AC Agar,Shaheen Shah Afridi,NM Coulter-Nile,,0,1,1,,,,393923939
+2,Australia,11,AC Agar,Shadab Khan,NM Coulter-Nile,,0,0,0,,,,393923939
+2,Australia,11,AC Agar,Shadab Khan,NM Coulter-Nile,,0,0,0,,,,393923939
+2,Australia,11,AC Agar,Shadab Khan,NM Coulter-Nile,,0,0,0,,,,393923939
+2,Australia,11,AC Agar,Shadab Khan,NM Coulter-Nile,,0,1,1,,,,393923939
+2,Australia,11,NM Coulter-Nile,Shadab Khan,AC Agar,,0,1,1,,,,393923939
+2,Australia,11,AC Agar,Shadab Khan,NM Coulter-Nile,,0,1,1,,,,393923939
+2,Australia,12,AC Agar,Hasan Ali,NM Coulter-Nile,,0,0,0,,,,393923939
+2,Australia,12,AC Agar,Hasan Ali,NM Coulter-Nile,,0,4,4,,,,393923939
+2,Australia,12,AC Agar,Hasan Ali,NM Coulter-Nile,,0,0,0,,,,393923939
+2,Australia,12,AC Agar,Hasan Ali,NM Coulter-Nile,,0,0,0,caught,AC Agar,Sarfraz Ahmed,393923939
+2,Australia,12,A Zampa,Hasan Ali,NM Coulter-Nile,,0,1,1,,,,393923939
+2,Australia,12,NM Coulter-Nile,Hasan Ali,A Zampa,,0,0,0,,,,393923939
+2,Australia,13,A Zampa,Shadab Khan,NM Coulter-Nile,,0,1,1,,,,393923939
+2,Australia,13,NM Coulter-Nile,Shadab Khan,A Zampa,legbyes,1,1,0,,,,393923939
+2,Australia,13,A Zampa,Shadab Khan,NM Coulter-Nile,,0,0,0,,,,393923939
+2,Australia,13,A Zampa,Shadab Khan,NM Coulter-Nile,,0,1,1,,,,393923939
+2,Australia,13,NM Coulter-Nile,Shadab Khan,A Zampa,,0,4,4,,,,393923939
+2,Australia,13,NM Coulter-Nile,Shadab Khan,A Zampa,,0,4,4,,,,393923939
+2,Australia,14,A Zampa,Shaheen Shah Afridi,NM Coulter-Nile,,0,0,0,,,,393923939
+2,Australia,14,A Zampa,Shaheen Shah Afridi,NM Coulter-Nile,,0,0,0,,,,393923939
+2,Australia,14,A Zampa,Shaheen Shah Afridi,NM Coulter-Nile,,0,0,0,caught,A Zampa,Hasan Ali,393923939
+2,Australia,14,AJ Tye,Shaheen Shah Afridi,NM Coulter-Nile,,0,2,2,,,,393923939
+2,Australia,14,AJ Tye,Shaheen Shah Afridi,NM Coulter-Nile,,0,4,4,,,,393923939
+2,Australia,14,AJ Tye,Shaheen Shah Afridi,NM Coulter-Nile,,0,0,0,bowled,AJ Tye,,393923939
+2,Australia,15,NM Coulter-Nile,Hasan Ali,B Stanlake,,0,4,4,,,,393923939
+2,Australia,15,NM Coulter-Nile,Hasan Ali,B Stanlake,,0,1,1,,,,393923939
+2,Australia,15,B Stanlake,Hasan Ali,NM Coulter-Nile,,0,0,0,,,,393923939
+2,Australia,15,B Stanlake,Hasan Ali,NM Coulter-Nile,,0,0,0,,,,393923939
+2,Australia,15,B Stanlake,Hasan Ali,NM Coulter-Nile,,0,1,1,,,,393923939
+2,Australia,15,NM Coulter-Nile,Hasan Ali,B Stanlake,,0,4,4,,,,393923939
+2,Australia,16,B Stanlake,Shadab Khan,NM Coulter-Nile,,0,0,0,,,,393923939
+2,Australia,16,B Stanlake,Shadab Khan,NM Coulter-Nile,,0,0,0,,,,393923939
+2,Australia,16,B Stanlake,Shadab Khan,NM Coulter-Nile,,0,0,0,,,,393923939
+2,Australia,16,B Stanlake,Shadab Khan,NM Coulter-Nile,,0,1,1,,,,393923939
+2,Australia,16,NM Coulter-Nile,Shadab Khan,B Stanlake,,0,0,0,bowled,NM Coulter-Nile,,393923939

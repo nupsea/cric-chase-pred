@@ -1,0 +1,88 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Nigeria,0,S Mba,S Thakor,A Shreshta,,0,4,4,,,,31872231872
+2,Nigeria,0,S Mba,S Thakor,A Shreshta,wides,2,2,0,,,,31872231872
+2,Nigeria,0,A Shreshta,S Thakor,S Mba,,0,0,0,,,,31872231872
+2,Nigeria,0,A Shreshta,S Thakor,S Mba,,0,0,0,,,,31872231872
+2,Nigeria,0,A Shreshta,S Thakor,S Mba,,0,4,4,,,,31872231872
+2,Nigeria,0,A Shreshta,S Thakor,S Mba,,0,0,0,,,,31872231872
+2,Nigeria,0,A Shreshta,S Thakor,S Mba,,0,0,0,,,,31872231872
+2,Nigeria,1,S Mba,K Nassoro,A Shreshta,,0,0,0,,,,31872231872
+2,Nigeria,1,S Mba,K Nassoro,A Shreshta,,0,0,0,,,,31872231872
+2,Nigeria,1,S Mba,K Nassoro,A Shreshta,,0,4,4,,,,31872231872
+2,Nigeria,1,S Mba,K Nassoro,A Shreshta,,0,0,0,,,,31872231872
+2,Nigeria,1,S Mba,K Nassoro,A Shreshta,,0,4,4,,,,31872231872
+2,Nigeria,1,S Mba,K Nassoro,A Shreshta,,0,0,0,,,,31872231872
+2,Nigeria,2,A Shreshta,S Thakor,S Mba,,0,0,0,caught,A Shreshta,ZR Jaboneke,31872231872
+2,Nigeria,2,AJ Ayannaike,S Thakor,S Mba,,0,0,0,stumped,AJ Ayannaike,MO Kitunda,31872231872
+2,Nigeria,2,JO Adedeji,S Thakor,S Mba,,0,1,1,,,,31872231872
+2,Nigeria,2,S Mba,S Thakor,JO Adedeji,,0,0,0,,,,31872231872
+2,Nigeria,2,S Mba,S Thakor,JO Adedeji,,0,4,4,,,,31872231872
+2,Nigeria,2,S Mba,S Thakor,JO Adedeji,,0,0,0,,,,31872231872
+2,Nigeria,3,JO Adedeji,K Nassoro,S Mba,,0,1,1,,,,31872231872
+2,Nigeria,3,S Mba,K Nassoro,JO Adedeji,,0,1,1,,,,31872231872
+2,Nigeria,3,JO Adedeji,K Nassoro,S Mba,,0,0,0,,,,31872231872
+2,Nigeria,3,JO Adedeji,K Nassoro,S Mba,,0,1,1,,,,31872231872
+2,Nigeria,3,S Mba,K Nassoro,JO Adedeji,,0,0,0,,,,31872231872
+2,Nigeria,3,S Mba,K Nassoro,JO Adedeji,,0,0,0,,,,31872231872
+2,Nigeria,4,JO Adedeji,S Thakor,S Mba,,0,2,2,,,,31872231872
+2,Nigeria,4,JO Adedeji,S Thakor,S Mba,,0,0,0,,,,31872231872
+2,Nigeria,4,JO Adedeji,S Thakor,S Mba,,0,4,4,,,,31872231872
+2,Nigeria,4,JO Adedeji,S Thakor,S Mba,wides,2,2,0,,,,31872231872
+2,Nigeria,4,S Mba,S Thakor,JO Adedeji,,0,0,0,,,,31872231872
+2,Nigeria,4,S Mba,S Thakor,JO Adedeji,,0,0,0,,,,31872231872
+2,Nigeria,4,S Mba,S Thakor,JO Adedeji,,0,0,0,,,,31872231872
+2,Nigeria,5,JO Adedeji,AM Kimote,S Mba,,0,0,0,,,,31872231872
+2,Nigeria,5,JO Adedeji,AM Kimote,S Mba,,0,1,1,,,,31872231872
+2,Nigeria,5,S Mba,AM Kimote,JO Adedeji,,0,2,2,,,,31872231872
+2,Nigeria,5,S Mba,AM Kimote,JO Adedeji,,0,4,4,,,,31872231872
+2,Nigeria,5,S Mba,AM Kimote,JO Adedeji,,0,0,0,,,,31872231872
+2,Nigeria,5,S Mba,AM Kimote,JO Adedeji,,0,0,0,,,,31872231872
+2,Nigeria,6,JO Adedeji,JC Darji,S Mba,,0,0,0,,,,31872231872
+2,Nigeria,6,JO Adedeji,JC Darji,S Mba,,0,1,1,,,,31872231872
+2,Nigeria,6,S Mba,JC Darji,JO Adedeji,,0,0,0,,,,31872231872
+2,Nigeria,6,S Mba,JC Darji,JO Adedeji,,0,0,0,bowled,S Mba,,31872231872
+2,Nigeria,6,D Gim,JC Darji,JO Adedeji,,0,0,0,,,,31872231872
+2,Nigeria,6,D Gim,JC Darji,JO Adedeji,,0,0,0,,,,31872231872
+2,Nigeria,7,JO Adedeji,AM Kimote,D Gim,,0,1,1,,,,31872231872
+2,Nigeria,7,D Gim,AM Kimote,JO Adedeji,,0,1,1,,,,31872231872
+2,Nigeria,7,JO Adedeji,AM Kimote,D Gim,,0,0,0,,,,31872231872
+2,Nigeria,7,JO Adedeji,AM Kimote,D Gim,,0,0,0,caught,JO Adedeji,ZR Jaboneke,31872231872
+2,Nigeria,7,D Gim,AM Kimote,IO Okpe,,0,1,1,,,,31872231872
+2,Nigeria,7,IO Okpe,AM Kimote,D Gim,,0,1,1,,,,31872231872
+2,Nigeria,8,IO Okpe,JC Darji,D Gim,,0,0,0,,,,31872231872
+2,Nigeria,8,IO Okpe,JC Darji,D Gim,,0,0,0,,,,31872231872
+2,Nigeria,8,IO Okpe,JC Darji,D Gim,,0,0,0,,,,31872231872
+2,Nigeria,8,IO Okpe,JC Darji,D Gim,,0,1,1,,,,31872231872
+2,Nigeria,8,D Gim,JC Darji,IO Okpe,,0,0,0,caught,D Gim,MO Kitunda,31872231872
+2,Nigeria,8,R Abdulkareem,JC Darji,IO Okpe,,0,1,1,,,,31872231872
+2,Nigeria,9,R Abdulkareem,AM Kimote,IO Okpe,,0,1,1,,,,31872231872
+2,Nigeria,9,IO Okpe,AM Kimote,R Abdulkareem,,0,1,1,,,,31872231872
+2,Nigeria,9,R Abdulkareem,AM Kimote,IO Okpe,,0,0,0,,,,31872231872
+2,Nigeria,9,R Abdulkareem,AM Kimote,IO Okpe,,0,0,0,,,,31872231872
+2,Nigeria,9,R Abdulkareem,AM Kimote,IO Okpe,,0,0,0,,,,31872231872
+2,Nigeria,9,R Abdulkareem,AM Kimote,IO Okpe,byes,1,1,0,,,,31872231872
+2,Nigeria,10,R Abdulkareem,JC Darji,IO Okpe,,0,0,0,,,,31872231872
+2,Nigeria,10,R Abdulkareem,JC Darji,IO Okpe,,0,1,1,,,,31872231872
+2,Nigeria,10,IO Okpe,JC Darji,R Abdulkareem,,0,0,0,,,,31872231872
+2,Nigeria,10,IO Okpe,JC Darji,R Abdulkareem,,0,0,0,bowled,IO Okpe,,31872231872
+2,Nigeria,10,P Aho,JC Darji,R Abdulkareem,,0,1,1,,,,31872231872
+2,Nigeria,10,R Abdulkareem,JC Darji,P Aho,,0,0,0,,,,31872231872
+2,Nigeria,11,P Aho,S Thakor,R Abdulkareem,,0,1,1,,,,31872231872
+2,Nigeria,11,R Abdulkareem,S Thakor,P Aho,,0,4,4,,,,31872231872
+2,Nigeria,11,R Abdulkareem,S Thakor,P Aho,,0,0,0,,,,31872231872
+2,Nigeria,11,R Abdulkareem,S Thakor,P Aho,,0,0,0,stumped,R Abdulkareem,MO Kitunda,31872231872
+2,Nigeria,11,Mohameed Taiwo,S Thakor,P Aho,,0,1,1,,,,31872231872
+2,Nigeria,11,P Aho,S Thakor,Mohameed Taiwo,,0,1,1,,,,31872231872
+2,Nigeria,12,P Aho,JC Darji,Mohameed Taiwo,,0,4,4,,,,31872231872
+2,Nigeria,12,P Aho,JC Darji,Mohameed Taiwo,,0,0,0,bowled,P Aho,,31872231872
+2,Nigeria,12,CM Akachukwu,JC Darji,Mohameed Taiwo,,0,0,0,,,,31872231872
+2,Nigeria,12,CM Akachukwu,JC Darji,Mohameed Taiwo,,0,0,0,,,,31872231872
+2,Nigeria,12,CM Akachukwu,JC Darji,Mohameed Taiwo,wides,1,1,0,,,,31872231872
+2,Nigeria,12,CM Akachukwu,JC Darji,Mohameed Taiwo,,0,0,0,,,,31872231872
+2,Nigeria,12,CM Akachukwu,JC Darji,Mohameed Taiwo,,0,0,0,run out,CM Akachukwu,MO Kitunda,31872231872
+2,Nigeria,13,Mohameed Taiwo,K Nassoro,P Useni,,0,1,1,,,,31872231872
+2,Nigeria,13,P Useni,K Nassoro,Mohameed Taiwo,,0,0,0,,,,31872231872
+2,Nigeria,13,P Useni,K Nassoro,Mohameed Taiwo,,0,1,1,,,,31872231872
+2,Nigeria,13,Mohameed Taiwo,K Nassoro,P Useni,,0,0,0,,,,31872231872
+2,Nigeria,13,Mohameed Taiwo,K Nassoro,P Useni,,0,0,0,,,,31872231872
+2,Nigeria,13,Mohameed Taiwo,K Nassoro,P Useni,,0,0,0,run out,Mohameed Taiwo,Jitin Singh,31872231872

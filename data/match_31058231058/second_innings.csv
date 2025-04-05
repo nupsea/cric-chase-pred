@@ -1,0 +1,50 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Namibia,0,A van der Merwe,G Matome,KA Green,,0,0,0,caught,A van der Merwe,L Mophakedi,31058231058
+2,Namibia,0,I van Zyl,G Matome,KA Green,,0,0,0,,,,31058231058
+2,Namibia,0,I van Zyl,G Matome,KA Green,,0,1,1,,,,31058231058
+2,Namibia,0,KA Green,G Matome,I van Zyl,wides,1,1,0,,,,31058231058
+2,Namibia,0,KA Green,G Matome,I van Zyl,byes,1,1,0,,,,31058231058
+2,Namibia,0,I van Zyl,G Matome,KA Green,,0,1,1,,,,31058231058
+2,Namibia,0,KA Green,G Matome,I van Zyl,noballs,1,1,0,,,,31058231058
+2,Namibia,0,KA Green,G Matome,I van Zyl,,0,2,2,,,,31058231058
+2,Namibia,1,I van Zyl,T Legaabile,KA Green,,0,0,0,,,,31058231058
+2,Namibia,1,I van Zyl,T Legaabile,KA Green,wides,1,1,0,,,,31058231058
+2,Namibia,1,I van Zyl,T Legaabile,KA Green,wides,1,1,0,,,,31058231058
+2,Namibia,1,I van Zyl,T Legaabile,KA Green,wides,1,1,0,,,,31058231058
+2,Namibia,1,I van Zyl,T Legaabile,KA Green,,0,2,2,,,,31058231058
+2,Namibia,1,I van Zyl,T Legaabile,KA Green,,0,0,0,bowled,I van Zyl,,31058231058
+2,Namibia,1,SA Wittmann,T Legaabile,KA Green,,0,2,2,,,,31058231058
+2,Namibia,1,SA Wittmann,T Legaabile,KA Green,,0,1,1,,,,31058231058
+2,Namibia,1,KA Green,T Legaabile,SA Wittmann,,0,0,0,,,,31058231058
+2,Namibia,2,SA Wittmann,G Matome,KA Green,wides,1,1,0,,,,31058231058
+2,Namibia,2,SA Wittmann,G Matome,KA Green,,0,0,0,,,,31058231058
+2,Namibia,2,SA Wittmann,G Matome,KA Green,wides,1,1,0,,,,31058231058
+2,Namibia,2,SA Wittmann,G Matome,KA Green,,0,1,1,,,,31058231058
+2,Namibia,2,KA Green,G Matome,SA Wittmann,,0,1,1,,,,31058231058
+2,Namibia,2,SA Wittmann,G Matome,KA Green,,0,2,2,,,,31058231058
+2,Namibia,2,SA Wittmann,G Matome,KA Green,,0,0,0,,,,31058231058
+2,Namibia,2,SA Wittmann,G Matome,KA Green,,0,0,0,,,,31058231058
+2,Namibia,3,KA Green,B Gaanamong,SA Wittmann,wides,1,1,0,,,,31058231058
+2,Namibia,3,KA Green,B Gaanamong,SA Wittmann,,0,0,0,,,,31058231058
+2,Namibia,3,KA Green,B Gaanamong,SA Wittmann,,0,1,1,,,,31058231058
+2,Namibia,3,SA Wittmann,B Gaanamong,KA Green,,0,0,0,,,,31058231058
+2,Namibia,3,SA Wittmann,B Gaanamong,KA Green,,0,4,4,,,,31058231058
+2,Namibia,3,SA Wittmann,B Gaanamong,KA Green,,0,0,0,stumped,SA Wittmann,L Mophakedi,31058231058
+2,Namibia,3,Yasmeen Khan,B Gaanamong,KA Green,,0,2,2,,,,31058231058
+2,Namibia,4,KA Green,B Mpedi,Yasmeen Khan,,0,2,2,,,,31058231058
+2,Namibia,4,KA Green,B Mpedi,Yasmeen Khan,,0,2,2,,,,31058231058
+2,Namibia,4,KA Green,B Mpedi,Yasmeen Khan,,0,1,1,,,,31058231058
+2,Namibia,4,Yasmeen Khan,B Mpedi,KA Green,,0,4,4,,,,31058231058
+2,Namibia,4,Yasmeen Khan,B Mpedi,KA Green,,0,0,0,,,,31058231058
+2,Namibia,4,Yasmeen Khan,B Mpedi,KA Green,,0,0,0,,,,31058231058
+2,Namibia,5,KA Green,A Mokgotlhe,Yasmeen Khan,noballs,1,1,0,,,,31058231058
+2,Namibia,5,KA Green,A Mokgotlhe,Yasmeen Khan,,0,0,0,,,,31058231058
+2,Namibia,5,KA Green,A Mokgotlhe,Yasmeen Khan,wides,1,1,0,,,,31058231058
+2,Namibia,5,KA Green,A Mokgotlhe,Yasmeen Khan,,0,2,2,,,,31058231058
+2,Namibia,5,KA Green,A Mokgotlhe,Yasmeen Khan,,0,2,2,,,,31058231058
+2,Namibia,5,KA Green,A Mokgotlhe,Yasmeen Khan,,0,1,1,,,,31058231058
+2,Namibia,5,Yasmeen Khan,A Mokgotlhe,KA Green,,0,0,0,,,,31058231058
+2,Namibia,5,Yasmeen Khan,A Mokgotlhe,KA Green,,0,2,2,,,,31058231058
+2,Namibia,6,KA Green,G Matome,Yasmeen Khan,,0,2,2,,,,31058231058
+2,Namibia,6,KA Green,G Matome,Yasmeen Khan,,0,0,0,,,,31058231058
+2,Namibia,6,KA Green,G Matome,Yasmeen Khan,,0,2,2,,,,31058231058

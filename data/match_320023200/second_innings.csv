@@ -1,0 +1,100 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Zimbabwe,0,V Sibanda,Sohail Tanvir,CJ Chibhabha,wides,1,1,0,,,,320023200
+2,Zimbabwe,0,V Sibanda,Sohail Tanvir,CJ Chibhabha,,0,4,4,,,,320023200
+2,Zimbabwe,0,V Sibanda,Sohail Tanvir,CJ Chibhabha,,0,1,1,,,,320023200
+2,Zimbabwe,0,CJ Chibhabha,Sohail Tanvir,V Sibanda,wides,1,1,0,,,,320023200
+2,Zimbabwe,0,CJ Chibhabha,Sohail Tanvir,V Sibanda,wides,1,1,0,,,,320023200
+2,Zimbabwe,0,CJ Chibhabha,Sohail Tanvir,V Sibanda,,0,0,0,,,,320023200
+2,Zimbabwe,0,CJ Chibhabha,Sohail Tanvir,V Sibanda,,0,0,0,,,,320023200
+2,Zimbabwe,0,CJ Chibhabha,Sohail Tanvir,V Sibanda,,0,1,1,,,,320023200
+2,Zimbabwe,0,V Sibanda,Sohail Tanvir,CJ Chibhabha,,0,1,1,,,,320023200
+2,Zimbabwe,1,V Sibanda,Sohail Khan,CJ Chibhabha,,0,0,0,,,,320023200
+2,Zimbabwe,1,V Sibanda,Sohail Khan,CJ Chibhabha,,0,1,1,,,,320023200
+2,Zimbabwe,1,CJ Chibhabha,Sohail Khan,V Sibanda,,0,1,1,,,,320023200
+2,Zimbabwe,1,V Sibanda,Sohail Khan,CJ Chibhabha,,0,0,0,caught,V Sibanda,Misbah-ul-Haq,320023200
+2,Zimbabwe,1,CJ Chibhabha,Sohail Khan,C Zhuwao,,0,1,1,,,,320023200
+2,Zimbabwe,1,C Zhuwao,Sohail Khan,CJ Chibhabha,,0,0,0,caught,C Zhuwao,Umar Akmal,320023200
+2,Zimbabwe,2,CJ Chibhabha,Sohail Tanvir,BRM Taylor,,0,0,0,,,,320023200
+2,Zimbabwe,2,CJ Chibhabha,Sohail Tanvir,BRM Taylor,,0,0,0,,,,320023200
+2,Zimbabwe,2,CJ Chibhabha,Sohail Tanvir,BRM Taylor,,0,2,2,,,,320023200
+2,Zimbabwe,2,CJ Chibhabha,Sohail Tanvir,BRM Taylor,,0,2,2,,,,320023200
+2,Zimbabwe,2,CJ Chibhabha,Sohail Tanvir,BRM Taylor,,0,1,1,,,,320023200
+2,Zimbabwe,2,BRM Taylor,Sohail Tanvir,CJ Chibhabha,,0,1,1,,,,320023200
+2,Zimbabwe,3,BRM Taylor,Sohail Khan,CJ Chibhabha,,0,1,1,,,,320023200
+2,Zimbabwe,3,CJ Chibhabha,Sohail Khan,BRM Taylor,wides,1,1,0,,,,320023200
+2,Zimbabwe,3,CJ Chibhabha,Sohail Khan,BRM Taylor,,0,1,1,,,,320023200
+2,Zimbabwe,3,BRM Taylor,Sohail Khan,CJ Chibhabha,,0,0,0,,,,320023200
+2,Zimbabwe,3,BRM Taylor,Sohail Khan,CJ Chibhabha,,0,6,6,,,,320023200
+2,Zimbabwe,3,BRM Taylor,Sohail Khan,CJ Chibhabha,,0,1,1,,,,320023200
+2,Zimbabwe,3,CJ Chibhabha,Sohail Khan,BRM Taylor,legbyes,1,1,0,,,,320023200
+2,Zimbabwe,4,CJ Chibhabha,Sohail Tanvir,BRM Taylor,,0,1,1,,,,320023200
+2,Zimbabwe,4,BRM Taylor,Sohail Tanvir,CJ Chibhabha,,0,1,1,,,,320023200
+2,Zimbabwe,4,CJ Chibhabha,Sohail Tanvir,BRM Taylor,,0,4,4,,,,320023200
+2,Zimbabwe,4,CJ Chibhabha,Sohail Tanvir,BRM Taylor,,0,1,1,,,,320023200
+2,Zimbabwe,4,BRM Taylor,Sohail Tanvir,CJ Chibhabha,,0,0,0,caught,BRM Taylor,Yasir Shah,320023200
+2,Zimbabwe,4,CJ Chibhabha,Sohail Tanvir,H Masakadza,,0,1,1,,,,320023200
+2,Zimbabwe,5,CJ Chibhabha,Aizaz Cheema,H Masakadza,,0,4,4,,,,320023200
+2,Zimbabwe,5,CJ Chibhabha,Aizaz Cheema,H Masakadza,,0,1,1,,,,320023200
+2,Zimbabwe,5,H Masakadza,Aizaz Cheema,CJ Chibhabha,,0,1,1,,,,320023200
+2,Zimbabwe,5,CJ Chibhabha,Aizaz Cheema,H Masakadza,,0,1,1,,,,320023200
+2,Zimbabwe,5,H Masakadza,Aizaz Cheema,CJ Chibhabha,,0,1,1,,,,320023200
+2,Zimbabwe,5,CJ Chibhabha,Aizaz Cheema,H Masakadza,,0,0,0,,,,320023200
+2,Zimbabwe,6,H Masakadza,Yasir Shah,CJ Chibhabha,,0,1,1,,,,320023200
+2,Zimbabwe,6,CJ Chibhabha,Yasir Shah,H Masakadza,,0,1,1,,,,320023200
+2,Zimbabwe,6,H Masakadza,Yasir Shah,CJ Chibhabha,,0,0,0,,,,320023200
+2,Zimbabwe,6,H Masakadza,Yasir Shah,CJ Chibhabha,,0,4,4,,,,320023200
+2,Zimbabwe,6,H Masakadza,Yasir Shah,CJ Chibhabha,,0,2,2,,,,320023200
+2,Zimbabwe,6,H Masakadza,Yasir Shah,CJ Chibhabha,,0,1,1,,,,320023200
+2,Zimbabwe,7,H Masakadza,Aizaz Cheema,CJ Chibhabha,,0,1,1,,,,320023200
+2,Zimbabwe,7,CJ Chibhabha,Aizaz Cheema,H Masakadza,,0,2,2,,,,320023200
+2,Zimbabwe,7,CJ Chibhabha,Aizaz Cheema,H Masakadza,wides,1,1,0,,,,320023200
+2,Zimbabwe,7,CJ Chibhabha,Aizaz Cheema,H Masakadza,,0,1,1,,,,320023200
+2,Zimbabwe,7,H Masakadza,Aizaz Cheema,CJ Chibhabha,wides,1,1,0,,,,320023200
+2,Zimbabwe,7,H Masakadza,Aizaz Cheema,CJ Chibhabha,,0,1,1,,,,320023200
+2,Zimbabwe,7,CJ Chibhabha,Aizaz Cheema,H Masakadza,,0,1,1,,,,320023200
+2,Zimbabwe,7,H Masakadza,Aizaz Cheema,CJ Chibhabha,,0,0,0,,,,320023200
+2,Zimbabwe,8,CJ Chibhabha,Mohammad Hafeez,H Masakadza,,0,1,1,,,,320023200
+2,Zimbabwe,8,H Masakadza,Mohammad Hafeez,CJ Chibhabha,,0,0,0,,,,320023200
+2,Zimbabwe,8,H Masakadza,Mohammad Hafeez,CJ Chibhabha,,0,0,0,,,,320023200
+2,Zimbabwe,8,H Masakadza,Mohammad Hafeez,CJ Chibhabha,,0,0,0,caught,H Masakadza,Yasir Shah,320023200
+2,Zimbabwe,8,CJ Chibhabha,Mohammad Hafeez,E Chigumbura,,0,0,0,lbw,CJ Chibhabha,,320023200
+2,Zimbabwe,8,CK Coventry,Mohammad Hafeez,E Chigumbura,,0,1,1,,,,320023200
+2,Zimbabwe,9,CK Coventry,Yasir Shah,E Chigumbura,,0,1,1,,,,320023200
+2,Zimbabwe,9,E Chigumbura,Yasir Shah,CK Coventry,,0,1,1,,,,320023200
+2,Zimbabwe,9,CK Coventry,Yasir Shah,E Chigumbura,,0,2,2,,,,320023200
+2,Zimbabwe,9,CK Coventry,Yasir Shah,E Chigumbura,,0,2,2,,,,320023200
+2,Zimbabwe,9,CK Coventry,Yasir Shah,E Chigumbura,,0,4,4,,,,320023200
+2,Zimbabwe,9,CK Coventry,Yasir Shah,E Chigumbura,legbyes,1,1,0,,,,320023200
+2,Zimbabwe,10,CK Coventry,Mohammad Hafeez,E Chigumbura,,0,1,1,,,,320023200
+2,Zimbabwe,10,E Chigumbura,Mohammad Hafeez,CK Coventry,,0,0,0,,,,320023200
+2,Zimbabwe,10,E Chigumbura,Mohammad Hafeez,CK Coventry,,0,0,0,caught,E Chigumbura,Sohail Tanvir,320023200
+2,Zimbabwe,10,T Taibu,Mohammad Hafeez,CK Coventry,,0,0,0,,,,320023200
+2,Zimbabwe,10,T Taibu,Mohammad Hafeez,CK Coventry,,0,1,1,,,,320023200
+2,Zimbabwe,10,CK Coventry,Mohammad Hafeez,T Taibu,,0,6,6,,,,320023200
+2,Zimbabwe,11,T Taibu,Yasir Shah,CK Coventry,,0,2,2,,,,320023200
+2,Zimbabwe,11,T Taibu,Yasir Shah,CK Coventry,legbyes,1,1,0,,,,320023200
+2,Zimbabwe,11,CK Coventry,Yasir Shah,T Taibu,,0,4,4,,,,320023200
+2,Zimbabwe,11,CK Coventry,Yasir Shah,T Taibu,,0,1,1,,,,320023200
+2,Zimbabwe,11,T Taibu,Yasir Shah,CK Coventry,,0,1,1,,,,320023200
+2,Zimbabwe,11,CK Coventry,Yasir Shah,T Taibu,,0,4,4,,,,320023200
+2,Zimbabwe,12,T Taibu,Saeed Ajmal,CK Coventry,,0,1,1,,,,320023200
+2,Zimbabwe,12,CK Coventry,Saeed Ajmal,T Taibu,,0,4,4,,,,320023200
+2,Zimbabwe,12,CK Coventry,Saeed Ajmal,T Taibu,,0,0,0,caught,CK Coventry,Umar Akmal,320023200
+2,Zimbabwe,12,T Taibu,Saeed Ajmal,RW Price,,0,1,1,,,,320023200
+2,Zimbabwe,12,RW Price,Saeed Ajmal,T Taibu,,0,0,0,,,,320023200
+2,Zimbabwe,12,RW Price,Saeed Ajmal,T Taibu,,0,1,1,,,,320023200
+2,Zimbabwe,13,RW Price,Aizaz Cheema,T Taibu,,0,0,0,run out,T Taibu,Mohammad Hafeez,320023200
+2,Zimbabwe,13,KM Jarvis,Aizaz Cheema,RW Price,,0,0,0,,,,320023200
+2,Zimbabwe,13,KM Jarvis,Aizaz Cheema,RW Price,,0,0,0,caught,KM Jarvis,Yasir Shah,320023200
+2,Zimbabwe,13,RW Price,Aizaz Cheema,CB Mpofu,wides,2,2,0,,,,320023200
+2,Zimbabwe,13,CB Mpofu,Aizaz Cheema,RW Price,,0,1,1,,,,320023200
+2,Zimbabwe,13,RW Price,Aizaz Cheema,CB Mpofu,,0,1,1,,,,320023200
+2,Zimbabwe,13,CB Mpofu,Aizaz Cheema,RW Price,,0,1,1,,,,320023200
+2,Zimbabwe,14,CB Mpofu,Saeed Ajmal,RW Price,,0,1,1,,,,320023200
+2,Zimbabwe,14,RW Price,Saeed Ajmal,CB Mpofu,,0,0,0,,,,320023200
+2,Zimbabwe,14,RW Price,Saeed Ajmal,CB Mpofu,,0,0,0,,,,320023200
+2,Zimbabwe,14,RW Price,Saeed Ajmal,CB Mpofu,legbyes,1,1,0,,,,320023200
+2,Zimbabwe,14,CB Mpofu,Saeed Ajmal,RW Price,,0,1,1,,,,320023200
+2,Zimbabwe,14,RW Price,Saeed Ajmal,CB Mpofu,,0,1,1,,,,320023200
+2,Zimbabwe,15,RW Price,Mohammad Hafeez,CB Mpofu,,0,0,0,,,,320023200
+2,Zimbabwe,15,RW Price,Mohammad Hafeez,CB Mpofu,,0,0,0,bowled,RW Price,,320023200

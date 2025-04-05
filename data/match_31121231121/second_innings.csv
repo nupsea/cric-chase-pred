@@ -1,0 +1,71 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Germany,0,CAJ Meschede,Junaid Sheikh,Amir Mangal,,0,0,0,,,,31121231121
+2,Germany,0,CAJ Meschede,Junaid Sheikh,Amir Mangal,,0,0,0,,,,31121231121
+2,Germany,0,CAJ Meschede,Junaid Sheikh,Amir Mangal,byes,1,1,0,,,,31121231121
+2,Germany,0,Amir Mangal,Junaid Sheikh,CAJ Meschede,,0,0,0,,,,31121231121
+2,Germany,0,Amir Mangal,Junaid Sheikh,CAJ Meschede,,0,4,4,,,,31121231121
+2,Germany,0,Amir Mangal,Junaid Sheikh,CAJ Meschede,,0,0,0,bowled,Amir Mangal,,31121231121
+2,Germany,1,CAJ Meschede,Hayatullah Niazi,Abdul-Shakoor Rahimzei,wides,1,1,0,,,,31121231121
+2,Germany,1,CAJ Meschede,Hayatullah Niazi,Abdul-Shakoor Rahimzei,,0,0,0,,,,31121231121
+2,Germany,1,CAJ Meschede,Hayatullah Niazi,Abdul-Shakoor Rahimzei,,0,1,1,,,,31121231121
+2,Germany,1,Abdul-Shakoor Rahimzei,Hayatullah Niazi,CAJ Meschede,wides,1,1,0,,,,31121231121
+2,Germany,1,Abdul-Shakoor Rahimzei,Hayatullah Niazi,CAJ Meschede,,0,1,1,,,,31121231121
+2,Germany,1,CAJ Meschede,Hayatullah Niazi,Abdul-Shakoor Rahimzei,noballs,1,1,0,,,,31121231121
+2,Germany,1,CAJ Meschede,Hayatullah Niazi,Abdul-Shakoor Rahimzei,,0,4,4,,,,31121231121
+2,Germany,1,CAJ Meschede,Hayatullah Niazi,Abdul-Shakoor Rahimzei,,0,2,2,,,,31121231121
+2,Germany,1,CAJ Meschede,Hayatullah Niazi,Abdul-Shakoor Rahimzei,legbyes,1,1,0,,,,31121231121
+2,Germany,2,CAJ Meschede,Junaid Sheikh,Abdul-Shakoor Rahimzei,,0,2,2,,,,31121231121
+2,Germany,2,CAJ Meschede,Junaid Sheikh,Abdul-Shakoor Rahimzei,,0,1,1,,,,31121231121
+2,Germany,2,Abdul-Shakoor Rahimzei,Junaid Sheikh,CAJ Meschede,,0,1,1,,,,31121231121
+2,Germany,2,CAJ Meschede,Junaid Sheikh,Abdul-Shakoor Rahimzei,,0,4,4,,,,31121231121
+2,Germany,2,CAJ Meschede,Junaid Sheikh,Abdul-Shakoor Rahimzei,,0,4,4,,,,31121231121
+2,Germany,2,CAJ Meschede,Junaid Sheikh,Abdul-Shakoor Rahimzei,,0,4,4,,,,31121231121
+2,Germany,3,Abdul-Shakoor Rahimzei,S Waqas Ahmed,CAJ Meschede,,0,3,3,,,,31121231121
+2,Germany,3,CAJ Meschede,S Waqas Ahmed,Abdul-Shakoor Rahimzei,legbyes,2,2,0,,,,31121231121
+2,Germany,3,CAJ Meschede,S Waqas Ahmed,Abdul-Shakoor Rahimzei,,0,0,0,,,,31121231121
+2,Germany,3,CAJ Meschede,S Waqas Ahmed,Abdul-Shakoor Rahimzei,,0,2,2,,,,31121231121
+2,Germany,3,CAJ Meschede,S Waqas Ahmed,Abdul-Shakoor Rahimzei,,0,4,4,,,,31121231121
+2,Germany,3,CAJ Meschede,S Waqas Ahmed,Abdul-Shakoor Rahimzei,,0,0,0,caught,CAJ Meschede,Junaid Sheikh,31121231121
+2,Germany,4,Abdul-Shakoor Rahimzei,Nazakat Ali,MJ Richardson,,0,0,0,,,,31121231121
+2,Germany,4,Abdul-Shakoor Rahimzei,Nazakat Ali,MJ Richardson,,0,4,4,,,,31121231121
+2,Germany,4,Abdul-Shakoor Rahimzei,Nazakat Ali,MJ Richardson,,0,1,1,,,,31121231121
+2,Germany,4,MJ Richardson,Nazakat Ali,Abdul-Shakoor Rahimzei,,0,1,1,,,,31121231121
+2,Germany,4,Abdul-Shakoor Rahimzei,Nazakat Ali,MJ Richardson,,0,4,4,,,,31121231121
+2,Germany,4,Abdul-Shakoor Rahimzei,Nazakat Ali,MJ Richardson,,0,0,0,,,,31121231121
+2,Germany,5,MJ Richardson,S Waqas Ahmed,Abdul-Shakoor Rahimzei,,0,4,4,,,,31121231121
+2,Germany,5,MJ Richardson,S Waqas Ahmed,Abdul-Shakoor Rahimzei,,0,1,1,,,,31121231121
+2,Germany,5,Abdul-Shakoor Rahimzei,S Waqas Ahmed,MJ Richardson,,0,2,2,,,,31121231121
+2,Germany,5,Abdul-Shakoor Rahimzei,S Waqas Ahmed,MJ Richardson,,0,1,1,,,,31121231121
+2,Germany,5,MJ Richardson,S Waqas Ahmed,Abdul-Shakoor Rahimzei,,0,4,4,,,,31121231121
+2,Germany,5,MJ Richardson,S Waqas Ahmed,Abdul-Shakoor Rahimzei,,0,1,1,,,,31121231121
+2,Germany,6,MJ Richardson,P Bhart,Abdul-Shakoor Rahimzei,,0,2,2,,,,31121231121
+2,Germany,6,MJ Richardson,P Bhart,Abdul-Shakoor Rahimzei,,0,0,0,,,,31121231121
+2,Germany,6,MJ Richardson,P Bhart,Abdul-Shakoor Rahimzei,,0,0,0,,,,31121231121
+2,Germany,6,MJ Richardson,P Bhart,Abdul-Shakoor Rahimzei,,0,0,0,,,,31121231121
+2,Germany,6,MJ Richardson,P Bhart,Abdul-Shakoor Rahimzei,,0,0,0,run out,Abdul-Shakoor Rahimzei,,31121231121
+2,Germany,6,H Singh,P Bhart,MJ Richardson,,0,0,0,,,,31121231121
+2,Germany,7,MJ Richardson,Tafseer Ali,H Singh,,0,1,1,,,,31121231121
+2,Germany,7,H Singh,Tafseer Ali,MJ Richardson,,0,1,1,,,,31121231121
+2,Germany,7,MJ Richardson,Tafseer Ali,H Singh,,0,2,2,,,,31121231121
+2,Germany,7,MJ Richardson,Tafseer Ali,H Singh,,0,4,4,,,,31121231121
+2,Germany,7,MJ Richardson,Tafseer Ali,H Singh,,0,0,0,,,,31121231121
+2,Germany,7,MJ Richardson,Tafseer Ali,H Singh,,0,2,2,,,,31121231121
+2,Germany,8,H Singh,P Bhart,MJ Richardson,,0,1,1,,,,31121231121
+2,Germany,8,MJ Richardson,P Bhart,H Singh,,0,0,0,,,,31121231121
+2,Germany,8,MJ Richardson,P Bhart,H Singh,,0,1,1,,,,31121231121
+2,Germany,8,H Singh,P Bhart,MJ Richardson,,0,1,1,,,,31121231121
+2,Germany,8,MJ Richardson,P Bhart,H Singh,,0,1,1,,,,31121231121
+2,Germany,8,H Singh,P Bhart,MJ Richardson,,0,2,2,,,,31121231121
+2,Germany,9,MJ Richardson,Junaid Sheikh,H Singh,,0,1,1,,,,31121231121
+2,Germany,9,H Singh,Junaid Sheikh,MJ Richardson,,0,0,0,,,,31121231121
+2,Germany,9,H Singh,Junaid Sheikh,MJ Richardson,,0,2,2,,,,31121231121
+2,Germany,9,H Singh,Junaid Sheikh,MJ Richardson,,0,0,0,,,,31121231121
+2,Germany,9,H Singh,Junaid Sheikh,MJ Richardson,,0,1,1,,,,31121231121
+2,Germany,9,MJ Richardson,Junaid Sheikh,H Singh,,0,4,4,,,,31121231121
+2,Germany,10,H Singh,P Bhart,MJ Richardson,,0,1,1,,,,31121231121
+2,Germany,10,MJ Richardson,P Bhart,H Singh,,0,1,1,,,,31121231121
+2,Germany,10,H Singh,P Bhart,MJ Richardson,,0,1,1,,,,31121231121
+2,Germany,10,MJ Richardson,P Bhart,H Singh,,0,0,0,,,,31121231121
+2,Germany,10,MJ Richardson,P Bhart,H Singh,,0,0,0,,,,31121231121
+2,Germany,10,MJ Richardson,P Bhart,H Singh,,0,1,1,,,,31121231121
+2,Germany,11,MJ Richardson,E Ul Haq,H Singh,,0,4,4,,,,31121231121

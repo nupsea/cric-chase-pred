@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Scotland,0,HG Munsey,FJ Klaassen,KJ Coetzer,,0,4,4,,,,399423994
+1,Scotland,0,HG Munsey,FJ Klaassen,KJ Coetzer,,0,0,0,,,,399423994
+1,Scotland,0,HG Munsey,FJ Klaassen,KJ Coetzer,,0,0,0,,,,399423994
+1,Scotland,0,HG Munsey,FJ Klaassen,KJ Coetzer,,0,4,4,,,,399423994
+1,Scotland,0,HG Munsey,FJ Klaassen,KJ Coetzer,,0,4,4,,,,399423994
+1,Scotland,0,HG Munsey,FJ Klaassen,KJ Coetzer,,0,4,4,,,,399423994
+1,Scotland,1,KJ Coetzer,T van der Gugten,HG Munsey,,0,0,0,,,,399423994
+1,Scotland,1,KJ Coetzer,T van der Gugten,HG Munsey,,0,1,1,,,,399423994
+1,Scotland,1,HG Munsey,T van der Gugten,KJ Coetzer,,0,6,6,,,,399423994
+1,Scotland,1,HG Munsey,T van der Gugten,KJ Coetzer,,0,0,0,,,,399423994
+1,Scotland,1,HG Munsey,T van der Gugten,KJ Coetzer,,0,4,4,,,,399423994
+1,Scotland,1,HG Munsey,T van der Gugten,KJ Coetzer,,0,6,6,,,,399423994
+1,Scotland,2,KJ Coetzer,S Snater,HG Munsey,,0,0,0,caught,KJ Coetzer,SJ Myburgh,399423994
+1,Scotland,2,MH Cross,S Snater,HG Munsey,,0,0,0,,,,399423994
+1,Scotland,2,MH Cross,S Snater,HG Munsey,,0,0,0,,,,399423994
+1,Scotland,2,MH Cross,S Snater,HG Munsey,,0,0,0,,,,399423994
+1,Scotland,2,MH Cross,S Snater,HG Munsey,,0,4,4,,,,399423994
+1,Scotland,2,MH Cross,S Snater,HG Munsey,,0,0,0,,,,399423994
+1,Scotland,3,HG Munsey,FJ Klaassen,MH Cross,,0,0,0,lbw,HG Munsey,,399423994
+1,Scotland,3,CS MacLeod,FJ Klaassen,MH Cross,,0,0,0,,,,399423994
+1,Scotland,3,CS MacLeod,FJ Klaassen,MH Cross,,0,1,1,,,,399423994
+1,Scotland,3,MH Cross,FJ Klaassen,CS MacLeod,,0,0,0,,,,399423994
+1,Scotland,3,MH Cross,FJ Klaassen,CS MacLeod,,0,0,0,,,,399423994
+1,Scotland,3,MH Cross,FJ Klaassen,CS MacLeod,,0,1,1,,,,399423994
+1,Scotland,4,MH Cross,T van der Gugten,CS MacLeod,,0,0,0,,,,399423994
+1,Scotland,4,MH Cross,T van der Gugten,CS MacLeod,wides,1,1,0,,,,399423994
+1,Scotland,4,MH Cross,T van der Gugten,CS MacLeod,,0,0,0,caught,MH Cross,MP O'Dowd,399423994
+1,Scotland,4,CS MacLeod,T van der Gugten,RD Berrington,,0,0,0,,,,399423994
+1,Scotland,4,CS MacLeod,T van der Gugten,RD Berrington,wides,1,1,0,,,,399423994
+1,Scotland,4,CS MacLeod,T van der Gugten,RD Berrington,,0,0,0,,,,399423994
+1,Scotland,4,CS MacLeod,T van der Gugten,RD Berrington,,0,0,0,,,,399423994
+1,Scotland,4,CS MacLeod,T van der Gugten,RD Berrington,,0,0,0,,,,399423994
+1,Scotland,5,RD Berrington,RE van der Merwe,CS MacLeod,,0,0,0,,,,399423994
+1,Scotland,5,RD Berrington,RE van der Merwe,CS MacLeod,,0,0,0,,,,399423994
+1,Scotland,5,RD Berrington,RE van der Merwe,CS MacLeod,,0,0,0,,,,399423994
+1,Scotland,5,RD Berrington,RE van der Merwe,CS MacLeod,,0,0,0,,,,399423994
+1,Scotland,5,RD Berrington,RE van der Merwe,CS MacLeod,,0,2,2,,,,399423994
+1,Scotland,5,RD Berrington,RE van der Merwe,CS MacLeod,,0,0,0,,,,399423994
+1,Scotland,6,CS MacLeod,PM Seelaar,RD Berrington,,0,0,0,,,,399423994
+1,Scotland,6,CS MacLeod,PM Seelaar,RD Berrington,,0,0,0,,,,399423994
+1,Scotland,6,CS MacLeod,PM Seelaar,RD Berrington,,0,1,1,,,,399423994
+1,Scotland,6,RD Berrington,PM Seelaar,CS MacLeod,,0,0,0,,,,399423994
+1,Scotland,6,RD Berrington,PM Seelaar,CS MacLeod,,0,0,0,,,,399423994
+1,Scotland,6,RD Berrington,PM Seelaar,CS MacLeod,,0,0,0,caught,RD Berrington,MP O'Dowd,399423994
+1,Scotland,7,CS MacLeod,RE van der Merwe,CD Wallace,,0,1,1,,,,399423994
+1,Scotland,7,CD Wallace,RE van der Merwe,CS MacLeod,,0,1,1,,,,399423994
+1,Scotland,7,CS MacLeod,RE van der Merwe,CD Wallace,,0,0,0,,,,399423994
+1,Scotland,7,CS MacLeod,RE van der Merwe,CD Wallace,,0,1,1,,,,399423994
+1,Scotland,7,CD Wallace,RE van der Merwe,CS MacLeod,,0,1,1,,,,399423994
+1,Scotland,7,CS MacLeod,RE van der Merwe,CD Wallace,,0,0,0,,,,399423994
+1,Scotland,8,CD Wallace,S Snater,CS MacLeod,,0,1,1,,,,399423994
+1,Scotland,8,CS MacLeod,S Snater,CD Wallace,,0,1,1,,,,399423994
+1,Scotland,8,CD Wallace,S Snater,CS MacLeod,,0,4,4,,,,399423994
+1,Scotland,8,CD Wallace,S Snater,CS MacLeod,,0,1,1,,,,399423994
+1,Scotland,8,CS MacLeod,S Snater,CD Wallace,,0,1,1,,,,399423994
+1,Scotland,8,CD Wallace,S Snater,CS MacLeod,,0,1,1,,,,399423994
+1,Scotland,9,CD Wallace,PM Seelaar,CS MacLeod,,0,1,1,,,,399423994
+1,Scotland,9,CS MacLeod,PM Seelaar,CD Wallace,,0,1,1,,,,399423994
+1,Scotland,9,CD Wallace,PM Seelaar,CS MacLeod,legbyes,1,1,0,,,,399423994
+1,Scotland,9,CS MacLeod,PM Seelaar,CD Wallace,,0,1,1,,,,399423994
+1,Scotland,9,CD Wallace,PM Seelaar,CS MacLeod,,0,1,1,,,,399423994
+1,Scotland,9,CS MacLeod,PM Seelaar,CD Wallace,,0,1,1,,,,399423994
+1,Scotland,10,CS MacLeod,T van der Gugten,CD Wallace,,0,1,1,,,,399423994
+1,Scotland,10,CD Wallace,T van der Gugten,CS MacLeod,,0,6,6,,,,399423994
+1,Scotland,10,CD Wallace,T van der Gugten,CS MacLeod,,0,1,1,,,,399423994
+1,Scotland,10,CS MacLeod,T van der Gugten,CD Wallace,legbyes,2,2,0,,,,399423994
+1,Scotland,10,CS MacLeod,T van der Gugten,CD Wallace,,0,1,1,,,,399423994
+1,Scotland,10,CD Wallace,T van der Gugten,CS MacLeod,,0,1,1,,,,399423994
+1,Scotland,11,CD Wallace,RE van der Merwe,CS MacLeod,,0,0,0,,,,399423994
+1,Scotland,11,CD Wallace,RE van der Merwe,CS MacLeod,,0,1,1,,,,399423994
+1,Scotland,11,CS MacLeod,RE van der Merwe,CD Wallace,,0,1,1,,,,399423994
+1,Scotland,11,CD Wallace,RE van der Merwe,CS MacLeod,,0,4,4,,,,399423994
+1,Scotland,11,CD Wallace,RE van der Merwe,CS MacLeod,,0,0,0,,,,399423994
+1,Scotland,11,CD Wallace,RE van der Merwe,CS MacLeod,,0,2,2,,,,399423994
+1,Scotland,12,CS MacLeod,FJ Klaassen,CD Wallace,,0,1,1,,,,399423994
+1,Scotland,12,CD Wallace,FJ Klaassen,CS MacLeod,,0,1,1,,,,399423994
+1,Scotland,12,CS MacLeod,FJ Klaassen,CD Wallace,,0,4,4,,,,399423994
+1,Scotland,12,CS MacLeod,FJ Klaassen,CD Wallace,,0,2,2,,,,399423994
+1,Scotland,12,CS MacLeod,FJ Klaassen,CD Wallace,,0,4,4,,,,399423994
+1,Scotland,12,CS MacLeod,FJ Klaassen,CD Wallace,,0,1,1,,,,399423994
+1,Scotland,13,CS MacLeod,RN ten Doeschate,CD Wallace,,0,1,1,,,,399423994
+1,Scotland,13,CD Wallace,RN ten Doeschate,CS MacLeod,,0,0,0,bowled,CD Wallace,,399423994
+1,Scotland,13,MA Leask,RN ten Doeschate,CS MacLeod,,0,0,0,,,,399423994
+1,Scotland,13,MA Leask,RN ten Doeschate,CS MacLeod,,0,1,1,,,,399423994
+1,Scotland,13,CS MacLeod,RN ten Doeschate,MA Leask,,0,1,1,,,,399423994
+1,Scotland,13,MA Leask,RN ten Doeschate,CS MacLeod,,0,1,1,,,,399423994
+1,Scotland,14,MA Leask,PM Seelaar,CS MacLeod,,0,1,1,,,,399423994
+1,Scotland,14,CS MacLeod,PM Seelaar,MA Leask,,0,1,1,,,,399423994
+1,Scotland,14,MA Leask,PM Seelaar,CS MacLeod,,0,4,4,,,,399423994
+1,Scotland,14,MA Leask,PM Seelaar,CS MacLeod,,0,1,1,,,,399423994
+1,Scotland,14,CS MacLeod,PM Seelaar,MA Leask,,0,2,2,,,,399423994
+1,Scotland,14,CS MacLeod,PM Seelaar,MA Leask,,0,4,4,,,,399423994
+1,Scotland,15,MA Leask,RE van der Merwe,CS MacLeod,,0,0,0,,,,399423994
+1,Scotland,15,MA Leask,RE van der Merwe,CS MacLeod,,0,1,1,,,,399423994
+1,Scotland,15,CS MacLeod,RE van der Merwe,MA Leask,,0,1,1,,,,399423994
+1,Scotland,15,MA Leask,RE van der Merwe,CS MacLeod,,0,1,1,,,,399423994
+1,Scotland,15,CS MacLeod,RE van der Merwe,MA Leask,,0,4,4,,,,399423994
+1,Scotland,15,CS MacLeod,RE van der Merwe,MA Leask,,0,1,1,,,,399423994
+1,Scotland,16,CS MacLeod,S Snater,MA Leask,,0,4,4,,,,399423994
+1,Scotland,16,CS MacLeod,S Snater,MA Leask,,0,0,0,,,,399423994
+1,Scotland,16,CS MacLeod,S Snater,MA Leask,,0,0,0,,,,399423994
+1,Scotland,16,CS MacLeod,S Snater,MA Leask,,0,0,0,,,,399423994
+1,Scotland,16,CS MacLeod,S Snater,MA Leask,,0,4,4,,,,399423994
+1,Scotland,16,CS MacLeod,S Snater,MA Leask,,0,1,1,,,,399423994
+1,Scotland,17,CS MacLeod,T van der Gugten,MA Leask,,0,1,1,,,,399423994
+1,Scotland,17,MA Leask,T van der Gugten,CS MacLeod,,0,1,1,,,,399423994
+1,Scotland,17,CS MacLeod,T van der Gugten,MA Leask,,0,4,4,,,,399423994
+1,Scotland,17,CS MacLeod,T van der Gugten,MA Leask,,0,0,0,,,,399423994
+1,Scotland,17,CS MacLeod,T van der Gugten,MA Leask,,0,0,0,bowled,CS MacLeod,,399423994
+1,Scotland,17,RAJ Smith,T van der Gugten,MA Leask,,0,0,0,,,,399423994
+1,Scotland,18,MA Leask,FJ Klaassen,RAJ Smith,,0,0,0,bowled,MA Leask,,399423994
+1,Scotland,18,SM Sharif,FJ Klaassen,RAJ Smith,,0,1,1,,,,399423994
+1,Scotland,18,RAJ Smith,FJ Klaassen,SM Sharif,,0,0,0,,,,399423994
+1,Scotland,18,RAJ Smith,FJ Klaassen,SM Sharif,,0,2,2,,,,399423994
+1,Scotland,18,RAJ Smith,FJ Klaassen,SM Sharif,,0,4,4,,,,399423994
+1,Scotland,18,RAJ Smith,FJ Klaassen,SM Sharif,,0,0,0,,,,399423994
+1,Scotland,19,SM Sharif,S Snater,RAJ Smith,,0,0,0,,,,399423994
+1,Scotland,19,SM Sharif,S Snater,RAJ Smith,,0,2,2,,,,399423994
+1,Scotland,19,SM Sharif,S Snater,RAJ Smith,,0,1,1,,,,399423994
+1,Scotland,19,RAJ Smith,S Snater,SM Sharif,,0,2,2,,,,399423994
+1,Scotland,19,RAJ Smith,S Snater,SM Sharif,,0,1,1,,,,399423994
+1,Scotland,19,SM Sharif,S Snater,RAJ Smith,,0,4,4,,,,399423994

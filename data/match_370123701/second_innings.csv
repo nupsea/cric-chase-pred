@@ -1,0 +1,101 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Australia,0,BL Mooney,LMM Tahuhu,MM Lanning,,0,0,0,,,,370123701
+2,Australia,0,BL Mooney,LMM Tahuhu,MM Lanning,,0,1,1,,,,370123701
+2,Australia,0,MM Lanning,LMM Tahuhu,BL Mooney,,0,0,0,,,,370123701
+2,Australia,0,MM Lanning,LMM Tahuhu,BL Mooney,,0,0,0,run out,BL Mooney,LMM Tahuhu,370123701
+2,Australia,0,MM Lanning,LMM Tahuhu,A Gardner,wides,1,1,0,,,,370123701
+2,Australia,0,MM Lanning,LMM Tahuhu,A Gardner,,0,4,4,,,,370123701
+2,Australia,0,MM Lanning,LMM Tahuhu,A Gardner,,0,0,0,,,,370123701
+2,Australia,1,A Gardner,HR Huddleston,MM Lanning,,0,0,0,,,,370123701
+2,Australia,1,A Gardner,HR Huddleston,MM Lanning,,0,0,0,,,,370123701
+2,Australia,1,A Gardner,HR Huddleston,MM Lanning,,0,0,0,,,,370123701
+2,Australia,1,A Gardner,HR Huddleston,MM Lanning,,0,0,0,,,,370123701
+2,Australia,1,A Gardner,HR Huddleston,MM Lanning,,0,0,0,,,,370123701
+2,Australia,1,A Gardner,HR Huddleston,MM Lanning,,0,0,0,,,,370123701
+2,Australia,2,MM Lanning,LMM Tahuhu,A Gardner,,0,0,0,,,,370123701
+2,Australia,2,MM Lanning,LMM Tahuhu,A Gardner,,0,0,0,,,,370123701
+2,Australia,2,MM Lanning,LMM Tahuhu,A Gardner,,0,1,1,,,,370123701
+2,Australia,2,A Gardner,LMM Tahuhu,MM Lanning,,0,0,0,,,,370123701
+2,Australia,2,A Gardner,LMM Tahuhu,MM Lanning,,0,0,0,,,,370123701
+2,Australia,2,A Gardner,LMM Tahuhu,MM Lanning,,0,0,0,,,,370123701
+2,Australia,3,MM Lanning,HR Huddleston,A Gardner,,0,0,0,caught,MM Lanning,RH Priest,370123701
+2,Australia,3,EJ Villani,HR Huddleston,A Gardner,,0,0,0,,,,370123701
+2,Australia,3,EJ Villani,HR Huddleston,A Gardner,,0,0,0,lbw,EJ Villani,,370123701
+2,Australia,3,AJ Healy,HR Huddleston,A Gardner,,0,0,0,,,,370123701
+2,Australia,3,AJ Healy,HR Huddleston,A Gardner,,0,0,0,,,,370123701
+2,Australia,3,AJ Healy,HR Huddleston,A Gardner,,0,0,0,,,,370123701
+2,Australia,4,A Gardner,LMM Tahuhu,AJ Healy,,0,0,0,,,,370123701
+2,Australia,4,A Gardner,LMM Tahuhu,AJ Healy,,0,0,0,caught,A Gardner,RH Priest,370123701
+2,Australia,4,JL Jonassen,LMM Tahuhu,AJ Healy,,0,0,0,,,,370123701
+2,Australia,4,JL Jonassen,LMM Tahuhu,AJ Healy,,0,0,0,,,,370123701
+2,Australia,4,JL Jonassen,LMM Tahuhu,AJ Healy,,0,2,2,,,,370123701
+2,Australia,4,JL Jonassen,LMM Tahuhu,AJ Healy,,0,0,0,caught,JL Jonassen,EC Perry,370123701
+2,Australia,5,AJ Healy,HR Huddleston,AJ Blackwell,,0,0,0,,,,370123701
+2,Australia,5,AJ Healy,HR Huddleston,AJ Blackwell,,0,1,1,,,,370123701
+2,Australia,5,AJ Blackwell,HR Huddleston,AJ Healy,,0,0,0,,,,370123701
+2,Australia,5,AJ Blackwell,HR Huddleston,AJ Healy,,0,0,0,,,,370123701
+2,Australia,5,AJ Blackwell,HR Huddleston,AJ Healy,,0,1,1,,,,370123701
+2,Australia,5,AJ Healy,HR Huddleston,AJ Blackwell,,0,0,0,,,,370123701
+2,Australia,6,AJ Blackwell,LMM Tahuhu,AJ Healy,,0,0,0,,,,370123701
+2,Australia,6,AJ Blackwell,LMM Tahuhu,AJ Healy,,0,0,0,,,,370123701
+2,Australia,6,AJ Blackwell,LMM Tahuhu,AJ Healy,wides,1,1,0,,,,370123701
+2,Australia,6,AJ Blackwell,LMM Tahuhu,AJ Healy,,0,0,0,,,,370123701
+2,Australia,6,AJ Blackwell,LMM Tahuhu,AJ Healy,,0,1,1,,,,370123701
+2,Australia,6,AJ Healy,LMM Tahuhu,AJ Blackwell,,0,1,1,,,,370123701
+2,Australia,6,AJ Blackwell,LMM Tahuhu,AJ Healy,,0,1,1,,,,370123701
+2,Australia,7,AJ Blackwell,AC Kerr,AJ Healy,,0,1,1,,,,370123701
+2,Australia,7,AJ Healy,AC Kerr,AJ Blackwell,,0,1,1,,,,370123701
+2,Australia,7,AJ Blackwell,AC Kerr,AJ Healy,,0,0,0,,,,370123701
+2,Australia,7,AJ Blackwell,AC Kerr,AJ Healy,,0,1,1,,,,370123701
+2,Australia,7,AJ Healy,AC Kerr,AJ Blackwell,,0,1,1,,,,370123701
+2,Australia,7,AJ Blackwell,AC Kerr,AJ Healy,,0,1,1,,,,370123701
+2,Australia,8,AJ Blackwell,EM Bermingham,AJ Healy,,0,1,1,,,,370123701
+2,Australia,8,AJ Healy,EM Bermingham,AJ Blackwell,wides,1,1,0,,,,370123701
+2,Australia,8,AJ Healy,EM Bermingham,AJ Blackwell,,0,1,1,,,,370123701
+2,Australia,8,AJ Blackwell,EM Bermingham,AJ Healy,,0,1,1,,,,370123701
+2,Australia,8,AJ Healy,EM Bermingham,AJ Blackwell,,0,1,1,,,,370123701
+2,Australia,8,AJ Blackwell,EM Bermingham,AJ Healy,,0,1,1,,,,370123701
+2,Australia,8,AJ Healy,EM Bermingham,AJ Blackwell,,0,1,1,,,,370123701
+2,Australia,9,AJ Healy,AC Kerr,AJ Blackwell,,0,1,1,,,,370123701
+2,Australia,9,AJ Blackwell,AC Kerr,AJ Healy,,0,2,2,,,,370123701
+2,Australia,9,AJ Blackwell,AC Kerr,AJ Healy,,0,1,1,,,,370123701
+2,Australia,9,AJ Healy,AC Kerr,AJ Blackwell,,0,4,4,,,,370123701
+2,Australia,9,AJ Healy,AC Kerr,AJ Blackwell,,0,0,0,caught,AJ Healy,AM Peterson,370123701
+2,Australia,9,M Strano,AC Kerr,AJ Blackwell,,0,0,0,,,,370123701
+2,Australia,10,AJ Blackwell,SW Bates,M Strano,,0,0,0,,,,370123701
+2,Australia,10,AJ Blackwell,SW Bates,M Strano,,0,1,1,,,,370123701
+2,Australia,10,M Strano,SW Bates,AJ Blackwell,,0,0,0,,,,370123701
+2,Australia,10,M Strano,SW Bates,AJ Blackwell,,0,0,0,caught,M Strano,AC Kerr,370123701
+2,Australia,10,ML Schutt,SW Bates,AJ Blackwell,,0,0,0,,,,370123701
+2,Australia,10,ML Schutt,SW Bates,AJ Blackwell,,0,1,1,,,,370123701
+2,Australia,11,ML Schutt,AM Peterson,AJ Blackwell,,0,0,0,,,,370123701
+2,Australia,11,ML Schutt,AM Peterson,AJ Blackwell,,0,1,1,,,,370123701
+2,Australia,11,AJ Blackwell,AM Peterson,ML Schutt,,0,1,1,,,,370123701
+2,Australia,11,ML Schutt,AM Peterson,AJ Blackwell,,0,0,0,caught and bowled,ML Schutt,,370123701
+2,Australia,11,A Wellington,AM Peterson,AJ Blackwell,,0,4,4,,,,370123701
+2,Australia,11,A Wellington,AM Peterson,AJ Blackwell,,0,0,0,,,,370123701
+2,Australia,12,AJ Blackwell,SW Bates,A Wellington,,0,2,2,,,,370123701
+2,Australia,12,AJ Blackwell,SW Bates,A Wellington,,0,1,1,,,,370123701
+2,Australia,12,A Wellington,SW Bates,AJ Blackwell,,0,1,1,,,,370123701
+2,Australia,12,AJ Blackwell,SW Bates,A Wellington,,0,1,1,,,,370123701
+2,Australia,12,A Wellington,SW Bates,AJ Blackwell,,0,1,1,,,,370123701
+2,Australia,12,AJ Blackwell,SW Bates,A Wellington,,0,1,1,,,,370123701
+2,Australia,13,AJ Blackwell,HR Huddleston,A Wellington,,0,1,1,,,,370123701
+2,Australia,13,A Wellington,HR Huddleston,AJ Blackwell,,0,0,0,,,,370123701
+2,Australia,13,A Wellington,HR Huddleston,AJ Blackwell,,0,1,1,,,,370123701
+2,Australia,13,AJ Blackwell,HR Huddleston,A Wellington,,0,0,0,,,,370123701
+2,Australia,13,AJ Blackwell,HR Huddleston,A Wellington,,0,4,4,,,,370123701
+2,Australia,13,AJ Blackwell,HR Huddleston,A Wellington,wides,1,1,0,,,,370123701
+2,Australia,13,AJ Blackwell,HR Huddleston,A Wellington,,0,0,0,,,,370123701
+2,Australia,14,A Wellington,AC Kerr,AJ Blackwell,,0,1,1,,,,370123701
+2,Australia,14,AJ Blackwell,AC Kerr,A Wellington,,0,1,1,,,,370123701
+2,Australia,14,A Wellington,AC Kerr,AJ Blackwell,,0,0,0,caught,A Wellington,ML Green,370123701
+2,Australia,14,AJ Blackwell,AC Kerr,KM Beams,,0,0,0,,,,370123701
+2,Australia,14,AJ Blackwell,AC Kerr,KM Beams,,0,1,1,,,,370123701
+2,Australia,14,KM Beams,AC Kerr,AJ Blackwell,,0,0,0,,,,370123701
+2,Australia,15,AJ Blackwell,AM Peterson,KM Beams,,0,2,2,,,,370123701
+2,Australia,15,AJ Blackwell,AM Peterson,KM Beams,,0,1,1,,,,370123701
+2,Australia,15,KM Beams,AM Peterson,AJ Blackwell,,0,1,1,,,,370123701
+2,Australia,15,AJ Blackwell,AM Peterson,KM Beams,,0,1,1,,,,370123701
+2,Australia,15,KM Beams,AM Peterson,AJ Blackwell,,0,0,0,,,,370123701
+2,Australia,15,KM Beams,AM Peterson,AJ Blackwell,,0,1,1,run out,KM Beams,RH Priest,370123701

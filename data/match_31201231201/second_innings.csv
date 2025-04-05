@@ -1,0 +1,127 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,West Indies,0,LMP Simmons,Mujeeb Ur Rahman,E Lewis,,0,0,0,,,,31201231201
+2,West Indies,0,LMP Simmons,Mujeeb Ur Rahman,E Lewis,wides,1,1,0,,,,31201231201
+2,West Indies,0,LMP Simmons,Mujeeb Ur Rahman,E Lewis,,0,0,0,,,,31201231201
+2,West Indies,0,LMP Simmons,Mujeeb Ur Rahman,E Lewis,,0,0,0,,,,31201231201
+2,West Indies,0,LMP Simmons,Mujeeb Ur Rahman,E Lewis,,0,0,0,,,,31201231201
+2,West Indies,0,LMP Simmons,Mujeeb Ur Rahman,E Lewis,,0,0,0,,,,31201231201
+2,West Indies,0,LMP Simmons,Mujeeb Ur Rahman,E Lewis,,0,1,1,,,,31201231201
+2,West Indies,1,LMP Simmons,Naveen-ul-Haq,E Lewis,,0,0,0,,,,31201231201
+2,West Indies,1,LMP Simmons,Naveen-ul-Haq,E Lewis,,0,4,4,,,,31201231201
+2,West Indies,1,LMP Simmons,Naveen-ul-Haq,E Lewis,,0,1,1,,,,31201231201
+2,West Indies,1,E Lewis,Naveen-ul-Haq,LMP Simmons,,0,4,4,,,,31201231201
+2,West Indies,1,E Lewis,Naveen-ul-Haq,LMP Simmons,,0,1,1,,,,31201231201
+2,West Indies,1,LMP Simmons,Naveen-ul-Haq,E Lewis,,0,1,1,,,,31201231201
+2,West Indies,2,LMP Simmons,Mujeeb Ur Rahman,E Lewis,,0,0,0,bowled,LMP Simmons,,31201231201
+2,West Indies,2,BA King,Mujeeb Ur Rahman,E Lewis,,0,0,0,,,,31201231201
+2,West Indies,2,BA King,Mujeeb Ur Rahman,E Lewis,,0,1,1,,,,31201231201
+2,West Indies,2,E Lewis,Mujeeb Ur Rahman,BA King,,0,0,0,,,,31201231201
+2,West Indies,2,E Lewis,Mujeeb Ur Rahman,BA King,,0,1,1,,,,31201231201
+2,West Indies,2,BA King,Mujeeb Ur Rahman,E Lewis,,0,0,0,,,,31201231201
+2,West Indies,3,E Lewis,Naveen-ul-Haq,BA King,,0,0,0,,,,31201231201
+2,West Indies,3,E Lewis,Naveen-ul-Haq,BA King,,0,0,0,,,,31201231201
+2,West Indies,3,E Lewis,Naveen-ul-Haq,BA King,,0,1,1,,,,31201231201
+2,West Indies,3,BA King,Naveen-ul-Haq,E Lewis,,0,0,0,,,,31201231201
+2,West Indies,3,BA King,Naveen-ul-Haq,E Lewis,,0,0,0,bowled,BA King,,31201231201
+2,West Indies,3,SD Hope,Naveen-ul-Haq,E Lewis,,0,1,1,,,,31201231201
+2,West Indies,4,SD Hope,Mujeeb Ur Rahman,E Lewis,,0,1,1,,,,31201231201
+2,West Indies,4,E Lewis,Mujeeb Ur Rahman,SD Hope,,0,0,0,,,,31201231201
+2,West Indies,4,E Lewis,Mujeeb Ur Rahman,SD Hope,,0,0,0,,,,31201231201
+2,West Indies,4,E Lewis,Mujeeb Ur Rahman,SD Hope,,0,0,0,,,,31201231201
+2,West Indies,4,E Lewis,Mujeeb Ur Rahman,SD Hope,,0,0,0,,,,31201231201
+2,West Indies,4,E Lewis,Mujeeb Ur Rahman,SD Hope,,0,4,4,,,,31201231201
+2,West Indies,5,SD Hope,Karim Janat,E Lewis,,0,1,1,,,,31201231201
+2,West Indies,5,E Lewis,Karim Janat,SD Hope,,0,1,1,,,,31201231201
+2,West Indies,5,SD Hope,Karim Janat,E Lewis,,0,1,1,,,,31201231201
+2,West Indies,5,E Lewis,Karim Janat,SD Hope,noballs,1,1,0,,,,31201231201
+2,West Indies,5,E Lewis,Karim Janat,SD Hope,,0,4,4,,,,31201231201
+2,West Indies,5,E Lewis,Karim Janat,SD Hope,,0,1,1,,,,31201231201
+2,West Indies,5,SD Hope,Karim Janat,E Lewis,,0,1,1,,,,31201231201
+2,West Indies,6,SD Hope,Gulbadin Naib,E Lewis,,0,0,0,,,,31201231201
+2,West Indies,6,SD Hope,Gulbadin Naib,E Lewis,,0,0,0,,,,31201231201
+2,West Indies,6,SD Hope,Gulbadin Naib,E Lewis,,0,1,1,,,,31201231201
+2,West Indies,6,E Lewis,Gulbadin Naib,SD Hope,,0,1,1,,,,31201231201
+2,West Indies,6,SD Hope,Gulbadin Naib,E Lewis,,0,1,1,,,,31201231201
+2,West Indies,6,E Lewis,Gulbadin Naib,SD Hope,,0,1,1,,,,31201231201
+2,West Indies,7,E Lewis,Karim Janat,SD Hope,,0,0,0,,,,31201231201
+2,West Indies,7,E Lewis,Karim Janat,SD Hope,,0,2,2,,,,31201231201
+2,West Indies,7,E Lewis,Karim Janat,SD Hope,,0,2,2,,,,31201231201
+2,West Indies,7,E Lewis,Karim Janat,SD Hope,,0,1,1,,,,31201231201
+2,West Indies,7,SD Hope,Karim Janat,E Lewis,,0,1,1,,,,31201231201
+2,West Indies,7,E Lewis,Karim Janat,SD Hope,,0,0,0,lbw,E Lewis,,31201231201
+2,West Indies,8,SD Hope,Gulbadin Naib,SO Hetmyer,,0,1,1,,,,31201231201
+2,West Indies,8,SO Hetmyer,Gulbadin Naib,SD Hope,,0,1,1,,,,31201231201
+2,West Indies,8,SD Hope,Gulbadin Naib,SO Hetmyer,,0,2,2,,,,31201231201
+2,West Indies,8,SD Hope,Gulbadin Naib,SO Hetmyer,,0,1,1,,,,31201231201
+2,West Indies,8,SO Hetmyer,Gulbadin Naib,SD Hope,,0,1,1,,,,31201231201
+2,West Indies,8,SD Hope,Gulbadin Naib,SO Hetmyer,,0,2,2,,,,31201231201
+2,West Indies,9,SO Hetmyer,Mohammad Nabi,SD Hope,,0,4,4,,,,31201231201
+2,West Indies,9,SO Hetmyer,Mohammad Nabi,SD Hope,,0,0,0,,,,31201231201
+2,West Indies,9,SO Hetmyer,Mohammad Nabi,SD Hope,,0,1,1,,,,31201231201
+2,West Indies,9,SD Hope,Mohammad Nabi,SO Hetmyer,,0,6,6,,,,31201231201
+2,West Indies,9,SD Hope,Mohammad Nabi,SO Hetmyer,,0,0,0,,,,31201231201
+2,West Indies,9,SD Hope,Mohammad Nabi,SO Hetmyer,,0,2,2,,,,31201231201
+2,West Indies,10,SO Hetmyer,Rashid Khan,SD Hope,,0,1,1,,,,31201231201
+2,West Indies,10,SD Hope,Rashid Khan,SO Hetmyer,,0,1,1,,,,31201231201
+2,West Indies,10,SO Hetmyer,Rashid Khan,SD Hope,,0,1,1,,,,31201231201
+2,West Indies,10,SD Hope,Rashid Khan,SO Hetmyer,,0,0,0,,,,31201231201
+2,West Indies,10,SD Hope,Rashid Khan,SO Hetmyer,,0,2,2,,,,31201231201
+2,West Indies,10,SD Hope,Rashid Khan,SO Hetmyer,,0,1,1,,,,31201231201
+2,West Indies,11,SD Hope,Karim Janat,SO Hetmyer,,0,0,0,,,,31201231201
+2,West Indies,11,SD Hope,Karim Janat,SO Hetmyer,wides,1,1,0,,,,31201231201
+2,West Indies,11,SD Hope,Karim Janat,SO Hetmyer,,0,1,1,,,,31201231201
+2,West Indies,11,SO Hetmyer,Karim Janat,SD Hope,,0,1,1,,,,31201231201
+2,West Indies,11,SD Hope,Karim Janat,SO Hetmyer,,0,4,4,,,,31201231201
+2,West Indies,11,SD Hope,Karim Janat,SO Hetmyer,,0,0,0,,,,31201231201
+2,West Indies,11,SD Hope,Karim Janat,SO Hetmyer,,0,2,2,,,,31201231201
+2,West Indies,12,SO Hetmyer,Rashid Khan,SD Hope,,0,1,1,,,,31201231201
+2,West Indies,12,SD Hope,Rashid Khan,SO Hetmyer,,0,1,1,,,,31201231201
+2,West Indies,12,SO Hetmyer,Rashid Khan,SD Hope,,0,0,0,caught,SO Hetmyer,Asghar Stanikzai,31201231201
+2,West Indies,12,SD Hope,Rashid Khan,KA Pollard,,0,1,1,,,,31201231201
+2,West Indies,12,KA Pollard,Rashid Khan,SD Hope,,0,1,1,,,,31201231201
+2,West Indies,12,SD Hope,Rashid Khan,KA Pollard,,0,1,1,,,,31201231201
+2,West Indies,13,SD Hope,Gulbadin Naib,KA Pollard,,0,1,1,,,,31201231201
+2,West Indies,13,KA Pollard,Gulbadin Naib,SD Hope,,0,1,1,,,,31201231201
+2,West Indies,13,SD Hope,Gulbadin Naib,KA Pollard,,0,4,4,,,,31201231201
+2,West Indies,13,SD Hope,Gulbadin Naib,KA Pollard,,0,1,1,,,,31201231201
+2,West Indies,13,KA Pollard,Gulbadin Naib,SD Hope,,0,1,1,,,,31201231201
+2,West Indies,13,SD Hope,Gulbadin Naib,KA Pollard,,0,1,1,,,,31201231201
+2,West Indies,14,SD Hope,Rashid Khan,KA Pollard,,0,0,0,,,,31201231201
+2,West Indies,14,SD Hope,Rashid Khan,KA Pollard,,0,0,0,,,,31201231201
+2,West Indies,14,SD Hope,Rashid Khan,KA Pollard,,0,1,1,,,,31201231201
+2,West Indies,14,KA Pollard,Rashid Khan,SD Hope,,0,2,2,,,,31201231201
+2,West Indies,14,KA Pollard,Rashid Khan,SD Hope,,0,0,0,,,,31201231201
+2,West Indies,14,KA Pollard,Rashid Khan,SD Hope,,0,1,1,,,,31201231201
+2,West Indies,15,KA Pollard,Karim Janat,SD Hope,,0,1,1,,,,31201231201
+2,West Indies,15,SD Hope,Karim Janat,KA Pollard,,0,4,4,,,,31201231201
+2,West Indies,15,SD Hope,Karim Janat,KA Pollard,,0,0,0,,,,31201231201
+2,West Indies,15,SD Hope,Karim Janat,KA Pollard,,0,0,0,,,,31201231201
+2,West Indies,15,SD Hope,Karim Janat,KA Pollard,,0,1,1,,,,31201231201
+2,West Indies,15,KA Pollard,Karim Janat,SD Hope,,0,2,2,,,,31201231201
+2,West Indies,16,SD Hope,Rashid Khan,KA Pollard,,0,0,0,,,,31201231201
+2,West Indies,16,SD Hope,Rashid Khan,KA Pollard,,0,0,0,,,,31201231201
+2,West Indies,16,SD Hope,Rashid Khan,KA Pollard,,0,1,1,,,,31201231201
+2,West Indies,16,KA Pollard,Rashid Khan,SD Hope,,0,0,0,,,,31201231201
+2,West Indies,16,KA Pollard,Rashid Khan,SD Hope,legbyes,4,4,0,,,,31201231201
+2,West Indies,16,KA Pollard,Rashid Khan,SD Hope,,0,2,2,,,,31201231201
+2,West Indies,17,SD Hope,Naveen-ul-Haq,KA Pollard,,0,1,1,,,,31201231201
+2,West Indies,17,KA Pollard,Naveen-ul-Haq,SD Hope,,0,0,0,caught,KA Pollard,Najibullah Zadran,31201231201
+2,West Indies,17,JO Holder,Naveen-ul-Haq,SD Hope,,0,0,0,,,,31201231201
+2,West Indies,17,JO Holder,Naveen-ul-Haq,SD Hope,,0,1,1,,,,31201231201
+2,West Indies,17,SD Hope,Naveen-ul-Haq,JO Holder,,0,1,1,,,,31201231201
+2,West Indies,17,JO Holder,Naveen-ul-Haq,SD Hope,,0,4,4,,,,31201231201
+2,West Indies,18,SD Hope,Gulbadin Naib,JO Holder,,0,0,0,caught,SD Hope,Asghar Stanikzai,31201231201
+2,West Indies,18,KMA Paul,Gulbadin Naib,JO Holder,wides,1,1,0,,,,31201231201
+2,West Indies,18,KMA Paul,Gulbadin Naib,JO Holder,,0,1,1,,,,31201231201
+2,West Indies,18,JO Holder,Gulbadin Naib,KMA Paul,,0,1,1,,,,31201231201
+2,West Indies,18,KMA Paul,Gulbadin Naib,JO Holder,,0,0,0,,,,31201231201
+2,West Indies,18,KMA Paul,Gulbadin Naib,JO Holder,,0,0,0,,,,31201231201
+2,West Indies,18,KMA Paul,Gulbadin Naib,JO Holder,wides,1,1,0,,,,31201231201
+2,West Indies,18,KMA Paul,Gulbadin Naib,JO Holder,,0,1,1,,,,31201231201
+2,West Indies,19,KMA Paul,Naveen-ul-Haq,JO Holder,,0,1,1,,,,31201231201
+2,West Indies,19,JO Holder,Naveen-ul-Haq,KMA Paul,,0,0,0,caught,JO Holder,Mohammad Nabi,31201231201
+2,West Indies,19,K Pierre,Naveen-ul-Haq,KMA Paul,,0,1,1,,,,31201231201
+2,West Indies,19,KMA Paul,Naveen-ul-Haq,K Pierre,,0,0,0,,,,31201231201
+2,West Indies,19,KMA Paul,Naveen-ul-Haq,K Pierre,,0,1,1,,,,31201231201
+2,West Indies,19,K Pierre,Naveen-ul-Haq,KMA Paul,wides,1,1,0,,,,31201231201
+2,West Indies,19,K Pierre,Naveen-ul-Haq,KMA Paul,,0,0,0,,,,31201231201

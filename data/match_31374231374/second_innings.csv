@@ -1,0 +1,92 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Oman,0,SV Shetty,MS Beresford,Fiza,,0,0,0,,,,31374231374
+2,Oman,0,SV Shetty,MS Beresford,Fiza,,0,1,1,,,,31374231374
+2,Oman,0,Fiza,MS Beresford,SV Shetty,,0,4,4,,,,31374231374
+2,Oman,0,Fiza,MS Beresford,SV Shetty,,0,1,1,,,,31374231374
+2,Oman,0,SV Shetty,MS Beresford,Fiza,,0,0,0,,,,31374231374
+2,Oman,0,SV Shetty,MS Beresford,Fiza,,0,0,0,,,,31374231374
+2,Oman,1,Fiza,EC Bargna,SV Shetty,,0,1,1,,,,31374231374
+2,Oman,1,SV Shetty,EC Bargna,Fiza,,0,0,0,run out,Fiza,,31374231374
+2,Oman,1,V Jesrani,EC Bargna,SV Shetty,,0,0,0,,,,31374231374
+2,Oman,1,V Jesrani,EC Bargna,SV Shetty,,0,0,0,,,,31374231374
+2,Oman,1,V Jesrani,EC Bargna,SV Shetty,,0,0,0,,,,31374231374
+2,Oman,1,V Jesrani,EC Bargna,SV Shetty,,0,1,1,,,,31374231374
+2,Oman,2,V Jesrani,MS Beresford,SV Shetty,legbyes,1,1,0,,,,31374231374
+2,Oman,2,SV Shetty,MS Beresford,V Jesrani,,0,4,4,,,,31374231374
+2,Oman,2,SV Shetty,MS Beresford,V Jesrani,,0,4,4,,,,31374231374
+2,Oman,2,SV Shetty,MS Beresford,V Jesrani,,0,1,1,,,,31374231374
+2,Oman,2,V Jesrani,MS Beresford,SV Shetty,,0,0,0,,,,31374231374
+2,Oman,2,V Jesrani,MS Beresford,SV Shetty,,0,0,0,,,,31374231374
+2,Oman,3,SV Shetty,EC Bargna,V Jesrani,,0,0,0,,,,31374231374
+2,Oman,3,SV Shetty,EC Bargna,V Jesrani,wides,1,1,0,,,,31374231374
+2,Oman,3,SV Shetty,EC Bargna,V Jesrani,,0,2,2,,,,31374231374
+2,Oman,3,SV Shetty,EC Bargna,V Jesrani,,0,1,1,,,,31374231374
+2,Oman,3,V Jesrani,EC Bargna,SV Shetty,,0,4,4,,,,31374231374
+2,Oman,3,V Jesrani,EC Bargna,SV Shetty,,0,0,0,,,,31374231374
+2,Oman,3,V Jesrani,EC Bargna,SV Shetty,,0,1,1,,,,31374231374
+2,Oman,4,V Jesrani,MS Beresford,SV Shetty,wides,1,1,0,,,,31374231374
+2,Oman,4,V Jesrani,MS Beresford,SV Shetty,,0,1,1,,,,31374231374
+2,Oman,4,SV Shetty,MS Beresford,V Jesrani,,0,2,2,,,,31374231374
+2,Oman,4,SV Shetty,MS Beresford,V Jesrani,,0,1,1,,,,31374231374
+2,Oman,4,V Jesrani,MS Beresford,SV Shetty,,0,0,0,,,,31374231374
+2,Oman,4,V Jesrani,MS Beresford,SV Shetty,,0,1,1,,,,31374231374
+2,Oman,4,SV Shetty,MS Beresford,V Jesrani,,0,0,0,bowled,SV Shetty,,31374231374
+2,Oman,5,V Jesrani,EC Bargna,PE Mendonca,,0,0,0,,,,31374231374
+2,Oman,5,V Jesrani,EC Bargna,PE Mendonca,,0,0,0,,,,31374231374
+2,Oman,5,V Jesrani,EC Bargna,PE Mendonca,,0,1,1,,,,31374231374
+2,Oman,5,PE Mendonca,EC Bargna,V Jesrani,,0,1,1,,,,31374231374
+2,Oman,5,V Jesrani,EC Bargna,PE Mendonca,,0,1,1,,,,31374231374
+2,Oman,5,PE Mendonca,EC Bargna,V Jesrani,,0,0,0,caught,PE Mendonca,MS Beresford,31374231374
+2,Oman,6,V Jesrani,CM Gough,Javed Hina,,0,0,0,,,,31374231374
+2,Oman,6,V Jesrani,CM Gough,Javed Hina,,0,0,0,,,,31374231374
+2,Oman,6,V Jesrani,CM Gough,Javed Hina,,0,0,0,,,,31374231374
+2,Oman,6,V Jesrani,CM Gough,Javed Hina,,0,0,0,,,,31374231374
+2,Oman,6,V Jesrani,CM Gough,Javed Hina,,0,0,0,,,,31374231374
+2,Oman,6,V Jesrani,CM Gough,Javed Hina,,0,0,0,run out,Javed Hina,,31374231374
+2,Oman,7,V Jesrani,AM Healey,Javed Hira,,0,2,2,,,,31374231374
+2,Oman,7,V Jesrani,AM Healey,Javed Hira,,0,0,0,,,,31374231374
+2,Oman,7,V Jesrani,AM Healey,Javed Hira,,0,0,0,,,,31374231374
+2,Oman,7,V Jesrani,AM Healey,Javed Hira,wides,1,1,0,,,,31374231374
+2,Oman,7,V Jesrani,AM Healey,Javed Hira,,0,0,0,,,,31374231374
+2,Oman,7,V Jesrani,AM Healey,Javed Hira,,0,0,0,,,,31374231374
+2,Oman,7,V Jesrani,AM Healey,Javed Hira,wides,1,1,0,,,,31374231374
+2,Oman,7,V Jesrani,AM Healey,Javed Hira,,0,1,1,,,,31374231374
+2,Oman,8,V Jesrani,CM Gough,Javed Hira,,0,0,0,,,,31374231374
+2,Oman,8,V Jesrani,CM Gough,Javed Hira,,0,1,1,,,,31374231374
+2,Oman,8,Javed Hira,CM Gough,V Jesrani,,0,2,2,,,,31374231374
+2,Oman,8,Javed Hira,CM Gough,V Jesrani,,0,1,1,,,,31374231374
+2,Oman,8,V Jesrani,CM Gough,Javed Hira,,0,0,0,,,,31374231374
+2,Oman,8,V Jesrani,CM Gough,Javed Hira,,0,0,0,,,,31374231374
+2,Oman,9,Javed Hira,AM Healey,V Jesrani,,0,0,0,,,,31374231374
+2,Oman,9,Javed Hira,AM Healey,V Jesrani,,0,1,1,,,,31374231374
+2,Oman,9,V Jesrani,AM Healey,Javed Hira,wides,1,1,0,,,,31374231374
+2,Oman,9,V Jesrani,AM Healey,Javed Hira,,0,0,0,,,,31374231374
+2,Oman,9,V Jesrani,AM Healey,Javed Hira,,0,0,0,caught and bowled,V Jesrani,,31374231374
+2,Oman,9,Y Verma,AM Healey,Javed Hira,,0,0,0,,,,31374231374
+2,Oman,9,Y Verma,AM Healey,Javed Hira,,0,0,0,,,,31374231374
+2,Oman,10,Javed Hira,CM Gough,Y Verma,,0,0,0,,,,31374231374
+2,Oman,10,Javed Hira,CM Gough,Y Verma,,0,4,4,,,,31374231374
+2,Oman,10,Javed Hira,CM Gough,Y Verma,,0,0,0,bowled,Javed Hira,,31374231374
+2,Oman,10,B Shetty,CM Gough,Y Verma,,0,0,0,,,,31374231374
+2,Oman,10,B Shetty,CM Gough,Y Verma,,0,0,0,,,,31374231374
+2,Oman,10,B Shetty,CM Gough,Y Verma,,0,0,0,caught and bowled,B Shetty,,31374231374
+2,Oman,11,Y Verma,AM Healey,AR Shetty,,0,0,0,caught,Y Verma,A Doddaballapur,31374231374
+2,Oman,11,AR Shetty,AM Healey,Sameera Khan,,0,0,0,,,,31374231374
+2,Oman,11,AR Shetty,AM Healey,Sameera Khan,,0,1,1,,,,31374231374
+2,Oman,11,Sameera Khan,AM Healey,AR Shetty,,0,0,0,,,,31374231374
+2,Oman,11,Sameera Khan,AM Healey,AR Shetty,wides,1,1,0,,,,31374231374
+2,Oman,11,Sameera Khan,AM Healey,AR Shetty,,0,0,0,,,,31374231374
+2,Oman,11,Sameera Khan,AM Healey,AR Shetty,,0,0,0,,,,31374231374
+2,Oman,12,AR Shetty,S Meyenborg,Sameera Khan,wides,1,1,0,,,,31374231374
+2,Oman,12,AR Shetty,S Meyenborg,Sameera Khan,,0,0,0,,,,31374231374
+2,Oman,12,AR Shetty,S Meyenborg,Sameera Khan,,0,1,1,,,,31374231374
+2,Oman,12,Sameera Khan,S Meyenborg,AR Shetty,,0,0,0,,,,31374231374
+2,Oman,12,Sameera Khan,S Meyenborg,AR Shetty,,0,0,0,,,,31374231374
+2,Oman,12,Sameera Khan,S Meyenborg,AR Shetty,,0,0,0,,,,31374231374
+2,Oman,12,Sameera Khan,S Meyenborg,AR Shetty,,0,0,0,,,,31374231374
+2,Oman,13,AR Shetty,MS Beresford,Sameera Khan,noballs,1,1,0,,,,31374231374
+2,Oman,13,AR Shetty,MS Beresford,Sameera Khan,,0,0,0,,,,31374231374
+2,Oman,13,AR Shetty,MS Beresford,Sameera Khan,wides,1,1,0,,,,31374231374
+2,Oman,13,AR Shetty,MS Beresford,Sameera Khan,,0,0,0,caught,AR Shetty,A Doddaballapur,31374231374
+2,Oman,13,S Nair,MS Beresford,Sameera Khan,,0,0,0,,,,31374231374
+2,Oman,13,S Nair,MS Beresford,Sameera Khan,,0,0,0,caught and bowled,S Nair,,31374231374

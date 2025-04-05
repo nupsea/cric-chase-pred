@@ -1,0 +1,84 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,China,0,Zhang Chan,WA Duraisingam,C Zhou,,0,1,1,,,,31011231011
+2,China,0,C Zhou,WA Duraisingam,Zhang Chan,,0,0,0,,,,31011231011
+2,China,0,C Zhou,WA Duraisingam,Zhang Chan,,0,0,0,,,,31011231011
+2,China,0,C Zhou,WA Duraisingam,Zhang Chan,,0,1,1,,,,31011231011
+2,China,0,Zhang Chan,WA Duraisingam,C Zhou,,0,0,0,,,,31011231011
+2,China,0,Zhang Chan,WA Duraisingam,C Zhou,,0,0,0,,,,31011231011
+2,China,1,C Zhou,Nur Arianna Natsya,Zhang Chan,,0,0,0,,,,31011231011
+2,China,1,C Zhou,Nur Arianna Natsya,Zhang Chan,,0,2,2,,,,31011231011
+2,China,1,C Zhou,Nur Arianna Natsya,Zhang Chan,,0,0,0,,,,31011231011
+2,China,1,C Zhou,Nur Arianna Natsya,Zhang Chan,,0,0,0,,,,31011231011
+2,China,1,C Zhou,Nur Arianna Natsya,Zhang Chan,,0,0,0,,,,31011231011
+2,China,1,C Zhou,Nur Arianna Natsya,Zhang Chan,,0,0,0,,,,31011231011
+2,China,2,Zhang Chan,WA Duraisingam,C Zhou,,0,0,0,,,,31011231011
+2,China,2,Zhang Chan,WA Duraisingam,C Zhou,,0,0,0,bowled,Zhang Chan,,31011231011
+2,China,2,Huang Zhuo,WA Duraisingam,C Zhou,,0,0,0,,,,31011231011
+2,China,2,Huang Zhuo,WA Duraisingam,C Zhou,,0,0,0,,,,31011231011
+2,China,2,Huang Zhuo,WA Duraisingam,C Zhou,,0,0,0,,,,31011231011
+2,China,2,Huang Zhuo,WA Duraisingam,C Zhou,,0,1,1,,,,31011231011
+2,China,3,Huang Zhuo,Nur Arianna Natsya,C Zhou,,0,0,0,,,,31011231011
+2,China,3,Huang Zhuo,Nur Arianna Natsya,C Zhou,wides,1,1,0,,,,31011231011
+2,China,3,Huang Zhuo,Nur Arianna Natsya,C Zhou,,0,1,1,,,,31011231011
+2,China,3,C Zhou,Nur Arianna Natsya,Huang Zhuo,,0,0,0,,,,31011231011
+2,China,3,C Zhou,Nur Arianna Natsya,Huang Zhuo,,0,0,0,,,,31011231011
+2,China,3,C Zhou,Nur Arianna Natsya,Huang Zhuo,,0,0,0,lbw,C Zhou,,31011231011
+2,China,3,F Song,Nur Arianna Natsya,Huang Zhuo,,0,0,0,,,,31011231011
+2,China,4,Huang Zhuo,WA Duraisingam,F Song,,0,0,0,,,,31011231011
+2,China,4,Huang Zhuo,WA Duraisingam,F Song,,0,1,1,,,,31011231011
+2,China,4,F Song,WA Duraisingam,Huang Zhuo,,0,1,1,,,,31011231011
+2,China,4,Huang Zhuo,WA Duraisingam,F Song,,0,1,1,,,,31011231011
+2,China,4,F Song,WA Duraisingam,Huang Zhuo,wides,1,1,0,,,,31011231011
+2,China,4,F Song,WA Duraisingam,Huang Zhuo,,0,1,1,,,,31011231011
+2,China,4,Huang Zhuo,WA Duraisingam,F Song,,0,0,0,,,,31011231011
+2,China,5,F Song,Nur Arianna Natsya,Huang Zhuo,noballs,1,3,2,,,,31011231011
+2,China,5,F Song,Nur Arianna Natsya,Huang Zhuo,,0,1,1,,,,31011231011
+2,China,5,Huang Zhuo,Nur Arianna Natsya,F Song,noballs,1,2,1,,,,31011231011
+2,China,5,F Song,Nur Arianna Natsya,Huang Zhuo,,0,1,1,,,,31011231011
+2,China,5,Huang Zhuo,Nur Arianna Natsya,F Song,,0,0,0,,,,31011231011
+2,China,5,Huang Zhuo,Nur Arianna Natsya,F Song,,0,1,1,,,,31011231011
+2,China,5,F Song,Nur Arianna Natsya,Huang Zhuo,,0,0,0,,,,31011231011
+2,China,5,F Song,Nur Arianna Natsya,Huang Zhuo,,0,0,0,,,,31011231011
+2,China,6,Huang Zhuo,Wan Nor Zulaika,F Song,,0,0,0,,,,31011231011
+2,China,6,Huang Zhuo,Wan Nor Zulaika,F Song,,0,1,1,,,,31011231011
+2,China,6,F Song,Wan Nor Zulaika,Huang Zhuo,,0,0,0,,,,31011231011
+2,China,6,F Song,Wan Nor Zulaika,Huang Zhuo,,0,1,1,,,,31011231011
+2,China,6,Huang Zhuo,Wan Nor Zulaika,F Song,,0,0,0,,,,31011231011
+2,China,6,Huang Zhuo,Wan Nor Zulaika,F Song,wides,1,1,0,,,,31011231011
+2,China,6,Huang Zhuo,Wan Nor Zulaika,F Song,wides,1,1,0,,,,31011231011
+2,China,6,Huang Zhuo,Wan Nor Zulaika,F Song,,0,1,1,,,,31011231011
+2,China,7,Huang Zhuo,Nur Nadihirah,F Song,,0,1,1,,,,31011231011
+2,China,7,F Song,Nur Nadihirah,Huang Zhuo,,0,0,0,,,,31011231011
+2,China,7,F Song,Nur Nadihirah,Huang Zhuo,,0,2,2,,,,31011231011
+2,China,7,F Song,Nur Nadihirah,Huang Zhuo,,0,0,0,,,,31011231011
+2,China,7,F Song,Nur Nadihirah,Huang Zhuo,,0,0,0,,,,31011231011
+2,China,7,F Song,Nur Nadihirah,Huang Zhuo,,0,0,0,,,,31011231011
+2,China,8,Huang Zhuo,Zumika Azmi,F Song,,0,0,0,,,,31011231011
+2,China,8,Huang Zhuo,Zumika Azmi,F Song,,0,1,1,,,,31011231011
+2,China,8,F Song,Zumika Azmi,Huang Zhuo,noballs,1,1,0,,,,31011231011
+2,China,8,F Song,Zumika Azmi,Huang Zhuo,,0,2,2,,,,31011231011
+2,China,8,F Song,Zumika Azmi,Huang Zhuo,,0,4,4,,,,31011231011
+2,China,8,F Song,Zumika Azmi,Huang Zhuo,,0,0,0,,,,31011231011
+2,China,8,F Song,Zumika Azmi,Huang Zhuo,wides,1,1,0,,,,31011231011
+2,China,8,F Song,Zumika Azmi,Huang Zhuo,,0,1,1,,,,31011231011
+2,China,9,F Song,Nur Nadihirah,Huang Zhuo,,0,0,0,,,,31011231011
+2,China,9,F Song,Nur Nadihirah,Huang Zhuo,,0,2,2,,,,31011231011
+2,China,9,F Song,Nur Nadihirah,Huang Zhuo,,0,0,0,,,,31011231011
+2,China,9,F Song,Nur Nadihirah,Huang Zhuo,,0,0,0,,,,31011231011
+2,China,9,F Song,Nur Nadihirah,Huang Zhuo,,0,1,1,,,,31011231011
+2,China,9,Huang Zhuo,Nur Nadihirah,F Song,noballs,1,5,4,,,,31011231011
+2,China,9,Huang Zhuo,Nur Nadihirah,F Song,,0,4,4,,,,31011231011
+2,China,10,F Song,Sasha Azmi,Huang Zhuo,,0,2,2,,,,31011231011
+2,China,10,F Song,Sasha Azmi,Huang Zhuo,,0,1,1,,,,31011231011
+2,China,10,Huang Zhuo,Sasha Azmi,F Song,,0,0,0,,,,31011231011
+2,China,10,Huang Zhuo,Sasha Azmi,F Song,,0,0,0,,,,31011231011
+2,China,10,Huang Zhuo,Sasha Azmi,F Song,,0,0,0,,,,31011231011
+2,China,10,Huang Zhuo,Sasha Azmi,F Song,,0,1,1,,,,31011231011
+2,China,11,Huang Zhuo,Mas Elysa,F Song,legbyes,1,1,0,,,,31011231011
+2,China,11,F Song,Mas Elysa,Huang Zhuo,,0,1,1,,,,31011231011
+2,China,11,Huang Zhuo,Mas Elysa,F Song,,0,4,4,,,,31011231011
+2,China,11,Huang Zhuo,Mas Elysa,F Song,,0,1,1,,,,31011231011
+2,China,11,F Song,Mas Elysa,Huang Zhuo,wides,1,1,0,,,,31011231011
+2,China,11,F Song,Mas Elysa,Huang Zhuo,,0,1,1,,,,31011231011
+2,China,11,Huang Zhuo,Mas Elysa,F Song,,0,0,0,,,,31011231011
+2,China,12,F Song,Sasha Azmi,Huang Zhuo,,0,1,1,,,,31011231011

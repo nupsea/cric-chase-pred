@@ -1,0 +1,109 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Zimbabwe,0,TS Kamunhukamwe,Naveen-ul-Haq,TK Musakanda,,0,0,0,lbw,TS Kamunhukamwe,,31475231475
+2,Zimbabwe,0,SC Williams,Naveen-ul-Haq,TK Musakanda,,0,4,4,,,,31475231475
+2,Zimbabwe,0,SC Williams,Naveen-ul-Haq,TK Musakanda,,0,4,4,,,,31475231475
+2,Zimbabwe,0,SC Williams,Naveen-ul-Haq,TK Musakanda,,0,1,1,,,,31475231475
+2,Zimbabwe,0,TK Musakanda,Naveen-ul-Haq,SC Williams,,0,0,0,,,,31475231475
+2,Zimbabwe,0,TK Musakanda,Naveen-ul-Haq,SC Williams,,0,1,1,,,,31475231475
+2,Zimbabwe,1,TK Musakanda,Mohammad Nabi,SC Williams,,0,1,1,,,,31475231475
+2,Zimbabwe,1,SC Williams,Mohammad Nabi,TK Musakanda,,0,0,0,bowled,SC Williams,,31475231475
+2,Zimbabwe,1,W Madhevere,Mohammad Nabi,TK Musakanda,,0,2,2,,,,31475231475
+2,Zimbabwe,1,W Madhevere,Mohammad Nabi,TK Musakanda,,0,1,1,,,,31475231475
+2,Zimbabwe,1,TK Musakanda,Mohammad Nabi,W Madhevere,,0,2,2,,,,31475231475
+2,Zimbabwe,1,TK Musakanda,Mohammad Nabi,W Madhevere,,0,1,1,,,,31475231475
+2,Zimbabwe,2,TK Musakanda,Naveen-ul-Haq,W Madhevere,,0,4,4,,,,31475231475
+2,Zimbabwe,2,TK Musakanda,Naveen-ul-Haq,W Madhevere,,0,1,1,,,,31475231475
+2,Zimbabwe,2,W Madhevere,Naveen-ul-Haq,TK Musakanda,,0,4,4,,,,31475231475
+2,Zimbabwe,2,W Madhevere,Naveen-ul-Haq,TK Musakanda,wides,1,1,0,,,,31475231475
+2,Zimbabwe,2,W Madhevere,Naveen-ul-Haq,TK Musakanda,,0,0,0,caught,W Madhevere,Usman Ghani,31475231475
+2,Zimbabwe,2,TK Musakanda,Naveen-ul-Haq,Sikandar Raza,,0,1,1,,,,31475231475
+2,Zimbabwe,2,Sikandar Raza,Naveen-ul-Haq,TK Musakanda,,0,1,1,,,,31475231475
+2,Zimbabwe,3,Sikandar Raza,Amir Hamza,TK Musakanda,,0,0,0,,,,31475231475
+2,Zimbabwe,3,Sikandar Raza,Amir Hamza,TK Musakanda,,0,1,1,,,,31475231475
+2,Zimbabwe,3,TK Musakanda,Amir Hamza,Sikandar Raza,,0,1,1,,,,31475231475
+2,Zimbabwe,3,Sikandar Raza,Amir Hamza,TK Musakanda,,0,1,1,,,,31475231475
+2,Zimbabwe,3,TK Musakanda,Amir Hamza,Sikandar Raza,,0,4,4,,,,31475231475
+2,Zimbabwe,3,TK Musakanda,Amir Hamza,Sikandar Raza,,0,0,0,,,,31475231475
+2,Zimbabwe,4,Sikandar Raza,Fareed Ahmad,TK Musakanda,,0,0,0,,,,31475231475
+2,Zimbabwe,4,Sikandar Raza,Fareed Ahmad,TK Musakanda,,0,1,1,,,,31475231475
+2,Zimbabwe,4,TK Musakanda,Fareed Ahmad,Sikandar Raza,,0,4,4,,,,31475231475
+2,Zimbabwe,4,TK Musakanda,Fareed Ahmad,Sikandar Raza,,0,1,1,,,,31475231475
+2,Zimbabwe,4,Sikandar Raza,Fareed Ahmad,TK Musakanda,,0,1,1,,,,31475231475
+2,Zimbabwe,4,TK Musakanda,Fareed Ahmad,Sikandar Raza,,0,1,1,,,,31475231475
+2,Zimbabwe,5,TK Musakanda,Amir Hamza,Sikandar Raza,,0,0,0,caught,TK Musakanda,Najibullah Zadran,31475231475
+2,Zimbabwe,5,R Mutumbami,Amir Hamza,Sikandar Raza,,0,1,1,,,,31475231475
+2,Zimbabwe,5,Sikandar Raza,Amir Hamza,R Mutumbami,,0,0,0,,,,31475231475
+2,Zimbabwe,5,Sikandar Raza,Amir Hamza,R Mutumbami,,0,4,4,,,,31475231475
+2,Zimbabwe,5,Sikandar Raza,Amir Hamza,R Mutumbami,,0,4,4,,,,31475231475
+2,Zimbabwe,5,Sikandar Raza,Amir Hamza,R Mutumbami,,0,1,1,,,,31475231475
+2,Zimbabwe,6,Sikandar Raza,Fareed Ahmad,R Mutumbami,,0,1,1,,,,31475231475
+2,Zimbabwe,6,R Mutumbami,Fareed Ahmad,Sikandar Raza,,0,1,1,,,,31475231475
+2,Zimbabwe,6,Sikandar Raza,Fareed Ahmad,R Mutumbami,,0,0,0,caught,Sikandar Raza,Amir Hamza,31475231475
+2,Zimbabwe,6,R Mutumbami,Fareed Ahmad,RP Burl,,0,1,1,,,,31475231475
+2,Zimbabwe,6,RP Burl,Fareed Ahmad,R Mutumbami,,0,0,0,,,,31475231475
+2,Zimbabwe,6,RP Burl,Fareed Ahmad,R Mutumbami,wides,1,1,0,,,,31475231475
+2,Zimbabwe,6,RP Burl,Fareed Ahmad,R Mutumbami,,0,1,1,,,,31475231475
+2,Zimbabwe,7,RP Burl,Mohammad Nabi,R Mutumbami,,0,1,1,,,,31475231475
+2,Zimbabwe,7,R Mutumbami,Mohammad Nabi,RP Burl,,0,2,2,,,,31475231475
+2,Zimbabwe,7,R Mutumbami,Mohammad Nabi,RP Burl,,0,0,0,,,,31475231475
+2,Zimbabwe,7,R Mutumbami,Mohammad Nabi,RP Burl,,0,0,0,,,,31475231475
+2,Zimbabwe,7,R Mutumbami,Mohammad Nabi,RP Burl,,0,1,1,,,,31475231475
+2,Zimbabwe,7,RP Burl,Mohammad Nabi,R Mutumbami,,0,1,1,,,,31475231475
+2,Zimbabwe,8,RP Burl,Karim Janat,R Mutumbami,,0,1,1,,,,31475231475
+2,Zimbabwe,8,R Mutumbami,Karim Janat,RP Burl,,0,0,0,,,,31475231475
+2,Zimbabwe,8,R Mutumbami,Karim Janat,RP Burl,,0,1,1,,,,31475231475
+2,Zimbabwe,8,RP Burl,Karim Janat,R Mutumbami,wides,1,1,0,,,,31475231475
+2,Zimbabwe,8,RP Burl,Karim Janat,R Mutumbami,,0,1,1,,,,31475231475
+2,Zimbabwe,8,R Mutumbami,Karim Janat,RP Burl,wides,1,1,0,,,,31475231475
+2,Zimbabwe,8,R Mutumbami,Karim Janat,RP Burl,,0,1,1,,,,31475231475
+2,Zimbabwe,8,RP Burl,Karim Janat,R Mutumbami,,0,2,2,,,,31475231475
+2,Zimbabwe,9,R Mutumbami,Rashid Khan,RP Burl,,0,1,1,,,,31475231475
+2,Zimbabwe,9,RP Burl,Rashid Khan,R Mutumbami,,0,0,0,,,,31475231475
+2,Zimbabwe,9,RP Burl,Rashid Khan,R Mutumbami,,0,6,6,,,,31475231475
+2,Zimbabwe,9,RP Burl,Rashid Khan,R Mutumbami,,0,0,0,,,,31475231475
+2,Zimbabwe,9,RP Burl,Rashid Khan,R Mutumbami,,0,1,1,,,,31475231475
+2,Zimbabwe,9,R Mutumbami,Rashid Khan,RP Burl,,0,0,0,,,,31475231475
+2,Zimbabwe,10,RP Burl,Karim Janat,R Mutumbami,,0,1,1,,,,31475231475
+2,Zimbabwe,10,R Mutumbami,Karim Janat,RP Burl,,0,1,1,,,,31475231475
+2,Zimbabwe,10,RP Burl,Karim Janat,R Mutumbami,,0,0,0,,,,31475231475
+2,Zimbabwe,10,RP Burl,Karim Janat,R Mutumbami,,0,4,4,,,,31475231475
+2,Zimbabwe,10,RP Burl,Karim Janat,R Mutumbami,,0,0,0,,,,31475231475
+2,Zimbabwe,10,RP Burl,Karim Janat,R Mutumbami,legbyes,1,1,0,,,,31475231475
+2,Zimbabwe,11,RP Burl,Rashid Khan,R Mutumbami,byes,4,4,0,,,,31475231475
+2,Zimbabwe,11,RP Burl,Rashid Khan,R Mutumbami,,0,6,6,,,,31475231475
+2,Zimbabwe,11,RP Burl,Rashid Khan,R Mutumbami,,0,6,6,,,,31475231475
+2,Zimbabwe,11,RP Burl,Rashid Khan,R Mutumbami,,0,1,1,,,,31475231475
+2,Zimbabwe,11,R Mutumbami,Rashid Khan,RP Burl,,0,1,1,,,,31475231475
+2,Zimbabwe,11,RP Burl,Rashid Khan,R Mutumbami,,0,1,1,,,,31475231475
+2,Zimbabwe,12,RP Burl,Naveen-ul-Haq,R Mutumbami,,0,1,1,,,,31475231475
+2,Zimbabwe,12,R Mutumbami,Naveen-ul-Haq,RP Burl,,0,0,0,,,,31475231475
+2,Zimbabwe,12,R Mutumbami,Naveen-ul-Haq,RP Burl,,0,2,2,,,,31475231475
+2,Zimbabwe,12,R Mutumbami,Naveen-ul-Haq,RP Burl,,0,1,1,,,,31475231475
+2,Zimbabwe,12,RP Burl,Naveen-ul-Haq,R Mutumbami,,0,1,1,,,,31475231475
+2,Zimbabwe,12,R Mutumbami,Naveen-ul-Haq,RP Burl,,0,1,1,,,,31475231475
+2,Zimbabwe,13,R Mutumbami,Mohammad Nabi,RP Burl,,0,4,4,,,,31475231475
+2,Zimbabwe,13,R Mutumbami,Mohammad Nabi,RP Burl,,0,2,2,,,,31475231475
+2,Zimbabwe,13,R Mutumbami,Mohammad Nabi,RP Burl,,0,0,0,lbw,R Mutumbami,,31475231475
+2,Zimbabwe,13,DT Tiripano,Mohammad Nabi,RP Burl,,0,0,0,,,,31475231475
+2,Zimbabwe,13,DT Tiripano,Mohammad Nabi,RP Burl,,0,1,1,,,,31475231475
+2,Zimbabwe,13,RP Burl,Mohammad Nabi,DT Tiripano,,0,1,1,,,,31475231475
+2,Zimbabwe,14,RP Burl,Fareed Ahmad,DT Tiripano,,0,1,1,,,,31475231475
+2,Zimbabwe,14,DT Tiripano,Fareed Ahmad,RP Burl,,0,0,0,,,,31475231475
+2,Zimbabwe,14,DT Tiripano,Fareed Ahmad,RP Burl,,0,4,4,,,,31475231475
+2,Zimbabwe,14,DT Tiripano,Fareed Ahmad,RP Burl,,0,1,1,,,,31475231475
+2,Zimbabwe,14,RP Burl,Fareed Ahmad,DT Tiripano,,0,1,1,,,,31475231475
+2,Zimbabwe,14,DT Tiripano,Fareed Ahmad,RP Burl,,0,1,1,,,,31475231475
+2,Zimbabwe,15,DT Tiripano,Karim Janat,RP Burl,,0,1,1,,,,31475231475
+2,Zimbabwe,15,RP Burl,Karim Janat,DT Tiripano,,0,1,1,,,,31475231475
+2,Zimbabwe,15,DT Tiripano,Karim Janat,RP Burl,,0,4,4,,,,31475231475
+2,Zimbabwe,15,DT Tiripano,Karim Janat,RP Burl,,0,4,4,,,,31475231475
+2,Zimbabwe,15,DT Tiripano,Karim Janat,RP Burl,wides,1,1,0,,,,31475231475
+2,Zimbabwe,15,DT Tiripano,Karim Janat,RP Burl,,0,1,1,,,,31475231475
+2,Zimbabwe,15,RP Burl,Karim Janat,DT Tiripano,,0,1,1,,,,31475231475
+2,Zimbabwe,16,RP Burl,Rashid Khan,DT Tiripano,,0,0,0,caught,RP Burl,Usman Ghani,31475231475
+2,Zimbabwe,16,DT Tiripano,Rashid Khan,B Mavuta,,0,1,1,,,,31475231475
+2,Zimbabwe,16,B Mavuta,Rashid Khan,DT Tiripano,,0,0,0,caught,B Mavuta,Naveen-ul-Haq,31475231475
+2,Zimbabwe,16,DT Tiripano,Rashid Khan,B Muzarabani,,0,6,6,,,,31475231475
+2,Zimbabwe,16,DT Tiripano,Rashid Khan,B Muzarabani,,0,0,0,,,,31475231475
+2,Zimbabwe,16,DT Tiripano,Rashid Khan,B Muzarabani,,0,0,0,bowled,DT Tiripano,,31475231475
+2,Zimbabwe,17,B Muzarabani,Karim Janat,R Ngarava,,0,0,0,bowled,B Muzarabani,,31475231475

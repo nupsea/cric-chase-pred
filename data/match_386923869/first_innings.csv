@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Netherlands,0,SL Kalis,Roopa Nagraj,HDJ Siegers,,0,0,0,,,,386923869
+1,Netherlands,0,SL Kalis,Roopa Nagraj,HDJ Siegers,,0,1,1,,,,386923869
+1,Netherlands,0,HDJ Siegers,Roopa Nagraj,SL Kalis,,0,0,0,,,,386923869
+1,Netherlands,0,HDJ Siegers,Roopa Nagraj,SL Kalis,,0,4,4,,,,386923869
+1,Netherlands,0,HDJ Siegers,Roopa Nagraj,SL Kalis,,0,0,0,,,,386923869
+1,Netherlands,0,HDJ Siegers,Roopa Nagraj,SL Kalis,,0,0,0,,,,386923869
+1,Netherlands,1,SL Kalis,CR Seneviratna,HDJ Siegers,,0,2,2,,,,386923869
+1,Netherlands,1,SL Kalis,CR Seneviratna,HDJ Siegers,,0,0,0,,,,386923869
+1,Netherlands,1,SL Kalis,CR Seneviratna,HDJ Siegers,,0,0,0,,,,386923869
+1,Netherlands,1,SL Kalis,CR Seneviratna,HDJ Siegers,,0,0,0,,,,386923869
+1,Netherlands,1,SL Kalis,CR Seneviratna,HDJ Siegers,,0,0,0,,,,386923869
+1,Netherlands,1,SL Kalis,CR Seneviratna,HDJ Siegers,,0,4,4,,,,386923869
+1,Netherlands,2,HDJ Siegers,Roopa Nagraj,SL Kalis,,0,0,0,,,,386923869
+1,Netherlands,2,HDJ Siegers,Roopa Nagraj,SL Kalis,,0,4,4,,,,386923869
+1,Netherlands,2,HDJ Siegers,Roopa Nagraj,SL Kalis,,0,1,1,,,,386923869
+1,Netherlands,2,SL Kalis,Roopa Nagraj,HDJ Siegers,,0,0,0,,,,386923869
+1,Netherlands,2,SL Kalis,Roopa Nagraj,HDJ Siegers,,0,0,0,,,,386923869
+1,Netherlands,2,SL Kalis,Roopa Nagraj,HDJ Siegers,,0,0,0,,,,386923869
+1,Netherlands,3,HDJ Siegers,S Venkataraman,SL Kalis,,0,0,0,,,,386923869
+1,Netherlands,3,HDJ Siegers,S Venkataraman,SL Kalis,,0,2,2,,,,386923869
+1,Netherlands,3,HDJ Siegers,S Venkataraman,SL Kalis,,0,0,0,caught,HDJ Siegers,J Cleetus,386923869
+1,Netherlands,3,D Hannema,S Venkataraman,SL Kalis,,0,0,0,,,,386923869
+1,Netherlands,3,D Hannema,S Venkataraman,SL Kalis,,0,2,2,,,,386923869
+1,Netherlands,3,D Hannema,S Venkataraman,SL Kalis,,0,0,0,,,,386923869
+1,Netherlands,4,SL Kalis,Chaya Mughal,D Hannema,,0,4,4,,,,386923869
+1,Netherlands,4,SL Kalis,Chaya Mughal,D Hannema,,0,0,0,,,,386923869
+1,Netherlands,4,SL Kalis,Chaya Mughal,D Hannema,,0,1,1,,,,386923869
+1,Netherlands,4,D Hannema,Chaya Mughal,SL Kalis,wides,1,1,0,,,,386923869
+1,Netherlands,4,D Hannema,Chaya Mughal,SL Kalis,,0,1,1,,,,386923869
+1,Netherlands,4,SL Kalis,Chaya Mughal,D Hannema,,0,1,1,,,,386923869
+1,Netherlands,4,D Hannema,Chaya Mughal,SL Kalis,,0,1,1,,,,386923869
+1,Netherlands,5,D Hannema,S Venkataraman,SL Kalis,,0,1,1,,,,386923869
+1,Netherlands,5,SL Kalis,S Venkataraman,D Hannema,,0,0,0,,,,386923869
+1,Netherlands,5,SL Kalis,S Venkataraman,D Hannema,,0,4,4,,,,386923869
+1,Netherlands,5,SL Kalis,S Venkataraman,D Hannema,,0,3,3,,,,386923869
+1,Netherlands,5,D Hannema,S Venkataraman,SL Kalis,,0,0,0,,,,386923869
+1,Netherlands,5,D Hannema,S Venkataraman,SL Kalis,,0,1,1,,,,386923869
+1,Netherlands,6,D Hannema,Nisha Ali,SL Kalis,,0,1,1,,,,386923869
+1,Netherlands,6,SL Kalis,Nisha Ali,D Hannema,,0,0,0,,,,386923869
+1,Netherlands,6,SL Kalis,Nisha Ali,D Hannema,,0,0,0,,,,386923869
+1,Netherlands,6,SL Kalis,Nisha Ali,D Hannema,,0,0,0,,,,386923869
+1,Netherlands,6,SL Kalis,Nisha Ali,D Hannema,,0,1,1,,,,386923869
+1,Netherlands,6,D Hannema,Nisha Ali,SL Kalis,,0,1,1,,,,386923869
+1,Netherlands,7,D Hannema,KKN Egodage,SL Kalis,noballs,1,2,1,,,,386923869
+1,Netherlands,7,SL Kalis,KKN Egodage,D Hannema,,0,0,0,,,,386923869
+1,Netherlands,7,SL Kalis,KKN Egodage,D Hannema,,0,1,1,,,,386923869
+1,Netherlands,7,D Hannema,KKN Egodage,SL Kalis,,0,1,1,,,,386923869
+1,Netherlands,7,SL Kalis,KKN Egodage,D Hannema,,0,4,4,,,,386923869
+1,Netherlands,7,SL Kalis,KKN Egodage,D Hannema,,0,0,0,,,,386923869
+1,Netherlands,7,SL Kalis,KKN Egodage,D Hannema,,0,4,4,,,,386923869
+1,Netherlands,8,D Hannema,Nisha Ali,SL Kalis,,0,0,0,,,,386923869
+1,Netherlands,8,D Hannema,Nisha Ali,SL Kalis,,0,1,1,,,,386923869
+1,Netherlands,8,SL Kalis,Nisha Ali,D Hannema,,0,0,0,,,,386923869
+1,Netherlands,8,SL Kalis,Nisha Ali,D Hannema,,0,4,4,,,,386923869
+1,Netherlands,8,SL Kalis,Nisha Ali,D Hannema,,0,0,0,,,,386923869
+1,Netherlands,8,SL Kalis,Nisha Ali,D Hannema,,0,0,0,,,,386923869
+1,Netherlands,9,D Hannema,CR Seneviratna,SL Kalis,,0,1,1,,,,386923869
+1,Netherlands,9,SL Kalis,CR Seneviratna,D Hannema,,0,1,1,,,,386923869
+1,Netherlands,9,D Hannema,CR Seneviratna,SL Kalis,,0,2,2,,,,386923869
+1,Netherlands,9,D Hannema,CR Seneviratna,SL Kalis,,0,0,0,,,,386923869
+1,Netherlands,9,D Hannema,CR Seneviratna,SL Kalis,,0,2,2,,,,386923869
+1,Netherlands,9,D Hannema,CR Seneviratna,SL Kalis,,0,0,0,,,,386923869
+1,Netherlands,10,SL Kalis,H Hotchandani,D Hannema,,0,0,0,,,,386923869
+1,Netherlands,10,SL Kalis,H Hotchandani,D Hannema,,0,0,0,,,,386923869
+1,Netherlands,10,SL Kalis,H Hotchandani,D Hannema,,0,2,2,,,,386923869
+1,Netherlands,10,SL Kalis,H Hotchandani,D Hannema,,0,1,1,,,,386923869
+1,Netherlands,10,D Hannema,H Hotchandani,SL Kalis,,0,0,0,,,,386923869
+1,Netherlands,10,D Hannema,H Hotchandani,SL Kalis,,0,1,1,,,,386923869
+1,Netherlands,11,D Hannema,Nisha Ali,SL Kalis,,0,1,1,,,,386923869
+1,Netherlands,11,SL Kalis,Nisha Ali,D Hannema,,0,0,0,,,,386923869
+1,Netherlands,11,SL Kalis,Nisha Ali,D Hannema,,0,1,1,,,,386923869
+1,Netherlands,11,D Hannema,Nisha Ali,SL Kalis,,0,0,0,,,,386923869
+1,Netherlands,11,D Hannema,Nisha Ali,SL Kalis,,0,2,2,,,,386923869
+1,Netherlands,11,D Hannema,Nisha Ali,SL Kalis,,0,0,0,,,,386923869
+1,Netherlands,12,SL Kalis,H Hotchandani,D Hannema,,0,2,2,,,,386923869
+1,Netherlands,12,SL Kalis,H Hotchandani,D Hannema,,0,2,2,,,,386923869
+1,Netherlands,12,SL Kalis,H Hotchandani,D Hannema,,0,2,2,,,,386923869
+1,Netherlands,12,SL Kalis,H Hotchandani,D Hannema,,0,0,0,,,,386923869
+1,Netherlands,12,SL Kalis,H Hotchandani,D Hannema,,0,1,1,,,,386923869
+1,Netherlands,12,D Hannema,H Hotchandani,SL Kalis,,0,2,2,,,,386923869
+1,Netherlands,13,SL Kalis,Humaira Tasneem,D Hannema,wides,1,1,0,,,,386923869
+1,Netherlands,13,SL Kalis,Humaira Tasneem,D Hannema,,0,4,4,,,,386923869
+1,Netherlands,13,SL Kalis,Humaira Tasneem,D Hannema,,0,4,4,,,,386923869
+1,Netherlands,13,SL Kalis,Humaira Tasneem,D Hannema,,0,0,0,,,,386923869
+1,Netherlands,13,SL Kalis,Humaira Tasneem,D Hannema,,0,0,0,,,,386923869
+1,Netherlands,13,SL Kalis,Humaira Tasneem,D Hannema,,0,4,4,,,,386923869
+1,Netherlands,13,SL Kalis,Humaira Tasneem,D Hannema,,0,1,1,,,,386923869
+1,Netherlands,14,SL Kalis,H Hotchandani,D Hannema,,0,1,1,,,,386923869
+1,Netherlands,14,D Hannema,H Hotchandani,SL Kalis,,0,0,0,,,,386923869
+1,Netherlands,14,D Hannema,H Hotchandani,SL Kalis,,0,1,1,,,,386923869
+1,Netherlands,14,SL Kalis,H Hotchandani,D Hannema,,0,1,1,,,,386923869
+1,Netherlands,14,D Hannema,H Hotchandani,SL Kalis,,0,0,0,stumped,D Hannema,J Cleetus,386923869
+1,Netherlands,14,R Rijke,H Hotchandani,SL Kalis,,0,0,0,,,,386923869
+1,Netherlands,15,SL Kalis,Nisha Ali,R Rijke,,0,2,2,,,,386923869
+1,Netherlands,15,SL Kalis,Nisha Ali,R Rijke,,0,1,1,,,,386923869
+1,Netherlands,15,R Rijke,Nisha Ali,SL Kalis,,0,0,0,,,,386923869
+1,Netherlands,15,R Rijke,Nisha Ali,SL Kalis,,0,1,1,,,,386923869
+1,Netherlands,15,SL Kalis,Nisha Ali,R Rijke,,0,1,1,,,,386923869
+1,Netherlands,15,R Rijke,Nisha Ali,SL Kalis,,0,0,0,,,,386923869
+1,Netherlands,16,SL Kalis,S Venkataraman,R Rijke,,0,0,0,,,,386923869
+1,Netherlands,16,SL Kalis,S Venkataraman,R Rijke,,0,1,1,,,,386923869
+1,Netherlands,16,R Rijke,S Venkataraman,SL Kalis,,0,0,0,,,,386923869
+1,Netherlands,16,R Rijke,S Venkataraman,SL Kalis,,0,4,4,,,,386923869
+1,Netherlands,16,R Rijke,S Venkataraman,SL Kalis,,0,1,1,,,,386923869
+1,Netherlands,16,SL Kalis,S Venkataraman,R Rijke,,0,1,1,,,,386923869
+1,Netherlands,17,SL Kalis,CR Seneviratna,R Rijke,,0,2,2,,,,386923869
+1,Netherlands,17,SL Kalis,CR Seneviratna,R Rijke,,0,1,1,,,,386923869
+1,Netherlands,17,R Rijke,CR Seneviratna,SL Kalis,,0,1,1,,,,386923869
+1,Netherlands,17,SL Kalis,CR Seneviratna,R Rijke,,0,2,2,,,,386923869
+1,Netherlands,17,SL Kalis,CR Seneviratna,R Rijke,,0,1,1,,,,386923869
+1,Netherlands,17,R Rijke,CR Seneviratna,SL Kalis,byes,2,2,0,,,,386923869
+1,Netherlands,18,SL Kalis,H Hotchandani,R Rijke,,0,1,1,,,,386923869
+1,Netherlands,18,R Rijke,H Hotchandani,SL Kalis,,0,0,0,,,,386923869
+1,Netherlands,18,R Rijke,H Hotchandani,SL Kalis,,0,0,0,caught,R Rijke,Chaya Mughal,386923869
+1,Netherlands,18,CC van Slobbe,H Hotchandani,SL Kalis,,0,0,0,,,,386923869
+1,Netherlands,18,CC van Slobbe,H Hotchandani,SL Kalis,legbyes,1,1,0,,,,386923869
+1,Netherlands,18,SL Kalis,H Hotchandani,CC van Slobbe,,0,1,1,,,,386923869
+1,Netherlands,19,SL Kalis,CR Seneviratna,CC van Slobbe,,0,2,2,,,,386923869
+1,Netherlands,19,SL Kalis,CR Seneviratna,CC van Slobbe,,0,2,2,,,,386923869
+1,Netherlands,19,SL Kalis,CR Seneviratna,CC van Slobbe,,0,4,4,,,,386923869
+1,Netherlands,19,SL Kalis,CR Seneviratna,CC van Slobbe,,0,4,4,,,,386923869
+1,Netherlands,19,SL Kalis,CR Seneviratna,CC van Slobbe,,0,1,1,,,,386923869
+1,Netherlands,19,CC van Slobbe,CR Seneviratna,SL Kalis,,0,2,2,,,,386923869

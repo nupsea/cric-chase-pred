@@ -1,0 +1,41 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,New Zealand,0,BB McCullum,CS MacLeod,JD Ryder,wides,1,1,0,,,,3672367
+2,New Zealand,0,BB McCullum,CS MacLeod,JD Ryder,,0,1,1,,,,3672367
+2,New Zealand,0,JD Ryder,CS MacLeod,BB McCullum,,0,1,1,,,,3672367
+2,New Zealand,0,BB McCullum,CS MacLeod,JD Ryder,,0,4,4,,,,3672367
+2,New Zealand,0,BB McCullum,CS MacLeod,JD Ryder,,0,4,4,,,,3672367
+2,New Zealand,0,BB McCullum,CS MacLeod,JD Ryder,,0,4,4,,,,3672367
+2,New Zealand,0,BB McCullum,CS MacLeod,JD Ryder,,0,4,4,,,,3672367
+2,New Zealand,1,JD Ryder,GD Drummond,BB McCullum,,0,3,3,,,,3672367
+2,New Zealand,1,BB McCullum,GD Drummond,JD Ryder,,0,1,1,,,,3672367
+2,New Zealand,1,JD Ryder,GD Drummond,BB McCullum,noballs,1,1,0,,,,3672367
+2,New Zealand,1,JD Ryder,GD Drummond,BB McCullum,,0,0,0,,,,3672367
+2,New Zealand,1,JD Ryder,GD Drummond,BB McCullum,,0,4,4,,,,3672367
+2,New Zealand,1,JD Ryder,GD Drummond,BB McCullum,,0,2,2,,,,3672367
+2,New Zealand,1,JD Ryder,GD Drummond,BB McCullum,,0,1,1,,,,3672367
+2,New Zealand,2,JD Ryder,CM Wright,BB McCullum,,0,6,6,,,,3672367
+2,New Zealand,2,JD Ryder,CM Wright,BB McCullum,,0,4,4,,,,3672367
+2,New Zealand,2,JD Ryder,CM Wright,BB McCullum,,0,4,4,,,,3672367
+2,New Zealand,2,JD Ryder,CM Wright,BB McCullum,,0,6,6,,,,3672367
+2,New Zealand,2,JD Ryder,CM Wright,BB McCullum,,0,0,0,caught,JD Ryder,CS MacLeod,3672367
+2,New Zealand,2,BB McCullum,CM Wright,LRPL Taylor,,0,0,0,,,,3672367
+2,New Zealand,3,LRPL Taylor,GD Drummond,BB McCullum,,0,4,4,,,,3672367
+2,New Zealand,3,LRPL Taylor,GD Drummond,BB McCullum,noballs,1,3,2,,,,3672367
+2,New Zealand,3,LRPL Taylor,GD Drummond,BB McCullum,,0,1,1,run out,BB McCullum,CJO Smith,3672367
+2,New Zealand,3,JDP Oram,GD Drummond,LRPL Taylor,,0,1,1,,,,3672367
+2,New Zealand,3,LRPL Taylor,GD Drummond,JDP Oram,,0,1,1,,,,3672367
+2,New Zealand,3,JDP Oram,GD Drummond,LRPL Taylor,,0,2,2,,,,3672367
+2,New Zealand,3,JDP Oram,GD Drummond,LRPL Taylor,,0,1,1,,,,3672367
+2,New Zealand,4,JDP Oram,RR Watson,LRPL Taylor,,0,0,0,,,,3672367
+2,New Zealand,4,JDP Oram,RR Watson,LRPL Taylor,,0,4,4,,,,3672367
+2,New Zealand,4,JDP Oram,RR Watson,LRPL Taylor,,0,0,0,caught,JDP Oram,JH Stander,3672367
+2,New Zealand,4,LRPL Taylor,RR Watson,SB Styris,,0,0,0,,,,3672367
+2,New Zealand,4,LRPL Taylor,RR Watson,SB Styris,,0,0,0,,,,3672367
+2,New Zealand,4,LRPL Taylor,RR Watson,SB Styris,,0,0,0,,,,3672367
+2,New Zealand,5,SB Styris,JH Stander,LRPL Taylor,noballs,1,2,1,,,,3672367
+2,New Zealand,5,LRPL Taylor,JH Stander,SB Styris,,0,6,6,,,,3672367
+2,New Zealand,5,LRPL Taylor,JH Stander,SB Styris,,0,6,6,,,,3672367
+2,New Zealand,5,LRPL Taylor,JH Stander,SB Styris,,0,1,1,,,,3672367
+2,New Zealand,5,SB Styris,JH Stander,LRPL Taylor,,0,6,6,,,,3672367
+2,New Zealand,5,SB Styris,JH Stander,LRPL Taylor,,0,0,0,,,,3672367
+2,New Zealand,5,SB Styris,JH Stander,LRPL Taylor,,0,1,1,,,,3672367

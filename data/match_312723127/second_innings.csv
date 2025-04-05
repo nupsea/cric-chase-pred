@@ -1,0 +1,115 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,India,0,M Vijay,DP Nannes,G Gambhir,,0,0,0,,,,312723127
+2,India,0,M Vijay,DP Nannes,G Gambhir,,0,0,0,,,,312723127
+2,India,0,M Vijay,DP Nannes,G Gambhir,,0,0,0,,,,312723127
+2,India,0,M Vijay,DP Nannes,G Gambhir,,0,0,0,,,,312723127
+2,India,0,M Vijay,DP Nannes,G Gambhir,,0,2,2,,,,312723127
+2,India,0,M Vijay,DP Nannes,G Gambhir,,0,0,0,,,,312723127
+2,India,1,G Gambhir,SW Tait,M Vijay,,0,4,4,,,,312723127
+2,India,1,G Gambhir,SW Tait,M Vijay,,0,0,0,,,,312723127
+2,India,1,G Gambhir,SW Tait,M Vijay,,0,4,4,,,,312723127
+2,India,1,G Gambhir,SW Tait,M Vijay,,0,0,0,,,,312723127
+2,India,1,G Gambhir,SW Tait,M Vijay,,0,0,0,,,,312723127
+2,India,1,G Gambhir,SW Tait,M Vijay,,0,0,0,,,,312723127
+2,India,2,M Vijay,DP Nannes,G Gambhir,,0,0,0,caught,M Vijay,CL White,312723127
+2,India,2,G Gambhir,DP Nannes,SK Raina,,0,1,1,,,,312723127
+2,India,2,SK Raina,DP Nannes,G Gambhir,,0,1,1,,,,312723127
+2,India,2,G Gambhir,DP Nannes,SK Raina,,0,0,0,,,,312723127
+2,India,2,G Gambhir,DP Nannes,SK Raina,,0,0,0,,,,312723127
+2,India,2,G Gambhir,DP Nannes,SK Raina,,0,0,0,caught,G Gambhir,MEK Hussey,312723127
+2,India,3,SK Raina,SW Tait,RG Sharma,,0,0,0,,,,312723127
+2,India,3,SK Raina,SW Tait,RG Sharma,wides,1,1,0,,,,312723127
+2,India,3,SK Raina,SW Tait,RG Sharma,,0,0,0,,,,312723127
+2,India,3,SK Raina,SW Tait,RG Sharma,,0,4,4,,,,312723127
+2,India,3,SK Raina,SW Tait,RG Sharma,,0,0,0,caught,SK Raina,MJ Clarke,312723127
+2,India,3,RG Sharma,SW Tait,Yuvraj Singh,,0,0,0,,,,312723127
+2,India,3,RG Sharma,SW Tait,Yuvraj Singh,,0,0,0,,,,312723127
+2,India,4,Yuvraj Singh,DP Nannes,RG Sharma,,0,1,1,,,,312723127
+2,India,4,RG Sharma,DP Nannes,Yuvraj Singh,,0,0,0,,,,312723127
+2,India,4,RG Sharma,DP Nannes,Yuvraj Singh,,0,4,4,,,,312723127
+2,India,4,RG Sharma,DP Nannes,Yuvraj Singh,,0,0,0,,,,312723127
+2,India,4,RG Sharma,DP Nannes,Yuvraj Singh,,0,1,1,,,,312723127
+2,India,4,Yuvraj Singh,DP Nannes,RG Sharma,,0,0,0,bowled,Yuvraj Singh,,312723127
+2,India,5,RG Sharma,SR Watson,MS Dhoni,,0,0,0,,,,312723127
+2,India,5,RG Sharma,SR Watson,MS Dhoni,,0,0,0,,,,312723127
+2,India,5,RG Sharma,SR Watson,MS Dhoni,,0,0,0,,,,312723127
+2,India,5,RG Sharma,SR Watson,MS Dhoni,,0,1,1,,,,312723127
+2,India,5,MS Dhoni,SR Watson,RG Sharma,,0,0,0,,,,312723127
+2,India,5,MS Dhoni,SR Watson,RG Sharma,,0,0,0,,,,312723127
+2,India,6,RG Sharma,MG Johnson,MS Dhoni,,0,0,0,,,,312723127
+2,India,6,RG Sharma,MG Johnson,MS Dhoni,,0,2,2,,,,312723127
+2,India,6,RG Sharma,MG Johnson,MS Dhoni,,0,1,1,,,,312723127
+2,India,6,MS Dhoni,MG Johnson,RG Sharma,,0,0,0,,,,312723127
+2,India,6,MS Dhoni,MG Johnson,RG Sharma,wides,1,1,0,,,,312723127
+2,India,6,MS Dhoni,MG Johnson,RG Sharma,,0,1,1,,,,312723127
+2,India,6,RG Sharma,MG Johnson,MS Dhoni,,0,6,6,,,,312723127
+2,India,7,MS Dhoni,SPD Smith,RG Sharma,,0,0,0,,,,312723127
+2,India,7,MS Dhoni,SPD Smith,RG Sharma,,0,0,0,,,,312723127
+2,India,7,MS Dhoni,SPD Smith,RG Sharma,,0,1,1,,,,312723127
+2,India,7,RG Sharma,SPD Smith,MS Dhoni,,0,1,1,,,,312723127
+2,India,7,MS Dhoni,SPD Smith,RG Sharma,,0,0,0,caught,MS Dhoni,DJ Hussey,312723127
+2,India,7,YK Pathan,SPD Smith,RG Sharma,,0,0,0,,,,312723127
+2,India,8,RG Sharma,MG Johnson,YK Pathan,,0,1,1,,,,312723127
+2,India,8,YK Pathan,MG Johnson,RG Sharma,,0,0,0,,,,312723127
+2,India,8,YK Pathan,MG Johnson,RG Sharma,wides,1,1,0,,,,312723127
+2,India,8,YK Pathan,MG Johnson,RG Sharma,,0,0,0,,,,312723127
+2,India,8,YK Pathan,MG Johnson,RG Sharma,wides,1,1,0,,,,312723127
+2,India,8,YK Pathan,MG Johnson,RG Sharma,,0,1,1,,,,312723127
+2,India,8,RG Sharma,MG Johnson,YK Pathan,,0,1,1,,,,312723127
+2,India,8,YK Pathan,MG Johnson,RG Sharma,,0,0,0,caught,YK Pathan,DA Warner,312723127
+2,India,9,RA Jadeja,SPD Smith,RG Sharma,,0,1,1,,,,312723127
+2,India,9,RG Sharma,SPD Smith,RA Jadeja,,0,1,1,,,,312723127
+2,India,9,RA Jadeja,SPD Smith,RG Sharma,,0,1,1,,,,312723127
+2,India,9,RG Sharma,SPD Smith,RA Jadeja,,0,1,1,,,,312723127
+2,India,9,RA Jadeja,SPD Smith,RG Sharma,,0,1,1,,,,312723127
+2,India,9,RG Sharma,SPD Smith,RA Jadeja,,0,0,0,,,,312723127
+2,India,10,RA Jadeja,SR Watson,RG Sharma,,0,1,1,,,,312723127
+2,India,10,RG Sharma,SR Watson,RA Jadeja,,0,1,1,,,,312723127
+2,India,10,RA Jadeja,SR Watson,RG Sharma,wides,1,1,0,,,,312723127
+2,India,10,RA Jadeja,SR Watson,RG Sharma,,0,0,0,run out,RA Jadeja,DJ Hussey,312723127
+2,India,10,RG Sharma,SR Watson,Harbhajan Singh,,0,6,6,,,,312723127
+2,India,10,RG Sharma,SR Watson,Harbhajan Singh,,0,0,0,,,,312723127
+2,India,10,RG Sharma,SR Watson,Harbhajan Singh,,0,4,4,,,,312723127
+2,India,11,Harbhajan Singh,SW Tait,RG Sharma,,0,1,1,,,,312723127
+2,India,11,RG Sharma,SW Tait,Harbhajan Singh,,0,0,0,,,,312723127
+2,India,11,RG Sharma,SW Tait,Harbhajan Singh,wides,1,1,0,,,,312723127
+2,India,11,RG Sharma,SW Tait,Harbhajan Singh,,0,2,2,,,,312723127
+2,India,11,RG Sharma,SW Tait,Harbhajan Singh,,0,1,1,,,,312723127
+2,India,11,Harbhajan Singh,SW Tait,RG Sharma,,0,0,0,,,,312723127
+2,India,11,Harbhajan Singh,SW Tait,RG Sharma,,0,0,0,,,,312723127
+2,India,12,RG Sharma,MG Johnson,Harbhajan Singh,,0,1,1,,,,312723127
+2,India,12,Harbhajan Singh,MG Johnson,RG Sharma,,0,0,0,,,,312723127
+2,India,12,Harbhajan Singh,MG Johnson,RG Sharma,,0,2,2,,,,312723127
+2,India,12,Harbhajan Singh,MG Johnson,RG Sharma,,0,4,4,,,,312723127
+2,India,12,Harbhajan Singh,MG Johnson,RG Sharma,,0,0,0,,,,312723127
+2,India,12,Harbhajan Singh,MG Johnson,RG Sharma,legbyes,1,1,0,,,,312723127
+2,India,13,Harbhajan Singh,SPD Smith,RG Sharma,wides,2,2,0,,,,312723127
+2,India,13,RG Sharma,SPD Smith,Harbhajan Singh,,0,6,6,,,,312723127
+2,India,13,RG Sharma,SPD Smith,Harbhajan Singh,,0,0,0,,,,312723127
+2,India,13,RG Sharma,SPD Smith,Harbhajan Singh,,0,2,2,,,,312723127
+2,India,13,RG Sharma,SPD Smith,Harbhajan Singh,,0,6,6,,,,312723127
+2,India,13,RG Sharma,SPD Smith,Harbhajan Singh,,0,1,1,,,,312723127
+2,India,13,Harbhajan Singh,SPD Smith,RG Sharma,,0,0,0,,,,312723127
+2,India,14,RG Sharma,SR Watson,Harbhajan Singh,,0,1,1,,,,312723127
+2,India,14,Harbhajan Singh,SR Watson,RG Sharma,,0,6,6,,,,312723127
+2,India,14,Harbhajan Singh,SR Watson,RG Sharma,,0,0,0,caught,Harbhajan Singh,DJ Hussey,312723127
+2,India,14,RG Sharma,SR Watson,Z Khan,,0,0,0,,,,312723127
+2,India,14,RG Sharma,SR Watson,Z Khan,,0,4,4,,,,312723127
+2,India,14,RG Sharma,SR Watson,Z Khan,,0,6,6,,,,312723127
+2,India,15,Z Khan,SPD Smith,RG Sharma,,0,0,0,,,,312723127
+2,India,15,Z Khan,SPD Smith,RG Sharma,,0,6,6,,,,312723127
+2,India,15,Z Khan,SPD Smith,RG Sharma,,0,2,2,,,,312723127
+2,India,15,Z Khan,SPD Smith,RG Sharma,,0,1,1,,,,312723127
+2,India,15,RG Sharma,SPD Smith,Z Khan,,0,1,1,,,,312723127
+2,India,15,Z Khan,SPD Smith,RG Sharma,,0,0,0,,,,312723127
+2,India,16,RG Sharma,DP Nannes,Z Khan,,0,2,2,,,,312723127
+2,India,16,RG Sharma,DP Nannes,Z Khan,,0,4,4,,,,312723127
+2,India,16,RG Sharma,DP Nannes,Z Khan,,0,2,2,,,,312723127
+2,India,16,RG Sharma,DP Nannes,Z Khan,,0,6,6,,,,312723127
+2,India,16,RG Sharma,DP Nannes,Z Khan,,0,0,0,,,,312723127
+2,India,16,RG Sharma,DP Nannes,Z Khan,,0,1,1,,,,312723127
+2,India,17,RG Sharma,SW Tait,Z Khan,,0,1,1,,,,312723127
+2,India,17,Z Khan,SW Tait,RG Sharma,,0,0,0,caught,Z Khan,MJ Clarke,312723127
+2,India,17,RG Sharma,SW Tait,A Nehra,wides,1,1,0,,,,312723127
+2,India,17,RG Sharma,SW Tait,A Nehra,,0,1,1,,,,312723127
+2,India,17,A Nehra,SW Tait,RG Sharma,,0,0,0,bowled,A Nehra,,312723127

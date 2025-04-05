@@ -1,0 +1,80 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,West Indies,0,SD Hope,DJ Willey,JD Campbell,,0,0,0,caught,SD Hope,AD Hales,395423954
+1,West Indies,0,SO Hetmyer,DJ Willey,JD Campbell,,0,1,1,,,,395423954
+1,West Indies,0,JD Campbell,DJ Willey,SO Hetmyer,,0,0,0,,,,395423954
+1,West Indies,0,JD Campbell,DJ Willey,SO Hetmyer,,0,0,0,,,,395423954
+1,West Indies,0,JD Campbell,DJ Willey,SO Hetmyer,,0,0,0,,,,395423954
+1,West Indies,0,JD Campbell,DJ Willey,SO Hetmyer,,0,0,0,,,,395423954
+1,West Indies,1,SO Hetmyer,TK Curran,JD Campbell,,0,4,4,,,,395423954
+1,West Indies,1,SO Hetmyer,TK Curran,JD Campbell,,0,0,0,,,,395423954
+1,West Indies,1,SO Hetmyer,TK Curran,JD Campbell,,0,1,1,,,,395423954
+1,West Indies,1,JD Campbell,TK Curran,SO Hetmyer,,0,1,1,,,,395423954
+1,West Indies,1,SO Hetmyer,TK Curran,JD Campbell,,0,2,2,,,,395423954
+1,West Indies,1,SO Hetmyer,TK Curran,JD Campbell,,0,0,0,,,,395423954
+1,West Indies,2,JD Campbell,DJ Willey,SO Hetmyer,,0,0,0,,,,395423954
+1,West Indies,2,JD Campbell,DJ Willey,SO Hetmyer,,0,0,0,,,,395423954
+1,West Indies,2,JD Campbell,DJ Willey,SO Hetmyer,,0,1,1,,,,395423954
+1,West Indies,2,SO Hetmyer,DJ Willey,JD Campbell,,0,0,0,caught,SO Hetmyer,CJ Jordan,395423954
+1,West Indies,2,DM Bravo,DJ Willey,JD Campbell,,0,0,0,,,,395423954
+1,West Indies,2,DM Bravo,DJ Willey,JD Campbell,,0,4,4,,,,395423954
+1,West Indies,3,JD Campbell,CJ Jordan,DM Bravo,,0,0,0,,,,395423954
+1,West Indies,3,JD Campbell,CJ Jordan,DM Bravo,,0,4,4,,,,395423954
+1,West Indies,3,JD Campbell,CJ Jordan,DM Bravo,,0,0,0,,,,395423954
+1,West Indies,3,JD Campbell,CJ Jordan,DM Bravo,,0,4,4,,,,395423954
+1,West Indies,3,JD Campbell,CJ Jordan,DM Bravo,,0,1,1,,,,395423954
+1,West Indies,3,DM Bravo,CJ Jordan,JD Campbell,wides,1,1,0,,,,395423954
+1,West Indies,3,DM Bravo,CJ Jordan,JD Campbell,,0,0,0,,,,395423954
+1,West Indies,4,JD Campbell,DJ Willey,DM Bravo,,0,0,0,caught,JD Campbell,JL Denly,395423954
+1,West Indies,4,DM Bravo,DJ Willey,JO Holder,,0,0,0,,,,395423954
+1,West Indies,4,DM Bravo,DJ Willey,JO Holder,,0,0,0,caught,DM Bravo,JM Bairstow,395423954
+1,West Indies,4,N Pooran,DJ Willey,JO Holder,,0,0,0,,,,395423954
+1,West Indies,4,N Pooran,DJ Willey,JO Holder,,0,1,1,,,,395423954
+1,West Indies,4,JO Holder,DJ Willey,N Pooran,,0,0,0,,,,395423954
+1,West Indies,5,N Pooran,CJ Jordan,JO Holder,,0,1,1,,,,395423954
+1,West Indies,5,JO Holder,CJ Jordan,N Pooran,byes,1,1,0,,,,395423954
+1,West Indies,5,N Pooran,CJ Jordan,JO Holder,,0,0,0,,,,395423954
+1,West Indies,5,N Pooran,CJ Jordan,JO Holder,,0,1,1,,,,395423954
+1,West Indies,5,JO Holder,CJ Jordan,N Pooran,,0,1,1,,,,395423954
+1,West Indies,5,N Pooran,CJ Jordan,JO Holder,,0,1,1,,,,395423954
+1,West Indies,6,N Pooran,JL Denly,JO Holder,,0,1,1,,,,395423954
+1,West Indies,6,JO Holder,JL Denly,N Pooran,,0,1,1,,,,395423954
+1,West Indies,6,N Pooran,JL Denly,JO Holder,,0,0,0,,,,395423954
+1,West Indies,6,N Pooran,JL Denly,JO Holder,,0,1,1,,,,395423954
+1,West Indies,6,JO Holder,JL Denly,N Pooran,,0,0,0,,,,395423954
+1,West Indies,6,JO Holder,JL Denly,N Pooran,,0,1,1,,,,395423954
+1,West Indies,7,JO Holder,MA Wood,N Pooran,,0,0,0,,,,395423954
+1,West Indies,7,JO Holder,MA Wood,N Pooran,,0,0,0,,,,395423954
+1,West Indies,7,JO Holder,MA Wood,N Pooran,,0,0,0,,,,395423954
+1,West Indies,7,JO Holder,MA Wood,N Pooran,,0,1,1,,,,395423954
+1,West Indies,7,N Pooran,MA Wood,JO Holder,,0,0,0,,,,395423954
+1,West Indies,7,N Pooran,MA Wood,JO Holder,,0,1,1,,,,395423954
+1,West Indies,8,N Pooran,JL Denly,JO Holder,,0,1,1,,,,395423954
+1,West Indies,8,JO Holder,JL Denly,N Pooran,,0,1,1,,,,395423954
+1,West Indies,8,N Pooran,JL Denly,JO Holder,,0,1,1,,,,395423954
+1,West Indies,8,JO Holder,JL Denly,N Pooran,,0,6,6,,,,395423954
+1,West Indies,8,JO Holder,JL Denly,N Pooran,,0,0,0,caught,JO Holder,CJ Jordan,395423954
+1,West Indies,8,N Pooran,JL Denly,FA Allen,,0,1,1,,,,395423954
+1,West Indies,9,N Pooran,MA Wood,FA Allen,,0,1,1,,,,395423954
+1,West Indies,9,FA Allen,MA Wood,N Pooran,,0,1,1,,,,395423954
+1,West Indies,9,N Pooran,MA Wood,FA Allen,,0,0,0,,,,395423954
+1,West Indies,9,N Pooran,MA Wood,FA Allen,,0,0,0,caught,N Pooran,CJ Jordan,395423954
+1,West Indies,9,CR Brathwaite,MA Wood,FA Allen,,0,0,0,,,,395423954
+1,West Indies,9,CR Brathwaite,MA Wood,FA Allen,,0,0,0,,,,395423954
+1,West Indies,10,FA Allen,AU Rashid,CR Brathwaite,,0,0,0,,,,395423954
+1,West Indies,10,FA Allen,AU Rashid,CR Brathwaite,,0,6,6,,,,395423954
+1,West Indies,10,FA Allen,AU Rashid,CR Brathwaite,,0,0,0,bowled,FA Allen,,395423954
+1,West Indies,10,D Bishoo,AU Rashid,CR Brathwaite,,0,1,1,,,,395423954
+1,West Indies,10,CR Brathwaite,AU Rashid,D Bishoo,,0,0,0,,,,395423954
+1,West Indies,10,CR Brathwaite,AU Rashid,D Bishoo,,0,0,0,,,,395423954
+1,West Indies,11,D Bishoo,MA Wood,CR Brathwaite,,0,1,1,,,,395423954
+1,West Indies,11,CR Brathwaite,MA Wood,D Bishoo,,0,0,0,caught,CR Brathwaite,JM Bairstow,395423954
+1,West Indies,11,SS Cottrell,MA Wood,D Bishoo,,0,4,4,,,,395423954
+1,West Indies,11,SS Cottrell,MA Wood,D Bishoo,,0,0,0,,,,395423954
+1,West Indies,11,SS Cottrell,MA Wood,D Bishoo,,0,0,0,bowled,SS Cottrell,,395423954
+1,West Indies,11,OC McCoy,MA Wood,D Bishoo,,0,0,0,,,,395423954
+1,West Indies,12,D Bishoo,AU Rashid,OC McCoy,,0,1,1,,,,395423954
+1,West Indies,12,OC McCoy,AU Rashid,D Bishoo,,0,0,0,,,,395423954
+1,West Indies,12,OC McCoy,AU Rashid,D Bishoo,,0,6,6,,,,395423954
+1,West Indies,12,OC McCoy,AU Rashid,D Bishoo,,0,4,4,,,,395423954
+1,West Indies,12,OC McCoy,AU Rashid,D Bishoo,,0,0,0,,,,395423954
+1,West Indies,12,OC McCoy,AU Rashid,D Bishoo,,0,0,0,bowled,OC McCoy,,395423954

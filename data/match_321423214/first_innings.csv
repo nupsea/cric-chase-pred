@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,West Indies,0,LMP Simmons,Abdur Razzak,AB Barath,,0,0,0,,,,321423214
+1,West Indies,0,LMP Simmons,Abdur Razzak,AB Barath,,0,1,1,,,,321423214
+1,West Indies,0,AB Barath,Abdur Razzak,LMP Simmons,,0,0,0,,,,321423214
+1,West Indies,0,AB Barath,Abdur Razzak,LMP Simmons,,0,0,0,,,,321423214
+1,West Indies,0,AB Barath,Abdur Razzak,LMP Simmons,,0,1,1,,,,321423214
+1,West Indies,0,LMP Simmons,Abdur Razzak,AB Barath,,0,0,0,,,,321423214
+1,West Indies,1,AB Barath,Shafiul Islam,LMP Simmons,,0,4,4,,,,321423214
+1,West Indies,1,AB Barath,Shafiul Islam,LMP Simmons,,0,0,0,,,,321423214
+1,West Indies,1,AB Barath,Shafiul Islam,LMP Simmons,,0,0,0,,,,321423214
+1,West Indies,1,AB Barath,Shafiul Islam,LMP Simmons,legbyes,4,4,0,,,,321423214
+1,West Indies,1,AB Barath,Shafiul Islam,LMP Simmons,,0,0,0,,,,321423214
+1,West Indies,1,AB Barath,Shafiul Islam,LMP Simmons,wides,1,1,0,,,,321423214
+1,West Indies,1,AB Barath,Shafiul Islam,LMP Simmons,,0,0,0,,,,321423214
+1,West Indies,2,LMP Simmons,Abdur Razzak,AB Barath,,0,1,1,,,,321423214
+1,West Indies,2,AB Barath,Abdur Razzak,LMP Simmons,,0,2,2,,,,321423214
+1,West Indies,2,AB Barath,Abdur Razzak,LMP Simmons,wides,1,1,0,,,,321423214
+1,West Indies,2,AB Barath,Abdur Razzak,LMP Simmons,,0,4,4,,,,321423214
+1,West Indies,2,AB Barath,Abdur Razzak,LMP Simmons,,0,0,0,,,,321423214
+1,West Indies,2,AB Barath,Abdur Razzak,LMP Simmons,,0,2,2,,,,321423214
+1,West Indies,2,AB Barath,Abdur Razzak,LMP Simmons,,0,0,0,,,,321423214
+1,West Indies,3,LMP Simmons,Rubel Hossain,AB Barath,,0,1,1,,,,321423214
+1,West Indies,3,AB Barath,Rubel Hossain,LMP Simmons,,0,0,0,,,,321423214
+1,West Indies,3,AB Barath,Rubel Hossain,LMP Simmons,,0,0,0,,,,321423214
+1,West Indies,3,AB Barath,Rubel Hossain,LMP Simmons,,0,1,1,,,,321423214
+1,West Indies,3,LMP Simmons,Rubel Hossain,AB Barath,,0,1,1,,,,321423214
+1,West Indies,3,AB Barath,Rubel Hossain,LMP Simmons,,0,1,1,,,,321423214
+1,West Indies,4,AB Barath,Shakib Al Hasan,LMP Simmons,,0,0,0,,,,321423214
+1,West Indies,4,AB Barath,Shakib Al Hasan,LMP Simmons,,0,0,0,caught,AB Barath,Tamim Iqbal,321423214
+1,West Indies,4,LMP Simmons,Shakib Al Hasan,MN Samuels,,0,0,0,,,,321423214
+1,West Indies,4,LMP Simmons,Shakib Al Hasan,MN Samuels,,0,0,0,,,,321423214
+1,West Indies,4,LMP Simmons,Shakib Al Hasan,MN Samuels,,0,4,4,,,,321423214
+1,West Indies,4,LMP Simmons,Shakib Al Hasan,MN Samuels,,0,1,1,,,,321423214
+1,West Indies,5,LMP Simmons,Rubel Hossain,MN Samuels,,0,0,0,,,,321423214
+1,West Indies,5,LMP Simmons,Rubel Hossain,MN Samuels,,0,4,4,,,,321423214
+1,West Indies,5,LMP Simmons,Rubel Hossain,MN Samuels,,0,1,1,,,,321423214
+1,West Indies,5,MN Samuels,Rubel Hossain,LMP Simmons,,0,6,6,,,,321423214
+1,West Indies,5,MN Samuels,Rubel Hossain,LMP Simmons,,0,0,0,,,,321423214
+1,West Indies,5,MN Samuels,Rubel Hossain,LMP Simmons,,0,6,6,,,,321423214
+1,West Indies,6,LMP Simmons,Shakib Al Hasan,MN Samuels,,0,0,0,,,,321423214
+1,West Indies,6,LMP Simmons,Shakib Al Hasan,MN Samuels,legbyes,1,1,0,,,,321423214
+1,West Indies,6,MN Samuels,Shakib Al Hasan,LMP Simmons,,0,0,0,,,,321423214
+1,West Indies,6,MN Samuels,Shakib Al Hasan,LMP Simmons,,0,1,1,,,,321423214
+1,West Indies,6,LMP Simmons,Shakib Al Hasan,MN Samuels,,0,0,0,,,,321423214
+1,West Indies,6,LMP Simmons,Shakib Al Hasan,MN Samuels,,0,1,1,,,,321423214
+1,West Indies,7,LMP Simmons,Shafiul Islam,MN Samuels,,0,1,1,,,,321423214
+1,West Indies,7,MN Samuels,Shafiul Islam,LMP Simmons,,0,1,1,,,,321423214
+1,West Indies,7,LMP Simmons,Shafiul Islam,MN Samuels,,0,1,1,,,,321423214
+1,West Indies,7,MN Samuels,Shafiul Islam,LMP Simmons,,0,1,1,,,,321423214
+1,West Indies,7,LMP Simmons,Shafiul Islam,MN Samuels,,0,0,0,,,,321423214
+1,West Indies,7,LMP Simmons,Shafiul Islam,MN Samuels,,0,0,0,,,,321423214
+1,West Indies,8,MN Samuels,Abdur Razzak,LMP Simmons,,0,0,0,,,,321423214
+1,West Indies,8,MN Samuels,Abdur Razzak,LMP Simmons,,0,0,0,,,,321423214
+1,West Indies,8,MN Samuels,Abdur Razzak,LMP Simmons,,0,1,1,,,,321423214
+1,West Indies,8,LMP Simmons,Abdur Razzak,MN Samuels,,0,0,0,,,,321423214
+1,West Indies,8,LMP Simmons,Abdur Razzak,MN Samuels,,0,6,6,,,,321423214
+1,West Indies,8,LMP Simmons,Abdur Razzak,MN Samuels,,0,0,0,lbw,LMP Simmons,,321423214
+1,West Indies,9,MN Samuels,Naeem Islam,AD Russell,,0,0,0,,,,321423214
+1,West Indies,9,MN Samuels,Naeem Islam,AD Russell,,0,0,0,,,,321423214
+1,West Indies,9,MN Samuels,Naeem Islam,AD Russell,,0,1,1,,,,321423214
+1,West Indies,9,AD Russell,Naeem Islam,MN Samuels,,0,0,0,,,,321423214
+1,West Indies,9,AD Russell,Naeem Islam,MN Samuels,,0,1,1,,,,321423214
+1,West Indies,9,MN Samuels,Naeem Islam,AD Russell,wides,1,1,0,,,,321423214
+1,West Indies,9,MN Samuels,Naeem Islam,AD Russell,,0,1,1,,,,321423214
+1,West Indies,10,MN Samuels,Rubel Hossain,AD Russell,,0,2,2,,,,321423214
+1,West Indies,10,MN Samuels,Rubel Hossain,AD Russell,,0,1,1,,,,321423214
+1,West Indies,10,AD Russell,Rubel Hossain,MN Samuels,,0,0,0,,,,321423214
+1,West Indies,10,AD Russell,Rubel Hossain,MN Samuels,,0,1,1,,,,321423214
+1,West Indies,10,MN Samuels,Rubel Hossain,AD Russell,,0,1,1,,,,321423214
+1,West Indies,10,AD Russell,Rubel Hossain,MN Samuels,,0,0,0,,,,321423214
+1,West Indies,11,MN Samuels,Naeem Islam,AD Russell,,0,1,1,,,,321423214
+1,West Indies,11,AD Russell,Naeem Islam,MN Samuels,,0,0,0,,,,321423214
+1,West Indies,11,AD Russell,Naeem Islam,MN Samuels,,0,1,1,,,,321423214
+1,West Indies,11,MN Samuels,Naeem Islam,AD Russell,,0,4,4,,,,321423214
+1,West Indies,11,MN Samuels,Naeem Islam,AD Russell,,0,1,1,,,,321423214
+1,West Indies,11,AD Russell,Naeem Islam,MN Samuels,,0,0,0,,,,321423214
+1,West Indies,12,MN Samuels,Shafiul Islam,AD Russell,,0,1,1,,,,321423214
+1,West Indies,12,AD Russell,Shafiul Islam,MN Samuels,,0,0,0,,,,321423214
+1,West Indies,12,AD Russell,Shafiul Islam,MN Samuels,,0,1,1,,,,321423214
+1,West Indies,12,MN Samuels,Shafiul Islam,AD Russell,,0,0,0,,,,321423214
+1,West Indies,12,MN Samuels,Shafiul Islam,AD Russell,,0,2,2,,,,321423214
+1,West Indies,12,MN Samuels,Shafiul Islam,AD Russell,,0,2,2,,,,321423214
+1,West Indies,13,AD Russell,Shakib Al Hasan,MN Samuels,,0,1,1,,,,321423214
+1,West Indies,13,MN Samuels,Shakib Al Hasan,AD Russell,,0,4,4,,,,321423214
+1,West Indies,13,MN Samuels,Shakib Al Hasan,AD Russell,,0,1,1,,,,321423214
+1,West Indies,13,AD Russell,Shakib Al Hasan,MN Samuels,,0,0,0,caught,AD Russell,Naeem Islam,321423214
+1,West Indies,13,MN Samuels,Shakib Al Hasan,DM Bravo,,0,0,0,,,,321423214
+1,West Indies,13,MN Samuels,Shakib Al Hasan,DM Bravo,,0,0,0,,,,321423214
+1,West Indies,14,DM Bravo,Naeem Islam,MN Samuels,,0,1,1,,,,321423214
+1,West Indies,14,MN Samuels,Naeem Islam,DM Bravo,,0,0,0,,,,321423214
+1,West Indies,14,MN Samuels,Naeem Islam,DM Bravo,,0,6,6,,,,321423214
+1,West Indies,14,MN Samuels,Naeem Islam,DM Bravo,,0,1,1,,,,321423214
+1,West Indies,14,DM Bravo,Naeem Islam,MN Samuels,,0,0,0,,,,321423214
+1,West Indies,14,DM Bravo,Naeem Islam,MN Samuels,,0,0,0,,,,321423214
+1,West Indies,15,MN Samuels,Abdur Razzak,DM Bravo,,0,0,0,,,,321423214
+1,West Indies,15,MN Samuels,Abdur Razzak,DM Bravo,,0,1,1,,,,321423214
+1,West Indies,15,DM Bravo,Abdur Razzak,MN Samuels,,0,6,6,,,,321423214
+1,West Indies,15,DM Bravo,Abdur Razzak,MN Samuels,,0,0,0,,,,321423214
+1,West Indies,15,DM Bravo,Abdur Razzak,MN Samuels,wides,1,1,0,,,,321423214
+1,West Indies,15,DM Bravo,Abdur Razzak,MN Samuels,,0,0,0,lbw,DM Bravo,,321423214
+1,West Indies,15,DP Hyatt,Abdur Razzak,MN Samuels,,0,0,0,,,,321423214
+1,West Indies,16,MN Samuels,Rubel Hossain,DP Hyatt,,0,2,2,,,,321423214
+1,West Indies,16,MN Samuels,Rubel Hossain,DP Hyatt,,0,0,0,,,,321423214
+1,West Indies,16,MN Samuels,Rubel Hossain,DP Hyatt,,0,1,1,,,,321423214
+1,West Indies,16,DP Hyatt,Rubel Hossain,MN Samuels,,0,2,2,,,,321423214
+1,West Indies,16,DP Hyatt,Rubel Hossain,MN Samuels,,0,0,0,lbw,DP Hyatt,,321423214
+1,West Indies,16,DJG Sammy,Rubel Hossain,MN Samuels,,0,1,1,,,,321423214
+1,West Indies,17,DJG Sammy,Naeem Islam,MN Samuels,,0,0,0,caught,DJG Sammy,Nasir Hossain,321423214
+1,West Indies,17,MN Samuels,Naeem Islam,D Ramdin,,0,1,1,,,,321423214
+1,West Indies,17,D Ramdin,Naeem Islam,MN Samuels,,0,1,1,,,,321423214
+1,West Indies,17,MN Samuels,Naeem Islam,D Ramdin,,0,0,0,,,,321423214
+1,West Indies,17,MN Samuels,Naeem Islam,D Ramdin,,0,1,1,,,,321423214
+1,West Indies,17,D Ramdin,Naeem Islam,MN Samuels,,0,1,1,,,,321423214
+1,West Indies,18,D Ramdin,Shakib Al Hasan,MN Samuels,,0,0,0,,,,321423214
+1,West Indies,18,D Ramdin,Shakib Al Hasan,MN Samuels,,0,1,1,,,,321423214
+1,West Indies,18,MN Samuels,Shakib Al Hasan,D Ramdin,,0,1,1,,,,321423214
+1,West Indies,18,D Ramdin,Shakib Al Hasan,MN Samuels,,0,4,4,,,,321423214
+1,West Indies,18,D Ramdin,Shakib Al Hasan,MN Samuels,legbyes,1,1,0,,,,321423214
+1,West Indies,18,MN Samuels,Shakib Al Hasan,D Ramdin,,0,6,6,,,,321423214
+1,West Indies,19,D Ramdin,Shafiul Islam,MN Samuels,,0,1,1,,,,321423214
+1,West Indies,19,MN Samuels,Shafiul Islam,D Ramdin,,0,0,0,caught,MN Samuels,Mushfiqur Rahim,321423214
+1,West Indies,19,CR Brathwaite,Shafiul Islam,D Ramdin,,0,1,1,,,,321423214
+1,West Indies,19,D Ramdin,Shafiul Islam,CR Brathwaite,,0,1,1,,,,321423214
+1,West Indies,19,CR Brathwaite,Shafiul Islam,D Ramdin,,0,0,0,caught,CR Brathwaite,Nasir Hossain,321423214
+1,West Indies,19,D Ramdin,Shafiul Islam,R Rampaul,,0,1,1,,,,321423214

@@ -1,0 +1,117 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Canada,0,H Patel,RG Aga,Rizwan Cheema,wides,1,1,0,,,,332523325
+2,Canada,0,H Patel,RG Aga,Rizwan Cheema,,0,1,1,,,,332523325
+2,Canada,0,Rizwan Cheema,RG Aga,H Patel,,0,0,0,,,,332523325
+2,Canada,0,Rizwan Cheema,RG Aga,H Patel,,0,0,0,,,,332523325
+2,Canada,0,Rizwan Cheema,RG Aga,H Patel,,0,4,4,,,,332523325
+2,Canada,0,Rizwan Cheema,RG Aga,H Patel,,0,1,1,,,,332523325
+2,Canada,0,H Patel,RG Aga,Rizwan Cheema,,0,0,0,,,,332523325
+2,Canada,1,Rizwan Cheema,SO Ngoche,H Patel,,0,0,0,,,,332523325
+2,Canada,1,Rizwan Cheema,SO Ngoche,H Patel,,0,0,0,,,,332523325
+2,Canada,1,Rizwan Cheema,SO Ngoche,H Patel,,0,0,0,,,,332523325
+2,Canada,1,Rizwan Cheema,SO Ngoche,H Patel,,0,0,0,bowled,Rizwan Cheema,,332523325
+2,Canada,1,R Gunasekera,SO Ngoche,H Patel,,0,4,4,,,,332523325
+2,Canada,1,R Gunasekera,SO Ngoche,H Patel,,0,1,1,,,,332523325
+2,Canada,2,R Gunasekera,E Otieno,H Patel,,0,0,0,,,,332523325
+2,Canada,2,R Gunasekera,E Otieno,H Patel,,0,1,1,,,,332523325
+2,Canada,2,H Patel,E Otieno,R Gunasekera,,0,0,0,,,,332523325
+2,Canada,2,H Patel,E Otieno,R Gunasekera,,0,1,1,,,,332523325
+2,Canada,2,R Gunasekera,E Otieno,H Patel,,0,0,0,,,,332523325
+2,Canada,2,R Gunasekera,E Otieno,H Patel,,0,0,0,,,,332523325
+2,Canada,3,H Patel,SO Ngoche,R Gunasekera,,0,0,0,,,,332523325
+2,Canada,3,H Patel,SO Ngoche,R Gunasekera,,0,0,0,,,,332523325
+2,Canada,3,H Patel,SO Ngoche,R Gunasekera,,0,0,0,,,,332523325
+2,Canada,3,H Patel,SO Ngoche,R Gunasekera,,0,1,1,,,,332523325
+2,Canada,3,R Gunasekera,SO Ngoche,H Patel,,0,1,1,,,,332523325
+2,Canada,3,H Patel,SO Ngoche,R Gunasekera,,0,1,1,,,,332523325
+2,Canada,4,H Patel,E Otieno,R Gunasekera,,0,1,1,,,,332523325
+2,Canada,4,R Gunasekera,E Otieno,H Patel,,0,0,0,,,,332523325
+2,Canada,4,R Gunasekera,E Otieno,H Patel,,0,0,0,,,,332523325
+2,Canada,4,R Gunasekera,E Otieno,H Patel,,0,4,4,,,,332523325
+2,Canada,4,R Gunasekera,E Otieno,H Patel,,0,0,0,,,,332523325
+2,Canada,4,R Gunasekera,E Otieno,H Patel,,0,0,0,,,,332523325
+2,Canada,5,H Patel,SO Ngoche,R Gunasekera,,0,0,0,,,,332523325
+2,Canada,5,H Patel,SO Ngoche,R Gunasekera,,0,0,0,,,,332523325
+2,Canada,5,H Patel,SO Ngoche,R Gunasekera,wides,1,1,0,,,,332523325
+2,Canada,5,H Patel,SO Ngoche,R Gunasekera,,0,0,0,,,,332523325
+2,Canada,5,H Patel,SO Ngoche,R Gunasekera,,0,1,1,,,,332523325
+2,Canada,5,R Gunasekera,SO Ngoche,H Patel,,0,4,4,,,,332523325
+2,Canada,5,R Gunasekera,SO Ngoche,H Patel,,0,1,1,,,,332523325
+2,Canada,6,R Gunasekera,NM Odhiambo,H Patel,,0,1,1,,,,332523325
+2,Canada,6,H Patel,NM Odhiambo,R Gunasekera,,0,4,4,,,,332523325
+2,Canada,6,H Patel,NM Odhiambo,R Gunasekera,,0,0,0,,,,332523325
+2,Canada,6,H Patel,NM Odhiambo,R Gunasekera,wides,1,1,0,,,,332523325
+2,Canada,6,H Patel,NM Odhiambo,R Gunasekera,,0,1,1,,,,332523325
+2,Canada,6,R Gunasekera,NM Odhiambo,H Patel,,0,1,1,,,,332523325
+2,Canada,6,H Patel,NM Odhiambo,R Gunasekera,,0,1,1,,,,332523325
+2,Canada,7,H Patel,HA Varaiya,R Gunasekera,,0,0,0,,,,332523325
+2,Canada,7,H Patel,HA Varaiya,R Gunasekera,,0,0,0,,,,332523325
+2,Canada,7,H Patel,HA Varaiya,R Gunasekera,,0,1,1,,,,332523325
+2,Canada,7,R Gunasekera,HA Varaiya,H Patel,,0,0,0,caught and bowled,R Gunasekera,,332523325
+2,Canada,7,NR Kumar,HA Varaiya,H Patel,,0,1,1,,,,332523325
+2,Canada,7,H Patel,HA Varaiya,NR Kumar,,0,4,4,,,,332523325
+2,Canada,8,NR Kumar,NM Odhiambo,H Patel,,0,4,4,,,,332523325
+2,Canada,8,NR Kumar,NM Odhiambo,H Patel,byes,1,1,0,,,,332523325
+2,Canada,8,H Patel,NM Odhiambo,NR Kumar,,0,3,3,,,,332523325
+2,Canada,8,NR Kumar,NM Odhiambo,H Patel,,0,4,4,,,,332523325
+2,Canada,8,NR Kumar,NM Odhiambo,H Patel,,0,2,2,,,,332523325
+2,Canada,8,NR Kumar,NM Odhiambo,H Patel,,0,0,0,,,,332523325
+2,Canada,9,H Patel,HA Varaiya,NR Kumar,,0,1,1,,,,332523325
+2,Canada,9,NR Kumar,HA Varaiya,H Patel,,0,1,1,,,,332523325
+2,Canada,9,H Patel,HA Varaiya,NR Kumar,,0,4,4,,,,332523325
+2,Canada,9,H Patel,HA Varaiya,NR Kumar,wides,1,1,0,,,,332523325
+2,Canada,9,H Patel,HA Varaiya,NR Kumar,,0,0,0,,,,332523325
+2,Canada,9,H Patel,HA Varaiya,NR Kumar,,0,1,1,,,,332523325
+2,Canada,9,NR Kumar,HA Varaiya,H Patel,,0,1,1,,,,332523325
+2,Canada,10,NR Kumar,DI Allan,H Patel,,0,4,4,,,,332523325
+2,Canada,10,NR Kumar,DI Allan,H Patel,,0,1,1,,,,332523325
+2,Canada,10,H Patel,DI Allan,NR Kumar,,0,0,0,,,,332523325
+2,Canada,10,H Patel,DI Allan,NR Kumar,wides,1,1,0,,,,332523325
+2,Canada,10,H Patel,DI Allan,NR Kumar,,0,1,1,,,,332523325
+2,Canada,10,NR Kumar,DI Allan,H Patel,,0,1,1,,,,332523325
+2,Canada,10,H Patel,DI Allan,NR Kumar,,0,1,1,,,,332523325
+2,Canada,11,H Patel,SO Ngoche,NR Kumar,,0,0,0,,,,332523325
+2,Canada,11,H Patel,SO Ngoche,NR Kumar,,0,1,1,,,,332523325
+2,Canada,11,NR Kumar,SO Ngoche,H Patel,,0,0,0,bowled,NR Kumar,,332523325
+2,Canada,11,Raza-ur-Rehman,SO Ngoche,H Patel,,0,0,0,,,,332523325
+2,Canada,11,Raza-ur-Rehman,SO Ngoche,H Patel,,0,0,0,,,,332523325
+2,Canada,11,Raza-ur-Rehman,SO Ngoche,H Patel,,0,2,2,,,,332523325
+2,Canada,12,H Patel,CO Obuya,Raza-ur-Rehman,,0,0,0,,,,332523325
+2,Canada,12,H Patel,CO Obuya,Raza-ur-Rehman,,0,1,1,,,,332523325
+2,Canada,12,Raza-ur-Rehman,CO Obuya,H Patel,,0,0,0,,,,332523325
+2,Canada,12,Raza-ur-Rehman,CO Obuya,H Patel,,0,0,0,,,,332523325
+2,Canada,12,Raza-ur-Rehman,CO Obuya,H Patel,,0,1,1,,,,332523325
+2,Canada,12,H Patel,CO Obuya,Raza-ur-Rehman,,0,0,0,,,,332523325
+2,Canada,13,Raza-ur-Rehman,HA Varaiya,H Patel,,0,0,0,,,,332523325
+2,Canada,13,Raza-ur-Rehman,HA Varaiya,H Patel,,0,4,4,,,,332523325
+2,Canada,13,Raza-ur-Rehman,HA Varaiya,H Patel,,0,1,1,,,,332523325
+2,Canada,13,H Patel,HA Varaiya,Raza-ur-Rehman,,0,1,1,,,,332523325
+2,Canada,13,Raza-ur-Rehman,HA Varaiya,H Patel,,0,0,0,,,,332523325
+2,Canada,13,Raza-ur-Rehman,HA Varaiya,H Patel,,0,0,0,,,,332523325
+2,Canada,14,H Patel,RG Aga,Raza-ur-Rehman,,0,4,4,,,,332523325
+2,Canada,14,H Patel,RG Aga,Raza-ur-Rehman,,0,4,4,,,,332523325
+2,Canada,14,H Patel,RG Aga,Raza-ur-Rehman,,0,1,1,,,,332523325
+2,Canada,14,Raza-ur-Rehman,RG Aga,H Patel,,0,1,1,,,,332523325
+2,Canada,14,H Patel,RG Aga,Raza-ur-Rehman,,0,0,0,bowled,H Patel,,332523325
+2,Canada,14,AS Hansra,RG Aga,Raza-ur-Rehman,,0,0,0,,,,332523325
+2,Canada,15,Raza-ur-Rehman,HA Varaiya,AS Hansra,,0,0,0,caught,Raza-ur-Rehman,MA Ouma,332523325
+2,Canada,15,Usman Limbada,HA Varaiya,AS Hansra,,0,0,0,,,,332523325
+2,Canada,15,Usman Limbada,HA Varaiya,AS Hansra,,0,1,1,,,,332523325
+2,Canada,15,AS Hansra,HA Varaiya,Usman Limbada,,0,0,0,,,,332523325
+2,Canada,15,AS Hansra,HA Varaiya,Usman Limbada,,0,0,0,,,,332523325
+2,Canada,15,AS Hansra,HA Varaiya,Usman Limbada,,0,1,1,,,,332523325
+2,Canada,16,AS Hansra,E Otieno,Usman Limbada,,0,4,4,,,,332523325
+2,Canada,16,AS Hansra,E Otieno,Usman Limbada,legbyes,1,1,0,,,,332523325
+2,Canada,16,Usman Limbada,E Otieno,AS Hansra,,0,1,1,,,,332523325
+2,Canada,16,AS Hansra,E Otieno,Usman Limbada,,0,1,1,,,,332523325
+2,Canada,16,Usman Limbada,E Otieno,AS Hansra,legbyes,2,2,0,,,,332523325
+2,Canada,16,Usman Limbada,E Otieno,AS Hansra,,0,1,1,,,,332523325
+2,Canada,17,Usman Limbada,CO Obuya,AS Hansra,,0,2,2,,,,332523325
+2,Canada,17,Usman Limbada,CO Obuya,AS Hansra,,0,1,1,,,,332523325
+2,Canada,17,AS Hansra,CO Obuya,Usman Limbada,,0,0,0,,,,332523325
+2,Canada,17,AS Hansra,CO Obuya,Usman Limbada,,0,2,2,,,,332523325
+2,Canada,17,AS Hansra,CO Obuya,Usman Limbada,,0,4,4,,,,332523325
+2,Canada,17,AS Hansra,CO Obuya,Usman Limbada,,0,0,0,,,,332523325
+2,Canada,18,Usman Limbada,E Otieno,AS Hansra,,0,4,4,,,,332523325
+2,Canada,18,Usman Limbada,E Otieno,AS Hansra,,0,2,2,,,,332523325
+2,Canada,18,Usman Limbada,E Otieno,AS Hansra,,0,4,4,,,,332523325

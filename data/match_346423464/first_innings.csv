@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,RR Hendricks,SS Cottrell,MN van Wyk,,0,1,1,,,,346423464
+1,South Africa,0,MN van Wyk,SS Cottrell,RR Hendricks,,0,0,0,,,,346423464
+1,South Africa,0,MN van Wyk,SS Cottrell,RR Hendricks,,0,6,6,,,,346423464
+1,South Africa,0,MN van Wyk,SS Cottrell,RR Hendricks,,0,0,0,,,,346423464
+1,South Africa,0,MN van Wyk,SS Cottrell,RR Hendricks,,0,0,0,,,,346423464
+1,South Africa,0,MN van Wyk,SS Cottrell,RR Hendricks,,0,0,0,,,,346423464
+1,South Africa,1,RR Hendricks,JO Holder,MN van Wyk,,0,0,0,,,,346423464
+1,South Africa,1,RR Hendricks,JO Holder,MN van Wyk,,0,2,2,,,,346423464
+1,South Africa,1,RR Hendricks,JO Holder,MN van Wyk,,0,0,0,,,,346423464
+1,South Africa,1,RR Hendricks,JO Holder,MN van Wyk,,0,0,0,,,,346423464
+1,South Africa,1,RR Hendricks,JO Holder,MN van Wyk,,0,0,0,,,,346423464
+1,South Africa,1,RR Hendricks,JO Holder,MN van Wyk,,0,0,0,,,,346423464
+1,South Africa,2,MN van Wyk,AD Russell,RR Hendricks,,0,0,0,,,,346423464
+1,South Africa,2,MN van Wyk,AD Russell,RR Hendricks,,0,4,4,,,,346423464
+1,South Africa,2,MN van Wyk,AD Russell,RR Hendricks,,0,1,1,,,,346423464
+1,South Africa,2,RR Hendricks,AD Russell,MN van Wyk,,0,3,3,,,,346423464
+1,South Africa,2,MN van Wyk,AD Russell,RR Hendricks,,0,4,4,,,,346423464
+1,South Africa,2,MN van Wyk,AD Russell,RR Hendricks,,0,1,1,,,,346423464
+1,South Africa,3,MN van Wyk,JO Holder,RR Hendricks,,0,0,0,,,,346423464
+1,South Africa,3,MN van Wyk,JO Holder,RR Hendricks,,0,0,0,,,,346423464
+1,South Africa,3,MN van Wyk,JO Holder,RR Hendricks,legbyes,1,1,0,,,,346423464
+1,South Africa,3,RR Hendricks,JO Holder,MN van Wyk,,0,1,1,,,,346423464
+1,South Africa,3,MN van Wyk,JO Holder,RR Hendricks,,0,1,1,,,,346423464
+1,South Africa,3,RR Hendricks,JO Holder,MN van Wyk,,0,1,1,,,,346423464
+1,South Africa,4,RR Hendricks,SS Cottrell,MN van Wyk,,0,4,4,,,,346423464
+1,South Africa,4,RR Hendricks,SS Cottrell,MN van Wyk,,0,0,0,lbw,RR Hendricks,,346423464
+1,South Africa,4,F du Plessis,SS Cottrell,MN van Wyk,,0,0,0,,,,346423464
+1,South Africa,4,F du Plessis,SS Cottrell,MN van Wyk,wides,1,1,0,,,,346423464
+1,South Africa,4,F du Plessis,SS Cottrell,MN van Wyk,,0,2,2,,,,346423464
+1,South Africa,4,F du Plessis,SS Cottrell,MN van Wyk,,0,0,0,,,,346423464
+1,South Africa,4,F du Plessis,SS Cottrell,MN van Wyk,,0,0,0,,,,346423464
+1,South Africa,5,MN van Wyk,JO Holder,F du Plessis,,0,0,0,caught,MN van Wyk,CH Gayle,346423464
+1,South Africa,5,RR Rossouw,JO Holder,F du Plessis,,0,0,0,,,,346423464
+1,South Africa,5,RR Rossouw,JO Holder,F du Plessis,,0,0,0,,,,346423464
+1,South Africa,5,RR Rossouw,JO Holder,F du Plessis,,0,1,1,,,,346423464
+1,South Africa,5,F du Plessis,JO Holder,RR Rossouw,,0,1,1,,,,346423464
+1,South Africa,5,RR Rossouw,JO Holder,F du Plessis,,0,0,0,,,,346423464
+1,South Africa,6,F du Plessis,AR Nurse,RR Rossouw,,0,0,0,,,,346423464
+1,South Africa,6,F du Plessis,AR Nurse,RR Rossouw,,0,0,0,,,,346423464
+1,South Africa,6,F du Plessis,AR Nurse,RR Rossouw,,0,1,1,,,,346423464
+1,South Africa,6,RR Rossouw,AR Nurse,F du Plessis,,0,1,1,,,,346423464
+1,South Africa,6,F du Plessis,AR Nurse,RR Rossouw,,0,1,1,,,,346423464
+1,South Africa,6,RR Rossouw,AR Nurse,F du Plessis,,0,1,1,,,,346423464
+1,South Africa,7,RR Rossouw,JO Holder,F du Plessis,,0,1,1,,,,346423464
+1,South Africa,7,F du Plessis,JO Holder,RR Rossouw,,0,4,4,,,,346423464
+1,South Africa,7,F du Plessis,JO Holder,RR Rossouw,,0,0,0,,,,346423464
+1,South Africa,7,F du Plessis,JO Holder,RR Rossouw,,0,4,4,,,,346423464
+1,South Africa,7,F du Plessis,JO Holder,RR Rossouw,,0,0,0,,,,346423464
+1,South Africa,7,F du Plessis,JO Holder,RR Rossouw,,0,4,4,,,,346423464
+1,South Africa,8,RR Rossouw,AR Nurse,F du Plessis,,0,0,0,,,,346423464
+1,South Africa,8,RR Rossouw,AR Nurse,F du Plessis,,0,1,1,,,,346423464
+1,South Africa,8,F du Plessis,AR Nurse,RR Rossouw,,0,4,4,,,,346423464
+1,South Africa,8,F du Plessis,AR Nurse,RR Rossouw,,0,6,6,,,,346423464
+1,South Africa,8,F du Plessis,AR Nurse,RR Rossouw,,0,1,1,,,,346423464
+1,South Africa,8,RR Rossouw,AR Nurse,F du Plessis,,0,1,1,,,,346423464
+1,South Africa,9,RR Rossouw,AD Russell,F du Plessis,,0,2,2,,,,346423464
+1,South Africa,9,RR Rossouw,AD Russell,F du Plessis,wides,1,1,0,,,,346423464
+1,South Africa,9,RR Rossouw,AD Russell,F du Plessis,,0,1,1,,,,346423464
+1,South Africa,9,F du Plessis,AD Russell,RR Rossouw,,0,6,6,,,,346423464
+1,South Africa,9,F du Plessis,AD Russell,RR Rossouw,,0,4,4,,,,346423464
+1,South Africa,9,F du Plessis,AD Russell,RR Rossouw,,0,0,0,caught,F du Plessis,DJG Sammy,346423464
+1,South Africa,9,DA Miller,AD Russell,RR Rossouw,,0,0,0,,,,346423464
+1,South Africa,10,RR Rossouw,AR Nurse,DA Miller,,0,0,0,,,,346423464
+1,South Africa,10,RR Rossouw,AR Nurse,DA Miller,,0,1,1,,,,346423464
+1,South Africa,10,DA Miller,AR Nurse,RR Rossouw,legbyes,1,1,0,,,,346423464
+1,South Africa,10,RR Rossouw,AR Nurse,DA Miller,,0,4,4,,,,346423464
+1,South Africa,10,RR Rossouw,AR Nurse,DA Miller,,0,1,1,,,,346423464
+1,South Africa,10,DA Miller,AR Nurse,RR Rossouw,,0,1,1,,,,346423464
+1,South Africa,11,DA Miller,DJ Bravo,RR Rossouw,,0,1,1,,,,346423464
+1,South Africa,11,RR Rossouw,DJ Bravo,DA Miller,,0,0,0,,,,346423464
+1,South Africa,11,RR Rossouw,DJ Bravo,DA Miller,,0,2,2,,,,346423464
+1,South Africa,11,RR Rossouw,DJ Bravo,DA Miller,,0,1,1,,,,346423464
+1,South Africa,11,DA Miller,DJ Bravo,RR Rossouw,,0,1,1,,,,346423464
+1,South Africa,11,RR Rossouw,DJ Bravo,DA Miller,,0,0,0,,,,346423464
+1,South Africa,12,DA Miller,DJG Sammy,RR Rossouw,,0,1,1,,,,346423464
+1,South Africa,12,RR Rossouw,DJG Sammy,DA Miller,,0,1,1,,,,346423464
+1,South Africa,12,DA Miller,DJG Sammy,RR Rossouw,,0,1,1,,,,346423464
+1,South Africa,12,RR Rossouw,DJG Sammy,DA Miller,,0,1,1,,,,346423464
+1,South Africa,12,DA Miller,DJG Sammy,RR Rossouw,,0,2,2,,,,346423464
+1,South Africa,12,DA Miller,DJG Sammy,RR Rossouw,,0,2,2,,,,346423464
+1,South Africa,13,RR Rossouw,DJ Bravo,DA Miller,,0,4,4,,,,346423464
+1,South Africa,13,RR Rossouw,DJ Bravo,DA Miller,,0,1,1,,,,346423464
+1,South Africa,13,DA Miller,DJ Bravo,RR Rossouw,,0,2,2,,,,346423464
+1,South Africa,13,DA Miller,DJ Bravo,RR Rossouw,,0,1,1,,,,346423464
+1,South Africa,13,RR Rossouw,DJ Bravo,DA Miller,,0,1,1,,,,346423464
+1,South Africa,13,DA Miller,DJ Bravo,RR Rossouw,,0,1,1,,,,346423464
+1,South Africa,14,DA Miller,DJG Sammy,RR Rossouw,,0,2,2,,,,346423464
+1,South Africa,14,DA Miller,DJG Sammy,RR Rossouw,,0,4,4,,,,346423464
+1,South Africa,14,DA Miller,DJG Sammy,RR Rossouw,,0,0,0,,,,346423464
+1,South Africa,14,DA Miller,DJG Sammy,RR Rossouw,,0,1,1,,,,346423464
+1,South Africa,14,RR Rossouw,DJG Sammy,DA Miller,,0,0,0,,,,346423464
+1,South Africa,14,RR Rossouw,DJG Sammy,DA Miller,,0,2,2,,,,346423464
+1,South Africa,15,DA Miller,AD Russell,RR Rossouw,,0,0,0,,,,346423464
+1,South Africa,15,DA Miller,AD Russell,RR Rossouw,,0,2,2,,,,346423464
+1,South Africa,15,DA Miller,AD Russell,RR Rossouw,,0,1,1,,,,346423464
+1,South Africa,15,RR Rossouw,AD Russell,DA Miller,,0,1,1,,,,346423464
+1,South Africa,15,DA Miller,AD Russell,RR Rossouw,,0,1,1,,,,346423464
+1,South Africa,15,RR Rossouw,AD Russell,DA Miller,,0,1,1,,,,346423464
+1,South Africa,16,RR Rossouw,SS Cottrell,DA Miller,wides,1,1,0,,,,346423464
+1,South Africa,16,RR Rossouw,SS Cottrell,DA Miller,,0,1,1,,,,346423464
+1,South Africa,16,DA Miller,SS Cottrell,RR Rossouw,,0,0,0,caught,DA Miller,DJ Bravo,346423464
+1,South Africa,16,RR Rossouw,SS Cottrell,F Behardien,,0,4,4,,,,346423464
+1,South Africa,16,RR Rossouw,SS Cottrell,F Behardien,,0,2,2,,,,346423464
+1,South Africa,16,RR Rossouw,SS Cottrell,F Behardien,,0,0,0,,,,346423464
+1,South Africa,16,RR Rossouw,SS Cottrell,F Behardien,,0,4,4,,,,346423464
+1,South Africa,17,F Behardien,DJ Bravo,RR Rossouw,,0,1,1,,,,346423464
+1,South Africa,17,RR Rossouw,DJ Bravo,F Behardien,,0,1,1,,,,346423464
+1,South Africa,17,F Behardien,DJ Bravo,RR Rossouw,,0,2,2,,,,346423464
+1,South Africa,17,F Behardien,DJ Bravo,RR Rossouw,,0,1,1,,,,346423464
+1,South Africa,17,RR Rossouw,DJ Bravo,F Behardien,,0,4,4,,,,346423464
+1,South Africa,17,RR Rossouw,DJ Bravo,F Behardien,,0,2,2,,,,346423464
+1,South Africa,18,F Behardien,AD Russell,RR Rossouw,,0,0,0,,,,346423464
+1,South Africa,18,F Behardien,AD Russell,RR Rossouw,,0,1,1,,,,346423464
+1,South Africa,18,RR Rossouw,AD Russell,F Behardien,,0,1,1,,,,346423464
+1,South Africa,18,F Behardien,AD Russell,RR Rossouw,,0,0,0,,,,346423464
+1,South Africa,18,F Behardien,AD Russell,RR Rossouw,,0,2,2,,,,346423464
+1,South Africa,18,F Behardien,AD Russell,RR Rossouw,,0,6,6,,,,346423464
+1,South Africa,19,RR Rossouw,SS Cottrell,F Behardien,,0,1,1,,,,346423464
+1,South Africa,19,F Behardien,SS Cottrell,RR Rossouw,,0,1,1,,,,346423464
+1,South Africa,19,RR Rossouw,SS Cottrell,F Behardien,,0,1,1,,,,346423464
+1,South Africa,19,F Behardien,SS Cottrell,RR Rossouw,,0,2,2,,,,346423464
+1,South Africa,19,F Behardien,SS Cottrell,RR Rossouw,,0,0,0,,,,346423464
+1,South Africa,19,F Behardien,SS Cottrell,RR Rossouw,,0,2,2,,,,346423464

@@ -1,0 +1,127 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Oman,0,SV Shetty,S Dhadwal,Fiza,,0,1,1,,,,31961231961
+1,Oman,0,Fiza,S Dhadwal,SV Shetty,,0,0,0,,,,31961231961
+1,Oman,0,Fiza,S Dhadwal,SV Shetty,,0,0,0,,,,31961231961
+1,Oman,0,Fiza,S Dhadwal,SV Shetty,,0,0,0,,,,31961231961
+1,Oman,0,Fiza,S Dhadwal,SV Shetty,,0,1,1,,,,31961231961
+1,Oman,0,SV Shetty,S Dhadwal,Fiza,,0,1,1,,,,31961231961
+1,Oman,1,SV Shetty,H Agarwal,Fiza,wides,1,1,0,,,,31961231961
+1,Oman,1,SV Shetty,H Agarwal,Fiza,,0,1,1,,,,31961231961
+1,Oman,1,Fiza,H Agarwal,SV Shetty,wides,1,1,0,,,,31961231961
+1,Oman,1,Fiza,H Agarwal,SV Shetty,,0,1,1,,,,31961231961
+1,Oman,1,SV Shetty,H Agarwal,Fiza,,0,0,0,,,,31961231961
+1,Oman,1,SV Shetty,H Agarwal,Fiza,,0,2,2,,,,31961231961
+1,Oman,1,SV Shetty,H Agarwal,Fiza,,0,2,2,,,,31961231961
+1,Oman,1,SV Shetty,H Agarwal,Fiza,,0,0,0,,,,31961231961
+1,Oman,2,Fiza,S Dhadwal,SV Shetty,,0,4,4,,,,31961231961
+1,Oman,2,Fiza,S Dhadwal,SV Shetty,,0,0,0,,,,31961231961
+1,Oman,2,Fiza,S Dhadwal,SV Shetty,,0,1,1,,,,31961231961
+1,Oman,2,SV Shetty,S Dhadwal,Fiza,,0,0,0,bowled,SV Shetty,,31961231961
+1,Oman,2,NM Anil,S Dhadwal,Fiza,,0,0,0,,,,31961231961
+1,Oman,2,NM Anil,S Dhadwal,Fiza,,0,0,0,,,,31961231961
+1,Oman,3,Fiza,H Agarwal,NM Anil,,0,0,0,,,,31961231961
+1,Oman,3,Fiza,H Agarwal,NM Anil,,0,4,4,,,,31961231961
+1,Oman,3,Fiza,H Agarwal,NM Anil,,0,1,1,,,,31961231961
+1,Oman,3,NM Anil,H Agarwal,Fiza,,0,0,0,,,,31961231961
+1,Oman,3,NM Anil,H Agarwal,Fiza,,0,0,0,,,,31961231961
+1,Oman,3,NM Anil,H Agarwal,Fiza,,0,1,1,,,,31961231961
+1,Oman,4,NM Anil,S Dhadwal,Fiza,,0,0,0,,,,31961231961
+1,Oman,4,NM Anil,S Dhadwal,Fiza,,0,0,0,,,,31961231961
+1,Oman,4,NM Anil,S Dhadwal,Fiza,,0,0,0,,,,31961231961
+1,Oman,4,NM Anil,S Dhadwal,Fiza,,0,1,1,,,,31961231961
+1,Oman,4,Fiza,S Dhadwal,NM Anil,,0,1,1,,,,31961231961
+1,Oman,4,NM Anil,S Dhadwal,Fiza,,0,0,0,,,,31961231961
+1,Oman,5,Fiza,H Agarwal,NM Anil,,0,0,0,bowled,Fiza,,31961231961
+1,Oman,5,PE Mendonca,H Agarwal,NM Anil,,0,0,0,,,,31961231961
+1,Oman,5,PE Mendonca,H Agarwal,NM Anil,,0,0,0,,,,31961231961
+1,Oman,5,PE Mendonca,H Agarwal,NM Anil,,0,0,0,,,,31961231961
+1,Oman,5,PE Mendonca,H Agarwal,NM Anil,,0,0,0,,,,31961231961
+1,Oman,5,PE Mendonca,H Agarwal,NM Anil,wides,1,1,0,,,,31961231961
+1,Oman,5,PE Mendonca,H Agarwal,NM Anil,,0,0,0,,,,31961231961
+1,Oman,6,NM Anil,A Mare,PE Mendonca,,0,2,2,,,,31961231961
+1,Oman,6,NM Anil,A Mare,PE Mendonca,,0,0,0,,,,31961231961
+1,Oman,6,NM Anil,A Mare,PE Mendonca,wides,1,1,0,,,,31961231961
+1,Oman,6,NM Anil,A Mare,PE Mendonca,,0,0,0,,,,31961231961
+1,Oman,6,NM Anil,A Mare,PE Mendonca,,0,0,0,,,,31961231961
+1,Oman,6,NM Anil,A Mare,PE Mendonca,,0,0,0,,,,31961231961
+1,Oman,6,NM Anil,A Mare,PE Mendonca,,0,1,1,,,,31961231961
+1,Oman,7,NM Anil,RS Quyn,PE Mendonca,,0,0,0,,,,31961231961
+1,Oman,7,NM Anil,RS Quyn,PE Mendonca,,0,1,1,,,,31961231961
+1,Oman,7,PE Mendonca,RS Quyn,NM Anil,,0,0,0,,,,31961231961
+1,Oman,7,PE Mendonca,RS Quyn,NM Anil,,0,0,0,,,,31961231961
+1,Oman,7,PE Mendonca,RS Quyn,NM Anil,,0,4,4,,,,31961231961
+1,Oman,7,PE Mendonca,RS Quyn,NM Anil,,0,0,0,,,,31961231961
+1,Oman,8,NM Anil,A Mare,PE Mendonca,,0,1,1,,,,31961231961
+1,Oman,8,PE Mendonca,A Mare,NM Anil,,0,1,1,,,,31961231961
+1,Oman,8,NM Anil,A Mare,PE Mendonca,,0,0,0,,,,31961231961
+1,Oman,8,NM Anil,A Mare,PE Mendonca,,0,1,1,,,,31961231961
+1,Oman,8,PE Mendonca,A Mare,NM Anil,,0,2,2,,,,31961231961
+1,Oman,8,PE Mendonca,A Mare,NM Anil,,0,1,1,,,,31961231961
+1,Oman,9,PE Mendonca,RS Quyn,NM Anil,,0,0,0,,,,31961231961
+1,Oman,9,PE Mendonca,RS Quyn,NM Anil,,0,0,0,bowled,PE Mendonca,,31961231961
+1,Oman,9,V Jesrani,RS Quyn,NM Anil,,0,1,1,,,,31961231961
+1,Oman,9,NM Anil,RS Quyn,V Jesrani,,0,1,1,,,,31961231961
+1,Oman,9,V Jesrani,RS Quyn,NM Anil,wides,1,1,0,,,,31961231961
+1,Oman,9,V Jesrani,RS Quyn,NM Anil,,0,0,0,,,,31961231961
+1,Oman,9,V Jesrani,RS Quyn,NM Anil,,0,0,0,run out,NM Anil,Khadija Imtiaz,31961231961
+1,Oman,10,V Jesrani,A Mare,S Channa,,0,1,1,,,,31961231961
+1,Oman,10,S Channa,A Mare,V Jesrani,,0,4,4,,,,31961231961
+1,Oman,10,S Channa,A Mare,V Jesrani,,0,0,0,,,,31961231961
+1,Oman,10,S Channa,A Mare,V Jesrani,,0,1,1,,,,31961231961
+1,Oman,10,V Jesrani,A Mare,S Channa,,0,2,2,,,,31961231961
+1,Oman,10,V Jesrani,A Mare,S Channa,,0,1,1,,,,31961231961
+1,Oman,11,V Jesrani,RS Quyn,S Channa,,0,0,0,,,,31961231961
+1,Oman,11,V Jesrani,RS Quyn,S Channa,,0,0,0,,,,31961231961
+1,Oman,11,V Jesrani,RS Quyn,S Channa,,0,0,0,,,,31961231961
+1,Oman,11,V Jesrani,RS Quyn,S Channa,,0,2,2,,,,31961231961
+1,Oman,11,V Jesrani,RS Quyn,S Channa,,0,0,0,,,,31961231961
+1,Oman,11,V Jesrani,RS Quyn,S Channa,,0,0,0,,,,31961231961
+1,Oman,12,S Channa,Aysha,V Jesrani,,0,0,0,,,,31961231961
+1,Oman,12,S Channa,Aysha,V Jesrani,,0,0,0,,,,31961231961
+1,Oman,12,S Channa,Aysha,V Jesrani,,0,1,1,,,,31961231961
+1,Oman,12,V Jesrani,Aysha,S Channa,,0,1,1,,,,31961231961
+1,Oman,12,S Channa,Aysha,V Jesrani,,0,1,1,,,,31961231961
+1,Oman,12,V Jesrani,Aysha,S Channa,,0,0,0,,,,31961231961
+1,Oman,13,S Channa,Shahreeennawab,V Jesrani,,0,1,1,,,,31961231961
+1,Oman,13,V Jesrani,Shahreeennawab,S Channa,,0,1,1,,,,31961231961
+1,Oman,13,S Channa,Shahreeennawab,V Jesrani,,0,2,2,,,,31961231961
+1,Oman,13,S Channa,Shahreeennawab,V Jesrani,,0,1,1,,,,31961231961
+1,Oman,13,V Jesrani,Shahreeennawab,S Channa,,0,0,0,,,,31961231961
+1,Oman,13,V Jesrani,Shahreeennawab,S Channa,,0,1,1,,,,31961231961
+1,Oman,14,V Jesrani,Aysha,S Channa,,0,1,1,,,,31961231961
+1,Oman,14,S Channa,Aysha,V Jesrani,,0,1,1,,,,31961231961
+1,Oman,14,V Jesrani,Aysha,S Channa,,0,0,0,,,,31961231961
+1,Oman,14,V Jesrani,Aysha,S Channa,,0,1,1,,,,31961231961
+1,Oman,14,S Channa,Aysha,V Jesrani,,0,0,0,caught,S Channa,A Mare,31961231961
+1,Oman,14,V Jesrani,Aysha,B Shetty,,0,1,1,,,,31961231961
+1,Oman,15,V Jesrani,RS Quyn,B Shetty,,0,1,1,,,,31961231961
+1,Oman,15,B Shetty,RS Quyn,V Jesrani,,0,0,0,,,,31961231961
+1,Oman,15,B Shetty,RS Quyn,V Jesrani,,0,0,0,,,,31961231961
+1,Oman,15,B Shetty,RS Quyn,V Jesrani,,0,1,1,,,,31961231961
+1,Oman,15,V Jesrani,RS Quyn,B Shetty,,0,1,1,,,,31961231961
+1,Oman,15,B Shetty,RS Quyn,V Jesrani,,0,0,0,,,,31961231961
+1,Oman,16,V Jesrani,Aysha,B Shetty,,0,0,0,,,,31961231961
+1,Oman,16,V Jesrani,Aysha,B Shetty,,0,0,0,,,,31961231961
+1,Oman,16,V Jesrani,Aysha,B Shetty,,0,1,1,,,,31961231961
+1,Oman,16,B Shetty,Aysha,V Jesrani,,0,1,1,,,,31961231961
+1,Oman,16,V Jesrani,Aysha,B Shetty,,0,2,2,,,,31961231961
+1,Oman,16,V Jesrani,Aysha,B Shetty,,0,1,1,,,,31961231961
+1,Oman,17,V Jesrani,H Agarwal,B Shetty,,0,0,0,,,,31961231961
+1,Oman,17,V Jesrani,H Agarwal,B Shetty,,0,1,1,,,,31961231961
+1,Oman,17,B Shetty,H Agarwal,V Jesrani,,0,1,1,,,,31961231961
+1,Oman,17,V Jesrani,H Agarwal,B Shetty,,0,1,1,,,,31961231961
+1,Oman,17,B Shetty,H Agarwal,V Jesrani,,0,1,1,,,,31961231961
+1,Oman,17,V Jesrani,H Agarwal,B Shetty,,0,1,1,,,,31961231961
+1,Oman,18,V Jesrani,Aysha,B Shetty,,0,1,1,,,,31961231961
+1,Oman,18,B Shetty,Aysha,V Jesrani,,0,0,0,,,,31961231961
+1,Oman,18,B Shetty,Aysha,V Jesrani,,0,0,0,run out,V Jesrani,Khadija Imtiaz,31961231961
+1,Oman,18,B Shetty,Aysha,A Dcosta,noballs,1,1,0,,,,31961231961
+1,Oman,18,B Shetty,Aysha,A Dcosta,,0,1,1,,,,31961231961
+1,Oman,18,A Dcosta,Aysha,B Shetty,,0,0,0,,,,31961231961
+1,Oman,18,A Dcosta,Aysha,B Shetty,,0,2,2,,,,31961231961
+1,Oman,19,B Shetty,S Dhadwal,A Dcosta,,0,1,1,,,,31961231961
+1,Oman,19,A Dcosta,S Dhadwal,B Shetty,,0,0,0,,,,31961231961
+1,Oman,19,A Dcosta,S Dhadwal,B Shetty,,0,4,4,,,,31961231961
+1,Oman,19,A Dcosta,S Dhadwal,B Shetty,,0,1,1,run out,B Shetty,A Mare,31961231961
+1,Oman,19,A Dcosta,S Dhadwal,Sameera Khan,,0,4,4,,,,31961231961
+1,Oman,19,A Dcosta,S Dhadwal,Sameera Khan,,0,2,2,run out,A Dcosta,KE Pounsett,31961231961

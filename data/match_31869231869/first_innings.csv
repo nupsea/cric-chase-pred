@@ -1,0 +1,98 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Tanzania,0,AR Patwa,DM Nakrani,II Selemani,,0,0,0,,,,31869231869
+1,Tanzania,0,AR Patwa,DM Nakrani,II Selemani,,0,0,0,,,,31869231869
+1,Tanzania,0,AR Patwa,DM Nakrani,II Selemani,,0,4,4,,,,31869231869
+1,Tanzania,0,AR Patwa,DM Nakrani,II Selemani,,0,0,0,,,,31869231869
+1,Tanzania,0,AR Patwa,DM Nakrani,II Selemani,,0,0,0,,,,31869231869
+1,Tanzania,0,AR Patwa,DM Nakrani,II Selemani,,0,1,1,,,,31869231869
+1,Tanzania,1,AR Patwa,F Nsubuga,II Selemani,,0,0,0,,,,31869231869
+1,Tanzania,1,AR Patwa,F Nsubuga,II Selemani,,0,0,0,,,,31869231869
+1,Tanzania,1,AR Patwa,F Nsubuga,II Selemani,,0,0,0,caught,AR Patwa,F Akankwasa,31869231869
+1,Tanzania,1,AA Jasani,F Nsubuga,II Selemani,,0,1,1,,,,31869231869
+1,Tanzania,1,II Selemani,F Nsubuga,AA Jasani,,0,0,0,,,,31869231869
+1,Tanzania,1,II Selemani,F Nsubuga,AA Jasani,,0,0,0,,,,31869231869
+1,Tanzania,2,AA Jasani,DM Nakrani,II Selemani,,0,1,1,,,,31869231869
+1,Tanzania,2,II Selemani,DM Nakrani,AA Jasani,,0,0,0,,,,31869231869
+1,Tanzania,2,II Selemani,DM Nakrani,AA Jasani,,0,0,0,,,,31869231869
+1,Tanzania,2,II Selemani,DM Nakrani,AA Jasani,,0,0,0,,,,31869231869
+1,Tanzania,2,II Selemani,DM Nakrani,AA Jasani,,0,0,0,,,,31869231869
+1,Tanzania,2,II Selemani,DM Nakrani,AA Jasani,,0,1,1,,,,31869231869
+1,Tanzania,3,II Selemani,F Nsubuga,AA Jasani,,0,0,0,,,,31869231869
+1,Tanzania,3,II Selemani,F Nsubuga,AA Jasani,,0,1,1,,,,31869231869
+1,Tanzania,3,AA Jasani,F Nsubuga,II Selemani,,0,1,1,,,,31869231869
+1,Tanzania,3,II Selemani,F Nsubuga,AA Jasani,,0,0,0,,,,31869231869
+1,Tanzania,3,II Selemani,F Nsubuga,AA Jasani,,0,0,0,,,,31869231869
+1,Tanzania,3,II Selemani,F Nsubuga,AA Jasani,,0,4,4,,,,31869231869
+1,Tanzania,4,AA Jasani,H Ssenyondo,II Selemani,,0,1,1,,,,31869231869
+1,Tanzania,4,II Selemani,H Ssenyondo,AA Jasani,,0,0,0,,,,31869231869
+1,Tanzania,4,II Selemani,H Ssenyondo,AA Jasani,,0,6,6,,,,31869231869
+1,Tanzania,4,II Selemani,H Ssenyondo,AA Jasani,,0,0,0,,,,31869231869
+1,Tanzania,4,II Selemani,H Ssenyondo,AA Jasani,,0,1,1,,,,31869231869
+1,Tanzania,4,AA Jasani,H Ssenyondo,II Selemani,,0,0,0,,,,31869231869
+1,Tanzania,5,II Selemani,F Nsubuga,AA Jasani,wides,1,1,0,,,,31869231869
+1,Tanzania,5,II Selemani,F Nsubuga,AA Jasani,,0,0,0,,,,31869231869
+1,Tanzania,5,II Selemani,F Nsubuga,AA Jasani,,0,1,1,,,,31869231869
+1,Tanzania,5,AA Jasani,F Nsubuga,II Selemani,,0,0,0,,,,31869231869
+1,Tanzania,5,AA Jasani,F Nsubuga,II Selemani,,0,1,1,,,,31869231869
+1,Tanzania,5,II Selemani,F Nsubuga,AA Jasani,,0,4,4,,,,31869231869
+1,Tanzania,5,II Selemani,F Nsubuga,AA Jasani,,0,1,1,,,,31869231869
+1,Tanzania,6,II Selemani,D Muhumuza,AA Jasani,,0,0,0,,,,31869231869
+1,Tanzania,6,II Selemani,D Muhumuza,AA Jasani,,0,1,1,,,,31869231869
+1,Tanzania,6,AA Jasani,D Muhumuza,II Selemani,,0,1,1,,,,31869231869
+1,Tanzania,6,II Selemani,D Muhumuza,AA Jasani,,0,0,0,caught,II Selemani,B Masaba,31869231869
+1,Tanzania,6,Jitin Singh,D Muhumuza,AA Jasani,,0,1,1,,,,31869231869
+1,Tanzania,6,AA Jasani,D Muhumuza,Jitin Singh,,0,0,0,,,,31869231869
+1,Tanzania,7,Jitin Singh,F Nsubuga,AA Jasani,,0,4,4,,,,31869231869
+1,Tanzania,7,Jitin Singh,F Nsubuga,AA Jasani,,0,1,1,,,,31869231869
+1,Tanzania,7,AA Jasani,F Nsubuga,Jitin Singh,,0,0,0,,,,31869231869
+1,Tanzania,7,AA Jasani,F Nsubuga,Jitin Singh,,0,0,0,,,,31869231869
+1,Tanzania,7,AA Jasani,F Nsubuga,Jitin Singh,,0,0,0,,,,31869231869
+1,Tanzania,7,AA Jasani,F Nsubuga,Jitin Singh,,0,1,1,,,,31869231869
+1,Tanzania,8,AA Jasani,D Muhumuza,Jitin Singh,,0,0,0,,,,31869231869
+1,Tanzania,8,AA Jasani,D Muhumuza,Jitin Singh,,0,1,1,,,,31869231869
+1,Tanzania,8,Jitin Singh,D Muhumuza,AA Jasani,,0,0,0,,,,31869231869
+1,Tanzania,8,Jitin Singh,D Muhumuza,AA Jasani,byes,4,4,0,,,,31869231869
+1,Tanzania,8,Jitin Singh,D Muhumuza,AA Jasani,,0,0,0,,,,31869231869
+1,Tanzania,8,Jitin Singh,D Muhumuza,AA Jasani,,0,1,1,,,,31869231869
+1,Tanzania,9,Jitin Singh,F Akankwasa,AA Jasani,wides,1,1,0,,,,31869231869
+1,Tanzania,9,Jitin Singh,F Akankwasa,AA Jasani,,0,0,0,,,,31869231869
+1,Tanzania,9,Jitin Singh,F Akankwasa,AA Jasani,,0,1,1,,,,31869231869
+1,Tanzania,9,AA Jasani,F Akankwasa,Jitin Singh,,0,0,0,,,,31869231869
+1,Tanzania,9,AA Jasani,F Akankwasa,Jitin Singh,,0,4,4,,,,31869231869
+1,Tanzania,9,AA Jasani,F Akankwasa,Jitin Singh,,0,0,0,,,,31869231869
+1,Tanzania,9,AA Jasani,F Akankwasa,Jitin Singh,legbyes,1,1,0,,,,31869231869
+1,Tanzania,10,AA Jasani,D Muhumuza,Jitin Singh,,0,1,1,,,,31869231869
+1,Tanzania,10,Jitin Singh,D Muhumuza,AA Jasani,,0,0,0,bowled,Jitin Singh,,31869231869
+1,Tanzania,10,ZR Jaboneke,D Muhumuza,AA Jasani,wides,1,1,0,,,,31869231869
+1,Tanzania,10,ZR Jaboneke,D Muhumuza,AA Jasani,,0,1,1,,,,31869231869
+1,Tanzania,10,AA Jasani,D Muhumuza,ZR Jaboneke,,0,0,0,,,,31869231869
+1,Tanzania,10,AA Jasani,D Muhumuza,ZR Jaboneke,,0,4,4,,,,31869231869
+1,Tanzania,10,AA Jasani,D Muhumuza,ZR Jaboneke,,0,1,1,,,,31869231869
+1,Tanzania,11,AA Jasani,F Akankwasa,ZR Jaboneke,,0,0,0,stumped,AA Jasani,F Achelam,31869231869
+1,Tanzania,11,K Nassoro,F Akankwasa,ZR Jaboneke,,0,1,1,,,,31869231869
+1,Tanzania,11,ZR Jaboneke,F Akankwasa,K Nassoro,,0,0,0,,,,31869231869
+1,Tanzania,11,ZR Jaboneke,F Akankwasa,K Nassoro,,0,1,1,,,,31869231869
+1,Tanzania,11,K Nassoro,F Akankwasa,ZR Jaboneke,,0,0,0,,,,31869231869
+1,Tanzania,11,K Nassoro,F Akankwasa,ZR Jaboneke,,0,0,0,lbw,K Nassoro,,31869231869
+1,Tanzania,12,ZR Jaboneke,D Muhumuza,MO Kitunda,,0,1,1,,,,31869231869
+1,Tanzania,12,MO Kitunda,D Muhumuza,ZR Jaboneke,,0,1,1,,,,31869231869
+1,Tanzania,12,ZR Jaboneke,D Muhumuza,MO Kitunda,,0,0,0,,,,31869231869
+1,Tanzania,12,ZR Jaboneke,D Muhumuza,MO Kitunda,,0,1,1,,,,31869231869
+1,Tanzania,12,MO Kitunda,D Muhumuza,ZR Jaboneke,,0,0,0,,,,31869231869
+1,Tanzania,12,MO Kitunda,D Muhumuza,ZR Jaboneke,,0,0,0,,,,31869231869
+1,Tanzania,13,ZR Jaboneke,F Akankwasa,MO Kitunda,,0,1,1,,,,31869231869
+1,Tanzania,13,MO Kitunda,F Akankwasa,ZR Jaboneke,,0,1,1,,,,31869231869
+1,Tanzania,13,ZR Jaboneke,F Akankwasa,MO Kitunda,,0,0,0,,,,31869231869
+1,Tanzania,13,ZR Jaboneke,F Akankwasa,MO Kitunda,,0,0,0,,,,31869231869
+1,Tanzania,13,ZR Jaboneke,F Akankwasa,MO Kitunda,,0,0,0,,,,31869231869
+1,Tanzania,13,ZR Jaboneke,F Akankwasa,MO Kitunda,,0,0,0,,,,31869231869
+1,Tanzania,14,MO Kitunda,H Ssenyondo,ZR Jaboneke,,0,0,0,bowled,MO Kitunda,,31869231869
+1,Tanzania,14,S Thakor,H Ssenyondo,ZR Jaboneke,,0,0,0,,,,31869231869
+1,Tanzania,14,S Thakor,H Ssenyondo,ZR Jaboneke,,0,0,0,caught,S Thakor,S Sesazi,31869231869
+1,Tanzania,14,ZR Jaboneke,H Ssenyondo,HA Chohan,,0,1,1,,,,31869231869
+1,Tanzania,14,HA Chohan,H Ssenyondo,ZR Jaboneke,,0,0,0,,,,31869231869
+1,Tanzania,14,HA Chohan,H Ssenyondo,ZR Jaboneke,,0,0,0,,,,31869231869
+1,Tanzania,15,ZR Jaboneke,F Akankwasa,HA Chohan,,0,0,0,run out,HA Chohan,F Achelam,31869231869
+1,Tanzania,15,JC Darji,F Akankwasa,ZR Jaboneke,,0,0,0,,,,31869231869
+1,Tanzania,15,JC Darji,F Akankwasa,ZR Jaboneke,,0,0,0,lbw,JC Darji,,31869231869
+1,Tanzania,15,AM Kimote,F Akankwasa,ZR Jaboneke,,0,0,0,lbw,AM Kimote,,31869231869

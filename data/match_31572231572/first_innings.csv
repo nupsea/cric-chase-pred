@@ -1,0 +1,135 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,France,0,TE Britton,EC Bargna,AC Brodin,wides,1,1,0,,,,31572231572
+1,France,0,TE Britton,EC Bargna,AC Brodin,,0,0,0,,,,31572231572
+1,France,0,TE Britton,EC Bargna,AC Brodin,,0,0,0,,,,31572231572
+1,France,0,TE Britton,EC Bargna,AC Brodin,,0,1,1,,,,31572231572
+1,France,0,AC Brodin,EC Bargna,TE Britton,,0,0,0,,,,31572231572
+1,France,0,AC Brodin,EC Bargna,TE Britton,,0,0,0,,,,31572231572
+1,France,0,AC Brodin,EC Bargna,TE Britton,noballs,1,1,0,,,,31572231572
+1,France,0,AC Brodin,EC Bargna,TE Britton,,0,0,0,,,,31572231572
+1,France,1,TE Britton,AM Healey,AC Brodin,,0,1,1,,,,31572231572
+1,France,1,AC Brodin,AM Healey,TE Britton,,0,0,0,,,,31572231572
+1,France,1,AC Brodin,AM Healey,TE Britton,,0,1,1,,,,31572231572
+1,France,1,TE Britton,AM Healey,AC Brodin,,0,0,0,,,,31572231572
+1,France,1,TE Britton,AM Healey,AC Brodin,,0,0,0,,,,31572231572
+1,France,1,TE Britton,AM Healey,AC Brodin,,0,0,0,,,,31572231572
+1,France,2,AC Brodin,EC Bargna,TE Britton,wides,1,1,0,,,,31572231572
+1,France,2,AC Brodin,EC Bargna,TE Britton,wides,1,1,0,,,,31572231572
+1,France,2,AC Brodin,EC Bargna,TE Britton,,0,0,0,,,,31572231572
+1,France,2,AC Brodin,EC Bargna,TE Britton,,0,1,1,,,,31572231572
+1,France,2,TE Britton,EC Bargna,AC Brodin,,0,1,1,,,,31572231572
+1,France,2,AC Brodin,EC Bargna,TE Britton,,0,0,0,,,,31572231572
+1,France,2,AC Brodin,EC Bargna,TE Britton,,0,1,1,,,,31572231572
+1,France,2,TE Britton,EC Bargna,AC Brodin,,0,1,1,,,,31572231572
+1,France,3,TE Britton,AM Healey,AC Brodin,,0,1,1,,,,31572231572
+1,France,3,AC Brodin,AM Healey,TE Britton,byes,1,1,0,,,,31572231572
+1,France,3,TE Britton,AM Healey,AC Brodin,,0,1,1,,,,31572231572
+1,France,3,AC Brodin,AM Healey,TE Britton,,0,1,1,,,,31572231572
+1,France,3,TE Britton,AM Healey,AC Brodin,,0,1,1,,,,31572231572
+1,France,3,AC Brodin,AM Healey,TE Britton,wides,1,1,0,,,,31572231572
+1,France,3,AC Brodin,AM Healey,TE Britton,,0,0,0,,,,31572231572
+1,France,4,TE Britton,EC Bargna,AC Brodin,,0,0,0,,,,31572231572
+1,France,4,TE Britton,EC Bargna,AC Brodin,,0,1,1,,,,31572231572
+1,France,4,AC Brodin,EC Bargna,TE Britton,,0,0,0,,,,31572231572
+1,France,4,AC Brodin,EC Bargna,TE Britton,,0,0,0,,,,31572231572
+1,France,4,AC Brodin,EC Bargna,TE Britton,,0,0,0,,,,31572231572
+1,France,4,AC Brodin,EC Bargna,TE Britton,,0,0,0,,,,31572231572
+1,France,5,TE Britton,CM Gough,AC Brodin,,0,0,0,,,,31572231572
+1,France,5,TE Britton,CM Gough,AC Brodin,,0,0,0,,,,31572231572
+1,France,5,TE Britton,CM Gough,AC Brodin,,0,0,0,,,,31572231572
+1,France,5,TE Britton,CM Gough,AC Brodin,noballs,1,1,0,,,,31572231572
+1,France,5,TE Britton,CM Gough,AC Brodin,,0,0,0,,,,31572231572
+1,France,5,TE Britton,CM Gough,AC Brodin,,0,1,1,,,,31572231572
+1,France,5,AC Brodin,CM Gough,TE Britton,wides,1,1,0,,,,31572231572
+1,France,5,AC Brodin,CM Gough,TE Britton,,0,0,0,caught and bowled,AC Brodin,,31572231572
+1,France,6,TE Britton,B Maes Loch,J King,,0,0,0,,,,31572231572
+1,France,6,TE Britton,B Maes Loch,J King,,0,0,0,,,,31572231572
+1,France,6,TE Britton,B Maes Loch,J King,wides,1,1,0,,,,31572231572
+1,France,6,TE Britton,B Maes Loch,J King,,0,0,0,,,,31572231572
+1,France,6,TE Britton,B Maes Loch,J King,,0,1,1,,,,31572231572
+1,France,6,J King,B Maes Loch,TE Britton,wides,1,1,0,,,,31572231572
+1,France,6,J King,B Maes Loch,TE Britton,,0,0,0,,,,31572231572
+1,France,6,J King,B Maes Loch,TE Britton,,0,0,0,,,,31572231572
+1,France,7,TE Britton,A Doddaballapur,J King,,0,0,0,,,,31572231572
+1,France,7,TE Britton,A Doddaballapur,J King,,0,0,0,,,,31572231572
+1,France,7,TE Britton,A Doddaballapur,J King,,0,1,1,,,,31572231572
+1,France,7,J King,A Doddaballapur,TE Britton,,0,0,0,,,,31572231572
+1,France,7,J King,A Doddaballapur,TE Britton,,0,0,0,,,,31572231572
+1,France,7,J King,A Doddaballapur,TE Britton,,0,0,0,,,,31572231572
+1,France,8,TE Britton,B Maes Loch,J King,,0,0,0,,,,31572231572
+1,France,8,TE Britton,B Maes Loch,J King,,0,0,0,,,,31572231572
+1,France,8,TE Britton,B Maes Loch,J King,,0,0,0,,,,31572231572
+1,France,8,TE Britton,B Maes Loch,J King,,0,0,0,caught,TE Britton,AM Healey,31572231572
+1,France,8,PC McGeown,B Maes Loch,J King,,0,0,0,,,,31572231572
+1,France,8,PC McGeown,B Maes Loch,J King,,0,0,0,,,,31572231572
+1,France,9,J King,A Doddaballapur,PC McGeown,,0,0,0,,,,31572231572
+1,France,9,J King,A Doddaballapur,PC McGeown,,0,1,1,,,,31572231572
+1,France,9,PC McGeown,A Doddaballapur,J King,,0,0,0,,,,31572231572
+1,France,9,PC McGeown,A Doddaballapur,J King,,0,0,0,,,,31572231572
+1,France,9,PC McGeown,A Doddaballapur,J King,,0,0,0,,,,31572231572
+1,France,9,PC McGeown,A Doddaballapur,J King,,0,0,0,,,,31572231572
+1,France,10,J King,B Maes Loch,PC McGeown,,0,0,0,,,,31572231572
+1,France,10,J King,B Maes Loch,PC McGeown,,0,0,0,,,,31572231572
+1,France,10,J King,B Maes Loch,PC McGeown,,0,0,0,,,,31572231572
+1,France,10,J King,B Maes Loch,PC McGeown,,0,0,0,,,,31572231572
+1,France,10,J King,B Maes Loch,PC McGeown,,0,0,0,,,,31572231572
+1,France,10,J King,B Maes Loch,PC McGeown,,0,1,1,,,,31572231572
+1,France,11,J King,A Doddaballapur,PC McGeown,,0,0,0,,,,31572231572
+1,France,11,J King,A Doddaballapur,PC McGeown,,0,0,0,,,,31572231572
+1,France,11,J King,A Doddaballapur,PC McGeown,byes,1,1,0,,,,31572231572
+1,France,11,PC McGeown,A Doddaballapur,J King,,0,1,1,,,,31572231572
+1,France,11,J King,A Doddaballapur,PC McGeown,,0,0,0,,,,31572231572
+1,France,11,J King,A Doddaballapur,PC McGeown,,0,0,0,,,,31572231572
+1,France,12,PC McGeown,B Maes Loch,J King,,0,1,1,,,,31572231572
+1,France,12,J King,B Maes Loch,PC McGeown,,0,0,0,,,,31572231572
+1,France,12,J King,B Maes Loch,PC McGeown,,0,1,1,,,,31572231572
+1,France,12,PC McGeown,B Maes Loch,J King,,0,2,2,,,,31572231572
+1,France,12,PC McGeown,B Maes Loch,J King,,0,1,1,,,,31572231572
+1,France,12,J King,B Maes Loch,PC McGeown,,0,0,0,,,,31572231572
+1,France,13,PC McGeown,A Doddaballapur,J King,,0,0,0,,,,31572231572
+1,France,13,PC McGeown,A Doddaballapur,J King,,0,0,0,,,,31572231572
+1,France,13,PC McGeown,A Doddaballapur,J King,,0,1,1,,,,31572231572
+1,France,13,J King,A Doddaballapur,PC McGeown,,0,1,1,,,,31572231572
+1,France,13,PC McGeown,A Doddaballapur,J King,,0,2,2,,,,31572231572
+1,France,13,PC McGeown,A Doddaballapur,J King,,0,0,0,run out,PC McGeown,K Vijayaraghavan,31572231572
+1,France,14,J King,MS Beresford,DL Graham,,0,0,0,,,,31572231572
+1,France,14,J King,MS Beresford,DL Graham,,0,2,2,,,,31572231572
+1,France,14,J King,MS Beresford,DL Graham,,0,0,0,,,,31572231572
+1,France,14,J King,MS Beresford,DL Graham,,0,0,0,,,,31572231572
+1,France,14,J King,MS Beresford,DL Graham,,0,1,1,,,,31572231572
+1,France,14,DL Graham,MS Beresford,J King,,0,1,1,,,,31572231572
+1,France,15,DL Graham,S Sadarangani,J King,,0,1,1,,,,31572231572
+1,France,15,J King,S Sadarangani,DL Graham,,0,0,0,,,,31572231572
+1,France,15,J King,S Sadarangani,DL Graham,,0,1,1,,,,31572231572
+1,France,15,DL Graham,S Sadarangani,J King,,0,0,0,,,,31572231572
+1,France,15,DL Graham,S Sadarangani,J King,,0,4,4,,,,31572231572
+1,France,15,DL Graham,S Sadarangani,J King,,0,0,0,,,,31572231572
+1,France,16,J King,MS Beresford,DL Graham,,0,0,0,,,,31572231572
+1,France,16,J King,MS Beresford,DL Graham,wides,1,1,0,,,,31572231572
+1,France,16,J King,MS Beresford,DL Graham,wides,1,1,0,,,,31572231572
+1,France,16,J King,MS Beresford,DL Graham,,0,1,1,,,,31572231572
+1,France,16,DL Graham,MS Beresford,J King,byes,1,1,0,,,,31572231572
+1,France,16,J King,MS Beresford,DL Graham,,0,1,1,,,,31572231572
+1,France,16,DL Graham,MS Beresford,J King,,0,0,0,,,,31572231572
+1,France,16,DL Graham,MS Beresford,J King,,0,1,1,,,,31572231572
+1,France,17,DL Graham,S Sadarangani,J King,,0,0,0,caught,DL Graham,PA Wadenpohl,31572231572
+1,France,17,E Chance,S Sadarangani,J King,,0,0,0,,,,31572231572
+1,France,17,E Chance,S Sadarangani,J King,,0,0,0,,,,31572231572
+1,France,17,E Chance,S Sadarangani,J King,,0,0,0,,,,31572231572
+1,France,17,E Chance,S Sadarangani,J King,,0,0,0,,,,31572231572
+1,France,17,E Chance,S Sadarangani,J King,,0,0,0,,,,31572231572
+1,France,18,J King,MS Beresford,E Chance,,0,2,2,,,,31572231572
+1,France,18,J King,MS Beresford,E Chance,,0,1,1,,,,31572231572
+1,France,18,E Chance,MS Beresford,J King,byes,1,1,0,,,,31572231572
+1,France,18,J King,MS Beresford,E Chance,,0,0,0,run out,J King,MS Beresford,31572231572
+1,France,18,E Chance,MS Beresford,E Brelivet,,0,2,2,,,,31572231572
+1,France,18,E Chance,MS Beresford,E Brelivet,,0,1,1,,,,31572231572
+1,France,19,E Chance,S Sadarangani,E Brelivet,,0,0,0,,,,31572231572
+1,France,19,E Chance,S Sadarangani,E Brelivet,wides,1,1,0,,,,31572231572
+1,France,19,E Chance,S Sadarangani,E Brelivet,wides,1,1,0,,,,31572231572
+1,France,19,E Chance,S Sadarangani,E Brelivet,,0,0,0,,,,31572231572
+1,France,19,E Chance,S Sadarangani,E Brelivet,,0,1,1,,,,31572231572
+1,France,19,E Brelivet,S Sadarangani,E Chance,,0,0,0,,,,31572231572
+1,France,19,E Brelivet,S Sadarangani,E Chance,wides,1,1,0,,,,31572231572
+1,France,19,E Brelivet,S Sadarangani,E Chance,,0,0,0,caught,E Brelivet,AM Healey,31572231572
+1,France,19,E Chance,S Sadarangani,M Marchello,,0,0,0,,,,31572231572

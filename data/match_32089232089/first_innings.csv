@@ -1,0 +1,126 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Qatar,0,Shahreeennawab,WA Duraisingam,SK Rana,,0,0,0,,,,32089232089
+1,Qatar,0,Shahreeennawab,WA Duraisingam,SK Rana,wides,1,1,0,,,,32089232089
+1,Qatar,0,Shahreeennawab,WA Duraisingam,SK Rana,,0,0,0,bowled,Shahreeennawab,,32089232089
+1,Qatar,0,S Dhadwal,WA Duraisingam,SK Rana,wides,1,1,0,,,,32089232089
+1,Qatar,0,S Dhadwal,WA Duraisingam,SK Rana,,0,0,0,,,,32089232089
+1,Qatar,0,S Dhadwal,WA Duraisingam,SK Rana,,0,0,0,,,,32089232089
+1,Qatar,0,S Dhadwal,WA Duraisingam,SK Rana,,0,0,0,,,,32089232089
+1,Qatar,0,S Dhadwal,WA Duraisingam,SK Rana,,0,0,0,,,,32089232089
+1,Qatar,1,SK Rana,Nur Dania Syuhada,S Dhadwal,,0,0,0,,,,32089232089
+1,Qatar,1,SK Rana,Nur Dania Syuhada,S Dhadwal,,0,1,1,,,,32089232089
+1,Qatar,1,S Dhadwal,Nur Dania Syuhada,SK Rana,,0,0,0,,,,32089232089
+1,Qatar,1,S Dhadwal,Nur Dania Syuhada,SK Rana,,0,1,1,,,,32089232089
+1,Qatar,1,SK Rana,Nur Dania Syuhada,S Dhadwal,,0,0,0,,,,32089232089
+1,Qatar,1,SK Rana,Nur Dania Syuhada,S Dhadwal,,0,0,0,,,,32089232089
+1,Qatar,2,S Dhadwal,WA Duraisingam,SK Rana,,0,1,1,,,,32089232089
+1,Qatar,2,SK Rana,WA Duraisingam,S Dhadwal,,0,0,0,,,,32089232089
+1,Qatar,2,SK Rana,WA Duraisingam,S Dhadwal,,0,0,0,,,,32089232089
+1,Qatar,2,SK Rana,WA Duraisingam,S Dhadwal,,0,0,0,,,,32089232089
+1,Qatar,2,SK Rana,WA Duraisingam,S Dhadwal,,0,0,0,,,,32089232089
+1,Qatar,2,SK Rana,WA Duraisingam,S Dhadwal,legbyes,1,1,0,,,,32089232089
+1,Qatar,3,SK Rana,Nur Dania Syuhada,S Dhadwal,,0,0,0,,,,32089232089
+1,Qatar,3,SK Rana,Nur Dania Syuhada,S Dhadwal,,0,1,1,,,,32089232089
+1,Qatar,3,S Dhadwal,Nur Dania Syuhada,SK Rana,,0,0,0,,,,32089232089
+1,Qatar,3,S Dhadwal,Nur Dania Syuhada,SK Rana,,0,1,1,,,,32089232089
+1,Qatar,3,SK Rana,Nur Dania Syuhada,S Dhadwal,,0,0,0,,,,32089232089
+1,Qatar,3,SK Rana,Nur Dania Syuhada,S Dhadwal,,0,0,0,,,,32089232089
+1,Qatar,4,S Dhadwal,Ainna Hamizah Hashim,SK Rana,,0,1,1,,,,32089232089
+1,Qatar,4,SK Rana,Ainna Hamizah Hashim,S Dhadwal,wides,1,1,0,,,,32089232089
+1,Qatar,4,SK Rana,Ainna Hamizah Hashim,S Dhadwal,,0,0,0,,,,32089232089
+1,Qatar,4,SK Rana,Ainna Hamizah Hashim,S Dhadwal,noballs,2,2,0,,,,32089232089
+1,Qatar,4,S Dhadwal,Ainna Hamizah Hashim,SK Rana,,0,4,4,,,,32089232089
+1,Qatar,4,S Dhadwal,Ainna Hamizah Hashim,SK Rana,,0,0,0,,,,32089232089
+1,Qatar,4,S Dhadwal,Ainna Hamizah Hashim,SK Rana,,0,1,1,,,,32089232089
+1,Qatar,4,SK Rana,Ainna Hamizah Hashim,S Dhadwal,,0,1,1,,,,32089232089
+1,Qatar,5,SK Rana,Nur Dania Syuhada,S Dhadwal,,0,0,0,stumped,SK Rana,Wan Julia,32089232089
+1,Qatar,5,Aysha,Nur Dania Syuhada,S Dhadwal,,0,0,0,,,,32089232089
+1,Qatar,5,Aysha,Nur Dania Syuhada,S Dhadwal,,0,0,0,,,,32089232089
+1,Qatar,5,Aysha,Nur Dania Syuhada,S Dhadwal,,0,0,0,,,,32089232089
+1,Qatar,5,Aysha,Nur Dania Syuhada,S Dhadwal,,0,1,1,,,,32089232089
+1,Qatar,5,S Dhadwal,Nur Dania Syuhada,Aysha,,0,0,0,,,,32089232089
+1,Qatar,6,Aysha,Sasha Azmi,S Dhadwal,,0,4,4,,,,32089232089
+1,Qatar,6,Aysha,Sasha Azmi,S Dhadwal,,0,0,0,,,,32089232089
+1,Qatar,6,Aysha,Sasha Azmi,S Dhadwal,,0,1,1,,,,32089232089
+1,Qatar,6,S Dhadwal,Sasha Azmi,Aysha,,0,0,0,,,,32089232089
+1,Qatar,6,S Dhadwal,Sasha Azmi,Aysha,,0,0,0,,,,32089232089
+1,Qatar,6,S Dhadwal,Sasha Azmi,Aysha,,0,0,0,,,,32089232089
+1,Qatar,7,Aysha,Nur Dania Syuhada,S Dhadwal,,0,1,1,,,,32089232089
+1,Qatar,7,S Dhadwal,Nur Dania Syuhada,Aysha,,0,1,1,,,,32089232089
+1,Qatar,7,Aysha,Nur Dania Syuhada,S Dhadwal,,0,1,1,,,,32089232089
+1,Qatar,7,S Dhadwal,Nur Dania Syuhada,Aysha,,0,0,0,caught,S Dhadwal,WA Duraisingam,32089232089
+1,Qatar,7,Aysha,Nur Dania Syuhada,H Agarwal,,0,1,1,,,,32089232089
+1,Qatar,7,H Agarwal,Nur Dania Syuhada,Aysha,,0,0,0,,,,32089232089
+1,Qatar,8,Aysha,Sasha Azmi,H Agarwal,,0,1,1,,,,32089232089
+1,Qatar,8,H Agarwal,Sasha Azmi,Aysha,,0,0,0,run out,H Agarwal,Sasha Azmi,32089232089
+1,Qatar,8,Aysha,Sasha Azmi,Aleena Khan,,0,1,1,,,,32089232089
+1,Qatar,8,Aleena Khan,Sasha Azmi,Aysha,,0,0,0,lbw,Aleena Khan,,32089232089
+1,Qatar,8,Khadija Imtiaz,Sasha Azmi,Aysha,,0,0,0,,,,32089232089
+1,Qatar,8,Khadija Imtiaz,Sasha Azmi,Aysha,,0,0,0,,,,32089232089
+1,Qatar,9,Aysha,Mas Elysa,Khadija Imtiaz,,0,0,0,,,,32089232089
+1,Qatar,9,Aysha,Mas Elysa,Khadija Imtiaz,,0,0,0,,,,32089232089
+1,Qatar,9,Aysha,Mas Elysa,Khadija Imtiaz,,0,1,1,,,,32089232089
+1,Qatar,9,Khadija Imtiaz,Mas Elysa,Aysha,,0,1,1,,,,32089232089
+1,Qatar,9,Aysha,Mas Elysa,Khadija Imtiaz,,0,1,1,,,,32089232089
+1,Qatar,9,Khadija Imtiaz,Mas Elysa,Aysha,,0,0,0,,,,32089232089
+1,Qatar,10,Aysha,Sasha Azmi,Khadija Imtiaz,,0,0,0,,,,32089232089
+1,Qatar,10,Aysha,Sasha Azmi,Khadija Imtiaz,,0,0,0,,,,32089232089
+1,Qatar,10,Aysha,Sasha Azmi,Khadija Imtiaz,,0,1,1,,,,32089232089
+1,Qatar,10,Khadija Imtiaz,Sasha Azmi,Aysha,,0,0,0,,,,32089232089
+1,Qatar,10,Khadija Imtiaz,Sasha Azmi,Aysha,,0,0,0,,,,32089232089
+1,Qatar,10,Khadija Imtiaz,Sasha Azmi,Aysha,,0,0,0,,,,32089232089
+1,Qatar,11,Aysha,Mas Elysa,Khadija Imtiaz,,0,0,0,,,,32089232089
+1,Qatar,11,Aysha,Mas Elysa,Khadija Imtiaz,,0,4,4,,,,32089232089
+1,Qatar,11,Aysha,Mas Elysa,Khadija Imtiaz,,0,0,0,,,,32089232089
+1,Qatar,11,Aysha,Mas Elysa,Khadija Imtiaz,,0,1,1,,,,32089232089
+1,Qatar,11,Khadija Imtiaz,Mas Elysa,Aysha,,0,0,0,,,,32089232089
+1,Qatar,11,Khadija Imtiaz,Mas Elysa,Aysha,,0,2,2,,,,32089232089
+1,Qatar,12,Aysha,Sasha Azmi,Khadija Imtiaz,,0,0,0,,,,32089232089
+1,Qatar,12,Aysha,Sasha Azmi,Khadija Imtiaz,,0,1,1,,,,32089232089
+1,Qatar,12,Khadija Imtiaz,Sasha Azmi,Aysha,wides,1,1,0,,,,32089232089
+1,Qatar,12,Khadija Imtiaz,Sasha Azmi,Aysha,,0,0,0,,,,32089232089
+1,Qatar,12,Khadija Imtiaz,Sasha Azmi,Aysha,,0,0,0,,,,32089232089
+1,Qatar,12,Khadija Imtiaz,Sasha Azmi,Aysha,,0,0,0,,,,32089232089
+1,Qatar,12,Khadija Imtiaz,Sasha Azmi,Aysha,,0,0,0,,,,32089232089
+1,Qatar,13,Aysha,WA Duraisingam,Khadija Imtiaz,,0,1,1,,,,32089232089
+1,Qatar,13,Khadija Imtiaz,WA Duraisingam,Aysha,,0,0,0,,,,32089232089
+1,Qatar,13,Khadija Imtiaz,WA Duraisingam,Aysha,,0,0,0,caught,Khadija Imtiaz,Siow Tzin Yee,32089232089
+1,Qatar,13,A Mare,WA Duraisingam,Aysha,,0,1,1,,,,32089232089
+1,Qatar,13,Aysha,WA Duraisingam,A Mare,,0,1,1,,,,32089232089
+1,Qatar,13,A Mare,WA Duraisingam,Aysha,,0,1,1,,,,32089232089
+1,Qatar,14,A Mare,Nik Nur Atiela,Aysha,,0,1,1,,,,32089232089
+1,Qatar,14,Aysha,Nik Nur Atiela,A Mare,,0,0,0,,,,32089232089
+1,Qatar,14,Aysha,Nik Nur Atiela,A Mare,,0,1,1,,,,32089232089
+1,Qatar,14,A Mare,Nik Nur Atiela,Aysha,,0,1,1,,,,32089232089
+1,Qatar,14,Aysha,Nik Nur Atiela,A Mare,wides,1,1,0,,,,32089232089
+1,Qatar,14,Aysha,Nik Nur Atiela,A Mare,wides,1,1,0,,,,32089232089
+1,Qatar,14,Aysha,Nik Nur Atiela,A Mare,,0,1,1,,,,32089232089
+1,Qatar,14,A Mare,Nik Nur Atiela,Aysha,,0,1,1,,,,32089232089
+1,Qatar,15,A Mare,WA Duraisingam,Aysha,,0,1,1,,,,32089232089
+1,Qatar,15,Aysha,WA Duraisingam,A Mare,,0,1,1,,,,32089232089
+1,Qatar,15,A Mare,WA Duraisingam,Aysha,,0,1,1,,,,32089232089
+1,Qatar,15,Aysha,WA Duraisingam,A Mare,,0,1,1,,,,32089232089
+1,Qatar,15,A Mare,WA Duraisingam,Aysha,,0,1,1,,,,32089232089
+1,Qatar,15,Aysha,WA Duraisingam,A Mare,,0,1,1,,,,32089232089
+1,Qatar,16,Aysha,Aisya Eleesa,A Mare,,0,0,0,,,,32089232089
+1,Qatar,16,Aysha,Aisya Eleesa,A Mare,,0,0,0,run out,A Mare,Aisya Eleesa,32089232089
+1,Qatar,16,Aysha,Aisya Eleesa,Rizpha Bano,,0,1,1,,,,32089232089
+1,Qatar,16,Rizpha Bano,Aisya Eleesa,Aysha,,0,0,0,caught,Rizpha Bano,Nur Dania Syuhada,32089232089
+1,Qatar,16,T Kale,Aisya Eleesa,Aysha,,0,0,0,,,,32089232089
+1,Qatar,16,T Kale,Aisya Eleesa,Aysha,,0,0,0,,,,32089232089
+1,Qatar,17,Aysha,Nik Nur Atiela,T Kale,,0,0,0,,,,32089232089
+1,Qatar,17,Aysha,Nik Nur Atiela,T Kale,,0,0,0,,,,32089232089
+1,Qatar,17,Aysha,Nik Nur Atiela,T Kale,,0,0,0,,,,32089232089
+1,Qatar,17,Aysha,Nik Nur Atiela,T Kale,,0,1,1,,,,32089232089
+1,Qatar,17,T Kale,Nik Nur Atiela,Aysha,,0,1,1,,,,32089232089
+1,Qatar,17,Aysha,Nik Nur Atiela,T Kale,,0,0,0,,,,32089232089
+1,Qatar,18,T Kale,Aisya Eleesa,Aysha,,0,1,1,,,,32089232089
+1,Qatar,18,Aysha,Aisya Eleesa,T Kale,,0,0,0,,,,32089232089
+1,Qatar,18,Aysha,Aisya Eleesa,T Kale,,0,1,1,,,,32089232089
+1,Qatar,18,T Kale,Aisya Eleesa,Aysha,,0,0,0,run out,T Kale,Siow Tzin Yee,32089232089
+1,Qatar,18,Aysha,Aisya Eleesa,RS Quyn,,0,0,0,,,,32089232089
+1,Qatar,18,Aysha,Aisya Eleesa,RS Quyn,,0,1,1,,,,32089232089
+1,Qatar,19,Aysha,Nik Nur Atiela,RS Quyn,,0,1,1,,,,32089232089
+1,Qatar,19,RS Quyn,Nik Nur Atiela,Aysha,,0,1,1,,,,32089232089
+1,Qatar,19,Aysha,Nik Nur Atiela,RS Quyn,,0,1,1,,,,32089232089
+1,Qatar,19,RS Quyn,Nik Nur Atiela,Aysha,,0,0,0,run out,RS Quyn,J Intan,32089232089

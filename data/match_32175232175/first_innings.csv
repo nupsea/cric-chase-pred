@@ -1,0 +1,131 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Netherlands,0,B de Leede,I van Zyl,SL Kalis,,0,1,1,,,,32175232175
+1,Netherlands,0,SL Kalis,I van Zyl,B de Leede,wides,1,1,0,,,,32175232175
+1,Netherlands,0,SL Kalis,I van Zyl,B de Leede,,0,1,1,,,,32175232175
+1,Netherlands,0,B de Leede,I van Zyl,SL Kalis,,0,0,0,,,,32175232175
+1,Netherlands,0,B de Leede,I van Zyl,SL Kalis,,0,1,1,,,,32175232175
+1,Netherlands,0,SL Kalis,I van Zyl,B de Leede,,0,0,0,,,,32175232175
+1,Netherlands,0,SL Kalis,I van Zyl,B de Leede,,0,1,1,,,,32175232175
+1,Netherlands,1,SL Kalis,W Mwatile,B de Leede,,0,2,2,,,,32175232175
+1,Netherlands,1,SL Kalis,W Mwatile,B de Leede,,0,1,1,,,,32175232175
+1,Netherlands,1,B de Leede,W Mwatile,SL Kalis,wides,1,1,0,,,,32175232175
+1,Netherlands,1,B de Leede,W Mwatile,SL Kalis,wides,1,1,0,,,,32175232175
+1,Netherlands,1,B de Leede,W Mwatile,SL Kalis,,0,0,0,,,,32175232175
+1,Netherlands,1,B de Leede,W Mwatile,SL Kalis,,0,0,0,,,,32175232175
+1,Netherlands,1,B de Leede,W Mwatile,SL Kalis,,0,0,0,,,,32175232175
+1,Netherlands,1,B de Leede,W Mwatile,SL Kalis,wides,1,1,0,,,,32175232175
+1,Netherlands,1,B de Leede,W Mwatile,SL Kalis,wides,1,1,0,,,,32175232175
+1,Netherlands,1,B de Leede,W Mwatile,SL Kalis,,0,0,0,,,,32175232175
+1,Netherlands,2,SL Kalis,I van Zyl,B de Leede,,0,1,1,,,,32175232175
+1,Netherlands,2,B de Leede,I van Zyl,SL Kalis,,0,0,0,,,,32175232175
+1,Netherlands,2,B de Leede,I van Zyl,SL Kalis,,0,0,0,,,,32175232175
+1,Netherlands,2,B de Leede,I van Zyl,SL Kalis,,0,0,0,,,,32175232175
+1,Netherlands,2,B de Leede,I van Zyl,SL Kalis,,0,0,0,,,,32175232175
+1,Netherlands,2,B de Leede,I van Zyl,SL Kalis,,0,1,1,,,,32175232175
+1,Netherlands,3,B de Leede,SA Wittmann,SL Kalis,,0,1,1,,,,32175232175
+1,Netherlands,3,SL Kalis,SA Wittmann,B de Leede,,0,0,0,bowled,SL Kalis,,32175232175
+1,Netherlands,3,R Rijke,SA Wittmann,B de Leede,,0,2,2,,,,32175232175
+1,Netherlands,3,R Rijke,SA Wittmann,B de Leede,,0,0,0,,,,32175232175
+1,Netherlands,3,R Rijke,SA Wittmann,B de Leede,,0,1,1,,,,32175232175
+1,Netherlands,3,B de Leede,SA Wittmann,R Rijke,,0,0,0,,,,32175232175
+1,Netherlands,4,R Rijke,I van Zyl,B de Leede,,0,2,2,,,,32175232175
+1,Netherlands,4,R Rijke,I van Zyl,B de Leede,,0,0,0,,,,32175232175
+1,Netherlands,4,R Rijke,I van Zyl,B de Leede,,0,1,1,,,,32175232175
+1,Netherlands,4,B de Leede,I van Zyl,R Rijke,,0,0,0,,,,32175232175
+1,Netherlands,4,B de Leede,I van Zyl,R Rijke,,0,0,0,caught,B de Leede,JA Diergaardt,32175232175
+1,Netherlands,4,HDJ Siegers,I van Zyl,R Rijke,,0,0,0,,,,32175232175
+1,Netherlands,5,R Rijke,SA Wittmann,HDJ Siegers,,0,0,0,,,,32175232175
+1,Netherlands,5,R Rijke,SA Wittmann,HDJ Siegers,,0,1,1,,,,32175232175
+1,Netherlands,5,HDJ Siegers,SA Wittmann,R Rijke,,0,1,1,,,,32175232175
+1,Netherlands,5,R Rijke,SA Wittmann,HDJ Siegers,,0,0,0,,,,32175232175
+1,Netherlands,5,R Rijke,SA Wittmann,HDJ Siegers,,0,1,1,,,,32175232175
+1,Netherlands,5,HDJ Siegers,SA Wittmann,R Rijke,,0,4,4,,,,32175232175
+1,Netherlands,6,R Rijke,I van Zyl,HDJ Siegers,wides,1,1,0,,,,32175232175
+1,Netherlands,6,R Rijke,I van Zyl,HDJ Siegers,,0,1,1,,,,32175232175
+1,Netherlands,6,HDJ Siegers,I van Zyl,R Rijke,,0,0,0,,,,32175232175
+1,Netherlands,6,HDJ Siegers,I van Zyl,R Rijke,,0,4,4,,,,32175232175
+1,Netherlands,6,HDJ Siegers,I van Zyl,R Rijke,,0,0,0,,,,32175232175
+1,Netherlands,6,HDJ Siegers,I van Zyl,R Rijke,,0,0,0,,,,32175232175
+1,Netherlands,6,HDJ Siegers,I van Zyl,R Rijke,wides,1,1,0,,,,32175232175
+1,Netherlands,6,HDJ Siegers,I van Zyl,R Rijke,wides,2,2,0,,,,32175232175
+1,Netherlands,6,R Rijke,I van Zyl,HDJ Siegers,,0,0,0,,,,32175232175
+1,Netherlands,7,HDJ Siegers,SA Wittmann,R Rijke,,0,0,0,,,,32175232175
+1,Netherlands,7,HDJ Siegers,SA Wittmann,R Rijke,,0,2,2,,,,32175232175
+1,Netherlands,7,HDJ Siegers,SA Wittmann,R Rijke,,0,1,1,,,,32175232175
+1,Netherlands,7,R Rijke,SA Wittmann,HDJ Siegers,,0,0,0,caught,R Rijke,D Foerster,32175232175
+1,Netherlands,7,HDJ Siegers,SA Wittmann,J Post,,0,0,0,,,,32175232175
+1,Netherlands,7,HDJ Siegers,SA Wittmann,J Post,,0,0,0,,,,32175232175
+1,Netherlands,8,J Post,KA Green,HDJ Siegers,,0,0,0,,,,32175232175
+1,Netherlands,8,J Post,KA Green,HDJ Siegers,,0,0,0,,,,32175232175
+1,Netherlands,8,J Post,KA Green,HDJ Siegers,,0,0,0,,,,32175232175
+1,Netherlands,8,J Post,KA Green,HDJ Siegers,,0,0,0,,,,32175232175
+1,Netherlands,8,J Post,KA Green,HDJ Siegers,,0,1,1,,,,32175232175
+1,Netherlands,8,HDJ Siegers,KA Green,J Post,,0,0,0,,,,32175232175
+1,Netherlands,9,J Post,SA Wittmann,HDJ Siegers,,0,0,0,,,,32175232175
+1,Netherlands,9,J Post,SA Wittmann,HDJ Siegers,,0,0,0,caught,J Post,E Van Zyl,32175232175
+1,Netherlands,9,C de Lange,SA Wittmann,HDJ Siegers,,0,0,0,,,,32175232175
+1,Netherlands,9,C de Lange,SA Wittmann,HDJ Siegers,,0,1,1,,,,32175232175
+1,Netherlands,9,HDJ Siegers,SA Wittmann,C de Lange,,0,0,0,,,,32175232175
+1,Netherlands,9,HDJ Siegers,SA Wittmann,C de Lange,,0,4,4,,,,32175232175
+1,Netherlands,10,C de Lange,KA Green,HDJ Siegers,,0,0,0,,,,32175232175
+1,Netherlands,10,C de Lange,KA Green,HDJ Siegers,,0,0,0,caught and bowled,C de Lange,,32175232175
+1,Netherlands,10,IJR Zwilling,KA Green,HDJ Siegers,,0,0,0,,,,32175232175
+1,Netherlands,10,IJR Zwilling,KA Green,HDJ Siegers,,0,0,0,,,,32175232175
+1,Netherlands,10,IJR Zwilling,KA Green,HDJ Siegers,wides,1,1,0,,,,32175232175
+1,Netherlands,10,IJR Zwilling,KA Green,HDJ Siegers,,0,1,1,,,,32175232175
+1,Netherlands,10,HDJ Siegers,KA Green,IJR Zwilling,,0,1,1,,,,32175232175
+1,Netherlands,11,HDJ Siegers,W Mwatile,IJR Zwilling,,0,0,0,,,,32175232175
+1,Netherlands,11,HDJ Siegers,W Mwatile,IJR Zwilling,,0,0,0,,,,32175232175
+1,Netherlands,11,HDJ Siegers,W Mwatile,IJR Zwilling,,0,1,1,,,,32175232175
+1,Netherlands,11,IJR Zwilling,W Mwatile,HDJ Siegers,,0,1,1,,,,32175232175
+1,Netherlands,11,HDJ Siegers,W Mwatile,IJR Zwilling,,0,1,1,,,,32175232175
+1,Netherlands,11,IJR Zwilling,W Mwatile,HDJ Siegers,,0,0,0,,,,32175232175
+1,Netherlands,12,HDJ Siegers,KA Green,IJR Zwilling,,0,1,1,,,,32175232175
+1,Netherlands,12,IJR Zwilling,KA Green,HDJ Siegers,,0,0,0,,,,32175232175
+1,Netherlands,12,IJR Zwilling,KA Green,HDJ Siegers,,0,4,4,,,,32175232175
+1,Netherlands,12,IJR Zwilling,KA Green,HDJ Siegers,,0,1,1,,,,32175232175
+1,Netherlands,12,HDJ Siegers,KA Green,IJR Zwilling,,0,1,1,,,,32175232175
+1,Netherlands,12,IJR Zwilling,KA Green,HDJ Siegers,,0,2,2,,,,32175232175
+1,Netherlands,13,HDJ Siegers,W Mwatile,IJR Zwilling,,0,0,0,,,,32175232175
+1,Netherlands,13,HDJ Siegers,W Mwatile,IJR Zwilling,,0,1,1,,,,32175232175
+1,Netherlands,13,IJR Zwilling,W Mwatile,HDJ Siegers,,0,0,0,,,,32175232175
+1,Netherlands,13,IJR Zwilling,W Mwatile,HDJ Siegers,,0,0,0,,,,32175232175
+1,Netherlands,13,IJR Zwilling,W Mwatile,HDJ Siegers,,0,4,4,,,,32175232175
+1,Netherlands,13,IJR Zwilling,W Mwatile,HDJ Siegers,,0,0,0,,,,32175232175
+1,Netherlands,14,HDJ Siegers,KA Green,IJR Zwilling,,0,0,0,,,,32175232175
+1,Netherlands,14,HDJ Siegers,KA Green,IJR Zwilling,,0,1,1,,,,32175232175
+1,Netherlands,14,IJR Zwilling,KA Green,HDJ Siegers,,0,0,0,,,,32175232175
+1,Netherlands,14,IJR Zwilling,KA Green,HDJ Siegers,,0,2,2,,,,32175232175
+1,Netherlands,14,IJR Zwilling,KA Green,HDJ Siegers,,0,0,0,,,,32175232175
+1,Netherlands,14,IJR Zwilling,KA Green,HDJ Siegers,,0,1,1,,,,32175232175
+1,Netherlands,15,IJR Zwilling,W Mwatile,HDJ Siegers,,0,1,1,,,,32175232175
+1,Netherlands,15,HDJ Siegers,W Mwatile,IJR Zwilling,,0,0,0,,,,32175232175
+1,Netherlands,15,HDJ Siegers,W Mwatile,IJR Zwilling,,0,1,1,,,,32175232175
+1,Netherlands,15,IJR Zwilling,W Mwatile,HDJ Siegers,,0,0,0,,,,32175232175
+1,Netherlands,15,IJR Zwilling,W Mwatile,HDJ Siegers,,0,2,2,,,,32175232175
+1,Netherlands,15,IJR Zwilling,W Mwatile,HDJ Siegers,,0,1,1,,,,32175232175
+1,Netherlands,16,IJR Zwilling,V Hamunyela,HDJ Siegers,,0,0,0,,,,32175232175
+1,Netherlands,16,IJR Zwilling,V Hamunyela,HDJ Siegers,,0,0,0,,,,32175232175
+1,Netherlands,16,IJR Zwilling,V Hamunyela,HDJ Siegers,,0,1,1,,,,32175232175
+1,Netherlands,16,HDJ Siegers,V Hamunyela,IJR Zwilling,,0,0,0,,,,32175232175
+1,Netherlands,16,HDJ Siegers,V Hamunyela,IJR Zwilling,,0,6,6,,,,32175232175
+1,Netherlands,16,HDJ Siegers,V Hamunyela,IJR Zwilling,,0,1,1,,,,32175232175
+1,Netherlands,17,HDJ Siegers,D Foerster,IJR Zwilling,,0,1,1,,,,32175232175
+1,Netherlands,17,IJR Zwilling,D Foerster,HDJ Siegers,,0,0,0,,,,32175232175
+1,Netherlands,17,IJR Zwilling,D Foerster,HDJ Siegers,,0,1,1,,,,32175232175
+1,Netherlands,17,HDJ Siegers,D Foerster,IJR Zwilling,,0,2,2,,,,32175232175
+1,Netherlands,17,HDJ Siegers,D Foerster,IJR Zwilling,,0,0,0,,,,32175232175
+1,Netherlands,17,HDJ Siegers,D Foerster,IJR Zwilling,,0,2,2,,,,32175232175
+1,Netherlands,18,IJR Zwilling,V Hamunyela,HDJ Siegers,,0,0,0,,,,32175232175
+1,Netherlands,18,IJR Zwilling,V Hamunyela,HDJ Siegers,wides,1,1,0,,,,32175232175
+1,Netherlands,18,IJR Zwilling,V Hamunyela,HDJ Siegers,,0,0,0,,,,32175232175
+1,Netherlands,18,IJR Zwilling,V Hamunyela,HDJ Siegers,,0,2,2,,,,32175232175
+1,Netherlands,18,IJR Zwilling,V Hamunyela,HDJ Siegers,,0,1,1,,,,32175232175
+1,Netherlands,18,HDJ Siegers,V Hamunyela,IJR Zwilling,,0,1,1,,,,32175232175
+1,Netherlands,18,IJR Zwilling,V Hamunyela,HDJ Siegers,,0,0,0,bowled,IJR Zwilling,,32175232175
+1,Netherlands,19,HDJ Siegers,D Foerster,F Overdijk,,0,0,0,,,,32175232175
+1,Netherlands,19,HDJ Siegers,D Foerster,F Overdijk,,0,0,0,,,,32175232175
+1,Netherlands,19,HDJ Siegers,D Foerster,F Overdijk,,0,4,4,,,,32175232175
+1,Netherlands,19,HDJ Siegers,D Foerster,F Overdijk,,0,0,0,caught,HDJ Siegers,SN Shihepo,32175232175
+1,Netherlands,19,F Overdijk,D Foerster,AS van Beuge,,0,0,0,,,,32175232175
+1,Netherlands,19,F Overdijk,D Foerster,AS van Beuge,,0,1,1,,,,32175232175

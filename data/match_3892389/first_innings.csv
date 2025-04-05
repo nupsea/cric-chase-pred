@@ -1,0 +1,122 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,GC Smith,Z Khan,HH Gibbs,,0,0,0,,,,3892389
+1,South Africa,0,GC Smith,Z Khan,HH Gibbs,,0,2,2,,,,3892389
+1,South Africa,0,GC Smith,Z Khan,HH Gibbs,wides,1,1,0,,,,3892389
+1,South Africa,0,GC Smith,Z Khan,HH Gibbs,,0,0,0,,,,3892389
+1,South Africa,0,GC Smith,Z Khan,HH Gibbs,,0,0,0,,,,3892389
+1,South Africa,0,GC Smith,Z Khan,HH Gibbs,,0,4,4,,,,3892389
+1,South Africa,0,GC Smith,Z Khan,HH Gibbs,,0,0,0,,,,3892389
+1,South Africa,1,HH Gibbs,RP Singh,GC Smith,,0,1,1,,,,3892389
+1,South Africa,1,GC Smith,RP Singh,HH Gibbs,,0,1,1,,,,3892389
+1,South Africa,1,HH Gibbs,RP Singh,GC Smith,,0,4,4,,,,3892389
+1,South Africa,1,HH Gibbs,RP Singh,GC Smith,,0,0,0,bowled,HH Gibbs,,3892389
+1,South Africa,1,AB de Villiers,RP Singh,GC Smith,,0,0,0,,,,3892389
+1,South Africa,1,AB de Villiers,RP Singh,GC Smith,,0,4,4,,,,3892389
+1,South Africa,2,GC Smith,Z Khan,AB de Villiers,,0,4,4,,,,3892389
+1,South Africa,2,GC Smith,Z Khan,AB de Villiers,,0,2,2,,,,3892389
+1,South Africa,2,GC Smith,Z Khan,AB de Villiers,,0,0,0,,,,3892389
+1,South Africa,2,GC Smith,Z Khan,AB de Villiers,,0,1,1,,,,3892389
+1,South Africa,2,AB de Villiers,Z Khan,GC Smith,,0,1,1,,,,3892389
+1,South Africa,2,GC Smith,Z Khan,AB de Villiers,,0,2,2,,,,3892389
+1,South Africa,3,AB de Villiers,RP Singh,GC Smith,,0,4,4,,,,3892389
+1,South Africa,3,AB de Villiers,RP Singh,GC Smith,,0,0,0,,,,3892389
+1,South Africa,3,AB de Villiers,RP Singh,GC Smith,,0,4,4,,,,3892389
+1,South Africa,3,AB de Villiers,RP Singh,GC Smith,,0,0,0,,,,3892389
+1,South Africa,3,AB de Villiers,RP Singh,GC Smith,,0,1,1,,,,3892389
+1,South Africa,3,GC Smith,RP Singh,AB de Villiers,,0,2,2,,,,3892389
+1,South Africa,4,AB de Villiers,I Sharma,GC Smith,,0,0,0,,,,3892389
+1,South Africa,4,AB de Villiers,I Sharma,GC Smith,,0,4,4,,,,3892389
+1,South Africa,4,AB de Villiers,I Sharma,GC Smith,,0,0,0,,,,3892389
+1,South Africa,4,AB de Villiers,I Sharma,GC Smith,,0,1,1,,,,3892389
+1,South Africa,4,GC Smith,I Sharma,AB de Villiers,,0,1,1,,,,3892389
+1,South Africa,4,AB de Villiers,I Sharma,GC Smith,,0,0,0,,,,3892389
+1,South Africa,5,GC Smith,RA Jadeja,AB de Villiers,,0,0,0,,,,3892389
+1,South Africa,5,GC Smith,RA Jadeja,AB de Villiers,,0,1,1,,,,3892389
+1,South Africa,5,AB de Villiers,RA Jadeja,GC Smith,,0,0,0,,,,3892389
+1,South Africa,5,AB de Villiers,RA Jadeja,GC Smith,,0,1,1,,,,3892389
+1,South Africa,5,GC Smith,RA Jadeja,AB de Villiers,,0,0,0,,,,3892389
+1,South Africa,5,GC Smith,RA Jadeja,AB de Villiers,,0,1,1,,,,3892389
+1,South Africa,6,GC Smith,RG Sharma,AB de Villiers,,0,0,0,,,,3892389
+1,South Africa,6,GC Smith,RG Sharma,AB de Villiers,,0,1,1,,,,3892389
+1,South Africa,6,AB de Villiers,RG Sharma,GC Smith,,0,2,2,,,,3892389
+1,South Africa,6,AB de Villiers,RG Sharma,GC Smith,,0,1,1,,,,3892389
+1,South Africa,6,GC Smith,RG Sharma,AB de Villiers,,0,1,1,,,,3892389
+1,South Africa,6,AB de Villiers,RG Sharma,GC Smith,,0,1,1,,,,3892389
+1,South Africa,7,AB de Villiers,Yuvraj Singh,GC Smith,,0,1,1,,,,3892389
+1,South Africa,7,GC Smith,Yuvraj Singh,AB de Villiers,,0,0,0,,,,3892389
+1,South Africa,7,GC Smith,Yuvraj Singh,AB de Villiers,,0,1,1,,,,3892389
+1,South Africa,7,AB de Villiers,Yuvraj Singh,GC Smith,,0,0,0,,,,3892389
+1,South Africa,7,AB de Villiers,Yuvraj Singh,GC Smith,,0,1,1,,,,3892389
+1,South Africa,7,GC Smith,Yuvraj Singh,AB de Villiers,,0,1,1,,,,3892389
+1,South Africa,8,GC Smith,Harbhajan Singh,AB de Villiers,,0,1,1,,,,3892389
+1,South Africa,8,AB de Villiers,Harbhajan Singh,GC Smith,,0,1,1,,,,3892389
+1,South Africa,8,GC Smith,Harbhajan Singh,AB de Villiers,,0,0,0,caught,GC Smith,RA Jadeja,3892389
+1,South Africa,8,AB de Villiers,Harbhajan Singh,JP Duminy,,0,0,0,,,,3892389
+1,South Africa,8,AB de Villiers,Harbhajan Singh,JP Duminy,,0,0,0,,,,3892389
+1,South Africa,8,AB de Villiers,Harbhajan Singh,JP Duminy,,0,0,0,,,,3892389
+1,South Africa,9,JP Duminy,Yuvraj Singh,AB de Villiers,,0,1,1,,,,3892389
+1,South Africa,9,AB de Villiers,Yuvraj Singh,JP Duminy,,0,1,1,,,,3892389
+1,South Africa,9,JP Duminy,Yuvraj Singh,AB de Villiers,,0,1,1,,,,3892389
+1,South Africa,9,AB de Villiers,Yuvraj Singh,JP Duminy,,0,0,0,,,,3892389
+1,South Africa,9,AB de Villiers,Yuvraj Singh,JP Duminy,,0,2,2,,,,3892389
+1,South Africa,9,AB de Villiers,Yuvraj Singh,JP Duminy,,0,1,1,,,,3892389
+1,South Africa,10,AB de Villiers,Harbhajan Singh,JP Duminy,,0,2,2,,,,3892389
+1,South Africa,10,AB de Villiers,Harbhajan Singh,JP Duminy,,0,1,1,,,,3892389
+1,South Africa,10,JP Duminy,Harbhajan Singh,AB de Villiers,,0,2,2,,,,3892389
+1,South Africa,10,JP Duminy,Harbhajan Singh,AB de Villiers,,0,1,1,,,,3892389
+1,South Africa,10,AB de Villiers,Harbhajan Singh,JP Duminy,,0,1,1,,,,3892389
+1,South Africa,10,JP Duminy,Harbhajan Singh,AB de Villiers,,0,0,0,,,,3892389
+1,South Africa,11,AB de Villiers,Yuvraj Singh,JP Duminy,,0,0,0,,,,3892389
+1,South Africa,11,AB de Villiers,Yuvraj Singh,JP Duminy,,0,1,1,,,,3892389
+1,South Africa,11,JP Duminy,Yuvraj Singh,AB de Villiers,,0,0,0,,,,3892389
+1,South Africa,11,JP Duminy,Yuvraj Singh,AB de Villiers,,0,2,2,,,,3892389
+1,South Africa,11,JP Duminy,Yuvraj Singh,AB de Villiers,,0,0,0,,,,3892389
+1,South Africa,11,JP Duminy,Yuvraj Singh,AB de Villiers,,0,0,0,,,,3892389
+1,South Africa,12,AB de Villiers,Harbhajan Singh,JP Duminy,,0,1,1,,,,3892389
+1,South Africa,12,JP Duminy,Harbhajan Singh,AB de Villiers,,0,1,1,,,,3892389
+1,South Africa,12,AB de Villiers,Harbhajan Singh,JP Duminy,,0,2,2,,,,3892389
+1,South Africa,12,AB de Villiers,Harbhajan Singh,JP Duminy,,0,1,1,,,,3892389
+1,South Africa,12,JP Duminy,Harbhajan Singh,AB de Villiers,,0,0,0,,,,3892389
+1,South Africa,12,JP Duminy,Harbhajan Singh,AB de Villiers,,0,0,0,,,,3892389
+1,South Africa,13,AB de Villiers,Yuvraj Singh,JP Duminy,,0,2,2,,,,3892389
+1,South Africa,13,AB de Villiers,Yuvraj Singh,JP Duminy,,0,0,0,,,,3892389
+1,South Africa,13,AB de Villiers,Yuvraj Singh,JP Duminy,,0,4,4,,,,3892389
+1,South Africa,13,AB de Villiers,Yuvraj Singh,JP Duminy,,0,4,4,,,,3892389
+1,South Africa,13,AB de Villiers,Yuvraj Singh,JP Duminy,,0,1,1,,,,3892389
+1,South Africa,13,JP Duminy,Yuvraj Singh,AB de Villiers,,0,1,1,,,,3892389
+1,South Africa,14,JP Duminy,SK Raina,AB de Villiers,,0,1,1,,,,3892389
+1,South Africa,14,AB de Villiers,SK Raina,JP Duminy,,0,4,4,,,,3892389
+1,South Africa,14,AB de Villiers,SK Raina,JP Duminy,,0,1,1,,,,3892389
+1,South Africa,14,JP Duminy,SK Raina,AB de Villiers,,0,0,0,stumped,JP Duminy,MS Dhoni,3892389
+1,South Africa,14,MV Boucher,SK Raina,AB de Villiers,,0,0,0,,,,3892389
+1,South Africa,14,MV Boucher,SK Raina,AB de Villiers,,0,0,0,,,,3892389
+1,South Africa,15,AB de Villiers,RA Jadeja,MV Boucher,,0,0,0,,,,3892389
+1,South Africa,15,AB de Villiers,RA Jadeja,MV Boucher,,0,1,1,,,,3892389
+1,South Africa,15,MV Boucher,RA Jadeja,AB de Villiers,,0,0,0,,,,3892389
+1,South Africa,15,MV Boucher,RA Jadeja,AB de Villiers,,0,0,0,,,,3892389
+1,South Africa,15,MV Boucher,RA Jadeja,AB de Villiers,,0,0,0,,,,3892389
+1,South Africa,15,MV Boucher,RA Jadeja,AB de Villiers,,0,0,0,,,,3892389
+1,South Africa,16,AB de Villiers,RG Sharma,MV Boucher,,0,1,1,,,,3892389
+1,South Africa,16,MV Boucher,RG Sharma,AB de Villiers,,0,1,1,,,,3892389
+1,South Africa,16,AB de Villiers,RG Sharma,MV Boucher,,0,2,2,,,,3892389
+1,South Africa,16,AB de Villiers,RG Sharma,MV Boucher,,0,1,1,,,,3892389
+1,South Africa,16,MV Boucher,RG Sharma,AB de Villiers,,0,0,0,,,,3892389
+1,South Africa,16,MV Boucher,RG Sharma,AB de Villiers,,0,4,4,,,,3892389
+1,South Africa,17,AB de Villiers,RA Jadeja,MV Boucher,,0,2,2,,,,3892389
+1,South Africa,17,AB de Villiers,RA Jadeja,MV Boucher,,0,0,0,caught and bowled,AB de Villiers,,3892389
+1,South Africa,17,MV Boucher,RA Jadeja,JA Morkel,,0,1,1,,,,3892389
+1,South Africa,17,JA Morkel,RA Jadeja,MV Boucher,,0,0,0,,,,3892389
+1,South Africa,17,JA Morkel,RA Jadeja,MV Boucher,,0,1,1,,,,3892389
+1,South Africa,17,MV Boucher,RA Jadeja,JA Morkel,,0,1,1,,,,3892389
+1,South Africa,18,MV Boucher,Harbhajan Singh,JA Morkel,,0,1,1,,,,3892389
+1,South Africa,18,JA Morkel,Harbhajan Singh,MV Boucher,,0,0,0,,,,3892389
+1,South Africa,18,JA Morkel,Harbhajan Singh,MV Boucher,,0,1,1,,,,3892389
+1,South Africa,18,MV Boucher,Harbhajan Singh,JA Morkel,,0,1,1,,,,3892389
+1,South Africa,18,JA Morkel,Harbhajan Singh,MV Boucher,,0,1,1,,,,3892389
+1,South Africa,18,MV Boucher,Harbhajan Singh,JA Morkel,,0,2,2,,,,3892389
+1,South Africa,19,JA Morkel,Z Khan,MV Boucher,legbyes,1,1,0,,,,3892389
+1,South Africa,19,MV Boucher,Z Khan,JA Morkel,,0,0,0,caught,MV Boucher,RP Singh,3892389
+1,South Africa,19,JA Morkel,Z Khan,J Botha,,0,4,4,,,,3892389
+1,South Africa,19,JA Morkel,Z Khan,J Botha,,0,1,1,,,,3892389
+1,South Africa,19,J Botha,Z Khan,JA Morkel,,0,4,4,,,,3892389
+1,South Africa,19,J Botha,Z Khan,JA Morkel,legbyes,1,1,0,,,,3892389

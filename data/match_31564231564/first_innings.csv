@@ -1,0 +1,116 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Zimbabwe,0,W Madhevere,Mohammad Saifuddin,T Marumani,,0,0,0,,,,31564231564
+1,Zimbabwe,0,W Madhevere,Mohammad Saifuddin,T Marumani,,0,1,1,,,,31564231564
+1,Zimbabwe,0,T Marumani,Mohammad Saifuddin,W Madhevere,,0,0,0,,,,31564231564
+1,Zimbabwe,0,T Marumani,Mohammad Saifuddin,W Madhevere,,0,0,0,,,,31564231564
+1,Zimbabwe,0,T Marumani,Mohammad Saifuddin,W Madhevere,,0,1,1,,,,31564231564
+1,Zimbabwe,0,W Madhevere,Mohammad Saifuddin,T Marumani,legbyes,1,1,0,,,,31564231564
+1,Zimbabwe,1,W Madhevere,Mustafizur Rahman,T Marumani,,0,1,1,,,,31564231564
+1,Zimbabwe,1,T Marumani,Mustafizur Rahman,W Madhevere,,0,6,6,,,,31564231564
+1,Zimbabwe,1,T Marumani,Mustafizur Rahman,W Madhevere,,0,0,0,,,,31564231564
+1,Zimbabwe,1,T Marumani,Mustafizur Rahman,W Madhevere,,0,0,0,,,,31564231564
+1,Zimbabwe,1,T Marumani,Mustafizur Rahman,W Madhevere,,0,0,0,caught,T Marumani,Soumya Sarkar,31564231564
+1,Zimbabwe,1,W Madhevere,Mustafizur Rahman,RW Chakabva,,0,2,2,,,,31564231564
+1,Zimbabwe,2,RW Chakabva,Shakib Al Hasan,W Madhevere,,0,1,1,,,,31564231564
+1,Zimbabwe,2,W Madhevere,Shakib Al Hasan,RW Chakabva,,0,0,0,,,,31564231564
+1,Zimbabwe,2,W Madhevere,Shakib Al Hasan,RW Chakabva,,0,1,1,,,,31564231564
+1,Zimbabwe,2,RW Chakabva,Shakib Al Hasan,W Madhevere,wides,1,1,0,,,,31564231564
+1,Zimbabwe,2,RW Chakabva,Shakib Al Hasan,W Madhevere,,0,4,4,,,,31564231564
+1,Zimbabwe,2,RW Chakabva,Shakib Al Hasan,W Madhevere,,0,0,0,,,,31564231564
+1,Zimbabwe,2,RW Chakabva,Shakib Al Hasan,W Madhevere,,0,4,4,,,,31564231564
+1,Zimbabwe,3,W Madhevere,Shoriful Islam,RW Chakabva,,0,6,6,,,,31564231564
+1,Zimbabwe,3,W Madhevere,Shoriful Islam,RW Chakabva,,0,1,1,,,,31564231564
+1,Zimbabwe,3,RW Chakabva,Shoriful Islam,W Madhevere,,0,4,4,,,,31564231564
+1,Zimbabwe,3,RW Chakabva,Shoriful Islam,W Madhevere,,0,1,1,,,,31564231564
+1,Zimbabwe,3,W Madhevere,Shoriful Islam,RW Chakabva,,0,0,0,,,,31564231564
+1,Zimbabwe,3,W Madhevere,Shoriful Islam,RW Chakabva,,0,3,3,,,,31564231564
+1,Zimbabwe,4,W Madhevere,Mustafizur Rahman,RW Chakabva,,0,2,2,,,,31564231564
+1,Zimbabwe,4,W Madhevere,Mustafizur Rahman,RW Chakabva,,0,0,0,,,,31564231564
+1,Zimbabwe,4,W Madhevere,Mustafizur Rahman,RW Chakabva,,0,0,0,,,,31564231564
+1,Zimbabwe,4,W Madhevere,Mustafizur Rahman,RW Chakabva,,0,1,1,,,,31564231564
+1,Zimbabwe,4,RW Chakabva,Mustafizur Rahman,W Madhevere,,0,4,4,,,,31564231564
+1,Zimbabwe,4,RW Chakabva,Mustafizur Rahman,W Madhevere,,0,1,1,,,,31564231564
+1,Zimbabwe,5,RW Chakabva,Mohammad Saifuddin,W Madhevere,,0,1,1,,,,31564231564
+1,Zimbabwe,5,W Madhevere,Mohammad Saifuddin,RW Chakabva,,0,0,0,,,,31564231564
+1,Zimbabwe,5,W Madhevere,Mohammad Saifuddin,RW Chakabva,,0,0,0,,,,31564231564
+1,Zimbabwe,5,W Madhevere,Mohammad Saifuddin,RW Chakabva,,0,1,1,,,,31564231564
+1,Zimbabwe,5,RW Chakabva,Mohammad Saifuddin,W Madhevere,,0,1,1,,,,31564231564
+1,Zimbabwe,5,W Madhevere,Mohammad Saifuddin,RW Chakabva,,0,1,1,,,,31564231564
+1,Zimbabwe,6,W Madhevere,Shakib Al Hasan,RW Chakabva,,0,1,1,,,,31564231564
+1,Zimbabwe,6,RW Chakabva,Shakib Al Hasan,W Madhevere,,0,0,0,,,,31564231564
+1,Zimbabwe,6,RW Chakabva,Shakib Al Hasan,W Madhevere,,0,2,2,,,,31564231564
+1,Zimbabwe,6,RW Chakabva,Shakib Al Hasan,W Madhevere,,0,1,1,,,,31564231564
+1,Zimbabwe,6,W Madhevere,Shakib Al Hasan,RW Chakabva,,0,1,1,,,,31564231564
+1,Zimbabwe,6,RW Chakabva,Shakib Al Hasan,W Madhevere,legbyes,1,1,0,,,,31564231564
+1,Zimbabwe,7,RW Chakabva,Mahedi Hasan,W Madhevere,,0,4,4,,,,31564231564
+1,Zimbabwe,7,RW Chakabva,Mahedi Hasan,W Madhevere,,0,1,1,,,,31564231564
+1,Zimbabwe,7,W Madhevere,Mahedi Hasan,RW Chakabva,,0,1,1,,,,31564231564
+1,Zimbabwe,7,RW Chakabva,Mahedi Hasan,W Madhevere,,0,6,6,,,,31564231564
+1,Zimbabwe,7,RW Chakabva,Mahedi Hasan,W Madhevere,,0,6,6,,,,31564231564
+1,Zimbabwe,7,RW Chakabva,Mahedi Hasan,W Madhevere,,0,0,0,,,,31564231564
+1,Zimbabwe,8,W Madhevere,Shakib Al Hasan,RW Chakabva,,0,0,0,caught and bowled,W Madhevere,,31564231564
+1,Zimbabwe,8,D Myers,Shakib Al Hasan,RW Chakabva,,0,0,0,,,,31564231564
+1,Zimbabwe,8,D Myers,Shakib Al Hasan,RW Chakabva,,0,1,1,,,,31564231564
+1,Zimbabwe,8,RW Chakabva,Shakib Al Hasan,D Myers,,0,1,1,,,,31564231564
+1,Zimbabwe,8,D Myers,Shakib Al Hasan,RW Chakabva,,0,0,0,,,,31564231564
+1,Zimbabwe,8,D Myers,Shakib Al Hasan,RW Chakabva,,0,1,1,,,,31564231564
+1,Zimbabwe,9,D Myers,Mahmudullah,RW Chakabva,,0,2,2,,,,31564231564
+1,Zimbabwe,9,D Myers,Mahmudullah,RW Chakabva,,0,1,1,,,,31564231564
+1,Zimbabwe,9,RW Chakabva,Mahmudullah,D Myers,,0,1,1,,,,31564231564
+1,Zimbabwe,9,D Myers,Mahmudullah,RW Chakabva,,0,4,4,,,,31564231564
+1,Zimbabwe,9,D Myers,Mahmudullah,RW Chakabva,,0,2,2,,,,31564231564
+1,Zimbabwe,9,D Myers,Mahmudullah,RW Chakabva,,0,4,4,,,,31564231564
+1,Zimbabwe,10,RW Chakabva,Shoriful Islam,D Myers,,0,0,0,run out,RW Chakabva,Nurul Hasan,31564231564
+1,Zimbabwe,10,D Myers,Shoriful Islam,Sikandar Raza,,0,1,1,,,,31564231564
+1,Zimbabwe,10,Sikandar Raza,Shoriful Islam,D Myers,,0,0,0,,,,31564231564
+1,Zimbabwe,10,Sikandar Raza,Shoriful Islam,D Myers,,0,0,0,,,,31564231564
+1,Zimbabwe,10,Sikandar Raza,Shoriful Islam,D Myers,,0,0,0,caught,Sikandar Raza,Nurul Hasan,31564231564
+1,Zimbabwe,10,TK Musakanda,Shoriful Islam,D Myers,,0,0,0,,,,31564231564
+1,Zimbabwe,11,D Myers,Soumya Sarkar,TK Musakanda,,0,2,2,,,,31564231564
+1,Zimbabwe,11,D Myers,Soumya Sarkar,TK Musakanda,,0,1,1,,,,31564231564
+1,Zimbabwe,11,TK Musakanda,Soumya Sarkar,D Myers,,0,1,1,,,,31564231564
+1,Zimbabwe,11,D Myers,Soumya Sarkar,TK Musakanda,,0,1,1,,,,31564231564
+1,Zimbabwe,11,TK Musakanda,Soumya Sarkar,D Myers,,0,4,4,,,,31564231564
+1,Zimbabwe,11,TK Musakanda,Soumya Sarkar,D Myers,,0,0,0,,,,31564231564
+1,Zimbabwe,12,D Myers,Shakib Al Hasan,TK Musakanda,,0,1,1,,,,31564231564
+1,Zimbabwe,12,TK Musakanda,Shakib Al Hasan,D Myers,,0,1,1,,,,31564231564
+1,Zimbabwe,12,D Myers,Shakib Al Hasan,TK Musakanda,,0,2,2,,,,31564231564
+1,Zimbabwe,12,D Myers,Shakib Al Hasan,TK Musakanda,,0,2,2,,,,31564231564
+1,Zimbabwe,12,D Myers,Shakib Al Hasan,TK Musakanda,,0,2,2,,,,31564231564
+1,Zimbabwe,12,D Myers,Shakib Al Hasan,TK Musakanda,,0,1,1,,,,31564231564
+1,Zimbabwe,13,D Myers,Soumya Sarkar,TK Musakanda,,0,1,1,,,,31564231564
+1,Zimbabwe,13,TK Musakanda,Soumya Sarkar,D Myers,,0,0,0,lbw,TK Musakanda,,31564231564
+1,Zimbabwe,13,RP Burl,Soumya Sarkar,D Myers,,0,1,1,,,,31564231564
+1,Zimbabwe,13,D Myers,Soumya Sarkar,RP Burl,,0,1,1,,,,31564231564
+1,Zimbabwe,13,RP Burl,Soumya Sarkar,D Myers,,0,1,1,,,,31564231564
+1,Zimbabwe,13,D Myers,Soumya Sarkar,RP Burl,,0,5,5,,,,31564231564
+1,Zimbabwe,14,D Myers,Shoriful Islam,RP Burl,,0,0,0,bowled,D Myers,,31564231564
+1,Zimbabwe,14,LM Jongwe,Shoriful Islam,RP Burl,,0,0,0,,,,31564231564
+1,Zimbabwe,14,LM Jongwe,Shoriful Islam,RP Burl,,0,0,0,,,,31564231564
+1,Zimbabwe,14,LM Jongwe,Shoriful Islam,RP Burl,,0,0,0,,,,31564231564
+1,Zimbabwe,14,LM Jongwe,Shoriful Islam,RP Burl,,0,0,0,,,,31564231564
+1,Zimbabwe,14,LM Jongwe,Shoriful Islam,RP Burl,,0,1,1,,,,31564231564
+1,Zimbabwe,15,LM Jongwe,Mohammad Saifuddin,RP Burl,,0,2,2,,,,31564231564
+1,Zimbabwe,15,LM Jongwe,Mohammad Saifuddin,RP Burl,,0,1,1,,,,31564231564
+1,Zimbabwe,15,RP Burl,Mohammad Saifuddin,LM Jongwe,,0,1,1,,,,31564231564
+1,Zimbabwe,15,LM Jongwe,Mohammad Saifuddin,RP Burl,,0,2,2,,,,31564231564
+1,Zimbabwe,15,LM Jongwe,Mohammad Saifuddin,RP Burl,,0,4,4,,,,31564231564
+1,Zimbabwe,15,LM Jongwe,Mohammad Saifuddin,RP Burl,,0,0,0,,,,31564231564
+1,Zimbabwe,16,RP Burl,Mustafizur Rahman,LM Jongwe,,0,1,1,,,,31564231564
+1,Zimbabwe,16,LM Jongwe,Mustafizur Rahman,RP Burl,,0,2,2,,,,31564231564
+1,Zimbabwe,16,LM Jongwe,Mustafizur Rahman,RP Burl,,0,0,0,,,,31564231564
+1,Zimbabwe,16,LM Jongwe,Mustafizur Rahman,RP Burl,,0,1,1,,,,31564231564
+1,Zimbabwe,16,RP Burl,Mustafizur Rahman,LM Jongwe,legbyes,1,1,0,,,,31564231564
+1,Zimbabwe,16,LM Jongwe,Mustafizur Rahman,RP Burl,,0,1,1,,,,31564231564
+1,Zimbabwe,17,LM Jongwe,Mohammad Saifuddin,RP Burl,,0,4,4,,,,31564231564
+1,Zimbabwe,17,LM Jongwe,Mohammad Saifuddin,RP Burl,,0,0,0,bowled,LM Jongwe,,31564231564
+1,Zimbabwe,17,WP Masakadza,Mohammad Saifuddin,RP Burl,,0,2,2,,,,31564231564
+1,Zimbabwe,17,WP Masakadza,Mohammad Saifuddin,RP Burl,,0,1,1,,,,31564231564
+1,Zimbabwe,17,RP Burl,Mohammad Saifuddin,WP Masakadza,,0,0,0,caught,RP Burl,Shamim Hossain,31564231564
+1,Zimbabwe,17,R Ngarava,Mohammad Saifuddin,WP Masakadza,,0,0,0,,,,31564231564
+1,Zimbabwe,18,WP Masakadza,Mustafizur Rahman,R Ngarava,,0,1,1,,,,31564231564
+1,Zimbabwe,18,R Ngarava,Mustafizur Rahman,WP Masakadza,,0,0,0,bowled,R Ngarava,,31564231564
+1,Zimbabwe,18,B Muzarabani,Mustafizur Rahman,WP Masakadza,,0,0,0,,,,31564231564
+1,Zimbabwe,18,B Muzarabani,Mustafizur Rahman,WP Masakadza,,0,4,4,,,,31564231564
+1,Zimbabwe,18,B Muzarabani,Mustafizur Rahman,WP Masakadza,,0,4,4,,,,31564231564
+1,Zimbabwe,18,B Muzarabani,Mustafizur Rahman,WP Masakadza,,0,0,0,bowled,B Muzarabani,,31564231564

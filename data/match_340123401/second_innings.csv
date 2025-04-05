@@ -1,0 +1,121 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Afghanistan,0,Mohammad Shahzad,B Regmi,Karim Sadiq,,0,0,0,,,,340123401
+2,Afghanistan,0,Mohammad Shahzad,B Regmi,Karim Sadiq,,0,1,1,,,,340123401
+2,Afghanistan,0,Karim Sadiq,B Regmi,Mohammad Shahzad,,0,4,4,,,,340123401
+2,Afghanistan,0,Karim Sadiq,B Regmi,Mohammad Shahzad,,0,0,0,,,,340123401
+2,Afghanistan,0,Karim Sadiq,B Regmi,Mohammad Shahzad,,0,4,4,,,,340123401
+2,Afghanistan,0,Karim Sadiq,B Regmi,Mohammad Shahzad,,0,0,0,,,,340123401
+2,Afghanistan,1,Mohammad Shahzad,Sompal Kami,Karim Sadiq,,0,0,0,,,,340123401
+2,Afghanistan,1,Mohammad Shahzad,Sompal Kami,Karim Sadiq,,0,0,0,,,,340123401
+2,Afghanistan,1,Mohammad Shahzad,Sompal Kami,Karim Sadiq,,0,0,0,,,,340123401
+2,Afghanistan,1,Mohammad Shahzad,Sompal Kami,Karim Sadiq,legbyes,1,1,0,,,,340123401
+2,Afghanistan,1,Karim Sadiq,Sompal Kami,Mohammad Shahzad,,0,0,0,,,,340123401
+2,Afghanistan,1,Karim Sadiq,Sompal Kami,Mohammad Shahzad,,0,0,0,,,,340123401
+2,Afghanistan,2,Mohammad Shahzad,JK Mukhiya,Karim Sadiq,,0,0,0,,,,340123401
+2,Afghanistan,2,Mohammad Shahzad,JK Mukhiya,Karim Sadiq,,0,0,0,,,,340123401
+2,Afghanistan,2,Mohammad Shahzad,JK Mukhiya,Karim Sadiq,,0,4,4,,,,340123401
+2,Afghanistan,2,Mohammad Shahzad,JK Mukhiya,Karim Sadiq,,0,0,0,,,,340123401
+2,Afghanistan,2,Mohammad Shahzad,JK Mukhiya,Karim Sadiq,,0,0,0,,,,340123401
+2,Afghanistan,2,Mohammad Shahzad,JK Mukhiya,Karim Sadiq,,0,0,0,,,,340123401
+2,Afghanistan,3,Karim Sadiq,Sompal Kami,Mohammad Shahzad,,0,0,0,bowled,Karim Sadiq,,340123401
+2,Afghanistan,3,Najibullah Zadran,Sompal Kami,Mohammad Shahzad,,0,1,1,,,,340123401
+2,Afghanistan,3,Mohammad Shahzad,Sompal Kami,Najibullah Zadran,,0,0,0,,,,340123401
+2,Afghanistan,3,Mohammad Shahzad,Sompal Kami,Najibullah Zadran,,0,1,1,,,,340123401
+2,Afghanistan,3,Najibullah Zadran,Sompal Kami,Mohammad Shahzad,,0,0,0,,,,340123401
+2,Afghanistan,3,Najibullah Zadran,Sompal Kami,Mohammad Shahzad,,0,4,4,,,,340123401
+2,Afghanistan,4,Mohammad Shahzad,JK Mukhiya,Najibullah Zadran,,0,0,0,,,,340123401
+2,Afghanistan,4,Mohammad Shahzad,JK Mukhiya,Najibullah Zadran,,0,0,0,,,,340123401
+2,Afghanistan,4,Mohammad Shahzad,JK Mukhiya,Najibullah Zadran,,0,0,0,caught,Mohammad Shahzad,Sompal Kami,340123401
+2,Afghanistan,4,Najibullah Zadran,JK Mukhiya,Nawroz Mangal,,0,0,0,caught,Najibullah Zadran,S Vesawkar,340123401
+2,Afghanistan,4,Shafiqullah,JK Mukhiya,Nawroz Mangal,,0,0,0,,,,340123401
+2,Afghanistan,4,Shafiqullah,JK Mukhiya,Nawroz Mangal,,0,1,1,,,,340123401
+2,Afghanistan,5,Shafiqullah,P Khadka,Nawroz Mangal,,0,0,0,,,,340123401
+2,Afghanistan,5,Shafiqullah,P Khadka,Nawroz Mangal,,0,0,0,,,,340123401
+2,Afghanistan,5,Shafiqullah,P Khadka,Nawroz Mangal,,0,0,0,,,,340123401
+2,Afghanistan,5,Shafiqullah,P Khadka,Nawroz Mangal,,0,1,1,,,,340123401
+2,Afghanistan,5,Nawroz Mangal,P Khadka,Shafiqullah,,0,1,1,,,,340123401
+2,Afghanistan,5,Shafiqullah,P Khadka,Nawroz Mangal,,0,1,1,,,,340123401
+2,Afghanistan,6,Shafiqullah,B Regmi,Nawroz Mangal,,0,4,4,,,,340123401
+2,Afghanistan,6,Shafiqullah,B Regmi,Nawroz Mangal,,0,4,4,,,,340123401
+2,Afghanistan,6,Shafiqullah,B Regmi,Nawroz Mangal,,0,4,4,,,,340123401
+2,Afghanistan,6,Shafiqullah,B Regmi,Nawroz Mangal,,0,1,1,,,,340123401
+2,Afghanistan,6,Nawroz Mangal,B Regmi,Shafiqullah,,0,0,0,,,,340123401
+2,Afghanistan,6,Nawroz Mangal,B Regmi,Shafiqullah,byes,4,4,0,,,,340123401
+2,Afghanistan,7,Shafiqullah,P Khadka,Nawroz Mangal,,0,0,0,,,,340123401
+2,Afghanistan,7,Shafiqullah,P Khadka,Nawroz Mangal,,0,0,0,,,,340123401
+2,Afghanistan,7,Shafiqullah,P Khadka,Nawroz Mangal,,0,1,1,,,,340123401
+2,Afghanistan,7,Nawroz Mangal,P Khadka,Shafiqullah,,0,4,4,,,,340123401
+2,Afghanistan,7,Nawroz Mangal,P Khadka,Shafiqullah,,0,0,0,,,,340123401
+2,Afghanistan,7,Nawroz Mangal,P Khadka,Shafiqullah,,0,0,0,,,,340123401
+2,Afghanistan,8,Shafiqullah,SP Gauchan,Nawroz Mangal,,0,1,1,,,,340123401
+2,Afghanistan,8,Nawroz Mangal,SP Gauchan,Shafiqullah,,0,0,0,caught,Nawroz Mangal,P Khadka,340123401
+2,Afghanistan,8,Shafiqullah,SP Gauchan,Mohammad Nabi,,0,1,1,,,,340123401
+2,Afghanistan,8,Mohammad Nabi,SP Gauchan,Shafiqullah,,0,1,1,,,,340123401
+2,Afghanistan,8,Shafiqullah,SP Gauchan,Mohammad Nabi,,0,1,1,,,,340123401
+2,Afghanistan,8,Mohammad Nabi,SP Gauchan,Shafiqullah,,0,0,0,lbw,Mohammad Nabi,,340123401
+2,Afghanistan,9,Shafiqullah,P Khadka,Asghar Stanikzai,,0,1,1,,,,340123401
+2,Afghanistan,9,Asghar Stanikzai,P Khadka,Shafiqullah,,0,0,0,,,,340123401
+2,Afghanistan,9,Asghar Stanikzai,P Khadka,Shafiqullah,,0,0,0,,,,340123401
+2,Afghanistan,9,Asghar Stanikzai,P Khadka,Shafiqullah,,0,2,2,,,,340123401
+2,Afghanistan,9,Asghar Stanikzai,P Khadka,Shafiqullah,,0,1,1,,,,340123401
+2,Afghanistan,9,Shafiqullah,P Khadka,Asghar Stanikzai,,0,2,2,,,,340123401
+2,Afghanistan,10,Asghar Stanikzai,SP Gauchan,Shafiqullah,,0,1,1,,,,340123401
+2,Afghanistan,10,Shafiqullah,SP Gauchan,Asghar Stanikzai,,0,0,0,,,,340123401
+2,Afghanistan,10,Shafiqullah,SP Gauchan,Asghar Stanikzai,,0,1,1,,,,340123401
+2,Afghanistan,10,Asghar Stanikzai,SP Gauchan,Shafiqullah,,0,6,6,,,,340123401
+2,Afghanistan,10,Asghar Stanikzai,SP Gauchan,Shafiqullah,,0,0,0,,,,340123401
+2,Afghanistan,10,Asghar Stanikzai,SP Gauchan,Shafiqullah,,0,0,0,,,,340123401
+2,Afghanistan,11,Shafiqullah,Sagar Pun,Asghar Stanikzai,,0,1,1,,,,340123401
+2,Afghanistan,11,Asghar Stanikzai,Sagar Pun,Shafiqullah,,0,1,1,,,,340123401
+2,Afghanistan,11,Shafiqullah,Sagar Pun,Asghar Stanikzai,,0,0,0,,,,340123401
+2,Afghanistan,11,Shafiqullah,Sagar Pun,Asghar Stanikzai,,0,0,0,,,,340123401
+2,Afghanistan,11,Shafiqullah,Sagar Pun,Asghar Stanikzai,,0,1,1,,,,340123401
+2,Afghanistan,11,Asghar Stanikzai,Sagar Pun,Shafiqullah,,0,0,0,,,,340123401
+2,Afghanistan,12,Shafiqullah,SP Gauchan,Asghar Stanikzai,,0,6,6,,,,340123401
+2,Afghanistan,12,Shafiqullah,SP Gauchan,Asghar Stanikzai,,0,1,1,,,,340123401
+2,Afghanistan,12,Asghar Stanikzai,SP Gauchan,Shafiqullah,,0,4,4,,,,340123401
+2,Afghanistan,12,Asghar Stanikzai,SP Gauchan,Shafiqullah,,0,1,1,,,,340123401
+2,Afghanistan,12,Shafiqullah,SP Gauchan,Asghar Stanikzai,,0,1,1,,,,340123401
+2,Afghanistan,12,Asghar Stanikzai,SP Gauchan,Shafiqullah,,0,0,0,,,,340123401
+2,Afghanistan,13,Shafiqullah,Sagar Pun,Asghar Stanikzai,,0,0,0,,,,340123401
+2,Afghanistan,13,Shafiqullah,Sagar Pun,Asghar Stanikzai,,0,1,1,,,,340123401
+2,Afghanistan,13,Asghar Stanikzai,Sagar Pun,Shafiqullah,,0,1,1,,,,340123401
+2,Afghanistan,13,Shafiqullah,Sagar Pun,Asghar Stanikzai,,0,1,1,,,,340123401
+2,Afghanistan,13,Asghar Stanikzai,Sagar Pun,Shafiqullah,,0,0,0,,,,340123401
+2,Afghanistan,13,Asghar Stanikzai,Sagar Pun,Shafiqullah,,0,0,0,,,,340123401
+2,Afghanistan,14,Shafiqullah,B Regmi,Asghar Stanikzai,,0,0,0,caught,Shafiqullah,Sagar Pun,340123401
+2,Afghanistan,14,Samiullah Shenwari,B Regmi,Asghar Stanikzai,,0,1,1,,,,340123401
+2,Afghanistan,14,Asghar Stanikzai,B Regmi,Samiullah Shenwari,,0,0,0,,,,340123401
+2,Afghanistan,14,Asghar Stanikzai,B Regmi,Samiullah Shenwari,,0,2,2,,,,340123401
+2,Afghanistan,14,Asghar Stanikzai,B Regmi,Samiullah Shenwari,,0,2,2,,,,340123401
+2,Afghanistan,14,Asghar Stanikzai,B Regmi,Samiullah Shenwari,,0,1,1,,,,340123401
+2,Afghanistan,15,Asghar Stanikzai,Sagar Pun,Samiullah Shenwari,,0,0,0,,,,340123401
+2,Afghanistan,15,Asghar Stanikzai,Sagar Pun,Samiullah Shenwari,,0,1,1,,,,340123401
+2,Afghanistan,15,Samiullah Shenwari,Sagar Pun,Asghar Stanikzai,,0,0,0,,,,340123401
+2,Afghanistan,15,Samiullah Shenwari,Sagar Pun,Asghar Stanikzai,,0,0,0,,,,340123401
+2,Afghanistan,15,Samiullah Shenwari,Sagar Pun,Asghar Stanikzai,,0,1,1,,,,340123401
+2,Afghanistan,15,Asghar Stanikzai,Sagar Pun,Samiullah Shenwari,,0,2,2,,,,340123401
+2,Afghanistan,16,Samiullah Shenwari,JK Mukhiya,Asghar Stanikzai,,0,0,0,,,,340123401
+2,Afghanistan,16,Samiullah Shenwari,JK Mukhiya,Asghar Stanikzai,,0,1,1,,,,340123401
+2,Afghanistan,16,Asghar Stanikzai,JK Mukhiya,Samiullah Shenwari,,0,2,2,,,,340123401
+2,Afghanistan,16,Asghar Stanikzai,JK Mukhiya,Samiullah Shenwari,,0,3,3,,,,340123401
+2,Afghanistan,16,Samiullah Shenwari,JK Mukhiya,Asghar Stanikzai,,0,1,1,,,,340123401
+2,Afghanistan,16,Asghar Stanikzai,JK Mukhiya,Samiullah Shenwari,,0,0,0,,,,340123401
+2,Afghanistan,17,Samiullah Shenwari,Sompal Kami,Asghar Stanikzai,,0,4,4,,,,340123401
+2,Afghanistan,17,Samiullah Shenwari,Sompal Kami,Asghar Stanikzai,,0,2,2,,,,340123401
+2,Afghanistan,17,Samiullah Shenwari,Sompal Kami,Asghar Stanikzai,,0,3,3,,,,340123401
+2,Afghanistan,17,Asghar Stanikzai,Sompal Kami,Samiullah Shenwari,,0,1,1,,,,340123401
+2,Afghanistan,17,Samiullah Shenwari,Sompal Kami,Asghar Stanikzai,,0,1,1,,,,340123401
+2,Afghanistan,17,Asghar Stanikzai,Sompal Kami,Samiullah Shenwari,,0,1,1,,,,340123401
+2,Afghanistan,18,Asghar Stanikzai,JK Mukhiya,Samiullah Shenwari,,0,1,1,,,,340123401
+2,Afghanistan,18,Samiullah Shenwari,JK Mukhiya,Asghar Stanikzai,,0,1,1,,,,340123401
+2,Afghanistan,18,Asghar Stanikzai,JK Mukhiya,Samiullah Shenwari,,0,1,1,,,,340123401
+2,Afghanistan,18,Samiullah Shenwari,JK Mukhiya,Asghar Stanikzai,,0,0,0,caught,Samiullah Shenwari,P Khadka,340123401
+2,Afghanistan,18,Asghar Stanikzai,JK Mukhiya,Mirwais Ashraf,,0,1,1,,,,340123401
+2,Afghanistan,18,Mirwais Ashraf,JK Mukhiya,Asghar Stanikzai,,0,2,2,,,,340123401
+2,Afghanistan,19,Asghar Stanikzai,Sompal Kami,Mirwais Ashraf,,0,4,4,,,,340123401
+2,Afghanistan,19,Asghar Stanikzai,Sompal Kami,Mirwais Ashraf,,0,4,4,,,,340123401
+2,Afghanistan,19,Asghar Stanikzai,Sompal Kami,Mirwais Ashraf,,0,2,2,,,,340123401
+2,Afghanistan,19,Asghar Stanikzai,Sompal Kami,Mirwais Ashraf,,0,4,4,,,,340123401
+2,Afghanistan,19,Asghar Stanikzai,Sompal Kami,Mirwais Ashraf,,0,0,0,caught,Asghar Stanikzai,G Malla,340123401
+2,Afghanistan,19,Mirwais Ashraf,Sompal Kami,Dawlat Zadran,,0,0,0,,,,340123401

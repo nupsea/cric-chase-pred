@@ -1,0 +1,130 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,New Zealand,0,C Munro,SM Curran,MJ Guptill,,0,1,1,,,,31147231147
+1,New Zealand,0,MJ Guptill,SM Curran,C Munro,,0,1,1,,,,31147231147
+1,New Zealand,0,C Munro,SM Curran,MJ Guptill,,0,1,1,,,,31147231147
+1,New Zealand,0,MJ Guptill,SM Curran,C Munro,,0,4,4,,,,31147231147
+1,New Zealand,0,MJ Guptill,SM Curran,C Munro,,0,1,1,,,,31147231147
+1,New Zealand,0,C Munro,SM Curran,MJ Guptill,legbyes,1,1,0,,,,31147231147
+1,New Zealand,1,C Munro,TK Curran,MJ Guptill,,0,1,1,,,,31147231147
+1,New Zealand,1,MJ Guptill,TK Curran,C Munro,,0,0,0,,,,31147231147
+1,New Zealand,1,MJ Guptill,TK Curran,C Munro,,0,0,0,,,,31147231147
+1,New Zealand,1,MJ Guptill,TK Curran,C Munro,,0,4,4,,,,31147231147
+1,New Zealand,1,MJ Guptill,TK Curran,C Munro,,0,4,4,,,,31147231147
+1,New Zealand,1,MJ Guptill,TK Curran,C Munro,,0,1,1,,,,31147231147
+1,New Zealand,2,MJ Guptill,S Mahmood,C Munro,,0,4,4,,,,31147231147
+1,New Zealand,2,MJ Guptill,S Mahmood,C Munro,,0,4,4,,,,31147231147
+1,New Zealand,2,MJ Guptill,S Mahmood,C Munro,,0,4,4,,,,31147231147
+1,New Zealand,2,MJ Guptill,S Mahmood,C Munro,,0,1,1,,,,31147231147
+1,New Zealand,2,C Munro,S Mahmood,MJ Guptill,,0,1,1,,,,31147231147
+1,New Zealand,2,MJ Guptill,S Mahmood,C Munro,,0,1,1,,,,31147231147
+1,New Zealand,3,MJ Guptill,PR Brown,C Munro,legbyes,1,1,0,,,,31147231147
+1,New Zealand,3,C Munro,PR Brown,MJ Guptill,,0,1,1,,,,31147231147
+1,New Zealand,3,MJ Guptill,PR Brown,C Munro,,0,0,0,,,,31147231147
+1,New Zealand,3,MJ Guptill,PR Brown,C Munro,,0,4,4,,,,31147231147
+1,New Zealand,3,MJ Guptill,PR Brown,C Munro,,0,0,0,caught,MJ Guptill,TK Curran,31147231147
+1,New Zealand,3,TL Seifert,PR Brown,C Munro,,0,0,0,,,,31147231147
+1,New Zealand,4,C Munro,TK Curran,TL Seifert,,0,1,1,,,,31147231147
+1,New Zealand,4,TL Seifert,TK Curran,C Munro,,0,1,1,,,,31147231147
+1,New Zealand,4,C Munro,TK Curran,TL Seifert,,0,0,0,caught,C Munro,S Mahmood,31147231147
+1,New Zealand,4,C de Grandhomme,TK Curran,TL Seifert,,0,0,0,,,,31147231147
+1,New Zealand,4,C de Grandhomme,TK Curran,TL Seifert,,0,4,4,,,,31147231147
+1,New Zealand,4,C de Grandhomme,TK Curran,TL Seifert,wides,1,1,0,,,,31147231147
+1,New Zealand,4,C de Grandhomme,TK Curran,TL Seifert,,0,0,0,,,,31147231147
+1,New Zealand,5,TL Seifert,PR Brown,C de Grandhomme,,0,0,0,,,,31147231147
+1,New Zealand,5,TL Seifert,PR Brown,C de Grandhomme,,0,0,0,,,,31147231147
+1,New Zealand,5,TL Seifert,PR Brown,C de Grandhomme,,0,4,4,,,,31147231147
+1,New Zealand,5,TL Seifert,PR Brown,C de Grandhomme,,0,0,0,,,,31147231147
+1,New Zealand,5,TL Seifert,PR Brown,C de Grandhomme,,0,0,0,,,,31147231147
+1,New Zealand,5,TL Seifert,PR Brown,C de Grandhomme,legbyes,1,1,0,,,,31147231147
+1,New Zealand,6,TL Seifert,S Mahmood,C de Grandhomme,,0,1,1,,,,31147231147
+1,New Zealand,6,C de Grandhomme,S Mahmood,TL Seifert,,0,4,4,,,,31147231147
+1,New Zealand,6,C de Grandhomme,S Mahmood,TL Seifert,,0,4,4,,,,31147231147
+1,New Zealand,6,C de Grandhomme,S Mahmood,TL Seifert,,0,0,0,,,,31147231147
+1,New Zealand,6,C de Grandhomme,S Mahmood,TL Seifert,,0,0,0,,,,31147231147
+1,New Zealand,6,C de Grandhomme,S Mahmood,TL Seifert,,0,6,6,,,,31147231147
+1,New Zealand,7,TL Seifert,MW Parkinson,C de Grandhomme,,0,0,0,,,,31147231147
+1,New Zealand,7,TL Seifert,MW Parkinson,C de Grandhomme,,0,1,1,,,,31147231147
+1,New Zealand,7,C de Grandhomme,MW Parkinson,TL Seifert,,0,0,0,,,,31147231147
+1,New Zealand,7,C de Grandhomme,MW Parkinson,TL Seifert,,0,1,1,,,,31147231147
+1,New Zealand,7,TL Seifert,MW Parkinson,C de Grandhomme,,0,0,0,bowled,TL Seifert,,31147231147
+1,New Zealand,7,LRPL Taylor,MW Parkinson,C de Grandhomme,,0,1,1,,,,31147231147
+1,New Zealand,8,LRPL Taylor,SM Curran,C de Grandhomme,,0,1,1,,,,31147231147
+1,New Zealand,8,C de Grandhomme,SM Curran,LRPL Taylor,,0,0,0,,,,31147231147
+1,New Zealand,8,C de Grandhomme,SM Curran,LRPL Taylor,,0,1,1,,,,31147231147
+1,New Zealand,8,LRPL Taylor,SM Curran,C de Grandhomme,,0,0,0,,,,31147231147
+1,New Zealand,8,LRPL Taylor,SM Curran,C de Grandhomme,,0,0,0,,,,31147231147
+1,New Zealand,8,LRPL Taylor,SM Curran,C de Grandhomme,legbyes,1,1,0,,,,31147231147
+1,New Zealand,9,LRPL Taylor,MW Parkinson,C de Grandhomme,,0,1,1,,,,31147231147
+1,New Zealand,9,C de Grandhomme,MW Parkinson,LRPL Taylor,,0,6,6,,,,31147231147
+1,New Zealand,9,C de Grandhomme,MW Parkinson,LRPL Taylor,,0,1,1,,,,31147231147
+1,New Zealand,9,LRPL Taylor,MW Parkinson,C de Grandhomme,wides,2,2,0,,,,31147231147
+1,New Zealand,9,C de Grandhomme,MW Parkinson,LRPL Taylor,,0,0,0,,,,31147231147
+1,New Zealand,9,C de Grandhomme,MW Parkinson,LRPL Taylor,,0,0,0,,,,31147231147
+1,New Zealand,9,C de Grandhomme,MW Parkinson,LRPL Taylor,,0,1,1,,,,31147231147
+1,New Zealand,10,C de Grandhomme,SM Curran,LRPL Taylor,,0,1,1,,,,31147231147
+1,New Zealand,10,LRPL Taylor,SM Curran,C de Grandhomme,,0,1,1,,,,31147231147
+1,New Zealand,10,C de Grandhomme,SM Curran,LRPL Taylor,,0,4,4,,,,31147231147
+1,New Zealand,10,C de Grandhomme,SM Curran,LRPL Taylor,wides,1,1,0,,,,31147231147
+1,New Zealand,10,C de Grandhomme,SM Curran,LRPL Taylor,,0,2,2,,,,31147231147
+1,New Zealand,10,C de Grandhomme,SM Curran,LRPL Taylor,,0,2,2,,,,31147231147
+1,New Zealand,10,C de Grandhomme,SM Curran,LRPL Taylor,,0,1,1,,,,31147231147
+1,New Zealand,11,C de Grandhomme,L Gregory,LRPL Taylor,,0,1,1,,,,31147231147
+1,New Zealand,11,LRPL Taylor,L Gregory,C de Grandhomme,,0,0,0,,,,31147231147
+1,New Zealand,11,LRPL Taylor,L Gregory,C de Grandhomme,,0,1,1,,,,31147231147
+1,New Zealand,11,C de Grandhomme,L Gregory,LRPL Taylor,,0,1,1,,,,31147231147
+1,New Zealand,11,LRPL Taylor,L Gregory,C de Grandhomme,,0,1,1,,,,31147231147
+1,New Zealand,11,C de Grandhomme,L Gregory,LRPL Taylor,,0,1,1,,,,31147231147
+1,New Zealand,12,C de Grandhomme,PR Brown,LRPL Taylor,,0,4,4,,,,31147231147
+1,New Zealand,12,C de Grandhomme,PR Brown,LRPL Taylor,,0,6,6,,,,31147231147
+1,New Zealand,12,C de Grandhomme,PR Brown,LRPL Taylor,,0,1,1,,,,31147231147
+1,New Zealand,12,LRPL Taylor,PR Brown,C de Grandhomme,,0,4,4,,,,31147231147
+1,New Zealand,12,LRPL Taylor,PR Brown,C de Grandhomme,,0,1,1,,,,31147231147
+1,New Zealand,12,C de Grandhomme,PR Brown,LRPL Taylor,,0,1,1,,,,31147231147
+1,New Zealand,13,C de Grandhomme,L Gregory,LRPL Taylor,,0,0,0,,,,31147231147
+1,New Zealand,13,C de Grandhomme,L Gregory,LRPL Taylor,legbyes,1,1,0,,,,31147231147
+1,New Zealand,13,LRPL Taylor,L Gregory,C de Grandhomme,noballs,1,5,4,,,,31147231147
+1,New Zealand,13,LRPL Taylor,L Gregory,C de Grandhomme,noballs,1,1,0,,,,31147231147
+1,New Zealand,13,LRPL Taylor,L Gregory,C de Grandhomme,,0,6,6,,,,31147231147
+1,New Zealand,13,LRPL Taylor,L Gregory,C de Grandhomme,,0,0,0,,,,31147231147
+1,New Zealand,13,LRPL Taylor,L Gregory,C de Grandhomme,,0,1,1,,,,31147231147
+1,New Zealand,13,C de Grandhomme,L Gregory,LRPL Taylor,,0,1,1,,,,31147231147
+1,New Zealand,14,C de Grandhomme,TK Curran,LRPL Taylor,,0,0,0,,,,31147231147
+1,New Zealand,14,C de Grandhomme,TK Curran,LRPL Taylor,,0,1,1,,,,31147231147
+1,New Zealand,14,LRPL Taylor,TK Curran,C de Grandhomme,,0,0,0,,,,31147231147
+1,New Zealand,14,LRPL Taylor,TK Curran,C de Grandhomme,,0,1,1,,,,31147231147
+1,New Zealand,14,C de Grandhomme,TK Curran,LRPL Taylor,,0,0,0,caught,C de Grandhomme,T Banton,31147231147
+1,New Zealand,14,JDS Neesham,TK Curran,LRPL Taylor,,0,1,1,,,,31147231147
+1,New Zealand,15,JDS Neesham,S Mahmood,LRPL Taylor,,0,1,1,,,,31147231147
+1,New Zealand,15,LRPL Taylor,S Mahmood,JDS Neesham,wides,1,1,0,,,,31147231147
+1,New Zealand,15,LRPL Taylor,S Mahmood,JDS Neesham,,0,1,1,,,,31147231147
+1,New Zealand,15,JDS Neesham,S Mahmood,LRPL Taylor,,0,1,1,,,,31147231147
+1,New Zealand,15,LRPL Taylor,S Mahmood,JDS Neesham,wides,1,1,0,,,,31147231147
+1,New Zealand,15,LRPL Taylor,S Mahmood,JDS Neesham,wides,1,1,0,,,,31147231147
+1,New Zealand,15,LRPL Taylor,S Mahmood,JDS Neesham,,0,1,1,,,,31147231147
+1,New Zealand,15,JDS Neesham,S Mahmood,LRPL Taylor,,0,0,0,,,,31147231147
+1,New Zealand,15,JDS Neesham,S Mahmood,LRPL Taylor,,0,4,4,,,,31147231147
+1,New Zealand,16,LRPL Taylor,PR Brown,JDS Neesham,,0,1,1,,,,31147231147
+1,New Zealand,16,JDS Neesham,PR Brown,LRPL Taylor,,0,1,1,,,,31147231147
+1,New Zealand,16,LRPL Taylor,PR Brown,JDS Neesham,,0,1,1,,,,31147231147
+1,New Zealand,16,JDS Neesham,PR Brown,LRPL Taylor,,0,0,0,,,,31147231147
+1,New Zealand,16,JDS Neesham,PR Brown,LRPL Taylor,,0,4,4,,,,31147231147
+1,New Zealand,16,JDS Neesham,PR Brown,LRPL Taylor,,0,1,1,,,,31147231147
+1,New Zealand,17,JDS Neesham,S Mahmood,LRPL Taylor,,0,0,0,,,,31147231147
+1,New Zealand,17,JDS Neesham,S Mahmood,LRPL Taylor,,0,6,6,,,,31147231147
+1,New Zealand,17,JDS Neesham,S Mahmood,LRPL Taylor,,0,1,1,,,,31147231147
+1,New Zealand,17,LRPL Taylor,S Mahmood,JDS Neesham,,0,0,0,lbw,LRPL Taylor,,31147231147
+1,New Zealand,17,MJ Santner,S Mahmood,JDS Neesham,,0,1,1,,,,31147231147
+1,New Zealand,17,JDS Neesham,S Mahmood,MJ Santner,,0,0,0,,,,31147231147
+1,New Zealand,18,MJ Santner,SM Curran,JDS Neesham,,0,1,1,,,,31147231147
+1,New Zealand,18,JDS Neesham,SM Curran,MJ Santner,legbyes,1,1,0,,,,31147231147
+1,New Zealand,18,MJ Santner,SM Curran,JDS Neesham,,0,4,4,,,,31147231147
+1,New Zealand,18,MJ Santner,SM Curran,JDS Neesham,,0,0,0,,,,31147231147
+1,New Zealand,18,MJ Santner,SM Curran,JDS Neesham,,0,1,1,,,,31147231147
+1,New Zealand,18,JDS Neesham,SM Curran,MJ Santner,wides,1,1,0,,,,31147231147
+1,New Zealand,18,JDS Neesham,SM Curran,MJ Santner,,0,0,0,bowled,JDS Neesham,,31147231147
+1,New Zealand,19,MJ Santner,TK Curran,TG Southee,,0,1,1,,,,31147231147
+1,New Zealand,19,TG Southee,TK Curran,MJ Santner,,0,1,1,,,,31147231147
+1,New Zealand,19,MJ Santner,TK Curran,TG Southee,,0,2,2,,,,31147231147
+1,New Zealand,19,MJ Santner,TK Curran,TG Southee,,0,4,4,,,,31147231147
+1,New Zealand,19,MJ Santner,TK Curran,TG Southee,,0,1,1,,,,31147231147
+1,New Zealand,19,TG Southee,TK Curran,MJ Santner,,0,0,0,run out,MJ Santner,,31147231147

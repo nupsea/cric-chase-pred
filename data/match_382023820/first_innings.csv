@@ -1,0 +1,122 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,West Indies,0,CAK Walton,Mohammad Nawaz (3),ADS Fletcher,,0,0,0,,,,382023820
+1,West Indies,0,CAK Walton,Mohammad Nawaz (3),ADS Fletcher,,0,0,0,,,,382023820
+1,West Indies,0,CAK Walton,Mohammad Nawaz (3),ADS Fletcher,,0,0,0,,,,382023820
+1,West Indies,0,CAK Walton,Mohammad Nawaz (3),ADS Fletcher,,0,0,0,,,,382023820
+1,West Indies,0,CAK Walton,Mohammad Nawaz (3),ADS Fletcher,,0,0,0,,,,382023820
+1,West Indies,0,CAK Walton,Mohammad Nawaz (3),ADS Fletcher,,0,0,0,,,,382023820
+1,West Indies,1,ADS Fletcher,Usman Shinwari,CAK Walton,,0,1,1,,,,382023820
+1,West Indies,1,CAK Walton,Usman Shinwari,ADS Fletcher,,0,0,0,,,,382023820
+1,West Indies,1,CAK Walton,Usman Shinwari,ADS Fletcher,legbyes,1,1,0,,,,382023820
+1,West Indies,1,ADS Fletcher,Usman Shinwari,CAK Walton,,0,0,0,,,,382023820
+1,West Indies,1,ADS Fletcher,Usman Shinwari,CAK Walton,,0,0,0,,,,382023820
+1,West Indies,1,ADS Fletcher,Usman Shinwari,CAK Walton,,0,0,0,,,,382023820
+1,West Indies,2,CAK Walton,Mohammad Nawaz (3),ADS Fletcher,,0,0,0,caught,CAK Walton,Babar Azam,382023820
+1,West Indies,2,ADS Fletcher,Mohammad Nawaz (3),MN Samuels,,0,1,1,,,,382023820
+1,West Indies,2,MN Samuels,Mohammad Nawaz (3),ADS Fletcher,,0,1,1,,,,382023820
+1,West Indies,2,ADS Fletcher,Mohammad Nawaz (3),MN Samuels,,0,1,1,,,,382023820
+1,West Indies,2,MN Samuels,Mohammad Nawaz (3),ADS Fletcher,,0,4,4,,,,382023820
+1,West Indies,2,MN Samuels,Mohammad Nawaz (3),ADS Fletcher,,0,1,1,,,,382023820
+1,West Indies,3,MN Samuels,Usman Shinwari,ADS Fletcher,,0,1,1,,,,382023820
+1,West Indies,3,ADS Fletcher,Usman Shinwari,MN Samuels,,0,0,0,,,,382023820
+1,West Indies,3,ADS Fletcher,Usman Shinwari,MN Samuels,,0,0,0,,,,382023820
+1,West Indies,3,ADS Fletcher,Usman Shinwari,MN Samuels,,0,4,4,,,,382023820
+1,West Indies,3,ADS Fletcher,Usman Shinwari,MN Samuels,,0,0,0,,,,382023820
+1,West Indies,3,ADS Fletcher,Usman Shinwari,MN Samuels,,0,1,1,,,,382023820
+1,West Indies,4,ADS Fletcher,Shaheen Shah Afridi,MN Samuels,,0,0,0,,,,382023820
+1,West Indies,4,ADS Fletcher,Shaheen Shah Afridi,MN Samuels,,0,1,1,,,,382023820
+1,West Indies,4,MN Samuels,Shaheen Shah Afridi,ADS Fletcher,,0,0,0,,,,382023820
+1,West Indies,4,MN Samuels,Shaheen Shah Afridi,ADS Fletcher,,0,0,0,,,,382023820
+1,West Indies,4,MN Samuels,Shaheen Shah Afridi,ADS Fletcher,,0,1,1,,,,382023820
+1,West Indies,4,ADS Fletcher,Shaheen Shah Afridi,MN Samuels,,0,6,6,,,,382023820
+1,West Indies,5,MN Samuels,Faheem Ashraf,ADS Fletcher,legbyes,1,1,0,,,,382023820
+1,West Indies,5,ADS Fletcher,Faheem Ashraf,MN Samuels,,0,0,0,,,,382023820
+1,West Indies,5,ADS Fletcher,Faheem Ashraf,MN Samuels,,0,0,0,,,,382023820
+1,West Indies,5,ADS Fletcher,Faheem Ashraf,MN Samuels,,0,0,0,,,,382023820
+1,West Indies,5,ADS Fletcher,Faheem Ashraf,MN Samuels,,0,4,4,,,,382023820
+1,West Indies,5,ADS Fletcher,Faheem Ashraf,MN Samuels,,0,0,0,,,,382023820
+1,West Indies,6,MN Samuels,Mohammad Nawaz (3),ADS Fletcher,,0,0,0,,,,382023820
+1,West Indies,6,MN Samuels,Mohammad Nawaz (3),ADS Fletcher,,0,0,0,,,,382023820
+1,West Indies,6,MN Samuels,Mohammad Nawaz (3),ADS Fletcher,,0,6,6,,,,382023820
+1,West Indies,6,MN Samuels,Mohammad Nawaz (3),ADS Fletcher,,0,0,0,,,,382023820
+1,West Indies,6,MN Samuels,Mohammad Nawaz (3),ADS Fletcher,,0,6,6,,,,382023820
+1,West Indies,6,MN Samuels,Mohammad Nawaz (3),ADS Fletcher,,0,1,1,,,,382023820
+1,West Indies,7,MN Samuels,Shadab Khan,ADS Fletcher,,0,0,0,,,,382023820
+1,West Indies,7,MN Samuels,Shadab Khan,ADS Fletcher,,0,2,2,,,,382023820
+1,West Indies,7,MN Samuels,Shadab Khan,ADS Fletcher,,0,0,0,,,,382023820
+1,West Indies,7,MN Samuels,Shadab Khan,ADS Fletcher,,0,1,1,,,,382023820
+1,West Indies,7,ADS Fletcher,Shadab Khan,MN Samuels,,0,0,0,,,,382023820
+1,West Indies,7,ADS Fletcher,Shadab Khan,MN Samuels,,0,1,1,,,,382023820
+1,West Indies,8,ADS Fletcher,Shaheen Shah Afridi,MN Samuels,,0,0,0,,,,382023820
+1,West Indies,8,ADS Fletcher,Shaheen Shah Afridi,MN Samuels,,0,1,1,,,,382023820
+1,West Indies,8,MN Samuels,Shaheen Shah Afridi,ADS Fletcher,,0,1,1,,,,382023820
+1,West Indies,8,ADS Fletcher,Shaheen Shah Afridi,MN Samuels,,0,0,0,,,,382023820
+1,West Indies,8,ADS Fletcher,Shaheen Shah Afridi,MN Samuels,,0,4,4,,,,382023820
+1,West Indies,8,ADS Fletcher,Shaheen Shah Afridi,MN Samuels,,0,1,1,,,,382023820
+1,West Indies,9,ADS Fletcher,Shadab Khan,MN Samuels,,0,1,1,,,,382023820
+1,West Indies,9,MN Samuels,Shadab Khan,ADS Fletcher,,0,0,0,,,,382023820
+1,West Indies,9,MN Samuels,Shadab Khan,ADS Fletcher,,0,4,4,,,,382023820
+1,West Indies,9,MN Samuels,Shadab Khan,ADS Fletcher,,0,1,1,,,,382023820
+1,West Indies,9,ADS Fletcher,Shadab Khan,MN Samuels,,0,4,4,,,,382023820
+1,West Indies,9,ADS Fletcher,Shadab Khan,MN Samuels,,0,1,1,,,,382023820
+1,West Indies,10,ADS Fletcher,Faheem Ashraf,MN Samuels,,0,0,0,,,,382023820
+1,West Indies,10,ADS Fletcher,Faheem Ashraf,MN Samuels,,0,6,6,,,,382023820
+1,West Indies,10,ADS Fletcher,Faheem Ashraf,MN Samuels,,0,0,0,,,,382023820
+1,West Indies,10,ADS Fletcher,Faheem Ashraf,MN Samuels,,0,1,1,,,,382023820
+1,West Indies,10,MN Samuels,Faheem Ashraf,ADS Fletcher,,0,1,1,,,,382023820
+1,West Indies,10,ADS Fletcher,Faheem Ashraf,MN Samuels,,0,1,1,,,,382023820
+1,West Indies,11,ADS Fletcher,Shadab Khan,MN Samuels,,0,1,1,,,,382023820
+1,West Indies,11,MN Samuels,Shadab Khan,ADS Fletcher,,0,0,0,,,,382023820
+1,West Indies,11,MN Samuels,Shadab Khan,ADS Fletcher,,0,0,0,bowled,MN Samuels,,382023820
+1,West Indies,11,AM McCarthy,Shadab Khan,ADS Fletcher,,0,0,0,,,,382023820
+1,West Indies,11,AM McCarthy,Shadab Khan,ADS Fletcher,,0,1,1,,,,382023820
+1,West Indies,11,ADS Fletcher,Shadab Khan,AM McCarthy,,0,1,1,,,,382023820
+1,West Indies,12,ADS Fletcher,Mohammad Nawaz (3),AM McCarthy,,0,1,1,,,,382023820
+1,West Indies,12,AM McCarthy,Mohammad Nawaz (3),ADS Fletcher,,0,1,1,,,,382023820
+1,West Indies,12,ADS Fletcher,Mohammad Nawaz (3),AM McCarthy,,0,1,1,,,,382023820
+1,West Indies,12,AM McCarthy,Mohammad Nawaz (3),ADS Fletcher,,0,2,2,,,,382023820
+1,West Indies,12,AM McCarthy,Mohammad Nawaz (3),ADS Fletcher,,0,0,0,,,,382023820
+1,West Indies,12,AM McCarthy,Mohammad Nawaz (3),ADS Fletcher,,0,0,0,,,,382023820
+1,West Indies,13,ADS Fletcher,Shadab Khan,AM McCarthy,,0,6,6,,,,382023820
+1,West Indies,13,ADS Fletcher,Shadab Khan,AM McCarthy,,0,1,1,,,,382023820
+1,West Indies,13,AM McCarthy,Shadab Khan,ADS Fletcher,,0,1,1,,,,382023820
+1,West Indies,13,ADS Fletcher,Shadab Khan,AM McCarthy,,0,1,1,,,,382023820
+1,West Indies,13,AM McCarthy,Shadab Khan,ADS Fletcher,,0,0,0,caught,AM McCarthy,Fakhar Zaman,382023820
+1,West Indies,13,ADS Fletcher,Shadab Khan,R Powell,,0,0,0,,,,382023820
+1,West Indies,14,R Powell,Shaheen Shah Afridi,ADS Fletcher,,0,0,0,,,,382023820
+1,West Indies,14,R Powell,Shaheen Shah Afridi,ADS Fletcher,legbyes,4,4,0,,,,382023820
+1,West Indies,14,R Powell,Shaheen Shah Afridi,ADS Fletcher,,0,1,1,,,,382023820
+1,West Indies,14,ADS Fletcher,Shaheen Shah Afridi,R Powell,,0,0,0,run out,ADS Fletcher,,382023820
+1,West Indies,14,R Powell,Shaheen Shah Afridi,JN Mohammed,,0,1,1,,,,382023820
+1,West Indies,14,JN Mohammed,Shaheen Shah Afridi,R Powell,,0,0,0,,,,382023820
+1,West Indies,15,R Powell,Faheem Ashraf,JN Mohammed,,0,0,0,lbw,R Powell,,382023820
+1,West Indies,15,D Ramdin,Faheem Ashraf,JN Mohammed,,0,1,1,,,,382023820
+1,West Indies,15,JN Mohammed,Faheem Ashraf,D Ramdin,,0,0,0,,,,382023820
+1,West Indies,15,JN Mohammed,Faheem Ashraf,D Ramdin,,0,1,1,,,,382023820
+1,West Indies,15,D Ramdin,Faheem Ashraf,JN Mohammed,,0,0,0,,,,382023820
+1,West Indies,15,D Ramdin,Faheem Ashraf,JN Mohammed,,0,1,1,,,,382023820
+1,West Indies,16,D Ramdin,Shaheen Shah Afridi,JN Mohammed,,0,1,1,,,,382023820
+1,West Indies,16,JN Mohammed,Shaheen Shah Afridi,D Ramdin,,0,1,1,,,,382023820
+1,West Indies,16,D Ramdin,Shaheen Shah Afridi,JN Mohammed,,0,2,2,,,,382023820
+1,West Indies,16,D Ramdin,Shaheen Shah Afridi,JN Mohammed,,0,1,1,,,,382023820
+1,West Indies,16,JN Mohammed,Shaheen Shah Afridi,D Ramdin,,0,1,1,,,,382023820
+1,West Indies,16,D Ramdin,Shaheen Shah Afridi,JN Mohammed,,0,4,4,,,,382023820
+1,West Indies,17,JN Mohammed,Usman Shinwari,D Ramdin,,0,1,1,,,,382023820
+1,West Indies,17,D Ramdin,Usman Shinwari,JN Mohammed,,0,0,0,,,,382023820
+1,West Indies,17,D Ramdin,Usman Shinwari,JN Mohammed,,0,4,4,,,,382023820
+1,West Indies,17,D Ramdin,Usman Shinwari,JN Mohammed,,0,4,4,,,,382023820
+1,West Indies,17,D Ramdin,Usman Shinwari,JN Mohammed,,0,1,1,,,,382023820
+1,West Indies,17,JN Mohammed,Usman Shinwari,D Ramdin,,0,4,4,,,,382023820
+1,West Indies,18,D Ramdin,Faheem Ashraf,JN Mohammed,noballs,1,1,0,,,,382023820
+1,West Indies,18,D Ramdin,Faheem Ashraf,JN Mohammed,,0,1,1,,,,382023820
+1,West Indies,18,JN Mohammed,Faheem Ashraf,D Ramdin,,0,4,4,,,,382023820
+1,West Indies,18,JN Mohammed,Faheem Ashraf,D Ramdin,,0,1,1,,,,382023820
+1,West Indies,18,D Ramdin,Faheem Ashraf,JN Mohammed,,0,0,0,,,,382023820
+1,West Indies,18,D Ramdin,Faheem Ashraf,JN Mohammed,,0,4,4,,,,382023820
+1,West Indies,18,D Ramdin,Faheem Ashraf,JN Mohammed,,0,6,6,,,,382023820
+1,West Indies,19,JN Mohammed,Usman Shinwari,D Ramdin,,0,0,0,,,,382023820
+1,West Indies,19,JN Mohammed,Usman Shinwari,D Ramdin,,0,0,0,,,,382023820
+1,West Indies,19,JN Mohammed,Usman Shinwari,D Ramdin,,0,0,0,caught,JN Mohammed,Sarfraz Ahmed,382023820
+1,West Indies,19,KMA Paul,Usman Shinwari,D Ramdin,,0,1,1,,,,382023820
+1,West Indies,19,D Ramdin,Usman Shinwari,KMA Paul,,0,6,6,,,,382023820
+1,West Indies,19,D Ramdin,Usman Shinwari,KMA Paul,,0,6,6,,,,382023820

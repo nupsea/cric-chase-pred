@@ -1,0 +1,130 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,South Africa,0,A Bosch,FC Jonas,T Brits,,0,0,0,,,,31875231875
+2,South Africa,0,A Bosch,FC Jonas,T Brits,,0,0,0,,,,31875231875
+2,South Africa,0,A Bosch,FC Jonas,T Brits,,0,1,1,,,,31875231875
+2,South Africa,0,T Brits,FC Jonas,A Bosch,,0,4,4,,,,31875231875
+2,South Africa,0,T Brits,FC Jonas,A Bosch,,0,0,0,,,,31875231875
+2,South Africa,0,T Brits,FC Jonas,A Bosch,,0,0,0,,,,31875231875
+2,South Africa,1,A Bosch,HNK Jensen,T Brits,,0,0,0,,,,31875231875
+2,South Africa,1,A Bosch,HNK Jensen,T Brits,,0,0,0,,,,31875231875
+2,South Africa,1,A Bosch,HNK Jensen,T Brits,,0,2,2,,,,31875231875
+2,South Africa,1,A Bosch,HNK Jensen,T Brits,,0,0,0,caught,A Bosch,SW Bates,31875231875
+2,South Africa,1,T Brits,HNK Jensen,M du Preez,,0,0,0,,,,31875231875
+2,South Africa,1,T Brits,HNK Jensen,M du Preez,,0,0,0,,,,31875231875
+2,South Africa,2,M du Preez,LMM Tahuhu,T Brits,,0,0,0,,,,31875231875
+2,South Africa,2,M du Preez,LMM Tahuhu,T Brits,wides,1,1,0,,,,31875231875
+2,South Africa,2,M du Preez,LMM Tahuhu,T Brits,wides,1,1,0,,,,31875231875
+2,South Africa,2,M du Preez,LMM Tahuhu,T Brits,,0,1,1,,,,31875231875
+2,South Africa,2,T Brits,LMM Tahuhu,M du Preez,,0,0,0,,,,31875231875
+2,South Africa,2,T Brits,LMM Tahuhu,M du Preez,,0,0,0,,,,31875231875
+2,South Africa,2,T Brits,LMM Tahuhu,M du Preez,,0,0,0,,,,31875231875
+2,South Africa,2,T Brits,LMM Tahuhu,M du Preez,,0,0,0,,,,31875231875
+2,South Africa,3,M du Preez,HM Rowe,T Brits,,0,0,0,,,,31875231875
+2,South Africa,3,M du Preez,HM Rowe,T Brits,wides,1,1,0,,,,31875231875
+2,South Africa,3,M du Preez,HM Rowe,T Brits,,0,0,0,,,,31875231875
+2,South Africa,3,M du Preez,HM Rowe,T Brits,,0,0,0,,,,31875231875
+2,South Africa,3,M du Preez,HM Rowe,T Brits,wides,1,1,0,,,,31875231875
+2,South Africa,3,M du Preez,HM Rowe,T Brits,,0,1,1,,,,31875231875
+2,South Africa,3,T Brits,HM Rowe,M du Preez,,0,2,2,,,,31875231875
+2,South Africa,3,T Brits,HM Rowe,M du Preez,,0,0,0,caught,T Brits,BM Halliday,31875231875
+2,South Africa,4,M du Preez,SFM Devine,L Wolvaardt,,0,4,4,,,,31875231875
+2,South Africa,4,M du Preez,SFM Devine,L Wolvaardt,,0,4,4,,,,31875231875
+2,South Africa,4,M du Preez,SFM Devine,L Wolvaardt,,0,0,0,,,,31875231875
+2,South Africa,4,M du Preez,SFM Devine,L Wolvaardt,,0,0,0,,,,31875231875
+2,South Africa,4,M du Preez,SFM Devine,L Wolvaardt,,0,1,1,,,,31875231875
+2,South Africa,4,L Wolvaardt,SFM Devine,M du Preez,,0,0,0,,,,31875231875
+2,South Africa,5,M du Preez,HNK Jensen,L Wolvaardt,,0,1,1,,,,31875231875
+2,South Africa,5,L Wolvaardt,HNK Jensen,M du Preez,,0,0,0,,,,31875231875
+2,South Africa,5,L Wolvaardt,HNK Jensen,M du Preez,,0,4,4,,,,31875231875
+2,South Africa,5,L Wolvaardt,HNK Jensen,M du Preez,,0,0,0,,,,31875231875
+2,South Africa,5,L Wolvaardt,HNK Jensen,M du Preez,,0,0,0,,,,31875231875
+2,South Africa,5,L Wolvaardt,HNK Jensen,M du Preez,,0,0,0,,,,31875231875
+2,South Africa,6,M du Preez,AC Kerr,L Wolvaardt,,0,3,3,,,,31875231875
+2,South Africa,6,L Wolvaardt,AC Kerr,M du Preez,,0,1,1,,,,31875231875
+2,South Africa,6,M du Preez,AC Kerr,L Wolvaardt,,0,1,1,,,,31875231875
+2,South Africa,6,L Wolvaardt,AC Kerr,M du Preez,,0,1,1,,,,31875231875
+2,South Africa,6,M du Preez,AC Kerr,L Wolvaardt,,0,1,1,,,,31875231875
+2,South Africa,6,L Wolvaardt,AC Kerr,M du Preez,,0,1,1,,,,31875231875
+2,South Africa,7,L Wolvaardt,FC Jonas,M du Preez,,0,2,2,,,,31875231875
+2,South Africa,7,L Wolvaardt,FC Jonas,M du Preez,,0,0,0,,,,31875231875
+2,South Africa,7,L Wolvaardt,FC Jonas,M du Preez,,0,6,6,,,,31875231875
+2,South Africa,7,L Wolvaardt,FC Jonas,M du Preez,,0,1,1,,,,31875231875
+2,South Africa,7,M du Preez,FC Jonas,L Wolvaardt,,0,1,1,,,,31875231875
+2,South Africa,7,L Wolvaardt,FC Jonas,M du Preez,,0,1,1,,,,31875231875
+2,South Africa,8,L Wolvaardt,AC Kerr,M du Preez,,0,0,0,,,,31875231875
+2,South Africa,8,L Wolvaardt,AC Kerr,M du Preez,,0,1,1,,,,31875231875
+2,South Africa,8,M du Preez,AC Kerr,L Wolvaardt,,0,0,0,,,,31875231875
+2,South Africa,8,M du Preez,AC Kerr,L Wolvaardt,,0,0,0,,,,31875231875
+2,South Africa,8,M du Preez,AC Kerr,L Wolvaardt,,0,1,1,,,,31875231875
+2,South Africa,8,L Wolvaardt,AC Kerr,M du Preez,,0,1,1,,,,31875231875
+2,South Africa,9,L Wolvaardt,HM Rowe,M du Preez,,0,1,1,,,,31875231875
+2,South Africa,9,M du Preez,HM Rowe,L Wolvaardt,,0,1,1,,,,31875231875
+2,South Africa,9,L Wolvaardt,HM Rowe,M du Preez,,0,0,0,,,,31875231875
+2,South Africa,9,L Wolvaardt,HM Rowe,M du Preez,,0,0,0,,,,31875231875
+2,South Africa,9,L Wolvaardt,HM Rowe,M du Preez,,0,1,1,,,,31875231875
+2,South Africa,9,M du Preez,HM Rowe,L Wolvaardt,,0,6,6,,,,31875231875
+2,South Africa,10,L Wolvaardt,AC Kerr,M du Preez,,0,0,0,,,,31875231875
+2,South Africa,10,L Wolvaardt,AC Kerr,M du Preez,,0,1,1,,,,31875231875
+2,South Africa,10,M du Preez,AC Kerr,L Wolvaardt,,0,0,0,caught,M du Preez,FC Jonas,31875231875
+2,South Africa,10,CL Tryon,AC Kerr,L Wolvaardt,,0,1,1,,,,31875231875
+2,South Africa,10,L Wolvaardt,AC Kerr,CL Tryon,,0,1,1,,,,31875231875
+2,South Africa,10,CL Tryon,AC Kerr,L Wolvaardt,,0,0,0,,,,31875231875
+2,South Africa,11,L Wolvaardt,LMM Tahuhu,CL Tryon,,0,1,1,,,,31875231875
+2,South Africa,11,CL Tryon,LMM Tahuhu,L Wolvaardt,,0,1,1,,,,31875231875
+2,South Africa,11,L Wolvaardt,LMM Tahuhu,CL Tryon,,0,0,0,,,,31875231875
+2,South Africa,11,L Wolvaardt,LMM Tahuhu,CL Tryon,,0,2,2,,,,31875231875
+2,South Africa,11,L Wolvaardt,LMM Tahuhu,CL Tryon,,0,1,1,,,,31875231875
+2,South Africa,11,CL Tryon,LMM Tahuhu,L Wolvaardt,wides,1,1,0,,,,31875231875
+2,South Africa,11,CL Tryon,LMM Tahuhu,L Wolvaardt,,0,1,1,,,,31875231875
+2,South Africa,12,CL Tryon,SFM Devine,L Wolvaardt,,0,1,1,,,,31875231875
+2,South Africa,12,L Wolvaardt,SFM Devine,CL Tryon,,0,1,1,,,,31875231875
+2,South Africa,12,CL Tryon,SFM Devine,L Wolvaardt,wides,1,1,0,,,,31875231875
+2,South Africa,12,CL Tryon,SFM Devine,L Wolvaardt,,0,1,1,,,,31875231875
+2,South Africa,12,L Wolvaardt,SFM Devine,CL Tryon,,0,0,0,caught,L Wolvaardt,SW Bates,31875231875
+2,South Africa,12,CL Tryon,SFM Devine,S Luus,,0,4,4,,,,31875231875
+2,South Africa,12,CL Tryon,SFM Devine,S Luus,,0,4,4,,,,31875231875
+2,South Africa,13,S Luus,EJ Carson,CL Tryon,,0,1,1,,,,31875231875
+2,South Africa,13,CL Tryon,EJ Carson,S Luus,,0,6,6,,,,31875231875
+2,South Africa,13,CL Tryon,EJ Carson,S Luus,,0,1,1,,,,31875231875
+2,South Africa,13,S Luus,EJ Carson,CL Tryon,,0,1,1,,,,31875231875
+2,South Africa,13,CL Tryon,EJ Carson,S Luus,,0,1,1,,,,31875231875
+2,South Africa,13,S Luus,EJ Carson,CL Tryon,,0,0,0,,,,31875231875
+2,South Africa,14,CL Tryon,LMM Tahuhu,S Luus,,0,4,4,,,,31875231875
+2,South Africa,14,CL Tryon,LMM Tahuhu,S Luus,,0,0,0,,,,31875231875
+2,South Africa,14,CL Tryon,LMM Tahuhu,S Luus,,0,6,6,,,,31875231875
+2,South Africa,14,CL Tryon,LMM Tahuhu,S Luus,,0,6,6,,,,31875231875
+2,South Africa,14,CL Tryon,LMM Tahuhu,S Luus,,0,1,1,,,,31875231875
+2,South Africa,14,S Luus,LMM Tahuhu,CL Tryon,,0,4,4,,,,31875231875
+2,South Africa,15,CL Tryon,HNK Jensen,S Luus,,0,1,1,,,,31875231875
+2,South Africa,15,S Luus,HNK Jensen,CL Tryon,,0,2,2,,,,31875231875
+2,South Africa,15,S Luus,HNK Jensen,CL Tryon,,0,0,0,run out,CL Tryon,HNK Jensen,31875231875
+2,South Africa,15,S Luus,HNK Jensen,D Tucker,,0,1,1,,,,31875231875
+2,South Africa,15,D Tucker,HNK Jensen,S Luus,wides,1,1,0,,,,31875231875
+2,South Africa,15,D Tucker,HNK Jensen,S Luus,,0,1,1,,,,31875231875
+2,South Africa,15,S Luus,HNK Jensen,D Tucker,,0,0,0,,,,31875231875
+2,South Africa,16,D Tucker,SFM Devine,S Luus,,0,0,0,,,,31875231875
+2,South Africa,16,D Tucker,SFM Devine,S Luus,,0,0,0,,,,31875231875
+2,South Africa,16,D Tucker,SFM Devine,S Luus,,0,0,0,caught,D Tucker,FC Jonas,31875231875
+2,South Africa,16,S Luus,SFM Devine,S Jafta,,0,1,1,,,,31875231875
+2,South Africa,16,S Jafta,SFM Devine,S Luus,wides,1,1,0,,,,31875231875
+2,South Africa,16,S Jafta,SFM Devine,S Luus,,0,0,0,,,,31875231875
+2,South Africa,16,S Jafta,SFM Devine,S Luus,,0,0,0,,,,31875231875
+2,South Africa,17,S Luus,AC Kerr,S Jafta,wides,1,1,0,,,,31875231875
+2,South Africa,17,S Luus,AC Kerr,S Jafta,,0,2,2,,,,31875231875
+2,South Africa,17,S Luus,AC Kerr,S Jafta,,0,4,4,,,,31875231875
+2,South Africa,17,S Luus,AC Kerr,S Jafta,,0,2,2,,,,31875231875
+2,South Africa,17,S Luus,AC Kerr,S Jafta,,0,1,1,,,,31875231875
+2,South Africa,17,S Jafta,AC Kerr,S Luus,,0,0,0,,,,31875231875
+2,South Africa,17,S Jafta,AC Kerr,S Luus,,0,0,0,,,,31875231875
+2,South Africa,18,S Luus,SFM Devine,S Jafta,,0,4,4,,,,31875231875
+2,South Africa,18,S Luus,SFM Devine,S Jafta,,0,1,1,,,,31875231875
+2,South Africa,18,S Jafta,SFM Devine,S Luus,,0,1,1,,,,31875231875
+2,South Africa,18,S Luus,SFM Devine,S Jafta,,0,4,4,,,,31875231875
+2,South Africa,18,S Luus,SFM Devine,S Jafta,,0,4,4,,,,31875231875
+2,South Africa,18,S Luus,SFM Devine,S Jafta,,0,0,0,caught,S Luus,BM Halliday,31875231875
+2,South Africa,19,S Ismail,HNK Jensen,S Jafta,,0,0,0,,,,31875231875
+2,South Africa,19,S Ismail,HNK Jensen,S Jafta,,0,1,1,,,,31875231875
+2,South Africa,19,S Jafta,HNK Jensen,S Ismail,,0,2,2,,,,31875231875
+2,South Africa,19,S Jafta,HNK Jensen,S Ismail,,0,1,1,,,,31875231875
+2,South Africa,19,S Ismail,HNK Jensen,S Jafta,,0,1,1,,,,31875231875
+2,South Africa,19,S Jafta,HNK Jensen,S Ismail,,0,4,4,,,,31875231875

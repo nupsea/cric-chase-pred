@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Bahrain,0,Muhammad Younis,Nawaf Ahmed,Sarfaraz Ali,,0,0,0,,,,31821231821
+1,Bahrain,0,Muhammad Younis,Nawaf Ahmed,Sarfaraz Ali,,0,4,4,,,,31821231821
+1,Bahrain,0,Muhammad Younis,Nawaf Ahmed,Sarfaraz Ali,,0,4,4,,,,31821231821
+1,Bahrain,0,Muhammad Younis,Nawaf Ahmed,Sarfaraz Ali,,0,1,1,,,,31821231821
+1,Bahrain,0,Sarfaraz Ali,Nawaf Ahmed,Muhammad Younis,,0,1,1,,,,31821231821
+1,Bahrain,0,Muhammad Younis,Nawaf Ahmed,Sarfaraz Ali,,0,0,0,,,,31821231821
+1,Bahrain,1,Sarfaraz Ali,Naveed Fakhr,Muhammad Younis,,0,0,0,,,,31821231821
+1,Bahrain,1,Sarfaraz Ali,Naveed Fakhr,Muhammad Younis,,0,4,4,,,,31821231821
+1,Bahrain,1,Sarfaraz Ali,Naveed Fakhr,Muhammad Younis,wides,1,1,0,,,,31821231821
+1,Bahrain,1,Sarfaraz Ali,Naveed Fakhr,Muhammad Younis,,0,0,0,,,,31821231821
+1,Bahrain,1,Sarfaraz Ali,Naveed Fakhr,Muhammad Younis,,0,4,4,,,,31821231821
+1,Bahrain,1,Sarfaraz Ali,Naveed Fakhr,Muhammad Younis,,0,1,1,,,,31821231821
+1,Bahrain,1,Muhammad Younis,Naveed Fakhr,Sarfaraz Ali,,0,0,0,,,,31821231821
+1,Bahrain,2,Sarfaraz Ali,Sayed Monib,Muhammad Younis,,0,6,6,,,,31821231821
+1,Bahrain,2,Sarfaraz Ali,Sayed Monib,Muhammad Younis,,0,6,6,,,,31821231821
+1,Bahrain,2,Sarfaraz Ali,Sayed Monib,Muhammad Younis,,0,0,0,,,,31821231821
+1,Bahrain,2,Sarfaraz Ali,Sayed Monib,Muhammad Younis,,0,6,6,,,,31821231821
+1,Bahrain,2,Sarfaraz Ali,Sayed Monib,Muhammad Younis,,0,0,0,,,,31821231821
+1,Bahrain,2,Sarfaraz Ali,Sayed Monib,Muhammad Younis,,0,0,0,caught,Sarfaraz Ali,Nawaf Ahmed,31821231821
+1,Bahrain,3,Muhammad Younis,Naveed Fakhr,Junaid Aziz,,0,4,4,,,,31821231821
+1,Bahrain,3,Muhammad Younis,Naveed Fakhr,Junaid Aziz,,0,0,0,,,,31821231821
+1,Bahrain,3,Muhammad Younis,Naveed Fakhr,Junaid Aziz,,0,0,0,caught,Muhammad Younis,Shiraz Khan,31821231821
+1,Bahrain,3,Haider Butt,Naveed Fakhr,Junaid Aziz,,0,1,1,,,,31821231821
+1,Bahrain,3,Junaid Aziz,Naveed Fakhr,Haider Butt,,0,1,1,,,,31821231821
+1,Bahrain,3,Haider Butt,Naveed Fakhr,Junaid Aziz,,0,1,1,,,,31821231821
+1,Bahrain,4,Haider Butt,Sayed Monib,Junaid Aziz,,0,0,0,,,,31821231821
+1,Bahrain,4,Haider Butt,Sayed Monib,Junaid Aziz,,0,1,1,,,,31821231821
+1,Bahrain,4,Junaid Aziz,Sayed Monib,Haider Butt,,0,0,0,caught,Junaid Aziz,Shiraz Khan,31821231821
+1,Bahrain,4,Imran Ali Butt,Sayed Monib,Haider Butt,,0,0,0,,,,31821231821
+1,Bahrain,4,Imran Ali Butt,Sayed Monib,Haider Butt,,0,0,0,,,,31821231821
+1,Bahrain,4,Imran Ali Butt,Sayed Monib,Haider Butt,,0,0,0,,,,31821231821
+1,Bahrain,5,Haider Butt,Naveed Fakhr,Imran Ali Butt,,0,0,0,,,,31821231821
+1,Bahrain,5,Haider Butt,Naveed Fakhr,Imran Ali Butt,,0,1,1,,,,31821231821
+1,Bahrain,5,Imran Ali Butt,Naveed Fakhr,Haider Butt,,0,2,2,,,,31821231821
+1,Bahrain,5,Imran Ali Butt,Naveed Fakhr,Haider Butt,,0,0,0,,,,31821231821
+1,Bahrain,5,Imran Ali Butt,Naveed Fakhr,Haider Butt,legbyes,1,1,0,,,,31821231821
+1,Bahrain,5,Haider Butt,Naveed Fakhr,Imran Ali Butt,,0,0,0,,,,31821231821
+1,Bahrain,6,Imran Ali Butt,MNM Aslam,Haider Butt,,0,1,1,,,,31821231821
+1,Bahrain,6,Haider Butt,MNM Aslam,Imran Ali Butt,,0,0,0,bowled,Haider Butt,,31821231821
+1,Bahrain,6,Fiaz Ahmed,MNM Aslam,Imran Ali Butt,,0,0,0,,,,31821231821
+1,Bahrain,6,Fiaz Ahmed,MNM Aslam,Imran Ali Butt,,0,0,0,,,,31821231821
+1,Bahrain,6,Fiaz Ahmed,MNM Aslam,Imran Ali Butt,,0,0,0,lbw,Fiaz Ahmed,,31821231821
+1,Bahrain,6,Anasim Khan,MNM Aslam,Imran Ali Butt,,0,1,1,,,,31821231821
+1,Bahrain,7,Anasim Khan,Naveed Fakhr,Imran Ali Butt,,0,1,1,,,,31821231821
+1,Bahrain,7,Imran Ali Butt,Naveed Fakhr,Anasim Khan,,0,1,1,,,,31821231821
+1,Bahrain,7,Anasim Khan,Naveed Fakhr,Imran Ali Butt,,0,4,4,,,,31821231821
+1,Bahrain,7,Anasim Khan,Naveed Fakhr,Imran Ali Butt,,0,4,4,,,,31821231821
+1,Bahrain,7,Anasim Khan,Naveed Fakhr,Imran Ali Butt,,0,0,0,,,,31821231821
+1,Bahrain,7,Anasim Khan,Naveed Fakhr,Imran Ali Butt,,0,1,1,,,,31821231821
+1,Bahrain,8,Anasim Khan,MNM Aslam,Imran Ali Butt,,0,0,0,,,,31821231821
+1,Bahrain,8,Anasim Khan,MNM Aslam,Imran Ali Butt,,0,0,0,,,,31821231821
+1,Bahrain,8,Anasim Khan,MNM Aslam,Imran Ali Butt,,0,1,1,,,,31821231821
+1,Bahrain,8,Imran Ali Butt,MNM Aslam,Anasim Khan,,0,1,1,,,,31821231821
+1,Bahrain,8,Anasim Khan,MNM Aslam,Imran Ali Butt,,0,0,0,,,,31821231821
+1,Bahrain,8,Anasim Khan,MNM Aslam,Imran Ali Butt,,0,0,0,,,,31821231821
+1,Bahrain,9,Imran Ali Butt,ED Silva,Anasim Khan,,0,0,0,,,,31821231821
+1,Bahrain,9,Imran Ali Butt,ED Silva,Anasim Khan,,0,0,0,,,,31821231821
+1,Bahrain,9,Imran Ali Butt,ED Silva,Anasim Khan,,0,1,1,,,,31821231821
+1,Bahrain,9,Anasim Khan,ED Silva,Imran Ali Butt,,0,1,1,,,,31821231821
+1,Bahrain,9,Imran Ali Butt,ED Silva,Anasim Khan,,0,0,0,,,,31821231821
+1,Bahrain,9,Imran Ali Butt,ED Silva,Anasim Khan,,0,0,0,,,,31821231821
+1,Bahrain,10,Anasim Khan,MNM Aslam,Imran Ali Butt,,0,0,0,,,,31821231821
+1,Bahrain,10,Anasim Khan,MNM Aslam,Imran Ali Butt,,0,0,0,caught,Anasim Khan,Bilal Tahir,31821231821
+1,Bahrain,10,Imran Ali Butt,MNM Aslam,Ammad Uddin,,0,6,6,,,,31821231821
+1,Bahrain,10,Imran Ali Butt,MNM Aslam,Ammad Uddin,,0,0,0,,,,31821231821
+1,Bahrain,10,Imran Ali Butt,MNM Aslam,Ammad Uddin,,0,1,1,,,,31821231821
+1,Bahrain,10,Ammad Uddin,MNM Aslam,Imran Ali Butt,,0,1,1,,,,31821231821
+1,Bahrain,11,Ammad Uddin,ED Silva,Imran Ali Butt,,0,0,0,,,,31821231821
+1,Bahrain,11,Ammad Uddin,ED Silva,Imran Ali Butt,,0,1,1,,,,31821231821
+1,Bahrain,11,Imran Ali Butt,ED Silva,Ammad Uddin,,0,0,0,,,,31821231821
+1,Bahrain,11,Imran Ali Butt,ED Silva,Ammad Uddin,,0,0,0,,,,31821231821
+1,Bahrain,11,Imran Ali Butt,ED Silva,Ammad Uddin,,0,0,0,,,,31821231821
+1,Bahrain,11,Imran Ali Butt,ED Silva,Ammad Uddin,,0,1,1,,,,31821231821
+1,Bahrain,12,Imran Ali Butt,MNM Aslam,Ammad Uddin,,0,0,0,,,,31821231821
+1,Bahrain,12,Imran Ali Butt,MNM Aslam,Ammad Uddin,,0,0,0,,,,31821231821
+1,Bahrain,12,Imran Ali Butt,MNM Aslam,Ammad Uddin,,0,0,0,,,,31821231821
+1,Bahrain,12,Imran Ali Butt,MNM Aslam,Ammad Uddin,,0,0,0,,,,31821231821
+1,Bahrain,12,Imran Ali Butt,MNM Aslam,Ammad Uddin,,0,1,1,,,,31821231821
+1,Bahrain,12,Ammad Uddin,MNM Aslam,Imran Ali Butt,,0,0,0,,,,31821231821
+1,Bahrain,13,Imran Ali Butt,ED Silva,Ammad Uddin,,0,0,0,,,,31821231821
+1,Bahrain,13,Imran Ali Butt,ED Silva,Ammad Uddin,,0,0,0,,,,31821231821
+1,Bahrain,13,Imran Ali Butt,ED Silva,Ammad Uddin,,0,4,4,,,,31821231821
+1,Bahrain,13,Imran Ali Butt,ED Silva,Ammad Uddin,,0,1,1,,,,31821231821
+1,Bahrain,13,Ammad Uddin,ED Silva,Imran Ali Butt,,0,1,1,,,,31821231821
+1,Bahrain,13,Imran Ali Butt,ED Silva,Ammad Uddin,,0,1,1,,,,31821231821
+1,Bahrain,14,Imran Ali Butt,Shiraz Khan,Ammad Uddin,,0,1,1,,,,31821231821
+1,Bahrain,14,Ammad Uddin,Shiraz Khan,Imran Ali Butt,,0,0,0,,,,31821231821
+1,Bahrain,14,Ammad Uddin,Shiraz Khan,Imran Ali Butt,,0,1,1,,,,31821231821
+1,Bahrain,14,Imran Ali Butt,Shiraz Khan,Ammad Uddin,,0,0,0,,,,31821231821
+1,Bahrain,14,Imran Ali Butt,Shiraz Khan,Ammad Uddin,,0,1,1,,,,31821231821
+1,Bahrain,14,Ammad Uddin,Shiraz Khan,Imran Ali Butt,,0,0,0,caught,Ammad Uddin,Usman Patel,31821231821
+1,Bahrain,15,Imran Ali Butt,ED Silva,S Veerapathiran,,0,0,0,bowled,Imran Ali Butt,,31821231821
+1,Bahrain,15,Imran Anwar,ED Silva,S Veerapathiran,wides,1,1,0,,,,31821231821
+1,Bahrain,15,Imran Anwar,ED Silva,S Veerapathiran,,0,0,0,,,,31821231821
+1,Bahrain,15,Imran Anwar,ED Silva,S Veerapathiran,,0,1,1,,,,31821231821
+1,Bahrain,15,S Veerapathiran,ED Silva,Imran Anwar,,0,0,0,,,,31821231821
+1,Bahrain,15,S Veerapathiran,ED Silva,Imran Anwar,wides,1,1,0,,,,31821231821
+1,Bahrain,15,S Veerapathiran,ED Silva,Imran Anwar,,0,1,1,,,,31821231821
+1,Bahrain,15,Imran Anwar,ED Silva,S Veerapathiran,,0,0,0,,,,31821231821
+1,Bahrain,16,S Veerapathiran,Shiraz Khan,Imran Anwar,,0,6,6,,,,31821231821
+1,Bahrain,16,S Veerapathiran,Shiraz Khan,Imran Anwar,byes,1,1,0,,,,31821231821
+1,Bahrain,16,Imran Anwar,Shiraz Khan,S Veerapathiran,,0,1,1,,,,31821231821
+1,Bahrain,16,S Veerapathiran,Shiraz Khan,Imran Anwar,,0,1,1,,,,31821231821
+1,Bahrain,16,Imran Anwar,Shiraz Khan,S Veerapathiran,,0,0,0,,,,31821231821
+1,Bahrain,16,Imran Anwar,Shiraz Khan,S Veerapathiran,,0,0,0,,,,31821231821
+1,Bahrain,17,S Veerapathiran,Sayed Monib,Imran Anwar,,0,1,1,,,,31821231821
+1,Bahrain,17,Imran Anwar,Sayed Monib,S Veerapathiran,,0,2,2,,,,31821231821
+1,Bahrain,17,Imran Anwar,Sayed Monib,S Veerapathiran,,0,0,0,,,,31821231821
+1,Bahrain,17,Imran Anwar,Sayed Monib,S Veerapathiran,,0,1,1,,,,31821231821
+1,Bahrain,17,S Veerapathiran,Sayed Monib,Imran Anwar,,0,6,6,,,,31821231821
+1,Bahrain,17,S Veerapathiran,Sayed Monib,Imran Anwar,,0,4,4,,,,31821231821
+1,Bahrain,18,Imran Anwar,Shiraz Khan,S Veerapathiran,,0,1,1,,,,31821231821
+1,Bahrain,18,S Veerapathiran,Shiraz Khan,Imran Anwar,,0,0,0,,,,31821231821
+1,Bahrain,18,S Veerapathiran,Shiraz Khan,Imran Anwar,,0,0,0,,,,31821231821
+1,Bahrain,18,S Veerapathiran,Shiraz Khan,Imran Anwar,,0,1,1,,,,31821231821
+1,Bahrain,18,Imran Anwar,Shiraz Khan,S Veerapathiran,,0,0,0,,,,31821231821
+1,Bahrain,18,Imran Anwar,Shiraz Khan,S Veerapathiran,,0,0,0,,,,31821231821
+1,Bahrain,19,S Veerapathiran,Nawaf Ahmed,Imran Anwar,,0,1,1,,,,31821231821
+1,Bahrain,19,Imran Anwar,Nawaf Ahmed,S Veerapathiran,,0,1,1,,,,31821231821
+1,Bahrain,19,S Veerapathiran,Nawaf Ahmed,Imran Anwar,,0,1,1,,,,31821231821
+1,Bahrain,19,Imran Anwar,Nawaf Ahmed,S Veerapathiran,,0,0,0,,,,31821231821
+1,Bahrain,19,Imran Anwar,Nawaf Ahmed,S Veerapathiran,,0,0,0,,,,31821231821
+1,Bahrain,19,Imran Anwar,Nawaf Ahmed,S Veerapathiran,wides,1,1,0,,,,31821231821
+1,Bahrain,19,Imran Anwar,Nawaf Ahmed,S Veerapathiran,,0,3,3,,,,31821231821

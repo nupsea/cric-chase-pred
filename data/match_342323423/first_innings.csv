@@ -1,0 +1,130 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Bangladesh,0,Tamim Iqbal,MA Starc,Anamul Haque,,0,1,1,,,,342323423
+1,Bangladesh,0,Anamul Haque,MA Starc,Tamim Iqbal,,0,0,0,,,,342323423
+1,Bangladesh,0,Anamul Haque,MA Starc,Tamim Iqbal,,0,0,0,,,,342323423
+1,Bangladesh,0,Anamul Haque,MA Starc,Tamim Iqbal,,0,0,0,,,,342323423
+1,Bangladesh,0,Anamul Haque,MA Starc,Tamim Iqbal,,0,0,0,,,,342323423
+1,Bangladesh,0,Anamul Haque,MA Starc,Tamim Iqbal,,0,0,0,,,,342323423
+1,Bangladesh,1,Tamim Iqbal,NM Coulter-Nile,Anamul Haque,,0,0,0,,,,342323423
+1,Bangladesh,1,Tamim Iqbal,NM Coulter-Nile,Anamul Haque,wides,1,1,0,,,,342323423
+1,Bangladesh,1,Tamim Iqbal,NM Coulter-Nile,Anamul Haque,,0,0,0,,,,342323423
+1,Bangladesh,1,Tamim Iqbal,NM Coulter-Nile,Anamul Haque,wides,1,1,0,,,,342323423
+1,Bangladesh,1,Tamim Iqbal,NM Coulter-Nile,Anamul Haque,,0,1,1,,,,342323423
+1,Bangladesh,1,Anamul Haque,NM Coulter-Nile,Tamim Iqbal,,0,0,0,caught,Anamul Haque,SR Watson,342323423
+1,Bangladesh,1,Shakib Al Hasan,NM Coulter-Nile,Tamim Iqbal,,0,0,0,,,,342323423
+1,Bangladesh,1,Shakib Al Hasan,NM Coulter-Nile,Tamim Iqbal,,0,0,0,,,,342323423
+1,Bangladesh,2,Tamim Iqbal,MA Starc,Shakib Al Hasan,wides,1,1,0,,,,342323423
+1,Bangladesh,2,Tamim Iqbal,MA Starc,Shakib Al Hasan,,0,0,0,,,,342323423
+1,Bangladesh,2,Tamim Iqbal,MA Starc,Shakib Al Hasan,,0,0,0,,,,342323423
+1,Bangladesh,2,Tamim Iqbal,MA Starc,Shakib Al Hasan,,0,0,0,,,,342323423
+1,Bangladesh,2,Tamim Iqbal,MA Starc,Shakib Al Hasan,,0,0,0,,,,342323423
+1,Bangladesh,2,Tamim Iqbal,MA Starc,Shakib Al Hasan,,0,3,3,,,,342323423
+1,Bangladesh,2,Shakib Al Hasan,MA Starc,Tamim Iqbal,,0,4,4,,,,342323423
+1,Bangladesh,3,Tamim Iqbal,NM Coulter-Nile,Shakib Al Hasan,,0,0,0,,,,342323423
+1,Bangladesh,3,Tamim Iqbal,NM Coulter-Nile,Shakib Al Hasan,,0,0,0,caught,Tamim Iqbal,DE Bollinger,342323423
+1,Bangladesh,3,Mushfiqur Rahim,NM Coulter-Nile,Shakib Al Hasan,,0,0,0,,,,342323423
+1,Bangladesh,3,Mushfiqur Rahim,NM Coulter-Nile,Shakib Al Hasan,,0,1,1,,,,342323423
+1,Bangladesh,3,Shakib Al Hasan,NM Coulter-Nile,Mushfiqur Rahim,,0,0,0,,,,342323423
+1,Bangladesh,3,Shakib Al Hasan,NM Coulter-Nile,Mushfiqur Rahim,,0,0,0,,,,342323423
+1,Bangladesh,4,Mushfiqur Rahim,DE Bollinger,Shakib Al Hasan,,0,0,0,,,,342323423
+1,Bangladesh,4,Mushfiqur Rahim,DE Bollinger,Shakib Al Hasan,,0,0,0,,,,342323423
+1,Bangladesh,4,Mushfiqur Rahim,DE Bollinger,Shakib Al Hasan,,0,1,1,,,,342323423
+1,Bangladesh,4,Shakib Al Hasan,DE Bollinger,Mushfiqur Rahim,,0,6,6,,,,342323423
+1,Bangladesh,4,Shakib Al Hasan,DE Bollinger,Mushfiqur Rahim,,0,0,0,,,,342323423
+1,Bangladesh,4,Shakib Al Hasan,DE Bollinger,Mushfiqur Rahim,,0,1,1,,,,342323423
+1,Bangladesh,5,Shakib Al Hasan,SR Watson,Mushfiqur Rahim,,0,0,0,,,,342323423
+1,Bangladesh,5,Shakib Al Hasan,SR Watson,Mushfiqur Rahim,,0,0,0,,,,342323423
+1,Bangladesh,5,Shakib Al Hasan,SR Watson,Mushfiqur Rahim,,0,0,0,,,,342323423
+1,Bangladesh,5,Shakib Al Hasan,SR Watson,Mushfiqur Rahim,legbyes,4,4,0,,,,342323423
+1,Bangladesh,5,Shakib Al Hasan,SR Watson,Mushfiqur Rahim,,0,6,6,,,,342323423
+1,Bangladesh,5,Shakib Al Hasan,SR Watson,Mushfiqur Rahim,,0,1,1,,,,342323423
+1,Bangladesh,6,Shakib Al Hasan,GJ Maxwell,Mushfiqur Rahim,,0,4,4,,,,342323423
+1,Bangladesh,6,Shakib Al Hasan,GJ Maxwell,Mushfiqur Rahim,,0,1,1,,,,342323423
+1,Bangladesh,6,Mushfiqur Rahim,GJ Maxwell,Shakib Al Hasan,,0,4,4,,,,342323423
+1,Bangladesh,6,Mushfiqur Rahim,GJ Maxwell,Shakib Al Hasan,,0,1,1,,,,342323423
+1,Bangladesh,6,Shakib Al Hasan,GJ Maxwell,Mushfiqur Rahim,,0,0,0,,,,342323423
+1,Bangladesh,6,Shakib Al Hasan,GJ Maxwell,Mushfiqur Rahim,,0,1,1,,,,342323423
+1,Bangladesh,7,Shakib Al Hasan,DE Bollinger,Mushfiqur Rahim,,0,1,1,,,,342323423
+1,Bangladesh,7,Mushfiqur Rahim,DE Bollinger,Shakib Al Hasan,,0,1,1,,,,342323423
+1,Bangladesh,7,Shakib Al Hasan,DE Bollinger,Mushfiqur Rahim,,0,1,1,,,,342323423
+1,Bangladesh,7,Mushfiqur Rahim,DE Bollinger,Shakib Al Hasan,,0,1,1,,,,342323423
+1,Bangladesh,7,Shakib Al Hasan,DE Bollinger,Mushfiqur Rahim,,0,4,4,,,,342323423
+1,Bangladesh,7,Shakib Al Hasan,DE Bollinger,Mushfiqur Rahim,,0,0,0,,,,342323423
+1,Bangladesh,8,Mushfiqur Rahim,SR Watson,Shakib Al Hasan,,0,1,1,,,,342323423
+1,Bangladesh,8,Shakib Al Hasan,SR Watson,Mushfiqur Rahim,,0,1,1,,,,342323423
+1,Bangladesh,8,Mushfiqur Rahim,SR Watson,Shakib Al Hasan,,0,0,0,,,,342323423
+1,Bangladesh,8,Mushfiqur Rahim,SR Watson,Shakib Al Hasan,byes,1,1,0,,,,342323423
+1,Bangladesh,8,Shakib Al Hasan,SR Watson,Mushfiqur Rahim,,0,0,0,,,,342323423
+1,Bangladesh,8,Shakib Al Hasan,SR Watson,Mushfiqur Rahim,,0,1,1,,,,342323423
+1,Bangladesh,9,Shakib Al Hasan,NM Coulter-Nile,Mushfiqur Rahim,,0,1,1,,,,342323423
+1,Bangladesh,9,Mushfiqur Rahim,NM Coulter-Nile,Shakib Al Hasan,,0,1,1,,,,342323423
+1,Bangladesh,9,Shakib Al Hasan,NM Coulter-Nile,Mushfiqur Rahim,,0,2,2,,,,342323423
+1,Bangladesh,9,Shakib Al Hasan,NM Coulter-Nile,Mushfiqur Rahim,,0,4,4,,,,342323423
+1,Bangladesh,9,Shakib Al Hasan,NM Coulter-Nile,Mushfiqur Rahim,,0,1,1,,,,342323423
+1,Bangladesh,9,Mushfiqur Rahim,NM Coulter-Nile,Shakib Al Hasan,,0,4,4,,,,342323423
+1,Bangladesh,10,Shakib Al Hasan,GJ Maxwell,Mushfiqur Rahim,,0,1,1,,,,342323423
+1,Bangladesh,10,Mushfiqur Rahim,GJ Maxwell,Shakib Al Hasan,,0,1,1,,,,342323423
+1,Bangladesh,10,Shakib Al Hasan,GJ Maxwell,Mushfiqur Rahim,,0,1,1,,,,342323423
+1,Bangladesh,10,Mushfiqur Rahim,GJ Maxwell,Shakib Al Hasan,,0,6,6,,,,342323423
+1,Bangladesh,10,Mushfiqur Rahim,GJ Maxwell,Shakib Al Hasan,,0,1,1,,,,342323423
+1,Bangladesh,10,Shakib Al Hasan,GJ Maxwell,Mushfiqur Rahim,,0,1,1,,,,342323423
+1,Bangladesh,11,Shakib Al Hasan,DE Bollinger,Mushfiqur Rahim,,0,2,2,,,,342323423
+1,Bangladesh,11,Shakib Al Hasan,DE Bollinger,Mushfiqur Rahim,,0,1,1,,,,342323423
+1,Bangladesh,11,Mushfiqur Rahim,DE Bollinger,Shakib Al Hasan,,0,1,1,,,,342323423
+1,Bangladesh,11,Shakib Al Hasan,DE Bollinger,Mushfiqur Rahim,,0,1,1,,,,342323423
+1,Bangladesh,11,Mushfiqur Rahim,DE Bollinger,Shakib Al Hasan,,0,4,4,,,,342323423
+1,Bangladesh,11,Mushfiqur Rahim,DE Bollinger,Shakib Al Hasan,,0,0,0,,,,342323423
+1,Bangladesh,12,Shakib Al Hasan,DT Christian,Mushfiqur Rahim,,0,1,1,,,,342323423
+1,Bangladesh,12,Mushfiqur Rahim,DT Christian,Shakib Al Hasan,,0,1,1,,,,342323423
+1,Bangladesh,12,Shakib Al Hasan,DT Christian,Mushfiqur Rahim,,0,1,1,,,,342323423
+1,Bangladesh,12,Mushfiqur Rahim,DT Christian,Shakib Al Hasan,,0,0,0,,,,342323423
+1,Bangladesh,12,Mushfiqur Rahim,DT Christian,Shakib Al Hasan,,0,2,2,,,,342323423
+1,Bangladesh,12,Mushfiqur Rahim,DT Christian,Shakib Al Hasan,,0,4,4,,,,342323423
+1,Bangladesh,13,Shakib Al Hasan,GJ Maxwell,Mushfiqur Rahim,byes,1,1,0,,,,342323423
+1,Bangladesh,13,Mushfiqur Rahim,GJ Maxwell,Shakib Al Hasan,,0,0,0,,,,342323423
+1,Bangladesh,13,Mushfiqur Rahim,GJ Maxwell,Shakib Al Hasan,,0,1,1,,,,342323423
+1,Bangladesh,13,Shakib Al Hasan,GJ Maxwell,Mushfiqur Rahim,,0,0,0,,,,342323423
+1,Bangladesh,13,Shakib Al Hasan,GJ Maxwell,Mushfiqur Rahim,,0,1,1,,,,342323423
+1,Bangladesh,13,Mushfiqur Rahim,GJ Maxwell,Shakib Al Hasan,noballs,1,2,1,,,,342323423
+1,Bangladesh,13,Shakib Al Hasan,GJ Maxwell,Mushfiqur Rahim,,0,6,6,,,,342323423
+1,Bangladesh,14,Mushfiqur Rahim,DT Christian,Shakib Al Hasan,,0,1,1,,,,342323423
+1,Bangladesh,14,Shakib Al Hasan,DT Christian,Mushfiqur Rahim,,0,1,1,,,,342323423
+1,Bangladesh,14,Mushfiqur Rahim,DT Christian,Shakib Al Hasan,,0,0,0,,,,342323423
+1,Bangladesh,14,Mushfiqur Rahim,DT Christian,Shakib Al Hasan,,0,1,1,,,,342323423
+1,Bangladesh,14,Shakib Al Hasan,DT Christian,Mushfiqur Rahim,,0,1,1,,,,342323423
+1,Bangladesh,14,Mushfiqur Rahim,DT Christian,Shakib Al Hasan,,0,4,4,,,,342323423
+1,Bangladesh,15,Shakib Al Hasan,MA Starc,Mushfiqur Rahim,,0,1,1,,,,342323423
+1,Bangladesh,15,Mushfiqur Rahim,MA Starc,Shakib Al Hasan,wides,1,1,0,,,,342323423
+1,Bangladesh,15,Mushfiqur Rahim,MA Starc,Shakib Al Hasan,,0,1,1,,,,342323423
+1,Bangladesh,15,Shakib Al Hasan,MA Starc,Mushfiqur Rahim,,0,1,1,,,,342323423
+1,Bangladesh,15,Mushfiqur Rahim,MA Starc,Shakib Al Hasan,,0,2,2,,,,342323423
+1,Bangladesh,15,Mushfiqur Rahim,MA Starc,Shakib Al Hasan,,0,1,1,,,,342323423
+1,Bangladesh,15,Shakib Al Hasan,MA Starc,Mushfiqur Rahim,,0,0,0,,,,342323423
+1,Bangladesh,16,Mushfiqur Rahim,SR Watson,Shakib Al Hasan,wides,1,1,0,,,,342323423
+1,Bangladesh,16,Mushfiqur Rahim,SR Watson,Shakib Al Hasan,,0,0,0,,,,342323423
+1,Bangladesh,16,Mushfiqur Rahim,SR Watson,Shakib Al Hasan,,0,0,0,caught,Mushfiqur Rahim,GJ Maxwell,342323423
+1,Bangladesh,16,Shakib Al Hasan,SR Watson,Mahmudullah,wides,1,1,0,,,,342323423
+1,Bangladesh,16,Shakib Al Hasan,SR Watson,Mahmudullah,,0,1,1,,,,342323423
+1,Bangladesh,16,Mahmudullah,SR Watson,Shakib Al Hasan,,0,1,1,,,,342323423
+1,Bangladesh,16,Shakib Al Hasan,SR Watson,Mahmudullah,,0,0,0,,,,342323423
+1,Bangladesh,16,Shakib Al Hasan,SR Watson,Mahmudullah,wides,1,1,0,,,,342323423
+1,Bangladesh,16,Shakib Al Hasan,SR Watson,Mahmudullah,,0,1,1,,,,342323423
+1,Bangladesh,17,Shakib Al Hasan,DE Bollinger,Mahmudullah,,0,0,0,,,,342323423
+1,Bangladesh,17,Shakib Al Hasan,DE Bollinger,Mahmudullah,,0,4,4,,,,342323423
+1,Bangladesh,17,Shakib Al Hasan,DE Bollinger,Mahmudullah,,0,0,0,caught,Shakib Al Hasan,GJ Maxwell,342323423
+1,Bangladesh,17,Mahmudullah,DE Bollinger,Nasir Hossain,,0,0,0,,,,342323423
+1,Bangladesh,17,Mahmudullah,DE Bollinger,Nasir Hossain,,0,1,1,,,,342323423
+1,Bangladesh,17,Nasir Hossain,DE Bollinger,Mahmudullah,,0,1,1,,,,342323423
+1,Bangladesh,18,Nasir Hossain,SR Watson,Mahmudullah,,0,4,4,,,,342323423
+1,Bangladesh,18,Nasir Hossain,SR Watson,Mahmudullah,,0,1,1,,,,342323423
+1,Bangladesh,18,Mahmudullah,SR Watson,Nasir Hossain,,0,1,1,,,,342323423
+1,Bangladesh,18,Nasir Hossain,SR Watson,Mahmudullah,noballs,1,1,0,,,,342323423
+1,Bangladesh,18,Nasir Hossain,SR Watson,Mahmudullah,,0,0,0,,,,342323423
+1,Bangladesh,18,Nasir Hossain,SR Watson,Mahmudullah,,0,1,1,,,,342323423
+1,Bangladesh,18,Mahmudullah,SR Watson,Nasir Hossain,,0,1,1,,,,342323423
+1,Bangladesh,19,Mahmudullah,MA Starc,Nasir Hossain,,0,1,1,,,,342323423
+1,Bangladesh,19,Nasir Hossain,MA Starc,Mahmudullah,,0,1,1,,,,342323423
+1,Bangladesh,19,Mahmudullah,MA Starc,Nasir Hossain,,0,1,1,,,,342323423
+1,Bangladesh,19,Nasir Hossain,MA Starc,Mahmudullah,,0,4,4,,,,342323423
+1,Bangladesh,19,Nasir Hossain,MA Starc,Mahmudullah,,0,2,2,,,,342323423
+1,Bangladesh,19,Nasir Hossain,MA Starc,Mahmudullah,,0,0,0,bowled,Nasir Hossain,,342323423

@@ -1,0 +1,82 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Uganda,0,K Awino,W Mwatile,Shakirah Sadick,,0,0,0,,,,32009232009
+2,Uganda,0,K Awino,W Mwatile,Shakirah Sadick,,0,1,1,,,,32009232009
+2,Uganda,0,Shakirah Sadick,W Mwatile,K Awino,wides,1,1,0,,,,32009232009
+2,Uganda,0,Shakirah Sadick,W Mwatile,K Awino,,0,0,0,,,,32009232009
+2,Uganda,0,Shakirah Sadick,W Mwatile,K Awino,,0,0,0,,,,32009232009
+2,Uganda,0,Shakirah Sadick,W Mwatile,K Awino,,0,0,0,lbw,Shakirah Sadick,,32009232009
+2,Uganda,0,J Mbabazi,W Mwatile,K Awino,,0,0,0,,,,32009232009
+2,Uganda,1,K Awino,SA Wittmann,J Mbabazi,,0,0,0,bowled,K Awino,,32009232009
+2,Uganda,1,S Kakai,SA Wittmann,J Mbabazi,,0,0,0,,,,32009232009
+2,Uganda,1,S Kakai,SA Wittmann,J Mbabazi,,0,0,0,,,,32009232009
+2,Uganda,1,S Kakai,SA Wittmann,J Mbabazi,,0,0,0,,,,32009232009
+2,Uganda,1,S Kakai,SA Wittmann,J Mbabazi,wides,1,1,0,,,,32009232009
+2,Uganda,1,S Kakai,SA Wittmann,J Mbabazi,,0,0,0,lbw,S Kakai,,32009232009
+2,Uganda,1,NK Bagenda,SA Wittmann,J Mbabazi,,0,0,0,,,,32009232009
+2,Uganda,2,J Mbabazi,W Mwatile,NK Bagenda,,0,0,0,,,,32009232009
+2,Uganda,2,J Mbabazi,W Mwatile,NK Bagenda,,0,0,0,,,,32009232009
+2,Uganda,2,J Mbabazi,W Mwatile,NK Bagenda,,0,0,0,,,,32009232009
+2,Uganda,2,J Mbabazi,W Mwatile,NK Bagenda,,0,2,2,,,,32009232009
+2,Uganda,2,J Mbabazi,W Mwatile,NK Bagenda,,0,0,0,,,,32009232009
+2,Uganda,2,J Mbabazi,W Mwatile,NK Bagenda,,0,0,0,,,,32009232009
+2,Uganda,3,NK Bagenda,SA Wittmann,J Mbabazi,wides,1,1,0,,,,32009232009
+2,Uganda,3,NK Bagenda,SA Wittmann,J Mbabazi,,0,0,0,,,,32009232009
+2,Uganda,3,NK Bagenda,SA Wittmann,J Mbabazi,,0,0,0,,,,32009232009
+2,Uganda,3,NK Bagenda,SA Wittmann,J Mbabazi,,0,0,0,,,,32009232009
+2,Uganda,3,NK Bagenda,SA Wittmann,J Mbabazi,,0,0,0,caught,NK Bagenda,Yasmeen Khan,32009232009
+2,Uganda,3,C Aweko,SA Wittmann,J Mbabazi,,0,0,0,,,,32009232009
+2,Uganda,3,C Aweko,SA Wittmann,J Mbabazi,,0,0,0,,,,32009232009
+2,Uganda,4,J Mbabazi,W Mwatile,C Aweko,,0,0,0,,,,32009232009
+2,Uganda,4,J Mbabazi,W Mwatile,C Aweko,wides,1,1,0,,,,32009232009
+2,Uganda,4,J Mbabazi,W Mwatile,C Aweko,,0,4,4,,,,32009232009
+2,Uganda,4,J Mbabazi,W Mwatile,C Aweko,,0,4,4,,,,32009232009
+2,Uganda,4,J Mbabazi,W Mwatile,C Aweko,,0,0,0,,,,32009232009
+2,Uganda,4,J Mbabazi,W Mwatile,C Aweko,,0,0,0,,,,32009232009
+2,Uganda,4,J Mbabazi,W Mwatile,C Aweko,,0,0,0,,,,32009232009
+2,Uganda,5,C Aweko,SA Wittmann,J Mbabazi,,0,0,0,lbw,C Aweko,,32009232009
+2,Uganda,5,PE Kulume,SA Wittmann,J Mbabazi,,0,1,1,,,,32009232009
+2,Uganda,5,J Mbabazi,SA Wittmann,PE Kulume,,0,1,1,,,,32009232009
+2,Uganda,5,PE Kulume,SA Wittmann,J Mbabazi,,0,1,1,,,,32009232009
+2,Uganda,5,J Mbabazi,SA Wittmann,PE Kulume,,0,0,0,,,,32009232009
+2,Uganda,5,J Mbabazi,SA Wittmann,PE Kulume,,0,1,1,,,,32009232009
+2,Uganda,6,J Mbabazi,I van Zyl,PE Kulume,,0,0,0,caught,J Mbabazi,D Foerster,32009232009
+2,Uganda,6,RE Nyangendo,I van Zyl,PE Kulume,,0,0,0,,,,32009232009
+2,Uganda,6,RE Nyangendo,I van Zyl,PE Kulume,,0,4,4,,,,32009232009
+2,Uganda,6,RE Nyangendo,I van Zyl,PE Kulume,,0,0,0,,,,32009232009
+2,Uganda,6,RE Nyangendo,I van Zyl,PE Kulume,,0,0,0,,,,32009232009
+2,Uganda,6,RE Nyangendo,I van Zyl,PE Kulume,,0,0,0,,,,32009232009
+2,Uganda,7,PE Kulume,SA Wittmann,RE Nyangendo,,0,0,0,caught,PE Kulume,Yasmeen Khan,32009232009
+2,Uganda,7,E Anyipo,SA Wittmann,RE Nyangendo,wides,1,1,0,,,,32009232009
+2,Uganda,7,E Anyipo,SA Wittmann,RE Nyangendo,,0,1,1,,,,32009232009
+2,Uganda,7,RE Nyangendo,SA Wittmann,E Anyipo,,0,0,0,,,,32009232009
+2,Uganda,7,RE Nyangendo,SA Wittmann,E Anyipo,wides,1,1,0,,,,32009232009
+2,Uganda,7,RE Nyangendo,SA Wittmann,E Anyipo,wides,1,1,0,,,,32009232009
+2,Uganda,7,RE Nyangendo,SA Wittmann,E Anyipo,,0,0,0,,,,32009232009
+2,Uganda,7,RE Nyangendo,SA Wittmann,E Anyipo,,0,0,0,,,,32009232009
+2,Uganda,7,RE Nyangendo,SA Wittmann,E Anyipo,,0,0,0,,,,32009232009
+2,Uganda,8,E Anyipo,I van Zyl,RE Nyangendo,,0,1,1,,,,32009232009
+2,Uganda,8,RE Nyangendo,I van Zyl,E Anyipo,,0,1,1,,,,32009232009
+2,Uganda,8,E Anyipo,I van Zyl,RE Nyangendo,,0,0,0,,,,32009232009
+2,Uganda,8,E Anyipo,I van Zyl,RE Nyangendo,,0,0,0,,,,32009232009
+2,Uganda,8,E Anyipo,I van Zyl,RE Nyangendo,,0,0,0,,,,32009232009
+2,Uganda,8,E Anyipo,I van Zyl,RE Nyangendo,,0,3,3,,,,32009232009
+2,Uganda,9,E Anyipo,KA Green,RE Nyangendo,,0,1,1,,,,32009232009
+2,Uganda,9,RE Nyangendo,KA Green,E Anyipo,,0,0,0,,,,32009232009
+2,Uganda,9,RE Nyangendo,KA Green,E Anyipo,,0,0,0,,,,32009232009
+2,Uganda,9,RE Nyangendo,KA Green,E Anyipo,,0,0,0,,,,32009232009
+2,Uganda,9,RE Nyangendo,KA Green,E Anyipo,,0,0,0,,,,32009232009
+2,Uganda,9,RE Nyangendo,KA Green,E Anyipo,,0,0,0,,,,32009232009
+2,Uganda,10,E Anyipo,I van Zyl,RE Nyangendo,,0,1,1,,,,32009232009
+2,Uganda,10,RE Nyangendo,I van Zyl,E Anyipo,,0,0,0,,,,32009232009
+2,Uganda,10,RE Nyangendo,I van Zyl,E Anyipo,,0,4,4,,,,32009232009
+2,Uganda,10,RE Nyangendo,I van Zyl,E Anyipo,,0,0,0,caught,RE Nyangendo,Yasmeen Khan,32009232009
+2,Uganda,10,P Malemikia,I van Zyl,E Anyipo,,0,1,1,,,,32009232009
+2,Uganda,10,E Anyipo,I van Zyl,P Malemikia,,0,0,0,,,,32009232009
+2,Uganda,11,P Malemikia,KA Green,E Anyipo,,0,0,0,caught,P Malemikia,A van der Merwe,32009232009
+2,Uganda,11,S Akiteng,KA Green,E Anyipo,,0,0,0,,,,32009232009
+2,Uganda,11,S Akiteng,KA Green,E Anyipo,wides,1,1,0,,,,32009232009
+2,Uganda,11,S Akiteng,KA Green,E Anyipo,,0,0,0,,,,32009232009
+2,Uganda,11,S Akiteng,KA Green,E Anyipo,,0,0,0,,,,32009232009
+2,Uganda,11,S Akiteng,KA Green,E Anyipo,,0,0,0,,,,32009232009
+2,Uganda,11,S Akiteng,KA Green,E Anyipo,,0,0,0,,,,32009232009
+2,Uganda,12,E Anyipo,I van Zyl,S Akiteng,,0,0,0,bowled,E Anyipo,,32009232009

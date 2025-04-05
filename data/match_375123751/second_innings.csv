@@ -1,0 +1,106 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,West Indies,0,CAK Walton,TG Southee,CH Gayle,,0,0,0,caught,CAK Walton,C Munro,375123751
+2,West Indies,0,ADS Fletcher,TG Southee,CH Gayle,,0,0,0,,,,375123751
+2,West Indies,0,ADS Fletcher,TG Southee,CH Gayle,,0,1,1,,,,375123751
+2,West Indies,0,CH Gayle,TG Southee,ADS Fletcher,,0,0,0,,,,375123751
+2,West Indies,0,CH Gayle,TG Southee,ADS Fletcher,,0,0,0,caught,CH Gayle,GD Phillips,375123751
+2,West Indies,0,R Powell,TG Southee,ADS Fletcher,,0,0,0,,,,375123751
+2,West Indies,1,ADS Fletcher,TA Boult,R Powell,,0,2,2,,,,375123751
+2,West Indies,1,ADS Fletcher,TA Boult,R Powell,,0,0,0,,,,375123751
+2,West Indies,1,ADS Fletcher,TA Boult,R Powell,wides,1,1,0,,,,375123751
+2,West Indies,1,ADS Fletcher,TA Boult,R Powell,,0,2,2,,,,375123751
+2,West Indies,1,ADS Fletcher,TA Boult,R Powell,noballs,1,2,1,,,,375123751
+2,West Indies,1,R Powell,TA Boult,ADS Fletcher,noballs,1,1,0,,,,375123751
+2,West Indies,1,R Powell,TA Boult,ADS Fletcher,wides,1,1,0,,,,375123751
+2,West Indies,1,R Powell,TA Boult,ADS Fletcher,,0,4,4,,,,375123751
+2,West Indies,1,R Powell,TA Boult,ADS Fletcher,,0,4,4,,,,375123751
+2,West Indies,1,R Powell,TA Boult,ADS Fletcher,,0,0,0,,,,375123751
+2,West Indies,2,ADS Fletcher,TG Southee,R Powell,,0,0,0,,,,375123751
+2,West Indies,2,ADS Fletcher,TG Southee,R Powell,,0,4,4,,,,375123751
+2,West Indies,2,ADS Fletcher,TG Southee,R Powell,,0,4,4,,,,375123751
+2,West Indies,2,ADS Fletcher,TG Southee,R Powell,,0,6,6,,,,375123751
+2,West Indies,2,ADS Fletcher,TG Southee,R Powell,,0,1,1,,,,375123751
+2,West Indies,2,R Powell,TG Southee,ADS Fletcher,,0,4,4,,,,375123751
+2,West Indies,3,ADS Fletcher,AK Kitchen,R Powell,,0,0,0,,,,375123751
+2,West Indies,3,ADS Fletcher,AK Kitchen,R Powell,,0,0,0,,,,375123751
+2,West Indies,3,ADS Fletcher,AK Kitchen,R Powell,,0,1,1,,,,375123751
+2,West Indies,3,R Powell,AK Kitchen,ADS Fletcher,,0,4,4,,,,375123751
+2,West Indies,3,R Powell,AK Kitchen,ADS Fletcher,,0,0,0,caught,R Powell,KS Williamson,375123751
+2,West Indies,3,ADS Fletcher,AK Kitchen,SO Hetmyer,,0,0,0,,,,375123751
+2,West Indies,4,SO Hetmyer,MJ Santner,ADS Fletcher,,0,0,0,,,,375123751
+2,West Indies,4,SO Hetmyer,MJ Santner,ADS Fletcher,,0,6,6,,,,375123751
+2,West Indies,4,SO Hetmyer,MJ Santner,ADS Fletcher,,0,1,1,,,,375123751
+2,West Indies,4,ADS Fletcher,MJ Santner,SO Hetmyer,,0,0,0,,,,375123751
+2,West Indies,4,ADS Fletcher,MJ Santner,SO Hetmyer,,0,0,0,run out,SO Hetmyer,,375123751
+2,West Indies,4,CR Brathwaite,MJ Santner,ADS Fletcher,,0,4,4,,,,375123751
+2,West Indies,5,ADS Fletcher,AK Kitchen,CR Brathwaite,,0,0,0,,,,375123751
+2,West Indies,5,ADS Fletcher,AK Kitchen,CR Brathwaite,,0,4,4,,,,375123751
+2,West Indies,5,ADS Fletcher,AK Kitchen,CR Brathwaite,,0,4,4,,,,375123751
+2,West Indies,5,ADS Fletcher,AK Kitchen,CR Brathwaite,,0,0,0,,,,375123751
+2,West Indies,5,ADS Fletcher,AK Kitchen,CR Brathwaite,,0,6,6,,,,375123751
+2,West Indies,5,ADS Fletcher,AK Kitchen,CR Brathwaite,,0,6,6,,,,375123751
+2,West Indies,6,CR Brathwaite,IS Sodhi,ADS Fletcher,,0,1,1,,,,375123751
+2,West Indies,6,ADS Fletcher,IS Sodhi,CR Brathwaite,,0,0,0,,,,375123751
+2,West Indies,6,ADS Fletcher,IS Sodhi,CR Brathwaite,,0,0,0,,,,375123751
+2,West Indies,6,ADS Fletcher,IS Sodhi,CR Brathwaite,,0,0,0,,,,375123751
+2,West Indies,6,ADS Fletcher,IS Sodhi,CR Brathwaite,,0,1,1,,,,375123751
+2,West Indies,6,CR Brathwaite,IS Sodhi,ADS Fletcher,,0,0,0,,,,375123751
+2,West Indies,7,ADS Fletcher,MJ Santner,CR Brathwaite,,0,0,0,,,,375123751
+2,West Indies,7,ADS Fletcher,MJ Santner,CR Brathwaite,,0,1,1,,,,375123751
+2,West Indies,7,CR Brathwaite,MJ Santner,ADS Fletcher,,0,1,1,,,,375123751
+2,West Indies,7,ADS Fletcher,MJ Santner,CR Brathwaite,,0,1,1,,,,375123751
+2,West Indies,7,CR Brathwaite,MJ Santner,ADS Fletcher,,0,1,1,,,,375123751
+2,West Indies,7,ADS Fletcher,MJ Santner,CR Brathwaite,,0,1,1,,,,375123751
+2,West Indies,8,ADS Fletcher,IS Sodhi,CR Brathwaite,,0,0,0,bowled,ADS Fletcher,,375123751
+2,West Indies,8,AR Nurse,IS Sodhi,CR Brathwaite,,0,1,1,,,,375123751
+2,West Indies,8,CR Brathwaite,IS Sodhi,AR Nurse,,0,6,6,,,,375123751
+2,West Indies,8,CR Brathwaite,IS Sodhi,AR Nurse,,0,0,0,,,,375123751
+2,West Indies,8,CR Brathwaite,IS Sodhi,AR Nurse,,0,0,0,,,,375123751
+2,West Indies,8,CR Brathwaite,IS Sodhi,AR Nurse,,0,0,0,,,,375123751
+2,West Indies,9,AR Nurse,AK Kitchen,CR Brathwaite,,0,0,0,,,,375123751
+2,West Indies,9,AR Nurse,AK Kitchen,CR Brathwaite,,0,0,0,,,,375123751
+2,West Indies,9,AR Nurse,AK Kitchen,CR Brathwaite,wides,1,1,0,,,,375123751
+2,West Indies,9,AR Nurse,AK Kitchen,CR Brathwaite,,0,0,0,,,,375123751
+2,West Indies,9,AR Nurse,AK Kitchen,CR Brathwaite,,0,1,1,,,,375123751
+2,West Indies,9,CR Brathwaite,AK Kitchen,AR Nurse,,0,0,0,,,,375123751
+2,West Indies,9,CR Brathwaite,AK Kitchen,AR Nurse,,0,1,1,,,,375123751
+2,West Indies,10,CR Brathwaite,TA Boult,AR Nurse,,0,1,1,,,,375123751
+2,West Indies,10,AR Nurse,TA Boult,CR Brathwaite,,0,1,1,,,,375123751
+2,West Indies,10,CR Brathwaite,TA Boult,AR Nurse,,0,0,0,,,,375123751
+2,West Indies,10,CR Brathwaite,TA Boult,AR Nurse,,0,0,0,caught,CR Brathwaite,TC Bruce,375123751
+2,West Indies,10,RR Emrit,TA Boult,AR Nurse,,0,1,1,,,,375123751
+2,West Indies,10,AR Nurse,TA Boult,RR Emrit,wides,1,1,0,,,,375123751
+2,West Indies,10,AR Nurse,TA Boult,RR Emrit,,0,0,0,,,,375123751
+2,West Indies,11,RR Emrit,AK Kitchen,AR Nurse,,0,2,2,,,,375123751
+2,West Indies,11,RR Emrit,AK Kitchen,AR Nurse,,0,1,1,,,,375123751
+2,West Indies,11,AR Nurse,AK Kitchen,RR Emrit,,0,0,0,,,,375123751
+2,West Indies,11,AR Nurse,AK Kitchen,RR Emrit,,0,1,1,,,,375123751
+2,West Indies,11,RR Emrit,AK Kitchen,AR Nurse,,0,0,0,,,,375123751
+2,West Indies,11,RR Emrit,AK Kitchen,AR Nurse,,0,1,1,,,,375123751
+2,West Indies,12,RR Emrit,IS Sodhi,AR Nurse,,0,0,0,lbw,RR Emrit,,375123751
+2,West Indies,12,JE Taylor,IS Sodhi,AR Nurse,,0,6,6,,,,375123751
+2,West Indies,12,JE Taylor,IS Sodhi,AR Nurse,,0,1,1,,,,375123751
+2,West Indies,12,AR Nurse,IS Sodhi,JE Taylor,,0,0,0,,,,375123751
+2,West Indies,12,AR Nurse,IS Sodhi,JE Taylor,,0,1,1,,,,375123751
+2,West Indies,12,JE Taylor,IS Sodhi,AR Nurse,,0,6,6,,,,375123751
+2,West Indies,13,AR Nurse,TA Boult,JE Taylor,,0,0,0,,,,375123751
+2,West Indies,13,AR Nurse,TA Boult,JE Taylor,,0,0,0,,,,375123751
+2,West Indies,13,AR Nurse,TA Boult,JE Taylor,,0,0,0,,,,375123751
+2,West Indies,13,AR Nurse,TA Boult,JE Taylor,,0,1,1,,,,375123751
+2,West Indies,13,JE Taylor,TA Boult,AR Nurse,,0,0,0,caught,JE Taylor,MJ Santner,375123751
+2,West Indies,13,AR Nurse,TA Boult,S Badree,,0,0,0,,,,375123751
+2,West Indies,14,S Badree,IS Sodhi,AR Nurse,,0,0,0,,,,375123751
+2,West Indies,14,S Badree,IS Sodhi,AR Nurse,,0,0,0,,,,375123751
+2,West Indies,14,S Badree,IS Sodhi,AR Nurse,,0,1,1,,,,375123751
+2,West Indies,14,AR Nurse,IS Sodhi,S Badree,,0,0,0,,,,375123751
+2,West Indies,14,AR Nurse,IS Sodhi,S Badree,,0,0,0,,,,375123751
+2,West Indies,14,AR Nurse,IS Sodhi,S Badree,,0,1,1,,,,375123751
+2,West Indies,15,AR Nurse,TA Boult,S Badree,,0,0,0,,,,375123751
+2,West Indies,15,AR Nurse,TA Boult,S Badree,,0,4,4,,,,375123751
+2,West Indies,15,AR Nurse,TA Boult,S Badree,,0,1,1,,,,375123751
+2,West Indies,15,S Badree,TA Boult,AR Nurse,,0,1,1,,,,375123751
+2,West Indies,15,AR Nurse,TA Boult,S Badree,,0,1,1,,,,375123751
+2,West Indies,15,S Badree,TA Boult,AR Nurse,,0,0,0,,,,375123751
+2,West Indies,16,AR Nurse,TG Southee,S Badree,,0,0,0,,,,375123751
+2,West Indies,16,AR Nurse,TG Southee,S Badree,,0,1,1,,,,375123751
+2,West Indies,16,S Badree,TG Southee,AR Nurse,,0,0,0,caught,S Badree,TC Bruce,375123751

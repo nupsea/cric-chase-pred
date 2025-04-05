@@ -1,0 +1,68 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Ireland,0,PR Stirling,Naveen-ul-Haq,A Balbirnie,,0,4,4,,,,31966231966
+2,Ireland,0,PR Stirling,Naveen-ul-Haq,A Balbirnie,,0,1,1,,,,31966231966
+2,Ireland,0,A Balbirnie,Naveen-ul-Haq,PR Stirling,,0,1,1,,,,31966231966
+2,Ireland,0,PR Stirling,Naveen-ul-Haq,A Balbirnie,,0,0,0,,,,31966231966
+2,Ireland,0,PR Stirling,Naveen-ul-Haq,A Balbirnie,,0,4,4,,,,31966231966
+2,Ireland,0,PR Stirling,Naveen-ul-Haq,A Balbirnie,,0,4,4,,,,31966231966
+2,Ireland,1,A Balbirnie,Azmatullah Omarzai,PR Stirling,,0,4,4,,,,31966231966
+2,Ireland,1,A Balbirnie,Azmatullah Omarzai,PR Stirling,,0,4,4,,,,31966231966
+2,Ireland,1,A Balbirnie,Azmatullah Omarzai,PR Stirling,,0,6,6,,,,31966231966
+2,Ireland,1,A Balbirnie,Azmatullah Omarzai,PR Stirling,,0,0,0,caught,A Balbirnie,Ibrahim Zadran,31966231966
+2,Ireland,1,L Tucker,Azmatullah Omarzai,PR Stirling,,0,0,0,,,,31966231966
+2,Ireland,1,L Tucker,Azmatullah Omarzai,PR Stirling,,0,1,1,,,,31966231966
+2,Ireland,2,L Tucker,Mujeeb Ur Rahman,PR Stirling,,0,0,0,,,,31966231966
+2,Ireland,2,L Tucker,Mujeeb Ur Rahman,PR Stirling,,0,1,1,,,,31966231966
+2,Ireland,2,PR Stirling,Mujeeb Ur Rahman,L Tucker,,0,6,6,,,,31966231966
+2,Ireland,2,PR Stirling,Mujeeb Ur Rahman,L Tucker,,0,0,0,,,,31966231966
+2,Ireland,2,PR Stirling,Mujeeb Ur Rahman,L Tucker,,0,1,1,,,,31966231966
+2,Ireland,2,L Tucker,Mujeeb Ur Rahman,PR Stirling,,0,1,1,,,,31966231966
+2,Ireland,3,L Tucker,Fareed Ahmad,PR Stirling,,0,0,0,,,,31966231966
+2,Ireland,3,L Tucker,Fareed Ahmad,PR Stirling,,0,1,1,,,,31966231966
+2,Ireland,3,PR Stirling,Fareed Ahmad,L Tucker,,0,0,0,caught,PR Stirling,Rashid Khan,31966231966
+2,Ireland,3,HT Tector,Fareed Ahmad,L Tucker,,0,1,1,,,,31966231966
+2,Ireland,3,L Tucker,Fareed Ahmad,HT Tector,,0,0,0,caught,L Tucker,Najibullah Zadran,31966231966
+2,Ireland,3,HT Tector,Fareed Ahmad,GH Dockrell,,0,4,4,,,,31966231966
+2,Ireland,4,GH Dockrell,Rashid Khan,HT Tector,,0,1,1,,,,31966231966
+2,Ireland,4,HT Tector,Rashid Khan,GH Dockrell,,0,1,1,,,,31966231966
+2,Ireland,4,GH Dockrell,Rashid Khan,HT Tector,,0,1,1,,,,31966231966
+2,Ireland,4,HT Tector,Rashid Khan,GH Dockrell,,0,1,1,,,,31966231966
+2,Ireland,4,GH Dockrell,Rashid Khan,HT Tector,,0,1,1,,,,31966231966
+2,Ireland,4,HT Tector,Rashid Khan,GH Dockrell,,0,1,1,,,,31966231966
+2,Ireland,5,HT Tector,Fareed Ahmad,GH Dockrell,,0,1,1,,,,31966231966
+2,Ireland,5,GH Dockrell,Fareed Ahmad,HT Tector,,0,2,2,,,,31966231966
+2,Ireland,5,GH Dockrell,Fareed Ahmad,HT Tector,,0,1,1,,,,31966231966
+2,Ireland,5,HT Tector,Fareed Ahmad,GH Dockrell,penalty,5,5,0,,,,31966231966
+2,Ireland,5,HT Tector,Fareed Ahmad,GH Dockrell,,0,4,4,,,,31966231966
+2,Ireland,5,HT Tector,Fareed Ahmad,GH Dockrell,,0,0,0,caught,HT Tector,Rahmanullah Gurbaz,31966231966
+2,Ireland,6,GH Dockrell,Rashid Khan,GJ Delany,,0,1,1,,,,31966231966
+2,Ireland,6,GJ Delany,Rashid Khan,GH Dockrell,,0,1,1,,,,31966231966
+2,Ireland,6,GH Dockrell,Rashid Khan,GJ Delany,,0,1,1,,,,31966231966
+2,Ireland,6,GJ Delany,Rashid Khan,GH Dockrell,,0,0,0,,,,31966231966
+2,Ireland,6,GJ Delany,Rashid Khan,GH Dockrell,,0,2,2,,,,31966231966
+2,Ireland,6,GJ Delany,Rashid Khan,GH Dockrell,,0,0,0,lbw,GJ Delany,,31966231966
+2,Ireland,7,GH Dockrell,Naveen-ul-Haq,MR Adair,,0,1,1,,,,31966231966
+2,Ireland,7,MR Adair,Naveen-ul-Haq,GH Dockrell,,0,0,0,lbw,MR Adair,,31966231966
+2,Ireland,7,F Hand,Naveen-ul-Haq,GH Dockrell,,0,0,0,caught,F Hand,Fareed Ahmad,31966231966
+2,Ireland,7,BJ McCarthy,Naveen-ul-Haq,GH Dockrell,noballs,1,2,1,,,,31966231966
+2,Ireland,7,GH Dockrell,Naveen-ul-Haq,BJ McCarthy,,0,4,4,,,,31966231966
+2,Ireland,7,GH Dockrell,Naveen-ul-Haq,BJ McCarthy,,0,4,4,,,,31966231966
+2,Ireland,7,GH Dockrell,Naveen-ul-Haq,BJ McCarthy,legbyes,1,1,0,,,,31966231966
+2,Ireland,8,GH Dockrell,Rashid Khan,BJ McCarthy,,0,0,0,,,,31966231966
+2,Ireland,8,GH Dockrell,Rashid Khan,BJ McCarthy,,0,4,4,,,,31966231966
+2,Ireland,8,GH Dockrell,Rashid Khan,BJ McCarthy,,0,6,6,,,,31966231966
+2,Ireland,8,GH Dockrell,Rashid Khan,BJ McCarthy,byes,1,1,0,,,,31966231966
+2,Ireland,8,BJ McCarthy,Rashid Khan,GH Dockrell,,0,0,0,,,,31966231966
+2,Ireland,8,BJ McCarthy,Rashid Khan,GH Dockrell,,0,0,0,caught,BJ McCarthy,Mohammad Nabi,31966231966
+2,Ireland,9,GH Dockrell,Azmatullah Omarzai,Simi Singh,,0,2,2,,,,31966231966
+2,Ireland,9,GH Dockrell,Azmatullah Omarzai,Simi Singh,,0,1,1,run out,Simi Singh,Azmatullah Omarzai,31966231966
+2,Ireland,9,GH Dockrell,Azmatullah Omarzai,J Little,,0,0,0,,,,31966231966
+2,Ireland,9,GH Dockrell,Azmatullah Omarzai,J Little,,0,0,0,,,,31966231966
+2,Ireland,9,GH Dockrell,Azmatullah Omarzai,J Little,,0,6,6,,,,31966231966
+2,Ireland,9,GH Dockrell,Azmatullah Omarzai,J Little,,0,1,1,,,,31966231966
+2,Ireland,10,GH Dockrell,Mujeeb Ur Rahman,J Little,,0,0,0,,,,31966231966
+2,Ireland,10,GH Dockrell,Mujeeb Ur Rahman,J Little,,0,4,4,,,,31966231966
+2,Ireland,10,GH Dockrell,Mujeeb Ur Rahman,J Little,,0,0,0,,,,31966231966
+2,Ireland,10,GH Dockrell,Mujeeb Ur Rahman,J Little,,0,0,0,,,,31966231966
+2,Ireland,10,GH Dockrell,Mujeeb Ur Rahman,J Little,,0,0,0,,,,31966231966
+2,Ireland,10,GH Dockrell,Mujeeb Ur Rahman,J Little,,0,0,0,run out,J Little,Mohammad Nabi,31966231966

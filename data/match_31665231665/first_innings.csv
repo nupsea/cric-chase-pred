@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Afghanistan,0,Hazratullah,TG Southee,Mohammad Shahzad,wides,1,1,0,,,,31665231665
+1,Afghanistan,0,Hazratullah,TG Southee,Mohammad Shahzad,legbyes,1,1,0,,,,31665231665
+1,Afghanistan,0,Mohammad Shahzad,TG Southee,Hazratullah,,0,4,4,,,,31665231665
+1,Afghanistan,0,Mohammad Shahzad,TG Southee,Hazratullah,,0,0,0,,,,31665231665
+1,Afghanistan,0,Mohammad Shahzad,TG Southee,Hazratullah,,0,0,0,,,,31665231665
+1,Afghanistan,0,Mohammad Shahzad,TG Southee,Hazratullah,,0,0,0,,,,31665231665
+1,Afghanistan,0,Mohammad Shahzad,TG Southee,Hazratullah,,0,0,0,,,,31665231665
+1,Afghanistan,1,Hazratullah,TA Boult,Mohammad Shahzad,,0,1,1,,,,31665231665
+1,Afghanistan,1,Mohammad Shahzad,TA Boult,Hazratullah,,0,0,0,,,,31665231665
+1,Afghanistan,1,Mohammad Shahzad,TA Boult,Hazratullah,,0,0,0,,,,31665231665
+1,Afghanistan,1,Mohammad Shahzad,TA Boult,Hazratullah,,0,0,0,,,,31665231665
+1,Afghanistan,1,Mohammad Shahzad,TA Boult,Hazratullah,,0,0,0,,,,31665231665
+1,Afghanistan,1,Mohammad Shahzad,TA Boult,Hazratullah,,0,0,0,,,,31665231665
+1,Afghanistan,2,Hazratullah,AF Milne,Mohammad Shahzad,,0,1,1,,,,31665231665
+1,Afghanistan,2,Mohammad Shahzad,AF Milne,Hazratullah,,0,0,0,caught,Mohammad Shahzad,DP Conway,31665231665
+1,Afghanistan,2,Rahmanullah Gurbaz,AF Milne,Hazratullah,,0,0,0,,,,31665231665
+1,Afghanistan,2,Rahmanullah Gurbaz,AF Milne,Hazratullah,,0,4,4,,,,31665231665
+1,Afghanistan,2,Rahmanullah Gurbaz,AF Milne,Hazratullah,,0,0,0,,,,31665231665
+1,Afghanistan,2,Rahmanullah Gurbaz,AF Milne,Hazratullah,,0,0,0,,,,31665231665
+1,Afghanistan,3,Hazratullah,TA Boult,Rahmanullah Gurbaz,,0,0,0,caught,Hazratullah,MJ Santner,31665231665
+1,Afghanistan,3,Gulbadin Naib,TA Boult,Rahmanullah Gurbaz,,0,0,0,,,,31665231665
+1,Afghanistan,3,Gulbadin Naib,TA Boult,Rahmanullah Gurbaz,,0,0,0,,,,31665231665
+1,Afghanistan,3,Gulbadin Naib,TA Boult,Rahmanullah Gurbaz,,0,0,0,,,,31665231665
+1,Afghanistan,3,Gulbadin Naib,TA Boult,Rahmanullah Gurbaz,,0,0,0,,,,31665231665
+1,Afghanistan,3,Gulbadin Naib,TA Boult,Rahmanullah Gurbaz,,0,4,4,,,,31665231665
+1,Afghanistan,4,Rahmanullah Gurbaz,AF Milne,Gulbadin Naib,,0,1,1,,,,31665231665
+1,Afghanistan,4,Gulbadin Naib,AF Milne,Rahmanullah Gurbaz,,0,1,1,,,,31665231665
+1,Afghanistan,4,Rahmanullah Gurbaz,AF Milne,Gulbadin Naib,,0,0,0,,,,31665231665
+1,Afghanistan,4,Rahmanullah Gurbaz,AF Milne,Gulbadin Naib,,0,0,0,,,,31665231665
+1,Afghanistan,4,Rahmanullah Gurbaz,AF Milne,Gulbadin Naib,,0,1,1,,,,31665231665
+1,Afghanistan,4,Gulbadin Naib,AF Milne,Rahmanullah Gurbaz,,0,0,0,,,,31665231665
+1,Afghanistan,5,Rahmanullah Gurbaz,TG Southee,Gulbadin Naib,,0,0,0,lbw,Rahmanullah Gurbaz,,31665231665
+1,Afghanistan,5,Najibullah Zadran,TG Southee,Gulbadin Naib,,0,2,2,,,,31665231665
+1,Afghanistan,5,Najibullah Zadran,TG Southee,Gulbadin Naib,,0,0,0,,,,31665231665
+1,Afghanistan,5,Najibullah Zadran,TG Southee,Gulbadin Naib,,0,0,0,,,,31665231665
+1,Afghanistan,5,Najibullah Zadran,TG Southee,Gulbadin Naib,,0,0,0,,,,31665231665
+1,Afghanistan,5,Najibullah Zadran,TG Southee,Gulbadin Naib,,0,2,2,,,,31665231665
+1,Afghanistan,6,Gulbadin Naib,JDS Neesham,Najibullah Zadran,,0,2,2,,,,31665231665
+1,Afghanistan,6,Gulbadin Naib,JDS Neesham,Najibullah Zadran,,0,1,1,,,,31665231665
+1,Afghanistan,6,Najibullah Zadran,JDS Neesham,Gulbadin Naib,,0,1,1,,,,31665231665
+1,Afghanistan,6,Gulbadin Naib,JDS Neesham,Najibullah Zadran,,0,0,0,,,,31665231665
+1,Afghanistan,6,Gulbadin Naib,JDS Neesham,Najibullah Zadran,,0,1,1,,,,31665231665
+1,Afghanistan,6,Najibullah Zadran,JDS Neesham,Gulbadin Naib,,0,0,0,,,,31665231665
+1,Afghanistan,7,Gulbadin Naib,MJ Santner,Najibullah Zadran,,0,1,1,,,,31665231665
+1,Afghanistan,7,Najibullah Zadran,MJ Santner,Gulbadin Naib,,0,1,1,,,,31665231665
+1,Afghanistan,7,Gulbadin Naib,MJ Santner,Najibullah Zadran,,0,1,1,,,,31665231665
+1,Afghanistan,7,Najibullah Zadran,MJ Santner,Gulbadin Naib,,0,4,4,,,,31665231665
+1,Afghanistan,7,Najibullah Zadran,MJ Santner,Gulbadin Naib,,0,0,0,,,,31665231665
+1,Afghanistan,7,Najibullah Zadran,MJ Santner,Gulbadin Naib,,0,1,1,,,,31665231665
+1,Afghanistan,8,Najibullah Zadran,JDS Neesham,Gulbadin Naib,,0,1,1,,,,31665231665
+1,Afghanistan,8,Gulbadin Naib,JDS Neesham,Najibullah Zadran,,0,1,1,,,,31665231665
+1,Afghanistan,8,Najibullah Zadran,JDS Neesham,Gulbadin Naib,,0,1,1,,,,31665231665
+1,Afghanistan,8,Gulbadin Naib,JDS Neesham,Najibullah Zadran,,0,1,1,,,,31665231665
+1,Afghanistan,8,Najibullah Zadran,JDS Neesham,Gulbadin Naib,,0,4,4,,,,31665231665
+1,Afghanistan,8,Najibullah Zadran,JDS Neesham,Gulbadin Naib,,0,4,4,,,,31665231665
+1,Afghanistan,9,Gulbadin Naib,IS Sodhi,Najibullah Zadran,,0,1,1,,,,31665231665
+1,Afghanistan,9,Najibullah Zadran,IS Sodhi,Gulbadin Naib,,0,4,4,,,,31665231665
+1,Afghanistan,9,Najibullah Zadran,IS Sodhi,Gulbadin Naib,,0,1,1,,,,31665231665
+1,Afghanistan,9,Gulbadin Naib,IS Sodhi,Najibullah Zadran,,0,1,1,,,,31665231665
+1,Afghanistan,9,Najibullah Zadran,IS Sodhi,Gulbadin Naib,,0,1,1,,,,31665231665
+1,Afghanistan,9,Gulbadin Naib,IS Sodhi,Najibullah Zadran,,0,0,0,bowled,Gulbadin Naib,,31665231665
+1,Afghanistan,10,Najibullah Zadran,AF Milne,Mohammad Nabi,,0,1,1,,,,31665231665
+1,Afghanistan,10,Mohammad Nabi,AF Milne,Najibullah Zadran,,0,1,1,,,,31665231665
+1,Afghanistan,10,Najibullah Zadran,AF Milne,Mohammad Nabi,,0,0,0,,,,31665231665
+1,Afghanistan,10,Najibullah Zadran,AF Milne,Mohammad Nabi,,0,0,0,,,,31665231665
+1,Afghanistan,10,Najibullah Zadran,AF Milne,Mohammad Nabi,,0,1,1,,,,31665231665
+1,Afghanistan,10,Mohammad Nabi,AF Milne,Najibullah Zadran,,0,2,2,,,,31665231665
+1,Afghanistan,11,Najibullah Zadran,IS Sodhi,Mohammad Nabi,,0,0,0,,,,31665231665
+1,Afghanistan,11,Najibullah Zadran,IS Sodhi,Mohammad Nabi,wides,1,1,0,,,,31665231665
+1,Afghanistan,11,Najibullah Zadran,IS Sodhi,Mohammad Nabi,,0,1,1,,,,31665231665
+1,Afghanistan,11,Mohammad Nabi,IS Sodhi,Najibullah Zadran,,0,0,0,,,,31665231665
+1,Afghanistan,11,Mohammad Nabi,IS Sodhi,Najibullah Zadran,,0,1,1,,,,31665231665
+1,Afghanistan,11,Najibullah Zadran,IS Sodhi,Mohammad Nabi,,0,1,1,,,,31665231665
+1,Afghanistan,11,Mohammad Nabi,IS Sodhi,Najibullah Zadran,,0,1,1,,,,31665231665
+1,Afghanistan,12,Mohammad Nabi,TG Southee,Najibullah Zadran,,0,0,0,,,,31665231665
+1,Afghanistan,12,Mohammad Nabi,TG Southee,Najibullah Zadran,,0,0,0,,,,31665231665
+1,Afghanistan,12,Mohammad Nabi,TG Southee,Najibullah Zadran,,0,0,0,,,,31665231665
+1,Afghanistan,12,Mohammad Nabi,TG Southee,Najibullah Zadran,,0,0,0,,,,31665231665
+1,Afghanistan,12,Mohammad Nabi,TG Southee,Najibullah Zadran,,0,1,1,,,,31665231665
+1,Afghanistan,12,Najibullah Zadran,TG Southee,Mohammad Nabi,,0,1,1,,,,31665231665
+1,Afghanistan,13,Najibullah Zadran,MJ Santner,Mohammad Nabi,,0,6,6,,,,31665231665
+1,Afghanistan,13,Najibullah Zadran,MJ Santner,Mohammad Nabi,,0,1,1,,,,31665231665
+1,Afghanistan,13,Mohammad Nabi,MJ Santner,Najibullah Zadran,,0,1,1,,,,31665231665
+1,Afghanistan,13,Najibullah Zadran,MJ Santner,Mohammad Nabi,,0,6,6,,,,31665231665
+1,Afghanistan,13,Najibullah Zadran,MJ Santner,Mohammad Nabi,,0,2,2,,,,31665231665
+1,Afghanistan,13,Najibullah Zadran,MJ Santner,Mohammad Nabi,wides,1,1,0,,,,31665231665
+1,Afghanistan,13,Najibullah Zadran,MJ Santner,Mohammad Nabi,,0,2,2,,,,31665231665
+1,Afghanistan,14,Mohammad Nabi,AF Milne,Najibullah Zadran,,0,0,0,,,,31665231665
+1,Afghanistan,14,Mohammad Nabi,AF Milne,Najibullah Zadran,,0,0,0,,,,31665231665
+1,Afghanistan,14,Mohammad Nabi,AF Milne,Najibullah Zadran,,0,1,1,,,,31665231665
+1,Afghanistan,14,Najibullah Zadran,AF Milne,Mohammad Nabi,,0,0,0,,,,31665231665
+1,Afghanistan,14,Najibullah Zadran,AF Milne,Mohammad Nabi,,0,1,1,,,,31665231665
+1,Afghanistan,14,Mohammad Nabi,AF Milne,Najibullah Zadran,,0,2,2,,,,31665231665
+1,Afghanistan,15,Najibullah Zadran,JDS Neesham,Mohammad Nabi,,0,0,0,,,,31665231665
+1,Afghanistan,15,Najibullah Zadran,JDS Neesham,Mohammad Nabi,,0,1,1,,,,31665231665
+1,Afghanistan,15,Mohammad Nabi,JDS Neesham,Najibullah Zadran,,0,1,1,,,,31665231665
+1,Afghanistan,15,Najibullah Zadran,JDS Neesham,Mohammad Nabi,,0,2,2,,,,31665231665
+1,Afghanistan,15,Najibullah Zadran,JDS Neesham,Mohammad Nabi,,0,0,0,,,,31665231665
+1,Afghanistan,15,Najibullah Zadran,JDS Neesham,Mohammad Nabi,,0,1,1,,,,31665231665
+1,Afghanistan,16,Najibullah Zadran,TA Boult,Mohammad Nabi,,0,1,1,,,,31665231665
+1,Afghanistan,16,Mohammad Nabi,TA Boult,Najibullah Zadran,,0,1,1,,,,31665231665
+1,Afghanistan,16,Najibullah Zadran,TA Boult,Mohammad Nabi,,0,0,0,,,,31665231665
+1,Afghanistan,16,Najibullah Zadran,TA Boult,Mohammad Nabi,,0,1,1,,,,31665231665
+1,Afghanistan,16,Najibullah Zadran,TA Boult,Mohammad Nabi,,0,1,1,,,,31665231665
+1,Afghanistan,16,Mohammad Nabi,TA Boult,Najibullah Zadran,,0,1,1,,,,31665231665
+1,Afghanistan,17,Mohammad Nabi,TG Southee,Najibullah Zadran,,0,1,1,,,,31665231665
+1,Afghanistan,17,Najibullah Zadran,TG Southee,Mohammad Nabi,,0,6,6,,,,31665231665
+1,Afghanistan,17,Najibullah Zadran,TG Southee,Mohammad Nabi,,0,2,2,,,,31665231665
+1,Afghanistan,17,Najibullah Zadran,TG Southee,Mohammad Nabi,,0,4,4,,,,31665231665
+1,Afghanistan,17,Najibullah Zadran,TG Southee,Mohammad Nabi,byes,1,1,0,,,,31665231665
+1,Afghanistan,17,Mohammad Nabi,TG Southee,Najibullah Zadran,,0,0,0,caught and bowled,Mohammad Nabi,,31665231665
+1,Afghanistan,18,Najibullah Zadran,TA Boult,Karim Janat,,0,4,4,,,,31665231665
+1,Afghanistan,18,Najibullah Zadran,TA Boult,Karim Janat,,0,0,0,caught,Najibullah Zadran,JDS Neesham,31665231665
+1,Afghanistan,18,Karim Janat,TA Boult,Rashid Khan,,0,2,2,,,,31665231665
+1,Afghanistan,18,Karim Janat,TA Boult,Rashid Khan,,0,0,0,caught,Karim Janat,IS Sodhi,31665231665
+1,Afghanistan,18,Rashid Khan,TA Boult,Mujeeb Ur Rahman,,0,1,1,,,,31665231665
+1,Afghanistan,18,Mujeeb Ur Rahman,TA Boult,Rashid Khan,,0,0,0,,,,31665231665
+1,Afghanistan,19,Rashid Khan,JDS Neesham,Mujeeb Ur Rahman,,0,2,2,,,,31665231665
+1,Afghanistan,19,Rashid Khan,JDS Neesham,Mujeeb Ur Rahman,,0,0,0,,,,31665231665
+1,Afghanistan,19,Rashid Khan,JDS Neesham,Mujeeb Ur Rahman,,0,0,0,,,,31665231665
+1,Afghanistan,19,Rashid Khan,JDS Neesham,Mujeeb Ur Rahman,,0,0,0,,,,31665231665
+1,Afghanistan,19,Rashid Khan,JDS Neesham,Mujeeb Ur Rahman,,0,0,0,,,,31665231665
+1,Afghanistan,19,Rashid Khan,JDS Neesham,Mujeeb Ur Rahman,,0,0,0,caught,Rashid Khan,KS Williamson,31665231665

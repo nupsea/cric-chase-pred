@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Sri Lanka,0,P Nissanka,JR Hazlewood,MD Gunathilaka,,0,0,0,,,,31529231529
+2,Sri Lanka,0,P Nissanka,JR Hazlewood,MD Gunathilaka,,0,0,0,,,,31529231529
+2,Sri Lanka,0,P Nissanka,JR Hazlewood,MD Gunathilaka,,0,2,2,,,,31529231529
+2,Sri Lanka,0,P Nissanka,JR Hazlewood,MD Gunathilaka,,0,1,1,,,,31529231529
+2,Sri Lanka,0,MD Gunathilaka,JR Hazlewood,P Nissanka,,0,0,0,caught,MD Gunathilaka,BR McDermott,31529231529
+2,Sri Lanka,0,WIA Fernando,JR Hazlewood,P Nissanka,,0,0,0,,,,31529231529
+2,Sri Lanka,1,P Nissanka,PJ Cummins,WIA Fernando,,0,0,0,,,,31529231529
+2,Sri Lanka,1,P Nissanka,PJ Cummins,WIA Fernando,legbyes,4,4,0,,,,31529231529
+2,Sri Lanka,1,P Nissanka,PJ Cummins,WIA Fernando,,0,0,0,,,,31529231529
+2,Sri Lanka,1,P Nissanka,PJ Cummins,WIA Fernando,,0,4,4,,,,31529231529
+2,Sri Lanka,1,P Nissanka,PJ Cummins,WIA Fernando,,0,1,1,,,,31529231529
+2,Sri Lanka,1,WIA Fernando,PJ Cummins,P Nissanka,,0,0,0,,,,31529231529
+2,Sri Lanka,2,P Nissanka,JR Hazlewood,WIA Fernando,legbyes,1,1,0,,,,31529231529
+2,Sri Lanka,2,WIA Fernando,JR Hazlewood,P Nissanka,,0,4,4,,,,31529231529
+2,Sri Lanka,2,WIA Fernando,JR Hazlewood,P Nissanka,,0,0,0,,,,31529231529
+2,Sri Lanka,2,WIA Fernando,JR Hazlewood,P Nissanka,,0,1,1,,,,31529231529
+2,Sri Lanka,2,P Nissanka,JR Hazlewood,WIA Fernando,,0,1,1,,,,31529231529
+2,Sri Lanka,2,WIA Fernando,JR Hazlewood,P Nissanka,,0,0,0,caught,WIA Fernando,JP Inglis,31529231529
+2,Sri Lanka,3,P Nissanka,MP Stoinis,KIC Asalanka,,0,0,0,,,,31529231529
+2,Sri Lanka,3,P Nissanka,MP Stoinis,KIC Asalanka,,0,0,0,,,,31529231529
+2,Sri Lanka,3,P Nissanka,MP Stoinis,KIC Asalanka,,0,4,4,,,,31529231529
+2,Sri Lanka,3,P Nissanka,MP Stoinis,KIC Asalanka,,0,1,1,,,,31529231529
+2,Sri Lanka,3,KIC Asalanka,MP Stoinis,P Nissanka,,0,0,0,,,,31529231529
+2,Sri Lanka,3,KIC Asalanka,MP Stoinis,P Nissanka,,0,0,0,,,,31529231529
+2,Sri Lanka,4,P Nissanka,PJ Cummins,KIC Asalanka,,0,1,1,,,,31529231529
+2,Sri Lanka,4,KIC Asalanka,PJ Cummins,P Nissanka,,0,0,0,,,,31529231529
+2,Sri Lanka,4,KIC Asalanka,PJ Cummins,P Nissanka,,0,0,0,,,,31529231529
+2,Sri Lanka,4,KIC Asalanka,PJ Cummins,P Nissanka,,0,0,0,bowled,KIC Asalanka,,31529231529
+2,Sri Lanka,4,LD Chandimal,PJ Cummins,P Nissanka,,0,0,0,,,,31529231529
+2,Sri Lanka,4,LD Chandimal,PJ Cummins,P Nissanka,,0,0,0,,,,31529231529
+2,Sri Lanka,5,P Nissanka,KW Richardson,LD Chandimal,,0,0,0,,,,31529231529
+2,Sri Lanka,5,P Nissanka,KW Richardson,LD Chandimal,,0,1,1,,,,31529231529
+2,Sri Lanka,5,LD Chandimal,KW Richardson,P Nissanka,,0,1,1,,,,31529231529
+2,Sri Lanka,5,P Nissanka,KW Richardson,LD Chandimal,,0,4,4,,,,31529231529
+2,Sri Lanka,5,P Nissanka,KW Richardson,LD Chandimal,,0,1,1,,,,31529231529
+2,Sri Lanka,5,LD Chandimal,KW Richardson,P Nissanka,,0,4,4,,,,31529231529
+2,Sri Lanka,6,P Nissanka,A Zampa,LD Chandimal,,0,0,0,,,,31529231529
+2,Sri Lanka,6,P Nissanka,A Zampa,LD Chandimal,,0,1,1,,,,31529231529
+2,Sri Lanka,6,LD Chandimal,A Zampa,P Nissanka,,0,1,1,,,,31529231529
+2,Sri Lanka,6,P Nissanka,A Zampa,LD Chandimal,,0,1,1,,,,31529231529
+2,Sri Lanka,6,LD Chandimal,A Zampa,P Nissanka,,0,0,0,,,,31529231529
+2,Sri Lanka,6,LD Chandimal,A Zampa,P Nissanka,,0,1,1,,,,31529231529
+2,Sri Lanka,7,LD Chandimal,GJ Maxwell,P Nissanka,,0,2,2,,,,31529231529
+2,Sri Lanka,7,LD Chandimal,GJ Maxwell,P Nissanka,legbyes,1,1,0,,,,31529231529
+2,Sri Lanka,7,P Nissanka,GJ Maxwell,LD Chandimal,,0,1,1,,,,31529231529
+2,Sri Lanka,7,LD Chandimal,GJ Maxwell,P Nissanka,,0,0,0,,,,31529231529
+2,Sri Lanka,7,LD Chandimal,GJ Maxwell,P Nissanka,,0,0,0,,,,31529231529
+2,Sri Lanka,7,LD Chandimal,GJ Maxwell,P Nissanka,,0,1,1,,,,31529231529
+2,Sri Lanka,8,LD Chandimal,MP Stoinis,P Nissanka,,0,6,6,,,,31529231529
+2,Sri Lanka,8,LD Chandimal,MP Stoinis,P Nissanka,,0,0,0,,,,31529231529
+2,Sri Lanka,8,LD Chandimal,MP Stoinis,P Nissanka,,0,1,1,,,,31529231529
+2,Sri Lanka,8,P Nissanka,MP Stoinis,LD Chandimal,,0,1,1,,,,31529231529
+2,Sri Lanka,8,LD Chandimal,MP Stoinis,P Nissanka,,0,0,0,,,,31529231529
+2,Sri Lanka,8,LD Chandimal,MP Stoinis,P Nissanka,,0,0,0,,,,31529231529
+2,Sri Lanka,9,P Nissanka,KW Richardson,LD Chandimal,,0,1,1,,,,31529231529
+2,Sri Lanka,9,LD Chandimal,KW Richardson,P Nissanka,,0,1,1,,,,31529231529
+2,Sri Lanka,9,P Nissanka,KW Richardson,LD Chandimal,,0,4,4,,,,31529231529
+2,Sri Lanka,9,P Nissanka,KW Richardson,LD Chandimal,,0,4,4,,,,31529231529
+2,Sri Lanka,9,P Nissanka,KW Richardson,LD Chandimal,,0,1,1,,,,31529231529
+2,Sri Lanka,9,LD Chandimal,KW Richardson,P Nissanka,,0,0,0,,,,31529231529
+2,Sri Lanka,10,P Nissanka,A Zampa,LD Chandimal,,0,1,1,,,,31529231529
+2,Sri Lanka,10,LD Chandimal,A Zampa,P Nissanka,,0,1,1,,,,31529231529
+2,Sri Lanka,10,P Nissanka,A Zampa,LD Chandimal,,0,1,1,,,,31529231529
+2,Sri Lanka,10,LD Chandimal,A Zampa,P Nissanka,,0,0,0,,,,31529231529
+2,Sri Lanka,10,LD Chandimal,A Zampa,P Nissanka,,0,0,0,bowled,LD Chandimal,,31529231529
+2,Sri Lanka,10,MD Shanaka,A Zampa,P Nissanka,,0,1,1,,,,31529231529
+2,Sri Lanka,11,MD Shanaka,JR Hazlewood,P Nissanka,,0,0,0,,,,31529231529
+2,Sri Lanka,11,MD Shanaka,JR Hazlewood,P Nissanka,legbyes,1,1,0,,,,31529231529
+2,Sri Lanka,11,P Nissanka,JR Hazlewood,MD Shanaka,,0,1,1,,,,31529231529
+2,Sri Lanka,11,MD Shanaka,JR Hazlewood,P Nissanka,,0,1,1,,,,31529231529
+2,Sri Lanka,11,P Nissanka,JR Hazlewood,MD Shanaka,,0,1,1,,,,31529231529
+2,Sri Lanka,11,MD Shanaka,JR Hazlewood,P Nissanka,,0,0,0,,,,31529231529
+2,Sri Lanka,12,P Nissanka,A Zampa,MD Shanaka,,0,0,0,,,,31529231529
+2,Sri Lanka,12,P Nissanka,A Zampa,MD Shanaka,,0,1,1,,,,31529231529
+2,Sri Lanka,12,MD Shanaka,A Zampa,P Nissanka,,0,1,1,,,,31529231529
+2,Sri Lanka,12,P Nissanka,A Zampa,MD Shanaka,,0,1,1,,,,31529231529
+2,Sri Lanka,12,MD Shanaka,A Zampa,P Nissanka,,0,6,6,,,,31529231529
+2,Sri Lanka,12,MD Shanaka,A Zampa,P Nissanka,,0,1,1,,,,31529231529
+2,Sri Lanka,13,MD Shanaka,PJ Cummins,P Nissanka,,0,0,0,,,,31529231529
+2,Sri Lanka,13,MD Shanaka,PJ Cummins,P Nissanka,wides,1,1,0,,,,31529231529
+2,Sri Lanka,13,MD Shanaka,PJ Cummins,P Nissanka,,0,0,0,,,,31529231529
+2,Sri Lanka,13,MD Shanaka,PJ Cummins,P Nissanka,,0,1,1,,,,31529231529
+2,Sri Lanka,13,P Nissanka,PJ Cummins,MD Shanaka,,0,0,0,,,,31529231529
+2,Sri Lanka,13,P Nissanka,PJ Cummins,MD Shanaka,,0,1,1,,,,31529231529
+2,Sri Lanka,13,MD Shanaka,PJ Cummins,P Nissanka,,0,4,4,,,,31529231529
+2,Sri Lanka,14,P Nissanka,KW Richardson,MD Shanaka,,0,1,1,,,,31529231529
+2,Sri Lanka,14,MD Shanaka,KW Richardson,P Nissanka,,0,6,6,,,,31529231529
+2,Sri Lanka,14,MD Shanaka,KW Richardson,P Nissanka,,0,0,0,,,,31529231529
+2,Sri Lanka,14,MD Shanaka,KW Richardson,P Nissanka,,0,4,4,,,,31529231529
+2,Sri Lanka,14,MD Shanaka,KW Richardson,P Nissanka,,0,6,6,,,,31529231529
+2,Sri Lanka,14,MD Shanaka,KW Richardson,P Nissanka,,0,1,1,,,,31529231529
+2,Sri Lanka,15,MD Shanaka,A Zampa,P Nissanka,,0,1,1,,,,31529231529
+2,Sri Lanka,15,P Nissanka,A Zampa,MD Shanaka,,0,4,4,,,,31529231529
+2,Sri Lanka,15,P Nissanka,A Zampa,MD Shanaka,,0,0,0,,,,31529231529
+2,Sri Lanka,15,P Nissanka,A Zampa,MD Shanaka,,0,1,1,,,,31529231529
+2,Sri Lanka,15,MD Shanaka,A Zampa,P Nissanka,,0,1,1,,,,31529231529
+2,Sri Lanka,15,P Nissanka,A Zampa,MD Shanaka,,0,1,1,run out,MD Shanaka,SPD Smith,31529231529
+2,Sri Lanka,16,C Karunaratne,KW Richardson,P Nissanka,,0,0,0,,,,31529231529
+2,Sri Lanka,16,C Karunaratne,KW Richardson,P Nissanka,,0,0,0,caught,C Karunaratne,MS Wade,31529231529
+2,Sri Lanka,16,P Nissanka,KW Richardson,PWH de Silva,,0,1,1,,,,31529231529
+2,Sri Lanka,16,PWH de Silva,KW Richardson,P Nissanka,,0,1,1,,,,31529231529
+2,Sri Lanka,16,P Nissanka,KW Richardson,PWH de Silva,,0,2,2,,,,31529231529
+2,Sri Lanka,16,P Nissanka,KW Richardson,PWH de Silva,,0,0,0,,,,31529231529
+2,Sri Lanka,17,PWH de Silva,PJ Cummins,P Nissanka,,0,4,4,,,,31529231529
+2,Sri Lanka,17,PWH de Silva,PJ Cummins,P Nissanka,,0,0,0,,,,31529231529
+2,Sri Lanka,17,PWH de Silva,PJ Cummins,P Nissanka,,0,4,4,,,,31529231529
+2,Sri Lanka,17,PWH de Silva,PJ Cummins,P Nissanka,,0,1,1,,,,31529231529
+2,Sri Lanka,17,P Nissanka,PJ Cummins,PWH de Silva,,0,6,6,,,,31529231529
+2,Sri Lanka,17,P Nissanka,PJ Cummins,PWH de Silva,,0,2,2,,,,31529231529
+2,Sri Lanka,18,PWH de Silva,JR Hazlewood,P Nissanka,,0,0,0,,,,31529231529
+2,Sri Lanka,18,PWH de Silva,JR Hazlewood,P Nissanka,,0,1,1,,,,31529231529
+2,Sri Lanka,18,P Nissanka,JR Hazlewood,PWH de Silva,,0,6,6,,,,31529231529
+2,Sri Lanka,18,P Nissanka,JR Hazlewood,PWH de Silva,,0,1,1,,,,31529231529
+2,Sri Lanka,18,PWH de Silva,JR Hazlewood,P Nissanka,,0,2,2,,,,31529231529
+2,Sri Lanka,18,PWH de Silva,JR Hazlewood,P Nissanka,,0,0,0,caught,PWH de Silva,PJ Cummins,31529231529
+2,Sri Lanka,19,P Nissanka,MP Stoinis,PVD Chameera,wides,1,1,0,,,,31529231529
+2,Sri Lanka,19,P Nissanka,MP Stoinis,PVD Chameera,,0,4,4,,,,31529231529
+2,Sri Lanka,19,P Nissanka,MP Stoinis,PVD Chameera,,0,2,2,,,,31529231529
+2,Sri Lanka,19,P Nissanka,MP Stoinis,PVD Chameera,,0,0,0,caught,P Nissanka,PJ Cummins,31529231529
+2,Sri Lanka,19,M Theekshana,MP Stoinis,PVD Chameera,,0,6,6,,,,31529231529
+2,Sri Lanka,19,M Theekshana,MP Stoinis,PVD Chameera,byes,1,1,0,,,,31529231529
+2,Sri Lanka,19,PVD Chameera,MP Stoinis,M Theekshana,,0,4,4,,,,31529231529

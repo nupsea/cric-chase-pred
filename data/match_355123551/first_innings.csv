@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,D van Niekerk,NE Farrant,T Chetty,,0,0,0,,,,355123551
+1,South Africa,0,D van Niekerk,NE Farrant,T Chetty,,0,1,1,,,,355123551
+1,South Africa,0,T Chetty,NE Farrant,D van Niekerk,wides,1,1,0,stumped,T Chetty,SJ Taylor,355123551
+1,South Africa,0,M du Preez,NE Farrant,D van Niekerk,,0,0,0,,,,355123551
+1,South Africa,0,M du Preez,NE Farrant,D van Niekerk,,0,0,0,,,,355123551
+1,South Africa,0,M du Preez,NE Farrant,D van Niekerk,,0,0,0,,,,355123551
+1,South Africa,0,M du Preez,NE Farrant,D van Niekerk,,0,0,0,,,,355123551
+1,South Africa,1,D van Niekerk,A Shrubsole,M du Preez,,0,4,4,,,,355123551
+1,South Africa,1,D van Niekerk,A Shrubsole,M du Preez,,0,0,0,,,,355123551
+1,South Africa,1,D van Niekerk,A Shrubsole,M du Preez,,0,0,0,,,,355123551
+1,South Africa,1,D van Niekerk,A Shrubsole,M du Preez,,0,0,0,bowled,D van Niekerk,,355123551
+1,South Africa,1,M Kapp,A Shrubsole,M du Preez,,0,0,0,bowled,M Kapp,,355123551
+1,South Africa,1,L Lee,A Shrubsole,M du Preez,,0,0,0,,,,355123551
+1,South Africa,2,M du Preez,NE Farrant,L Lee,,0,0,0,,,,355123551
+1,South Africa,2,M du Preez,NE Farrant,L Lee,,0,4,4,,,,355123551
+1,South Africa,2,M du Preez,NE Farrant,L Lee,,0,0,0,,,,355123551
+1,South Africa,2,M du Preez,NE Farrant,L Lee,,0,1,1,,,,355123551
+1,South Africa,2,L Lee,NE Farrant,M du Preez,,0,0,0,,,,355123551
+1,South Africa,2,L Lee,NE Farrant,M du Preez,,0,0,0,,,,355123551
+1,South Africa,3,M du Preez,A Shrubsole,L Lee,,0,2,2,,,,355123551
+1,South Africa,3,M du Preez,A Shrubsole,L Lee,,0,0,0,,,,355123551
+1,South Africa,3,M du Preez,A Shrubsole,L Lee,,0,0,0,,,,355123551
+1,South Africa,3,M du Preez,A Shrubsole,L Lee,,0,0,0,,,,355123551
+1,South Africa,3,M du Preez,A Shrubsole,L Lee,,0,0,0,,,,355123551
+1,South Africa,3,M du Preez,A Shrubsole,L Lee,,0,0,0,,,,355123551
+1,South Africa,4,L Lee,NR Sciver,M du Preez,,0,0,0,,,,355123551
+1,South Africa,4,L Lee,NR Sciver,M du Preez,,0,4,4,,,,355123551
+1,South Africa,4,L Lee,NR Sciver,M du Preez,,0,0,0,,,,355123551
+1,South Africa,4,L Lee,NR Sciver,M du Preez,,0,0,0,,,,355123551
+1,South Africa,4,L Lee,NR Sciver,M du Preez,,0,0,0,,,,355123551
+1,South Africa,4,L Lee,NR Sciver,M du Preez,,0,1,1,,,,355123551
+1,South Africa,5,L Lee,A Shrubsole,M du Preez,,0,0,0,,,,355123551
+1,South Africa,5,L Lee,A Shrubsole,M du Preez,,0,0,0,,,,355123551
+1,South Africa,5,L Lee,A Shrubsole,M du Preez,,0,4,4,,,,355123551
+1,South Africa,5,L Lee,A Shrubsole,M du Preez,,0,0,0,,,,355123551
+1,South Africa,5,L Lee,A Shrubsole,M du Preez,,0,4,4,,,,355123551
+1,South Africa,5,L Lee,A Shrubsole,M du Preez,,0,0,0,,,,355123551
+1,South Africa,6,M du Preez,NR Sciver,L Lee,,0,0,0,,,,355123551
+1,South Africa,6,M du Preez,NR Sciver,L Lee,,0,0,0,,,,355123551
+1,South Africa,6,M du Preez,NR Sciver,L Lee,,0,0,0,,,,355123551
+1,South Africa,6,M du Preez,NR Sciver,L Lee,,0,1,1,,,,355123551
+1,South Africa,6,L Lee,NR Sciver,M du Preez,,0,1,1,,,,355123551
+1,South Africa,6,M du Preez,NR Sciver,L Lee,wides,1,1,0,,,,355123551
+1,South Africa,6,M du Preez,NR Sciver,L Lee,,0,0,0,,,,355123551
+1,South Africa,7,L Lee,D Hazell,M du Preez,,0,0,0,,,,355123551
+1,South Africa,7,L Lee,D Hazell,M du Preez,,0,0,0,,,,355123551
+1,South Africa,7,L Lee,D Hazell,M du Preez,,0,0,0,,,,355123551
+1,South Africa,7,L Lee,D Hazell,M du Preez,,0,1,1,,,,355123551
+1,South Africa,7,M du Preez,D Hazell,L Lee,,0,1,1,,,,355123551
+1,South Africa,7,L Lee,D Hazell,M du Preez,,0,1,1,,,,355123551
+1,South Africa,8,L Lee,JL Gunn,M du Preez,,0,0,0,,,,355123551
+1,South Africa,8,L Lee,JL Gunn,M du Preez,,0,4,4,,,,355123551
+1,South Africa,8,L Lee,JL Gunn,M du Preez,,0,6,6,,,,355123551
+1,South Africa,8,L Lee,JL Gunn,M du Preez,,0,0,0,,,,355123551
+1,South Africa,8,L Lee,JL Gunn,M du Preez,,0,4,4,,,,355123551
+1,South Africa,8,L Lee,JL Gunn,M du Preez,,0,1,1,,,,355123551
+1,South Africa,9,L Lee,D Hazell,M du Preez,,0,0,0,,,,355123551
+1,South Africa,9,L Lee,D Hazell,M du Preez,,0,0,0,,,,355123551
+1,South Africa,9,L Lee,D Hazell,M du Preez,,0,0,0,,,,355123551
+1,South Africa,9,L Lee,D Hazell,M du Preez,,0,1,1,,,,355123551
+1,South Africa,9,M du Preez,D Hazell,L Lee,,0,1,1,,,,355123551
+1,South Africa,9,L Lee,D Hazell,M du Preez,,0,0,0,,,,355123551
+1,South Africa,10,M du Preez,HC Knight,L Lee,,0,4,4,,,,355123551
+1,South Africa,10,M du Preez,HC Knight,L Lee,,0,1,1,,,,355123551
+1,South Africa,10,L Lee,HC Knight,M du Preez,,0,0,0,,,,355123551
+1,South Africa,10,L Lee,HC Knight,M du Preez,,0,1,1,,,,355123551
+1,South Africa,10,M du Preez,HC Knight,L Lee,,0,1,1,,,,355123551
+1,South Africa,10,L Lee,HC Knight,M du Preez,,0,0,0,,,,355123551
+1,South Africa,11,M du Preez,D Hazell,L Lee,,0,2,2,,,,355123551
+1,South Africa,11,M du Preez,D Hazell,L Lee,,0,4,4,,,,355123551
+1,South Africa,11,M du Preez,D Hazell,L Lee,,0,1,1,,,,355123551
+1,South Africa,11,L Lee,D Hazell,M du Preez,,0,0,0,,,,355123551
+1,South Africa,11,L Lee,D Hazell,M du Preez,,0,1,1,,,,355123551
+1,South Africa,11,M du Preez,D Hazell,L Lee,,0,0,0,,,,355123551
+1,South Africa,12,L Lee,HC Knight,M du Preez,,0,4,4,,,,355123551
+1,South Africa,12,L Lee,HC Knight,M du Preez,,0,1,1,,,,355123551
+1,South Africa,12,M du Preez,HC Knight,L Lee,,0,0,0,,,,355123551
+1,South Africa,12,M du Preez,HC Knight,L Lee,,0,1,1,,,,355123551
+1,South Africa,12,L Lee,HC Knight,M du Preez,,0,1,1,,,,355123551
+1,South Africa,12,M du Preez,HC Knight,L Lee,,0,4,4,,,,355123551
+1,South Africa,13,L Lee,NE Farrant,M du Preez,,0,0,0,,,,355123551
+1,South Africa,13,L Lee,NE Farrant,M du Preez,,0,1,1,,,,355123551
+1,South Africa,13,M du Preez,NE Farrant,L Lee,,0,1,1,,,,355123551
+1,South Africa,13,L Lee,NE Farrant,M du Preez,,0,1,1,,,,355123551
+1,South Africa,13,M du Preez,NE Farrant,L Lee,,0,1,1,,,,355123551
+1,South Africa,13,L Lee,NE Farrant,M du Preez,,0,1,1,,,,355123551
+1,South Africa,14,L Lee,NR Sciver,M du Preez,,0,1,1,,,,355123551
+1,South Africa,14,M du Preez,NR Sciver,L Lee,,0,1,1,,,,355123551
+1,South Africa,14,L Lee,NR Sciver,M du Preez,,0,1,1,,,,355123551
+1,South Africa,14,M du Preez,NR Sciver,L Lee,,0,0,0,,,,355123551
+1,South Africa,14,M du Preez,NR Sciver,L Lee,,0,1,1,,,,355123551
+1,South Africa,14,L Lee,NR Sciver,M du Preez,,0,1,1,,,,355123551
+1,South Africa,15,L Lee,NE Farrant,M du Preez,,0,0,0,,,,355123551
+1,South Africa,15,L Lee,NE Farrant,M du Preez,,0,1,1,,,,355123551
+1,South Africa,15,M du Preez,NE Farrant,L Lee,,0,4,4,,,,355123551
+1,South Africa,15,M du Preez,NE Farrant,L Lee,,0,1,1,,,,355123551
+1,South Africa,15,L Lee,NE Farrant,M du Preez,,0,1,1,,,,355123551
+1,South Africa,15,M du Preez,NE Farrant,L Lee,,0,2,2,,,,355123551
+1,South Africa,16,L Lee,JL Gunn,M du Preez,,0,1,1,run out,M du Preez,HC Knight,355123551
+1,South Africa,16,L Lee,JL Gunn,CL Tryon,,0,1,1,,,,355123551
+1,South Africa,16,CL Tryon,JL Gunn,L Lee,,0,0,0,,,,355123551
+1,South Africa,16,CL Tryon,JL Gunn,L Lee,,0,0,0,,,,355123551
+1,South Africa,16,CL Tryon,JL Gunn,L Lee,,0,0,0,,,,355123551
+1,South Africa,16,CL Tryon,JL Gunn,L Lee,,0,0,0,,,,355123551
+1,South Africa,17,L Lee,A Shrubsole,CL Tryon,,0,1,1,,,,355123551
+1,South Africa,17,CL Tryon,A Shrubsole,L Lee,,0,1,1,,,,355123551
+1,South Africa,17,L Lee,A Shrubsole,CL Tryon,,0,6,6,,,,355123551
+1,South Africa,17,L Lee,A Shrubsole,CL Tryon,,0,1,1,,,,355123551
+1,South Africa,17,CL Tryon,A Shrubsole,L Lee,,0,4,4,,,,355123551
+1,South Africa,17,CL Tryon,A Shrubsole,L Lee,,0,1,1,,,,355123551
+1,South Africa,18,CL Tryon,NR Sciver,L Lee,,0,1,1,,,,355123551
+1,South Africa,18,L Lee,NR Sciver,CL Tryon,,0,0,0,,,,355123551
+1,South Africa,18,L Lee,NR Sciver,CL Tryon,,0,4,4,,,,355123551
+1,South Africa,18,L Lee,NR Sciver,CL Tryon,,0,1,1,,,,355123551
+1,South Africa,18,CL Tryon,NR Sciver,L Lee,,0,0,0,,,,355123551
+1,South Africa,18,CL Tryon,NR Sciver,L Lee,,0,6,6,,,,355123551
+1,South Africa,19,L Lee,JL Gunn,CL Tryon,,0,4,4,,,,355123551
+1,South Africa,19,L Lee,JL Gunn,CL Tryon,,0,1,1,,,,355123551
+1,South Africa,19,CL Tryon,JL Gunn,L Lee,,0,1,1,,,,355123551
+1,South Africa,19,L Lee,JL Gunn,CL Tryon,,0,1,1,,,,355123551
+1,South Africa,19,CL Tryon,JL Gunn,L Lee,,0,2,2,,,,355123551
+1,South Africa,19,CL Tryon,JL Gunn,L Lee,,0,0,0,,,,355123551

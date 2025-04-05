@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,SA Fritz,SC Selman,TS Cordes,noballs,1,3,2,,,,332123321
+1,South Africa,0,SA Fritz,SC Selman,TS Cordes,,0,4,4,,,,332123321
+1,South Africa,0,SA Fritz,SC Selman,TS Cordes,,0,0,0,,,,332123321
+1,South Africa,0,SA Fritz,SC Selman,TS Cordes,,0,0,0,,,,332123321
+1,South Africa,0,SA Fritz,SC Selman,TS Cordes,,0,4,4,,,,332123321
+1,South Africa,0,SA Fritz,SC Selman,TS Cordes,,0,0,0,,,,332123321
+1,South Africa,0,SA Fritz,SC Selman,TS Cordes,,0,1,1,,,,332123321
+1,South Africa,1,SA Fritz,SF Daley,TS Cordes,,0,2,2,,,,332123321
+1,South Africa,1,SA Fritz,SF Daley,TS Cordes,,0,0,0,,,,332123321
+1,South Africa,1,SA Fritz,SF Daley,TS Cordes,,0,0,0,,,,332123321
+1,South Africa,1,SA Fritz,SF Daley,TS Cordes,,0,0,0,run out,TS Cordes,A Mohammed,332123321
+1,South Africa,1,SA Fritz,SF Daley,M du Preez,,0,0,0,,,,332123321
+1,South Africa,1,SA Fritz,SF Daley,M du Preez,,0,0,0,,,,332123321
+1,South Africa,2,M du Preez,SR Taylor,SA Fritz,,0,0,0,,,,332123321
+1,South Africa,2,M du Preez,SR Taylor,SA Fritz,,0,0,0,,,,332123321
+1,South Africa,2,M du Preez,SR Taylor,SA Fritz,,0,0,0,,,,332123321
+1,South Africa,2,M du Preez,SR Taylor,SA Fritz,,0,1,1,,,,332123321
+1,South Africa,2,SA Fritz,SR Taylor,M du Preez,,0,0,0,,,,332123321
+1,South Africa,2,SA Fritz,SR Taylor,M du Preez,,0,0,0,,,,332123321
+1,South Africa,3,M du Preez,SF Daley,SA Fritz,legbyes,1,1,0,,,,332123321
+1,South Africa,3,SA Fritz,SF Daley,M du Preez,,0,0,0,,,,332123321
+1,South Africa,3,SA Fritz,SF Daley,M du Preez,,0,1,1,,,,332123321
+1,South Africa,3,M du Preez,SF Daley,SA Fritz,,0,1,1,,,,332123321
+1,South Africa,3,SA Fritz,SF Daley,M du Preez,,0,0,0,,,,332123321
+1,South Africa,3,SA Fritz,SF Daley,M du Preez,,0,1,1,,,,332123321
+1,South Africa,4,SA Fritz,SR Taylor,M du Preez,,0,1,1,,,,332123321
+1,South Africa,4,M du Preez,SR Taylor,SA Fritz,,0,0,0,,,,332123321
+1,South Africa,4,M du Preez,SR Taylor,SA Fritz,,0,1,1,,,,332123321
+1,South Africa,4,SA Fritz,SR Taylor,M du Preez,,0,1,1,,,,332123321
+1,South Africa,4,M du Preez,SR Taylor,SA Fritz,,0,2,2,,,,332123321
+1,South Africa,4,M du Preez,SR Taylor,SA Fritz,,0,0,0,,,,332123321
+1,South Africa,5,SA Fritz,SL Quintyne,M du Preez,,0,0,0,caught,SA Fritz,A Mohammed,332123321
+1,South Africa,5,M Kapp,SL Quintyne,M du Preez,,0,0,0,,,,332123321
+1,South Africa,5,M Kapp,SL Quintyne,M du Preez,,0,1,1,,,,332123321
+1,South Africa,5,M du Preez,SL Quintyne,M Kapp,,0,1,1,,,,332123321
+1,South Africa,5,M Kapp,SL Quintyne,M du Preez,,0,1,1,,,,332123321
+1,South Africa,5,M du Preez,SL Quintyne,M Kapp,,0,0,0,,,,332123321
+1,South Africa,6,M Kapp,SA Campbelle,M du Preez,,0,1,1,,,,332123321
+1,South Africa,6,M du Preez,SA Campbelle,M Kapp,,0,4,4,,,,332123321
+1,South Africa,6,M du Preez,SA Campbelle,M Kapp,,0,0,0,,,,332123321
+1,South Africa,6,M du Preez,SA Campbelle,M Kapp,,0,0,0,,,,332123321
+1,South Africa,6,M du Preez,SA Campbelle,M Kapp,,0,4,4,,,,332123321
+1,South Africa,6,M du Preez,SA Campbelle,M Kapp,,0,0,0,,,,332123321
+1,South Africa,7,M Kapp,SL Quintyne,M du Preez,,0,1,1,,,,332123321
+1,South Africa,7,M du Preez,SL Quintyne,M Kapp,,0,1,1,,,,332123321
+1,South Africa,7,M Kapp,SL Quintyne,M du Preez,,0,0,0,stumped,M Kapp,MR Aguilleira,332123321
+1,South Africa,7,C Brits,SL Quintyne,M du Preez,,0,0,0,,,,332123321
+1,South Africa,7,C Brits,SL Quintyne,M du Preez,,0,1,1,,,,332123321
+1,South Africa,7,M du Preez,SL Quintyne,C Brits,,0,1,1,,,,332123321
+1,South Africa,8,M du Preez,A Mohammed,C Brits,,0,0,0,,,,332123321
+1,South Africa,8,M du Preez,A Mohammed,C Brits,,0,1,1,,,,332123321
+1,South Africa,8,C Brits,A Mohammed,M du Preez,,0,0,0,,,,332123321
+1,South Africa,8,C Brits,A Mohammed,M du Preez,,0,1,1,,,,332123321
+1,South Africa,8,M du Preez,A Mohammed,C Brits,,0,1,1,,,,332123321
+1,South Africa,8,C Brits,A Mohammed,M du Preez,,0,0,0,,,,332123321
+1,South Africa,9,M du Preez,SL Quintyne,C Brits,,0,1,1,,,,332123321
+1,South Africa,9,C Brits,SL Quintyne,M du Preez,,0,1,1,,,,332123321
+1,South Africa,9,M du Preez,SL Quintyne,C Brits,,0,0,0,,,,332123321
+1,South Africa,9,M du Preez,SL Quintyne,C Brits,,0,1,1,,,,332123321
+1,South Africa,9,C Brits,SL Quintyne,M du Preez,,0,1,1,,,,332123321
+1,South Africa,9,M du Preez,SL Quintyne,C Brits,,0,3,3,,,,332123321
+1,South Africa,10,M du Preez,A Mohammed,C Brits,,0,1,1,,,,332123321
+1,South Africa,10,C Brits,A Mohammed,M du Preez,,0,0,0,,,,332123321
+1,South Africa,10,C Brits,A Mohammed,M du Preez,,0,1,1,,,,332123321
+1,South Africa,10,M du Preez,A Mohammed,C Brits,,0,1,1,,,,332123321
+1,South Africa,10,C Brits,A Mohammed,M du Preez,,0,1,1,,,,332123321
+1,South Africa,10,M du Preez,A Mohammed,C Brits,,0,0,0,,,,332123321
+1,South Africa,11,C Brits,SA Campbelle,M du Preez,,0,1,1,,,,332123321
+1,South Africa,11,M du Preez,SA Campbelle,C Brits,,0,0,0,,,,332123321
+1,South Africa,11,M du Preez,SA Campbelle,C Brits,,0,1,1,,,,332123321
+1,South Africa,11,C Brits,SA Campbelle,M du Preez,,0,1,1,,,,332123321
+1,South Africa,11,M du Preez,SA Campbelle,C Brits,legbyes,1,1,0,,,,332123321
+1,South Africa,11,C Brits,SA Campbelle,M du Preez,,0,0,0,,,,332123321
+1,South Africa,12,M du Preez,A Mohammed,C Brits,,0,1,1,,,,332123321
+1,South Africa,12,C Brits,A Mohammed,M du Preez,,0,1,1,,,,332123321
+1,South Africa,12,M du Preez,A Mohammed,C Brits,,0,0,0,,,,332123321
+1,South Africa,12,M du Preez,A Mohammed,C Brits,,0,0,0,,,,332123321
+1,South Africa,12,M du Preez,A Mohammed,C Brits,,0,1,1,,,,332123321
+1,South Africa,12,C Brits,A Mohammed,M du Preez,,0,1,1,,,,332123321
+1,South Africa,13,C Brits,SA Campbelle,M du Preez,,0,0,0,,,,332123321
+1,South Africa,13,C Brits,SA Campbelle,M du Preez,,0,2,2,,,,332123321
+1,South Africa,13,C Brits,SA Campbelle,M du Preez,,0,1,1,,,,332123321
+1,South Africa,13,M du Preez,SA Campbelle,C Brits,,0,4,4,,,,332123321
+1,South Africa,13,M du Preez,SA Campbelle,C Brits,,0,0,0,,,,332123321
+1,South Africa,13,M du Preez,SA Campbelle,C Brits,,0,0,0,,,,332123321
+1,South Africa,14,C Brits,A Mohammed,M du Preez,,0,4,4,,,,332123321
+1,South Africa,14,C Brits,A Mohammed,M du Preez,,0,0,0,,,,332123321
+1,South Africa,14,C Brits,A Mohammed,M du Preez,,0,6,6,,,,332123321
+1,South Africa,14,C Brits,A Mohammed,M du Preez,,0,1,1,,,,332123321
+1,South Africa,14,M du Preez,A Mohammed,C Brits,,0,1,1,,,,332123321
+1,South Africa,14,C Brits,A Mohammed,M du Preez,,0,1,1,,,,332123321
+1,South Africa,15,C Brits,SF Daley,M du Preez,,0,2,2,,,,332123321
+1,South Africa,15,C Brits,SF Daley,M du Preez,,0,0,0,,,,332123321
+1,South Africa,15,C Brits,SF Daley,M du Preez,,0,0,0,,,,332123321
+1,South Africa,15,C Brits,SF Daley,M du Preez,,0,1,1,,,,332123321
+1,South Africa,15,M du Preez,SF Daley,C Brits,,0,1,1,,,,332123321
+1,South Africa,15,C Brits,SF Daley,M du Preez,,0,2,2,,,,332123321
+1,South Africa,16,M du Preez,SR Taylor,C Brits,,0,1,1,,,,332123321
+1,South Africa,16,C Brits,SR Taylor,M du Preez,,0,2,2,,,,332123321
+1,South Africa,16,C Brits,SR Taylor,M du Preez,,0,4,4,,,,332123321
+1,South Africa,16,C Brits,SR Taylor,M du Preez,,0,0,0,caught,C Brits,SL Quintyne,332123321
+1,South Africa,16,M du Preez,SR Taylor,D van Niekerk,,0,1,1,,,,332123321
+1,South Africa,16,D van Niekerk,SR Taylor,M du Preez,,0,0,0,,,,332123321
+1,South Africa,17,M du Preez,SL Quintyne,D van Niekerk,,0,1,1,,,,332123321
+1,South Africa,17,D van Niekerk,SL Quintyne,M du Preez,,0,1,1,,,,332123321
+1,South Africa,17,M du Preez,SL Quintyne,D van Niekerk,,0,0,0,,,,332123321
+1,South Africa,17,M du Preez,SL Quintyne,D van Niekerk,,0,1,1,,,,332123321
+1,South Africa,17,D van Niekerk,SL Quintyne,M du Preez,,0,0,0,,,,332123321
+1,South Africa,17,D van Niekerk,SL Quintyne,M du Preez,,0,1,1,,,,332123321
+1,South Africa,18,D van Niekerk,SR Taylor,M du Preez,,0,2,2,,,,332123321
+1,South Africa,18,D van Niekerk,SR Taylor,M du Preez,wides,2,2,0,,,,332123321
+1,South Africa,18,M du Preez,SR Taylor,D van Niekerk,,0,1,1,,,,332123321
+1,South Africa,18,D van Niekerk,SR Taylor,M du Preez,,0,4,4,,,,332123321
+1,South Africa,18,D van Niekerk,SR Taylor,M du Preez,,0,1,1,,,,332123321
+1,South Africa,18,M du Preez,SR Taylor,D van Niekerk,,0,0,0,caught,M du Preez,MR Aguilleira,332123321
+1,South Africa,18,SM Benade,SR Taylor,D van Niekerk,,0,0,0,,,,332123321
+1,South Africa,19,D van Niekerk,SF Daley,SM Benade,,0,1,1,,,,332123321
+1,South Africa,19,SM Benade,SF Daley,D van Niekerk,,0,1,1,,,,332123321
+1,South Africa,19,D van Niekerk,SF Daley,SM Benade,,0,0,0,,,,332123321
+1,South Africa,19,D van Niekerk,SF Daley,SM Benade,,0,0,0,caught,D van Niekerk,JB Nero,332123321
+1,South Africa,19,SM Benade,SF Daley,CL Tryon,,0,0,0,caught,SM Benade,A Mohammed,332123321
+1,South Africa,19,CL Tryon,SF Daley,E Theunissen,,0,1,1,,,,332123321

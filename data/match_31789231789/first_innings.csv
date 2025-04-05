@@ -1,0 +1,115 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Swaziland,0,C Forbes,GM Ntambalika,Muhammad Amin,,0,0,0,,,,31789231789
+1,Swaziland,0,C Forbes,GM Ntambalika,Muhammad Amin,,0,0,0,,,,31789231789
+1,Swaziland,0,C Forbes,GM Ntambalika,Muhammad Amin,,0,0,0,,,,31789231789
+1,Swaziland,0,C Forbes,GM Ntambalika,Muhammad Amin,,0,1,1,,,,31789231789
+1,Swaziland,0,Muhammad Amin,GM Ntambalika,C Forbes,,0,0,0,,,,31789231789
+1,Swaziland,0,Muhammad Amin,GM Ntambalika,C Forbes,,0,0,0,,,,31789231789
+1,Swaziland,1,C Forbes,Sami Sohail,Muhammad Amin,,0,1,1,,,,31789231789
+1,Swaziland,1,Muhammad Amin,Sami Sohail,C Forbes,,0,1,1,,,,31789231789
+1,Swaziland,1,C Forbes,Sami Sohail,Muhammad Amin,wides,1,1,0,,,,31789231789
+1,Swaziland,1,C Forbes,Sami Sohail,Muhammad Amin,,0,0,0,,,,31789231789
+1,Swaziland,1,C Forbes,Sami Sohail,Muhammad Amin,,0,2,2,,,,31789231789
+1,Swaziland,1,C Forbes,Sami Sohail,Muhammad Amin,,0,4,4,,,,31789231789
+1,Swaziland,1,C Forbes,Sami Sohail,Muhammad Amin,,0,4,4,,,,31789231789
+1,Swaziland,2,Muhammad Amin,GM Ntambalika,C Forbes,,0,0,0,,,,31789231789
+1,Swaziland,2,Muhammad Amin,GM Ntambalika,C Forbes,,0,1,1,,,,31789231789
+1,Swaziland,2,C Forbes,GM Ntambalika,Muhammad Amin,,0,0,0,,,,31789231789
+1,Swaziland,2,C Forbes,GM Ntambalika,Muhammad Amin,,0,4,4,,,,31789231789
+1,Swaziland,2,C Forbes,GM Ntambalika,Muhammad Amin,wides,1,1,0,,,,31789231789
+1,Swaziland,2,C Forbes,GM Ntambalika,Muhammad Amin,,0,4,4,,,,31789231789
+1,Swaziland,2,C Forbes,GM Ntambalika,Muhammad Amin,,0,0,0,caught,C Forbes,C Chete,31789231789
+1,Swaziland,3,Muhammad Amin,M Abdulla,Naeem Gull,,0,1,1,,,,31789231789
+1,Swaziland,3,Naeem Gull,M Abdulla,Muhammad Amin,,0,1,1,,,,31789231789
+1,Swaziland,3,Muhammad Amin,M Abdulla,Naeem Gull,wides,1,1,0,,,,31789231789
+1,Swaziland,3,Muhammad Amin,M Abdulla,Naeem Gull,,0,4,4,,,,31789231789
+1,Swaziland,3,Muhammad Amin,M Abdulla,Naeem Gull,legbyes,1,1,0,,,,31789231789
+1,Swaziland,3,Naeem Gull,M Abdulla,Muhammad Amin,,0,4,4,,,,31789231789
+1,Swaziland,3,Naeem Gull,M Abdulla,Muhammad Amin,,0,0,0,,,,31789231789
+1,Swaziland,4,Muhammad Amin,D Kansonkho,Naeem Gull,,0,0,0,,,,31789231789
+1,Swaziland,4,Muhammad Amin,D Kansonkho,Naeem Gull,,0,0,0,,,,31789231789
+1,Swaziland,4,Muhammad Amin,D Kansonkho,Naeem Gull,,0,0,0,bowled,Muhammad Amin,,31789231789
+1,Swaziland,4,J Ghadiyali,D Kansonkho,Naeem Gull,,0,0,0,,,,31789231789
+1,Swaziland,4,J Ghadiyali,D Kansonkho,Naeem Gull,,0,1,1,,,,31789231789
+1,Swaziland,4,Naeem Gull,D Kansonkho,J Ghadiyali,,0,0,0,,,,31789231789
+1,Swaziland,5,J Ghadiyali,M Abdulla,Naeem Gull,,0,4,4,,,,31789231789
+1,Swaziland,5,J Ghadiyali,M Abdulla,Naeem Gull,,0,1,1,,,,31789231789
+1,Swaziland,5,Naeem Gull,M Abdulla,J Ghadiyali,,0,4,4,,,,31789231789
+1,Swaziland,5,Naeem Gull,M Abdulla,J Ghadiyali,,0,0,0,,,,31789231789
+1,Swaziland,5,Naeem Gull,M Abdulla,J Ghadiyali,,0,2,2,,,,31789231789
+1,Swaziland,5,Naeem Gull,M Abdulla,J Ghadiyali,,0,0,0,,,,31789231789
+1,Swaziland,6,J Ghadiyali,D Kansonkho,Naeem Gull,,0,0,0,,,,31789231789
+1,Swaziland,6,J Ghadiyali,D Kansonkho,Naeem Gull,,0,0,0,,,,31789231789
+1,Swaziland,6,J Ghadiyali,D Kansonkho,Naeem Gull,,0,0,0,,,,31789231789
+1,Swaziland,6,J Ghadiyali,D Kansonkho,Naeem Gull,,0,0,0,,,,31789231789
+1,Swaziland,6,J Ghadiyali,D Kansonkho,Naeem Gull,,0,0,0,,,,31789231789
+1,Swaziland,6,J Ghadiyali,D Kansonkho,Naeem Gull,,0,4,4,,,,31789231789
+1,Swaziland,7,Naeem Gull,M Abdulla,J Ghadiyali,,0,1,1,,,,31789231789
+1,Swaziland,7,J Ghadiyali,M Abdulla,Naeem Gull,,0,1,1,,,,31789231789
+1,Swaziland,7,Naeem Gull,M Abdulla,J Ghadiyali,,0,1,1,,,,31789231789
+1,Swaziland,7,J Ghadiyali,M Abdulla,Naeem Gull,,0,1,1,,,,31789231789
+1,Swaziland,7,Naeem Gull,M Abdulla,J Ghadiyali,,0,0,0,,,,31789231789
+1,Swaziland,7,Naeem Gull,M Abdulla,J Ghadiyali,,0,0,0,,,,31789231789
+1,Swaziland,8,J Ghadiyali,MA Baig,Naeem Gull,,0,0,0,,,,31789231789
+1,Swaziland,8,J Ghadiyali,MA Baig,Naeem Gull,,0,0,0,,,,31789231789
+1,Swaziland,8,J Ghadiyali,MA Baig,Naeem Gull,,0,0,0,,,,31789231789
+1,Swaziland,8,J Ghadiyali,MA Baig,Naeem Gull,,0,1,1,,,,31789231789
+1,Swaziland,8,Naeem Gull,MA Baig,J Ghadiyali,,0,0,0,,,,31789231789
+1,Swaziland,8,Naeem Gull,MA Baig,J Ghadiyali,,0,1,1,,,,31789231789
+1,Swaziland,9,Naeem Gull,D Kansonkho,J Ghadiyali,,0,4,4,,,,31789231789
+1,Swaziland,9,Naeem Gull,D Kansonkho,J Ghadiyali,,0,1,1,,,,31789231789
+1,Swaziland,9,J Ghadiyali,D Kansonkho,Naeem Gull,,0,0,0,,,,31789231789
+1,Swaziland,9,J Ghadiyali,D Kansonkho,Naeem Gull,,0,4,4,,,,31789231789
+1,Swaziland,9,J Ghadiyali,D Kansonkho,Naeem Gull,,0,0,0,,,,31789231789
+1,Swaziland,9,J Ghadiyali,D Kansonkho,Naeem Gull,,0,1,1,,,,31789231789
+1,Swaziland,10,J Ghadiyali,MA Baig,Naeem Gull,,0,4,4,,,,31789231789
+1,Swaziland,10,J Ghadiyali,MA Baig,Naeem Gull,,0,0,0,caught,J Ghadiyali,Sami Sohail,31789231789
+1,Swaziland,10,Naeem Gull,MA Baig,Umair Qasim,,0,1,1,,,,31789231789
+1,Swaziland,10,Umair Qasim,MA Baig,Naeem Gull,,0,1,1,,,,31789231789
+1,Swaziland,10,Naeem Gull,MA Baig,Umair Qasim,,0,0,0,caught,Naeem Gull,A Kansonkho,31789231789
+1,Swaziland,10,Umair Qasim,MA Baig,JJ Wright,,0,0,0,caught,Umair Qasim,Sami Sohail,31789231789
+1,Swaziland,11,Shehzad Patel,D Kansonkho,JJ Wright,,0,0,0,,,,31789231789
+1,Swaziland,11,Shehzad Patel,D Kansonkho,JJ Wright,,0,0,0,,,,31789231789
+1,Swaziland,11,Shehzad Patel,D Kansonkho,JJ Wright,,0,2,2,,,,31789231789
+1,Swaziland,11,Shehzad Patel,D Kansonkho,JJ Wright,,0,0,0,,,,31789231789
+1,Swaziland,11,Shehzad Patel,D Kansonkho,JJ Wright,,0,1,1,,,,31789231789
+1,Swaziland,11,JJ Wright,D Kansonkho,Shehzad Patel,,0,1,1,,,,31789231789
+1,Swaziland,12,JJ Wright,MA Baig,Shehzad Patel,,0,0,0,,,,31789231789
+1,Swaziland,12,JJ Wright,MA Baig,Shehzad Patel,,0,1,1,,,,31789231789
+1,Swaziland,12,Shehzad Patel,MA Baig,JJ Wright,,0,0,0,caught,Shehzad Patel,A Kansonkho,31789231789
+1,Swaziland,12,J Hansrod,MA Baig,JJ Wright,,0,1,1,,,,31789231789
+1,Swaziland,12,JJ Wright,MA Baig,J Hansrod,,0,1,1,,,,31789231789
+1,Swaziland,12,J Hansrod,MA Baig,JJ Wright,,0,0,0,,,,31789231789
+1,Swaziland,13,JJ Wright,Sami Sohail,J Hansrod,,0,1,1,,,,31789231789
+1,Swaziland,13,J Hansrod,Sami Sohail,JJ Wright,,0,0,0,,,,31789231789
+1,Swaziland,13,J Hansrod,Sami Sohail,JJ Wright,,0,0,0,bowled,J Hansrod,,31789231789
+1,Swaziland,13,M Magagula,Sami Sohail,JJ Wright,,0,0,0,,,,31789231789
+1,Swaziland,13,M Magagula,Sami Sohail,JJ Wright,,0,1,1,,,,31789231789
+1,Swaziland,13,JJ Wright,Sami Sohail,M Magagula,,0,1,1,,,,31789231789
+1,Swaziland,14,JJ Wright,MA Baig,M Magagula,,0,0,0,,,,31789231789
+1,Swaziland,14,JJ Wright,MA Baig,M Magagula,,0,1,1,,,,31789231789
+1,Swaziland,14,M Magagula,MA Baig,JJ Wright,,0,0,0,,,,31789231789
+1,Swaziland,14,M Magagula,MA Baig,JJ Wright,,0,1,1,,,,31789231789
+1,Swaziland,14,JJ Wright,MA Baig,M Magagula,,0,0,0,lbw,JJ Wright,,31789231789
+1,Swaziland,14,S Kubheka,MA Baig,M Magagula,,0,0,0,,,,31789231789
+1,Swaziland,15,M Magagula,Sami Sohail,S Kubheka,,0,0,0,,,,31789231789
+1,Swaziland,15,M Magagula,Sami Sohail,S Kubheka,,0,0,0,,,,31789231789
+1,Swaziland,15,M Magagula,Sami Sohail,S Kubheka,,0,0,0,,,,31789231789
+1,Swaziland,15,M Magagula,Sami Sohail,S Kubheka,,0,1,1,,,,31789231789
+1,Swaziland,15,S Kubheka,Sami Sohail,M Magagula,,0,0,0,,,,31789231789
+1,Swaziland,15,S Kubheka,Sami Sohail,M Magagula,,0,1,1,,,,31789231789
+1,Swaziland,16,S Kubheka,M Mwamadi,M Magagula,,0,1,1,,,,31789231789
+1,Swaziland,16,M Magagula,M Mwamadi,S Kubheka,,0,1,1,,,,31789231789
+1,Swaziland,16,S Kubheka,M Mwamadi,M Magagula,,0,1,1,,,,31789231789
+1,Swaziland,16,M Magagula,M Mwamadi,S Kubheka,,0,0,0,,,,31789231789
+1,Swaziland,16,M Magagula,M Mwamadi,S Kubheka,,0,0,0,,,,31789231789
+1,Swaziland,16,M Magagula,M Mwamadi,S Kubheka,,0,0,0,,,,31789231789
+1,Swaziland,17,S Kubheka,Sami Sohail,M Magagula,,0,0,0,caught,S Kubheka,G Kansonkho,31789231789
+1,Swaziland,17,M Magagula,Sami Sohail,JF Chester,,0,4,4,,,,31789231789
+1,Swaziland,17,M Magagula,Sami Sohail,JF Chester,,0,0,0,,,,31789231789
+1,Swaziland,17,M Magagula,Sami Sohail,JF Chester,,0,1,1,,,,31789231789
+1,Swaziland,17,JF Chester,Sami Sohail,M Magagula,,0,0,0,,,,31789231789
+1,Swaziland,17,JF Chester,Sami Sohail,M Magagula,,0,0,0,,,,31789231789
+1,Swaziland,18,M Magagula,M Mwamadi,JF Chester,wides,1,1,0,,,,31789231789
+1,Swaziland,18,M Magagula,M Mwamadi,JF Chester,,0,0,0,,,,31789231789
+1,Swaziland,18,M Magagula,M Mwamadi,JF Chester,,0,0,0,caught,M Magagula,L Nakomo,31789231789

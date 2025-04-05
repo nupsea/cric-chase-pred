@@ -1,0 +1,51 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Bangladesh,0,Shamima Sultana,R Rijke,Ayasha Rahman,,0,0,0,,,,387223872
+2,Bangladesh,0,Shamima Sultana,R Rijke,Ayasha Rahman,,0,1,1,,,,387223872
+2,Bangladesh,0,Ayasha Rahman,R Rijke,Shamima Sultana,,0,1,1,,,,387223872
+2,Bangladesh,0,Shamima Sultana,R Rijke,Ayasha Rahman,wides,1,1,0,,,,387223872
+2,Bangladesh,0,Shamima Sultana,R Rijke,Ayasha Rahman,,0,1,1,,,,387223872
+2,Bangladesh,0,Ayasha Rahman,R Rijke,Shamima Sultana,,0,0,0,,,,387223872
+2,Bangladesh,0,Ayasha Rahman,R Rijke,Shamima Sultana,,0,0,0,,,,387223872
+2,Bangladesh,1,Shamima Sultana,HDJ Siegers,Ayasha Rahman,,0,0,0,,,,387223872
+2,Bangladesh,1,Shamima Sultana,HDJ Siegers,Ayasha Rahman,,0,0,0,,,,387223872
+2,Bangladesh,1,Shamima Sultana,HDJ Siegers,Ayasha Rahman,wides,1,1,0,,,,387223872
+2,Bangladesh,1,Shamima Sultana,HDJ Siegers,Ayasha Rahman,,0,4,4,,,,387223872
+2,Bangladesh,1,Shamima Sultana,HDJ Siegers,Ayasha Rahman,,0,0,0,,,,387223872
+2,Bangladesh,1,Shamima Sultana,HDJ Siegers,Ayasha Rahman,,0,4,4,,,,387223872
+2,Bangladesh,1,Shamima Sultana,HDJ Siegers,Ayasha Rahman,,0,4,4,,,,387223872
+2,Bangladesh,2,Ayasha Rahman,R Rijke,Shamima Sultana,,0,0,0,,,,387223872
+2,Bangladesh,2,Ayasha Rahman,R Rijke,Shamima Sultana,,0,0,0,,,,387223872
+2,Bangladesh,2,Ayasha Rahman,R Rijke,Shamima Sultana,,0,0,0,,,,387223872
+2,Bangladesh,2,Ayasha Rahman,R Rijke,Shamima Sultana,,0,0,0,,,,387223872
+2,Bangladesh,2,Ayasha Rahman,R Rijke,Shamima Sultana,,0,4,4,,,,387223872
+2,Bangladesh,2,Ayasha Rahman,R Rijke,Shamima Sultana,,0,1,1,,,,387223872
+2,Bangladesh,3,Ayasha Rahman,S Siegers,Shamima Sultana,,0,0,0,,,,387223872
+2,Bangladesh,3,Ayasha Rahman,S Siegers,Shamima Sultana,,0,0,0,bowled,Ayasha Rahman,,387223872
+2,Bangladesh,3,Fargana Hoque,S Siegers,Shamima Sultana,,0,0,0,,,,387223872
+2,Bangladesh,3,Fargana Hoque,S Siegers,Shamima Sultana,,0,0,0,,,,387223872
+2,Bangladesh,3,Fargana Hoque,S Siegers,Shamima Sultana,,0,4,4,,,,387223872
+2,Bangladesh,3,Fargana Hoque,S Siegers,Shamima Sultana,,0,0,0,,,,387223872
+2,Bangladesh,4,Shamima Sultana,CC van Slobbe,Fargana Hoque,,0,0,0,,,,387223872
+2,Bangladesh,4,Shamima Sultana,CC van Slobbe,Fargana Hoque,,0,0,0,,,,387223872
+2,Bangladesh,4,Shamima Sultana,CC van Slobbe,Fargana Hoque,,0,0,0,bowled,Shamima Sultana,,387223872
+2,Bangladesh,4,Nigar Sultana,CC van Slobbe,Fargana Hoque,,0,0,0,,,,387223872
+2,Bangladesh,4,Nigar Sultana,CC van Slobbe,Fargana Hoque,,0,2,2,,,,387223872
+2,Bangladesh,4,Nigar Sultana,CC van Slobbe,Fargana Hoque,,0,0,0,,,,387223872
+2,Bangladesh,5,Fargana Hoque,S Siegers,Nigar Sultana,,0,1,1,,,,387223872
+2,Bangladesh,5,Nigar Sultana,S Siegers,Fargana Hoque,,0,0,0,,,,387223872
+2,Bangladesh,5,Nigar Sultana,S Siegers,Fargana Hoque,,0,0,0,,,,387223872
+2,Bangladesh,5,Nigar Sultana,S Siegers,Fargana Hoque,,0,0,0,,,,387223872
+2,Bangladesh,5,Nigar Sultana,S Siegers,Fargana Hoque,,0,0,0,,,,387223872
+2,Bangladesh,5,Nigar Sultana,S Siegers,Fargana Hoque,,0,1,1,,,,387223872
+2,Bangladesh,6,Nigar Sultana,CC van Slobbe,Fargana Hoque,,0,0,0,,,,387223872
+2,Bangladesh,6,Nigar Sultana,CC van Slobbe,Fargana Hoque,,0,1,1,,,,387223872
+2,Bangladesh,6,Fargana Hoque,CC van Slobbe,Nigar Sultana,,0,1,1,,,,387223872
+2,Bangladesh,6,Nigar Sultana,CC van Slobbe,Fargana Hoque,,0,0,0,,,,387223872
+2,Bangladesh,6,Nigar Sultana,CC van Slobbe,Fargana Hoque,,0,0,0,lbw,Nigar Sultana,,387223872
+2,Bangladesh,6,Rumana Ahmed,CC van Slobbe,Fargana Hoque,,0,0,0,,,,387223872
+2,Bangladesh,7,Fargana Hoque,S Siegers,Rumana Ahmed,,0,4,4,,,,387223872
+2,Bangladesh,7,Fargana Hoque,S Siegers,Rumana Ahmed,,0,0,0,,,,387223872
+2,Bangladesh,7,Fargana Hoque,S Siegers,Rumana Ahmed,,0,1,1,,,,387223872
+2,Bangladesh,7,Rumana Ahmed,S Siegers,Fargana Hoque,wides,1,1,0,,,,387223872
+2,Bangladesh,7,Rumana Ahmed,S Siegers,Fargana Hoque,legbyes,2,2,0,,,,387223872
+2,Bangladesh,7,Rumana Ahmed,S Siegers,Fargana Hoque,,0,4,4,,,,387223872

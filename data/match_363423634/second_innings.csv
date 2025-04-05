@@ -1,0 +1,111 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Pakistan,0,Nahida Khan,KH Brunt,Sidra Ameen,,0,0,0,,,,363423634
+2,Pakistan,0,Nahida Khan,KH Brunt,Sidra Ameen,,0,1,1,,,,363423634
+2,Pakistan,0,Sidra Ameen,KH Brunt,Nahida Khan,,0,0,0,,,,363423634
+2,Pakistan,0,Sidra Ameen,KH Brunt,Nahida Khan,wides,1,1,0,,,,363423634
+2,Pakistan,0,Sidra Ameen,KH Brunt,Nahida Khan,,0,0,0,,,,363423634
+2,Pakistan,0,Sidra Ameen,KH Brunt,Nahida Khan,,0,0,0,caught,Sidra Ameen,JL Gunn,363423634
+2,Pakistan,0,Bismah Maroof,KH Brunt,Nahida Khan,,0,0,0,,,,363423634
+2,Pakistan,1,Nahida Khan,A Shrubsole,Bismah Maroof,,0,4,4,,,,363423634
+2,Pakistan,1,Nahida Khan,A Shrubsole,Bismah Maroof,,0,0,0,,,,363423634
+2,Pakistan,1,Nahida Khan,A Shrubsole,Bismah Maroof,,0,4,4,,,,363423634
+2,Pakistan,1,Nahida Khan,A Shrubsole,Bismah Maroof,,0,1,1,,,,363423634
+2,Pakistan,1,Bismah Maroof,A Shrubsole,Nahida Khan,,0,1,1,,,,363423634
+2,Pakistan,1,Nahida Khan,A Shrubsole,Bismah Maroof,,0,0,0,,,,363423634
+2,Pakistan,2,Bismah Maroof,KH Brunt,Nahida Khan,,0,0,0,,,,363423634
+2,Pakistan,2,Bismah Maroof,KH Brunt,Nahida Khan,,0,0,0,,,,363423634
+2,Pakistan,2,Bismah Maroof,KH Brunt,Nahida Khan,,0,0,0,,,,363423634
+2,Pakistan,2,Bismah Maroof,KH Brunt,Nahida Khan,,0,2,2,,,,363423634
+2,Pakistan,2,Bismah Maroof,KH Brunt,Nahida Khan,,0,3,3,,,,363423634
+2,Pakistan,2,Nahida Khan,KH Brunt,Bismah Maroof,,0,4,4,,,,363423634
+2,Pakistan,3,Bismah Maroof,A Shrubsole,Nahida Khan,wides,5,5,0,,,,363423634
+2,Pakistan,3,Bismah Maroof,A Shrubsole,Nahida Khan,,0,0,0,,,,363423634
+2,Pakistan,3,Bismah Maroof,A Shrubsole,Nahida Khan,,0,0,0,,,,363423634
+2,Pakistan,3,Bismah Maroof,A Shrubsole,Nahida Khan,,0,0,0,,,,363423634
+2,Pakistan,3,Bismah Maroof,A Shrubsole,Nahida Khan,,0,0,0,caught,Bismah Maroof,DN Wyatt,363423634
+2,Pakistan,3,Muneeba Ali,A Shrubsole,Nahida Khan,,0,1,1,,,,363423634
+2,Pakistan,3,Nahida Khan,A Shrubsole,Muneeba Ali,,0,0,0,,,,363423634
+2,Pakistan,4,Muneeba Ali,LA Marsh,Nahida Khan,,0,0,0,,,,363423634
+2,Pakistan,4,Muneeba Ali,LA Marsh,Nahida Khan,,0,0,0,,,,363423634
+2,Pakistan,4,Muneeba Ali,LA Marsh,Nahida Khan,,0,0,0,caught,Muneeba Ali,KH Brunt,363423634
+2,Pakistan,4,Nahida Khan,LA Marsh,Nida Dar,,0,1,1,,,,363423634
+2,Pakistan,4,Nida Dar,LA Marsh,Nahida Khan,,0,0,0,,,,363423634
+2,Pakistan,4,Nida Dar,LA Marsh,Nahida Khan,,0,1,1,,,,363423634
+2,Pakistan,5,Nida Dar,NR Sciver,Nahida Khan,,0,1,1,,,,363423634
+2,Pakistan,5,Nahida Khan,NR Sciver,Nida Dar,,0,0,0,bowled,Nahida Khan,,363423634
+2,Pakistan,5,Nain Abidi,NR Sciver,Nida Dar,,0,1,1,,,,363423634
+2,Pakistan,5,Nida Dar,NR Sciver,Nain Abidi,,0,1,1,,,,363423634
+2,Pakistan,5,Nain Abidi,NR Sciver,Nida Dar,,0,1,1,,,,363423634
+2,Pakistan,5,Nida Dar,NR Sciver,Nain Abidi,,0,1,1,,,,363423634
+2,Pakistan,6,Nida Dar,LA Marsh,Nain Abidi,,0,1,1,,,,363423634
+2,Pakistan,6,Nain Abidi,LA Marsh,Nida Dar,,0,0,0,,,,363423634
+2,Pakistan,6,Nain Abidi,LA Marsh,Nida Dar,,0,0,0,,,,363423634
+2,Pakistan,6,Nain Abidi,LA Marsh,Nida Dar,,0,0,0,,,,363423634
+2,Pakistan,6,Nain Abidi,LA Marsh,Nida Dar,,0,0,0,caught,Nain Abidi,A Shrubsole,363423634
+2,Pakistan,6,Nida Dar,LA Marsh,Sana Mir,,0,0,0,,,,363423634
+2,Pakistan,7,Sana Mir,NR Sciver,Nida Dar,,0,0,0,,,,363423634
+2,Pakistan,7,Sana Mir,NR Sciver,Nida Dar,,0,1,1,,,,363423634
+2,Pakistan,7,Nida Dar,NR Sciver,Sana Mir,,0,1,1,,,,363423634
+2,Pakistan,7,Sana Mir,NR Sciver,Nida Dar,,0,0,0,,,,363423634
+2,Pakistan,7,Sana Mir,NR Sciver,Nida Dar,,0,4,4,,,,363423634
+2,Pakistan,7,Sana Mir,NR Sciver,Nida Dar,,0,0,0,,,,363423634
+2,Pakistan,8,Nida Dar,LA Marsh,Sana Mir,,0,0,0,,,,363423634
+2,Pakistan,8,Nida Dar,LA Marsh,Sana Mir,,0,1,1,,,,363423634
+2,Pakistan,8,Sana Mir,LA Marsh,Nida Dar,,0,2,2,,,,363423634
+2,Pakistan,8,Sana Mir,LA Marsh,Nida Dar,,0,0,0,,,,363423634
+2,Pakistan,8,Sana Mir,LA Marsh,Nida Dar,,0,4,4,,,,363423634
+2,Pakistan,8,Sana Mir,LA Marsh,Nida Dar,,0,0,0,caught,Sana Mir,KH Brunt,363423634
+2,Pakistan,9,Asmavia Iqbal,JL Gunn,Nida Dar,,0,0,0,,,,363423634
+2,Pakistan,9,Asmavia Iqbal,JL Gunn,Nida Dar,,0,1,1,,,,363423634
+2,Pakistan,9,Nida Dar,JL Gunn,Asmavia Iqbal,,0,0,0,,,,363423634
+2,Pakistan,9,Nida Dar,JL Gunn,Asmavia Iqbal,,0,4,4,,,,363423634
+2,Pakistan,9,Nida Dar,JL Gunn,Asmavia Iqbal,,0,1,1,,,,363423634
+2,Pakistan,9,Asmavia Iqbal,JL Gunn,Nida Dar,,0,1,1,,,,363423634
+2,Pakistan,10,Asmavia Iqbal,LA Marsh,Nida Dar,,0,1,1,,,,363423634
+2,Pakistan,10,Nida Dar,LA Marsh,Asmavia Iqbal,,0,1,1,,,,363423634
+2,Pakistan,10,Asmavia Iqbal,LA Marsh,Nida Dar,,0,0,0,,,,363423634
+2,Pakistan,10,Asmavia Iqbal,LA Marsh,Nida Dar,,0,0,0,,,,363423634
+2,Pakistan,10,Asmavia Iqbal,LA Marsh,Nida Dar,,0,0,0,,,,363423634
+2,Pakistan,10,Asmavia Iqbal,LA Marsh,Nida Dar,,0,0,0,,,,363423634
+2,Pakistan,11,Nida Dar,JL Gunn,Asmavia Iqbal,,0,1,1,,,,363423634
+2,Pakistan,11,Asmavia Iqbal,JL Gunn,Nida Dar,,0,0,0,,,,363423634
+2,Pakistan,11,Asmavia Iqbal,JL Gunn,Nida Dar,,0,0,0,,,,363423634
+2,Pakistan,11,Asmavia Iqbal,JL Gunn,Nida Dar,,0,1,1,,,,363423634
+2,Pakistan,11,Nida Dar,JL Gunn,Asmavia Iqbal,,0,0,0,,,,363423634
+2,Pakistan,11,Nida Dar,JL Gunn,Asmavia Iqbal,,0,0,0,,,,363423634
+2,Pakistan,12,Asmavia Iqbal,GA Elwiss,Nida Dar,,0,1,1,,,,363423634
+2,Pakistan,12,Nida Dar,GA Elwiss,Asmavia Iqbal,,0,0,0,,,,363423634
+2,Pakistan,12,Nida Dar,GA Elwiss,Asmavia Iqbal,,0,0,0,,,,363423634
+2,Pakistan,12,Nida Dar,GA Elwiss,Asmavia Iqbal,,0,1,1,,,,363423634
+2,Pakistan,12,Asmavia Iqbal,GA Elwiss,Nida Dar,,0,0,0,,,,363423634
+2,Pakistan,12,Asmavia Iqbal,GA Elwiss,Nida Dar,,0,0,0,,,,363423634
+2,Pakistan,13,Nida Dar,NR Sciver,Asmavia Iqbal,,0,1,1,,,,363423634
+2,Pakistan,13,Asmavia Iqbal,NR Sciver,Nida Dar,,0,1,1,,,,363423634
+2,Pakistan,13,Nida Dar,NR Sciver,Asmavia Iqbal,,0,0,0,caught,Nida Dar,LS Greenway,363423634
+2,Pakistan,13,Sidra Nawaz,NR Sciver,Asmavia Iqbal,,0,0,0,,,,363423634
+2,Pakistan,13,Sidra Nawaz,NR Sciver,Asmavia Iqbal,,0,0,0,,,,363423634
+2,Pakistan,13,Sidra Nawaz,NR Sciver,Asmavia Iqbal,,0,1,1,,,,363423634
+2,Pakistan,14,Sidra Nawaz,GA Elwiss,Asmavia Iqbal,wides,3,3,0,,,,363423634
+2,Pakistan,14,Sidra Nawaz,GA Elwiss,Asmavia Iqbal,,0,0,0,,,,363423634
+2,Pakistan,14,Sidra Nawaz,GA Elwiss,Asmavia Iqbal,,0,0,0,caught and bowled,Sidra Nawaz,,363423634
+2,Pakistan,14,Sadia Yousuf,GA Elwiss,Asmavia Iqbal,,0,1,1,,,,363423634
+2,Pakistan,14,Asmavia Iqbal,GA Elwiss,Sadia Yousuf,,0,1,1,,,,363423634
+2,Pakistan,14,Sadia Yousuf,GA Elwiss,Asmavia Iqbal,,0,0,0,,,,363423634
+2,Pakistan,14,Sadia Yousuf,GA Elwiss,Asmavia Iqbal,,0,0,0,,,,363423634
+2,Pakistan,15,Asmavia Iqbal,NR Sciver,Sadia Yousuf,,0,0,0,,,,363423634
+2,Pakistan,15,Asmavia Iqbal,NR Sciver,Sadia Yousuf,,0,6,6,,,,363423634
+2,Pakistan,15,Asmavia Iqbal,NR Sciver,Sadia Yousuf,,0,0,0,,,,363423634
+2,Pakistan,15,Asmavia Iqbal,NR Sciver,Sadia Yousuf,,0,1,1,,,,363423634
+2,Pakistan,15,Sadia Yousuf,NR Sciver,Asmavia Iqbal,,0,0,0,,,,363423634
+2,Pakistan,15,Sadia Yousuf,NR Sciver,Asmavia Iqbal,,0,1,1,,,,363423634
+2,Pakistan,16,Sadia Yousuf,GA Elwiss,Asmavia Iqbal,byes,1,1,0,,,,363423634
+2,Pakistan,16,Asmavia Iqbal,GA Elwiss,Sadia Yousuf,,0,1,1,,,,363423634
+2,Pakistan,16,Sadia Yousuf,GA Elwiss,Asmavia Iqbal,,0,0,0,,,,363423634
+2,Pakistan,16,Sadia Yousuf,GA Elwiss,Asmavia Iqbal,,0,1,1,,,,363423634
+2,Pakistan,16,Asmavia Iqbal,GA Elwiss,Sadia Yousuf,,0,0,0,lbw,Asmavia Iqbal,,363423634
+2,Pakistan,16,Anam Amin,GA Elwiss,Sadia Yousuf,,0,0,0,,,,363423634
+2,Pakistan,17,Sadia Yousuf,A Shrubsole,Anam Amin,,0,0,0,,,,363423634
+2,Pakistan,17,Sadia Yousuf,A Shrubsole,Anam Amin,,0,0,0,,,,363423634
+2,Pakistan,17,Sadia Yousuf,A Shrubsole,Anam Amin,,0,0,0,,,,363423634
+2,Pakistan,17,Sadia Yousuf,A Shrubsole,Anam Amin,,0,0,0,,,,363423634
+2,Pakistan,17,Sadia Yousuf,A Shrubsole,Anam Amin,,0,0,0,caught,Sadia Yousuf,DN Wyatt,363423634

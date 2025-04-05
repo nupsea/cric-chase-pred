@@ -1,0 +1,111 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,South Africa,0,MN van Wyk,DAJ Bracewell,HM Amla,,0,0,0,,,,350323503
+2,South Africa,0,MN van Wyk,DAJ Bracewell,HM Amla,,0,1,1,,,,350323503
+2,South Africa,0,HM Amla,DAJ Bracewell,MN van Wyk,,0,1,1,,,,350323503
+2,South Africa,0,MN van Wyk,DAJ Bracewell,HM Amla,,0,0,0,,,,350323503
+2,South Africa,0,MN van Wyk,DAJ Bracewell,HM Amla,,0,0,0,,,,350323503
+2,South Africa,0,MN van Wyk,DAJ Bracewell,HM Amla,legbyes,1,1,0,,,,350323503
+2,South Africa,1,MN van Wyk,AF Milne,HM Amla,,0,1,1,,,,350323503
+2,South Africa,1,HM Amla,AF Milne,MN van Wyk,,0,1,1,,,,350323503
+2,South Africa,1,MN van Wyk,AF Milne,HM Amla,,0,0,0,,,,350323503
+2,South Africa,1,MN van Wyk,AF Milne,HM Amla,,0,0,0,,,,350323503
+2,South Africa,1,MN van Wyk,AF Milne,HM Amla,,0,0,0,,,,350323503
+2,South Africa,1,MN van Wyk,AF Milne,HM Amla,,0,0,0,,,,350323503
+2,South Africa,2,HM Amla,DAJ Bracewell,MN van Wyk,,0,1,1,,,,350323503
+2,South Africa,2,MN van Wyk,DAJ Bracewell,HM Amla,,0,1,1,,,,350323503
+2,South Africa,2,HM Amla,DAJ Bracewell,MN van Wyk,,0,0,0,,,,350323503
+2,South Africa,2,HM Amla,DAJ Bracewell,MN van Wyk,,0,4,4,,,,350323503
+2,South Africa,2,HM Amla,DAJ Bracewell,MN van Wyk,,0,4,4,,,,350323503
+2,South Africa,2,HM Amla,DAJ Bracewell,MN van Wyk,,0,0,0,,,,350323503
+2,South Africa,3,MN van Wyk,MJ McClenaghan,HM Amla,,0,4,4,,,,350323503
+2,South Africa,3,MN van Wyk,MJ McClenaghan,HM Amla,,0,0,0,,,,350323503
+2,South Africa,3,MN van Wyk,MJ McClenaghan,HM Amla,,0,4,4,,,,350323503
+2,South Africa,3,MN van Wyk,MJ McClenaghan,HM Amla,,0,6,6,,,,350323503
+2,South Africa,3,MN van Wyk,MJ McClenaghan,HM Amla,legbyes,1,1,0,,,,350323503
+2,South Africa,3,HM Amla,MJ McClenaghan,MN van Wyk,,0,1,1,,,,350323503
+2,South Africa,4,HM Amla,AF Milne,MN van Wyk,,0,1,1,,,,350323503
+2,South Africa,4,MN van Wyk,AF Milne,HM Amla,,0,0,0,,,,350323503
+2,South Africa,4,MN van Wyk,AF Milne,HM Amla,,0,1,1,,,,350323503
+2,South Africa,4,HM Amla,AF Milne,MN van Wyk,,0,1,1,,,,350323503
+2,South Africa,4,MN van Wyk,AF Milne,HM Amla,,0,0,0,,,,350323503
+2,South Africa,4,MN van Wyk,AF Milne,HM Amla,,0,1,1,,,,350323503
+2,South Africa,5,MN van Wyk,DAJ Bracewell,HM Amla,,0,0,0,caught,MN van Wyk,GH Worker,350323503
+2,South Africa,5,HM Amla,DAJ Bracewell,AB de Villiers,,0,0,0,,,,350323503
+2,South Africa,5,HM Amla,DAJ Bracewell,AB de Villiers,,0,0,0,,,,350323503
+2,South Africa,5,HM Amla,DAJ Bracewell,AB de Villiers,,0,1,1,,,,350323503
+2,South Africa,5,AB de Villiers,DAJ Bracewell,HM Amla,,0,0,0,,,,350323503
+2,South Africa,5,AB de Villiers,DAJ Bracewell,HM Amla,,0,4,4,,,,350323503
+2,South Africa,6,HM Amla,GH Worker,AB de Villiers,wides,1,1,0,,,,350323503
+2,South Africa,6,HM Amla,GH Worker,AB de Villiers,,0,4,4,,,,350323503
+2,South Africa,6,HM Amla,GH Worker,AB de Villiers,,0,1,1,,,,350323503
+2,South Africa,6,AB de Villiers,GH Worker,HM Amla,,0,1,1,,,,350323503
+2,South Africa,6,HM Amla,GH Worker,AB de Villiers,,0,1,1,,,,350323503
+2,South Africa,6,AB de Villiers,GH Worker,HM Amla,,0,0,0,,,,350323503
+2,South Africa,6,AB de Villiers,GH Worker,HM Amla,,0,4,4,,,,350323503
+2,South Africa,7,HM Amla,NL McCullum,AB de Villiers,,0,1,1,,,,350323503
+2,South Africa,7,AB de Villiers,NL McCullum,HM Amla,,0,1,1,,,,350323503
+2,South Africa,7,HM Amla,NL McCullum,AB de Villiers,,0,1,1,,,,350323503
+2,South Africa,7,AB de Villiers,NL McCullum,HM Amla,,0,1,1,,,,350323503
+2,South Africa,7,HM Amla,NL McCullum,AB de Villiers,,0,1,1,,,,350323503
+2,South Africa,7,AB de Villiers,NL McCullum,HM Amla,,0,2,2,,,,350323503
+2,South Africa,8,HM Amla,MJ McClenaghan,AB de Villiers,,0,1,1,,,,350323503
+2,South Africa,8,AB de Villiers,MJ McClenaghan,HM Amla,,0,1,1,,,,350323503
+2,South Africa,8,HM Amla,MJ McClenaghan,AB de Villiers,,0,1,1,,,,350323503
+2,South Africa,8,AB de Villiers,MJ McClenaghan,HM Amla,,0,4,4,,,,350323503
+2,South Africa,8,AB de Villiers,MJ McClenaghan,HM Amla,noballs,1,1,0,,,,350323503
+2,South Africa,8,AB de Villiers,MJ McClenaghan,HM Amla,,0,1,1,,,,350323503
+2,South Africa,8,HM Amla,MJ McClenaghan,AB de Villiers,,0,0,0,,,,350323503
+2,South Africa,9,AB de Villiers,NL McCullum,HM Amla,,0,1,1,,,,350323503
+2,South Africa,9,HM Amla,NL McCullum,AB de Villiers,,0,2,2,,,,350323503
+2,South Africa,9,HM Amla,NL McCullum,AB de Villiers,,0,1,1,,,,350323503
+2,South Africa,9,AB de Villiers,NL McCullum,HM Amla,,0,4,4,,,,350323503
+2,South Africa,9,AB de Villiers,NL McCullum,HM Amla,,0,2,2,,,,350323503
+2,South Africa,9,AB de Villiers,NL McCullum,HM Amla,,0,1,1,,,,350323503
+2,South Africa,10,AB de Villiers,GH Worker,HM Amla,,0,4,4,,,,350323503
+2,South Africa,10,AB de Villiers,GH Worker,HM Amla,,0,0,0,,,,350323503
+2,South Africa,10,AB de Villiers,GH Worker,HM Amla,,0,0,0,,,,350323503
+2,South Africa,10,AB de Villiers,GH Worker,HM Amla,,0,2,2,,,,350323503
+2,South Africa,10,AB de Villiers,GH Worker,HM Amla,,0,0,0,caught,AB de Villiers,NL McCullum,350323503
+2,South Africa,10,RR Rossouw,GH Worker,HM Amla,,0,1,1,,,,350323503
+2,South Africa,11,RR Rossouw,NL McCullum,HM Amla,,0,1,1,,,,350323503
+2,South Africa,11,HM Amla,NL McCullum,RR Rossouw,,0,1,1,,,,350323503
+2,South Africa,11,RR Rossouw,NL McCullum,HM Amla,,0,0,0,,,,350323503
+2,South Africa,11,RR Rossouw,NL McCullum,HM Amla,,0,1,1,,,,350323503
+2,South Africa,11,HM Amla,NL McCullum,RR Rossouw,,0,0,0,,,,350323503
+2,South Africa,11,HM Amla,NL McCullum,RR Rossouw,,0,0,0,,,,350323503
+2,South Africa,12,RR Rossouw,GD Elliott,HM Amla,,0,1,1,,,,350323503
+2,South Africa,12,HM Amla,GD Elliott,RR Rossouw,,0,2,2,,,,350323503
+2,South Africa,12,HM Amla,GD Elliott,RR Rossouw,,0,1,1,,,,350323503
+2,South Africa,12,RR Rossouw,GD Elliott,HM Amla,,0,0,0,,,,350323503
+2,South Africa,12,RR Rossouw,GD Elliott,HM Amla,,0,2,2,,,,350323503
+2,South Africa,12,RR Rossouw,GD Elliott,HM Amla,,0,6,6,,,,350323503
+2,South Africa,13,HM Amla,KS Williamson,RR Rossouw,,0,1,1,,,,350323503
+2,South Africa,13,RR Rossouw,KS Williamson,HM Amla,,0,4,4,,,,350323503
+2,South Africa,13,RR Rossouw,KS Williamson,HM Amla,,0,1,1,,,,350323503
+2,South Africa,13,HM Amla,KS Williamson,RR Rossouw,,0,1,1,,,,350323503
+2,South Africa,13,RR Rossouw,KS Williamson,HM Amla,,0,1,1,,,,350323503
+2,South Africa,13,HM Amla,KS Williamson,RR Rossouw,,0,1,1,,,,350323503
+2,South Africa,14,HM Amla,AF Milne,RR Rossouw,,0,0,0,,,,350323503
+2,South Africa,14,HM Amla,AF Milne,RR Rossouw,,0,0,0,,,,350323503
+2,South Africa,14,HM Amla,AF Milne,RR Rossouw,,0,1,1,,,,350323503
+2,South Africa,14,RR Rossouw,AF Milne,HM Amla,,0,0,0,,,,350323503
+2,South Africa,14,RR Rossouw,AF Milne,HM Amla,,0,4,4,,,,350323503
+2,South Africa,14,RR Rossouw,AF Milne,HM Amla,wides,1,1,0,,,,350323503
+2,South Africa,14,RR Rossouw,AF Milne,HM Amla,,0,6,6,,,,350323503
+2,South Africa,15,HM Amla,NL McCullum,RR Rossouw,,0,1,1,,,,350323503
+2,South Africa,15,RR Rossouw,NL McCullum,HM Amla,,0,1,1,,,,350323503
+2,South Africa,15,HM Amla,NL McCullum,RR Rossouw,,0,6,6,,,,350323503
+2,South Africa,15,HM Amla,NL McCullum,RR Rossouw,legbyes,1,1,0,,,,350323503
+2,South Africa,15,RR Rossouw,NL McCullum,HM Amla,,0,1,1,,,,350323503
+2,South Africa,15,HM Amla,NL McCullum,RR Rossouw,,0,4,4,,,,350323503
+2,South Africa,16,RR Rossouw,MJ McClenaghan,HM Amla,,0,4,4,,,,350323503
+2,South Africa,16,RR Rossouw,MJ McClenaghan,HM Amla,,0,4,4,,,,350323503
+2,South Africa,16,RR Rossouw,MJ McClenaghan,HM Amla,,0,0,0,,,,350323503
+2,South Africa,16,RR Rossouw,MJ McClenaghan,HM Amla,,0,0,0,caught,RR Rossouw,L Ronchi,350323503
+2,South Africa,16,HM Amla,MJ McClenaghan,DA Miller,legbyes,1,1,0,,,,350323503
+2,South Africa,16,DA Miller,MJ McClenaghan,HM Amla,,0,1,1,,,,350323503
+2,South Africa,17,DA Miller,AF Milne,HM Amla,legbyes,1,1,0,,,,350323503
+2,South Africa,17,HM Amla,AF Milne,DA Miller,,0,0,0,caught,HM Amla,TWM Latham,350323503
+2,South Africa,17,DA Miller,AF Milne,F Behardien,,0,1,1,,,,350323503
+2,South Africa,17,F Behardien,AF Milne,DA Miller,,0,0,0,,,,350323503
+2,South Africa,17,F Behardien,AF Milne,DA Miller,,0,4,4,,,,350323503

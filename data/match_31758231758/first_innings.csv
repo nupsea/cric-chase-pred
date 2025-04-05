@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Namibia,0,SJ Baard,N Pokana,ZE Green,,0,4,4,,,,31758231758
+1,Namibia,0,SJ Baard,N Pokana,ZE Green,,0,4,4,,,,31758231758
+1,Namibia,0,SJ Baard,N Pokana,ZE Green,,0,0,0,,,,31758231758
+1,Namibia,0,SJ Baard,N Pokana,ZE Green,,0,0,0,bowled,SJ Baard,,31758231758
+1,Namibia,0,CG Williams,N Pokana,ZE Green,,0,0,0,,,,31758231758
+1,Namibia,0,CG Williams,N Pokana,ZE Green,,0,0,0,,,,31758231758
+1,Namibia,1,ZE Green,S Bau,CG Williams,,0,1,1,,,,31758231758
+1,Namibia,1,CG Williams,S Bau,ZE Green,,0,2,2,,,,31758231758
+1,Namibia,1,CG Williams,S Bau,ZE Green,,0,0,0,,,,31758231758
+1,Namibia,1,CG Williams,S Bau,ZE Green,,0,1,1,,,,31758231758
+1,Namibia,1,ZE Green,S Bau,CG Williams,,0,4,4,,,,31758231758
+1,Namibia,1,ZE Green,S Bau,CG Williams,,0,0,0,,,,31758231758
+1,Namibia,2,CG Williams,D Ravu,ZE Green,,0,1,1,,,,31758231758
+1,Namibia,2,ZE Green,D Ravu,CG Williams,,0,1,1,,,,31758231758
+1,Namibia,2,CG Williams,D Ravu,ZE Green,,0,0,0,,,,31758231758
+1,Namibia,2,CG Williams,D Ravu,ZE Green,,0,2,2,,,,31758231758
+1,Namibia,2,CG Williams,D Ravu,ZE Green,,0,2,2,,,,31758231758
+1,Namibia,2,CG Williams,D Ravu,ZE Green,,0,0,0,,,,31758231758
+1,Namibia,3,ZE Green,SK Atai,CG Williams,wides,1,1,0,,,,31758231758
+1,Namibia,3,ZE Green,SK Atai,CG Williams,,0,2,2,,,,31758231758
+1,Namibia,3,ZE Green,SK Atai,CG Williams,,0,0,0,,,,31758231758
+1,Namibia,3,ZE Green,SK Atai,CG Williams,,0,1,1,,,,31758231758
+1,Namibia,3,CG Williams,SK Atai,ZE Green,legbyes,1,1,0,,,,31758231758
+1,Namibia,3,ZE Green,SK Atai,CG Williams,,0,2,2,,,,31758231758
+1,Namibia,3,ZE Green,SK Atai,CG Williams,,0,1,1,,,,31758231758
+1,Namibia,4,ZE Green,N Pokana,CG Williams,,0,0,0,,,,31758231758
+1,Namibia,4,ZE Green,N Pokana,CG Williams,,0,0,0,,,,31758231758
+1,Namibia,4,ZE Green,N Pokana,CG Williams,,0,0,0,,,,31758231758
+1,Namibia,4,ZE Green,N Pokana,CG Williams,,0,1,1,,,,31758231758
+1,Namibia,4,CG Williams,N Pokana,ZE Green,,0,0,0,,,,31758231758
+1,Namibia,4,CG Williams,N Pokana,ZE Green,,0,0,0,,,,31758231758
+1,Namibia,5,ZE Green,D Ravu,CG Williams,,0,1,1,,,,31758231758
+1,Namibia,5,CG Williams,D Ravu,ZE Green,,0,1,1,,,,31758231758
+1,Namibia,5,ZE Green,D Ravu,CG Williams,,0,4,4,,,,31758231758
+1,Namibia,5,ZE Green,D Ravu,CG Williams,,0,0,0,,,,31758231758
+1,Namibia,5,ZE Green,D Ravu,CG Williams,,0,4,4,,,,31758231758
+1,Namibia,5,ZE Green,D Ravu,CG Williams,,0,1,1,,,,31758231758
+1,Namibia,6,ZE Green,CJA Amini,CG Williams,,0,1,1,,,,31758231758
+1,Namibia,6,CG Williams,CJA Amini,ZE Green,legbyes,2,2,0,,,,31758231758
+1,Namibia,6,CG Williams,CJA Amini,ZE Green,,0,1,1,,,,31758231758
+1,Namibia,6,ZE Green,CJA Amini,CG Williams,,0,0,0,,,,31758231758
+1,Namibia,6,ZE Green,CJA Amini,CG Williams,,0,1,1,,,,31758231758
+1,Namibia,6,CG Williams,CJA Amini,ZE Green,,0,6,6,,,,31758231758
+1,Namibia,7,ZE Green,A Vala,CG Williams,,0,0,0,,,,31758231758
+1,Namibia,7,ZE Green,A Vala,CG Williams,,0,1,1,,,,31758231758
+1,Namibia,7,CG Williams,A Vala,ZE Green,,0,1,1,,,,31758231758
+1,Namibia,7,ZE Green,A Vala,CG Williams,,0,0,0,lbw,ZE Green,,31758231758
+1,Namibia,7,MG Erasmus,A Vala,CG Williams,,0,0,0,lbw,MG Erasmus,,31758231758
+1,Namibia,7,D Wiese,A Vala,CG Williams,,0,1,1,,,,31758231758
+1,Namibia,8,D Wiese,SK Atai,CG Williams,,0,4,4,,,,31758231758
+1,Namibia,8,D Wiese,SK Atai,CG Williams,,0,4,4,,,,31758231758
+1,Namibia,8,D Wiese,SK Atai,CG Williams,,0,0,0,,,,31758231758
+1,Namibia,8,D Wiese,SK Atai,CG Williams,,0,0,0,,,,31758231758
+1,Namibia,8,D Wiese,SK Atai,CG Williams,,0,1,1,,,,31758231758
+1,Namibia,8,CG Williams,SK Atai,D Wiese,,0,2,2,,,,31758231758
+1,Namibia,9,D Wiese,CJA Amini,CG Williams,,0,0,0,caught,D Wiese,K Doriga,31758231758
+1,Namibia,9,JJ Smit,CJA Amini,CG Williams,,0,1,1,,,,31758231758
+1,Namibia,9,CG Williams,CJA Amini,JJ Smit,,0,0,0,,,,31758231758
+1,Namibia,9,CG Williams,CJA Amini,JJ Smit,,0,1,1,,,,31758231758
+1,Namibia,9,JJ Smit,CJA Amini,CG Williams,,0,0,0,,,,31758231758
+1,Namibia,9,JJ Smit,CJA Amini,CG Williams,,0,1,1,,,,31758231758
+1,Namibia,10,JJ Smit,CA Soper,CG Williams,,0,0,0,,,,31758231758
+1,Namibia,10,JJ Smit,CA Soper,CG Williams,,0,0,0,,,,31758231758
+1,Namibia,10,JJ Smit,CA Soper,CG Williams,,0,0,0,,,,31758231758
+1,Namibia,10,JJ Smit,CA Soper,CG Williams,,0,1,1,,,,31758231758
+1,Namibia,10,CG Williams,CA Soper,JJ Smit,,0,0,0,,,,31758231758
+1,Namibia,10,CG Williams,CA Soper,JJ Smit,,0,4,4,,,,31758231758
+1,Namibia,11,JJ Smit,A Vala,CG Williams,wides,1,1,0,,,,31758231758
+1,Namibia,11,JJ Smit,A Vala,CG Williams,,0,1,1,,,,31758231758
+1,Namibia,11,CG Williams,A Vala,JJ Smit,,0,2,2,,,,31758231758
+1,Namibia,11,CG Williams,A Vala,JJ Smit,,0,0,0,,,,31758231758
+1,Namibia,11,CG Williams,A Vala,JJ Smit,,0,1,1,,,,31758231758
+1,Namibia,11,JJ Smit,A Vala,CG Williams,,0,1,1,,,,31758231758
+1,Namibia,11,CG Williams,A Vala,JJ Smit,,0,1,1,,,,31758231758
+1,Namibia,12,CG Williams,CJA Amini,JJ Smit,,0,1,1,,,,31758231758
+1,Namibia,12,JJ Smit,CJA Amini,CG Williams,,0,1,1,,,,31758231758
+1,Namibia,12,CG Williams,CJA Amini,JJ Smit,,0,1,1,,,,31758231758
+1,Namibia,12,JJ Smit,CJA Amini,CG Williams,,0,2,2,,,,31758231758
+1,Namibia,12,JJ Smit,CJA Amini,CG Williams,,0,2,2,,,,31758231758
+1,Namibia,12,JJ Smit,CJA Amini,CG Williams,,0,1,1,,,,31758231758
+1,Namibia,13,JJ Smit,CA Soper,CG Williams,,0,0,0,,,,31758231758
+1,Namibia,13,JJ Smit,CA Soper,CG Williams,,0,2,2,,,,31758231758
+1,Namibia,13,JJ Smit,CA Soper,CG Williams,,0,1,1,,,,31758231758
+1,Namibia,13,CG Williams,CA Soper,JJ Smit,,0,0,0,,,,31758231758
+1,Namibia,13,CG Williams,CA Soper,JJ Smit,,0,1,1,,,,31758231758
+1,Namibia,13,JJ Smit,CA Soper,CG Williams,,0,1,1,,,,31758231758
+1,Namibia,14,JJ Smit,N Pokana,CG Williams,,0,4,4,,,,31758231758
+1,Namibia,14,JJ Smit,N Pokana,CG Williams,,0,4,4,,,,31758231758
+1,Namibia,14,JJ Smit,N Pokana,CG Williams,,0,1,1,,,,31758231758
+1,Namibia,14,CG Williams,N Pokana,JJ Smit,,0,2,2,,,,31758231758
+1,Namibia,14,CG Williams,N Pokana,JJ Smit,wides,1,1,0,,,,31758231758
+1,Namibia,14,CG Williams,N Pokana,JJ Smit,,0,1,1,,,,31758231758
+1,Namibia,14,JJ Smit,N Pokana,CG Williams,wides,1,1,0,,,,31758231758
+1,Namibia,14,JJ Smit,N Pokana,CG Williams,,0,1,1,,,,31758231758
+1,Namibia,15,JJ Smit,CJA Amini,CG Williams,,0,0,0,,,,31758231758
+1,Namibia,15,JJ Smit,CJA Amini,CG Williams,,0,1,1,,,,31758231758
+1,Namibia,15,CG Williams,CJA Amini,JJ Smit,,0,4,4,,,,31758231758
+1,Namibia,15,CG Williams,CJA Amini,JJ Smit,,0,1,1,,,,31758231758
+1,Namibia,15,JJ Smit,CJA Amini,CG Williams,,0,0,0,,,,31758231758
+1,Namibia,15,JJ Smit,CJA Amini,CG Williams,,0,2,2,,,,31758231758
+1,Namibia,16,CG Williams,D Ravu,JJ Smit,,0,1,1,,,,31758231758
+1,Namibia,16,JJ Smit,D Ravu,CG Williams,,0,6,6,,,,31758231758
+1,Namibia,16,JJ Smit,D Ravu,CG Williams,,0,4,4,,,,31758231758
+1,Namibia,16,JJ Smit,D Ravu,CG Williams,,0,1,1,,,,31758231758
+1,Namibia,16,CG Williams,D Ravu,JJ Smit,,0,4,4,,,,31758231758
+1,Namibia,16,CG Williams,D Ravu,JJ Smit,,0,2,2,,,,31758231758
+1,Namibia,17,JJ Smit,CA Soper,CG Williams,,0,1,1,,,,31758231758
+1,Namibia,17,CG Williams,CA Soper,JJ Smit,,0,2,2,,,,31758231758
+1,Namibia,17,CG Williams,CA Soper,JJ Smit,,0,1,1,,,,31758231758
+1,Namibia,17,JJ Smit,CA Soper,CG Williams,,0,0,0,,,,31758231758
+1,Namibia,17,JJ Smit,CA Soper,CG Williams,,0,1,1,,,,31758231758
+1,Namibia,17,CG Williams,CA Soper,JJ Smit,,0,6,6,,,,31758231758
+1,Namibia,18,JJ Smit,N Pokana,CG Williams,,0,1,1,,,,31758231758
+1,Namibia,18,CG Williams,N Pokana,JJ Smit,,0,2,2,,,,31758231758
+1,Namibia,18,CG Williams,N Pokana,JJ Smit,,0,0,0,caught,CG Williams,TP Ura,31758231758
+1,Namibia,18,HN Ya France,N Pokana,JJ Smit,,0,4,4,,,,31758231758
+1,Namibia,18,HN Ya France,N Pokana,JJ Smit,,0,1,1,,,,31758231758
+1,Namibia,18,JJ Smit,N Pokana,HN Ya France,,0,6,6,,,,31758231758
+1,Namibia,19,HN Ya France,CA Soper,JJ Smit,,0,3,3,,,,31758231758
+1,Namibia,19,JJ Smit,CA Soper,HN Ya France,,0,0,0,bowled,JJ Smit,,31758231758
+1,Namibia,19,JN Frylinck,CA Soper,HN Ya France,,0,2,2,,,,31758231758
+1,Namibia,19,JN Frylinck,CA Soper,HN Ya France,,0,6,6,,,,31758231758
+1,Namibia,19,JN Frylinck,CA Soper,HN Ya France,,0,1,1,,,,31758231758
+1,Namibia,19,HN Ya France,CA Soper,JN Frylinck,,0,1,1,,,,31758231758

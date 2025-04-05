@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Scotland,0,HG Munsey,Mohammad Nawaz (3),KJ Coetzer,,0,1,1,,,,379223792
+2,Scotland,0,KJ Coetzer,Mohammad Nawaz (3),HG Munsey,,0,1,1,,,,379223792
+2,Scotland,0,HG Munsey,Mohammad Nawaz (3),KJ Coetzer,,0,6,6,,,,379223792
+2,Scotland,0,HG Munsey,Mohammad Nawaz (3),KJ Coetzer,,0,0,0,,,,379223792
+2,Scotland,0,HG Munsey,Mohammad Nawaz (3),KJ Coetzer,,0,0,0,,,,379223792
+2,Scotland,0,HG Munsey,Mohammad Nawaz (3),KJ Coetzer,,0,1,1,,,,379223792
+2,Scotland,1,HG Munsey,Mohammad Amir,KJ Coetzer,,0,2,2,,,,379223792
+2,Scotland,1,HG Munsey,Mohammad Amir,KJ Coetzer,,0,0,0,,,,379223792
+2,Scotland,1,HG Munsey,Mohammad Amir,KJ Coetzer,,0,1,1,,,,379223792
+2,Scotland,1,KJ Coetzer,Mohammad Amir,HG Munsey,,0,4,4,,,,379223792
+2,Scotland,1,KJ Coetzer,Mohammad Amir,HG Munsey,,0,6,6,,,,379223792
+2,Scotland,1,KJ Coetzer,Mohammad Amir,HG Munsey,,0,0,0,,,,379223792
+2,Scotland,2,HG Munsey,Hasan Ali,KJ Coetzer,,0,0,0,,,,379223792
+2,Scotland,2,HG Munsey,Hasan Ali,KJ Coetzer,wides,1,1,0,,,,379223792
+2,Scotland,2,HG Munsey,Hasan Ali,KJ Coetzer,,0,4,4,,,,379223792
+2,Scotland,2,HG Munsey,Hasan Ali,KJ Coetzer,,0,1,1,,,,379223792
+2,Scotland,2,KJ Coetzer,Hasan Ali,HG Munsey,,0,1,1,,,,379223792
+2,Scotland,2,HG Munsey,Hasan Ali,KJ Coetzer,,0,0,0,,,,379223792
+2,Scotland,2,HG Munsey,Hasan Ali,KJ Coetzer,,0,1,1,,,,379223792
+2,Scotland,3,HG Munsey,Faheem Ashraf,KJ Coetzer,,0,0,0,,,,379223792
+2,Scotland,3,HG Munsey,Faheem Ashraf,KJ Coetzer,noballs,1,1,0,,,,379223792
+2,Scotland,3,HG Munsey,Faheem Ashraf,KJ Coetzer,,0,4,4,,,,379223792
+2,Scotland,3,HG Munsey,Faheem Ashraf,KJ Coetzer,legbyes,4,4,0,,,,379223792
+2,Scotland,3,HG Munsey,Faheem Ashraf,KJ Coetzer,,0,1,1,,,,379223792
+2,Scotland,3,KJ Coetzer,Faheem Ashraf,HG Munsey,,0,4,4,,,,379223792
+2,Scotland,3,KJ Coetzer,Faheem Ashraf,HG Munsey,,0,0,0,,,,379223792
+2,Scotland,4,HG Munsey,Mohammad Amir,KJ Coetzer,,0,1,1,,,,379223792
+2,Scotland,4,KJ Coetzer,Mohammad Amir,HG Munsey,,0,4,4,,,,379223792
+2,Scotland,4,KJ Coetzer,Mohammad Amir,HG Munsey,,0,1,1,,,,379223792
+2,Scotland,4,HG Munsey,Mohammad Amir,KJ Coetzer,,0,1,1,,,,379223792
+2,Scotland,4,KJ Coetzer,Mohammad Amir,HG Munsey,,0,1,1,,,,379223792
+2,Scotland,4,HG Munsey,Mohammad Amir,KJ Coetzer,,0,1,1,,,,379223792
+2,Scotland,5,HG Munsey,Hasan Ali,KJ Coetzer,,0,0,0,caught,HG Munsey,Sarfraz Ahmed,379223792
+2,Scotland,5,RD Berrington,Hasan Ali,KJ Coetzer,,0,0,0,,,,379223792
+2,Scotland,5,RD Berrington,Hasan Ali,KJ Coetzer,,0,0,0,,,,379223792
+2,Scotland,5,RD Berrington,Hasan Ali,KJ Coetzer,,0,1,1,,,,379223792
+2,Scotland,5,KJ Coetzer,Hasan Ali,RD Berrington,,0,0,0,,,,379223792
+2,Scotland,5,KJ Coetzer,Hasan Ali,RD Berrington,,0,2,2,,,,379223792
+2,Scotland,6,RD Berrington,Mohammad Nawaz (3),KJ Coetzer,,0,1,1,,,,379223792
+2,Scotland,6,KJ Coetzer,Mohammad Nawaz (3),RD Berrington,,0,4,4,,,,379223792
+2,Scotland,6,KJ Coetzer,Mohammad Nawaz (3),RD Berrington,,0,0,0,,,,379223792
+2,Scotland,6,KJ Coetzer,Mohammad Nawaz (3),RD Berrington,,0,1,1,,,,379223792
+2,Scotland,6,RD Berrington,Mohammad Nawaz (3),KJ Coetzer,,0,0,0,,,,379223792
+2,Scotland,6,RD Berrington,Mohammad Nawaz (3),KJ Coetzer,,0,1,1,,,,379223792
+2,Scotland,7,RD Berrington,Shadab Khan,KJ Coetzer,,0,0,0,bowled,RD Berrington,,379223792
+2,Scotland,7,CS MacLeod,Shadab Khan,KJ Coetzer,,0,0,0,,,,379223792
+2,Scotland,7,CS MacLeod,Shadab Khan,KJ Coetzer,,0,1,1,,,,379223792
+2,Scotland,7,KJ Coetzer,Shadab Khan,CS MacLeod,,0,1,1,,,,379223792
+2,Scotland,7,CS MacLeod,Shadab Khan,KJ Coetzer,,0,0,0,,,,379223792
+2,Scotland,7,CS MacLeod,Shadab Khan,KJ Coetzer,,0,1,1,,,,379223792
+2,Scotland,8,CS MacLeod,Mohammad Nawaz (3),KJ Coetzer,,0,1,1,,,,379223792
+2,Scotland,8,KJ Coetzer,Mohammad Nawaz (3),CS MacLeod,,0,1,1,,,,379223792
+2,Scotland,8,CS MacLeod,Mohammad Nawaz (3),KJ Coetzer,,0,0,0,,,,379223792
+2,Scotland,8,CS MacLeod,Mohammad Nawaz (3),KJ Coetzer,,0,0,0,,,,379223792
+2,Scotland,8,CS MacLeod,Mohammad Nawaz (3),KJ Coetzer,,0,1,1,,,,379223792
+2,Scotland,8,KJ Coetzer,Mohammad Nawaz (3),CS MacLeod,,0,0,0,caught,KJ Coetzer,Asif Ali,379223792
+2,Scotland,9,DE Budge,Shadab Khan,CS MacLeod,,0,0,0,,,,379223792
+2,Scotland,9,DE Budge,Shadab Khan,CS MacLeod,,0,1,1,,,,379223792
+2,Scotland,9,CS MacLeod,Shadab Khan,DE Budge,,0,4,4,,,,379223792
+2,Scotland,9,CS MacLeod,Shadab Khan,DE Budge,,0,2,2,,,,379223792
+2,Scotland,9,CS MacLeod,Shadab Khan,DE Budge,,0,1,1,,,,379223792
+2,Scotland,9,DE Budge,Shadab Khan,CS MacLeod,,0,1,1,,,,379223792
+2,Scotland,10,DE Budge,Mohammad Nawaz (3),CS MacLeod,,0,1,1,,,,379223792
+2,Scotland,10,CS MacLeod,Mohammad Nawaz (3),DE Budge,,0,0,0,,,,379223792
+2,Scotland,10,CS MacLeod,Mohammad Nawaz (3),DE Budge,,0,1,1,,,,379223792
+2,Scotland,10,DE Budge,Mohammad Nawaz (3),CS MacLeod,,0,0,0,,,,379223792
+2,Scotland,10,DE Budge,Mohammad Nawaz (3),CS MacLeod,,0,0,0,,,,379223792
+2,Scotland,10,DE Budge,Mohammad Nawaz (3),CS MacLeod,,0,1,1,,,,379223792
+2,Scotland,11,DE Budge,Shadab Khan,CS MacLeod,,0,1,1,,,,379223792
+2,Scotland,11,CS MacLeod,Shadab Khan,DE Budge,,0,0,0,,,,379223792
+2,Scotland,11,CS MacLeod,Shadab Khan,DE Budge,,0,0,0,lbw,CS MacLeod,,379223792
+2,Scotland,11,MA Leask,Shadab Khan,DE Budge,,0,1,1,,,,379223792
+2,Scotland,11,DE Budge,Shadab Khan,MA Leask,,0,1,1,,,,379223792
+2,Scotland,11,MA Leask,Shadab Khan,DE Budge,,0,0,0,,,,379223792
+2,Scotland,12,DE Budge,Faheem Ashraf,MA Leask,,0,0,0,,,,379223792
+2,Scotland,12,DE Budge,Faheem Ashraf,MA Leask,,0,1,1,,,,379223792
+2,Scotland,12,MA Leask,Faheem Ashraf,DE Budge,,0,0,0,,,,379223792
+2,Scotland,12,MA Leask,Faheem Ashraf,DE Budge,,0,1,1,,,,379223792
+2,Scotland,12,DE Budge,Faheem Ashraf,MA Leask,,0,0,0,,,,379223792
+2,Scotland,12,DE Budge,Faheem Ashraf,MA Leask,,0,1,1,,,,379223792
+2,Scotland,13,DE Budge,Shadab Khan,MA Leask,,0,1,1,,,,379223792
+2,Scotland,13,MA Leask,Shadab Khan,DE Budge,,0,1,1,,,,379223792
+2,Scotland,13,DE Budge,Shadab Khan,MA Leask,,0,6,6,,,,379223792
+2,Scotland,13,DE Budge,Shadab Khan,MA Leask,,0,1,1,,,,379223792
+2,Scotland,13,MA Leask,Shadab Khan,DE Budge,,0,0,0,,,,379223792
+2,Scotland,13,MA Leask,Shadab Khan,DE Budge,,0,1,1,,,,379223792
+2,Scotland,14,MA Leask,Faheem Ashraf,DE Budge,,0,1,1,,,,379223792
+2,Scotland,14,DE Budge,Faheem Ashraf,MA Leask,,0,1,1,,,,379223792
+2,Scotland,14,MA Leask,Faheem Ashraf,DE Budge,,0,1,1,,,,379223792
+2,Scotland,14,DE Budge,Faheem Ashraf,MA Leask,,0,0,0,,,,379223792
+2,Scotland,14,DE Budge,Faheem Ashraf,MA Leask,,0,6,6,,,,379223792
+2,Scotland,14,DE Budge,Faheem Ashraf,MA Leask,,0,1,1,,,,379223792
+2,Scotland,15,DE Budge,Mohammad Amir,MA Leask,,0,0,0,caught,DE Budge,Faheem Ashraf,379223792
+2,Scotland,15,MA Leask,Mohammad Amir,MH Cross,,0,1,1,,,,379223792
+2,Scotland,15,MH Cross,Mohammad Amir,MA Leask,,0,1,1,,,,379223792
+2,Scotland,15,MA Leask,Mohammad Amir,MH Cross,,0,0,0,,,,379223792
+2,Scotland,15,MA Leask,Mohammad Amir,MH Cross,,0,1,1,,,,379223792
+2,Scotland,15,MH Cross,Mohammad Amir,MA Leask,,0,1,1,,,,379223792
+2,Scotland,16,MH Cross,Hasan Ali,MA Leask,,0,0,0,,,,379223792
+2,Scotland,16,MH Cross,Hasan Ali,MA Leask,,0,0,0,,,,379223792
+2,Scotland,16,MH Cross,Hasan Ali,MA Leask,,0,1,1,,,,379223792
+2,Scotland,16,MA Leask,Hasan Ali,MH Cross,wides,1,1,0,,,,379223792
+2,Scotland,16,MA Leask,Hasan Ali,MH Cross,,0,4,4,,,,379223792
+2,Scotland,16,MA Leask,Hasan Ali,MH Cross,,0,2,2,,,,379223792
+2,Scotland,16,MA Leask,Hasan Ali,MH Cross,,0,6,6,,,,379223792
+2,Scotland,17,MH Cross,Mohammad Amir,MA Leask,,0,4,4,,,,379223792
+2,Scotland,17,MH Cross,Mohammad Amir,MA Leask,,0,1,1,,,,379223792
+2,Scotland,17,MA Leask,Mohammad Amir,MH Cross,,0,6,6,,,,379223792
+2,Scotland,17,MA Leask,Mohammad Amir,MH Cross,,0,4,4,,,,379223792
+2,Scotland,17,MA Leask,Mohammad Amir,MH Cross,,0,0,0,,,,379223792
+2,Scotland,17,MA Leask,Mohammad Amir,MH Cross,,0,4,4,,,,379223792
+2,Scotland,18,MH Cross,Hasan Ali,MA Leask,,0,4,4,,,,379223792
+2,Scotland,18,MH Cross,Hasan Ali,MA Leask,,0,1,1,,,,379223792
+2,Scotland,18,MA Leask,Hasan Ali,MH Cross,,0,1,1,,,,379223792
+2,Scotland,18,MH Cross,Hasan Ali,MA Leask,,0,0,0,caught,MH Cross,Shoaib Malik,379223792
+2,Scotland,18,MA Leask,Hasan Ali,SM Sharif,,0,1,1,,,,379223792
+2,Scotland,18,SM Sharif,Hasan Ali,MA Leask,,0,1,1,,,,379223792
+2,Scotland,19,SM Sharif,Hussain Talat,MA Leask,,0,1,1,,,,379223792
+2,Scotland,19,MA Leask,Hussain Talat,SM Sharif,,0,1,1,,,,379223792
+2,Scotland,19,SM Sharif,Hussain Talat,MA Leask,,0,0,0,,,,379223792
+2,Scotland,19,SM Sharif,Hussain Talat,MA Leask,,0,1,1,,,,379223792
+2,Scotland,19,MA Leask,Hussain Talat,SM Sharif,,0,0,0,,,,379223792
+2,Scotland,19,MA Leask,Hussain Talat,SM Sharif,,0,1,1,,,,379223792

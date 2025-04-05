@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Uganda,0,RG Mukasa,SI Kamea,S Sesazi,,0,0,0,,,,32185232185
+1,Uganda,0,RG Mukasa,SI Kamea,S Sesazi,,0,2,2,,,,32185232185
+1,Uganda,0,RG Mukasa,SI Kamea,S Sesazi,,0,1,1,,,,32185232185
+1,Uganda,0,S Sesazi,SI Kamea,RG Mukasa,,0,1,1,,,,32185232185
+1,Uganda,0,RG Mukasa,SI Kamea,S Sesazi,,0,0,0,,,,32185232185
+1,Uganda,0,RG Mukasa,SI Kamea,S Sesazi,,0,0,0,,,,32185232185
+1,Uganda,1,S Sesazi,D Ravu,RG Mukasa,,0,0,0,,,,32185232185
+1,Uganda,1,S Sesazi,D Ravu,RG Mukasa,,0,0,0,,,,32185232185
+1,Uganda,1,S Sesazi,D Ravu,RG Mukasa,,0,1,1,,,,32185232185
+1,Uganda,1,RG Mukasa,D Ravu,S Sesazi,,0,0,0,,,,32185232185
+1,Uganda,1,RG Mukasa,D Ravu,S Sesazi,,0,0,0,,,,32185232185
+1,Uganda,1,RG Mukasa,D Ravu,S Sesazi,,0,1,1,,,,32185232185
+1,Uganda,2,RG Mukasa,SI Kamea,S Sesazi,,0,4,4,,,,32185232185
+1,Uganda,2,RG Mukasa,SI Kamea,S Sesazi,,0,1,1,,,,32185232185
+1,Uganda,2,S Sesazi,SI Kamea,RG Mukasa,,0,1,1,,,,32185232185
+1,Uganda,2,RG Mukasa,SI Kamea,S Sesazi,,0,0,0,,,,32185232185
+1,Uganda,2,RG Mukasa,SI Kamea,S Sesazi,,0,0,0,caught,RG Mukasa,HGV Vare,32185232185
+1,Uganda,2,RB Patel,SI Kamea,S Sesazi,,0,0,0,,,,32185232185
+1,Uganda,3,S Sesazi,D Ravu,RB Patel,,0,2,2,,,,32185232185
+1,Uganda,3,S Sesazi,D Ravu,RB Patel,,0,0,0,,,,32185232185
+1,Uganda,3,S Sesazi,D Ravu,RB Patel,,0,2,2,,,,32185232185
+1,Uganda,3,S Sesazi,D Ravu,RB Patel,,0,4,4,,,,32185232185
+1,Uganda,3,S Sesazi,D Ravu,RB Patel,,0,4,4,,,,32185232185
+1,Uganda,3,S Sesazi,D Ravu,RB Patel,,0,0,0,,,,32185232185
+1,Uganda,4,RB Patel,N Vanua,S Sesazi,,0,1,1,,,,32185232185
+1,Uganda,4,S Sesazi,N Vanua,RB Patel,,0,0,0,,,,32185232185
+1,Uganda,4,S Sesazi,N Vanua,RB Patel,,0,0,0,,,,32185232185
+1,Uganda,4,S Sesazi,N Vanua,RB Patel,,0,2,2,,,,32185232185
+1,Uganda,4,S Sesazi,N Vanua,RB Patel,,0,0,0,,,,32185232185
+1,Uganda,4,S Sesazi,N Vanua,RB Patel,,0,0,0,,,,32185232185
+1,Uganda,5,RB Patel,R Hekure,S Sesazi,,0,0,0,,,,32185232185
+1,Uganda,5,RB Patel,R Hekure,S Sesazi,,0,0,0,,,,32185232185
+1,Uganda,5,RB Patel,R Hekure,S Sesazi,,0,1,1,,,,32185232185
+1,Uganda,5,S Sesazi,R Hekure,RB Patel,,0,0,0,,,,32185232185
+1,Uganda,5,S Sesazi,R Hekure,RB Patel,,0,4,4,,,,32185232185
+1,Uganda,5,S Sesazi,R Hekure,RB Patel,,0,0,0,,,,32185232185
+1,Uganda,6,RB Patel,N Vanua,S Sesazi,,0,0,0,lbw,RB Patel,,32185232185
+1,Uganda,6,Riazat Ali Shah,N Vanua,S Sesazi,,0,0,0,,,,32185232185
+1,Uganda,6,Riazat Ali Shah,N Vanua,S Sesazi,,0,0,0,,,,32185232185
+1,Uganda,6,Riazat Ali Shah,N Vanua,S Sesazi,,0,1,1,,,,32185232185
+1,Uganda,6,S Sesazi,N Vanua,Riazat Ali Shah,,0,6,6,,,,32185232185
+1,Uganda,6,S Sesazi,N Vanua,Riazat Ali Shah,,0,2,2,,,,32185232185
+1,Uganda,7,Riazat Ali Shah,R Hekure,S Sesazi,,0,0,0,,,,32185232185
+1,Uganda,7,Riazat Ali Shah,R Hekure,S Sesazi,,0,0,0,,,,32185232185
+1,Uganda,7,Riazat Ali Shah,R Hekure,S Sesazi,,0,1,1,,,,32185232185
+1,Uganda,7,S Sesazi,R Hekure,Riazat Ali Shah,,0,1,1,,,,32185232185
+1,Uganda,7,Riazat Ali Shah,R Hekure,S Sesazi,,0,0,0,,,,32185232185
+1,Uganda,7,Riazat Ali Shah,R Hekure,S Sesazi,,0,1,1,,,,32185232185
+1,Uganda,8,Riazat Ali Shah,CJA Amini,S Sesazi,,0,1,1,,,,32185232185
+1,Uganda,8,S Sesazi,CJA Amini,Riazat Ali Shah,,0,1,1,,,,32185232185
+1,Uganda,8,Riazat Ali Shah,CJA Amini,S Sesazi,,0,0,0,,,,32185232185
+1,Uganda,8,Riazat Ali Shah,CJA Amini,S Sesazi,,0,1,1,,,,32185232185
+1,Uganda,8,S Sesazi,CJA Amini,Riazat Ali Shah,,0,0,0,,,,32185232185
+1,Uganda,8,S Sesazi,CJA Amini,Riazat Ali Shah,,0,0,0,,,,32185232185
+1,Uganda,9,Riazat Ali Shah,A Vala,S Sesazi,,0,0,0,,,,32185232185
+1,Uganda,9,Riazat Ali Shah,A Vala,S Sesazi,,0,1,1,,,,32185232185
+1,Uganda,9,S Sesazi,A Vala,Riazat Ali Shah,,0,0,0,,,,32185232185
+1,Uganda,9,S Sesazi,A Vala,Riazat Ali Shah,,0,4,4,,,,32185232185
+1,Uganda,9,S Sesazi,A Vala,Riazat Ali Shah,,0,1,1,,,,32185232185
+1,Uganda,9,Riazat Ali Shah,A Vala,S Sesazi,wides,1,1,0,,,,32185232185
+1,Uganda,9,Riazat Ali Shah,A Vala,S Sesazi,,0,1,1,,,,32185232185
+1,Uganda,10,Riazat Ali Shah,CJA Amini,S Sesazi,,0,1,1,,,,32185232185
+1,Uganda,10,S Sesazi,CJA Amini,Riazat Ali Shah,,0,6,6,,,,32185232185
+1,Uganda,10,S Sesazi,CJA Amini,Riazat Ali Shah,,0,1,1,,,,32185232185
+1,Uganda,10,Riazat Ali Shah,CJA Amini,S Sesazi,,0,0,0,,,,32185232185
+1,Uganda,10,Riazat Ali Shah,CJA Amini,S Sesazi,,0,0,0,,,,32185232185
+1,Uganda,10,Riazat Ali Shah,CJA Amini,S Sesazi,,0,0,0,,,,32185232185
+1,Uganda,11,S Sesazi,R Hekure,Riazat Ali Shah,,0,1,1,,,,32185232185
+1,Uganda,11,Riazat Ali Shah,R Hekure,S Sesazi,,0,0,0,,,,32185232185
+1,Uganda,11,Riazat Ali Shah,R Hekure,S Sesazi,,0,0,0,,,,32185232185
+1,Uganda,11,Riazat Ali Shah,R Hekure,S Sesazi,,0,1,1,,,,32185232185
+1,Uganda,11,S Sesazi,R Hekure,Riazat Ali Shah,,0,1,1,,,,32185232185
+1,Uganda,11,Riazat Ali Shah,R Hekure,S Sesazi,,0,2,2,,,,32185232185
+1,Uganda,12,S Sesazi,SI Kamea,Riazat Ali Shah,wides,1,1,0,,,,32185232185
+1,Uganda,12,S Sesazi,SI Kamea,Riazat Ali Shah,,0,1,1,,,,32185232185
+1,Uganda,12,Riazat Ali Shah,SI Kamea,S Sesazi,,0,1,1,,,,32185232185
+1,Uganda,12,S Sesazi,SI Kamea,Riazat Ali Shah,,0,4,4,,,,32185232185
+1,Uganda,12,S Sesazi,SI Kamea,Riazat Ali Shah,,0,1,1,,,,32185232185
+1,Uganda,12,Riazat Ali Shah,SI Kamea,S Sesazi,,0,1,1,,,,32185232185
+1,Uganda,12,S Sesazi,SI Kamea,Riazat Ali Shah,,0,1,1,,,,32185232185
+1,Uganda,13,S Sesazi,R Hekure,Riazat Ali Shah,,0,1,1,,,,32185232185
+1,Uganda,13,Riazat Ali Shah,R Hekure,S Sesazi,,0,1,1,,,,32185232185
+1,Uganda,13,S Sesazi,R Hekure,Riazat Ali Shah,,0,1,1,,,,32185232185
+1,Uganda,13,Riazat Ali Shah,R Hekure,S Sesazi,,0,1,1,,,,32185232185
+1,Uganda,13,S Sesazi,R Hekure,Riazat Ali Shah,,0,1,1,,,,32185232185
+1,Uganda,13,Riazat Ali Shah,R Hekure,S Sesazi,,0,1,1,,,,32185232185
+1,Uganda,14,Riazat Ali Shah,D Ravu,S Sesazi,,0,6,6,,,,32185232185
+1,Uganda,14,Riazat Ali Shah,D Ravu,S Sesazi,,0,0,0,,,,32185232185
+1,Uganda,14,Riazat Ali Shah,D Ravu,S Sesazi,,0,4,4,,,,32185232185
+1,Uganda,14,Riazat Ali Shah,D Ravu,S Sesazi,,0,1,1,,,,32185232185
+1,Uganda,14,S Sesazi,D Ravu,Riazat Ali Shah,,0,0,0,,,,32185232185
+1,Uganda,14,S Sesazi,D Ravu,Riazat Ali Shah,,0,4,4,,,,32185232185
+1,Uganda,15,Riazat Ali Shah,N Vanua,S Sesazi,,0,1,1,,,,32185232185
+1,Uganda,15,S Sesazi,N Vanua,Riazat Ali Shah,,0,1,1,,,,32185232185
+1,Uganda,15,Riazat Ali Shah,N Vanua,S Sesazi,,0,4,4,,,,32185232185
+1,Uganda,15,Riazat Ali Shah,N Vanua,S Sesazi,,0,4,4,,,,32185232185
+1,Uganda,15,Riazat Ali Shah,N Vanua,S Sesazi,,0,1,1,,,,32185232185
+1,Uganda,15,S Sesazi,N Vanua,Riazat Ali Shah,,0,6,6,,,,32185232185
+1,Uganda,16,Riazat Ali Shah,SI Kamea,S Sesazi,,0,0,0,,,,32185232185
+1,Uganda,16,Riazat Ali Shah,SI Kamea,S Sesazi,,0,2,2,,,,32185232185
+1,Uganda,16,Riazat Ali Shah,SI Kamea,S Sesazi,wides,1,1,0,,,,32185232185
+1,Uganda,16,Riazat Ali Shah,SI Kamea,S Sesazi,,0,1,1,,,,32185232185
+1,Uganda,16,S Sesazi,SI Kamea,Riazat Ali Shah,,0,4,4,,,,32185232185
+1,Uganda,16,S Sesazi,SI Kamea,Riazat Ali Shah,,0,1,1,,,,32185232185
+1,Uganda,16,Riazat Ali Shah,SI Kamea,S Sesazi,,0,1,1,,,,32185232185
+1,Uganda,17,Riazat Ali Shah,D Ravu,S Sesazi,,0,0,0,,,,32185232185
+1,Uganda,17,Riazat Ali Shah,D Ravu,S Sesazi,,0,6,6,,,,32185232185
+1,Uganda,17,Riazat Ali Shah,D Ravu,S Sesazi,,0,0,0,,,,32185232185
+1,Uganda,17,Riazat Ali Shah,D Ravu,S Sesazi,,0,1,1,,,,32185232185
+1,Uganda,17,S Sesazi,D Ravu,Riazat Ali Shah,,0,6,6,,,,32185232185
+1,Uganda,17,S Sesazi,D Ravu,Riazat Ali Shah,,0,1,1,,,,32185232185
+1,Uganda,18,S Sesazi,CJA Amini,Riazat Ali Shah,,0,0,0,caught,S Sesazi,N Vanua,32185232185
+1,Uganda,18,DM Nakrani,CJA Amini,Riazat Ali Shah,,0,1,1,,,,32185232185
+1,Uganda,18,Riazat Ali Shah,CJA Amini,DM Nakrani,,0,0,0,caught,Riazat Ali Shah,L Siaka,32185232185
+1,Uganda,18,F Akankwasa,CJA Amini,DM Nakrani,,0,1,1,,,,32185232185
+1,Uganda,18,DM Nakrani,CJA Amini,F Akankwasa,,0,6,6,,,,32185232185
+1,Uganda,18,DM Nakrani,CJA Amini,F Akankwasa,,0,1,1,,,,32185232185
+1,Uganda,19,DM Nakrani,N Vanua,F Akankwasa,,0,1,1,,,,32185232185
+1,Uganda,19,F Akankwasa,N Vanua,DM Nakrani,,0,1,1,,,,32185232185
+1,Uganda,19,DM Nakrani,N Vanua,F Akankwasa,,0,4,4,,,,32185232185
+1,Uganda,19,DM Nakrani,N Vanua,F Akankwasa,,0,0,0,,,,32185232185
+1,Uganda,19,DM Nakrani,N Vanua,F Akankwasa,byes,1,1,0,,,,32185232185
+1,Uganda,19,F Akankwasa,N Vanua,DM Nakrani,,0,4,4,,,,32185232185

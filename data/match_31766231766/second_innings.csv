@@ -1,0 +1,131 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Malta,0,B George,Ashwin Vinod,B Arora,legbyes,1,1,0,,,,31766231766
+2,Malta,0,B Arora,Ashwin Vinod,B George,,0,4,4,,,,31766231766
+2,Malta,0,B Arora,Ashwin Vinod,B George,,0,0,0,,,,31766231766
+2,Malta,0,B Arora,Ashwin Vinod,B George,,0,0,0,,,,31766231766
+2,Malta,0,B Arora,Ashwin Vinod,B George,,0,0,0,,,,31766231766
+2,Malta,0,B Arora,Ashwin Vinod,B George,,0,1,1,,,,31766231766
+2,Malta,1,B Arora,Ali Nayyer,B George,,0,0,0,,,,31766231766
+2,Malta,1,B Arora,Ali Nayyer,B George,,0,0,0,,,,31766231766
+2,Malta,1,B Arora,Ali Nayyer,B George,legbyes,1,1,0,,,,31766231766
+2,Malta,1,B George,Ali Nayyer,B Arora,,0,0,0,,,,31766231766
+2,Malta,1,B George,Ali Nayyer,B Arora,,0,1,1,,,,31766231766
+2,Malta,1,B Arora,Ali Nayyer,B George,,0,0,0,,,,31766231766
+2,Malta,2,B George,Ashwin Vinod,B Arora,,0,0,0,,,,31766231766
+2,Malta,2,B George,Ashwin Vinod,B Arora,,0,0,0,caught,B George,Idrees Ul Haque,31766231766
+2,Malta,2,HS Gericke,Ashwin Vinod,B Arora,,0,2,2,,,,31766231766
+2,Malta,2,HS Gericke,Ashwin Vinod,B Arora,,0,4,4,,,,31766231766
+2,Malta,2,HS Gericke,Ashwin Vinod,B Arora,,0,4,4,,,,31766231766
+2,Malta,2,HS Gericke,Ashwin Vinod,B Arora,,0,0,0,,,,31766231766
+2,Malta,3,B Arora,Ali Nayyer,HS Gericke,,0,0,0,,,,31766231766
+2,Malta,3,B Arora,Ali Nayyer,HS Gericke,,0,0,0,caught,B Arora,Idrees Ul Haque,31766231766
+2,Malta,3,SSM Stanislaus,Ali Nayyer,HS Gericke,,0,0,0,,,,31766231766
+2,Malta,3,SSM Stanislaus,Ali Nayyer,HS Gericke,,0,0,0,,,,31766231766
+2,Malta,3,SSM Stanislaus,Ali Nayyer,HS Gericke,,0,2,2,,,,31766231766
+2,Malta,3,SSM Stanislaus,Ali Nayyer,HS Gericke,wides,1,1,0,,,,31766231766
+2,Malta,3,SSM Stanislaus,Ali Nayyer,HS Gericke,,0,1,1,,,,31766231766
+2,Malta,4,SSM Stanislaus,Ashwin Vinod,HS Gericke,,0,0,0,caught,SSM Stanislaus,Arjun Vinod,31766231766
+2,Malta,4,VP Thamotharam,Ashwin Vinod,HS Gericke,,0,6,6,,,,31766231766
+2,Malta,4,VP Thamotharam,Ashwin Vinod,HS Gericke,,0,1,1,,,,31766231766
+2,Malta,4,HS Gericke,Ashwin Vinod,VP Thamotharam,,0,1,1,,,,31766231766
+2,Malta,4,VP Thamotharam,Ashwin Vinod,HS Gericke,,0,0,0,,,,31766231766
+2,Malta,4,VP Thamotharam,Ashwin Vinod,HS Gericke,,0,0,0,,,,31766231766
+2,Malta,5,HS Gericke,Osama Mahmood,VP Thamotharam,,0,2,2,,,,31766231766
+2,Malta,5,HS Gericke,Osama Mahmood,VP Thamotharam,,0,6,6,,,,31766231766
+2,Malta,5,HS Gericke,Osama Mahmood,VP Thamotharam,,0,4,4,,,,31766231766
+2,Malta,5,HS Gericke,Osama Mahmood,VP Thamotharam,,0,0,0,caught,HS Gericke,S Franklin,31766231766
+2,Malta,5,VP Thamotharam,Osama Mahmood,Aaftab Alam Khan,,0,0,0,,,,31766231766
+2,Malta,5,VP Thamotharam,Osama Mahmood,Aaftab Alam Khan,,0,1,1,,,,31766231766
+2,Malta,6,VP Thamotharam,S Franklin,Aaftab Alam Khan,,0,1,1,,,,31766231766
+2,Malta,6,Aaftab Alam Khan,S Franklin,VP Thamotharam,,0,1,1,,,,31766231766
+2,Malta,6,VP Thamotharam,S Franklin,Aaftab Alam Khan,wides,1,1,0,,,,31766231766
+2,Malta,6,VP Thamotharam,S Franklin,Aaftab Alam Khan,wides,2,2,0,,,,31766231766
+2,Malta,6,Aaftab Alam Khan,S Franklin,VP Thamotharam,,0,1,1,,,,31766231766
+2,Malta,6,VP Thamotharam,S Franklin,Aaftab Alam Khan,,0,1,1,,,,31766231766
+2,Malta,6,Aaftab Alam Khan,S Franklin,VP Thamotharam,wides,1,1,0,,,,31766231766
+2,Malta,6,Aaftab Alam Khan,S Franklin,VP Thamotharam,,0,1,1,,,,31766231766
+2,Malta,6,VP Thamotharam,S Franklin,Aaftab Alam Khan,,0,1,1,,,,31766231766
+2,Malta,7,VP Thamotharam,NK Aneesh Kumar,Aaftab Alam Khan,,0,0,0,,,,31766231766
+2,Malta,7,VP Thamotharam,NK Aneesh Kumar,Aaftab Alam Khan,,0,0,0,,,,31766231766
+2,Malta,7,VP Thamotharam,NK Aneesh Kumar,Aaftab Alam Khan,legbyes,1,1,0,,,,31766231766
+2,Malta,7,Aaftab Alam Khan,NK Aneesh Kumar,VP Thamotharam,,0,0,0,,,,31766231766
+2,Malta,7,Aaftab Alam Khan,NK Aneesh Kumar,VP Thamotharam,wides,1,1,0,,,,31766231766
+2,Malta,7,Aaftab Alam Khan,NK Aneesh Kumar,VP Thamotharam,,0,0,0,,,,31766231766
+2,Malta,7,Aaftab Alam Khan,NK Aneesh Kumar,VP Thamotharam,legbyes,1,1,0,,,,31766231766
+2,Malta,8,Aaftab Alam Khan,Osama Mahmood,VP Thamotharam,wides,1,1,0,,,,31766231766
+2,Malta,8,Aaftab Alam Khan,Osama Mahmood,VP Thamotharam,,0,0,0,caught,Aaftab Alam Khan,Idrees Ul Haque,31766231766
+2,Malta,8,Amar Sharma,Osama Mahmood,VP Thamotharam,,0,0,0,,,,31766231766
+2,Malta,8,Amar Sharma,Osama Mahmood,VP Thamotharam,,0,0,0,,,,31766231766
+2,Malta,8,Amar Sharma,Osama Mahmood,VP Thamotharam,wides,1,1,0,,,,31766231766
+2,Malta,8,Amar Sharma,Osama Mahmood,VP Thamotharam,,0,0,0,,,,31766231766
+2,Malta,8,Amar Sharma,Osama Mahmood,VP Thamotharam,,0,1,1,,,,31766231766
+2,Malta,8,VP Thamotharam,Osama Mahmood,Amar Sharma,,0,0,0,,,,31766231766
+2,Malta,9,Amar Sharma,NK Aneesh Kumar,VP Thamotharam,,0,1,1,,,,31766231766
+2,Malta,9,VP Thamotharam,NK Aneesh Kumar,Amar Sharma,,0,0,0,,,,31766231766
+2,Malta,9,VP Thamotharam,NK Aneesh Kumar,Amar Sharma,,0,1,1,,,,31766231766
+2,Malta,9,Amar Sharma,NK Aneesh Kumar,VP Thamotharam,,0,0,0,,,,31766231766
+2,Malta,9,Amar Sharma,NK Aneesh Kumar,VP Thamotharam,,0,2,2,,,,31766231766
+2,Malta,9,Amar Sharma,NK Aneesh Kumar,VP Thamotharam,,0,1,1,,,,31766231766
+2,Malta,10,Amar Sharma,Arjun Vinod,VP Thamotharam,,0,0,0,,,,31766231766
+2,Malta,10,Amar Sharma,Arjun Vinod,VP Thamotharam,,0,0,0,,,,31766231766
+2,Malta,10,Amar Sharma,Arjun Vinod,VP Thamotharam,,0,0,0,,,,31766231766
+2,Malta,10,Amar Sharma,Arjun Vinod,VP Thamotharam,,0,1,1,,,,31766231766
+2,Malta,10,VP Thamotharam,Arjun Vinod,Amar Sharma,,0,6,6,,,,31766231766
+2,Malta,10,VP Thamotharam,Arjun Vinod,Amar Sharma,,0,0,0,,,,31766231766
+2,Malta,11,Amar Sharma,NK Aneesh Kumar,VP Thamotharam,,0,1,1,,,,31766231766
+2,Malta,11,VP Thamotharam,NK Aneesh Kumar,Amar Sharma,,0,1,1,,,,31766231766
+2,Malta,11,Amar Sharma,NK Aneesh Kumar,VP Thamotharam,legbyes,2,2,0,,,,31766231766
+2,Malta,11,Amar Sharma,NK Aneesh Kumar,VP Thamotharam,,0,0,0,,,,31766231766
+2,Malta,11,Amar Sharma,NK Aneesh Kumar,VP Thamotharam,,0,0,0,,,,31766231766
+2,Malta,11,Amar Sharma,NK Aneesh Kumar,VP Thamotharam,,0,0,0,,,,31766231766
+2,Malta,12,VP Thamotharam,Arjun Vinod,Amar Sharma,,0,0,0,,,,31766231766
+2,Malta,12,VP Thamotharam,Arjun Vinod,Amar Sharma,,0,1,1,,,,31766231766
+2,Malta,12,Amar Sharma,Arjun Vinod,VP Thamotharam,,0,0,0,,,,31766231766
+2,Malta,12,Amar Sharma,Arjun Vinod,VP Thamotharam,,0,2,2,,,,31766231766
+2,Malta,12,Amar Sharma,Arjun Vinod,VP Thamotharam,,0,4,4,,,,31766231766
+2,Malta,12,Amar Sharma,Arjun Vinod,VP Thamotharam,,0,0,0,,,,31766231766
+2,Malta,13,VP Thamotharam,NK Aneesh Kumar,Amar Sharma,,0,0,0,,,,31766231766
+2,Malta,13,VP Thamotharam,NK Aneesh Kumar,Amar Sharma,,0,0,0,,,,31766231766
+2,Malta,13,VP Thamotharam,NK Aneesh Kumar,Amar Sharma,legbyes,2,2,0,,,,31766231766
+2,Malta,13,VP Thamotharam,NK Aneesh Kumar,Amar Sharma,,0,1,1,,,,31766231766
+2,Malta,13,Amar Sharma,NK Aneesh Kumar,VP Thamotharam,,0,1,1,,,,31766231766
+2,Malta,13,VP Thamotharam,NK Aneesh Kumar,Amar Sharma,,0,0,0,,,,31766231766
+2,Malta,14,Amar Sharma,Ashwin Vinod,VP Thamotharam,,0,2,2,,,,31766231766
+2,Malta,14,Amar Sharma,Ashwin Vinod,VP Thamotharam,,0,1,1,,,,31766231766
+2,Malta,14,VP Thamotharam,Ashwin Vinod,Amar Sharma,,0,1,1,,,,31766231766
+2,Malta,14,Amar Sharma,Ashwin Vinod,VP Thamotharam,,0,0,0,caught,Amar Sharma,M Martin,31766231766
+2,Malta,14,N Khanna,Ashwin Vinod,VP Thamotharam,,0,2,2,,,,31766231766
+2,Malta,14,N Khanna,Ashwin Vinod,VP Thamotharam,,0,1,1,,,,31766231766
+2,Malta,15,N Khanna,Arjun Vinod,VP Thamotharam,,0,1,1,,,,31766231766
+2,Malta,15,VP Thamotharam,Arjun Vinod,N Khanna,,0,1,1,,,,31766231766
+2,Malta,15,N Khanna,Arjun Vinod,VP Thamotharam,,0,0,0,,,,31766231766
+2,Malta,15,N Khanna,Arjun Vinod,VP Thamotharam,,0,0,0,caught,N Khanna,NK Aneesh Kumar,31766231766
+2,Malta,15,VP Thamotharam,Arjun Vinod,Bilal Muhammad,,0,6,6,,,,31766231766
+2,Malta,15,VP Thamotharam,Arjun Vinod,Bilal Muhammad,,0,0,0,,,,31766231766
+2,Malta,16,Bilal Muhammad,Ali Nayyer,VP Thamotharam,,0,0,0,,,,31766231766
+2,Malta,16,Bilal Muhammad,Ali Nayyer,VP Thamotharam,,0,1,1,,,,31766231766
+2,Malta,16,VP Thamotharam,Ali Nayyer,Bilal Muhammad,,0,1,1,,,,31766231766
+2,Malta,16,Bilal Muhammad,Ali Nayyer,VP Thamotharam,,0,3,3,,,,31766231766
+2,Malta,16,VP Thamotharam,Ali Nayyer,Bilal Muhammad,,0,0,0,,,,31766231766
+2,Malta,16,VP Thamotharam,Ali Nayyer,Bilal Muhammad,,0,0,0,caught,VP Thamotharam,Osama Mahmood,31766231766
+2,Malta,17,Washeem Abbas,Osama Mahmood,Bilal Muhammad,,0,1,1,,,,31766231766
+2,Malta,17,Bilal Muhammad,Osama Mahmood,Washeem Abbas,wides,2,2,0,,,,31766231766
+2,Malta,17,Washeem Abbas,Osama Mahmood,Bilal Muhammad,,0,0,0,,,,31766231766
+2,Malta,17,Washeem Abbas,Osama Mahmood,Bilal Muhammad,,0,0,0,,,,31766231766
+2,Malta,17,Washeem Abbas,Osama Mahmood,Bilal Muhammad,,0,0,0,caught,Washeem Abbas,Ali Nayyer,31766231766
+2,Malta,17,Bilal Muhammad,Osama Mahmood,B Kalki Kumar,,0,2,2,,,,31766231766
+2,Malta,17,Bilal Muhammad,Osama Mahmood,B Kalki Kumar,,0,1,1,,,,31766231766
+2,Malta,18,Bilal Muhammad,Ali Nayyer,B Kalki Kumar,,0,0,0,,,,31766231766
+2,Malta,18,Bilal Muhammad,Ali Nayyer,B Kalki Kumar,,0,6,6,,,,31766231766
+2,Malta,18,Bilal Muhammad,Ali Nayyer,B Kalki Kumar,,0,6,6,,,,31766231766
+2,Malta,18,Bilal Muhammad,Ali Nayyer,B Kalki Kumar,,0,0,0,,,,31766231766
+2,Malta,18,Bilal Muhammad,Ali Nayyer,B Kalki Kumar,,0,0,0,,,,31766231766
+2,Malta,18,Bilal Muhammad,Ali Nayyer,B Kalki Kumar,,0,1,1,,,,31766231766
+2,Malta,19,Bilal Muhammad,Osama Mahmood,B Kalki Kumar,,0,0,0,,,,31766231766
+2,Malta,19,Bilal Muhammad,Osama Mahmood,B Kalki Kumar,,0,6,6,,,,31766231766
+2,Malta,19,Bilal Muhammad,Osama Mahmood,B Kalki Kumar,,0,0,0,,,,31766231766
+2,Malta,19,Bilal Muhammad,Osama Mahmood,B Kalki Kumar,wides,1,1,0,,,,31766231766
+2,Malta,19,Bilal Muhammad,Osama Mahmood,B Kalki Kumar,,0,6,6,,,,31766231766
+2,Malta,19,Bilal Muhammad,Osama Mahmood,B Kalki Kumar,wides,1,1,0,,,,31766231766
+2,Malta,19,Bilal Muhammad,Osama Mahmood,B Kalki Kumar,,0,2,2,,,,31766231766
+2,Malta,19,Bilal Muhammad,Osama Mahmood,B Kalki Kumar,,0,1,1,,,,31766231766

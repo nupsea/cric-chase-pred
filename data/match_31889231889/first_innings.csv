@@ -1,0 +1,138 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Nepal,0,K Shrestha,Aysha,SR Magar,,0,1,1,,,,31889231889
+1,Nepal,0,SR Magar,Aysha,K Shrestha,,0,1,1,,,,31889231889
+1,Nepal,0,K Shrestha,Aysha,SR Magar,,0,0,0,,,,31889231889
+1,Nepal,0,K Shrestha,Aysha,SR Magar,wides,1,1,0,,,,31889231889
+1,Nepal,0,K Shrestha,Aysha,SR Magar,,0,0,0,,,,31889231889
+1,Nepal,0,K Shrestha,Aysha,SR Magar,,0,0,0,,,,31889231889
+1,Nepal,0,K Shrestha,Aysha,SR Magar,wides,1,1,0,,,,31889231889
+1,Nepal,0,K Shrestha,Aysha,SR Magar,wides,1,1,0,,,,31889231889
+1,Nepal,0,K Shrestha,Aysha,SR Magar,,0,0,0,,,,31889231889
+1,Nepal,1,SR Magar,A Mare,K Shrestha,,0,0,0,,,,31889231889
+1,Nepal,1,SR Magar,A Mare,K Shrestha,,0,0,0,,,,31889231889
+1,Nepal,1,SR Magar,A Mare,K Shrestha,,0,1,1,,,,31889231889
+1,Nepal,1,K Shrestha,A Mare,SR Magar,,0,2,2,,,,31889231889
+1,Nepal,1,K Shrestha,A Mare,SR Magar,,0,0,0,caught and bowled,K Shrestha,,31889231889
+1,Nepal,1,I Barma,A Mare,SR Magar,,0,0,0,,,,31889231889
+1,Nepal,2,SR Magar,Aysha,I Barma,wides,1,1,0,,,,31889231889
+1,Nepal,2,SR Magar,Aysha,I Barma,,0,4,4,,,,31889231889
+1,Nepal,2,SR Magar,Aysha,I Barma,wides,1,1,0,,,,31889231889
+1,Nepal,2,SR Magar,Aysha,I Barma,,0,0,0,,,,31889231889
+1,Nepal,2,SR Magar,Aysha,I Barma,,0,0,0,,,,31889231889
+1,Nepal,2,SR Magar,Aysha,I Barma,,0,1,1,,,,31889231889
+1,Nepal,2,I Barma,Aysha,SR Magar,wides,1,1,0,,,,31889231889
+1,Nepal,2,I Barma,Aysha,SR Magar,,0,2,2,,,,31889231889
+1,Nepal,2,I Barma,Aysha,SR Magar,,0,1,1,,,,31889231889
+1,Nepal,3,I Barma,A Mare,SR Magar,,0,0,0,,,,31889231889
+1,Nepal,3,I Barma,A Mare,SR Magar,,0,1,1,,,,31889231889
+1,Nepal,3,SR Magar,A Mare,I Barma,wides,1,1,0,,,,31889231889
+1,Nepal,3,SR Magar,A Mare,I Barma,,0,4,4,,,,31889231889
+1,Nepal,3,SR Magar,A Mare,I Barma,wides,1,1,0,,,,31889231889
+1,Nepal,3,SR Magar,A Mare,I Barma,wides,1,1,0,,,,31889231889
+1,Nepal,3,SR Magar,A Mare,I Barma,wides,1,1,0,,,,31889231889
+1,Nepal,3,SR Magar,A Mare,I Barma,,0,4,4,,,,31889231889
+1,Nepal,3,SR Magar,A Mare,I Barma,,0,2,2,,,,31889231889
+1,Nepal,3,SR Magar,A Mare,I Barma,,0,0,0,,,,31889231889
+1,Nepal,4,I Barma,S Dhadwal,SR Magar,wides,1,1,0,,,,31889231889
+1,Nepal,4,I Barma,S Dhadwal,SR Magar,,0,0,0,,,,31889231889
+1,Nepal,4,I Barma,S Dhadwal,SR Magar,,0,3,3,,,,31889231889
+1,Nepal,4,SR Magar,S Dhadwal,I Barma,,0,2,2,,,,31889231889
+1,Nepal,4,SR Magar,S Dhadwal,I Barma,noballs,1,1,0,,,,31889231889
+1,Nepal,4,SR Magar,S Dhadwal,I Barma,,0,4,4,,,,31889231889
+1,Nepal,4,SR Magar,S Dhadwal,I Barma,,0,1,1,,,,31889231889
+1,Nepal,4,I Barma,S Dhadwal,SR Magar,,0,1,1,,,,31889231889
+1,Nepal,5,I Barma,H Agarwal,SR Magar,,0,1,1,,,,31889231889
+1,Nepal,5,SR Magar,H Agarwal,I Barma,wides,1,1,0,,,,31889231889
+1,Nepal,5,SR Magar,H Agarwal,I Barma,,0,1,1,,,,31889231889
+1,Nepal,5,I Barma,H Agarwal,SR Magar,,0,0,0,,,,31889231889
+1,Nepal,5,I Barma,H Agarwal,SR Magar,,0,0,0,,,,31889231889
+1,Nepal,5,I Barma,H Agarwal,SR Magar,,0,2,2,,,,31889231889
+1,Nepal,5,I Barma,H Agarwal,SR Magar,,0,2,2,,,,31889231889
+1,Nepal,6,I Barma,S Dhadwal,SR Magar,,0,0,0,,,,31889231889
+1,Nepal,6,I Barma,S Dhadwal,SR Magar,,0,2,2,,,,31889231889
+1,Nepal,6,I Barma,S Dhadwal,SR Magar,,0,1,1,,,,31889231889
+1,Nepal,6,SR Magar,S Dhadwal,I Barma,,0,0,0,,,,31889231889
+1,Nepal,6,SR Magar,S Dhadwal,I Barma,,0,1,1,,,,31889231889
+1,Nepal,6,I Barma,S Dhadwal,SR Magar,,0,4,4,,,,31889231889
+1,Nepal,7,I Barma,H Agarwal,SR Magar,,0,1,1,,,,31889231889
+1,Nepal,7,SR Magar,H Agarwal,I Barma,,0,0,0,,,,31889231889
+1,Nepal,7,SR Magar,H Agarwal,I Barma,,0,1,1,,,,31889231889
+1,Nepal,7,I Barma,H Agarwal,SR Magar,,0,0,0,,,,31889231889
+1,Nepal,7,I Barma,H Agarwal,SR Magar,,0,1,1,,,,31889231889
+1,Nepal,7,SR Magar,H Agarwal,I Barma,,0,1,1,,,,31889231889
+1,Nepal,8,SR Magar,Aleena Khan,I Barma,,0,2,2,,,,31889231889
+1,Nepal,8,SR Magar,Aleena Khan,I Barma,,0,4,4,,,,31889231889
+1,Nepal,8,SR Magar,Aleena Khan,I Barma,,0,1,1,,,,31889231889
+1,Nepal,8,I Barma,Aleena Khan,SR Magar,noballs,1,2,1,,,,31889231889
+1,Nepal,8,SR Magar,Aleena Khan,I Barma,wides,1,1,0,,,,31889231889
+1,Nepal,8,SR Magar,Aleena Khan,I Barma,byes,1,1,0,,,,31889231889
+1,Nepal,8,I Barma,Aleena Khan,SR Magar,,0,2,2,,,,31889231889
+1,Nepal,8,I Barma,Aleena Khan,SR Magar,,0,0,0,,,,31889231889
+1,Nepal,9,SR Magar,SA Panayan,I Barma,,0,0,0,,,,31889231889
+1,Nepal,9,SR Magar,SA Panayan,I Barma,wides,1,1,0,,,,31889231889
+1,Nepal,9,SR Magar,SA Panayan,I Barma,,0,1,1,,,,31889231889
+1,Nepal,9,I Barma,SA Panayan,SR Magar,,0,4,4,,,,31889231889
+1,Nepal,9,I Barma,SA Panayan,SR Magar,,0,1,1,,,,31889231889
+1,Nepal,9,SR Magar,SA Panayan,I Barma,,0,1,1,,,,31889231889
+1,Nepal,9,I Barma,SA Panayan,SR Magar,,0,0,0,,,,31889231889
+1,Nepal,10,SR Magar,Aleena Khan,I Barma,,0,1,1,,,,31889231889
+1,Nepal,10,I Barma,Aleena Khan,SR Magar,,0,4,4,,,,31889231889
+1,Nepal,10,I Barma,Aleena Khan,SR Magar,,0,1,1,,,,31889231889
+1,Nepal,10,SR Magar,Aleena Khan,I Barma,,0,1,1,,,,31889231889
+1,Nepal,10,I Barma,Aleena Khan,SR Magar,,0,1,1,,,,31889231889
+1,Nepal,10,SR Magar,Aleena Khan,I Barma,,0,0,0,,,,31889231889
+1,Nepal,11,I Barma,SA Panayan,SR Magar,,0,0,0,,,,31889231889
+1,Nepal,11,I Barma,SA Panayan,SR Magar,,0,0,0,,,,31889231889
+1,Nepal,11,I Barma,SA Panayan,SR Magar,,0,1,1,,,,31889231889
+1,Nepal,11,SR Magar,SA Panayan,I Barma,,0,0,0,stumped,SR Magar,Rizpha Bano,31889231889
+1,Nepal,11,RC Belbashi,SA Panayan,I Barma,,0,0,0,,,,31889231889
+1,Nepal,11,RC Belbashi,SA Panayan,I Barma,,0,0,0,run out,RC Belbashi,H Agarwal,31889231889
+1,Nepal,12,I Barma,Khadija Imtiaz,S Magar,,0,1,1,,,,31889231889
+1,Nepal,12,S Magar,Khadija Imtiaz,I Barma,,0,0,0,,,,31889231889
+1,Nepal,12,S Magar,Khadija Imtiaz,I Barma,,0,0,0,,,,31889231889
+1,Nepal,12,S Magar,Khadija Imtiaz,I Barma,,0,1,1,,,,31889231889
+1,Nepal,12,I Barma,Khadija Imtiaz,S Magar,,0,1,1,,,,31889231889
+1,Nepal,12,S Magar,Khadija Imtiaz,I Barma,,0,0,0,,,,31889231889
+1,Nepal,13,I Barma,SA Panayan,S Magar,,0,0,0,,,,31889231889
+1,Nepal,13,I Barma,SA Panayan,S Magar,,0,0,0,,,,31889231889
+1,Nepal,13,I Barma,SA Panayan,S Magar,,0,1,1,,,,31889231889
+1,Nepal,13,S Magar,SA Panayan,I Barma,,0,0,0,,,,31889231889
+1,Nepal,13,S Magar,SA Panayan,I Barma,,0,1,1,,,,31889231889
+1,Nepal,13,I Barma,SA Panayan,S Magar,,0,1,1,,,,31889231889
+1,Nepal,14,I Barma,Khadija Imtiaz,S Magar,,0,1,1,,,,31889231889
+1,Nepal,14,S Magar,Khadija Imtiaz,I Barma,,0,1,1,,,,31889231889
+1,Nepal,14,I Barma,Khadija Imtiaz,S Magar,,0,0,0,,,,31889231889
+1,Nepal,14,I Barma,Khadija Imtiaz,S Magar,,0,4,4,,,,31889231889
+1,Nepal,14,I Barma,Khadija Imtiaz,S Magar,,0,1,1,,,,31889231889
+1,Nepal,14,S Magar,Khadija Imtiaz,I Barma,,0,1,1,,,,31889231889
+1,Nepal,15,S Magar,SA Panayan,I Barma,,0,0,0,,,,31889231889
+1,Nepal,15,S Magar,SA Panayan,I Barma,,0,1,1,,,,31889231889
+1,Nepal,15,I Barma,SA Panayan,S Magar,,0,1,1,,,,31889231889
+1,Nepal,15,S Magar,SA Panayan,I Barma,,0,4,4,,,,31889231889
+1,Nepal,15,S Magar,SA Panayan,I Barma,,0,1,1,,,,31889231889
+1,Nepal,15,I Barma,SA Panayan,S Magar,,0,1,1,,,,31889231889
+1,Nepal,16,I Barma,Khadija Imtiaz,S Magar,,0,1,1,,,,31889231889
+1,Nepal,16,S Magar,Khadija Imtiaz,I Barma,,0,1,1,,,,31889231889
+1,Nepal,16,I Barma,Khadija Imtiaz,S Magar,,0,1,1,,,,31889231889
+1,Nepal,16,S Magar,Khadija Imtiaz,I Barma,,0,4,4,,,,31889231889
+1,Nepal,16,S Magar,Khadija Imtiaz,I Barma,,0,1,1,,,,31889231889
+1,Nepal,16,I Barma,Khadija Imtiaz,S Magar,,0,4,4,retired hurt,I Barma,,31889231889
+1,Nepal,17,K Kunwar,H Agarwal,S Magar,,0,0,0,,,,31889231889
+1,Nepal,17,K Kunwar,H Agarwal,S Magar,,0,2,2,,,,31889231889
+1,Nepal,17,K Kunwar,H Agarwal,S Magar,,0,0,0,,,,31889231889
+1,Nepal,17,K Kunwar,H Agarwal,S Magar,,0,1,1,,,,31889231889
+1,Nepal,17,S Magar,H Agarwal,K Kunwar,,0,1,1,,,,31889231889
+1,Nepal,17,K Kunwar,H Agarwal,S Magar,byes,1,1,0,,,,31889231889
+1,Nepal,18,K Kunwar,S Dhadwal,S Magar,,0,0,0,,,,31889231889
+1,Nepal,18,K Kunwar,S Dhadwal,S Magar,wides,1,1,0,,,,31889231889
+1,Nepal,18,K Kunwar,S Dhadwal,S Magar,,0,1,1,,,,31889231889
+1,Nepal,18,S Magar,S Dhadwal,K Kunwar,,0,1,1,,,,31889231889
+1,Nepal,18,K Kunwar,S Dhadwal,S Magar,,0,0,0,,,,31889231889
+1,Nepal,18,K Kunwar,S Dhadwal,S Magar,,0,3,3,,,,31889231889
+1,Nepal,18,S Magar,S Dhadwal,K Kunwar,,0,1,1,,,,31889231889
+1,Nepal,19,S Magar,H Agarwal,K Kunwar,,0,1,1,,,,31889231889
+1,Nepal,19,K Kunwar,H Agarwal,S Magar,,0,1,1,,,,31889231889
+1,Nepal,19,S Magar,H Agarwal,K Kunwar,,0,0,0,,,,31889231889
+1,Nepal,19,S Magar,H Agarwal,K Kunwar,,0,1,1,run out,S Magar,H Agarwal,31889231889
+1,Nepal,19,K Kunwar,H Agarwal,Apsari Begam,,0,0,0,,,,31889231889
+1,Nepal,19,K Kunwar,H Agarwal,Apsari Begam,legbyes,1,1,0,,,,31889231889

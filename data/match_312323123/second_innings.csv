@@ -1,0 +1,107 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Afghanistan,0,Noor Ali Zadran,DW Steyn,Karim Sadiq,,0,0,0,,,,312323123
+2,Afghanistan,0,Noor Ali Zadran,DW Steyn,Karim Sadiq,,0,0,0,,,,312323123
+2,Afghanistan,0,Noor Ali Zadran,DW Steyn,Karim Sadiq,wides,1,1,0,,,,312323123
+2,Afghanistan,0,Noor Ali Zadran,DW Steyn,Karim Sadiq,,0,0,0,caught,Noor Ali Zadran,MV Boucher,312323123
+2,Afghanistan,0,Mohammad Shahzad,DW Steyn,Karim Sadiq,,0,2,2,,,,312323123
+2,Afghanistan,0,Mohammad Shahzad,DW Steyn,Karim Sadiq,,0,0,0,,,,312323123
+2,Afghanistan,0,Mohammad Shahzad,DW Steyn,Karim Sadiq,,0,0,0,,,,312323123
+2,Afghanistan,1,Karim Sadiq,CK Langeveldt,Mohammad Shahzad,,0,0,0,,,,312323123
+2,Afghanistan,1,Karim Sadiq,CK Langeveldt,Mohammad Shahzad,,0,0,0,,,,312323123
+2,Afghanistan,1,Karim Sadiq,CK Langeveldt,Mohammad Shahzad,,0,2,2,,,,312323123
+2,Afghanistan,1,Karim Sadiq,CK Langeveldt,Mohammad Shahzad,,0,0,0,,,,312323123
+2,Afghanistan,1,Karim Sadiq,CK Langeveldt,Mohammad Shahzad,,0,0,0,,,,312323123
+2,Afghanistan,1,Karim Sadiq,CK Langeveldt,Mohammad Shahzad,,0,0,0,,,,312323123
+2,Afghanistan,2,Mohammad Shahzad,DW Steyn,Karim Sadiq,,0,0,0,,,,312323123
+2,Afghanistan,2,Mohammad Shahzad,DW Steyn,Karim Sadiq,,0,0,0,,,,312323123
+2,Afghanistan,2,Mohammad Shahzad,DW Steyn,Karim Sadiq,,0,0,0,caught,Mohammad Shahzad,MV Boucher,312323123
+2,Afghanistan,2,Nawroz Mangal,DW Steyn,Karim Sadiq,wides,1,1,0,,,,312323123
+2,Afghanistan,2,Nawroz Mangal,DW Steyn,Karim Sadiq,,0,0,0,,,,312323123
+2,Afghanistan,2,Nawroz Mangal,DW Steyn,Karim Sadiq,,0,0,0,,,,312323123
+2,Afghanistan,2,Nawroz Mangal,DW Steyn,Karim Sadiq,,0,1,1,,,,312323123
+2,Afghanistan,3,Nawroz Mangal,M Morkel,Karim Sadiq,,0,0,0,caught,Nawroz Mangal,JH Kallis,312323123
+2,Afghanistan,3,Asghar Stanikzai,M Morkel,Karim Sadiq,,0,1,1,,,,312323123
+2,Afghanistan,3,Karim Sadiq,M Morkel,Asghar Stanikzai,,0,0,0,,,,312323123
+2,Afghanistan,3,Karim Sadiq,M Morkel,Asghar Stanikzai,,0,0,0,caught,Karim Sadiq,AB de Villiers,312323123
+2,Afghanistan,3,Raees Ahmadzai,M Morkel,Asghar Stanikzai,,0,4,4,,,,312323123
+2,Afghanistan,3,Raees Ahmadzai,M Morkel,Asghar Stanikzai,,0,0,0,caught,Raees Ahmadzai,MV Boucher,312323123
+2,Afghanistan,4,Mohammad Nabi,DW Steyn,Asghar Stanikzai,,0,0,0,,,,312323123
+2,Afghanistan,4,Mohammad Nabi,DW Steyn,Asghar Stanikzai,,0,0,0,,,,312323123
+2,Afghanistan,4,Mohammad Nabi,DW Steyn,Asghar Stanikzai,wides,1,1,0,,,,312323123
+2,Afghanistan,4,Mohammad Nabi,DW Steyn,Asghar Stanikzai,,0,0,0,,,,312323123
+2,Afghanistan,4,Mohammad Nabi,DW Steyn,Asghar Stanikzai,legbyes,1,1,0,,,,312323123
+2,Afghanistan,4,Asghar Stanikzai,DW Steyn,Mohammad Nabi,,0,0,0,,,,312323123
+2,Afghanistan,4,Asghar Stanikzai,DW Steyn,Mohammad Nabi,,0,0,0,,,,312323123
+2,Afghanistan,5,Mohammad Nabi,M Morkel,Asghar Stanikzai,,0,0,0,caught,Mohammad Nabi,JP Duminy,312323123
+2,Afghanistan,5,Samiullah Shenwari,M Morkel,Asghar Stanikzai,,0,1,1,,,,312323123
+2,Afghanistan,5,Asghar Stanikzai,M Morkel,Samiullah Shenwari,,0,1,1,,,,312323123
+2,Afghanistan,5,Samiullah Shenwari,M Morkel,Asghar Stanikzai,,0,0,0,,,,312323123
+2,Afghanistan,5,Samiullah Shenwari,M Morkel,Asghar Stanikzai,noballs,1,1,0,,,,312323123
+2,Afghanistan,5,Samiullah Shenwari,M Morkel,Asghar Stanikzai,,0,6,6,,,,312323123
+2,Afghanistan,5,Samiullah Shenwari,M Morkel,Asghar Stanikzai,,0,0,0,,,,312323123
+2,Afghanistan,6,Asghar Stanikzai,CK Langeveldt,Samiullah Shenwari,,0,1,1,,,,312323123
+2,Afghanistan,6,Samiullah Shenwari,CK Langeveldt,Asghar Stanikzai,,0,0,0,,,,312323123
+2,Afghanistan,6,Samiullah Shenwari,CK Langeveldt,Asghar Stanikzai,,0,0,0,,,,312323123
+2,Afghanistan,6,Samiullah Shenwari,CK Langeveldt,Asghar Stanikzai,,0,1,1,,,,312323123
+2,Afghanistan,6,Asghar Stanikzai,CK Langeveldt,Samiullah Shenwari,,0,0,0,caught,Asghar Stanikzai,DW Steyn,312323123
+2,Afghanistan,6,Mirwais Ashraf,CK Langeveldt,Samiullah Shenwari,,0,1,1,,,,312323123
+2,Afghanistan,7,Mirwais Ashraf,M Morkel,Samiullah Shenwari,wides,1,1,0,,,,312323123
+2,Afghanistan,7,Mirwais Ashraf,M Morkel,Samiullah Shenwari,,0,1,1,,,,312323123
+2,Afghanistan,7,Samiullah Shenwari,M Morkel,Mirwais Ashraf,noballs,1,1,0,,,,312323123
+2,Afghanistan,7,Samiullah Shenwari,M Morkel,Mirwais Ashraf,,0,0,0,,,,312323123
+2,Afghanistan,7,Samiullah Shenwari,M Morkel,Mirwais Ashraf,,0,2,2,,,,312323123
+2,Afghanistan,7,Samiullah Shenwari,M Morkel,Mirwais Ashraf,,0,1,1,,,,312323123
+2,Afghanistan,7,Mirwais Ashraf,M Morkel,Samiullah Shenwari,,0,0,0,run out,Samiullah Shenwari,AB de Villiers,312323123
+2,Afghanistan,7,Hamid Hassan,M Morkel,Mirwais Ashraf,,0,0,0,,,,312323123
+2,Afghanistan,8,Mirwais Ashraf,RE van der Merwe,Hamid Hassan,,0,0,0,,,,312323123
+2,Afghanistan,8,Mirwais Ashraf,RE van der Merwe,Hamid Hassan,,0,0,0,,,,312323123
+2,Afghanistan,8,Mirwais Ashraf,RE van der Merwe,Hamid Hassan,,0,0,0,,,,312323123
+2,Afghanistan,8,Mirwais Ashraf,RE van der Merwe,Hamid Hassan,,0,0,0,,,,312323123
+2,Afghanistan,8,Mirwais Ashraf,RE van der Merwe,Hamid Hassan,,0,0,0,,,,312323123
+2,Afghanistan,8,Mirwais Ashraf,RE van der Merwe,Hamid Hassan,wides,1,1,0,,,,312323123
+2,Afghanistan,8,Mirwais Ashraf,RE van der Merwe,Hamid Hassan,,0,0,0,,,,312323123
+2,Afghanistan,9,Hamid Hassan,JA Morkel,Mirwais Ashraf,,0,6,6,,,,312323123
+2,Afghanistan,9,Hamid Hassan,JA Morkel,Mirwais Ashraf,,0,0,0,,,,312323123
+2,Afghanistan,9,Hamid Hassan,JA Morkel,Mirwais Ashraf,,0,0,0,,,,312323123
+2,Afghanistan,9,Hamid Hassan,JA Morkel,Mirwais Ashraf,,0,1,1,,,,312323123
+2,Afghanistan,9,Mirwais Ashraf,JA Morkel,Hamid Hassan,,0,0,0,,,,312323123
+2,Afghanistan,9,Mirwais Ashraf,JA Morkel,Hamid Hassan,,0,1,1,,,,312323123
+2,Afghanistan,10,Mirwais Ashraf,RE van der Merwe,Hamid Hassan,,0,1,1,,,,312323123
+2,Afghanistan,10,Hamid Hassan,RE van der Merwe,Mirwais Ashraf,,0,0,0,,,,312323123
+2,Afghanistan,10,Hamid Hassan,RE van der Merwe,Mirwais Ashraf,,0,0,0,,,,312323123
+2,Afghanistan,10,Hamid Hassan,RE van der Merwe,Mirwais Ashraf,,0,1,1,,,,312323123
+2,Afghanistan,10,Mirwais Ashraf,RE van der Merwe,Hamid Hassan,,0,0,0,,,,312323123
+2,Afghanistan,10,Mirwais Ashraf,RE van der Merwe,Hamid Hassan,,0,1,1,,,,312323123
+2,Afghanistan,11,Mirwais Ashraf,JA Morkel,Hamid Hassan,,0,0,0,,,,312323123
+2,Afghanistan,11,Mirwais Ashraf,JA Morkel,Hamid Hassan,,0,4,4,,,,312323123
+2,Afghanistan,11,Mirwais Ashraf,JA Morkel,Hamid Hassan,,0,1,1,,,,312323123
+2,Afghanistan,11,Hamid Hassan,JA Morkel,Mirwais Ashraf,,0,1,1,,,,312323123
+2,Afghanistan,11,Mirwais Ashraf,JA Morkel,Hamid Hassan,,0,0,0,,,,312323123
+2,Afghanistan,11,Mirwais Ashraf,JA Morkel,Hamid Hassan,,0,6,6,,,,312323123
+2,Afghanistan,12,Hamid Hassan,RE van der Merwe,Mirwais Ashraf,,0,1,1,,,,312323123
+2,Afghanistan,12,Mirwais Ashraf,RE van der Merwe,Hamid Hassan,,0,0,0,,,,312323123
+2,Afghanistan,12,Mirwais Ashraf,RE van der Merwe,Hamid Hassan,,0,6,6,,,,312323123
+2,Afghanistan,12,Mirwais Ashraf,RE van der Merwe,Hamid Hassan,,0,0,0,,,,312323123
+2,Afghanistan,12,Mirwais Ashraf,RE van der Merwe,Hamid Hassan,,0,0,0,,,,312323123
+2,Afghanistan,12,Mirwais Ashraf,RE van der Merwe,Hamid Hassan,,0,1,1,,,,312323123
+2,Afghanistan,13,Mirwais Ashraf,CK Langeveldt,Hamid Hassan,wides,1,1,0,,,,312323123
+2,Afghanistan,13,Mirwais Ashraf,CK Langeveldt,Hamid Hassan,,0,0,0,bowled,Mirwais Ashraf,,312323123
+2,Afghanistan,13,Shapoor Zadran,CK Langeveldt,Hamid Hassan,,0,0,0,,,,312323123
+2,Afghanistan,13,Shapoor Zadran,CK Langeveldt,Hamid Hassan,wides,1,1,0,,,,312323123
+2,Afghanistan,13,Shapoor Zadran,CK Langeveldt,Hamid Hassan,,0,0,0,,,,312323123
+2,Afghanistan,13,Shapoor Zadran,CK Langeveldt,Hamid Hassan,,0,0,0,,,,312323123
+2,Afghanistan,13,Shapoor Zadran,CK Langeveldt,Hamid Hassan,wides,1,1,0,,,,312323123
+2,Afghanistan,13,Shapoor Zadran,CK Langeveldt,Hamid Hassan,,0,0,0,,,,312323123
+2,Afghanistan,13,Shapoor Zadran,CK Langeveldt,Hamid Hassan,,0,0,0,,,,312323123
+2,Afghanistan,14,Hamid Hassan,RE van der Merwe,Shapoor Zadran,,0,6,6,,,,312323123
+2,Afghanistan,14,Hamid Hassan,RE van der Merwe,Shapoor Zadran,,0,0,0,,,,312323123
+2,Afghanistan,14,Hamid Hassan,RE van der Merwe,Shapoor Zadran,,0,1,1,,,,312323123
+2,Afghanistan,14,Shapoor Zadran,RE van der Merwe,Hamid Hassan,,0,1,1,,,,312323123
+2,Afghanistan,14,Hamid Hassan,RE van der Merwe,Shapoor Zadran,,0,0,0,,,,312323123
+2,Afghanistan,14,Hamid Hassan,RE van der Merwe,Shapoor Zadran,,0,1,1,,,,312323123
+2,Afghanistan,15,Hamid Hassan,CK Langeveldt,Shapoor Zadran,,0,0,0,,,,312323123
+2,Afghanistan,15,Hamid Hassan,CK Langeveldt,Shapoor Zadran,,0,0,0,,,,312323123
+2,Afghanistan,15,Hamid Hassan,CK Langeveldt,Shapoor Zadran,,0,0,0,,,,312323123
+2,Afghanistan,15,Hamid Hassan,CK Langeveldt,Shapoor Zadran,,0,0,0,,,,312323123
+2,Afghanistan,15,Hamid Hassan,CK Langeveldt,Shapoor Zadran,,0,4,4,,,,312323123
+2,Afghanistan,15,Hamid Hassan,CK Langeveldt,Shapoor Zadran,,0,0,0,caught,Hamid Hassan,JH Kallis,312323123

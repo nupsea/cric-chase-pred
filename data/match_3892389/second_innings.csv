@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,India,0,G Gambhir,DW Steyn,RG Sharma,,0,2,2,,,,3892389
+2,India,0,G Gambhir,DW Steyn,RG Sharma,,0,0,0,,,,3892389
+2,India,0,G Gambhir,DW Steyn,RG Sharma,,0,2,2,,,,3892389
+2,India,0,G Gambhir,DW Steyn,RG Sharma,,0,0,0,,,,3892389
+2,India,0,G Gambhir,DW Steyn,RG Sharma,,0,4,4,,,,3892389
+2,India,0,G Gambhir,DW Steyn,RG Sharma,,0,1,1,,,,3892389
+2,India,1,G Gambhir,WD Parnell,RG Sharma,,0,0,0,,,,3892389
+2,India,1,G Gambhir,WD Parnell,RG Sharma,,0,4,4,,,,3892389
+2,India,1,G Gambhir,WD Parnell,RG Sharma,,0,4,4,,,,3892389
+2,India,1,G Gambhir,WD Parnell,RG Sharma,,0,0,0,,,,3892389
+2,India,1,G Gambhir,WD Parnell,RG Sharma,,0,0,0,,,,3892389
+2,India,1,G Gambhir,WD Parnell,RG Sharma,,0,0,0,,,,3892389
+2,India,2,RG Sharma,M Morkel,G Gambhir,,0,0,0,,,,3892389
+2,India,2,RG Sharma,M Morkel,G Gambhir,,0,1,1,,,,3892389
+2,India,2,G Gambhir,M Morkel,RG Sharma,,0,0,0,,,,3892389
+2,India,2,G Gambhir,M Morkel,RG Sharma,,0,1,1,,,,3892389
+2,India,2,RG Sharma,M Morkel,G Gambhir,,0,0,0,,,,3892389
+2,India,2,RG Sharma,M Morkel,G Gambhir,,0,1,1,,,,3892389
+2,India,3,RG Sharma,WD Parnell,G Gambhir,,0,1,1,,,,3892389
+2,India,3,G Gambhir,WD Parnell,RG Sharma,,0,1,1,,,,3892389
+2,India,3,RG Sharma,WD Parnell,G Gambhir,,0,4,4,,,,3892389
+2,India,3,RG Sharma,WD Parnell,G Gambhir,,0,0,0,,,,3892389
+2,India,3,RG Sharma,WD Parnell,G Gambhir,,0,0,0,,,,3892389
+2,India,3,RG Sharma,WD Parnell,G Gambhir,,0,1,1,,,,3892389
+2,India,4,RG Sharma,M Morkel,G Gambhir,,0,2,2,,,,3892389
+2,India,4,RG Sharma,M Morkel,G Gambhir,,0,2,2,,,,3892389
+2,India,4,RG Sharma,M Morkel,G Gambhir,,0,1,1,,,,3892389
+2,India,4,G Gambhir,M Morkel,RG Sharma,,0,1,1,,,,3892389
+2,India,4,RG Sharma,M Morkel,G Gambhir,,0,1,1,,,,3892389
+2,India,4,G Gambhir,M Morkel,RG Sharma,,0,0,0,,,,3892389
+2,India,5,RG Sharma,JA Morkel,G Gambhir,,0,4,4,,,,3892389
+2,India,5,RG Sharma,JA Morkel,G Gambhir,,0,4,4,,,,3892389
+2,India,5,RG Sharma,JA Morkel,G Gambhir,,0,2,2,,,,3892389
+2,India,5,RG Sharma,JA Morkel,G Gambhir,legbyes,1,1,0,,,,3892389
+2,India,5,G Gambhir,JA Morkel,RG Sharma,,0,1,1,,,,3892389
+2,India,5,RG Sharma,JA Morkel,G Gambhir,,0,1,1,,,,3892389
+2,India,6,RG Sharma,J Botha,G Gambhir,,0,1,1,,,,3892389
+2,India,6,G Gambhir,J Botha,RG Sharma,,0,0,0,caught,G Gambhir,JP Duminy,3892389
+2,India,6,RG Sharma,J Botha,SK Raina,,0,0,0,,,,3892389
+2,India,6,RG Sharma,J Botha,SK Raina,,0,0,0,,,,3892389
+2,India,6,RG Sharma,J Botha,SK Raina,,0,1,1,,,,3892389
+2,India,6,SK Raina,J Botha,RG Sharma,,0,1,1,,,,3892389
+2,India,7,SK Raina,RE van der Merwe,RG Sharma,,0,0,0,,,,3892389
+2,India,7,SK Raina,RE van der Merwe,RG Sharma,,0,0,0,,,,3892389
+2,India,7,SK Raina,RE van der Merwe,RG Sharma,,0,1,1,,,,3892389
+2,India,7,RG Sharma,RE van der Merwe,SK Raina,legbyes,1,1,0,,,,3892389
+2,India,7,SK Raina,RE van der Merwe,RG Sharma,,0,0,0,,,,3892389
+2,India,7,SK Raina,RE van der Merwe,RG Sharma,,0,0,0,,,,3892389
+2,India,8,RG Sharma,J Botha,SK Raina,,0,0,0,,,,3892389
+2,India,8,RG Sharma,J Botha,SK Raina,,0,1,1,,,,3892389
+2,India,8,SK Raina,J Botha,RG Sharma,,0,1,1,,,,3892389
+2,India,8,RG Sharma,J Botha,SK Raina,,0,0,0,,,,3892389
+2,India,8,RG Sharma,J Botha,SK Raina,,0,1,1,,,,3892389
+2,India,8,SK Raina,J Botha,RG Sharma,,0,0,0,caught,SK Raina,M Morkel,3892389
+2,India,9,Yuvraj Singh,JP Duminy,RG Sharma,,0,0,0,,,,3892389
+2,India,9,Yuvraj Singh,JP Duminy,RG Sharma,,0,0,0,,,,3892389
+2,India,9,Yuvraj Singh,JP Duminy,RG Sharma,,0,0,0,,,,3892389
+2,India,9,Yuvraj Singh,JP Duminy,RG Sharma,,0,1,1,,,,3892389
+2,India,9,RG Sharma,JP Duminy,Yuvraj Singh,,0,0,0,caught,RG Sharma,DW Steyn,3892389
+2,India,9,Yuvraj Singh,JP Duminy,MS Dhoni,wides,2,2,0,,,,3892389
+2,India,9,MS Dhoni,JP Duminy,Yuvraj Singh,,0,0,0,,,,3892389
+2,India,10,Yuvraj Singh,J Botha,MS Dhoni,,0,0,0,,,,3892389
+2,India,10,Yuvraj Singh,J Botha,MS Dhoni,,0,1,1,,,,3892389
+2,India,10,MS Dhoni,J Botha,Yuvraj Singh,,0,0,0,,,,3892389
+2,India,10,MS Dhoni,J Botha,Yuvraj Singh,,0,0,0,,,,3892389
+2,India,10,MS Dhoni,J Botha,Yuvraj Singh,,0,2,2,,,,3892389
+2,India,10,MS Dhoni,J Botha,Yuvraj Singh,,0,1,1,,,,3892389
+2,India,11,MS Dhoni,RE van der Merwe,Yuvraj Singh,,0,0,0,,,,3892389
+2,India,11,MS Dhoni,RE van der Merwe,Yuvraj Singh,,0,0,0,,,,3892389
+2,India,11,MS Dhoni,RE van der Merwe,Yuvraj Singh,,0,1,1,,,,3892389
+2,India,11,Yuvraj Singh,RE van der Merwe,MS Dhoni,,0,0,0,,,,3892389
+2,India,11,Yuvraj Singh,RE van der Merwe,MS Dhoni,,0,1,1,,,,3892389
+2,India,11,MS Dhoni,RE van der Merwe,Yuvraj Singh,,0,0,0,,,,3892389
+2,India,12,Yuvraj Singh,M Morkel,MS Dhoni,,0,1,1,,,,3892389
+2,India,12,MS Dhoni,M Morkel,Yuvraj Singh,,0,0,0,,,,3892389
+2,India,12,MS Dhoni,M Morkel,Yuvraj Singh,,0,0,0,,,,3892389
+2,India,12,MS Dhoni,M Morkel,Yuvraj Singh,,0,1,1,,,,3892389
+2,India,12,Yuvraj Singh,M Morkel,MS Dhoni,,0,0,0,,,,3892389
+2,India,12,Yuvraj Singh,M Morkel,MS Dhoni,wides,1,1,0,run out,MS Dhoni,M Morkel,3892389
+2,India,12,Yuvraj Singh,M Morkel,YK Pathan,,0,1,1,,,,3892389
+2,India,13,Yuvraj Singh,RE van der Merwe,YK Pathan,,0,1,1,,,,3892389
+2,India,13,YK Pathan,RE van der Merwe,Yuvraj Singh,,0,0,0,,,,3892389
+2,India,13,YK Pathan,RE van der Merwe,Yuvraj Singh,,0,0,0,caught,YK Pathan,AB de Villiers,3892389
+2,India,13,Harbhajan Singh,RE van der Merwe,Yuvraj Singh,,0,0,0,,,,3892389
+2,India,13,Harbhajan Singh,RE van der Merwe,Yuvraj Singh,,0,0,0,,,,3892389
+2,India,13,Harbhajan Singh,RE van der Merwe,Yuvraj Singh,,0,1,1,,,,3892389
+2,India,14,Harbhajan Singh,DW Steyn,Yuvraj Singh,,0,1,1,,,,3892389
+2,India,14,Yuvraj Singh,DW Steyn,Harbhajan Singh,,0,4,4,,,,3892389
+2,India,14,Yuvraj Singh,DW Steyn,Harbhajan Singh,,0,1,1,,,,3892389
+2,India,14,Harbhajan Singh,DW Steyn,Yuvraj Singh,,0,0,0,,,,3892389
+2,India,14,Harbhajan Singh,DW Steyn,Yuvraj Singh,wides,1,1,0,,,,3892389
+2,India,14,Harbhajan Singh,DW Steyn,Yuvraj Singh,,0,4,4,,,,3892389
+2,India,14,Harbhajan Singh,DW Steyn,Yuvraj Singh,,0,0,0,,,,3892389
+2,India,15,Yuvraj Singh,RE van der Merwe,Harbhajan Singh,,0,0,0,,,,3892389
+2,India,15,Yuvraj Singh,RE van der Merwe,Harbhajan Singh,,0,6,6,,,,3892389
+2,India,15,Yuvraj Singh,RE van der Merwe,Harbhajan Singh,legbyes,1,1,0,,,,3892389
+2,India,15,Harbhajan Singh,RE van der Merwe,Yuvraj Singh,,0,1,1,,,,3892389
+2,India,15,Yuvraj Singh,RE van der Merwe,Harbhajan Singh,,0,1,1,,,,3892389
+2,India,15,Harbhajan Singh,RE van der Merwe,Yuvraj Singh,,0,0,0,,,,3892389
+2,India,16,Yuvraj Singh,M Morkel,Harbhajan Singh,,0,2,2,,,,3892389
+2,India,16,Yuvraj Singh,M Morkel,Harbhajan Singh,legbyes,1,1,0,,,,3892389
+2,India,16,Harbhajan Singh,M Morkel,Yuvraj Singh,,0,6,6,,,,3892389
+2,India,16,Harbhajan Singh,M Morkel,Yuvraj Singh,,0,0,0,,,,3892389
+2,India,16,Harbhajan Singh,M Morkel,Yuvraj Singh,,0,0,0,,,,3892389
+2,India,16,Harbhajan Singh,M Morkel,Yuvraj Singh,,0,1,1,,,,3892389
+2,India,17,Harbhajan Singh,J Botha,Yuvraj Singh,,0,0,0,,,,3892389
+2,India,17,Harbhajan Singh,J Botha,Yuvraj Singh,,0,0,0,caught,Harbhajan Singh,AB de Villiers,3892389
+2,India,17,RA Jadeja,J Botha,Yuvraj Singh,,0,1,1,,,,3892389
+2,India,17,Yuvraj Singh,J Botha,RA Jadeja,,0,2,2,,,,3892389
+2,India,17,Yuvraj Singh,J Botha,RA Jadeja,,0,2,2,,,,3892389
+2,India,17,Yuvraj Singh,J Botha,RA Jadeja,,0,1,1,,,,3892389
+2,India,18,Yuvraj Singh,DW Steyn,RA Jadeja,,0,0,0,,,,3892389
+2,India,18,Yuvraj Singh,DW Steyn,RA Jadeja,,0,0,0,caught,Yuvraj Singh,MV Boucher,3892389
+2,India,18,Z Khan,DW Steyn,RA Jadeja,,0,2,2,,,,3892389
+2,India,18,Z Khan,DW Steyn,RA Jadeja,,0,2,2,,,,3892389
+2,India,18,Z Khan,DW Steyn,RA Jadeja,,0,0,0,caught,Z Khan,AB de Villiers,3892389
+2,India,18,RA Jadeja,DW Steyn,RP Singh,,0,1,1,,,,3892389
+2,India,19,RA Jadeja,WD Parnell,RP Singh,,0,1,1,,,,3892389
+2,India,19,RP Singh,WD Parnell,RA Jadeja,,0,1,1,,,,3892389
+2,India,19,RA Jadeja,WD Parnell,RP Singh,,0,2,2,,,,3892389
+2,India,19,RA Jadeja,WD Parnell,RP Singh,,0,1,1,,,,3892389
+2,India,19,RP Singh,WD Parnell,RA Jadeja,,0,1,1,,,,3892389
+2,India,19,RA Jadeja,WD Parnell,RP Singh,,0,1,1,,,,3892389

@@ -1,0 +1,120 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Australia,0,TM Head,Shaheen Shah Afridi,AJ Finch,,0,2,2,,,,31859231859
+2,Australia,0,TM Head,Shaheen Shah Afridi,AJ Finch,,0,0,0,,,,31859231859
+2,Australia,0,TM Head,Shaheen Shah Afridi,AJ Finch,legbyes,4,4,0,,,,31859231859
+2,Australia,0,TM Head,Shaheen Shah Afridi,AJ Finch,,0,4,4,,,,31859231859
+2,Australia,0,TM Head,Shaheen Shah Afridi,AJ Finch,,0,0,0,,,,31859231859
+2,Australia,0,TM Head,Shaheen Shah Afridi,AJ Finch,,0,4,4,,,,31859231859
+2,Australia,1,AJ Finch,Hasan Ali,TM Head,,0,4,4,,,,31859231859
+2,Australia,1,AJ Finch,Hasan Ali,TM Head,,0,1,1,,,,31859231859
+2,Australia,1,TM Head,Hasan Ali,AJ Finch,,0,1,1,,,,31859231859
+2,Australia,1,AJ Finch,Hasan Ali,TM Head,,0,1,1,,,,31859231859
+2,Australia,1,TM Head,Hasan Ali,AJ Finch,,0,4,4,,,,31859231859
+2,Australia,1,TM Head,Hasan Ali,AJ Finch,,0,3,3,,,,31859231859
+2,Australia,2,TM Head,Shaheen Shah Afridi,AJ Finch,,0,1,1,,,,31859231859
+2,Australia,2,AJ Finch,Shaheen Shah Afridi,TM Head,wides,1,1,0,,,,31859231859
+2,Australia,2,AJ Finch,Shaheen Shah Afridi,TM Head,,0,0,0,,,,31859231859
+2,Australia,2,AJ Finch,Shaheen Shah Afridi,TM Head,,0,1,1,,,,31859231859
+2,Australia,2,TM Head,Shaheen Shah Afridi,AJ Finch,,0,0,0,,,,31859231859
+2,Australia,2,TM Head,Shaheen Shah Afridi,AJ Finch,,0,1,1,,,,31859231859
+2,Australia,2,AJ Finch,Shaheen Shah Afridi,TM Head,,0,1,1,,,,31859231859
+2,Australia,3,AJ Finch,Haris Rauf,TM Head,legbyes,1,1,0,,,,31859231859
+2,Australia,3,TM Head,Haris Rauf,AJ Finch,,0,6,6,,,,31859231859
+2,Australia,3,TM Head,Haris Rauf,AJ Finch,,0,0,0,caught,TM Head,Usman Qadir,31859231859
+2,Australia,3,AJ Finch,Haris Rauf,JP Inglis,,0,2,2,,,,31859231859
+2,Australia,3,AJ Finch,Haris Rauf,JP Inglis,,0,4,4,,,,31859231859
+2,Australia,3,AJ Finch,Haris Rauf,JP Inglis,,0,0,0,,,,31859231859
+2,Australia,4,JP Inglis,Hasan Ali,AJ Finch,,0,4,4,,,,31859231859
+2,Australia,4,JP Inglis,Hasan Ali,AJ Finch,,0,0,0,,,,31859231859
+2,Australia,4,JP Inglis,Hasan Ali,AJ Finch,,0,1,1,,,,31859231859
+2,Australia,4,AJ Finch,Hasan Ali,JP Inglis,,0,1,1,,,,31859231859
+2,Australia,4,JP Inglis,Hasan Ali,AJ Finch,,0,2,2,,,,31859231859
+2,Australia,4,JP Inglis,Hasan Ali,AJ Finch,,0,0,0,,,,31859231859
+2,Australia,5,AJ Finch,Haris Rauf,JP Inglis,,0,4,4,,,,31859231859
+2,Australia,5,AJ Finch,Haris Rauf,JP Inglis,,0,0,0,,,,31859231859
+2,Australia,5,AJ Finch,Haris Rauf,JP Inglis,,0,0,0,,,,31859231859
+2,Australia,5,AJ Finch,Haris Rauf,JP Inglis,,0,0,0,,,,31859231859
+2,Australia,5,AJ Finch,Haris Rauf,JP Inglis,,0,4,4,,,,31859231859
+2,Australia,5,AJ Finch,Haris Rauf,JP Inglis,,0,1,1,,,,31859231859
+2,Australia,6,AJ Finch,Usman Qadir,JP Inglis,,0,0,0,,,,31859231859
+2,Australia,6,AJ Finch,Usman Qadir,JP Inglis,,0,0,0,,,,31859231859
+2,Australia,6,AJ Finch,Usman Qadir,JP Inglis,,0,1,1,,,,31859231859
+2,Australia,6,JP Inglis,Usman Qadir,AJ Finch,,0,0,0,,,,31859231859
+2,Australia,6,JP Inglis,Usman Qadir,AJ Finch,,0,1,1,,,,31859231859
+2,Australia,6,AJ Finch,Usman Qadir,JP Inglis,,0,2,2,,,,31859231859
+2,Australia,7,JP Inglis,Khushdil Shah,AJ Finch,,0,2,2,,,,31859231859
+2,Australia,7,JP Inglis,Khushdil Shah,AJ Finch,,0,4,4,,,,31859231859
+2,Australia,7,JP Inglis,Khushdil Shah,AJ Finch,,0,0,0,,,,31859231859
+2,Australia,7,JP Inglis,Khushdil Shah,AJ Finch,,0,1,1,,,,31859231859
+2,Australia,7,AJ Finch,Khushdil Shah,JP Inglis,,0,1,1,,,,31859231859
+2,Australia,7,JP Inglis,Khushdil Shah,AJ Finch,,0,1,1,,,,31859231859
+2,Australia,8,JP Inglis,Usman Qadir,AJ Finch,,0,2,2,,,,31859231859
+2,Australia,8,JP Inglis,Usman Qadir,AJ Finch,,0,6,6,,,,31859231859
+2,Australia,8,JP Inglis,Usman Qadir,AJ Finch,,0,0,0,caught,JP Inglis,Mohammad Rizwan,31859231859
+2,Australia,8,M Labuschagne,Usman Qadir,AJ Finch,,0,0,0,,,,31859231859
+2,Australia,8,M Labuschagne,Usman Qadir,AJ Finch,wides,1,1,0,,,,31859231859
+2,Australia,8,M Labuschagne,Usman Qadir,AJ Finch,,0,1,1,,,,31859231859
+2,Australia,8,AJ Finch,Usman Qadir,M Labuschagne,,0,0,0,,,,31859231859
+2,Australia,9,M Labuschagne,Mohammad Wasim,AJ Finch,,0,1,1,,,,31859231859
+2,Australia,9,AJ Finch,Mohammad Wasim,M Labuschagne,,0,0,0,,,,31859231859
+2,Australia,9,AJ Finch,Mohammad Wasim,M Labuschagne,,0,2,2,,,,31859231859
+2,Australia,9,AJ Finch,Mohammad Wasim,M Labuschagne,,0,0,0,,,,31859231859
+2,Australia,9,AJ Finch,Mohammad Wasim,M Labuschagne,,0,2,2,,,,31859231859
+2,Australia,9,AJ Finch,Mohammad Wasim,M Labuschagne,,0,4,4,,,,31859231859
+2,Australia,10,M Labuschagne,Usman Qadir,AJ Finch,,0,0,0,stumped,M Labuschagne,Mohammad Rizwan,31859231859
+2,Australia,10,MP Stoinis,Usman Qadir,AJ Finch,,0,4,4,,,,31859231859
+2,Australia,10,MP Stoinis,Usman Qadir,AJ Finch,,0,4,4,,,,31859231859
+2,Australia,10,MP Stoinis,Usman Qadir,AJ Finch,,0,2,2,,,,31859231859
+2,Australia,10,MP Stoinis,Usman Qadir,AJ Finch,,0,4,4,,,,31859231859
+2,Australia,10,MP Stoinis,Usman Qadir,AJ Finch,noballs,1,1,0,,,,31859231859
+2,Australia,10,MP Stoinis,Usman Qadir,AJ Finch,,0,1,1,,,,31859231859
+2,Australia,11,MP Stoinis,Mohammad Wasim,AJ Finch,,0,4,4,,,,31859231859
+2,Australia,11,MP Stoinis,Mohammad Wasim,AJ Finch,,0,4,4,,,,31859231859
+2,Australia,11,MP Stoinis,Mohammad Wasim,AJ Finch,,0,0,0,bowled,MP Stoinis,,31859231859
+2,Australia,11,C Green,Mohammad Wasim,AJ Finch,,0,1,1,,,,31859231859
+2,Australia,11,AJ Finch,Mohammad Wasim,C Green,,0,1,1,,,,31859231859
+2,Australia,11,C Green,Mohammad Wasim,AJ Finch,,0,0,0,,,,31859231859
+2,Australia,12,AJ Finch,Usman Qadir,C Green,,0,1,1,,,,31859231859
+2,Australia,12,C Green,Usman Qadir,AJ Finch,,0,0,0,,,,31859231859
+2,Australia,12,C Green,Usman Qadir,AJ Finch,,0,0,0,,,,31859231859
+2,Australia,12,C Green,Usman Qadir,AJ Finch,,0,0,0,,,,31859231859
+2,Australia,12,C Green,Usman Qadir,AJ Finch,,0,1,1,,,,31859231859
+2,Australia,12,AJ Finch,Usman Qadir,C Green,,0,1,1,,,,31859231859
+2,Australia,13,AJ Finch,Mohammad Wasim,C Green,,0,2,2,,,,31859231859
+2,Australia,13,AJ Finch,Mohammad Wasim,C Green,,0,2,2,,,,31859231859
+2,Australia,13,AJ Finch,Mohammad Wasim,C Green,,0,1,1,,,,31859231859
+2,Australia,13,C Green,Mohammad Wasim,AJ Finch,,0,0,0,bowled,C Green,,31859231859
+2,Australia,13,BR McDermott,Mohammad Wasim,AJ Finch,,0,0,0,,,,31859231859
+2,Australia,13,BR McDermott,Mohammad Wasim,AJ Finch,,0,1,1,,,,31859231859
+2,Australia,14,BR McDermott,Hasan Ali,AJ Finch,,0,0,0,,,,31859231859
+2,Australia,14,BR McDermott,Hasan Ali,AJ Finch,,0,1,1,,,,31859231859
+2,Australia,14,AJ Finch,Hasan Ali,BR McDermott,,0,1,1,,,,31859231859
+2,Australia,14,BR McDermott,Hasan Ali,AJ Finch,,0,1,1,,,,31859231859
+2,Australia,14,AJ Finch,Hasan Ali,BR McDermott,,0,4,4,,,,31859231859
+2,Australia,14,AJ Finch,Hasan Ali,BR McDermott,,0,1,1,,,,31859231859
+2,Australia,15,AJ Finch,Mohammad Wasim,BR McDermott,,0,0,0,,,,31859231859
+2,Australia,15,AJ Finch,Mohammad Wasim,BR McDermott,,0,1,1,,,,31859231859
+2,Australia,15,BR McDermott,Mohammad Wasim,AJ Finch,wides,1,1,0,,,,31859231859
+2,Australia,15,BR McDermott,Mohammad Wasim,AJ Finch,,0,0,0,,,,31859231859
+2,Australia,15,BR McDermott,Mohammad Wasim,AJ Finch,,0,1,1,,,,31859231859
+2,Australia,15,AJ Finch,Mohammad Wasim,BR McDermott,,0,0,0,,,,31859231859
+2,Australia,15,AJ Finch,Mohammad Wasim,BR McDermott,,0,2,2,,,,31859231859
+2,Australia,16,BR McDermott,Shaheen Shah Afridi,AJ Finch,,0,0,0,,,,31859231859
+2,Australia,16,BR McDermott,Shaheen Shah Afridi,AJ Finch,,0,2,2,,,,31859231859
+2,Australia,16,BR McDermott,Shaheen Shah Afridi,AJ Finch,,0,1,1,,,,31859231859
+2,Australia,16,AJ Finch,Shaheen Shah Afridi,BR McDermott,,0,0,0,,,,31859231859
+2,Australia,16,AJ Finch,Shaheen Shah Afridi,BR McDermott,,0,1,1,,,,31859231859
+2,Australia,16,BR McDermott,Shaheen Shah Afridi,AJ Finch,,0,1,1,,,,31859231859
+2,Australia,17,BR McDermott,Haris Rauf,AJ Finch,,0,4,4,,,,31859231859
+2,Australia,17,BR McDermott,Haris Rauf,AJ Finch,,0,4,4,,,,31859231859
+2,Australia,17,BR McDermott,Haris Rauf,AJ Finch,,0,1,1,,,,31859231859
+2,Australia,17,AJ Finch,Haris Rauf,BR McDermott,,0,1,1,,,,31859231859
+2,Australia,17,BR McDermott,Haris Rauf,AJ Finch,,0,0,0,,,,31859231859
+2,Australia,17,BR McDermott,Haris Rauf,AJ Finch,,0,0,0,,,,31859231859
+2,Australia,18,AJ Finch,Shaheen Shah Afridi,BR McDermott,,0,0,0,caught,AJ Finch,Asif Ali,31859231859
+2,Australia,18,BR McDermott,Shaheen Shah Afridi,SA Abbott,,0,0,0,,,,31859231859
+2,Australia,18,BR McDermott,Shaheen Shah Afridi,SA Abbott,,0,1,1,,,,31859231859
+2,Australia,18,SA Abbott,Shaheen Shah Afridi,BR McDermott,,0,0,0,bowled,SA Abbott,,31859231859
+2,Australia,18,BJ Dwarshuis,Shaheen Shah Afridi,BR McDermott,,0,0,0,,,,31859231859
+2,Australia,18,BJ Dwarshuis,Shaheen Shah Afridi,BR McDermott,,0,0,0,,,,31859231859
+2,Australia,19,BR McDermott,Haris Rauf,BJ Dwarshuis,,0,4,4,,,,31859231859

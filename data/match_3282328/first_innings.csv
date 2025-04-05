@@ -1,0 +1,127 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,GC Smith,JM Anderson,JP Duminy,,0,1,1,,,,3282328
+1,South Africa,0,JP Duminy,JM Anderson,GC Smith,,0,0,0,,,,3282328
+1,South Africa,0,JP Duminy,JM Anderson,GC Smith,,0,0,0,,,,3282328
+1,South Africa,0,JP Duminy,JM Anderson,GC Smith,wides,1,1,0,,,,3282328
+1,South Africa,0,JP Duminy,JM Anderson,GC Smith,wides,1,1,0,,,,3282328
+1,South Africa,0,JP Duminy,JM Anderson,GC Smith,legbyes,1,1,0,,,,3282328
+1,South Africa,0,GC Smith,JM Anderson,JP Duminy,,0,4,4,,,,3282328
+1,South Africa,0,GC Smith,JM Anderson,JP Duminy,,0,0,0,,,,3282328
+1,South Africa,1,JP Duminy,SCJ Broad,GC Smith,,0,0,0,caught,JP Duminy,MJ Prior,3282328
+1,South Africa,1,AB de Villiers,SCJ Broad,GC Smith,,0,0,0,,,,3282328
+1,South Africa,1,AB de Villiers,SCJ Broad,GC Smith,,0,0,0,,,,3282328
+1,South Africa,1,AB de Villiers,SCJ Broad,GC Smith,,0,4,4,,,,3282328
+1,South Africa,1,AB de Villiers,SCJ Broad,GC Smith,,0,4,4,,,,3282328
+1,South Africa,1,AB de Villiers,SCJ Broad,GC Smith,,0,2,2,,,,3282328
+1,South Africa,2,GC Smith,A Flintoff,AB de Villiers,,0,0,0,,,,3282328
+1,South Africa,2,GC Smith,A Flintoff,AB de Villiers,,0,4,4,,,,3282328
+1,South Africa,2,GC Smith,A Flintoff,AB de Villiers,,0,1,1,,,,3282328
+1,South Africa,2,AB de Villiers,A Flintoff,GC Smith,,0,0,0,,,,3282328
+1,South Africa,2,AB de Villiers,A Flintoff,GC Smith,,0,0,0,,,,3282328
+1,South Africa,2,AB de Villiers,A Flintoff,GC Smith,,0,0,0,,,,3282328
+1,South Africa,3,GC Smith,JM Anderson,AB de Villiers,,0,0,0,,,,3282328
+1,South Africa,3,GC Smith,JM Anderson,AB de Villiers,,0,4,4,,,,3282328
+1,South Africa,3,GC Smith,JM Anderson,AB de Villiers,,0,0,0,,,,3282328
+1,South Africa,3,GC Smith,JM Anderson,AB de Villiers,,0,0,0,,,,3282328
+1,South Africa,3,GC Smith,JM Anderson,AB de Villiers,,0,4,4,,,,3282328
+1,South Africa,3,GC Smith,JM Anderson,AB de Villiers,,0,1,1,,,,3282328
+1,South Africa,4,GC Smith,SCJ Broad,AB de Villiers,wides,1,1,0,,,,3282328
+1,South Africa,4,GC Smith,SCJ Broad,AB de Villiers,,0,0,0,caught,GC Smith,AD Mascarenhas,3282328
+1,South Africa,4,AB de Villiers,SCJ Broad,JM Kemp,,0,0,0,,,,3282328
+1,South Africa,4,AB de Villiers,SCJ Broad,JM Kemp,,0,4,4,,,,3282328
+1,South Africa,4,AB de Villiers,SCJ Broad,JM Kemp,,0,0,0,,,,3282328
+1,South Africa,4,AB de Villiers,SCJ Broad,JM Kemp,,0,4,4,,,,3282328
+1,South Africa,4,AB de Villiers,SCJ Broad,JM Kemp,legbyes,1,1,0,,,,3282328
+1,South Africa,5,AB de Villiers,A Flintoff,JM Kemp,,0,0,0,caught,AB de Villiers,MJ Prior,3282328
+1,South Africa,5,MV Boucher,A Flintoff,JM Kemp,,0,1,1,,,,3282328
+1,South Africa,5,JM Kemp,A Flintoff,MV Boucher,,0,0,0,,,,3282328
+1,South Africa,5,JM Kemp,A Flintoff,MV Boucher,,0,0,0,,,,3282328
+1,South Africa,5,JM Kemp,A Flintoff,MV Boucher,,0,0,0,,,,3282328
+1,South Africa,5,JM Kemp,A Flintoff,MV Boucher,,0,0,0,,,,3282328
+1,South Africa,6,MV Boucher,SCJ Broad,JM Kemp,,0,0,0,,,,3282328
+1,South Africa,6,MV Boucher,SCJ Broad,JM Kemp,,0,0,0,,,,3282328
+1,South Africa,6,MV Boucher,SCJ Broad,JM Kemp,,0,4,4,,,,3282328
+1,South Africa,6,MV Boucher,SCJ Broad,JM Kemp,,0,1,1,,,,3282328
+1,South Africa,6,JM Kemp,SCJ Broad,MV Boucher,,0,1,1,,,,3282328
+1,South Africa,6,MV Boucher,SCJ Broad,JM Kemp,,0,0,0,,,,3282328
+1,South Africa,7,JM Kemp,AD Mascarenhas,MV Boucher,,0,0,0,,,,3282328
+1,South Africa,7,JM Kemp,AD Mascarenhas,MV Boucher,,0,3,3,,,,3282328
+1,South Africa,7,MV Boucher,AD Mascarenhas,JM Kemp,,0,1,1,,,,3282328
+1,South Africa,7,JM Kemp,AD Mascarenhas,MV Boucher,,0,0,0,,,,3282328
+1,South Africa,7,JM Kemp,AD Mascarenhas,MV Boucher,,0,0,0,,,,3282328
+1,South Africa,7,JM Kemp,AD Mascarenhas,MV Boucher,,0,1,1,,,,3282328
+1,South Africa,8,JM Kemp,CP Schofield,MV Boucher,,0,1,1,,,,3282328
+1,South Africa,8,MV Boucher,CP Schofield,JM Kemp,,0,0,0,,,,3282328
+1,South Africa,8,MV Boucher,CP Schofield,JM Kemp,,0,0,0,,,,3282328
+1,South Africa,8,MV Boucher,CP Schofield,JM Kemp,wides,1,1,0,,,,3282328
+1,South Africa,8,MV Boucher,CP Schofield,JM Kemp,,0,0,0,,,,3282328
+1,South Africa,8,MV Boucher,CP Schofield,JM Kemp,,0,0,0,,,,3282328
+1,South Africa,8,MV Boucher,CP Schofield,JM Kemp,,0,0,0,,,,3282328
+1,South Africa,9,JM Kemp,JN Snape,MV Boucher,,0,1,1,,,,3282328
+1,South Africa,9,MV Boucher,JN Snape,JM Kemp,,0,1,1,,,,3282328
+1,South Africa,9,JM Kemp,JN Snape,MV Boucher,,0,1,1,,,,3282328
+1,South Africa,9,MV Boucher,JN Snape,JM Kemp,,0,2,2,,,,3282328
+1,South Africa,9,MV Boucher,JN Snape,JM Kemp,,0,1,1,,,,3282328
+1,South Africa,9,JM Kemp,JN Snape,MV Boucher,,0,6,6,,,,3282328
+1,South Africa,10,MV Boucher,CP Schofield,JM Kemp,,0,4,4,,,,3282328
+1,South Africa,10,MV Boucher,CP Schofield,JM Kemp,,0,1,1,,,,3282328
+1,South Africa,10,JM Kemp,CP Schofield,MV Boucher,,0,1,1,,,,3282328
+1,South Africa,10,MV Boucher,CP Schofield,JM Kemp,,0,1,1,,,,3282328
+1,South Africa,10,JM Kemp,CP Schofield,MV Boucher,,0,1,1,,,,3282328
+1,South Africa,10,MV Boucher,CP Schofield,JM Kemp,,0,1,1,,,,3282328
+1,South Africa,11,MV Boucher,AD Mascarenhas,JM Kemp,,0,4,4,,,,3282328
+1,South Africa,11,MV Boucher,AD Mascarenhas,JM Kemp,,0,1,1,,,,3282328
+1,South Africa,11,JM Kemp,AD Mascarenhas,MV Boucher,,0,1,1,,,,3282328
+1,South Africa,11,MV Boucher,AD Mascarenhas,JM Kemp,,0,0,0,,,,3282328
+1,South Africa,11,MV Boucher,AD Mascarenhas,JM Kemp,,0,2,2,,,,3282328
+1,South Africa,11,MV Boucher,AD Mascarenhas,JM Kemp,,0,1,1,,,,3282328
+1,South Africa,12,MV Boucher,JM Anderson,JM Kemp,,0,1,1,,,,3282328
+1,South Africa,12,JM Kemp,JM Anderson,MV Boucher,,0,0,0,,,,3282328
+1,South Africa,12,JM Kemp,JM Anderson,MV Boucher,,0,1,1,,,,3282328
+1,South Africa,12,MV Boucher,JM Anderson,JM Kemp,,0,0,0,,,,3282328
+1,South Africa,12,MV Boucher,JM Anderson,JM Kemp,,0,1,1,,,,3282328
+1,South Africa,12,JM Kemp,JM Anderson,MV Boucher,,0,0,0,,,,3282328
+1,South Africa,13,MV Boucher,CP Schofield,JM Kemp,,0,1,1,,,,3282328
+1,South Africa,13,JM Kemp,CP Schofield,MV Boucher,,0,1,1,,,,3282328
+1,South Africa,13,MV Boucher,CP Schofield,JM Kemp,,0,0,0,caught,MV Boucher,KP Pietersen,3282328
+1,South Africa,13,JM Kemp,CP Schofield,SM Pollock,,0,0,0,,,,3282328
+1,South Africa,13,JM Kemp,CP Schofield,SM Pollock,,0,0,0,,,,3282328
+1,South Africa,13,JM Kemp,CP Schofield,SM Pollock,,0,0,0,,,,3282328
+1,South Africa,14,SM Pollock,JM Anderson,JM Kemp,,0,0,0,caught,SM Pollock,MJ Prior,3282328
+1,South Africa,14,JM Kemp,JM Anderson,JA Morkel,,0,1,1,,,,3282328
+1,South Africa,14,JA Morkel,JM Anderson,JM Kemp,,0,0,0,,,,3282328
+1,South Africa,14,JA Morkel,JM Anderson,JM Kemp,,0,0,0,,,,3282328
+1,South Africa,14,JA Morkel,JM Anderson,JM Kemp,,0,1,1,,,,3282328
+1,South Africa,14,JM Kemp,JM Anderson,JA Morkel,,0,1,1,,,,3282328
+1,South Africa,15,JM Kemp,AD Mascarenhas,JA Morkel,,0,0,0,caught,JM Kemp,MJ Prior,3282328
+1,South Africa,15,JA Morkel,AD Mascarenhas,VD Philander,,0,1,1,,,,3282328
+1,South Africa,15,VD Philander,AD Mascarenhas,JA Morkel,,0,1,1,,,,3282328
+1,South Africa,15,JA Morkel,AD Mascarenhas,VD Philander,,0,6,6,,,,3282328
+1,South Africa,15,JA Morkel,AD Mascarenhas,VD Philander,,0,1,1,,,,3282328
+1,South Africa,15,VD Philander,AD Mascarenhas,JA Morkel,,0,1,1,,,,3282328
+1,South Africa,16,VD Philander,A Flintoff,JA Morkel,wides,1,1,0,,,,3282328
+1,South Africa,16,VD Philander,A Flintoff,JA Morkel,,0,1,1,,,,3282328
+1,South Africa,16,JA Morkel,A Flintoff,VD Philander,,0,0,0,,,,3282328
+1,South Africa,16,JA Morkel,A Flintoff,VD Philander,,0,1,1,,,,3282328
+1,South Africa,16,VD Philander,A Flintoff,JA Morkel,,0,1,1,,,,3282328
+1,South Africa,16,JA Morkel,A Flintoff,VD Philander,,0,4,4,,,,3282328
+1,South Africa,16,JA Morkel,A Flintoff,VD Philander,,0,0,0,,,,3282328
+1,South Africa,17,VD Philander,CP Schofield,JA Morkel,,0,1,1,,,,3282328
+1,South Africa,17,JA Morkel,CP Schofield,VD Philander,,0,1,1,,,,3282328
+1,South Africa,17,VD Philander,CP Schofield,JA Morkel,,0,1,1,,,,3282328
+1,South Africa,17,JA Morkel,CP Schofield,VD Philander,,0,6,6,,,,3282328
+1,South Africa,17,JA Morkel,CP Schofield,VD Philander,,0,6,6,,,,3282328
+1,South Africa,17,JA Morkel,CP Schofield,VD Philander,,0,6,6,,,,3282328
+1,South Africa,18,VD Philander,SCJ Broad,JA Morkel,,0,0,0,bowled,VD Philander,,3282328
+1,South Africa,18,JJ van der Wath,SCJ Broad,JA Morkel,,0,1,1,,,,3282328
+1,South Africa,18,JA Morkel,SCJ Broad,JJ van der Wath,,0,1,1,,,,3282328
+1,South Africa,18,JJ van der Wath,SCJ Broad,JA Morkel,wides,2,2,0,,,,3282328
+1,South Africa,18,JA Morkel,SCJ Broad,JJ van der Wath,,0,4,4,,,,3282328
+1,South Africa,18,JA Morkel,SCJ Broad,JJ van der Wath,,0,0,0,,,,3282328
+1,South Africa,18,JA Morkel,SCJ Broad,JJ van der Wath,,0,4,4,,,,3282328
+1,South Africa,19,JJ van der Wath,A Flintoff,JA Morkel,,0,1,1,,,,3282328
+1,South Africa,19,JA Morkel,A Flintoff,JJ van der Wath,,0,1,1,,,,3282328
+1,South Africa,19,JJ van der Wath,A Flintoff,JA Morkel,,0,4,4,,,,3282328
+1,South Africa,19,JJ van der Wath,A Flintoff,JA Morkel,,0,2,2,,,,3282328
+1,South Africa,19,JJ van der Wath,A Flintoff,JA Morkel,,0,1,1,,,,3282328
+1,South Africa,19,JA Morkel,A Flintoff,JJ van der Wath,,0,0,0,caught,JA Morkel,JN Snape,3282328

@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Botswana,0,T Perera,Z Groenewald,K Mothlhanka,,0,0,0,,,,31243231243
+2,Botswana,0,T Perera,Z Groenewald,K Mothlhanka,,0,0,0,,,,31243231243
+2,Botswana,0,T Perera,Z Groenewald,K Mothlhanka,,0,0,0,,,,31243231243
+2,Botswana,0,T Perera,Z Groenewald,K Mothlhanka,,0,1,1,,,,31243231243
+2,Botswana,0,K Mothlhanka,Z Groenewald,T Perera,,0,0,0,,,,31243231243
+2,Botswana,0,K Mothlhanka,Z Groenewald,T Perera,,0,0,0,,,,31243231243
+2,Botswana,1,T Perera,HN Ya France,K Mothlhanka,,0,4,4,,,,31243231243
+2,Botswana,1,T Perera,HN Ya France,K Mothlhanka,,0,1,1,,,,31243231243
+2,Botswana,1,K Mothlhanka,HN Ya France,T Perera,,0,2,2,,,,31243231243
+2,Botswana,1,K Mothlhanka,HN Ya France,T Perera,,0,1,1,,,,31243231243
+2,Botswana,1,T Perera,HN Ya France,K Mothlhanka,,0,0,0,,,,31243231243
+2,Botswana,1,T Perera,HN Ya France,K Mothlhanka,,0,4,4,,,,31243231243
+2,Botswana,2,K Mothlhanka,T Lungameni,T Perera,,0,1,1,,,,31243231243
+2,Botswana,2,T Perera,T Lungameni,K Mothlhanka,,0,0,0,,,,31243231243
+2,Botswana,2,T Perera,T Lungameni,K Mothlhanka,,0,1,1,,,,31243231243
+2,Botswana,2,K Mothlhanka,T Lungameni,T Perera,,0,4,4,,,,31243231243
+2,Botswana,2,K Mothlhanka,T Lungameni,T Perera,,0,1,1,,,,31243231243
+2,Botswana,2,T Perera,T Lungameni,K Mothlhanka,,0,0,0,,,,31243231243
+2,Botswana,3,K Mothlhanka,HN Ya France,T Perera,,0,2,2,,,,31243231243
+2,Botswana,3,K Mothlhanka,HN Ya France,T Perera,,0,1,1,,,,31243231243
+2,Botswana,3,T Perera,HN Ya France,K Mothlhanka,,0,0,0,,,,31243231243
+2,Botswana,3,T Perera,HN Ya France,K Mothlhanka,,0,0,0,,,,31243231243
+2,Botswana,3,T Perera,HN Ya France,K Mothlhanka,,0,0,0,,,,31243231243
+2,Botswana,3,T Perera,HN Ya France,K Mothlhanka,,0,1,1,,,,31243231243
+2,Botswana,4,T Perera,Z Groenewald,K Mothlhanka,,0,1,1,,,,31243231243
+2,Botswana,4,K Mothlhanka,Z Groenewald,T Perera,wides,1,1,0,,,,31243231243
+2,Botswana,4,K Mothlhanka,Z Groenewald,T Perera,,0,1,1,,,,31243231243
+2,Botswana,4,T Perera,Z Groenewald,K Mothlhanka,,0,1,1,,,,31243231243
+2,Botswana,4,K Mothlhanka,Z Groenewald,T Perera,,0,0,0,,,,31243231243
+2,Botswana,4,K Mothlhanka,Z Groenewald,T Perera,,0,1,1,,,,31243231243
+2,Botswana,4,T Perera,Z Groenewald,K Mothlhanka,,0,0,0,,,,31243231243
+2,Botswana,5,K Mothlhanka,HN Ya France,T Perera,,0,1,1,,,,31243231243
+2,Botswana,5,T Perera,HN Ya France,K Mothlhanka,,0,4,4,,,,31243231243
+2,Botswana,5,T Perera,HN Ya France,K Mothlhanka,,0,0,0,caught,T Perera,JN Frylinck,31243231243
+2,Botswana,5,H Pragji,HN Ya France,K Mothlhanka,,0,0,0,,,,31243231243
+2,Botswana,5,H Pragji,HN Ya France,K Mothlhanka,,0,0,0,,,,31243231243
+2,Botswana,5,H Pragji,HN Ya France,K Mothlhanka,,0,0,0,,,,31243231243
+2,Botswana,6,K Mothlhanka,B Shikongo,H Pragji,,0,1,1,,,,31243231243
+2,Botswana,6,H Pragji,B Shikongo,K Mothlhanka,,0,1,1,,,,31243231243
+2,Botswana,6,K Mothlhanka,B Shikongo,H Pragji,wides,1,1,0,,,,31243231243
+2,Botswana,6,K Mothlhanka,B Shikongo,H Pragji,,0,1,1,,,,31243231243
+2,Botswana,6,H Pragji,B Shikongo,K Mothlhanka,,0,0,0,,,,31243231243
+2,Botswana,6,H Pragji,B Shikongo,K Mothlhanka,,0,0,0,,,,31243231243
+2,Botswana,6,H Pragji,B Shikongo,K Mothlhanka,,0,1,1,,,,31243231243
+2,Botswana,7,H Pragji,HN Ya France,K Mothlhanka,,0,1,1,,,,31243231243
+2,Botswana,7,K Mothlhanka,HN Ya France,H Pragji,,0,0,0,,,,31243231243
+2,Botswana,7,K Mothlhanka,HN Ya France,H Pragji,,0,1,1,,,,31243231243
+2,Botswana,7,H Pragji,HN Ya France,K Mothlhanka,,0,0,0,,,,31243231243
+2,Botswana,7,H Pragji,HN Ya France,K Mothlhanka,,0,1,1,,,,31243231243
+2,Botswana,7,K Mothlhanka,HN Ya France,H Pragji,,0,1,1,,,,31243231243
+2,Botswana,8,K Mothlhanka,B Shikongo,H Pragji,noballs,1,1,0,,,,31243231243
+2,Botswana,8,K Mothlhanka,B Shikongo,H Pragji,,0,0,0,,,,31243231243
+2,Botswana,8,K Mothlhanka,B Shikongo,H Pragji,,0,0,0,,,,31243231243
+2,Botswana,8,K Mothlhanka,B Shikongo,H Pragji,,0,1,1,,,,31243231243
+2,Botswana,8,H Pragji,B Shikongo,K Mothlhanka,,0,2,2,,,,31243231243
+2,Botswana,8,H Pragji,B Shikongo,K Mothlhanka,,0,0,0,,,,31243231243
+2,Botswana,8,H Pragji,B Shikongo,K Mothlhanka,,0,0,0,,,,31243231243
+2,Botswana,9,K Mothlhanka,MG Erasmus,H Pragji,,0,0,0,,,,31243231243
+2,Botswana,9,K Mothlhanka,MG Erasmus,H Pragji,,0,1,1,,,,31243231243
+2,Botswana,9,H Pragji,MG Erasmus,K Mothlhanka,,0,0,0,,,,31243231243
+2,Botswana,9,H Pragji,MG Erasmus,K Mothlhanka,,0,1,1,,,,31243231243
+2,Botswana,9,K Mothlhanka,MG Erasmus,H Pragji,,0,2,2,,,,31243231243
+2,Botswana,9,K Mothlhanka,MG Erasmus,H Pragji,,0,0,0,,,,31243231243
+2,Botswana,10,H Pragji,B Shikongo,K Mothlhanka,,0,0,0,,,,31243231243
+2,Botswana,10,H Pragji,B Shikongo,K Mothlhanka,,0,0,0,,,,31243231243
+2,Botswana,10,H Pragji,B Shikongo,K Mothlhanka,,0,1,1,,,,31243231243
+2,Botswana,10,K Mothlhanka,B Shikongo,H Pragji,,0,4,4,,,,31243231243
+2,Botswana,10,K Mothlhanka,B Shikongo,H Pragji,,0,0,0,,,,31243231243
+2,Botswana,10,K Mothlhanka,B Shikongo,H Pragji,,0,1,1,,,,31243231243
+2,Botswana,11,K Mothlhanka,MG Erasmus,H Pragji,,0,1,1,,,,31243231243
+2,Botswana,11,H Pragji,MG Erasmus,K Mothlhanka,,0,1,1,,,,31243231243
+2,Botswana,11,K Mothlhanka,MG Erasmus,H Pragji,,0,1,1,,,,31243231243
+2,Botswana,11,H Pragji,MG Erasmus,K Mothlhanka,,0,1,1,,,,31243231243
+2,Botswana,11,K Mothlhanka,MG Erasmus,H Pragji,,0,1,1,,,,31243231243
+2,Botswana,11,H Pragji,MG Erasmus,K Mothlhanka,,0,2,2,,,,31243231243
+2,Botswana,12,K Mothlhanka,T Lungameni,H Pragji,,0,1,1,,,,31243231243
+2,Botswana,12,H Pragji,T Lungameni,K Mothlhanka,,0,0,0,,,,31243231243
+2,Botswana,12,H Pragji,T Lungameni,K Mothlhanka,,0,0,0,,,,31243231243
+2,Botswana,12,H Pragji,T Lungameni,K Mothlhanka,,0,1,1,,,,31243231243
+2,Botswana,12,K Mothlhanka,T Lungameni,H Pragji,,0,1,1,,,,31243231243
+2,Botswana,12,H Pragji,T Lungameni,K Mothlhanka,,0,1,1,,,,31243231243
+2,Botswana,13,H Pragji,MG Erasmus,K Mothlhanka,,0,4,4,,,,31243231243
+2,Botswana,13,H Pragji,MG Erasmus,K Mothlhanka,,0,1,1,,,,31243231243
+2,Botswana,13,K Mothlhanka,MG Erasmus,H Pragji,,0,0,0,,,,31243231243
+2,Botswana,13,K Mothlhanka,MG Erasmus,H Pragji,,0,1,1,,,,31243231243
+2,Botswana,13,H Pragji,MG Erasmus,K Mothlhanka,,0,1,1,,,,31243231243
+2,Botswana,13,K Mothlhanka,MG Erasmus,H Pragji,,0,1,1,,,,31243231243
+2,Botswana,14,K Mothlhanka,T Lungameni,H Pragji,wides,1,1,0,,,,31243231243
+2,Botswana,14,K Mothlhanka,T Lungameni,H Pragji,,0,0,0,,,,31243231243
+2,Botswana,14,K Mothlhanka,T Lungameni,H Pragji,,0,2,2,,,,31243231243
+2,Botswana,14,K Mothlhanka,T Lungameni,H Pragji,,0,0,0,,,,31243231243
+2,Botswana,14,K Mothlhanka,T Lungameni,H Pragji,,0,1,1,,,,31243231243
+2,Botswana,14,H Pragji,T Lungameni,K Mothlhanka,,0,0,0,,,,31243231243
+2,Botswana,14,H Pragji,T Lungameni,K Mothlhanka,,0,0,0,,,,31243231243
+2,Botswana,15,K Mothlhanka,CG Williams,H Pragji,,0,6,6,,,,31243231243
+2,Botswana,15,K Mothlhanka,CG Williams,H Pragji,,0,0,0,,,,31243231243
+2,Botswana,15,K Mothlhanka,CG Williams,H Pragji,,0,1,1,,,,31243231243
+2,Botswana,15,H Pragji,CG Williams,K Mothlhanka,,0,1,1,,,,31243231243
+2,Botswana,15,K Mothlhanka,CG Williams,H Pragji,,0,1,1,,,,31243231243
+2,Botswana,15,H Pragji,CG Williams,K Mothlhanka,,0,0,0,,,,31243231243
+2,Botswana,16,K Mothlhanka,T Lungameni,H Pragji,,0,1,1,,,,31243231243
+2,Botswana,16,H Pragji,T Lungameni,K Mothlhanka,,0,1,1,,,,31243231243
+2,Botswana,16,K Mothlhanka,T Lungameni,H Pragji,,0,2,2,,,,31243231243
+2,Botswana,16,K Mothlhanka,T Lungameni,H Pragji,,0,4,4,,,,31243231243
+2,Botswana,16,K Mothlhanka,T Lungameni,H Pragji,,0,0,0,,,,31243231243
+2,Botswana,16,K Mothlhanka,T Lungameni,H Pragji,,0,2,2,,,,31243231243
+2,Botswana,17,H Pragji,CG Williams,K Mothlhanka,,0,1,1,,,,31243231243
+2,Botswana,17,K Mothlhanka,CG Williams,H Pragji,,0,1,1,,,,31243231243
+2,Botswana,17,H Pragji,CG Williams,K Mothlhanka,,0,0,0,,,,31243231243
+2,Botswana,17,H Pragji,CG Williams,K Mothlhanka,legbyes,1,1,0,,,,31243231243
+2,Botswana,17,K Mothlhanka,CG Williams,H Pragji,,0,2,2,,,,31243231243
+2,Botswana,17,K Mothlhanka,CG Williams,H Pragji,,0,0,0,,,,31243231243
+2,Botswana,18,H Pragji,B Shikongo,K Mothlhanka,,0,1,1,,,,31243231243
+2,Botswana,18,K Mothlhanka,B Shikongo,H Pragji,,0,1,1,,,,31243231243
+2,Botswana,18,H Pragji,B Shikongo,K Mothlhanka,,0,1,1,,,,31243231243
+2,Botswana,18,K Mothlhanka,B Shikongo,H Pragji,,0,0,0,caught,K Mothlhanka,ZE Green,31243231243
+2,Botswana,18,R Nehonde,B Shikongo,H Pragji,,0,1,1,,,,31243231243
+2,Botswana,18,H Pragji,B Shikongo,R Nehonde,,0,1,1,,,,31243231243
+2,Botswana,19,H Pragji,CG Williams,R Nehonde,,0,1,1,,,,31243231243
+2,Botswana,19,R Nehonde,CG Williams,H Pragji,,0,1,1,,,,31243231243
+2,Botswana,19,H Pragji,CG Williams,R Nehonde,,0,2,2,,,,31243231243
+2,Botswana,19,H Pragji,CG Williams,R Nehonde,,0,1,1,,,,31243231243
+2,Botswana,19,R Nehonde,CG Williams,H Pragji,,0,0,0,,,,31243231243
+2,Botswana,19,R Nehonde,CG Williams,H Pragji,,0,2,2,,,,31243231243

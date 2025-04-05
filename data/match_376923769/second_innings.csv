@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Sri Lanka,0,MD Gunathilaka,Imad Wasim,EMDY Munaweera,,0,1,1,,,,376923769
+2,Sri Lanka,0,EMDY Munaweera,Imad Wasim,MD Gunathilaka,,0,0,0,,,,376923769
+2,Sri Lanka,0,EMDY Munaweera,Imad Wasim,MD Gunathilaka,,0,1,1,,,,376923769
+2,Sri Lanka,0,MD Gunathilaka,Imad Wasim,EMDY Munaweera,,0,2,2,,,,376923769
+2,Sri Lanka,0,MD Gunathilaka,Imad Wasim,EMDY Munaweera,,0,2,2,,,,376923769
+2,Sri Lanka,0,MD Gunathilaka,Imad Wasim,EMDY Munaweera,,0,4,4,,,,376923769
+2,Sri Lanka,1,EMDY Munaweera,Mohammad Amir,MD Gunathilaka,,0,0,0,,,,376923769
+2,Sri Lanka,1,EMDY Munaweera,Mohammad Amir,MD Gunathilaka,,0,0,0,bowled,EMDY Munaweera,,376923769
+2,Sri Lanka,1,S Samarawickrama,Mohammad Amir,MD Gunathilaka,,0,2,2,,,,376923769
+2,Sri Lanka,1,S Samarawickrama,Mohammad Amir,MD Gunathilaka,legbyes,1,1,0,,,,376923769
+2,Sri Lanka,1,MD Gunathilaka,Mohammad Amir,S Samarawickrama,,0,0,0,,,,376923769
+2,Sri Lanka,1,MD Gunathilaka,Mohammad Amir,S Samarawickrama,,0,0,0,,,,376923769
+2,Sri Lanka,2,S Samarawickrama,Imad Wasim,MD Gunathilaka,,0,0,0,,,,376923769
+2,Sri Lanka,2,S Samarawickrama,Imad Wasim,MD Gunathilaka,,0,2,2,,,,376923769
+2,Sri Lanka,2,S Samarawickrama,Imad Wasim,MD Gunathilaka,,0,0,0,,,,376923769
+2,Sri Lanka,2,S Samarawickrama,Imad Wasim,MD Gunathilaka,,0,0,0,,,,376923769
+2,Sri Lanka,2,S Samarawickrama,Imad Wasim,MD Gunathilaka,,0,0,0,caught,S Samarawickrama,Babar Azam,376923769
+2,Sri Lanka,2,ML Udawatte,Imad Wasim,MD Gunathilaka,,0,1,1,,,,376923769
+2,Sri Lanka,3,ML Udawatte,Mohammad Hafeez,MD Gunathilaka,,0,0,0,,,,376923769
+2,Sri Lanka,3,ML Udawatte,Mohammad Hafeez,MD Gunathilaka,,0,4,4,,,,376923769
+2,Sri Lanka,3,ML Udawatte,Mohammad Hafeez,MD Gunathilaka,,0,1,1,,,,376923769
+2,Sri Lanka,3,MD Gunathilaka,Mohammad Hafeez,ML Udawatte,,0,0,0,caught and bowled,MD Gunathilaka,,376923769
+2,Sri Lanka,3,MD Shanaka,Mohammad Hafeez,ML Udawatte,,0,0,0,,,,376923769
+2,Sri Lanka,3,MD Shanaka,Mohammad Hafeez,ML Udawatte,,0,1,1,,,,376923769
+2,Sri Lanka,4,MD Shanaka,Imad Wasim,ML Udawatte,,0,4,4,,,,376923769
+2,Sri Lanka,4,MD Shanaka,Imad Wasim,ML Udawatte,,0,0,0,,,,376923769
+2,Sri Lanka,4,MD Shanaka,Imad Wasim,ML Udawatte,,0,0,0,,,,376923769
+2,Sri Lanka,4,MD Shanaka,Imad Wasim,ML Udawatte,,0,4,4,,,,376923769
+2,Sri Lanka,4,MD Shanaka,Imad Wasim,ML Udawatte,,0,1,1,,,,376923769
+2,Sri Lanka,4,ML Udawatte,Imad Wasim,MD Shanaka,,0,1,1,,,,376923769
+2,Sri Lanka,5,ML Udawatte,Mohammad Amir,MD Shanaka,,0,0,0,,,,376923769
+2,Sri Lanka,5,ML Udawatte,Mohammad Amir,MD Shanaka,,0,1,1,,,,376923769
+2,Sri Lanka,5,MD Shanaka,Mohammad Amir,ML Udawatte,,0,0,0,,,,376923769
+2,Sri Lanka,5,MD Shanaka,Mohammad Amir,ML Udawatte,,0,0,0,,,,376923769
+2,Sri Lanka,5,MD Shanaka,Mohammad Amir,ML Udawatte,,0,4,4,,,,376923769
+2,Sri Lanka,5,MD Shanaka,Mohammad Amir,ML Udawatte,,0,1,1,,,,376923769
+2,Sri Lanka,6,MD Shanaka,Faheem Ashraf,ML Udawatte,,0,0,0,,,,376923769
+2,Sri Lanka,6,MD Shanaka,Faheem Ashraf,ML Udawatte,,0,1,1,,,,376923769
+2,Sri Lanka,6,ML Udawatte,Faheem Ashraf,MD Shanaka,,0,0,0,,,,376923769
+2,Sri Lanka,6,ML Udawatte,Faheem Ashraf,MD Shanaka,,0,1,1,,,,376923769
+2,Sri Lanka,6,MD Shanaka,Faheem Ashraf,ML Udawatte,,0,0,0,,,,376923769
+2,Sri Lanka,6,MD Shanaka,Faheem Ashraf,ML Udawatte,,0,1,1,,,,376923769
+2,Sri Lanka,7,MD Shanaka,Shadab Khan,ML Udawatte,,0,0,0,,,,376923769
+2,Sri Lanka,7,MD Shanaka,Shadab Khan,ML Udawatte,,0,6,6,,,,376923769
+2,Sri Lanka,7,MD Shanaka,Shadab Khan,ML Udawatte,,0,1,1,,,,376923769
+2,Sri Lanka,7,ML Udawatte,Shadab Khan,MD Shanaka,,0,1,1,,,,376923769
+2,Sri Lanka,7,MD Shanaka,Shadab Khan,ML Udawatte,,0,6,6,,,,376923769
+2,Sri Lanka,7,MD Shanaka,Shadab Khan,ML Udawatte,,0,0,0,,,,376923769
+2,Sri Lanka,8,ML Udawatte,Faheem Ashraf,MD Shanaka,,0,1,1,,,,376923769
+2,Sri Lanka,8,MD Shanaka,Faheem Ashraf,ML Udawatte,,0,1,1,,,,376923769
+2,Sri Lanka,8,ML Udawatte,Faheem Ashraf,MD Shanaka,,0,0,0,,,,376923769
+2,Sri Lanka,8,ML Udawatte,Faheem Ashraf,MD Shanaka,,0,0,0,caught,ML Udawatte,Babar Azam,376923769
+2,Sri Lanka,8,PC de Silva,Faheem Ashraf,MD Shanaka,,0,0,0,,,,376923769
+2,Sri Lanka,8,PC de Silva,Faheem Ashraf,MD Shanaka,,0,2,2,,,,376923769
+2,Sri Lanka,9,MD Shanaka,Imad Wasim,PC de Silva,,0,1,1,,,,376923769
+2,Sri Lanka,9,PC de Silva,Imad Wasim,MD Shanaka,,0,0,0,,,,376923769
+2,Sri Lanka,9,PC de Silva,Imad Wasim,MD Shanaka,,0,4,4,,,,376923769
+2,Sri Lanka,9,PC de Silva,Imad Wasim,MD Shanaka,,0,1,1,,,,376923769
+2,Sri Lanka,9,MD Shanaka,Imad Wasim,PC de Silva,,0,0,0,,,,376923769
+2,Sri Lanka,9,MD Shanaka,Imad Wasim,PC de Silva,,0,1,1,,,,376923769
+2,Sri Lanka,10,MD Shanaka,Hasan Ali,PC de Silva,,0,1,1,,,,376923769
+2,Sri Lanka,10,PC de Silva,Hasan Ali,MD Shanaka,,0,1,1,,,,376923769
+2,Sri Lanka,10,MD Shanaka,Hasan Ali,PC de Silva,wides,1,1,0,,,,376923769
+2,Sri Lanka,10,MD Shanaka,Hasan Ali,PC de Silva,,0,1,1,,,,376923769
+2,Sri Lanka,10,PC de Silva,Hasan Ali,MD Shanaka,,0,1,1,,,,376923769
+2,Sri Lanka,10,MD Shanaka,Hasan Ali,PC de Silva,,0,1,1,,,,376923769
+2,Sri Lanka,10,PC de Silva,Hasan Ali,MD Shanaka,,0,1,1,,,,376923769
+2,Sri Lanka,11,PC de Silva,Shadab Khan,MD Shanaka,,0,1,1,,,,376923769
+2,Sri Lanka,11,MD Shanaka,Shadab Khan,PC de Silva,,0,4,4,,,,376923769
+2,Sri Lanka,11,MD Shanaka,Shadab Khan,PC de Silva,,0,4,4,,,,376923769
+2,Sri Lanka,11,MD Shanaka,Shadab Khan,PC de Silva,,0,1,1,,,,376923769
+2,Sri Lanka,11,PC de Silva,Shadab Khan,MD Shanaka,,0,1,1,,,,376923769
+2,Sri Lanka,11,MD Shanaka,Shadab Khan,PC de Silva,,0,6,6,,,,376923769
+2,Sri Lanka,12,PC de Silva,Hasan Ali,MD Shanaka,,0,1,1,,,,376923769
+2,Sri Lanka,12,MD Shanaka,Hasan Ali,PC de Silva,,0,1,1,,,,376923769
+2,Sri Lanka,12,PC de Silva,Hasan Ali,MD Shanaka,,0,1,1,,,,376923769
+2,Sri Lanka,12,MD Shanaka,Hasan Ali,PC de Silva,,0,1,1,,,,376923769
+2,Sri Lanka,12,PC de Silva,Hasan Ali,MD Shanaka,,0,1,1,,,,376923769
+2,Sri Lanka,12,MD Shanaka,Hasan Ali,PC de Silva,,0,1,1,,,,376923769
+2,Sri Lanka,13,MD Shanaka,Faheem Ashraf,PC de Silva,,0,0,0,,,,376923769
+2,Sri Lanka,13,MD Shanaka,Faheem Ashraf,PC de Silva,,0,0,0,caught,MD Shanaka,Imad Wasim,376923769
+2,Sri Lanka,13,PC de Silva,Faheem Ashraf,NLTC Perera,,0,1,1,,,,376923769
+2,Sri Lanka,13,NLTC Perera,Faheem Ashraf,PC de Silva,,0,0,0,,,,376923769
+2,Sri Lanka,13,NLTC Perera,Faheem Ashraf,PC de Silva,,0,1,1,,,,376923769
+2,Sri Lanka,13,PC de Silva,Faheem Ashraf,NLTC Perera,,0,1,1,,,,376923769
+2,Sri Lanka,14,PC de Silva,Mohammad Hafeez,NLTC Perera,,0,1,1,,,,376923769
+2,Sri Lanka,14,NLTC Perera,Mohammad Hafeez,PC de Silva,,0,0,0,,,,376923769
+2,Sri Lanka,14,NLTC Perera,Mohammad Hafeez,PC de Silva,,0,1,1,,,,376923769
+2,Sri Lanka,14,PC de Silva,Mohammad Hafeez,NLTC Perera,,0,1,1,,,,376923769
+2,Sri Lanka,14,NLTC Perera,Mohammad Hafeez,PC de Silva,,0,1,1,,,,376923769
+2,Sri Lanka,14,PC de Silva,Mohammad Hafeez,NLTC Perera,,0,1,1,,,,376923769
+2,Sri Lanka,15,PC de Silva,Mohammad Amir,NLTC Perera,,0,1,1,,,,376923769
+2,Sri Lanka,15,NLTC Perera,Mohammad Amir,PC de Silva,,0,0,0,,,,376923769
+2,Sri Lanka,15,NLTC Perera,Mohammad Amir,PC de Silva,,0,1,1,,,,376923769
+2,Sri Lanka,15,PC de Silva,Mohammad Amir,NLTC Perera,,0,0,0,bowled,PC de Silva,,376923769
+2,Sri Lanka,15,S Prasanna,Mohammad Amir,NLTC Perera,,0,0,0,,,,376923769
+2,Sri Lanka,15,S Prasanna,Mohammad Amir,NLTC Perera,,0,1,1,,,,376923769
+2,Sri Lanka,16,S Prasanna,Hasan Ali,NLTC Perera,,0,1,1,,,,376923769
+2,Sri Lanka,16,NLTC Perera,Hasan Ali,S Prasanna,,0,0,0,,,,376923769
+2,Sri Lanka,16,NLTC Perera,Hasan Ali,S Prasanna,,0,4,4,,,,376923769
+2,Sri Lanka,16,NLTC Perera,Hasan Ali,S Prasanna,,0,0,0,,,,376923769
+2,Sri Lanka,16,NLTC Perera,Hasan Ali,S Prasanna,,0,2,2,,,,376923769
+2,Sri Lanka,16,NLTC Perera,Hasan Ali,S Prasanna,,0,0,0,caught,NLTC Perera,Shadab Khan,376923769
+2,Sri Lanka,17,SS Pathirana,Faheem Ashraf,S Prasanna,,0,1,1,,,,376923769
+2,Sri Lanka,17,S Prasanna,Faheem Ashraf,SS Pathirana,,0,1,1,,,,376923769
+2,Sri Lanka,17,SS Pathirana,Faheem Ashraf,S Prasanna,,0,2,2,,,,376923769
+2,Sri Lanka,17,SS Pathirana,Faheem Ashraf,S Prasanna,,0,0,0,,,,376923769
+2,Sri Lanka,17,SS Pathirana,Faheem Ashraf,S Prasanna,,0,4,4,,,,376923769
+2,Sri Lanka,17,SS Pathirana,Faheem Ashraf,S Prasanna,,0,1,1,,,,376923769
+2,Sri Lanka,18,SS Pathirana,Hasan Ali,S Prasanna,,0,4,4,,,,376923769
+2,Sri Lanka,18,SS Pathirana,Hasan Ali,S Prasanna,,0,1,1,,,,376923769
+2,Sri Lanka,18,S Prasanna,Hasan Ali,SS Pathirana,,0,6,6,,,,376923769
+2,Sri Lanka,18,S Prasanna,Hasan Ali,SS Pathirana,,0,1,1,,,,376923769
+2,Sri Lanka,18,SS Pathirana,Hasan Ali,S Prasanna,,0,1,1,,,,376923769
+2,Sri Lanka,18,S Prasanna,Hasan Ali,SS Pathirana,,0,6,6,,,,376923769
+2,Sri Lanka,19,SS Pathirana,Mohammad Amir,S Prasanna,,0,0,0,,,,376923769
+2,Sri Lanka,19,SS Pathirana,Mohammad Amir,S Prasanna,,0,0,0,caught,SS Pathirana,Mohammad Hafeez,376923769
+2,Sri Lanka,19,S Prasanna,Mohammad Amir,I Udana,wides,1,1,0,,,,376923769
+2,Sri Lanka,19,S Prasanna,Mohammad Amir,I Udana,,0,0,0,caught,S Prasanna,Sarfraz Ahmed,376923769
+2,Sri Lanka,19,JRMVB Sanjaya,Mohammad Amir,I Udana,,0,0,0,,,,376923769
+2,Sri Lanka,19,JRMVB Sanjaya,Mohammad Amir,I Udana,,0,0,0,,,,376923769
+2,Sri Lanka,19,JRMVB Sanjaya,Mohammad Amir,I Udana,,0,1,1,,,,376923769

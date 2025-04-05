@@ -1,0 +1,109 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Sierra Leone,0,I Mansaray,RA Abolarin,AB Kamara,,0,0,0,,,,31817231817
+2,Sierra Leone,0,I Mansaray,RA Abolarin,AB Kamara,,0,0,0,,,,31817231817
+2,Sierra Leone,0,I Mansaray,RA Abolarin,AB Kamara,,0,1,1,,,,31817231817
+2,Sierra Leone,0,AB Kamara,RA Abolarin,I Mansaray,,0,0,0,,,,31817231817
+2,Sierra Leone,0,AB Kamara,RA Abolarin,I Mansaray,,0,0,0,,,,31817231817
+2,Sierra Leone,0,AB Kamara,RA Abolarin,I Mansaray,,0,0,0,,,,31817231817
+2,Sierra Leone,1,I Mansaray,P Aho,AB Kamara,,0,0,0,bowled,I Mansaray,,31817231817
+2,Sierra Leone,1,M Kpaka,P Aho,AB Kamara,,0,1,1,,,,31817231817
+2,Sierra Leone,1,AB Kamara,P Aho,M Kpaka,,0,0,0,,,,31817231817
+2,Sierra Leone,1,AB Kamara,P Aho,M Kpaka,,0,0,0,,,,31817231817
+2,Sierra Leone,1,AB Kamara,P Aho,M Kpaka,,0,0,0,,,,31817231817
+2,Sierra Leone,1,AB Kamara,P Aho,M Kpaka,,0,0,0,lbw,AB Kamara,,31817231817
+2,Sierra Leone,2,M Kpaka,RA Abolarin,J Bangura,,0,1,1,,,,31817231817
+2,Sierra Leone,2,J Bangura,RA Abolarin,M Kpaka,,0,0,0,,,,31817231817
+2,Sierra Leone,2,J Bangura,RA Abolarin,M Kpaka,,0,0,0,,,,31817231817
+2,Sierra Leone,2,J Bangura,RA Abolarin,M Kpaka,,0,0,0,,,,31817231817
+2,Sierra Leone,2,J Bangura,RA Abolarin,M Kpaka,,0,4,4,,,,31817231817
+2,Sierra Leone,2,J Bangura,RA Abolarin,M Kpaka,,0,0,0,,,,31817231817
+2,Sierra Leone,3,M Kpaka,P Aho,J Bangura,,0,0,0,bowled,M Kpaka,,31817231817
+2,Sierra Leone,3,E Ernest,P Aho,J Bangura,,0,0,0,bowled,E Ernest,,31817231817
+2,Sierra Leone,3,G Sesay,P Aho,J Bangura,,0,0,0,,,,31817231817
+2,Sierra Leone,3,G Sesay,P Aho,J Bangura,,0,0,0,,,,31817231817
+2,Sierra Leone,3,G Sesay,P Aho,J Bangura,,0,0,0,,,,31817231817
+2,Sierra Leone,3,G Sesay,P Aho,J Bangura,,0,0,0,,,,31817231817
+2,Sierra Leone,4,J Bangura,IO Okpe,G Sesay,,0,0,0,,,,31817231817
+2,Sierra Leone,4,J Bangura,IO Okpe,G Sesay,,0,1,1,,,,31817231817
+2,Sierra Leone,4,G Sesay,IO Okpe,J Bangura,,0,1,1,,,,31817231817
+2,Sierra Leone,4,J Bangura,IO Okpe,G Sesay,,0,0,0,caught,J Bangura,A Shreshta,31817231817
+2,Sierra Leone,4,S Conteh,IO Okpe,G Sesay,,0,4,4,,,,31817231817
+2,Sierra Leone,4,S Conteh,IO Okpe,G Sesay,noballs,1,2,1,,,,31817231817
+2,Sierra Leone,4,G Sesay,IO Okpe,S Conteh,,0,0,0,,,,31817231817
+2,Sierra Leone,5,S Conteh,P Aho,G Sesay,,0,1,1,,,,31817231817
+2,Sierra Leone,5,G Sesay,P Aho,S Conteh,,0,0,0,,,,31817231817
+2,Sierra Leone,5,G Sesay,P Aho,S Conteh,,0,0,0,,,,31817231817
+2,Sierra Leone,5,G Sesay,P Aho,S Conteh,,0,1,1,,,,31817231817
+2,Sierra Leone,5,S Conteh,P Aho,G Sesay,,0,0,0,,,,31817231817
+2,Sierra Leone,5,S Conteh,P Aho,G Sesay,,0,0,0,,,,31817231817
+2,Sierra Leone,6,G Sesay,SA Okpe,S Conteh,,0,1,1,,,,31817231817
+2,Sierra Leone,6,S Conteh,SA Okpe,G Sesay,,0,0,0,,,,31817231817
+2,Sierra Leone,6,S Conteh,SA Okpe,G Sesay,,0,0,0,,,,31817231817
+2,Sierra Leone,6,S Conteh,SA Okpe,G Sesay,,0,1,1,,,,31817231817
+2,Sierra Leone,6,G Sesay,SA Okpe,S Conteh,,0,1,1,,,,31817231817
+2,Sierra Leone,6,S Conteh,SA Okpe,G Sesay,,0,1,1,,,,31817231817
+2,Sierra Leone,7,S Conteh,CM Akachukwu,G Sesay,,0,1,1,,,,31817231817
+2,Sierra Leone,7,G Sesay,CM Akachukwu,S Conteh,,0,0,0,,,,31817231817
+2,Sierra Leone,7,G Sesay,CM Akachukwu,S Conteh,,0,1,1,,,,31817231817
+2,Sierra Leone,7,S Conteh,CM Akachukwu,G Sesay,,0,0,0,,,,31817231817
+2,Sierra Leone,7,S Conteh,CM Akachukwu,G Sesay,,0,1,1,,,,31817231817
+2,Sierra Leone,7,G Sesay,CM Akachukwu,S Conteh,,0,1,1,,,,31817231817
+2,Sierra Leone,8,G Sesay,SA Okpe,S Conteh,,0,1,1,,,,31817231817
+2,Sierra Leone,8,S Conteh,SA Okpe,G Sesay,,0,0,0,,,,31817231817
+2,Sierra Leone,8,S Conteh,SA Okpe,G Sesay,,0,0,0,,,,31817231817
+2,Sierra Leone,8,S Conteh,SA Okpe,G Sesay,,0,1,1,,,,31817231817
+2,Sierra Leone,8,G Sesay,SA Okpe,S Conteh,,0,1,1,,,,31817231817
+2,Sierra Leone,8,S Conteh,SA Okpe,G Sesay,,0,1,1,,,,31817231817
+2,Sierra Leone,9,S Conteh,S Ogundipe,G Sesay,,0,1,1,,,,31817231817
+2,Sierra Leone,9,G Sesay,S Ogundipe,S Conteh,,0,1,1,,,,31817231817
+2,Sierra Leone,9,S Conteh,S Ogundipe,G Sesay,,0,0,0,,,,31817231817
+2,Sierra Leone,9,S Conteh,S Ogundipe,G Sesay,,0,2,2,,,,31817231817
+2,Sierra Leone,9,S Conteh,S Ogundipe,G Sesay,,0,1,1,,,,31817231817
+2,Sierra Leone,9,G Sesay,S Ogundipe,S Conteh,,0,0,0,,,,31817231817
+2,Sierra Leone,10,S Conteh,RA Abolarin,G Sesay,,0,2,2,,,,31817231817
+2,Sierra Leone,10,S Conteh,RA Abolarin,G Sesay,,0,0,0,,,,31817231817
+2,Sierra Leone,10,S Conteh,RA Abolarin,G Sesay,,0,0,0,,,,31817231817
+2,Sierra Leone,10,S Conteh,RA Abolarin,G Sesay,,0,1,1,,,,31817231817
+2,Sierra Leone,10,G Sesay,RA Abolarin,S Conteh,,0,0,0,,,,31817231817
+2,Sierra Leone,10,G Sesay,RA Abolarin,S Conteh,byes,1,1,0,,,,31817231817
+2,Sierra Leone,11,G Sesay,IO Okpe,S Conteh,,0,0,0,,,,31817231817
+2,Sierra Leone,11,G Sesay,IO Okpe,S Conteh,noballs,1,2,1,,,,31817231817
+2,Sierra Leone,11,S Conteh,IO Okpe,G Sesay,,0,1,1,,,,31817231817
+2,Sierra Leone,11,G Sesay,IO Okpe,S Conteh,,0,2,2,,,,31817231817
+2,Sierra Leone,11,G Sesay,IO Okpe,S Conteh,,0,2,2,,,,31817231817
+2,Sierra Leone,11,G Sesay,IO Okpe,S Conteh,,0,0,0,,,,31817231817
+2,Sierra Leone,11,G Sesay,IO Okpe,S Conteh,,0,0,0,,,,31817231817
+2,Sierra Leone,12,S Conteh,CM Akachukwu,G Sesay,,0,2,2,,,,31817231817
+2,Sierra Leone,12,S Conteh,CM Akachukwu,G Sesay,,0,1,1,,,,31817231817
+2,Sierra Leone,12,G Sesay,CM Akachukwu,S Conteh,legbyes,1,1,0,,,,31817231817
+2,Sierra Leone,12,S Conteh,CM Akachukwu,G Sesay,,0,1,1,,,,31817231817
+2,Sierra Leone,12,G Sesay,CM Akachukwu,S Conteh,,0,2,2,,,,31817231817
+2,Sierra Leone,12,G Sesay,CM Akachukwu,S Conteh,,0,0,0,,,,31817231817
+2,Sierra Leone,13,S Conteh,IO Okpe,G Sesay,,0,1,1,,,,31817231817
+2,Sierra Leone,13,G Sesay,IO Okpe,S Conteh,byes,1,1,0,,,,31817231817
+2,Sierra Leone,13,S Conteh,IO Okpe,G Sesay,,0,1,1,,,,31817231817
+2,Sierra Leone,13,G Sesay,IO Okpe,S Conteh,,0,1,1,,,,31817231817
+2,Sierra Leone,13,S Conteh,IO Okpe,G Sesay,,0,2,2,,,,31817231817
+2,Sierra Leone,13,S Conteh,IO Okpe,G Sesay,,0,0,0,,,,31817231817
+2,Sierra Leone,14,G Sesay,SA Okpe,S Conteh,,0,0,0,bowled,G Sesay,,31817231817
+2,Sierra Leone,14,L Lamin,SA Okpe,S Conteh,,0,0,0,,,,31817231817
+2,Sierra Leone,14,L Lamin,SA Okpe,S Conteh,,0,1,1,,,,31817231817
+2,Sierra Leone,14,S Conteh,SA Okpe,L Lamin,,0,1,1,,,,31817231817
+2,Sierra Leone,14,L Lamin,SA Okpe,S Conteh,,0,1,1,,,,31817231817
+2,Sierra Leone,14,S Conteh,SA Okpe,L Lamin,,0,1,1,,,,31817231817
+2,Sierra Leone,15,S Conteh,RA Abolarin,L Lamin,,0,0,0,,,,31817231817
+2,Sierra Leone,15,S Conteh,RA Abolarin,L Lamin,,0,0,0,,,,31817231817
+2,Sierra Leone,15,S Conteh,RA Abolarin,L Lamin,,0,2,2,,,,31817231817
+2,Sierra Leone,15,S Conteh,RA Abolarin,L Lamin,,0,1,1,,,,31817231817
+2,Sierra Leone,15,L Lamin,RA Abolarin,S Conteh,,0,1,1,,,,31817231817
+2,Sierra Leone,15,S Conteh,RA Abolarin,L Lamin,,0,1,1,,,,31817231817
+2,Sierra Leone,16,S Conteh,SA Okpe,L Lamin,,0,0,0,,,,31817231817
+2,Sierra Leone,16,S Conteh,SA Okpe,L Lamin,,0,0,0,,,,31817231817
+2,Sierra Leone,16,S Conteh,SA Okpe,L Lamin,,0,0,0,caught,S Conteh,CM Akachukwu,31817231817
+2,Sierra Leone,16,L Lamin,SA Okpe,A Gbla,,0,0,0,bowled,L Lamin,,31817231817
+2,Sierra Leone,16,S Williams,SA Okpe,A Gbla,,0,1,1,,,,31817231817
+2,Sierra Leone,16,A Gbla,SA Okpe,S Williams,,0,1,1,,,,31817231817
+2,Sierra Leone,17,A Gbla,P Aho,S Williams,,0,0,0,bowled,A Gbla,,31817231817
+2,Sierra Leone,17,S Tarawally,P Aho,S Williams,,0,0,0,,,,31817231817
+2,Sierra Leone,17,S Tarawally,P Aho,S Williams,,0,2,2,,,,31817231817
+2,Sierra Leone,17,S Tarawally,P Aho,S Williams,,0,0,0,bowled,S Tarawally,,31817231817

@@ -1,0 +1,133 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Oman,0,V Jesrani,Ada Bhasin,Fiza,,0,0,0,,,,32095232095
+1,Oman,0,V Jesrani,Ada Bhasin,Fiza,wides,1,1,0,,,,32095232095
+1,Oman,0,V Jesrani,Ada Bhasin,Fiza,,0,0,0,,,,32095232095
+1,Oman,0,V Jesrani,Ada Bhasin,Fiza,,0,0,0,,,,32095232095
+1,Oman,0,V Jesrani,Ada Bhasin,Fiza,,0,0,0,,,,32095232095
+1,Oman,0,V Jesrani,Ada Bhasin,Fiza,,0,1,1,,,,32095232095
+1,Oman,0,Fiza,Ada Bhasin,V Jesrani,,0,0,0,,,,32095232095
+1,Oman,1,V Jesrani,GK Diviya,Fiza,,0,0,0,,,,32095232095
+1,Oman,1,V Jesrani,GK Diviya,Fiza,,0,1,1,,,,32095232095
+1,Oman,1,Fiza,GK Diviya,V Jesrani,,0,0,0,,,,32095232095
+1,Oman,1,Fiza,GK Diviya,V Jesrani,,0,0,0,,,,32095232095
+1,Oman,1,Fiza,GK Diviya,V Jesrani,,0,0,0,,,,32095232095
+1,Oman,1,Fiza,GK Diviya,V Jesrani,,0,1,1,,,,32095232095
+1,Oman,2,Fiza,Shafina Mahesh,V Jesrani,,0,0,0,caught,Fiza,PSR Gurusinghe,32095232095
+1,Oman,2,SV Shetty,Shafina Mahesh,V Jesrani,wides,1,1,0,,,,32095232095
+1,Oman,2,SV Shetty,Shafina Mahesh,V Jesrani,,0,0,0,,,,32095232095
+1,Oman,2,SV Shetty,Shafina Mahesh,V Jesrani,,0,4,4,,,,32095232095
+1,Oman,2,SV Shetty,Shafina Mahesh,V Jesrani,,0,0,0,,,,32095232095
+1,Oman,2,SV Shetty,Shafina Mahesh,V Jesrani,,0,1,1,,,,32095232095
+1,Oman,2,V Jesrani,Shafina Mahesh,SV Shetty,,0,0,0,,,,32095232095
+1,Oman,3,SV Shetty,Vinu Kumar,V Jesrani,,0,0,0,,,,32095232095
+1,Oman,3,SV Shetty,Vinu Kumar,V Jesrani,,0,0,0,,,,32095232095
+1,Oman,3,SV Shetty,Vinu Kumar,V Jesrani,,0,1,1,,,,32095232095
+1,Oman,3,V Jesrani,Vinu Kumar,SV Shetty,,0,1,1,,,,32095232095
+1,Oman,3,SV Shetty,Vinu Kumar,V Jesrani,,0,0,0,,,,32095232095
+1,Oman,3,SV Shetty,Vinu Kumar,V Jesrani,,0,0,0,,,,32095232095
+1,Oman,4,V Jesrani,I Shukla,SV Shetty,,0,1,1,,,,32095232095
+1,Oman,4,SV Shetty,I Shukla,V Jesrani,,0,1,1,,,,32095232095
+1,Oman,4,V Jesrani,I Shukla,SV Shetty,,0,0,0,,,,32095232095
+1,Oman,4,V Jesrani,I Shukla,SV Shetty,,0,0,0,,,,32095232095
+1,Oman,4,V Jesrani,I Shukla,SV Shetty,wides,1,1,0,,,,32095232095
+1,Oman,4,V Jesrani,I Shukla,SV Shetty,,0,0,0,,,,32095232095
+1,Oman,4,V Jesrani,I Shukla,SV Shetty,wides,1,1,0,,,,32095232095
+1,Oman,4,V Jesrani,I Shukla,SV Shetty,,0,1,1,,,,32095232095
+1,Oman,5,V Jesrani,Vinu Kumar,SV Shetty,,0,0,0,caught,V Jesrani,I Shukla,32095232095
+1,Oman,5,SV Shetty,Vinu Kumar,PE Mendonca,,0,0,0,caught,SV Shetty,GK Diviya,32095232095
+1,Oman,5,NM Anil,Vinu Kumar,PE Mendonca,,0,0,0,,,,32095232095
+1,Oman,5,NM Anil,Vinu Kumar,PE Mendonca,,0,0,0,,,,32095232095
+1,Oman,5,NM Anil,Vinu Kumar,PE Mendonca,,0,0,0,,,,32095232095
+1,Oman,5,NM Anil,Vinu Kumar,PE Mendonca,,0,1,1,,,,32095232095
+1,Oman,6,NM Anil,Shafina Mahesh,PE Mendonca,,0,0,0,,,,32095232095
+1,Oman,6,NM Anil,Shafina Mahesh,PE Mendonca,,0,1,1,,,,32095232095
+1,Oman,6,PE Mendonca,Shafina Mahesh,NM Anil,wides,1,1,0,,,,32095232095
+1,Oman,6,PE Mendonca,Shafina Mahesh,NM Anil,,0,1,1,,,,32095232095
+1,Oman,6,NM Anil,Shafina Mahesh,PE Mendonca,,0,0,0,,,,32095232095
+1,Oman,6,NM Anil,Shafina Mahesh,PE Mendonca,,0,4,4,,,,32095232095
+1,Oman,6,NM Anil,Shafina Mahesh,PE Mendonca,,0,0,0,caught,NM Anil,Ada Bhasin,32095232095
+1,Oman,7,PE Mendonca,GK Diviya,B Shetty,,0,0,0,,,,32095232095
+1,Oman,7,PE Mendonca,GK Diviya,B Shetty,,0,0,0,,,,32095232095
+1,Oman,7,PE Mendonca,GK Diviya,B Shetty,,0,0,0,,,,32095232095
+1,Oman,7,PE Mendonca,GK Diviya,B Shetty,,0,1,1,,,,32095232095
+1,Oman,7,B Shetty,GK Diviya,PE Mendonca,,0,0,0,,,,32095232095
+1,Oman,7,B Shetty,GK Diviya,PE Mendonca,,0,1,1,,,,32095232095
+1,Oman,8,B Shetty,CH Abeyratne,PE Mendonca,,0,0,0,,,,32095232095
+1,Oman,8,B Shetty,CH Abeyratne,PE Mendonca,wides,1,1,0,,,,32095232095
+1,Oman,8,B Shetty,CH Abeyratne,PE Mendonca,,0,0,0,,,,32095232095
+1,Oman,8,B Shetty,CH Abeyratne,PE Mendonca,,0,0,0,,,,32095232095
+1,Oman,8,B Shetty,CH Abeyratne,PE Mendonca,,0,0,0,,,,32095232095
+1,Oman,8,B Shetty,CH Abeyratne,PE Mendonca,,0,1,1,,,,32095232095
+1,Oman,8,PE Mendonca,CH Abeyratne,B Shetty,,0,0,0,,,,32095232095
+1,Oman,9,B Shetty,I Shukla,PE Mendonca,,0,0,0,,,,32095232095
+1,Oman,9,B Shetty,I Shukla,PE Mendonca,,0,0,0,,,,32095232095
+1,Oman,9,B Shetty,I Shukla,PE Mendonca,,0,4,4,,,,32095232095
+1,Oman,9,B Shetty,I Shukla,PE Mendonca,,0,0,0,,,,32095232095
+1,Oman,9,B Shetty,I Shukla,PE Mendonca,,0,0,0,,,,32095232095
+1,Oman,9,B Shetty,I Shukla,PE Mendonca,,0,0,0,,,,32095232095
+1,Oman,10,PE Mendonca,CH Abeyratne,B Shetty,wides,5,5,0,,,,32095232095
+1,Oman,10,PE Mendonca,CH Abeyratne,B Shetty,,0,1,1,,,,32095232095
+1,Oman,10,B Shetty,CH Abeyratne,PE Mendonca,,0,2,2,,,,32095232095
+1,Oman,10,B Shetty,CH Abeyratne,PE Mendonca,,0,1,1,,,,32095232095
+1,Oman,10,PE Mendonca,CH Abeyratne,B Shetty,,0,0,0,,,,32095232095
+1,Oman,10,PE Mendonca,CH Abeyratne,B Shetty,wides,1,1,0,,,,32095232095
+1,Oman,10,PE Mendonca,CH Abeyratne,B Shetty,,0,0,0,,,,32095232095
+1,Oman,10,PE Mendonca,CH Abeyratne,B Shetty,,0,4,4,,,,32095232095
+1,Oman,11,B Shetty,GK Diviya,PE Mendonca,,0,0,0,,,,32095232095
+1,Oman,11,B Shetty,GK Diviya,PE Mendonca,,0,0,0,,,,32095232095
+1,Oman,11,B Shetty,GK Diviya,PE Mendonca,,0,0,0,,,,32095232095
+1,Oman,11,B Shetty,GK Diviya,PE Mendonca,,0,0,0,,,,32095232095
+1,Oman,11,B Shetty,GK Diviya,PE Mendonca,,0,0,0,,,,32095232095
+1,Oman,11,B Shetty,GK Diviya,PE Mendonca,,0,0,0,,,,32095232095
+1,Oman,12,PE Mendonca,Shafina Mahesh,B Shetty,,0,0,0,,,,32095232095
+1,Oman,12,PE Mendonca,Shafina Mahesh,B Shetty,wides,1,1,0,,,,32095232095
+1,Oman,12,PE Mendonca,Shafina Mahesh,B Shetty,,0,4,4,,,,32095232095
+1,Oman,12,PE Mendonca,Shafina Mahesh,B Shetty,,0,0,0,,,,32095232095
+1,Oman,12,PE Mendonca,Shafina Mahesh,B Shetty,,0,0,0,,,,32095232095
+1,Oman,12,PE Mendonca,Shafina Mahesh,B Shetty,,0,4,4,,,,32095232095
+1,Oman,12,PE Mendonca,Shafina Mahesh,B Shetty,,0,4,4,,,,32095232095
+1,Oman,13,B Shetty,I Shukla,PE Mendonca,,0,1,1,,,,32095232095
+1,Oman,13,PE Mendonca,I Shukla,B Shetty,,0,1,1,,,,32095232095
+1,Oman,13,B Shetty,I Shukla,PE Mendonca,,0,0,0,,,,32095232095
+1,Oman,13,B Shetty,I Shukla,PE Mendonca,,0,1,1,,,,32095232095
+1,Oman,13,PE Mendonca,I Shukla,B Shetty,,0,0,0,,,,32095232095
+1,Oman,13,PE Mendonca,I Shukla,B Shetty,,0,0,0,,,,32095232095
+1,Oman,14,B Shetty,Ada Bhasin,PE Mendonca,,0,0,0,,,,32095232095
+1,Oman,14,B Shetty,Ada Bhasin,PE Mendonca,,0,1,1,,,,32095232095
+1,Oman,14,PE Mendonca,Ada Bhasin,B Shetty,,0,2,2,,,,32095232095
+1,Oman,14,PE Mendonca,Ada Bhasin,B Shetty,,0,4,4,,,,32095232095
+1,Oman,14,PE Mendonca,Ada Bhasin,B Shetty,,0,2,2,,,,32095232095
+1,Oman,14,PE Mendonca,Ada Bhasin,B Shetty,,0,0,0,,,,32095232095
+1,Oman,15,B Shetty,Vinu Kumar,PE Mendonca,,0,1,1,,,,32095232095
+1,Oman,15,PE Mendonca,Vinu Kumar,B Shetty,,0,1,1,,,,32095232095
+1,Oman,15,B Shetty,Vinu Kumar,PE Mendonca,,0,4,4,,,,32095232095
+1,Oman,15,B Shetty,Vinu Kumar,PE Mendonca,,0,0,0,,,,32095232095
+1,Oman,15,B Shetty,Vinu Kumar,PE Mendonca,,0,1,1,,,,32095232095
+1,Oman,15,PE Mendonca,Vinu Kumar,B Shetty,,0,0,0,,,,32095232095
+1,Oman,16,B Shetty,Ada Bhasin,PE Mendonca,,0,0,0,,,,32095232095
+1,Oman,16,B Shetty,Ada Bhasin,PE Mendonca,,0,1,1,,,,32095232095
+1,Oman,16,PE Mendonca,Ada Bhasin,B Shetty,,0,1,1,,,,32095232095
+1,Oman,16,B Shetty,Ada Bhasin,PE Mendonca,,0,0,0,,,,32095232095
+1,Oman,16,B Shetty,Ada Bhasin,PE Mendonca,wides,1,1,0,,,,32095232095
+1,Oman,16,B Shetty,Ada Bhasin,PE Mendonca,,0,1,1,,,,32095232095
+1,Oman,16,PE Mendonca,Ada Bhasin,B Shetty,,0,1,1,,,,32095232095
+1,Oman,17,PE Mendonca,Vinu Kumar,B Shetty,wides,1,1,0,,,,32095232095
+1,Oman,17,PE Mendonca,Vinu Kumar,B Shetty,,0,2,2,,,,32095232095
+1,Oman,17,PE Mendonca,Vinu Kumar,B Shetty,,0,4,4,,,,32095232095
+1,Oman,17,PE Mendonca,Vinu Kumar,B Shetty,,0,1,1,,,,32095232095
+1,Oman,17,B Shetty,Vinu Kumar,PE Mendonca,,0,0,0,,,,32095232095
+1,Oman,17,B Shetty,Vinu Kumar,PE Mendonca,,0,2,2,,,,32095232095
+1,Oman,17,B Shetty,Vinu Kumar,PE Mendonca,,0,0,0,,,,32095232095
+1,Oman,18,PE Mendonca,Shafina Mahesh,B Shetty,,0,1,1,,,,32095232095
+1,Oman,18,B Shetty,Shafina Mahesh,PE Mendonca,,0,1,1,,,,32095232095
+1,Oman,18,PE Mendonca,Shafina Mahesh,B Shetty,,0,2,2,,,,32095232095
+1,Oman,18,PE Mendonca,Shafina Mahesh,B Shetty,,0,0,0,,,,32095232095
+1,Oman,18,PE Mendonca,Shafina Mahesh,B Shetty,wides,1,1,0,,,,32095232095
+1,Oman,18,PE Mendonca,Shafina Mahesh,B Shetty,,0,4,4,,,,32095232095
+1,Oman,18,PE Mendonca,Shafina Mahesh,B Shetty,,0,1,1,,,,32095232095
+1,Oman,19,PE Mendonca,GK Diviya,B Shetty,,0,0,0,,,,32095232095
+1,Oman,19,PE Mendonca,GK Diviya,B Shetty,,0,1,1,,,,32095232095
+1,Oman,19,B Shetty,GK Diviya,PE Mendonca,,0,2,2,,,,32095232095
+1,Oman,19,B Shetty,GK Diviya,PE Mendonca,,0,1,1,,,,32095232095
+1,Oman,19,PE Mendonca,GK Diviya,B Shetty,,0,1,1,run out,B Shetty,Vinu Kumar,32095232095
+1,Oman,19,PE Mendonca,GK Diviya,A Dcosta,,0,0,0,run out,A Dcosta,Shafina Mahesh,32095232095

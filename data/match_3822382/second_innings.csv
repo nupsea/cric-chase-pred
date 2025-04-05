@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,West Indies,0,CH Gayle,DW Steyn,ADS Fletcher,,0,0,0,,,,3822382
+2,West Indies,0,CH Gayle,DW Steyn,ADS Fletcher,,0,2,2,,,,3822382
+2,West Indies,0,CH Gayle,DW Steyn,ADS Fletcher,,0,0,0,,,,3822382
+2,West Indies,0,CH Gayle,DW Steyn,ADS Fletcher,,0,1,1,,,,3822382
+2,West Indies,0,ADS Fletcher,DW Steyn,CH Gayle,,0,0,0,,,,3822382
+2,West Indies,0,ADS Fletcher,DW Steyn,CH Gayle,,0,0,0,,,,3822382
+2,West Indies,1,CH Gayle,WD Parnell,ADS Fletcher,,0,1,1,,,,3822382
+2,West Indies,1,ADS Fletcher,WD Parnell,CH Gayle,,0,0,0,,,,3822382
+2,West Indies,1,ADS Fletcher,WD Parnell,CH Gayle,,0,0,0,,,,3822382
+2,West Indies,1,ADS Fletcher,WD Parnell,CH Gayle,,0,0,0,bowled,ADS Fletcher,,3822382
+2,West Indies,1,LMP Simmons,WD Parnell,CH Gayle,legbyes,1,1,0,,,,3822382
+2,West Indies,1,CH Gayle,WD Parnell,LMP Simmons,,0,0,0,,,,3822382
+2,West Indies,2,LMP Simmons,DW Steyn,CH Gayle,,0,2,2,,,,3822382
+2,West Indies,2,LMP Simmons,DW Steyn,CH Gayle,,0,0,0,,,,3822382
+2,West Indies,2,LMP Simmons,DW Steyn,CH Gayle,,0,0,0,,,,3822382
+2,West Indies,2,LMP Simmons,DW Steyn,CH Gayle,,0,4,4,,,,3822382
+2,West Indies,2,LMP Simmons,DW Steyn,CH Gayle,,0,1,1,,,,3822382
+2,West Indies,2,CH Gayle,DW Steyn,LMP Simmons,,0,1,1,,,,3822382
+2,West Indies,3,CH Gayle,WD Parnell,LMP Simmons,,0,0,0,caught,CH Gayle,J Botha,3822382
+2,West Indies,3,DJ Bravo,WD Parnell,LMP Simmons,legbyes,1,1,0,,,,3822382
+2,West Indies,3,LMP Simmons,WD Parnell,DJ Bravo,,0,1,1,,,,3822382
+2,West Indies,3,DJ Bravo,WD Parnell,LMP Simmons,,0,0,0,,,,3822382
+2,West Indies,3,DJ Bravo,WD Parnell,LMP Simmons,,0,1,1,,,,3822382
+2,West Indies,3,LMP Simmons,WD Parnell,DJ Bravo,,0,0,0,,,,3822382
+2,West Indies,4,DJ Bravo,JH Kallis,LMP Simmons,,0,4,4,,,,3822382
+2,West Indies,4,DJ Bravo,JH Kallis,LMP Simmons,,0,1,1,,,,3822382
+2,West Indies,4,LMP Simmons,JH Kallis,DJ Bravo,,0,4,4,,,,3822382
+2,West Indies,4,LMP Simmons,JH Kallis,DJ Bravo,,0,4,4,,,,3822382
+2,West Indies,4,LMP Simmons,JH Kallis,DJ Bravo,,0,4,4,,,,3822382
+2,West Indies,4,LMP Simmons,JH Kallis,DJ Bravo,,0,1,1,,,,3822382
+2,West Indies,5,LMP Simmons,JA Morkel,DJ Bravo,,0,1,1,,,,3822382
+2,West Indies,5,DJ Bravo,JA Morkel,LMP Simmons,,0,4,4,,,,3822382
+2,West Indies,5,DJ Bravo,JA Morkel,LMP Simmons,,0,1,1,,,,3822382
+2,West Indies,5,LMP Simmons,JA Morkel,DJ Bravo,,0,4,4,,,,3822382
+2,West Indies,5,LMP Simmons,JA Morkel,DJ Bravo,,0,1,1,,,,3822382
+2,West Indies,5,DJ Bravo,JA Morkel,LMP Simmons,,0,0,0,,,,3822382
+2,West Indies,6,LMP Simmons,J Botha,DJ Bravo,byes,1,1,0,,,,3822382
+2,West Indies,6,DJ Bravo,J Botha,LMP Simmons,,0,1,1,,,,3822382
+2,West Indies,6,LMP Simmons,J Botha,DJ Bravo,,0,1,1,,,,3822382
+2,West Indies,6,DJ Bravo,J Botha,LMP Simmons,,0,1,1,,,,3822382
+2,West Indies,6,LMP Simmons,J Botha,DJ Bravo,,0,2,2,,,,3822382
+2,West Indies,6,LMP Simmons,J Botha,DJ Bravo,,0,4,4,,,,3822382
+2,West Indies,7,DJ Bravo,JA Morkel,LMP Simmons,,0,2,2,,,,3822382
+2,West Indies,7,DJ Bravo,JA Morkel,LMP Simmons,noballs,1,1,0,,,,3822382
+2,West Indies,7,DJ Bravo,JA Morkel,LMP Simmons,,0,1,1,,,,3822382
+2,West Indies,7,LMP Simmons,JA Morkel,DJ Bravo,legbyes,1,1,0,,,,3822382
+2,West Indies,7,DJ Bravo,JA Morkel,LMP Simmons,,0,1,1,,,,3822382
+2,West Indies,7,LMP Simmons,JA Morkel,DJ Bravo,wides,1,1,0,,,,3822382
+2,West Indies,7,LMP Simmons,JA Morkel,DJ Bravo,,0,4,4,,,,3822382
+2,West Indies,7,LMP Simmons,JA Morkel,DJ Bravo,,0,0,0,,,,3822382
+2,West Indies,8,DJ Bravo,RE van der Merwe,LMP Simmons,,0,1,1,,,,3822382
+2,West Indies,8,LMP Simmons,RE van der Merwe,DJ Bravo,,0,0,0,,,,3822382
+2,West Indies,8,LMP Simmons,RE van der Merwe,DJ Bravo,legbyes,1,1,0,,,,3822382
+2,West Indies,8,DJ Bravo,RE van der Merwe,LMP Simmons,,0,1,1,,,,3822382
+2,West Indies,8,LMP Simmons,RE van der Merwe,DJ Bravo,,0,1,1,,,,3822382
+2,West Indies,8,DJ Bravo,RE van der Merwe,LMP Simmons,,0,0,0,caught,DJ Bravo,DW Steyn,3822382
+2,West Indies,9,LMP Simmons,J Botha,S Chanderpaul,,0,0,0,,,,3822382
+2,West Indies,9,LMP Simmons,J Botha,S Chanderpaul,legbyes,1,1,0,,,,3822382
+2,West Indies,9,S Chanderpaul,J Botha,LMP Simmons,,0,1,1,,,,3822382
+2,West Indies,9,LMP Simmons,J Botha,S Chanderpaul,,0,4,4,,,,3822382
+2,West Indies,9,LMP Simmons,J Botha,S Chanderpaul,,0,2,2,,,,3822382
+2,West Indies,9,LMP Simmons,J Botha,S Chanderpaul,,0,4,4,,,,3822382
+2,West Indies,10,S Chanderpaul,RE van der Merwe,LMP Simmons,,0,0,0,,,,3822382
+2,West Indies,10,S Chanderpaul,RE van der Merwe,LMP Simmons,,0,0,0,,,,3822382
+2,West Indies,10,S Chanderpaul,RE van der Merwe,LMP Simmons,,0,2,2,,,,3822382
+2,West Indies,10,S Chanderpaul,RE van der Merwe,LMP Simmons,,0,1,1,,,,3822382
+2,West Indies,10,LMP Simmons,RE van der Merwe,S Chanderpaul,,0,1,1,,,,3822382
+2,West Indies,10,S Chanderpaul,RE van der Merwe,LMP Simmons,,0,4,4,,,,3822382
+2,West Indies,11,LMP Simmons,JP Duminy,S Chanderpaul,,0,1,1,,,,3822382
+2,West Indies,11,S Chanderpaul,JP Duminy,LMP Simmons,,0,0,0,caught and bowled,S Chanderpaul,,3822382
+2,West Indies,11,RR Sarwan,JP Duminy,LMP Simmons,,0,1,1,,,,3822382
+2,West Indies,11,LMP Simmons,JP Duminy,RR Sarwan,,0,1,1,,,,3822382
+2,West Indies,11,RR Sarwan,JP Duminy,LMP Simmons,,0,1,1,,,,3822382
+2,West Indies,11,LMP Simmons,JP Duminy,RR Sarwan,,0,1,1,,,,3822382
+2,West Indies,12,LMP Simmons,RE van der Merwe,RR Sarwan,,0,2,2,,,,3822382
+2,West Indies,12,LMP Simmons,RE van der Merwe,RR Sarwan,,0,6,6,,,,3822382
+2,West Indies,12,LMP Simmons,RE van der Merwe,RR Sarwan,legbyes,1,1,0,,,,3822382
+2,West Indies,12,RR Sarwan,RE van der Merwe,LMP Simmons,,0,0,0,,,,3822382
+2,West Indies,12,RR Sarwan,RE van der Merwe,LMP Simmons,,0,2,2,,,,3822382
+2,West Indies,12,RR Sarwan,RE van der Merwe,LMP Simmons,,0,0,0,,,,3822382
+2,West Indies,13,LMP Simmons,JP Duminy,RR Sarwan,,0,4,4,,,,3822382
+2,West Indies,13,LMP Simmons,JP Duminy,RR Sarwan,,0,4,4,,,,3822382
+2,West Indies,13,LMP Simmons,JP Duminy,RR Sarwan,,0,2,2,,,,3822382
+2,West Indies,13,LMP Simmons,JP Duminy,RR Sarwan,legbyes,1,1,0,,,,3822382
+2,West Indies,13,RR Sarwan,JP Duminy,LMP Simmons,,0,1,1,,,,3822382
+2,West Indies,13,LMP Simmons,JP Duminy,RR Sarwan,,0,0,0,,,,3822382
+2,West Indies,14,RR Sarwan,JH Kallis,LMP Simmons,,0,1,1,,,,3822382
+2,West Indies,14,LMP Simmons,JH Kallis,RR Sarwan,,0,0,0,,,,3822382
+2,West Indies,14,LMP Simmons,JH Kallis,RR Sarwan,,0,0,0,,,,3822382
+2,West Indies,14,LMP Simmons,JH Kallis,RR Sarwan,,0,4,4,,,,3822382
+2,West Indies,14,LMP Simmons,JH Kallis,RR Sarwan,,0,0,0,,,,3822382
+2,West Indies,14,LMP Simmons,JH Kallis,RR Sarwan,,0,0,0,,,,3822382
+2,West Indies,15,RR Sarwan,RE van der Merwe,LMP Simmons,,0,1,1,,,,3822382
+2,West Indies,15,LMP Simmons,RE van der Merwe,RR Sarwan,,0,1,1,,,,3822382
+2,West Indies,15,RR Sarwan,RE van der Merwe,LMP Simmons,,0,1,1,,,,3822382
+2,West Indies,15,LMP Simmons,RE van der Merwe,RR Sarwan,,0,1,1,,,,3822382
+2,West Indies,15,RR Sarwan,RE van der Merwe,LMP Simmons,legbyes,1,1,0,,,,3822382
+2,West Indies,15,LMP Simmons,RE van der Merwe,RR Sarwan,wides,5,5,0,,,,3822382
+2,West Indies,15,LMP Simmons,RE van der Merwe,RR Sarwan,,0,0,0,caught,LMP Simmons,AB de Villiers,3822382
+2,West Indies,16,RR Sarwan,DW Steyn,KA Pollard,,0,0,0,caught,RR Sarwan,J Botha,3822382
+2,West Indies,16,KA Pollard,DW Steyn,D Ramdin,,0,1,1,,,,3822382
+2,West Indies,16,D Ramdin,DW Steyn,KA Pollard,,0,1,1,,,,3822382
+2,West Indies,16,KA Pollard,DW Steyn,D Ramdin,,0,4,4,,,,3822382
+2,West Indies,16,KA Pollard,DW Steyn,D Ramdin,,0,1,1,,,,3822382
+2,West Indies,16,D Ramdin,DW Steyn,KA Pollard,,0,1,1,,,,3822382
+2,West Indies,17,D Ramdin,WD Parnell,KA Pollard,legbyes,1,1,0,,,,3822382
+2,West Indies,17,KA Pollard,WD Parnell,D Ramdin,,0,0,0,caught,KA Pollard,GC Smith,3822382
+2,West Indies,17,D Ramdin,WD Parnell,JE Taylor,,0,1,1,,,,3822382
+2,West Indies,17,JE Taylor,WD Parnell,D Ramdin,,0,0,0,bowled,JE Taylor,,3822382
+2,West Indies,17,SJ Benn,WD Parnell,D Ramdin,,0,1,1,,,,3822382
+2,West Indies,17,D Ramdin,WD Parnell,SJ Benn,,0,4,4,,,,3822382
+2,West Indies,18,SJ Benn,DW Steyn,D Ramdin,,0,1,1,,,,3822382
+2,West Indies,18,D Ramdin,DW Steyn,SJ Benn,,0,1,1,,,,3822382
+2,West Indies,18,SJ Benn,DW Steyn,D Ramdin,,0,4,4,,,,3822382
+2,West Indies,18,SJ Benn,DW Steyn,D Ramdin,,0,4,4,,,,3822382
+2,West Indies,18,SJ Benn,DW Steyn,D Ramdin,,0,1,1,,,,3822382
+2,West Indies,18,D Ramdin,DW Steyn,SJ Benn,,0,0,0,bowled,D Ramdin,,3822382
+2,West Indies,19,SJ Benn,WD Parnell,FH Edwards,,0,0,0,,,,3822382
+2,West Indies,19,SJ Benn,WD Parnell,FH Edwards,,0,1,1,,,,3822382
+2,West Indies,19,FH Edwards,WD Parnell,SJ Benn,,0,1,1,,,,3822382
+2,West Indies,19,SJ Benn,WD Parnell,FH Edwards,,0,0,0,,,,3822382
+2,West Indies,19,SJ Benn,WD Parnell,FH Edwards,,0,1,1,,,,3822382
+2,West Indies,19,FH Edwards,WD Parnell,SJ Benn,,0,1,1,,,,3822382

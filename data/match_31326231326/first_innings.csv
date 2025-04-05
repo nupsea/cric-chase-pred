@@ -1,0 +1,130 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Ireland,0,KJ O'Brien,PRP Boissevain,GJ Delany,,0,4,4,,,,31326231326
+1,Ireland,0,KJ O'Brien,PRP Boissevain,GJ Delany,,0,1,1,,,,31326231326
+1,Ireland,0,GJ Delany,PRP Boissevain,KJ O'Brien,,0,0,0,,,,31326231326
+1,Ireland,0,GJ Delany,PRP Boissevain,KJ O'Brien,,0,0,0,,,,31326231326
+1,Ireland,0,GJ Delany,PRP Boissevain,KJ O'Brien,,0,0,0,,,,31326231326
+1,Ireland,0,GJ Delany,PRP Boissevain,KJ O'Brien,,0,0,0,,,,31326231326
+1,Ireland,1,KJ O'Brien,FJ Klaassen,GJ Delany,noballs,1,1,0,,,,31326231326
+1,Ireland,1,KJ O'Brien,FJ Klaassen,GJ Delany,,0,0,0,,,,31326231326
+1,Ireland,1,KJ O'Brien,FJ Klaassen,GJ Delany,,0,2,2,,,,31326231326
+1,Ireland,1,KJ O'Brien,FJ Klaassen,GJ Delany,,0,1,1,,,,31326231326
+1,Ireland,1,GJ Delany,FJ Klaassen,KJ O'Brien,wides,1,1,0,,,,31326231326
+1,Ireland,1,GJ Delany,FJ Klaassen,KJ O'Brien,,0,4,4,,,,31326231326
+1,Ireland,1,GJ Delany,FJ Klaassen,KJ O'Brien,,0,6,6,,,,31326231326
+1,Ireland,1,GJ Delany,FJ Klaassen,KJ O'Brien,,0,2,2,,,,31326231326
+1,Ireland,2,KJ O'Brien,BD Glover,GJ Delany,,0,0,0,,,,31326231326
+1,Ireland,2,KJ O'Brien,BD Glover,GJ Delany,legbyes,1,1,0,,,,31326231326
+1,Ireland,2,GJ Delany,BD Glover,KJ O'Brien,,0,0,0,,,,31326231326
+1,Ireland,2,GJ Delany,BD Glover,KJ O'Brien,wides,1,1,0,,,,31326231326
+1,Ireland,2,GJ Delany,BD Glover,KJ O'Brien,,0,0,0,caught,GJ Delany,S Snater,31326231326
+1,Ireland,2,A Balbirnie,BD Glover,KJ O'Brien,,0,0,0,,,,31326231326
+1,Ireland,2,A Balbirnie,BD Glover,KJ O'Brien,,0,0,0,,,,31326231326
+1,Ireland,3,KJ O'Brien,S Snater,A Balbirnie,,0,4,4,,,,31326231326
+1,Ireland,3,KJ O'Brien,S Snater,A Balbirnie,,0,6,6,,,,31326231326
+1,Ireland,3,KJ O'Brien,S Snater,A Balbirnie,,0,0,0,,,,31326231326
+1,Ireland,3,KJ O'Brien,S Snater,A Balbirnie,,0,6,6,,,,31326231326
+1,Ireland,3,KJ O'Brien,S Snater,A Balbirnie,,0,4,4,,,,31326231326
+1,Ireland,3,KJ O'Brien,S Snater,A Balbirnie,wides,1,1,0,,,,31326231326
+1,Ireland,3,KJ O'Brien,S Snater,A Balbirnie,,0,1,1,,,,31326231326
+1,Ireland,4,KJ O'Brien,BD Glover,A Balbirnie,,0,1,1,,,,31326231326
+1,Ireland,4,A Balbirnie,BD Glover,KJ O'Brien,,0,1,1,,,,31326231326
+1,Ireland,4,KJ O'Brien,BD Glover,A Balbirnie,wides,1,1,0,,,,31326231326
+1,Ireland,4,KJ O'Brien,BD Glover,A Balbirnie,,0,0,0,caught,KJ O'Brien,BN Cooper,31326231326
+1,Ireland,4,HT Tector,BD Glover,A Balbirnie,,0,0,0,,,,31326231326
+1,Ireland,4,HT Tector,BD Glover,A Balbirnie,,0,0,0,,,,31326231326
+1,Ireland,4,HT Tector,BD Glover,A Balbirnie,,0,4,4,,,,31326231326
+1,Ireland,5,A Balbirnie,FJ Klaassen,HT Tector,,0,1,1,,,,31326231326
+1,Ireland,5,HT Tector,FJ Klaassen,A Balbirnie,,0,1,1,,,,31326231326
+1,Ireland,5,A Balbirnie,FJ Klaassen,HT Tector,,0,4,4,,,,31326231326
+1,Ireland,5,A Balbirnie,FJ Klaassen,HT Tector,,0,2,2,,,,31326231326
+1,Ireland,5,A Balbirnie,FJ Klaassen,HT Tector,,0,0,0,,,,31326231326
+1,Ireland,5,A Balbirnie,FJ Klaassen,HT Tector,,0,1,1,,,,31326231326
+1,Ireland,6,A Balbirnie,PRP Boissevain,HT Tector,,0,1,1,,,,31326231326
+1,Ireland,6,HT Tector,PRP Boissevain,A Balbirnie,,0,1,1,,,,31326231326
+1,Ireland,6,A Balbirnie,PRP Boissevain,HT Tector,,0,0,0,,,,31326231326
+1,Ireland,6,A Balbirnie,PRP Boissevain,HT Tector,,0,6,6,,,,31326231326
+1,Ireland,6,A Balbirnie,PRP Boissevain,HT Tector,,0,6,6,,,,31326231326
+1,Ireland,6,A Balbirnie,PRP Boissevain,HT Tector,,0,1,1,,,,31326231326
+1,Ireland,7,A Balbirnie,PM Seelaar,HT Tector,,0,2,2,,,,31326231326
+1,Ireland,7,A Balbirnie,PM Seelaar,HT Tector,,0,1,1,,,,31326231326
+1,Ireland,7,HT Tector,PM Seelaar,A Balbirnie,,0,1,1,,,,31326231326
+1,Ireland,7,A Balbirnie,PM Seelaar,HT Tector,,0,6,6,,,,31326231326
+1,Ireland,7,A Balbirnie,PM Seelaar,HT Tector,,0,1,1,,,,31326231326
+1,Ireland,7,HT Tector,PM Seelaar,A Balbirnie,,0,1,1,,,,31326231326
+1,Ireland,8,HT Tector,S Snater,A Balbirnie,,0,1,1,,,,31326231326
+1,Ireland,8,A Balbirnie,S Snater,HT Tector,,0,1,1,,,,31326231326
+1,Ireland,8,HT Tector,S Snater,A Balbirnie,,0,1,1,,,,31326231326
+1,Ireland,8,A Balbirnie,S Snater,HT Tector,,0,1,1,,,,31326231326
+1,Ireland,8,HT Tector,S Snater,A Balbirnie,,0,4,4,,,,31326231326
+1,Ireland,8,HT Tector,S Snater,A Balbirnie,,0,1,1,,,,31326231326
+1,Ireland,9,HT Tector,BFW de Leede,A Balbirnie,,0,4,4,,,,31326231326
+1,Ireland,9,HT Tector,BFW de Leede,A Balbirnie,,0,0,0,,,,31326231326
+1,Ireland,9,HT Tector,BFW de Leede,A Balbirnie,,0,1,1,,,,31326231326
+1,Ireland,9,A Balbirnie,BFW de Leede,HT Tector,,0,4,4,,,,31326231326
+1,Ireland,9,A Balbirnie,BFW de Leede,HT Tector,wides,1,1,0,,,,31326231326
+1,Ireland,9,A Balbirnie,BFW de Leede,HT Tector,,0,1,1,,,,31326231326
+1,Ireland,9,HT Tector,BFW de Leede,A Balbirnie,,0,1,1,,,,31326231326
+1,Ireland,10,HT Tector,BD Glover,A Balbirnie,,0,1,1,,,,31326231326
+1,Ireland,10,A Balbirnie,BD Glover,HT Tector,,0,1,1,,,,31326231326
+1,Ireland,10,HT Tector,BD Glover,A Balbirnie,noballs,1,1,0,,,,31326231326
+1,Ireland,10,HT Tector,BD Glover,A Balbirnie,legbyes,1,1,0,,,,31326231326
+1,Ireland,10,A Balbirnie,BD Glover,HT Tector,,0,1,1,,,,31326231326
+1,Ireland,10,HT Tector,BD Glover,A Balbirnie,,0,0,0,,,,31326231326
+1,Ireland,10,HT Tector,BD Glover,A Balbirnie,wides,1,1,0,,,,31326231326
+1,Ireland,10,HT Tector,BD Glover,A Balbirnie,,0,1,1,,,,31326231326
+1,Ireland,11,HT Tector,PM Seelaar,A Balbirnie,,0,6,6,,,,31326231326
+1,Ireland,11,HT Tector,PM Seelaar,A Balbirnie,,0,1,1,,,,31326231326
+1,Ireland,11,A Balbirnie,PM Seelaar,HT Tector,,0,1,1,,,,31326231326
+1,Ireland,11,HT Tector,PM Seelaar,A Balbirnie,,0,1,1,,,,31326231326
+1,Ireland,11,A Balbirnie,PM Seelaar,HT Tector,,0,2,2,,,,31326231326
+1,Ireland,11,A Balbirnie,PM Seelaar,HT Tector,,0,0,0,caught,A Balbirnie,PRP Boissevain,31326231326
+1,Ireland,12,HT Tector,PRP Boissevain,GC Wilson,,0,1,1,,,,31326231326
+1,Ireland,12,GC Wilson,PRP Boissevain,HT Tector,,0,0,0,,,,31326231326
+1,Ireland,12,GC Wilson,PRP Boissevain,HT Tector,,0,2,2,,,,31326231326
+1,Ireland,12,GC Wilson,PRP Boissevain,HT Tector,,0,0,0,,,,31326231326
+1,Ireland,12,GC Wilson,PRP Boissevain,HT Tector,,0,0,0,,,,31326231326
+1,Ireland,12,GC Wilson,PRP Boissevain,HT Tector,,0,1,1,,,,31326231326
+1,Ireland,13,GC Wilson,PM Seelaar,HT Tector,,0,0,0,,,,31326231326
+1,Ireland,13,GC Wilson,PM Seelaar,HT Tector,,0,2,2,,,,31326231326
+1,Ireland,13,GC Wilson,PM Seelaar,HT Tector,,0,2,2,,,,31326231326
+1,Ireland,13,GC Wilson,PM Seelaar,HT Tector,,0,0,0,,,,31326231326
+1,Ireland,13,GC Wilson,PM Seelaar,HT Tector,,0,0,0,,,,31326231326
+1,Ireland,13,GC Wilson,PM Seelaar,HT Tector,,0,0,0,,,,31326231326
+1,Ireland,14,HT Tector,PRP Boissevain,GC Wilson,,0,1,1,,,,31326231326
+1,Ireland,14,GC Wilson,PRP Boissevain,HT Tector,,0,0,0,,,,31326231326
+1,Ireland,14,GC Wilson,PRP Boissevain,HT Tector,,0,1,1,,,,31326231326
+1,Ireland,14,HT Tector,PRP Boissevain,GC Wilson,,0,6,6,,,,31326231326
+1,Ireland,14,HT Tector,PRP Boissevain,GC Wilson,,0,1,1,,,,31326231326
+1,Ireland,14,GC Wilson,PRP Boissevain,HT Tector,,0,0,0,caught,GC Wilson,BD Glover,31326231326
+1,Ireland,15,HT Tector,FJ Klaassen,MR Adair,,0,1,1,,,,31326231326
+1,Ireland,15,MR Adair,FJ Klaassen,HT Tector,,0,0,0,,,,31326231326
+1,Ireland,15,MR Adair,FJ Klaassen,HT Tector,wides,1,1,0,,,,31326231326
+1,Ireland,15,MR Adair,FJ Klaassen,HT Tector,,0,1,1,,,,31326231326
+1,Ireland,15,HT Tector,FJ Klaassen,MR Adair,,0,4,4,,,,31326231326
+1,Ireland,15,HT Tector,FJ Klaassen,MR Adair,,0,0,0,,,,31326231326
+1,Ireland,15,HT Tector,FJ Klaassen,MR Adair,,0,0,0,,,,31326231326
+1,Ireland,16,MR Adair,S Snater,HT Tector,,0,0,0,,,,31326231326
+1,Ireland,16,MR Adair,S Snater,HT Tector,,0,0,0,bowled,MR Adair,,31326231326
+1,Ireland,16,L Tucker,S Snater,HT Tector,,0,1,1,,,,31326231326
+1,Ireland,16,HT Tector,S Snater,L Tucker,,0,1,1,,,,31326231326
+1,Ireland,16,L Tucker,S Snater,HT Tector,,0,0,0,,,,31326231326
+1,Ireland,16,L Tucker,S Snater,HT Tector,,0,1,1,,,,31326231326
+1,Ireland,17,L Tucker,BD Glover,HT Tector,,0,0,0,,,,31326231326
+1,Ireland,17,L Tucker,BD Glover,HT Tector,,0,1,1,,,,31326231326
+1,Ireland,17,HT Tector,BD Glover,L Tucker,,0,0,0,,,,31326231326
+1,Ireland,17,HT Tector,BD Glover,L Tucker,,0,1,1,,,,31326231326
+1,Ireland,17,L Tucker,BD Glover,HT Tector,,0,1,1,,,,31326231326
+1,Ireland,17,HT Tector,BD Glover,L Tucker,,0,2,2,,,,31326231326
+1,Ireland,18,L Tucker,FJ Klaassen,HT Tector,,0,1,1,,,,31326231326
+1,Ireland,18,HT Tector,FJ Klaassen,L Tucker,,0,2,2,,,,31326231326
+1,Ireland,18,HT Tector,FJ Klaassen,L Tucker,,0,4,4,,,,31326231326
+1,Ireland,18,HT Tector,FJ Klaassen,L Tucker,,0,1,1,,,,31326231326
+1,Ireland,18,L Tucker,FJ Klaassen,HT Tector,,0,1,1,,,,31326231326
+1,Ireland,18,HT Tector,FJ Klaassen,L Tucker,,0,4,4,,,,31326231326
+1,Ireland,19,L Tucker,S Snater,HT Tector,,0,4,4,,,,31326231326
+1,Ireland,19,L Tucker,S Snater,HT Tector,byes,1,1,0,,,,31326231326
+1,Ireland,19,HT Tector,S Snater,L Tucker,,0,0,0,caught,HT Tector,BN Cooper,31326231326
+1,Ireland,19,L Tucker,S Snater,SR Thompson,,0,1,1,,,,31326231326
+1,Ireland,19,SR Thompson,S Snater,L Tucker,,0,1,1,,,,31326231326
+1,Ireland,19,L Tucker,S Snater,SR Thompson,,0,1,1,run out,L Tucker,,31326231326

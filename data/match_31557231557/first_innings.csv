@@ -1,0 +1,134 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Bulgaria,0,H Lakov,S Vashisht,Sulaiman Ali,,0,2,2,,,,31557231557
+1,Bulgaria,0,H Lakov,S Vashisht,Sulaiman Ali,,0,0,0,,,,31557231557
+1,Bulgaria,0,H Lakov,S Vashisht,Sulaiman Ali,,0,2,2,,,,31557231557
+1,Bulgaria,0,H Lakov,S Vashisht,Sulaiman Ali,,0,1,1,,,,31557231557
+1,Bulgaria,0,Sulaiman Ali,S Vashisht,H Lakov,,0,0,0,,,,31557231557
+1,Bulgaria,0,Sulaiman Ali,S Vashisht,H Lakov,,0,1,1,,,,31557231557
+1,Bulgaria,1,Sulaiman Ali,V Saini,H Lakov,,0,0,0,,,,31557231557
+1,Bulgaria,1,Sulaiman Ali,V Saini,H Lakov,wides,1,1,0,,,,31557231557
+1,Bulgaria,1,Sulaiman Ali,V Saini,H Lakov,,0,2,2,,,,31557231557
+1,Bulgaria,1,Sulaiman Ali,V Saini,H Lakov,,0,1,1,,,,31557231557
+1,Bulgaria,1,H Lakov,V Saini,Sulaiman Ali,,0,1,1,,,,31557231557
+1,Bulgaria,1,Sulaiman Ali,V Saini,H Lakov,wides,1,1,0,,,,31557231557
+1,Bulgaria,1,Sulaiman Ali,V Saini,H Lakov,,0,0,0,,,,31557231557
+1,Bulgaria,1,Sulaiman Ali,V Saini,H Lakov,,0,4,4,,,,31557231557
+1,Bulgaria,2,H Lakov,S Vashisht,Sulaiman Ali,,0,2,2,,,,31557231557
+1,Bulgaria,2,H Lakov,S Vashisht,Sulaiman Ali,,0,0,0,,,,31557231557
+1,Bulgaria,2,H Lakov,S Vashisht,Sulaiman Ali,,0,0,0,,,,31557231557
+1,Bulgaria,2,H Lakov,S Vashisht,Sulaiman Ali,wides,2,2,0,,,,31557231557
+1,Bulgaria,2,Sulaiman Ali,S Vashisht,H Lakov,wides,1,1,0,,,,31557231557
+1,Bulgaria,2,Sulaiman Ali,S Vashisht,H Lakov,,0,2,2,,,,31557231557
+1,Bulgaria,2,Sulaiman Ali,S Vashisht,H Lakov,,0,4,4,,,,31557231557
+1,Bulgaria,2,Sulaiman Ali,S Vashisht,H Lakov,,0,1,1,,,,31557231557
+1,Bulgaria,3,Sulaiman Ali,V Saini,H Lakov,wides,1,1,0,,,,31557231557
+1,Bulgaria,3,Sulaiman Ali,V Saini,H Lakov,,0,4,4,,,,31557231557
+1,Bulgaria,3,Sulaiman Ali,V Saini,H Lakov,,0,1,1,,,,31557231557
+1,Bulgaria,3,H Lakov,V Saini,Sulaiman Ali,,0,1,1,,,,31557231557
+1,Bulgaria,3,Sulaiman Ali,V Saini,H Lakov,,0,6,6,,,,31557231557
+1,Bulgaria,3,Sulaiman Ali,V Saini,H Lakov,,0,2,2,,,,31557231557
+1,Bulgaria,3,Sulaiman Ali,V Saini,H Lakov,,0,4,4,,,,31557231557
+1,Bulgaria,4,H Lakov,Aftab Kayani,Sulaiman Ali,,0,1,1,,,,31557231557
+1,Bulgaria,4,Sulaiman Ali,Aftab Kayani,H Lakov,,0,0,0,bowled,Sulaiman Ali,,31557231557
+1,Bulgaria,4,IA De Silva,Aftab Kayani,H Lakov,legbyes,1,1,0,,,,31557231557
+1,Bulgaria,4,H Lakov,Aftab Kayani,IA De Silva,,0,0,0,,,,31557231557
+1,Bulgaria,4,H Lakov,Aftab Kayani,IA De Silva,,0,1,1,,,,31557231557
+1,Bulgaria,4,IA De Silva,Aftab Kayani,H Lakov,,0,0,0,,,,31557231557
+1,Bulgaria,5,H Lakov,Sami Ullah,IA De Silva,,0,0,0,,,,31557231557
+1,Bulgaria,5,H Lakov,Sami Ullah,IA De Silva,,0,0,0,,,,31557231557
+1,Bulgaria,5,H Lakov,Sami Ullah,IA De Silva,,0,4,4,,,,31557231557
+1,Bulgaria,5,H Lakov,Sami Ullah,IA De Silva,,0,0,0,caught,H Lakov,Taranjeet Singh,31557231557
+1,Bulgaria,5,Bakhtiar Tahiri,Sami Ullah,IA De Silva,,0,1,1,,,,31557231557
+1,Bulgaria,5,IA De Silva,Sami Ullah,Bakhtiar Tahiri,,0,0,0,caught,IA De Silva,G Manan,31557231557
+1,Bulgaria,6,P Mishra,Aftab Kayani,Bakhtiar Tahiri,wides,1,1,0,,,,31557231557
+1,Bulgaria,6,P Mishra,Aftab Kayani,Bakhtiar Tahiri,,0,1,1,,,,31557231557
+1,Bulgaria,6,Bakhtiar Tahiri,Aftab Kayani,P Mishra,,0,2,2,,,,31557231557
+1,Bulgaria,6,Bakhtiar Tahiri,Aftab Kayani,P Mishra,,0,1,1,,,,31557231557
+1,Bulgaria,6,P Mishra,Aftab Kayani,Bakhtiar Tahiri,,0,4,4,,,,31557231557
+1,Bulgaria,6,P Mishra,Aftab Kayani,Bakhtiar Tahiri,,0,0,0,,,,31557231557
+1,Bulgaria,6,P Mishra,Aftab Kayani,Bakhtiar Tahiri,,0,6,6,,,,31557231557
+1,Bulgaria,7,Bakhtiar Tahiri,Sami Ullah,P Mishra,,0,0,0,,,,31557231557
+1,Bulgaria,7,Bakhtiar Tahiri,Sami Ullah,P Mishra,,0,0,0,,,,31557231557
+1,Bulgaria,7,Bakhtiar Tahiri,Sami Ullah,P Mishra,,0,1,1,,,,31557231557
+1,Bulgaria,7,P Mishra,Sami Ullah,Bakhtiar Tahiri,,0,0,0,,,,31557231557
+1,Bulgaria,7,P Mishra,Sami Ullah,Bakhtiar Tahiri,,0,1,1,,,,31557231557
+1,Bulgaria,7,Bakhtiar Tahiri,Sami Ullah,P Mishra,,0,0,0,,,,31557231557
+1,Bulgaria,8,P Mishra,S Thakur,Bakhtiar Tahiri,,0,0,0,,,,31557231557
+1,Bulgaria,8,P Mishra,S Thakur,Bakhtiar Tahiri,,0,1,1,,,,31557231557
+1,Bulgaria,8,Bakhtiar Tahiri,S Thakur,P Mishra,,0,4,4,,,,31557231557
+1,Bulgaria,8,Bakhtiar Tahiri,S Thakur,P Mishra,,0,4,4,,,,31557231557
+1,Bulgaria,8,Bakhtiar Tahiri,S Thakur,P Mishra,,0,1,1,,,,31557231557
+1,Bulgaria,8,P Mishra,S Thakur,Bakhtiar Tahiri,,0,1,1,,,,31557231557
+1,Bulgaria,9,P Mishra,Taranjeet Singh,Bakhtiar Tahiri,,0,0,0,,,,31557231557
+1,Bulgaria,9,P Mishra,Taranjeet Singh,Bakhtiar Tahiri,,0,0,0,,,,31557231557
+1,Bulgaria,9,P Mishra,Taranjeet Singh,Bakhtiar Tahiri,,0,6,6,,,,31557231557
+1,Bulgaria,9,P Mishra,Taranjeet Singh,Bakhtiar Tahiri,,0,0,0,,,,31557231557
+1,Bulgaria,9,P Mishra,Taranjeet Singh,Bakhtiar Tahiri,,0,0,0,lbw,P Mishra,,31557231557
+1,Bulgaria,9,KC D'Souza,Taranjeet Singh,Bakhtiar Tahiri,,0,0,0,,,,31557231557
+1,Bulgaria,10,Bakhtiar Tahiri,S Thakur,KC D'Souza,,0,0,0,,,,31557231557
+1,Bulgaria,10,Bakhtiar Tahiri,S Thakur,KC D'Souza,,0,0,0,,,,31557231557
+1,Bulgaria,10,Bakhtiar Tahiri,S Thakur,KC D'Souza,wides,1,1,0,,,,31557231557
+1,Bulgaria,10,Bakhtiar Tahiri,S Thakur,KC D'Souza,,0,1,1,,,,31557231557
+1,Bulgaria,10,KC D'Souza,S Thakur,Bakhtiar Tahiri,,0,2,2,,,,31557231557
+1,Bulgaria,10,KC D'Souza,S Thakur,Bakhtiar Tahiri,,0,0,0,,,,31557231557
+1,Bulgaria,10,KC D'Souza,S Thakur,Bakhtiar Tahiri,,0,4,4,,,,31557231557
+1,Bulgaria,11,Bakhtiar Tahiri,Taranjeet Singh,KC D'Souza,,0,6,6,,,,31557231557
+1,Bulgaria,11,Bakhtiar Tahiri,Taranjeet Singh,KC D'Souza,wides,1,1,0,,,,31557231557
+1,Bulgaria,11,Bakhtiar Tahiri,Taranjeet Singh,KC D'Souza,wides,1,1,0,,,,31557231557
+1,Bulgaria,11,Bakhtiar Tahiri,Taranjeet Singh,KC D'Souza,,0,0,0,,,,31557231557
+1,Bulgaria,11,Bakhtiar Tahiri,Taranjeet Singh,KC D'Souza,,0,1,1,,,,31557231557
+1,Bulgaria,11,KC D'Souza,Taranjeet Singh,Bakhtiar Tahiri,,0,0,0,,,,31557231557
+1,Bulgaria,11,KC D'Souza,Taranjeet Singh,Bakhtiar Tahiri,,0,1,1,,,,31557231557
+1,Bulgaria,11,Bakhtiar Tahiri,Taranjeet Singh,KC D'Souza,,0,0,0,,,,31557231557
+1,Bulgaria,12,KC D'Souza,P Florin,Bakhtiar Tahiri,,0,1,1,,,,31557231557
+1,Bulgaria,12,Bakhtiar Tahiri,P Florin,KC D'Souza,,0,0,0,,,,31557231557
+1,Bulgaria,12,Bakhtiar Tahiri,P Florin,KC D'Souza,,0,6,6,,,,31557231557
+1,Bulgaria,12,Bakhtiar Tahiri,P Florin,KC D'Souza,,0,1,1,,,,31557231557
+1,Bulgaria,12,KC D'Souza,P Florin,Bakhtiar Tahiri,,0,6,6,,,,31557231557
+1,Bulgaria,12,KC D'Souza,P Florin,Bakhtiar Tahiri,,0,0,0,,,,31557231557
+1,Bulgaria,13,Bakhtiar Tahiri,Taranjeet Singh,KC D'Souza,,0,0,0,bowled,Bakhtiar Tahiri,,31557231557
+1,Bulgaria,13,H Ivanov,Taranjeet Singh,KC D'Souza,,0,1,1,,,,31557231557
+1,Bulgaria,13,KC D'Souza,Taranjeet Singh,H Ivanov,,0,0,0,caught,KC D'Souza,Ijaz Hussain,31557231557
+1,Bulgaria,13,D Nikolov,Taranjeet Singh,H Ivanov,,0,0,0,,,,31557231557
+1,Bulgaria,13,D Nikolov,Taranjeet Singh,H Ivanov,,0,1,1,,,,31557231557
+1,Bulgaria,13,H Ivanov,Taranjeet Singh,D Nikolov,legbyes,1,1,0,,,,31557231557
+1,Bulgaria,14,H Ivanov,V Saini,D Nikolov,wides,1,1,0,,,,31557231557
+1,Bulgaria,14,H Ivanov,V Saini,D Nikolov,,0,0,0,caught,H Ivanov,Abdul Shakoor (2),31557231557
+1,Bulgaria,14,B Ivanov,V Saini,D Nikolov,,0,0,0,,,,31557231557
+1,Bulgaria,14,B Ivanov,V Saini,D Nikolov,,0,0,0,,,,31557231557
+1,Bulgaria,14,B Ivanov,V Saini,D Nikolov,,0,0,0,,,,31557231557
+1,Bulgaria,14,B Ivanov,V Saini,D Nikolov,,0,0,0,,,,31557231557
+1,Bulgaria,14,B Ivanov,V Saini,D Nikolov,,0,0,0,,,,31557231557
+1,Bulgaria,15,D Nikolov,Taranjeet Singh,B Ivanov,,0,1,1,,,,31557231557
+1,Bulgaria,15,B Ivanov,Taranjeet Singh,D Nikolov,,0,1,1,,,,31557231557
+1,Bulgaria,15,D Nikolov,Taranjeet Singh,B Ivanov,,0,1,1,,,,31557231557
+1,Bulgaria,15,B Ivanov,Taranjeet Singh,D Nikolov,wides,1,1,0,,,,31557231557
+1,Bulgaria,15,B Ivanov,Taranjeet Singh,D Nikolov,wides,1,1,0,,,,31557231557
+1,Bulgaria,15,B Ivanov,Taranjeet Singh,D Nikolov,,0,0,0,,,,31557231557
+1,Bulgaria,15,B Ivanov,Taranjeet Singh,D Nikolov,,0,4,4,,,,31557231557
+1,Bulgaria,15,B Ivanov,Taranjeet Singh,D Nikolov,,0,0,0,,,,31557231557
+1,Bulgaria,16,D Nikolov,Aftab Kayani,B Ivanov,,0,0,0,bowled,D Nikolov,,31557231557
+1,Bulgaria,16,J Albin,Aftab Kayani,B Ivanov,,0,0,0,,,,31557231557
+1,Bulgaria,16,J Albin,Aftab Kayani,B Ivanov,,0,0,0,,,,31557231557
+1,Bulgaria,16,J Albin,Aftab Kayani,B Ivanov,,0,4,4,,,,31557231557
+1,Bulgaria,16,J Albin,Aftab Kayani,B Ivanov,,0,1,1,,,,31557231557
+1,Bulgaria,16,B Ivanov,Aftab Kayani,J Albin,wides,1,1,0,,,,31557231557
+1,Bulgaria,16,B Ivanov,Aftab Kayani,J Albin,,0,0,0,,,,31557231557
+1,Bulgaria,17,J Albin,S Vashisht,B Ivanov,,0,0,0,,,,31557231557
+1,Bulgaria,17,J Albin,S Vashisht,B Ivanov,,0,4,4,,,,31557231557
+1,Bulgaria,17,J Albin,S Vashisht,B Ivanov,,0,0,0,,,,31557231557
+1,Bulgaria,17,J Albin,S Vashisht,B Ivanov,,0,0,0,,,,31557231557
+1,Bulgaria,17,J Albin,S Vashisht,B Ivanov,,0,1,1,,,,31557231557
+1,Bulgaria,17,B Ivanov,S Vashisht,J Albin,,0,1,1,,,,31557231557
+1,Bulgaria,18,B Ivanov,P Florin,J Albin,,0,1,1,,,,31557231557
+1,Bulgaria,18,J Albin,P Florin,B Ivanov,,0,2,2,,,,31557231557
+1,Bulgaria,18,J Albin,P Florin,B Ivanov,,0,1,1,,,,31557231557
+1,Bulgaria,18,B Ivanov,P Florin,J Albin,,0,1,1,,,,31557231557
+1,Bulgaria,18,J Albin,P Florin,B Ivanov,,0,0,0,,,,31557231557
+1,Bulgaria,18,J Albin,P Florin,B Ivanov,,0,0,0,,,,31557231557
+1,Bulgaria,19,B Ivanov,Sami Ullah,J Albin,,0,0,0,,,,31557231557
+1,Bulgaria,19,B Ivanov,Sami Ullah,J Albin,,0,1,1,,,,31557231557
+1,Bulgaria,19,J Albin,Sami Ullah,B Ivanov,,0,1,1,,,,31557231557
+1,Bulgaria,19,B Ivanov,Sami Ullah,J Albin,,0,0,0,,,,31557231557
+1,Bulgaria,19,B Ivanov,Sami Ullah,J Albin,,0,1,1,,,,31557231557
+1,Bulgaria,19,J Albin,Sami Ullah,B Ivanov,,0,3,3,,,,31557231557

@@ -1,0 +1,122 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,T Bavuma,PR Stirling,Q de Kock,,0,0,0,,,,31472231472
+1,South Africa,0,T Bavuma,PR Stirling,Q de Kock,,0,0,0,caught,T Bavuma,J Little,31472231472
+1,South Africa,0,JN Malan,PR Stirling,Q de Kock,,0,0,0,,,,31472231472
+1,South Africa,0,JN Malan,PR Stirling,Q de Kock,,0,0,0,caught,JN Malan,J Little,31472231472
+1,South Africa,0,AK Markram,PR Stirling,Q de Kock,,0,1,1,,,,31472231472
+1,South Africa,0,Q de Kock,PR Stirling,AK Markram,,0,1,1,,,,31472231472
+1,South Africa,1,Q de Kock,CA Young,AK Markram,wides,1,1,0,,,,31472231472
+1,South Africa,1,Q de Kock,CA Young,AK Markram,,0,1,1,,,,31472231472
+1,South Africa,1,AK Markram,CA Young,Q de Kock,legbyes,1,1,0,,,,31472231472
+1,South Africa,1,Q de Kock,CA Young,AK Markram,,0,0,0,,,,31472231472
+1,South Africa,1,Q de Kock,CA Young,AK Markram,,0,4,4,,,,31472231472
+1,South Africa,1,Q de Kock,CA Young,AK Markram,,0,4,4,,,,31472231472
+1,South Africa,1,Q de Kock,CA Young,AK Markram,,0,1,1,,,,31472231472
+1,South Africa,2,Q de Kock,PR Stirling,AK Markram,,0,2,2,,,,31472231472
+1,South Africa,2,Q de Kock,PR Stirling,AK Markram,,0,1,1,,,,31472231472
+1,South Africa,2,AK Markram,PR Stirling,Q de Kock,,0,1,1,,,,31472231472
+1,South Africa,2,Q de Kock,PR Stirling,AK Markram,,0,0,0,,,,31472231472
+1,South Africa,2,Q de Kock,PR Stirling,AK Markram,,0,0,0,,,,31472231472
+1,South Africa,2,Q de Kock,PR Stirling,AK Markram,,0,0,0,,,,31472231472
+1,South Africa,3,AK Markram,MR Adair,Q de Kock,,0,2,2,,,,31472231472
+1,South Africa,3,AK Markram,MR Adair,Q de Kock,,0,4,4,,,,31472231472
+1,South Africa,3,AK Markram,MR Adair,Q de Kock,,0,0,0,bowled,AK Markram,,31472231472
+1,South Africa,3,HE van der Dussen,MR Adair,Q de Kock,,0,0,0,,,,31472231472
+1,South Africa,3,HE van der Dussen,MR Adair,Q de Kock,,0,0,0,,,,31472231472
+1,South Africa,3,HE van der Dussen,MR Adair,Q de Kock,,0,0,0,,,,31472231472
+1,South Africa,4,Q de Kock,J Little,HE van der Dussen,,0,0,0,,,,31472231472
+1,South Africa,4,Q de Kock,J Little,HE van der Dussen,,0,0,0,,,,31472231472
+1,South Africa,4,Q de Kock,J Little,HE van der Dussen,,0,4,4,,,,31472231472
+1,South Africa,4,Q de Kock,J Little,HE van der Dussen,,0,4,4,,,,31472231472
+1,South Africa,4,Q de Kock,J Little,HE van der Dussen,,0,0,0,,,,31472231472
+1,South Africa,4,Q de Kock,J Little,HE van der Dussen,,0,4,4,,,,31472231472
+1,South Africa,5,HE van der Dussen,MR Adair,Q de Kock,,0,0,0,,,,31472231472
+1,South Africa,5,HE van der Dussen,MR Adair,Q de Kock,,0,1,1,,,,31472231472
+1,South Africa,5,Q de Kock,MR Adair,HE van der Dussen,,0,0,0,,,,31472231472
+1,South Africa,5,Q de Kock,MR Adair,HE van der Dussen,,0,1,1,,,,31472231472
+1,South Africa,5,HE van der Dussen,MR Adair,Q de Kock,,0,0,0,,,,31472231472
+1,South Africa,5,HE van der Dussen,MR Adair,Q de Kock,,0,0,0,,,,31472231472
+1,South Africa,6,Q de Kock,Simi Singh,HE van der Dussen,,0,0,0,lbw,Q de Kock,,31472231472
+1,South Africa,6,DA Miller,Simi Singh,HE van der Dussen,,0,0,0,,,,31472231472
+1,South Africa,6,DA Miller,Simi Singh,HE van der Dussen,,0,0,0,,,,31472231472
+1,South Africa,6,DA Miller,Simi Singh,HE van der Dussen,,0,1,1,,,,31472231472
+1,South Africa,6,HE van der Dussen,Simi Singh,DA Miller,,0,1,1,,,,31472231472
+1,South Africa,6,DA Miller,Simi Singh,HE van der Dussen,,0,1,1,,,,31472231472
+1,South Africa,7,DA Miller,CA Young,HE van der Dussen,,0,2,2,,,,31472231472
+1,South Africa,7,DA Miller,CA Young,HE van der Dussen,,0,1,1,,,,31472231472
+1,South Africa,7,HE van der Dussen,CA Young,DA Miller,,0,1,1,,,,31472231472
+1,South Africa,7,DA Miller,CA Young,HE van der Dussen,,0,4,4,,,,31472231472
+1,South Africa,7,DA Miller,CA Young,HE van der Dussen,,0,1,1,,,,31472231472
+1,South Africa,7,HE van der Dussen,CA Young,DA Miller,,0,0,0,,,,31472231472
+1,South Africa,8,DA Miller,Simi Singh,HE van der Dussen,,0,1,1,,,,31472231472
+1,South Africa,8,HE van der Dussen,Simi Singh,DA Miller,,0,1,1,,,,31472231472
+1,South Africa,8,DA Miller,Simi Singh,HE van der Dussen,,0,1,1,,,,31472231472
+1,South Africa,8,HE van der Dussen,Simi Singh,DA Miller,,0,1,1,,,,31472231472
+1,South Africa,8,DA Miller,Simi Singh,HE van der Dussen,,0,2,2,,,,31472231472
+1,South Africa,8,DA Miller,Simi Singh,HE van der Dussen,,0,0,0,,,,31472231472
+1,South Africa,9,HE van der Dussen,J Little,DA Miller,,0,1,1,,,,31472231472
+1,South Africa,9,DA Miller,J Little,HE van der Dussen,,0,0,0,,,,31472231472
+1,South Africa,9,DA Miller,J Little,HE van der Dussen,,0,0,0,,,,31472231472
+1,South Africa,9,DA Miller,J Little,HE van der Dussen,,0,1,1,,,,31472231472
+1,South Africa,9,HE van der Dussen,J Little,DA Miller,,0,0,0,,,,31472231472
+1,South Africa,9,HE van der Dussen,J Little,DA Miller,,0,0,0,caught,HE van der Dussen,L Tucker,31472231472
+1,South Africa,10,DA Miller,PR Stirling,PWA Mulder,,0,1,1,,,,31472231472
+1,South Africa,10,PWA Mulder,PR Stirling,DA Miller,,0,1,1,,,,31472231472
+1,South Africa,10,DA Miller,PR Stirling,PWA Mulder,,0,0,0,,,,31472231472
+1,South Africa,10,DA Miller,PR Stirling,PWA Mulder,,0,2,2,,,,31472231472
+1,South Africa,10,DA Miller,PR Stirling,PWA Mulder,,0,1,1,,,,31472231472
+1,South Africa,10,PWA Mulder,PR Stirling,DA Miller,,0,1,1,,,,31472231472
+1,South Africa,11,PWA Mulder,J Little,DA Miller,,0,0,0,,,,31472231472
+1,South Africa,11,PWA Mulder,J Little,DA Miller,,0,0,0,,,,31472231472
+1,South Africa,11,PWA Mulder,J Little,DA Miller,,0,2,2,,,,31472231472
+1,South Africa,11,PWA Mulder,J Little,DA Miller,,0,0,0,,,,31472231472
+1,South Africa,11,PWA Mulder,J Little,DA Miller,,0,1,1,,,,31472231472
+1,South Africa,11,DA Miller,J Little,PWA Mulder,,0,1,1,,,,31472231472
+1,South Africa,12,DA Miller,Simi Singh,PWA Mulder,,0,1,1,,,,31472231472
+1,South Africa,12,PWA Mulder,Simi Singh,DA Miller,,0,1,1,,,,31472231472
+1,South Africa,12,DA Miller,Simi Singh,PWA Mulder,,0,1,1,,,,31472231472
+1,South Africa,12,PWA Mulder,Simi Singh,DA Miller,,0,0,0,,,,31472231472
+1,South Africa,12,PWA Mulder,Simi Singh,DA Miller,,0,1,1,,,,31472231472
+1,South Africa,12,DA Miller,Simi Singh,PWA Mulder,,0,4,4,,,,31472231472
+1,South Africa,13,PWA Mulder,SC Getkate,DA Miller,,0,1,1,,,,31472231472
+1,South Africa,13,DA Miller,SC Getkate,PWA Mulder,,0,0,0,,,,31472231472
+1,South Africa,13,DA Miller,SC Getkate,PWA Mulder,,0,1,1,,,,31472231472
+1,South Africa,13,PWA Mulder,SC Getkate,DA Miller,,0,1,1,,,,31472231472
+1,South Africa,13,DA Miller,SC Getkate,PWA Mulder,,0,1,1,,,,31472231472
+1,South Africa,13,PWA Mulder,SC Getkate,DA Miller,,0,2,2,,,,31472231472
+1,South Africa,14,DA Miller,Simi Singh,PWA Mulder,,0,1,1,,,,31472231472
+1,South Africa,14,PWA Mulder,Simi Singh,DA Miller,,0,1,1,,,,31472231472
+1,South Africa,14,DA Miller,Simi Singh,PWA Mulder,,0,1,1,,,,31472231472
+1,South Africa,14,PWA Mulder,Simi Singh,DA Miller,,0,0,0,,,,31472231472
+1,South Africa,14,PWA Mulder,Simi Singh,DA Miller,,0,0,0,,,,31472231472
+1,South Africa,14,PWA Mulder,Simi Singh,DA Miller,,0,6,6,,,,31472231472
+1,South Africa,15,DA Miller,CA Young,PWA Mulder,,0,1,1,,,,31472231472
+1,South Africa,15,PWA Mulder,CA Young,DA Miller,,0,1,1,,,,31472231472
+1,South Africa,15,DA Miller,CA Young,PWA Mulder,,0,4,4,,,,31472231472
+1,South Africa,15,DA Miller,CA Young,PWA Mulder,,0,1,1,,,,31472231472
+1,South Africa,15,PWA Mulder,CA Young,DA Miller,,0,4,4,,,,31472231472
+1,South Africa,15,PWA Mulder,CA Young,DA Miller,,0,1,1,,,,31472231472
+1,South Africa,16,PWA Mulder,MR Adair,DA Miller,,0,6,6,,,,31472231472
+1,South Africa,16,PWA Mulder,MR Adair,DA Miller,,0,4,4,,,,31472231472
+1,South Africa,16,PWA Mulder,MR Adair,DA Miller,,0,1,1,,,,31472231472
+1,South Africa,16,DA Miller,MR Adair,PWA Mulder,,0,1,1,,,,31472231472
+1,South Africa,16,PWA Mulder,MR Adair,DA Miller,,0,0,0,,,,31472231472
+1,South Africa,16,PWA Mulder,MR Adair,DA Miller,,0,1,1,,,,31472231472
+1,South Africa,17,PWA Mulder,CA Young,DA Miller,,0,0,0,caught,PWA Mulder,A Balbirnie,31472231472
+1,South Africa,17,DA Miller,CA Young,BC Fortuin,,0,4,4,,,,31472231472
+1,South Africa,17,DA Miller,CA Young,BC Fortuin,,0,1,1,,,,31472231472
+1,South Africa,17,BC Fortuin,CA Young,DA Miller,,0,1,1,,,,31472231472
+1,South Africa,17,DA Miller,CA Young,BC Fortuin,,0,1,1,,,,31472231472
+1,South Africa,17,BC Fortuin,CA Young,DA Miller,,0,0,0,,,,31472231472
+1,South Africa,18,DA Miller,MR Adair,BC Fortuin,,0,6,6,,,,31472231472
+1,South Africa,18,DA Miller,MR Adair,BC Fortuin,,0,1,1,,,,31472231472
+1,South Africa,18,BC Fortuin,MR Adair,DA Miller,,0,4,4,,,,31472231472
+1,South Africa,18,BC Fortuin,MR Adair,DA Miller,,0,0,0,caught,BC Fortuin,A Balbirnie,31472231472
+1,South Africa,18,DA Miller,MR Adair,BE Hendricks,,0,1,1,,,,31472231472
+1,South Africa,18,BE Hendricks,MR Adair,DA Miller,,0,0,0,,,,31472231472
+1,South Africa,19,DA Miller,J Little,BE Hendricks,,0,6,6,,,,31472231472
+1,South Africa,19,DA Miller,J Little,BE Hendricks,,0,0,0,,,,31472231472
+1,South Africa,19,DA Miller,J Little,BE Hendricks,,0,0,0,,,,31472231472
+1,South Africa,19,DA Miller,J Little,BE Hendricks,,0,6,6,,,,31472231472
+1,South Africa,19,DA Miller,J Little,BE Hendricks,,0,6,6,,,,31472231472
+1,South Africa,19,DA Miller,J Little,BE Hendricks,,0,6,6,,,,31472231472

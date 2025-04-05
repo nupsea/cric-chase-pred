@@ -1,0 +1,133 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Bangladesh,0,Zakir Hasan,DSK Madushanka,Soumya Sarkar,,0,1,1,,,,379423794
+1,Bangladesh,0,Soumya Sarkar,DSK Madushanka,Zakir Hasan,,0,0,0,,,,379423794
+1,Bangladesh,0,Soumya Sarkar,DSK Madushanka,Zakir Hasan,,0,4,4,,,,379423794
+1,Bangladesh,0,Soumya Sarkar,DSK Madushanka,Zakir Hasan,wides,1,1,0,,,,379423794
+1,Bangladesh,0,Soumya Sarkar,DSK Madushanka,Zakir Hasan,,0,6,6,,,,379423794
+1,Bangladesh,0,Soumya Sarkar,DSK Madushanka,Zakir Hasan,,0,1,1,,,,379423794
+1,Bangladesh,0,Zakir Hasan,DSK Madushanka,Soumya Sarkar,,0,4,4,,,,379423794
+1,Bangladesh,1,Soumya Sarkar,MD Gunathilaka,Zakir Hasan,,0,1,1,,,,379423794
+1,Bangladesh,1,Zakir Hasan,MD Gunathilaka,Soumya Sarkar,wides,5,5,0,,,,379423794
+1,Bangladesh,1,Zakir Hasan,MD Gunathilaka,Soumya Sarkar,,0,1,1,,,,379423794
+1,Bangladesh,1,Soumya Sarkar,MD Gunathilaka,Zakir Hasan,,0,1,1,,,,379423794
+1,Bangladesh,1,Zakir Hasan,MD Gunathilaka,Soumya Sarkar,,0,1,1,,,,379423794
+1,Bangladesh,1,Soumya Sarkar,MD Gunathilaka,Zakir Hasan,,0,0,0,,,,379423794
+1,Bangladesh,1,Soumya Sarkar,MD Gunathilaka,Zakir Hasan,,0,0,0,,,,379423794
+1,Bangladesh,2,Zakir Hasan,I Udana,Soumya Sarkar,,0,1,1,,,,379423794
+1,Bangladesh,2,Soumya Sarkar,I Udana,Zakir Hasan,,0,4,4,,,,379423794
+1,Bangladesh,2,Soumya Sarkar,I Udana,Zakir Hasan,,0,4,4,,,,379423794
+1,Bangladesh,2,Soumya Sarkar,I Udana,Zakir Hasan,,0,4,4,,,,379423794
+1,Bangladesh,2,Soumya Sarkar,I Udana,Zakir Hasan,,0,1,1,,,,379423794
+1,Bangladesh,2,Zakir Hasan,I Udana,Soumya Sarkar,,0,1,1,,,,379423794
+1,Bangladesh,3,Zakir Hasan,MD Gunathilaka,Soumya Sarkar,,0,1,1,,,,379423794
+1,Bangladesh,3,Soumya Sarkar,MD Gunathilaka,Zakir Hasan,,0,4,4,,,,379423794
+1,Bangladesh,3,Soumya Sarkar,MD Gunathilaka,Zakir Hasan,,0,1,1,,,,379423794
+1,Bangladesh,3,Zakir Hasan,MD Gunathilaka,Soumya Sarkar,legbyes,1,1,0,,,,379423794
+1,Bangladesh,3,Soumya Sarkar,MD Gunathilaka,Zakir Hasan,,0,1,1,,,,379423794
+1,Bangladesh,3,Zakir Hasan,MD Gunathilaka,Soumya Sarkar,,0,0,0,bowled,Zakir Hasan,,379423794
+1,Bangladesh,4,Soumya Sarkar,NLTC Perera,Mushfiqur Rahim,,0,0,0,,,,379423794
+1,Bangladesh,4,Soumya Sarkar,NLTC Perera,Mushfiqur Rahim,,0,4,4,,,,379423794
+1,Bangladesh,4,Soumya Sarkar,NLTC Perera,Mushfiqur Rahim,wides,1,1,0,,,,379423794
+1,Bangladesh,4,Soumya Sarkar,NLTC Perera,Mushfiqur Rahim,,0,0,0,,,,379423794
+1,Bangladesh,4,Soumya Sarkar,NLTC Perera,Mushfiqur Rahim,,0,1,1,,,,379423794
+1,Bangladesh,4,Mushfiqur Rahim,NLTC Perera,Soumya Sarkar,,0,2,2,,,,379423794
+1,Bangladesh,4,Mushfiqur Rahim,NLTC Perera,Soumya Sarkar,,0,1,1,,,,379423794
+1,Bangladesh,5,Mushfiqur Rahim,A Dananjaya,Soumya Sarkar,,0,4,4,,,,379423794
+1,Bangladesh,5,Mushfiqur Rahim,A Dananjaya,Soumya Sarkar,,0,1,1,,,,379423794
+1,Bangladesh,5,Soumya Sarkar,A Dananjaya,Mushfiqur Rahim,,0,6,6,,,,379423794
+1,Bangladesh,5,Soumya Sarkar,A Dananjaya,Mushfiqur Rahim,,0,1,1,,,,379423794
+1,Bangladesh,5,Mushfiqur Rahim,A Dananjaya,Soumya Sarkar,,0,1,1,,,,379423794
+1,Bangladesh,5,Soumya Sarkar,A Dananjaya,Mushfiqur Rahim,,0,0,0,,,,379423794
+1,Bangladesh,6,Mushfiqur Rahim,NLTC Perera,Soumya Sarkar,,0,1,1,,,,379423794
+1,Bangladesh,6,Soumya Sarkar,NLTC Perera,Mushfiqur Rahim,byes,1,1,0,,,,379423794
+1,Bangladesh,6,Mushfiqur Rahim,NLTC Perera,Soumya Sarkar,,0,0,0,,,,379423794
+1,Bangladesh,6,Mushfiqur Rahim,NLTC Perera,Soumya Sarkar,,0,2,2,,,,379423794
+1,Bangladesh,6,Mushfiqur Rahim,NLTC Perera,Soumya Sarkar,wides,2,2,0,,,,379423794
+1,Bangladesh,6,Soumya Sarkar,NLTC Perera,Mushfiqur Rahim,noballs,1,2,1,,,,379423794
+1,Bangladesh,6,Mushfiqur Rahim,NLTC Perera,Soumya Sarkar,,0,0,0,,,,379423794
+1,Bangladesh,6,Mushfiqur Rahim,NLTC Perera,Soumya Sarkar,,0,1,1,,,,379423794
+1,Bangladesh,7,Mushfiqur Rahim,A Dananjaya,Soumya Sarkar,,0,0,0,,,,379423794
+1,Bangladesh,7,Mushfiqur Rahim,A Dananjaya,Soumya Sarkar,,0,1,1,,,,379423794
+1,Bangladesh,7,Soumya Sarkar,A Dananjaya,Mushfiqur Rahim,,0,1,1,,,,379423794
+1,Bangladesh,7,Mushfiqur Rahim,A Dananjaya,Soumya Sarkar,,0,1,1,,,,379423794
+1,Bangladesh,7,Soumya Sarkar,A Dananjaya,Mushfiqur Rahim,,0,1,1,,,,379423794
+1,Bangladesh,7,Mushfiqur Rahim,A Dananjaya,Soumya Sarkar,,0,0,0,,,,379423794
+1,Bangladesh,8,Soumya Sarkar,DSK Madushanka,Mushfiqur Rahim,,0,0,0,,,,379423794
+1,Bangladesh,8,Soumya Sarkar,DSK Madushanka,Mushfiqur Rahim,legbyes,1,1,0,,,,379423794
+1,Bangladesh,8,Mushfiqur Rahim,DSK Madushanka,Soumya Sarkar,,0,4,4,,,,379423794
+1,Bangladesh,8,Mushfiqur Rahim,DSK Madushanka,Soumya Sarkar,,0,0,0,,,,379423794
+1,Bangladesh,8,Mushfiqur Rahim,DSK Madushanka,Soumya Sarkar,,0,0,0,,,,379423794
+1,Bangladesh,8,Mushfiqur Rahim,DSK Madushanka,Soumya Sarkar,,0,4,4,,,,379423794
+1,Bangladesh,9,Soumya Sarkar,A Dananjaya,Mushfiqur Rahim,,0,2,2,,,,379423794
+1,Bangladesh,9,Soumya Sarkar,A Dananjaya,Mushfiqur Rahim,,0,1,1,,,,379423794
+1,Bangladesh,9,Mushfiqur Rahim,A Dananjaya,Soumya Sarkar,,0,1,1,,,,379423794
+1,Bangladesh,9,Soumya Sarkar,A Dananjaya,Mushfiqur Rahim,,0,1,1,,,,379423794
+1,Bangladesh,9,Mushfiqur Rahim,A Dananjaya,Soumya Sarkar,,0,0,0,,,,379423794
+1,Bangladesh,9,Mushfiqur Rahim,A Dananjaya,Soumya Sarkar,,0,2,2,,,,379423794
+1,Bangladesh,10,Soumya Sarkar,BMAJ Mendis,Mushfiqur Rahim,,0,0,0,lbw,Soumya Sarkar,,379423794
+1,Bangladesh,10,Afif Hossain,BMAJ Mendis,Mushfiqur Rahim,,0,0,0,,,,379423794
+1,Bangladesh,10,Afif Hossain,BMAJ Mendis,Mushfiqur Rahim,,0,0,0,caught,Afif Hossain,N Dickwella,379423794
+1,Bangladesh,10,Mahmudullah,BMAJ Mendis,Mushfiqur Rahim,,0,1,1,,,,379423794
+1,Bangladesh,10,Mushfiqur Rahim,BMAJ Mendis,Mahmudullah,,0,1,1,,,,379423794
+1,Bangladesh,10,Mahmudullah,BMAJ Mendis,Mushfiqur Rahim,,0,1,1,,,,379423794
+1,Bangladesh,11,Mahmudullah,I Udana,Mushfiqur Rahim,,0,0,0,,,,379423794
+1,Bangladesh,11,Mahmudullah,I Udana,Mushfiqur Rahim,,0,2,2,,,,379423794
+1,Bangladesh,11,Mahmudullah,I Udana,Mushfiqur Rahim,,0,1,1,,,,379423794
+1,Bangladesh,11,Mushfiqur Rahim,I Udana,Mahmudullah,,0,1,1,,,,379423794
+1,Bangladesh,11,Mahmudullah,I Udana,Mushfiqur Rahim,wides,1,1,0,,,,379423794
+1,Bangladesh,11,Mahmudullah,I Udana,Mushfiqur Rahim,,0,1,1,,,,379423794
+1,Bangladesh,11,Mushfiqur Rahim,I Udana,Mahmudullah,,0,4,4,,,,379423794
+1,Bangladesh,12,Mahmudullah,BMAJ Mendis,Mushfiqur Rahim,,0,6,6,,,,379423794
+1,Bangladesh,12,Mahmudullah,BMAJ Mendis,Mushfiqur Rahim,,0,1,1,,,,379423794
+1,Bangladesh,12,Mushfiqur Rahim,BMAJ Mendis,Mahmudullah,,0,1,1,,,,379423794
+1,Bangladesh,12,Mahmudullah,BMAJ Mendis,Mushfiqur Rahim,,0,0,0,,,,379423794
+1,Bangladesh,12,Mahmudullah,BMAJ Mendis,Mushfiqur Rahim,,0,1,1,,,,379423794
+1,Bangladesh,12,Mushfiqur Rahim,BMAJ Mendis,Mahmudullah,,0,1,1,,,,379423794
+1,Bangladesh,13,Mushfiqur Rahim,A Dananjaya,Mahmudullah,,0,1,1,,,,379423794
+1,Bangladesh,13,Mahmudullah,A Dananjaya,Mushfiqur Rahim,,0,0,0,,,,379423794
+1,Bangladesh,13,Mahmudullah,A Dananjaya,Mushfiqur Rahim,,0,0,0,,,,379423794
+1,Bangladesh,13,Mahmudullah,A Dananjaya,Mushfiqur Rahim,,0,4,4,,,,379423794
+1,Bangladesh,13,Mahmudullah,A Dananjaya,Mushfiqur Rahim,wides,1,1,0,,,,379423794
+1,Bangladesh,13,Mahmudullah,A Dananjaya,Mushfiqur Rahim,,0,1,1,,,,379423794
+1,Bangladesh,13,Mushfiqur Rahim,A Dananjaya,Mahmudullah,,0,1,1,,,,379423794
+1,Bangladesh,14,Mushfiqur Rahim,BMAJ Mendis,Mahmudullah,,0,0,0,,,,379423794
+1,Bangladesh,14,Mushfiqur Rahim,BMAJ Mendis,Mahmudullah,,0,4,4,,,,379423794
+1,Bangladesh,14,Mushfiqur Rahim,BMAJ Mendis,Mahmudullah,,0,1,1,,,,379423794
+1,Bangladesh,14,Mahmudullah,BMAJ Mendis,Mushfiqur Rahim,,0,0,0,,,,379423794
+1,Bangladesh,14,Mahmudullah,BMAJ Mendis,Mushfiqur Rahim,,0,2,2,,,,379423794
+1,Bangladesh,14,Mahmudullah,BMAJ Mendis,Mushfiqur Rahim,,0,1,1,,,,379423794
+1,Bangladesh,15,Mahmudullah,DSK Madushanka,Mushfiqur Rahim,,0,0,0,,,,379423794
+1,Bangladesh,15,Mahmudullah,DSK Madushanka,Mushfiqur Rahim,,0,6,6,,,,379423794
+1,Bangladesh,15,Mahmudullah,DSK Madushanka,Mushfiqur Rahim,,0,2,2,,,,379423794
+1,Bangladesh,15,Mahmudullah,DSK Madushanka,Mushfiqur Rahim,,0,1,1,,,,379423794
+1,Bangladesh,15,Mushfiqur Rahim,DSK Madushanka,Mahmudullah,,0,4,4,,,,379423794
+1,Bangladesh,15,Mushfiqur Rahim,DSK Madushanka,Mahmudullah,wides,1,1,0,,,,379423794
+1,Bangladesh,15,Mushfiqur Rahim,DSK Madushanka,Mahmudullah,legbyes,1,1,0,,,,379423794
+1,Bangladesh,16,Mushfiqur Rahim,I Udana,Mahmudullah,,0,1,1,,,,379423794
+1,Bangladesh,16,Mahmudullah,I Udana,Mushfiqur Rahim,wides,1,1,0,,,,379423794
+1,Bangladesh,16,Mahmudullah,I Udana,Mushfiqur Rahim,,0,1,1,,,,379423794
+1,Bangladesh,16,Mushfiqur Rahim,I Udana,Mahmudullah,wides,1,1,0,,,,379423794
+1,Bangladesh,16,Mushfiqur Rahim,I Udana,Mahmudullah,,0,1,1,,,,379423794
+1,Bangladesh,16,Mahmudullah,I Udana,Mushfiqur Rahim,,0,0,0,,,,379423794
+1,Bangladesh,16,Mahmudullah,I Udana,Mushfiqur Rahim,,0,1,1,,,,379423794
+1,Bangladesh,16,Mushfiqur Rahim,I Udana,Mahmudullah,,0,2,2,,,,379423794
+1,Bangladesh,17,Mahmudullah,NLTC Perera,Mushfiqur Rahim,,0,4,4,,,,379423794
+1,Bangladesh,17,Mahmudullah,NLTC Perera,Mushfiqur Rahim,,0,1,1,,,,379423794
+1,Bangladesh,17,Mushfiqur Rahim,NLTC Perera,Mahmudullah,,0,1,1,,,,379423794
+1,Bangladesh,17,Mahmudullah,NLTC Perera,Mushfiqur Rahim,,0,2,2,,,,379423794
+1,Bangladesh,17,Mahmudullah,NLTC Perera,Mushfiqur Rahim,,0,0,0,,,,379423794
+1,Bangladesh,17,Mahmudullah,NLTC Perera,Mushfiqur Rahim,,0,1,1,,,,379423794
+1,Bangladesh,18,Mahmudullah,I Udana,Mushfiqur Rahim,,0,2,2,,,,379423794
+1,Bangladesh,18,Mahmudullah,I Udana,Mushfiqur Rahim,,0,0,0,caught,Mahmudullah,A Dananjaya,379423794
+1,Bangladesh,18,Sabbir Rahman,I Udana,Mushfiqur Rahim,wides,1,1,0,,,,379423794
+1,Bangladesh,18,Sabbir Rahman,I Udana,Mushfiqur Rahim,,0,1,1,,,,379423794
+1,Bangladesh,18,Mushfiqur Rahim,I Udana,Sabbir Rahman,,0,6,6,,,,379423794
+1,Bangladesh,18,Mushfiqur Rahim,I Udana,Sabbir Rahman,,0,0,0,,,,379423794
+1,Bangladesh,18,Mushfiqur Rahim,I Udana,Sabbir Rahman,wides,1,1,0,,,,379423794
+1,Bangladesh,18,Mushfiqur Rahim,I Udana,Sabbir Rahman,,0,1,1,,,,379423794
+1,Bangladesh,19,Mushfiqur Rahim,NLTC Perera,Sabbir Rahman,,0,2,2,,,,379423794
+1,Bangladesh,19,Mushfiqur Rahim,NLTC Perera,Sabbir Rahman,,0,1,1,,,,379423794
+1,Bangladesh,19,Sabbir Rahman,NLTC Perera,Mushfiqur Rahim,,0,0,0,bowled,Sabbir Rahman,,379423794
+1,Bangladesh,19,Ariful Haque,NLTC Perera,Mushfiqur Rahim,,0,1,1,,,,379423794
+1,Bangladesh,19,Mushfiqur Rahim,NLTC Perera,Ariful Haque,,0,4,4,,,,379423794
+1,Bangladesh,19,Mushfiqur Rahim,NLTC Perera,Ariful Haque,,0,2,2,,,,379423794

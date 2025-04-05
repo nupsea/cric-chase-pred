@@ -1,0 +1,114 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Hong Kong,0,Nizakat Khan,Bilal Khan,Aizaz Khan,,0,1,1,,,,372123721
+1,Hong Kong,0,Aizaz Khan,Bilal Khan,Nizakat Khan,,0,0,0,,,,372123721
+1,Hong Kong,0,Aizaz Khan,Bilal Khan,Nizakat Khan,wides,1,1,0,,,,372123721
+1,Hong Kong,0,Aizaz Khan,Bilal Khan,Nizakat Khan,,0,1,1,,,,372123721
+1,Hong Kong,0,Nizakat Khan,Bilal Khan,Aizaz Khan,,0,0,0,bowled,Nizakat Khan,,372123721
+1,Hong Kong,0,Babar Hayat,Bilal Khan,Aizaz Khan,,0,0,0,,,,372123721
+1,Hong Kong,0,Babar Hayat,Bilal Khan,Aizaz Khan,,0,0,0,,,,372123721
+1,Hong Kong,1,Aizaz Khan,Kaleemullah,Babar Hayat,,0,0,0,,,,372123721
+1,Hong Kong,1,Aizaz Khan,Kaleemullah,Babar Hayat,,0,4,4,,,,372123721
+1,Hong Kong,1,Aizaz Khan,Kaleemullah,Babar Hayat,,0,0,0,,,,372123721
+1,Hong Kong,1,Aizaz Khan,Kaleemullah,Babar Hayat,,0,4,4,,,,372123721
+1,Hong Kong,1,Aizaz Khan,Kaleemullah,Babar Hayat,,0,4,4,,,,372123721
+1,Hong Kong,1,Aizaz Khan,Kaleemullah,Babar Hayat,,0,0,0,,,,372123721
+1,Hong Kong,2,Babar Hayat,Bilal Khan,Aizaz Khan,,0,0,0,,,,372123721
+1,Hong Kong,2,Babar Hayat,Bilal Khan,Aizaz Khan,,0,1,1,,,,372123721
+1,Hong Kong,2,Aizaz Khan,Bilal Khan,Babar Hayat,,0,1,1,,,,372123721
+1,Hong Kong,2,Babar Hayat,Bilal Khan,Aizaz Khan,,0,4,4,,,,372123721
+1,Hong Kong,2,Babar Hayat,Bilal Khan,Aizaz Khan,,0,0,0,lbw,Babar Hayat,,372123721
+1,Hong Kong,2,Anshuman Rath,Bilal Khan,Aizaz Khan,,0,3,3,,,,372123721
+1,Hong Kong,3,Anshuman Rath,Kaleemullah,Aizaz Khan,,0,0,0,,,,372123721
+1,Hong Kong,3,Anshuman Rath,Kaleemullah,Aizaz Khan,,0,0,0,,,,372123721
+1,Hong Kong,3,Anshuman Rath,Kaleemullah,Aizaz Khan,,0,0,0,,,,372123721
+1,Hong Kong,3,Anshuman Rath,Kaleemullah,Aizaz Khan,,0,4,4,,,,372123721
+1,Hong Kong,3,Anshuman Rath,Kaleemullah,Aizaz Khan,,0,0,0,,,,372123721
+1,Hong Kong,3,Anshuman Rath,Kaleemullah,Aizaz Khan,,0,1,1,,,,372123721
+1,Hong Kong,4,Anshuman Rath,Bilal Khan,Aizaz Khan,,0,0,0,caught,Anshuman Rath,Sultan Ahmed,372123721
+1,Hong Kong,4,Waqas Khan,Bilal Khan,Aizaz Khan,,0,1,1,,,,372123721
+1,Hong Kong,4,Aizaz Khan,Bilal Khan,Waqas Khan,,0,0,0,,,,372123721
+1,Hong Kong,4,Aizaz Khan,Bilal Khan,Waqas Khan,,0,1,1,,,,372123721
+1,Hong Kong,4,Waqas Khan,Bilal Khan,Aizaz Khan,,0,1,1,,,,372123721
+1,Hong Kong,4,Aizaz Khan,Bilal Khan,Waqas Khan,,0,0,0,,,,372123721
+1,Hong Kong,5,Waqas Khan,Mohammad Nadeem,Aizaz Khan,,0,0,0,,,,372123721
+1,Hong Kong,5,Waqas Khan,Mohammad Nadeem,Aizaz Khan,,0,1,1,,,,372123721
+1,Hong Kong,5,Aizaz Khan,Mohammad Nadeem,Waqas Khan,,0,4,4,,,,372123721
+1,Hong Kong,5,Aizaz Khan,Mohammad Nadeem,Waqas Khan,,0,0,0,caught,Aizaz Khan,Aqib Ilyas,372123721
+1,Hong Kong,5,Shahid Wasif,Mohammad Nadeem,Waqas Khan,,0,1,1,,,,372123721
+1,Hong Kong,5,Waqas Khan,Mohammad Nadeem,Shahid Wasif,,0,0,0,,,,372123721
+1,Hong Kong,6,Shahid Wasif,Zeeshan Maqsood,Waqas Khan,,0,2,2,run out,Shahid Wasif,Zeeshan Maqsood,372123721
+1,Hong Kong,6,Waqas Khan,Zeeshan Maqsood,Ehsan Khan,,0,0,0,,,,372123721
+1,Hong Kong,6,Waqas Khan,Zeeshan Maqsood,Ehsan Khan,,0,1,1,,,,372123721
+1,Hong Kong,6,Ehsan Khan,Zeeshan Maqsood,Waqas Khan,,0,0,0,,,,372123721
+1,Hong Kong,6,Ehsan Khan,Zeeshan Maqsood,Waqas Khan,,0,0,0,,,,372123721
+1,Hong Kong,6,Ehsan Khan,Zeeshan Maqsood,Waqas Khan,,0,0,0,,,,372123721
+1,Hong Kong,7,Waqas Khan,Khawar Ali,Ehsan Khan,,0,1,1,,,,372123721
+1,Hong Kong,7,Ehsan Khan,Khawar Ali,Waqas Khan,,0,1,1,,,,372123721
+1,Hong Kong,7,Waqas Khan,Khawar Ali,Ehsan Khan,,0,1,1,,,,372123721
+1,Hong Kong,7,Ehsan Khan,Khawar Ali,Waqas Khan,,0,0,0,,,,372123721
+1,Hong Kong,7,Ehsan Khan,Khawar Ali,Waqas Khan,,0,1,1,,,,372123721
+1,Hong Kong,7,Waqas Khan,Khawar Ali,Ehsan Khan,,0,1,1,,,,372123721
+1,Hong Kong,8,Waqas Khan,Zeeshan Maqsood,Ehsan Khan,,0,0,0,,,,372123721
+1,Hong Kong,8,Waqas Khan,Zeeshan Maqsood,Ehsan Khan,,0,0,0,,,,372123721
+1,Hong Kong,8,Waqas Khan,Zeeshan Maqsood,Ehsan Khan,,0,0,0,lbw,Waqas Khan,,372123721
+1,Hong Kong,8,C Carter,Zeeshan Maqsood,Ehsan Khan,,0,0,0,,,,372123721
+1,Hong Kong,8,C Carter,Zeeshan Maqsood,Ehsan Khan,,0,0,0,,,,372123721
+1,Hong Kong,8,C Carter,Zeeshan Maqsood,Ehsan Khan,,0,1,1,,,,372123721
+1,Hong Kong,9,C Carter,Khawar Ali,Ehsan Khan,,0,1,1,,,,372123721
+1,Hong Kong,9,Ehsan Khan,Khawar Ali,C Carter,,0,0,0,,,,372123721
+1,Hong Kong,9,Ehsan Khan,Khawar Ali,C Carter,,0,0,0,,,,372123721
+1,Hong Kong,9,Ehsan Khan,Khawar Ali,C Carter,,0,0,0,,,,372123721
+1,Hong Kong,9,Ehsan Khan,Khawar Ali,C Carter,,0,1,1,,,,372123721
+1,Hong Kong,9,C Carter,Khawar Ali,Ehsan Khan,,0,0,0,,,,372123721
+1,Hong Kong,10,Ehsan Khan,Zeeshan Maqsood,C Carter,,0,0,0,,,,372123721
+1,Hong Kong,10,Ehsan Khan,Zeeshan Maqsood,C Carter,,0,0,0,,,,372123721
+1,Hong Kong,10,Ehsan Khan,Zeeshan Maqsood,C Carter,,0,0,0,,,,372123721
+1,Hong Kong,10,Ehsan Khan,Zeeshan Maqsood,C Carter,,0,4,4,,,,372123721
+1,Hong Kong,10,Ehsan Khan,Zeeshan Maqsood,C Carter,,0,2,2,,,,372123721
+1,Hong Kong,10,Ehsan Khan,Zeeshan Maqsood,C Carter,,0,1,1,,,,372123721
+1,Hong Kong,11,Ehsan Khan,Kaleemullah,C Carter,,0,0,0,,,,372123721
+1,Hong Kong,11,Ehsan Khan,Kaleemullah,C Carter,,0,0,0,lbw,Ehsan Khan,,372123721
+1,Hong Kong,11,Ehsan Nawaz,Kaleemullah,C Carter,,0,0,0,,,,372123721
+1,Hong Kong,11,Ehsan Nawaz,Kaleemullah,C Carter,,0,0,0,caught,Ehsan Nawaz,Sultan Ahmed,372123721
+1,Hong Kong,11,Nadeem Ahmed,Kaleemullah,C Carter,,0,0,0,,,,372123721
+1,Hong Kong,11,Nadeem Ahmed,Kaleemullah,C Carter,,0,0,0,,,,372123721
+1,Hong Kong,12,C Carter,Zeeshan Maqsood,Nadeem Ahmed,,0,1,1,,,,372123721
+1,Hong Kong,12,Nadeem Ahmed,Zeeshan Maqsood,C Carter,,0,0,0,,,,372123721
+1,Hong Kong,12,Nadeem Ahmed,Zeeshan Maqsood,C Carter,,0,0,0,,,,372123721
+1,Hong Kong,12,Nadeem Ahmed,Zeeshan Maqsood,C Carter,,0,0,0,,,,372123721
+1,Hong Kong,12,Nadeem Ahmed,Zeeshan Maqsood,C Carter,,0,2,2,,,,372123721
+1,Hong Kong,12,Nadeem Ahmed,Zeeshan Maqsood,C Carter,,0,0,0,,,,372123721
+1,Hong Kong,13,C Carter,Kaleemullah,Nadeem Ahmed,,0,1,1,,,,372123721
+1,Hong Kong,13,Nadeem Ahmed,Kaleemullah,C Carter,,0,1,1,,,,372123721
+1,Hong Kong,13,C Carter,Kaleemullah,Nadeem Ahmed,,0,1,1,,,,372123721
+1,Hong Kong,13,Nadeem Ahmed,Kaleemullah,C Carter,,0,1,1,,,,372123721
+1,Hong Kong,13,C Carter,Kaleemullah,Nadeem Ahmed,,0,0,0,,,,372123721
+1,Hong Kong,13,C Carter,Kaleemullah,Nadeem Ahmed,,0,2,2,,,,372123721
+1,Hong Kong,14,Nadeem Ahmed,Mohammad Nadeem,C Carter,,0,0,0,,,,372123721
+1,Hong Kong,14,Nadeem Ahmed,Mohammad Nadeem,C Carter,,0,1,1,,,,372123721
+1,Hong Kong,14,C Carter,Mohammad Nadeem,Nadeem Ahmed,,0,1,1,,,,372123721
+1,Hong Kong,14,Nadeem Ahmed,Mohammad Nadeem,C Carter,,0,0,0,,,,372123721
+1,Hong Kong,14,Nadeem Ahmed,Mohammad Nadeem,C Carter,,0,1,1,,,,372123721
+1,Hong Kong,14,C Carter,Mohammad Nadeem,Nadeem Ahmed,,0,1,1,,,,372123721
+1,Hong Kong,15,C Carter,Khawar Ali,Nadeem Ahmed,,0,1,1,,,,372123721
+1,Hong Kong,15,Nadeem Ahmed,Khawar Ali,C Carter,,0,0,0,,,,372123721
+1,Hong Kong,15,Nadeem Ahmed,Khawar Ali,C Carter,,0,1,1,,,,372123721
+1,Hong Kong,15,C Carter,Khawar Ali,Nadeem Ahmed,,0,1,1,,,,372123721
+1,Hong Kong,15,Nadeem Ahmed,Khawar Ali,C Carter,,0,0,0,bowled,Nadeem Ahmed,,372123721
+1,Hong Kong,15,Tanveer Ahmed,Khawar Ali,C Carter,,0,0,0,,,,372123721
+1,Hong Kong,16,C Carter,Bilal Khan,Tanveer Ahmed,,0,1,1,,,,372123721
+1,Hong Kong,16,Tanveer Ahmed,Bilal Khan,C Carter,,0,0,0,,,,372123721
+1,Hong Kong,16,Tanveer Ahmed,Bilal Khan,C Carter,,0,0,0,,,,372123721
+1,Hong Kong,16,Tanveer Ahmed,Bilal Khan,C Carter,,0,0,0,,,,372123721
+1,Hong Kong,16,Tanveer Ahmed,Bilal Khan,C Carter,wides,1,1,0,,,,372123721
+1,Hong Kong,16,Tanveer Ahmed,Bilal Khan,C Carter,legbyes,1,1,0,,,,372123721
+1,Hong Kong,16,C Carter,Bilal Khan,Tanveer Ahmed,,0,1,1,,,,372123721
+1,Hong Kong,17,C Carter,Mohammad Nadeem,Tanveer Ahmed,,0,1,1,,,,372123721
+1,Hong Kong,17,Tanveer Ahmed,Mohammad Nadeem,C Carter,,0,2,2,,,,372123721
+1,Hong Kong,17,Tanveer Ahmed,Mohammad Nadeem,C Carter,,0,1,1,,,,372123721
+1,Hong Kong,17,C Carter,Mohammad Nadeem,Tanveer Ahmed,,0,1,1,,,,372123721
+1,Hong Kong,17,Tanveer Ahmed,Mohammad Nadeem,C Carter,,0,4,4,,,,372123721
+1,Hong Kong,17,Tanveer Ahmed,Mohammad Nadeem,C Carter,,0,0,0,,,,372123721
+1,Hong Kong,18,C Carter,Khawar Ali,Tanveer Ahmed,,0,0,0,,,,372123721
+1,Hong Kong,18,C Carter,Khawar Ali,Tanveer Ahmed,,0,2,2,,,,372123721
+1,Hong Kong,18,C Carter,Khawar Ali,Tanveer Ahmed,,0,0,0,caught,C Carter,A Poulose,372123721

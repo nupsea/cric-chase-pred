@@ -1,0 +1,127 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Malaysia,0,Yusrina Yaakop,S Khadka,WA Duraisingam,,0,4,4,,,,31003231003
+2,Malaysia,0,Yusrina Yaakop,S Khadka,WA Duraisingam,,0,0,0,,,,31003231003
+2,Malaysia,0,Yusrina Yaakop,S Khadka,WA Duraisingam,,0,0,0,,,,31003231003
+2,Malaysia,0,Yusrina Yaakop,S Khadka,WA Duraisingam,,0,0,0,,,,31003231003
+2,Malaysia,0,Yusrina Yaakop,S Khadka,WA Duraisingam,,0,1,1,,,,31003231003
+2,Malaysia,0,WA Duraisingam,S Khadka,Yusrina Yaakop,,0,0,0,,,,31003231003
+2,Malaysia,1,Yusrina Yaakop,K Kunwar,WA Duraisingam,,0,0,0,bowled,Yusrina Yaakop,,31003231003
+2,Malaysia,1,Siow Tzin Yee,K Kunwar,WA Duraisingam,noballs,1,1,0,,,,31003231003
+2,Malaysia,1,Siow Tzin Yee,K Kunwar,WA Duraisingam,,0,0,0,,,,31003231003
+2,Malaysia,1,Siow Tzin Yee,K Kunwar,WA Duraisingam,,0,0,0,,,,31003231003
+2,Malaysia,1,Siow Tzin Yee,K Kunwar,WA Duraisingam,,0,0,0,,,,31003231003
+2,Malaysia,1,Siow Tzin Yee,K Kunwar,WA Duraisingam,legbyes,1,1,0,,,,31003231003
+2,Malaysia,1,WA Duraisingam,K Kunwar,Siow Tzin Yee,,0,1,1,,,,31003231003
+2,Malaysia,2,WA Duraisingam,RC Belbashi,Siow Tzin Yee,,0,0,0,,,,31003231003
+2,Malaysia,2,WA Duraisingam,RC Belbashi,Siow Tzin Yee,legbyes,1,1,0,,,,31003231003
+2,Malaysia,2,Siow Tzin Yee,RC Belbashi,WA Duraisingam,,0,0,0,,,,31003231003
+2,Malaysia,2,Siow Tzin Yee,RC Belbashi,WA Duraisingam,legbyes,1,1,0,,,,31003231003
+2,Malaysia,2,WA Duraisingam,RC Belbashi,Siow Tzin Yee,,0,0,0,run out,Siow Tzin Yee,,31003231003
+2,Malaysia,2,Christina Baret,RC Belbashi,WA Duraisingam,,0,0,0,,,,31003231003
+2,Malaysia,3,WA Duraisingam,S Khadka,Christina Baret,,0,0,0,,,,31003231003
+2,Malaysia,3,WA Duraisingam,S Khadka,Christina Baret,,0,0,0,,,,31003231003
+2,Malaysia,3,WA Duraisingam,S Khadka,Christina Baret,legbyes,1,1,0,,,,31003231003
+2,Malaysia,3,Christina Baret,S Khadka,WA Duraisingam,,0,2,2,,,,31003231003
+2,Malaysia,3,Christina Baret,S Khadka,WA Duraisingam,,0,0,0,,,,31003231003
+2,Malaysia,3,Christina Baret,S Khadka,WA Duraisingam,,0,0,0,,,,31003231003
+2,Malaysia,4,WA Duraisingam,RC Belbashi,Christina Baret,,0,1,1,,,,31003231003
+2,Malaysia,4,Christina Baret,RC Belbashi,WA Duraisingam,wides,2,2,0,,,,31003231003
+2,Malaysia,4,WA Duraisingam,RC Belbashi,Christina Baret,,0,2,2,,,,31003231003
+2,Malaysia,4,WA Duraisingam,RC Belbashi,Christina Baret,,0,1,1,,,,31003231003
+2,Malaysia,4,Christina Baret,RC Belbashi,WA Duraisingam,,0,0,0,,,,31003231003
+2,Malaysia,4,Christina Baret,RC Belbashi,WA Duraisingam,,0,1,1,,,,31003231003
+2,Malaysia,4,WA Duraisingam,RC Belbashi,Christina Baret,,0,0,0,,,,31003231003
+2,Malaysia,5,Christina Baret,K Kunwar,WA Duraisingam,wides,1,1,0,,,,31003231003
+2,Malaysia,5,Christina Baret,K Kunwar,WA Duraisingam,,0,0,0,,,,31003231003
+2,Malaysia,5,Christina Baret,K Kunwar,WA Duraisingam,,0,0,0,,,,31003231003
+2,Malaysia,5,Christina Baret,K Kunwar,WA Duraisingam,,0,2,2,,,,31003231003
+2,Malaysia,5,Christina Baret,K Kunwar,WA Duraisingam,,0,1,1,,,,31003231003
+2,Malaysia,5,WA Duraisingam,K Kunwar,Christina Baret,,0,0,0,,,,31003231003
+2,Malaysia,5,WA Duraisingam,K Kunwar,Christina Baret,,0,0,0,,,,31003231003
+2,Malaysia,6,Christina Baret,Karuna Bhandari,WA Duraisingam,noballs,2,2,0,,,,31003231003
+2,Malaysia,6,WA Duraisingam,Karuna Bhandari,Christina Baret,,0,1,1,,,,31003231003
+2,Malaysia,6,Christina Baret,Karuna Bhandari,WA Duraisingam,,0,2,2,,,,31003231003
+2,Malaysia,6,Christina Baret,Karuna Bhandari,WA Duraisingam,,0,2,2,,,,31003231003
+2,Malaysia,6,Christina Baret,Karuna Bhandari,WA Duraisingam,,0,1,1,,,,31003231003
+2,Malaysia,6,WA Duraisingam,Karuna Bhandari,Christina Baret,,0,0,0,,,,31003231003
+2,Malaysia,6,WA Duraisingam,Karuna Bhandari,Christina Baret,,0,1,1,,,,31003231003
+2,Malaysia,7,WA Duraisingam,Nary Thapa,Christina Baret,,0,2,2,,,,31003231003
+2,Malaysia,7,WA Duraisingam,Nary Thapa,Christina Baret,,0,3,3,,,,31003231003
+2,Malaysia,7,Christina Baret,Nary Thapa,WA Duraisingam,,0,0,0,,,,31003231003
+2,Malaysia,7,Christina Baret,Nary Thapa,WA Duraisingam,,0,1,1,,,,31003231003
+2,Malaysia,7,WA Duraisingam,Nary Thapa,Christina Baret,,0,0,0,,,,31003231003
+2,Malaysia,7,WA Duraisingam,Nary Thapa,Christina Baret,,0,1,1,,,,31003231003
+2,Malaysia,8,WA Duraisingam,Karuna Bhandari,Christina Baret,,0,1,1,,,,31003231003
+2,Malaysia,8,Christina Baret,Karuna Bhandari,WA Duraisingam,,0,0,0,,,,31003231003
+2,Malaysia,8,Christina Baret,Karuna Bhandari,WA Duraisingam,,0,1,1,,,,31003231003
+2,Malaysia,8,WA Duraisingam,Karuna Bhandari,Christina Baret,legbyes,1,1,0,,,,31003231003
+2,Malaysia,8,Christina Baret,Karuna Bhandari,WA Duraisingam,,0,1,1,,,,31003231003
+2,Malaysia,8,WA Duraisingam,Karuna Bhandari,Christina Baret,,0,0,0,,,,31003231003
+2,Malaysia,9,Christina Baret,Nary Thapa,WA Duraisingam,,0,4,4,,,,31003231003
+2,Malaysia,9,Christina Baret,Nary Thapa,WA Duraisingam,,0,1,1,,,,31003231003
+2,Malaysia,9,WA Duraisingam,Nary Thapa,Christina Baret,,0,1,1,,,,31003231003
+2,Malaysia,9,Christina Baret,Nary Thapa,WA Duraisingam,,0,0,0,,,,31003231003
+2,Malaysia,9,Christina Baret,Nary Thapa,WA Duraisingam,,0,0,0,,,,31003231003
+2,Malaysia,9,Christina Baret,Nary Thapa,WA Duraisingam,,0,2,2,,,,31003231003
+2,Malaysia,10,WA Duraisingam,Karuna Bhandari,Christina Baret,,0,1,1,,,,31003231003
+2,Malaysia,10,Christina Baret,Karuna Bhandari,WA Duraisingam,,0,0,0,,,,31003231003
+2,Malaysia,10,Christina Baret,Karuna Bhandari,WA Duraisingam,,0,0,0,,,,31003231003
+2,Malaysia,10,Christina Baret,Karuna Bhandari,WA Duraisingam,,0,0,0,,,,31003231003
+2,Malaysia,10,Christina Baret,Karuna Bhandari,WA Duraisingam,,0,0,0,,,,31003231003
+2,Malaysia,10,Christina Baret,Karuna Bhandari,WA Duraisingam,,0,0,0,caught and bowled,Christina Baret,,31003231003
+2,Malaysia,11,WA Duraisingam,SR Magar,Mas Elysa,,0,1,1,,,,31003231003
+2,Malaysia,11,Mas Elysa,SR Magar,WA Duraisingam,,0,0,0,,,,31003231003
+2,Malaysia,11,Mas Elysa,SR Magar,WA Duraisingam,,0,1,1,,,,31003231003
+2,Malaysia,11,WA Duraisingam,SR Magar,Mas Elysa,,0,0,0,,,,31003231003
+2,Malaysia,11,WA Duraisingam,SR Magar,Mas Elysa,,0,1,1,,,,31003231003
+2,Malaysia,11,Mas Elysa,SR Magar,WA Duraisingam,,0,0,0,,,,31003231003
+2,Malaysia,12,WA Duraisingam,Karuna Bhandari,Mas Elysa,,0,0,0,bowled,WA Duraisingam,,31003231003
+2,Malaysia,12,Wan Julia,Karuna Bhandari,Mas Elysa,,0,1,1,,,,31003231003
+2,Malaysia,12,Mas Elysa,Karuna Bhandari,Wan Julia,,0,1,1,,,,31003231003
+2,Malaysia,12,Wan Julia,Karuna Bhandari,Mas Elysa,,0,0,0,,,,31003231003
+2,Malaysia,12,Wan Julia,Karuna Bhandari,Mas Elysa,,0,0,0,,,,31003231003
+2,Malaysia,12,Wan Julia,Karuna Bhandari,Mas Elysa,,0,0,0,,,,31003231003
+2,Malaysia,13,Mas Elysa,SR Magar,Wan Julia,,0,0,0,,,,31003231003
+2,Malaysia,13,Mas Elysa,SR Magar,Wan Julia,,0,2,2,,,,31003231003
+2,Malaysia,13,Mas Elysa,SR Magar,Wan Julia,,0,1,1,,,,31003231003
+2,Malaysia,13,Wan Julia,SR Magar,Mas Elysa,,0,1,1,,,,31003231003
+2,Malaysia,13,Mas Elysa,SR Magar,Wan Julia,,0,1,1,,,,31003231003
+2,Malaysia,13,Wan Julia,SR Magar,Mas Elysa,,0,1,1,,,,31003231003
+2,Malaysia,14,Wan Julia,S Magar,Mas Elysa,,0,1,1,,,,31003231003
+2,Malaysia,14,Mas Elysa,S Magar,Wan Julia,,0,0,0,stumped,Mas Elysa,K Shrestha,31003231003
+2,Malaysia,14,Sasha Azmi,S Magar,Wan Julia,,0,0,0,,,,31003231003
+2,Malaysia,14,Sasha Azmi,S Magar,Wan Julia,,0,0,0,,,,31003231003
+2,Malaysia,14,Sasha Azmi,S Magar,Wan Julia,,0,1,1,,,,31003231003
+2,Malaysia,14,Wan Julia,S Magar,Sasha Azmi,,0,2,2,,,,31003231003
+2,Malaysia,15,Sasha Azmi,SR Magar,Wan Julia,,0,1,1,,,,31003231003
+2,Malaysia,15,Wan Julia,SR Magar,Sasha Azmi,,0,1,1,,,,31003231003
+2,Malaysia,15,Sasha Azmi,SR Magar,Wan Julia,,0,0,0,,,,31003231003
+2,Malaysia,15,Sasha Azmi,SR Magar,Wan Julia,,0,1,1,,,,31003231003
+2,Malaysia,15,Wan Julia,SR Magar,Sasha Azmi,,0,0,0,,,,31003231003
+2,Malaysia,15,Wan Julia,SR Magar,Sasha Azmi,wides,1,1,0,,,,31003231003
+2,Malaysia,15,Wan Julia,SR Magar,Sasha Azmi,,0,0,0,,,,31003231003
+2,Malaysia,16,Sasha Azmi,S Magar,Wan Julia,,0,1,1,,,,31003231003
+2,Malaysia,16,Wan Julia,S Magar,Sasha Azmi,,0,1,1,,,,31003231003
+2,Malaysia,16,Sasha Azmi,S Magar,Wan Julia,,0,0,0,,,,31003231003
+2,Malaysia,16,Sasha Azmi,S Magar,Wan Julia,,0,2,2,,,,31003231003
+2,Malaysia,16,Sasha Azmi,S Magar,Wan Julia,,0,0,0,,,,31003231003
+2,Malaysia,16,Sasha Azmi,S Magar,Wan Julia,,0,0,0,,,,31003231003
+2,Malaysia,17,Wan Julia,SR Magar,Sasha Azmi,,0,0,0,caught,Wan Julia,K Kunwar,31003231003
+2,Malaysia,17,Sasha Azmi,SR Magar,Zumika Azmi,,0,1,1,,,,31003231003
+2,Malaysia,17,Zumika Azmi,SR Magar,Sasha Azmi,,0,1,1,,,,31003231003
+2,Malaysia,17,Sasha Azmi,SR Magar,Zumika Azmi,,0,0,0,,,,31003231003
+2,Malaysia,17,Sasha Azmi,SR Magar,Zumika Azmi,,0,1,1,,,,31003231003
+2,Malaysia,17,Zumika Azmi,SR Magar,Sasha Azmi,,0,1,1,,,,31003231003
+2,Malaysia,18,Zumika Azmi,S Magar,Sasha Azmi,,0,1,1,,,,31003231003
+2,Malaysia,18,Sasha Azmi,S Magar,Zumika Azmi,,0,1,1,,,,31003231003
+2,Malaysia,18,Zumika Azmi,S Magar,Sasha Azmi,,0,0,0,,,,31003231003
+2,Malaysia,18,Zumika Azmi,S Magar,Sasha Azmi,,0,0,0,bowled,Zumika Azmi,,31003231003
+2,Malaysia,18,J Intan,S Magar,Sasha Azmi,,0,1,1,,,,31003231003
+2,Malaysia,18,Sasha Azmi,S Magar,J Intan,,0,1,1,,,,31003231003
+2,Malaysia,19,Sasha Azmi,Nary Thapa,J Intan,,0,1,1,,,,31003231003
+2,Malaysia,19,J Intan,Nary Thapa,Sasha Azmi,wides,2,2,0,,,,31003231003
+2,Malaysia,19,Sasha Azmi,Nary Thapa,J Intan,,0,0,0,,,,31003231003
+2,Malaysia,19,Sasha Azmi,Nary Thapa,J Intan,,0,0,0,,,,31003231003
+2,Malaysia,19,Sasha Azmi,Nary Thapa,J Intan,,0,2,2,,,,31003231003
+2,Malaysia,19,Sasha Azmi,Nary Thapa,J Intan,,0,2,2,,,,31003231003
+2,Malaysia,19,Sasha Azmi,Nary Thapa,J Intan,,0,1,1,,,,31003231003

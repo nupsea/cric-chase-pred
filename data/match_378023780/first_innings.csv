@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,L Lee,P Vastrakar,D van Niekerk,,0,0,0,,,,378023780
+1,South Africa,0,L Lee,P Vastrakar,D van Niekerk,,0,0,0,,,,378023780
+1,South Africa,0,L Lee,P Vastrakar,D van Niekerk,,0,1,1,,,,378023780
+1,South Africa,0,D van Niekerk,P Vastrakar,L Lee,,0,1,1,,,,378023780
+1,South Africa,0,L Lee,P Vastrakar,D van Niekerk,,0,0,0,,,,378023780
+1,South Africa,0,L Lee,P Vastrakar,D van Niekerk,,0,1,1,,,,378023780
+1,South Africa,1,L Lee,S Pandey,D van Niekerk,,0,0,0,,,,378023780
+1,South Africa,1,L Lee,S Pandey,D van Niekerk,,0,4,4,,,,378023780
+1,South Africa,1,L Lee,S Pandey,D van Niekerk,,0,6,6,,,,378023780
+1,South Africa,1,L Lee,S Pandey,D van Niekerk,,0,0,0,,,,378023780
+1,South Africa,1,L Lee,S Pandey,D van Niekerk,,0,1,1,,,,378023780
+1,South Africa,1,D van Niekerk,S Pandey,L Lee,,0,0,0,,,,378023780
+1,South Africa,2,L Lee,P Vastrakar,D van Niekerk,,0,4,4,,,,378023780
+1,South Africa,2,L Lee,P Vastrakar,D van Niekerk,,0,0,0,,,,378023780
+1,South Africa,2,L Lee,P Vastrakar,D van Niekerk,,0,1,1,,,,378023780
+1,South Africa,2,D van Niekerk,P Vastrakar,L Lee,,0,0,0,,,,378023780
+1,South Africa,2,D van Niekerk,P Vastrakar,L Lee,,0,4,4,,,,378023780
+1,South Africa,2,D van Niekerk,P Vastrakar,L Lee,,0,1,1,,,,378023780
+1,South Africa,3,D van Niekerk,AA Patil,L Lee,,0,0,0,,,,378023780
+1,South Africa,3,D van Niekerk,AA Patil,L Lee,,0,1,1,,,,378023780
+1,South Africa,3,L Lee,AA Patil,D van Niekerk,,0,0,0,,,,378023780
+1,South Africa,3,L Lee,AA Patil,D van Niekerk,,0,0,0,,,,378023780
+1,South Africa,3,L Lee,AA Patil,D van Niekerk,,0,1,1,,,,378023780
+1,South Africa,3,D van Niekerk,AA Patil,L Lee,,0,0,0,,,,378023780
+1,South Africa,4,L Lee,S Pandey,D van Niekerk,,0,0,0,,,,378023780
+1,South Africa,4,L Lee,S Pandey,D van Niekerk,,0,0,0,caught,L Lee,H Kaur,378023780
+1,South Africa,4,S Luus,S Pandey,D van Niekerk,,0,0,0,,,,378023780
+1,South Africa,4,S Luus,S Pandey,D van Niekerk,,0,4,4,,,,378023780
+1,South Africa,4,S Luus,S Pandey,D van Niekerk,,0,0,0,,,,378023780
+1,South Africa,4,S Luus,S Pandey,D van Niekerk,,0,0,0,,,,378023780
+1,South Africa,5,D van Niekerk,P Vastrakar,S Luus,,0,4,4,,,,378023780
+1,South Africa,5,D van Niekerk,P Vastrakar,S Luus,,0,0,0,,,,378023780
+1,South Africa,5,D van Niekerk,P Vastrakar,S Luus,wides,1,1,0,,,,378023780
+1,South Africa,5,D van Niekerk,P Vastrakar,S Luus,,0,0,0,,,,378023780
+1,South Africa,5,D van Niekerk,P Vastrakar,S Luus,,0,1,1,,,,378023780
+1,South Africa,5,S Luus,P Vastrakar,D van Niekerk,,0,0,0,,,,378023780
+1,South Africa,5,S Luus,P Vastrakar,D van Niekerk,,0,1,1,,,,378023780
+1,South Africa,6,S Luus,RP Yadav,D van Niekerk,,0,1,1,,,,378023780
+1,South Africa,6,D van Niekerk,RP Yadav,S Luus,noballs,1,2,1,,,,378023780
+1,South Africa,6,S Luus,RP Yadav,D van Niekerk,,0,1,1,,,,378023780
+1,South Africa,6,D van Niekerk,RP Yadav,S Luus,,0,0,0,,,,378023780
+1,South Africa,6,D van Niekerk,RP Yadav,S Luus,,0,6,6,,,,378023780
+1,South Africa,6,D van Niekerk,RP Yadav,S Luus,,0,1,1,,,,378023780
+1,South Africa,6,S Luus,RP Yadav,D van Niekerk,,0,0,0,,,,378023780
+1,South Africa,7,D van Niekerk,P Vastrakar,S Luus,,0,1,1,,,,378023780
+1,South Africa,7,S Luus,P Vastrakar,D van Niekerk,,0,1,1,,,,378023780
+1,South Africa,7,D van Niekerk,P Vastrakar,S Luus,,0,1,1,,,,378023780
+1,South Africa,7,S Luus,P Vastrakar,D van Niekerk,wides,1,1,0,,,,378023780
+1,South Africa,7,S Luus,P Vastrakar,D van Niekerk,,0,6,6,,,,378023780
+1,South Africa,7,S Luus,P Vastrakar,D van Niekerk,,0,4,4,,,,378023780
+1,South Africa,7,S Luus,P Vastrakar,D van Niekerk,,0,0,0,caught,S Luus,S Pandey,378023780
+1,South Africa,8,M du Preez,Poonam Yadav,D van Niekerk,,0,0,0,,,,378023780
+1,South Africa,8,M du Preez,Poonam Yadav,D van Niekerk,,0,4,4,,,,378023780
+1,South Africa,8,M du Preez,Poonam Yadav,D van Niekerk,,0,1,1,,,,378023780
+1,South Africa,8,D van Niekerk,Poonam Yadav,M du Preez,,0,4,4,,,,378023780
+1,South Africa,8,D van Niekerk,Poonam Yadav,M du Preez,,0,4,4,,,,378023780
+1,South Africa,8,D van Niekerk,Poonam Yadav,M du Preez,,0,1,1,,,,378023780
+1,South Africa,9,D van Niekerk,AA Patil,M du Preez,,0,4,4,,,,378023780
+1,South Africa,9,D van Niekerk,AA Patil,M du Preez,,0,0,0,,,,378023780
+1,South Africa,9,D van Niekerk,AA Patil,M du Preez,,0,1,1,,,,378023780
+1,South Africa,9,M du Preez,AA Patil,D van Niekerk,,0,1,1,,,,378023780
+1,South Africa,9,D van Niekerk,AA Patil,M du Preez,,0,1,1,,,,378023780
+1,South Africa,9,M du Preez,AA Patil,D van Niekerk,,0,0,0,,,,378023780
+1,South Africa,10,D van Niekerk,RP Yadav,M du Preez,,0,0,0,,,,378023780
+1,South Africa,10,D van Niekerk,RP Yadav,M du Preez,,0,0,0,,,,378023780
+1,South Africa,10,D van Niekerk,RP Yadav,M du Preez,,0,0,0,,,,378023780
+1,South Africa,10,D van Niekerk,RP Yadav,M du Preez,,0,0,0,,,,378023780
+1,South Africa,10,D van Niekerk,RP Yadav,M du Preez,,0,1,1,,,,378023780
+1,South Africa,10,M du Preez,RP Yadav,D van Niekerk,,0,0,0,,,,378023780
+1,South Africa,11,D van Niekerk,AA Patil,M du Preez,,0,0,0,lbw,D van Niekerk,,378023780
+1,South Africa,11,N de Klerk,AA Patil,M du Preez,,0,0,0,,,,378023780
+1,South Africa,11,N de Klerk,AA Patil,M du Preez,,0,0,0,,,,378023780
+1,South Africa,11,N de Klerk,AA Patil,M du Preez,,0,0,0,,,,378023780
+1,South Africa,11,N de Klerk,AA Patil,M du Preez,,0,1,1,,,,378023780
+1,South Africa,11,M du Preez,AA Patil,N de Klerk,,0,1,1,,,,378023780
+1,South Africa,12,M du Preez,RP Yadav,N de Klerk,,0,0,0,,,,378023780
+1,South Africa,12,M du Preez,RP Yadav,N de Klerk,,0,0,0,,,,378023780
+1,South Africa,12,M du Preez,RP Yadav,N de Klerk,,0,0,0,,,,378023780
+1,South Africa,12,M du Preez,RP Yadav,N de Klerk,,0,4,4,,,,378023780
+1,South Africa,12,M du Preez,RP Yadav,N de Klerk,,0,4,4,,,,378023780
+1,South Africa,12,M du Preez,RP Yadav,N de Klerk,,0,1,1,,,,378023780
+1,South Africa,13,M du Preez,Poonam Yadav,N de Klerk,,0,1,1,,,,378023780
+1,South Africa,13,N de Klerk,Poonam Yadav,M du Preez,,0,0,0,,,,378023780
+1,South Africa,13,N de Klerk,Poonam Yadav,M du Preez,,0,1,1,,,,378023780
+1,South Africa,13,M du Preez,Poonam Yadav,N de Klerk,,0,0,0,,,,378023780
+1,South Africa,13,M du Preez,Poonam Yadav,N de Klerk,,0,1,1,,,,378023780
+1,South Africa,13,N de Klerk,Poonam Yadav,M du Preez,,0,1,1,,,,378023780
+1,South Africa,14,N de Klerk,H Kaur,M du Preez,,0,1,1,,,,378023780
+1,South Africa,14,M du Preez,H Kaur,N de Klerk,,0,1,1,,,,378023780
+1,South Africa,14,N de Klerk,H Kaur,M du Preez,,0,1,1,,,,378023780
+1,South Africa,14,M du Preez,H Kaur,N de Klerk,,0,1,1,,,,378023780
+1,South Africa,14,N de Klerk,H Kaur,M du Preez,,0,1,1,,,,378023780
+1,South Africa,14,M du Preez,H Kaur,N de Klerk,,0,0,0,,,,378023780
+1,South Africa,15,N de Klerk,Poonam Yadav,M du Preez,,0,1,1,,,,378023780
+1,South Africa,15,M du Preez,Poonam Yadav,N de Klerk,,0,1,1,,,,378023780
+1,South Africa,15,N de Klerk,Poonam Yadav,M du Preez,,0,6,6,,,,378023780
+1,South Africa,15,N de Klerk,Poonam Yadav,M du Preez,,0,0,0,,,,378023780
+1,South Africa,15,N de Klerk,Poonam Yadav,M du Preez,,0,1,1,,,,378023780
+1,South Africa,15,M du Preez,Poonam Yadav,N de Klerk,,0,4,4,,,,378023780
+1,South Africa,16,N de Klerk,H Kaur,M du Preez,,0,0,0,,,,378023780
+1,South Africa,16,N de Klerk,H Kaur,M du Preez,,0,2,2,,,,378023780
+1,South Africa,16,N de Klerk,H Kaur,M du Preez,,0,1,1,,,,378023780
+1,South Africa,16,M du Preez,H Kaur,N de Klerk,,0,4,4,,,,378023780
+1,South Africa,16,M du Preez,H Kaur,N de Klerk,,0,1,1,,,,378023780
+1,South Africa,16,N de Klerk,H Kaur,M du Preez,,0,1,1,,,,378023780
+1,South Africa,17,N de Klerk,S Pandey,M du Preez,,0,0,0,,,,378023780
+1,South Africa,17,N de Klerk,S Pandey,M du Preez,,0,0,0,,,,378023780
+1,South Africa,17,N de Klerk,S Pandey,M du Preez,,0,1,1,,,,378023780
+1,South Africa,17,M du Preez,S Pandey,N de Klerk,,0,1,1,,,,378023780
+1,South Africa,17,N de Klerk,S Pandey,M du Preez,,0,1,1,,,,378023780
+1,South Africa,17,M du Preez,S Pandey,N de Klerk,,0,0,0,,,,378023780
+1,South Africa,18,N de Klerk,AA Patil,M du Preez,,0,1,1,,,,378023780
+1,South Africa,18,M du Preez,AA Patil,N de Klerk,,0,0,0,,,,378023780
+1,South Africa,18,M du Preez,AA Patil,N de Klerk,,0,0,0,caught,M du Preez,V Krishnamurthy,378023780
+1,South Africa,18,N de Klerk,AA Patil,CL Tryon,,0,1,1,,,,378023780
+1,South Africa,18,CL Tryon,AA Patil,N de Klerk,,0,4,4,,,,378023780
+1,South Africa,18,CL Tryon,AA Patil,N de Klerk,,0,6,6,,,,378023780
+1,South Africa,19,N de Klerk,S Pandey,CL Tryon,,0,1,1,,,,378023780
+1,South Africa,19,CL Tryon,S Pandey,N de Klerk,,0,6,6,,,,378023780
+1,South Africa,19,CL Tryon,S Pandey,N de Klerk,,0,4,4,,,,378023780
+1,South Africa,19,CL Tryon,S Pandey,N de Klerk,,0,0,0,,,,378023780
+1,South Africa,19,CL Tryon,S Pandey,N de Klerk,,0,6,6,,,,378023780
+1,South Africa,19,CL Tryon,S Pandey,N de Klerk,,0,6,6,,,,378023780

@@ -1,0 +1,93 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Bangladesh,0,Shamima Sultana,SC Selman,Ayasha Rahman,,0,1,1,,,,390523905
+2,Bangladesh,0,Ayasha Rahman,SC Selman,Shamima Sultana,,0,1,1,,,,390523905
+2,Bangladesh,0,Shamima Sultana,SC Selman,Ayasha Rahman,,0,0,0,,,,390523905
+2,Bangladesh,0,Shamima Sultana,SC Selman,Ayasha Rahman,,0,0,0,,,,390523905
+2,Bangladesh,0,Shamima Sultana,SC Selman,Ayasha Rahman,,0,4,4,,,,390523905
+2,Bangladesh,0,Shamima Sultana,SC Selman,Ayasha Rahman,,0,0,0,caught,Shamima Sultana,HK Matthews,390523905
+2,Bangladesh,1,Ayasha Rahman,SS Connell,Jahanara Alam,,0,0,0,,,,390523905
+2,Bangladesh,1,Ayasha Rahman,SS Connell,Jahanara Alam,,0,0,0,,,,390523905
+2,Bangladesh,1,Ayasha Rahman,SS Connell,Jahanara Alam,wides,1,1,0,,,,390523905
+2,Bangladesh,1,Ayasha Rahman,SS Connell,Jahanara Alam,,0,0,0,,,,390523905
+2,Bangladesh,1,Ayasha Rahman,SS Connell,Jahanara Alam,,0,1,1,,,,390523905
+2,Bangladesh,1,Jahanara Alam,SS Connell,Ayasha Rahman,,0,0,0,,,,390523905
+2,Bangladesh,1,Jahanara Alam,SS Connell,Ayasha Rahman,,0,1,1,,,,390523905
+2,Bangladesh,2,Jahanara Alam,SC Selman,Ayasha Rahman,,0,0,0,,,,390523905
+2,Bangladesh,2,Jahanara Alam,SC Selman,Ayasha Rahman,,0,0,0,,,,390523905
+2,Bangladesh,2,Jahanara Alam,SC Selman,Ayasha Rahman,,0,0,0,,,,390523905
+2,Bangladesh,2,Jahanara Alam,SC Selman,Ayasha Rahman,,0,0,0,,,,390523905
+2,Bangladesh,2,Jahanara Alam,SC Selman,Ayasha Rahman,,0,1,1,,,,390523905
+2,Bangladesh,2,Ayasha Rahman,SC Selman,Jahanara Alam,,0,0,0,,,,390523905
+2,Bangladesh,3,Jahanara Alam,SS Connell,Ayasha Rahman,,0,0,0,,,,390523905
+2,Bangladesh,3,Jahanara Alam,SS Connell,Ayasha Rahman,,0,0,0,,,,390523905
+2,Bangladesh,3,Jahanara Alam,SS Connell,Ayasha Rahman,,0,0,0,,,,390523905
+2,Bangladesh,3,Jahanara Alam,SS Connell,Ayasha Rahman,,0,0,0,,,,390523905
+2,Bangladesh,3,Jahanara Alam,SS Connell,Ayasha Rahman,,0,1,1,,,,390523905
+2,Bangladesh,3,Ayasha Rahman,SS Connell,Jahanara Alam,,0,0,0,,,,390523905
+2,Bangladesh,4,Jahanara Alam,SC Selman,Ayasha Rahman,,0,0,0,,,,390523905
+2,Bangladesh,4,Jahanara Alam,SC Selman,Ayasha Rahman,,0,0,0,,,,390523905
+2,Bangladesh,4,Jahanara Alam,SC Selman,Ayasha Rahman,,0,0,0,,,,390523905
+2,Bangladesh,4,Jahanara Alam,SC Selman,Ayasha Rahman,,0,0,0,,,,390523905
+2,Bangladesh,4,Jahanara Alam,SC Selman,Ayasha Rahman,,0,0,0,,,,390523905
+2,Bangladesh,4,Jahanara Alam,SC Selman,Ayasha Rahman,,0,0,0,caught,Jahanara Alam,SR Taylor,390523905
+2,Bangladesh,5,Fargana Hoque,SR Taylor,Ayasha Rahman,,0,1,1,,,,390523905
+2,Bangladesh,5,Ayasha Rahman,SR Taylor,Fargana Hoque,,0,0,0,,,,390523905
+2,Bangladesh,5,Ayasha Rahman,SR Taylor,Fargana Hoque,byes,2,2,0,,,,390523905
+2,Bangladesh,5,Ayasha Rahman,SR Taylor,Fargana Hoque,,0,0,0,,,,390523905
+2,Bangladesh,5,Ayasha Rahman,SR Taylor,Fargana Hoque,,0,4,4,,,,390523905
+2,Bangladesh,5,Ayasha Rahman,SR Taylor,Fargana Hoque,wides,1,1,0,,,,390523905
+2,Bangladesh,5,Ayasha Rahman,SR Taylor,Fargana Hoque,,0,0,0,bowled,Ayasha Rahman,,390523905
+2,Bangladesh,6,Fargana Hoque,SC Selman,Nigar Sultana,,0,4,4,,,,390523905
+2,Bangladesh,6,Fargana Hoque,SC Selman,Nigar Sultana,,0,0,0,,,,390523905
+2,Bangladesh,6,Fargana Hoque,SC Selman,Nigar Sultana,,0,0,0,,,,390523905
+2,Bangladesh,6,Fargana Hoque,SC Selman,Nigar Sultana,,0,1,1,,,,390523905
+2,Bangladesh,6,Nigar Sultana,SC Selman,Fargana Hoque,,0,0,0,,,,390523905
+2,Bangladesh,6,Nigar Sultana,SC Selman,Fargana Hoque,,0,0,0,,,,390523905
+2,Bangladesh,7,Fargana Hoque,SR Taylor,Nigar Sultana,,0,1,1,,,,390523905
+2,Bangladesh,7,Nigar Sultana,SR Taylor,Fargana Hoque,,0,0,0,,,,390523905
+2,Bangladesh,7,Nigar Sultana,SR Taylor,Fargana Hoque,,0,1,1,,,,390523905
+2,Bangladesh,7,Fargana Hoque,SR Taylor,Nigar Sultana,,0,1,1,,,,390523905
+2,Bangladesh,7,Nigar Sultana,SR Taylor,Fargana Hoque,,0,0,0,,,,390523905
+2,Bangladesh,7,Nigar Sultana,SR Taylor,Fargana Hoque,,0,1,1,,,,390523905
+2,Bangladesh,8,Nigar Sultana,DJS Dottin,Fargana Hoque,legbyes,1,1,0,,,,390523905
+2,Bangladesh,8,Fargana Hoque,DJS Dottin,Nigar Sultana,,0,0,0,caught and bowled,Fargana Hoque,,390523905
+2,Bangladesh,8,Nigar Sultana,DJS Dottin,Rumana Ahmed,,0,0,0,,,,390523905
+2,Bangladesh,8,Nigar Sultana,DJS Dottin,Rumana Ahmed,,0,0,0,bowled,Nigar Sultana,,390523905
+2,Bangladesh,8,Sanjida Islam,DJS Dottin,Rumana Ahmed,,0,0,0,,,,390523905
+2,Bangladesh,8,Sanjida Islam,DJS Dottin,Rumana Ahmed,,0,0,0,,,,390523905
+2,Bangladesh,9,Rumana Ahmed,ASS Fletcher,Sanjida Islam,,0,1,1,,,,390523905
+2,Bangladesh,9,Sanjida Islam,ASS Fletcher,Rumana Ahmed,,0,2,2,,,,390523905
+2,Bangladesh,9,Sanjida Islam,ASS Fletcher,Rumana Ahmed,,0,0,0,,,,390523905
+2,Bangladesh,9,Sanjida Islam,ASS Fletcher,Rumana Ahmed,,0,0,0,,,,390523905
+2,Bangladesh,9,Sanjida Islam,ASS Fletcher,Rumana Ahmed,,0,0,0,,,,390523905
+2,Bangladesh,9,Sanjida Islam,ASS Fletcher,Rumana Ahmed,,0,0,0,,,,390523905
+2,Bangladesh,10,Rumana Ahmed,DJS Dottin,Sanjida Islam,wides,1,1,0,,,,390523905
+2,Bangladesh,10,Rumana Ahmed,DJS Dottin,Sanjida Islam,,0,1,1,,,,390523905
+2,Bangladesh,10,Sanjida Islam,DJS Dottin,Rumana Ahmed,,0,0,0,,,,390523905
+2,Bangladesh,10,Sanjida Islam,DJS Dottin,Rumana Ahmed,,0,1,1,,,,390523905
+2,Bangladesh,10,Rumana Ahmed,DJS Dottin,Sanjida Islam,,0,0,0,bowled,Rumana Ahmed,,390523905
+2,Bangladesh,10,Lata Mondal,DJS Dottin,Sanjida Islam,,0,0,0,,,,390523905
+2,Bangladesh,10,Lata Mondal,DJS Dottin,Sanjida Islam,,0,0,0,bowled,Lata Mondal,,390523905
+2,Bangladesh,11,Sanjida Islam,ASS Fletcher,Fahima Khatun,,0,1,1,,,,390523905
+2,Bangladesh,11,Fahima Khatun,ASS Fletcher,Sanjida Islam,,0,1,1,,,,390523905
+2,Bangladesh,11,Sanjida Islam,ASS Fletcher,Fahima Khatun,,0,0,0,bowled,Sanjida Islam,,390523905
+2,Bangladesh,11,Salma Khatun,ASS Fletcher,Fahima Khatun,wides,1,1,0,,,,390523905
+2,Bangladesh,11,Salma Khatun,ASS Fletcher,Fahima Khatun,,0,1,1,,,,390523905
+2,Bangladesh,11,Fahima Khatun,ASS Fletcher,Salma Khatun,,0,1,1,,,,390523905
+2,Bangladesh,11,Salma Khatun,ASS Fletcher,Fahima Khatun,,0,1,1,,,,390523905
+2,Bangladesh,12,Salma Khatun,DJS Dottin,Fahima Khatun,,0,1,1,,,,390523905
+2,Bangladesh,12,Fahima Khatun,DJS Dottin,Salma Khatun,,0,0,0,,,,390523905
+2,Bangladesh,12,Fahima Khatun,DJS Dottin,Salma Khatun,,0,0,0,,,,390523905
+2,Bangladesh,12,Fahima Khatun,DJS Dottin,Salma Khatun,,0,0,0,,,,390523905
+2,Bangladesh,12,Fahima Khatun,DJS Dottin,Salma Khatun,,0,0,0,,,,390523905
+2,Bangladesh,12,Fahima Khatun,DJS Dottin,Salma Khatun,,0,0,0,,,,390523905
+2,Bangladesh,13,Salma Khatun,ASS Fletcher,Fahima Khatun,,0,0,0,,,,390523905
+2,Bangladesh,13,Salma Khatun,ASS Fletcher,Fahima Khatun,,0,0,0,,,,390523905
+2,Bangladesh,13,Salma Khatun,ASS Fletcher,Fahima Khatun,,0,0,0,,,,390523905
+2,Bangladesh,13,Salma Khatun,ASS Fletcher,Fahima Khatun,,0,1,1,,,,390523905
+2,Bangladesh,13,Fahima Khatun,ASS Fletcher,Salma Khatun,,0,1,1,,,,390523905
+2,Bangladesh,13,Salma Khatun,ASS Fletcher,Fahima Khatun,,0,1,1,,,,390523905
+2,Bangladesh,14,Salma Khatun,DJS Dottin,Fahima Khatun,,0,0,0,bowled,Salma Khatun,,390523905
+2,Bangladesh,14,Khadija Tul Kubra,DJS Dottin,Fahima Khatun,,0,0,0,,,,390523905
+2,Bangladesh,14,Khadija Tul Kubra,DJS Dottin,Fahima Khatun,,0,1,1,,,,390523905
+2,Bangladesh,14,Fahima Khatun,DJS Dottin,Khadija Tul Kubra,,0,0,0,run out,Khadija Tul Kubra,,390523905

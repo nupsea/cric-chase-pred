@@ -1,0 +1,113 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Australia,0,MS Wade,TG Southee,AJ Finch,,0,0,0,,,,31430231430
+2,Australia,0,MS Wade,TG Southee,AJ Finch,,0,1,1,,,,31430231430
+2,Australia,0,AJ Finch,TG Southee,MS Wade,,0,1,1,,,,31430231430
+2,Australia,0,MS Wade,TG Southee,AJ Finch,,0,1,1,,,,31430231430
+2,Australia,0,AJ Finch,TG Southee,MS Wade,,0,0,0,caught,AJ Finch,DP Conway,31430231430
+2,Australia,0,JR Philippe,TG Southee,MS Wade,,0,0,0,,,,31430231430
+2,Australia,1,MS Wade,TA Boult,JR Philippe,,0,0,0,,,,31430231430
+2,Australia,1,MS Wade,TA Boult,JR Philippe,,0,0,0,,,,31430231430
+2,Australia,1,MS Wade,TA Boult,JR Philippe,,0,3,3,,,,31430231430
+2,Australia,1,JR Philippe,TA Boult,MS Wade,,0,2,2,,,,31430231430
+2,Australia,1,JR Philippe,TA Boult,MS Wade,,0,0,0,caught,JR Philippe,DP Conway,31430231430
+2,Australia,1,MR Marsh,TA Boult,MS Wade,wides,1,1,0,,,,31430231430
+2,Australia,1,MR Marsh,TA Boult,MS Wade,,0,0,0,,,,31430231430
+2,Australia,2,MS Wade,TG Southee,MR Marsh,,0,0,0,,,,31430231430
+2,Australia,2,MS Wade,TG Southee,MR Marsh,,0,0,0,,,,31430231430
+2,Australia,2,MS Wade,TG Southee,MR Marsh,,0,0,0,,,,31430231430
+2,Australia,2,MS Wade,TG Southee,MR Marsh,,0,1,1,,,,31430231430
+2,Australia,2,MR Marsh,TG Southee,MS Wade,,0,0,0,,,,31430231430
+2,Australia,2,MR Marsh,TG Southee,MS Wade,,0,0,0,,,,31430231430
+2,Australia,3,MS Wade,TA Boult,MR Marsh,,0,6,6,,,,31430231430
+2,Australia,3,MS Wade,TA Boult,MR Marsh,,0,0,0,caught,MS Wade,KS Williamson,31430231430
+2,Australia,3,GJ Maxwell,TA Boult,MR Marsh,,0,0,0,,,,31430231430
+2,Australia,3,GJ Maxwell,TA Boult,MR Marsh,,0,0,0,,,,31430231430
+2,Australia,3,GJ Maxwell,TA Boult,MR Marsh,,0,1,1,,,,31430231430
+2,Australia,3,MR Marsh,TA Boult,GJ Maxwell,wides,1,1,0,,,,31430231430
+2,Australia,3,MR Marsh,TA Boult,GJ Maxwell,,0,0,0,,,,31430231430
+2,Australia,4,GJ Maxwell,TG Southee,MR Marsh,,0,0,0,,,,31430231430
+2,Australia,4,GJ Maxwell,TG Southee,MR Marsh,wides,1,1,0,,,,31430231430
+2,Australia,4,GJ Maxwell,TG Southee,MR Marsh,,0,0,0,caught,GJ Maxwell,JDS Neesham,31430231430
+2,Australia,4,MP Stoinis,TG Southee,MR Marsh,,0,0,0,,,,31430231430
+2,Australia,4,MP Stoinis,TG Southee,MR Marsh,,0,0,0,,,,31430231430
+2,Australia,4,MP Stoinis,TG Southee,MR Marsh,,0,1,1,,,,31430231430
+2,Australia,4,MR Marsh,TG Southee,MP Stoinis,,0,4,4,,,,31430231430
+2,Australia,5,MP Stoinis,KA Jamieson,MR Marsh,,0,1,1,,,,31430231430
+2,Australia,5,MR Marsh,KA Jamieson,MP Stoinis,,0,4,4,,,,31430231430
+2,Australia,5,MR Marsh,KA Jamieson,MP Stoinis,,0,0,0,,,,31430231430
+2,Australia,5,MR Marsh,KA Jamieson,MP Stoinis,,0,0,0,,,,31430231430
+2,Australia,5,MR Marsh,KA Jamieson,MP Stoinis,,0,6,6,,,,31430231430
+2,Australia,5,MR Marsh,KA Jamieson,MP Stoinis,,0,1,1,,,,31430231430
+2,Australia,6,MR Marsh,JDS Neesham,MP Stoinis,,0,4,4,,,,31430231430
+2,Australia,6,MR Marsh,JDS Neesham,MP Stoinis,,0,0,0,,,,31430231430
+2,Australia,6,MR Marsh,JDS Neesham,MP Stoinis,,0,2,2,,,,31430231430
+2,Australia,6,MR Marsh,JDS Neesham,MP Stoinis,,0,1,1,,,,31430231430
+2,Australia,6,MP Stoinis,JDS Neesham,MR Marsh,,0,1,1,,,,31430231430
+2,Australia,6,MR Marsh,JDS Neesham,MP Stoinis,,0,1,1,,,,31430231430
+2,Australia,7,MR Marsh,KA Jamieson,MP Stoinis,,0,4,4,,,,31430231430
+2,Australia,7,MR Marsh,KA Jamieson,MP Stoinis,wides,1,1,0,,,,31430231430
+2,Australia,7,MR Marsh,KA Jamieson,MP Stoinis,,0,0,0,,,,31430231430
+2,Australia,7,MR Marsh,KA Jamieson,MP Stoinis,,0,0,0,,,,31430231430
+2,Australia,7,MR Marsh,KA Jamieson,MP Stoinis,,0,1,1,,,,31430231430
+2,Australia,7,MP Stoinis,KA Jamieson,MR Marsh,,0,1,1,,,,31430231430
+2,Australia,7,MR Marsh,KA Jamieson,MP Stoinis,,0,0,0,,,,31430231430
+2,Australia,8,MP Stoinis,IS Sodhi,MR Marsh,,0,0,0,,,,31430231430
+2,Australia,8,MP Stoinis,IS Sodhi,MR Marsh,,0,0,0,,,,31430231430
+2,Australia,8,MP Stoinis,IS Sodhi,MR Marsh,,0,0,0,,,,31430231430
+2,Australia,8,MP Stoinis,IS Sodhi,MR Marsh,,0,4,4,,,,31430231430
+2,Australia,8,MP Stoinis,IS Sodhi,MR Marsh,,0,0,0,caught and bowled,MP Stoinis,,31430231430
+2,Australia,8,AC Agar,IS Sodhi,MR Marsh,,0,1,1,,,,31430231430
+2,Australia,9,AC Agar,MJ Santner,MR Marsh,,0,1,1,,,,31430231430
+2,Australia,9,MR Marsh,MJ Santner,AC Agar,,0,0,0,,,,31430231430
+2,Australia,9,MR Marsh,MJ Santner,AC Agar,,0,1,1,,,,31430231430
+2,Australia,9,AC Agar,MJ Santner,MR Marsh,,0,1,1,,,,31430231430
+2,Australia,9,MR Marsh,MJ Santner,AC Agar,,0,1,1,,,,31430231430
+2,Australia,9,AC Agar,MJ Santner,MR Marsh,wides,2,2,0,,,,31430231430
+2,Australia,9,MR Marsh,MJ Santner,AC Agar,,0,0,0,,,,31430231430
+2,Australia,10,AC Agar,IS Sodhi,MR Marsh,,0,2,2,,,,31430231430
+2,Australia,10,AC Agar,IS Sodhi,MR Marsh,,0,6,6,,,,31430231430
+2,Australia,10,AC Agar,IS Sodhi,MR Marsh,,0,1,1,,,,31430231430
+2,Australia,10,MR Marsh,IS Sodhi,AC Agar,,0,0,0,,,,31430231430
+2,Australia,10,MR Marsh,IS Sodhi,AC Agar,,0,0,0,,,,31430231430
+2,Australia,10,MR Marsh,IS Sodhi,AC Agar,,0,4,4,,,,31430231430
+2,Australia,11,AC Agar,MJ Santner,MR Marsh,,0,1,1,,,,31430231430
+2,Australia,11,MR Marsh,MJ Santner,AC Agar,,0,1,1,,,,31430231430
+2,Australia,11,AC Agar,MJ Santner,MR Marsh,,0,4,4,,,,31430231430
+2,Australia,11,AC Agar,MJ Santner,MR Marsh,,0,1,1,,,,31430231430
+2,Australia,11,MR Marsh,MJ Santner,AC Agar,,0,2,2,,,,31430231430
+2,Australia,11,MR Marsh,MJ Santner,AC Agar,,0,1,1,,,,31430231430
+2,Australia,12,MR Marsh,KA Jamieson,AC Agar,,0,1,1,,,,31430231430
+2,Australia,12,AC Agar,KA Jamieson,MR Marsh,,0,4,4,,,,31430231430
+2,Australia,12,AC Agar,KA Jamieson,MR Marsh,,0,1,1,,,,31430231430
+2,Australia,12,MR Marsh,KA Jamieson,AC Agar,,0,6,6,,,,31430231430
+2,Australia,12,MR Marsh,KA Jamieson,AC Agar,,0,0,0,caught,MR Marsh,MJ Santner,31430231430
+2,Australia,12,DR Sams,KA Jamieson,AC Agar,,0,1,1,,,,31430231430
+2,Australia,13,DR Sams,IS Sodhi,AC Agar,,0,0,0,,,,31430231430
+2,Australia,13,DR Sams,IS Sodhi,AC Agar,,0,0,0,caught,DR Sams,KA Jamieson,31430231430
+2,Australia,13,AC Agar,IS Sodhi,JA Richardson,,0,0,0,,,,31430231430
+2,Australia,13,AC Agar,IS Sodhi,JA Richardson,,0,0,0,caught,AC Agar,KA Jamieson,31430231430
+2,Australia,13,KW Richardson,IS Sodhi,JA Richardson,,0,2,2,,,,31430231430
+2,Australia,13,KW Richardson,IS Sodhi,JA Richardson,,0,0,0,,,,31430231430
+2,Australia,14,JA Richardson,MJ Santner,KW Richardson,,0,0,0,,,,31430231430
+2,Australia,14,JA Richardson,MJ Santner,KW Richardson,,0,1,1,,,,31430231430
+2,Australia,14,KW Richardson,MJ Santner,JA Richardson,,0,1,1,,,,31430231430
+2,Australia,14,JA Richardson,MJ Santner,KW Richardson,,0,0,0,,,,31430231430
+2,Australia,14,JA Richardson,MJ Santner,KW Richardson,,0,1,1,,,,31430231430
+2,Australia,14,KW Richardson,MJ Santner,JA Richardson,wides,1,1,0,,,,31430231430
+2,Australia,14,KW Richardson,MJ Santner,JA Richardson,,0,2,2,,,,31430231430
+2,Australia,15,JA Richardson,IS Sodhi,KW Richardson,,0,1,1,,,,31430231430
+2,Australia,15,KW Richardson,IS Sodhi,JA Richardson,,0,0,0,caught,KW Richardson,JDS Neesham,31430231430
+2,Australia,15,JA Richardson,IS Sodhi,A Zampa,,0,0,0,,,,31430231430
+2,Australia,15,JA Richardson,IS Sodhi,A Zampa,,0,1,1,,,,31430231430
+2,Australia,15,A Zampa,IS Sodhi,JA Richardson,noballs,1,1,0,,,,31430231430
+2,Australia,15,A Zampa,IS Sodhi,JA Richardson,,0,4,4,,,,31430231430
+2,Australia,15,A Zampa,IS Sodhi,JA Richardson,,0,1,1,,,,31430231430
+2,Australia,16,A Zampa,TA Boult,JA Richardson,,0,2,2,,,,31430231430
+2,Australia,16,A Zampa,TA Boult,JA Richardson,,0,4,4,,,,31430231430
+2,Australia,16,A Zampa,TA Boult,JA Richardson,,0,1,1,,,,31430231430
+2,Australia,16,JA Richardson,TA Boult,A Zampa,,0,0,0,,,,31430231430
+2,Australia,16,JA Richardson,TA Boult,A Zampa,,0,1,1,,,,31430231430
+2,Australia,16,A Zampa,TA Boult,JA Richardson,legbyes,1,1,0,,,,31430231430
+2,Australia,17,A Zampa,MJ Santner,JA Richardson,,0,1,1,,,,31430231430
+2,Australia,17,JA Richardson,MJ Santner,A Zampa,,0,6,6,,,,31430231430
+2,Australia,17,JA Richardson,MJ Santner,A Zampa,,0,0,0,stumped,JA Richardson,TL Seifert,31430231430

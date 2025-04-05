@@ -1,0 +1,111 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,New Zealand,0,SW Bates,ML Schutt,AM Peterson,wides,5,5,0,,,,391123911
+2,New Zealand,0,SW Bates,ML Schutt,AM Peterson,,0,0,0,,,,391123911
+2,New Zealand,0,SW Bates,ML Schutt,AM Peterson,,0,1,1,,,,391123911
+2,New Zealand,0,AM Peterson,ML Schutt,SW Bates,,0,0,0,,,,391123911
+2,New Zealand,0,AM Peterson,ML Schutt,SW Bates,,0,0,0,lbw,AM Peterson,,391123911
+2,New Zealand,0,SFM Devine,ML Schutt,SW Bates,,0,0,0,,,,391123911
+2,New Zealand,0,SFM Devine,ML Schutt,SW Bates,,0,0,0,,,,391123911
+2,New Zealand,1,SW Bates,EA Perry,SFM Devine,,0,1,1,,,,391123911
+2,New Zealand,1,SFM Devine,EA Perry,SW Bates,,0,0,0,,,,391123911
+2,New Zealand,1,SFM Devine,EA Perry,SW Bates,,0,0,0,bowled,SFM Devine,,391123911
+2,New Zealand,1,AE Satterthwaite,EA Perry,SW Bates,,0,0,0,,,,391123911
+2,New Zealand,1,AE Satterthwaite,EA Perry,SW Bates,,0,0,0,,,,391123911
+2,New Zealand,1,AE Satterthwaite,EA Perry,SW Bates,,0,1,1,,,,391123911
+2,New Zealand,2,AE Satterthwaite,S Molineux,SW Bates,wides,3,3,0,,,,391123911
+2,New Zealand,2,AE Satterthwaite,S Molineux,SW Bates,,0,0,0,,,,391123911
+2,New Zealand,2,AE Satterthwaite,S Molineux,SW Bates,,0,0,0,,,,391123911
+2,New Zealand,2,AE Satterthwaite,S Molineux,SW Bates,,0,1,1,,,,391123911
+2,New Zealand,2,SW Bates,S Molineux,AE Satterthwaite,,0,1,1,,,,391123911
+2,New Zealand,2,AE Satterthwaite,S Molineux,SW Bates,,0,0,0,lbw,AE Satterthwaite,,391123911
+2,New Zealand,2,KJ Martin,S Molineux,SW Bates,,0,0,0,,,,391123911
+2,New Zealand,3,SW Bates,EA Perry,KJ Martin,,0,4,4,,,,391123911
+2,New Zealand,3,SW Bates,EA Perry,KJ Martin,,0,1,1,,,,391123911
+2,New Zealand,3,KJ Martin,EA Perry,SW Bates,,0,0,0,,,,391123911
+2,New Zealand,3,KJ Martin,EA Perry,SW Bates,byes,1,1,0,,,,391123911
+2,New Zealand,3,SW Bates,EA Perry,KJ Martin,,0,1,1,,,,391123911
+2,New Zealand,3,KJ Martin,EA Perry,SW Bates,,0,0,0,,,,391123911
+2,New Zealand,4,SW Bates,ML Schutt,KJ Martin,,0,0,0,,,,391123911
+2,New Zealand,4,SW Bates,ML Schutt,KJ Martin,,0,0,0,,,,391123911
+2,New Zealand,4,SW Bates,ML Schutt,KJ Martin,,0,0,0,,,,391123911
+2,New Zealand,4,SW Bates,ML Schutt,KJ Martin,,0,1,1,,,,391123911
+2,New Zealand,4,KJ Martin,ML Schutt,SW Bates,,0,1,1,,,,391123911
+2,New Zealand,4,SW Bates,ML Schutt,KJ Martin,,0,1,1,,,,391123911
+2,New Zealand,5,SW Bates,S Molineux,KJ Martin,,0,6,6,,,,391123911
+2,New Zealand,5,SW Bates,S Molineux,KJ Martin,,0,0,0,,,,391123911
+2,New Zealand,5,SW Bates,S Molineux,KJ Martin,,0,0,0,,,,391123911
+2,New Zealand,5,SW Bates,S Molineux,KJ Martin,,0,0,0,,,,391123911
+2,New Zealand,5,SW Bates,S Molineux,KJ Martin,,0,1,1,,,,391123911
+2,New Zealand,5,KJ Martin,S Molineux,SW Bates,,0,1,1,,,,391123911
+2,New Zealand,6,KJ Martin,G Wareham,SW Bates,wides,3,3,0,,,,391123911
+2,New Zealand,6,KJ Martin,G Wareham,SW Bates,,0,1,1,,,,391123911
+2,New Zealand,6,SW Bates,G Wareham,KJ Martin,,0,0,0,,,,391123911
+2,New Zealand,6,SW Bates,G Wareham,KJ Martin,,0,1,1,,,,391123911
+2,New Zealand,6,KJ Martin,G Wareham,SW Bates,,0,1,1,,,,391123911
+2,New Zealand,6,SW Bates,G Wareham,KJ Martin,,0,2,2,,,,391123911
+2,New Zealand,6,SW Bates,G Wareham,KJ Martin,legbyes,1,1,0,,,,391123911
+2,New Zealand,7,SW Bates,DM Kimmince,KJ Martin,,0,0,0,,,,391123911
+2,New Zealand,7,SW Bates,DM Kimmince,KJ Martin,,0,1,1,,,,391123911
+2,New Zealand,7,KJ Martin,DM Kimmince,SW Bates,,0,2,2,,,,391123911
+2,New Zealand,7,KJ Martin,DM Kimmince,SW Bates,,0,1,1,,,,391123911
+2,New Zealand,7,SW Bates,DM Kimmince,KJ Martin,,0,2,2,,,,391123911
+2,New Zealand,7,SW Bates,DM Kimmince,KJ Martin,,0,1,1,,,,391123911
+2,New Zealand,8,SW Bates,A Gardner,KJ Martin,,0,0,0,,,,391123911
+2,New Zealand,8,SW Bates,A Gardner,KJ Martin,,0,1,1,,,,391123911
+2,New Zealand,8,KJ Martin,A Gardner,SW Bates,,0,1,1,,,,391123911
+2,New Zealand,8,SW Bates,A Gardner,KJ Martin,,0,1,1,,,,391123911
+2,New Zealand,8,KJ Martin,A Gardner,SW Bates,,0,1,1,,,,391123911
+2,New Zealand,8,SW Bates,A Gardner,KJ Martin,,0,0,0,,,,391123911
+2,New Zealand,9,KJ Martin,EA Perry,SW Bates,,0,4,4,,,,391123911
+2,New Zealand,9,KJ Martin,EA Perry,SW Bates,,0,4,4,,,,391123911
+2,New Zealand,9,KJ Martin,EA Perry,SW Bates,,0,1,1,,,,391123911
+2,New Zealand,9,SW Bates,EA Perry,KJ Martin,,0,4,4,,,,391123911
+2,New Zealand,9,SW Bates,EA Perry,KJ Martin,,0,2,2,,,,391123911
+2,New Zealand,9,SW Bates,EA Perry,KJ Martin,,0,1,1,,,,391123911
+2,New Zealand,10,SW Bates,DM Kimmince,KJ Martin,,0,4,4,,,,391123911
+2,New Zealand,10,SW Bates,DM Kimmince,KJ Martin,,0,0,0,,,,391123911
+2,New Zealand,10,SW Bates,DM Kimmince,KJ Martin,,0,1,1,,,,391123911
+2,New Zealand,10,KJ Martin,DM Kimmince,SW Bates,,0,1,1,,,,391123911
+2,New Zealand,10,SW Bates,DM Kimmince,KJ Martin,,0,1,1,,,,391123911
+2,New Zealand,10,KJ Martin,DM Kimmince,SW Bates,,0,1,1,,,,391123911
+2,New Zealand,11,KJ Martin,G Wareham,SW Bates,,0,4,4,,,,391123911
+2,New Zealand,11,KJ Martin,G Wareham,SW Bates,,0,0,0,,,,391123911
+2,New Zealand,11,KJ Martin,G Wareham,SW Bates,,0,0,0,stumped,KJ Martin,AJ Healy,391123911
+2,New Zealand,11,ML Green,G Wareham,SW Bates,,0,4,4,,,,391123911
+2,New Zealand,11,ML Green,G Wareham,SW Bates,,0,1,1,,,,391123911
+2,New Zealand,11,SW Bates,G Wareham,ML Green,,0,4,4,,,,391123911
+2,New Zealand,12,ML Green,S Molineux,SW Bates,,0,1,1,,,,391123911
+2,New Zealand,12,SW Bates,S Molineux,ML Green,,0,1,1,,,,391123911
+2,New Zealand,12,ML Green,S Molineux,SW Bates,,0,1,1,,,,391123911
+2,New Zealand,12,SW Bates,S Molineux,ML Green,,0,1,1,,,,391123911
+2,New Zealand,12,ML Green,S Molineux,SW Bates,,0,0,0,,,,391123911
+2,New Zealand,12,ML Green,S Molineux,SW Bates,,0,1,1,,,,391123911
+2,New Zealand,13,ML Green,DM Kimmince,SW Bates,wides,1,1,0,,,,391123911
+2,New Zealand,13,ML Green,DM Kimmince,SW Bates,,0,0,0,caught,ML Green,EA Perry,391123911
+2,New Zealand,13,SW Bates,DM Kimmince,B Bezuidenhout,,0,1,1,,,,391123911
+2,New Zealand,13,B Bezuidenhout,DM Kimmince,SW Bates,,0,1,1,,,,391123911
+2,New Zealand,13,SW Bates,DM Kimmince,B Bezuidenhout,,0,1,1,,,,391123911
+2,New Zealand,13,B Bezuidenhout,DM Kimmince,SW Bates,,0,0,0,caught,B Bezuidenhout,AJ Healy,391123911
+2,New Zealand,13,LM Kasperek,DM Kimmince,SW Bates,,0,1,1,,,,391123911
+2,New Zealand,14,LM Kasperek,A Gardner,SW Bates,,0,1,1,,,,391123911
+2,New Zealand,14,SW Bates,A Gardner,LM Kasperek,,0,0,0,lbw,SW Bates,,391123911
+2,New Zealand,14,HM Rowe,A Gardner,LM Kasperek,,0,0,0,,,,391123911
+2,New Zealand,14,HM Rowe,A Gardner,LM Kasperek,,0,1,1,,,,391123911
+2,New Zealand,14,LM Kasperek,A Gardner,HM Rowe,,0,4,4,,,,391123911
+2,New Zealand,14,LM Kasperek,A Gardner,HM Rowe,wides,3,3,0,,,,391123911
+2,New Zealand,14,LM Kasperek,A Gardner,HM Rowe,,0,4,4,,,,391123911
+2,New Zealand,15,HM Rowe,DM Kimmince,LM Kasperek,,0,0,0,,,,391123911
+2,New Zealand,15,HM Rowe,DM Kimmince,LM Kasperek,,0,1,1,,,,391123911
+2,New Zealand,15,LM Kasperek,DM Kimmince,HM Rowe,,0,1,1,,,,391123911
+2,New Zealand,15,HM Rowe,DM Kimmince,LM Kasperek,,0,0,0,,,,391123911
+2,New Zealand,15,HM Rowe,DM Kimmince,LM Kasperek,,0,1,1,,,,391123911
+2,New Zealand,15,LM Kasperek,DM Kimmince,HM Rowe,,0,1,1,,,,391123911
+2,New Zealand,16,LM Kasperek,ML Schutt,HM Rowe,,0,0,0,caught,LM Kasperek,RL Haynes,391123911
+2,New Zealand,16,AC Kerr,ML Schutt,HM Rowe,,0,1,1,,,,391123911
+2,New Zealand,16,HM Rowe,ML Schutt,AC Kerr,,0,1,1,,,,391123911
+2,New Zealand,16,AC Kerr,ML Schutt,HM Rowe,,0,1,1,,,,391123911
+2,New Zealand,16,HM Rowe,ML Schutt,AC Kerr,,0,0,0,bowled,HM Rowe,,391123911
+2,New Zealand,16,LMM Tahuhu,ML Schutt,AC Kerr,,0,0,0,,,,391123911
+2,New Zealand,17,AC Kerr,S Molineux,LMM Tahuhu,,0,1,1,,,,391123911
+2,New Zealand,17,LMM Tahuhu,S Molineux,AC Kerr,,0,1,1,,,,391123911
+2,New Zealand,17,AC Kerr,S Molineux,LMM Tahuhu,,0,0,0,caught,AC Kerr,RL Haynes,391123911

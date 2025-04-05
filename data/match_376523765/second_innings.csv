@@ -1,0 +1,122 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,India,0,RG Sharma,AF Milne,S Dhawan,,0,0,0,,,,376523765
+2,India,0,RG Sharma,AF Milne,S Dhawan,,0,4,4,,,,376523765
+2,India,0,RG Sharma,AF Milne,S Dhawan,,0,0,0,,,,376523765
+2,India,0,RG Sharma,AF Milne,S Dhawan,,0,1,1,,,,376523765
+2,India,0,S Dhawan,AF Milne,RG Sharma,,0,0,0,,,,376523765
+2,India,0,S Dhawan,AF Milne,RG Sharma,,0,1,1,,,,376523765
+2,India,1,S Dhawan,TA Boult,RG Sharma,,0,0,0,,,,376523765
+2,India,1,S Dhawan,TA Boult,RG Sharma,,0,0,0,bowled,S Dhawan,,376523765
+2,India,1,SS Iyer,TA Boult,RG Sharma,,0,4,4,,,,376523765
+2,India,1,SS Iyer,TA Boult,RG Sharma,,0,1,1,,,,376523765
+2,India,1,RG Sharma,TA Boult,SS Iyer,,0,0,0,,,,376523765
+2,India,1,RG Sharma,TA Boult,SS Iyer,,0,0,0,caught,RG Sharma,GD Phillips,376523765
+2,India,2,SS Iyer,C de Grandhomme,V Kohli,,0,4,4,,,,376523765
+2,India,2,SS Iyer,C de Grandhomme,V Kohli,,0,1,1,,,,376523765
+2,India,2,V Kohli,C de Grandhomme,SS Iyer,,0,0,0,,,,376523765
+2,India,2,V Kohli,C de Grandhomme,SS Iyer,,0,1,1,,,,376523765
+2,India,2,SS Iyer,C de Grandhomme,V Kohli,,0,0,0,,,,376523765
+2,India,2,SS Iyer,C de Grandhomme,V Kohli,,0,4,4,,,,376523765
+2,India,3,V Kohli,TA Boult,SS Iyer,,0,4,4,,,,376523765
+2,India,3,V Kohli,TA Boult,SS Iyer,,0,0,0,,,,376523765
+2,India,3,V Kohli,TA Boult,SS Iyer,,0,1,1,,,,376523765
+2,India,3,SS Iyer,TA Boult,V Kohli,,0,4,4,,,,376523765
+2,India,3,SS Iyer,TA Boult,V Kohli,,0,1,1,,,,376523765
+2,India,3,V Kohli,TA Boult,SS Iyer,,0,4,4,,,,376523765
+2,India,4,SS Iyer,AF Milne,V Kohli,,0,1,1,,,,376523765
+2,India,4,V Kohli,AF Milne,SS Iyer,,0,0,0,,,,376523765
+2,India,4,V Kohli,AF Milne,SS Iyer,,0,1,1,,,,376523765
+2,India,4,SS Iyer,AF Milne,V Kohli,,0,0,0,,,,376523765
+2,India,4,SS Iyer,AF Milne,V Kohli,,0,0,0,,,,376523765
+2,India,4,SS Iyer,AF Milne,V Kohli,,0,0,0,,,,376523765
+2,India,5,V Kohli,MJ Santner,SS Iyer,,0,1,1,,,,376523765
+2,India,5,SS Iyer,MJ Santner,V Kohli,,0,0,0,,,,376523765
+2,India,5,SS Iyer,MJ Santner,V Kohli,,0,0,0,,,,376523765
+2,India,5,SS Iyer,MJ Santner,V Kohli,,0,1,1,,,,376523765
+2,India,5,V Kohli,MJ Santner,SS Iyer,,0,0,0,,,,376523765
+2,India,5,V Kohli,MJ Santner,SS Iyer,,0,1,1,,,,376523765
+2,India,6,V Kohli,IS Sodhi,SS Iyer,,0,1,1,,,,376523765
+2,India,6,SS Iyer,IS Sodhi,V Kohli,,0,1,1,,,,376523765
+2,India,6,V Kohli,IS Sodhi,SS Iyer,,0,1,1,,,,376523765
+2,India,6,SS Iyer,IS Sodhi,V Kohli,,0,0,0,,,,376523765
+2,India,6,SS Iyer,IS Sodhi,V Kohli,legbyes,1,1,0,,,,376523765
+2,India,6,V Kohli,IS Sodhi,SS Iyer,,0,1,1,,,,376523765
+2,India,7,V Kohli,MJ Santner,SS Iyer,,0,4,4,,,,376523765
+2,India,7,V Kohli,MJ Santner,SS Iyer,,0,4,4,,,,376523765
+2,India,7,V Kohli,MJ Santner,SS Iyer,,0,1,1,,,,376523765
+2,India,7,SS Iyer,MJ Santner,V Kohli,,0,1,1,,,,376523765
+2,India,7,V Kohli,MJ Santner,SS Iyer,,0,6,6,,,,376523765
+2,India,7,V Kohli,MJ Santner,SS Iyer,,0,1,1,,,,376523765
+2,India,8,V Kohli,C Munro,SS Iyer,,0,2,2,,,,376523765
+2,India,8,V Kohli,C Munro,SS Iyer,,0,1,1,,,,376523765
+2,India,8,SS Iyer,C Munro,V Kohli,,0,0,0,,,,376523765
+2,India,8,SS Iyer,C Munro,V Kohli,,0,0,0,caught and bowled,SS Iyer,,376523765
+2,India,8,V Kohli,C Munro,HH Pandya,,0,1,1,,,,376523765
+2,India,8,HH Pandya,C Munro,V Kohli,,0,1,1,,,,376523765
+2,India,9,HH Pandya,IS Sodhi,V Kohli,,0,0,0,bowled,HH Pandya,,376523765
+2,India,9,MS Dhoni,IS Sodhi,V Kohli,,0,1,1,,,,376523765
+2,India,9,V Kohli,IS Sodhi,MS Dhoni,,0,1,1,,,,376523765
+2,India,9,MS Dhoni,IS Sodhi,V Kohli,,0,1,1,,,,376523765
+2,India,9,V Kohli,IS Sodhi,MS Dhoni,,0,0,0,,,,376523765
+2,India,9,V Kohli,IS Sodhi,MS Dhoni,,0,1,1,,,,376523765
+2,India,10,V Kohli,C Munro,MS Dhoni,,0,1,1,,,,376523765
+2,India,10,MS Dhoni,C Munro,V Kohli,,0,1,1,,,,376523765
+2,India,10,V Kohli,C Munro,MS Dhoni,,0,1,1,,,,376523765
+2,India,10,MS Dhoni,C Munro,V Kohli,,0,0,0,,,,376523765
+2,India,10,MS Dhoni,C Munro,V Kohli,,0,1,1,,,,376523765
+2,India,10,V Kohli,C Munro,MS Dhoni,,0,4,4,,,,376523765
+2,India,11,MS Dhoni,MJ Santner,V Kohli,,0,1,1,,,,376523765
+2,India,11,V Kohli,MJ Santner,MS Dhoni,,0,0,0,,,,376523765
+2,India,11,V Kohli,MJ Santner,MS Dhoni,,0,1,1,,,,376523765
+2,India,11,MS Dhoni,MJ Santner,V Kohli,,0,1,1,,,,376523765
+2,India,11,V Kohli,MJ Santner,MS Dhoni,,0,4,4,,,,376523765
+2,India,11,V Kohli,MJ Santner,MS Dhoni,,0,1,1,,,,376523765
+2,India,12,V Kohli,C Munro,MS Dhoni,,0,1,1,,,,376523765
+2,India,12,MS Dhoni,C Munro,V Kohli,,0,1,1,,,,376523765
+2,India,12,V Kohli,C Munro,MS Dhoni,,0,4,4,,,,376523765
+2,India,12,V Kohli,C Munro,MS Dhoni,,0,2,2,,,,376523765
+2,India,12,V Kohli,C Munro,MS Dhoni,,0,1,1,,,,376523765
+2,India,12,MS Dhoni,C Munro,V Kohli,,0,1,1,,,,376523765
+2,India,13,MS Dhoni,IS Sodhi,V Kohli,byes,2,2,0,,,,376523765
+2,India,13,MS Dhoni,IS Sodhi,V Kohli,,0,6,6,,,,376523765
+2,India,13,MS Dhoni,IS Sodhi,V Kohli,,0,0,0,,,,376523765
+2,India,13,MS Dhoni,IS Sodhi,V Kohli,,0,0,0,,,,376523765
+2,India,13,MS Dhoni,IS Sodhi,V Kohli,,0,0,0,,,,376523765
+2,India,13,MS Dhoni,IS Sodhi,V Kohli,,0,1,1,,,,376523765
+2,India,14,MS Dhoni,AF Milne,V Kohli,,0,0,0,,,,376523765
+2,India,14,MS Dhoni,AF Milne,V Kohli,,0,0,0,,,,376523765
+2,India,14,MS Dhoni,AF Milne,V Kohli,,0,1,1,,,,376523765
+2,India,14,V Kohli,AF Milne,MS Dhoni,,0,0,0,,,,376523765
+2,India,14,V Kohli,AF Milne,MS Dhoni,,0,4,4,,,,376523765
+2,India,14,V Kohli,AF Milne,MS Dhoni,,0,1,1,,,,376523765
+2,India,15,V Kohli,IS Sodhi,MS Dhoni,,0,1,1,,,,376523765
+2,India,15,MS Dhoni,IS Sodhi,V Kohli,,0,1,1,,,,376523765
+2,India,15,V Kohli,IS Sodhi,MS Dhoni,,0,1,1,,,,376523765
+2,India,15,MS Dhoni,IS Sodhi,V Kohli,,0,0,0,,,,376523765
+2,India,15,MS Dhoni,IS Sodhi,V Kohli,,0,6,6,,,,376523765
+2,India,15,MS Dhoni,IS Sodhi,V Kohli,,0,1,1,,,,376523765
+2,India,16,MS Dhoni,MJ Santner,V Kohli,,0,0,0,,,,376523765
+2,India,16,MS Dhoni,MJ Santner,V Kohli,,0,1,1,,,,376523765
+2,India,16,V Kohli,MJ Santner,MS Dhoni,,0,0,0,caught,V Kohli,GD Phillips,376523765
+2,India,16,AR Patel,MJ Santner,MS Dhoni,,0,1,1,,,,376523765
+2,India,16,MS Dhoni,MJ Santner,AR Patel,,0,0,0,,,,376523765
+2,India,16,MS Dhoni,MJ Santner,AR Patel,,0,1,1,,,,376523765
+2,India,17,MS Dhoni,TA Boult,AR Patel,,0,1,1,,,,376523765
+2,India,17,AR Patel,TA Boult,MS Dhoni,,0,4,4,,,,376523765
+2,India,17,AR Patel,TA Boult,MS Dhoni,,0,0,0,caught,AR Patel,KS Williamson,376523765
+2,India,17,B Kumar,TA Boult,MS Dhoni,,0,0,0,,,,376523765
+2,India,17,B Kumar,TA Boult,MS Dhoni,,0,1,1,,,,376523765
+2,India,17,MS Dhoni,TA Boult,B Kumar,,0,1,1,,,,376523765
+2,India,18,MS Dhoni,AF Milne,B Kumar,,0,4,4,,,,376523765
+2,India,18,MS Dhoni,AF Milne,B Kumar,,0,2,2,,,,376523765
+2,India,18,MS Dhoni,AF Milne,B Kumar,,0,2,2,,,,376523765
+2,India,18,MS Dhoni,AF Milne,B Kumar,,0,2,2,,,,376523765
+2,India,18,MS Dhoni,AF Milne,B Kumar,wides,1,1,0,,,,376523765
+2,India,18,MS Dhoni,AF Milne,B Kumar,,0,4,4,,,,376523765
+2,India,18,MS Dhoni,AF Milne,B Kumar,,0,1,1,,,,376523765
+2,India,19,MS Dhoni,TA Boult,B Kumar,,0,6,6,,,,376523765
+2,India,19,MS Dhoni,TA Boult,B Kumar,,0,0,0,,,,376523765
+2,India,19,MS Dhoni,TA Boult,B Kumar,,0,0,0,caught,MS Dhoni,MJ Santner,376523765
+2,India,19,JJ Bumrah,TA Boult,B Kumar,,0,0,0,,,,376523765
+2,India,19,JJ Bumrah,TA Boult,B Kumar,,0,1,1,,,,376523765
+2,India,19,B Kumar,TA Boult,JJ Bumrah,,0,1,1,,,,376523765

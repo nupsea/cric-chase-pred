@@ -1,0 +1,118 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Cayman Islands,0,YSD Seneveratne,RJ Trott,P Manning,,0,1,1,,,,31241231241
+1,Cayman Islands,0,P Manning,RJ Trott,YSD Seneveratne,,0,0,0,,,,31241231241
+1,Cayman Islands,0,P Manning,RJ Trott,YSD Seneveratne,,0,0,0,,,,31241231241
+1,Cayman Islands,0,P Manning,RJ Trott,YSD Seneveratne,,0,4,4,,,,31241231241
+1,Cayman Islands,0,P Manning,RJ Trott,YSD Seneveratne,,0,0,0,,,,31241231241
+1,Cayman Islands,0,P Manning,RJ Trott,YSD Seneveratne,,0,1,1,,,,31241231241
+1,Cayman Islands,1,P Manning,JE Pitcher,YSD Seneveratne,,0,0,0,,,,31241231241
+1,Cayman Islands,1,P Manning,JE Pitcher,YSD Seneveratne,,0,0,0,,,,31241231241
+1,Cayman Islands,1,P Manning,JE Pitcher,YSD Seneveratne,,0,1,1,,,,31241231241
+1,Cayman Islands,1,YSD Seneveratne,JE Pitcher,P Manning,,0,1,1,,,,31241231241
+1,Cayman Islands,1,P Manning,JE Pitcher,YSD Seneveratne,,0,0,0,,,,31241231241
+1,Cayman Islands,1,P Manning,JE Pitcher,YSD Seneveratne,,0,0,0,,,,31241231241
+1,Cayman Islands,2,YSD Seneveratne,RJ Trott,P Manning,,0,2,2,,,,31241231241
+1,Cayman Islands,2,YSD Seneveratne,RJ Trott,P Manning,,0,0,0,,,,31241231241
+1,Cayman Islands,2,YSD Seneveratne,RJ Trott,P Manning,,0,1,1,,,,31241231241
+1,Cayman Islands,2,P Manning,RJ Trott,YSD Seneveratne,,0,0,0,,,,31241231241
+1,Cayman Islands,2,P Manning,RJ Trott,YSD Seneveratne,,0,0,0,,,,31241231241
+1,Cayman Islands,2,P Manning,RJ Trott,YSD Seneveratne,,0,4,4,,,,31241231241
+1,Cayman Islands,3,YSD Seneveratne,DC Stovell,P Manning,,0,0,0,,,,31241231241
+1,Cayman Islands,3,YSD Seneveratne,DC Stovell,P Manning,,0,0,0,,,,31241231241
+1,Cayman Islands,3,YSD Seneveratne,DC Stovell,P Manning,,0,1,1,,,,31241231241
+1,Cayman Islands,3,P Manning,DC Stovell,YSD Seneveratne,,0,1,1,,,,31241231241
+1,Cayman Islands,3,YSD Seneveratne,DC Stovell,P Manning,,0,0,0,caught,YSD Seneveratne,AC Douglas,31241231241
+1,Cayman Islands,3,P Manning,DC Stovell,OR Willis,,0,0,0,,,,31241231241
+1,Cayman Islands,4,OR Willis,DL Brangman,P Manning,,0,1,1,,,,31241231241
+1,Cayman Islands,4,P Manning,DL Brangman,OR Willis,,0,2,2,,,,31241231241
+1,Cayman Islands,4,P Manning,DL Brangman,OR Willis,,0,4,4,,,,31241231241
+1,Cayman Islands,4,P Manning,DL Brangman,OR Willis,,0,4,4,,,,31241231241
+1,Cayman Islands,4,P Manning,DL Brangman,OR Willis,,0,0,0,,,,31241231241
+1,Cayman Islands,4,P Manning,DL Brangman,OR Willis,,0,1,1,,,,31241231241
+1,Cayman Islands,5,P Manning,DC Stovell,OR Willis,,0,1,1,,,,31241231241
+1,Cayman Islands,5,OR Willis,DC Stovell,P Manning,,0,0,0,,,,31241231241
+1,Cayman Islands,5,OR Willis,DC Stovell,P Manning,,0,0,0,,,,31241231241
+1,Cayman Islands,5,OR Willis,DC Stovell,P Manning,,0,2,2,,,,31241231241
+1,Cayman Islands,5,OR Willis,DC Stovell,P Manning,,0,0,0,,,,31241231241
+1,Cayman Islands,5,OR Willis,DC Stovell,P Manning,,0,1,1,,,,31241231241
+1,Cayman Islands,6,OR Willis,OGL Bascome,P Manning,legbyes,1,1,0,,,,31241231241
+1,Cayman Islands,6,P Manning,OGL Bascome,OR Willis,,0,1,1,,,,31241231241
+1,Cayman Islands,6,OR Willis,OGL Bascome,P Manning,,0,0,0,,,,31241231241
+1,Cayman Islands,6,OR Willis,OGL Bascome,P Manning,,0,0,0,,,,31241231241
+1,Cayman Islands,6,OR Willis,OGL Bascome,P Manning,,0,1,1,,,,31241231241
+1,Cayman Islands,6,P Manning,OGL Bascome,OR Willis,,0,0,0,,,,31241231241
+1,Cayman Islands,7,OR Willis,JE Pitcher,P Manning,,0,0,0,,,,31241231241
+1,Cayman Islands,7,OR Willis,JE Pitcher,P Manning,,0,1,1,,,,31241231241
+1,Cayman Islands,7,P Manning,JE Pitcher,OR Willis,,0,0,0,,,,31241231241
+1,Cayman Islands,7,P Manning,JE Pitcher,OR Willis,,0,1,1,,,,31241231241
+1,Cayman Islands,7,OR Willis,JE Pitcher,P Manning,,0,1,1,,,,31241231241
+1,Cayman Islands,7,P Manning,JE Pitcher,OR Willis,,0,1,1,,,,31241231241
+1,Cayman Islands,8,P Manning,OGL Bascome,OR Willis,,0,1,1,,,,31241231241
+1,Cayman Islands,8,OR Willis,OGL Bascome,P Manning,,0,0,0,,,,31241231241
+1,Cayman Islands,8,OR Willis,OGL Bascome,P Manning,,0,1,1,,,,31241231241
+1,Cayman Islands,8,P Manning,OGL Bascome,OR Willis,,0,0,0,,,,31241231241
+1,Cayman Islands,8,P Manning,OGL Bascome,OR Willis,,0,1,1,,,,31241231241
+1,Cayman Islands,8,OR Willis,OGL Bascome,P Manning,,0,0,0,,,,31241231241
+1,Cayman Islands,9,P Manning,DL Brangman,OR Willis,,0,0,0,,,,31241231241
+1,Cayman Islands,9,P Manning,DL Brangman,OR Willis,,0,0,0,,,,31241231241
+1,Cayman Islands,9,P Manning,DL Brangman,OR Willis,,0,0,0,caught,P Manning,AC Douglas,31241231241
+1,Cayman Islands,9,OR Willis,DL Brangman,GM Strydom,,0,0,0,,,,31241231241
+1,Cayman Islands,9,OR Willis,DL Brangman,GM Strydom,,0,6,6,,,,31241231241
+1,Cayman Islands,9,OR Willis,DL Brangman,GM Strydom,,0,1,1,,,,31241231241
+1,Cayman Islands,10,OR Willis,AC Douglas,GM Strydom,,0,0,0,caught,OR Willis,JE Pitcher,31241231241
+1,Cayman Islands,10,GM Strydom,AC Douglas,C Wright,,0,1,1,,,,31241231241
+1,Cayman Islands,10,C Wright,AC Douglas,GM Strydom,,0,4,4,,,,31241231241
+1,Cayman Islands,10,C Wright,AC Douglas,GM Strydom,,0,0,0,,,,31241231241
+1,Cayman Islands,10,C Wright,AC Douglas,GM Strydom,,0,0,0,bowled,C Wright,,31241231241
+1,Cayman Islands,10,LHB Harrington-Myers,AC Douglas,GM Strydom,,0,0,0,,,,31241231241
+1,Cayman Islands,11,GM Strydom,JE Pitcher,LHB Harrington-Myers,,0,0,0,,,,31241231241
+1,Cayman Islands,11,GM Strydom,JE Pitcher,LHB Harrington-Myers,,0,1,1,,,,31241231241
+1,Cayman Islands,11,LHB Harrington-Myers,JE Pitcher,GM Strydom,,0,1,1,,,,31241231241
+1,Cayman Islands,11,GM Strydom,JE Pitcher,LHB Harrington-Myers,,0,4,4,,,,31241231241
+1,Cayman Islands,11,GM Strydom,JE Pitcher,LHB Harrington-Myers,wides,1,1,0,,,,31241231241
+1,Cayman Islands,11,GM Strydom,JE Pitcher,LHB Harrington-Myers,,0,1,1,,,,31241231241
+1,Cayman Islands,11,LHB Harrington-Myers,JE Pitcher,GM Strydom,,0,0,0,,,,31241231241
+1,Cayman Islands,12,GM Strydom,RJ Trott,LHB Harrington-Myers,,0,1,1,,,,31241231241
+1,Cayman Islands,12,LHB Harrington-Myers,RJ Trott,GM Strydom,,0,1,1,,,,31241231241
+1,Cayman Islands,12,GM Strydom,RJ Trott,LHB Harrington-Myers,,0,6,6,,,,31241231241
+1,Cayman Islands,12,GM Strydom,RJ Trott,LHB Harrington-Myers,,0,1,1,,,,31241231241
+1,Cayman Islands,12,LHB Harrington-Myers,RJ Trott,GM Strydom,,0,0,0,,,,31241231241
+1,Cayman Islands,12,LHB Harrington-Myers,RJ Trott,GM Strydom,,0,1,1,,,,31241231241
+1,Cayman Islands,13,LHB Harrington-Myers,DC Stovell,GM Strydom,,0,0,0,,,,31241231241
+1,Cayman Islands,13,LHB Harrington-Myers,DC Stovell,GM Strydom,,0,1,1,,,,31241231241
+1,Cayman Islands,13,GM Strydom,DC Stovell,LHB Harrington-Myers,,0,6,6,,,,31241231241
+1,Cayman Islands,13,GM Strydom,DC Stovell,LHB Harrington-Myers,,0,0,0,,,,31241231241
+1,Cayman Islands,13,GM Strydom,DC Stovell,LHB Harrington-Myers,,0,1,1,,,,31241231241
+1,Cayman Islands,13,LHB Harrington-Myers,DC Stovell,GM Strydom,,0,1,1,,,,31241231241
+1,Cayman Islands,14,LHB Harrington-Myers,OGL Bascome,GM Strydom,,0,0,0,,,,31241231241
+1,Cayman Islands,14,LHB Harrington-Myers,OGL Bascome,GM Strydom,,0,2,2,,,,31241231241
+1,Cayman Islands,14,LHB Harrington-Myers,OGL Bascome,GM Strydom,,0,1,1,,,,31241231241
+1,Cayman Islands,14,GM Strydom,OGL Bascome,LHB Harrington-Myers,,0,0,0,,,,31241231241
+1,Cayman Islands,14,GM Strydom,OGL Bascome,LHB Harrington-Myers,,0,1,1,,,,31241231241
+1,Cayman Islands,14,LHB Harrington-Myers,OGL Bascome,GM Strydom,,0,0,0,,,,31241231241
+1,Cayman Islands,15,GM Strydom,DC Stovell,LHB Harrington-Myers,,0,0,0,caught,GM Strydom,AC Douglas,31241231241
+1,Cayman Islands,15,LHB Harrington-Myers,DC Stovell,T Taylor,,0,4,4,,,,31241231241
+1,Cayman Islands,15,LHB Harrington-Myers,DC Stovell,T Taylor,,0,1,1,,,,31241231241
+1,Cayman Islands,15,T Taylor,DC Stovell,LHB Harrington-Myers,,0,0,0,,,,31241231241
+1,Cayman Islands,15,T Taylor,DC Stovell,LHB Harrington-Myers,,0,1,1,,,,31241231241
+1,Cayman Islands,15,LHB Harrington-Myers,DC Stovell,T Taylor,,0,0,0,run out,LHB Harrington-Myers,,31241231241
+1,Cayman Islands,16,T Taylor,OGL Bascome,AF Ifill,,0,1,1,,,,31241231241
+1,Cayman Islands,16,AF Ifill,OGL Bascome,T Taylor,,0,1,1,,,,31241231241
+1,Cayman Islands,16,T Taylor,OGL Bascome,AF Ifill,,0,0,0,,,,31241231241
+1,Cayman Islands,16,T Taylor,OGL Bascome,AF Ifill,,0,2,2,,,,31241231241
+1,Cayman Islands,16,T Taylor,OGL Bascome,AF Ifill,,0,1,1,,,,31241231241
+1,Cayman Islands,16,AF Ifill,OGL Bascome,T Taylor,,0,1,1,,,,31241231241
+1,Cayman Islands,17,AF Ifill,AC Douglas,T Taylor,,0,1,1,,,,31241231241
+1,Cayman Islands,17,T Taylor,AC Douglas,AF Ifill,,0,6,6,,,,31241231241
+1,Cayman Islands,17,T Taylor,AC Douglas,AF Ifill,,0,6,6,,,,31241231241
+1,Cayman Islands,17,T Taylor,AC Douglas,AF Ifill,,0,0,0,caught,T Taylor,DC Stovell,31241231241
+1,Cayman Islands,17,AF Ifill,AC Douglas,Z McLaughlin,,0,0,0,,,,31241231241
+1,Cayman Islands,17,AF Ifill,AC Douglas,Z McLaughlin,,0,0,0,bowled,AF Ifill,,31241231241
+1,Cayman Islands,18,Z McLaughlin,RJ Trott,KR Ebanks,,0,1,1,,,,31241231241
+1,Cayman Islands,18,KR Ebanks,RJ Trott,Z McLaughlin,,0,0,0,,,,31241231241
+1,Cayman Islands,18,KR Ebanks,RJ Trott,Z McLaughlin,,0,0,0,caught,KR Ebanks,OGL Bascome,31241231241
+1,Cayman Islands,18,Z McLaughlin,RJ Trott,A Morris,,0,1,1,,,,31241231241
+1,Cayman Islands,18,A Morris,RJ Trott,Z McLaughlin,,0,1,1,,,,31241231241
+1,Cayman Islands,18,Z McLaughlin,RJ Trott,A Morris,,0,0,0,,,,31241231241
+1,Cayman Islands,19,A Morris,AC Douglas,Z McLaughlin,,0,0,0,,,,31241231241
+1,Cayman Islands,19,A Morris,AC Douglas,Z McLaughlin,,0,0,0,caught,A Morris,JE Pitcher,31241231241

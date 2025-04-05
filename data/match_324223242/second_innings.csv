@@ -1,0 +1,109 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,South Africa,0,SA Fritz,KDU Prabodhani,T Chetty,,0,0,0,,,,324223242
+2,South Africa,0,SA Fritz,KDU Prabodhani,T Chetty,,0,0,0,,,,324223242
+2,South Africa,0,SA Fritz,KDU Prabodhani,T Chetty,,0,1,1,,,,324223242
+2,South Africa,0,T Chetty,KDU Prabodhani,SA Fritz,,0,0,0,,,,324223242
+2,South Africa,0,T Chetty,KDU Prabodhani,SA Fritz,,0,0,0,,,,324223242
+2,South Africa,0,T Chetty,KDU Prabodhani,SA Fritz,,0,1,1,,,,324223242
+2,South Africa,1,T Chetty,SS Weerakkody,SA Fritz,,0,0,0,,,,324223242
+2,South Africa,1,T Chetty,SS Weerakkody,SA Fritz,,0,4,4,,,,324223242
+2,South Africa,1,T Chetty,SS Weerakkody,SA Fritz,,0,1,1,,,,324223242
+2,South Africa,1,SA Fritz,SS Weerakkody,T Chetty,,0,2,2,,,,324223242
+2,South Africa,1,SA Fritz,SS Weerakkody,T Chetty,,0,0,0,,,,324223242
+2,South Africa,1,SA Fritz,SS Weerakkody,T Chetty,,0,0,0,,,,324223242
+2,South Africa,2,T Chetty,KDU Prabodhani,SA Fritz,,0,0,0,,,,324223242
+2,South Africa,2,T Chetty,KDU Prabodhani,SA Fritz,,0,1,1,,,,324223242
+2,South Africa,2,SA Fritz,KDU Prabodhani,T Chetty,,0,0,0,,,,324223242
+2,South Africa,2,SA Fritz,KDU Prabodhani,T Chetty,,0,4,4,,,,324223242
+2,South Africa,2,SA Fritz,KDU Prabodhani,T Chetty,,0,0,0,,,,324223242
+2,South Africa,2,SA Fritz,KDU Prabodhani,T Chetty,,0,0,0,,,,324223242
+2,South Africa,3,T Chetty,SK Dolawatte,SA Fritz,,0,4,4,,,,324223242
+2,South Africa,3,T Chetty,SK Dolawatte,SA Fritz,,0,1,1,,,,324223242
+2,South Africa,3,SA Fritz,SK Dolawatte,T Chetty,,0,4,4,,,,324223242
+2,South Africa,3,SA Fritz,SK Dolawatte,T Chetty,,0,0,0,,,,324223242
+2,South Africa,3,SA Fritz,SK Dolawatte,T Chetty,,0,0,0,,,,324223242
+2,South Africa,3,SA Fritz,SK Dolawatte,T Chetty,,0,0,0,,,,324223242
+2,South Africa,4,T Chetty,HASD Siriwardene,SA Fritz,,0,2,2,,,,324223242
+2,South Africa,4,T Chetty,HASD Siriwardene,SA Fritz,,0,1,1,,,,324223242
+2,South Africa,4,SA Fritz,HASD Siriwardene,T Chetty,,0,0,0,,,,324223242
+2,South Africa,4,SA Fritz,HASD Siriwardene,T Chetty,,0,0,0,,,,324223242
+2,South Africa,4,SA Fritz,HASD Siriwardene,T Chetty,,0,2,2,,,,324223242
+2,South Africa,4,SA Fritz,HASD Siriwardene,T Chetty,,0,1,1,,,,324223242
+2,South Africa,5,SA Fritz,I Ranaweera,T Chetty,,0,0,0,,,,324223242
+2,South Africa,5,SA Fritz,I Ranaweera,T Chetty,,0,0,0,bowled,SA Fritz,,324223242
+2,South Africa,5,SM Benade,I Ranaweera,T Chetty,,0,1,1,,,,324223242
+2,South Africa,5,T Chetty,I Ranaweera,SM Benade,wides,1,1,0,,,,324223242
+2,South Africa,5,T Chetty,I Ranaweera,SM Benade,,0,0,0,,,,324223242
+2,South Africa,5,T Chetty,I Ranaweera,SM Benade,,0,4,4,,,,324223242
+2,South Africa,5,T Chetty,I Ranaweera,SM Benade,,0,0,0,,,,324223242
+2,South Africa,6,SM Benade,CR Seneviratna,T Chetty,,0,0,0,,,,324223242
+2,South Africa,6,SM Benade,CR Seneviratna,T Chetty,,0,0,0,,,,324223242
+2,South Africa,6,SM Benade,CR Seneviratna,T Chetty,,0,1,1,,,,324223242
+2,South Africa,6,T Chetty,CR Seneviratna,SM Benade,,0,0,0,,,,324223242
+2,South Africa,6,T Chetty,CR Seneviratna,SM Benade,,0,0,0,,,,324223242
+2,South Africa,6,T Chetty,CR Seneviratna,SM Benade,,0,2,2,,,,324223242
+2,South Africa,7,SM Benade,I Ranaweera,T Chetty,,0,0,0,,,,324223242
+2,South Africa,7,SM Benade,I Ranaweera,T Chetty,,0,1,1,,,,324223242
+2,South Africa,7,T Chetty,I Ranaweera,SM Benade,,0,1,1,,,,324223242
+2,South Africa,7,SM Benade,I Ranaweera,T Chetty,,0,1,1,,,,324223242
+2,South Africa,7,T Chetty,I Ranaweera,SM Benade,,0,1,1,,,,324223242
+2,South Africa,7,SM Benade,I Ranaweera,T Chetty,,0,1,1,,,,324223242
+2,South Africa,8,SM Benade,CR Seneviratna,T Chetty,,0,0,0,,,,324223242
+2,South Africa,8,SM Benade,CR Seneviratna,T Chetty,,0,1,1,,,,324223242
+2,South Africa,8,T Chetty,CR Seneviratna,SM Benade,,0,0,0,,,,324223242
+2,South Africa,8,T Chetty,CR Seneviratna,SM Benade,,0,1,1,,,,324223242
+2,South Africa,8,SM Benade,CR Seneviratna,T Chetty,,0,0,0,,,,324223242
+2,South Africa,8,SM Benade,CR Seneviratna,T Chetty,,0,0,0,,,,324223242
+2,South Africa,9,T Chetty,HMD Rasangika,SM Benade,,0,1,1,,,,324223242
+2,South Africa,9,SM Benade,HMD Rasangika,T Chetty,,0,1,1,,,,324223242
+2,South Africa,9,T Chetty,HMD Rasangika,SM Benade,,0,1,1,,,,324223242
+2,South Africa,9,SM Benade,HMD Rasangika,T Chetty,,0,0,0,caught,SM Benade,MADD Surangika,324223242
+2,South Africa,9,M du Preez,HMD Rasangika,T Chetty,,0,4,4,,,,324223242
+2,South Africa,9,M du Preez,HMD Rasangika,T Chetty,,0,1,1,run out,M du Preez,MADD Surangika,324223242
+2,South Africa,10,T Chetty,HASD Siriwardene,D van Niekerk,,0,0,0,,,,324223242
+2,South Africa,10,T Chetty,HASD Siriwardene,D van Niekerk,,0,1,1,,,,324223242
+2,South Africa,10,D van Niekerk,HASD Siriwardene,T Chetty,,0,2,2,,,,324223242
+2,South Africa,10,D van Niekerk,HASD Siriwardene,T Chetty,,0,0,0,,,,324223242
+2,South Africa,10,D van Niekerk,HASD Siriwardene,T Chetty,wides,1,1,0,,,,324223242
+2,South Africa,10,D van Niekerk,HASD Siriwardene,T Chetty,,0,0,0,,,,324223242
+2,South Africa,10,D van Niekerk,HASD Siriwardene,T Chetty,,0,0,0,,,,324223242
+2,South Africa,11,T Chetty,HMD Rasangika,D van Niekerk,,0,0,0,,,,324223242
+2,South Africa,11,T Chetty,HMD Rasangika,D van Niekerk,,0,1,1,,,,324223242
+2,South Africa,11,D van Niekerk,HMD Rasangika,T Chetty,,0,0,0,,,,324223242
+2,South Africa,11,D van Niekerk,HMD Rasangika,T Chetty,,0,1,1,,,,324223242
+2,South Africa,11,T Chetty,HMD Rasangika,D van Niekerk,,0,0,0,,,,324223242
+2,South Africa,11,T Chetty,HMD Rasangika,D van Niekerk,noballs,1,2,1,,,,324223242
+2,South Africa,11,D van Niekerk,HMD Rasangika,T Chetty,,0,2,2,,,,324223242
+2,South Africa,12,T Chetty,HASD Siriwardene,D van Niekerk,,0,0,0,,,,324223242
+2,South Africa,12,T Chetty,HASD Siriwardene,D van Niekerk,,0,0,0,,,,324223242
+2,South Africa,12,T Chetty,HASD Siriwardene,D van Niekerk,,0,1,1,,,,324223242
+2,South Africa,12,D van Niekerk,HASD Siriwardene,T Chetty,,0,1,1,,,,324223242
+2,South Africa,12,T Chetty,HASD Siriwardene,D van Niekerk,,0,0,0,,,,324223242
+2,South Africa,12,T Chetty,HASD Siriwardene,D van Niekerk,,0,1,1,,,,324223242
+2,South Africa,13,T Chetty,I Ranaweera,D van Niekerk,,0,1,1,,,,324223242
+2,South Africa,13,D van Niekerk,I Ranaweera,T Chetty,,0,0,0,,,,324223242
+2,South Africa,13,D van Niekerk,I Ranaweera,T Chetty,,0,0,0,,,,324223242
+2,South Africa,13,D van Niekerk,I Ranaweera,T Chetty,,0,0,0,,,,324223242
+2,South Africa,13,D van Niekerk,I Ranaweera,T Chetty,,0,0,0,,,,324223242
+2,South Africa,13,D van Niekerk,I Ranaweera,T Chetty,,0,1,1,,,,324223242
+2,South Africa,14,D van Niekerk,KDU Prabodhani,T Chetty,,0,0,0,,,,324223242
+2,South Africa,14,D van Niekerk,KDU Prabodhani,T Chetty,,0,1,1,,,,324223242
+2,South Africa,14,T Chetty,KDU Prabodhani,D van Niekerk,,0,0,0,,,,324223242
+2,South Africa,14,T Chetty,KDU Prabodhani,D van Niekerk,,0,1,1,,,,324223242
+2,South Africa,14,D van Niekerk,KDU Prabodhani,T Chetty,,0,0,0,,,,324223242
+2,South Africa,14,D van Niekerk,KDU Prabodhani,T Chetty,,0,0,0,,,,324223242
+2,South Africa,15,T Chetty,I Ranaweera,D van Niekerk,,0,0,0,,,,324223242
+2,South Africa,15,T Chetty,I Ranaweera,D van Niekerk,,0,0,0,caught,T Chetty,HMD Rasangika,324223242
+2,South Africa,15,D van Niekerk,I Ranaweera,M Kapp,,0,0,0,,,,324223242
+2,South Africa,15,D van Niekerk,I Ranaweera,M Kapp,,0,1,1,,,,324223242
+2,South Africa,15,M Kapp,I Ranaweera,D van Niekerk,,0,0,0,,,,324223242
+2,South Africa,15,M Kapp,I Ranaweera,D van Niekerk,,0,1,1,,,,324223242
+2,South Africa,16,M Kapp,HASD Siriwardene,D van Niekerk,,0,1,1,,,,324223242
+2,South Africa,16,D van Niekerk,HASD Siriwardene,M Kapp,,0,2,2,,,,324223242
+2,South Africa,16,D van Niekerk,HASD Siriwardene,M Kapp,,0,0,0,,,,324223242
+2,South Africa,16,D van Niekerk,HASD Siriwardene,M Kapp,,0,0,0,,,,324223242
+2,South Africa,16,D van Niekerk,HASD Siriwardene,M Kapp,,0,0,0,,,,324223242
+2,South Africa,16,D van Niekerk,HASD Siriwardene,M Kapp,,0,1,1,,,,324223242
+2,South Africa,17,D van Niekerk,KDU Prabodhani,M Kapp,,0,3,3,,,,324223242
+2,South Africa,17,M Kapp,KDU Prabodhani,D van Niekerk,,0,0,0,,,,324223242
+2,South Africa,17,M Kapp,KDU Prabodhani,D van Niekerk,noballs,1,1,0,,,,324223242

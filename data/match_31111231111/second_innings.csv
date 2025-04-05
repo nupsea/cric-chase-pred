@@ -1,0 +1,128 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Uganda,0,Z Arinaitwe,SO Ngoche,HB Kayondo,,0,0,0,,,,31111231111
+2,Uganda,0,Z Arinaitwe,SO Ngoche,HB Kayondo,,0,0,0,,,,31111231111
+2,Uganda,0,Z Arinaitwe,SO Ngoche,HB Kayondo,,0,1,1,,,,31111231111
+2,Uganda,0,HB Kayondo,SO Ngoche,Z Arinaitwe,,0,6,6,,,,31111231111
+2,Uganda,0,HB Kayondo,SO Ngoche,Z Arinaitwe,,0,1,1,,,,31111231111
+2,Uganda,0,Z Arinaitwe,SO Ngoche,HB Kayondo,,0,1,1,,,,31111231111
+2,Uganda,1,Z Arinaitwe,E Otieno,HB Kayondo,,0,0,0,,,,31111231111
+2,Uganda,1,Z Arinaitwe,E Otieno,HB Kayondo,,0,4,4,,,,31111231111
+2,Uganda,1,Z Arinaitwe,E Otieno,HB Kayondo,wides,1,1,0,,,,31111231111
+2,Uganda,1,Z Arinaitwe,E Otieno,HB Kayondo,,0,0,0,,,,31111231111
+2,Uganda,1,Z Arinaitwe,E Otieno,HB Kayondo,,0,0,0,,,,31111231111
+2,Uganda,1,Z Arinaitwe,E Otieno,HB Kayondo,,0,0,0,caught,Z Arinaitwe,CO Obuya,31111231111
+2,Uganda,1,RG Mukasa,E Otieno,HB Kayondo,,0,1,1,,,,31111231111
+2,Uganda,2,RG Mukasa,SO Ngoche,HB Kayondo,,0,0,0,,,,31111231111
+2,Uganda,2,RG Mukasa,SO Ngoche,HB Kayondo,,0,1,1,,,,31111231111
+2,Uganda,2,HB Kayondo,SO Ngoche,RG Mukasa,,0,1,1,,,,31111231111
+2,Uganda,2,RG Mukasa,SO Ngoche,HB Kayondo,,0,1,1,,,,31111231111
+2,Uganda,2,HB Kayondo,SO Ngoche,RG Mukasa,,0,1,1,,,,31111231111
+2,Uganda,2,RG Mukasa,SO Ngoche,HB Kayondo,,0,1,1,,,,31111231111
+2,Uganda,3,RG Mukasa,E Otieno,HB Kayondo,,0,0,0,caught,RG Mukasa,CO Obuya,31111231111
+2,Uganda,3,HB Kayondo,E Otieno,A Otwani,,0,1,1,,,,31111231111
+2,Uganda,3,A Otwani,E Otieno,HB Kayondo,,0,0,0,,,,31111231111
+2,Uganda,3,A Otwani,E Otieno,HB Kayondo,wides,1,1,0,,,,31111231111
+2,Uganda,3,A Otwani,E Otieno,HB Kayondo,,0,0,0,,,,31111231111
+2,Uganda,3,A Otwani,E Otieno,HB Kayondo,,0,0,0,,,,31111231111
+2,Uganda,3,A Otwani,E Otieno,HB Kayondo,,0,1,1,,,,31111231111
+2,Uganda,4,A Otwani,LN Oluoch,HB Kayondo,,0,0,0,,,,31111231111
+2,Uganda,4,A Otwani,LN Oluoch,HB Kayondo,,0,0,0,,,,31111231111
+2,Uganda,4,A Otwani,LN Oluoch,HB Kayondo,,0,0,0,,,,31111231111
+2,Uganda,4,A Otwani,LN Oluoch,HB Kayondo,wides,1,1,0,,,,31111231111
+2,Uganda,4,A Otwani,LN Oluoch,HB Kayondo,,0,4,4,,,,31111231111
+2,Uganda,4,A Otwani,LN Oluoch,HB Kayondo,,0,1,1,,,,31111231111
+2,Uganda,4,HB Kayondo,LN Oluoch,A Otwani,,0,0,0,,,,31111231111
+2,Uganda,5,A Otwani,NM Odhiambo,HB Kayondo,,0,4,4,,,,31111231111
+2,Uganda,5,A Otwani,NM Odhiambo,HB Kayondo,,0,0,0,caught,A Otwani,RR Patel,31111231111
+2,Uganda,5,HB Kayondo,NM Odhiambo,DM Nakrani,,0,0,0,,,,31111231111
+2,Uganda,5,HB Kayondo,NM Odhiambo,DM Nakrani,,0,6,6,,,,31111231111
+2,Uganda,5,HB Kayondo,NM Odhiambo,DM Nakrani,,0,1,1,,,,31111231111
+2,Uganda,5,DM Nakrani,NM Odhiambo,HB Kayondo,,0,0,0,,,,31111231111
+2,Uganda,6,HB Kayondo,LN Oluoch,DM Nakrani,,0,1,1,,,,31111231111
+2,Uganda,6,DM Nakrani,LN Oluoch,HB Kayondo,,0,1,1,,,,31111231111
+2,Uganda,6,HB Kayondo,LN Oluoch,DM Nakrani,,0,0,0,,,,31111231111
+2,Uganda,6,HB Kayondo,LN Oluoch,DM Nakrani,,0,2,2,,,,31111231111
+2,Uganda,6,HB Kayondo,LN Oluoch,DM Nakrani,,0,1,1,,,,31111231111
+2,Uganda,6,DM Nakrani,LN Oluoch,HB Kayondo,,0,6,6,,,,31111231111
+2,Uganda,7,HB Kayondo,NM Odhiambo,DM Nakrani,,0,0,0,,,,31111231111
+2,Uganda,7,HB Kayondo,NM Odhiambo,DM Nakrani,,0,2,2,,,,31111231111
+2,Uganda,7,HB Kayondo,NM Odhiambo,DM Nakrani,,0,0,0,,,,31111231111
+2,Uganda,7,HB Kayondo,NM Odhiambo,DM Nakrani,wides,1,1,0,,,,31111231111
+2,Uganda,7,HB Kayondo,NM Odhiambo,DM Nakrani,,0,1,1,,,,31111231111
+2,Uganda,7,DM Nakrani,NM Odhiambo,HB Kayondo,,0,1,1,,,,31111231111
+2,Uganda,7,HB Kayondo,NM Odhiambo,DM Nakrani,,0,1,1,,,,31111231111
+2,Uganda,8,HB Kayondo,SR Bhudia,DM Nakrani,,0,1,1,,,,31111231111
+2,Uganda,8,DM Nakrani,SR Bhudia,HB Kayondo,,0,1,1,,,,31111231111
+2,Uganda,8,HB Kayondo,SR Bhudia,DM Nakrani,,0,0,0,,,,31111231111
+2,Uganda,8,HB Kayondo,SR Bhudia,DM Nakrani,,0,4,4,,,,31111231111
+2,Uganda,8,HB Kayondo,SR Bhudia,DM Nakrani,,0,1,1,,,,31111231111
+2,Uganda,8,DM Nakrani,SR Bhudia,HB Kayondo,,0,0,0,,,,31111231111
+2,Uganda,9,HB Kayondo,NM Odhiambo,DM Nakrani,,0,0,0,caught,HB Kayondo,SO Ngoche,31111231111
+2,Uganda,9,DM Nakrani,NM Odhiambo,Riazat Ali Shah,,0,1,1,,,,31111231111
+2,Uganda,9,Riazat Ali Shah,NM Odhiambo,DM Nakrani,,0,1,1,,,,31111231111
+2,Uganda,9,DM Nakrani,NM Odhiambo,Riazat Ali Shah,,0,4,4,,,,31111231111
+2,Uganda,9,DM Nakrani,NM Odhiambo,Riazat Ali Shah,,0,1,1,,,,31111231111
+2,Uganda,9,Riazat Ali Shah,NM Odhiambo,DM Nakrani,,0,1,1,,,,31111231111
+2,Uganda,10,Riazat Ali Shah,SO Ngoche,DM Nakrani,,0,1,1,,,,31111231111
+2,Uganda,10,DM Nakrani,SO Ngoche,Riazat Ali Shah,,0,1,1,,,,31111231111
+2,Uganda,10,Riazat Ali Shah,SO Ngoche,DM Nakrani,,0,0,0,,,,31111231111
+2,Uganda,10,Riazat Ali Shah,SO Ngoche,DM Nakrani,,0,0,0,,,,31111231111
+2,Uganda,10,Riazat Ali Shah,SO Ngoche,DM Nakrani,,0,0,0,,,,31111231111
+2,Uganda,10,Riazat Ali Shah,SO Ngoche,DM Nakrani,,0,0,0,,,,31111231111
+2,Uganda,11,DM Nakrani,SR Bhudia,Riazat Ali Shah,,0,1,1,,,,31111231111
+2,Uganda,11,Riazat Ali Shah,SR Bhudia,DM Nakrani,,0,0,0,,,,31111231111
+2,Uganda,11,Riazat Ali Shah,SR Bhudia,DM Nakrani,,0,1,1,,,,31111231111
+2,Uganda,11,DM Nakrani,SR Bhudia,Riazat Ali Shah,,0,1,1,,,,31111231111
+2,Uganda,11,Riazat Ali Shah,SR Bhudia,DM Nakrani,,0,1,1,,,,31111231111
+2,Uganda,11,DM Nakrani,SR Bhudia,Riazat Ali Shah,,0,1,1,,,,31111231111
+2,Uganda,12,DM Nakrani,SO Ngoche,Riazat Ali Shah,,0,0,0,caught,DM Nakrani,DM Gondaria,31111231111
+2,Uganda,12,Riazat Ali Shah,SO Ngoche,D Muhumuza,,0,0,0,,,,31111231111
+2,Uganda,12,Riazat Ali Shah,SO Ngoche,D Muhumuza,,0,0,0,,,,31111231111
+2,Uganda,12,Riazat Ali Shah,SO Ngoche,D Muhumuza,,0,4,4,,,,31111231111
+2,Uganda,12,Riazat Ali Shah,SO Ngoche,D Muhumuza,,0,0,0,,,,31111231111
+2,Uganda,12,Riazat Ali Shah,SO Ngoche,D Muhumuza,,0,1,1,,,,31111231111
+2,Uganda,13,Riazat Ali Shah,SR Bhudia,D Muhumuza,,0,1,1,,,,31111231111
+2,Uganda,13,D Muhumuza,SR Bhudia,Riazat Ali Shah,,0,1,1,,,,31111231111
+2,Uganda,13,Riazat Ali Shah,SR Bhudia,D Muhumuza,,0,1,1,,,,31111231111
+2,Uganda,13,D Muhumuza,SR Bhudia,Riazat Ali Shah,wides,1,1,0,,,,31111231111
+2,Uganda,13,D Muhumuza,SR Bhudia,Riazat Ali Shah,,0,1,1,,,,31111231111
+2,Uganda,13,Riazat Ali Shah,SR Bhudia,D Muhumuza,,0,4,4,,,,31111231111
+2,Uganda,13,Riazat Ali Shah,SR Bhudia,D Muhumuza,,0,1,1,,,,31111231111
+2,Uganda,14,Riazat Ali Shah,CO Obuya,D Muhumuza,,0,1,1,,,,31111231111
+2,Uganda,14,D Muhumuza,CO Obuya,Riazat Ali Shah,,0,0,0,,,,31111231111
+2,Uganda,14,D Muhumuza,CO Obuya,Riazat Ali Shah,,0,1,1,,,,31111231111
+2,Uganda,14,Riazat Ali Shah,CO Obuya,D Muhumuza,,0,1,1,,,,31111231111
+2,Uganda,14,D Muhumuza,CO Obuya,Riazat Ali Shah,,0,0,0,bowled,D Muhumuza,,31111231111
+2,Uganda,14,R Olipa,CO Obuya,Riazat Ali Shah,,0,1,1,,,,31111231111
+2,Uganda,15,R Olipa,NM Odhiambo,Riazat Ali Shah,,0,1,1,,,,31111231111
+2,Uganda,15,Riazat Ali Shah,NM Odhiambo,R Olipa,,0,1,1,,,,31111231111
+2,Uganda,15,R Olipa,NM Odhiambo,Riazat Ali Shah,,0,1,1,,,,31111231111
+2,Uganda,15,Riazat Ali Shah,NM Odhiambo,R Olipa,,0,1,1,,,,31111231111
+2,Uganda,15,R Olipa,NM Odhiambo,Riazat Ali Shah,,0,0,0,bowled,R Olipa,,31111231111
+2,Uganda,15,F Nsubuga,NM Odhiambo,Riazat Ali Shah,,0,1,1,,,,31111231111
+2,Uganda,16,F Nsubuga,CO Obuya,Riazat Ali Shah,,0,0,0,,,,31111231111
+2,Uganda,16,F Nsubuga,CO Obuya,Riazat Ali Shah,,0,0,0,,,,31111231111
+2,Uganda,16,F Nsubuga,CO Obuya,Riazat Ali Shah,,0,0,0,,,,31111231111
+2,Uganda,16,F Nsubuga,CO Obuya,Riazat Ali Shah,wides,2,2,0,,,,31111231111
+2,Uganda,16,Riazat Ali Shah,CO Obuya,F Nsubuga,,0,0,0,,,,31111231111
+2,Uganda,16,Riazat Ali Shah,CO Obuya,F Nsubuga,,0,1,1,,,,31111231111
+2,Uganda,16,F Nsubuga,CO Obuya,Riazat Ali Shah,,0,0,0,,,,31111231111
+2,Uganda,17,Riazat Ali Shah,E Otieno,F Nsubuga,,0,1,1,,,,31111231111
+2,Uganda,17,F Nsubuga,E Otieno,Riazat Ali Shah,,0,1,1,,,,31111231111
+2,Uganda,17,Riazat Ali Shah,E Otieno,F Nsubuga,,0,1,1,,,,31111231111
+2,Uganda,17,F Nsubuga,E Otieno,Riazat Ali Shah,legbyes,1,1,0,,,,31111231111
+2,Uganda,17,Riazat Ali Shah,E Otieno,F Nsubuga,,0,1,1,,,,31111231111
+2,Uganda,17,F Nsubuga,E Otieno,Riazat Ali Shah,,0,6,6,,,,31111231111
+2,Uganda,18,Riazat Ali Shah,LN Oluoch,F Nsubuga,,0,1,1,,,,31111231111
+2,Uganda,18,F Nsubuga,LN Oluoch,Riazat Ali Shah,,0,0,0,,,,31111231111
+2,Uganda,18,F Nsubuga,LN Oluoch,Riazat Ali Shah,,0,1,1,,,,31111231111
+2,Uganda,18,Riazat Ali Shah,LN Oluoch,F Nsubuga,,0,0,0,,,,31111231111
+2,Uganda,18,Riazat Ali Shah,LN Oluoch,F Nsubuga,,0,6,6,,,,31111231111
+2,Uganda,18,Riazat Ali Shah,LN Oluoch,F Nsubuga,,0,1,1,,,,31111231111
+2,Uganda,19,Riazat Ali Shah,E Otieno,F Nsubuga,wides,1,1,0,,,,31111231111
+2,Uganda,19,Riazat Ali Shah,E Otieno,F Nsubuga,,0,1,1,,,,31111231111
+2,Uganda,19,F Nsubuga,E Otieno,Riazat Ali Shah,,0,0,0,bowled,F Nsubuga,,31111231111
+2,Uganda,19,C Waiswa,E Otieno,Riazat Ali Shah,,0,6,6,,,,31111231111
+2,Uganda,19,C Waiswa,E Otieno,Riazat Ali Shah,,0,0,0,run out,C Waiswa,,31111231111
+2,Uganda,19,Riazat Ali Shah,E Otieno,H Ssenyondo,,0,4,4,,,,31111231111
+2,Uganda,19,Riazat Ali Shah,E Otieno,H Ssenyondo,,0,6,6,,,,31111231111

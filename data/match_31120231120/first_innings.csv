@@ -1,0 +1,99 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Denmark,0,ND Laegsgaard,JL Martel,HAM Shah,wides,1,1,0,,,,31120231120
+1,Denmark,0,ND Laegsgaard,JL Martel,HAM Shah,,0,4,4,,,,31120231120
+1,Denmark,0,ND Laegsgaard,JL Martel,HAM Shah,,0,0,0,,,,31120231120
+1,Denmark,0,ND Laegsgaard,JL Martel,HAM Shah,,0,3,3,,,,31120231120
+1,Denmark,0,HAM Shah,JL Martel,ND Laegsgaard,,0,1,1,,,,31120231120
+1,Denmark,0,ND Laegsgaard,JL Martel,HAM Shah,,0,0,0,,,,31120231120
+1,Denmark,0,ND Laegsgaard,JL Martel,HAM Shah,,0,4,4,,,,31120231120
+1,Denmark,1,HAM Shah,W Peatfield,ND Laegsgaard,,0,4,4,,,,31120231120
+1,Denmark,1,HAM Shah,W Peatfield,ND Laegsgaard,,0,1,1,,,,31120231120
+1,Denmark,1,ND Laegsgaard,W Peatfield,HAM Shah,,0,4,4,,,,31120231120
+1,Denmark,1,ND Laegsgaard,W Peatfield,HAM Shah,,0,4,4,,,,31120231120
+1,Denmark,1,ND Laegsgaard,W Peatfield,HAM Shah,,0,4,4,,,,31120231120
+1,Denmark,1,ND Laegsgaard,W Peatfield,HAM Shah,,0,0,0,,,,31120231120
+1,Denmark,2,HAM Shah,ACF Stokes,ND Laegsgaard,,0,0,0,,,,31120231120
+1,Denmark,2,HAM Shah,ACF Stokes,ND Laegsgaard,,0,0,0,,,,31120231120
+1,Denmark,2,HAM Shah,ACF Stokes,ND Laegsgaard,,0,1,1,,,,31120231120
+1,Denmark,2,ND Laegsgaard,ACF Stokes,HAM Shah,,0,0,0,,,,31120231120
+1,Denmark,2,ND Laegsgaard,ACF Stokes,HAM Shah,,0,0,0,,,,31120231120
+1,Denmark,2,ND Laegsgaard,ACF Stokes,HAM Shah,,0,4,4,,,,31120231120
+1,Denmark,3,HAM Shah,W Peatfield,ND Laegsgaard,,0,0,0,,,,31120231120
+1,Denmark,3,HAM Shah,W Peatfield,ND Laegsgaard,,0,1,1,,,,31120231120
+1,Denmark,3,ND Laegsgaard,W Peatfield,HAM Shah,,0,2,2,,,,31120231120
+1,Denmark,3,ND Laegsgaard,W Peatfield,HAM Shah,,0,0,0,,,,31120231120
+1,Denmark,3,ND Laegsgaard,W Peatfield,HAM Shah,,0,0,0,,,,31120231120
+1,Denmark,3,ND Laegsgaard,W Peatfield,HAM Shah,,0,1,1,,,,31120231120
+1,Denmark,4,ND Laegsgaard,ACF Stokes,HAM Shah,,0,2,2,,,,31120231120
+1,Denmark,4,ND Laegsgaard,ACF Stokes,HAM Shah,,0,0,0,,,,31120231120
+1,Denmark,4,ND Laegsgaard,ACF Stokes,HAM Shah,,0,1,1,,,,31120231120
+1,Denmark,4,HAM Shah,ACF Stokes,ND Laegsgaard,,0,2,2,,,,31120231120
+1,Denmark,4,HAM Shah,ACF Stokes,ND Laegsgaard,,0,1,1,,,,31120231120
+1,Denmark,4,ND Laegsgaard,ACF Stokes,HAM Shah,,0,4,4,,,,31120231120
+1,Denmark,5,HAM Shah,JL Martel,ND Laegsgaard,,0,0,0,,,,31120231120
+1,Denmark,5,HAM Shah,JL Martel,ND Laegsgaard,,0,1,1,,,,31120231120
+1,Denmark,5,ND Laegsgaard,JL Martel,HAM Shah,,0,1,1,,,,31120231120
+1,Denmark,5,HAM Shah,JL Martel,ND Laegsgaard,,0,0,0,,,,31120231120
+1,Denmark,5,HAM Shah,JL Martel,ND Laegsgaard,,0,1,1,,,,31120231120
+1,Denmark,5,ND Laegsgaard,JL Martel,HAM Shah,legbyes,1,1,0,,,,31120231120
+1,Denmark,6,ND Laegsgaard,DR Hooper,HAM Shah,,0,1,1,,,,31120231120
+1,Denmark,6,HAM Shah,DR Hooper,ND Laegsgaard,,0,1,1,,,,31120231120
+1,Denmark,6,ND Laegsgaard,DR Hooper,HAM Shah,,0,0,0,caught,ND Laegsgaard,OE Newey,31120231120
+1,Denmark,6,T Bharaj,DR Hooper,HAM Shah,,0,1,1,,,,31120231120
+1,Denmark,6,HAM Shah,DR Hooper,T Bharaj,,0,0,0,,,,31120231120
+1,Denmark,6,HAM Shah,DR Hooper,T Bharaj,,0,0,0,bowled,HAM Shah,,31120231120
+1,Denmark,7,T Bharaj,LC Le Tissier,Anique Uddin,,0,1,1,,,,31120231120
+1,Denmark,7,Anique Uddin,LC Le Tissier,T Bharaj,,0,0,0,,,,31120231120
+1,Denmark,7,Anique Uddin,LC Le Tissier,T Bharaj,,0,1,1,,,,31120231120
+1,Denmark,7,T Bharaj,LC Le Tissier,Anique Uddin,,0,0,0,,,,31120231120
+1,Denmark,7,T Bharaj,LC Le Tissier,Anique Uddin,,0,0,0,,,,31120231120
+1,Denmark,7,T Bharaj,LC Le Tissier,Anique Uddin,,0,0,0,,,,31120231120
+1,Denmark,8,Anique Uddin,DR Hooper,T Bharaj,,0,1,1,,,,31120231120
+1,Denmark,8,T Bharaj,DR Hooper,Anique Uddin,,0,0,0,,,,31120231120
+1,Denmark,8,T Bharaj,DR Hooper,Anique Uddin,,0,0,0,bowled,T Bharaj,,31120231120
+1,Denmark,8,Zishan Shah,DR Hooper,Anique Uddin,,0,1,1,,,,31120231120
+1,Denmark,8,Anique Uddin,DR Hooper,Zishan Shah,,0,0,0,,,,31120231120
+1,Denmark,8,Anique Uddin,DR Hooper,Zishan Shah,,0,0,0,,,,31120231120
+1,Denmark,9,Zishan Shah,LC Le Tissier,Anique Uddin,,0,2,2,,,,31120231120
+1,Denmark,9,Zishan Shah,LC Le Tissier,Anique Uddin,,0,1,1,,,,31120231120
+1,Denmark,9,Anique Uddin,LC Le Tissier,Zishan Shah,,0,1,1,,,,31120231120
+1,Denmark,9,Zishan Shah,LC Le Tissier,Anique Uddin,,0,1,1,,,,31120231120
+1,Denmark,9,Anique Uddin,LC Le Tissier,Zishan Shah,,0,1,1,,,,31120231120
+1,Denmark,9,Zishan Shah,LC Le Tissier,Anique Uddin,,0,0,0,,,,31120231120
+1,Denmark,10,Anique Uddin,JL Martel,Zishan Shah,,0,2,2,,,,31120231120
+1,Denmark,10,Anique Uddin,JL Martel,Zishan Shah,,0,1,1,,,,31120231120
+1,Denmark,10,Zishan Shah,JL Martel,Anique Uddin,,0,0,0,,,,31120231120
+1,Denmark,10,Zishan Shah,JL Martel,Anique Uddin,,0,0,0,,,,31120231120
+1,Denmark,10,Zishan Shah,JL Martel,Anique Uddin,,0,0,0,,,,31120231120
+1,Denmark,10,Zishan Shah,JL Martel,Anique Uddin,,0,1,1,,,,31120231120
+1,Denmark,11,Zishan Shah,LC Le Tissier,Anique Uddin,,0,1,1,,,,31120231120
+1,Denmark,11,Anique Uddin,LC Le Tissier,Zishan Shah,,0,2,2,,,,31120231120
+1,Denmark,11,Anique Uddin,LC Le Tissier,Zishan Shah,,0,2,2,,,,31120231120
+1,Denmark,11,Anique Uddin,LC Le Tissier,Zishan Shah,,0,0,0,,,,31120231120
+1,Denmark,11,Anique Uddin,LC Le Tissier,Zishan Shah,,0,1,1,,,,31120231120
+1,Denmark,11,Zishan Shah,LC Le Tissier,Anique Uddin,,0,1,1,,,,31120231120
+1,Denmark,12,Zishan Shah,ACF Stokes,Anique Uddin,legbyes,1,1,0,,,,31120231120
+1,Denmark,12,Anique Uddin,ACF Stokes,Zishan Shah,,0,1,1,,,,31120231120
+1,Denmark,12,Zishan Shah,ACF Stokes,Anique Uddin,,0,0,0,,,,31120231120
+1,Denmark,12,Zishan Shah,ACF Stokes,Anique Uddin,,0,1,1,,,,31120231120
+1,Denmark,12,Anique Uddin,ACF Stokes,Zishan Shah,,0,0,0,,,,31120231120
+1,Denmark,12,Anique Uddin,ACF Stokes,Zishan Shah,,0,0,0,,,,31120231120
+1,Denmark,13,Zishan Shah,LC Le Tissier,Anique Uddin,,0,2,2,,,,31120231120
+1,Denmark,13,Zishan Shah,LC Le Tissier,Anique Uddin,,0,1,1,,,,31120231120
+1,Denmark,13,Anique Uddin,LC Le Tissier,Zishan Shah,,0,0,0,caught,Anique Uddin,LB Ferbrache,31120231120
+1,Denmark,13,Zishan Shah,LC Le Tissier,Delawar Khan,,0,2,2,,,,31120231120
+1,Denmark,13,Zishan Shah,LC Le Tissier,Delawar Khan,,0,0,0,bowled,Zishan Shah,,31120231120
+1,Denmark,13,Rizwan Mahmood,LC Le Tissier,Delawar Khan,,0,1,1,,,,31120231120
+1,Denmark,14,Rizwan Mahmood,JL Martel,Delawar Khan,,0,1,1,,,,31120231120
+1,Denmark,14,Delawar Khan,JL Martel,Rizwan Mahmood,wides,1,1,0,,,,31120231120
+1,Denmark,14,Delawar Khan,JL Martel,Rizwan Mahmood,,0,0,0,caught,Delawar Khan,J Butler,31120231120
+1,Denmark,14,Rizwan Mahmood,JL Martel,OD Hald,,0,1,1,,,,31120231120
+1,Denmark,14,OD Hald,JL Martel,Rizwan Mahmood,,0,1,1,,,,31120231120
+1,Denmark,14,Rizwan Mahmood,JL Martel,OD Hald,,0,1,1,run out,OD Hald,,31120231120
+1,Denmark,14,Rizwan Mahmood,JL Martel,Abdul Hashim,,0,0,0,caught,Rizwan Mahmood,OE Newey,31120231120
+1,Denmark,15,Abdul Hashim,W Peatfield,J Jojo,,0,0,0,,,,31120231120
+1,Denmark,15,Abdul Hashim,W Peatfield,J Jojo,,0,0,0,bowled,Abdul Hashim,,31120231120
+1,Denmark,15,SA Ahmad,W Peatfield,J Jojo,,0,1,1,,,,31120231120
+1,Denmark,15,J Jojo,W Peatfield,SA Ahmad,,0,4,4,,,,31120231120
+1,Denmark,15,J Jojo,W Peatfield,SA Ahmad,,0,3,3,,,,31120231120
+1,Denmark,15,SA Ahmad,W Peatfield,J Jojo,,0,1,1,,,,31120231120

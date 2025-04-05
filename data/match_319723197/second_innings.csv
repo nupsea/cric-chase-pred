@@ -1,0 +1,102 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,South Africa,0,RE Levi,NL McCullum,HM Amla,,0,1,1,,,,319723197
+2,South Africa,0,HM Amla,NL McCullum,RE Levi,,0,1,1,,,,319723197
+2,South Africa,0,RE Levi,NL McCullum,HM Amla,,0,0,0,,,,319723197
+2,South Africa,0,RE Levi,NL McCullum,HM Amla,,0,6,6,,,,319723197
+2,South Africa,0,RE Levi,NL McCullum,HM Amla,,0,0,0,,,,319723197
+2,South Africa,0,RE Levi,NL McCullum,HM Amla,,0,0,0,,,,319723197
+2,South Africa,1,HM Amla,DAJ Bracewell,RE Levi,,0,1,1,,,,319723197
+2,South Africa,1,RE Levi,DAJ Bracewell,HM Amla,,0,6,6,,,,319723197
+2,South Africa,1,RE Levi,DAJ Bracewell,HM Amla,,0,0,0,,,,319723197
+2,South Africa,1,RE Levi,DAJ Bracewell,HM Amla,,0,6,6,,,,319723197
+2,South Africa,1,RE Levi,DAJ Bracewell,HM Amla,,0,4,4,,,,319723197
+2,South Africa,1,RE Levi,DAJ Bracewell,HM Amla,,0,0,0,,,,319723197
+2,South Africa,2,HM Amla,NL McCullum,RE Levi,,0,0,0,caught,HM Amla,JEC Franklin,319723197
+2,South Africa,2,RE Levi,NL McCullum,WD Parnell,,0,0,0,,,,319723197
+2,South Africa,2,RE Levi,NL McCullum,WD Parnell,wides,5,5,0,,,,319723197
+2,South Africa,2,RE Levi,NL McCullum,WD Parnell,,0,1,1,,,,319723197
+2,South Africa,2,WD Parnell,NL McCullum,RE Levi,,0,0,0,,,,319723197
+2,South Africa,2,WD Parnell,NL McCullum,RE Levi,,0,0,0,,,,319723197
+2,South Africa,2,WD Parnell,NL McCullum,RE Levi,,0,4,4,,,,319723197
+2,South Africa,3,RE Levi,TG Southee,WD Parnell,,0,4,4,,,,319723197
+2,South Africa,3,RE Levi,TG Southee,WD Parnell,,0,0,0,,,,319723197
+2,South Africa,3,RE Levi,TG Southee,WD Parnell,,0,0,0,,,,319723197
+2,South Africa,3,RE Levi,TG Southee,WD Parnell,,0,1,1,,,,319723197
+2,South Africa,3,WD Parnell,TG Southee,RE Levi,,0,0,0,,,,319723197
+2,South Africa,3,WD Parnell,TG Southee,RE Levi,,0,0,0,,,,319723197
+2,South Africa,4,RE Levi,RJ Nicol,WD Parnell,legbyes,1,1,0,,,,319723197
+2,South Africa,4,WD Parnell,RJ Nicol,RE Levi,,0,0,0,stumped,WD Parnell,BB McCullum,319723197
+2,South Africa,4,AB de Villiers,RJ Nicol,RE Levi,,0,1,1,,,,319723197
+2,South Africa,4,RE Levi,RJ Nicol,AB de Villiers,wides,2,2,0,,,,319723197
+2,South Africa,4,AB de Villiers,RJ Nicol,RE Levi,,0,0,0,,,,319723197
+2,South Africa,4,AB de Villiers,RJ Nicol,RE Levi,,0,1,1,,,,319723197
+2,South Africa,4,RE Levi,RJ Nicol,AB de Villiers,,0,6,6,,,,319723197
+2,South Africa,5,AB de Villiers,TG Southee,RE Levi,,0,0,0,,,,319723197
+2,South Africa,5,AB de Villiers,TG Southee,RE Levi,,0,4,4,,,,319723197
+2,South Africa,5,AB de Villiers,TG Southee,RE Levi,,0,1,1,,,,319723197
+2,South Africa,5,RE Levi,TG Southee,AB de Villiers,,0,6,6,,,,319723197
+2,South Africa,5,RE Levi,TG Southee,AB de Villiers,,0,0,0,,,,319723197
+2,South Africa,5,RE Levi,TG Southee,AB de Villiers,,0,1,1,,,,319723197
+2,South Africa,6,RE Levi,RM Hira,AB de Villiers,,0,6,6,,,,319723197
+2,South Africa,6,RE Levi,RM Hira,AB de Villiers,,0,0,0,,,,319723197
+2,South Africa,6,RE Levi,RM Hira,AB de Villiers,,0,1,1,,,,319723197
+2,South Africa,6,AB de Villiers,RM Hira,RE Levi,,0,1,1,,,,319723197
+2,South Africa,6,RE Levi,RM Hira,AB de Villiers,,0,1,1,,,,319723197
+2,South Africa,6,AB de Villiers,RM Hira,RE Levi,,0,0,0,,,,319723197
+2,South Africa,7,RE Levi,KD Mills,AB de Villiers,,0,1,1,,,,319723197
+2,South Africa,7,AB de Villiers,KD Mills,RE Levi,,0,1,1,,,,319723197
+2,South Africa,7,RE Levi,KD Mills,AB de Villiers,,0,6,6,,,,319723197
+2,South Africa,7,RE Levi,KD Mills,AB de Villiers,,0,0,0,,,,319723197
+2,South Africa,7,RE Levi,KD Mills,AB de Villiers,,0,1,1,,,,319723197
+2,South Africa,7,AB de Villiers,KD Mills,RE Levi,,0,1,1,,,,319723197
+2,South Africa,8,AB de Villiers,JEC Franklin,RE Levi,,0,1,1,,,,319723197
+2,South Africa,8,RE Levi,JEC Franklin,AB de Villiers,,0,1,1,,,,319723197
+2,South Africa,8,AB de Villiers,JEC Franklin,RE Levi,,0,1,1,,,,319723197
+2,South Africa,8,RE Levi,JEC Franklin,AB de Villiers,,0,1,1,,,,319723197
+2,South Africa,8,AB de Villiers,JEC Franklin,RE Levi,,0,2,2,,,,319723197
+2,South Africa,8,AB de Villiers,JEC Franklin,RE Levi,,0,1,1,,,,319723197
+2,South Africa,9,AB de Villiers,KD Mills,RE Levi,,0,4,4,,,,319723197
+2,South Africa,9,AB de Villiers,KD Mills,RE Levi,,0,0,0,,,,319723197
+2,South Africa,9,AB de Villiers,KD Mills,RE Levi,,0,1,1,,,,319723197
+2,South Africa,9,RE Levi,KD Mills,AB de Villiers,,0,6,6,,,,319723197
+2,South Africa,9,RE Levi,KD Mills,AB de Villiers,,0,4,4,,,,319723197
+2,South Africa,9,RE Levi,KD Mills,AB de Villiers,,0,1,1,,,,319723197
+2,South Africa,10,RE Levi,RM Hira,AB de Villiers,,0,0,0,,,,319723197
+2,South Africa,10,RE Levi,RM Hira,AB de Villiers,,0,1,1,,,,319723197
+2,South Africa,10,AB de Villiers,RM Hira,RE Levi,,0,0,0,,,,319723197
+2,South Africa,10,AB de Villiers,RM Hira,RE Levi,wides,1,1,0,,,,319723197
+2,South Africa,10,AB de Villiers,RM Hira,RE Levi,,0,1,1,,,,319723197
+2,South Africa,10,RE Levi,RM Hira,AB de Villiers,,0,0,0,,,,319723197
+2,South Africa,10,RE Levi,RM Hira,AB de Villiers,,0,6,6,,,,319723197
+2,South Africa,11,AB de Villiers,DAJ Bracewell,RE Levi,,0,1,1,,,,319723197
+2,South Africa,11,RE Levi,DAJ Bracewell,AB de Villiers,,0,6,6,,,,319723197
+2,South Africa,11,RE Levi,DAJ Bracewell,AB de Villiers,,0,6,6,,,,319723197
+2,South Africa,11,RE Levi,DAJ Bracewell,AB de Villiers,legbyes,1,1,0,,,,319723197
+2,South Africa,11,AB de Villiers,DAJ Bracewell,RE Levi,,0,1,1,,,,319723197
+2,South Africa,11,RE Levi,DAJ Bracewell,AB de Villiers,,0,6,6,,,,319723197
+2,South Africa,12,AB de Villiers,RM Hira,RE Levi,,0,0,0,,,,319723197
+2,South Africa,12,AB de Villiers,RM Hira,RE Levi,,0,1,1,,,,319723197
+2,South Africa,12,RE Levi,RM Hira,AB de Villiers,,0,1,1,,,,319723197
+2,South Africa,12,AB de Villiers,RM Hira,RE Levi,,0,0,0,,,,319723197
+2,South Africa,12,AB de Villiers,RM Hira,RE Levi,,0,0,0,,,,319723197
+2,South Africa,12,AB de Villiers,RM Hira,RE Levi,,0,0,0,,,,319723197
+2,South Africa,13,RE Levi,TG Southee,AB de Villiers,,0,2,2,,,,319723197
+2,South Africa,13,RE Levi,TG Southee,AB de Villiers,,0,1,1,,,,319723197
+2,South Africa,13,AB de Villiers,TG Southee,RE Levi,,0,0,0,,,,319723197
+2,South Africa,13,AB de Villiers,TG Southee,RE Levi,wides,1,1,0,,,,319723197
+2,South Africa,13,AB de Villiers,TG Southee,RE Levi,,0,2,2,,,,319723197
+2,South Africa,13,AB de Villiers,TG Southee,RE Levi,,0,4,4,,,,319723197
+2,South Africa,13,AB de Villiers,TG Southee,RE Levi,,0,0,0,,,,319723197
+2,South Africa,14,RE Levi,RM Hira,AB de Villiers,,0,1,1,,,,319723197
+2,South Africa,14,AB de Villiers,RM Hira,RE Levi,,0,1,1,,,,319723197
+2,South Africa,14,RE Levi,RM Hira,AB de Villiers,,0,4,4,,,,319723197
+2,South Africa,14,RE Levi,RM Hira,AB de Villiers,,0,1,1,,,,319723197
+2,South Africa,14,AB de Villiers,RM Hira,RE Levi,,0,1,1,,,,319723197
+2,South Africa,14,RE Levi,RM Hira,AB de Villiers,,0,6,6,,,,319723197
+2,South Africa,15,AB de Villiers,TG Southee,RE Levi,,0,0,0,,,,319723197
+2,South Africa,15,AB de Villiers,TG Southee,RE Levi,,0,2,2,,,,319723197
+2,South Africa,15,AB de Villiers,TG Southee,RE Levi,,0,1,1,,,,319723197
+2,South Africa,15,RE Levi,TG Southee,AB de Villiers,wides,1,1,0,,,,319723197
+2,South Africa,15,RE Levi,TG Southee,AB de Villiers,,0,4,4,,,,319723197
+2,South Africa,15,RE Levi,TG Southee,AB de Villiers,,0,1,1,,,,319723197
+2,South Africa,15,AB de Villiers,TG Southee,RE Levi,,0,4,4,,,,319723197

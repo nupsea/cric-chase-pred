@@ -1,0 +1,113 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Luxembourg,0,TC Barker,A Nathwani,G Venkateswaran,wides,1,1,0,,,,32145232145
+2,Luxembourg,0,TC Barker,A Nathwani,G Venkateswaran,,0,0,0,,,,32145232145
+2,Luxembourg,0,TC Barker,A Nathwani,G Venkateswaran,,0,4,4,,,,32145232145
+2,Luxembourg,0,TC Barker,A Nathwani,G Venkateswaran,,0,0,0,,,,32145232145
+2,Luxembourg,0,TC Barker,A Nathwani,G Venkateswaran,,0,0,0,,,,32145232145
+2,Luxembourg,0,TC Barker,A Nathwani,G Venkateswaran,,0,0,0,,,,32145232145
+2,Luxembourg,0,TC Barker,A Nathwani,G Venkateswaran,,0,1,1,,,,32145232145
+2,Luxembourg,1,TC Barker,Aqib Iqbal,G Venkateswaran,,0,0,0,,,,32145232145
+2,Luxembourg,1,TC Barker,Aqib Iqbal,G Venkateswaran,,0,0,0,,,,32145232145
+2,Luxembourg,1,TC Barker,Aqib Iqbal,G Venkateswaran,,0,0,0,,,,32145232145
+2,Luxembourg,1,TC Barker,Aqib Iqbal,G Venkateswaran,,0,1,1,,,,32145232145
+2,Luxembourg,1,G Venkateswaran,Aqib Iqbal,TC Barker,wides,1,1,0,,,,32145232145
+2,Luxembourg,1,G Venkateswaran,Aqib Iqbal,TC Barker,,0,4,4,,,,32145232145
+2,Luxembourg,1,G Venkateswaran,Aqib Iqbal,TC Barker,,0,0,0,run out,G Venkateswaran,Sahel Zadran,32145232145
+2,Luxembourg,2,J Mees,A Nathwani,TC Barker,,0,0,0,,,,32145232145
+2,Luxembourg,2,J Mees,A Nathwani,TC Barker,,0,1,1,,,,32145232145
+2,Luxembourg,2,TC Barker,A Nathwani,J Mees,,0,0,0,,,,32145232145
+2,Luxembourg,2,TC Barker,A Nathwani,J Mees,,0,1,1,,,,32145232145
+2,Luxembourg,2,J Mees,A Nathwani,TC Barker,,0,4,4,,,,32145232145
+2,Luxembourg,2,J Mees,A Nathwani,TC Barker,,0,2,2,,,,32145232145
+2,Luxembourg,3,TC Barker,Aqib Iqbal,J Mees,legbyes,2,2,0,,,,32145232145
+2,Luxembourg,3,TC Barker,Aqib Iqbal,J Mees,,0,0,0,,,,32145232145
+2,Luxembourg,3,TC Barker,Aqib Iqbal,J Mees,,0,4,4,,,,32145232145
+2,Luxembourg,3,TC Barker,Aqib Iqbal,J Mees,,0,1,1,,,,32145232145
+2,Luxembourg,3,J Mees,Aqib Iqbal,TC Barker,,0,1,1,,,,32145232145
+2,Luxembourg,3,TC Barker,Aqib Iqbal,J Mees,,0,0,0,,,,32145232145
+2,Luxembourg,4,J Mees,A Nathwani,TC Barker,,0,4,4,,,,32145232145
+2,Luxembourg,4,J Mees,A Nathwani,TC Barker,,0,2,2,,,,32145232145
+2,Luxembourg,4,J Mees,A Nathwani,TC Barker,,0,2,2,,,,32145232145
+2,Luxembourg,4,J Mees,A Nathwani,TC Barker,,0,1,1,,,,32145232145
+2,Luxembourg,4,TC Barker,A Nathwani,J Mees,,0,0,0,,,,32145232145
+2,Luxembourg,4,TC Barker,A Nathwani,J Mees,,0,0,0,,,,32145232145
+2,Luxembourg,5,J Mees,Sahel Zadran,TC Barker,,0,1,1,,,,32145232145
+2,Luxembourg,5,TC Barker,Sahel Zadran,J Mees,legbyes,1,1,0,,,,32145232145
+2,Luxembourg,5,J Mees,Sahel Zadran,TC Barker,,0,0,0,,,,32145232145
+2,Luxembourg,5,J Mees,Sahel Zadran,TC Barker,legbyes,1,1,0,,,,32145232145
+2,Luxembourg,5,TC Barker,Sahel Zadran,J Mees,,0,1,1,,,,32145232145
+2,Luxembourg,5,J Mees,Sahel Zadran,TC Barker,,0,0,0,,,,32145232145
+2,Luxembourg,6,TC Barker,Shahil Momin,J Mees,,0,1,1,,,,32145232145
+2,Luxembourg,6,J Mees,Shahil Momin,TC Barker,,0,0,0,,,,32145232145
+2,Luxembourg,6,J Mees,Shahil Momin,TC Barker,,0,1,1,,,,32145232145
+2,Luxembourg,6,TC Barker,Shahil Momin,J Mees,,0,1,1,,,,32145232145
+2,Luxembourg,6,J Mees,Shahil Momin,TC Barker,,0,1,1,,,,32145232145
+2,Luxembourg,6,TC Barker,Shahil Momin,J Mees,,0,0,0,,,,32145232145
+2,Luxembourg,7,J Mees,Abdullah Akbarjan,TC Barker,,0,1,1,,,,32145232145
+2,Luxembourg,7,TC Barker,Abdullah Akbarjan,J Mees,,0,6,6,,,,32145232145
+2,Luxembourg,7,TC Barker,Abdullah Akbarjan,J Mees,,0,2,2,,,,32145232145
+2,Luxembourg,7,TC Barker,Abdullah Akbarjan,J Mees,,0,1,1,,,,32145232145
+2,Luxembourg,7,J Mees,Abdullah Akbarjan,TC Barker,,0,0,0,caught,J Mees,Razmal Shigiwal,32145232145
+2,Luxembourg,7,TC Barker,Abdullah Akbarjan,SKS Gill,,0,1,1,,,,32145232145
+2,Luxembourg,8,TC Barker,Shahil Momin,SKS Gill,,0,1,1,,,,32145232145
+2,Luxembourg,8,SKS Gill,Shahil Momin,TC Barker,,0,0,0,run out,SKS Gill,Aqib Iqbal,32145232145
+2,Luxembourg,8,TC Barker,Shahil Momin,V Vijh,,0,1,1,,,,32145232145
+2,Luxembourg,8,V Vijh,Shahil Momin,TC Barker,,0,0,0,,,,32145232145
+2,Luxembourg,8,V Vijh,Shahil Momin,TC Barker,,0,0,0,,,,32145232145
+2,Luxembourg,8,V Vijh,Shahil Momin,TC Barker,,0,0,0,lbw,V Vijh,,32145232145
+2,Luxembourg,9,TC Barker,A Nathwani,J Barker,,0,0,0,,,,32145232145
+2,Luxembourg,9,TC Barker,A Nathwani,J Barker,,0,4,4,,,,32145232145
+2,Luxembourg,9,TC Barker,A Nathwani,J Barker,,0,1,1,,,,32145232145
+2,Luxembourg,9,J Barker,A Nathwani,TC Barker,,0,1,1,,,,32145232145
+2,Luxembourg,9,TC Barker,A Nathwani,J Barker,,0,0,0,bowled,TC Barker,,32145232145
+2,Luxembourg,9,S Kushretha,A Nathwani,J Barker,,0,0,0,,,,32145232145
+2,Luxembourg,10,J Barker,Shahil Momin,S Kushretha,,0,1,1,,,,32145232145
+2,Luxembourg,10,S Kushretha,Shahil Momin,J Barker,,0,0,0,,,,32145232145
+2,Luxembourg,10,S Kushretha,Shahil Momin,J Barker,,0,1,1,,,,32145232145
+2,Luxembourg,10,J Barker,Shahil Momin,S Kushretha,,0,1,1,,,,32145232145
+2,Luxembourg,10,S Kushretha,Shahil Momin,J Barker,,0,1,1,,,,32145232145
+2,Luxembourg,10,J Barker,Shahil Momin,S Kushretha,,0,1,1,,,,32145232145
+2,Luxembourg,11,J Barker,Abdullah Akbarjan,S Kushretha,,0,0,0,,,,32145232145
+2,Luxembourg,11,J Barker,Abdullah Akbarjan,S Kushretha,,0,1,1,,,,32145232145
+2,Luxembourg,11,S Kushretha,Abdullah Akbarjan,J Barker,,0,0,0,,,,32145232145
+2,Luxembourg,11,S Kushretha,Abdullah Akbarjan,J Barker,wides,1,1,0,,,,32145232145
+2,Luxembourg,11,S Kushretha,Abdullah Akbarjan,J Barker,,0,1,1,,,,32145232145
+2,Luxembourg,11,J Barker,Abdullah Akbarjan,S Kushretha,,0,0,0,,,,32145232145
+2,Luxembourg,11,J Barker,Abdullah Akbarjan,S Kushretha,,0,1,1,,,,32145232145
+2,Luxembourg,12,J Barker,Shahil Momin,S Kushretha,,0,1,1,,,,32145232145
+2,Luxembourg,12,S Kushretha,Shahil Momin,J Barker,,0,0,0,bowled,S Kushretha,,32145232145
+2,Luxembourg,12,WJ Cope,Shahil Momin,J Barker,,0,0,0,,,,32145232145
+2,Luxembourg,12,WJ Cope,Shahil Momin,J Barker,,0,0,0,,,,32145232145
+2,Luxembourg,12,WJ Cope,Shahil Momin,J Barker,,0,2,2,,,,32145232145
+2,Luxembourg,12,WJ Cope,Shahil Momin,J Barker,,0,1,1,,,,32145232145
+2,Luxembourg,13,WJ Cope,Abdullah Akbarjan,J Barker,,0,0,0,,,,32145232145
+2,Luxembourg,13,WJ Cope,Abdullah Akbarjan,J Barker,,0,2,2,,,,32145232145
+2,Luxembourg,13,WJ Cope,Abdullah Akbarjan,J Barker,,0,4,4,,,,32145232145
+2,Luxembourg,13,WJ Cope,Abdullah Akbarjan,J Barker,,0,0,0,,,,32145232145
+2,Luxembourg,13,WJ Cope,Abdullah Akbarjan,J Barker,,0,2,2,,,,32145232145
+2,Luxembourg,13,WJ Cope,Abdullah Akbarjan,J Barker,,0,1,1,,,,32145232145
+2,Luxembourg,14,WJ Cope,Iqbal Hossain,J Barker,,0,4,4,,,,32145232145
+2,Luxembourg,14,WJ Cope,Iqbal Hossain,J Barker,,0,0,0,,,,32145232145
+2,Luxembourg,14,WJ Cope,Iqbal Hossain,J Barker,,0,1,1,,,,32145232145
+2,Luxembourg,14,J Barker,Iqbal Hossain,WJ Cope,,0,1,1,,,,32145232145
+2,Luxembourg,14,WJ Cope,Iqbal Hossain,J Barker,wides,1,1,0,,,,32145232145
+2,Luxembourg,14,WJ Cope,Iqbal Hossain,J Barker,,0,1,1,,,,32145232145
+2,Luxembourg,14,J Barker,Iqbal Hossain,WJ Cope,,0,0,0,,,,32145232145
+2,Luxembourg,15,WJ Cope,Sahel Zadran,J Barker,byes,1,1,0,,,,32145232145
+2,Luxembourg,15,J Barker,Sahel Zadran,WJ Cope,,0,1,1,,,,32145232145
+2,Luxembourg,15,WJ Cope,Sahel Zadran,J Barker,,0,0,0,caught,WJ Cope,M Simpson-Parker,32145232145
+2,Luxembourg,15,Atif Kamal,Sahel Zadran,J Barker,,0,0,0,,,,32145232145
+2,Luxembourg,15,Atif Kamal,Sahel Zadran,J Barker,,0,0,0,,,,32145232145
+2,Luxembourg,15,Atif Kamal,Sahel Zadran,J Barker,,0,1,1,,,,32145232145
+2,Luxembourg,16,Atif Kamal,Aqib Iqbal,J Barker,,0,0,0,,,,32145232145
+2,Luxembourg,16,Atif Kamal,Aqib Iqbal,J Barker,,0,1,1,,,,32145232145
+2,Luxembourg,16,J Barker,Aqib Iqbal,Atif Kamal,,0,0,0,,,,32145232145
+2,Luxembourg,16,J Barker,Aqib Iqbal,Atif Kamal,,0,0,0,bowled,J Barker,,32145232145
+2,Luxembourg,16,M Dixit,Aqib Iqbal,Atif Kamal,,0,1,1,,,,32145232145
+2,Luxembourg,16,Atif Kamal,Aqib Iqbal,M Dixit,,0,1,1,,,,32145232145
+2,Luxembourg,17,Atif Kamal,Sahel Zadran,M Dixit,,0,1,1,,,,32145232145
+2,Luxembourg,17,M Dixit,Sahel Zadran,Atif Kamal,,0,0,0,bowled,M Dixit,,32145232145
+2,Luxembourg,17,P Malav,Sahel Zadran,Atif Kamal,,0,0,0,,,,32145232145
+2,Luxembourg,17,P Malav,Sahel Zadran,Atif Kamal,,0,0,0,,,,32145232145
+2,Luxembourg,17,P Malav,Sahel Zadran,Atif Kamal,,0,2,2,,,,32145232145
+2,Luxembourg,17,P Malav,Sahel Zadran,Atif Kamal,,0,0,0,caught,P Malav,Razmal Shigiwal,32145232145

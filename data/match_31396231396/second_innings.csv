@@ -1,0 +1,97 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Malaysia,0,Virandeep Singh,Amjad Mahboob,Anwar Arudin,,0,1,1,,,,31396231396
+2,Malaysia,0,Anwar Arudin,Amjad Mahboob,Virandeep Singh,,0,0,0,,,,31396231396
+2,Malaysia,0,Anwar Arudin,Amjad Mahboob,Virandeep Singh,,0,0,0,caught,Anwar Arudin,Janak Prakash,31396231396
+2,Malaysia,0,Khizar Hayat,Amjad Mahboob,Virandeep Singh,,0,1,1,,,,31396231396
+2,Malaysia,0,Virandeep Singh,Amjad Mahboob,Khizar Hayat,,0,0,0,,,,31396231396
+2,Malaysia,0,Virandeep Singh,Amjad Mahboob,Khizar Hayat,,0,1,1,,,,31396231396
+2,Malaysia,1,Virandeep Singh,TH David,Khizar Hayat,,0,0,0,caught,Virandeep Singh,Sidhant Singh,31396231396
+2,Malaysia,1,Ahmed Faiz,TH David,Khizar Hayat,,0,0,0,,,,31396231396
+2,Malaysia,1,Ahmed Faiz,TH David,Khizar Hayat,,0,2,2,,,,31396231396
+2,Malaysia,1,Ahmed Faiz,TH David,Khizar Hayat,,0,1,1,,,,31396231396
+2,Malaysia,1,Khizar Hayat,TH David,Ahmed Faiz,,0,4,4,,,,31396231396
+2,Malaysia,1,Khizar Hayat,TH David,Ahmed Faiz,,0,4,4,,,,31396231396
+2,Malaysia,2,Ahmed Faiz,Amjad Mahboob,Khizar Hayat,,0,1,1,,,,31396231396
+2,Malaysia,2,Khizar Hayat,Amjad Mahboob,Ahmed Faiz,,0,0,0,,,,31396231396
+2,Malaysia,2,Khizar Hayat,Amjad Mahboob,Ahmed Faiz,,0,4,4,,,,31396231396
+2,Malaysia,2,Khizar Hayat,Amjad Mahboob,Ahmed Faiz,,0,0,0,caught,Khizar Hayat,R Rohan,31396231396
+2,Malaysia,2,Syed Aziz,Amjad Mahboob,Ahmed Faiz,,0,0,0,,,,31396231396
+2,Malaysia,2,Syed Aziz,Amjad Mahboob,Ahmed Faiz,,0,0,0,,,,31396231396
+2,Malaysia,3,Ahmed Faiz,TH David,Syed Aziz,,0,0,0,,,,31396231396
+2,Malaysia,3,Ahmed Faiz,TH David,Syed Aziz,,0,4,4,,,,31396231396
+2,Malaysia,3,Ahmed Faiz,TH David,Syed Aziz,,0,0,0,,,,31396231396
+2,Malaysia,3,Ahmed Faiz,TH David,Syed Aziz,,0,6,6,,,,31396231396
+2,Malaysia,3,Ahmed Faiz,TH David,Syed Aziz,,0,0,0,,,,31396231396
+2,Malaysia,3,Ahmed Faiz,TH David,Syed Aziz,,0,6,6,,,,31396231396
+2,Malaysia,4,Syed Aziz,Janak Prakash,Ahmed Faiz,,0,1,1,,,,31396231396
+2,Malaysia,4,Ahmed Faiz,Janak Prakash,Syed Aziz,,0,1,1,,,,31396231396
+2,Malaysia,4,Syed Aziz,Janak Prakash,Ahmed Faiz,,0,2,2,,,,31396231396
+2,Malaysia,4,Syed Aziz,Janak Prakash,Ahmed Faiz,wides,1,1,0,,,,31396231396
+2,Malaysia,4,Syed Aziz,Janak Prakash,Ahmed Faiz,,0,1,1,,,,31396231396
+2,Malaysia,4,Ahmed Faiz,Janak Prakash,Syed Aziz,wides,1,1,0,,,,31396231396
+2,Malaysia,4,Ahmed Faiz,Janak Prakash,Syed Aziz,,0,4,4,,,,31396231396
+2,Malaysia,4,Ahmed Faiz,Janak Prakash,Syed Aziz,,0,0,0,,,,31396231396
+2,Malaysia,5,Syed Aziz,U Aryaman Sunil,Ahmed Faiz,,0,0,0,,,,31396231396
+2,Malaysia,5,Syed Aziz,U Aryaman Sunil,Ahmed Faiz,,0,0,0,,,,31396231396
+2,Malaysia,5,Syed Aziz,U Aryaman Sunil,Ahmed Faiz,,0,4,4,,,,31396231396
+2,Malaysia,5,Syed Aziz,U Aryaman Sunil,Ahmed Faiz,,0,0,0,,,,31396231396
+2,Malaysia,5,Syed Aziz,U Aryaman Sunil,Ahmed Faiz,wides,1,1,0,,,,31396231396
+2,Malaysia,5,Syed Aziz,U Aryaman Sunil,Ahmed Faiz,,0,1,1,,,,31396231396
+2,Malaysia,5,Ahmed Faiz,U Aryaman Sunil,Syed Aziz,,0,0,0,,,,31396231396
+2,Malaysia,6,Syed Aziz,TH David,Ahmed Faiz,,0,2,2,,,,31396231396
+2,Malaysia,6,Syed Aziz,TH David,Ahmed Faiz,,0,0,0,,,,31396231396
+2,Malaysia,6,Syed Aziz,TH David,Ahmed Faiz,,0,2,2,,,,31396231396
+2,Malaysia,6,Syed Aziz,TH David,Ahmed Faiz,wides,1,1,0,,,,31396231396
+2,Malaysia,6,Syed Aziz,TH David,Ahmed Faiz,,0,2,2,,,,31396231396
+2,Malaysia,6,Syed Aziz,TH David,Ahmed Faiz,,0,1,1,,,,31396231396
+2,Malaysia,6,Ahmed Faiz,TH David,Syed Aziz,,0,0,0,,,,31396231396
+2,Malaysia,7,Syed Aziz,A Krishna,Ahmed Faiz,,0,1,1,,,,31396231396
+2,Malaysia,7,Ahmed Faiz,A Krishna,Syed Aziz,,0,0,0,caught,Ahmed Faiz,Amjad Mahboob,31396231396
+2,Malaysia,7,Syed Aziz,A Krishna,Aminuddin Ramly,,0,0,0,,,,31396231396
+2,Malaysia,7,Syed Aziz,A Krishna,Aminuddin Ramly,,0,4,4,,,,31396231396
+2,Malaysia,7,Syed Aziz,A Krishna,Aminuddin Ramly,,0,1,1,,,,31396231396
+2,Malaysia,7,Aminuddin Ramly,A Krishna,Syed Aziz,,0,4,4,,,,31396231396
+2,Malaysia,8,Syed Aziz,U Aryaman Sunil,Aminuddin Ramly,,0,1,1,,,,31396231396
+2,Malaysia,8,Aminuddin Ramly,U Aryaman Sunil,Syed Aziz,,0,1,1,,,,31396231396
+2,Malaysia,8,Syed Aziz,U Aryaman Sunil,Aminuddin Ramly,,0,0,0,caught,Syed Aziz,Manpreet Singh,31396231396
+2,Malaysia,8,Mohamed Arief,U Aryaman Sunil,Aminuddin Ramly,,0,1,1,,,,31396231396
+2,Malaysia,8,Aminuddin Ramly,U Aryaman Sunil,Mohamed Arief,,0,1,1,,,,31396231396
+2,Malaysia,8,Mohamed Arief,U Aryaman Sunil,Aminuddin Ramly,,0,0,0,,,,31396231396
+2,Malaysia,9,Aminuddin Ramly,A Krishna,Mohamed Arief,,0,1,1,,,,31396231396
+2,Malaysia,9,Mohamed Arief,A Krishna,Aminuddin Ramly,,0,1,1,,,,31396231396
+2,Malaysia,9,Aminuddin Ramly,A Krishna,Mohamed Arief,,0,6,6,,,,31396231396
+2,Malaysia,9,Aminuddin Ramly,A Krishna,Mohamed Arief,,0,4,4,,,,31396231396
+2,Malaysia,9,Aminuddin Ramly,A Krishna,Mohamed Arief,noballs,1,2,1,,,,31396231396
+2,Malaysia,9,Mohamed Arief,A Krishna,Aminuddin Ramly,,0,1,1,,,,31396231396
+2,Malaysia,9,Aminuddin Ramly,A Krishna,Mohamed Arief,,0,1,1,,,,31396231396
+2,Malaysia,10,Aminuddin Ramly,AAhan Achar,Mohamed Arief,,0,1,1,,,,31396231396
+2,Malaysia,10,Mohamed Arief,AAhan Achar,Aminuddin Ramly,,0,1,1,,,,31396231396
+2,Malaysia,10,Aminuddin Ramly,AAhan Achar,Mohamed Arief,,0,0,0,,,,31396231396
+2,Malaysia,10,Aminuddin Ramly,AAhan Achar,Mohamed Arief,,0,1,1,,,,31396231396
+2,Malaysia,10,Mohamed Arief,AAhan Achar,Aminuddin Ramly,,0,1,1,,,,31396231396
+2,Malaysia,10,Aminuddin Ramly,AAhan Achar,Mohamed Arief,,0,0,0,,,,31396231396
+2,Malaysia,11,Mohamed Arief,Janak Prakash,Aminuddin Ramly,,0,1,1,,,,31396231396
+2,Malaysia,11,Aminuddin Ramly,Janak Prakash,Mohamed Arief,,0,1,1,,,,31396231396
+2,Malaysia,11,Mohamed Arief,Janak Prakash,Aminuddin Ramly,,0,4,4,,,,31396231396
+2,Malaysia,11,Mohamed Arief,Janak Prakash,Aminuddin Ramly,,0,0,0,,,,31396231396
+2,Malaysia,11,Mohamed Arief,Janak Prakash,Aminuddin Ramly,,0,1,1,,,,31396231396
+2,Malaysia,11,Aminuddin Ramly,Janak Prakash,Mohamed Arief,,0,1,1,,,,31396231396
+2,Malaysia,12,Aminuddin Ramly,AAhan Achar,Mohamed Arief,,0,0,0,caught,Aminuddin Ramly,S Chandramohan,31396231396
+2,Malaysia,12,Mohamed Arief,AAhan Achar,S Muniandy,,0,1,1,,,,31396231396
+2,Malaysia,12,S Muniandy,AAhan Achar,Mohamed Arief,,0,1,1,,,,31396231396
+2,Malaysia,12,Mohamed Arief,AAhan Achar,S Muniandy,,0,1,1,,,,31396231396
+2,Malaysia,12,S Muniandy,AAhan Achar,Mohamed Arief,,0,1,1,,,,31396231396
+2,Malaysia,12,Mohamed Arief,AAhan Achar,S Muniandy,,0,1,1,,,,31396231396
+2,Malaysia,13,Mohamed Arief,A Krishna,S Muniandy,,0,0,0,,,,31396231396
+2,Malaysia,13,Mohamed Arief,A Krishna,S Muniandy,,0,1,1,,,,31396231396
+2,Malaysia,13,S Muniandy,A Krishna,Mohamed Arief,,0,0,0,stumped,S Muniandy,Manpreet Singh,31396231396
+2,Malaysia,13,Fitri Sham,A Krishna,Mohamed Arief,,0,1,1,,,,31396231396
+2,Malaysia,13,Mohamed Arief,A Krishna,Fitri Sham,,0,0,0,caught,Mohamed Arief,TH David,31396231396
+2,Malaysia,13,Syazrul Idrus,A Krishna,Fitri Sham,,0,0,0,,,,31396231396
+2,Malaysia,14,Fitri Sham,AAhan Achar,Syazrul Idrus,,0,1,1,,,,31396231396
+2,Malaysia,14,Syazrul Idrus,AAhan Achar,Fitri Sham,,0,0,0,,,,31396231396
+2,Malaysia,14,Syazrul Idrus,AAhan Achar,Fitri Sham,,0,0,0,,,,31396231396
+2,Malaysia,14,Syazrul Idrus,AAhan Achar,Fitri Sham,,0,1,1,,,,31396231396
+2,Malaysia,14,Fitri Sham,AAhan Achar,Syazrul Idrus,,0,0,0,,,,31396231396
+2,Malaysia,14,Fitri Sham,AAhan Achar,Syazrul Idrus,,0,0,0,run out,Fitri Sham,,31396231396
+2,Malaysia,15,Syazrul Idrus,A Krishna,Pavandeep Singh,,0,0,0,bowled,Syazrul Idrus,,31396231396

@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,South Africa,0,MN van Wyk,P Kumar,HM Amla,,0,0,0,,,,317723177
+2,South Africa,0,MN van Wyk,P Kumar,HM Amla,,0,1,1,,,,317723177
+2,South Africa,0,HM Amla,P Kumar,MN van Wyk,,0,1,1,,,,317723177
+2,South Africa,0,MN van Wyk,P Kumar,HM Amla,byes,4,4,0,,,,317723177
+2,South Africa,0,MN van Wyk,P Kumar,HM Amla,,0,0,0,,,,317723177
+2,South Africa,0,MN van Wyk,P Kumar,HM Amla,,0,0,0,,,,317723177
+2,South Africa,1,HM Amla,A Nehra,MN van Wyk,,0,0,0,,,,317723177
+2,South Africa,1,HM Amla,A Nehra,MN van Wyk,,0,0,0,bowled,HM Amla,,317723177
+2,South Africa,1,CA Ingram,A Nehra,MN van Wyk,,0,0,0,,,,317723177
+2,South Africa,1,CA Ingram,A Nehra,MN van Wyk,,0,1,1,,,,317723177
+2,South Africa,1,MN van Wyk,A Nehra,CA Ingram,,0,0,0,,,,317723177
+2,South Africa,1,MN van Wyk,A Nehra,CA Ingram,legbyes,1,1,0,,,,317723177
+2,South Africa,2,MN van Wyk,MM Patel,CA Ingram,,0,6,6,,,,317723177
+2,South Africa,2,MN van Wyk,MM Patel,CA Ingram,,0,4,4,,,,317723177
+2,South Africa,2,MN van Wyk,MM Patel,CA Ingram,,0,4,4,,,,317723177
+2,South Africa,2,MN van Wyk,MM Patel,CA Ingram,,0,1,1,,,,317723177
+2,South Africa,2,CA Ingram,MM Patel,MN van Wyk,,0,0,0,,,,317723177
+2,South Africa,2,CA Ingram,MM Patel,MN van Wyk,,0,0,0,,,,317723177
+2,South Africa,3,MN van Wyk,A Nehra,CA Ingram,,0,6,6,,,,317723177
+2,South Africa,3,MN van Wyk,A Nehra,CA Ingram,,0,1,1,,,,317723177
+2,South Africa,3,CA Ingram,A Nehra,MN van Wyk,,0,0,0,,,,317723177
+2,South Africa,3,CA Ingram,A Nehra,MN van Wyk,,0,1,1,,,,317723177
+2,South Africa,3,MN van Wyk,A Nehra,CA Ingram,,0,0,0,,,,317723177
+2,South Africa,3,MN van Wyk,A Nehra,CA Ingram,,0,0,0,,,,317723177
+2,South Africa,4,CA Ingram,MM Patel,MN van Wyk,,0,0,0,,,,317723177
+2,South Africa,4,CA Ingram,MM Patel,MN van Wyk,,0,0,0,caught,CA Ingram,P Kumar,317723177
+2,South Africa,4,AB de Villiers,MM Patel,MN van Wyk,,0,0,0,,,,317723177
+2,South Africa,4,AB de Villiers,MM Patel,MN van Wyk,,0,1,1,,,,317723177
+2,South Africa,4,MN van Wyk,MM Patel,AB de Villiers,,0,6,6,,,,317723177
+2,South Africa,4,MN van Wyk,MM Patel,AB de Villiers,,0,4,4,,,,317723177
+2,South Africa,5,AB de Villiers,R Ashwin,MN van Wyk,,0,1,1,,,,317723177
+2,South Africa,5,MN van Wyk,R Ashwin,AB de Villiers,,0,4,4,,,,317723177
+2,South Africa,5,MN van Wyk,R Ashwin,AB de Villiers,wides,1,1,0,,,,317723177
+2,South Africa,5,MN van Wyk,R Ashwin,AB de Villiers,,0,6,6,,,,317723177
+2,South Africa,5,MN van Wyk,R Ashwin,AB de Villiers,,0,1,1,,,,317723177
+2,South Africa,5,AB de Villiers,R Ashwin,MN van Wyk,,0,1,1,,,,317723177
+2,South Africa,5,MN van Wyk,R Ashwin,AB de Villiers,,0,3,3,,,,317723177
+2,South Africa,6,MN van Wyk,Yuvraj Singh,AB de Villiers,,0,1,1,,,,317723177
+2,South Africa,6,AB de Villiers,Yuvraj Singh,MN van Wyk,,0,0,0,,,,317723177
+2,South Africa,6,AB de Villiers,Yuvraj Singh,MN van Wyk,,0,4,4,,,,317723177
+2,South Africa,6,AB de Villiers,Yuvraj Singh,MN van Wyk,,0,4,4,,,,317723177
+2,South Africa,6,AB de Villiers,Yuvraj Singh,MN van Wyk,,0,1,1,,,,317723177
+2,South Africa,6,MN van Wyk,Yuvraj Singh,AB de Villiers,,0,0,0,,,,317723177
+2,South Africa,7,AB de Villiers,R Ashwin,MN van Wyk,,0,1,1,,,,317723177
+2,South Africa,7,MN van Wyk,R Ashwin,AB de Villiers,,0,6,6,,,,317723177
+2,South Africa,7,MN van Wyk,R Ashwin,AB de Villiers,,0,0,0,,,,317723177
+2,South Africa,7,MN van Wyk,R Ashwin,AB de Villiers,,0,1,1,,,,317723177
+2,South Africa,7,AB de Villiers,R Ashwin,MN van Wyk,,0,1,1,,,,317723177
+2,South Africa,7,MN van Wyk,R Ashwin,AB de Villiers,,0,1,1,,,,317723177
+2,South Africa,8,MN van Wyk,P Kumar,AB de Villiers,,0,0,0,,,,317723177
+2,South Africa,8,MN van Wyk,P Kumar,AB de Villiers,wides,1,1,0,,,,317723177
+2,South Africa,8,MN van Wyk,P Kumar,AB de Villiers,,0,2,2,,,,317723177
+2,South Africa,8,MN van Wyk,P Kumar,AB de Villiers,,0,4,4,,,,317723177
+2,South Africa,8,MN van Wyk,P Kumar,AB de Villiers,,0,0,0,,,,317723177
+2,South Africa,8,MN van Wyk,P Kumar,AB de Villiers,,0,0,0,,,,317723177
+2,South Africa,8,MN van Wyk,P Kumar,AB de Villiers,,0,1,1,,,,317723177
+2,South Africa,9,MN van Wyk,Yuvraj Singh,AB de Villiers,,0,1,1,run out,AB de Villiers,SK Raina,317723177
+2,South Africa,9,MN van Wyk,Yuvraj Singh,JP Duminy,,0,1,1,,,,317723177
+2,South Africa,9,JP Duminy,Yuvraj Singh,MN van Wyk,,0,0,0,,,,317723177
+2,South Africa,9,JP Duminy,Yuvraj Singh,MN van Wyk,,0,0,0,lbw,JP Duminy,,317723177
+2,South Africa,9,DA Miller,Yuvraj Singh,MN van Wyk,,0,1,1,,,,317723177
+2,South Africa,9,MN van Wyk,Yuvraj Singh,DA Miller,,0,1,1,,,,317723177
+2,South Africa,10,MN van Wyk,P Kumar,DA Miller,,0,1,1,,,,317723177
+2,South Africa,10,DA Miller,P Kumar,MN van Wyk,,0,1,1,,,,317723177
+2,South Africa,10,MN van Wyk,P Kumar,DA Miller,,0,0,0,,,,317723177
+2,South Africa,10,MN van Wyk,P Kumar,DA Miller,,0,0,0,caught,MN van Wyk,A Nehra,317723177
+2,South Africa,10,J Botha,P Kumar,DA Miller,,0,4,4,,,,317723177
+2,South Africa,10,J Botha,P Kumar,DA Miller,,0,1,1,,,,317723177
+2,South Africa,11,J Botha,Yuvraj Singh,DA Miller,,0,0,0,,,,317723177
+2,South Africa,11,J Botha,Yuvraj Singh,DA Miller,,0,0,0,,,,317723177
+2,South Africa,11,J Botha,Yuvraj Singh,DA Miller,legbyes,1,1,0,,,,317723177
+2,South Africa,11,DA Miller,Yuvraj Singh,J Botha,,0,0,0,,,,317723177
+2,South Africa,11,DA Miller,Yuvraj Singh,J Botha,,0,0,0,,,,317723177
+2,South Africa,11,DA Miller,Yuvraj Singh,J Botha,,0,2,2,,,,317723177
+2,South Africa,12,J Botha,YK Pathan,DA Miller,,0,0,0,,,,317723177
+2,South Africa,12,J Botha,YK Pathan,DA Miller,,0,1,1,,,,317723177
+2,South Africa,12,DA Miller,YK Pathan,J Botha,,0,0,0,,,,317723177
+2,South Africa,12,DA Miller,YK Pathan,J Botha,,0,6,6,,,,317723177
+2,South Africa,12,DA Miller,YK Pathan,J Botha,,0,0,0,lbw,DA Miller,,317723177
+2,South Africa,12,RJ Peterson,YK Pathan,J Botha,,0,1,1,,,,317723177
+2,South Africa,13,RJ Peterson,Yuvraj Singh,J Botha,,0,0,0,,,,317723177
+2,South Africa,13,RJ Peterson,Yuvraj Singh,J Botha,,0,0,0,,,,317723177
+2,South Africa,13,RJ Peterson,Yuvraj Singh,J Botha,,0,1,1,,,,317723177
+2,South Africa,13,J Botha,Yuvraj Singh,RJ Peterson,,0,2,2,,,,317723177
+2,South Africa,13,J Botha,Yuvraj Singh,RJ Peterson,,0,1,1,,,,317723177
+2,South Africa,13,RJ Peterson,Yuvraj Singh,J Botha,,0,0,0,,,,317723177
+2,South Africa,14,J Botha,YK Pathan,RJ Peterson,,0,0,0,,,,317723177
+2,South Africa,14,J Botha,YK Pathan,RJ Peterson,,0,6,6,,,,317723177
+2,South Africa,14,J Botha,YK Pathan,RJ Peterson,,0,1,1,,,,317723177
+2,South Africa,14,RJ Peterson,YK Pathan,J Botha,,0,0,0,caught,RJ Peterson,V Kohli,317723177
+2,South Africa,14,WD Parnell,YK Pathan,J Botha,,0,1,1,,,,317723177
+2,South Africa,14,J Botha,YK Pathan,WD Parnell,,0,0,0,,,,317723177
+2,South Africa,15,WD Parnell,R Ashwin,J Botha,,0,0,0,,,,317723177
+2,South Africa,15,WD Parnell,R Ashwin,J Botha,,0,0,0,,,,317723177
+2,South Africa,15,WD Parnell,R Ashwin,J Botha,,0,1,1,,,,317723177
+2,South Africa,15,J Botha,R Ashwin,WD Parnell,,0,1,1,,,,317723177
+2,South Africa,15,WD Parnell,R Ashwin,J Botha,,0,1,1,,,,317723177
+2,South Africa,15,J Botha,R Ashwin,WD Parnell,,0,1,1,,,,317723177
+2,South Africa,16,J Botha,YK Pathan,WD Parnell,,0,1,1,,,,317723177
+2,South Africa,16,WD Parnell,YK Pathan,J Botha,,0,0,0,,,,317723177
+2,South Africa,16,WD Parnell,YK Pathan,J Botha,,0,0,0,,,,317723177
+2,South Africa,16,WD Parnell,YK Pathan,J Botha,,0,1,1,,,,317723177
+2,South Africa,16,J Botha,YK Pathan,WD Parnell,,0,1,1,,,,317723177
+2,South Africa,16,WD Parnell,YK Pathan,J Botha,,0,3,3,,,,317723177
+2,South Africa,17,WD Parnell,A Nehra,J Botha,,0,4,4,,,,317723177
+2,South Africa,17,WD Parnell,A Nehra,J Botha,,0,1,1,,,,317723177
+2,South Africa,17,J Botha,A Nehra,WD Parnell,,0,1,1,,,,317723177
+2,South Africa,17,WD Parnell,A Nehra,J Botha,,0,1,1,,,,317723177
+2,South Africa,17,J Botha,A Nehra,WD Parnell,,0,1,1,,,,317723177
+2,South Africa,17,WD Parnell,A Nehra,J Botha,,0,1,1,,,,317723177
+2,South Africa,18,WD Parnell,R Ashwin,J Botha,wides,1,1,0,,,,317723177
+2,South Africa,18,WD Parnell,R Ashwin,J Botha,,0,0,0,,,,317723177
+2,South Africa,18,WD Parnell,R Ashwin,J Botha,,0,0,0,,,,317723177
+2,South Africa,18,WD Parnell,R Ashwin,J Botha,,0,0,0,caught,WD Parnell,YK Pathan,317723177
+2,South Africa,18,J Botha,R Ashwin,J Theron,,0,1,1,,,,317723177
+2,South Africa,18,J Theron,R Ashwin,J Botha,,0,0,0,,,,317723177
+2,South Africa,18,J Theron,R Ashwin,J Botha,,0,0,0,,,,317723177
+2,South Africa,19,J Botha,A Nehra,J Theron,,0,2,2,,,,317723177
+2,South Africa,19,J Botha,A Nehra,J Theron,,0,0,0,caught,J Botha,RG Sharma,317723177
+2,South Africa,19,J Theron,A Nehra,M Ntini,legbyes,1,1,0,,,,317723177
+2,South Africa,19,M Ntini,A Nehra,J Theron,,0,0,0,,,,317723177
+2,South Africa,19,M Ntini,A Nehra,J Theron,,0,1,1,,,,317723177
+2,South Africa,19,J Theron,A Nehra,M Ntini,,0,1,1,,,,317723177

@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Scotland,0,HG Munsey,R Trumpelmann,MH Cross,,0,0,0,bowled,HG Munsey,,31646231646
+1,Scotland,0,CS MacLeod,R Trumpelmann,MH Cross,wides,1,1,0,,,,31646231646
+1,Scotland,0,CS MacLeod,R Trumpelmann,MH Cross,,0,0,0,,,,31646231646
+1,Scotland,0,CS MacLeod,R Trumpelmann,MH Cross,wides,1,1,0,,,,31646231646
+1,Scotland,0,CS MacLeod,R Trumpelmann,MH Cross,,0,0,0,caught,CS MacLeod,ZE Green,31646231646
+1,Scotland,0,RD Berrington,R Trumpelmann,MH Cross,,0,0,0,lbw,RD Berrington,,31646231646
+1,Scotland,0,CD Wallace,R Trumpelmann,MH Cross,,0,0,0,,,,31646231646
+1,Scotland,0,CD Wallace,R Trumpelmann,MH Cross,,0,0,0,,,,31646231646
+1,Scotland,1,MH Cross,JN Frylinck,CD Wallace,,0,0,0,,,,31646231646
+1,Scotland,1,MH Cross,JN Frylinck,CD Wallace,,0,1,1,,,,31646231646
+1,Scotland,1,CD Wallace,JN Frylinck,MH Cross,,0,0,0,,,,31646231646
+1,Scotland,1,CD Wallace,JN Frylinck,MH Cross,,0,1,1,,,,31646231646
+1,Scotland,1,MH Cross,JN Frylinck,CD Wallace,,0,0,0,,,,31646231646
+1,Scotland,1,MH Cross,JN Frylinck,CD Wallace,,0,0,0,,,,31646231646
+1,Scotland,2,CD Wallace,R Trumpelmann,MH Cross,,0,0,0,,,,31646231646
+1,Scotland,2,CD Wallace,R Trumpelmann,MH Cross,,0,0,0,,,,31646231646
+1,Scotland,2,CD Wallace,R Trumpelmann,MH Cross,,0,0,0,,,,31646231646
+1,Scotland,2,CD Wallace,R Trumpelmann,MH Cross,,0,0,0,,,,31646231646
+1,Scotland,2,CD Wallace,R Trumpelmann,MH Cross,,0,1,1,,,,31646231646
+1,Scotland,2,MH Cross,R Trumpelmann,CD Wallace,legbyes,1,1,0,,,,31646231646
+1,Scotland,3,MH Cross,JJ Smit,CD Wallace,,0,0,0,,,,31646231646
+1,Scotland,3,MH Cross,JJ Smit,CD Wallace,,0,1,1,,,,31646231646
+1,Scotland,3,CD Wallace,JJ Smit,MH Cross,,0,1,1,,,,31646231646
+1,Scotland,3,MH Cross,JJ Smit,CD Wallace,,0,0,0,,,,31646231646
+1,Scotland,3,MH Cross,JJ Smit,CD Wallace,,0,0,0,,,,31646231646
+1,Scotland,3,MH Cross,JJ Smit,CD Wallace,,0,0,0,,,,31646231646
+1,Scotland,4,CD Wallace,R Trumpelmann,MH Cross,,0,1,1,,,,31646231646
+1,Scotland,4,MH Cross,R Trumpelmann,CD Wallace,,0,0,0,,,,31646231646
+1,Scotland,4,MH Cross,R Trumpelmann,CD Wallace,,0,0,0,,,,31646231646
+1,Scotland,4,MH Cross,R Trumpelmann,CD Wallace,,0,0,0,,,,31646231646
+1,Scotland,4,MH Cross,R Trumpelmann,CD Wallace,,0,4,4,,,,31646231646
+1,Scotland,4,MH Cross,R Trumpelmann,CD Wallace,,0,3,3,,,,31646231646
+1,Scotland,5,MH Cross,D Wiese,CD Wallace,wides,1,1,0,,,,31646231646
+1,Scotland,5,MH Cross,D Wiese,CD Wallace,legbyes,1,1,0,,,,31646231646
+1,Scotland,5,CD Wallace,D Wiese,MH Cross,,0,0,0,,,,31646231646
+1,Scotland,5,CD Wallace,D Wiese,MH Cross,,0,0,0,lbw,CD Wallace,,31646231646
+1,Scotland,5,MA Leask,D Wiese,MH Cross,,0,0,0,,,,31646231646
+1,Scotland,5,MA Leask,D Wiese,MH Cross,,0,4,4,,,,31646231646
+1,Scotland,5,MA Leask,D Wiese,MH Cross,,0,0,0,,,,31646231646
+1,Scotland,6,MH Cross,JJ Smit,MA Leask,,0,0,0,,,,31646231646
+1,Scotland,6,MH Cross,JJ Smit,MA Leask,,0,1,1,,,,31646231646
+1,Scotland,6,MA Leask,JJ Smit,MH Cross,,0,1,1,,,,31646231646
+1,Scotland,6,MH Cross,JJ Smit,MA Leask,,0,1,1,,,,31646231646
+1,Scotland,6,MA Leask,JJ Smit,MH Cross,,0,1,1,,,,31646231646
+1,Scotland,6,MH Cross,JJ Smit,MA Leask,,0,0,0,,,,31646231646
+1,Scotland,7,MA Leask,BM Scholtz,MH Cross,,0,1,1,,,,31646231646
+1,Scotland,7,MH Cross,BM Scholtz,MA Leask,,0,1,1,,,,31646231646
+1,Scotland,7,MA Leask,BM Scholtz,MH Cross,,0,0,0,,,,31646231646
+1,Scotland,7,MA Leask,BM Scholtz,MH Cross,,0,1,1,,,,31646231646
+1,Scotland,7,MH Cross,BM Scholtz,MA Leask,,0,2,2,,,,31646231646
+1,Scotland,7,MH Cross,BM Scholtz,MA Leask,,0,1,1,,,,31646231646
+1,Scotland,8,MH Cross,D Wiese,MA Leask,,0,1,1,,,,31646231646
+1,Scotland,8,MA Leask,D Wiese,MH Cross,,0,4,4,,,,31646231646
+1,Scotland,8,MA Leask,D Wiese,MH Cross,,0,1,1,,,,31646231646
+1,Scotland,8,MH Cross,D Wiese,MA Leask,,0,0,0,,,,31646231646
+1,Scotland,8,MH Cross,D Wiese,MA Leask,,0,0,0,,,,31646231646
+1,Scotland,8,MH Cross,D Wiese,MA Leask,,0,1,1,,,,31646231646
+1,Scotland,9,MH Cross,JN Frylinck,MA Leask,,0,1,1,,,,31646231646
+1,Scotland,9,MA Leask,JN Frylinck,MH Cross,,0,0,0,,,,31646231646
+1,Scotland,9,MA Leask,JN Frylinck,MH Cross,,0,1,1,,,,31646231646
+1,Scotland,9,MH Cross,JN Frylinck,MA Leask,,0,0,0,,,,31646231646
+1,Scotland,9,MH Cross,JN Frylinck,MA Leask,,0,1,1,,,,31646231646
+1,Scotland,9,MA Leask,JN Frylinck,MH Cross,,0,1,1,,,,31646231646
+1,Scotland,10,MA Leask,M van Lingen,MH Cross,,0,1,1,,,,31646231646
+1,Scotland,10,MH Cross,M van Lingen,MA Leask,legbyes,1,1,0,,,,31646231646
+1,Scotland,10,MA Leask,M van Lingen,MH Cross,,0,1,1,,,,31646231646
+1,Scotland,10,MH Cross,M van Lingen,MA Leask,legbyes,1,1,0,,,,31646231646
+1,Scotland,10,MA Leask,M van Lingen,MH Cross,,0,4,4,,,,31646231646
+1,Scotland,10,MA Leask,M van Lingen,MH Cross,,0,6,6,,,,31646231646
+1,Scotland,11,MH Cross,JN Frylinck,MA Leask,,0,0,0,bowled,MH Cross,,31646231646
+1,Scotland,11,CN Greaves,JN Frylinck,MA Leask,,0,0,0,,,,31646231646
+1,Scotland,11,CN Greaves,JN Frylinck,MA Leask,,0,0,0,,,,31646231646
+1,Scotland,11,CN Greaves,JN Frylinck,MA Leask,,0,0,0,,,,31646231646
+1,Scotland,11,CN Greaves,JN Frylinck,MA Leask,,0,0,0,,,,31646231646
+1,Scotland,11,CN Greaves,JN Frylinck,MA Leask,,0,1,1,,,,31646231646
+1,Scotland,12,CN Greaves,JJ Smit,MA Leask,,0,0,0,,,,31646231646
+1,Scotland,12,CN Greaves,JJ Smit,MA Leask,,0,2,2,,,,31646231646
+1,Scotland,12,CN Greaves,JJ Smit,MA Leask,,0,1,1,,,,31646231646
+1,Scotland,12,MA Leask,JJ Smit,CN Greaves,,0,0,0,,,,31646231646
+1,Scotland,12,MA Leask,JJ Smit,CN Greaves,,0,6,6,,,,31646231646
+1,Scotland,12,MA Leask,JJ Smit,CN Greaves,,0,1,1,,,,31646231646
+1,Scotland,13,MA Leask,BM Scholtz,CN Greaves,,0,2,2,,,,31646231646
+1,Scotland,13,MA Leask,BM Scholtz,CN Greaves,,0,1,1,,,,31646231646
+1,Scotland,13,CN Greaves,BM Scholtz,MA Leask,,0,0,0,,,,31646231646
+1,Scotland,13,CN Greaves,BM Scholtz,MA Leask,,0,2,2,,,,31646231646
+1,Scotland,13,CN Greaves,BM Scholtz,MA Leask,,0,4,4,,,,31646231646
+1,Scotland,13,CN Greaves,BM Scholtz,MA Leask,,0,1,1,,,,31646231646
+1,Scotland,14,CN Greaves,R Trumpelmann,MA Leask,,0,4,4,,,,31646231646
+1,Scotland,14,CN Greaves,R Trumpelmann,MA Leask,,0,0,0,,,,31646231646
+1,Scotland,14,CN Greaves,R Trumpelmann,MA Leask,,0,0,0,,,,31646231646
+1,Scotland,14,CN Greaves,R Trumpelmann,MA Leask,,0,1,1,,,,31646231646
+1,Scotland,14,MA Leask,R Trumpelmann,CN Greaves,,0,1,1,,,,31646231646
+1,Scotland,14,CN Greaves,R Trumpelmann,MA Leask,,0,0,0,,,,31646231646
+1,Scotland,15,MA Leask,HN Ya France,CN Greaves,legbyes,1,1,0,,,,31646231646
+1,Scotland,15,CN Greaves,HN Ya France,MA Leask,,0,0,0,,,,31646231646
+1,Scotland,15,CN Greaves,HN Ya France,MA Leask,,0,0,0,,,,31646231646
+1,Scotland,15,CN Greaves,HN Ya France,MA Leask,,0,1,1,,,,31646231646
+1,Scotland,15,MA Leask,HN Ya France,CN Greaves,,0,4,4,,,,31646231646
+1,Scotland,15,MA Leask,HN Ya France,CN Greaves,,0,2,2,,,,31646231646
+1,Scotland,16,CN Greaves,JJ Smit,MA Leask,,0,1,1,,,,31646231646
+1,Scotland,16,MA Leask,JJ Smit,CN Greaves,,0,0,0,bowled,MA Leask,,31646231646
+1,Scotland,16,MRJ Watt,JJ Smit,CN Greaves,,0,0,0,,,,31646231646
+1,Scotland,16,MRJ Watt,JJ Smit,CN Greaves,,0,1,1,,,,31646231646
+1,Scotland,16,CN Greaves,JJ Smit,MRJ Watt,,0,2,2,,,,31646231646
+1,Scotland,16,CN Greaves,JJ Smit,MRJ Watt,,0,0,0,,,,31646231646
+1,Scotland,17,MRJ Watt,D Wiese,CN Greaves,,0,1,1,,,,31646231646
+1,Scotland,17,CN Greaves,D Wiese,MRJ Watt,,0,1,1,,,,31646231646
+1,Scotland,17,MRJ Watt,D Wiese,CN Greaves,,0,0,0,,,,31646231646
+1,Scotland,17,MRJ Watt,D Wiese,CN Greaves,,0,1,1,,,,31646231646
+1,Scotland,17,CN Greaves,D Wiese,MRJ Watt,,0,0,0,,,,31646231646
+1,Scotland,17,CN Greaves,D Wiese,MRJ Watt,,0,0,0,,,,31646231646
+1,Scotland,18,MRJ Watt,JN Frylinck,CN Greaves,,0,0,0,caught,MRJ Watt,MG Erasmus,31646231646
+1,Scotland,18,CN Greaves,JN Frylinck,JH Davey,,0,0,0,,,,31646231646
+1,Scotland,18,CN Greaves,JN Frylinck,JH Davey,,0,1,1,,,,31646231646
+1,Scotland,18,JH Davey,JN Frylinck,CN Greaves,,0,0,0,,,,31646231646
+1,Scotland,18,JH Davey,JN Frylinck,CN Greaves,,0,1,1,,,,31646231646
+1,Scotland,18,CN Greaves,JN Frylinck,JH Davey,,0,1,1,,,,31646231646
+1,Scotland,19,CN Greaves,D Wiese,JH Davey,,0,1,1,,,,31646231646
+1,Scotland,19,JH Davey,D Wiese,CN Greaves,,0,2,2,,,,31646231646
+1,Scotland,19,JH Davey,D Wiese,CN Greaves,,0,1,1,,,,31646231646
+1,Scotland,19,CN Greaves,D Wiese,JH Davey,,0,1,1,,,,31646231646
+1,Scotland,19,JH Davey,D Wiese,CN Greaves,wides,1,1,0,,,,31646231646
+1,Scotland,19,JH Davey,D Wiese,CN Greaves,,0,1,1,,,,31646231646
+1,Scotland,19,CN Greaves,D Wiese,JH Davey,,0,0,0,run out,CN Greaves,D Wiese,31646231646

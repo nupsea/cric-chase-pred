@@ -1,0 +1,122 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,T Bavuma,MA Starc,Q de Kock,,0,2,2,,,,31638231638
+1,South Africa,0,T Bavuma,MA Starc,Q de Kock,,0,0,0,,,,31638231638
+1,South Africa,0,T Bavuma,MA Starc,Q de Kock,,0,4,4,,,,31638231638
+1,South Africa,0,T Bavuma,MA Starc,Q de Kock,,0,4,4,,,,31638231638
+1,South Africa,0,T Bavuma,MA Starc,Q de Kock,,0,1,1,,,,31638231638
+1,South Africa,0,Q de Kock,MA Starc,T Bavuma,,0,0,0,,,,31638231638
+1,South Africa,1,T Bavuma,GJ Maxwell,Q de Kock,,0,1,1,,,,31638231638
+1,South Africa,1,Q de Kock,GJ Maxwell,T Bavuma,,0,1,1,,,,31638231638
+1,South Africa,1,T Bavuma,GJ Maxwell,Q de Kock,,0,0,0,bowled,T Bavuma,,31638231638
+1,South Africa,1,HE van der Dussen,GJ Maxwell,Q de Kock,,0,1,1,,,,31638231638
+1,South Africa,1,Q de Kock,GJ Maxwell,HE van der Dussen,,0,1,1,,,,31638231638
+1,South Africa,1,HE van der Dussen,GJ Maxwell,Q de Kock,,0,1,1,,,,31638231638
+1,South Africa,2,HE van der Dussen,JR Hazlewood,Q de Kock,,0,0,0,caught,HE van der Dussen,MS Wade,31638231638
+1,South Africa,2,AK Markram,JR Hazlewood,Q de Kock,,0,1,1,,,,31638231638
+1,South Africa,2,Q de Kock,JR Hazlewood,AK Markram,,0,0,0,,,,31638231638
+1,South Africa,2,Q de Kock,JR Hazlewood,AK Markram,,0,0,0,,,,31638231638
+1,South Africa,2,Q de Kock,JR Hazlewood,AK Markram,,0,0,0,,,,31638231638
+1,South Africa,2,Q de Kock,JR Hazlewood,AK Markram,,0,0,0,,,,31638231638
+1,South Africa,3,AK Markram,GJ Maxwell,Q de Kock,,0,0,0,,,,31638231638
+1,South Africa,3,AK Markram,GJ Maxwell,Q de Kock,,0,1,1,,,,31638231638
+1,South Africa,3,Q de Kock,GJ Maxwell,AK Markram,,0,0,0,,,,31638231638
+1,South Africa,3,Q de Kock,GJ Maxwell,AK Markram,,0,4,4,,,,31638231638
+1,South Africa,3,Q de Kock,GJ Maxwell,AK Markram,,0,0,0,,,,31638231638
+1,South Africa,3,Q de Kock,GJ Maxwell,AK Markram,,0,1,1,,,,31638231638
+1,South Africa,4,Q de Kock,JR Hazlewood,AK Markram,,0,0,0,bowled,Q de Kock,,31638231638
+1,South Africa,4,H Klaasen,JR Hazlewood,AK Markram,,0,0,0,,,,31638231638
+1,South Africa,4,H Klaasen,JR Hazlewood,AK Markram,,0,0,0,,,,31638231638
+1,South Africa,4,H Klaasen,JR Hazlewood,AK Markram,,0,0,0,,,,31638231638
+1,South Africa,4,H Klaasen,JR Hazlewood,AK Markram,,0,0,0,,,,31638231638
+1,South Africa,4,H Klaasen,JR Hazlewood,AK Markram,,0,0,0,,,,31638231638
+1,South Africa,5,AK Markram,PJ Cummins,H Klaasen,,0,0,0,,,,31638231638
+1,South Africa,5,AK Markram,PJ Cummins,H Klaasen,,0,0,0,,,,31638231638
+1,South Africa,5,AK Markram,PJ Cummins,H Klaasen,,0,0,0,,,,31638231638
+1,South Africa,5,AK Markram,PJ Cummins,H Klaasen,,0,4,4,,,,31638231638
+1,South Africa,5,AK Markram,PJ Cummins,H Klaasen,,0,1,1,,,,31638231638
+1,South Africa,5,H Klaasen,PJ Cummins,AK Markram,,0,1,1,,,,31638231638
+1,South Africa,6,H Klaasen,A Zampa,AK Markram,legbyes,1,1,0,,,,31638231638
+1,South Africa,6,AK Markram,A Zampa,H Klaasen,,0,1,1,,,,31638231638
+1,South Africa,6,H Klaasen,A Zampa,AK Markram,,0,3,3,,,,31638231638
+1,South Africa,6,AK Markram,A Zampa,H Klaasen,,0,1,1,,,,31638231638
+1,South Africa,6,H Klaasen,A Zampa,AK Markram,,0,4,4,,,,31638231638
+1,South Africa,6,H Klaasen,A Zampa,AK Markram,,0,0,0,,,,31638231638
+1,South Africa,7,AK Markram,PJ Cummins,H Klaasen,,0,1,1,,,,31638231638
+1,South Africa,7,H Klaasen,PJ Cummins,AK Markram,,0,4,4,,,,31638231638
+1,South Africa,7,H Klaasen,PJ Cummins,AK Markram,,0,1,1,,,,31638231638
+1,South Africa,7,AK Markram,PJ Cummins,H Klaasen,,0,0,0,,,,31638231638
+1,South Africa,7,AK Markram,PJ Cummins,H Klaasen,,0,1,1,,,,31638231638
+1,South Africa,7,H Klaasen,PJ Cummins,AK Markram,,0,0,0,caught,H Klaasen,SPD Smith,31638231638
+1,South Africa,8,AK Markram,MA Starc,DA Miller,,0,0,0,,,,31638231638
+1,South Africa,8,AK Markram,MA Starc,DA Miller,,0,2,2,,,,31638231638
+1,South Africa,8,AK Markram,MA Starc,DA Miller,,0,4,4,,,,31638231638
+1,South Africa,8,AK Markram,MA Starc,DA Miller,,0,1,1,,,,31638231638
+1,South Africa,8,DA Miller,MA Starc,AK Markram,,0,1,1,,,,31638231638
+1,South Africa,8,AK Markram,MA Starc,DA Miller,,0,0,0,,,,31638231638
+1,South Africa,9,DA Miller,GJ Maxwell,AK Markram,,0,0,0,,,,31638231638
+1,South Africa,9,DA Miller,GJ Maxwell,AK Markram,,0,2,2,,,,31638231638
+1,South Africa,9,DA Miller,GJ Maxwell,AK Markram,,0,1,1,,,,31638231638
+1,South Africa,9,AK Markram,GJ Maxwell,DA Miller,,0,0,0,,,,31638231638
+1,South Africa,9,AK Markram,GJ Maxwell,DA Miller,,0,1,1,,,,31638231638
+1,South Africa,9,DA Miller,GJ Maxwell,AK Markram,,0,1,1,,,,31638231638
+1,South Africa,10,DA Miller,A Zampa,AK Markram,,0,0,0,,,,31638231638
+1,South Africa,10,DA Miller,A Zampa,AK Markram,,0,2,2,,,,31638231638
+1,South Africa,10,DA Miller,A Zampa,AK Markram,,0,1,1,,,,31638231638
+1,South Africa,10,AK Markram,A Zampa,DA Miller,,0,1,1,,,,31638231638
+1,South Africa,10,DA Miller,A Zampa,AK Markram,,0,0,0,,,,31638231638
+1,South Africa,10,DA Miller,A Zampa,AK Markram,,0,0,0,,,,31638231638
+1,South Africa,11,AK Markram,GJ Maxwell,DA Miller,,0,1,1,,,,31638231638
+1,South Africa,11,DA Miller,GJ Maxwell,AK Markram,,0,1,1,,,,31638231638
+1,South Africa,11,AK Markram,GJ Maxwell,DA Miller,,0,0,0,,,,31638231638
+1,South Africa,11,AK Markram,GJ Maxwell,DA Miller,,0,1,1,,,,31638231638
+1,South Africa,11,DA Miller,GJ Maxwell,AK Markram,,0,1,1,,,,31638231638
+1,South Africa,11,AK Markram,GJ Maxwell,DA Miller,,0,4,4,,,,31638231638
+1,South Africa,12,DA Miller,JR Hazlewood,AK Markram,,0,1,1,,,,31638231638
+1,South Africa,12,AK Markram,JR Hazlewood,DA Miller,,0,1,1,,,,31638231638
+1,South Africa,12,DA Miller,JR Hazlewood,AK Markram,,0,1,1,,,,31638231638
+1,South Africa,12,AK Markram,JR Hazlewood,DA Miller,,0,1,1,,,,31638231638
+1,South Africa,12,DA Miller,JR Hazlewood,AK Markram,,0,2,2,,,,31638231638
+1,South Africa,12,DA Miller,JR Hazlewood,AK Markram,,0,0,0,,,,31638231638
+1,South Africa,13,AK Markram,A Zampa,DA Miller,,0,1,1,,,,31638231638
+1,South Africa,13,DA Miller,A Zampa,AK Markram,,0,2,2,,,,31638231638
+1,South Africa,13,DA Miller,A Zampa,AK Markram,,0,0,0,lbw,DA Miller,,31638231638
+1,South Africa,13,D Pretorius,A Zampa,AK Markram,,0,1,1,,,,31638231638
+1,South Africa,13,AK Markram,A Zampa,D Pretorius,,0,1,1,,,,31638231638
+1,South Africa,13,D Pretorius,A Zampa,AK Markram,,0,0,0,caught,D Pretorius,MS Wade,31638231638
+1,South Africa,14,AK Markram,PJ Cummins,KA Maharaj,,0,1,1,,,,31638231638
+1,South Africa,14,KA Maharaj,PJ Cummins,AK Markram,,0,0,0,,,,31638231638
+1,South Africa,14,KA Maharaj,PJ Cummins,AK Markram,,0,0,0,run out,KA Maharaj,MS Wade,31638231638
+1,South Africa,14,K Rabada,PJ Cummins,AK Markram,,0,0,0,,,,31638231638
+1,South Africa,14,K Rabada,PJ Cummins,AK Markram,,0,0,0,,,,31638231638
+1,South Africa,14,K Rabada,PJ Cummins,AK Markram,,0,0,0,,,,31638231638
+1,South Africa,15,AK Markram,A Zampa,K Rabada,,0,1,1,,,,31638231638
+1,South Africa,15,K Rabada,A Zampa,AK Markram,,0,0,0,,,,31638231638
+1,South Africa,15,K Rabada,A Zampa,AK Markram,,0,1,1,,,,31638231638
+1,South Africa,15,AK Markram,A Zampa,K Rabada,,0,0,0,,,,31638231638
+1,South Africa,15,AK Markram,A Zampa,K Rabada,,0,1,1,,,,31638231638
+1,South Africa,15,K Rabada,A Zampa,AK Markram,,0,0,0,,,,31638231638
+1,South Africa,16,AK Markram,JR Hazlewood,K Rabada,,0,6,6,,,,31638231638
+1,South Africa,16,AK Markram,JR Hazlewood,K Rabada,wides,1,1,0,,,,31638231638
+1,South Africa,16,AK Markram,JR Hazlewood,K Rabada,,0,1,1,,,,31638231638
+1,South Africa,16,K Rabada,JR Hazlewood,AK Markram,,0,0,0,,,,31638231638
+1,South Africa,16,K Rabada,JR Hazlewood,AK Markram,,0,4,4,,,,31638231638
+1,South Africa,16,K Rabada,JR Hazlewood,AK Markram,,0,0,0,,,,31638231638
+1,South Africa,16,K Rabada,JR Hazlewood,AK Markram,,0,0,0,,,,31638231638
+1,South Africa,17,AK Markram,MA Starc,K Rabada,,0,0,0,caught,AK Markram,GJ Maxwell,31638231638
+1,South Africa,17,K Rabada,MA Starc,A Nortje,,0,0,0,,,,31638231638
+1,South Africa,17,K Rabada,MA Starc,A Nortje,,0,0,0,,,,31638231638
+1,South Africa,17,K Rabada,MA Starc,A Nortje,,0,0,0,,,,31638231638
+1,South Africa,17,K Rabada,MA Starc,A Nortje,,0,1,1,,,,31638231638
+1,South Africa,17,A Nortje,MA Starc,K Rabada,,0,2,2,,,,31638231638
+1,South Africa,18,K Rabada,PJ Cummins,A Nortje,,0,0,0,,,,31638231638
+1,South Africa,18,K Rabada,PJ Cummins,A Nortje,,0,2,2,,,,31638231638
+1,South Africa,18,K Rabada,PJ Cummins,A Nortje,,0,0,0,,,,31638231638
+1,South Africa,18,K Rabada,PJ Cummins,A Nortje,legbyes,1,1,0,,,,31638231638
+1,South Africa,18,A Nortje,PJ Cummins,K Rabada,byes,1,1,0,,,,31638231638
+1,South Africa,18,K Rabada,PJ Cummins,A Nortje,,0,1,1,,,,31638231638
+1,South Africa,19,K Rabada,MA Starc,A Nortje,,0,2,2,,,,31638231638
+1,South Africa,19,K Rabada,MA Starc,A Nortje,,0,6,6,,,,31638231638
+1,South Africa,19,K Rabada,MA Starc,A Nortje,legbyes,1,1,0,,,,31638231638
+1,South Africa,19,A Nortje,MA Starc,K Rabada,,0,0,0,caught,A Nortje,AJ Finch,31638231638
+1,South Africa,19,T Shamsi,MA Starc,K Rabada,byes,1,1,0,,,,31638231638
+1,South Africa,19,K Rabada,MA Starc,T Shamsi,,0,2,2,,,,31638231638

@@ -1,0 +1,50 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Thailand,0,N Chantam,Wang Meng,N Chaiwai,,0,0,0,,,,31000231000
+2,Thailand,0,N Chantam,Wang Meng,N Chaiwai,,0,0,0,,,,31000231000
+2,Thailand,0,N Chantam,Wang Meng,N Chaiwai,,0,1,1,,,,31000231000
+2,Thailand,0,N Chaiwai,Wang Meng,N Chantam,,0,0,0,,,,31000231000
+2,Thailand,0,N Chaiwai,Wang Meng,N Chantam,,0,0,0,bowled,N Chaiwai,,31000231000
+2,Thailand,0,N Boochatham,Wang Meng,N Chantam,,0,0,0,,,,31000231000
+2,Thailand,1,N Chantam,Zhang Xiangxue,N Boochatham,,0,0,0,,,,31000231000
+2,Thailand,1,N Chantam,Zhang Xiangxue,N Boochatham,wides,1,1,0,,,,31000231000
+2,Thailand,1,N Chantam,Zhang Xiangxue,N Boochatham,,0,0,0,,,,31000231000
+2,Thailand,1,N Chantam,Zhang Xiangxue,N Boochatham,,0,4,4,,,,31000231000
+2,Thailand,1,N Chantam,Zhang Xiangxue,N Boochatham,,0,2,2,,,,31000231000
+2,Thailand,1,N Chantam,Zhang Xiangxue,N Boochatham,,0,4,4,,,,31000231000
+2,Thailand,1,N Chantam,Zhang Xiangxue,N Boochatham,,0,1,1,,,,31000231000
+2,Thailand,2,N Chantam,Wang Meng,N Boochatham,,0,0,0,,,,31000231000
+2,Thailand,2,N Chantam,Wang Meng,N Boochatham,,0,0,0,,,,31000231000
+2,Thailand,2,N Chantam,Wang Meng,N Boochatham,,0,2,2,,,,31000231000
+2,Thailand,2,N Chantam,Wang Meng,N Boochatham,,0,0,0,,,,31000231000
+2,Thailand,2,N Chantam,Wang Meng,N Boochatham,,0,1,1,,,,31000231000
+2,Thailand,2,N Boochatham,Wang Meng,N Chantam,,0,0,0,,,,31000231000
+2,Thailand,3,N Chantam,Wu Juan,N Boochatham,,0,1,1,,,,31000231000
+2,Thailand,3,N Boochatham,Wu Juan,N Chantam,,0,0,0,,,,31000231000
+2,Thailand,3,N Boochatham,Wu Juan,N Chantam,,0,0,0,,,,31000231000
+2,Thailand,3,N Boochatham,Wu Juan,N Chantam,,0,0,0,,,,31000231000
+2,Thailand,3,N Boochatham,Wu Juan,N Chantam,,0,1,1,,,,31000231000
+2,Thailand,3,N Chantam,Wu Juan,N Boochatham,,0,0,0,caught,N Chantam,Zhang Mei,31000231000
+2,Thailand,4,C Sutthiruang,L Jie,N Boochatham,,0,0,0,,,,31000231000
+2,Thailand,4,C Sutthiruang,L Jie,N Boochatham,,0,1,1,,,,31000231000
+2,Thailand,4,N Boochatham,L Jie,C Sutthiruang,,0,0,0,,,,31000231000
+2,Thailand,4,N Boochatham,L Jie,C Sutthiruang,,0,0,0,,,,31000231000
+2,Thailand,4,N Boochatham,L Jie,C Sutthiruang,,0,1,1,,,,31000231000
+2,Thailand,4,C Sutthiruang,L Jie,N Boochatham,,0,0,0,,,,31000231000
+2,Thailand,5,N Boochatham,Wu Juan,C Sutthiruang,,0,1,1,,,,31000231000
+2,Thailand,5,C Sutthiruang,Wu Juan,N Boochatham,,0,1,1,,,,31000231000
+2,Thailand,5,N Boochatham,Wu Juan,C Sutthiruang,,0,0,0,,,,31000231000
+2,Thailand,5,N Boochatham,Wu Juan,C Sutthiruang,,0,0,0,bowled,N Boochatham,,31000231000
+2,Thailand,5,O Kamchomphu,Wu Juan,C Sutthiruang,,0,0,0,,,,31000231000
+2,Thailand,5,O Kamchomphu,Wu Juan,C Sutthiruang,wides,1,1,0,,,,31000231000
+2,Thailand,5,O Kamchomphu,Wu Juan,C Sutthiruang,,0,1,1,,,,31000231000
+2,Thailand,6,O Kamchomphu,Han Lili,C Sutthiruang,,0,0,0,,,,31000231000
+2,Thailand,6,O Kamchomphu,Han Lili,C Sutthiruang,,0,2,2,,,,31000231000
+2,Thailand,6,O Kamchomphu,Han Lili,C Sutthiruang,,0,0,0,caught,O Kamchomphu,Wu Juan,31000231000
+2,Thailand,6,C Sutthiruang,Han Lili,S Tippoch,,0,1,1,,,,31000231000
+2,Thailand,6,S Tippoch,Han Lili,C Sutthiruang,,0,1,1,,,,31000231000
+2,Thailand,6,C Sutthiruang,Han Lili,S Tippoch,,0,0,0,,,,31000231000
+2,Thailand,7,S Tippoch,L Jie,C Sutthiruang,byes,1,1,0,,,,31000231000
+2,Thailand,7,C Sutthiruang,L Jie,S Tippoch,,0,2,2,,,,31000231000
+2,Thailand,7,C Sutthiruang,L Jie,S Tippoch,,0,0,0,,,,31000231000
+2,Thailand,7,C Sutthiruang,L Jie,S Tippoch,,0,0,0,,,,31000231000
+2,Thailand,7,C Sutthiruang,L Jie,S Tippoch,,0,4,4,,,,31000231000

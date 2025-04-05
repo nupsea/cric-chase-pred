@@ -1,0 +1,113 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Sri Lanka,0,SI Galagedara,SEA Ruck,BYA Mendis,,0,4,4,,,,325123251
+1,Sri Lanka,0,SI Galagedara,SEA Ruck,BYA Mendis,,0,0,0,,,,325123251
+1,Sri Lanka,0,SI Galagedara,SEA Ruck,BYA Mendis,,0,0,0,,,,325123251
+1,Sri Lanka,0,SI Galagedara,SEA Ruck,BYA Mendis,,0,0,0,,,,325123251
+1,Sri Lanka,0,SI Galagedara,SEA Ruck,BYA Mendis,,0,1,1,,,,325123251
+1,Sri Lanka,0,BYA Mendis,SEA Ruck,SI Galagedara,,0,0,0,,,,325123251
+1,Sri Lanka,1,SI Galagedara,NJ Browne,BYA Mendis,legbyes,1,1,0,,,,325123251
+1,Sri Lanka,1,BYA Mendis,NJ Browne,SI Galagedara,,0,2,2,,,,325123251
+1,Sri Lanka,1,BYA Mendis,NJ Browne,SI Galagedara,,0,0,0,,,,325123251
+1,Sri Lanka,1,BYA Mendis,NJ Browne,SI Galagedara,,0,0,0,,,,325123251
+1,Sri Lanka,1,BYA Mendis,NJ Browne,SI Galagedara,,0,0,0,,,,325123251
+1,Sri Lanka,1,BYA Mendis,NJ Browne,SI Galagedara,,0,0,0,,,,325123251
+1,Sri Lanka,2,SI Galagedara,SEA Ruck,BYA Mendis,,0,0,0,,,,325123251
+1,Sri Lanka,2,SI Galagedara,SEA Ruck,BYA Mendis,,0,1,1,,,,325123251
+1,Sri Lanka,2,BYA Mendis,SEA Ruck,SI Galagedara,,0,0,0,caught,BYA Mendis,NJ Browne,325123251
+1,Sri Lanka,2,AC Jayangani,SEA Ruck,SI Galagedara,,0,1,1,,,,325123251
+1,Sri Lanka,2,SI Galagedara,SEA Ruck,AC Jayangani,,0,0,0,,,,325123251
+1,Sri Lanka,2,SI Galagedara,SEA Ruck,AC Jayangani,,0,0,0,,,,325123251
+1,Sri Lanka,3,AC Jayangani,NJ Browne,SI Galagedara,,0,1,1,,,,325123251
+1,Sri Lanka,3,SI Galagedara,NJ Browne,AC Jayangani,wides,1,1,0,,,,325123251
+1,Sri Lanka,3,SI Galagedara,NJ Browne,AC Jayangani,,0,0,0,,,,325123251
+1,Sri Lanka,3,SI Galagedara,NJ Browne,AC Jayangani,,0,0,0,,,,325123251
+1,Sri Lanka,3,SI Galagedara,NJ Browne,AC Jayangani,,0,4,4,,,,325123251
+1,Sri Lanka,3,SI Galagedara,NJ Browne,AC Jayangani,,0,0,0,,,,325123251
+1,Sri Lanka,3,SI Galagedara,NJ Browne,AC Jayangani,,0,0,0,,,,325123251
+1,Sri Lanka,4,AC Jayangani,SEA Ruck,SI Galagedara,,0,4,4,,,,325123251
+1,Sri Lanka,4,AC Jayangani,SEA Ruck,SI Galagedara,wides,5,5,0,,,,325123251
+1,Sri Lanka,4,AC Jayangani,SEA Ruck,SI Galagedara,,0,4,4,,,,325123251
+1,Sri Lanka,4,AC Jayangani,SEA Ruck,SI Galagedara,,0,1,1,,,,325123251
+1,Sri Lanka,4,SI Galagedara,SEA Ruck,AC Jayangani,,0,0,0,,,,325123251
+1,Sri Lanka,4,SI Galagedara,SEA Ruck,AC Jayangani,,0,0,0,,,,325123251
+1,Sri Lanka,4,SI Galagedara,SEA Ruck,AC Jayangani,,0,1,1,,,,325123251
+1,Sri Lanka,5,SI Galagedara,EM Bermingham,AC Jayangani,wides,5,5,0,,,,325123251
+1,Sri Lanka,5,SI Galagedara,EM Bermingham,AC Jayangani,,0,1,1,,,,325123251
+1,Sri Lanka,5,AC Jayangani,EM Bermingham,SI Galagedara,,0,0,0,,,,325123251
+1,Sri Lanka,5,AC Jayangani,EM Bermingham,SI Galagedara,,0,0,0,,,,325123251
+1,Sri Lanka,5,AC Jayangani,EM Bermingham,SI Galagedara,,0,0,0,caught,AC Jayangani,SFM Devine,325123251
+1,Sri Lanka,5,SI Galagedara,EM Bermingham,HASD Siriwardene,,0,1,1,,,,325123251
+1,Sri Lanka,5,HASD Siriwardene,EM Bermingham,SI Galagedara,,0,0,0,,,,325123251
+1,Sri Lanka,6,SI Galagedara,NJ Browne,HASD Siriwardene,,0,1,1,,,,325123251
+1,Sri Lanka,6,HASD Siriwardene,NJ Browne,SI Galagedara,,0,1,1,,,,325123251
+1,Sri Lanka,6,SI Galagedara,NJ Browne,HASD Siriwardene,,0,0,0,bowled,SI Galagedara,,325123251
+1,Sri Lanka,6,MADD Surangika,NJ Browne,HASD Siriwardene,,0,0,0,,,,325123251
+1,Sri Lanka,6,MADD Surangika,NJ Browne,HASD Siriwardene,,0,1,1,,,,325123251
+1,Sri Lanka,6,HASD Siriwardene,NJ Browne,MADD Surangika,,0,0,0,,,,325123251
+1,Sri Lanka,7,MADD Surangika,EM Bermingham,HASD Siriwardene,,0,0,0,,,,325123251
+1,Sri Lanka,7,MADD Surangika,EM Bermingham,HASD Siriwardene,,0,1,1,,,,325123251
+1,Sri Lanka,7,HASD Siriwardene,EM Bermingham,MADD Surangika,,0,0,0,,,,325123251
+1,Sri Lanka,7,HASD Siriwardene,EM Bermingham,MADD Surangika,,0,1,1,,,,325123251
+1,Sri Lanka,7,MADD Surangika,EM Bermingham,HASD Siriwardene,,0,4,4,,,,325123251
+1,Sri Lanka,7,MADD Surangika,EM Bermingham,HASD Siriwardene,,0,2,2,,,,325123251
+1,Sri Lanka,8,HASD Siriwardene,NJ Browne,MADD Surangika,,0,1,1,,,,325123251
+1,Sri Lanka,8,MADD Surangika,NJ Browne,HASD Siriwardene,,0,0,0,,,,325123251
+1,Sri Lanka,8,MADD Surangika,NJ Browne,HASD Siriwardene,,0,1,1,,,,325123251
+1,Sri Lanka,8,HASD Siriwardene,NJ Browne,MADD Surangika,,0,0,0,,,,325123251
+1,Sri Lanka,8,HASD Siriwardene,NJ Browne,MADD Surangika,,0,4,4,,,,325123251
+1,Sri Lanka,8,HASD Siriwardene,NJ Browne,MADD Surangika,,0,0,0,,,,325123251
+1,Sri Lanka,9,MADD Surangika,MJG Nielsen,HASD Siriwardene,,0,0,0,,,,325123251
+1,Sri Lanka,9,MADD Surangika,MJG Nielsen,HASD Siriwardene,,0,1,1,,,,325123251
+1,Sri Lanka,9,HASD Siriwardene,MJG Nielsen,MADD Surangika,,0,2,2,,,,325123251
+1,Sri Lanka,9,HASD Siriwardene,MJG Nielsen,MADD Surangika,,0,1,1,,,,325123251
+1,Sri Lanka,9,MADD Surangika,MJG Nielsen,HASD Siriwardene,,0,0,0,,,,325123251
+1,Sri Lanka,9,MADD Surangika,MJG Nielsen,HASD Siriwardene,legbyes,1,1,0,,,,325123251
+1,Sri Lanka,10,MADD Surangika,SFM Devine,HASD Siriwardene,wides,1,1,0,,,,325123251
+1,Sri Lanka,10,MADD Surangika,SFM Devine,HASD Siriwardene,wides,1,1,0,,,,325123251
+1,Sri Lanka,10,MADD Surangika,SFM Devine,HASD Siriwardene,,0,1,1,,,,325123251
+1,Sri Lanka,10,HASD Siriwardene,SFM Devine,MADD Surangika,legbyes,1,1,0,,,,325123251
+1,Sri Lanka,10,MADD Surangika,SFM Devine,HASD Siriwardene,,0,0,0,,,,325123251
+1,Sri Lanka,10,MADD Surangika,SFM Devine,HASD Siriwardene,,0,0,0,,,,325123251
+1,Sri Lanka,10,MADD Surangika,SFM Devine,HASD Siriwardene,legbyes,1,1,0,,,,325123251
+1,Sri Lanka,10,HASD Siriwardene,SFM Devine,MADD Surangika,,0,4,4,,,,325123251
+1,Sri Lanka,11,MADD Surangika,MJG Nielsen,HASD Siriwardene,,0,0,0,,,,325123251
+1,Sri Lanka,11,MADD Surangika,MJG Nielsen,HASD Siriwardene,,0,0,0,lbw,MADD Surangika,,325123251
+1,Sri Lanka,11,SS Weerakkody,MJG Nielsen,HASD Siriwardene,,0,0,0,run out,HASD Siriwardene,KJ Martin,325123251
+1,Sri Lanka,11,SK Dolawatte,MJG Nielsen,SS Weerakkody,,0,0,0,,,,325123251
+1,Sri Lanka,11,SK Dolawatte,MJG Nielsen,SS Weerakkody,,0,0,0,,,,325123251
+1,Sri Lanka,11,SK Dolawatte,MJG Nielsen,SS Weerakkody,,0,0,0,,,,325123251
+1,Sri Lanka,12,SS Weerakkody,EM Bermingham,SK Dolawatte,,0,4,4,,,,325123251
+1,Sri Lanka,12,SS Weerakkody,EM Bermingham,SK Dolawatte,,0,1,1,,,,325123251
+1,Sri Lanka,12,SK Dolawatte,EM Bermingham,SS Weerakkody,,0,0,0,,,,325123251
+1,Sri Lanka,12,SK Dolawatte,EM Bermingham,SS Weerakkody,,0,0,0,,,,325123251
+1,Sri Lanka,12,SK Dolawatte,EM Bermingham,SS Weerakkody,,0,0,0,,,,325123251
+1,Sri Lanka,12,SK Dolawatte,EM Bermingham,SS Weerakkody,,0,1,1,,,,325123251
+1,Sri Lanka,13,SK Dolawatte,MJG Nielsen,SS Weerakkody,wides,1,1,0,,,,325123251
+1,Sri Lanka,13,SK Dolawatte,MJG Nielsen,SS Weerakkody,,0,0,0,run out,SS Weerakkody,KJ Martin,325123251
+1,Sri Lanka,13,HMD Rasangika,MJG Nielsen,SK Dolawatte,,0,0,0,,,,325123251
+1,Sri Lanka,13,HMD Rasangika,MJG Nielsen,SK Dolawatte,,0,0,0,,,,325123251
+1,Sri Lanka,13,HMD Rasangika,MJG Nielsen,SK Dolawatte,,0,0,0,,,,325123251
+1,Sri Lanka,13,HMD Rasangika,MJG Nielsen,SK Dolawatte,,0,0,0,bowled,HMD Rasangika,,325123251
+1,Sri Lanka,13,CR Seneviratna,MJG Nielsen,SK Dolawatte,,0,0,0,,,,325123251
+1,Sri Lanka,14,SK Dolawatte,EM Bermingham,CR Seneviratna,,0,0,0,caught,SK Dolawatte,SW Bates,325123251
+1,Sri Lanka,14,LE Kaushalya,EM Bermingham,CR Seneviratna,,0,2,2,,,,325123251
+1,Sri Lanka,14,LE Kaushalya,EM Bermingham,CR Seneviratna,,0,1,1,,,,325123251
+1,Sri Lanka,14,CR Seneviratna,EM Bermingham,LE Kaushalya,,0,1,1,,,,325123251
+1,Sri Lanka,14,LE Kaushalya,EM Bermingham,CR Seneviratna,,0,0,0,,,,325123251
+1,Sri Lanka,14,LE Kaushalya,EM Bermingham,CR Seneviratna,,0,1,1,,,,325123251
+1,Sri Lanka,15,LE Kaushalya,MJG Nielsen,CR Seneviratna,,0,1,1,,,,325123251
+1,Sri Lanka,15,CR Seneviratna,MJG Nielsen,LE Kaushalya,,0,1,1,,,,325123251
+1,Sri Lanka,15,LE Kaushalya,MJG Nielsen,CR Seneviratna,,0,1,1,,,,325123251
+1,Sri Lanka,15,CR Seneviratna,MJG Nielsen,LE Kaushalya,,0,1,1,,,,325123251
+1,Sri Lanka,15,LE Kaushalya,MJG Nielsen,CR Seneviratna,byes,1,1,0,,,,325123251
+1,Sri Lanka,15,CR Seneviratna,MJG Nielsen,LE Kaushalya,,0,1,1,,,,325123251
+1,Sri Lanka,16,CR Seneviratna,SEA Ruck,LE Kaushalya,,0,0,0,,,,325123251
+1,Sri Lanka,16,CR Seneviratna,SEA Ruck,LE Kaushalya,,0,0,0,,,,325123251
+1,Sri Lanka,16,CR Seneviratna,SEA Ruck,LE Kaushalya,,0,1,1,,,,325123251
+1,Sri Lanka,16,LE Kaushalya,SEA Ruck,CR Seneviratna,,0,0,0,,,,325123251
+1,Sri Lanka,16,LE Kaushalya,SEA Ruck,CR Seneviratna,,0,0,0,caught,LE Kaushalya,SJ McGlashan,325123251
+1,Sri Lanka,16,CR Seneviratna,SEA Ruck,I Ranaweera,,0,0,0,,,,325123251
+1,Sri Lanka,17,I Ranaweera,FL Mackay,CR Seneviratna,,0,0,0,,,,325123251
+1,Sri Lanka,17,I Ranaweera,FL Mackay,CR Seneviratna,,0,0,0,,,,325123251
+1,Sri Lanka,17,I Ranaweera,FL Mackay,CR Seneviratna,,0,1,1,,,,325123251
+1,Sri Lanka,17,CR Seneviratna,FL Mackay,I Ranaweera,,0,0,0,caught,CR Seneviratna,SJ McGlashan,325123251

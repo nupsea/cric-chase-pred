@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Netherlands,0,TP Visee,E Otieno,MP O'Dowd,wides,1,1,0,,,,31275231275
+1,Netherlands,0,TP Visee,E Otieno,MP O'Dowd,,0,1,1,,,,31275231275
+1,Netherlands,0,MP O'Dowd,E Otieno,TP Visee,,0,0,0,,,,31275231275
+1,Netherlands,0,MP O'Dowd,E Otieno,TP Visee,,0,2,2,,,,31275231275
+1,Netherlands,0,MP O'Dowd,E Otieno,TP Visee,,0,0,0,,,,31275231275
+1,Netherlands,0,MP O'Dowd,E Otieno,TP Visee,,0,0,0,,,,31275231275
+1,Netherlands,0,MP O'Dowd,E Otieno,TP Visee,wides,1,1,0,,,,31275231275
+1,Netherlands,0,MP O'Dowd,E Otieno,TP Visee,,0,3,3,,,,31275231275
+1,Netherlands,1,MP O'Dowd,LN Oluoch,TP Visee,,0,4,4,,,,31275231275
+1,Netherlands,1,MP O'Dowd,LN Oluoch,TP Visee,,0,0,0,,,,31275231275
+1,Netherlands,1,MP O'Dowd,LN Oluoch,TP Visee,,0,1,1,,,,31275231275
+1,Netherlands,1,TP Visee,LN Oluoch,MP O'Dowd,,0,1,1,,,,31275231275
+1,Netherlands,1,MP O'Dowd,LN Oluoch,TP Visee,,0,0,0,,,,31275231275
+1,Netherlands,1,MP O'Dowd,LN Oluoch,TP Visee,,0,1,1,,,,31275231275
+1,Netherlands,2,MP O'Dowd,E Otieno,TP Visee,,0,1,1,,,,31275231275
+1,Netherlands,2,TP Visee,E Otieno,MP O'Dowd,,0,0,0,,,,31275231275
+1,Netherlands,2,TP Visee,E Otieno,MP O'Dowd,,0,4,4,,,,31275231275
+1,Netherlands,2,TP Visee,E Otieno,MP O'Dowd,wides,1,1,0,,,,31275231275
+1,Netherlands,2,TP Visee,E Otieno,MP O'Dowd,,0,6,6,,,,31275231275
+1,Netherlands,2,TP Visee,E Otieno,MP O'Dowd,,0,2,2,,,,31275231275
+1,Netherlands,2,TP Visee,E Otieno,MP O'Dowd,,0,0,0,,,,31275231275
+1,Netherlands,3,MP O'Dowd,NM Odhiambo,TP Visee,,0,1,1,,,,31275231275
+1,Netherlands,3,TP Visee,NM Odhiambo,MP O'Dowd,,0,6,6,,,,31275231275
+1,Netherlands,3,TP Visee,NM Odhiambo,MP O'Dowd,,0,0,0,bowled,TP Visee,,31275231275
+1,Netherlands,3,BN Cooper,NM Odhiambo,MP O'Dowd,legbyes,2,2,0,,,,31275231275
+1,Netherlands,3,BN Cooper,NM Odhiambo,MP O'Dowd,,0,1,1,,,,31275231275
+1,Netherlands,3,MP O'Dowd,NM Odhiambo,BN Cooper,,0,1,1,,,,31275231275
+1,Netherlands,4,MP O'Dowd,LN Oluoch,BN Cooper,,0,1,1,,,,31275231275
+1,Netherlands,4,BN Cooper,LN Oluoch,MP O'Dowd,,0,0,0,,,,31275231275
+1,Netherlands,4,BN Cooper,LN Oluoch,MP O'Dowd,,0,4,4,,,,31275231275
+1,Netherlands,4,BN Cooper,LN Oluoch,MP O'Dowd,,0,1,1,,,,31275231275
+1,Netherlands,4,MP O'Dowd,LN Oluoch,BN Cooper,,0,4,4,,,,31275231275
+1,Netherlands,4,MP O'Dowd,LN Oluoch,BN Cooper,,0,1,1,,,,31275231275
+1,Netherlands,5,MP O'Dowd,NM Odhiambo,BN Cooper,,0,4,4,,,,31275231275
+1,Netherlands,5,MP O'Dowd,NM Odhiambo,BN Cooper,,0,0,0,,,,31275231275
+1,Netherlands,5,MP O'Dowd,NM Odhiambo,BN Cooper,,0,0,0,,,,31275231275
+1,Netherlands,5,MP O'Dowd,NM Odhiambo,BN Cooper,,0,1,1,,,,31275231275
+1,Netherlands,5,BN Cooper,NM Odhiambo,MP O'Dowd,,0,1,1,,,,31275231275
+1,Netherlands,5,MP O'Dowd,NM Odhiambo,BN Cooper,,0,4,4,,,,31275231275
+1,Netherlands,6,BN Cooper,SO Ngoche,MP O'Dowd,,0,1,1,,,,31275231275
+1,Netherlands,6,MP O'Dowd,SO Ngoche,BN Cooper,,0,1,1,,,,31275231275
+1,Netherlands,6,BN Cooper,SO Ngoche,MP O'Dowd,,0,0,0,,,,31275231275
+1,Netherlands,6,BN Cooper,SO Ngoche,MP O'Dowd,,0,0,0,,,,31275231275
+1,Netherlands,6,BN Cooper,SO Ngoche,MP O'Dowd,,0,1,1,,,,31275231275
+1,Netherlands,6,MP O'Dowd,SO Ngoche,BN Cooper,,0,1,1,,,,31275231275
+1,Netherlands,7,MP O'Dowd,P Kerai,BN Cooper,,0,0,0,,,,31275231275
+1,Netherlands,7,MP O'Dowd,P Kerai,BN Cooper,,0,1,1,,,,31275231275
+1,Netherlands,7,BN Cooper,P Kerai,MP O'Dowd,,0,0,0,,,,31275231275
+1,Netherlands,7,BN Cooper,P Kerai,MP O'Dowd,legbyes,1,1,0,,,,31275231275
+1,Netherlands,7,MP O'Dowd,P Kerai,BN Cooper,,0,0,0,,,,31275231275
+1,Netherlands,7,MP O'Dowd,P Kerai,BN Cooper,,0,0,0,,,,31275231275
+1,Netherlands,8,BN Cooper,SO Ngoche,MP O'Dowd,,0,0,0,,,,31275231275
+1,Netherlands,8,BN Cooper,SO Ngoche,MP O'Dowd,,0,4,4,,,,31275231275
+1,Netherlands,8,BN Cooper,SO Ngoche,MP O'Dowd,,0,1,1,,,,31275231275
+1,Netherlands,8,MP O'Dowd,SO Ngoche,BN Cooper,,0,1,1,,,,31275231275
+1,Netherlands,8,BN Cooper,SO Ngoche,MP O'Dowd,legbyes,1,1,0,,,,31275231275
+1,Netherlands,8,MP O'Dowd,SO Ngoche,BN Cooper,,0,0,0,,,,31275231275
+1,Netherlands,9,BN Cooper,P Kerai,MP O'Dowd,,0,4,4,,,,31275231275
+1,Netherlands,9,BN Cooper,P Kerai,MP O'Dowd,,0,0,0,,,,31275231275
+1,Netherlands,9,BN Cooper,P Kerai,MP O'Dowd,,0,1,1,,,,31275231275
+1,Netherlands,9,MP O'Dowd,P Kerai,BN Cooper,,0,6,6,,,,31275231275
+1,Netherlands,9,MP O'Dowd,P Kerai,BN Cooper,,0,0,0,,,,31275231275
+1,Netherlands,9,MP O'Dowd,P Kerai,BN Cooper,,0,1,1,,,,31275231275
+1,Netherlands,10,MP O'Dowd,JS Kundi,BN Cooper,,0,1,1,,,,31275231275
+1,Netherlands,10,BN Cooper,JS Kundi,MP O'Dowd,,0,2,2,,,,31275231275
+1,Netherlands,10,BN Cooper,JS Kundi,MP O'Dowd,,0,1,1,,,,31275231275
+1,Netherlands,10,MP O'Dowd,JS Kundi,BN Cooper,,0,2,2,,,,31275231275
+1,Netherlands,10,MP O'Dowd,JS Kundi,BN Cooper,,0,2,2,,,,31275231275
+1,Netherlands,10,MP O'Dowd,JS Kundi,BN Cooper,,0,1,1,,,,31275231275
+1,Netherlands,11,MP O'Dowd,P Kerai,BN Cooper,,0,1,1,,,,31275231275
+1,Netherlands,11,BN Cooper,P Kerai,MP O'Dowd,,0,4,4,,,,31275231275
+1,Netherlands,11,BN Cooper,P Kerai,MP O'Dowd,,0,4,4,,,,31275231275
+1,Netherlands,11,BN Cooper,P Kerai,MP O'Dowd,,0,1,1,,,,31275231275
+1,Netherlands,11,MP O'Dowd,P Kerai,BN Cooper,,0,1,1,,,,31275231275
+1,Netherlands,11,BN Cooper,P Kerai,MP O'Dowd,,0,2,2,,,,31275231275
+1,Netherlands,12,MP O'Dowd,SO Ngoche,BN Cooper,,0,1,1,,,,31275231275
+1,Netherlands,12,BN Cooper,SO Ngoche,MP O'Dowd,,0,1,1,,,,31275231275
+1,Netherlands,12,MP O'Dowd,SO Ngoche,BN Cooper,,0,1,1,,,,31275231275
+1,Netherlands,12,BN Cooper,SO Ngoche,MP O'Dowd,,0,2,2,,,,31275231275
+1,Netherlands,12,BN Cooper,SO Ngoche,MP O'Dowd,,0,0,0,caught,BN Cooper,CO Obuya,31275231275
+1,Netherlands,12,RN ten Doeschate,SO Ngoche,MP O'Dowd,,0,1,1,,,,31275231275
+1,Netherlands,13,RN ten Doeschate,CO Obuya,MP O'Dowd,,0,2,2,,,,31275231275
+1,Netherlands,13,RN ten Doeschate,CO Obuya,MP O'Dowd,,0,0,0,caught,RN ten Doeschate,DM Gondaria,31275231275
+1,Netherlands,13,MP O'Dowd,CO Obuya,RE van der Merwe,,0,0,0,,,,31275231275
+1,Netherlands,13,MP O'Dowd,CO Obuya,RE van der Merwe,,0,1,1,,,,31275231275
+1,Netherlands,13,RE van der Merwe,CO Obuya,MP O'Dowd,,0,1,1,,,,31275231275
+1,Netherlands,13,MP O'Dowd,CO Obuya,RE van der Merwe,,0,0,0,,,,31275231275
+1,Netherlands,14,RE van der Merwe,SO Ngoche,MP O'Dowd,,0,2,2,,,,31275231275
+1,Netherlands,14,RE van der Merwe,SO Ngoche,MP O'Dowd,,0,0,0,,,,31275231275
+1,Netherlands,14,RE van der Merwe,SO Ngoche,MP O'Dowd,,0,0,0,,,,31275231275
+1,Netherlands,14,RE van der Merwe,SO Ngoche,MP O'Dowd,,0,1,1,,,,31275231275
+1,Netherlands,14,MP O'Dowd,SO Ngoche,RE van der Merwe,,0,1,1,,,,31275231275
+1,Netherlands,14,RE van der Merwe,SO Ngoche,MP O'Dowd,,0,1,1,,,,31275231275
+1,Netherlands,15,RE van der Merwe,CO Obuya,MP O'Dowd,,0,0,0,,,,31275231275
+1,Netherlands,15,RE van der Merwe,CO Obuya,MP O'Dowd,,0,1,1,,,,31275231275
+1,Netherlands,15,MP O'Dowd,CO Obuya,RE van der Merwe,,0,1,1,,,,31275231275
+1,Netherlands,15,RE van der Merwe,CO Obuya,MP O'Dowd,,0,1,1,,,,31275231275
+1,Netherlands,15,MP O'Dowd,CO Obuya,RE van der Merwe,,0,0,0,bowled,MP O'Dowd,,31275231275
+1,Netherlands,15,PM Seelaar,CO Obuya,RE van der Merwe,,0,1,1,,,,31275231275
+1,Netherlands,16,PM Seelaar,NM Odhiambo,RE van der Merwe,,0,1,1,,,,31275231275
+1,Netherlands,16,RE van der Merwe,NM Odhiambo,PM Seelaar,,0,1,1,,,,31275231275
+1,Netherlands,16,PM Seelaar,NM Odhiambo,RE van der Merwe,,0,2,2,,,,31275231275
+1,Netherlands,16,PM Seelaar,NM Odhiambo,RE van der Merwe,,0,1,1,,,,31275231275
+1,Netherlands,16,RE van der Merwe,NM Odhiambo,PM Seelaar,,0,2,2,,,,31275231275
+1,Netherlands,16,RE van der Merwe,NM Odhiambo,PM Seelaar,,0,1,1,,,,31275231275
+1,Netherlands,17,RE van der Merwe,CO Obuya,PM Seelaar,,0,0,0,,,,31275231275
+1,Netherlands,17,RE van der Merwe,CO Obuya,PM Seelaar,,0,1,1,,,,31275231275
+1,Netherlands,17,PM Seelaar,CO Obuya,RE van der Merwe,,0,1,1,,,,31275231275
+1,Netherlands,17,RE van der Merwe,CO Obuya,PM Seelaar,,0,2,2,,,,31275231275
+1,Netherlands,17,RE van der Merwe,CO Obuya,PM Seelaar,,0,0,0,,,,31275231275
+1,Netherlands,17,RE van der Merwe,CO Obuya,PM Seelaar,,0,4,4,,,,31275231275
+1,Netherlands,18,PM Seelaar,NM Odhiambo,RE van der Merwe,,0,2,2,,,,31275231275
+1,Netherlands,18,PM Seelaar,NM Odhiambo,RE van der Merwe,,0,6,6,,,,31275231275
+1,Netherlands,18,PM Seelaar,NM Odhiambo,RE van der Merwe,,0,1,1,,,,31275231275
+1,Netherlands,18,RE van der Merwe,NM Odhiambo,PM Seelaar,,0,1,1,,,,31275231275
+1,Netherlands,18,PM Seelaar,NM Odhiambo,RE van der Merwe,,0,1,1,,,,31275231275
+1,Netherlands,18,RE van der Merwe,NM Odhiambo,PM Seelaar,,0,2,2,,,,31275231275
+1,Netherlands,19,PM Seelaar,E Otieno,RE van der Merwe,,0,4,4,,,,31275231275
+1,Netherlands,19,PM Seelaar,E Otieno,RE van der Merwe,,0,2,2,,,,31275231275
+1,Netherlands,19,PM Seelaar,E Otieno,RE van der Merwe,,0,1,1,,,,31275231275
+1,Netherlands,19,RE van der Merwe,E Otieno,PM Seelaar,legbyes,1,1,0,,,,31275231275
+1,Netherlands,19,PM Seelaar,E Otieno,RE van der Merwe,,0,1,1,,,,31275231275
+1,Netherlands,19,RE van der Merwe,E Otieno,PM Seelaar,byes,1,1,0,,,,31275231275

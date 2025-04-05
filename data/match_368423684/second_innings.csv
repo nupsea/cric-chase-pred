@@ -1,0 +1,118 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Bangladesh,0,Tamim Iqbal,MJ Santner,Imrul Kayes,wides,1,1,0,,,,368423684
+2,Bangladesh,0,Tamim Iqbal,MJ Santner,Imrul Kayes,,0,1,1,,,,368423684
+2,Bangladesh,0,Imrul Kayes,MJ Santner,Tamim Iqbal,,0,0,0,,,,368423684
+2,Bangladesh,0,Imrul Kayes,MJ Santner,Tamim Iqbal,,0,0,0,,,,368423684
+2,Bangladesh,0,Imrul Kayes,MJ Santner,Tamim Iqbal,,0,0,0,caught,Imrul Kayes,TC Bruce,368423684
+2,Bangladesh,0,Sabbir Rahman,MJ Santner,Tamim Iqbal,,0,0,0,,,,368423684
+2,Bangladesh,0,Sabbir Rahman,MJ Santner,Tamim Iqbal,,0,0,0,,,,368423684
+2,Bangladesh,1,Tamim Iqbal,TA Boult,Sabbir Rahman,,0,4,4,,,,368423684
+2,Bangladesh,1,Tamim Iqbal,TA Boult,Sabbir Rahman,,0,0,0,,,,368423684
+2,Bangladesh,1,Tamim Iqbal,TA Boult,Sabbir Rahman,legbyes,1,1,0,,,,368423684
+2,Bangladesh,1,Sabbir Rahman,TA Boult,Tamim Iqbal,,0,0,0,,,,368423684
+2,Bangladesh,1,Sabbir Rahman,TA Boult,Tamim Iqbal,,0,4,4,,,,368423684
+2,Bangladesh,1,Sabbir Rahman,TA Boult,Tamim Iqbal,,0,2,2,,,,368423684
+2,Bangladesh,2,Tamim Iqbal,BM Wheeler,Sabbir Rahman,,0,4,4,,,,368423684
+2,Bangladesh,2,Tamim Iqbal,BM Wheeler,Sabbir Rahman,,0,3,3,,,,368423684
+2,Bangladesh,2,Sabbir Rahman,BM Wheeler,Tamim Iqbal,,0,0,0,,,,368423684
+2,Bangladesh,2,Sabbir Rahman,BM Wheeler,Tamim Iqbal,wides,2,2,0,,,,368423684
+2,Bangladesh,2,Tamim Iqbal,BM Wheeler,Sabbir Rahman,,0,1,1,,,,368423684
+2,Bangladesh,2,Sabbir Rahman,BM Wheeler,Tamim Iqbal,,0,0,0,,,,368423684
+2,Bangladesh,2,Sabbir Rahman,BM Wheeler,Tamim Iqbal,wides,1,1,0,,,,368423684
+2,Bangladesh,2,Sabbir Rahman,BM Wheeler,Tamim Iqbal,,0,0,0,,,,368423684
+2,Bangladesh,3,Tamim Iqbal,C de Grandhomme,Sabbir Rahman,wides,2,2,0,,,,368423684
+2,Bangladesh,3,Sabbir Rahman,C de Grandhomme,Tamim Iqbal,,0,6,6,,,,368423684
+2,Bangladesh,3,Sabbir Rahman,C de Grandhomme,Tamim Iqbal,,0,2,2,,,,368423684
+2,Bangladesh,3,Sabbir Rahman,C de Grandhomme,Tamim Iqbal,,0,0,0,run out,Tamim Iqbal,C de Grandhomme,368423684
+2,Bangladesh,3,Sabbir Rahman,C de Grandhomme,Shakib Al Hasan,,0,0,0,,,,368423684
+2,Bangladesh,3,Sabbir Rahman,C de Grandhomme,Shakib Al Hasan,,0,1,1,,,,368423684
+2,Bangladesh,3,Shakib Al Hasan,C de Grandhomme,Sabbir Rahman,,0,1,1,,,,368423684
+2,Bangladesh,4,Shakib Al Hasan,BM Wheeler,Sabbir Rahman,,0,0,0,caught,Shakib Al Hasan,JDS Neesham,368423684
+2,Bangladesh,4,Soumya Sarkar,BM Wheeler,Sabbir Rahman,,0,2,2,,,,368423684
+2,Bangladesh,4,Soumya Sarkar,BM Wheeler,Sabbir Rahman,,0,0,0,,,,368423684
+2,Bangladesh,4,Soumya Sarkar,BM Wheeler,Sabbir Rahman,,0,2,2,,,,368423684
+2,Bangladesh,4,Soumya Sarkar,BM Wheeler,Sabbir Rahman,,0,0,0,,,,368423684
+2,Bangladesh,4,Soumya Sarkar,BM Wheeler,Sabbir Rahman,,0,1,1,,,,368423684
+2,Bangladesh,5,Soumya Sarkar,TA Boult,Sabbir Rahman,,0,0,0,,,,368423684
+2,Bangladesh,5,Soumya Sarkar,TA Boult,Sabbir Rahman,,0,2,2,,,,368423684
+2,Bangladesh,5,Soumya Sarkar,TA Boult,Sabbir Rahman,,0,0,0,,,,368423684
+2,Bangladesh,5,Soumya Sarkar,TA Boult,Sabbir Rahman,,0,4,4,,,,368423684
+2,Bangladesh,5,Soumya Sarkar,TA Boult,Sabbir Rahman,,0,1,1,,,,368423684
+2,Bangladesh,5,Sabbir Rahman,TA Boult,Soumya Sarkar,,0,0,0,,,,368423684
+2,Bangladesh,6,Soumya Sarkar,IS Sodhi,Sabbir Rahman,,0,1,1,,,,368423684
+2,Bangladesh,6,Sabbir Rahman,IS Sodhi,Soumya Sarkar,,0,6,6,,,,368423684
+2,Bangladesh,6,Sabbir Rahman,IS Sodhi,Soumya Sarkar,wides,1,1,0,,,,368423684
+2,Bangladesh,6,Sabbir Rahman,IS Sodhi,Soumya Sarkar,,0,0,0,,,,368423684
+2,Bangladesh,6,Sabbir Rahman,IS Sodhi,Soumya Sarkar,,0,1,1,,,,368423684
+2,Bangladesh,6,Soumya Sarkar,IS Sodhi,Sabbir Rahman,,0,6,6,,,,368423684
+2,Bangladesh,6,Soumya Sarkar,IS Sodhi,Sabbir Rahman,,0,1,1,,,,368423684
+2,Bangladesh,7,Soumya Sarkar,KS Williamson,Sabbir Rahman,,0,0,0,,,,368423684
+2,Bangladesh,7,Soumya Sarkar,KS Williamson,Sabbir Rahman,,0,1,1,,,,368423684
+2,Bangladesh,7,Sabbir Rahman,KS Williamson,Soumya Sarkar,,0,0,0,,,,368423684
+2,Bangladesh,7,Sabbir Rahman,KS Williamson,Soumya Sarkar,,0,1,1,,,,368423684
+2,Bangladesh,7,Soumya Sarkar,KS Williamson,Sabbir Rahman,,0,0,0,,,,368423684
+2,Bangladesh,7,Soumya Sarkar,KS Williamson,Sabbir Rahman,,0,0,0,,,,368423684
+2,Bangladesh,8,Sabbir Rahman,C de Grandhomme,Soumya Sarkar,,0,6,6,,,,368423684
+2,Bangladesh,8,Sabbir Rahman,C de Grandhomme,Soumya Sarkar,,0,1,1,,,,368423684
+2,Bangladesh,8,Soumya Sarkar,C de Grandhomme,Sabbir Rahman,,0,6,6,,,,368423684
+2,Bangladesh,8,Soumya Sarkar,C de Grandhomme,Sabbir Rahman,,0,1,1,,,,368423684
+2,Bangladesh,8,Sabbir Rahman,C de Grandhomme,Soumya Sarkar,,0,4,4,,,,368423684
+2,Bangladesh,8,Sabbir Rahman,C de Grandhomme,Soumya Sarkar,,0,3,3,,,,368423684
+2,Bangladesh,9,Sabbir Rahman,MJ Santner,Soumya Sarkar,,0,2,2,,,,368423684
+2,Bangladesh,9,Sabbir Rahman,MJ Santner,Soumya Sarkar,,0,1,1,,,,368423684
+2,Bangladesh,9,Soumya Sarkar,MJ Santner,Sabbir Rahman,,0,1,1,,,,368423684
+2,Bangladesh,9,Sabbir Rahman,MJ Santner,Soumya Sarkar,,0,1,1,,,,368423684
+2,Bangladesh,9,Soumya Sarkar,MJ Santner,Sabbir Rahman,,0,0,0,,,,368423684
+2,Bangladesh,9,Soumya Sarkar,MJ Santner,Sabbir Rahman,,0,1,1,,,,368423684
+2,Bangladesh,10,Soumya Sarkar,TA Boult,Sabbir Rahman,,0,4,4,,,,368423684
+2,Bangladesh,10,Soumya Sarkar,TA Boult,Sabbir Rahman,,0,1,1,,,,368423684
+2,Bangladesh,10,Sabbir Rahman,TA Boult,Soumya Sarkar,wides,1,1,0,,,,368423684
+2,Bangladesh,10,Sabbir Rahman,TA Boult,Soumya Sarkar,,0,1,1,,,,368423684
+2,Bangladesh,10,Soumya Sarkar,TA Boult,Sabbir Rahman,,0,4,4,,,,368423684
+2,Bangladesh,10,Soumya Sarkar,TA Boult,Sabbir Rahman,,0,0,0,caught,Soumya Sarkar,C Munro,368423684
+2,Bangladesh,10,Mahmudullah,TA Boult,Sabbir Rahman,legbyes,4,4,0,,,,368423684
+2,Bangladesh,11,Sabbir Rahman,KS Williamson,Mahmudullah,,0,4,4,,,,368423684
+2,Bangladesh,11,Sabbir Rahman,KS Williamson,Mahmudullah,,0,1,1,,,,368423684
+2,Bangladesh,11,Mahmudullah,KS Williamson,Sabbir Rahman,,0,1,1,,,,368423684
+2,Bangladesh,11,Sabbir Rahman,KS Williamson,Mahmudullah,,0,1,1,,,,368423684
+2,Bangladesh,11,Mahmudullah,KS Williamson,Sabbir Rahman,,0,1,1,,,,368423684
+2,Bangladesh,11,Sabbir Rahman,KS Williamson,Mahmudullah,,0,0,0,,,,368423684
+2,Bangladesh,12,Mahmudullah,IS Sodhi,Sabbir Rahman,,0,1,1,,,,368423684
+2,Bangladesh,12,Sabbir Rahman,IS Sodhi,Mahmudullah,wides,1,1,0,,,,368423684
+2,Bangladesh,12,Sabbir Rahman,IS Sodhi,Mahmudullah,,0,0,0,caught,Sabbir Rahman,TA Boult,368423684
+2,Bangladesh,12,Mosaddek Hossain,IS Sodhi,Mahmudullah,,0,0,0,,,,368423684
+2,Bangladesh,12,Mosaddek Hossain,IS Sodhi,Mahmudullah,,0,0,0,,,,368423684
+2,Bangladesh,12,Mosaddek Hossain,IS Sodhi,Mahmudullah,,0,0,0,,,,368423684
+2,Bangladesh,12,Mosaddek Hossain,IS Sodhi,Mahmudullah,,0,0,0,,,,368423684
+2,Bangladesh,13,Mahmudullah,KS Williamson,Mosaddek Hossain,,0,1,1,,,,368423684
+2,Bangladesh,13,Mosaddek Hossain,KS Williamson,Mahmudullah,,0,1,1,,,,368423684
+2,Bangladesh,13,Mahmudullah,KS Williamson,Mosaddek Hossain,,0,1,1,,,,368423684
+2,Bangladesh,13,Mosaddek Hossain,KS Williamson,Mahmudullah,,0,0,0,,,,368423684
+2,Bangladesh,13,Mosaddek Hossain,KS Williamson,Mahmudullah,,0,0,0,caught,Mosaddek Hossain,MJ Santner,368423684
+2,Bangladesh,13,Nurul Hasan,KS Williamson,Mahmudullah,,0,2,2,,,,368423684
+2,Bangladesh,14,Mahmudullah,IS Sodhi,Nurul Hasan,,0,1,1,,,,368423684
+2,Bangladesh,14,Nurul Hasan,IS Sodhi,Mahmudullah,,0,1,1,,,,368423684
+2,Bangladesh,14,Mahmudullah,IS Sodhi,Nurul Hasan,,0,2,2,,,,368423684
+2,Bangladesh,14,Mahmudullah,IS Sodhi,Nurul Hasan,wides,1,1,0,,,,368423684
+2,Bangladesh,14,Mahmudullah,IS Sodhi,Nurul Hasan,,0,6,6,,,,368423684
+2,Bangladesh,14,Mahmudullah,IS Sodhi,Nurul Hasan,,0,1,1,,,,368423684
+2,Bangladesh,14,Nurul Hasan,IS Sodhi,Mahmudullah,,0,1,1,,,,368423684
+2,Bangladesh,15,Nurul Hasan,MJ Santner,Mahmudullah,,0,1,1,,,,368423684
+2,Bangladesh,15,Mahmudullah,MJ Santner,Nurul Hasan,,0,0,0,,,,368423684
+2,Bangladesh,15,Mahmudullah,MJ Santner,Nurul Hasan,,0,1,1,,,,368423684
+2,Bangladesh,15,Nurul Hasan,MJ Santner,Mahmudullah,,0,1,1,,,,368423684
+2,Bangladesh,15,Mahmudullah,MJ Santner,Nurul Hasan,,0,1,1,,,,368423684
+2,Bangladesh,15,Nurul Hasan,MJ Santner,Mahmudullah,,0,2,2,,,,368423684
+2,Bangladesh,16,Mahmudullah,IS Sodhi,Nurul Hasan,,0,2,2,,,,368423684
+2,Bangladesh,16,Mahmudullah,IS Sodhi,Nurul Hasan,,0,0,0,caught,Mahmudullah,C de Grandhomme,368423684
+2,Bangladesh,16,Nurul Hasan,IS Sodhi,Mashrafe Mortaza,,0,1,1,,,,368423684
+2,Bangladesh,16,Mashrafe Mortaza,IS Sodhi,Nurul Hasan,,0,1,1,,,,368423684
+2,Bangladesh,16,Nurul Hasan,IS Sodhi,Mashrafe Mortaza,,0,1,1,,,,368423684
+2,Bangladesh,16,Mashrafe Mortaza,IS Sodhi,Nurul Hasan,,0,0,0,caught,Mashrafe Mortaza,TA Boult,368423684
+2,Bangladesh,17,Nurul Hasan,KS Williamson,Rubel Hossain,,0,0,0,caught,Nurul Hasan,TA Boult,368423684
+2,Bangladesh,17,Rubel Hossain,KS Williamson,Mustafizur Rahman,,0,1,1,,,,368423684
+2,Bangladesh,17,Mustafizur Rahman,KS Williamson,Rubel Hossain,,0,0,0,,,,368423684
+2,Bangladesh,17,Mustafizur Rahman,KS Williamson,Rubel Hossain,,0,0,0,,,,368423684
+2,Bangladesh,17,Mustafizur Rahman,KS Williamson,Rubel Hossain,,0,0,0,,,,368423684
+2,Bangladesh,17,Mustafizur Rahman,KS Williamson,Rubel Hossain,,0,0,0,,,,368423684
+2,Bangladesh,18,Rubel Hossain,BM Wheeler,Mustafizur Rahman,,0,0,0,caught,Rubel Hossain,TC Bruce,368423684

@@ -1,0 +1,62 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Netherlands,0,SJ Myburgh,C Karunaratne,MP O'Dowd,byes,1,1,0,,,,31637231637
+1,Netherlands,0,MP O'Dowd,C Karunaratne,SJ Myburgh,,0,2,2,,,,31637231637
+1,Netherlands,0,MP O'Dowd,C Karunaratne,SJ Myburgh,,0,0,0,,,,31637231637
+1,Netherlands,0,MP O'Dowd,C Karunaratne,SJ Myburgh,,0,0,0,run out,MP O'Dowd,MD Shanaka,31637231637
+1,Netherlands,0,BN Cooper,C Karunaratne,SJ Myburgh,wides,1,1,0,,,,31637231637
+1,Netherlands,0,SJ Myburgh,C Karunaratne,BN Cooper,,0,4,4,,,,31637231637
+1,Netherlands,0,SJ Myburgh,C Karunaratne,BN Cooper,,0,0,0,,,,31637231637
+1,Netherlands,1,BN Cooper,PVD Chameera,SJ Myburgh,,0,0,0,,,,31637231637
+1,Netherlands,1,BN Cooper,PVD Chameera,SJ Myburgh,,0,0,0,,,,31637231637
+1,Netherlands,1,BN Cooper,PVD Chameera,SJ Myburgh,,0,0,0,,,,31637231637
+1,Netherlands,1,BN Cooper,PVD Chameera,SJ Myburgh,,0,4,4,,,,31637231637
+1,Netherlands,1,BN Cooper,PVD Chameera,SJ Myburgh,,0,4,4,,,,31637231637
+1,Netherlands,1,BN Cooper,PVD Chameera,SJ Myburgh,legbyes,1,1,0,,,,31637231637
+1,Netherlands,2,BN Cooper,M Theekshana,SJ Myburgh,,0,1,1,,,,31637231637
+1,Netherlands,2,SJ Myburgh,M Theekshana,BN Cooper,,0,1,1,,,,31637231637
+1,Netherlands,2,BN Cooper,M Theekshana,SJ Myburgh,,0,0,0,bowled,BN Cooper,,31637231637
+1,Netherlands,2,CN Ackermann,M Theekshana,SJ Myburgh,,0,1,1,,,,31637231637
+1,Netherlands,2,SJ Myburgh,M Theekshana,CN Ackermann,,0,0,0,bowled,SJ Myburgh,,31637231637
+1,Netherlands,2,BFW de Leede,M Theekshana,CN Ackermann,,0,0,0,,,,31637231637
+1,Netherlands,3,CN Ackermann,CBRLS Kumara,BFW de Leede,,0,0,0,,,,31637231637
+1,Netherlands,3,CN Ackermann,CBRLS Kumara,BFW de Leede,,0,0,0,,,,31637231637
+1,Netherlands,3,CN Ackermann,CBRLS Kumara,BFW de Leede,,0,0,0,,,,31637231637
+1,Netherlands,3,CN Ackermann,CBRLS Kumara,BFW de Leede,,0,0,0,,,,31637231637
+1,Netherlands,3,CN Ackermann,CBRLS Kumara,BFW de Leede,,0,6,6,,,,31637231637
+1,Netherlands,3,CN Ackermann,CBRLS Kumara,BFW de Leede,,0,0,0,,,,31637231637
+1,Netherlands,4,BFW de Leede,PWH de Silva,CN Ackermann,legbyes,1,1,0,,,,31637231637
+1,Netherlands,4,CN Ackermann,PWH de Silva,BFW de Leede,,0,4,4,,,,31637231637
+1,Netherlands,4,CN Ackermann,PWH de Silva,BFW de Leede,,0,0,0,lbw,CN Ackermann,,31637231637
+1,Netherlands,4,SA Edwards,PWH de Silva,BFW de Leede,,0,0,0,,,,31637231637
+1,Netherlands,4,SA Edwards,PWH de Silva,BFW de Leede,,0,1,1,,,,31637231637
+1,Netherlands,4,BFW de Leede,PWH de Silva,SA Edwards,,0,0,0,lbw,BFW de Leede,,31637231637
+1,Netherlands,5,SA Edwards,PVD Chameera,RE van der Merwe,,0,4,4,,,,31637231637
+1,Netherlands,5,SA Edwards,PVD Chameera,RE van der Merwe,,0,1,1,,,,31637231637
+1,Netherlands,5,RE van der Merwe,PVD Chameera,SA Edwards,,0,0,0,,,,31637231637
+1,Netherlands,5,RE van der Merwe,PVD Chameera,SA Edwards,,0,0,0,,,,31637231637
+1,Netherlands,5,RE van der Merwe,PVD Chameera,SA Edwards,,0,0,0,caught,RE van der Merwe,MDKJ Perera,31637231637
+1,Netherlands,5,PM Seelaar,PVD Chameera,SA Edwards,,0,0,0,,,,31637231637
+1,Netherlands,6,SA Edwards,PWH de Silva,PM Seelaar,,0,0,0,,,,31637231637
+1,Netherlands,6,SA Edwards,PWH de Silva,PM Seelaar,,0,1,1,,,,31637231637
+1,Netherlands,6,PM Seelaar,PWH de Silva,SA Edwards,,0,2,2,,,,31637231637
+1,Netherlands,6,PM Seelaar,PWH de Silva,SA Edwards,,0,0,0,,,,31637231637
+1,Netherlands,6,PM Seelaar,PWH de Silva,SA Edwards,,0,0,0,,,,31637231637
+1,Netherlands,6,PM Seelaar,PWH de Silva,SA Edwards,,0,0,0,lbw,PM Seelaar,,31637231637
+1,Netherlands,7,SA Edwards,CBRLS Kumara,FJ Klaassen,,0,0,0,,,,31637231637
+1,Netherlands,7,SA Edwards,CBRLS Kumara,FJ Klaassen,legbyes,1,1,0,,,,31637231637
+1,Netherlands,7,FJ Klaassen,CBRLS Kumara,SA Edwards,,0,0,0,,,,31637231637
+1,Netherlands,7,FJ Klaassen,CBRLS Kumara,SA Edwards,,0,0,0,,,,31637231637
+1,Netherlands,7,FJ Klaassen,CBRLS Kumara,SA Edwards,,0,1,1,,,,31637231637
+1,Netherlands,7,SA Edwards,CBRLS Kumara,FJ Klaassen,legbyes,1,1,0,,,,31637231637
+1,Netherlands,8,SA Edwards,PWH de Silva,FJ Klaassen,,0,0,0,,,,31637231637
+1,Netherlands,8,SA Edwards,PWH de Silva,FJ Klaassen,,0,0,0,,,,31637231637
+1,Netherlands,8,SA Edwards,PWH de Silva,FJ Klaassen,,0,1,1,,,,31637231637
+1,Netherlands,8,FJ Klaassen,PWH de Silva,SA Edwards,,0,0,0,,,,31637231637
+1,Netherlands,8,FJ Klaassen,PWH de Silva,SA Edwards,,0,0,0,,,,31637231637
+1,Netherlands,8,FJ Klaassen,PWH de Silva,SA Edwards,,0,0,0,,,,31637231637
+1,Netherlands,9,SA Edwards,CBRLS Kumara,FJ Klaassen,,0,0,0,lbw,SA Edwards,,31637231637
+1,Netherlands,9,BD Glover,CBRLS Kumara,FJ Klaassen,,0,0,0,,,,31637231637
+1,Netherlands,9,BD Glover,CBRLS Kumara,FJ Klaassen,,0,0,0,caught,BD Glover,MDKJ Perera,31637231637
+1,Netherlands,9,PA van Meekeren,CBRLS Kumara,FJ Klaassen,,0,0,0,,,,31637231637
+1,Netherlands,9,PA van Meekeren,CBRLS Kumara,FJ Klaassen,,0,0,0,,,,31637231637
+1,Netherlands,9,PA van Meekeren,CBRLS Kumara,FJ Klaassen,,0,0,0,lbw,PA van Meekeren,,31637231637

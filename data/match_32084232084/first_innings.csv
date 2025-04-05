@@ -1,0 +1,129 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Nepal,0,B Rawal,A Gurung,J Pandey,,0,0,0,,,,32084232084
+1,Nepal,0,B Rawal,A Gurung,J Pandey,,0,0,0,,,,32084232084
+1,Nepal,0,B Rawal,A Gurung,J Pandey,,0,0,0,,,,32084232084
+1,Nepal,0,B Rawal,A Gurung,J Pandey,,0,0,0,,,,32084232084
+1,Nepal,0,B Rawal,A Gurung,J Pandey,,0,1,1,,,,32084232084
+1,Nepal,0,J Pandey,A Gurung,B Rawal,,0,0,0,,,,32084232084
+1,Nepal,1,B Rawal,Sonam,J Pandey,,0,0,0,,,,32084232084
+1,Nepal,1,B Rawal,Sonam,J Pandey,,0,0,0,lbw,B Rawal,,32084232084
+1,Nepal,1,SR Magar,Sonam,J Pandey,,0,0,0,,,,32084232084
+1,Nepal,1,SR Magar,Sonam,J Pandey,,0,0,0,,,,32084232084
+1,Nepal,1,SR Magar,Sonam,J Pandey,,0,0,0,,,,32084232084
+1,Nepal,1,SR Magar,Sonam,J Pandey,,0,0,0,run out,J Pandey,P Seldon,32084232084
+1,Nepal,2,SR Magar,A Gurung,I Barma,,0,0,0,,,,32084232084
+1,Nepal,2,SR Magar,A Gurung,I Barma,,0,0,0,,,,32084232084
+1,Nepal,2,SR Magar,A Gurung,I Barma,,0,0,0,,,,32084232084
+1,Nepal,2,SR Magar,A Gurung,I Barma,,0,0,0,,,,32084232084
+1,Nepal,2,SR Magar,A Gurung,I Barma,,0,0,0,,,,32084232084
+1,Nepal,2,SR Magar,A Gurung,I Barma,,0,1,1,,,,32084232084
+1,Nepal,3,SR Magar,Sonam,I Barma,,0,1,1,,,,32084232084
+1,Nepal,3,I Barma,Sonam,SR Magar,legbyes,1,1,0,,,,32084232084
+1,Nepal,3,SR Magar,Sonam,I Barma,,0,1,1,,,,32084232084
+1,Nepal,3,I Barma,Sonam,SR Magar,wides,2,2,0,,,,32084232084
+1,Nepal,3,SR Magar,Sonam,I Barma,,0,1,1,,,,32084232084
+1,Nepal,3,I Barma,Sonam,SR Magar,,0,0,0,,,,32084232084
+1,Nepal,3,I Barma,Sonam,SR Magar,,0,1,1,,,,32084232084
+1,Nepal,4,I Barma,A Gurung,SR Magar,,0,1,1,,,,32084232084
+1,Nepal,4,SR Magar,A Gurung,I Barma,byes,1,1,0,,,,32084232084
+1,Nepal,4,I Barma,A Gurung,SR Magar,,0,1,1,,,,32084232084
+1,Nepal,4,SR Magar,A Gurung,I Barma,,0,0,0,caught,SR Magar,P Seldon,32084232084
+1,Nepal,4,K Shrestha,A Gurung,I Barma,,0,2,2,,,,32084232084
+1,Nepal,4,K Shrestha,A Gurung,I Barma,legbyes,1,1,0,,,,32084232084
+1,Nepal,5,K Shrestha,Sonam,I Barma,,0,1,1,,,,32084232084
+1,Nepal,5,I Barma,Sonam,K Shrestha,,0,0,0,,,,32084232084
+1,Nepal,5,I Barma,Sonam,K Shrestha,,0,0,0,,,,32084232084
+1,Nepal,5,I Barma,Sonam,K Shrestha,,0,1,1,,,,32084232084
+1,Nepal,5,K Shrestha,Sonam,I Barma,,0,0,0,,,,32084232084
+1,Nepal,5,K Shrestha,Sonam,I Barma,,0,1,1,,,,32084232084
+1,Nepal,6,K Shrestha,T Cheki,I Barma,wides,1,1,0,,,,32084232084
+1,Nepal,6,K Shrestha,T Cheki,I Barma,,0,1,1,,,,32084232084
+1,Nepal,6,I Barma,T Cheki,K Shrestha,,0,1,1,,,,32084232084
+1,Nepal,6,K Shrestha,T Cheki,I Barma,,0,0,0,,,,32084232084
+1,Nepal,6,K Shrestha,T Cheki,I Barma,,0,0,0,,,,32084232084
+1,Nepal,6,K Shrestha,T Cheki,I Barma,,0,0,0,,,,32084232084
+1,Nepal,6,K Shrestha,T Cheki,I Barma,,0,0,0,,,,32084232084
+1,Nepal,7,I Barma,T Zangmo,K Shrestha,,0,2,2,,,,32084232084
+1,Nepal,7,I Barma,T Zangmo,K Shrestha,,0,0,0,,,,32084232084
+1,Nepal,7,I Barma,T Zangmo,K Shrestha,,0,2,2,,,,32084232084
+1,Nepal,7,I Barma,T Zangmo,K Shrestha,,0,2,2,,,,32084232084
+1,Nepal,7,I Barma,T Zangmo,K Shrestha,,0,0,0,,,,32084232084
+1,Nepal,7,I Barma,T Zangmo,K Shrestha,,0,1,1,,,,32084232084
+1,Nepal,8,I Barma,T Cheki,K Shrestha,,0,0,0,,,,32084232084
+1,Nepal,8,I Barma,T Cheki,K Shrestha,,0,1,1,,,,32084232084
+1,Nepal,8,K Shrestha,T Cheki,I Barma,,0,0,0,,,,32084232084
+1,Nepal,8,K Shrestha,T Cheki,I Barma,,0,0,0,,,,32084232084
+1,Nepal,8,K Shrestha,T Cheki,I Barma,wides,1,1,0,,,,32084232084
+1,Nepal,8,K Shrestha,T Cheki,I Barma,,0,0,0,,,,32084232084
+1,Nepal,8,K Shrestha,T Cheki,I Barma,,0,1,1,,,,32084232084
+1,Nepal,9,K Shrestha,T Zangmo,I Barma,wides,1,1,0,,,,32084232084
+1,Nepal,9,K Shrestha,T Zangmo,I Barma,,0,1,1,,,,32084232084
+1,Nepal,9,I Barma,T Zangmo,K Shrestha,,0,0,0,,,,32084232084
+1,Nepal,9,I Barma,T Zangmo,K Shrestha,,0,1,1,,,,32084232084
+1,Nepal,9,K Shrestha,T Zangmo,I Barma,wides,1,1,0,,,,32084232084
+1,Nepal,9,K Shrestha,T Zangmo,I Barma,,0,1,1,,,,32084232084
+1,Nepal,9,I Barma,T Zangmo,K Shrestha,,0,1,1,,,,32084232084
+1,Nepal,9,K Shrestha,T Zangmo,I Barma,,0,0,0,,,,32084232084
+1,Nepal,10,I Barma,T Cheki,K Shrestha,,0,0,0,,,,32084232084
+1,Nepal,10,I Barma,T Cheki,K Shrestha,,0,0,0,,,,32084232084
+1,Nepal,10,I Barma,T Cheki,K Shrestha,noballs,1,5,4,,,,32084232084
+1,Nepal,10,I Barma,T Cheki,K Shrestha,,0,1,1,,,,32084232084
+1,Nepal,10,K Shrestha,T Cheki,I Barma,,0,1,1,,,,32084232084
+1,Nepal,10,I Barma,T Cheki,K Shrestha,,0,0,0,,,,32084232084
+1,Nepal,10,I Barma,T Cheki,K Shrestha,,0,0,0,caught,I Barma,D Wangmo,32084232084
+1,Nepal,11,K Shrestha,T Lhaden,RC Belbashi,,0,0,0,,,,32084232084
+1,Nepal,11,K Shrestha,T Lhaden,RC Belbashi,wides,1,1,0,,,,32084232084
+1,Nepal,11,K Shrestha,T Lhaden,RC Belbashi,,0,1,1,,,,32084232084
+1,Nepal,11,RC Belbashi,T Lhaden,K Shrestha,,0,1,1,,,,32084232084
+1,Nepal,11,K Shrestha,T Lhaden,RC Belbashi,,0,4,4,,,,32084232084
+1,Nepal,11,K Shrestha,T Lhaden,RC Belbashi,,0,0,0,,,,32084232084
+1,Nepal,11,K Shrestha,T Lhaden,RC Belbashi,,0,0,0,,,,32084232084
+1,Nepal,12,RC Belbashi,T Cheki,K Shrestha,,0,1,1,,,,32084232084
+1,Nepal,12,K Shrestha,T Cheki,RC Belbashi,,0,0,0,,,,32084232084
+1,Nepal,12,K Shrestha,T Cheki,RC Belbashi,,0,1,1,,,,32084232084
+1,Nepal,12,RC Belbashi,T Cheki,K Shrestha,,0,2,2,,,,32084232084
+1,Nepal,12,RC Belbashi,T Cheki,K Shrestha,,0,0,0,,,,32084232084
+1,Nepal,12,RC Belbashi,T Cheki,K Shrestha,,0,1,1,,,,32084232084
+1,Nepal,13,RC Belbashi,T Lhaden,K Shrestha,legbyes,1,1,0,,,,32084232084
+1,Nepal,13,K Shrestha,T Lhaden,RC Belbashi,,0,1,1,,,,32084232084
+1,Nepal,13,RC Belbashi,T Lhaden,K Shrestha,,0,0,0,,,,32084232084
+1,Nepal,13,RC Belbashi,T Lhaden,K Shrestha,,0,1,1,,,,32084232084
+1,Nepal,13,K Shrestha,T Lhaden,RC Belbashi,,0,1,1,,,,32084232084
+1,Nepal,13,RC Belbashi,T Lhaden,K Shrestha,,0,4,4,,,,32084232084
+1,Nepal,14,K Shrestha,T Zangmo,RC Belbashi,,0,1,1,,,,32084232084
+1,Nepal,14,RC Belbashi,T Zangmo,K Shrestha,,0,1,1,,,,32084232084
+1,Nepal,14,K Shrestha,T Zangmo,RC Belbashi,,0,1,1,,,,32084232084
+1,Nepal,14,RC Belbashi,T Zangmo,K Shrestha,,0,1,1,,,,32084232084
+1,Nepal,14,K Shrestha,T Zangmo,RC Belbashi,,0,0,0,,,,32084232084
+1,Nepal,14,K Shrestha,T Zangmo,RC Belbashi,,0,1,1,,,,32084232084
+1,Nepal,15,K Shrestha,T Lhaden,RC Belbashi,,0,1,1,,,,32084232084
+1,Nepal,15,RC Belbashi,T Lhaden,K Shrestha,,0,1,1,,,,32084232084
+1,Nepal,15,K Shrestha,T Lhaden,RC Belbashi,,0,2,2,,,,32084232084
+1,Nepal,15,K Shrestha,T Lhaden,RC Belbashi,,0,2,2,,,,32084232084
+1,Nepal,15,K Shrestha,T Lhaden,RC Belbashi,,0,1,1,run out,K Shrestha,A Gurung,32084232084
+1,Nepal,15,MM Chaudhary,T Lhaden,RC Belbashi,,0,0,0,,,,32084232084
+1,Nepal,16,RC Belbashi,T Zangmo,MM Chaudhary,,0,1,1,,,,32084232084
+1,Nepal,16,MM Chaudhary,T Zangmo,RC Belbashi,,0,0,0,,,,32084232084
+1,Nepal,16,MM Chaudhary,T Zangmo,RC Belbashi,,0,0,0,,,,32084232084
+1,Nepal,16,MM Chaudhary,T Zangmo,RC Belbashi,,0,0,0,,,,32084232084
+1,Nepal,16,MM Chaudhary,T Zangmo,RC Belbashi,,0,1,1,,,,32084232084
+1,Nepal,16,RC Belbashi,T Zangmo,MM Chaudhary,,0,1,1,,,,32084232084
+1,Nepal,17,RC Belbashi,T Lhaden,MM Chaudhary,,0,0,0,,,,32084232084
+1,Nepal,17,RC Belbashi,T Lhaden,MM Chaudhary,,0,1,1,,,,32084232084
+1,Nepal,17,MM Chaudhary,T Lhaden,RC Belbashi,,0,1,1,,,,32084232084
+1,Nepal,17,RC Belbashi,T Lhaden,MM Chaudhary,,0,1,1,,,,32084232084
+1,Nepal,17,MM Chaudhary,T Lhaden,RC Belbashi,,0,1,1,,,,32084232084
+1,Nepal,17,RC Belbashi,T Lhaden,MM Chaudhary,,0,1,1,run out,MM Chaudhary,T Lhaden,32084232084
+1,Nepal,18,D Bhatta,A Gurung,RC Belbashi,,0,0,0,,,,32084232084
+1,Nepal,18,D Bhatta,A Gurung,RC Belbashi,,0,2,2,,,,32084232084
+1,Nepal,18,D Bhatta,A Gurung,RC Belbashi,,0,1,1,,,,32084232084
+1,Nepal,18,RC Belbashi,A Gurung,D Bhatta,,0,1,1,,,,32084232084
+1,Nepal,18,D Bhatta,A Gurung,RC Belbashi,,0,1,1,,,,32084232084
+1,Nepal,18,RC Belbashi,A Gurung,D Bhatta,,0,1,1,,,,32084232084
+1,Nepal,19,RC Belbashi,Sonam,D Bhatta,,0,1,1,,,,32084232084
+1,Nepal,19,D Bhatta,Sonam,RC Belbashi,wides,1,1,0,,,,32084232084
+1,Nepal,19,D Bhatta,Sonam,RC Belbashi,,0,1,1,,,,32084232084
+1,Nepal,19,RC Belbashi,Sonam,D Bhatta,,0,0,0,bowled,RC Belbashi,,32084232084
+1,Nepal,19,K Kunwar,Sonam,D Bhatta,,0,1,1,,,,32084232084
+1,Nepal,19,D Bhatta,Sonam,K Kunwar,,0,0,0,caught,D Bhatta,P Seldon,32084232084
+1,Nepal,19,A Karmacharya,Sonam,K Kunwar,,0,0,0,lbw,A Karmacharya,,32084232084

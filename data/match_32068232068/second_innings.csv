@@ -1,0 +1,104 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Botswana,0,F Samanyika,NN Saidi,O Batisani,,0,0,0,,,,32068232068
+2,Botswana,0,F Samanyika,NN Saidi,O Batisani,,0,1,1,,,,32068232068
+2,Botswana,0,O Batisani,NN Saidi,F Samanyika,,0,0,0,,,,32068232068
+2,Botswana,0,O Batisani,NN Saidi,F Samanyika,,0,0,0,,,,32068232068
+2,Botswana,0,O Batisani,NN Saidi,F Samanyika,,0,2,2,,,,32068232068
+2,Botswana,0,O Batisani,NN Saidi,F Samanyika,,0,2,2,,,,32068232068
+2,Botswana,1,F Samanyika,AS Qwele,O Batisani,wides,5,5,0,,,,32068232068
+2,Botswana,1,F Samanyika,AS Qwele,O Batisani,,0,1,1,,,,32068232068
+2,Botswana,1,O Batisani,AS Qwele,F Samanyika,noballs,1,1,0,,,,32068232068
+2,Botswana,1,O Batisani,AS Qwele,F Samanyika,,0,1,1,,,,32068232068
+2,Botswana,1,F Samanyika,AS Qwele,O Batisani,wides,1,1,0,,,,32068232068
+2,Botswana,1,F Samanyika,AS Qwele,O Batisani,legbyes,1,1,0,,,,32068232068
+2,Botswana,1,O Batisani,AS Qwele,F Samanyika,,0,0,0,,,,32068232068
+2,Botswana,1,O Batisani,AS Qwele,F Samanyika,,0,0,0,caught,O Batisani,Zinaida Jeremiah,32068232068
+2,Botswana,1,S Mosweu,AS Qwele,F Samanyika,,0,0,0,,,,32068232068
+2,Botswana,2,F Samanyika,NN Saidi,S Mosweu,,0,0,0,,,,32068232068
+2,Botswana,2,F Samanyika,NN Saidi,S Mosweu,,0,0,0,,,,32068232068
+2,Botswana,2,F Samanyika,NN Saidi,S Mosweu,,0,0,0,,,,32068232068
+2,Botswana,2,F Samanyika,NN Saidi,S Mosweu,,0,1,1,,,,32068232068
+2,Botswana,2,S Mosweu,NN Saidi,F Samanyika,wides,1,1,0,,,,32068232068
+2,Botswana,2,S Mosweu,NN Saidi,F Samanyika,,0,2,2,,,,32068232068
+2,Botswana,2,S Mosweu,NN Saidi,F Samanyika,,0,4,4,,,,32068232068
+2,Botswana,3,F Samanyika,PZ Kamunya,S Mosweu,,0,0,0,,,,32068232068
+2,Botswana,3,F Samanyika,PZ Kamunya,S Mosweu,,0,0,0,,,,32068232068
+2,Botswana,3,F Samanyika,PZ Kamunya,S Mosweu,wides,1,1,0,,,,32068232068
+2,Botswana,3,F Samanyika,PZ Kamunya,S Mosweu,,0,0,0,,,,32068232068
+2,Botswana,3,F Samanyika,PZ Kamunya,S Mosweu,,0,4,4,,,,32068232068
+2,Botswana,3,F Samanyika,PZ Kamunya,S Mosweu,,0,0,0,,,,32068232068
+2,Botswana,3,F Samanyika,PZ Kamunya,S Mosweu,,0,0,0,,,,32068232068
+2,Botswana,4,S Mosweu,Zinaida Jeremiah,F Samanyika,,0,4,4,,,,32068232068
+2,Botswana,4,S Mosweu,Zinaida Jeremiah,F Samanyika,,0,0,0,,,,32068232068
+2,Botswana,4,S Mosweu,Zinaida Jeremiah,F Samanyika,,0,0,0,,,,32068232068
+2,Botswana,4,S Mosweu,Zinaida Jeremiah,F Samanyika,,0,0,0,,,,32068232068
+2,Botswana,4,S Mosweu,Zinaida Jeremiah,F Samanyika,,0,0,0,caught,S Mosweu,NN Saidi,32068232068
+2,Botswana,4,F Samanyika,Zinaida Jeremiah,T Modise,,0,1,1,,,,32068232068
+2,Botswana,5,F Samanyika,PZ Kamunya,T Modise,,0,0,0,,,,32068232068
+2,Botswana,5,F Samanyika,PZ Kamunya,T Modise,,0,0,0,,,,32068232068
+2,Botswana,5,F Samanyika,PZ Kamunya,T Modise,,0,0,0,run out,F Samanyika,AS Qwele,32068232068
+2,Botswana,5,T Modise,PZ Kamunya,L Mophakedi,,0,1,1,,,,32068232068
+2,Botswana,5,L Mophakedi,PZ Kamunya,T Modise,,0,0,0,,,,32068232068
+2,Botswana,5,L Mophakedi,PZ Kamunya,T Modise,,0,1,1,,,,32068232068
+2,Botswana,6,L Mophakedi,Zinaida Jeremiah,T Modise,,0,0,0,caught,L Mophakedi,SH Mohamedi,32068232068
+2,Botswana,6,T Shadrack,Zinaida Jeremiah,T Modise,,0,0,0,,,,32068232068
+2,Botswana,6,T Shadrack,Zinaida Jeremiah,T Modise,,0,1,1,,,,32068232068
+2,Botswana,6,T Modise,Zinaida Jeremiah,T Shadrack,,0,0,0,,,,32068232068
+2,Botswana,6,T Modise,Zinaida Jeremiah,T Shadrack,,0,1,1,,,,32068232068
+2,Botswana,6,T Shadrack,Zinaida Jeremiah,T Modise,,0,0,0,,,,32068232068
+2,Botswana,7,T Modise,PZ Kamunya,T Shadrack,,0,0,0,,,,32068232068
+2,Botswana,7,T Modise,PZ Kamunya,T Shadrack,,0,0,0,bowled,T Modise,,32068232068
+2,Botswana,7,G Matome,PZ Kamunya,T Shadrack,,0,0,0,,,,32068232068
+2,Botswana,7,G Matome,PZ Kamunya,T Shadrack,,0,0,0,lbw,G Matome,,32068232068
+2,Botswana,7,T Motlhabaphuti,PZ Kamunya,T Shadrack,,0,0,0,,,,32068232068
+2,Botswana,7,T Motlhabaphuti,PZ Kamunya,T Shadrack,,0,0,0,,,,32068232068
+2,Botswana,8,T Shadrack,Zinaida Jeremiah,T Motlhabaphuti,,0,0,0,,,,32068232068
+2,Botswana,8,T Shadrack,Zinaida Jeremiah,T Motlhabaphuti,,0,1,1,,,,32068232068
+2,Botswana,8,T Motlhabaphuti,Zinaida Jeremiah,T Shadrack,,0,0,0,,,,32068232068
+2,Botswana,8,T Motlhabaphuti,Zinaida Jeremiah,T Shadrack,,0,0,0,caught,T Motlhabaphuti,NN Saidi,32068232068
+2,Botswana,8,T Shadrack,Zinaida Jeremiah,T Legaabile,,0,0,0,,,,32068232068
+2,Botswana,8,T Shadrack,Zinaida Jeremiah,T Legaabile,,0,1,1,,,,32068232068
+2,Botswana,9,T Shadrack,PZ Kamunya,T Legaabile,,0,0,0,,,,32068232068
+2,Botswana,9,T Shadrack,PZ Kamunya,T Legaabile,,0,1,1,,,,32068232068
+2,Botswana,9,T Legaabile,PZ Kamunya,T Shadrack,,0,1,1,,,,32068232068
+2,Botswana,9,T Shadrack,PZ Kamunya,T Legaabile,,0,0,0,,,,32068232068
+2,Botswana,9,T Shadrack,PZ Kamunya,T Legaabile,,0,1,1,,,,32068232068
+2,Botswana,9,T Legaabile,PZ Kamunya,T Shadrack,,0,0,0,,,,32068232068
+2,Botswana,10,T Shadrack,Zinaida Jeremiah,T Legaabile,,0,4,4,,,,32068232068
+2,Botswana,10,T Shadrack,Zinaida Jeremiah,T Legaabile,,0,0,0,caught,T Shadrack,SH Mohamedi,32068232068
+2,Botswana,10,O Kgeresi,Zinaida Jeremiah,T Legaabile,,0,0,0,,,,32068232068
+2,Botswana,10,O Kgeresi,Zinaida Jeremiah,T Legaabile,,0,0,0,,,,32068232068
+2,Botswana,10,O Kgeresi,Zinaida Jeremiah,T Legaabile,,0,0,0,,,,32068232068
+2,Botswana,10,O Kgeresi,Zinaida Jeremiah,T Legaabile,,0,1,1,,,,32068232068
+2,Botswana,11,O Kgeresi,SF Jerome,T Legaabile,,0,0,0,,,,32068232068
+2,Botswana,11,O Kgeresi,SF Jerome,T Legaabile,,0,0,0,,,,32068232068
+2,Botswana,11,O Kgeresi,SF Jerome,T Legaabile,,0,0,0,,,,32068232068
+2,Botswana,11,O Kgeresi,SF Jerome,T Legaabile,,0,0,0,,,,32068232068
+2,Botswana,11,O Kgeresi,SF Jerome,T Legaabile,,0,0,0,,,,32068232068
+2,Botswana,11,O Kgeresi,SF Jerome,T Legaabile,,0,0,0,,,,32068232068
+2,Botswana,12,T Legaabile,FO Kibasu,O Kgeresi,,0,1,1,,,,32068232068
+2,Botswana,12,O Kgeresi,FO Kibasu,T Legaabile,,0,1,1,,,,32068232068
+2,Botswana,12,T Legaabile,FO Kibasu,O Kgeresi,wides,1,1,0,,,,32068232068
+2,Botswana,12,T Legaabile,FO Kibasu,O Kgeresi,,0,0,0,,,,32068232068
+2,Botswana,12,T Legaabile,FO Kibasu,O Kgeresi,,0,1,1,,,,32068232068
+2,Botswana,12,O Kgeresi,FO Kibasu,T Legaabile,,0,0,0,,,,32068232068
+2,Botswana,12,O Kgeresi,FO Kibasu,T Legaabile,,0,0,0,,,,32068232068
+2,Botswana,13,T Legaabile,SF Jerome,O Kgeresi,,0,0,0,,,,32068232068
+2,Botswana,13,T Legaabile,SF Jerome,O Kgeresi,,0,4,4,,,,32068232068
+2,Botswana,13,T Legaabile,SF Jerome,O Kgeresi,,0,2,2,,,,32068232068
+2,Botswana,13,T Legaabile,SF Jerome,O Kgeresi,,0,0,0,,,,32068232068
+2,Botswana,13,T Legaabile,SF Jerome,O Kgeresi,,0,1,1,,,,32068232068
+2,Botswana,13,O Kgeresi,SF Jerome,T Legaabile,,0,0,0,,,,32068232068
+2,Botswana,14,T Legaabile,T Shabani,O Kgeresi,,0,1,1,,,,32068232068
+2,Botswana,14,O Kgeresi,T Shabani,T Legaabile,,0,0,0,,,,32068232068
+2,Botswana,14,O Kgeresi,T Shabani,T Legaabile,,0,0,0,,,,32068232068
+2,Botswana,14,O Kgeresi,T Shabani,T Legaabile,,0,1,1,,,,32068232068
+2,Botswana,14,T Legaabile,T Shabani,O Kgeresi,wides,1,1,0,,,,32068232068
+2,Botswana,14,T Legaabile,T Shabani,O Kgeresi,,0,0,0,run out,O Kgeresi,Zinaida Jeremiah,32068232068
+2,Botswana,14,M Ramafifi,T Shabani,T Legaabile,,0,0,0,,,,32068232068
+2,Botswana,15,T Legaabile,SF Jerome,M Ramafifi,,0,0,0,,,,32068232068
+2,Botswana,15,T Legaabile,SF Jerome,M Ramafifi,,0,1,1,,,,32068232068
+2,Botswana,15,M Ramafifi,SF Jerome,T Legaabile,,0,0,0,,,,32068232068
+2,Botswana,15,M Ramafifi,SF Jerome,T Legaabile,,0,0,0,,,,32068232068
+2,Botswana,15,M Ramafifi,SF Jerome,T Legaabile,,0,0,0,,,,32068232068
+2,Botswana,15,M Ramafifi,SF Jerome,T Legaabile,,0,0,0,bowled,M Ramafifi,,32068232068

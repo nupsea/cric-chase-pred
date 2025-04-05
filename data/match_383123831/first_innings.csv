@@ -1,0 +1,127 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Scotland,0,KJ Coetzer,PA van Meekeren,HG Munsey,wides,1,1,0,,,,383123831
+1,Scotland,0,KJ Coetzer,PA van Meekeren,HG Munsey,,0,1,1,,,,383123831
+1,Scotland,0,HG Munsey,PA van Meekeren,KJ Coetzer,,0,1,1,,,,383123831
+1,Scotland,0,KJ Coetzer,PA van Meekeren,HG Munsey,,0,0,0,,,,383123831
+1,Scotland,0,KJ Coetzer,PA van Meekeren,HG Munsey,,0,4,4,,,,383123831
+1,Scotland,0,KJ Coetzer,PA van Meekeren,HG Munsey,,0,0,0,,,,383123831
+1,Scotland,0,KJ Coetzer,PA van Meekeren,HG Munsey,,0,0,0,,,,383123831
+1,Scotland,1,HG Munsey,T van der Gugten,KJ Coetzer,,0,0,0,,,,383123831
+1,Scotland,1,HG Munsey,T van der Gugten,KJ Coetzer,,0,4,4,,,,383123831
+1,Scotland,1,HG Munsey,T van der Gugten,KJ Coetzer,,0,0,0,,,,383123831
+1,Scotland,1,HG Munsey,T van der Gugten,KJ Coetzer,,0,4,4,,,,383123831
+1,Scotland,1,HG Munsey,T van der Gugten,KJ Coetzer,,0,4,4,,,,383123831
+1,Scotland,1,HG Munsey,T van der Gugten,KJ Coetzer,,0,2,2,,,,383123831
+1,Scotland,2,KJ Coetzer,PA van Meekeren,HG Munsey,,0,2,2,,,,383123831
+1,Scotland,2,KJ Coetzer,PA van Meekeren,HG Munsey,,0,0,0,,,,383123831
+1,Scotland,2,KJ Coetzer,PA van Meekeren,HG Munsey,,0,6,6,,,,383123831
+1,Scotland,2,KJ Coetzer,PA van Meekeren,HG Munsey,,0,1,1,,,,383123831
+1,Scotland,2,HG Munsey,PA van Meekeren,KJ Coetzer,wides,1,1,0,,,,383123831
+1,Scotland,2,HG Munsey,PA van Meekeren,KJ Coetzer,,0,0,0,,,,383123831
+1,Scotland,2,HG Munsey,PA van Meekeren,KJ Coetzer,,0,4,4,,,,383123831
+1,Scotland,3,KJ Coetzer,FJ Klaassen,HG Munsey,,0,1,1,,,,383123831
+1,Scotland,3,HG Munsey,FJ Klaassen,KJ Coetzer,,0,0,0,,,,383123831
+1,Scotland,3,HG Munsey,FJ Klaassen,KJ Coetzer,,0,4,4,,,,383123831
+1,Scotland,3,HG Munsey,FJ Klaassen,KJ Coetzer,,0,1,1,,,,383123831
+1,Scotland,3,KJ Coetzer,FJ Klaassen,HG Munsey,,0,6,6,,,,383123831
+1,Scotland,3,KJ Coetzer,FJ Klaassen,HG Munsey,,0,1,1,,,,383123831
+1,Scotland,4,KJ Coetzer,S Snater,HG Munsey,,0,2,2,,,,383123831
+1,Scotland,4,KJ Coetzer,S Snater,HG Munsey,,0,0,0,caught,KJ Coetzer,BFW de Leede,383123831
+1,Scotland,4,HG Munsey,S Snater,MH Cross,,0,0,0,,,,383123831
+1,Scotland,4,HG Munsey,S Snater,MH Cross,,0,2,2,,,,383123831
+1,Scotland,4,HG Munsey,S Snater,MH Cross,,0,6,6,,,,383123831
+1,Scotland,4,HG Munsey,S Snater,MH Cross,,0,6,6,,,,383123831
+1,Scotland,5,MH Cross,T van der Gugten,HG Munsey,,0,0,0,,,,383123831
+1,Scotland,5,MH Cross,T van der Gugten,HG Munsey,,0,2,2,,,,383123831
+1,Scotland,5,MH Cross,T van der Gugten,HG Munsey,,0,4,4,,,,383123831
+1,Scotland,5,MH Cross,T van der Gugten,HG Munsey,,0,2,2,,,,383123831
+1,Scotland,5,MH Cross,T van der Gugten,HG Munsey,,0,4,4,,,,383123831
+1,Scotland,5,MH Cross,T van der Gugten,HG Munsey,,0,1,1,,,,383123831
+1,Scotland,6,MH Cross,PM Seelaar,HG Munsey,,0,1,1,,,,383123831
+1,Scotland,6,HG Munsey,PM Seelaar,MH Cross,,0,1,1,,,,383123831
+1,Scotland,6,MH Cross,PM Seelaar,HG Munsey,,0,1,1,,,,383123831
+1,Scotland,6,HG Munsey,PM Seelaar,MH Cross,,0,1,1,,,,383123831
+1,Scotland,6,MH Cross,PM Seelaar,HG Munsey,,0,0,0,,,,383123831
+1,Scotland,6,MH Cross,PM Seelaar,HG Munsey,,0,1,1,,,,383123831
+1,Scotland,7,MH Cross,FJ Klaassen,HG Munsey,,0,2,2,,,,383123831
+1,Scotland,7,MH Cross,FJ Klaassen,HG Munsey,,0,1,1,,,,383123831
+1,Scotland,7,HG Munsey,FJ Klaassen,MH Cross,,0,4,4,,,,383123831
+1,Scotland,7,HG Munsey,FJ Klaassen,MH Cross,,0,4,4,,,,383123831
+1,Scotland,7,HG Munsey,FJ Klaassen,MH Cross,,0,1,1,,,,383123831
+1,Scotland,7,MH Cross,FJ Klaassen,HG Munsey,,0,1,1,,,,383123831
+1,Scotland,8,MH Cross,PM Seelaar,HG Munsey,,0,0,0,,,,383123831
+1,Scotland,8,MH Cross,PM Seelaar,HG Munsey,,0,2,2,,,,383123831
+1,Scotland,8,MH Cross,PM Seelaar,HG Munsey,,0,0,0,,,,383123831
+1,Scotland,8,MH Cross,PM Seelaar,HG Munsey,,0,1,1,,,,383123831
+1,Scotland,8,HG Munsey,PM Seelaar,MH Cross,,0,1,1,,,,383123831
+1,Scotland,8,MH Cross,PM Seelaar,HG Munsey,,0,2,2,,,,383123831
+1,Scotland,9,HG Munsey,S Snater,MH Cross,,0,0,0,,,,383123831
+1,Scotland,9,HG Munsey,S Snater,MH Cross,,0,4,4,,,,383123831
+1,Scotland,9,HG Munsey,S Snater,MH Cross,,0,1,1,,,,383123831
+1,Scotland,9,MH Cross,S Snater,HG Munsey,,0,1,1,,,,383123831
+1,Scotland,9,HG Munsey,S Snater,MH Cross,,0,1,1,,,,383123831
+1,Scotland,9,MH Cross,S Snater,HG Munsey,,0,1,1,,,,383123831
+1,Scotland,10,MH Cross,FJ Klaassen,HG Munsey,,0,2,2,,,,383123831
+1,Scotland,10,MH Cross,FJ Klaassen,HG Munsey,,0,2,2,,,,383123831
+1,Scotland,10,MH Cross,FJ Klaassen,HG Munsey,,0,2,2,,,,383123831
+1,Scotland,10,MH Cross,FJ Klaassen,HG Munsey,legbyes,1,1,0,,,,383123831
+1,Scotland,10,HG Munsey,FJ Klaassen,MH Cross,,0,4,4,,,,383123831
+1,Scotland,10,HG Munsey,FJ Klaassen,MH Cross,,0,1,1,,,,383123831
+1,Scotland,11,HG Munsey,PM Seelaar,MH Cross,,0,3,3,,,,383123831
+1,Scotland,11,MH Cross,PM Seelaar,HG Munsey,,0,1,1,,,,383123831
+1,Scotland,11,HG Munsey,PM Seelaar,MH Cross,,0,2,2,,,,383123831
+1,Scotland,11,HG Munsey,PM Seelaar,MH Cross,,0,4,4,,,,383123831
+1,Scotland,11,HG Munsey,PM Seelaar,MH Cross,,0,1,1,,,,383123831
+1,Scotland,11,MH Cross,PM Seelaar,HG Munsey,,0,2,2,,,,383123831
+1,Scotland,12,HG Munsey,W Barresi,MH Cross,,0,0,0,,,,383123831
+1,Scotland,12,HG Munsey,W Barresi,MH Cross,,0,0,0,bowled,HG Munsey,,383123831
+1,Scotland,12,RD Berrington,W Barresi,MH Cross,,0,0,0,,,,383123831
+1,Scotland,12,RD Berrington,W Barresi,MH Cross,legbyes,1,1,0,,,,383123831
+1,Scotland,12,MH Cross,W Barresi,RD Berrington,,0,1,1,,,,383123831
+1,Scotland,12,RD Berrington,W Barresi,MH Cross,,0,2,2,,,,383123831
+1,Scotland,13,MH Cross,PM Seelaar,RD Berrington,,0,1,1,,,,383123831
+1,Scotland,13,RD Berrington,PM Seelaar,MH Cross,,0,1,1,,,,383123831
+1,Scotland,13,MH Cross,PM Seelaar,RD Berrington,,0,1,1,,,,383123831
+1,Scotland,13,RD Berrington,PM Seelaar,MH Cross,,0,6,6,,,,383123831
+1,Scotland,13,RD Berrington,PM Seelaar,MH Cross,,0,0,0,,,,383123831
+1,Scotland,13,RD Berrington,PM Seelaar,MH Cross,,0,1,1,,,,383123831
+1,Scotland,14,RD Berrington,T van der Gugten,MH Cross,,0,1,1,,,,383123831
+1,Scotland,14,MH Cross,T van der Gugten,RD Berrington,,0,2,2,,,,383123831
+1,Scotland,14,MH Cross,T van der Gugten,RD Berrington,,0,1,1,,,,383123831
+1,Scotland,14,RD Berrington,T van der Gugten,MH Cross,,0,1,1,,,,383123831
+1,Scotland,14,MH Cross,T van der Gugten,RD Berrington,,0,1,1,,,,383123831
+1,Scotland,14,RD Berrington,T van der Gugten,MH Cross,,0,1,1,,,,383123831
+1,Scotland,15,RD Berrington,FJ Klaassen,MH Cross,,0,4,4,,,,383123831
+1,Scotland,15,RD Berrington,FJ Klaassen,MH Cross,,0,4,4,,,,383123831
+1,Scotland,15,RD Berrington,FJ Klaassen,MH Cross,,0,4,4,,,,383123831
+1,Scotland,15,RD Berrington,FJ Klaassen,MH Cross,,0,4,4,,,,383123831
+1,Scotland,15,RD Berrington,FJ Klaassen,MH Cross,,0,1,1,,,,383123831
+1,Scotland,15,MH Cross,FJ Klaassen,RD Berrington,,0,1,1,,,,383123831
+1,Scotland,16,MH Cross,PA van Meekeren,RD Berrington,,0,1,1,,,,383123831
+1,Scotland,16,RD Berrington,PA van Meekeren,MH Cross,,0,0,0,,,,383123831
+1,Scotland,16,RD Berrington,PA van Meekeren,MH Cross,,0,1,1,,,,383123831
+1,Scotland,16,MH Cross,PA van Meekeren,RD Berrington,,0,0,0,,,,383123831
+1,Scotland,16,MH Cross,PA van Meekeren,RD Berrington,,0,1,1,,,,383123831
+1,Scotland,16,RD Berrington,PA van Meekeren,MH Cross,wides,1,1,0,,,,383123831
+1,Scotland,16,RD Berrington,PA van Meekeren,MH Cross,,0,6,6,,,,383123831
+1,Scotland,17,MH Cross,S Snater,RD Berrington,,0,1,1,,,,383123831
+1,Scotland,17,RD Berrington,S Snater,MH Cross,wides,1,1,0,,,,383123831
+1,Scotland,17,RD Berrington,S Snater,MH Cross,,0,2,2,,,,383123831
+1,Scotland,17,RD Berrington,S Snater,MH Cross,,0,2,2,,,,383123831
+1,Scotland,17,RD Berrington,S Snater,MH Cross,,0,4,4,,,,383123831
+1,Scotland,17,RD Berrington,S Snater,MH Cross,noballs,1,5,4,,,,383123831
+1,Scotland,17,RD Berrington,S Snater,MH Cross,,0,0,0,,,,383123831
+1,Scotland,17,RD Berrington,S Snater,MH Cross,,0,1,1,,,,383123831
+1,Scotland,18,RD Berrington,PA van Meekeren,MH Cross,,0,1,1,,,,383123831
+1,Scotland,18,MH Cross,PA van Meekeren,RD Berrington,,0,0,0,,,,383123831
+1,Scotland,18,MH Cross,PA van Meekeren,RD Berrington,wides,1,1,0,,,,383123831
+1,Scotland,18,MH Cross,PA van Meekeren,RD Berrington,,0,1,1,,,,383123831
+1,Scotland,18,RD Berrington,PA van Meekeren,MH Cross,,0,1,1,,,,383123831
+1,Scotland,18,MH Cross,PA van Meekeren,RD Berrington,,0,1,1,,,,383123831
+1,Scotland,18,RD Berrington,PA van Meekeren,MH Cross,,0,4,4,,,,383123831
+1,Scotland,19,MH Cross,T van der Gugten,RD Berrington,,0,1,1,,,,383123831
+1,Scotland,19,RD Berrington,T van der Gugten,MH Cross,,0,3,3,,,,383123831
+1,Scotland,19,MH Cross,T van der Gugten,RD Berrington,,0,0,0,caught,MH Cross,BN Cooper,383123831
+1,Scotland,19,RD Berrington,T van der Gugten,CS MacLeod,,0,4,4,,,,383123831
+1,Scotland,19,RD Berrington,T van der Gugten,CS MacLeod,,0,1,1,,,,383123831
+1,Scotland,19,CS MacLeod,T van der Gugten,RD Berrington,,0,4,4,,,,383123831

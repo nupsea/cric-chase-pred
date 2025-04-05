@@ -1,0 +1,91 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Scotland,0,HG Munsey,Usman Shinwari,KJ Coetzer,,0,0,0,,,,379323793
+2,Scotland,0,HG Munsey,Usman Shinwari,KJ Coetzer,,0,0,0,,,,379323793
+2,Scotland,0,HG Munsey,Usman Shinwari,KJ Coetzer,,0,0,0,caught,HG Munsey,Fakhar Zaman,379323793
+2,Scotland,0,RD Berrington,Usman Shinwari,KJ Coetzer,,0,0,0,,,,379323793
+2,Scotland,0,RD Berrington,Usman Shinwari,KJ Coetzer,,0,0,0,,,,379323793
+2,Scotland,0,RD Berrington,Usman Shinwari,KJ Coetzer,,0,1,1,,,,379323793
+2,Scotland,1,RD Berrington,Mohammad Nawaz (3),KJ Coetzer,,0,0,0,,,,379323793
+2,Scotland,1,RD Berrington,Mohammad Nawaz (3),KJ Coetzer,,0,0,0,,,,379323793
+2,Scotland,1,RD Berrington,Mohammad Nawaz (3),KJ Coetzer,,0,4,4,,,,379323793
+2,Scotland,1,RD Berrington,Mohammad Nawaz (3),KJ Coetzer,,0,6,6,,,,379323793
+2,Scotland,1,RD Berrington,Mohammad Nawaz (3),KJ Coetzer,,0,1,1,,,,379323793
+2,Scotland,1,KJ Coetzer,Mohammad Nawaz (3),RD Berrington,,0,0,0,,,,379323793
+2,Scotland,2,RD Berrington,Hasan Ali,KJ Coetzer,,0,4,4,,,,379323793
+2,Scotland,2,RD Berrington,Hasan Ali,KJ Coetzer,,0,1,1,,,,379323793
+2,Scotland,2,KJ Coetzer,Hasan Ali,RD Berrington,,0,1,1,,,,379323793
+2,Scotland,2,RD Berrington,Hasan Ali,KJ Coetzer,,0,2,2,,,,379323793
+2,Scotland,2,RD Berrington,Hasan Ali,KJ Coetzer,,0,0,0,,,,379323793
+2,Scotland,2,RD Berrington,Hasan Ali,KJ Coetzer,,0,1,1,,,,379323793
+2,Scotland,3,RD Berrington,Faheem Ashraf,KJ Coetzer,,0,0,0,,,,379323793
+2,Scotland,3,RD Berrington,Faheem Ashraf,KJ Coetzer,,0,0,0,caught,RD Berrington,Asif Ali,379323793
+2,Scotland,3,CS MacLeod,Faheem Ashraf,KJ Coetzer,,0,1,1,,,,379323793
+2,Scotland,3,KJ Coetzer,Faheem Ashraf,CS MacLeod,,0,0,0,,,,379323793
+2,Scotland,3,KJ Coetzer,Faheem Ashraf,CS MacLeod,wides,1,1,0,,,,379323793
+2,Scotland,3,KJ Coetzer,Faheem Ashraf,CS MacLeod,,0,0,0,,,,379323793
+2,Scotland,3,KJ Coetzer,Faheem Ashraf,CS MacLeod,,0,0,0,,,,379323793
+2,Scotland,4,CS MacLeod,Usman Shinwari,KJ Coetzer,,0,1,1,,,,379323793
+2,Scotland,4,KJ Coetzer,Usman Shinwari,CS MacLeod,,0,0,0,bowled,KJ Coetzer,,379323793
+2,Scotland,4,DE Budge,Usman Shinwari,CS MacLeod,,0,1,1,,,,379323793
+2,Scotland,4,CS MacLeod,Usman Shinwari,DE Budge,,0,1,1,,,,379323793
+2,Scotland,4,DE Budge,Usman Shinwari,CS MacLeod,,0,0,0,,,,379323793
+2,Scotland,4,DE Budge,Usman Shinwari,CS MacLeod,,0,0,0,,,,379323793
+2,Scotland,5,CS MacLeod,Faheem Ashraf,DE Budge,,0,1,1,,,,379323793
+2,Scotland,5,DE Budge,Faheem Ashraf,CS MacLeod,,0,1,1,,,,379323793
+2,Scotland,5,CS MacLeod,Faheem Ashraf,DE Budge,wides,1,1,0,,,,379323793
+2,Scotland,5,CS MacLeod,Faheem Ashraf,DE Budge,,0,0,0,,,,379323793
+2,Scotland,5,CS MacLeod,Faheem Ashraf,DE Budge,,0,0,0,,,,379323793
+2,Scotland,5,CS MacLeod,Faheem Ashraf,DE Budge,,0,0,0,,,,379323793
+2,Scotland,5,CS MacLeod,Faheem Ashraf,DE Budge,legbyes,1,1,0,,,,379323793
+2,Scotland,6,CS MacLeod,Mohammad Nawaz (3),DE Budge,,0,0,0,,,,379323793
+2,Scotland,6,CS MacLeod,Mohammad Nawaz (3),DE Budge,,0,1,1,,,,379323793
+2,Scotland,6,DE Budge,Mohammad Nawaz (3),CS MacLeod,,0,0,0,,,,379323793
+2,Scotland,6,DE Budge,Mohammad Nawaz (3),CS MacLeod,,0,0,0,,,,379323793
+2,Scotland,6,DE Budge,Mohammad Nawaz (3),CS MacLeod,,0,1,1,,,,379323793
+2,Scotland,6,CS MacLeod,Mohammad Nawaz (3),DE Budge,,0,4,4,,,,379323793
+2,Scotland,7,DE Budge,Shadab Khan,CS MacLeod,,0,1,1,run out,DE Budge,,379323793
+2,Scotland,7,MA Leask,Shadab Khan,CS MacLeod,,0,0,0,,,,379323793
+2,Scotland,7,MA Leask,Shadab Khan,CS MacLeod,,0,1,1,,,,379323793
+2,Scotland,7,CS MacLeod,Shadab Khan,MA Leask,,0,1,1,,,,379323793
+2,Scotland,7,MA Leask,Shadab Khan,CS MacLeod,,0,1,1,,,,379323793
+2,Scotland,7,CS MacLeod,Shadab Khan,MA Leask,,0,1,1,,,,379323793
+2,Scotland,8,CS MacLeod,Mohammad Nawaz (3),MA Leask,,0,1,1,,,,379323793
+2,Scotland,8,MA Leask,Mohammad Nawaz (3),CS MacLeod,,0,0,0,,,,379323793
+2,Scotland,8,MA Leask,Mohammad Nawaz (3),CS MacLeod,,0,1,1,,,,379323793
+2,Scotland,8,CS MacLeod,Mohammad Nawaz (3),MA Leask,,0,1,1,,,,379323793
+2,Scotland,8,MA Leask,Mohammad Nawaz (3),CS MacLeod,,0,6,6,,,,379323793
+2,Scotland,8,MA Leask,Mohammad Nawaz (3),CS MacLeod,,0,0,0,caught,MA Leask,Shadab Khan,379323793
+2,Scotland,9,CS MacLeod,Shadab Khan,MH Cross,,0,1,1,,,,379323793
+2,Scotland,9,MH Cross,Shadab Khan,CS MacLeod,,0,1,1,,,,379323793
+2,Scotland,9,CS MacLeod,Shadab Khan,MH Cross,,0,1,1,,,,379323793
+2,Scotland,9,MH Cross,Shadab Khan,CS MacLeod,,0,0,0,,,,379323793
+2,Scotland,9,MH Cross,Shadab Khan,CS MacLeod,,0,1,1,,,,379323793
+2,Scotland,9,CS MacLeod,Shadab Khan,MH Cross,,0,0,0,,,,379323793
+2,Scotland,10,MH Cross,Mohammad Nawaz (3),CS MacLeod,,0,1,1,,,,379323793
+2,Scotland,10,CS MacLeod,Mohammad Nawaz (3),MH Cross,,0,4,4,,,,379323793
+2,Scotland,10,CS MacLeod,Mohammad Nawaz (3),MH Cross,,0,1,1,,,,379323793
+2,Scotland,10,MH Cross,Mohammad Nawaz (3),CS MacLeod,,0,0,0,,,,379323793
+2,Scotland,10,MH Cross,Mohammad Nawaz (3),CS MacLeod,,0,1,1,,,,379323793
+2,Scotland,10,CS MacLeod,Mohammad Nawaz (3),MH Cross,,0,2,2,,,,379323793
+2,Scotland,11,MH Cross,Shadab Khan,CS MacLeod,,0,1,1,,,,379323793
+2,Scotland,11,CS MacLeod,Shadab Khan,MH Cross,,0,1,1,,,,379323793
+2,Scotland,11,MH Cross,Shadab Khan,CS MacLeod,,0,0,0,caught,MH Cross,Fakhar Zaman,379323793
+2,Scotland,11,CS MacLeod,Shadab Khan,SM Sharif,,0,0,0,,,,379323793
+2,Scotland,11,CS MacLeod,Shadab Khan,SM Sharif,,0,1,1,,,,379323793
+2,Scotland,11,SM Sharif,Shadab Khan,CS MacLeod,,0,1,1,,,,379323793
+2,Scotland,12,SM Sharif,Hasan Ali,CS MacLeod,,0,0,0,,,,379323793
+2,Scotland,12,SM Sharif,Hasan Ali,CS MacLeod,,0,2,2,,,,379323793
+2,Scotland,12,SM Sharif,Hasan Ali,CS MacLeod,,0,0,0,,,,379323793
+2,Scotland,12,SM Sharif,Hasan Ali,CS MacLeod,,0,6,6,,,,379323793
+2,Scotland,12,SM Sharif,Hasan Ali,CS MacLeod,,0,0,0,,,,379323793
+2,Scotland,12,SM Sharif,Hasan Ali,CS MacLeod,,0,1,1,,,,379323793
+2,Scotland,13,SM Sharif,Shadab Khan,CS MacLeod,,0,0,0,run out,SM Sharif,,379323793
+2,Scotland,13,MRJ Watt,Shadab Khan,CS MacLeod,,0,1,1,,,,379323793
+2,Scotland,13,CS MacLeod,Shadab Khan,MRJ Watt,,0,1,1,,,,379323793
+2,Scotland,13,MRJ Watt,Shadab Khan,CS MacLeod,,0,0,0,run out,MRJ Watt,,379323793
+2,Scotland,13,CB Sole,Shadab Khan,CS MacLeod,,0,4,4,,,,379323793
+2,Scotland,13,CB Sole,Shadab Khan,CS MacLeod,,0,0,0,,,,379323793
+2,Scotland,14,CS MacLeod,Faheem Ashraf,CB Sole,,0,0,0,,,,379323793
+2,Scotland,14,CS MacLeod,Faheem Ashraf,CB Sole,,0,0,0,caught and bowled,CS MacLeod,,379323793
+2,Scotland,14,AC Evans,Faheem Ashraf,CB Sole,,0,0,0,,,,379323793
+2,Scotland,14,AC Evans,Faheem Ashraf,CB Sole,,0,0,0,caught,AC Evans,Sarfraz Ahmed,379323793

@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Pakistan,0,Salman Butt,WPUJC Vaas,Imran Nazir,,0,0,0,,,,3292329
+1,Pakistan,0,Salman Butt,WPUJC Vaas,Imran Nazir,,0,4,4,,,,3292329
+1,Pakistan,0,Salman Butt,WPUJC Vaas,Imran Nazir,,0,1,1,,,,3292329
+1,Pakistan,0,Imran Nazir,WPUJC Vaas,Salman Butt,,0,1,1,,,,3292329
+1,Pakistan,0,Salman Butt,WPUJC Vaas,Imran Nazir,,0,0,0,,,,3292329
+1,Pakistan,0,Salman Butt,WPUJC Vaas,Imran Nazir,,0,1,1,,,,3292329
+1,Pakistan,1,Salman Butt,CRD Fernando,Imran Nazir,,0,0,0,,,,3292329
+1,Pakistan,1,Salman Butt,CRD Fernando,Imran Nazir,noballs,1,1,0,,,,3292329
+1,Pakistan,1,Salman Butt,CRD Fernando,Imran Nazir,,0,2,2,,,,3292329
+1,Pakistan,1,Salman Butt,CRD Fernando,Imran Nazir,,0,0,0,,,,3292329
+1,Pakistan,1,Salman Butt,CRD Fernando,Imran Nazir,legbyes,1,1,0,,,,3292329
+1,Pakistan,1,Imran Nazir,CRD Fernando,Salman Butt,,0,6,6,,,,3292329
+1,Pakistan,1,Imran Nazir,CRD Fernando,Salman Butt,,0,0,0,,,,3292329
+1,Pakistan,2,Salman Butt,WPUJC Vaas,Imran Nazir,,0,2,2,,,,3292329
+1,Pakistan,2,Salman Butt,WPUJC Vaas,Imran Nazir,,0,0,0,,,,3292329
+1,Pakistan,2,Salman Butt,WPUJC Vaas,Imran Nazir,,0,2,2,,,,3292329
+1,Pakistan,2,Salman Butt,WPUJC Vaas,Imran Nazir,,0,0,0,,,,3292329
+1,Pakistan,2,Salman Butt,WPUJC Vaas,Imran Nazir,legbyes,1,1,0,,,,3292329
+1,Pakistan,2,Imran Nazir,WPUJC Vaas,Salman Butt,,0,0,0,caught,Imran Nazir,J Mubarak,3292329
+1,Pakistan,3,Salman Butt,CRD Fernando,Mohammad Hafeez,,0,0,0,,,,3292329
+1,Pakistan,3,Salman Butt,CRD Fernando,Mohammad Hafeez,,0,0,0,bowled,Salman Butt,,3292329
+1,Pakistan,3,Younis Khan,CRD Fernando,Mohammad Hafeez,,0,0,0,,,,3292329
+1,Pakistan,3,Younis Khan,CRD Fernando,Mohammad Hafeez,,0,0,0,,,,3292329
+1,Pakistan,3,Younis Khan,CRD Fernando,Mohammad Hafeez,,0,1,1,,,,3292329
+1,Pakistan,3,Mohammad Hafeez,CRD Fernando,Younis Khan,,0,1,1,,,,3292329
+1,Pakistan,4,Mohammad Hafeez,WPUJC Vaas,Younis Khan,,0,0,0,,,,3292329
+1,Pakistan,4,Mohammad Hafeez,WPUJC Vaas,Younis Khan,,0,0,0,,,,3292329
+1,Pakistan,4,Mohammad Hafeez,WPUJC Vaas,Younis Khan,,0,4,4,,,,3292329
+1,Pakistan,4,Mohammad Hafeez,WPUJC Vaas,Younis Khan,,0,4,4,,,,3292329
+1,Pakistan,4,Mohammad Hafeez,WPUJC Vaas,Younis Khan,,0,1,1,,,,3292329
+1,Pakistan,4,Younis Khan,WPUJC Vaas,Mohammad Hafeez,,0,0,0,,,,3292329
+1,Pakistan,5,Mohammad Hafeez,CRD Fernando,Younis Khan,,0,0,0,,,,3292329
+1,Pakistan,5,Mohammad Hafeez,CRD Fernando,Younis Khan,,0,0,0,,,,3292329
+1,Pakistan,5,Mohammad Hafeez,CRD Fernando,Younis Khan,,0,0,0,,,,3292329
+1,Pakistan,5,Mohammad Hafeez,CRD Fernando,Younis Khan,,0,0,0,,,,3292329
+1,Pakistan,5,Mohammad Hafeez,CRD Fernando,Younis Khan,,0,0,0,bowled,Mohammad Hafeez,,3292329
+1,Pakistan,5,Shoaib Malik,CRD Fernando,Younis Khan,,0,0,0,,,,3292329
+1,Pakistan,6,Younis Khan,WPUJC Vaas,Shoaib Malik,,0,0,0,,,,3292329
+1,Pakistan,6,Younis Khan,WPUJC Vaas,Shoaib Malik,,0,0,0,,,,3292329
+1,Pakistan,6,Younis Khan,WPUJC Vaas,Shoaib Malik,legbyes,1,1,0,,,,3292329
+1,Pakistan,6,Shoaib Malik,WPUJC Vaas,Younis Khan,,0,1,1,,,,3292329
+1,Pakistan,6,Younis Khan,WPUJC Vaas,Shoaib Malik,,0,2,2,,,,3292329
+1,Pakistan,6,Younis Khan,WPUJC Vaas,Shoaib Malik,,0,0,0,,,,3292329
+1,Pakistan,7,Shoaib Malik,SL Malinga,Younis Khan,,0,1,1,,,,3292329
+1,Pakistan,7,Younis Khan,SL Malinga,Shoaib Malik,wides,1,1,0,,,,3292329
+1,Pakistan,7,Younis Khan,SL Malinga,Shoaib Malik,,0,2,2,,,,3292329
+1,Pakistan,7,Younis Khan,SL Malinga,Shoaib Malik,,0,4,4,,,,3292329
+1,Pakistan,7,Younis Khan,SL Malinga,Shoaib Malik,,0,1,1,,,,3292329
+1,Pakistan,7,Shoaib Malik,SL Malinga,Younis Khan,,0,2,2,,,,3292329
+1,Pakistan,7,Shoaib Malik,SL Malinga,Younis Khan,,0,1,1,,,,3292329
+1,Pakistan,8,Shoaib Malik,ST Jayasuriya,Younis Khan,,0,1,1,,,,3292329
+1,Pakistan,8,Younis Khan,ST Jayasuriya,Shoaib Malik,,0,1,1,,,,3292329
+1,Pakistan,8,Shoaib Malik,ST Jayasuriya,Younis Khan,,0,4,4,,,,3292329
+1,Pakistan,8,Shoaib Malik,ST Jayasuriya,Younis Khan,,0,1,1,,,,3292329
+1,Pakistan,8,Younis Khan,ST Jayasuriya,Shoaib Malik,,0,1,1,,,,3292329
+1,Pakistan,8,Shoaib Malik,ST Jayasuriya,Younis Khan,,0,6,6,,,,3292329
+1,Pakistan,9,Younis Khan,G Wijekoon,Shoaib Malik,,0,0,0,,,,3292329
+1,Pakistan,9,Younis Khan,G Wijekoon,Shoaib Malik,,0,0,0,,,,3292329
+1,Pakistan,9,Younis Khan,G Wijekoon,Shoaib Malik,,0,1,1,,,,3292329
+1,Pakistan,9,Shoaib Malik,G Wijekoon,Younis Khan,,0,4,4,,,,3292329
+1,Pakistan,9,Shoaib Malik,G Wijekoon,Younis Khan,,0,1,1,,,,3292329
+1,Pakistan,9,Younis Khan,G Wijekoon,Shoaib Malik,,0,0,0,,,,3292329
+1,Pakistan,10,Shoaib Malik,ST Jayasuriya,Younis Khan,,0,2,2,,,,3292329
+1,Pakistan,10,Shoaib Malik,ST Jayasuriya,Younis Khan,,0,1,1,,,,3292329
+1,Pakistan,10,Younis Khan,ST Jayasuriya,Shoaib Malik,,0,1,1,,,,3292329
+1,Pakistan,10,Shoaib Malik,ST Jayasuriya,Younis Khan,,0,2,2,,,,3292329
+1,Pakistan,10,Shoaib Malik,ST Jayasuriya,Younis Khan,,0,4,4,,,,3292329
+1,Pakistan,10,Shoaib Malik,ST Jayasuriya,Younis Khan,,0,2,2,,,,3292329
+1,Pakistan,11,Younis Khan,G Wijekoon,Shoaib Malik,,0,2,2,,,,3292329
+1,Pakistan,11,Younis Khan,G Wijekoon,Shoaib Malik,,0,2,2,,,,3292329
+1,Pakistan,11,Younis Khan,G Wijekoon,Shoaib Malik,,0,1,1,,,,3292329
+1,Pakistan,11,Shoaib Malik,G Wijekoon,Younis Khan,,0,1,1,,,,3292329
+1,Pakistan,11,Younis Khan,G Wijekoon,Shoaib Malik,,0,1,1,,,,3292329
+1,Pakistan,11,Shoaib Malik,G Wijekoon,Younis Khan,,0,1,1,,,,3292329
+1,Pakistan,12,Shoaib Malik,ST Jayasuriya,Younis Khan,,0,1,1,,,,3292329
+1,Pakistan,12,Younis Khan,ST Jayasuriya,Shoaib Malik,,0,6,6,,,,3292329
+1,Pakistan,12,Younis Khan,ST Jayasuriya,Shoaib Malik,,0,4,4,,,,3292329
+1,Pakistan,12,Younis Khan,ST Jayasuriya,Shoaib Malik,,0,6,6,,,,3292329
+1,Pakistan,12,Younis Khan,ST Jayasuriya,Shoaib Malik,,0,2,2,,,,3292329
+1,Pakistan,12,Younis Khan,ST Jayasuriya,Shoaib Malik,,0,1,1,,,,3292329
+1,Pakistan,13,Younis Khan,G Wijekoon,Shoaib Malik,,0,6,6,,,,3292329
+1,Pakistan,13,Younis Khan,G Wijekoon,Shoaib Malik,,0,1,1,,,,3292329
+1,Pakistan,13,Shoaib Malik,G Wijekoon,Younis Khan,,0,2,2,,,,3292329
+1,Pakistan,13,Shoaib Malik,G Wijekoon,Younis Khan,,0,0,0,,,,3292329
+1,Pakistan,13,Shoaib Malik,G Wijekoon,Younis Khan,,0,1,1,,,,3292329
+1,Pakistan,13,Younis Khan,G Wijekoon,Shoaib Malik,,0,2,2,,,,3292329
+1,Pakistan,14,Shoaib Malik,SL Malinga,Younis Khan,,0,1,1,,,,3292329
+1,Pakistan,14,Younis Khan,SL Malinga,Shoaib Malik,wides,3,3,0,,,,3292329
+1,Pakistan,14,Younis Khan,SL Malinga,Shoaib Malik,,0,2,2,,,,3292329
+1,Pakistan,14,Younis Khan,SL Malinga,Shoaib Malik,noballs,1,2,1,,,,3292329
+1,Pakistan,14,Shoaib Malik,SL Malinga,Younis Khan,,0,4,4,,,,3292329
+1,Pakistan,14,Shoaib Malik,SL Malinga,Younis Khan,,0,1,1,,,,3292329
+1,Pakistan,14,Younis Khan,SL Malinga,Shoaib Malik,,0,0,0,,,,3292329
+1,Pakistan,14,Younis Khan,SL Malinga,Shoaib Malik,,0,0,0,caught,Younis Khan,TM Dilshan,3292329
+1,Pakistan,15,Shahid Afridi,G Wijekoon,Shoaib Malik,,0,1,1,,,,3292329
+1,Pakistan,15,Shoaib Malik,G Wijekoon,Shahid Afridi,,0,1,1,,,,3292329
+1,Pakistan,15,Shahid Afridi,G Wijekoon,Shoaib Malik,,0,1,1,,,,3292329
+1,Pakistan,15,Shoaib Malik,G Wijekoon,Shahid Afridi,,0,6,6,,,,3292329
+1,Pakistan,15,Shoaib Malik,G Wijekoon,Shahid Afridi,,0,2,2,,,,3292329
+1,Pakistan,15,Shoaib Malik,G Wijekoon,Shahid Afridi,,0,2,2,,,,3292329
+1,Pakistan,16,Shahid Afridi,SL Malinga,Shoaib Malik,,0,3,3,,,,3292329
+1,Pakistan,16,Shoaib Malik,SL Malinga,Shahid Afridi,,0,1,1,,,,3292329
+1,Pakistan,16,Shahid Afridi,SL Malinga,Shoaib Malik,,0,1,1,,,,3292329
+1,Pakistan,16,Shoaib Malik,SL Malinga,Shahid Afridi,,0,0,0,caught,Shoaib Malik,TM Dilshan,3292329
+1,Pakistan,16,Shahid Afridi,SL Malinga,Kamran Akmal,,0,2,2,,,,3292329
+1,Pakistan,16,Shahid Afridi,SL Malinga,Kamran Akmal,,0,4,4,,,,3292329
+1,Pakistan,17,Kamran Akmal,CRD Fernando,Shahid Afridi,,0,0,0,,,,3292329
+1,Pakistan,17,Kamran Akmal,CRD Fernando,Shahid Afridi,,0,0,0,,,,3292329
+1,Pakistan,17,Kamran Akmal,CRD Fernando,Shahid Afridi,,0,0,0,,,,3292329
+1,Pakistan,17,Kamran Akmal,CRD Fernando,Shahid Afridi,,0,2,2,,,,3292329
+1,Pakistan,17,Kamran Akmal,CRD Fernando,Shahid Afridi,,0,0,0,,,,3292329
+1,Pakistan,17,Kamran Akmal,CRD Fernando,Shahid Afridi,,0,4,4,,,,3292329
+1,Pakistan,18,Shahid Afridi,SL Malinga,Kamran Akmal,,0,1,1,,,,3292329
+1,Pakistan,18,Kamran Akmal,SL Malinga,Shahid Afridi,,0,1,1,,,,3292329
+1,Pakistan,18,Shahid Afridi,SL Malinga,Kamran Akmal,,0,4,4,,,,3292329
+1,Pakistan,18,Shahid Afridi,SL Malinga,Kamran Akmal,,0,0,0,bowled,Shahid Afridi,,3292329
+1,Pakistan,18,Misbah-ul-Haq,SL Malinga,Kamran Akmal,,0,0,0,,,,3292329
+1,Pakistan,18,Misbah-ul-Haq,SL Malinga,Kamran Akmal,,0,1,1,,,,3292329
+1,Pakistan,19,Misbah-ul-Haq,ST Jayasuriya,Kamran Akmal,,0,2,2,,,,3292329
+1,Pakistan,19,Misbah-ul-Haq,ST Jayasuriya,Kamran Akmal,,0,6,6,,,,3292329
+1,Pakistan,19,Misbah-ul-Haq,ST Jayasuriya,Kamran Akmal,,0,1,1,,,,3292329
+1,Pakistan,19,Kamran Akmal,ST Jayasuriya,Misbah-ul-Haq,,0,2,2,,,,3292329
+1,Pakistan,19,Kamran Akmal,ST Jayasuriya,Misbah-ul-Haq,,0,1,1,,,,3292329
+1,Pakistan,19,Misbah-ul-Haq,ST Jayasuriya,Kamran Akmal,,0,6,6,,,,3292329

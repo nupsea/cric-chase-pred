@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,India,0,RG Sharma,Abu Hider,S Dhawan,,0,0,0,,,,380723807
+1,India,0,RG Sharma,Abu Hider,S Dhawan,,0,0,0,,,,380723807
+1,India,0,RG Sharma,Abu Hider,S Dhawan,wides,1,1,0,,,,380723807
+1,India,0,RG Sharma,Abu Hider,S Dhawan,,0,0,0,,,,380723807
+1,India,0,RG Sharma,Abu Hider,S Dhawan,,0,0,0,,,,380723807
+1,India,0,RG Sharma,Abu Hider,S Dhawan,,0,1,1,,,,380723807
+1,India,0,S Dhawan,Abu Hider,RG Sharma,,0,0,0,,,,380723807
+1,India,1,RG Sharma,Nazmul Islam,S Dhawan,,0,0,0,,,,380723807
+1,India,1,RG Sharma,Nazmul Islam,S Dhawan,,0,4,4,,,,380723807
+1,India,1,RG Sharma,Nazmul Islam,S Dhawan,,0,0,0,,,,380723807
+1,India,1,RG Sharma,Nazmul Islam,S Dhawan,,0,0,0,,,,380723807
+1,India,1,RG Sharma,Nazmul Islam,S Dhawan,,0,1,1,,,,380723807
+1,India,1,S Dhawan,Nazmul Islam,RG Sharma,,0,4,4,,,,380723807
+1,India,2,RG Sharma,Rubel Hossain,S Dhawan,,0,0,0,,,,380723807
+1,India,2,RG Sharma,Rubel Hossain,S Dhawan,,0,1,1,,,,380723807
+1,India,2,S Dhawan,Rubel Hossain,RG Sharma,,0,0,0,,,,380723807
+1,India,2,S Dhawan,Rubel Hossain,RG Sharma,,0,1,1,,,,380723807
+1,India,2,RG Sharma,Rubel Hossain,S Dhawan,,0,1,1,,,,380723807
+1,India,2,S Dhawan,Rubel Hossain,RG Sharma,,0,4,4,,,,380723807
+1,India,3,RG Sharma,Mustafizur Rahman,S Dhawan,,0,1,1,,,,380723807
+1,India,3,S Dhawan,Mustafizur Rahman,RG Sharma,,0,0,0,,,,380723807
+1,India,3,S Dhawan,Mustafizur Rahman,RG Sharma,,0,0,0,,,,380723807
+1,India,3,S Dhawan,Mustafizur Rahman,RG Sharma,,0,1,1,,,,380723807
+1,India,3,RG Sharma,Mustafizur Rahman,S Dhawan,,0,1,1,,,,380723807
+1,India,3,S Dhawan,Mustafizur Rahman,RG Sharma,,0,6,6,,,,380723807
+1,India,4,RG Sharma,Mehedi Hasan Miraz,S Dhawan,,0,1,1,,,,380723807
+1,India,4,S Dhawan,Mehedi Hasan Miraz,RG Sharma,,0,1,1,,,,380723807
+1,India,4,RG Sharma,Mehedi Hasan Miraz,S Dhawan,,0,0,0,,,,380723807
+1,India,4,RG Sharma,Mehedi Hasan Miraz,S Dhawan,,0,6,6,,,,380723807
+1,India,4,RG Sharma,Mehedi Hasan Miraz,S Dhawan,,0,0,0,,,,380723807
+1,India,4,RG Sharma,Mehedi Hasan Miraz,S Dhawan,,0,3,3,,,,380723807
+1,India,5,RG Sharma,Abu Hider,S Dhawan,,0,4,4,,,,380723807
+1,India,5,RG Sharma,Abu Hider,S Dhawan,,0,1,1,,,,380723807
+1,India,5,S Dhawan,Abu Hider,RG Sharma,,0,1,1,,,,380723807
+1,India,5,RG Sharma,Abu Hider,S Dhawan,,0,1,1,,,,380723807
+1,India,5,S Dhawan,Abu Hider,RG Sharma,,0,0,0,,,,380723807
+1,India,5,S Dhawan,Abu Hider,RG Sharma,,0,4,4,,,,380723807
+1,India,6,RG Sharma,Nazmul Islam,S Dhawan,,0,1,1,,,,380723807
+1,India,6,S Dhawan,Nazmul Islam,RG Sharma,,0,0,0,,,,380723807
+1,India,6,S Dhawan,Nazmul Islam,RG Sharma,,0,4,4,,,,380723807
+1,India,6,S Dhawan,Nazmul Islam,RG Sharma,,0,0,0,,,,380723807
+1,India,6,S Dhawan,Nazmul Islam,RG Sharma,,0,0,0,,,,380723807
+1,India,6,S Dhawan,Nazmul Islam,RG Sharma,,0,0,0,,,,380723807
+1,India,7,RG Sharma,Mehedi Hasan Miraz,S Dhawan,,0,1,1,,,,380723807
+1,India,7,S Dhawan,Mehedi Hasan Miraz,RG Sharma,,0,4,4,,,,380723807
+1,India,7,S Dhawan,Mehedi Hasan Miraz,RG Sharma,,0,1,1,,,,380723807
+1,India,7,RG Sharma,Mehedi Hasan Miraz,S Dhawan,wides,1,1,0,,,,380723807
+1,India,7,RG Sharma,Mehedi Hasan Miraz,S Dhawan,,0,1,1,,,,380723807
+1,India,7,S Dhawan,Mehedi Hasan Miraz,RG Sharma,,0,1,1,,,,380723807
+1,India,7,RG Sharma,Mehedi Hasan Miraz,S Dhawan,,0,0,0,,,,380723807
+1,India,8,S Dhawan,Nazmul Islam,RG Sharma,,0,1,1,,,,380723807
+1,India,8,RG Sharma,Nazmul Islam,S Dhawan,,0,1,1,,,,380723807
+1,India,8,S Dhawan,Nazmul Islam,RG Sharma,,0,1,1,,,,380723807
+1,India,8,RG Sharma,Nazmul Islam,S Dhawan,,0,0,0,,,,380723807
+1,India,8,RG Sharma,Nazmul Islam,S Dhawan,,0,1,1,,,,380723807
+1,India,8,S Dhawan,Nazmul Islam,RG Sharma,,0,0,0,,,,380723807
+1,India,9,RG Sharma,Rubel Hossain,S Dhawan,,0,1,1,,,,380723807
+1,India,9,S Dhawan,Rubel Hossain,RG Sharma,,0,0,0,,,,380723807
+1,India,9,S Dhawan,Rubel Hossain,RG Sharma,,0,1,1,,,,380723807
+1,India,9,RG Sharma,Rubel Hossain,S Dhawan,,0,1,1,,,,380723807
+1,India,9,S Dhawan,Rubel Hossain,RG Sharma,,0,0,0,bowled,S Dhawan,,380723807
+1,India,9,SK Raina,Rubel Hossain,RG Sharma,,0,1,1,,,,380723807
+1,India,10,SK Raina,Nazmul Islam,RG Sharma,,0,0,0,,,,380723807
+1,India,10,SK Raina,Nazmul Islam,RG Sharma,,0,0,0,,,,380723807
+1,India,10,SK Raina,Nazmul Islam,RG Sharma,,0,1,1,,,,380723807
+1,India,10,RG Sharma,Nazmul Islam,SK Raina,,0,0,0,,,,380723807
+1,India,10,RG Sharma,Nazmul Islam,SK Raina,,0,6,6,,,,380723807
+1,India,10,RG Sharma,Nazmul Islam,SK Raina,,0,2,2,,,,380723807
+1,India,11,SK Raina,Mustafizur Rahman,RG Sharma,,0,1,1,,,,380723807
+1,India,11,RG Sharma,Mustafizur Rahman,SK Raina,,0,0,0,,,,380723807
+1,India,11,RG Sharma,Mustafizur Rahman,SK Raina,,0,0,0,,,,380723807
+1,India,11,RG Sharma,Mustafizur Rahman,SK Raina,,0,2,2,,,,380723807
+1,India,11,RG Sharma,Mustafizur Rahman,SK Raina,,0,1,1,,,,380723807
+1,India,11,SK Raina,Mustafizur Rahman,RG Sharma,,0,0,0,,,,380723807
+1,India,12,RG Sharma,Abu Hider,SK Raina,,0,1,1,,,,380723807
+1,India,12,SK Raina,Abu Hider,RG Sharma,,0,1,1,,,,380723807
+1,India,12,RG Sharma,Abu Hider,SK Raina,,0,4,4,,,,380723807
+1,India,12,RG Sharma,Abu Hider,SK Raina,,0,1,1,,,,380723807
+1,India,12,SK Raina,Abu Hider,RG Sharma,,0,1,1,,,,380723807
+1,India,12,RG Sharma,Abu Hider,SK Raina,,0,1,1,,,,380723807
+1,India,13,RG Sharma,Mehedi Hasan Miraz,SK Raina,,0,1,1,,,,380723807
+1,India,13,SK Raina,Mehedi Hasan Miraz,RG Sharma,,0,0,0,,,,380723807
+1,India,13,SK Raina,Mehedi Hasan Miraz,RG Sharma,,0,6,6,,,,380723807
+1,India,13,SK Raina,Mehedi Hasan Miraz,RG Sharma,,0,4,4,,,,380723807
+1,India,13,SK Raina,Mehedi Hasan Miraz,RG Sharma,,0,0,0,,,,380723807
+1,India,13,SK Raina,Mehedi Hasan Miraz,RG Sharma,,0,0,0,,,,380723807
+1,India,14,RG Sharma,Rubel Hossain,SK Raina,,0,2,2,,,,380723807
+1,India,14,RG Sharma,Rubel Hossain,SK Raina,,0,1,1,,,,380723807
+1,India,14,SK Raina,Rubel Hossain,RG Sharma,,0,0,0,,,,380723807
+1,India,14,SK Raina,Rubel Hossain,RG Sharma,,0,4,4,,,,380723807
+1,India,14,SK Raina,Rubel Hossain,RG Sharma,,0,4,4,,,,380723807
+1,India,14,SK Raina,Rubel Hossain,RG Sharma,,0,2,2,,,,380723807
+1,India,15,RG Sharma,Mahmudullah,SK Raina,,0,1,1,,,,380723807
+1,India,15,SK Raina,Mahmudullah,RG Sharma,,0,4,4,,,,380723807
+1,India,15,SK Raina,Mahmudullah,RG Sharma,,0,1,1,,,,380723807
+1,India,15,RG Sharma,Mahmudullah,SK Raina,,0,1,1,,,,380723807
+1,India,15,SK Raina,Mahmudullah,RG Sharma,,0,1,1,,,,380723807
+1,India,15,RG Sharma,Mahmudullah,SK Raina,,0,1,1,,,,380723807
+1,India,16,RG Sharma,Mustafizur Rahman,SK Raina,,0,1,1,,,,380723807
+1,India,16,SK Raina,Mustafizur Rahman,RG Sharma,,0,4,4,,,,380723807
+1,India,16,SK Raina,Mustafizur Rahman,RG Sharma,,0,1,1,,,,380723807
+1,India,16,RG Sharma,Mustafizur Rahman,SK Raina,,0,6,6,,,,380723807
+1,India,16,RG Sharma,Mustafizur Rahman,SK Raina,,0,1,1,,,,380723807
+1,India,16,SK Raina,Mustafizur Rahman,RG Sharma,,0,1,1,,,,380723807
+1,India,17,SK Raina,Abu Hider,RG Sharma,,0,1,1,,,,380723807
+1,India,17,RG Sharma,Abu Hider,SK Raina,,0,6,6,,,,380723807
+1,India,17,RG Sharma,Abu Hider,SK Raina,,0,1,1,,,,380723807
+1,India,17,SK Raina,Abu Hider,RG Sharma,,0,6,6,,,,380723807
+1,India,17,SK Raina,Abu Hider,RG Sharma,,0,1,1,,,,380723807
+1,India,17,RG Sharma,Abu Hider,SK Raina,,0,6,6,,,,380723807
+1,India,18,SK Raina,Mustafizur Rahman,RG Sharma,,0,0,0,,,,380723807
+1,India,18,SK Raina,Mustafizur Rahman,RG Sharma,,0,1,1,,,,380723807
+1,India,18,RG Sharma,Mustafizur Rahman,SK Raina,,0,4,4,,,,380723807
+1,India,18,RG Sharma,Mustafizur Rahman,SK Raina,,0,4,4,,,,380723807
+1,India,18,RG Sharma,Mustafizur Rahman,SK Raina,,0,1,1,,,,380723807
+1,India,18,SK Raina,Mustafizur Rahman,RG Sharma,,0,1,1,,,,380723807
+1,India,19,SK Raina,Rubel Hossain,RG Sharma,,0,0,0,caught,SK Raina,Soumya Sarkar,380723807
+1,India,19,RG Sharma,Rubel Hossain,KD Karthik,legbyes,1,1,0,,,,380723807
+1,India,19,KD Karthik,Rubel Hossain,RG Sharma,,0,1,1,,,,380723807
+1,India,19,RG Sharma,Rubel Hossain,KD Karthik,,0,1,1,,,,380723807
+1,India,19,KD Karthik,Rubel Hossain,RG Sharma,,0,1,1,,,,380723807
+1,India,19,RG Sharma,Rubel Hossain,KD Karthik,,0,0,0,run out,RG Sharma,,380723807

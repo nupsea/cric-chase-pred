@@ -1,0 +1,127 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Ireland,0,PR Stirling,Fazalhaq Farooqi,A Balbirnie,wides,1,1,0,,,,31965231965
+2,Ireland,0,PR Stirling,Fazalhaq Farooqi,A Balbirnie,legbyes,1,1,0,,,,31965231965
+2,Ireland,0,A Balbirnie,Fazalhaq Farooqi,PR Stirling,,0,1,1,,,,31965231965
+2,Ireland,0,PR Stirling,Fazalhaq Farooqi,A Balbirnie,,0,0,0,caught,PR Stirling,Usman Ghani,31965231965
+2,Ireland,0,L Tucker,Fazalhaq Farooqi,A Balbirnie,,0,0,0,,,,31965231965
+2,Ireland,0,L Tucker,Fazalhaq Farooqi,A Balbirnie,,0,1,1,,,,31965231965
+2,Ireland,0,A Balbirnie,Fazalhaq Farooqi,L Tucker,,0,0,0,,,,31965231965
+2,Ireland,1,L Tucker,Azmatullah Omarzai,A Balbirnie,wides,1,1,0,,,,31965231965
+2,Ireland,1,L Tucker,Azmatullah Omarzai,A Balbirnie,wides,1,1,0,,,,31965231965
+2,Ireland,1,L Tucker,Azmatullah Omarzai,A Balbirnie,wides,1,1,0,,,,31965231965
+2,Ireland,1,L Tucker,Azmatullah Omarzai,A Balbirnie,,0,0,0,,,,31965231965
+2,Ireland,1,L Tucker,Azmatullah Omarzai,A Balbirnie,,0,0,0,,,,31965231965
+2,Ireland,1,L Tucker,Azmatullah Omarzai,A Balbirnie,,0,4,4,,,,31965231965
+2,Ireland,1,L Tucker,Azmatullah Omarzai,A Balbirnie,,0,1,1,,,,31965231965
+2,Ireland,1,A Balbirnie,Azmatullah Omarzai,L Tucker,,0,0,0,,,,31965231965
+2,Ireland,1,A Balbirnie,Azmatullah Omarzai,L Tucker,,0,0,0,,,,31965231965
+2,Ireland,2,L Tucker,Fazalhaq Farooqi,A Balbirnie,,0,6,6,,,,31965231965
+2,Ireland,2,L Tucker,Fazalhaq Farooqi,A Balbirnie,,0,1,1,,,,31965231965
+2,Ireland,2,A Balbirnie,Fazalhaq Farooqi,L Tucker,,0,0,0,caught,A Balbirnie,Rashid Khan,31965231965
+2,Ireland,2,HT Tector,Fazalhaq Farooqi,L Tucker,,0,0,0,,,,31965231965
+2,Ireland,2,HT Tector,Fazalhaq Farooqi,L Tucker,,0,0,0,,,,31965231965
+2,Ireland,2,HT Tector,Fazalhaq Farooqi,L Tucker,,0,1,1,,,,31965231965
+2,Ireland,3,HT Tector,Naveen-ul-Haq,L Tucker,,0,2,2,,,,31965231965
+2,Ireland,3,HT Tector,Naveen-ul-Haq,L Tucker,,0,0,0,caught,HT Tector,Rahmanullah Gurbaz,31965231965
+2,Ireland,3,C Campher,Naveen-ul-Haq,L Tucker,,0,0,0,,,,31965231965
+2,Ireland,3,C Campher,Naveen-ul-Haq,L Tucker,,0,4,4,,,,31965231965
+2,Ireland,3,C Campher,Naveen-ul-Haq,L Tucker,,0,0,0,,,,31965231965
+2,Ireland,3,C Campher,Naveen-ul-Haq,L Tucker,,0,0,0,,,,31965231965
+2,Ireland,4,L Tucker,Rashid Khan,C Campher,,0,1,1,,,,31965231965
+2,Ireland,4,C Campher,Rashid Khan,L Tucker,,0,0,0,,,,31965231965
+2,Ireland,4,C Campher,Rashid Khan,L Tucker,,0,0,0,,,,31965231965
+2,Ireland,4,C Campher,Rashid Khan,L Tucker,,0,0,0,,,,31965231965
+2,Ireland,4,C Campher,Rashid Khan,L Tucker,,0,0,0,,,,31965231965
+2,Ireland,4,C Campher,Rashid Khan,L Tucker,,0,0,0,,,,31965231965
+2,Ireland,5,L Tucker,Naveen-ul-Haq,C Campher,,0,4,4,,,,31965231965
+2,Ireland,5,L Tucker,Naveen-ul-Haq,C Campher,,0,1,1,,,,31965231965
+2,Ireland,5,C Campher,Naveen-ul-Haq,L Tucker,,0,0,0,,,,31965231965
+2,Ireland,5,C Campher,Naveen-ul-Haq,L Tucker,,0,4,4,,,,31965231965
+2,Ireland,5,C Campher,Naveen-ul-Haq,L Tucker,,0,0,0,caught,C Campher,Najibullah Zadran,31965231965
+2,Ireland,5,GJ Delany,Naveen-ul-Haq,L Tucker,,0,0,0,,,,31965231965
+2,Ireland,6,L Tucker,Rashid Khan,GJ Delany,,0,4,4,,,,31965231965
+2,Ireland,6,L Tucker,Rashid Khan,GJ Delany,,0,0,0,,,,31965231965
+2,Ireland,6,L Tucker,Rashid Khan,GJ Delany,,0,0,0,,,,31965231965
+2,Ireland,6,L Tucker,Rashid Khan,GJ Delany,,0,2,2,,,,31965231965
+2,Ireland,6,L Tucker,Rashid Khan,GJ Delany,,0,1,1,,,,31965231965
+2,Ireland,6,GJ Delany,Rashid Khan,L Tucker,,0,1,1,,,,31965231965
+2,Ireland,7,GJ Delany,Mohammad Nabi,L Tucker,,0,2,2,,,,31965231965
+2,Ireland,7,GJ Delany,Mohammad Nabi,L Tucker,,0,1,1,,,,31965231965
+2,Ireland,7,L Tucker,Mohammad Nabi,GJ Delany,,0,1,1,,,,31965231965
+2,Ireland,7,GJ Delany,Mohammad Nabi,L Tucker,,0,2,2,,,,31965231965
+2,Ireland,7,GJ Delany,Mohammad Nabi,L Tucker,,0,2,2,,,,31965231965
+2,Ireland,7,GJ Delany,Mohammad Nabi,L Tucker,,0,2,2,,,,31965231965
+2,Ireland,8,L Tucker,Mujeeb Ur Rahman,GJ Delany,,0,0,0,,,,31965231965
+2,Ireland,8,L Tucker,Mujeeb Ur Rahman,GJ Delany,,0,0,0,,,,31965231965
+2,Ireland,8,L Tucker,Mujeeb Ur Rahman,GJ Delany,,0,4,4,,,,31965231965
+2,Ireland,8,L Tucker,Mujeeb Ur Rahman,GJ Delany,,0,0,0,caught,L Tucker,Naveen-ul-Haq,31965231965
+2,Ireland,8,GJ Delany,Mujeeb Ur Rahman,GH Dockrell,,0,0,0,,,,31965231965
+2,Ireland,8,GJ Delany,Mujeeb Ur Rahman,GH Dockrell,,0,1,1,,,,31965231965
+2,Ireland,9,GJ Delany,Mohammad Nabi,GH Dockrell,,0,0,0,,,,31965231965
+2,Ireland,9,GJ Delany,Mohammad Nabi,GH Dockrell,,0,4,4,,,,31965231965
+2,Ireland,9,GJ Delany,Mohammad Nabi,GH Dockrell,,0,1,1,,,,31965231965
+2,Ireland,9,GH Dockrell,Mohammad Nabi,GJ Delany,,0,1,1,,,,31965231965
+2,Ireland,9,GJ Delany,Mohammad Nabi,GH Dockrell,,0,0,0,caught,GJ Delany,Najibullah Zadran,31965231965
+2,Ireland,9,GH Dockrell,Mohammad Nabi,MR Adair,,0,1,1,,,,31965231965
+2,Ireland,10,GH Dockrell,Mujeeb Ur Rahman,MR Adair,,0,2,2,,,,31965231965
+2,Ireland,10,GH Dockrell,Mujeeb Ur Rahman,MR Adair,,0,1,1,,,,31965231965
+2,Ireland,10,MR Adair,Mujeeb Ur Rahman,GH Dockrell,,0,1,1,,,,31965231965
+2,Ireland,10,GH Dockrell,Mujeeb Ur Rahman,MR Adair,,0,6,6,,,,31965231965
+2,Ireland,10,GH Dockrell,Mujeeb Ur Rahman,MR Adair,,0,1,1,,,,31965231965
+2,Ireland,10,MR Adair,Mujeeb Ur Rahman,GH Dockrell,,0,0,0,,,,31965231965
+2,Ireland,11,GH Dockrell,Mohammad Nabi,MR Adair,,0,1,1,,,,31965231965
+2,Ireland,11,MR Adair,Mohammad Nabi,GH Dockrell,,0,2,2,,,,31965231965
+2,Ireland,11,MR Adair,Mohammad Nabi,GH Dockrell,,0,2,2,,,,31965231965
+2,Ireland,11,MR Adair,Mohammad Nabi,GH Dockrell,,0,1,1,,,,31965231965
+2,Ireland,11,GH Dockrell,Mohammad Nabi,MR Adair,,0,0,0,,,,31965231965
+2,Ireland,11,GH Dockrell,Mohammad Nabi,MR Adair,,0,1,1,,,,31965231965
+2,Ireland,12,GH Dockrell,Mujeeb Ur Rahman,MR Adair,,0,1,1,,,,31965231965
+2,Ireland,12,MR Adair,Mujeeb Ur Rahman,GH Dockrell,,0,0,0,caught,MR Adair,Rashid Khan,31965231965
+2,Ireland,12,F Hand,Mujeeb Ur Rahman,GH Dockrell,,0,0,0,,,,31965231965
+2,Ireland,12,F Hand,Mujeeb Ur Rahman,GH Dockrell,,0,2,2,,,,31965231965
+2,Ireland,12,F Hand,Mujeeb Ur Rahman,GH Dockrell,,0,0,0,,,,31965231965
+2,Ireland,12,F Hand,Mujeeb Ur Rahman,GH Dockrell,,0,1,1,,,,31965231965
+2,Ireland,13,F Hand,Mohammad Nabi,GH Dockrell,,0,0,0,,,,31965231965
+2,Ireland,13,F Hand,Mohammad Nabi,GH Dockrell,,0,4,4,,,,31965231965
+2,Ireland,13,F Hand,Mohammad Nabi,GH Dockrell,,0,1,1,,,,31965231965
+2,Ireland,13,GH Dockrell,Mohammad Nabi,F Hand,,0,1,1,,,,31965231965
+2,Ireland,13,F Hand,Mohammad Nabi,GH Dockrell,,0,4,4,,,,31965231965
+2,Ireland,13,F Hand,Mohammad Nabi,GH Dockrell,,0,4,4,,,,31965231965
+2,Ireland,14,GH Dockrell,Rashid Khan,F Hand,,0,6,6,,,,31965231965
+2,Ireland,14,GH Dockrell,Rashid Khan,F Hand,,0,2,2,,,,31965231965
+2,Ireland,14,GH Dockrell,Rashid Khan,F Hand,,0,0,0,,,,31965231965
+2,Ireland,14,GH Dockrell,Rashid Khan,F Hand,,0,4,4,,,,31965231965
+2,Ireland,14,GH Dockrell,Rashid Khan,F Hand,,0,4,4,,,,31965231965
+2,Ireland,14,GH Dockrell,Rashid Khan,F Hand,,0,0,0,,,,31965231965
+2,Ireland,15,F Hand,Mujeeb Ur Rahman,GH Dockrell,,0,4,4,,,,31965231965
+2,Ireland,15,F Hand,Mujeeb Ur Rahman,GH Dockrell,,0,1,1,,,,31965231965
+2,Ireland,15,GH Dockrell,Mujeeb Ur Rahman,F Hand,,0,2,2,,,,31965231965
+2,Ireland,15,GH Dockrell,Mujeeb Ur Rahman,F Hand,,0,0,0,,,,31965231965
+2,Ireland,15,GH Dockrell,Mujeeb Ur Rahman,F Hand,,0,0,0,,,,31965231965
+2,Ireland,15,GH Dockrell,Mujeeb Ur Rahman,F Hand,,0,1,1,,,,31965231965
+2,Ireland,16,GH Dockrell,Naveen-ul-Haq,F Hand,,0,0,0,,,,31965231965
+2,Ireland,16,GH Dockrell,Naveen-ul-Haq,F Hand,,0,4,4,,,,31965231965
+2,Ireland,16,GH Dockrell,Naveen-ul-Haq,F Hand,,0,2,2,,,,31965231965
+2,Ireland,16,GH Dockrell,Naveen-ul-Haq,F Hand,,0,1,1,,,,31965231965
+2,Ireland,16,F Hand,Naveen-ul-Haq,GH Dockrell,,0,0,0,,,,31965231965
+2,Ireland,16,F Hand,Naveen-ul-Haq,GH Dockrell,,0,6,6,,,,31965231965
+2,Ireland,17,GH Dockrell,Rashid Khan,F Hand,,0,4,4,,,,31965231965
+2,Ireland,17,GH Dockrell,Rashid Khan,F Hand,,0,1,1,,,,31965231965
+2,Ireland,17,F Hand,Rashid Khan,GH Dockrell,,0,1,1,,,,31965231965
+2,Ireland,17,GH Dockrell,Rashid Khan,F Hand,,0,4,4,,,,31965231965
+2,Ireland,17,GH Dockrell,Rashid Khan,F Hand,,0,1,1,,,,31965231965
+2,Ireland,17,F Hand,Rashid Khan,GH Dockrell,,0,2,2,,,,31965231965
+2,Ireland,18,GH Dockrell,Naveen-ul-Haq,F Hand,,0,1,1,,,,31965231965
+2,Ireland,18,F Hand,Naveen-ul-Haq,GH Dockrell,,0,0,0,,,,31965231965
+2,Ireland,18,F Hand,Naveen-ul-Haq,GH Dockrell,,0,6,6,,,,31965231965
+2,Ireland,18,F Hand,Naveen-ul-Haq,GH Dockrell,,0,0,0,caught,F Hand,Hazratullah,31965231965
+2,Ireland,18,GH Dockrell,Naveen-ul-Haq,GI Hume,,0,1,1,,,,31965231965
+2,Ireland,18,GI Hume,Naveen-ul-Haq,GH Dockrell,wides,1,1,0,,,,31965231965
+2,Ireland,18,GI Hume,Naveen-ul-Haq,GH Dockrell,,0,1,1,run out,GI Hume,Mujeeb Ur Rahman,31965231965
+2,Ireland,19,GH Dockrell,Azmatullah Omarzai,J Little,,0,0,0,,,,31965231965
+2,Ireland,19,GH Dockrell,Azmatullah Omarzai,J Little,,0,4,4,,,,31965231965
+2,Ireland,19,GH Dockrell,Azmatullah Omarzai,J Little,,0,0,0,,,,31965231965
+2,Ireland,19,GH Dockrell,Azmatullah Omarzai,J Little,,0,0,0,,,,31965231965
+2,Ireland,19,GH Dockrell,Azmatullah Omarzai,J Little,,0,0,0,,,,31965231965
+2,Ireland,19,GH Dockrell,Azmatullah Omarzai,J Little,wides,1,1,0,,,,31965231965
+2,Ireland,19,GH Dockrell,Azmatullah Omarzai,J Little,,0,0,0,,,,31965231965

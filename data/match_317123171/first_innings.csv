@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Zimbabwe,0,H Masakadza,AB Dinda,BRM Taylor,,0,0,0,,,,317123171
+1,Zimbabwe,0,H Masakadza,AB Dinda,BRM Taylor,,0,0,0,,,,317123171
+1,Zimbabwe,0,H Masakadza,AB Dinda,BRM Taylor,,0,0,0,,,,317123171
+1,Zimbabwe,0,H Masakadza,AB Dinda,BRM Taylor,,0,0,0,,,,317123171
+1,Zimbabwe,0,H Masakadza,AB Dinda,BRM Taylor,wides,1,1,0,,,,317123171
+1,Zimbabwe,0,H Masakadza,AB Dinda,BRM Taylor,,0,0,0,,,,317123171
+1,Zimbabwe,0,H Masakadza,AB Dinda,BRM Taylor,,0,1,1,,,,317123171
+1,Zimbabwe,1,H Masakadza,R Vinay Kumar,BRM Taylor,wides,1,1,0,,,,317123171
+1,Zimbabwe,1,H Masakadza,R Vinay Kumar,BRM Taylor,,0,1,1,,,,317123171
+1,Zimbabwe,1,BRM Taylor,R Vinay Kumar,H Masakadza,,0,0,0,,,,317123171
+1,Zimbabwe,1,BRM Taylor,R Vinay Kumar,H Masakadza,,0,4,4,,,,317123171
+1,Zimbabwe,1,BRM Taylor,R Vinay Kumar,H Masakadza,,0,0,0,,,,317123171
+1,Zimbabwe,1,BRM Taylor,R Vinay Kumar,H Masakadza,,0,0,0,,,,317123171
+1,Zimbabwe,1,BRM Taylor,R Vinay Kumar,H Masakadza,,0,0,0,,,,317123171
+1,Zimbabwe,2,H Masakadza,AB Dinda,BRM Taylor,,0,0,0,caught,H Masakadza,RG Sharma,317123171
+1,Zimbabwe,2,CJ Chibhabha,AB Dinda,BRM Taylor,,0,0,0,,,,317123171
+1,Zimbabwe,2,CJ Chibhabha,AB Dinda,BRM Taylor,,0,0,0,,,,317123171
+1,Zimbabwe,2,CJ Chibhabha,AB Dinda,BRM Taylor,,0,0,0,,,,317123171
+1,Zimbabwe,2,CJ Chibhabha,AB Dinda,BRM Taylor,,0,0,0,,,,317123171
+1,Zimbabwe,2,CJ Chibhabha,AB Dinda,BRM Taylor,,0,1,1,,,,317123171
+1,Zimbabwe,3,CJ Chibhabha,R Vinay Kumar,BRM Taylor,,0,0,0,,,,317123171
+1,Zimbabwe,3,CJ Chibhabha,R Vinay Kumar,BRM Taylor,,0,0,0,,,,317123171
+1,Zimbabwe,3,CJ Chibhabha,R Vinay Kumar,BRM Taylor,,0,0,0,,,,317123171
+1,Zimbabwe,3,CJ Chibhabha,R Vinay Kumar,BRM Taylor,,0,0,0,,,,317123171
+1,Zimbabwe,3,CJ Chibhabha,R Vinay Kumar,BRM Taylor,,0,1,1,,,,317123171
+1,Zimbabwe,3,BRM Taylor,R Vinay Kumar,CJ Chibhabha,,0,0,0,,,,317123171
+1,Zimbabwe,4,CJ Chibhabha,AB Dinda,BRM Taylor,,0,0,0,,,,317123171
+1,Zimbabwe,4,CJ Chibhabha,AB Dinda,BRM Taylor,,0,1,1,,,,317123171
+1,Zimbabwe,4,BRM Taylor,AB Dinda,CJ Chibhabha,,0,0,0,,,,317123171
+1,Zimbabwe,4,BRM Taylor,AB Dinda,CJ Chibhabha,,0,1,1,,,,317123171
+1,Zimbabwe,4,CJ Chibhabha,AB Dinda,BRM Taylor,,0,4,4,,,,317123171
+1,Zimbabwe,4,CJ Chibhabha,AB Dinda,BRM Taylor,,0,0,0,,,,317123171
+1,Zimbabwe,5,BRM Taylor,PP Ojha,CJ Chibhabha,,0,4,4,,,,317123171
+1,Zimbabwe,5,BRM Taylor,PP Ojha,CJ Chibhabha,,0,0,0,,,,317123171
+1,Zimbabwe,5,BRM Taylor,PP Ojha,CJ Chibhabha,,0,1,1,,,,317123171
+1,Zimbabwe,5,CJ Chibhabha,PP Ojha,BRM Taylor,,0,0,0,,,,317123171
+1,Zimbabwe,5,CJ Chibhabha,PP Ojha,BRM Taylor,,0,0,0,,,,317123171
+1,Zimbabwe,5,CJ Chibhabha,PP Ojha,BRM Taylor,,0,0,0,bowled,CJ Chibhabha,,317123171
+1,Zimbabwe,6,BRM Taylor,A Mishra,T Taibu,,0,1,1,,,,317123171
+1,Zimbabwe,6,T Taibu,A Mishra,BRM Taylor,,0,1,1,,,,317123171
+1,Zimbabwe,6,BRM Taylor,A Mishra,T Taibu,,0,0,0,,,,317123171
+1,Zimbabwe,6,BRM Taylor,A Mishra,T Taibu,,0,1,1,,,,317123171
+1,Zimbabwe,6,T Taibu,A Mishra,BRM Taylor,,0,2,2,,,,317123171
+1,Zimbabwe,6,T Taibu,A Mishra,BRM Taylor,,0,0,0,,,,317123171
+1,Zimbabwe,7,BRM Taylor,PP Ojha,T Taibu,,0,1,1,,,,317123171
+1,Zimbabwe,7,T Taibu,PP Ojha,BRM Taylor,,0,1,1,,,,317123171
+1,Zimbabwe,7,BRM Taylor,PP Ojha,T Taibu,,0,1,1,,,,317123171
+1,Zimbabwe,7,T Taibu,PP Ojha,BRM Taylor,,0,1,1,,,,317123171
+1,Zimbabwe,7,BRM Taylor,PP Ojha,T Taibu,,0,1,1,,,,317123171
+1,Zimbabwe,7,T Taibu,PP Ojha,BRM Taylor,,0,2,2,,,,317123171
+1,Zimbabwe,8,BRM Taylor,A Mishra,T Taibu,,0,0,0,,,,317123171
+1,Zimbabwe,8,BRM Taylor,A Mishra,T Taibu,,0,4,4,,,,317123171
+1,Zimbabwe,8,BRM Taylor,A Mishra,T Taibu,,0,0,0,,,,317123171
+1,Zimbabwe,8,BRM Taylor,A Mishra,T Taibu,,0,0,0,,,,317123171
+1,Zimbabwe,8,BRM Taylor,A Mishra,T Taibu,,0,0,0,,,,317123171
+1,Zimbabwe,8,BRM Taylor,A Mishra,T Taibu,,0,1,1,,,,317123171
+1,Zimbabwe,9,BRM Taylor,PP Ojha,T Taibu,,0,1,1,,,,317123171
+1,Zimbabwe,9,T Taibu,PP Ojha,BRM Taylor,,0,1,1,,,,317123171
+1,Zimbabwe,9,BRM Taylor,PP Ojha,T Taibu,,0,1,1,,,,317123171
+1,Zimbabwe,9,T Taibu,PP Ojha,BRM Taylor,,0,4,4,,,,317123171
+1,Zimbabwe,9,T Taibu,PP Ojha,BRM Taylor,,0,1,1,,,,317123171
+1,Zimbabwe,9,BRM Taylor,PP Ojha,T Taibu,,0,1,1,,,,317123171
+1,Zimbabwe,10,BRM Taylor,A Mishra,T Taibu,,0,0,0,,,,317123171
+1,Zimbabwe,10,BRM Taylor,A Mishra,T Taibu,,0,1,1,,,,317123171
+1,Zimbabwe,10,T Taibu,A Mishra,BRM Taylor,,0,0,0,,,,317123171
+1,Zimbabwe,10,T Taibu,A Mishra,BRM Taylor,,0,4,4,,,,317123171
+1,Zimbabwe,10,T Taibu,A Mishra,BRM Taylor,,0,1,1,,,,317123171
+1,Zimbabwe,10,BRM Taylor,A Mishra,T Taibu,,0,0,0,,,,317123171
+1,Zimbabwe,11,T Taibu,R Ashwin,BRM Taylor,,0,0,0,,,,317123171
+1,Zimbabwe,11,T Taibu,R Ashwin,BRM Taylor,wides,1,1,0,,,,317123171
+1,Zimbabwe,11,T Taibu,R Ashwin,BRM Taylor,,0,2,2,,,,317123171
+1,Zimbabwe,11,T Taibu,R Ashwin,BRM Taylor,,0,1,1,,,,317123171
+1,Zimbabwe,11,BRM Taylor,R Ashwin,T Taibu,,0,1,1,,,,317123171
+1,Zimbabwe,11,T Taibu,R Ashwin,BRM Taylor,,0,1,1,,,,317123171
+1,Zimbabwe,11,BRM Taylor,R Ashwin,T Taibu,,0,1,1,,,,317123171
+1,Zimbabwe,12,BRM Taylor,A Mishra,T Taibu,,0,1,1,,,,317123171
+1,Zimbabwe,12,T Taibu,A Mishra,BRM Taylor,,0,2,2,,,,317123171
+1,Zimbabwe,12,T Taibu,A Mishra,BRM Taylor,,0,1,1,,,,317123171
+1,Zimbabwe,12,BRM Taylor,A Mishra,T Taibu,,0,0,0,caught,BRM Taylor,YK Pathan,317123171
+1,Zimbabwe,12,T Taibu,A Mishra,CK Coventry,,0,0,0,,,,317123171
+1,Zimbabwe,12,T Taibu,A Mishra,CK Coventry,,0,1,1,,,,317123171
+1,Zimbabwe,13,T Taibu,R Ashwin,CK Coventry,,0,0,0,,,,317123171
+1,Zimbabwe,13,T Taibu,R Ashwin,CK Coventry,noballs,1,1,0,,,,317123171
+1,Zimbabwe,13,T Taibu,R Ashwin,CK Coventry,,0,1,1,,,,317123171
+1,Zimbabwe,13,CK Coventry,R Ashwin,T Taibu,,0,1,1,,,,317123171
+1,Zimbabwe,13,T Taibu,R Ashwin,CK Coventry,,0,0,0,,,,317123171
+1,Zimbabwe,13,T Taibu,R Ashwin,CK Coventry,,0,1,1,,,,317123171
+1,Zimbabwe,13,CK Coventry,R Ashwin,T Taibu,,0,0,0,,,,317123171
+1,Zimbabwe,14,T Taibu,PP Ojha,CK Coventry,,0,1,1,,,,317123171
+1,Zimbabwe,14,CK Coventry,PP Ojha,T Taibu,,0,0,0,,,,317123171
+1,Zimbabwe,14,CK Coventry,PP Ojha,T Taibu,,0,1,1,,,,317123171
+1,Zimbabwe,14,T Taibu,PP Ojha,CK Coventry,,0,0,0,,,,317123171
+1,Zimbabwe,14,T Taibu,PP Ojha,CK Coventry,,0,2,2,,,,317123171
+1,Zimbabwe,14,T Taibu,PP Ojha,CK Coventry,,0,1,1,,,,317123171
+1,Zimbabwe,15,T Taibu,R Ashwin,CK Coventry,,0,3,3,,,,317123171
+1,Zimbabwe,15,CK Coventry,R Ashwin,T Taibu,,0,4,4,,,,317123171
+1,Zimbabwe,15,CK Coventry,R Ashwin,T Taibu,,0,6,6,,,,317123171
+1,Zimbabwe,15,CK Coventry,R Ashwin,T Taibu,,0,4,4,,,,317123171
+1,Zimbabwe,15,CK Coventry,R Ashwin,T Taibu,,0,1,1,,,,317123171
+1,Zimbabwe,15,T Taibu,R Ashwin,CK Coventry,,0,1,1,,,,317123171
+1,Zimbabwe,16,T Taibu,R Vinay Kumar,CK Coventry,,0,1,1,,,,317123171
+1,Zimbabwe,16,CK Coventry,R Vinay Kumar,T Taibu,,0,4,4,,,,317123171
+1,Zimbabwe,16,CK Coventry,R Vinay Kumar,T Taibu,,0,1,1,,,,317123171
+1,Zimbabwe,16,T Taibu,R Vinay Kumar,CK Coventry,,0,1,1,,,,317123171
+1,Zimbabwe,16,CK Coventry,R Vinay Kumar,T Taibu,,0,6,6,,,,317123171
+1,Zimbabwe,16,CK Coventry,R Vinay Kumar,T Taibu,,0,0,0,,,,317123171
+1,Zimbabwe,17,T Taibu,AB Dinda,CK Coventry,,0,1,1,,,,317123171
+1,Zimbabwe,17,CK Coventry,AB Dinda,T Taibu,,0,0,0,bowled,CK Coventry,,317123171
+1,Zimbabwe,17,E Chigumbura,AB Dinda,T Taibu,,0,1,1,,,,317123171
+1,Zimbabwe,17,T Taibu,AB Dinda,E Chigumbura,,0,1,1,,,,317123171
+1,Zimbabwe,17,E Chigumbura,AB Dinda,T Taibu,,0,1,1,,,,317123171
+1,Zimbabwe,17,T Taibu,AB Dinda,E Chigumbura,,0,2,2,,,,317123171
+1,Zimbabwe,18,E Chigumbura,R Ashwin,T Taibu,,0,6,6,,,,317123171
+1,Zimbabwe,18,E Chigumbura,R Ashwin,T Taibu,,0,6,6,,,,317123171
+1,Zimbabwe,18,E Chigumbura,R Ashwin,T Taibu,,0,4,4,,,,317123171
+1,Zimbabwe,18,E Chigumbura,R Ashwin,T Taibu,,0,0,0,caught,E Chigumbura,SK Raina,317123171
+1,Zimbabwe,18,GA Lamb,R Ashwin,T Taibu,,0,1,1,,,,317123171
+1,Zimbabwe,18,T Taibu,R Ashwin,GA Lamb,,0,1,1,,,,317123171
+1,Zimbabwe,19,T Taibu,R Vinay Kumar,GA Lamb,,0,0,0,,,,317123171
+1,Zimbabwe,19,T Taibu,R Vinay Kumar,GA Lamb,,0,2,2,,,,317123171
+1,Zimbabwe,19,T Taibu,R Vinay Kumar,GA Lamb,legbyes,1,1,0,,,,317123171
+1,Zimbabwe,19,GA Lamb,R Vinay Kumar,T Taibu,,0,2,2,,,,317123171
+1,Zimbabwe,19,GA Lamb,R Vinay Kumar,T Taibu,,0,4,4,,,,317123171
+1,Zimbabwe,19,GA Lamb,R Vinay Kumar,T Taibu,legbyes,1,1,0,,,,317123171

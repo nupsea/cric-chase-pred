@@ -1,0 +1,127 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Kenya,0,SO Tikolo,Mudassar Bukhari,AA Obanda,,0,0,0,,,,337323373
+2,Kenya,0,SO Tikolo,Mudassar Bukhari,AA Obanda,,0,0,0,,,,337323373
+2,Kenya,0,SO Tikolo,Mudassar Bukhari,AA Obanda,,0,0,0,,,,337323373
+2,Kenya,0,SO Tikolo,Mudassar Bukhari,AA Obanda,,0,0,0,caught,SO Tikolo,W Barresi,337323373
+2,Kenya,0,NN Odhiambo,Mudassar Bukhari,AA Obanda,,0,0,0,bowled,NN Odhiambo,,337323373
+2,Kenya,0,CO Obuya,Mudassar Bukhari,AA Obanda,,0,0,0,,,,337323373
+2,Kenya,1,AA Obanda,MR Swart,CO Obuya,,0,0,0,,,,337323373
+2,Kenya,1,AA Obanda,MR Swart,CO Obuya,,0,0,0,,,,337323373
+2,Kenya,1,AA Obanda,MR Swart,CO Obuya,,0,0,0,,,,337323373
+2,Kenya,1,AA Obanda,MR Swart,CO Obuya,,0,1,1,,,,337323373
+2,Kenya,1,CO Obuya,MR Swart,AA Obanda,,0,0,0,,,,337323373
+2,Kenya,1,CO Obuya,MR Swart,AA Obanda,,0,1,1,,,,337323373
+2,Kenya,2,CO Obuya,Mudassar Bukhari,AA Obanda,,0,0,0,,,,337323373
+2,Kenya,2,CO Obuya,Mudassar Bukhari,AA Obanda,wides,1,1,0,,,,337323373
+2,Kenya,2,CO Obuya,Mudassar Bukhari,AA Obanda,,0,0,0,caught,CO Obuya,W Barresi,337323373
+2,Kenya,2,MA Ouma,Mudassar Bukhari,AA Obanda,,0,0,0,,,,337323373
+2,Kenya,2,MA Ouma,Mudassar Bukhari,AA Obanda,,0,0,0,,,,337323373
+2,Kenya,2,MA Ouma,Mudassar Bukhari,AA Obanda,,0,0,0,,,,337323373
+2,Kenya,2,MA Ouma,Mudassar Bukhari,AA Obanda,,0,0,0,,,,337323373
+2,Kenya,3,AA Obanda,MR Swart,MA Ouma,,0,1,1,,,,337323373
+2,Kenya,3,MA Ouma,MR Swart,AA Obanda,,0,1,1,,,,337323373
+2,Kenya,3,AA Obanda,MR Swart,MA Ouma,,0,0,0,,,,337323373
+2,Kenya,3,AA Obanda,MR Swart,MA Ouma,,0,0,0,,,,337323373
+2,Kenya,3,AA Obanda,MR Swart,MA Ouma,,0,0,0,,,,337323373
+2,Kenya,3,AA Obanda,MR Swart,MA Ouma,,0,0,0,bowled,AA Obanda,,337323373
+2,Kenya,4,MA Ouma,Mudassar Bukhari,TM Odoyo,,0,1,1,,,,337323373
+2,Kenya,4,TM Odoyo,Mudassar Bukhari,MA Ouma,,0,0,0,,,,337323373
+2,Kenya,4,TM Odoyo,Mudassar Bukhari,MA Ouma,,0,0,0,,,,337323373
+2,Kenya,4,TM Odoyo,Mudassar Bukhari,MA Ouma,,0,0,0,,,,337323373
+2,Kenya,4,TM Odoyo,Mudassar Bukhari,MA Ouma,,0,2,2,,,,337323373
+2,Kenya,4,TM Odoyo,Mudassar Bukhari,MA Ouma,,0,0,0,,,,337323373
+2,Kenya,5,MA Ouma,MR Swart,TM Odoyo,,0,0,0,,,,337323373
+2,Kenya,5,MA Ouma,MR Swart,TM Odoyo,,0,0,0,caught,MA Ouma,Ahsan Malik,337323373
+2,Kenya,5,TM Odoyo,MR Swart,RR Patel,wides,1,1,0,,,,337323373
+2,Kenya,5,TM Odoyo,MR Swart,RR Patel,,0,0,0,,,,337323373
+2,Kenya,5,TM Odoyo,MR Swart,RR Patel,,0,0,0,,,,337323373
+2,Kenya,5,TM Odoyo,MR Swart,RR Patel,,0,0,0,,,,337323373
+2,Kenya,5,TM Odoyo,MR Swart,RR Patel,,0,1,1,,,,337323373
+2,Kenya,6,TM Odoyo,PA van Meekeren,RR Patel,,0,0,0,,,,337323373
+2,Kenya,6,TM Odoyo,PA van Meekeren,RR Patel,,0,0,0,caught,TM Odoyo,TGJ Gruijters,337323373
+2,Kenya,6,RG Aga,PA van Meekeren,RR Patel,,0,0,0,,,,337323373
+2,Kenya,6,RG Aga,PA van Meekeren,RR Patel,wides,1,1,0,,,,337323373
+2,Kenya,6,RG Aga,PA van Meekeren,RR Patel,,0,0,0,,,,337323373
+2,Kenya,6,RG Aga,PA van Meekeren,RR Patel,,0,0,0,,,,337323373
+2,Kenya,6,RG Aga,PA van Meekeren,RR Patel,,0,2,2,,,,337323373
+2,Kenya,7,RR Patel,Ahsan Malik,RG Aga,,0,0,0,,,,337323373
+2,Kenya,7,RR Patel,Ahsan Malik,RG Aga,,0,0,0,,,,337323373
+2,Kenya,7,RR Patel,Ahsan Malik,RG Aga,,0,2,2,,,,337323373
+2,Kenya,7,RR Patel,Ahsan Malik,RG Aga,,0,1,1,,,,337323373
+2,Kenya,7,RG Aga,Ahsan Malik,RR Patel,,0,2,2,,,,337323373
+2,Kenya,7,RG Aga,Ahsan Malik,RR Patel,,0,0,0,,,,337323373
+2,Kenya,8,RR Patel,MJG Rippon,RG Aga,,0,2,2,,,,337323373
+2,Kenya,8,RR Patel,MJG Rippon,RG Aga,wides,1,1,0,,,,337323373
+2,Kenya,8,RR Patel,MJG Rippon,RG Aga,,0,1,1,,,,337323373
+2,Kenya,8,RG Aga,MJG Rippon,RR Patel,,0,0,0,caught,RG Aga,W Barresi,337323373
+2,Kenya,8,SO Ngoche,MJG Rippon,RR Patel,,0,1,1,,,,337323373
+2,Kenya,8,RR Patel,MJG Rippon,SO Ngoche,,0,1,1,,,,337323373
+2,Kenya,8,SO Ngoche,MJG Rippon,RR Patel,,0,0,0,,,,337323373
+2,Kenya,9,RR Patel,PW Borren,SO Ngoche,,0,1,1,,,,337323373
+2,Kenya,9,SO Ngoche,PW Borren,RR Patel,,0,4,4,,,,337323373
+2,Kenya,9,SO Ngoche,PW Borren,RR Patel,,0,1,1,,,,337323373
+2,Kenya,9,RR Patel,PW Borren,SO Ngoche,,0,1,1,,,,337323373
+2,Kenya,9,SO Ngoche,PW Borren,RR Patel,,0,1,1,,,,337323373
+2,Kenya,9,RR Patel,PW Borren,SO Ngoche,,0,1,1,,,,337323373
+2,Kenya,10,RR Patel,PA van Meekeren,SO Ngoche,,0,0,0,,,,337323373
+2,Kenya,10,RR Patel,PA van Meekeren,SO Ngoche,wides,1,1,0,,,,337323373
+2,Kenya,10,RR Patel,PA van Meekeren,SO Ngoche,,0,1,1,,,,337323373
+2,Kenya,10,SO Ngoche,PA van Meekeren,RR Patel,penalty,5,7,2,,,,337323373
+2,Kenya,10,SO Ngoche,PA van Meekeren,RR Patel,,0,0,0,,,,337323373
+2,Kenya,10,SO Ngoche,PA van Meekeren,RR Patel,,0,1,1,,,,337323373
+2,Kenya,10,RR Patel,PA van Meekeren,SO Ngoche,,0,1,1,,,,337323373
+2,Kenya,11,RR Patel,Ahsan Malik,SO Ngoche,,0,1,1,,,,337323373
+2,Kenya,11,SO Ngoche,Ahsan Malik,RR Patel,,0,0,0,,,,337323373
+2,Kenya,11,SO Ngoche,Ahsan Malik,RR Patel,,0,1,1,,,,337323373
+2,Kenya,11,RR Patel,Ahsan Malik,SO Ngoche,,0,0,0,,,,337323373
+2,Kenya,11,RR Patel,Ahsan Malik,SO Ngoche,,0,1,1,,,,337323373
+2,Kenya,11,SO Ngoche,Ahsan Malik,RR Patel,,0,1,1,,,,337323373
+2,Kenya,12,SO Ngoche,MJG Rippon,RR Patel,,0,0,0,,,,337323373
+2,Kenya,12,SO Ngoche,MJG Rippon,RR Patel,,0,1,1,,,,337323373
+2,Kenya,12,RR Patel,MJG Rippon,SO Ngoche,,0,1,1,,,,337323373
+2,Kenya,12,SO Ngoche,MJG Rippon,RR Patel,,0,0,0,,,,337323373
+2,Kenya,12,SO Ngoche,MJG Rippon,RR Patel,,0,2,2,,,,337323373
+2,Kenya,12,SO Ngoche,MJG Rippon,RR Patel,,0,6,6,,,,337323373
+2,Kenya,13,RR Patel,Ahsan Malik,SO Ngoche,,0,1,1,,,,337323373
+2,Kenya,13,SO Ngoche,Ahsan Malik,RR Patel,,0,0,0,,,,337323373
+2,Kenya,13,SO Ngoche,Ahsan Malik,RR Patel,,0,1,1,,,,337323373
+2,Kenya,13,RR Patel,Ahsan Malik,SO Ngoche,,0,0,0,lbw,RR Patel,,337323373
+2,Kenya,13,HA Varaiya,Ahsan Malik,SO Ngoche,,0,3,3,,,,337323373
+2,Kenya,13,SO Ngoche,Ahsan Malik,HA Varaiya,,0,1,1,,,,337323373
+2,Kenya,14,SO Ngoche,MJG Rippon,HA Varaiya,,0,2,2,,,,337323373
+2,Kenya,14,SO Ngoche,MJG Rippon,HA Varaiya,,0,6,6,,,,337323373
+2,Kenya,14,SO Ngoche,MJG Rippon,HA Varaiya,,0,4,4,,,,337323373
+2,Kenya,14,SO Ngoche,MJG Rippon,HA Varaiya,,0,0,0,,,,337323373
+2,Kenya,14,SO Ngoche,MJG Rippon,HA Varaiya,,0,2,2,,,,337323373
+2,Kenya,14,SO Ngoche,MJG Rippon,HA Varaiya,,0,1,1,,,,337323373
+2,Kenya,15,SO Ngoche,PW Borren,HA Varaiya,,0,0,0,,,,337323373
+2,Kenya,15,SO Ngoche,PW Borren,HA Varaiya,noballs,1,1,0,,,,337323373
+2,Kenya,15,SO Ngoche,PW Borren,HA Varaiya,,0,0,0,caught,SO Ngoche,W Barresi,337323373
+2,Kenya,15,HA Varaiya,PW Borren,E Otieno,,0,1,1,,,,337323373
+2,Kenya,15,E Otieno,PW Borren,HA Varaiya,,0,0,0,,,,337323373
+2,Kenya,15,E Otieno,PW Borren,HA Varaiya,,0,1,1,,,,337323373
+2,Kenya,15,HA Varaiya,PW Borren,E Otieno,,0,1,1,,,,337323373
+2,Kenya,16,HA Varaiya,Mudassar Bukhari,E Otieno,,0,4,4,,,,337323373
+2,Kenya,16,HA Varaiya,Mudassar Bukhari,E Otieno,,0,0,0,,,,337323373
+2,Kenya,16,HA Varaiya,Mudassar Bukhari,E Otieno,,0,2,2,,,,337323373
+2,Kenya,16,HA Varaiya,Mudassar Bukhari,E Otieno,,0,1,1,,,,337323373
+2,Kenya,16,E Otieno,Mudassar Bukhari,HA Varaiya,,0,1,1,,,,337323373
+2,Kenya,16,HA Varaiya,Mudassar Bukhari,E Otieno,,0,2,2,,,,337323373
+2,Kenya,17,E Otieno,PW Borren,HA Varaiya,,0,0,0,,,,337323373
+2,Kenya,17,E Otieno,PW Borren,HA Varaiya,,0,1,1,,,,337323373
+2,Kenya,17,HA Varaiya,PW Borren,E Otieno,,0,0,0,,,,337323373
+2,Kenya,17,HA Varaiya,PW Borren,E Otieno,,0,0,0,,,,337323373
+2,Kenya,17,HA Varaiya,PW Borren,E Otieno,,0,1,1,,,,337323373
+2,Kenya,17,E Otieno,PW Borren,HA Varaiya,,0,1,1,,,,337323373
+2,Kenya,18,E Otieno,MR Swart,HA Varaiya,,0,1,1,,,,337323373
+2,Kenya,18,HA Varaiya,MR Swart,E Otieno,,0,0,0,,,,337323373
+2,Kenya,18,HA Varaiya,MR Swart,E Otieno,,0,0,0,,,,337323373
+2,Kenya,18,HA Varaiya,MR Swart,E Otieno,,0,0,0,,,,337323373
+2,Kenya,18,HA Varaiya,MR Swart,E Otieno,,0,1,1,,,,337323373
+2,Kenya,18,E Otieno,MR Swart,HA Varaiya,,0,0,0,,,,337323373
+2,Kenya,19,HA Varaiya,PW Borren,E Otieno,,0,0,0,,,,337323373
+2,Kenya,19,HA Varaiya,PW Borren,E Otieno,,0,1,1,,,,337323373
+2,Kenya,19,E Otieno,PW Borren,HA Varaiya,,0,0,0,,,,337323373
+2,Kenya,19,E Otieno,PW Borren,HA Varaiya,legbyes,1,1,0,,,,337323373
+2,Kenya,19,HA Varaiya,PW Borren,E Otieno,,0,1,1,,,,337323373
+2,Kenya,19,E Otieno,PW Borren,HA Varaiya,,0,0,0,,,,337323373

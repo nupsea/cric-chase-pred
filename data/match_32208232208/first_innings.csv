@@ -1,0 +1,133 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Singapore,0,R Rohan,SK Atai,S Chandramohan,wides,1,1,0,,,,32208232208
+1,Singapore,0,R Rohan,SK Atai,S Chandramohan,,0,0,0,bowled,R Rohan,,32208232208
+1,Singapore,0,R Gaznavi,SK Atai,S Chandramohan,,0,0,0,,,,32208232208
+1,Singapore,0,R Gaznavi,SK Atai,S Chandramohan,,0,0,0,,,,32208232208
+1,Singapore,0,R Gaznavi,SK Atai,S Chandramohan,,0,1,1,,,,32208232208
+1,Singapore,0,S Chandramohan,SK Atai,R Gaznavi,,0,0,0,,,,32208232208
+1,Singapore,0,S Chandramohan,SK Atai,R Gaznavi,,0,0,0,,,,32208232208
+1,Singapore,1,R Gaznavi,SI Kamea,S Chandramohan,,0,2,2,,,,32208232208
+1,Singapore,1,R Gaznavi,SI Kamea,S Chandramohan,,0,4,4,,,,32208232208
+1,Singapore,1,R Gaznavi,SI Kamea,S Chandramohan,,0,0,0,,,,32208232208
+1,Singapore,1,R Gaznavi,SI Kamea,S Chandramohan,,0,0,0,,,,32208232208
+1,Singapore,1,R Gaznavi,SI Kamea,S Chandramohan,,0,0,0,caught,R Gaznavi,N Vanua,32208232208
+1,Singapore,1,Aman Desai,SI Kamea,S Chandramohan,byes,1,1,0,,,,32208232208
+1,Singapore,2,Aman Desai,S Bau,S Chandramohan,wides,1,1,0,,,,32208232208
+1,Singapore,2,Aman Desai,S Bau,S Chandramohan,,0,1,1,,,,32208232208
+1,Singapore,2,S Chandramohan,S Bau,Aman Desai,,0,1,1,,,,32208232208
+1,Singapore,2,Aman Desai,S Bau,S Chandramohan,,0,1,1,,,,32208232208
+1,Singapore,2,S Chandramohan,S Bau,Aman Desai,,0,4,4,,,,32208232208
+1,Singapore,2,S Chandramohan,S Bau,Aman Desai,,0,1,1,,,,32208232208
+1,Singapore,2,Aman Desai,S Bau,S Chandramohan,,0,0,0,,,,32208232208
+1,Singapore,3,S Chandramohan,N Vanua,Aman Desai,,0,1,1,,,,32208232208
+1,Singapore,3,Aman Desai,N Vanua,S Chandramohan,,0,0,0,,,,32208232208
+1,Singapore,3,Aman Desai,N Vanua,S Chandramohan,,0,0,0,,,,32208232208
+1,Singapore,3,Aman Desai,N Vanua,S Chandramohan,,0,4,4,,,,32208232208
+1,Singapore,3,Aman Desai,N Vanua,S Chandramohan,,0,6,6,,,,32208232208
+1,Singapore,3,Aman Desai,N Vanua,S Chandramohan,,0,1,1,,,,32208232208
+1,Singapore,4,Aman Desai,D Ravu,S Chandramohan,,0,1,1,,,,32208232208
+1,Singapore,4,S Chandramohan,D Ravu,Aman Desai,,0,0,0,,,,32208232208
+1,Singapore,4,S Chandramohan,D Ravu,Aman Desai,,0,1,1,,,,32208232208
+1,Singapore,4,Aman Desai,D Ravu,S Chandramohan,,0,4,4,,,,32208232208
+1,Singapore,4,Aman Desai,D Ravu,S Chandramohan,,0,1,1,,,,32208232208
+1,Singapore,4,S Chandramohan,D Ravu,Aman Desai,,0,1,1,,,,32208232208
+1,Singapore,5,S Chandramohan,SI Kamea,Aman Desai,,0,0,0,,,,32208232208
+1,Singapore,5,S Chandramohan,SI Kamea,Aman Desai,,0,0,0,,,,32208232208
+1,Singapore,5,S Chandramohan,SI Kamea,Aman Desai,,0,6,6,,,,32208232208
+1,Singapore,5,S Chandramohan,SI Kamea,Aman Desai,,0,0,0,,,,32208232208
+1,Singapore,5,S Chandramohan,SI Kamea,Aman Desai,,0,0,0,,,,32208232208
+1,Singapore,5,S Chandramohan,SI Kamea,Aman Desai,,0,4,4,,,,32208232208
+1,Singapore,6,Aman Desai,SK Atai,S Chandramohan,,0,1,1,,,,32208232208
+1,Singapore,6,S Chandramohan,SK Atai,Aman Desai,,0,1,1,,,,32208232208
+1,Singapore,6,Aman Desai,SK Atai,S Chandramohan,,0,0,0,,,,32208232208
+1,Singapore,6,Aman Desai,SK Atai,S Chandramohan,,0,0,0,,,,32208232208
+1,Singapore,6,Aman Desai,SK Atai,S Chandramohan,,0,1,1,,,,32208232208
+1,Singapore,6,S Chandramohan,SK Atai,Aman Desai,,0,6,6,,,,32208232208
+1,Singapore,7,Aman Desai,R Hekure,S Chandramohan,,0,4,4,,,,32208232208
+1,Singapore,7,Aman Desai,R Hekure,S Chandramohan,,0,0,0,,,,32208232208
+1,Singapore,7,Aman Desai,R Hekure,S Chandramohan,,0,1,1,,,,32208232208
+1,Singapore,7,S Chandramohan,R Hekure,Aman Desai,,0,0,0,,,,32208232208
+1,Singapore,7,S Chandramohan,R Hekure,Aman Desai,,0,1,1,,,,32208232208
+1,Singapore,7,Aman Desai,R Hekure,S Chandramohan,,0,1,1,,,,32208232208
+1,Singapore,8,Aman Desai,D Ravu,S Chandramohan,,0,2,2,,,,32208232208
+1,Singapore,8,Aman Desai,D Ravu,S Chandramohan,,0,1,1,,,,32208232208
+1,Singapore,8,S Chandramohan,D Ravu,Aman Desai,,0,6,6,,,,32208232208
+1,Singapore,8,S Chandramohan,D Ravu,Aman Desai,,0,6,6,,,,32208232208
+1,Singapore,8,S Chandramohan,D Ravu,Aman Desai,,0,1,1,,,,32208232208
+1,Singapore,8,Aman Desai,D Ravu,S Chandramohan,,0,0,0,caught,Aman Desai,L Siaka,32208232208
+1,Singapore,9,S Chandramohan,CJA Amini,A Mutreja,,0,1,1,,,,32208232208
+1,Singapore,9,A Mutreja,CJA Amini,S Chandramohan,,0,0,0,,,,32208232208
+1,Singapore,9,A Mutreja,CJA Amini,S Chandramohan,,0,1,1,,,,32208232208
+1,Singapore,9,S Chandramohan,CJA Amini,A Mutreja,,0,0,0,,,,32208232208
+1,Singapore,9,S Chandramohan,CJA Amini,A Mutreja,,0,0,0,,,,32208232208
+1,Singapore,9,S Chandramohan,CJA Amini,A Mutreja,wides,1,1,0,,,,32208232208
+1,Singapore,9,S Chandramohan,CJA Amini,A Mutreja,,0,1,1,,,,32208232208
+1,Singapore,10,S Chandramohan,R Hekure,A Mutreja,,0,1,1,,,,32208232208
+1,Singapore,10,A Mutreja,R Hekure,S Chandramohan,,0,1,1,,,,32208232208
+1,Singapore,10,S Chandramohan,R Hekure,A Mutreja,,0,1,1,,,,32208232208
+1,Singapore,10,A Mutreja,R Hekure,S Chandramohan,,0,2,2,,,,32208232208
+1,Singapore,10,A Mutreja,R Hekure,S Chandramohan,,0,1,1,,,,32208232208
+1,Singapore,10,S Chandramohan,R Hekure,A Mutreja,,0,4,4,,,,32208232208
+1,Singapore,11,A Mutreja,N Vanua,S Chandramohan,,0,0,0,,,,32208232208
+1,Singapore,11,A Mutreja,N Vanua,S Chandramohan,,0,1,1,,,,32208232208
+1,Singapore,11,S Chandramohan,N Vanua,A Mutreja,,0,1,1,,,,32208232208
+1,Singapore,11,A Mutreja,N Vanua,S Chandramohan,,0,1,1,,,,32208232208
+1,Singapore,11,S Chandramohan,N Vanua,A Mutreja,,0,4,4,,,,32208232208
+1,Singapore,11,S Chandramohan,N Vanua,A Mutreja,,0,4,4,,,,32208232208
+1,Singapore,12,A Mutreja,CJA Amini,S Chandramohan,,0,0,0,,,,32208232208
+1,Singapore,12,A Mutreja,CJA Amini,S Chandramohan,,0,1,1,,,,32208232208
+1,Singapore,12,S Chandramohan,CJA Amini,A Mutreja,,0,6,6,,,,32208232208
+1,Singapore,12,S Chandramohan,CJA Amini,A Mutreja,,0,1,1,,,,32208232208
+1,Singapore,12,A Mutreja,CJA Amini,S Chandramohan,,0,2,2,,,,32208232208
+1,Singapore,12,A Mutreja,CJA Amini,S Chandramohan,,0,0,0,,,,32208232208
+1,Singapore,13,S Chandramohan,R Hekure,A Mutreja,,0,1,1,,,,32208232208
+1,Singapore,13,A Mutreja,R Hekure,S Chandramohan,,0,4,4,,,,32208232208
+1,Singapore,13,A Mutreja,R Hekure,S Chandramohan,,0,1,1,,,,32208232208
+1,Singapore,13,S Chandramohan,R Hekure,A Mutreja,,0,2,2,,,,32208232208
+1,Singapore,13,S Chandramohan,R Hekure,A Mutreja,wides,2,2,0,,,,32208232208
+1,Singapore,13,A Mutreja,R Hekure,S Chandramohan,wides,1,1,0,,,,32208232208
+1,Singapore,13,A Mutreja,R Hekure,S Chandramohan,,0,1,1,,,,32208232208
+1,Singapore,13,S Chandramohan,R Hekure,A Mutreja,,0,1,1,,,,32208232208
+1,Singapore,14,S Chandramohan,D Ravu,A Mutreja,,0,2,2,,,,32208232208
+1,Singapore,14,S Chandramohan,D Ravu,A Mutreja,,0,1,1,,,,32208232208
+1,Singapore,14,A Mutreja,D Ravu,S Chandramohan,,0,6,6,,,,32208232208
+1,Singapore,14,A Mutreja,D Ravu,S Chandramohan,,0,1,1,,,,32208232208
+1,Singapore,14,S Chandramohan,D Ravu,A Mutreja,,0,1,1,,,,32208232208
+1,Singapore,14,A Mutreja,D Ravu,S Chandramohan,noballs,1,2,1,,,,32208232208
+1,Singapore,14,S Chandramohan,D Ravu,A Mutreja,noballs,1,2,1,,,,32208232208
+1,Singapore,14,A Mutreja,D Ravu,S Chandramohan,,0,2,2,,,,32208232208
+1,Singapore,15,S Chandramohan,SI Kamea,A Mutreja,,0,6,6,,,,32208232208
+1,Singapore,15,S Chandramohan,SI Kamea,A Mutreja,,0,1,1,,,,32208232208
+1,Singapore,15,A Mutreja,SI Kamea,S Chandramohan,,0,4,4,,,,32208232208
+1,Singapore,15,A Mutreja,SI Kamea,S Chandramohan,,0,2,2,,,,32208232208
+1,Singapore,15,A Mutreja,SI Kamea,S Chandramohan,,0,1,1,,,,32208232208
+1,Singapore,15,S Chandramohan,SI Kamea,A Mutreja,,0,1,1,,,,32208232208
+1,Singapore,16,S Chandramohan,R Hekure,A Mutreja,,0,4,4,,,,32208232208
+1,Singapore,16,S Chandramohan,R Hekure,A Mutreja,wides,1,1,0,,,,32208232208
+1,Singapore,16,S Chandramohan,R Hekure,A Mutreja,,0,2,2,,,,32208232208
+1,Singapore,16,S Chandramohan,R Hekure,A Mutreja,,0,1,1,,,,32208232208
+1,Singapore,16,A Mutreja,R Hekure,S Chandramohan,wides,1,1,0,,,,32208232208
+1,Singapore,16,A Mutreja,R Hekure,S Chandramohan,,0,1,1,,,,32208232208
+1,Singapore,16,S Chandramohan,R Hekure,A Mutreja,wides,1,1,0,,,,32208232208
+1,Singapore,16,S Chandramohan,R Hekure,A Mutreja,,0,6,6,,,,32208232208
+1,Singapore,16,S Chandramohan,R Hekure,A Mutreja,,0,4,4,,,,32208232208
+1,Singapore,17,A Mutreja,N Vanua,S Chandramohan,,0,1,1,,,,32208232208
+1,Singapore,17,S Chandramohan,N Vanua,A Mutreja,,0,1,1,,,,32208232208
+1,Singapore,17,A Mutreja,N Vanua,S Chandramohan,,0,1,1,,,,32208232208
+1,Singapore,17,S Chandramohan,N Vanua,A Mutreja,,0,1,1,run out,A Mutreja,SI Kamea,32208232208
+1,Singapore,17,Janak Prakash,N Vanua,S Chandramohan,,0,1,1,,,,32208232208
+1,Singapore,17,S Chandramohan,N Vanua,Janak Prakash,,0,0,0,caught,S Chandramohan,HGV Vare,32208232208
+1,Singapore,18,Janak Prakash,D Ravu,U Aryaman Sunil,wides,1,1,0,,,,32208232208
+1,Singapore,18,Janak Prakash,D Ravu,U Aryaman Sunil,,0,2,2,,,,32208232208
+1,Singapore,18,Janak Prakash,D Ravu,U Aryaman Sunil,,0,0,0,bowled,Janak Prakash,,32208232208
+1,Singapore,18,V Baskaran,D Ravu,U Aryaman Sunil,,0,1,1,,,,32208232208
+1,Singapore,18,U Aryaman Sunil,D Ravu,V Baskaran,,0,1,1,,,,32208232208
+1,Singapore,18,V Baskaran,D Ravu,U Aryaman Sunil,noballs,1,5,4,,,,32208232208
+1,Singapore,18,V Baskaran,D Ravu,U Aryaman Sunil,,0,2,2,,,,32208232208
+1,Singapore,18,V Baskaran,D Ravu,U Aryaman Sunil,,0,0,0,caught,V Baskaran,A Vala,32208232208
+1,Singapore,19,U Aryaman Sunil,N Vanua,Amjad Mahboob,,0,1,1,,,,32208232208
+1,Singapore,19,Amjad Mahboob,N Vanua,U Aryaman Sunil,,0,1,1,,,,32208232208
+1,Singapore,19,U Aryaman Sunil,N Vanua,Amjad Mahboob,,0,1,1,,,,32208232208
+1,Singapore,19,Amjad Mahboob,N Vanua,U Aryaman Sunil,,0,1,1,,,,32208232208
+1,Singapore,19,U Aryaman Sunil,N Vanua,Amjad Mahboob,,0,0,0,,,,32208232208
+1,Singapore,19,U Aryaman Sunil,N Vanua,Amjad Mahboob,,0,1,1,,,,32208232208

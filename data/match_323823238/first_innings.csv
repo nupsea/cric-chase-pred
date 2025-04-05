@@ -1,0 +1,122 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,India,0,G Gambhir,DW Steyn,V Sehwag,,0,4,4,,,,323823238
+1,India,0,G Gambhir,DW Steyn,V Sehwag,,0,0,0,,,,323823238
+1,India,0,G Gambhir,DW Steyn,V Sehwag,,0,0,0,,,,323823238
+1,India,0,G Gambhir,DW Steyn,V Sehwag,legbyes,4,4,0,,,,323823238
+1,India,0,G Gambhir,DW Steyn,V Sehwag,,0,1,1,,,,323823238
+1,India,0,V Sehwag,DW Steyn,G Gambhir,,0,0,0,,,,323823238
+1,India,1,G Gambhir,M Morkel,V Sehwag,,0,1,1,,,,323823238
+1,India,1,V Sehwag,M Morkel,G Gambhir,,0,2,2,,,,323823238
+1,India,1,V Sehwag,M Morkel,G Gambhir,,0,2,2,,,,323823238
+1,India,1,V Sehwag,M Morkel,G Gambhir,,0,1,1,,,,323823238
+1,India,1,G Gambhir,M Morkel,V Sehwag,,0,0,0,,,,323823238
+1,India,1,G Gambhir,M Morkel,V Sehwag,,0,2,2,,,,323823238
+1,India,2,V Sehwag,DW Steyn,G Gambhir,,0,0,0,,,,323823238
+1,India,2,V Sehwag,DW Steyn,G Gambhir,,0,0,0,,,,323823238
+1,India,2,V Sehwag,DW Steyn,G Gambhir,legbyes,1,1,0,,,,323823238
+1,India,2,G Gambhir,DW Steyn,V Sehwag,,0,0,0,,,,323823238
+1,India,2,G Gambhir,DW Steyn,V Sehwag,,0,0,0,,,,323823238
+1,India,2,G Gambhir,DW Steyn,V Sehwag,legbyes,4,4,0,,,,323823238
+1,India,3,V Sehwag,M Morkel,G Gambhir,,0,0,0,,,,323823238
+1,India,3,V Sehwag,M Morkel,G Gambhir,,0,1,1,,,,323823238
+1,India,3,G Gambhir,M Morkel,V Sehwag,,0,0,0,bowled,G Gambhir,,323823238
+1,India,3,V Kohli,M Morkel,V Sehwag,,0,2,2,,,,323823238
+1,India,3,V Kohli,M Morkel,V Sehwag,,0,0,0,,,,323823238
+1,India,3,V Kohli,M Morkel,V Sehwag,,0,0,0,,,,323823238
+1,India,4,V Sehwag,JH Kallis,V Kohli,,0,4,4,,,,323823238
+1,India,4,V Sehwag,JH Kallis,V Kohli,,0,1,1,,,,323823238
+1,India,4,V Kohli,JH Kallis,V Sehwag,,0,0,0,,,,323823238
+1,India,4,V Kohli,JH Kallis,V Sehwag,,0,0,0,,,,323823238
+1,India,4,V Kohli,JH Kallis,V Sehwag,,0,0,0,caught,V Kohli,AB de Villiers,323823238
+1,India,4,RG Sharma,JH Kallis,V Sehwag,,0,0,0,,,,323823238
+1,India,5,V Sehwag,RJ Peterson,RG Sharma,,0,0,0,,,,323823238
+1,India,5,V Sehwag,RJ Peterson,RG Sharma,,0,6,6,,,,323823238
+1,India,5,V Sehwag,RJ Peterson,RG Sharma,,0,0,0,bowled,V Sehwag,,323823238
+1,India,5,Yuvraj Singh,RJ Peterson,RG Sharma,,0,0,0,,,,323823238
+1,India,5,Yuvraj Singh,RJ Peterson,RG Sharma,,0,0,0,,,,323823238
+1,India,5,Yuvraj Singh,RJ Peterson,RG Sharma,,0,0,0,,,,323823238
+1,India,6,RG Sharma,J Botha,Yuvraj Singh,,0,1,1,,,,323823238
+1,India,6,Yuvraj Singh,J Botha,RG Sharma,,0,0,0,,,,323823238
+1,India,6,Yuvraj Singh,J Botha,RG Sharma,,0,1,1,,,,323823238
+1,India,6,RG Sharma,J Botha,Yuvraj Singh,,0,1,1,,,,323823238
+1,India,6,Yuvraj Singh,J Botha,RG Sharma,,0,6,6,,,,323823238
+1,India,6,Yuvraj Singh,J Botha,RG Sharma,,0,0,0,,,,323823238
+1,India,7,RG Sharma,RJ Peterson,Yuvraj Singh,,0,0,0,,,,323823238
+1,India,7,RG Sharma,RJ Peterson,Yuvraj Singh,,0,1,1,,,,323823238
+1,India,7,Yuvraj Singh,RJ Peterson,RG Sharma,,0,0,0,,,,323823238
+1,India,7,Yuvraj Singh,RJ Peterson,RG Sharma,,0,6,6,,,,323823238
+1,India,7,Yuvraj Singh,RJ Peterson,RG Sharma,,0,1,1,,,,323823238
+1,India,7,RG Sharma,RJ Peterson,Yuvraj Singh,,0,0,0,,,,323823238
+1,India,8,Yuvraj Singh,J Botha,RG Sharma,,0,1,1,,,,323823238
+1,India,8,RG Sharma,J Botha,Yuvraj Singh,,0,1,1,,,,323823238
+1,India,8,Yuvraj Singh,J Botha,RG Sharma,,0,4,4,,,,323823238
+1,India,8,Yuvraj Singh,J Botha,RG Sharma,,0,1,1,,,,323823238
+1,India,8,RG Sharma,J Botha,Yuvraj Singh,,0,0,0,,,,323823238
+1,India,8,RG Sharma,J Botha,Yuvraj Singh,,0,1,1,,,,323823238
+1,India,9,RG Sharma,M Morkel,Yuvraj Singh,,0,0,0,,,,323823238
+1,India,9,RG Sharma,M Morkel,Yuvraj Singh,,0,4,4,,,,323823238
+1,India,9,RG Sharma,M Morkel,Yuvraj Singh,,0,1,1,,,,323823238
+1,India,9,Yuvraj Singh,M Morkel,RG Sharma,,0,1,1,,,,323823238
+1,India,9,RG Sharma,M Morkel,Yuvraj Singh,,0,1,1,,,,323823238
+1,India,9,Yuvraj Singh,M Morkel,RG Sharma,,0,0,0,bowled,Yuvraj Singh,,323823238
+1,India,10,RG Sharma,F du Plessis,SK Raina,,0,1,1,,,,323823238
+1,India,10,SK Raina,F du Plessis,RG Sharma,,0,0,0,,,,323823238
+1,India,10,SK Raina,F du Plessis,RG Sharma,,0,1,1,,,,323823238
+1,India,10,RG Sharma,F du Plessis,SK Raina,,0,0,0,,,,323823238
+1,India,10,RG Sharma,F du Plessis,SK Raina,,0,1,1,,,,323823238
+1,India,10,SK Raina,F du Plessis,RG Sharma,,0,0,0,,,,323823238
+1,India,11,RG Sharma,M Morkel,SK Raina,noballs,1,2,1,,,,323823238
+1,India,11,SK Raina,M Morkel,RG Sharma,,0,0,0,,,,323823238
+1,India,11,SK Raina,M Morkel,RG Sharma,,0,1,1,,,,323823238
+1,India,11,RG Sharma,M Morkel,SK Raina,,0,1,1,,,,323823238
+1,India,11,SK Raina,M Morkel,RG Sharma,,0,2,2,,,,323823238
+1,India,11,SK Raina,M Morkel,RG Sharma,,0,0,0,,,,323823238
+1,India,11,SK Raina,M Morkel,RG Sharma,,0,4,4,,,,323823238
+1,India,12,RG Sharma,RJ Peterson,SK Raina,,0,1,1,,,,323823238
+1,India,12,SK Raina,RJ Peterson,RG Sharma,,0,2,2,,,,323823238
+1,India,12,SK Raina,RJ Peterson,RG Sharma,,0,4,4,,,,323823238
+1,India,12,SK Raina,RJ Peterson,RG Sharma,,0,1,1,,,,323823238
+1,India,12,RG Sharma,RJ Peterson,SK Raina,legbyes,1,1,0,,,,323823238
+1,India,12,SK Raina,RJ Peterson,RG Sharma,,0,0,0,,,,323823238
+1,India,13,RG Sharma,J Botha,SK Raina,,0,4,4,,,,323823238
+1,India,13,RG Sharma,J Botha,SK Raina,,0,1,1,,,,323823238
+1,India,13,SK Raina,J Botha,RG Sharma,,0,2,2,,,,323823238
+1,India,13,SK Raina,J Botha,RG Sharma,,0,0,0,,,,323823238
+1,India,13,SK Raina,J Botha,RG Sharma,,0,4,4,,,,323823238
+1,India,13,SK Raina,J Botha,RG Sharma,,0,2,2,,,,323823238
+1,India,14,RG Sharma,JP Duminy,SK Raina,,0,1,1,,,,323823238
+1,India,14,SK Raina,JP Duminy,RG Sharma,,0,1,1,,,,323823238
+1,India,14,RG Sharma,JP Duminy,SK Raina,,0,1,1,,,,323823238
+1,India,14,SK Raina,JP Duminy,RG Sharma,,0,1,1,,,,323823238
+1,India,14,RG Sharma,JP Duminy,SK Raina,,0,1,1,,,,323823238
+1,India,14,SK Raina,JP Duminy,RG Sharma,,0,1,1,,,,323823238
+1,India,15,SK Raina,RJ Peterson,RG Sharma,,0,0,0,,,,323823238
+1,India,15,SK Raina,RJ Peterson,RG Sharma,,0,1,1,,,,323823238
+1,India,15,RG Sharma,RJ Peterson,SK Raina,,0,1,1,,,,323823238
+1,India,15,SK Raina,RJ Peterson,RG Sharma,,0,0,0,,,,323823238
+1,India,15,SK Raina,RJ Peterson,RG Sharma,,0,1,1,,,,323823238
+1,India,15,RG Sharma,RJ Peterson,SK Raina,,0,0,0,lbw,RG Sharma,,323823238
+1,India,16,SK Raina,DW Steyn,MS Dhoni,,0,4,4,,,,323823238
+1,India,16,SK Raina,DW Steyn,MS Dhoni,,0,0,0,,,,323823238
+1,India,16,SK Raina,DW Steyn,MS Dhoni,,0,1,1,,,,323823238
+1,India,16,MS Dhoni,DW Steyn,SK Raina,,0,1,1,,,,323823238
+1,India,16,SK Raina,DW Steyn,MS Dhoni,,0,1,1,,,,323823238
+1,India,16,MS Dhoni,DW Steyn,SK Raina,,0,0,0,,,,323823238
+1,India,17,SK Raina,JH Kallis,MS Dhoni,,0,1,1,,,,323823238
+1,India,17,MS Dhoni,JH Kallis,SK Raina,,0,1,1,,,,323823238
+1,India,17,SK Raina,JH Kallis,MS Dhoni,,0,1,1,,,,323823238
+1,India,17,MS Dhoni,JH Kallis,SK Raina,,0,1,1,,,,323823238
+1,India,17,SK Raina,JH Kallis,MS Dhoni,,0,2,2,,,,323823238
+1,India,17,SK Raina,JH Kallis,MS Dhoni,,0,4,4,,,,323823238
+1,India,18,MS Dhoni,DW Steyn,SK Raina,,0,4,4,,,,323823238
+1,India,18,MS Dhoni,DW Steyn,SK Raina,,0,2,2,,,,323823238
+1,India,18,MS Dhoni,DW Steyn,SK Raina,,0,4,4,,,,323823238
+1,India,18,MS Dhoni,DW Steyn,SK Raina,,0,2,2,,,,323823238
+1,India,18,MS Dhoni,DW Steyn,SK Raina,,0,2,2,,,,323823238
+1,India,18,MS Dhoni,DW Steyn,SK Raina,,0,0,0,,,,323823238
+1,India,19,SK Raina,JH Kallis,MS Dhoni,,0,1,1,,,,323823238
+1,India,19,MS Dhoni,JH Kallis,SK Raina,,0,1,1,,,,323823238
+1,India,19,SK Raina,JH Kallis,MS Dhoni,,0,1,1,,,,323823238
+1,India,19,MS Dhoni,JH Kallis,SK Raina,,0,4,4,,,,323823238
+1,India,19,MS Dhoni,JH Kallis,SK Raina,,0,1,1,,,,323823238
+1,India,19,SK Raina,JH Kallis,MS Dhoni,,0,1,1,run out,SK Raina,AB de Villiers,323823238

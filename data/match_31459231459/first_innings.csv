@@ -1,0 +1,125 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Sri Lanka,0,MD Gunathilaka,DJ Willey,WIA Fernando,legbyes,2,2,0,,,,31459231459
+1,Sri Lanka,0,MD Gunathilaka,DJ Willey,WIA Fernando,,0,1,1,,,,31459231459
+1,Sri Lanka,0,WIA Fernando,DJ Willey,MD Gunathilaka,,0,0,0,,,,31459231459
+1,Sri Lanka,0,WIA Fernando,DJ Willey,MD Gunathilaka,,0,0,0,,,,31459231459
+1,Sri Lanka,0,WIA Fernando,DJ Willey,MD Gunathilaka,,0,1,1,,,,31459231459
+1,Sri Lanka,0,MD Gunathilaka,DJ Willey,WIA Fernando,,0,1,1,,,,31459231459
+1,Sri Lanka,1,MD Gunathilaka,SM Curran,WIA Fernando,,0,1,1,,,,31459231459
+1,Sri Lanka,1,WIA Fernando,SM Curran,MD Gunathilaka,,0,0,0,,,,31459231459
+1,Sri Lanka,1,WIA Fernando,SM Curran,MD Gunathilaka,,0,0,0,run out,MD Gunathilaka,SM Curran,31459231459
+1,Sri Lanka,1,MDKJ Perera,SM Curran,WIA Fernando,,0,0,0,,,,31459231459
+1,Sri Lanka,1,MDKJ Perera,SM Curran,WIA Fernando,,0,2,2,,,,31459231459
+1,Sri Lanka,1,MDKJ Perera,SM Curran,WIA Fernando,,0,1,1,,,,31459231459
+1,Sri Lanka,2,MDKJ Perera,DJ Willey,WIA Fernando,,0,1,1,,,,31459231459
+1,Sri Lanka,2,WIA Fernando,DJ Willey,MDKJ Perera,,0,0,0,,,,31459231459
+1,Sri Lanka,2,WIA Fernando,DJ Willey,MDKJ Perera,,0,2,2,,,,31459231459
+1,Sri Lanka,2,WIA Fernando,DJ Willey,MDKJ Perera,,0,1,1,,,,31459231459
+1,Sri Lanka,2,MDKJ Perera,DJ Willey,WIA Fernando,,0,0,0,,,,31459231459
+1,Sri Lanka,2,MDKJ Perera,DJ Willey,WIA Fernando,wides,1,1,0,,,,31459231459
+1,Sri Lanka,2,MDKJ Perera,DJ Willey,WIA Fernando,legbyes,1,1,0,,,,31459231459
+1,Sri Lanka,3,MDKJ Perera,SM Curran,WIA Fernando,,0,1,1,,,,31459231459
+1,Sri Lanka,3,WIA Fernando,SM Curran,MDKJ Perera,,0,2,2,,,,31459231459
+1,Sri Lanka,3,WIA Fernando,SM Curran,MDKJ Perera,,0,0,0,caught,WIA Fernando,LS Livingstone,31459231459
+1,Sri Lanka,3,BKG Mendis,SM Curran,MDKJ Perera,,0,1,1,,,,31459231459
+1,Sri Lanka,3,MDKJ Perera,SM Curran,BKG Mendis,,0,0,0,,,,31459231459
+1,Sri Lanka,3,MDKJ Perera,SM Curran,BKG Mendis,,0,0,0,,,,31459231459
+1,Sri Lanka,4,BKG Mendis,DJ Willey,MDKJ Perera,,0,0,0,,,,31459231459
+1,Sri Lanka,4,BKG Mendis,DJ Willey,MDKJ Perera,,0,0,0,,,,31459231459
+1,Sri Lanka,4,BKG Mendis,DJ Willey,MDKJ Perera,,0,2,2,,,,31459231459
+1,Sri Lanka,4,BKG Mendis,DJ Willey,MDKJ Perera,,0,0,0,,,,31459231459
+1,Sri Lanka,4,BKG Mendis,DJ Willey,MDKJ Perera,,0,0,0,,,,31459231459
+1,Sri Lanka,4,BKG Mendis,DJ Willey,MDKJ Perera,,0,0,0,,,,31459231459
+1,Sri Lanka,5,MDKJ Perera,CJ Jordan,BKG Mendis,,0,0,0,,,,31459231459
+1,Sri Lanka,5,MDKJ Perera,CJ Jordan,BKG Mendis,,0,1,1,,,,31459231459
+1,Sri Lanka,5,BKG Mendis,CJ Jordan,MDKJ Perera,,0,1,1,,,,31459231459
+1,Sri Lanka,5,MDKJ Perera,CJ Jordan,BKG Mendis,,0,2,2,,,,31459231459
+1,Sri Lanka,5,MDKJ Perera,CJ Jordan,BKG Mendis,,0,1,1,,,,31459231459
+1,Sri Lanka,5,BKG Mendis,CJ Jordan,MDKJ Perera,,0,0,0,,,,31459231459
+1,Sri Lanka,6,MDKJ Perera,LS Livingstone,BKG Mendis,,0,1,1,,,,31459231459
+1,Sri Lanka,6,BKG Mendis,LS Livingstone,MDKJ Perera,,0,0,0,,,,31459231459
+1,Sri Lanka,6,BKG Mendis,LS Livingstone,MDKJ Perera,,0,1,1,,,,31459231459
+1,Sri Lanka,6,MDKJ Perera,LS Livingstone,BKG Mendis,,0,1,1,,,,31459231459
+1,Sri Lanka,6,BKG Mendis,LS Livingstone,MDKJ Perera,,0,0,0,,,,31459231459
+1,Sri Lanka,6,BKG Mendis,LS Livingstone,MDKJ Perera,,0,0,0,,,,31459231459
+1,Sri Lanka,7,MDKJ Perera,MA Wood,BKG Mendis,,0,1,1,,,,31459231459
+1,Sri Lanka,7,BKG Mendis,MA Wood,MDKJ Perera,,0,1,1,,,,31459231459
+1,Sri Lanka,7,MDKJ Perera,MA Wood,BKG Mendis,,0,1,1,,,,31459231459
+1,Sri Lanka,7,BKG Mendis,MA Wood,MDKJ Perera,,0,4,4,,,,31459231459
+1,Sri Lanka,7,BKG Mendis,MA Wood,MDKJ Perera,,0,0,0,,,,31459231459
+1,Sri Lanka,7,BKG Mendis,MA Wood,MDKJ Perera,,0,1,1,,,,31459231459
+1,Sri Lanka,8,BKG Mendis,LS Livingstone,MDKJ Perera,,0,0,0,,,,31459231459
+1,Sri Lanka,8,BKG Mendis,LS Livingstone,MDKJ Perera,,0,4,4,,,,31459231459
+1,Sri Lanka,8,BKG Mendis,LS Livingstone,MDKJ Perera,,0,0,0,,,,31459231459
+1,Sri Lanka,8,BKG Mendis,LS Livingstone,MDKJ Perera,,0,2,2,,,,31459231459
+1,Sri Lanka,8,BKG Mendis,LS Livingstone,MDKJ Perera,,0,1,1,,,,31459231459
+1,Sri Lanka,8,MDKJ Perera,LS Livingstone,BKG Mendis,,0,0,0,,,,31459231459
+1,Sri Lanka,9,BKG Mendis,MA Wood,MDKJ Perera,,0,0,0,,,,31459231459
+1,Sri Lanka,9,BKG Mendis,MA Wood,MDKJ Perera,,0,0,0,,,,31459231459
+1,Sri Lanka,9,BKG Mendis,MA Wood,MDKJ Perera,,0,0,0,,,,31459231459
+1,Sri Lanka,9,BKG Mendis,MA Wood,MDKJ Perera,,0,1,1,,,,31459231459
+1,Sri Lanka,9,MDKJ Perera,MA Wood,BKG Mendis,,0,1,1,,,,31459231459
+1,Sri Lanka,9,BKG Mendis,MA Wood,MDKJ Perera,,0,1,1,,,,31459231459
+1,Sri Lanka,10,BKG Mendis,AU Rashid,MDKJ Perera,,0,1,1,,,,31459231459
+1,Sri Lanka,10,MDKJ Perera,AU Rashid,BKG Mendis,,0,1,1,,,,31459231459
+1,Sri Lanka,10,BKG Mendis,AU Rashid,MDKJ Perera,,0,1,1,,,,31459231459
+1,Sri Lanka,10,MDKJ Perera,AU Rashid,BKG Mendis,,0,2,2,,,,31459231459
+1,Sri Lanka,10,MDKJ Perera,AU Rashid,BKG Mendis,,0,1,1,,,,31459231459
+1,Sri Lanka,10,BKG Mendis,AU Rashid,MDKJ Perera,,0,2,2,,,,31459231459
+1,Sri Lanka,11,MDKJ Perera,CJ Jordan,BKG Mendis,,0,1,1,,,,31459231459
+1,Sri Lanka,11,BKG Mendis,CJ Jordan,MDKJ Perera,,0,0,0,,,,31459231459
+1,Sri Lanka,11,BKG Mendis,CJ Jordan,MDKJ Perera,,0,6,6,,,,31459231459
+1,Sri Lanka,11,BKG Mendis,CJ Jordan,MDKJ Perera,,0,0,0,,,,31459231459
+1,Sri Lanka,11,BKG Mendis,CJ Jordan,MDKJ Perera,,0,1,1,,,,31459231459
+1,Sri Lanka,11,MDKJ Perera,CJ Jordan,BKG Mendis,,0,2,2,,,,31459231459
+1,Sri Lanka,12,BKG Mendis,AU Rashid,MDKJ Perera,,0,2,2,,,,31459231459
+1,Sri Lanka,12,BKG Mendis,AU Rashid,MDKJ Perera,,0,1,1,,,,31459231459
+1,Sri Lanka,12,MDKJ Perera,AU Rashid,BKG Mendis,,0,0,0,caught,MDKJ Perera,EJG Morgan,31459231459
+1,Sri Lanka,12,N Dickwella,AU Rashid,BKG Mendis,,0,2,2,,,,31459231459
+1,Sri Lanka,12,N Dickwella,AU Rashid,BKG Mendis,,0,1,1,,,,31459231459
+1,Sri Lanka,12,BKG Mendis,AU Rashid,N Dickwella,,0,1,1,,,,31459231459
+1,Sri Lanka,13,BKG Mendis,MA Wood,N Dickwella,,0,4,4,,,,31459231459
+1,Sri Lanka,13,BKG Mendis,MA Wood,N Dickwella,,0,0,0,caught,BKG Mendis,JM Bairstow,31459231459
+1,Sri Lanka,13,N Dickwella,MA Wood,MD Shanaka,,0,0,0,caught,N Dickwella,EJG Morgan,31459231459
+1,Sri Lanka,13,PWH de Silva,MA Wood,MD Shanaka,,0,0,0,,,,31459231459
+1,Sri Lanka,13,PWH de Silva,MA Wood,MD Shanaka,,0,0,0,,,,31459231459
+1,Sri Lanka,13,PWH de Silva,MA Wood,MD Shanaka,,0,0,0,,,,31459231459
+1,Sri Lanka,14,MD Shanaka,AU Rashid,PWH de Silva,,0,0,0,,,,31459231459
+1,Sri Lanka,14,MD Shanaka,AU Rashid,PWH de Silva,,0,1,1,,,,31459231459
+1,Sri Lanka,14,PWH de Silva,AU Rashid,MD Shanaka,,0,1,1,,,,31459231459
+1,Sri Lanka,14,MD Shanaka,AU Rashid,PWH de Silva,,0,0,0,,,,31459231459
+1,Sri Lanka,14,MD Shanaka,AU Rashid,PWH de Silva,,0,2,2,,,,31459231459
+1,Sri Lanka,14,MD Shanaka,AU Rashid,PWH de Silva,,0,1,1,,,,31459231459
+1,Sri Lanka,15,MD Shanaka,MA Wood,PWH de Silva,,0,0,0,,,,31459231459
+1,Sri Lanka,15,MD Shanaka,MA Wood,PWH de Silva,,0,0,0,,,,31459231459
+1,Sri Lanka,15,MD Shanaka,MA Wood,PWH de Silva,,0,1,1,,,,31459231459
+1,Sri Lanka,15,PWH de Silva,MA Wood,MD Shanaka,,0,1,1,,,,31459231459
+1,Sri Lanka,15,MD Shanaka,MA Wood,PWH de Silva,,0,0,0,,,,31459231459
+1,Sri Lanka,15,MD Shanaka,MA Wood,PWH de Silva,,0,1,1,,,,31459231459
+1,Sri Lanka,16,MD Shanaka,AU Rashid,PWH de Silva,,0,1,1,,,,31459231459
+1,Sri Lanka,16,PWH de Silva,AU Rashid,MD Shanaka,,0,1,1,,,,31459231459
+1,Sri Lanka,16,MD Shanaka,AU Rashid,PWH de Silva,,0,1,1,,,,31459231459
+1,Sri Lanka,16,PWH de Silva,AU Rashid,MD Shanaka,,0,0,0,stumped,PWH de Silva,JM Bairstow,31459231459
+1,Sri Lanka,16,I Udana,AU Rashid,MD Shanaka,,0,0,0,,,,31459231459
+1,Sri Lanka,16,I Udana,AU Rashid,MD Shanaka,,0,1,1,,,,31459231459
+1,Sri Lanka,17,I Udana,CJ Jordan,MD Shanaka,,0,0,0,,,,31459231459
+1,Sri Lanka,17,I Udana,CJ Jordan,MD Shanaka,,0,1,1,,,,31459231459
+1,Sri Lanka,17,MD Shanaka,CJ Jordan,I Udana,wides,1,1,0,,,,31459231459
+1,Sri Lanka,17,MD Shanaka,CJ Jordan,I Udana,,0,0,0,,,,31459231459
+1,Sri Lanka,17,MD Shanaka,CJ Jordan,I Udana,,0,0,0,caught,MD Shanaka,DJ Willey,31459231459
+1,Sri Lanka,17,A Dananjaya,CJ Jordan,I Udana,,0,0,0,,,,31459231459
+1,Sri Lanka,17,A Dananjaya,CJ Jordan,I Udana,,0,0,0,,,,31459231459
+1,Sri Lanka,18,I Udana,DJ Willey,A Dananjaya,,0,1,1,,,,31459231459
+1,Sri Lanka,18,A Dananjaya,DJ Willey,I Udana,wides,1,1,0,,,,31459231459
+1,Sri Lanka,18,A Dananjaya,DJ Willey,I Udana,wides,1,1,0,,,,31459231459
+1,Sri Lanka,18,A Dananjaya,DJ Willey,I Udana,,0,1,1,,,,31459231459
+1,Sri Lanka,18,I Udana,DJ Willey,A Dananjaya,,0,0,0,,,,31459231459
+1,Sri Lanka,18,I Udana,DJ Willey,A Dananjaya,,0,1,1,,,,31459231459
+1,Sri Lanka,18,A Dananjaya,DJ Willey,I Udana,,0,1,1,,,,31459231459
+1,Sri Lanka,18,I Udana,DJ Willey,A Dananjaya,,0,1,1,,,,31459231459
+1,Sri Lanka,19,I Udana,CJ Jordan,A Dananjaya,,0,4,4,,,,31459231459
+1,Sri Lanka,19,I Udana,CJ Jordan,A Dananjaya,,0,0,0,,,,31459231459
+1,Sri Lanka,19,I Udana,CJ Jordan,A Dananjaya,,0,2,2,,,,31459231459
+1,Sri Lanka,19,I Udana,CJ Jordan,A Dananjaya,,0,6,6,,,,31459231459
+1,Sri Lanka,19,I Udana,CJ Jordan,A Dananjaya,,0,0,0,,,,31459231459
+1,Sri Lanka,19,I Udana,CJ Jordan,A Dananjaya,,0,2,2,,,,31459231459

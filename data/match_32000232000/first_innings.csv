@@ -1,0 +1,135 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Gibraltar,0,BA Pai,H Lakov,L Bruce,wides,1,1,0,,,,32000232000
+1,Gibraltar,0,BA Pai,H Lakov,L Bruce,wides,1,1,0,,,,32000232000
+1,Gibraltar,0,BA Pai,H Lakov,L Bruce,,0,1,1,,,,32000232000
+1,Gibraltar,0,L Bruce,H Lakov,BA Pai,,0,0,0,,,,32000232000
+1,Gibraltar,0,L Bruce,H Lakov,BA Pai,,0,0,0,,,,32000232000
+1,Gibraltar,0,L Bruce,H Lakov,BA Pai,,0,0,0,,,,32000232000
+1,Gibraltar,0,L Bruce,H Lakov,BA Pai,,0,1,1,,,,32000232000
+1,Gibraltar,0,BA Pai,H Lakov,L Bruce,,0,3,3,,,,32000232000
+1,Gibraltar,1,BA Pai,DV Varghese,L Bruce,,0,1,1,,,,32000232000
+1,Gibraltar,1,L Bruce,DV Varghese,BA Pai,,0,0,0,,,,32000232000
+1,Gibraltar,1,L Bruce,DV Varghese,BA Pai,,0,0,0,,,,32000232000
+1,Gibraltar,1,L Bruce,DV Varghese,BA Pai,wides,1,1,0,,,,32000232000
+1,Gibraltar,1,L Bruce,DV Varghese,BA Pai,,0,0,0,,,,32000232000
+1,Gibraltar,1,L Bruce,DV Varghese,BA Pai,,0,0,0,,,,32000232000
+1,Gibraltar,1,L Bruce,DV Varghese,BA Pai,,0,1,1,,,,32000232000
+1,Gibraltar,2,L Bruce,H Lakov,BA Pai,legbyes,1,1,0,,,,32000232000
+1,Gibraltar,2,BA Pai,H Lakov,L Bruce,,0,0,0,,,,32000232000
+1,Gibraltar,2,BA Pai,H Lakov,L Bruce,wides,1,1,0,,,,32000232000
+1,Gibraltar,2,BA Pai,H Lakov,L Bruce,,0,1,1,,,,32000232000
+1,Gibraltar,2,L Bruce,H Lakov,BA Pai,,0,0,0,,,,32000232000
+1,Gibraltar,2,L Bruce,H Lakov,BA Pai,,0,6,6,,,,32000232000
+1,Gibraltar,2,L Bruce,H Lakov,BA Pai,wides,1,1,0,,,,32000232000
+1,Gibraltar,2,L Bruce,H Lakov,BA Pai,,0,0,0,caught,L Bruce,Saim Hussain,32000232000
+1,Gibraltar,3,BA Pai,DV Varghese,KJ Ferrary,,0,0,0,,,,32000232000
+1,Gibraltar,3,BA Pai,DV Varghese,KJ Ferrary,,0,0,0,,,,32000232000
+1,Gibraltar,3,BA Pai,DV Varghese,KJ Ferrary,,0,1,1,,,,32000232000
+1,Gibraltar,3,KJ Ferrary,DV Varghese,BA Pai,,0,1,1,,,,32000232000
+1,Gibraltar,3,BA Pai,DV Varghese,KJ Ferrary,,0,1,1,,,,32000232000
+1,Gibraltar,3,KJ Ferrary,DV Varghese,BA Pai,wides,1,1,0,,,,32000232000
+1,Gibraltar,3,KJ Ferrary,DV Varghese,BA Pai,wides,1,1,0,,,,32000232000
+1,Gibraltar,3,KJ Ferrary,DV Varghese,BA Pai,,0,0,0,,,,32000232000
+1,Gibraltar,4,BA Pai,H Lakov,KJ Ferrary,,0,1,1,,,,32000232000
+1,Gibraltar,4,KJ Ferrary,H Lakov,BA Pai,,0,1,1,,,,32000232000
+1,Gibraltar,4,BA Pai,H Lakov,KJ Ferrary,,0,1,1,,,,32000232000
+1,Gibraltar,4,KJ Ferrary,H Lakov,BA Pai,,0,4,4,,,,32000232000
+1,Gibraltar,4,KJ Ferrary,H Lakov,BA Pai,,0,0,0,,,,32000232000
+1,Gibraltar,4,KJ Ferrary,H Lakov,BA Pai,,0,1,1,,,,32000232000
+1,Gibraltar,5,KJ Ferrary,DV Varghese,BA Pai,,0,2,2,,,,32000232000
+1,Gibraltar,5,KJ Ferrary,DV Varghese,BA Pai,,0,1,1,,,,32000232000
+1,Gibraltar,5,BA Pai,DV Varghese,KJ Ferrary,,0,6,6,,,,32000232000
+1,Gibraltar,5,BA Pai,DV Varghese,KJ Ferrary,wides,1,1,0,,,,32000232000
+1,Gibraltar,5,BA Pai,DV Varghese,KJ Ferrary,,0,1,1,,,,32000232000
+1,Gibraltar,5,KJ Ferrary,DV Varghese,BA Pai,,0,1,1,,,,32000232000
+1,Gibraltar,5,BA Pai,DV Varghese,KJ Ferrary,,0,4,4,,,,32000232000
+1,Gibraltar,6,KJ Ferrary,Asad Ali Rehemtulla,BA Pai,,0,1,1,,,,32000232000
+1,Gibraltar,6,BA Pai,Asad Ali Rehemtulla,KJ Ferrary,wides,1,1,0,,,,32000232000
+1,Gibraltar,6,BA Pai,Asad Ali Rehemtulla,KJ Ferrary,,0,1,1,,,,32000232000
+1,Gibraltar,6,KJ Ferrary,Asad Ali Rehemtulla,BA Pai,,0,2,2,,,,32000232000
+1,Gibraltar,6,KJ Ferrary,Asad Ali Rehemtulla,BA Pai,legbyes,2,2,0,,,,32000232000
+1,Gibraltar,6,KJ Ferrary,Asad Ali Rehemtulla,BA Pai,,0,1,1,,,,32000232000
+1,Gibraltar,6,BA Pai,Asad Ali Rehemtulla,KJ Ferrary,,0,0,0,,,,32000232000
+1,Gibraltar,7,KJ Ferrary,P Mishra,BA Pai,,0,1,1,,,,32000232000
+1,Gibraltar,7,BA Pai,P Mishra,KJ Ferrary,,0,1,1,,,,32000232000
+1,Gibraltar,7,KJ Ferrary,P Mishra,BA Pai,,0,0,0,,,,32000232000
+1,Gibraltar,7,KJ Ferrary,P Mishra,BA Pai,,0,2,2,,,,32000232000
+1,Gibraltar,7,KJ Ferrary,P Mishra,BA Pai,,0,1,1,,,,32000232000
+1,Gibraltar,7,BA Pai,P Mishra,KJ Ferrary,,0,1,1,,,,32000232000
+1,Gibraltar,8,BA Pai,Asad Ali Rehemtulla,KJ Ferrary,,0,1,1,,,,32000232000
+1,Gibraltar,8,KJ Ferrary,Asad Ali Rehemtulla,BA Pai,,0,0,0,bowled,KJ Ferrary,,32000232000
+1,Gibraltar,8,M Gouws,Asad Ali Rehemtulla,BA Pai,,0,0,0,,,,32000232000
+1,Gibraltar,8,M Gouws,Asad Ali Rehemtulla,BA Pai,,0,1,1,,,,32000232000
+1,Gibraltar,8,BA Pai,Asad Ali Rehemtulla,M Gouws,,0,1,1,,,,32000232000
+1,Gibraltar,8,M Gouws,Asad Ali Rehemtulla,BA Pai,,0,0,0,,,,32000232000
+1,Gibraltar,9,BA Pai,P Mishra,M Gouws,,0,2,2,,,,32000232000
+1,Gibraltar,9,BA Pai,P Mishra,M Gouws,,0,1,1,,,,32000232000
+1,Gibraltar,9,M Gouws,P Mishra,BA Pai,wides,1,1,0,,,,32000232000
+1,Gibraltar,9,M Gouws,P Mishra,BA Pai,,0,0,0,caught,M Gouws,DV Varghese,32000232000
+1,Gibraltar,9,A Reyes,P Mishra,BA Pai,,0,0,0,,,,32000232000
+1,Gibraltar,9,A Reyes,P Mishra,BA Pai,,0,1,1,,,,32000232000
+1,Gibraltar,9,BA Pai,P Mishra,A Reyes,,0,1,1,,,,32000232000
+1,Gibraltar,10,BA Pai,Asad Ali Rehemtulla,A Reyes,legbyes,1,1,0,,,,32000232000
+1,Gibraltar,10,A Reyes,Asad Ali Rehemtulla,BA Pai,,0,1,1,,,,32000232000
+1,Gibraltar,10,BA Pai,Asad Ali Rehemtulla,A Reyes,legbyes,1,1,0,,,,32000232000
+1,Gibraltar,10,A Reyes,Asad Ali Rehemtulla,BA Pai,,0,0,0,,,,32000232000
+1,Gibraltar,10,A Reyes,Asad Ali Rehemtulla,BA Pai,,0,0,0,lbw,A Reyes,,32000232000
+1,Gibraltar,10,RJ Hatchman,Asad Ali Rehemtulla,BA Pai,,0,1,1,,,,32000232000
+1,Gibraltar,11,RJ Hatchman,P Mishra,BA Pai,,0,1,1,,,,32000232000
+1,Gibraltar,11,BA Pai,P Mishra,RJ Hatchman,,0,1,1,,,,32000232000
+1,Gibraltar,11,RJ Hatchman,P Mishra,BA Pai,wides,1,1,0,,,,32000232000
+1,Gibraltar,11,RJ Hatchman,P Mishra,BA Pai,wides,1,1,0,,,,32000232000
+1,Gibraltar,11,RJ Hatchman,P Mishra,BA Pai,,0,0,0,,,,32000232000
+1,Gibraltar,11,RJ Hatchman,P Mishra,BA Pai,,0,0,0,,,,32000232000
+1,Gibraltar,11,RJ Hatchman,P Mishra,BA Pai,,0,2,2,,,,32000232000
+1,Gibraltar,11,RJ Hatchman,P Mishra,BA Pai,,0,0,0,,,,32000232000
+1,Gibraltar,12,BA Pai,Asad Ali Rehemtulla,RJ Hatchman,,0,1,1,,,,32000232000
+1,Gibraltar,12,RJ Hatchman,Asad Ali Rehemtulla,BA Pai,,0,4,4,,,,32000232000
+1,Gibraltar,12,RJ Hatchman,Asad Ali Rehemtulla,BA Pai,,0,0,0,,,,32000232000
+1,Gibraltar,12,RJ Hatchman,Asad Ali Rehemtulla,BA Pai,,0,6,6,,,,32000232000
+1,Gibraltar,12,RJ Hatchman,Asad Ali Rehemtulla,BA Pai,,0,2,2,,,,32000232000
+1,Gibraltar,12,RJ Hatchman,Asad Ali Rehemtulla,BA Pai,,0,1,1,,,,32000232000
+1,Gibraltar,13,RJ Hatchman,P Mishra,BA Pai,,0,1,1,,,,32000232000
+1,Gibraltar,13,BA Pai,P Mishra,RJ Hatchman,,0,1,1,,,,32000232000
+1,Gibraltar,13,RJ Hatchman,P Mishra,BA Pai,,0,6,6,,,,32000232000
+1,Gibraltar,13,RJ Hatchman,P Mishra,BA Pai,,0,1,1,,,,32000232000
+1,Gibraltar,13,BA Pai,P Mishra,RJ Hatchman,wides,1,1,0,,,,32000232000
+1,Gibraltar,13,BA Pai,P Mishra,RJ Hatchman,,0,2,2,,,,32000232000
+1,Gibraltar,13,BA Pai,P Mishra,RJ Hatchman,,0,1,1,,,,32000232000
+1,Gibraltar,14,BA Pai,J Albin,RJ Hatchman,wides,1,1,0,,,,32000232000
+1,Gibraltar,14,BA Pai,J Albin,RJ Hatchman,,0,1,1,,,,32000232000
+1,Gibraltar,14,RJ Hatchman,J Albin,BA Pai,,0,3,3,,,,32000232000
+1,Gibraltar,14,BA Pai,J Albin,RJ Hatchman,,0,4,4,,,,32000232000
+1,Gibraltar,14,BA Pai,J Albin,RJ Hatchman,,0,1,1,,,,32000232000
+1,Gibraltar,14,RJ Hatchman,J Albin,BA Pai,,0,0,0,,,,32000232000
+1,Gibraltar,14,RJ Hatchman,J Albin,BA Pai,,0,4,4,,,,32000232000
+1,Gibraltar,15,BA Pai,Ahsan Khan,RJ Hatchman,,0,1,1,,,,32000232000
+1,Gibraltar,15,RJ Hatchman,Ahsan Khan,BA Pai,,0,0,0,caught,RJ Hatchman,Asad Ali Rehemtulla,32000232000
+1,Gibraltar,15,BA Pai,Ahsan Khan,M Whelan,legbyes,3,3,0,,,,32000232000
+1,Gibraltar,15,M Whelan,Ahsan Khan,BA Pai,byes,4,4,0,,,,32000232000
+1,Gibraltar,15,M Whelan,Ahsan Khan,BA Pai,,0,1,1,,,,32000232000
+1,Gibraltar,15,BA Pai,Ahsan Khan,M Whelan,,0,1,1,,,,32000232000
+1,Gibraltar,16,BA Pai,J Albin,M Whelan,,0,1,1,,,,32000232000
+1,Gibraltar,16,M Whelan,J Albin,BA Pai,,0,1,1,,,,32000232000
+1,Gibraltar,16,BA Pai,J Albin,M Whelan,,0,1,1,,,,32000232000
+1,Gibraltar,16,M Whelan,J Albin,BA Pai,,0,2,2,,,,32000232000
+1,Gibraltar,16,M Whelan,J Albin,BA Pai,,0,2,2,,,,32000232000
+1,Gibraltar,16,M Whelan,J Albin,BA Pai,,0,2,2,,,,32000232000
+1,Gibraltar,17,BA Pai,Ahsan Khan,M Whelan,,0,2,2,,,,32000232000
+1,Gibraltar,17,BA Pai,Ahsan Khan,M Whelan,,0,1,1,,,,32000232000
+1,Gibraltar,17,M Whelan,Ahsan Khan,BA Pai,,0,1,1,,,,32000232000
+1,Gibraltar,17,BA Pai,Ahsan Khan,M Whelan,,0,1,1,,,,32000232000
+1,Gibraltar,17,M Whelan,Ahsan Khan,BA Pai,,0,0,0,,,,32000232000
+1,Gibraltar,17,M Whelan,Ahsan Khan,BA Pai,,0,2,2,,,,32000232000
+1,Gibraltar,18,BA Pai,H Lakov,M Whelan,,0,1,1,,,,32000232000
+1,Gibraltar,18,M Whelan,H Lakov,BA Pai,,0,0,0,,,,32000232000
+1,Gibraltar,18,M Whelan,H Lakov,BA Pai,,0,2,2,,,,32000232000
+1,Gibraltar,18,M Whelan,H Lakov,BA Pai,,0,4,4,,,,32000232000
+1,Gibraltar,18,M Whelan,H Lakov,BA Pai,,0,0,0,,,,32000232000
+1,Gibraltar,18,M Whelan,H Lakov,BA Pai,,0,4,4,,,,32000232000
+1,Gibraltar,19,BA Pai,DV Varghese,M Whelan,,0,1,1,,,,32000232000
+1,Gibraltar,19,M Whelan,DV Varghese,BA Pai,,0,6,6,,,,32000232000
+1,Gibraltar,19,M Whelan,DV Varghese,BA Pai,legbyes,1,1,0,,,,32000232000
+1,Gibraltar,19,BA Pai,DV Varghese,M Whelan,,0,1,1,,,,32000232000
+1,Gibraltar,19,M Whelan,DV Varghese,BA Pai,,0,0,0,bowled,M Whelan,,32000232000
+1,Gibraltar,19,S Bodha,DV Varghese,BA Pai,,0,1,1,,,,32000232000

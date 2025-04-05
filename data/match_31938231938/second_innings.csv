@@ -1,0 +1,88 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Ireland,0,PR Stirling,MJ Santner,A Balbirnie,,0,0,0,,,,31938231938
+2,Ireland,0,PR Stirling,MJ Santner,A Balbirnie,,0,0,0,,,,31938231938
+2,Ireland,0,PR Stirling,MJ Santner,A Balbirnie,,0,6,6,,,,31938231938
+2,Ireland,0,PR Stirling,MJ Santner,A Balbirnie,,0,0,0,,,,31938231938
+2,Ireland,0,PR Stirling,MJ Santner,A Balbirnie,,0,4,4,,,,31938231938
+2,Ireland,0,PR Stirling,MJ Santner,A Balbirnie,,0,1,1,,,,31938231938
+2,Ireland,1,PR Stirling,JA Duffy,A Balbirnie,,0,1,1,,,,31938231938
+2,Ireland,1,A Balbirnie,JA Duffy,PR Stirling,,0,1,1,,,,31938231938
+2,Ireland,1,PR Stirling,JA Duffy,A Balbirnie,,0,4,4,,,,31938231938
+2,Ireland,1,PR Stirling,JA Duffy,A Balbirnie,,0,1,1,,,,31938231938
+2,Ireland,1,A Balbirnie,JA Duffy,PR Stirling,,0,0,0,,,,31938231938
+2,Ireland,1,A Balbirnie,JA Duffy,PR Stirling,,0,0,0,,,,31938231938
+2,Ireland,2,PR Stirling,LH Ferguson,A Balbirnie,,0,0,0,,,,31938231938
+2,Ireland,2,PR Stirling,LH Ferguson,A Balbirnie,,0,0,0,,,,31938231938
+2,Ireland,2,PR Stirling,LH Ferguson,A Balbirnie,,0,0,0,,,,31938231938
+2,Ireland,2,PR Stirling,LH Ferguson,A Balbirnie,,0,4,4,,,,31938231938
+2,Ireland,2,PR Stirling,LH Ferguson,A Balbirnie,,0,0,0,,,,31938231938
+2,Ireland,2,PR Stirling,LH Ferguson,A Balbirnie,wides,1,1,0,,,,31938231938
+2,Ireland,2,PR Stirling,LH Ferguson,A Balbirnie,,0,0,0,caught,PR Stirling,MJ Santner,31938231938
+2,Ireland,3,A Balbirnie,JA Duffy,GJ Delany,,0,1,1,,,,31938231938
+2,Ireland,3,GJ Delany,JA Duffy,A Balbirnie,,0,0,0,bowled,GJ Delany,,31938231938
+2,Ireland,3,HT Tector,JA Duffy,A Balbirnie,,0,1,1,,,,31938231938
+2,Ireland,3,A Balbirnie,JA Duffy,HT Tector,,0,1,1,,,,31938231938
+2,Ireland,3,HT Tector,JA Duffy,A Balbirnie,,0,1,1,,,,31938231938
+2,Ireland,3,A Balbirnie,JA Duffy,HT Tector,,0,0,0,,,,31938231938
+2,Ireland,4,HT Tector,LH Ferguson,A Balbirnie,,0,0,0,run out,HT Tector,GD Phillips,31938231938
+2,Ireland,4,A Balbirnie,LH Ferguson,C Campher,,0,2,2,,,,31938231938
+2,Ireland,4,A Balbirnie,LH Ferguson,C Campher,,0,1,1,,,,31938231938
+2,Ireland,4,C Campher,LH Ferguson,A Balbirnie,wides,1,1,0,,,,31938231938
+2,Ireland,4,C Campher,LH Ferguson,A Balbirnie,,0,0,0,,,,31938231938
+2,Ireland,4,C Campher,LH Ferguson,A Balbirnie,,0,0,0,,,,31938231938
+2,Ireland,4,C Campher,LH Ferguson,A Balbirnie,,0,1,1,,,,31938231938
+2,Ireland,5,C Campher,JA Duffy,A Balbirnie,,0,4,4,,,,31938231938
+2,Ireland,5,C Campher,JA Duffy,A Balbirnie,,0,1,1,,,,31938231938
+2,Ireland,5,A Balbirnie,JA Duffy,C Campher,,0,0,0,,,,31938231938
+2,Ireland,5,A Balbirnie,JA Duffy,C Campher,,0,4,4,,,,31938231938
+2,Ireland,5,A Balbirnie,JA Duffy,C Campher,,0,0,0,caught,A Balbirnie,D Cleaver,31938231938
+2,Ireland,5,L Tucker,JA Duffy,C Campher,,0,0,0,,,,31938231938
+2,Ireland,6,C Campher,MJ Santner,L Tucker,,0,0,0,,,,31938231938
+2,Ireland,6,C Campher,MJ Santner,L Tucker,,0,0,0,,,,31938231938
+2,Ireland,6,C Campher,MJ Santner,L Tucker,,0,0,0,,,,31938231938
+2,Ireland,6,C Campher,MJ Santner,L Tucker,,0,1,1,,,,31938231938
+2,Ireland,6,L Tucker,MJ Santner,C Campher,,0,0,0,,,,31938231938
+2,Ireland,6,L Tucker,MJ Santner,C Campher,,0,1,1,,,,31938231938
+2,Ireland,7,L Tucker,IS Sodhi,C Campher,,0,0,0,,,,31938231938
+2,Ireland,7,L Tucker,IS Sodhi,C Campher,,0,1,1,,,,31938231938
+2,Ireland,7,C Campher,IS Sodhi,L Tucker,,0,1,1,,,,31938231938
+2,Ireland,7,L Tucker,IS Sodhi,C Campher,,0,0,0,,,,31938231938
+2,Ireland,7,L Tucker,IS Sodhi,C Campher,,0,0,0,stumped,L Tucker,D Cleaver,31938231938
+2,Ireland,7,GH Dockrell,IS Sodhi,C Campher,,0,0,0,caught,GH Dockrell,JDS Neesham,31938231938
+2,Ireland,8,C Campher,MJ Santner,MR Adair,,0,4,4,,,,31938231938
+2,Ireland,8,C Campher,MJ Santner,MR Adair,,0,1,1,,,,31938231938
+2,Ireland,8,MR Adair,MJ Santner,C Campher,wides,1,1,0,,,,31938231938
+2,Ireland,8,MR Adair,MJ Santner,C Campher,wides,1,1,0,,,,31938231938
+2,Ireland,8,MR Adair,MJ Santner,C Campher,,0,0,0,,,,31938231938
+2,Ireland,8,MR Adair,MJ Santner,C Campher,,0,0,0,,,,31938231938
+2,Ireland,8,MR Adair,MJ Santner,C Campher,,0,0,0,,,,31938231938
+2,Ireland,8,MR Adair,MJ Santner,C Campher,,0,0,0,,,,31938231938
+2,Ireland,9,C Campher,IS Sodhi,MR Adair,,0,1,1,,,,31938231938
+2,Ireland,9,MR Adair,IS Sodhi,C Campher,,0,0,0,,,,31938231938
+2,Ireland,9,MR Adair,IS Sodhi,C Campher,,0,1,1,,,,31938231938
+2,Ireland,9,C Campher,IS Sodhi,MR Adair,,0,0,0,caught,C Campher,JDS Neesham,31938231938
+2,Ireland,9,BJ McCarthy,IS Sodhi,MR Adair,,0,1,1,,,,31938231938
+2,Ireland,9,MR Adair,IS Sodhi,BJ McCarthy,,0,1,1,,,,31938231938
+2,Ireland,10,MR Adair,MJ Santner,BJ McCarthy,,0,4,4,,,,31938231938
+2,Ireland,10,MR Adair,MJ Santner,BJ McCarthy,,0,0,0,,,,31938231938
+2,Ireland,10,MR Adair,MJ Santner,BJ McCarthy,,0,0,0,,,,31938231938
+2,Ireland,10,MR Adair,MJ Santner,BJ McCarthy,,0,1,1,,,,31938231938
+2,Ireland,10,BJ McCarthy,MJ Santner,MR Adair,,0,0,0,,,,31938231938
+2,Ireland,10,BJ McCarthy,MJ Santner,MR Adair,,0,0,0,,,,31938231938
+2,Ireland,11,MR Adair,IS Sodhi,BJ McCarthy,,0,0,0,,,,31938231938
+2,Ireland,11,MR Adair,IS Sodhi,BJ McCarthy,,0,4,4,,,,31938231938
+2,Ireland,11,MR Adair,IS Sodhi,BJ McCarthy,,0,4,4,,,,31938231938
+2,Ireland,11,MR Adair,IS Sodhi,BJ McCarthy,,0,6,6,,,,31938231938
+2,Ireland,11,MR Adair,IS Sodhi,BJ McCarthy,,0,0,0,,,,31938231938
+2,Ireland,11,MR Adair,IS Sodhi,BJ McCarthy,,0,1,1,,,,31938231938
+2,Ireland,12,MR Adair,JDS Neesham,BJ McCarthy,,0,1,1,,,,31938231938
+2,Ireland,12,BJ McCarthy,JDS Neesham,MR Adair,,0,4,4,,,,31938231938
+2,Ireland,12,BJ McCarthy,JDS Neesham,MR Adair,,0,1,1,,,,31938231938
+2,Ireland,12,MR Adair,JDS Neesham,BJ McCarthy,,0,0,0,,,,31938231938
+2,Ireland,12,MR Adair,JDS Neesham,BJ McCarthy,,0,0,0,,,,31938231938
+2,Ireland,12,MR Adair,JDS Neesham,BJ McCarthy,,0,4,4,,,,31938231938
+2,Ireland,13,BJ McCarthy,MG Bracewell,MR Adair,,0,4,4,,,,31938231938
+2,Ireland,13,BJ McCarthy,MG Bracewell,MR Adair,,0,1,1,,,,31938231938
+2,Ireland,13,MR Adair,MG Bracewell,BJ McCarthy,,0,0,0,caught,MR Adair,GD Phillips,31938231938
+2,Ireland,13,BJ McCarthy,MG Bracewell,CA Young,,0,0,0,caught,BJ McCarthy,GD Phillips,31938231938
+2,Ireland,13,CA Young,MG Bracewell,J Little,,0,0,0,caught,CA Young,IS Sodhi,31938231938

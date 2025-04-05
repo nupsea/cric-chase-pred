@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,West Indies,0,HK Matthews,DB Sharma,SACA King,,0,0,0,,,,31346231346
+1,West Indies,0,HK Matthews,DB Sharma,SACA King,,0,0,0,,,,31346231346
+1,West Indies,0,HK Matthews,DB Sharma,SACA King,,0,0,0,,,,31346231346
+1,West Indies,0,HK Matthews,DB Sharma,SACA King,,0,0,0,,,,31346231346
+1,West Indies,0,HK Matthews,DB Sharma,SACA King,,0,1,1,,,,31346231346
+1,West Indies,0,SACA King,DB Sharma,HK Matthews,,0,1,1,,,,31346231346
+1,West Indies,1,SACA King,S Pandey,HK Matthews,,0,0,0,,,,31346231346
+1,West Indies,1,SACA King,S Pandey,HK Matthews,,0,1,1,,,,31346231346
+1,West Indies,1,HK Matthews,S Pandey,SACA King,,0,1,1,,,,31346231346
+1,West Indies,1,SACA King,S Pandey,HK Matthews,,0,0,0,,,,31346231346
+1,West Indies,1,SACA King,S Pandey,HK Matthews,,0,1,1,,,,31346231346
+1,West Indies,1,HK Matthews,S Pandey,SACA King,,0,1,1,,,,31346231346
+1,West Indies,2,HK Matthews,DB Sharma,SACA King,,0,4,4,,,,31346231346
+1,West Indies,2,HK Matthews,DB Sharma,SACA King,,0,0,0,,,,31346231346
+1,West Indies,2,HK Matthews,DB Sharma,SACA King,,0,0,0,,,,31346231346
+1,West Indies,2,HK Matthews,DB Sharma,SACA King,,0,0,0,,,,31346231346
+1,West Indies,2,HK Matthews,DB Sharma,SACA King,,0,0,0,,,,31346231346
+1,West Indies,2,HK Matthews,DB Sharma,SACA King,,0,0,0,,,,31346231346
+1,West Indies,3,SACA King,S Pandey,HK Matthews,,0,4,4,,,,31346231346
+1,West Indies,3,SACA King,S Pandey,HK Matthews,,0,0,0,,,,31346231346
+1,West Indies,3,SACA King,S Pandey,HK Matthews,,0,0,0,,,,31346231346
+1,West Indies,3,SACA King,S Pandey,HK Matthews,,0,0,0,caught,SACA King,P Vastrakar,31346231346
+1,West Indies,3,SA Campbelle,S Pandey,HK Matthews,,0,0,0,,,,31346231346
+1,West Indies,3,SA Campbelle,S Pandey,HK Matthews,,0,0,0,,,,31346231346
+1,West Indies,4,HK Matthews,RP Yadav,SA Campbelle,,0,1,1,,,,31346231346
+1,West Indies,4,SA Campbelle,RP Yadav,HK Matthews,,0,0,0,,,,31346231346
+1,West Indies,4,SA Campbelle,RP Yadav,HK Matthews,,0,0,0,stumped,SA Campbelle,T Bhatia,31346231346
+1,West Indies,4,CN Nation,RP Yadav,HK Matthews,,0,2,2,,,,31346231346
+1,West Indies,4,CN Nation,RP Yadav,HK Matthews,,0,0,0,,,,31346231346
+1,West Indies,4,CN Nation,RP Yadav,HK Matthews,,0,0,0,,,,31346231346
+1,West Indies,5,HK Matthews,S Pandey,CN Nation,,0,1,1,,,,31346231346
+1,West Indies,5,CN Nation,S Pandey,HK Matthews,wides,1,1,0,,,,31346231346
+1,West Indies,5,CN Nation,S Pandey,HK Matthews,,0,0,0,,,,31346231346
+1,West Indies,5,CN Nation,S Pandey,HK Matthews,,0,0,0,,,,31346231346
+1,West Indies,5,CN Nation,S Pandey,HK Matthews,,0,0,0,,,,31346231346
+1,West Indies,5,CN Nation,S Pandey,HK Matthews,,0,1,1,,,,31346231346
+1,West Indies,5,HK Matthews,S Pandey,CN Nation,,0,0,0,,,,31346231346
+1,West Indies,6,CN Nation,Poonam Yadav,HK Matthews,,0,0,0,,,,31346231346
+1,West Indies,6,CN Nation,Poonam Yadav,HK Matthews,,0,1,1,,,,31346231346
+1,West Indies,6,HK Matthews,Poonam Yadav,CN Nation,,0,0,0,,,,31346231346
+1,West Indies,6,HK Matthews,Poonam Yadav,CN Nation,,0,0,0,,,,31346231346
+1,West Indies,6,HK Matthews,Poonam Yadav,CN Nation,,0,0,0,,,,31346231346
+1,West Indies,6,HK Matthews,Poonam Yadav,CN Nation,,0,1,1,,,,31346231346
+1,West Indies,7,HK Matthews,RP Yadav,CN Nation,,0,1,1,,,,31346231346
+1,West Indies,7,CN Nation,RP Yadav,HK Matthews,,0,0,0,,,,31346231346
+1,West Indies,7,CN Nation,RP Yadav,HK Matthews,,0,0,0,,,,31346231346
+1,West Indies,7,CN Nation,RP Yadav,HK Matthews,,0,4,4,,,,31346231346
+1,West Indies,7,CN Nation,RP Yadav,HK Matthews,,0,0,0,,,,31346231346
+1,West Indies,7,CN Nation,RP Yadav,HK Matthews,,0,0,0,,,,31346231346
+1,West Indies,8,HK Matthews,Poonam Yadav,CN Nation,,0,0,0,,,,31346231346
+1,West Indies,8,HK Matthews,Poonam Yadav,CN Nation,,0,1,1,,,,31346231346
+1,West Indies,8,CN Nation,Poonam Yadav,HK Matthews,,0,1,1,,,,31346231346
+1,West Indies,8,HK Matthews,Poonam Yadav,CN Nation,,0,0,0,,,,31346231346
+1,West Indies,8,HK Matthews,Poonam Yadav,CN Nation,,0,2,2,,,,31346231346
+1,West Indies,8,HK Matthews,Poonam Yadav,CN Nation,,0,1,1,,,,31346231346
+1,West Indies,9,HK Matthews,P Vastrakar,CN Nation,,0,0,0,,,,31346231346
+1,West Indies,9,HK Matthews,P Vastrakar,CN Nation,,0,1,1,,,,31346231346
+1,West Indies,9,CN Nation,P Vastrakar,HK Matthews,,0,1,1,,,,31346231346
+1,West Indies,9,HK Matthews,P Vastrakar,CN Nation,,0,1,1,,,,31346231346
+1,West Indies,9,CN Nation,P Vastrakar,HK Matthews,,0,2,2,,,,31346231346
+1,West Indies,9,CN Nation,P Vastrakar,HK Matthews,,0,1,1,,,,31346231346
+1,West Indies,10,CN Nation,H Kaur,HK Matthews,,0,0,0,,,,31346231346
+1,West Indies,10,CN Nation,H Kaur,HK Matthews,,0,1,1,,,,31346231346
+1,West Indies,10,HK Matthews,H Kaur,CN Nation,,0,0,0,,,,31346231346
+1,West Indies,10,HK Matthews,H Kaur,CN Nation,,0,1,1,,,,31346231346
+1,West Indies,10,CN Nation,H Kaur,HK Matthews,,0,0,0,,,,31346231346
+1,West Indies,10,CN Nation,H Kaur,HK Matthews,,0,4,4,,,,31346231346
+1,West Indies,11,HK Matthews,P Vastrakar,CN Nation,,0,0,0,,,,31346231346
+1,West Indies,11,HK Matthews,P Vastrakar,CN Nation,,0,4,4,,,,31346231346
+1,West Indies,11,HK Matthews,P Vastrakar,CN Nation,,0,1,1,,,,31346231346
+1,West Indies,11,HK Matthews,P Vastrakar,CN Nation,,0,0,0,caught,HK Matthews,V Krishnamurthy,31346231346
+1,West Indies,11,CN Nation,P Vastrakar,NY McLean,,0,1,1,,,,31346231346
+1,West Indies,11,NY McLean,P Vastrakar,CN Nation,wides,1,1,0,,,,31346231346
+1,West Indies,11,NY McLean,P Vastrakar,CN Nation,,0,0,0,,,,31346231346
+1,West Indies,12,CN Nation,RP Yadav,NY McLean,,0,1,1,,,,31346231346
+1,West Indies,12,NY McLean,RP Yadav,CN Nation,,0,0,0,,,,31346231346
+1,West Indies,12,NY McLean,RP Yadav,CN Nation,,0,0,0,,,,31346231346
+1,West Indies,12,NY McLean,RP Yadav,CN Nation,,0,6,6,,,,31346231346
+1,West Indies,12,NY McLean,RP Yadav,CN Nation,,0,1,1,,,,31346231346
+1,West Indies,12,CN Nation,RP Yadav,NY McLean,,0,0,0,,,,31346231346
+1,West Indies,13,NY McLean,P Vastrakar,CN Nation,,0,1,1,,,,31346231346
+1,West Indies,13,CN Nation,P Vastrakar,NY McLean,,0,1,1,,,,31346231346
+1,West Indies,13,NY McLean,P Vastrakar,CN Nation,,0,1,1,,,,31346231346
+1,West Indies,13,CN Nation,P Vastrakar,NY McLean,,0,2,2,,,,31346231346
+1,West Indies,13,CN Nation,P Vastrakar,NY McLean,,0,1,1,,,,31346231346
+1,West Indies,13,NY McLean,P Vastrakar,CN Nation,,0,4,4,,,,31346231346
+1,West Indies,14,CN Nation,Poonam Yadav,NY McLean,,0,1,1,,,,31346231346
+1,West Indies,14,NY McLean,Poonam Yadav,CN Nation,,0,0,0,,,,31346231346
+1,West Indies,14,NY McLean,Poonam Yadav,CN Nation,,0,1,1,,,,31346231346
+1,West Indies,14,CN Nation,Poonam Yadav,NY McLean,,0,1,1,,,,31346231346
+1,West Indies,14,NY McLean,Poonam Yadav,CN Nation,,0,1,1,,,,31346231346
+1,West Indies,14,CN Nation,Poonam Yadav,NY McLean,,0,0,0,,,,31346231346
+1,West Indies,15,NY McLean,S Pandey,CN Nation,,0,1,1,,,,31346231346
+1,West Indies,15,CN Nation,S Pandey,NY McLean,,0,0,0,,,,31346231346
+1,West Indies,15,CN Nation,S Pandey,NY McLean,,0,1,1,,,,31346231346
+1,West Indies,15,NY McLean,S Pandey,CN Nation,legbyes,1,1,0,,,,31346231346
+1,West Indies,15,CN Nation,S Pandey,NY McLean,,0,4,4,,,,31346231346
+1,West Indies,15,CN Nation,S Pandey,NY McLean,,0,1,1,,,,31346231346
+1,West Indies,16,CN Nation,DB Sharma,NY McLean,,0,0,0,caught,CN Nation,T Bhatia,31346231346
+1,West Indies,16,CA Henry,DB Sharma,NY McLean,,0,1,1,,,,31346231346
+1,West Indies,16,NY McLean,DB Sharma,CA Henry,,0,1,1,,,,31346231346
+1,West Indies,16,CA Henry,DB Sharma,NY McLean,,0,1,1,,,,31346231346
+1,West Indies,16,NY McLean,DB Sharma,CA Henry,,0,0,0,caught,NY McLean,S Mandhana,31346231346
+1,West Indies,16,CA Henry,DB Sharma,Kyshona A Knight,,0,0,0,,,,31346231346
+1,West Indies,17,Kyshona A Knight,RP Yadav,CA Henry,,0,1,1,,,,31346231346
+1,West Indies,17,CA Henry,RP Yadav,Kyshona A Knight,,0,1,1,,,,31346231346
+1,West Indies,17,Kyshona A Knight,RP Yadav,CA Henry,,0,0,0,,,,31346231346
+1,West Indies,17,Kyshona A Knight,RP Yadav,CA Henry,,0,1,1,,,,31346231346
+1,West Indies,17,CA Henry,RP Yadav,Kyshona A Knight,,0,1,1,,,,31346231346
+1,West Indies,17,Kyshona A Knight,RP Yadav,CA Henry,,0,0,0,,,,31346231346
+1,West Indies,18,CA Henry,Poonam Yadav,Kyshona A Knight,,0,2,2,,,,31346231346
+1,West Indies,18,CA Henry,Poonam Yadav,Kyshona A Knight,,0,1,1,,,,31346231346
+1,West Indies,18,Kyshona A Knight,Poonam Yadav,CA Henry,,0,4,4,,,,31346231346
+1,West Indies,18,Kyshona A Knight,Poonam Yadav,CA Henry,,0,1,1,,,,31346231346
+1,West Indies,18,CA Henry,Poonam Yadav,Kyshona A Knight,,0,1,1,,,,31346231346
+1,West Indies,18,Kyshona A Knight,Poonam Yadav,CA Henry,,0,1,1,,,,31346231346
+1,West Indies,19,Kyshona A Knight,DB Sharma,CA Henry,,0,0,0,,,,31346231346
+1,West Indies,19,Kyshona A Knight,DB Sharma,CA Henry,legbyes,3,3,0,,,,31346231346
+1,West Indies,19,CA Henry,DB Sharma,Kyshona A Knight,,0,0,0,stumped,CA Henry,T Bhatia,31346231346
+1,West Indies,19,SS Grimmond,DB Sharma,Kyshona A Knight,,0,0,0,caught,SS Grimmond,JI Rodrigues,31346231346
+1,West Indies,19,Kyshona A Knight,DB Sharma,AA Alleyne,legbyes,1,1,0,,,,31346231346
+1,West Indies,19,AA Alleyne,DB Sharma,Kyshona A Knight,,0,1,1,,,,31346231346

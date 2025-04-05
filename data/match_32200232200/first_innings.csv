@@ -1,0 +1,71 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Thailand,0,S Desungnoen,S Pradhan,N Nuntarach,,0,1,1,,,,32200232200
+1,Thailand,0,N Nuntarach,S Pradhan,S Desungnoen,,0,0,0,,,,32200232200
+1,Thailand,0,N Nuntarach,S Pradhan,S Desungnoen,,0,1,1,,,,32200232200
+1,Thailand,0,S Desungnoen,S Pradhan,N Nuntarach,,0,0,0,stumped,S Desungnoen,Manoj Adhikari,32200232200
+1,Thailand,0,P Suanchuai,S Pradhan,N Nuntarach,,0,1,1,,,,32200232200
+1,Thailand,0,N Nuntarach,S Pradhan,P Suanchuai,,0,0,0,,,,32200232200
+1,Thailand,1,P Suanchuai,T Jamtsho,N Nuntarach,,0,0,0,,,,32200232200
+1,Thailand,1,P Suanchuai,T Jamtsho,N Nuntarach,,0,0,0,,,,32200232200
+1,Thailand,1,P Suanchuai,T Jamtsho,N Nuntarach,,0,1,1,,,,32200232200
+1,Thailand,1,N Nuntarach,T Jamtsho,P Suanchuai,wides,1,1,0,,,,32200232200
+1,Thailand,1,N Nuntarach,T Jamtsho,P Suanchuai,,0,1,1,,,,32200232200
+1,Thailand,1,P Suanchuai,T Jamtsho,N Nuntarach,,0,0,0,,,,32200232200
+1,Thailand,1,P Suanchuai,T Jamtsho,N Nuntarach,,0,0,0,,,,32200232200
+1,Thailand,2,N Nuntarach,S Pradhan,P Suanchuai,,0,0,0,caught,N Nuntarach,GK Ghalley,32200232200
+1,Thailand,2,P Suanchuai,S Pradhan,C Pengkumta,,0,0,0,,,,32200232200
+1,Thailand,2,P Suanchuai,S Pradhan,C Pengkumta,,0,1,1,,,,32200232200
+1,Thailand,2,C Pengkumta,S Pradhan,P Suanchuai,,0,0,0,,,,32200232200
+1,Thailand,2,C Pengkumta,S Pradhan,P Suanchuai,wides,1,1,0,,,,32200232200
+1,Thailand,2,C Pengkumta,S Pradhan,P Suanchuai,,0,0,0,,,,32200232200
+1,Thailand,2,C Pengkumta,S Pradhan,P Suanchuai,,0,0,0,,,,32200232200
+1,Thailand,3,P Suanchuai,Namgay Thinley,C Pengkumta,,0,0,0,,,,32200232200
+1,Thailand,3,P Suanchuai,Namgay Thinley,C Pengkumta,,0,0,0,,,,32200232200
+1,Thailand,3,P Suanchuai,Namgay Thinley,C Pengkumta,,0,0,0,,,,32200232200
+1,Thailand,3,P Suanchuai,Namgay Thinley,C Pengkumta,,0,0,0,,,,32200232200
+1,Thailand,3,P Suanchuai,Namgay Thinley,C Pengkumta,,0,1,1,,,,32200232200
+1,Thailand,3,C Pengkumta,Namgay Thinley,P Suanchuai,,0,0,0,,,,32200232200
+1,Thailand,4,P Suanchuai,S Pradhan,C Pengkumta,,0,1,1,,,,32200232200
+1,Thailand,4,C Pengkumta,S Pradhan,P Suanchuai,,0,0,0,,,,32200232200
+1,Thailand,4,C Pengkumta,S Pradhan,P Suanchuai,,0,1,1,,,,32200232200
+1,Thailand,4,P Suanchuai,S Pradhan,C Pengkumta,,0,0,0,,,,32200232200
+1,Thailand,4,P Suanchuai,S Pradhan,C Pengkumta,wides,1,1,0,,,,32200232200
+1,Thailand,4,P Suanchuai,S Pradhan,C Pengkumta,,0,1,1,,,,32200232200
+1,Thailand,4,C Pengkumta,S Pradhan,P Suanchuai,,0,1,1,,,,32200232200
+1,Thailand,5,C Pengkumta,Namgay Thinley,P Suanchuai,,0,0,0,,,,32200232200
+1,Thailand,5,C Pengkumta,Namgay Thinley,P Suanchuai,,0,1,1,,,,32200232200
+1,Thailand,5,P Suanchuai,Namgay Thinley,C Pengkumta,,0,0,0,,,,32200232200
+1,Thailand,5,P Suanchuai,Namgay Thinley,C Pengkumta,,0,0,0,,,,32200232200
+1,Thailand,5,P Suanchuai,Namgay Thinley,C Pengkumta,,0,1,1,,,,32200232200
+1,Thailand,5,C Pengkumta,Namgay Thinley,P Suanchuai,,0,0,0,,,,32200232200
+1,Thailand,6,P Suanchuai,S Yeshi,C Pengkumta,,0,1,1,,,,32200232200
+1,Thailand,6,C Pengkumta,S Yeshi,P Suanchuai,,0,1,1,,,,32200232200
+1,Thailand,6,P Suanchuai,S Yeshi,C Pengkumta,,0,0,0,,,,32200232200
+1,Thailand,6,P Suanchuai,S Yeshi,C Pengkumta,,0,2,2,,,,32200232200
+1,Thailand,6,P Suanchuai,S Yeshi,C Pengkumta,,0,1,1,,,,32200232200
+1,Thailand,6,C Pengkumta,S Yeshi,P Suanchuai,,0,0,0,,,,32200232200
+1,Thailand,7,P Suanchuai,Ngawang Thinley,C Pengkumta,,0,0,0,,,,32200232200
+1,Thailand,7,P Suanchuai,Ngawang Thinley,C Pengkumta,,0,6,6,,,,32200232200
+1,Thailand,7,P Suanchuai,Ngawang Thinley,C Pengkumta,,0,0,0,caught,P Suanchuai,S Yeshi,32200232200
+1,Thailand,7,C Pengkumta,Ngawang Thinley,C Chatphaisan,,0,0,0,caught,C Pengkumta,T Jamtsho,32200232200
+1,Thailand,7,C Chatphaisan,Ngawang Thinley,Vichanath Singh,,0,1,1,,,,32200232200
+1,Thailand,7,Vichanath Singh,Ngawang Thinley,C Chatphaisan,,0,1,1,,,,32200232200
+1,Thailand,8,Vichanath Singh,S Yeshi,C Chatphaisan,,0,0,0,,,,32200232200
+1,Thailand,8,Vichanath Singh,S Yeshi,C Chatphaisan,,0,1,1,,,,32200232200
+1,Thailand,8,C Chatphaisan,S Yeshi,Vichanath Singh,,0,2,2,,,,32200232200
+1,Thailand,8,C Chatphaisan,S Yeshi,Vichanath Singh,,0,0,0,,,,32200232200
+1,Thailand,8,C Chatphaisan,S Yeshi,Vichanath Singh,,0,2,2,,,,32200232200
+1,Thailand,8,C Chatphaisan,S Yeshi,Vichanath Singh,,0,1,1,,,,32200232200
+1,Thailand,9,C Chatphaisan,Ngawang Thinley,Vichanath Singh,,0,2,2,,,,32200232200
+1,Thailand,9,C Chatphaisan,Ngawang Thinley,Vichanath Singh,,0,0,0,,,,32200232200
+1,Thailand,9,C Chatphaisan,Ngawang Thinley,Vichanath Singh,,0,0,0,lbw,C Chatphaisan,,32200232200
+1,Thailand,9,Y Saranonnakkun,Ngawang Thinley,Vichanath Singh,,0,1,1,,,,32200232200
+1,Thailand,9,Vichanath Singh,Ngawang Thinley,Y Saranonnakkun,,0,0,0,caught,Vichanath Singh,Namgay Thinley,32200232200
+1,Thailand,9,Y Saranonnakkun,Ngawang Thinley,K Senamontree,,0,2,2,,,,32200232200
+1,Thailand,10,K Senamontree,J Singye,Y Saranonnakkun,,0,2,2,,,,32200232200
+1,Thailand,10,K Senamontree,J Singye,Y Saranonnakkun,,0,1,1,run out,K Senamontree,Manoj Adhikari,32200232200
+1,Thailand,10,P Thongsa,J Singye,Y Saranonnakkun,wides,1,1,0,,,,32200232200
+1,Thailand,10,P Thongsa,J Singye,Y Saranonnakkun,,0,1,1,,,,32200232200
+1,Thailand,10,Y Saranonnakkun,J Singye,P Thongsa,,0,0,0,,,,32200232200
+1,Thailand,10,Y Saranonnakkun,J Singye,P Thongsa,,0,0,0,run out,P Thongsa,Manoj Adhikari,32200232200
+1,Thailand,10,J Pakhiaokajee,J Singye,Y Saranonnakkun,,0,4,4,,,,32200232200

@@ -1,0 +1,103 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Bangladesh,0,Mohammad Naim,TG Southee,Liton Das,,0,1,1,,,,31436231436
+2,Bangladesh,0,Liton Das,TG Southee,Mohammad Naim,,0,0,0,,,,31436231436
+2,Bangladesh,0,Liton Das,TG Southee,Mohammad Naim,,0,4,4,,,,31436231436
+2,Bangladesh,0,Liton Das,TG Southee,Mohammad Naim,,0,1,1,,,,31436231436
+2,Bangladesh,0,Mohammad Naim,TG Southee,Liton Das,,0,0,0,,,,31436231436
+2,Bangladesh,0,Mohammad Naim,TG Southee,Liton Das,,0,0,0,,,,31436231436
+2,Bangladesh,1,Liton Das,HK Bennett,Mohammad Naim,wides,1,1,0,,,,31436231436
+2,Bangladesh,1,Liton Das,HK Bennett,Mohammad Naim,,0,1,1,,,,31436231436
+2,Bangladesh,1,Mohammad Naim,HK Bennett,Liton Das,,0,4,4,,,,31436231436
+2,Bangladesh,1,Mohammad Naim,HK Bennett,Liton Das,,0,0,0,,,,31436231436
+2,Bangladesh,1,Mohammad Naim,HK Bennett,Liton Das,,0,0,0,,,,31436231436
+2,Bangladesh,1,Mohammad Naim,HK Bennett,Liton Das,,0,1,1,,,,31436231436
+2,Bangladesh,1,Liton Das,HK Bennett,Mohammad Naim,,0,0,0,caught,Liton Das,GD Phillips,31436231436
+2,Bangladesh,2,Soumya Sarkar,AF Milne,Mohammad Naim,,0,4,4,,,,31436231436
+2,Bangladesh,2,Soumya Sarkar,AF Milne,Mohammad Naim,,0,0,0,,,,31436231436
+2,Bangladesh,2,Soumya Sarkar,AF Milne,Mohammad Naim,,0,0,0,,,,31436231436
+2,Bangladesh,2,Soumya Sarkar,AF Milne,Mohammad Naim,,0,0,0,,,,31436231436
+2,Bangladesh,2,Soumya Sarkar,AF Milne,Mohammad Naim,,0,1,1,,,,31436231436
+2,Bangladesh,2,Mohammad Naim,AF Milne,Soumya Sarkar,,0,1,1,,,,31436231436
+2,Bangladesh,3,Mohammad Naim,HK Bennett,Soumya Sarkar,,0,0,0,,,,31436231436
+2,Bangladesh,3,Mohammad Naim,HK Bennett,Soumya Sarkar,,0,4,4,,,,31436231436
+2,Bangladesh,3,Mohammad Naim,HK Bennett,Soumya Sarkar,,0,4,4,,,,31436231436
+2,Bangladesh,3,Mohammad Naim,HK Bennett,Soumya Sarkar,,0,0,0,,,,31436231436
+2,Bangladesh,3,Mohammad Naim,HK Bennett,Soumya Sarkar,,0,1,1,,,,31436231436
+2,Bangladesh,3,Soumya Sarkar,HK Bennett,Mohammad Naim,,0,2,2,,,,31436231436
+2,Bangladesh,4,Mohammad Naim,TG Southee,Soumya Sarkar,,0,0,0,,,,31436231436
+2,Bangladesh,4,Mohammad Naim,TG Southee,Soumya Sarkar,,0,0,0,,,,31436231436
+2,Bangladesh,4,Mohammad Naim,TG Southee,Soumya Sarkar,,0,1,1,,,,31436231436
+2,Bangladesh,4,Soumya Sarkar,TG Southee,Mohammad Naim,,0,4,4,,,,31436231436
+2,Bangladesh,4,Soumya Sarkar,TG Southee,Mohammad Naim,,0,1,1,,,,31436231436
+2,Bangladesh,4,Mohammad Naim,TG Southee,Soumya Sarkar,,0,1,1,,,,31436231436
+2,Bangladesh,5,Mohammad Naim,IS Sodhi,Soumya Sarkar,wides,1,1,0,,,,31436231436
+2,Bangladesh,5,Mohammad Naim,IS Sodhi,Soumya Sarkar,,0,1,1,,,,31436231436
+2,Bangladesh,5,Soumya Sarkar,IS Sodhi,Mohammad Naim,,0,4,4,,,,31436231436
+2,Bangladesh,5,Soumya Sarkar,IS Sodhi,Mohammad Naim,,0,6,6,,,,31436231436
+2,Bangladesh,5,Soumya Sarkar,IS Sodhi,Mohammad Naim,,0,6,6,,,,31436231436
+2,Bangladesh,5,Soumya Sarkar,IS Sodhi,Mohammad Naim,,0,1,1,,,,31436231436
+2,Bangladesh,5,Mohammad Naim,IS Sodhi,Soumya Sarkar,,0,0,0,,,,31436231436
+2,Bangladesh,6,Soumya Sarkar,AF Milne,Mohammad Naim,,0,4,4,,,,31436231436
+2,Bangladesh,6,Soumya Sarkar,AF Milne,Mohammad Naim,noballs,1,7,6,,,,31436231436
+2,Bangladesh,6,Soumya Sarkar,AF Milne,Mohammad Naim,,0,1,1,,,,31436231436
+2,Bangladesh,6,Mohammad Naim,AF Milne,Soumya Sarkar,,0,2,2,,,,31436231436
+2,Bangladesh,6,Mohammad Naim,AF Milne,Soumya Sarkar,,0,4,4,,,,31436231436
+2,Bangladesh,6,Mohammad Naim,AF Milne,Soumya Sarkar,,0,0,0,,,,31436231436
+2,Bangladesh,6,Mohammad Naim,AF Milne,Soumya Sarkar,wides,1,1,0,,,,31436231436
+2,Bangladesh,6,Mohammad Naim,AF Milne,Soumya Sarkar,,0,1,1,,,,31436231436
+2,Bangladesh,7,Mohammad Naim,GD Phillips,Soumya Sarkar,,0,1,1,,,,31436231436
+2,Bangladesh,7,Soumya Sarkar,GD Phillips,Mohammad Naim,,0,0,0,,,,31436231436
+2,Bangladesh,7,Soumya Sarkar,GD Phillips,Mohammad Naim,,0,0,0,,,,31436231436
+2,Bangladesh,7,Soumya Sarkar,GD Phillips,Mohammad Naim,,0,1,1,,,,31436231436
+2,Bangladesh,7,Mohammad Naim,GD Phillips,Soumya Sarkar,,0,1,1,,,,31436231436
+2,Bangladesh,7,Soumya Sarkar,GD Phillips,Mohammad Naim,,0,1,1,,,,31436231436
+2,Bangladesh,8,Soumya Sarkar,IS Sodhi,Mohammad Naim,,0,0,0,,,,31436231436
+2,Bangladesh,8,Soumya Sarkar,IS Sodhi,Mohammad Naim,,0,1,1,,,,31436231436
+2,Bangladesh,8,Mohammad Naim,IS Sodhi,Soumya Sarkar,,0,2,2,,,,31436231436
+2,Bangladesh,8,Mohammad Naim,IS Sodhi,Soumya Sarkar,,0,1,1,,,,31436231436
+2,Bangladesh,8,Soumya Sarkar,IS Sodhi,Mohammad Naim,,0,0,0,,,,31436231436
+2,Bangladesh,8,Soumya Sarkar,IS Sodhi,Mohammad Naim,,0,1,1,,,,31436231436
+2,Bangladesh,9,Soumya Sarkar,GD Phillips,Mohammad Naim,,0,2,2,,,,31436231436
+2,Bangladesh,9,Soumya Sarkar,GD Phillips,Mohammad Naim,,0,4,4,,,,31436231436
+2,Bangladesh,9,Soumya Sarkar,GD Phillips,Mohammad Naim,,0,1,1,,,,31436231436
+2,Bangladesh,9,Mohammad Naim,GD Phillips,Soumya Sarkar,,0,0,0,,,,31436231436
+2,Bangladesh,9,Mohammad Naim,GD Phillips,Soumya Sarkar,,0,2,2,,,,31436231436
+2,Bangladesh,9,Mohammad Naim,GD Phillips,Soumya Sarkar,,0,0,0,,,,31436231436
+2,Bangladesh,10,Soumya Sarkar,TG Southee,Mohammad Naim,,0,0,0,caught,Soumya Sarkar,AF Milne,31436231436
+2,Bangladesh,10,Mohammad Naim,TG Southee,Mahmudullah,,0,3,3,,,,31436231436
+2,Bangladesh,10,Mahmudullah,TG Southee,Mohammad Naim,,0,1,1,,,,31436231436
+2,Bangladesh,10,Mohammad Naim,TG Southee,Mahmudullah,,0,2,2,,,,31436231436
+2,Bangladesh,10,Mohammad Naim,TG Southee,Mahmudullah,,0,0,0,,,,31436231436
+2,Bangladesh,10,Mohammad Naim,TG Southee,Mahmudullah,,0,0,0,,,,31436231436
+2,Bangladesh,11,Mahmudullah,IS Sodhi,Mohammad Naim,,0,0,0,,,,31436231436
+2,Bangladesh,11,Mahmudullah,IS Sodhi,Mohammad Naim,,0,0,0,,,,31436231436
+2,Bangladesh,11,Mahmudullah,IS Sodhi,Mohammad Naim,,0,0,0,,,,31436231436
+2,Bangladesh,11,Mahmudullah,IS Sodhi,Mohammad Naim,,0,4,4,,,,31436231436
+2,Bangladesh,11,Mahmudullah,IS Sodhi,Mohammad Naim,,0,4,4,,,,31436231436
+2,Bangladesh,11,Mahmudullah,IS Sodhi,Mohammad Naim,,0,2,2,,,,31436231436
+2,Bangladesh,12,Mohammad Naim,GD Phillips,Mahmudullah,,0,0,0,caught,Mohammad Naim,MJ Guptill,31436231436
+2,Bangladesh,12,Mahmudullah,GD Phillips,Afif Hossain,,0,1,1,,,,31436231436
+2,Bangladesh,12,Afif Hossain,GD Phillips,Mahmudullah,,0,1,1,,,,31436231436
+2,Bangladesh,12,Mahmudullah,GD Phillips,Afif Hossain,,0,1,1,,,,31436231436
+2,Bangladesh,12,Afif Hossain,GD Phillips,Mahmudullah,byes,1,1,0,,,,31436231436
+2,Bangladesh,12,Mahmudullah,GD Phillips,Afif Hossain,,0,4,4,,,,31436231436
+2,Bangladesh,13,Afif Hossain,AF Milne,Mahmudullah,,0,1,1,,,,31436231436
+2,Bangladesh,13,Mahmudullah,AF Milne,Afif Hossain,,0,4,4,,,,31436231436
+2,Bangladesh,13,Mahmudullah,AF Milne,Afif Hossain,,0,0,0,bowled,Mahmudullah,,31436231436
+2,Bangladesh,13,Mohammad Mithun,AF Milne,Afif Hossain,,0,1,1,,,,31436231436
+2,Bangladesh,13,Afif Hossain,AF Milne,Mohammad Mithun,,0,0,0,bowled,Afif Hossain,,31436231436
+2,Bangladesh,13,Mahedi Hasan,AF Milne,Mohammad Mithun,,0,2,2,,,,31436231436
+2,Bangladesh,14,Mohammad Mithun,TG Southee,Mahedi Hasan,,0,0,0,caught,Mohammad Mithun,DP Conway,31436231436
+2,Bangladesh,14,Mohammad Saifuddin,TG Southee,Mahedi Hasan,,0,0,0,,,,31436231436
+2,Bangladesh,14,Mohammad Saifuddin,TG Southee,Mahedi Hasan,,0,0,0,,,,31436231436
+2,Bangladesh,14,Mohammad Saifuddin,TG Southee,Mahedi Hasan,,0,1,1,,,,31436231436
+2,Bangladesh,14,Mahedi Hasan,TG Southee,Mohammad Saifuddin,legbyes,1,1,0,,,,31436231436
+2,Bangladesh,14,Mohammad Saifuddin,TG Southee,Mahedi Hasan,,0,1,1,,,,31436231436
+2,Bangladesh,15,Mohammad Saifuddin,HK Bennett,Mahedi Hasan,,0,1,1,,,,31436231436
+2,Bangladesh,15,Mahedi Hasan,HK Bennett,Mohammad Saifuddin,,0,6,6,,,,31436231436
+2,Bangladesh,15,Mahedi Hasan,HK Bennett,Mohammad Saifuddin,,0,1,1,,,,31436231436
+2,Bangladesh,15,Mohammad Saifuddin,HK Bennett,Mahedi Hasan,,0,0,0,caught,Mohammad Saifuddin,TG Southee,31436231436
+2,Bangladesh,15,Mahedi Hasan,HK Bennett,Taskin Ahmed,wides,1,1,0,,,,31436231436
+2,Bangladesh,15,Mahedi Hasan,HK Bennett,Taskin Ahmed,wides,1,1,0,,,,31436231436
+2,Bangladesh,15,Mahedi Hasan,HK Bennett,Taskin Ahmed,,0,2,2,,,,31436231436
+2,Bangladesh,15,Mahedi Hasan,HK Bennett,Taskin Ahmed,,0,1,1,,,,31436231436

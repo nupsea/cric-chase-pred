@@ -1,0 +1,126 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Papua New Guinea,0,TP Ura,LN Oluoch,A Vala,wides,1,1,0,,,,31310231310
+1,Papua New Guinea,0,TP Ura,LN Oluoch,A Vala,,0,0,0,,,,31310231310
+1,Papua New Guinea,0,TP Ura,LN Oluoch,A Vala,,0,2,2,,,,31310231310
+1,Papua New Guinea,0,TP Ura,LN Oluoch,A Vala,,0,0,0,,,,31310231310
+1,Papua New Guinea,0,TP Ura,LN Oluoch,A Vala,,0,0,0,,,,31310231310
+1,Papua New Guinea,0,TP Ura,LN Oluoch,A Vala,,0,1,1,,,,31310231310
+1,Papua New Guinea,0,A Vala,LN Oluoch,TP Ura,,0,2,2,,,,31310231310
+1,Papua New Guinea,1,TP Ura,EB Ringera,A Vala,wides,1,1,0,,,,31310231310
+1,Papua New Guinea,1,TP Ura,EB Ringera,A Vala,,0,0,0,caught,TP Ura,SO Ngoche,31310231310
+1,Papua New Guinea,1,L Siaka,EB Ringera,A Vala,,0,4,4,,,,31310231310
+1,Papua New Guinea,1,L Siaka,EB Ringera,A Vala,,0,1,1,,,,31310231310
+1,Papua New Guinea,1,A Vala,EB Ringera,L Siaka,,0,0,0,lbw,A Vala,,31310231310
+1,Papua New Guinea,1,CJA Amini,EB Ringera,L Siaka,,0,0,0,caught,CJA Amini,IA Karim,31310231310
+1,Papua New Guinea,1,S Bau,EB Ringera,L Siaka,,0,0,0,,,,31310231310
+1,Papua New Guinea,2,L Siaka,LN Oluoch,S Bau,,0,0,0,caught,L Siaka,CO Obuya,31310231310
+1,Papua New Guinea,2,R Hekure,LN Oluoch,S Bau,,0,0,0,,,,31310231310
+1,Papua New Guinea,2,R Hekure,LN Oluoch,S Bau,,0,1,1,,,,31310231310
+1,Papua New Guinea,2,S Bau,LN Oluoch,R Hekure,,0,1,1,,,,31310231310
+1,Papua New Guinea,2,R Hekure,LN Oluoch,S Bau,,0,0,0,caught,R Hekure,IA Karim,31310231310
+1,Papua New Guinea,2,K Doriga,LN Oluoch,S Bau,,0,1,1,,,,31310231310
+1,Papua New Guinea,3,K Doriga,EB Ringera,S Bau,,0,0,0,,,,31310231310
+1,Papua New Guinea,3,K Doriga,EB Ringera,S Bau,,0,0,0,,,,31310231310
+1,Papua New Guinea,3,K Doriga,EB Ringera,S Bau,,0,3,3,,,,31310231310
+1,Papua New Guinea,3,S Bau,EB Ringera,K Doriga,,0,0,0,,,,31310231310
+1,Papua New Guinea,3,S Bau,EB Ringera,K Doriga,,0,1,1,,,,31310231310
+1,Papua New Guinea,3,K Doriga,EB Ringera,S Bau,,0,0,0,caught,K Doriga,IA Karim,31310231310
+1,Papua New Guinea,4,S Bau,LN Oluoch,N Vanua,,0,0,0,,,,31310231310
+1,Papua New Guinea,4,S Bau,LN Oluoch,N Vanua,,0,0,0,,,,31310231310
+1,Papua New Guinea,4,S Bau,LN Oluoch,N Vanua,,0,0,0,,,,31310231310
+1,Papua New Guinea,4,S Bau,LN Oluoch,N Vanua,,0,0,0,,,,31310231310
+1,Papua New Guinea,4,S Bau,LN Oluoch,N Vanua,,0,1,1,,,,31310231310
+1,Papua New Guinea,4,N Vanua,LN Oluoch,S Bau,,0,1,1,,,,31310231310
+1,Papua New Guinea,5,N Vanua,EB Ringera,S Bau,,0,0,0,,,,31310231310
+1,Papua New Guinea,5,N Vanua,EB Ringera,S Bau,,0,0,0,,,,31310231310
+1,Papua New Guinea,5,N Vanua,EB Ringera,S Bau,,0,1,1,,,,31310231310
+1,Papua New Guinea,5,S Bau,EB Ringera,N Vanua,,0,0,0,,,,31310231310
+1,Papua New Guinea,5,S Bau,EB Ringera,N Vanua,,0,0,0,,,,31310231310
+1,Papua New Guinea,5,S Bau,EB Ringera,N Vanua,,0,0,0,,,,31310231310
+1,Papua New Guinea,6,N Vanua,LN Oluoch,S Bau,,0,0,0,,,,31310231310
+1,Papua New Guinea,6,N Vanua,LN Oluoch,S Bau,legbyes,1,1,0,,,,31310231310
+1,Papua New Guinea,6,S Bau,LN Oluoch,N Vanua,,0,0,0,,,,31310231310
+1,Papua New Guinea,6,S Bau,LN Oluoch,N Vanua,,0,0,0,,,,31310231310
+1,Papua New Guinea,6,S Bau,LN Oluoch,N Vanua,,0,0,0,,,,31310231310
+1,Papua New Guinea,6,S Bau,LN Oluoch,N Vanua,,0,4,4,,,,31310231310
+1,Papua New Guinea,7,N Vanua,SR Bhudia,S Bau,wides,1,1,0,,,,31310231310
+1,Papua New Guinea,7,N Vanua,SR Bhudia,S Bau,wides,1,1,0,,,,31310231310
+1,Papua New Guinea,7,N Vanua,SR Bhudia,S Bau,,0,0,0,,,,31310231310
+1,Papua New Guinea,7,N Vanua,SR Bhudia,S Bau,,0,0,0,,,,31310231310
+1,Papua New Guinea,7,N Vanua,SR Bhudia,S Bau,,0,0,0,,,,31310231310
+1,Papua New Guinea,7,N Vanua,SR Bhudia,S Bau,,0,2,2,,,,31310231310
+1,Papua New Guinea,7,N Vanua,SR Bhudia,S Bau,,0,0,0,,,,31310231310
+1,Papua New Guinea,7,N Vanua,SR Bhudia,S Bau,,0,1,1,,,,31310231310
+1,Papua New Guinea,8,N Vanua,SO Ngoche,S Bau,,0,1,1,,,,31310231310
+1,Papua New Guinea,8,S Bau,SO Ngoche,N Vanua,,0,0,0,,,,31310231310
+1,Papua New Guinea,8,S Bau,SO Ngoche,N Vanua,,0,1,1,,,,31310231310
+1,Papua New Guinea,8,N Vanua,SO Ngoche,S Bau,,0,0,0,,,,31310231310
+1,Papua New Guinea,8,N Vanua,SO Ngoche,S Bau,,0,0,0,,,,31310231310
+1,Papua New Guinea,8,N Vanua,SO Ngoche,S Bau,,0,1,1,,,,31310231310
+1,Papua New Guinea,9,N Vanua,SR Bhudia,S Bau,,0,0,0,,,,31310231310
+1,Papua New Guinea,9,N Vanua,SR Bhudia,S Bau,,0,1,1,,,,31310231310
+1,Papua New Guinea,9,S Bau,SR Bhudia,N Vanua,,0,2,2,,,,31310231310
+1,Papua New Guinea,9,S Bau,SR Bhudia,N Vanua,,0,1,1,,,,31310231310
+1,Papua New Guinea,9,N Vanua,SR Bhudia,S Bau,,0,4,4,,,,31310231310
+1,Papua New Guinea,9,N Vanua,SR Bhudia,S Bau,,0,1,1,,,,31310231310
+1,Papua New Guinea,10,N Vanua,CO Obuya,S Bau,,0,1,1,,,,31310231310
+1,Papua New Guinea,10,S Bau,CO Obuya,N Vanua,,0,1,1,,,,31310231310
+1,Papua New Guinea,10,N Vanua,CO Obuya,S Bau,,0,0,0,,,,31310231310
+1,Papua New Guinea,10,N Vanua,CO Obuya,S Bau,,0,2,2,,,,31310231310
+1,Papua New Guinea,10,N Vanua,CO Obuya,S Bau,,0,0,0,,,,31310231310
+1,Papua New Guinea,10,N Vanua,CO Obuya,S Bau,,0,1,1,,,,31310231310
+1,Papua New Guinea,11,N Vanua,JS Kundi,S Bau,,0,1,1,,,,31310231310
+1,Papua New Guinea,11,S Bau,JS Kundi,N Vanua,,0,1,1,,,,31310231310
+1,Papua New Guinea,11,N Vanua,JS Kundi,S Bau,,0,2,2,,,,31310231310
+1,Papua New Guinea,11,N Vanua,JS Kundi,S Bau,,0,0,0,,,,31310231310
+1,Papua New Guinea,11,N Vanua,JS Kundi,S Bau,,0,1,1,,,,31310231310
+1,Papua New Guinea,11,S Bau,JS Kundi,N Vanua,,0,1,1,,,,31310231310
+1,Papua New Guinea,12,S Bau,SO Ngoche,N Vanua,,0,1,1,,,,31310231310
+1,Papua New Guinea,12,N Vanua,SO Ngoche,S Bau,,0,6,6,,,,31310231310
+1,Papua New Guinea,12,N Vanua,SO Ngoche,S Bau,,0,1,1,,,,31310231310
+1,Papua New Guinea,12,S Bau,SO Ngoche,N Vanua,,0,0,0,,,,31310231310
+1,Papua New Guinea,12,S Bau,SO Ngoche,N Vanua,,0,0,0,,,,31310231310
+1,Papua New Guinea,12,S Bau,SO Ngoche,N Vanua,,0,0,0,,,,31310231310
+1,Papua New Guinea,13,N Vanua,EB Ringera,S Bau,,0,2,2,,,,31310231310
+1,Papua New Guinea,13,N Vanua,EB Ringera,S Bau,,0,2,2,,,,31310231310
+1,Papua New Guinea,13,N Vanua,EB Ringera,S Bau,,0,0,0,,,,31310231310
+1,Papua New Guinea,13,N Vanua,EB Ringera,S Bau,,0,0,0,,,,31310231310
+1,Papua New Guinea,13,N Vanua,EB Ringera,S Bau,,0,2,2,,,,31310231310
+1,Papua New Guinea,13,N Vanua,EB Ringera,S Bau,,0,1,1,,,,31310231310
+1,Papua New Guinea,14,N Vanua,P Kerai,S Bau,,0,2,2,,,,31310231310
+1,Papua New Guinea,14,N Vanua,P Kerai,S Bau,,0,6,6,,,,31310231310
+1,Papua New Guinea,14,N Vanua,P Kerai,S Bau,,0,0,0,,,,31310231310
+1,Papua New Guinea,14,N Vanua,P Kerai,S Bau,,0,1,1,,,,31310231310
+1,Papua New Guinea,14,S Bau,P Kerai,N Vanua,,0,1,1,,,,31310231310
+1,Papua New Guinea,14,N Vanua,P Kerai,S Bau,,0,1,1,,,,31310231310
+1,Papua New Guinea,15,N Vanua,SR Bhudia,S Bau,,0,4,4,,,,31310231310
+1,Papua New Guinea,15,N Vanua,SR Bhudia,S Bau,,0,0,0,,,,31310231310
+1,Papua New Guinea,15,N Vanua,SR Bhudia,S Bau,,0,4,4,,,,31310231310
+1,Papua New Guinea,15,N Vanua,SR Bhudia,S Bau,,0,1,1,,,,31310231310
+1,Papua New Guinea,15,S Bau,SR Bhudia,N Vanua,,0,0,0,,,,31310231310
+1,Papua New Guinea,15,S Bau,SR Bhudia,N Vanua,,0,1,1,,,,31310231310
+1,Papua New Guinea,16,S Bau,CO Obuya,N Vanua,,0,0,0,,,,31310231310
+1,Papua New Guinea,16,S Bau,CO Obuya,N Vanua,wides,5,5,0,,,,31310231310
+1,Papua New Guinea,16,S Bau,CO Obuya,N Vanua,,0,0,0,,,,31310231310
+1,Papua New Guinea,16,S Bau,CO Obuya,N Vanua,,0,0,0,caught,S Bau,JS Kundi,31310231310
+1,Papua New Guinea,16,N Vanua,CO Obuya,J Kila,,0,0,0,,,,31310231310
+1,Papua New Guinea,16,N Vanua,CO Obuya,J Kila,,0,0,0,caught,N Vanua,LN Oluoch,31310231310
+1,Papua New Guinea,16,D Ravu,CO Obuya,J Kila,wides,1,1,0,,,,31310231310
+1,Papua New Guinea,16,D Ravu,CO Obuya,J Kila,,0,0,0,,,,31310231310
+1,Papua New Guinea,17,J Kila,SO Ngoche,D Ravu,wides,1,1,0,,,,31310231310
+1,Papua New Guinea,17,J Kila,SO Ngoche,D Ravu,,0,0,0,,,,31310231310
+1,Papua New Guinea,17,J Kila,SO Ngoche,D Ravu,,0,0,0,run out,D Ravu,,31310231310
+1,Papua New Guinea,17,N Pokana,SO Ngoche,J Kila,,0,0,0,,,,31310231310
+1,Papua New Guinea,17,N Pokana,SO Ngoche,J Kila,,0,1,1,,,,31310231310
+1,Papua New Guinea,17,J Kila,SO Ngoche,N Pokana,,0,6,6,,,,31310231310
+1,Papua New Guinea,17,J Kila,SO Ngoche,N Pokana,,0,0,0,,,,31310231310
+1,Papua New Guinea,18,N Pokana,CO Obuya,J Kila,,0,0,0,,,,31310231310
+1,Papua New Guinea,18,N Pokana,CO Obuya,J Kila,,0,2,2,,,,31310231310
+1,Papua New Guinea,18,N Pokana,CO Obuya,J Kila,,0,2,2,,,,31310231310
+1,Papua New Guinea,18,N Pokana,CO Obuya,J Kila,wides,1,1,0,,,,31310231310
+1,Papua New Guinea,18,N Pokana,CO Obuya,J Kila,,0,0,0,,,,31310231310
+1,Papua New Guinea,18,N Pokana,CO Obuya,J Kila,,0,1,1,,,,31310231310
+1,Papua New Guinea,18,J Kila,CO Obuya,N Pokana,,0,0,0,,,,31310231310
+1,Papua New Guinea,19,N Pokana,SO Ngoche,J Kila,,0,1,1,,,,31310231310
+1,Papua New Guinea,19,J Kila,SO Ngoche,N Pokana,,0,6,6,,,,31310231310
+1,Papua New Guinea,19,J Kila,SO Ngoche,N Pokana,,0,0,0,bowled,J Kila,,31310231310

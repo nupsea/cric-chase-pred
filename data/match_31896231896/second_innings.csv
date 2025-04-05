@@ -1,0 +1,80 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Kenya,0,Q Abel,Salma Khatun,V Abuga,wides,1,1,0,,,,31896231896
+2,Kenya,0,Q Abel,Salma Khatun,V Abuga,,0,0,0,,,,31896231896
+2,Kenya,0,Q Abel,Salma Khatun,V Abuga,,0,4,4,,,,31896231896
+2,Kenya,0,Q Abel,Salma Khatun,V Abuga,,0,1,1,,,,31896231896
+2,Kenya,0,V Abuga,Salma Khatun,Q Abel,,0,0,0,caught,V Abuga,Shamima Sultana,31896231896
+2,Kenya,0,M Ngoche,Salma Khatun,Q Abel,,0,0,0,,,,31896231896
+2,Kenya,0,M Ngoche,Salma Khatun,Q Abel,,0,2,2,,,,31896231896
+2,Kenya,1,Q Abel,Suraiya Azmin,M Ngoche,,0,0,0,,,,31896231896
+2,Kenya,1,Q Abel,Suraiya Azmin,M Ngoche,,0,4,4,,,,31896231896
+2,Kenya,1,Q Abel,Suraiya Azmin,M Ngoche,,0,0,0,,,,31896231896
+2,Kenya,1,Q Abel,Suraiya Azmin,M Ngoche,,0,0,0,,,,31896231896
+2,Kenya,1,Q Abel,Suraiya Azmin,M Ngoche,,0,0,0,bowled,Q Abel,,31896231896
+2,Kenya,1,SW Kinyua,Suraiya Azmin,M Ngoche,,0,0,0,,,,31896231896
+2,Kenya,2,M Ngoche,Salma Khatun,SW Kinyua,,0,0,0,,,,31896231896
+2,Kenya,2,M Ngoche,Salma Khatun,SW Kinyua,,0,0,0,,,,31896231896
+2,Kenya,2,M Ngoche,Salma Khatun,SW Kinyua,,0,0,0,run out,SW Kinyua,Murshida Khatun,31896231896
+2,Kenya,2,S Juma,Salma Khatun,M Ngoche,,0,1,1,,,,31896231896
+2,Kenya,2,M Ngoche,Salma Khatun,S Juma,,0,0,0,,,,31896231896
+2,Kenya,2,M Ngoche,Salma Khatun,S Juma,,0,1,1,,,,31896231896
+2,Kenya,3,M Ngoche,Suraiya Azmin,S Juma,,0,0,0,,,,31896231896
+2,Kenya,3,M Ngoche,Suraiya Azmin,S Juma,,0,0,0,,,,31896231896
+2,Kenya,3,M Ngoche,Suraiya Azmin,S Juma,,0,0,0,,,,31896231896
+2,Kenya,3,M Ngoche,Suraiya Azmin,S Juma,wides,1,1,0,,,,31896231896
+2,Kenya,3,M Ngoche,Suraiya Azmin,S Juma,,0,0,0,,,,31896231896
+2,Kenya,3,M Ngoche,Suraiya Azmin,S Juma,,0,0,0,,,,31896231896
+2,Kenya,3,M Ngoche,Suraiya Azmin,S Juma,,0,0,0,,,,31896231896
+2,Kenya,4,S Juma,Salma Khatun,M Ngoche,,0,0,0,,,,31896231896
+2,Kenya,4,S Juma,Salma Khatun,M Ngoche,,0,4,4,,,,31896231896
+2,Kenya,4,S Juma,Salma Khatun,M Ngoche,,0,0,0,,,,31896231896
+2,Kenya,4,S Juma,Salma Khatun,M Ngoche,,0,1,1,,,,31896231896
+2,Kenya,4,M Ngoche,Salma Khatun,S Juma,,0,0,0,,,,31896231896
+2,Kenya,4,M Ngoche,Salma Khatun,S Juma,,0,0,0,,,,31896231896
+2,Kenya,5,S Juma,Rumana Ahmed,M Ngoche,,0,1,1,,,,31896231896
+2,Kenya,5,M Ngoche,Rumana Ahmed,S Juma,,0,0,0,,,,31896231896
+2,Kenya,5,M Ngoche,Rumana Ahmed,S Juma,,0,0,0,,,,31896231896
+2,Kenya,5,M Ngoche,Rumana Ahmed,S Juma,,0,1,1,,,,31896231896
+2,Kenya,5,S Juma,Rumana Ahmed,M Ngoche,,0,1,1,,,,31896231896
+2,Kenya,5,M Ngoche,Rumana Ahmed,S Juma,,0,0,0,,,,31896231896
+2,Kenya,6,S Juma,Nahida Akter,M Ngoche,,0,4,4,,,,31896231896
+2,Kenya,6,S Juma,Nahida Akter,M Ngoche,,0,0,0,,,,31896231896
+2,Kenya,6,S Juma,Nahida Akter,M Ngoche,,0,1,1,,,,31896231896
+2,Kenya,6,M Ngoche,Nahida Akter,S Juma,,0,0,0,lbw,M Ngoche,,31896231896
+2,Kenya,6,S Wetoto,Nahida Akter,S Juma,,0,0,0,,,,31896231896
+2,Kenya,6,S Wetoto,Nahida Akter,S Juma,,0,0,0,,,,31896231896
+2,Kenya,7,S Juma,Rumana Ahmed,S Wetoto,,0,1,1,,,,31896231896
+2,Kenya,7,S Wetoto,Rumana Ahmed,S Juma,,0,4,4,,,,31896231896
+2,Kenya,7,S Wetoto,Rumana Ahmed,S Juma,,0,0,0,,,,31896231896
+2,Kenya,7,S Wetoto,Rumana Ahmed,S Juma,,0,0,0,,,,31896231896
+2,Kenya,7,S Wetoto,Rumana Ahmed,S Juma,,0,0,0,,,,31896231896
+2,Kenya,7,S Wetoto,Rumana Ahmed,S Juma,,0,0,0,caught,S Wetoto,Nigar Sultana,31896231896
+2,Kenya,8,E Wachira,Nahida Akter,S Juma,,0,0,0,,,,31896231896
+2,Kenya,8,E Wachira,Nahida Akter,S Juma,,0,0,0,bowled,E Wachira,,31896231896
+2,Kenya,8,M Ochieng,Nahida Akter,S Juma,,0,0,0,,,,31896231896
+2,Kenya,8,M Ochieng,Nahida Akter,S Juma,,0,0,0,bowled,M Ochieng,,31896231896
+2,Kenya,8,V Ooko,Nahida Akter,S Juma,,0,0,0,,,,31896231896
+2,Kenya,8,V Ooko,Nahida Akter,S Juma,,0,0,0,,,,31896231896
+2,Kenya,9,S Juma,Sanjida Akter Meghla,V Ooko,,0,0,0,,,,31896231896
+2,Kenya,9,S Juma,Sanjida Akter Meghla,V Ooko,,0,0,0,,,,31896231896
+2,Kenya,9,S Juma,Sanjida Akter Meghla,V Ooko,,0,1,1,,,,31896231896
+2,Kenya,9,V Ooko,Sanjida Akter Meghla,S Juma,,0,0,0,,,,31896231896
+2,Kenya,9,V Ooko,Sanjida Akter Meghla,S Juma,,0,0,0,,,,31896231896
+2,Kenya,9,V Ooko,Sanjida Akter Meghla,S Juma,,0,0,0,,,,31896231896
+2,Kenya,10,S Juma,Nahida Akter,V Ooko,,0,4,4,,,,31896231896
+2,Kenya,10,S Juma,Nahida Akter,V Ooko,,0,0,0,,,,31896231896
+2,Kenya,10,S Juma,Nahida Akter,V Ooko,,0,1,1,,,,31896231896
+2,Kenya,10,V Ooko,Nahida Akter,S Juma,,0,0,0,bowled,V Ooko,,31896231896
+2,Kenya,10,R Achando,Nahida Akter,S Juma,,0,0,0,,,,31896231896
+2,Kenya,10,R Achando,Nahida Akter,S Juma,,0,0,0,,,,31896231896
+2,Kenya,11,S Juma,Sanjida Akter Meghla,R Achando,,0,4,4,,,,31896231896
+2,Kenya,11,S Juma,Sanjida Akter Meghla,R Achando,,0,0,0,,,,31896231896
+2,Kenya,11,S Juma,Sanjida Akter Meghla,R Achando,,0,0,0,bowled,S Juma,,31896231896
+2,Kenya,11,L Idambo,Sanjida Akter Meghla,R Achando,,0,0,0,,,,31896231896
+2,Kenya,11,L Idambo,Sanjida Akter Meghla,R Achando,,0,0,0,,,,31896231896
+2,Kenya,11,L Idambo,Sanjida Akter Meghla,R Achando,,0,0,0,,,,31896231896
+2,Kenya,12,R Achando,Nahida Akter,L Idambo,,0,0,0,,,,31896231896
+2,Kenya,12,R Achando,Nahida Akter,L Idambo,,0,0,0,,,,31896231896
+2,Kenya,12,R Achando,Nahida Akter,L Idambo,,0,1,1,,,,31896231896
+2,Kenya,12,L Idambo,Nahida Akter,R Achando,wides,1,1,0,,,,31896231896
+2,Kenya,12,L Idambo,Nahida Akter,R Achando,,0,0,0,caught and bowled,L Idambo,,31896231896

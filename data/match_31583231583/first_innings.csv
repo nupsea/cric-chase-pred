@@ -1,0 +1,117 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Norway,0,Raza Iqbal,Sajid Liaqat,Faizan Mumtaz,wides,1,1,0,,,,31583231583
+1,Norway,0,Raza Iqbal,Sajid Liaqat,Faizan Mumtaz,,0,0,0,,,,31583231583
+1,Norway,0,Raza Iqbal,Sajid Liaqat,Faizan Mumtaz,,0,0,0,,,,31583231583
+1,Norway,0,Raza Iqbal,Sajid Liaqat,Faizan Mumtaz,,0,0,0,,,,31583231583
+1,Norway,0,Raza Iqbal,Sajid Liaqat,Faizan Mumtaz,,0,1,1,,,,31583231583
+1,Norway,0,Faizan Mumtaz,Sajid Liaqat,Raza Iqbal,,0,0,0,,,,31583231583
+1,Norway,0,Faizan Mumtaz,Sajid Liaqat,Raza Iqbal,,0,0,0,run out,Raza Iqbal,SVE Bharathi,31583231583
+1,Norway,1,Faizan Mumtaz,Ghulam Ahmadi,E Ul Haq,,0,0,0,,,,31583231583
+1,Norway,1,Faizan Mumtaz,Ghulam Ahmadi,E Ul Haq,,0,0,0,,,,31583231583
+1,Norway,1,Faizan Mumtaz,Ghulam Ahmadi,E Ul Haq,,0,0,0,stumped,Faizan Mumtaz,H Srinivasan,31583231583
+1,Norway,1,D Abeyrathna,Ghulam Ahmadi,E Ul Haq,,0,0,0,,,,31583231583
+1,Norway,1,D Abeyrathna,Ghulam Ahmadi,E Ul Haq,,0,0,0,,,,31583231583
+1,Norway,1,D Abeyrathna,Ghulam Ahmadi,E Ul Haq,,0,0,0,,,,31583231583
+1,Norway,2,E Ul Haq,Sajid Liaqat,D Abeyrathna,wides,1,1,0,,,,31583231583
+1,Norway,2,E Ul Haq,Sajid Liaqat,D Abeyrathna,,0,0,0,,,,31583231583
+1,Norway,2,E Ul Haq,Sajid Liaqat,D Abeyrathna,,0,0,0,caught,E Ul Haq,V Ganesan,31583231583
+1,Norway,2,Bilal Safdar,Sajid Liaqat,D Abeyrathna,,0,0,0,,,,31583231583
+1,Norway,2,Bilal Safdar,Sajid Liaqat,D Abeyrathna,,0,1,1,,,,31583231583
+1,Norway,2,D Abeyrathna,Sajid Liaqat,Bilal Safdar,,0,0,0,,,,31583231583
+1,Norway,2,D Abeyrathna,Sajid Liaqat,Bilal Safdar,,0,2,2,,,,31583231583
+1,Norway,3,Bilal Safdar,Ghulam Ahmadi,D Abeyrathna,,0,0,0,caught,Bilal Safdar,V Ganesan,31583231583
+1,Norway,3,S Waqas Ahmed,Ghulam Ahmadi,D Abeyrathna,,0,0,0,,,,31583231583
+1,Norway,3,S Waqas Ahmed,Ghulam Ahmadi,D Abeyrathna,,0,0,0,,,,31583231583
+1,Norway,3,S Waqas Ahmed,Ghulam Ahmadi,D Abeyrathna,,0,0,0,,,,31583231583
+1,Norway,3,S Waqas Ahmed,Ghulam Ahmadi,D Abeyrathna,,0,0,0,,,,31583231583
+1,Norway,3,S Waqas Ahmed,Ghulam Ahmadi,D Abeyrathna,,0,3,3,,,,31583231583
+1,Norway,4,S Waqas Ahmed,SVE Bharathi,D Abeyrathna,,0,0,0,caught,S Waqas Ahmed,H Srinivasan,31583231583
+1,Norway,4,P Bhart,SVE Bharathi,D Abeyrathna,,0,0,0,,,,31583231583
+1,Norway,4,P Bhart,SVE Bharathi,D Abeyrathna,,0,0,0,,,,31583231583
+1,Norway,4,P Bhart,SVE Bharathi,D Abeyrathna,,0,0,0,,,,31583231583
+1,Norway,4,P Bhart,SVE Bharathi,D Abeyrathna,,0,0,0,,,,31583231583
+1,Norway,4,P Bhart,SVE Bharathi,D Abeyrathna,,0,1,1,,,,31583231583
+1,Norway,5,P Bhart,Ghulam Ahmadi,D Abeyrathna,,0,1,1,,,,31583231583
+1,Norway,5,D Abeyrathna,Ghulam Ahmadi,P Bhart,,0,1,1,,,,31583231583
+1,Norway,5,P Bhart,Ghulam Ahmadi,D Abeyrathna,,0,0,0,,,,31583231583
+1,Norway,5,P Bhart,Ghulam Ahmadi,D Abeyrathna,,0,0,0,caught,P Bhart,V Ganesan,31583231583
+1,Norway,5,Usman Arif,Ghulam Ahmadi,D Abeyrathna,,0,0,0,,,,31583231583
+1,Norway,5,Usman Arif,Ghulam Ahmadi,D Abeyrathna,,0,0,0,,,,31583231583
+1,Norway,6,D Abeyrathna,SVE Bharathi,Usman Arif,,0,0,0,,,,31583231583
+1,Norway,6,D Abeyrathna,SVE Bharathi,Usman Arif,,0,0,0,,,,31583231583
+1,Norway,6,D Abeyrathna,SVE Bharathi,Usman Arif,,0,0,0,,,,31583231583
+1,Norway,6,D Abeyrathna,SVE Bharathi,Usman Arif,,0,0,0,,,,31583231583
+1,Norway,6,D Abeyrathna,SVE Bharathi,Usman Arif,,0,0,0,,,,31583231583
+1,Norway,6,D Abeyrathna,SVE Bharathi,Usman Arif,,0,0,0,,,,31583231583
+1,Norway,7,Usman Arif,Ghulam Ahmadi,D Abeyrathna,,0,0,0,caught,Usman Arif,DA Blignaut,31583231583
+1,Norway,7,D Abeyrathna,Ghulam Ahmadi,Sher Sahak,,0,0,0,,,,31583231583
+1,Norway,7,D Abeyrathna,Ghulam Ahmadi,Sher Sahak,,0,0,0,,,,31583231583
+1,Norway,7,D Abeyrathna,Ghulam Ahmadi,Sher Sahak,,0,0,0,,,,31583231583
+1,Norway,7,D Abeyrathna,Ghulam Ahmadi,Sher Sahak,,0,0,0,,,,31583231583
+1,Norway,7,D Abeyrathna,Ghulam Ahmadi,Sher Sahak,,0,0,0,,,,31583231583
+1,Norway,8,Sher Sahak,SVE Bharathi,D Abeyrathna,,0,1,1,,,,31583231583
+1,Norway,8,D Abeyrathna,SVE Bharathi,Sher Sahak,,0,0,0,,,,31583231583
+1,Norway,8,D Abeyrathna,SVE Bharathi,Sher Sahak,,0,6,6,,,,31583231583
+1,Norway,8,D Abeyrathna,SVE Bharathi,Sher Sahak,,0,0,0,,,,31583231583
+1,Norway,8,D Abeyrathna,SVE Bharathi,Sher Sahak,,0,0,0,,,,31583231583
+1,Norway,8,D Abeyrathna,SVE Bharathi,Sher Sahak,,0,0,0,,,,31583231583
+1,Norway,9,Sher Sahak,V Ganesan,D Abeyrathna,wides,1,1,0,,,,31583231583
+1,Norway,9,Sher Sahak,V Ganesan,D Abeyrathna,,0,1,1,,,,31583231583
+1,Norway,9,D Abeyrathna,V Ganesan,Sher Sahak,,0,1,1,,,,31583231583
+1,Norway,9,Sher Sahak,V Ganesan,D Abeyrathna,,0,0,0,,,,31583231583
+1,Norway,9,Sher Sahak,V Ganesan,D Abeyrathna,,0,0,0,,,,31583231583
+1,Norway,9,Sher Sahak,V Ganesan,D Abeyrathna,,0,0,0,,,,31583231583
+1,Norway,9,Sher Sahak,V Ganesan,D Abeyrathna,,0,1,1,,,,31583231583
+1,Norway,10,Sher Sahak,Sahir Naqash,D Abeyrathna,,0,0,0,,,,31583231583
+1,Norway,10,Sher Sahak,Sahir Naqash,D Abeyrathna,,0,0,0,,,,31583231583
+1,Norway,10,Sher Sahak,Sahir Naqash,D Abeyrathna,,0,1,1,,,,31583231583
+1,Norway,10,D Abeyrathna,Sahir Naqash,Sher Sahak,,0,1,1,,,,31583231583
+1,Norway,10,Sher Sahak,Sahir Naqash,D Abeyrathna,,0,0,0,,,,31583231583
+1,Norway,10,Sher Sahak,Sahir Naqash,D Abeyrathna,,0,1,1,,,,31583231583
+1,Norway,11,Sher Sahak,V Ganesan,D Abeyrathna,,0,1,1,,,,31583231583
+1,Norway,11,D Abeyrathna,V Ganesan,Sher Sahak,,0,0,0,,,,31583231583
+1,Norway,11,D Abeyrathna,V Ganesan,Sher Sahak,,0,1,1,,,,31583231583
+1,Norway,11,Sher Sahak,V Ganesan,D Abeyrathna,,0,0,0,,,,31583231583
+1,Norway,11,Sher Sahak,V Ganesan,D Abeyrathna,,0,0,0,,,,31583231583
+1,Norway,11,Sher Sahak,V Ganesan,D Abeyrathna,,0,1,1,,,,31583231583
+1,Norway,12,Sher Sahak,Sahir Naqash,D Abeyrathna,,0,0,0,,,,31583231583
+1,Norway,12,Sher Sahak,Sahir Naqash,D Abeyrathna,,0,6,6,,,,31583231583
+1,Norway,12,Sher Sahak,Sahir Naqash,D Abeyrathna,,0,0,0,,,,31583231583
+1,Norway,12,Sher Sahak,Sahir Naqash,D Abeyrathna,,0,1,1,,,,31583231583
+1,Norway,12,D Abeyrathna,Sahir Naqash,Sher Sahak,,0,1,1,,,,31583231583
+1,Norway,12,Sher Sahak,Sahir Naqash,D Abeyrathna,,0,0,0,,,,31583231583
+1,Norway,13,D Abeyrathna,V Ganesan,Sher Sahak,,0,2,2,,,,31583231583
+1,Norway,13,D Abeyrathna,V Ganesan,Sher Sahak,,0,0,0,,,,31583231583
+1,Norway,13,D Abeyrathna,V Ganesan,Sher Sahak,,0,1,1,,,,31583231583
+1,Norway,13,Sher Sahak,V Ganesan,D Abeyrathna,,0,0,0,,,,31583231583
+1,Norway,13,Sher Sahak,V Ganesan,D Abeyrathna,,0,0,0,,,,31583231583
+1,Norway,13,Sher Sahak,V Ganesan,D Abeyrathna,,0,1,1,,,,31583231583
+1,Norway,14,Sher Sahak,SVE Bharathi,D Abeyrathna,,0,1,1,,,,31583231583
+1,Norway,14,D Abeyrathna,SVE Bharathi,Sher Sahak,,0,1,1,,,,31583231583
+1,Norway,14,Sher Sahak,SVE Bharathi,D Abeyrathna,,0,0,0,,,,31583231583
+1,Norway,14,Sher Sahak,SVE Bharathi,D Abeyrathna,,0,1,1,,,,31583231583
+1,Norway,14,D Abeyrathna,SVE Bharathi,Sher Sahak,,0,1,1,,,,31583231583
+1,Norway,14,Sher Sahak,SVE Bharathi,D Abeyrathna,,0,0,0,,,,31583231583
+1,Norway,15,D Abeyrathna,V Ganesan,Sher Sahak,,0,0,0,,,,31583231583
+1,Norway,15,D Abeyrathna,V Ganesan,Sher Sahak,,0,2,2,,,,31583231583
+1,Norway,15,D Abeyrathna,V Ganesan,Sher Sahak,,0,0,0,,,,31583231583
+1,Norway,15,D Abeyrathna,V Ganesan,Sher Sahak,,0,0,0,,,,31583231583
+1,Norway,15,D Abeyrathna,V Ganesan,Sher Sahak,wides,1,1,0,,,,31583231583
+1,Norway,15,D Abeyrathna,V Ganesan,Sher Sahak,,0,1,1,,,,31583231583
+1,Norway,15,Sher Sahak,V Ganesan,D Abeyrathna,,0,0,0,,,,31583231583
+1,Norway,16,D Abeyrathna,Sajid Liaqat,Sher Sahak,,0,0,0,,,,31583231583
+1,Norway,16,D Abeyrathna,Sajid Liaqat,Sher Sahak,,0,1,1,,,,31583231583
+1,Norway,16,Sher Sahak,Sajid Liaqat,D Abeyrathna,,0,4,4,,,,31583231583
+1,Norway,16,Sher Sahak,Sajid Liaqat,D Abeyrathna,,0,1,1,,,,31583231583
+1,Norway,16,D Abeyrathna,Sajid Liaqat,Sher Sahak,,0,1,1,,,,31583231583
+1,Norway,16,Sher Sahak,Sajid Liaqat,D Abeyrathna,,0,6,6,,,,31583231583
+1,Norway,17,D Abeyrathna,Sahir Naqash,Sher Sahak,,0,2,2,,,,31583231583
+1,Norway,17,D Abeyrathna,Sahir Naqash,Sher Sahak,,0,0,0,,,,31583231583
+1,Norway,17,D Abeyrathna,Sahir Naqash,Sher Sahak,,0,4,4,,,,31583231583
+1,Norway,17,D Abeyrathna,Sahir Naqash,Sher Sahak,,0,1,1,,,,31583231583
+1,Norway,17,Sher Sahak,Sahir Naqash,D Abeyrathna,,0,2,2,,,,31583231583
+1,Norway,17,Sher Sahak,Sahir Naqash,D Abeyrathna,,0,0,0,bowled,Sher Sahak,,31583231583
+1,Norway,18,D Abeyrathna,Sajid Liaqat,Vinay Ravi,,0,0,0,caught,D Abeyrathna,DA Blignaut,31583231583
+1,Norway,18,Vinay Ravi,Sajid Liaqat,Ahmadullah Shinwari,,0,4,4,,,,31583231583
+1,Norway,18,Vinay Ravi,Sajid Liaqat,Ahmadullah Shinwari,,0,1,1,,,,31583231583
+1,Norway,18,Ahmadullah Shinwari,Sajid Liaqat,Vinay Ravi,,0,0,0,caught,Ahmadullah Shinwari,Ghulam Ahmadi,31583231583

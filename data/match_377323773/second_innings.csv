@@ -1,0 +1,99 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Sri Lanka,0,N Dickwella,HH Pandya,WU Tharanga,,0,1,1,,,,377323773
+2,Sri Lanka,0,WU Tharanga,HH Pandya,N Dickwella,,0,1,1,,,,377323773
+2,Sri Lanka,0,N Dickwella,HH Pandya,WU Tharanga,,0,1,1,,,,377323773
+2,Sri Lanka,0,WU Tharanga,HH Pandya,N Dickwella,,0,1,1,,,,377323773
+2,Sri Lanka,0,N Dickwella,HH Pandya,WU Tharanga,,0,2,2,,,,377323773
+2,Sri Lanka,0,N Dickwella,HH Pandya,WU Tharanga,,0,5,5,,,,377323773
+2,Sri Lanka,1,N Dickwella,JD Unadkat,WU Tharanga,,0,4,4,,,,377323773
+2,Sri Lanka,1,N Dickwella,JD Unadkat,WU Tharanga,,0,0,0,,,,377323773
+2,Sri Lanka,1,N Dickwella,JD Unadkat,WU Tharanga,,0,0,0,,,,377323773
+2,Sri Lanka,1,N Dickwella,JD Unadkat,WU Tharanga,,0,0,0,caught,N Dickwella,KL Rahul,377323773
+2,Sri Lanka,1,MDKJ Perera,JD Unadkat,WU Tharanga,,0,1,1,,,,377323773
+2,Sri Lanka,1,WU Tharanga,JD Unadkat,MDKJ Perera,,0,0,0,,,,377323773
+2,Sri Lanka,2,MDKJ Perera,HH Pandya,WU Tharanga,,0,1,1,,,,377323773
+2,Sri Lanka,2,WU Tharanga,HH Pandya,MDKJ Perera,,0,0,0,,,,377323773
+2,Sri Lanka,2,WU Tharanga,HH Pandya,MDKJ Perera,,0,0,0,,,,377323773
+2,Sri Lanka,2,WU Tharanga,HH Pandya,MDKJ Perera,,0,6,6,,,,377323773
+2,Sri Lanka,2,WU Tharanga,HH Pandya,MDKJ Perera,,0,2,2,,,,377323773
+2,Sri Lanka,2,WU Tharanga,HH Pandya,MDKJ Perera,,0,2,2,,,,377323773
+2,Sri Lanka,3,MDKJ Perera,JD Unadkat,WU Tharanga,,0,0,0,,,,377323773
+2,Sri Lanka,3,MDKJ Perera,JD Unadkat,WU Tharanga,,0,1,1,,,,377323773
+2,Sri Lanka,3,WU Tharanga,JD Unadkat,MDKJ Perera,,0,0,0,,,,377323773
+2,Sri Lanka,3,WU Tharanga,JD Unadkat,MDKJ Perera,,0,0,0,,,,377323773
+2,Sri Lanka,3,WU Tharanga,JD Unadkat,MDKJ Perera,,0,1,1,,,,377323773
+2,Sri Lanka,3,MDKJ Perera,JD Unadkat,WU Tharanga,,0,0,0,,,,377323773
+2,Sri Lanka,4,WU Tharanga,YS Chahal,MDKJ Perera,,0,0,0,,,,377323773
+2,Sri Lanka,4,WU Tharanga,YS Chahal,MDKJ Perera,,0,4,4,,,,377323773
+2,Sri Lanka,4,WU Tharanga,YS Chahal,MDKJ Perera,,0,6,6,,,,377323773
+2,Sri Lanka,4,WU Tharanga,YS Chahal,MDKJ Perera,,0,0,0,,,,377323773
+2,Sri Lanka,4,WU Tharanga,YS Chahal,MDKJ Perera,,0,0,0,caught,WU Tharanga,MS Dhoni,377323773
+2,Sri Lanka,4,AD Mathews,YS Chahal,MDKJ Perera,,0,0,0,,,,377323773
+2,Sri Lanka,5,MDKJ Perera,JJ Bumrah,AD Mathews,,0,0,0,,,,377323773
+2,Sri Lanka,5,MDKJ Perera,JJ Bumrah,AD Mathews,,0,1,1,,,,377323773
+2,Sri Lanka,5,AD Mathews,JJ Bumrah,MDKJ Perera,,0,0,0,,,,377323773
+2,Sri Lanka,5,AD Mathews,JJ Bumrah,MDKJ Perera,,0,0,0,,,,377323773
+2,Sri Lanka,5,AD Mathews,JJ Bumrah,MDKJ Perera,,0,0,0,,,,377323773
+2,Sri Lanka,5,AD Mathews,JJ Bumrah,MDKJ Perera,,0,0,0,,,,377323773
+2,Sri Lanka,6,MDKJ Perera,Kuldeep Yadav,AD Mathews,,0,0,0,,,,377323773
+2,Sri Lanka,6,MDKJ Perera,Kuldeep Yadav,AD Mathews,,0,0,0,,,,377323773
+2,Sri Lanka,6,MDKJ Perera,Kuldeep Yadav,AD Mathews,,0,1,1,,,,377323773
+2,Sri Lanka,6,AD Mathews,Kuldeep Yadav,MDKJ Perera,,0,1,1,,,,377323773
+2,Sri Lanka,6,MDKJ Perera,Kuldeep Yadav,AD Mathews,,0,2,2,,,,377323773
+2,Sri Lanka,6,MDKJ Perera,Kuldeep Yadav,AD Mathews,,0,1,1,,,,377323773
+2,Sri Lanka,7,MDKJ Perera,YS Chahal,AD Mathews,,0,1,1,,,,377323773
+2,Sri Lanka,7,AD Mathews,YS Chahal,MDKJ Perera,,0,0,0,caught and bowled,AD Mathews,,377323773
+2,Sri Lanka,7,DAS Gunaratne,YS Chahal,MDKJ Perera,,0,1,1,,,,377323773
+2,Sri Lanka,7,MDKJ Perera,YS Chahal,DAS Gunaratne,,0,0,0,,,,377323773
+2,Sri Lanka,7,MDKJ Perera,YS Chahal,DAS Gunaratne,,0,1,1,,,,377323773
+2,Sri Lanka,7,DAS Gunaratne,YS Chahal,MDKJ Perera,,0,1,1,,,,377323773
+2,Sri Lanka,8,DAS Gunaratne,Kuldeep Yadav,MDKJ Perera,,0,1,1,,,,377323773
+2,Sri Lanka,8,MDKJ Perera,Kuldeep Yadav,DAS Gunaratne,,0,2,2,,,,377323773
+2,Sri Lanka,8,MDKJ Perera,Kuldeep Yadav,DAS Gunaratne,,0,1,1,,,,377323773
+2,Sri Lanka,8,DAS Gunaratne,Kuldeep Yadav,MDKJ Perera,,0,1,1,,,,377323773
+2,Sri Lanka,8,MDKJ Perera,Kuldeep Yadav,DAS Gunaratne,,0,0,0,,,,377323773
+2,Sri Lanka,8,MDKJ Perera,Kuldeep Yadav,DAS Gunaratne,,0,0,0,,,,377323773
+2,Sri Lanka,9,DAS Gunaratne,YS Chahal,MDKJ Perera,wides,1,1,0,stumped,DAS Gunaratne,MS Dhoni,377323773
+2,Sri Lanka,9,MD Shanaka,YS Chahal,MDKJ Perera,,0,0,0,,,,377323773
+2,Sri Lanka,9,MD Shanaka,YS Chahal,MDKJ Perera,,0,0,0,,,,377323773
+2,Sri Lanka,9,MD Shanaka,YS Chahal,MDKJ Perera,,0,1,1,,,,377323773
+2,Sri Lanka,9,MDKJ Perera,YS Chahal,MD Shanaka,,0,1,1,,,,377323773
+2,Sri Lanka,9,MD Shanaka,YS Chahal,MDKJ Perera,,0,0,0,,,,377323773
+2,Sri Lanka,9,MD Shanaka,YS Chahal,MDKJ Perera,,0,0,0,,,,377323773
+2,Sri Lanka,10,MDKJ Perera,Kuldeep Yadav,MD Shanaka,,0,1,1,,,,377323773
+2,Sri Lanka,10,MD Shanaka,Kuldeep Yadav,MDKJ Perera,,0,0,0,caught,MD Shanaka,HH Pandya,377323773
+2,Sri Lanka,10,MDKJ Perera,Kuldeep Yadav,NLTC Perera,,0,1,1,,,,377323773
+2,Sri Lanka,10,NLTC Perera,Kuldeep Yadav,MDKJ Perera,,0,2,2,,,,377323773
+2,Sri Lanka,10,NLTC Perera,Kuldeep Yadav,MDKJ Perera,,0,0,0,,,,377323773
+2,Sri Lanka,10,NLTC Perera,Kuldeep Yadav,MDKJ Perera,,0,1,1,,,,377323773
+2,Sri Lanka,11,NLTC Perera,YS Chahal,MDKJ Perera,,0,0,0,stumped,NLTC Perera,MS Dhoni,377323773
+2,Sri Lanka,11,A Dananjaya,YS Chahal,MDKJ Perera,,0,1,1,,,,377323773
+2,Sri Lanka,11,MDKJ Perera,YS Chahal,A Dananjaya,,0,0,0,,,,377323773
+2,Sri Lanka,11,MDKJ Perera,YS Chahal,A Dananjaya,,0,1,1,,,,377323773
+2,Sri Lanka,11,A Dananjaya,YS Chahal,MDKJ Perera,,0,3,3,,,,377323773
+2,Sri Lanka,11,MDKJ Perera,YS Chahal,A Dananjaya,,0,1,1,,,,377323773
+2,Sri Lanka,12,MDKJ Perera,Kuldeep Yadav,A Dananjaya,,0,0,0,,,,377323773
+2,Sri Lanka,12,MDKJ Perera,Kuldeep Yadav,A Dananjaya,,0,1,1,,,,377323773
+2,Sri Lanka,12,A Dananjaya,Kuldeep Yadav,MDKJ Perera,,0,1,1,,,,377323773
+2,Sri Lanka,12,MDKJ Perera,Kuldeep Yadav,A Dananjaya,,0,0,0,caught,MDKJ Perera,MS Dhoni,377323773
+2,Sri Lanka,12,A Dananjaya,Kuldeep Yadav,PVD Chameera,,0,1,1,,,,377323773
+2,Sri Lanka,12,PVD Chameera,Kuldeep Yadav,A Dananjaya,,0,0,0,,,,377323773
+2,Sri Lanka,13,A Dananjaya,HH Pandya,PVD Chameera,,0,0,0,,,,377323773
+2,Sri Lanka,13,A Dananjaya,HH Pandya,PVD Chameera,,0,1,1,,,,377323773
+2,Sri Lanka,13,PVD Chameera,HH Pandya,A Dananjaya,,0,0,0,,,,377323773
+2,Sri Lanka,13,PVD Chameera,HH Pandya,A Dananjaya,,0,2,2,,,,377323773
+2,Sri Lanka,13,PVD Chameera,HH Pandya,A Dananjaya,,0,1,1,,,,377323773
+2,Sri Lanka,13,A Dananjaya,HH Pandya,PVD Chameera,wides,1,1,0,,,,377323773
+2,Sri Lanka,13,A Dananjaya,HH Pandya,PVD Chameera,,0,0,0,caught and bowled,A Dananjaya,,377323773
+2,Sri Lanka,14,PVD Chameera,JJ Bumrah,MVT Fernando,,0,0,0,,,,377323773
+2,Sri Lanka,14,PVD Chameera,JJ Bumrah,MVT Fernando,,0,0,0,,,,377323773
+2,Sri Lanka,14,PVD Chameera,JJ Bumrah,MVT Fernando,,0,0,0,,,,377323773
+2,Sri Lanka,14,PVD Chameera,JJ Bumrah,MVT Fernando,,0,4,4,,,,377323773
+2,Sri Lanka,14,PVD Chameera,JJ Bumrah,MVT Fernando,,0,4,4,,,,377323773
+2,Sri Lanka,14,PVD Chameera,JJ Bumrah,MVT Fernando,,0,1,1,,,,377323773
+2,Sri Lanka,15,PVD Chameera,HH Pandya,MVT Fernando,,0,0,0,,,,377323773
+2,Sri Lanka,15,PVD Chameera,HH Pandya,MVT Fernando,,0,0,0,,,,377323773
+2,Sri Lanka,15,PVD Chameera,HH Pandya,MVT Fernando,,0,0,0,,,,377323773
+2,Sri Lanka,15,PVD Chameera,HH Pandya,MVT Fernando,,0,0,0,caught,PVD Chameera,KL Rahul,377323773
+2,Sri Lanka,15,MVT Fernando,HH Pandya,N Pradeep,,0,2,2,,,,377323773
+2,Sri Lanka,15,MVT Fernando,HH Pandya,N Pradeep,,0,0,0,caught,MVT Fernando,JD Unadkat,377323773

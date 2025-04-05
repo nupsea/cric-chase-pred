@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Bulgaria,0,H Lakov,TK Lal,M Kadyan,,0,2,2,,,,32162232162
+1,Bulgaria,0,H Lakov,TK Lal,M Kadyan,,0,0,0,,,,32162232162
+1,Bulgaria,0,H Lakov,TK Lal,M Kadyan,,0,0,0,,,,32162232162
+1,Bulgaria,0,H Lakov,TK Lal,M Kadyan,,0,0,0,,,,32162232162
+1,Bulgaria,0,H Lakov,TK Lal,M Kadyan,,0,2,2,,,,32162232162
+1,Bulgaria,0,H Lakov,TK Lal,M Kadyan,,0,0,0,,,,32162232162
+1,Bulgaria,1,M Kadyan,SMK Waththage,H Lakov,,0,0,0,,,,32162232162
+1,Bulgaria,1,M Kadyan,SMK Waththage,H Lakov,,0,0,0,,,,32162232162
+1,Bulgaria,1,M Kadyan,SMK Waththage,H Lakov,,0,0,0,,,,32162232162
+1,Bulgaria,1,M Kadyan,SMK Waththage,H Lakov,wides,1,1,0,,,,32162232162
+1,Bulgaria,1,M Kadyan,SMK Waththage,H Lakov,,0,3,3,,,,32162232162
+1,Bulgaria,1,H Lakov,SMK Waththage,M Kadyan,,0,0,0,,,,32162232162
+1,Bulgaria,1,H Lakov,SMK Waththage,M Kadyan,,0,4,4,,,,32162232162
+1,Bulgaria,2,M Kadyan,TK Lal,H Lakov,,0,0,0,,,,32162232162
+1,Bulgaria,2,M Kadyan,TK Lal,H Lakov,,0,0,0,,,,32162232162
+1,Bulgaria,2,M Kadyan,TK Lal,H Lakov,,0,4,4,,,,32162232162
+1,Bulgaria,2,M Kadyan,TK Lal,H Lakov,,0,1,1,,,,32162232162
+1,Bulgaria,2,H Lakov,TK Lal,M Kadyan,,0,0,0,caught,H Lakov,Ritik Tomar,32162232162
+1,Bulgaria,2,M Kadyan,TK Lal,Saim Hussain,,0,1,1,,,,32162232162
+1,Bulgaria,3,M Kadyan,SMK Waththage,Saim Hussain,,0,1,1,,,,32162232162
+1,Bulgaria,3,Saim Hussain,SMK Waththage,M Kadyan,wides,1,1,0,,,,32162232162
+1,Bulgaria,3,Saim Hussain,SMK Waththage,M Kadyan,wides,1,1,0,,,,32162232162
+1,Bulgaria,3,Saim Hussain,SMK Waththage,M Kadyan,,0,4,4,,,,32162232162
+1,Bulgaria,3,Saim Hussain,SMK Waththage,M Kadyan,,0,0,0,,,,32162232162
+1,Bulgaria,3,Saim Hussain,SMK Waththage,M Kadyan,,0,0,0,,,,32162232162
+1,Bulgaria,3,Saim Hussain,SMK Waththage,M Kadyan,,0,0,0,,,,32162232162
+1,Bulgaria,3,Saim Hussain,SMK Waththage,M Kadyan,,0,0,0,,,,32162232162
+1,Bulgaria,4,M Kadyan,TK Lal,Saim Hussain,,0,0,0,stumped,M Kadyan,UNGB Thenannahelage,32162232162
+1,Bulgaria,4,Sulaiman Ali,TK Lal,Saim Hussain,,0,0,0,,,,32162232162
+1,Bulgaria,4,Sulaiman Ali,TK Lal,Saim Hussain,,0,0,0,,,,32162232162
+1,Bulgaria,4,Sulaiman Ali,TK Lal,Saim Hussain,,0,0,0,,,,32162232162
+1,Bulgaria,4,Sulaiman Ali,TK Lal,Saim Hussain,,0,0,0,,,,32162232162
+1,Bulgaria,4,Sulaiman Ali,TK Lal,Saim Hussain,,0,0,0,,,,32162232162
+1,Bulgaria,5,Saim Hussain,Abul Farhad,Sulaiman Ali,,0,0,0,,,,32162232162
+1,Bulgaria,5,Saim Hussain,Abul Farhad,Sulaiman Ali,wides,2,2,0,,,,32162232162
+1,Bulgaria,5,Sulaiman Ali,Abul Farhad,Saim Hussain,,0,0,0,,,,32162232162
+1,Bulgaria,5,Sulaiman Ali,Abul Farhad,Saim Hussain,,0,0,0,,,,32162232162
+1,Bulgaria,5,Sulaiman Ali,Abul Farhad,Saim Hussain,,0,6,6,,,,32162232162
+1,Bulgaria,5,Sulaiman Ali,Abul Farhad,Saim Hussain,,0,0,0,,,,32162232162
+1,Bulgaria,5,Sulaiman Ali,Abul Farhad,Saim Hussain,,0,0,0,,,,32162232162
+1,Bulgaria,6,Saim Hussain,TK Lal,Sulaiman Ali,,0,0,0,,,,32162232162
+1,Bulgaria,6,Saim Hussain,TK Lal,Sulaiman Ali,wides,1,1,0,,,,32162232162
+1,Bulgaria,6,Saim Hussain,TK Lal,Sulaiman Ali,,0,0,0,,,,32162232162
+1,Bulgaria,6,Saim Hussain,TK Lal,Sulaiman Ali,,0,2,2,,,,32162232162
+1,Bulgaria,6,Saim Hussain,TK Lal,Sulaiman Ali,,0,0,0,,,,32162232162
+1,Bulgaria,6,Saim Hussain,TK Lal,Sulaiman Ali,,0,0,0,,,,32162232162
+1,Bulgaria,6,Saim Hussain,TK Lal,Sulaiman Ali,,0,1,1,,,,32162232162
+1,Bulgaria,7,Saim Hussain,Abul Farhad,Sulaiman Ali,,0,1,1,,,,32162232162
+1,Bulgaria,7,Sulaiman Ali,Abul Farhad,Saim Hussain,,0,1,1,,,,32162232162
+1,Bulgaria,7,Saim Hussain,Abul Farhad,Sulaiman Ali,,0,1,1,,,,32162232162
+1,Bulgaria,7,Sulaiman Ali,Abul Farhad,Saim Hussain,,0,0,0,,,,32162232162
+1,Bulgaria,7,Sulaiman Ali,Abul Farhad,Saim Hussain,wides,1,1,0,,,,32162232162
+1,Bulgaria,7,Sulaiman Ali,Abul Farhad,Saim Hussain,noballs,1,1,0,,,,32162232162
+1,Bulgaria,7,Sulaiman Ali,Abul Farhad,Saim Hussain,,0,1,1,,,,32162232162
+1,Bulgaria,7,Saim Hussain,Abul Farhad,Sulaiman Ali,,0,0,0,,,,32162232162
+1,Bulgaria,8,Sulaiman Ali,Sazib Bhuiyan,Saim Hussain,,0,1,1,,,,32162232162
+1,Bulgaria,8,Saim Hussain,Sazib Bhuiyan,Sulaiman Ali,,0,1,1,,,,32162232162
+1,Bulgaria,8,Sulaiman Ali,Sazib Bhuiyan,Saim Hussain,,0,0,0,,,,32162232162
+1,Bulgaria,8,Sulaiman Ali,Sazib Bhuiyan,Saim Hussain,,0,3,3,,,,32162232162
+1,Bulgaria,8,Saim Hussain,Sazib Bhuiyan,Sulaiman Ali,,0,1,1,run out,Sulaiman Ali,UNGB Thenannahelage,32162232162
+1,Bulgaria,8,Saim Hussain,Sazib Bhuiyan,P Mishra,,0,0,0,,,,32162232162
+1,Bulgaria,9,P Mishra,A Ashokan,Saim Hussain,,0,0,0,,,,32162232162
+1,Bulgaria,9,P Mishra,A Ashokan,Saim Hussain,,0,0,0,,,,32162232162
+1,Bulgaria,9,P Mishra,A Ashokan,Saim Hussain,legbyes,1,1,0,,,,32162232162
+1,Bulgaria,9,Saim Hussain,A Ashokan,P Mishra,,0,4,4,,,,32162232162
+1,Bulgaria,9,Saim Hussain,A Ashokan,P Mishra,,0,0,0,,,,32162232162
+1,Bulgaria,9,Saim Hussain,A Ashokan,P Mishra,,0,1,1,,,,32162232162
+1,Bulgaria,10,Saim Hussain,Sazib Bhuiyan,P Mishra,,0,1,1,,,,32162232162
+1,Bulgaria,10,P Mishra,Sazib Bhuiyan,Saim Hussain,,0,1,1,,,,32162232162
+1,Bulgaria,10,Saim Hussain,Sazib Bhuiyan,P Mishra,,0,1,1,,,,32162232162
+1,Bulgaria,10,P Mishra,Sazib Bhuiyan,Saim Hussain,,0,0,0,bowled,P Mishra,,32162232162
+1,Bulgaria,10,KC D'Souza,Sazib Bhuiyan,Saim Hussain,,0,1,1,,,,32162232162
+1,Bulgaria,10,Saim Hussain,Sazib Bhuiyan,KC D'Souza,,0,0,0,,,,32162232162
+1,Bulgaria,11,KC D'Souza,A Ashokan,Saim Hussain,,0,2,2,,,,32162232162
+1,Bulgaria,11,KC D'Souza,A Ashokan,Saim Hussain,,0,2,2,,,,32162232162
+1,Bulgaria,11,KC D'Souza,A Ashokan,Saim Hussain,,0,2,2,,,,32162232162
+1,Bulgaria,11,KC D'Souza,A Ashokan,Saim Hussain,,0,0,0,,,,32162232162
+1,Bulgaria,11,KC D'Souza,A Ashokan,Saim Hussain,,0,0,0,,,,32162232162
+1,Bulgaria,11,KC D'Souza,A Ashokan,Saim Hussain,,0,1,1,,,,32162232162
+1,Bulgaria,12,KC D'Souza,Sazib Bhuiyan,Saim Hussain,,0,6,6,,,,32162232162
+1,Bulgaria,12,KC D'Souza,Sazib Bhuiyan,Saim Hussain,,0,6,6,,,,32162232162
+1,Bulgaria,12,KC D'Souza,Sazib Bhuiyan,Saim Hussain,,0,1,1,,,,32162232162
+1,Bulgaria,12,Saim Hussain,Sazib Bhuiyan,KC D'Souza,,0,4,4,,,,32162232162
+1,Bulgaria,12,Saim Hussain,Sazib Bhuiyan,KC D'Souza,,0,0,0,,,,32162232162
+1,Bulgaria,12,Saim Hussain,Sazib Bhuiyan,KC D'Souza,,0,1,1,,,,32162232162
+1,Bulgaria,13,Saim Hussain,S Wickramasekara,KC D'Souza,,0,0,0,,,,32162232162
+1,Bulgaria,13,Saim Hussain,S Wickramasekara,KC D'Souza,,0,6,6,,,,32162232162
+1,Bulgaria,13,Saim Hussain,S Wickramasekara,KC D'Souza,,0,2,2,,,,32162232162
+1,Bulgaria,13,Saim Hussain,S Wickramasekara,KC D'Souza,,0,0,0,,,,32162232162
+1,Bulgaria,13,Saim Hussain,S Wickramasekara,KC D'Souza,,0,1,1,,,,32162232162
+1,Bulgaria,13,KC D'Souza,S Wickramasekara,Saim Hussain,,0,1,1,,,,32162232162
+1,Bulgaria,14,KC D'Souza,Ritik Tomar,Saim Hussain,,0,0,0,,,,32162232162
+1,Bulgaria,14,KC D'Souza,Ritik Tomar,Saim Hussain,,0,1,1,,,,32162232162
+1,Bulgaria,14,Saim Hussain,Ritik Tomar,KC D'Souza,,0,0,0,,,,32162232162
+1,Bulgaria,14,Saim Hussain,Ritik Tomar,KC D'Souza,,0,1,1,,,,32162232162
+1,Bulgaria,14,KC D'Souza,Ritik Tomar,Saim Hussain,,0,2,2,,,,32162232162
+1,Bulgaria,14,KC D'Souza,Ritik Tomar,Saim Hussain,,0,2,2,,,,32162232162
+1,Bulgaria,15,Saim Hussain,S Wickramasekara,KC D'Souza,,0,0,0,,,,32162232162
+1,Bulgaria,15,Saim Hussain,S Wickramasekara,KC D'Souza,,0,2,2,,,,32162232162
+1,Bulgaria,15,Saim Hussain,S Wickramasekara,KC D'Souza,,0,0,0,,,,32162232162
+1,Bulgaria,15,Saim Hussain,S Wickramasekara,KC D'Souza,,0,2,2,,,,32162232162
+1,Bulgaria,15,Saim Hussain,S Wickramasekara,KC D'Souza,,0,1,1,,,,32162232162
+1,Bulgaria,15,KC D'Souza,S Wickramasekara,Saim Hussain,,0,0,0,caught,KC D'Souza,Divyendra Singh,32162232162
+1,Bulgaria,16,R Dhiman,Ritik Tomar,Saim Hussain,,0,0,0,,,,32162232162
+1,Bulgaria,16,R Dhiman,Ritik Tomar,Saim Hussain,,0,2,2,,,,32162232162
+1,Bulgaria,16,R Dhiman,Ritik Tomar,Saim Hussain,,0,2,2,,,,32162232162
+1,Bulgaria,16,R Dhiman,Ritik Tomar,Saim Hussain,,0,1,1,,,,32162232162
+1,Bulgaria,16,Saim Hussain,Ritik Tomar,R Dhiman,,0,0,0,,,,32162232162
+1,Bulgaria,16,Saim Hussain,Ritik Tomar,R Dhiman,,0,1,1,,,,32162232162
+1,Bulgaria,17,Saim Hussain,S Wickramasekara,R Dhiman,,0,0,0,bowled,Saim Hussain,,32162232162
+1,Bulgaria,17,Asad Ali Rehemtulla,S Wickramasekara,R Dhiman,legbyes,1,1,0,,,,32162232162
+1,Bulgaria,17,R Dhiman,S Wickramasekara,Asad Ali Rehemtulla,,0,0,0,caught,R Dhiman,Dylan Steyn,32162232162
+1,Bulgaria,17,Asad Ali Rehemtulla,S Wickramasekara,J Albin,,0,0,0,,,,32162232162
+1,Bulgaria,17,Asad Ali Rehemtulla,S Wickramasekara,J Albin,,0,0,0,,,,32162232162
+1,Bulgaria,17,Asad Ali Rehemtulla,S Wickramasekara,J Albin,,0,0,0,bowled,Asad Ali Rehemtulla,,32162232162
+1,Bulgaria,18,J Albin,Abul Farhad,D Nikolov,,0,1,1,,,,32162232162
+1,Bulgaria,18,D Nikolov,Abul Farhad,J Albin,,0,2,2,,,,32162232162
+1,Bulgaria,18,D Nikolov,Abul Farhad,J Albin,,0,1,1,,,,32162232162
+1,Bulgaria,18,J Albin,Abul Farhad,D Nikolov,,0,0,0,,,,32162232162
+1,Bulgaria,18,J Albin,Abul Farhad,D Nikolov,,0,1,1,,,,32162232162
+1,Bulgaria,18,D Nikolov,Abul Farhad,J Albin,,0,0,0,bowled,D Nikolov,,32162232162
+1,Bulgaria,19,J Albin,S Wickramasekara,DV Varghese,,0,0,0,bowled,J Albin,,32162232162

@@ -1,0 +1,122 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Pakistan,0,Javeria Khan,S Ismail,Umaima Sohail,,0,0,0,,,,31052231052
+2,Pakistan,0,Javeria Khan,S Ismail,Umaima Sohail,,0,0,0,caught,Javeria Khan,S Jafta,31052231052
+2,Pakistan,0,Bismah Maroof,S Ismail,Umaima Sohail,,0,0,0,,,,31052231052
+2,Pakistan,0,Bismah Maroof,S Ismail,Umaima Sohail,,0,1,1,,,,31052231052
+2,Pakistan,0,Umaima Sohail,S Ismail,Bismah Maroof,,0,0,0,,,,31052231052
+2,Pakistan,0,Umaima Sohail,S Ismail,Bismah Maroof,,0,2,2,,,,31052231052
+2,Pakistan,1,Bismah Maroof,M Daniels,Umaima Sohail,,0,0,0,,,,31052231052
+2,Pakistan,1,Bismah Maroof,M Daniels,Umaima Sohail,,0,0,0,,,,31052231052
+2,Pakistan,1,Bismah Maroof,M Daniels,Umaima Sohail,,0,0,0,bowled,Bismah Maroof,,31052231052
+2,Pakistan,1,Nida Dar,M Daniels,Umaima Sohail,,0,0,0,,,,31052231052
+2,Pakistan,1,Nida Dar,M Daniels,Umaima Sohail,,0,0,0,,,,31052231052
+2,Pakistan,1,Nida Dar,M Daniels,Umaima Sohail,,0,0,0,,,,31052231052
+2,Pakistan,2,Umaima Sohail,S Ismail,Nida Dar,,0,0,0,,,,31052231052
+2,Pakistan,2,Umaima Sohail,S Ismail,Nida Dar,,0,0,0,,,,31052231052
+2,Pakistan,2,Umaima Sohail,S Ismail,Nida Dar,,0,0,0,,,,31052231052
+2,Pakistan,2,Umaima Sohail,S Ismail,Nida Dar,,0,0,0,bowled,Umaima Sohail,,31052231052
+2,Pakistan,2,Iram Javed,S Ismail,Nida Dar,,0,0,0,,,,31052231052
+2,Pakistan,2,Iram Javed,S Ismail,Nida Dar,,0,1,1,,,,31052231052
+2,Pakistan,3,Iram Javed,M Daniels,Nida Dar,,0,1,1,,,,31052231052
+2,Pakistan,3,Nida Dar,M Daniels,Iram Javed,,0,0,0,,,,31052231052
+2,Pakistan,3,Nida Dar,M Daniels,Iram Javed,,0,2,2,,,,31052231052
+2,Pakistan,3,Nida Dar,M Daniels,Iram Javed,,0,0,0,,,,31052231052
+2,Pakistan,3,Nida Dar,M Daniels,Iram Javed,,0,0,0,,,,31052231052
+2,Pakistan,3,Nida Dar,M Daniels,Iram Javed,,0,0,0,,,,31052231052
+2,Pakistan,4,Iram Javed,S Ismail,Nida Dar,,0,0,0,,,,31052231052
+2,Pakistan,4,Iram Javed,S Ismail,Nida Dar,,0,0,0,,,,31052231052
+2,Pakistan,4,Iram Javed,S Ismail,Nida Dar,,0,1,1,,,,31052231052
+2,Pakistan,4,Nida Dar,S Ismail,Iram Javed,,0,0,0,,,,31052231052
+2,Pakistan,4,Nida Dar,S Ismail,Iram Javed,noballs,1,1,0,,,,31052231052
+2,Pakistan,4,Nida Dar,S Ismail,Iram Javed,,0,0,0,,,,31052231052
+2,Pakistan,4,Nida Dar,S Ismail,Iram Javed,,0,0,0,,,,31052231052
+2,Pakistan,5,Iram Javed,N de Klerk,Nida Dar,wides,2,2,0,,,,31052231052
+2,Pakistan,5,Nida Dar,N de Klerk,Iram Javed,,0,1,1,,,,31052231052
+2,Pakistan,5,Iram Javed,N de Klerk,Nida Dar,,0,0,0,,,,31052231052
+2,Pakistan,5,Iram Javed,N de Klerk,Nida Dar,,0,1,1,,,,31052231052
+2,Pakistan,5,Nida Dar,N de Klerk,Iram Javed,,0,4,4,,,,31052231052
+2,Pakistan,5,Nida Dar,N de Klerk,Iram Javed,,0,1,1,,,,31052231052
+2,Pakistan,5,Iram Javed,N de Klerk,Nida Dar,,0,4,4,,,,31052231052
+2,Pakistan,6,Nida Dar,S Luus,Iram Javed,,0,0,0,,,,31052231052
+2,Pakistan,6,Nida Dar,S Luus,Iram Javed,,0,4,4,,,,31052231052
+2,Pakistan,6,Nida Dar,S Luus,Iram Javed,,0,1,1,,,,31052231052
+2,Pakistan,6,Iram Javed,S Luus,Nida Dar,legbyes,1,1,0,,,,31052231052
+2,Pakistan,6,Nida Dar,S Luus,Iram Javed,,0,0,0,,,,31052231052
+2,Pakistan,6,Nida Dar,S Luus,Iram Javed,wides,2,2,0,,,,31052231052
+2,Pakistan,6,Iram Javed,S Luus,Nida Dar,,0,1,1,,,,31052231052
+2,Pakistan,7,Iram Javed,TS Sekhukhune,Nida Dar,,0,0,0,,,,31052231052
+2,Pakistan,7,Iram Javed,TS Sekhukhune,Nida Dar,,0,4,4,,,,31052231052
+2,Pakistan,7,Iram Javed,TS Sekhukhune,Nida Dar,,0,4,4,,,,31052231052
+2,Pakistan,7,Iram Javed,TS Sekhukhune,Nida Dar,,0,1,1,,,,31052231052
+2,Pakistan,7,Nida Dar,TS Sekhukhune,Iram Javed,,0,1,1,,,,31052231052
+2,Pakistan,7,Iram Javed,TS Sekhukhune,Nida Dar,,0,1,1,,,,31052231052
+2,Pakistan,8,Iram Javed,S Luus,Nida Dar,,0,6,6,,,,31052231052
+2,Pakistan,8,Iram Javed,S Luus,Nida Dar,,0,1,1,,,,31052231052
+2,Pakistan,8,Nida Dar,S Luus,Iram Javed,,0,4,4,,,,31052231052
+2,Pakistan,8,Nida Dar,S Luus,Iram Javed,,0,6,6,,,,31052231052
+2,Pakistan,8,Nida Dar,S Luus,Iram Javed,,0,1,1,,,,31052231052
+2,Pakistan,8,Iram Javed,S Luus,Nida Dar,,0,1,1,,,,31052231052
+2,Pakistan,9,Iram Javed,TS Sekhukhune,Nida Dar,,0,2,2,,,,31052231052
+2,Pakistan,9,Iram Javed,TS Sekhukhune,Nida Dar,,0,0,0,,,,31052231052
+2,Pakistan,9,Iram Javed,TS Sekhukhune,Nida Dar,,0,0,0,,,,31052231052
+2,Pakistan,9,Iram Javed,TS Sekhukhune,Nida Dar,,0,4,4,,,,31052231052
+2,Pakistan,9,Iram Javed,TS Sekhukhune,Nida Dar,,0,0,0,,,,31052231052
+2,Pakistan,9,Iram Javed,TS Sekhukhune,Nida Dar,,0,4,4,,,,31052231052
+2,Pakistan,10,Nida Dar,N Shangase,Iram Javed,,0,4,4,,,,31052231052
+2,Pakistan,10,Nida Dar,N Shangase,Iram Javed,,0,1,1,,,,31052231052
+2,Pakistan,10,Iram Javed,N Shangase,Nida Dar,,0,0,0,,,,31052231052
+2,Pakistan,10,Iram Javed,N Shangase,Nida Dar,,0,1,1,,,,31052231052
+2,Pakistan,10,Nida Dar,N Shangase,Iram Javed,,0,1,1,,,,31052231052
+2,Pakistan,10,Iram Javed,N Shangase,Nida Dar,,0,0,0,,,,31052231052
+2,Pakistan,11,Nida Dar,M Daniels,Iram Javed,,0,1,1,,,,31052231052
+2,Pakistan,11,Iram Javed,M Daniels,Nida Dar,,0,0,0,,,,31052231052
+2,Pakistan,11,Iram Javed,M Daniels,Nida Dar,,0,1,1,,,,31052231052
+2,Pakistan,11,Nida Dar,M Daniels,Iram Javed,,0,0,0,bowled,Nida Dar,,31052231052
+2,Pakistan,11,Aliya Riaz,M Daniels,Iram Javed,,0,0,0,,,,31052231052
+2,Pakistan,11,Aliya Riaz,M Daniels,Iram Javed,,0,0,0,,,,31052231052
+2,Pakistan,12,Iram Javed,CL Tryon,Aliya Riaz,,0,0,0,,,,31052231052
+2,Pakistan,12,Iram Javed,CL Tryon,Aliya Riaz,,0,1,1,,,,31052231052
+2,Pakistan,12,Aliya Riaz,CL Tryon,Iram Javed,,0,0,0,,,,31052231052
+2,Pakistan,12,Aliya Riaz,CL Tryon,Iram Javed,,0,1,1,,,,31052231052
+2,Pakistan,12,Iram Javed,CL Tryon,Aliya Riaz,,0,1,1,,,,31052231052
+2,Pakistan,12,Aliya Riaz,CL Tryon,Iram Javed,,0,4,4,,,,31052231052
+2,Pakistan,13,Iram Javed,TS Sekhukhune,Aliya Riaz,,0,1,1,,,,31052231052
+2,Pakistan,13,Aliya Riaz,TS Sekhukhune,Iram Javed,,0,0,0,,,,31052231052
+2,Pakistan,13,Aliya Riaz,TS Sekhukhune,Iram Javed,,0,0,0,,,,31052231052
+2,Pakistan,13,Aliya Riaz,TS Sekhukhune,Iram Javed,,0,4,4,,,,31052231052
+2,Pakistan,13,Aliya Riaz,TS Sekhukhune,Iram Javed,,0,0,0,,,,31052231052
+2,Pakistan,13,Aliya Riaz,TS Sekhukhune,Iram Javed,,0,0,0,,,,31052231052
+2,Pakistan,14,Iram Javed,N de Klerk,Aliya Riaz,,0,0,0,,,,31052231052
+2,Pakistan,14,Iram Javed,N de Klerk,Aliya Riaz,,0,0,0,,,,31052231052
+2,Pakistan,14,Iram Javed,N de Klerk,Aliya Riaz,,0,1,1,,,,31052231052
+2,Pakistan,14,Aliya Riaz,N de Klerk,Iram Javed,,0,1,1,,,,31052231052
+2,Pakistan,14,Iram Javed,N de Klerk,Aliya Riaz,,0,4,4,,,,31052231052
+2,Pakistan,14,Iram Javed,N de Klerk,Aliya Riaz,,0,4,4,,,,31052231052
+2,Pakistan,15,Aliya Riaz,TS Sekhukhune,Iram Javed,,0,4,4,,,,31052231052
+2,Pakistan,15,Aliya Riaz,TS Sekhukhune,Iram Javed,,0,0,0,,,,31052231052
+2,Pakistan,15,Aliya Riaz,TS Sekhukhune,Iram Javed,,0,0,0,,,,31052231052
+2,Pakistan,15,Aliya Riaz,TS Sekhukhune,Iram Javed,,0,1,1,,,,31052231052
+2,Pakistan,15,Iram Javed,TS Sekhukhune,Aliya Riaz,,0,1,1,,,,31052231052
+2,Pakistan,15,Aliya Riaz,TS Sekhukhune,Iram Javed,,0,2,2,,,,31052231052
+2,Pakistan,16,Iram Javed,N de Klerk,Aliya Riaz,,0,1,1,,,,31052231052
+2,Pakistan,16,Aliya Riaz,N de Klerk,Iram Javed,,0,0,0,,,,31052231052
+2,Pakistan,16,Aliya Riaz,N de Klerk,Iram Javed,,0,4,4,,,,31052231052
+2,Pakistan,16,Aliya Riaz,N de Klerk,Iram Javed,,0,2,2,,,,31052231052
+2,Pakistan,16,Aliya Riaz,N de Klerk,Iram Javed,,0,0,0,,,,31052231052
+2,Pakistan,16,Aliya Riaz,N de Klerk,Iram Javed,,0,1,1,,,,31052231052
+2,Pakistan,17,Aliya Riaz,M Daniels,Iram Javed,,0,6,6,,,,31052231052
+2,Pakistan,17,Aliya Riaz,M Daniels,Iram Javed,,0,0,0,,,,31052231052
+2,Pakistan,17,Aliya Riaz,M Daniels,Iram Javed,,0,0,0,caught,Aliya Riaz,N Shangase,31052231052
+2,Pakistan,17,Iram Javed,M Daniels,Kainat Imtiaz,,0,0,0,,,,31052231052
+2,Pakistan,17,Iram Javed,M Daniels,Kainat Imtiaz,,0,0,0,,,,31052231052
+2,Pakistan,17,Iram Javed,M Daniels,Kainat Imtiaz,,0,2,2,,,,31052231052
+2,Pakistan,18,Kainat Imtiaz,S Ismail,Iram Javed,,0,0,0,,,,31052231052
+2,Pakistan,18,Kainat Imtiaz,S Ismail,Iram Javed,,0,0,0,,,,31052231052
+2,Pakistan,18,Kainat Imtiaz,S Ismail,Iram Javed,,0,0,0,,,,31052231052
+2,Pakistan,18,Kainat Imtiaz,S Ismail,Iram Javed,,0,0,0,,,,31052231052
+2,Pakistan,18,Kainat Imtiaz,S Ismail,Iram Javed,,0,4,4,,,,31052231052
+2,Pakistan,18,Kainat Imtiaz,S Ismail,Iram Javed,,0,2,2,,,,31052231052
+2,Pakistan,19,Iram Javed,N de Klerk,Kainat Imtiaz,,0,0,0,caught,Iram Javed,T Brits,31052231052
+2,Pakistan,19,Kainat Imtiaz,N de Klerk,Sana Mir,,0,1,1,,,,31052231052
+2,Pakistan,19,Sana Mir,N de Klerk,Kainat Imtiaz,,0,4,4,,,,31052231052
+2,Pakistan,19,Sana Mir,N de Klerk,Kainat Imtiaz,,0,2,2,,,,31052231052

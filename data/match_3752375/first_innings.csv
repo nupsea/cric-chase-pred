@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,JH Kallis,KD Mills,GC Smith,,0,0,0,,,,3752375
+1,South Africa,0,JH Kallis,KD Mills,GC Smith,,0,0,0,,,,3752375
+1,South Africa,0,JH Kallis,KD Mills,GC Smith,,0,2,2,,,,3752375
+1,South Africa,0,JH Kallis,KD Mills,GC Smith,,0,1,1,,,,3752375
+1,South Africa,0,GC Smith,KD Mills,JH Kallis,,0,0,0,,,,3752375
+1,South Africa,0,GC Smith,KD Mills,JH Kallis,,0,1,1,,,,3752375
+1,South Africa,1,GC Smith,JDP Oram,JH Kallis,,0,0,0,,,,3752375
+1,South Africa,1,GC Smith,JDP Oram,JH Kallis,,0,1,1,,,,3752375
+1,South Africa,1,JH Kallis,JDP Oram,GC Smith,,0,4,4,,,,3752375
+1,South Africa,1,JH Kallis,JDP Oram,GC Smith,,0,0,0,,,,3752375
+1,South Africa,1,JH Kallis,JDP Oram,GC Smith,,0,1,1,,,,3752375
+1,South Africa,1,GC Smith,JDP Oram,JH Kallis,,0,0,0,,,,3752375
+1,South Africa,2,JH Kallis,KD Mills,GC Smith,,0,0,0,,,,3752375
+1,South Africa,2,JH Kallis,KD Mills,GC Smith,,0,0,0,,,,3752375
+1,South Africa,2,JH Kallis,KD Mills,GC Smith,,0,4,4,,,,3752375
+1,South Africa,2,JH Kallis,KD Mills,GC Smith,,0,1,1,,,,3752375
+1,South Africa,2,GC Smith,KD Mills,JH Kallis,,0,1,1,,,,3752375
+1,South Africa,2,JH Kallis,KD Mills,GC Smith,,0,6,6,,,,3752375
+1,South Africa,3,GC Smith,JDP Oram,JH Kallis,,0,1,1,,,,3752375
+1,South Africa,3,JH Kallis,JDP Oram,GC Smith,,0,1,1,,,,3752375
+1,South Africa,3,GC Smith,JDP Oram,JH Kallis,,0,0,0,,,,3752375
+1,South Africa,3,GC Smith,JDP Oram,JH Kallis,,0,1,1,,,,3752375
+1,South Africa,3,JH Kallis,JDP Oram,GC Smith,,0,1,1,,,,3752375
+1,South Africa,3,GC Smith,JDP Oram,JH Kallis,wides,1,1,0,,,,3752375
+1,South Africa,3,GC Smith,JDP Oram,JH Kallis,,0,1,1,,,,3752375
+1,South Africa,4,GC Smith,IG Butler,JH Kallis,,0,4,4,,,,3752375
+1,South Africa,4,GC Smith,IG Butler,JH Kallis,,0,0,0,,,,3752375
+1,South Africa,4,GC Smith,IG Butler,JH Kallis,,0,1,1,,,,3752375
+1,South Africa,4,JH Kallis,IG Butler,GC Smith,,0,0,0,,,,3752375
+1,South Africa,4,JH Kallis,IG Butler,GC Smith,legbyes,1,1,0,,,,3752375
+1,South Africa,4,GC Smith,IG Butler,JH Kallis,,0,1,1,,,,3752375
+1,South Africa,5,GC Smith,BJ Diamanti,JH Kallis,,0,1,1,,,,3752375
+1,South Africa,5,JH Kallis,BJ Diamanti,GC Smith,,0,1,1,,,,3752375
+1,South Africa,5,GC Smith,BJ Diamanti,JH Kallis,,0,4,4,,,,3752375
+1,South Africa,5,GC Smith,BJ Diamanti,JH Kallis,,0,1,1,,,,3752375
+1,South Africa,5,JH Kallis,BJ Diamanti,GC Smith,,0,1,1,,,,3752375
+1,South Africa,5,GC Smith,BJ Diamanti,JH Kallis,,0,4,4,,,,3752375
+1,South Africa,6,JH Kallis,NL McCullum,GC Smith,,0,0,0,,,,3752375
+1,South Africa,6,JH Kallis,NL McCullum,GC Smith,,0,0,0,,,,3752375
+1,South Africa,6,JH Kallis,NL McCullum,GC Smith,,0,0,0,,,,3752375
+1,South Africa,6,JH Kallis,NL McCullum,GC Smith,,0,1,1,,,,3752375
+1,South Africa,6,GC Smith,NL McCullum,JH Kallis,,0,1,1,,,,3752375
+1,South Africa,6,JH Kallis,NL McCullum,GC Smith,,0,0,0,,,,3752375
+1,South Africa,7,GC Smith,IG Butler,JH Kallis,,0,0,0,run out,JH Kallis,BB McCullum,3752375
+1,South Africa,7,GC Smith,IG Butler,HH Gibbs,,0,0,0,,,,3752375
+1,South Africa,7,GC Smith,IG Butler,HH Gibbs,,0,1,1,,,,3752375
+1,South Africa,7,HH Gibbs,IG Butler,GC Smith,,0,0,0,,,,3752375
+1,South Africa,7,HH Gibbs,IG Butler,GC Smith,,0,0,0,,,,3752375
+1,South Africa,7,HH Gibbs,IG Butler,GC Smith,,0,0,0,,,,3752375
+1,South Africa,8,GC Smith,NL McCullum,HH Gibbs,,0,0,0,,,,3752375
+1,South Africa,8,GC Smith,NL McCullum,HH Gibbs,,0,0,0,,,,3752375
+1,South Africa,8,GC Smith,NL McCullum,HH Gibbs,,0,0,0,,,,3752375
+1,South Africa,8,GC Smith,NL McCullum,HH Gibbs,,0,1,1,,,,3752375
+1,South Africa,8,HH Gibbs,NL McCullum,GC Smith,,0,1,1,,,,3752375
+1,South Africa,8,GC Smith,NL McCullum,HH Gibbs,,0,1,1,,,,3752375
+1,South Africa,9,GC Smith,BJ Diamanti,HH Gibbs,,0,2,2,,,,3752375
+1,South Africa,9,GC Smith,BJ Diamanti,HH Gibbs,,0,0,0,,,,3752375
+1,South Africa,9,GC Smith,BJ Diamanti,HH Gibbs,,0,0,0,,,,3752375
+1,South Africa,9,GC Smith,BJ Diamanti,HH Gibbs,legbyes,1,1,0,,,,3752375
+1,South Africa,9,HH Gibbs,BJ Diamanti,GC Smith,,0,1,1,,,,3752375
+1,South Africa,9,GC Smith,BJ Diamanti,HH Gibbs,,0,4,4,,,,3752375
+1,South Africa,10,HH Gibbs,SB Styris,GC Smith,,0,1,1,,,,3752375
+1,South Africa,10,GC Smith,SB Styris,HH Gibbs,,0,1,1,,,,3752375
+1,South Africa,10,HH Gibbs,SB Styris,GC Smith,,0,0,0,caught and bowled,HH Gibbs,,3752375
+1,South Africa,10,RE van der Merwe,SB Styris,GC Smith,,0,0,0,,,,3752375
+1,South Africa,10,RE van der Merwe,SB Styris,GC Smith,,0,0,0,,,,3752375
+1,South Africa,10,RE van der Merwe,SB Styris,GC Smith,,0,0,0,,,,3752375
+1,South Africa,11,GC Smith,IG Butler,RE van der Merwe,,0,0,0,,,,3752375
+1,South Africa,11,GC Smith,IG Butler,RE van der Merwe,,0,0,0,bowled,GC Smith,,3752375
+1,South Africa,11,JP Duminy,IG Butler,RE van der Merwe,,0,0,0,,,,3752375
+1,South Africa,11,JP Duminy,IG Butler,RE van der Merwe,,0,0,0,,,,3752375
+1,South Africa,11,JP Duminy,IG Butler,RE van der Merwe,,0,1,1,,,,3752375
+1,South Africa,11,RE van der Merwe,IG Butler,JP Duminy,,0,0,0,,,,3752375
+1,South Africa,12,JP Duminy,NL McCullum,RE van der Merwe,,0,0,0,,,,3752375
+1,South Africa,12,JP Duminy,NL McCullum,RE van der Merwe,,0,1,1,,,,3752375
+1,South Africa,12,RE van der Merwe,NL McCullum,JP Duminy,,0,0,0,,,,3752375
+1,South Africa,12,RE van der Merwe,NL McCullum,JP Duminy,,0,0,0,bowled,RE van der Merwe,,3752375
+1,South Africa,12,AB de Villiers,NL McCullum,JP Duminy,,0,1,1,,,,3752375
+1,South Africa,12,JP Duminy,NL McCullum,AB de Villiers,,0,2,2,,,,3752375
+1,South Africa,13,AB de Villiers,KD Mills,JP Duminy,,0,4,4,,,,3752375
+1,South Africa,13,AB de Villiers,KD Mills,JP Duminy,,0,1,1,,,,3752375
+1,South Africa,13,JP Duminy,KD Mills,AB de Villiers,,0,1,1,,,,3752375
+1,South Africa,13,AB de Villiers,KD Mills,JP Duminy,,0,2,2,,,,3752375
+1,South Africa,13,AB de Villiers,KD Mills,JP Duminy,,0,1,1,,,,3752375
+1,South Africa,13,JP Duminy,KD Mills,AB de Villiers,,0,0,0,,,,3752375
+1,South Africa,14,AB de Villiers,NL McCullum,JP Duminy,,0,4,4,,,,3752375
+1,South Africa,14,AB de Villiers,NL McCullum,JP Duminy,,0,1,1,,,,3752375
+1,South Africa,14,JP Duminy,NL McCullum,AB de Villiers,,0,1,1,,,,3752375
+1,South Africa,14,AB de Villiers,NL McCullum,JP Duminy,,0,1,1,,,,3752375
+1,South Africa,14,JP Duminy,NL McCullum,AB de Villiers,,0,1,1,run out,AB de Villiers,MJ Guptill,3752375
+1,South Africa,14,JP Duminy,NL McCullum,MV Boucher,,0,1,1,,,,3752375
+1,South Africa,15,JP Duminy,SB Styris,MV Boucher,,0,1,1,,,,3752375
+1,South Africa,15,MV Boucher,SB Styris,JP Duminy,,0,1,1,,,,3752375
+1,South Africa,15,JP Duminy,SB Styris,MV Boucher,,0,4,4,,,,3752375
+1,South Africa,15,JP Duminy,SB Styris,MV Boucher,,0,1,1,,,,3752375
+1,South Africa,15,MV Boucher,SB Styris,JP Duminy,,0,1,1,,,,3752375
+1,South Africa,15,JP Duminy,SB Styris,MV Boucher,,0,0,0,,,,3752375
+1,South Africa,16,MV Boucher,JDP Oram,JP Duminy,,0,2,2,,,,3752375
+1,South Africa,16,MV Boucher,JDP Oram,JP Duminy,,0,1,1,,,,3752375
+1,South Africa,16,JP Duminy,JDP Oram,MV Boucher,,0,1,1,,,,3752375
+1,South Africa,16,MV Boucher,JDP Oram,JP Duminy,,0,1,1,,,,3752375
+1,South Africa,16,JP Duminy,JDP Oram,MV Boucher,,0,6,6,,,,3752375
+1,South Africa,16,JP Duminy,JDP Oram,MV Boucher,,0,1,1,,,,3752375
+1,South Africa,17,JP Duminy,IG Butler,MV Boucher,legbyes,1,1,0,,,,3752375
+1,South Africa,17,MV Boucher,IG Butler,JP Duminy,,0,0,0,caught,MV Boucher,BB McCullum,3752375
+1,South Africa,17,JP Duminy,IG Butler,JA Morkel,wides,1,1,0,,,,3752375
+1,South Africa,17,JP Duminy,IG Butler,JA Morkel,,0,1,1,,,,3752375
+1,South Africa,17,JA Morkel,IG Butler,JP Duminy,,0,2,2,,,,3752375
+1,South Africa,17,JA Morkel,IG Butler,JP Duminy,,0,0,0,,,,3752375
+1,South Africa,17,JA Morkel,IG Butler,JP Duminy,,0,1,1,,,,3752375
+1,South Africa,18,JA Morkel,KD Mills,JP Duminy,,0,1,1,,,,3752375
+1,South Africa,18,JP Duminy,KD Mills,JA Morkel,legbyes,1,1,0,,,,3752375
+1,South Africa,18,JA Morkel,KD Mills,JP Duminy,,0,1,1,,,,3752375
+1,South Africa,18,JP Duminy,KD Mills,JA Morkel,,0,6,6,,,,3752375
+1,South Africa,18,JP Duminy,KD Mills,JA Morkel,,0,0,0,caught,JP Duminy,NT Broom,3752375
+1,South Africa,18,JA Morkel,KD Mills,J Botha,,0,1,1,,,,3752375
+1,South Africa,19,JA Morkel,JDP Oram,J Botha,,0,1,1,,,,3752375
+1,South Africa,19,J Botha,JDP Oram,JA Morkel,,0,1,1,,,,3752375
+1,South Africa,19,JA Morkel,JDP Oram,J Botha,,0,2,2,,,,3752375
+1,South Africa,19,JA Morkel,JDP Oram,J Botha,,0,1,1,,,,3752375
+1,South Africa,19,J Botha,JDP Oram,JA Morkel,,0,1,1,,,,3752375
+1,South Africa,19,JA Morkel,JDP Oram,J Botha,,0,0,0,,,,3752375

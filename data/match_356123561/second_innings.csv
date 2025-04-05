@@ -1,0 +1,127 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,West Indies,0,J Charles,SL Malinga,ADS Fletcher,,0,0,0,,,,356123561
+2,West Indies,0,J Charles,SL Malinga,ADS Fletcher,,0,0,0,bowled,J Charles,,356123561
+2,West Indies,0,MN Samuels,SL Malinga,ADS Fletcher,,0,4,4,,,,356123561
+2,West Indies,0,MN Samuels,SL Malinga,ADS Fletcher,,0,0,0,,,,356123561
+2,West Indies,0,MN Samuels,SL Malinga,ADS Fletcher,,0,1,1,,,,356123561
+2,West Indies,0,ADS Fletcher,SL Malinga,MN Samuels,,0,4,4,,,,356123561
+2,West Indies,1,MN Samuels,KMDN Kulasekara,ADS Fletcher,,0,0,0,,,,356123561
+2,West Indies,1,MN Samuels,KMDN Kulasekara,ADS Fletcher,,0,1,1,,,,356123561
+2,West Indies,1,ADS Fletcher,KMDN Kulasekara,MN Samuels,,0,1,1,,,,356123561
+2,West Indies,1,MN Samuels,KMDN Kulasekara,ADS Fletcher,,0,0,0,,,,356123561
+2,West Indies,1,MN Samuels,KMDN Kulasekara,ADS Fletcher,,0,0,0,,,,356123561
+2,West Indies,1,MN Samuels,KMDN Kulasekara,ADS Fletcher,,0,0,0,,,,356123561
+2,West Indies,2,ADS Fletcher,SL Malinga,MN Samuels,,0,0,0,,,,356123561
+2,West Indies,2,ADS Fletcher,SL Malinga,MN Samuels,,0,4,4,,,,356123561
+2,West Indies,2,ADS Fletcher,SL Malinga,MN Samuels,,0,0,0,,,,356123561
+2,West Indies,2,ADS Fletcher,SL Malinga,MN Samuels,,0,0,0,,,,356123561
+2,West Indies,2,ADS Fletcher,SL Malinga,MN Samuels,,0,0,0,,,,356123561
+2,West Indies,2,ADS Fletcher,SL Malinga,MN Samuels,,0,0,0,,,,356123561
+2,West Indies,3,MN Samuels,KMDN Kulasekara,ADS Fletcher,,0,0,0,,,,356123561
+2,West Indies,3,MN Samuels,KMDN Kulasekara,ADS Fletcher,wides,1,1,0,,,,356123561
+2,West Indies,3,MN Samuels,KMDN Kulasekara,ADS Fletcher,,0,1,1,,,,356123561
+2,West Indies,3,ADS Fletcher,KMDN Kulasekara,MN Samuels,,0,1,1,,,,356123561
+2,West Indies,3,MN Samuels,KMDN Kulasekara,ADS Fletcher,,0,1,1,,,,356123561
+2,West Indies,3,ADS Fletcher,KMDN Kulasekara,MN Samuels,,0,6,6,,,,356123561
+2,West Indies,3,ADS Fletcher,KMDN Kulasekara,MN Samuels,,0,2,2,,,,356123561
+2,West Indies,4,MN Samuels,SMSM Senanayake,ADS Fletcher,,0,2,2,,,,356123561
+2,West Indies,4,MN Samuels,SMSM Senanayake,ADS Fletcher,,0,0,0,caught,MN Samuels,TAM Siriwardana,356123561
+2,West Indies,4,ADS Fletcher,SMSM Senanayake,AD Russell,,0,0,0,,,,356123561
+2,West Indies,4,ADS Fletcher,SMSM Senanayake,AD Russell,,0,0,0,,,,356123561
+2,West Indies,4,ADS Fletcher,SMSM Senanayake,AD Russell,,0,2,2,,,,356123561
+2,West Indies,4,ADS Fletcher,SMSM Senanayake,AD Russell,,0,6,6,,,,356123561
+2,West Indies,5,AD Russell,PVD Chameera,ADS Fletcher,,0,0,0,,,,356123561
+2,West Indies,5,AD Russell,PVD Chameera,ADS Fletcher,,0,6,6,,,,356123561
+2,West Indies,5,AD Russell,PVD Chameera,ADS Fletcher,,0,1,1,,,,356123561
+2,West Indies,5,ADS Fletcher,PVD Chameera,AD Russell,,0,6,6,,,,356123561
+2,West Indies,5,ADS Fletcher,PVD Chameera,AD Russell,,0,0,0,,,,356123561
+2,West Indies,5,ADS Fletcher,PVD Chameera,AD Russell,,0,6,6,,,,356123561
+2,West Indies,6,AD Russell,SMSM Senanayake,ADS Fletcher,,0,1,1,,,,356123561
+2,West Indies,6,ADS Fletcher,SMSM Senanayake,AD Russell,,0,6,6,,,,356123561
+2,West Indies,6,ADS Fletcher,SMSM Senanayake,AD Russell,,0,1,1,,,,356123561
+2,West Indies,6,AD Russell,SMSM Senanayake,ADS Fletcher,,0,6,6,,,,356123561
+2,West Indies,6,AD Russell,SMSM Senanayake,ADS Fletcher,,0,0,0,,,,356123561
+2,West Indies,6,AD Russell,SMSM Senanayake,ADS Fletcher,,0,2,2,,,,356123561
+2,West Indies,7,ADS Fletcher,TAM Siriwardana,AD Russell,,0,4,4,,,,356123561
+2,West Indies,7,ADS Fletcher,TAM Siriwardana,AD Russell,,0,1,1,,,,356123561
+2,West Indies,7,AD Russell,TAM Siriwardana,ADS Fletcher,,0,0,0,bowled,AD Russell,,356123561
+2,West Indies,7,DJ Bravo,TAM Siriwardana,ADS Fletcher,legbyes,1,1,0,,,,356123561
+2,West Indies,7,ADS Fletcher,TAM Siriwardana,DJ Bravo,,0,6,6,,,,356123561
+2,West Indies,7,ADS Fletcher,TAM Siriwardana,DJ Bravo,wides,1,1,0,,,,356123561
+2,West Indies,7,ADS Fletcher,TAM Siriwardana,DJ Bravo,,0,1,1,,,,356123561
+2,West Indies,8,ADS Fletcher,PVD Chameera,DJ Bravo,,0,0,0,bowled,ADS Fletcher,,356123561
+2,West Indies,8,KA Pollard,PVD Chameera,DJ Bravo,wides,1,1,0,,,,356123561
+2,West Indies,8,KA Pollard,PVD Chameera,DJ Bravo,,0,0,0,,,,356123561
+2,West Indies,8,KA Pollard,PVD Chameera,DJ Bravo,wides,1,1,0,,,,356123561
+2,West Indies,8,KA Pollard,PVD Chameera,DJ Bravo,,0,0,0,,,,356123561
+2,West Indies,8,KA Pollard,PVD Chameera,DJ Bravo,,0,0,0,,,,356123561
+2,West Indies,8,KA Pollard,PVD Chameera,DJ Bravo,,0,4,4,,,,356123561
+2,West Indies,8,KA Pollard,PVD Chameera,DJ Bravo,,0,1,1,,,,356123561
+2,West Indies,9,KA Pollard,TAM Siriwardana,DJ Bravo,,0,0,0,,,,356123561
+2,West Indies,9,KA Pollard,TAM Siriwardana,DJ Bravo,,0,4,4,,,,356123561
+2,West Indies,9,KA Pollard,TAM Siriwardana,DJ Bravo,,0,0,0,,,,356123561
+2,West Indies,9,KA Pollard,TAM Siriwardana,DJ Bravo,,0,1,1,,,,356123561
+2,West Indies,9,DJ Bravo,TAM Siriwardana,KA Pollard,,0,0,0,,,,356123561
+2,West Indies,9,DJ Bravo,TAM Siriwardana,KA Pollard,,0,4,4,,,,356123561
+2,West Indies,10,KA Pollard,PVD Chameera,DJ Bravo,,0,1,1,,,,356123561
+2,West Indies,10,DJ Bravo,PVD Chameera,KA Pollard,,0,1,1,,,,356123561
+2,West Indies,10,KA Pollard,PVD Chameera,DJ Bravo,,0,0,0,,,,356123561
+2,West Indies,10,KA Pollard,PVD Chameera,DJ Bravo,,0,0,0,,,,356123561
+2,West Indies,10,KA Pollard,PVD Chameera,DJ Bravo,,0,1,1,,,,356123561
+2,West Indies,10,DJ Bravo,PVD Chameera,KA Pollard,,0,1,1,,,,356123561
+2,West Indies,11,DJ Bravo,TAM Siriwardana,KA Pollard,,0,1,1,,,,356123561
+2,West Indies,11,KA Pollard,TAM Siriwardana,DJ Bravo,,0,6,6,,,,356123561
+2,West Indies,11,KA Pollard,TAM Siriwardana,DJ Bravo,,0,6,6,,,,356123561
+2,West Indies,11,KA Pollard,TAM Siriwardana,DJ Bravo,,0,1,1,,,,356123561
+2,West Indies,11,DJ Bravo,TAM Siriwardana,KA Pollard,,0,0,0,,,,356123561
+2,West Indies,11,DJ Bravo,TAM Siriwardana,KA Pollard,,0,1,1,,,,356123561
+2,West Indies,12,DJ Bravo,SMSM Senanayake,KA Pollard,,0,6,6,,,,356123561
+2,West Indies,12,DJ Bravo,SMSM Senanayake,KA Pollard,,0,6,6,,,,356123561
+2,West Indies,12,DJ Bravo,SMSM Senanayake,KA Pollard,,0,4,4,,,,356123561
+2,West Indies,12,DJ Bravo,SMSM Senanayake,KA Pollard,,0,0,0,caught,DJ Bravo,MDKJ Perera,356123561
+2,West Indies,12,DJG Sammy,SMSM Senanayake,KA Pollard,,0,1,1,,,,356123561
+2,West Indies,12,KA Pollard,SMSM Senanayake,DJG Sammy,,0,1,1,,,,356123561
+2,West Indies,13,KA Pollard,TAM Siriwardana,DJG Sammy,,0,0,0,caught,KA Pollard,KMDN Kulasekara,356123561
+2,West Indies,13,JO Holder,TAM Siriwardana,DJG Sammy,,0,1,1,,,,356123561
+2,West Indies,13,DJG Sammy,TAM Siriwardana,JO Holder,,0,1,1,,,,356123561
+2,West Indies,13,JO Holder,TAM Siriwardana,DJG Sammy,,0,1,1,,,,356123561
+2,West Indies,13,DJG Sammy,TAM Siriwardana,JO Holder,,0,1,1,,,,356123561
+2,West Indies,13,JO Holder,TAM Siriwardana,DJG Sammy,,0,0,0,,,,356123561
+2,West Indies,14,DJG Sammy,SMSM Senanayake,JO Holder,,0,0,0,,,,356123561
+2,West Indies,14,DJG Sammy,SMSM Senanayake,JO Holder,,0,0,0,caught,DJG Sammy,CK Kapugedera,356123561
+2,West Indies,14,JO Holder,SMSM Senanayake,JE Taylor,,0,0,0,caught,JO Holder,TAM Siriwardana,356123561
+2,West Indies,14,JE Taylor,SMSM Senanayake,SP Narine,,0,0,0,,,,356123561
+2,West Indies,14,JE Taylor,SMSM Senanayake,SP Narine,,0,1,1,,,,356123561
+2,West Indies,14,SP Narine,SMSM Senanayake,JE Taylor,,0,1,1,,,,356123561
+2,West Indies,15,SP Narine,SL Malinga,JE Taylor,,0,1,1,,,,356123561
+2,West Indies,15,JE Taylor,SL Malinga,SP Narine,,0,0,0,,,,356123561
+2,West Indies,15,JE Taylor,SL Malinga,SP Narine,,0,1,1,,,,356123561
+2,West Indies,15,SP Narine,SL Malinga,JE Taylor,,0,1,1,,,,356123561
+2,West Indies,15,JE Taylor,SL Malinga,SP Narine,,0,0,0,,,,356123561
+2,West Indies,15,JE Taylor,SL Malinga,SP Narine,,0,0,0,,,,356123561
+2,West Indies,16,SP Narine,KMDN Kulasekara,JE Taylor,,0,1,1,,,,356123561
+2,West Indies,16,JE Taylor,KMDN Kulasekara,SP Narine,,0,1,1,,,,356123561
+2,West Indies,16,SP Narine,KMDN Kulasekara,JE Taylor,wides,1,1,0,,,,356123561
+2,West Indies,16,SP Narine,KMDN Kulasekara,JE Taylor,,0,4,4,,,,356123561
+2,West Indies,16,SP Narine,KMDN Kulasekara,JE Taylor,wides,1,1,0,,,,356123561
+2,West Indies,16,SP Narine,KMDN Kulasekara,JE Taylor,,0,6,6,,,,356123561
+2,West Indies,16,SP Narine,KMDN Kulasekara,JE Taylor,,0,1,1,,,,356123561
+2,West Indies,16,JE Taylor,KMDN Kulasekara,SP Narine,,0,2,2,,,,356123561
+2,West Indies,17,SP Narine,SL Malinga,JE Taylor,,0,1,1,,,,356123561
+2,West Indies,17,JE Taylor,SL Malinga,SP Narine,,0,0,0,,,,356123561
+2,West Indies,17,JE Taylor,SL Malinga,SP Narine,,0,1,1,,,,356123561
+2,West Indies,17,SP Narine,SL Malinga,JE Taylor,,0,1,1,,,,356123561
+2,West Indies,17,JE Taylor,SL Malinga,SP Narine,,0,0,0,,,,356123561
+2,West Indies,17,JE Taylor,SL Malinga,SP Narine,,0,0,0,caught,JE Taylor,LD Chandimal,356123561
+2,West Indies,18,D Bishoo,KMDN Kulasekara,SP Narine,,0,0,0,,,,356123561
+2,West Indies,18,D Bishoo,KMDN Kulasekara,SP Narine,,0,0,0,,,,356123561
+2,West Indies,18,D Bishoo,KMDN Kulasekara,SP Narine,,0,1,1,,,,356123561
+2,West Indies,18,SP Narine,KMDN Kulasekara,D Bishoo,,0,0,0,,,,356123561
+2,West Indies,18,SP Narine,KMDN Kulasekara,D Bishoo,,0,4,4,,,,356123561
+2,West Indies,18,SP Narine,KMDN Kulasekara,D Bishoo,,0,1,1,,,,356123561
+2,West Indies,19,SP Narine,GSNFG Jayasuriya,D Bishoo,wides,5,5,0,,,,356123561
+2,West Indies,19,SP Narine,GSNFG Jayasuriya,D Bishoo,,0,0,0,,,,356123561
+2,West Indies,19,SP Narine,GSNFG Jayasuriya,D Bishoo,,0,1,1,,,,356123561
+2,West Indies,19,D Bishoo,GSNFG Jayasuriya,SP Narine,,0,4,4,,,,356123561
+2,West Indies,19,D Bishoo,GSNFG Jayasuriya,SP Narine,,0,1,1,,,,356123561
+2,West Indies,19,SP Narine,GSNFG Jayasuriya,D Bishoo,,0,0,0,bowled,SP Narine,,356123561

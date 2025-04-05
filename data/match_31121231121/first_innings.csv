@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Norway,0,Raza Iqbal,CAJ Meschede,Pratik Agnihotri,,0,0,0,,,,31121231121
+1,Norway,0,Raza Iqbal,CAJ Meschede,Pratik Agnihotri,,0,1,1,,,,31121231121
+1,Norway,0,Pratik Agnihotri,CAJ Meschede,Raza Iqbal,,0,0,0,,,,31121231121
+1,Norway,0,Pratik Agnihotri,CAJ Meschede,Raza Iqbal,,0,0,0,,,,31121231121
+1,Norway,0,Pratik Agnihotri,CAJ Meschede,Raza Iqbal,,0,0,0,,,,31121231121
+1,Norway,0,Pratik Agnihotri,CAJ Meschede,Raza Iqbal,,0,0,0,,,,31121231121
+1,Norway,1,Raza Iqbal,Izatullah Dawlatzai,Pratik Agnihotri,,0,1,1,,,,31121231121
+1,Norway,1,Pratik Agnihotri,Izatullah Dawlatzai,Raza Iqbal,,0,0,0,,,,31121231121
+1,Norway,1,Pratik Agnihotri,Izatullah Dawlatzai,Raza Iqbal,,0,0,0,,,,31121231121
+1,Norway,1,Pratik Agnihotri,Izatullah Dawlatzai,Raza Iqbal,,0,1,1,,,,31121231121
+1,Norway,1,Raza Iqbal,Izatullah Dawlatzai,Pratik Agnihotri,,0,0,0,,,,31121231121
+1,Norway,1,Raza Iqbal,Izatullah Dawlatzai,Pratik Agnihotri,,0,1,1,,,,31121231121
+1,Norway,2,Raza Iqbal,CAJ Meschede,Pratik Agnihotri,,0,0,0,,,,31121231121
+1,Norway,2,Raza Iqbal,CAJ Meschede,Pratik Agnihotri,,0,1,1,,,,31121231121
+1,Norway,2,Pratik Agnihotri,CAJ Meschede,Raza Iqbal,,0,1,1,,,,31121231121
+1,Norway,2,Raza Iqbal,CAJ Meschede,Pratik Agnihotri,,0,0,0,,,,31121231121
+1,Norway,2,Raza Iqbal,CAJ Meschede,Pratik Agnihotri,,0,1,1,,,,31121231121
+1,Norway,2,Pratik Agnihotri,CAJ Meschede,Raza Iqbal,,0,1,1,,,,31121231121
+1,Norway,3,Pratik Agnihotri,Izatullah Dawlatzai,Raza Iqbal,,0,0,0,,,,31121231121
+1,Norway,3,Pratik Agnihotri,Izatullah Dawlatzai,Raza Iqbal,,0,1,1,,,,31121231121
+1,Norway,3,Raza Iqbal,Izatullah Dawlatzai,Pratik Agnihotri,,0,4,4,,,,31121231121
+1,Norway,3,Raza Iqbal,Izatullah Dawlatzai,Pratik Agnihotri,,0,4,4,,,,31121231121
+1,Norway,3,Raza Iqbal,Izatullah Dawlatzai,Pratik Agnihotri,,0,0,0,caught,Raza Iqbal,Amir Mangal,31121231121
+1,Norway,3,E Ul Haq,Izatullah Dawlatzai,Pratik Agnihotri,,0,4,4,,,,31121231121
+1,Norway,4,Pratik Agnihotri,CAJ Meschede,E Ul Haq,,0,1,1,,,,31121231121
+1,Norway,4,E Ul Haq,CAJ Meschede,Pratik Agnihotri,,0,0,0,lbw,E Ul Haq,,31121231121
+1,Norway,4,S Waqas Ahmed,CAJ Meschede,Pratik Agnihotri,,0,0,0,,,,31121231121
+1,Norway,4,S Waqas Ahmed,CAJ Meschede,Pratik Agnihotri,,0,0,0,,,,31121231121
+1,Norway,4,S Waqas Ahmed,CAJ Meschede,Pratik Agnihotri,,0,0,0,,,,31121231121
+1,Norway,4,S Waqas Ahmed,CAJ Meschede,Pratik Agnihotri,,0,0,0,,,,31121231121
+1,Norway,5,Pratik Agnihotri,Ahmed Wardak,S Waqas Ahmed,,0,1,1,,,,31121231121
+1,Norway,5,S Waqas Ahmed,Ahmed Wardak,Pratik Agnihotri,,0,1,1,,,,31121231121
+1,Norway,5,Pratik Agnihotri,Ahmed Wardak,S Waqas Ahmed,,0,0,0,,,,31121231121
+1,Norway,5,Pratik Agnihotri,Ahmed Wardak,S Waqas Ahmed,legbyes,2,2,0,,,,31121231121
+1,Norway,5,Pratik Agnihotri,Ahmed Wardak,S Waqas Ahmed,,0,0,0,,,,31121231121
+1,Norway,5,Pratik Agnihotri,Ahmed Wardak,S Waqas Ahmed,,0,0,0,,,,31121231121
+1,Norway,6,S Waqas Ahmed,CAJ Meschede,Pratik Agnihotri,,0,0,0,,,,31121231121
+1,Norway,6,S Waqas Ahmed,CAJ Meschede,Pratik Agnihotri,,0,0,0,bowled,S Waqas Ahmed,,31121231121
+1,Norway,6,Ansar Iqbal,CAJ Meschede,Pratik Agnihotri,,0,0,0,,,,31121231121
+1,Norway,6,Ansar Iqbal,CAJ Meschede,Pratik Agnihotri,,0,1,1,,,,31121231121
+1,Norway,6,Pratik Agnihotri,CAJ Meschede,Ansar Iqbal,,0,0,0,,,,31121231121
+1,Norway,6,Pratik Agnihotri,CAJ Meschede,Ansar Iqbal,,0,4,4,,,,31121231121
+1,Norway,7,Ansar Iqbal,Asad Mohammad,Pratik Agnihotri,,0,0,0,,,,31121231121
+1,Norway,7,Ansar Iqbal,Asad Mohammad,Pratik Agnihotri,,0,1,1,,,,31121231121
+1,Norway,7,Pratik Agnihotri,Asad Mohammad,Ansar Iqbal,,0,0,0,,,,31121231121
+1,Norway,7,Pratik Agnihotri,Asad Mohammad,Ansar Iqbal,,0,4,4,,,,31121231121
+1,Norway,7,Pratik Agnihotri,Asad Mohammad,Ansar Iqbal,,0,0,0,,,,31121231121
+1,Norway,7,Pratik Agnihotri,Asad Mohammad,Ansar Iqbal,,0,1,1,,,,31121231121
+1,Norway,8,Pratik Agnihotri,Ahmed Wardak,Ansar Iqbal,,0,1,1,,,,31121231121
+1,Norway,8,Ansar Iqbal,Ahmed Wardak,Pratik Agnihotri,,0,4,4,,,,31121231121
+1,Norway,8,Ansar Iqbal,Ahmed Wardak,Pratik Agnihotri,,0,1,1,,,,31121231121
+1,Norway,8,Pratik Agnihotri,Ahmed Wardak,Ansar Iqbal,,0,2,2,,,,31121231121
+1,Norway,8,Pratik Agnihotri,Ahmed Wardak,Ansar Iqbal,,0,1,1,,,,31121231121
+1,Norway,8,Ansar Iqbal,Ahmed Wardak,Pratik Agnihotri,,0,0,0,,,,31121231121
+1,Norway,9,Pratik Agnihotri,Muslim Yar,Ansar Iqbal,,0,0,0,lbw,Pratik Agnihotri,,31121231121
+1,Norway,9,Hayatullah Niazi,Muslim Yar,Ansar Iqbal,,0,2,2,,,,31121231121
+1,Norway,9,Hayatullah Niazi,Muslim Yar,Ansar Iqbal,,0,2,2,,,,31121231121
+1,Norway,9,Hayatullah Niazi,Muslim Yar,Ansar Iqbal,,0,4,4,,,,31121231121
+1,Norway,9,Hayatullah Niazi,Muslim Yar,Ansar Iqbal,wides,1,1,0,,,,31121231121
+1,Norway,9,Hayatullah Niazi,Muslim Yar,Ansar Iqbal,,0,0,0,,,,31121231121
+1,Norway,9,Hayatullah Niazi,Muslim Yar,Ansar Iqbal,,0,0,0,,,,31121231121
+1,Norway,10,Ansar Iqbal,Sahir Naqash,Hayatullah Niazi,,0,0,0,,,,31121231121
+1,Norway,10,Ansar Iqbal,Sahir Naqash,Hayatullah Niazi,,0,1,1,,,,31121231121
+1,Norway,10,Hayatullah Niazi,Sahir Naqash,Ansar Iqbal,,0,1,1,,,,31121231121
+1,Norway,10,Ansar Iqbal,Sahir Naqash,Hayatullah Niazi,,0,2,2,,,,31121231121
+1,Norway,10,Ansar Iqbal,Sahir Naqash,Hayatullah Niazi,,0,1,1,,,,31121231121
+1,Norway,10,Hayatullah Niazi,Sahir Naqash,Ansar Iqbal,,0,0,0,,,,31121231121
+1,Norway,11,Ansar Iqbal,Muslim Yar,Hayatullah Niazi,,0,4,4,,,,31121231121
+1,Norway,11,Ansar Iqbal,Muslim Yar,Hayatullah Niazi,,0,0,0,,,,31121231121
+1,Norway,11,Ansar Iqbal,Muslim Yar,Hayatullah Niazi,,0,0,0,caught,Ansar Iqbal,R Pillai,31121231121
+1,Norway,11,Nazakat Ali,Muslim Yar,Hayatullah Niazi,,0,0,0,,,,31121231121
+1,Norway,11,Nazakat Ali,Muslim Yar,Hayatullah Niazi,,0,1,1,,,,31121231121
+1,Norway,11,Hayatullah Niazi,Muslim Yar,Nazakat Ali,,0,0,0,,,,31121231121
+1,Norway,12,Nazakat Ali,Sahir Naqash,Hayatullah Niazi,,0,1,1,,,,31121231121
+1,Norway,12,Hayatullah Niazi,Sahir Naqash,Nazakat Ali,,0,1,1,,,,31121231121
+1,Norway,12,Nazakat Ali,Sahir Naqash,Hayatullah Niazi,,0,0,0,,,,31121231121
+1,Norway,12,Nazakat Ali,Sahir Naqash,Hayatullah Niazi,,0,1,1,,,,31121231121
+1,Norway,12,Hayatullah Niazi,Sahir Naqash,Nazakat Ali,,0,0,0,caught,Hayatullah Niazi,Asad Mohammad,31121231121
+1,Norway,12,Khizer Ahmed,Sahir Naqash,Nazakat Ali,noballs,1,1,0,,,,31121231121
+1,Norway,12,Khizer Ahmed,Sahir Naqash,Nazakat Ali,,0,0,0,,,,31121231121
+1,Norway,13,Nazakat Ali,Muslim Yar,Khizer Ahmed,,0,0,0,,,,31121231121
+1,Norway,13,Nazakat Ali,Muslim Yar,Khizer Ahmed,,0,0,0,,,,31121231121
+1,Norway,13,Nazakat Ali,Muslim Yar,Khizer Ahmed,,0,0,0,,,,31121231121
+1,Norway,13,Nazakat Ali,Muslim Yar,Khizer Ahmed,,0,1,1,,,,31121231121
+1,Norway,13,Khizer Ahmed,Muslim Yar,Nazakat Ali,,0,2,2,,,,31121231121
+1,Norway,13,Khizer Ahmed,Muslim Yar,Nazakat Ali,,0,0,0,,,,31121231121
+1,Norway,14,Nazakat Ali,Sahir Naqash,Khizer Ahmed,,0,0,0,,,,31121231121
+1,Norway,14,Nazakat Ali,Sahir Naqash,Khizer Ahmed,,0,0,0,,,,31121231121
+1,Norway,14,Nazakat Ali,Sahir Naqash,Khizer Ahmed,,0,1,1,,,,31121231121
+1,Norway,14,Khizer Ahmed,Sahir Naqash,Nazakat Ali,,0,0,0,,,,31121231121
+1,Norway,14,Khizer Ahmed,Sahir Naqash,Nazakat Ali,,0,1,1,,,,31121231121
+1,Norway,14,Nazakat Ali,Sahir Naqash,Khizer Ahmed,,0,1,1,,,,31121231121
+1,Norway,15,Nazakat Ali,Izatullah Dawlatzai,Khizer Ahmed,,0,4,4,,,,31121231121
+1,Norway,15,Nazakat Ali,Izatullah Dawlatzai,Khizer Ahmed,,0,0,0,bowled,Nazakat Ali,,31121231121
+1,Norway,15,Tafseer Ali,Izatullah Dawlatzai,Khizer Ahmed,,0,0,0,,,,31121231121
+1,Norway,15,Tafseer Ali,Izatullah Dawlatzai,Khizer Ahmed,,0,0,0,,,,31121231121
+1,Norway,15,Tafseer Ali,Izatullah Dawlatzai,Khizer Ahmed,,0,1,1,,,,31121231121
+1,Norway,15,Khizer Ahmed,Izatullah Dawlatzai,Tafseer Ali,,0,1,1,,,,31121231121
+1,Norway,16,Khizer Ahmed,Ahmed Wardak,Tafseer Ali,,0,1,1,,,,31121231121
+1,Norway,16,Tafseer Ali,Ahmed Wardak,Khizer Ahmed,,0,1,1,,,,31121231121
+1,Norway,16,Khizer Ahmed,Ahmed Wardak,Tafseer Ali,,0,0,0,run out,Tafseer Ali,,31121231121
+1,Norway,16,Khizer Ahmed,Ahmed Wardak,Junaid Sheikh,,0,1,1,,,,31121231121
+1,Norway,16,Junaid Sheikh,Ahmed Wardak,Khizer Ahmed,,0,1,1,,,,31121231121
+1,Norway,16,Khizer Ahmed,Ahmed Wardak,Junaid Sheikh,,0,1,1,,,,31121231121
+1,Norway,17,Khizer Ahmed,Izatullah Dawlatzai,Junaid Sheikh,,0,0,0,,,,31121231121
+1,Norway,17,Khizer Ahmed,Izatullah Dawlatzai,Junaid Sheikh,,0,4,4,,,,31121231121
+1,Norway,17,Khizer Ahmed,Izatullah Dawlatzai,Junaid Sheikh,,0,0,0,,,,31121231121
+1,Norway,17,Khizer Ahmed,Izatullah Dawlatzai,Junaid Sheikh,,0,1,1,,,,31121231121
+1,Norway,17,Junaid Sheikh,Izatullah Dawlatzai,Khizer Ahmed,,0,0,0,bowled,Junaid Sheikh,,31121231121
+1,Norway,17,P Bhart,Izatullah Dawlatzai,Khizer Ahmed,,0,0,0,,,,31121231121
+1,Norway,18,Khizer Ahmed,Ahmed Wardak,P Bhart,,0,1,1,,,,31121231121
+1,Norway,18,P Bhart,Ahmed Wardak,Khizer Ahmed,,0,0,0,,,,31121231121
+1,Norway,18,P Bhart,Ahmed Wardak,Khizer Ahmed,,0,0,0,,,,31121231121
+1,Norway,18,P Bhart,Ahmed Wardak,Khizer Ahmed,,0,1,1,,,,31121231121
+1,Norway,18,Khizer Ahmed,Ahmed Wardak,P Bhart,,0,1,1,,,,31121231121
+1,Norway,18,P Bhart,Ahmed Wardak,Khizer Ahmed,,0,0,0,,,,31121231121
+1,Norway,19,Khizer Ahmed,Asad Mohammad,P Bhart,,0,1,1,,,,31121231121
+1,Norway,19,P Bhart,Asad Mohammad,Khizer Ahmed,,0,0,0,,,,31121231121
+1,Norway,19,P Bhart,Asad Mohammad,Khizer Ahmed,,0,0,0,,,,31121231121
+1,Norway,19,P Bhart,Asad Mohammad,Khizer Ahmed,,0,1,1,,,,31121231121
+1,Norway,19,Khizer Ahmed,Asad Mohammad,P Bhart,,0,2,2,,,,31121231121
+1,Norway,19,Khizer Ahmed,Asad Mohammad,P Bhart,,0,1,1,run out,Khizer Ahmed,,31121231121

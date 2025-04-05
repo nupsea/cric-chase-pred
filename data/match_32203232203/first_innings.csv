@@ -1,0 +1,114 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Thailand,0,N Nuntarach,Syazrul Idrus,J Pakhiaokajee,,0,0,0,caught,N Nuntarach,Ahmed Faiz,32203232203
+1,Thailand,0,P Suanchuai,Syazrul Idrus,J Pakhiaokajee,,0,1,1,,,,32203232203
+1,Thailand,0,J Pakhiaokajee,Syazrul Idrus,P Suanchuai,,0,1,1,,,,32203232203
+1,Thailand,0,P Suanchuai,Syazrul Idrus,J Pakhiaokajee,,0,4,4,,,,32203232203
+1,Thailand,0,P Suanchuai,Syazrul Idrus,J Pakhiaokajee,,0,0,0,,,,32203232203
+1,Thailand,0,P Suanchuai,Syazrul Idrus,J Pakhiaokajee,,0,2,2,,,,32203232203
+1,Thailand,1,J Pakhiaokajee,S Vijay Unni,P Suanchuai,,0,0,0,,,,32203232203
+1,Thailand,1,J Pakhiaokajee,S Vijay Unni,P Suanchuai,,0,1,1,,,,32203232203
+1,Thailand,1,P Suanchuai,S Vijay Unni,J Pakhiaokajee,,0,0,0,,,,32203232203
+1,Thailand,1,P Suanchuai,S Vijay Unni,J Pakhiaokajee,,0,1,1,,,,32203232203
+1,Thailand,1,J Pakhiaokajee,S Vijay Unni,P Suanchuai,,0,0,0,,,,32203232203
+1,Thailand,1,J Pakhiaokajee,S Vijay Unni,P Suanchuai,,0,0,0,,,,32203232203
+1,Thailand,2,P Suanchuai,Syazrul Idrus,J Pakhiaokajee,,0,1,1,,,,32203232203
+1,Thailand,2,J Pakhiaokajee,Syazrul Idrus,P Suanchuai,legbyes,1,1,0,,,,32203232203
+1,Thailand,2,P Suanchuai,Syazrul Idrus,J Pakhiaokajee,,0,2,2,,,,32203232203
+1,Thailand,2,P Suanchuai,Syazrul Idrus,J Pakhiaokajee,,0,0,0,,,,32203232203
+1,Thailand,2,P Suanchuai,Syazrul Idrus,J Pakhiaokajee,,0,4,4,,,,32203232203
+1,Thailand,2,P Suanchuai,Syazrul Idrus,J Pakhiaokajee,,0,1,1,,,,32203232203
+1,Thailand,3,P Suanchuai,S Vijay Unni,J Pakhiaokajee,,0,1,1,,,,32203232203
+1,Thailand,3,J Pakhiaokajee,S Vijay Unni,P Suanchuai,,0,0,0,,,,32203232203
+1,Thailand,3,J Pakhiaokajee,S Vijay Unni,P Suanchuai,,0,0,0,,,,32203232203
+1,Thailand,3,J Pakhiaokajee,S Vijay Unni,P Suanchuai,,0,0,0,,,,32203232203
+1,Thailand,3,J Pakhiaokajee,S Vijay Unni,P Suanchuai,,0,0,0,caught,J Pakhiaokajee,Fitri Sham,32203232203
+1,Thailand,3,C Pengkumta,S Vijay Unni,P Suanchuai,,0,0,0,,,,32203232203
+1,Thailand,4,P Suanchuai,Syazrul Idrus,C Pengkumta,,0,1,1,,,,32203232203
+1,Thailand,4,C Pengkumta,Syazrul Idrus,P Suanchuai,,0,1,1,,,,32203232203
+1,Thailand,4,P Suanchuai,Syazrul Idrus,C Pengkumta,,0,1,1,,,,32203232203
+1,Thailand,4,C Pengkumta,Syazrul Idrus,P Suanchuai,,0,0,0,,,,32203232203
+1,Thailand,4,C Pengkumta,Syazrul Idrus,P Suanchuai,,0,0,0,lbw,C Pengkumta,,32203232203
+1,Thailand,4,Vichanath Singh,Syazrul Idrus,P Suanchuai,,0,0,0,,,,32203232203
+1,Thailand,5,P Suanchuai,S Vijay Unni,Vichanath Singh,,0,0,0,,,,32203232203
+1,Thailand,5,P Suanchuai,S Vijay Unni,Vichanath Singh,,0,1,1,,,,32203232203
+1,Thailand,5,Vichanath Singh,S Vijay Unni,P Suanchuai,,0,0,0,,,,32203232203
+1,Thailand,5,Vichanath Singh,S Vijay Unni,P Suanchuai,,0,0,0,,,,32203232203
+1,Thailand,5,Vichanath Singh,S Vijay Unni,P Suanchuai,,0,1,1,,,,32203232203
+1,Thailand,5,P Suanchuai,S Vijay Unni,Vichanath Singh,,0,0,0,,,,32203232203
+1,Thailand,6,Vichanath Singh,Fitri Sham,P Suanchuai,,0,1,1,,,,32203232203
+1,Thailand,6,P Suanchuai,Fitri Sham,Vichanath Singh,,0,0,0,,,,32203232203
+1,Thailand,6,P Suanchuai,Fitri Sham,Vichanath Singh,,0,1,1,,,,32203232203
+1,Thailand,6,Vichanath Singh,Fitri Sham,P Suanchuai,,0,0,0,,,,32203232203
+1,Thailand,6,Vichanath Singh,Fitri Sham,P Suanchuai,,0,5,5,,,,32203232203
+1,Thailand,6,P Suanchuai,Fitri Sham,Vichanath Singh,,0,2,2,,,,32203232203
+1,Thailand,7,Vichanath Singh,Khizar Hayat,P Suanchuai,,0,1,1,,,,32203232203
+1,Thailand,7,P Suanchuai,Khizar Hayat,Vichanath Singh,,0,0,0,,,,32203232203
+1,Thailand,7,P Suanchuai,Khizar Hayat,Vichanath Singh,,0,0,0,,,,32203232203
+1,Thailand,7,P Suanchuai,Khizar Hayat,Vichanath Singh,,0,1,1,,,,32203232203
+1,Thailand,7,Vichanath Singh,Khizar Hayat,P Suanchuai,,0,1,1,,,,32203232203
+1,Thailand,7,P Suanchuai,Khizar Hayat,Vichanath Singh,,0,0,0,,,,32203232203
+1,Thailand,8,Vichanath Singh,Fitri Sham,P Suanchuai,,0,0,0,,,,32203232203
+1,Thailand,8,Vichanath Singh,Fitri Sham,P Suanchuai,,0,2,2,,,,32203232203
+1,Thailand,8,Vichanath Singh,Fitri Sham,P Suanchuai,,0,0,0,,,,32203232203
+1,Thailand,8,Vichanath Singh,Fitri Sham,P Suanchuai,,0,2,2,,,,32203232203
+1,Thailand,8,Vichanath Singh,Fitri Sham,P Suanchuai,,0,4,4,,,,32203232203
+1,Thailand,8,Vichanath Singh,Fitri Sham,P Suanchuai,,0,1,1,run out,Vichanath Singh,Ainool Hafizs,32203232203
+1,Thailand,9,P Suanchuai,Khizar Hayat,C Chatphaisan,,0,0,0,,,,32203232203
+1,Thailand,9,P Suanchuai,Khizar Hayat,C Chatphaisan,,0,1,1,,,,32203232203
+1,Thailand,9,C Chatphaisan,Khizar Hayat,P Suanchuai,,0,0,0,,,,32203232203
+1,Thailand,9,C Chatphaisan,Khizar Hayat,P Suanchuai,,0,0,0,lbw,C Chatphaisan,,32203232203
+1,Thailand,9,Y Saranonnakkun,Khizar Hayat,P Suanchuai,,0,0,0,lbw,Y Saranonnakkun,,32203232203
+1,Thailand,9,S Desungnoen,Khizar Hayat,P Suanchuai,legbyes,1,1,0,,,,32203232203
+1,Thailand,10,S Desungnoen,Fitri Sham,P Suanchuai,,0,1,1,,,,32203232203
+1,Thailand,10,P Suanchuai,Fitri Sham,S Desungnoen,,0,0,0,,,,32203232203
+1,Thailand,10,P Suanchuai,Fitri Sham,S Desungnoen,,0,2,2,,,,32203232203
+1,Thailand,10,P Suanchuai,Fitri Sham,S Desungnoen,,0,1,1,,,,32203232203
+1,Thailand,10,S Desungnoen,Fitri Sham,P Suanchuai,,0,0,0,,,,32203232203
+1,Thailand,10,S Desungnoen,Fitri Sham,P Suanchuai,,0,0,0,,,,32203232203
+1,Thailand,11,P Suanchuai,Khizar Hayat,S Desungnoen,,0,1,1,,,,32203232203
+1,Thailand,11,S Desungnoen,Khizar Hayat,P Suanchuai,,0,1,1,,,,32203232203
+1,Thailand,11,P Suanchuai,Khizar Hayat,S Desungnoen,,0,4,4,,,,32203232203
+1,Thailand,11,P Suanchuai,Khizar Hayat,S Desungnoen,,0,1,1,,,,32203232203
+1,Thailand,11,S Desungnoen,Khizar Hayat,P Suanchuai,,0,0,0,,,,32203232203
+1,Thailand,11,S Desungnoen,Khizar Hayat,P Suanchuai,,0,0,0,,,,32203232203
+1,Thailand,12,P Suanchuai,Fitri Sham,S Desungnoen,,0,0,0,,,,32203232203
+1,Thailand,12,P Suanchuai,Fitri Sham,S Desungnoen,,0,2,2,,,,32203232203
+1,Thailand,12,P Suanchuai,Fitri Sham,S Desungnoen,,0,0,0,,,,32203232203
+1,Thailand,12,P Suanchuai,Fitri Sham,S Desungnoen,,0,0,0,,,,32203232203
+1,Thailand,12,P Suanchuai,Fitri Sham,S Desungnoen,,0,1,1,,,,32203232203
+1,Thailand,12,S Desungnoen,Fitri Sham,P Suanchuai,,0,0,0,,,,32203232203
+1,Thailand,13,P Suanchuai,Virandeep Singh,S Desungnoen,,0,0,0,bowled,P Suanchuai,,32203232203
+1,Thailand,13,K Senamontree,Virandeep Singh,S Desungnoen,,0,0,0,,,,32203232203
+1,Thailand,13,K Senamontree,Virandeep Singh,S Desungnoen,,0,0,0,,,,32203232203
+1,Thailand,13,K Senamontree,Virandeep Singh,S Desungnoen,,0,0,0,,,,32203232203
+1,Thailand,13,K Senamontree,Virandeep Singh,S Desungnoen,,0,0,0,,,,32203232203
+1,Thailand,13,K Senamontree,Virandeep Singh,S Desungnoen,,0,1,1,,,,32203232203
+1,Thailand,14,K Senamontree,S Vijay Unni,S Desungnoen,,0,0,0,,,,32203232203
+1,Thailand,14,K Senamontree,S Vijay Unni,S Desungnoen,,0,0,0,caught,K Senamontree,Syazrul Idrus,32203232203
+1,Thailand,14,S Desungnoen,S Vijay Unni,T Yotharat,,0,0,0,,,,32203232203
+1,Thailand,14,S Desungnoen,S Vijay Unni,T Yotharat,,0,0,0,,,,32203232203
+1,Thailand,14,S Desungnoen,S Vijay Unni,T Yotharat,,0,0,0,,,,32203232203
+1,Thailand,14,S Desungnoen,S Vijay Unni,T Yotharat,,0,1,1,,,,32203232203
+1,Thailand,15,S Desungnoen,Virandeep Singh,T Yotharat,,0,0,0,,,,32203232203
+1,Thailand,15,S Desungnoen,Virandeep Singh,T Yotharat,,0,1,1,,,,32203232203
+1,Thailand,15,T Yotharat,Virandeep Singh,S Desungnoen,,0,0,0,,,,32203232203
+1,Thailand,15,T Yotharat,Virandeep Singh,S Desungnoen,,0,0,0,,,,32203232203
+1,Thailand,15,T Yotharat,Virandeep Singh,S Desungnoen,,0,0,0,,,,32203232203
+1,Thailand,15,T Yotharat,Virandeep Singh,S Desungnoen,,0,1,1,,,,32203232203
+1,Thailand,16,T Yotharat,Khizar Hayat,S Desungnoen,,0,0,0,,,,32203232203
+1,Thailand,16,T Yotharat,Khizar Hayat,S Desungnoen,,0,0,0,,,,32203232203
+1,Thailand,16,T Yotharat,Khizar Hayat,S Desungnoen,,0,0,0,,,,32203232203
+1,Thailand,16,T Yotharat,Khizar Hayat,S Desungnoen,,0,0,0,,,,32203232203
+1,Thailand,16,T Yotharat,Khizar Hayat,S Desungnoen,,0,1,1,,,,32203232203
+1,Thailand,16,S Desungnoen,Khizar Hayat,T Yotharat,,0,0,0,,,,32203232203
+1,Thailand,17,T Yotharat,Virandeep Singh,S Desungnoen,,0,1,1,,,,32203232203
+1,Thailand,17,S Desungnoen,Virandeep Singh,T Yotharat,,0,0,0,,,,32203232203
+1,Thailand,17,S Desungnoen,Virandeep Singh,T Yotharat,,0,0,0,,,,32203232203
+1,Thailand,17,S Desungnoen,Virandeep Singh,T Yotharat,,0,1,1,,,,32203232203
+1,Thailand,17,T Yotharat,Virandeep Singh,S Desungnoen,,0,2,2,,,,32203232203
+1,Thailand,17,T Yotharat,Virandeep Singh,S Desungnoen,,0,0,0,,,,32203232203
+1,Thailand,18,S Desungnoen,Syazrul Idrus,T Yotharat,,0,1,1,,,,32203232203
+1,Thailand,18,T Yotharat,Syazrul Idrus,S Desungnoen,,0,1,1,,,,32203232203
+1,Thailand,18,S Desungnoen,Syazrul Idrus,T Yotharat,,0,0,0,,,,32203232203
+1,Thailand,18,S Desungnoen,Syazrul Idrus,T Yotharat,,0,0,0,caught,S Desungnoen,Ainool Hafizs,32203232203
+1,Thailand,18,K Namchaikul,Syazrul Idrus,T Yotharat,,0,0,0,bowled,K Namchaikul,,32203232203

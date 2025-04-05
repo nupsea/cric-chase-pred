@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Pakistan,0,Kamran Akmal,KMDN Kulasekara,Imran Nazir,,0,0,0,bowled,Kamran Akmal,,310723107
+1,Pakistan,0,Shoaib Malik,KMDN Kulasekara,Imran Nazir,,0,0,0,,,,310723107
+1,Pakistan,0,Shoaib Malik,KMDN Kulasekara,Imran Nazir,,0,1,1,,,,310723107
+1,Pakistan,0,Imran Nazir,KMDN Kulasekara,Shoaib Malik,,0,1,1,,,,310723107
+1,Pakistan,0,Shoaib Malik,KMDN Kulasekara,Imran Nazir,,0,0,0,,,,310723107
+1,Pakistan,0,Shoaib Malik,KMDN Kulasekara,Imran Nazir,,0,0,0,,,,310723107
+1,Pakistan,1,Imran Nazir,T Thushara,Shoaib Malik,,0,4,4,,,,310723107
+1,Pakistan,1,Imran Nazir,T Thushara,Shoaib Malik,,0,1,1,,,,310723107
+1,Pakistan,1,Shoaib Malik,T Thushara,Imran Nazir,,0,0,0,,,,310723107
+1,Pakistan,1,Shoaib Malik,T Thushara,Imran Nazir,,0,4,4,,,,310723107
+1,Pakistan,1,Shoaib Malik,T Thushara,Imran Nazir,,0,4,4,,,,310723107
+1,Pakistan,1,Shoaib Malik,T Thushara,Imran Nazir,,0,4,4,,,,310723107
+1,Pakistan,2,Imran Nazir,KMDN Kulasekara,Shoaib Malik,,0,4,4,,,,310723107
+1,Pakistan,2,Imran Nazir,KMDN Kulasekara,Shoaib Malik,,0,2,2,,,,310723107
+1,Pakistan,2,Imran Nazir,KMDN Kulasekara,Shoaib Malik,legbyes,1,1,0,,,,310723107
+1,Pakistan,2,Shoaib Malik,KMDN Kulasekara,Imran Nazir,,0,1,1,,,,310723107
+1,Pakistan,2,Imran Nazir,KMDN Kulasekara,Shoaib Malik,,0,0,0,,,,310723107
+1,Pakistan,2,Imran Nazir,KMDN Kulasekara,Shoaib Malik,,0,1,1,,,,310723107
+1,Pakistan,3,Imran Nazir,SL Malinga,Shoaib Malik,,0,0,0,,,,310723107
+1,Pakistan,3,Imran Nazir,SL Malinga,Shoaib Malik,,0,4,4,,,,310723107
+1,Pakistan,3,Imran Nazir,SL Malinga,Shoaib Malik,,0,0,0,,,,310723107
+1,Pakistan,3,Imran Nazir,SL Malinga,Shoaib Malik,,0,3,3,,,,310723107
+1,Pakistan,3,Shoaib Malik,SL Malinga,Imran Nazir,,0,0,0,bowled,Shoaib Malik,,310723107
+1,Pakistan,3,Shahid Afridi,SL Malinga,Imran Nazir,,0,0,0,,,,310723107
+1,Pakistan,4,Imran Nazir,KMDN Kulasekara,Shahid Afridi,,0,2,2,,,,310723107
+1,Pakistan,4,Imran Nazir,KMDN Kulasekara,Shahid Afridi,,0,4,4,,,,310723107
+1,Pakistan,4,Imran Nazir,KMDN Kulasekara,Shahid Afridi,,0,0,0,,,,310723107
+1,Pakistan,4,Imran Nazir,KMDN Kulasekara,Shahid Afridi,,0,0,0,,,,310723107
+1,Pakistan,4,Imran Nazir,KMDN Kulasekara,Shahid Afridi,,0,6,6,,,,310723107
+1,Pakistan,4,Imran Nazir,KMDN Kulasekara,Shahid Afridi,,0,1,1,,,,310723107
+1,Pakistan,5,Imran Nazir,SL Malinga,Shahid Afridi,,0,0,0,,,,310723107
+1,Pakistan,5,Imran Nazir,SL Malinga,Shahid Afridi,,0,0,0,,,,310723107
+1,Pakistan,5,Imran Nazir,SL Malinga,Shahid Afridi,,0,0,0,,,,310723107
+1,Pakistan,5,Imran Nazir,SL Malinga,Shahid Afridi,,0,1,1,,,,310723107
+1,Pakistan,5,Shahid Afridi,SL Malinga,Imran Nazir,,0,0,0,,,,310723107
+1,Pakistan,5,Shahid Afridi,SL Malinga,Imran Nazir,,0,0,0,,,,310723107
+1,Pakistan,6,Imran Nazir,M Muralitharan,Shahid Afridi,,0,4,4,,,,310723107
+1,Pakistan,6,Imran Nazir,M Muralitharan,Shahid Afridi,,0,1,1,,,,310723107
+1,Pakistan,6,Shahid Afridi,M Muralitharan,Imran Nazir,,0,0,0,,,,310723107
+1,Pakistan,6,Shahid Afridi,M Muralitharan,Imran Nazir,,0,1,1,,,,310723107
+1,Pakistan,6,Imran Nazir,M Muralitharan,Shahid Afridi,wides,1,1,0,,,,310723107
+1,Pakistan,6,Imran Nazir,M Muralitharan,Shahid Afridi,,0,0,0,,,,310723107
+1,Pakistan,6,Imran Nazir,M Muralitharan,Shahid Afridi,,0,0,0,,,,310723107
+1,Pakistan,7,Shahid Afridi,T Thushara,Imran Nazir,,0,1,1,,,,310723107
+1,Pakistan,7,Imran Nazir,T Thushara,Shahid Afridi,,0,1,1,,,,310723107
+1,Pakistan,7,Shahid Afridi,T Thushara,Imran Nazir,,0,0,0,,,,310723107
+1,Pakistan,7,Shahid Afridi,T Thushara,Imran Nazir,,0,1,1,,,,310723107
+1,Pakistan,7,Imran Nazir,T Thushara,Shahid Afridi,,0,0,0,caught,Imran Nazir,SL Malinga,310723107
+1,Pakistan,7,Shahid Afridi,T Thushara,Umar Akmal,,0,1,1,,,,310723107
+1,Pakistan,8,Shahid Afridi,AD Mathews,Umar Akmal,,0,1,1,,,,310723107
+1,Pakistan,8,Umar Akmal,AD Mathews,Shahid Afridi,,0,1,1,,,,310723107
+1,Pakistan,8,Shahid Afridi,AD Mathews,Umar Akmal,,0,1,1,,,,310723107
+1,Pakistan,8,Umar Akmal,AD Mathews,Shahid Afridi,,0,1,1,,,,310723107
+1,Pakistan,8,Shahid Afridi,AD Mathews,Umar Akmal,,0,0,0,,,,310723107
+1,Pakistan,8,Shahid Afridi,AD Mathews,Umar Akmal,,0,2,2,,,,310723107
+1,Pakistan,9,Umar Akmal,ST Jayasuriya,Shahid Afridi,,0,2,2,,,,310723107
+1,Pakistan,9,Umar Akmal,ST Jayasuriya,Shahid Afridi,,0,2,2,,,,310723107
+1,Pakistan,9,Umar Akmal,ST Jayasuriya,Shahid Afridi,,0,1,1,,,,310723107
+1,Pakistan,9,Shahid Afridi,ST Jayasuriya,Umar Akmal,,0,0,0,,,,310723107
+1,Pakistan,9,Shahid Afridi,ST Jayasuriya,Umar Akmal,legbyes,1,1,0,,,,310723107
+1,Pakistan,9,Umar Akmal,ST Jayasuriya,Shahid Afridi,,0,4,4,,,,310723107
+1,Pakistan,10,Shahid Afridi,AD Mathews,Umar Akmal,,0,1,1,,,,310723107
+1,Pakistan,10,Umar Akmal,AD Mathews,Shahid Afridi,,0,1,1,,,,310723107
+1,Pakistan,10,Shahid Afridi,AD Mathews,Umar Akmal,,0,6,6,,,,310723107
+1,Pakistan,10,Shahid Afridi,AD Mathews,Umar Akmal,,0,1,1,,,,310723107
+1,Pakistan,10,Umar Akmal,AD Mathews,Shahid Afridi,,0,4,4,,,,310723107
+1,Pakistan,10,Umar Akmal,AD Mathews,Shahid Afridi,,0,1,1,,,,310723107
+1,Pakistan,11,Umar Akmal,M Muralitharan,Shahid Afridi,,0,1,1,,,,310723107
+1,Pakistan,11,Shahid Afridi,M Muralitharan,Umar Akmal,,0,1,1,,,,310723107
+1,Pakistan,11,Umar Akmal,M Muralitharan,Shahid Afridi,,0,1,1,,,,310723107
+1,Pakistan,11,Shahid Afridi,M Muralitharan,Umar Akmal,,0,1,1,,,,310723107
+1,Pakistan,11,Umar Akmal,M Muralitharan,Shahid Afridi,,0,1,1,,,,310723107
+1,Pakistan,11,Shahid Afridi,M Muralitharan,Umar Akmal,,0,1,1,,,,310723107
+1,Pakistan,12,Shahid Afridi,T Thushara,Umar Akmal,,0,4,4,,,,310723107
+1,Pakistan,12,Shahid Afridi,T Thushara,Umar Akmal,,0,1,1,,,,310723107
+1,Pakistan,12,Umar Akmal,T Thushara,Shahid Afridi,,0,0,0,,,,310723107
+1,Pakistan,12,Umar Akmal,T Thushara,Shahid Afridi,,0,4,4,,,,310723107
+1,Pakistan,12,Umar Akmal,T Thushara,Shahid Afridi,,0,0,0,,,,310723107
+1,Pakistan,12,Umar Akmal,T Thushara,Shahid Afridi,,0,4,4,,,,310723107
+1,Pakistan,13,Shahid Afridi,M Muralitharan,Umar Akmal,,0,1,1,,,,310723107
+1,Pakistan,13,Umar Akmal,M Muralitharan,Shahid Afridi,,0,0,0,,,,310723107
+1,Pakistan,13,Umar Akmal,M Muralitharan,Shahid Afridi,,0,1,1,,,,310723107
+1,Pakistan,13,Shahid Afridi,M Muralitharan,Umar Akmal,,0,4,4,,,,310723107
+1,Pakistan,13,Shahid Afridi,M Muralitharan,Umar Akmal,,0,4,4,,,,310723107
+1,Pakistan,13,Shahid Afridi,M Muralitharan,Umar Akmal,,0,1,1,,,,310723107
+1,Pakistan,14,Shahid Afridi,AD Mathews,Umar Akmal,,0,2,2,,,,310723107
+1,Pakistan,14,Shahid Afridi,AD Mathews,Umar Akmal,,0,0,0,,,,310723107
+1,Pakistan,14,Shahid Afridi,AD Mathews,Umar Akmal,,0,1,1,,,,310723107
+1,Pakistan,14,Umar Akmal,AD Mathews,Shahid Afridi,,0,1,1,,,,310723107
+1,Pakistan,14,Shahid Afridi,AD Mathews,Umar Akmal,,0,1,1,,,,310723107
+1,Pakistan,14,Umar Akmal,AD Mathews,Shahid Afridi,,0,0,0,caught,Umar Akmal,KC Sangakkara,310723107
+1,Pakistan,15,Shahid Afridi,SL Malinga,Abdul Razzaq,,0,1,1,,,,310723107
+1,Pakistan,15,Abdul Razzaq,SL Malinga,Shahid Afridi,,0,0,0,,,,310723107
+1,Pakistan,15,Abdul Razzaq,SL Malinga,Shahid Afridi,,0,1,1,,,,310723107
+1,Pakistan,15,Shahid Afridi,SL Malinga,Abdul Razzaq,wides,1,1,0,,,,310723107
+1,Pakistan,15,Shahid Afridi,SL Malinga,Abdul Razzaq,,0,4,4,,,,310723107
+1,Pakistan,15,Shahid Afridi,SL Malinga,Abdul Razzaq,,0,6,6,,,,310723107
+1,Pakistan,15,Shahid Afridi,SL Malinga,Abdul Razzaq,,0,1,1,,,,310723107
+1,Pakistan,16,Shahid Afridi,T Thushara,Abdul Razzaq,,0,0,0,,,,310723107
+1,Pakistan,16,Shahid Afridi,T Thushara,Abdul Razzaq,,0,0,0,caught,Shahid Afridi,KMDN Kulasekara,310723107
+1,Pakistan,16,Abdul Razzaq,T Thushara,Misbah-ul-Haq,,0,0,0,,,,310723107
+1,Pakistan,16,Abdul Razzaq,T Thushara,Misbah-ul-Haq,,0,1,1,,,,310723107
+1,Pakistan,16,Misbah-ul-Haq,T Thushara,Abdul Razzaq,,0,1,1,,,,310723107
+1,Pakistan,16,Abdul Razzaq,T Thushara,Misbah-ul-Haq,,0,1,1,,,,310723107
+1,Pakistan,17,Abdul Razzaq,M Muralitharan,Misbah-ul-Haq,,0,1,1,,,,310723107
+1,Pakistan,17,Misbah-ul-Haq,M Muralitharan,Abdul Razzaq,,0,1,1,,,,310723107
+1,Pakistan,17,Abdul Razzaq,M Muralitharan,Misbah-ul-Haq,,0,1,1,,,,310723107
+1,Pakistan,17,Misbah-ul-Haq,M Muralitharan,Abdul Razzaq,byes,3,3,0,,,,310723107
+1,Pakistan,17,Abdul Razzaq,M Muralitharan,Misbah-ul-Haq,,0,2,2,,,,310723107
+1,Pakistan,17,Abdul Razzaq,M Muralitharan,Misbah-ul-Haq,,0,1,1,,,,310723107
+1,Pakistan,18,Abdul Razzaq,KMDN Kulasekara,Misbah-ul-Haq,,0,2,2,,,,310723107
+1,Pakistan,18,Abdul Razzaq,KMDN Kulasekara,Misbah-ul-Haq,,0,4,4,,,,310723107
+1,Pakistan,18,Abdul Razzaq,KMDN Kulasekara,Misbah-ul-Haq,,0,4,4,,,,310723107
+1,Pakistan,18,Abdul Razzaq,KMDN Kulasekara,Misbah-ul-Haq,,0,2,2,,,,310723107
+1,Pakistan,18,Abdul Razzaq,KMDN Kulasekara,Misbah-ul-Haq,,0,1,1,,,,310723107
+1,Pakistan,18,Misbah-ul-Haq,KMDN Kulasekara,Abdul Razzaq,,0,1,1,,,,310723107
+1,Pakistan,19,Misbah-ul-Haq,SL Malinga,Abdul Razzaq,,0,1,1,,,,310723107
+1,Pakistan,19,Abdul Razzaq,SL Malinga,Misbah-ul-Haq,,0,4,4,,,,310723107
+1,Pakistan,19,Abdul Razzaq,SL Malinga,Misbah-ul-Haq,,0,0,0,,,,310723107
+1,Pakistan,19,Abdul Razzaq,SL Malinga,Misbah-ul-Haq,byes,1,1,0,,,,310723107
+1,Pakistan,19,Misbah-ul-Haq,SL Malinga,Abdul Razzaq,,0,0,0,,,,310723107
+1,Pakistan,19,Misbah-ul-Haq,SL Malinga,Abdul Razzaq,,0,1,1,,,,310723107

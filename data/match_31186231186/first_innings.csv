@@ -1,0 +1,58 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Malaysia,0,Anwar Arudin,Sompal Kami,Shafiq Sharif,,0,0,0,caught,Anwar Arudin,A Bohara,31186231186
+1,Malaysia,0,Syed Aziz,Sompal Kami,Shafiq Sharif,,0,4,4,,,,31186231186
+1,Malaysia,0,Syed Aziz,Sompal Kami,Shafiq Sharif,,0,4,4,,,,31186231186
+1,Malaysia,0,Syed Aziz,Sompal Kami,Shafiq Sharif,,0,0,0,,,,31186231186
+1,Malaysia,0,Syed Aziz,Sompal Kami,Shafiq Sharif,legbyes,1,1,0,,,,31186231186
+1,Malaysia,0,Shafiq Sharif,Sompal Kami,Syed Aziz,,0,0,0,lbw,Shafiq Sharif,,31186231186
+1,Malaysia,1,Syed Aziz,S Lamichhane,Aminuddin Ramly,,0,0,0,,,,31186231186
+1,Malaysia,1,Syed Aziz,S Lamichhane,Aminuddin Ramly,,0,1,1,,,,31186231186
+1,Malaysia,1,Aminuddin Ramly,S Lamichhane,Syed Aziz,,0,1,1,,,,31186231186
+1,Malaysia,1,Syed Aziz,S Lamichhane,Aminuddin Ramly,legbyes,1,1,0,,,,31186231186
+1,Malaysia,1,Aminuddin Ramly,S Lamichhane,Syed Aziz,,0,0,0,,,,31186231186
+1,Malaysia,1,Aminuddin Ramly,S Lamichhane,Syed Aziz,,0,4,4,,,,31186231186
+1,Malaysia,2,Syed Aziz,Sompal Kami,Aminuddin Ramly,,0,4,4,,,,31186231186
+1,Malaysia,2,Syed Aziz,Sompal Kami,Aminuddin Ramly,,0,4,4,,,,31186231186
+1,Malaysia,2,Syed Aziz,Sompal Kami,Aminuddin Ramly,,0,4,4,,,,31186231186
+1,Malaysia,2,Syed Aziz,Sompal Kami,Aminuddin Ramly,,0,2,2,,,,31186231186
+1,Malaysia,2,Syed Aziz,Sompal Kami,Aminuddin Ramly,,0,1,1,,,,31186231186
+1,Malaysia,2,Aminuddin Ramly,Sompal Kami,Syed Aziz,,0,0,0,bowled,Aminuddin Ramly,,31186231186
+1,Malaysia,3,Syed Aziz,S Lamichhane,M Syahadat Ramli,,0,6,6,,,,31186231186
+1,Malaysia,3,Syed Aziz,S Lamichhane,M Syahadat Ramli,,0,0,0,,,,31186231186
+1,Malaysia,3,Syed Aziz,S Lamichhane,M Syahadat Ramli,,0,0,0,caught,Syed Aziz,DS Airee,31186231186
+1,Malaysia,3,M Syahadat Ramli,S Lamichhane,Virandeep Singh,,0,1,1,,,,31186231186
+1,Malaysia,3,Virandeep Singh,S Lamichhane,M Syahadat Ramli,wides,1,1,0,,,,31186231186
+1,Malaysia,3,Virandeep Singh,S Lamichhane,M Syahadat Ramli,,0,0,0,,,,31186231186
+1,Malaysia,3,Virandeep Singh,S Lamichhane,M Syahadat Ramli,,0,3,3,,,,31186231186
+1,Malaysia,4,Virandeep Singh,Karan KC,M Syahadat Ramli,,0,0,0,,,,31186231186
+1,Malaysia,4,Virandeep Singh,Karan KC,M Syahadat Ramli,,0,0,0,,,,31186231186
+1,Malaysia,4,Virandeep Singh,Karan KC,M Syahadat Ramli,,0,2,2,,,,31186231186
+1,Malaysia,4,Virandeep Singh,Karan KC,M Syahadat Ramli,noballs,1,1,0,,,,31186231186
+1,Malaysia,4,Virandeep Singh,Karan KC,M Syahadat Ramli,,0,1,1,,,,31186231186
+1,Malaysia,4,M Syahadat Ramli,Karan KC,Virandeep Singh,,0,0,0,caught,M Syahadat Ramli,G Malla,31186231186
+1,Malaysia,4,Ahmed Faiz,Karan KC,Virandeep Singh,,0,1,1,,,,31186231186
+1,Malaysia,5,Ahmed Faiz,A Bohara,Virandeep Singh,,0,1,1,,,,31186231186
+1,Malaysia,5,Virandeep Singh,A Bohara,Ahmed Faiz,,0,1,1,,,,31186231186
+1,Malaysia,5,Ahmed Faiz,A Bohara,Virandeep Singh,,0,4,4,,,,31186231186
+1,Malaysia,5,Ahmed Faiz,A Bohara,Virandeep Singh,,0,0,0,,,,31186231186
+1,Malaysia,5,Ahmed Faiz,A Bohara,Virandeep Singh,,0,1,1,,,,31186231186
+1,Malaysia,5,Virandeep Singh,A Bohara,Ahmed Faiz,,0,1,1,,,,31186231186
+1,Malaysia,6,Virandeep Singh,Karan KC,Ahmed Faiz,,0,4,4,,,,31186231186
+1,Malaysia,6,Virandeep Singh,Karan KC,Ahmed Faiz,,0,1,1,,,,31186231186
+1,Malaysia,6,Ahmed Faiz,Karan KC,Virandeep Singh,,0,0,0,,,,31186231186
+1,Malaysia,6,Ahmed Faiz,Karan KC,Virandeep Singh,,0,1,1,,,,31186231186
+1,Malaysia,6,Virandeep Singh,Karan KC,Ahmed Faiz,,0,0,0,,,,31186231186
+1,Malaysia,6,Virandeep Singh,Karan KC,Ahmed Faiz,,0,1,1,,,,31186231186
+1,Malaysia,7,Virandeep Singh,B Regmi,Ahmed Faiz,,0,1,1,,,,31186231186
+1,Malaysia,7,Ahmed Faiz,B Regmi,Virandeep Singh,,0,1,1,,,,31186231186
+1,Malaysia,7,Virandeep Singh,B Regmi,Ahmed Faiz,,0,6,6,,,,31186231186
+1,Malaysia,7,Virandeep Singh,B Regmi,Ahmed Faiz,,0,0,0,,,,31186231186
+1,Malaysia,7,Virandeep Singh,B Regmi,Ahmed Faiz,,0,0,0,caught,Virandeep Singh,S Lamichhane,31186231186
+1,Malaysia,7,Ahmed Faiz,B Regmi,S Muniandy,wides,1,1,0,,,,31186231186
+1,Malaysia,7,Ahmed Faiz,B Regmi,S Muniandy,,0,0,0,caught,Ahmed Faiz,G Malla,31186231186
+1,Malaysia,8,S Muniandy,A Bohara,Fitri Sham,,0,1,1,,,,31186231186
+1,Malaysia,8,Fitri Sham,A Bohara,S Muniandy,,0,3,3,,,,31186231186
+1,Malaysia,8,S Muniandy,A Bohara,Fitri Sham,,0,1,1,,,,31186231186
+1,Malaysia,8,Fitri Sham,A Bohara,S Muniandy,legbyes,1,1,0,,,,31186231186
+1,Malaysia,8,S Muniandy,A Bohara,Fitri Sham,,0,4,4,,,,31186231186
+1,Malaysia,8,S Muniandy,A Bohara,Fitri Sham,,0,2,2,,,,31186231186

@@ -1,0 +1,130 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Switzerland,0,Osama Mahmood,Bilal Muhammad,Idrees Ul Haque,,0,0,0,,,,31766231766
+1,Switzerland,0,Osama Mahmood,Bilal Muhammad,Idrees Ul Haque,,0,1,1,,,,31766231766
+1,Switzerland,0,Idrees Ul Haque,Bilal Muhammad,Osama Mahmood,,0,0,0,,,,31766231766
+1,Switzerland,0,Idrees Ul Haque,Bilal Muhammad,Osama Mahmood,,0,2,2,,,,31766231766
+1,Switzerland,0,Idrees Ul Haque,Bilal Muhammad,Osama Mahmood,legbyes,1,1,0,,,,31766231766
+1,Switzerland,0,Osama Mahmood,Bilal Muhammad,Idrees Ul Haque,,0,0,0,,,,31766231766
+1,Switzerland,1,Idrees Ul Haque,Washeem Abbas,Osama Mahmood,,0,0,0,caught,Idrees Ul Haque,B George,31766231766
+1,Switzerland,1,Osama Mahmood,Washeem Abbas,Anser Mehmood,wides,1,1,0,,,,31766231766
+1,Switzerland,1,Osama Mahmood,Washeem Abbas,Anser Mehmood,,0,4,4,,,,31766231766
+1,Switzerland,1,Osama Mahmood,Washeem Abbas,Anser Mehmood,,0,0,0,,,,31766231766
+1,Switzerland,1,Osama Mahmood,Washeem Abbas,Anser Mehmood,,0,0,0,,,,31766231766
+1,Switzerland,1,Osama Mahmood,Washeem Abbas,Anser Mehmood,,0,0,0,,,,31766231766
+1,Switzerland,1,Osama Mahmood,Washeem Abbas,Anser Mehmood,,0,4,4,,,,31766231766
+1,Switzerland,2,Anser Mehmood,Bilal Muhammad,Osama Mahmood,,0,2,2,,,,31766231766
+1,Switzerland,2,Anser Mehmood,Bilal Muhammad,Osama Mahmood,legbyes,1,1,0,,,,31766231766
+1,Switzerland,2,Osama Mahmood,Bilal Muhammad,Anser Mehmood,,0,1,1,,,,31766231766
+1,Switzerland,2,Anser Mehmood,Bilal Muhammad,Osama Mahmood,,0,6,6,,,,31766231766
+1,Switzerland,2,Anser Mehmood,Bilal Muhammad,Osama Mahmood,legbyes,1,1,0,,,,31766231766
+1,Switzerland,2,Osama Mahmood,Bilal Muhammad,Anser Mehmood,,0,1,1,,,,31766231766
+1,Switzerland,3,Osama Mahmood,B Kalki Kumar,Anser Mehmood,,0,0,0,,,,31766231766
+1,Switzerland,3,Osama Mahmood,B Kalki Kumar,Anser Mehmood,,0,0,0,,,,31766231766
+1,Switzerland,3,Osama Mahmood,B Kalki Kumar,Anser Mehmood,,0,6,6,,,,31766231766
+1,Switzerland,3,Osama Mahmood,B Kalki Kumar,Anser Mehmood,,0,1,1,,,,31766231766
+1,Switzerland,3,Anser Mehmood,B Kalki Kumar,Osama Mahmood,,0,1,1,,,,31766231766
+1,Switzerland,3,Osama Mahmood,B Kalki Kumar,Anser Mehmood,wides,1,1,0,,,,31766231766
+1,Switzerland,3,Osama Mahmood,B Kalki Kumar,Anser Mehmood,,0,4,4,,,,31766231766
+1,Switzerland,4,Anser Mehmood,Washeem Abbas,Osama Mahmood,,0,1,1,,,,31766231766
+1,Switzerland,4,Osama Mahmood,Washeem Abbas,Anser Mehmood,wides,1,1,0,,,,31766231766
+1,Switzerland,4,Osama Mahmood,Washeem Abbas,Anser Mehmood,,0,0,0,bowled,Osama Mahmood,,31766231766
+1,Switzerland,4,Arjun Vinod,Washeem Abbas,Anser Mehmood,,0,0,0,,,,31766231766
+1,Switzerland,4,Arjun Vinod,Washeem Abbas,Anser Mehmood,,0,1,1,,,,31766231766
+1,Switzerland,4,Anser Mehmood,Washeem Abbas,Arjun Vinod,,0,1,1,,,,31766231766
+1,Switzerland,4,Arjun Vinod,Washeem Abbas,Anser Mehmood,,0,0,0,,,,31766231766
+1,Switzerland,5,Anser Mehmood,VP Thamotharam,Arjun Vinod,,0,0,0,,,,31766231766
+1,Switzerland,5,Anser Mehmood,VP Thamotharam,Arjun Vinod,,0,0,0,,,,31766231766
+1,Switzerland,5,Anser Mehmood,VP Thamotharam,Arjun Vinod,,0,6,6,,,,31766231766
+1,Switzerland,5,Anser Mehmood,VP Thamotharam,Arjun Vinod,,0,0,0,,,,31766231766
+1,Switzerland,5,Anser Mehmood,VP Thamotharam,Arjun Vinod,,0,4,4,,,,31766231766
+1,Switzerland,5,Anser Mehmood,VP Thamotharam,Arjun Vinod,,0,0,0,,,,31766231766
+1,Switzerland,6,Arjun Vinod,B Arora,Anser Mehmood,,0,1,1,,,,31766231766
+1,Switzerland,6,Anser Mehmood,B Arora,Arjun Vinod,,0,0,0,,,,31766231766
+1,Switzerland,6,Anser Mehmood,B Arora,Arjun Vinod,,0,0,0,,,,31766231766
+1,Switzerland,6,Anser Mehmood,B Arora,Arjun Vinod,,0,0,0,caught,Anser Mehmood,N Khanna,31766231766
+1,Switzerland,6,Arjun Vinod,B Arora,Asad Mahmood,,0,0,0,,,,31766231766
+1,Switzerland,6,Arjun Vinod,B Arora,Asad Mahmood,,0,1,1,,,,31766231766
+1,Switzerland,7,Arjun Vinod,VP Thamotharam,Asad Mahmood,wides,1,1,0,,,,31766231766
+1,Switzerland,7,Arjun Vinod,VP Thamotharam,Asad Mahmood,wides,1,1,0,,,,31766231766
+1,Switzerland,7,Arjun Vinod,VP Thamotharam,Asad Mahmood,,0,1,1,,,,31766231766
+1,Switzerland,7,Asad Mahmood,VP Thamotharam,Arjun Vinod,,0,0,0,,,,31766231766
+1,Switzerland,7,Asad Mahmood,VP Thamotharam,Arjun Vinod,,0,1,1,,,,31766231766
+1,Switzerland,7,Arjun Vinod,VP Thamotharam,Asad Mahmood,,0,2,2,,,,31766231766
+1,Switzerland,7,Arjun Vinod,VP Thamotharam,Asad Mahmood,,0,1,1,,,,31766231766
+1,Switzerland,7,Asad Mahmood,VP Thamotharam,Arjun Vinod,,0,4,4,,,,31766231766
+1,Switzerland,8,Arjun Vinod,B Arora,Asad Mahmood,,0,1,1,,,,31766231766
+1,Switzerland,8,Asad Mahmood,B Arora,Arjun Vinod,,0,1,1,,,,31766231766
+1,Switzerland,8,Arjun Vinod,B Arora,Asad Mahmood,wides,2,2,0,,,,31766231766
+1,Switzerland,8,Asad Mahmood,B Arora,Arjun Vinod,,0,1,1,,,,31766231766
+1,Switzerland,8,Arjun Vinod,B Arora,Asad Mahmood,,0,0,0,,,,31766231766
+1,Switzerland,8,Arjun Vinod,B Arora,Asad Mahmood,,0,4,4,,,,31766231766
+1,Switzerland,8,Arjun Vinod,B Arora,Asad Mahmood,,0,0,0,caught and bowled,Arjun Vinod,,31766231766
+1,Switzerland,9,Asad Mahmood,Amar Sharma,M Martin,,0,0,0,,,,31766231766
+1,Switzerland,9,Asad Mahmood,Amar Sharma,M Martin,,0,0,0,,,,31766231766
+1,Switzerland,9,Asad Mahmood,Amar Sharma,M Martin,,0,6,6,,,,31766231766
+1,Switzerland,9,Asad Mahmood,Amar Sharma,M Martin,,0,1,1,,,,31766231766
+1,Switzerland,9,M Martin,Amar Sharma,Asad Mahmood,,0,0,0,,,,31766231766
+1,Switzerland,9,M Martin,Amar Sharma,Asad Mahmood,,0,2,2,,,,31766231766
+1,Switzerland,10,Asad Mahmood,Bilal Muhammad,M Martin,,0,0,0,,,,31766231766
+1,Switzerland,10,Asad Mahmood,Bilal Muhammad,M Martin,,0,0,0,,,,31766231766
+1,Switzerland,10,Asad Mahmood,Bilal Muhammad,M Martin,,0,2,2,,,,31766231766
+1,Switzerland,10,Asad Mahmood,Bilal Muhammad,M Martin,,0,0,0,,,,31766231766
+1,Switzerland,10,Asad Mahmood,Bilal Muhammad,M Martin,,0,4,4,,,,31766231766
+1,Switzerland,10,Asad Mahmood,Bilal Muhammad,M Martin,,0,1,1,,,,31766231766
+1,Switzerland,11,Asad Mahmood,Amar Sharma,M Martin,,0,1,1,,,,31766231766
+1,Switzerland,11,M Martin,Amar Sharma,Asad Mahmood,,0,0,0,,,,31766231766
+1,Switzerland,11,M Martin,Amar Sharma,Asad Mahmood,,0,0,0,,,,31766231766
+1,Switzerland,11,M Martin,Amar Sharma,Asad Mahmood,,0,0,0,,,,31766231766
+1,Switzerland,11,M Martin,Amar Sharma,Asad Mahmood,,0,0,0,caught,M Martin,Bilal Muhammad,31766231766
+1,Switzerland,11,Noorkhan Ahmedi,Amar Sharma,Asad Mahmood,,0,1,1,,,,31766231766
+1,Switzerland,12,Noorkhan Ahmedi,B Arora,Asad Mahmood,,0,0,0,,,,31766231766
+1,Switzerland,12,Noorkhan Ahmedi,B Arora,Asad Mahmood,,0,0,0,bowled,Noorkhan Ahmedi,,31766231766
+1,Switzerland,12,Ali Nayyer,B Arora,Asad Mahmood,,0,0,0,,,,31766231766
+1,Switzerland,12,Ali Nayyer,B Arora,Asad Mahmood,,0,0,0,,,,31766231766
+1,Switzerland,12,Ali Nayyer,B Arora,Asad Mahmood,,0,1,1,,,,31766231766
+1,Switzerland,12,Asad Mahmood,B Arora,Ali Nayyer,wides,1,1,0,,,,31766231766
+1,Switzerland,12,Asad Mahmood,B Arora,Ali Nayyer,,0,0,0,,,,31766231766
+1,Switzerland,13,Ali Nayyer,Amar Sharma,Asad Mahmood,,0,0,0,,,,31766231766
+1,Switzerland,13,Ali Nayyer,Amar Sharma,Asad Mahmood,,0,0,0,,,,31766231766
+1,Switzerland,13,Ali Nayyer,Amar Sharma,Asad Mahmood,,0,0,0,,,,31766231766
+1,Switzerland,13,Ali Nayyer,Amar Sharma,Asad Mahmood,,0,1,1,,,,31766231766
+1,Switzerland,13,Asad Mahmood,Amar Sharma,Ali Nayyer,,0,6,6,,,,31766231766
+1,Switzerland,13,Asad Mahmood,Amar Sharma,Ali Nayyer,,0,1,1,,,,31766231766
+1,Switzerland,14,Asad Mahmood,B Arora,Ali Nayyer,wides,2,2,0,,,,31766231766
+1,Switzerland,14,Ali Nayyer,B Arora,Asad Mahmood,,0,1,1,,,,31766231766
+1,Switzerland,14,Asad Mahmood,B Arora,Ali Nayyer,,0,0,0,,,,31766231766
+1,Switzerland,14,Asad Mahmood,B Arora,Ali Nayyer,,0,2,2,,,,31766231766
+1,Switzerland,14,Asad Mahmood,B Arora,Ali Nayyer,,0,1,1,,,,31766231766
+1,Switzerland,14,Ali Nayyer,B Arora,Asad Mahmood,,0,0,0,,,,31766231766
+1,Switzerland,14,Ali Nayyer,B Arora,Asad Mahmood,,0,1,1,,,,31766231766
+1,Switzerland,15,Ali Nayyer,Amar Sharma,Asad Mahmood,,0,0,0,,,,31766231766
+1,Switzerland,15,Ali Nayyer,Amar Sharma,Asad Mahmood,,0,0,0,,,,31766231766
+1,Switzerland,15,Ali Nayyer,Amar Sharma,Asad Mahmood,,0,0,0,,,,31766231766
+1,Switzerland,15,Ali Nayyer,Amar Sharma,Asad Mahmood,,0,1,1,,,,31766231766
+1,Switzerland,15,Asad Mahmood,Amar Sharma,Ali Nayyer,,0,1,1,,,,31766231766
+1,Switzerland,15,Ali Nayyer,Amar Sharma,Asad Mahmood,,0,6,6,,,,31766231766
+1,Switzerland,16,Asad Mahmood,VP Thamotharam,Ali Nayyer,,0,0,0,,,,31766231766
+1,Switzerland,16,Asad Mahmood,VP Thamotharam,Ali Nayyer,,0,0,0,caught,Asad Mahmood,N Khanna,31766231766
+1,Switzerland,16,Ali Nayyer,VP Thamotharam,S Franklin,,0,2,2,,,,31766231766
+1,Switzerland,16,Ali Nayyer,VP Thamotharam,S Franklin,,0,1,1,,,,31766231766
+1,Switzerland,16,S Franklin,VP Thamotharam,Ali Nayyer,wides,1,1,0,,,,31766231766
+1,Switzerland,16,S Franklin,VP Thamotharam,Ali Nayyer,,0,1,1,,,,31766231766
+1,Switzerland,16,Ali Nayyer,VP Thamotharam,S Franklin,byes,1,1,0,,,,31766231766
+1,Switzerland,17,Ali Nayyer,Washeem Abbas,S Franklin,,0,2,2,,,,31766231766
+1,Switzerland,17,Ali Nayyer,Washeem Abbas,S Franklin,,0,4,4,,,,31766231766
+1,Switzerland,17,Ali Nayyer,Washeem Abbas,S Franklin,,0,1,1,,,,31766231766
+1,Switzerland,17,S Franklin,Washeem Abbas,Ali Nayyer,,0,0,0,,,,31766231766
+1,Switzerland,17,S Franklin,Washeem Abbas,Ali Nayyer,,0,2,2,,,,31766231766
+1,Switzerland,17,S Franklin,Washeem Abbas,Ali Nayyer,,0,1,1,,,,31766231766
+1,Switzerland,18,S Franklin,Bilal Muhammad,Ali Nayyer,,0,1,1,,,,31766231766
+1,Switzerland,18,Ali Nayyer,Bilal Muhammad,S Franklin,,0,6,6,,,,31766231766
+1,Switzerland,18,Ali Nayyer,Bilal Muhammad,S Franklin,,0,0,0,bowled,Ali Nayyer,,31766231766
+1,Switzerland,18,Ashwin Vinod,Bilal Muhammad,S Franklin,,0,2,2,,,,31766231766
+1,Switzerland,18,Ashwin Vinod,Bilal Muhammad,S Franklin,,0,1,1,,,,31766231766
+1,Switzerland,18,S Franklin,Bilal Muhammad,Ashwin Vinod,,0,0,0,lbw,S Franklin,,31766231766
+1,Switzerland,19,Ashwin Vinod,Washeem Abbas,NK Aneesh Kumar,,0,0,0,,,,31766231766
+1,Switzerland,19,Ashwin Vinod,Washeem Abbas,NK Aneesh Kumar,,0,4,4,,,,31766231766
+1,Switzerland,19,Ashwin Vinod,Washeem Abbas,NK Aneesh Kumar,,0,1,1,,,,31766231766
+1,Switzerland,19,NK Aneesh Kumar,Washeem Abbas,Ashwin Vinod,legbyes,1,1,0,,,,31766231766
+1,Switzerland,19,Ashwin Vinod,Washeem Abbas,NK Aneesh Kumar,,0,0,0,,,,31766231766
+1,Switzerland,19,Ashwin Vinod,Washeem Abbas,NK Aneesh Kumar,byes,1,1,0,,,,31766231766

@@ -1,0 +1,71 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,South Africa,0,RE Levi,DR Briggs,HM Amla,,0,1,1,,,,326023260
+2,South Africa,0,HM Amla,DR Briggs,RE Levi,,0,4,4,,,,326023260
+2,South Africa,0,HM Amla,DR Briggs,RE Levi,,0,0,0,,,,326023260
+2,South Africa,0,HM Amla,DR Briggs,RE Levi,,0,0,0,,,,326023260
+2,South Africa,0,HM Amla,DR Briggs,RE Levi,,0,0,0,,,,326023260
+2,South Africa,0,HM Amla,DR Briggs,RE Levi,,0,4,4,,,,326023260
+2,South Africa,1,RE Levi,TT Bresnan,HM Amla,,0,0,0,,,,326023260
+2,South Africa,1,RE Levi,TT Bresnan,HM Amla,,0,0,0,,,,326023260
+2,South Africa,1,RE Levi,TT Bresnan,HM Amla,,0,0,0,bowled,RE Levi,,326023260
+2,South Africa,1,F du Plessis,TT Bresnan,HM Amla,,0,3,3,,,,326023260
+2,South Africa,1,HM Amla,TT Bresnan,F du Plessis,,0,0,0,,,,326023260
+2,South Africa,1,HM Amla,TT Bresnan,F du Plessis,,0,1,1,,,,326023260
+2,South Africa,2,HM Amla,SCJ Broad,F du Plessis,,0,4,4,,,,326023260
+2,South Africa,2,HM Amla,SCJ Broad,F du Plessis,legbyes,1,1,0,,,,326023260
+2,South Africa,2,F du Plessis,SCJ Broad,HM Amla,,0,4,4,,,,326023260
+2,South Africa,2,F du Plessis,SCJ Broad,HM Amla,,0,1,1,,,,326023260
+2,South Africa,2,HM Amla,SCJ Broad,F du Plessis,,0,1,1,,,,326023260
+2,South Africa,2,F du Plessis,SCJ Broad,HM Amla,wides,1,1,0,,,,326023260
+2,South Africa,2,F du Plessis,SCJ Broad,HM Amla,,0,0,0,,,,326023260
+2,South Africa,3,HM Amla,DR Briggs,F du Plessis,,0,4,4,,,,326023260
+2,South Africa,3,HM Amla,DR Briggs,F du Plessis,,0,2,2,,,,326023260
+2,South Africa,3,HM Amla,DR Briggs,F du Plessis,,0,1,1,,,,326023260
+2,South Africa,3,F du Plessis,DR Briggs,HM Amla,legbyes,1,1,0,,,,326023260
+2,South Africa,3,HM Amla,DR Briggs,F du Plessis,legbyes,1,1,0,,,,326023260
+2,South Africa,3,F du Plessis,DR Briggs,HM Amla,,0,0,0,caught,F du Plessis,EJG Morgan,326023260
+2,South Africa,4,AB de Villiers,GP Swann,HM Amla,,0,1,1,,,,326023260
+2,South Africa,4,HM Amla,GP Swann,AB de Villiers,,0,4,4,,,,326023260
+2,South Africa,4,HM Amla,GP Swann,AB de Villiers,,0,1,1,,,,326023260
+2,South Africa,4,AB de Villiers,GP Swann,HM Amla,,0,1,1,,,,326023260
+2,South Africa,4,HM Amla,GP Swann,AB de Villiers,,0,0,0,,,,326023260
+2,South Africa,4,HM Amla,GP Swann,AB de Villiers,,0,3,3,,,,326023260
+2,South Africa,5,HM Amla,SCJ Broad,AB de Villiers,,0,0,0,,,,326023260
+2,South Africa,5,HM Amla,SCJ Broad,AB de Villiers,wides,1,1,0,,,,326023260
+2,South Africa,5,HM Amla,SCJ Broad,AB de Villiers,,0,0,0,,,,326023260
+2,South Africa,5,HM Amla,SCJ Broad,AB de Villiers,,0,0,0,,,,326023260
+2,South Africa,5,HM Amla,SCJ Broad,AB de Villiers,,0,2,2,,,,326023260
+2,South Africa,5,HM Amla,SCJ Broad,AB de Villiers,,0,4,4,,,,326023260
+2,South Africa,5,HM Amla,SCJ Broad,AB de Villiers,,0,0,0,,,,326023260
+2,South Africa,6,AB de Villiers,GP Swann,HM Amla,,0,0,0,caught,AB de Villiers,JM Bairstow,326023260
+2,South Africa,6,HM Amla,GP Swann,JA Morkel,,0,1,1,,,,326023260
+2,South Africa,6,JA Morkel,GP Swann,HM Amla,,0,0,0,,,,326023260
+2,South Africa,6,JA Morkel,GP Swann,HM Amla,byes,1,1,0,,,,326023260
+2,South Africa,6,HM Amla,GP Swann,JA Morkel,,0,0,0,,,,326023260
+2,South Africa,6,HM Amla,GP Swann,JA Morkel,,0,0,0,caught,HM Amla,JM Bairstow,326023260
+2,South Africa,7,JL Ontong,JW Dernbach,JA Morkel,,0,1,1,,,,326023260
+2,South Africa,7,JA Morkel,JW Dernbach,JL Ontong,,0,0,0,,,,326023260
+2,South Africa,7,JA Morkel,JW Dernbach,JL Ontong,,0,0,0,,,,326023260
+2,South Africa,7,JA Morkel,JW Dernbach,JL Ontong,,0,1,1,,,,326023260
+2,South Africa,7,JL Ontong,JW Dernbach,JA Morkel,,0,0,0,,,,326023260
+2,South Africa,7,JL Ontong,JW Dernbach,JA Morkel,,0,0,0,,,,326023260
+2,South Africa,8,JA Morkel,GP Swann,JL Ontong,,0,2,2,,,,326023260
+2,South Africa,8,JA Morkel,GP Swann,JL Ontong,,0,1,1,,,,326023260
+2,South Africa,8,JL Ontong,GP Swann,JA Morkel,,0,1,1,,,,326023260
+2,South Africa,8,JA Morkel,GP Swann,JL Ontong,,0,1,1,,,,326023260
+2,South Africa,8,JL Ontong,GP Swann,JA Morkel,,0,6,6,,,,326023260
+2,South Africa,8,JL Ontong,GP Swann,JA Morkel,,0,2,2,,,,326023260
+2,South Africa,9,JA Morkel,TT Bresnan,JL Ontong,,0,1,1,,,,326023260
+2,South Africa,9,JL Ontong,TT Bresnan,JA Morkel,,0,0,0,caught,JL Ontong,EJG Morgan,326023260
+2,South Africa,9,JA Morkel,TT Bresnan,JH Kallis,,0,6,6,,,,326023260
+2,South Africa,9,JA Morkel,TT Bresnan,JH Kallis,,0,1,1,,,,326023260
+2,South Africa,9,JH Kallis,TT Bresnan,JA Morkel,,0,1,1,,,,326023260
+2,South Africa,9,JA Morkel,TT Bresnan,JH Kallis,,0,1,1,,,,326023260
+2,South Africa,10,JA Morkel,JW Dernbach,JH Kallis,wides,1,1,0,,,,326023260
+2,South Africa,10,JA Morkel,JW Dernbach,JH Kallis,,0,1,1,,,,326023260
+2,South Africa,10,JH Kallis,JW Dernbach,JA Morkel,wides,1,1,0,,,,326023260
+2,South Africa,10,JH Kallis,JW Dernbach,JA Morkel,,0,2,2,,,,326023260
+2,South Africa,10,JH Kallis,JW Dernbach,JA Morkel,,0,2,2,,,,326023260
+2,South Africa,10,JH Kallis,JW Dernbach,JA Morkel,,0,2,2,,,,326023260
+2,South Africa,10,JH Kallis,JW Dernbach,JA Morkel,,0,1,1,,,,326023260
+2,South Africa,10,JA Morkel,JW Dernbach,JH Kallis,,0,2,2,,,,326023260

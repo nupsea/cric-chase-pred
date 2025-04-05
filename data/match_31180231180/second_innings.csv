@@ -1,0 +1,88 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Netherlands,0,SL Kalis,K McGill,B de Leede,,0,1,1,,,,31180231180
+2,Netherlands,0,B de Leede,K McGill,SL Kalis,,0,1,1,,,,31180231180
+2,Netherlands,0,SL Kalis,K McGill,B de Leede,,0,0,0,,,,31180231180
+2,Netherlands,0,SL Kalis,K McGill,B de Leede,,0,0,0,,,,31180231180
+2,Netherlands,0,SL Kalis,K McGill,B de Leede,,0,4,4,,,,31180231180
+2,Netherlands,0,SL Kalis,K McGill,B de Leede,,0,0,0,,,,31180231180
+2,Netherlands,1,B de Leede,K Fraser,SL Kalis,,0,1,1,,,,31180231180
+2,Netherlands,1,SL Kalis,K Fraser,B de Leede,,0,1,1,,,,31180231180
+2,Netherlands,1,B de Leede,K Fraser,SL Kalis,,0,0,0,,,,31180231180
+2,Netherlands,1,B de Leede,K Fraser,SL Kalis,,0,0,0,caught,B de Leede,EL Watson,31180231180
+2,Netherlands,1,AH Thomson,K Fraser,SL Kalis,,0,0,0,,,,31180231180
+2,Netherlands,1,AH Thomson,K Fraser,SL Kalis,,0,1,1,,,,31180231180
+2,Netherlands,2,AH Thomson,K McGill,SL Kalis,,0,0,0,,,,31180231180
+2,Netherlands,2,AH Thomson,K McGill,SL Kalis,,0,0,0,,,,31180231180
+2,Netherlands,2,AH Thomson,K McGill,SL Kalis,,0,1,1,,,,31180231180
+2,Netherlands,2,SL Kalis,K McGill,AH Thomson,,0,0,0,,,,31180231180
+2,Netherlands,2,SL Kalis,K McGill,AH Thomson,,0,1,1,,,,31180231180
+2,Netherlands,2,AH Thomson,K McGill,SL Kalis,,0,1,1,,,,31180231180
+2,Netherlands,3,AH Thomson,M McColl,SL Kalis,,0,0,0,,,,31180231180
+2,Netherlands,3,AH Thomson,M McColl,SL Kalis,,0,0,0,,,,31180231180
+2,Netherlands,3,AH Thomson,M McColl,SL Kalis,,0,1,1,,,,31180231180
+2,Netherlands,3,SL Kalis,M McColl,AH Thomson,,0,1,1,,,,31180231180
+2,Netherlands,3,AH Thomson,M McColl,SL Kalis,,0,0,0,caught,AH Thomson,HRA Rainey,31180231180
+2,Netherlands,3,SL Kalis,M McColl,J Post,,0,1,1,,,,31180231180
+2,Netherlands,4,SL Kalis,HRA Rainey,J Post,wides,1,1,0,,,,31180231180
+2,Netherlands,4,SL Kalis,HRA Rainey,J Post,,0,0,0,,,,31180231180
+2,Netherlands,4,SL Kalis,HRA Rainey,J Post,,0,0,0,,,,31180231180
+2,Netherlands,4,SL Kalis,HRA Rainey,J Post,,0,0,0,,,,31180231180
+2,Netherlands,4,SL Kalis,HRA Rainey,J Post,,0,1,1,,,,31180231180
+2,Netherlands,4,J Post,HRA Rainey,SL Kalis,,0,0,0,,,,31180231180
+2,Netherlands,4,J Post,HRA Rainey,SL Kalis,,0,0,0,,,,31180231180
+2,Netherlands,5,SL Kalis,M McColl,J Post,,0,2,2,,,,31180231180
+2,Netherlands,5,SL Kalis,M McColl,J Post,,0,0,0,caught,SL Kalis,K Fraser,31180231180
+2,Netherlands,5,AS van Beuge,M McColl,J Post,,0,0,0,,,,31180231180
+2,Netherlands,5,AS van Beuge,M McColl,J Post,,0,1,1,,,,31180231180
+2,Netherlands,5,J Post,M McColl,AS van Beuge,,0,0,0,,,,31180231180
+2,Netherlands,5,J Post,M McColl,AS van Beuge,,0,1,1,,,,31180231180
+2,Netherlands,6,J Post,HRA Rainey,AS van Beuge,,0,1,1,,,,31180231180
+2,Netherlands,6,AS van Beuge,HRA Rainey,J Post,,0,0,0,,,,31180231180
+2,Netherlands,6,AS van Beuge,HRA Rainey,J Post,,0,1,1,,,,31180231180
+2,Netherlands,6,J Post,HRA Rainey,AS van Beuge,,0,0,0,,,,31180231180
+2,Netherlands,6,J Post,HRA Rainey,AS van Beuge,wides,5,5,0,,,,31180231180
+2,Netherlands,6,J Post,HRA Rainey,AS van Beuge,wides,1,1,0,,,,31180231180
+2,Netherlands,6,J Post,HRA Rainey,AS van Beuge,,0,1,1,,,,31180231180
+2,Netherlands,6,J Post,HRA Rainey,AS van Beuge,,0,1,1,,,,31180231180
+2,Netherlands,7,J Post,M McColl,AS van Beuge,,0,1,1,,,,31180231180
+2,Netherlands,7,AS van Beuge,M McColl,J Post,,0,1,1,,,,31180231180
+2,Netherlands,7,J Post,M McColl,AS van Beuge,,0,4,4,,,,31180231180
+2,Netherlands,7,J Post,M McColl,AS van Beuge,,0,0,0,,,,31180231180
+2,Netherlands,7,J Post,M McColl,AS van Beuge,,0,0,0,,,,31180231180
+2,Netherlands,7,J Post,M McColl,AS van Beuge,,0,0,0,caught and bowled,J Post,,31180231180
+2,Netherlands,8,AS van Beuge,S Haggo,IJR Zwilling,,0,0,0,,,,31180231180
+2,Netherlands,8,AS van Beuge,S Haggo,IJR Zwilling,,0,1,1,,,,31180231180
+2,Netherlands,8,IJR Zwilling,S Haggo,AS van Beuge,,0,1,1,,,,31180231180
+2,Netherlands,8,AS van Beuge,S Haggo,IJR Zwilling,,0,0,0,stumped,AS van Beuge,SJ Bryce,31180231180
+2,Netherlands,8,LK Bennett,S Haggo,IJR Zwilling,,0,0,0,,,,31180231180
+2,Netherlands,8,LK Bennett,S Haggo,IJR Zwilling,,0,0,0,,,,31180231180
+2,Netherlands,9,IJR Zwilling,M McColl,LK Bennett,,0,0,0,,,,31180231180
+2,Netherlands,9,IJR Zwilling,M McColl,LK Bennett,wides,2,2,0,,,,31180231180
+2,Netherlands,9,LK Bennett,M McColl,IJR Zwilling,,0,0,0,,,,31180231180
+2,Netherlands,9,LK Bennett,M McColl,IJR Zwilling,,0,4,4,,,,31180231180
+2,Netherlands,9,LK Bennett,M McColl,IJR Zwilling,wides,1,1,0,,,,31180231180
+2,Netherlands,9,LK Bennett,M McColl,IJR Zwilling,,0,2,2,,,,31180231180
+2,Netherlands,9,LK Bennett,M McColl,IJR Zwilling,,0,0,0,,,,31180231180
+2,Netherlands,9,LK Bennett,M McColl,IJR Zwilling,,0,0,0,,,,31180231180
+2,Netherlands,10,IJR Zwilling,S Haggo,LK Bennett,,0,4,4,,,,31180231180
+2,Netherlands,10,IJR Zwilling,S Haggo,LK Bennett,,0,0,0,,,,31180231180
+2,Netherlands,10,IJR Zwilling,S Haggo,LK Bennett,,0,2,2,,,,31180231180
+2,Netherlands,10,IJR Zwilling,S Haggo,LK Bennett,,0,0,0,,,,31180231180
+2,Netherlands,10,IJR Zwilling,S Haggo,LK Bennett,,0,1,1,,,,31180231180
+2,Netherlands,10,LK Bennett,S Haggo,IJR Zwilling,wides,1,1,0,,,,31180231180
+2,Netherlands,10,LK Bennett,S Haggo,IJR Zwilling,,0,0,0,caught,LK Bennett,RS Glen,31180231180
+2,Netherlands,11,IJR Zwilling,K Fraser,EN Lynch,,0,0,0,,,,31180231180
+2,Netherlands,11,IJR Zwilling,K Fraser,EN Lynch,,0,0,0,bowled,IJR Zwilling,,31180231180
+2,Netherlands,11,L Klokgieters,K Fraser,EN Lynch,,0,0,0,,,,31180231180
+2,Netherlands,11,L Klokgieters,K Fraser,EN Lynch,,0,0,0,,,,31180231180
+2,Netherlands,11,L Klokgieters,K Fraser,EN Lynch,,0,0,0,,,,31180231180
+2,Netherlands,11,L Klokgieters,K Fraser,EN Lynch,,0,1,1,,,,31180231180
+2,Netherlands,12,L Klokgieters,PA Chatterji,EN Lynch,,0,0,0,bowled,L Klokgieters,,31180231180
+2,Netherlands,12,S Siegers,PA Chatterji,EN Lynch,,0,0,0,,,,31180231180
+2,Netherlands,12,S Siegers,PA Chatterji,EN Lynch,,0,0,0,,,,31180231180
+2,Netherlands,12,S Siegers,PA Chatterji,EN Lynch,,0,0,0,,,,31180231180
+2,Netherlands,12,S Siegers,PA Chatterji,EN Lynch,,0,0,0,,,,31180231180
+2,Netherlands,12,S Siegers,PA Chatterji,EN Lynch,,0,1,1,,,,31180231180
+2,Netherlands,13,S Siegers,K Fraser,EN Lynch,,0,0,0,,,,31180231180
+2,Netherlands,13,S Siegers,K Fraser,EN Lynch,,0,2,2,,,,31180231180
+2,Netherlands,13,S Siegers,K Fraser,EN Lynch,,0,0,0,,,,31180231180

@@ -1,0 +1,128 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,West Indies,0,Kycia A Knight,Aiman Anwer,DJS Dottin,,0,4,4,,,,399123991
+1,West Indies,0,Kycia A Knight,Aiman Anwer,DJS Dottin,,0,0,0,,,,399123991
+1,West Indies,0,Kycia A Knight,Aiman Anwer,DJS Dottin,,0,1,1,,,,399123991
+1,West Indies,0,DJS Dottin,Aiman Anwer,Kycia A Knight,,0,4,4,,,,399123991
+1,West Indies,0,DJS Dottin,Aiman Anwer,Kycia A Knight,,0,0,0,,,,399123991
+1,West Indies,0,DJS Dottin,Aiman Anwer,Kycia A Knight,,0,1,1,,,,399123991
+1,West Indies,1,DJS Dottin,Nida Dar,Kycia A Knight,,0,0,0,,,,399123991
+1,West Indies,1,DJS Dottin,Nida Dar,Kycia A Knight,wides,1,1,0,,,,399123991
+1,West Indies,1,DJS Dottin,Nida Dar,Kycia A Knight,,0,4,4,,,,399123991
+1,West Indies,1,DJS Dottin,Nida Dar,Kycia A Knight,,0,0,0,,,,399123991
+1,West Indies,1,DJS Dottin,Nida Dar,Kycia A Knight,,0,0,0,,,,399123991
+1,West Indies,1,DJS Dottin,Nida Dar,Kycia A Knight,,0,2,2,,,,399123991
+1,West Indies,1,DJS Dottin,Nida Dar,Kycia A Knight,,0,4,4,,,,399123991
+1,West Indies,2,Kycia A Knight,Sana Mir,DJS Dottin,,0,0,0,,,,399123991
+1,West Indies,2,Kycia A Knight,Sana Mir,DJS Dottin,,0,0,0,,,,399123991
+1,West Indies,2,Kycia A Knight,Sana Mir,DJS Dottin,,0,0,0,,,,399123991
+1,West Indies,2,Kycia A Knight,Sana Mir,DJS Dottin,,0,1,1,,,,399123991
+1,West Indies,2,DJS Dottin,Sana Mir,Kycia A Knight,,0,2,2,,,,399123991
+1,West Indies,2,DJS Dottin,Sana Mir,Kycia A Knight,,0,6,6,,,,399123991
+1,West Indies,3,Kycia A Knight,Nashra Sandhu,DJS Dottin,wides,1,1,0,,,,399123991
+1,West Indies,3,Kycia A Knight,Nashra Sandhu,DJS Dottin,,0,0,0,,,,399123991
+1,West Indies,3,Kycia A Knight,Nashra Sandhu,DJS Dottin,wides,1,1,0,,,,399123991
+1,West Indies,3,Kycia A Knight,Nashra Sandhu,DJS Dottin,,0,2,2,,,,399123991
+1,West Indies,3,Kycia A Knight,Nashra Sandhu,DJS Dottin,,0,0,0,caught,Kycia A Knight,Aiman Anwer,399123991
+1,West Indies,3,SA Campbelle,Nashra Sandhu,DJS Dottin,,0,0,0,,,,399123991
+1,West Indies,3,SA Campbelle,Nashra Sandhu,DJS Dottin,,0,0,0,,,,399123991
+1,West Indies,3,SA Campbelle,Nashra Sandhu,DJS Dottin,,0,0,0,,,,399123991
+1,West Indies,4,DJS Dottin,Sana Mir,SA Campbelle,,0,0,0,,,,399123991
+1,West Indies,4,DJS Dottin,Sana Mir,SA Campbelle,,0,0,0,,,,399123991
+1,West Indies,4,DJS Dottin,Sana Mir,SA Campbelle,,0,1,1,,,,399123991
+1,West Indies,4,SA Campbelle,Sana Mir,DJS Dottin,,0,0,0,,,,399123991
+1,West Indies,4,SA Campbelle,Sana Mir,DJS Dottin,,0,0,0,,,,399123991
+1,West Indies,4,SA Campbelle,Sana Mir,DJS Dottin,,0,0,0,,,,399123991
+1,West Indies,5,DJS Dottin,Nashra Sandhu,SA Campbelle,,0,0,0,,,,399123991
+1,West Indies,5,DJS Dottin,Nashra Sandhu,SA Campbelle,,0,1,1,,,,399123991
+1,West Indies,5,SA Campbelle,Nashra Sandhu,DJS Dottin,legbyes,1,1,0,,,,399123991
+1,West Indies,5,DJS Dottin,Nashra Sandhu,SA Campbelle,,0,0,0,,,,399123991
+1,West Indies,5,DJS Dottin,Nashra Sandhu,SA Campbelle,,0,4,4,,,,399123991
+1,West Indies,5,DJS Dottin,Nashra Sandhu,SA Campbelle,,0,0,0,,,,399123991
+1,West Indies,6,SA Campbelle,Nida Dar,DJS Dottin,,0,1,1,,,,399123991
+1,West Indies,6,DJS Dottin,Nida Dar,SA Campbelle,,0,0,0,,,,399123991
+1,West Indies,6,DJS Dottin,Nida Dar,SA Campbelle,,0,1,1,,,,399123991
+1,West Indies,6,SA Campbelle,Nida Dar,DJS Dottin,,0,0,0,,,,399123991
+1,West Indies,6,SA Campbelle,Nida Dar,DJS Dottin,,0,0,0,,,,399123991
+1,West Indies,6,SA Campbelle,Nida Dar,DJS Dottin,,0,2,2,,,,399123991
+1,West Indies,7,DJS Dottin,Aiman Anwer,SA Campbelle,,0,1,1,,,,399123991
+1,West Indies,7,SA Campbelle,Aiman Anwer,DJS Dottin,,0,0,0,,,,399123991
+1,West Indies,7,SA Campbelle,Aiman Anwer,DJS Dottin,,0,0,0,,,,399123991
+1,West Indies,7,SA Campbelle,Aiman Anwer,DJS Dottin,,0,1,1,,,,399123991
+1,West Indies,7,DJS Dottin,Aiman Anwer,SA Campbelle,,0,1,1,,,,399123991
+1,West Indies,7,SA Campbelle,Aiman Anwer,DJS Dottin,,0,0,0,,,,399123991
+1,West Indies,8,DJS Dottin,Nida Dar,SA Campbelle,,0,2,2,,,,399123991
+1,West Indies,8,DJS Dottin,Nida Dar,SA Campbelle,,0,1,1,run out,SA Campbelle,,399123991
+1,West Indies,8,CN Nation,Nida Dar,DJS Dottin,,0,0,0,,,,399123991
+1,West Indies,8,CN Nation,Nida Dar,DJS Dottin,,0,0,0,,,,399123991
+1,West Indies,8,CN Nation,Nida Dar,DJS Dottin,,0,0,0,,,,399123991
+1,West Indies,8,CN Nation,Nida Dar,DJS Dottin,,0,2,2,,,,399123991
+1,West Indies,9,DJS Dottin,Aliya Riaz,CN Nation,,0,1,1,,,,399123991
+1,West Indies,9,CN Nation,Aliya Riaz,DJS Dottin,,0,0,0,,,,399123991
+1,West Indies,9,CN Nation,Aliya Riaz,DJS Dottin,,0,1,1,,,,399123991
+1,West Indies,9,DJS Dottin,Aliya Riaz,CN Nation,,0,0,0,,,,399123991
+1,West Indies,9,DJS Dottin,Aliya Riaz,CN Nation,,0,0,0,,,,399123991
+1,West Indies,9,DJS Dottin,Aliya Riaz,CN Nation,,0,4,4,,,,399123991
+1,West Indies,10,CN Nation,Nashra Sandhu,DJS Dottin,,0,1,1,,,,399123991
+1,West Indies,10,DJS Dottin,Nashra Sandhu,CN Nation,,0,0,0,,,,399123991
+1,West Indies,10,DJS Dottin,Nashra Sandhu,CN Nation,wides,1,1,0,,,,399123991
+1,West Indies,10,DJS Dottin,Nashra Sandhu,CN Nation,wides,1,1,0,,,,399123991
+1,West Indies,10,DJS Dottin,Nashra Sandhu,CN Nation,,0,0,0,,,,399123991
+1,West Indies,10,DJS Dottin,Nashra Sandhu,CN Nation,,0,0,0,,,,399123991
+1,West Indies,10,DJS Dottin,Nashra Sandhu,CN Nation,,0,0,0,,,,399123991
+1,West Indies,10,DJS Dottin,Nashra Sandhu,CN Nation,,0,1,1,,,,399123991
+1,West Indies,11,DJS Dottin,Aiman Anwer,CN Nation,,0,1,1,,,,399123991
+1,West Indies,11,CN Nation,Aiman Anwer,DJS Dottin,,0,0,0,,,,399123991
+1,West Indies,11,CN Nation,Aiman Anwer,DJS Dottin,,0,1,1,,,,399123991
+1,West Indies,11,DJS Dottin,Aiman Anwer,CN Nation,,0,1,1,,,,399123991
+1,West Indies,11,CN Nation,Aiman Anwer,DJS Dottin,,0,4,4,,,,399123991
+1,West Indies,11,CN Nation,Aiman Anwer,DJS Dottin,,0,0,0,,,,399123991
+1,West Indies,12,DJS Dottin,Bismah Maroof,CN Nation,wides,1,1,0,,,,399123991
+1,West Indies,12,DJS Dottin,Bismah Maroof,CN Nation,,0,1,1,,,,399123991
+1,West Indies,12,CN Nation,Bismah Maroof,DJS Dottin,,0,1,1,,,,399123991
+1,West Indies,12,DJS Dottin,Bismah Maroof,CN Nation,,0,0,0,,,,399123991
+1,West Indies,12,DJS Dottin,Bismah Maroof,CN Nation,,0,6,6,,,,399123991
+1,West Indies,12,DJS Dottin,Bismah Maroof,CN Nation,,0,1,1,,,,399123991
+1,West Indies,12,CN Nation,Bismah Maroof,DJS Dottin,,0,0,0,,,,399123991
+1,West Indies,13,DJS Dottin,Aliya Riaz,CN Nation,,0,1,1,,,,399123991
+1,West Indies,13,CN Nation,Aliya Riaz,DJS Dottin,,0,2,2,,,,399123991
+1,West Indies,13,CN Nation,Aliya Riaz,DJS Dottin,,0,1,1,,,,399123991
+1,West Indies,13,DJS Dottin,Aliya Riaz,CN Nation,,0,6,6,,,,399123991
+1,West Indies,13,DJS Dottin,Aliya Riaz,CN Nation,,0,2,2,,,,399123991
+1,West Indies,13,DJS Dottin,Aliya Riaz,CN Nation,,0,1,1,,,,399123991
+1,West Indies,14,DJS Dottin,Sana Mir,CN Nation,,0,1,1,,,,399123991
+1,West Indies,14,CN Nation,Sana Mir,DJS Dottin,,0,0,0,,,,399123991
+1,West Indies,14,CN Nation,Sana Mir,DJS Dottin,,0,1,1,,,,399123991
+1,West Indies,14,DJS Dottin,Sana Mir,CN Nation,,0,0,0,,,,399123991
+1,West Indies,14,DJS Dottin,Sana Mir,CN Nation,,0,2,2,,,,399123991
+1,West Indies,14,DJS Dottin,Sana Mir,CN Nation,,0,1,1,,,,399123991
+1,West Indies,15,CN Nation,Nashra Sandhu,DJS Dottin,,0,4,4,,,,399123991
+1,West Indies,15,CN Nation,Nashra Sandhu,DJS Dottin,,0,1,1,,,,399123991
+1,West Indies,15,DJS Dottin,Nashra Sandhu,CN Nation,,0,4,4,,,,399123991
+1,West Indies,15,DJS Dottin,Nashra Sandhu,CN Nation,,0,1,1,,,,399123991
+1,West Indies,15,CN Nation,Nashra Sandhu,DJS Dottin,,0,0,0,,,,399123991
+1,West Indies,15,CN Nation,Nashra Sandhu,DJS Dottin,,0,0,0,,,,399123991
+1,West Indies,16,DJS Dottin,Nida Dar,CN Nation,,0,0,0,,,,399123991
+1,West Indies,16,DJS Dottin,Nida Dar,CN Nation,,0,1,1,,,,399123991
+1,West Indies,16,CN Nation,Nida Dar,DJS Dottin,,0,6,6,,,,399123991
+1,West Indies,16,CN Nation,Nida Dar,DJS Dottin,,0,0,0,,,,399123991
+1,West Indies,16,CN Nation,Nida Dar,DJS Dottin,,0,1,1,,,,399123991
+1,West Indies,16,DJS Dottin,Nida Dar,CN Nation,,0,0,0,,,,399123991
+1,West Indies,17,CN Nation,Sana Mir,DJS Dottin,wides,1,1,0,,,,399123991
+1,West Indies,17,CN Nation,Sana Mir,DJS Dottin,,0,2,2,,,,399123991
+1,West Indies,17,CN Nation,Sana Mir,DJS Dottin,,0,1,1,,,,399123991
+1,West Indies,17,DJS Dottin,Sana Mir,CN Nation,,0,1,1,,,,399123991
+1,West Indies,17,CN Nation,Sana Mir,DJS Dottin,,0,4,4,,,,399123991
+1,West Indies,17,CN Nation,Sana Mir,DJS Dottin,,0,6,6,,,,399123991
+1,West Indies,17,CN Nation,Sana Mir,DJS Dottin,,0,2,2,,,,399123991
+1,West Indies,18,DJS Dottin,Aliya Riaz,CN Nation,,0,6,6,,,,399123991
+1,West Indies,18,DJS Dottin,Aliya Riaz,CN Nation,,0,1,1,,,,399123991
+1,West Indies,18,CN Nation,Aliya Riaz,DJS Dottin,,0,0,0,,,,399123991
+1,West Indies,18,CN Nation,Aliya Riaz,DJS Dottin,,0,4,4,,,,399123991
+1,West Indies,18,CN Nation,Aliya Riaz,DJS Dottin,,0,1,1,,,,399123991
+1,West Indies,18,DJS Dottin,Aliya Riaz,CN Nation,,0,4,4,,,,399123991
+1,West Indies,19,CN Nation,Aiman Anwer,DJS Dottin,,0,2,2,,,,399123991
+1,West Indies,19,CN Nation,Aiman Anwer,DJS Dottin,,0,1,1,,,,399123991
+1,West Indies,19,DJS Dottin,Aiman Anwer,CN Nation,,0,1,1,,,,399123991
+1,West Indies,19,CN Nation,Aiman Anwer,DJS Dottin,,0,1,1,,,,399123991
+1,West Indies,19,DJS Dottin,Aiman Anwer,CN Nation,,0,2,2,,,,399123991
+1,West Indies,19,DJS Dottin,Aiman Anwer,CN Nation,,0,4,4,,,,399123991

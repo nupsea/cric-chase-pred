@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,India,0,S Dhawan,Shakib Al Hasan,RG Sharma,,0,1,1,,,,380923809
+2,India,0,RG Sharma,Shakib Al Hasan,S Dhawan,,0,0,0,,,,380923809
+2,India,0,RG Sharma,Shakib Al Hasan,S Dhawan,,0,4,4,,,,380923809
+2,India,0,RG Sharma,Shakib Al Hasan,S Dhawan,,0,1,1,,,,380923809
+2,India,0,S Dhawan,Shakib Al Hasan,RG Sharma,,0,1,1,,,,380923809
+2,India,0,RG Sharma,Shakib Al Hasan,S Dhawan,,0,0,0,,,,380923809
+2,India,1,S Dhawan,Mehedi Hasan Miraz,RG Sharma,,0,0,0,,,,380923809
+2,India,1,S Dhawan,Mehedi Hasan Miraz,RG Sharma,,0,1,1,,,,380923809
+2,India,1,RG Sharma,Mehedi Hasan Miraz,S Dhawan,,0,6,6,,,,380923809
+2,India,1,RG Sharma,Mehedi Hasan Miraz,S Dhawan,,0,4,4,,,,380923809
+2,India,1,RG Sharma,Mehedi Hasan Miraz,S Dhawan,,0,6,6,,,,380923809
+2,India,1,RG Sharma,Mehedi Hasan Miraz,S Dhawan,,0,0,0,,,,380923809
+2,India,2,S Dhawan,Shakib Al Hasan,RG Sharma,,0,6,6,,,,380923809
+2,India,2,S Dhawan,Shakib Al Hasan,RG Sharma,,0,1,1,,,,380923809
+2,India,2,RG Sharma,Shakib Al Hasan,S Dhawan,,0,1,1,,,,380923809
+2,India,2,S Dhawan,Shakib Al Hasan,RG Sharma,,0,0,0,caught,S Dhawan,Ariful Haque,380923809
+2,India,2,RG Sharma,Shakib Al Hasan,SK Raina,,0,0,0,,,,380923809
+2,India,2,RG Sharma,Shakib Al Hasan,SK Raina,,0,0,0,,,,380923809
+2,India,3,SK Raina,Rubel Hossain,RG Sharma,,0,0,0,,,,380923809
+2,India,3,SK Raina,Rubel Hossain,RG Sharma,,0,0,0,,,,380923809
+2,India,3,SK Raina,Rubel Hossain,RG Sharma,,0,0,0,caught,SK Raina,Mushfiqur Rahim,380923809
+2,India,3,KL Rahul,Rubel Hossain,RG Sharma,,0,0,0,,,,380923809
+2,India,3,KL Rahul,Rubel Hossain,RG Sharma,,0,4,4,,,,380923809
+2,India,3,KL Rahul,Rubel Hossain,RG Sharma,,0,1,1,,,,380923809
+2,India,4,KL Rahul,Nazmul Islam,RG Sharma,,0,1,1,,,,380923809
+2,India,4,RG Sharma,Nazmul Islam,KL Rahul,,0,0,0,,,,380923809
+2,India,4,RG Sharma,Nazmul Islam,KL Rahul,,0,4,4,,,,380923809
+2,India,4,RG Sharma,Nazmul Islam,KL Rahul,,0,6,6,,,,380923809
+2,India,4,RG Sharma,Nazmul Islam,KL Rahul,,0,0,0,,,,380923809
+2,India,4,RG Sharma,Nazmul Islam,KL Rahul,,0,0,0,,,,380923809
+2,India,5,KL Rahul,Mustafizur Rahman,RG Sharma,,0,1,1,,,,380923809
+2,India,5,RG Sharma,Mustafizur Rahman,KL Rahul,,0,4,4,,,,380923809
+2,India,5,RG Sharma,Mustafizur Rahman,KL Rahul,,0,0,0,,,,380923809
+2,India,5,RG Sharma,Mustafizur Rahman,KL Rahul,,0,2,2,,,,380923809
+2,India,5,RG Sharma,Mustafizur Rahman,KL Rahul,,0,0,0,,,,380923809
+2,India,5,RG Sharma,Mustafizur Rahman,KL Rahul,,0,1,1,,,,380923809
+2,India,6,RG Sharma,Shakib Al Hasan,KL Rahul,,0,1,1,,,,380923809
+2,India,6,KL Rahul,Shakib Al Hasan,RG Sharma,,0,6,6,,,,380923809
+2,India,6,KL Rahul,Shakib Al Hasan,RG Sharma,,0,1,1,,,,380923809
+2,India,6,RG Sharma,Shakib Al Hasan,KL Rahul,,0,2,2,,,,380923809
+2,India,6,RG Sharma,Shakib Al Hasan,KL Rahul,,0,0,0,,,,380923809
+2,India,6,RG Sharma,Shakib Al Hasan,KL Rahul,,0,1,1,,,,380923809
+2,India,7,RG Sharma,Rubel Hossain,KL Rahul,,0,0,0,,,,380923809
+2,India,7,RG Sharma,Rubel Hossain,KL Rahul,,0,1,1,,,,380923809
+2,India,7,KL Rahul,Rubel Hossain,RG Sharma,,0,2,2,,,,380923809
+2,India,7,KL Rahul,Rubel Hossain,RG Sharma,,0,1,1,,,,380923809
+2,India,7,RG Sharma,Rubel Hossain,KL Rahul,,0,0,0,,,,380923809
+2,India,7,RG Sharma,Rubel Hossain,KL Rahul,,0,1,1,,,,380923809
+2,India,8,RG Sharma,Nazmul Islam,KL Rahul,,0,0,0,,,,380923809
+2,India,8,RG Sharma,Nazmul Islam,KL Rahul,,0,1,1,,,,380923809
+2,India,8,KL Rahul,Nazmul Islam,RG Sharma,,0,1,1,,,,380923809
+2,India,8,RG Sharma,Nazmul Islam,KL Rahul,,0,1,1,,,,380923809
+2,India,8,KL Rahul,Nazmul Islam,RG Sharma,,0,4,4,,,,380923809
+2,India,8,KL Rahul,Nazmul Islam,RG Sharma,wides,1,1,0,,,,380923809
+2,India,8,KL Rahul,Nazmul Islam,RG Sharma,,0,1,1,,,,380923809
+2,India,9,KL Rahul,Rubel Hossain,RG Sharma,,0,1,1,,,,380923809
+2,India,9,RG Sharma,Rubel Hossain,KL Rahul,,0,1,1,,,,380923809
+2,India,9,KL Rahul,Rubel Hossain,RG Sharma,,0,0,0,caught,KL Rahul,Sabbir Rahman,380923809
+2,India,9,MK Pandey,Rubel Hossain,RG Sharma,,0,0,0,,,,380923809
+2,India,9,MK Pandey,Rubel Hossain,RG Sharma,,0,0,0,,,,380923809
+2,India,9,MK Pandey,Rubel Hossain,RG Sharma,,0,1,1,,,,380923809
+2,India,10,MK Pandey,Shakib Al Hasan,RG Sharma,,0,1,1,,,,380923809
+2,India,10,RG Sharma,Shakib Al Hasan,MK Pandey,,0,1,1,,,,380923809
+2,India,10,MK Pandey,Shakib Al Hasan,RG Sharma,,0,0,0,,,,380923809
+2,India,10,MK Pandey,Shakib Al Hasan,RG Sharma,,0,0,0,,,,380923809
+2,India,10,MK Pandey,Shakib Al Hasan,RG Sharma,,0,0,0,,,,380923809
+2,India,10,MK Pandey,Shakib Al Hasan,RG Sharma,,0,0,0,,,,380923809
+2,India,11,RG Sharma,Nazmul Islam,MK Pandey,,0,1,1,,,,380923809
+2,India,11,MK Pandey,Nazmul Islam,RG Sharma,,0,1,1,,,,380923809
+2,India,11,RG Sharma,Nazmul Islam,MK Pandey,,0,1,1,,,,380923809
+2,India,11,MK Pandey,Nazmul Islam,RG Sharma,,0,1,1,,,,380923809
+2,India,11,RG Sharma,Nazmul Islam,MK Pandey,,0,0,0,,,,380923809
+2,India,11,RG Sharma,Nazmul Islam,MK Pandey,,0,1,1,,,,380923809
+2,India,12,RG Sharma,Mustafizur Rahman,MK Pandey,,0,2,2,,,,380923809
+2,India,12,RG Sharma,Mustafizur Rahman,MK Pandey,,0,1,1,,,,380923809
+2,India,12,MK Pandey,Mustafizur Rahman,RG Sharma,,0,1,1,,,,380923809
+2,India,12,RG Sharma,Mustafizur Rahman,MK Pandey,,0,1,1,,,,380923809
+2,India,12,MK Pandey,Mustafizur Rahman,RG Sharma,,0,0,0,,,,380923809
+2,India,12,MK Pandey,Mustafizur Rahman,RG Sharma,,0,1,1,,,,380923809
+2,India,13,MK Pandey,Nazmul Islam,RG Sharma,,0,1,1,,,,380923809
+2,India,13,RG Sharma,Nazmul Islam,MK Pandey,,0,0,0,caught,RG Sharma,Mahmudullah,380923809
+2,India,13,V Shankar,Nazmul Islam,MK Pandey,,0,1,1,,,,380923809
+2,India,13,MK Pandey,Nazmul Islam,V Shankar,,0,1,1,,,,380923809
+2,India,13,V Shankar,Nazmul Islam,MK Pandey,,0,4,4,,,,380923809
+2,India,13,V Shankar,Nazmul Islam,MK Pandey,,0,0,0,,,,380923809
+2,India,14,MK Pandey,Soumya Sarkar,V Shankar,,0,1,1,,,,380923809
+2,India,14,V Shankar,Soumya Sarkar,MK Pandey,,0,1,1,,,,380923809
+2,India,14,MK Pandey,Soumya Sarkar,V Shankar,,0,4,4,,,,380923809
+2,India,14,MK Pandey,Soumya Sarkar,V Shankar,,0,4,4,,,,380923809
+2,India,14,MK Pandey,Soumya Sarkar,V Shankar,,0,1,1,,,,380923809
+2,India,14,V Shankar,Soumya Sarkar,MK Pandey,,0,0,0,,,,380923809
+2,India,15,MK Pandey,Mustafizur Rahman,V Shankar,,0,2,2,,,,380923809
+2,India,15,MK Pandey,Mustafizur Rahman,V Shankar,,0,1,1,,,,380923809
+2,India,15,V Shankar,Mustafizur Rahman,MK Pandey,,0,0,0,,,,380923809
+2,India,15,V Shankar,Mustafizur Rahman,MK Pandey,legbyes,1,1,0,,,,380923809
+2,India,15,MK Pandey,Mustafizur Rahman,V Shankar,,0,4,4,,,,380923809
+2,India,15,MK Pandey,Mustafizur Rahman,V Shankar,,0,0,0,,,,380923809
+2,India,16,V Shankar,Soumya Sarkar,MK Pandey,,0,1,1,,,,380923809
+2,India,16,MK Pandey,Soumya Sarkar,V Shankar,,0,2,2,,,,380923809
+2,India,16,MK Pandey,Soumya Sarkar,V Shankar,,0,1,1,,,,380923809
+2,India,16,V Shankar,Soumya Sarkar,MK Pandey,,0,4,4,,,,380923809
+2,India,16,V Shankar,Soumya Sarkar,MK Pandey,,0,1,1,,,,380923809
+2,India,16,MK Pandey,Soumya Sarkar,V Shankar,,0,0,0,,,,380923809
+2,India,17,V Shankar,Mustafizur Rahman,MK Pandey,,0,0,0,,,,380923809
+2,India,17,V Shankar,Mustafizur Rahman,MK Pandey,,0,0,0,,,,380923809
+2,India,17,V Shankar,Mustafizur Rahman,MK Pandey,,0,0,0,,,,380923809
+2,India,17,V Shankar,Mustafizur Rahman,MK Pandey,,0,0,0,,,,380923809
+2,India,17,V Shankar,Mustafizur Rahman,MK Pandey,legbyes,1,1,0,,,,380923809
+2,India,17,MK Pandey,Mustafizur Rahman,V Shankar,,0,0,0,caught,MK Pandey,Sabbir Rahman,380923809
+2,India,18,KD Karthik,Rubel Hossain,V Shankar,,0,6,6,,,,380923809
+2,India,18,KD Karthik,Rubel Hossain,V Shankar,,0,4,4,,,,380923809
+2,India,18,KD Karthik,Rubel Hossain,V Shankar,,0,6,6,,,,380923809
+2,India,18,KD Karthik,Rubel Hossain,V Shankar,,0,0,0,,,,380923809
+2,India,18,KD Karthik,Rubel Hossain,V Shankar,,0,2,2,,,,380923809
+2,India,18,KD Karthik,Rubel Hossain,V Shankar,,0,4,4,,,,380923809
+2,India,19,V Shankar,Soumya Sarkar,KD Karthik,wides,1,1,0,,,,380923809
+2,India,19,V Shankar,Soumya Sarkar,KD Karthik,,0,0,0,,,,380923809
+2,India,19,V Shankar,Soumya Sarkar,KD Karthik,,0,1,1,,,,380923809
+2,India,19,KD Karthik,Soumya Sarkar,V Shankar,,0,1,1,,,,380923809
+2,India,19,V Shankar,Soumya Sarkar,KD Karthik,,0,4,4,,,,380923809
+2,India,19,V Shankar,Soumya Sarkar,KD Karthik,,0,0,0,caught,V Shankar,Mehedi Hasan Miraz,380923809
+2,India,19,KD Karthik,Soumya Sarkar,Washington Sundar,,0,6,6,,,,380923809

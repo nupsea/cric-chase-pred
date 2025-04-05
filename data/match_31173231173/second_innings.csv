@@ -1,0 +1,126 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Netherlands,0,B de Leede,O Prendergast,R Rijke,,0,0,0,,,,31173231173
+2,Netherlands,0,B de Leede,O Prendergast,R Rijke,legbyes,1,1,0,,,,31173231173
+2,Netherlands,0,R Rijke,O Prendergast,B de Leede,,0,0,0,,,,31173231173
+2,Netherlands,0,R Rijke,O Prendergast,B de Leede,,0,0,0,,,,31173231173
+2,Netherlands,0,R Rijke,O Prendergast,B de Leede,,0,0,0,,,,31173231173
+2,Netherlands,0,R Rijke,O Prendergast,B de Leede,,0,0,0,,,,31173231173
+2,Netherlands,1,B de Leede,H Little,R Rijke,,0,1,1,,,,31173231173
+2,Netherlands,1,R Rijke,H Little,B de Leede,,0,0,0,,,,31173231173
+2,Netherlands,1,R Rijke,H Little,B de Leede,,0,1,1,,,,31173231173
+2,Netherlands,1,B de Leede,H Little,R Rijke,wides,1,1,0,,,,31173231173
+2,Netherlands,1,B de Leede,H Little,R Rijke,,0,1,1,,,,31173231173
+2,Netherlands,1,R Rijke,H Little,B de Leede,,0,0,0,,,,31173231173
+2,Netherlands,1,R Rijke,H Little,B de Leede,,0,0,0,,,,31173231173
+2,Netherlands,1,R Rijke,H Little,B de Leede,,0,1,1,,,,31173231173
+2,Netherlands,2,R Rijke,O Prendergast,B de Leede,wides,1,1,0,,,,31173231173
+2,Netherlands,2,R Rijke,O Prendergast,B de Leede,,0,0,0,,,,31173231173
+2,Netherlands,2,R Rijke,O Prendergast,B de Leede,,0,1,1,,,,31173231173
+2,Netherlands,2,B de Leede,O Prendergast,R Rijke,,0,4,4,,,,31173231173
+2,Netherlands,2,B de Leede,O Prendergast,R Rijke,,0,4,4,,,,31173231173
+2,Netherlands,2,B de Leede,O Prendergast,R Rijke,,0,0,0,,,,31173231173
+2,Netherlands,2,B de Leede,O Prendergast,R Rijke,,0,0,0,,,,31173231173
+2,Netherlands,3,R Rijke,EAJ Richardson,B de Leede,,0,0,0,caught,R Rijke,MV Waldron,31173231173
+2,Netherlands,3,FEM Van Arkel,EAJ Richardson,B de Leede,,0,1,1,,,,31173231173
+2,Netherlands,3,B de Leede,EAJ Richardson,FEM Van Arkel,,0,1,1,,,,31173231173
+2,Netherlands,3,FEM Van Arkel,EAJ Richardson,B de Leede,,0,0,0,,,,31173231173
+2,Netherlands,3,FEM Van Arkel,EAJ Richardson,B de Leede,,0,0,0,,,,31173231173
+2,Netherlands,3,FEM Van Arkel,EAJ Richardson,B de Leede,,0,0,0,,,,31173231173
+2,Netherlands,4,B de Leede,L Little,FEM Van Arkel,,0,0,0,,,,31173231173
+2,Netherlands,4,B de Leede,L Little,FEM Van Arkel,,0,0,0,,,,31173231173
+2,Netherlands,4,B de Leede,L Little,FEM Van Arkel,,0,1,1,,,,31173231173
+2,Netherlands,4,FEM Van Arkel,L Little,B de Leede,,0,0,0,,,,31173231173
+2,Netherlands,4,FEM Van Arkel,L Little,B de Leede,,0,0,0,,,,31173231173
+2,Netherlands,4,FEM Van Arkel,L Little,B de Leede,,0,1,1,,,,31173231173
+2,Netherlands,5,FEM Van Arkel,EAJ Richardson,B de Leede,,0,0,0,,,,31173231173
+2,Netherlands,5,FEM Van Arkel,EAJ Richardson,B de Leede,,0,0,0,,,,31173231173
+2,Netherlands,5,FEM Van Arkel,EAJ Richardson,B de Leede,,0,1,1,,,,31173231173
+2,Netherlands,5,B de Leede,EAJ Richardson,FEM Van Arkel,,0,1,1,,,,31173231173
+2,Netherlands,5,FEM Van Arkel,EAJ Richardson,B de Leede,byes,1,1,0,,,,31173231173
+2,Netherlands,5,B de Leede,EAJ Richardson,FEM Van Arkel,,0,1,1,,,,31173231173
+2,Netherlands,6,B de Leede,L Little,FEM Van Arkel,,0,1,1,,,,31173231173
+2,Netherlands,6,FEM Van Arkel,L Little,B de Leede,legbyes,1,1,0,,,,31173231173
+2,Netherlands,6,B de Leede,L Little,FEM Van Arkel,wides,1,1,0,,,,31173231173
+2,Netherlands,6,B de Leede,L Little,FEM Van Arkel,,0,2,2,,,,31173231173
+2,Netherlands,6,B de Leede,L Little,FEM Van Arkel,,0,0,0,,,,31173231173
+2,Netherlands,6,B de Leede,L Little,FEM Van Arkel,,0,0,0,,,,31173231173
+2,Netherlands,6,B de Leede,L Little,FEM Van Arkel,,0,0,0,,,,31173231173
+2,Netherlands,7,FEM Van Arkel,C Raack,B de Leede,,0,0,0,lbw,FEM Van Arkel,,31173231173
+2,Netherlands,7,J Post,C Raack,B de Leede,,0,0,0,,,,31173231173
+2,Netherlands,7,J Post,C Raack,B de Leede,,0,0,0,,,,31173231173
+2,Netherlands,7,J Post,C Raack,B de Leede,,0,0,0,,,,31173231173
+2,Netherlands,7,J Post,C Raack,B de Leede,,0,0,0,,,,31173231173
+2,Netherlands,7,J Post,C Raack,B de Leede,,0,0,0,,,,31173231173
+2,Netherlands,8,B de Leede,L Delany,J Post,,0,0,0,,,,31173231173
+2,Netherlands,8,B de Leede,L Delany,J Post,,0,2,2,,,,31173231173
+2,Netherlands,8,B de Leede,L Delany,J Post,,0,0,0,,,,31173231173
+2,Netherlands,8,B de Leede,L Delany,J Post,,0,4,4,,,,31173231173
+2,Netherlands,8,B de Leede,L Delany,J Post,,0,1,1,,,,31173231173
+2,Netherlands,8,J Post,L Delany,B de Leede,,0,1,1,,,,31173231173
+2,Netherlands,9,J Post,C Raack,B de Leede,,0,1,1,,,,31173231173
+2,Netherlands,9,B de Leede,C Raack,J Post,,0,0,0,,,,31173231173
+2,Netherlands,9,B de Leede,C Raack,J Post,,0,1,1,,,,31173231173
+2,Netherlands,9,J Post,C Raack,B de Leede,,0,1,1,,,,31173231173
+2,Netherlands,9,B de Leede,C Raack,J Post,,0,0,0,,,,31173231173
+2,Netherlands,9,B de Leede,C Raack,J Post,,0,1,1,,,,31173231173
+2,Netherlands,10,B de Leede,L Delany,J Post,,0,4,4,,,,31173231173
+2,Netherlands,10,B de Leede,L Delany,J Post,,0,0,0,,,,31173231173
+2,Netherlands,10,B de Leede,L Delany,J Post,,0,0,0,,,,31173231173
+2,Netherlands,10,B de Leede,L Delany,J Post,,0,2,2,,,,31173231173
+2,Netherlands,10,B de Leede,L Delany,J Post,,0,1,1,,,,31173231173
+2,Netherlands,10,J Post,L Delany,B de Leede,,0,1,1,,,,31173231173
+2,Netherlands,11,J Post,C Raack,B de Leede,,0,1,1,,,,31173231173
+2,Netherlands,11,B de Leede,C Raack,J Post,,0,1,1,,,,31173231173
+2,Netherlands,11,J Post,C Raack,B de Leede,,0,1,1,,,,31173231173
+2,Netherlands,11,B de Leede,C Raack,J Post,,0,1,1,,,,31173231173
+2,Netherlands,11,J Post,C Raack,B de Leede,,0,0,0,,,,31173231173
+2,Netherlands,11,J Post,C Raack,B de Leede,,0,0,0,,,,31173231173
+2,Netherlands,12,B de Leede,S MacMahon,J Post,,0,0,0,,,,31173231173
+2,Netherlands,12,B de Leede,S MacMahon,J Post,,0,1,1,,,,31173231173
+2,Netherlands,12,J Post,S MacMahon,B de Leede,,0,0,0,,,,31173231173
+2,Netherlands,12,J Post,S MacMahon,B de Leede,,0,0,0,,,,31173231173
+2,Netherlands,12,J Post,S MacMahon,B de Leede,,0,1,1,,,,31173231173
+2,Netherlands,12,B de Leede,S MacMahon,J Post,,0,2,2,,,,31173231173
+2,Netherlands,13,J Post,EAJ Richardson,B de Leede,,0,1,1,,,,31173231173
+2,Netherlands,13,B de Leede,EAJ Richardson,J Post,,0,1,1,,,,31173231173
+2,Netherlands,13,J Post,EAJ Richardson,B de Leede,,0,1,1,,,,31173231173
+2,Netherlands,13,B de Leede,EAJ Richardson,J Post,,0,1,1,,,,31173231173
+2,Netherlands,13,J Post,EAJ Richardson,B de Leede,,0,1,1,,,,31173231173
+2,Netherlands,13,B de Leede,EAJ Richardson,J Post,,0,1,1,,,,31173231173
+2,Netherlands,14,B de Leede,S MacMahon,J Post,,0,0,0,,,,31173231173
+2,Netherlands,14,B de Leede,S MacMahon,J Post,,0,1,1,,,,31173231173
+2,Netherlands,14,J Post,S MacMahon,B de Leede,,0,0,0,,,,31173231173
+2,Netherlands,14,J Post,S MacMahon,B de Leede,,0,4,4,,,,31173231173
+2,Netherlands,14,J Post,S MacMahon,B de Leede,,0,0,0,,,,31173231173
+2,Netherlands,14,J Post,S MacMahon,B de Leede,,0,4,4,,,,31173231173
+2,Netherlands,15,B de Leede,O Prendergast,J Post,,0,1,1,,,,31173231173
+2,Netherlands,15,J Post,O Prendergast,B de Leede,,0,0,0,bowled,J Post,,31173231173
+2,Netherlands,15,AH Thomson,O Prendergast,B de Leede,,0,0,0,,,,31173231173
+2,Netherlands,15,AH Thomson,O Prendergast,B de Leede,,0,0,0,,,,31173231173
+2,Netherlands,15,AH Thomson,O Prendergast,B de Leede,,0,0,0,,,,31173231173
+2,Netherlands,15,AH Thomson,O Prendergast,B de Leede,,0,0,0,,,,31173231173
+2,Netherlands,16,B de Leede,H Little,AH Thomson,wides,1,1,0,,,,31173231173
+2,Netherlands,16,B de Leede,H Little,AH Thomson,,0,0,0,,,,31173231173
+2,Netherlands,16,B de Leede,H Little,AH Thomson,,0,4,4,,,,31173231173
+2,Netherlands,16,B de Leede,H Little,AH Thomson,,0,1,1,,,,31173231173
+2,Netherlands,16,AH Thomson,H Little,B de Leede,,0,0,0,,,,31173231173
+2,Netherlands,16,AH Thomson,H Little,B de Leede,,0,1,1,,,,31173231173
+2,Netherlands,16,B de Leede,H Little,AH Thomson,,0,1,1,,,,31173231173
+2,Netherlands,17,B de Leede,O Prendergast,AH Thomson,,0,0,0,,,,31173231173
+2,Netherlands,17,B de Leede,O Prendergast,AH Thomson,,0,1,1,,,,31173231173
+2,Netherlands,17,AH Thomson,O Prendergast,B de Leede,,0,2,2,,,,31173231173
+2,Netherlands,17,AH Thomson,O Prendergast,B de Leede,,0,1,1,,,,31173231173
+2,Netherlands,17,B de Leede,O Prendergast,AH Thomson,,0,0,0,lbw,B de Leede,,31173231173
+2,Netherlands,17,AS van Beuge,O Prendergast,AH Thomson,,0,0,0,,,,31173231173
+2,Netherlands,18,AH Thomson,C Raack,AS van Beuge,,0,0,0,,,,31173231173
+2,Netherlands,18,AH Thomson,C Raack,AS van Beuge,,0,1,1,,,,31173231173
+2,Netherlands,18,AS van Beuge,C Raack,AH Thomson,,0,1,1,,,,31173231173
+2,Netherlands,18,AH Thomson,C Raack,AS van Beuge,,0,0,0,caught,AH Thomson,MV Waldron,31173231173
+2,Netherlands,18,EN Lynch,C Raack,AS van Beuge,,0,1,1,,,,31173231173
+2,Netherlands,18,AS van Beuge,C Raack,EN Lynch,,0,0,0,run out,EN Lynch,H Little,31173231173
+2,Netherlands,19,AS van Beuge,EAJ Richardson,IJR Zwilling,,0,0,0,,,,31173231173
+2,Netherlands,19,AS van Beuge,EAJ Richardson,IJR Zwilling,,0,1,1,,,,31173231173
+2,Netherlands,19,IJR Zwilling,EAJ Richardson,AS van Beuge,,0,0,0,,,,31173231173
+2,Netherlands,19,IJR Zwilling,EAJ Richardson,AS van Beuge,,0,0,0,caught,IJR Zwilling,C Raack,31173231173
+2,Netherlands,19,AS van Beuge,EAJ Richardson,C de Lange,,0,0,0,,,,31173231173
+2,Netherlands,19,AS van Beuge,EAJ Richardson,C de Lange,,0,1,1,,,,31173231173

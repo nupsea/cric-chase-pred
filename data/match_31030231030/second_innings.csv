@@ -1,0 +1,117 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Thailand,0,N Chantam,N Mlaba,N Boochatham,,0,1,1,,,,31030231030
+2,Thailand,0,N Boochatham,N Mlaba,N Chantam,,0,1,1,,,,31030231030
+2,Thailand,0,N Chantam,N Mlaba,N Boochatham,,0,0,0,,,,31030231030
+2,Thailand,0,N Chantam,N Mlaba,N Boochatham,,0,0,0,,,,31030231030
+2,Thailand,0,N Chantam,N Mlaba,N Boochatham,,0,0,0,,,,31030231030
+2,Thailand,0,N Chantam,N Mlaba,N Boochatham,,0,0,0,,,,31030231030
+2,Thailand,1,N Boochatham,S Ismail,N Chantam,,0,1,1,,,,31030231030
+2,Thailand,1,N Chantam,S Ismail,N Boochatham,,0,1,1,,,,31030231030
+2,Thailand,1,N Boochatham,S Ismail,N Chantam,,0,0,0,,,,31030231030
+2,Thailand,1,N Boochatham,S Ismail,N Chantam,,0,1,1,,,,31030231030
+2,Thailand,1,N Chantam,S Ismail,N Boochatham,legbyes,4,4,0,,,,31030231030
+2,Thailand,1,N Chantam,S Ismail,N Boochatham,,0,4,4,,,,31030231030
+2,Thailand,2,N Boochatham,N Mlaba,N Chantam,,0,0,0,,,,31030231030
+2,Thailand,2,N Boochatham,N Mlaba,N Chantam,,0,0,0,,,,31030231030
+2,Thailand,2,N Boochatham,N Mlaba,N Chantam,,0,1,1,,,,31030231030
+2,Thailand,2,N Chantam,N Mlaba,N Boochatham,,0,0,0,,,,31030231030
+2,Thailand,2,N Chantam,N Mlaba,N Boochatham,,0,0,0,,,,31030231030
+2,Thailand,2,N Chantam,N Mlaba,N Boochatham,,0,0,0,,,,31030231030
+2,Thailand,3,N Boochatham,S Ismail,N Chantam,,0,0,0,run out,N Chantam,,31030231030
+2,Thailand,3,N Koncharoenkai,S Ismail,N Boochatham,,0,0,0,bowled,N Koncharoenkai,,31030231030
+2,Thailand,3,N Chaiwai,S Ismail,N Boochatham,,0,0,0,bowled,N Chaiwai,,31030231030
+2,Thailand,3,S Tippoch,S Ismail,N Boochatham,,0,0,0,,,,31030231030
+2,Thailand,3,S Tippoch,S Ismail,N Boochatham,,0,1,1,,,,31030231030
+2,Thailand,3,N Boochatham,S Ismail,S Tippoch,,0,0,0,,,,31030231030
+2,Thailand,4,S Tippoch,N Mlaba,N Boochatham,,0,0,0,,,,31030231030
+2,Thailand,4,S Tippoch,N Mlaba,N Boochatham,,0,0,0,,,,31030231030
+2,Thailand,4,S Tippoch,N Mlaba,N Boochatham,,0,0,0,,,,31030231030
+2,Thailand,4,S Tippoch,N Mlaba,N Boochatham,,0,0,0,,,,31030231030
+2,Thailand,4,S Tippoch,N Mlaba,N Boochatham,,0,0,0,,,,31030231030
+2,Thailand,4,S Tippoch,N Mlaba,N Boochatham,,0,0,0,,,,31030231030
+2,Thailand,5,N Boochatham,S Ismail,S Tippoch,,0,0,0,,,,31030231030
+2,Thailand,5,N Boochatham,S Ismail,S Tippoch,,0,0,0,,,,31030231030
+2,Thailand,5,N Boochatham,S Ismail,S Tippoch,,0,0,0,,,,31030231030
+2,Thailand,5,N Boochatham,S Ismail,S Tippoch,,0,0,0,,,,31030231030
+2,Thailand,5,N Boochatham,S Ismail,S Tippoch,,0,0,0,,,,31030231030
+2,Thailand,5,N Boochatham,S Ismail,S Tippoch,,0,0,0,,,,31030231030
+2,Thailand,6,S Tippoch,N Mlaba,N Boochatham,,0,0,0,caught,S Tippoch,L Wolvaardt,31030231030
+2,Thailand,6,O Kamchomphu,N Mlaba,N Boochatham,,0,0,0,,,,31030231030
+2,Thailand,6,O Kamchomphu,N Mlaba,N Boochatham,,0,1,1,,,,31030231030
+2,Thailand,6,N Boochatham,N Mlaba,O Kamchomphu,,0,0,0,,,,31030231030
+2,Thailand,6,N Boochatham,N Mlaba,O Kamchomphu,,0,0,0,,,,31030231030
+2,Thailand,6,N Boochatham,N Mlaba,O Kamchomphu,,0,0,0,,,,31030231030
+2,Thailand,7,O Kamchomphu,A Khaka,N Boochatham,,0,1,1,,,,31030231030
+2,Thailand,7,N Boochatham,A Khaka,O Kamchomphu,,0,0,0,,,,31030231030
+2,Thailand,7,N Boochatham,A Khaka,O Kamchomphu,,0,1,1,,,,31030231030
+2,Thailand,7,O Kamchomphu,A Khaka,N Boochatham,,0,4,4,,,,31030231030
+2,Thailand,7,O Kamchomphu,A Khaka,N Boochatham,,0,0,0,,,,31030231030
+2,Thailand,7,O Kamchomphu,A Khaka,N Boochatham,,0,2,2,,,,31030231030
+2,Thailand,8,N Boochatham,D van Niekerk,O Kamchomphu,,0,0,0,,,,31030231030
+2,Thailand,8,N Boochatham,D van Niekerk,O Kamchomphu,,0,0,0,,,,31030231030
+2,Thailand,8,N Boochatham,D van Niekerk,O Kamchomphu,,0,1,1,,,,31030231030
+2,Thailand,8,O Kamchomphu,D van Niekerk,N Boochatham,,0,0,0,,,,31030231030
+2,Thailand,8,O Kamchomphu,D van Niekerk,N Boochatham,,0,1,1,,,,31030231030
+2,Thailand,8,N Boochatham,D van Niekerk,O Kamchomphu,,0,0,0,,,,31030231030
+2,Thailand,9,O Kamchomphu,A Khaka,N Boochatham,,0,4,4,,,,31030231030
+2,Thailand,9,O Kamchomphu,A Khaka,N Boochatham,,0,4,4,,,,31030231030
+2,Thailand,9,O Kamchomphu,A Khaka,N Boochatham,,0,0,0,,,,31030231030
+2,Thailand,9,O Kamchomphu,A Khaka,N Boochatham,,0,0,0,,,,31030231030
+2,Thailand,9,O Kamchomphu,A Khaka,N Boochatham,,0,1,1,,,,31030231030
+2,Thailand,9,N Boochatham,A Khaka,O Kamchomphu,,0,0,0,,,,31030231030
+2,Thailand,10,O Kamchomphu,D van Niekerk,N Boochatham,,0,0,0,,,,31030231030
+2,Thailand,10,O Kamchomphu,D van Niekerk,N Boochatham,,0,2,2,,,,31030231030
+2,Thailand,10,O Kamchomphu,D van Niekerk,N Boochatham,,0,0,0,,,,31030231030
+2,Thailand,10,O Kamchomphu,D van Niekerk,N Boochatham,,0,6,6,,,,31030231030
+2,Thailand,10,O Kamchomphu,D van Niekerk,N Boochatham,,0,0,0,,,,31030231030
+2,Thailand,10,O Kamchomphu,D van Niekerk,N Boochatham,,0,0,0,,,,31030231030
+2,Thailand,11,N Boochatham,S Luus,O Kamchomphu,,0,0,0,,,,31030231030
+2,Thailand,11,N Boochatham,S Luus,O Kamchomphu,,0,1,1,,,,31030231030
+2,Thailand,11,O Kamchomphu,S Luus,N Boochatham,,0,0,0,,,,31030231030
+2,Thailand,11,O Kamchomphu,S Luus,N Boochatham,,0,0,0,caught,O Kamchomphu,T Chetty,31030231030
+2,Thailand,11,C Sutthiruang,S Luus,N Boochatham,,0,1,1,,,,31030231030
+2,Thailand,11,N Boochatham,S Luus,C Sutthiruang,,0,1,1,,,,31030231030
+2,Thailand,12,N Boochatham,D van Niekerk,C Sutthiruang,,0,0,0,,,,31030231030
+2,Thailand,12,N Boochatham,D van Niekerk,C Sutthiruang,,0,0,0,,,,31030231030
+2,Thailand,12,N Boochatham,D van Niekerk,C Sutthiruang,,0,0,0,stumped,N Boochatham,T Chetty,31030231030
+2,Thailand,12,W Liengprasert,D van Niekerk,C Sutthiruang,,0,1,1,,,,31030231030
+2,Thailand,12,C Sutthiruang,D van Niekerk,W Liengprasert,,0,1,1,,,,31030231030
+2,Thailand,12,W Liengprasert,D van Niekerk,C Sutthiruang,,0,1,1,,,,31030231030
+2,Thailand,13,W Liengprasert,S Luus,C Sutthiruang,,0,0,0,,,,31030231030
+2,Thailand,13,W Liengprasert,S Luus,C Sutthiruang,,0,1,1,,,,31030231030
+2,Thailand,13,C Sutthiruang,S Luus,W Liengprasert,,0,1,1,,,,31030231030
+2,Thailand,13,W Liengprasert,S Luus,C Sutthiruang,,0,1,1,,,,31030231030
+2,Thailand,13,C Sutthiruang,S Luus,W Liengprasert,,0,1,1,,,,31030231030
+2,Thailand,13,W Liengprasert,S Luus,C Sutthiruang,,0,0,0,,,,31030231030
+2,Thailand,14,C Sutthiruang,N de Klerk,W Liengprasert,,0,0,0,,,,31030231030
+2,Thailand,14,C Sutthiruang,N de Klerk,W Liengprasert,,0,0,0,,,,31030231030
+2,Thailand,14,C Sutthiruang,N de Klerk,W Liengprasert,,0,2,2,,,,31030231030
+2,Thailand,14,C Sutthiruang,N de Klerk,W Liengprasert,,0,1,1,,,,31030231030
+2,Thailand,14,W Liengprasert,N de Klerk,C Sutthiruang,,0,1,1,,,,31030231030
+2,Thailand,14,C Sutthiruang,N de Klerk,W Liengprasert,,0,0,0,,,,31030231030
+2,Thailand,15,W Liengprasert,S Luus,C Sutthiruang,,0,1,1,,,,31030231030
+2,Thailand,15,C Sutthiruang,S Luus,W Liengprasert,,0,1,1,,,,31030231030
+2,Thailand,15,W Liengprasert,S Luus,C Sutthiruang,,0,0,0,,,,31030231030
+2,Thailand,15,W Liengprasert,S Luus,C Sutthiruang,,0,0,0,stumped,W Liengprasert,T Chetty,31030231030
+2,Thailand,15,S Laomi,S Luus,C Sutthiruang,,0,1,1,,,,31030231030
+2,Thailand,15,C Sutthiruang,S Luus,S Laomi,,0,1,1,,,,31030231030
+2,Thailand,16,C Sutthiruang,N de Klerk,S Laomi,,0,0,0,,,,31030231030
+2,Thailand,16,C Sutthiruang,N de Klerk,S Laomi,,0,0,0,,,,31030231030
+2,Thailand,16,C Sutthiruang,N de Klerk,S Laomi,,0,2,2,,,,31030231030
+2,Thailand,16,C Sutthiruang,N de Klerk,S Laomi,,0,2,2,,,,31030231030
+2,Thailand,16,C Sutthiruang,N de Klerk,S Laomi,byes,4,4,0,,,,31030231030
+2,Thailand,16,C Sutthiruang,N de Klerk,S Laomi,,0,0,0,lbw,C Sutthiruang,,31030231030
+2,Thailand,17,S Laomi,S Luus,R Padunglerd,,0,1,1,,,,31030231030
+2,Thailand,17,R Padunglerd,S Luus,S Laomi,,0,1,1,,,,31030231030
+2,Thailand,17,S Laomi,S Luus,R Padunglerd,,0,1,1,,,,31030231030
+2,Thailand,17,R Padunglerd,S Luus,S Laomi,,0,1,1,,,,31030231030
+2,Thailand,17,S Laomi,S Luus,R Padunglerd,,0,0,0,,,,31030231030
+2,Thailand,17,S Laomi,S Luus,R Padunglerd,,0,0,0,caught,S Laomi,D van Niekerk,31030231030
+2,Thailand,18,S Lateh,N de Klerk,R Padunglerd,noballs,1,3,2,,,,31030231030
+2,Thailand,18,S Lateh,N de Klerk,R Padunglerd,,0,0,0,,,,31030231030
+2,Thailand,18,S Lateh,N de Klerk,R Padunglerd,,0,1,1,,,,31030231030
+2,Thailand,18,R Padunglerd,N de Klerk,S Lateh,,0,4,4,,,,31030231030
+2,Thailand,18,R Padunglerd,N de Klerk,S Lateh,,0,1,1,,,,31030231030
+2,Thailand,18,S Lateh,N de Klerk,R Padunglerd,,0,0,0,,,,31030231030
+2,Thailand,18,S Lateh,N de Klerk,R Padunglerd,,0,0,0,,,,31030231030
+2,Thailand,19,R Padunglerd,S Ismail,S Lateh,,0,0,0,bowled,R Padunglerd,,31030231030

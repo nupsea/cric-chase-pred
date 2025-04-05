@@ -1,0 +1,99 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Ghana,0,JK Vifah,P Vekaria,Amoluk Singh,,0,0,0,,,,31613231613
+2,Ghana,0,JK Vifah,P Vekaria,Amoluk Singh,,0,0,0,,,,31613231613
+2,Ghana,0,JK Vifah,P Vekaria,Amoluk Singh,,0,0,0,,,,31613231613
+2,Ghana,0,JK Vifah,P Vekaria,Amoluk Singh,,0,1,1,,,,31613231613
+2,Ghana,0,Amoluk Singh,P Vekaria,JK Vifah,,0,0,0,,,,31613231613
+2,Ghana,0,Amoluk Singh,P Vekaria,JK Vifah,,0,4,4,,,,31613231613
+2,Ghana,1,JK Vifah,Z Bimenyimana,Amoluk Singh,,0,5,5,,,,31613231613
+2,Ghana,1,Amoluk Singh,Z Bimenyimana,JK Vifah,,0,0,0,,,,31613231613
+2,Ghana,1,Amoluk Singh,Z Bimenyimana,JK Vifah,,0,1,1,,,,31613231613
+2,Ghana,1,JK Vifah,Z Bimenyimana,Amoluk Singh,,0,4,4,,,,31613231613
+2,Ghana,1,JK Vifah,Z Bimenyimana,Amoluk Singh,,0,0,0,caught,JK Vifah,D Uwimana,31613231613
+2,Ghana,1,R Bakum,Z Bimenyimana,Amoluk Singh,,0,0,0,,,,31613231613
+2,Ghana,2,Amoluk Singh,P Vekaria,R Bakum,,0,0,0,,,,31613231613
+2,Ghana,2,Amoluk Singh,P Vekaria,R Bakum,,0,4,4,,,,31613231613
+2,Ghana,2,Amoluk Singh,P Vekaria,R Bakum,wides,1,1,0,,,,31613231613
+2,Ghana,2,Amoluk Singh,P Vekaria,R Bakum,,0,0,0,,,,31613231613
+2,Ghana,2,Amoluk Singh,P Vekaria,R Bakum,,0,0,0,,,,31613231613
+2,Ghana,2,Amoluk Singh,P Vekaria,R Bakum,,0,4,4,,,,31613231613
+2,Ghana,2,Amoluk Singh,P Vekaria,R Bakum,,0,1,1,,,,31613231613
+2,Ghana,3,Amoluk Singh,Z Bimenyimana,R Bakum,,0,0,0,caught,Amoluk Singh,O Tuyisenge,31613231613
+2,Ghana,3,OH Agbomadzie,Z Bimenyimana,R Bakum,,0,0,0,,,,31613231613
+2,Ghana,3,OH Agbomadzie,Z Bimenyimana,R Bakum,wides,1,1,0,,,,31613231613
+2,Ghana,3,OH Agbomadzie,Z Bimenyimana,R Bakum,,0,1,1,,,,31613231613
+2,Ghana,3,R Bakum,Z Bimenyimana,OH Agbomadzie,,0,1,1,,,,31613231613
+2,Ghana,3,OH Agbomadzie,Z Bimenyimana,R Bakum,,0,1,1,,,,31613231613
+2,Ghana,3,R Bakum,Z Bimenyimana,OH Agbomadzie,,0,0,0,,,,31613231613
+2,Ghana,4,OH Agbomadzie,K Irakoze,R Bakum,,0,0,0,,,,31613231613
+2,Ghana,4,OH Agbomadzie,K Irakoze,R Bakum,,0,1,1,,,,31613231613
+2,Ghana,4,R Bakum,K Irakoze,OH Agbomadzie,,0,0,0,lbw,R Bakum,,31613231613
+2,Ghana,4,Devender Singh,K Irakoze,OH Agbomadzie,,0,0,0,,,,31613231613
+2,Ghana,4,Devender Singh,K Irakoze,OH Agbomadzie,,0,1,1,,,,31613231613
+2,Ghana,4,OH Agbomadzie,K Irakoze,Devender Singh,,0,0,0,,,,31613231613
+2,Ghana,5,Devender Singh,M Akayezu,OH Agbomadzie,,0,0,0,,,,31613231613
+2,Ghana,5,Devender Singh,M Akayezu,OH Agbomadzie,,0,1,1,,,,31613231613
+2,Ghana,5,OH Agbomadzie,M Akayezu,Devender Singh,wides,1,1,0,,,,31613231613
+2,Ghana,5,OH Agbomadzie,M Akayezu,Devender Singh,,0,0,0,,,,31613231613
+2,Ghana,5,OH Agbomadzie,M Akayezu,Devender Singh,,0,4,4,,,,31613231613
+2,Ghana,5,OH Agbomadzie,M Akayezu,Devender Singh,,0,1,1,run out,Devender Singh,P Vekaria,31613231613
+2,Ghana,5,OH Agbomadzie,M Akayezu,SK Awiah,,0,0,0,,,,31613231613
+2,Ghana,6,SK Awiah,K Irakoze,OH Agbomadzie,,0,0,0,,,,31613231613
+2,Ghana,6,SK Awiah,K Irakoze,OH Agbomadzie,,0,1,1,,,,31613231613
+2,Ghana,6,OH Agbomadzie,K Irakoze,SK Awiah,,0,1,1,,,,31613231613
+2,Ghana,6,SK Awiah,K Irakoze,OH Agbomadzie,,0,0,0,,,,31613231613
+2,Ghana,6,SK Awiah,K Irakoze,OH Agbomadzie,wides,1,1,0,,,,31613231613
+2,Ghana,6,SK Awiah,K Irakoze,OH Agbomadzie,,0,0,0,,,,31613231613
+2,Ghana,6,SK Awiah,K Irakoze,OH Agbomadzie,,0,0,0,,,,31613231613
+2,Ghana,7,OH Agbomadzie,M Akayezu,SK Awiah,wides,1,1,0,,,,31613231613
+2,Ghana,7,OH Agbomadzie,M Akayezu,SK Awiah,,0,0,0,,,,31613231613
+2,Ghana,7,OH Agbomadzie,M Akayezu,SK Awiah,legbyes,1,1,0,,,,31613231613
+2,Ghana,7,SK Awiah,M Akayezu,OH Agbomadzie,,0,0,0,,,,31613231613
+2,Ghana,7,SK Awiah,M Akayezu,OH Agbomadzie,,0,0,0,caught,SK Awiah,D Uwimana,31613231613
+2,Ghana,7,KF Bakiweyem,M Akayezu,OH Agbomadzie,,0,0,0,,,,31613231613
+2,Ghana,7,KF Bakiweyem,M Akayezu,OH Agbomadzie,,0,0,0,,,,31613231613
+2,Ghana,8,OH Agbomadzie,K Irakoze,KF Bakiweyem,,0,0,0,,,,31613231613
+2,Ghana,8,OH Agbomadzie,K Irakoze,KF Bakiweyem,,0,1,1,,,,31613231613
+2,Ghana,8,KF Bakiweyem,K Irakoze,OH Agbomadzie,,0,1,1,,,,31613231613
+2,Ghana,8,OH Agbomadzie,K Irakoze,KF Bakiweyem,,0,0,0,,,,31613231613
+2,Ghana,8,OH Agbomadzie,K Irakoze,KF Bakiweyem,,0,1,1,,,,31613231613
+2,Ghana,8,KF Bakiweyem,K Irakoze,OH Agbomadzie,,0,1,1,run out,KF Bakiweyem,D Uwimana,31613231613
+2,Ghana,9,OH Agbomadzie,M Akayezu,MK Anafie,,0,0,0,lbw,OH Agbomadzie,,31613231613
+2,Ghana,9,TK Joseph,M Akayezu,MK Anafie,,0,1,1,,,,31613231613
+2,Ghana,9,MK Anafie,M Akayezu,TK Joseph,,0,0,0,,,,31613231613
+2,Ghana,9,MK Anafie,M Akayezu,TK Joseph,wides,1,1,0,,,,31613231613
+2,Ghana,9,MK Anafie,M Akayezu,TK Joseph,,0,0,0,,,,31613231613
+2,Ghana,9,MK Anafie,M Akayezu,TK Joseph,,0,0,0,,,,31613231613
+2,Ghana,9,MK Anafie,M Akayezu,TK Joseph,,0,1,1,,,,31613231613
+2,Ghana,10,MK Anafie,K Irakoze,TK Joseph,,0,0,0,,,,31613231613
+2,Ghana,10,MK Anafie,K Irakoze,TK Joseph,,0,6,6,,,,31613231613
+2,Ghana,10,MK Anafie,K Irakoze,TK Joseph,,0,1,1,,,,31613231613
+2,Ghana,10,TK Joseph,K Irakoze,MK Anafie,,0,0,0,,,,31613231613
+2,Ghana,10,TK Joseph,K Irakoze,MK Anafie,,0,0,0,,,,31613231613
+2,Ghana,10,TK Joseph,K Irakoze,MK Anafie,,0,2,2,,,,31613231613
+2,Ghana,11,MK Anafie,M Akayezu,TK Joseph,,0,1,1,,,,31613231613
+2,Ghana,11,TK Joseph,M Akayezu,MK Anafie,,0,0,0,,,,31613231613
+2,Ghana,11,TK Joseph,M Akayezu,MK Anafie,wides,1,1,0,,,,31613231613
+2,Ghana,11,TK Joseph,M Akayezu,MK Anafie,,0,0,0,,,,31613231613
+2,Ghana,11,TK Joseph,M Akayezu,MK Anafie,,0,0,0,,,,31613231613
+2,Ghana,11,TK Joseph,M Akayezu,MK Anafie,,0,4,4,,,,31613231613
+2,Ghana,11,TK Joseph,M Akayezu,MK Anafie,,0,0,0,,,,31613231613
+2,Ghana,12,MK Anafie,C Rububagumya,TK Joseph,,0,6,6,,,,31613231613
+2,Ghana,12,MK Anafie,C Rububagumya,TK Joseph,,0,0,0,,,,31613231613
+2,Ghana,12,MK Anafie,C Rububagumya,TK Joseph,,0,1,1,,,,31613231613
+2,Ghana,12,TK Joseph,C Rububagumya,MK Anafie,,0,0,0,,,,31613231613
+2,Ghana,12,TK Joseph,C Rububagumya,MK Anafie,,0,0,0,caught,TK Joseph,Bosco Tuyizere,31613231613
+2,Ghana,12,MK Anafie,C Rububagumya,KS Bagabena,,0,1,1,,,,31613231613
+2,Ghana,13,MK Anafie,Z Bimenyimana,KS Bagabena,,0,0,0,,,,31613231613
+2,Ghana,13,MK Anafie,Z Bimenyimana,KS Bagabena,,0,0,0,,,,31613231613
+2,Ghana,13,MK Anafie,Z Bimenyimana,KS Bagabena,,0,0,0,,,,31613231613
+2,Ghana,13,MK Anafie,Z Bimenyimana,KS Bagabena,,0,1,1,,,,31613231613
+2,Ghana,13,KS Bagabena,Z Bimenyimana,MK Anafie,,0,1,1,,,,31613231613
+2,Ghana,13,MK Anafie,Z Bimenyimana,KS Bagabena,,0,0,0,,,,31613231613
+2,Ghana,14,KS Bagabena,C Rububagumya,MK Anafie,,0,1,1,,,,31613231613
+2,Ghana,14,MK Anafie,C Rububagumya,KS Bagabena,,0,0,0,run out,KS Bagabena,M Akayezu,31613231613
+2,Ghana,14,MK Anafie,C Rububagumya,G Bakiweyem,,0,0,0,,,,31613231613
+2,Ghana,14,MK Anafie,C Rububagumya,G Bakiweyem,,0,2,2,,,,31613231613
+2,Ghana,14,MK Anafie,C Rububagumya,G Bakiweyem,,0,1,1,,,,31613231613
+2,Ghana,14,G Bakiweyem,C Rububagumya,MK Anafie,,0,0,0,,,,31613231613
+2,Ghana,15,MK Anafie,Z Bimenyimana,G Bakiweyem,,0,0,0,bowled,MK Anafie,,31613231613

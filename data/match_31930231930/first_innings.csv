@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Bangladesh,0,Munim Shahriar,Fazalhaq Farooqi,Mohammad Naim,wides,1,1,0,,,,31930231930
+1,Bangladesh,0,Munim Shahriar,Fazalhaq Farooqi,Mohammad Naim,,0,0,0,,,,31930231930
+1,Bangladesh,0,Munim Shahriar,Fazalhaq Farooqi,Mohammad Naim,,0,4,4,,,,31930231930
+1,Bangladesh,0,Munim Shahriar,Fazalhaq Farooqi,Mohammad Naim,,0,0,0,,,,31930231930
+1,Bangladesh,0,Munim Shahriar,Fazalhaq Farooqi,Mohammad Naim,,0,1,1,,,,31930231930
+1,Bangladesh,0,Mohammad Naim,Fazalhaq Farooqi,Munim Shahriar,,0,0,0,,,,31930231930
+1,Bangladesh,0,Mohammad Naim,Fazalhaq Farooqi,Munim Shahriar,,0,0,0,,,,31930231930
+1,Bangladesh,1,Munim Shahriar,Mujeeb Ur Rahman,Mohammad Naim,,0,0,0,,,,31930231930
+1,Bangladesh,1,Munim Shahriar,Mujeeb Ur Rahman,Mohammad Naim,,0,1,1,,,,31930231930
+1,Bangladesh,1,Mohammad Naim,Mujeeb Ur Rahman,Munim Shahriar,,0,1,1,,,,31930231930
+1,Bangladesh,1,Munim Shahriar,Mujeeb Ur Rahman,Mohammad Naim,,0,1,1,,,,31930231930
+1,Bangladesh,1,Mohammad Naim,Mujeeb Ur Rahman,Munim Shahriar,,0,1,1,,,,31930231930
+1,Bangladesh,1,Munim Shahriar,Mujeeb Ur Rahman,Mohammad Naim,,0,0,0,,,,31930231930
+1,Bangladesh,2,Mohammad Naim,Fazalhaq Farooqi,Munim Shahriar,,0,0,0,lbw,Mohammad Naim,,31930231930
+1,Bangladesh,2,Liton Das,Fazalhaq Farooqi,Munim Shahriar,,0,1,1,,,,31930231930
+1,Bangladesh,2,Munim Shahriar,Fazalhaq Farooqi,Liton Das,,0,1,1,,,,31930231930
+1,Bangladesh,2,Liton Das,Fazalhaq Farooqi,Munim Shahriar,,0,0,0,,,,31930231930
+1,Bangladesh,2,Liton Das,Fazalhaq Farooqi,Munim Shahriar,,0,1,1,,,,31930231930
+1,Bangladesh,2,Munim Shahriar,Fazalhaq Farooqi,Liton Das,legbyes,1,1,0,,,,31930231930
+1,Bangladesh,3,Munim Shahriar,Mujeeb Ur Rahman,Liton Das,,0,4,4,,,,31930231930
+1,Bangladesh,3,Munim Shahriar,Mujeeb Ur Rahman,Liton Das,,0,4,4,,,,31930231930
+1,Bangladesh,3,Munim Shahriar,Mujeeb Ur Rahman,Liton Das,,0,0,0,,,,31930231930
+1,Bangladesh,3,Munim Shahriar,Mujeeb Ur Rahman,Liton Das,,0,0,0,,,,31930231930
+1,Bangladesh,3,Munim Shahriar,Mujeeb Ur Rahman,Liton Das,,0,0,0,,,,31930231930
+1,Bangladesh,3,Munim Shahriar,Mujeeb Ur Rahman,Liton Das,,0,0,0,,,,31930231930
+1,Bangladesh,4,Liton Das,Rashid Khan,Munim Shahriar,,0,0,0,,,,31930231930
+1,Bangladesh,4,Liton Das,Rashid Khan,Munim Shahriar,,0,0,0,,,,31930231930
+1,Bangladesh,4,Liton Das,Rashid Khan,Munim Shahriar,,0,1,1,,,,31930231930
+1,Bangladesh,4,Munim Shahriar,Rashid Khan,Liton Das,,0,1,1,,,,31930231930
+1,Bangladesh,4,Liton Das,Rashid Khan,Munim Shahriar,legbyes,1,1,0,,,,31930231930
+1,Bangladesh,4,Munim Shahriar,Rashid Khan,Liton Das,,0,0,0,lbw,Munim Shahriar,,31930231930
+1,Bangladesh,5,Liton Das,Mujeeb Ur Rahman,Shakib Al Hasan,,0,4,4,,,,31930231930
+1,Bangladesh,5,Liton Das,Mujeeb Ur Rahman,Shakib Al Hasan,,0,0,0,,,,31930231930
+1,Bangladesh,5,Liton Das,Mujeeb Ur Rahman,Shakib Al Hasan,,0,2,2,,,,31930231930
+1,Bangladesh,5,Liton Das,Mujeeb Ur Rahman,Shakib Al Hasan,wides,1,1,0,,,,31930231930
+1,Bangladesh,5,Liton Das,Mujeeb Ur Rahman,Shakib Al Hasan,,0,4,4,,,,31930231930
+1,Bangladesh,5,Liton Das,Mujeeb Ur Rahman,Shakib Al Hasan,,0,1,1,,,,31930231930
+1,Bangladesh,5,Shakib Al Hasan,Mujeeb Ur Rahman,Liton Das,,0,0,0,,,,31930231930
+1,Bangladesh,6,Liton Das,Mohammad Nabi,Shakib Al Hasan,,0,1,1,,,,31930231930
+1,Bangladesh,6,Shakib Al Hasan,Mohammad Nabi,Liton Das,,0,0,0,,,,31930231930
+1,Bangladesh,6,Shakib Al Hasan,Mohammad Nabi,Liton Das,,0,1,1,,,,31930231930
+1,Bangladesh,6,Liton Das,Mohammad Nabi,Shakib Al Hasan,,0,1,1,,,,31930231930
+1,Bangladesh,6,Shakib Al Hasan,Mohammad Nabi,Liton Das,,0,3,3,,,,31930231930
+1,Bangladesh,6,Liton Das,Mohammad Nabi,Shakib Al Hasan,,0,2,2,,,,31930231930
+1,Bangladesh,7,Shakib Al Hasan,Qais Ahmad,Liton Das,,0,1,1,,,,31930231930
+1,Bangladesh,7,Liton Das,Qais Ahmad,Shakib Al Hasan,,0,0,0,,,,31930231930
+1,Bangladesh,7,Liton Das,Qais Ahmad,Shakib Al Hasan,,0,1,1,,,,31930231930
+1,Bangladesh,7,Shakib Al Hasan,Qais Ahmad,Liton Das,,0,0,0,caught,Shakib Al Hasan,Mujeeb Ur Rahman,31930231930
+1,Bangladesh,7,Mahmudullah,Qais Ahmad,Liton Das,,0,1,1,,,,31930231930
+1,Bangladesh,7,Liton Das,Qais Ahmad,Mahmudullah,,0,1,1,,,,31930231930
+1,Bangladesh,8,Liton Das,Rashid Khan,Mahmudullah,,0,1,1,,,,31930231930
+1,Bangladesh,8,Mahmudullah,Rashid Khan,Liton Das,,0,1,1,,,,31930231930
+1,Bangladesh,8,Liton Das,Rashid Khan,Mahmudullah,,0,1,1,,,,31930231930
+1,Bangladesh,8,Mahmudullah,Rashid Khan,Liton Das,,0,0,0,,,,31930231930
+1,Bangladesh,8,Mahmudullah,Rashid Khan,Liton Das,,0,1,1,,,,31930231930
+1,Bangladesh,8,Liton Das,Rashid Khan,Mahmudullah,,0,1,1,,,,31930231930
+1,Bangladesh,9,Liton Das,Qais Ahmad,Mahmudullah,,0,0,0,,,,31930231930
+1,Bangladesh,9,Liton Das,Qais Ahmad,Mahmudullah,,0,6,6,,,,31930231930
+1,Bangladesh,9,Liton Das,Qais Ahmad,Mahmudullah,,0,2,2,,,,31930231930
+1,Bangladesh,9,Liton Das,Qais Ahmad,Mahmudullah,,0,2,2,,,,31930231930
+1,Bangladesh,9,Liton Das,Qais Ahmad,Mahmudullah,,0,1,1,,,,31930231930
+1,Bangladesh,9,Mahmudullah,Qais Ahmad,Liton Das,,0,6,6,,,,31930231930
+1,Bangladesh,10,Liton Das,Azmatullah Omarzai,Mahmudullah,,0,1,1,,,,31930231930
+1,Bangladesh,10,Mahmudullah,Azmatullah Omarzai,Liton Das,,0,1,1,,,,31930231930
+1,Bangladesh,10,Liton Das,Azmatullah Omarzai,Mahmudullah,,0,6,6,,,,31930231930
+1,Bangladesh,10,Liton Das,Azmatullah Omarzai,Mahmudullah,,0,1,1,,,,31930231930
+1,Bangladesh,10,Mahmudullah,Azmatullah Omarzai,Liton Das,,0,0,0,lbw,Mahmudullah,,31930231930
+1,Bangladesh,10,Afif Hossain,Azmatullah Omarzai,Liton Das,,0,1,1,,,,31930231930
+1,Bangladesh,11,Afif Hossain,Karim Janat,Liton Das,,0,1,1,,,,31930231930
+1,Bangladesh,11,Liton Das,Karim Janat,Afif Hossain,,0,1,1,,,,31930231930
+1,Bangladesh,11,Afif Hossain,Karim Janat,Liton Das,,0,0,0,,,,31930231930
+1,Bangladesh,11,Afif Hossain,Karim Janat,Liton Das,,0,1,1,,,,31930231930
+1,Bangladesh,11,Liton Das,Karim Janat,Afif Hossain,,0,1,1,,,,31930231930
+1,Bangladesh,11,Afif Hossain,Karim Janat,Liton Das,,0,1,1,,,,31930231930
+1,Bangladesh,12,Afif Hossain,Mohammad Nabi,Liton Das,,0,4,4,,,,31930231930
+1,Bangladesh,12,Afif Hossain,Mohammad Nabi,Liton Das,,0,2,2,,,,31930231930
+1,Bangladesh,12,Afif Hossain,Mohammad Nabi,Liton Das,,0,0,0,,,,31930231930
+1,Bangladesh,12,Afif Hossain,Mohammad Nabi,Liton Das,,0,0,0,,,,31930231930
+1,Bangladesh,12,Afif Hossain,Mohammad Nabi,Liton Das,,0,1,1,,,,31930231930
+1,Bangladesh,12,Liton Das,Mohammad Nabi,Afif Hossain,,0,4,4,,,,31930231930
+1,Bangladesh,13,Afif Hossain,Rashid Khan,Liton Das,,0,1,1,,,,31930231930
+1,Bangladesh,13,Liton Das,Rashid Khan,Afif Hossain,,0,1,1,,,,31930231930
+1,Bangladesh,13,Afif Hossain,Rashid Khan,Liton Das,legbyes,1,1,0,,,,31930231930
+1,Bangladesh,13,Liton Das,Rashid Khan,Afif Hossain,,0,1,1,,,,31930231930
+1,Bangladesh,13,Afif Hossain,Rashid Khan,Liton Das,,0,0,0,,,,31930231930
+1,Bangladesh,13,Afif Hossain,Rashid Khan,Liton Das,,0,1,1,,,,31930231930
+1,Bangladesh,14,Afif Hossain,Azmatullah Omarzai,Liton Das,,0,2,2,,,,31930231930
+1,Bangladesh,14,Afif Hossain,Azmatullah Omarzai,Liton Das,,0,4,4,,,,31930231930
+1,Bangladesh,14,Afif Hossain,Azmatullah Omarzai,Liton Das,,0,1,1,,,,31930231930
+1,Bangladesh,14,Liton Das,Azmatullah Omarzai,Afif Hossain,,0,0,0,,,,31930231930
+1,Bangladesh,14,Liton Das,Azmatullah Omarzai,Afif Hossain,,0,1,1,,,,31930231930
+1,Bangladesh,14,Afif Hossain,Azmatullah Omarzai,Liton Das,,0,0,0,,,,31930231930
+1,Bangladesh,15,Liton Das,Rashid Khan,Afif Hossain,,0,1,1,,,,31930231930
+1,Bangladesh,15,Afif Hossain,Rashid Khan,Liton Das,,0,0,0,,,,31930231930
+1,Bangladesh,15,Afif Hossain,Rashid Khan,Liton Das,,0,2,2,,,,31930231930
+1,Bangladesh,15,Afif Hossain,Rashid Khan,Liton Das,,0,1,1,,,,31930231930
+1,Bangladesh,15,Liton Das,Rashid Khan,Afif Hossain,,0,0,0,,,,31930231930
+1,Bangladesh,15,Liton Das,Rashid Khan,Afif Hossain,,0,0,0,,,,31930231930
+1,Bangladesh,16,Afif Hossain,Fazalhaq Farooqi,Liton Das,,0,2,2,,,,31930231930
+1,Bangladesh,16,Afif Hossain,Fazalhaq Farooqi,Liton Das,byes,1,1,0,,,,31930231930
+1,Bangladesh,16,Liton Das,Fazalhaq Farooqi,Afif Hossain,noballs,1,1,0,,,,31930231930
+1,Bangladesh,16,Liton Das,Fazalhaq Farooqi,Afif Hossain,,0,4,4,,,,31930231930
+1,Bangladesh,16,Liton Das,Fazalhaq Farooqi,Afif Hossain,,0,2,2,,,,31930231930
+1,Bangladesh,16,Liton Das,Fazalhaq Farooqi,Afif Hossain,,0,2,2,,,,31930231930
+1,Bangladesh,16,Liton Das,Fazalhaq Farooqi,Afif Hossain,,0,0,0,caught,Liton Das,Azmatullah Omarzai,31930231930
+1,Bangladesh,17,Yasir Ali Chowdhury,Azmatullah Omarzai,Afif Hossain,,0,1,1,,,,31930231930
+1,Bangladesh,17,Afif Hossain,Azmatullah Omarzai,Yasir Ali Chowdhury,,0,0,0,caught,Afif Hossain,Mohammad Nabi,31930231930
+1,Bangladesh,17,Yasir Ali Chowdhury,Azmatullah Omarzai,Mahedi Hasan,,0,1,1,,,,31930231930
+1,Bangladesh,17,Mahedi Hasan,Azmatullah Omarzai,Yasir Ali Chowdhury,,0,1,1,,,,31930231930
+1,Bangladesh,17,Yasir Ali Chowdhury,Azmatullah Omarzai,Mahedi Hasan,,0,1,1,,,,31930231930
+1,Bangladesh,17,Mahedi Hasan,Azmatullah Omarzai,Yasir Ali Chowdhury,legbyes,1,1,0,,,,31930231930
+1,Bangladesh,18,Mahedi Hasan,Fazalhaq Farooqi,Yasir Ali Chowdhury,,0,1,1,,,,31930231930
+1,Bangladesh,18,Yasir Ali Chowdhury,Fazalhaq Farooqi,Mahedi Hasan,,0,1,1,,,,31930231930
+1,Bangladesh,18,Mahedi Hasan,Fazalhaq Farooqi,Yasir Ali Chowdhury,,0,1,1,,,,31930231930
+1,Bangladesh,18,Yasir Ali Chowdhury,Fazalhaq Farooqi,Mahedi Hasan,,0,0,0,,,,31930231930
+1,Bangladesh,18,Yasir Ali Chowdhury,Fazalhaq Farooqi,Mahedi Hasan,byes,4,4,0,,,,31930231930
+1,Bangladesh,18,Yasir Ali Chowdhury,Fazalhaq Farooqi,Mahedi Hasan,,0,4,4,,,,31930231930
+1,Bangladesh,19,Mahedi Hasan,Azmatullah Omarzai,Yasir Ali Chowdhury,legbyes,4,4,0,,,,31930231930
+1,Bangladesh,19,Mahedi Hasan,Azmatullah Omarzai,Yasir Ali Chowdhury,,0,1,1,run out,Yasir Ali Chowdhury,Rashid Khan,31930231930
+1,Bangladesh,19,Nasum Ahmed,Azmatullah Omarzai,Mahedi Hasan,,0,2,2,,,,31930231930
+1,Bangladesh,19,Nasum Ahmed,Azmatullah Omarzai,Mahedi Hasan,,0,1,1,,,,31930231930
+1,Bangladesh,19,Mahedi Hasan,Azmatullah Omarzai,Nasum Ahmed,,0,1,1,run out,Mahedi Hasan,Rashid Khan,31930231930
+1,Bangladesh,19,Shoriful Islam,Azmatullah Omarzai,Nasum Ahmed,,0,4,4,,,,31930231930

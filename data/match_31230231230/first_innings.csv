@@ -1,0 +1,129 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,China,0,Sun Meng Yao,M Wai Siu,Zhang Mei,,0,1,1,,,,31230231230
+1,China,0,Zhang Mei,M Wai Siu,Sun Meng Yao,,0,0,0,,,,31230231230
+1,China,0,Zhang Mei,M Wai Siu,Sun Meng Yao,,0,0,0,,,,31230231230
+1,China,0,Zhang Mei,M Wai Siu,Sun Meng Yao,,0,0,0,,,,31230231230
+1,China,0,Zhang Mei,M Wai Siu,Sun Meng Yao,,0,0,0,,,,31230231230
+1,China,0,Zhang Mei,M Wai Siu,Sun Meng Yao,,0,4,4,,,,31230231230
+1,China,1,Sun Meng Yao,Chan Ka Man,Zhang Mei,,0,0,0,,,,31230231230
+1,China,1,Sun Meng Yao,Chan Ka Man,Zhang Mei,,0,0,0,,,,31230231230
+1,China,1,Sun Meng Yao,Chan Ka Man,Zhang Mei,,0,0,0,,,,31230231230
+1,China,1,Sun Meng Yao,Chan Ka Man,Zhang Mei,wides,1,1,0,,,,31230231230
+1,China,1,Sun Meng Yao,Chan Ka Man,Zhang Mei,,0,0,0,,,,31230231230
+1,China,1,Sun Meng Yao,Chan Ka Man,Zhang Mei,,0,0,0,,,,31230231230
+1,China,1,Sun Meng Yao,Chan Ka Man,Zhang Mei,,0,0,0,,,,31230231230
+1,China,2,Zhang Mei,M Wai Siu,Sun Meng Yao,,0,4,4,,,,31230231230
+1,China,2,Zhang Mei,M Wai Siu,Sun Meng Yao,,0,1,1,,,,31230231230
+1,China,2,Sun Meng Yao,M Wai Siu,Zhang Mei,,0,4,4,,,,31230231230
+1,China,2,Sun Meng Yao,M Wai Siu,Zhang Mei,,0,0,0,,,,31230231230
+1,China,2,Sun Meng Yao,M Wai Siu,Zhang Mei,,0,0,0,,,,31230231230
+1,China,2,Sun Meng Yao,M Wai Siu,Zhang Mei,,0,2,2,,,,31230231230
+1,China,3,Zhang Mei,Chan Ka Man,Sun Meng Yao,,0,0,0,,,,31230231230
+1,China,3,Zhang Mei,Chan Ka Man,Sun Meng Yao,,0,0,0,,,,31230231230
+1,China,3,Zhang Mei,Chan Ka Man,Sun Meng Yao,,0,1,1,,,,31230231230
+1,China,3,Sun Meng Yao,Chan Ka Man,Zhang Mei,,0,0,0,,,,31230231230
+1,China,3,Sun Meng Yao,Chan Ka Man,Zhang Mei,,0,0,0,,,,31230231230
+1,China,3,Sun Meng Yao,Chan Ka Man,Zhang Mei,,0,1,1,,,,31230231230
+1,China,4,Sun Meng Yao,KY Chan,Zhang Mei,,0,1,1,,,,31230231230
+1,China,4,Zhang Mei,KY Chan,Sun Meng Yao,,0,0,0,,,,31230231230
+1,China,4,Zhang Mei,KY Chan,Sun Meng Yao,,0,0,0,,,,31230231230
+1,China,4,Zhang Mei,KY Chan,Sun Meng Yao,,0,0,0,,,,31230231230
+1,China,4,Zhang Mei,KY Chan,Sun Meng Yao,,0,0,0,,,,31230231230
+1,China,4,Zhang Mei,KY Chan,Sun Meng Yao,,0,2,2,,,,31230231230
+1,China,5,Sun Meng Yao,M Yousaf,Zhang Mei,wides,1,1,0,,,,31230231230
+1,China,5,Sun Meng Yao,M Yousaf,Zhang Mei,,0,0,0,,,,31230231230
+1,China,5,Sun Meng Yao,M Yousaf,Zhang Mei,,0,1,1,,,,31230231230
+1,China,5,Zhang Mei,M Yousaf,Sun Meng Yao,,0,0,0,,,,31230231230
+1,China,5,Zhang Mei,M Yousaf,Sun Meng Yao,,0,0,0,,,,31230231230
+1,China,5,Zhang Mei,M Yousaf,Sun Meng Yao,,0,0,0,,,,31230231230
+1,China,5,Zhang Mei,M Yousaf,Sun Meng Yao,,0,0,0,,,,31230231230
+1,China,6,Sun Meng Yao,KY Chan,Zhang Mei,,0,0,0,,,,31230231230
+1,China,6,Sun Meng Yao,KY Chan,Zhang Mei,,0,0,0,,,,31230231230
+1,China,6,Sun Meng Yao,KY Chan,Zhang Mei,,0,4,4,,,,31230231230
+1,China,6,Sun Meng Yao,KY Chan,Zhang Mei,,0,0,0,,,,31230231230
+1,China,6,Sun Meng Yao,KY Chan,Zhang Mei,,0,0,0,run out,Zhang Mei,,31230231230
+1,China,6,C Zhou,KY Chan,Sun Meng Yao,,0,0,0,,,,31230231230
+1,China,7,Sun Meng Yao,M Yousaf,C Zhou,,0,0,0,,,,31230231230
+1,China,7,Sun Meng Yao,M Yousaf,C Zhou,,0,0,0,,,,31230231230
+1,China,7,Sun Meng Yao,M Yousaf,C Zhou,,0,4,4,,,,31230231230
+1,China,7,Sun Meng Yao,M Yousaf,C Zhou,,0,1,1,,,,31230231230
+1,China,7,C Zhou,M Yousaf,Sun Meng Yao,,0,0,0,,,,31230231230
+1,China,7,C Zhou,M Yousaf,Sun Meng Yao,,0,0,0,,,,31230231230
+1,China,8,Sun Meng Yao,YS To,C Zhou,wides,1,1,0,,,,31230231230
+1,China,8,Sun Meng Yao,YS To,C Zhou,,0,2,2,,,,31230231230
+1,China,8,Sun Meng Yao,YS To,C Zhou,,0,0,0,,,,31230231230
+1,China,8,Sun Meng Yao,YS To,C Zhou,,0,0,0,,,,31230231230
+1,China,8,Sun Meng Yao,YS To,C Zhou,,0,1,1,,,,31230231230
+1,China,8,C Zhou,YS To,Sun Meng Yao,,0,2,2,,,,31230231230
+1,China,8,C Zhou,YS To,Sun Meng Yao,,0,0,0,,,,31230231230
+1,China,9,Sun Meng Yao,M Yousaf,C Zhou,,0,1,1,,,,31230231230
+1,China,9,C Zhou,M Yousaf,Sun Meng Yao,,0,0,0,,,,31230231230
+1,China,9,C Zhou,M Yousaf,Sun Meng Yao,,0,1,1,,,,31230231230
+1,China,9,Sun Meng Yao,M Yousaf,C Zhou,,0,0,0,,,,31230231230
+1,China,9,Sun Meng Yao,M Yousaf,C Zhou,,0,0,0,,,,31230231230
+1,China,9,Sun Meng Yao,M Yousaf,C Zhou,,0,0,0,,,,31230231230
+1,China,10,C Zhou,YS To,Sun Meng Yao,,0,1,1,,,,31230231230
+1,China,10,Sun Meng Yao,YS To,C Zhou,,0,0,0,,,,31230231230
+1,China,10,Sun Meng Yao,YS To,C Zhou,wides,1,1,0,,,,31230231230
+1,China,10,Sun Meng Yao,YS To,C Zhou,,0,1,1,,,,31230231230
+1,China,10,C Zhou,YS To,Sun Meng Yao,,0,0,0,,,,31230231230
+1,China,10,C Zhou,YS To,Sun Meng Yao,,0,1,1,,,,31230231230
+1,China,10,Sun Meng Yao,YS To,C Zhou,,0,1,1,,,,31230231230
+1,China,11,Sun Meng Yao,M Yousaf,C Zhou,,0,1,1,,,,31230231230
+1,China,11,C Zhou,M Yousaf,Sun Meng Yao,wides,2,2,0,,,,31230231230
+1,China,11,Sun Meng Yao,M Yousaf,C Zhou,,0,1,1,,,,31230231230
+1,China,11,C Zhou,M Yousaf,Sun Meng Yao,,0,0,0,,,,31230231230
+1,China,11,C Zhou,M Yousaf,Sun Meng Yao,,0,2,2,,,,31230231230
+1,China,11,C Zhou,M Yousaf,Sun Meng Yao,,0,0,0,,,,31230231230
+1,China,11,C Zhou,M Yousaf,Sun Meng Yao,,0,0,0,,,,31230231230
+1,China,12,Sun Meng Yao,KY Chan,C Zhou,,0,1,1,,,,31230231230
+1,China,12,C Zhou,KY Chan,Sun Meng Yao,,0,1,1,,,,31230231230
+1,China,12,Sun Meng Yao,KY Chan,C Zhou,,0,4,4,,,,31230231230
+1,China,12,Sun Meng Yao,KY Chan,C Zhou,,0,1,1,,,,31230231230
+1,China,12,C Zhou,KY Chan,Sun Meng Yao,,0,0,0,,,,31230231230
+1,China,12,C Zhou,KY Chan,Sun Meng Yao,,0,4,4,,,,31230231230
+1,China,13,Sun Meng Yao,Ruchitha Venkatesh,C Zhou,wides,2,2,0,,,,31230231230
+1,China,13,C Zhou,Ruchitha Venkatesh,Sun Meng Yao,,0,1,1,,,,31230231230
+1,China,13,Sun Meng Yao,Ruchitha Venkatesh,C Zhou,,0,1,1,,,,31230231230
+1,China,13,C Zhou,Ruchitha Venkatesh,Sun Meng Yao,,0,0,0,,,,31230231230
+1,China,13,C Zhou,Ruchitha Venkatesh,Sun Meng Yao,,0,4,4,,,,31230231230
+1,China,13,C Zhou,Ruchitha Venkatesh,Sun Meng Yao,,0,1,1,,,,31230231230
+1,China,13,Sun Meng Yao,Ruchitha Venkatesh,C Zhou,,0,1,1,,,,31230231230
+1,China,14,Sun Meng Yao,YS To,C Zhou,,0,1,1,,,,31230231230
+1,China,14,C Zhou,YS To,Sun Meng Yao,,0,0,0,,,,31230231230
+1,China,14,C Zhou,YS To,Sun Meng Yao,,0,0,0,caught,C Zhou,KY Chan,31230231230
+1,China,14,Huang Zhuo,YS To,Sun Meng Yao,,0,0,0,,,,31230231230
+1,China,14,Huang Zhuo,YS To,Sun Meng Yao,,0,1,1,,,,31230231230
+1,China,14,Sun Meng Yao,YS To,Huang Zhuo,wides,1,1,0,,,,31230231230
+1,China,14,Sun Meng Yao,YS To,Huang Zhuo,,0,2,2,,,,31230231230
+1,China,15,Huang Zhuo,Ruchitha Venkatesh,Sun Meng Yao,,0,4,4,,,,31230231230
+1,China,15,Huang Zhuo,Ruchitha Venkatesh,Sun Meng Yao,,0,0,0,,,,31230231230
+1,China,15,Huang Zhuo,Ruchitha Venkatesh,Sun Meng Yao,,0,0,0,,,,31230231230
+1,China,15,Huang Zhuo,Ruchitha Venkatesh,Sun Meng Yao,,0,1,1,,,,31230231230
+1,China,15,Sun Meng Yao,Ruchitha Venkatesh,Huang Zhuo,,0,1,1,,,,31230231230
+1,China,15,Huang Zhuo,Ruchitha Venkatesh,Sun Meng Yao,,0,0,0,,,,31230231230
+1,China,16,Sun Meng Yao,Chan Ka Man,Huang Zhuo,wides,3,3,0,,,,31230231230
+1,China,16,Sun Meng Yao,Chan Ka Man,Huang Zhuo,,0,1,1,,,,31230231230
+1,China,16,Huang Zhuo,Chan Ka Man,Sun Meng Yao,,0,0,0,,,,31230231230
+1,China,16,Huang Zhuo,Chan Ka Man,Sun Meng Yao,,0,1,1,,,,31230231230
+1,China,16,Sun Meng Yao,Chan Ka Man,Huang Zhuo,,0,1,1,,,,31230231230
+1,China,16,Huang Zhuo,Chan Ka Man,Sun Meng Yao,,0,0,0,,,,31230231230
+1,China,16,Huang Zhuo,Chan Ka Man,Sun Meng Yao,,0,0,0,,,,31230231230
+1,China,17,Sun Meng Yao,YS To,Huang Zhuo,,0,2,2,,,,31230231230
+1,China,17,Sun Meng Yao,YS To,Huang Zhuo,,0,1,1,,,,31230231230
+1,China,17,Huang Zhuo,YS To,Sun Meng Yao,,0,1,1,,,,31230231230
+1,China,17,Sun Meng Yao,YS To,Huang Zhuo,,0,0,0,,,,31230231230
+1,China,17,Sun Meng Yao,YS To,Huang Zhuo,,0,1,1,,,,31230231230
+1,China,17,Huang Zhuo,YS To,Sun Meng Yao,,0,0,0,,,,31230231230
+1,China,18,Sun Meng Yao,KY Chan,Huang Zhuo,,0,1,1,,,,31230231230
+1,China,18,Huang Zhuo,KY Chan,Sun Meng Yao,,0,1,1,,,,31230231230
+1,China,18,Sun Meng Yao,KY Chan,Huang Zhuo,,0,1,1,,,,31230231230
+1,China,18,Huang Zhuo,KY Chan,Sun Meng Yao,,0,1,1,,,,31230231230
+1,China,18,Sun Meng Yao,KY Chan,Huang Zhuo,,0,0,0,,,,31230231230
+1,China,18,Sun Meng Yao,KY Chan,Huang Zhuo,,0,0,0,,,,31230231230
+1,China,19,Huang Zhuo,Chan Ka Man,Sun Meng Yao,,0,1,1,,,,31230231230
+1,China,19,Sun Meng Yao,Chan Ka Man,Huang Zhuo,,0,1,1,,,,31230231230
+1,China,19,Huang Zhuo,Chan Ka Man,Sun Meng Yao,,0,0,0,bowled,Huang Zhuo,,31230231230
+1,China,19,F Song,Chan Ka Man,Sun Meng Yao,,0,0,0,caught,F Song,M Hill,31230231230
+1,China,19,Sun Meng Yao,Chan Ka Man,Zhang Chan,,0,1,1,,,,31230231230
+1,China,19,Zhang Chan,Chan Ka Man,Sun Meng Yao,,0,2,2,,,,31230231230

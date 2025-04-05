@@ -1,0 +1,132 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Bulgaria,0,H Lakov,V Zimonjic,IA De Silva,,0,1,1,,,,32216232216
+1,Bulgaria,0,IA De Silva,V Zimonjic,H Lakov,,0,0,0,,,,32216232216
+1,Bulgaria,0,IA De Silva,V Zimonjic,H Lakov,,0,0,0,,,,32216232216
+1,Bulgaria,0,IA De Silva,V Zimonjic,H Lakov,,0,0,0,,,,32216232216
+1,Bulgaria,0,IA De Silva,V Zimonjic,H Lakov,,0,2,2,,,,32216232216
+1,Bulgaria,0,IA De Silva,V Zimonjic,H Lakov,,0,0,0,,,,32216232216
+1,Bulgaria,1,H Lakov,A Mene-Ejegi,IA De Silva,wides,1,1,0,,,,32216232216
+1,Bulgaria,1,H Lakov,A Mene-Ejegi,IA De Silva,,0,2,2,,,,32216232216
+1,Bulgaria,1,H Lakov,A Mene-Ejegi,IA De Silva,wides,1,1,0,,,,32216232216
+1,Bulgaria,1,H Lakov,A Mene-Ejegi,IA De Silva,,0,0,0,,,,32216232216
+1,Bulgaria,1,H Lakov,A Mene-Ejegi,IA De Silva,,0,0,0,,,,32216232216
+1,Bulgaria,1,H Lakov,A Mene-Ejegi,IA De Silva,,0,0,0,,,,32216232216
+1,Bulgaria,1,H Lakov,A Mene-Ejegi,IA De Silva,,0,0,0,,,,32216232216
+1,Bulgaria,1,H Lakov,A Mene-Ejegi,IA De Silva,wides,1,1,0,,,,32216232216
+1,Bulgaria,1,H Lakov,A Mene-Ejegi,IA De Silva,,0,0,0,,,,32216232216
+1,Bulgaria,2,IA De Silva,V Zimonjic,H Lakov,,0,4,4,,,,32216232216
+1,Bulgaria,2,IA De Silva,V Zimonjic,H Lakov,,0,0,0,,,,32216232216
+1,Bulgaria,2,IA De Silva,V Zimonjic,H Lakov,,0,0,0,,,,32216232216
+1,Bulgaria,2,IA De Silva,V Zimonjic,H Lakov,,0,1,1,,,,32216232216
+1,Bulgaria,2,H Lakov,V Zimonjic,IA De Silva,,0,0,0,,,,32216232216
+1,Bulgaria,2,H Lakov,V Zimonjic,IA De Silva,,0,2,2,,,,32216232216
+1,Bulgaria,3,IA De Silva,A Mene-Ejegi,H Lakov,,0,1,1,,,,32216232216
+1,Bulgaria,3,H Lakov,A Mene-Ejegi,IA De Silva,,0,1,1,,,,32216232216
+1,Bulgaria,3,IA De Silva,A Mene-Ejegi,H Lakov,,0,0,0,,,,32216232216
+1,Bulgaria,3,IA De Silva,A Mene-Ejegi,H Lakov,,0,0,0,caught,IA De Silva,A Djorovic,32216232216
+1,Bulgaria,3,M Kadyan,A Mene-Ejegi,H Lakov,,0,0,0,bowled,M Kadyan,,32216232216
+1,Bulgaria,3,KC D'Souza,A Mene-Ejegi,H Lakov,,0,1,1,,,,32216232216
+1,Bulgaria,4,KC D'Souza,V Zimonjic,H Lakov,,0,1,1,,,,32216232216
+1,Bulgaria,4,H Lakov,V Zimonjic,KC D'Souza,,0,0,0,,,,32216232216
+1,Bulgaria,4,H Lakov,V Zimonjic,KC D'Souza,,0,1,1,,,,32216232216
+1,Bulgaria,4,KC D'Souza,V Zimonjic,H Lakov,,0,0,0,,,,32216232216
+1,Bulgaria,4,KC D'Souza,V Zimonjic,H Lakov,,0,1,1,,,,32216232216
+1,Bulgaria,4,H Lakov,V Zimonjic,KC D'Souza,,0,0,0,,,,32216232216
+1,Bulgaria,5,KC D'Souza,A Mene-Ejegi,H Lakov,legbyes,1,1,0,,,,32216232216
+1,Bulgaria,5,H Lakov,A Mene-Ejegi,KC D'Souza,,0,4,4,,,,32216232216
+1,Bulgaria,5,H Lakov,A Mene-Ejegi,KC D'Souza,,0,1,1,,,,32216232216
+1,Bulgaria,5,KC D'Souza,A Mene-Ejegi,H Lakov,wides,1,1,0,,,,32216232216
+1,Bulgaria,5,KC D'Souza,A Mene-Ejegi,H Lakov,,0,1,1,,,,32216232216
+1,Bulgaria,5,H Lakov,A Mene-Ejegi,KC D'Souza,,0,1,1,,,,32216232216
+1,Bulgaria,5,KC D'Souza,A Mene-Ejegi,H Lakov,,0,4,4,,,,32216232216
+1,Bulgaria,6,H Lakov,MV Pavlovic,KC D'Souza,,0,0,0,,,,32216232216
+1,Bulgaria,6,H Lakov,MV Pavlovic,KC D'Souza,,0,0,0,,,,32216232216
+1,Bulgaria,6,H Lakov,MV Pavlovic,KC D'Souza,,0,1,1,,,,32216232216
+1,Bulgaria,6,KC D'Souza,MV Pavlovic,H Lakov,,0,0,0,,,,32216232216
+1,Bulgaria,6,KC D'Souza,MV Pavlovic,H Lakov,,0,1,1,,,,32216232216
+1,Bulgaria,6,H Lakov,MV Pavlovic,KC D'Souza,,0,1,1,,,,32216232216
+1,Bulgaria,7,H Lakov,AA Gajic,KC D'Souza,,0,1,1,,,,32216232216
+1,Bulgaria,7,KC D'Souza,AA Gajic,H Lakov,,0,0,0,,,,32216232216
+1,Bulgaria,7,KC D'Souza,AA Gajic,H Lakov,,0,0,0,bowled,KC D'Souza,,32216232216
+1,Bulgaria,7,Omar Rassol,AA Gajic,H Lakov,,0,0,0,bowled,Omar Rassol,,32216232216
+1,Bulgaria,7,P Mishra,AA Gajic,H Lakov,,0,0,0,,,,32216232216
+1,Bulgaria,7,P Mishra,AA Gajic,H Lakov,,0,1,1,,,,32216232216
+1,Bulgaria,8,P Mishra,MV Pavlovic,H Lakov,,0,0,0,,,,32216232216
+1,Bulgaria,8,P Mishra,MV Pavlovic,H Lakov,,0,0,0,,,,32216232216
+1,Bulgaria,8,P Mishra,MV Pavlovic,H Lakov,,0,1,1,,,,32216232216
+1,Bulgaria,8,H Lakov,MV Pavlovic,P Mishra,,0,1,1,,,,32216232216
+1,Bulgaria,8,P Mishra,MV Pavlovic,H Lakov,wides,1,1,0,,,,32216232216
+1,Bulgaria,8,P Mishra,MV Pavlovic,H Lakov,,0,1,1,,,,32216232216
+1,Bulgaria,8,H Lakov,MV Pavlovic,P Mishra,,0,6,6,,,,32216232216
+1,Bulgaria,9,P Mishra,AA Gajic,H Lakov,,0,6,6,,,,32216232216
+1,Bulgaria,9,P Mishra,AA Gajic,H Lakov,,0,6,6,,,,32216232216
+1,Bulgaria,9,P Mishra,AA Gajic,H Lakov,wides,1,1,0,,,,32216232216
+1,Bulgaria,9,P Mishra,AA Gajic,H Lakov,,0,0,0,,,,32216232216
+1,Bulgaria,9,P Mishra,AA Gajic,H Lakov,,0,6,6,,,,32216232216
+1,Bulgaria,9,P Mishra,AA Gajic,H Lakov,,0,0,0,,,,32216232216
+1,Bulgaria,9,P Mishra,AA Gajic,H Lakov,,0,1,1,,,,32216232216
+1,Bulgaria,10,P Mishra,NR Johns-Wickberg,H Lakov,wides,1,1,0,,,,32216232216
+1,Bulgaria,10,P Mishra,NR Johns-Wickberg,H Lakov,,0,0,0,,,,32216232216
+1,Bulgaria,10,P Mishra,NR Johns-Wickberg,H Lakov,,0,0,0,,,,32216232216
+1,Bulgaria,10,P Mishra,NR Johns-Wickberg,H Lakov,,0,1,1,,,,32216232216
+1,Bulgaria,10,H Lakov,NR Johns-Wickberg,P Mishra,,0,1,1,,,,32216232216
+1,Bulgaria,10,P Mishra,NR Johns-Wickberg,H Lakov,,0,0,0,,,,32216232216
+1,Bulgaria,10,P Mishra,NR Johns-Wickberg,H Lakov,,0,1,1,,,,32216232216
+1,Bulgaria,11,P Mishra,A Djorovic,H Lakov,,0,0,0,,,,32216232216
+1,Bulgaria,11,P Mishra,A Djorovic,H Lakov,,0,6,6,,,,32216232216
+1,Bulgaria,11,P Mishra,A Djorovic,H Lakov,,0,1,1,,,,32216232216
+1,Bulgaria,11,H Lakov,A Djorovic,P Mishra,,0,1,1,,,,32216232216
+1,Bulgaria,11,P Mishra,A Djorovic,H Lakov,,0,1,1,,,,32216232216
+1,Bulgaria,11,H Lakov,A Djorovic,P Mishra,,0,1,1,,,,32216232216
+1,Bulgaria,12,H Lakov,NR Johns-Wickberg,P Mishra,,0,0,0,,,,32216232216
+1,Bulgaria,12,H Lakov,NR Johns-Wickberg,P Mishra,,0,1,1,,,,32216232216
+1,Bulgaria,12,P Mishra,NR Johns-Wickberg,H Lakov,legbyes,1,1,0,,,,32216232216
+1,Bulgaria,12,H Lakov,NR Johns-Wickberg,P Mishra,,0,0,0,,,,32216232216
+1,Bulgaria,12,H Lakov,NR Johns-Wickberg,P Mishra,,0,2,2,,,,32216232216
+1,Bulgaria,12,H Lakov,NR Johns-Wickberg,P Mishra,,0,4,4,,,,32216232216
+1,Bulgaria,13,P Mishra,A Djorovic,H Lakov,,0,6,6,,,,32216232216
+1,Bulgaria,13,P Mishra,A Djorovic,H Lakov,,0,1,1,,,,32216232216
+1,Bulgaria,13,H Lakov,A Djorovic,P Mishra,,0,1,1,,,,32216232216
+1,Bulgaria,13,P Mishra,A Djorovic,H Lakov,wides,1,1,0,,,,32216232216
+1,Bulgaria,13,P Mishra,A Djorovic,H Lakov,,0,6,6,,,,32216232216
+1,Bulgaria,13,P Mishra,A Djorovic,H Lakov,,0,1,1,,,,32216232216
+1,Bulgaria,13,H Lakov,A Djorovic,P Mishra,,0,0,0,,,,32216232216
+1,Bulgaria,14,P Mishra,NR Johns-Wickberg,H Lakov,,0,1,1,,,,32216232216
+1,Bulgaria,14,H Lakov,NR Johns-Wickberg,P Mishra,wides,1,1,0,,,,32216232216
+1,Bulgaria,14,H Lakov,NR Johns-Wickberg,P Mishra,,0,1,1,,,,32216232216
+1,Bulgaria,14,P Mishra,NR Johns-Wickberg,H Lakov,,0,6,6,,,,32216232216
+1,Bulgaria,14,P Mishra,NR Johns-Wickberg,H Lakov,,0,1,1,,,,32216232216
+1,Bulgaria,14,H Lakov,NR Johns-Wickberg,P Mishra,,0,0,0,,,,32216232216
+1,Bulgaria,14,H Lakov,NR Johns-Wickberg,P Mishra,,0,1,1,,,,32216232216
+1,Bulgaria,15,H Lakov,A Mene-Ejegi,P Mishra,noballs,1,2,1,,,,32216232216
+1,Bulgaria,15,P Mishra,A Mene-Ejegi,H Lakov,,0,0,0,,,,32216232216
+1,Bulgaria,15,P Mishra,A Mene-Ejegi,H Lakov,,0,1,1,,,,32216232216
+1,Bulgaria,15,H Lakov,A Mene-Ejegi,P Mishra,,0,2,2,,,,32216232216
+1,Bulgaria,15,H Lakov,A Mene-Ejegi,P Mishra,,0,4,4,,,,32216232216
+1,Bulgaria,15,H Lakov,A Mene-Ejegi,P Mishra,,0,1,1,,,,32216232216
+1,Bulgaria,15,P Mishra,A Mene-Ejegi,H Lakov,,0,0,0,bowled,P Mishra,,32216232216
+1,Bulgaria,16,H Lakov,MV Pavlovic,Fayaz Mohammad,,0,1,1,,,,32216232216
+1,Bulgaria,16,Fayaz Mohammad,MV Pavlovic,H Lakov,,0,2,2,,,,32216232216
+1,Bulgaria,16,Fayaz Mohammad,MV Pavlovic,H Lakov,,0,1,1,,,,32216232216
+1,Bulgaria,16,H Lakov,MV Pavlovic,Fayaz Mohammad,,0,1,1,,,,32216232216
+1,Bulgaria,16,Fayaz Mohammad,MV Pavlovic,H Lakov,,0,1,1,,,,32216232216
+1,Bulgaria,16,H Lakov,MV Pavlovic,Fayaz Mohammad,,0,1,1,,,,32216232216
+1,Bulgaria,17,H Lakov,AA Gajic,Fayaz Mohammad,,0,1,1,,,,32216232216
+1,Bulgaria,17,Fayaz Mohammad,AA Gajic,H Lakov,,0,0,0,caught,Fayaz Mohammad,A Mene-Ejegi,32216232216
+1,Bulgaria,17,Tarun Yadav,AA Gajic,H Lakov,,0,1,1,,,,32216232216
+1,Bulgaria,17,H Lakov,AA Gajic,Tarun Yadav,,0,0,0,run out,H Lakov,A Mene-Ejegi,32216232216
+1,Bulgaria,17,Tarun Yadav,AA Gajic,DV Varghese,,0,1,1,,,,32216232216
+1,Bulgaria,17,DV Varghese,AA Gajic,Tarun Yadav,,0,1,1,,,,32216232216
+1,Bulgaria,18,DV Varghese,MV Pavlovic,Tarun Yadav,wides,2,2,0,,,,32216232216
+1,Bulgaria,18,Tarun Yadav,MV Pavlovic,DV Varghese,,0,6,6,,,,32216232216
+1,Bulgaria,18,Tarun Yadav,MV Pavlovic,DV Varghese,,0,0,0,,,,32216232216
+1,Bulgaria,18,Tarun Yadav,MV Pavlovic,DV Varghese,,0,0,0,caught,Tarun Yadav,AA Gajic,32216232216
+1,Bulgaria,18,J Albin,MV Pavlovic,DV Varghese,,0,0,0,,,,32216232216
+1,Bulgaria,18,J Albin,MV Pavlovic,DV Varghese,legbyes,1,1,0,,,,32216232216
+1,Bulgaria,18,DV Varghese,MV Pavlovic,J Albin,,0,1,1,,,,32216232216
+1,Bulgaria,19,DV Varghese,V Zimonjic,J Albin,,0,1,1,,,,32216232216
+1,Bulgaria,19,J Albin,V Zimonjic,DV Varghese,,0,0,0,,,,32216232216
+1,Bulgaria,19,J Albin,V Zimonjic,DV Varghese,,0,1,1,,,,32216232216
+1,Bulgaria,19,DV Varghese,V Zimonjic,J Albin,,0,0,0,,,,32216232216
+1,Bulgaria,19,DV Varghese,V Zimonjic,J Albin,,0,0,0,caught,DV Varghese,A Mene-Ejegi,32216232216
+1,Bulgaria,19,I Katzarski,V Zimonjic,J Albin,,0,1,1,,,,32216232216

@@ -1,0 +1,111 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Australia,0,DA Warner,RAS Lakmal,GJ Maxwell,,0,2,2,,,,367523675
+2,Australia,0,DA Warner,RAS Lakmal,GJ Maxwell,,0,0,0,,,,367523675
+2,Australia,0,DA Warner,RAS Lakmal,GJ Maxwell,,0,0,0,,,,367523675
+2,Australia,0,DA Warner,RAS Lakmal,GJ Maxwell,,0,0,0,,,,367523675
+2,Australia,0,DA Warner,RAS Lakmal,GJ Maxwell,,0,0,0,,,,367523675
+2,Australia,0,DA Warner,RAS Lakmal,GJ Maxwell,,0,0,0,,,,367523675
+2,Australia,1,GJ Maxwell,SMSM Senanayake,DA Warner,,0,0,0,,,,367523675
+2,Australia,1,GJ Maxwell,SMSM Senanayake,DA Warner,,0,4,4,,,,367523675
+2,Australia,1,GJ Maxwell,SMSM Senanayake,DA Warner,,0,0,0,,,,367523675
+2,Australia,1,GJ Maxwell,SMSM Senanayake,DA Warner,,0,1,1,,,,367523675
+2,Australia,1,DA Warner,SMSM Senanayake,GJ Maxwell,,0,4,4,,,,367523675
+2,Australia,1,DA Warner,SMSM Senanayake,GJ Maxwell,legbyes,1,1,0,,,,367523675
+2,Australia,2,DA Warner,RAS Lakmal,GJ Maxwell,,0,4,4,,,,367523675
+2,Australia,2,DA Warner,RAS Lakmal,GJ Maxwell,,0,3,3,,,,367523675
+2,Australia,2,GJ Maxwell,RAS Lakmal,DA Warner,wides,1,1,0,,,,367523675
+2,Australia,2,GJ Maxwell,RAS Lakmal,DA Warner,,0,1,1,,,,367523675
+2,Australia,2,DA Warner,RAS Lakmal,GJ Maxwell,,0,0,0,,,,367523675
+2,Australia,2,DA Warner,RAS Lakmal,GJ Maxwell,,0,4,4,,,,367523675
+2,Australia,2,DA Warner,RAS Lakmal,GJ Maxwell,,0,0,0,,,,367523675
+2,Australia,3,GJ Maxwell,SS Pathirana,DA Warner,,0,0,0,,,,367523675
+2,Australia,3,GJ Maxwell,SS Pathirana,DA Warner,,0,6,6,,,,367523675
+2,Australia,3,GJ Maxwell,SS Pathirana,DA Warner,,0,0,0,,,,367523675
+2,Australia,3,GJ Maxwell,SS Pathirana,DA Warner,,0,4,4,,,,367523675
+2,Australia,3,GJ Maxwell,SS Pathirana,DA Warner,,0,1,1,,,,367523675
+2,Australia,3,DA Warner,SS Pathirana,GJ Maxwell,,0,0,0,,,,367523675
+2,Australia,4,GJ Maxwell,SMSM Senanayake,DA Warner,,0,4,4,,,,367523675
+2,Australia,4,GJ Maxwell,SMSM Senanayake,DA Warner,,0,6,6,,,,367523675
+2,Australia,4,GJ Maxwell,SMSM Senanayake,DA Warner,,0,1,1,,,,367523675
+2,Australia,4,DA Warner,SMSM Senanayake,GJ Maxwell,,0,1,1,,,,367523675
+2,Australia,4,GJ Maxwell,SMSM Senanayake,DA Warner,,0,2,2,,,,367523675
+2,Australia,4,GJ Maxwell,SMSM Senanayake,DA Warner,,0,6,6,,,,367523675
+2,Australia,5,DA Warner,NLTC Perera,GJ Maxwell,,0,0,0,,,,367523675
+2,Australia,5,DA Warner,NLTC Perera,GJ Maxwell,,0,1,1,,,,367523675
+2,Australia,5,GJ Maxwell,NLTC Perera,DA Warner,,0,6,6,,,,367523675
+2,Australia,5,GJ Maxwell,NLTC Perera,DA Warner,,0,4,4,,,,367523675
+2,Australia,5,GJ Maxwell,NLTC Perera,DA Warner,,0,4,4,,,,367523675
+2,Australia,5,GJ Maxwell,NLTC Perera,DA Warner,,0,4,4,,,,367523675
+2,Australia,6,DA Warner,S Prasanna,GJ Maxwell,,0,0,0,,,,367523675
+2,Australia,6,DA Warner,S Prasanna,GJ Maxwell,wides,2,2,0,,,,367523675
+2,Australia,6,GJ Maxwell,S Prasanna,DA Warner,,0,1,1,,,,367523675
+2,Australia,6,DA Warner,S Prasanna,GJ Maxwell,,0,1,1,,,,367523675
+2,Australia,6,GJ Maxwell,S Prasanna,DA Warner,,0,4,4,,,,367523675
+2,Australia,6,GJ Maxwell,S Prasanna,DA Warner,,0,0,0,,,,367523675
+2,Australia,6,GJ Maxwell,S Prasanna,DA Warner,,0,1,1,,,,367523675
+2,Australia,7,GJ Maxwell,DM de Silva,DA Warner,,0,1,1,,,,367523675
+2,Australia,7,DA Warner,DM de Silva,GJ Maxwell,,0,1,1,,,,367523675
+2,Australia,7,GJ Maxwell,DM de Silva,DA Warner,,0,2,2,,,,367523675
+2,Australia,7,GJ Maxwell,DM de Silva,DA Warner,,0,1,1,,,,367523675
+2,Australia,7,DA Warner,DM de Silva,GJ Maxwell,,0,1,1,,,,367523675
+2,Australia,7,GJ Maxwell,DM de Silva,DA Warner,,0,2,2,,,,367523675
+2,Australia,8,DA Warner,S Prasanna,GJ Maxwell,,0,1,1,,,,367523675
+2,Australia,8,GJ Maxwell,S Prasanna,DA Warner,,0,0,0,,,,367523675
+2,Australia,8,GJ Maxwell,S Prasanna,DA Warner,,0,0,0,bowled,GJ Maxwell,,367523675
+2,Australia,8,MC Henriques,S Prasanna,DA Warner,,0,0,0,,,,367523675
+2,Australia,8,MC Henriques,S Prasanna,DA Warner,,0,1,1,,,,367523675
+2,Australia,8,DA Warner,S Prasanna,MC Henriques,wides,1,1,0,,,,367523675
+2,Australia,8,DA Warner,S Prasanna,MC Henriques,,0,2,2,,,,367523675
+2,Australia,9,MC Henriques,SS Pathirana,DA Warner,,0,0,0,stumped,MC Henriques,MDKJ Perera,367523675
+2,Australia,9,JP Faulkner,SS Pathirana,DA Warner,,0,1,1,,,,367523675
+2,Australia,9,DA Warner,SS Pathirana,JP Faulkner,,0,0,0,caught,DA Warner,NLTC Perera,367523675
+2,Australia,9,MS Wade,SS Pathirana,JP Faulkner,,0,0,0,,,,367523675
+2,Australia,9,MS Wade,SS Pathirana,JP Faulkner,,0,1,1,,,,367523675
+2,Australia,9,JP Faulkner,SS Pathirana,MS Wade,,0,0,0,,,,367523675
+2,Australia,10,MS Wade,S Prasanna,JP Faulkner,,0,0,0,,,,367523675
+2,Australia,10,MS Wade,S Prasanna,JP Faulkner,,0,0,0,,,,367523675
+2,Australia,10,MS Wade,S Prasanna,JP Faulkner,,0,0,0,,,,367523675
+2,Australia,10,MS Wade,S Prasanna,JP Faulkner,,0,0,0,run out,JP Faulkner,MDKJ Perera,367523675
+2,Australia,10,UT Khawaja,S Prasanna,MS Wade,,0,0,0,,,,367523675
+2,Australia,10,UT Khawaja,S Prasanna,MS Wade,,0,0,0,,,,367523675
+2,Australia,11,MS Wade,SMSM Senanayake,UT Khawaja,,0,1,1,,,,367523675
+2,Australia,11,UT Khawaja,SMSM Senanayake,MS Wade,,0,1,1,,,,367523675
+2,Australia,11,MS Wade,SMSM Senanayake,UT Khawaja,,0,0,0,,,,367523675
+2,Australia,11,MS Wade,SMSM Senanayake,UT Khawaja,,0,0,0,,,,367523675
+2,Australia,11,MS Wade,SMSM Senanayake,UT Khawaja,,0,2,2,,,,367523675
+2,Australia,11,MS Wade,SMSM Senanayake,UT Khawaja,,0,0,0,,,,367523675
+2,Australia,12,UT Khawaja,S Prasanna,MS Wade,,0,0,0,,,,367523675
+2,Australia,12,UT Khawaja,S Prasanna,MS Wade,,0,0,0,,,,367523675
+2,Australia,12,UT Khawaja,S Prasanna,MS Wade,,0,0,0,,,,367523675
+2,Australia,12,UT Khawaja,S Prasanna,MS Wade,,0,0,0,,,,367523675
+2,Australia,12,UT Khawaja,S Prasanna,MS Wade,,0,1,1,,,,367523675
+2,Australia,12,MS Wade,S Prasanna,UT Khawaja,,0,1,1,,,,367523675
+2,Australia,13,MS Wade,DM de Silva,UT Khawaja,,0,0,0,,,,367523675
+2,Australia,13,MS Wade,DM de Silva,UT Khawaja,,0,1,1,,,,367523675
+2,Australia,13,UT Khawaja,DM de Silva,MS Wade,,0,1,1,,,,367523675
+2,Australia,13,MS Wade,DM de Silva,UT Khawaja,,0,1,1,,,,367523675
+2,Australia,13,UT Khawaja,DM de Silva,MS Wade,,0,0,0,,,,367523675
+2,Australia,13,UT Khawaja,DM de Silva,MS Wade,,0,1,1,,,,367523675
+2,Australia,14,UT Khawaja,TM Dilshan,MS Wade,,0,0,0,,,,367523675
+2,Australia,14,UT Khawaja,TM Dilshan,MS Wade,,0,1,1,,,,367523675
+2,Australia,14,MS Wade,TM Dilshan,UT Khawaja,,0,1,1,,,,367523675
+2,Australia,14,UT Khawaja,TM Dilshan,MS Wade,,0,1,1,,,,367523675
+2,Australia,14,MS Wade,TM Dilshan,UT Khawaja,,0,1,1,,,,367523675
+2,Australia,14,UT Khawaja,TM Dilshan,MS Wade,,0,0,0,lbw,UT Khawaja,,367523675
+2,Australia,15,MS Wade,SMSM Senanayake,TM Head,,0,1,1,,,,367523675
+2,Australia,15,TM Head,SMSM Senanayake,MS Wade,,0,1,1,,,,367523675
+2,Australia,15,MS Wade,SMSM Senanayake,TM Head,,0,1,1,,,,367523675
+2,Australia,15,TM Head,SMSM Senanayake,MS Wade,,0,0,0,,,,367523675
+2,Australia,15,TM Head,SMSM Senanayake,MS Wade,,0,0,0,,,,367523675
+2,Australia,15,TM Head,SMSM Senanayake,MS Wade,,0,0,0,,,,367523675
+2,Australia,16,MS Wade,TM Dilshan,TM Head,,0,0,0,,,,367523675
+2,Australia,16,MS Wade,TM Dilshan,TM Head,,0,3,3,,,,367523675
+2,Australia,16,TM Head,TM Dilshan,MS Wade,,0,0,0,,,,367523675
+2,Australia,16,TM Head,TM Dilshan,MS Wade,,0,1,1,,,,367523675
+2,Australia,16,MS Wade,TM Dilshan,TM Head,,0,0,0,,,,367523675
+2,Australia,16,MS Wade,TM Dilshan,TM Head,,0,0,0,caught,MS Wade,LD Chandimal,367523675
+2,Australia,17,TM Head,SS Pathirana,PM Nevill,,0,1,1,,,,367523675
+2,Australia,17,PM Nevill,SS Pathirana,TM Head,,0,3,3,,,,367523675
+2,Australia,17,TM Head,SS Pathirana,PM Nevill,,0,0,0,,,,367523675
+2,Australia,17,TM Head,SS Pathirana,PM Nevill,,0,0,0,,,,367523675
+2,Australia,17,TM Head,SS Pathirana,PM Nevill,,0,6,6,,,,367523675

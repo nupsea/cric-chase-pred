@@ -1,0 +1,115 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Ireland,0,PR Stirling,CN Ackermann,KJ O'Brien,,0,4,4,,,,31246231246
+2,Ireland,0,PR Stirling,CN Ackermann,KJ O'Brien,,0,2,2,,,,31246231246
+2,Ireland,0,PR Stirling,CN Ackermann,KJ O'Brien,,0,0,0,,,,31246231246
+2,Ireland,0,PR Stirling,CN Ackermann,KJ O'Brien,,0,1,1,,,,31246231246
+2,Ireland,0,KJ O'Brien,CN Ackermann,PR Stirling,,0,0,0,,,,31246231246
+2,Ireland,0,KJ O'Brien,CN Ackermann,PR Stirling,,0,0,0,,,,31246231246
+2,Ireland,1,PR Stirling,BD Glover,KJ O'Brien,,0,1,1,,,,31246231246
+2,Ireland,1,KJ O'Brien,BD Glover,PR Stirling,,0,0,0,,,,31246231246
+2,Ireland,1,KJ O'Brien,BD Glover,PR Stirling,,0,0,0,,,,31246231246
+2,Ireland,1,KJ O'Brien,BD Glover,PR Stirling,,0,4,4,,,,31246231246
+2,Ireland,1,KJ O'Brien,BD Glover,PR Stirling,,0,1,1,,,,31246231246
+2,Ireland,1,PR Stirling,BD Glover,KJ O'Brien,,0,1,1,,,,31246231246
+2,Ireland,2,PR Stirling,PA van Meekeren,KJ O'Brien,,0,4,4,,,,31246231246
+2,Ireland,2,PR Stirling,PA van Meekeren,KJ O'Brien,,0,1,1,,,,31246231246
+2,Ireland,2,KJ O'Brien,PA van Meekeren,PR Stirling,,0,0,0,,,,31246231246
+2,Ireland,2,KJ O'Brien,PA van Meekeren,PR Stirling,,0,1,1,,,,31246231246
+2,Ireland,2,PR Stirling,PA van Meekeren,KJ O'Brien,,0,0,0,,,,31246231246
+2,Ireland,2,PR Stirling,PA van Meekeren,KJ O'Brien,,0,0,0,,,,31246231246
+2,Ireland,3,KJ O'Brien,BD Glover,PR Stirling,wides,1,1,0,,,,31246231246
+2,Ireland,3,KJ O'Brien,BD Glover,PR Stirling,,0,6,6,,,,31246231246
+2,Ireland,3,KJ O'Brien,BD Glover,PR Stirling,,0,0,0,,,,31246231246
+2,Ireland,3,KJ O'Brien,BD Glover,PR Stirling,,0,6,6,,,,31246231246
+2,Ireland,3,KJ O'Brien,BD Glover,PR Stirling,,0,0,0,,,,31246231246
+2,Ireland,3,KJ O'Brien,BD Glover,PR Stirling,,0,1,1,,,,31246231246
+2,Ireland,3,PR Stirling,BD Glover,KJ O'Brien,,0,1,1,,,,31246231246
+2,Ireland,4,PR Stirling,PA van Meekeren,KJ O'Brien,,0,1,1,,,,31246231246
+2,Ireland,4,KJ O'Brien,PA van Meekeren,PR Stirling,,0,4,4,,,,31246231246
+2,Ireland,4,KJ O'Brien,PA van Meekeren,PR Stirling,,0,0,0,caught,KJ O'Brien,BN Cooper,31246231246
+2,Ireland,4,A Balbirnie,PA van Meekeren,PR Stirling,,0,0,0,,,,31246231246
+2,Ireland,4,A Balbirnie,PA van Meekeren,PR Stirling,,0,1,1,,,,31246231246
+2,Ireland,4,PR Stirling,PA van Meekeren,A Balbirnie,,0,0,0,,,,31246231246
+2,Ireland,5,A Balbirnie,S Snater,PR Stirling,,0,4,4,,,,31246231246
+2,Ireland,5,A Balbirnie,S Snater,PR Stirling,,0,0,0,,,,31246231246
+2,Ireland,5,A Balbirnie,S Snater,PR Stirling,,0,1,1,,,,31246231246
+2,Ireland,5,PR Stirling,S Snater,A Balbirnie,,0,4,4,,,,31246231246
+2,Ireland,5,PR Stirling,S Snater,A Balbirnie,,0,2,2,,,,31246231246
+2,Ireland,5,PR Stirling,S Snater,A Balbirnie,,0,0,0,,,,31246231246
+2,Ireland,6,A Balbirnie,PM Seelaar,PR Stirling,,0,1,1,,,,31246231246
+2,Ireland,6,PR Stirling,PM Seelaar,A Balbirnie,,0,0,0,,,,31246231246
+2,Ireland,6,PR Stirling,PM Seelaar,A Balbirnie,,0,1,1,,,,31246231246
+2,Ireland,6,A Balbirnie,PM Seelaar,PR Stirling,,0,4,4,,,,31246231246
+2,Ireland,6,A Balbirnie,PM Seelaar,PR Stirling,,0,1,1,,,,31246231246
+2,Ireland,6,PR Stirling,PM Seelaar,A Balbirnie,,0,0,0,caught,PR Stirling,RE van der Merwe,31246231246
+2,Ireland,7,A Balbirnie,RE van der Merwe,GJ Delany,,0,2,2,,,,31246231246
+2,Ireland,7,A Balbirnie,RE van der Merwe,GJ Delany,,0,0,0,,,,31246231246
+2,Ireland,7,A Balbirnie,RE van der Merwe,GJ Delany,,0,6,6,,,,31246231246
+2,Ireland,7,A Balbirnie,RE van der Merwe,GJ Delany,,0,2,2,,,,31246231246
+2,Ireland,7,A Balbirnie,RE van der Merwe,GJ Delany,,0,1,1,,,,31246231246
+2,Ireland,7,GJ Delany,RE van der Merwe,A Balbirnie,,0,0,0,,,,31246231246
+2,Ireland,8,A Balbirnie,PM Seelaar,GJ Delany,,0,1,1,,,,31246231246
+2,Ireland,8,GJ Delany,PM Seelaar,A Balbirnie,,0,1,1,,,,31246231246
+2,Ireland,8,A Balbirnie,PM Seelaar,GJ Delany,,0,1,1,,,,31246231246
+2,Ireland,8,GJ Delany,PM Seelaar,A Balbirnie,,0,1,1,,,,31246231246
+2,Ireland,8,A Balbirnie,PM Seelaar,GJ Delany,,0,4,4,,,,31246231246
+2,Ireland,8,A Balbirnie,PM Seelaar,GJ Delany,,0,1,1,,,,31246231246
+2,Ireland,9,A Balbirnie,S Snater,GJ Delany,,0,0,0,,,,31246231246
+2,Ireland,9,A Balbirnie,S Snater,GJ Delany,,0,2,2,,,,31246231246
+2,Ireland,9,A Balbirnie,S Snater,GJ Delany,,0,0,0,caught,A Balbirnie,MP O'Dowd,31246231246
+2,Ireland,9,GJ Delany,S Snater,HT Tector,,0,1,1,,,,31246231246
+2,Ireland,9,HT Tector,S Snater,GJ Delany,,0,1,1,,,,31246231246
+2,Ireland,9,GJ Delany,S Snater,HT Tector,,0,1,1,,,,31246231246
+2,Ireland,10,GJ Delany,RE van der Merwe,HT Tector,,0,4,4,,,,31246231246
+2,Ireland,10,GJ Delany,RE van der Merwe,HT Tector,,0,1,1,,,,31246231246
+2,Ireland,10,HT Tector,RE van der Merwe,GJ Delany,,0,1,1,,,,31246231246
+2,Ireland,10,GJ Delany,RE van der Merwe,HT Tector,,0,0,0,,,,31246231246
+2,Ireland,10,GJ Delany,RE van der Merwe,HT Tector,,0,1,1,,,,31246231246
+2,Ireland,10,HT Tector,RE van der Merwe,GJ Delany,,0,1,1,,,,31246231246
+2,Ireland,11,HT Tector,BD Glover,GJ Delany,,0,1,1,,,,31246231246
+2,Ireland,11,GJ Delany,BD Glover,HT Tector,,0,1,1,,,,31246231246
+2,Ireland,11,HT Tector,BD Glover,GJ Delany,,0,1,1,,,,31246231246
+2,Ireland,11,GJ Delany,BD Glover,HT Tector,,0,0,0,,,,31246231246
+2,Ireland,11,GJ Delany,BD Glover,HT Tector,,0,1,1,,,,31246231246
+2,Ireland,11,HT Tector,BD Glover,GJ Delany,,0,1,1,,,,31246231246
+2,Ireland,12,HT Tector,CN Ackermann,GJ Delany,,0,1,1,,,,31246231246
+2,Ireland,12,GJ Delany,CN Ackermann,HT Tector,,0,1,1,,,,31246231246
+2,Ireland,12,HT Tector,CN Ackermann,GJ Delany,,0,4,4,,,,31246231246
+2,Ireland,12,HT Tector,CN Ackermann,GJ Delany,,0,2,2,,,,31246231246
+2,Ireland,12,HT Tector,CN Ackermann,GJ Delany,,0,1,1,,,,31246231246
+2,Ireland,12,GJ Delany,CN Ackermann,HT Tector,,0,0,0,,,,31246231246
+2,Ireland,13,HT Tector,PA van Meekeren,GJ Delany,,0,0,0,,,,31246231246
+2,Ireland,13,HT Tector,PA van Meekeren,GJ Delany,,0,1,1,,,,31246231246
+2,Ireland,13,GJ Delany,PA van Meekeren,HT Tector,,0,2,2,,,,31246231246
+2,Ireland,13,GJ Delany,PA van Meekeren,HT Tector,,0,2,2,,,,31246231246
+2,Ireland,13,GJ Delany,PA van Meekeren,HT Tector,,0,0,0,,,,31246231246
+2,Ireland,13,GJ Delany,PA van Meekeren,HT Tector,,0,1,1,,,,31246231246
+2,Ireland,14,GJ Delany,PM Seelaar,HT Tector,,0,1,1,,,,31246231246
+2,Ireland,14,HT Tector,PM Seelaar,GJ Delany,,0,0,0,,,,31246231246
+2,Ireland,14,HT Tector,PM Seelaar,GJ Delany,wides,2,2,0,,,,31246231246
+2,Ireland,14,GJ Delany,PM Seelaar,HT Tector,,0,2,2,,,,31246231246
+2,Ireland,14,GJ Delany,PM Seelaar,HT Tector,,0,0,0,,,,31246231246
+2,Ireland,14,GJ Delany,PM Seelaar,HT Tector,,0,6,6,,,,31246231246
+2,Ireland,14,GJ Delany,PM Seelaar,HT Tector,,0,1,1,,,,31246231246
+2,Ireland,15,GJ Delany,S Snater,HT Tector,,0,1,1,,,,31246231246
+2,Ireland,15,HT Tector,S Snater,GJ Delany,,0,1,1,,,,31246231246
+2,Ireland,15,GJ Delany,S Snater,HT Tector,wides,1,1,0,,,,31246231246
+2,Ireland,15,GJ Delany,S Snater,HT Tector,,0,0,0,caught,GJ Delany,BD Glover,31246231246
+2,Ireland,15,HT Tector,S Snater,MR Adair,,0,0,0,,,,31246231246
+2,Ireland,15,HT Tector,S Snater,MR Adair,,0,1,1,,,,31246231246
+2,Ireland,15,MR Adair,S Snater,HT Tector,,0,1,1,,,,31246231246
+2,Ireland,16,MR Adair,RE van der Merwe,HT Tector,,0,1,1,,,,31246231246
+2,Ireland,16,HT Tector,RE van der Merwe,MR Adair,,0,1,1,,,,31246231246
+2,Ireland,16,MR Adair,RE van der Merwe,HT Tector,,0,1,1,,,,31246231246
+2,Ireland,16,HT Tector,RE van der Merwe,MR Adair,,0,2,2,,,,31246231246
+2,Ireland,16,HT Tector,RE van der Merwe,MR Adair,,0,4,4,,,,31246231246
+2,Ireland,16,HT Tector,RE van der Merwe,MR Adair,,0,4,4,,,,31246231246
+2,Ireland,17,MR Adair,BD Glover,HT Tector,,0,1,1,,,,31246231246
+2,Ireland,17,HT Tector,BD Glover,MR Adair,,0,6,6,,,,31246231246
+2,Ireland,17,HT Tector,BD Glover,MR Adair,,0,0,0,,,,31246231246
+2,Ireland,17,HT Tector,BD Glover,MR Adair,,0,4,4,,,,31246231246
+2,Ireland,17,HT Tector,BD Glover,MR Adair,wides,1,1,0,,,,31246231246
+2,Ireland,17,HT Tector,BD Glover,MR Adair,,0,1,1,,,,31246231246
+2,Ireland,17,MR Adair,BD Glover,HT Tector,,0,6,6,,,,31246231246
+2,Ireland,18,HT Tector,PA van Meekeren,MR Adair,,0,4,4,,,,31246231246
+2,Ireland,18,HT Tector,PA van Meekeren,MR Adair,,0,4,4,,,,31246231246

@@ -1,0 +1,116 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Estonia,0,Ali Masood,Vinay Ravi,Arslan Amjad,,0,1,1,,,,32146232146
+1,Estonia,0,Arslan Amjad,Vinay Ravi,Ali Masood,,0,0,0,,,,32146232146
+1,Estonia,0,Arslan Amjad,Vinay Ravi,Ali Masood,,0,1,1,,,,32146232146
+1,Estonia,0,Ali Masood,Vinay Ravi,Arslan Amjad,,0,2,2,,,,32146232146
+1,Estonia,0,Ali Masood,Vinay Ravi,Arslan Amjad,,0,4,4,,,,32146232146
+1,Estonia,0,Ali Masood,Vinay Ravi,Arslan Amjad,,0,0,0,,,,32146232146
+1,Estonia,1,Arslan Amjad,Ahmadullah Shinwari,Ali Masood,,0,0,0,,,,32146232146
+1,Estonia,1,Arslan Amjad,Ahmadullah Shinwari,Ali Masood,,0,4,4,,,,32146232146
+1,Estonia,1,Arslan Amjad,Ahmadullah Shinwari,Ali Masood,,0,0,0,,,,32146232146
+1,Estonia,1,Arslan Amjad,Ahmadullah Shinwari,Ali Masood,,0,0,0,,,,32146232146
+1,Estonia,1,Arslan Amjad,Ahmadullah Shinwari,Ali Masood,,0,1,1,,,,32146232146
+1,Estonia,1,Ali Masood,Ahmadullah Shinwari,Arslan Amjad,,0,1,1,,,,32146232146
+1,Estonia,2,Ali Masood,Vinay Ravi,Arslan Amjad,wides,1,1,0,,,,32146232146
+1,Estonia,2,Ali Masood,Vinay Ravi,Arslan Amjad,,0,0,0,run out,Arslan Amjad,Qamar Mushtaque,32146232146
+1,Estonia,2,Ali Masood,Vinay Ravi,Maidul Islam,,0,0,0,,,,32146232146
+1,Estonia,2,Ali Masood,Vinay Ravi,Maidul Islam,,0,2,2,,,,32146232146
+1,Estonia,2,Ali Masood,Vinay Ravi,Maidul Islam,,0,0,0,,,,32146232146
+1,Estonia,2,Ali Masood,Vinay Ravi,Maidul Islam,,0,0,0,,,,32146232146
+1,Estonia,2,Ali Masood,Vinay Ravi,Maidul Islam,,0,4,4,,,,32146232146
+1,Estonia,3,Maidul Islam,Ahmadullah Shinwari,Ali Masood,,0,0,0,,,,32146232146
+1,Estonia,3,Maidul Islam,Ahmadullah Shinwari,Ali Masood,,0,0,0,,,,32146232146
+1,Estonia,3,Maidul Islam,Ahmadullah Shinwari,Ali Masood,,0,1,1,,,,32146232146
+1,Estonia,3,Ali Masood,Ahmadullah Shinwari,Maidul Islam,,0,3,3,,,,32146232146
+1,Estonia,3,Maidul Islam,Ahmadullah Shinwari,Ali Masood,wides,5,5,0,,,,32146232146
+1,Estonia,3,Maidul Islam,Ahmadullah Shinwari,Ali Masood,wides,1,1,0,,,,32146232146
+1,Estonia,3,Maidul Islam,Ahmadullah Shinwari,Ali Masood,,0,0,0,,,,32146232146
+1,Estonia,3,Maidul Islam,Ahmadullah Shinwari,Ali Masood,,0,4,4,,,,32146232146
+1,Estonia,4,Ali Masood,Ansar Iqbal,Maidul Islam,legbyes,1,1,0,,,,32146232146
+1,Estonia,4,Maidul Islam,Ansar Iqbal,Ali Masood,,0,0,0,,,,32146232146
+1,Estonia,4,Maidul Islam,Ansar Iqbal,Ali Masood,,0,0,0,,,,32146232146
+1,Estonia,4,Maidul Islam,Ansar Iqbal,Ali Masood,,0,2,2,,,,32146232146
+1,Estonia,4,Maidul Islam,Ansar Iqbal,Ali Masood,,0,1,1,,,,32146232146
+1,Estonia,4,Ali Masood,Ansar Iqbal,Maidul Islam,,0,0,0,,,,32146232146
+1,Estonia,5,Maidul Islam,Qamar Mushtaque,Ali Masood,,0,1,1,,,,32146232146
+1,Estonia,5,Ali Masood,Qamar Mushtaque,Maidul Islam,,0,4,4,,,,32146232146
+1,Estonia,5,Ali Masood,Qamar Mushtaque,Maidul Islam,,0,1,1,,,,32146232146
+1,Estonia,5,Maidul Islam,Qamar Mushtaque,Ali Masood,,0,0,0,,,,32146232146
+1,Estonia,5,Maidul Islam,Qamar Mushtaque,Ali Masood,,0,0,0,caught,Maidul Islam,Usman Arif,32146232146
+1,Estonia,5,Ali Masood,Qamar Mushtaque,Habib Khan,,0,0,0,,,,32146232146
+1,Estonia,6,Habib Khan,Raza Iqbal,Ali Masood,,0,0,0,,,,32146232146
+1,Estonia,6,Habib Khan,Raza Iqbal,Ali Masood,,0,6,6,,,,32146232146
+1,Estonia,6,Habib Khan,Raza Iqbal,Ali Masood,,0,1,1,,,,32146232146
+1,Estonia,6,Ali Masood,Raza Iqbal,Habib Khan,,0,1,1,,,,32146232146
+1,Estonia,6,Habib Khan,Raza Iqbal,Ali Masood,,0,2,2,,,,32146232146
+1,Estonia,6,Habib Khan,Raza Iqbal,Ali Masood,,0,2,2,,,,32146232146
+1,Estonia,7,Ali Masood,Qamar Mushtaque,Habib Khan,,0,0,0,,,,32146232146
+1,Estonia,7,Ali Masood,Qamar Mushtaque,Habib Khan,,0,0,0,,,,32146232146
+1,Estonia,7,Ali Masood,Qamar Mushtaque,Habib Khan,,0,1,1,,,,32146232146
+1,Estonia,7,Habib Khan,Qamar Mushtaque,Ali Masood,,0,0,0,,,,32146232146
+1,Estonia,7,Habib Khan,Qamar Mushtaque,Ali Masood,,0,0,0,,,,32146232146
+1,Estonia,7,Habib Khan,Qamar Mushtaque,Ali Masood,,0,1,1,,,,32146232146
+1,Estonia,8,Habib Khan,Raza Iqbal,Ali Masood,,0,0,0,,,,32146232146
+1,Estonia,8,Habib Khan,Raza Iqbal,Ali Masood,,0,0,0,caught,Habib Khan,M Shahbaz Butt,32146232146
+1,Estonia,8,Ali Masood,Raza Iqbal,S Hook,,0,4,4,,,,32146232146
+1,Estonia,8,Ali Masood,Raza Iqbal,S Hook,,0,1,1,,,,32146232146
+1,Estonia,8,S Hook,Raza Iqbal,Ali Masood,,0,0,0,,,,32146232146
+1,Estonia,8,S Hook,Raza Iqbal,Ali Masood,,0,2,2,,,,32146232146
+1,Estonia,9,Ali Masood,M Shahbaz Butt,S Hook,,0,0,0,,,,32146232146
+1,Estonia,9,Ali Masood,M Shahbaz Butt,S Hook,,0,0,0,,,,32146232146
+1,Estonia,9,Ali Masood,M Shahbaz Butt,S Hook,,0,4,4,,,,32146232146
+1,Estonia,9,Ali Masood,M Shahbaz Butt,S Hook,,0,0,0,,,,32146232146
+1,Estonia,9,Ali Masood,M Shahbaz Butt,S Hook,,0,1,1,,,,32146232146
+1,Estonia,9,S Hook,M Shahbaz Butt,Ali Masood,,0,0,0,,,,32146232146
+1,Estonia,10,Ali Masood,Raza Iqbal,S Hook,,0,0,0,,,,32146232146
+1,Estonia,10,Ali Masood,Raza Iqbal,S Hook,,0,1,1,,,,32146232146
+1,Estonia,10,S Hook,Raza Iqbal,Ali Masood,,0,1,1,,,,32146232146
+1,Estonia,10,Ali Masood,Raza Iqbal,S Hook,,0,1,1,,,,32146232146
+1,Estonia,10,S Hook,Raza Iqbal,Ali Masood,,0,0,0,,,,32146232146
+1,Estonia,10,S Hook,Raza Iqbal,Ali Masood,,0,2,2,,,,32146232146
+1,Estonia,11,Ali Masood,M Shahbaz Butt,S Hook,,0,0,0,,,,32146232146
+1,Estonia,11,Ali Masood,M Shahbaz Butt,S Hook,,0,3,3,,,,32146232146
+1,Estonia,11,S Hook,M Shahbaz Butt,Ali Masood,,0,0,0,,,,32146232146
+1,Estonia,11,S Hook,M Shahbaz Butt,Ali Masood,,0,2,2,,,,32146232146
+1,Estonia,11,S Hook,M Shahbaz Butt,Ali Masood,,0,2,2,,,,32146232146
+1,Estonia,11,S Hook,M Shahbaz Butt,Ali Masood,,0,0,0,,,,32146232146
+1,Estonia,12,Ali Masood,Raza Iqbal,S Hook,,0,0,0,,,,32146232146
+1,Estonia,12,Ali Masood,Raza Iqbal,S Hook,,0,0,0,,,,32146232146
+1,Estonia,12,Ali Masood,Raza Iqbal,S Hook,,0,1,1,,,,32146232146
+1,Estonia,12,S Hook,Raza Iqbal,Ali Masood,,0,0,0,caught,S Hook,Vinay Ravi,32146232146
+1,Estonia,12,Ali Masood,Raza Iqbal,MMR Obili,,0,4,4,,,,32146232146
+1,Estonia,12,Ali Masood,Raza Iqbal,MMR Obili,,0,0,0,caught,Ali Masood,Ali Saleem,32146232146
+1,Estonia,13,MMR Obili,M Shahbaz Butt,Elias Hasan,,0,0,0,,,,32146232146
+1,Estonia,13,MMR Obili,M Shahbaz Butt,Elias Hasan,,0,1,1,,,,32146232146
+1,Estonia,13,Elias Hasan,M Shahbaz Butt,MMR Obili,,0,0,0,,,,32146232146
+1,Estonia,13,Elias Hasan,M Shahbaz Butt,MMR Obili,,0,0,0,,,,32146232146
+1,Estonia,13,Elias Hasan,M Shahbaz Butt,MMR Obili,,0,0,0,,,,32146232146
+1,Estonia,13,Elias Hasan,M Shahbaz Butt,MMR Obili,,0,0,0,,,,32146232146
+1,Estonia,14,MMR Obili,Vinay Ravi,Elias Hasan,,0,0,0,,,,32146232146
+1,Estonia,14,MMR Obili,Vinay Ravi,Elias Hasan,,0,0,0,,,,32146232146
+1,Estonia,14,MMR Obili,Vinay Ravi,Elias Hasan,,0,1,1,,,,32146232146
+1,Estonia,14,Elias Hasan,Vinay Ravi,MMR Obili,,0,0,0,,,,32146232146
+1,Estonia,14,Elias Hasan,Vinay Ravi,MMR Obili,,0,1,1,,,,32146232146
+1,Estonia,14,MMR Obili,Vinay Ravi,Elias Hasan,,0,1,1,,,,32146232146
+1,Estonia,15,MMR Obili,M Shahbaz Butt,Elias Hasan,,0,0,0,caught,MMR Obili,Qamar Mushtaque,32146232146
+1,Estonia,15,Elias Hasan,M Shahbaz Butt,A Paul,,0,0,0,caught and bowled,Elias Hasan,,32146232146
+1,Estonia,15,Saqib Naveed,M Shahbaz Butt,A Paul,,0,0,0,,,,32146232146
+1,Estonia,15,Saqib Naveed,M Shahbaz Butt,A Paul,,0,0,0,,,,32146232146
+1,Estonia,15,Saqib Naveed,M Shahbaz Butt,A Paul,,0,0,0,,,,32146232146
+1,Estonia,15,Saqib Naveed,M Shahbaz Butt,A Paul,,0,0,0,run out,A Paul,Ibrahim Rahimi,32146232146
+1,Estonia,16,Saqib Naveed,Vinay Ravi,Ali Raza,,0,0,0,,,,32146232146
+1,Estonia,16,Saqib Naveed,Vinay Ravi,Ali Raza,,0,0,0,,,,32146232146
+1,Estonia,16,Saqib Naveed,Vinay Ravi,Ali Raza,,0,0,0,,,,32146232146
+1,Estonia,16,Saqib Naveed,Vinay Ravi,Ali Raza,,0,1,1,,,,32146232146
+1,Estonia,16,Ali Raza,Vinay Ravi,Saqib Naveed,,0,0,0,,,,32146232146
+1,Estonia,16,Ali Raza,Vinay Ravi,Saqib Naveed,,0,4,4,,,,32146232146
+1,Estonia,17,Saqib Naveed,Qamar Mushtaque,Ali Raza,,0,0,0,,,,32146232146
+1,Estonia,17,Saqib Naveed,Qamar Mushtaque,Ali Raza,,0,1,1,,,,32146232146
+1,Estonia,17,Ali Raza,Qamar Mushtaque,Saqib Naveed,,0,0,0,bowled,Ali Raza,,32146232146
+1,Estonia,17,K Vislapuu,Qamar Mushtaque,Saqib Naveed,,0,1,1,,,,32146232146
+1,Estonia,17,Saqib Naveed,Qamar Mushtaque,K Vislapuu,,0,1,1,,,,32146232146
+1,Estonia,17,K Vislapuu,Qamar Mushtaque,Saqib Naveed,,0,0,0,,,,32146232146
+1,Estonia,18,Saqib Naveed,Ahmadullah Shinwari,K Vislapuu,,0,0,0,,,,32146232146
+1,Estonia,18,Saqib Naveed,Ahmadullah Shinwari,K Vislapuu,,0,0,0,,,,32146232146
+1,Estonia,18,Saqib Naveed,Ahmadullah Shinwari,K Vislapuu,,0,1,1,,,,32146232146
+1,Estonia,18,K Vislapuu,Ahmadullah Shinwari,Saqib Naveed,,0,0,0,bowled,K Vislapuu,,32146232146

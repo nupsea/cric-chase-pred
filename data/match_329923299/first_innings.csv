@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Netherlands,0,MR Swart,Mashrafe Mortaza,W Barresi,,0,0,0,,,,329923299
+1,Netherlands,0,MR Swart,Mashrafe Mortaza,W Barresi,,0,0,0,,,,329923299
+1,Netherlands,0,MR Swart,Mashrafe Mortaza,W Barresi,legbyes,1,1,0,,,,329923299
+1,Netherlands,0,W Barresi,Mashrafe Mortaza,MR Swart,,0,0,0,,,,329923299
+1,Netherlands,0,W Barresi,Mashrafe Mortaza,MR Swart,,0,0,0,bowled,W Barresi,,329923299
+1,Netherlands,0,TLW Cooper,Mashrafe Mortaza,MR Swart,,0,0,0,,,,329923299
+1,Netherlands,1,MR Swart,Nazmul Hossain,TLW Cooper,,0,2,2,,,,329923299
+1,Netherlands,1,MR Swart,Nazmul Hossain,TLW Cooper,,0,4,4,,,,329923299
+1,Netherlands,1,MR Swart,Nazmul Hossain,TLW Cooper,,0,1,1,,,,329923299
+1,Netherlands,1,TLW Cooper,Nazmul Hossain,MR Swart,,0,1,1,,,,329923299
+1,Netherlands,1,MR Swart,Nazmul Hossain,TLW Cooper,,0,0,0,,,,329923299
+1,Netherlands,1,MR Swart,Nazmul Hossain,TLW Cooper,,0,1,1,,,,329923299
+1,Netherlands,2,MR Swart,Mashrafe Mortaza,TLW Cooper,wides,1,1,0,,,,329923299
+1,Netherlands,2,MR Swart,Mashrafe Mortaza,TLW Cooper,,0,1,1,,,,329923299
+1,Netherlands,2,TLW Cooper,Mashrafe Mortaza,MR Swart,,0,0,0,caught,TLW Cooper,Shakib Al Hasan,329923299
+1,Netherlands,2,MR Swart,Mashrafe Mortaza,ES Szwarczynski,,0,0,0,,,,329923299
+1,Netherlands,2,MR Swart,Mashrafe Mortaza,ES Szwarczynski,,0,1,1,,,,329923299
+1,Netherlands,2,ES Szwarczynski,Mashrafe Mortaza,MR Swart,,0,0,0,,,,329923299
+1,Netherlands,2,ES Szwarczynski,Mashrafe Mortaza,MR Swart,,0,1,1,,,,329923299
+1,Netherlands,3,ES Szwarczynski,Shakib Al Hasan,MR Swart,,0,0,0,,,,329923299
+1,Netherlands,3,ES Szwarczynski,Shakib Al Hasan,MR Swart,,0,0,0,caught,ES Szwarczynski,Ziaur Rahman,329923299
+1,Netherlands,3,PW Borren,Shakib Al Hasan,MR Swart,,0,0,0,,,,329923299
+1,Netherlands,3,PW Borren,Shakib Al Hasan,MR Swart,,0,0,0,,,,329923299
+1,Netherlands,3,PW Borren,Shakib Al Hasan,MR Swart,,0,4,4,,,,329923299
+1,Netherlands,3,PW Borren,Shakib Al Hasan,MR Swart,legbyes,1,1,0,,,,329923299
+1,Netherlands,4,PW Borren,Mashrafe Mortaza,MR Swart,legbyes,1,1,0,,,,329923299
+1,Netherlands,4,MR Swart,Mashrafe Mortaza,PW Borren,,0,0,0,,,,329923299
+1,Netherlands,4,MR Swart,Mashrafe Mortaza,PW Borren,,0,1,1,,,,329923299
+1,Netherlands,4,PW Borren,Mashrafe Mortaza,MR Swart,,0,0,0,,,,329923299
+1,Netherlands,4,PW Borren,Mashrafe Mortaza,MR Swart,,0,0,0,,,,329923299
+1,Netherlands,4,PW Borren,Mashrafe Mortaza,MR Swart,legbyes,1,1,0,,,,329923299
+1,Netherlands,5,PW Borren,Shakib Al Hasan,MR Swart,,0,1,1,,,,329923299
+1,Netherlands,5,MR Swart,Shakib Al Hasan,PW Borren,,0,4,4,,,,329923299
+1,Netherlands,5,MR Swart,Shakib Al Hasan,PW Borren,,0,6,6,,,,329923299
+1,Netherlands,5,MR Swart,Shakib Al Hasan,PW Borren,,0,1,1,,,,329923299
+1,Netherlands,5,PW Borren,Shakib Al Hasan,MR Swart,,0,0,0,,,,329923299
+1,Netherlands,5,PW Borren,Shakib Al Hasan,MR Swart,,0,0,0,,,,329923299
+1,Netherlands,6,MR Swart,Nazmul Hossain,PW Borren,,0,2,2,,,,329923299
+1,Netherlands,6,MR Swart,Nazmul Hossain,PW Borren,,0,2,2,,,,329923299
+1,Netherlands,6,MR Swart,Nazmul Hossain,PW Borren,,0,4,4,,,,329923299
+1,Netherlands,6,MR Swart,Nazmul Hossain,PW Borren,,0,1,1,,,,329923299
+1,Netherlands,6,PW Borren,Nazmul Hossain,MR Swart,,0,4,4,,,,329923299
+1,Netherlands,6,PW Borren,Nazmul Hossain,MR Swart,,0,1,1,,,,329923299
+1,Netherlands,7,PW Borren,Abdur Razzak,MR Swart,,0,1,1,,,,329923299
+1,Netherlands,7,MR Swart,Abdur Razzak,PW Borren,,0,1,1,,,,329923299
+1,Netherlands,7,PW Borren,Abdur Razzak,MR Swart,,0,1,1,,,,329923299
+1,Netherlands,7,MR Swart,Abdur Razzak,PW Borren,,0,1,1,,,,329923299
+1,Netherlands,7,PW Borren,Abdur Razzak,MR Swart,,0,0,0,run out,PW Borren,Mushfiqur Rahim,329923299
+1,Netherlands,7,TN de Grooth,Abdur Razzak,MR Swart,,0,1,1,,,,329923299
+1,Netherlands,8,TN de Grooth,Elias Sunny,MR Swart,,0,0,0,,,,329923299
+1,Netherlands,8,TN de Grooth,Elias Sunny,MR Swart,,0,0,0,,,,329923299
+1,Netherlands,8,TN de Grooth,Elias Sunny,MR Swart,,0,1,1,,,,329923299
+1,Netherlands,8,MR Swart,Elias Sunny,TN de Grooth,,0,0,0,,,,329923299
+1,Netherlands,8,MR Swart,Elias Sunny,TN de Grooth,,0,2,2,,,,329923299
+1,Netherlands,8,MR Swart,Elias Sunny,TN de Grooth,,0,0,0,,,,329923299
+1,Netherlands,9,TN de Grooth,Abdur Razzak,MR Swart,,0,1,1,,,,329923299
+1,Netherlands,9,MR Swart,Abdur Razzak,TN de Grooth,,0,0,0,,,,329923299
+1,Netherlands,9,MR Swart,Abdur Razzak,TN de Grooth,,0,2,2,,,,329923299
+1,Netherlands,9,MR Swart,Abdur Razzak,TN de Grooth,,0,1,1,,,,329923299
+1,Netherlands,9,TN de Grooth,Abdur Razzak,MR Swart,,0,1,1,,,,329923299
+1,Netherlands,9,MR Swart,Abdur Razzak,TN de Grooth,,0,0,0,,,,329923299
+1,Netherlands,10,TN de Grooth,Elias Sunny,MR Swart,,0,1,1,,,,329923299
+1,Netherlands,10,MR Swart,Elias Sunny,TN de Grooth,,0,4,4,,,,329923299
+1,Netherlands,10,MR Swart,Elias Sunny,TN de Grooth,,0,1,1,,,,329923299
+1,Netherlands,10,TN de Grooth,Elias Sunny,MR Swart,,0,0,0,,,,329923299
+1,Netherlands,10,TN de Grooth,Elias Sunny,MR Swart,,0,1,1,,,,329923299
+1,Netherlands,10,MR Swart,Elias Sunny,TN de Grooth,,0,2,2,,,,329923299
+1,Netherlands,11,TN de Grooth,Abdur Razzak,MR Swart,,0,4,4,,,,329923299
+1,Netherlands,11,TN de Grooth,Abdur Razzak,MR Swart,,0,1,1,,,,329923299
+1,Netherlands,11,MR Swart,Abdur Razzak,TN de Grooth,,0,6,6,,,,329923299
+1,Netherlands,11,MR Swart,Abdur Razzak,TN de Grooth,,0,1,1,,,,329923299
+1,Netherlands,11,TN de Grooth,Abdur Razzak,MR Swart,,0,2,2,,,,329923299
+1,Netherlands,11,TN de Grooth,Abdur Razzak,MR Swart,,0,1,1,,,,329923299
+1,Netherlands,12,TN de Grooth,Ziaur Rahman,MR Swart,,0,1,1,,,,329923299
+1,Netherlands,12,MR Swart,Ziaur Rahman,TN de Grooth,,0,0,0,,,,329923299
+1,Netherlands,12,MR Swart,Ziaur Rahman,TN de Grooth,,0,1,1,,,,329923299
+1,Netherlands,12,TN de Grooth,Ziaur Rahman,MR Swart,,0,2,2,,,,329923299
+1,Netherlands,12,TN de Grooth,Ziaur Rahman,MR Swart,,0,4,4,,,,329923299
+1,Netherlands,12,TN de Grooth,Ziaur Rahman,MR Swart,,0,1,1,,,,329923299
+1,Netherlands,13,TN de Grooth,Mahmudullah,MR Swart,,0,0,0,caught,TN de Grooth,Abdur Razzak,329923299
+1,Netherlands,13,MR Swart,Mahmudullah,Mudassar Bukhari,,0,1,1,,,,329923299
+1,Netherlands,13,Mudassar Bukhari,Mahmudullah,MR Swart,,0,1,1,,,,329923299
+1,Netherlands,13,MR Swart,Mahmudullah,Mudassar Bukhari,,0,1,1,,,,329923299
+1,Netherlands,13,Mudassar Bukhari,Mahmudullah,MR Swart,byes,1,1,0,,,,329923299
+1,Netherlands,13,MR Swart,Mahmudullah,Mudassar Bukhari,wides,1,1,0,,,,329923299
+1,Netherlands,13,MR Swart,Mahmudullah,Mudassar Bukhari,,0,1,1,,,,329923299
+1,Netherlands,14,MR Swart,Shakib Al Hasan,Mudassar Bukhari,,0,1,1,,,,329923299
+1,Netherlands,14,Mudassar Bukhari,Shakib Al Hasan,MR Swart,,0,0,0,,,,329923299
+1,Netherlands,14,Mudassar Bukhari,Shakib Al Hasan,MR Swart,legbyes,1,1,0,,,,329923299
+1,Netherlands,14,MR Swart,Shakib Al Hasan,Mudassar Bukhari,,0,0,0,caught,MR Swart,Nasir Hossain,329923299
+1,Netherlands,14,Mudassar Bukhari,Shakib Al Hasan,TGJ Gruijters,,0,0,0,,,,329923299
+1,Netherlands,14,Mudassar Bukhari,Shakib Al Hasan,TGJ Gruijters,legbyes,1,1,0,,,,329923299
+1,Netherlands,15,Mudassar Bukhari,Mahmudullah,TGJ Gruijters,,0,1,1,,,,329923299
+1,Netherlands,15,TGJ Gruijters,Mahmudullah,Mudassar Bukhari,,0,0,0,,,,329923299
+1,Netherlands,15,TGJ Gruijters,Mahmudullah,Mudassar Bukhari,,0,0,0,,,,329923299
+1,Netherlands,15,TGJ Gruijters,Mahmudullah,Mudassar Bukhari,,0,1,1,,,,329923299
+1,Netherlands,15,Mudassar Bukhari,Mahmudullah,TGJ Gruijters,,0,1,1,,,,329923299
+1,Netherlands,15,TGJ Gruijters,Mahmudullah,Mudassar Bukhari,,0,0,0,,,,329923299
+1,Netherlands,16,Mudassar Bukhari,Shakib Al Hasan,TGJ Gruijters,,0,1,1,,,,329923299
+1,Netherlands,16,TGJ Gruijters,Shakib Al Hasan,Mudassar Bukhari,,0,1,1,,,,329923299
+1,Netherlands,16,Mudassar Bukhari,Shakib Al Hasan,TGJ Gruijters,,0,1,1,,,,329923299
+1,Netherlands,16,TGJ Gruijters,Shakib Al Hasan,Mudassar Bukhari,,0,1,1,,,,329923299
+1,Netherlands,16,Mudassar Bukhari,Shakib Al Hasan,TGJ Gruijters,,0,1,1,,,,329923299
+1,Netherlands,16,TGJ Gruijters,Shakib Al Hasan,Mudassar Bukhari,,0,1,1,,,,329923299
+1,Netherlands,17,TGJ Gruijters,Mahmudullah,Mudassar Bukhari,,0,1,1,,,,329923299
+1,Netherlands,17,Mudassar Bukhari,Mahmudullah,TGJ Gruijters,,0,1,1,,,,329923299
+1,Netherlands,17,TGJ Gruijters,Mahmudullah,Mudassar Bukhari,,0,1,1,,,,329923299
+1,Netherlands,17,Mudassar Bukhari,Mahmudullah,TGJ Gruijters,,0,4,4,,,,329923299
+1,Netherlands,17,Mudassar Bukhari,Mahmudullah,TGJ Gruijters,,0,1,1,,,,329923299
+1,Netherlands,17,TGJ Gruijters,Mahmudullah,Mudassar Bukhari,,0,1,1,,,,329923299
+1,Netherlands,18,TGJ Gruijters,Abdur Razzak,Mudassar Bukhari,,0,1,1,,,,329923299
+1,Netherlands,18,Mudassar Bukhari,Abdur Razzak,TGJ Gruijters,,0,0,0,caught,Mudassar Bukhari,Junaid Siddique,329923299
+1,Netherlands,18,PM Seelaar,Abdur Razzak,TGJ Gruijters,,0,1,1,,,,329923299
+1,Netherlands,18,TGJ Gruijters,Abdur Razzak,PM Seelaar,,0,1,1,,,,329923299
+1,Netherlands,18,PM Seelaar,Abdur Razzak,TGJ Gruijters,,0,1,1,,,,329923299
+1,Netherlands,18,TGJ Gruijters,Abdur Razzak,PM Seelaar,,0,2,2,,,,329923299
+1,Netherlands,19,PM Seelaar,Mashrafe Mortaza,TGJ Gruijters,,0,0,0,,,,329923299
+1,Netherlands,19,PM Seelaar,Mashrafe Mortaza,TGJ Gruijters,,0,6,6,,,,329923299
+1,Netherlands,19,PM Seelaar,Mashrafe Mortaza,TGJ Gruijters,,0,1,1,,,,329923299
+1,Netherlands,19,TGJ Gruijters,Mashrafe Mortaza,PM Seelaar,,0,4,4,,,,329923299
+1,Netherlands,19,TGJ Gruijters,Mashrafe Mortaza,PM Seelaar,,0,2,2,,,,329923299
+1,Netherlands,19,TGJ Gruijters,Mashrafe Mortaza,PM Seelaar,,0,4,4,,,,329923299

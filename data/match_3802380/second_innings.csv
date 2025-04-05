@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Pakistan,0,Salman Butt,AD Mathews,Kamran Akmal,,0,0,0,,,,3802380
+2,Pakistan,0,Salman Butt,AD Mathews,Kamran Akmal,,0,0,0,,,,3802380
+2,Pakistan,0,Salman Butt,AD Mathews,Kamran Akmal,,0,0,0,bowled,Salman Butt,,3802380
+2,Pakistan,0,Shoaib Malik,AD Mathews,Kamran Akmal,,0,0,0,,,,3802380
+2,Pakistan,0,Shoaib Malik,AD Mathews,Kamran Akmal,,0,1,1,,,,3802380
+2,Pakistan,0,Kamran Akmal,AD Mathews,Shoaib Malik,,0,0,0,,,,3802380
+2,Pakistan,1,Shoaib Malik,KMDN Kulasekara,Kamran Akmal,,0,0,0,,,,3802380
+2,Pakistan,1,Shoaib Malik,KMDN Kulasekara,Kamran Akmal,,0,0,0,,,,3802380
+2,Pakistan,1,Shoaib Malik,KMDN Kulasekara,Kamran Akmal,,0,1,1,,,,3802380
+2,Pakistan,1,Kamran Akmal,KMDN Kulasekara,Shoaib Malik,,0,0,0,,,,3802380
+2,Pakistan,1,Kamran Akmal,KMDN Kulasekara,Shoaib Malik,,0,1,1,,,,3802380
+2,Pakistan,1,Shoaib Malik,KMDN Kulasekara,Kamran Akmal,,0,4,4,,,,3802380
+2,Pakistan,2,Kamran Akmal,AD Mathews,Shoaib Malik,,0,3,3,,,,3802380
+2,Pakistan,2,Shoaib Malik,AD Mathews,Kamran Akmal,,0,0,0,,,,3802380
+2,Pakistan,2,Shoaib Malik,AD Mathews,Kamran Akmal,,0,0,0,,,,3802380
+2,Pakistan,2,Shoaib Malik,AD Mathews,Kamran Akmal,,0,0,0,,,,3802380
+2,Pakistan,2,Shoaib Malik,AD Mathews,Kamran Akmal,,0,0,0,,,,3802380
+2,Pakistan,2,Shoaib Malik,AD Mathews,Kamran Akmal,,0,2,2,,,,3802380
+2,Pakistan,3,Kamran Akmal,KMDN Kulasekara,Shoaib Malik,,0,0,0,,,,3802380
+2,Pakistan,3,Kamran Akmal,KMDN Kulasekara,Shoaib Malik,,0,1,1,,,,3802380
+2,Pakistan,3,Shoaib Malik,KMDN Kulasekara,Kamran Akmal,,0,4,4,,,,3802380
+2,Pakistan,3,Shoaib Malik,KMDN Kulasekara,Kamran Akmal,,0,1,1,,,,3802380
+2,Pakistan,3,Kamran Akmal,KMDN Kulasekara,Shoaib Malik,,0,0,0,,,,3802380
+2,Pakistan,3,Kamran Akmal,KMDN Kulasekara,Shoaib Malik,,0,0,0,,,,3802380
+2,Pakistan,4,Shoaib Malik,AD Mathews,Kamran Akmal,,0,0,0,,,,3802380
+2,Pakistan,4,Shoaib Malik,AD Mathews,Kamran Akmal,,0,4,4,,,,3802380
+2,Pakistan,4,Shoaib Malik,AD Mathews,Kamran Akmal,,0,4,4,,,,3802380
+2,Pakistan,4,Shoaib Malik,AD Mathews,Kamran Akmal,,0,4,4,,,,3802380
+2,Pakistan,4,Shoaib Malik,AD Mathews,Kamran Akmal,,0,2,2,,,,3802380
+2,Pakistan,4,Shoaib Malik,AD Mathews,Kamran Akmal,,0,1,1,,,,3802380
+2,Pakistan,5,Shoaib Malik,SL Malinga,Kamran Akmal,wides,1,1,0,,,,3802380
+2,Pakistan,5,Shoaib Malik,SL Malinga,Kamran Akmal,,0,0,0,caught,Shoaib Malik,KMDN Kulasekara,3802380
+2,Pakistan,5,Younis Khan,SL Malinga,Kamran Akmal,,0,1,1,,,,3802380
+2,Pakistan,5,Kamran Akmal,SL Malinga,Younis Khan,,0,0,0,run out,Kamran Akmal,AD Mathews,3802380
+2,Pakistan,5,Younis Khan,SL Malinga,Misbah-ul-Haq,,0,1,1,,,,3802380
+2,Pakistan,5,Misbah-ul-Haq,SL Malinga,Younis Khan,,0,0,0,,,,3802380
+2,Pakistan,5,Misbah-ul-Haq,SL Malinga,Younis Khan,,0,0,0,,,,3802380
+2,Pakistan,6,Younis Khan,AD Mathews,Misbah-ul-Haq,,0,0,0,,,,3802380
+2,Pakistan,6,Younis Khan,AD Mathews,Misbah-ul-Haq,,0,1,1,,,,3802380
+2,Pakistan,6,Misbah-ul-Haq,AD Mathews,Younis Khan,,0,1,1,,,,3802380
+2,Pakistan,6,Younis Khan,AD Mathews,Misbah-ul-Haq,,0,0,0,,,,3802380
+2,Pakistan,6,Younis Khan,AD Mathews,Misbah-ul-Haq,,0,0,0,,,,3802380
+2,Pakistan,6,Younis Khan,AD Mathews,Misbah-ul-Haq,,0,0,0,,,,3802380
+2,Pakistan,7,Misbah-ul-Haq,M Muralitharan,Younis Khan,,0,1,1,,,,3802380
+2,Pakistan,7,Younis Khan,M Muralitharan,Misbah-ul-Haq,,0,2,2,,,,3802380
+2,Pakistan,7,Younis Khan,M Muralitharan,Misbah-ul-Haq,,0,1,1,,,,3802380
+2,Pakistan,7,Misbah-ul-Haq,M Muralitharan,Younis Khan,,0,0,0,,,,3802380
+2,Pakistan,7,Misbah-ul-Haq,M Muralitharan,Younis Khan,,0,1,1,,,,3802380
+2,Pakistan,7,Younis Khan,M Muralitharan,Misbah-ul-Haq,,0,1,1,,,,3802380
+2,Pakistan,8,Younis Khan,BAW Mendis,Misbah-ul-Haq,,0,1,1,,,,3802380
+2,Pakistan,8,Misbah-ul-Haq,BAW Mendis,Younis Khan,,0,2,2,,,,3802380
+2,Pakistan,8,Misbah-ul-Haq,BAW Mendis,Younis Khan,,0,1,1,,,,3802380
+2,Pakistan,8,Younis Khan,BAW Mendis,Misbah-ul-Haq,,0,1,1,,,,3802380
+2,Pakistan,8,Misbah-ul-Haq,BAW Mendis,Younis Khan,,0,1,1,,,,3802380
+2,Pakistan,8,Younis Khan,BAW Mendis,Misbah-ul-Haq,,0,1,1,,,,3802380
+2,Pakistan,9,Younis Khan,ST Jayasuriya,Misbah-ul-Haq,,0,1,1,,,,3802380
+2,Pakistan,9,Misbah-ul-Haq,ST Jayasuriya,Younis Khan,,0,2,2,,,,3802380
+2,Pakistan,9,Misbah-ul-Haq,ST Jayasuriya,Younis Khan,wides,1,1,0,,,,3802380
+2,Pakistan,9,Misbah-ul-Haq,ST Jayasuriya,Younis Khan,,0,1,1,,,,3802380
+2,Pakistan,9,Younis Khan,ST Jayasuriya,Misbah-ul-Haq,,0,2,2,,,,3802380
+2,Pakistan,9,Younis Khan,ST Jayasuriya,Misbah-ul-Haq,,0,1,1,,,,3802380
+2,Pakistan,9,Misbah-ul-Haq,ST Jayasuriya,Younis Khan,,0,0,0,,,,3802380
+2,Pakistan,10,Younis Khan,BAW Mendis,Misbah-ul-Haq,,0,4,4,,,,3802380
+2,Pakistan,10,Younis Khan,BAW Mendis,Misbah-ul-Haq,,0,2,2,,,,3802380
+2,Pakistan,10,Younis Khan,BAW Mendis,Misbah-ul-Haq,,0,1,1,,,,3802380
+2,Pakistan,10,Misbah-ul-Haq,BAW Mendis,Younis Khan,,0,0,0,,,,3802380
+2,Pakistan,10,Misbah-ul-Haq,BAW Mendis,Younis Khan,,0,1,1,,,,3802380
+2,Pakistan,10,Younis Khan,BAW Mendis,Misbah-ul-Haq,,0,1,1,,,,3802380
+2,Pakistan,11,Younis Khan,M Muralitharan,Misbah-ul-Haq,,0,4,4,,,,3802380
+2,Pakistan,11,Younis Khan,M Muralitharan,Misbah-ul-Haq,,0,1,1,,,,3802380
+2,Pakistan,11,Misbah-ul-Haq,M Muralitharan,Younis Khan,,0,2,2,,,,3802380
+2,Pakistan,11,Misbah-ul-Haq,M Muralitharan,Younis Khan,,0,0,0,,,,3802380
+2,Pakistan,11,Misbah-ul-Haq,M Muralitharan,Younis Khan,,0,1,1,,,,3802380
+2,Pakistan,11,Younis Khan,M Muralitharan,Misbah-ul-Haq,,0,1,1,,,,3802380
+2,Pakistan,12,Younis Khan,SL Malinga,Misbah-ul-Haq,,0,0,0,,,,3802380
+2,Pakistan,12,Younis Khan,SL Malinga,Misbah-ul-Haq,,0,1,1,,,,3802380
+2,Pakistan,12,Misbah-ul-Haq,SL Malinga,Younis Khan,,0,0,0,,,,3802380
+2,Pakistan,12,Misbah-ul-Haq,SL Malinga,Younis Khan,,0,2,2,,,,3802380
+2,Pakistan,12,Misbah-ul-Haq,SL Malinga,Younis Khan,,0,2,2,,,,3802380
+2,Pakistan,12,Misbah-ul-Haq,SL Malinga,Younis Khan,,0,0,0,,,,3802380
+2,Pakistan,13,Younis Khan,M Muralitharan,Misbah-ul-Haq,,0,4,4,,,,3802380
+2,Pakistan,13,Younis Khan,M Muralitharan,Misbah-ul-Haq,,0,1,1,,,,3802380
+2,Pakistan,13,Misbah-ul-Haq,M Muralitharan,Younis Khan,,0,1,1,,,,3802380
+2,Pakistan,13,Younis Khan,M Muralitharan,Misbah-ul-Haq,,0,2,2,,,,3802380
+2,Pakistan,13,Younis Khan,M Muralitharan,Misbah-ul-Haq,,0,1,1,,,,3802380
+2,Pakistan,13,Misbah-ul-Haq,M Muralitharan,Younis Khan,,0,0,0,,,,3802380
+2,Pakistan,14,Younis Khan,BAW Mendis,Misbah-ul-Haq,,0,4,4,,,,3802380
+2,Pakistan,14,Younis Khan,BAW Mendis,Misbah-ul-Haq,,0,2,2,,,,3802380
+2,Pakistan,14,Younis Khan,BAW Mendis,Misbah-ul-Haq,,0,1,1,,,,3802380
+2,Pakistan,14,Misbah-ul-Haq,BAW Mendis,Younis Khan,,0,0,0,,,,3802380
+2,Pakistan,14,Misbah-ul-Haq,BAW Mendis,Younis Khan,,0,0,0,,,,3802380
+2,Pakistan,14,Misbah-ul-Haq,BAW Mendis,Younis Khan,,0,1,1,,,,3802380
+2,Pakistan,15,Misbah-ul-Haq,M Muralitharan,Younis Khan,,0,1,1,,,,3802380
+2,Pakistan,15,Younis Khan,M Muralitharan,Misbah-ul-Haq,,0,1,1,,,,3802380
+2,Pakistan,15,Misbah-ul-Haq,M Muralitharan,Younis Khan,,0,0,0,caught,Misbah-ul-Haq,LPC Silva,3802380
+2,Pakistan,15,Shahid Afridi,M Muralitharan,Younis Khan,,0,0,0,caught,Shahid Afridi,TM Dilshan,3802380
+2,Pakistan,15,Younis Khan,M Muralitharan,Fawad Alam,,0,1,1,,,,3802380
+2,Pakistan,15,Fawad Alam,M Muralitharan,Younis Khan,,0,1,1,,,,3802380
+2,Pakistan,16,Fawad Alam,SL Malinga,Younis Khan,,0,1,1,,,,3802380
+2,Pakistan,16,Younis Khan,SL Malinga,Fawad Alam,,0,2,2,,,,3802380
+2,Pakistan,16,Younis Khan,SL Malinga,Fawad Alam,,0,2,2,,,,3802380
+2,Pakistan,16,Younis Khan,SL Malinga,Fawad Alam,,0,0,0,caught,Younis Khan,KC Sangakkara,3802380
+2,Pakistan,16,Fawad Alam,SL Malinga,Sohail Tanvir,,0,1,1,,,,3802380
+2,Pakistan,16,Sohail Tanvir,SL Malinga,Fawad Alam,,0,1,1,,,,3802380
+2,Pakistan,17,Sohail Tanvir,KMDN Kulasekara,Fawad Alam,,0,1,1,,,,3802380
+2,Pakistan,17,Fawad Alam,KMDN Kulasekara,Sohail Tanvir,,0,4,4,,,,3802380
+2,Pakistan,17,Fawad Alam,KMDN Kulasekara,Sohail Tanvir,,0,0,0,,,,3802380
+2,Pakistan,17,Fawad Alam,KMDN Kulasekara,Sohail Tanvir,,0,1,1,,,,3802380
+2,Pakistan,17,Sohail Tanvir,KMDN Kulasekara,Fawad Alam,,0,1,1,,,,3802380
+2,Pakistan,17,Fawad Alam,KMDN Kulasekara,Sohail Tanvir,,0,1,1,,,,3802380
+2,Pakistan,18,Fawad Alam,SL Malinga,Sohail Tanvir,,0,1,1,,,,3802380
+2,Pakistan,18,Sohail Tanvir,SL Malinga,Fawad Alam,,0,0,0,,,,3802380
+2,Pakistan,18,Sohail Tanvir,SL Malinga,Fawad Alam,byes,1,1,0,,,,3802380
+2,Pakistan,18,Fawad Alam,SL Malinga,Sohail Tanvir,,0,1,1,,,,3802380
+2,Pakistan,18,Sohail Tanvir,SL Malinga,Fawad Alam,,0,0,0,,,,3802380
+2,Pakistan,18,Sohail Tanvir,SL Malinga,Fawad Alam,,0,0,0,caught and bowled,Sohail Tanvir,,3802380
+2,Pakistan,19,Fawad Alam,KMDN Kulasekara,Umar Gul,,0,1,1,,,,3802380
+2,Pakistan,19,Umar Gul,KMDN Kulasekara,Fawad Alam,,0,1,1,,,,3802380
+2,Pakistan,19,Fawad Alam,KMDN Kulasekara,Umar Gul,,0,0,0,caught,Fawad Alam,KC Sangakkara,3802380
+2,Pakistan,19,Umar Gul,KMDN Kulasekara,Mohammad Amir,,0,1,1,run out,Mohammad Amir,KMDN Kulasekara,3802380
+2,Pakistan,19,Umar Gul,KMDN Kulasekara,Saeed Ajmal,,0,6,6,,,,3802380
+2,Pakistan,19,Umar Gul,KMDN Kulasekara,Saeed Ajmal,,0,1,1,,,,3802380

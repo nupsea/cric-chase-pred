@@ -1,0 +1,110 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Netherlands,0,SL Kalis,KA Green,D Hannema,,0,0,0,,,,31210231210
+2,Netherlands,0,SL Kalis,KA Green,D Hannema,byes,1,1,0,,,,31210231210
+2,Netherlands,0,D Hannema,KA Green,SL Kalis,,0,0,0,,,,31210231210
+2,Netherlands,0,D Hannema,KA Green,SL Kalis,,0,0,0,,,,31210231210
+2,Netherlands,0,D Hannema,KA Green,SL Kalis,,0,0,0,,,,31210231210
+2,Netherlands,0,D Hannema,KA Green,SL Kalis,,0,1,1,,,,31210231210
+2,Netherlands,1,D Hannema,SA Wittmann,SL Kalis,,0,0,0,,,,31210231210
+2,Netherlands,1,D Hannema,SA Wittmann,SL Kalis,wides,1,1,0,,,,31210231210
+2,Netherlands,1,D Hannema,SA Wittmann,SL Kalis,,0,2,2,,,,31210231210
+2,Netherlands,1,D Hannema,SA Wittmann,SL Kalis,,0,4,4,,,,31210231210
+2,Netherlands,1,D Hannema,SA Wittmann,SL Kalis,,0,0,0,,,,31210231210
+2,Netherlands,1,D Hannema,SA Wittmann,SL Kalis,,0,0,0,,,,31210231210
+2,Netherlands,1,D Hannema,SA Wittmann,SL Kalis,,0,0,0,,,,31210231210
+2,Netherlands,2,SL Kalis,KA Green,D Hannema,,0,4,4,,,,31210231210
+2,Netherlands,2,SL Kalis,KA Green,D Hannema,,0,1,1,,,,31210231210
+2,Netherlands,2,D Hannema,KA Green,SL Kalis,,0,0,0,,,,31210231210
+2,Netherlands,2,D Hannema,KA Green,SL Kalis,,0,1,1,,,,31210231210
+2,Netherlands,2,SL Kalis,KA Green,D Hannema,,0,0,0,,,,31210231210
+2,Netherlands,2,SL Kalis,KA Green,D Hannema,,0,1,1,,,,31210231210
+2,Netherlands,3,SL Kalis,V Hamunyela,D Hannema,,0,0,0,,,,31210231210
+2,Netherlands,3,SL Kalis,V Hamunyela,D Hannema,,0,0,0,,,,31210231210
+2,Netherlands,3,SL Kalis,V Hamunyela,D Hannema,,0,4,4,,,,31210231210
+2,Netherlands,3,SL Kalis,V Hamunyela,D Hannema,,0,0,0,,,,31210231210
+2,Netherlands,3,SL Kalis,V Hamunyela,D Hannema,,0,0,0,,,,31210231210
+2,Netherlands,3,SL Kalis,V Hamunyela,D Hannema,,0,0,0,,,,31210231210
+2,Netherlands,4,D Hannema,KA Green,SL Kalis,,0,0,0,,,,31210231210
+2,Netherlands,4,D Hannema,KA Green,SL Kalis,,0,0,0,,,,31210231210
+2,Netherlands,4,D Hannema,KA Green,SL Kalis,,0,1,1,,,,31210231210
+2,Netherlands,4,SL Kalis,KA Green,D Hannema,,0,0,0,,,,31210231210
+2,Netherlands,4,SL Kalis,KA Green,D Hannema,,0,0,0,,,,31210231210
+2,Netherlands,4,SL Kalis,KA Green,D Hannema,,0,4,4,,,,31210231210
+2,Netherlands,5,D Hannema,V Hamunyela,SL Kalis,,0,1,1,,,,31210231210
+2,Netherlands,5,SL Kalis,V Hamunyela,D Hannema,,0,0,0,,,,31210231210
+2,Netherlands,5,SL Kalis,V Hamunyela,D Hannema,,0,0,0,,,,31210231210
+2,Netherlands,5,SL Kalis,V Hamunyela,D Hannema,,0,4,4,,,,31210231210
+2,Netherlands,5,SL Kalis,V Hamunyela,D Hannema,,0,0,0,,,,31210231210
+2,Netherlands,5,SL Kalis,V Hamunyela,D Hannema,,0,1,1,,,,31210231210
+2,Netherlands,6,SL Kalis,KA Green,D Hannema,,0,0,0,,,,31210231210
+2,Netherlands,6,SL Kalis,KA Green,D Hannema,,0,2,2,,,,31210231210
+2,Netherlands,6,SL Kalis,KA Green,D Hannema,,0,4,4,,,,31210231210
+2,Netherlands,6,SL Kalis,KA Green,D Hannema,wides,2,2,0,,,,31210231210
+2,Netherlands,6,D Hannema,KA Green,SL Kalis,,0,0,0,,,,31210231210
+2,Netherlands,6,D Hannema,KA Green,SL Kalis,,0,0,0,,,,31210231210
+2,Netherlands,6,D Hannema,KA Green,SL Kalis,,0,1,1,,,,31210231210
+2,Netherlands,7,D Hannema,V Hamunyela,SL Kalis,,0,0,0,,,,31210231210
+2,Netherlands,7,D Hannema,V Hamunyela,SL Kalis,,0,0,0,caught,D Hannema,SN Shihepo,31210231210
+2,Netherlands,7,SL Kalis,V Hamunyela,B de Leede,,0,0,0,,,,31210231210
+2,Netherlands,7,SL Kalis,V Hamunyela,B de Leede,,0,0,0,,,,31210231210
+2,Netherlands,7,SL Kalis,V Hamunyela,B de Leede,,0,0,0,,,,31210231210
+2,Netherlands,7,SL Kalis,V Hamunyela,B de Leede,,0,2,2,,,,31210231210
+2,Netherlands,8,B de Leede,SN Shihepo,SL Kalis,,0,0,0,,,,31210231210
+2,Netherlands,8,B de Leede,SN Shihepo,SL Kalis,,0,0,0,,,,31210231210
+2,Netherlands,8,B de Leede,SN Shihepo,SL Kalis,,0,0,0,,,,31210231210
+2,Netherlands,8,B de Leede,SN Shihepo,SL Kalis,,0,1,1,,,,31210231210
+2,Netherlands,8,SL Kalis,SN Shihepo,B de Leede,,0,0,0,,,,31210231210
+2,Netherlands,8,SL Kalis,SN Shihepo,B de Leede,,0,1,1,,,,31210231210
+2,Netherlands,9,SL Kalis,V Hamunyela,B de Leede,,0,0,0,,,,31210231210
+2,Netherlands,9,SL Kalis,V Hamunyela,B de Leede,,0,1,1,,,,31210231210
+2,Netherlands,9,B de Leede,V Hamunyela,SL Kalis,,0,0,0,,,,31210231210
+2,Netherlands,9,B de Leede,V Hamunyela,SL Kalis,,0,0,0,,,,31210231210
+2,Netherlands,9,B de Leede,V Hamunyela,SL Kalis,,0,0,0,,,,31210231210
+2,Netherlands,9,B de Leede,V Hamunyela,SL Kalis,,0,0,0,,,,31210231210
+2,Netherlands,10,SL Kalis,SN Shihepo,B de Leede,,0,2,2,,,,31210231210
+2,Netherlands,10,SL Kalis,SN Shihepo,B de Leede,,0,1,1,,,,31210231210
+2,Netherlands,10,B de Leede,SN Shihepo,SL Kalis,,0,0,0,,,,31210231210
+2,Netherlands,10,B de Leede,SN Shihepo,SL Kalis,,0,1,1,,,,31210231210
+2,Netherlands,10,SL Kalis,SN Shihepo,B de Leede,,0,0,0,,,,31210231210
+2,Netherlands,10,SL Kalis,SN Shihepo,B de Leede,,0,1,1,,,,31210231210
+2,Netherlands,11,SL Kalis,SA Wittmann,B de Leede,,0,1,1,,,,31210231210
+2,Netherlands,11,B de Leede,SA Wittmann,SL Kalis,,0,0,0,,,,31210231210
+2,Netherlands,11,B de Leede,SA Wittmann,SL Kalis,,0,4,4,,,,31210231210
+2,Netherlands,11,B de Leede,SA Wittmann,SL Kalis,,0,2,2,,,,31210231210
+2,Netherlands,11,B de Leede,SA Wittmann,SL Kalis,,0,0,0,,,,31210231210
+2,Netherlands,11,B de Leede,SA Wittmann,SL Kalis,,0,0,0,,,,31210231210
+2,Netherlands,12,SL Kalis,W Mwatile,B de Leede,wides,1,1,0,,,,31210231210
+2,Netherlands,12,SL Kalis,W Mwatile,B de Leede,,0,0,0,,,,31210231210
+2,Netherlands,12,SL Kalis,W Mwatile,B de Leede,,0,0,0,caught,SL Kalis,SN Shihepo,31210231210
+2,Netherlands,12,B de Leede,W Mwatile,HDJ Siegers,,0,0,0,,,,31210231210
+2,Netherlands,12,B de Leede,W Mwatile,HDJ Siegers,,0,0,0,,,,31210231210
+2,Netherlands,12,B de Leede,W Mwatile,HDJ Siegers,,0,0,0,,,,31210231210
+2,Netherlands,12,B de Leede,W Mwatile,HDJ Siegers,,0,0,0,caught,B de Leede,KA Green,31210231210
+2,Netherlands,13,HDJ Siegers,SN Shihepo,M Veringmeier,,0,4,4,,,,31210231210
+2,Netherlands,13,HDJ Siegers,SN Shihepo,M Veringmeier,,0,4,4,,,,31210231210
+2,Netherlands,13,HDJ Siegers,SN Shihepo,M Veringmeier,wides,1,1,0,,,,31210231210
+2,Netherlands,13,HDJ Siegers,SN Shihepo,M Veringmeier,,0,4,4,,,,31210231210
+2,Netherlands,13,HDJ Siegers,SN Shihepo,M Veringmeier,,0,0,0,,,,31210231210
+2,Netherlands,13,HDJ Siegers,SN Shihepo,M Veringmeier,,0,4,4,,,,31210231210
+2,Netherlands,13,HDJ Siegers,SN Shihepo,M Veringmeier,,0,4,4,,,,31210231210
+2,Netherlands,14,M Veringmeier,W Mwatile,HDJ Siegers,,0,0,0,,,,31210231210
+2,Netherlands,14,M Veringmeier,W Mwatile,HDJ Siegers,,0,0,0,,,,31210231210
+2,Netherlands,14,M Veringmeier,W Mwatile,HDJ Siegers,,0,0,0,,,,31210231210
+2,Netherlands,14,M Veringmeier,W Mwatile,HDJ Siegers,,0,0,0,,,,31210231210
+2,Netherlands,14,M Veringmeier,W Mwatile,HDJ Siegers,,0,0,0,,,,31210231210
+2,Netherlands,14,M Veringmeier,W Mwatile,HDJ Siegers,,0,1,1,,,,31210231210
+2,Netherlands,15,M Veringmeier,I van Zyl,HDJ Siegers,,0,1,1,,,,31210231210
+2,Netherlands,15,HDJ Siegers,I van Zyl,M Veringmeier,,0,1,1,,,,31210231210
+2,Netherlands,15,M Veringmeier,I van Zyl,HDJ Siegers,,0,1,1,,,,31210231210
+2,Netherlands,15,HDJ Siegers,I van Zyl,M Veringmeier,,0,0,0,caught,HDJ Siegers,A van der Merwe,31210231210
+2,Netherlands,15,M Veringmeier,I van Zyl,R Rijke,,0,0,0,,,,31210231210
+2,Netherlands,15,M Veringmeier,I van Zyl,R Rijke,,0,0,0,,,,31210231210
+2,Netherlands,16,R Rijke,W Mwatile,M Veringmeier,wides,1,1,0,,,,31210231210
+2,Netherlands,16,R Rijke,W Mwatile,M Veringmeier,wides,1,1,0,,,,31210231210
+2,Netherlands,16,R Rijke,W Mwatile,M Veringmeier,,0,0,0,,,,31210231210
+2,Netherlands,16,R Rijke,W Mwatile,M Veringmeier,,0,3,3,,,,31210231210
+2,Netherlands,16,M Veringmeier,W Mwatile,R Rijke,,0,0,0,,,,31210231210
+2,Netherlands,16,M Veringmeier,W Mwatile,R Rijke,,0,1,1,,,,31210231210
+2,Netherlands,16,R Rijke,W Mwatile,M Veringmeier,,0,0,0,,,,31210231210
+2,Netherlands,16,R Rijke,W Mwatile,M Veringmeier,,0,2,2,,,,31210231210
+2,Netherlands,17,M Veringmeier,I van Zyl,R Rijke,,0,4,4,,,,31210231210

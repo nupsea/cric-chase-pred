@@ -1,0 +1,80 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Scotland,0,SJ Bryce,KDU Prabodhani,EL Watson,,0,0,0,,,,31895231895
+2,Scotland,0,SJ Bryce,KDU Prabodhani,EL Watson,,0,1,1,,,,31895231895
+2,Scotland,0,EL Watson,KDU Prabodhani,SJ Bryce,,0,0,0,,,,31895231895
+2,Scotland,0,EL Watson,KDU Prabodhani,SJ Bryce,,0,4,4,,,,31895231895
+2,Scotland,0,EL Watson,KDU Prabodhani,SJ Bryce,,0,0,0,,,,31895231895
+2,Scotland,0,EL Watson,KDU Prabodhani,SJ Bryce,,0,1,1,,,,31895231895
+2,Scotland,1,EL Watson,KADA Kanchana,SJ Bryce,,0,0,0,,,,31895231895
+2,Scotland,1,EL Watson,KADA Kanchana,SJ Bryce,,0,2,2,,,,31895231895
+2,Scotland,1,EL Watson,KADA Kanchana,SJ Bryce,,0,0,0,,,,31895231895
+2,Scotland,1,EL Watson,KADA Kanchana,SJ Bryce,,0,0,0,,,,31895231895
+2,Scotland,1,EL Watson,KADA Kanchana,SJ Bryce,,0,0,0,,,,31895231895
+2,Scotland,1,EL Watson,KADA Kanchana,SJ Bryce,,0,2,2,,,,31895231895
+2,Scotland,2,SJ Bryce,KDU Prabodhani,EL Watson,,0,6,6,,,,31895231895
+2,Scotland,2,SJ Bryce,KDU Prabodhani,EL Watson,,0,0,0,,,,31895231895
+2,Scotland,2,SJ Bryce,KDU Prabodhani,EL Watson,,0,4,4,,,,31895231895
+2,Scotland,2,SJ Bryce,KDU Prabodhani,EL Watson,,0,0,0,caught,SJ Bryce,NND de Silva,31895231895
+2,Scotland,2,KE Bryce,KDU Prabodhani,EL Watson,,0,4,4,,,,31895231895
+2,Scotland,2,KE Bryce,KDU Prabodhani,EL Watson,,0,0,0,,,,31895231895
+2,Scotland,3,EL Watson,KADA Kanchana,KE Bryce,,0,2,2,,,,31895231895
+2,Scotland,3,EL Watson,KADA Kanchana,KE Bryce,,0,4,4,,,,31895231895
+2,Scotland,3,EL Watson,KADA Kanchana,KE Bryce,,0,4,4,,,,31895231895
+2,Scotland,3,EL Watson,KADA Kanchana,KE Bryce,,0,0,0,,,,31895231895
+2,Scotland,3,EL Watson,KADA Kanchana,KE Bryce,wides,1,1,0,,,,31895231895
+2,Scotland,3,EL Watson,KADA Kanchana,KE Bryce,wides,1,1,0,,,,31895231895
+2,Scotland,3,EL Watson,KADA Kanchana,KE Bryce,wides,1,1,0,,,,31895231895
+2,Scotland,3,EL Watson,KADA Kanchana,KE Bryce,,0,1,1,,,,31895231895
+2,Scotland,3,KE Bryce,KADA Kanchana,EL Watson,,0,0,0,,,,31895231895
+2,Scotland,4,EL Watson,I Ranaweera,KE Bryce,,0,0,0,,,,31895231895
+2,Scotland,4,EL Watson,I Ranaweera,KE Bryce,,0,2,2,,,,31895231895
+2,Scotland,4,EL Watson,I Ranaweera,KE Bryce,wides,1,1,0,,,,31895231895
+2,Scotland,4,EL Watson,I Ranaweera,KE Bryce,,0,0,0,,,,31895231895
+2,Scotland,4,EL Watson,I Ranaweera,KE Bryce,,0,1,1,,,,31895231895
+2,Scotland,4,KE Bryce,I Ranaweera,EL Watson,,0,1,1,,,,31895231895
+2,Scotland,4,EL Watson,I Ranaweera,KE Bryce,,0,0,0,,,,31895231895
+2,Scotland,5,KE Bryce,S Nisansala,EL Watson,,0,0,0,,,,31895231895
+2,Scotland,5,KE Bryce,S Nisansala,EL Watson,,0,0,0,,,,31895231895
+2,Scotland,5,KE Bryce,S Nisansala,EL Watson,,0,4,4,,,,31895231895
+2,Scotland,5,KE Bryce,S Nisansala,EL Watson,,0,0,0,bowled,KE Bryce,,31895231895
+2,Scotland,5,K McGill,S Nisansala,EL Watson,,0,2,2,,,,31895231895
+2,Scotland,5,K McGill,S Nisansala,EL Watson,,0,1,1,,,,31895231895
+2,Scotland,6,K McGill,I Ranaweera,EL Watson,wides,1,1,0,,,,31895231895
+2,Scotland,6,K McGill,I Ranaweera,EL Watson,,0,0,0,,,,31895231895
+2,Scotland,6,K McGill,I Ranaweera,EL Watson,,0,1,1,,,,31895231895
+2,Scotland,6,EL Watson,I Ranaweera,K McGill,,0,0,0,,,,31895231895
+2,Scotland,6,EL Watson,I Ranaweera,K McGill,,0,4,4,,,,31895231895
+2,Scotland,6,EL Watson,I Ranaweera,K McGill,,0,2,2,,,,31895231895
+2,Scotland,6,EL Watson,I Ranaweera,K McGill,,0,0,0,,,,31895231895
+2,Scotland,7,K McGill,S Nisansala,EL Watson,,0,2,2,,,,31895231895
+2,Scotland,7,K McGill,S Nisansala,EL Watson,,0,0,0,run out,K McGill,S Nisansala,31895231895
+2,Scotland,7,EL Watson,S Nisansala,A Aitken,,0,0,0,,,,31895231895
+2,Scotland,7,EL Watson,S Nisansala,A Aitken,,0,1,1,retired hurt,EL Watson,,31895231895
+2,Scotland,7,A Aitken,S Nisansala,A Lister,,0,0,0,,,,31895231895
+2,Scotland,7,A Aitken,S Nisansala,A Lister,,0,0,0,,,,31895231895
+2,Scotland,8,A Lister,WK Dilhari,A Aitken,,0,1,1,,,,31895231895
+2,Scotland,8,A Aitken,WK Dilhari,A Lister,,0,0,0,,,,31895231895
+2,Scotland,8,A Aitken,WK Dilhari,A Lister,,0,0,0,,,,31895231895
+2,Scotland,8,A Aitken,WK Dilhari,A Lister,,0,1,1,,,,31895231895
+2,Scotland,8,A Lister,WK Dilhari,A Aitken,,0,1,1,,,,31895231895
+2,Scotland,8,A Aitken,WK Dilhari,A Lister,,0,1,1,,,,31895231895
+2,Scotland,9,A Aitken,KADA Kanchana,A Lister,,0,0,0,lbw,A Aitken,,31895231895
+2,Scotland,9,R Slater,KADA Kanchana,A Lister,,0,0,0,,,,31895231895
+2,Scotland,9,R Slater,KADA Kanchana,A Lister,,0,1,1,,,,31895231895
+2,Scotland,9,A Lister,KADA Kanchana,R Slater,wides,1,1,0,,,,31895231895
+2,Scotland,9,A Lister,KADA Kanchana,R Slater,,0,0,0,,,,31895231895
+2,Scotland,9,A Lister,KADA Kanchana,R Slater,,0,0,0,bowled,A Lister,,31895231895
+2,Scotland,9,K Fraser,KADA Kanchana,R Slater,,0,0,0,,,,31895231895
+2,Scotland,10,R Slater,WK Dilhari,K Fraser,,0,0,0,run out,R Slater,WK Dilhari,31895231895
+2,Scotland,10,K Fraser,WK Dilhari,HRA Rainey,,0,1,1,,,,31895231895
+2,Scotland,10,HRA Rainey,WK Dilhari,K Fraser,,0,0,0,,,,31895231895
+2,Scotland,10,HRA Rainey,WK Dilhari,K Fraser,,0,0,0,,,,31895231895
+2,Scotland,10,HRA Rainey,WK Dilhari,K Fraser,,0,0,0,,,,31895231895
+2,Scotland,10,HRA Rainey,WK Dilhari,K Fraser,,0,0,0,,,,31895231895
+2,Scotland,11,K Fraser,KDU Prabodhani,HRA Rainey,,0,4,4,,,,31895231895
+2,Scotland,11,K Fraser,KDU Prabodhani,HRA Rainey,,0,1,1,,,,31895231895
+2,Scotland,11,HRA Rainey,KDU Prabodhani,K Fraser,,0,0,0,,,,31895231895
+2,Scotland,11,HRA Rainey,KDU Prabodhani,K Fraser,,0,0,0,,,,31895231895
+2,Scotland,11,HRA Rainey,KDU Prabodhani,K Fraser,,0,0,0,bowled,HRA Rainey,,31895231895
+2,Scotland,11,AH Maqsood,KDU Prabodhani,K Fraser,,0,0,0,,,,31895231895
+2,Scotland,12,K Fraser,S Nisansala,AH Maqsood,,0,0,0,bowled,K Fraser,,31895231895

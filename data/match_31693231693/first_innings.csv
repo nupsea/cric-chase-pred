@@ -1,0 +1,54 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Mozambique,0,O Matsolo,I Muhawenimana,C Murrombe,wides,1,1,0,,,,31693231693
+1,Mozambique,0,O Matsolo,I Muhawenimana,C Murrombe,,0,0,0,bowled,O Matsolo,,31693231693
+1,Mozambique,0,P Cuinica,I Muhawenimana,C Murrombe,,0,0,0,,,,31693231693
+1,Mozambique,0,P Cuinica,I Muhawenimana,C Murrombe,,0,0,0,,,,31693231693
+1,Mozambique,0,P Cuinica,I Muhawenimana,C Murrombe,legbyes,1,1,0,,,,31693231693
+1,Mozambique,0,C Murrombe,I Muhawenimana,P Cuinica,,0,0,0,,,,31693231693
+1,Mozambique,0,C Murrombe,I Muhawenimana,P Cuinica,,0,0,0,,,,31693231693
+1,Mozambique,1,P Cuinica,B Murekatete,C Murrombe,wides,2,2,0,,,,31693231693
+1,Mozambique,1,C Murrombe,B Murekatete,P Cuinica,,0,0,0,,,,31693231693
+1,Mozambique,1,C Murrombe,B Murekatete,P Cuinica,,0,0,0,,,,31693231693
+1,Mozambique,1,C Murrombe,B Murekatete,P Cuinica,,0,0,0,caught and bowled,C Murrombe,,31693231693
+1,Mozambique,1,C Magaia,B Murekatete,P Cuinica,wides,1,1,0,,,,31693231693
+1,Mozambique,1,C Magaia,B Murekatete,P Cuinica,,0,0,0,,,,31693231693
+1,Mozambique,1,C Magaia,B Murekatete,P Cuinica,,0,0,0,,,,31693231693
+1,Mozambique,1,C Magaia,B Murekatete,P Cuinica,,0,0,0,,,,31693231693
+1,Mozambique,2,P Cuinica,I Muhawenimana,C Magaia,,0,0,0,,,,31693231693
+1,Mozambique,2,P Cuinica,I Muhawenimana,C Magaia,,0,0,0,,,,31693231693
+1,Mozambique,2,P Cuinica,I Muhawenimana,C Magaia,,0,1,1,,,,31693231693
+1,Mozambique,2,C Magaia,I Muhawenimana,P Cuinica,,0,0,0,lbw,C Magaia,,31693231693
+1,Mozambique,2,TJE Chiracheque,I Muhawenimana,P Cuinica,noballs,1,1,0,,,,31693231693
+1,Mozambique,2,TJE Chiracheque,I Muhawenimana,P Cuinica,,0,0,0,,,,31693231693
+1,Mozambique,2,TJE Chiracheque,I Muhawenimana,P Cuinica,noballs,1,1,0,,,,31693231693
+1,Mozambique,2,TJE Chiracheque,I Muhawenimana,P Cuinica,,0,0,0,,,,31693231693
+1,Mozambique,3,P Cuinica,B Murekatete,TJE Chiracheque,,0,0,0,,,,31693231693
+1,Mozambique,3,P Cuinica,B Murekatete,TJE Chiracheque,,0,0,0,bowled,P Cuinica,,31693231693
+1,Mozambique,3,A Cossa,B Murekatete,TJE Chiracheque,,0,0,0,,,,31693231693
+1,Mozambique,3,A Cossa,B Murekatete,TJE Chiracheque,,0,0,0,,,,31693231693
+1,Mozambique,3,A Cossa,B Murekatete,TJE Chiracheque,,0,1,1,,,,31693231693
+1,Mozambique,3,TJE Chiracheque,B Murekatete,A Cossa,,0,0,0,,,,31693231693
+1,Mozambique,4,A Cossa,I Muhawenimana,TJE Chiracheque,,0,0,0,,,,31693231693
+1,Mozambique,4,A Cossa,I Muhawenimana,TJE Chiracheque,,0,0,0,,,,31693231693
+1,Mozambique,4,A Cossa,I Muhawenimana,TJE Chiracheque,,0,0,0,bowled,A Cossa,,31693231693
+1,Mozambique,4,I Chuma,I Muhawenimana,TJE Chiracheque,,0,1,1,,,,31693231693
+1,Mozambique,4,TJE Chiracheque,I Muhawenimana,I Chuma,wides,1,1,0,,,,31693231693
+1,Mozambique,4,TJE Chiracheque,I Muhawenimana,I Chuma,,0,0,0,lbw,TJE Chiracheque,,31693231693
+1,Mozambique,4,R Haiong,I Muhawenimana,I Chuma,,0,0,0,run out,I Chuma,G Ishimwe,31693231693
+1,Mozambique,5,R Haiong,B Murekatete,OC Moiane,,0,0,0,,,,31693231693
+1,Mozambique,5,R Haiong,B Murekatete,OC Moiane,,0,0,0,,,,31693231693
+1,Mozambique,5,R Haiong,B Murekatete,OC Moiane,,0,1,1,,,,31693231693
+1,Mozambique,5,OC Moiane,B Murekatete,R Haiong,,0,0,0,,,,31693231693
+1,Mozambique,5,OC Moiane,B Murekatete,R Haiong,wides,1,1,0,,,,31693231693
+1,Mozambique,5,OC Moiane,B Murekatete,R Haiong,,0,2,2,,,,31693231693
+1,Mozambique,5,OC Moiane,B Murekatete,R Haiong,,0,1,1,run out,OC Moiane,A Uwimbabazi,31693231693
+1,Mozambique,6,R Haiong,H Ishimwe,HR Ponja,,0,0,0,caught,R Haiong,S Uwera,31693231693
+1,Mozambique,6,HR Ponja,H Ishimwe,AL Mangue,,0,0,0,,,,31693231693
+1,Mozambique,6,HR Ponja,H Ishimwe,AL Mangue,,0,0,0,,,,31693231693
+1,Mozambique,6,HR Ponja,H Ishimwe,AL Mangue,,0,0,0,,,,31693231693
+1,Mozambique,6,HR Ponja,H Ishimwe,AL Mangue,,0,0,0,,,,31693231693
+1,Mozambique,6,HR Ponja,H Ishimwe,AL Mangue,,0,0,0,,,,31693231693
+1,Mozambique,7,AL Mangue,A Ikuzwe,HR Ponja,,0,0,0,,,,31693231693
+1,Mozambique,7,AL Mangue,A Ikuzwe,HR Ponja,wides,1,1,0,,,,31693231693
+1,Mozambique,7,AL Mangue,A Ikuzwe,HR Ponja,,0,0,0,,,,31693231693
+1,Mozambique,7,AL Mangue,A Ikuzwe,HR Ponja,,0,0,0,bowled,AL Mangue,,31693231693

@@ -1,0 +1,129 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,India,0,RG Sharma,KJ Abbott,S Dhawan,,0,0,0,,,,354823548
+1,India,0,RG Sharma,KJ Abbott,S Dhawan,,0,0,0,,,,354823548
+1,India,0,RG Sharma,KJ Abbott,S Dhawan,,0,0,0,,,,354823548
+1,India,0,RG Sharma,KJ Abbott,S Dhawan,,0,0,0,,,,354823548
+1,India,0,RG Sharma,KJ Abbott,S Dhawan,,0,4,4,,,,354823548
+1,India,0,RG Sharma,KJ Abbott,S Dhawan,,0,0,0,,,,354823548
+1,India,1,S Dhawan,K Rabada,RG Sharma,wides,1,1,0,,,,354823548
+1,India,1,S Dhawan,K Rabada,RG Sharma,,0,1,1,,,,354823548
+1,India,1,RG Sharma,K Rabada,S Dhawan,,0,0,0,,,,354823548
+1,India,1,RG Sharma,K Rabada,S Dhawan,,0,0,0,,,,354823548
+1,India,1,RG Sharma,K Rabada,S Dhawan,,0,0,0,,,,354823548
+1,India,1,RG Sharma,K Rabada,S Dhawan,,0,4,4,,,,354823548
+1,India,1,RG Sharma,K Rabada,S Dhawan,,0,1,1,,,,354823548
+1,India,2,RG Sharma,M de Lange,S Dhawan,,0,1,1,,,,354823548
+1,India,2,S Dhawan,M de Lange,RG Sharma,,0,0,0,,,,354823548
+1,India,2,S Dhawan,M de Lange,RG Sharma,,0,1,1,,,,354823548
+1,India,2,RG Sharma,M de Lange,S Dhawan,,0,4,4,,,,354823548
+1,India,2,RG Sharma,M de Lange,S Dhawan,,0,0,0,,,,354823548
+1,India,2,RG Sharma,M de Lange,S Dhawan,,0,4,4,,,,354823548
+1,India,3,S Dhawan,K Rabada,RG Sharma,,0,1,1,run out,S Dhawan,AB de Villiers,354823548
+1,India,3,V Kohli,K Rabada,RG Sharma,,0,0,0,,,,354823548
+1,India,3,V Kohli,K Rabada,RG Sharma,,0,1,1,,,,354823548
+1,India,3,RG Sharma,K Rabada,V Kohli,,0,0,0,,,,354823548
+1,India,3,RG Sharma,K Rabada,V Kohli,legbyes,1,1,0,,,,354823548
+1,India,3,V Kohli,K Rabada,RG Sharma,,0,1,1,,,,354823548
+1,India,4,V Kohli,M de Lange,RG Sharma,,0,1,1,,,,354823548
+1,India,4,RG Sharma,M de Lange,V Kohli,,0,0,0,,,,354823548
+1,India,4,RG Sharma,M de Lange,V Kohli,,0,4,4,,,,354823548
+1,India,4,RG Sharma,M de Lange,V Kohli,,0,2,2,,,,354823548
+1,India,4,RG Sharma,M de Lange,V Kohli,,0,0,0,,,,354823548
+1,India,4,RG Sharma,M de Lange,V Kohli,,0,0,0,,,,354823548
+1,India,5,V Kohli,CH Morris,RG Sharma,wides,1,1,0,,,,354823548
+1,India,5,V Kohli,CH Morris,RG Sharma,,0,1,1,,,,354823548
+1,India,5,RG Sharma,CH Morris,V Kohli,,0,0,0,,,,354823548
+1,India,5,RG Sharma,CH Morris,V Kohli,,0,4,4,,,,354823548
+1,India,5,RG Sharma,CH Morris,V Kohli,,0,1,1,,,,354823548
+1,India,5,V Kohli,CH Morris,RG Sharma,,0,1,1,,,,354823548
+1,India,5,RG Sharma,CH Morris,V Kohli,,0,6,6,,,,354823548
+1,India,6,V Kohli,Imran Tahir,RG Sharma,,0,1,1,,,,354823548
+1,India,6,RG Sharma,Imran Tahir,V Kohli,,0,0,0,,,,354823548
+1,India,6,RG Sharma,Imran Tahir,V Kohli,,0,2,2,,,,354823548
+1,India,6,RG Sharma,Imran Tahir,V Kohli,,0,1,1,,,,354823548
+1,India,6,V Kohli,Imran Tahir,RG Sharma,,0,1,1,,,,354823548
+1,India,6,RG Sharma,Imran Tahir,V Kohli,,0,0,0,,,,354823548
+1,India,7,V Kohli,CH Morris,RG Sharma,,0,6,6,,,,354823548
+1,India,7,V Kohli,CH Morris,RG Sharma,,0,4,4,,,,354823548
+1,India,7,V Kohli,CH Morris,RG Sharma,,0,1,1,,,,354823548
+1,India,7,RG Sharma,CH Morris,V Kohli,,0,1,1,,,,354823548
+1,India,7,V Kohli,CH Morris,RG Sharma,,0,1,1,,,,354823548
+1,India,7,RG Sharma,CH Morris,V Kohli,,0,1,1,,,,354823548
+1,India,8,RG Sharma,Imran Tahir,V Kohli,,0,1,1,,,,354823548
+1,India,8,V Kohli,Imran Tahir,RG Sharma,,0,1,1,,,,354823548
+1,India,8,RG Sharma,Imran Tahir,V Kohli,,0,4,4,,,,354823548
+1,India,8,RG Sharma,Imran Tahir,V Kohli,,0,0,0,,,,354823548
+1,India,8,RG Sharma,Imran Tahir,V Kohli,legbyes,1,1,0,,,,354823548
+1,India,8,V Kohli,Imran Tahir,RG Sharma,wides,2,2,0,,,,354823548
+1,India,8,RG Sharma,Imran Tahir,V Kohli,,0,1,1,,,,354823548
+1,India,9,RG Sharma,KJ Abbott,V Kohli,,0,1,1,,,,354823548
+1,India,9,V Kohli,KJ Abbott,RG Sharma,,0,1,1,,,,354823548
+1,India,9,RG Sharma,KJ Abbott,V Kohli,,0,4,4,,,,354823548
+1,India,9,RG Sharma,KJ Abbott,V Kohli,,0,0,0,,,,354823548
+1,India,9,RG Sharma,KJ Abbott,V Kohli,,0,4,4,,,,354823548
+1,India,9,RG Sharma,KJ Abbott,V Kohli,,0,1,1,,,,354823548
+1,India,10,RG Sharma,JP Duminy,V Kohli,,0,1,1,,,,354823548
+1,India,10,V Kohli,JP Duminy,RG Sharma,,0,1,1,,,,354823548
+1,India,10,RG Sharma,JP Duminy,V Kohli,,0,2,2,,,,354823548
+1,India,10,RG Sharma,JP Duminy,V Kohli,,0,1,1,,,,354823548
+1,India,10,V Kohli,JP Duminy,RG Sharma,wides,1,1,0,,,,354823548
+1,India,10,V Kohli,JP Duminy,RG Sharma,,0,1,1,,,,354823548
+1,India,10,RG Sharma,JP Duminy,V Kohli,,0,1,1,,,,354823548
+1,India,11,RG Sharma,Imran Tahir,V Kohli,,0,6,6,,,,354823548
+1,India,11,RG Sharma,Imran Tahir,V Kohli,,0,1,1,,,,354823548
+1,India,11,V Kohli,Imran Tahir,RG Sharma,,0,6,6,,,,354823548
+1,India,11,V Kohli,Imran Tahir,RG Sharma,,0,6,6,,,,354823548
+1,India,11,V Kohli,Imran Tahir,RG Sharma,,0,1,1,,,,354823548
+1,India,11,RG Sharma,Imran Tahir,V Kohli,,0,1,1,,,,354823548
+1,India,12,RG Sharma,K Rabada,V Kohli,,0,6,6,,,,354823548
+1,India,12,RG Sharma,K Rabada,V Kohli,,0,1,1,,,,354823548
+1,India,12,V Kohli,K Rabada,RG Sharma,,0,1,1,,,,354823548
+1,India,12,RG Sharma,K Rabada,V Kohli,,0,6,6,,,,354823548
+1,India,12,RG Sharma,K Rabada,V Kohli,,0,0,0,,,,354823548
+1,India,12,RG Sharma,K Rabada,V Kohli,,0,0,0,,,,354823548
+1,India,13,V Kohli,CH Morris,RG Sharma,,0,1,1,,,,354823548
+1,India,13,RG Sharma,CH Morris,V Kohli,,0,0,0,,,,354823548
+1,India,13,RG Sharma,CH Morris,V Kohli,,0,4,4,,,,354823548
+1,India,13,RG Sharma,CH Morris,V Kohli,,0,4,4,,,,354823548
+1,India,13,RG Sharma,CH Morris,V Kohli,,0,1,1,,,,354823548
+1,India,13,V Kohli,CH Morris,RG Sharma,,0,1,1,,,,354823548
+1,India,14,V Kohli,M de Lange,RG Sharma,,0,1,1,,,,354823548
+1,India,14,RG Sharma,M de Lange,V Kohli,,0,1,1,,,,354823548
+1,India,14,V Kohli,M de Lange,RG Sharma,wides,1,1,0,,,,354823548
+1,India,14,V Kohli,M de Lange,RG Sharma,,0,1,1,,,,354823548
+1,India,14,RG Sharma,M de Lange,V Kohli,noballs,1,2,1,,,,354823548
+1,India,14,V Kohli,M de Lange,RG Sharma,,0,1,1,,,,354823548
+1,India,14,RG Sharma,M de Lange,V Kohli,wides,1,1,0,,,,354823548
+1,India,14,RG Sharma,M de Lange,V Kohli,,0,4,4,,,,354823548
+1,India,14,RG Sharma,M de Lange,V Kohli,,0,6,6,,,,354823548
+1,India,15,V Kohli,KJ Abbott,RG Sharma,,0,1,1,,,,354823548
+1,India,15,RG Sharma,KJ Abbott,V Kohli,,0,1,1,,,,354823548
+1,India,15,V Kohli,KJ Abbott,RG Sharma,,0,0,0,caught,V Kohli,JP Duminy,354823548
+1,India,15,RG Sharma,KJ Abbott,SK Raina,,0,0,0,,,,354823548
+1,India,15,RG Sharma,KJ Abbott,SK Raina,,0,2,2,,,,354823548
+1,India,15,RG Sharma,KJ Abbott,SK Raina,,0,0,0,caught,RG Sharma,CH Morris,354823548
+1,India,16,MS Dhoni,K Rabada,SK Raina,,0,0,0,,,,354823548
+1,India,16,MS Dhoni,K Rabada,SK Raina,,0,0,0,,,,354823548
+1,India,16,MS Dhoni,K Rabada,SK Raina,wides,1,1,0,,,,354823548
+1,India,16,MS Dhoni,K Rabada,SK Raina,,0,1,1,,,,354823548
+1,India,16,SK Raina,K Rabada,MS Dhoni,,0,0,0,,,,354823548
+1,India,16,SK Raina,K Rabada,MS Dhoni,,0,6,6,,,,354823548
+1,India,16,SK Raina,K Rabada,MS Dhoni,,0,0,0,,,,354823548
+1,India,17,MS Dhoni,M de Lange,SK Raina,,0,4,4,,,,354823548
+1,India,17,MS Dhoni,M de Lange,SK Raina,,0,0,0,,,,354823548
+1,India,17,MS Dhoni,M de Lange,SK Raina,,0,1,1,,,,354823548
+1,India,17,SK Raina,M de Lange,MS Dhoni,,0,6,6,,,,354823548
+1,India,17,SK Raina,M de Lange,MS Dhoni,,0,0,0,,,,354823548
+1,India,17,SK Raina,M de Lange,MS Dhoni,,0,1,1,,,,354823548
+1,India,18,SK Raina,CH Morris,MS Dhoni,,0,1,1,,,,354823548
+1,India,18,MS Dhoni,CH Morris,SK Raina,,0,1,1,,,,354823548
+1,India,18,SK Raina,CH Morris,MS Dhoni,,0,0,0,lbw,SK Raina,,354823548
+1,India,18,AT Rayudu,CH Morris,MS Dhoni,,0,0,0,run out,AT Rayudu,CH Morris,354823548
+1,India,18,MS Dhoni,CH Morris,AR Patel,,0,4,4,,,,354823548
+1,India,18,MS Dhoni,CH Morris,AR Patel,,0,1,1,,,,354823548
+1,India,19,MS Dhoni,KJ Abbott,AR Patel,,0,1,1,,,,354823548
+1,India,19,AR Patel,KJ Abbott,MS Dhoni,,0,1,1,,,,354823548
+1,India,19,MS Dhoni,KJ Abbott,AR Patel,,0,1,1,,,,354823548
+1,India,19,AR Patel,KJ Abbott,MS Dhoni,,0,0,0,,,,354823548
+1,India,19,AR Patel,KJ Abbott,MS Dhoni,,0,1,1,,,,354823548
+1,India,19,MS Dhoni,KJ Abbott,AR Patel,,0,6,6,,,,354823548

@@ -1,0 +1,58 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,West Indies,0,ADS Fletcher,Mehedi Hasan Miraz,E Lewis,,0,1,1,,,,386423864
+2,West Indies,0,E Lewis,Mehedi Hasan Miraz,ADS Fletcher,,0,0,0,,,,386423864
+2,West Indies,0,E Lewis,Mehedi Hasan Miraz,ADS Fletcher,,0,1,1,,,,386423864
+2,West Indies,0,ADS Fletcher,Mehedi Hasan Miraz,E Lewis,,0,6,6,,,,386423864
+2,West Indies,0,ADS Fletcher,Mehedi Hasan Miraz,E Lewis,byes,1,1,0,,,,386423864
+2,West Indies,0,E Lewis,Mehedi Hasan Miraz,ADS Fletcher,,0,1,1,,,,386423864
+2,West Indies,1,E Lewis,Mustafizur Rahman,ADS Fletcher,,0,0,0,,,,386423864
+2,West Indies,1,E Lewis,Mustafizur Rahman,ADS Fletcher,,0,0,0,caught,E Lewis,Liton Das,386423864
+2,West Indies,1,ADS Fletcher,Mustafizur Rahman,AD Russell,,0,0,0,,,,386423864
+2,West Indies,1,ADS Fletcher,Mustafizur Rahman,AD Russell,,0,0,0,,,,386423864
+2,West Indies,1,ADS Fletcher,Mustafizur Rahman,AD Russell,,0,0,0,,,,386423864
+2,West Indies,1,ADS Fletcher,Mustafizur Rahman,AD Russell,,0,0,0,caught,ADS Fletcher,Mushfiqur Rahim,386423864
+2,West Indies,2,AD Russell,Shakib Al Hasan,MN Samuels,,0,0,0,,,,386423864
+2,West Indies,2,AD Russell,Shakib Al Hasan,MN Samuels,,0,1,1,,,,386423864
+2,West Indies,2,MN Samuels,Shakib Al Hasan,AD Russell,,0,0,0,,,,386423864
+2,West Indies,2,MN Samuels,Shakib Al Hasan,AD Russell,wides,1,1,0,,,,386423864
+2,West Indies,2,MN Samuels,Shakib Al Hasan,AD Russell,,0,4,4,,,,386423864
+2,West Indies,2,MN Samuels,Shakib Al Hasan,AD Russell,,0,1,1,,,,386423864
+2,West Indies,2,AD Russell,Shakib Al Hasan,MN Samuels,,0,0,0,,,,386423864
+2,West Indies,3,MN Samuels,Nazmul Islam,AD Russell,,0,2,2,,,,386423864
+2,West Indies,3,MN Samuels,Nazmul Islam,AD Russell,,0,0,0,,,,386423864
+2,West Indies,3,MN Samuels,Nazmul Islam,AD Russell,,0,6,6,,,,386423864
+2,West Indies,3,MN Samuels,Nazmul Islam,AD Russell,,0,1,1,,,,386423864
+2,West Indies,3,AD Russell,Nazmul Islam,MN Samuels,legbyes,1,1,0,,,,386423864
+2,West Indies,3,MN Samuels,Nazmul Islam,AD Russell,,0,0,0,,,,386423864
+2,West Indies,4,AD Russell,Shakib Al Hasan,MN Samuels,,0,6,6,,,,386423864
+2,West Indies,4,AD Russell,Shakib Al Hasan,MN Samuels,,0,0,0,,,,386423864
+2,West Indies,4,AD Russell,Shakib Al Hasan,MN Samuels,,0,1,1,,,,386423864
+2,West Indies,4,MN Samuels,Shakib Al Hasan,AD Russell,,0,6,6,,,,386423864
+2,West Indies,4,MN Samuels,Shakib Al Hasan,AD Russell,,0,1,1,,,,386423864
+2,West Indies,4,AD Russell,Shakib Al Hasan,MN Samuels,,0,0,0,,,,386423864
+2,West Indies,5,MN Samuels,Rubel Hossain,AD Russell,wides,5,5,0,,,,386423864
+2,West Indies,5,MN Samuels,Rubel Hossain,AD Russell,,0,4,4,,,,386423864
+2,West Indies,5,MN Samuels,Rubel Hossain,AD Russell,,0,1,1,,,,386423864
+2,West Indies,5,AD Russell,Rubel Hossain,MN Samuels,,0,1,1,,,,386423864
+2,West Indies,5,MN Samuels,Rubel Hossain,AD Russell,,0,0,0,caught,MN Samuels,Mahmudullah,386423864
+2,West Indies,5,AD Russell,Rubel Hossain,R Powell,,0,1,1,,,,386423864
+2,West Indies,5,R Powell,Rubel Hossain,AD Russell,,0,0,0,,,,386423864
+2,West Indies,6,AD Russell,Mustafizur Rahman,R Powell,,0,0,0,,,,386423864
+2,West Indies,6,AD Russell,Mustafizur Rahman,R Powell,,0,4,4,,,,386423864
+2,West Indies,6,AD Russell,Mustafizur Rahman,R Powell,,0,6,6,,,,386423864
+2,West Indies,6,AD Russell,Mustafizur Rahman,R Powell,,0,4,4,,,,386423864
+2,West Indies,6,AD Russell,Mustafizur Rahman,R Powell,,0,0,0,,,,386423864
+2,West Indies,6,AD Russell,Mustafizur Rahman,R Powell,,0,4,4,,,,386423864
+2,West Indies,7,R Powell,Nazmul Islam,AD Russell,,0,1,1,,,,386423864
+2,West Indies,7,AD Russell,Nazmul Islam,R Powell,,0,0,0,,,,386423864
+2,West Indies,7,AD Russell,Nazmul Islam,R Powell,,0,1,1,,,,386423864
+2,West Indies,7,R Powell,Nazmul Islam,AD Russell,,0,6,6,,,,386423864
+2,West Indies,7,R Powell,Nazmul Islam,AD Russell,,0,1,1,,,,386423864
+2,West Indies,7,AD Russell,Nazmul Islam,R Powell,,0,6,6,,,,386423864
+2,West Indies,8,R Powell,Rubel Hossain,AD Russell,,0,0,0,,,,386423864
+2,West Indies,8,R Powell,Rubel Hossain,AD Russell,,0,0,0,,,,386423864
+2,West Indies,8,R Powell,Rubel Hossain,AD Russell,,0,0,0,,,,386423864
+2,West Indies,8,R Powell,Rubel Hossain,AD Russell,,0,1,1,,,,386423864
+2,West Indies,8,AD Russell,Rubel Hossain,R Powell,,0,0,0,,,,386423864
+2,West Indies,8,AD Russell,Rubel Hossain,R Powell,,0,0,0,,,,386423864
+2,West Indies,9,R Powell,Shakib Al Hasan,AD Russell,,0,6,6,,,,386423864

@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Ireland,0,WTS Porterfield,Mashrafe Mortaza,PR Stirling,,0,0,0,,,,329823298
+2,Ireland,0,WTS Porterfield,Mashrafe Mortaza,PR Stirling,,0,1,1,,,,329823298
+2,Ireland,0,PR Stirling,Mashrafe Mortaza,WTS Porterfield,legbyes,1,1,0,,,,329823298
+2,Ireland,0,WTS Porterfield,Mashrafe Mortaza,PR Stirling,,0,6,6,,,,329823298
+2,Ireland,0,WTS Porterfield,Mashrafe Mortaza,PR Stirling,,0,0,0,,,,329823298
+2,Ireland,0,WTS Porterfield,Mashrafe Mortaza,PR Stirling,wides,1,1,0,,,,329823298
+2,Ireland,0,WTS Porterfield,Mashrafe Mortaza,PR Stirling,,0,1,1,,,,329823298
+2,Ireland,1,WTS Porterfield,Abul Hasan,PR Stirling,,0,4,4,,,,329823298
+2,Ireland,1,WTS Porterfield,Abul Hasan,PR Stirling,,0,6,6,,,,329823298
+2,Ireland,1,WTS Porterfield,Abul Hasan,PR Stirling,,0,4,4,,,,329823298
+2,Ireland,1,WTS Porterfield,Abul Hasan,PR Stirling,,0,0,0,,,,329823298
+2,Ireland,1,WTS Porterfield,Abul Hasan,PR Stirling,,0,0,0,,,,329823298
+2,Ireland,1,WTS Porterfield,Abul Hasan,PR Stirling,,0,1,1,,,,329823298
+2,Ireland,2,WTS Porterfield,Shakib Al Hasan,PR Stirling,,0,1,1,,,,329823298
+2,Ireland,2,PR Stirling,Shakib Al Hasan,WTS Porterfield,,0,2,2,,,,329823298
+2,Ireland,2,PR Stirling,Shakib Al Hasan,WTS Porterfield,,0,1,1,,,,329823298
+2,Ireland,2,WTS Porterfield,Shakib Al Hasan,PR Stirling,,0,0,0,,,,329823298
+2,Ireland,2,WTS Porterfield,Shakib Al Hasan,PR Stirling,,0,1,1,,,,329823298
+2,Ireland,2,PR Stirling,Shakib Al Hasan,WTS Porterfield,,0,0,0,,,,329823298
+2,Ireland,3,WTS Porterfield,Abdur Razzak,PR Stirling,,0,1,1,,,,329823298
+2,Ireland,3,PR Stirling,Abdur Razzak,WTS Porterfield,,0,0,0,,,,329823298
+2,Ireland,3,PR Stirling,Abdur Razzak,WTS Porterfield,,0,1,1,,,,329823298
+2,Ireland,3,WTS Porterfield,Abdur Razzak,PR Stirling,,0,0,0,stumped,WTS Porterfield,Mushfiqur Rahim,329823298
+2,Ireland,3,EC Joyce,Abdur Razzak,PR Stirling,,0,0,0,,,,329823298
+2,Ireland,3,EC Joyce,Abdur Razzak,PR Stirling,,0,2,2,,,,329823298
+2,Ireland,4,PR Stirling,Shakib Al Hasan,EC Joyce,,0,0,0,,,,329823298
+2,Ireland,4,PR Stirling,Shakib Al Hasan,EC Joyce,,0,0,0,run out,PR Stirling,Abdur Razzak,329823298
+2,Ireland,4,EC Joyce,Shakib Al Hasan,NJ O'Brien,,0,1,1,,,,329823298
+2,Ireland,4,NJ O'Brien,Shakib Al Hasan,EC Joyce,,0,0,0,,,,329823298
+2,Ireland,4,NJ O'Brien,Shakib Al Hasan,EC Joyce,,0,0,0,,,,329823298
+2,Ireland,4,NJ O'Brien,Shakib Al Hasan,EC Joyce,,0,0,0,,,,329823298
+2,Ireland,5,EC Joyce,Mahmudullah,NJ O'Brien,,0,0,0,,,,329823298
+2,Ireland,5,EC Joyce,Mahmudullah,NJ O'Brien,,0,0,0,,,,329823298
+2,Ireland,5,EC Joyce,Mahmudullah,NJ O'Brien,,0,2,2,,,,329823298
+2,Ireland,5,EC Joyce,Mahmudullah,NJ O'Brien,wides,3,3,0,,,,329823298
+2,Ireland,5,EC Joyce,Mahmudullah,NJ O'Brien,,0,0,0,,,,329823298
+2,Ireland,5,EC Joyce,Mahmudullah,NJ O'Brien,,0,0,0,,,,329823298
+2,Ireland,5,EC Joyce,Mahmudullah,NJ O'Brien,,0,1,1,,,,329823298
+2,Ireland,6,EC Joyce,Abdur Razzak,NJ O'Brien,wides,1,1,0,,,,329823298
+2,Ireland,6,EC Joyce,Abdur Razzak,NJ O'Brien,,0,1,1,,,,329823298
+2,Ireland,6,NJ O'Brien,Abdur Razzak,EC Joyce,,0,1,1,,,,329823298
+2,Ireland,6,EC Joyce,Abdur Razzak,NJ O'Brien,,0,0,0,,,,329823298
+2,Ireland,6,EC Joyce,Abdur Razzak,NJ O'Brien,,0,0,0,,,,329823298
+2,Ireland,6,EC Joyce,Abdur Razzak,NJ O'Brien,legbyes,1,1,0,,,,329823298
+2,Ireland,7,EC Joyce,Mashrafe Mortaza,NJ O'Brien,,0,0,0,,,,329823298
+2,Ireland,7,EC Joyce,Mashrafe Mortaza,NJ O'Brien,,0,3,3,,,,329823298
+2,Ireland,7,NJ O'Brien,Mashrafe Mortaza,EC Joyce,,0,0,0,,,,329823298
+2,Ireland,7,NJ O'Brien,Mashrafe Mortaza,EC Joyce,,0,6,6,,,,329823298
+2,Ireland,7,NJ O'Brien,Mashrafe Mortaza,EC Joyce,,0,1,1,,,,329823298
+2,Ireland,7,EC Joyce,Mashrafe Mortaza,NJ O'Brien,,0,1,1,,,,329823298
+2,Ireland,8,EC Joyce,Elias Sunny,NJ O'Brien,,0,0,0,,,,329823298
+2,Ireland,8,EC Joyce,Elias Sunny,NJ O'Brien,,0,0,0,caught,EC Joyce,Mohammad Ashraful,329823298
+2,Ireland,8,NJ O'Brien,Elias Sunny,KJ O'Brien,,0,0,0,stumped,NJ O'Brien,Mushfiqur Rahim,329823298
+2,Ireland,8,GC Wilson,Elias Sunny,KJ O'Brien,,0,0,0,,,,329823298
+2,Ireland,8,GC Wilson,Elias Sunny,KJ O'Brien,,0,0,0,,,,329823298
+2,Ireland,8,GC Wilson,Elias Sunny,KJ O'Brien,,0,0,0,,,,329823298
+2,Ireland,9,KJ O'Brien,Abdur Razzak,GC Wilson,,0,0,0,,,,329823298
+2,Ireland,9,KJ O'Brien,Abdur Razzak,GC Wilson,,0,0,0,bowled,KJ O'Brien,,329823298
+2,Ireland,9,JF Mooney,Abdur Razzak,GC Wilson,wides,1,1,0,,,,329823298
+2,Ireland,9,JF Mooney,Abdur Razzak,GC Wilson,,0,0,0,,,,329823298
+2,Ireland,9,JF Mooney,Abdur Razzak,GC Wilson,,0,0,0,,,,329823298
+2,Ireland,9,JF Mooney,Abdur Razzak,GC Wilson,,0,0,0,,,,329823298
+2,Ireland,9,JF Mooney,Abdur Razzak,GC Wilson,,0,0,0,,,,329823298
+2,Ireland,10,GC Wilson,Elias Sunny,JF Mooney,,0,1,1,,,,329823298
+2,Ireland,10,JF Mooney,Elias Sunny,GC Wilson,,0,1,1,,,,329823298
+2,Ireland,10,GC Wilson,Elias Sunny,JF Mooney,,0,1,1,,,,329823298
+2,Ireland,10,JF Mooney,Elias Sunny,GC Wilson,,0,0,0,bowled,JF Mooney,,329823298
+2,Ireland,10,AR Cusack,Elias Sunny,GC Wilson,,0,0,0,,,,329823298
+2,Ireland,10,AR Cusack,Elias Sunny,GC Wilson,,0,0,0,,,,329823298
+2,Ireland,11,GC Wilson,Abdur Razzak,AR Cusack,,0,0,0,,,,329823298
+2,Ireland,11,GC Wilson,Abdur Razzak,AR Cusack,,0,0,0,,,,329823298
+2,Ireland,11,GC Wilson,Abdur Razzak,AR Cusack,,0,0,0,,,,329823298
+2,Ireland,11,GC Wilson,Abdur Razzak,AR Cusack,,0,0,0,,,,329823298
+2,Ireland,11,GC Wilson,Abdur Razzak,AR Cusack,,0,1,1,,,,329823298
+2,Ireland,11,AR Cusack,Abdur Razzak,GC Wilson,,0,0,0,,,,329823298
+2,Ireland,12,GC Wilson,Elias Sunny,AR Cusack,,0,1,1,,,,329823298
+2,Ireland,12,AR Cusack,Elias Sunny,GC Wilson,,0,0,0,,,,329823298
+2,Ireland,12,AR Cusack,Elias Sunny,GC Wilson,,0,1,1,,,,329823298
+2,Ireland,12,GC Wilson,Elias Sunny,AR Cusack,,0,1,1,,,,329823298
+2,Ireland,12,AR Cusack,Elias Sunny,GC Wilson,,0,0,0,,,,329823298
+2,Ireland,12,AR Cusack,Elias Sunny,GC Wilson,,0,0,0,bowled,AR Cusack,,329823298
+2,Ireland,13,GC Wilson,Abul Hasan,DT Johnston,,0,0,0,,,,329823298
+2,Ireland,13,GC Wilson,Abul Hasan,DT Johnston,,0,1,1,,,,329823298
+2,Ireland,13,DT Johnston,Abul Hasan,GC Wilson,,0,0,0,,,,329823298
+2,Ireland,13,DT Johnston,Abul Hasan,GC Wilson,,0,3,3,,,,329823298
+2,Ireland,13,GC Wilson,Abul Hasan,DT Johnston,,0,0,0,,,,329823298
+2,Ireland,13,GC Wilson,Abul Hasan,DT Johnston,,0,0,0,,,,329823298
+2,Ireland,14,DT Johnston,Elias Sunny,GC Wilson,,0,0,0,,,,329823298
+2,Ireland,14,DT Johnston,Elias Sunny,GC Wilson,,0,4,4,,,,329823298
+2,Ireland,14,DT Johnston,Elias Sunny,GC Wilson,,0,0,0,caught,DT Johnston,Abdur Razzak,329823298
+2,Ireland,14,GC Wilson,Elias Sunny,MC Sorensen,,0,2,2,,,,329823298
+2,Ireland,14,GC Wilson,Elias Sunny,MC Sorensen,,0,1,1,,,,329823298
+2,Ireland,14,MC Sorensen,Elias Sunny,GC Wilson,,0,0,0,,,,329823298
+2,Ireland,15,GC Wilson,Abul Hasan,MC Sorensen,,0,2,2,,,,329823298
+2,Ireland,15,GC Wilson,Abul Hasan,MC Sorensen,,0,0,0,,,,329823298
+2,Ireland,15,GC Wilson,Abul Hasan,MC Sorensen,,0,4,4,,,,329823298
+2,Ireland,15,GC Wilson,Abul Hasan,MC Sorensen,,0,0,0,,,,329823298
+2,Ireland,15,GC Wilson,Abul Hasan,MC Sorensen,,0,1,1,,,,329823298
+2,Ireland,15,MC Sorensen,Abul Hasan,GC Wilson,,0,1,1,,,,329823298
+2,Ireland,16,MC Sorensen,Shakib Al Hasan,GC Wilson,,0,1,1,,,,329823298
+2,Ireland,16,GC Wilson,Shakib Al Hasan,MC Sorensen,,0,0,0,,,,329823298
+2,Ireland,16,GC Wilson,Shakib Al Hasan,MC Sorensen,,0,0,0,,,,329823298
+2,Ireland,16,GC Wilson,Shakib Al Hasan,MC Sorensen,,0,6,6,,,,329823298
+2,Ireland,16,GC Wilson,Shakib Al Hasan,MC Sorensen,,0,1,1,,,,329823298
+2,Ireland,16,MC Sorensen,Shakib Al Hasan,GC Wilson,,0,0,0,,,,329823298
+2,Ireland,17,GC Wilson,Mashrafe Mortaza,MC Sorensen,,0,4,4,,,,329823298
+2,Ireland,17,GC Wilson,Mashrafe Mortaza,MC Sorensen,,0,2,2,,,,329823298
+2,Ireland,17,GC Wilson,Mashrafe Mortaza,MC Sorensen,,0,0,0,,,,329823298
+2,Ireland,17,GC Wilson,Mashrafe Mortaza,MC Sorensen,,0,1,1,,,,329823298
+2,Ireland,17,MC Sorensen,Mashrafe Mortaza,GC Wilson,,0,0,0,,,,329823298
+2,Ireland,17,MC Sorensen,Mashrafe Mortaza,GC Wilson,,0,1,1,,,,329823298
+2,Ireland,18,MC Sorensen,Shakib Al Hasan,GC Wilson,,0,0,0,,,,329823298
+2,Ireland,18,MC Sorensen,Shakib Al Hasan,GC Wilson,,0,1,1,,,,329823298
+2,Ireland,18,GC Wilson,Shakib Al Hasan,MC Sorensen,,0,4,4,,,,329823298
+2,Ireland,18,GC Wilson,Shakib Al Hasan,MC Sorensen,,0,1,1,,,,329823298
+2,Ireland,18,MC Sorensen,Shakib Al Hasan,GC Wilson,,0,6,6,,,,329823298
+2,Ireland,18,MC Sorensen,Shakib Al Hasan,GC Wilson,,0,0,0,,,,329823298
+2,Ireland,19,GC Wilson,Mashrafe Mortaza,MC Sorensen,,0,1,1,,,,329823298
+2,Ireland,19,MC Sorensen,Mashrafe Mortaza,GC Wilson,,0,1,1,,,,329823298
+2,Ireland,19,GC Wilson,Mashrafe Mortaza,MC Sorensen,,0,4,4,,,,329823298
+2,Ireland,19,GC Wilson,Mashrafe Mortaza,MC Sorensen,,0,1,1,,,,329823298
+2,Ireland,19,MC Sorensen,Mashrafe Mortaza,GC Wilson,,0,0,0,,,,329823298
+2,Ireland,19,MC Sorensen,Mashrafe Mortaza,GC Wilson,,0,1,1,,,,329823298

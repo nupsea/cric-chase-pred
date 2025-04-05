@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Pakistan,0,Sharjeel Khan,Taskin Ahmed,Ahmed Shehzad,,0,0,0,,,,359523595
+1,Pakistan,0,Sharjeel Khan,Taskin Ahmed,Ahmed Shehzad,,0,1,1,,,,359523595
+1,Pakistan,0,Ahmed Shehzad,Taskin Ahmed,Sharjeel Khan,,0,0,0,,,,359523595
+1,Pakistan,0,Ahmed Shehzad,Taskin Ahmed,Sharjeel Khan,,0,4,4,,,,359523595
+1,Pakistan,0,Ahmed Shehzad,Taskin Ahmed,Sharjeel Khan,,0,1,1,,,,359523595
+1,Pakistan,0,Sharjeel Khan,Taskin Ahmed,Ahmed Shehzad,legbyes,1,1,0,,,,359523595
+1,Pakistan,1,Sharjeel Khan,Al-Amin Hossain,Ahmed Shehzad,,0,6,6,,,,359523595
+1,Pakistan,1,Sharjeel Khan,Al-Amin Hossain,Ahmed Shehzad,,0,0,0,,,,359523595
+1,Pakistan,1,Sharjeel Khan,Al-Amin Hossain,Ahmed Shehzad,,0,6,6,,,,359523595
+1,Pakistan,1,Sharjeel Khan,Al-Amin Hossain,Ahmed Shehzad,,0,1,1,,,,359523595
+1,Pakistan,1,Ahmed Shehzad,Al-Amin Hossain,Sharjeel Khan,,0,1,1,,,,359523595
+1,Pakistan,1,Sharjeel Khan,Al-Amin Hossain,Ahmed Shehzad,,0,4,4,,,,359523595
+1,Pakistan,2,Ahmed Shehzad,Arafat Sunny,Sharjeel Khan,,0,1,1,,,,359523595
+1,Pakistan,2,Sharjeel Khan,Arafat Sunny,Ahmed Shehzad,,0,0,0,,,,359523595
+1,Pakistan,2,Sharjeel Khan,Arafat Sunny,Ahmed Shehzad,,0,0,0,bowled,Sharjeel Khan,,359523595
+1,Pakistan,2,Mohammad Hafeez,Arafat Sunny,Ahmed Shehzad,,0,0,0,,,,359523595
+1,Pakistan,2,Mohammad Hafeez,Arafat Sunny,Ahmed Shehzad,,0,6,6,,,,359523595
+1,Pakistan,2,Mohammad Hafeez,Arafat Sunny,Ahmed Shehzad,,0,0,0,,,,359523595
+1,Pakistan,3,Ahmed Shehzad,Taskin Ahmed,Mohammad Hafeez,,0,4,4,,,,359523595
+1,Pakistan,3,Ahmed Shehzad,Taskin Ahmed,Mohammad Hafeez,,0,0,0,,,,359523595
+1,Pakistan,3,Ahmed Shehzad,Taskin Ahmed,Mohammad Hafeez,,0,0,0,,,,359523595
+1,Pakistan,3,Ahmed Shehzad,Taskin Ahmed,Mohammad Hafeez,,0,0,0,,,,359523595
+1,Pakistan,3,Ahmed Shehzad,Taskin Ahmed,Mohammad Hafeez,,0,1,1,,,,359523595
+1,Pakistan,3,Mohammad Hafeez,Taskin Ahmed,Ahmed Shehzad,,0,1,1,,,,359523595
+1,Pakistan,4,Mohammad Hafeez,Arafat Sunny,Ahmed Shehzad,,0,1,1,,,,359523595
+1,Pakistan,4,Ahmed Shehzad,Arafat Sunny,Mohammad Hafeez,,0,0,0,,,,359523595
+1,Pakistan,4,Ahmed Shehzad,Arafat Sunny,Mohammad Hafeez,,0,4,4,,,,359523595
+1,Pakistan,4,Ahmed Shehzad,Arafat Sunny,Mohammad Hafeez,,0,1,1,,,,359523595
+1,Pakistan,4,Mohammad Hafeez,Arafat Sunny,Ahmed Shehzad,,0,0,0,,,,359523595
+1,Pakistan,4,Mohammad Hafeez,Arafat Sunny,Ahmed Shehzad,,0,0,0,,,,359523595
+1,Pakistan,5,Ahmed Shehzad,Shakib Al Hasan,Mohammad Hafeez,,0,0,0,,,,359523595
+1,Pakistan,5,Ahmed Shehzad,Shakib Al Hasan,Mohammad Hafeez,,0,1,1,,,,359523595
+1,Pakistan,5,Mohammad Hafeez,Shakib Al Hasan,Ahmed Shehzad,,0,4,4,,,,359523595
+1,Pakistan,5,Mohammad Hafeez,Shakib Al Hasan,Ahmed Shehzad,wides,1,1,0,,,,359523595
+1,Pakistan,5,Mohammad Hafeez,Shakib Al Hasan,Ahmed Shehzad,,0,0,0,,,,359523595
+1,Pakistan,5,Mohammad Hafeez,Shakib Al Hasan,Ahmed Shehzad,,0,4,4,,,,359523595
+1,Pakistan,5,Mohammad Hafeez,Shakib Al Hasan,Ahmed Shehzad,,0,1,1,,,,359523595
+1,Pakistan,6,Mohammad Hafeez,Arafat Sunny,Ahmed Shehzad,,0,1,1,,,,359523595
+1,Pakistan,6,Ahmed Shehzad,Arafat Sunny,Mohammad Hafeez,,0,1,1,,,,359523595
+1,Pakistan,6,Mohammad Hafeez,Arafat Sunny,Ahmed Shehzad,,0,0,0,,,,359523595
+1,Pakistan,6,Mohammad Hafeez,Arafat Sunny,Ahmed Shehzad,,0,1,1,,,,359523595
+1,Pakistan,6,Ahmed Shehzad,Arafat Sunny,Mohammad Hafeez,,0,1,1,,,,359523595
+1,Pakistan,6,Mohammad Hafeez,Arafat Sunny,Ahmed Shehzad,,0,6,6,,,,359523595
+1,Pakistan,7,Ahmed Shehzad,Mashrafe Mortaza,Mohammad Hafeez,,0,1,1,,,,359523595
+1,Pakistan,7,Mohammad Hafeez,Mashrafe Mortaza,Ahmed Shehzad,,0,1,1,,,,359523595
+1,Pakistan,7,Ahmed Shehzad,Mashrafe Mortaza,Mohammad Hafeez,,0,4,4,,,,359523595
+1,Pakistan,7,Ahmed Shehzad,Mashrafe Mortaza,Mohammad Hafeez,,0,1,1,,,,359523595
+1,Pakistan,7,Mohammad Hafeez,Mashrafe Mortaza,Ahmed Shehzad,,0,1,1,,,,359523595
+1,Pakistan,7,Ahmed Shehzad,Mashrafe Mortaza,Mohammad Hafeez,,0,4,4,,,,359523595
+1,Pakistan,8,Mohammad Hafeez,Shakib Al Hasan,Ahmed Shehzad,,0,1,1,,,,359523595
+1,Pakistan,8,Ahmed Shehzad,Shakib Al Hasan,Mohammad Hafeez,,0,1,1,,,,359523595
+1,Pakistan,8,Mohammad Hafeez,Shakib Al Hasan,Ahmed Shehzad,,0,1,1,,,,359523595
+1,Pakistan,8,Ahmed Shehzad,Shakib Al Hasan,Mohammad Hafeez,,0,1,1,,,,359523595
+1,Pakistan,8,Mohammad Hafeez,Shakib Al Hasan,Ahmed Shehzad,,0,1,1,,,,359523595
+1,Pakistan,8,Ahmed Shehzad,Shakib Al Hasan,Mohammad Hafeez,,0,1,1,,,,359523595
+1,Pakistan,9,Ahmed Shehzad,Sabbir Rahman,Mohammad Hafeez,,0,4,4,,,,359523595
+1,Pakistan,9,Ahmed Shehzad,Sabbir Rahman,Mohammad Hafeez,,0,0,0,,,,359523595
+1,Pakistan,9,Ahmed Shehzad,Sabbir Rahman,Mohammad Hafeez,,0,1,1,,,,359523595
+1,Pakistan,9,Mohammad Hafeez,Sabbir Rahman,Ahmed Shehzad,,0,0,0,,,,359523595
+1,Pakistan,9,Mohammad Hafeez,Sabbir Rahman,Ahmed Shehzad,,0,0,0,,,,359523595
+1,Pakistan,9,Mohammad Hafeez,Sabbir Rahman,Ahmed Shehzad,,0,2,2,,,,359523595
+1,Pakistan,10,Ahmed Shehzad,Shakib Al Hasan,Mohammad Hafeez,,0,0,0,,,,359523595
+1,Pakistan,10,Ahmed Shehzad,Shakib Al Hasan,Mohammad Hafeez,,0,1,1,,,,359523595
+1,Pakistan,10,Mohammad Hafeez,Shakib Al Hasan,Ahmed Shehzad,,0,2,2,,,,359523595
+1,Pakistan,10,Mohammad Hafeez,Shakib Al Hasan,Ahmed Shehzad,,0,4,4,,,,359523595
+1,Pakistan,10,Mohammad Hafeez,Shakib Al Hasan,Ahmed Shehzad,,0,0,0,,,,359523595
+1,Pakistan,10,Mohammad Hafeez,Shakib Al Hasan,Ahmed Shehzad,,0,2,2,,,,359523595
+1,Pakistan,11,Ahmed Shehzad,Al-Amin Hossain,Mohammad Hafeez,,0,0,0,,,,359523595
+1,Pakistan,11,Ahmed Shehzad,Al-Amin Hossain,Mohammad Hafeez,,0,4,4,,,,359523595
+1,Pakistan,11,Ahmed Shehzad,Al-Amin Hossain,Mohammad Hafeez,,0,1,1,,,,359523595
+1,Pakistan,11,Mohammad Hafeez,Al-Amin Hossain,Ahmed Shehzad,,0,0,0,,,,359523595
+1,Pakistan,11,Mohammad Hafeez,Al-Amin Hossain,Ahmed Shehzad,,0,1,1,,,,359523595
+1,Pakistan,11,Ahmed Shehzad,Al-Amin Hossain,Mohammad Hafeez,,0,1,1,,,,359523595
+1,Pakistan,12,Ahmed Shehzad,Mashrafe Mortaza,Mohammad Hafeez,,0,4,4,,,,359523595
+1,Pakistan,12,Ahmed Shehzad,Mashrafe Mortaza,Mohammad Hafeez,,0,1,1,,,,359523595
+1,Pakistan,12,Mohammad Hafeez,Mashrafe Mortaza,Ahmed Shehzad,,0,0,0,,,,359523595
+1,Pakistan,12,Mohammad Hafeez,Mashrafe Mortaza,Ahmed Shehzad,,0,4,4,,,,359523595
+1,Pakistan,12,Mohammad Hafeez,Mashrafe Mortaza,Ahmed Shehzad,,0,1,1,,,,359523595
+1,Pakistan,12,Ahmed Shehzad,Mashrafe Mortaza,Mohammad Hafeez,,0,1,1,,,,359523595
+1,Pakistan,13,Ahmed Shehzad,Sabbir Rahman,Mohammad Hafeez,,0,1,1,,,,359523595
+1,Pakistan,13,Mohammad Hafeez,Sabbir Rahman,Ahmed Shehzad,,0,2,2,,,,359523595
+1,Pakistan,13,Mohammad Hafeez,Sabbir Rahman,Ahmed Shehzad,,0,1,1,,,,359523595
+1,Pakistan,13,Ahmed Shehzad,Sabbir Rahman,Mohammad Hafeez,,0,0,0,,,,359523595
+1,Pakistan,13,Ahmed Shehzad,Sabbir Rahman,Mohammad Hafeez,,0,0,0,caught,Ahmed Shehzad,Mahmudullah,359523595
+1,Pakistan,13,Mohammad Hafeez,Sabbir Rahman,Shahid Afridi,,0,0,0,,,,359523595
+1,Pakistan,14,Shahid Afridi,Mashrafe Mortaza,Mohammad Hafeez,,0,1,1,,,,359523595
+1,Pakistan,14,Mohammad Hafeez,Mashrafe Mortaza,Shahid Afridi,,0,1,1,,,,359523595
+1,Pakistan,14,Shahid Afridi,Mashrafe Mortaza,Mohammad Hafeez,,0,4,4,,,,359523595
+1,Pakistan,14,Shahid Afridi,Mashrafe Mortaza,Mohammad Hafeez,,0,4,4,,,,359523595
+1,Pakistan,14,Shahid Afridi,Mashrafe Mortaza,Mohammad Hafeez,noballs,1,7,6,,,,359523595
+1,Pakistan,14,Shahid Afridi,Mashrafe Mortaza,Mohammad Hafeez,,0,0,0,,,,359523595
+1,Pakistan,14,Shahid Afridi,Mashrafe Mortaza,Mohammad Hafeez,,0,1,1,,,,359523595
+1,Pakistan,15,Shahid Afridi,Al-Amin Hossain,Mohammad Hafeez,,0,2,2,,,,359523595
+1,Pakistan,15,Shahid Afridi,Al-Amin Hossain,Mohammad Hafeez,,0,1,1,,,,359523595
+1,Pakistan,15,Mohammad Hafeez,Al-Amin Hossain,Shahid Afridi,,0,4,4,,,,359523595
+1,Pakistan,15,Mohammad Hafeez,Al-Amin Hossain,Shahid Afridi,,0,4,4,,,,359523595
+1,Pakistan,15,Mohammad Hafeez,Al-Amin Hossain,Shahid Afridi,,0,1,1,,,,359523595
+1,Pakistan,15,Shahid Afridi,Al-Amin Hossain,Mohammad Hafeez,,0,6,6,,,,359523595
+1,Pakistan,16,Mohammad Hafeez,Arafat Sunny,Shahid Afridi,,0,1,1,,,,359523595
+1,Pakistan,16,Shahid Afridi,Arafat Sunny,Mohammad Hafeez,,0,1,1,,,,359523595
+1,Pakistan,16,Mohammad Hafeez,Arafat Sunny,Shahid Afridi,,0,4,4,,,,359523595
+1,Pakistan,16,Mohammad Hafeez,Arafat Sunny,Shahid Afridi,,0,0,0,caught,Mohammad Hafeez,Soumya Sarkar,359523595
+1,Pakistan,16,Shahid Afridi,Arafat Sunny,Umar Akmal,,0,4,4,,,,359523595
+1,Pakistan,16,Shahid Afridi,Arafat Sunny,Umar Akmal,,0,1,1,,,,359523595
+1,Pakistan,17,Shahid Afridi,Taskin Ahmed,Umar Akmal,,0,6,6,,,,359523595
+1,Pakistan,17,Shahid Afridi,Taskin Ahmed,Umar Akmal,,0,0,0,,,,359523595
+1,Pakistan,17,Shahid Afridi,Taskin Ahmed,Umar Akmal,,0,1,1,,,,359523595
+1,Pakistan,17,Umar Akmal,Taskin Ahmed,Shahid Afridi,,0,0,0,,,,359523595
+1,Pakistan,17,Umar Akmal,Taskin Ahmed,Shahid Afridi,,0,0,0,caught,Umar Akmal,Shakib Al Hasan,359523595
+1,Pakistan,17,Shoaib Malik,Taskin Ahmed,Shahid Afridi,,0,1,1,,,,359523595
+1,Pakistan,18,Shoaib Malik,Shakib Al Hasan,Shahid Afridi,,0,1,1,,,,359523595
+1,Pakistan,18,Shahid Afridi,Shakib Al Hasan,Shoaib Malik,,0,4,4,,,,359523595
+1,Pakistan,18,Shahid Afridi,Shakib Al Hasan,Shoaib Malik,,0,1,1,,,,359523595
+1,Pakistan,18,Shoaib Malik,Shakib Al Hasan,Shahid Afridi,,0,0,0,,,,359523595
+1,Pakistan,18,Shoaib Malik,Shakib Al Hasan,Shahid Afridi,,0,1,1,,,,359523595
+1,Pakistan,18,Shahid Afridi,Shakib Al Hasan,Shoaib Malik,,0,6,6,,,,359523595
+1,Pakistan,19,Shoaib Malik,Taskin Ahmed,Shahid Afridi,,0,4,4,,,,359523595
+1,Pakistan,19,Shoaib Malik,Taskin Ahmed,Shahid Afridi,,0,4,4,,,,359523595
+1,Pakistan,19,Shoaib Malik,Taskin Ahmed,Shahid Afridi,,0,1,1,,,,359523595
+1,Pakistan,19,Shahid Afridi,Taskin Ahmed,Shoaib Malik,,0,0,0,caught,Shahid Afridi,Mahmudullah,359523595
+1,Pakistan,19,Shoaib Malik,Taskin Ahmed,Imad Wasim,,0,2,2,,,,359523595
+1,Pakistan,19,Shoaib Malik,Taskin Ahmed,Imad Wasim,,0,1,1,,,,359523595

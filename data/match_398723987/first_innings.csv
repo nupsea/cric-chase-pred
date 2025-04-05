@@ -1,0 +1,62 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Nepal,0,P Sarraf,Mohammad Naveed,P Khadka,,0,0,0,,,,398723987
+1,Nepal,0,P Sarraf,Mohammad Naveed,P Khadka,,0,0,0,,,,398723987
+1,Nepal,0,P Sarraf,Mohammad Naveed,P Khadka,,0,0,0,,,,398723987
+1,Nepal,0,P Sarraf,Mohammad Naveed,P Khadka,,0,0,0,caught,P Sarraf,Ghulam Shabber,398723987
+1,Nepal,0,G Malla,Mohammad Naveed,P Khadka,,0,0,0,,,,398723987
+1,Nepal,0,G Malla,Mohammad Naveed,P Khadka,,0,0,0,,,,398723987
+1,Nepal,1,P Khadka,Amir Hayat,G Malla,,0,1,1,,,,398723987
+1,Nepal,1,G Malla,Amir Hayat,P Khadka,,0,0,0,,,,398723987
+1,Nepal,1,G Malla,Amir Hayat,P Khadka,,0,4,4,,,,398723987
+1,Nepal,1,G Malla,Amir Hayat,P Khadka,,0,0,0,,,,398723987
+1,Nepal,1,G Malla,Amir Hayat,P Khadka,,0,1,1,,,,398723987
+1,Nepal,1,P Khadka,Amir Hayat,G Malla,,0,0,0,,,,398723987
+1,Nepal,2,G Malla,Zahoor Khan,P Khadka,,0,2,2,,,,398723987
+1,Nepal,2,G Malla,Zahoor Khan,P Khadka,,0,4,4,,,,398723987
+1,Nepal,2,G Malla,Zahoor Khan,P Khadka,,0,0,0,bowled,G Malla,,398723987
+1,Nepal,2,DS Airee,Zahoor Khan,P Khadka,,0,1,1,,,,398723987
+1,Nepal,2,P Khadka,Zahoor Khan,DS Airee,,0,4,4,,,,398723987
+1,Nepal,2,P Khadka,Zahoor Khan,DS Airee,,0,2,2,,,,398723987
+1,Nepal,3,DS Airee,Sultan Ahmed,P Khadka,,0,1,1,,,,398723987
+1,Nepal,3,P Khadka,Sultan Ahmed,DS Airee,,0,1,1,,,,398723987
+1,Nepal,3,DS Airee,Sultan Ahmed,P Khadka,,0,0,0,lbw,DS Airee,,398723987
+1,Nepal,3,S Jora,Sultan Ahmed,P Khadka,,0,2,2,,,,398723987
+1,Nepal,3,S Jora,Sultan Ahmed,P Khadka,,0,6,6,,,,398723987
+1,Nepal,3,S Jora,Sultan Ahmed,P Khadka,,0,2,2,,,,398723987
+1,Nepal,4,P Khadka,Zahoor Khan,S Jora,,0,4,4,,,,398723987
+1,Nepal,4,P Khadka,Zahoor Khan,S Jora,byes,1,1,0,,,,398723987
+1,Nepal,4,S Jora,Zahoor Khan,P Khadka,,0,0,0,,,,398723987
+1,Nepal,4,S Jora,Zahoor Khan,P Khadka,,0,1,1,,,,398723987
+1,Nepal,4,P Khadka,Zahoor Khan,S Jora,,0,4,4,,,,398723987
+1,Nepal,4,P Khadka,Zahoor Khan,S Jora,,0,1,1,,,,398723987
+1,Nepal,5,P Khadka,Mohammad Boota,S Jora,,0,6,6,,,,398723987
+1,Nepal,5,P Khadka,Mohammad Boota,S Jora,,0,2,2,,,,398723987
+1,Nepal,5,P Khadka,Mohammad Boota,S Jora,,0,4,4,,,,398723987
+1,Nepal,5,P Khadka,Mohammad Boota,S Jora,,0,0,0,,,,398723987
+1,Nepal,5,P Khadka,Mohammad Boota,S Jora,,0,0,0,caught,P Khadka,Zahoor Khan,398723987
+1,Nepal,5,B Bhandari,Mohammad Boota,S Jora,,0,1,1,,,,398723987
+1,Nepal,6,B Bhandari,Sultan Ahmed,S Jora,wides,1,1,0,,,,398723987
+1,Nepal,6,B Bhandari,Sultan Ahmed,S Jora,,0,0,0,,,,398723987
+1,Nepal,6,B Bhandari,Sultan Ahmed,S Jora,,0,4,4,,,,398723987
+1,Nepal,6,B Bhandari,Sultan Ahmed,S Jora,,0,1,1,,,,398723987
+1,Nepal,6,S Jora,Sultan Ahmed,B Bhandari,,0,1,1,,,,398723987
+1,Nepal,6,B Bhandari,Sultan Ahmed,S Jora,,0,1,1,,,,398723987
+1,Nepal,6,S Jora,Sultan Ahmed,B Bhandari,,0,6,6,,,,398723987
+1,Nepal,7,B Bhandari,Imran Haider,S Jora,,0,0,0,,,,398723987
+1,Nepal,7,B Bhandari,Imran Haider,S Jora,,0,4,4,,,,398723987
+1,Nepal,7,B Bhandari,Imran Haider,S Jora,,0,6,6,,,,398723987
+1,Nepal,7,B Bhandari,Imran Haider,S Jora,legbyes,1,1,0,,,,398723987
+1,Nepal,7,S Jora,Imran Haider,B Bhandari,,0,6,6,,,,398723987
+1,Nepal,7,S Jora,Imran Haider,B Bhandari,,0,2,2,,,,398723987
+1,Nepal,8,B Bhandari,Mohammad Naveed,S Jora,,0,1,1,,,,398723987
+1,Nepal,8,S Jora,Mohammad Naveed,B Bhandari,,0,2,2,,,,398723987
+1,Nepal,8,S Jora,Mohammad Naveed,B Bhandari,,0,0,0,bowled,S Jora,,398723987
+1,Nepal,8,Karan KC,Mohammad Naveed,B Bhandari,,0,1,1,,,,398723987
+1,Nepal,8,B Bhandari,Mohammad Naveed,Karan KC,,0,1,1,,,,398723987
+1,Nepal,8,Karan KC,Mohammad Naveed,B Bhandari,,0,1,1,,,,398723987
+1,Nepal,9,Karan KC,Amir Hayat,B Bhandari,,0,2,2,,,,398723987
+1,Nepal,9,Karan KC,Amir Hayat,B Bhandari,,0,6,6,,,,398723987
+1,Nepal,9,Karan KC,Amir Hayat,B Bhandari,,0,0,0,caught,Karan KC,Mohammad Boota,398723987
+1,Nepal,9,B Bhandari,Amir Hayat,Sompal Kami,,0,2,2,,,,398723987
+1,Nepal,9,B Bhandari,Amir Hayat,Sompal Kami,,0,0,0,caught,B Bhandari,Ghulam Shabber,398723987
+1,Nepal,9,Sompal Kami,Amir Hayat,S Lamichhane,,0,0,0,run out,Sompal Kami,Amir Hayat,398723987

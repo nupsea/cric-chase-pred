@@ -1,0 +1,128 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Namibia,0,A van der Merwe,T Abdulquadri,SA Wittmann,,0,0,0,,,,31699231699
+1,Namibia,0,A van der Merwe,T Abdulquadri,SA Wittmann,,0,2,2,,,,31699231699
+1,Namibia,0,A van der Merwe,T Abdulquadri,SA Wittmann,,0,4,4,,,,31699231699
+1,Namibia,0,A van der Merwe,T Abdulquadri,SA Wittmann,,0,1,1,,,,31699231699
+1,Namibia,0,SA Wittmann,T Abdulquadri,A van der Merwe,,0,0,0,,,,31699231699
+1,Namibia,0,SA Wittmann,T Abdulquadri,A van der Merwe,,0,0,0,,,,31699231699
+1,Namibia,1,A van der Merwe,J Efosa,SA Wittmann,,0,0,0,,,,31699231699
+1,Namibia,1,A van der Merwe,J Efosa,SA Wittmann,wides,1,1,0,,,,31699231699
+1,Namibia,1,A van der Merwe,J Efosa,SA Wittmann,,0,1,1,,,,31699231699
+1,Namibia,1,SA Wittmann,J Efosa,A van der Merwe,,0,0,0,,,,31699231699
+1,Namibia,1,SA Wittmann,J Efosa,A van der Merwe,,0,1,1,,,,31699231699
+1,Namibia,1,A van der Merwe,J Efosa,SA Wittmann,,0,0,0,,,,31699231699
+1,Namibia,1,A van der Merwe,J Efosa,SA Wittmann,,0,4,4,,,,31699231699
+1,Namibia,2,SA Wittmann,T Abdulquadri,A van der Merwe,,0,1,1,,,,31699231699
+1,Namibia,2,A van der Merwe,T Abdulquadri,SA Wittmann,,0,0,0,,,,31699231699
+1,Namibia,2,A van der Merwe,T Abdulquadri,SA Wittmann,,0,2,2,,,,31699231699
+1,Namibia,2,A van der Merwe,T Abdulquadri,SA Wittmann,,0,4,4,,,,31699231699
+1,Namibia,2,A van der Merwe,T Abdulquadri,SA Wittmann,,0,0,0,bowled,A van der Merwe,,31699231699
+1,Namibia,2,Yasmeen Khan,T Abdulquadri,SA Wittmann,,0,0,0,,,,31699231699
+1,Namibia,3,SA Wittmann,J Efosa,Yasmeen Khan,,0,0,0,,,,31699231699
+1,Namibia,3,SA Wittmann,J Efosa,Yasmeen Khan,byes,2,2,0,,,,31699231699
+1,Namibia,3,SA Wittmann,J Efosa,Yasmeen Khan,,0,0,0,caught,SA Wittmann,A Igbobie,31699231699
+1,Namibia,3,KA Green,J Efosa,Yasmeen Khan,,0,4,4,,,,31699231699
+1,Namibia,3,KA Green,J Efosa,Yasmeen Khan,,0,2,2,,,,31699231699
+1,Namibia,3,KA Green,J Efosa,Yasmeen Khan,,0,0,0,,,,31699231699
+1,Namibia,4,Yasmeen Khan,R Samson,KA Green,,0,0,0,,,,31699231699
+1,Namibia,4,Yasmeen Khan,R Samson,KA Green,,0,0,0,,,,31699231699
+1,Namibia,4,Yasmeen Khan,R Samson,KA Green,wides,1,1,0,,,,31699231699
+1,Namibia,4,Yasmeen Khan,R Samson,KA Green,,0,0,0,,,,31699231699
+1,Namibia,4,Yasmeen Khan,R Samson,KA Green,,0,1,1,,,,31699231699
+1,Namibia,4,KA Green,R Samson,Yasmeen Khan,,0,4,4,,,,31699231699
+1,Namibia,4,KA Green,R Samson,Yasmeen Khan,wides,5,5,0,,,,31699231699
+1,Namibia,4,KA Green,R Samson,Yasmeen Khan,wides,1,1,0,,,,31699231699
+1,Namibia,4,KA Green,R Samson,Yasmeen Khan,,0,0,0,,,,31699231699
+1,Namibia,5,Yasmeen Khan,B Etim,KA Green,,0,0,0,,,,31699231699
+1,Namibia,5,Yasmeen Khan,B Etim,KA Green,,0,0,0,,,,31699231699
+1,Namibia,5,Yasmeen Khan,B Etim,KA Green,,0,0,0,,,,31699231699
+1,Namibia,5,Yasmeen Khan,B Etim,KA Green,,0,1,1,,,,31699231699
+1,Namibia,5,KA Green,B Etim,Yasmeen Khan,,0,0,0,,,,31699231699
+1,Namibia,5,KA Green,B Etim,Yasmeen Khan,,0,4,4,,,,31699231699
+1,Namibia,6,Yasmeen Khan,R Samson,KA Green,,0,0,0,,,,31699231699
+1,Namibia,6,Yasmeen Khan,R Samson,KA Green,,0,1,1,,,,31699231699
+1,Namibia,6,KA Green,R Samson,Yasmeen Khan,,0,2,2,,,,31699231699
+1,Namibia,6,KA Green,R Samson,Yasmeen Khan,,0,1,1,,,,31699231699
+1,Namibia,6,Yasmeen Khan,R Samson,KA Green,,0,1,1,,,,31699231699
+1,Namibia,6,KA Green,R Samson,Yasmeen Khan,,0,1,1,,,,31699231699
+1,Namibia,7,KA Green,B Etim,Yasmeen Khan,,0,0,0,,,,31699231699
+1,Namibia,7,KA Green,B Etim,Yasmeen Khan,,0,1,1,,,,31699231699
+1,Namibia,7,Yasmeen Khan,B Etim,KA Green,,0,1,1,,,,31699231699
+1,Namibia,7,KA Green,B Etim,Yasmeen Khan,,0,0,0,,,,31699231699
+1,Namibia,7,KA Green,B Etim,Yasmeen Khan,,0,1,1,,,,31699231699
+1,Namibia,7,Yasmeen Khan,B Etim,KA Green,,0,1,1,,,,31699231699
+1,Namibia,8,Yasmeen Khan,A Obulor,KA Green,,0,1,1,,,,31699231699
+1,Namibia,8,KA Green,A Obulor,Yasmeen Khan,wides,1,1,0,,,,31699231699
+1,Namibia,8,KA Green,A Obulor,Yasmeen Khan,,0,1,1,,,,31699231699
+1,Namibia,8,Yasmeen Khan,A Obulor,KA Green,,0,4,4,,,,31699231699
+1,Namibia,8,Yasmeen Khan,A Obulor,KA Green,,0,1,1,,,,31699231699
+1,Namibia,8,KA Green,A Obulor,Yasmeen Khan,,0,4,4,,,,31699231699
+1,Namibia,8,KA Green,A Obulor,Yasmeen Khan,,0,0,0,,,,31699231699
+1,Namibia,9,Yasmeen Khan,J Efosa,KA Green,,0,1,1,,,,31699231699
+1,Namibia,9,KA Green,J Efosa,Yasmeen Khan,,0,2,2,,,,31699231699
+1,Namibia,9,KA Green,J Efosa,Yasmeen Khan,,0,0,0,,,,31699231699
+1,Namibia,9,KA Green,J Efosa,Yasmeen Khan,,0,2,2,,,,31699231699
+1,Namibia,9,KA Green,J Efosa,Yasmeen Khan,,0,0,0,bowled,KA Green,,31699231699
+1,Namibia,9,E Van Zyl,J Efosa,Yasmeen Khan,,0,0,0,,,,31699231699
+1,Namibia,10,Yasmeen Khan,A Obulor,E Van Zyl,,0,1,1,,,,31699231699
+1,Namibia,10,E Van Zyl,A Obulor,Yasmeen Khan,,0,1,1,,,,31699231699
+1,Namibia,10,Yasmeen Khan,A Obulor,E Van Zyl,,0,0,0,,,,31699231699
+1,Namibia,10,Yasmeen Khan,A Obulor,E Van Zyl,,0,0,0,,,,31699231699
+1,Namibia,10,Yasmeen Khan,A Obulor,E Van Zyl,,0,1,1,,,,31699231699
+1,Namibia,10,E Van Zyl,A Obulor,Yasmeen Khan,,0,0,0,,,,31699231699
+1,Namibia,11,Yasmeen Khan,J Efosa,E Van Zyl,,0,2,2,,,,31699231699
+1,Namibia,11,Yasmeen Khan,J Efosa,E Van Zyl,,0,0,0,,,,31699231699
+1,Namibia,11,Yasmeen Khan,J Efosa,E Van Zyl,,0,1,1,,,,31699231699
+1,Namibia,11,E Van Zyl,J Efosa,Yasmeen Khan,,0,0,0,,,,31699231699
+1,Namibia,11,E Van Zyl,J Efosa,Yasmeen Khan,,0,0,0,,,,31699231699
+1,Namibia,11,E Van Zyl,J Efosa,Yasmeen Khan,,0,1,1,,,,31699231699
+1,Namibia,12,E Van Zyl,T Abdulquadri,Yasmeen Khan,,0,0,0,bowled,E Van Zyl,,31699231699
+1,Namibia,12,JA Diergaardt,T Abdulquadri,Yasmeen Khan,,0,0,0,,,,31699231699
+1,Namibia,12,JA Diergaardt,T Abdulquadri,Yasmeen Khan,,0,0,0,,,,31699231699
+1,Namibia,12,JA Diergaardt,T Abdulquadri,Yasmeen Khan,,0,0,0,,,,31699231699
+1,Namibia,12,JA Diergaardt,T Abdulquadri,Yasmeen Khan,,0,1,1,,,,31699231699
+1,Namibia,12,Yasmeen Khan,T Abdulquadri,JA Diergaardt,,0,0,0,,,,31699231699
+1,Namibia,13,JA Diergaardt,B Etim,Yasmeen Khan,,0,0,0,,,,31699231699
+1,Namibia,13,JA Diergaardt,B Etim,Yasmeen Khan,,0,0,0,,,,31699231699
+1,Namibia,13,JA Diergaardt,B Etim,Yasmeen Khan,,0,0,0,,,,31699231699
+1,Namibia,13,JA Diergaardt,B Etim,Yasmeen Khan,,0,1,1,,,,31699231699
+1,Namibia,13,Yasmeen Khan,B Etim,JA Diergaardt,,0,1,1,,,,31699231699
+1,Namibia,13,JA Diergaardt,B Etim,Yasmeen Khan,,0,2,2,,,,31699231699
+1,Namibia,14,Yasmeen Khan,R Samson,JA Diergaardt,,0,2,2,,,,31699231699
+1,Namibia,14,Yasmeen Khan,R Samson,JA Diergaardt,,0,4,4,,,,31699231699
+1,Namibia,14,Yasmeen Khan,R Samson,JA Diergaardt,,0,2,2,,,,31699231699
+1,Namibia,14,Yasmeen Khan,R Samson,JA Diergaardt,,0,2,2,,,,31699231699
+1,Namibia,14,Yasmeen Khan,R Samson,JA Diergaardt,,0,0,0,,,,31699231699
+1,Namibia,14,Yasmeen Khan,R Samson,JA Diergaardt,,0,0,0,caught,Yasmeen Khan,O Asika,31699231699
+1,Namibia,15,W Mwatile,A Obulor,JA Diergaardt,,0,0,0,,,,31699231699
+1,Namibia,15,W Mwatile,A Obulor,JA Diergaardt,,0,0,0,,,,31699231699
+1,Namibia,15,W Mwatile,A Obulor,JA Diergaardt,,0,1,1,,,,31699231699
+1,Namibia,15,JA Diergaardt,A Obulor,W Mwatile,,0,1,1,,,,31699231699
+1,Namibia,15,W Mwatile,A Obulor,JA Diergaardt,,0,0,0,,,,31699231699
+1,Namibia,15,W Mwatile,A Obulor,JA Diergaardt,,0,3,3,,,,31699231699
+1,Namibia,16,W Mwatile,T Abdulquadri,JA Diergaardt,,0,1,1,,,,31699231699
+1,Namibia,16,JA Diergaardt,T Abdulquadri,W Mwatile,,0,1,1,,,,31699231699
+1,Namibia,16,W Mwatile,T Abdulquadri,JA Diergaardt,,0,0,0,,,,31699231699
+1,Namibia,16,W Mwatile,T Abdulquadri,JA Diergaardt,,0,0,0,,,,31699231699
+1,Namibia,16,W Mwatile,T Abdulquadri,JA Diergaardt,,0,1,1,,,,31699231699
+1,Namibia,16,JA Diergaardt,T Abdulquadri,W Mwatile,,0,1,1,,,,31699231699
+1,Namibia,17,JA Diergaardt,A Obulor,W Mwatile,wides,1,1,0,,,,31699231699
+1,Namibia,17,JA Diergaardt,A Obulor,W Mwatile,,0,0,0,,,,31699231699
+1,Namibia,17,JA Diergaardt,A Obulor,W Mwatile,,0,1,1,,,,31699231699
+1,Namibia,17,W Mwatile,A Obulor,JA Diergaardt,wides,1,1,0,,,,31699231699
+1,Namibia,17,W Mwatile,A Obulor,JA Diergaardt,,0,3,3,,,,31699231699
+1,Namibia,17,JA Diergaardt,A Obulor,W Mwatile,,0,1,1,,,,31699231699
+1,Namibia,17,W Mwatile,A Obulor,JA Diergaardt,,0,0,0,caught,W Mwatile,B Etim,31699231699
+1,Namibia,17,JA Diergaardt,A Obulor,I van Zyl,,0,0,0,,,,31699231699
+1,Namibia,18,I van Zyl,R Samson,JA Diergaardt,,0,1,1,,,,31699231699
+1,Namibia,18,JA Diergaardt,R Samson,I van Zyl,,0,0,0,,,,31699231699
+1,Namibia,18,JA Diergaardt,R Samson,I van Zyl,,0,1,1,,,,31699231699
+1,Namibia,18,I van Zyl,R Samson,JA Diergaardt,,0,0,0,,,,31699231699
+1,Namibia,18,I van Zyl,R Samson,JA Diergaardt,,0,1,1,,,,31699231699
+1,Namibia,18,JA Diergaardt,R Samson,I van Zyl,,0,0,0,,,,31699231699
+1,Namibia,19,I van Zyl,B Etim,JA Diergaardt,,0,4,4,,,,31699231699
+1,Namibia,19,I van Zyl,B Etim,JA Diergaardt,,0,0,0,run out,I van Zyl,B Etim,31699231699
+1,Namibia,19,JA Diergaardt,B Etim,SN Shihepo,,0,4,4,,,,31699231699
+1,Namibia,19,JA Diergaardt,B Etim,SN Shihepo,,0,1,1,,,,31699231699
+1,Namibia,19,SN Shihepo,B Etim,JA Diergaardt,,0,0,0,,,,31699231699
+1,Namibia,19,SN Shihepo,B Etim,JA Diergaardt,,0,2,2,,,,31699231699

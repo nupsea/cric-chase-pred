@@ -1,0 +1,133 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Malaysia,0,WA Duraisingam,GK Diviya,Wan Julia,,0,1,1,,,,32083232083
+1,Malaysia,0,Wan Julia,GK Diviya,WA Duraisingam,,0,0,0,,,,32083232083
+1,Malaysia,0,Wan Julia,GK Diviya,WA Duraisingam,,0,0,0,,,,32083232083
+1,Malaysia,0,Wan Julia,GK Diviya,WA Duraisingam,,0,2,2,,,,32083232083
+1,Malaysia,0,Wan Julia,GK Diviya,WA Duraisingam,,0,1,1,,,,32083232083
+1,Malaysia,0,WA Duraisingam,GK Diviya,Wan Julia,,0,0,0,,,,32083232083
+1,Malaysia,1,Wan Julia,Ada Bhasin,WA Duraisingam,,0,2,2,,,,32083232083
+1,Malaysia,1,Wan Julia,Ada Bhasin,WA Duraisingam,wides,2,2,0,,,,32083232083
+1,Malaysia,1,WA Duraisingam,Ada Bhasin,Wan Julia,,0,1,1,,,,32083232083
+1,Malaysia,1,Wan Julia,Ada Bhasin,WA Duraisingam,noballs,1,3,2,,,,32083232083
+1,Malaysia,1,Wan Julia,Ada Bhasin,WA Duraisingam,,0,4,4,,,,32083232083
+1,Malaysia,1,Wan Julia,Ada Bhasin,WA Duraisingam,,0,2,2,,,,32083232083
+1,Malaysia,1,Wan Julia,Ada Bhasin,WA Duraisingam,,0,0,0,caught,Wan Julia,JS Pooranakaran,32083232083
+1,Malaysia,1,WA Duraisingam,Ada Bhasin,Mas Elysa,,0,4,4,,,,32083232083
+1,Malaysia,2,Mas Elysa,Shafina Mahesh,WA Duraisingam,legbyes,1,1,0,,,,32083232083
+1,Malaysia,2,WA Duraisingam,Shafina Mahesh,Mas Elysa,,0,4,4,,,,32083232083
+1,Malaysia,2,WA Duraisingam,Shafina Mahesh,Mas Elysa,,0,3,3,,,,32083232083
+1,Malaysia,2,Mas Elysa,Shafina Mahesh,WA Duraisingam,,0,1,1,,,,32083232083
+1,Malaysia,2,WA Duraisingam,Shafina Mahesh,Mas Elysa,legbyes,1,1,0,,,,32083232083
+1,Malaysia,2,Mas Elysa,Shafina Mahesh,WA Duraisingam,,0,0,0,,,,32083232083
+1,Malaysia,3,WA Duraisingam,I Shukla,Mas Elysa,,0,0,0,,,,32083232083
+1,Malaysia,3,WA Duraisingam,I Shukla,Mas Elysa,wides,5,5,0,,,,32083232083
+1,Malaysia,3,WA Duraisingam,I Shukla,Mas Elysa,,0,0,0,,,,32083232083
+1,Malaysia,3,WA Duraisingam,I Shukla,Mas Elysa,,0,0,0,,,,32083232083
+1,Malaysia,3,WA Duraisingam,I Shukla,Mas Elysa,,0,0,0,,,,32083232083
+1,Malaysia,3,WA Duraisingam,I Shukla,Mas Elysa,,0,2,2,,,,32083232083
+1,Malaysia,3,WA Duraisingam,I Shukla,Mas Elysa,wides,1,1,0,,,,32083232083
+1,Malaysia,3,WA Duraisingam,I Shukla,Mas Elysa,,0,0,0,,,,32083232083
+1,Malaysia,4,Mas Elysa,Vinu Kumar,WA Duraisingam,,0,4,4,,,,32083232083
+1,Malaysia,4,Mas Elysa,Vinu Kumar,WA Duraisingam,,0,4,4,,,,32083232083
+1,Malaysia,4,Mas Elysa,Vinu Kumar,WA Duraisingam,,0,0,0,,,,32083232083
+1,Malaysia,4,Mas Elysa,Vinu Kumar,WA Duraisingam,,0,1,1,,,,32083232083
+1,Malaysia,4,WA Duraisingam,Vinu Kumar,Mas Elysa,,0,0,0,,,,32083232083
+1,Malaysia,4,WA Duraisingam,Vinu Kumar,Mas Elysa,,0,1,1,,,,32083232083
+1,Malaysia,5,WA Duraisingam,Ada Bhasin,Mas Elysa,,0,1,1,,,,32083232083
+1,Malaysia,5,Mas Elysa,Ada Bhasin,WA Duraisingam,wides,2,2,0,,,,32083232083
+1,Malaysia,5,WA Duraisingam,Ada Bhasin,Mas Elysa,,0,0,0,,,,32083232083
+1,Malaysia,5,WA Duraisingam,Ada Bhasin,Mas Elysa,,0,0,0,,,,32083232083
+1,Malaysia,5,WA Duraisingam,Ada Bhasin,Mas Elysa,,0,1,1,,,,32083232083
+1,Malaysia,5,Mas Elysa,Ada Bhasin,WA Duraisingam,,0,1,1,,,,32083232083
+1,Malaysia,5,WA Duraisingam,Ada Bhasin,Mas Elysa,wides,1,1,0,,,,32083232083
+1,Malaysia,5,WA Duraisingam,Ada Bhasin,Mas Elysa,,0,0,0,,,,32083232083
+1,Malaysia,6,Mas Elysa,Shafina Mahesh,WA Duraisingam,,0,1,1,,,,32083232083
+1,Malaysia,6,WA Duraisingam,Shafina Mahesh,Mas Elysa,,0,0,0,,,,32083232083
+1,Malaysia,6,WA Duraisingam,Shafina Mahesh,Mas Elysa,,0,1,1,,,,32083232083
+1,Malaysia,6,Mas Elysa,Shafina Mahesh,WA Duraisingam,,0,0,0,,,,32083232083
+1,Malaysia,6,Mas Elysa,Shafina Mahesh,WA Duraisingam,,0,0,0,,,,32083232083
+1,Malaysia,6,Mas Elysa,Shafina Mahesh,WA Duraisingam,,0,4,4,,,,32083232083
+1,Malaysia,7,WA Duraisingam,Vinu Kumar,Mas Elysa,legbyes,1,1,0,,,,32083232083
+1,Malaysia,7,Mas Elysa,Vinu Kumar,WA Duraisingam,,0,1,1,,,,32083232083
+1,Malaysia,7,WA Duraisingam,Vinu Kumar,Mas Elysa,,0,0,0,,,,32083232083
+1,Malaysia,7,WA Duraisingam,Vinu Kumar,Mas Elysa,,0,1,1,,,,32083232083
+1,Malaysia,7,Mas Elysa,Vinu Kumar,WA Duraisingam,,0,0,0,,,,32083232083
+1,Malaysia,7,Mas Elysa,Vinu Kumar,WA Duraisingam,,0,1,1,,,,32083232083
+1,Malaysia,8,Mas Elysa,CH Abeyratne,WA Duraisingam,,0,0,0,,,,32083232083
+1,Malaysia,8,Mas Elysa,CH Abeyratne,WA Duraisingam,,0,4,4,,,,32083232083
+1,Malaysia,8,Mas Elysa,CH Abeyratne,WA Duraisingam,,0,2,2,,,,32083232083
+1,Malaysia,8,Mas Elysa,CH Abeyratne,WA Duraisingam,,0,4,4,,,,32083232083
+1,Malaysia,8,Mas Elysa,CH Abeyratne,WA Duraisingam,,0,0,0,,,,32083232083
+1,Malaysia,8,Mas Elysa,CH Abeyratne,WA Duraisingam,wides,1,1,0,,,,32083232083
+1,Malaysia,8,Mas Elysa,CH Abeyratne,WA Duraisingam,,0,1,1,,,,32083232083
+1,Malaysia,9,Mas Elysa,Damini Ramesh,WA Duraisingam,,0,6,6,,,,32083232083
+1,Malaysia,9,Mas Elysa,Damini Ramesh,WA Duraisingam,noballs,1,5,4,,,,32083232083
+1,Malaysia,9,Mas Elysa,Damini Ramesh,WA Duraisingam,,0,0,0,,,,32083232083
+1,Malaysia,9,Mas Elysa,Damini Ramesh,WA Duraisingam,,0,1,1,,,,32083232083
+1,Malaysia,9,WA Duraisingam,Damini Ramesh,Mas Elysa,,0,4,4,,,,32083232083
+1,Malaysia,9,WA Duraisingam,Damini Ramesh,Mas Elysa,wides,1,1,0,,,,32083232083
+1,Malaysia,9,WA Duraisingam,Damini Ramesh,Mas Elysa,,0,1,1,,,,32083232083
+1,Malaysia,9,Mas Elysa,Damini Ramesh,WA Duraisingam,noballs,1,3,2,,,,32083232083
+1,Malaysia,9,Mas Elysa,Damini Ramesh,WA Duraisingam,,0,4,4,,,,32083232083
+1,Malaysia,10,WA Duraisingam,GK Diviya,Mas Elysa,,0,1,1,,,,32083232083
+1,Malaysia,10,Mas Elysa,GK Diviya,WA Duraisingam,,0,1,1,,,,32083232083
+1,Malaysia,10,WA Duraisingam,GK Diviya,Mas Elysa,,0,0,0,,,,32083232083
+1,Malaysia,10,WA Duraisingam,GK Diviya,Mas Elysa,,0,1,1,,,,32083232083
+1,Malaysia,10,Mas Elysa,GK Diviya,WA Duraisingam,,0,0,0,,,,32083232083
+1,Malaysia,10,Mas Elysa,GK Diviya,WA Duraisingam,,0,0,0,,,,32083232083
+1,Malaysia,11,WA Duraisingam,Vinu Kumar,Mas Elysa,,0,1,1,,,,32083232083
+1,Malaysia,11,Mas Elysa,Vinu Kumar,WA Duraisingam,,0,1,1,,,,32083232083
+1,Malaysia,11,WA Duraisingam,Vinu Kumar,Mas Elysa,,0,0,0,,,,32083232083
+1,Malaysia,11,WA Duraisingam,Vinu Kumar,Mas Elysa,,0,4,4,,,,32083232083
+1,Malaysia,11,WA Duraisingam,Vinu Kumar,Mas Elysa,byes,2,2,0,,,,32083232083
+1,Malaysia,11,WA Duraisingam,Vinu Kumar,Mas Elysa,,0,1,1,,,,32083232083
+1,Malaysia,12,WA Duraisingam,CH Abeyratne,Mas Elysa,,0,1,1,,,,32083232083
+1,Malaysia,12,Mas Elysa,CH Abeyratne,WA Duraisingam,wides,2,2,0,,,,32083232083
+1,Malaysia,12,WA Duraisingam,CH Abeyratne,Mas Elysa,,0,4,4,,,,32083232083
+1,Malaysia,12,WA Duraisingam,CH Abeyratne,Mas Elysa,,0,1,1,,,,32083232083
+1,Malaysia,12,Mas Elysa,CH Abeyratne,WA Duraisingam,,0,2,2,,,,32083232083
+1,Malaysia,12,Mas Elysa,CH Abeyratne,WA Duraisingam,,0,0,0,,,,32083232083
+1,Malaysia,12,Mas Elysa,CH Abeyratne,WA Duraisingam,,0,1,1,,,,32083232083
+1,Malaysia,13,Mas Elysa,I Shukla,WA Duraisingam,,0,0,0,,,,32083232083
+1,Malaysia,13,Mas Elysa,I Shukla,WA Duraisingam,,0,4,4,,,,32083232083
+1,Malaysia,13,Mas Elysa,I Shukla,WA Duraisingam,,0,4,4,,,,32083232083
+1,Malaysia,13,Mas Elysa,I Shukla,WA Duraisingam,legbyes,1,1,0,,,,32083232083
+1,Malaysia,13,WA Duraisingam,I Shukla,Mas Elysa,,0,2,2,,,,32083232083
+1,Malaysia,13,WA Duraisingam,I Shukla,Mas Elysa,,0,0,0,,,,32083232083
+1,Malaysia,14,Mas Elysa,Shafina Mahesh,WA Duraisingam,,0,0,0,caught,Mas Elysa,Vinu Kumar,32083232083
+1,Malaysia,14,WA Duraisingam,Shafina Mahesh,Siow Tzin Yee,,0,1,1,,,,32083232083
+1,Malaysia,14,Siow Tzin Yee,Shafina Mahesh,WA Duraisingam,,0,1,1,,,,32083232083
+1,Malaysia,14,WA Duraisingam,Shafina Mahesh,Siow Tzin Yee,,0,1,1,,,,32083232083
+1,Malaysia,14,Siow Tzin Yee,Shafina Mahesh,WA Duraisingam,,0,1,1,,,,32083232083
+1,Malaysia,14,WA Duraisingam,Shafina Mahesh,Siow Tzin Yee,,0,2,2,,,,32083232083
+1,Malaysia,15,Siow Tzin Yee,CH Abeyratne,WA Duraisingam,,0,0,0,,,,32083232083
+1,Malaysia,15,Siow Tzin Yee,CH Abeyratne,WA Duraisingam,,0,2,2,,,,32083232083
+1,Malaysia,15,Siow Tzin Yee,CH Abeyratne,WA Duraisingam,,0,1,1,,,,32083232083
+1,Malaysia,15,WA Duraisingam,CH Abeyratne,Siow Tzin Yee,,0,0,0,,,,32083232083
+1,Malaysia,15,WA Duraisingam,CH Abeyratne,Siow Tzin Yee,,0,1,1,,,,32083232083
+1,Malaysia,15,Siow Tzin Yee,CH Abeyratne,WA Duraisingam,,0,1,1,,,,32083232083
+1,Malaysia,16,Siow Tzin Yee,GK Diviya,WA Duraisingam,,0,0,0,,,,32083232083
+1,Malaysia,16,Siow Tzin Yee,GK Diviya,WA Duraisingam,,0,1,1,,,,32083232083
+1,Malaysia,16,WA Duraisingam,GK Diviya,Siow Tzin Yee,,0,0,0,,,,32083232083
+1,Malaysia,16,WA Duraisingam,GK Diviya,Siow Tzin Yee,,0,4,4,,,,32083232083
+1,Malaysia,16,WA Duraisingam,GK Diviya,Siow Tzin Yee,,0,0,0,bowled,WA Duraisingam,,32083232083
+1,Malaysia,16,Ainna Hamizah Hashim,GK Diviya,Siow Tzin Yee,,0,0,0,,,,32083232083
+1,Malaysia,17,Siow Tzin Yee,Ada Bhasin,Ainna Hamizah Hashim,,0,0,0,,,,32083232083
+1,Malaysia,17,Siow Tzin Yee,Ada Bhasin,Ainna Hamizah Hashim,,0,2,2,,,,32083232083
+1,Malaysia,17,Siow Tzin Yee,Ada Bhasin,Ainna Hamizah Hashim,,0,0,0,,,,32083232083
+1,Malaysia,17,Siow Tzin Yee,Ada Bhasin,Ainna Hamizah Hashim,wides,1,1,0,,,,32083232083
+1,Malaysia,17,Siow Tzin Yee,Ada Bhasin,Ainna Hamizah Hashim,,0,0,0,bowled,Siow Tzin Yee,,32083232083
+1,Malaysia,17,J Intan,Ada Bhasin,Ainna Hamizah Hashim,,0,0,0,,,,32083232083
+1,Malaysia,17,J Intan,Ada Bhasin,Ainna Hamizah Hashim,,0,0,0,,,,32083232083
+1,Malaysia,18,Ainna Hamizah Hashim,GK Diviya,J Intan,,0,0,0,,,,32083232083
+1,Malaysia,18,Ainna Hamizah Hashim,GK Diviya,J Intan,,0,0,0,,,,32083232083
+1,Malaysia,18,Ainna Hamizah Hashim,GK Diviya,J Intan,,0,1,1,,,,32083232083
+1,Malaysia,18,J Intan,GK Diviya,Ainna Hamizah Hashim,,0,2,2,,,,32083232083
+1,Malaysia,18,J Intan,GK Diviya,Ainna Hamizah Hashim,,0,0,0,,,,32083232083
+1,Malaysia,18,J Intan,GK Diviya,Ainna Hamizah Hashim,,0,0,0,,,,32083232083
+1,Malaysia,19,Ainna Hamizah Hashim,Ada Bhasin,J Intan,,0,2,2,,,,32083232083
+1,Malaysia,19,Ainna Hamizah Hashim,Ada Bhasin,J Intan,,0,1,1,,,,32083232083
+1,Malaysia,19,J Intan,Ada Bhasin,Ainna Hamizah Hashim,,0,4,4,,,,32083232083
+1,Malaysia,19,J Intan,Ada Bhasin,Ainna Hamizah Hashim,,0,2,2,,,,32083232083
+1,Malaysia,19,J Intan,Ada Bhasin,Ainna Hamizah Hashim,,0,1,1,,,,32083232083
+1,Malaysia,19,Ainna Hamizah Hashim,Ada Bhasin,J Intan,,0,2,2,,,,32083232083

@@ -1,0 +1,129 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Sri Lanka,0,MDKJ Perera,Shahadat Hossain,EMDY Munaweera,,0,0,0,,,,333523335
+1,Sri Lanka,0,MDKJ Perera,Shahadat Hossain,EMDY Munaweera,,0,4,4,,,,333523335
+1,Sri Lanka,0,MDKJ Perera,Shahadat Hossain,EMDY Munaweera,,0,0,0,,,,333523335
+1,Sri Lanka,0,MDKJ Perera,Shahadat Hossain,EMDY Munaweera,,0,0,0,,,,333523335
+1,Sri Lanka,0,MDKJ Perera,Shahadat Hossain,EMDY Munaweera,,0,6,6,,,,333523335
+1,Sri Lanka,0,MDKJ Perera,Shahadat Hossain,EMDY Munaweera,,0,4,4,,,,333523335
+1,Sri Lanka,1,EMDY Munaweera,Rubel Hossain,MDKJ Perera,,0,0,0,,,,333523335
+1,Sri Lanka,1,EMDY Munaweera,Rubel Hossain,MDKJ Perera,,0,0,0,,,,333523335
+1,Sri Lanka,1,EMDY Munaweera,Rubel Hossain,MDKJ Perera,wides,5,5,0,,,,333523335
+1,Sri Lanka,1,EMDY Munaweera,Rubel Hossain,MDKJ Perera,,0,1,1,,,,333523335
+1,Sri Lanka,1,MDKJ Perera,Rubel Hossain,EMDY Munaweera,,0,0,0,,,,333523335
+1,Sri Lanka,1,MDKJ Perera,Rubel Hossain,EMDY Munaweera,legbyes,1,1,0,,,,333523335
+1,Sri Lanka,1,EMDY Munaweera,Rubel Hossain,MDKJ Perera,,0,4,4,,,,333523335
+1,Sri Lanka,2,MDKJ Perera,Sohag Gazi,EMDY Munaweera,,0,6,6,,,,333523335
+1,Sri Lanka,2,MDKJ Perera,Sohag Gazi,EMDY Munaweera,,0,0,0,,,,333523335
+1,Sri Lanka,2,MDKJ Perera,Sohag Gazi,EMDY Munaweera,legbyes,1,1,0,,,,333523335
+1,Sri Lanka,2,EMDY Munaweera,Sohag Gazi,MDKJ Perera,,0,0,0,bowled,EMDY Munaweera,,333523335
+1,Sri Lanka,2,LD Chandimal,Sohag Gazi,MDKJ Perera,,0,1,1,,,,333523335
+1,Sri Lanka,2,MDKJ Perera,Sohag Gazi,LD Chandimal,,0,2,2,,,,333523335
+1,Sri Lanka,3,LD Chandimal,Rubel Hossain,MDKJ Perera,,0,0,0,,,,333523335
+1,Sri Lanka,3,LD Chandimal,Rubel Hossain,MDKJ Perera,wides,3,3,0,,,,333523335
+1,Sri Lanka,3,LD Chandimal,Rubel Hossain,MDKJ Perera,,0,0,0,,,,333523335
+1,Sri Lanka,3,LD Chandimal,Rubel Hossain,MDKJ Perera,,0,1,1,,,,333523335
+1,Sri Lanka,3,MDKJ Perera,Rubel Hossain,LD Chandimal,,0,1,1,,,,333523335
+1,Sri Lanka,3,LD Chandimal,Rubel Hossain,MDKJ Perera,,0,1,1,,,,333523335
+1,Sri Lanka,3,MDKJ Perera,Rubel Hossain,LD Chandimal,,0,4,4,,,,333523335
+1,Sri Lanka,4,LD Chandimal,Sohag Gazi,MDKJ Perera,,0,1,1,,,,333523335
+1,Sri Lanka,4,MDKJ Perera,Sohag Gazi,LD Chandimal,legbyes,1,1,0,,,,333523335
+1,Sri Lanka,4,LD Chandimal,Sohag Gazi,MDKJ Perera,,0,0,0,,,,333523335
+1,Sri Lanka,4,LD Chandimal,Sohag Gazi,MDKJ Perera,,0,1,1,,,,333523335
+1,Sri Lanka,4,MDKJ Perera,Sohag Gazi,LD Chandimal,,0,4,4,,,,333523335
+1,Sri Lanka,4,MDKJ Perera,Sohag Gazi,LD Chandimal,,0,0,0,,,,333523335
+1,Sri Lanka,5,LD Chandimal,Abdur Razzak,MDKJ Perera,,0,1,1,,,,333523335
+1,Sri Lanka,5,MDKJ Perera,Abdur Razzak,LD Chandimal,,0,0,0,,,,333523335
+1,Sri Lanka,5,MDKJ Perera,Abdur Razzak,LD Chandimal,,0,6,6,,,,333523335
+1,Sri Lanka,5,MDKJ Perera,Abdur Razzak,LD Chandimal,,0,0,0,,,,333523335
+1,Sri Lanka,5,MDKJ Perera,Abdur Razzak,LD Chandimal,,0,2,2,,,,333523335
+1,Sri Lanka,5,MDKJ Perera,Abdur Razzak,LD Chandimal,,0,1,1,,,,333523335
+1,Sri Lanka,6,MDKJ Perera,Shahadat Hossain,LD Chandimal,,0,0,0,,,,333523335
+1,Sri Lanka,6,MDKJ Perera,Shahadat Hossain,LD Chandimal,,0,4,4,,,,333523335
+1,Sri Lanka,6,MDKJ Perera,Shahadat Hossain,LD Chandimal,,0,2,2,,,,333523335
+1,Sri Lanka,6,MDKJ Perera,Shahadat Hossain,LD Chandimal,,0,0,0,,,,333523335
+1,Sri Lanka,6,MDKJ Perera,Shahadat Hossain,LD Chandimal,,0,1,1,,,,333523335
+1,Sri Lanka,6,LD Chandimal,Shahadat Hossain,MDKJ Perera,,0,2,2,,,,333523335
+1,Sri Lanka,7,MDKJ Perera,Mahmudullah,LD Chandimal,,0,0,0,,,,333523335
+1,Sri Lanka,7,MDKJ Perera,Mahmudullah,LD Chandimal,,0,1,1,,,,333523335
+1,Sri Lanka,7,LD Chandimal,Mahmudullah,MDKJ Perera,,0,1,1,,,,333523335
+1,Sri Lanka,7,MDKJ Perera,Mahmudullah,LD Chandimal,,0,2,2,,,,333523335
+1,Sri Lanka,7,MDKJ Perera,Mahmudullah,LD Chandimal,,0,1,1,,,,333523335
+1,Sri Lanka,7,LD Chandimal,Mahmudullah,MDKJ Perera,legbyes,1,1,0,,,,333523335
+1,Sri Lanka,8,LD Chandimal,Abdur Razzak,MDKJ Perera,,0,0,0,caught,LD Chandimal,Jahurul Islam,333523335
+1,Sri Lanka,8,HDRL Thirimanne,Abdur Razzak,MDKJ Perera,,0,1,1,,,,333523335
+1,Sri Lanka,8,MDKJ Perera,Abdur Razzak,HDRL Thirimanne,,0,1,1,,,,333523335
+1,Sri Lanka,8,HDRL Thirimanne,Abdur Razzak,MDKJ Perera,,0,0,0,,,,333523335
+1,Sri Lanka,8,HDRL Thirimanne,Abdur Razzak,MDKJ Perera,,0,1,1,,,,333523335
+1,Sri Lanka,8,MDKJ Perera,Abdur Razzak,HDRL Thirimanne,,0,0,0,,,,333523335
+1,Sri Lanka,9,HDRL Thirimanne,Mahmudullah,MDKJ Perera,,0,1,1,,,,333523335
+1,Sri Lanka,9,MDKJ Perera,Mahmudullah,HDRL Thirimanne,,0,2,2,,,,333523335
+1,Sri Lanka,9,MDKJ Perera,Mahmudullah,HDRL Thirimanne,legbyes,1,1,0,,,,333523335
+1,Sri Lanka,9,HDRL Thirimanne,Mahmudullah,MDKJ Perera,,0,2,2,,,,333523335
+1,Sri Lanka,9,HDRL Thirimanne,Mahmudullah,MDKJ Perera,,0,0,0,,,,333523335
+1,Sri Lanka,9,HDRL Thirimanne,Mahmudullah,MDKJ Perera,,0,0,0,run out,HDRL Thirimanne,Mushfiqur Rahim,333523335
+1,Sri Lanka,10,MDKJ Perera,Sohag Gazi,AD Mathews,,0,1,1,,,,333523335
+1,Sri Lanka,10,AD Mathews,Sohag Gazi,MDKJ Perera,,0,1,1,,,,333523335
+1,Sri Lanka,10,MDKJ Perera,Sohag Gazi,AD Mathews,,0,1,1,,,,333523335
+1,Sri Lanka,10,AD Mathews,Sohag Gazi,MDKJ Perera,,0,1,1,,,,333523335
+1,Sri Lanka,10,MDKJ Perera,Sohag Gazi,AD Mathews,,0,0,0,,,,333523335
+1,Sri Lanka,10,MDKJ Perera,Sohag Gazi,AD Mathews,,0,0,0,,,,333523335
+1,Sri Lanka,11,AD Mathews,Mahmudullah,MDKJ Perera,,0,1,1,,,,333523335
+1,Sri Lanka,11,MDKJ Perera,Mahmudullah,AD Mathews,wides,1,1,0,,,,333523335
+1,Sri Lanka,11,MDKJ Perera,Mahmudullah,AD Mathews,,0,6,6,,,,333523335
+1,Sri Lanka,11,MDKJ Perera,Mahmudullah,AD Mathews,,0,2,2,,,,333523335
+1,Sri Lanka,11,MDKJ Perera,Mahmudullah,AD Mathews,,0,0,0,,,,333523335
+1,Sri Lanka,11,MDKJ Perera,Mahmudullah,AD Mathews,,0,0,0,,,,333523335
+1,Sri Lanka,11,MDKJ Perera,Mahmudullah,AD Mathews,,0,0,0,caught,MDKJ Perera,Mushfiqur Rahim,333523335
+1,Sri Lanka,12,AD Mathews,Shahadat Hossain,BMAJ Mendis,,0,0,0,,,,333523335
+1,Sri Lanka,12,AD Mathews,Shahadat Hossain,BMAJ Mendis,,0,0,0,,,,333523335
+1,Sri Lanka,12,AD Mathews,Shahadat Hossain,BMAJ Mendis,,0,1,1,,,,333523335
+1,Sri Lanka,12,BMAJ Mendis,Shahadat Hossain,AD Mathews,,0,4,4,,,,333523335
+1,Sri Lanka,12,BMAJ Mendis,Shahadat Hossain,AD Mathews,,0,1,1,,,,333523335
+1,Sri Lanka,12,AD Mathews,Shahadat Hossain,BMAJ Mendis,,0,1,1,,,,333523335
+1,Sri Lanka,13,AD Mathews,Mahmudullah,BMAJ Mendis,,0,1,1,,,,333523335
+1,Sri Lanka,13,BMAJ Mendis,Mahmudullah,AD Mathews,,0,0,0,,,,333523335
+1,Sri Lanka,13,BMAJ Mendis,Mahmudullah,AD Mathews,,0,1,1,,,,333523335
+1,Sri Lanka,13,AD Mathews,Mahmudullah,BMAJ Mendis,,0,2,2,,,,333523335
+1,Sri Lanka,13,AD Mathews,Mahmudullah,BMAJ Mendis,wides,1,1,0,,,,333523335
+1,Sri Lanka,13,AD Mathews,Mahmudullah,BMAJ Mendis,,0,1,1,,,,333523335
+1,Sri Lanka,13,BMAJ Mendis,Mahmudullah,AD Mathews,,0,2,2,,,,333523335
+1,Sri Lanka,14,AD Mathews,Abdur Razzak,BMAJ Mendis,,0,1,1,,,,333523335
+1,Sri Lanka,14,BMAJ Mendis,Abdur Razzak,AD Mathews,legbyes,1,1,0,,,,333523335
+1,Sri Lanka,14,AD Mathews,Abdur Razzak,BMAJ Mendis,,0,1,1,,,,333523335
+1,Sri Lanka,14,BMAJ Mendis,Abdur Razzak,AD Mathews,,0,2,2,,,,333523335
+1,Sri Lanka,14,BMAJ Mendis,Abdur Razzak,AD Mathews,wides,1,1,0,,,,333523335
+1,Sri Lanka,14,BMAJ Mendis,Abdur Razzak,AD Mathews,,0,1,1,,,,333523335
+1,Sri Lanka,14,AD Mathews,Abdur Razzak,BMAJ Mendis,,0,1,1,,,,333523335
+1,Sri Lanka,15,AD Mathews,Sohag Gazi,BMAJ Mendis,,0,1,1,,,,333523335
+1,Sri Lanka,15,BMAJ Mendis,Sohag Gazi,AD Mathews,wides,2,2,0,,,,333523335
+1,Sri Lanka,15,AD Mathews,Sohag Gazi,BMAJ Mendis,,0,4,4,,,,333523335
+1,Sri Lanka,15,AD Mathews,Sohag Gazi,BMAJ Mendis,,0,2,2,,,,333523335
+1,Sri Lanka,15,AD Mathews,Sohag Gazi,BMAJ Mendis,,0,0,0,,,,333523335
+1,Sri Lanka,15,AD Mathews,Sohag Gazi,BMAJ Mendis,,0,1,1,,,,333523335
+1,Sri Lanka,15,BMAJ Mendis,Sohag Gazi,AD Mathews,,0,1,1,,,,333523335
+1,Sri Lanka,16,BMAJ Mendis,Abdur Razzak,AD Mathews,,0,6,6,,,,333523335
+1,Sri Lanka,16,BMAJ Mendis,Abdur Razzak,AD Mathews,,0,6,6,,,,333523335
+1,Sri Lanka,16,BMAJ Mendis,Abdur Razzak,AD Mathews,,0,1,1,,,,333523335
+1,Sri Lanka,16,AD Mathews,Abdur Razzak,BMAJ Mendis,legbyes,1,1,0,,,,333523335
+1,Sri Lanka,16,BMAJ Mendis,Abdur Razzak,AD Mathews,wides,5,5,0,,,,333523335
+1,Sri Lanka,16,BMAJ Mendis,Abdur Razzak,AD Mathews,,0,1,1,,,,333523335
+1,Sri Lanka,16,AD Mathews,Abdur Razzak,BMAJ Mendis,,0,0,0,,,,333523335
+1,Sri Lanka,17,BMAJ Mendis,Rubel Hossain,AD Mathews,,0,6,6,,,,333523335
+1,Sri Lanka,17,BMAJ Mendis,Rubel Hossain,AD Mathews,,0,4,4,,,,333523335
+1,Sri Lanka,17,BMAJ Mendis,Rubel Hossain,AD Mathews,,0,1,1,,,,333523335
+1,Sri Lanka,17,AD Mathews,Rubel Hossain,BMAJ Mendis,,0,1,1,,,,333523335
+1,Sri Lanka,17,BMAJ Mendis,Rubel Hossain,AD Mathews,,0,0,0,bowled,BMAJ Mendis,,333523335
+1,Sri Lanka,17,NLTC Perera,Rubel Hossain,AD Mathews,,0,0,0,,,,333523335
+1,Sri Lanka,18,AD Mathews,Shahadat Hossain,NLTC Perera,,0,2,2,,,,333523335
+1,Sri Lanka,18,AD Mathews,Shahadat Hossain,NLTC Perera,,0,1,1,,,,333523335
+1,Sri Lanka,18,NLTC Perera,Shahadat Hossain,AD Mathews,,0,4,4,,,,333523335
+1,Sri Lanka,18,NLTC Perera,Shahadat Hossain,AD Mathews,,0,6,6,,,,333523335
+1,Sri Lanka,18,NLTC Perera,Shahadat Hossain,AD Mathews,,0,4,4,,,,333523335
+1,Sri Lanka,18,NLTC Perera,Shahadat Hossain,AD Mathews,wides,1,1,0,,,,333523335
+1,Sri Lanka,18,NLTC Perera,Shahadat Hossain,AD Mathews,,0,6,6,,,,333523335
+1,Sri Lanka,19,AD Mathews,Rubel Hossain,NLTC Perera,,0,1,1,,,,333523335
+1,Sri Lanka,19,NLTC Perera,Rubel Hossain,AD Mathews,,0,1,1,,,,333523335
+1,Sri Lanka,19,AD Mathews,Rubel Hossain,NLTC Perera,,0,1,1,,,,333523335
+1,Sri Lanka,19,NLTC Perera,Rubel Hossain,AD Mathews,,0,1,1,,,,333523335
+1,Sri Lanka,19,AD Mathews,Rubel Hossain,NLTC Perera,,0,2,2,,,,333523335
+1,Sri Lanka,19,AD Mathews,Rubel Hossain,NLTC Perera,,0,2,2,,,,333523335

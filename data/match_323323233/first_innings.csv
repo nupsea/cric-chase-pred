@@ -1,0 +1,127 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,RE Levi,XJ Doherty,HM Amla,,0,0,0,,,,323323233
+1,South Africa,0,RE Levi,XJ Doherty,HM Amla,,0,0,0,,,,323323233
+1,South Africa,0,RE Levi,XJ Doherty,HM Amla,,0,0,0,bowled,RE Levi,,323323233
+1,South Africa,0,JH Kallis,XJ Doherty,HM Amla,,0,1,1,,,,323323233
+1,South Africa,0,HM Amla,XJ Doherty,JH Kallis,,0,1,1,,,,323323233
+1,South Africa,0,JH Kallis,XJ Doherty,HM Amla,,0,0,0,,,,323323233
+1,South Africa,1,HM Amla,MA Starc,JH Kallis,,0,0,0,,,,323323233
+1,South Africa,1,HM Amla,MA Starc,JH Kallis,,0,1,1,,,,323323233
+1,South Africa,1,JH Kallis,MA Starc,HM Amla,,0,0,0,,,,323323233
+1,South Africa,1,JH Kallis,MA Starc,HM Amla,,0,0,0,,,,323323233
+1,South Africa,1,JH Kallis,MA Starc,HM Amla,,0,4,4,,,,323323233
+1,South Africa,1,JH Kallis,MA Starc,HM Amla,,0,1,1,,,,323323233
+1,South Africa,2,JH Kallis,XJ Doherty,HM Amla,,0,0,0,caught,JH Kallis,MS Wade,323323233
+1,South Africa,2,JP Duminy,XJ Doherty,HM Amla,,0,0,0,,,,323323233
+1,South Africa,2,JP Duminy,XJ Doherty,HM Amla,,0,1,1,,,,323323233
+1,South Africa,2,HM Amla,XJ Doherty,JP Duminy,,0,6,6,,,,323323233
+1,South Africa,2,HM Amla,XJ Doherty,JP Duminy,,0,0,0,,,,323323233
+1,South Africa,2,HM Amla,XJ Doherty,JP Duminy,,0,1,1,,,,323323233
+1,South Africa,3,HM Amla,MA Starc,JP Duminy,,0,0,0,,,,323323233
+1,South Africa,3,HM Amla,MA Starc,JP Duminy,,0,0,0,,,,323323233
+1,South Africa,3,HM Amla,MA Starc,JP Duminy,,0,1,1,,,,323323233
+1,South Africa,3,JP Duminy,MA Starc,HM Amla,wides,1,1,0,,,,323323233
+1,South Africa,3,JP Duminy,MA Starc,HM Amla,,0,0,0,,,,323323233
+1,South Africa,3,JP Duminy,MA Starc,HM Amla,,0,0,0,,,,323323233
+1,South Africa,3,JP Duminy,MA Starc,HM Amla,,0,4,4,,,,323323233
+1,South Africa,4,HM Amla,PJ Cummins,JP Duminy,,0,1,1,,,,323323233
+1,South Africa,4,JP Duminy,PJ Cummins,HM Amla,,0,0,0,,,,323323233
+1,South Africa,4,JP Duminy,PJ Cummins,HM Amla,,0,1,1,,,,323323233
+1,South Africa,4,HM Amla,PJ Cummins,JP Duminy,,0,4,4,,,,323323233
+1,South Africa,4,HM Amla,PJ Cummins,JP Duminy,,0,1,1,,,,323323233
+1,South Africa,4,JP Duminy,PJ Cummins,HM Amla,,0,1,1,,,,323323233
+1,South Africa,5,JP Duminy,SR Watson,HM Amla,,0,1,1,,,,323323233
+1,South Africa,5,HM Amla,SR Watson,JP Duminy,,0,1,1,,,,323323233
+1,South Africa,5,JP Duminy,SR Watson,HM Amla,,0,1,1,,,,323323233
+1,South Africa,5,HM Amla,SR Watson,JP Duminy,,0,0,0,,,,323323233
+1,South Africa,5,HM Amla,SR Watson,JP Duminy,,0,0,0,caught,HM Amla,MS Wade,323323233
+1,South Africa,5,AB de Villiers,SR Watson,JP Duminy,,0,1,1,,,,323323233
+1,South Africa,6,AB de Villiers,PJ Cummins,JP Duminy,,0,0,0,,,,323323233
+1,South Africa,6,AB de Villiers,PJ Cummins,JP Duminy,,0,0,0,,,,323323233
+1,South Africa,6,AB de Villiers,PJ Cummins,JP Duminy,wides,1,1,0,,,,323323233
+1,South Africa,6,AB de Villiers,PJ Cummins,JP Duminy,,0,1,1,,,,323323233
+1,South Africa,6,JP Duminy,PJ Cummins,AB de Villiers,,0,4,4,,,,323323233
+1,South Africa,6,JP Duminy,PJ Cummins,AB de Villiers,,0,1,1,,,,323323233
+1,South Africa,6,AB de Villiers,PJ Cummins,JP Duminy,,0,1,1,,,,323323233
+1,South Africa,7,AB de Villiers,GB Hogg,JP Duminy,,0,1,1,,,,323323233
+1,South Africa,7,JP Duminy,GB Hogg,AB de Villiers,,0,4,4,,,,323323233
+1,South Africa,7,JP Duminy,GB Hogg,AB de Villiers,,0,1,1,,,,323323233
+1,South Africa,7,AB de Villiers,GB Hogg,JP Duminy,,0,1,1,,,,323323233
+1,South Africa,7,JP Duminy,GB Hogg,AB de Villiers,,0,0,0,,,,323323233
+1,South Africa,7,JP Duminy,GB Hogg,AB de Villiers,,0,0,0,,,,323323233
+1,South Africa,8,AB de Villiers,SR Watson,JP Duminy,,0,1,1,,,,323323233
+1,South Africa,8,JP Duminy,SR Watson,AB de Villiers,,0,0,0,,,,323323233
+1,South Africa,8,JP Duminy,SR Watson,AB de Villiers,,0,4,4,,,,323323233
+1,South Africa,8,JP Duminy,SR Watson,AB de Villiers,,0,1,1,,,,323323233
+1,South Africa,8,AB de Villiers,SR Watson,JP Duminy,,0,1,1,,,,323323233
+1,South Africa,8,JP Duminy,SR Watson,AB de Villiers,,0,1,1,,,,323323233
+1,South Africa,9,JP Duminy,GJ Maxwell,AB de Villiers,,0,2,2,,,,323323233
+1,South Africa,9,JP Duminy,GJ Maxwell,AB de Villiers,,0,1,1,,,,323323233
+1,South Africa,9,AB de Villiers,GJ Maxwell,JP Duminy,,0,1,1,,,,323323233
+1,South Africa,9,JP Duminy,GJ Maxwell,AB de Villiers,,0,1,1,,,,323323233
+1,South Africa,9,AB de Villiers,GJ Maxwell,JP Duminy,,0,1,1,,,,323323233
+1,South Africa,9,JP Duminy,GJ Maxwell,AB de Villiers,,0,1,1,,,,323323233
+1,South Africa,10,JP Duminy,XJ Doherty,AB de Villiers,,0,0,0,stumped,JP Duminy,MS Wade,323323233
+1,South Africa,10,F Behardien,XJ Doherty,AB de Villiers,,0,1,1,,,,323323233
+1,South Africa,10,AB de Villiers,XJ Doherty,F Behardien,,0,1,1,,,,323323233
+1,South Africa,10,F Behardien,XJ Doherty,AB de Villiers,,0,0,0,,,,323323233
+1,South Africa,10,F Behardien,XJ Doherty,AB de Villiers,,0,0,0,,,,323323233
+1,South Africa,10,F Behardien,XJ Doherty,AB de Villiers,,0,0,0,,,,323323233
+1,South Africa,11,AB de Villiers,GB Hogg,F Behardien,,0,2,2,,,,323323233
+1,South Africa,11,AB de Villiers,GB Hogg,F Behardien,,0,1,1,,,,323323233
+1,South Africa,11,F Behardien,GB Hogg,AB de Villiers,,0,1,1,,,,323323233
+1,South Africa,11,AB de Villiers,GB Hogg,F Behardien,,0,1,1,,,,323323233
+1,South Africa,11,F Behardien,GB Hogg,AB de Villiers,,0,1,1,,,,323323233
+1,South Africa,11,AB de Villiers,GB Hogg,F Behardien,,0,1,1,,,,323323233
+1,South Africa,12,AB de Villiers,MA Starc,F Behardien,,0,1,1,,,,323323233
+1,South Africa,12,F Behardien,MA Starc,AB de Villiers,,0,1,1,,,,323323233
+1,South Africa,12,AB de Villiers,MA Starc,F Behardien,,0,2,2,,,,323323233
+1,South Africa,12,AB de Villiers,MA Starc,F Behardien,,0,0,0,,,,323323233
+1,South Africa,12,AB de Villiers,MA Starc,F Behardien,,0,0,0,,,,323323233
+1,South Africa,12,AB de Villiers,MA Starc,F Behardien,,0,1,1,,,,323323233
+1,South Africa,13,AB de Villiers,XJ Doherty,F Behardien,wides,2,2,0,,,,323323233
+1,South Africa,13,F Behardien,XJ Doherty,AB de Villiers,,0,2,2,,,,323323233
+1,South Africa,13,F Behardien,XJ Doherty,AB de Villiers,,0,0,0,,,,323323233
+1,South Africa,13,F Behardien,XJ Doherty,AB de Villiers,,0,1,1,,,,323323233
+1,South Africa,13,AB de Villiers,XJ Doherty,F Behardien,,0,1,1,,,,323323233
+1,South Africa,13,F Behardien,XJ Doherty,AB de Villiers,,0,1,1,,,,323323233
+1,South Africa,13,AB de Villiers,XJ Doherty,F Behardien,,0,1,1,,,,323323233
+1,South Africa,14,AB de Villiers,SR Watson,F Behardien,,0,0,0,caught,AB de Villiers,GJ Bailey,323323233
+1,South Africa,14,RJ Peterson,SR Watson,F Behardien,,0,1,1,,,,323323233
+1,South Africa,14,F Behardien,SR Watson,RJ Peterson,,0,0,0,,,,323323233
+1,South Africa,14,F Behardien,SR Watson,RJ Peterson,,0,4,4,,,,323323233
+1,South Africa,14,F Behardien,SR Watson,RJ Peterson,,0,0,0,,,,323323233
+1,South Africa,14,F Behardien,SR Watson,RJ Peterson,,0,1,1,,,,323323233
+1,South Africa,15,F Behardien,GB Hogg,RJ Peterson,wides,2,2,0,,,,323323233
+1,South Africa,15,RJ Peterson,GB Hogg,F Behardien,,0,4,4,,,,323323233
+1,South Africa,15,RJ Peterson,GB Hogg,F Behardien,,0,1,1,,,,323323233
+1,South Africa,15,F Behardien,GB Hogg,RJ Peterson,,0,0,0,,,,323323233
+1,South Africa,15,F Behardien,GB Hogg,RJ Peterson,,0,0,0,,,,323323233
+1,South Africa,15,F Behardien,GB Hogg,RJ Peterson,,0,1,1,,,,323323233
+1,South Africa,15,RJ Peterson,GB Hogg,F Behardien,,0,4,4,,,,323323233
+1,South Africa,16,F Behardien,PJ Cummins,RJ Peterson,,0,1,1,,,,323323233
+1,South Africa,16,RJ Peterson,PJ Cummins,F Behardien,,0,0,0,,,,323323233
+1,South Africa,16,RJ Peterson,PJ Cummins,F Behardien,,0,0,0,,,,323323233
+1,South Africa,16,RJ Peterson,PJ Cummins,F Behardien,,0,0,0,,,,323323233
+1,South Africa,16,RJ Peterson,PJ Cummins,F Behardien,,0,1,1,,,,323323233
+1,South Africa,16,F Behardien,PJ Cummins,RJ Peterson,,0,1,1,,,,323323233
+1,South Africa,17,F Behardien,SR Watson,RJ Peterson,,0,1,1,,,,323323233
+1,South Africa,17,RJ Peterson,SR Watson,F Behardien,,0,1,1,,,,323323233
+1,South Africa,17,F Behardien,SR Watson,RJ Peterson,wides,1,1,0,,,,323323233
+1,South Africa,17,F Behardien,SR Watson,RJ Peterson,,0,1,1,,,,323323233
+1,South Africa,17,RJ Peterson,SR Watson,F Behardien,,0,4,4,,,,323323233
+1,South Africa,17,RJ Peterson,SR Watson,F Behardien,,0,1,1,,,,323323233
+1,South Africa,17,F Behardien,SR Watson,RJ Peterson,,0,2,2,,,,323323233
+1,South Africa,18,RJ Peterson,PJ Cummins,F Behardien,,0,0,0,,,,323323233
+1,South Africa,18,RJ Peterson,PJ Cummins,F Behardien,,0,2,2,,,,323323233
+1,South Africa,18,RJ Peterson,PJ Cummins,F Behardien,,0,1,1,,,,323323233
+1,South Africa,18,F Behardien,PJ Cummins,RJ Peterson,,0,4,4,,,,323323233
+1,South Africa,18,F Behardien,PJ Cummins,RJ Peterson,,0,0,0,,,,323323233
+1,South Africa,18,F Behardien,PJ Cummins,RJ Peterson,wides,1,1,0,,,,323323233
+1,South Africa,18,F Behardien,PJ Cummins,RJ Peterson,,0,6,6,,,,323323233
+1,South Africa,19,RJ Peterson,MA Starc,F Behardien,,0,4,4,,,,323323233
+1,South Africa,19,RJ Peterson,MA Starc,F Behardien,,0,4,4,,,,323323233
+1,South Africa,19,RJ Peterson,MA Starc,F Behardien,,0,0,0,,,,323323233
+1,South Africa,19,RJ Peterson,MA Starc,F Behardien,,0,4,4,,,,323323233
+1,South Africa,19,RJ Peterson,MA Starc,F Behardien,byes,1,1,0,,,,323323233
+1,South Africa,19,F Behardien,MA Starc,RJ Peterson,,0,1,1,,,,323323233

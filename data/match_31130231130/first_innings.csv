@@ -1,0 +1,122 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,South Africa,0,Q de Kock,MA Starc,RR Hendricks,,0,0,0,,,,31130231130
+1,South Africa,0,Q de Kock,MA Starc,RR Hendricks,,0,1,1,,,,31130231130
+1,South Africa,0,RR Hendricks,MA Starc,Q de Kock,,0,1,1,,,,31130231130
+1,South Africa,0,Q de Kock,MA Starc,RR Hendricks,,0,1,1,,,,31130231130
+1,South Africa,0,RR Hendricks,MA Starc,Q de Kock,wides,1,1,0,,,,31130231130
+1,South Africa,0,RR Hendricks,MA Starc,Q de Kock,,0,0,0,,,,31130231130
+1,South Africa,0,RR Hendricks,MA Starc,Q de Kock,,0,0,0,,,,31130231130
+1,South Africa,1,Q de Kock,PJ Cummins,RR Hendricks,,0,0,0,,,,31130231130
+1,South Africa,1,Q de Kock,PJ Cummins,RR Hendricks,,0,6,6,,,,31130231130
+1,South Africa,1,Q de Kock,PJ Cummins,RR Hendricks,,0,0,0,,,,31130231130
+1,South Africa,1,Q de Kock,PJ Cummins,RR Hendricks,,0,6,6,,,,31130231130
+1,South Africa,1,Q de Kock,PJ Cummins,RR Hendricks,,0,1,1,,,,31130231130
+1,South Africa,1,RR Hendricks,PJ Cummins,Q de Kock,,0,1,1,,,,31130231130
+1,South Africa,2,RR Hendricks,MA Starc,Q de Kock,,0,0,0,,,,31130231130
+1,South Africa,2,RR Hendricks,MA Starc,Q de Kock,,0,4,4,,,,31130231130
+1,South Africa,2,RR Hendricks,MA Starc,Q de Kock,,0,1,1,,,,31130231130
+1,South Africa,2,Q de Kock,MA Starc,RR Hendricks,,0,6,6,,,,31130231130
+1,South Africa,2,Q de Kock,MA Starc,RR Hendricks,,0,0,0,,,,31130231130
+1,South Africa,2,Q de Kock,MA Starc,RR Hendricks,,0,1,1,,,,31130231130
+1,South Africa,3,Q de Kock,KW Richardson,RR Hendricks,,0,4,4,,,,31130231130
+1,South Africa,3,Q de Kock,KW Richardson,RR Hendricks,,0,4,4,,,,31130231130
+1,South Africa,3,Q de Kock,KW Richardson,RR Hendricks,legbyes,1,1,0,,,,31130231130
+1,South Africa,3,RR Hendricks,KW Richardson,Q de Kock,,0,0,0,,,,31130231130
+1,South Africa,3,RR Hendricks,KW Richardson,Q de Kock,,0,0,0,,,,31130231130
+1,South Africa,3,RR Hendricks,KW Richardson,Q de Kock,,0,1,1,,,,31130231130
+1,South Africa,4,RR Hendricks,PJ Cummins,Q de Kock,,0,0,0,,,,31130231130
+1,South Africa,4,RR Hendricks,PJ Cummins,Q de Kock,,0,2,2,,,,31130231130
+1,South Africa,4,RR Hendricks,PJ Cummins,Q de Kock,,0,0,0,,,,31130231130
+1,South Africa,4,RR Hendricks,PJ Cummins,Q de Kock,,0,2,2,,,,31130231130
+1,South Africa,4,RR Hendricks,PJ Cummins,Q de Kock,,0,1,1,,,,31130231130
+1,South Africa,4,Q de Kock,PJ Cummins,RR Hendricks,,0,1,1,,,,31130231130
+1,South Africa,5,Q de Kock,A Zampa,RR Hendricks,,0,0,0,,,,31130231130
+1,South Africa,5,Q de Kock,A Zampa,RR Hendricks,,0,1,1,,,,31130231130
+1,South Africa,5,RR Hendricks,A Zampa,Q de Kock,,0,1,1,,,,31130231130
+1,South Africa,5,Q de Kock,A Zampa,RR Hendricks,,0,4,4,,,,31130231130
+1,South Africa,5,Q de Kock,A Zampa,RR Hendricks,,0,6,6,,,,31130231130
+1,South Africa,5,Q de Kock,A Zampa,RR Hendricks,,0,1,1,,,,31130231130
+1,South Africa,6,Q de Kock,KW Richardson,RR Hendricks,,0,0,0,,,,31130231130
+1,South Africa,6,Q de Kock,KW Richardson,RR Hendricks,,0,1,1,,,,31130231130
+1,South Africa,6,RR Hendricks,KW Richardson,Q de Kock,,0,0,0,caught,RR Hendricks,AC Agar,31130231130
+1,South Africa,6,Q de Kock,KW Richardson,F du Plessis,,0,1,1,,,,31130231130
+1,South Africa,6,F du Plessis,KW Richardson,Q de Kock,,0,0,0,,,,31130231130
+1,South Africa,6,F du Plessis,KW Richardson,Q de Kock,,0,1,1,,,,31130231130
+1,South Africa,7,F du Plessis,AC Agar,Q de Kock,,0,3,3,,,,31130231130
+1,South Africa,7,Q de Kock,AC Agar,F du Plessis,,0,1,1,,,,31130231130
+1,South Africa,7,F du Plessis,AC Agar,Q de Kock,,0,1,1,,,,31130231130
+1,South Africa,7,Q de Kock,AC Agar,F du Plessis,legbyes,1,1,0,,,,31130231130
+1,South Africa,7,F du Plessis,AC Agar,Q de Kock,,0,2,2,,,,31130231130
+1,South Africa,7,F du Plessis,AC Agar,Q de Kock,,0,0,0,,,,31130231130
+1,South Africa,8,Q de Kock,A Zampa,F du Plessis,,0,1,1,,,,31130231130
+1,South Africa,8,F du Plessis,A Zampa,Q de Kock,,0,1,1,,,,31130231130
+1,South Africa,8,Q de Kock,A Zampa,F du Plessis,,0,1,1,,,,31130231130
+1,South Africa,8,F du Plessis,A Zampa,Q de Kock,,0,4,4,,,,31130231130
+1,South Africa,8,F du Plessis,A Zampa,Q de Kock,,0,0,0,,,,31130231130
+1,South Africa,8,F du Plessis,A Zampa,Q de Kock,,0,1,1,,,,31130231130
+1,South Africa,9,F du Plessis,AC Agar,Q de Kock,,0,1,1,,,,31130231130
+1,South Africa,9,Q de Kock,AC Agar,F du Plessis,,0,1,1,,,,31130231130
+1,South Africa,9,F du Plessis,AC Agar,Q de Kock,,0,0,0,,,,31130231130
+1,South Africa,9,F du Plessis,AC Agar,Q de Kock,,0,1,1,,,,31130231130
+1,South Africa,9,Q de Kock,AC Agar,F du Plessis,,0,0,0,,,,31130231130
+1,South Africa,9,Q de Kock,AC Agar,F du Plessis,,0,0,0,,,,31130231130
+1,South Africa,10,F du Plessis,PJ Cummins,Q de Kock,,0,0,0,caught,F du Plessis,KW Richardson,31130231130
+1,South Africa,10,Q de Kock,PJ Cummins,HE van der Dussen,,0,1,1,,,,31130231130
+1,South Africa,10,HE van der Dussen,PJ Cummins,Q de Kock,,0,1,1,,,,31130231130
+1,South Africa,10,Q de Kock,PJ Cummins,HE van der Dussen,,0,4,4,,,,31130231130
+1,South Africa,10,Q de Kock,PJ Cummins,HE van der Dussen,,0,1,1,,,,31130231130
+1,South Africa,10,HE van der Dussen,PJ Cummins,Q de Kock,,0,0,0,,,,31130231130
+1,South Africa,11,Q de Kock,A Zampa,HE van der Dussen,,0,1,1,,,,31130231130
+1,South Africa,11,HE van der Dussen,A Zampa,Q de Kock,,0,1,1,,,,31130231130
+1,South Africa,11,Q de Kock,A Zampa,HE van der Dussen,,0,1,1,,,,31130231130
+1,South Africa,11,HE van der Dussen,A Zampa,Q de Kock,,0,1,1,,,,31130231130
+1,South Africa,11,Q de Kock,A Zampa,HE van der Dussen,,0,2,2,,,,31130231130
+1,South Africa,11,Q de Kock,A Zampa,HE van der Dussen,,0,1,1,,,,31130231130
+1,South Africa,12,Q de Kock,KW Richardson,HE van der Dussen,,0,0,0,,,,31130231130
+1,South Africa,12,Q de Kock,KW Richardson,HE van der Dussen,,0,1,1,,,,31130231130
+1,South Africa,12,HE van der Dussen,KW Richardson,Q de Kock,,0,1,1,,,,31130231130
+1,South Africa,12,Q de Kock,KW Richardson,HE van der Dussen,,0,1,1,,,,31130231130
+1,South Africa,12,HE van der Dussen,KW Richardson,Q de Kock,legbyes,1,1,0,,,,31130231130
+1,South Africa,12,Q de Kock,KW Richardson,HE van der Dussen,,0,1,1,,,,31130231130
+1,South Africa,13,Q de Kock,AC Agar,HE van der Dussen,,0,0,0,,,,31130231130
+1,South Africa,13,Q de Kock,AC Agar,HE van der Dussen,,0,4,4,,,,31130231130
+1,South Africa,13,Q de Kock,AC Agar,HE van der Dussen,,0,1,1,,,,31130231130
+1,South Africa,13,HE van der Dussen,AC Agar,Q de Kock,,0,6,6,,,,31130231130
+1,South Africa,13,HE van der Dussen,AC Agar,Q de Kock,,0,1,1,,,,31130231130
+1,South Africa,13,Q de Kock,AC Agar,HE van der Dussen,,0,1,1,,,,31130231130
+1,South Africa,14,Q de Kock,A Zampa,HE van der Dussen,,0,1,1,,,,31130231130
+1,South Africa,14,HE van der Dussen,A Zampa,Q de Kock,,0,0,0,,,,31130231130
+1,South Africa,14,HE van der Dussen,A Zampa,Q de Kock,,0,6,6,,,,31130231130
+1,South Africa,14,HE van der Dussen,A Zampa,Q de Kock,,0,1,1,,,,31130231130
+1,South Africa,14,Q de Kock,A Zampa,HE van der Dussen,,0,0,0,caught,Q de Kock,MA Starc,31130231130
+1,South Africa,14,HE van der Dussen,A Zampa,DA Miller,,0,1,1,,,,31130231130
+1,South Africa,15,HE van der Dussen,AC Agar,DA Miller,,0,1,1,,,,31130231130
+1,South Africa,15,DA Miller,AC Agar,HE van der Dussen,,0,1,1,,,,31130231130
+1,South Africa,15,HE van der Dussen,AC Agar,DA Miller,,0,1,1,,,,31130231130
+1,South Africa,15,DA Miller,AC Agar,HE van der Dussen,,0,0,0,,,,31130231130
+1,South Africa,15,DA Miller,AC Agar,HE van der Dussen,,0,1,1,,,,31130231130
+1,South Africa,15,HE van der Dussen,AC Agar,DA Miller,,0,1,1,,,,31130231130
+1,South Africa,16,HE van der Dussen,MA Starc,DA Miller,,0,1,1,,,,31130231130
+1,South Africa,16,DA Miller,MA Starc,HE van der Dussen,,0,1,1,,,,31130231130
+1,South Africa,16,HE van der Dussen,MA Starc,DA Miller,,0,4,4,,,,31130231130
+1,South Africa,16,HE van der Dussen,MA Starc,DA Miller,,0,0,0,,,,31130231130
+1,South Africa,16,HE van der Dussen,MA Starc,DA Miller,,0,4,4,,,,31130231130
+1,South Africa,16,HE van der Dussen,MA Starc,DA Miller,,0,1,1,,,,31130231130
+1,South Africa,17,HE van der Dussen,PJ Cummins,DA Miller,,0,1,1,,,,31130231130
+1,South Africa,17,DA Miller,PJ Cummins,HE van der Dussen,,0,1,1,,,,31130231130
+1,South Africa,17,HE van der Dussen,PJ Cummins,DA Miller,,0,1,1,,,,31130231130
+1,South Africa,17,DA Miller,PJ Cummins,HE van der Dussen,,0,0,0,,,,31130231130
+1,South Africa,17,DA Miller,PJ Cummins,HE van der Dussen,,0,1,1,,,,31130231130
+1,South Africa,17,HE van der Dussen,PJ Cummins,DA Miller,,0,0,0,,,,31130231130
+1,South Africa,18,DA Miller,KW Richardson,HE van der Dussen,,0,1,1,,,,31130231130
+1,South Africa,18,HE van der Dussen,KW Richardson,DA Miller,,0,2,2,,,,31130231130
+1,South Africa,18,HE van der Dussen,KW Richardson,DA Miller,,0,1,1,,,,31130231130
+1,South Africa,18,DA Miller,KW Richardson,HE van der Dussen,,0,0,0,,,,31130231130
+1,South Africa,18,DA Miller,KW Richardson,HE van der Dussen,,0,1,1,,,,31130231130
+1,South Africa,18,HE van der Dussen,KW Richardson,DA Miller,,0,0,0,caught,HE van der Dussen,AC Agar,31130231130
+1,South Africa,19,DA Miller,MA Starc,PJ van Biljon,,0,2,2,,,,31130231130
+1,South Africa,19,DA Miller,MA Starc,PJ van Biljon,,0,1,1,,,,31130231130
+1,South Africa,19,PJ van Biljon,MA Starc,DA Miller,,0,4,4,,,,31130231130
+1,South Africa,19,PJ van Biljon,MA Starc,DA Miller,,0,1,1,,,,31130231130
+1,South Africa,19,DA Miller,MA Starc,PJ van Biljon,,0,1,1,,,,31130231130
+1,South Africa,19,PJ van Biljon,MA Starc,DA Miller,,0,2,2,,,,31130231130

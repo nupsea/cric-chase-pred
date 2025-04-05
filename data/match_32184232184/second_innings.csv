@@ -1,0 +1,85 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Netherlands,0,SJ Myburgh,Aizaz Khan,MP O'Dowd,,0,0,0,,,,32184232184
+2,Netherlands,0,SJ Myburgh,Aizaz Khan,MP O'Dowd,,0,1,1,,,,32184232184
+2,Netherlands,0,MP O'Dowd,Aizaz Khan,SJ Myburgh,,0,1,1,,,,32184232184
+2,Netherlands,0,SJ Myburgh,Aizaz Khan,MP O'Dowd,,0,1,1,,,,32184232184
+2,Netherlands,0,MP O'Dowd,Aizaz Khan,SJ Myburgh,,0,0,0,,,,32184232184
+2,Netherlands,0,MP O'Dowd,Aizaz Khan,SJ Myburgh,wides,1,1,0,,,,32184232184
+2,Netherlands,0,MP O'Dowd,Aizaz Khan,SJ Myburgh,,0,0,0,,,,32184232184
+2,Netherlands,1,SJ Myburgh,Ehsan Khan,MP O'Dowd,,0,2,2,,,,32184232184
+2,Netherlands,1,SJ Myburgh,Ehsan Khan,MP O'Dowd,,0,0,0,,,,32184232184
+2,Netherlands,1,SJ Myburgh,Ehsan Khan,MP O'Dowd,,0,0,0,,,,32184232184
+2,Netherlands,1,SJ Myburgh,Ehsan Khan,MP O'Dowd,,0,0,0,,,,32184232184
+2,Netherlands,1,SJ Myburgh,Ehsan Khan,MP O'Dowd,,0,6,6,,,,32184232184
+2,Netherlands,1,SJ Myburgh,Ehsan Khan,MP O'Dowd,,0,1,1,,,,32184232184
+2,Netherlands,2,SJ Myburgh,Aizaz Khan,MP O'Dowd,,0,0,0,bowled,SJ Myburgh,,32184232184
+2,Netherlands,2,BFW de Leede,Aizaz Khan,MP O'Dowd,,0,0,0,,,,32184232184
+2,Netherlands,2,BFW de Leede,Aizaz Khan,MP O'Dowd,wides,1,1,0,,,,32184232184
+2,Netherlands,2,BFW de Leede,Aizaz Khan,MP O'Dowd,,0,1,1,,,,32184232184
+2,Netherlands,2,MP O'Dowd,Aizaz Khan,BFW de Leede,wides,1,1,0,,,,32184232184
+2,Netherlands,2,MP O'Dowd,Aizaz Khan,BFW de Leede,,0,0,0,,,,32184232184
+2,Netherlands,2,MP O'Dowd,Aizaz Khan,BFW de Leede,,0,0,0,,,,32184232184
+2,Netherlands,2,MP O'Dowd,Aizaz Khan,BFW de Leede,,0,4,4,,,,32184232184
+2,Netherlands,3,BFW de Leede,Yasim Murtaza,MP O'Dowd,,0,0,0,,,,32184232184
+2,Netherlands,3,BFW de Leede,Yasim Murtaza,MP O'Dowd,,0,1,1,,,,32184232184
+2,Netherlands,3,MP O'Dowd,Yasim Murtaza,BFW de Leede,,0,0,0,,,,32184232184
+2,Netherlands,3,MP O'Dowd,Yasim Murtaza,BFW de Leede,,0,4,4,,,,32184232184
+2,Netherlands,3,MP O'Dowd,Yasim Murtaza,BFW de Leede,,0,2,2,,,,32184232184
+2,Netherlands,3,MP O'Dowd,Yasim Murtaza,BFW de Leede,,0,0,0,,,,32184232184
+2,Netherlands,4,BFW de Leede,Haroon Arshad,MP O'Dowd,,0,4,4,,,,32184232184
+2,Netherlands,4,BFW de Leede,Haroon Arshad,MP O'Dowd,,0,3,3,,,,32184232184
+2,Netherlands,4,MP O'Dowd,Haroon Arshad,BFW de Leede,,0,0,0,,,,32184232184
+2,Netherlands,4,MP O'Dowd,Haroon Arshad,BFW de Leede,,0,4,4,,,,32184232184
+2,Netherlands,4,MP O'Dowd,Haroon Arshad,BFW de Leede,,0,1,1,,,,32184232184
+2,Netherlands,4,BFW de Leede,Haroon Arshad,MP O'Dowd,,0,4,4,,,,32184232184
+2,Netherlands,5,MP O'Dowd,KD Shah,BFW de Leede,,0,4,4,,,,32184232184
+2,Netherlands,5,MP O'Dowd,KD Shah,BFW de Leede,,0,0,0,,,,32184232184
+2,Netherlands,5,MP O'Dowd,KD Shah,BFW de Leede,,0,4,4,,,,32184232184
+2,Netherlands,5,MP O'Dowd,KD Shah,BFW de Leede,,0,4,4,,,,32184232184
+2,Netherlands,5,MP O'Dowd,KD Shah,BFW de Leede,,0,1,1,,,,32184232184
+2,Netherlands,5,BFW de Leede,KD Shah,MP O'Dowd,,0,1,1,,,,32184232184
+2,Netherlands,6,BFW de Leede,Yasim Murtaza,MP O'Dowd,,0,0,0,,,,32184232184
+2,Netherlands,6,BFW de Leede,Yasim Murtaza,MP O'Dowd,,0,1,1,,,,32184232184
+2,Netherlands,6,MP O'Dowd,Yasim Murtaza,BFW de Leede,,0,0,0,,,,32184232184
+2,Netherlands,6,MP O'Dowd,Yasim Murtaza,BFW de Leede,,0,0,0,,,,32184232184
+2,Netherlands,6,MP O'Dowd,Yasim Murtaza,BFW de Leede,,0,6,6,,,,32184232184
+2,Netherlands,6,MP O'Dowd,Yasim Murtaza,BFW de Leede,wides,1,1,0,,,,32184232184
+2,Netherlands,6,MP O'Dowd,Yasim Murtaza,BFW de Leede,,0,4,4,,,,32184232184
+2,Netherlands,7,BFW de Leede,Mohammad Ghazanfar,MP O'Dowd,,0,0,0,,,,32184232184
+2,Netherlands,7,BFW de Leede,Mohammad Ghazanfar,MP O'Dowd,,0,1,1,,,,32184232184
+2,Netherlands,7,MP O'Dowd,Mohammad Ghazanfar,BFW de Leede,,0,0,0,,,,32184232184
+2,Netherlands,7,MP O'Dowd,Mohammad Ghazanfar,BFW de Leede,,0,0,0,,,,32184232184
+2,Netherlands,7,MP O'Dowd,Mohammad Ghazanfar,BFW de Leede,,0,2,2,,,,32184232184
+2,Netherlands,7,MP O'Dowd,Mohammad Ghazanfar,BFW de Leede,,0,4,4,,,,32184232184
+2,Netherlands,8,BFW de Leede,Ehsan Khan,MP O'Dowd,,0,0,0,,,,32184232184
+2,Netherlands,8,BFW de Leede,Ehsan Khan,MP O'Dowd,,0,0,0,,,,32184232184
+2,Netherlands,8,BFW de Leede,Ehsan Khan,MP O'Dowd,,0,1,1,,,,32184232184
+2,Netherlands,8,MP O'Dowd,Ehsan Khan,BFW de Leede,,0,0,0,lbw,MP O'Dowd,,32184232184
+2,Netherlands,8,TLW Cooper,Ehsan Khan,BFW de Leede,,0,0,0,,,,32184232184
+2,Netherlands,8,TLW Cooper,Ehsan Khan,BFW de Leede,,0,0,0,,,,32184232184
+2,Netherlands,9,BFW de Leede,Mohammad Ghazanfar,TLW Cooper,,0,2,2,,,,32184232184
+2,Netherlands,9,BFW de Leede,Mohammad Ghazanfar,TLW Cooper,,0,1,1,,,,32184232184
+2,Netherlands,9,TLW Cooper,Mohammad Ghazanfar,BFW de Leede,,0,1,1,,,,32184232184
+2,Netherlands,9,BFW de Leede,Mohammad Ghazanfar,TLW Cooper,,0,1,1,,,,32184232184
+2,Netherlands,9,TLW Cooper,Mohammad Ghazanfar,BFW de Leede,,0,0,0,,,,32184232184
+2,Netherlands,9,TLW Cooper,Mohammad Ghazanfar,BFW de Leede,,0,1,1,,,,32184232184
+2,Netherlands,10,TLW Cooper,Ehsan Khan,BFW de Leede,,0,1,1,,,,32184232184
+2,Netherlands,10,BFW de Leede,Ehsan Khan,TLW Cooper,,0,1,1,,,,32184232184
+2,Netherlands,10,TLW Cooper,Ehsan Khan,BFW de Leede,,0,1,1,,,,32184232184
+2,Netherlands,10,BFW de Leede,Ehsan Khan,TLW Cooper,,0,1,1,,,,32184232184
+2,Netherlands,10,TLW Cooper,Ehsan Khan,BFW de Leede,,0,1,1,,,,32184232184
+2,Netherlands,10,BFW de Leede,Ehsan Khan,TLW Cooper,,0,2,2,,,,32184232184
+2,Netherlands,11,TLW Cooper,Mohammad Ghazanfar,BFW de Leede,,0,2,2,,,,32184232184
+2,Netherlands,11,TLW Cooper,Mohammad Ghazanfar,BFW de Leede,,0,1,1,,,,32184232184
+2,Netherlands,11,BFW de Leede,Mohammad Ghazanfar,TLW Cooper,,0,1,1,,,,32184232184
+2,Netherlands,11,TLW Cooper,Mohammad Ghazanfar,BFW de Leede,,0,4,4,,,,32184232184
+2,Netherlands,11,TLW Cooper,Mohammad Ghazanfar,BFW de Leede,,0,1,1,,,,32184232184
+2,Netherlands,11,BFW de Leede,Mohammad Ghazanfar,TLW Cooper,,0,0,0,,,,32184232184
+2,Netherlands,12,TLW Cooper,Yasim Murtaza,BFW de Leede,,0,6,6,,,,32184232184
+2,Netherlands,12,TLW Cooper,Yasim Murtaza,BFW de Leede,,0,1,1,,,,32184232184
+2,Netherlands,12,BFW de Leede,Yasim Murtaza,TLW Cooper,,0,4,4,,,,32184232184
+2,Netherlands,12,BFW de Leede,Yasim Murtaza,TLW Cooper,,0,6,6,,,,32184232184
+2,Netherlands,12,BFW de Leede,Yasim Murtaza,TLW Cooper,,0,0,0,,,,32184232184
+2,Netherlands,12,BFW de Leede,Yasim Murtaza,TLW Cooper,,0,0,0,,,,32184232184
+2,Netherlands,13,TLW Cooper,Ehsan Khan,BFW de Leede,,0,0,0,lbw,TLW Cooper,,32184232184
+2,Netherlands,13,SA Edwards,Ehsan Khan,BFW de Leede,,0,1,1,,,,32184232184

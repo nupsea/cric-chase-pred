@@ -1,0 +1,124 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+1,Netherlands,0,SJ Myburgh,AC Evans,W Barresi,,0,0,0,,,,351623516
+1,Netherlands,0,SJ Myburgh,AC Evans,W Barresi,,0,1,1,,,,351623516
+1,Netherlands,0,W Barresi,AC Evans,SJ Myburgh,,0,1,1,,,,351623516
+1,Netherlands,0,SJ Myburgh,AC Evans,W Barresi,,0,3,3,,,,351623516
+1,Netherlands,0,W Barresi,AC Evans,SJ Myburgh,,0,1,1,,,,351623516
+1,Netherlands,0,SJ Myburgh,AC Evans,W Barresi,,0,1,1,,,,351623516
+1,Netherlands,1,SJ Myburgh,SM Sharif,W Barresi,,0,0,0,,,,351623516
+1,Netherlands,1,SJ Myburgh,SM Sharif,W Barresi,,0,0,0,,,,351623516
+1,Netherlands,1,SJ Myburgh,SM Sharif,W Barresi,,0,1,1,,,,351623516
+1,Netherlands,1,W Barresi,SM Sharif,SJ Myburgh,,0,6,6,,,,351623516
+1,Netherlands,1,W Barresi,SM Sharif,SJ Myburgh,,0,1,1,,,,351623516
+1,Netherlands,1,SJ Myburgh,SM Sharif,W Barresi,legbyes,1,1,0,,,,351623516
+1,Netherlands,2,SJ Myburgh,AC Evans,W Barresi,,0,0,0,bowled,SJ Myburgh,,351623516
+1,Netherlands,2,BN Cooper,AC Evans,W Barresi,,0,0,0,,,,351623516
+1,Netherlands,2,BN Cooper,AC Evans,W Barresi,,0,1,1,,,,351623516
+1,Netherlands,2,W Barresi,AC Evans,BN Cooper,wides,1,1,0,,,,351623516
+1,Netherlands,2,W Barresi,AC Evans,BN Cooper,,0,0,0,,,,351623516
+1,Netherlands,2,W Barresi,AC Evans,BN Cooper,,0,0,0,,,,351623516
+1,Netherlands,2,W Barresi,AC Evans,BN Cooper,,0,2,2,,,,351623516
+1,Netherlands,3,BN Cooper,JH Davey,W Barresi,,0,1,1,,,,351623516
+1,Netherlands,3,W Barresi,JH Davey,BN Cooper,,0,4,4,,,,351623516
+1,Netherlands,3,W Barresi,JH Davey,BN Cooper,,0,4,4,,,,351623516
+1,Netherlands,3,W Barresi,JH Davey,BN Cooper,,0,0,0,,,,351623516
+1,Netherlands,3,W Barresi,JH Davey,BN Cooper,,0,4,4,,,,351623516
+1,Netherlands,3,W Barresi,JH Davey,BN Cooper,,0,1,1,,,,351623516
+1,Netherlands,4,W Barresi,SM Sharif,BN Cooper,,0,0,0,,,,351623516
+1,Netherlands,4,W Barresi,SM Sharif,BN Cooper,,0,0,0,,,,351623516
+1,Netherlands,4,W Barresi,SM Sharif,BN Cooper,,0,0,0,,,,351623516
+1,Netherlands,4,W Barresi,SM Sharif,BN Cooper,,0,4,4,,,,351623516
+1,Netherlands,4,W Barresi,SM Sharif,BN Cooper,,0,1,1,,,,351623516
+1,Netherlands,4,BN Cooper,SM Sharif,W Barresi,,0,0,0,,,,351623516
+1,Netherlands,5,W Barresi,JH Davey,BN Cooper,,0,0,0,,,,351623516
+1,Netherlands,5,W Barresi,JH Davey,BN Cooper,,0,1,1,,,,351623516
+1,Netherlands,5,BN Cooper,JH Davey,W Barresi,,0,1,1,,,,351623516
+1,Netherlands,5,W Barresi,JH Davey,BN Cooper,,0,0,0,,,,351623516
+1,Netherlands,5,W Barresi,JH Davey,BN Cooper,,0,0,0,,,,351623516
+1,Netherlands,5,W Barresi,JH Davey,BN Cooper,,0,6,6,,,,351623516
+1,Netherlands,6,BN Cooper,MRJ Watt,W Barresi,,0,1,1,,,,351623516
+1,Netherlands,6,W Barresi,MRJ Watt,BN Cooper,,0,2,2,,,,351623516
+1,Netherlands,6,W Barresi,MRJ Watt,BN Cooper,,0,0,0,,,,351623516
+1,Netherlands,6,W Barresi,MRJ Watt,BN Cooper,wides,1,1,0,,,,351623516
+1,Netherlands,6,W Barresi,MRJ Watt,BN Cooper,,0,1,1,,,,351623516
+1,Netherlands,6,BN Cooper,MRJ Watt,W Barresi,,0,0,0,,,,351623516
+1,Netherlands,6,BN Cooper,MRJ Watt,W Barresi,,0,1,1,,,,351623516
+1,Netherlands,7,BN Cooper,MA Leask,W Barresi,,0,2,2,,,,351623516
+1,Netherlands,7,BN Cooper,MA Leask,W Barresi,,0,1,1,,,,351623516
+1,Netherlands,7,W Barresi,MA Leask,BN Cooper,,0,6,6,,,,351623516
+1,Netherlands,7,W Barresi,MA Leask,BN Cooper,,0,6,6,,,,351623516
+1,Netherlands,7,W Barresi,MA Leask,BN Cooper,,0,1,1,,,,351623516
+1,Netherlands,7,BN Cooper,MA Leask,W Barresi,wides,2,2,0,,,,351623516
+1,Netherlands,7,W Barresi,MA Leask,BN Cooper,,0,1,1,,,,351623516
+1,Netherlands,8,W Barresi,MRJ Watt,BN Cooper,,0,0,0,,,,351623516
+1,Netherlands,8,W Barresi,MRJ Watt,BN Cooper,,0,4,4,,,,351623516
+1,Netherlands,8,W Barresi,MRJ Watt,BN Cooper,,0,0,0,,,,351623516
+1,Netherlands,8,W Barresi,MRJ Watt,BN Cooper,,0,4,4,,,,351623516
+1,Netherlands,8,W Barresi,MRJ Watt,BN Cooper,,0,2,2,,,,351623516
+1,Netherlands,8,W Barresi,MRJ Watt,BN Cooper,,0,1,1,,,,351623516
+1,Netherlands,9,W Barresi,RD Berrington,BN Cooper,,0,1,1,,,,351623516
+1,Netherlands,9,BN Cooper,RD Berrington,W Barresi,,0,2,2,,,,351623516
+1,Netherlands,9,BN Cooper,RD Berrington,W Barresi,,0,1,1,,,,351623516
+1,Netherlands,9,W Barresi,RD Berrington,BN Cooper,,0,0,0,,,,351623516
+1,Netherlands,9,W Barresi,RD Berrington,BN Cooper,,0,6,6,,,,351623516
+1,Netherlands,9,W Barresi,RD Berrington,BN Cooper,,0,4,4,,,,351623516
+1,Netherlands,10,BN Cooper,AC Evans,W Barresi,,0,0,0,,,,351623516
+1,Netherlands,10,BN Cooper,AC Evans,W Barresi,,0,1,1,,,,351623516
+1,Netherlands,10,W Barresi,AC Evans,BN Cooper,,0,0,0,bowled,W Barresi,,351623516
+1,Netherlands,10,PW Borren,AC Evans,BN Cooper,,0,4,4,,,,351623516
+1,Netherlands,10,PW Borren,AC Evans,BN Cooper,,0,1,1,,,,351623516
+1,Netherlands,10,BN Cooper,AC Evans,PW Borren,,0,0,0,caught,BN Cooper,MH Cross,351623516
+1,Netherlands,11,PW Borren,MA Leask,MR Swart,,0,0,0,,,,351623516
+1,Netherlands,11,PW Borren,MA Leask,MR Swart,,0,1,1,,,,351623516
+1,Netherlands,11,MR Swart,MA Leask,PW Borren,,0,1,1,,,,351623516
+1,Netherlands,11,PW Borren,MA Leask,MR Swart,,0,0,0,,,,351623516
+1,Netherlands,11,PW Borren,MA Leask,MR Swart,,0,1,1,,,,351623516
+1,Netherlands,11,MR Swart,MA Leask,PW Borren,,0,1,1,,,,351623516
+1,Netherlands,12,MR Swart,MRJ Watt,PW Borren,,0,0,0,caught,MR Swart,PL Mommsen,351623516
+1,Netherlands,12,RE van der Merwe,MRJ Watt,PW Borren,,0,1,1,,,,351623516
+1,Netherlands,12,PW Borren,MRJ Watt,RE van der Merwe,,0,1,1,,,,351623516
+1,Netherlands,12,RE van der Merwe,MRJ Watt,PW Borren,,0,1,1,,,,351623516
+1,Netherlands,12,PW Borren,MRJ Watt,RE van der Merwe,,0,1,1,,,,351623516
+1,Netherlands,12,RE van der Merwe,MRJ Watt,PW Borren,,0,1,1,,,,351623516
+1,Netherlands,13,RE van der Merwe,MA Leask,PW Borren,,0,1,1,,,,351623516
+1,Netherlands,13,PW Borren,MA Leask,RE van der Merwe,,0,1,1,,,,351623516
+1,Netherlands,13,RE van der Merwe,MA Leask,PW Borren,,0,6,6,,,,351623516
+1,Netherlands,13,RE van der Merwe,MA Leask,PW Borren,,0,0,0,,,,351623516
+1,Netherlands,13,RE van der Merwe,MA Leask,PW Borren,,0,1,1,,,,351623516
+1,Netherlands,13,PW Borren,MA Leask,RE van der Merwe,,0,1,1,,,,351623516
+1,Netherlands,14,PW Borren,SM Sharif,RE van der Merwe,,0,0,0,,,,351623516
+1,Netherlands,14,PW Borren,SM Sharif,RE van der Merwe,,0,1,1,,,,351623516
+1,Netherlands,14,RE van der Merwe,SM Sharif,PW Borren,,0,1,1,,,,351623516
+1,Netherlands,14,PW Borren,SM Sharif,RE van der Merwe,,0,4,4,,,,351623516
+1,Netherlands,14,PW Borren,SM Sharif,RE van der Merwe,,0,6,6,,,,351623516
+1,Netherlands,14,PW Borren,SM Sharif,RE van der Merwe,,0,1,1,,,,351623516
+1,Netherlands,15,PW Borren,JH Davey,RE van der Merwe,,0,2,2,,,,351623516
+1,Netherlands,15,PW Borren,JH Davey,RE van der Merwe,,0,1,1,,,,351623516
+1,Netherlands,15,RE van der Merwe,JH Davey,PW Borren,,0,0,0,,,,351623516
+1,Netherlands,15,RE van der Merwe,JH Davey,PW Borren,,0,1,1,,,,351623516
+1,Netherlands,15,PW Borren,JH Davey,RE van der Merwe,,0,4,4,,,,351623516
+1,Netherlands,15,PW Borren,JH Davey,RE van der Merwe,,0,0,0,,,,351623516
+1,Netherlands,16,RE van der Merwe,MRJ Watt,PW Borren,,0,1,1,,,,351623516
+1,Netherlands,16,PW Borren,MRJ Watt,RE van der Merwe,,0,1,1,,,,351623516
+1,Netherlands,16,RE van der Merwe,MRJ Watt,PW Borren,,0,1,1,,,,351623516
+1,Netherlands,16,PW Borren,MRJ Watt,RE van der Merwe,,0,6,6,,,,351623516
+1,Netherlands,16,PW Borren,MRJ Watt,RE van der Merwe,,0,6,6,,,,351623516
+1,Netherlands,16,PW Borren,MRJ Watt,RE van der Merwe,,0,4,4,,,,351623516
+1,Netherlands,17,RE van der Merwe,SM Sharif,PW Borren,,0,1,1,,,,351623516
+1,Netherlands,17,PW Borren,SM Sharif,RE van der Merwe,,0,4,4,,,,351623516
+1,Netherlands,17,PW Borren,SM Sharif,RE van der Merwe,,0,1,1,,,,351623516
+1,Netherlands,17,RE van der Merwe,SM Sharif,PW Borren,,0,0,0,,,,351623516
+1,Netherlands,17,RE van der Merwe,SM Sharif,PW Borren,,0,6,6,,,,351623516
+1,Netherlands,17,RE van der Merwe,SM Sharif,PW Borren,,0,1,1,,,,351623516
+1,Netherlands,18,RE van der Merwe,AC Evans,PW Borren,,0,1,1,,,,351623516
+1,Netherlands,18,PW Borren,AC Evans,RE van der Merwe,,0,1,1,,,,351623516
+1,Netherlands,18,RE van der Merwe,AC Evans,PW Borren,,0,0,0,bowled,RE van der Merwe,,351623516
+1,Netherlands,18,Mudassar Bukhari,AC Evans,PW Borren,,0,1,1,,,,351623516
+1,Netherlands,18,PW Borren,AC Evans,Mudassar Bukhari,,0,4,4,,,,351623516
+1,Netherlands,18,PW Borren,AC Evans,Mudassar Bukhari,,0,0,0,caught,PW Borren,JH Davey,351623516
+1,Netherlands,19,PM Seelaar,JH Davey,Mudassar Bukhari,,0,1,1,,,,351623516
+1,Netherlands,19,Mudassar Bukhari,JH Davey,PM Seelaar,,0,1,1,,,,351623516
+1,Netherlands,19,PM Seelaar,JH Davey,Mudassar Bukhari,,0,2,2,,,,351623516
+1,Netherlands,19,PM Seelaar,JH Davey,Mudassar Bukhari,,0,2,2,,,,351623516
+1,Netherlands,19,PM Seelaar,JH Davey,Mudassar Bukhari,,0,1,1,,,,351623516
+1,Netherlands,19,Mudassar Bukhari,JH Davey,PM Seelaar,,0,2,2,,,,351623516

@@ -1,0 +1,123 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,West Indies,0,SR Taylor,KH Brunt,TD Smartt,,0,0,0,,,,328223282
+2,West Indies,0,SR Taylor,KH Brunt,TD Smartt,,0,1,1,,,,328223282
+2,West Indies,0,TD Smartt,KH Brunt,SR Taylor,,0,0,0,,,,328223282
+2,West Indies,0,TD Smartt,KH Brunt,SR Taylor,,0,0,0,,,,328223282
+2,West Indies,0,TD Smartt,KH Brunt,SR Taylor,,0,0,0,,,,328223282
+2,West Indies,0,TD Smartt,KH Brunt,SR Taylor,,0,0,0,,,,328223282
+2,West Indies,1,SR Taylor,DN Wyatt,TD Smartt,,0,4,4,,,,328223282
+2,West Indies,1,SR Taylor,DN Wyatt,TD Smartt,,0,0,0,,,,328223282
+2,West Indies,1,SR Taylor,DN Wyatt,TD Smartt,,0,0,0,,,,328223282
+2,West Indies,1,SR Taylor,DN Wyatt,TD Smartt,,0,3,3,,,,328223282
+2,West Indies,1,TD Smartt,DN Wyatt,SR Taylor,,0,1,1,,,,328223282
+2,West Indies,1,SR Taylor,DN Wyatt,TD Smartt,,0,4,4,,,,328223282
+2,West Indies,2,TD Smartt,KH Brunt,SR Taylor,,0,2,2,,,,328223282
+2,West Indies,2,TD Smartt,KH Brunt,SR Taylor,,0,0,0,,,,328223282
+2,West Indies,2,TD Smartt,KH Brunt,SR Taylor,,0,0,0,,,,328223282
+2,West Indies,2,TD Smartt,KH Brunt,SR Taylor,,0,4,4,,,,328223282
+2,West Indies,2,TD Smartt,KH Brunt,SR Taylor,,0,3,3,,,,328223282
+2,West Indies,2,SR Taylor,KH Brunt,TD Smartt,,0,0,0,,,,328223282
+2,West Indies,3,TD Smartt,D Hazell,SR Taylor,,0,0,0,,,,328223282
+2,West Indies,3,TD Smartt,D Hazell,SR Taylor,,0,1,1,,,,328223282
+2,West Indies,3,SR Taylor,D Hazell,TD Smartt,,0,1,1,,,,328223282
+2,West Indies,3,TD Smartt,D Hazell,SR Taylor,,0,4,4,,,,328223282
+2,West Indies,3,TD Smartt,D Hazell,SR Taylor,,0,0,0,,,,328223282
+2,West Indies,3,TD Smartt,D Hazell,SR Taylor,,0,0,0,run out,TD Smartt,A Shrubsole,328223282
+2,West Indies,4,SR Taylor,A Shrubsole,DJS Dottin,,0,4,4,,,,328223282
+2,West Indies,4,SR Taylor,A Shrubsole,DJS Dottin,,0,1,1,,,,328223282
+2,West Indies,4,DJS Dottin,A Shrubsole,SR Taylor,wides,2,2,0,,,,328223282
+2,West Indies,4,SR Taylor,A Shrubsole,DJS Dottin,wides,1,1,0,,,,328223282
+2,West Indies,4,SR Taylor,A Shrubsole,DJS Dottin,,0,0,0,bowled,SR Taylor,,328223282
+2,West Indies,4,B Cooper,A Shrubsole,DJS Dottin,,0,0,0,,,,328223282
+2,West Indies,4,B Cooper,A Shrubsole,DJS Dottin,,0,0,0,,,,328223282
+2,West Indies,4,B Cooper,A Shrubsole,DJS Dottin,,0,0,0,,,,328223282
+2,West Indies,5,DJS Dottin,D Hazell,B Cooper,,0,0,0,,,,328223282
+2,West Indies,5,DJS Dottin,D Hazell,B Cooper,,0,1,1,,,,328223282
+2,West Indies,5,B Cooper,D Hazell,DJS Dottin,,0,0,0,,,,328223282
+2,West Indies,5,B Cooper,D Hazell,DJS Dottin,,0,0,0,,,,328223282
+2,West Indies,5,B Cooper,D Hazell,DJS Dottin,,0,0,0,,,,328223282
+2,West Indies,5,B Cooper,D Hazell,DJS Dottin,,0,1,1,,,,328223282
+2,West Indies,6,B Cooper,A Shrubsole,DJS Dottin,,0,2,2,,,,328223282
+2,West Indies,6,B Cooper,A Shrubsole,DJS Dottin,,0,1,1,,,,328223282
+2,West Indies,6,DJS Dottin,A Shrubsole,B Cooper,,0,0,0,,,,328223282
+2,West Indies,6,DJS Dottin,A Shrubsole,B Cooper,,0,1,1,,,,328223282
+2,West Indies,6,B Cooper,A Shrubsole,DJS Dottin,,0,0,0,,,,328223282
+2,West Indies,6,B Cooper,A Shrubsole,DJS Dottin,,0,0,0,run out,B Cooper,SJ Taylor,328223282
+2,West Indies,7,DJS Dottin,DN Wyatt,SACA King,,0,0,0,,,,328223282
+2,West Indies,7,DJS Dottin,DN Wyatt,SACA King,,0,1,1,,,,328223282
+2,West Indies,7,SACA King,DN Wyatt,DJS Dottin,,0,2,2,,,,328223282
+2,West Indies,7,SACA King,DN Wyatt,DJS Dottin,,0,2,2,,,,328223282
+2,West Indies,7,SACA King,DN Wyatt,DJS Dottin,,0,0,0,bowled,SACA King,,328223282
+2,West Indies,7,JB Nero,DN Wyatt,DJS Dottin,,0,0,0,,,,328223282
+2,West Indies,8,DJS Dottin,HL Colvin,JB Nero,,0,0,0,,,,328223282
+2,West Indies,8,DJS Dottin,HL Colvin,JB Nero,,0,6,6,,,,328223282
+2,West Indies,8,DJS Dottin,HL Colvin,JB Nero,,0,1,1,,,,328223282
+2,West Indies,8,JB Nero,HL Colvin,DJS Dottin,,0,0,0,,,,328223282
+2,West Indies,8,JB Nero,HL Colvin,DJS Dottin,,0,4,4,,,,328223282
+2,West Indies,8,JB Nero,HL Colvin,DJS Dottin,,0,0,0,,,,328223282
+2,West Indies,9,DJS Dottin,D Hazell,JB Nero,,0,1,1,,,,328223282
+2,West Indies,9,JB Nero,D Hazell,DJS Dottin,,0,0,0,,,,328223282
+2,West Indies,9,JB Nero,D Hazell,DJS Dottin,,0,1,1,,,,328223282
+2,West Indies,9,DJS Dottin,D Hazell,JB Nero,,0,1,1,,,,328223282
+2,West Indies,9,JB Nero,D Hazell,DJS Dottin,,0,0,0,,,,328223282
+2,West Indies,9,JB Nero,D Hazell,DJS Dottin,,0,1,1,,,,328223282
+2,West Indies,10,JB Nero,KH Brunt,DJS Dottin,,0,0,0,,,,328223282
+2,West Indies,10,JB Nero,KH Brunt,DJS Dottin,,0,0,0,,,,328223282
+2,West Indies,10,JB Nero,KH Brunt,DJS Dottin,,0,1,1,,,,328223282
+2,West Indies,10,DJS Dottin,KH Brunt,JB Nero,,0,0,0,,,,328223282
+2,West Indies,10,DJS Dottin,KH Brunt,JB Nero,,0,2,2,,,,328223282
+2,West Indies,10,DJS Dottin,KH Brunt,JB Nero,,0,0,0,,,,328223282
+2,West Indies,11,JB Nero,A Brindle,DJS Dottin,,0,0,0,,,,328223282
+2,West Indies,11,JB Nero,A Brindle,DJS Dottin,,0,1,1,,,,328223282
+2,West Indies,11,DJS Dottin,A Brindle,JB Nero,,0,4,4,,,,328223282
+2,West Indies,11,DJS Dottin,A Brindle,JB Nero,,0,6,6,,,,328223282
+2,West Indies,11,DJS Dottin,A Brindle,JB Nero,,0,6,6,,,,328223282
+2,West Indies,11,DJS Dottin,A Brindle,JB Nero,,0,1,1,,,,328223282
+2,West Indies,12,DJS Dottin,A Shrubsole,JB Nero,,0,4,4,,,,328223282
+2,West Indies,12,DJS Dottin,A Shrubsole,JB Nero,,0,4,4,,,,328223282
+2,West Indies,12,DJS Dottin,A Shrubsole,JB Nero,,0,1,1,,,,328223282
+2,West Indies,12,JB Nero,A Shrubsole,DJS Dottin,,0,2,2,,,,328223282
+2,West Indies,12,JB Nero,A Shrubsole,DJS Dottin,,0,1,1,,,,328223282
+2,West Indies,12,DJS Dottin,A Shrubsole,JB Nero,,0,1,1,,,,328223282
+2,West Indies,13,DJS Dottin,D Hazell,JB Nero,,0,0,0,,,,328223282
+2,West Indies,13,DJS Dottin,D Hazell,JB Nero,,0,1,1,,,,328223282
+2,West Indies,13,JB Nero,D Hazell,DJS Dottin,,0,1,1,,,,328223282
+2,West Indies,13,DJS Dottin,D Hazell,JB Nero,,0,0,0,,,,328223282
+2,West Indies,13,DJS Dottin,D Hazell,JB Nero,,0,1,1,,,,328223282
+2,West Indies,13,JB Nero,D Hazell,DJS Dottin,,0,0,0,,,,328223282
+2,West Indies,14,DJS Dottin,KH Brunt,JB Nero,,0,1,1,,,,328223282
+2,West Indies,14,JB Nero,KH Brunt,DJS Dottin,,0,1,1,,,,328223282
+2,West Indies,14,DJS Dottin,KH Brunt,JB Nero,,0,1,1,,,,328223282
+2,West Indies,14,JB Nero,KH Brunt,DJS Dottin,,0,1,1,,,,328223282
+2,West Indies,14,DJS Dottin,KH Brunt,JB Nero,,0,6,6,,,,328223282
+2,West Indies,14,DJS Dottin,KH Brunt,JB Nero,,0,2,2,,,,328223282
+2,West Indies,15,JB Nero,DN Wyatt,DJS Dottin,,0,0,0,,,,328223282
+2,West Indies,15,JB Nero,DN Wyatt,DJS Dottin,,0,1,1,,,,328223282
+2,West Indies,15,DJS Dottin,DN Wyatt,JB Nero,,0,1,1,,,,328223282
+2,West Indies,15,JB Nero,DN Wyatt,DJS Dottin,,0,1,1,,,,328223282
+2,West Indies,15,DJS Dottin,DN Wyatt,JB Nero,,0,6,6,,,,328223282
+2,West Indies,15,DJS Dottin,DN Wyatt,JB Nero,,0,2,2,,,,328223282
+2,West Indies,16,JB Nero,HL Colvin,DJS Dottin,,0,0,0,,,,328223282
+2,West Indies,16,JB Nero,HL Colvin,DJS Dottin,,0,0,0,,,,328223282
+2,West Indies,16,JB Nero,HL Colvin,DJS Dottin,,0,1,1,,,,328223282
+2,West Indies,16,DJS Dottin,HL Colvin,JB Nero,,0,0,0,bowled,DJS Dottin,,328223282
+2,West Indies,16,SA Campbelle,HL Colvin,JB Nero,,0,1,1,,,,328223282
+2,West Indies,16,JB Nero,HL Colvin,SA Campbelle,,0,1,1,,,,328223282
+2,West Indies,17,JB Nero,DN Wyatt,SA Campbelle,,0,0,0,,,,328223282
+2,West Indies,17,JB Nero,DN Wyatt,SA Campbelle,,0,0,0,,,,328223282
+2,West Indies,17,JB Nero,DN Wyatt,SA Campbelle,,0,1,1,,,,328223282
+2,West Indies,17,SA Campbelle,DN Wyatt,JB Nero,,0,0,0,bowled,SA Campbelle,,328223282
+2,West Indies,17,Kycia A Knight,DN Wyatt,JB Nero,,0,1,1,,,,328223282
+2,West Indies,17,JB Nero,DN Wyatt,Kycia A Knight,,0,2,2,,,,328223282
+2,West Indies,18,Kycia A Knight,HL Colvin,JB Nero,,0,1,1,,,,328223282
+2,West Indies,18,JB Nero,HL Colvin,Kycia A Knight,,0,0,0,,,,328223282
+2,West Indies,18,JB Nero,HL Colvin,Kycia A Knight,,0,2,2,,,,328223282
+2,West Indies,18,JB Nero,HL Colvin,Kycia A Knight,,0,0,0,,,,328223282
+2,West Indies,18,JB Nero,HL Colvin,Kycia A Knight,,0,1,1,,,,328223282
+2,West Indies,18,Kycia A Knight,HL Colvin,JB Nero,,0,1,1,,,,328223282
+2,West Indies,19,Kycia A Knight,A Shrubsole,JB Nero,,0,2,2,,,,328223282
+2,West Indies,19,Kycia A Knight,A Shrubsole,JB Nero,,0,0,0,,,,328223282
+2,West Indies,19,Kycia A Knight,A Shrubsole,JB Nero,,0,0,0,,,,328223282
+2,West Indies,19,Kycia A Knight,A Shrubsole,JB Nero,,0,1,1,run out,Kycia A Knight,HC Knight,328223282
+2,West Indies,19,JB Nero,A Shrubsole,MR Aguilleira,,0,2,2,,,,328223282
+2,West Indies,19,JB Nero,A Shrubsole,MR Aguilleira,,0,1,1,,,,328223282

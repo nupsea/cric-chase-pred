@@ -1,0 +1,75 @@
+inning,team_name,over_num,batsman_name,bowler,non_striker,extra_type,extra_run,total_run,batsman_run,dismissal_kind,dismissed_player,fielders_name,mergeid
+2,Greece,0,P Magafas,L Karlsson,A Manousis,,0,4,4,,,,32137232137
+2,Greece,0,P Magafas,L Karlsson,A Manousis,,0,0,0,caught,P Magafas,Hamid Mahmood,32137232137
+2,Greece,0,G Fatouros,L Karlsson,A Manousis,,0,1,1,,,,32137232137
+2,Greece,0,A Manousis,L Karlsson,G Fatouros,,0,0,0,lbw,A Manousis,,32137232137
+2,Greece,0,Alexandros Karvelas,L Karlsson,G Fatouros,,0,1,1,,,,32137232137
+2,Greece,0,G Fatouros,L Karlsson,Alexandros Karvelas,,0,0,0,,,,32137232137
+2,Greece,1,Alexandros Karvelas,A Venkatesh,G Fatouros,,0,0,0,,,,32137232137
+2,Greece,1,Alexandros Karvelas,A Venkatesh,G Fatouros,,0,0,0,,,,32137232137
+2,Greece,1,Alexandros Karvelas,A Venkatesh,G Fatouros,,0,0,0,,,,32137232137
+2,Greece,1,Alexandros Karvelas,A Venkatesh,G Fatouros,,0,0,0,,,,32137232137
+2,Greece,1,Alexandros Karvelas,A Venkatesh,G Fatouros,,0,0,0,,,,32137232137
+2,Greece,1,Alexandros Karvelas,A Venkatesh,G Fatouros,,0,1,1,,,,32137232137
+2,Greece,2,Alexandros Karvelas,L Karlsson,G Fatouros,,0,2,2,,,,32137232137
+2,Greece,2,Alexandros Karvelas,L Karlsson,G Fatouros,,0,0,0,,,,32137232137
+2,Greece,2,Alexandros Karvelas,L Karlsson,G Fatouros,,0,4,4,,,,32137232137
+2,Greece,2,Alexandros Karvelas,L Karlsson,G Fatouros,,0,0,0,,,,32137232137
+2,Greece,2,Alexandros Karvelas,L Karlsson,G Fatouros,,0,0,0,,,,32137232137
+2,Greece,2,Alexandros Karvelas,L Karlsson,G Fatouros,,0,1,1,,,,32137232137
+2,Greece,3,Alexandros Karvelas,Azam Khalil,G Fatouros,,0,6,6,,,,32137232137
+2,Greece,3,Alexandros Karvelas,Azam Khalil,G Fatouros,,0,1,1,,,,32137232137
+2,Greece,3,G Fatouros,Azam Khalil,Alexandros Karvelas,,0,0,0,,,,32137232137
+2,Greece,3,G Fatouros,Azam Khalil,Alexandros Karvelas,,0,0,0,,,,32137232137
+2,Greece,3,G Fatouros,Azam Khalil,Alexandros Karvelas,,0,0,0,caught,G Fatouros,Ankit Dubey,32137232137
+2,Greece,3,S Bogdos,Azam Khalil,Alexandros Karvelas,,0,0,0,,,,32137232137
+2,Greece,4,Alexandros Karvelas,A Venkatesh,S Bogdos,,0,1,1,,,,32137232137
+2,Greece,4,S Bogdos,A Venkatesh,Alexandros Karvelas,,0,1,1,,,,32137232137
+2,Greece,4,Alexandros Karvelas,A Venkatesh,S Bogdos,,0,0,0,,,,32137232137
+2,Greece,4,Alexandros Karvelas,A Venkatesh,S Bogdos,,0,0,0,,,,32137232137
+2,Greece,4,Alexandros Karvelas,A Venkatesh,S Bogdos,,0,1,1,,,,32137232137
+2,Greece,4,S Bogdos,A Venkatesh,Alexandros Karvelas,,0,0,0,,,,32137232137
+2,Greece,5,Alexandros Karvelas,Azam Khalil,S Bogdos,,0,0,0,,,,32137232137
+2,Greece,5,Alexandros Karvelas,Azam Khalil,S Bogdos,,0,6,6,,,,32137232137
+2,Greece,5,Alexandros Karvelas,Azam Khalil,S Bogdos,,0,0,0,,,,32137232137
+2,Greece,5,Alexandros Karvelas,Azam Khalil,S Bogdos,,0,0,0,,,,32137232137
+2,Greece,5,Alexandros Karvelas,Azam Khalil,S Bogdos,,0,0,0,bowled,Alexandros Karvelas,,32137232137
+2,Greece,5,C Bogdanos,Azam Khalil,S Bogdos,,0,1,1,,,,32137232137
+2,Greece,6,C Bogdanos,Ankit Dubey,S Bogdos,,0,0,0,,,,32137232137
+2,Greece,6,C Bogdanos,Ankit Dubey,S Bogdos,wides,1,1,0,,,,32137232137
+2,Greece,6,C Bogdanos,Ankit Dubey,S Bogdos,,0,1,1,,,,32137232137
+2,Greece,6,S Bogdos,Ankit Dubey,C Bogdanos,,0,0,0,,,,32137232137
+2,Greece,6,S Bogdos,Ankit Dubey,C Bogdanos,,0,0,0,,,,32137232137
+2,Greece,6,S Bogdos,Ankit Dubey,C Bogdanos,,0,0,0,,,,32137232137
+2,Greece,6,S Bogdos,Ankit Dubey,C Bogdanos,,0,0,0,,,,32137232137
+2,Greece,7,C Bogdanos,Azam Khalil,S Bogdos,,0,0,0,,,,32137232137
+2,Greece,7,C Bogdanos,Azam Khalil,S Bogdos,,0,0,0,,,,32137232137
+2,Greece,7,C Bogdanos,Azam Khalil,S Bogdos,,0,1,1,,,,32137232137
+2,Greece,7,S Bogdos,Azam Khalil,C Bogdanos,,0,0,0,,,,32137232137
+2,Greece,7,S Bogdos,Azam Khalil,C Bogdanos,,0,0,0,,,,32137232137
+2,Greece,7,S Bogdos,Azam Khalil,C Bogdanos,,0,0,0,,,,32137232137
+2,Greece,8,C Bogdanos,Ankit Dubey,S Bogdos,,0,1,1,,,,32137232137
+2,Greece,8,S Bogdos,Ankit Dubey,C Bogdanos,,0,0,0,lbw,S Bogdos,,32137232137
+2,Greece,8,AS Mehmi,Ankit Dubey,C Bogdanos,,0,4,4,,,,32137232137
+2,Greece,8,AS Mehmi,Ankit Dubey,C Bogdanos,,0,0,0,,,,32137232137
+2,Greece,8,AS Mehmi,Ankit Dubey,C Bogdanos,,0,0,0,bowled,AS Mehmi,,32137232137
+2,Greece,8,GC Galanis,Ankit Dubey,C Bogdanos,,0,0,0,,,,32137232137
+2,Greece,9,C Bogdanos,Azam Khalil,GC Galanis,,0,0,0,,,,32137232137
+2,Greece,9,C Bogdanos,Azam Khalil,GC Galanis,,0,0,0,,,,32137232137
+2,Greece,9,C Bogdanos,Azam Khalil,GC Galanis,,0,0,0,,,,32137232137
+2,Greece,9,C Bogdanos,Azam Khalil,GC Galanis,,0,0,0,,,,32137232137
+2,Greece,9,C Bogdanos,Azam Khalil,GC Galanis,,0,0,0,,,,32137232137
+2,Greece,9,C Bogdanos,Azam Khalil,GC Galanis,,0,0,0,lbw,C Bogdanos,,32137232137
+2,Greece,10,GC Galanis,Ankit Dubey,T Zotos,,0,0,0,,,,32137232137
+2,Greece,10,GC Galanis,Ankit Dubey,T Zotos,,0,1,1,,,,32137232137
+2,Greece,10,T Zotos,Ankit Dubey,GC Galanis,wides,1,1,0,,,,32137232137
+2,Greece,10,T Zotos,Ankit Dubey,GC Galanis,wides,1,1,0,,,,32137232137
+2,Greece,10,T Zotos,Ankit Dubey,GC Galanis,,0,0,0,,,,32137232137
+2,Greece,10,T Zotos,Ankit Dubey,GC Galanis,,0,0,0,bowled,T Zotos,,32137232137
+2,Greece,10,I Bardis,Ankit Dubey,GC Galanis,,0,0,0,,,,32137232137
+2,Greece,10,I Bardis,Ankit Dubey,GC Galanis,,0,0,0,,,,32137232137
+2,Greece,11,GC Galanis,Zaker Taqawi,I Bardis,,0,1,1,,,,32137232137
+2,Greece,11,I Bardis,Zaker Taqawi,GC Galanis,,0,0,0,lbw,I Bardis,,32137232137
+2,Greece,11,Ali Abdulla Popalzae,Zaker Taqawi,GC Galanis,,0,0,0,,,,32137232137
+2,Greece,11,Ali Abdulla Popalzae,Zaker Taqawi,GC Galanis,,0,0,0,,,,32137232137
+2,Greece,11,Ali Abdulla Popalzae,Zaker Taqawi,GC Galanis,,0,0,0,bowled,Ali Abdulla Popalzae,,32137232137
