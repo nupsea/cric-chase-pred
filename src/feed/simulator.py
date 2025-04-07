@@ -27,7 +27,7 @@ def produce(match_id, innings, min_delay=1, max_delay=3):
 
     # start of match clear state
     event_value = {
-        "inning": 0,
+        "inning": 1 if innings == "first" else 2,
         "team_name": "",
         "over_num": 0,
         "batsman_name": "",
