@@ -1,6 +1,5 @@
+from src.feed import MATCH_ID
 from src.feed.simulator import produce
-
-MATCH_ID = "38238"
 
 # Delay between deliveries
 MIN_DELAY = 1
