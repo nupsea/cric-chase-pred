@@ -36,17 +36,14 @@ pipenv install
 
 
 ## Run
-Ensure, kafka is running and the topics `t20-deliveries` and `t20-model-input` are created in the kafka cluster.
-On macOS, you can start the Kafka and Redis servers using the following commands:
+You can start the Kafka cluster using the following commands:
 ```bash
 
-bin/zookeeper-server-start.sh config/zookeeper.properties
-bin/kafka-server-start.sh config/server.properties
-
-bin/kafka-topics.sh --create --topic t20-deliveries --bootstrap-server localhost:9092 --partitions 1 --replication-factor 1
-bin/kafka-topics.sh --create --topic t20-model-input --bootstrap-server localhost:9092 --partitions 1 --replication-factor 1
+cd docker/kafka
+docker-compose up -d
 
 ```
+Ensure, kafka is running and the topics `t20-deliveries` and `t20-model-input` are created in the kafka cluster.
 
 Load the project into your PyCharm IDE and run the `stream_runner.py` file under src/exec to start the PyFlink job.
 

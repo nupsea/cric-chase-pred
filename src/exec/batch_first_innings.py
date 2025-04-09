@@ -47,7 +47,7 @@ def delivery_source(env, batch=False):
 
     else:
         kafka_props = {
-            "bootstrap.servers": "localhost:9092",
+            "bootstrap.servers": "localhost:9094",
             "group.id": "first-innings-group",
         }
         kafka_consumer = FlinkKafkaConsumer(

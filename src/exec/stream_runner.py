@@ -17,7 +17,7 @@ def main():
     config.set_string("execution.checkpointing.interval", "60000")
     config.set_string(
         "state.checkpoints.dir",
-        "file:///Users/sethurama/DEV/LM/cric-chase-pred/checkpoints/c2",
+        "file:///Users/sethurama/DEV/LM/cric-chase-pred/checkpoints/c3",
     )
     config.set_string("parallelism.default", "2")
 
@@ -33,8 +33,10 @@ def main():
         topics="t20-deliveries",
         deserialization_schema=SimpleStringSchema(),
         properties={
-            "bootstrap.servers": "localhost:9092",
+            "bootstrap.servers": "localhost:9094",
             "group.id": "t20-deliveries-consumer",
+            "security.protocol": "plaintext",
+            "client.id": "my-python-client",
             "auto.offset.reset": "latest",
         },
     )
@@ -94,7 +96,7 @@ def main():
         topic="t20-model-input",
         serialization_schema=SimpleStringSchema(),
         producer_config={
-            "bootstrap.servers": "localhost:9092",
+            "bootstrap.servers": "localhost:9094",
         },
     )
 

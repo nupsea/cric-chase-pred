@@ -1,0 +1,63 @@
+version: '3'
+services:
+  zookeeper:
+    image: confluentinc/cp-zookeeper:7.3.0
+    container_name: cp-zookeeper
+    environment:
+      ZOOKEEPER_CLIENT_PORT: 2181
+      ZOOKEEPER_TICK_TIME: 2000
+      ZOOKEEPER_SYNC_LIMIT: 2
+    ports:
+      - "2181:2181"
+
+  kafka:
+    image: confluentinc/cp-kafka:7.3.0
+    container_name: cp-kafka
+    depends_on:
+      - zookeeper
+    ports:
+      - "9092:9092"     # Internal listener port for Docker network and inter-broker communication
+      - "9094:9094"     # External listener port for clients (e.g. your Python process)
+    environment:
+      # Basic broker settings
+      - KAFKA_BROKER_ID=1
+      - KAFKA_ZOOKEEPER_CONNECT=cp-zookeeper:2181
+      - KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR=1
+
+      # Define two listeners: one for internal (PLAINTEXT) and one for external (EXTERNAL)
+      - KAFKA_LISTENERS=PLAINTEXT://0.0.0.0:9092,EXTERNAL://0.0.0.0:9094
+      # Advertise the internal listener as “cp-kafka” (resolvable by containers) and the external one as localhost
+      - KAFKA_ADVERTISED_LISTENERS=PLAINTEXT://cp-kafka:9092,EXTERNAL://localhost:9094
+      - KAFKA_LISTENER_SECURITY_PROTOCOL_MAP=PLAINTEXT:PLAINTEXT,EXTERNAL:PLAINTEXT
+      - KAFKA_INTER_BROKER_LISTENER_NAME=PLAINTEXT
+
+      # Enable auto topic creation (for development – you can set this to false and create topics manually if needed)
+      - KAFKA_AUTO_CREATE_TOPICS_ENABLE=true
+
+    networks:
+      default:
+        aliases:
+          - cp-kafka
+
+
+  kafka-init:
+    image: confluentinc/cp-kafka:7.3.0
+    depends_on:
+      - kafka
+    networks:
+      - default
+    entrypoint: >
+      bash -c "
+      echo 'Waiting for Kafka to become available...' &&
+      until kafka-topics --bootstrap-server kafka:9092 --list > /dev/null 2>&1; do
+          sleep 5;
+      done;
+      echo 'Kafka is ready. Creating required topics...' &&
+      kafka-topics --bootstrap-server kafka:9092 --create --topic t20-deliveries --partitions 2 --replication-factor 1 &&
+      kafka-topics --bootstrap-server kafka:9092 --create --topic t20-model-input --partitions 2 --replication-factor 1 &&
+      echo 'Topics created.' && sleep 10
+      "
+
+networks:
+  default:
+    driver: bridge

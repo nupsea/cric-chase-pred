@@ -1,4 +1,5 @@
 import csv
+import json
 
 
 def get_records_for_match(csv_file_path, desired_match_id):
@@ -15,6 +16,6 @@ def get_records_for_match(csv_file_path, desired_match_id):
     return filtered
 
 
-def row_to_json(row):
-    row_dict = dict(zip(field_names, row))
+def row_to_json(fields, row):
+    row_dict = dict(zip(fields, row))
     return json.dumps(row_dict)

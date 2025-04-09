@@ -7,7 +7,7 @@ from confluent_kafka import Producer
 from src.util.file_util import get_records_for_match
 
 KAFKA_TOPIC = "t20-deliveries"
-KAFKA_BROKER = "localhost:9092"
+KAFKA_BROKER = "localhost:9094"
 
 
 def delivery_report(err, msg):
@@ -21,7 +21,7 @@ def delivery_report(err, msg):
 
 
 def produce(match_id, innings, min_delay=1, max_delay=3):
-    conf = {"bootstrap.servers": KAFKA_BROKER}
+    conf = {"bootstrap.servers": KAFKA_BROKER, "security.protocol": "plaintext"}
     producer = Producer(**conf)
     data_file_path = f"/Users/sethurama/DEV/LM/cric-chase-pred/data/match_{match_id}/{innings}_innings.csv"
 
